@@ -1,6 +1,5 @@
 var a27583 =
 [
-    [ "npc_fireworkAI", "d9/dab/a27587.html", "d9/dab/a27587" ],
-    [ "npc_firework", "d8/d08/a27583.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
-    [ "GetAI", "d8/d08/a27583.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
+    [ "go_soulwellAI", "d8/d08/a27583.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
+    [ "GossipHello", "d8/d08/a27583.html#a3df147478af8930d9b6108a183e9478f", null ]
 ];

@@ -1,5 +1,7 @@
 var a19539 =
 [
-    [ "boss_sjonnir_dwarfAI", "d6/d27/a19539.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
-    [ "UpdateAI", "d6/d27/a19539.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
+    [ "HandlePull", "d6/d27/a19539.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
+    [ "PrepareSpellScript", "d6/d27/a19539.html#ac192245513e162a2842e47f5b0d64338", null ],
+    [ "Register", "d6/d27/a19539.html#af6c7a881c2fcf07461006fef63074e5e", null ],
+    [ "SelectTarget", "d6/d27/a19539.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
 ];

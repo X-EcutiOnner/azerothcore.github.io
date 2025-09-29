@@ -1,6 +1,8 @@
 var a12195 =
 [
-    [ "boss_firemawAI", "d6/d12/a12199.html", "d6/d12/a12199" ],
-    [ "boss_firemaw", "d1/d1b/a12195.html#a71174eb128356802be0029fd9e24fe1f", null ],
-    [ "GetAI", "d1/d1b/a12195.html#a3a20bcefa86a21daaecaef14396dadc4", null ]
+    [ "boss_halyconAI", "d1/d1b/a12195.html#acc110d5d802fc0da3ea630f667167748", null ],
+    [ "JustDied", "d1/d1b/a12195.html#a7d71e135a8edf3d3b99ccfcb3b071eaa", null ],
+    [ "JustEngagedWith", "d1/d1b/a12195.html#a5735567462167fffa4d01800d696296e", null ],
+    [ "Reset", "d1/d1b/a12195.html#ac5622260b0b40cb584cf3037521cc5b8", null ],
+    [ "UpdateAI", "d1/d1b/a12195.html#a6e72949b63de3d32d8369c7122b6060d", null ]
 ];

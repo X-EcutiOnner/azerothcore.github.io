@@ -1,6 +1,5 @@
 var a12855 =
 [
-    [ "npc_unworthy_initiateAI", "d1/d7e/a12859.html", "d1/d7e/a12859" ],
-    [ "npc_unworthy_initiate", "d8/dd4/a12855.html#aaa04626b783eadc0b14bd89aa715e694", null ],
-    [ "GetAI", "d8/dd4/a12855.html#a0912cc56cb2082b2de086cbd9b914b4a", null ]
+    [ "PrepareSpellScript", "d8/dd4/a12855.html#a50d6ebe961a0841e10537a434a741072", null ],
+    [ "Register", "d8/dd4/a12855.html#abc2f73133448278e0bf1bc589917dfd1", null ]
 ];

@@ -1,7 +1,5 @@
 var a05351 =
 [
-    [ "MetricStopWatch", "df/d5e/a05351.html#a2007207e0985949f478fdeee300ea0d5", null ],
-    [ "~MetricStopWatch", "df/d5e/a05351.html#a712b660e090531e69455096afeb60c4c", null ],
-    [ "_logger", "df/d5e/a05351.html#a3af6d8a1a621f5e39b2d691ffbe2375c", null ],
-    [ "_startTime", "df/d5e/a05351.html#a74ad62e26a4f6598c76ca5c2d928d3a2", null ]
+    [ "Decode", "df/d5e/a05351.html#a16eb5c0306f404a3be454430abd01610", null ],
+    [ "Encode", "df/d5e/a05351.html#a5c439d87d1532c68023e2d612d874e5f", null ]
 ];

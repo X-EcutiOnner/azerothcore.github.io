@@ -1,11 +1,4 @@
 var a22763 =
 [
-    [ "boss_high_nethermancer_zerevor", "df/d4b/a22763.html#a2d3ce1a6d972c0b58efe5aad31014c09", null ],
-    [ "AttackStart", "df/d4b/a22763.html#a270961bd3af6ce65eebc79130f4e3d47", null ],
-    [ "CastDampenMagicIfPossible", "df/d4b/a22763.html#ab0af23baf43d377935811c52a346c566", null ],
-    [ "JustEngagedWith", "df/d4b/a22763.html#a390f939ba01ee189fc55670eb4ff1a7e", null ],
-    [ "OnAuraRemove", "df/d4b/a22763.html#a7dd31808dbf00f77b59fce84249778fe", null ],
-    [ "Reset", "df/d4b/a22763.html#afd7a419de217b3d129f783ddc87780af", null ],
-    [ "UpdateAI", "df/d4b/a22763.html#ae1ec04a655525cbb2a6a3c7e382cf078", null ],
-    [ "_canCastDampenMagic", "df/d4b/a22763.html#a72c89454c2b0754690ae72fd7aacb0e8", null ]
+    [ "idPatrol", "df/d4b/a22763.html#a1fbc40a9798b89ae8b903b1f5a6a8e67", null ]
 ];

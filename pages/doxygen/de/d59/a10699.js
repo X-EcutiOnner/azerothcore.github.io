@@ -1,6 +1,6 @@
 var a10699 =
 [
-    [ "GuildBankTextQuery", "de/d59/a10699.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
-    [ "Read", "de/d59/a10699.html#af20bd5c8e58b891028613625fb14807d", null ],
-    [ "Tab", "de/d59/a10699.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
+    [ "GuildDemoteMember", "de/d59/a10699.html#aa3d68021828c516d7b1995811e8df7d7", null ],
+    [ "Read", "de/d59/a10699.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
+    [ "Demotee", "de/d59/a10699.html#a60c7e56c201d794fb473a62fccc160bb", null ]
 ];

@@ -1,7 +1,7 @@
 var a13703 =
 [
-    [ "npc_daphne_stilwellAI", "db/d8e/a13707.html", "db/d8e/a13707" ],
-    [ "npc_daphne_stilwell", "d1/da4/a13703.html#ad844c5f0409936d7068ee55271506041", null ],
-    [ "GetAI", "d1/da4/a13703.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
-    [ "OnQuestAccept", "d1/da4/a13703.html#ad7b293efc802506a825f202e34cb0f4d", null ]
+    [ "HandleScriptEffect", "d1/da4/a13703.html#aa537704c2066df4f5b4c60a775026a83", null ],
+    [ "PrepareSpellScript", "d1/da4/a13703.html#ac500902c22102ebfc6dcf6f78f0dd8c1", null ],
+    [ "Register", "d1/da4/a13703.html#a1d9cfdc65bd5ae76376e709d0ac891c0", null ],
+    [ "Validate", "d1/da4/a13703.html#a9ef5a491b5a06c31cdb0249dc086e32f", null ]
 ];

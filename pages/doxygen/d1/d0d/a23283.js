@@ -1,5 +1,7 @@
 var a23283 =
 [
-    [ "boss_quagmirran", "d1/d0d/a23283.html#a7f6289b86216b052f434a1417023e22c", null ],
-    [ "JustEngagedWith", "d1/d0d/a23283.html#a28253b6653bd2e26e7f246c71a88b625", null ]
+    [ "HandleEffectRemove", "d1/d0d/a23283.html#a070e0dacb457d7dc0bd61594f0ed6d83", null ],
+    [ "PrepareAuraScript", "d1/d0d/a23283.html#ac30073d35c40385a24b694012776391e", null ],
+    [ "Register", "d1/d0d/a23283.html#ae66eceece2812aee47acb386735f50a0", null ],
+    [ "Validate", "d1/d0d/a23283.html#af26c0361e6b7e480f59563d8630d6736", null ]
 ];

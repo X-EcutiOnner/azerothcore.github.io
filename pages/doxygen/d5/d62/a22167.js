@@ -1,8 +1,9 @@
 var a22167 =
 [
-    [ "CheckCast", "d5/d62/a22167.html#ab1584c391ac81b8338387acc6187001f", null ],
-    [ "HandleDummy", "d5/d62/a22167.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
-    [ "PrepareSpellScript", "d5/d62/a22167.html#a08d9ffb7dcbe786071979166e0489336", null ],
-    [ "Register", "d5/d62/a22167.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
-    [ "Validate", "d5/d62/a22167.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
+    [ "npc_wounded_skirmisher", "d5/d62/a22167.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
+    [ "Initialize", "d5/d62/a22167.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
+    [ "JustEngagedWith", "d5/d62/a22167.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
+    [ "Reset", "d5/d62/a22167.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
+    [ "SpellHit", "d5/d62/a22167.html#a891e879af5da1f181c94e528c59a81f1", null ],
+    [ "UpdateAI", "d5/d62/a22167.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
 ];

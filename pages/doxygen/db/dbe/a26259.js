@@ -1,6 +1,7 @@
 var a26259 =
 [
-    [ "HandleScriptEffect", "db/dbe/a26259.html#a7dc7cb2dcdd6518a253a459e2e711c89", null ],
-    [ "PrepareSpellScript", "db/dbe/a26259.html#a9c41ae2e7ef1947c11c16d8abb48ec56", null ],
-    [ "Register", "db/dbe/a26259.html#a5b2a218cca68177209ca42be9dfbc8ea", null ]
+    [ "CalculateSpellAmount", "db/dbe/a26259.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
+    [ "CheckCast", "db/dbe/a26259.html#af043f7ee0f80baf667e64225effd57d1", null ],
+    [ "PrepareSpellScript", "db/dbe/a26259.html#a233ac4020722078d865cf980d7fa76cf", null ],
+    [ "Register", "db/dbe/a26259.html#a3648ecd94430e21dd014795156c1eb98", null ]
 ];

@@ -1,7 +1,6 @@
 var a25887 =
 [
-    [ "CheckCast", "df/da7/a25887.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
-    [ "HandleEffect", "df/da7/a25887.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
-    [ "PrepareSpellScript", "df/da7/a25887.html#aa63cb903e7c6037a6c08381334ccc126", null ],
-    [ "Register", "df/da7/a25887.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
+    [ "HandleScript", "df/da7/a25887.html#a9309c0e435240bc656b3bfde2d923a9a", null ],
+    [ "PrepareSpellScript", "df/da7/a25887.html#a74dc9d9a57ed410b3c0d690418bfb4eb", null ],
+    [ "Register", "df/da7/a25887.html#a8769cbce815d1f1c457979743e10535c", null ]
 ];

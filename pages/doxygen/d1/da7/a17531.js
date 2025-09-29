@@ -1,7 +1,7 @@
 var a17531 =
 [
-    [ "npc_gunship_boarding_leaderAI", "d1/da7/a17531.html#ac20099905fd6fddda2561b88cf077b77", null ],
-    [ "JustEngagedWith", "d1/da7/a17531.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
-    [ "UpdateAI", "d1/da7/a17531.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
-    [ "_events", "d1/da7/a17531.html#affb899bbaa288e72a48d5518367b023d", null ]
+    [ "HandleScript", "d1/da7/a17531.html#a4b1e392acea30a9259e65a75667704c5", null ],
+    [ "Load", "d1/da7/a17531.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
+    [ "PrepareSpellScript", "d1/da7/a17531.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
+    [ "Register", "d1/da7/a17531.html#a77632d11a172e5552c0c49de830a1639", null ]
 ];

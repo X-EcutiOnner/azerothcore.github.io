@@ -1,24 +1,10 @@
 var a19331 =
 [
-    [ "boss_uromAI", "dd/da0/a19331.html#abeb96b1a52d3daf6d8df91a4ce96dfa8", null ],
-    [ "AttackStart", "dd/da0/a19331.html#ab9f197acf29e3616ef121d6c06573ccd", null ],
-    [ "EnterEvadeMode", "dd/da0/a19331.html#aaf668ef4af475ec259e909567fda5d66", null ],
-    [ "GetPhaseByCurrentPosition", "dd/da0/a19331.html#ab389d9d13a4a2fcca0498b1313093c17", null ],
-    [ "JustDied", "dd/da0/a19331.html#a2e675e9df2dbe084b27ee81a8e33ee70", null ],
-    [ "JustEngagedWith", "dd/da0/a19331.html#a02dbc09934058463d93b88268c70ca7c", null ],
-    [ "JustSummoned", "dd/da0/a19331.html#ad298bdd2619770af73265b10e77f1190", null ],
-    [ "KilledUnit", "dd/da0/a19331.html#abb34f62f4e4a7f88909b1293163b8c8e", null ],
-    [ "LeaveCombat", "dd/da0/a19331.html#adbc7a01adc7dd95894f3d175677353e3", null ],
-    [ "MoveInLineOfSight", "dd/da0/a19331.html#ad195384e0216075b7cae67875a0d7284", null ],
-    [ "Reset", "dd/da0/a19331.html#a6b8817aec3aacbedbb290c178f5b9eb0", null ],
-    [ "SpellHit", "dd/da0/a19331.html#a669ede4aef5ca1da7bcca867d7231c35", null ],
-    [ "UpdateAI", "dd/da0/a19331.html#a037de8c5598890701fcef021abd14c71", null ],
-    [ "events", "dd/da0/a19331.html#a97732ed404611bee7168e1f04722426c", null ],
-    [ "inCenter", "dd/da0/a19331.html#a8a79ebc3f12e2e9b1001f81132ef4259", null ],
-    [ "lock", "dd/da0/a19331.html#a9f8635cb44dd5ac3b148c69890cfb38f", null ],
-    [ "pInstance", "dd/da0/a19331.html#ab4ef43ca30ccf83c81245db164288794", null ],
-    [ "releaseLockTimer", "dd/da0/a19331.html#ab96273a14e3cec773d8fe79ca774ec52", null ],
-    [ "x", "dd/da0/a19331.html#a8993238ebdb4b2cc2cb92e75f705d465", null ],
-    [ "y", "dd/da0/a19331.html#ae4948d320ec32a56f514f8f01061c524", null ],
-    [ "z", "dd/da0/a19331.html#a7bd99156fdc38c22d43e46da8509e8c7", null ]
+    [ "boss_patchwerkAI", "dd/da0/a19331.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "dd/da0/a19331.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "dd/da0/a19331.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "dd/da0/a19331.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "dd/da0/a19331.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "dd/da0/a19331.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "dd/da0/a19331.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

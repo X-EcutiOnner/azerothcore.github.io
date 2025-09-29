@@ -1,6 +1,7 @@
 var a11291 =
 [
-    [ "EffectCalcSpellModHandler", "da/dd0/a11291.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
-    [ "Call", "da/dd0/a11291.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
-    [ "pEffectHandlerScript", "da/dd0/a11291.html#a15c0b24641cb04f31bb3d651dae59448", null ]
+    [ "WorldObjectSpellAreaTargetCheck", "da/dd0/a11291.html#a2b017300220426ac42de18e3a8699219", null ],
+    [ "operator()", "da/dd0/a11291.html#a36a7194e3ffbdc2ea1c4bd5ed5997da4", null ],
+    [ "_position", "da/dd0/a11291.html#a680c45dd148161657da011a1772375ca", null ],
+    [ "_range", "da/dd0/a11291.html#a4ee3762b4a7f35d252cbb5337d61d92c", null ]
 ];

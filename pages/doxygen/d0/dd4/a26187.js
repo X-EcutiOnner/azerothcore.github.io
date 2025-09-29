@@ -1,6 +1,7 @@
 var a26187 =
 [
-    [ "HandleDamage", "d0/dd4/a26187.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
-    [ "PrepareSpellScript", "d0/dd4/a26187.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
-    [ "Register", "d0/dd4/a26187.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
+    [ "OnApply", "d0/dd4/a26187.html#aa86d7b45f028773b8666c06d3a0e60b4", null ],
+    [ "OnRemove", "d0/dd4/a26187.html#a0fdd3c926bb1b2846579102e64e8e18c", null ],
+    [ "PrepareAuraScript", "d0/dd4/a26187.html#aa93b45e31c33caf3ea51a26846566b34", null ],
+    [ "Register", "d0/dd4/a26187.html#a56d819c88a4e70a89cef5183e3c5b728", null ]
 ];

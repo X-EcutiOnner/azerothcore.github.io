@@ -1,9 +1,7 @@
 var a28635 =
 [
-    [ "MapTiles", "d8/d4a/a28635.html#abc58d7154eab45ae26df27e2e82dac63", null ],
-    [ "MapTiles", "d8/d4a/a28635.html#a406efc53593b5bceb0a491c0b7553350", null ],
-    [ "~MapTiles", "d8/d4a/a28635.html#aec1baac21c06380ba71ff5e610152519", null ],
-    [ "operator==", "d8/d4a/a28635.html#a3e7a87f421e8eb23926afe1d0978c3b4", null ],
-    [ "m_mapId", "d8/d4a/a28635.html#a2fc10edf226a6f4548c2175e1013c1b9", null ],
-    [ "m_tiles", "d8/d4a/a28635.html#ab80305bb73234e35a528701d775954b5", null ]
+    [ "Flags", "d8/d4a/a28635.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
+    [ "ID", "d8/d4a/a28635.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
+    [ "RangeMax", "d8/d4a/a28635.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
+    [ "RangeMin", "d8/d4a/a28635.html#a127a46f2382edea750ca567d5ea3d304", null ]
 ];

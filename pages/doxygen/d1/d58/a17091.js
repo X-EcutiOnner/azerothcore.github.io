@@ -1,15 +1,12 @@
 var a17091 =
 [
-    [ "boss_drakkari_colossusAI", "d1/d58/a17091.html#a28594cf76c5b1977a4f70ba0c3811646", null ],
-    [ "DamageTaken", "d1/d58/a17091.html#ae31f77e5b63fee3d0745919ed737b599", null ],
-    [ "DoAction", "d1/d58/a17091.html#a8e72a38f6a605cafa2667ca585cf0761", null ],
-    [ "InitializeAI", "d1/d58/a17091.html#aa268314e8be79ce2500ab7bb96204766", null ],
-    [ "JustEngagedWith", "d1/d58/a17091.html#ae88b465b2136afd4f5cf7763e0069106", null ],
-    [ "JustReachedHome", "d1/d58/a17091.html#a93f73f204d07b4805f4a7dd240a96d13", null ],
-    [ "JustSummoned", "d1/d58/a17091.html#ab58d286bb6f0ea94c2eb70e52e513ad4", null ],
-    [ "MoveInLineOfSight", "d1/d58/a17091.html#ae1151f6fc9f9ca011a7d476f7d1c6927", null ],
-    [ "Reset", "d1/d58/a17091.html#a5e9c6da15df58a206533a7c718056c3e", null ],
-    [ "SummonedCreatureDespawn", "d1/d58/a17091.html#a58658947c4fc115ea9c1d6f1edd1332e", null ],
-    [ "SummonedCreatureDies", "d1/d58/a17091.html#a59f9efbc2964eec057606d69458b4402", null ],
-    [ "UpdateAI", "d1/d58/a17091.html#afc816b7d1c2705675560ddd13ecce22d", null ]
+    [ "npc_spectral_footmanAI", "d1/d58/a17091.html#a746b1d15b70be293f61669ce4a945732", null ],
+    [ "AttackStart", "d1/d58/a17091.html#ac6f9dadff44c805adfac855778b1c9d2", null ],
+    [ "DoAction", "d1/d58/a17091.html#a466b878e60c1bf89603c261110d88b25", null ],
+    [ "EnterEvadeMode", "d1/d58/a17091.html#a66c9cceae4c2ae5574369744486e3e57", null ],
+    [ "JustDied", "d1/d58/a17091.html#afbab6772ff97ca9355ca5f4ac194ce0d", null ],
+    [ "JustEngagedWith", "d1/d58/a17091.html#a3d3eff22cb453e2ea0164e7f45bb6e5b", null ],
+    [ "Reset", "d1/d58/a17091.html#a3a8151da7ec1d63966ffc5e5b7e9e931", null ],
+    [ "UpdateAI", "d1/d58/a17091.html#ad1da2bc8fdc3a3fce51b9a633fd56574", null ],
+    [ "events", "d1/d58/a17091.html#aa5420d5e57447c7f89c0560ae07b3503", null ]
 ];

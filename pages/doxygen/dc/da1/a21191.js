@@ -1,6 +1,6 @@
 var a21191 =
 [
-    [ "HandleOnHit", "dc/da1/a21191.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "dc/da1/a21191.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "dc/da1/a21191.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "CheckCast", "dc/da1/a21191.html#a715a58956db4253c8adfed039833debd", null ],
+    [ "PrepareSpellScript", "dc/da1/a21191.html#a3b03178d8ab54db36a19ba5a27444917", null ],
+    [ "Register", "dc/da1/a21191.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
 ];

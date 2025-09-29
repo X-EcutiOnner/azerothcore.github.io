@@ -1,13 +1,5 @@
 var a27991 =
 [
-    [ "HasFlag", "d4/daa/a27991.html#a5d13e1af17cddf3acdbfc5387869e43f", null ],
-    [ "CinematicSequence", "d4/daa/a27991.html#a33a01b1c26b21706d9898af246f2a0df", null ],
-    [ "expansion", "d4/daa/a27991.html#ab6547f8b08d4d1bf57a37f9574b71e43", null ],
-    [ "FactionID", "d4/daa/a27991.html#a5c66801f2f89aeb847699a2dd87486c7", null ],
-    [ "Flags", "d4/daa/a27991.html#a8c2d30fb87284806a93d4c1da4a6edb0", null ],
-    [ "model_f", "d4/daa/a27991.html#a4807227fd863e247b18d29db0ea8236a", null ],
-    [ "model_m", "d4/daa/a27991.html#a50b5409352d7fe3e6f5919d83c9a0eae", null ],
-    [ "name", "d4/daa/a27991.html#a4970323e45feb3f74b47420648371ab6", null ],
-    [ "RaceID", "d4/daa/a27991.html#a853f3262af3408cf2791e7cd08ec8d32", null ],
-    [ "TeamID", "d4/daa/a27991.html#addd21f5fbf6868e7cf2cd3c54c7172a1", null ]
+    [ "npc_sunwell_gate", "d4/daa/a27991.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
+    [ "OnQuestReward", "d4/daa/a27991.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
 ];

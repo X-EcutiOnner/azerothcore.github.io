@@ -1,6 +1,6 @@
 var a17287 =
 [
-    [ "KnockIntoAir", "dd/ddc/a17287.html#a1f9fb1f258613ca6657abba26969961f", null ],
-    [ "PrepareSpellScript", "dd/ddc/a17287.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
-    [ "Register", "dd/ddc/a17287.html#a35a7758630c1769228fedff84ad929e8", null ]
+    [ "npc_pos_martin_or_gorkun_secondAI", "da/d21/a17291.html", "da/d21/a17291" ],
+    [ "npc_pos_martin_or_gorkun_second", "dd/ddc/a17287.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
+    [ "GetAI", "dd/ddc/a17287.html#a180936e3bb98eb55d29ebd51350906c0", null ]
 ];

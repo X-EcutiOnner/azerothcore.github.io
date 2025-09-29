@@ -1,12 +1,21 @@
 var a11735 =
 [
-    [ "wp_commandscript", "d2/df9/a11735.html#a152610b5faf3ee05bb830bbf820b7162", null ],
-    [ "GetCommands", "d2/df9/a11735.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
-    [ "HandleWpAddCommand", "d2/df9/a11735.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
-    [ "HandleWpEventCommand", "d2/df9/a11735.html#a16fdb79724677307198ccf2fd6aa670d", null ],
-    [ "HandleWpLoadCommand", "d2/df9/a11735.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
-    [ "HandleWpModifyCommand", "d2/df9/a11735.html#a83677a6b64c3e5f6e44345026775721a", null ],
-    [ "HandleWpReloadCommand", "d2/df9/a11735.html#a671598d3727fa7e9358391008c690cb6", null ],
-    [ "HandleWpShowCommand", "d2/df9/a11735.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
-    [ "HandleWpUnLoadCommand", "d2/df9/a11735.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
+    [ "account_commandscript", "d2/df9/a11735.html#acfea28449f30913389ab2eddfc512dbb", null ],
+    [ "GetCommands", "d2/df9/a11735.html#a28baac859fcc2ee8bbf00dcdf7b38f4d", null ],
+    [ "HandleAccount2FARemoveCommand", "d2/df9/a11735.html#a9cba65441f9e594e14ff55537f7f83f0", null ],
+    [ "HandleAccount2FASetupCommand", "d2/df9/a11735.html#aedfc70990dd6211938baad8b11a45e8c", null ],
+    [ "HandleAccountAddonCommand", "d2/df9/a11735.html#ac05636d86ea945c48fdf2c8565029e2e", null ],
+    [ "HandleAccountCommand", "d2/df9/a11735.html#aca24ee7a088839552cdf75c0a418d4e3", null ],
+    [ "HandleAccountCreateCommand", "d2/df9/a11735.html#af8b6cb76e8a6f762b86c3a8d7134d056", null ],
+    [ "HandleAccountDeleteCommand", "d2/df9/a11735.html#a4bb0b76ef822011054d699df31f60d7e", null ],
+    [ "HandleAccountLockCountryCommand", "d2/df9/a11735.html#a35e6b959596f1d9a32d39af117d2b95e", null ],
+    [ "HandleAccountLockIpCommand", "d2/df9/a11735.html#a14e0d3fefc18f003c0079250e5c06b18", null ],
+    [ "HandleAccountOnlineListCommand", "d2/df9/a11735.html#a36cb5b885d6c0745303b386ad42541f6", null ],
+    [ "HandleAccountPasswordCommand", "d2/df9/a11735.html#a5cbbc397cd816e82963c7e2e352c90e5", null ],
+    [ "HandleAccountRemoveLockCountryCommand", "d2/df9/a11735.html#a6a40319f52f00881a5be4a50f812b337", null ],
+    [ "HandleAccountSet2FACommand", "d2/df9/a11735.html#a195e5037d3c4886ca8e69a56daadd028", null ],
+    [ "HandleAccountSetAddonCommand", "d2/df9/a11735.html#aca017dc33dab7c379d8203569775f21b", null ],
+    [ "HandleAccountSetEmailCommand", "d2/df9/a11735.html#ad4f26277c3484e8091e5f23ddbd45a2f", null ],
+    [ "HandleAccountSetGmLevelCommand", "d2/df9/a11735.html#a1aaee019de3b7802281e25e926fa4821", null ],
+    [ "HandleAccountSetPasswordCommand", "d2/df9/a11735.html#a77e9bb9f0f82b19ec9306533cab0d7bd", null ]
 ];

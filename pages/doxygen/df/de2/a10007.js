@@ -1,7 +1,8 @@
 var a10007 =
 [
-    [ "WriteCommonMonsterMovePart", "df/de2/a10007.html#a5dcdbeb513f6da51b0af20d9acd2ac58", null ],
-    [ "WriteCreate", "df/de2/a10007.html#ae5682d7012cca35bd8643b01ce558eb5", null ],
-    [ "WriteMonsterMove", "df/de2/a10007.html#a4c4294e3fed32aca35078dd4975b057d", null ],
-    [ "WriteStopMovement", "df/de2/a10007.html#a1b960c1141ab9b4dca932e0eddaee204", null ]
+    [ "TimedFleeingMovementGenerator", "df/de2/a10007.html#ae3eed5f4b5a8d11ad4eed67ce5329742", null ],
+    [ "Finalize", "df/de2/a10007.html#a1a18f033663fa93ef0b9885aae21f766", null ],
+    [ "GetMovementGeneratorType", "df/de2/a10007.html#a1533d13f4e786e498353805a2a2daf85", null ],
+    [ "Update", "df/de2/a10007.html#a53688aae55bfdd3a33eb24484fcc157e", null ],
+    [ "i_totalFleeTime", "df/de2/a10007.html#a2858047459ff675383e7b86805702369", null ]
 ];

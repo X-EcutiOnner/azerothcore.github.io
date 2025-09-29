@@ -1,7 +1,6 @@
 var a18679 =
 [
-    [ "OnRemove", "d6/d63/a18679.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
-    [ "PrepareAuraScript", "d6/d63/a18679.html#acf654e563f47df9ad033d7080f47662b", null ],
-    [ "Register", "d6/d63/a18679.html#aad4497ba7cad48b9547e8696714d8c23", null ],
-    [ "Validate", "d6/d63/a18679.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
+    [ "npc_risen_archmageAI", "d8/dd3/a18683.html", "d8/dd3/a18683" ],
+    [ "npc_risen_archmage", "d6/d63/a18679.html#adf6dfe2a00325955939c84bcc1e4eb68", null ],
+    [ "GetAI", "d6/d63/a18679.html#a8e8c4913e163c5d649fa79c2eb424864", null ]
 ];

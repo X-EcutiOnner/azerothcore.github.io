@@ -1,7 +1,8 @@
 var a24343 =
 [
-    [ "npc_pet_gen_target_following_bomb", "df/d7c/a24343.html#a447c2cd258d784ca1d79c79412a1a426", null ],
-    [ "UpdateAI", "df/d7c/a24343.html#ac68f18d68a313623c04e885f9506f287", null ],
-    [ "bombSpellId", "df/d7c/a24343.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
-    [ "checkTimer", "df/d7c/a24343.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
+    [ "npc_bessyAI", "df/d7c/a24343.html#ad1300a563888b34689bedf97c387707c", null ],
+    [ "JustDied", "df/d7c/a24343.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
+    [ "JustSummoned", "df/d7c/a24343.html#a4197fb122299fd152e5da335bb832ae5", null ],
+    [ "Reset", "df/d7c/a24343.html#aed64386629e52c3b65abadde54a63cc4", null ],
+    [ "WaypointReached", "df/d7c/a24343.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
 ];

@@ -1,6 +1,6 @@
 var a15939 =
 [
-    [ "HandleLeapBack", "d5/d0e/a15939.html#a71a9b9967528c1153ad1215635bc7d01", null ],
-    [ "PrepareSpellScript", "d5/d0e/a15939.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
-    [ "Register", "d5/d0e/a15939.html#a6ef11d0538616315fa7cf098748aa01f", null ]
+    [ "creatureID", "d5/d0e/a15939.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "d5/d0e/a15939.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "d5/d0e/a15939.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

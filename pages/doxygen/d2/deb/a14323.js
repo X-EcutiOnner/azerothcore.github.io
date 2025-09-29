@@ -1,8 +1,6 @@
 var a14323 =
 [
-    [ "npc_hallows_end_train_fire", "d2/deb/a14323.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
-    [ "Reset", "d2/deb/a14323.html#afdda52e0adce23f56fa9d1357469a17d", null ],
-    [ "SpellHit", "d2/deb/a14323.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
-    [ "UpdateAI", "d2/deb/a14323.html#a686a565e1743c31166d8d57f67a0adce", null ],
-    [ "timer", "d2/deb/a14323.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
+    [ "boss_wushoolayAI", "d7/d92/a14327.html", "d7/d92/a14327" ],
+    [ "boss_wushoolay", "d2/deb/a14323.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
+    [ "GetAI", "d2/deb/a14323.html#a70b476358956fd05d6effb75517e2b3d", null ]
 ];

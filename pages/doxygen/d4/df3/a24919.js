@@ -1,8 +1,9 @@
 var a24919 =
 [
-    [ "Absorb", "d4/df3/a24919.html#aecfcbafe098adddba0a73965c447558c", null ],
-    [ "Load", "d4/df3/a24919.html#a1883cb4c86478359dd1ff8df25e2ec65", null ],
-    [ "PrepareAuraScript", "d4/df3/a24919.html#a3a65787dd5b7c1c796b98ce79f180d4d", null ],
-    [ "Register", "d4/df3/a24919.html#ab6bea7d62539841fa21fa8f3c8122707", null ],
-    [ "_limit", "d4/df3/a24919.html#a5985a97749e318e3ccba4c96724d8704", null ]
+    [ "HandleApply", "d4/df3/a24919.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
+    [ "HandleRemove", "d4/df3/a24919.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
+    [ "PrepareAuraScript", "d4/df3/a24919.html#af2b8e669737cd4282beb6a5035f496fc", null ],
+    [ "RecalculateBaseArmor", "d4/df3/a24919.html#a693720558c7b2b22c41a49a402522014", null ],
+    [ "Register", "d4/df3/a24919.html#aff9bc58342383afe5a08be696cddedf6", null ],
+    [ "Validate", "d4/df3/a24919.html#ad712e1e05d94372defdfa4fe67e65716", null ]
 ];

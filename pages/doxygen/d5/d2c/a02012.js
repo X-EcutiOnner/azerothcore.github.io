@@ -1,5 +1,9 @@
 var a02012 =
 [
-    [ "achievement_commandscript", "d5/d44/a11734.html", "d5/d44/a11734" ],
-    [ "AddSC_achievement_commandscript", "d5/d2c/a02012.html#afeb482a8cffe8416071764bc4e78bff2", null ]
+    [ "instance_magtheridons_lair", "db/d0e/a23843.html", "db/d0e/a23843" ],
+    [ "instance_magtheridons_lair::instance_magtheridons_lair_InstanceMapScript", "d1/dd5/a23847.html", "d1/dd5/a23847" ],
+    [ "AddSC_instance_magtheridons_lair", "d5/d2c/a02012.html#a77e256ce8ca932c8d162a30715dc7c6f", null ],
+    [ "boundaries", "d5/d2c/a02012.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
+    [ "doorData", "d5/d2c/a02012.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
+    [ "minionData", "d5/d2c/a02012.html#a6720238df140a3c574a711042b7f5bd3", null ]
 ];

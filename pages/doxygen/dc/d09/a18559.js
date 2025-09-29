@@ -1,13 +1,12 @@
 var a18559 =
 [
-    [ "boss_sister_svalnaAI", "dc/d09/a18559.html#a8ffe7c40e6de53455caa86e1487c1234", null ],
-    [ "DoAction", "dc/d09/a18559.html#a43c5be9641399b1fec35ef9b34d4fa7b", null ],
-    [ "JustDied", "dc/d09/a18559.html#ab397adda97c8b21e9a53edccdadb8760", null ],
-    [ "JustEngagedWith", "dc/d09/a18559.html#af930733e0f143c7fd0f214043b7fa9ef", null ],
-    [ "KilledUnit", "dc/d09/a18559.html#a95c259d62cd4aab4a0b8a38ba98feb7a", null ],
-    [ "MovementInform", "dc/d09/a18559.html#a4f1da0ead975b554704f4a068b1edb1d", null ],
-    [ "Reset", "dc/d09/a18559.html#a4ba1ac914a7ae5c3b229d648b8fac9ee", null ],
-    [ "SpellHit", "dc/d09/a18559.html#a9b5533f2f3a985f42bac098cc08e4cd1", null ],
-    [ "SpellHitTarget", "dc/d09/a18559.html#a5236b715548c9c1b310a3227f8bf2bc8", null ],
-    [ "UpdateAI", "dc/d09/a18559.html#a87e4f558db85e2c1ec192d35bde1eb8a", null ]
+    [ "npc_strangulate_vehicleAI", "dc/d09/a18559.html#a58e79834ed3f463ad51eca703d1c99ef", null ],
+    [ "DoAction", "dc/d09/a18559.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb", null ],
+    [ "IsHeroic", "dc/d09/a18559.html#adb6ae2cefeec245196d21dc1112b2d5c", null ],
+    [ "IsSummonedBy", "dc/d09/a18559.html#a381aec40cdcdf546d70b57a43978dbe9", null ],
+    [ "OnCharmed", "dc/d09/a18559.html#a40e5537897c452d35093920ddd3669b0", null ],
+    [ "PassengerBoarded", "dc/d09/a18559.html#a819746e13af95fa964c6da3d765a7c21", null ],
+    [ "UpdateAI", "dc/d09/a18559.html#a53f567b77b7dfd0ccb5a0d98c0f5ef26", null ],
+    [ "_events", "dc/d09/a18559.html#a19b493e994d246128f63d9109e87737a", null ],
+    [ "_instance", "dc/d09/a18559.html#a7a16fbe4723a95293db01d3a2d80b569", null ]
 ];

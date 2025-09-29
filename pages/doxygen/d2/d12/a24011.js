@@ -1,6 +1,7 @@
 var a24011 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "dd/d09/a24015.html", "dd/d09/a24015" ],
-    [ "npc_creditmarker_visit_with_ancestors", "d2/d12/a24011.html#a60f7abac7198d8504d944828dceb1ffa", null ],
-    [ "GetAI", "d2/d12/a24011.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
+    [ "CastQuill", "d2/d12/a24011.html#a923234809186bcbdf02457f4be095519", null ],
+    [ "Execute", "d2/d12/a24011.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
+    [ "_caster", "d2/d12/a24011.html#af809b9279aff141ce4007c8d1fbcc331", null ],
+    [ "_spellId", "d2/d12/a24011.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
 ];

@@ -1,7 +1,7 @@
 var a11187 =
 [
-    [ "maxvalue", "d6/dd6/a11187.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
-    [ "skill", "d6/dd6/a11187.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
-    [ "step", "d6/dd6/a11187.html#a1c882f7d43c65954cb99566225660312", null ],
-    [ "value", "d6/dd6/a11187.html#a064fece53cdaf07b072510b14200a968", null ]
+    [ "IsValidOpcode", "d6/dd6/a11187.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
+    [ "IsValidSize", "d6/dd6/a11187.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
+    [ "cmd", "d6/dd6/a11187.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
+    [ "size", "d6/dd6/a11187.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
 ];

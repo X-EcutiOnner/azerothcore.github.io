@@ -1,6 +1,6 @@
 var a25095 =
 [
-    [ "HandleScriptEffect", "db/d56/a25095.html#a422a77760004d6d6fac6bacdb1d436ff", null ],
-    [ "PrepareSpellScript", "db/d56/a25095.html#a1d7e2beafb55464f928ea5904441d698", null ],
-    [ "Register", "db/d56/a25095.html#aeaa8321255f377b85884df25a455554f", null ]
+    [ "CheckAreaTarget", "db/d56/a25095.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
+    [ "PrepareAuraScript", "db/d56/a25095.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
+    [ "Register", "db/d56/a25095.html#a6647a8e35009cf8559e4957a666f037a", null ]
 ];

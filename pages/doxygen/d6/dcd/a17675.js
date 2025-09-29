@@ -1,6 +1,7 @@
 var a17675 =
 [
-    [ "npc_cult_fanaticAI", "d2/d27/a17679.html", "d2/d27/a17679" ],
-    [ "npc_cult_fanatic", "d6/dcd/a17675.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
-    [ "GetAI", "d6/dcd/a17675.html#ae4d22bac12d17d79669d3fccd4029952", null ]
+    [ "FilterTargets", "d6/dcd/a17675.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
+    [ "Load", "d6/dcd/a17675.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
+    [ "PrepareSpellScript", "d6/dcd/a17675.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
+    [ "Register", "d6/dcd/a17675.html#a33342cc676adaabe5e3896fa559631b7", null ]
 ];

@@ -1,6 +1,7 @@
 var a18087 =
 [
-    [ "HandleScript", "dc/dcb/a18087.html#a038a827f7fe179ff56ab581efdf08790", null ],
-    [ "PrepareSpellScript", "dc/dcb/a18087.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
-    [ "Register", "dc/dcb/a18087.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
+    [ "HandleExtraEffect", "dc/dcb/a18087.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "dc/dcb/a18087.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "dc/dcb/a18087.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "dc/dcb/a18087.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

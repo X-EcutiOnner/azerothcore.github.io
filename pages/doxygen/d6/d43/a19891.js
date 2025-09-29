@@ -1,6 +1,9 @@
 var a19891 =
 [
-    [ "npc_mechanoliftAI", "d1/d9c/a19895.html", "d1/d9c/a19895" ],
-    [ "npc_mechanolift", "d6/d43/a19891.html#a7b753a3426213706c899745a6d0d989b", null ],
-    [ "GetAI", "d6/d43/a19891.html#a823a929bf65f32cdbe9b56df5d33c66d", null ]
+    [ "npc_brann_bronzebeard_algalonAI", "d6/d43/a19891.html#a5ab0ff088866cf9d6af99ee3f42e897a", null ],
+    [ "DoAction", "d6/d43/a19891.html#a9de9e9b19b8a635ec4bc0a4f8c8d13c6", null ],
+    [ "MovementInform", "d6/d43/a19891.html#a7f8d3efed49f0d43a5e9e73ee8bd36e0", null ],
+    [ "UpdateAI", "d6/d43/a19891.html#a16e3fcd7f082e04f648d2341a7e83cba", null ],
+    [ "_currentPoint", "d6/d43/a19891.html#ae9da41b5b4cae16e1ed4709ab41b8964", null ],
+    [ "events", "d6/d43/a19891.html#ab71b71ac63517349cb8702bb29d76334", null ]
 ];

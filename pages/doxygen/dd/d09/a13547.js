@@ -1,6 +1,6 @@
 var a13547 =
 [
-    [ "npc_greengill_slaveAI", "d4/dc6/a13551.html", "d4/dc6/a13551" ],
-    [ "npc_greengill_slave", "dd/d09/a13547.html#a46fb36fadb5ed5fc94a563473edd8732", null ],
-    [ "GetAI", "dd/d09/a13547.html#ab2cb9adfeef75384becfbb3c5188b8d7", null ]
+    [ "FixOrientation", "dd/d09/a13547.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
+    [ "Execute", "dd/d09/a13547.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
+    [ "_owner", "dd/d09/a13547.html#a5f12db3774bdeef25a300780c00db1fb", null ]
 ];

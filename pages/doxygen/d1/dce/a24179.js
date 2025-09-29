@@ -1,9 +1,14 @@
 var a24179 =
 [
-    [ "npc_enraged_spiritAI", "d1/dce/a24179.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
-    [ "JustDied", "d1/dce/a24179.html#a9322622f679dbc311bd8983f5037bd2e", null ],
-    [ "JustEngagedWith", "d1/dce/a24179.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
-    [ "Reset", "d1/dce/a24179.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
-    [ "UpdateAI", "d1/dce/a24179.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
-    [ "_scheduler", "d1/dce/a24179.html#afa6825696b0622849f877b392df4b326", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d1/dce/a24179.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
+    [ "Initialize", "d1/dce/a24179.html#a187340b00067f2f65a7e48845a6edaba", null ],
+    [ "JustSummoned", "d1/dce/a24179.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
+    [ "Reset", "d1/dce/a24179.html#a92a6cbe0515752440284d18bae0adf66", null ],
+    [ "SpellHit", "d1/dce/a24179.html#a517f7412208de83604d0d6806fbc0b34", null ],
+    [ "UpdateAI", "d1/dce/a24179.html#ab4fb75f1b84c2722f936387a6942028b", null ],
+    [ "CannonGUID", "d1/dce/a24179.html#a220e111467cfb6f02e996f012123e09b", null ],
+    [ "count", "d1/dce/a24179.html#ac78f94033239dcf247be9a48d0535081", null ],
+    [ "events", "d1/dce/a24179.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
+    [ "PartyTime", "d1/dce/a24179.html#a1780c656fb539be6dcd74e271cea4c53", null ],
+    [ "PlayerGUID", "d1/dce/a24179.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
 ];

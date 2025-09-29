@@ -1,6 +1,5 @@
 var a08447 =
 [
-    [ "active", "de/d2b/a08447.html#a9460571d6fc219ab8c475aab34fc9494", null ],
-    [ "state", "de/d2b/a08447.html#a0600418cb460fdaf8093bfa609e796c8", null ],
-    [ "type", "de/d2b/a08447.html#a4c4a7d0f299ae4e2ceb146a741057032", null ]
+    [ "Global", "de/d2b/a08447.html#a77d72711ba9384384f9fd789f778e8c8", null ],
+    [ "MapSpecific", "de/d2b/a08447.html#a42e5a0249b84d4e8175a4cb65480bbcf", null ]
 ];

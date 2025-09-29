@@ -1,6 +1,8 @@
 var a13147 =
 [
-    [ "HandleSendEvent", "d0/d41/a13147.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
-    [ "PrepareSpellScript", "d0/d41/a13147.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
-    [ "Register", "d0/d41/a13147.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
+    [ "HandleDummy", "d0/d41/a13147.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
+    [ "HandleScript", "d0/d41/a13147.html#a528ce741ebde0fb6b796431da800e439", null ],
+    [ "PrepareSpellScript", "d0/d41/a13147.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
+    [ "Register", "d0/d41/a13147.html#a8dea4b47777324b88c7e022f11741b25", null ],
+    [ "Validate", "d0/d41/a13147.html#a6f49345b2beea56b4eaad390a6062118", null ]
 ];

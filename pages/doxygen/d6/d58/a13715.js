@@ -1,11 +1,12 @@
 var a13715 =
 [
-    [ "npc_tapoke_slim_jahnAI", "d6/d58/a13715.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
-    [ "AttackedBy", "d6/d58/a13715.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
-    [ "DamageTaken", "d6/d58/a13715.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
-    [ "JustEngagedWith", "d6/d58/a13715.html#a544b8eaee365217a4a735ed39b4607b2", null ],
-    [ "JustSummoned", "d6/d58/a13715.html#ae468305fbe930baf0a1547f2e6de9953", null ],
-    [ "Reset", "d6/d58/a13715.html#a5aeaa5511584d1095639e7df584019c5", null ],
-    [ "WaypointReached", "d6/d58/a13715.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
-    [ "IsFriendSummoned", "d6/d58/a13715.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
+    [ "boss_twilight_corrupter", "d6/d58/a13715.html#afe140d6231d9ad8543e17c4a8a8230c0", null ],
+    [ "InitializeAI", "d6/d58/a13715.html#afe06461e9f3e1549da6631d2f89406c4", null ],
+    [ "JustEngagedWith", "d6/d58/a13715.html#a84803153e7e7d5d7efe0106139214b1f", null ],
+    [ "KilledUnit", "d6/d58/a13715.html#aa18d2fc90e1ccd322ec9d3128ba206d2", null ],
+    [ "MoveInLineOfSight", "d6/d58/a13715.html#a637cdd43f2f9a4f773b4b8e8f3c88730", null ],
+    [ "Reset", "d6/d58/a13715.html#a27720f58056206c09bce41ae50018a83", null ],
+    [ "UpdateAI", "d6/d58/a13715.html#a580fbaa55a5c0193c1ef2c6b281d8d9e", null ],
+    [ "_introSpoken", "d6/d58/a13715.html#a1924750c9d41ed588a29aace3c40742d", null ],
+    [ "_scheduler", "d6/d58/a13715.html#a6c49eee2be24199418096cc48c50d384", null ]
 ];

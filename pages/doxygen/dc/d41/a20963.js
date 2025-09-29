@@ -1,8 +1,7 @@
 var a20963 =
 [
-    [ "npc_ulduar_keeperAI", "dd/d45/a20967.html", "dd/d45/a20967" ],
-    [ "npc_ulduar_keeper", "dc/d41/a20963.html#a252b781061a2e21dc961ea94f7120d59", null ],
-    [ "GetAI", "dc/d41/a20963.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
-    [ "OnGossipHello", "dc/d41/a20963.html#a4db12efd22c7d2a5f18144fd16543230", null ],
-    [ "OnGossipSelect", "dc/d41/a20963.html#acf8681577117107d16d45705e4b8463f", null ]
+    [ "FilterTargets", "dc/d41/a20963.html#a582691eca81b6db6d78ca925ad8fb084", null ],
+    [ "PrepareSpellScript", "dc/d41/a20963.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
+    [ "RecalculateDamage", "dc/d41/a20963.html#a02c1af0414de344056b2375488f23c01", null ],
+    [ "Register", "dc/d41/a20963.html#a1e030067944878000b731edf456d6bc8", null ]
 ];

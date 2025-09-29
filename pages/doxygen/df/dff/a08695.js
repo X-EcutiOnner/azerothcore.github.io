@@ -1,19 +1,14 @@
 var a08695 =
 [
-    [ "absorb", "df/dff/a08695.html#a7298afcc76b856c5427f5e123030a797", null ],
-    [ "attacker", "df/dff/a08695.html#aebe14d91f54da0b25a07ff3d59df6ec2", null ],
-    [ "attackType", "df/dff/a08695.html#afd18e43bd78a9144c02ba0493921c506", null ],
-    [ "blocked_amount", "df/dff/a08695.html#a0ce1e1ff406264c7283979fe4fc70148", null ],
-    [ "cleanDamage", "df/dff/a08695.html#a452ac9be1f6e9c10616a62a128573358", null ],
-    [ "damage", "df/dff/a08695.html#ab95e1e4746b966f1301d997fdac99c94", null ],
-    [ "damages", "df/dff/a08695.html#a9b2a0b29e23b9745a720ea55764be3f6", null ],
-    [ "damageSchoolMask", "df/dff/a08695.html#a01f1cc6661ef5f4e7d657ba59d06108f", null ],
-    [ "HitInfo", "df/dff/a08695.html#ae42a8a3750633d94e661ac9d5a9aa8df", null ],
-    [ "hitOutCome", "df/dff/a08695.html#a114dcabcb8bff10c2452cb27e75da115", null ],
-    [ "procAttacker", "df/dff/a08695.html#a21bed657c7e3d2338f30fb5237884d5f", null ],
-    [ "procEx", "df/dff/a08695.html#ad629b9aad4d88247ef4dfaadd79dc1c8", null ],
-    [ "procVictim", "df/dff/a08695.html#a236b06649e715fab9dbddb074ef2f075", null ],
-    [ "resist", "df/dff/a08695.html#ab57d348b500203649bf532405cd9ceec", null ],
-    [ "target", "df/dff/a08695.html#af2976fa1245b3e3177dcbac464345829", null ],
-    [ "TargetState", "df/dff/a08695.html#a73ef30ca87444da617b8c2e05b70e9fc", null ]
+    [ "PassengerSet", "df/dff/a08695.html#aa6421ebd51e84c819604e18e93729d27", null ],
+    [ "Transport", "df/dff/a08695.html#a36928c178aa490c02aa25b4b12e2bf63", null ],
+    [ "AddPassenger", "df/dff/a08695.html#ac5c328f816b0358a68265322219357c1", null ],
+    [ "CalculatePassengerOffset", "df/dff/a08695.html#a327d37eef797c4197b8bba503bd8a3f8", null ],
+    [ "CalculatePassengerPosition", "df/dff/a08695.html#ae4e716194ce5e9c466a8fe5c53ee0980", null ],
+    [ "DelayedUpdate", "df/dff/a08695.html#aabc885fccc7a4a4d6a98f9ed8b39cd43", null ],
+    [ "GetPassengers", "df/dff/a08695.html#a3f70c977ba2450d4244e54e4260f6ea1", null ],
+    [ "GetPathProgress", "df/dff/a08695.html#a4ecab9f8617918aea3a26cc0feb9c021", null ],
+    [ "RemovePassenger", "df/dff/a08695.html#a1d70745a16a1cbf3307a25ff4a53c75d", null ],
+    [ "SetPathProgress", "df/dff/a08695.html#acb68e75a78fa196a4b514abd24c0e322", null ],
+    [ "_passengers", "df/dff/a08695.html#adc2089495aadaab23414ecae3b2df180", null ]
 ];

@@ -1,6 +1,8 @@
 var a16999 =
 [
-    [ "npc_pos_tyrannus_eventsAI", "de/d84/a17003.html", "de/d84/a17003" ],
-    [ "npc_pos_tyrannus_events", "d9/d45/a16999.html#a9e61db8b2b30e86fc5e554b3f4d51b7c", null ],
-    [ "GetAI", "d9/d45/a16999.html#ae5863e99d77815de71c1774e908b3f65", null ]
+    [ "npc_fos_leaderAI", "d9/d45/a16999.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
+    [ "DoAction", "d9/d45/a16999.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
+    [ "Reset", "d9/d45/a16999.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
+    [ "UpdateAI", "d9/d45/a16999.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
+    [ "events", "d9/d45/a16999.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
 ];

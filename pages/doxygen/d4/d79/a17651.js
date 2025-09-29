@@ -1,9 +1,9 @@
 var a17651 =
 [
-    [ "CheckAreaTarget", "d4/d79/a17651.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
-    [ "HandleApply", "d4/d79/a17651.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
-    [ "Load", "d4/d79/a17651.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
-    [ "PrepareAuraScript", "d4/d79/a17651.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
-    [ "Register", "d4/d79/a17651.html#a8f476129e0678149463c4b16232f6cb6", null ],
-    [ "_teamIdInInstance", "d4/d79/a17651.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
+    [ "CheckProc", "d4/d79/a17651.html#a13426f7a45e9434f980b42f174b22da8", null ],
+    [ "HandlePeriodicTick", "d4/d79/a17651.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
+    [ "HandleProc", "d4/d79/a17651.html#abf744d64dae5835bff3877eeaa919af3", null ],
+    [ "PrepareAuraScript", "d4/d79/a17651.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
+    [ "Register", "d4/d79/a17651.html#a1b72c10256365de71b8f9fadf5886338", null ],
+    [ "Validate", "d4/d79/a17651.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
 ];

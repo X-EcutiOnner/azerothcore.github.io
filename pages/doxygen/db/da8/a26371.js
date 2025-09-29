@@ -1,7 +1,8 @@
 var a26371 =
 [
-    [ "HandleDummy", "db/da8/a26371.html#aef93741620dcf29179502f88891ad0b5", null ],
-    [ "Load", "db/da8/a26371.html#ab8e5dcd009cca538c9921dcb9c5fe109", null ],
-    [ "PrepareSpellScript", "db/da8/a26371.html#ac92fd133395705e4cb3730bc96e1f787", null ],
-    [ "Register", "db/da8/a26371.html#a69336bea35240c0014693ae167d4124b", null ]
+    [ "CheckCast", "db/da8/a26371.html#a0d7910cd2b9d9f4174575532502d40f9", null ],
+    [ "HandleDummy", "db/da8/a26371.html#a1eac1eb5f39093ff48942e82728478dd", null ],
+    [ "PrepareSpellScript", "db/da8/a26371.html#adbb58b75232560d101b291c0d99a2a20", null ],
+    [ "Register", "db/da8/a26371.html#a6acb46e81171e13f50ac1f01bf83013b", null ],
+    [ "Validate", "db/da8/a26371.html#a4b67c348685a8094668e4ed2f0c78446", null ]
 ];

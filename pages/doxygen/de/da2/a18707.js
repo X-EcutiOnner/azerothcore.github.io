@@ -1,6 +1,7 @@
 var a18707 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "d1/d11/a18711.html", "d1/d11/a18711" ],
-    [ "npc_icc_skybreaker_hierophant", "de/da2/a18707.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
-    [ "GetAI", "de/da2/a18707.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
+    [ "npc_blazing_skeletonAI", "de/da2/a18707.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
+    [ "Reset", "de/da2/a18707.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
+    [ "UpdateAI", "de/da2/a18707.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
+    [ "_events", "de/da2/a18707.html#aab1b04989d5e3fc289f00bc121df193d", null ]
 ];

@@ -1,5 +1,7 @@
 var a13915 =
 [
-    [ "at_zulgurub_temple_speech", "d1/d06/a13915.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
-    [ "_OnTrigger", "d1/d06/a13915.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "d1/d06/a13915.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
+    [ "Reset", "d1/d06/a13915.html#a18de805428ce0954a5fbfffbf5975342", null ],
+    [ "UpdateAI", "d1/d06/a13915.html#a48b191d0812bfe3212511a52ef0df817", null ],
+    [ "_events", "d1/d06/a13915.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
 ];

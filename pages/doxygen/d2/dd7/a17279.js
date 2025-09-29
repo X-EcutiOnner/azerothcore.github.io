@@ -1,7 +1,6 @@
 var a17279 =
 [
-    [ "HandleDummyTick", "d2/dd7/a17279.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
-    [ "PrepareAuraScript", "d2/dd7/a17279.html#a577523701b5a4ea2def4999e634c8862", null ],
-    [ "Register", "d2/dd7/a17279.html#aaad9185c62333de4d6704b22780edd28", null ],
-    [ "Validate", "d2/dd7/a17279.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
+    [ "npc_pos_collapsing_icicleAI", "d6/d00/a17283.html", "d6/d00/a17283" ],
+    [ "npc_pos_collapsing_icicle", "d2/dd7/a17279.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
+    [ "GetAI", "d2/dd7/a17279.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
 ];

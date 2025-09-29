@@ -1,6 +1,8 @@
 var a06135 =
 [
-    [ "PlayerAI", "d8/d3d/a06135.html#a880c670caddc1f24e42f229457039c67", null ],
-    [ "OnCharmed", "d8/d3d/a06135.html#adf7ab64ed2a81c932730e39d885e4c67", null ],
-    [ "me", "d8/d3d/a06135.html#a70a995521c55fb3d73d14e6be883eccc", null ]
+    [ "GuardAI", "d8/d3d/a06135.html#ac1f0ba47d8e32c65845808170330b7af", null ],
+    [ "EnterEvadeMode", "d8/d3d/a06135.html#af021cc31298d4a0f38a7d82ac8e02e30", null ],
+    [ "JustDied", "d8/d3d/a06135.html#a96820cdcb632d3a71f9deacf4998a774", null ],
+    [ "Permissible", "d8/d3d/a06135.html#a238f38bd3fc7cfa8ace3549f4a6199fb", null ],
+    [ "Reset", "d8/d3d/a06135.html#a91b12b6a50641d17a79550b9ffb5284a", null ]
 ];

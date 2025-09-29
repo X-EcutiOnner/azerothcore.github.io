@@ -1,7 +1,7 @@
 var a16147 =
 [
-    [ "CountAllies", "d9/dba/a16147.html#a207c1fd89fd726054a881e342391d2a0", null ],
-    [ "PrepareSpellScript", "d9/dba/a16147.html#ae1e230ad204a280a261ebe0f21c7f8a5", null ],
-    [ "Register", "d9/dba/a16147.html#a47574795b2a262625c65ab23a4179684", null ],
-    [ "Validate", "d9/dba/a16147.html#a0178e7c4f5509a4bb2c6ed3811fc9685", null ]
+    [ "HandleScriptEffect", "d9/dba/a16147.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
+    [ "PrepareSpellScript", "d9/dba/a16147.html#a392c40d469c3c1e816d5dc364fde824c", null ],
+    [ "Register", "d9/dba/a16147.html#aa59c26b25ca0f440de36e450adf050a5", null ],
+    [ "Validate", "d9/dba/a16147.html#a370f83112d901f9565734b11d12858f4", null ]
 ];

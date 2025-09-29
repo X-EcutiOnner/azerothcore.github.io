@@ -1,7 +1,11 @@
 var a17435 =
 [
-    [ "HandleScript", "df/da9/a17435.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "df/da9/a17435.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "df/da9/a17435.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "df/da9/a17435.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "boss_slad_ranAI", "df/da9/a17435.html#ad85e2fd51d67739026a96bc757bc7801", null ],
+    [ "GetData", "df/da9/a17435.html#a58e1188a418acdc1f327e7df90c5c122", null ],
+    [ "JustDied", "df/da9/a17435.html#a636ca76497c33a5175986e80bbcda44a", null ],
+    [ "JustEngagedWith", "df/da9/a17435.html#ac30b38805d0421b1be509c7d5609c648", null ],
+    [ "KilledUnit", "df/da9/a17435.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
+    [ "Reset", "df/da9/a17435.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
+    [ "SetData", "df/da9/a17435.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
+    [ "_achievement", "df/da9/a17435.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
 ];

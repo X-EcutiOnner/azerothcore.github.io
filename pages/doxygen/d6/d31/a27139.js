@@ -1,6 +1,8 @@
 var a27139 =
 [
-    [ "go_witherbark_totem_bundleAI", "d6/d31/a27139.html#a955625e2315008a2e36936d44f825060", null ],
-    [ "UpdateAI", "d6/d31/a27139.html#af688bab2dc3d938951adb303e8b8d88b", null ],
-    [ "_timer", "d6/d31/a27139.html#a509e6d8401380c326a0f565a6b903d7a", null ]
+    [ "CheckProc", "d6/d31/a27139.html#a8a61fbd855294e6218cfc0e2dd3706c9", null ],
+    [ "OnProc", "d6/d31/a27139.html#a9217135a55d6612bf1d36b63ac09e7fb", null ],
+    [ "PrepareAuraScript", "d6/d31/a27139.html#a8bf573bb900773d4669708536b0b8011", null ],
+    [ "Register", "d6/d31/a27139.html#ae8ddcb6329088f904cbae3292ff92023", null ],
+    [ "Validate", "d6/d31/a27139.html#a918c9334b7f20710c0d6448a33c94601", null ]
 ];

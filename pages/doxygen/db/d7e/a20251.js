@@ -1,12 +1,12 @@
 var a20251 =
 [
-    [ "npc_ulduar_iron_constructAI", "db/d7e/a20251.html#ab81224d24ab1925cde97ab76c2a514d1", null ],
-    [ "DamageTaken", "db/d7e/a20251.html#a5235538b755dd83615d80a1f7d0ec1b9", null ],
-    [ "JustDied", "db/d7e/a20251.html#a5b8e1c38257fc13c59bcaf8cb251fee2", null ],
-    [ "JustReachedHome", "db/d7e/a20251.html#a12416ffe731f96a1ca2949d995eb909c", null ],
-    [ "MoveInLineOfSight", "db/d7e/a20251.html#a12b228a1edb9460ddcb2b8232bb8209e", null ],
-    [ "Reset", "db/d7e/a20251.html#ac6dba374d72247be14923aa54898b9b5", null ],
-    [ "SpellHit", "db/d7e/a20251.html#a10a5444576af84ae50ad8af930ed5970", null ],
-    [ "UpdateAI", "db/d7e/a20251.html#ac5aabd4a48b6a2f5057eb5ee8a8c99f8", null ],
-    [ "timer", "db/d7e/a20251.html#ae1996cf79f8a82df7fe02cd60e5ce3a4", null ]
+    [ "boss_freya_elder_stonebarkAI", "db/d7e/a20251.html#a492329e296aaf29861d76e12e2b94631", null ],
+    [ "DamageTaken", "db/d7e/a20251.html#af25c675f46f5ca0d0da170f367cc8bdc", null ],
+    [ "JustDied", "db/d7e/a20251.html#a8dcdf4a1c8df10fc8ca419de924fe136", null ],
+    [ "JustEngagedWith", "db/d7e/a20251.html#a77a231b75bbbbb56638e1e5535827150", null ],
+    [ "KilledUnit", "db/d7e/a20251.html#ad1ce26306c2ea2102183b0679d46efd3", null ],
+    [ "Reset", "db/d7e/a20251.html#a0d17571be8905c4c33ed4591e963d680", null ],
+    [ "UpdateAI", "db/d7e/a20251.html#acd21050c265f6703060f95f2e3c725f3", null ],
+    [ "_chargesCount", "db/d7e/a20251.html#a294714a547bbc7a7364c7477bdc0422c", null ],
+    [ "events", "db/d7e/a20251.html#a07bcbf839c3b0b3924ec1915b47af0f2", null ]
 ];

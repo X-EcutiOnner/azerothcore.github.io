@@ -1,7 +1,9 @@
 var a28511 =
 [
-    [ "asyncId", "d4/d32/a28511.html#afd18849875b4562e4a532903676ce25d", null ],
-    [ "flags", "d4/d32/a28511.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
-    [ "offsMCNK", "d4/d32/a28511.html#a063c5dc62c44038e882340221bf8228a", null ],
-    [ "size", "d4/d32/a28511.html#a47a5eeb595d53de009651ae02d2b416d", null ]
+    [ "itemId", "d4/d32/a28511.html#ae125712e5569c9699b4748b6a15fbc12", null ],
+    [ "items_to_triggerspell", "d4/d32/a28511.html#a8496a2f3fa3e230def04b996fc585760", null ],
+    [ "name", "d4/d32/a28511.html#a9b62f843833d524f200782d44151503d", null ],
+    [ "required_skill_id", "d4/d32/a28511.html#ab3058ac725fb8f105b9359d5a5147942", null ],
+    [ "required_skill_value", "d4/d32/a28511.html#a58d0997a73cf48061545edbc0201f544", null ],
+    [ "spells", "d4/d32/a28511.html#a8aac032992efe1bfbba0e49693562c7f", null ]
 ];

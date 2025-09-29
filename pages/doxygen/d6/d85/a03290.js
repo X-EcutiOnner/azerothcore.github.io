@@ -1,7 +1,5 @@
 var a03290 =
 [
-    [ "AuraApplication", "d1/d17/a11218.html", "d1/d17/a11218" ],
-    [ "Aura", "d0/d8f/a11222.html", "d0/d8f/a11222" ],
-    [ "UnitAura", "dc/dc7/a11226.html", "dc/dc7/a11226" ],
-    [ "DynObjAura", "d6/de4/a11230.html", "d6/de4/a11230" ]
+    [ "cheat_commandscript", "dc/df2/a11775.html", "dc/df2/a11775" ],
+    [ "AddSC_cheat_commandscript", "d6/d85/a03290.html#aafc88882ff0af0beb4632ec2c929fc8c", null ]
 ];

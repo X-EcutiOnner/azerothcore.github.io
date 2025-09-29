@@ -1,6 +1,7 @@
 var a26011 =
 [
-    [ "HandleRemove", "d9/d44/a26011.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
-    [ "PrepareAuraScript", "d9/d44/a26011.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
-    [ "Register", "d9/d44/a26011.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
+    [ "Load", "d9/d44/a26011.html#a8be944ae201f4f8406948aff78f982d9", null ],
+    [ "OnDummyEffect", "d9/d44/a26011.html#adcb707400963e549a295e115d6f3583b", null ],
+    [ "PrepareSpellScript", "d9/d44/a26011.html#a5b2175a933df10d775bc3381f515aa96", null ],
+    [ "Register", "d9/d44/a26011.html#a6e41bf15401c540887dd321e4b2cc7d3", null ]
 ];

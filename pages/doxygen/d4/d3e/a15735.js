@@ -1,6 +1,6 @@
 var a15735 =
 [
-    [ "HandleApply", "d4/d3e/a15735.html#aee4d5908035d06be2f1469a50db02e26", null ],
-    [ "PrepareAuraScript", "d4/d3e/a15735.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
-    [ "Register", "d4/d3e/a15735.html#ac83962bef84b68cef6d7937769730598", null ]
+    [ "Creature", "d4/d3e/a15735.html#a77b33f8998f85808b58052079b1cab54", null ],
+    [ "TextId", "d4/d3e/a15735.html#ad691f3cd40035e96547adf7528229119", null ],
+    [ "Timer", "d4/d3e/a15735.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
 ];

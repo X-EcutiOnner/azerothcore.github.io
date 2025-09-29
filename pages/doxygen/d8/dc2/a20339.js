@@ -1,5 +1,8 @@
 var a20339 =
 [
-    [ "achievement_kologarn_rubble_and_roll", "d8/dc2/a20339.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
-    [ "OnCheck", "d8/dc2/a20339.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
+    [ "npc_ulduar_saronite_animusAI", "d8/dc2/a20339.html#a2b94427feb24a7bda075b6a8f403433a", null ],
+    [ "JustDied", "d8/dc2/a20339.html#a30abcab01de3732bc5525864576615b0", null ],
+    [ "UpdateAI", "d8/dc2/a20339.html#a1490961adc8fc03ab28a992aff55b43b", null ],
+    [ "pInstance", "d8/dc2/a20339.html#a5d3b297355f286b0ad08ed38dbd5b0d2", null ],
+    [ "timer", "d8/dc2/a20339.html#a3d0345d4c503eb3f0e4acbe346f1c5e5", null ]
 ];

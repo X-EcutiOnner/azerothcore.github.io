@@ -1,6 +1,7 @@
 var a26967 =
 [
-    [ "achievement_arena_by_type", "d9/d6e/a26967.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "d9/d6e/a26967.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "d9/d6e/a26967.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "HandleDummy", "d9/d6e/a26967.html#abd35c974f5ebec4c8845c05ab4f6d309", null ],
+    [ "PrepareSpellScript", "d9/d6e/a26967.html#a99deca1c5c8631342be400cb863eefb2", null ],
+    [ "Register", "d9/d6e/a26967.html#aa5ecc51b030fe7280e824ade641216d3", null ],
+    [ "Validate", "d9/d6e/a26967.html#a731503d3769718695d109ad71160e67a", null ]
 ];

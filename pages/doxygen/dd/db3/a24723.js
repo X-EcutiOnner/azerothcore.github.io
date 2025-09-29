@@ -1,8 +1,6 @@
 var a24723 =
 [
-    [ "AfterApply", "dd/db3/a24723.html#a9c2591beacd941893338109719c03e3f", null ],
-    [ "AfterRemove", "dd/db3/a24723.html#a0be2a66b615dd926de7073392a8e5062", null ],
-    [ "PrepareAuraScript", "dd/db3/a24723.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
-    [ "Register", "dd/db3/a24723.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
-    [ "Validate", "dd/db3/a24723.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
+    [ "CheckProc", "dd/db3/a24723.html#a451ceeda18638f88d2e0a24ac445f5e2", null ],
+    [ "PrepareAuraScript", "dd/db3/a24723.html#a0a6d4617ff3351411f4e13f53876db31", null ],
+    [ "Register", "dd/db3/a24723.html#a0e5d974111eeca075f38910223f5eaf4", null ]
 ];

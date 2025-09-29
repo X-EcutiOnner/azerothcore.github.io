@@ -1,6 +1,6 @@
 var a20979 =
 [
-    [ "npc_ulduar_storm_tempered_keeperAI", "d5/d97/a20983.html", "d5/d97/a20983" ],
-    [ "npc_ulduar_storm_tempered_keeper", "db/d08/a20979.html#aaf2ef154cad4f2ba5796e410dabf02fc", null ],
-    [ "GetAI", "db/d08/a20979.html#aa0860236d2abedba1e521ee1610c89e8", null ]
+    [ "PrepareSpellScript", "db/d08/a20979.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
+    [ "Register", "db/d08/a20979.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
+    [ "SelectTarget", "db/d08/a20979.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
 ];

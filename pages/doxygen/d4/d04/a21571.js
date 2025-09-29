@@ -1,6 +1,6 @@
 var a21571 =
 [
-    [ "npc_thassarian2AI", "d5/d92/a21575.html", "d5/d92/a21575" ],
-    [ "npc_thassarian2", "d4/d04/a21571.html#a8a2f1e1595349e4fa9968e85f17d0468", null ],
-    [ "GetAI", "d4/d04/a21571.html#adb87c99f3375f88eca55b39e1cd0bbd5", null ]
+    [ "boss_xevozzAI", "d5/d92/a21575.html", "d5/d92/a21575" ],
+    [ "boss_xevozz", "d4/d04/a21571.html#a814ac939c4570d33450c4a6664833087", null ],
+    [ "GetAI", "d4/d04/a21571.html#a712d8ed125d464da56b677914fbf8796", null ]
 ];

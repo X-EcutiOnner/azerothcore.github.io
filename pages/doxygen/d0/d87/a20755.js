@@ -1,8 +1,10 @@
 var a20755 =
 [
-    [ "boss_yoggsaron_guardian_of_ysAI", "d0/d87/a20755.html#a5542a4fd68a012049a79047f47dccc68", null ],
-    [ "JustDied", "d0/d87/a20755.html#ad75f0baeef73a79cdb9bf62463bc8e50", null ],
-    [ "Reset", "d0/d87/a20755.html#a43d12c19425f3caa56a9732774b6f943", null ],
-    [ "UpdateAI", "d0/d87/a20755.html#a8e1d0b14747db6ce06b882f3f9d61963", null ],
-    [ "_spellTimer", "d0/d87/a20755.html#a45dec8609328d65413ae6c88f693ba15", null ]
+    [ "npc_ulduar_harpoonfirestateAI", "d0/d87/a20755.html#acc6853671f37e35c746ffa3807ae10b2", null ],
+    [ "GetData", "d0/d87/a20755.html#ac23f2c901ef8c2160ceea43a0a15e185", null ],
+    [ "GetHarpoonGunIdForThisHFS", "d0/d87/a20755.html#af21c4d50febac02eb0572efe564a19b1", null ],
+    [ "Reset", "d0/d87/a20755.html#af300a8271762fe1b5582384114902ee8", null ],
+    [ "SetData", "d0/d87/a20755.html#abf485123f0a73aa84ad5178e23c4192e", null ],
+    [ "pInstance", "d0/d87/a20755.html#af576864ded6610daad973ac420d2fdb8", null ],
+    [ "repairPoints", "d0/d87/a20755.html#a5e9bcd384285b9046da93bd18804d07b", null ]
 ];

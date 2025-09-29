@@ -1,6 +1,6 @@
 var a22923 =
 [
-    [ "ShadowOfDeathSelector", "d8/d8f/a22923.html#a1190094fbde74ccffd954fea742ab0ae", null ],
-    [ "operator()", "d8/d8f/a22923.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
-    [ "_tank", "d8/d8f/a22923.html#adc238645eec306e00918dbab05549fc8", null ]
+    [ "PrepareSpellScript", "d8/d8f/a22923.html#abd6b61e7efbed1427b7603640ac7d474", null ],
+    [ "RecalculateDamage", "d8/d8f/a22923.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
+    [ "Register", "d8/d8f/a22923.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
 ];

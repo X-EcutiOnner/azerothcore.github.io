@@ -1,9 +1,7 @@
 var a26599 =
 [
-    [ "Absorb", "d6/dbe/a26599.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
-    [ "CalculateAmount", "d6/dbe/a26599.html#a820c27c2161063307a10903cbbc5c0fa", null ],
-    [ "Load", "d6/dbe/a26599.html#a7b71990051faaa083110408c13b8401f", null ],
-    [ "PrepareAuraScript", "d6/dbe/a26599.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
-    [ "Register", "d6/dbe/a26599.html#aa443ab0eed74229883884fbced0426d7", null ],
-    [ "absorbPct", "d6/dbe/a26599.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
+    [ "HandleEffectPeriodic", "d6/dbe/a26599.html#a9347200565cb858cf0cc9cdb897fe1dc", null ],
+    [ "PrepareAuraScript", "d6/dbe/a26599.html#a5fc89b09fb226d0d9315081d64f4103e", null ],
+    [ "Register", "d6/dbe/a26599.html#ac3741617faacf83a707f1359aab1886e", null ],
+    [ "Validate", "d6/dbe/a26599.html#a9378252b6711cc0bec3e63efce026495", null ]
 ];

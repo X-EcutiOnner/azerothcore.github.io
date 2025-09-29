@@ -1,6 +1,6 @@
 var a12103 =
 [
-    [ "instance_blackrock_spireMapScript", "da/d2e/a12107.html", "da/d2e/a12107" ],
-    [ "instance_blackrock_spire", "d6/dfd/a12103.html#a3238be88efcdc9669e7e6a1d725649b3", null ],
-    [ "GetInstanceScript", "d6/dfd/a12103.html#a5ee2cc38a36ce2cd8c1196ce9f687e2a", null ]
+    [ "boss_hedrumAI", "d6/dfd/a12103.html#a95e4af51a8e24fa7b36b924c6cdfb86c", null ],
+    [ "JustEngagedWith", "d6/dfd/a12103.html#a1cf03b06598f2b36814062d47a73ed82", null ],
+    [ "UpdateAI", "d6/dfd/a12103.html#aa515ed081aaabdad751c1bbba56d3d96", null ]
 ];

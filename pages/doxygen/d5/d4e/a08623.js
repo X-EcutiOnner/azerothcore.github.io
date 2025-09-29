@@ -1,13 +1,10 @@
 var a08623 =
 [
-    [ "PassengerSet", "d5/d4e/a08623.html#aa6421ebd51e84c819604e18e93729d27", null ],
-    [ "Transport", "d5/d4e/a08623.html#a36928c178aa490c02aa25b4b12e2bf63", null ],
-    [ "AddPassenger", "d5/d4e/a08623.html#ac5c328f816b0358a68265322219357c1", null ],
-    [ "CalculatePassengerOffset", "d5/d4e/a08623.html#a327d37eef797c4197b8bba503bd8a3f8", null ],
-    [ "CalculatePassengerPosition", "d5/d4e/a08623.html#ae4e716194ce5e9c466a8fe5c53ee0980", null ],
-    [ "GetPassengers", "d5/d4e/a08623.html#a3f70c977ba2450d4244e54e4260f6ea1", null ],
-    [ "GetPathProgress", "d5/d4e/a08623.html#a4ecab9f8617918aea3a26cc0feb9c021", null ],
-    [ "RemovePassenger", "d5/d4e/a08623.html#a1d70745a16a1cbf3307a25ff4a53c75d", null ],
-    [ "SetPathProgress", "d5/d4e/a08623.html#acb68e75a78fa196a4b514abd24c0e322", null ],
-    [ "_passengers", "d5/d4e/a08623.html#adc2089495aadaab23414ecae3b2df180", null ]
+    [ "EquipmentSet", "d5/d4e/a08623.html#acd3085c12c795daceae86e94448109e2", null ],
+    [ "Guid", "d5/d4e/a08623.html#aae529ea61a2ad4f114b6a108564f5474", null ],
+    [ "IconName", "d5/d4e/a08623.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
+    [ "IgnoreMask", "d5/d4e/a08623.html#af116e824d23f000f424f3b261618e827", null ],
+    [ "Items", "d5/d4e/a08623.html#a113e6e5883afe38d446a6d435cd34a01", null ],
+    [ "Name", "d5/d4e/a08623.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
+    [ "state", "d5/d4e/a08623.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
 ];

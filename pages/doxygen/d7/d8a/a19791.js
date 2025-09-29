@@ -1,5 +1,6 @@
 var a19791 =
 [
-    [ "achievement_auriaya_nine_lives", "d7/d8a/a19791.html#a750304bc946a7ecefec29dc18c429d3b", null ],
-    [ "OnCheck", "d7/d8a/a19791.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
+    [ "boss_sjonnirAI", "d9/db5/a19795.html", "d9/db5/a19795" ],
+    [ "boss_sjonnir", "d7/d8a/a19791.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
+    [ "GetAI", "d7/d8a/a19791.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
 ];

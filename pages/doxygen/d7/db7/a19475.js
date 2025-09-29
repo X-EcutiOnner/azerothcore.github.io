@@ -1,25 +1,8 @@
 var a19475 =
 [
-    [ "boss_volkhanAI", "d7/db7/a19475.html#afbab5656887a3983b70bf21452c71f0e", null ],
-    [ "DoAction", "d7/db7/a19475.html#a94dd9afca122baa34b6ee5a63e8d6330", null ],
-    [ "GetNextPos", "d7/db7/a19475.html#ab333773a0f12ec5d4981669ef0e747b3", null ],
-    [ "GoToAnvil", "d7/db7/a19475.html#aea7d66919650969e6d1edfebd976eea6", null ],
-    [ "JustDied", "d7/db7/a19475.html#ae6e1bf5e0d86b6999b0357d022e80154", null ],
-    [ "JustEngagedWith", "d7/db7/a19475.html#a5f4eaa7215fde5dec0106975981e2276", null ],
-    [ "JustSummoned", "d7/db7/a19475.html#a648f8f7b9bcec6d677dbea1888a59c83", null ],
-    [ "KilledUnit", "d7/db7/a19475.html#aa227eecb791e12559015ee07a398d251", null ],
-    [ "MovementInform", "d7/db7/a19475.html#abe35a1a132a9f2ce22cedf1f10b503d8", null ],
-    [ "Reset", "d7/db7/a19475.html#a5e92fd793b6eedc8d1102b89aabecc68", null ],
-    [ "ScheduleEvents", "d7/db7/a19475.html#afc94fccc9d761714a4cc8e1b3fceaf13", null ],
-    [ "SpellHitTarget", "d7/db7/a19475.html#a4704b32d29a4465fcc2a3f638deb37a9", null ],
-    [ "UpdateAI", "d7/db7/a19475.html#a927ab90fe3e1a4951052934d77094530", null ],
-    [ "events", "d7/db7/a19475.html#a3305529d3a25a929c4c6c5128773a4b6", null ],
-    [ "HealthCheck", "d7/db7/a19475.html#a14c65e87caf2f0e815955946357aebf2", null ],
-    [ "m_pInstance", "d7/db7/a19475.html#ab128bbb66f0311b10e2589c5b00ba6bb", null ],
-    [ "PointID", "d7/db7/a19475.html#acfe0e8fabd539e3d3a9953db94824e51", null ],
-    [ "ShatteredCount", "d7/db7/a19475.html#a5ee620ae4a5570bef0746eb3a57d96b7", null ],
-    [ "summons", "d7/db7/a19475.html#a86be695fda3975efa15f2ce2373ec158", null ],
-    [ "x", "d7/db7/a19475.html#a76e407ff3cd8194c9ebc8845a579055f", null ],
-    [ "y", "d7/db7/a19475.html#ab5a5b9979882dd06a0fa1c0e86a768dc", null ],
-    [ "z", "d7/db7/a19475.html#a3a3617b13a66c38695551a5814868f40", null ]
+    [ "npc_alexstraszaAI", "d7/db7/a19475.html#a36cf63109e379fa4a9e3f3426d70e50c", null ],
+    [ "AttackStart", "d7/db7/a19475.html#a120931695bf3ea649289ee4f6df9a3fd", null ],
+    [ "MoveInLineOfSight", "d7/db7/a19475.html#af93fc8e8877cc5730db7a9386ac3d815", null ],
+    [ "UpdateAI", "d7/db7/a19475.html#aa8cc3ee1a2a4702349b39708cc172594", null ],
+    [ "events", "d7/db7/a19475.html#aade88413d2f2998be6dcb9d15bf85ce0", null ]
 ];

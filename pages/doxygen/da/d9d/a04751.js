@@ -1,4 +1,5 @@
 var a04751 =
 [
-    [ "dtQueryFilterExt", "d2/d6f/a05380.html", "d2/d6f/a05380" ]
+    [ "DataMap", "df/d51/a05491.html", "df/d51/a05491" ],
+    [ "DataMap::Base", "db/d0d/a05495.html", "db/d0d/a05495" ]
 ];

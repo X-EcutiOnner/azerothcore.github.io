@@ -1,7 +1,8 @@
 var a24619 =
 [
-    [ "AfterApply", "dd/db4/a24619.html#aee69eceead7e31cce2638ff252f6653d", null ],
-    [ "AfterRemove", "dd/db4/a24619.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
-    [ "PrepareAuraScript", "dd/db4/a24619.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
-    [ "Register", "dd/db4/a24619.html#ab5f8afbfa688ebd548a5508543498b55", null ]
+    [ "npc_pet_gen_valkyr_guardian", "dd/db4/a24619.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "dd/db4/a24619.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "dd/db4/a24619.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "dd/db4/a24619.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "dd/db4/a24619.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

@@ -1,7 +1,6 @@
 var a23903 =
 [
-    [ "OnPeriodic", "d9/dfd/a23903.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
-    [ "PrepareAuraScript", "d9/dfd/a23903.html#a6f7db06cc1ace68ee0076077773b1659", null ],
-    [ "Register", "d9/dfd/a23903.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
-    [ "Validate", "d9/dfd/a23903.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "dd/d50/a23907.html", "dd/d50/a23907" ],
+    [ "instance_shattered_halls", "d9/dfd/a23903.html#a9d0d3b6baec34c679151791610cff3a7", null ],
+    [ "GetInstanceScript", "d9/dfd/a23903.html#a82388466811b022a725ba721845cadf3", null ]
 ];

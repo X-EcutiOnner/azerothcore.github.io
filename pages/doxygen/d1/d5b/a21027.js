@@ -1,12 +1,17 @@
 var a21027 =
 [
-    [ "boss_skarvald_the_constructor", "d1/d5b/a21027.html#a32d092ecf17aaafc61cefb4c0efce639", null ],
-    [ "DoAction", "d1/d5b/a21027.html#a63c9e981a198f6fefe8d1fa4d8ede20e", null ],
-    [ "JustDied", "d1/d5b/a21027.html#a9180dcb3c22944c75e5e424dc1a78339", null ],
-    [ "JustEngagedWith", "d1/d5b/a21027.html#a529439d257abf78f76db0043549964e6", null ],
-    [ "KilledUnit", "d1/d5b/a21027.html#a9d65e24161dd1f7bac9fe991624c5c80", null ],
-    [ "Reset", "d1/d5b/a21027.html#ada2068f8b5d125062ec0b7fde0d05c7f", null ],
-    [ "UpdateAI", "d1/d5b/a21027.html#a9c1f74c20a5a9f47f9430450742938a2", null ],
-    [ "events", "d1/d5b/a21027.html#a28837280e161f6971564a4725c97a154", null ],
-    [ "pInstance", "d1/d5b/a21027.html#ab5b773a9960f611a6383578a607ba258", null ]
+    [ "boss_yoggsaronAI", "d1/d5b/a21027.html#a33b1adb7406bc206107f8fe53a574c65", null ],
+    [ "AttackStart", "d1/d5b/a21027.html#a17139da5a358f2850d65cbe8ea7b21bf", null ],
+    [ "DoAction", "d1/d5b/a21027.html#ab280a3b876c273f6e2422de6bc843e56", null ],
+    [ "GetData", "d1/d5b/a21027.html#ae7b88f2024b2c4c47aac8a481d82cdd5", null ],
+    [ "JustDied", "d1/d5b/a21027.html#a5a6a6b5fd95c8ed6371ede88d2c319a0", null ],
+    [ "JustSummoned", "d1/d5b/a21027.html#a2880edc8ea9d6b2ca75b0fd5c2f8d997", null ],
+    [ "SpellHit", "d1/d5b/a21027.html#a49baf8ff585806d29cce501a62f23109", null ],
+    [ "SummonImmortalGuardian", "d1/d5b/a21027.html#a2cef1e6993460afd7be4807acf156847", null ],
+    [ "UpdateAI", "d1/d5b/a21027.html#a0dddae6f83e53c4dba0588d5a2b1b156", null ],
+    [ "_thirdPhase", "d1/d5b/a21027.html#aac7f67610b00039f251e3e216a3d935b", null ],
+    [ "_usedInsane", "d1/d5b/a21027.html#a3b6b2f48a12ab281d578c405c0b60041", null ],
+    [ "events", "d1/d5b/a21027.html#a3a8ea308064aa7eb118c076c0bf42b44", null ],
+    [ "m_pInstance", "d1/d5b/a21027.html#a9cb3c01fca86f65171d51d08017edee8", null ],
+    [ "summons", "d1/d5b/a21027.html#a6cc648c553bd2fc75e5371bcd5199c1a", null ]
 ];

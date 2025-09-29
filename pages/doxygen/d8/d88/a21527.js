@@ -1,6 +1,6 @@
 var a21527 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "de/da5/a21531.html", "de/da5/a21531" ],
-    [ "npc_valiance_keep_cannoneer", "d8/d88/a21527.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
-    [ "GetAI", "d8/d88/a21527.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
+    [ "npc_erekem_guardAI", "de/da5/a21531.html", "de/da5/a21531" ],
+    [ "npc_erekem_guard", "d8/d88/a21527.html#a78592996e90f77f81eec0325a7f11956", null ],
+    [ "GetAI", "d8/d88/a21527.html#a844a6a29eda4f41547ea37a4c08fb723", null ]
 ];

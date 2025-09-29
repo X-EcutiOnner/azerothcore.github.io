@@ -1,8 +1,7 @@
 var a23007 =
 [
-    [ "Absorb", "d3/d70/a23007.html#a1c054ce067a620e16611cbb9e784cee1", null ],
-    [ "CalculateAmount", "d3/d70/a23007.html#abd828dd3493339db9c0613e960792941", null ],
-    [ "PrepareAuraScript", "d3/d70/a23007.html#a1075139fc82cd8e1b30d4bc0f89fbfe0", null ],
-    [ "Register", "d3/d70/a23007.html#a85840e7d27a7ed256c45de87f4486d45", null ],
-    [ "Update", "d3/d70/a23007.html#afbf28fd4eb66899a424e0b542d561656", null ]
+    [ "HandleOnEffectApply", "d3/d70/a23007.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
+    [ "HandleOnEffectRemove", "d3/d70/a23007.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
+    [ "PrepareAuraScript", "d3/d70/a23007.html#a45df29f911b1232e306e04a182648904", null ],
+    [ "Register", "d3/d70/a23007.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
 ];

@@ -1,7 +1,8 @@
 var a06115 =
 [
-    [ "SpellTargetSelector", "db/d41/a06115.html#a9f1f441e542500dc43c58b97729f7f51", null ],
-    [ "operator()", "db/d41/a06115.html#a53c27c23f2d9846903e1ff9b479a36b1", null ],
-    [ "_caster", "db/d41/a06115.html#ac5b0844c975a6b3ff3c14a843fd28fba", null ],
-    [ "_spellInfo", "db/d41/a06115.html#a309ed04630cfb92810b7f51376b3917c", null ]
+    [ "ArcherAI", "db/d41/a06115.html#a113c138958054716182c15ee9f2b47da", null ],
+    [ "AttackStart", "db/d41/a06115.html#adc79f7ead63ecaf8fed9ea4f81d27f76", null ],
+    [ "Permissible", "db/d41/a06115.html#ac5b3d144b0d71a5e527d53f33c3d31cc", null ],
+    [ "UpdateAI", "db/d41/a06115.html#aa6e072e239549d337de61670a05eb6f8", null ],
+    [ "m_minRange", "db/d41/a06115.html#ab449efcd81769888ff8d8bc5f348cbe7", null ]
 ];

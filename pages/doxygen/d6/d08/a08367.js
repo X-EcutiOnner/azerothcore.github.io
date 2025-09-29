@@ -1,11 +1,7 @@
 var a08367 =
 [
-    [ "MovableMapObject", "d6/d08/a08367.html#ad9f4cb74c55993cfdfc5895aefc33cfb", null ],
-    [ "GetCurrentCell", "d6/d08/a08367.html#a6d7d87cff5f00f3b370584675caf7870", null ],
-    [ "SetCurrentCell", "d6/d08/a08367.html#a4caa8c9e50452bff413dec06bf80b84c", null ],
-    [ "Map", "d6/d08/a08367.html#ad2f32e921244459f7cc6d50355429cc6", null ],
-    [ "ObjectGridLoader", "d6/d08/a08367.html#a9551c85ae0e43e4d212225c643da2262", null ],
-    [ "RandomMovementGenerator", "d6/d08/a08367.html#a260ebfc53c9406bc0356c553822d8ab2", null ],
-    [ "_currentCell", "d6/d08/a08367.html#a529db8859c0c9713bcc2f62459bbcc9f", null ],
-    [ "_moveState", "d6/d08/a08367.html#a6782d8e3dc7de58ef83a83cf0a355e43", null ]
+    [ "EnchStoreItem", "d6/d08/a08367.html#a89019e156774c5b978251479264e5463", null ],
+    [ "EnchStoreItem", "d6/d08/a08367.html#aca83bb20eb6153faeaf599b07b97e357", null ],
+    [ "chance", "d6/d08/a08367.html#a2d3d0cd28c79402b3625694d4676ed8b", null ],
+    [ "ench", "d6/d08/a08367.html#ac2346b6c6c5c09bb63676d72c798d848", null ]
 ];

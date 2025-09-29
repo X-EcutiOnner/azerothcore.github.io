@@ -1,8 +1,8 @@
 var a15255 =
 [
-    [ "npc_injured_draeneiAI", "df/d27/a15255.html#a6832ec8b005e75ff66b0fd04e5ff3daa", null ],
-    [ "JustEngagedWith", "df/d27/a15255.html#adcc5750f0ab037a7ac38b9fa64b75a74", null ],
-    [ "MoveInLineOfSight", "df/d27/a15255.html#a514556f4a81c6f1f8b7caaa526c08662", null ],
-    [ "Reset", "df/d27/a15255.html#adcb601f739a91ce71926791885152471", null ],
-    [ "UpdateAI", "df/d27/a15255.html#af4d723ac0a95f9dad12e82d5bc987f50", null ]
+    [ "npc_obsidian_destroyer", "df/d27/a15255.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
+    [ "JustDied", "df/d27/a15255.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
+    [ "JustEngagedWith", "df/d27/a15255.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
+    [ "Reset", "df/d27/a15255.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
+    [ "UpdateAI", "df/d27/a15255.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
 ];

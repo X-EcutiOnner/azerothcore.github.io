@@ -1,6 +1,6 @@
 var a20635 =
 [
-    [ "OnPeriodic", "d0/d97/a20635.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
-    [ "PrepareAuraScript", "d0/d97/a20635.html#a6aa46e818199da206e6543005a7fe87f", null ],
-    [ "Register", "d0/d97/a20635.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
+    [ "npc_ulduar_aerial_command_unitAI", "d6/dcb/a20639.html", "d6/dcb/a20639" ],
+    [ "npc_ulduar_aerial_command_unit", "d0/d97/a20635.html#ac0c1ecef78b92dd4ae072f6eeca9f733", null ],
+    [ "GetAI", "d0/d97/a20635.html#a406e828a902d75bb1946fd8f5090044f", null ]
 ];

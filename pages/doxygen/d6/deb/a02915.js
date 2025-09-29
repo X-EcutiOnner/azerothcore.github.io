@@ -1,6 +1,6 @@
 var a02915 =
 [
-    [ "ResetNotifier", "d8/df9/a09834.html", "d8/df9/a09834" ],
-    [ "MAP_INVALID_ZONE", "d6/deb/a02915.html#ab627038bd646584995dec28f4e212525", null ],
-    [ "IsInWMOInterior", "d6/deb/a02915.html#ad41458075af3abab316f89b325f54b7e", null ]
+    [ "instance_halls_of_stone", "da/d00/a19867.html", "da/d00/a19867" ],
+    [ "instance_halls_of_stone::instance_halls_of_stone_InstanceMapScript", "d4/de8/a19871.html", "d4/de8/a19871" ],
+    [ "AddSC_instance_halls_of_stone", "d6/deb/a02915.html#a81d8c56de5920b1e73d7955e1c7399ed", null ]
 ];

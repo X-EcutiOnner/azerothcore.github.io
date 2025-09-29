@@ -1,5 +1,5 @@
 var a27647 =
 [
-    [ "go_transport_the_thundercaller", "d2/dfc/a27647.html#a79d5ed60a112c5f352f9f0b94f9f3a17", null ],
-    [ "EventInform", "d2/dfc/a27647.html#ad2e981ff6223ec2cbd8a897485a61204", null ]
+    [ "item_disgusting_jar", "d2/dfc/a27647.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "d2/dfc/a27647.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

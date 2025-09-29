@@ -1,8 +1,5 @@
 var a21379 =
 [
-    [ "npc_azure_mage_slayerAI", "d5/d3e/a21379.html#af1a57574d70a48b16d70d8a056f54018", null ],
-    [ "Reset", "d5/d3e/a21379.html#aabe921f0d4fd147c457779791a7af619", null ],
-    [ "UpdateAI", "d5/d3e/a21379.html#a7cc5ea88be6c9cf767a0cd433db7dd73", null ],
-    [ "uiArcaneEmpowermentTimer", "d5/d3e/a21379.html#ace0fdd5e4b57e7ce603d2355bfc838dd", null ],
-    [ "uiSpellLockTimer", "d5/d3e/a21379.html#ac3c4d2be0dd9ba42e40adccda7100947", null ]
+    [ "go_harpoon_canon", "d5/d3e/a21379.html#aa7651e111cade00bbbdb9d0feced03e6", null ],
+    [ "OnGossipHello", "d5/d3e/a21379.html#ad0098bafd1233636bde181312126e65f", null ]
 ];

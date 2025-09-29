@@ -1,6 +1,8 @@
 var a13687 =
 [
-    [ "npc_the_scourge_cauldronAI", "dc/d44/a13691.html", "dc/d44/a13691" ],
-    [ "npc_the_scourge_cauldron", "d9/d1d/a13687.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
-    [ "GetAI", "d9/d1d/a13687.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
+    [ "HandleEffectApply", "d9/d1d/a13687.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
+    [ "HandleEffectRemove", "d9/d1d/a13687.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
+    [ "Load", "d9/d1d/a13687.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
+    [ "PrepareAuraScript", "d9/d1d/a13687.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
+    [ "Register", "d9/d1d/a13687.html#a6a90296c9903ce65913f3bba29dea176", null ]
 ];

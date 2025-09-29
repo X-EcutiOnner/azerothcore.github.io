@@ -1,8 +1,7 @@
 var a23535 =
 [
-    [ "HandleDummyApply", "da/d63/a23535.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
-    [ "HandleDummyRemove", "da/d63/a23535.html#a368376fe4262815b9b9a9811178cec6d", null ],
-    [ "HandlePeriodicRemove", "da/d63/a23535.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
-    [ "PrepareAuraScript", "da/d63/a23535.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
-    [ "Register", "da/d63/a23535.html#afeb47a40cfea3d958fee7a410e83857f", null ]
+    [ "PeriodicTick", "da/d63/a23535.html#a789d2d4d2bc75e412abe80a33102fa06", null ],
+    [ "PrepareAuraScript", "da/d63/a23535.html#a49db8ade3bc3a3da9e043e8b9ad1759d", null ],
+    [ "Register", "da/d63/a23535.html#aec2d7f564107f5b294a5d5c3dd3f9b25", null ],
+    [ "Validate", "da/d63/a23535.html#a7c2309d3192b2a18d8035c8067849d6d", null ]
 ];

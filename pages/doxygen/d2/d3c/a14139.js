@@ -1,9 +1,6 @@
 var a14139 =
 [
-    [ "CheckCast", "d2/d3c/a14139.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
-    [ "FilterTargets", "d2/d3c/a14139.html#a9638048b4107db116474abf8e18d7760", null ],
-    [ "HandleBeforeHit", "d2/d3c/a14139.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
-    [ "HandleScriptEffect", "d2/d3c/a14139.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
-    [ "PrepareSpellScript", "d2/d3c/a14139.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
-    [ "Register", "d2/d3c/a14139.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
+    [ "boss_gahzranka", "d2/d3c/a14139.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "d2/d3c/a14139.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "d2/d3c/a14139.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

@@ -1,7 +1,6 @@
 var a17563 =
 [
-    [ "npc_gunship_rocketeerAI", "d4/d44/a17563.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
-    [ "CanAIAttack", "d4/d44/a17563.html#a4b4e2839e426bdb752beea09394f13dc", null ],
-    [ "MovementInform", "d4/d44/a17563.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
-    [ "UpdateAI", "d4/d44/a17563.html#af73d71750f116fb90be1c2acba75ca70", null ]
+    [ "VampiricBiteTargetSelector", "d4/d44/a17563.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
+    [ "operator()", "d4/d44/a17563.html#ac16204f50f62cb2568998d1ea137f55d", null ],
+    [ "_source", "d4/d44/a17563.html#af23a69491c915909566249b109b1f0e8", null ]
 ];

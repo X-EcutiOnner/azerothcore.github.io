@@ -1,12 +1,11 @@
 var a05227 =
 [
-    [ "RegistryMapType", "d3/d6e/a05227.html#ab6a131bc0c7d0ddcb9ad34044b9c8ac2", null ],
-    [ "ObjectRegistry", "d3/d6e/a05227.html#aa3bcc30791e82bc900eacf1c5833b7f8", null ],
-    [ "~ObjectRegistry", "d3/d6e/a05227.html#a2734a0e6001f597b43e006bc9d84a6b1", null ],
-    [ "GetRegisteredItems", "d3/d6e/a05227.html#aba4a4fcc7ee59afbb4dea6df7410dc02", null ],
-    [ "GetRegistryItem", "d3/d6e/a05227.html#a474bdff0ab0f0a3db5f914b9dfaa48d1", null ],
-    [ "HasItem", "d3/d6e/a05227.html#a3c95897734a780c1f299d24a058b3595", null ],
-    [ "InsertItem", "d3/d6e/a05227.html#a55416824a5dff4138f5d828e352e3d7c", null ],
-    [ "instance", "d3/d6e/a05227.html#a7a6582a84361d5ad1142f29c9e1d9cb5", null ],
-    [ "_registeredObjects", "d3/d6e/a05227.html#a61e6a6eb75512241e82092abfeba7a65", null ]
+    [ "Record", "d3/d6e/a05227.html#a3303a6b7ba364777e368158052dbe1db", null ],
+    [ "getFloat", "d3/d6e/a05227.html#a1647694079553a20a7c6621aa6d4ecf6", null ],
+    [ "getString", "d3/d6e/a05227.html#a833c7017749b6b3109ebdee2ff0d3517", null ],
+    [ "getUInt", "d3/d6e/a05227.html#a6f22775adc36b8955009f3f0bd51f355", null ],
+    [ "getUInt8", "d3/d6e/a05227.html#af6a95de37b34f0204f57323d9a39d110", null ],
+    [ "DBCFileLoader", "d3/d6e/a05227.html#aa9814b507b472e781e08c803e025cc72", null ],
+    [ "file", "d3/d6e/a05227.html#a146dc23a5f24a0d8a1a34f29375b9bcd", null ],
+    [ "offset", "d3/d6e/a05227.html#a06e2c90771be91d9ca948840a07125e8", null ]
 ];

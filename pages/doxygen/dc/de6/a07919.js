@@ -1,15 +1,16 @@
 var a07919 =
 [
-    [ "LfgProposal", "dc/de6/a07919.html#ad67e8b90ee53576adcab0ac41e523699", null ],
-    [ "cancelTime", "dc/de6/a07919.html#ad702ce8bccc9fbb81457456f1133e2e0", null ],
-    [ "dungeonId", "dc/de6/a07919.html#a3f4f1e3120ed950e2272789c757a401f", null ],
-    [ "encounters", "dc/de6/a07919.html#a6f0fb2094c6237c8bba4321b432115ad", null ],
-    [ "group", "dc/de6/a07919.html#ac04263773858dfe70e7dd627a62113dc", null ],
-    [ "id", "dc/de6/a07919.html#a580dfb67b8040a6267cbd20938cb8667", null ],
-    [ "isNew", "dc/de6/a07919.html#a81989ce9df0046cfde2d805cc4edb59f", null ],
-    [ "leader", "dc/de6/a07919.html#a12f8574ad017641808e522e1e9fdff49", null ],
-    [ "players", "dc/de6/a07919.html#a7d0cc59e08db6fd186de1875c7313b3d", null ],
-    [ "queues", "dc/de6/a07919.html#a7d0a8fabf7aaa632df03f8838fd2a3b4", null ],
-    [ "showorder", "dc/de6/a07919.html#a3d388b633378c35f0efe5927fa78beef", null ],
-    [ "state", "dc/de6/a07919.html#abd3f0fe86587f41c443735164924a3ae", null ]
+    [ "DisableMap", "dc/de6/a07919.html#adf2cad99fa4b2b3ddbff05931928c1c5", null ],
+    [ "DisableTypeMap", "dc/de6/a07919.html#a70c68e93cdd77f5e54bae1b96c66da13", null ],
+    [ "DisableMgr", "dc/de6/a07919.html#afadb62b96ab43f983f8a8c3077cbe205", null ],
+    [ "~DisableMgr", "dc/de6/a07919.html#ae1483ae3fdeeb98cceb29905f7181b1a", null ],
+    [ "AddDisable", "dc/de6/a07919.html#a343955ca73dabce8e7b81bf2803992fc", null ],
+    [ "CheckQuestDisables", "dc/de6/a07919.html#a2f9fa5dadf6f2da5f01651d37d996377", null ],
+    [ "HandleDisableType", "dc/de6/a07919.html#a203bb85bc7ecb9be3cf09b5d093b90fa", null ],
+    [ "instance", "dc/de6/a07919.html#ac3787801d677b0ed6592476d648743db", null ],
+    [ "IsDisabledFor", "dc/de6/a07919.html#accac4f17d8411544e22ba2231b04f36f", null ],
+    [ "IsPathfindingEnabled", "dc/de6/a07919.html#a8dce4846886ded6ec2b882820abdc517", null ],
+    [ "IsVMAPDisabledFor", "dc/de6/a07919.html#a38b182e1836b2197303b2809006f5148", null ],
+    [ "LoadDisables", "dc/de6/a07919.html#adb464165caf6cd436499fa84969eeaf8", null ],
+    [ "m_DisableMap", "dc/de6/a07919.html#a7a299346248eb6dc692f9e56ae9efffd", null ]
 ];

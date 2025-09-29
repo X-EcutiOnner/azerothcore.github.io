@@ -1,8 +1,9 @@
 var a25011 =
 [
-    [ "CheckRequirement", "de/d03/a25011.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
-    [ "HandleScript", "de/d03/a25011.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
-    [ "Load", "de/d03/a25011.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
-    [ "PrepareSpellScript", "de/d03/a25011.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
-    [ "Register", "de/d03/a25011.html#a89d053e0ee793017c74188aac32d99d5", null ]
+    [ "FilterTargets", "de/d03/a25011.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
+    [ "PrepareSpellScript", "de/d03/a25011.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
+    [ "Register", "de/d03/a25011.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
+    [ "SetTargets", "de/d03/a25011.html#ac77e95af9b08118e87e3329eab5515ea", null ],
+    [ "Validate", "de/d03/a25011.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
+    [ "_targets", "de/d03/a25011.html#acc66768f54c514552f0ab01274c24f17", null ]
 ];

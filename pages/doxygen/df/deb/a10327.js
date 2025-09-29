@@ -1,6 +1,5 @@
 var a10327 =
 [
-    [ "OutdoorPvPScript", "df/deb/a10327.html#ad7882db48419888c7968007e30c2f3f7", null ],
-    [ "GetOutdoorPvP", "df/deb/a10327.html#aa213974f384c88ab65f7b7308dadb026", null ],
-    [ "IsDatabaseBound", "df/deb/a10327.html#ac22c6a9945738270452848f997d2818f", null ]
+    [ "FactoryCreatureScript", "df/deb/a10327.html#a62cd4db9e8dd3dab606f1166fdf0ce44", null ],
+    [ "GetAI", "df/deb/a10327.html#a0e491e4cda2b03456d798f6726dbde54", null ]
 ];

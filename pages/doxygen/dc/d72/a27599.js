@@ -1,6 +1,5 @@
 var a27599 =
 [
-    [ "npc_stable_masterAI", "d7/d45/a27603.html", "d7/d45/a27603" ],
-    [ "npc_stable_master", "dc/d72/a27599.html#ad327340f47e10bec7f077192227b0899", null ],
-    [ "GetAI", "dc/d72/a27599.html#a7e34e18d2dad465eb88b0388fa830490", null ]
+    [ "go_massive_seaforium_charge", "dc/d72/a27599.html#adae43b764f237932923cd18207e4d23c", null ],
+    [ "OnGossipHello", "dc/d72/a27599.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
 ];

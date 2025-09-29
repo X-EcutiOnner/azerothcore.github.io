@@ -1,6 +1,7 @@
 var a15251 =
 [
-    [ "npc_injured_draeneiAI", "df/d27/a15255.html", "df/d27/a15255" ],
-    [ "npc_injured_draenei", "d0/d2d/a15251.html#a660c0f0c4ed41d70ad0a50cde25c1d14", null ],
-    [ "GetAI", "d0/d2d/a15251.html#a753bd4a5bb1ddc9feb540a3bedc7d7bb", null ]
+    [ "npc_hivezara_stinger", "d0/d2d/a15251.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
+    [ "JustEngagedWith", "d0/d2d/a15251.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
+    [ "Reset", "d0/d2d/a15251.html#ae8e893c90942a469628c393d5b5380cc", null ],
+    [ "UpdateAI", "d0/d2d/a15251.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
 ];

@@ -1,7 +1,8 @@
 var a11419 =
 [
-    [ "PlayerDumpReader", "dc/d62/a11419.html#ad630b61e298fb1ddf165481c9a14e077", null ],
-    [ "LoadDump", "dc/d62/a11419.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
-    [ "LoadDumpFromFile", "dc/d62/a11419.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
-    [ "LoadDumpFromString", "dc/d62/a11419.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
+    [ "EffectHandler", "dc/d62/a11419.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
+    [ "Call", "dc/d62/a11419.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
+    [ "CheckEffect", "dc/d62/a11419.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
+    [ "ToString", "dc/d62/a11419.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
+    [ "pEffectHandlerScript", "dc/d62/a11419.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
 ];

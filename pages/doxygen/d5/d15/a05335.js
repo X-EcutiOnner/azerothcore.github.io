@@ -1,16 +1,10 @@
 var a05335 =
 [
-    [ "LogMessage", "d5/d15/a05335.html#a563286e5cd6518e04b3069a86cf6e972", null ],
-    [ "LogMessage", "d5/d15/a05335.html#a0a5626d481fe047437f213f1fa48a3aa", null ],
-    [ "LogMessage", "d5/d15/a05335.html#a727fa3a719c50572711ada4e257102ab", null ],
-    [ "getTimeStr", "d5/d15/a05335.html#aaeca452ae2fe32e7412f4abc30642da2", null ],
-    [ "getTimeStr", "d5/d15/a05335.html#af40f502e57bf12f31fc7a2fe60584fc8", null ],
-    [ "operator=", "d5/d15/a05335.html#af35b8fc183cb1848e965117497f50ab4", null ],
-    [ "Size", "d5/d15/a05335.html#ad2947063f8263da27acc82ce0bba6bc2", null ],
-    [ "level", "d5/d15/a05335.html#a44096654072d07e506ef6414a8ce4970", null ],
-    [ "mtime", "d5/d15/a05335.html#a2dab9ed7c1aa8b784e74247667295e29", null ],
-    [ "param1", "d5/d15/a05335.html#afcf2119e7c084339bd70e2ffb4c88d0e", null ],
-    [ "prefix", "d5/d15/a05335.html#afe279a591acc9740457c3cd58d43a263", null ],
-    [ "text", "d5/d15/a05335.html#a4ad799611980177ae87f3acbf2af8ff7", null ],
-    [ "type", "d5/d15/a05335.html#a77105c721645df5654e3c48ce00c2b5a", null ]
+    [ "Find", "d5/d15/a05335.html#a1d6a7cd1596aa03a8e53609c7d7b6e33", null ],
+    [ "GetElements", "d5/d15/a05335.html#a653b00a9d570ae9d9276a061beda3f35", null ],
+    [ "GetElements", "d5/d15/a05335.html#a209cbb9e5ba70b9f5f66e64e2c36411d", null ],
+    [ "Insert", "d5/d15/a05335.html#ad61d9aa314133d8eba934fe56cff48e0", null ],
+    [ "Remove", "d5/d15/a05335.html#a5a9666fc5f0136a778d8c542a386d4bf", null ],
+    [ "Size", "d5/d15/a05335.html#a289258c9015016a70d2867df7e113def", null ],
+    [ "_elements", "d5/d15/a05335.html#adda6657e9a0fd08b105cd4d6b2baa9d3", null ]
 ];

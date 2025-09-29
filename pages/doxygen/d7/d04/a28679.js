@@ -1,10 +1,10 @@
 var a28679 =
 [
-    [ "ADTFile", "d7/d04/a28679.html#a763f0f9c1106700987797864b2fdb006", null ],
-    [ "~ADTFile", "d7/d04/a28679.html#ad1533f5b630a70b6ff95861e64960de0", null ],
-    [ "init", "d7/d04/a28679.html#ab9ba3b1a2aac611bec5bfe4a454e4042", null ],
-    [ "_file", "d7/d04/a28679.html#a7f3071e63be08fe3288d5ab03b5b8acf", null ],
-    [ "Adtfilename", "d7/d04/a28679.html#a07c82112e26b96a87e22f1c7bec9c72e", null ],
-    [ "ModelInstanceNames", "d7/d04/a28679.html#a6601e20fed78c54bb281ad3bd0ce7800", null ],
-    [ "WmoInstanceNames", "d7/d04/a28679.html#acd96c287a01828bf3e49fb599a3b5d81", null ]
+    [ "ID", "d7/d04/a28679.html#a090069d13cbbcc5762ecca600c506492", null ],
+    [ "map_id", "d7/d04/a28679.html#a685931e2a361f9e0fc81c004c7467d19", null ],
+    [ "MountCreatureID", "d7/d04/a28679.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
+    [ "name", "d7/d04/a28679.html#ae00db3ea736c3a470f6f0690c178e758", null ],
+    [ "x", "d7/d04/a28679.html#a7cbd40848094fa367862d653b0f7170d", null ],
+    [ "y", "d7/d04/a28679.html#a9380befd45cab3104003b2487464bd71", null ],
+    [ "z", "d7/d04/a28679.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
 ];

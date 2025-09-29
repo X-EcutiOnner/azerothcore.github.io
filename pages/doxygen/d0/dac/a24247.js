@@ -1,7 +1,9 @@
 var a24247 =
 [
-    [ "HandleSendEvent", "d0/dac/a24247.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "d0/dac/a24247.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "d0/dac/a24247.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "d0/dac/a24247.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "npc_aeranasAI", "d0/dac/a24247.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "Reset", "d0/dac/a24247.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "d0/dac/a24247.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "envelopingWinds_Timer", "d0/dac/a24247.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "d0/dac/a24247.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "d0/dac/a24247.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

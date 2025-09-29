@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Cryptography/Authentication/SRP6.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/AI/CreatureAIFactory.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,36 +106,86 @@ $(document).ready(function(){initNavTree('d3/d5e/a00275.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a>  </div>
-  <div class="headertitle"><div class="title">SRP6.h File Reference</div></div>
+<a href="#define-members">Macros</a> &#124;
+<a href="#typedef-members">Typedefs</a>  </div>
+  <div class="headertitle"><div class="title">CreatureAIFactory.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AuthDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BigNumber.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CryptoHash.h</a>&quot;</code><br />
-<code>#include &lt;optional&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">FactoryHolder.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ObjectRegistry.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d1b/a05182.html">Acore::Crypto::SRP6</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dc0/a06211.html">SelectableAI</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d65/a06215.html">CreatureAIFactory&lt; REAL_AI &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:d3/d7d/a04797"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d7d/a04797.html">Acore</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:dc/d27/a04808"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d27/a04808.html">Acore::Crypto</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a08e073e90e01d97b74e2331f15bf6122"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5e/a00275.html#a08e073e90e01d97b74e2331f15bf6122">sCreatureAIRegistry</a>&#160;&#160;&#160;CreatureAIRegistry::instance()</td></tr>
+<tr class="separator:a08e073e90e01d97b74e2331f15bf6122"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a0979444cdc957651f0b4bc9e3c24934b"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../d8/da5/a05247.html">FactoryHolder</a>&lt; <a class="el" href="../../d3/d2f/a06207.html">CreatureAI</a>, <a class="el" href="../../dd/dfa/a08035.html">Creature</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5e/a00275.html#a0979444cdc957651f0b4bc9e3c24934b">CreatureAICreator</a></td></tr>
+<tr class="separator:a0979444cdc957651f0b4bc9e3c24934b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3eebee4b886bee76d38357a472a9a5ae"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../d8/da5/a05247.html#a5384598eca62a35bc617a4c395353ecd">CreatureAICreator::FactoryHolderRegistry</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d5e/a00275.html#a3eebee4b886bee76d38357a472a9a5ae">CreatureAIRegistry</a></td></tr>
+<tr class="separator:a3eebee4b886bee76d38357a472a9a5ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a08e073e90e01d97b74e2331f15bf6122" name="a08e073e90e01d97b74e2331f15bf6122"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a08e073e90e01d97b74e2331f15bf6122">&#9670;&#160;</a></span>sCreatureAIRegistry</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define sCreatureAIRegistry&#160;&#160;&#160;CreatureAIRegistry::instance()</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="a0979444cdc957651f0b4bc9e3c24934b" name="a0979444cdc957651f0b4bc9e3c24934b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0979444cdc957651f0b4bc9e3c24934b">&#9670;&#160;</a></span>CreatureAICreator</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef <a class="el" href="../../d8/da5/a05247.html">FactoryHolder</a>&lt;<a class="el" href="../../d3/d2f/a06207.html">CreatureAI</a>, <a class="el" href="../../dd/dfa/a08035.html">Creature</a>&gt; <a class="el" href="../../d3/d5e/a00275.html#a0979444cdc957651f0b4bc9e3c24934b">CreatureAICreator</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a3eebee4b886bee76d38357a472a9a5ae" name="a3eebee4b886bee76d38357a472a9a5ae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3eebee4b886bee76d38357a472a9a5ae">&#9670;&#160;</a></span>CreatureAIRegistry</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef <a class="el" href="../../d8/da5/a05247.html#a5384598eca62a35bc617a4c395353ecd">CreatureAICreator::FactoryHolderRegistry</a> <a class="el" href="../../d3/d5e/a00275.html#a3eebee4b886bee76d38357a472a9a5ae">CreatureAIRegistry</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_c55db428bdbf28a6b4d3b113733cf911.html">Cryptography</a></li><li class="navelem"><a class="el" href="../../dir_6f898d49591bfe46f28764f3b869758a.html">Authentication</a></li><li class="navelem"><a class="el" href="../../d3/d5e/a00275.html">SRP6.h</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:44:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_5e5741f7891ede41bef7ecc492194021.html">AI</a></li><li class="navelem"><a class="el" href="../../d3/d5e/a00275.html">CreatureAIFactory.h</a></li>
+    <li class="footer">Generated on Mon Sep 29 2025 20:45:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

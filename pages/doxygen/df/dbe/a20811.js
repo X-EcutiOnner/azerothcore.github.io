@@ -1,6 +1,6 @@
 var a20811 =
 [
-    [ "boss_yoggsaron_descend_portalAI", "d9/dee/a20815.html", "d9/dee/a20815" ],
-    [ "boss_yoggsaron_descend_portal", "df/dbe/a20811.html#aaf546e4e546d87818bd501b4934e8ab2", null ],
-    [ "GetAI", "df/dbe/a20811.html#aceb50c808eed17ca468a80b823af1907", null ]
+    [ "boss_thorim_sifAI", "d9/dee/a20815.html", "d9/dee/a20815" ],
+    [ "boss_thorim_sif", "df/dbe/a20811.html#a71ef8a92f648cbea6553ed1cc657f13d", null ],
+    [ "GetAI", "df/dbe/a20811.html#ae4eadf2bf83c41a8f05b853267b5fcf9", null ]
 ];

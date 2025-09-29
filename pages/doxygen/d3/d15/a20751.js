@@ -1,6 +1,6 @@
 var a20751 =
 [
-    [ "boss_yoggsaron_guardian_of_ysAI", "d0/d87/a20755.html", "d0/d87/a20755" ],
-    [ "boss_yoggsaron_guardian_of_ys", "d3/d15/a20751.html#a299b346a4e9ac5190d554702dcf00faf", null ],
-    [ "GetAI", "d3/d15/a20751.html#a86380b3ad87e0070541d22d3fb74058f", null ]
+    [ "npc_ulduar_harpoonfirestateAI", "d0/d87/a20755.html", "d0/d87/a20755" ],
+    [ "npc_ulduar_harpoonfirestate", "d3/d15/a20751.html#a85043e64606ba7c9ce2da7a37bbf0e8e", null ],
+    [ "GetAI", "d3/d15/a20751.html#a8c9e1882c0706cb0b576c24b62215238", null ]
 ];

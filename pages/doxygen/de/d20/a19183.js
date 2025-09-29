@@ -1,6 +1,7 @@
 var a19183 =
 [
-    [ "npc_nexus_lordAI", "db/dc4/a19187.html", "db/dc4/a19187" ],
-    [ "npc_nexus_lord", "de/d20/a19183.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
-    [ "GetAI", "de/d20/a19183.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
+    [ "OnApply", "de/d20/a19183.html#a72a01dea703436b2a220a9976da60fa6", null ],
+    [ "PrepareAuraScript", "de/d20/a19183.html#adb17425258d4fb2c0c464236e15f32d7", null ],
+    [ "Register", "de/d20/a19183.html#af026c126029c68ed8b7c6c1886720e4c", null ],
+    [ "Validate", "de/d20/a19183.html#a5674396828adf4e80102ed2277f1e08a", null ]
 ];

@@ -1,6 +1,6 @@
 var a20995 =
 [
-    [ "HandleEffectPeriodic", "d2/dbc/a20995.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
-    [ "PrepareAuraScript", "d2/dbc/a20995.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
-    [ "Register", "d2/dbc/a20995.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
+    [ "x", "d2/dbc/a20995.html#ae4223168378b602a0a96dbb424a22be4", null ],
+    [ "y", "d2/dbc/a20995.html#a30f361d8104e4de44541d75945105963", null ],
+    [ "z", "d2/dbc/a20995.html#ae68a79519c35302b89976ac29bb77e26", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Kalimdor/OnyxiasLair/instance_onyxias_lair.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Entities/Creature/TemporarySummon.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,80 +106,68 @@ $(document).ready(function(){initNavTree('d6/d82/a00920.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">instance_onyxias_lair.cpp File Reference</div></div>
+<a href="#enum-members">Enumerations</a>  </div>
+  <div class="headertitle"><div class="title">TemporarySummon.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">onyxias_lair.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Creature.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d23/a15090.html">instance_onyxias_lair</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/def/a08159.html">TempSummonData</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Stores data for temp summons.  <a href="../../d2/def/a08159.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd4/a15094.html">instance_onyxias_lair::instance_onyxias_lair_InstanceMapScript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d21/a08163.html">TempSummon</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d50/a08167.html">Minion</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/deb/a08171.html">Guardian</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d14/a08175.html">Puppet</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dcc/a08179.html">ForcedUnsummonDelayEvent</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a05fe21b6a553baae55b3b2523efaa9c3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d82/a00920.html#a05fe21b6a553baae55b3b2523efaa9c3">AddSC_instance_onyxias_lair</a> ()</td></tr>
-<tr class="separator:a05fe21b6a553baae55b3b2523efaa9c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a412286b689bd324fedd65ddd8dde8afb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d7c/a09686.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d82/a00920.html#a412286b689bd324fedd65ddd8dde8afb">creatureData</a> []</td></tr>
-<tr class="separator:a412286b689bd324fedd65ddd8dde8afb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:ac8a8d6d0515f6d559068f8aaae56e188"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d82/a00920.html#ac8a8d6d0515f6d559068f8aaae56e188">SummonerType</a> { <br />
+&#160;&#160;<a class="el" href="../../d6/d82/a00920.html#ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a">SUMMONER_TYPE_CREATURE</a> = 0
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d82/a00920.html#ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347">SUMMONER_TYPE_GAMEOBJECT</a> = 1
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d82/a00920.html#ac8a8d6d0515f6d559068f8aaae56e188a0550300777cb9771bd92e040ccef0270">SUMMONER_TYPE_MAP</a> = 2
+<br />
+ }</td></tr>
+<tr class="separator:ac8a8d6d0515f6d559068f8aaae56e188"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="a05fe21b6a553baae55b3b2523efaa9c3" name="a05fe21b6a553baae55b3b2523efaa9c3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a05fe21b6a553baae55b3b2523efaa9c3">&#9670;&#160;</a></span>AddSC_instance_onyxias_lair()</h2>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="ac8a8d6d0515f6d559068f8aaae56e188" name="ac8a8d6d0515f6d559068f8aaae56e188"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac8a8d6d0515f6d559068f8aaae56e188">&#9670;&#160;</a></span>SummonerType</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_instance_onyxias_lair </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname">enum <a class="el" href="../../d6/d82/a00920.html#ac8a8d6d0515f6d559068f8aaae56e188">SummonerType</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  115</span>{</div>
-<div class="line"><span class="lineno">  116</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d3/d23/a15090.html">instance_onyxias_lair</a>();</div>
-<div class="line"><span class="lineno">  117</span>}</div>
-<div class="ttc" id="aa15090_html"><div class="ttname"><a href="../../d3/d23/a15090.html">instance_onyxias_lair</a></div><div class="ttdef"><b>Definition:</b> instance_onyxias_lair.cpp:29</div></div>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a" name="ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a"></a>SUMMONER_TYPE_CREATURE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347" name="ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347"></a>SUMMONER_TYPE_GAMEOBJECT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac8a8d6d0515f6d559068f8aaae56e188a0550300777cb9771bd92e040ccef0270" name="ac8a8d6d0515f6d559068f8aaae56e188a0550300777cb9771bd92e040ccef0270"></a>SUMMONER_TYPE_MAP&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   24</span>{</div>
+<div class="line"><span class="lineno">   25</span>    <a class="code hl_enumvalue" href="../../d6/d82/a00920.html#ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a">SUMMONER_TYPE_CREATURE</a>      = 0,</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d6/d82/a00920.html#ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347">SUMMONER_TYPE_GAMEOBJECT</a>    = 1,</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d6/d82/a00920.html#ac8a8d6d0515f6d559068f8aaae56e188a0550300777cb9771bd92e040ccef0270">SUMMONER_TYPE_MAP</a>           = 2</div>
+<div class="line"><span class="lineno">   28</span>};</div>
+<div class="ttc" id="aa00920_html_ac8a8d6d0515f6d559068f8aaae56e188a0550300777cb9771bd92e040ccef0270"><div class="ttname"><a href="../../d6/d82/a00920.html#ac8a8d6d0515f6d559068f8aaae56e188a0550300777cb9771bd92e040ccef0270">SUMMONER_TYPE_MAP</a></div><div class="ttdeci">@ SUMMONER_TYPE_MAP</div><div class="ttdef"><b>Definition:</b> TemporarySummon.h:27</div></div>
+<div class="ttc" id="aa00920_html_ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a"><div class="ttname"><a href="../../d6/d82/a00920.html#ac8a8d6d0515f6d559068f8aaae56e188a13183f62876c427760b46d785c8dba3a">SUMMONER_TYPE_CREATURE</a></div><div class="ttdeci">@ SUMMONER_TYPE_CREATURE</div><div class="ttdef"><b>Definition:</b> TemporarySummon.h:25</div></div>
+<div class="ttc" id="aa00920_html_ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347"><div class="ttname"><a href="../../d6/d82/a00920.html#ac8a8d6d0515f6d559068f8aaae56e188aadd184039208a2f49a392958ca9a2347">SUMMONER_TYPE_GAMEOBJECT</a></div><div class="ttdeci">@ SUMMONER_TYPE_GAMEOBJECT</div><div class="ttdef"><b>Definition:</b> TemporarySummon.h:26</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00100">AddKalimdorScripts()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a412286b689bd324fedd65ddd8dde8afb" name="a412286b689bd324fedd65ddd8dde8afb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a412286b689bd324fedd65ddd8dde8afb">&#9670;&#160;</a></span>creatureData</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dc/d7c/a09686.html">ObjectData</a> const creatureData[]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d4/ddc/a00917.html#a59602e8f26d052c0b6f6bdfe896510b8ac5297157e46436388d2a4e835c06de6e">NPC_ONYXIA</a>, <a class="code hl_enumvalue" href="../../d4/ddc/a00917.html#a7395e25d8049b2c60a1c7191d197f5cca8fddf4be448f687691188b276d390817">DATA_ONYXIA</a> },</div>
-<div class="line">    { 0,          0           }</div>
-<div class="line">}</div>
-<div class="ttc" id="aa00917_html_a59602e8f26d052c0b6f6bdfe896510b8ac5297157e46436388d2a4e835c06de6e"><div class="ttname"><a href="../../d4/ddc/a00917.html#a59602e8f26d052c0b6f6bdfe896510b8ac5297157e46436388d2a4e835c06de6e">NPC_ONYXIA</a></div><div class="ttdeci">@ NPC_ONYXIA</div><div class="ttdef"><b>Definition:</b> onyxias_lair.h:37</div></div>
-<div class="ttc" id="aa00917_html_a7395e25d8049b2c60a1c7191d197f5cca8fddf4be448f687691188b276d390817"><div class="ttname"><a href="../../d4/ddc/a00917.html#a7395e25d8049b2c60a1c7191d197f5cca8fddf4be448f687691188b276d390817">DATA_ONYXIA</a></div><div class="ttdeci">@ DATA_ONYXIA</div><div class="ttdef"><b>Definition:</b> onyxias_lair.h:29</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00046">instance_onyxias_lair::instance_onyxias_lair_InstanceMapScript::Initialize()</a>.</p>
-
 </div>
 </div>
 </div><!-- contents -->
@@ -187,8 +175,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_5ee14a0f6ab8ad29bd27b6821baacc69.html">Kalimdor</a></li><li class="navelem"><a class="el" href="../../dir_ca5ba42e50e3e5f9337c0c8d18fe983c.html">OnyxiasLair</a></li><li class="navelem"><a class="el" href="../../d6/d82/a00920.html">instance_onyxias_lair.cpp</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:44:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_e83c9d0a1780a629eb22febc87da63b1.html">Entities</a></li><li class="navelem"><a class="el" href="../../dir_27c47d768f113c084c0b575dcbf4137a.html">Creature</a></li><li class="navelem"><a class="el" href="../../d6/d82/a00920.html">TemporarySummon.h</a></li>
+    <li class="footer">Generated on Mon Sep 29 2025 20:45:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

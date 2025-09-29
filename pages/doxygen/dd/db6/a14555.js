@@ -1,6 +1,7 @@
 var a14555 =
 [
-    [ "HandleHit", "dd/db6/a14555.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
-    [ "PrepareSpellScript", "dd/db6/a14555.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
-    [ "Register", "dd/db6/a14555.html#a64a861b5c25df5780390aa55899393d7", null ]
+    [ "HandleEffectApply", "dd/db6/a14555.html#a22f3143b10155635194abe22994a397c", null ],
+    [ "HandleEffectRemove", "dd/db6/a14555.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
+    [ "PrepareAuraScript", "dd/db6/a14555.html#abb4f53a42e701323b2fc66598ec3503c", null ],
+    [ "Register", "dd/db6/a14555.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
 ];

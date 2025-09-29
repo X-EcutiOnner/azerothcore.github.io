@@ -1,7 +1,9 @@
 var a11915 =
 [
-    [ "boss_moira_bronzebeardAI", "d4/d51/a11915.html#a11265b6aad76574c2c76253128c79165", null ],
-    [ "CastOnEmperorIfPossible", "d4/d51/a11915.html#a3f42c37e9f4cc14974106bf67ee4e583", null ],
-    [ "JustEngagedWith", "d4/d51/a11915.html#a40ae00eb86e2bec048a9394d4deef106", null ],
-    [ "UpdateAI", "d4/d51/a11915.html#ae3f22a059330fb564cd30e581fc0198d", null ]
+    [ "send_commandscript", "d4/d51/a11915.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
+    [ "GetCommands", "d4/d51/a11915.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
+    [ "HandleSendItemsCommand", "d4/d51/a11915.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
+    [ "HandleSendMailCommand", "d4/d51/a11915.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
+    [ "HandleSendMessageCommand", "d4/d51/a11915.html#a91017e6171ac9e4dfff6c2036228de47", null ],
+    [ "HandleSendMoneyCommand", "d4/d51/a11915.html#a26938bb54bb3cb678c49737a92cadb56", null ]
 ];

@@ -1,6 +1,8 @@
 var a10259 =
 [
-    [ "ElunaScript", "d1/d6f/a10259.html#a1b4a815f484b4048f7e1fa7ec5282eef", null ],
-    [ "CanAreaTrigger", "d1/d6f/a10259.html#a47f8793586dd27dd4eb42eb5379828b0", null ],
-    [ "OnWeatherChange", "d1/d6f/a10259.html#af09f40df2d02a57c92d7e05d19f35549", null ]
+    [ "AllCommandScript", "d1/d6f/a10259.html#a7ff235b904eecdd4d02d2025c4078980", null ],
+    [ "IsDatabaseBound", "d1/d6f/a10259.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
+    [ "OnBeforeIsInvokerVisible", "d1/d6f/a10259.html#a6f85dc271c1b61244978aa4474e708b0", null ],
+    [ "OnHandleDevCommand", "d1/d6f/a10259.html#aba983f0e052ece230617573f04a35c92", null ],
+    [ "OnTryExecuteCommand", "d1/d6f/a10259.html#a3a116836453073e77bbd8ab974f36f47", null ]
 ];

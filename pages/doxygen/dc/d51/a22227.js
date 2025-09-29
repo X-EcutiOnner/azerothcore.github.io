@@ -1,6 +1,6 @@
 var a22227 =
 [
-    [ "npc_roxi_ramrocket", "dc/d51/a22227.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
-    [ "OnGossipHello", "dc/d51/a22227.html#adec28f778921246c56f11d09753e566e", null ],
-    [ "OnGossipSelect", "dc/d51/a22227.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
+    [ "npc_your_inner_turmoilAI", "da/da1/a22231.html", "da/da1/a22231" ],
+    [ "npc_your_inner_turmoil", "dc/d51/a22227.html#a72856ef469bb8f6ff4a89a16159479af", null ],
+    [ "GetAI", "dc/d51/a22227.html#a29c8f76b072e891face1225770688ca6", null ]
 ];

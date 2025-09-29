@@ -1,6 +1,6 @@
 var a18519 =
 [
-    [ "CaptainSurviveTalk", "d8/da6/a18519.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
-    [ "Execute", "d8/da6/a18519.html#a871cf08e8c7fced2971cae8abbc20454", null ],
-    [ "_owner", "d8/da6/a18519.html#ac8de506afb4688560ea637918d07b01e", null ]
+    [ "ModDest", "d8/da6/a18519.html#a71638bdecb0f580dceff7858441056d8", null ],
+    [ "PrepareSpellScript", "d8/da6/a18519.html#a741227928e07585b156ec716ae8b13da", null ],
+    [ "Register", "d8/da6/a18519.html#a19221c8453f23a7d384f6a2cb24c2fc2", null ]
 ];

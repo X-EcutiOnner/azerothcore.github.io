@@ -1,5 +1,6 @@
 var a25175 =
 [
-    [ "PrepareSpellScript", "d0/d24/a25175.html#ae49ad5a4ad43099c4510e1666ff6415b", null ],
-    [ "Register", "d0/d24/a25175.html#ad31fa6c2099d984389c3fb12e53a5bd8", null ]
+    [ "OnPeriodic", "d0/d24/a25175.html#a5fdf44f34765d0386d5c5490620c944a", null ],
+    [ "PrepareAuraScript", "d0/d24/a25175.html#a3c3044795e183eef2c801781100b11c7", null ],
+    [ "Register", "d0/d24/a25175.html#a1221c3287c3fd7add356e84430508684", null ]
 ];

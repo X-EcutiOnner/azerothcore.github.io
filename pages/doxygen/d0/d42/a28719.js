@@ -1,7 +1,10 @@
 var a28719 =
 [
-    [ "Paths", "d0/d42/a28719.html#aff167c694a55441bcf5504f5d1933f41", null ],
-    [ "References", "d0/d42/a28719.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
-    [ "Sets", "d0/d42/a28719.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
-    [ "Spawns", "d0/d42/a28719.html#a51f24c059516683f0744b81819186c0e", null ]
+    [ "area_id", "d0/d42/a28719.html#acbd77950bf9548d266e568640cf38458", null ],
+    [ "map_id", "d0/d42/a28719.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
+    [ "virtual_map_id", "d0/d42/a28719.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
+    [ "x1", "d0/d42/a28719.html#a78967fef40841f705c2564a177cb36f3", null ],
+    [ "x2", "d0/d42/a28719.html#a037dca812715df0b4f2551f8684b537c", null ],
+    [ "y1", "d0/d42/a28719.html#a7f90073656e1cd00a88add9f8d881d11", null ],
+    [ "y2", "d0/d42/a28719.html#ad8e0164952e5565488d5443f269ec79e", null ]
 ];

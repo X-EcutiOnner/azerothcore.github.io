@@ -1,9 +1,6 @@
 var a27903 =
 [
-    [ "HolidayWorldStateId", "da/d7c/a27903.html#a3f70ffbb1abb5a96fe91c2eec3682c8b", null ],
-    [ "id", "da/d7c/a27903.html#a52f7840f9247d2af63062dd280b37341", null ],
-    [ "mapid", "da/d7c/a27903.html#a11e1326eeb24b436b10db53acc323c13", null ],
-    [ "maxGroupSize", "da/d7c/a27903.html#adbdae47b424c3b61b76b48ea5798f52d", null ],
-    [ "name", "da/d7c/a27903.html#a9a56ca930ff8425d4b77066e47a1e09f", null ],
-    [ "type", "da/d7c/a27903.html#a647669b97599d7edf02b5a38dd1d5116", null ]
+    [ "npc_venomhide_hatchlingAI", "da/d7c/a27903.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "da/d7c/a27903.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "da/d7c/a27903.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

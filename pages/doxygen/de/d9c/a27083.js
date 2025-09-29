@@ -1,6 +1,7 @@
 var a27083 =
 [
-    [ "npc_spirit_shadeAI", "d4/de1/a27087.html", "d4/de1/a27087" ],
-    [ "npc_spirit_shade", "de/d9c/a27083.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "de/d9c/a27083.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "HandleRemove", "de/d9c/a27083.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
+    [ "PrepareAuraScript", "de/d9c/a27083.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
+    [ "Register", "de/d9c/a27083.html#a338ee9c0eddd309ce2a791160059bad6", null ],
+    [ "Validate", "de/d9c/a27083.html#ae8272b65a070fc959af003f701567c3c", null ]
 ];

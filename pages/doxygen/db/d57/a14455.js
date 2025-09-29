@@ -1,5 +1,7 @@
 var a14455 =
 [
-    [ "npc_pilgrims_bounty_plate", "db/d57/a14455.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
-    [ "SpellHit", "db/d57/a14455.html#a7797b7a532336542ef37f0643df8dec0", null ]
+    [ "PeriodicTick", "db/d57/a14455.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
+    [ "PrepareAuraScript", "db/d57/a14455.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
+    [ "Register", "db/d57/a14455.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
+    [ "Validate", "db/d57/a14455.html#a68247c2afa553411fac34582e83635c9", null ]
 ];

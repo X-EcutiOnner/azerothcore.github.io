@@ -1,7 +1,4 @@
 var a09643 =
 [
-    [ "LootGroupInvalidSelector", "d5/d3c/a09643.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
-    [ "operator()", "d5/d3c/a09643.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
-    [ "_loot", "d5/d3c/a09643.html#a67b9d223426512af79bbf5b035c18a6d", null ],
-    [ "_lootMode", "d5/d3c/a09643.html#a10e307846a0731aa812388c29c0d4bc8", null ]
+    [ "Options", "d5/d3c/a09643.html#a30882f3f0415185ec12ef4d316a0b428", null ]
 ];

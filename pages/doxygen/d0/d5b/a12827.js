@@ -1,7 +1,9 @@
 var a12827 =
 [
-    [ "HandleScriptEffect", "d0/d5b/a12827.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
-    [ "PrepareSpellScript", "d0/d5b/a12827.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
-    [ "Register", "d0/d5b/a12827.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
-    [ "Validate", "d0/d5b/a12827.html#a20f7416465ba1cc04426f24037e8074e", null ]
+    [ "FilterTargets", "d0/d5b/a12827.html#a88b91e40b330d39bd04a7873128fb858", null ],
+    [ "HandleFinish", "d0/d5b/a12827.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
+    [ "PrepareSpellScript", "d0/d5b/a12827.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
+    [ "Register", "d0/d5b/a12827.html#ab2008e585589cbf313170064d37c4aa9", null ],
+    [ "Validate", "d0/d5b/a12827.html#af4963be6c544a1706a6dc30dcbf18309", null ],
+    [ "_targets", "d0/d5b/a12827.html#a2f75199a90e52cff770f46bce76d5149", null ]
 ];

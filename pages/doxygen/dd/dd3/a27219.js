@@ -1,7 +1,7 @@
 var a27219 =
 [
-    [ "go_darkmoon_faire_musicAI", "dd/dd3/a27219.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
-    [ "UpdateAI", "dd/dd3/a27219.html#af3d802bd852fc0483f72781edb13b5d5", null ],
-    [ "_events", "dd/dd3/a27219.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
-    [ "rnd", "dd/dd3/a27219.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
+    [ "CheckProc", "dd/dd3/a27219.html#a957f8837b5613a3bfd8200ded3529c54", null ],
+    [ "HandleEffectProc", "dd/dd3/a27219.html#a54810a897e535558d060119e3de6537b", null ],
+    [ "PrepareAuraScript", "dd/dd3/a27219.html#a37950bfd846e1c2c550a108461941a26", null ],
+    [ "Register", "dd/dd3/a27219.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
 ];

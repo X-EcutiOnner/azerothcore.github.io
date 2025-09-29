@@ -1,7 +1,10 @@
 var a21531 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "de/da5/a21531.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
-    [ "Reset", "de/da5/a21531.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
-    [ "UpdateAI", "de/da5/a21531.html#a75f16f2b028ca341db6e08536be06bfa", null ],
-    [ "uiTimer", "de/da5/a21531.html#a0cf5f0413b1cded835252a38e272f835", null ]
+    [ "npc_erekem_guardAI", "de/da5/a21531.html#a1ce40b70a35fc76e6ac0af449b7f4ded", null ],
+    [ "JustEngagedWith", "de/da5/a21531.html#a93819c5c76821b1c9559be55359d677e", null ],
+    [ "MoveInLineOfSight", "de/da5/a21531.html#aa1140892c13f4c070b1f3f1bf2230bb5", null ],
+    [ "Reset", "de/da5/a21531.html#a079be6dd45e96184d66e95f031dc9c5f", null ],
+    [ "UpdateAI", "de/da5/a21531.html#ab2c55e384f624b0f671e42e381aa3a37", null ],
+    [ "events", "de/da5/a21531.html#a15afc8dd6d6e15fcd1a632728ad8d16e", null ],
+    [ "pInstance", "de/da5/a21531.html#a81985b8522111f2aae540353cd5641fe", null ]
 ];

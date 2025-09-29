@@ -1,7 +1,6 @@
 var a01877 =
 [
-    [ "instance_utgarde_keep", "d6/d56/a21294.html", "d6/d56/a21294" ],
-    [ "instance_utgarde_keep::instance_utgarde_keep_InstanceMapScript", "d4/d9c/a21298.html", "d4/d9c/a21298" ],
-    [ "AddSC_instance_utgarde_keep", "d9/d63/a01877.html#a1691f35071d744591cc1be4a314edbec", null ],
-    [ "creatureData", "d9/d63/a01877.html#a412286b689bd324fedd65ddd8dde8afb", null ]
+    [ "SOAPCommand", "d3/d39/a05707.html", "d3/d39/a05707" ],
+    [ "ACSoapThread", "d9/d63/a01877.html#a69e574c9a3cecf7c395cd036bb672ed3", null ],
+    [ "process_message", "d9/d63/a01877.html#abf914e30c869f88f2fafb9f656320c6a", null ]
 ];

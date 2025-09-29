@@ -1,15 +1,12 @@
 var a09931 =
 [
-    [ "HomeMovementGenerator", "d5/d57/a09931.html#af52495a86296d288d2312bf8616108d0", null ],
-    [ "~HomeMovementGenerator", "d5/d57/a09931.html#a9d889b5112f6c93a0707227fc65dd902", null ],
-    [ "_setTargetLocation", "d5/d57/a09931.html#a7ac3be92303b77b640c7199ec65184dd", null ],
-    [ "DoFinalize", "d5/d57/a09931.html#ab1ce2df22dba7759ca28a77532a17db1", null ],
-    [ "DoInitialize", "d5/d57/a09931.html#aaa6f7b1aa064be00a726539830d6c30e", null ],
-    [ "DoReset", "d5/d57/a09931.html#acfebf75bcd7cc62c1b0105eb0c5e9100", null ],
-    [ "DoUpdate", "d5/d57/a09931.html#a4e3c1f79f8115312f22612a4b8c6fede", null ],
-    [ "GetMovementGeneratorType", "d5/d57/a09931.html#aaa203c37c8259c8b54ad5ec70db484f1", null ],
-    [ "unitSpeedChanged", "d5/d57/a09931.html#ac5078f624899e574a7b56b72e2824b9a", null ],
-    [ "_walk", "d5/d57/a09931.html#a97f3cd9b1c5919ffe9ab979d8ad4e747", null ],
-    [ "arrived", "d5/d57/a09931.html#aab9cd0057a625afef2d96feebd6428fb", null ],
-    [ "i_recalculateTravel", "d5/d57/a09931.html#a77b40bcbada8ea43accae23ceb642628", null ]
+    [ "BanAccount", "d5/d57/a09931.html#af85ceffee2ae6a143df5e36f6a004f07", null ],
+    [ "BanAccountByPlayerName", "d5/d57/a09931.html#a35f92762d69fe32e49b9b239c74e4734", null ],
+    [ "BanCharacter", "d5/d57/a09931.html#ad5048b36828bfe20a95dfb85515de831", null ],
+    [ "BanIP", "d5/d57/a09931.html#a404890eab19b97773e6c9aef8cc65707", null ],
+    [ "instance", "d5/d57/a09931.html#aa495dfaab6af98c43f645acf516a5630", null ],
+    [ "RemoveBanAccount", "d5/d57/a09931.html#ae831e6227442edc70469229d5d73fa3f", null ],
+    [ "RemoveBanAccountByPlayerName", "d5/d57/a09931.html#a7b5e1ae6d34ae4f6a15e03c434953aea", null ],
+    [ "RemoveBanCharacter", "d5/d57/a09931.html#afbde6c0b26802f684ecf78c2f493cc67", null ],
+    [ "RemoveBanIP", "d5/d57/a09931.html#afcf4857007432ebff042c85c5daf2325", null ]
 ];

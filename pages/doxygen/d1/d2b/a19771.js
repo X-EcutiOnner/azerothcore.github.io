@@ -1,9 +1,12 @@
 var a19771 =
 [
-    [ "npc_auriaya_sanctum_sentryAI", "d1/d2b/a19771.html#afffb62c4db56bb4e7baa095ae75cd7e3", null ],
-    [ "JustEngagedWith", "d1/d2b/a19771.html#aeeb0aa4667a110dabcc70d422ebd6de5", null ],
-    [ "Reset", "d1/d2b/a19771.html#a5ab87ac858782cd7f05d9778ca3a6214", null ],
-    [ "UpdateAI", "d1/d2b/a19771.html#ab1862b4bd4b4fdfaeac8ad9c52cc5ed6", null ],
-    [ "_ripFleshTimer", "d1/d2b/a19771.html#a83920afb7f6930d780abd2d6fba2aa4c", null ],
-    [ "_savagePounceTimer", "d1/d2b/a19771.html#a9a6b14ece9a0bf812a04ea765b546735", null ]
+    [ "boss_krystallusAI", "d1/d2b/a19771.html#adfa2ab8498279937bf497292d6e7cba5", null ],
+    [ "JustDied", "d1/d2b/a19771.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
+    [ "JustEngagedWith", "d1/d2b/a19771.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
+    [ "KilledUnit", "d1/d2b/a19771.html#acf9101c5b776820039fd80e5d6e0c138", null ],
+    [ "RemoveStonedEffect", "d1/d2b/a19771.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
+    [ "Reset", "d1/d2b/a19771.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
+    [ "UpdateAI", "d1/d2b/a19771.html#a79095e25f1d9dac927f63cef67db60ec", null ],
+    [ "events", "d1/d2b/a19771.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
+    [ "pInstance", "d1/d2b/a19771.html#aec9cf7053476298f72dccf3bd1579c63", null ]
 ];

@@ -1,12 +1,13 @@
 var a23355 =
 [
-    [ "boss_swamplord_muselek", "d1/da7/a23355.html#a94ca982b8b9c1785a59040d23e72fc0e", null ],
-    [ "AttackStart", "d1/da7/a23355.html#a0732fdf14c972ae955eb43417a6d86a1", null ],
-    [ "CanShootVictim", "d1/da7/a23355.html#af84af5e4b344fc5f5da9f2047519710a", null ],
-    [ "JustDied", "d1/da7/a23355.html#a4020748c43bf03cb338e3d64a1dfd840", null ],
-    [ "JustEngagedWith", "d1/da7/a23355.html#a7b22bff5b78dcd1e5e1cc42858735655", null ],
-    [ "KilledUnit", "d1/da7/a23355.html#a9f2afd6aacb9befa956079a42fbace37", null ],
-    [ "Reset", "d1/da7/a23355.html#a6e03d7feca2de668c82d8f056d95fc6a", null ],
-    [ "_canChase", "d1/da7/a23355.html#aca3298f0e9bbbd7366f4e6456cfff621", null ],
-    [ "_markTarget", "d1/da7/a23355.html#a957d3f9ad935dbfa0537c75e39316ce3", null ]
+    [ "boss_fathomguard_caribdis", "d1/da7/a23355.html#a9172b9717e5137ddde7df38bb237478c", null ],
+    [ "EnterEvadeMode", "d1/da7/a23355.html#aa666a491a776b12a042ee140aedc95eb", null ],
+    [ "JustDied", "d1/da7/a23355.html#ab821365b35a48f70a11c6033fe2ca714", null ],
+    [ "JustEngagedWith", "d1/da7/a23355.html#a5503519998f51f475420ada2210f32f0", null ],
+    [ "JustSummoned", "d1/da7/a23355.html#a39ca45ec0de50b7d7a5ec866c4017a8a", null ],
+    [ "Reset", "d1/da7/a23355.html#a0d2a3403d5934e86a897b3417ed2214a", null ],
+    [ "UpdateAI", "d1/da7/a23355.html#af4a544f37d178de21d84f2544f24431e", null ],
+    [ "_instance", "d1/da7/a23355.html#a73f567f2269aeca1435af82e1c6880e9", null ],
+    [ "_scheduler", "d1/da7/a23355.html#a08b01e9735e421d8d5bbc2b552217762", null ],
+    [ "_summons", "d1/da7/a23355.html#ac8b53cb81547a2423a13c997badb77e3", null ]
 ];

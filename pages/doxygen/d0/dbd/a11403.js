@@ -1,6 +1,7 @@
 var a11403 =
 [
-    [ "FieldGuidType", "d0/dbd/a11403.html#a88e763ed9715ad76a0eb1c1a9ad7a59b", null ],
-    [ "FieldName", "d0/dbd/a11403.html#a669f1ecf12148799e59e7b3e3124d681", null ],
-    [ "IsDependentField", "d0/dbd/a11403.html#a241b9e8f5672e30732f0b938b02046d4", null ]
+    [ "EffectAuraNameCheck", "d0/dbd/a11403.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
+    [ "Check", "d0/dbd/a11403.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
+    [ "ToString", "d0/dbd/a11403.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
+    [ "effAurName", "d0/dbd/a11403.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
 ];

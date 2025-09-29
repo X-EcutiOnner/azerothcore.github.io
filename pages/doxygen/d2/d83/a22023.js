@@ -1,14 +1,15 @@
 var a22023 =
 [
-    [ "npc_tirions_gambit_tirionAI", "d2/d83/a22023.html#a38959c7a5b502b5716a5c09b0f6ae8a4", null ],
-    [ "DoAction", "d2/d83/a22023.html#a495e0762614020ef6d7b741447099326", null ],
-    [ "DoSummonAction", "d2/d83/a22023.html#a891b31661705ed4df634059e6165d499", null ],
-    [ "JustSummoned", "d2/d83/a22023.html#ac62ec499aba734d36249f8c00b36e2d4", null ],
-    [ "Reset", "d2/d83/a22023.html#afb398bda1d6ee4d35527208e6c5bffee", null ],
-    [ "SetData", "d2/d83/a22023.html#a41f24de5f824d84edb69c6b2bdca6d4e", null ],
-    [ "SummonedCreatureDespawn", "d2/d83/a22023.html#aca05fee85997dffba6ec998b144b9495", null ],
-    [ "UpdateEscortAI", "d2/d83/a22023.html#a0b681d6cc1566e6193f7eb143ab2bd5e", null ],
-    [ "WaypointReached", "d2/d83/a22023.html#af5fd69b799c6227dba901f434e30c434", null ],
-    [ "events", "d2/d83/a22023.html#a711c55c26187ae695644b770a358766e", null ],
-    [ "summons", "d2/d83/a22023.html#af574a4b136ff42c597e30c83e4d463ca", null ]
+    [ "npc_q24545_lich_kingAI", "d2/d83/a22023.html#abebe71c6cfb705ce4409dd7fae3842e3", null ],
+    [ "CleanAll", "d2/d83/a22023.html#a2720994f88a2706a2f0b4fb361f81f2c", null ],
+    [ "JustSummoned", "d2/d83/a22023.html#a6049433795be30eb31e240a4939ad42f", null ],
+    [ "Reset", "d2/d83/a22023.html#aebd396de51edef790cd0b599c94f78a0", null ],
+    [ "SetData", "d2/d83/a22023.html#a8ee3a4f85aebe9b9a8e18858b76042a6", null ],
+    [ "SetGUID", "d2/d83/a22023.html#a9dfbb607bb117d2d1fc8a4e61c42859f", null ],
+    [ "SpellHitTarget", "d2/d83/a22023.html#adb8be583a14c8d0951b45dc027cf31d9", null ],
+    [ "SummonedCreatureDespawn", "d2/d83/a22023.html#ae8049cc5b58c6647b37941fb98c51fe5", null ],
+    [ "UpdateAI", "d2/d83/a22023.html#a24f17e0954e498e4a4b73b4cdffea6a3", null ],
+    [ "events", "d2/d83/a22023.html#a3e89e187c08f45a51fb69b647dcc766d", null ],
+    [ "playerGUID", "d2/d83/a22023.html#ac84b9efb3ee2eaa2160afe5d0217a884", null ],
+    [ "summons", "d2/d83/a22023.html#a1de76ab7f3304f8373c633fa7d0aa533", null ]
 ];

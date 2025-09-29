@@ -1,6 +1,7 @@
 var a15795 =
 [
-    [ "PrepareSpellScript", "d3/d91/a15795.html#a74a2601e2c160bb4a9b18d421775e6b3", null ],
-    [ "Register", "d3/d91/a15795.html#a17a07973a3c043683fc4fe0d1fc45156", null ],
-    [ "SetDest", "d3/d91/a15795.html#a3751a14d6e36140ee368d8ded6df03ee", null ]
+    [ "npc_kaya_flathoofAI", "d3/d91/a15795.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
+    [ "JustSummoned", "d3/d91/a15795.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
+    [ "Reset", "d3/d91/a15795.html#af9be00be9867622a16103bd21311327f", null ],
+    [ "WaypointReached", "d3/d91/a15795.html#a8fcbb19279b925138ba96d2a450fc404", null ]
 ];

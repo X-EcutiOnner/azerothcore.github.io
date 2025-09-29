@@ -1,6 +1,9 @@
 var a20791 =
 [
-    [ "boss_yoggsaron_corruptor_tentacleAI", "dd/d34/a20795.html", "dd/d34/a20795" ],
-    [ "boss_yoggsaron_corruptor_tentacle", "dd/d3e/a20791.html#a86fbf881f0a861124dda085347bb03bd", null ],
-    [ "GetAI", "dd/d3e/a20791.html#a7325d6feaa12d74c030152ba3a0ab756", null ]
+    [ "npc_ulduar_dark_rune_sentinelAI", "dd/d3e/a20791.html#a533ae31e0507f12f7d94e347b6b7ebf2", null ],
+    [ "CanAIAttack", "dd/d3e/a20791.html#a12b2e5c621a8b04a4d80dde706a4bb2b", null ],
+    [ "Reset", "dd/d3e/a20791.html#ada2897f48effedd5d5baa5a260497b5a", null ],
+    [ "UpdateAI", "dd/d3e/a20791.html#aa9b319928a9b23cf4d47a07c1eaeb0cd", null ],
+    [ "timer1", "dd/d3e/a20791.html#a383a2ee113822b7eff52466f0cc0e137", null ],
+    [ "timer2", "dd/d3e/a20791.html#ad5c4698c5d12ff42179d62c47d9f7719", null ]
 ];

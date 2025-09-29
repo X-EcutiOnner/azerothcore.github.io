@@ -1,5 +1,6 @@
 var a16535 =
 [
-    [ "boss_eydisAI", "da/dd3/a16535.html#a0e97e184b2a2f610730cd3d455702955", null ],
-    [ "JustSummoned", "da/dd3/a16535.html#aa5ae64cfe003a25859364a12cb871199", null ]
+    [ "npc_swarm_scarabAI", "d1/d5e/a16539.html", "d1/d5e/a16539" ],
+    [ "npc_swarm_scarab", "da/dd3/a16535.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
+    [ "GetAI", "da/dd3/a16535.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
 ];

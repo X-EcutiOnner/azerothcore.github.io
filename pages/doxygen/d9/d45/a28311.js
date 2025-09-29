@@ -1,5 +1,7 @@
 var a28311 =
 [
-    [ "Price", "d9/d45/a28311.html#a9cf01cf0d41d49613b4ceaf1eeb1716b", null ],
-    [ "Slot", "d9/d45/a28311.html#aa53247914bda0ceca015b8b9ca117379", null ]
+    [ "cutPercent", "d9/d45/a28311.html#a8581a6a5198dab10680f477a477a7c80", null ],
+    [ "depositPercent", "d9/d45/a28311.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
+    [ "faction", "d9/d45/a28311.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
+    [ "houseId", "d9/d45/a28311.html#a1bf77c1b14731def0e3de44143df2eed", null ]
 ];

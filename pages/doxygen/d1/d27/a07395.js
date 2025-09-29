@@ -1,10 +1,10 @@
 var a07395 =
 [
-    [ "BattlegroundNA", "d1/d27/a07395.html#abf646e63e474ac5bb381078ffd0f286e", null ],
-    [ "FillInitialWorldStates", "d1/d27/a07395.html#af0932b648d2a4a4288409d8da360e06b", null ],
-    [ "HandleAreaTrigger", "d1/d27/a07395.html#a6a70ff3655c516d45ac1acf959ad8f73", null ],
-    [ "HandlePlayerUnderMap", "d1/d27/a07395.html#a098c01b5da65350b2af9ff53dc9f750c", null ],
-    [ "SetupBattleground", "d1/d27/a07395.html#addc3350a283fdac24e7aa88c23a7945a", null ],
-    [ "StartingEventCloseDoors", "d1/d27/a07395.html#a316492a374884822045971f6dc3db1e2", null ],
-    [ "StartingEventOpenDoors", "d1/d27/a07395.html#a72a953c5047a434d28b98e6185173140", null ]
+    [ "OwnerId", "d1/d27/a07395.html#ae6203d7a867838b279825925841a99df", null ],
+    [ "PrevOwnerId", "d1/d27/a07395.html#a8357cc41fe125545d473c1f14c3ffa05", null ],
+    [ "PrevState", "d1/d27/a07395.html#ab97cde6dcd3c3e91bb94bf39d104bf77", null ],
+    [ "State", "d1/d27/a07395.html#a6e2b1f8c232c27ab24e3ca8bca8f6b03", null ],
+    [ "Timer", "d1/d27/a07395.html#a945afa538fc0dd1a4be11f5b5ac74bcb", null ],
+    [ "TotalOwnerId", "d1/d27/a07395.html#aec31f39eb98a3686ead3b1b99c7abfde", null ],
+    [ "Tower", "d1/d27/a07395.html#a222db96ad937e31986c0c39a5a371dd7", null ]
 ];

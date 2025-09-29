@@ -1,7 +1,7 @@
 var a03002 =
 [
-    [ "ArenaTeamMgr", "db/d09/a07310.html", "db/d09/a07310" ],
-    [ "sArenaTeamMgr", "de/d27/a03002.html#a94afc7262fb2f00293dc80de8ba547df", null ],
-    [ "MAX_ARENA_TEAM_ID", "de/d27/a03002.html#aa472ba6cfd587021965aece0e77797b7", null ],
-    [ "MAX_TEMP_ARENA_TEAM_ID", "de/d27/a03002.html#ade4bc52db611f6481d3c8f5e6f346b4c", null ]
+    [ "instance_obsidian_sanctum", "dd/d1b/a16207.html", "dd/d1b/a16207" ],
+    [ "instance_obsidian_sanctum::instance_obsidian_sanctum_InstanceMapScript", "df/da2/a16211.html", "df/da2/a16211" ],
+    [ "AddSC_instance_obsidian_sanctum", "de/d27/a03002.html#ac4abea2a912b12612a4c884df63abe00", null ],
+    [ "boundaries", "de/d27/a03002.html#aa75d7d0ffe0cef214f982966c33db1c1", null ]
 ];

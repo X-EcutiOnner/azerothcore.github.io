@@ -1,5 +1,6 @@
 var a22419 =
 [
-    [ "OutdoorPvP_eastern_plaguelands", "d0/d95/a22419.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
-    [ "GetOutdoorPvP", "d0/d95/a22419.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
+    [ "npc_bushwhackerAI", "d0/d95/a22419.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "d0/d95/a22419.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "d0/d95/a22419.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

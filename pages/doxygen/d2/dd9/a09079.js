@@ -1,6 +1,8 @@
 var a09079 =
 [
-    [ "flags", "d2/dd9/a09079.html#a953acfd67349f028a839390ebe7fc398", null ],
-    [ "fourcc", "d2/dd9/a09079.html#a14d0e9cf761aae3ef914f3bff86ef216", null ],
-    [ "gridArea", "d2/dd9/a09079.html#a4ee571320d5d346bbf74709677bbee05", null ]
+    [ "DungeonEncounter", "d2/dd9/a09079.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
+    [ "creditEntry", "d2/dd9/a09079.html#a700a0792973678339f33ab85e7396918", null ],
+    [ "creditType", "d2/dd9/a09079.html#a66a077e193f099bb7aef363dc75672d6", null ],
+    [ "dbcEntry", "d2/dd9/a09079.html#a262bdd0ba443739456fc14bcad83ecda", null ],
+    [ "lastEncounterDungeon", "d2/dd9/a09079.html#a67e29b891887e339dbb40515d082e781", null ]
 ];

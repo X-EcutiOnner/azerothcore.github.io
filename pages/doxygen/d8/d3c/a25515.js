@@ -1,6 +1,7 @@
 var a25515 =
 [
-    [ "HandleScriptEffect", "d8/d3c/a25515.html#a94bbfc928beab8c8f27d84d1c9ab1558", null ],
-    [ "PrepareSpellScript", "d8/d3c/a25515.html#a479832175a4c77ce0c0a2f3d3f98f08c", null ],
-    [ "Register", "d8/d3c/a25515.html#aff9efad03d94958c29c84ea3c0d19fdb", null ]
+    [ "OnPeriodic", "d8/d3c/a25515.html#a58f13f947b4daac98651f7fa46d7d674", null ],
+    [ "PrepareAuraScript", "d8/d3c/a25515.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
+    [ "Register", "d8/d3c/a25515.html#ad0c688255e340c428624de7071b5df56", null ],
+    [ "Validate", "d8/d3c/a25515.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
 ];

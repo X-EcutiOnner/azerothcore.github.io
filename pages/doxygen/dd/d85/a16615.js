@@ -1,6 +1,6 @@
 var a16615 =
 [
-    [ "HandleEffectApply", "dd/d85/a16615.html#aaea2c3733dadc19072c81774468e345a", null ],
-    [ "PrepareAuraScript", "dd/d85/a16615.html#a3848997e9f775add50d40342b6211ff0", null ],
-    [ "Register", "dd/d85/a16615.html#a775b1cf494049ed13d149ca6318142c3", null ]
+    [ "npc_toc_shadow_priestAI", "de/d02/a16619.html", "de/d02/a16619" ],
+    [ "npc_toc_shadow_priest", "dd/d85/a16615.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
+    [ "GetAI", "dd/d85/a16615.html#a93b38d23759da3b7417dbb94b4a951da", null ]
 ];

@@ -1,6 +1,6 @@
 var a19319 =
 [
-    [ "boss_eregosAI", "d5/d17/a19323.html", "d5/d17/a19323" ],
-    [ "boss_eregos", "dc/d7c/a19319.html#a105820f29aa1391d77a56e024c4b5637", null ],
-    [ "GetAI", "dc/d7c/a19319.html#aee43f0dfee70ab9618c560a27504cb02", null ]
+    [ "boss_nothAI", "d5/d17/a19323.html", "d5/d17/a19323" ],
+    [ "boss_noth", "dc/d7c/a19319.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
+    [ "GetAI", "dc/d7c/a19319.html#a534f30792c051ab44c6c07c9347893e5", null ]
 ];

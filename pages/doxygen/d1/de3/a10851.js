@@ -1,8 +1,8 @@
 var a10851 =
 [
-    [ "PetSpellAutocast", "d1/de3/a10851.html#ab858647d14031a2a6109d1e923402d08", null ],
-    [ "Read", "d1/de3/a10851.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
-    [ "AutocastEnabled", "d1/de3/a10851.html#a3c04543dcd5382682654b3860b84c6a3", null ],
-    [ "PetGUID", "d1/de3/a10851.html#aeed828abebf683078ee61204c91e28c9", null ],
-    [ "SpellID", "d1/de3/a10851.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
+    [ "AutoStoreBagItem", "d1/de3/a10851.html#a09e4b117d8789d513a0e766986340140", null ],
+    [ "Read", "d1/de3/a10851.html#a172832ec72012278b000f38d761823b4", null ],
+    [ "DestinationBag", "d1/de3/a10851.html#a7472dfd7ccd78051bc8808832f8e74cb", null ],
+    [ "SourceBag", "d1/de3/a10851.html#a27e27653e6f00869070de7354adff52d", null ],
+    [ "SourceSlot", "d1/de3/a10851.html#a517202ccb270d78289630404beb61afc", null ]
 ];

@@ -1,5 +1,7 @@
 var a08423 =
 [
-    [ "PositionXYZStreamer", "de/dc0/a08423.html#a8da1be6111bd97ef68d62d0d9d630c56", null ],
-    [ "m_pos", "de/dc0/a08423.html#ae5db7cb3adba811c0b9483645a7f1770", null ]
+    [ "AddToGrid", "de/dc0/a08423.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
+    [ "IsInGrid", "de/dc0/a08423.html#a996724d21d62e478f50031faa7637cd5", null ],
+    [ "RemoveFromGrid", "de/dc0/a08423.html#a29740a98fea7db66cdffd824940a2ec2", null ],
+    [ "_gridRef", "de/dc0/a08423.html#aa44ba47734267ac07b733f218623f3c5", null ]
 ];

@@ -1,9 +1,8 @@
 var a26247 =
 [
-    [ "HandleAfterCast", "d3/d14/a26247.html#ac08e632064c407346649f525d030d335", null ],
-    [ "HandleDummy", "d3/d14/a26247.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
-    [ "Load", "d3/d14/a26247.html#a177525c755b036a79263c0fa6fa4082e", null ],
-    [ "PrepareSpellScript", "d3/d14/a26247.html#aed99b07a53068b19bddb4daff3449a52", null ],
-    [ "Register", "d3/d14/a26247.html#a946e56a325d83656d9b43af80d065e45", null ],
-    [ "_triggerSpellId", "d3/d14/a26247.html#a6697a22b684784853cb1999d41fcaaa7", null ]
+    [ "Absorb", "d3/d14/a26247.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
+    [ "CalculateAmount", "d3/d14/a26247.html#a20d5b4776ebeb859b0641af640e41d80", null ],
+    [ "PrepareAuraScript", "d3/d14/a26247.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
+    [ "Register", "d3/d14/a26247.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
+    [ "Validate", "d3/d14/a26247.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
 ];

@@ -1,21 +1,13 @@
 var a11803 =
 [
-    [ "npc_grimstoneAI", "d6/db1/a11803.html#af5a78c00f2df9a6e7f810821e478b334", null ],
-    [ "HandleGameObject", "d6/db1/a11803.html#aeb8bb46e75506889ddb1f32c7846618d", null ],
-    [ "JustSummoned", "d6/db1/a11803.html#a152416e33edf5117ecb11946bae31059", null ],
-    [ "Reset", "d6/db1/a11803.html#ad7b769ce27c4cd22a2383762426a5792", null ],
-    [ "SpawnWave", "d6/db1/a11803.html#ad83bf99a15a8a80fe572e8927f533921", null ],
-    [ "SummonBoss", "d6/db1/a11803.html#ac019b66c330d228a4baa4c81b14f825a", null ],
-    [ "SummonedCreatureDies", "d6/db1/a11803.html#a6cf74375a89074ebfdaef1f189f58f57", null ],
-    [ "UpdateEscortAI", "d6/db1/a11803.html#a1442439a8e8ea38fc46e65160f2fbe40", null ],
-    [ "updateReset", "d6/db1/a11803.html#a7c28d3cca183390116a7f6e3c094aa6b", null ],
-    [ "WaypointReached", "d6/db1/a11803.html#a73452b365d3095ce584d7a2bcd38d275", null ],
-    [ "BossSpawnId", "d6/db1/a11803.html#a31f7ff1c08dd33abdae1414f385e5d9e", null ],
-    [ "eventPhase", "d6/db1/a11803.html#a2e68549ad81f51bf596a7727a32c6e03", null ],
-    [ "eventTimer", "d6/db1/a11803.html#a48a153973c4a5d8b911a5f89d3c968eb", null ],
-    [ "instance", "d6/db1/a11803.html#ae9c1e204ed846b77a118bae352a16a0a", null ],
-    [ "MobSpawnId", "d6/db1/a11803.html#ab17115539c7778849eb7a5d7b3c14955", null ],
-    [ "resetTimer", "d6/db1/a11803.html#ac22a90e5fcf04dae8cbf5aea715a5412", null ],
-    [ "summons", "d6/db1/a11803.html#acc981f16561558187a4f73f30477087e", null ],
-    [ "theldrenEvent", "d6/db1/a11803.html#ad3811c9392c8849770d60398f5c9ed5b", null ]
+    [ "gm_commandscript", "d6/db1/a11803.html#a1b24112b70818778755ef9b5b062b2e8", null ],
+    [ "GetCommands", "d6/db1/a11803.html#a17c725e18324de7aadff260c77d75c45", null ],
+    [ "HandleGMChatCommand", "d6/db1/a11803.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
+    [ "HandleGMFlyCommand", "d6/db1/a11803.html#a29829660f39c9bfa4190bbb118f482ba", null ],
+    [ "HandleGMListFullCommand", "d6/db1/a11803.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
+    [ "HandleGMListIngameCommand", "d6/db1/a11803.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
+    [ "HandleGMOffCommand", "d6/db1/a11803.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
+    [ "HandleGMOnCommand", "d6/db1/a11803.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
+    [ "HandleGMSpectatorCommand", "d6/db1/a11803.html#ab05933bfefd1f5727bef430eeac2cee9", null ],
+    [ "HandleGMVisibleCommand", "d6/db1/a11803.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
 ];

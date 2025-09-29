@@ -1,11 +1,13 @@
 var a08643 =
 [
-    [ "UnitActionBarEntry", "de/d15/a08643.html#a41f9020c4811b14fc543ddece6af86d7", null ],
-    [ "GetAction", "de/d15/a08643.html#afd77e2f64ec856059759d05ddf77876e", null ],
-    [ "GetType", "de/d15/a08643.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
-    [ "IsActionBarForSpell", "de/d15/a08643.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
-    [ "SetAction", "de/d15/a08643.html#aa00953783b0b3de3beb755a054c77730", null ],
-    [ "SetActionAndType", "de/d15/a08643.html#a110840d38445795957ee0425175b4fb6", null ],
-    [ "SetType", "de/d15/a08643.html#a38e0dcad391d09e475f90be5a5382f78", null ],
-    [ "packedData", "de/d15/a08643.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
+    [ "BGData", "de/d15/a08643.html#a91ccfa5183ef5996fb4bdf78567c09ba", null ],
+    [ "bgAfkReportedCount", "de/d15/a08643.html#ab7374e7b8fc6607dd6b4f04385e80ca3", null ],
+    [ "bgAfkReportedTimer", "de/d15/a08643.html#a51f8f4e05dc0224982af9a61d2dfae36", null ],
+    [ "bgAfkReporter", "de/d15/a08643.html#a94047ac71676b7914e058aac8a8cb0ea", null ],
+    [ "bgInstanceID", "de/d15/a08643.html#a8eff26fd78b5763501a3f5460de4e551", null ],
+    [ "bgIsRandom", "de/d15/a08643.html#a6f25dd5c9dc6afcc7964a5d0b7d1444c", null ],
+    [ "bgQueueSlot", "de/d15/a08643.html#a1c77bcf4135d994f0801558adca02f40", null ],
+    [ "bgTeamId", "de/d15/a08643.html#ac97f7cafb6ae69a12588e40328cdc0cb", null ],
+    [ "bgTypeID", "de/d15/a08643.html#a3398da6a15fd66cdd8dc172997d3786b", null ],
+    [ "isInvited", "de/d15/a08643.html#a8e23a1664eedf33b2195d2d8d5b01b82", null ]
 ];

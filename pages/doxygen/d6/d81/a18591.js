@@ -1,6 +1,7 @@
 var a18591 =
 [
-    [ "npc_captain_rupertAI", "d8/d2b/a18595.html", "d8/d2b/a18595" ],
-    [ "npc_captain_rupert", "d6/d81/a18591.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
-    [ "GetAI", "d6/d81/a18591.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
+    [ "OnPeriodic", "d6/d81/a18591.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
+    [ "PrepareAuraScript", "d6/d81/a18591.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
+    [ "Register", "d6/d81/a18591.html#a0fc7ca43a0d82058fc04277742231388", null ],
+    [ "Validate", "d6/d81/a18591.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
 ];

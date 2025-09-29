@@ -1,7 +1,9 @@
 var a25099 =
 [
-    [ "HandleScriptEffect", "db/daa/a25099.html#a4444d5f146e875bae40edbcc8ed408cb", null ],
-    [ "PrepareSpellScript", "db/daa/a25099.html#af4320dd6567d8c9cb2a1492095a98459", null ],
-    [ "Register", "db/daa/a25099.html#ab9360c3a883dd5a7df9836306d9762ec", null ],
-    [ "Validate", "db/daa/a25099.html#a51ebef5e7fff9dfaab553ecae7be732f", null ]
+    [ "spell_gen_select_target_count", "db/daa/a25099.html#a65507c155a8746ff49c58c051b7868e4", null ],
+    [ "FilterTargets", "db/daa/a25099.html#a5de89be9ce321a0f4ac49853a700b502", null ],
+    [ "PrepareSpellScript", "db/daa/a25099.html#a42ddce15414dcdf495b572e0f75e9486", null ],
+    [ "Register", "db/daa/a25099.html#a94f86992275123e2e3989655cf077efd", null ],
+    [ "_count", "db/daa/a25099.html#acdf5daa848ae185b859c45a1271df68c", null ],
+    [ "_effTarget", "db/daa/a25099.html#a9c54508790062277c8275d2466e93fb3", null ]
 ];

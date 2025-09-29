@@ -1,6 +1,7 @@
 var a17699 =
 [
-    [ "npc_darnavanAI", "dc/d81/a17703.html", "dc/d81/a17703" ],
-    [ "npc_darnavan", "d1/d0a/a17699.html#ac358ca123155165395fa5f7ec02c9dab", null ],
-    [ "GetAI", "d1/d0a/a17699.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
+    [ "HandleScript", "d1/d0a/a17699.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
+    [ "Load", "d1/d0a/a17699.html#ab1d81386ae3ccd332c01864d7f456017", null ],
+    [ "PrepareSpellScript", "d1/d0a/a17699.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
+    [ "Register", "d1/d0a/a17699.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
 ];

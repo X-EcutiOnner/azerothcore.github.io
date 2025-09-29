@@ -1,6 +1,9 @@
 var a15811 =
 [
-    [ "boss_anub_arakAI", "d8/d1f/a15815.html", "d8/d1f/a15815" ],
-    [ "boss_anub_arak", "d4/d64/a15811.html#ac2594f561b07069a312ed38c01d9c7da", null ],
-    [ "GetAI", "d4/d64/a15811.html#a8687594354d514b99e026797ee71c70d", null ]
+    [ "npc_custodian_of_timeAI", "d4/d64/a15811.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
+    [ "JustEngagedWith", "d4/d64/a15811.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
+    [ "MoveInLineOfSight", "d4/d64/a15811.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
+    [ "Reset", "d4/d64/a15811.html#a56bcc694ac286488ed4b3f2328c30573", null ],
+    [ "UpdateAI", "d4/d64/a15811.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
+    [ "WaypointReached", "d4/d64/a15811.html#a963736e62fbd0caea631ee3fb69fca46", null ]
 ];

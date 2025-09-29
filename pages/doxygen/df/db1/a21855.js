@@ -1,8 +1,9 @@
 var a21855 =
 [
-    [ "npc_ravenous_worgAI", "df/db1/a21855.html#a5404516869e171c84b774f2a7b8be15d", null ],
-    [ "AttackStart", "df/db1/a21855.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
-    [ "UpdateAI", "df/db1/a21855.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
-    [ "_attack", "df/db1/a21855.html#a3df5c98821ba33a40e25e7b050858b96", null ],
-    [ "_pacified", "df/db1/a21855.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
+    [ "npc_counselor_talbotAI", "df/db1/a21855.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
+    [ "JustDied", "df/db1/a21855.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
+    [ "JustEngagedWith", "df/db1/a21855.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
+    [ "Reset", "df/db1/a21855.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
+    [ "UpdateAI", "df/db1/a21855.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
+    [ "_events", "df/db1/a21855.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
 ];

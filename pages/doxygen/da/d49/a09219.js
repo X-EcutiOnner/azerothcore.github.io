@@ -1,9 +1,9 @@
 var a09219 =
 [
-    [ "UnitListSearcher", "da/d49/a09219.html#a24c0de32dc3baa927962626421a343ae", null ],
-    [ "Visit", "da/d49/a09219.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d", null ],
-    [ "Visit", "da/d49/a09219.html#a92f9b0407e609b6c61f10d93aa49912f", null ],
-    [ "Visit", "da/d49/a09219.html#a5fddd281a9f9cd10cf3948d4bf7b626f", null ],
-    [ "i_check", "da/d49/a09219.html#a508a47e6261e7ae6e5669aee853ff99e", null ],
-    [ "i_phaseMask", "da/d49/a09219.html#a43c863350bea423cf4a720c4c680fd4c", null ]
+    [ "VisibleChangesNotifier", "da/d49/a09219.html#aacb0239ed44c9705eeeebf5ab198f7e0", null ],
+    [ "Visit", "da/d49/a09219.html#abfc60c91aaa823cb99cdfc17a287e23e", null ],
+    [ "Visit", "da/d49/a09219.html#aaf1dab341f34f75e56da63370af0ecd3", null ],
+    [ "Visit", "da/d49/a09219.html#a103a8ef30ce4c0753913b6ecb6cf4e92", null ],
+    [ "Visit", "da/d49/a09219.html#a6e856249a08d0a90b9d19f2449f30fba", null ],
+    [ "i_object", "da/d49/a09219.html#a496b982d081957cfc288f29b99b8739d", null ]
 ];

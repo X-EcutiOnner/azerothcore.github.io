@@ -1,7 +1,10 @@
 var a10251 =
 [
-    [ "DatabaseScript", "d1/dd3/a10251.html#aab34b85df1a5ccdf17fede64baca4994", null ],
-    [ "IsDatabaseBound", "d1/dd3/a10251.html#af4321bb95ed9bb3bb0e5a8a93c89c235", null ],
-    [ "OnAfterDatabaseLoadCreatureTemplates", "d1/dd3/a10251.html#a2f4e91e2b1192c0ceb399cd93eb33ee3", null ],
-    [ "OnAfterDatabasesLoaded", "d1/dd3/a10251.html#ab52afc833cb462693f5e0d79cff6bb3f", null ]
+    [ "AchievementScript", "d1/dd3/a10251.html#a85f0d7a676e7e31bc87ca64040b29489", null ],
+    [ "CanCheckCriteria", "d1/dd3/a10251.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
+    [ "IsCompletedCriteria", "d1/dd3/a10251.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
+    [ "IsDatabaseBound", "d1/dd3/a10251.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
+    [ "IsRealmCompleted", "d1/dd3/a10251.html#abc54c295c1bcad45e21aed99e43a3713", null ],
+    [ "OnBeforeCheckCriteria", "d1/dd3/a10251.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
+    [ "SetRealmCompleted", "d1/dd3/a10251.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
 ];

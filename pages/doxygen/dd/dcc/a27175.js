@@ -1,6 +1,6 @@
 var a27175 =
 [
-    [ "go_heatAI", "de/d11/a27179.html", "de/d11/a27179" ],
-    [ "go_heat", "dd/dcc/a27175.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
-    [ "GetAI", "dd/dcc/a27175.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
+    [ "HandleDummy", "dd/dcc/a27175.html#a68a86f7f86324336dc837622e01fa6af", null ],
+    [ "PrepareSpellScript", "dd/dcc/a27175.html#a8c0a4b3b96a93b6977c2d3077fdfff1d", null ],
+    [ "Register", "dd/dcc/a27175.html#ad168c9164d1edd23abfbf05141b96de4", null ]
 ];

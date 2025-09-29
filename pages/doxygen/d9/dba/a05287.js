@@ -1,5 +1,5 @@
 var a05287 =
 [
-    [ "Decode", "d9/dba/a05287.html#a16eb5c0306f404a3be454430abd01610", null ],
-    [ "Encode", "d9/dba/a05287.html#a5c439d87d1532c68023e2d612d874e5f", null ]
+    [ "_elements", "d9/dba/a05287.html#acf30d76638f2906421de881ced591fbd", null ],
+    [ "_TailElements", "d9/dba/a05287.html#afbb7352f16ec774a372d2cbf699e3e0e", null ]
 ];

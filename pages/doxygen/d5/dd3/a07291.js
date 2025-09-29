@@ -1,10 +1,6 @@
 var a07291 =
 [
-    [ "SelectionPool", "d5/dd3/a07291.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
-    [ "AddGroup", "d5/dd3/a07291.html#a87fe4747536355ad7affda76640a082e", null ],
-    [ "GetPlayerCount", "d5/dd3/a07291.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
-    [ "Init", "d5/dd3/a07291.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
-    [ "KickGroup", "d5/dd3/a07291.html#a74fb708546a8612ca52b24b8472b71ef", null ],
-    [ "PlayerCount", "d5/dd3/a07291.html#a0c08c47f68dbb45175efc524f4553e16", null ],
-    [ "SelectedGroups", "d5/dd3/a07291.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
+    [ "ArenaTeamFilterByTypes", "d5/dd3/a07291.html#ac28ee86767c48219dbe141620c87e129", null ],
+    [ "Filter", "d5/dd3/a07291.html#a7c04437788359b40db1c0d4492d51497", null ],
+    [ "_validTypes", "d5/dd3/a07291.html#aa3b5ce8932b00b092813af239d83b7d1", null ]
 ];

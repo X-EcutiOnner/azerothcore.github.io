@@ -1,6 +1,6 @@
 var a17299 =
 [
-    [ "VampiricBiteTargetSelector", "d7/dd1/a17299.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
-    [ "operator()", "d7/dd1/a17299.html#ac16204f50f62cb2568998d1ea137f55d", null ],
-    [ "_source", "d7/dd1/a17299.html#af23a69491c915909566249b109b1f0e8", null ]
+    [ "npc_pos_freed_slaveAI", "d7/dd1/a17299.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "d7/dd1/a17299.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "d7/dd1/a17299.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

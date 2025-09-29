@@ -1,12 +1,13 @@
 var a26587 =
 [
-    [ "CalcPeriodic", "dc/d53/a26587.html#a35d58947074659d2692877dfcf13e4bd", null ],
-    [ "CalculateAPAmount", "dc/d53/a26587.html#ac72434a046c28a4887971cf83d574a6e", null ],
-    [ "CalculateResistanceAmount", "dc/d53/a26587.html#a82067899470366c2cbf21bba08061ce1", null ],
-    [ "CalculateSPAmount", "dc/d53/a26587.html#a527213b389be9b1953f423ae84eb16ee", null ],
-    [ "CalculateStatAmount", "dc/d53/a26587.html#ad7185292820feb168565648133c9e2cc", null ],
-    [ "HandleEffectApply", "dc/d53/a26587.html#aa333430da4cf3303822d5f048cb9d5a4", null ],
-    [ "HandlePeriodic", "dc/d53/a26587.html#ae2bca6c841d1ba02a8a39b1a2179ac97", null ],
-    [ "PrepareAuraScript", "dc/d53/a26587.html#a671a588ae36323c11b33a45d652290de", null ],
-    [ "Register", "dc/d53/a26587.html#a8aae94d6d6a9ec1fa7d47f88874cce4f", null ]
+    [ "spell_generic_quest_update_entry_SpellScript", "dc/d53/a26587.html#ac4308aa1d8701e79888046e1c19137a7", null ],
+    [ "HandleDummy", "dc/d53/a26587.html#a891c357279ecee2e7fce323761607285", null ],
+    [ "PrepareSpellScript", "dc/d53/a26587.html#a3bf2605d8aa31e694b479f0de9f1703e", null ],
+    [ "Register", "dc/d53/a26587.html#af04e51cff5344f1acef7607080501736", null ],
+    [ "_despawnTime", "dc/d53/a26587.html#a0495a98565cd8292c252745956206743", null ],
+    [ "_effIndex", "dc/d53/a26587.html#a46dd459dc324dfea871c93a0b3b5d8f1", null ],
+    [ "_newEntry", "dc/d53/a26587.html#ad76d907c9200985e9aa1e2c5006d0c46", null ],
+    [ "_originalEntry", "dc/d53/a26587.html#ad7d8ddda30c4b9f322ddaee8b014c233", null ],
+    [ "_shouldAttack", "dc/d53/a26587.html#acf0c48dd134c5e8bb207983e8f520f22", null ],
+    [ "_spellEffect", "dc/d53/a26587.html#af02e04bbac8a4ad1d84c72b7f337249e", null ]
 ];

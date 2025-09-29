@@ -1,6 +1,7 @@
 var a12355 =
 [
-    [ "boss_golemaggAI", "df/dfe/a12359.html", "df/dfe/a12359" ],
-    [ "boss_golemagg", "d1/dc9/a12355.html#a66720a143f8987dfa5d6e2acb7cd73cd", null ],
-    [ "GetAI", "d1/dc9/a12355.html#a6899f30975e0984306feabe47bbc8317", null ]
+    [ "boss_broodlordAI", "d1/dc9/a12355.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
+    [ "JustDied", "d1/dc9/a12355.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
+    [ "JustEngagedWith", "d1/dc9/a12355.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
+    [ "UpdateAI", "d1/dc9/a12355.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
 ];

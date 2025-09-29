@@ -1,5 +1,7 @@
 var a19823 =
 [
-    [ "boss_flame_leviathan_overload_deviceAI", "d3/d7b/a19823.html#ab28c1371c20672e717f92fbc3656fb99", null ],
-    [ "OnSpellClick", "d3/d7b/a19823.html#af432be27e1b91ecf5a5a53c7b6add39e", null ]
+    [ "creature", "d3/d7b/a19823.html#a55a6ee677ab51120867f542e5a5745b0", null ],
+    [ "sound", "d3/d7b/a19823.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
+    [ "text", "d3/d7b/a19823.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
+    [ "timer", "d3/d7b/a19823.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
 ];

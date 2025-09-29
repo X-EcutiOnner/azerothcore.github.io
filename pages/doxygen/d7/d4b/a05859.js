@@ -1,10 +1,10 @@
 var a05859 =
 [
-    [ "TransactionCallback", "d7/d4b/a05859.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
-    [ "TransactionCallback", "d7/d4b/a05859.html#adeff62976c11d9d90169e4650640118b", null ],
-    [ "AfterComplete", "d7/d4b/a05859.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
-    [ "InvokeIfReady", "d7/d4b/a05859.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
-    [ "operator=", "d7/d4b/a05859.html#ab73d1741c21ea9fd86f65a647768e972", null ],
-    [ "m_callback", "d7/d4b/a05859.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
-    [ "m_future", "d7/d4b/a05859.html#a381e889074bc5ca48574d37fe6eea00f", null ]
+    [ "PreparedStatementTask", "d7/d4b/a05859.html#a332f6ddad1ee338da3fa4bd2461a9c29", null ],
+    [ "~PreparedStatementTask", "d7/d4b/a05859.html#a4ca96ab46d5015b2c673164652146886", null ],
+    [ "Execute", "d7/d4b/a05859.html#ad4058410f5eba4f0f935696d38ba85ab", null ],
+    [ "GetFuture", "d7/d4b/a05859.html#a07031e5cff28553e33d98140847b9e0d", null ],
+    [ "m_has_result", "d7/d4b/a05859.html#a7c2841b7638c42caa4e8c1116110f8a3", null ],
+    [ "m_result", "d7/d4b/a05859.html#a841a7aefd9ea58a76cead1da65a786b2", null ],
+    [ "m_stmt", "d7/d4b/a05859.html#aba9082a717729915a4e4d640220a49d2", null ]
 ];

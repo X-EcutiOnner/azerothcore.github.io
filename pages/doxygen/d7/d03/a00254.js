@@ -1,13 +1,6 @@
 var a00254 =
 [
-    [ "SkillPerfectItemEntry", "db/d20/a11092.html", "db/d20/a11092" ],
-    [ "SkillExtraItemEntry", "d0/d7b/a11096.html", "d0/d7b/a11096" ],
-    [ "SkillExtraItemMap", "d7/d03/a00254.html#a9ba2d7d2e815aee57a701990b858db7b", null ],
-    [ "SkillPerfectItemMap", "d7/d03/a00254.html#ad732be66d93ed6e8f498077f27e2766b", null ],
-    [ "canCreateExtraItems", "d7/d03/a00254.html#a49687e255d65fa15dac5e6a428c5739d", null ],
-    [ "CanCreatePerfectItem", "d7/d03/a00254.html#a818c557864790091814604b6d2175e52", null ],
-    [ "LoadSkillExtraItemTable", "d7/d03/a00254.html#a3244d04018405bafe21acc8bc96cc743", null ],
-    [ "LoadSkillPerfectItemTable", "d7/d03/a00254.html#a121df170a82be5ab5b05999a6be27b69", null ],
-    [ "SkillExtraItemStore", "d7/d03/a00254.html#acc52416c05fbae29bcbfa9f0683485cd", null ],
-    [ "SkillPerfectItemStore", "d7/d03/a00254.html#ac676f0acbf782fa2d31bd66b8eaa8260", null ]
+    [ "SelectAI", "d7/d03/a00254.html#a10fef1ff3335f4642179ee423b1ff0d6", null ],
+    [ "SelectGameObjectAI", "d7/d03/a00254.html#a2ce404e9b85f551638d8783c01a19860", null ],
+    [ "SelectMovementGenerator", "d7/d03/a00254.html#a203d17bf72c42c0d3fdb77626b01b679", null ]
 ];

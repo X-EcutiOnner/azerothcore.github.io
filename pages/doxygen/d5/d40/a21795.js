@@ -1,8 +1,7 @@
 var a21795 =
 [
-    [ "npc_q24545_vegardAI", "d5/d40/a21795.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
-    [ "JustDied", "d5/d40/a21795.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
-    [ "KilledUnit", "d5/d40/a21795.html#a2d78117a6c2a29f52f1905595425964a", null ],
-    [ "UpdateAI", "d5/d40/a21795.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
-    [ "events", "d5/d40/a21795.html#a68f48d92cc5559025e635d599c2882e3", null ]
+    [ "npc_valiance_keep_cannoneerAI", "d5/d40/a21795.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
+    [ "Reset", "d5/d40/a21795.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
+    [ "UpdateAI", "d5/d40/a21795.html#a75f16f2b028ca341db6e08536be06bfa", null ],
+    [ "uiTimer", "d5/d40/a21795.html#a0cf5f0413b1cded835252a38e272f835", null ]
 ];

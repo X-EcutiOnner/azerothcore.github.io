@@ -1,6 +1,6 @@
 var a12331 =
 [
-    [ "npc_garr_fireswornAI", "d0/d34/a12335.html", "d0/d34/a12335" ],
-    [ "npc_garr_firesworn", "d8/d8d/a12331.html#a54c8f5daab9b8c4e1e7ff5d7777fcddf", null ],
-    [ "GetAI", "d8/d8d/a12331.html#a07e47767a44d3613f8cba2c3dfb1d14e", null ]
+    [ "near_scarshield_infiltrator", "d8/d8d/a12331.html#a38d2e75946c429b4d80b007f190406bc", null ],
+    [ "OnTrigger", "d8/d8d/a12331.html#aeb761433e3210ce85c1de4dab653a87c", null ],
+    [ "whisperedTargets", "d8/d8d/a12331.html#a5655e241d2551798a960cb6375c7df23", null ]
 ];

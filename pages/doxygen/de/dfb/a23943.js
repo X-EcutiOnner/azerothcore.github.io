@@ -1,9 +1,13 @@
 var a23943 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "de/dfb/a23943.html#a273d585416dc92d39d5ec3824c08504d", null ],
-    [ "IsSummonedBy", "de/dfb/a23943.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
-    [ "Reset", "de/dfb/a23943.html#a06fa50580efeab8d847a05f20956d175", null ],
-    [ "UpdateAI", "de/dfb/a23943.html#a8261a259cfbee0d3610ee441406fafcd", null ],
-    [ "playerGuid", "de/dfb/a23943.html#aab717dd49284c483759a6223dbd7e6ea", null ],
-    [ "timer", "de/dfb/a23943.html#afba1b71178c563a3db906057cd20de45", null ]
+    [ "boss_wrath_scryer_soccothrates", "de/dfb/a23943.html#a771980c1022e7699c3eb02baccb68a93", null ],
+    [ "InitializeAI", "de/dfb/a23943.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
+    [ "JustDied", "de/dfb/a23943.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
+    [ "JustEngagedWith", "de/dfb/a23943.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
+    [ "KilledUnit", "de/dfb/a23943.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
+    [ "MoveInLineOfSight", "de/dfb/a23943.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
+    [ "Reset", "de/dfb/a23943.html#a85435a23d36f13e348112348a26e7d12", null ],
+    [ "UpdateAI", "de/dfb/a23943.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
+    [ "events2", "de/dfb/a23943.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
+    [ "preFight", "de/dfb/a23943.html#a193889ee2815b93a1c9aeee394170fc4", null ]
 ];

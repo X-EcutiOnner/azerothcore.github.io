@@ -1,6 +1,8 @@
 var a11783 =
 [
-    [ "ironhand_guardianAI", "dd/d27/a11787.html", "dd/d27/a11787" ],
-    [ "ironhand_guardian", "dd/dbf/a11783.html#a2363002ce096937ecbb4b62af806ee42", null ],
-    [ "GetAI", "dd/dbf/a11783.html#a0bf140618a45a6a4398cfe51b8a03488", null ]
+    [ "CreatureCountWorker", "dd/dbf/a11783.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
+    [ "GetTopCreatureCount", "dd/dbf/a11783.html#a5d4d009b6685dd71703f96f9945a463e", null ],
+    [ "Visit", "dd/dbf/a11783.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
+    [ "Visit", "dd/dbf/a11783.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
+    [ "creatureIds", "dd/dbf/a11783.html#a3a6f946c40b1006164793dbaed2b3948", null ]
 ];

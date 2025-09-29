@@ -1,6 +1,12 @@
 var a23795 =
 [
-    [ "lapseTeleport", "d0/d60/a23795.html#a55c4330397214bf3a43628b3067d4634", null ],
-    [ "Execute", "d0/d60/a23795.html#a122023ed13fce2f5bb3721e459964443", null ],
-    [ "_owner", "d0/d60/a23795.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
+    [ "boss_watchkeeper_gargolmar", "d0/d60/a23795.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
+    [ "JustDied", "d0/d60/a23795.html#a39be5796b39bea913105fc48dda0d186", null ],
+    [ "JustEngagedWith", "d0/d60/a23795.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
+    [ "KilledUnit", "d0/d60/a23795.html#a22736c2680f41cfd3443a76cd4de9352", null ],
+    [ "MoveInLineOfSight", "d0/d60/a23795.html#adec9837fdb2595ce57acffb279a7d011", null ],
+    [ "Reset", "d0/d60/a23795.html#a356b7fe9071b073b74b21913e35e7408", null ],
+    [ "UpdateAI", "d0/d60/a23795.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
+    [ "_hasSpoken", "d0/d60/a23795.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
+    [ "_taunted", "d0/d60/a23795.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
 ];

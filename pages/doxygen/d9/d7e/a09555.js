@@ -1,9 +1,18 @@
 var a09555 =
 [
-    [ "EmoteChatBuilder", "d9/d7e/a09555.html#ae1aeb36aad24d5ef28074edfbf2f9e7e", null ],
-    [ "operator()", "d9/d7e/a09555.html#a133a7bb35e86cf40425910c4f19a3337", null ],
-    [ "i_emote_num", "d9/d7e/a09555.html#a966b8afcbf5afca3a3466d8e075a9437", null ],
-    [ "i_player", "d9/d7e/a09555.html#ae09dbfe01b2a24e57b63b2b1df5ad232", null ],
-    [ "i_target", "d9/d7e/a09555.html#abc538e056d91ea1ee8d6203c96174b1d", null ],
-    [ "i_text_emote", "d9/d7e/a09555.html#add0630dc3fc76fb4fdb79095e13b2fc0", null ]
+    [ "GroupContainer", "d9/d7e/a09555.html#a417c5798d50cac5c1bc5b0eae13945cc", null ],
+    [ "GroupIds", "d9/d7e/a09555.html#ad3a9005c50a5957d3f47adf60624b9aa", null ],
+    [ "GroupMgr", "d9/d7e/a09555.html#a663dbeb2e20161d8d6cf72f322c05f0e", null ],
+    [ "~GroupMgr", "d9/d7e/a09555.html#ad5a5efeed7f78146983611c2349c111f", null ],
+    [ "AddGroup", "d9/d7e/a09555.html#abb97c613417573dc4cafa117065e7cf8", null ],
+    [ "GenerateGroupId", "d9/d7e/a09555.html#ad881433a3836a70e44734bde5a1afc6f", null ],
+    [ "GetGroupByGUID", "d9/d7e/a09555.html#a2af93882e217f762df95ba21af191c89", null ],
+    [ "InitGroupIds", "d9/d7e/a09555.html#a6881453ec34dc2d9416069a87b1a3234", null ],
+    [ "instance", "d9/d7e/a09555.html#a1b7275cfd70d46216df8c353e70d64c8", null ],
+    [ "LoadGroups", "d9/d7e/a09555.html#ab8548ce88b015ae3040cd5f2cd7b1990", null ],
+    [ "RegisterGroupId", "d9/d7e/a09555.html#a8bface2b6600801ebcd1cbb9070ec3ef", null ],
+    [ "RemoveGroup", "d9/d7e/a09555.html#a654b7c795c9c3d77a7a39bce58dec2c7", null ],
+    [ "_groupIds", "d9/d7e/a09555.html#af260c73ba61242f741103bdfe6d6fb9e", null ],
+    [ "_nextGroupId", "d9/d7e/a09555.html#a4e41d7444f8b7d3dbb54569be80b65f9", null ],
+    [ "GroupStore", "d9/d7e/a09555.html#ae897c661dd4b185d205c3a12d17ccb2b", null ]
 ];

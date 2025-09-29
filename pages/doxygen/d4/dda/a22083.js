@@ -1,18 +1,14 @@
 var a22083 =
 [
-    [ "npc_blessed_bannerAI", "d4/dda/a22083.html#a563cd394d72a900d735f8639074deae1", null ],
-    [ "JustDied", "d4/dda/a22083.html#a06e0e0c1e673c13488bd47e130098915", null ],
-    [ "JustEngagedWith", "d4/dda/a22083.html#abfdd9e554fbbe16f6058d5cb10394a84", null ],
-    [ "JustSummoned", "d4/dda/a22083.html#a354921ca9a3603c48885a38a507347c4", null ],
-    [ "MoveInLineOfSight", "d4/dda/a22083.html#a34a0a856a4a4c05954ba300d8031e374", null ],
-    [ "Reset", "d4/dda/a22083.html#a6fe7e49f2077ed549a6406592aec345e", null ],
-    [ "UpdateAI", "d4/dda/a22083.html#a8ca070c63dd48e22823ac26d11da75be", null ],
-    [ "events", "d4/dda/a22083.html#a79b7fbee1492860fe64d42928e494e3d", null ],
-    [ "guidDalfors", "d4/dda/a22083.html#a369a837b6fa57d0960f24d9ea629ed04", null ],
-    [ "guidHalof", "d4/dda/a22083.html#aef28a7624fb88e65a7f79fe34c320a29", null ],
-    [ "guidMason", "d4/dda/a22083.html#a05e6dc20409e2271de8fe4f4b3ae7bfa", null ],
-    [ "guidPriest", "d4/dda/a22083.html#a25f4056b2d7fda02885f58502f809a9c", null ],
-    [ "HalofSpawned", "d4/dda/a22083.html#a38e98094f05c09ea19a4f44771194b2e", null ],
-    [ "PhaseCount", "d4/dda/a22083.html#a983110caf86d94374a299d7268f7458c", null ],
-    [ "Summons", "d4/dda/a22083.html#a92d7543e31c5cb367379711cb767ebd6", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "d4/dda/a22083.html#a84beab3be0d7e5d5d3674a57b1928f09", null ],
+    [ "ChangeImage", "d4/dda/a22083.html#a815e5c67b282e2840676b5453d94d5dc", null ],
+    [ "MovementInform", "d4/dda/a22083.html#a2ed09d31771e9c225d8d8b40ba8f0f82", null ],
+    [ "Reset", "d4/dda/a22083.html#a71410a3e3e5134311bf7bc2ef3051eb3", null ],
+    [ "StoreTargets", "d4/dda/a22083.html#a0732307643a442bc3f070b9cc91d78c9", null ],
+    [ "TurnAudience", "d4/dda/a22083.html#afa7fce3a9cccfcc7b088e72df9f312a4", null ],
+    [ "UpdateAI", "d4/dda/a22083.html#a454984668ca58c8a6fdd9ad4f630dece", null ],
+    [ "_events", "d4/dda/a22083.html#a907626beb601f789a725d88d45689eb2", null ],
+    [ "audienceList", "d4/dda/a22083.html#a5bdb09658bd93e46387df8eeb8cf0221", null ],
+    [ "imageList", "d4/dda/a22083.html#a8177ed5bc5fd54b98f2f36c9389b8099", null ],
+    [ "talkWing", "d4/dda/a22083.html#ace957ffe4fba8f229946d61d63c1798c", null ]
 ];

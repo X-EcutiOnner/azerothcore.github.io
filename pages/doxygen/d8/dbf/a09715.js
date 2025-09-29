@@ -1,13 +1,14 @@
 var a09715 =
 [
-    [ "ServerMail", "d8/dbf/a09715.html#a50cf3e6929e397a3c1de83b9fcf83416", null ],
-    [ "active", "d8/dbf/a09715.html#a24a12fcafd0b0f4a7c0558737d8fd71f", null ],
-    [ "body", "d8/dbf/a09715.html#a58d352611dcb35126f6ec93622ddc4b9", null ],
-    [ "conditions", "d8/dbf/a09715.html#a818b993f72f82a022277e1c8d9160011", null ],
-    [ "id", "d8/dbf/a09715.html#a6b47994eff9201a6a75f8c621b64716c", null ],
-    [ "itemsA", "d8/dbf/a09715.html#a0992466672427c1d24c686bd8fa39378", null ],
-    [ "itemsH", "d8/dbf/a09715.html#ad120200ba47bf8ea8511a46d56f0daec", null ],
-    [ "moneyA", "d8/dbf/a09715.html#a6a84ca583beef891422f67bef7919c47", null ],
-    [ "moneyH", "d8/dbf/a09715.html#a0e899ce54283bc000cc6afb96e6a3244", null ],
-    [ "subject", "d8/dbf/a09715.html#a246e499c69c57a436aac4c039ea37d31", null ]
+    [ "LootItemStorage", "d8/dbf/a09715.html#aa6ece474f05744f2ce24a9fef42734af", null ],
+    [ "~LootItemStorage", "d8/dbf/a09715.html#a36faeed6ef556fd13118c4ad34e38548", null ],
+    [ "AddNewStoredLoot", "d8/dbf/a09715.html#a4c463773b50ae1b312865fbf72dfed18", null ],
+    [ "instance", "d8/dbf/a09715.html#a58d6dc6afa42364ca1dd6cbdcfb55b2b", null ],
+    [ "LoadStorageFromDB", "d8/dbf/a09715.html#a377c75f9d06eb246072b29d19baf2b62", null ],
+    [ "LoadStoredLoot", "d8/dbf/a09715.html#ad9804f564302d6ea4db4b84a6cbb093b", null ],
+    [ "RemoveEntryFromDB", "d8/dbf/a09715.html#a8ab68725c0525d162d325a2131db4c49", null ],
+    [ "RemoveStoredLoot", "d8/dbf/a09715.html#a414dee93f9852a64f01f9d9bf8dc8b40", null ],
+    [ "RemoveStoredLootItem", "d8/dbf/a09715.html#a6fd3f2ac820784ba51413b3781df3bcc", null ],
+    [ "RemoveStoredLootMoney", "d8/dbf/a09715.html#ab22d267a6701fedf824f801e4b703f70", null ],
+    [ "lootItemStore", "d8/dbf/a09715.html#a58ae52b9812e5752ba00d00a58eb56b0", null ]
 ];

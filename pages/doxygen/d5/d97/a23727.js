@@ -1,6 +1,10 @@
 var a23727 =
 [
-    [ "HandlePeriodic", "d5/d97/a23727.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
-    [ "PrepareAuraScript", "d5/d97/a23727.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
-    [ "Register", "d5/d97/a23727.html#acf77c76f02671da215c7103b60ed77ac", null ]
+    [ "boss_blindeye_the_seer", "d5/d97/a23727.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
+    [ "JustDied", "d5/d97/a23727.html#ad70a72b18587da82d26bde8f10d63700", null ],
+    [ "JustEngagedWith", "d5/d97/a23727.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
+    [ "Reset", "d5/d97/a23727.html#aabbda75266615f64ce88ce092e68bfa4", null ],
+    [ "UpdateAI", "d5/d97/a23727.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
+    [ "_scheduler", "d5/d97/a23727.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
+    [ "instance", "d5/d97/a23727.html#a74462f26d66da3ca370825858060b1c2", null ]
 ];

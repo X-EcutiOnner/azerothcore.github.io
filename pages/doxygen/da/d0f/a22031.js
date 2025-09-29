@@ -1,7 +1,6 @@
 var a22031 =
 [
-    [ "HandleDummy", "da/d0f/a22031.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "da/d0f/a22031.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "da/d0f/a22031.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "da/d0f/a22031.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "SACActivateEvent", "da/d0f/a22031.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
+    [ "Execute", "da/d0f/a22031.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
+    [ "_owner", "da/d0f/a22031.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
 ];

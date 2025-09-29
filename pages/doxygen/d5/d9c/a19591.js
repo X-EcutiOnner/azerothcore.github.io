@@ -1,8 +1,6 @@
 var a19591 =
 [
-    [ "iron_golem_custodianAI", "d5/d9c/a19591.html#aeeeed1383f5d221eb7b5cd5d3a6ea4fb", null ],
-    [ "JustEngagedWith", "d5/d9c/a19591.html#acd67b8d4df95eb8b0d0365184e47a29c", null ],
-    [ "Reset", "d5/d9c/a19591.html#af3193696d665746eecd9c62128d8684d", null ],
-    [ "UpdateAI", "d5/d9c/a19591.html#ab1d3910b07a6c5c53f5388a10dc48775", null ],
-    [ "events", "d5/d9c/a19591.html#a9e0bcc9ae6918f9fa40cbf8085d4ec42", null ]
+    [ "boss_uromAI", "da/d1e/a19595.html", "da/d1e/a19595" ],
+    [ "boss_urom", "d5/d9c/a19591.html#ae85d0bb54d3bf6571bec9d35f31a3e25", null ],
+    [ "GetAI", "d5/d9c/a19591.html#ac381b851f3cc746fb323ff238892c537", null ]
 ];

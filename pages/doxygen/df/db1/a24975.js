@@ -1,7 +1,8 @@
 var a24975 =
 [
-    [ "HandleScript", "df/db1/a24975.html#a9fb69011ce5245925eb6a4fd011d18b2", null ],
-    [ "PrepareSpellScript", "df/db1/a24975.html#ab9300ff0efc4a36d652a1b56c031dc2f", null ],
-    [ "Register", "df/db1/a24975.html#aa0828fa1a3cf75e8222607a4f2fff950", null ],
-    [ "Validate", "df/db1/a24975.html#a9469ebca2d40dd2944f2fb7286fc64ff", null ]
+    [ "AfterApply", "df/db1/a24975.html#a4d2941ebb326d603ac08f428f811c29b", null ],
+    [ "AfterRemove", "df/db1/a24975.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
+    [ "PrepareAuraScript", "df/db1/a24975.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
+    [ "Register", "df/db1/a24975.html#a78e30a950b9fc08dff5072028816b8b4", null ],
+    [ "Validate", "df/db1/a24975.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
 ];

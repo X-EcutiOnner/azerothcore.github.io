@@ -1,8 +1,10 @@
 var a15083 =
 [
-    [ "npc_ouro_spawner", "de/dab/a15083.html#acb18739e5a1734312ffdda35321e5f34", null ],
-    [ "JustSummoned", "de/dab/a15083.html#a722dada5bf97c730462a0de2b082d5ff", null ],
-    [ "MoveInLineOfSight", "de/dab/a15083.html#a83c0972db4435ccf1af069574e4056f4", null ],
-    [ "Reset", "de/dab/a15083.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
-    [ "hasSummoned", "de/dab/a15083.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
+    [ "CurrId", "de/dab/a15083.html#a126d1c0e7d475a07acd91de471cb7cab", null ],
+    [ "DestId", "de/dab/a15083.html#a7b12c520ee50ab29e5047a1c71b22729", null ],
+    [ "o", "de/dab/a15083.html#a94c284d63e66765c4d484c8edea8fdb8", null ],
+    [ "spellId", "de/dab/a15083.html#a7240ecd6f50a6db0e2be4eb4e55b3a48", null ],
+    [ "x", "de/dab/a15083.html#a41c7bdb057d984f552a41835651d84f5", null ],
+    [ "y", "de/dab/a15083.html#abe083129d7a4e514e97eeae7cff40af5", null ],
+    [ "z", "de/dab/a15083.html#ac49d886d09e2ebf8ccf8abd59a9649ec", null ]
 ];

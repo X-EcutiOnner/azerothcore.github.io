@@ -1,9 +1,8 @@
 var a24827 =
 [
-    [ "spell_gen_select_target_count", "d0/dc0/a24827.html#a65507c155a8746ff49c58c051b7868e4", null ],
-    [ "FilterTargets", "d0/dc0/a24827.html#a5de89be9ce321a0f4ac49853a700b502", null ],
-    [ "PrepareSpellScript", "d0/dc0/a24827.html#a42ddce15414dcdf495b572e0f75e9486", null ],
-    [ "Register", "d0/dc0/a24827.html#a94f86992275123e2e3989655cf077efd", null ],
-    [ "_count", "d0/dc0/a24827.html#acdf5daa848ae185b859c45a1271df68c", null ],
-    [ "_effTarget", "d0/dc0/a24827.html#a9c54508790062277c8275d2466e93fb3", null ]
+    [ "HandleEffectApply", "d0/dc0/a24827.html#a9a93b47a1f24554a94e364b07f74ba55", null ],
+    [ "HandleEffectRemove", "d0/dc0/a24827.html#abb7f01239b5a982ded0244d781c4d856", null ],
+    [ "PrepareAuraScript", "d0/dc0/a24827.html#a9517667d1f79557b3ec2ef6fdfd1bc1b", null ],
+    [ "Register", "d0/dc0/a24827.html#ae2847d4059ad2822be5703c4d0c79bdb", null ],
+    [ "Validate", "d0/dc0/a24827.html#abc30fd53a7f9234755c292db533ba99c", null ]
 ];

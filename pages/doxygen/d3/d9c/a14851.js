@@ -1,12 +1,10 @@
 var a14851 =
 [
-    [ "instance_razorfen_downs_InstanceMapScript", "d3/d9c/a14851.html#a04d36b66a5570d03bb95ef2225a5c902", null ],
-    [ "GetData", "d3/d9c/a14851.html#a3d1611870945cd0c8cd7d4e7728cfd84", null ],
-    [ "Initialize", "d3/d9c/a14851.html#aed9ab9542badb0296ca0660c39541cb8", null ],
-    [ "OnGameObjectCreate", "d3/d9c/a14851.html#a567ac5d9a17514ede5b84c5d78204072", null ],
-    [ "ReadSaveDataMore", "d3/d9c/a14851.html#a7d6fefed563b0b9763b9c63136c65952", null ],
-    [ "SetData", "d3/d9c/a14851.html#a1dfd39d65b16bb6e1373fe83ba4053c5", null ],
-    [ "WriteSaveDataMore", "d3/d9c/a14851.html#ae5cd5cf84e8db976f3006dc52bb5fab4", null ],
-    [ "_firesState", "d3/d9c/a14851.html#a74809429d3d2b1db5374dacf34d8a1b7", null ],
-    [ "_gongPhase", "d3/d9c/a14851.html#a23485a35f0aa2f2ffad53398882d163a", null ]
+    [ "boss_rage_winterchill", "d3/d9c/a14851.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
+    [ "DoAction", "d3/d9c/a14851.html#a45333aea6d6a180473ca4823ea83920a", null ],
+    [ "JustDied", "d3/d9c/a14851.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
+    [ "JustEngagedWith", "d3/d9c/a14851.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
+    [ "KilledUnit", "d3/d9c/a14851.html#a69d69530a080379add7be73c552f4937", null ],
+    [ "PathEndReached", "d3/d9c/a14851.html#aec47befdf3246710a5158780fa797fa7", null ],
+    [ "_recentlySpoken", "d3/d9c/a14851.html#ae2141b4ea1d10cb74146aec63d65214c", null ]
 ];

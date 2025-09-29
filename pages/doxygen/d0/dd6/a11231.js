@@ -1,8 +1,12 @@
 var a11231 =
 [
-    [ "EffectHandler", "d0/dd6/a11231.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
-    [ "Call", "d0/dd6/a11231.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
-    [ "CheckEffect", "d0/dd6/a11231.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
-    [ "ToString", "d0/dd6/a11231.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
-    [ "pEffectHandlerScript", "d0/dd6/a11231.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
+    [ "UnitAura", "d0/dd6/a11231.html#ada4033955271dfb21d16a95b316087f5", null ],
+    [ "_ApplyForTarget", "d0/dd6/a11231.html#a920549cf55c8def37149b00ae971127d", null ],
+    [ "_UnapplyForTarget", "d0/dd6/a11231.html#af4d453cee6758e633bdcae0049581898", null ],
+    [ "FillTargetMap", "d0/dd6/a11231.html#add5ce04446338e078c5986420abfd16e", null ],
+    [ "GetDiminishGroup", "d0/dd6/a11231.html#a8ebf7b01e7f324938f68ad4ce74d56b5", null ],
+    [ "Remove", "d0/dd6/a11231.html#a28f714404942bb5c614ac844cf937546", null ],
+    [ "SetDiminishGroup", "d0/dd6/a11231.html#a6d858a153c5d3046574f3387ab852050", null ],
+    [ "Aura::Create", "d0/dd6/a11231.html#ae2c0fdfb409846fec5e861de60797112", null ],
+    [ "m_AuraDRGroup", "d0/dd6/a11231.html#a4b413c5e62eee76875a22345059e6124", null ]
 ];

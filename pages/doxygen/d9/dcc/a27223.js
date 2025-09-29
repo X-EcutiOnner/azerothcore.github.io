@@ -1,6 +1,8 @@
 var a27223 =
 [
-    [ "go_midsummer_musicAI", "d0/d62/a27227.html", "d0/d62/a27227" ],
-    [ "go_midsummer_music", "d9/dcc/a27223.html#a39c38fc78b47b16be9eebee0ccd5041d", null ],
-    [ "GetAI", "d9/dcc/a27223.html#a1baf09bdbf67c0a85219454c1cd61d2b", null ]
+    [ "CheckProc", "d9/dcc/a27223.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
+    [ "HandleEffectProc", "d9/dcc/a27223.html#af01d160cb2a55124361a2dd113acd0a7", null ],
+    [ "PrepareAuraScript", "d9/dcc/a27223.html#aeffb8490a7208ae6e32a505283afbc03", null ],
+    [ "Register", "d9/dcc/a27223.html#a5436413d098dde4b0fa1ed2259a47779", null ],
+    [ "Validate", "d9/dcc/a27223.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
 ];

@@ -1,5 +1,6 @@
 var a18615 =
 [
-    [ "npc_alchemist_adrianna", "dc/d04/a18615.html#a310d375bc73c51e407580b063a6543fa", null ],
-    [ "OnGossipHello", "dc/d04/a18615.html#a02ec6a66037d72e30bbe821ceee38691", null ]
+    [ "ActivateSpirit", "dc/d04/a18615.html#ae5c9f8e693a98c828e0e922870552952", null ],
+    [ "PrepareSpellScript", "dc/d04/a18615.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
+    [ "Register", "dc/d04/a18615.html#a2b1d27e93a879681098a83d17c4d686a", null ]
 ];

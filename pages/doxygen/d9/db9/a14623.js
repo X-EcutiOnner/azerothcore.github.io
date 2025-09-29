@@ -1,10 +1,7 @@
 var a14623 =
 [
-    [ "npc_hyjal_gargoyle", "d9/db9/a14623.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
-    [ "AttackStart", "d9/db9/a14623.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
-    [ "DoAction", "d9/db9/a14623.html#ae213c71426f438dd2b27699d7de23664", null ],
-    [ "JustEngagedWith", "d9/db9/a14623.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
-    [ "PathEndReached", "d9/db9/a14623.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
-    [ "Reset", "d9/db9/a14623.html#af314bb183bde44680eeb136d2a08c142", null ],
-    [ "UpdateAI", "d9/db9/a14623.html#ac1ca0648b08430a8bcbf99980222b684", null ]
+    [ "HandleEffectApply", "d9/db9/a14623.html#ad48d832fef881bfb517fb8df694b7507", null ],
+    [ "HandleEffectRemove", "d9/db9/a14623.html#a1534b010301dbaff66d41443142c50b7", null ],
+    [ "PrepareAuraScript", "d9/db9/a14623.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
+    [ "Register", "d9/db9/a14623.html#a97a0003cca808e5b03f720bb3be07419", null ]
 ];

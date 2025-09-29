@@ -1,6 +1,12 @@
 var a13535 =
 [
-    [ "OnEffect", "df/d75/a13535.html#a41903586310ec274dd10537ccb8655f3", null ],
-    [ "PrepareSpellScript", "df/d75/a13535.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
-    [ "Register", "df/d75/a13535.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
+    [ "npc_kiljaeden_controller", "df/d75/a13535.html#aabe4e5af5ad142bac6cdaa4f6787a7bc", null ],
+    [ "JustDied", "df/d75/a13535.html#a86c4d79a8caf8a838e353bbf1b78c56d", null ],
+    [ "JustSummoned", "df/d75/a13535.html#af28211012d8398a450439b8e24bf60ce", null ],
+    [ "Reset", "df/d75/a13535.html#a11f6f8e86c3ecdecf8e4c5bcb76f8664", null ],
+    [ "ResetOrbs", "df/d75/a13535.html#a4daacfe92ddb39ade57df3a1bbcd79fd", null ],
+    [ "SummonedCreatureDies", "df/d75/a13535.html#aed2772552dd500c180c3db4aeef8359a", null ],
+    [ "UpdateAI", "df/d75/a13535.html#a9f24328d9ffd94ecf3d15303a71acb9b", null ],
+    [ "instance", "df/d75/a13535.html#a2cb872334b9dd6a4f87468b41f164fc4", null ],
+    [ "summons", "df/d75/a13535.html#a116a739b2bff3257b35ff7946a3d1995", null ]
 ];

@@ -1,8 +1,9 @@
 var a18287 =
 [
-    [ "Load", "d6/d3d/a18287.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
-    [ "OnRemove", "d6/d3d/a18287.html#a43b23e5c53cca872a26737d790f2893d", null ],
-    [ "PrepareAuraScript", "d6/d3d/a18287.html#ae51bcb37894240c6fd064cd329698a55", null ],
-    [ "Register", "d6/d3d/a18287.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
-    [ "Validate", "d6/d3d/a18287.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
+    [ "FilterTargets", "d6/d3d/a18287.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
+    [ "FilterTargetsSubseq", "d6/d3d/a18287.html#a88a53a855e01b550fbd106ac318a891e", null ],
+    [ "PrepareSpellScript", "d6/d3d/a18287.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
+    [ "Register", "d6/d3d/a18287.html#a27e8768422b311f6db16757e167f4102", null ],
+    [ "Validate", "d6/d3d/a18287.html#a96ef76527449a138685830b52fa95146", null ],
+    [ "_targetList", "d6/d3d/a18287.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
 ];

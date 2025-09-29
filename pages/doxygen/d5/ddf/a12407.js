@@ -1,7 +1,6 @@
 var a12407 =
 [
-    [ "HandlePeriodic", "d5/ddf/a12407.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
-    [ "PrepareAuraScript", "d5/ddf/a12407.html#a5dca8e116c05d11961cbd7995314441e", null ],
-    [ "Register", "d5/ddf/a12407.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
-    [ "Validate", "d5/ddf/a12407.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
+    [ "boss_firemawAI", "d5/ddf/a12407.html#ab3f56c97119676b1a75662e52caecb75", null ],
+    [ "JustEngagedWith", "d5/ddf/a12407.html#a04cb1d2fa18dba82b9c881b09406a076", null ],
+    [ "UpdateAI", "d5/ddf/a12407.html#a6e35e47b23d713263ef00769324bbbed", null ]
 ];

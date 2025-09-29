@@ -1,6 +1,6 @@
 var a14919 =
 [
-    [ "HandleDummyHitTarget", "d9/ded/a14919.html#ae773d73496578170061baedd8f7daec1", null ],
-    [ "PrepareSpellScript", "d9/ded/a14919.html#a822fe6d19c2ee0d02dc5561b4f910cf9", null ],
-    [ "Register", "d9/ded/a14919.html#a651cc94581130224ba23e864f8ad7060", null ]
+    [ "boss_mal_ganisAI", "d1/dd3/a14923.html", "d1/dd3/a14923" ],
+    [ "boss_mal_ganis", "d9/ded/a14919.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
+    [ "GetAI", "d9/ded/a14919.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
 ];

@@ -1,10 +1,9 @@
 var a04781 =
 [
-    [ "MockArenaSeasonTeamRewarder", "d9/d60/a28794.html", "d9/d60/a28794" ],
-    [ "ArenaSeasonRewardDistributorTest", "d1/dd8/a28798.html", "d1/dd8/a28798" ],
-    [ "ArenaTeamWithRating", "d4/dcf/a04781.html#a74bb31c469b2f6e9691219589ac41a12", null ],
-    [ "TEST_F", "d4/dcf/a04781.html#acd40406191e1dacb6e7400210157262a", null ],
-    [ "TEST_F", "d4/dcf/a04781.html#a7bfddbb1d9978546d0eff10b29942b32", null ],
-    [ "TEST_F", "d4/dcf/a04781.html#a5a69347e03ab5eeea43bfcbffb063d52", null ],
-    [ "TEST_F", "d4/dcf/a04781.html#a1ba0a1dda2222e2d5931f54c84ed5162", null ]
+    [ "anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript", "d7/d0b/a28827.html", "d7/d0b/a28827" ],
+    [ "anonymous_namespace{GmVisibleCommandTest.cpp}::TestPlayer", "d8/d99/a28831.html", "d8/d99/a28831" ],
+    [ "anonymous_namespace{GmVisibleCommandTest.cpp}::GmVisibleCommandTest", "d7/db0/a28835.html", "d7/db0/a28835" ],
+    [ "TEST_F", "d4/dcf/a04781.html#a3c2cf023118b4939342706355b5e3e23", null ],
+    [ "TEST_F", "d4/dcf/a04781.html#ab69ef1935950dc8de0cefd60510d681d", null ],
+    [ "TEST_F", "d4/dcf/a04781.html#af70d9dbfad6d1852aa5b7ea680a70928", null ]
 ];

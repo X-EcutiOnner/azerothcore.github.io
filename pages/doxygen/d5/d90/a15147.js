@@ -1,6 +1,7 @@
 var a15147 =
 [
-    [ "HandleOnHit", "d5/d90/a15147.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
-    [ "PrepareSpellScript", "d5/d90/a15147.html#a9e568a1608715973fc438ff5e4356714", null ],
-    [ "Register", "d5/d90/a15147.html#a752d697aada626440fdff2bd889f890f", null ]
+    [ "npc_hive_zara_larva", "d5/d90/a15147.html#a50fb5738d7b0818689216fee0915a0de", null ],
+    [ "JustSummoned", "d5/d90/a15147.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
+    [ "MovementInform", "d5/d90/a15147.html#a6890c58106450d654062f548a80cb42f", null ],
+    [ "_instance", "d5/d90/a15147.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
 ];

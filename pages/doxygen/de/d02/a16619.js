@@ -1,7 +1,7 @@
 var a16619 =
 [
-    [ "HandleScript", "de/d02/a16619.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
-    [ "PrepareSpellScript", "de/d02/a16619.html#a71b28156c628aacbc6cb481038c0e76c", null ],
-    [ "Register", "de/d02/a16619.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
-    [ "Validate", "de/d02/a16619.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
+    [ "npc_toc_shadow_priestAI", "de/d02/a16619.html#af13a18be542fb314c19af52f89d216b8", null ],
+    [ "myCanCast", "de/d02/a16619.html#a83422ff3e140b57a484d98876a9a8070", null ],
+    [ "UpdateAI", "de/d02/a16619.html#afc23ba15d3ee925212e77b5211504c2b", null ],
+    [ "events", "de/d02/a16619.html#a31665a22920b416d7423958a3e2928ec", null ]
 ];

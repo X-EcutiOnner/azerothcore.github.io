@@ -1,7 +1,12 @@
 var a18683 =
 [
-    [ "OnPeriodic", "d8/dd3/a18683.html#a32c4b856d6248062fbdc1dea13d876ac", null ],
-    [ "PrepareAuraScript", "d8/dd3/a18683.html#a87260a1cd06190f5412f3cab0f448a01", null ],
-    [ "Register", "d8/dd3/a18683.html#a00827210671b959a030655f6be5edac6", null ],
-    [ "Validate", "d8/dd3/a18683.html#a7163fb09fd8568a7ef5a5c37147ed5b0", null ]
+    [ "npc_risen_archmageAI", "d8/dd3/a18683.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
+    [ "CanAIAttack", "d8/dd3/a18683.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
+    [ "DoAction", "d8/dd3/a18683.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
+    [ "JustEngagedWith", "d8/dd3/a18683.html#aef3a1631b4bb8d28d4056036981b0192", null ],
+    [ "JustSummoned", "d8/dd3/a18683.html#aff6e86057086db1319bb680e52e41634", null ],
+    [ "Reset", "d8/dd3/a18683.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
+    [ "UpdateAI", "d8/dd3/a18683.html#ae78dc64f858573b234210ca175e5bdd9", null ],
+    [ "_events", "d8/dd3/a18683.html#a6dff9ff5332c0bc337840882689f47ed", null ],
+    [ "_instance", "d8/dd3/a18683.html#a1b4e12b199bf3ada517c895c5f387c4a", null ]
 ];

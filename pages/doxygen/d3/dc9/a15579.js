@@ -1,14 +1,11 @@
 var a15579 =
 [
-    [ "npc_taskmaster_fizzuleAI", "d3/dc9/a15579.html#ac792f91930c869ce919f8fd96b3fb076", null ],
-    [ "DoFriend", "d3/dc9/a15579.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
-    [ "JustEngagedWith", "d3/dc9/a15579.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
-    [ "ReceiveEmote", "d3/dc9/a15579.html#a21d0d70086f085b715a12d05fbe5d611", null ],
-    [ "Reset", "d3/dc9/a15579.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
-    [ "SpellHit", "d3/dc9/a15579.html#a4c35104935a3a6264c853a657dc42244", null ],
-    [ "UpdateAI", "d3/dc9/a15579.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
-    [ "factionNorm", "d3/dc9/a15579.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
-    [ "FlareCount", "d3/dc9/a15579.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
-    [ "IsFriend", "d3/dc9/a15579.html#ab7e6bd2e023545c73fba758267551eee", null ],
-    [ "ResetTimer", "d3/dc9/a15579.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
+    [ "npc_kerlonianAI", "d3/dc9/a15579.html#a0f7a4566ca93a174c92fe10e904af480", null ],
+    [ "ClearSleeping", "d3/dc9/a15579.html#aea2815d79da4fa006ea150f052255b9d", null ],
+    [ "MoveInLineOfSight", "d3/dc9/a15579.html#a8b0a606510d278f26099a125d583377a", null ],
+    [ "Reset", "d3/dc9/a15579.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
+    [ "SetSleeping", "d3/dc9/a15579.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
+    [ "SpellHit", "d3/dc9/a15579.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
+    [ "UpdateFollowerAI", "d3/dc9/a15579.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
+    [ "FallAsleepTimer", "d3/dc9/a15579.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
 ];

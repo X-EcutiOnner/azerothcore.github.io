@@ -1,6 +1,5 @@
 var a27539 =
 [
-    [ "npc_guardianAI", "dd/dab/a27543.html", "dd/dab/a27543" ],
-    [ "npc_guardian", "d2/dae/a27539.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
-    [ "GetAI", "d2/dae/a27539.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
+    [ "go_sacred_fire_of_life", "d2/dae/a27539.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
+    [ "OnGossipHello", "d2/dae/a27539.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
 ];

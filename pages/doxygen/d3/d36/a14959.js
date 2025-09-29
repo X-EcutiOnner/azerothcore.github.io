@@ -1,6 +1,6 @@
 var a14959 =
 [
-    [ "FilterTargets", "d3/d36/a14959.html#ac4f353ac54e7a461d5411fd8eae33cc1", null ],
-    [ "PrepareSpellScript", "d3/d36/a14959.html#a8cb8041b71dd3175b627fe7ec5b2c2f3", null ],
-    [ "Register", "d3/d36/a14959.html#a07d56d19b95c8d24f6908815e4ceb13f", null ]
+    [ "npc_crate_helperAI", "d3/d36/a14959.html#ad58a2f3746da7862658fb3b9e1580836", null ],
+    [ "SpellHit", "d3/d36/a14959.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
+    [ "_marked", "d3/d36/a14959.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
 ];

@@ -1,16 +1,12 @@
 var a07851 =
 [
-    [ "DisableMap", "d4/d0d/a07851.html#adf2cad99fa4b2b3ddbff05931928c1c5", null ],
-    [ "DisableTypeMap", "d4/d0d/a07851.html#a70c68e93cdd77f5e54bae1b96c66da13", null ],
-    [ "DisableMgr", "d4/d0d/a07851.html#afadb62b96ab43f983f8a8c3077cbe205", null ],
-    [ "~DisableMgr", "d4/d0d/a07851.html#ae1483ae3fdeeb98cceb29905f7181b1a", null ],
-    [ "AddDisable", "d4/d0d/a07851.html#a343955ca73dabce8e7b81bf2803992fc", null ],
-    [ "CheckQuestDisables", "d4/d0d/a07851.html#a2f9fa5dadf6f2da5f01651d37d996377", null ],
-    [ "HandleDisableType", "d4/d0d/a07851.html#a203bb85bc7ecb9be3cf09b5d093b90fa", null ],
-    [ "instance", "d4/d0d/a07851.html#ac3787801d677b0ed6592476d648743db", null ],
-    [ "IsDisabledFor", "d4/d0d/a07851.html#accac4f17d8411544e22ba2231b04f36f", null ],
-    [ "IsPathfindingEnabled", "d4/d0d/a07851.html#a8dce4846886ded6ec2b882820abdc517", null ],
-    [ "IsVMAPDisabledFor", "d4/d0d/a07851.html#a38b182e1836b2197303b2809006f5148", null ],
-    [ "LoadDisables", "d4/d0d/a07851.html#adb464165caf6cd436499fa84969eeaf8", null ],
-    [ "m_DisableMap", "d4/d0d/a07851.html#a7a299346248eb6dc692f9e56ae9efffd", null ]
+    [ "HyperlinkInfo", "d4/d0d/a07851.html#aa61aad1a1e2cf1a699ff67ee25cc474b", null ],
+    [ "HyperlinkInfo", "d4/d0d/a07851.html#ac08518b3afb878fc7979807d764b7872", null ],
+    [ "operator bool", "d4/d0d/a07851.html#a834ac95bb310f6653208026e203e065f", null ],
+    [ "color", "d4/d0d/a07851.html#a38c0121d4001ad938d9bc53ca08217db", null ],
+    [ "data", "d4/d0d/a07851.html#a7d7d839de8eb48a25e2b687b69a092ea", null ],
+    [ "ok", "d4/d0d/a07851.html#a54c7a812f79593258002d367110b2403", null ],
+    [ "tag", "d4/d0d/a07851.html#a2171d081c4eb0a23d00e637dfa64bcfc", null ],
+    [ "tail", "d4/d0d/a07851.html#a065d1a0942abbe5739f44126d5c3ce00", null ],
+    [ "text", "d4/d0d/a07851.html#a2b914c9bdc41771b8cb058468bfa23db", null ]
 ];

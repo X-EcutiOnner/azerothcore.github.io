@@ -1,7 +1,7 @@
 var a13311 =
 [
-    [ "HandleSchoolDamage", "d7/d88/a13311.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
-    [ "PrepareSpellScript", "d7/d88/a13311.html#a8063f3d669e07dc0768607feb9a2f763", null ],
-    [ "Register", "d7/d88/a13311.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
-    [ "Validate", "d7/d88/a13311.html#af90ae09274b0082bd8bd674ca43596f6", null ]
+    [ "npc_apothecary_genericAI", "d7/d88/a13311.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "d7/d88/a13311.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "d7/d88/a13311.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "d7/d88/a13311.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

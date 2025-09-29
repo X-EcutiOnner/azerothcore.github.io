@@ -1,6 +1,6 @@
 var a20587 =
 [
-    [ "boss_thorim_start_npcsAI", "d8/d2f/a20591.html", "d8/d2f/a20591" ],
-    [ "boss_thorim_start_npcs", "dd/dd9/a20587.html#a3aa11a487ae00b2e397fd25ed2e42702", null ],
-    [ "GetAI", "dd/dd9/a20587.html#a6c529b19d071b4966ccc74b44279cb08", null ]
+    [ "HandleInstaKill", "dd/dd9/a20587.html#a593786eb89bf77e05dad4b502ffc1925", null ],
+    [ "PrepareSpellScript", "dd/dd9/a20587.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
+    [ "Register", "dd/dd9/a20587.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
 ];

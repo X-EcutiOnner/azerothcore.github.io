@@ -1,7 +1,7 @@
 var a18187 =
 [
-    [ "OnRemove", "d5/dba/a18187.html#ac1a58d605156c03d05eb99605287e762", null ],
-    [ "PrepareAuraScript", "d5/dba/a18187.html#a2db820022631647e942b5ec84e63717e", null ],
-    [ "Register", "d5/dba/a18187.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
-    [ "Validate", "d5/dba/a18187.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
+    [ "HandleScript", "d5/dba/a18187.html#a802f667b20bccd3395c233482aa2485b", null ],
+    [ "PrepareSpellScript", "d5/dba/a18187.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
+    [ "Register", "d5/dba/a18187.html#a730fded490df68f501010f952ceea40b", null ],
+    [ "Validate", "d5/dba/a18187.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
 ];

@@ -1,8 +1,9 @@
 var a19947 =
 [
-    [ "HandleOnEffectApply", "dd/d34/a19947.html#a83ff54727e886161c5568a60833932d1", null ],
-    [ "HandleOnEffectRemove", "dd/d34/a19947.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
-    [ "PrepareAuraScript", "dd/d34/a19947.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
-    [ "Register", "dd/d34/a19947.html#ae07af138c6f9c565799574b4f8343492", null ],
-    [ "Validate", "dd/d34/a19947.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
+    [ "CheckTargets", "dd/d34/a19947.html#a9340c167ef70508635092e273c23dcde", null ],
+    [ "CountTargets", "dd/d34/a19947.html#a996db37b678143fbc0a392032d29fff5", null ],
+    [ "Load", "dd/d34/a19947.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
+    [ "PrepareSpellScript", "dd/d34/a19947.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
+    [ "Register", "dd/d34/a19947.html#aed312a4408134589fd02bbcb844fd1b7", null ],
+    [ "_targetCount", "dd/d34/a19947.html#ac780614674e748274081f9f99a5165fe", null ]
 ];

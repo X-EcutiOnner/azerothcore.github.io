@@ -1,6 +1,8 @@
 var a27059 =
 [
-    [ "npc_dream_fogAI", "db/da3/a27063.html", "db/da3/a27063" ],
-    [ "npc_dream_fog", "dc/d08/a27059.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
-    [ "GetAI", "dc/d08/a27059.html#a48c45fec086e3a50462deed44734ba38", null ]
+    [ "CheckProc", "dc/d08/a27059.html#afcda3b112699e108e2db6270836fce1b", null ],
+    [ "OnProc", "dc/d08/a27059.html#ab953f817368120933828d6b3e5e200c0", null ],
+    [ "PrepareAuraScript", "dc/d08/a27059.html#a33381b811abcd52f7a57e0f62fa73e5f", null ],
+    [ "Register", "dc/d08/a27059.html#abfdd5179215432a3e89ea7b498d49867", null ],
+    [ "Validate", "dc/d08/a27059.html#a19e8f1b9aab5ee4e718b304c87303627", null ]
 ];

@@ -1,7 +1,4 @@
 var a11099 =
 [
-    [ "WorldObjectSpellNearbyTargetCheck", "d1/d88/a11099.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
-    [ "operator()", "d1/d88/a11099.html#a731ee07d028a5ee63ecd14321c83664d", null ],
-    [ "_position", "d1/d88/a11099.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
-    [ "_range", "d1/d88/a11099.html#abfec0df490876b2b83dcdee4da75a77f", null ]
+    [ "ServerOpcodeHandler", "de/d4c/a04794.html#ga15d54f5e037e138c90bd0c9bf9628ac9", null ]
 ];

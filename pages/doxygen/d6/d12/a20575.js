@@ -1,10 +1,7 @@
 var a20575 =
 [
-    [ "boss_thorim_sif_blizzardAI", "d6/d12/a20575.html#a99d1c529126452e580ebc7e3e513b367", null ],
-    [ "AttackStart", "d6/d12/a20575.html#a1f05551f323fa410a699497f3875b21f", null ],
-    [ "InitWaypoint", "d6/d12/a20575.html#a1e0a384081750bdf38cc8e0065070ec8", null ],
-    [ "JustEngagedWith", "d6/d12/a20575.html#a9fea5617dccb493c7af435c485462ff3", null ],
-    [ "MoveInLineOfSight", "d6/d12/a20575.html#ab91a2a71ff00e38d2eca50ccc654d9f3", null ],
-    [ "Reset", "d6/d12/a20575.html#a193ba575c4f3f16d850e56f12f190c77", null ],
-    [ "WaypointReached", "d6/d12/a20575.html#a961f90068f25d81f55159763fe2677f8", null ]
+    [ "StoneGripTargetSelector", "d6/d12/a20575.html#a74fc772e2bc0694dee05fe82de4463e2", null ],
+    [ "operator()", "d6/d12/a20575.html#ae40653def55e656f2347029a97605395", null ],
+    [ "_me", "d6/d12/a20575.html#ae5781d6b553491a1e3e8bfde2b965c3a", null ],
+    [ "_victim", "d6/d12/a20575.html#a09c3c6f832c20776f11b72a468a4b0bb", null ]
 ];

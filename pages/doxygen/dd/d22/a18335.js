@@ -1,5 +1,6 @@
 var a18335 =
 [
-    [ "npc_icc_lk_checktargetAI", "dd/d22/a18335.html#a9a5953a9353be61a3fa96eaf7df7c489", null ],
-    [ "CanAIAttack", "dd/d22/a18335.html#a4dfce75e23f1093c3de0ce75b049a20a", null ]
+    [ "npc_sindragosa_trashAI", "dd/dd1/a18339.html", "dd/dd1/a18339" ],
+    [ "npc_sindragosa_trash", "dd/d22/a18335.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
+    [ "GetAI", "dd/d22/a18335.html#ab1de715d98236a853a793d830bc601d7", null ]
 ];

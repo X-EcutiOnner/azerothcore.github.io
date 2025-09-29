@@ -1,6 +1,6 @@
 var a13003 =
 [
-    [ "boss_kirtonos_the_heraldAI", "da/d88/a13007.html", "da/d88/a13007" ],
-    [ "boss_kirtonos_the_herald", "d6/d80/a13003.html#a0e81153a0da7910cda4c9b6d32544318", null ],
-    [ "GetAI", "d6/d80/a13003.html#aa5e0fe2386aae52fd53ff309282db652", null ]
+    [ "boss_kagani_nightstrike", "d6/d80/a13003.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
+    [ "JustEngagedWith", "d6/d80/a13003.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
+    [ "MovementInform", "d6/d80/a13003.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
 ];

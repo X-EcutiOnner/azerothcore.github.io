@@ -1,4 +1,5 @@
 var a03203 =
 [
-    [ "LoginQueryHolder", "d3/d5b/a09622.html", "d3/d5b/a09622" ]
+    [ "message_commandscript", "d4/da0/a11855.html", "d4/da0/a11855" ],
+    [ "AddSC_message_commandscript", "d5/d73/a03203.html#a85760eb92ac87e8dcb18c91d31f09fc0", null ]
 ];

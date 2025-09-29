@@ -1,8 +1,8 @@
 var a22283 =
 [
-    [ "npc_wg_spirit_guideAI", "db/db5/a22287.html", "db/db5/a22287" ],
-    [ "npc_wg_spirit_guide", "d2/de2/a22283.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
-    [ "GetAI", "d2/de2/a22283.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
-    [ "OnGossipHello", "d2/de2/a22283.html#a2d46078cb47f817239685d168f7f2e35", null ],
-    [ "OnGossipSelect", "d2/de2/a22283.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
+    [ "npc_llod_genericAI", "d2/de2/a22283.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "d2/de2/a22283.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "d2/de2/a22283.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "d2/de2/a22283.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "d2/de2/a22283.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

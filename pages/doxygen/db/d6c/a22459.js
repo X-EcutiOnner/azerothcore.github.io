@@ -1,10 +1,8 @@
 var a22459 =
 [
-    [ "OPvPCapturePointHP", "db/d6c/a22459.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
-    [ "ChangeState", "db/d6c/a22459.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
-    [ "FillInitialWorldStates", "db/d6c/a22459.html#aa8d725422951485970d9106450fb6a38", null ],
-    [ "HandlePlayerEnter", "db/d6c/a22459.html#ad9738c621df084d5a3f0070c80403642", null ],
-    [ "HandlePlayerLeave", "db/d6c/a22459.html#a86e849e5387383a6c751e69350ffa07c", null ],
-    [ "SendChangePhase", "db/d6c/a22459.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
-    [ "m_TowerType", "db/d6c/a22459.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
+    [ "npc_vics_flying_machineAI", "db/d6c/a22459.html#a4464e0b1433c4ffb24ae7809b1a0eec5", null ],
+    [ "MovementInform", "db/d6c/a22459.html#ac4bbe0a3cccb6878d050b717b9efb320", null ],
+    [ "PassengerBoarded", "db/d6c/a22459.html#aa67dcbb4b43b047398fec2619ad61829", null ],
+    [ "SpellHit", "db/d6c/a22459.html#aa81229a104e1521d570abec4b6f7bca7", null ],
+    [ "pointId", "db/d6c/a22459.html#aa1412c23f0c3b964262e145c51aea974", null ]
 ];

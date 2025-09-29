@@ -1,7 +1,6 @@
 var a20091 =
 [
-    [ "HandleAfterEffectApply", "d4/d61/a20091.html#a672526de2c71dcae79bacef88f34dc26", null ],
-    [ "PrepareAuraScript", "d4/d61/a20091.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
-    [ "Register", "d4/d61/a20091.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
-    [ "Validate", "d4/d61/a20091.html#ab5833f6218760a7d9829b5d453436302", null ]
+    [ "npc_freya_wardAI", "d1/de3/a20095.html", "d1/de3/a20095" ],
+    [ "npc_freya_ward", "d4/d61/a20091.html#aebaadcc001922c78e8ec43084a827ac9", null ],
+    [ "GetAI", "d4/d61/a20091.html#a90c0e7a0be1717bf1793415b6fcafbed", null ]
 ];

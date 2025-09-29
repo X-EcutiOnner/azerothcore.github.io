@@ -1,9 +1,11 @@
 var a23203 =
 [
-    [ "CalcPeriodic", "d5/db0/a23203.html#a4c5a034d23253b2cf08cb86f12821184", null ],
-    [ "HandleEffectApply", "d5/db0/a23203.html#af60491946062054504b20e16273ed594", null ],
-    [ "HandleEffectRemove", "d5/db0/a23203.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
-    [ "HandlePeriodic", "d5/db0/a23203.html#a5137e24394fa14129c44d92c79eef117", null ],
-    [ "PrepareAuraScript", "d5/db0/a23203.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
-    [ "Register", "d5/db0/a23203.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
+    [ "boss_supremus", "d5/db0/a23203.html#af1f094534b0e2dec70422839a02327cd", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d5/db0/a23203.html#a2654bf5b1d5b6da723d4968219e069a9", null ],
+    [ "FindHatefulStrikeTarget", "d5/db0/a23203.html#af560466902d0d372662020e1a67b627c", null ],
+    [ "JustEngagedWith", "d5/db0/a23203.html#a7d3a5e2c183db7639a7c25f309359ed1", null ],
+    [ "JustSummoned", "d5/db0/a23203.html#a7265a01fa79213ab6d8b82a4c92b7661", null ],
+    [ "Reset", "d5/db0/a23203.html#a0eaa29849a2571417d4826d238d72e25", null ],
+    [ "SchedulePhase", "d5/db0/a23203.html#a87e3943d6c645138853aa97644f9df0e", null ],
+    [ "SummonedCreatureDespawn", "d5/db0/a23203.html#a2ae72bfef577654e676a64eb2e4efa7a", null ]
 ];

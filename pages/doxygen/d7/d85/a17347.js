@@ -1,6 +1,6 @@
 var a17347 =
 [
-    [ "HandleScript", "d7/d85/a17347.html#acd11d50f398857dc2a24bd2d63e52222", null ],
-    [ "PrepareSpellScript", "d7/d85/a17347.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
-    [ "Register", "d7/d85/a17347.html#ad7f12515dc21ab6b19148370fd491629", null ]
+    [ "entry", "d7/d85/a17347.html#af2cf5df64adf9ac1575a8217b103e738", null ],
+    [ "x", "d7/d85/a17347.html#aad21475d521921ea30cc0ae5d260ce69", null ],
+    [ "y", "d7/d85/a17347.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
 ];

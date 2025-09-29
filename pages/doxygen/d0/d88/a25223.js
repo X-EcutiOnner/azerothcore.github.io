@@ -1,11 +1,7 @@
 var a25223 =
 [
-    [ "spell_gen_apply_aura_after_expiration", "d0/d88/a25223.html#a391e5089eb034618c5e3edde26685a00", null ],
-    [ "AfterRemove", "d0/d88/a25223.html#afea2221ceeebf90cf352084d8aacf7c9", null ],
-    [ "PrepareAuraScript", "d0/d88/a25223.html#a494123635eda4c43d92a08c9c8cd5627", null ],
-    [ "Register", "d0/d88/a25223.html#a3189ba65a1d9adf252d9f0dfb70abd16", null ],
-    [ "Validate", "d0/d88/a25223.html#ad405128104d8a6528e8db96281ad0f0b", null ],
-    [ "_aura", "d0/d88/a25223.html#a8a79aef777e1397b031149c54ae9d81d", null ],
-    [ "_effect", "d0/d88/a25223.html#aa276a986ba9b67964ddeec56d6455cf9", null ],
-    [ "_spellId", "d0/d88/a25223.html#a330f1311911ba9f3ebd704c7f9a09246", null ]
+    [ "HandleScript", "d0/d88/a25223.html#a2e323378559d8f11cbdbcb76e86a25ca", null ],
+    [ "PrepareSpellScript", "d0/d88/a25223.html#ad511986b26dccd1be8206f01458c2b40", null ],
+    [ "Register", "d0/d88/a25223.html#aa8ea297d751913def150dc1e29d37664", null ],
+    [ "Validate", "d0/d88/a25223.html#a81222d8ac4f55175d1dc4d7c359cc331", null ]
 ];

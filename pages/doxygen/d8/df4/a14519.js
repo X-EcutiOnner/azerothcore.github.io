@@ -1,7 +1,11 @@
 var a14519 =
 [
-    [ "boss_azuregosAI", "da/de2/a14523.html", "da/de2/a14523" ],
-    [ "boss_azuregos", "d8/df4/a14519.html#a48590db0037870ca5c9425a468e5ea3a", null ],
-    [ "GetAI", "d8/df4/a14519.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
-    [ "OnGossipSelect", "d8/df4/a14519.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
+    [ "o", "d8/df4/a14519.html#af0a1551e7a1ced5413b6096ba15db8b2", null ],
+    [ "rot0", "d8/df4/a14519.html#a1cc2b7787c803a4e126e06ab5b5c0ee6", null ],
+    [ "rot1", "d8/df4/a14519.html#a71696fa3f95eb20d950b6ba2ada153f4", null ],
+    [ "rot2", "d8/df4/a14519.html#ac2e4113330ebc9d9db379fb87eb55c03", null ],
+    [ "rot3", "d8/df4/a14519.html#a3fc28475914b0ed4afe46fd4f4ff66b1", null ],
+    [ "x", "d8/df4/a14519.html#a6e527854cf0959995d6b0133dedc94c9", null ],
+    [ "y", "d8/df4/a14519.html#a7536047696bd4883237369976b503131", null ],
+    [ "z", "d8/df4/a14519.html#a33ba4ca8ce5f406aaa5f571ba7236eb5", null ]
 ];

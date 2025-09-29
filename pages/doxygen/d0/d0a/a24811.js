@@ -1,6 +1,8 @@
 var a24811 =
 [
-    [ "CalculateAmount", "d0/d0a/a24811.html#a9e54ae3e90ee8bf0fab966a497f761b3", null ],
-    [ "PrepareAuraScript", "d0/d0a/a24811.html#a51f9c0f92100c02e1fe7d127fecd902f", null ],
-    [ "Register", "d0/d0a/a24811.html#a5c89e7e53a7f41665ff25d57df8f7afb", null ]
+    [ "HandleDamage", "d0/d0a/a24811.html#a2c5149eb0b6698240c25b63e71af0854", null ],
+    [ "PrepareSpellScript", "d0/d0a/a24811.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
+    [ "Register", "d0/d0a/a24811.html#ad29179d9159700b52b0c21a779cd060b", null ],
+    [ "Suicide", "d0/d0a/a24811.html#a981f8547eae9b317111bf9a7016510ab", null ],
+    [ "Validate", "d0/d0a/a24811.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
 ];

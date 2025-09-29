@@ -1,7 +1,6 @@
 var a21499 =
 [
-    [ "HandleScriptEffect", "d5/d08/a21499.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
-    [ "PrepareSpellScript", "d5/d08/a21499.html#a73b5af95ee4f593337c3803574d190db", null ],
-    [ "Register", "d5/d08/a21499.html#a930de2343532feb50b86304f32269e4c", null ],
-    [ "Validate", "d5/d08/a21499.html#ae9bfedf7e89487217ad927459e259c04", null ]
+    [ "npc_frozen_orb_stalkerAI", "d5/d08/a21499.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
+    [ "JustSummoned", "d5/d08/a21499.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
+    [ "Reset", "d5/d08/a21499.html#a064ccb90afeb9b36d501850482c60bc4", null ]
 ];

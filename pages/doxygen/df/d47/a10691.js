@@ -1,10 +1,7 @@
 var a10691 =
 [
-    [ "Count", "df/d47/a10691.html#a97b56650a40ff3d39c6281d43261f06f", null ],
-    [ "EntryType", "df/d47/a10691.html#a7c4db5da5d5e501172b8581e4e7bb865", null ],
-    [ "ItemID", "df/d47/a10691.html#a1daad03864355f94d90315fea68892d4", null ],
-    [ "Money", "df/d47/a10691.html#a856d32f52e85b2b7329f85b8e04ad0ee", null ],
-    [ "OtherTab", "df/d47/a10691.html#a359c633cc0034dc8ae8b7db69d3dd739", null ],
-    [ "PlayerGUID", "df/d47/a10691.html#a90e01e455d373204617b2747ca95fe04", null ],
-    [ "TimeOffset", "df/d47/a10691.html#a11cf13b65aafbd4dc70399362f4f87fe", null ]
+    [ "GuildSetMemberNote", "df/d47/a10691.html#a4747c3d015cb1b0d0056928fd75e4d18", null ],
+    [ "Read", "df/d47/a10691.html#a3d90b6ce26d55a55bac1d953dd39b049", null ],
+    [ "Note", "df/d47/a10691.html#a33b7b73bd5d26c2a0ac99d6dc0131c41", null ],
+    [ "NoteeName", "df/d47/a10691.html#acf6beb0a5b122a04162e9d2c027203af", null ]
 ];

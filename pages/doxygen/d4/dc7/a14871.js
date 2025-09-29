@@ -1,6 +1,7 @@
 var a14871 =
 [
-    [ "instance_razorfen_kraul_InstanceMapScript", "d3/dca/a14875.html", "d3/dca/a14875" ],
-    [ "instance_razorfen_kraul", "d4/dc7/a14871.html#aedd65b901c8131a7ac21e8576734f76f", null ],
-    [ "GetInstanceScript", "d4/dc7/a14871.html#a78e77010ebb055b9530733ca25533110", null ]
+    [ "hyjalTyrandeAI", "d3/dca/a14875.html", "d3/dca/a14875" ],
+    [ "npc_hyjal_tyrande", "d4/dc7/a14871.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
+    [ "GetAI", "d4/dc7/a14871.html#a2f863e616352a98763eef9a717d73388", null ],
+    [ "OnGossipSelect", "d4/dc7/a14871.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
 ];

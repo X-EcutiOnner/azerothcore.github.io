@@ -1,7 +1,7 @@
 var a26543 =
 [
-    [ "CalculateAmount", "d2/dde/a26543.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
-    [ "Load", "d2/dde/a26543.html#ae2ef0eae77137c120ec61af8698677db", null ],
-    [ "PrepareAuraScript", "d2/dde/a26543.html#acaecc78c031aa436f432fd7145478de4", null ],
-    [ "Register", "d2/dde/a26543.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
+    [ "CheckRequirement", "d2/dde/a26543.html#afc9206b1d92834943c9825dfd97439c9", null ],
+    [ "HandleScriptEffect", "d2/dde/a26543.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
+    [ "PrepareSpellScript", "d2/dde/a26543.html#a0223c05b5832c64b248e82eba770f7fa", null ],
+    [ "Register", "d2/dde/a26543.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
 ];

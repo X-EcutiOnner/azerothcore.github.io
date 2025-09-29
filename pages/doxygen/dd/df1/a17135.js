@@ -1,16 +1,13 @@
 var a17135 =
 [
-    [ "boss_gal_darahAI", "dd/df1/a17135.html#a11f552c8d7ea90003540c052e84d7d30", null ],
-    [ "GetData", "dd/df1/a17135.html#a239f2ad880eef60de017aa5493624e81", null ],
-    [ "InitializeAI", "dd/df1/a17135.html#ad59573249068bd4962b36f1f3dc581c8", null ],
-    [ "JustDied", "dd/df1/a17135.html#ad48d93efb462d7042b858724b8ff2aac", null ],
-    [ "JustEngagedWith", "dd/df1/a17135.html#aabf2d3ef1d00731696d71225c63bb8b5", null ],
-    [ "JustReachedHome", "dd/df1/a17135.html#a66abe46de699aca6e21910e8594caeaf", null ],
-    [ "JustSummoned", "dd/df1/a17135.html#afda5dd71e597245e5c7b272b6817e644", null ],
-    [ "KilledUnit", "dd/df1/a17135.html#ad477c3f60dfc1158856a6765b15efe78", null ],
-    [ "Reset", "dd/df1/a17135.html#a0fba8f1a406dd97a27e92b26c682ec63", null ],
-    [ "ScheduleEvents", "dd/df1/a17135.html#a77f18488503bf47e985c1ac6c8d67b1f", null ],
-    [ "UpdateAI", "dd/df1/a17135.html#a5faa0cbb6eb126508ef6921f3b4ba15f", null ],
-    [ "impaledList", "dd/df1/a17135.html#a53b3c115af0df5381d31fa54f344af80", null ],
-    [ "phaseCounter", "dd/df1/a17135.html#a484acaccbbc400ec271e24ea6fb0c55f", null ]
+    [ "npc_hor_leader_secondAI", "dd/df1/a17135.html#a54a5094dc533755efc249ebc96663b62", null ],
+    [ "DamageTaken", "dd/df1/a17135.html#ae534779315b04b3dde495b13a1cb28e4", null ],
+    [ "DoAction", "dd/df1/a17135.html#a4185259006017e85fade721796851dd0", null ],
+    [ "MovementInform", "dd/df1/a17135.html#afe93165a3e96496b52a2be8de5022164", null ],
+    [ "MoveToNextStopPoint", "dd/df1/a17135.html#a6d9f65386d6f40a5cf96b09ecaf54871", null ],
+    [ "Reset", "dd/df1/a17135.html#ae5d125deab31e6425e94b4523d8251eb", null ],
+    [ "UpdateAI", "dd/df1/a17135.html#ae991e18a6729a1b088c60060802c01c2", null ],
+    [ "currentStopPoint", "dd/df1/a17135.html#ae4bf31530e701f9e0aa4f253452f9881", null ],
+    [ "events", "dd/df1/a17135.html#a3510e246908f4e5b758e05ca06a29e47", null ],
+    [ "pInstance", "dd/df1/a17135.html#a32cebea12e13c87b45dd2a4c6cf495e5", null ]
 ];

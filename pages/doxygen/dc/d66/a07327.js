@@ -1,10 +1,7 @@
 var a07327 =
 [
-    [ "OwnerId", "dc/d66/a07327.html#ae6203d7a867838b279825925841a99df", null ],
-    [ "PrevOwnerId", "dc/d66/a07327.html#a8357cc41fe125545d473c1f14c3ffa05", null ],
-    [ "PrevState", "dc/d66/a07327.html#ab97cde6dcd3c3e91bb94bf39d104bf77", null ],
-    [ "State", "dc/d66/a07327.html#a6e2b1f8c232c27ab24e3ca8bca8f6b03", null ],
-    [ "Timer", "dc/d66/a07327.html#a945afa538fc0dd1a4be11f5b5ac74bcb", null ],
-    [ "TotalOwnerId", "dc/d66/a07327.html#aec31f39eb98a3686ead3b1b99c7abfde", null ],
-    [ "Tower", "dc/d66/a07327.html#a222db96ad937e31986c0c39a5a371dd7", null ]
+    [ "BattlegroundObjectInfo", "dc/d66/a07327.html#a848f2b15f47ceeb91c40e916d5659486", null ],
+    [ "object", "dc/d66/a07327.html#a6722b83d6969c1a34b4846f19865075a", null ],
+    [ "spellid", "dc/d66/a07327.html#ae0233a1078bc735e40855ea7608f5f11", null ],
+    [ "timer", "dc/d66/a07327.html#a7eaf1fbe40f3a7918965da8d5ac81a50", null ]
 ];

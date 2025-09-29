@@ -1,6 +1,6 @@
 var a20779 =
 [
-    [ "boss_yoggsaron_death_orbAI", "de/db1/a20779.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
-    [ "UpdateAI", "de/db1/a20779.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
-    [ "_startTimer", "de/db1/a20779.html#aebc8edef5f84219e1c50f2394d129443", null ]
+    [ "npc_ulduar_dark_rune_watcherAI", "dc/d84/a20783.html", "dc/d84/a20783" ],
+    [ "npc_ulduar_dark_rune_watcher", "de/db1/a20779.html#a0536c61d70d5c6d61496fc1720d37950", null ],
+    [ "GetAI", "de/db1/a20779.html#a6677d6dc0d07b508e921064f3299b302", null ]
 ];

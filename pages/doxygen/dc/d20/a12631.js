@@ -1,11 +1,7 @@
 var a12631 =
 [
-    [ "npc_kilrek", "dc/d20/a12631.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
-    [ "JustDied", "dc/d20/a12631.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
-    [ "JustEngagedWith", "dc/d20/a12631.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
-    [ "Reset", "dc/d20/a12631.html#ae0b375abe5ec909cfaff96c257da0325", null ],
-    [ "UpdateAI", "dc/d20/a12631.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
-    [ "_scheduler", "dc/d20/a12631.html#a93663ee806385f617e81a03062dd94d6", null ],
-    [ "instance", "dc/d20/a12631.html#a13b969fa86ef57f9508117a73252a36b", null ],
-    [ "TerestianGUID", "dc/d20/a12631.html#a411476da379bf687cd007e25ba11280e", null ]
+    [ "HandleScript", "dc/d20/a12631.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
+    [ "PrepareSpellScript", "dc/d20/a12631.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
+    [ "Register", "dc/d20/a12631.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
+    [ "Validate", "dc/d20/a12631.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
 ];

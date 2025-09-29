@@ -1,6 +1,9 @@
 var a16991 =
 [
-    [ "npc_pos_after_first_bossAI", "df/dc4/a16995.html", "df/dc4/a16995" ],
-    [ "npc_pos_after_first_boss", "d4/dae/a16991.html#a76ae57195ceca454928245f2db12f68c", null ],
-    [ "GetAI", "d4/dae/a16991.html#a3f807335f79218ecc70c32f5496267a6", null ]
+    [ "HandlePeriodicTick", "d4/dae/a16991.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
+    [ "Load", "d4/dae/a16991.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
+    [ "PrepareAuraScript", "d4/dae/a16991.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
+    [ "Register", "d4/dae/a16991.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
+    [ "Validate", "d4/dae/a16991.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
+    [ "dir", "d4/dae/a16991.html#a7dd1959596e8ad1628498215249eb7a2", null ]
 ];

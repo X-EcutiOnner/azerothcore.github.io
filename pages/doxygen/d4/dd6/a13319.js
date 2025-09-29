@@ -1,7 +1,8 @@
 var a13319 =
 [
-    [ "HandleScriptEffect", "d4/dd6/a13319.html#ae631c634c77cc207338e3549a664969b", null ],
-    [ "PrepareSpellScript", "d4/dd6/a13319.html#ac9f825f10512be5849c46460e9cdbec8", null ],
-    [ "Register", "d4/dd6/a13319.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
-    [ "Validate", "d4/dd6/a13319.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
+    [ "npc_apothecary_baxter", "d4/dd6/a13319.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
+    [ "JustDied", "d4/dd6/a13319.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
+    [ "Reset", "d4/dd6/a13319.html#afee5103029bd761c48cbf6a11655c44a", null ],
+    [ "UpdateAI", "d4/dd6/a13319.html#ad06090f599d0fda3a88f3182c990a49f", null ],
+    [ "_scheduler", "d4/dd6/a13319.html#a6d813041e055f3c2b28be7cba3acde13", null ]
 ];

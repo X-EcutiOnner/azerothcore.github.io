@@ -1,6 +1,9 @@
 var a10619 =
 [
-    [ "GuildDemoteMember", "d9/dd2/a10619.html#aa3d68021828c516d7b1995811e8df7d7", null ],
-    [ "Read", "d9/dd2/a10619.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
-    [ "Demotee", "d9/dd2/a10619.html#a60c7e56c201d794fb473a62fccc160bb", null ]
+    [ "GuildRoster", "d9/dd2/a10619.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
+    [ "Write", "d9/dd2/a10619.html#a544a539999827d4eb8923cbbcdf42bac", null ],
+    [ "InfoText", "d9/dd2/a10619.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
+    [ "MemberData", "d9/dd2/a10619.html#a964fc72bf3ada77c171fd1f691449241", null ],
+    [ "RankData", "d9/dd2/a10619.html#a67b0a12fae93c5807030c1062f328abb", null ],
+    [ "WelcomeText", "d9/dd2/a10619.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
 ];

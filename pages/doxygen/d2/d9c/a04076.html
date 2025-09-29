@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/PetScript.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/database/Database/DatabaseWorkerPool.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,78 +106,59 @@ $(document).ready(function(){initNavTree('d2/d9c/a04076.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">PetScript.h File Reference</div></div>
+<a href="#define-members">Macros</a>  </div>
+  <div class="headertitle"><div class="title">DatabaseWorkerPool.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">DatabaseEnvFwd.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">StringFormat.h</a>&quot;</code><br />
+<code>#include &lt;array&gt;</code><br />
 <code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d7c/a10406.html">PetScript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/df5/a05735.html">DatabaseWorkerPool&lt; T &gt;</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a2e6398af59b176e045eece50b1a5d404"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404">PetHook</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404a1aa219c404710f806516a47fb4a2c421">PETHOOK_ON_INIT_STATS_FOR_LEVEL</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404af4173fac4396520c8d5f664cb15cd09a">PETHOOK_ON_CALCULATE_MAX_TALENT_POINTS_FOR_LEVEL</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404a73a664bf8c79a8347a66639e7f4585ed">PETHOOK_CAN_UNLEARN_SPELL_SET</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404afd7165a69bf431cabc9b485460fde1ce">PETHOOK_CAN_UNLEARN_SPELL_DEFAULT</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404a7c81bb255968b85119ef74e3124abe11">PETHOOK_CAN_RESET_TALENTS</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404a34b989d3a1e33e5ab31d98bf4a36ee56">PETHOOK_ON_PET_ADD_TO_WORLD</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404aa71e862274b6066ffe8af41bccdac911">PETHOOK_END</a>
-<br />
- }</td></tr>
-<tr class="separator:a2e6398af59b176e045eece50b1a5d404"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:abfde8cf59610848eff4ea61d09bb8ca7"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9c/a04076.html#abfde8cf59610848eff4ea61d09bb8ca7">MIN_MYSQL_CLIENT_VERSION</a>&#160;&#160;&#160;80000u</td></tr>
+<tr class="separator:abfde8cf59610848eff4ea61d09bb8ca7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acd4a83e86313ca0bb35cb66497bc79b2"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d9c/a04076.html#acd4a83e86313ca0bb35cb66497bc79b2">MIN_MYSQL_SERVER_VERSION</a>&#160;&#160;&#160;&quot;8.0.0&quot;</td></tr>
+<tr class="separator:acd4a83e86313ca0bb35cb66497bc79b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a2e6398af59b176e045eece50b1a5d404" name="a2e6398af59b176e045eece50b1a5d404"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2e6398af59b176e045eece50b1a5d404">&#9670;&#160;</a></span>PetHook</h2>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="abfde8cf59610848eff4ea61d09bb8ca7" name="abfde8cf59610848eff4ea61d09bb8ca7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abfde8cf59610848eff4ea61d09bb8ca7">&#9670;&#160;</a></span>MIN_MYSQL_CLIENT_VERSION</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404">PetHook</a></td>
+          <td class="memname">#define MIN_MYSQL_CLIENT_VERSION&#160;&#160;&#160;80000u</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a2e6398af59b176e045eece50b1a5d404a1aa219c404710f806516a47fb4a2c421" name="a2e6398af59b176e045eece50b1a5d404a1aa219c404710f806516a47fb4a2c421"></a>PETHOOK_ON_INIT_STATS_FOR_LEVEL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2e6398af59b176e045eece50b1a5d404af4173fac4396520c8d5f664cb15cd09a" name="a2e6398af59b176e045eece50b1a5d404af4173fac4396520c8d5f664cb15cd09a"></a>PETHOOK_ON_CALCULATE_MAX_TALENT_POINTS_FOR_LEVEL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2e6398af59b176e045eece50b1a5d404a73a664bf8c79a8347a66639e7f4585ed" name="a2e6398af59b176e045eece50b1a5d404a73a664bf8c79a8347a66639e7f4585ed"></a>PETHOOK_CAN_UNLEARN_SPELL_SET&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2e6398af59b176e045eece50b1a5d404afd7165a69bf431cabc9b485460fde1ce" name="a2e6398af59b176e045eece50b1a5d404afd7165a69bf431cabc9b485460fde1ce"></a>PETHOOK_CAN_UNLEARN_SPELL_DEFAULT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2e6398af59b176e045eece50b1a5d404a7c81bb255968b85119ef74e3124abe11" name="a2e6398af59b176e045eece50b1a5d404a7c81bb255968b85119ef74e3124abe11"></a>PETHOOK_CAN_RESET_TALENTS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2e6398af59b176e045eece50b1a5d404a34b989d3a1e33e5ab31d98bf4a36ee56" name="a2e6398af59b176e045eece50b1a5d404a34b989d3a1e33e5ab31d98bf4a36ee56"></a>PETHOOK_ON_PET_ADD_TO_WORLD&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a2e6398af59b176e045eece50b1a5d404aa71e862274b6066ffe8af41bccdac911" name="a2e6398af59b176e045eece50b1a5d404aa71e862274b6066ffe8af41bccdac911"></a>PETHOOK_END&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
-<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404a1aa219c404710f806516a47fb4a2c421">PETHOOK_ON_INIT_STATS_FOR_LEVEL</a>,</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404af4173fac4396520c8d5f664cb15cd09a">PETHOOK_ON_CALCULATE_MAX_TALENT_POINTS_FOR_LEVEL</a>,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404a73a664bf8c79a8347a66639e7f4585ed">PETHOOK_CAN_UNLEARN_SPELL_SET</a>,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404afd7165a69bf431cabc9b485460fde1ce">PETHOOK_CAN_UNLEARN_SPELL_DEFAULT</a>,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404a7c81bb255968b85119ef74e3124abe11">PETHOOK_CAN_RESET_TALENTS</a>,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404a34b989d3a1e33e5ab31d98bf4a36ee56">PETHOOK_ON_PET_ADD_TO_WORLD</a>,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404aa71e862274b6066ffe8af41bccdac911">PETHOOK_END</a></div>
-<div class="line"><span class="lineno">   33</span>};</div>
-<div class="ttc" id="aa04076_html_a2e6398af59b176e045eece50b1a5d404a1aa219c404710f806516a47fb4a2c421"><div class="ttname"><a href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404a1aa219c404710f806516a47fb4a2c421">PETHOOK_ON_INIT_STATS_FOR_LEVEL</a></div><div class="ttdeci">@ PETHOOK_ON_INIT_STATS_FOR_LEVEL</div><div class="ttdef"><b>Definition:</b> PetScript.h:26</div></div>
-<div class="ttc" id="aa04076_html_a2e6398af59b176e045eece50b1a5d404a34b989d3a1e33e5ab31d98bf4a36ee56"><div class="ttname"><a href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404a34b989d3a1e33e5ab31d98bf4a36ee56">PETHOOK_ON_PET_ADD_TO_WORLD</a></div><div class="ttdeci">@ PETHOOK_ON_PET_ADD_TO_WORLD</div><div class="ttdef"><b>Definition:</b> PetScript.h:31</div></div>
-<div class="ttc" id="aa04076_html_a2e6398af59b176e045eece50b1a5d404a73a664bf8c79a8347a66639e7f4585ed"><div class="ttname"><a href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404a73a664bf8c79a8347a66639e7f4585ed">PETHOOK_CAN_UNLEARN_SPELL_SET</a></div><div class="ttdeci">@ PETHOOK_CAN_UNLEARN_SPELL_SET</div><div class="ttdef"><b>Definition:</b> PetScript.h:28</div></div>
-<div class="ttc" id="aa04076_html_a2e6398af59b176e045eece50b1a5d404a7c81bb255968b85119ef74e3124abe11"><div class="ttname"><a href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404a7c81bb255968b85119ef74e3124abe11">PETHOOK_CAN_RESET_TALENTS</a></div><div class="ttdeci">@ PETHOOK_CAN_RESET_TALENTS</div><div class="ttdef"><b>Definition:</b> PetScript.h:30</div></div>
-<div class="ttc" id="aa04076_html_a2e6398af59b176e045eece50b1a5d404aa71e862274b6066ffe8af41bccdac911"><div class="ttname"><a href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404aa71e862274b6066ffe8af41bccdac911">PETHOOK_END</a></div><div class="ttdeci">@ PETHOOK_END</div><div class="ttdef"><b>Definition:</b> PetScript.h:32</div></div>
-<div class="ttc" id="aa04076_html_a2e6398af59b176e045eece50b1a5d404af4173fac4396520c8d5f664cb15cd09a"><div class="ttname"><a href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404af4173fac4396520c8d5f664cb15cd09a">PETHOOK_ON_CALCULATE_MAX_TALENT_POINTS_FOR_LEVEL</a></div><div class="ttdeci">@ PETHOOK_ON_CALCULATE_MAX_TALENT_POINTS_FOR_LEVEL</div><div class="ttdef"><b>Definition:</b> PetScript.h:27</div></div>
-<div class="ttc" id="aa04076_html_a2e6398af59b176e045eece50b1a5d404afd7165a69bf431cabc9b485460fde1ce"><div class="ttname"><a href="../../d2/d9c/a04076.html#a2e6398af59b176e045eece50b1a5d404afd7165a69bf431cabc9b485460fde1ce">PETHOOK_CAN_UNLEARN_SPELL_DEFAULT</a></div><div class="ttdeci">@ PETHOOK_CAN_UNLEARN_SPELL_DEFAULT</div><div class="ttdef"><b>Definition:</b> PetScript.h:29</div></div>
-</div><!-- fragment -->
+<p >The minimum <a class="el" href="../../d4/d9a/a04829.html">MySQL</a> Client Version </p>
+
+</div>
+</div>
+<a id="acd4a83e86313ca0bb35cb66497bc79b2" name="acd4a83e86313ca0bb35cb66497bc79b2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acd4a83e86313ca0bb35cb66497bc79b2">&#9670;&#160;</a></span>MIN_MYSQL_SERVER_VERSION</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MIN_MYSQL_SERVER_VERSION&#160;&#160;&#160;&quot;8.0.0&quot;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p >The minimum <a class="el" href="../../d4/d9a/a04829.html">MySQL</a> Server Version </p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -185,8 +166,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../d2/d9c/a04076.html">PetScript.h</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:44:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_3906e801b468713a6f5b1f193c7ea10d.html">database</a></li><li class="navelem"><a class="el" href="../../dir_4135abd5956581eb408665f16b5c495d.html">Database</a></li><li class="navelem"><a class="el" href="../../d2/d9c/a04076.html">DatabaseWorkerPool.h</a></li>
+    <li class="footer">Generated on Mon Sep 29 2025 20:45:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

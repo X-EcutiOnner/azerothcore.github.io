@@ -1,6 +1,6 @@
 var a25991 =
 [
-    [ "HandleDummy", "d8/dda/a25991.html#acb433ef020fbd090259ac969a35842ea", null ],
-    [ "PrepareSpellScript", "d8/dda/a25991.html#a9440e067db7bc5c48c973dfd61f1a95e", null ],
-    [ "Register", "d8/dda/a25991.html#a349e674aa5e07f59dc0a0d78a25aa0cd", null ]
+    [ "CalculateAmount", "d8/dda/a25991.html#a6faee23ed5947a904e58bfb38cf01d05", null ],
+    [ "PrepareAuraScript", "d8/dda/a25991.html#a5e7d089dd117b6b3a605ea2e8aea0b04", null ],
+    [ "Register", "d8/dda/a25991.html#a37e277143b2ae6cd88260776941b59bf", null ]
 ];

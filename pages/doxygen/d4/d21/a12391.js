@@ -1,8 +1,7 @@
 var a12391 =
 [
-    [ "MajordomoAddData", "d4/d21/a12391.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
-    [ "MajordomoAddData", "d4/d21/a12391.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
-    [ "creatureEntry", "d4/d21/a12391.html#ae3a0444e88158123f4d6359328e89a1d", null ],
-    [ "guid", "d4/d21/a12391.html#a2f2b0aaace557361a21d1072f36933dc", null ],
-    [ "spawnPos", "d4/d21/a12391.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
+    [ "HandleScript", "d4/d21/a12391.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
+    [ "PrepareSpellScript", "d4/d21/a12391.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
+    [ "Register", "d4/d21/a12391.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
+    [ "Validate", "d4/d21/a12391.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
 ];

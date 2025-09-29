@@ -1,7 +1,6 @@
 var a24019 =
 [
-    [ "npc_kurenai_captiveAI", "d5/d1b/a24023.html", "d5/d1b/a24023" ],
-    [ "npc_kurenai_captive", "de/dd8/a24019.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
-    [ "GetAI", "de/dd8/a24019.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
-    [ "OnQuestAccept", "de/dd8/a24019.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
+    [ "HandleCast", "de/dd8/a24019.html#a912dc3b17ab7d0818089c32610d82a16", null ],
+    [ "PrepareSpellScript", "de/dd8/a24019.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
+    [ "Register", "de/dd8/a24019.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
 ];

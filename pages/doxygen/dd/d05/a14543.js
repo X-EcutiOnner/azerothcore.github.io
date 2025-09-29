@@ -1,9 +1,9 @@
 var a14543 =
 [
-    [ "npc_ancient_wisp", "dd/d05/a14543.html#a70e45e500b3490a034b058ca2ec16d39", null ],
-    [ "DamageTaken", "dd/d05/a14543.html#ad7d96e6b54cdc23a5101338474125e71", null ],
-    [ "JustEngagedWith", "dd/d05/a14543.html#a755ed852b3149ada65c5750410776fc8", null ],
-    [ "Reset", "dd/d05/a14543.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
-    [ "UpdateAI", "dd/d05/a14543.html#a51ca214de826d7126f32e49f6852bca3", null ],
-    [ "_instance", "dd/d05/a14543.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
+    [ "spell_hallows_end_put_costume", "dd/d05/a14543.html#ac1fcd0a32142744f353cdc01bce740e3", null ],
+    [ "HandleScript", "dd/d05/a14543.html#ac4be92e73c08c06c1c9954547bfe8013", null ],
+    [ "PrepareSpellScript", "dd/d05/a14543.html#ac0e4692be1527f052a23ed52af32d042", null ],
+    [ "Register", "dd/d05/a14543.html#ac38299892d02c497e3bbae3c73a095ab", null ],
+    [ "_femaleSpell", "dd/d05/a14543.html#a5ccb30abd83ed1d0be104bffc91deca2", null ],
+    [ "_maleSpell", "dd/d05/a14543.html#af9b285133389942bea6738e518d34e48", null ]
 ];

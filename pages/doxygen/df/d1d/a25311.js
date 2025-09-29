@@ -1,6 +1,6 @@
 var a25311 =
 [
-    [ "PrepareAuraScript", "df/d1d/a25311.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
-    [ "Register", "df/d1d/a25311.html#abb54f08b1932e3638537656360d3aad8", null ],
-    [ "AuraEffectHandleModes", "df/d1d/a25311.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
+    [ "CheckRequirement", "df/d1d/a25311.html#a8a1367ad6c51a74e7cefbc2440eab697", null ],
+    [ "PrepareSpellScript", "df/d1d/a25311.html#a859ac50e6774471c232113e5c007f602", null ],
+    [ "Register", "df/d1d/a25311.html#aceafb7d6cfa300011935026f4d7ac491", null ]
 ];

@@ -1,6 +1,7 @@
 var a27479 =
 [
-    [ "npc_target_dummyAI", "d9/df4/a27483.html", "d9/df4/a27483" ],
-    [ "npc_target_dummy", "d1/d94/a27479.html#a04847f9893a40c0f1c1879f448cc228d", null ],
-    [ "GetAI", "d1/d94/a27479.html#a1aff9199c160e20f9e92ee9f90178d63", null ]
+    [ "go_bear_trapAI", "d1/d94/a27479.html#ad97484d73bcea6a84909004c099eec34", null ],
+    [ "Initialize", "d1/d94/a27479.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
+    [ "UpdateAI", "d1/d94/a27479.html#a8901922d736bb0391da5618593ced5c5", null ],
+    [ "_events", "d1/d94/a27479.html#a59f37a130326818dd922763ae9058fe7", null ]
 ];

@@ -1,10 +1,6 @@
 var a23467 =
 [
-    [ "boss_kelidan_the_breaker", "d8/d59/a23467.html#a6774e4a0315b30266f6c55da608cd193", null ],
-    [ "ApplyImmunities", "d8/d59/a23467.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
-    [ "DoAction", "d8/d59/a23467.html#a3fa0117ce1079f651025116684f5e2f4", null ],
-    [ "JustDied", "d8/d59/a23467.html#a4d3f0171b7889a96f19999b28e549866", null ],
-    [ "JustEngagedWith", "d8/d59/a23467.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
-    [ "KilledUnit", "d8/d59/a23467.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
-    [ "Reset", "d8/d59/a23467.html#a46c592f6c46ea568ad368702e1640e06", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "d2/d2a/a23471.html", "d2/d2a/a23471" ],
+    [ "instance_serpent_shrine", "d8/d59/a23467.html#aac4fc7113307805138ba4ce4a9adff09", null ],
+    [ "GetInstanceScript", "d8/d59/a23467.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
 ];

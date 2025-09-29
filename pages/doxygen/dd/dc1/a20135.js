@@ -1,8 +1,8 @@
 var a20135 =
 [
-    [ "npc_ulduar_flash_freezeAI", "dd/dc1/a20135.html#a478e7bc76a7b7ffeb25a0df731cb5ed8", null ],
-    [ "DamageTaken", "dd/dc1/a20135.html#af0c18460b4cc331f51c44a3306f516b8", null ],
-    [ "UpdateAI", "dd/dc1/a20135.html#ab2efa0a8d06297bff05502c40079efe9", null ],
-    [ "pInstance", "dd/dc1/a20135.html#a28be7874fee6dcaea6f205cb75f1450f", null ],
-    [ "timer", "dd/dc1/a20135.html#a590117afe9e9943d8dc8a44af9386066", null ]
+    [ "npc_brann_radioAI", "dd/dc1/a20135.html#a329ca0310efe109f7fb364045f6eccbb", null ],
+    [ "MoveInLineOfSight", "dd/dc1/a20135.html#ad119431edd6f632b4c44fc4e8708d375", null ],
+    [ "Reset", "dd/dc1/a20135.html#a89183942dcb38f48de1867bfbce15721", null ],
+    [ "_helpLock", "dd/dc1/a20135.html#ae927b6c8143cfb029ab6574d10dde60e", null ],
+    [ "_lock", "dd/dc1/a20135.html#a421cfd2b8b149a0f3ea5bc2262ba6bac", null ]
 ];

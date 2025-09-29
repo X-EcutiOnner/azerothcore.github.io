@@ -1,6 +1,6 @@
 var a18151 =
 [
-    [ "npc_tirion_fordringAI", "d7/d60/a18155.html", "d7/d60/a18155" ],
-    [ "npc_tirion_fordring_tft", "d6/dcd/a18151.html#a04036d958e7ac643c9ba8d9073bca404", null ],
-    [ "GetAI", "d6/dcd/a18151.html#a41dcfa415831091531cbf46e946f442d", null ]
+    [ "boss_rotfaceAI", "d7/d60/a18155.html", "d7/d60/a18155" ],
+    [ "boss_rotface", "d6/dcd/a18151.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "d6/dcd/a18151.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

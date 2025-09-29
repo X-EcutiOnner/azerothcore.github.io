@@ -1,12 +1,16 @@
 var a19727 =
 [
-    [ "npc_assembly_lightningAI", "d6/db6/a19727.html#a4b778b6545e7c93e66a07160db793651", null ],
-    [ "AttackStart", "d6/db6/a19727.html#afd4657e8c6a2eb39346e99cb54a7ab1a", null ],
-    [ "EnterEvadeMode", "d6/db6/a19727.html#a4c0bb838053412a3945648ed1a5a13b9", null ],
-    [ "MoveInLineOfSight", "d6/db6/a19727.html#a077f788e67cdb67683ac13f3a3d1322b", null ],
-    [ "MovementInform", "d6/db6/a19727.html#a95227f93c5ac6871bfcea603ebb2188d", null ],
-    [ "OnCharmed", "d6/db6/a19727.html#aa08e4c286723c76251bd75aa54b24f5f", null ],
-    [ "Reset", "d6/db6/a19727.html#a1f03885bfd91d9b9cdde1d90b51d2c96", null ],
-    [ "UpdateAI", "d6/db6/a19727.html#a94edd1ea5278bd5ca8d5d64619e9c8b4", null ],
-    [ "_boomed", "d6/db6/a19727.html#aa6b4a46674a7d4106a49ef308ec27b9e", null ]
+    [ "boss_lokenAI", "d6/db6/a19727.html#abdadd98c337f97f6a1daf1657f2f3ab2", null ],
+    [ "JustDied", "d6/db6/a19727.html#a2ab2adb8c9fb2048e2c3c341d8c2ff37", null ],
+    [ "JustEngagedWith", "d6/db6/a19727.html#afd9634d8665b946991ccd777072cf70a", null ],
+    [ "KilledUnit", "d6/db6/a19727.html#af6f6ebfffa9e2719c3a18bd53d704018", null ],
+    [ "LokenSpeach", "d6/db6/a19727.html#a853a371812a856f39137c665fcc09b86", null ],
+    [ "MoveInLineOfSight", "d6/db6/a19727.html#a0855580a471661925fdf272dedb418fd", null ],
+    [ "Reset", "d6/db6/a19727.html#a51c7ca1ce5a0b4837d2fbc033c06a864", null ],
+    [ "UpdateAI", "d6/db6/a19727.html#acc5b453efca847a6cada43606b8a08ed", null ],
+    [ "events", "d6/db6/a19727.html#ac3b98aeba2741ee49d262b33d30f8b2a", null ],
+    [ "HealthCheck", "d6/db6/a19727.html#ad9f9e369ce64bab66f29899659440b62", null ],
+    [ "IntroTimer", "d6/db6/a19727.html#ae92b9ff0abd8580baf7a2fca56e0df23", null ],
+    [ "isActive", "d6/db6/a19727.html#a8f20ce4cddf7eae09ddc659b9bf75919", null ],
+    [ "m_pInstance", "d6/db6/a19727.html#aba89a46dae1d4d195c8be10d89fb72ab", null ]
 ];

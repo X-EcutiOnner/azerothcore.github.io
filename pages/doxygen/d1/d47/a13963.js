@@ -1,9 +1,7 @@
 var a13963 =
 [
-    [ "npc_healing_ward", "d1/d47/a13963.html#a3d3c35f61502d3a83cb2581119e08903", null ],
-    [ "JustEngagedWith", "d1/d47/a13963.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
-    [ "Reset", "d1/d47/a13963.html#a756d27a43d86c7ecde859df255c6bd62", null ],
-    [ "UpdateAI", "d1/d47/a13963.html#a8b8635af33ce814602206064e0815520", null ],
-    [ "_instance", "d1/d47/a13963.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
-    [ "_scheduler", "d1/d47/a13963.html#a0c62fe945b491cab76175217a7d10c06", null ]
+    [ "npc_daphne_stilwellAI", "da/df6/a13967.html", "da/df6/a13967" ],
+    [ "npc_daphne_stilwell", "d1/d47/a13963.html#ad844c5f0409936d7068ee55271506041", null ],
+    [ "GetAI", "d1/d47/a13963.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
+    [ "OnQuestAccept", "d1/d47/a13963.html#ad7b293efc802506a825f202e34cb0f4d", null ]
 ];

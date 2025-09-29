@@ -1,8 +1,9 @@
 var a12439 =
 [
-    [ "FilterTargets", "d8/db4/a12439.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
-    [ "HandleScript", "d8/db4/a12439.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
-    [ "PrepareSpellScript", "d8/db4/a12439.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
-    [ "Register", "d8/db4/a12439.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
-    [ "Validate", "d8/db4/a12439.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
+    [ "npc_drakonid_spawner", "d8/db4/a12439.html#a2b657e800dc5cc30c618391413ded116", null ],
+    [ "DoAction", "d8/db4/a12439.html#ab013cff0430c09fe1045fdc735e45182", null ],
+    [ "IsSummonedBy", "d8/db4/a12439.html#a6a2170e0f20736d69006ce6d6c769476", null ],
+    [ "SummonedCreatureDies", "d8/db4/a12439.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
+    [ "UpdateAI", "d8/db4/a12439.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
+    [ "_owner", "d8/db4/a12439.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
 ];

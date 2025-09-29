@@ -1,6 +1,5 @@
 var a15675 =
 [
-    [ "creatureID", "d1/d2c/a15675.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
-    [ "pos", "d1/d2c/a15675.html#a9705a858cc2c3867e104514d3a0a1866", null ],
-    [ "waveID", "d1/d2c/a15675.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
+    [ "at_ancient_leaf", "d1/d2c/a15675.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
+    [ "OnTrigger", "d1/d2c/a15675.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
 ];

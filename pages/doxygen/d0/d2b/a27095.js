@@ -1,10 +1,8 @@
 var a27095 =
 [
-    [ "boss_emerissAI", "d0/d2b/a27095.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
-    [ "DamageTaken", "d0/d2b/a27095.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
-    [ "ExecuteEvent", "d0/d2b/a27095.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
-    [ "JustEngagedWith", "d0/d2b/a27095.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
-    [ "KilledUnit", "d0/d2b/a27095.html#ad851169bc09a362137e211dd10d30a1b", null ],
-    [ "Reset", "d0/d2b/a27095.html#a44dfb325c4e8413662052137edc710ef", null ],
-    [ "_stage", "d0/d2b/a27095.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
+    [ "ApplyEffect", "d0/d2b/a27095.html#a0c303c58064236969e17d1f2df3e0556", null ],
+    [ "PrepareAuraScript", "d0/d2b/a27095.html#a716a483282946f840ac15d73c6e21a94", null ],
+    [ "Register", "d0/d2b/a27095.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
+    [ "RemoveEffect", "d0/d2b/a27095.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
+    [ "Validate", "d0/d2b/a27095.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
 ];

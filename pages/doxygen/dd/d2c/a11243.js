@@ -1,10 +1,12 @@
 var a11243 =
 [
-    [ "TargetHook", "dd/d2c/a11243.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
-    [ "CheckEffect", "dd/d2c/a11243.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
-    [ "GetTarget", "dd/d2c/a11243.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
-    [ "ToString", "dd/d2c/a11243.html#a424e03e457dc15a2689f344e614a882f", null ],
-    [ "area", "dd/d2c/a11243.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
-    [ "dest", "dd/d2c/a11243.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
-    [ "targetType", "dd/d2c/a11243.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
+    [ "SpellDestination", "dd/d2c/a11243.html#aa91f31101de3139b2e2d2976dac94686", null ],
+    [ "SpellDestination", "dd/d2c/a11243.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
+    [ "SpellDestination", "dd/d2c/a11243.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
+    [ "SpellDestination", "dd/d2c/a11243.html#a7b8949fa80249aee8bebc56620ec746c", null ],
+    [ "Relocate", "dd/d2c/a11243.html#ab565861d5013130639013e3c4d22d712", null ],
+    [ "RelocateOffset", "dd/d2c/a11243.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
+    [ "_position", "dd/d2c/a11243.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
+    [ "_transportGUID", "dd/d2c/a11243.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
+    [ "_transportOffset", "dd/d2c/a11243.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
 ];

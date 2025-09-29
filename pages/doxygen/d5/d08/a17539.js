@@ -1,6 +1,6 @@
 var a17539 =
 [
-    [ "npc_gunship_boarding_add_realAI", "d5/d08/a17539.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
-    [ "UpdateAI", "d5/d08/a17539.html#a33ac355c8f61907574a0736a24cbee82", null ],
-    [ "_events", "d5/d08/a17539.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
+    [ "ChangeSummonPos", "d5/d08/a17539.html#a2c3d69419762c7f78688a22017a8c535", null ],
+    [ "PrepareSpellScript", "d5/d08/a17539.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
+    [ "Register", "d5/d08/a17539.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
 ];

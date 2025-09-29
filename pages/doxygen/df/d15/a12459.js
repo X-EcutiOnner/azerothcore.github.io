@@ -1,6 +1,7 @@
 var a12459 =
 [
-    [ "bossId", "df/d15/a12459.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
-    [ "circleId", "df/d15/a12459.html#aaa379e61fda2f7225ab4089757df5d24", null ],
-    [ "runeId", "df/d15/a12459.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
+    [ "HandleDummy", "df/d15/a12459.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
+    [ "PrepareSpellScript", "df/d15/a12459.html#a6ec124990f202af0c6063c285bf04d88", null ],
+    [ "Register", "df/d15/a12459.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
+    [ "Validate", "df/d15/a12459.html#ae35efa08f507aac5b72166a216d01870", null ]
 ];

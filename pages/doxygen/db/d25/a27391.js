@@ -1,7 +1,6 @@
 var a27391 =
 [
-    [ "npc_engineering_tele_trinket", "db/d25/a27391.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
-    [ "CanLearn", "db/d25/a27391.html#a8a35f1c09a9df609561e76f4ed578647", null ],
-    [ "OnGossipHello", "db/d25/a27391.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
-    [ "OnGossipSelect", "db/d25/a27391.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
+    [ "boss_taerarAI", "d4/d81/a27395.html", "d4/d81/a27395" ],
+    [ "boss_taerar", "db/d25/a27391.html#a100c1b80a50faf93088db870faa21b58", null ],
+    [ "GetAI", "db/d25/a27391.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
 ];

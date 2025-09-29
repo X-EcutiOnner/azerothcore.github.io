@@ -1,4 +1,4 @@
 var a04286 =
 [
-    [ "ScriptRegistry< AllBattlegroundScript >", "d5/d9d/a04286.html#a4a1c5c34c42d3aaca9edc12feb3f7575", null ]
+    [ "LockedQueue< T, StorageType >", "df/d5a/a05423.html", "df/d5a/a05423" ]
 ];

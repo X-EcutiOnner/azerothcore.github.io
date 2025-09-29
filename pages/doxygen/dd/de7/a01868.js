@@ -1,23 +1,30 @@
 var a01868 =
 [
-    [ "npc_dragonflayer_forge_master", "d2/d4a/a21302.html", "d2/d4a/a21302" ],
-    [ "npc_enslaved_proto_drake", "d4/d23/a21306.html", "d4/d23/a21306" ],
-    [ "spell_ticking_time_bomb_aura", "de/d4e/a21310.html", "de/d4e/a21310" ],
-    [ "EnslavedProtoDrake", "dd/de7/a01868.html#a5858242a9c3f514606e1286c62fcf278", [
-      [ "TYPE_PROTODRAKE_AT", "dd/de7/a01868.html#a5858242a9c3f514606e1286c62fcf278a67b1878880ae995cdbaec79457546a56", null ],
-      [ "DATA_PROTODRAKE_MOVE", "dd/de7/a01868.html#a5858242a9c3f514606e1286c62fcf278a70a656538162760f8556efa23d8e4aad", null ],
-      [ "PATH_PROTODRAKE", "dd/de7/a01868.html#a5858242a9c3f514606e1286c62fcf278a9657512d7b2350f4b622e2e6abbb5076", null ],
-      [ "EVENT_REND", "dd/de7/a01868.html#a5858242a9c3f514606e1286c62fcf278a4330423ee013a070a273cb7ffefebd5d", null ],
-      [ "EVENT_FLAME_BREATH", "dd/de7/a01868.html#a5858242a9c3f514606e1286c62fcf278a150e396f9798bfba68078c51afc82d40", null ],
-      [ "EVENT_KNOCKAWAY", "dd/de7/a01868.html#a5858242a9c3f514606e1286c62fcf278ae40c8bf9c431d3b6ad432c7193166517", null ],
-      [ "SPELL_REND", "dd/de7/a01868.html#a5858242a9c3f514606e1286c62fcf278ac553ad24710435636bd9736df18484c6", null ],
-      [ "SPELL_FLAME_BREATH", "dd/de7/a01868.html#a5858242a9c3f514606e1286c62fcf278a4ee087423aeceb0f7c0aa5108e9b443b", null ],
-      [ "SPELL_KNOCK_AWAY", "dd/de7/a01868.html#a5858242a9c3f514606e1286c62fcf278aa72ede58fa3714726fab8d4b7252f5fa", null ],
-      [ "POINT_LAST", "dd/de7/a01868.html#a5858242a9c3f514606e1286c62fcf278a9075532cf57e3c71280e99da7ca250ee", null ]
+    [ "AUTH_LOGON_CHALLENGE_C", "d4/d71/a05671.html", "d4/d71/a05671" ],
+    [ "AUTH_LOGON_PROOF_C", "d2/d44/a05675.html", "d2/d44/a05675" ],
+    [ "AUTH_LOGON_PROOF_S", "d3/ddb/a05679.html", "d3/ddb/a05679" ],
+    [ "AUTH_LOGON_PROOF_S_OLD", "d6/d3e/a05683.html", "d6/d3e/a05683" ],
+    [ "AUTH_RECONNECT_PROOF_C", "d2/de1/a05687.html", "d2/de1/a05687" ],
+    [ "AUTH_LOGON_CHALLENGE_INITIAL_SIZE", "dd/de7/a01868.html#a38c5f396c839f5f22ec0ec7a5b2a5019", null ],
+    [ "MAX_ACCEPTED_CHALLENGE_SIZE", "dd/de7/a01868.html#a2507a44fb848704cf4f3624207c18ebe", null ],
+    [ "REALM_LIST_PACKET_SIZE", "dd/de7/a01868.html#af848fed368789960f3d9e059f8002e11", null ],
+    [ "sAuthLogonChallenge_C", "dd/de7/a01868.html#af2b75a713ab063d15c0f303555dab7c2", null ],
+    [ "sAuthLogonProof_C", "dd/de7/a01868.html#ab50c6b56b4c56513ab11e4bee50a0116", null ],
+    [ "sAuthLogonProof_S", "dd/de7/a01868.html#a1241a754e900fac64f49cadc4e806321", null ],
+    [ "sAuthLogonProof_S_Old", "dd/de7/a01868.html#ad153c4ef5e20c186dfe08ed557a4100c", null ],
+    [ "sAuthReconnectProof_C", "dd/de7/a01868.html#aef6ea8864e443cf0d192820bb670a8d8", null ],
+    [ "eAuthCmd", "dd/de7/a01868.html#a345cff35e97e1d164879db077b96607b", [
+      [ "AUTH_LOGON_CHALLENGE", "dd/de7/a01868.html#a345cff35e97e1d164879db077b96607ba62fe494e6ccbaae4d8869486af12ea48", null ],
+      [ "AUTH_LOGON_PROOF", "dd/de7/a01868.html#a345cff35e97e1d164879db077b96607baec69892078638b4c3a04d6a717e3cb2e", null ],
+      [ "AUTH_RECONNECT_CHALLENGE", "dd/de7/a01868.html#a345cff35e97e1d164879db077b96607bab5ca452edfc6d290784cefa1132ebfa4", null ],
+      [ "AUTH_RECONNECT_PROOF", "dd/de7/a01868.html#a345cff35e97e1d164879db077b96607ba968b2c14a04df9db06c0fa6ca2c7c9d3", null ],
+      [ "REALM_LIST", "dd/de7/a01868.html#a345cff35e97e1d164879db077b96607ba7de0619c3448ca95de937837fd5f27dc", null ],
+      [ "XFER_INITIATE", "dd/de7/a01868.html#a345cff35e97e1d164879db077b96607ba0152ea9553a4a08a9568de879167adb5", null ],
+      [ "XFER_DATA", "dd/de7/a01868.html#a345cff35e97e1d164879db077b96607bac4bf4cd27a0fa1424639c5d11cac02f7", null ],
+      [ "XFER_ACCEPT", "dd/de7/a01868.html#a345cff35e97e1d164879db077b96607ba0faa0d818c7cac462c3b31df8adcbf01", null ],
+      [ "XFER_RESUME", "dd/de7/a01868.html#a345cff35e97e1d164879db077b96607bae1d058bb15829274dff5133c8c041aa5", null ],
+      [ "XFER_CANCEL", "dd/de7/a01868.html#a345cff35e97e1d164879db077b96607ba178f53b59478d4e635be98a41873c5e1", null ]
     ] ],
-    [ "TickingTimeBomb", "dd/de7/a01868.html#a9126ee26be77d9dcf83d14c8abae1cca", [
-      [ "SPELL_TICKING_TIME_BOMB_EXPLODE", "dd/de7/a01868.html#a9126ee26be77d9dcf83d14c8abae1ccaa7a62cc5b3c327da89b890c8c1ecac56b", null ]
-    ] ],
-    [ "AddSC_utgarde_keep", "dd/de7/a01868.html#a3252f1bf2be160c6d8960f41e595db47", null ],
-    [ "protodrakeCheckPos", "dd/de7/a01868.html#a0a556a898032cb18eabb6df4a3f482e1", null ]
+    [ "Handlers", "dd/de7/a01868.html#a887a26fd84a0bf97f1016de6aeba4d4e", null ],
+    [ "VersionChallenge", "dd/de7/a01868.html#a242dcc388ff0edb5d5eca57953e61317", null ]
 ];

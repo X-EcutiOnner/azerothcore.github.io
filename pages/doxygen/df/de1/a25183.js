@@ -1,7 +1,6 @@
 var a25183 =
 [
-    [ "HandleEffectPeriodic", "df/de1/a25183.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
-    [ "PrepareAuraScript", "df/de1/a25183.html#affc698127fe0656df25bd094c02a7e50", null ],
-    [ "Register", "df/de1/a25183.html#a4707bfaeb86b3540920a6772e1726e26", null ],
-    [ "Validate", "df/de1/a25183.html#aef839f163d7e623a54b163e1c27542cd", null ]
+    [ "HandleOnEffectHit", "df/de1/a25183.html#a07b15e180ee79149cad15b32b3c94359", null ],
+    [ "PrepareSpellScript", "df/de1/a25183.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
+    [ "Register", "df/de1/a25183.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
 ];

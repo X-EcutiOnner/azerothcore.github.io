@@ -1,7 +1,7 @@
 var a22935 =
 [
-    [ "Absorb", "d0/d25/a22935.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
-    [ "HandleEffectRemove", "d0/d25/a22935.html#a3d4026e5208acb948c089a4bedba0de8", null ],
-    [ "PrepareAuraScript", "d0/d25/a22935.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
-    [ "Register", "d0/d25/a22935.html#a983cf678001efcbccc4b34a9ad919881", null ]
+    [ "HandleProc", "d0/d25/a22935.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
+    [ "PrepareAuraScript", "d0/d25/a22935.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
+    [ "Register", "d0/d25/a22935.html#a6b764182501a1d192f90dc20bbd6549e", null ],
+    [ "Validate", "d0/d25/a22935.html#ad89123425cca5bd02a18526a11595a1a", null ]
 ];

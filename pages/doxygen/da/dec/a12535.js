@@ -1,5 +1,8 @@
 var a12535 =
 [
-    [ "npc_chess_move_trigger", "da/dec/a12535.html#a6c0c37677db45ee11ebe158893d99632", null ],
-    [ "DamageTaken", "da/dec/a12535.html#af413c7af2254c1cc06462b2a62ac88db", null ]
+    [ "boss_garrAI", "da/dec/a12535.html#a12d403a90bf4920763ddd87b252f544a", null ],
+    [ "JustEngagedWith", "da/dec/a12535.html#a3b2bf0e6d3b6b32c450d03b1c88f3850", null ],
+    [ "Reset", "da/dec/a12535.html#acb14e869dac8e7df83b5b9d858cd2b21", null ],
+    [ "UpdateAI", "da/dec/a12535.html#aca82837e143f4509db221de15276b90c", null ],
+    [ "massEruptionTimer", "da/dec/a12535.html#ab807c47afd1ba8320730c3aa733e1b15", null ]
 ];

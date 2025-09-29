@@ -1,6 +1,6 @@
 var a04748 =
 [
-    [ "RealmBuildInfo", "db/d36/a28762.html", "db/d36/a28762" ],
-    [ "RealmList", "d1/d0e/a28766.html", "d1/d0e/a28766" ],
-    [ "sRealmList", "dc/d42/a04748.html#a639c880efde6e31a4bf6be6b5bcc3cd3", null ]
+    [ "mean", "dc/d42/a04748.html#a64ba279a3d3edca415239118167c0206", null ],
+    [ "median", "dc/d42/a04748.html#a4840fd449eb626bea901860e4c1be22a", null ],
+    [ "standard_deviation", "dc/d42/a04748.html#a60ce9c7718ec2901f037e2368f93026d", null ]
 ];

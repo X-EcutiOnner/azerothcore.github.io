@@ -1,9 +1,8 @@
 var a21963 =
 [
-    [ "npc_Apothecary_HanesAI", "d4/dbc/a21963.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
-    [ "JustDied", "d4/dbc/a21963.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
-    [ "Reset", "d4/dbc/a21963.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
-    [ "UpdateEscortAI", "d4/dbc/a21963.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
-    [ "WaypointReached", "d4/dbc/a21963.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
-    [ "PotTimer", "d4/dbc/a21963.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
+    [ "npc_future_youAI", "d4/dbc/a21963.html#a7608c050dd198e3133050e222b42f62b", null ],
+    [ "EnterEvadeMode", "d4/dbc/a21963.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
+    [ "MoveInLineOfSight", "d4/dbc/a21963.html#a35b67f9e948f5ffbde8a423190ece603", null ],
+    [ "Reset", "d4/dbc/a21963.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
+    [ "UpdateAI", "d4/dbc/a21963.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
 ];

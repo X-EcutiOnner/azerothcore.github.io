@@ -1,6 +1,6 @@
 var a19875 =
 [
-    [ "npc_storm_beacon_spawnAI", "da/d9b/a19879.html", "da/d9b/a19879" ],
-    [ "npc_storm_beacon_spawn", "d2/d2e/a19875.html#a0316646f43fd0ed6fe4576bf691116a0", null ],
-    [ "GetAI", "d2/d2e/a19875.html#a780dd823962e259dbeda7089224aa23e", null ]
+    [ "CosmicSmashDamageEvent", "d2/d2e/a19875.html#a5c9606791b560d8be1825a9c73f2393e", null ],
+    [ "Execute", "d2/d2e/a19875.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
+    [ "_caster", "d2/d2e/a19875.html#ab7af2459d3962831812ee2362ee9de2b", null ]
 ];

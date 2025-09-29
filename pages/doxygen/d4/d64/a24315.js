@@ -1,5 +1,5 @@
 var a24315 =
 [
-    [ "npc_pet_dk_army_of_the_deadAI", "d4/d64/a24315.html#a2d934ed807d225f6b9f2206f0556f26d", null ],
-    [ "InitializeAI", "d4/d64/a24315.html#af3ecec126ed3d902acd4bfe979382307", null ]
+    [ "go_warmaul_prison", "d4/d64/a24315.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
+    [ "OnGossipHello", "d4/d64/a24315.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
 ];

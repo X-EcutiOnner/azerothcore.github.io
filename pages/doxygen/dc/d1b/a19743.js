@@ -1,6 +1,6 @@
 var a19743 =
 [
-    [ "HandleInstaKill", "dc/d1b/a19743.html#a9371a2cc86616fd04e47939d45f01cae", null ],
-    [ "PrepareSpellScript", "dc/d1b/a19743.html#a38eed301f1db3ea7ac15b626e5927500", null ],
-    [ "Register", "dc/d1b/a19743.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
+    [ "npc_molten_golemAI", "d9/d3c/a19747.html", "d9/d3c/a19747" ],
+    [ "npc_molten_golem", "dc/d1b/a19743.html#a63e16216a59b50524632b49599bd3bd1", null ],
+    [ "GetAI", "dc/d1b/a19743.html#a22a723039267cb0901b78c6064a88d0c", null ]
 ];

@@ -1,7 +1,6 @@
 var a15743 =
 [
-    [ "npc_ahnkahar_nerubian", "d2/d56/a15743.html#ae18cdf09bae50751e266e95caf165f8e", null ],
-    [ "Reset", "d2/d56/a15743.html#a387831015ec8e4bc65cff8c8550bb176", null ],
-    [ "UpdateAI", "d2/d56/a15743.html#a9a773127e4f94bcdf142718355eae0e8", null ],
-    [ "uiSprintTimer", "d2/d56/a15743.html#a27a6f57a6b145cc595896d1ad453064f", null ]
+    [ "SpellId", "d2/d56/a15743.html#a2c430be201c1fd866ee96224f1803a20", null ],
+    [ "Timer1", "d2/d56/a15743.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
+    [ "Timer2", "d2/d56/a15743.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
 ];

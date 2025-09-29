@@ -1,5 +1,5 @@
 var a27247 =
 [
-    [ "go_sacred_fire_of_life", "d7/d9d/a27247.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "d7/d9d/a27247.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "achievement_bg_ic_resource_glut", "d7/d9d/a27247.html#ace247962dccee2601ceade593b0874d4", null ],
+    [ "OnCheck", "d7/d9d/a27247.html#a9910cf8b16b8c956df382161cc5f2c84", null ]
 ];

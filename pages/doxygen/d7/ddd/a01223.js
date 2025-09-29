@@ -1,23 +1,27 @@
 var a01223 =
 [
-    [ "boss_ghazan", "d9/ddd/a23606.html", "d9/ddd/a23606" ],
-    [ "at_underbog_ghazan", "df/d43/a23610.html", "df/d43/a23610" ],
-    [ "eBlackStalker", "d7/ddd/a01223.html#afbee42c6927db9ad2cf9d9096eeac954", [
-      [ "SPELL_ACID_BREATH", "d7/ddd/a01223.html#afbee42c6927db9ad2cf9d9096eeac954af39adcb38f10e84d7ff9bac76f41031c", null ],
-      [ "SPELL_ACID_SPIT", "d7/ddd/a01223.html#afbee42c6927db9ad2cf9d9096eeac954af69c625b663facf12cc5d8a20a280806", null ],
-      [ "SPELL_TAIL_SWEEP", "d7/ddd/a01223.html#afbee42c6927db9ad2cf9d9096eeac954addcb3daa6cdc61ef04c65580e44ef823", null ],
-      [ "SPELL_ENRAGE", "d7/ddd/a01223.html#afbee42c6927db9ad2cf9d9096eeac954a2a20f56307679be4d4f01a0d3d93cc7e", null ],
-      [ "ACTION_MOVE_TO_PLATFORM", "d7/ddd/a01223.html#afbee42c6927db9ad2cf9d9096eeac954a7e5366df9a5dd5e5bca840226b0755fa", null ],
-      [ "SPELL_LEVITATE", "d5/d32/a01214.html#afbee42c6927db9ad2cf9d9096eeac954ad2a574f606c6448dd086526c15b6fdd2", null ],
-      [ "SPELL_CHAIN_LIGHTNING", "d5/d32/a01214.html#afbee42c6927db9ad2cf9d9096eeac954ac0997e72929070d8e30cc0f49cc4539d", null ],
-      [ "SPELL_STATIC_CHARGE", "d5/d32/a01214.html#afbee42c6927db9ad2cf9d9096eeac954ad174c0c15c17e6a55eec42eab77d89e0", null ],
-      [ "SPELL_SUMMON_SPORE_STRIDER", "d5/d32/a01214.html#afbee42c6927db9ad2cf9d9096eeac954a754dcc3138f3b4acb829bc54bc02b9ed", null ],
-      [ "SPELL_LEVITATION_PULSE", "d5/d32/a01214.html#afbee42c6927db9ad2cf9d9096eeac954ade4ad87d3a67412155f3ce6b143275b1", null ],
-      [ "SPELL_SOMEONE_GRAB_ME", "d5/d32/a01214.html#afbee42c6927db9ad2cf9d9096eeac954aa07d1c28d9fea727b3885a967461d13b", null ],
-      [ "SPELL_MAGNETIC_PULL", "d5/d32/a01214.html#afbee42c6927db9ad2cf9d9096eeac954a3917f87779ff3a60876e0373a10855d5", null ],
-      [ "SPELL_SUSPENSION_PRIMER", "d5/d32/a01214.html#afbee42c6927db9ad2cf9d9096eeac954a38589209a4f90f4db2f89b249f6840de", null ],
-      [ "SPELL_SUSPENSION", "d5/d32/a01214.html#afbee42c6927db9ad2cf9d9096eeac954a0b7462c628390d15bd33088fb3d2a6a0", null ],
-      [ "ENTRY_SPORE_STRIDER", "d5/d32/a01214.html#afbee42c6927db9ad2cf9d9096eeac954a461a6686eb7320e609d5675753241cd2", null ]
-    ] ],
-    [ "AddSC_boss_ghazan", "d7/ddd/a01223.html#a6b7605f750dab7f676edcd83f54c249a", null ]
+    [ "GlobalScript", "d2/d98/a10363.html", "d2/d98/a10363" ],
+    [ "GlobalHook", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54f", [
+      [ "GLOBALHOOK_ON_ITEM_DEL_FROM_DB", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54fa3fee3c5c76e67faee134aa5f3004fb3a", null ],
+      [ "GLOBALHOOK_ON_MIRRORIMAGE_DISPLAY_ITEM", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54fa54996842f471924462c858b424771301", null ],
+      [ "GLOBALHOOK_ON_AFTER_REF_COUNT", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54fadf7277c0c7e7daf6f206ad30076ca6b0", null ],
+      [ "GLOBALHOOK_ON_AFTER_CALCULATE_LOOT_GROUP_AMOUNT", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54fab9f74534592d5b25eac4afa022f0afb8", null ],
+      [ "GLOBALHOOK_ON_BEFORE_DROP_ADD_ITEM", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54fa0023a1c24752cf2d5bf1373304031616", null ],
+      [ "GLOBALHOOK_ON_ITEM_ROLL", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54fa1910f8cb74757454664169058b78e315", null ],
+      [ "GLOBALHOOK_ON_BEFORE_LOOT_EQUAL_CHANCED", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54fac9c482aae055a76e845712ea267cbf54", null ],
+      [ "GLOBALHOOK_ON_INITIALIZE_LOCKED_DUNGEONS", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54faff3a42ff936243662b474b34bdf3eaaf", null ],
+      [ "GLOBALHOOK_ON_AFTER_INITIALIZE_LOCKED_DUNGEONS", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54fa4a73293aee8407b7b998c4b054b1f441", null ],
+      [ "GLOBALHOOK_ON_BEFORE_UPDATE_ARENA_POINTS", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54fa5b66ed30713c1b3afbbeb93e0185721f", null ],
+      [ "GLOBALHOOK_ON_AFTER_UPDATE_ENCOUNTER_STATE", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54fade9db726b6ebfefed02d9958ba2352d1", null ],
+      [ "GLOBALHOOK_ON_BEFORE_WORLDOBJECT_SET_PHASEMASK", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54fa46e286ea2fa14ba1003d3f921bc174b6", null ],
+      [ "GLOBALHOOK_ON_IS_AFFECTED_BY_SPELL_MOD_CHECK", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54fa47d4b00882af22c458fd791f70844d1b", null ],
+      [ "GLOBALHOOK_ON_SPELL_HEALING_BONUS_TAKEN_NEGATIVE_MODIFIERS", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54fa1efd25cc1c4e57becd0c5acf89c12857", null ],
+      [ "GLOBALHOOK_ON_LOAD_SPELL_CUSTOM_ATTR", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54fa53ea8c3814440b2cc9bc99760a365ffc", null ],
+      [ "GLOBALHOOK_ON_ALLOWED_FOR_PLAYER_LOOT_CHECK", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54faac2ab4f02438b0689dcb2fd4e4b6e689", null ],
+      [ "GLOBALHOOK_ON_ALLOWED_TO_LOOT_CONTAINER_CHECK", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54fa484cdc863db646dfef82e9bd93fab517", null ],
+      [ "GLOBALHOOK_ON_INSTANCEID_REMOVED", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54faca0b78e4f7e01f485fa13984516ad19c", null ],
+      [ "GLOBALHOOK_ON_BEFORE_SET_BOSS_STATE", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54faaa74d1171724a0c0ef83fe371e38b203", null ],
+      [ "GLOBALHOOK_AFTER_INSTANCE_GAME_OBJECT_CREATE", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54faf8f95fca3547e7cb68711a197b935872", null ],
+      [ "GLOBALHOOK_END", "d7/ddd/a01223.html#a9442fcdfa182319eedd41c65183aa54faaf8763605020a918c2880562446d020a", null ]
+    ] ]
 ];

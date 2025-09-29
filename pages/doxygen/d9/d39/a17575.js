@@ -1,6 +1,7 @@
 var a17575 =
 [
-    [ "PrepareSpellScript", "d9/d39/a17575.html#a47df21229183b628c1d82bf34cbbe396", null ],
-    [ "Register", "d9/d39/a17575.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
-    [ "RelocateTransportOffset", "d9/d39/a17575.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
+    [ "PeriodicTick", "d9/d39/a17575.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
+    [ "PrepareAuraScript", "d9/d39/a17575.html#ac1abcbe62887678adad0194fdf27825a", null ],
+    [ "Register", "d9/d39/a17575.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
+    [ "Validate", "d9/d39/a17575.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
 ];

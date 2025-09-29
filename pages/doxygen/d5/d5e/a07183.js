@@ -1,12 +1,14 @@
 var a07183 =
 [
-    [ "Arena", "d5/d5e/a07183.html#a74f105bc709d4728fb07f1984abfd345", null ],
-    [ "AddPlayer", "d5/d5e/a07183.html#ae24fe304d35c0c09379203135e936450", null ],
-    [ "CheckWinConditions", "d5/d5e/a07183.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
-    [ "EndBattleground", "d5/d5e/a07183.html#a2be61602189b530a16a9ca954d180914", null ],
-    [ "FillInitialWorldStates", "d5/d5e/a07183.html#a592100d0f0ed492a5cdf941e57db787f", null ],
-    [ "HandleKillPlayer", "d5/d5e/a07183.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
-    [ "RemovePlayer", "d5/d5e/a07183.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
-    [ "RemovePlayerAtLeave", "d5/d5e/a07183.html#acae21233e11b21b612e5c051bfa7720e", null ],
-    [ "UpdateArenaWorldState", "d5/d5e/a07183.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
+    [ "AutobroadcastsMap", "d5/d5e/a07183.html#a9064ad588e8a02d9b60974af4da1c7cf", null ],
+    [ "AutobroadcastsWeightMap", "d5/d5e/a07183.html#a75e5b978794a7010c8d9d3390d8690f9", null ],
+    [ "instance", "d5/d5e/a07183.html#aead196df7f590d43c89f179ca0bd4a68", null ],
+    [ "LoadAutobroadcasts", "d5/d5e/a07183.html#a48748969b122aee47d03697b6e9a2ee1", null ],
+    [ "LoadAutobroadcastsLocalized", "d5/d5e/a07183.html#a105fa2c33da0662785551027430d40c6", null ],
+    [ "SendAutobroadcasts", "d5/d5e/a07183.html#a225907be4944713af11c312185c8aea7", null ],
+    [ "SendNotificationAnnouncement", "d5/d5e/a07183.html#ace584bb6b66c8944e1405ec0af686d3a", null ],
+    [ "SendWorldAnnouncement", "d5/d5e/a07183.html#a8be8fd36f843ffd435989c99ce0f9229", null ],
+    [ "_announceType", "d5/d5e/a07183.html#a3889edc4001e26519d9df042a8b477fc", null ],
+    [ "_autobroadcasts", "d5/d5e/a07183.html#a06d42010fea307a03aac0ca4e6886f1d", null ],
+    [ "_autobroadcastsWeights", "d5/d5e/a07183.html#aadbd8ca926a64be4fbbe832fd633ee88", null ]
 ];

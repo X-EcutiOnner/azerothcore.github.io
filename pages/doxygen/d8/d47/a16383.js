@@ -1,6 +1,6 @@
 var a16383 =
 [
-    [ "npc_toc_boomkinAI", "d6/dc3/a16387.html", "d6/dc3/a16387" ],
-    [ "npc_toc_boomkin", "d8/d47/a16383.html#a17274ff748cd364592a551ad2c547eac", null ],
-    [ "GetAI", "d8/d47/a16383.html#a626fe854faade9bd96cd60b9e6e970bd", null ]
+    [ "npc_living_infernoAI", "d8/d47/a16383.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
+    [ "IsSummonedBy", "d8/d47/a16383.html#a4b6986a392aee0741ba47651e809c76c", null ],
+    [ "JustDied", "d8/d47/a16383.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
 ];

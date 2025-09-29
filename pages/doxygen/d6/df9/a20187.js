@@ -1,10 +1,6 @@
 var a20187 =
 [
-    [ "HandleEffectPeriodic", "d6/df9/a20187.html#aa62be73e00d9cb512806787eaf1c4144", null ],
-    [ "Load", "d6/df9/a20187.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
-    [ "PrepareAuraScript", "d6/df9/a20187.html#ad9664bff267b330565d3c706e1752e9d", null ],
-    [ "Register", "d6/df9/a20187.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
-    [ "Validate", "d6/df9/a20187.html#a3f6653b4ca202d9b0971189930e8b463", null ],
-    [ "_counter", "d6/df9/a20187.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
-    [ "_prev", "d6/df9/a20187.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
+    [ "HandleScript", "d6/df9/a20187.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
+    [ "PrepareSpellScript", "d6/df9/a20187.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
+    [ "Register", "d6/df9/a20187.html#a04a5b3a4f768200d74f4641508633d35", null ]
 ];

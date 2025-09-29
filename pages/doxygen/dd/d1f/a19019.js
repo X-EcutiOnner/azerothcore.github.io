@@ -1,7 +1,9 @@
 var a19019 =
 [
-    [ "HandleScript", "dd/d1f/a19019.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
-    [ "PrepareAuraScript", "dd/d1f/a19019.html#aa3053519be0101f55450d76b1291f0f7", null ],
-    [ "Register", "dd/d1f/a19019.html#ada596a7f19115c7178fd07fb9e956f58", null ],
-    [ "Validate", "dd/d1f/a19019.html#a768dec18bc0e879c457a64135ec27ad9", null ]
+    [ "npc_icc_severed_essenceAI", "dd/d1f/a19019.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
+    [ "CanAIAttack", "dd/d1f/a19019.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
+    [ "DoAction", "dd/d1f/a19019.html#a938af3a7de5b26432e1ad515a326a032", null ],
+    [ "UpdateAI", "dd/d1f/a19019.html#a66e3324baa87ba109dd968a517ee82a5", null ],
+    [ "Class", "dd/d1f/a19019.html#aa627713be3a2ac01336d158d96aaccc7", null ],
+    [ "events", "dd/d1f/a19019.html#a1bab216925c4123d633d9613bb80365c", null ]
 ];

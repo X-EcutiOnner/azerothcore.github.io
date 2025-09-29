@@ -1,12 +1,12 @@
 var a21291 =
 [
-    [ "boss_lavanthorAI", "da/dfa/a21291.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
-    [ "EnterEvadeMode", "da/dfa/a21291.html#a0334d92f1ddf30235efe298df622535b", null ],
-    [ "JustDied", "da/dfa/a21291.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
-    [ "JustEngagedWith", "da/dfa/a21291.html#a9820ec47af72af19f00b172ee138f908", null ],
-    [ "MoveInLineOfSight", "da/dfa/a21291.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
-    [ "Reset", "da/dfa/a21291.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
-    [ "UpdateAI", "da/dfa/a21291.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
-    [ "events", "da/dfa/a21291.html#a273adc56adefe9810013bc80950f2624", null ],
-    [ "pInstance", "da/dfa/a21291.html#ad6059577c5e131523f39316c2291b421", null ]
+    [ "boss_skarvald_the_constructor", "da/dfa/a21291.html#a32d092ecf17aaafc61cefb4c0efce639", null ],
+    [ "DoAction", "da/dfa/a21291.html#a63c9e981a198f6fefe8d1fa4d8ede20e", null ],
+    [ "JustDied", "da/dfa/a21291.html#a9180dcb3c22944c75e5e424dc1a78339", null ],
+    [ "JustEngagedWith", "da/dfa/a21291.html#a529439d257abf78f76db0043549964e6", null ],
+    [ "KilledUnit", "da/dfa/a21291.html#a9d65e24161dd1f7bac9fe991624c5c80", null ],
+    [ "Reset", "da/dfa/a21291.html#ada2068f8b5d125062ec0b7fde0d05c7f", null ],
+    [ "UpdateAI", "da/dfa/a21291.html#a9c1f74c20a5a9f47f9430450742938a2", null ],
+    [ "events", "da/dfa/a21291.html#a28837280e161f6971564a4725c97a154", null ],
+    [ "pInstance", "da/dfa/a21291.html#ab5b773a9960f611a6383578a607ba258", null ]
 ];

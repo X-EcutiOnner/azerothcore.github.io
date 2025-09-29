@@ -1,6 +1,6 @@
 var a24175 =
 [
-    [ "npc_enraged_spiritAI", "d1/dce/a24179.html", "d1/dce/a24179" ],
-    [ "npc_enraged_spirit", "d4/d10/a24175.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
-    [ "GetAI", "d4/d10/a24175.html#aa10d5f0147cf4064a49df735ac95575e", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d1/dce/a24179.html", "d1/dce/a24179" ],
+    [ "npc_deaths_door_fell_cannon_target_bunny", "d4/d10/a24175.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
+    [ "GetAI", "d4/d10/a24175.html#a250707096229da28024960beeb7725bf", null ]
 ];

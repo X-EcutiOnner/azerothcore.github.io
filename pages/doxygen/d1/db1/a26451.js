@@ -1,9 +1,6 @@
 var a26451 =
 [
-    [ "HandleKnockBack", "d1/db1/a26451.html#acaa8f445874270f34ea5b42a506671db", null ],
-    [ "HandleScript", "d1/db1/a26451.html#a29e47298601cb55c5442a3fa59bb3646", null ],
-    [ "Load", "d1/db1/a26451.html#a45700aba665b601b2c860af5a869d1af", null ],
-    [ "PrepareSpellScript", "d1/db1/a26451.html#aad1c175a2611152278d847ac59f93090", null ],
-    [ "Register", "d1/db1/a26451.html#ad790d435f422fabd128e601fb2dff103", null ],
-    [ "Validate", "d1/db1/a26451.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
+    [ "FilterTargets", "d1/db1/a26451.html#a23c7b977f7e213322b3702367d6a28c7", null ],
+    [ "PrepareSpellScript", "d1/db1/a26451.html#a7000b2fd940c914933c486e847932b62", null ],
+    [ "Register", "d1/db1/a26451.html#a870ee08d0341f6640710a87c97a6b98b", null ]
 ];

@@ -1,8 +1,8 @@
 var a16699 =
 [
-    [ "npc_fos_corrupted_soul_fragmentAI", "d9/d1b/a16699.html#a61797329ecddde6da2e23e951fa92ca2", null ],
-    [ "Reset", "d9/d1b/a16699.html#a5bb03371b24593ca2de995bf85857782", null ],
-    [ "UpdateAI", "d9/d1b/a16699.html#ac6e651186c5edfd8e5279ddd38a15eb9", null ],
-    [ "pInstance", "d9/d1b/a16699.html#a6ced23b3b4150b31020a636559d6eec6", null ],
-    [ "timer", "d9/d1b/a16699.html#aa19c9928e3979bb01d89dc81b8feb4fc", null ]
+    [ "npc_toc_pet_warlockAI", "d9/d1b/a16699.html#a0f4128d5fd7a855f1fb2870465bc1ce7", null ],
+    [ "EnterEvadeMode", "d9/d1b/a16699.html#a62219f63e82fc67f63db2cbd713647a0", null ],
+    [ "myCanCast", "d9/d1b/a16699.html#a81607ebd90d8f511bb18b03ff497d9eb", null ],
+    [ "UpdateAI", "d9/d1b/a16699.html#a05a150e01f519675ac7b69d3c2a97ed4", null ],
+    [ "events", "d9/d1b/a16699.html#a8edadebd7e6660041233a24fb07173bf", null ]
 ];

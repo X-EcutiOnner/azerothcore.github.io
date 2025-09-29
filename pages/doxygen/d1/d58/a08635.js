@@ -1,6 +1,8 @@
 var a08635 =
 [
-    [ "GlobalCooldown", "d1/d58/a08635.html#a5859ccec9d1fdf0a8f11f5ab77c135a9", null ],
-    [ "cast_time", "d1/d58/a08635.html#a7e2fe46367bad59669b0f2fd33736b30", null ],
-    [ "duration", "d1/d58/a08635.html#a7fbf3127e4a2cc93171934148275ae1d", null ]
+    [ "checkLeaderOnly", "d1/d58/a08635.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
+    [ "faction", "d1/d58/a08635.html#a23c649e494795b27856b67225370a820", null ],
+    [ "id", "d1/d58/a08635.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
+    [ "note", "d1/d58/a08635.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
+    [ "priority", "d1/d58/a08635.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
 ];

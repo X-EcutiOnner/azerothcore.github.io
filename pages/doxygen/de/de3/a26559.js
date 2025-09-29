@@ -1,6 +1,7 @@
 var a26559 =
 [
-    [ "CheckCast", "de/de3/a26559.html#a97f479cccecc6f37c75b47122b47e333", null ],
-    [ "PrepareSpellScript", "de/de3/a26559.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
-    [ "Register", "de/de3/a26559.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
+    [ "CheckTarget", "de/de3/a26559.html#abaef73201d2e0bd1d6789309442019e0", null ],
+    [ "HandleScriptEffect", "de/de3/a26559.html#a545196cd976bfabbd85ba48942012e1e", null ],
+    [ "PrepareSpellScript", "de/de3/a26559.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
+    [ "Register", "de/de3/a26559.html#a36563a197b7377660b7c3f9e85d478bd", null ]
 ];

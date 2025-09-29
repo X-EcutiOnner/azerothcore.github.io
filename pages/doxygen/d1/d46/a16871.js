@@ -1,13 +1,19 @@
 var a16871 =
 [
-    [ "npc_hor_leader_secondAI", "d1/d46/a16871.html#a54a5094dc533755efc249ebc96663b62", null ],
-    [ "DamageTaken", "d1/d46/a16871.html#ae534779315b04b3dde495b13a1cb28e4", null ],
-    [ "DoAction", "d1/d46/a16871.html#a4185259006017e85fade721796851dd0", null ],
-    [ "MovementInform", "d1/d46/a16871.html#afe93165a3e96496b52a2be8de5022164", null ],
-    [ "MoveToNextStopPoint", "d1/d46/a16871.html#a6d9f65386d6f40a5cf96b09ecaf54871", null ],
-    [ "Reset", "d1/d46/a16871.html#ae5d125deab31e6425e94b4523d8251eb", null ],
-    [ "UpdateAI", "d1/d46/a16871.html#ae991e18a6729a1b088c60060802c01c2", null ],
-    [ "currentStopPoint", "d1/d46/a16871.html#ae4bf31530e701f9e0aa4f253452f9881", null ],
-    [ "events", "d1/d46/a16871.html#a3510e246908f4e5b758e05ca06a29e47", null ],
-    [ "pInstance", "d1/d46/a16871.html#a32cebea12e13c87b45dd2a4c6cf495e5", null ]
+    [ "boss_novosAI", "d1/d46/a16871.html#adb1ddbf486ee7690d25c00db3902e408", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d1/d46/a16871.html#ab1e9ef1780d53447e3e39c69de2111f8", null ],
+    [ "GetData", "d1/d46/a16871.html#ab4c51470b6e1492922fa507566cfb01b", null ],
+    [ "JustDied", "d1/d46/a16871.html#a7fc57c7b0fe7befc5e3466e929bf8e40", null ],
+    [ "JustEngagedWith", "d1/d46/a16871.html#ab0d05b5f01943a2a1a4b9942b7af6a4f", null ],
+    [ "JustSummoned", "d1/d46/a16871.html#a67340b4d1b140b018a91c28cb649ce6f", null ],
+    [ "KilledUnit", "d1/d46/a16871.html#ae2a48f1b01018307d9d08b36a4b15401", null ],
+    [ "MoveInLineOfSight", "d1/d46/a16871.html#acd01b87b1f481de8f3327c3a958dd12d", null ],
+    [ "Reset", "d1/d46/a16871.html#ac62d82368e71dcb58cbac04d90731d35", null ],
+    [ "SetData", "d1/d46/a16871.html#a86825eabbf3411443ffd8f458defb0b0", null ],
+    [ "UpdateAI", "d1/d46/a16871.html#acba9623bd90132a4042c2fb9923a1c3c", null ],
+    [ "_achievement", "d1/d46/a16871.html#a00e5942a5c4c05dc168b80d60cb10d0f", null ],
+    [ "_crystalCounter", "d1/d46/a16871.html#afc81805776138a9075aac36cf268c6eb", null ],
+    [ "_stage", "d1/d46/a16871.html#a88013d55c74c4d3c86a5e254ca77e892", null ],
+    [ "_summonTargetLeftGUID", "d1/d46/a16871.html#a9c79a08d0f1814e265dc7dad59946c02", null ],
+    [ "_summonTargetRightGUID", "d1/d46/a16871.html#aeb5b0d02c11bd3e4299e05c498c8cfd8", null ]
 ];

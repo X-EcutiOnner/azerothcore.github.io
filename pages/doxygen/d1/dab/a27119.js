@@ -1,8 +1,7 @@
 var a27119 =
 [
-    [ "FilterTargets", "d1/dab/a27119.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
-    [ "HandleEffect", "d1/dab/a27119.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
-    [ "PrepareSpellScript", "d1/dab/a27119.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
-    [ "Register", "d1/dab/a27119.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
-    [ "Validate", "d1/dab/a27119.html#aabc063155fad404ffd044c9f79b88051", null ]
+    [ "HandleApply", "d1/dab/a27119.html#aa35fa107aee605a8583150901a75ad72", null ],
+    [ "HandleRemove", "d1/dab/a27119.html#a60b6e438ff67d9db41d160020b54da40", null ],
+    [ "PrepareAuraScript", "d1/dab/a27119.html#a1da44046f2cb9fb68b18f712111c38ea", null ],
+    [ "Register", "d1/dab/a27119.html#ac7c9e15a796e91e0ac68791d24e3d4bf", null ]
 ];

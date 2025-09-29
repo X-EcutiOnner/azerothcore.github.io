@@ -1,11 +1,15 @@
 var a03113 =
 [
-    [ "BanMgr", "db/d15/a09926.html", "db/d15/a09926" ],
-    [ "sBan", "d0/dcd/a03113.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
-    [ "BanReturn", "d0/dcd/a03113.html#a4dd4670ead55e2780d09a66ab39943a7", [
-      [ "BAN_SUCCESS", "d0/dcd/a03113.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],
-      [ "BAN_SYNTAX_ERROR", "d0/dcd/a03113.html#a4dd4670ead55e2780d09a66ab39943a7a7ec21f8f8ea6d0904423dded4b8f0dc8", null ],
-      [ "BAN_NOTFOUND", "d0/dcd/a03113.html#a4dd4670ead55e2780d09a66ab39943a7aaefc3ea320005c27d70704fb92aed7ad", null ],
-      [ "BAN_LONGER_EXISTS", "d0/dcd/a03113.html#a4dd4670ead55e2780d09a66ab39943a7ac441589615fb2fe9c7decb985f6f0d3c", null ]
-    ] ]
+    [ "icecrown_citadel_teleport", "df/de4/a19079.html", "df/de4/a19079" ],
+    [ "at_frozen_throne_teleport", "d9/dd6/a19083.html", "d9/dd6/a19083" ],
+    [ "GOSSIP_SENDER_ICC_PORT", "d0/dcd/a03113.html#a6fba34564bcdeb5d7a73d3c21850f02a", null ],
+    [ "ICCTeleportOption", "d0/dcd/a03113.html#a6fd4f2624c3269860a58fdcfbb273928", [
+      [ "ICC_TELEPORT_GOSSIP_OPT_LIGHTS_HAMMER", "d0/dcd/a03113.html#a6fd4f2624c3269860a58fdcfbb273928a5d845311579fa05dd470ab95e3810591", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_ORATORY_OF_THE_DAMNED", "d0/dcd/a03113.html#a6fd4f2624c3269860a58fdcfbb273928a655e3ad8e4a944b86f70a1979aeb3c3c", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_RAMPART_OF_SKULLS", "d0/dcd/a03113.html#a6fd4f2624c3269860a58fdcfbb273928a96ac68871dedf676d54492d7a0820201", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_DEATHBRINGERS_RISE", "d0/dcd/a03113.html#a6fd4f2624c3269860a58fdcfbb273928ac08906a205127f970d28dbee8bade56c", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_UPPER_SPIRE", "d0/dcd/a03113.html#a6fd4f2624c3269860a58fdcfbb273928ae2d96cab8de57bd2a2a012503c2ddbf2", null ],
+      [ "ICC_TELEPORT_GOSSIP_OPT_SINDRAGOSAS_LAIR", "d0/dcd/a03113.html#a6fd4f2624c3269860a58fdcfbb273928a196236e7232fea20a0707b300c9a996b", null ]
+    ] ],
+    [ "AddSC_icecrown_citadel_teleport", "d0/dcd/a03113.html#aba5bcd7624aeee0dbd61deec7f8d5d5b", null ]
 ];

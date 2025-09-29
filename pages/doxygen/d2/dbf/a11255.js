@@ -1,6 +1,6 @@
 var a11255 =
 [
-    [ "DestinationTargetSelectHandler", "d2/dbf/a11255.html#ab5ffcc89b7232afddd6bc47e7c347b79", null ],
-    [ "Call", "d2/dbf/a11255.html#a81ae2eb856507ee22308ae2739854382", null ],
-    [ "DestinationTargetSelectHandlerScript", "d2/dbf/a11255.html#a95e882b892a79b464a521a8367b2e9b7", null ]
+    [ "ChannelTargetData", "d2/dbf/a11255.html#a26f2a2037750712d8718d9537603e3a1", null ],
+    [ "channelGUID", "d2/dbf/a11255.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
+    [ "spellDst", "d2/dbf/a11255.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
 ];

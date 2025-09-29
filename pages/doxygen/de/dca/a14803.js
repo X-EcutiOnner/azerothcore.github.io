@@ -1,6 +1,6 @@
 var a14803 =
 [
-    [ "instance_dire_maul_InstanceMapScript", "d8/d9b/a14807.html", "d8/d9b/a14807" ],
-    [ "instance_dire_maul", "de/dca/a14803.html#a54ac2c7095a99481c7efbe4237533fac", null ],
-    [ "GetInstanceScript", "de/dca/a14803.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
+    [ "FilterTargets", "de/dca/a14803.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
+    [ "PrepareSpellScript", "de/dca/a14803.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
+    [ "Register", "de/dca/a14803.html#a6375482bd9d1fc6c6941607273c506dc", null ]
 ];

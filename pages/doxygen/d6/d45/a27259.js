@@ -1,5 +1,5 @@
 var a27259 =
 [
-    [ "go_tele_to_violet_stand", "d6/d45/a27259.html#a63350db1dfd400c565e30775378d48cc", null ],
-    [ "OnGossipHello", "d6/d45/a27259.html#a4d075584f065501a2c3be9ef82387f43", null ]
+    [ "achievement_bg_sa_artillery", "d6/d45/a27259.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
+    [ "OnCheck", "d6/d45/a27259.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
 ];

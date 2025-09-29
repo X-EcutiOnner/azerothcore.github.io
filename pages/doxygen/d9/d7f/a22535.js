@@ -1,9 +1,12 @@
 var a22535 =
 [
-    [ "npc_stolen_soul", "d9/d7f/a22535.html#a84a0bb8320b2332545748e010d855884", null ],
-    [ "DoAction", "d9/d7f/a22535.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
-    [ "Reset", "d9/d7f/a22535.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
-    [ "UpdateAI", "d9/d7f/a22535.html#a7bf369dd943ee36600a364d56b85db5a", null ],
-    [ "_scheduler", "d9/d7f/a22535.html#ab62526916f0ccd681383d37d19d94ccc", null ],
-    [ "myClass", "d9/d7f/a22535.html#ab2ad92983075320ce389aa583c341d21", null ]
+    [ "npc_icefangAI", "d9/d7f/a22535.html#ab74b58a77e3c1349ed308f7febef794a", null ],
+    [ "AttackStart", "d9/d7f/a22535.html#a56615ecdb45389aa793374d26a636d45", null ],
+    [ "EnterEvadeMode", "d9/d7f/a22535.html#a1465c4779ea8b080f934163c8db6c99c", null ],
+    [ "JustDied", "d9/d7f/a22535.html#a3140c8306a384833cca1580ad964d73a", null ],
+    [ "JustEngagedWith", "d9/d7f/a22535.html#a8455dd4afb5ef5a694ca9237848df907", null ],
+    [ "OnCharmed", "d9/d7f/a22535.html#ad7f3465f5730cd9ebd42bb4092ec8e68", null ],
+    [ "PassengerBoarded", "d9/d7f/a22535.html#acf6e8e273830d022eaca3a28a4bd5320", null ],
+    [ "UpdateAI", "d9/d7f/a22535.html#ab4d752f2273062c48339b53e611e617c", null ],
+    [ "WaypointReached", "d9/d7f/a22535.html#ae315a1d22317edb2864e4d796f808ffb", null ]
 ];

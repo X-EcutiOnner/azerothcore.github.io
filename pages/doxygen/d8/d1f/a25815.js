@@ -1,7 +1,6 @@
 var a25815 =
 [
-    [ "HandleScript", "d8/d1f/a25815.html#aad0be226a2d294d3361c1afbf644c5e4", null ],
-    [ "PrepareSpellScript", "d8/d1f/a25815.html#a85dee311aab08d796a3a0c1bc9e9390d", null ],
-    [ "Register", "d8/d1f/a25815.html#a2b22be9826db241ecf3f99ff16c309c0", null ],
-    [ "Validate", "d8/d1f/a25815.html#a98df659504307fc0666fe2b1001eaa00", null ]
+    [ "PrepareSpellScript", "d8/d1f/a25815.html#a72e57e8a4bdb9a4fcd73e3519b6025ea", null ],
+    [ "Register", "d8/d1f/a25815.html#aac4d3c8ecde3652c65c05abad5c8eaeb", null ],
+    [ "SelectTarget", "d8/d1f/a25815.html#a3153b6c6814922cd7220e19b06f2a602", null ]
 ];

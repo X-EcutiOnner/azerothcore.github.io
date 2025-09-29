@@ -1,6 +1,6 @@
 var a17527 =
 [
-    [ "npc_gunship_boarding_leaderAI", "d1/da7/a17531.html", "d1/da7/a17531" ],
-    [ "npc_gunship_boarding_leader", "d5/de2/a17527.html#a8390eadab34a89643252f573588b140a", null ],
-    [ "GetAI", "d5/de2/a17527.html#ae422c8a1de8fb909a89d2ad2f516e3b4", null ]
+    [ "HandleScript", "d5/de2/a17527.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
+    [ "PrepareSpellScript", "d5/de2/a17527.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
+    [ "Register", "d5/de2/a17527.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
 ];

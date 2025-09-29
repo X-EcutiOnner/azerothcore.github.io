@@ -1,8 +1,5 @@
 var a15275 =
 [
-    [ "npc_death_ravagerAI", "d8/dd3/a15275.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "d8/dd3/a15275.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "d8/dd3/a15275.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "d8/dd3/a15275.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "d8/dd3/a15275.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "boss_yauj", "d8/dd3/a15275.html#a15ab7b6b35d29fb1552b11586163320e", null ],
+    [ "JustEngagedWith", "d8/dd3/a15275.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
 ];

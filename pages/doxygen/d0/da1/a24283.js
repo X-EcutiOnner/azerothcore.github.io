@@ -1,6 +1,6 @@
 var a24283 =
 [
-    [ "npc_slim", "d0/da1/a24283.html#aa227fbe22126bed821939873973e6a20", null ],
-    [ "OnGossipHello", "d0/da1/a24283.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
-    [ "OnGossipSelect", "d0/da1/a24283.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
+    [ "go_beaconAI", "d0/da1/a24283.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
+    [ "OnStateChanged", "d0/da1/a24283.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
+    [ "creatureList", "d0/da1/a24283.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
 ];

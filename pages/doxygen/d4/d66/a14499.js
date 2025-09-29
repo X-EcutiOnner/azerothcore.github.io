@@ -1,6 +1,6 @@
 var a14499 =
 [
-    [ "HandleTriggerSpell", "d4/d66/a14499.html#a7e5a03d304f0f6fe8d06ed5df12259dd", null ],
-    [ "PrepareSpellScript", "d4/d66/a14499.html#a76a070da8e719198463010499f595599", null ],
-    [ "Register", "d4/d66/a14499.html#ae237c4972167a5a17b59800983496a9d", null ]
+    [ "npc_cw_area_triggerAI", "db/d01/a14503.html", "db/d01/a14503" ],
+    [ "npc_cw_area_trigger", "d4/d66/a14499.html#a11af64ac4ab078566bf8f68a36781939", null ],
+    [ "GetAI", "d4/d66/a14499.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
 ];

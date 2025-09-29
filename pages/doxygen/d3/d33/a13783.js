@@ -1,16 +1,16 @@
 var a13783 =
 [
-    [ "boss_zuljin", "d3/d33/a13783.html#a8acdf347d7f982c07614c89a101daae0", null ],
-    [ "EnterEvadeMode", "d3/d33/a13783.html#a1b3da85aa5f4abac16256aa691d035a3", null ],
-    [ "EnterPhase", "d3/d33/a13783.html#ae9970dba905b947a22c4ddf36bdcb656", null ],
-    [ "GetGUID", "d3/d33/a13783.html#a29548891ef8efaa5d6baa384e7b9000a", null ],
-    [ "JustDied", "d3/d33/a13783.html#a2e00e8311c0463a37de87668882ffeec", null ],
-    [ "JustEngagedWith", "d3/d33/a13783.html#ab6854461a5116e94c9f0ca971a3f89ef", null ],
-    [ "KilledUnit", "d3/d33/a13783.html#adf220cb760b77cfd09ed746705529064", null ],
-    [ "MovementInform", "d3/d33/a13783.html#a61501941861f8838392fc8cdbe59feff", null ],
-    [ "Reset", "d3/d33/a13783.html#a2fe7c0338eb4698cc0aae252f4b14f02", null ],
-    [ "SpawnAdds", "d3/d33/a13783.html#a83eb0799a25f19eedddd96e609134778", null ],
-    [ "SpellHitTarget", "d3/d33/a13783.html#aab3558edc5b90be23040077d88e21725", null ],
-    [ "_chargeTargetGUID", "d3/d33/a13783.html#a3b26fe2e82019ea5ce110d2d0a78f47e", null ],
-    [ "_nextPhase", "d3/d33/a13783.html#a4fc9983cb34313affa56c243a4164a4a", null ]
+    [ "npc_rinjiAI", "d3/d33/a13783.html#ab613818b92530269f0802077eccc92d0", null ],
+    [ "DoSpawnAmbush", "d3/d33/a13783.html#af2535d7364641fadc98bca91ace9c906", null ],
+    [ "JustEngagedWith", "d3/d33/a13783.html#ae5ca00ee9baead3392a9239dfb68d377", null ],
+    [ "JustRespawned", "d3/d33/a13783.html#a471f2e8da91639d4e68ad64a11d7b950", null ],
+    [ "JustSummoned", "d3/d33/a13783.html#a09d65e7bd5a76552208eee920cfcb4f9", null ],
+    [ "Reset", "d3/d33/a13783.html#ada230a1b7b0f3c8b2b41c706856681b8", null ],
+    [ "sQuestAccept", "d3/d33/a13783.html#a15b9a0756ae6cebac690c8bb997e99d2", null ],
+    [ "UpdateEscortAI", "d3/d33/a13783.html#a60f05b58b115f3f2ea11206778893547", null ],
+    [ "WaypointReached", "d3/d33/a13783.html#a9463060a57b85113b71482c8a0974f60", null ],
+    [ "_IsByOutrunner", "d3/d33/a13783.html#adecc4eb9f90969621b52b97ff594558d", null ],
+    [ "postEventCount", "d3/d33/a13783.html#a601f142bd2a04ed303611044bac91035", null ],
+    [ "postEventTimer", "d3/d33/a13783.html#a5154e551143e81d431f706ad07b78ca0", null ],
+    [ "spawnId", "d3/d33/a13783.html#a3fc84d1e0f5243c6e8f292ddcac15ace", null ]
 ];

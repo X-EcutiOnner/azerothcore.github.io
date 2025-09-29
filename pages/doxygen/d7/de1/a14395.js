@@ -1,5 +1,7 @@
 var a14395 =
 [
-    [ "PrepareSpellScript", "d7/de1/a14395.html#a50ee42c11937759b6c52c2ab994481c4", null ],
-    [ "Register", "d7/de1/a14395.html#a8dc12a723c2da948c38119e3fc34df35", null ]
+    [ "GetEmptyEntry", "d7/de1/a14395.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
+    [ "HandleAfterHit", "d7/de1/a14395.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
+    [ "PrepareSpellScript", "d7/de1/a14395.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
+    [ "Register", "d7/de1/a14395.html#a25e1858e1f81891443f4b7de50a5d495", null ]
 ];

@@ -1,20 +1,12 @@
 var a13987 =
 [
-    [ "boss_mandokirAI", "d0/dae/a13987.html#a4ba4ac7fabd3e74dc10a00a3188252e9", null ],
-    [ "CalculateThreat", "d0/dae/a13987.html#ad86e2b4c9078bc1b11b304f05679ca94", null ],
-    [ "DamageDealt", "d0/dae/a13987.html#a0dca07b45b3293a0f19401b299fbfb9c", null ],
-    [ "DoAction", "d0/dae/a13987.html#a7358c7abb58a6c9ec200d06246d00d41", null ],
-    [ "DoMeleeAttackIfReady", "d0/dae/a13987.html#acf13e5898f110ad98a1aa745d3b998d7", null ],
-    [ "JustDied", "d0/dae/a13987.html#a6bbc3ae1131f9becba0a35ea2e3a57dd", null ],
-    [ "JustEngagedWith", "d0/dae/a13987.html#aa7ea6260e403a92ba415b82b4dd71026", null ],
-    [ "KilledUnit", "d0/dae/a13987.html#a6230dc14db38d43fb060f028cfde9d32", null ],
-    [ "MovementInform", "d0/dae/a13987.html#a909f7fffc7e38cc6b0bba4edd45cb348", null ],
-    [ "OnTeleportUnreacheablePlayer", "d0/dae/a13987.html#a875c046b8a2f4a01bded282143c6d1d0", null ],
-    [ "Reset", "d0/dae/a13987.html#a2b2267e3d7be6d16ffab031d2cb4a1a6", null ],
-    [ "SetGUID", "d0/dae/a13987.html#a7c40febfbc4c594891b6eb87740b7345", null ],
-    [ "UpdateAI", "d0/dae/a13987.html#a1037b770bb46400aef0ec034f86468fc", null ],
-    [ "_chargeTarget", "d0/dae/a13987.html#a5040c31467e9d3c6edc30b9133ec6873", null ],
-    [ "_useExecute", "d0/dae/a13987.html#a305f064869874d8620d794a7d26f6358", null ],
-    [ "killCount", "d0/dae/a13987.html#a280e27385988e0f5cc65c60511bd4100", null ],
-    [ "reviveGUID", "d0/dae/a13987.html#a7f955c8399167d3f3aa974596f398c13", null ]
+    [ "npc_akilzon_eagle", "d0/dae/a13987.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
+    [ "JustEngagedWith", "d0/dae/a13987.html#aa5c3d77a1086ad90397d47f081b25476", null ],
+    [ "MoveInLineOfSight", "d0/dae/a13987.html#adefd384b8a273ca52343d836a399f3cb", null ],
+    [ "MovementInform", "d0/dae/a13987.html#abf69be0c32356e65e6d451c33fb389f0", null ],
+    [ "Reset", "d0/dae/a13987.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
+    [ "UpdateAI", "d0/dae/a13987.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
+    [ "arrived", "d0/dae/a13987.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
+    [ "EagleSwoop_Timer", "d0/dae/a13987.html#a37a5861ef690729e2a8bfafddce168be", null ],
+    [ "TargetGUID", "d0/dae/a13987.html#a14d4f82f932569d24f6014ad39640619", null ]
 ];

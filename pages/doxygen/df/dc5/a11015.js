@@ -1,8 +1,6 @@
 var a11015 =
 [
-    [ "SkillDiscoveryEntry", "df/dc5/a11015.html#a54c0f12153c6e63a37e5da44d233b271", null ],
-    [ "SkillDiscoveryEntry", "df/dc5/a11015.html#a301cae078fe1943cae045e94dc3d38ad", null ],
-    [ "chance", "df/dc5/a11015.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
-    [ "reqSkillValue", "df/dc5/a11015.html#a61e0edc8fee1fa4045d846668d08449c", null ],
-    [ "spellId", "df/dc5/a11015.html#a75ca40729917317173b2953c8f47f833", null ]
+    [ "PetStopAttack", "df/dc5/a11015.html#a4a68127f3290d4f2e288600757dd3282", null ],
+    [ "Read", "df/dc5/a11015.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
+    [ "PetGUID", "df/dc5/a11015.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
 ];

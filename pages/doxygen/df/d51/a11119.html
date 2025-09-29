@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: PacketLog Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d1/d60/a11122.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('df/d51/a11119.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,111 +104,417 @@ $(document).ready(function(){initNavTree('d1/d60/a11122.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">WorldPacket Member List</div></div>
+  <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="../../de/dba/a11116.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">PacketLog Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../d1/d60/a11122.html">WorldPacket</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#afe554eb627ce4c5761ac6975f186c546">_rpos</a></td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a242f4610e8cc4876af2296c933fa2213">_storage</a></td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a79e88867d79f25c13947bd6c419cd470">_wpos</a></td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a5811e6da355e8c3d0f45997a557a666b">append</a>(T value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#abb2583623d3abe56f26d108f75ea586e">append</a>(char const *src, std::size_t cnt)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a1d626d542d2f60f3724d232b4d33a53c">append</a>(const T *src, std::size_t cnt)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#afdb94a533a871475d9de79b78dae4ffc">append</a>(uint8 const *src, std::size_t cnt)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a89d5bb17fdc230b5777f3d3e5284db93">append</a>(ByteBuffer const &amp;buffer)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a00ca375ab87d05aee2a7444265664623">append</a>(std::array&lt; uint8, Size &gt; const &amp;arr)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#aa7b1246e84bc9010cf14a66385b85e07">AppendPackedTime</a>(time_t time)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a2dd5e1c2c674c3a0a4c368f6fa833dd6">appendPackGUID</a>(uint64 guid)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a1c3b7fe10221e5c32f3b542b37d453cf">appendPackXYZ</a>(float x, float y, float z)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#adc1d4da00319096a5eb0043f4a37e2be">ByteBuffer</a>()</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#aa083c5fac68ef7176271fe2f72a9285f">ByteBuffer</a>(std::size_t reserve)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">explicit</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#ab271141a122689d48a5780c2e6165dba">ByteBuffer</a>(ByteBuffer &amp;&amp;buf) noexcept</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#ac856755dba10e0a96cb3da4b22f8bb68">ByteBuffer</a>(ByteBuffer const &amp;right)=default</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a0906d52f1f309a482e0bc18ba853beae">ByteBuffer</a>(MessageBuffer &amp;&amp;buffer)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">explicit</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#ab9fbbcf0abe4049e2016c1262795c97e">clear</a>()</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#af0e8fd90f17049711204ae51a4ac86e4">contents</a>()</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a25bf7a7a4c55f915b7ae0eb221e54fef">contents</a>() const</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#adccc18cc169ea4ef3a6dba7a10e12f10">DEFAULT_SIZE</a></td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#ac1bd3fa1333a0b1140398dca94582bf9">empty</a>() const</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/d60/a11122.html#a666547feae3b83bfbba424a541287239">GetOpcode</a>() const</td><td class="entry"><a class="el" href="../../d1/d60/a11122.html">WorldPacket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d60/a11122.html#a467aa36509adcb07f51bc8af24137c3e">GetReceivedTime</a>() const</td><td class="entry"><a class="el" href="../../d1/d60/a11122.html">WorldPacket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a45e6b7d03df82a0be6eab9975193881e">hexlike</a>() const</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d60/a11122.html#a6b7d58fb0230383629fa888d3aa9dbd8">Initialize</a>(uint16 opcode, std::size_t newres=200)</td><td class="entry"><a class="el" href="../../d1/d60/a11122.html">WorldPacket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/d60/a11122.html#a4ff77d8a27744f07bbab70cdc4a3ef91">m_opcode</a></td><td class="entry"><a class="el" href="../../d1/d60/a11122.html">WorldPacket</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d60/a11122.html#abb78776ad3a0f19e5e3d226666612b49">m_receivedTime</a></td><td class="entry"><a class="el" href="../../d1/d60/a11122.html">WorldPacket</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a00350606ebe9f3febcede0679367b2a7">operator&lt;&lt;</a>(bool value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a1ea8f6df50599c237863ab33ce7ac7b2">operator&lt;&lt;</a>(uint8 value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a80b1cfe1258515038f57204073765c2a">operator&lt;&lt;</a>(uint16 value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a0d8be0376e6b2a6e74821d0dc471f9fd">operator&lt;&lt;</a>(uint32 value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#abd9454c5585a24a4f5609b7965419fa1">operator&lt;&lt;</a>(uint64 value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#ad2b3bb576047c3287595cf6129b06411">operator&lt;&lt;</a>(int8 value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#abf79846b58cb799ca54a2935d29dc4e8">operator&lt;&lt;</a>(int16 value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a254d93fdded17cc8f0a7a1743d062a42">operator&lt;&lt;</a>(int32 value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a33b142e608c77fb829d9888cd61c0e4e">operator&lt;&lt;</a>(int64 value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a5d2b326c6a5dee7c12d31812e521c632">operator&lt;&lt;</a>(float value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a177ac23fc6f11fbc89d9e93259f84e4b">operator&lt;&lt;</a>(double value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a369557455fa86d67ab4a1531f23ecc02">operator&lt;&lt;</a>(std::string_view value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a195c157d1bbe2949bbbbf278f04c4497">operator&lt;&lt;</a>(std::string const &amp;str)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#af408de5bdd2e1e9c33351eebbc70c99e">operator&lt;&lt;</a>(char const *str)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/d60/a11122.html#aa1196a05e7b338543b3b94188e59721f">operator=</a>(WorldPacket const &amp;right)</td><td class="entry"><a class="el" href="../../d1/d60/a11122.html">WorldPacket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d60/a11122.html#ad44064a3c2c73f6289a9db539b408f50">operator=</a>(WorldPacket &amp;&amp;right) noexcept</td><td class="entry"><a class="el" href="../../d1/d60/a11122.html">WorldPacket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a2b3c467b38b384e3900c15b278480598">ByteBuffer::operator=</a>(ByteBuffer const &amp;right)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#aa70d33b89e626033048985b9340a414f">ByteBuffer::operator=</a>(ByteBuffer &amp;&amp;right) noexcept</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#ae7a3b48d7c68c8b96df10b149b3c6b00">operator&gt;&gt;</a>(bool &amp;value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a50c22f913b35b6d4f10786d8f1e45600">operator&gt;&gt;</a>(uint8 &amp;value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a671cdb610adcd05664a975ba40d21bb6">operator&gt;&gt;</a>(uint16 &amp;value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a1de198bd2e6f96e1508ba32c7e9764b1">operator&gt;&gt;</a>(uint32 &amp;value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#af33400f18549278ea8ce969a6a86d44e">operator&gt;&gt;</a>(uint64 &amp;value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a62ba17e3b17886975cd4c157e4050f83">operator&gt;&gt;</a>(int8 &amp;value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a4820106e12718330e61a21ff15f28a3d">operator&gt;&gt;</a>(int16 &amp;value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#ab8a60a8541fca5e7a2c55dcdcebf16e3">operator&gt;&gt;</a>(int32 &amp;value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a11e4079a2e77e3869d43e693d43fecc9">operator&gt;&gt;</a>(int64 &amp;value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a29fb7124d40e89d17017e98c7f0c811f">operator&gt;&gt;</a>(float &amp;value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#aef3df0cb7f7731f92857880d4c241e0c">operator&gt;&gt;</a>(double &amp;value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a9af52b14e94ffc0a0f5f78a0dae242db">operator&gt;&gt;</a>(std::string &amp;value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a556cbf8da5554e60366c9790714fa9f4">operator[]</a>(std::size_t const pos)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a67c7365ccead23a5ada7457b3d653432">operator[]</a>(std::size_t const pos) const</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a4b2ea80e6832431ad45758246f49a850">print_storage</a>() const</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#ab14206d336f09c4096a84a27c9bb6777">put</a>(std::size_t pos, T value)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a29838d523781c48eb12f04d205a39e0f">put</a>(std::size_t pos, uint8 const *src, std::size_t cnt)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#afab3484e1af821859f16b7bdacf2af9c">read</a>()</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a36b7d40d650d268caac25792f8069218">read</a>(std::size_t pos) const</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a0736aaa59564526e948667e4c5178d66">read</a>(uint8 *dest, std::size_t len)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a0cd006e3d269e68f472f9c4d5590567b">read</a>(std::array&lt; uint8, Size &gt; &amp;arr)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a13c94e2d389aa4c7427d1ba0c79fc955">read_skip</a>()</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a628c7441ef54120e2b7598237b133216">read_skip</a>(std::size_t skip)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#aae5d8ea772e7adcea4e7b533ae25fb94">read_skip</a>()</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#aae5d8ea772e7adcea4e7b533ae25fb94">read_skip</a>()</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a7762b0b05a274ebe1ef7ce9c06ca5401">ReadCString</a>(bool requireValidUtf8=true)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#af29889550c94a21bfd6bef3a2f139382">ReadPackedTime</a>()</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a8a5dd268b2d844c242dfa2f5eb1e893f">ReadPackedTime</a>(uint32 &amp;time)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#ad04535f80c6d32211f3b377ca8c32e68">readPackGUID</a>(uint64 &amp;guid)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a48480d6c90375176acff4348a0ad1e55">reserve</a>(std::size_t ressize)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#ac7b8a563946443354563733ffbcc7bf5">resize</a>(std::size_t newsize)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a68aceada27f7897fbb59c13264ad9517">rfinish</a>()</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a7077cbe8c1b3983a4f3faa4b1f61af29">rpos</a>() const</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#ab79d655f99fa581903b95229a424a608">rpos</a>(std::size_t rpos_)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/d60/a11122.html#acb55a3f9540c39bf88300473c29605ed">SetOpcode</a>(uint16 opcode)</td><td class="entry"><a class="el" href="../../d1/d60/a11122.html">WorldPacket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a4f98988a7528081215fe378775e16402">shrink_to_fit</a>()</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a0be375370879a95ef6ec68cc8916ab61">size</a>() const</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a9ce46ba3fcd156ea7119a91231339aa9">textlike</a>() const</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/d60/a11122.html#a6329945c46586b75f41f4f3b0410a046">WorldPacket</a>()</td><td class="entry"><a class="el" href="../../d1/d60/a11122.html">WorldPacket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d60/a11122.html#a121222c627cfce905891be1611705a1a">WorldPacket</a>(uint16 opcode, std::size_t res=200)</td><td class="entry"><a class="el" href="../../d1/d60/a11122.html">WorldPacket</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">explicit</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/d60/a11122.html#af406fe2f357035990fd5eccf37f3fb93">WorldPacket</a>(WorldPacket &amp;&amp;packet) noexcept</td><td class="entry"><a class="el" href="../../d1/d60/a11122.html">WorldPacket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d60/a11122.html#a2880e36e172096407778fcbbdfe917bc">WorldPacket</a>(WorldPacket &amp;&amp;packet, TimePoint receivedTime)</td><td class="entry"><a class="el" href="../../d1/d60/a11122.html">WorldPacket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d1/d60/a11122.html#a251580581b403cc113aa743c0196ceea">WorldPacket</a>(WorldPacket const &amp;right)</td><td class="entry"><a class="el" href="../../d1/d60/a11122.html">WorldPacket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d1/d60/a11122.html#a224a2ad18da5d8dd7a7bcbb887870243">WorldPacket</a>(uint16 opcode, MessageBuffer &amp;&amp;buffer)</td><td class="entry"><a class="el" href="../../d1/d60/a11122.html">WorldPacket</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a6e9aaf9195c43a9a03ee4a55c435e24f">wpos</a>() const</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#a56d3ea397eade156eb491534595c1804">wpos</a>(std::size_t wpos_)</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d9/d0d/a28750.html#afc443ee2b0c09e7578b8af8dfb493cf7">~ByteBuffer</a>()=default</td><td class="entry"><a class="el" href="../../d9/d0d/a28750.html">ByteBuffer</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-</table></div><!-- contents -->
+<p><code>#include &quot;<a class="el" href="../../">PacketLog.h</a>&quot;</code></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:aea6ccfd41bc147557b7c5066fe18afa6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d51/a11119.html#aea6ccfd41bc147557b7c5066fe18afa6">Initialize</a> ()</td></tr>
+<tr class="separator:aea6ccfd41bc147557b7c5066fe18afa6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a322cf3a0d8707becb9dcc64548d4cce5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d51/a11119.html#a322cf3a0d8707becb9dcc64548d4cce5">CanLogPacket</a> () const</td></tr>
+<tr class="separator:a322cf3a0d8707becb9dcc64548d4cce5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac0323a6ac3856412b765d0b31dbbb37e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d51/a11119.html#ac0323a6ac3856412b765d0b31dbbb37e">LogPacket</a> (<a class="el" href="../../dc/de6/a11127.html">WorldPacket</a> const &amp;packet, <a class="el" href="../../dc/d06/a01832.html#a224b9163917ac32fc95a60d8c1eec3aa">Direction</a> direction, boost::asio::ip::address const &amp;addr, <a class="el" href="../../d9/d4e/a04307.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> port)</td></tr>
+<tr class="separator:ac0323a6ac3856412b765d0b31dbbb37e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a484418a51ca0bf150d17b23d97979bf4"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../df/d51/a11119.html">PacketLog</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d51/a11119.html#a484418a51ca0bf150d17b23d97979bf4">instance</a> ()</td></tr>
+<tr class="separator:a484418a51ca0bf150d17b23d97979bf4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a75215d454393ecd3fce0ea07b5d673ee"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d51/a11119.html#a75215d454393ecd3fce0ea07b5d673ee">PacketLog</a> ()</td></tr>
+<tr class="separator:a75215d454393ecd3fce0ea07b5d673ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a595a42f9aaa94d6c46d185955df801e0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d51/a11119.html#a595a42f9aaa94d6c46d185955df801e0">~PacketLog</a> ()</td></tr>
+<tr class="separator:a595a42f9aaa94d6c46d185955df801e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:aeffb6309ef859cbb346b15dc1fca5cbe"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d51/a11119.html#aeffb6309ef859cbb346b15dc1fca5cbe">_logPacketLock</a></td></tr>
+<tr class="separator:aeffb6309ef859cbb346b15dc1fca5cbe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a490cafe009f7b2ecb303a76c781f8960"><td class="memItemLeft" align="right" valign="top">std::once_flag&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d51/a11119.html#a490cafe009f7b2ecb303a76c781f8960">_initializeFlag</a></td></tr>
+<tr class="separator:a490cafe009f7b2ecb303a76c781f8960"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a03346a709f7586f6445e03b9a3b6af04"><td class="memItemLeft" align="right" valign="top">FILE *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d51/a11119.html#a03346a709f7586f6445e03b9a3b6af04">_file</a></td></tr>
+<tr class="separator:a03346a709f7586f6445e03b9a3b6af04"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a75215d454393ecd3fce0ea07b5d673ee" name="a75215d454393ecd3fce0ea07b5d673ee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a75215d454393ecd3fce0ea07b5d673ee">&#9670;&#160;</a></span>PacketLog()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">PacketLog::PacketLog </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   61</span>                     : <a class="code hl_variable" href="../../df/d51/a11119.html#a03346a709f7586f6445e03b9a3b6af04">_file</a>(<span class="keyword">nullptr</span>)</div>
+<div class="line"><span class="lineno">   62</span>{</div>
+<div class="line"><span class="lineno">   63</span>    std::call_once(<a class="code hl_variable" href="../../df/d51/a11119.html#a490cafe009f7b2ecb303a76c781f8960">_initializeFlag</a>, &amp;<a class="code hl_function" href="../../df/d51/a11119.html#aea6ccfd41bc147557b7c5066fe18afa6">PacketLog::Initialize</a>, <span class="keyword">this</span>);</div>
+<div class="line"><span class="lineno">   64</span>}</div>
+<div class="ttc" id="aa11119_html_a03346a709f7586f6445e03b9a3b6af04"><div class="ttname"><a href="../../df/d51/a11119.html#a03346a709f7586f6445e03b9a3b6af04">PacketLog::_file</a></div><div class="ttdeci">FILE * _file</div><div class="ttdef"><b>Definition:</b> PacketLog.h:49</div></div>
+<div class="ttc" id="aa11119_html_a490cafe009f7b2ecb303a76c781f8960"><div class="ttname"><a href="../../df/d51/a11119.html#a490cafe009f7b2ecb303a76c781f8960">PacketLog::_initializeFlag</a></div><div class="ttdeci">std::once_flag _initializeFlag</div><div class="ttdef"><b>Definition:</b> PacketLog.h:39</div></div>
+<div class="ttc" id="aa11119_html_aea6ccfd41bc147557b7c5066fe18afa6"><div class="ttname"><a href="../../df/d51/a11119.html#aea6ccfd41bc147557b7c5066fe18afa6">PacketLog::Initialize</a></div><div class="ttdeci">void Initialize()</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:82</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00039">_initializeFlag</a>, and <a class="el" href="../../#l00082">Initialize()</a>.</p>
+
+</div>
+</div>
+<a id="a595a42f9aaa94d6c46d185955df801e0" name="a595a42f9aaa94d6c46d185955df801e0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a595a42f9aaa94d6c46d185955df801e0">&#9670;&#160;</a></span>~PacketLog()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">PacketLog::~PacketLog </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   67</span>{</div>
+<div class="line"><span class="lineno">   68</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../df/d51/a11119.html#a03346a709f7586f6445e03b9a3b6af04">_file</a>)</div>
+<div class="line"><span class="lineno">   69</span>    {</div>
+<div class="line"><span class="lineno">   70</span>        fclose(<a class="code hl_variable" href="../../df/d51/a11119.html#a03346a709f7586f6445e03b9a3b6af04">_file</a>);</div>
+<div class="line"><span class="lineno">   71</span>    }</div>
+<div class="line"><span class="lineno">   72</span> </div>
+<div class="line"><span class="lineno">   73</span>    <a class="code hl_variable" href="../../df/d51/a11119.html#a03346a709f7586f6445e03b9a3b6af04">_file</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   74</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00049">_file</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a322cf3a0d8707becb9dcc64548d4cce5" name="a322cf3a0d8707becb9dcc64548d4cce5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a322cf3a0d8707becb9dcc64548d4cce5">&#9670;&#160;</a></span>CanLogPacket()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool PacketLog::CanLogPacket </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   45</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../df/d51/a11119.html#a03346a709f7586f6445e03b9a3b6af04">_file</a> != <span class="keyword">nullptr</span>); }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00082">Initialize()</a>.</p>
+
+</div>
+</div>
+<a id="aea6ccfd41bc147557b7c5066fe18afa6" name="aea6ccfd41bc147557b7c5066fe18afa6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aea6ccfd41bc147557b7c5066fe18afa6">&#9670;&#160;</a></span>Initialize()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PacketLog::Initialize </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   83</span>{</div>
+<div class="line"><span class="lineno">   84</span>    std::string logsDir = <a class="code hl_define" href="../../d9/d57/a04295.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;LogsDir&quot;</span>, <span class="stringliteral">&quot;&quot;</span>);</div>
+<div class="line"><span class="lineno">   85</span> </div>
+<div class="line"><span class="lineno">   86</span>    <span class="keywordflow">if</span> (!logsDir.empty() &amp;&amp; (logsDir.at(logsDir.length() - 1) != <span class="charliteral">&#39;/&#39;</span>) &amp;&amp; (logsDir.at(logsDir.length() - 1) != <span class="charliteral">&#39;\\&#39;</span>))</div>
+<div class="line"><span class="lineno">   87</span>    {</div>
+<div class="line"><span class="lineno">   88</span>        logsDir.push_back(<span class="charliteral">&#39;/&#39;</span>);</div>
+<div class="line"><span class="lineno">   89</span>    }</div>
+<div class="line"><span class="lineno">   90</span> </div>
+<div class="line"><span class="lineno">   91</span>    std::string logname = <a class="code hl_define" href="../../d9/d57/a04295.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;PacketLogFile&quot;</span>, <span class="stringliteral">&quot;&quot;</span>);</div>
+<div class="line"><span class="lineno">   92</span>    <span class="keywordflow">if</span> (!logname.empty())</div>
+<div class="line"><span class="lineno">   93</span>    {</div>
+<div class="line"><span class="lineno">   94</span>        <a class="code hl_variable" href="../../df/d51/a11119.html#a03346a709f7586f6445e03b9a3b6af04">_file</a> = fopen((logsDir + logname).c_str(), <span class="stringliteral">&quot;wb&quot;</span>);</div>
+<div class="line"><span class="lineno">   95</span> </div>
+<div class="line"><span class="lineno">   96</span>        <a class="code hl_struct" href="../../d4/d98/a11107.html">LogHeader</a> header;</div>
+<div class="line"><span class="lineno">   97</span>        header.<a class="code hl_variable" href="../../d4/d98/a11107.html#a34b88d6d83daeee7827176993c152de4">Signature</a>[0] = <span class="charliteral">&#39;P&#39;</span>; header.<a class="code hl_variable" href="../../d4/d98/a11107.html#a34b88d6d83daeee7827176993c152de4">Signature</a>[1] = <span class="charliteral">&#39;K&#39;</span>; header.<a class="code hl_variable" href="../../d4/d98/a11107.html#a34b88d6d83daeee7827176993c152de4">Signature</a>[2] = <span class="charliteral">&#39;T&#39;</span>;</div>
+<div class="line"><span class="lineno">   98</span>        header.<a class="code hl_variable" href="../../d4/d98/a11107.html#abf0c90aa56c9f74e4139b4a1ead3115e">FormatVersion</a> = 0x0301;</div>
+<div class="line"><span class="lineno">   99</span>        header.<a class="code hl_variable" href="../../d4/d98/a11107.html#a95d3f116ef30a096970ee4f3dd10e2ed">SnifferId</a> = <span class="charliteral">&#39;T&#39;</span>;</div>
+<div class="line"><span class="lineno">  100</span>        header.<a class="code hl_variable" href="../../d4/d98/a11107.html#aa5ed2806342a36723f1317105ebc13fa">Build</a> = 12340;</div>
+<div class="line"><span class="lineno">  101</span>        header.<a class="code hl_variable" href="../../d4/d98/a11107.html#acdcbe4c10ad6143b756638349c185ae5">Locale</a>[0] = <span class="charliteral">&#39;e&#39;</span>; header.<a class="code hl_variable" href="../../d4/d98/a11107.html#acdcbe4c10ad6143b756638349c185ae5">Locale</a>[1] = <span class="charliteral">&#39;n&#39;</span>; header.<a class="code hl_variable" href="../../d4/d98/a11107.html#acdcbe4c10ad6143b756638349c185ae5">Locale</a>[2] = <span class="charliteral">&#39;U&#39;</span>; header.<a class="code hl_variable" href="../../d4/d98/a11107.html#acdcbe4c10ad6143b756638349c185ae5">Locale</a>[3] = <span class="charliteral">&#39;S&#39;</span>;</div>
+<div class="line"><span class="lineno">  102</span>        std::memset(header.<a class="code hl_variable" href="../../d4/d98/a11107.html#aff4e4f46725d72923bac3e197ae7d2e3">SessionKey</a>, 0, <span class="keyword">sizeof</span>(header.<a class="code hl_variable" href="../../d4/d98/a11107.html#aff4e4f46725d72923bac3e197ae7d2e3">SessionKey</a>));</div>
+<div class="line"><span class="lineno">  103</span>        header.<a class="code hl_variable" href="../../d4/d98/a11107.html#a8923983e21b7a7f1dd3ee4f21b7df592">SniffStartUnixtime</a> = <a class="code hl_function" href="../../d5/d8e/a04874.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a>().count();</div>
+<div class="line"><span class="lineno">  104</span>        header.<a class="code hl_variable" href="../../d4/d98/a11107.html#a1884076ea4fe5af08964471d0058fd4d">SniffStartTicks</a> = <a class="code hl_function" href="../../d6/d12/a04661.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
+<div class="line"><span class="lineno">  105</span>        header.<a class="code hl_variable" href="../../d4/d98/a11107.html#a88c79f6e69197e23ce191bcef187c0fe">OptionalDataSize</a> = 0;</div>
+<div class="line"><span class="lineno">  106</span> </div>
+<div class="line"><span class="lineno">  107</span>        <span class="keywordflow">if</span> (<a class="code hl_function" href="../../df/d51/a11119.html#a322cf3a0d8707becb9dcc64548d4cce5">CanLogPacket</a>())</div>
+<div class="line"><span class="lineno">  108</span>        {</div>
+<div class="line"><span class="lineno">  109</span>            fwrite(&amp;header, <span class="keyword">sizeof</span>(header), 1, <a class="code hl_variable" href="../../df/d51/a11119.html#a03346a709f7586f6445e03b9a3b6af04">_file</a>);</div>
+<div class="line"><span class="lineno">  110</span>        }</div>
+<div class="line"><span class="lineno">  111</span>    }</div>
+<div class="line"><span class="lineno">  112</span>}</div>
+<div class="ttc" id="aa04295_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../d9/d57/a04295.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:74</div></div>
+<div class="ttc" id="aa04661_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../d6/d12/a04661.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:103</div></div>
+<div class="ttc" id="aa04874_html_adbe1785d1327dedf2ac403b7cc8e99c2"><div class="ttname"><a href="../../d5/d8e/a04874.html#adbe1785d1327dedf2ac403b7cc8e99c2">GameTime::GetGameTime</a></div><div class="ttdeci">Seconds GetGameTime()</div><div class="ttdef"><b>Definition:</b> GameTime.cpp:38</div></div>
+<div class="ttc" id="aa11107_html"><div class="ttname"><a href="../../d4/d98/a11107.html">LogHeader</a></div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:29</div></div>
+<div class="ttc" id="aa11107_html_a1884076ea4fe5af08964471d0058fd4d"><div class="ttname"><a href="../../d4/d98/a11107.html#a1884076ea4fe5af08964471d0058fd4d">LogHeader::SniffStartTicks</a></div><div class="ttdeci">uint32 SniffStartTicks</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:37</div></div>
+<div class="ttc" id="aa11107_html_a34b88d6d83daeee7827176993c152de4"><div class="ttname"><a href="../../d4/d98/a11107.html#a34b88d6d83daeee7827176993c152de4">LogHeader::Signature</a></div><div class="ttdeci">char Signature[3]</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:30</div></div>
+<div class="ttc" id="aa11107_html_a88c79f6e69197e23ce191bcef187c0fe"><div class="ttname"><a href="../../d4/d98/a11107.html#a88c79f6e69197e23ce191bcef187c0fe">LogHeader::OptionalDataSize</a></div><div class="ttdeci">uint32 OptionalDataSize</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:38</div></div>
+<div class="ttc" id="aa11107_html_a8923983e21b7a7f1dd3ee4f21b7df592"><div class="ttname"><a href="../../d4/d98/a11107.html#a8923983e21b7a7f1dd3ee4f21b7df592">LogHeader::SniffStartUnixtime</a></div><div class="ttdeci">uint32 SniffStartUnixtime</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:36</div></div>
+<div class="ttc" id="aa11107_html_a95d3f116ef30a096970ee4f3dd10e2ed"><div class="ttname"><a href="../../d4/d98/a11107.html#a95d3f116ef30a096970ee4f3dd10e2ed">LogHeader::SnifferId</a></div><div class="ttdeci">uint8 SnifferId</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:32</div></div>
+<div class="ttc" id="aa11107_html_aa5ed2806342a36723f1317105ebc13fa"><div class="ttname"><a href="../../d4/d98/a11107.html#aa5ed2806342a36723f1317105ebc13fa">LogHeader::Build</a></div><div class="ttdeci">uint32 Build</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:33</div></div>
+<div class="ttc" id="aa11107_html_abf0c90aa56c9f74e4139b4a1ead3115e"><div class="ttname"><a href="../../d4/d98/a11107.html#abf0c90aa56c9f74e4139b4a1ead3115e">LogHeader::FormatVersion</a></div><div class="ttdeci">uint16 FormatVersion</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:31</div></div>
+<div class="ttc" id="aa11107_html_acdcbe4c10ad6143b756638349c185ae5"><div class="ttname"><a href="../../d4/d98/a11107.html#acdcbe4c10ad6143b756638349c185ae5">LogHeader::Locale</a></div><div class="ttdeci">char Locale[4]</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:34</div></div>
+<div class="ttc" id="aa11107_html_aff4e4f46725d72923bac3e197ae7d2e3"><div class="ttname"><a href="../../d4/d98/a11107.html#aff4e4f46725d72923bac3e197ae7d2e3">LogHeader::SessionKey</a></div><div class="ttdeci">uint8 SessionKey[40]</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:35</div></div>
+<div class="ttc" id="aa11119_html_a322cf3a0d8707becb9dcc64548d4cce5"><div class="ttname"><a href="../../df/d51/a11119.html#a322cf3a0d8707becb9dcc64548d4cce5">PacketLog::CanLogPacket</a></div><div class="ttdeci">bool CanLogPacket() const</div><div class="ttdef"><b>Definition:</b> PacketLog.h:45</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00049">_file</a>, <a class="el" href="../../#l00033">LogHeader::Build</a>, <a class="el" href="../../#l00045">CanLogPacket()</a>, <a class="el" href="../../#l00031">LogHeader::FormatVersion</a>, <a class="el" href="../../#l00038">GameTime::GetGameTime()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00034">LogHeader::Locale</a>, <a class="el" href="../../#l00038">LogHeader::OptionalDataSize</a>, <a class="el" href="../../#l00074">sConfigMgr</a>, <a class="el" href="../../#l00035">LogHeader::SessionKey</a>, <a class="el" href="../../#l00030">LogHeader::Signature</a>, <a class="el" href="../../#l00032">LogHeader::SnifferId</a>, <a class="el" href="../../#l00037">LogHeader::SniffStartTicks</a>, and <a class="el" href="../../#l00036">LogHeader::SniffStartUnixtime</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00061">PacketLog()</a>.</p>
+
+</div>
+</div>
+<a id="a484418a51ca0bf150d17b23d97979bf4" name="a484418a51ca0bf150d17b23d97979bf4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a484418a51ca0bf150d17b23d97979bf4">&#9670;&#160;</a></span>instance()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../df/d51/a11119.html">PacketLog</a> * PacketLog::instance </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   77</span>{</div>
+<div class="line"><span class="lineno">   78</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../df/d51/a11119.html">PacketLog</a> <a class="code hl_function" href="../../df/d51/a11119.html#a484418a51ca0bf150d17b23d97979bf4">instance</a>;</div>
+<div class="line"><span class="lineno">   79</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../df/d51/a11119.html#a484418a51ca0bf150d17b23d97979bf4">instance</a>;</div>
+<div class="line"><span class="lineno">   80</span>}</div>
+<div class="ttc" id="aa11119_html"><div class="ttname"><a href="../../df/d51/a11119.html">PacketLog</a></div><div class="ttdef"><b>Definition:</b> PacketLog.h:34</div></div>
+<div class="ttc" id="aa11119_html_a484418a51ca0bf150d17b23d97979bf4"><div class="ttname"><a href="../../df/d51/a11119.html#a484418a51ca0bf150d17b23d97979bf4">PacketLog::instance</a></div><div class="ttdeci">static PacketLog * instance()</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:76</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00076">instance()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00076">instance()</a>.</p>
+
+</div>
+</div>
+<a id="ac0323a6ac3856412b765d0b31dbbb37e" name="ac0323a6ac3856412b765d0b31dbbb37e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac0323a6ac3856412b765d0b31dbbb37e">&#9670;&#160;</a></span>LogPacket()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PacketLog::LogPacket </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/de6/a11127.html">WorldPacket</a> const &amp;&#160;</td>
+          <td class="paramname"><em>packet</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d06/a01832.html#a224b9163917ac32fc95a60d8c1eec3aa">Direction</a>&#160;</td>
+          <td class="paramname"><em>direction</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">boost::asio::ip::address const &amp;&#160;</td>
+          <td class="paramname"><em>addr</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>port</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  115</span>{</div>
+<div class="line"><span class="lineno">  116</span>    std::lock_guard&lt;std::mutex&gt; lock(<a class="code hl_variable" href="../../df/d51/a11119.html#aeffb6309ef859cbb346b15dc1fca5cbe">_logPacketLock</a>);</div>
+<div class="line"><span class="lineno">  117</span> </div>
+<div class="line"><span class="lineno">  118</span>    <a class="code hl_struct" href="../../d9/d70/a11111.html">PacketHeader</a> header;</div>
+<div class="line"><span class="lineno">  119</span>    header.<a class="code hl_variable" href="../../d9/d70/a11111.html#a03a38a8ceed9eb1ea5585fcfb1ab29b8">Direction</a> = direction == <a class="code hl_enumvalue" href="../../dc/d06/a01832.html#a224b9163917ac32fc95a60d8c1eec3aaae4561e948350e841223c3dc44738f476">CLIENT_TO_SERVER</a> ? 0x47534d43 : 0x47534d53;</div>
+<div class="line"><span class="lineno">  120</span>    header.<a class="code hl_variable" href="../../d9/d70/a11111.html#abe8700ec99d55a66b22f8fbb28c833fa">ConnectionId</a> = 0;</div>
+<div class="line"><span class="lineno">  121</span>    header.<a class="code hl_variable" href="../../d9/d70/a11111.html#a8fa635d0c8f77a0e39fd66501490f6ea">ArrivalTicks</a> = <a class="code hl_function" href="../../d6/d12/a04661.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
+<div class="line"><span class="lineno">  122</span> </div>
+<div class="line"><span class="lineno">  123</span>    header.<a class="code hl_variable" href="../../d9/d70/a11111.html#a03b79fe07bd5f0a1c254f2fb92a3ecba">OptionalDataSize</a> = <span class="keyword">sizeof</span>(header.<a class="code hl_variable" href="../../d9/d70/a11111.html#aa5219ee4193cccf913dabf6db5d6f57a">OptionalData</a>);</div>
+<div class="line"><span class="lineno">  124</span>    memset(header.<a class="code hl_variable" href="../../d9/d70/a11111.html#aa5219ee4193cccf913dabf6db5d6f57a">OptionalData</a>.<a class="code hl_variable" href="../../da/dfd/a11115.html#aa10551a3c7371bafa9b27919e37b16ff">SocketIPBytes</a>, 0, <span class="keyword">sizeof</span>(header.<a class="code hl_variable" href="../../d9/d70/a11111.html#aa5219ee4193cccf913dabf6db5d6f57a">OptionalData</a>.<a class="code hl_variable" href="../../da/dfd/a11115.html#aa10551a3c7371bafa9b27919e37b16ff">SocketIPBytes</a>));</div>
+<div class="line"><span class="lineno">  125</span> </div>
+<div class="line"><span class="lineno">  126</span>    <span class="keywordflow">if</span> (addr.is_v4())</div>
+<div class="line"><span class="lineno">  127</span>    {</div>
+<div class="line"><span class="lineno">  128</span>        <span class="keyword">auto</span> bytes = addr.to_v4().to_bytes();</div>
+<div class="line"><span class="lineno">  129</span>        memcpy(header.<a class="code hl_variable" href="../../d9/d70/a11111.html#aa5219ee4193cccf913dabf6db5d6f57a">OptionalData</a>.<a class="code hl_variable" href="../../da/dfd/a11115.html#aa10551a3c7371bafa9b27919e37b16ff">SocketIPBytes</a>, bytes.data(), bytes.size());</div>
+<div class="line"><span class="lineno">  130</span>    }</div>
+<div class="line"><span class="lineno">  131</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (addr.is_v6())</div>
+<div class="line"><span class="lineno">  132</span>    {</div>
+<div class="line"><span class="lineno">  133</span>        <span class="keyword">auto</span> bytes = addr.to_v6().to_bytes();</div>
+<div class="line"><span class="lineno">  134</span>        memcpy(header.<a class="code hl_variable" href="../../d9/d70/a11111.html#aa5219ee4193cccf913dabf6db5d6f57a">OptionalData</a>.<a class="code hl_variable" href="../../da/dfd/a11115.html#aa10551a3c7371bafa9b27919e37b16ff">SocketIPBytes</a>, bytes.data(), bytes.size());</div>
+<div class="line"><span class="lineno">  135</span>    }</div>
+<div class="line"><span class="lineno">  136</span> </div>
+<div class="line"><span class="lineno">  137</span>    header.<a class="code hl_variable" href="../../d9/d70/a11111.html#aa5219ee4193cccf913dabf6db5d6f57a">OptionalData</a>.<a class="code hl_variable" href="../../da/dfd/a11115.html#a6e6fb49cad093530f6ba650ca2ff57af">SocketPort</a> = port;</div>
+<div class="line"><span class="lineno">  138</span>    header.<a class="code hl_variable" href="../../d9/d70/a11111.html#ab889533c6ebe4a8b3dbf0a2a5fef06dc">Length</a> = packet.size() + <span class="keyword">sizeof</span>(header.<a class="code hl_variable" href="../../d9/d70/a11111.html#a7fcc9281cd10ecf79929f9f17c855b65">Opcode</a>);</div>
+<div class="line"><span class="lineno">  139</span>    header.<a class="code hl_variable" href="../../d9/d70/a11111.html#a7fcc9281cd10ecf79929f9f17c855b65">Opcode</a> = packet.GetOpcode();</div>
+<div class="line"><span class="lineno">  140</span> </div>
+<div class="line"><span class="lineno">  141</span>    fwrite(&amp;header, <span class="keyword">sizeof</span>(header), 1, <a class="code hl_variable" href="../../df/d51/a11119.html#a03346a709f7586f6445e03b9a3b6af04">_file</a>);</div>
+<div class="line"><span class="lineno">  142</span> </div>
+<div class="line"><span class="lineno">  143</span>    <span class="keywordflow">if</span> (!packet.empty())</div>
+<div class="line"><span class="lineno">  144</span>    {</div>
+<div class="line"><span class="lineno">  145</span>        fwrite(packet.contents(), 1, packet.size(), <a class="code hl_variable" href="../../df/d51/a11119.html#a03346a709f7586f6445e03b9a3b6af04">_file</a>);</div>
+<div class="line"><span class="lineno">  146</span>    }</div>
+<div class="line"><span class="lineno">  147</span> </div>
+<div class="line"><span class="lineno">  148</span>    fflush(<a class="code hl_variable" href="../../df/d51/a11119.html#a03346a709f7586f6445e03b9a3b6af04">_file</a>);</div>
+<div class="line"><span class="lineno">  149</span>}</div>
+<div class="ttc" id="aa01832_html_a224b9163917ac32fc95a60d8c1eec3aaae4561e948350e841223c3dc44738f476"><div class="ttname"><a href="../../dc/d06/a01832.html#a224b9163917ac32fc95a60d8c1eec3aaae4561e948350e841223c3dc44738f476">CLIENT_TO_SERVER</a></div><div class="ttdeci">@ CLIENT_TO_SERVER</div><div class="ttdef"><b>Definition:</b> PacketLog.h:27</div></div>
+<div class="ttc" id="aa11111_html"><div class="ttname"><a href="../../d9/d70/a11111.html">PacketHeader</a></div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:42</div></div>
+<div class="ttc" id="aa11111_html_a03a38a8ceed9eb1ea5585fcfb1ab29b8"><div class="ttname"><a href="../../d9/d70/a11111.html#a03a38a8ceed9eb1ea5585fcfb1ab29b8">PacketHeader::Direction</a></div><div class="ttdeci">uint32 Direction</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:50</div></div>
+<div class="ttc" id="aa11111_html_a03b79fe07bd5f0a1c254f2fb92a3ecba"><div class="ttname"><a href="../../d9/d70/a11111.html#a03b79fe07bd5f0a1c254f2fb92a3ecba">PacketHeader::OptionalDataSize</a></div><div class="ttdeci">uint32 OptionalDataSize</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:53</div></div>
+<div class="ttc" id="aa11111_html_a7fcc9281cd10ecf79929f9f17c855b65"><div class="ttname"><a href="../../d9/d70/a11111.html#a7fcc9281cd10ecf79929f9f17c855b65">PacketHeader::Opcode</a></div><div class="ttdeci">uint32 Opcode</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:56</div></div>
+<div class="ttc" id="aa11111_html_a8fa635d0c8f77a0e39fd66501490f6ea"><div class="ttname"><a href="../../d9/d70/a11111.html#a8fa635d0c8f77a0e39fd66501490f6ea">PacketHeader::ArrivalTicks</a></div><div class="ttdeci">uint32 ArrivalTicks</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:52</div></div>
+<div class="ttc" id="aa11111_html_aa5219ee4193cccf913dabf6db5d6f57a"><div class="ttname"><a href="../../d9/d70/a11111.html#aa5219ee4193cccf913dabf6db5d6f57a">PacketHeader::OptionalData</a></div><div class="ttdeci">OptionalData OptionalData</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:55</div></div>
+<div class="ttc" id="aa11111_html_ab889533c6ebe4a8b3dbf0a2a5fef06dc"><div class="ttname"><a href="../../d9/d70/a11111.html#ab889533c6ebe4a8b3dbf0a2a5fef06dc">PacketHeader::Length</a></div><div class="ttdeci">uint32 Length</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:54</div></div>
+<div class="ttc" id="aa11111_html_abe8700ec99d55a66b22f8fbb28c833fa"><div class="ttname"><a href="../../d9/d70/a11111.html#abe8700ec99d55a66b22f8fbb28c833fa">PacketHeader::ConnectionId</a></div><div class="ttdeci">uint32 ConnectionId</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:51</div></div>
+<div class="ttc" id="aa11115_html_a6e6fb49cad093530f6ba650ca2ff57af"><div class="ttname"><a href="../../da/dfd/a11115.html#a6e6fb49cad093530f6ba650ca2ff57af">PacketHeader::OptionalData::SocketPort</a></div><div class="ttdeci">uint32 SocketPort</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:47</div></div>
+<div class="ttc" id="aa11115_html_aa10551a3c7371bafa9b27919e37b16ff"><div class="ttname"><a href="../../da/dfd/a11115.html#aa10551a3c7371bafa9b27919e37b16ff">PacketHeader::OptionalData::SocketIPBytes</a></div><div class="ttdeci">uint8 SocketIPBytes[16]</div><div class="ttdef"><b>Definition:</b> PacketLog.cpp:46</div></div>
+<div class="ttc" id="aa11119_html_aeffb6309ef859cbb346b15dc1fca5cbe"><div class="ttname"><a href="../../df/d51/a11119.html#aeffb6309ef859cbb346b15dc1fca5cbe">PacketLog::_logPacketLock</a></div><div class="ttdeci">std::mutex _logPacketLock</div><div class="ttdef"><b>Definition:</b> PacketLog.h:38</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00049">_file</a>, <a class="el" href="../../#l00038">_logPacketLock</a>, <a class="el" href="../../#l00052">PacketHeader::ArrivalTicks</a>, <a class="el" href="../../#l00027">CLIENT_TO_SERVER</a>, <a class="el" href="../../#l00051">PacketHeader::ConnectionId</a>, <a class="el" href="../../#l00424">ByteBuffer::contents()</a>, <a class="el" href="../../#l00050">PacketHeader::Direction</a>, <a class="el" href="../../#l00445">ByteBuffer::empty()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00075">WorldPacket::GetOpcode()</a>, <a class="el" href="../../#l00054">PacketHeader::Length</a>, <a class="el" href="../../#l00056">PacketHeader::Opcode</a>, <a class="el" href="../../#l00055">PacketHeader::OptionalData</a>, <a class="el" href="../../#l00053">PacketHeader::OptionalDataSize</a>, <a class="el" href="../../#l00444">ByteBuffer::size()</a>, <a class="el" href="../../#l00046">PacketHeader::OptionalData::SocketIPBytes</a>, and <a class="el" href="../../#l00047">PacketHeader::OptionalData::SocketPort</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a03346a709f7586f6445e03b9a3b6af04" name="a03346a709f7586f6445e03b9a3b6af04"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a03346a709f7586f6445e03b9a3b6af04">&#9670;&#160;</a></span>_file</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">FILE* PacketLog::_file</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00082">Initialize()</a>, <a class="el" href="../../#l00114">LogPacket()</a>, and <a class="el" href="../../#l00066">~PacketLog()</a>.</p>
+
+</div>
+</div>
+<a id="a490cafe009f7b2ecb303a76c781f8960" name="a490cafe009f7b2ecb303a76c781f8960"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a490cafe009f7b2ecb303a76c781f8960">&#9670;&#160;</a></span>_initializeFlag</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::once_flag PacketLog::_initializeFlag</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00061">PacketLog()</a>.</p>
+
+</div>
+</div>
+<a id="aeffb6309ef859cbb346b15dc1fca5cbe" name="aeffb6309ef859cbb346b15dc1fca5cbe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeffb6309ef859cbb346b15dc1fca5cbe">&#9670;&#160;</a></span>_logPacketLock</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::mutex PacketLog::_logPacketLock</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00114">LogPacket()</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Sep 22 2025 20:46:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/d51/a11119.html">PacketLog</a></li>
+    <li class="footer">Generated on Mon Sep 29 2025 20:47:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

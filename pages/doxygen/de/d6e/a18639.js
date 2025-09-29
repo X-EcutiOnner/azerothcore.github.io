@@ -1,8 +1,6 @@
 var a18639 =
 [
-    [ "CountTargets", "de/d6e/a18639.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
-    [ "HandleScript", "de/d6e/a18639.html#af058a0c458463bdba4a4eb73aa91c113", null ],
-    [ "PrepareSpellScript", "de/d6e/a18639.html#a83b2fad7cdc189a17129e25a015952ff", null ],
-    [ "Register", "de/d6e/a18639.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
-    [ "Validate", "de/d6e/a18639.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
+    [ "ManaVoidSelector", "de/d6e/a18639.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "de/d6e/a18639.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "de/d6e/a18639.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

@@ -1,5 +1,7 @@
 var a11739 =
 [
-    [ "npcEntry", "d1/d7f/a11739.html#a866b12ea5416f36c36bbea1a35a6a490", null ],
-    [ "spellId", "d1/d7f/a11739.html#a8c2fd26e0e9de5f9292c8b993ba9f9be", null ]
+    [ "achievement_commandscript", "d1/d7f/a11739.html#ac1c40d7b3b628cc206c44eae18592292", null ],
+    [ "GetCommands", "d1/d7f/a11739.html#adeac4e6f74f006daa76b0ebb8ea1469c", null ],
+    [ "HandleAchievementAddCommand", "d1/d7f/a11739.html#ac4f6addfb0c52d584bf8081436aa3d7a", null ],
+    [ "HandleAchievementCheckAllCommand", "d1/d7f/a11739.html#a0e3b83961ff20899a8492c8d8b7c13be", null ]
 ];

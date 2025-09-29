@@ -1,6 +1,11 @@
 var a18243 =
 [
-    [ "npc_valkyr_shadowguardAI", "d2/d95/a18247.html", "d2/d95/a18247" ],
-    [ "npc_valkyr_shadowguard", "db/d31/a18243.html#a8ee90e21499eebf240c57419454c3829", null ],
-    [ "GetAI", "db/d31/a18243.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
+    [ "npc_ice_tombAI", "db/d31/a18243.html#ab2cd26a6f50f42f2773f8a7b522289ec", null ],
+    [ "DamageTaken", "db/d31/a18243.html#aa1451254b5eaa1332b87f2d817e1f3a7", null ],
+    [ "JustDied", "db/d31/a18243.html#a237f27260aaa9176d81b67b11d063660", null ],
+    [ "SetGUID", "db/d31/a18243.html#a629acf2cc7530c2b82bb37a129d4431a", null ],
+    [ "UpdateAI", "db/d31/a18243.html#a2f613f1f4fd51dac767b97fd9b96af44", null ],
+    [ "_asphyxiationTimer", "db/d31/a18243.html#a6790d9c852279624a549f60bf26e1eb2", null ],
+    [ "_existenceCheckTimer", "db/d31/a18243.html#ab3dbf40235549be89e42951d93593ea2", null ],
+    [ "_trappedPlayerGUID", "db/d31/a18243.html#a8a7666594e59bdac449f2284387b8e2c", null ]
 ];

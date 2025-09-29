@@ -1,6 +1,8 @@
 var a20743 =
 [
-    [ "boss_yoggsaron_cloudAI", "de/d02/a20747.html", "de/d02/a20747" ],
-    [ "boss_yoggsaron_cloud", "d0/d20/a20743.html#ab52cc1fa8b45b70dde340b9f463ef2f1", null ],
-    [ "GetAI", "d0/d20/a20743.html#a2005f062eb9d78c7b09b045eba570b98", null ]
+    [ "npc_ulduar_expedition_commanderAI", "de/d02/a20747.html", "de/d02/a20747" ],
+    [ "npc_ulduar_expedition_commander", "d0/d20/a20743.html#a8513554f686b75c29524fa5b2fa93ee4", null ],
+    [ "GetAI", "d0/d20/a20743.html#aa888a3634a643a103075d44c8f52d28a", null ],
+    [ "OnGossipHello", "d0/d20/a20743.html#a6b52abae7ec1be10fcb5385ec928b785", null ],
+    [ "OnGossipSelect", "d0/d20/a20743.html#a5d212e5e21d9ffb8c60e883e065c1801", null ]
 ];

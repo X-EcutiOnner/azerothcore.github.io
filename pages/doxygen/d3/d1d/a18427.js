@@ -1,7 +1,7 @@
 var a18427 =
 [
-    [ "npc_valithria_portalAI", "d3/d1d/a18427.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
-    [ "GetData", "d3/d1d/a18427.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
-    [ "OnSpellClick", "d3/d1d/a18427.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
-    [ "_used", "d3/d1d/a18427.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
+    [ "HandleScript", "d3/d1d/a18427.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
+    [ "PrepareSpellScript", "d3/d1d/a18427.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
+    [ "Register", "d3/d1d/a18427.html#ad83d563da98ad189f2198a061b1cd50f", null ],
+    [ "Validate", "d3/d1d/a18427.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
 ];

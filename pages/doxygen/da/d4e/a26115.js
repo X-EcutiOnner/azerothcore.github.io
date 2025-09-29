@@ -1,7 +1,9 @@
 var a26115 =
 [
-    [ "FilterTargets", "da/d4e/a26115.html#ad679149423fda97ad5744318520022b1", null ],
-    [ "PrepareSpellScript", "da/d4e/a26115.html#ac57c48690c5ad1b907f56287aee949a4", null ],
-    [ "Register", "da/d4e/a26115.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
-    [ "Validate", "da/d4e/a26115.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
+    [ "OnEffectHitTargetDisarm", "da/d4e/a26115.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
+    [ "OnEffectHitTargetStun", "da/d4e/a26115.html#a5a5253b6d152b1af78de663c09451536", null ],
+    [ "OnEffectLaunchTargetDisarm", "da/d4e/a26115.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
+    [ "OnEffectLaunchTargetStun", "da/d4e/a26115.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
+    [ "PrepareSpellScript", "da/d4e/a26115.html#a113219d3376a23f8889f26f10744e7cb", null ],
+    [ "Register", "da/d4e/a26115.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
 ];

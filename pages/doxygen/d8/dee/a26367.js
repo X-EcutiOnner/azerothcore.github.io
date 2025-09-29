@@ -1,6 +1,6 @@
 var a26367 =
 [
-    [ "HandleDummy", "d8/dee/a26367.html#afb85971597df327fa44271ee0c4b3d04", null ],
-    [ "PrepareSpellScript", "d8/dee/a26367.html#a43052fedbec62cfbdbbf24fbfcbca047", null ],
-    [ "Register", "d8/dee/a26367.html#a7a249dd2bcdccf1a19d151d041a25215", null ]
+    [ "CalculateAmount", "d8/dee/a26367.html#a9c4a38bb60cc61156da5bd1b89b3e116", null ],
+    [ "PrepareAuraScript", "d8/dee/a26367.html#a5bd55cb8b992f7ceb52f7193bcdbf210", null ],
+    [ "Register", "d8/dee/a26367.html#a1f717d941f8d100eb73d7e2a3b638bad", null ]
 ];

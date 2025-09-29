@@ -1,4 +1,5 @@
 var a04172 =
 [
-    [ "ScriptRegistry< GameEventScript >", "dc/d72/a04172.html#a4026f0cd70a2a24f741b1579c24ec594", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "dc/d72/a04172.html#a411c46599e926f8cdf49c63957255359", null ],
+    [ "MverMagic", "dc/d72/a04172.html#a076cdc3e61f69e52913492840fc864cf", null ]
 ];

@@ -1,7 +1,6 @@
 var a24051 =
 [
-    [ "npc_bessyAI", "dd/d11/a24055.html", "dd/d11/a24055" ],
-    [ "npc_bessy", "d0/d5c/a24051.html#a08278c1524445054ca158433044a0824", null ],
-    [ "GetAI", "d0/d5c/a24051.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
-    [ "OnQuestAccept", "d0/d5c/a24051.html#a98b8e816195b81bab12cc9906df79807", null ]
+    [ "npc_capernian", "d0/d5c/a24051.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "d0/d5c/a24051.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "d0/d5c/a24051.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

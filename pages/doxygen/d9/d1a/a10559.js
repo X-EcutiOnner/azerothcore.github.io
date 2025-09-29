@@ -1,6 +1,8 @@
 var a10559 =
 [
-    [ "GuildInviteByName", "d9/d1a/a10559.html#a5e0bab98d87000ad796ebb2753cd566b", null ],
-    [ "Read", "d9/d1a/a10559.html#a91f3fba33e265cbb119f1d3e69d4a8ca", null ],
-    [ "Name", "d9/d1a/a10559.html#a048c7ed9de19bcb57c0cdb10e2cf3bef", null ]
+    [ "PlayedTime", "d9/d1a/a10559.html#abc477d90a27dc41a7c643448302464cf", null ],
+    [ "Write", "d9/d1a/a10559.html#a147071f2545cd91213d6c92dab7438c7", null ],
+    [ "LevelTime", "d9/d1a/a10559.html#a2bf832827f9497a59bbfac714799b4b5", null ],
+    [ "TotalTime", "d9/d1a/a10559.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
+    [ "TriggerScriptEvent", "d9/d1a/a10559.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
 ];

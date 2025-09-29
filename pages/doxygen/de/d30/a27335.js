@@ -1,6 +1,5 @@
 var a27335 =
 [
-    [ "guard_shattrath_aldorAI", "d3/d17/a27339.html", "d3/d17/a27339" ],
-    [ "guard_shattrath_aldor", "de/d30/a27335.html#ab965295d9c3828ad814f658670b5f185", null ],
-    [ "GetAI", "de/d30/a27335.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
+    [ "AreaTrigger_at_sentry_point", "de/d30/a27335.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
+    [ "OnTrigger", "de/d30/a27335.html#ab59fb74f4f988c208359855d2e4d9918", null ]
 ];

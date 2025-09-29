@@ -1,7 +1,8 @@
 var a23675 =
 [
-    [ "AfterApply", "d0/db6/a23675.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
-    [ "PrepareAuraScript", "d0/db6/a23675.html#aa98346e5f5b23fe016148426a19a719f", null ],
-    [ "Register", "d0/db6/a23675.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
-    [ "Validate", "d0/db6/a23675.html#a616d1758aa257140f4941fe12ef21e87", null ]
+    [ "npc_underbat", "d0/db6/a23675.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
+    [ "JustEngagedWith", "d0/db6/a23675.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
+    [ "Reset", "d0/db6/a23675.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
+    [ "UpdateAI", "d0/db6/a23675.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
+    [ "_scheduler", "d0/db6/a23675.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
 ];

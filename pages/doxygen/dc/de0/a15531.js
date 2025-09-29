@@ -1,7 +1,5 @@
 var a15531 =
 [
-    [ "npc_kaya_flathoofAI", "dc/de0/a15531.html#a3b43992dfeeb7b3b19e777b9629c55ce", null ],
-    [ "JustSummoned", "dc/de0/a15531.html#ac365753a428009f4fc4d01ead8fe46fd", null ],
-    [ "Reset", "dc/de0/a15531.html#af9be00be9867622a16103bd21311327f", null ],
-    [ "WaypointReached", "dc/de0/a15531.html#a8fcbb19279b925138ba96d2a450fc404", null ]
+    [ "go_ravager_cage", "dc/de0/a15531.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
+    [ "OnGossipHello", "dc/de0/a15531.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
 ];

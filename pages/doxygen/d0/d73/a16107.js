@@ -1,7 +1,11 @@
 var a16107 =
 [
-    [ "HandleDummy", "d0/d73/a16107.html#a96b430cb0546fb599da22cd675660187", null ],
-    [ "PrepareSpellScript", "d0/d73/a16107.html#ad0330cb78a330f05c18f33375f231fbc", null ],
-    [ "Register", "d0/d73/a16107.html#a70a36683a235dec6044a8a32f20c606c", null ],
-    [ "Validate", "d0/d73/a16107.html#affa7ccf869e98eacd3a153cc645d704e", null ]
+    [ "spell_hadronox_summon_periodic_aura", "d0/d73/a16107.html#afcca15cddf71c0d46bd811eab9174f1a", null ],
+    [ "HandlePeriodic", "d0/d73/a16107.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "OnApply", "d0/d73/a16107.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "d0/d73/a16107.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "d0/d73/a16107.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "d0/d73/a16107.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "d0/d73/a16107.html#a191d7eec948e0753835bd41eef66f1ec", null ],
+    [ "_spellEntry", "d0/d73/a16107.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
 ];

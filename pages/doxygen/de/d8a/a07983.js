@@ -1,8 +1,7 @@
 var a07983 =
 [
-    [ "TemporaryThreatModifierEvent", "de/d8a/a07983.html#afd58a1128ac6629d7541ba1bfd4ef886", null ],
-    [ "Execute", "de/d8a/a07983.html#a2bbd75ad5e293e78e4bffe880f371d1e", null ],
-    [ "m_owner", "de/d8a/a07983.html#ab786c99d73f0048a993ce7cee8c3b875", null ],
-    [ "m_threatValue", "de/d8a/a07983.html#aacb0f6e66d22a93ff074b4cbcf12b788", null ],
-    [ "m_threatVictimGUID", "de/d8a/a07983.html#aeae82bd80c9b8b08573c6e3baf359f55", null ]
+    [ "LfgProposalPlayer", "de/d8a/a07983.html#a80f7d0f3597201dc7fca4d08dd3b7a38", null ],
+    [ "accept", "de/d8a/a07983.html#acbf0ce1e12307569487096dc5ca544a6", null ],
+    [ "group", "de/d8a/a07983.html#a900f24e9caaa1569eeea93b4284139a1", null ],
+    [ "role", "de/d8a/a07983.html#a54ab4a0f32cc3abc7489fc9c3655fe99", null ]
 ];

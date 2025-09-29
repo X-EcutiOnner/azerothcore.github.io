@@ -1,9 +1,6 @@
 var a23279 =
 [
-    [ "boss_mennu_the_betrayer", "d2/d3b/a23279.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
-    [ "JustDied", "d2/d3b/a23279.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
-    [ "JustEngagedWith", "d2/d3b/a23279.html#a535b9af1677b8af50515818a18e88d27", null ],
-    [ "JustSummoned", "d2/d3b/a23279.html#a59949872270890ef794a77029074210b", null ],
-    [ "KilledUnit", "d2/d3b/a23279.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
-    [ "Reset", "d2/d3b/a23279.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
+    [ "HandleEffectRemove", "d2/d3b/a23279.html#a99f96034b5976615c38e13e5e55c61b6", null ],
+    [ "PrepareAuraScript", "d2/d3b/a23279.html#a0515a72abd37df13606876021659b995", null ],
+    [ "Register", "d2/d3b/a23279.html#ad7c8338ae3f3e6680405652c3e5f7f06", null ]
 ];

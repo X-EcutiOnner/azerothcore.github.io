@@ -1,6 +1,6 @@
 var a13595 =
 [
-    [ "npc_marzon_silent_bladeAI", "d3/d7d/a13599.html", "d3/d7d/a13599" ],
-    [ "npc_marzon_silent_blade", "dd/d92/a13595.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
-    [ "GetAI", "dd/d92/a13595.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
+    [ "HandleEffectApply", "dd/d92/a13595.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
+    [ "PrepareAuraScript", "dd/d92/a13595.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
+    [ "Register", "dd/d92/a13595.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
 ];

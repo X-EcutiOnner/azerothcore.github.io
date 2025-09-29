@@ -1,6 +1,10 @@
 var a25035 =
 [
-    [ "CalculateAmount", "d1/dd9/a25035.html#a66b009487462241e573ea23f081a140a", null ],
-    [ "PrepareAuraScript", "d1/dd9/a25035.html#a0eee16c77a3c3cea882b67c78826a140", null ],
-    [ "Register", "d1/dd9/a25035.html#afeafc6922b0a0389fec969e3c7191dda", null ]
+    [ "FilterTargets", "d1/dd9/a25035.html#a033c63470d406ad2249c5aa223c00b2f", null ],
+    [ "HandleFinish", "d1/dd9/a25035.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
+    [ "HandleScript", "d1/dd9/a25035.html#a2c26838015f1b21715fc1438537e15d3", null ],
+    [ "Load", "d1/dd9/a25035.html#a669aefa81d57358ef452f4c247b2ceff", null ],
+    [ "PrepareSpellScript", "d1/dd9/a25035.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
+    [ "Register", "d1/dd9/a25035.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
+    [ "haveTarget", "d1/dd9/a25035.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
 ];

@@ -1,6 +1,9 @@
 var a14615 =
 [
-    [ "HandleHeal", "db/d72/a14615.html#a953536a9a393af9472bdd89018449df0", null ],
-    [ "PrepareSpellScript", "db/d72/a14615.html#a70503fc6042001a860d361f2597b7153", null ],
-    [ "Register", "db/d72/a14615.html#a383479896e6deb96e50b827370ccfd4d", null ]
+    [ "npc_love_in_air_snivel", "db/d72/a14615.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
+    [ "AllowAction", "db/d72/a14615.html#af1097317f62bbb8f8456124001c73576", null ],
+    [ "MoveInLineOfSight", "db/d72/a14615.html#ae6537707109b95fad20e521d07867cdd", null ],
+    [ "Reset", "db/d72/a14615.html#a2385ea44d9f44735b193add4a0d0485b", null ],
+    [ "UpdateAI", "db/d72/a14615.html#a9e712994663e3442359d2f574ebc812c", null ],
+    [ "delay", "db/d72/a14615.html#a548db6245ef875ec47279246e437934c", null ]
 ];

@@ -1,9 +1,8 @@
 var a29933 =
 [
-    [ "itemId", "dd/d4d/a29933.html#ae125712e5569c9699b4748b6a15fbc12", null ],
-    [ "items_to_triggerspell", "dd/d4d/a29933.html#a8496a2f3fa3e230def04b996fc585760", null ],
-    [ "name", "dd/d4d/a29933.html#a9b62f843833d524f200782d44151503d", null ],
-    [ "required_skill_id", "dd/d4d/a29933.html#ab3058ac725fb8f105b9359d5a5147942", null ],
-    [ "required_skill_value", "dd/d4d/a29933.html#a58d0997a73cf48061545edbc0201f544", null ],
-    [ "spells", "dd/d4d/a29933.html#a8aac032992efe1bfbba0e49693562c7f", null ]
+    [ "DBCFile", "d2/d4b/a28923.html", "d2/d4b/a28923" ],
+    [ "DBCFile::Exception", "de/d0f/a28927.html", "de/d0f/a28927" ],
+    [ "DBCFile::NotFound", "d8/d62/a28931.html", "d8/d62/a28931" ],
+    [ "DBCFile::Record", "dc/d0a/a28935.html", "dc/d0a/a28935" ],
+    [ "DBCFile::Iterator", "da/da5/a28939.html", "da/da5/a28939" ]
 ];

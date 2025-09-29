@@ -1,6 +1,7 @@
 var a15651 =
 [
-    [ "npc_rivern_frostwind", "d3/dac/a15651.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
-    [ "OnGossipHello", "d3/dac/a15651.html#a90a6582633336de422c9f98973562b32", null ],
-    [ "OnGossipSelect", "d3/dac/a15651.html#a067ff91179f551633594d488eda269ed", null ]
+    [ "HandleDummy", "d3/dac/a15651.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
+    [ "PrepareSpellScript", "d3/dac/a15651.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
+    [ "Register", "d3/dac/a15651.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
+    [ "Validate", "d3/dac/a15651.html#a041c84fd605abd36b8f774903a5200dc", null ]
 ];

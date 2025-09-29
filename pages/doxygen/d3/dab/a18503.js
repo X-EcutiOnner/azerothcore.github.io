@@ -1,7 +1,7 @@
 var a18503 =
 [
-    [ "OnApply", "d3/dab/a18503.html#ac35f5d98980f54470a75a72b3578681f", null ],
-    [ "OnRemove", "d3/dab/a18503.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
-    [ "PrepareAuraScript", "d3/dab/a18503.html#a83c90d16fa151026a1e02927e31922ee", null ],
-    [ "Register", "d3/dab/a18503.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
+    [ "OnPeriodic", "d3/dab/a18503.html#a9635bf496ee3098e412ba7de633250b3", null ],
+    [ "PrepareAuraScript", "d3/dab/a18503.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
+    [ "Register", "d3/dab/a18503.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
+    [ "Validate", "d3/dab/a18503.html#a5675fef373315edd34d096bb91c733b0", null ]
 ];

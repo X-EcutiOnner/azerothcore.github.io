@@ -1,10 +1,15 @@
 var a05271 =
 [
-    [ "Find", "de/d07/a05271.html#a1d6a7cd1596aa03a8e53609c7d7b6e33", null ],
-    [ "GetElements", "de/d07/a05271.html#a653b00a9d570ae9d9276a061beda3f35", null ],
-    [ "GetElements", "de/d07/a05271.html#a209cbb9e5ba70b9f5f66e64e2c36411d", null ],
-    [ "Insert", "de/d07/a05271.html#ad61d9aa314133d8eba934fe56cff48e0", null ],
-    [ "Remove", "de/d07/a05271.html#a5a9666fc5f0136a778d8c542a386d4bf", null ],
-    [ "Size", "de/d07/a05271.html#a289258c9015016a70d2867df7e113def", null ],
-    [ "_elements", "de/d07/a05271.html#adda6657e9a0fd08b105cd4d6b2baa9d3", null ]
+    [ "iterator", "de/d07/a05271.html#a301cf316e15e5f55046c1c25ef2a4f5b", null ],
+    [ "RefMgr", "de/d07/a05271.html#a72110d71a275f564d31d2e6c84c331c3", null ],
+    [ "~RefMgr", "de/d07/a05271.html#ab386dd35fa62dbf7f1ba2131e6e99f7c", null ],
+    [ "begin", "de/d07/a05271.html#aacaf11c49931c87bd52b8382065447d3", null ],
+    [ "clearReferences", "de/d07/a05271.html#a912750f6257a33cd1f85079448b45928", null ],
+    [ "end", "de/d07/a05271.html#aab6573a792b9b24c3dc4a690c6ff77d9", null ],
+    [ "getFirst", "de/d07/a05271.html#a67de35d375c34c38db2b87481a141ebf", null ],
+    [ "getFirst", "de/d07/a05271.html#a2636030fdcd2312e7c2556c2da3ef948", null ],
+    [ "getLast", "de/d07/a05271.html#a6695bac4fd79bb428fd1f6a72ad6c3e3", null ],
+    [ "getLast", "de/d07/a05271.html#afab4e70c39d83e38048c5fe80166e5fa", null ],
+    [ "rbegin", "de/d07/a05271.html#a4c64b9aad3611aff0d1c419b5d5fa8f0", null ],
+    [ "rend", "de/d07/a05271.html#ae5ef045c8e3bbce625ffdc2c075b90c2", null ]
 ];

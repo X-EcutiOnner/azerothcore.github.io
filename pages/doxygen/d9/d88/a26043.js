@@ -1,9 +1,9 @@
 var a26043 =
 [
-    [ "Load", "d9/d88/a26043.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
-    [ "PrepareSpellScript", "d9/d88/a26043.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
-    [ "Register", "d9/d88/a26043.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
-    [ "TriggerHeal", "d9/d88/a26043.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
-    [ "Validate", "d9/d88/a26043.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
-    [ "healPct", "d9/d88/a26043.html#a33b4d26c34903e45b7274e369f096ce1", null ]
+    [ "CheckRequirement", "d9/d88/a26043.html#adab261a5221ca54b15cc414d291908fe", null ],
+    [ "HandleDummy", "d9/d88/a26043.html#abb7a734244bb18d75304a0510f9efb8d", null ],
+    [ "Load", "d9/d88/a26043.html#a418eef16d1e3aeff67013f45409c092a", null ],
+    [ "PrepareSpellScript", "d9/d88/a26043.html#ab3e73a456ec7384720827a4ff7f5abc7", null ],
+    [ "Register", "d9/d88/a26043.html#a5dbf60e33f2cdca3921f623cd1098948", null ],
+    [ "Validate", "d9/d88/a26043.html#a1dcba4f3c2874a952ca422b0a3cdafb1", null ]
 ];

@@ -1,9 +1,8 @@
 var a09551 =
 [
-    [ "LoginQueryHolder", "d0/ddd/a09551.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
-    [ "GetAccountId", "d0/ddd/a09551.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
-    [ "GetGuid", "d0/ddd/a09551.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
-    [ "Initialize", "d0/ddd/a09551.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
-    [ "m_accountId", "d0/ddd/a09551.html#abc8056182803af44a062fe6153fdd009", null ],
-    [ "m_guid", "d0/ddd/a09551.html#ab4696408b2e649dcdaae0bc4330c0b9e", null ]
+    [ "flags", "d0/ddd/a09551.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
+    [ "group", "d0/ddd/a09551.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
+    [ "guid", "d0/ddd/a09551.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
+    [ "name", "d0/ddd/a09551.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
+    [ "roles", "d0/ddd/a09551.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
 ];

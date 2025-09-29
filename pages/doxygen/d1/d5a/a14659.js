@@ -1,12 +1,8 @@
 var a14659 =
 [
-    [ "boss_mal_ganisAI", "d1/d5a/a14659.html#aa8b70930372cd0729686f7c6032d3152", null ],
-    [ "DamageTaken", "d1/d5a/a14659.html#a4873386266ce3b4b849377028ff746a5", null ],
-    [ "JustDied", "d1/d5a/a14659.html#a83690f4a55cfa22a979ad6897b661fcc", null ],
-    [ "JustEngagedWith", "d1/d5a/a14659.html#ad04c571e9e485a95d194946c1b3b7ffa", null ],
-    [ "KilledUnit", "d1/d5a/a14659.html#a0ec8c95f3e6ea8c243cc28d0c893c7eb", null ],
-    [ "Reset", "d1/d5a/a14659.html#abb9d38b3c26af6245bb98e131be07d4d", null ],
-    [ "UpdateAI", "d1/d5a/a14659.html#a9466254da12c3aa3c1a69e812ff1a068", null ],
-    [ "events", "d1/d5a/a14659.html#a194c002efe244b8c94a072faf72be771", null ],
-    [ "finished", "d1/d5a/a14659.html#ac4c90c814aa55781f863c958253e9df2", null ]
+    [ "OnApply", "d1/d5a/a14659.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
+    [ "OnRemove", "d1/d5a/a14659.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
+    [ "PrepareAuraScript", "d1/d5a/a14659.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
+    [ "Register", "d1/d5a/a14659.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
+    [ "Validate", "d1/d5a/a14659.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
 ];

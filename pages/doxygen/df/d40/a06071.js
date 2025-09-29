@@ -1,8 +1,9 @@
 var a06071 =
 [
-    [ "GuardAI", "df/d40/a06071.html#ac1f0ba47d8e32c65845808170330b7af", null ],
-    [ "EnterEvadeMode", "df/d40/a06071.html#af021cc31298d4a0f38a7d82ac8e02e30", null ],
-    [ "JustDied", "df/d40/a06071.html#a96820cdcb632d3a71f9deacf4998a774", null ],
-    [ "Permissible", "df/d40/a06071.html#a238f38bd3fc7cfa8ace3549f4a6199fb", null ],
-    [ "Reset", "df/d40/a06071.html#a91b12b6a50641d17a79550b9ffb5284a", null ]
+    [ "itemId", "df/d40/a06071.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
+    [ "mailTemplate", "df/d40/a06071.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
+    [ "sender", "df/d40/a06071.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
+    [ "subject", "df/d40/a06071.html#a45644f308278529f822080f8274180d8", null ],
+    [ "text", "df/d40/a06071.html#a4d57dcb4d130552f5bf756308d79307c", null ],
+    [ "titleId", "df/d40/a06071.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
 ];

@@ -1,10 +1,10 @@
 var a27387 =
 [
-    [ "npc_prof_blacksmith", "d2/daf/a27387.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
-    [ "HasWeaponSub", "d2/daf/a27387.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
-    [ "OnGossipHello", "d2/daf/a27387.html#a9a432c1ec33578949110c877fc6a686d", null ],
-    [ "OnGossipSelect", "d2/daf/a27387.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
-    [ "SendActionMenu", "d2/daf/a27387.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
-    [ "SendConfirmLearn", "d2/daf/a27387.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
-    [ "SendConfirmUnlearn", "d2/daf/a27387.html#a851dc241d944bc888a00df85bff17e3a", null ]
+    [ "boss_emerissAI", "d2/daf/a27387.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
+    [ "DamageTaken", "d2/daf/a27387.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
+    [ "ExecuteEvent", "d2/daf/a27387.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
+    [ "JustEngagedWith", "d2/daf/a27387.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
+    [ "KilledUnit", "d2/daf/a27387.html#ad851169bc09a362137e211dd10d30a1b", null ],
+    [ "Reset", "d2/daf/a27387.html#a44dfb325c4e8413662052137edc710ef", null ],
+    [ "_stage", "d2/daf/a27387.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
 ];

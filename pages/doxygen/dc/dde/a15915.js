@@ -1,6 +1,6 @@
 var a15915 =
 [
-    [ "boss_sartharion_vesperonAI", "d1/d5c/a15919.html", "d1/d5c/a15919" ],
-    [ "boss_sartharion_vesperon", "dc/dde/a15915.html#a53af67abd9f9bff7f72ee2441e885500", null ],
-    [ "GetAI", "dc/dde/a15915.html#ad045054b44910461e704c412a524bdc4", null ]
+    [ "npc_rivern_frostwind", "dc/dde/a15915.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
+    [ "OnGossipHello", "dc/dde/a15915.html#a90a6582633336de422c9f98973562b32", null ],
+    [ "OnGossipSelect", "dc/dde/a15915.html#a067ff91179f551633594d488eda269ed", null ]
 ];

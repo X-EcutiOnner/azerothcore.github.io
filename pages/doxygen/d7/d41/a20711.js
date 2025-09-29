@@ -1,6 +1,6 @@
 var a20711 =
 [
-    [ "HandleScript", "d7/d41/a20711.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
-    [ "PrepareSpellScript", "d7/d41/a20711.html#a4fd05478a145157dbd8377532033ab95", null ],
-    [ "Register", "d7/d41/a20711.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
+    [ "npc_ulduar_rocket_strike_triggerAI", "d5/d12/a20715.html", "d5/d12/a20715" ],
+    [ "npc_ulduar_rocket_strike_trigger", "d7/d41/a20711.html#a41cc84b04124bb47c24b39a48c9023b1", null ],
+    [ "GetAI", "d7/d41/a20711.html#a7715ce6646efa3728c28c4e11b25c2ed", null ]
 ];

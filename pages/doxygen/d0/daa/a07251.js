@@ -1,10 +1,12 @@
 var a07251 =
 [
-    [ "BattlegroundChatBuilder", "d0/daa/a07251.html#ad5ae3b91e81f816ca49f9358222c8b06", null ],
-    [ "do_helper", "d0/daa/a07251.html#aaeb91b7fa2efe1dd36802851e204c9c8", null ],
-    [ "operator()", "d0/daa/a07251.html#ab84296c320b09a387de6e6e6a2326b83", null ],
-    [ "_args", "d0/daa/a07251.html#a32a72bf1110179cc58dcf2df914c7389", null ],
-    [ "_msgtype", "d0/daa/a07251.html#ae73b69d72ddee4e05bb8b634a91e13b7", null ],
-    [ "_source", "d0/daa/a07251.html#aaed8a84ac72a01824d7d7fc2ea17c9af", null ],
-    [ "_textId", "d0/daa/a07251.html#a218d6cc2e99a6170b1a548fc1531e2e7", null ]
+    [ "Arena", "d0/daa/a07251.html#a74f105bc709d4728fb07f1984abfd345", null ],
+    [ "AddPlayer", "d0/daa/a07251.html#ae24fe304d35c0c09379203135e936450", null ],
+    [ "CheckWinConditions", "d0/daa/a07251.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
+    [ "EndBattleground", "d0/daa/a07251.html#a2be61602189b530a16a9ca954d180914", null ],
+    [ "FillInitialWorldStates", "d0/daa/a07251.html#a592100d0f0ed492a5cdf941e57db787f", null ],
+    [ "HandleKillPlayer", "d0/daa/a07251.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
+    [ "RemovePlayer", "d0/daa/a07251.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
+    [ "RemovePlayerAtLeave", "d0/daa/a07251.html#acae21233e11b21b612e5c051bfa7720e", null ],
+    [ "UpdateArenaWorldState", "d0/daa/a07251.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
 ];

@@ -1,5 +1,6 @@
 var a27131 =
 [
-    [ "go_mistwhisper_treasure", "d3/dbe/a27131.html#a87c90caa9f6a628cb0eea3556b58449e", null ],
-    [ "OnGossipHello", "d3/dbe/a27131.html#a03b6b19faba005ced7ff921fdf8ab493", null ]
+    [ "HandleCast", "d3/dbe/a27131.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
+    [ "PrepareSpellScript", "d3/dbe/a27131.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
+    [ "Register", "d3/dbe/a27131.html#a81bc86c83ffc70602410912870e61700", null ]
 ];

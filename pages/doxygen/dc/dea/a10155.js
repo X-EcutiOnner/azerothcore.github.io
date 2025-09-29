@@ -1,10 +1,13 @@
 var a10155 =
 [
-    [ "Flags", "dc/dea/a10155.html#abf9c2701e766951e5a211bf6bf85b175", null ],
-    [ "ID", "dc/dea/a10155.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
-    [ "needSave", "dc/dea/a10155.html#aae888b1bf10f654ee212f3d687c111e9", null ],
-    [ "needSend", "dc/dea/a10155.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
-    [ "ReputationListID", "dc/dea/a10155.html#a052caeeae1ecdca831097591e0fddaf6", null ],
-    [ "roundedUp", "dc/dea/a10155.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
-    [ "Standing", "dc/dea/a10155.html#ae87da6cada559e11a9607e194013d671", null ]
+    [ "entry", "dc/dea/a10155.html#a300fb240386044aab139e777d6244d19", null ],
+    [ "map", "dc/dea/a10155.html#a2ec529bbd5b03490899a5c3a41cf739a", null ],
+    [ "o", "dc/dea/a10155.html#a379e36eac68d8ff487c90fdb9be0e83d", null ],
+    [ "rot0", "dc/dea/a10155.html#a8b808a7545a7efaf0bf352ec663ca9ba", null ],
+    [ "rot1", "dc/dea/a10155.html#a9aa433644fc5bedbb3749eacfd9a57fd", null ],
+    [ "rot2", "dc/dea/a10155.html#ae7c9755e9ae6293b3be8bdc121040f7f", null ],
+    [ "rot3", "dc/dea/a10155.html#a60460fc3030b24eef0246dae28af2282", null ],
+    [ "x", "dc/dea/a10155.html#a1587c3d17c78e1a94a1f2bc30b831c02", null ],
+    [ "y", "dc/dea/a10155.html#ab42ebe981ba589e3d67110487bd88255", null ],
+    [ "z", "dc/dea/a10155.html#a389d430f290dbb66d46ccb81daac6f0d", null ]
 ];

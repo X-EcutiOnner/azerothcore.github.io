@@ -1,9 +1,9 @@
 var a05611 =
 [
-    [ "A", "d6/df6/a05611.html#ab94666c9208b481061cd81382ce94a5a", null ],
-    [ "clientM", "d6/df6/a05611.html#a65b25700c577d338e902dc47b4712433", null ],
-    [ "cmd", "d6/df6/a05611.html#a51b29f49e940bffa67988d9bc2b16aa4", null ],
-    [ "crc_hash", "d6/df6/a05611.html#af2ce94f814a0008c953229fb9cdff454", null ],
-    [ "number_of_keys", "d6/df6/a05611.html#ad8f9f53d462f1abd5c81413e0ed8b0a7", null ],
-    [ "securityFlags", "d6/df6/a05611.html#ae2ab466af9513c15cbcea7a20e97ddc5", null ]
+    [ "TimeTracker", "d6/df6/a05611.html#a2b9f585de223c1051136b10b03a27684", null ],
+    [ "GetExpiry", "d6/df6/a05611.html#acfc0d5503c1f5ec4d0bdc103d70dfbb3", null ],
+    [ "Passed", "d6/df6/a05611.html#a9a13002766153882150b1985a84013ad", null ],
+    [ "Reset", "d6/df6/a05611.html#a798cf19378c4de243fac01d7d51a3572", null ],
+    [ "Update", "d6/df6/a05611.html#a2009e98647f04c20cb3064e1e9e9a611", null ],
+    [ "i_expiryTime", "d6/df6/a05611.html#adf2e301fdefb32008f14ced5f1c37f33", null ]
 ];

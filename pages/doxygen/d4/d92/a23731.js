@@ -1,6 +1,11 @@
 var a23731 =
 [
-    [ "HandleCast", "d4/d92/a23731.html#a912dc3b17ab7d0818089c32610d82a16", null ],
-    [ "PrepareSpellScript", "d4/d92/a23731.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
-    [ "Register", "d4/d92/a23731.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
+    [ "boss_krosh_firehand", "d4/d92/a23731.html#a1ef3618844f086de7875f26e7e6190f9", null ],
+    [ "AttackStart", "d4/d92/a23731.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
+    [ "JustDied", "d4/d92/a23731.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
+    [ "JustEngagedWith", "d4/d92/a23731.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
+    [ "Reset", "d4/d92/a23731.html#a989c4b762a7cdb228b245e91881d97a2", null ],
+    [ "UpdateAI", "d4/d92/a23731.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
+    [ "_scheduler", "d4/d92/a23731.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
+    [ "instance", "d4/d92/a23731.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
 ];

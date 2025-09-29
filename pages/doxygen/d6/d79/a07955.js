@@ -1,9 +1,7 @@
 var a07955 =
 [
-    [ "LFGPlayerScript", "d6/d79/a07955.html#ad27ca48d9e573ad0ba155a3f7eb1ae88", null ],
-    [ "OnPlayerBindToInstance", "d6/d79/a07955.html#aeb3fd4e39ed8ba345cf3c76a232f241d", null ],
-    [ "OnPlayerLevelChanged", "d6/d79/a07955.html#afd530a2823a7187b49645c9d0625c8ba", null ],
-    [ "OnPlayerLogin", "d6/d79/a07955.html#a3b4e8775787feb8266edc52fddc7ab3a", null ],
-    [ "OnPlayerLogout", "d6/d79/a07955.html#a13c365770c90d1a44f72ab4cb8c7f903", null ],
-    [ "OnPlayerMapChanged", "d6/d79/a07955.html#ab3022d19b8d32bf0f269b2e991150a1c", null ]
+    [ "RBEntryInfo", "d6/d79/a07955.html#aa720dd6cae9ee7163bb9b84918249644", null ],
+    [ "RBEntryInfo", "d6/d79/a07955.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
+    [ "comment", "d6/d79/a07955.html#a7284eac7208dba21a52b79257aad7dbc", null ],
+    [ "roles", "d6/d79/a07955.html#ab891dec65b0070ede1233080eadd0190", null ]
 ];

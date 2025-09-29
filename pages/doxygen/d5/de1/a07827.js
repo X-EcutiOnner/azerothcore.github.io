@@ -1,7 +1,6 @@
 var a07827 =
 [
-    [ "CreatureSpellCooldown", "d5/de1/a07827.html#a6d234a93951992640df5720a2885be3e", null ],
-    [ "CreatureSpellCooldown", "d5/de1/a07827.html#a53364a501b0ce66e05ec0e6638f6cb6e", null ],
-    [ "category", "d5/de1/a07827.html#a27330a80d711087f1894b2ce816c33b8", null ],
-    [ "end", "d5/de1/a07827.html#a9c1c5f2b6e9a6cd015085e79b043e483", null ]
+    [ "value_type", "d5/de1/a07827.html#a8ce1d08e5d320ef2c6301475fba4a7c2", null ],
+    [ "StoreTo", "d5/de1/a07827.html#ac01b3840e65515853e26c16dd3caaf58", null ],
+    [ "tag", "d5/de1/a07827.html#abd9c16378ed02e10a25cd45111e6fc69", null ]
 ];

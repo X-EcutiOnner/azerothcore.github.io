@@ -1,7 +1,10 @@
 var a10455 =
 [
-    [ "LogoutResponse", "da/d0f/a10455.html#a434ee19fbc4d3e336444b1c62ac2be84", null ],
-    [ "Write", "da/d0f/a10455.html#a0b08225b6ac303afd20ec213aafe4bcb", null ],
-    [ "Instant", "da/d0f/a10455.html#aad6819dc426b91b6ad43f180a53e12ef", null ],
-    [ "LogoutResult", "da/d0f/a10455.html#a5543bf1a6342e9a217cd906e4a185b2e", null ]
+    [ "WorldObjectScript", "da/d0f/a10455.html#af044c3699a591c137abc5e03c772890b", null ],
+    [ "IsDatabaseBound", "da/d0f/a10455.html#a48f037dd6152ff68ebef672de68df45e", null ],
+    [ "OnWorldObjectCreate", "da/d0f/a10455.html#a2b32bc661e5a377de98902f3bc16679b", null ],
+    [ "OnWorldObjectDestroy", "da/d0f/a10455.html#a7856d4b561cd99a7f405f86fffd57fef", null ],
+    [ "OnWorldObjectResetMap", "da/d0f/a10455.html#a32e6b907a20d84377e1ddfce79b5cfe1", null ],
+    [ "OnWorldObjectSetMap", "da/d0f/a10455.html#a12cf83d65dded66b41ca54a3c1bd31cb", null ],
+    [ "OnWorldObjectUpdate", "da/d0f/a10455.html#abc139d1aa728f8a70886eed65d28f566", null ]
 ];

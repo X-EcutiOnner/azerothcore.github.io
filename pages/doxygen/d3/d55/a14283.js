@@ -1,9 +1,8 @@
 var a14283 =
 [
-    [ "spell_hallows_end_put_costume", "d3/d55/a14283.html#ac1fcd0a32142744f353cdc01bce740e3", null ],
-    [ "HandleScript", "d3/d55/a14283.html#ac4be92e73c08c06c1c9954547bfe8013", null ],
-    [ "PrepareSpellScript", "d3/d55/a14283.html#ac0e4692be1527f052a23ed52af32d042", null ],
-    [ "Register", "d3/d55/a14283.html#ac38299892d02c497e3bbae3c73a095ab", null ],
-    [ "_femaleSpell", "d3/d55/a14283.html#a5ccb30abd83ed1d0be104bffc91deca2", null ],
-    [ "_maleSpell", "d3/d55/a14283.html#af9b285133389942bea6738e518d34e48", null ]
+    [ "npc_spawn_of_marli", "d3/d55/a14283.html#a1dcd5066de108203903f5767c4b375ea", null ],
+    [ "JustEngagedWith", "d3/d55/a14283.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
+    [ "Reset", "d3/d55/a14283.html#a79ef192d41af75e0dad0494776c75189", null ],
+    [ "UpdateAI", "d3/d55/a14283.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
+    [ "_scheduler", "d3/d55/a14283.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
 ];

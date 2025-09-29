@@ -1,6 +1,9 @@
 var a12687 =
 [
-    [ "instance_karazhan_InstanceMapScript", "dc/dc4/a12691.html", "dc/dc4/a12691" ],
-    [ "instance_karazhan", "df/d39/a12687.html#a219fa0f5d691c2ae06a45d167c89d419", null ],
-    [ "GetInstanceScript", "df/d39/a12687.html#a4ce148ba13d0541ad2aaecdd1ed2f3a5", null ]
+    [ "HandleEffectApply", "df/d39/a12687.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
+    [ "HandleEffectRemove", "df/d39/a12687.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
+    [ "Load", "df/d39/a12687.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
+    [ "PrepareAuraScript", "df/d39/a12687.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
+    [ "Register", "df/d39/a12687.html#a201bafab6c483b08a6ae27054392dea9", null ],
+    [ "Validate", "df/d39/a12687.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
 ];

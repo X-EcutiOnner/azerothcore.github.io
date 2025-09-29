@@ -1,8 +1,10 @@
 var a24563 =
 [
-    [ "HandleEffectApply", "d5/d75/a24563.html#a8134145c22b99c7b75537091c386bcd1", null ],
-    [ "HandleEffectRemove", "d5/d75/a24563.html#a5d24ca41dcc75a11077da691abd902e0", null ],
-    [ "PrepareAuraScript", "d5/d75/a24563.html#ae5f1b77a6aed21faf3ad9c168a8fcaa2", null ],
-    [ "Register", "d5/d75/a24563.html#acff27aac4af2b0a0530348371fcb55b2", null ],
-    [ "Validate", "d5/d75/a24563.html#af656fbf06181436bbb020282160c1293", null ]
+    [ "npc_isla_starmaneAI", "d5/d75/a24563.html#a0cb655d324ddde173dcfdee069c0f694", null ],
+    [ "JustDied", "d5/d75/a24563.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
+    [ "JustEngagedWith", "d5/d75/a24563.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
+    [ "JustRespawned", "d5/d75/a24563.html#a69b395a9b9504737109870c5e8db74c8", null ],
+    [ "UpdateEscortAI", "d5/d75/a24563.html#af4b8c80e7443bb671be253238b124910", null ],
+    [ "WaypointReached", "d5/d75/a24563.html#a5d00583afa4e811e4f3cb8400787a990", null ],
+    [ "events", "d5/d75/a24563.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
 ];

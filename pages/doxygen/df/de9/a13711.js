@@ -1,6 +1,6 @@
 var a13711 =
 [
-    [ "npc_tapoke_slim_jahnAI", "d6/d58/a13715.html", "d6/d58/a13715" ],
-    [ "npc_tapoke_slim_jahn", "df/de9/a13711.html#a61e36b57f8ba78c371d454efb1512579", null ],
-    [ "GetAI", "df/de9/a13711.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
+    [ "npc_maredis_firestarAI", "df/de9/a13711.html#ac2d4ed4b205146524dcf11585d65ae12", null ],
+    [ "sGossipHello", "df/de9/a13711.html#a72790dc9525249a4b558c37c4a0bd03f", null ],
+    [ "sGossipSelect", "df/de9/a13711.html#acefb2bc09fe8f7ad77d53ee6eb8bbb71", null ]
 ];

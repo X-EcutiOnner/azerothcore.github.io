@@ -1,7 +1,5 @@
 var a21203 =
 [
-    [ "HandleDummy", "d5/d02/a21203.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
-    [ "PrepareSpellScript", "d5/d02/a21203.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
-    [ "Register", "d5/d02/a21203.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
-    [ "Validate", "d5/d02/a21203.html#a92f99501ee1582873586d2405b224f4f", null ]
+    [ "achievement_yogg_saron_drive_me_crazy", "d5/d02/a21203.html#a381d8fd2e7b4806181959a1b915f3a8c", null ],
+    [ "OnCheck", "d5/d02/a21203.html#a029fdd68e0643b53971efbb1056f19d8", null ]
 ];

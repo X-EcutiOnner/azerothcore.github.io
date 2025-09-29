@@ -1,9 +1,10 @@
 var a04967 =
 [
-    [ "ManagedModel", "da/d70/a04967.html#ab641724be7e7791c2c95982acc13f3b0", null ],
-    [ "decRefCount", "da/d70/a04967.html#a5a104acbc0661b19ba2a662dc669b73d", null ],
-    [ "getModel", "da/d70/a04967.html#a053fc6647a16746fba19a0795610fea2", null ],
-    [ "setModel", "da/d70/a04967.html#aa450ae6be22d507c36a746850629831d", null ],
-    [ "iModel", "da/d70/a04967.html#a5e20d0157691bd6036247a83eea8d19b", null ],
-    [ "iRefCount", "da/d70/a04967.html#afb30ad900a5979f98276324a1ab1c328", null ]
+    [ "DynamicTreeLocationInfoCallback", "da/d70/a04967.html#a3fcb6d535b2207e2bfedb961de856e6d", null ],
+    [ "GetHitModel", "da/d70/a04967.html#ac939625c44c7be8ba8b96d55545b657c", null ],
+    [ "GetLocationInfo", "da/d70/a04967.html#ac1c3839aa1f0e9b64390502c4ce7bb3e", null ],
+    [ "operator()", "da/d70/a04967.html#a4d2569c48cfa431282119ed5bd53ffb4", null ],
+    [ "_hitModel", "da/d70/a04967.html#adef79d7627daa66d88c7146704984622", null ],
+    [ "_locationInfo", "da/d70/a04967.html#a3c9be93de73520942a8d52b78fe72438", null ],
+    [ "_phaseMask", "da/d70/a04967.html#aebe4c7cfc47b3bd2701b2b9cda2ed71e", null ]
 ];

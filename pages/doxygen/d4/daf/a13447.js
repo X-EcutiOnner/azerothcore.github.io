@@ -1,5 +1,6 @@
 var a13447 =
 [
-    [ "npc_maredis_firestarAI", "df/da6/a13451.html", "df/da6/a13451" ],
-    [ "npc_maredis_firestar", "d4/daf/a13447.html#a91015d70203597db3dda10b695565740", null ]
+    [ "FilterTargets", "d4/daf/a13447.html#a78675c3421e0243de9e136b646c56be1", null ],
+    [ "PrepareSpellScript", "d4/daf/a13447.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
+    [ "Register", "d4/daf/a13447.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
 ];

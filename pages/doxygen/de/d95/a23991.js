@@ -1,6 +1,6 @@
 var a23991 =
 [
-    [ "go_beaconAI", "db/db0/a23995.html", "db/db0/a23995" ],
-    [ "go_beacon", "de/d95/a23991.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
-    [ "GetAI", "de/d95/a23991.html#abd168f0c1ac9a64cece280758f3120d4", null ]
+    [ "instance_the_botanica_InstanceMapScript", "db/db0/a23995.html", "db/db0/a23995" ],
+    [ "instance_the_botanica", "de/d95/a23991.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
+    [ "GetInstanceScript", "de/d95/a23991.html#a335f671443ca0fb9db5956cefdf37182", null ]
 ];

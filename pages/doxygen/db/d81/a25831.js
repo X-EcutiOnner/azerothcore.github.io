@@ -1,6 +1,6 @@
 var a25831 =
 [
-    [ "CalculateDamage", "db/d81/a25831.html#a05c6a249b32f41d8d33b40d07bd3c44d", null ],
-    [ "PrepareSpellScript", "db/d81/a25831.html#ace682a64f3ca32e4f4151034ad936ea6", null ],
-    [ "Register", "db/d81/a25831.html#a6dc3beb1f857c2c2a719bd882cc3568d", null ]
+    [ "HandleProc", "db/d81/a25831.html#a04796308cb57993dea310e0aca051c46", null ],
+    [ "PrepareAuraScript", "db/d81/a25831.html#a1a0291eb2ca9073b0bac8dc8c7d22550", null ],
+    [ "Register", "db/d81/a25831.html#a191d0bcc015b92a6f2481b3b5c196cab", null ]
 ];

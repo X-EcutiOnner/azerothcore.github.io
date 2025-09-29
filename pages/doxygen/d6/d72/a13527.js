@@ -1,6 +1,7 @@
 var a13527 =
 [
-    [ "npc_bh_thalorien_dawnseekerAI", "d4/d41/a13531.html", "d4/d41/a13531" ],
-    [ "npc_bh_thalorien_dawnseeker", "d6/d72/a13527.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
-    [ "GetAI", "d6/d72/a13527.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
+    [ "OnRemove", "d6/d72/a13527.html#a2438d8c85ff2a446572286b0d058ecf1", null ],
+    [ "PrepareAuraScript", "d6/d72/a13527.html#ade353aafb960cabdb615718f41f485e8", null ],
+    [ "Register", "d6/d72/a13527.html#af1c312778a13f7fe8d174247f69258ac", null ],
+    [ "Validate", "d6/d72/a13527.html#afd75cdeb9430833fa6a59d7913c86a97", null ]
 ];

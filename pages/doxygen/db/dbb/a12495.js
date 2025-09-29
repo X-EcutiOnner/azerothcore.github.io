@@ -1,6 +1,7 @@
 var a12495 =
 [
-    [ "instance_deadmines_InstanceMapScript", "d4/dca/a12499.html", "d4/dca/a12499" ],
-    [ "instance_deadmines", "db/dbb/a12495.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
-    [ "GetInstanceScript", "db/dbb/a12495.html#ac5cb65972d52324cedf662cc44dca626", null ]
+    [ "HandleRemove", "db/dbb/a12495.html#a754b44b62c131e20e1be94b3407e2006", null ],
+    [ "PrepareAuraScript", "db/dbb/a12495.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
+    [ "Register", "db/dbb/a12495.html#a02cd375ec140f7614104b7e56df13430", null ],
+    [ "Validate", "db/dbb/a12495.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
 ];

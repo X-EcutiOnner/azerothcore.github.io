@@ -1,6 +1,9 @@
 var a13479 =
 [
-    [ "npc_augustus_the_touched", "d5/d55/a13479.html#abc84c884345f44cf780410569cdee10c", null ],
-    [ "OnGossipHello", "d5/d55/a13479.html#a81e0d4f2aaa685cd5231ea430c86e7b4", null ],
-    [ "OnGossipSelect", "d5/d55/a13479.html#a992da9b22693c1fac1148b4ba545b819", null ]
+    [ "npc_demonic_vapor_trail", "d5/d55/a13479.html#a5bd024ea050372e982a183da59b45904", null ],
+    [ "JustSummoned", "d5/d55/a13479.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
+    [ "Reset", "d5/d55/a13479.html#a9da762ab640abfaf5092034f284239af", null ],
+    [ "SpellHitTarget", "d5/d55/a13479.html#a21e2223f58156da2fbe1803554623ecd", null ],
+    [ "UpdateAI", "d5/d55/a13479.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
+    [ "_timer", "d5/d55/a13479.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
 ];

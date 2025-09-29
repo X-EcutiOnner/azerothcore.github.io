@@ -1,6 +1,11 @@
 var a23327 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "d3/d4a/a23327.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
-    [ "OnGameObjectCreate", "d3/d4a/a23327.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
-    [ "SetBossState", "d3/d4a/a23327.html#ab1e344fbf169ee40f28741217f3dca14", null ]
+    [ "boss_doomlordkazzakAI", "d3/d4a/a23327.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
+    [ "JustDied", "d3/d4a/a23327.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
+    [ "JustEngagedWith", "d3/d4a/a23327.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
+    [ "JustRespawned", "d3/d4a/a23327.html#a174912c149657f4d88446f4ac0631598", null ],
+    [ "KilledUnit", "d3/d4a/a23327.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
+    [ "Reset", "d3/d4a/a23327.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
+    [ "UpdateAI", "d3/d4a/a23327.html#a28a0a8345fcd5411491409854acef729", null ],
+    [ "_inBerserk", "d3/d4a/a23327.html#a996d17128aca96c00c8416957ebc24d0", null ]
 ];

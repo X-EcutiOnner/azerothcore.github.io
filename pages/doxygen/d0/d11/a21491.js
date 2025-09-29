@@ -1,6 +1,8 @@
 var a21491 =
 [
-    [ "npc_captured_beryl_sorcererAI", "dd/d4b/a21495.html", "dd/d4b/a21495" ],
-    [ "npc_captured_beryl_sorcerer", "d0/d11/a21491.html#ace67e76e96e3be9fa5976dc4c90041e6", null ],
-    [ "GetAI", "d0/d11/a21491.html#aa5a31390ff3c6277ebff2a5eebe72b3d", null ]
+    [ "npc_frozen_orbAI", "d0/d11/a21491.html#aa7456d1d876690e3723ee0a36866348b", null ],
+    [ "JustEngagedWith", "d0/d11/a21491.html#afd9686dbb8503d7f756b670269aed33d", null ],
+    [ "Reset", "d0/d11/a21491.html#a376dc1fcef9752e235008c4ba66e2463", null ],
+    [ "UpdateAI", "d0/d11/a21491.html#a37d7cf81197fe4344c8b847753997e93", null ],
+    [ "switchTimer", "d0/d11/a21491.html#afc63a3cf6b814df81a35b53278d722c9", null ]
 ];

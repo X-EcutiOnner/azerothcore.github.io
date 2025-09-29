@@ -1,6 +1,6 @@
 var a26711 =
 [
-    [ "CheckCast", "db/d56/a26711.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
-    [ "PrepareSpellScript", "db/d56/a26711.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
-    [ "Register", "db/d56/a26711.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
+    [ "HandleEffectPeriodic", "db/d56/a26711.html#ab283b40ceb6dcd0a835550531321ce92", null ],
+    [ "PrepareAuraScript", "db/d56/a26711.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
+    [ "Register", "db/d56/a26711.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
 ];

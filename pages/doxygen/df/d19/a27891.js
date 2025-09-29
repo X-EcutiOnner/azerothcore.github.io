@@ -1,7 +1,6 @@
 var a27891 =
 [
-    [ "cutPercent", "df/d19/a27891.html#a8581a6a5198dab10680f477a477a7c80", null ],
-    [ "depositPercent", "df/d19/a27891.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
-    [ "faction", "df/d19/a27891.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
-    [ "houseId", "df/d19/a27891.html#a1bf77c1b14731def0e3de44143df2eed", null ]
+    [ "npc_stable_masterAI", "dd/db5/a27895.html", "dd/db5/a27895" ],
+    [ "npc_stable_master", "df/d19/a27891.html#ad327340f47e10bec7f077192227b0899", null ],
+    [ "GetAI", "df/d19/a27891.html#a7e34e18d2dad465eb88b0388fa830490", null ]
 ];

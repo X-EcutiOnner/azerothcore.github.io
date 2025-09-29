@@ -1,9 +1,12 @@
 var a20043 =
 [
-    [ "boss_freya_nature_bombAI", "d4/d54/a20043.html#acbf4d330bb5bf4a032732895e8f7e35b", null ],
-    [ "Reset", "d4/d54/a20043.html#a60738702870e2cacbcdf600e9e7073b5", null ],
-    [ "UpdateAI", "d4/d54/a20043.html#a4bfa9df3e3151743485f59c4d318d7f9", null ],
-    [ "_explodeTimer", "d4/d54/a20043.html#a2af9ed2067097eec2a647f17f8b1ef71", null ],
-    [ "_goGUID", "d4/d54/a20043.html#a1a7579cc6957a52d65a1d302d5ba1da0", null ],
-    [ "Timer", "d4/d54/a20043.html#a714a582c6ec552b969624244d709d14d", null ]
+    [ "npc_auriaya_feral_defenderAI", "d4/d54/a20043.html#a32e6fa30e4c56fdd055a728ba7227beb", null ],
+    [ "DoAction", "d4/d54/a20043.html#a2b0a176dba865e90bdc22727b2860509", null ],
+    [ "JustDied", "d4/d54/a20043.html#a7e9c49d8dc47663e70c8fcbed68746e5", null ],
+    [ "Reset", "d4/d54/a20043.html#ae127a88f18f3348a0bc388d79dcd13d4", null ],
+    [ "UpdateAI", "d4/d54/a20043.html#a1edc249808e1ebdb88605c56e19c272a", null ],
+    [ "_feralEssenceStack", "d4/d54/a20043.html#aab51096b8f57528a0a27e23a306d6762", null ],
+    [ "_feralPounceTimer", "d4/d54/a20043.html#ab91df5ebee9c12d067ff83ee64effece", null ],
+    [ "_feralRushTimer", "d4/d54/a20043.html#aa45e0baf1ad43cc4b2c223d1b9d1c3c6", null ],
+    [ "summons", "d4/d54/a20043.html#a599679f93e4fc4b3b9aa00ea33dcb047", null ]
 ];

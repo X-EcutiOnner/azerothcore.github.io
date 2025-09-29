@@ -1,4 +1,5 @@
 var a22575 =
 [
-    [ "instance_mana_tombs_InstanceMapScript", "d3/db1/a22575.html#a1523ad04993ce4ddf5b503355f7c856a", null ]
+    [ "npc_wg_spirit_guideAI", "d3/db1/a22575.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
+    [ "UpdateAI", "d3/db1/a22575.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
 ];

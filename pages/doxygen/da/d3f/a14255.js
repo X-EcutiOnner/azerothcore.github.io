@@ -1,13 +1,13 @@
 var a14255 =
 [
-    [ "go_firework_show", "da/d3f/a14255.html#a42123490a9752f2187023f3f3ae56333", null ],
-    [ "InitShow", "da/d3f/a14255.html#a27dc501894beaeb88b2ff0d940c7d129", null ],
-    [ "SpawnNextFirework", "da/d3f/a14255.html#a6e9ce552bf040f2acce49c2e3eb70bab", null ],
-    [ "StartShow", "da/d3f/a14255.html#af637d1436655e44738b55040196533d3", null ],
-    [ "StopShow", "da/d3f/a14255.html#ad84f3dbb4692d03933d972ec7be6287d", null ],
-    [ "UpdateAI", "da/d3f/a14255.html#ad1bcb7a47652d62ed8633abdafc56881", null ],
-    [ "_curIdx", "da/d3f/a14255.html#a92613337cf2473e585b98b92bdcbce92", null ],
-    [ "_scheduler", "da/d3f/a14255.html#a6248d36087d8fae9cfa47f473613f886", null ],
-    [ "_show", "da/d3f/a14255.html#a4392d7e2cffa2342b53092cbd9ccea3f", null ],
-    [ "_showRunning", "da/d3f/a14255.html#ae7e870de692c61630d0fd2f44d487aa4", null ]
+    [ "npc_ohganAI", "da/d3f/a14255.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
+    [ "JustDied", "da/d3f/a14255.html#a89e506868e3191362545e34d21528b8f", null ],
+    [ "JustEngagedWith", "da/d3f/a14255.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
+    [ "KilledUnit", "da/d3f/a14255.html#a4e202eef928e54bd52160705bba5cc35", null ],
+    [ "Reset", "da/d3f/a14255.html#ac3e1bc9dc819138741eb3b4448051547", null ],
+    [ "SetGUID", "da/d3f/a14255.html#a5baf8e15902d4d8ff06c8410314327f6", null ],
+    [ "UpdateAI", "da/d3f/a14255.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
+    [ "_scheduler", "da/d3f/a14255.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
+    [ "instance", "da/d3f/a14255.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
+    [ "reviveGUID", "da/d3f/a14255.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
 ];

@@ -1,7 +1,7 @@
 var a17439 =
 [
-    [ "ExtraEffect", "da/d06/a17439.html#a65b5bc8d053a69325f42a7f23ae4dbdc", null ],
-    [ "PrepareAuraScript", "da/d06/a17439.html#a53d6013e5ec473854e1537969cb31988", null ],
-    [ "Register", "da/d06/a17439.html#a85be360bb15482ff34b7f1d04d949b1d", null ],
-    [ "Validate", "da/d06/a17439.html#ab14e7410cf542d9f4043800a3b86c664", null ]
+    [ "HandlePeriodic", "da/d06/a17439.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
+    [ "PrepareAuraScript", "da/d06/a17439.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
+    [ "Register", "da/d06/a17439.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
+    [ "Validate", "da/d06/a17439.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
 ];

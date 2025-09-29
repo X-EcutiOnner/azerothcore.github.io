@@ -1,6 +1,6 @@
 var a10659 =
 [
-    [ "GuildBankRemainingWithdrawMoney", "df/d90/a10659.html#afdb4e226091e8280b4ef26bd51edebdd", null ],
-    [ "Write", "df/d90/a10659.html#aecc28f8734a66c562c7baa1575b07ff9", null ],
-    [ "RemainingWithdrawMoney", "df/d90/a10659.html#a015ba615ebe4ea09df8233f6a85332f4", null ]
+    [ "GuildEventLogQueryResults", "df/d90/a10659.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
+    [ "Write", "df/d90/a10659.html#aa24738cdd040a883782b50189abdf240", null ],
+    [ "Entry", "df/d90/a10659.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
 ];

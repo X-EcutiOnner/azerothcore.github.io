@@ -1,7 +1,6 @@
 var a19231 =
 [
-    [ "EoEDrakeEnterVehicleEvent", "d9/d2b/a19231.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
-    [ "Execute", "d9/d2b/a19231.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
-    [ "_owner", "d9/d2b/a19231.html#ab48302fdff800afddfeec2c0d756873c", null ],
-    [ "_playerGUID", "d9/d2b/a19231.html#add56bff0695453e01f300e0434a39ec8", null ]
+    [ "boss_grobbulusAI", "de/d6b/a19235.html", "de/d6b/a19235" ],
+    [ "boss_grobbulus", "d9/d2b/a19231.html#acf1b781e86e33a363b68354d34d3c015", null ],
+    [ "GetAI", "d9/d2b/a19231.html#ae918614566a0b9979aef4e1aeaac394c", null ]
 ];

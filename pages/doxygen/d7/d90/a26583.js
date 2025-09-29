@@ -1,6 +1,6 @@
 var a26583 =
 [
-    [ "HandlePeriodic", "d7/d90/a26583.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
-    [ "PrepareAuraScript", "d7/d90/a26583.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
-    [ "Register", "d7/d90/a26583.html#ac90afe9f5d9d55faba2282a875469311", null ]
+    [ "CheckProc", "d7/d90/a26583.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
+    [ "PrepareAuraScript", "d7/d90/a26583.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
+    [ "Register", "d7/d90/a26583.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
 ];

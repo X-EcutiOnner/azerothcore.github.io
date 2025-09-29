@@ -1,6 +1,11 @@
 var a20823 =
 [
-    [ "boss_yoggsaron_influence_tentacleAI", "da/d58/a20823.html#ae7457ed8084888b1074a44dd9a7ed0c7", null ],
-    [ "DamageTaken", "da/d58/a20823.html#ad46e93ffb89c9c3ee9bfbe0f27c7117c", null ],
-    [ "JustDied", "da/d58/a20823.html#ab09c96d167b9502098b9a7a2fa1b82ec", null ]
+    [ "boss_thorim_lightning_orbAI", "da/d58/a20823.html#a14d4b9f445abfaba77bcfc52173ff705", null ],
+    [ "AttackStart", "da/d58/a20823.html#a88a885b96016788f8011dd1d3d44d992", null ],
+    [ "EnterEvadeMode", "da/d58/a20823.html#a04bc99d1bd16f8297e7da8902e4bcaab", null ],
+    [ "InitWaypoint", "da/d58/a20823.html#a420217dd9e482edc24a87dead2753321", null ],
+    [ "MoveInLineOfSight", "da/d58/a20823.html#a0ee02cdd5cedf8a6565493b9812e88ae", null ],
+    [ "Reset", "da/d58/a20823.html#a4e410303d287a4c827c279a4e7c3ca99", null ],
+    [ "WaypointReached", "da/d58/a20823.html#a141659a0ebbcc097f0f03dec30dad2ca", null ],
+    [ "Timer", "da/d58/a20823.html#ac251df35736ae44e08f82ae7bbe8fc15", null ]
 ];

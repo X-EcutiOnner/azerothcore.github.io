@@ -1,9 +1,12 @@
 var a14907 =
 [
-    [ "spell_gen_ayamiss_swarmer_loop", "d3/d8d/a14907.html#ad910e172ef6866f102fa3407f676169a", null ],
-    [ "HandleScript", "d3/d8d/a14907.html#acd0dffad436cb414deb546b192957783", null ],
-    [ "Load", "d3/d8d/a14907.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
-    [ "PrepareSpellScript", "d3/d8d/a14907.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
-    [ "Register", "d3/d8d/a14907.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
-    [ "_pathId", "d3/d8d/a14907.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
+    [ "boss_epochAI", "d3/d8d/a14907.html#a2986db39b7db92b1fa9d64cef5f8c08b", null ],
+    [ "JustDied", "d3/d8d/a14907.html#a780aa5bc86c80aaeeffad441b2873121", null ],
+    [ "JustEngagedWith", "d3/d8d/a14907.html#ae742dceac5979faebb58a133e9bd91f0", null ],
+    [ "KilledUnit", "d3/d8d/a14907.html#af41946feab7b86d812f706bd7abbf1bd", null ],
+    [ "Reset", "d3/d8d/a14907.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
+    [ "SpellHitTarget", "d3/d8d/a14907.html#ab87dfcf635a65b02be29186d2990fef3", null ],
+    [ "UpdateAI", "d3/d8d/a14907.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
+    [ "events", "d3/d8d/a14907.html#af0c1477b3d9fb48cfcf55f32e21591f4", null ],
+    [ "warps", "d3/d8d/a14907.html#a478113af1ce565c729604c6039f55551", null ]
 ];

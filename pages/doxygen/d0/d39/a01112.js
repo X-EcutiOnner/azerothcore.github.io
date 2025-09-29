@@ -1,24 +1,25 @@
 var a01112 =
 [
-    [ "RegisterShadowLabyrinthCreatureAI", "d0/d39/a01112.html#afbd2592662281ddc8b6d11567efe9a50", null ],
-    [ "ShadowLabyrinthScriptName", "d0/d39/a01112.html#ab96ece1dcc827c0af968525da00da892", null ],
-    [ "slData", "d0/d39/a01112.html#a0bb87d52cf69de5a588288e14237b87d", [
-      [ "TYPE_RITUALISTS", "d0/d39/a01112.html#a0bb87d52cf69de5a588288e14237b87da2448fcd14abb165e775c665932a04948", null ],
-      [ "TYPE_HELLMAW", "d0/d39/a01112.html#a0bb87d52cf69de5a588288e14237b87da52ac1b40043222aff2cbe571a96bd05f", null ],
-      [ "DATA_BLACKHEARTTHEINCITEREVENT", "d0/d39/a01112.html#a0bb87d52cf69de5a588288e14237b87da5e5ecb7b6f8d204717412ca517a3aa26", null ],
-      [ "DATA_GRANDMASTER_VORPIL", "d0/d39/a01112.html#a0bb87d52cf69de5a588288e14237b87dabbbeb54dc0be17516ae2b37fd91b4748", null ],
-      [ "DATA_GRANDMASTER_VORPIL_EVENT", "d0/d39/a01112.html#a0bb87d52cf69de5a588288e14237b87dad90f8f395f905f5f55ca7b675b597f8b", null ],
-      [ "DATA_MURMUR", "d0/d39/a01112.html#a0bb87d52cf69de5a588288e14237b87da50ac08073863c86c5be25a661f884900", null ],
-      [ "DATA_MURMUREVENT", "d0/d39/a01112.html#a0bb87d52cf69de5a588288e14237b87da6d821b47b03599b8b3c294d32359c13f", null ],
-      [ "MAX_ENCOUNTER", "d0/d39/a01112.html#a0bb87d52cf69de5a588288e14237b87da7913656ef56deb3793c0c5f3d999d80d", null ]
+    [ "Acore::Impl::ChatCommands::MultiConsumer< Tuple, NextType, offset >", "d6/d8f/a07563.html", "d6/d8f/a07563" ],
+    [ "Acore::Impl::ChatCommands::MultiConsumer< Tuple, Optional< NestedNextType >, offset >", "db/d1c/a07567.html", "db/d1c/a07567" ],
+    [ "Acore::Impl::ChatCommands::HandlerToTuple< T >", "d0/df8/a07571.html", null ],
+    [ "Acore::Impl::ChatCommands::HandlerToTuple< bool(ChatHandler *, Ts...)>", "da/db4/a07575.html", "da/db4/a07575" ],
+    [ "Acore::Impl::ChatCommands::CommandInvoker", "de/de7/a07579.html", "de/de7/a07579" ],
+    [ "Acore::Impl::ChatCommands::CommandPermissions", "df/ddb/a07583.html", "df/ddb/a07583" ],
+    [ "Acore::Impl::ChatCommands::ChatCommandNode", "d6/d84/a07587.html", "d6/d84/a07587" ],
+    [ "Acore::ChatCommands::ChatCommandBuilder", "d8/dd8/a07591.html", "d8/dd8/a07591" ],
+    [ "Acore::ChatCommands::ChatCommandBuilder::InvokerEntry", "dd/d55/a07595.html", "dd/d55/a07595" ],
+    [ "ChatCommand", "d0/d39/a01112.html#a399dbe5721f7277a9066752a84065ee4", null ],
+    [ "ChatCommandTable", "d0/d39/a01112.html#a7aa1549a95f760a19b9b7ffd8e669626", null ],
+    [ "TupleType", "d0/d39/a01112.html#a7dd784bc8e3d7db1d11c46886088ad76", null ],
+    [ "Console", "d0/d39/a01112.html#a6f2659123367a36f37046e5604215d6b", [
+      [ "No", "d0/d39/a01112.html#a6f2659123367a36f37046e5604215d6babafd7322c6e97d25b6299b5d6fe8920b", null ],
+      [ "Yes", "d0/d39/a01112.html#a6f2659123367a36f37046e5604215d6ba93cba07454f06a4a960172bbd6e2a435", null ]
     ] ],
-    [ "slNPCandGO", "d0/d39/a01112.html#a5aeaf5f332ee73166572f5313be89bf1", [
-      [ "NPC_CABAL_RITUALIST", "d0/d39/a01112.html#a5aeaf5f332ee73166572f5313be89bf1a726fe6195260ca333078e65a64d24f7a", null ],
-      [ "NPC_HELLMAW", "d0/d39/a01112.html#a5aeaf5f332ee73166572f5313be89bf1ad42fe7f18144f0b2ff2949b85385db8b", null ],
-      [ "GO_REFECTORY_DOOR", "d0/d39/a01112.html#a5aeaf5f332ee73166572f5313be89bf1a84947de77bc0d365a3dbc4c222a80d7c", null ],
-      [ "GO_SCREAMING_HALL_DOOR", "d0/d39/a01112.html#a5aeaf5f332ee73166572f5313be89bf1a8dcc6b729c4258a8e241fa45bff0798a", null ]
-    ] ],
-    [ "GetShadowLabyrinthAI", "d0/d39/a01112.html#a04723307a726c0b79db08448db0704db", null ],
-    [ "EncounterCount", "d0/d39/a01112.html#ae1fbcd81e7256d27efa0288994753839", null ],
-    [ "PersistentDataCount", "d0/d39/a01112.html#aa38a92afffebaf4b33726515956b256b", null ]
+    [ "ConsumeFromOffset", "d0/d39/a01112.html#a3cb927687da0e8c0bae77a78fe45d942", null ],
+    [ "GetAutoCompletionsFor", "d0/d39/a01112.html#a9a1f396a96afbd90b5c426315c8ba37d", null ],
+    [ "InvalidateCommandMap", "d0/d39/a01112.html#ade19080af583292883b932d83992c6fe", null ],
+    [ "LoadCommandMap", "d0/d39/a01112.html#a2c6cb6c985ac8fd7bb2f8b2bab1be30d", null ],
+    [ "SendCommandHelpFor", "d0/d39/a01112.html#a81e8830ce306f6cfbcd04c92d3e0cc7f", null ],
+    [ "TryExecuteCommand", "d0/d39/a01112.html#aca39508e7753f6ca5d9aa21a854c0a77", null ]
 ];

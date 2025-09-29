@@ -1,8 +1,6 @@
 var a15955 =
 [
-    [ "RestoreFight", "d4/dc9/a15955.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "RestoreFight", "d4/dc9/a15955.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "Execute", "d4/dc9/a15955.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "Execute", "d4/dc9/a15955.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "_owner", "d4/dc9/a15955.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
+    [ "HandleOpenLock", "d4/dc9/a15955.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
+    [ "PrepareSpellScript", "d4/dc9/a15955.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
+    [ "Register", "d4/dc9/a15955.html#a5dcac6f609ec93074ec3ce195101f592", null ]
 ];

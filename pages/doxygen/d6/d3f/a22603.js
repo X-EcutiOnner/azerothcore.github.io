@@ -1,5 +1,8 @@
 var a22603 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "d6/d3f/a22603.html#a037ee225b626b64436570680ae4e9ea0", null ],
-    [ "ProcessEvent", "d6/d3f/a22603.html#aba05b0edb57e6c42bd45593a51598365", null ]
+    [ "go_wg_vehicle_teleporterAI", "d6/d3f/a22603.html#af84e73765b1a4d810b41613824999186", null ],
+    [ "IsFriendly", "d6/d3f/a22603.html#adca817c8919958db888d5e9c759ad545", null ],
+    [ "IsValidVehicle", "d6/d3f/a22603.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
+    [ "UpdateAI", "d6/d3f/a22603.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
+    [ "_checkTimer", "d6/d3f/a22603.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
 ];

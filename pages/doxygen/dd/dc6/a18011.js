@@ -1,7 +1,7 @@
 var a18011 =
 [
-    [ "PeriodicTick", "dd/dc6/a18011.html#a79b63e30f37df8a961b57c4b10669800", null ],
-    [ "PrepareAuraScript", "dd/dc6/a18011.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
-    [ "Register", "dd/dc6/a18011.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
-    [ "Validate", "dd/dc6/a18011.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
+    [ "HandleSpikes", "dd/dc6/a18011.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
+    [ "PrepareSpellScript", "dd/dc6/a18011.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
+    [ "Register", "dd/dc6/a18011.html#a893345cf191d084a0f97a8464b7d381a", null ],
+    [ "Validate", "dd/dc6/a18011.html#aa6545760706d8695aefd4064c3c71c6b", null ]
 ];

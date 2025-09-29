@@ -1,8 +1,6 @@
 var a11979 =
 [
-    [ "CheckProc", "d2/d61/a11979.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "d2/d61/a11979.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "d2/d61/a11979.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "d2/d61/a11979.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "d2/d61/a11979.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "boss_vanndarAI", "d6/d3c/a11983.html", "d6/d3c/a11983" ],
+    [ "boss_vanndar", "d2/d61/a11979.html#a66d190d1b48fd2259a95d88235ffb7d2", null ],
+    [ "GetAI", "d2/d61/a11979.html#ad1879cc6123a323ada04c49a2c691349", null ]
 ];

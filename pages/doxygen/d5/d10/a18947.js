@@ -1,6 +1,7 @@
 var a18947 =
 [
-    [ "npc_boss_gothik_minionAI", "dd/db8/a18951.html", "dd/db8/a18951" ],
-    [ "npc_boss_gothik_minion", "d5/d10/a18947.html#a6cabeae812639ac179133245d85a0e15", null ],
-    [ "GetAI", "d5/d10/a18947.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
+    [ "OnPeriodic", "d5/d10/a18947.html#a32c4b856d6248062fbdc1dea13d876ac", null ],
+    [ "PrepareAuraScript", "d5/d10/a18947.html#a87260a1cd06190f5412f3cab0f448a01", null ],
+    [ "Register", "d5/d10/a18947.html#a00827210671b959a030655f6be5edac6", null ],
+    [ "Validate", "d5/d10/a18947.html#a7163fb09fd8568a7ef5a5c37147ed5b0", null ]
 ];

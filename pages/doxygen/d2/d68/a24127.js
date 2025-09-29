@@ -1,6 +1,7 @@
 var a24127 =
 [
-    [ "npcs_flanis_swiftwing_and_kagrosh", "d2/d68/a24127.html#aa95eceea94521947bd443805c8ddb52d", null ],
-    [ "OnGossipHello", "d2/d68/a24127.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
-    [ "OnGossipSelect", "d2/d68/a24127.html#aff34165955ba93e1fcd2b9731894d871", null ]
+    [ "boss_gatewatcher_gyrokill", "d2/d68/a24127.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "d2/d68/a24127.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "d2/d68/a24127.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "d2/d68/a24127.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

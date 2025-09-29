@@ -1,7 +1,5 @@
 var a10747 =
 [
-    [ "Playsound", "d5/d28/a10747.html#a955f91d0d65c64f154f99b3b9472e273", null ],
-    [ "Playsound", "d5/d28/a10747.html#aa242d4ca729d67d7fd58dc81985f22f9", null ],
-    [ "Write", "d5/d28/a10747.html#acb4bdd9a1613a158832115e4c18bfcd9", null ],
-    [ "SoundKitID", "d5/d28/a10747.html#a922cb6d06285bdf9f3d89ff990c40b0a", null ]
+    [ "SocketEnchantID", "d5/d28/a10747.html#ae682a8405a5fa1c70033d190dde25d99", null ],
+    [ "SocketIndex", "d5/d28/a10747.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
 ];

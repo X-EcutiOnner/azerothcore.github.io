@@ -1,7 +1,7 @@
 var a25463 =
 [
-    [ "CheckProc", "dd/df5/a25463.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
-    [ "HandleProc", "dd/df5/a25463.html#a5cf9cea911ead2f261522e55e94c745a", null ],
-    [ "PrepareAuraScript", "dd/df5/a25463.html#a3f2b20607f90ad641769eb284ddfab85", null ],
-    [ "Register", "dd/df5/a25463.html#a55557026689613e91aeabce1af442237", null ]
+    [ "EjectPassenger", "dd/df5/a25463.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
+    [ "PrepareSpellScript", "dd/df5/a25463.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
+    [ "Register", "dd/df5/a25463.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
+    [ "Validate", "dd/df5/a25463.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
 ];

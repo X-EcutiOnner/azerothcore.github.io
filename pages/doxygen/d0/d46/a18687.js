@@ -1,6 +1,6 @@
 var a18687 =
 [
-    [ "HandleScript", "d0/d46/a18687.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
-    [ "PrepareSpellScript", "d0/d46/a18687.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
-    [ "Register", "d0/d46/a18687.html#ad0c6d34103244cded41481c745dafe58", null ]
+    [ "npc_valithria_portalAI", "d3/dc5/a18691.html", "d3/dc5/a18691" ],
+    [ "npc_valithria_portal", "d0/d46/a18687.html#a6014d7a57dfe5d21f63c03b3efcbdfc8", null ],
+    [ "GetAI", "d0/d46/a18687.html#a9770ad0bc3732f2271876bbc84885dc0", null ]
 ];

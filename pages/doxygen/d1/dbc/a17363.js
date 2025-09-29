@@ -1,8 +1,10 @@
 var a17363 =
 [
-    [ "npc_high_overlord_saurfangAI", "d5/dd6/a17367.html", "d5/dd6/a17367" ],
-    [ "npc_high_overlord_saurfang_icc", "d1/dbc/a17363.html#ac02fe80550572e142406c2d80c0392df", null ],
-    [ "GetAI", "d1/dbc/a17363.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
-    [ "OnGossipHello", "d1/dbc/a17363.html#a515a87f751527412222cfdd968febe7c", null ],
-    [ "OnGossipSelect", "d1/dbc/a17363.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
+    [ "boss_drakkari_elementalAI", "d1/dbc/a17363.html#aad8f28b7e45a7897cb758dff90aa46d8", null ],
+    [ "DoAction", "d1/dbc/a17363.html#afc16e2da1f40ec0c0257e3bedc04c8a7", null ],
+    [ "JustDied", "d1/dbc/a17363.html#aec2878e51a12749914e3a30c0ddea900", null ],
+    [ "JustEngagedWith", "d1/dbc/a17363.html#a75cbf6a164ab4337f86b600541c563f2", null ],
+    [ "Reset", "d1/dbc/a17363.html#a3a0cd44c30eacac26bcfd1bbe2a18086", null ],
+    [ "UpdateAI", "d1/dbc/a17363.html#adb9ad99bc784a76da238ed2ee694d4f2", null ],
+    [ "events", "d1/dbc/a17363.html#abd9bef8fd2bd10a520d9569351bd925b", null ]
 ];

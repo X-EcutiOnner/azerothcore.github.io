@@ -1,5 +1,7 @@
 var a13611 =
 [
-    [ "npc_tyrion", "dc/d22/a13611.html#a85b1abd4910729c17099174def6507b1", null ],
-    [ "OnQuestAccept", "dc/d22/a13611.html#af8388a07e52a8c5708434a70d0d28cbb", null ]
+    [ "npc_singularity", "dc/d22/a13611.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "FindAndFollowTarget", "dc/d22/a13611.html#a76c21129756dec05f6f2d88cebe948c5", null ],
+    [ "Reset", "dc/d22/a13611.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "dc/d22/a13611.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

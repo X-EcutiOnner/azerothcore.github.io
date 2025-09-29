@@ -1,6 +1,7 @@
 var a16675 =
 [
-    [ "instance_drak_tharon_keep_InstanceScript", "d3/d23/a16675.html#a15f13e67c33a7d5cfb4793b6b641842c", null ],
-    [ "OnGameObjectCreate", "d3/d23/a16675.html#ab727f29fc768c00ab48bfd7e7717a29a", null ],
-    [ "OnGameObjectRemove", "d3/d23/a16675.html#ad8115d5e1ee45a586ec0c1149d690db5", null ]
+    [ "npc_toc_rogueAI", "d3/d23/a16675.html#a34027e7d10edbfba8e046f4785e37899", null ],
+    [ "myCanCast", "d3/d23/a16675.html#a85ed8e251dd8356e678536f1e3f3c93d", null ],
+    [ "UpdateAI", "d3/d23/a16675.html#a49b0655def227684f07bd60a3c1e0ce1", null ],
+    [ "events", "d3/d23/a16675.html#a1519bebb81b64d57b2b0b34a059b83f8", null ]
 ];

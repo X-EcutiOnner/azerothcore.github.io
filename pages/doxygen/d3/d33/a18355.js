@@ -1,6 +1,6 @@
 var a18355 =
 [
-    [ "npc_lk_wicked_spiritAI", "d7/df4/a18359.html", "d7/df4/a18359" ],
-    [ "npc_lk_wicked_spirit", "d3/d33/a18355.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
-    [ "GetAI", "d3/d33/a18355.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
+    [ "PeriodicTick", "d3/d33/a18355.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
+    [ "PrepareAuraScript", "d3/d33/a18355.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
+    [ "Register", "d3/d33/a18355.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
 ];

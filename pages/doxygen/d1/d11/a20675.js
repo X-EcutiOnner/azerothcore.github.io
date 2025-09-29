@@ -1,9 +1,7 @@
 var a20675 =
 [
-    [ "npc_xt002_pummellerAI", "d1/d11/a20675.html#a2942c05c93036c2e02b9a72c784441b1", null ],
-    [ "Reset", "d1/d11/a20675.html#a6542fb3e585f100f06f6be14a1346306", null ],
-    [ "UpdateAI", "d1/d11/a20675.html#a959990310303ff2102f1c03852b4ab8e", null ],
-    [ "_arcingSmashTimer", "d1/d11/a20675.html#a830fda66756dc3f34a530939116e7556", null ],
-    [ "_trampleTimer", "d1/d11/a20675.html#ae5e450601861f83b20419405bb92ef6d", null ],
-    [ "_uppercutTimer", "d1/d11/a20675.html#a5a1bdb380438070effc091ec37db6aec", null ]
+    [ "HandleEffectPeriodic", "d1/d11/a20675.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
+    [ "PrepareAuraScript", "d1/d11/a20675.html#af432e810a46e35f95bb0b3b2eaada132", null ],
+    [ "Register", "d1/d11/a20675.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
+    [ "Validate", "d1/d11/a20675.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
 ];

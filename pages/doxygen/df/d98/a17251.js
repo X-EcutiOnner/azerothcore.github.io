@@ -1,13 +1,15 @@
 var a17251 =
 [
-    [ "npc_kinetic_bombAI", "df/d98/a17251.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
-    [ "DoAction", "df/d98/a17251.html#a52e913b244e58f99745926d021dc0d95", null ],
-    [ "IsSummonedBy", "df/d98/a17251.html#a03dc3870b23105bb1d0d207adefe2541", null ],
-    [ "Reset", "df/d98/a17251.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
-    [ "UpdateAI", "df/d98/a17251.html#a1ce9bf99879796652878990a773e6a2c", null ],
-    [ "_events", "df/d98/a17251.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
-    [ "_groundZ", "df/d98/a17251.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
-    [ "_x", "df/d98/a17251.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
-    [ "_y", "df/d98/a17251.html#a5d9f4039c87e1e57234af51cd4617022", null ],
-    [ "exploded", "df/d98/a17251.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
+    [ "npc_pos_deathwhisper_necrolyteAI", "df/d98/a17251.html#ae03f3fef42fcbcecedaf38692d1e9131", null ],
+    [ "DamageTaken", "df/d98/a17251.html#aad000cc1310f22325a29131fad169cbc", null ],
+    [ "DoAction", "df/d98/a17251.html#a5d7a324073cfdbd01ae267964959f15b", null ],
+    [ "InitializeAI", "df/d98/a17251.html#ad84905d1385bce0e431c2baf1158a343", null ],
+    [ "JustEngagedWith", "df/d98/a17251.html#ae095fa3ceb484cc289a086be8c2f2552", null ],
+    [ "MoveInLineOfSight", "df/d98/a17251.html#a1d43b002628080d5faf2fd59347a7f79", null ],
+    [ "MovementInform", "df/d98/a17251.html#a849b06a045de5529706e83b03febe135", null ],
+    [ "Reset", "df/d98/a17251.html#a0e6b326b3c8102dd711c002537f2c339", null ],
+    [ "UpdateAI", "df/d98/a17251.html#ade1c91217b6c6e33bfca60a69a51bbc0", null ],
+    [ "events", "df/d98/a17251.html#a30d65bc3625ed22e11ed7e040451643c", null ],
+    [ "isInvincible", "df/d98/a17251.html#a0216b301112656fb75907ff1f0d50d0f", null ],
+    [ "pInstance", "df/d98/a17251.html#afb71e537115d36795c2568360b2d58ce", null ]
 ];

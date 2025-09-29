@@ -1,13 +1,8 @@
 var a28595 =
 [
-    [ "MPQArchive", "d4/d09/a28595.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "d4/d09/a28595.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "MPQArchive", "d4/d09/a28595.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "d4/d09/a28595.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "close", "d4/d09/a28595.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "close", "d4/d09/a28595.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "GetFileListTo", "d4/d09/a28595.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "GetFileListTo", "d4/d09/a28595.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "isOpened", "d4/d09/a28595.html#a2026335b9ede29197acfaac8513456d5", null ],
-    [ "mpq_a", "d4/d09/a28595.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
+    [ "canLink", "d4/d09/a28595.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
+    [ "categoryId", "d4/d09/a28595.html#abf285e69e8e2a90626a157cb0c50d158", null ],
+    [ "id", "d4/d09/a28595.html#a7740b26f1bde19a05b002c00eded25e3", null ],
+    [ "name", "d4/d09/a28595.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
+    [ "spellIcon", "d4/d09/a28595.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
 ];

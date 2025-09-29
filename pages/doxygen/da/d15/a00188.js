@@ -1,12 +1,13 @@
 var a00188 =
 [
-    [ "AC_COMPILER_BORLAND", "da/d15/a00188.html#ad92d7f8e69537bfc6f28bfce27856c1f", null ],
-    [ "AC_COMPILER_GNU", "da/d15/a00188.html#a8ffa78a105635ede693224673028c4ed", null ],
-    [ "AC_COMPILER_INTEL", "da/d15/a00188.html#a60132e229252e2d0020a2ba6fd0309c3", null ],
-    [ "AC_COMPILER_MICROSOFT", "da/d15/a00188.html#ac8ee3c2752751f98265e16c95cbaea47", null ],
-    [ "AC_PLATFORM", "da/d15/a00188.html#a490dd7a4e0c23e207dd9285027ae8b33", null ],
-    [ "AC_PLATFORM_APPLE", "da/d15/a00188.html#a4f72821a90afaf788ba291d1f6fb11b8", null ],
-    [ "AC_PLATFORM_INTEL", "da/d15/a00188.html#a2d79201ecf9fb7b1f6d0c131f9b7b8ba", null ],
-    [ "AC_PLATFORM_UNIX", "da/d15/a00188.html#a96b4a3022030f69221679448f34f1972", null ],
-    [ "AC_PLATFORM_WINDOWS", "da/d15/a00188.html#a15c00b0ab8f2f092270745de87d6bd8f", null ]
+    [ "FollowerAI", "dd/d51/a06275.html", "dd/d51/a06275" ],
+    [ "eFollowState", "da/d15/a00188.html#a1ec9c3a60a913ecbf16778626ccf0138", [
+      [ "STATE_FOLLOW_NONE", "da/d15/a00188.html#a1ec9c3a60a913ecbf16778626ccf0138a8d3724990b83869077eeef397588a9ae", null ],
+      [ "STATE_FOLLOW_INPROGRESS", "da/d15/a00188.html#a1ec9c3a60a913ecbf16778626ccf0138aa4c302e4ec6ca00eb8d737e1b43e9e0b", null ],
+      [ "STATE_FOLLOW_RETURNING", "da/d15/a00188.html#a1ec9c3a60a913ecbf16778626ccf0138abc2b0083c7efe88c6be3c67e20de2523", null ],
+      [ "STATE_FOLLOW_PAUSED", "da/d15/a00188.html#a1ec9c3a60a913ecbf16778626ccf0138ab64828a6eee48ed5f0060f66fef4dbe6", null ],
+      [ "STATE_FOLLOW_COMPLETE", "da/d15/a00188.html#a1ec9c3a60a913ecbf16778626ccf0138a73636e044fe9883bf259a17bc617e7c9", null ],
+      [ "STATE_FOLLOW_PREEVENT", "da/d15/a00188.html#a1ec9c3a60a913ecbf16778626ccf0138a5ed17b2670a724e36c47de32fa5e821b", null ],
+      [ "STATE_FOLLOW_POSTEVENT", "da/d15/a00188.html#a1ec9c3a60a913ecbf16778626ccf0138a77b50e5da22490d74b38dcebae6e6c6a", null ]
+    ] ]
 ];

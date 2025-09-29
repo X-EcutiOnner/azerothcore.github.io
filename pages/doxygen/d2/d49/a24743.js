@@ -1,9 +1,7 @@
 var a24743 =
 [
-    [ "FilterTargets", "d2/d49/a24743.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
-    [ "PrepareSpellScript", "d2/d49/a24743.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
-    [ "Register", "d2/d49/a24743.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
-    [ "SetTargets", "d2/d49/a24743.html#ac77e95af9b08118e87e3329eab5515ea", null ],
-    [ "Validate", "d2/d49/a24743.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
-    [ "_targets", "d2/d49/a24743.html#acc66768f54c514552f0ab01274c24f17", null ]
+    [ "CheckProc", "d2/d49/a24743.html#a64414347ed5e132c3268451653082821", null ],
+    [ "HandleProc", "d2/d49/a24743.html#a8a3eab47b8214b59275aeaa8a02e4240", null ],
+    [ "PrepareAuraScript", "d2/d49/a24743.html#a88277eeea14f7799e27a4a897e6e8c0c", null ],
+    [ "Register", "d2/d49/a24743.html#a3ce0dcd5becd38e10e2bb6e3d2f28e89", null ]
 ];

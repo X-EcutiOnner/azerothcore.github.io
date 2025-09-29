@@ -1,6 +1,9 @@
 var a21759 =
 [
-    [ "SACActivateEvent", "de/d51/a21759.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
-    [ "Execute", "de/d51/a21759.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
-    [ "_owner", "de/d51/a21759.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
+    [ "npc_captured_beryl_sorcererAI", "de/d51/a21759.html#a3c3f47022aee418f228803a2504470a3", null ],
+    [ "Initialize", "de/d51/a21759.html#a98b2ff2f0e152a41106eaace5273aa69", null ],
+    [ "MoveInLineOfSight", "de/d51/a21759.html#a4f7edf7bc7480bf0c9f6aec113b2e058", null ],
+    [ "Reset", "de/d51/a21759.html#ac96af1fd018e88950d1c58562dffdb83", null ],
+    [ "UpdateAI", "de/d51/a21759.html#a1bbefa59abce0c7b3d7b343ddc467c98", null ],
+    [ "_events", "de/d51/a21759.html#a0ba1f7ffa792c93ccd4df8ec2c80fb42", null ]
 ];

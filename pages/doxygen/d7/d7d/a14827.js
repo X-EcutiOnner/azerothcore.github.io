@@ -1,7 +1,9 @@
 var a14827 =
 [
-    [ "npc_onyxian_lair_guard", "d7/d7d/a14827.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
-    [ "JustEngagedWith", "d7/d7d/a14827.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
-    [ "UpdateAI", "d7/d7d/a14827.html#ac8649636d5847813e49d2ada05f78645", null ],
-    [ "events", "d7/d7d/a14827.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
+    [ "boss_azgalor", "d7/d7d/a14827.html#ac794e0eacc2d543fa62e4b521089f080", null ],
+    [ "DoAction", "d7/d7d/a14827.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
+    [ "JustDied", "d7/d7d/a14827.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
+    [ "JustEngagedWith", "d7/d7d/a14827.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
+    [ "KilledUnit", "d7/d7d/a14827.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
+    [ "_recentlySpoken", "d7/d7d/a14827.html#abea34396ddde0aa02a073b2f3119fec9", null ]
 ];

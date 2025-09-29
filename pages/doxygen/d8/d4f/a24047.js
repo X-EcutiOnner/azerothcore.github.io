@@ -1,5 +1,5 @@
 var a24047 =
 [
-    [ "at_commander_dawnforge", "d8/d4f/a24047.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
-    [ "OnTrigger", "d8/d4f/a24047.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
+    [ "npc_lord_sanguinar", "d8/d4f/a24047.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
+    [ "ScheduleEvents", "d8/d4f/a24047.html#af9231da98547875527a519c5884cbec0", null ]
 ];

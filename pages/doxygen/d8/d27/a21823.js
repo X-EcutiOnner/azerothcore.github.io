@@ -1,6 +1,9 @@
 var a21823 =
 [
-    [ "npc_torturer_lecraftAI", "d9/dbe/a21827.html", "d9/dbe/a21827" ],
-    [ "npc_torturer_lecraft", "d8/d27/a21823.html#a789f8bdafe96d5cb01225b940a80c651", null ],
-    [ "GetAI", "d8/d27/a21823.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
+    [ "npc_bloodmage_laurithAI", "d8/d27/a21823.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
+    [ "Reset", "d8/d27/a21823.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
+    [ "SetGUID", "d8/d27/a21823.html#a50a144cf1545117d79268d3a18a4b4ec", null ],
+    [ "UpdateAI", "d8/d27/a21823.html#a9752f518441071dd4a60cd63423bf9a3", null ],
+    [ "_events", "d8/d27/a21823.html#a35facab84094071d952792a4c3e5015d", null ],
+    [ "_playerGUID", "d8/d27/a21823.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
 ];

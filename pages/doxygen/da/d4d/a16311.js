@@ -1,7 +1,8 @@
 var a16311 =
 [
-    [ "HandleAfterHit", "da/d4d/a16311.html#a6fc446385881ddb4c94de73199649816", null ],
-    [ "PrepareSpellScript", "da/d4d/a16311.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
-    [ "Register", "da/d4d/a16311.html#aaae368b2f647aa6a56827550e50dafe1", null ],
-    [ "Validate", "da/d4d/a16311.html#ad4c84071b538b657fa1302982f8799b4", null ]
+    [ "OnApply", "da/d4d/a16311.html#a96321003a002be0e4838901f03f8a5d8", null ],
+    [ "OnRemove", "da/d4d/a16311.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
+    [ "PrepareAuraScript", "da/d4d/a16311.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
+    [ "Register", "da/d4d/a16311.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
+    [ "Validate", "da/d4d/a16311.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
 ];

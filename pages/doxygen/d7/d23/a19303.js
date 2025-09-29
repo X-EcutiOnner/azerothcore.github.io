@@ -1,6 +1,15 @@
 var a19303 =
 [
-    [ "boss_drakosAI", "dc/d37/a19307.html", "dc/d37/a19307" ],
-    [ "boss_drakos", "d7/d23/a19303.html#aa70ae2809af4f24eea0b83b42d695448", null ],
-    [ "GetAI", "d7/d23/a19303.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
+    [ "boss_maexxnaAI", "d7/d23/a19303.html#a3bf898911798eaa891ef7638a3a2cc20", null ],
+    [ "DoCastWebWrap", "d7/d23/a19303.html#a5d78455f5ba6e30df6644897b4e6ad7e", null ],
+    [ "IsInRoom", "d7/d23/a19303.html#a957bd38232c020611fc24dd8a6e55640", null ],
+    [ "JustDied", "d7/d23/a19303.html#a4f0121aedeff9d44b28e888f5f3d0382", null ],
+    [ "JustEngagedWith", "d7/d23/a19303.html#a9974fc771b3663878964aeb20914fe43", null ],
+    [ "JustSummoned", "d7/d23/a19303.html#ab45b74b3067b42089fee804844ea41dd", null ],
+    [ "KilledUnit", "d7/d23/a19303.html#a11cda2b905ef2381c317a01e4163be00", null ],
+    [ "Reset", "d7/d23/a19303.html#a78385da6845ce8e3075616c24696d0cc", null ],
+    [ "UpdateAI", "d7/d23/a19303.html#a6f0453babfa84764467970369894eb97", null ],
+    [ "events", "d7/d23/a19303.html#a6ddb73eeb18560a08e72dd6ccc5d0c83", null ],
+    [ "summons", "d7/d23/a19303.html#a7ea3de40dfd638db7e34c523a0461335", null ],
+    [ "wraps", "d7/d23/a19303.html#a3bfe3ab90ff6f401c3f7b8655e3abc05", null ]
 ];

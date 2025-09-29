@@ -1,6 +1,6 @@
 var a23475 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "df/d15/a23479.html", "df/d15/a23479" ],
-    [ "instance_blood_furnace", "d9/d88/a23475.html#a925a045fa518e72c1eff02fe3c66202b", null ],
-    [ "GetInstanceScript", "d9/d88/a23475.html#a885ba94e1777dfd6586daca304622d3d", null ]
+    [ "HandleEffectRemove", "d9/d88/a23475.html#ab4c215a735ead9959fd78972a6da72e4", null ],
+    [ "PrepareAuraScript", "d9/d88/a23475.html#a75be2f838d6773b619dfac80e32557b8", null ],
+    [ "Register", "d9/d88/a23475.html#a239068b4e4ad88b5be93a031043ad7ca", null ]
 ];

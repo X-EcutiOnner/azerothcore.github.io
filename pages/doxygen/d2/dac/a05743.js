@@ -1,14 +1,11 @@
 var a05743 =
 [
-    [ "difference_type", "d2/dac/a05743.html#aa5abd2b7fa1dc64ac1eb085521b27d6f", null ],
-    [ "iterator_category", "d2/dac/a05743.html#acaafbe30e2be9953852968b633d8237f", null ],
-    [ "pointer", "d2/dac/a05743.html#a33215a042f7b7ddb243e8434a4c26346", null ],
-    [ "reference", "d2/dac/a05743.html#a5618bd9b42f553be7feaf26fac8fe3ba", null ],
-    [ "value_type", "d2/dac/a05743.html#aa4866b181d8cd3264394657a2dac99a8", null ],
-    [ "ResultIterator", "d2/dac/a05743.html#a0a7d6ac1eee62492330353b15edb4fd0", null ],
-    [ "operator!=", "d2/dac/a05743.html#a56f56c284c3001703ec4ee6ac705066f", null ],
-    [ "operator*", "d2/dac/a05743.html#a4c7ba1d0e7251aeab6b255bf1c78defd", null ],
-    [ "operator++", "d2/dac/a05743.html#ae66f3f0e1fd5af21ff0854826fb37075", null ],
-    [ "operator->", "d2/dac/a05743.html#a0b6cee284fea4a4023cc688614432b69", null ],
-    [ "_ptr", "d2/dac/a05743.html#a0be3611fcc2a6eb680a6f4aaba57068e", null ]
+    [ "DatabaseWorker", "d2/dac/a05743.html#a64450680e7b6e31bb42ce4f79788eb27", null ],
+    [ "~DatabaseWorker", "d2/dac/a05743.html#a170c873cbc917ece6a87591450dbe5a9", null ],
+    [ "DatabaseWorker", "d2/dac/a05743.html#aa43f1d875400b0ba6c031e0811397ed3", null ],
+    [ "operator=", "d2/dac/a05743.html#a15e753c757da609b55a66380f526091a", null ],
+    [ "WorkerThread", "d2/dac/a05743.html#ab74cbccbb68bfbbab58550eced982d1a", null ],
+    [ "_connection", "d2/dac/a05743.html#a2f21d73b584d9e5f17afc7a0ac78f129", null ],
+    [ "_queue", "d2/dac/a05743.html#a9c47ad6c0d4dca85a63be45c4e678a70", null ],
+    [ "_workerThread", "d2/dac/a05743.html#ad02a90f600f1996c053f36e186edf292", null ]
 ];

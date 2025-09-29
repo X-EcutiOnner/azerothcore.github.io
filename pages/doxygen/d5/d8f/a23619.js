@@ -1,14 +1,13 @@
 var a23619 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "d5/d8f/a23619.html#aa438091d2868b26d961ee4f81e9cea11", null ],
-    [ "GetGuidData", "d5/d8f/a23619.html#a1a0623204ecaaa3623fc503783c4d766", null ],
-    [ "Initialize", "d5/d8f/a23619.html#a3761d56e59d5bf1147986978c9fdf2e3", null ],
-    [ "OnCreatureCreate", "d5/d8f/a23619.html#a9fa5637791d249553472b31c024f9fc1", null ],
-    [ "ReadSaveDataMore", "d5/d8f/a23619.html#a67bc6a2dde5c649d16ef7e2c26c6069b", null ],
-    [ "SetData", "d5/d8f/a23619.html#a566090f29d13977354fb50e68d92f046", null ],
-    [ "Update", "d5/d8f/a23619.html#aad1666c364feff4e2b7654f5894c129f", null ],
-    [ "WriteSaveDataMore", "d5/d8f/a23619.html#aaa8b1b054df41a79ac074ae48e180ee9", null ],
-    [ "ExecutionerGUID", "d5/d8f/a23619.html#aa879398b1732952eba7b2b8a822a959e", null ],
-    [ "PrisonerGUID", "d5/d8f/a23619.html#a0648efa6b0bbf4860d55f9b11f138e39", null ],
-    [ "RescueTimer", "d5/d8f/a23619.html#a8df2961264a192ab2692e3c8ca507666", null ]
+    [ "boss_ghazan", "d5/d8f/a23619.html#ae730362fcf3606c67b6b85147de98fb6", null ],
+    [ "DoAction", "d5/d8f/a23619.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
+    [ "InitializeAI", "d5/d8f/a23619.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
+    [ "JustEngagedWith", "d5/d8f/a23619.html#ad4136f0f63d267284f36756793c0efa7", null ],
+    [ "JustReachedHome", "d5/d8f/a23619.html#af9f2dd854036d5c8b9c6703499836199", null ],
+    [ "MovementInform", "d5/d8f/a23619.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
+    [ "Reset", "d5/d8f/a23619.html#afc9522a26060643f2f9d25a8a98691b7", null ],
+    [ "UpdateAI", "d5/d8f/a23619.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
+    [ "_movedToPlatform", "d5/d8f/a23619.html#aa6c0c391355ac0b698d67796efd63062", null ],
+    [ "_reachedPlatform", "d5/d8f/a23619.html#af3476318b4721bd52facaf735eabb1f9", null ]
 ];

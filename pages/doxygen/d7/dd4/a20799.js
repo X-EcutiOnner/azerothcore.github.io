@@ -1,6 +1,5 @@
 var a20799 =
 [
-    [ "boss_yoggsaron_constrictor_tentacleAI", "de/db3/a20803.html", "de/db3/a20803" ],
-    [ "boss_yoggsaron_constrictor_tentacle", "d7/dd4/a20799.html#a131809f1c691e55a33863caf6fe0c5dc", null ],
-    [ "GetAI", "d7/dd4/a20799.html#ac469d5661eb664c73bf5ab38084cb03e", null ]
+    [ "achievement_iron_dwarf_medium_rare", "d7/dd4/a20799.html#afb3716aab7693ba0493db24999e4b1ee", null ],
+    [ "OnCheck", "d7/dd4/a20799.html#aabef3a345057265ac70c6cc0c98d552d", null ]
 ];

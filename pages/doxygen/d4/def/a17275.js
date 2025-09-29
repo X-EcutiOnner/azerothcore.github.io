@@ -1,6 +1,7 @@
 var a17275 =
 [
-    [ "ChangeSummonPos", "d4/def/a17275.html#a2c3d69419762c7f78688a22017a8c535", null ],
-    [ "PrepareSpellScript", "d4/def/a17275.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
-    [ "Register", "d4/def/a17275.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
+    [ "npc_pos_icicle_triggerAI", "d4/def/a17275.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
+    [ "UpdateAI", "d4/def/a17275.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
+    [ "pInstance", "d4/def/a17275.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
+    [ "timer", "d4/def/a17275.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
 ];

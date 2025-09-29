@@ -1,10 +1,7 @@
 var a14051 =
 [
-    [ "npc_zealot_lorkhan", "dd/dac/a14051.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
-    [ "JustDied", "dd/dac/a14051.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
-    [ "JustEngagedWith", "dd/dac/a14051.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
-    [ "Reset", "dd/dac/a14051.html#abecbd4a2ea2cf3281244933fe7484239", null ],
-    [ "UpdateAI", "dd/dac/a14051.html#a68c35734f8886b2c241dcbc178899206", null ],
-    [ "_scheduler", "dd/dac/a14051.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
-    [ "instance", "dd/dac/a14051.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
+    [ "OnPeriodic", "dd/dac/a14051.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
+    [ "PrepareAuraScript", "dd/dac/a14051.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
+    [ "Register", "dd/dac/a14051.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
+    [ "Validate", "dd/dac/a14051.html#a7ed214de6769314a45540e9afdb82949", null ]
 ];

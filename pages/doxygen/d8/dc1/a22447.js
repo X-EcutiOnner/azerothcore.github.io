@@ -1,6 +1,7 @@
 var a22447 =
 [
-    [ "OutdoorPvPGH", "d8/dc1/a22447.html#a619492e0a1fdf75f37554a2f19268660", null ],
-    [ "SendRemoveWorldStates", "d8/dc1/a22447.html#a92c7e489717072ddc34f707fbe462cb2", null ],
-    [ "SetupOutdoorPvP", "d8/dc1/a22447.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
+    [ "HandleSendEvent", "d8/dc1/a22447.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
+    [ "PrepareSpellScript", "d8/dc1/a22447.html#af698a946e07235c18c8b785a1f775ec9", null ],
+    [ "Register", "d8/dc1/a22447.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
+    [ "Validate", "d8/dc1/a22447.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
 ];

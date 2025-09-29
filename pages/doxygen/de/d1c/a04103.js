@@ -1,12 +1,6 @@
 var a04103 =
 [
-    [ "ArenaTeamScript", "d3/d0d/a10290.html", "d3/d0d/a10290" ],
-    [ "ArenaTeamHook", "de/d1c/a04103.html#adfb7077026efd17516d6b85637c2b218", [
-      [ "ARENATEAMHOOK_ON_GET_SLOT_BY_TYPE", "de/d1c/a04103.html#adfb7077026efd17516d6b85637c2b218a138fd48dae9a6b0db50dd8a442045adc", null ],
-      [ "ARENATEAMHOOK_ON_GET_ARENA_POINTS", "de/d1c/a04103.html#adfb7077026efd17516d6b85637c2b218a3b21f54389f578130e4874fd75c7e6a9", null ],
-      [ "ARENATEAMHOOK_ON_TYPEID_TO_QUEUEID", "de/d1c/a04103.html#adfb7077026efd17516d6b85637c2b218ae5c1d8d5548693d43fdd43339ef152a7", null ],
-      [ "ARENATEAMHOOK_ON_QUEUEID_TO_ARENA_TYPE", "de/d1c/a04103.html#adfb7077026efd17516d6b85637c2b218a957830b5a4fb9d7a53b977999068031b", null ],
-      [ "ARENATEAMHOOK_ON_SET_ARENA_MAX_PLAYERS_PER_TEAM", "de/d1c/a04103.html#adfb7077026efd17516d6b85637c2b218aaf39f25b1610466743d5d839986bf6b6", null ],
-      [ "ARENATEAMHOOK_END", "de/d1c/a04103.html#adfb7077026efd17516d6b85637c2b218a5fe29b394fe4fe74fffe7988b90ccaf7", null ]
-    ] ]
+    [ "RealmBuildInfo", "dc/dc8/a28779.html", "dc/dc8/a28779" ],
+    [ "RealmList", "dd/d67/a28783.html", "dd/d67/a28783" ],
+    [ "sRealmList", "de/d1c/a04103.html#a639c880efde6e31a4bf6be6b5bcc3cd3", null ]
 ];

@@ -1,6 +1,12 @@
 var a07223 =
 [
-    [ "ArenaTeamFilterByTypes", "de/dbb/a07223.html#ac28ee86767c48219dbe141620c87e129", null ],
-    [ "Filter", "de/dbb/a07223.html#a7c04437788359b40db1c0d4492d51497", null ],
-    [ "_validTypes", "de/dbb/a07223.html#aa3b5ce8932b00b092813af239d83b7d1", null ]
+    [ "damageText", "de/dbb/a07223.html#af83062a39d8dfc89bf61a4364bd8579d", null ],
+    [ "destroyText", "de/dbb/a07223.html#a81747f8ff920f7c17a55d45d43304cc9", null ],
+    [ "entry", "de/dbb/a07223.html#a58d0395a47190698d309e80d91358bb1", null ],
+    [ "o", "de/dbb/a07223.html#a21238943701f594e1a5346193c895d33", null ],
+    [ "type", "de/dbb/a07223.html#a3cebd422659aa7339e9a23a87cfad0d7", null ],
+    [ "WorldState", "de/dbb/a07223.html#a4b4881aba2d297e125443f0c8ccab618", null ],
+    [ "x", "de/dbb/a07223.html#a80ebabba7265753a05367a4c79f6450c", null ],
+    [ "y", "de/dbb/a07223.html#a5d8ade187749e6fc191f01b384a4cda6", null ],
+    [ "z", "de/dbb/a07223.html#a3913a2618277cc5ad382aa2fc1d00f5e", null ]
 ];

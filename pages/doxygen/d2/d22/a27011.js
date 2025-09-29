@@ -1,7 +1,8 @@
 var a27011 =
 [
-    [ "CharacterDeleteActionIpLogger", "d2/d22/a27011.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "d2/d22/a27011.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnPlayerDelete", "d2/d22/a27011.html#adb16e45e425fa816b2572692349d0005", null ],
-    [ "OnPlayerFailedDelete", "d2/d22/a27011.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
+    [ "CalcPeriodic", "d2/d22/a27011.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
+    [ "CalculateAmount", "d2/d22/a27011.html#a525009acb345d6b0a9857c30cfce2230", null ],
+    [ "HandlePeriodic", "d2/d22/a27011.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
+    [ "PrepareAuraScript", "d2/d22/a27011.html#a5627212e48a3044a9a7480851787a839", null ],
+    [ "Register", "d2/d22/a27011.html#a09ea5265d7105a4bd487d383948901a0", null ]
 ];

@@ -1,5 +1,5 @@
 var dir_76b012f011fb35f3655303cd56fc166e =
 [
-    [ "AddonMgr.cpp", "dd/d5b/a04562.html", "dd/d5b/a04562" ],
-    [ "AddonMgr.h", "db/d3f/a04565.html", "db/d3f/a04565" ]
+    [ "AddonMgr.cpp", "dc/d96/a01517.html", "dc/d96/a01517" ],
+    [ "AddonMgr.h", "d7/d22/a01514.html", "d7/d22/a01514" ]
 ];

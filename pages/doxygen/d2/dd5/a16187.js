@@ -1,6 +1,6 @@
 var a16187 =
 [
-    [ "FilterTargets", "d2/dd5/a16187.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
-    [ "PrepareSpellScript", "d2/dd5/a16187.html#a697a52cbc50eafd2b0377621afb01557", null ],
-    [ "Register", "d2/dd5/a16187.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
+    [ "npc_twilight_summonAI", "d4/daf/a16191.html", "d4/daf/a16191" ],
+    [ "npc_twilight_summon", "d2/dd5/a16187.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
+    [ "GetAI", "d2/dd5/a16187.html#a98bf5ce96c25bc252acd46163644bf33", null ]
 ];

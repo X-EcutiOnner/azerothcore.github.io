@@ -1,6 +1,9 @@
 var a21787 =
 [
-    [ "npc_q24545_vegard_dummyAI", "dd/d5e/a21787.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
-    [ "UpdateAI", "dd/d5e/a21787.html#aa31baac9ce3c4c951f93917b88390797", null ],
-    [ "done", "dd/d5e/a21787.html#a0208fbae8e6c46d0671107530279c50c", null ]
+    [ "npc_bonker_togglevoltAI", "dd/d5e/a21787.html#adfd43a6a804a35e235262e55f0155ffe", null ],
+    [ "JustDied", "dd/d5e/a21787.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
+    [ "Reset", "dd/d5e/a21787.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
+    [ "UpdateEscortAI", "dd/d5e/a21787.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
+    [ "WaypointReached", "dd/d5e/a21787.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
+    [ "Bonker_agro", "dd/d5e/a21787.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
 ];

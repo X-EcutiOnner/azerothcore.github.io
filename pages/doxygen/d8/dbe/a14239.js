@@ -1,6 +1,5 @@
 var a14239 =
 [
-    [ "npc_cw_area_triggerAI", "df/dfb/a14243.html", "df/dfb/a14243" ],
-    [ "npc_cw_area_trigger", "d8/dbe/a14239.html#a11af64ac4ab078566bf8f68a36781939", null ],
-    [ "GetAI", "d8/dbe/a14239.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
+    [ "npc_brain_wash_totem", "d8/dbe/a14239.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
+    [ "EnterEvadeMode", "d8/dbe/a14239.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
 ];

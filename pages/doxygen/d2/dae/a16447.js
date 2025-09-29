@@ -1,7 +1,6 @@
 var a16447 =
 [
-    [ "HandleDispel", "d2/dae/a16447.html#a7b24f38bbb7813826520f928b22d30aa", null ],
-    [ "PrepareAuraScript", "d2/dae/a16447.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
-    [ "Register", "d2/dae/a16447.html#a2bf6921550da3c13730fd98bded2c927", null ],
-    [ "Validate", "d2/dae/a16447.html#ad8b0bb389d232c74acf106b711414fa1", null ]
+    [ "FilterTargets", "d2/dae/a16447.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
+    [ "PrepareSpellScript", "d2/dae/a16447.html#a5ede43deece629a38f5482280983b59a", null ],
+    [ "Register", "d2/dae/a16447.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
 ];

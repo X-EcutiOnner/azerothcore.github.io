@@ -1,13 +1,9 @@
 var a15031 =
 [
-    [ "boss_cthun", "dc/dc5/a15031.html#a287ee7b65708971e4fdfa7b814486935", null ],
-    [ "DoAction", "dc/dc5/a15031.html#a04ae38b67d358f1d34820b855aab3869", null ],
-    [ "JustDied", "dc/dc5/a15031.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
-    [ "JustEngagedWith", "dc/dc5/a15031.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
-    [ "Reset", "dc/dc5/a15031.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
-    [ "ScheduleTasks", "dc/dc5/a15031.html#a5a0514e56217bb3b30b22b2681542adb", null ],
-    [ "SummonedCreatureDies", "dc/dc5/a15031.html#a49d76bb4cf30ee66fae6114313394961", null ],
-    [ "UpdateAI", "dc/dc5/a15031.html#a7d2685597f1eec2459fe509e5b97681f", null ],
-    [ "_fleshTentaclesKilled", "dc/dc5/a15031.html#a139de83ae488c40d40a4587509cd197d", null ],
-    [ "WisperTimer", "dc/dc5/a15031.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
+    [ "boss_temporus", "dc/dc5/a15031.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
+    [ "JustDied", "dc/dc5/a15031.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
+    [ "JustEngagedWith", "dc/dc5/a15031.html#abe7f18497c1c8b31693980e98b1d1859", null ],
+    [ "KilledUnit", "dc/dc5/a15031.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
+    [ "MoveInLineOfSight", "dc/dc5/a15031.html#a18a0279036324498a9daf8c7d0296ffc", null ],
+    [ "OwnTalk", "dc/dc5/a15031.html#a99356589a048debbc308b8431259da5c", null ]
 ];

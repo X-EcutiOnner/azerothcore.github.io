@@ -1,6 +1,6 @@
 var a16271 =
 [
-    [ "npc_swarm_scarabAI", "de/db1/a16275.html", "de/db1/a16275" ],
-    [ "npc_swarm_scarab", "dc/d22/a16271.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
-    [ "GetAI", "dc/d22/a16271.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
+    [ "SendEncounterUnit", "dc/d22/a16271.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
+    [ "Execute", "dc/d22/a16271.html#ae21b67f8fe8a0677778436563872495f", null ],
+    [ "_owner", "dc/d22/a16271.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
 ];

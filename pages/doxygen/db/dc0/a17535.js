@@ -1,6 +1,6 @@
 var a17535 =
 [
-    [ "npc_gunship_boarding_add_realAI", "d5/d08/a17539.html", "d5/d08/a17539" ],
-    [ "npc_gunship_boarding_add", "db/dc0/a17535.html#aa80871f80bae7186d3665f73d757e108", null ],
-    [ "GetAI", "db/dc0/a17535.html#ad7e173bffccca6d852ba545427235447", null ]
+    [ "ModAuraStack", "db/dc0/a17535.html#a7535ef148e047e32a5f7a1944585e396", null ],
+    [ "PrepareSpellScript", "db/dc0/a17535.html#ad5305dd5a32a18802a9fce5daccf3051", null ],
+    [ "Register", "db/dc0/a17535.html#ab44b362197e74b98b3ffeb98eff52742", null ]
 ];

@@ -1,8 +1,9 @@
 var a03830 =
 [
-    [ "StoredLootItem", "d3/d3d/a09706.html", "d3/d3d/a09706" ],
-    [ "LootItemStorage", "d9/d0b/a09710.html", "d9/d0b/a09710" ],
-    [ "sLootItemStorage", "d5/de2/a03830.html#a06515a8a4bd76cd02aa0ab99d3d7c64e", null ],
-    [ "LootItemContainer", "d5/de2/a03830.html#a06cc23df363d1d767959d7ab5ec29ad5", null ],
-    [ "StoredLootItemList", "d5/de2/a03830.html#aa16defe92374d7db2d28958ee8fce21d", null ]
+    [ "OutdoorPvP_hellfire_peninsula", "d0/dc6/a22743.html", "d0/dc6/a22743" ],
+    [ "AddSC_outdoorpvp_hp", "d5/de2/a03830.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
+    [ "HP_LANG_CAPTURE_A", "d5/de2/a03830.html#a642fe1233b764402bae812604b684442", null ],
+    [ "HP_LANG_CAPTURE_H", "d5/de2/a03830.html#a3ae9bb2c949b7f3c852ce2e4552d8ccd", null ],
+    [ "HP_LANG_LOSE_A", "d5/de2/a03830.html#a1b9adf9c71e549e4545c2e4eabe58dd5", null ],
+    [ "HP_LANG_LOSE_H", "d5/de2/a03830.html#ad62cd8f07ac98311202494985c6ae9c8", null ]
 ];

@@ -1,6 +1,7 @@
 var a15199 =
 [
-    [ "HandleDummy", "db/dfa/a15199.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
-    [ "PrepareSpellScript", "db/dfa/a15199.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
-    [ "Register", "db/dfa/a15199.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
+    [ "FilterTargets", "db/dfa/a15199.html#a59e477333a54ec828a429d15b35d4936", null ],
+    [ "HandleScript", "db/dfa/a15199.html#a983fe53aa52e53a45685055fde04a3b7", null ],
+    [ "PrepareSpellScript", "db/dfa/a15199.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
+    [ "Register", "db/dfa/a15199.html#a45ac61990990f16c98eaa7136297afc5", null ]
 ];

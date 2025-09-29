@@ -1,6 +1,6 @@
 var a14735 =
 [
-    [ "instance_old_hillsbrad_InstanceMapScript", "da/d35/a14739.html", "da/d35/a14739" ],
-    [ "instance_old_hillsbrad", "d7/dc1/a14735.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
-    [ "GetInstanceScript", "d7/dc1/a14735.html#a1929c38b1c745b2df1ccaf462113e220", null ]
+    [ "OnAuraRemove", "d7/dc1/a14735.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "d7/dc1/a14735.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "d7/dc1/a14735.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

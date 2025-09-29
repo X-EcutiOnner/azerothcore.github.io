@@ -1,7 +1,6 @@
 var a13083 =
 [
-    [ "OnPeriodic", "d6/dd0/a13083.html#aa48b6f35302a8857465c6567f811dec6", null ],
-    [ "PrepareAuraScript", "d6/dd0/a13083.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
-    [ "Register", "d6/dd0/a13083.html#aa7708067531131738b86077638eda7ac", null ],
-    [ "Validate", "d6/dd0/a13083.html#a665698b54201184185d96bd33f53e584", null ]
+    [ "npc_dkc1_gothikAI", "d4/d12/a13087.html", "d4/d12/a13087" ],
+    [ "npc_dkc1_gothik", "d6/dd0/a13083.html#ae4a6aec0235b01044ebd5c9c71d400d9", null ],
+    [ "GetAI", "d6/dd0/a13083.html#aeb285cf6977cfab5d337f51ae41907ec", null ]
 ];

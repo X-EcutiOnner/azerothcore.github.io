@@ -1,7 +1,10 @@
 var a13755 =
 [
-    [ "HandleDispel", "d7/da4/a13755.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "d7/da4/a13755.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "d7/da4/a13755.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "d7/da4/a13755.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "npc_partygoer_pather", "d7/da4/a13755.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
+    [ "Initialize", "d7/da4/a13755.html#afb114b0587c550e39c41e131364da663", null ],
+    [ "PathEndReached", "d7/da4/a13755.html#a55833d306716ba411f96ecd024cc7c72", null ],
+    [ "Reset", "d7/da4/a13755.html#ade2cc36ff49001138eee5b607ec83b12", null ],
+    [ "UpdateAI", "d7/da4/a13755.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
+    [ "_events", "d7/da4/a13755.html#ac210dc0286ded980e78743237a08bb23", null ],
+    [ "_path", "d7/da4/a13755.html#a4da184c44858e99eca2b07193fd48f13", null ]
 ];

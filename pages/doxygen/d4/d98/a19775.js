@@ -1,6 +1,7 @@
 var a19775 =
 [
-    [ "npc_auriaya_feral_defenderAI", "dc/d18/a19779.html", "dc/d18/a19779" ],
-    [ "npc_auriaya_feral_defender", "d4/d98/a19775.html#ae1afc396a1d9e6c9c2042ee0f58fb270", null ],
-    [ "GetAI", "d4/d98/a19775.html#abec35e280e42154af82f3e7e4fcec48d", null ]
+    [ "HandleScript", "d4/d98/a19775.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
+    [ "PrepareSpellScript", "d4/d98/a19775.html#a34337690029eedb60a17572dbbf1e1f9", null ],
+    [ "Register", "d4/d98/a19775.html#ad554d79e1a98490085b22f5038d058da", null ],
+    [ "Validate", "d4/d98/a19775.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
 ];

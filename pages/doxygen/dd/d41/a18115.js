@@ -1,7 +1,6 @@
 var a18115 =
 [
-    [ "StartMovementEvent", "dd/d41/a18115.html#a4f0fd5e835f742c876f37f31bf03c56f", null ],
-    [ "Execute", "dd/d41/a18115.html#af1a043d953bcffe9341292e85cae2f55", null ],
-    [ "_owner", "dd/d41/a18115.html#ac2f4166af128a161c471b243144856ba", null ],
-    [ "_summoner", "dd/d41/a18115.html#afe1f7bcb3569758bc075380a24527067", null ]
+    [ "HandleScript", "dd/d41/a18115.html#abd766c298f8aa363d28198b6a5d7e374", null ],
+    [ "PrepareSpellScript", "dd/d41/a18115.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
+    [ "Register", "dd/d41/a18115.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
 ];

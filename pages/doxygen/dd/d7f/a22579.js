@@ -1,12 +1,8 @@
 var a22579 =
 [
-    [ "boss_anzu", "dd/d7f/a22579.html#aef8c5c57afa95936d8c2809fa1257799", null ],
-    [ "JustEngagedWith", "dd/d7f/a22579.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
-    [ "Reset", "dd/d7f/a22579.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
-    [ "SummonBroods", "dd/d7f/a22579.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
-    [ "SummonedCreatureDies", "dd/d7f/a22579.html#a2e35df609db069c8d31afffabcfead34", null ],
-    [ "SummonSpirits", "dd/d7f/a22579.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
-    [ "UpdateAI", "dd/d7f/a22579.html#a06373460d454bfaf8db793e591cc0abd", null ],
-    [ "AnzuSpiritPos", "dd/d7f/a22579.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
-    [ "talkTimer", "dd/d7f/a22579.html#a2afae53534d9e777c90d09456f834b5d", null ]
+    [ "npc_wg_queueAI", "d7/dc7/a22583.html", "d7/dc7/a22583" ],
+    [ "npc_wg_queue", "dd/d7f/a22579.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
+    [ "GetAI", "dd/d7f/a22579.html#ad2d7746a32b520d37ea826b03627de4e", null ],
+    [ "OnGossipHello", "dd/d7f/a22579.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
+    [ "OnGossipSelect", "dd/d7f/a22579.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
 ];

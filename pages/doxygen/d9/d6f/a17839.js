@@ -1,8 +1,6 @@
 var a17839 =
 [
-    [ "FilterTargets", "d9/d6f/a17839.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
-    [ "HandleScript", "d9/d6f/a17839.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
-    [ "PrepareSpellScript", "d9/d6f/a17839.html#ae6b30b8da52141c385f985435cac99a1", null ],
-    [ "Register", "d9/d6f/a17839.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
-    [ "Validate", "d9/d6f/a17839.html#accff1f03fb7c0d56cb197bb18348635c", null ]
+    [ "PrepareSpellScript", "d9/d6f/a17839.html#a47df21229183b628c1d82bf34cbbe396", null ],
+    [ "Register", "d9/d6f/a17839.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
+    [ "RelocateTransportOffset", "d9/d6f/a17839.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
 ];

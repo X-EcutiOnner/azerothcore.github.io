@@ -1,7 +1,6 @@
 var a18383 =
 [
-    [ "AuraRemoveEvent", "dd/d6b/a18383.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "dd/d6b/a18383.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "dd/d6b/a18383.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "dd/d6b/a18383.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "VileSpiritActivateEvent", "dd/d6b/a18383.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
+    [ "Execute", "dd/d6b/a18383.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
+    [ "_owner", "dd/d6b/a18383.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
 ];

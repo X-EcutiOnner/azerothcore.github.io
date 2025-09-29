@@ -1,8 +1,15 @@
 var a12903 =
 [
-    [ "HandleDummy", "d4/d85/a12903.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "d4/d85/a12903.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "d4/d85/a12903.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "d4/d85/a12903.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "d4/d85/a12903.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "boss_tinhead", "d4/d85/a12903.html#aa56375e9b031db15bee833375b7a4405", null ],
+    [ "DoAction", "d4/d85/a12903.html#ab27d93fd2b58e3f1c9e14d5bc6c788ff", null ],
+    [ "EnterEvadeMode", "d4/d85/a12903.html#ae83464d571103a67980b413325988921", null ],
+    [ "JustDied", "d4/d85/a12903.html#a5a641c0e96f271540e4642b5bb4e4c9e", null ],
+    [ "JustEngagedWith", "d4/d85/a12903.html#a74f51f155fdfb9ecc70245380b740d9c", null ],
+    [ "JustReachedHome", "d4/d85/a12903.html#a6c930c6cb2116cf16f3e4002e333f585", null ],
+    [ "KilledUnit", "d4/d85/a12903.html#ac0f281f1e4b985174f4c5c9b7fcf278d", null ],
+    [ "Reset", "d4/d85/a12903.html#ac22d86f58d59c81429e45fba9393fd37", null ],
+    [ "UpdateAI", "d4/d85/a12903.html#aec0d558cf82eb6bbf0d5626126b10233", null ],
+    [ "_rustCount", "d4/d85/a12903.html#a48901503085fd3d4ee5624626a526ce2", null ],
+    [ "_scheduler", "d4/d85/a12903.html#ababc9f32611a9ea35ef41725bce22df5", null ],
+    [ "instance", "d4/d85/a12903.html#a00b2ebbb009c700e38bbffbb035b4bfa", null ]
 ];

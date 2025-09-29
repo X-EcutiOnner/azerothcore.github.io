@@ -1,8 +1,7 @@
 var a20391 =
 [
-    [ "npc_ulduar_mimiron_rocketAI", "d5/d37/a20391.html#ad758070aaeadc4d7b2b7ff4108b76c89", null ],
-    [ "InitializeAI", "d5/d37/a20391.html#aba3bf48434dca79f56f4b9aac707d48c", null ],
-    [ "Reset", "d5/d37/a20391.html#a60fbcbae9205bfd1c63b5bef7924b3ee", null ],
-    [ "SetData", "d5/d37/a20391.html#a8e547ba872c9bc2ec95ae2f60b011fce", null ],
-    [ "UpdateAI", "d5/d37/a20391.html#a28106e303d5e7c1bce9ceaa571129dca", null ]
+    [ "npc_ulduar_icicleAI", "d5/d37/a20391.html#a258376e257fbe3c8a6c70b2585d44df1", null ],
+    [ "UpdateAI", "d5/d37/a20391.html#a0edf734ae2dac7a5378b21b73e3714c8", null ],
+    [ "timer1", "d5/d37/a20391.html#aa912acbe225d9056e44bc22b8d9f7473", null ],
+    [ "timer2", "d5/d37/a20391.html#a82e034fc4ccb8eb92abeb72a222764c7", null ]
 ];

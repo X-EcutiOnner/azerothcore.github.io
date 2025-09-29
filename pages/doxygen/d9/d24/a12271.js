@@ -1,5 +1,6 @@
 var a12271 =
 [
-    [ "go_orb_of_domination", "d9/d24/a12271.html#a1d4659e21344a12ec6084ef7ef5df7d0", null ],
-    [ "OnGossipHello", "d9/d24/a12271.html#aa88cebf1bd539b55cf63f10a25cc1bbb", null ]
+    [ "OrcMoveEvent", "d9/d24/a12271.html#a71f7fe243741a1629bdd846fc97f0112", null ],
+    [ "Execute", "d9/d24/a12271.html#a58a3c88ed3c6b534016179949b85ff9e", null ],
+    [ "_me", "d9/d24/a12271.html#ad8d09bbb659d44e9f4b9171cea7ef7e8", null ]
 ];

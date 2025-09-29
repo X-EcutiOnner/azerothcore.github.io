@@ -1,8 +1,6 @@
 var a12667 =
 [
-    [ "npc_cyclone", "d5/d67/a12667.html#afdc4f98b031f832702929c6a7f192ab5", null ],
-    [ "JustEngagedWith", "d5/d67/a12667.html#a61d0710868c91f707643a436c0d79485", null ],
-    [ "Reset", "d5/d67/a12667.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
-    [ "UpdateAI", "d5/d67/a12667.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
-    [ "_scheduler", "d5/d67/a12667.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
+    [ "bossId", "d5/d67/a12667.html#a898f2ce24d96fb7d6a118e9772344c43", null ],
+    [ "circleId", "d5/d67/a12667.html#aaa379e61fda2f7225ab4089757df5d24", null ],
+    [ "runeId", "d5/d67/a12667.html#aa7ac7e2d5729aa906e00ca9c2648581d", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Server/WorldSession.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Pet/pet_shaman.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,170 +106,246 @@ $(document).ready(function(){initNavTree('d3/d8f/a03956.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">WorldSession.h File Reference<div class="ingroups"><a class="el" href="../../db/d92/a04791.html">User to World Communication</a></div></div></div>
+<a href="#enum-members">Enumerations</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">pet_shaman.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AccountMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AddonMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">AuthDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">CircularBuffer.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">DatabaseEnv.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GossipDef.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Packet.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">World.h</a>&quot;</code><br />
-<code>#include &lt;map&gt;</code><br />
-<code>#include &lt;memory&gt;</code><br />
-<code>#include &lt;utility&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db0/a11130.html">AccountData</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4f/a24671.html">npc_pet_shaman_earth_elemental</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d4b/a11134.html">PacketFilter</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db2/a24675.html">npc_pet_shaman_fire_elemental</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dfb/a11138.html">MapSessionFilter</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d25/a11142.html">WorldSessionFilter</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d4b/a11146.html">CharacterCreateInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dfc/a11150.html">CharacterRenameInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d70/a11154.html">CharacterCustomizeInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d1c/a11158.html">CharacterFactionChangeInfo</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4c/a11162.html">PacketCounter</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df4/a11166.html">WorldSession</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="../../da/ddb/a08650.html">Player</a> session in the <a class="el" href="../../d4/de1/a11702.html" title="The World.">World</a>.  <a href="../../de/df4/a11166.html#details">More...</a><br /></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d11/a11170.html">WorldSession::DosProtection</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:d4/d72/a04841"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d72/a04841.html">lfg</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:dd/dca/a04847"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dca/a04847.html">WorldPackets</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:df/d6c/a04863"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d6c/a04863.html">WorldPackets::LFG</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:da/d9f/a04859"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d9f/a04859.html">WorldPackets::Chat</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d6/d14/a04858"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d14/a04858.html">WorldPackets::Character</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d7/d61/a04868"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d61/a04868.html">WorldPackets::Totem</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:de/d4c/a04857"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4c/a04857.html">WorldPackets::Bank</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d5/db5/a04861"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/db5/a04861.html">WorldPackets::Combat</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:db/d08/a04848"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d08/a04848.html">WorldPackets::Guild</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:da/dea/a04864"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dea/a04864.html">WorldPackets::Misc</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d6/dd3/a04866"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dd3/a04866.html">WorldPackets::Pet</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d8/de5/a04867"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de5/a04867.html">WorldPackets::Query</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d5/daa/a04862"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/daa/a04862.html">WorldPackets::Item</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:gafb353aeb5e84007c9b55aa50ba6e3ddc"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d92/a04791.html#gafb353aeb5e84007c9b55aa50ba6e3ddc">NUM_ACCOUNT_DATA_TYPES</a>&#160;&#160;&#160;8</td></tr>
-<tr class="separator:gafb353aeb5e84007c9b55aa50ba6e3ddc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gabaf56bd86a496e0886a553118d6ffb08"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d92/a04791.html#gabaf56bd86a496e0886a553118d6ffb08">GLOBAL_CACHE_MASK</a>&#160;&#160;&#160;0x15</td></tr>
-<tr class="separator:gabaf56bd86a496e0886a553118d6ffb08"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga38a03c6cd9103a9891842f233758fbe7"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d92/a04791.html#ga38a03c6cd9103a9891842f233758fbe7">PER_CHARACTER_CACHE_MASK</a>&#160;&#160;&#160;0xEA</td></tr>
-<tr class="separator:ga38a03c6cd9103a9891842f233758fbe7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:gadab21b8c7fecf26675a55eea7811812d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d92/a04791.html#gadab21b8c7fecf26675a55eea7811812d">AccountDataType</a> { <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#ggadab21b8c7fecf26675a55eea7811812daada79ad8567ef8c1839bb4aa1388f59c">GLOBAL_CONFIG_CACHE</a> = 0
+<tr class="memitem:aa87108001ed3860c7adcb67ee9e52019"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d8f/a03956.html#aa87108001ed3860c7adcb67ee9e52019">ShamanSpells</a> { <br />
+&#160;&#160;<a class="el" href="../../d3/d8f/a03956.html#aa87108001ed3860c7adcb67ee9e52019aa109e155dd35d935fb257e50e09747bb">SPELL_SHAMAN_ANGEREDEARTH</a> = 36213
 , <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#ggadab21b8c7fecf26675a55eea7811812da3199deafd9678b717f9357659ed271b0">PER_CHARACTER_CONFIG_CACHE</a> = 1
+&#160;&#160;<a class="el" href="../../d3/d8f/a03956.html#aa87108001ed3860c7adcb67ee9e52019ab4d2cec0ccba90360e4d378708dc2274">SPELL_SHAMAN_FIREBLAST</a> = 57984
 , <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#ggadab21b8c7fecf26675a55eea7811812da580bf2ae915070c0cb1dfa2a2c470936">GLOBAL_BINDINGS_CACHE</a> = 2
+&#160;&#160;<a class="el" href="../../d3/d8f/a03956.html#aa87108001ed3860c7adcb67ee9e52019aa1c748f3d3c445992118bdca56e91ba5">SPELL_SHAMAN_FIRENOVA</a> = 12470
 , <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#ggadab21b8c7fecf26675a55eea7811812daaa2164f22e7a6cd3e9211bdd39c1c4e6">PER_CHARACTER_BINDINGS_CACHE</a> = 3
+&#160;&#160;<a class="el" href="../../d3/d8f/a03956.html#aa87108001ed3860c7adcb67ee9e52019a384ca4eabf43f412d7d68e16d6ef7fe8">SPELL_SHAMAN_FIRESHIELD</a> = 13377
 , <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#ggadab21b8c7fecf26675a55eea7811812da2bffb16258c4258924334e7231928217">GLOBAL_MACROS_CACHE</a> = 4
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019ab875e7cfb37d4193945e25abd49ac409">SPELL_SHAMAN_GLYPH_OF_FERAL_SPIRIT</a> = 63271
 , <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#ggadab21b8c7fecf26675a55eea7811812da0d53cc3dcb154b042fe7a1b81404752c">PER_CHARACTER_MACROS_CACHE</a> = 5
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019aa1a455923bea8042e64610ed0198cc36">SPELL_SHAMAN_ANCESTRAL_AWAKENING_PROC</a> = 52752
 , <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#ggadab21b8c7fecf26675a55eea7811812da8db107b5c382a0630b177b9f521dd87c">PER_CHARACTER_LAYOUT_CACHE</a> = 6
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019a33c78f07635e9e4ca4ff4fa9b447ef69">SPELL_SHAMAN_BIND_SIGHT</a> = 6277
 , <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#ggadab21b8c7fecf26675a55eea7811812da5dbeffe8a7f8c60877f3f41a4e813327">PER_CHARACTER_CHAT_CACHE</a> = 7
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019abd290be920822efdf04e25cb92c45c0c">SPELL_SHAMAN_CLEANSING_TOTEM_EFFECT</a> = 52025
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019ae1255f0cbacdf7851f8b0a0dc9a2d836">SPELL_SHAMAN_EARTH_SHIELD_HEAL</a> = 379
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019a72eddc09d527f5f8a01d6e043f85fa76">SPELL_SHAMAN_ELEMENTAL_MASTERY</a> = 16166
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019aac0af1b5cbd5c35d315ae2273c17eb43">SPELL_SHAMAN_ELECTRIFIED</a> = 64930
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019ab2ae14630088de8b52f391e14988b5e1">SPELL_SHAMAN_EXHAUSTION</a> = 57723
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019a79d48cc31cfe1b8e228bc9236fa48c3b">SPELL_SHAMAN_FIRE_NOVA_R1</a> = 1535
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019ae4d68eb02284baf4168dd474f011a5b0">SPELL_SHAMAN_FIRE_NOVA_TRIGGERED_R1</a> = 8349
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019a71b0a26925bb4da743c652f284727ab1">SPELL_SHAMAN_GLYPH_OF_EARTH_SHIELD</a> = 63279
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019a143ad7a35158a008ba877f4a3d2454e3">SPELL_SHAMAN_GLYPH_OF_HEALING_STREAM_TOTEM</a> = 55456
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019a9a807b28eb58d2f4f4539bebd6dec4da">SPELL_SHAMAN_GLYPH_OF_MANA_TIDE</a> = 55441
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019a841e96bbe93dc3366867eb77250dc0a2">SPELL_SHAMAN_GLYPH_OF_THUNDERSTORM</a> = 62132
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019a459a713eeb348964b181aa08fc72f5e2">SPELL_SHAMAN_ITEM_LIGHTNING_SHIELD</a> = 23552
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019a55c8be0ddb6926b0050d8fd2d4d6a990">SPELL_SHAMAN_ITEM_LIGHTNING_SHIELD_DAMAGE</a> = 27635
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019ae9cd9603ea6d80479a2760686391566f">SPELL_SHAMAN_ITEM_MANA_SURGE</a> = 23571
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019a907ef88a98a8daa70d21406d41a04120">SPELL_SHAMAN_LAVA_FLOWS_R1</a> = 51480
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019ac4c3cf0a498a746285ed48fa0d6e1800">SPELL_SHAMAN_LAVA_FLOWS_TRIGGERED_R1</a> = 64694
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019aa4a29831a1a1d7d2c43868b41f0ebf9c">SPELL_SHAMAN_MANA_SPRING_TOTEM_ENERGIZE</a> = 52032
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019a4910331576d472088ed59ab694712d1b">SPELL_SHAMAN_MANA_TIDE_TOTEM</a> = 39609
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019a4df99e57e0d713d193e2578b8fdee7a4">SPELL_SHAMAN_SATED</a> = 57724
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019ab7a6e3e33f811c9d9d85285a1e7e0d60">SPELL_SHAMAN_STORM_EARTH_AND_FIRE</a> = 51483
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019a04c3dfea37fa8eeb0af97d7cd6e499a2">SPELL_SHAMAN_TOTEM_EARTHBIND_EARTHGRAB</a> = 64695
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019a4709b8c9c037c648bb265d2f7695f4e7">SPELL_SHAMAN_TOTEM_EARTHBIND_TOTEM</a> = 6474
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019ab3f8d2e2ded26eb9e6ebcecb9442649e">SPELL_SHAMAN_TOTEM_EARTHEN_POWER</a> = 59566
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019a8d0782da4d8d3aea933835cbb7dc83ef">SPELL_SHAMAN_TOTEM_HEALING_STREAM_HEAL</a> = 52042
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019a40689e256ce60fa29f39b2804a5c5ae2">SPELL_SHAMAN_BLESSING_OF_THE_ETERNALS_R1</a> = 51554
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019a62dc8e40febbbc0eaa3cdb8de6c9a13f">SPELL_SHAMAN_STORMSTRIKE</a> = 17364
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019a9d65d3bf8bf2cf95bcfcce2b8a50f5a6">SPELL_SHAMAN_LAVA_LASH</a> = 60103
+, <br />
+&#160;&#160;<a class="el" href="../../de/d94/a02597.html#aa87108001ed3860c7adcb67ee9e52019a6b6e0fd0d2236e9fe5d81342e366c3ad">SPELL_SHAMAN_LIGHTNING_BOLT_OVERLOAD</a> = 45284
 <br />
  }</td></tr>
-<tr class="separator:gadab21b8c7fecf26675a55eea7811812d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gaa4a0361b2172789575d5eac42ecb612a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d92/a04791.html#gaa4a0361b2172789575d5eac42ecb612a">PartyOperation</a> { <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#ggaa4a0361b2172789575d5eac42ecb612aa8b30d82ca0b8d909d0445472f4003036">PARTY_OP_INVITE</a> = 0
+<tr class="separator:aa87108001ed3860c7adcb67ee9e52019"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa2b323900a3ce0f1375b1b01093c124c"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d8f/a03956.html#aa2b323900a3ce0f1375b1b01093c124c">ShamanEvents</a> { <br />
+&#160;&#160;<a class="el" href="../../d3/d8f/a03956.html#aa2b323900a3ce0f1375b1b01093c124ca55d2bc767c95df14143f82764109f9f9">EVENT_SHAMAN_ANGEREDEARTH</a> = 1
 , <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#ggaa4a0361b2172789575d5eac42ecb612aaea450b61d9aa99430d227f2bc20ba66e">PARTY_OP_UNINVITE</a> = 1
+&#160;&#160;<a class="el" href="../../d3/d8f/a03956.html#aa2b323900a3ce0f1375b1b01093c124caa9714e17f926812b7ab7328c42fa60ec">EVENT_SHAMAN_FIRENOVA</a> = 1
 , <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#ggaa4a0361b2172789575d5eac42ecb612aaf8c14598abfe7de9431f923cce924457">PARTY_OP_LEAVE</a> = 2
+&#160;&#160;<a class="el" href="../../d3/d8f/a03956.html#aa2b323900a3ce0f1375b1b01093c124ca256726c16cd0c152f1ef2d08e8681b73">EVENT_SHAMAN_FIRESHIELD</a> = 2
 , <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#ggaa4a0361b2172789575d5eac42ecb612aac2c1d8e8f575d57bed2ae682d80c1a14">PARTY_OP_SWAP</a> = 4
+&#160;&#160;<a class="el" href="../../d3/d8f/a03956.html#aa2b323900a3ce0f1375b1b01093c124cad63d80475f7c4d625393f51463234109">EVENT_SHAMAN_FIREBLAST</a> = 3
 <br />
  }</td></tr>
-<tr class="separator:gaa4a0361b2172789575d5eac42ecb612a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gae00b3f15198199be79029b7f245cba4e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d92/a04791.html#gae00b3f15198199be79029b7f245cba4e">BFLeaveReason</a> { <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#ggae00b3f15198199be79029b7f245cba4eaa804834f71e74d728992a144bc3a4bf7">BF_LEAVE_REASON_CLOSE</a> = 0x00000001
-, <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#ggae00b3f15198199be79029b7f245cba4eac58152c3c20952288b738bbcd94b6e04">BF_LEAVE_REASON_EXITED</a> = 0x00000008
-, <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#ggae00b3f15198199be79029b7f245cba4ea409833e268b63d87c8329740d22f8d6d">BF_LEAVE_REASON_LOW_LEVEL</a> = 0x00000010
-<br />
- }</td></tr>
-<tr class="separator:gae00b3f15198199be79029b7f245cba4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga54cc6595f95ac4f430e8540afc94f13d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d92/a04791.html#ga54cc6595f95ac4f430e8540afc94f13d">ChatRestrictionType</a> { <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#gga54cc6595f95ac4f430e8540afc94f13da86e568474f13bb72e15b8e92a270b1c9">ERR_CHAT_RESTRICTED</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#gga54cc6595f95ac4f430e8540afc94f13da34a062f33bdc742a4c6be1f28ef613e7">ERR_CHAT_THROTTLED</a> = 1
-, <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#gga54cc6595f95ac4f430e8540afc94f13da9bbb4686187f6e5c88606f90f22b18c8">ERR_USER_SQUELCHED</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#gga54cc6595f95ac4f430e8540afc94f13da584e0c0e91185b9f8d415b89e5cbacd7">ERR_YELL_RESTRICTED</a> = 3
-<br />
- }</td></tr>
-<tr class="separator:ga54cc6595f95ac4f430e8540afc94f13d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ga98490641bb011ba9187ee1ed5c94b406"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d92/a04791.html#ga98490641bb011ba9187ee1ed5c94b406">DeclinedNameResult</a> { <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#gga98490641bb011ba9187ee1ed5c94b406add610d06699db29b6f69db8b69d87267">DECLINED_NAMES_RESULT_SUCCESS</a> = 0
-, <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#gga98490641bb011ba9187ee1ed5c94b406ae7ea9b45868387cbcd0f7aff13476683">DECLINED_NAMES_RESULT_ERROR</a> = 1
-<br />
- }</td></tr>
-<tr class="separator:ga98490641bb011ba9187ee1ed5c94b406"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:gae6a6780680157e01b09a257d84b150c7"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d92/a04791.html#gae6a6780680157e01b09a257d84b150c7">CharterTypes</a> { <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#ggae6a6780680157e01b09a257d84b150c7abc99a46e1b6360a30376c4500292e27c">GUILD_CHARTER_TYPE</a> = 9
-, <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#ggae6a6780680157e01b09a257d84b150c7a917d335b0e9d21fec525d5daed0c1356">ARENA_TEAM_CHARTER_2v2_TYPE</a> = 2
-, <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#ggae6a6780680157e01b09a257d84b150c7aed12afbbdd721e734868da792db28482">ARENA_TEAM_CHARTER_3v3_TYPE</a> = 3
-, <br />
-&#160;&#160;<a class="el" href="../../db/d92/a04791.html#ggae6a6780680157e01b09a257d84b150c7afa2e8ef459ee0af6eea7b2be7ce30841">ARENA_TEAM_CHARTER_5v5_TYPE</a> = 5
-<br />
- }</td></tr>
-<tr class="separator:gae6a6780680157e01b09a257d84b150c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:aa2b323900a3ce0f1375b1b01093c124c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:ab07e634ed761985e07d5c0e10f329231"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d8f/a03956.html#ab07e634ed761985e07d5c0e10f329231">AddSC_shaman_pet_scripts</a> ()</td></tr>
+<tr class="separator:ab07e634ed761985e07d5c0e10f329231"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="aa2b323900a3ce0f1375b1b01093c124c" name="aa2b323900a3ce0f1375b1b01093c124c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa2b323900a3ce0f1375b1b01093c124c">&#9670;&#160;</a></span>ShamanEvents</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d3/d8f/a03956.html#aa2b323900a3ce0f1375b1b01093c124c">ShamanEvents</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aa2b323900a3ce0f1375b1b01093c124ca55d2bc767c95df14143f82764109f9f9" name="aa2b323900a3ce0f1375b1b01093c124ca55d2bc767c95df14143f82764109f9f9"></a>EVENT_SHAMAN_ANGEREDEARTH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa2b323900a3ce0f1375b1b01093c124caa9714e17f926812b7ab7328c42fa60ec" name="aa2b323900a3ce0f1375b1b01093c124caa9714e17f926812b7ab7328c42fa60ec"></a>EVENT_SHAMAN_FIRENOVA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa2b323900a3ce0f1375b1b01093c124ca256726c16cd0c152f1ef2d08e8681b73" name="aa2b323900a3ce0f1375b1b01093c124ca256726c16cd0c152f1ef2d08e8681b73"></a>EVENT_SHAMAN_FIRESHIELD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa2b323900a3ce0f1375b1b01093c124cad63d80475f7c4d625393f51463234109" name="aa2b323900a3ce0f1375b1b01093c124cad63d80475f7c4d625393f51463234109"></a>EVENT_SHAMAN_FIREBLAST&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   36</span>{</div>
+<div class="line"><span class="lineno">   37</span>    <span class="comment">// Earth Elemental</span></div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d3/d8f/a03956.html#aa2b323900a3ce0f1375b1b01093c124ca55d2bc767c95df14143f82764109f9f9">EVENT_SHAMAN_ANGEREDEARTH</a>   = 1,</div>
+<div class="line"><span class="lineno">   39</span>    <span class="comment">// Fire Elemental</span></div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d3/d8f/a03956.html#aa2b323900a3ce0f1375b1b01093c124caa9714e17f926812b7ab7328c42fa60ec">EVENT_SHAMAN_FIRENOVA</a>       = 1,</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d3/d8f/a03956.html#aa2b323900a3ce0f1375b1b01093c124ca256726c16cd0c152f1ef2d08e8681b73">EVENT_SHAMAN_FIRESHIELD</a>     = 2,</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d3/d8f/a03956.html#aa2b323900a3ce0f1375b1b01093c124cad63d80475f7c4d625393f51463234109">EVENT_SHAMAN_FIREBLAST</a>      = 3</div>
+<div class="line"><span class="lineno">   43</span>};</div>
+<div class="ttc" id="aa03956_html_aa2b323900a3ce0f1375b1b01093c124ca256726c16cd0c152f1ef2d08e8681b73"><div class="ttname"><a href="../../d3/d8f/a03956.html#aa2b323900a3ce0f1375b1b01093c124ca256726c16cd0c152f1ef2d08e8681b73">EVENT_SHAMAN_FIRESHIELD</a></div><div class="ttdeci">@ EVENT_SHAMAN_FIRESHIELD</div><div class="ttdef"><b>Definition:</b> pet_shaman.cpp:41</div></div>
+<div class="ttc" id="aa03956_html_aa2b323900a3ce0f1375b1b01093c124ca55d2bc767c95df14143f82764109f9f9"><div class="ttname"><a href="../../d3/d8f/a03956.html#aa2b323900a3ce0f1375b1b01093c124ca55d2bc767c95df14143f82764109f9f9">EVENT_SHAMAN_ANGEREDEARTH</a></div><div class="ttdeci">@ EVENT_SHAMAN_ANGEREDEARTH</div><div class="ttdef"><b>Definition:</b> pet_shaman.cpp:38</div></div>
+<div class="ttc" id="aa03956_html_aa2b323900a3ce0f1375b1b01093c124caa9714e17f926812b7ab7328c42fa60ec"><div class="ttname"><a href="../../d3/d8f/a03956.html#aa2b323900a3ce0f1375b1b01093c124caa9714e17f926812b7ab7328c42fa60ec">EVENT_SHAMAN_FIRENOVA</a></div><div class="ttdeci">@ EVENT_SHAMAN_FIRENOVA</div><div class="ttdef"><b>Definition:</b> pet_shaman.cpp:40</div></div>
+<div class="ttc" id="aa03956_html_aa2b323900a3ce0f1375b1b01093c124cad63d80475f7c4d625393f51463234109"><div class="ttname"><a href="../../d3/d8f/a03956.html#aa2b323900a3ce0f1375b1b01093c124cad63d80475f7c4d625393f51463234109">EVENT_SHAMAN_FIREBLAST</a></div><div class="ttdeci">@ EVENT_SHAMAN_FIREBLAST</div><div class="ttdef"><b>Definition:</b> pet_shaman.cpp:42</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="aa87108001ed3860c7adcb67ee9e52019" name="aa87108001ed3860c7adcb67ee9e52019"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa87108001ed3860c7adcb67ee9e52019">&#9670;&#160;</a></span>ShamanSpells</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d3/d8f/a03956.html#aa87108001ed3860c7adcb67ee9e52019">ShamanSpells</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019aa109e155dd35d935fb257e50e09747bb" name="aa87108001ed3860c7adcb67ee9e52019aa109e155dd35d935fb257e50e09747bb"></a>SPELL_SHAMAN_ANGEREDEARTH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019ab4d2cec0ccba90360e4d378708dc2274" name="aa87108001ed3860c7adcb67ee9e52019ab4d2cec0ccba90360e4d378708dc2274"></a>SPELL_SHAMAN_FIREBLAST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019aa1c748f3d3c445992118bdca56e91ba5" name="aa87108001ed3860c7adcb67ee9e52019aa1c748f3d3c445992118bdca56e91ba5"></a>SPELL_SHAMAN_FIRENOVA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019a384ca4eabf43f412d7d68e16d6ef7fe8" name="aa87108001ed3860c7adcb67ee9e52019a384ca4eabf43f412d7d68e16d6ef7fe8"></a>SPELL_SHAMAN_FIRESHIELD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019ab875e7cfb37d4193945e25abd49ac409" name="aa87108001ed3860c7adcb67ee9e52019ab875e7cfb37d4193945e25abd49ac409"></a>SPELL_SHAMAN_GLYPH_OF_FERAL_SPIRIT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019aa1a455923bea8042e64610ed0198cc36" name="aa87108001ed3860c7adcb67ee9e52019aa1a455923bea8042e64610ed0198cc36"></a>SPELL_SHAMAN_ANCESTRAL_AWAKENING_PROC&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019a33c78f07635e9e4ca4ff4fa9b447ef69" name="aa87108001ed3860c7adcb67ee9e52019a33c78f07635e9e4ca4ff4fa9b447ef69"></a>SPELL_SHAMAN_BIND_SIGHT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019abd290be920822efdf04e25cb92c45c0c" name="aa87108001ed3860c7adcb67ee9e52019abd290be920822efdf04e25cb92c45c0c"></a>SPELL_SHAMAN_CLEANSING_TOTEM_EFFECT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019ae1255f0cbacdf7851f8b0a0dc9a2d836" name="aa87108001ed3860c7adcb67ee9e52019ae1255f0cbacdf7851f8b0a0dc9a2d836"></a>SPELL_SHAMAN_EARTH_SHIELD_HEAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019a72eddc09d527f5f8a01d6e043f85fa76" name="aa87108001ed3860c7adcb67ee9e52019a72eddc09d527f5f8a01d6e043f85fa76"></a>SPELL_SHAMAN_ELEMENTAL_MASTERY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019aac0af1b5cbd5c35d315ae2273c17eb43" name="aa87108001ed3860c7adcb67ee9e52019aac0af1b5cbd5c35d315ae2273c17eb43"></a>SPELL_SHAMAN_ELECTRIFIED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019ab2ae14630088de8b52f391e14988b5e1" name="aa87108001ed3860c7adcb67ee9e52019ab2ae14630088de8b52f391e14988b5e1"></a>SPELL_SHAMAN_EXHAUSTION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019a79d48cc31cfe1b8e228bc9236fa48c3b" name="aa87108001ed3860c7adcb67ee9e52019a79d48cc31cfe1b8e228bc9236fa48c3b"></a>SPELL_SHAMAN_FIRE_NOVA_R1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019ae4d68eb02284baf4168dd474f011a5b0" name="aa87108001ed3860c7adcb67ee9e52019ae4d68eb02284baf4168dd474f011a5b0"></a>SPELL_SHAMAN_FIRE_NOVA_TRIGGERED_R1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019a71b0a26925bb4da743c652f284727ab1" name="aa87108001ed3860c7adcb67ee9e52019a71b0a26925bb4da743c652f284727ab1"></a>SPELL_SHAMAN_GLYPH_OF_EARTH_SHIELD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019a143ad7a35158a008ba877f4a3d2454e3" name="aa87108001ed3860c7adcb67ee9e52019a143ad7a35158a008ba877f4a3d2454e3"></a>SPELL_SHAMAN_GLYPH_OF_HEALING_STREAM_TOTEM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019a9a807b28eb58d2f4f4539bebd6dec4da" name="aa87108001ed3860c7adcb67ee9e52019a9a807b28eb58d2f4f4539bebd6dec4da"></a>SPELL_SHAMAN_GLYPH_OF_MANA_TIDE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019a841e96bbe93dc3366867eb77250dc0a2" name="aa87108001ed3860c7adcb67ee9e52019a841e96bbe93dc3366867eb77250dc0a2"></a>SPELL_SHAMAN_GLYPH_OF_THUNDERSTORM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019a459a713eeb348964b181aa08fc72f5e2" name="aa87108001ed3860c7adcb67ee9e52019a459a713eeb348964b181aa08fc72f5e2"></a>SPELL_SHAMAN_ITEM_LIGHTNING_SHIELD&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019a55c8be0ddb6926b0050d8fd2d4d6a990" name="aa87108001ed3860c7adcb67ee9e52019a55c8be0ddb6926b0050d8fd2d4d6a990"></a>SPELL_SHAMAN_ITEM_LIGHTNING_SHIELD_DAMAGE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019ae9cd9603ea6d80479a2760686391566f" name="aa87108001ed3860c7adcb67ee9e52019ae9cd9603ea6d80479a2760686391566f"></a>SPELL_SHAMAN_ITEM_MANA_SURGE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019a907ef88a98a8daa70d21406d41a04120" name="aa87108001ed3860c7adcb67ee9e52019a907ef88a98a8daa70d21406d41a04120"></a>SPELL_SHAMAN_LAVA_FLOWS_R1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019ac4c3cf0a498a746285ed48fa0d6e1800" name="aa87108001ed3860c7adcb67ee9e52019ac4c3cf0a498a746285ed48fa0d6e1800"></a>SPELL_SHAMAN_LAVA_FLOWS_TRIGGERED_R1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019aa4a29831a1a1d7d2c43868b41f0ebf9c" name="aa87108001ed3860c7adcb67ee9e52019aa4a29831a1a1d7d2c43868b41f0ebf9c"></a>SPELL_SHAMAN_MANA_SPRING_TOTEM_ENERGIZE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019a4910331576d472088ed59ab694712d1b" name="aa87108001ed3860c7adcb67ee9e52019a4910331576d472088ed59ab694712d1b"></a>SPELL_SHAMAN_MANA_TIDE_TOTEM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019a4df99e57e0d713d193e2578b8fdee7a4" name="aa87108001ed3860c7adcb67ee9e52019a4df99e57e0d713d193e2578b8fdee7a4"></a>SPELL_SHAMAN_SATED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019ab7a6e3e33f811c9d9d85285a1e7e0d60" name="aa87108001ed3860c7adcb67ee9e52019ab7a6e3e33f811c9d9d85285a1e7e0d60"></a>SPELL_SHAMAN_STORM_EARTH_AND_FIRE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019a04c3dfea37fa8eeb0af97d7cd6e499a2" name="aa87108001ed3860c7adcb67ee9e52019a04c3dfea37fa8eeb0af97d7cd6e499a2"></a>SPELL_SHAMAN_TOTEM_EARTHBIND_EARTHGRAB&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019a4709b8c9c037c648bb265d2f7695f4e7" name="aa87108001ed3860c7adcb67ee9e52019a4709b8c9c037c648bb265d2f7695f4e7"></a>SPELL_SHAMAN_TOTEM_EARTHBIND_TOTEM&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019ab3f8d2e2ded26eb9e6ebcecb9442649e" name="aa87108001ed3860c7adcb67ee9e52019ab3f8d2e2ded26eb9e6ebcecb9442649e"></a>SPELL_SHAMAN_TOTEM_EARTHEN_POWER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019a8d0782da4d8d3aea933835cbb7dc83ef" name="aa87108001ed3860c7adcb67ee9e52019a8d0782da4d8d3aea933835cbb7dc83ef"></a>SPELL_SHAMAN_TOTEM_HEALING_STREAM_HEAL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019a40689e256ce60fa29f39b2804a5c5ae2" name="aa87108001ed3860c7adcb67ee9e52019a40689e256ce60fa29f39b2804a5c5ae2"></a>SPELL_SHAMAN_BLESSING_OF_THE_ETERNALS_R1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019a62dc8e40febbbc0eaa3cdb8de6c9a13f" name="aa87108001ed3860c7adcb67ee9e52019a62dc8e40febbbc0eaa3cdb8de6c9a13f"></a>SPELL_SHAMAN_STORMSTRIKE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019a9d65d3bf8bf2cf95bcfcce2b8a50f5a6" name="aa87108001ed3860c7adcb67ee9e52019a9d65d3bf8bf2cf95bcfcce2b8a50f5a6"></a>SPELL_SHAMAN_LAVA_LASH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa87108001ed3860c7adcb67ee9e52019a6b6e0fd0d2236e9fe5d81342e366c3ad" name="aa87108001ed3860c7adcb67ee9e52019a6b6e0fd0d2236e9fe5d81342e366c3ad"></a>SPELL_SHAMAN_LIGHTNING_BOLT_OVERLOAD&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   28</span>{</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d3/d8f/a03956.html#aa87108001ed3860c7adcb67ee9e52019aa109e155dd35d935fb257e50e09747bb">SPELL_SHAMAN_ANGEREDEARTH</a>   = 36213,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d3/d8f/a03956.html#aa87108001ed3860c7adcb67ee9e52019ab4d2cec0ccba90360e4d378708dc2274">SPELL_SHAMAN_FIREBLAST</a>      = 57984,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d3/d8f/a03956.html#aa87108001ed3860c7adcb67ee9e52019aa1c748f3d3c445992118bdca56e91ba5">SPELL_SHAMAN_FIRENOVA</a>       = 12470,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d3/d8f/a03956.html#aa87108001ed3860c7adcb67ee9e52019a384ca4eabf43f412d7d68e16d6ef7fe8">SPELL_SHAMAN_FIRESHIELD</a>     = 13377</div>
+<div class="line"><span class="lineno">   33</span>};</div>
+<div class="ttc" id="aa03956_html_aa87108001ed3860c7adcb67ee9e52019a384ca4eabf43f412d7d68e16d6ef7fe8"><div class="ttname"><a href="../../d3/d8f/a03956.html#aa87108001ed3860c7adcb67ee9e52019a384ca4eabf43f412d7d68e16d6ef7fe8">SPELL_SHAMAN_FIRESHIELD</a></div><div class="ttdeci">@ SPELL_SHAMAN_FIRESHIELD</div><div class="ttdef"><b>Definition:</b> pet_shaman.cpp:32</div></div>
+<div class="ttc" id="aa03956_html_aa87108001ed3860c7adcb67ee9e52019aa109e155dd35d935fb257e50e09747bb"><div class="ttname"><a href="../../d3/d8f/a03956.html#aa87108001ed3860c7adcb67ee9e52019aa109e155dd35d935fb257e50e09747bb">SPELL_SHAMAN_ANGEREDEARTH</a></div><div class="ttdeci">@ SPELL_SHAMAN_ANGEREDEARTH</div><div class="ttdef"><b>Definition:</b> pet_shaman.cpp:29</div></div>
+<div class="ttc" id="aa03956_html_aa87108001ed3860c7adcb67ee9e52019aa1c748f3d3c445992118bdca56e91ba5"><div class="ttname"><a href="../../d3/d8f/a03956.html#aa87108001ed3860c7adcb67ee9e52019aa1c748f3d3c445992118bdca56e91ba5">SPELL_SHAMAN_FIRENOVA</a></div><div class="ttdeci">@ SPELL_SHAMAN_FIRENOVA</div><div class="ttdef"><b>Definition:</b> pet_shaman.cpp:31</div></div>
+<div class="ttc" id="aa03956_html_aa87108001ed3860c7adcb67ee9e52019ab4d2cec0ccba90360e4d378708dc2274"><div class="ttname"><a href="../../d3/d8f/a03956.html#aa87108001ed3860c7adcb67ee9e52019ab4d2cec0ccba90360e4d378708dc2274">SPELL_SHAMAN_FIREBLAST</a></div><div class="ttdeci">@ SPELL_SHAMAN_FIREBLAST</div><div class="ttdef"><b>Definition:</b> pet_shaman.cpp:30</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="ab07e634ed761985e07d5c0e10f329231" name="ab07e634ed761985e07d5c0e10f329231"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab07e634ed761985e07d5c0e10f329231">&#9670;&#160;</a></span>AddSC_shaman_pet_scripts()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void AddSC_shaman_pet_scripts </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  147</span>{</div>
+<div class="line"><span class="lineno">  148</span>    <a class="code hl_define" href="../../df/d68/a01385.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../de/d4f/a24671.html">npc_pet_shaman_earth_elemental</a>);</div>
+<div class="line"><span class="lineno">  149</span>    <a class="code hl_define" href="../../df/d68/a01385.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a>(<a class="code hl_struct" href="../../d3/db2/a24675.html">npc_pet_shaman_fire_elemental</a>);</div>
+<div class="line"><span class="lineno">  150</span>}</div>
+<div class="ttc" id="aa01385_html_a5e7352841895df7117e2830448eb533f"><div class="ttname"><a href="../../df/d68/a01385.html#a5e7352841895df7117e2830448eb533f">RegisterCreatureAI</a></div><div class="ttdeci">#define RegisterCreatureAI(ai_name)</div><div class="ttdef"><b>Definition:</b> CreatureScript.h:71</div></div>
+<div class="ttc" id="aa24671_html"><div class="ttname"><a href="../../de/d4f/a24671.html">npc_pet_shaman_earth_elemental</a></div><div class="ttdef"><b>Definition:</b> pet_shaman.cpp:46</div></div>
+<div class="ttc" id="aa24675_html"><div class="ttname"><a href="../../d3/db2/a24675.html">npc_pet_shaman_fire_elemental</a></div><div class="ttdef"><b>Definition:</b> pet_shaman.cpp:89</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00071">RegisterCreatureAI</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00029">AddPetScripts()</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_315286625446b425c001eecd2b17ef1a.html">Server</a></li><li class="navelem"><a class="el" href="../../d3/d8f/a03956.html">WorldSession.h</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:44:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_ff1fc60aa0464e46be01116f0901446f.html">Pet</a></li><li class="navelem"><a class="el" href="../../d3/d8f/a03956.html">pet_shaman.cpp</a></li>
+    <li class="footer">Generated on Mon Sep 29 2025 20:46:35 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

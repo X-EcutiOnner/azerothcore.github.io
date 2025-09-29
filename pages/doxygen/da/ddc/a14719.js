@@ -1,28 +1,5 @@
 var a14719 =
 [
-    [ "instance_culling_of_stratholme_InstanceMapScript", "da/ddc/a14719.html#ab14fa9416d0971ed84d659cad15f7065", null ],
-    [ "ChromieWhisper", "da/ddc/a14719.html#ae97d05afd1cb4b8d665ad3361a517781", null ],
-    [ "FillInitialWorldStates", "da/ddc/a14719.html#aa3433b8a185c31d8c00ae1ffab10baa2", null ],
-    [ "GetData", "da/ddc/a14719.html#aaea6ab9b71d52377ddebd7b54b354c1e", null ],
-    [ "GetGuidData", "da/ddc/a14719.html#adc795bd78af72bd6bda8546a756a94e0", null ],
-    [ "GetSaveData", "da/ddc/a14719.html#ad0d4cd6646c52dba390193b38df00d6f", null ],
-    [ "IsEncounterInProgress", "da/ddc/a14719.html#ad64c44c62f429cbca6c2e720a35a7b41", null ],
-    [ "Load", "da/ddc/a14719.html#a7981d6fc2a4f4113d9844ffd9a917473", null ],
-    [ "OnCreatureCreate", "da/ddc/a14719.html#a160e3b02d40abecbc16533972433fe9b", null ],
-    [ "OnGameObjectCreate", "da/ddc/a14719.html#a6fe2831227ec9f43882cf19849689a45", null ],
-    [ "OnPlayerEnter", "da/ddc/a14719.html#a09088000395dbd2b1255c02b4867898d", null ],
-    [ "Reposition", "da/ddc/a14719.html#a32218976e637b9499bcbd8f1e4d9c8c8", null ],
-    [ "SetData", "da/ddc/a14719.html#a02fc56dddc6b300f06c7cc5f8fb3ded7", null ],
-    [ "Update", "da/ddc/a14719.html#a9e90b4dd34a8a81b499b1402fbbaf218", null ],
-    [ "UpdateEventState", "da/ddc/a14719.html#aff8e5df41dd304df32a6ad3ac185b672", null ],
-    [ "_arthasGUID", "da/ddc/a14719.html#a1047f207de079d1cad0fc6976ab2d3f9", null ],
-    [ "_crateCount", "da/ddc/a14719.html#a7cdab6cdc847b4b3c434ee42ff458dae", null ],
-    [ "_encounterState", "da/ddc/a14719.html#a0a5afd0104654aea57479fa3f4d1e36a", null ],
-    [ "_exitGateGUID", "da/ddc/a14719.html#ab671339f99ddc498950ef868042fd4a4", null ],
-    [ "_guardianTimer", "da/ddc/a14719.html#aaf1409ef7e2c3ef43d0704f586a75312", null ],
-    [ "_infiniteGUID", "da/ddc/a14719.html#a96d30d5f0dabb385f36e4b0a0762a16a", null ],
-    [ "_loadTimer", "da/ddc/a14719.html#a87002a39776087346791b9026c6e2e07", null ],
-    [ "_respawnAndReposition", "da/ddc/a14719.html#af768b50e85b799d35844b173d94e578d", null ],
-    [ "_shkafGateGUID", "da/ddc/a14719.html#a4a7fd8572c70c16853cf7cd410197e52", null ],
-    [ "_showCrateTimer", "da/ddc/a14719.html#ae6948cd547db988418c5d98f435ef2b8", null ]
+    [ "npc_pilgrims_bounty_plate", "da/ddc/a14719.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
+    [ "SpellHit", "da/ddc/a14719.html#a7797b7a532336542ef37f0643df8dec0", null ]
 ];

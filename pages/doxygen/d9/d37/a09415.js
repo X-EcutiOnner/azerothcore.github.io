@@ -1,8 +1,10 @@
 var a09415 =
 [
-    [ "AllDeadCreaturesInRange", "d9/d37/a09415.html#a31b4976c3ea6203b9a1e7f7970a97977", null ],
-    [ "operator()", "d9/d37/a09415.html#a3638a8d3c5791b590ec717e4f1ba9cef", null ],
-    [ "_obj", "d9/d37/a09415.html#a4ca7fcf9945e698a790d01d3fadae98e", null ],
-    [ "_range", "d9/d37/a09415.html#a431ada86a2b864d53773a85b05d8da4f", null ],
-    [ "_reqAlive", "d9/d37/a09415.html#aefd0d77b69b5df9b99c148e0254fda09", null ]
+    [ "AnyAoETargetUnitInObjectRangeCheck", "d9/d37/a09415.html#a93d850e2d5f094b97ca5c09bf1d236a9", null ],
+    [ "operator()", "d9/d37/a09415.html#af9a0c32593544a73aae22cd397eef63a", null ],
+    [ "_spellInfo", "d9/d37/a09415.html#a1317c9df0d5792ad3122ff1ed1a31458", null ],
+    [ "i_funit", "d9/d37/a09415.html#aa00b184a24ea73293114f92126f58f24", null ],
+    [ "i_obj", "d9/d37/a09415.html#aa4acf0089c978408e30b08d539f2512f", null ],
+    [ "i_range", "d9/d37/a09415.html#ad386efa8206906fd99816694a6a8d69b", null ],
+    [ "i_targetForPlayer", "d9/d37/a09415.html#af5ce329f3493b97f59c61c3e87af48b1", null ]
 ];

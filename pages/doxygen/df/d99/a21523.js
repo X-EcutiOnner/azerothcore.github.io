@@ -1,9 +1,14 @@
 var a21523 =
 [
-    [ "npc_bonker_togglevoltAI", "df/d99/a21523.html#adfd43a6a804a35e235262e55f0155ffe", null ],
-    [ "JustDied", "df/d99/a21523.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
-    [ "Reset", "df/d99/a21523.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
-    [ "UpdateEscortAI", "df/d99/a21523.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
-    [ "WaypointReached", "df/d99/a21523.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
-    [ "Bonker_agro", "df/d99/a21523.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
+    [ "boss_erekemAI", "df/d99/a21523.html#aedf10fef3f0f2ac6797efa5f5a809f4a", null ],
+    [ "EnterEvadeMode", "df/d99/a21523.html#a2c9f8f444b3b28d5cfdbaa234e9d76ee", null ],
+    [ "GetChainHealTargetGUID", "df/d99/a21523.html#aa346cbaded883bbb3806acf9cb32579a", null ],
+    [ "JustDied", "df/d99/a21523.html#a12e7fb5389977dcacb4e1eadda771467", null ],
+    [ "JustEngagedWith", "df/d99/a21523.html#ad380838dbb6c2a3488fa57f2999e137c", null ],
+    [ "KilledUnit", "df/d99/a21523.html#a120a2c9a6af821ce9a5e68dbab6e800d", null ],
+    [ "MoveInLineOfSight", "df/d99/a21523.html#a5905809cba20d426c4d222b1e91055bc", null ],
+    [ "Reset", "df/d99/a21523.html#a338bbc123b1d3adef4f014c3302c4590", null ],
+    [ "UpdateAI", "df/d99/a21523.html#a234ae447260ae30a137a53fb986e5dc4", null ],
+    [ "events", "df/d99/a21523.html#a8d4445b6d35f534061818f7708f39f7e", null ],
+    [ "pInstance", "df/d99/a21523.html#aa68ece744a21ed2ef8d3e7c4b4081d8e", null ]
 ];

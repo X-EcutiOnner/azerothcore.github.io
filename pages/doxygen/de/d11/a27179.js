@@ -1,6 +1,8 @@
 var a27179 =
 [
-    [ "go_heatAI", "de/d11/a27179.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
-    [ "UpdateAI", "de/d11/a27179.html#a2332206ee47b2cea9e4707d16ea79325", null ],
-    [ "timer", "de/d11/a27179.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
+    [ "HandleDamage", "de/d11/a27179.html#a371d3112e619453b7c92933a145bf4d2", null ],
+    [ "HandleDummy", "de/d11/a27179.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
+    [ "PrepareSpellScript", "de/d11/a27179.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
+    [ "Register", "de/d11/a27179.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
+    [ "Validate", "de/d11/a27179.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
 ];

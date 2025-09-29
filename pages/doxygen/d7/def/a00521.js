@@ -1,16 +1,15 @@
 var a00521 =
 [
-    [ "ModelFlags", "d7/def/a00521.html#a829dc978e29d88ada1059ea4ca6c4cd3", [
-      [ "MOD_M2", "d7/def/a00521.html#a829dc978e29d88ada1059ea4ca6c4cd3a36c4baaa0c832deca9bc0f05addf1168", null ],
-      [ "MOD_WORLDSPAWN", "d7/def/a00521.html#a829dc978e29d88ada1059ea4ca6c4cd3aa5609345ab3d1b82637666503b9bb0b4", null ],
-      [ "MOD_HAS_BOUND", "d7/def/a00521.html#a829dc978e29d88ada1059ea4ca6c4cd3ae86efc863566bd1ba59ca8ad8cb72851", null ]
+    [ "MonsterMoveType", "d7/def/a00521.html#afd3f02560404659d901713e1228d9339", [
+      [ "MonsterMoveNormal", "d7/def/a00521.html#afd3f02560404659d901713e1228d9339aba693dab24bf78b0173914ecf339c558", null ],
+      [ "MonsterMoveStop", "d7/def/a00521.html#afd3f02560404659d901713e1228d9339a6520302858321c3083951d598e05a167", null ],
+      [ "MonsterMoveFacingSpot", "d7/def/a00521.html#afd3f02560404659d901713e1228d9339a395aabd5641c37343d08506cfc4e4323", null ],
+      [ "MonsterMoveFacingTarget", "d7/def/a00521.html#afd3f02560404659d901713e1228d9339a61f5156f5db570fd9f5db194179ea7f9", null ],
+      [ "MonsterMoveFacingAngle", "d7/def/a00521.html#afd3f02560404659d901713e1228d9339ac65e2c863bd6cadc1dc72c4720e61642", null ]
     ] ],
-    [ "ExtractGameobjectModels", "d7/def/a00521.html#a7b3d0cbf404ed32359e354ccf6e34392", null ],
-    [ "ExtractSingleModel", "d7/def/a00521.html#a6a96194f748b715f0400249583336ae5", null ],
-    [ "ExtractSingleWmo", "d7/def/a00521.html#afc9839262206eb10094c1769141ae146", null ],
-    [ "FileExists", "d7/def/a00521.html#aab524156a5705c5cd09f96106eaac92d", null ],
-    [ "GenerateUniqueObjectId", "d7/def/a00521.html#a6a3d179f34597554b17a122f27cd6be5", null ],
-    [ "strToLower", "d7/def/a00521.html#ac9e88429cc2168db83793cb7074bc69f", null ],
-    [ "szWorkDirWmo", "d7/def/a00521.html#ac706bf73d4ee9783a3b882fad9c3cbea", null ],
-    [ "WmoDoodads", "d7/def/a00521.html#a17b22c7645963c9e5c277b72605a4966", null ]
+    [ "operator<<", "d7/def/a00521.html#ac2e9418dfdb25149170911f2cd0dd948", null ],
+    [ "operator>>", "d7/def/a00521.html#ae394b26156a3fa0d1d828d30cee475b1", null ],
+    [ "WriteCatmullRomCyclicPath", "d7/def/a00521.html#ae740cc738fed507e64b3243ce62c5952", null ],
+    [ "WriteCatmullRomPath", "d7/def/a00521.html#a92efeab3fe080f348fa91cb9bc5a1b05", null ],
+    [ "WriteLinearPath", "d7/def/a00521.html#ad0db2c4fd496c84301b43d46fbffb460", null ]
 ];

@@ -1,6 +1,5 @@
 var a19527 =
 [
-    [ "boss_sjonnirAI", "d1/db2/a19531.html", "d1/db2/a19531" ],
-    [ "boss_sjonnir", "d7/d8d/a19527.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "d7/d8d/a19527.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "achievement_intense_cold", "d7/d8d/a19527.html#a2377357d6bfc03e5b91354428d3da3de", null ],
+    [ "OnCheck", "d7/d8d/a19527.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
 ];

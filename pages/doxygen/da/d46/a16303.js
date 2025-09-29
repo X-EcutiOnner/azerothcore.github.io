@@ -1,7 +1,7 @@
 var a16303 =
 [
-    [ "HandleEffectPeriodic", "da/d46/a16303.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
-    [ "PrepareAuraScript", "da/d46/a16303.html#a4506f7d723b85c7555296f5ade11cd29", null ],
-    [ "Register", "da/d46/a16303.html#aeac7e6abc89209e14451439cdf1d416e", null ],
-    [ "Validate", "da/d46/a16303.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
+    [ "npc_orb_carrierAI", "da/d46/a16303.html#a2011c247d2157f5f2a06db6e149743e0", null ],
+    [ "DoAction", "da/d46/a16303.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
+    [ "TriggerCutter", "da/d46/a16303.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
+    [ "UpdateAI", "da/d46/a16303.html#a99a08390fcf2b0a058aee161932392d0", null ]
 ];

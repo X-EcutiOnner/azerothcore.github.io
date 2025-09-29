@@ -1,6 +1,6 @@
 var a24123 =
 [
-    [ "npc_drake_dealer_hurlunk", "d4/d1c/a24123.html#ae6d095365d23c30d5b772b047b459ddb", null ],
-    [ "OnGossipHello", "d4/d1c/a24123.html#ad04b7f906f029d9935e29c585b0de421", null ],
-    [ "OnGossipSelect", "d4/d1c/a24123.html#aa23833dcdefb909899120c25d5376111", null ]
+    [ "PrepareAuraScript", "d4/d1c/a24123.html#a14d4d1a75130a77e7e59e41720491bec", null ],
+    [ "PrepareProc", "d4/d1c/a24123.html#abea217f4bfdffc70007fbc29849e9a49", null ],
+    [ "Register", "d4/d1c/a24123.html#a9dbcd4c940f5941472bebb64829125e3", null ]
 ];

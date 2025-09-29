@@ -1,6 +1,8 @@
 var a27091 =
 [
-    [ "boss_emerissAI", "d0/d2b/a27095.html", "d0/d2b/a27095" ],
-    [ "boss_emeriss", "d6/dd6/a27091.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "d6/dd6/a27091.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "Load", "d6/dd6/a27091.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
+    [ "OnRemove", "d6/dd6/a27091.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
+    [ "PrepareAuraScript", "d6/dd6/a27091.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
+    [ "Register", "d6/dd6/a27091.html#a932760326c822f1b47df1afdec6bb9cb", null ],
+    [ "Validate", "d6/dd6/a27091.html#a69bcfedb7f566c572201aadc9e75df08", null ]
 ];

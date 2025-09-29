@@ -1,6 +1,6 @@
 var a21699 =
 [
-    [ "npc_mindless_ghoulAI", "d6/da0/a21699.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
-    [ "CanAIAttack", "d6/da0/a21699.html#a18fbc44ad760a69d952d003622ec75b2", null ],
-    [ "JustDied", "d6/da0/a21699.html#a272067bef6dbab24024f7de990c10b64", null ]
+    [ "npc_violet_hold_defense_system", "d6/da0/a21699.html#abb5eb275e803201aad3010ad77aa4b41", null ],
+    [ "Reset", "d6/da0/a21699.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
+    [ "UpdateAI", "d6/da0/a21699.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ]
 ];

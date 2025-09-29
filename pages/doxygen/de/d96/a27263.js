@@ -1,6 +1,6 @@
 var a27263 =
 [
-    [ "go_fel_crystalforge", "de/d96/a27263.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "de/d96/a27263.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "de/d96/a27263.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "achievement_arena_by_type", "de/d96/a27263.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "de/d96/a27263.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "de/d96/a27263.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

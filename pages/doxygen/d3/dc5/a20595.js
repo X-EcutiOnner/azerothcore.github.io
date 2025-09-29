@@ -1,6 +1,6 @@
 var a20595 =
 [
-    [ "boss_thorim_gauntlet_npcsAI", "d4/d8c/a20599.html", "d4/d8c/a20599" ],
-    [ "boss_thorim_gauntlet_npcs", "d3/dc5/a20595.html#abdf2e90c5b86d3724fac46bff5e15d97", null ],
-    [ "GetAI", "d3/dc5/a20595.html#a2a71153ed2a9091de6668ab0b6f7674f", null ]
+    [ "OnPeriodic", "d3/dc5/a20595.html#a8a12342f694499043e8ed4446fd92d36", null ],
+    [ "PrepareAuraScript", "d3/dc5/a20595.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
+    [ "Register", "d3/dc5/a20595.html#a381709d53101832de6b2161c4a33a0d4", null ]
 ];

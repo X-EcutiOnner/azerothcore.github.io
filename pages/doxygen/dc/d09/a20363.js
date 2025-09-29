@@ -1,6 +1,5 @@
 var a20363 =
 [
-    [ "npc_ulduar_vx001AI", "da/d30/a20367.html", "da/d30/a20367" ],
-    [ "npc_ulduar_vx001", "dc/d09/a20363.html#ae8393c02c94a94b0847e0c7837bc5469", null ],
-    [ "GetAI", "dc/d09/a20363.html#acdab817141b851deb09861230323ee58", null ]
+    [ "achievement_smell_saronite", "dc/d09/a20363.html#a42dce2aefa2561952dcf5289126035a8", null ],
+    [ "OnCheck", "dc/d09/a20363.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
 ];

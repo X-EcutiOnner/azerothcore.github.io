@@ -1,11 +1,10 @@
 var a20839 =
 [
-    [ "boss_yoggsaron_lich_kingAI", "dd/d33/a20839.html#a4fcf1be1bc20327ff8daf9c79baabde7", null ],
-    [ "NextStep", "dd/d33/a20839.html#a4f99e511d6296b56df8ab8fbe53620e6", null ],
-    [ "Reset", "dd/d33/a20839.html#a4c8f098f245e90685f0f3660028500a8", null ],
-    [ "Say", "dd/d33/a20839.html#a01217dd4c33b0ccae448aa137e83dd9b", null ],
-    [ "UpdateAI", "dd/d33/a20839.html#a3cbe18164c993fd034242b3f19d27e31", null ],
-    [ "_checkTimer", "dd/d33/a20839.html#a8f0234b32612ff56ac6a7429f6e4da09", null ],
-    [ "_running", "dd/d33/a20839.html#a9d7f0f2a8cf4f421253c8c5a6ec98111", null ],
-    [ "_step", "dd/d33/a20839.html#a6af98b3daace7852a485983167538f85", null ]
+    [ "boss_thorim_sif_blizzardAI", "dd/d33/a20839.html#a99d1c529126452e580ebc7e3e513b367", null ],
+    [ "AttackStart", "dd/d33/a20839.html#a1f05551f323fa410a699497f3875b21f", null ],
+    [ "InitWaypoint", "dd/d33/a20839.html#a1e0a384081750bdf38cc8e0065070ec8", null ],
+    [ "JustEngagedWith", "dd/d33/a20839.html#a9fea5617dccb493c7af435c485462ff3", null ],
+    [ "MoveInLineOfSight", "dd/d33/a20839.html#ab91a2a71ff00e38d2eca50ccc654d9f3", null ],
+    [ "Reset", "dd/d33/a20839.html#a193ba575c4f3f16d850e56f12f190c77", null ],
+    [ "WaypointReached", "dd/d33/a20839.html#a961f90068f25d81f55159763fe2677f8", null ]
 ];

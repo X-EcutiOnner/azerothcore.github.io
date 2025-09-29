@@ -1,6 +1,7 @@
 var a19939 =
 [
-    [ "CheckAreaTarget", "d7/db9/a19939.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
-    [ "PrepareAuraScript", "d7/db9/a19939.html#a921b2f67c417244310398bd93061d61c", null ],
-    [ "Register", "d7/db9/a19939.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
+    [ "HandleDummyEffect", "d7/db9/a19939.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
+    [ "PrepareSpellScript", "d7/db9/a19939.html#a84a4f52928873e58b1fc49e783c5083a", null ],
+    [ "Register", "d7/db9/a19939.html#a90c00bcb1768d696addab407425e406a", null ],
+    [ "SelectTarget", "d7/db9/a19939.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
 ];

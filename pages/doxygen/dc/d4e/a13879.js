@@ -1,6 +1,7 @@
 var a13879 =
 [
-    [ "boss_gahzranka", "dc/d4e/a13879.html#a82cc1a44a967f859039957e41f38dd77", null ],
-    [ "IsSummonedBy", "dc/d4e/a13879.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
-    [ "JustEngagedWith", "dc/d4e/a13879.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "d9/d3a/a13883.html", "d9/d3a/a13883" ],
+    [ "npc_lady_sylvanas_windrunner", "dc/d4e/a13879.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
+    [ "GetAI", "dc/d4e/a13879.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
+    [ "OnQuestReward", "dc/d4e/a13879.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
 ];

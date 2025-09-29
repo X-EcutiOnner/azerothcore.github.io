@@ -1,6 +1,6 @@
 var a16367 =
 [
-    [ "npc_toc_mageAI", "db/d19/a16371.html", "db/d19/a16371" ],
-    [ "npc_toc_mage", "d9/d47/a16367.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
-    [ "GetAI", "d9/d47/a16367.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
+    [ "OnSummon", "d9/d47/a16367.html#ae2766d12fb686356b46126848f356c5a", null ],
+    [ "PrepareSpellScript", "d9/d47/a16367.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
+    [ "Register", "d9/d47/a16367.html#a717394bfbea621ae637f9e87efddda62", null ]
 ];

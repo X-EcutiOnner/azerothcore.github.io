@@ -1,8 +1,6 @@
 var a23387 =
 [
-    [ "npc_underbat", "d1/d9d/a23387.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
-    [ "JustEngagedWith", "d1/d9d/a23387.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
-    [ "Reset", "d1/d9d/a23387.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
-    [ "UpdateAI", "d1/d9d/a23387.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
-    [ "_scheduler", "d1/d9d/a23387.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
+    [ "HandleEffectRemove", "d1/d9d/a23387.html#adfbbb75ace34ab5c0fec35e6aa88505a", null ],
+    [ "PrepareAuraScript", "d1/d9d/a23387.html#a94b91d27b9a218b5fdce91d6a6e72f62", null ],
+    [ "Register", "d1/d9d/a23387.html#a2b7fb2d6d0f92a970a45e0b9c409408d", null ]
 ];

@@ -1,6 +1,8 @@
 var a24431 =
 [
-    [ "HandlePeriodic", "df/d96/a24431.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
-    [ "PrepareAuraScript", "df/d96/a24431.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
-    [ "Register", "df/d96/a24431.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
+    [ "CreatureId", "df/d96/a24431.html#a127341c70f8785ceb556b1c11b23f477", null ],
+    [ "SpawnCount", "df/d96/a24431.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
+    [ "SpawnTimer", "df/d96/a24431.html#aa57ff686c5fde12269e231333d8a8bef", null ],
+    [ "UsedSpawnPoint", "df/d96/a24431.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
+    [ "YellTimer", "df/d96/a24431.html#a6346259269af7f2936f959f87288dd69", null ]
 ];

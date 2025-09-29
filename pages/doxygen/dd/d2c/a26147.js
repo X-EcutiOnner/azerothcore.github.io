@@ -1,7 +1,8 @@
 var a26147 =
 [
-    [ "CalculateAmount", "dd/d2c/a26147.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
-    [ "HandleUpdateSpellclick", "dd/d2c/a26147.html#a89956d7f3a6404d5b60e46034867c82c", null ],
-    [ "PrepareAuraScript", "dd/d2c/a26147.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
-    [ "Register", "dd/d2c/a26147.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ]
+    [ "HandleScript", "dd/d2c/a26147.html#ad99c741ef4bf707ec4b4726a3610d827", null ],
+    [ "Load", "dd/d2c/a26147.html#ab7aac5c557c76fdd195565a99d746dc9", null ],
+    [ "PrepareSpellScript", "dd/d2c/a26147.html#abb6e76d537d61b5b38ce4488d230d6de", null ],
+    [ "Register", "dd/d2c/a26147.html#a2f7e819dfa30f4f0d3645fde9c87408c", null ],
+    [ "Validate", "dd/d2c/a26147.html#a0767c66cbc288bee6ee0eb3a4fde315f", null ]
 ];

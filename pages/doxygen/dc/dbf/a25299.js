@@ -1,9 +1,8 @@
 var a25299 =
 [
-    [ "spell_gen_translocate", "dc/dbf/a25299.html#a56a3df0eba3e1521aa2898194c39e919", null ],
-    [ "HandleScript", "dc/dbf/a25299.html#a67684fb76da60fdc13dbece055dae157", null ],
-    [ "PrepareSpellScript", "dc/dbf/a25299.html#a6f0986e54ad410c2f42a7935645485ed", null ],
-    [ "Register", "dc/dbf/a25299.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
-    [ "Validate", "dc/dbf/a25299.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
-    [ "_spellId", "dc/dbf/a25299.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
+    [ "AchievementCredit", "dc/dbf/a25299.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "dc/dbf/a25299.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "dc/dbf/a25299.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "dc/dbf/a25299.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "dc/dbf/a25299.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

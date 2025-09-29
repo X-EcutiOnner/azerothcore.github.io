@@ -1,6 +1,6 @@
 var a16035 =
 [
-    [ "npc_orb_carrierAI", "d9/d77/a16039.html", "d9/d77/a16039" ],
-    [ "npc_orb_carrier", "d4/d13/a16035.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
-    [ "GetAI", "d4/d13/a16035.html#ab5b7bbffc43b840c686dc889805ea401", null ]
+    [ "ModDestHeight", "d4/d13/a16035.html#a8bda9327c4244af41c513528ad5c818c", null ],
+    [ "PrepareSpellScript", "d4/d13/a16035.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
+    [ "Register", "d4/d13/a16035.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
 ];

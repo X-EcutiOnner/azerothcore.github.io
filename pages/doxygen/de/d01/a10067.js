@@ -1,12 +1,9 @@
 var a10067 =
 [
-    [ "delay", "de/d01/a10067.html#aa05ef99c3e04589501362a07d0dd032a", null ],
-    [ "event_chance", "de/d01/a10067.html#af54f2d38ca1a11664f516799f3bb80c8", null ],
-    [ "event_id", "de/d01/a10067.html#a083020691278af836e48f0a0c2feff96", null ],
-    [ "id", "de/d01/a10067.html#af7248c313ceefedb5b7ff6ed4c2ffd6b", null ],
-    [ "move_type", "de/d01/a10067.html#afb1a57b423a258e99c6921727a27e2e7", null ],
-    [ "orientation", "de/d01/a10067.html#a971411811b0e60839538f82cd55dcfb7", null ],
-    [ "x", "de/d01/a10067.html#a2dfd7f1f946ebef0b67d8f1542198b4b", null ],
-    [ "y", "de/d01/a10067.html#a574c5ba7eb5e6bd55f6c55bb511c03f7", null ],
-    [ "z", "de/d01/a10067.html#a013fa650f43e790e652016fbce2e1bd5", null ]
+    [ "PathMovementBase", "de/d01/a10067.html#a6b76e1527ed69ff631d7a72c309f264a", null ],
+    [ "PathMovementBase", "de/d01/a10067.html#a953fcda0cf7764f659fc5a4a19408550", null ],
+    [ "~PathMovementBase", "de/d01/a10067.html#a33b2b53993fe897712a196bc4ad86bd1", null ],
+    [ "GetCurrentNode", "de/d01/a10067.html#a7ceb52928f2198392980c3926516fd82", null ],
+    [ "i_currentNode", "de/d01/a10067.html#a5420aef90d3529881ef41362ebb29934", null ],
+    [ "i_path", "de/d01/a10067.html#a3dbc5e41e0c6245f369afc7a24081c83", null ]
 ];

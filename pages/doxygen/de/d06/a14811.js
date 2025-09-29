@@ -1,6 +1,8 @@
 var a14811 =
 [
-    [ "instance_maraudon_InstanceMapScript", "db/dc5/a14815.html", "db/dc5/a14815" ],
-    [ "instance_maraudon", "de/d06/a14811.html#aaae11d2569d04b42840b101a5702cf24", null ],
-    [ "GetInstanceScript", "de/d06/a14811.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
+    [ "npc_doomfire_spirit", "de/d06/a14811.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
+    [ "Reset", "de/d06/a14811.html#a0600718fad91723eba74b903583c5942", null ],
+    [ "TryTeleportInDirection", "de/d06/a14811.html#a7fc48df636df66a006a8179fd63e2a65", null ],
+    [ "UpdateAI", "de/d06/a14811.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
+    [ "turnConstant", "de/d06/a14811.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
 ];

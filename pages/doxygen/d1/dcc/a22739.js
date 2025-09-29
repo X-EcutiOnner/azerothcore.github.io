@@ -1,8 +1,9 @@
 var a22739 =
 [
-    [ "HandleScriptEffect", "d1/dcc/a22739.html#a8e5b81581fff787f691521d03fed66fc", null ],
-    [ "Load", "d1/dcc/a22739.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
-    [ "PrepareSpellScript", "d1/dcc/a22739.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
-    [ "Register", "d1/dcc/a22739.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
-    [ "Validate", "d1/dcc/a22739.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
+    [ "OPvPCapturePointGH", "d1/dcc/a22739.html#a6e46100e50212310af4301c492d5773e", null ],
+    [ "ChangeState", "d1/dcc/a22739.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
+    [ "FillInitialWorldStates", "d1/dcc/a22739.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
+    [ "HandlePlayerEnter", "d1/dcc/a22739.html#afea733c44d129d9a5af78a8337d9e04a", null ],
+    [ "HandlePlayerLeave", "d1/dcc/a22739.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
+    [ "SendChangePhase", "d1/dcc/a22739.html#aec741b9102829bf77850dc06a49bb8da", null ]
 ];

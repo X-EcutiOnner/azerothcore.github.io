@@ -1,7 +1,7 @@
 var a15875 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "df/d4e/a15875.html#a886ed4c1485fdedcc176341210eee31a", null ],
-    [ "OnCreatureCreate", "df/d4e/a15875.html#a7a99d985a4b465ae87c04211a7a83a77", null ],
-    [ "OnGameObjectCreate", "df/d4e/a15875.html#a1ef3dc88400345998d03f3c993b9a181", null ],
-    [ "OnGameObjectRemove", "df/d4e/a15875.html#a3a2776b83272d81de9ddcb0c90ac881c", null ]
+    [ "npc_paoka_swiftmountainAI", "df/d4e/a15875.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "df/d4e/a15875.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "df/d4e/a15875.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "df/d4e/a15875.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
 ];

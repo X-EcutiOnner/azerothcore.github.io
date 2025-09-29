@@ -1,17 +1,15 @@
 var a19531 =
 [
-    [ "boss_sjonnirAI", "d1/db2/a19531.html#a53127766553d1bee4d7331e6f4fcda05", null ],
-    [ "ActivatePipe", "d1/db2/a19531.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
-    [ "DoAction", "d1/db2/a19531.html#afb2f73908bc17c763a8028af4b499481", null ],
-    [ "JustDied", "d1/db2/a19531.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
-    [ "JustEngagedWith", "d1/db2/a19531.html#aade776baf55155bb3814129ddc2f9632", null ],
-    [ "KilledUnit", "d1/db2/a19531.html#ac79740a8c5e4263f2917647c74e995aa", null ],
-    [ "Reset", "d1/db2/a19531.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
-    [ "SummonDwarfes", "d1/db2/a19531.html#a0f0472fbd8be38501cedef6c9d0553ee", null ],
-    [ "UpdateAI", "d1/db2/a19531.html#ad357741fbf486671790f6e619f330460", null ],
-    [ "events", "d1/db2/a19531.html#ae40bf2206d0e6af3f15727fa5dfef5e7", null ],
-    [ "pInstance", "d1/db2/a19531.html#aa9aba0a76bfc58031c3f8133eb07c134", null ],
-    [ "SlugeCount", "d1/db2/a19531.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ],
-    [ "SummonPhase", "d1/db2/a19531.html#ab409b352a20824dd1b274763aeab2c39", null ],
-    [ "summons", "d1/db2/a19531.html#a4888090a1b02403c80b83b7089eb0dfa", null ]
+    [ "boss_magus_telestra", "d1/db2/a19531.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
+    [ "AttackStart", "d1/db2/a19531.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
+    [ "GetData", "d1/db2/a19531.html#a713f93edc709edabe003c305efdd709c", null ],
+    [ "JustDied", "d1/db2/a19531.html#ac69759755637749a58f712b86d3bf9ac", null ],
+    [ "JustEngagedWith", "d1/db2/a19531.html#a91b4569027b3414814bf1f2e86441fc6", null ],
+    [ "JustSummoned", "d1/db2/a19531.html#a1fc0f30287916d6606829987d29d9387", null ],
+    [ "KilledUnit", "d1/db2/a19531.html#a85b333905e5dcd34dbe001306924529a", null ],
+    [ "Reset", "d1/db2/a19531.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
+    [ "SpellHit", "d1/db2/a19531.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
+    [ "UpdateAI", "d1/db2/a19531.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
+    [ "achievement", "d1/db2/a19531.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ],
+    [ "copiesDied", "d1/db2/a19531.html#a5738bf62869f9958448213b28c1bf771", null ]
 ];

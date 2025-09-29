@@ -1,7 +1,8 @@
 var a05771 =
 [
-    [ "TransactionWithResultTask", "de/dc1/a05771.html#a98dfb255e7be9d5cf9ed9215b0d5e0e4", null ],
-    [ "Execute", "de/dc1/a05771.html#a2a05fb2aa69032797f2065cb46fe7dc4", null ],
-    [ "GetFuture", "de/dc1/a05771.html#a5bc976207b1d695c8e8c052b0eacc7a6", null ],
-    [ "m_result", "de/dc1/a05771.html#aaf4d587b83977e65089bdbf92fa09ae1", null ]
+    [ "Statements", "de/dc1/a05771.html#adaf49f7cb45d90cb041f979b1821e4a1", null ],
+    [ "WorldDatabaseConnection", "de/dc1/a05771.html#a0c03387d2c019c86d1fe4933eca6aae5", null ],
+    [ "WorldDatabaseConnection", "de/dc1/a05771.html#a015f79a049d37f742232bc5ac10e9551", null ],
+    [ "~WorldDatabaseConnection", "de/dc1/a05771.html#a2feafa80fe8e838587d8f7b641c0ab09", null ],
+    [ "DoPrepareStatements", "de/dc1/a05771.html#a280aa4a4571581c5cef8f9967631b484", null ]
 ];

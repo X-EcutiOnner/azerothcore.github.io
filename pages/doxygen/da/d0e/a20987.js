@@ -1,6 +1,5 @@
 var a20987 =
 [
-    [ "npc_ulduar_arachnopod_destroyerAI", "dd/d0d/a20991.html", "dd/d0d/a20991" ],
-    [ "npc_ulduar_arachnopod_destroyer", "da/d0e/a20987.html#aec69c3c143ec27734dd3f2d8db0da9fd", null ],
-    [ "GetAI", "da/d0e/a20987.html#ad667e7bacc181e79cb002181c71aac7c", null ]
+    [ "achievement_xt002_nerf_engineering", "da/d0e/a20987.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
+    [ "OnCheck", "da/d0e/a20987.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
 ];

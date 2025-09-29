@@ -1,18 +1,21 @@
 var a00185 =
 [
-    [ "ContainerMapList< OBJECT >", "dd/d95/a05274.html", "dd/d95/a05274" ],
-    [ "ContainerMapList< TypeNull >", "d6/d9e/a05278.html", null ],
-    [ "ContainerMapList< TypeList< H, T > >", "d6/d45/a05282.html", "d6/d45/a05282" ],
-    [ "ContainerVector< OBJECT >", "d6/d14/a05286.html", "d6/d14/a05286" ],
-    [ "ContainerVector< TypeNull >", "df/d26/a05290.html", null ],
-    [ "ContainerVector< TypeList< H, T > >", "d6/df3/a05294.html", "d6/df3/a05294" ],
-    [ "ContainerUnorderedMap< OBJECT, KEY_TYPE >", "de/dd6/a05298.html", "de/dd6/a05298" ],
-    [ "ContainerUnorderedMap< TypeNull, KEY_TYPE >", "db/dd7/a05302.html", null ],
-    [ "ContainerUnorderedMap< TypeList< H, T >, KEY_TYPE >", "d2/d63/a05306.html", "d2/d63/a05306" ],
-    [ "ContainerList< OBJECT >", "d8/dfd/a05310.html", "d8/dfd/a05310" ],
-    [ "ContainerList< TypeNull >", "db/dc8/a05314.html", null ],
-    [ "ContainerList< TypeList< H, T > >", "d2/d74/a05318.html", "d2/d74/a05318" ],
-    [ "TypeMapContainer< OBJECT_TYPES >", "da/d4d/a05322.html", "da/d4d/a05322" ],
-    [ "TypeVectorContainer< OBJECT_TYPES >", "d9/d7c/a05326.html", "d9/d7c/a05326" ],
-    [ "TypeUnorderedMapContainer< OBJECT_TYPES, KEY_TYPE >", "db/d4c/a05330.html", "db/d4c/a05330" ]
+    [ "SummonList", "db/d4f/a06239.html", "db/d4f/a06239" ],
+    [ "EntryCheckPredicate", "d8/de8/a06243.html", "d8/de8/a06243" ],
+    [ "PlayerOrPetCheck", "d7/dd3/a06247.html", "d7/dd3/a06247" ],
+    [ "ScriptedAI", "d8/d45/a06251.html", "d8/d45/a06251" ],
+    [ "HealthCheckEventData", "de/dac/a06255.html", "de/dac/a06255" ],
+    [ "BossAI", "da/d78/a06259.html", "da/d78/a06259" ],
+    [ "WorldBossAI", "d8/df3/a06263.html", "d8/df3/a06263" ],
+    [ "ObjectList", "de/df3/a00185.html#acc68161fe019b33e9356ea1473fba71d", null ],
+    [ "HealthCheckStatus", "de/df3/a00185.html#a1384618281f5e166102c6c947f81ddee", [
+      [ "HEALTH_CHECK_PROCESSED", "de/df3/a00185.html#a1384618281f5e166102c6c947f81ddeeac0619e7e216f157ecace46cdd98b4b6d", null ],
+      [ "HEALTH_CHECK_SCHEDULED", "de/df3/a00185.html#a1384618281f5e166102c6c947f81ddeeadd90ee3dba1f8df8726a251aeb1cbc9c", null ],
+      [ "HEALTH_CHECK_PENDING", "de/df3/a00185.html#a1384618281f5e166102c6c947f81ddeeaa1fd3ee62e2876302ec5bd08ff822ec7", null ]
+    ] ],
+    [ "GetClosestCreatureWithEntry", "de/df3/a00185.html#a9ffd6f6c01576a8d3369c3a4f6dbaa0b", null ],
+    [ "GetClosestGameObjectWithEntry", "de/df3/a00185.html#acaba34b4ac104e5289c265c1f8524b15", null ],
+    [ "GetCreatureListWithEntryInGrid", "de/df3/a00185.html#ab6a8246d473139627106be4651f6329d", null ],
+    [ "GetDeadCreatureListInGrid", "de/df3/a00185.html#a4a92c9585e18b56cdbe0d0c0976de7d1", null ],
+    [ "GetGameObjectListWithEntryInGrid", "de/df3/a00185.html#ae9abb80c4e811509bca88e65cf817276", null ]
 ];

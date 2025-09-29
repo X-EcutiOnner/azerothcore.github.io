@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Weather/Weather.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Collision/Maps/MapDefines.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,70 +108,181 @@ $(document).ready(function(){initNavTree('d7/ddc/a04523.html','../../'); initRes
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#define-members">Macros</a> &#124;
 <a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">Weather.h File Reference<div class="ingroups"><a class="el" href="../../da/d11/a04792.html">The World</a></div></div></div>
+  <div class="headertitle"><div class="title">MapDefines.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Timer.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &quot;DetourNavMesh.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dce/a11674.html">WeatherSeasonChances</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d76/a11678.html">WeatherData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d36/a11682.html">Weather</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight"><a class="el" href="../../dc/d36/a11682.html" title="Weather for one zone.">Weather</a> for one zone.  <a href="../../dc/d36/a11682.html#details">More...</a><br /></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d93/a05019.html">MmapTileHeader</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
 Macros</h2></td></tr>
-<tr class="memitem:ga5ee30d2da0d958800dd3ad582c49d487"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d11/a04792.html#ga5ee30d2da0d958800dd3ad582c49d487">WEATHER_SEASONS</a>&#160;&#160;&#160;4</td></tr>
-<tr class="separator:ga5ee30d2da0d958800dd3ad582c49d487"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a857252154f120575d940ffbdf63bace6"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddc/a04523.html#a857252154f120575d940ffbdf63bace6">MAX_NUMBER_OF_GRIDS</a>&#160;&#160;&#160;64</td></tr>
+<tr class="separator:a857252154f120575d940ffbdf63bace6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2c6994ea025f427f1485c1c7aaee01fe"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddc/a04523.html#a2c6994ea025f427f1485c1c7aaee01fe">MAX_NUMBER_OF_CELLS</a>&#160;&#160;&#160;8</td></tr>
+<tr class="separator:a2c6994ea025f427f1485c1c7aaee01fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a55c9adba46c0c14cd4ac80ab51228816"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddc/a04523.html#a55c9adba46c0c14cd4ac80ab51228816">SIZE_OF_GRIDS</a>&#160;&#160;&#160;533.3333f</td></tr>
+<tr class="separator:a55c9adba46c0c14cd4ac80ab51228816"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af7a9a5e840ab3ad1c160e832500016d1"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddc/a04523.html#af7a9a5e840ab3ad1c160e832500016d1">MMAP_MAGIC</a>&#160;&#160;&#160;0x4d4d4150</td></tr>
+<tr class="separator:af7a9a5e840ab3ad1c160e832500016d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aea71555fdd0af33ccc21c76c67574421"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddc/a04523.html#aea71555fdd0af33ccc21c76c67574421">MMAP_VERSION</a>&#160;&#160;&#160;16</td></tr>
+<tr class="separator:aea71555fdd0af33ccc21c76c67574421"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:ga32b7b9e733438755c99c2abd6cb8c94d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d11/a04792.html#ga32b7b9e733438755c99c2abd6cb8c94d">WeatherState</a> : uint32 { <br />
-&#160;&#160;<a class="el" href="../../da/d11/a04792.html#gga32b7b9e733438755c99c2abd6cb8c94da5d4c47a117d36afee4195bd260951366">WEATHER_STATE_FINE</a> = 0
+<tr class="memitem:a8a4d0b36dd46d60b691b894fb8c1c5db"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5db">NavTerrain</a> { <br />
+&#160;&#160;<a class="el" href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5">NAV_EMPTY</a> = 0x00
 , <br />
-&#160;&#160;<a class="el" href="../../da/d11/a04792.html#gga32b7b9e733438755c99c2abd6cb8c94daf088b1890d40b05c4022d90d931e8717">WEATHER_STATE_FOG</a> = 1
+&#160;&#160;<a class="el" href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98">NAV_GROUND</a> = 0x01
 , <br />
-&#160;&#160;<a class="el" href="../../da/d11/a04792.html#gga32b7b9e733438755c99c2abd6cb8c94dafe59189ae98629ed11fbd343da10e97d">WEATHER_STATE_LIGHT_RAIN</a> = 3
+&#160;&#160;<a class="el" href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670">NAV_MAGMA</a> = 0x02
 , <br />
-&#160;&#160;<a class="el" href="../../da/d11/a04792.html#gga32b7b9e733438755c99c2abd6cb8c94da33ce6050f5c9a8dbbfc2556756f960c3">WEATHER_STATE_MEDIUM_RAIN</a> = 4
+&#160;&#160;<a class="el" href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75">NAV_SLIME</a> = 0x04
 , <br />
-&#160;&#160;<a class="el" href="../../da/d11/a04792.html#gga32b7b9e733438755c99c2abd6cb8c94da13bf6f46f69defe7fbea2c659e6d3873">WEATHER_STATE_HEAVY_RAIN</a> = 5
+&#160;&#160;<a class="el" href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1">NAV_WATER</a> = 0x08
 , <br />
-&#160;&#160;<a class="el" href="../../da/d11/a04792.html#gga32b7b9e733438755c99c2abd6cb8c94da8a760bcf8d764d8749a800905111ab05">WEATHER_STATE_LIGHT_SNOW</a> = 6
+&#160;&#160;<a class="el" href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03">NAV_UNUSED1</a> = 0x10
 , <br />
-&#160;&#160;<a class="el" href="../../da/d11/a04792.html#gga32b7b9e733438755c99c2abd6cb8c94da2a382668c4c73bc864079b0cf1602da6">WEATHER_STATE_MEDIUM_SNOW</a> = 7
+&#160;&#160;<a class="el" href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dba4c61900269be6dee2e26cbeb4e09d0bb">NAV_UNUSED2</a> = 0x20
 , <br />
-&#160;&#160;<a class="el" href="../../da/d11/a04792.html#gga32b7b9e733438755c99c2abd6cb8c94daaad9131eee7d0dce651a4142705871a3">WEATHER_STATE_HEAVY_SNOW</a> = 8
+&#160;&#160;<a class="el" href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530">NAV_UNUSED3</a> = 0x40
 , <br />
-&#160;&#160;<a class="el" href="../../da/d11/a04792.html#gga32b7b9e733438755c99c2abd6cb8c94dabe53f9722c1f5ee37a0ce46a356402eb">WEATHER_STATE_LIGHT_SANDSTORM</a> = 22
-, <br />
-&#160;&#160;<a class="el" href="../../da/d11/a04792.html#gga32b7b9e733438755c99c2abd6cb8c94da35248c6d29502ee854f2a9c92a1c9204">WEATHER_STATE_MEDIUM_SANDSTORM</a> = 41
-, <br />
-&#160;&#160;<a class="el" href="../../da/d11/a04792.html#gga32b7b9e733438755c99c2abd6cb8c94da185c2513fb0f271a64db1feb5691def0">WEATHER_STATE_HEAVY_SANDSTORM</a> = 42
-, <br />
-&#160;&#160;<a class="el" href="../../da/d11/a04792.html#gga32b7b9e733438755c99c2abd6cb8c94da0a333865e8ae65ce8f5bb03f905dee29">WEATHER_STATE_THUNDERS</a> = 86
-, <br />
-&#160;&#160;<a class="el" href="../../da/d11/a04792.html#gga32b7b9e733438755c99c2abd6cb8c94daa69a93da31c84906e5b64469cda9f27f">WEATHER_STATE_BLACKRAIN</a> = 90
-, <br />
-&#160;&#160;<a class="el" href="../../da/d11/a04792.html#gga32b7b9e733438755c99c2abd6cb8c94da3aea8b6958d36e83f025fc7a489d1357">WEATHER_STATE_BLACKSNOW</a> = 106
+&#160;&#160;<a class="el" href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56">NAV_UNUSED4</a> = 0x80
 <br />
  }</td></tr>
-<tr class="separator:ga32b7b9e733438755c99c2abd6cb8c94d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a8a4d0b36dd46d60b691b894fb8c1c5db"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a2c6994ea025f427f1485c1c7aaee01fe" name="a2c6994ea025f427f1485c1c7aaee01fe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2c6994ea025f427f1485c1c7aaee01fe">&#9670;&#160;</a></span>MAX_NUMBER_OF_CELLS</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_NUMBER_OF_CELLS&#160;&#160;&#160;8</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a857252154f120575d940ffbdf63bace6" name="a857252154f120575d940ffbdf63bace6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a857252154f120575d940ffbdf63bace6">&#9670;&#160;</a></span>MAX_NUMBER_OF_GRIDS</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MAX_NUMBER_OF_GRIDS&#160;&#160;&#160;64</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af7a9a5e840ab3ad1c160e832500016d1" name="af7a9a5e840ab3ad1c160e832500016d1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af7a9a5e840ab3ad1c160e832500016d1">&#9670;&#160;</a></span>MMAP_MAGIC</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MMAP_MAGIC&#160;&#160;&#160;0x4d4d4150</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aea71555fdd0af33ccc21c76c67574421" name="aea71555fdd0af33ccc21c76c67574421"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aea71555fdd0af33ccc21c76c67574421">&#9670;&#160;</a></span>MMAP_VERSION</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define MMAP_VERSION&#160;&#160;&#160;16</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a55c9adba46c0c14cd4ac80ab51228816" name="a55c9adba46c0c14cd4ac80ab51228816"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a55c9adba46c0c14cd4ac80ab51228816">&#9670;&#160;</a></span>SIZE_OF_GRIDS</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define SIZE_OF_GRIDS&#160;&#160;&#160;533.3333f</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a8a4d0b36dd46d60b691b894fb8c1c5db" name="a8a4d0b36dd46d60b691b894fb8c1c5db"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8a4d0b36dd46d60b691b894fb8c1c5db">&#9670;&#160;</a></span>NavTerrain</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5db">NavTerrain</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5" name="a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5"></a>NAV_EMPTY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98" name="a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98"></a>NAV_GROUND&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670" name="a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670"></a>NAV_MAGMA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75" name="a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75"></a>NAV_SLIME&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1" name="a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1"></a>NAV_WATER&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03" name="a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03"></a>NAV_UNUSED1&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8a4d0b36dd46d60b691b894fb8c1c5dba4c61900269be6dee2e26cbeb4e09d0bb" name="a8a4d0b36dd46d60b691b894fb8c1c5dba4c61900269be6dee2e26cbeb4e09d0bb"></a>NAV_UNUSED2&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530" name="a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530"></a>NAV_UNUSED3&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56" name="a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56"></a>NAV_UNUSED4&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">   53</span>{</div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5">NAV_EMPTY</a>   = 0x00,</div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98">NAV_GROUND</a>  = 0x01,</div>
+<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670">NAV_MAGMA</a>   = 0x02,</div>
+<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75">NAV_SLIME</a>   = 0x04,</div>
+<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1">NAV_WATER</a>   = 0x08,</div>
+<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03">NAV_UNUSED1</a> = 0x10,</div>
+<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dba4c61900269be6dee2e26cbeb4e09d0bb">NAV_UNUSED2</a> = 0x20,</div>
+<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530">NAV_UNUSED3</a> = 0x40,</div>
+<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56">NAV_UNUSED4</a> = 0x80</div>
+<div class="line"><span class="lineno">   63</span>                  <span class="comment">// we only have 8 bits</span></div>
+<div class="line"><span class="lineno">   64</span>};</div>
+<div class="ttc" id="aa04523_html_a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530"><div class="ttname"><a href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530">NAV_UNUSED3</a></div><div class="ttdeci">@ NAV_UNUSED3</div><div class="ttdef"><b>Definition:</b> MapDefines.h:61</div></div>
+<div class="ttc" id="aa04523_html_a8a4d0b36dd46d60b691b894fb8c1c5dba4c61900269be6dee2e26cbeb4e09d0bb"><div class="ttname"><a href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dba4c61900269be6dee2e26cbeb4e09d0bb">NAV_UNUSED2</a></div><div class="ttdeci">@ NAV_UNUSED2</div><div class="ttdef"><b>Definition:</b> MapDefines.h:60</div></div>
+<div class="ttc" id="aa04523_html_a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03"><div class="ttname"><a href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03">NAV_UNUSED1</a></div><div class="ttdeci">@ NAV_UNUSED1</div><div class="ttdef"><b>Definition:</b> MapDefines.h:59</div></div>
+<div class="ttc" id="aa04523_html_a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5"><div class="ttname"><a href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5">NAV_EMPTY</a></div><div class="ttdeci">@ NAV_EMPTY</div><div class="ttdef"><b>Definition:</b> MapDefines.h:54</div></div>
+<div class="ttc" id="aa04523_html_a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56"><div class="ttname"><a href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56">NAV_UNUSED4</a></div><div class="ttdeci">@ NAV_UNUSED4</div><div class="ttdef"><b>Definition:</b> MapDefines.h:62</div></div>
+<div class="ttc" id="aa04523_html_a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670"><div class="ttname"><a href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670">NAV_MAGMA</a></div><div class="ttdeci">@ NAV_MAGMA</div><div class="ttdef"><b>Definition:</b> MapDefines.h:56</div></div>
+<div class="ttc" id="aa04523_html_a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98"><div class="ttname"><a href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98">NAV_GROUND</a></div><div class="ttdeci">@ NAV_GROUND</div><div class="ttdef"><b>Definition:</b> MapDefines.h:55</div></div>
+<div class="ttc" id="aa04523_html_a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75"><div class="ttname"><a href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75">NAV_SLIME</a></div><div class="ttdeci">@ NAV_SLIME</div><div class="ttdef"><b>Definition:</b> MapDefines.h:57</div></div>
+<div class="ttc" id="aa04523_html_a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1"><div class="ttname"><a href="../../d7/ddc/a04523.html#a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1">NAV_WATER</a></div><div class="ttdeci">@ NAV_WATER</div><div class="ttdef"><b>Definition:</b> MapDefines.h:58</div></div>
+</div><!-- fragment -->
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_adf5e23d7fbd2f278fda5650b14114ac.html">Weather</a></li><li class="navelem"><a class="el" href="../../d7/ddc/a04523.html">Weather.h</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:44:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_34825b659a55315b272dfcc55a7a0f6a.html">Collision</a></li><li class="navelem"><a class="el" href="../../dir_8b777919d2ae980e2f3806300ea01226.html">Maps</a></li><li class="navelem"><a class="el" href="../../d7/ddc/a04523.html">MapDefines.h</a></li>
+    <li class="footer">Generated on Mon Sep 29 2025 20:45:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

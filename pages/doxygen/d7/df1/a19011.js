@@ -1,15 +1,8 @@
 var a19011 =
 [
-    [ "boss_kelthuzad_minionAI", "d7/df1/a19011.html#addeb3112e8b6da5713e6c25878c7e785", null ],
-    [ "AttackStart", "d7/df1/a19011.html#ae6e2b0dd529f819b5b62348059dacb02", null ],
-    [ "DoAction", "d7/df1/a19011.html#acd08aa78c1620f5552bbbc77c06b4344", null ],
-    [ "JustDied", "d7/df1/a19011.html#abc6db76c9dcdbdb1c51b7f67d4c39551", null ],
-    [ "JustEngagedWith", "d7/df1/a19011.html#a135dd028f95eeb34b2852e8dafebbe63", null ],
-    [ "JustReachedHome", "d7/df1/a19011.html#aedfaf037ddf66d0e3aa990b4ea5b171c", null ],
-    [ "KilledUnit", "d7/df1/a19011.html#ac8a2297a89310f4902fdc544ef71b673", null ],
-    [ "MoveInLineOfSight", "d7/df1/a19011.html#aee871ff356bcfd38162a5f6c9bd3c994", null ],
-    [ "Reset", "d7/df1/a19011.html#a01db0df4ec5f49d0915e90c418ebba75", null ],
-    [ "UpdateAI", "d7/df1/a19011.html#ad60ec485144e447fd9d43b0cd5d6c87c", null ],
-    [ "callHelp", "d7/df1/a19011.html#a6c6935e058bc18c013bc31f03f5a914b", null ],
-    [ "events", "d7/df1/a19011.html#a2885d65bfaf345e7c3dfa42d8c80a892", null ]
+    [ "Class", "d7/df1/a19011.html#a095390e9023609f5836c4481ed79e1af", null ],
+    [ "cooldown_ms", "d7/df1/a19011.html#a6f1fdab250e8557d16066c03a54fb2a4", null ],
+    [ "id", "d7/df1/a19011.html#ae9fdf89271339b93f306c4aa0871f844", null ],
+    [ "range", "d7/df1/a19011.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
+    [ "targetType", "d7/df1/a19011.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
 ];

@@ -1,27 +1,9 @@
 var a05463 =
 [
-    [ "size_type", "da/d34/a05463.html#a63e35ae42b261707be96b6366579f141", null ],
-    [ "MessageBuffer", "da/d34/a05463.html#a92586fdeffb14738acbf8979b5974e6f", null ],
-    [ "MessageBuffer", "da/d34/a05463.html#a5e5827a47181f545590df32ec86100b8", null ],
-    [ "MessageBuffer", "da/d34/a05463.html#a9a9bf51f87346e42a4765b72d78dc7f6", null ],
-    [ "MessageBuffer", "da/d34/a05463.html#a466f6fde17f5a239307cec5ec1fffb6d", null ],
-    [ "EnsureFreeSpace", "da/d34/a05463.html#addcd9e859b706753af59a696d7b91c30", null ],
-    [ "GetActiveSize", "da/d34/a05463.html#a8ae995ff5da60ca581e3539a511780be", null ],
-    [ "GetBasePointer", "da/d34/a05463.html#aff68a6f579650f642ef3919046583391", null ],
-    [ "GetBufferSize", "da/d34/a05463.html#ad5765765420af77b236d61f3c7bdadfa", null ],
-    [ "GetReadPointer", "da/d34/a05463.html#a78f07c4d5aaa7d405ddf8ca2c6d39f11", null ],
-    [ "GetRemainingSpace", "da/d34/a05463.html#a3cfe272533d018af34b8e83cf7a05138", null ],
-    [ "GetWritePointer", "da/d34/a05463.html#a960c58291dd38003298dbcf85d649568", null ],
-    [ "Move", "da/d34/a05463.html#acc13033dd688408760116899ca38f94e", null ],
-    [ "Normalize", "da/d34/a05463.html#ae323e0a33bb1fa30100aa1e63a2cc6b8", null ],
-    [ "operator=", "da/d34/a05463.html#a729a6f451f90716249a806e5c3a02b9c", null ],
-    [ "operator=", "da/d34/a05463.html#a1b6f18821fdf7688de020adfef80760b", null ],
-    [ "ReadCompleted", "da/d34/a05463.html#a4e1d57cb13b6e270e336a36e21959c94", null ],
-    [ "Reset", "da/d34/a05463.html#ace3b4c6c430e225cccf5119467721735", null ],
-    [ "Resize", "da/d34/a05463.html#a38f46c8d6dd9a13ee51d4a429837ae9b", null ],
-    [ "Write", "da/d34/a05463.html#ab9c9b5422fff1450c98c2241344631e9", null ],
-    [ "WriteCompleted", "da/d34/a05463.html#a5287bc1c7f82e3abcf3ee0d8daf8798b", null ],
-    [ "_rpos", "da/d34/a05463.html#a042a4b72f69338a44f20f11454bec374", null ],
-    [ "_storage", "da/d34/a05463.html#a8a2738459d80d70a1b02a5a93ebad1d4", null ],
-    [ "_wpos", "da/d34/a05463.html#a3eff504d5c954e7d5fcaa386bdbf2bb9", null ]
+    [ "Lock", "db/d89/a05467.html", "db/d89/a05467" ],
+    [ "ObjectLevelLockable", "da/d34/a05463.html#a56f2f2722e7f56857ef1d6e7ae52891d", null ],
+    [ "ObjectLevelLockable", "da/d34/a05463.html#a133cb19ac25d346ba24b8405595dd174", null ],
+    [ "operator=", "da/d34/a05463.html#a8ebb63f3adccf1bf121f569f1d527e17", null ],
+    [ "Lock", "da/d34/a05463.html#a5bf7608e05250fb524a1229bcf83ece3", null ],
+    [ "i_mtx", "da/d34/a05463.html#ae373bee24a50a7eda232b51769c042aa", null ]
 ];

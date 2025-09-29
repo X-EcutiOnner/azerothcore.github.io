@@ -1,17 +1,12 @@
 var a05383 =
 [
-    [ "Thread", "db/d18/a05383.html#a95c703fb8f2f27cb64f475a8c940864a", null ],
-    [ "Thread", "db/d18/a05383.html#a72d9240b0f28a378bf0e05e97918e25a", null ],
-    [ "~Thread", "db/d18/a05383.html#a37d9edd3a1a776cbc27dedff949c9726", null ],
-    [ "Thread", "db/d18/a05383.html#ae65c99228766cc135c8dad74af50120e", null ],
-    [ "currentId", "db/d18/a05383.html#a65c7edbd9a1a3ed492485013d1baaf8d", null ],
-    [ "destroy", "db/d18/a05383.html#a4ee8270c681c7faf3d3a6b8271f31796", null ],
-    [ "operator=", "db/d18/a05383.html#a79ab3cf5b994c65dc196e2c154fabe7a", null ],
-    [ "setPriority", "db/d18/a05383.html#a4dcbafab5741b819852d6702e5b09369", null ],
-    [ "Sleep", "db/d18/a05383.html#addc70b7462f6fe4e51e136176f05a6b8", null ],
-    [ "ThreadTask", "db/d18/a05383.html#a3e9a687df7ed593abc33f5e5897125e5", null ],
-    [ "wait", "db/d18/a05383.html#a29758de9c29e1437e234ab8d2a3e07d0", null ],
-    [ "m_iThreadId", "db/d18/a05383.html#a997822ac4937e995c085c0554ca48d53", null ],
-    [ "m_task", "db/d18/a05383.html#afa81b66db9223412b20be34f2ee1651f", null ],
-    [ "m_ThreadImp", "db/d18/a05383.html#ac2b69bbcfc8f20ac6aa2e517311b2861", null ]
+    [ "AppenderConsole", "db/d18/a05383.html#aaf770a87f2151a7e6f92087751528c68", null ],
+    [ "_write", "db/d18/a05383.html#a94e529229bd707fa2bad0a0206a386d5", null ],
+    [ "getType", "db/d18/a05383.html#a4ae7f47c76b19eb269b26fdf13f14e48", null ],
+    [ "InitColors", "db/d18/a05383.html#a1a4deceeafc9a111a519ea55dc646266", null ],
+    [ "ResetColor", "db/d18/a05383.html#a4a3e55c9229947a25d4191bbfa348bf5", null ],
+    [ "SetColor", "db/d18/a05383.html#a9303f9408e1cbfc086fba15bf9a4ce59", null ],
+    [ "_colored", "db/d18/a05383.html#a172563f34a7277f7afb05354c8fbeb1f", null ],
+    [ "_colors", "db/d18/a05383.html#acdf277241cd25715e48500a15ab6bd30", null ],
+    [ "type", "db/d18/a05383.html#ab5cbc074f7d9306838974863913c8a5b", null ]
 ];

@@ -1,15 +1,8 @@
 var a07235 =
 [
-    [ "ModifyMatchmakerRating", "db/d34/a07235.html#aaa6de888c3f85ef8cbe9baa2f997aba1", null ],
-    [ "ModifyPersonalRating", "db/d34/a07235.html#a34401ea82507df97e540c698fa549b5f", null ],
-    [ "Class", "db/d34/a07235.html#a5f6519e8ad3281a09608f8740927fbd3", null ],
-    [ "Guid", "db/d34/a07235.html#ac0dc6765247a0f36b3d3ff527a678010", null ],
-    [ "MatchMakerRating", "db/d34/a07235.html#ac91a344c7aecb72d17841413f5d935da", null ],
-    [ "MaxMMR", "db/d34/a07235.html#afc86e111a1c699254c5ea761d0dda088", null ],
-    [ "Name", "db/d34/a07235.html#a7917e705d8c15bbe2731c32375c34d16", null ],
-    [ "PersonalRating", "db/d34/a07235.html#a03168b1bdc8e6dac30d3b63e692ce854", null ],
-    [ "SeasonGames", "db/d34/a07235.html#ae3724b7268c161d5553b8cc1fae2cf75", null ],
-    [ "SeasonWins", "db/d34/a07235.html#a7239187cef3a02839fe27577ad022ec9", null ],
-    [ "WeekGames", "db/d34/a07235.html#a97906127f7eb1babe2bf2ebcda7c0a88", null ],
-    [ "WeekWins", "db/d34/a07235.html#a5b9e5e02d59569080d34abd9b9728693", null ]
+    [ "nbTowerCannonBottom", "db/d34/a07235.html#a06e8dcf63efd928b72f3ec7d433ccb89", null ],
+    [ "nbTurretTop", "db/d34/a07235.html#a5a728dccad89da190131cd93b62390b7", null ],
+    [ "TowerCannonBottom", "db/d34/a07235.html#a21fa09356b3349bf45865aa3f0920268", null ],
+    [ "towerEntry", "db/d34/a07235.html#a37e171a06a6e7bf5c0832417c597c2e1", null ],
+    [ "TurretTop", "db/d34/a07235.html#a6849ba6967fa275950da9fec16df9bec", null ]
 ];

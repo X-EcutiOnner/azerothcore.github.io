@@ -1,7 +1,7 @@
 var a17311 =
 [
-    [ "PeriodicTick", "d0/d0e/a17311.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
-    [ "PrepareAuraScript", "d0/d0e/a17311.html#ac1abcbe62887678adad0194fdf27825a", null ],
-    [ "Register", "d0/d0e/a17311.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
-    [ "Validate", "d0/d0e/a17311.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
+    [ "HandleEffectPeriodic", "d0/d0e/a17311.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
+    [ "PrepareAuraScript", "d0/d0e/a17311.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
+    [ "Register", "d0/d0e/a17311.html#a5a44978cec95fef30c9ea4308bda2508", null ],
+    [ "Validate", "d0/d0e/a17311.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
 ];

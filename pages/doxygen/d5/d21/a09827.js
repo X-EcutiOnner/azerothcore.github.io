@@ -1,6 +1,7 @@
 var a09827 =
 [
-    [ "SplineRawInitializer", "d5/d21/a09827.html#a2aba4b3ca8e2312cc9e910ef4b3a5a26", null ],
-    [ "operator()", "d5/d21/a09827.html#a878f8d8b2bc4b7c0e5c92d3055a437af", null ],
-    [ "_points", "d5/d21/a09827.html#a3cea33c8d33407f7d2d8ea96a85a58c5", null ]
+    [ "ZRangeBoundary", "d5/d21/a09827.html#ab9c77783e059de4478625f7c97713c49", null ],
+    [ "IsWithinBoundaryArea", "d5/d21/a09827.html#af1410b3eeb9e7096b1cc53caa7edd68f", null ],
+    [ "_maxZ", "d5/d21/a09827.html#a7226d6a69b9fb922a2ac06300ab060d8", null ],
+    [ "_minZ", "d5/d21/a09827.html#aee142d5bc4cfae80584b84ae451da05c", null ]
 ];

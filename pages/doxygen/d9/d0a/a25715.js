@@ -1,6 +1,5 @@
 var a25715 =
 [
-    [ "CheckSinkholes", "d9/d0a/a25715.html#a5c363144cde9e809d97730f54873fe85", null ],
-    [ "PrepareSpellScript", "d9/d0a/a25715.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
-    [ "Register", "d9/d0a/a25715.html#a6694fbf58b776b74df0a54cd96141688", null ]
+    [ "PrepareSpellScript", "d9/d0a/a25715.html#aadb11335a487f83639260fc4246ba26f", null ],
+    [ "Register", "d9/d0a/a25715.html#a1b83195bdc148434f10a6c1ba3c0af0d", null ]
 ];

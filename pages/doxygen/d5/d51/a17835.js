@@ -1,7 +1,9 @@
 var a17835 =
 [
-    [ "HandleTriggerSpell", "d5/d51/a17835.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
-    [ "OnRemove", "d5/d51/a17835.html#a238adc96e80c1890934b23dd4a2685b4", null ],
-    [ "PrepareAuraScript", "d5/d51/a17835.html#af9ce7433b620fdf1dea570561c514b3b", null ],
-    [ "Register", "d5/d51/a17835.html#ab36a001ea8cd87703e2694e0765635c0", null ]
+    [ "CheckAreaTarget", "d5/d51/a17835.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
+    [ "HandleApply", "d5/d51/a17835.html#a9ce86d32957af07313af379b4176d0b3", null ],
+    [ "HandleRemove", "d5/d51/a17835.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
+    [ "Load", "d5/d51/a17835.html#aa10821981f3e80262850e5c46449d5d0", null ],
+    [ "PrepareAuraScript", "d5/d51/a17835.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
+    [ "Register", "d5/d51/a17835.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
 ];

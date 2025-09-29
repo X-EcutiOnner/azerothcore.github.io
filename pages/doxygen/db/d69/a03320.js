@@ -1,18 +1,10 @@
 var a03320 =
 [
-    [ "SplineHandler", "da/d2c/a08718.html", "da/d2c/a08718" ],
-    [ "spellIdImmunityPredicate", "dc/d3c/a08722.html", "dc/d3c/a08722" ],
-    [ "ProcTriggeredData", "dc/dfe/a08726.html", "dc/dfe/a08726" ],
-    [ "AuraMunchingQueue", "dc/d60/a08730.html", "dc/d60/a08730" ],
-    [ "ResetToHomeOrientation", "d9/d44/a08734.html", "d9/d44/a08734" ],
-    [ "ProcTriggeredList", "db/d69/a03320.html#af5ec5d5b1ba4d4454c1bdcbc139de758", null ],
-    [ "createProcExtendMask", "db/d69/a03320.html#afb539370dad036ff97905efdbb4270c0", null ],
-    [ "createProcFlags", "db/d69/a03320.html#a7d920511c20f084098c0f68a75006159", null ],
-    [ "InitTriggerAuraData", "db/d69/a03320.html#a70fb722e03fe637ce7c9979a00725a3c", null ],
-    [ "baseMoveSpeed", "db/d69/a03320.html#a2ede1cce0416c74db2d4599bab36eb57", null ],
-    [ "isAlwaysTriggeredAura", "db/d69/a03320.html#a59735a3ed46ce3add4f949e4c9e041f8", null ],
-    [ "isNonTriggerAura", "db/d69/a03320.html#a993ff0928a2b90204efd437a0726e787", null ],
-    [ "isTriggerAura", "db/d69/a03320.html#ad51bed43268eefcceebdda05d85c6a61", null ],
-    [ "playerBaseMoveSpeed", "db/d69/a03320.html#afef08589b9944f10d66bdc1de74d0270", null ],
-    [ "procPrepared", "db/d69/a03320.html#a11410c456e972de7cfb44bbe17709cc4", null ]
+    [ "AccountFlagText", "da/d4c/a11859.html", "da/d4c/a11859" ],
+    [ "misc_commandscript", "d9/d56/a11863.html", "d9/d56/a11863" ],
+    [ "AddSC_misc_commandscript", "db/d69/a03320.html#ac722d20c86b9502b7c4c8ae711cc3917", null ],
+    [ "GetLocalizeCreatureName", "db/d69/a03320.html#aaedbdfd3cae227b11684151f41e3b977", null ],
+    [ "accountFlagText", "db/d69/a03320.html#a704344ab0c20d3674c76d1dcf177ec9a", null ],
+    [ "SPELL_FREEZE", "db/d69/a03320.html#a181bdc61e4eb1d21db975ca0227cb086", null ],
+    [ "SPELL_STUCK", "db/d69/a03320.html#a1706df7feb0ef4f693c388033ace5fb7", null ]
 ];

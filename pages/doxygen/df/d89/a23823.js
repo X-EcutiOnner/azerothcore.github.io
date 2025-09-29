@@ -1,9 +1,8 @@
 var a23823 =
 [
-    [ "boss_void_reaver", "df/d89/a23823.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
-    [ "JustDied", "df/d89/a23823.html#a49e6f52b11177bdac07adff92c2675f5", null ],
-    [ "JustEngagedWith", "df/d89/a23823.html#a9260d05e11f4dec6fc25432a0524706b", null ],
-    [ "KilledUnit", "df/d89/a23823.html#adc234fc43308771a42d99049876cad1b", null ],
-    [ "Reset", "df/d89/a23823.html#a02c36ea960de24991f879943991a93c6", null ],
-    [ "_recentlySpoken", "df/d89/a23823.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac", null ]
+    [ "HandleDummyApply", "df/d89/a23823.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
+    [ "HandleDummyRemove", "df/d89/a23823.html#a368376fe4262815b9b9a9811178cec6d", null ],
+    [ "HandlePeriodicRemove", "df/d89/a23823.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
+    [ "PrepareAuraScript", "df/d89/a23823.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
+    [ "Register", "df/d89/a23823.html#afeb47a40cfea3d958fee7a410e83857f", null ]
 ];

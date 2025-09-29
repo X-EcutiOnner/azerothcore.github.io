@@ -1,8 +1,7 @@
 var a27899 =
 [
-    [ "gender", "d1/dab/a27899.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
-    [ "hair_id", "d1/dab/a27899.html#af4646a9adb0a1dc18b34158de2116b84", null ],
-    [ "Id", "d1/dab/a27899.html#a05de87081cf628e806d6518eef1424e4", null ],
-    [ "race", "d1/dab/a27899.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
-    [ "type", "d1/dab/a27899.html#a289bb362ba13235c754647ba67be1e56", null ]
+    [ "npc_venomhide_hatchlingAI", "da/d7c/a27903.html", "da/d7c/a27903" ],
+    [ "npc_venomhide_hatchling", "d1/dab/a27899.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
+    [ "GetAI", "d1/dab/a27899.html#a96110b752965d751ab7b466c4f67e333", null ],
+    [ "OnGossipHello", "d1/dab/a27899.html#a404d875592b847ddb9f3250c9d954bfc", null ]
 ];

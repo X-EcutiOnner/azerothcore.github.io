@@ -1,5 +1,6 @@
 var a16543 =
 [
-    [ "boss_fjolaAI", "d3/d1c/a16543.html#aa46fdff841d01f28ef50aa5363082f71", null ],
-    [ "JustSummoned", "d3/d1c/a16543.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
+    [ "npc_frost_sphereAI", "d7/d8e/a16547.html", "d7/d8e/a16547" ],
+    [ "npc_frost_sphere", "d3/d1c/a16543.html#a0256ba1c53853307f8b66e22b10bef24", null ],
+    [ "GetAI", "d3/d1c/a16543.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
 ];

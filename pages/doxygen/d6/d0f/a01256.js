@@ -1,9 +1,13 @@
 var a01256 =
 [
-    [ "instance_magtheridons_lair", "d5/d27/a23830.html", "d5/d27/a23830" ],
-    [ "instance_magtheridons_lair::instance_magtheridons_lair_InstanceMapScript", "d0/d81/a23834.html", "d0/d81/a23834" ],
-    [ "AddSC_instance_magtheridons_lair", "d6/d0f/a01256.html#a77e256ce8ca932c8d162a30715dc7c6f", null ],
-    [ "boundaries", "d6/d0f/a01256.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "doorData", "d6/d0f/a01256.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "minionData", "d6/d0f/a01256.html#a6720238df140a3c574a711042b7f5bd3", null ]
+    [ "ServerScript", "dc/d3a/a10419.html", "dc/d3a/a10419" ],
+    [ "ServerHook", "d6/d0f/a01256.html#af8cee964a488266c6dec6c3b76b1a2d9", [
+      [ "SERVERHOOK_ON_NETWORK_START", "d6/d0f/a01256.html#af8cee964a488266c6dec6c3b76b1a2d9aa644f9d52a55cf9cf2a11293c30d53e3", null ],
+      [ "SERVERHOOK_ON_NETWORK_STOP", "d6/d0f/a01256.html#af8cee964a488266c6dec6c3b76b1a2d9a750717da9270f21f519c8d5a05d7a3b4", null ],
+      [ "SERVERHOOK_ON_SOCKET_OPEN", "d6/d0f/a01256.html#af8cee964a488266c6dec6c3b76b1a2d9af5241aced10e2c6c6077ac764206c6bd", null ],
+      [ "SERVERHOOK_ON_SOCKET_CLOSE", "d6/d0f/a01256.html#af8cee964a488266c6dec6c3b76b1a2d9ace5af0b477d230f9aa1e51c82789dc8d", null ],
+      [ "SERVERHOOK_CAN_PACKET_SEND", "d6/d0f/a01256.html#af8cee964a488266c6dec6c3b76b1a2d9a7efd4b6dcfe8fd03b250b045c1dcaf12", null ],
+      [ "SERVERHOOK_CAN_PACKET_RECEIVE", "d6/d0f/a01256.html#af8cee964a488266c6dec6c3b76b1a2d9ad4bcaa584ee5ee3556aabfe396d2e971", null ],
+      [ "SERVERHOOK_END", "d6/d0f/a01256.html#af8cee964a488266c6dec6c3b76b1a2d9a9292463242a21cee981d7f24a964e6dc", null ]
+    ] ]
 ];

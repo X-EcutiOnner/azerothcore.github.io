@@ -1,7 +1,8 @@
 var a05103 =
 [
-    [ "operator()", "d8/d5e/a05103.html#af1b2d9b7517b57a5a0a598f58b470c33", null ],
-    [ "closestEntity", "d8/d5e/a05103.html#ab377424b7edd0274f61967619700f841", null ],
-    [ "hitLocation", "d8/d5e/a05103.html#a00e778dd78dca96391d200e18dfc2c9d", null ],
-    [ "hitNormal", "d8/d5e/a05103.html#a57f40f48c26829f7da9e48efd839d773", null ]
+    [ "GModelRayCallback", "d8/d5e/a05103.html#a39bc53ae3bf18800ea215a5a54568606", null ],
+    [ "operator()", "d8/d5e/a05103.html#af0072bed861fb89a63c37fd72482ed42", null ],
+    [ "hit", "d8/d5e/a05103.html#ad8861bd8f8c15ff9955c62f5cb1e13bf", null ],
+    [ "triangles", "d8/d5e/a05103.html#a09ef515a1b16d184071e708ed9245b3d", null ],
+    [ "vertices", "d8/d5e/a05103.html#af80815b123c6611f38e3d5b41e501546", null ]
 ];

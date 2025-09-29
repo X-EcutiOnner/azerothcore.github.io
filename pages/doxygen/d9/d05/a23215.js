@@ -1,11 +1,13 @@
 var a23215 =
 [
-    [ "boss_ahune", "d9/d05/a23215.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
-    [ "DoAction", "d9/d05/a23215.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
-    [ "Emerge", "d9/d05/a23215.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
-    [ "EnterEvadeMode", "d9/d05/a23215.html#a2b906881621e59143a916c588beb70e7", null ],
-    [ "ExecuteEvent", "d9/d05/a23215.html#a46b477aef635de1d3ec88baa2465089f", null ],
-    [ "JustDied", "d9/d05/a23215.html#af2fc7c071321653a644ee569ead67d63", null ],
-    [ "JustEngagedWith", "d9/d05/a23215.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
-    [ "Submerge", "d9/d05/a23215.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
+    [ "boss_teron_gorefiend", "d9/d05/a23215.html#a81845f22aa383cdc57912ee9655b7bf9", null ],
+    [ "JustDied", "d9/d05/a23215.html#aa080c8d17bc51142c1cecadf7a0376a2", null ],
+    [ "JustEngagedWith", "d9/d05/a23215.html#a9f658d42cf27a54c62a71e28b5dfadee", null ],
+    [ "JustSummoned", "d9/d05/a23215.html#a71db567c5be7396add349e2f1b455a50", null ],
+    [ "KilledUnit", "d9/d05/a23215.html#a70dbf2b2a08cf915866afd51f8a74018", null ],
+    [ "Reset", "d9/d05/a23215.html#af32df2d958c618dc08d3da40b92bf3aa", null ],
+    [ "SetData", "d9/d05/a23215.html#a139c351471a3f19c7e59cf8e40913820", null ],
+    [ "UpdateAI", "d9/d05/a23215.html#a0bdd92c94adf066fdbf8ba9bcb1a1ba1", null ],
+    [ "_intro", "d9/d05/a23215.html#a99c62157084373e8eddd4497360cc047", null ],
+    [ "_recentlySpoken", "d9/d05/a23215.html#adef80b4509a6a72e7021fd3cc11de697", null ]
 ];

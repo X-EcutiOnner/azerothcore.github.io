@@ -1,4 +1,4 @@
 var a04397 =
 [
-    [ "CircularBuffer< T >", "dd/d67/a05452.html", "dd/d67/a05452" ]
+    [ "Reference< TO, FROM >", "d1/dad/a05267.html", "d1/dad/a05267" ]
 ];

@@ -1,7 +1,7 @@
 var a20567 =
 [
-    [ "boss_thorim_trapAI", "d8/d11/a20567.html#aaab278dc6557a49624099b0064b8d6f3", null ],
-    [ "Reset", "d8/d11/a20567.html#ab0715e75a475409ffb6c623bf363a65d", null ],
-    [ "UpdateAI", "d8/d11/a20567.html#a40078609a67aa029f71df7971449b056", null ],
-    [ "_checkTimer", "d8/d11/a20567.html#ad3ed8edb4d06e5b98a5afc82170f3233", null ]
+    [ "FilterTargetsInitial", "d8/d11/a20567.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
+    [ "Load", "d8/d11/a20567.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
+    [ "PrepareSpellScript", "d8/d11/a20567.html#a4d1e588557fa3fa432d4015fda930877", null ],
+    [ "Register", "d8/d11/a20567.html#a0428375ddb89907e7f1728757d55d052", null ]
 ];

@@ -1,6 +1,6 @@
 var a17495 =
 [
-    [ "npc_muradin_bronzebeard_igbAI", "d5/d27/a17499.html", "d5/d27/a17499" ],
-    [ "npc_muradin_bronzebeard_igb", "df/ddc/a17495.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
-    [ "GetAI", "df/ddc/a17495.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
+    [ "npc_dark_nucleusAI", "d5/d27/a17499.html", "d5/d27/a17499" ],
+    [ "npc_dark_nucleus", "df/ddc/a17495.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
+    [ "GetAI", "df/ddc/a17495.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
 ];

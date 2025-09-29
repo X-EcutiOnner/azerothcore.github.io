@@ -1,5 +1,7 @@
 var a27155 =
 [
-    [ "go_resonite_cask", "d1/dbd/a27155.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
-    [ "OnGossipHello", "d1/dbd/a27155.html#aae8591d53a6983886b52d404acdba293", null ]
+    [ "HandleDummy", "d1/dbd/a27155.html#a436ed0843e0035308c69f0854decd7f2", null ],
+    [ "PrepareSpellScript", "d1/dbd/a27155.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
+    [ "Register", "d1/dbd/a27155.html#a0b69f667ea83dee61206bbc723020cbc", null ],
+    [ "Validate", "d1/dbd/a27155.html#a93e68d77227297883aae472ef08fb67c", null ]
 ];

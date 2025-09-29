@@ -1,8 +1,6 @@
 var a22679 =
 [
-    [ "npc_parasitic_shadowfiend", "d3/d9b/a22679.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
-    [ "CanAIAttack", "d3/d9b/a22679.html#ac7600aed313f1413cb9b522d60d30329", null ],
-    [ "EnterEvadeMode", "d3/d9b/a22679.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
-    [ "IsSummonedBy", "d3/d9b/a22679.html#a306c696d4243c4525d0a3908a212135d", null ],
-    [ "UpdateAI", "d3/d9b/a22679.html#a2706a4ba7876f299b02d2e720f512af2", null ]
+    [ "npc_captured_rageclawAI", "d3/d9b/a22679.html#a5bb483a323330b0895f87c5381d73314", null ],
+    [ "Reset", "d3/d9b/a22679.html#a9cde0a0e5015334ec8dcd277fcd99dc3", null ],
+    [ "SpellHit", "d3/d9b/a22679.html#a2c63911d27435a2271a7c89d9d88318c", null ]
 ];

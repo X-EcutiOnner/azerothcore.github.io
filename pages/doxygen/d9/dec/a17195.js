@@ -1,6 +1,9 @@
 var a17195 =
 [
-    [ "ShockVortexExplodeEvent", "d9/dec/a17195.html#ad972aed372822e10a476d1592192f3ea", null ],
-    [ "Execute", "d9/dec/a17195.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
-    [ "_owner", "d9/dec/a17195.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
+    [ "FilterTargets", "d9/dec/a17195.html#aefebf504286394cf3caffa566543e4a4", null ],
+    [ "FilterTargetsNext", "d9/dec/a17195.html#a356b6ace97d07df22a232d2287072b5e", null ],
+    [ "PrepareSpellScript", "d9/dec/a17195.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
+    [ "Register", "d9/dec/a17195.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
+    [ "Unload", "d9/dec/a17195.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
+    [ "targetList", "d9/dec/a17195.html#a3c839185938e0b67b97f652d1d15e213", null ]
 ];

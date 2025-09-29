@@ -1,7 +1,12 @@
 var a17639 =
 [
-    [ "HandleScript", "d2/dc4/a17639.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
-    [ "PrepareSpellScript", "d2/dc4/a17639.html#ab69926839f72ee76eba2b225aba9690c", null ],
-    [ "Register", "d2/dc4/a17639.html#aad8925e891d7537993f02f3bc2552fea", null ],
-    [ "SelectRandomTarget", "d2/dc4/a17639.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "d2/dc4/a17639.html#a4313164857ebd174fe33a9a16340b332", null ],
+    [ "DoAction", "d2/dc4/a17639.html#a16eeb7d0ed6c943c088285462131cd51", null ],
+    [ "MovementInform", "d2/dc4/a17639.html#a9a2e367f30ee16ca55e634de8e22551e", null ],
+    [ "Reset", "d2/dc4/a17639.html#ad5d5a9de05e472d24fe399b4de79a3d0", null ],
+    [ "SpellHit", "d2/dc4/a17639.html#a19b42ca678e7bf93c86891b4ea0a2dce", null ],
+    [ "UpdateAI", "d2/dc4/a17639.html#a1ae2393871e0f4ebeb86521f06959a7a", null ],
+    [ "_events", "d2/dc4/a17639.html#ae7079b335373cc06a040756328e7f714", null ],
+    [ "_guardList", "d2/dc4/a17639.html#a1cbd87af34584979b37dfff8b29f9623", null ],
+    [ "_instance", "d2/dc4/a17639.html#af1d8694678b10e5393c658ba0b20f47a", null ]
 ];

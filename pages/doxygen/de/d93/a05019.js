@@ -1,13 +1,10 @@
 var a05019 =
 [
-    [ "GroupModel_Raw", "de/d93/a05019.html#a8decfdc365b823f8f147ee9bfa3613b0", null ],
-    [ "~GroupModel_Raw", "de/d93/a05019.html#a1381249a1bbe9c1cf383097ef94c6eb7", null ],
-    [ "Read", "de/d93/a05019.html#ad3bcd782124868cd1df0efea2b500ba5", null ],
-    [ "bounds", "de/d93/a05019.html#a830d79fdd2f21164bd805051352a3aa8", null ],
-    [ "GroupWMOID", "de/d93/a05019.html#ab9e9650c5ebf5a81b92cff27dd23a25a", null ],
-    [ "liquid", "de/d93/a05019.html#ac801d04ca4c643d2b8eba5199a8d0fac", null ],
-    [ "liquidflags", "de/d93/a05019.html#ac379f459d0fff6b1848dc52bd21ef393", null ],
-    [ "mogpflags", "de/d93/a05019.html#a339767ed24a9f0ecf426e47d3bf6e4b5", null ],
-    [ "triangles", "de/d93/a05019.html#af692734697f525672027f251addebe6d", null ],
-    [ "vertexArray", "de/d93/a05019.html#ad73c215408218900973df4dbdd8fcd18", null ]
+    [ "MmapTileHeader", "de/d93/a05019.html#a0165f9a4caee4e4759ea261dfbac08a7", null ],
+    [ "dtVersion", "de/d93/a05019.html#a34d3ed8c617139653176454d7fa7934e", null ],
+    [ "mmapMagic", "de/d93/a05019.html#ace0ec88460c97f1438de2d0e6a9d7774", null ],
+    [ "mmapVersion", "de/d93/a05019.html#a5cc3cd873419fe8aeb479d3187584410", null ],
+    [ "padding", "de/d93/a05019.html#a6ca977b85a993eb6721e3bfe9fd3abfd", null ],
+    [ "size", "de/d93/a05019.html#a69f3284a4a56b1108792ba56c250bf97", null ],
+    [ "usesLiquids", "de/d93/a05019.html#aeb4e622161a4bb42cff42d37542f0254", null ]
 ];

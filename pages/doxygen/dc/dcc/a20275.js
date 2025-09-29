@@ -1,5 +1,5 @@
 var a20275 =
 [
-    [ "achievement_ignis_shattered", "dc/dcc/a20275.html#adbe893b0dd409eb3f10768f81f182f61", null ],
-    [ "OnCheck", "dc/dcc/a20275.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
+    [ "boss_freya_iron_rootAI", "dc/dcc/a20275.html#a5e982f5f41433f43a7a0e1d18e009b7b", null ],
+    [ "JustDied", "dc/dcc/a20275.html#ad35297f0fa2039749b89d38c2b4f08b9", null ]
 ];

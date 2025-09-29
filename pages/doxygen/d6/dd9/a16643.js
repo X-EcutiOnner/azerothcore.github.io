@@ -1,6 +1,8 @@
 var a16643 =
 [
-    [ "HandleScript", "d6/dd9/a16643.html#a4786e0c38f03f7e671174d0641526681", null ],
-    [ "PrepareSpellScript", "d6/dd9/a16643.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
-    [ "Register", "d6/dd9/a16643.html#a943117bfb56b846e99d04bd9a348af8d", null ]
+    [ "npc_toc_hunterAI", "d6/dd9/a16643.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
+    [ "JustSummoned", "d6/dd9/a16643.html#aa270248ad9e0c319234ff0741270b465", null ],
+    [ "myCanCast", "d6/dd9/a16643.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
+    [ "UpdateAI", "d6/dd9/a16643.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
+    [ "events", "d6/dd9/a16643.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
 ];

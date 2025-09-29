@@ -1,8 +1,6 @@
 var a18159 =
 [
-    [ "FilterTargets", "df/db6/a18159.html#a242fa53c2da9ac557623281bccf2af92", null ],
-    [ "HandleSendEvent", "df/db6/a18159.html#a6120e057e2ee39d34eaeab79782add8d", null ],
-    [ "Load", "df/db6/a18159.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
-    [ "PrepareSpellScript", "df/db6/a18159.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
-    [ "Register", "df/db6/a18159.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
+    [ "npc_little_oozeAI", "d8/d0f/a18163.html", "d8/d0f/a18163" ],
+    [ "npc_little_ooze", "df/db6/a18159.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
+    [ "GetAI", "df/db6/a18159.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
 ];

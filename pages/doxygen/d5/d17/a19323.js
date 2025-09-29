@@ -1,15 +1,18 @@
 var a19323 =
 [
-    [ "boss_eregosAI", "d5/d17/a19323.html#a5b09dacbddd6075c2ebf4d62a387a8b6", null ],
-    [ "DamageTaken", "d5/d17/a19323.html#a7a4b4443aed576f080a56a27e15edfd4", null ],
-    [ "JustDied", "d5/d17/a19323.html#ade16be2804b857fc8e93a62d4be42380", null ],
-    [ "JustEngagedWith", "d5/d17/a19323.html#a1544782732beba5d7114c3bb70419ae1", null ],
-    [ "JustSummoned", "d5/d17/a19323.html#a33ef5a080e457f4e08e7997b467b0974", null ],
-    [ "KilledUnit", "d5/d17/a19323.html#a30ad32a4a63ae17eef4fc703a6749d38", null ],
-    [ "MoveInLineOfSight", "d5/d17/a19323.html#ac622481abb0190bdc7654b383766a9ed", null ],
-    [ "Reset", "d5/d17/a19323.html#aeec469c2c9d0ad27461478ee57c30c56", null ],
-    [ "UpdateAI", "d5/d17/a19323.html#a2a190fdb6b1c9ed4eba2b9e536c5cf36", null ],
-    [ "events", "d5/d17/a19323.html#ae6f1f2e3146525596c3dbb646283b744", null ],
-    [ "pInstance", "d5/d17/a19323.html#abf0b366d7b0931ccc30711a33736dda8", null ],
-    [ "shiftNumber", "d5/d17/a19323.html#a16c90dba1f0a7f4cc2025e294dbac455", null ]
+    [ "boss_nothAI", "d5/d17/a19323.html#a0a1f8e88396b04d070c4034b2419f0bb", null ],
+    [ "EnterEvadeMode", "d5/d17/a19323.html#af0c4cfb04564b23840ee88dfa1badf55", null ],
+    [ "IsInRoom", "d5/d17/a19323.html#a8e9c27804ae01e46285a3bed42091754", null ],
+    [ "JustDied", "d5/d17/a19323.html#a18dd73c178eff3170d371c4bd4062b76", null ],
+    [ "JustEngagedWith", "d5/d17/a19323.html#aed044bf36d56b2241e591eb45999900b", null ],
+    [ "JustSummoned", "d5/d17/a19323.html#a61e814ce0a861ba98ccc21d8d6df128a", null ],
+    [ "KilledUnit", "d5/d17/a19323.html#a1d5b013cdbaab702a85fc1d344ad6f6a", null ],
+    [ "Reset", "d5/d17/a19323.html#a311754fa1fa1b112272395179e3b1bff", null ],
+    [ "StartBalconyPhase", "d5/d17/a19323.html#ac890e5f4e6e9e40d78e75d2c86bd6740", null ],
+    [ "StartGroundPhase", "d5/d17/a19323.html#a3ae5f948e2faf051b1cb88cd638c612e", null ],
+    [ "SummonHelper", "d5/d17/a19323.html#abfe6252bec42fdc3d7738aef3dd2ec74", null ],
+    [ "UpdateAI", "d5/d17/a19323.html#a87f4e825fb8f9f48991d5dcf94af78e3", null ],
+    [ "events", "d5/d17/a19323.html#a3f3e282c6ee1d259f1f2a401f6195251", null ],
+    [ "summons", "d5/d17/a19323.html#a4e95ad18274331e402124d4a8424cb18", null ],
+    [ "timesInBalcony", "d5/d17/a19323.html#a249c96d4230bd2b43c4be733317c4bc4", null ]
 ];

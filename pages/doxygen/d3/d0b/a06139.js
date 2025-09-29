@@ -1,5 +1,8 @@
 var a06139 =
 [
-    [ "SimpleCharmedAI", "d3/d0b/a06139.html#ada8d12d7df75dca5c87c633348d1b27b", null ],
-    [ "UpdateAI", "d3/d0b/a06139.html#a5e2c8ae6b601b7fcc36f8c2c49bcd9a6", null ]
+    [ "PassiveAI", "d3/d0b/a06139.html#ad1ae1c9e8a101dabd89aeed5c71eb453", null ],
+    [ "AttackStart", "d3/d0b/a06139.html#ac2aeba8cb148659de1ef97733fbb0651", null ],
+    [ "MoveInLineOfSight", "d3/d0b/a06139.html#a3a54c7d7268b8c2f4e081a99b4b0cd11", null ],
+    [ "Permissible", "d3/d0b/a06139.html#a2960223799a5b3baedbdd7e664604865", null ],
+    [ "UpdateAI", "d3/d0b/a06139.html#ae8aa0cf612d23e5b9438e3f2b443f3d9", null ]
 ];

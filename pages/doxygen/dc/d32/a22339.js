@@ -1,6 +1,6 @@
 var a22339 =
 [
-    [ "HandlePeriodicDummy", "dc/d32/a22339.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "dc/d32/a22339.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "dc/d32/a22339.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "ChangeSummonPos", "dc/d32/a22339.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "dc/d32/a22339.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "dc/d32/a22339.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

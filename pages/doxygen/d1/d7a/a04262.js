@@ -1,8 +1,11 @@
 var a04262 =
 [
-    [ "CreatureScript", "de/d84/a10314.html", "de/d84/a10314" ],
-    [ "GenericCreatureScript< AI >", "dc/d20/a10318.html", "dc/d20/a10318" ],
-    [ "FactoryCreatureScript< AI, AIFactory >", "d9/d3c/a10322.html", "d9/d3c/a10322" ],
-    [ "RegisterCreatureAI", "d1/d7a/a04262.html#a5e7352841895df7117e2830448eb533f", null ],
-    [ "RegisterCreatureAIWithFactory", "d1/d7a/a04262.html#a25cc02ecf50f52ec8cdff096060b8be1", null ]
+    [ "Acore::GeneralLock< MUTEX >", "dc/d83/a05451.html", "dc/d83/a05451" ],
+    [ "Acore::SingleThreaded< T >", "d3/dd4/a05455.html", "d3/dd4/a05455" ],
+    [ "Acore::SingleThreaded< T >::Lock", "db/d24/a05459.html", "db/d24/a05459" ],
+    [ "Acore::ObjectLevelLockable< T, MUTEX >", "da/d34/a05463.html", "da/d34/a05463" ],
+    [ "Acore::ObjectLevelLockable< T, MUTEX >::Lock", "db/d89/a05467.html", "db/d89/a05467" ],
+    [ "Acore::ClassLevelLockable< T, MUTEX >", "d5/d35/a05471.html", "d5/d35/a05471" ],
+    [ "Acore::ClassLevelLockable< T, MUTEX >::Lock", "d9/dae/a05475.html", "d9/dae/a05475" ],
+    [ "INSTANTIATE_CLASS_MUTEX", "d1/d7a/a04262.html#a517f069300d9fa1587cf281664c72a75", null ]
 ];

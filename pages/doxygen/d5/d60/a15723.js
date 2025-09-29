@@ -1,13 +1,13 @@
 var a15723 =
 [
-    [ "npc_shadowpriest_sezzizAI", "d5/d60/a15723.html#a14c5cee1c3032b8df4ad902eb273e9b0", null ],
-    [ "AttackStart", "d5/d60/a15723.html#a8278a73501ea33164cbdef8599144f4a", null ],
-    [ "Reset", "d5/d60/a15723.html#ab08cc327c4206e4526e77eea3bf17e0b", null ],
-    [ "UpdateAI", "d5/d60/a15723.html#a1c0236b52d4cd87634659991e0dfc728", null ],
-    [ "_missingHPForHealTimer", "d5/d60/a15723.html#a1171f0cd40bd3d7198bab15b12edc131", null ],
-    [ "_missingHPForRenewTimer", "d5/d60/a15723.html#a8df4e1046348599cd5d1e31e3dc4eb0c", null ],
-    [ "_physicScreemTimer", "d5/d60/a15723.html#a43de246b93f3380d5b79ffba6434aa5a", null ],
-    [ "_shadowBoltTimer", "d5/d60/a15723.html#a34a18991ff2c0aafac15694ed9667193", null ],
-    [ "_summmonAddsCount", "d5/d60/a15723.html#a8ce2b172757d1f7d188152ecc0fe30f5", null ],
-    [ "_summonAddsTimer", "d5/d60/a15723.html#aff413ce6f4106d212f35fb7abbfa047e", null ]
+    [ "npc_shenthulAI", "d5/d60/a15723.html#ae056474022c27be5565bf018a1b56f0b", null ],
+    [ "JustEngagedWith", "d5/d60/a15723.html#acb202ef530bc11ea807f580ff5dfc621", null ],
+    [ "ReceiveEmote", "d5/d60/a15723.html#ab2ddc3e447b36cb0fceffdaff0fca592", null ],
+    [ "Reset", "d5/d60/a15723.html#af077e96eb8bf89af2d6eb79907444a17", null ],
+    [ "UpdateAI", "d5/d60/a15723.html#a2ae643c11c6ea3808be922de96a24e8f", null ],
+    [ "CanEmote", "d5/d60/a15723.html#a920209c374e611e96347d209337c044f", null ],
+    [ "CanTalk", "d5/d60/a15723.html#a82ea8d2ee50538135add120be7616f86", null ],
+    [ "PlayerGUID", "d5/d60/a15723.html#a4b262388aca789d19231426a8cb73379", null ],
+    [ "ResetTimer", "d5/d60/a15723.html#a475a141d639f0136ac943e6afb1ecd15", null ],
+    [ "SaluteTimer", "d5/d60/a15723.html#ae76b4bbde77b6029a788abfbbbe84df8", null ]
 ];

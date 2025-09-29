@@ -1,7 +1,8 @@
 var a20211 =
 [
-    [ "HandleEffectPeriodic", "d5/d27/a20211.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
-    [ "PrepareAuraScript", "d5/d27/a20211.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
-    [ "Register", "d5/d27/a20211.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
-    [ "Validate", "d5/d27/a20211.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
+    [ "HandleOnEffectApply", "d5/d27/a20211.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "d5/d27/a20211.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "d5/d27/a20211.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "d5/d27/a20211.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "d5/d27/a20211.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

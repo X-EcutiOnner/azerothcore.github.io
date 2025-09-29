@@ -1,6 +1,6 @@
 var a24931 =
 [
-    [ "HandleEffectPeriodicUpdate", "d5/dd7/a24931.html#a554353fede78b89bf488230254d7892b", null ],
-    [ "PrepareAuraScript", "d5/dd7/a24931.html#adf20aaafff83bae614ff3c614a08a54b", null ],
-    [ "Register", "d5/dd7/a24931.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
+    [ "CalculateAmount", "d5/dd7/a24931.html#a66fd870eff0f2a225630e26047d36225", null ],
+    [ "PrepareAuraScript", "d5/dd7/a24931.html#afde8a1734c57e01094077af3d3bdf757", null ],
+    [ "Register", "d5/dd7/a24931.html#a8e5b9dd71dfccb224e92784725f2a8a9", null ]
 ];

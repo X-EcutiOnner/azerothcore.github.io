@@ -1,6 +1,7 @@
 var a12307 =
 [
-    [ "boss_baron_geddonAI", "d3/d34/a12311.html", "d3/d34/a12311" ],
-    [ "boss_baron_geddon", "d0/d0c/a12307.html#ad72caf30219b4295c0be4289b9d25498", null ],
-    [ "GetAI", "d0/d0c/a12307.html#a8f328680a5f99fb275cb0b3e8adf9c63", null ]
+    [ "boss_warmastervooneAI", "d0/d0c/a12307.html#aa22519c8d3037cf07c275080b9bedcaf", null ],
+    [ "DamageTaken", "d0/d0c/a12307.html#adce28de25fa74557000d60188346e2d2", null ],
+    [ "ExecuteEvent", "d0/d0c/a12307.html#ac9dc6ef78503a87ea68d0e232b0376da", null ],
+    [ "JustEngagedWith", "d0/d0c/a12307.html#ac419c5118a45264e24e391f7575d90fb", null ]
 ];

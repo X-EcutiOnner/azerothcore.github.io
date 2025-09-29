@@ -1,6 +1,6 @@
 var a13971 =
 [
-    [ "HandleOnHit", "db/d80/a13971.html#a76b09288d14d399735250607e2105eb3", null ],
-    [ "PrepareSpellScript", "db/d80/a13971.html#a2270ce546ae286ffa701d094df591aa2", null ],
-    [ "Register", "db/d80/a13971.html#a710f2a60bf6ae00909d279b98ac6b7d6", null ]
+    [ "npc_tapoke_slim_jahnAI", "d0/dc9/a13975.html", "d0/dc9/a13975" ],
+    [ "npc_tapoke_slim_jahn", "db/d80/a13971.html#a61e36b57f8ba78c371d454efb1512579", null ],
+    [ "GetAI", "db/d80/a13971.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
 ];

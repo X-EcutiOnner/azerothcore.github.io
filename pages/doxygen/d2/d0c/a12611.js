@@ -1,10 +1,7 @@
 var a12611 =
 [
-    [ "boss_servant_quarters", "d2/d0c/a12611.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
-    [ "JustDied", "d2/d0c/a12611.html#a3b9df7ab573f22a9e15761cb662db404", null ],
-    [ "JustEngagedWith", "d2/d0c/a12611.html#afe4a4a78824851f63ce560a60d55cee3", null ],
-    [ "MovementInform", "d2/d0c/a12611.html#a00d31d9421903b6a92c03a3bd0382328", null ],
-    [ "Reset", "d2/d0c/a12611.html#a273a09b1242968a5dd45ab9866fbe481", null ],
-    [ "UpdateAI", "d2/d0c/a12611.html#a6a41cfd67310077803733190645050e4", null ],
-    [ "_scheduler", "d2/d0c/a12611.html#a520142de5e8d2911684b18c85a3f37e2", null ]
+    [ "HandleHit", "d2/d0c/a12611.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
+    [ "Load", "d2/d0c/a12611.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
+    [ "PrepareSpellScript", "d2/d0c/a12611.html#a9fb8d980381264a2ef645f2e620abd21", null ],
+    [ "Register", "d2/d0c/a12611.html#a4998015873f0e0ca768c20b0f95fda90", null ]
 ];

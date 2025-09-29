@@ -1,7 +1,14 @@
 var a17747 =
 [
-    [ "HandleSpikes", "d4/dd1/a17747.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
-    [ "PrepareSpellScript", "d4/dd1/a17747.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
-    [ "Register", "d4/dd1/a17747.html#a893345cf191d084a0f97a8464b7d381a", null ],
-    [ "Validate", "d4/dd1/a17747.html#aa6545760706d8695aefd4064c3c71c6b", null ]
+    [ "npc_gunshipAI", "d4/dd1/a17747.html#a75444497ffd6b7365827eea57fd946f9", null ],
+    [ "DamageTaken", "d4/dd1/a17747.html#a9c1825ec51aaecedd1035ae9a1ded6a0", null ],
+    [ "GetData", "d4/dd1/a17747.html#a0142bec2427c1256431e55d3f74b8948", null ],
+    [ "JustDied", "d4/dd1/a17747.html#aa19c815ad64f81fb5240c5e0667bccc9", null ],
+    [ "SetGUID", "d4/dd1/a17747.html#a692a5a16ea75e816f2f58c469e042a1b", null ],
+    [ "UpdateAI", "d4/dd1/a17747.html#a8bab1a755c2262e9f36f295781d30909", null ],
+    [ "_died", "d4/dd1/a17747.html#af4480427460748bccae214737469ddb7", null ],
+    [ "_instance", "d4/dd1/a17747.html#a21f9c24e80145db0c6847c81261d0e8d", null ],
+    [ "_shipVisits", "d4/dd1/a17747.html#a6f9730b746e195a99dc11357fd0387ba", null ],
+    [ "_summonedFirstMage", "d4/dd1/a17747.html#a721cc96cc76a27574a1a4eb1996b100e", null ],
+    [ "_teamIdInInstance", "d4/dd1/a17747.html#a195ff7ab2c2e96ab0bcd0a96c1e21512", null ]
 ];

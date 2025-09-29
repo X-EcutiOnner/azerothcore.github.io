@@ -1,4 +1,6 @@
 var a14843 =
 [
-    [ "instance_ragefire_chasm_InstanceMapScript", "da/db0/a14843.html#a4b55a59943c798b203a0a3c811588e7d", null ]
+    [ "FilterTargets", "da/db0/a14843.html#a45b0713b2942199bf0e19752fe765aac", null ],
+    [ "PrepareSpellScript", "da/db0/a14843.html#a7f7177d7754a99743202f69a0342f587", null ],
+    [ "Register", "da/db0/a14843.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
 ];

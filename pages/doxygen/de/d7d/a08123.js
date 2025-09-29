@@ -1,13 +1,11 @@
 var a08123 =
 [
-    [ "AnimationInfo", "de/d7d/a08123.html#aa443028e95ae416e09f1acfef0575803", null ],
-    [ "Building", "de/d7d/a08123.html#aae3dbb59dc70ee4d5d0a10390200c66e", null ],
-    [ "CapturePoint", "de/d7d/a08123.html#a6be6a6549054045466f377cf8a55790a", null ],
-    [ "FishingHole", "de/d7d/a08123.html#a7c7b99d5e85617c9f74ba20babb8f08b", null ],
-    [ "Health", "de/d7d/a08123.html#af70b72663064c9c4b88c93a824f1e14b", null ],
-    [ "MaxHealth", "de/d7d/a08123.html#ab606f11596c1dd3d1cf7588346338721", null ],
-    [ "MaxOpens", "de/d7d/a08123.html#a07ed76d692ae0af008e2373f3f9fd3e9", null ],
-    [ "OPvPObj", "de/d7d/a08123.html#a565624b690fa7fabf21b175548765652", null ],
-    [ "PathProgress", "de/d7d/a08123.html#a9e07a147b2be08a78f052e0cdb817111", null ],
-    [ "Transport", "de/d7d/a08123.html#a3fe65f8be0137e71908c037b0d279c27", null ]
+    [ "FormationInfo", "de/d7d/a08123.html#ad00d7dd0ac811a3805a8ba2c9c1e73df", null ],
+    [ "HasGroupFlag", "de/d7d/a08123.html#afc612acf30e8d0a047aac5b0fc2dc07b", null ],
+    [ "follow_angle", "de/d7d/a08123.html#a928ce7047d511c316a5367faf7f96673", null ],
+    [ "follow_dist", "de/d7d/a08123.html#a3b59ee5129e208cc3df407a921362393", null ],
+    [ "groupAI", "de/d7d/a08123.html#af9f6dc52999efef6f0819bb8d1670fec", null ],
+    [ "leaderGUID", "de/d7d/a08123.html#ad5af23397ae1ae835a72ce125d102ef0", null ],
+    [ "point_1", "de/d7d/a08123.html#a84298ff533bebc633689742c7f9299ae", null ],
+    [ "point_2", "de/d7d/a08123.html#acc308b497de18211b99eec4311b256a4", null ]
 ];

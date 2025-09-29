@@ -1,7 +1,7 @@
 var a15607 =
 [
-    [ "npc_paoka_swiftmountainAI", "df/d63/a15611.html", "df/d63/a15611" ],
-    [ "npc_paoka_swiftmountain", "d4/db3/a15607.html#abb3f6fab7cca158c2e139159430f880a", null ],
-    [ "GetAI", "d4/db3/a15607.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
-    [ "OnQuestAccept", "d4/db3/a15607.html#a5bd4442350daf5a19bee1037a1b4d7b3", null ]
+    [ "npc_cork_gizeltonAI", "df/d63/a15611.html", "df/d63/a15611" ],
+    [ "npc_cork_gizelton", "d4/db3/a15607.html#a915aa2abc18109e7d0197863f59536f2", null ],
+    [ "GetAI", "d4/db3/a15607.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
+    [ "OnQuestAccept", "d4/db3/a15607.html#a11dc1fea0a24add451272b537298fc13", null ]
 ];

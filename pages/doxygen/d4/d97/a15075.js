@@ -1,6 +1,6 @@
 var a15075 =
 [
-    [ "OnRemove", "d4/d97/a15075.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
-    [ "PrepareAuraScript", "d4/d97/a15075.html#a47849d8241ed17ad0fb541c1178b0760", null ],
-    [ "Register", "d4/d97/a15075.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
+    [ "instance_maraudon_InstanceMapScript", "da/d21/a15079.html", "da/d21/a15079" ],
+    [ "instance_maraudon", "d4/d97/a15075.html#aaae11d2569d04b42840b101a5702cf24", null ],
+    [ "GetInstanceScript", "d4/d97/a15075.html#ac4f5c7c3ee755226449c96b3e351f12d", null ]
 ];

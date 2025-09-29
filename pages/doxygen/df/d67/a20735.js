@@ -1,6 +1,6 @@
 var a20735 =
 [
-    [ "boss_yoggsaron_saraAI", "dc/d30/a20739.html", "dc/d30/a20739" ],
-    [ "boss_yoggsaron_sara", "df/d67/a20735.html#aaf5bd5440122f6c97315b0e3b9d47586", null ],
-    [ "GetAI", "df/d67/a20735.html#abc83e0f3a7d12a84ea283e5b2a69826d", null ]
+    [ "boss_razorscaleAI", "dc/d30/a20739.html", "dc/d30/a20739" ],
+    [ "boss_razorscale", "df/d67/a20735.html#ad8fe81f1b553414df3fa07c646029065", null ],
+    [ "GetAI", "df/d67/a20735.html#a01cf25d901a5eddae9ef3ea291020ba1", null ]
 ];

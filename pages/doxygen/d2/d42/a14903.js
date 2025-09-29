@@ -1,8 +1,6 @@
 var a14903 =
 [
-    [ "HandleScript", "d2/d42/a14903.html#ac58aef1b295e32c8a44852278edc18f8", null ],
-    [ "Load", "d2/d42/a14903.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
-    [ "PrepareSpellScript", "d2/d42/a14903.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
-    [ "Register", "d2/d42/a14903.html#a95f4abd67d6baf75980ff28a7518503d", null ],
-    [ "Validate", "d2/d42/a14903.html#a98271e7adb17b11e39241154a83b0d0d", null ]
+    [ "boss_epochAI", "d3/d8d/a14907.html", "d3/d8d/a14907" ],
+    [ "boss_epoch", "d2/d42/a14903.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
+    [ "GetAI", "d2/d42/a14903.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
 ];

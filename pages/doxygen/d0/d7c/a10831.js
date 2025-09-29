@@ -1,17 +1,8 @@
 var a10831 =
 [
-    [ "CompactArray", "d0/d7c/a10831.html#a167096f1966862ec92556b6f5d3aa3b8", null ],
-    [ "CompactArray", "d0/d7c/a10831.html#a70adda7a73d5c54b1d29668f23778c9f", null ],
-    [ "CompactArray", "d0/d7c/a10831.html#a757f7d94e52fa821dc1fdb03877574f3", null ],
-    [ "Clear", "d0/d7c/a10831.html#ae213ad313a4b0688763e882a2010c494", null ],
-    [ "GetMask", "d0/d7c/a10831.html#a3a421d4ee2e7459cbc945c6c70c1993f", null ],
-    [ "GetSize", "d0/d7c/a10831.html#a656c3568cd73d10dd6f9cda1809ff509", null ],
-    [ "Insert", "d0/d7c/a10831.html#a313aedf5c623505860a227149cb64b5a", null ],
-    [ "operator!=", "d0/d7c/a10831.html#adaade1e09d979a6e98b90253f442a9e5", null ],
-    [ "operator=", "d0/d7c/a10831.html#a75f0995b55269fc2d0bca87a0294fcb3", null ],
-    [ "operator=", "d0/d7c/a10831.html#a14d76ffa09769e341dea769424ac586c", null ],
-    [ "operator==", "d0/d7c/a10831.html#a24c7c9794991ec3bf4ecefa93f8ee23e", null ],
-    [ "operator[]", "d0/d7c/a10831.html#af146d3e880ec34358ff6a07247f741d8", null ],
-    [ "_contents", "d0/d7c/a10831.html#a1e0ff07a4905517dc6e92a3615bc36d0", null ],
-    [ "_mask", "d0/d7c/a10831.html#a85ef9a03e561e385f41de88e6e0f98c0", null ]
+    [ "SellItem", "d0/d7c/a10831.html#a5c7bdfba6d948b9fdaea3416bce03e5e", null ],
+    [ "Read", "d0/d7c/a10831.html#a7387e53c30f41dc8f5fd3ffbe4e4a347", null ],
+    [ "Count", "d0/d7c/a10831.html#a0116f5d02f18bf1a315fbf81b6467239", null ],
+    [ "ItemGuid", "d0/d7c/a10831.html#a92ae3a3dc04a699c4f201026c08974ca", null ],
+    [ "VendorGuid", "d0/d7c/a10831.html#a13200b200096a11e93a6d23fd6122378", null ]
 ];

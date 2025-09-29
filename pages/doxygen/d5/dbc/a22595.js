@@ -1,8 +1,7 @@
 var a22595 =
 [
-    [ "FilterTargets", "d5/dbc/a22595.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
-    [ "HandleDummyHitTarget", "d5/dbc/a22595.html#ae892090a9bd48aa447224c9f96801d37", null ],
-    [ "PrepareSpellScript", "d5/dbc/a22595.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
-    [ "Register", "d5/dbc/a22595.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
-    [ "Validate", "d5/dbc/a22595.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
+    [ "npc_wg_siege_machineAI", "d5/dbc/a22595.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
+    [ "CanControlVehicle", "d5/dbc/a22595.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
+    [ "UpdateAI", "d5/dbc/a22595.html#a8ddd21047a857facc767a9edc0ec5408", null ],
+    [ "checkTimer", "d5/dbc/a22595.html#abf4b06eae50adeefedba02e2186ea48a", null ]
 ];

@@ -1,7 +1,7 @@
 var a18327 =
 [
-    [ "OnPeriodic", "db/d8a/a18327.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
-    [ "PrepareAuraScript", "db/d8a/a18327.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
-    [ "Register", "db/d8a/a18327.html#a0fc7ca43a0d82058fc04277742231388", null ],
-    [ "Validate", "db/d8a/a18327.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
+    [ "HandleTriggerMissile", "db/d8a/a18327.html#af6370594be48d35a12009fa10a38d91d", null ],
+    [ "PrepareSpellScript", "db/d8a/a18327.html#aeeca4381273f382c3abb68f34d229213", null ],
+    [ "Register", "db/d8a/a18327.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
+    [ "Validate", "db/d8a/a18327.html#abe0b9290ddf9beaa60a583840d90d914", null ]
 ];

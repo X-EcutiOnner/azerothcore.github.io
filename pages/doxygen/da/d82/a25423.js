@@ -1,5 +1,14 @@
 var a25423 =
 [
-    [ "PrepareSpellScript", "da/d82/a25423.html#a9137654c01f41c735f477b85e4ec6d73", null ],
-    [ "Register", "da/d82/a25423.html#af1002e90bc0801c0759393d2d4af8778", null ]
+    [ "spell_gen_mount", "da/d82/a25423.html#aae8c5c328dda0668bf8cdabc2c9cd29f", null ],
+    [ "HandleMount", "da/d82/a25423.html#a81085b5efd8d9bd7c82ebb1cf6604793", null ],
+    [ "PrepareSpellScript", "da/d82/a25423.html#a49e2046d30352a6e22dab2530e909fa7", null ],
+    [ "Register", "da/d82/a25423.html#a8175ecc0c407d5c4646f038d7b62e92b", null ],
+    [ "Validate", "da/d82/a25423.html#accef27fc13ff34af52860ad6ac62e7f3", null ],
+    [ "_mount0", "da/d82/a25423.html#abd6347074186b7c47ac5a2c760f4db33", null ],
+    [ "_mount100", "da/d82/a25423.html#a5e56853140f188ff1babc61c507f8300", null ],
+    [ "_mount150", "da/d82/a25423.html#a1237697623e4831c25efcde1ab370031", null ],
+    [ "_mount280", "da/d82/a25423.html#aa9d0a936795d06dd78ef3c4d5aaf0320", null ],
+    [ "_mount310", "da/d82/a25423.html#ac06b80d14cc106281c3e6bf3f6a5c727", null ],
+    [ "_mount60", "da/d82/a25423.html#a53ce7d1b5a39cce2bede77aad647dc7e", null ]
 ];

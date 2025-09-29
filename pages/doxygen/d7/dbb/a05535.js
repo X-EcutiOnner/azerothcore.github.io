@@ -1,13 +1,14 @@
 var a05535 =
 [
-    [ "Clear", "d7/dbb/a05535.html#adc64d35670bf0d41519cb9998d3db17e", null ],
-    [ "First", "d7/dbb/a05535.html#a8bbd41b304f7e69df565af75f4846bda", null ],
-    [ "GetNextGroupOccurrence", "d7/dbb/a05535.html#af2cb38062e4d62558d520be75b01bedb", null ],
-    [ "IsEmpty", "d7/dbb/a05535.html#a151898f14e9a1628ddb52b6840fcc4fc", null ],
-    [ "IsGroupQueued", "d7/dbb/a05535.html#ada8edd51338da19db3f282ccc6229516", null ],
-    [ "ModifyIf", "d7/dbb/a05535.html#a0ad5b4de404b1f8312341a28a1a58b5b", null ],
-    [ "Pop", "d7/dbb/a05535.html#a5f5d6b5a4a5e4ec93ff94619485736cb", null ],
-    [ "Push", "d7/dbb/a05535.html#aff6bc8c7fae6640b555ddb027cf0f6ab", null ],
-    [ "RemoveIf", "d7/dbb/a05535.html#a6efe3145679913fde4d4cc1f8cc819e6", null ],
-    [ "container", "d7/dbb/a05535.html#acc56bddf7e586a3a950f608efb730498", null ]
+    [ "SFMTRand", "d7/dbb/a05535.html#aa40843ec8c3162e4be6cbf8067f93c9b", null ],
+    [ "operator delete", "d7/dbb/a05535.html#a20ef76641899ebf23ecfdfa03933d1d9", null ],
+    [ "operator delete", "d7/dbb/a05535.html#ac6267ac04c03814f574a155a4a0cffcb", null ],
+    [ "operator delete[]", "d7/dbb/a05535.html#a5051cdb95e18230b7fee753beb621603", null ],
+    [ "operator delete[]", "d7/dbb/a05535.html#a7cfe99d3c100b6ba124b82fce756960f", null ],
+    [ "operator new", "d7/dbb/a05535.html#a73dfbe0b1545b5604dfde603517efbfb", null ],
+    [ "operator new", "d7/dbb/a05535.html#a3dc4f4d003c77547117ec7c31486f884", null ],
+    [ "operator new[]", "d7/dbb/a05535.html#a61d2b3bc61bfa640c8b0241d09347d2b", null ],
+    [ "operator new[]", "d7/dbb/a05535.html#ace8e8802bdb710f3354d3ff7d619497c", null ],
+    [ "RandomUInt32", "d7/dbb/a05535.html#a8d129952ad2916419cdf54aa474c23c0", null ],
+    [ "_state", "d7/dbb/a05535.html#a9bc20836138e5dd4db93f7d03a9e856b", null ]
 ];

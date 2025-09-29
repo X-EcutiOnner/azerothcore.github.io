@@ -1,6 +1,8 @@
 var a16019 =
 [
-    [ "boss_twilight_halionAI", "d6/dde/a16023.html", "d6/dde/a16023" ],
-    [ "boss_twilight_halion", "dd/da3/a16019.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
-    [ "GetAI", "dd/da3/a16019.html#a56842d74b16cbd5636649cbc643c50d8", null ]
+    [ "HandleAfterCast", "dd/da3/a16019.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
+    [ "HandleDummyEffect", "dd/da3/a16019.html#a539c233fc820248930e1988c4074b9c8", null ],
+    [ "Load", "dd/da3/a16019.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
+    [ "PrepareSpellScript", "dd/da3/a16019.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
+    [ "Register", "dd/da3/a16019.html#ae90184fd34636b33755b732ec82fd52f", null ]
 ];

@@ -1,9 +1,12 @@
 var a22359 =
 [
-    [ "npc_finklesteinAI", "d5/d73/a22363.html", "d5/d73/a22363" ],
-    [ "npc_finklestein", "da/d6b/a22359.html#aa719b4bb95012c22ef8123e255e32edd", null ],
-    [ "GetAI", "da/d6b/a22359.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
-    [ "OnGossipHello", "da/d6b/a22359.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
-    [ "OnGossipSelect", "da/d6b/a22359.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
-    [ "OnQuestAccept", "da/d6b/a22359.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
+    [ "npc_tournament_training_dummyAI", "da/d6b/a22359.html#ab84a35b5145c74f16dfbbe020dd9a73b", null ],
+    [ "DamageTaken", "da/d6b/a22359.html#a98c18794124922e6946a82a324410837", null ],
+    [ "EnterEvadeMode", "da/d6b/a22359.html#a3f31d705284b0fad2f00c9210ff06646", null ],
+    [ "MoveInLineOfSight", "da/d6b/a22359.html#a7a05c8682767f5a2d847e99eeed8e00f", null ],
+    [ "Reset", "da/d6b/a22359.html#a7339ffe52dc789f9480afca7141a169e", null ],
+    [ "SpellHit", "da/d6b/a22359.html#a5cd56075333fb59ddd8d4a48dc2eecdf", null ],
+    [ "UpdateAI", "da/d6b/a22359.html#a8bba917f0e0d67cd7a0121ab71d5a419", null ],
+    [ "events", "da/d6b/a22359.html#a77fa2ef2f15208ab8b284c71e0227fc4", null ],
+    [ "isVulnerable", "da/d6b/a22359.html#a4a4d3029a329e6eb253bc57c5f7b2a98", null ]
 ];

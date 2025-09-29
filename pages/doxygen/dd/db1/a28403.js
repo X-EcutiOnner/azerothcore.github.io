@@ -1,5 +1,5 @@
 var a28403 =
 [
-    [ "ByteBufferPositionException", "dd/db1/a28403.html#a6c2e31012a8ccf20d52c6431e024a576", null ],
-    [ "~ByteBufferPositionException", "dd/db1/a28403.html#aba8b7764a5517fa3e4a26d7ced1ad38f", null ]
+    [ "Id", "dd/db1/a28403.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
+    [ "textid", "dd/db1/a28403.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
 ];

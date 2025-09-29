@@ -1,7 +1,8 @@
 var a18887 =
 [
-    [ "HandleTriggerSpell", "d3/d8b/a18887.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
-    [ "PrepareAuraScript", "d3/d8b/a18887.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
-    [ "Register", "d3/d8b/a18887.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
-    [ "Validate", "d3/d8b/a18887.html#a813bad39641956fff697580f271416d2", null ]
+    [ "npc_arthas_teleport_visualAI", "d3/d8b/a18887.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
+    [ "Reset", "d3/d8b/a18887.html#a27155b8880a2a86b733bcd074e977b59", null ],
+    [ "UpdateAI", "d3/d8b/a18887.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
+    [ "_events", "d3/d8b/a18887.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
+    [ "_instance", "d3/d8b/a18887.html#a25bc023e061a0845421a652b571a6e1e", null ]
 ];

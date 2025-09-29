@@ -1,5 +1,7 @@
 var a27307 =
 [
-    [ "go_massive_seaforium_charge", "dc/d00/a27307.html#adae43b764f237932923cd18207e4d23c", null ],
-    [ "OnGossipHello", "dc/d00/a27307.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
+    [ "CharacterDeleteActionIpLogger", "dc/d00/a27307.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "dc/d00/a27307.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "dc/d00/a27307.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "dc/d00/a27307.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

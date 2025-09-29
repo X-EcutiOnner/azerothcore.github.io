@@ -1,8 +1,8 @@
 var a18623 =
 [
-    [ "npc_arthas_teleport_visualAI", "d7/d3d/a18623.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
-    [ "Reset", "d7/d3d/a18623.html#a27155b8880a2a86b733bcd074e977b59", null ],
-    [ "UpdateAI", "d7/d3d/a18623.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
-    [ "_events", "d7/d3d/a18623.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
-    [ "_instance", "d7/d3d/a18623.html#a25bc023e061a0845421a652b571a6e1e", null ]
+    [ "npc_lk_wicked_spiritAI", "d7/d3d/a18623.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
+    [ "CanAIAttack", "d7/d3d/a18623.html#ae094420b1a6e134632baa0b086c806c6", null ],
+    [ "JustDied", "d7/d3d/a18623.html#adf153fab1c8639b2b5790ed418afb85d", null ],
+    [ "JustRespawned", "d7/d3d/a18623.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
+    [ "Reset", "d7/d3d/a18623.html#a8b15079251b6855679d738a342126006", null ]
 ];

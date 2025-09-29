@@ -1,7 +1,6 @@
 var a15343 =
 [
-    [ "npc_cork_gizeltonAI", "de/d07/a15347.html", "de/d07/a15347" ],
-    [ "npc_cork_gizelton", "d3/d99/a15343.html#a915aa2abc18109e7d0197863f59536f2", null ],
-    [ "GetAI", "d3/d99/a15343.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
-    [ "OnQuestAccept", "d3/d99/a15343.html#a11dc1fea0a24add451272b537298fc13", null ]
+    [ "FilterTargets", "d3/d99/a15343.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
+    [ "PrepareSpellScript", "d3/d99/a15343.html#a32b0be74a9127f920e22aa03c910a005", null ],
+    [ "Register", "d3/d99/a15343.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
 ];

@@ -1,4 +1,4 @@
 var a04580 =
 [
-    [ "UpdateFetcher::DirectoryEntry", "dc/d8f/a05938.html", "dc/d8f/a05938" ]
+    [ "Acore::Impl::GenericBaseEncoding< Encoding >", "d3/dea/a05363.html", "d3/dea/a05363" ]
 ];

@@ -1,8 +1,10 @@
 var a13767 =
 [
-    [ "FilterTargets", "d8/d2a/a13767.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
-    [ "OnHit", "d8/d2a/a13767.html#ac25886536c353f09838188362fb8ae84", null ],
-    [ "PrepareSpellScript", "d8/d2a/a13767.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
-    [ "Register", "d8/d2a/a13767.html#afa419365236c09914f758846978e2cbb", null ],
-    [ "Validate", "d8/d2a/a13767.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
+    [ "npc_sentinel_leader", "d8/d2a/a13767.html#a583c43b047dd5c172938d60ef647ecd5", null ],
+    [ "JustEngagedWith", "d8/d2a/a13767.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
+    [ "MovementInform", "d8/d2a/a13767.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
+    [ "Reset", "d8/d2a/a13767.html#ad638ba6ce33753af6a0165c053a90d78", null ],
+    [ "UpdateAI", "d8/d2a/a13767.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
+    [ "_events", "d8/d2a/a13767.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
+    [ "_helpCalled", "d8/d2a/a13767.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
 ];

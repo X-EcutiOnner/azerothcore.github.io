@@ -1,6 +1,8 @@
 var a13659 =
 [
-    [ "boss_blight_wormAI", "de/def/a13663.html", "de/def/a13663" ],
-    [ "boss_blight_worm", "dd/dd9/a13659.html#a6dea51baebc6b44ef94342565136e56d", null ],
-    [ "GetAI", "dd/dd9/a13659.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
+    [ "npc_sunblade_arch_mage", "dd/dd9/a13659.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
+    [ "JustEngagedWith", "dd/dd9/a13659.html#aadeae32d691229b7b7b531175b8a5018", null ],
+    [ "Reset", "dd/dd9/a13659.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
+    [ "UpdateAI", "dd/dd9/a13659.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
+    [ "scheduler", "dd/dd9/a13659.html#aa6680f06651316996868907b1d28126c", null ]
 ];

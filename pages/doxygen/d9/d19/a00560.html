@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/tools/vmap4_extractor/vec3d.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Movement/MotionMaster.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,35 +105,40 @@ $(document).ready(function(){initNavTree('d9/d19/a00560.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">vec3d.h File Reference</div></div>
+  <div class="headertitle"><div class="title">MotionMaster.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &lt;cmath&gt;</code><br />
-<code>#include &lt;iostream&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">MotionMaster.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ConfusedMovementGenerator.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Creature.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CreatureAISelector.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">EscortMovementGenerator.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">FleeingMovementGenerator.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GameTime.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">HomeMovementGenerator.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">IdleMovementGenerator.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MoveSpline.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">MoveSplineInit.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">PointMovementGenerator.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">RandomMovementGenerator.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">TargetedMovementGenerator.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WaypointMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">WaypointMovementGenerator.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d85/a29026.html">Vec3D</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/da1/a29030.html">AaBox3D</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dc7/a29034.html">Vec2D</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d66/a29038.html">Quaternion</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a36f9f3de1d3e6935da68df2c6e347a4d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d19/a00560.html#a36f9f3de1d3e6935da68df2c6e347a4d">rotate</a> (float x0, float y0, float *x, float *y, float angle)</td></tr>
-<tr class="separator:a36f9f3de1d3e6935da68df2c6e347a4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab03e344726a074f17f8c63d10b67fcc1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/df3/a09979.html">MovementGenerator</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d19/a00560.html#ab03e344726a074f17f8c63d10b67fcc1">GetIdleMovementGenerator</a> ()</td></tr>
+<tr class="separator:ab03e344726a074f17f8c63d10b67fcc1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a05fec3371a9aee5a6448115a645a505d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d19/a00560.html#a05fec3371a9aee5a6448115a645a505d">isStatic</a> (<a class="el" href="../../df/df3/a09979.html">MovementGenerator</a> *movement)</td></tr>
+<tr class="separator:a05fec3371a9aee5a6448115a645a505d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a36f9f3de1d3e6935da68df2c6e347a4d" name="a36f9f3de1d3e6935da68df2c6e347a4d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a36f9f3de1d3e6935da68df2c6e347a4d">&#9670;&#160;</a></span>rotate()</h2>
+<a id="ab03e344726a074f17f8c63d10b67fcc1" name="ab03e344726a074f17f8c63d10b67fcc1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab03e344726a074f17f8c63d10b67fcc1">&#9670;&#160;</a></span>GetIdleMovementGenerator()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -142,39 +147,10 @@ Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void rotate </td>
+          <td class="memname"><a class="el" href="../../df/df3/a09979.html">MovementGenerator</a> * GetIdleMovementGenerator </td>
           <td>(</td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>x0</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>y0</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float *&#160;</td>
-          <td class="paramname"><em>x</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float *&#160;</td>
-          <td class="paramname"><em>y</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float&#160;</td>
-          <td class="paramname"><em>angle</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -183,12 +159,50 @@ Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  248</span>{</div>
-<div class="line"><span class="lineno">  249</span>    <span class="keywordtype">float</span> xa = *x - x0, ya = *y - y0;</div>
-<div class="line"><span class="lineno">  250</span>    *x = xa * cosf(angle) - ya * sinf(angle) + x0;</div>
-<div class="line"><span class="lineno">  251</span>    *y = xa * sinf(angle) + ya * cosf(angle) + y0;</div>
-<div class="line"><span class="lineno">  252</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">   37</span>{</div>
+<div class="line"><span class="lineno">   38</span>    <span class="keywordflow">return</span> <a class="code hl_define" href="../../dc/dae/a00563.html#aa270c1b96e4671274975a07340ba687a">sMovementGeneratorRegistry</a>-&gt;GetRegistryItem(<a class="code hl_enumvalue" href="../../da/d65/a00458.html#a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e">IDLE_MOTION_TYPE</a>)-&gt;Create();</div>
+<div class="line"><span class="lineno">   39</span>}</div>
+<div class="ttc" id="aa00458_html_a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e"><div class="ttname"><a href="../../da/d65/a00458.html#a4f12806b915efea564eae942207002f9a35e951ebafcab180b4bd926e5760803e">IDLE_MOTION_TYPE</a></div><div class="ttdeci">@ IDLE_MOTION_TYPE</div><div class="ttdef"><b>Definition:</b> MotionMaster.h:39</div></div>
+<div class="ttc" id="aa00563_html_aa270c1b96e4671274975a07340ba687a"><div class="ttname"><a href="../../dc/dae/a00563.html#aa270c1b96e4671274975a07340ba687a">sMovementGeneratorRegistry</a></div><div class="ttdeci">#define sMovementGeneratorRegistry</div><div class="ttdef"><b>Definition:</b> MovementGenerator.h:105</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00039">IDLE_MOTION_TYPE</a>, and <a class="el" href="../../#l00105">sMovementGeneratorRegistry</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00068">isStatic()</a>, and <a class="el" href="../../#l00232">MotionMaster::MoveIdle()</a>.</p>
+
+</div>
+</div>
+<a id="a05fec3371a9aee5a6448115a645a505d" name="a05fec3371a9aee5a6448115a645a505d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a05fec3371a9aee5a6448115a645a505d">&#9670;&#160;</a></span>isStatic()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool isStatic </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/df3/a09979.html">MovementGenerator</a> *&#160;</td>
+          <td class="paramname"><em>movement</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   69</span>{</div>
+<div class="line"><span class="lineno">   70</span>    <span class="keywordflow">return</span> (movement == <a class="code hl_function" href="../../d9/d19/a00560.html#ab03e344726a074f17f8c63d10b67fcc1">GetIdleMovementGenerator</a>());</div>
+<div class="line"><span class="lineno">   71</span>}</div>
+<div class="ttc" id="aa00560_html_ab03e344726a074f17f8c63d10b67fcc1"><div class="ttname"><a href="../../d9/d19/a00560.html#ab03e344726a074f17f8c63d10b67fcc1">GetIdleMovementGenerator</a></div><div class="ttdeci">MovementGenerator * GetIdleMovementGenerator()</div><div class="ttdef"><b>Definition:</b> MotionMaster.cpp:36</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00036">GetIdleMovementGenerator()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00309">BattlegroundAV::AddAVCreature()</a>, <a class="el" href="../../#l01001">MotionMaster::DelayedDelete()</a>, <a class="el" href="../../#l00993">MotionMaster::DirectDelete()</a>, <a class="el" href="../../#l00232">MotionMaster::MoveIdle()</a>, and <a class="el" href="../../#l00092">MotionMaster::~MotionMaster()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -196,8 +210,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_b604cd515113e1b9d14f26b265d784ac.html">vmap4_extractor</a></li><li class="navelem"><a class="el" href="../../d9/d19/a00560.html">vec3d.h</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:44:57 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_0787b0a4fdc11b0654465feaa92c32a3.html">Movement</a></li><li class="navelem"><a class="el" href="../../d9/d19/a00560.html">MotionMaster.cpp</a></li>
+    <li class="footer">Generated on Mon Sep 29 2025 20:45:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

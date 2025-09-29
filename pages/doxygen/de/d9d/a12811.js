@@ -1,7 +1,7 @@
 var a12811 =
 [
-    [ "HandleScriptEffect", "de/d9d/a12811.html#a1cdba27f7311021407307bcd35235fed", null ],
-    [ "PrepareSpellScript", "de/d9d/a12811.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
-    [ "Register", "de/d9d/a12811.html#a9794991aa1710ce37112888eeb572796", null ],
-    [ "Validate", "de/d9d/a12811.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
+    [ "npc_malchezaar_axe", "de/d9d/a12811.html#a1a5615f2def10add30e7917b770ebc74", null ],
+    [ "Initialize", "de/d9d/a12811.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
+    [ "JustEngagedWith", "de/d9d/a12811.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
+    [ "UpdateAI", "de/d9d/a12811.html#a202ba6922a426f87909eefbccd070175", null ]
 ];

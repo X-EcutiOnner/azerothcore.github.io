@@ -1,8 +1,14 @@
 var a00416 =
 [
-    [ "Acore::Asio::IoContext", "da/dd2/a04898.html", "da/dd2/a04898" ],
-    [ "IoContextBase", "df/d15/a00416.html#a0ec391e3d78f246934f76abd937aecd8", null ],
-    [ "IoContextBaseNamespace", "df/d15/a00416.html#ad5308134581a9f19bfac4d556ec345b9", null ],
-    [ "get_io_context", "df/d15/a00416.html#a47f8fe35925492e3f01d723115279f2e", null ],
-    [ "post", "df/d15/a00416.html#ac437e3511a92ead72c7d3c1f6004daaf", null ]
+    [ "BattlegroundData", "d8/d45/a07339.html", "d8/d45/a07339" ],
+    [ "BattlegroundTemplate", "d2/d91/a07343.html", "d2/d91/a07343" ],
+    [ "BattlegroundMgr", "d1/db3/a07347.html", "d1/db3/a07347" ],
+    [ "sBattlegroundMgr", "df/d15/a00416.html#abe50926a988d0fff4ee6ba0358c6b278", null ],
+    [ "BattlegroundClientIdsContainer", "df/d15/a00416.html#aa4d7efc49483e1820c6d759f0f3613f2", null ],
+    [ "BattlegroundContainer", "df/d15/a00416.html#a33858c5514cd62b25f056e4ba170de59", null ],
+    [ "BattleMastersMap", "df/d15/a00416.html#a0167dc8561c0fb4a41f0eaa6bea38980", null ],
+    [ "BGFreeSlotQueueContainer", "df/d15/a00416.html#a356842317f4215b2ee31abb25b4d54e7", null ],
+    [ "bgMapRef", "df/d15/a00416.html#a91490e6276f571e959bcc65a1a7e4007", null ],
+    [ "bgRef", "df/d15/a00416.html#a1d8c1781106a97335f700c82ac98e915", null ],
+    [ "bgTypeRef", "df/d15/a00416.html#ab13257a97cde6f35eb3aed651e61e20c", null ]
 ];

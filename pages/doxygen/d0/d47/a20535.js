@@ -1,5 +1,9 @@
 var a20535 =
 [
-    [ "achievement_iron_dwarf_medium_rare", "d0/d47/a20535.html#afb3716aab7693ba0493db24999e4b1ee", null ],
-    [ "OnCheck", "d0/d47/a20535.html#aabef3a345057265ac70c6cc0c98d552d", null ]
+    [ "HandleEffectPeriodic", "d0/d47/a20535.html#adc6e83abb52a21528c07a1d989818dcf", null ],
+    [ "OnApply", "d0/d47/a20535.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
+    [ "OnRemove", "d0/d47/a20535.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
+    [ "PrepareAuraScript", "d0/d47/a20535.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
+    [ "Register", "d0/d47/a20535.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
+    [ "Validate", "d0/d47/a20535.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
 ];

@@ -1,6 +1,8 @@
 var a19635 =
 [
-    [ "npc_collapsing_starAI", "d0/d26/a19635.html#ac389b380a8f315ae50a8cd809393a773", null ],
-    [ "DamageTaken", "d0/d26/a19635.html#a424fac98093eb9d02cda5027523ad06a", null ],
-    [ "JustSummoned", "d0/d26/a19635.html#ae70fcb66171fe5f87d96aaf2f52e35bc", null ]
+    [ "npc_centrifuge_constructAI", "d0/d26/a19635.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
+    [ "DamageTaken", "d0/d26/a19635.html#aa568418de267a99108698e79baa1b3f4", null ],
+    [ "JustEngagedWith", "d0/d26/a19635.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
+    [ "Reset", "d0/d26/a19635.html#a2f7750cea2f59d794c85e20b703370af", null ],
+    [ "UpdateAI", "d0/d26/a19635.html#a28316416ad6c56d83c9e878511256445", null ]
 ];

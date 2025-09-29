@@ -1,9 +1,10 @@
 var a16895 =
 [
-    [ "npc_hor_lumbering_abominationAI", "d8/d21/a16895.html#acc1e6e72aee030ebf2d0daa50f880f60", null ],
-    [ "JustDied", "d8/d21/a16895.html#af243a79da3028d3d66facc8a15132f78", null ],
-    [ "JustEngagedWith", "d8/d21/a16895.html#a83d0add807b5d9647328b89fed8e9bc4", null ],
-    [ "Reset", "d8/d21/a16895.html#a4270f405bbade0028fce4df0655a1987", null ],
-    [ "UpdateAI", "d8/d21/a16895.html#a995d0f7902cb70280d1448ac7731a816", null ],
-    [ "events", "d8/d21/a16895.html#aee9063950477b50e38ec904e91882689", null ]
+    [ "boss_tharon_jaAI", "d8/d21/a16895.html#a03025fa529e932f23479ff19b0cd8238", null ],
+    [ "DoAction", "d8/d21/a16895.html#a655fd83c2d671847fea9ae393c132fb9", null ],
+    [ "JustDied", "d8/d21/a16895.html#a7928b5db061f1073e1decc2d40601195", null ],
+    [ "JustEngagedWith", "d8/d21/a16895.html#aab194a8f802eeb625d1a74960acbe154", null ],
+    [ "KilledUnit", "d8/d21/a16895.html#a41e929a3768768eb06bafdee3269fd24", null ],
+    [ "Reset", "d8/d21/a16895.html#a272e8565a9b00a27505b301d52814eee", null ],
+    [ "UpdateAI", "d8/d21/a16895.html#a6f482cabcb0bd56711878a5ea297b950", null ]
 ];

@@ -1,9 +1,7 @@
 var a13343 =
 [
-    [ "boss_entropius", "d2/d6d/a13343.html#a458deaa80c9694cd2608150bc5519c76", null ],
-    [ "EnterEvadeMode", "d2/d6d/a13343.html#a01889b192525af082471d092bff28c88", null ],
-    [ "JustDied", "d2/d6d/a13343.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
-    [ "JustEngagedWith", "d2/d6d/a13343.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
-    [ "Reset", "d2/d6d/a13343.html#ad9da990a540703d38cb45dd2da72c179", null ],
-    [ "UpdateAI", "d2/d6d/a13343.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
+    [ "OnPeriodic", "d2/d6d/a13343.html#ab193b7cf8a8fe91879317e7d21522976", null ],
+    [ "PrepareAuraScript", "d2/d6d/a13343.html#a5dca6bc670612f0b0e8e99381c97bf11", null ],
+    [ "Register", "d2/d6d/a13343.html#ac6e0621064e5e0a77e1cdbfa8dbb6a54", null ],
+    [ "Validate", "d2/d6d/a13343.html#a290b864756ceff85d52ba3f974a28217", null ]
 ];

@@ -1,33 +1,39 @@
 var a01667 =
 [
-    [ "npc_pos_leader", "d2/d96/a17234.html", "d2/d96/a17234" ],
-    [ "npc_pos_leader::npc_pos_leaderAI", "d4/db5/a17238.html", "d4/db5/a17238" ],
-    [ "npc_pos_deathwhisper_necrolyte", "df/db2/a17242.html", "df/db2/a17242" ],
-    [ "npc_pos_deathwhisper_necrolyte::npc_pos_deathwhisper_necrolyteAI", "d6/dfd/a17246.html", "d6/dfd/a17246" ],
-    [ "npc_pos_after_first_boss", "d3/d3e/a17250.html", "d3/d3e/a17250" ],
-    [ "npc_pos_after_first_boss::npc_pos_after_first_bossAI", "d8/dcf/a17254.html", "d8/dcf/a17254" ],
-    [ "npc_pos_tyrannus_events", "d0/d37/a17258.html", "d0/d37/a17258" ],
-    [ "npc_pos_tyrannus_events::npc_pos_tyrannus_eventsAI", "d7/dfc/a17262.html", "d7/dfc/a17262" ],
-    [ "npc_pos_icicle_trigger", "d0/da8/a17266.html", "d0/da8/a17266" ],
-    [ "npc_pos_icicle_trigger::npc_pos_icicle_triggerAI", "d3/df0/a17270.html", "d3/df0/a17270" ],
-    [ "npc_pos_collapsing_icicle", "dc/d7c/a17274.html", "dc/d7c/a17274" ],
-    [ "npc_pos_collapsing_icicle::npc_pos_collapsing_icicleAI", "dc/d73/a17278.html", "dc/d73/a17278" ],
-    [ "npc_pos_martin_or_gorkun_second", "d7/dbc/a17282.html", "d7/dbc/a17282" ],
-    [ "npc_pos_martin_or_gorkun_second::npc_pos_martin_or_gorkun_secondAI", "de/d11/a17286.html", "de/d11/a17286" ],
-    [ "npc_pos_freed_slave", "d6/d53/a17290.html", "d6/d53/a17290" ],
-    [ "npc_pos_freed_slave::npc_pos_freed_slaveAI", "d9/d61/a17294.html", "d9/d61/a17294" ],
-    [ "npc_pos_leader_second", "d4/d6d/a17298.html", "d4/d6d/a17298" ],
-    [ "npc_pos_leader_second::npc_pos_leader_secondAI", "db/d01/a17302.html", "db/d01/a17302" ],
-    [ "spell_pos_empowered_blizzard_aura", "d3/d95/a17306.html", "d3/d95/a17306" ],
-    [ "SlaveRunEvent", "d6/dff/a17310.html", "d6/dff/a17310" ],
-    [ "spell_pos_slave_trigger_closest", "d6/d89/a17314.html", "d6/d89/a17314" ],
-    [ "spell_pos_rimefang_frost_nova", "dc/d7c/a17318.html", "dc/d7c/a17318" ],
-    [ "spell_pos_blight_aura", "d3/d2b/a17322.html", "d3/d2b/a17322" ],
-    [ "spell_pos_glacial_strike_aura", "d1/d6d/a17326.html", "d1/d6d/a17326" ],
-    [ "at_tyrannus_event_starter", "d9/da1/a17330.html", "d9/da1/a17330" ],
-    [ "EmpoweredBlizzard", "dd/d8d/a01667.html#a8fcef7a07939b8b584fe27646f0e409b", [
-      [ "SPELL_EMPOWERED_BLIZZARD", "dd/d8d/a01667.html#a8fcef7a07939b8b584fe27646f0e409bab466d53fed70cfde01f9b48a6bf13fab", null ]
+    [ "ScriptAction", "d2/d90/a09843.html", "d2/d90/a09843" ],
+    [ "PositionFullTerrainStatus", "d6/d2f/a09847.html", "d6/d2f/a09847" ],
+    [ "InstanceTemplate", "d5/d59/a09851.html", "d5/d59/a09851" ],
+    [ "ZoneDynamicInfo", "d7/d84/a09855.html", "d7/d84/a09855" ],
+    [ "Map", "da/de6/a09859.html", "da/de6/a09859" ],
+    [ "InstanceMap", "db/da5/a09863.html", "db/da5/a09863" ],
+    [ "BattlegroundMap", "dc/d66/a09867.html", "dc/d66/a09867" ],
+    [ "DEFAULT_HEIGHT_SEARCH", "dd/d8d/a01667.html#a0c8d9f4ee232e2a0f72ae665fc6dc189", null ],
+    [ "MIN_UNLOAD_DELAY", "dd/d8d/a01667.html#a092c3d2c90fd46d14455e6ff2413dabb", null ],
+    [ "UPDATABLE_OBJECT_LIST_RECHECK_TIMER", "dd/d8d/a01667.html#a1a089ded88651bc639ec064fe70adce1", null ],
+    [ "CreatureGroupHolderType", "dd/d8d/a01667.html#a37ba261cbc15afa0e5cb95e9d34fe115", null ],
+    [ "TransportsContainer", "dd/d8d/a01667.html#a6ca566ddeb275c5d65ead48048181bff", null ],
+    [ "ZoneDynamicInfoMap", "dd/d8d/a01667.html#a1fae3a663f0e007e557bb415f89b8318", null ],
+    [ "ZoneWideVisibleWorldObjectsMap", "dd/d8d/a01667.html#a48df2f2b831ed13fcc0eef2e9d017b4d", null ],
+    [ "ZoneWideVisibleWorldObjectsSet", "dd/d8d/a01667.html#a04f98f085e5062cb0c3e86409a12ea0c", null ],
+    [ "EncounterCreditType", "dd/d8d/a01667.html#acea202894a6252d2df201860aa39d037", [
+      [ "ENCOUNTER_CREDIT_KILL_CREATURE", "dd/d8d/a01667.html#acea202894a6252d2df201860aa39d037a9f7df7852d0cd0994fbc5c531928a03f", null ],
+      [ "ENCOUNTER_CREDIT_CAST_SPELL", "dd/d8d/a01667.html#acea202894a6252d2df201860aa39d037aca618c5b7ae69c151ea4da7955578b02", null ]
     ] ],
-    [ "AddSC_pit_of_saron", "dd/d8d/a01667.html#ad9b4c5bfe589f9f6b1ea405752347585", null ],
-    [ "slaveFreePos", "dd/d8d/a01667.html#a302aeb8575da3775869e8ba2aa788da0", null ]
+    [ "InstanceResetMethod", "dd/d8d/a01667.html#a85895841def625e565ac3122a1267447", [
+      [ "INSTANCE_RESET_ALL", "dd/d8d/a01667.html#a85895841def625e565ac3122a1267447ab5ba7473d0bfac9d0f4dbc0e22a5a84d", null ],
+      [ "INSTANCE_RESET_CHANGE_DIFFICULTY", "dd/d8d/a01667.html#a85895841def625e565ac3122a1267447a364d607eec219f808901d16aeec31a8d", null ],
+      [ "INSTANCE_RESET_GLOBAL", "dd/d8d/a01667.html#a85895841def625e565ac3122a1267447a40c08a471edcbb547800e700e2341a8c", null ],
+      [ "INSTANCE_RESET_GROUP_JOIN", "dd/d8d/a01667.html#a85895841def625e565ac3122a1267447a0a6535943a7d7ce282d8d415f125a170", null ],
+      [ "INSTANCE_RESET_GROUP_LEAVE", "dd/d8d/a01667.html#a85895841def625e565ac3122a1267447aa247d3a9d4e2cbb1ed24680fa3405bab", null ]
+    ] ],
+    [ "LevelRequirementVsMode", "dd/d8d/a01667.html#a925afa52f886092b35ca06011fbe870d", [
+      [ "LEVELREQUIREMENT_HEROIC", "dd/d8d/a01667.html#a925afa52f886092b35ca06011fbe870da44c9c26dfe61127eff417c34c5049dc2", null ]
+    ] ],
+    [ "LineOfSightChecks", "dd/d8d/a01667.html#abc95f0a7147fb553d023f994f003a1c6", [
+      [ "LINEOFSIGHT_CHECK_VMAP", "dd/d8d/a01667.html#abc95f0a7147fb553d023f994f003a1c6a254543d4c2ff9c92ff0eb69aec072caf", null ],
+      [ "LINEOFSIGHT_CHECK_GOBJECT_WMO", "dd/d8d/a01667.html#abc95f0a7147fb553d023f994f003a1c6a04ff8bf4653f852773d9bdf2838efb07", null ],
+      [ "LINEOFSIGHT_CHECK_GOBJECT_M2", "dd/d8d/a01667.html#abc95f0a7147fb553d023f994f003a1c6a1b9463c69951824723107b569fdb32a3", null ],
+      [ "LINEOFSIGHT_CHECK_GOBJECT_ALL", "dd/d8d/a01667.html#abc95f0a7147fb553d023f994f003a1c6a451588ecdb12620b9153952187873053", null ],
+      [ "LINEOFSIGHT_ALL_CHECKS", "dd/d8d/a01667.html#abc95f0a7147fb553d023f994f003a1c6ac012f06f7e6897d0c7532b6eb155d19f", null ]
+    ] ]
 ];

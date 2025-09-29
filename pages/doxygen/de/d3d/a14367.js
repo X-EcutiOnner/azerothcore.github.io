@@ -1,7 +1,19 @@
 var a14367 =
 [
-    [ "HandleScript", "de/d3d/a14367.html#a78899a874a645d531dd4d89f2bd5478a", null ],
-    [ "PrepareSpellScript", "de/d3d/a14367.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
-    [ "Register", "de/d3d/a14367.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
-    [ "Validate", "de/d3d/a14367.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
+    [ "npc_dark_iron_guzzler", "de/d3d/a14367.html#a53ce152d0bf8e727ed0b385bb2293363", null ],
+    [ "AttackStart", "de/d3d/a14367.html#a47295b69eaecf3c001c43a1550dd1a80", null ],
+    [ "DamageTaken", "de/d3d/a14367.html#affd1f78b5c1df26824b08416d6bd03a1", null ],
+    [ "FindNextKeg", "de/d3d/a14367.html#ac063799097f89c09f30bed79151e8ed6", null ],
+    [ "GetTarget", "de/d3d/a14367.html#a076305d37ce348b24b35f7956385e8fc", null ],
+    [ "JustEngagedWith", "de/d3d/a14367.html#ae8142b745e493ab4a77b9df12ea9474d", null ],
+    [ "KilledUnit", "de/d3d/a14367.html#a018513f23158fcd6f929a90cfecfde4c", null ],
+    [ "MoveInLineOfSight", "de/d3d/a14367.html#aaa4df56f1f587029b24626ae1aca552a", null ],
+    [ "MovementInform", "de/d3d/a14367.html#ada6c7f97e25eb545926d6531495bb397", null ],
+    [ "Reset", "de/d3d/a14367.html#af608024d4b41fa218a7baeae9bee72ef", null ],
+    [ "SayText", "de/d3d/a14367.html#a872bdd2e2ff2b72c983658c63d74e2c3", null ],
+    [ "SpellHit", "de/d3d/a14367.html#ae195867416885e570c2c9a4837ac33c1", null ],
+    [ "UpdateAI", "de/d3d/a14367.html#a5decab6f76369ec9ce037dd050898423", null ],
+    [ "attacking", "de/d3d/a14367.html#a18a1d7e61b99819666366c6791154e01", null ],
+    [ "targetGUID", "de/d3d/a14367.html#a620df1502373954020a910853cb6dd3a", null ],
+    [ "timer", "de/d3d/a14367.html#a9748d587b61c148a27be690a6354473f", null ]
 ];

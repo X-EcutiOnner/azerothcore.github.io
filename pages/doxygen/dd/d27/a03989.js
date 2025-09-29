@@ -1,12 +1,8 @@
 var a03989 =
 [
-    [ "PacketHandler< PacketClass, HandlerFunction >", "d0/dd9/a11070.html", "d0/dd9/a11070" ],
-    [ "PacketHandler< WorldPacket, HandlerFunction >", "df/d30/a11074.html", "df/d30/a11074" ],
-    [ "get_packet_class< T >", "d1/d3d/a11078.html", null ],
-    [ "get_packet_class< void(WorldSession::*)(PacketClass &)>", "d6/d53/a11082.html", "d6/d53/a11082" ],
-    [ "DEFINE_HANDLER", "dd/d27/a03989.html#ab23af9582942bed23ea9ab4a8747c67c", null ],
-    [ "DEFINE_SERVER_OPCODE_HANDLER", "dd/d27/a03989.html#a4bcb2df62d580f2bb5ab3c2aa5b35f5e", null ],
-    [ "GetOpcodeNameForLogging", "db/d92/a04791.html#ga699f5666ad5594443aa2ca21df85a1d3", null ],
-    [ "GetOpcodeNameForLoggingImpl", "dd/d27/a03989.html#a0adf4b5d8c638656581d9a62be18539e", null ],
-    [ "opcodeTable", "db/d92/a04791.html#gaab348862a5b8f265e05e5b0ac296162a", null ]
+    [ "PingOperation", "d6/df4/a05747.html", "d6/df4/a05747" ],
+    [ "DatabaseIncompatibleVersion", "dd/d27/a03989.html#a31d71bc4748fa66e040eb20dc995e12e", null ],
+    [ "DatabaseWorkerPool< CharacterDatabaseConnection >", "dd/d27/a03989.html#aa3cb93fc2ebcb628d94ae0dd8ddf8a18", null ],
+    [ "DatabaseWorkerPool< LoginDatabaseConnection >", "dd/d27/a03989.html#a8751940b74a554bf0a86046325e0c5ed", null ],
+    [ "DatabaseWorkerPool< WorldDatabaseConnection >", "dd/d27/a03989.html#a25e66781580e4e7fcbd8e8ca6ef9f13a", null ]
 ];

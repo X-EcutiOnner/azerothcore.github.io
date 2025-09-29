@@ -1,12 +1,9 @@
 var a23491 =
 [
-    [ "boss_nazan", "df/d5d/a23491.html#a4390d3e181c4db46e364df3302612763", null ],
-    [ "AttackStart", "df/d5d/a23491.html#a7acea69f908e7a004c2a78c103528975", null ],
-    [ "DoAction", "df/d5d/a23491.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
-    [ "EnterEvadeMode", "df/d5d/a23491.html#ab6338a7d240014e548b22044b788ce8f", null ],
-    [ "JustEngagedWith", "df/d5d/a23491.html#a4d44b759530f32207a46a608fb7d6209", null ],
-    [ "MovementInform", "df/d5d/a23491.html#ad35866322ff55263b1f8b105d2cad952", null ],
-    [ "Reset", "df/d5d/a23491.html#a5c10e932075130399a9127869f45ce1d", null ],
-    [ "UpdateAI", "df/d5d/a23491.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
-    [ "_scheduler", "df/d5d/a23491.html#a8915d84ec4ffb8dade18041d5e910018", null ]
+    [ "CalcPeriodic", "df/d5d/a23491.html#a4c5a034d23253b2cf08cb86f12821184", null ],
+    [ "HandleEffectApply", "df/d5d/a23491.html#af60491946062054504b20e16273ed594", null ],
+    [ "HandleEffectRemove", "df/d5d/a23491.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
+    [ "HandlePeriodic", "df/d5d/a23491.html#a5137e24394fa14129c44d92c79eef117", null ],
+    [ "PrepareAuraScript", "df/d5d/a23491.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
+    [ "Register", "df/d5d/a23491.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
 ];

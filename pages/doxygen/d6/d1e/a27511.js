@@ -1,10 +1,7 @@
 var a27511 =
 [
-    [ "npc_dancing_flamesAI", "d6/d1e/a27511.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
-    [ "JustEngagedWith", "d6/d1e/a27511.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
-    [ "ReceiveEmote", "d6/d1e/a27511.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
-    [ "Reset", "d6/d1e/a27511.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
-    [ "UpdateAI", "d6/d1e/a27511.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
-    [ "Active", "d6/d1e/a27511.html#aa79036bed206327847bf5ad2e768e8f6", null ],
-    [ "CanIteract", "d6/d1e/a27511.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
+    [ "go_darkmoon_faire_musicAI", "d6/d1e/a27511.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
+    [ "UpdateAI", "d6/d1e/a27511.html#af3d802bd852fc0483f72781edb13b5d5", null ],
+    [ "_events", "d6/d1e/a27511.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
+    [ "rnd", "d6/d1e/a27511.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
 ];

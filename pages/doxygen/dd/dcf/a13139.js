@@ -1,5 +1,6 @@
 var a13139 =
 [
-    [ "at_malfurion_stormrage", "dd/dcf/a13139.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
-    [ "OnTrigger", "dd/dcf/a13139.html#a0aa7818bd09b8a456d1ebbaa7d5f5c1d", null ]
+    [ "HandleScriptEffect", "dd/dcf/a13139.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
+    [ "PrepareSpellScript", "dd/dcf/a13139.html#ad110e0dba330acde845c47501256cf5d", null ],
+    [ "Register", "dd/dcf/a13139.html#ab6971aa466055a1280cd258e26645157", null ]
 ];

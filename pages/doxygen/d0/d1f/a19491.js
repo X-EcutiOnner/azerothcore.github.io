@@ -1,12 +1,8 @@
 var a19491 =
 [
-    [ "npc_hol_monumentAI", "d0/d1f/a19491.html#a4a59b95e32acf8920082e4159b7e384c", null ],
-    [ "AttackStart", "d0/d1f/a19491.html#a6db6528cf3d53bc6de9caf55fb18a28b", null ],
-    [ "JustEngagedWith", "d0/d1f/a19491.html#a105f8e66ba3cf752af455c787df7568e", null ],
-    [ "MoveInLineOfSight", "d0/d1f/a19491.html#ab37c5c22456c06f78b53505ae7973658", null ],
-    [ "Reset", "d0/d1f/a19491.html#a03dd56d6801194333288a2edc7ae4eaa", null ],
-    [ "UpdateAI", "d0/d1f/a19491.html#a7c911cf24b21c959ee5c62d664e1879a", null ],
-    [ "_attackGUID", "d0/d1f/a19491.html#a0421f258f2cd871ad1f87decf5e23bc8", null ],
-    [ "_isActive", "d0/d1f/a19491.html#a0993cfde30a492ae8dfeeda2e01a1124", null ],
-    [ "events", "d0/d1f/a19491.html#aeff0f7526f12f0e09e53c0e43a423799", null ]
+    [ "FilterTargets", "d0/d1f/a19491.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "d0/d1f/a19491.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "d0/d1f/a19491.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "d0/d1f/a19491.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
+    [ "DrakeGUID", "d0/d1f/a19491.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
 ];

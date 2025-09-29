@@ -1,12 +1,8 @@
 var a16651 =
 [
-    [ "boss_trollgoreAI", "db/d6c/a16651.html#a958deb54a8460cc2dc61958bd9acb338", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "db/d6c/a16651.html#a39be832be97a27a3358c2f6c939ca728", null ],
-    [ "JustDied", "db/d6c/a16651.html#a32a309084b6b7c4b4e5db10d9c8a95bd", null ],
-    [ "JustEngagedWith", "db/d6c/a16651.html#a25414dc1b13aa1372e397c5cb11afdaa", null ],
-    [ "JustSummoned", "db/d6c/a16651.html#abd2199877e0e1465a7e5783b80ad2a44", null ],
-    [ "KilledUnit", "db/d6c/a16651.html#aa65d03d8879c6177753b8316c1343ad4", null ],
-    [ "Reset", "db/d6c/a16651.html#a4fe22aebe6e814196ac1914d158a62de", null ],
-    [ "UpdateAI", "db/d6c/a16651.html#a3fa3247442edb81136647f7fdf5834cf", null ],
-    [ "events2", "db/d6c/a16651.html#a94e8c9616ac332f33f2b976c074092af", null ]
+    [ "npc_toc_boomkinAI", "db/d6c/a16651.html#a12c586d57aa6dd3893889f103dbfee20", null ],
+    [ "JustSummoned", "db/d6c/a16651.html#a0d049885773b7f1abd7e03f9200852f4", null ],
+    [ "myCanCast", "db/d6c/a16651.html#a691a0250db77cc4def2bf67b25a1298c", null ],
+    [ "UpdateAI", "db/d6c/a16651.html#a64b0451537c0d27bc01d1c1ec3b5b88d", null ],
+    [ "events", "db/d6c/a16651.html#a0b367855092884b2ce30834e89fced87", null ]
 ];

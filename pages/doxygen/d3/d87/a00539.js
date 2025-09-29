@@ -1,26 +1,13 @@
 var a00539 =
 [
-    [ "map_id", "d2/d84/a28938.html", "d2/d84/a28938" ],
-    [ "_CRT_SECURE_NO_DEPRECATE", "d3/d87/a00539.html#a411c46599e926f8cdf49c63957255359", null ],
-    [ "MPQ_BLOCK_SIZE", "d3/d87/a00539.html#a402d9c2814f85cee14f9bc8dbc999de8", null ],
-    [ "ExtractSingleWmo", "d3/d87/a00539.html#afc9839262206eb10094c1769141ae146", null ],
-    [ "FileExists", "d3/d87/a00539.html#aab524156a5705c5cd09f96106eaac92d", null ],
-    [ "fillArchiveNameVector", "d3/d87/a00539.html#a32b84e03161e7056f809d12d8b7b71b2", null ],
-    [ "GenerateUniqueObjectId", "d3/d87/a00539.html#a6a3d179f34597554b17a122f27cd6be5", null ],
-    [ "getGamePath", "d3/d87/a00539.html#a6bb580270fe96b7e6ccb585658850d17", null ],
-    [ "main", "d3/d87/a00539.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "ParsMapFiles", "d3/d87/a00539.html#a50c73ad000da4df06ae438373eeaf60e", null ],
-    [ "processArgv", "d3/d87/a00539.html#a8f05dfc74cc4db726161d81ab714bfe1", null ],
-    [ "scan_patches", "d3/d87/a00539.html#a995d89b97dfb31a6a8c1c4e1c96d47f4", null ],
-    [ "strToLower", "d3/d87/a00539.html#ac9e88429cc2168db83793cb7074bc69f", null ],
-    [ "gOpenArchives", "d3/d87/a00539.html#a8ae40ebe73635e831bc65b70e7f97f3c", null ],
-    [ "hasInputPathParam", "d3/d87/a00539.html#a5ef7a611bb56bdaa370aaf1770059365", null ],
-    [ "input_path", "d3/d87/a00539.html#a773984b4a48966b7ea95d0586db0210b", null ],
-    [ "map_count", "d3/d87/a00539.html#a6fcdefd114e6ec71964d6539163fc055", null ],
-    [ "map_ids", "d3/d87/a00539.html#a12b965536bcabf2e2edd7db2196630cd", null ],
-    [ "output_path", "d3/d87/a00539.html#aeb9ec80db9cddb3d9ab2303f2a825d0b", null ],
-    [ "preciseVectorData", "d3/d87/a00539.html#a2191d2ffb8973cd0ddb269bcaa06a31d", null ],
-    [ "szWorkDirWmo", "d3/d87/a00539.html#ae79cb6c3493a63f0e1058be3bd5ba328", null ],
-    [ "uniqueObjectIds", "d3/d87/a00539.html#a78dd87d3ceb9a2d97c7a1d0caa8d4154", null ],
-    [ "WmoDoodads", "d3/d87/a00539.html#a17b22c7645963c9e5c277b72605a4966", null ]
+    [ "Movement::TransportPathTransform", "d8/dc8/a10115.html", "d8/dc8/a10115" ],
+    [ "Movement::HoverMovementTransform", "d0/dc2/a10119.html", "d0/dc2/a10119" ],
+    [ "Movement::MoveSplineInit", "de/d7f/a10123.html", "de/d7f/a10123" ],
+    [ "AnimType", "d3/d87/a00539.html#ab518009ca4123b1c5dce0ffe108b78fb", [
+      [ "ToGround", "d3/d87/a00539.html#ab518009ca4123b1c5dce0ffe108b78fba41889d3628918ee702ad48c7d2689f31", null ],
+      [ "FlyToFly", "d3/d87/a00539.html#ab518009ca4123b1c5dce0ffe108b78fba547b00b126d19fb188c747f076bf9d2c", null ],
+      [ "ToFly", "d3/d87/a00539.html#ab518009ca4123b1c5dce0ffe108b78fba3a5a6b4a2eebf34396f22e4c61c10d9b", null ],
+      [ "FlyToGround", "d3/d87/a00539.html#ab518009ca4123b1c5dce0ffe108b78fbae5cd8217abf54b5ab1e67d925d5c7602", null ]
+    ] ],
+    [ "SelectSpeedType", "d3/d87/a00539.html#a1f10281929f445f6d8150dc510bf1f2f", null ]
 ];

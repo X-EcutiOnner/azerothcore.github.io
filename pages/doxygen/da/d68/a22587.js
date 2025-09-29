@@ -1,8 +1,7 @@
 var a22587 =
 [
-    [ "boss_darkweaver_syth", "da/d68/a22587.html#a4f719165e07206c5a378412b3f82ff86", null ],
-    [ "JustDied", "da/d68/a22587.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
-    [ "JustEngagedWith", "da/d68/a22587.html#aaf6dab75e66734e930c5732749f3d69a", null ],
-    [ "KilledUnit", "da/d68/a22587.html#a1904c2596dd455f84625974beec4a2c8", null ],
-    [ "Reset", "da/d68/a22587.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
+    [ "npc_wg_quest_giver", "da/d68/a22587.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "da/d68/a22587.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "da/d68/a22587.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "da/d68/a22587.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

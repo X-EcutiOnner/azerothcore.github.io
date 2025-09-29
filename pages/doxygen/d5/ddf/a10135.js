@@ -1,12 +1,17 @@
 var a10135 =
 [
-    [ "QuestLocale", "d5/ddf/a10135.html#a887d474a470ee0278fb4b465a7ad9547", null ],
-    [ "AreaDescription", "d5/ddf/a10135.html#a5c6c5a8d1fb500afef514c80c9d87e4e", null ],
-    [ "CompletedText", "d5/ddf/a10135.html#aad432417f836b2cbe03d3e53e4e76f14", null ],
-    [ "Details", "d5/ddf/a10135.html#afd23d37c92f2b28e1c125bba0d670497", null ],
-    [ "Objectives", "d5/ddf/a10135.html#ae1ecea0f255f34b547302bfc2c0b6ad4", null ],
-    [ "ObjectiveText", "d5/ddf/a10135.html#ae41f7f50ab68e5783ceec37e6f8ff5b0", null ],
-    [ "OfferRewardText", "d5/ddf/a10135.html#aaba6d07625232a77e3457454f7d4fa77", null ],
-    [ "RequestItemsText", "d5/ddf/a10135.html#a764d2092084454844e59c484fb637017", null ],
-    [ "Title", "d5/ddf/a10135.html#ab75b38241e31b9137c1d85334b3a3f30", null ]
+    [ "MoveSplineInitArgs", "d5/ddf/a10135.html#aa2b6c8940e7dc8bdd4ea6047a5ff1a68", null ],
+    [ "_checkPathBounds", "d5/ddf/a10135.html#a984db18cdbd061605a9d486b061dc7c0", null ],
+    [ "Validate", "d5/ddf/a10135.html#a17beca23a7a7eaa298debb5e9638daca", null ],
+    [ "facing", "d5/ddf/a10135.html#a8800fca5b50ab5123e92b28e921ec8b0", null ],
+    [ "flags", "d5/ddf/a10135.html#ac4271ed0434fc8e7f7a70e8869d81a0e", null ],
+    [ "HasVelocity", "d5/ddf/a10135.html#acad05815ff039fe1fea3d7cf56afb4f2", null ],
+    [ "initialOrientation", "d5/ddf/a10135.html#ab0b66cba791fc206be5b64310480cb88", null ],
+    [ "parabolic_amplitude", "d5/ddf/a10135.html#a133d1d0172fde0564a58a004cb354ed0", null ],
+    [ "path", "d5/ddf/a10135.html#a3857df1ab2d6dafef4a6d796e6593341", null ],
+    [ "path_Idx_offset", "d5/ddf/a10135.html#a6b6aaf43685649798db46d7b409d3e32", null ],
+    [ "splineId", "d5/ddf/a10135.html#ac8c84e828c23801a68524c9811f0336b", null ],
+    [ "time_perc", "d5/ddf/a10135.html#afe51d24d71b71e87015eeb4851418503", null ],
+    [ "TransformForTransport", "d5/ddf/a10135.html#ad9e8518e61b2f5f6ff8380518a6ad0cc", null ],
+    [ "velocity", "d5/ddf/a10135.html#af042454593bfd4dc888c1700af437933", null ]
 ];

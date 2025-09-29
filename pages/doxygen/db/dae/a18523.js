@@ -1,6 +1,10 @@
 var a18523 =
 [
-    [ "npc_highlord_tirion_fordringAI", "d1/dce/a18527.html", "d1/dce/a18527" ],
-    [ "npc_highlord_tirion_fordring_lh", "db/dae/a18523.html#a96102a488330c54a3e3654c767e8e1a5", null ],
-    [ "GetAI", "db/dae/a18523.html#aea42394c04c1763cffe10eb5eba09854", null ]
+    [ "HandleScript", "db/dae/a18523.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
+    [ "Load", "db/dae/a18523.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
+    [ "PrepareSpellScript", "db/dae/a18523.html#afcc1efc69d73086a9ab686855911e516", null ],
+    [ "Register", "db/dae/a18523.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
+    [ "ReplaceTarget", "db/dae/a18523.html#a01cb7d25bef14a2266d81594544f6283", null ],
+    [ "SelectTarget", "db/dae/a18523.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
+    [ "_target", "db/dae/a18523.html#a3a84a9d7109845d201b395f05f66d109", null ]
 ];

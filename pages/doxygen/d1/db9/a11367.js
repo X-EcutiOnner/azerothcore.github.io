@@ -1,9 +1,14 @@
 var a11367 =
 [
-    [ "CreatureTextLocalizer", "d1/db9/a11367.html#a799f1007b9977224d71da1451c3454e1", null ],
-    [ "~CreatureTextLocalizer", "d1/db9/a11367.html#a1a03d45dfd3c6c5f6f4995d5efe238a5", null ],
-    [ "operator()", "d1/db9/a11367.html#ab2c364aa9d45ca2267db2641b26821f7", null ],
-    [ "_builder", "d1/db9/a11367.html#a1d8d97d3e423810d044a8155b182899d", null ],
-    [ "_msgType", "d1/db9/a11367.html#adf9260955b0141e85ff47c66350244e2", null ],
-    [ "_packetCache", "d1/db9/a11367.html#a660b352a1c1855f4b10a8aebef88133f", null ]
+    [ "IsFitToRequirements", "d1/db9/a11367.html#af1585273701356a591bf9d9483e996a3", null ],
+    [ "areaId", "d1/db9/a11367.html#af7e6f7b027388447a1f99e759975ca09", null ],
+    [ "auraSpell", "d1/db9/a11367.html#adaf2f6f7c56701fe42a2674aca74fba0", null ],
+    [ "autocast", "d1/db9/a11367.html#a38b42b82e4a588e102eb393cc907cd27", null ],
+    [ "gender", "d1/db9/a11367.html#af4314cba9c91fd1e2c09905c17c67d22", null ],
+    [ "questEnd", "d1/db9/a11367.html#a075cc2bc4d8c9663b2bdb2cf8ba77f5f", null ],
+    [ "questEndStatus", "d1/db9/a11367.html#ac6c7ed326628642da138bb3835db9a1d", null ],
+    [ "questStart", "d1/db9/a11367.html#afc99b14a3724fef7c5dd70e976a479a8", null ],
+    [ "questStartStatus", "d1/db9/a11367.html#a7f4466dfd9ab56850a36d0d09ff84798", null ],
+    [ "raceMask", "d1/db9/a11367.html#a402373ff841bd2aa47b4b36a581624cc", null ],
+    [ "spellId", "d1/db9/a11367.html#a8a299d901e2c13cdc3c00d6cf0a856d3", null ]
 ];

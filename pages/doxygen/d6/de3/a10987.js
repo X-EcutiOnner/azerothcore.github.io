@@ -1,19 +1,14 @@
 var a10987 =
 [
-    [ "PacketThrottlingMap", "d6/de3/a10987.html#aa41dd21032403490c49a400651c98855", null ],
-    [ "Policy", "d6/de3/a10987.html#abdee2870dbaa3341ecd6f682f87a63aa", [
-      [ "Process", "d6/de3/a10987.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe", null ],
-      [ "Kick", "d6/de3/a10987.html#abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd", null ],
-      [ "Ban", "d6/de3/a10987.html#abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9", null ],
-      [ "Log", "d6/de3/a10987.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b", null ],
-      [ "BlockingThrottle", "d6/de3/a10987.html#abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb", null ],
-      [ "DropPacket", "d6/de3/a10987.html#abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970", null ]
-    ] ],
-    [ "DosProtection", "d6/de3/a10987.html#a8e43f21b9c729db604c9afd90f68dc20", null ],
-    [ "DosProtection", "d6/de3/a10987.html#a8850d18ae254633f6bde5c85cbcef830", null ],
-    [ "EvaluateOpcode", "d6/de3/a10987.html#a575c7bcb895ad0a3d0456f0a99ee5ec7", null ],
-    [ "operator=", "d6/de3/a10987.html#a98394089b867ff6e8107b7975a67737d", null ],
-    [ "World", "d6/de3/a10987.html#a7b4bcdf992c21ae83363f25df05b1d25", null ],
-    [ "_PacketThrottlingMap", "d6/de3/a10987.html#ab74f0cf257d3db9076e3a8771de63eb3", null ],
-    [ "Session", "d6/de3/a10987.html#a3f3f5397fb30cdf14141480659b18208", null ]
+    [ "ValidatorList", "d6/de3/a10987.html#a9d149151d1ac78e590a1ecc2e5125a05", null ],
+    [ "c_str", "d6/de3/a10987.html#a009f68f040bf8c24e84be74e07c6f590", null ],
+    [ "empty", "d6/de3/a10987.html#a87225ea97a5d831e1f10119b22e1ac34", null ],
+    [ "Move", "d6/de3/a10987.html#ad4c8b4cb693929cc172adaf1e3374451", null ],
+    [ "operator std::string &", "d6/de3/a10987.html#a948fc2ddfb36cf885d3c26534a52222d", null ],
+    [ "operator std::string const &", "d6/de3/a10987.html#a45b487598b91580467af70cbe7264ee4", null ],
+    [ "operator std::string_view", "d6/de3/a10987.html#aa21bedffd7781262ca29ff801e7f8224", null ],
+    [ "Validate", "d6/de3/a10987.html#aa1ebd4ac4d40d582d707f04d09187ade", null ],
+    [ "ValidateNth", "d6/de3/a10987.html#ae652fb9308dfddeebae5b776c91d2cec", null ],
+    [ "operator>>", "d6/de3/a10987.html#ad49e16ca5e4f4a46c243ccfc52f9dee4", null ],
+    [ "_storage", "d6/de3/a10987.html#a3c5565a6f92715af1faf92a615f029d3", null ]
 ];

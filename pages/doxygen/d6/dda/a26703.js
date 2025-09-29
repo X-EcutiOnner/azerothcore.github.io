@@ -1,6 +1,6 @@
 var a26703 =
 [
-    [ "HandleAuraApply", "d6/dda/a26703.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
-    [ "PrepareAuraScript", "d6/dda/a26703.html#a7596065e5ffcacf099a5984f5d940c11", null ],
-    [ "Register", "d6/dda/a26703.html#a8efa76b28dddad68fee132f37791f231", null ]
+    [ "HandleTriggerSpell", "d6/dda/a26703.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
+    [ "PrepareAuraScript", "d6/dda/a26703.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
+    [ "Register", "d6/dda/a26703.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
 ];

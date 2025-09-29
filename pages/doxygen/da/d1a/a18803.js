@@ -1,5 +1,6 @@
 var a18803 =
 [
-    [ "at_icc_putricide_trap", "da/d1a/a18803.html#a9d4183629deada9c22750b8a34e94583", null ],
-    [ "OnTrigger", "da/d1a/a18803.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
+    [ "npc_frost_freeze_trapAI", "d0/ddd/a18807.html", "d0/ddd/a18807" ],
+    [ "npc_frost_freeze_trap", "da/d1a/a18803.html#ac58ed2598fd4250f220208a91343f9b8", null ],
+    [ "GetAI", "da/d1a/a18803.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
 ];

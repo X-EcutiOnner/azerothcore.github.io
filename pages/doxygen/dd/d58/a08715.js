@@ -1,8 +1,11 @@
 var a08715 =
 [
-    [ "AttackPosition", "dd/d58/a08715.html#a6681bcab6c497d2c7fc6e5585f422744", null ],
-    [ "operator=", "dd/d58/a08715.html#a019fe5d4c053c1d6980789b7f97f6e54", null ],
-    [ "operator==", "dd/d58/a08715.html#a320adced006c0f70456492c9e9dc99c2", null ],
-    [ "_pos", "dd/d58/a08715.html#a77783e0e6e83836ad6e5903535ad9370", null ],
-    [ "_taken", "dd/d58/a08715.html#a113512b8ab66c879fd85c43263c3b7f1", null ]
+    [ "UnitActionBarEntry", "dd/d58/a08715.html#a41f9020c4811b14fc543ddece6af86d7", null ],
+    [ "GetAction", "dd/d58/a08715.html#afd77e2f64ec856059759d05ddf77876e", null ],
+    [ "GetType", "dd/d58/a08715.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
+    [ "IsActionBarForSpell", "dd/d58/a08715.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
+    [ "SetAction", "dd/d58/a08715.html#aa00953783b0b3de3beb755a054c77730", null ],
+    [ "SetActionAndType", "dd/d58/a08715.html#a110840d38445795957ee0425175b4fb6", null ],
+    [ "SetType", "dd/d58/a08715.html#a38e0dcad391d09e475f90be5a5382f78", null ],
+    [ "packedData", "dd/d58/a08715.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
 ];

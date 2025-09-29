@@ -1,7 +1,6 @@
 var a18703 =
 [
-    [ "HandleDummy", "d8/df0/a18703.html#a4bfc155129bd80c94b4b59474f30d748", null ],
-    [ "PrepareSpellScript", "d8/df0/a18703.html#a9c72772f9d17b34562bd11418d67872d", null ],
-    [ "Register", "d8/df0/a18703.html#a10c9f511da4eb366117d356c118408c6", null ],
-    [ "Validate", "d8/df0/a18703.html#a655f2081d17c06c155641efc45efc1f8", null ]
+    [ "npc_blazing_skeletonAI", "de/da2/a18707.html", "de/da2/a18707" ],
+    [ "npc_blazing_skeleton", "d8/df0/a18703.html#a158720704479946048472ffe0beec492", null ],
+    [ "GetAI", "d8/df0/a18703.html#af29ea4620ebafaa4d47ec9f37758af77", null ]
 ];

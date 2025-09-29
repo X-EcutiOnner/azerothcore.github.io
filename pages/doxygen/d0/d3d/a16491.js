@@ -1,6 +1,6 @@
 var a16491 =
 [
-    [ "boss_gormokAI", "db/d9f/a16495.html", "db/d9f/a16495" ],
-    [ "boss_gormok", "d0/d3d/a16491.html#a86ce0681be4370198c44dde5aa98a593", null ],
-    [ "GetAI", "d0/d3d/a16491.html#a45cff2e7ee0525de37382cf09b116a32", null ]
+    [ "npc_toc5_grand_champion_minionAI", "db/d9f/a16495.html", "db/d9f/a16495" ],
+    [ "npc_toc5_grand_champion_minion", "d0/d3d/a16491.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
+    [ "GetAI", "d0/d3d/a16491.html#a55acf397b94ba63b1db626dc1041b28e", null ]
 ];

@@ -1,6 +1,6 @@
 var a22103 =
 [
-    [ "npc_still_at_it_triggerAI", "dd/d72/a22107.html", "dd/d72/a22107" ],
-    [ "npc_still_at_it_trigger", "da/d60/a22103.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
-    [ "GetAI", "da/d60/a22103.html#ae273ea6295f50248d303983d4b4137df", null ]
+    [ "HandleScriptEffect", "da/d60/a22103.html#aab68c7fac277f4da5a6cf8bf8e6256ea", null ],
+    [ "PrepareSpellScript", "da/d60/a22103.html#a6b7f628a138ac395a8cc122902ec38b4", null ],
+    [ "Register", "da/d60/a22103.html#aacf2bbf7b8396fd7cfbfaf34a66f9b61", null ]
 ];

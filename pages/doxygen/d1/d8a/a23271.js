@@ -1,6 +1,6 @@
 var a23271 =
 [
-    [ "HandleScript", "d1/d8a/a23271.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
-    [ "PrepareSpellScript", "d1/d8a/a23271.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
-    [ "Register", "d1/d8a/a23271.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
+    [ "HandleScriptEffect", "d1/d8a/a23271.html#a0810dd4ad4d324c1a53e192fc99d1d35", null ],
+    [ "PrepareSpellScript", "d1/d8a/a23271.html#a0ece61d7bed3e19ee6f6175a55c0733d", null ],
+    [ "Register", "d1/d8a/a23271.html#a827cefe322562f0e8ea7cfa58b9a776b", null ]
 ];

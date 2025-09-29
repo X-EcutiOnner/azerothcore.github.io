@@ -1,8 +1,10 @@
 var a14423 =
 [
-    [ "HandleEffectApply", "d7/d40/a14423.html#a31d4e0da71893a8a673a2ac4f7c26c70", null ],
-    [ "HandleEffectRemove", "d7/d40/a14423.html#af8661463589640c9550bc62e8f74afcd", null ],
-    [ "PrepareAuraScript", "d7/d40/a14423.html#a2885eb37d4af8f1e90e2a4967f5acc75", null ],
-    [ "Register", "d7/d40/a14423.html#ada4a148e0b50f5853eaf02c465f6e876", null ],
-    [ "torchGUID", "d7/d40/a14423.html#a8ccf51241d3792c8c36d983bf471167e", null ]
+    [ "npc_coren_direbrew_sisters", "d7/d40/a14423.html#a415ea0ebd044236f5f4c4d6c28896e00", null ],
+    [ "GetGUID", "d7/d40/a14423.html#a61863117e71ebfb7f1c4c83780ece7bc", null ],
+    [ "JustEngagedWith", "d7/d40/a14423.html#a34e0b6af032240c152c463c221d99335", null ],
+    [ "SetGUID", "d7/d40/a14423.html#ada2e446a929bbba088d3c7e09d117f93", null ],
+    [ "UpdateAI", "d7/d40/a14423.html#a7434b08d12d3f0902d1944b75323560c", null ],
+    [ "_scheduler", "d7/d40/a14423.html#a9d8ca85e7bbd3cc9c61c2bbb38b7d222", null ],
+    [ "_targetGUID", "d7/d40/a14423.html#a801a6811124a7db3a31ec492ef954b20", null ]
 ];

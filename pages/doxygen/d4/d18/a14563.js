@@ -1,9 +1,8 @@
 var a14563 =
 [
-    [ "boss_azgalor", "d4/d18/a14563.html#ac794e0eacc2d543fa62e4b521089f080", null ],
-    [ "DoAction", "d4/d18/a14563.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
-    [ "JustDied", "d4/d18/a14563.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
-    [ "JustEngagedWith", "d4/d18/a14563.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
-    [ "KilledUnit", "d4/d18/a14563.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
-    [ "_recentlySpoken", "d4/d18/a14563.html#abea34396ddde0aa02a073b2f3119fec9", null ]
+    [ "HandleDummy", "d4/d18/a14563.html#a47b5a6741f2782359449dcaebd40fe1c", null ],
+    [ "Load", "d4/d18/a14563.html#a7877187ad7afb2dfbd28fb7c74d40478", null ],
+    [ "PrepareSpellScript", "d4/d18/a14563.html#af1d1ad32d41d79008d650b388353346b", null ],
+    [ "Register", "d4/d18/a14563.html#a53a7c4c025324b205a29f92dd48aefde", null ],
+    [ "handled", "d4/d18/a14563.html#acf3a9296a36f131f852afbf60beb7ea4", null ]
 ];

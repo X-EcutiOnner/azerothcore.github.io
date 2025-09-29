@@ -1,7 +1,12 @@
 var a22939 =
 [
-    [ "CalculateAmount", "df/da8/a22939.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
-    [ "PrepareAuraScript", "df/da8/a22939.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
-    [ "Register", "df/da8/a22939.html#a6d0d47536e6ef74a88c97019843d478c", null ],
-    [ "Update", "df/da8/a22939.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
+    [ "boss_gurtogg_bloodboil", "df/da8/a22939.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
+    [ "CanAIAttack", "df/da8/a22939.html#a60e6439bab689eb88a18612b6b46c713", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "df/da8/a22939.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
+    [ "JustDied", "df/da8/a22939.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
+    [ "JustEngagedWith", "df/da8/a22939.html#a0847173efbae252c2fbbaf1be17097cb", null ],
+    [ "JustSummoned", "df/da8/a22939.html#ae718666a1da0e93cb0965c42c40b51df", null ],
+    [ "KilledUnit", "df/da8/a22939.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
+    [ "Reset", "df/da8/a22939.html#add25677d422b8bddcb753465451f0584", null ],
+    [ "_recentlySpoken", "df/da8/a22939.html#a74af813b84f7787a5b764cfe574c087b", null ]
 ];

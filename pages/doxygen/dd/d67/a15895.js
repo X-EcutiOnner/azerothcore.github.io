@@ -1,19 +1,12 @@
 var a15895 =
 [
-    [ "boss_sartharion_dragonAI", "dd/d67/a15895.html#afffee05f402a1960232c7920beb9beb9", null ],
-    [ "ClearInstance", "dd/d67/a15895.html#a9e1fb29994441dd2d41aeb2c04205d7b", null ],
-    [ "DoAction", "dd/d67/a15895.html#aeb49e63300a317f0e969159266fd8ea1", null ],
-    [ "HandleExtraEvent", "dd/d67/a15895.html#a406b4d5957efb872de3bff5c8012de2a", null ],
-    [ "JustDied", "dd/d67/a15895.html#a9c664ff661a3e83b98e1a28c81d662b0", null ],
-    [ "JustEngagedWith", "dd/d67/a15895.html#a2988e9a5a8edd9aa807d8b13867fe6d7", null ],
-    [ "JustSummoned", "dd/d67/a15895.html#a16582179f25ddc130f97bb70fe80316f", null ],
-    [ "KilledUnit", "dd/d67/a15895.html#a09428ec63c8589a527accf8b024f6666", null ],
-    [ "MoveInLineOfSight", "dd/d67/a15895.html#a75cd7f27019e4013adde104e7663e5bc", null ],
-    [ "MovementInform", "dd/d67/a15895.html#a6870b91b1d36c79add8bd86a8e1fac4d", null ],
-    [ "RemoveTwilightPortal", "dd/d67/a15895.html#a26aff742f99b04bfaf56fa46158ce306", null ],
-    [ "Reset", "dd/d67/a15895.html#a86acfe30f898bd6b709c4743ae808867", null ],
-    [ "UpdateAI", "dd/d67/a15895.html#a0e9382d8dce8251336d81539b7d82e15", null ],
-    [ "extraEvents", "dd/d67/a15895.html#a0018fdf6e4567a74e5b16e4e09a00836", null ],
-    [ "isCalledBySartharion", "dd/d67/a15895.html#a45a92a0754572b8d619fddbd1bdb234f", null ],
-    [ "portalGUID", "dd/d67/a15895.html#a852ab0dabe5b6d8e6b0a53e6425ff085", null ]
+    [ "npc_cairne_bloodhoofAI", "dd/d67/a15895.html#ac87f0d10b1886ffa24ae201fdb614441", null ],
+    [ "Reset", "dd/d67/a15895.html#ab58f32a6bd1659b1a54fb056526c121a", null ],
+    [ "sGossipSelect", "dd/d67/a15895.html#aa95b820eb4d3c6c5f1898a67c319b1a6", null ],
+    [ "UpdateAI", "dd/d67/a15895.html#aefcbb7b2da6d1039055c27feeb1f5f9e", null ],
+    [ "_berserkerChargeTimer", "dd/d67/a15895.html#a2efb1949abe83dadf62b5c868ae57fe2", null ],
+    [ "_cleaveTimer", "dd/d67/a15895.html#ab1ed741e998cd7ed088cab3af378b3ca", null ],
+    [ "_mortalStrikeTimer", "dd/d67/a15895.html#a9f33790662ce229669e5d1d6f2aac8b0", null ],
+    [ "_thunderclapTimer", "dd/d67/a15895.html#a6bdca667875353db2badc40fd95a1ce4", null ],
+    [ "_uppercutTimer", "dd/d67/a15895.html#a9f13acd7df900d9bdac64898b183c67d", null ]
 ];

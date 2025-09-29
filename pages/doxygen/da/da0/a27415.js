@@ -1,6 +1,9 @@
 var a27415 =
 [
-    [ "npc_preciousAI", "d9/d33/a27419.html", "d9/d33/a27419" ],
-    [ "npc_precious", "da/da0/a27415.html#a3c3ad9da13de64498cabc8e252e99ab2", null ],
-    [ "GetAI", "da/da0/a27415.html#a754ad85c8b1942b400a47c28297bad62", null ]
+    [ "ChatLogScript", "da/da0/a27415.html#ade8c407083cf094f0767412e7b6d7730", null ],
+    [ "OnPlayerChat", "da/da0/a27415.html#a9dc39835aac01da34c57c420fc82790e", null ],
+    [ "OnPlayerChat", "da/da0/a27415.html#a64e047261c3d3de22614950c6b6f6f79", null ],
+    [ "OnPlayerChat", "da/da0/a27415.html#ac9a4dc6a35325a87c69f08f50a26750c", null ],
+    [ "OnPlayerChat", "da/da0/a27415.html#af6e61405ba6642fa451465e27c4b47d8", null ],
+    [ "OnPlayerChat", "da/da0/a27415.html#a9962307a0e073ee3f5e7139f059e01b8", null ]
 ];

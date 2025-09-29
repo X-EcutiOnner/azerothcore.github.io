@@ -1,11 +1,9 @@
 var a11611 =
 [
-    [ "group_commandscript", "d8/d49/a11611.html#ad2890427cfe3649b2e0fe0896693372c", null ],
-    [ "GetCommands", "d8/d49/a11611.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
-    [ "HandleGroupDisbandCommand", "d8/d49/a11611.html#a538539340a697e02453ddcfa669fb646", null ],
-    [ "HandleGroupJoinCommand", "d8/d49/a11611.html#a382e8532c653464e90b45569e813ae37", null ],
-    [ "HandleGroupLeaderCommand", "d8/d49/a11611.html#a899858a63add3c68e0e1446d29216c00", null ],
-    [ "HandleGroupListCommand", "d8/d49/a11611.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
-    [ "HandleGroupRemoveCommand", "d8/d49/a11611.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
-    [ "HandleGroupReviveCommand", "d8/d49/a11611.html#a13968d61ec037aacc8070bc675290f94", null ]
+    [ "ClientKeySeed", "d8/d49/a11611.html#a3e2df88e6fd716030d70a77850e96970", null ],
+    [ "ClientKeySeedHash", "d8/d49/a11611.html#ae2523827d6f9abae5eed0b463c00062f", null ],
+    [ "Module", "d8/d49/a11611.html#a1fcce28666a614c83d06729bc9c88bb4", null ],
+    [ "ModuleKey", "d8/d49/a11611.html#ac34f4c4997f5f64a9dcf4ad7d914a215", null ],
+    [ "Seed", "d8/d49/a11611.html#a3c8e1b5c642f12e29837800f0428f34e", null ],
+    [ "ServerKeySeed", "d8/d49/a11611.html#ad29fe1f9ba6ef32f1d35657683b0e11b", null ]
 ];

@@ -1,6 +1,6 @@
 var a13159 =
 [
-    [ "HandleActivateObject", "d0/d8c/a13159.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
-    [ "PrepareSpellScript", "d0/d8c/a13159.html#ad55914fdc6771e09a508572d59ad30ed", null ],
-    [ "Register", "d0/d8c/a13159.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
+    [ "npc_scarlet_courierAI", "d1/da2/a13163.html", "d1/da2/a13163" ],
+    [ "npc_scarlet_courier", "d0/d8c/a13159.html#ac9bb46ff40bdf5c83d55c14e52243004", null ],
+    [ "GetAI", "d0/d8c/a13159.html#a4b6b5a14ec6ce13a9ce7089f08bce9f5", null ]
 ];

@@ -1,44 +1,186 @@
 var a01901 =
 [
-    [ "AhnKahetScriptName", "d5/d99/a01901.html#a506431ce00265fd3122a043804560c86", null ],
-    [ "DataHeader", "d5/d99/a01901.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "RegisterAhnKahetCreatureAI", "d5/d99/a01901.html#aa9d11f00daa1d5fe3fccebf717ab93f6", null ],
-    [ "AhnKahetActions", "d5/d99/a01901.html#ab602224ee107d47ea7a8fd34e7e11dcf", [
-      [ "ACTION_REMOVE_PRISON", "d5/d99/a01901.html#ab602224ee107d47ea7a8fd34e7e11dcfa16fb04e016b069c88508a114006910a8", null ]
+    [ "spell_q10612_10613_the_fel_and_the_furious", "d0/d3d/a24367.html", "d0/d3d/a24367" ],
+    [ "spell_q10563_q10596_to_legion_hold_aura", "d3/dbe/a24371.html", "d3/dbe/a24371" ],
+    [ "npc_invis_infernal_caster", "d3/d81/a24375.html", "d3/d81/a24375" ],
+    [ "npc_invis_infernal_caster::npc_invis_infernal_casterAI", "df/dc7/a24379.html", "df/dc7/a24379" ],
+    [ "npc_infernal_attacker", "dd/d9b/a24383.html", "dd/d9b/a24383" ],
+    [ "npc_infernal_attacker::npc_infernal_attackerAI", "d5/d7e/a24387.html", "d5/d7e/a24387" ],
+    [ "npc_mature_netherwing_drake", "dd/d6b/a24391.html", "dd/d6b/a24391" ],
+    [ "npc_mature_netherwing_drake::npc_mature_netherwing_drakeAI", "d5/d4a/a24395.html", "d5/d4a/a24395" ],
+    [ "npc_enslaved_netherwing_drake", "da/dea/a24399.html", "da/dea/a24399" ],
+    [ "npc_dragonmaw_peon", "d8/d16/a24403.html", "d8/d16/a24403" ],
+    [ "npc_dragonmaw_peon::npc_dragonmaw_peonAI", "d5/d1d/a24407.html", "d5/d1d/a24407" ],
+    [ "npc_drake_dealer_hurlunk", "de/d6f/a24411.html", "de/d6f/a24411" ],
+    [ "npcs_flanis_swiftwing_and_kagrosh", "d8/d81/a24415.html", "d8/d81/a24415" ],
+    [ "npc_karynaku", "d0/db6/a24419.html", "d0/db6/a24419" ],
+    [ "TorlothCinematic", "d8/d1b/a24423.html", "d8/d1b/a24423" ],
+    [ "Location", "d1/d1c/a24427.html", "d1/d1c/a24427" ],
+    [ "WaveDataCreature", "df/d96/a24431.html", "df/d96/a24431" ],
+    [ "SpawnSpells", "d2/d56/a15743.html", "d2/d56/a15743" ],
+    [ "npc_torloth_the_magnificent", "da/d6e/a24435.html", "da/d6e/a24435" ],
+    [ "npc_torloth_the_magnificent::npc_torloth_the_magnificentAI", "dc/dc9/a24439.html", "dc/dc9/a24439" ],
+    [ "npc_lord_illidan_stormrage", "d4/df2/a24443.html", "d4/df2/a24443" ],
+    [ "npc_lord_illidan_stormrage::npc_lord_illidan_stormrageAI", "d0/da8/a24447.html", "d0/da8/a24447" ],
+    [ "npc_illidari_spawn", "d7/df8/a24451.html", "d7/df8/a24451" ],
+    [ "npc_illidari_spawn::npc_illidari_spawnAI", "d9/d3a/a24455.html", "d9/d3a/a24455" ],
+    [ "go_crystal_prison", "d3/d51/a24459.html", "d3/d51/a24459" ],
+    [ "npc_enraged_spirit", "d6/d2a/a24463.html", "d6/d2a/a24463" ],
+    [ "npc_enraged_spirit::npc_enraged_spiritAI", "d4/d9b/a24467.html", "d4/d9b/a24467" ],
+    [ "npc_shadowmoon_tuber_node", "d0/daf/a24471.html", "d0/daf/a24471" ],
+    [ "npc_shadowmoon_tuber_node::npc_shadowmoon_tuber_nodeAI", "dd/d21/a24475.html", "dd/d21/a24475" ],
+    [ "npc_korkron_or_wildhammer", "de/d03/a24479.html", "de/d03/a24479" ],
+    [ "spell_calling_korkron_or_wildhammer", "df/d24/a24483.html", "df/d24/a24483" ],
+    [ "spell_disrupt_summoning_ritual", "d4/d06/a24487.html", "d4/d06/a24487" ],
+    [ "dragonmaw_race_npc", "df/dca/a24491.html", "df/dca/a24491" ],
+    [ "EVENT_AREA_RADIUS", "d5/d99/a01901.html#ab69ef601d31d0264381d9af5e06f7769", null ],
+    [ "EVENT_COOLDOWN", "d5/d99/a01901.html#a4154053cb93b323fc74dd05d04a20d7e", null ],
+    [ "QUEST_BATTLE_OF_THE_CRIMSON_WATCH", "d5/d99/a01901.html#a310a37ec148e2e37c1123f9ced34020f", null ],
+    [ "DragonmawPeon", "d5/d99/a01901.html#ae554d834b3961877059bec92621b0103", [
+      [ "SAY_1", "d5/d99/a01901.html#ae554d834b3961877059bec92621b0103a307d891e05530d70a32ad2047cfe6dab", null ],
+      [ "SAY_POISONED_1", "d5/d99/a01901.html#ae554d834b3961877059bec92621b0103a1b5f3041ee91b4a664528018eed0166e", null ],
+      [ "SPELL_POISON", "d5/d99/a01901.html#ae554d834b3961877059bec92621b0103a6ab0bda74bcf7baf41bcd485a9ce0edc", null ],
+      [ "SPELL_KICK", "d5/d99/a01901.html#ae554d834b3961877059bec92621b0103a4de29e3fa18189011f62fd209e6be3fc", null ],
+      [ "SPELL_SUNDER", "d5/d99/a01901.html#ae554d834b3961877059bec92621b0103af263a112c1204e3125fcc7b0209ef285", null ],
+      [ "SPELL_VOMIT", "d5/d99/a01901.html#ae554d834b3961877059bec92621b0103aab5234463aa64c76c909cd2b30631be7", null ],
+      [ "EVENT_KICK", "d5/d99/a01901.html#ae554d834b3961877059bec92621b0103aa8873414cf1cfe9b65c801881b4229ab", null ],
+      [ "EVENT_SUNDER", "d5/d99/a01901.html#ae554d834b3961877059bec92621b0103a774aeafbcc7fcca150af234e9f5ba8d3", null ],
+      [ "EVENT_CHECK_POISON", "d5/d99/a01901.html#ae554d834b3961877059bec92621b0103a11bf80402c002fde8b32ece6a60dff2f", null ],
+      [ "EVENT_WALK_TO_MUTTON", "d5/d99/a01901.html#ae554d834b3961877059bec92621b0103a70ce837fb348f11956c1228a3ef9c325", null ],
+      [ "EVENT_POISONED", "d5/d99/a01901.html#ae554d834b3961877059bec92621b0103a8d45870c3c95c1b297f0b27948d74e01", null ],
+      [ "EVENT_KILL", "d5/d99/a01901.html#ae554d834b3961877059bec92621b0103aa370ba4e92a593f2bb65c2198b275380", null ],
+      [ "DELICIOUS_MUTTON", "d5/d99/a01901.html#ae554d834b3961877059bec92621b0103a76d74da4ee3587eb152886c89f67abc9", null ],
+      [ "QUEST_A_SLOW_DEATH", "d5/d99/a01901.html#ae554d834b3961877059bec92621b0103ad9223a935bb2b9781e91f78f175d41c2", null ],
+      [ "DRAGONMAW_PEON_KILL_CREDIT", "d5/d99/a01901.html#ae554d834b3961877059bec92621b0103a9705e75b428b543df1304a85eee62ac1", null ]
     ] ],
-    [ "AhnKahetCreatures", "d5/d99/a01901.html#a0a7022dbeba8e4c5922bca61c1ac6be0", [
-      [ "NPC_ELDER_NADOX", "d5/d99/a01901.html#a0a7022dbeba8e4c5922bca61c1ac6be0adefb6eeafb4e1c648ef5431666cee303", null ],
-      [ "NPC_PRINCE_TALDARAM", "d5/d99/a01901.html#a0a7022dbeba8e4c5922bca61c1ac6be0ae7602060d95905d39d735be974c99c5f", null ],
-      [ "NPC_JEDOGA_SHADOWSEEKER", "d5/d99/a01901.html#a0a7022dbeba8e4c5922bca61c1ac6be0a8f4808be30a572ba6dc967dde518e092", null ],
-      [ "NPC_HERALD_VOLAZJ", "d5/d99/a01901.html#a0a7022dbeba8e4c5922bca61c1ac6be0a5c1e93f3700ea72caa137ad6848e3c85", null ],
-      [ "NPC_AMANITAR", "d5/d99/a01901.html#a0a7022dbeba8e4c5922bca61c1ac6be0a34c1714ae003f663cb2b8951810d661f", null ],
-      [ "NPC_JEDOGA_CONTROLLER", "d5/d99/a01901.html#a0a7022dbeba8e4c5922bca61c1ac6be0acf6f2f93580795c52ed4700df297d549", null ]
+    [ "DragonmawRaces", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2f", [
+      [ "QUEST_MUCKJAW", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fa34fa68eaba2f8570dcd2ae4523622a97", null ],
+      [ "QUEST_TROPE", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fa4e611bf780946301b6110d3e6be85194", null ],
+      [ "QUEST_CORLOK", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fae8604471332b15783e947502873b1dd8", null ],
+      [ "QUEST_ICHMAN", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fa11b3c7958186463c328f8b167dfecd51", null ],
+      [ "QUEST_MULVERICK", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fa827cdfeef78f25048873836ecc30dd97", null ],
+      [ "QUEST_SKYSHATTER", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2faad1de9f83a5ef1abe7193109e680f519", null ],
+      [ "NPC_MUCKJAW", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2faeb9112acc0070483b465dee50f2f801b", null ],
+      [ "NPC_TROPE", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fa56bc14f24bde5fd540a9806ed74cac75", null ],
+      [ "NPC_CORLOK", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fa7bb3395ddfb1787d40a90f84dc08b0ae", null ],
+      [ "NPC_ICHMAN", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fa1f076e1b94e0013d4a909d84bfa13bd1", null ],
+      [ "NPC_MULVERICK", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2facebe1b474856993ba1503cdf3b5e34dd", null ],
+      [ "NPC_SKYSHATTER", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fa3bb7192f9ae4d9634f86782f9505ede0", null ],
+      [ "PATH_MUCKJAW", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fadd9a22561edeeb3b281a292f356d3208", null ],
+      [ "PATH_TROPE", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fa90aca00694c2c262b62cdc0ff00910ee", null ],
+      [ "PATH_CORLOK", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fab0f04154669f0400e1074bb5b8f2d77e", null ],
+      [ "PATH_ICHMAN", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fa2f28314923d51a16fb6b9fc5ba2382b8", null ],
+      [ "PATH_MULVERICK", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fa9993e577d829afdb7f559044d492740d", null ],
+      [ "PATH_SKYSHATTER", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fafd0798cb85b5cc6c8065a7bd9efdb7d4", null ],
+      [ "NPC_TARGET_MUCKJAW", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fa3492c6dac2cdf5f64ab2dcea455045ba", null ],
+      [ "NPC_TARGET_TROPE", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fadb31645c53b38fe1d8ca06b54eeecbed", null ],
+      [ "NPC_TARGET_CORLOK", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fa976a4a44b3a9b8297ef4071b92e6b446", null ],
+      [ "NPC_TARGET_ICHMAN", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fab92da90bc84140babb5ac3865d29979e", null ],
+      [ "NPC_TARGET_MULVERICK", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fa739b302be302db5253d70c9a79dfeda2", null ],
+      [ "NPC_TARGET_SKYSHATTER", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fa45ef6860c2f767d2152721dc81038980", null ],
+      [ "SAY_START", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fa2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_COMPLETE", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fac31c61437b536671a4aac2cfc0a66fdd", null ],
+      [ "SAY_SKYSHATTER_SPECIAL", "d5/d99/a01901.html#a5e61d423ee71ecfd4c27c4eab4769d2fa6c92d56e10745978739c4d55d9fc1b8f", null ]
     ] ],
-    [ "AhnkahetData", "d5/d99/a01901.html#aff905f3bb30004af8919ddfe3d29e8dd", [
-      [ "DATA_ELDER_NADOX", "d5/d99/a01901.html#aff905f3bb30004af8919ddfe3d29e8dda770adca9032e015945b302877eea180f", null ],
-      [ "DATA_PRINCE_TALDARAM", "d5/d99/a01901.html#aff905f3bb30004af8919ddfe3d29e8ddaaedbd25489af19057ce8227250867ce0", null ],
-      [ "DATA_JEDOGA_SHADOWSEEKER", "d5/d99/a01901.html#aff905f3bb30004af8919ddfe3d29e8dda5898d17f647609f063f3a809dc2fec66", null ],
-      [ "DATA_HERALD_VOLAZJ", "d5/d99/a01901.html#aff905f3bb30004af8919ddfe3d29e8dda30b8528fb302a8f32b4db9e72b4889e5", null ],
-      [ "DATA_AMANITAR", "d5/d99/a01901.html#aff905f3bb30004af8919ddfe3d29e8dda7146f172ca0fe8e80c667a510874a94f", null ],
-      [ "DATA_PRINCE_TALDARAM_PLATFORM", "d5/d99/a01901.html#aff905f3bb30004af8919ddfe3d29e8dda75ab4b9865126fdcf77107ef317fe7cc", null ]
+    [ "Enraged_Dpirits", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89", [
+      [ "QUEST_ENRAGED_SPIRITS_FIRE_EARTH", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89a00af6a5cf882aa60dbd00b72682e62f4", null ],
+      [ "QUEST_ENRAGED_SPIRITS_AIR", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89ac10d744c3b0fe0744414ac6287da8582", null ],
+      [ "QUEST_ENRAGED_SPIRITS_WATER", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89af28f06266655235767f00124047eb0cf", null ],
+      [ "ENTRY_TOTEM_OF_SPIRITS", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89aae37f2ca0fb9f937d7b9a4978fd01129", null ],
+      [ "RADIUS_TOTEM_OF_SPIRITS", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89a8cc75aff50e4b588c0c03b68843d8dd2", null ],
+      [ "NPC_ENRAGED_EARTH_SPIRIT", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89a7960db784552c9c9e6844cdd45abe658", null ],
+      [ "NPC_ENRAGED_FIRE_SPIRIT", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89af2a1f731d0c25557696e9cd443d290ea", null ],
+      [ "NPC_ENRAGED_AIR_SPIRIT", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89a0aec9f00588d40567cb7dd671db50fed", null ],
+      [ "NPC_ENRAGED_WATER_SPIRIT", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89a785b1b1793ba985baa020374d34ca3e0", null ],
+      [ "SPELL_STORMBOLT", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89a8a2e1108c381ff2b790a4b57839b6754", null ],
+      [ "SPELL_AIR_SPIRIT_CHAIN_LIGHTNING", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89a2ea40a0c10fd532d1c6d13fe72683bf9", null ],
+      [ "SPELL_HURRICANE", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89acc28d36f2859b93e18fa1a0c8e2e0f88", null ],
+      [ "SPELL_ENRAGE", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89a2a20f56307679be4d4f01a0d3d93cc7e", null ],
+      [ "SPELL_FEL_FIREBALL", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89a99ac159470e5ec6df42c6b4e8d239f19", null ],
+      [ "SPELL_FEL_FIRE_AURA", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89a3a3ace68ae8e52f1ba035dfc34b9d113", null ],
+      [ "SPELL_FIERY_BOULDER", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89a20aef8173bae9da58cf133712a8e9aa6", null ],
+      [ "SPELL_SUMMON_ENRAGED_EARTH_SHARD", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89afd5151bfc238f19eb8763743dccf425a", null ],
+      [ "NPC_EARTHEN_SOUL", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89a7a6e0dbed6931227c0a227c71ab4f60d", null ],
+      [ "NPC_FIERY_SOUL", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89ae00c2ae7cc2379845930d79d7945a2f9", null ],
+      [ "NPC_ENRAGED_AIRY_SOUL", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89af0e74bb51810c096483e41a3186f4387", null ],
+      [ "NPC_ENRAGED_WATERY_SOUL", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89a994bd23bad1aa3506d5acbaead2f0686", null ],
+      [ "SPELL_EARTHEN_SOUL_CAPTURED_CREDIT", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89a041b06322abed018c2c8e5e4d5c1fc74", null ],
+      [ "SPELL_FIERY_SOUL_CAPTURED_CREDIT", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89ad2fd0ec562d50f32148c9252379bb20f", null ],
+      [ "SPELL_AIRY_SOUL_CAPTURED_CREDIT", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89aaeda6e62797e83728e0f89966984c7a6", null ],
+      [ "SPELL_WATERY_SOUL_CAPTURED_CREDIT", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89aa042c1a7cb5e61b67522597aa19f03bd", null ],
+      [ "NPC_CREDIT_FIRE", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89adf1cf0863ae1a073c5715469f763a51c", null ],
+      [ "NPC_CREDIT_WATER", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89a75a68f28eff876a9f96b31591d24b49d", null ],
+      [ "NPC_CREDIT_AIR", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89a8942f47767ef2d47701cd2211925c693", null ],
+      [ "NPC_CREDIT_EARTH", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89a96b0475391ed7efa5605477301d6911f", null ],
+      [ "SPELL_SOUL_CAPTURED", "d5/d99/a01901.html#a90c0d27144e43f3959fcc5d52db82e89a41055491c9356e1ef93a9e68820237ce", null ]
     ] ],
-    [ "AhnkahetObjects", "d5/d99/a01901.html#a497b1d427e80ac610cd1cc5e3bc2a02f", [
-      [ "GO_TELDARAM_DOOR", "d5/d99/a01901.html#a497b1d427e80ac610cd1cc5e3bc2a02fa597526245130273d3e77a1e411a81811", null ],
-      [ "GO_TELDARAM_SPHERE1", "d5/d99/a01901.html#a497b1d427e80ac610cd1cc5e3bc2a02fa4586ff1377f4e4c184e57a56e7f962ed", null ],
-      [ "GO_TELDARAM_SPHERE2", "d5/d99/a01901.html#a497b1d427e80ac610cd1cc5e3bc2a02fa637eb0aff225b388e0c611a9cbccd03e", null ],
-      [ "GO_TELDARAM_PLATFORM", "d5/d99/a01901.html#a497b1d427e80ac610cd1cc5e3bc2a02fa9ae027e64960ba5d20a93c5123469e74", null ]
+    [ "EnshlavedNetherwingDrake", "d5/d99/a01901.html#adac4495636f524e96492a9b0806ca846", [
+      [ "QUEST_THE_FORCE_OF_NELTHARAKU", "d5/d99/a01901.html#adac4495636f524e96492a9b0806ca846a93acae0ff55559589c7c1a187ccae952", null ],
+      [ "SPELL_HIT_FORCE_OF_NELTHARAKU", "d5/d99/a01901.html#adac4495636f524e96492a9b0806ca846a7eced2a85eb71427d5b4afdb72d815b2", null ],
+      [ "SPELL_FORCE_OF_NELTHARAKU", "d5/d99/a01901.html#adac4495636f524e96492a9b0806ca846afe2033feee6894144f1ecd7c91ab32b1", null ],
+      [ "NPC_DRAGONMAW_SUBJUGATOR", "d5/d99/a01901.html#adac4495636f524e96492a9b0806ca846a71553bfde406198e8a89cc5436a381b6", null ],
+      [ "NPC_DRAGONMAW_WRANGLER", "d5/d99/a01901.html#adac4495636f524e96492a9b0806ca846a3f3aa3bdb53c70326742c2d62aaa3dc5", null ],
+      [ "NPC_ESCAPE_DUMMY", "d5/d99/a01901.html#adac4495636f524e96492a9b0806ca846a08ffe87232f0c55b72bd5e43b9570800", null ],
+      [ "POINT_DESPAWN", "d5/d99/a01901.html#adac4495636f524e96492a9b0806ca846a193b32ae3e767cdd2899238b38950ddf", null ]
     ] ],
-    [ "AhnKahetPersistentData", "d5/d99/a01901.html#acc056f2f7be3fe09395716ca57e7c7f3", [
-      [ "DATA_TELDRAM_SPHERE1", "d5/d99/a01901.html#acc056f2f7be3fe09395716ca57e7c7f3a748636fe536f29e09b02edcebc095d56", null ],
-      [ "DATA_TELDRAM_SPHERE2", "d5/d99/a01901.html#acc056f2f7be3fe09395716ca57e7c7f3aa71df9961714e4f37168c84236d3ca51", null ],
-      [ "MAX_PERSISTENT_DATA", "d5/d99/a01901.html#acc056f2f7be3fe09395716ca57e7c7f3ade8daf2d97d89b7bc637c9b5550e0449", null ]
+    [ "Flanis", "d5/d99/a01901.html#a954375235f2df9db6615f7f93286c537", [
+      [ "QUEST_THE_FATE_OF_FLANIS", "d5/d99/a01901.html#a954375235f2df9db6615f7f93286c537a19a57e186b8adea2503d432562389fa9", null ],
+      [ "ITEM_FLAUNISS_PACK", "d5/d99/a01901.html#a954375235f2df9db6615f7f93286c537a255556fffe624599c901bb11edb37417", null ],
+      [ "GOSSIP_MENU_FLANIS", "d5/d99/a01901.html#a954375235f2df9db6615f7f93286c537ac9040b837bc1d0468e6ab3496e3ac37c", null ]
     ] ],
-    [ "AhnkahetSpells", "d5/d99/a01901.html#a04c8c0beb3d5fd05b695be78e77cfe8d", [
-      [ "SPELL_SHADOW_SICKLE", "d5/d99/a01901.html#a04c8c0beb3d5fd05b695be78e77cfe8dacf16c95dd7397632ddf94f2d9f3c3c39", null ]
+    [ "InfernalOversoul", "d5/d99/a01901.html#a8d4967324c50feaf8e302ea3abcd2450", [
+      [ "NPC_INFERNAL_OVERSOUL", "d5/d99/a01901.html#a8d4967324c50feaf8e302ea3abcd2450ac6269d3a05c187898364dbf0cd47890f", null ],
+      [ "SPELL_DISRUPT_SUMMONING_RITUAL", "d5/d99/a01901.html#a8d4967324c50feaf8e302ea3abcd2450ad4745e17de850ec8e563ee709e8af8a8", null ]
     ] ],
-    [ "AhnKahetTexts", "d5/d99/a01901.html#ad2ad73bb93c442e3d70b9efad1b6c305", [
-      [ "SAY_SPHERE_ACTIVATED", "d5/d99/a01901.html#ad2ad73bb93c442e3d70b9efad1b6c305aea5e4c72402492816a8bafad5323cff8", null ]
+    [ "InvisInfernalCaster", "d5/d99/a01901.html#afc71d3d9676b2a12bfa07cf43efa1981", [
+      [ "EVENT_CAST_SUMMON_INFERNAL", "d5/d99/a01901.html#afc71d3d9676b2a12bfa07cf43efa1981a899ef19a4cdbde17f4b142ab87f22a2c", null ],
+      [ "NPC_INFERNAL_ATTACKER", "d5/d99/a01901.html#afc71d3d9676b2a12bfa07cf43efa1981afbefec58dbc4796010d20c4461668228", null ],
+      [ "MODEL_INVISIBLE", "d5/d99/a01901.html#afc71d3d9676b2a12bfa07cf43efa1981a116fbb11cfd55f4f743ab6e6b1e169c4", null ],
+      [ "MODEL_INFERNAL", "d5/d99/a01901.html#afc71d3d9676b2a12bfa07cf43efa1981a490991c939197eb08d5889b53ef448be", null ],
+      [ "SPELL_SUMMON_INFERNAL", "d5/d99/a01901.html#afc71d3d9676b2a12bfa07cf43efa1981ade42ab46d5d7f906d8fb7bd16cdcc241", null ],
+      [ "TYPE_INFERNAL", "d5/d99/a01901.html#afc71d3d9676b2a12bfa07cf43efa1981ad8a8f951d8f106aa11eed28742d7a6c8", null ],
+      [ "DATA_DIED", "d5/d99/a01901.html#afc71d3d9676b2a12bfa07cf43efa1981a04a6cbcda450d7a68236e4f4df039e36", null ]
     ] ],
-    [ "GetAhnKahetAI", "d5/d99/a01901.html#a7d67882176cbe7ff747f0bb785985b00", null ],
-    [ "MAX_ENCOUNTER", "d5/d99/a01901.html#a42b654ad1177faa1b68541d8c6ca1fae", null ]
+    [ "Kagrosh", "d5/d99/a01901.html#acf24b0c484b7b6811a4d54e4c870f6f0", [
+      [ "QUEST_THE_FATE_OF_KAGROSH", "d5/d99/a01901.html#acf24b0c484b7b6811a4d54e4c870f6f0a42d86cd1fce27ed52b16e1fa816f2d40", null ],
+      [ "ITEM_KAGROSHS_PACK", "d5/d99/a01901.html#acf24b0c484b7b6811a4d54e4c870f6f0a94af56a7ae4437fec24f8fe79b6cc54e", null ],
+      [ "GOSSIP_MENU_KAGROSH", "d5/d99/a01901.html#acf24b0c484b7b6811a4d54e4c870f6f0aff0e297296a4075024da992fd5b774c8", null ]
+    ] ],
+    [ "Karynaku", "d5/d99/a01901.html#a123c4b1ebb762013db19c932e44a4e24", [
+      [ "QUEST_ALLY_OF_NETHER", "d5/d99/a01901.html#a123c4b1ebb762013db19c932e44a4e24a0cea5be66aa00f0a720a75b2dfe52849", null ],
+      [ "QUEST_ZUHULED_THE_WACK", "d5/d99/a01901.html#a123c4b1ebb762013db19c932e44a4e24a8a25a8632e923dc91043d53eb9d8d45c", null ],
+      [ "NPC_ZUHULED_THE_WACKED", "d5/d99/a01901.html#a123c4b1ebb762013db19c932e44a4e24a9071f3130c4bfcd8cdaee5304999a930", null ],
+      [ "TAXI_PATH_ID", "d5/d99/a01901.html#a123c4b1ebb762013db19c932e44a4e24a5e1e78493c55a69bd98f896ff332f0f1", null ]
+    ] ],
+    [ "KorWild", "d5/d99/a01901.html#a1926a7ae3a01665143776b73cc14a69e", [
+      [ "SAY_LAND", "d5/d99/a01901.html#a1926a7ae3a01665143776b73cc14a69eadf43d003a14e71c42d8231786a77106e", null ],
+      [ "POINT_LAND", "d5/d99/a01901.html#a1926a7ae3a01665143776b73cc14a69ea858ba1dc5b34b3ff5f41a194feea519f", null ]
+    ] ],
+    [ "MatureNetherwing", "d5/d99/a01901.html#ac3fa044cb8f97b19130eb0644fd422ec", [
+      [ "SAY_JUST_EATEN", "d5/d99/a01901.html#ac3fa044cb8f97b19130eb0644fd422ecad453298ccc9b6b3ab0523dfafb9f548f", null ],
+      [ "SPELL_PLACE_CARCASS", "d5/d99/a01901.html#ac3fa044cb8f97b19130eb0644fd422eca4f9d035431da4bdb746a4e08fc6425e0", null ],
+      [ "SPELL_JUST_EATEN", "d5/d99/a01901.html#ac3fa044cb8f97b19130eb0644fd422eca6cadc7fa90937b8d5727d19ad97478dc", null ],
+      [ "SPELL_NETHER_BREATH", "d5/d99/a01901.html#ac3fa044cb8f97b19130eb0644fd422eca1f64ef182504e0be2caa5bb708cbd0fa", null ],
+      [ "POINT_ID", "d5/d99/a01901.html#ac3fa044cb8f97b19130eb0644fd422ecac7fd29ccba65af8d63b83beb9cdbb597", null ],
+      [ "GO_CARCASS", "d5/d99/a01901.html#ac3fa044cb8f97b19130eb0644fd422eca84c159e72b76bf1699302c28c7da3016", null ],
+      [ "QUEST_KINDNESS", "d5/d99/a01901.html#ac3fa044cb8f97b19130eb0644fd422eca0b8ea699ea2283c1b89030430b100428", null ],
+      [ "NPC_EVENT_PINGER", "d5/d99/a01901.html#ac3fa044cb8f97b19130eb0644fd422eca353ae26eabea41367f83995cef9290e1", null ]
+    ] ],
+    [ "ShadowMoonTuberEnum", "d5/d99/a01901.html#a291915ace633b26b8dce599d6e9ee70d", [
+      [ "SPELL_WHISTLE", "d5/d99/a01901.html#a291915ace633b26b8dce599d6e9ee70da67567999784143ab1ea8cd3ba26ea1fd", null ],
+      [ "SPELL_SHADOWMOON_TUBER", "d5/d99/a01901.html#a291915ace633b26b8dce599d6e9ee70da85b62e76374bbd3bf54e760e565bf080", null ],
+      [ "NPC_BOAR_ENTRY", "d5/d99/a01901.html#a291915ace633b26b8dce599d6e9ee70daf6bc3f9354df41639b1d269f90c7b3eb", null ],
+      [ "GO_SHADOWMOON_TUBER_MOUND", "d5/d99/a01901.html#a291915ace633b26b8dce599d6e9ee70dafe9c76701fdd7f4c9ee827d727255719", null ],
+      [ "POINT_TUBER", "d5/d99/a01901.html#a291915ace633b26b8dce599d6e9ee70dae3723de3df9db38a012d0f0cd70ead61", null ],
+      [ "TYPE_BOAR", "d5/d99/a01901.html#a291915ace633b26b8dce599d6e9ee70da550a96f6a5f527aed2108c53d44a0c85", null ],
+      [ "DATA_BOAR", "d5/d99/a01901.html#a291915ace633b26b8dce599d6e9ee70dab9c4a21bb24ba5bc3a604a720b5056de", null ]
+    ] ],
+    [ "TheFelAndTheFurious", "d5/d99/a01901.html#a031324fb60958a651c8b6175879342e2", [
+      [ "SPELL_ROCKET_LAUNCHER", "d5/d99/a01901.html#a031324fb60958a651c8b6175879342e2a3646c22bed20357d2c98d41f6562fb2e", null ]
+    ] ],
+    [ "AddSC_shadowmoon_valley", "d5/d99/a01901.html#a787e8b63075b328932e0fa7237d4f3c5", null ],
+    [ "SpawnCast", "d5/d99/a01901.html#a1d25fd6452855fb4166558c34940caff", null ],
+    [ "SpawnLocation", "d5/d99/a01901.html#a49b9a0d378851fc27feacce144995fc1", null ],
+    [ "TorlothAnim", "d5/d99/a01901.html#a7c2e0b764b580aefde5c593f077642a0", null ],
+    [ "WavesInfo", "d5/d99/a01901.html#acdf75daa27951ff92fc1ee8b171d064a", null ]
 ];

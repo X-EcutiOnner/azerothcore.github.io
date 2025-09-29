@@ -1,5 +1,5 @@
 var a10631 =
 [
-    [ "GuildLeave", "de/df9/a10631.html#a6a09ab5c50b7185a91e76f428e28f402", null ],
-    [ "Read", "de/df9/a10631.html#a0ea07ca846a92b5357276b5868d98e5f", null ]
+    [ "AcceptGuildInvite", "de/df9/a10631.html#a4453fc550871082f6295d9229eef265a", null ],
+    [ "Read", "de/df9/a10631.html#a3d39b917ca2650f645ccce12cdc1a1e0", null ]
 ];

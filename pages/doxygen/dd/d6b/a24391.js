@@ -1,6 +1,6 @@
 var a24391 =
 [
-    [ "DeathEvent", "dd/d6b/a24391.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "dd/d6b/a24391.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "dd/d6b/a24391.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "npc_mature_netherwing_drakeAI", "d5/d4a/a24395.html", "d5/d4a/a24395" ],
+    [ "npc_mature_netherwing_drake", "dd/d6b/a24391.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
+    [ "GetAI", "dd/d6b/a24391.html#ac5a1dad24920396156f22ab02bfab84b", null ]
 ];

@@ -1,8 +1,8 @@
 var a09375 =
 [
-    [ "AnyAssistCreatureInRangeCheck", "d0/deb/a09375.html#a2e9cbff4e627fe8ccf67997123afe0a6", null ],
-    [ "operator()", "d0/deb/a09375.html#a314a4800047f7e661cd011010b3f148e", null ],
-    [ "i_enemy", "d0/deb/a09375.html#a37318ae783e6cf4a658063aab149e8a3", null ],
-    [ "i_funit", "d0/deb/a09375.html#add1071091d1696c3f537483810dcb6f1", null ],
-    [ "i_range", "d0/deb/a09375.html#a4bcf67be5bae4649d82586349d30be04", null ]
+    [ "FriendlyMissingBuffInRange", "d0/deb/a09375.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
+    [ "operator()", "d0/deb/a09375.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
+    [ "i_obj", "d0/deb/a09375.html#aba43edf48b2b0184b52143707c3531f4", null ],
+    [ "i_range", "d0/deb/a09375.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
+    [ "i_spell", "d0/deb/a09375.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
 ];

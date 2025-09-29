@@ -1,13 +1,9 @@
 var a22427 =
 [
-    [ "OPvPCapturePointEP_NPT", "dc/dab/a22427.html#a2cb0929c3acb81530a0bd7ea57bcc298", null ],
-    [ "ChangeState", "dc/dab/a22427.html#a9e046ace6129ce67568ed7c15130b617", null ],
-    [ "FillInitialWorldStates", "dc/dab/a22427.html#add8f3c1b1a1e5600a05a639520b0a1dc", null ],
-    [ "HandlePlayerEnter", "dc/dab/a22427.html#ace643b7f7bc793934972c61c618045eb", null ],
-    [ "HandlePlayerLeave", "dc/dab/a22427.html#a950cd355c808f40ca95c0e5a46bac0a2", null ],
-    [ "SendChangePhase", "dc/dab/a22427.html#aef84a9917d5f40cfff48acb45ffdf0aa", null ],
-    [ "SummonGO", "dc/dab/a22427.html#a08a54abf3668074b5878c165bd2f8ddd", null ],
-    [ "UpdateTowerState", "dc/dab/a22427.html#ad8cfefcc567346273914e8039b039835", null ],
-    [ "m_SummonedGOSideId", "dc/dab/a22427.html#aa034240d169c9ab7276786bb188abc70", null ],
-    [ "m_TowerState", "dc/dab/a22427.html#a703b68024362d13ceaf9012202b72e7d", null ]
+    [ "npc_engineer_heliceAI", "dc/dab/a22427.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
+    [ "JustDied", "dc/dab/a22427.html#aba224727b86a2bfc39a47b70b424ccef", null ],
+    [ "Reset", "dc/dab/a22427.html#ade3f7f526dd8973c155aafb939db3778", null ],
+    [ "UpdateAI", "dc/dab/a22427.html#a1c333511dd6e82cd22af111e12a701c4", null ],
+    [ "WaypointReached", "dc/dab/a22427.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "m_uiChatTimer", "dc/dab/a22427.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

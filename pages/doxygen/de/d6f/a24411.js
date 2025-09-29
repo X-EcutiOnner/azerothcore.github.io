@@ -1,6 +1,6 @@
 var a24411 =
 [
-    [ "FilterTargets", "de/d6f/a24411.html#adab73c94c659d7421c9c6887d956cd83", null ],
-    [ "PrepareSpellScript", "de/d6f/a24411.html#a8cf5e4224f46b6f836d517f90fd135d4", null ],
-    [ "Register", "de/d6f/a24411.html#a3aaf93f3746b36d5bfa4fc475aabe43b", null ]
+    [ "npc_drake_dealer_hurlunk", "de/d6f/a24411.html#ae6d095365d23c30d5b772b047b459ddb", null ],
+    [ "OnGossipHello", "de/d6f/a24411.html#ad04b7f906f029d9935e29c585b0de421", null ],
+    [ "OnGossipSelect", "de/d6f/a24411.html#aa23833dcdefb909899120c25d5376111", null ]
 ];

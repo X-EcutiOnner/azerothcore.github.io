@@ -1,7 +1,7 @@
 var a24139 =
 [
-    [ "o", "df/d49/a24139.html#a3785e9b55ea3a7140086ce1f86232109", null ],
-    [ "x", "df/d49/a24139.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
-    [ "y", "df/d49/a24139.html#a10fbad67977d8dd3911eb629c1797684", null ],
-    [ "z", "df/d49/a24139.html#a69fc2438e52f6c0de3af13900ff38166", null ]
+    [ "HandleDamage", "df/d49/a24139.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
+    [ "HandleTargets", "df/d49/a24139.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
+    [ "PrepareSpellScript", "df/d49/a24139.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
+    [ "Register", "df/d49/a24139.html#a8873614ae22c908cb2cf49129fc53be2", null ]
 ];

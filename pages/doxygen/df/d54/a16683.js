@@ -1,7 +1,7 @@
 var a16683 =
 [
-    [ "HandleScriptEffect", "df/d54/a16683.html#a667e50b01f431dba025f692484f6e7ba", null ],
-    [ "PrepareSpellScript", "df/d54/a16683.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
-    [ "Register", "df/d54/a16683.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
-    [ "Validate", "df/d54/a16683.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
+    [ "npc_toc_enh_shamanAI", "df/d54/a16683.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
+    [ "myCanCast", "df/d54/a16683.html#a8a38da4063a22361b25835a67f14ff52", null ],
+    [ "UpdateAI", "df/d54/a16683.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
+    [ "events", "df/d54/a16683.html#adec973540bf3b046f54547fb845c06b1", null ]
 ];

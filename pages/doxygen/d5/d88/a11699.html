@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: Acore::WorldWorldTextBuilder Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d4/de1/a11702.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('d5/d88/a11699.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,122 +104,297 @@ $(document).ready(function(){initNavTree('d4/de1/a11702.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">World Member List</div></div>
+  <div class="summary">
+<a href="#pub-types">Public Types</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="../../db/d95/a11696.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">Acore::WorldWorldTextBuilder Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:ac02e770af167d14f978954cf5ac74487"><td class="memItemLeft" align="right" valign="top">typedef std::vector&lt; <a class="el" href="../../dc/de6/a11127.html">WorldPacket</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d88/a11699.html#ac02e770af167d14f978954cf5ac74487">WorldPacketList</a></td></tr>
+<tr class="separator:ac02e770af167d14f978954cf5ac74487"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:ad5e85ced19572dcd5ae75caa7e50cbf6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d88/a11699.html#ad5e85ced19572dcd5ae75caa7e50cbf6">WorldWorldTextBuilder</a> (<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> textId, va_list *args=nullptr)</td></tr>
+<tr class="separator:ad5e85ced19572dcd5ae75caa7e50cbf6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae08f4d73e048b351ae4326cc63278ae6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d88/a11699.html#ae08f4d73e048b351ae4326cc63278ae6">operator()</a> (<a class="el" href="../../d5/d88/a11699.html#ac02e770af167d14f978954cf5ac74487">WorldPacketList</a> &amp;data_list, <a class="el" href="../../d2/df8/a04550.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a> loc_idx)</td></tr>
+<tr class="separator:ae08f4d73e048b351ae4326cc63278ae6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a3a71edb992528d81471d370ba3d8d211"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d88/a11699.html#a3a71edb992528d81471d370ba3d8d211">lineFromMessage</a> (char *&amp;pos)</td></tr>
+<tr class="separator:a3a71edb992528d81471d370ba3d8d211"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8b58ec72a6c87aee46e9fe693deab32"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d88/a11699.html#ae8b58ec72a6c87aee46e9fe693deab32">do_helper</a> (<a class="el" href="../../d5/d88/a11699.html#ac02e770af167d14f978954cf5ac74487">WorldPacketList</a> &amp;data_list, char *text)</td></tr>
+<tr class="separator:ae8b58ec72a6c87aee46e9fe693deab32"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:ab246baa9a8ce259d8190ac1c8318c75d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d88/a11699.html#ab246baa9a8ce259d8190ac1c8318c75d">i_textId</a></td></tr>
+<tr class="separator:ab246baa9a8ce259d8190ac1c8318c75d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac2ae2ce8dc49ce7469142383e6e097d4"><td class="memItemLeft" align="right" valign="top">va_list *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d88/a11699.html#ac2ae2ce8dc49ce7469142383e6e097d4">i_args</a></td></tr>
+<tr class="separator:ac2ae2ce8dc49ce7469142383e6e097d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="ac02e770af167d14f978954cf5ac74487" name="ac02e770af167d14f978954cf5ac74487"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac02e770af167d14f978954cf5ac74487">&#9670;&#160;</a></span>WorldPacketList</h2>
 
-<p>This is the complete list of members for <a class="el" href="../../d4/de1/a11702.html">World</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#aefc904a17c8288178dfaeb17cc46d066">_allowedSecurityLevel</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#ab8a4dc27659673c4a45f280c35de9a00">_allowMovement</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a1a4d5e21370a098176816cad4678d677">_availableDbcLocaleMask</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a1d47bde4ab7eb001e0e9d9187c5d9096">_cleaningFlags</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#aed78fef424de1212a0f25f5e40067b77">_cliCmdQueue</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a9f99f294263e869d98f66ac6b76cd187">_dataPath</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a46f1f1b78b354c637a8a987ec469cf6f">_dbClientCacheVersion</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a18fe5194248a0c6126f02b642eba41fc">_dbVersion</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a2b2279cff4455dfd3f7bd718f12b0edc">_defaultDbcLocale</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#ad3fdd0a6d0589e99a8b4cf2ce5cecf2d">_exitCode</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span><span class="mlabel">static</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a34fbfdee7f02094d3c2403b9f2196af6">_isClosed</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#afcff4834a924e6d6ec051052b707acc7">_mail_expire_check_timer</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a30997d041da2229ddebe936d30af2e82">_maxVisibleDistanceInBGArenas</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span><span class="mlabel">static</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#acd831fed79e51f365e7b3015d18cef15">_maxVisibleDistanceInInstances</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span><span class="mlabel">static</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a9c5275f0ba02385ee474f531ee7abfb6">_maxVisibleDistanceOnContinents</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span><span class="mlabel">static</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a68f21ea14975c692bc66237749285807">_nextCalendarOldEventsDeletionTime</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a338859282584d39a7d19ecd8c808083a">_nextDailyQuestReset</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a02b45e6856b8161a6b4be7829880b0ff">_nextGuildReset</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a5ea5935ae76ef8a32b16c8afff44f92b">_nextMonthlyQuestReset</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#ab7e4d217f3bd6fe873d8c75d98b59458">_nextRandomBGReset</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a722c7b24a4f637b9b65cb973141ade03">_nextWeeklyQuestReset</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a3945acd775fc103f562989963215e461">_queryProcessor</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a579f0cd72f3f4aa1d7956cb30b313faf">_realmName</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a06057c7a9871a71c8049cb947c83daa6">_shutdownMask</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a4313695026af680aaf39c90839fa5cb4">_shutdownReason</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a74baa2bb1744320512f9f29538512573">_shutdownTimer</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#adb852fcd9fbb861b1bbd3d5c17c728fc">_stopEvent</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span><span class="mlabel">static</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a42e8e0b8ee52aa72e78e44de16253915">_timers</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a283774abc7254563416653fbf43c0fe4">_UpdateGameTime</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a42dca1e9a4af3d1aa94c0f045ce41d8b">_UpdateRealmCharCount</a>(PreparedQueryResult resultCharCount, uint32 accountId)</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a360ddad136638c1371cc6e805b772b3d">_worldConfig</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#aad1122b6c2a6998ba4dda6cfcbd6b1ca">CalendarDeleteOldEvents</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a7d2a0c47f64571892d543e1c21cbf7e3">DetectDBCLang</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a7f16c75d324c0f06d8cb72340534f929">FinalizePlayerWorldSession</a>(WorldSession *session)</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a0856a1e408a7c0e33e83459553d06ab7">ForceGameEventUpdate</a>() override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a5844e926808161034ab8e94ddcd113ee">getAllowMovement</a>() const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a56821b6ec5b647768bf1a5176e8c9302">GetAvailableDbcLocale</a>(LocaleConstant locale) const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a54e75ca3240b3c9db55a9d356ed7c835">getBoolConfig</a>(ServerConfigs index) const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a8287e77d2f44d1b94884c86e20650e3c">GetCleaningFlags</a>() const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a8d80d2592e9c46c2241a64c03ad83666">GetConfigMaxSkillValue</a>() const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#af0e397fef43d8165502535de9d48da4d">GetDataPath</a>() const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a39dc78de4ec20677aa8b00c1d3449fb8">GetDBVersion</a>() const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#ad73a066745376a4f1e4d16aafeac0bbf">GetDefaultDbcLocale</a>() const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a0e4ac5f6fc42a6cf71d8d3b229646c92">GetExitCode</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#af316951a4fad8be6307b10bd5b5cbc72">getFloatConfig</a>(ServerConfigs index) const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#ab52a16eee509572e8abfc315871a7fa5">getIntConfig</a>(ServerConfigs index) const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a205d28a88f24d88b7df0080b2fdcbc8b">GetMaxVisibleDistanceInBGArenas</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a281c168df41130831d0fff25d9de1f31">GetMaxVisibleDistanceInInstances</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#af2dc81f0cf0d4186c8c92fe79ed27a64">GetMaxVisibleDistanceOnContinents</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#ae648e9cdaeb3d1e3250afd553719bae2">GetNextDailyQuestsResetTime</a>() const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a111207dc1b734f3b68e2d544bd39e2f5">GetNextRandomBGResetTime</a>() const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a309e14e8ec343ec3039f8020d55a4929">GetNextWeeklyQuestsResetTime</a>() const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a2a7e783f9c0931334567118e5dedd8b4">GetNextWhoListUpdateDelaySecs</a>() override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#ab093072ec6f5bcd680119157cabcd3f6">GetPlayerSecurityLimit</a>() const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a718c2dde851a3412db5de63bff8b8dd0">getRate</a>(ServerConfigs index) const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a9ef018075eb1940b88c40d6c5294c8a4">GetRealmName</a>() const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#adce37741453050be9959f231113856df">GetShutDownTimeLeft</a>() const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a8eb539b72b8c0ddbacdb24d01cbf5f44">getStringConfig</a>(ServerConfigs index) const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a621ff9ef21c6377095c4a06a7acfc122">InitCalendarOldEventsDeletionTime</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a68f4a1f27f3da7ed9d675b01013ea018">InitDailyQuestResetTime</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a82f7d820397d31b277d54349d1df4b73">InitGuildResetTime</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#ae38142ac2d8e705f34cccfcb72242097">InitMonthlyQuestResetTime</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a8b4558c3da23c7cce145423da37800df">InitRandomBGResetTime</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#aa9a3588e623941ec8594ff83d05ef37f">InitWeeklyQuestResetTime</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#acbf5c62d62a3ef0e07f1e0a8074a210b">instance</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a89cf02bd1531bd59339fd8b46fa95ddd">IsClosed</a>() const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a1aaf354de61c3bfe4de4d5133e6a3aeb">IsFFAPvPRealm</a>() const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a58f57acf4b9a133ea79a4bdfed6b93c4">IsPvPRealm</a>() const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a0ccb15cd950cba69ab123f92ac03b117">IsShuttingDown</a>() const override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#ae1716f62b00fe8ba87a92850bf4d054c">IsStopped</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a3ac6d12f20e9d3e914b21fc5cc27938d">LoadConfigSettings</a>(bool reload=false) override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a74a69622ac41136efc3b6a6b967bbb65">LoadDBAllowedSecurityLevel</a>() override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a1d20ca4bca7abc40e865e6013e55ac9d">LoadDBVersion</a>() override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#aa63a63e8985fe0382c4df93b80eb661c">m_worldLoopCounter</a></td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a22ba72387cf729585d0a3dff5b68a0b5">ProcessCliCommands</a>() override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#aae7024335255ec3d29bddd52ca535327">ProcessQueryCallbacks</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a681852aa66dfa02932f81f7ddeec6445">QueueCliCommand</a>(CliCommandHolder *commandHolder) override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#aacbfdbc7a83d937ad907f4a243352493">ResetDailyQuests</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a3837326c86546787ed5f98415e0fdcae">ResetEventSeasonalQuests</a>(uint16 event_id) override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a79351ea85793bf75a5104e1e153a237b">ResetGuildCap</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a5e74823cfe51ef5e895808ee80040b7b">ResetMonthlyQuests</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a9d827da36002089d7e58fb18eb99f1af">ResetRandomBG</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a8fca91b33592ee214851ddff4938755c">ResetWeeklyQuests</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a19560e2e6fb9d54a1297bdebd5466d17">SetAllowMovement</a>(bool allow) override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#afef544af0f989b2d3ea975f22d02fb46">setBoolConfig</a>(ServerConfigs index, bool value) override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a31964f041ebc34a0a9db42f9baf37da1">SetCleaningFlags</a>(uint32 flags) override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a4828e93d1c2f21187e357330af9f7d36">SetClosed</a>(bool val) override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a0924dba46b727ab445e87c67dd2f58da">setFloatConfig</a>(ServerConfigs index, float value) override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#aeff3f8a7fdef7caaa925014a540ba040">SetInitialWorldSettings</a>() override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a3d60eea71f41e734e8237b35d5a4d1db">setIntConfig</a>(ServerConfigs index, uint32 value) override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#af27489b9c412e1b060ac4b20ec652e50">SetPlayerSecurityLimit</a>(AccountTypes sec) override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a03ca826be4360290dccae54faaec4067">setRate</a>(ServerConfigs index, float value) override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a2b4be30416a27846bfe10943efffd876">SetRealmName</a>(std::string name) override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#aaff65b6bae2c57160600d72238e4e26f">setStringConfig</a>(ServerConfigs index, std::string const &amp;value) override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a0227f68a7e8917c775d0386f83e0ad4d">ShutdownCancel</a>() override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#aaffca059ddb1b47034d9338eb8e516cc">ShutdownMsg</a>(bool show=false, Player *player=nullptr, std::string const &amp;reason=std::string()) override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a4fdff6bac07b46aaa58e34ab7eb258d8">ShutdownServ</a>(uint32 time, uint32 options, uint8 exitcode, std::string const &amp;reason=std::string()) override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#ab0c53f76dd85fb0f2dcfc29b33291d9d">StopNow</a>(uint8 exitcode)</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#aec9ec3b6210efe741d4617df4534c3a7">Update</a>(uint32 diff) override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#ad9e3127a9bee2e507ae8730364bf2799">UpdateAreaDependentAuras</a>() override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#a1c94ad9f439abf43ae374c6760519b52">UpdateRealmCharCount</a>(uint32 accid) override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#afa39d4e6f714a7a3691ac0c656f5e8a8">World</a>()</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../da/dda/a11690.html#ab3d4710d10fcd84a939c4d1a55162661">~IWorld</a>()=default</td><td class="entry"><a class="el" href="../../da/dda/a11690.html">IWorld</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d4/de1/a11702.html#adf5e8724afb4d083e566ee4e48905bf2">~World</a>() override</td><td class="entry"><a class="el" href="../../d4/de1/a11702.html">World</a></td><td class="entry"></td></tr>
-</table></div><!-- contents -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef std::vector&lt;<a class="el" href="../../dc/de6/a11127.html">WorldPacket</a>*&gt; <a class="el" href="../../d5/d88/a11699.html#ac02e770af167d14f978954cf5ac74487">Acore::WorldWorldTextBuilder::WorldPacketList</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="ad5e85ced19572dcd5ae75caa7e50cbf6" name="ad5e85ced19572dcd5ae75caa7e50cbf6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad5e85ced19572dcd5ae75caa7e50cbf6">&#9670;&#160;</a></span>WorldWorldTextBuilder()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Acore::WorldWorldTextBuilder::WorldWorldTextBuilder </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>textId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">va_list *&#160;</td>
+          <td class="paramname"><em>args</em> = <code>nullptr</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1383</span>: <a class="code hl_variable" href="../../d5/d88/a11699.html#ab246baa9a8ce259d8190ac1c8318c75d">i_textId</a>(textId), <a class="code hl_variable" href="../../d5/d88/a11699.html#ac2ae2ce8dc49ce7469142383e6e097d4">i_args</a>(args) {}</div>
+<div class="ttc" id="aa11699_html_ab246baa9a8ce259d8190ac1c8318c75d"><div class="ttname"><a href="../../d5/d88/a11699.html#ab246baa9a8ce259d8190ac1c8318c75d">Acore::WorldWorldTextBuilder::i_textId</a></div><div class="ttdeci">uint32 i_textId</div><div class="ttdef"><b>Definition:</b> World.cpp:1417</div></div>
+<div class="ttc" id="aa11699_html_ac2ae2ce8dc49ce7469142383e6e097d4"><div class="ttname"><a href="../../d5/d88/a11699.html#ac2ae2ce8dc49ce7469142383e6e097d4">Acore::WorldWorldTextBuilder::i_args</a></div><div class="ttdeci">va_list * i_args</div><div class="ttdef"><b>Definition:</b> World.cpp:1418</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="ae8b58ec72a6c87aee46e9fe693deab32" name="ae8b58ec72a6c87aee46e9fe693deab32"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae8b58ec72a6c87aee46e9fe693deab32">&#9670;&#160;</a></span>do_helper()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Acore::WorldWorldTextBuilder::do_helper </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/d88/a11699.html#ac02e770af167d14f978954cf5ac74487">WorldPacketList</a> &amp;&#160;</td>
+          <td class="paramname"><em>data_list</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">char *&#160;</td>
+          <td class="paramname"><em>text</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1407</span>        {</div>
+<div class="line"><span class="lineno"> 1408</span>            <span class="keywordtype">char</span>* pos = text;</div>
+<div class="line"><span class="lineno"> 1409</span>            <span class="keywordflow">while</span> (<span class="keywordtype">char</span>* line = <a class="code hl_function" href="../../d5/d88/a11699.html#a3a71edb992528d81471d370ba3d8d211">lineFromMessage</a>(pos))</div>
+<div class="line"><span class="lineno"> 1410</span>            {</div>
+<div class="line"><span class="lineno"> 1411</span>                <a class="code hl_class" href="../../dc/de6/a11127.html">WorldPacket</a>* data = <span class="keyword">new</span> <a class="code hl_class" href="../../dc/de6/a11127.html">WorldPacket</a>();</div>
+<div class="line"><span class="lineno"> 1412</span>                <a class="code hl_function" href="../../dd/d81/a07547.html#a3295cee708d267aac165f9ee55d2e615">ChatHandler::BuildChatPacket</a>(*data, <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#a249e68b260c9857b5d0d4cf4697fae16a8fcd3e7170e686c1826b9f7fcdf5df96">CHAT_MSG_SYSTEM</a>, <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#a315ca917ad583797f709ea477dd28705a15adb0ab094ffe068674ecc6ea720d3a">LANG_UNIVERSAL</a>, <span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, line);</div>
+<div class="line"><span class="lineno"> 1413</span>                data_list.push_back(data);</div>
+<div class="line"><span class="lineno"> 1414</span>            }</div>
+<div class="line"><span class="lineno"> 1415</span>        }</div>
+<div class="ttc" id="aa04097_html_a249e68b260c9857b5d0d4cf4697fae16a8fcd3e7170e686c1826b9f7fcdf5df96"><div class="ttname"><a href="../../dd/d44/a04097.html#a249e68b260c9857b5d0d4cf4697fae16a8fcd3e7170e686c1826b9f7fcdf5df96">CHAT_MSG_SYSTEM</a></div><div class="ttdeci">@ CHAT_MSG_SYSTEM</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3402</div></div>
+<div class="ttc" id="aa04097_html_a315ca917ad583797f709ea477dd28705a15adb0ab094ffe068674ecc6ea720d3a"><div class="ttname"><a href="../../dd/d44/a04097.html#a315ca917ad583797f709ea477dd28705a15adb0ab094ffe068674ecc6ea720d3a">LANG_UNIVERSAL</a></div><div class="ttdeci">@ LANG_UNIVERSAL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:746</div></div>
+<div class="ttc" id="aa07547_html_a3295cee708d267aac165f9ee55d2e615"><div class="ttname"><a href="../../dd/d81/a07547.html#a3295cee708d267aac165f9ee55d2e615">ChatHandler::BuildChatPacket</a></div><div class="ttdeci">static std::size_t BuildChatPacket(WorldPacket &amp;data, ChatMsg chatType, Language language, ObjectGuid senderGUID, ObjectGuid receiverGUID, std::string_view message, uint8 chatTag, std::string const &amp;senderName=&quot;&quot;, std::string const &amp;receiverName=&quot;&quot;, uint32 achievementId=0, bool gmMessage=false, std::string const &amp;channelName=&quot;&quot;)</div><div class="ttdef"><b>Definition:</b> Chat.cpp:265</div></div>
+<div class="ttc" id="aa11127_html"><div class="ttname"><a href="../../dc/de6/a11127.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
+<div class="ttc" id="aa11699_html_a3a71edb992528d81471d370ba3d8d211"><div class="ttname"><a href="../../d5/d88/a11699.html#a3a71edb992528d81471d370ba3d8d211">Acore::WorldWorldTextBuilder::lineFromMessage</a></div><div class="ttdeci">char * lineFromMessage(char *&amp;pos)</div><div class="ttdef"><b>Definition:</b> World.cpp:1405</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00265">ChatHandler::BuildChatPacket()</a>, <a class="el" href="../../#l03402">CHAT_MSG_SYSTEM</a>, <a class="el" href="../../#l00746">LANG_UNIVERSAL</a>, and <a class="el" href="../../#l01405">lineFromMessage()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01384">operator()()</a>.</p>
+
+</div>
+</div>
+<a id="a3a71edb992528d81471d370ba3d8d211" name="a3a71edb992528d81471d370ba3d8d211"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3a71edb992528d81471d370ba3d8d211">&#9670;&#160;</a></span>lineFromMessage()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">char * Acore::WorldWorldTextBuilder::lineFromMessage </td>
+          <td>(</td>
+          <td class="paramtype">char *&amp;&#160;</td>
+          <td class="paramname"><em>pos</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1405</span>{ <span class="keywordtype">char</span>* start = strtok(pos, <span class="stringliteral">&quot;\n&quot;</span>); pos = <span class="keyword">nullptr</span>; <span class="keywordflow">return</span> start; }</div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l01406">do_helper()</a>.</p>
+
+</div>
+</div>
+<a id="ae08f4d73e048b351ae4326cc63278ae6" name="ae08f4d73e048b351ae4326cc63278ae6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae08f4d73e048b351ae4326cc63278ae6">&#9670;&#160;</a></span>operator()()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Acore::WorldWorldTextBuilder::operator() </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/d88/a11699.html#ac02e770af167d14f978954cf5ac74487">WorldPacketList</a> &amp;&#160;</td>
+          <td class="paramname"><em>data_list</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/df8/a04550.html#a54c9b637be7283ba1a04fb5215594332">LocaleConstant</a>&#160;</td>
+          <td class="paramname"><em>loc_idx</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno"> 1385</span>        {</div>
+<div class="line"><span class="lineno"> 1386</span>            std::string strtext = <a class="code hl_define" href="../../d4/d99/a01634.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetAcoreString(<a class="code hl_variable" href="../../d5/d88/a11699.html#ab246baa9a8ce259d8190ac1c8318c75d">i_textId</a>, loc_idx);</div>
+<div class="line"><span class="lineno"> 1387</span>            <span class="keywordtype">char</span> <span class="keyword">const</span>* text = strtext.c_str();</div>
+<div class="line"><span class="lineno"> 1388</span> </div>
+<div class="line"><span class="lineno"> 1389</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d5/d88/a11699.html#ac2ae2ce8dc49ce7469142383e6e097d4">i_args</a>)</div>
+<div class="line"><span class="lineno"> 1390</span>            {</div>
+<div class="line"><span class="lineno"> 1391</span>                <span class="comment">// we need copy va_list before use or original va_list will corrupted</span></div>
+<div class="line"><span class="lineno"> 1392</span>                va_list ap;</div>
+<div class="line"><span class="lineno"> 1393</span>                va_copy(ap, *<a class="code hl_variable" href="../../d5/d88/a11699.html#ac2ae2ce8dc49ce7469142383e6e097d4">i_args</a>);</div>
+<div class="line"><span class="lineno"> 1394</span> </div>
+<div class="line"><span class="lineno"> 1395</span>                <span class="keywordtype">char</span> str[2048];</div>
+<div class="line"><span class="lineno"> 1396</span>                vsnprintf(str, 2048, text, ap);</div>
+<div class="line"><span class="lineno"> 1397</span>                va_end(ap);</div>
+<div class="line"><span class="lineno"> 1398</span> </div>
+<div class="line"><span class="lineno"> 1399</span>                <a class="code hl_function" href="../../d5/d88/a11699.html#ae8b58ec72a6c87aee46e9fe693deab32">do_helper</a>(data_list, &amp;str[0]);</div>
+<div class="line"><span class="lineno"> 1400</span>            }</div>
+<div class="line"><span class="lineno"> 1401</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno"> 1402</span>                <a class="code hl_function" href="../../d5/d88/a11699.html#ae8b58ec72a6c87aee46e9fe693deab32">do_helper</a>(data_list, (<span class="keywordtype">char</span>*)text);</div>
+<div class="line"><span class="lineno"> 1403</span>        }</div>
+<div class="ttc" id="aa01634_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../d4/d99/a01634.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1650</div></div>
+<div class="ttc" id="aa11699_html_ae8b58ec72a6c87aee46e9fe693deab32"><div class="ttname"><a href="../../d5/d88/a11699.html#ae8b58ec72a6c87aee46e9fe693deab32">Acore::WorldWorldTextBuilder::do_helper</a></div><div class="ttdeci">void do_helper(WorldPacketList &amp;data_list, char *text)</div><div class="ttdef"><b>Definition:</b> World.cpp:1406</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01406">do_helper()</a>, <a class="el" href="../../#l01418">i_args</a>, <a class="el" href="../../#l01417">i_textId</a>, and <a class="el" href="../../#l01650">sObjectMgr</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="ac2ae2ce8dc49ce7469142383e6e097d4" name="ac2ae2ce8dc49ce7469142383e6e097d4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac2ae2ce8dc49ce7469142383e6e097d4">&#9670;&#160;</a></span>i_args</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">va_list* Acore::WorldWorldTextBuilder::i_args</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01384">operator()()</a>.</p>
+
+</div>
+</div>
+<a id="ab246baa9a8ce259d8190ac1c8318c75d" name="ab246baa9a8ce259d8190ac1c8318c75d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab246baa9a8ce259d8190ac1c8318c75d">&#9670;&#160;</a></span>i_textId</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Acore::WorldWorldTextBuilder::i_textId</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l01384">operator()()</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Sep 22 2025 20:46:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dd/df4/a04800.html">Acore</a></li><li class="navelem"><a class="el" href="../../d5/d88/a11699.html">WorldWorldTextBuilder</a></li>
+    <li class="footer">Generated on Mon Sep 29 2025 20:47:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

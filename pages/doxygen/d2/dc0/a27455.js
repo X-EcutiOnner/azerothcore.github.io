@@ -1,8 +1,9 @@
 var a27455 =
 [
-    [ "npc_elder_clearwaterAI", "d4/d66/a27459.html", "d4/d66/a27459" ],
-    [ "npc_elder_clearwater", "d2/dc0/a27455.html#abeee1650938a71762bb0c148ea9834d1", null ],
-    [ "GetAI", "d2/dc0/a27455.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
-    [ "OnGossipHello", "d2/dc0/a27455.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
-    [ "OnQuestReward", "d2/dc0/a27455.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
+    [ "go_tadpole_cageAI", "d2/dc0/a27455.html#a87dc192a13cecf834d49cd04451224cd", null ],
+    [ "GossipHello", "d2/dc0/a27455.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
+    [ "OnStateChanged", "d2/dc0/a27455.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
+    [ "SummonTadpoles", "d2/dc0/a27455.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
+    [ "UpdateAI", "d2/dc0/a27455.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
+    [ "requireSummon", "d2/dc0/a27455.html#a9884081855fc45776a6b12b9a68890e4", null ]
 ];

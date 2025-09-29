@@ -1,5 +1,5 @@
 var a13875 =
 [
-    [ "go_gong_of_bethekk", "db/de7/a13875.html#ae261467be63f1a744eb20f81473c2239", null ],
-    [ "OnGossipHello", "db/de7/a13875.html#a82072ff8c030aec1a5ed447865680788", null ]
+    [ "npc_king_varian_wrynn", "db/de7/a13875.html#a33b7c492a7435b3f80e508be9e3440e9", null ],
+    [ "OnQuestReward", "db/de7/a13875.html#a1255cca95a7a2b039702b30db377a19f", null ]
 ];

@@ -1,5 +1,7 @@
 var a22119 =
 [
-    [ "go_brazier", "d6/dbb/a22119.html#a432a07256fde679a889de7ba0f64f092", null ],
-    [ "OnGossipHello", "d6/dbb/a22119.html#a3e0be690d58be4d7bbbb5b624ac4bd5b", null ]
+    [ "npc_emilyAI", "d9/d5e/a22123.html", "d9/d5e/a22123" ],
+    [ "npc_emily", "d6/dbb/a22119.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "d6/dbb/a22119.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "d6/dbb/a22119.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

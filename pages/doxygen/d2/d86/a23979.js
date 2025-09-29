@@ -1,6 +1,8 @@
 var a23979 =
 [
-    [ "npc_fel_guard_houndAI", "df/db2/a23983.html", "df/db2/a23983" ],
-    [ "npc_fel_guard_hound", "d2/d86/a23979.html#a324179695f04a31b233b0ce94a46634c", null ],
-    [ "GetAI", "d2/d86/a23979.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
+    [ "boss_laj", "d2/d86/a23979.html#a3c9323ab4b5530504588ea62aed2edff", null ],
+    [ "Reset", "d2/d86/a23979.html#ace690a0662376addaa40093f3f119c31", null ],
+    [ "ScheduleTasks", "d2/d86/a23979.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
+    [ "_lastTransform", "d2/d86/a23979.html#a097eacaaf77a09bec087530bad587b11", null ],
+    [ "_transformContainer", "d2/d86/a23979.html#a313e66ceeb4e359251dad65383e7f568", null ]
 ];

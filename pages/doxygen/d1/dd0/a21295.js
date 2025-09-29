@@ -1,6 +1,14 @@
 var a21295 =
 [
-    [ "boss_moraggAI", "d9/df4/a21299.html", "d9/df4/a21299" ],
-    [ "boss_moragg", "d1/dd0/a21295.html#aeb43f9cc4c41f049fd0a13e79cadfcd1", null ],
-    [ "GetAI", "d1/dd0/a21295.html#a5ea2f210038b3e44bf2cb9c402e1b761", null ]
+    [ "boss_dalronn_the_controller", "d1/dd0/a21295.html#a57718e928fa273bba3c40a05d5888a3d", null ],
+    [ "DoAction", "d1/dd0/a21295.html#ad11e43d40a61f093b5e51482437467b8", null ],
+    [ "JustDied", "d1/dd0/a21295.html#a28a669b56392b599e124573778e33134", null ],
+    [ "JustEngagedWith", "d1/dd0/a21295.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
+    [ "JustSummoned", "d1/dd0/a21295.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
+    [ "KilledUnit", "d1/dd0/a21295.html#a96a173e30ad81c77217b0693d1d15839", null ],
+    [ "Reset", "d1/dd0/a21295.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
+    [ "UpdateAI", "d1/dd0/a21295.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
+    [ "events", "d1/dd0/a21295.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
+    [ "pInstance", "d1/dd0/a21295.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
+    [ "summons", "d1/dd0/a21295.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
 ];

@@ -1,6 +1,9 @@
 var a26819 =
 [
-    [ "PrepareAuraScript", "de/def/a26819.html#a65fa925d99065d028e328a92f2a13805", null ],
-    [ "Register", "de/def/a26819.html#a95dc732286adf4327f68e23015d58c21", null ],
-    [ "RemoveEffect", "de/def/a26819.html#a3f474c143f64739187b6049cac5e4b38", null ]
+    [ "CheckCast", "de/def/a26819.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
+    [ "FilterTargets", "de/def/a26819.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
+    [ "HandleDummy", "de/def/a26819.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
+    [ "PrepareSpellScript", "de/def/a26819.html#a9c992e732b525e29f684947398d20efb", null ],
+    [ "Register", "de/def/a26819.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
+    [ "Validate", "de/def/a26819.html#abca1e5aa46e7753588c8120090775195", null ]
 ];

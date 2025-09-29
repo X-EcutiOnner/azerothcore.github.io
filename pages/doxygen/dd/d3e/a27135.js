@@ -1,6 +1,7 @@
 var a27135 =
 [
-    [ "go_witherbark_totem_bundleAI", "d6/d31/a27139.html", "d6/d31/a27139" ],
-    [ "go_witherbark_totem_bundle", "dd/d3e/a27135.html#affcdff7ec6894add0acec842028efd2e", null ],
-    [ "GetAI", "dd/d3e/a27135.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
+    [ "HandleApplyAura", "dd/d3e/a27135.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
+    [ "PrepareSpellScript", "dd/d3e/a27135.html#adf09900347264bc341884092ea0fee40", null ],
+    [ "Register", "dd/d3e/a27135.html#ac56484d4048817a164963e519a97d137", null ],
+    [ "Validate", "dd/d3e/a27135.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
 ];

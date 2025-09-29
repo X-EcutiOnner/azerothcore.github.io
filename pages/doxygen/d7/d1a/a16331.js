@@ -1,7 +1,10 @@
 var a16331 =
 [
-    [ "npc_toc_shamanAI", "d7/d1a/a16331.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
-    [ "myCanCast", "d7/d1a/a16331.html#a993739662d2687c27219853669b8a485", null ],
-    [ "UpdateAI", "d7/d1a/a16331.html#a2ad17245685feb3f085ef9a669459c61", null ],
-    [ "events", "d7/d1a/a16331.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
+    [ "spell_halion_damage_aoe_summon", "d7/d1a/a16331.html#a6152e7a0515076af2c7c2155506257b0", null ],
+    [ "HandleSummon", "d7/d1a/a16331.html#a47a810b94c515b7e48c9cc5f99c6bc23", null ],
+    [ "PrepareSpellScript", "d7/d1a/a16331.html#ae05be3eca26724f57f3f4b37b723aa63", null ],
+    [ "Register", "d7/d1a/a16331.html#aa1f9239a2910d53c85539abba6333893", null ],
+    [ "Validate", "d7/d1a/a16331.html#acb359257b29354b5962d9865e06137e7", null ],
+    [ "_auraSpell", "d7/d1a/a16331.html#a497a74eca703470964157639a6f372e2", null ],
+    [ "_explosionSpell", "d7/d1a/a16331.html#ad1ad3a6f143bc84bad61070755752b2f", null ]
 ];

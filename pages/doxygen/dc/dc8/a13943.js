@@ -1,6 +1,10 @@
 var a13943 =
 [
-    [ "FilterTargets", "dc/dc8/a13943.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
-    [ "PrepareSpellScript", "dc/dc8/a13943.html#a0a1cbde8aff10303d91a791276a865f4", null ],
-    [ "Register", "dc/dc8/a13943.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "dc/dc8/a13943.html#af7d495f489979690615d091bbd9d539b", null ],
+    [ "CanAIAttack", "dc/dc8/a13943.html#af332a66852c9499912d8ef4959f394f5", null ],
+    [ "InitializeAI", "dc/dc8/a13943.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
+    [ "JustRespawned", "dc/dc8/a13943.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
+    [ "Reset", "dc/dc8/a13943.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
+    [ "UpdateAI", "dc/dc8/a13943.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
+    [ "_events", "dc/dc8/a13943.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
 ];

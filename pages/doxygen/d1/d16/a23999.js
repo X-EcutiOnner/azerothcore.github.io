@@ -1,6 +1,9 @@
 var a23999 =
 [
-    [ "go_magtheridons_head", "d1/d16/a23999.html#af5816b083f1856196bec7a75f0a995f3", null ],
-    [ "InitializeAI", "d1/d16/a23999.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
-    [ "OnStateChanged", "d1/d16/a23999.html#a28682d161074b71e1f2d70236ff2b897", null ]
+    [ "HandleEffectApply", "d1/d16/a23999.html#ac9e030810cc1ffb3927943353bcbb764", null ],
+    [ "HandleEffectRemove", "d1/d16/a23999.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
+    [ "Load", "d1/d16/a23999.html#a60f41c19f5104eef82048fd1e3416abd", null ],
+    [ "PrepareAuraScript", "d1/d16/a23999.html#a277d9865108acafac4b1a42bc5b5714b", null ],
+    [ "Register", "d1/d16/a23999.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
+    [ "_falconSet", "d1/d16/a23999.html#a1a20f75d251936bff7a0777831d79140", null ]
 ];

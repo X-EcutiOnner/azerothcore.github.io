@@ -1,7 +1,6 @@
 var a13387 =
 [
-    [ "HandleAfterCast", "d3/d54/a13387.html#a251ddadd9d26039da542c402e4ee254f", null ],
-    [ "PrepareSpellScript", "d3/d54/a13387.html#a91114aeb4f917ec5138a0c7b20688174", null ],
-    [ "Register", "d3/d54/a13387.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
-    [ "Validate", "d3/d54/a13387.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
+    [ "instance_sunken_temple_InstanceMapScript", "d7/d83/a13391.html", "d7/d83/a13391" ],
+    [ "instance_sunken_temple", "d3/d54/a13387.html#a123b052c1cd1487588c88bf2611bc53b", null ],
+    [ "GetInstanceScript", "d3/d54/a13387.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
 ];

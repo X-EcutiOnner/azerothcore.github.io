@@ -1,6 +1,10 @@
 var a25419 =
 [
-    [ "HandleItemRemove", "d1/dc4/a25419.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
-    [ "PrepareSpellScript", "d1/dc4/a25419.html#a8b43e146724a2c8b3c495e886a79d021", null ],
-    [ "Register", "d1/dc4/a25419.html#af8b02c31b81dce516ea47d6a1235d683", null ]
+    [ "spell_gen_summon_elemental", "d1/dc4/a25419.html#ae2dece3ac20afe16430e741fab909fa1", null ],
+    [ "AfterApply", "d1/dc4/a25419.html#a97fbc7e3f60b6aae5d9783bbd9a2415d", null ],
+    [ "AfterRemove", "d1/dc4/a25419.html#aeec3688e66a7e9f0207b219e9dcdb265", null ],
+    [ "PrepareAuraScript", "d1/dc4/a25419.html#a3ad6e5615bb080abae4e18673cd40b6d", null ],
+    [ "Register", "d1/dc4/a25419.html#ac364e1a3c4b5a1cfd35d8dcec0a42345", null ],
+    [ "Validate", "d1/dc4/a25419.html#ac2284d4f192fe402ebcf6ad75e777c2a", null ],
+    [ "_spellId", "d1/dc4/a25419.html#a6ac27b65f909a8c832cf3d301c8db0ce", null ]
 ];

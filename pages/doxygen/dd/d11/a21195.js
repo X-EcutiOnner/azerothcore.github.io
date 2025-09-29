@@ -1,6 +1,6 @@
 var a21195 =
 [
-    [ "boss_koralonAI", "d1/d63/a21199.html", "d1/d63/a21199" ],
-    [ "boss_koralon", "dd/d11/a21195.html#a43b9fb1224abeba44080fb02062451b0", null ],
-    [ "GetAI", "dd/d11/a21195.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
+    [ "HandleScript", "dd/d11/a21195.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
+    [ "PrepareSpellScript", "dd/d11/a21195.html#ab2a4155f6029850c61e84d7c180addae", null ],
+    [ "Register", "dd/d11/a21195.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
 ];

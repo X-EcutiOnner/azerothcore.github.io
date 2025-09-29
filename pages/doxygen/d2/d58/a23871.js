@@ -1,6 +1,6 @@
 var a23871 =
 [
-    [ "HandlePeriodic", "d2/d58/a23871.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
-    [ "PrepareAuraScript", "d2/d58/a23871.html#a438425f3002028a0978e0dbab580ca03", null ],
-    [ "Register", "d2/d58/a23871.html#af4b26607e8838b7bbbe8777f57601341", null ]
+    [ "boss_porung", "d2/d58/a23871.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "d2/d58/a23871.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "d2/d58/a23871.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

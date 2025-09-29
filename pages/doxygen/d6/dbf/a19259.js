@@ -1,14 +1,15 @@
 var a19259 =
 [
-    [ "boss_keristrasza", "d6/dbf/a19259.html#a5f83fee9a5616751601f0c1155afab36", null ],
-    [ "CanRemovePrison", "d6/dbf/a19259.html#a900a4a8428a04b880462b20196e94858", null ],
-    [ "GetData", "d6/dbf/a19259.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
-    [ "JustDied", "d6/dbf/a19259.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
-    [ "JustEngagedWith", "d6/dbf/a19259.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
-    [ "KilledUnit", "d6/dbf/a19259.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
-    [ "RemovePrison", "d6/dbf/a19259.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
-    [ "Reset", "d6/dbf/a19259.html#a13dce974fa83577397a80ff52de5d835", null ],
-    [ "SetData", "d6/dbf/a19259.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
-    [ "UpdateAI", "d6/dbf/a19259.html#a46a2e61e27cc72710c7aa14212673eae", null ],
-    [ "aGuids", "d6/dbf/a19259.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
+    [ "boss_heiganAI", "d6/dbf/a19259.html#a7aab8f8d2c3ccb434c2290362d03f89e", null ],
+    [ "IsInRoom", "d6/dbf/a19259.html#a3aee27fdbb0ce9c60f2115b878112ea8", null ],
+    [ "JustDied", "d6/dbf/a19259.html#a4a7389a2f81677fa5c0e871bc996fe26", null ],
+    [ "JustEngagedWith", "d6/dbf/a19259.html#a72a2ae89b7abede9f8a4cb3ee9d76258", null ],
+    [ "KilledUnit", "d6/dbf/a19259.html#a58160aefd36208ad7f0fec161a3f8b85", null ],
+    [ "Reset", "d6/dbf/a19259.html#a515a86419bdd1f755943a371b3601795", null ],
+    [ "StartFightPhase", "d6/dbf/a19259.html#a211387ae4f89d54a22a4f8515239d1c3", null ],
+    [ "UpdateAI", "d6/dbf/a19259.html#a9009ae9392e183758a48ebe59b9c0cf0", null ],
+    [ "currentPhase", "d6/dbf/a19259.html#a7b0a9b9f53cded3bc24ed22c1b643a30", null ],
+    [ "currentSection", "d6/dbf/a19259.html#a848fbc5aa8a497ae01057c6f0ba59e7a", null ],
+    [ "events", "d6/dbf/a19259.html#a7cc35d445aadf1eb252482522b8cc26d", null ],
+    [ "moveRight", "d6/dbf/a19259.html#a12da8a2326f0ac72e6ee8733c55139c8", null ]
 ];

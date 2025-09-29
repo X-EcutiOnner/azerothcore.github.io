@@ -1,6 +1,7 @@
 var a09623 =
 [
-    [ "DoorInfo", "d9/de9/a09623.html#a26f4849a1d68df466e6db0ccbb8d001b", null ],
-    [ "bossInfo", "d9/de9/a09623.html#a14f7742a1b272d0cd76dda6ce28cde26", null ],
-    [ "type", "d9/de9/a09623.html#ad77a91752ea10a11c8e73655e63dd5c1", null ]
+    [ "AddonHandler", "d9/de9/a09623.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
+    [ "~AddonHandler", "d9/de9/a09623.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
+    [ "BuildAddonPacket", "d9/de9/a09623.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
+    [ "instance", "d9/de9/a09623.html#a2925b829b803dd07e96685086357ef85", null ]
 ];

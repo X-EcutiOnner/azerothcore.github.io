@@ -1,7 +1,6 @@
 var a20127 =
 [
-    [ "npc_ulduar_icicleAI", "d2/d35/a20127.html#a258376e257fbe3c8a6c70b2585d44df1", null ],
-    [ "UpdateAI", "d2/d35/a20127.html#a0edf734ae2dac7a5378b21b73e3714c8", null ],
-    [ "timer1", "d2/d35/a20127.html#aa912acbe225d9056e44bc22b8d9f7473", null ],
-    [ "timer2", "d2/d35/a20127.html#a82e034fc4ccb8eb92abeb72a222764c7", null ]
+    [ "npc_pool_of_tarAI", "d2/d35/a20127.html#a6141addc9b1cf2c0028d98ef4f4d9d37", null ],
+    [ "DamageTaken", "d2/d35/a20127.html#a4ea55aa08123f724268238e0def5b595", null ],
+    [ "SpellHit", "d2/d35/a20127.html#acb63166b396c079d5b4bb9db67a1448a", null ]
 ];

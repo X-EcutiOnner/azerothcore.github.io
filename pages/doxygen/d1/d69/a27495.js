@@ -1,10 +1,7 @@
 var a27495 =
 [
-    [ "npc_air_force_botsAI", "d1/d69/a27495.html#a062eb272826d52ffd9b72054f970b761", null ],
-    [ "GetSummonedGuard", "d1/d69/a27495.html#ac4f39049ba15caf314939f12b82ccd05", null ],
-    [ "MoveInLineOfSight", "d1/d69/a27495.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
-    [ "Reset", "d1/d69/a27495.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
-    [ "SummonGuard", "d1/d69/a27495.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
-    [ "SpawnAssoc", "d1/d69/a27495.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
-    [ "SpawnedGUID", "d1/d69/a27495.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
+    [ "go_brewfest_musicAI", "d1/d69/a27495.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
+    [ "UpdateAI", "d1/d69/a27495.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
+    [ "_currentMusicEvent", "d1/d69/a27495.html#ad26a0309bdd4eafce4dfa310db929357", null ],
+    [ "_events", "d1/d69/a27495.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
 ];

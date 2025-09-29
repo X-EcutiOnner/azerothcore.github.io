@@ -1,14 +1,15 @@
 var a17243 =
 [
-    [ "npc_ball_of_flameAI", "dc/d36/a17243.html#a90314990bc6404bf2a4005bb94213926", null ],
-    [ "AttackStart", "dc/d36/a17243.html#a34d51c96005f620c0010948acb6c89ec", null ],
-    [ "DamageDealt", "dc/d36/a17243.html#ac2d36bc12bb86c329721a2af224d037f", null ],
-    [ "DoAction", "dc/d36/a17243.html#ac589db56562987de5bbed27a2bead49f", null ],
-    [ "MoveInLineOfSight", "dc/d36/a17243.html#a7bb96de89b9dc6b6f97443e9aec3ad61", null ],
-    [ "MovementInform", "dc/d36/a17243.html#ab18870c29224fc3fa5e7b76c1aa981f4", null ],
-    [ "SetGUID", "dc/d36/a17243.html#a809a33d832264eba92bf0847222bd23a", null ],
-    [ "_chaseGUID", "dc/d36/a17243.html#a30dc40f8922f8f34d6ad7ec3053413e4", null ],
-    [ "_exploded", "dc/d36/a17243.html#a724de41f7b14755d704d5de335da380b", null ],
-    [ "_instance", "dc/d36/a17243.html#af5d8717572176409eca01ae214910c7f", null ],
-    [ "_started", "dc/d36/a17243.html#a508a5e3f0acafa98956bba6eb41f28fb", null ]
+    [ "npc_pos_leaderAI", "dc/d36/a17243.html#a21973bccde394785f8619df7cae5270b", null ],
+    [ "AttackStart", "dc/d36/a17243.html#a6dc4161441752b8ea9baab642d6a0684", null ],
+    [ "JustSummoned", "dc/d36/a17243.html#a03bfcd0ea38073ff8481188d1b570553", null ],
+    [ "MoveInLineOfSight", "dc/d36/a17243.html#ad28f607b313f7729649261969912eba5", null ],
+    [ "Reset", "dc/d36/a17243.html#aee23a2835b84ac060a29b41c10116904", null ],
+    [ "SetData", "dc/d36/a17243.html#a2b49d5045e0d1e25e7a05b1e3ce65b4f", null ],
+    [ "SummonedCreatureDespawn", "dc/d36/a17243.html#a9a35459cf7b83c9f0afc557d1b0b40e7", null ],
+    [ "UpdateAI", "dc/d36/a17243.html#a1507ab4bdade501cf92f843cec20842d", null ],
+    [ "counter", "dc/d36/a17243.html#a7012a08c6409a40646dcd91a47eb6886", null ],
+    [ "events", "dc/d36/a17243.html#a7ea570e98c7a70ae604861c2166eb429", null ],
+    [ "pInstance", "dc/d36/a17243.html#a1ba3692738d6bd474d54fe8910a7f316", null ],
+    [ "summons", "dc/d36/a17243.html#a44b5ee694d96644da91167c7d793eeb3", null ]
 ];

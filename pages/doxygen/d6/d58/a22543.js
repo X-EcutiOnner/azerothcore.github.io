@@ -1,8 +1,8 @@
 var a22543 =
 [
-    [ "CalcPeriodic", "d6/d58/a22543.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
-    [ "OnRemove", "d6/d58/a22543.html#af120bb9d6a0c3d338706613540849412", null ],
-    [ "PrepareAuraScript", "d6/d58/a22543.html#ad413f14193013058e1775f80b457a81d", null ],
-    [ "Register", "d6/d58/a22543.html#aa35fc5865f108712e450661e67c384ce", null ],
-    [ "Update", "d6/d58/a22543.html#aebc61b57ed8038488ec06c14483b2099", null ]
+    [ "npc_hyldsmeet_protodrakeAI", "d6/d58/a22543.html#a30794392a32b1323fb0a86615b341741", null ],
+    [ "PassengerBoarded", "d6/d58/a22543.html#acb699d519bf79702a34b7d9910fe7c9e", null ],
+    [ "UpdateAI", "d6/d58/a22543.html#afd2168f8dc7328898f5e769c31c6da5a", null ],
+    [ "_accessoryRespawnTimer", "d6/d58/a22543.html#a4c6b4236bf35278d05c4b78f1eda6b75", null ],
+    [ "_vehicleKit", "d6/d58/a22543.html#aba68a138ef44af7d012c8c7dd4c06c6d", null ]
 ];

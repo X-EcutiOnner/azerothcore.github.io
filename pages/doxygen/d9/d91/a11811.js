@@ -1,9 +1,17 @@
 var a11811 =
 [
-    [ "npc_phalanxAI", "d9/d91/a11811.html#a1a09cd0b0cf765dec20ca9c3c5bb9373", null ],
-    [ "Reset", "d9/d91/a11811.html#a41a14315d82b169528bd764335c16d52", null ],
-    [ "UpdateAI", "d9/d91/a11811.html#a78092bfb2d9b8455b5348d872afc6521", null ],
-    [ "FireballVolley_Timer", "d9/d91/a11811.html#a0e7bedf19d7a69707fcfec9cbd3649e5", null ],
-    [ "MightyBlow_Timer", "d9/d91/a11811.html#ae8fe8a7313f573e910763d5a82303e66", null ],
-    [ "ThunderClap_Timer", "d9/d91/a11811.html#ab68781dcd728e2a0d021a0d52e43fd71", null ]
+    [ "gobject_commandscript", "d9/d91/a11811.html#a664ffe7aa07b1e08156545675ae5dc69", null ],
+    [ "GetCommands", "d9/d91/a11811.html#a75124102670615a7b3a0ecd457ab631a", null ],
+    [ "HandleGameObjectActivateCommand", "d9/d91/a11811.html#a2512dfca6b1ae8a2476551a02caa202a", null ],
+    [ "HandleGameObjectAddCommand", "d9/d91/a11811.html#a23717867956cc0da99e3640d2b790346", null ],
+    [ "HandleGameObjectAddTempCommand", "d9/d91/a11811.html#a49908d7c180d778c43702563add17d2d", null ],
+    [ "HandleGameObjectDeleteCommand", "d9/d91/a11811.html#a06ef45827cefcc19f748c5940dfb4b1d", null ],
+    [ "HandleGameObjectInfoCommand", "d9/d91/a11811.html#a1d6e3c850b0bc2772d3f1f09877d8a40", null ],
+    [ "HandleGameObjectMoveCommand", "d9/d91/a11811.html#a7098a5b0c94cb09b8c6fe08eba261d93", null ],
+    [ "HandleGameObjectNearCommand", "d9/d91/a11811.html#a156f293b3bf9c7439b62814ee8f27650", null ],
+    [ "HandleGameObjectRespawn", "d9/d91/a11811.html#aafed57aa556c8cdc0c380185b056d705", null ],
+    [ "HandleGameObjectSetPhaseCommand", "d9/d91/a11811.html#af2ac49c9fdd408be62dd4ee179c1142c", null ],
+    [ "HandleGameObjectSetStateCommand", "d9/d91/a11811.html#ae6d100f51d8b08e1576092eedc4db15f", null ],
+    [ "HandleGameObjectTargetCommand", "d9/d91/a11811.html#a11d33046310495c0a6d883a307c95632", null ],
+    [ "HandleGameObjectTurnCommand", "d9/d91/a11811.html#a75883394613b2c3501cd48f5334199b7", null ]
 ];

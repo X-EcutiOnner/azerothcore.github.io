@@ -1,7 +1,17 @@
 var a10999 =
 [
-    [ "IsValidOpcode", "d5/dc6/a10999.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
-    [ "IsValidSize", "d5/dc6/a10999.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
-    [ "cmd", "d5/dc6/a10999.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
-    [ "size", "d5/dc6/a10999.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
+    [ "CompactArray", "d5/dc6/a10999.html#a167096f1966862ec92556b6f5d3aa3b8", null ],
+    [ "CompactArray", "d5/dc6/a10999.html#a70adda7a73d5c54b1d29668f23778c9f", null ],
+    [ "CompactArray", "d5/dc6/a10999.html#a757f7d94e52fa821dc1fdb03877574f3", null ],
+    [ "Clear", "d5/dc6/a10999.html#ae213ad313a4b0688763e882a2010c494", null ],
+    [ "GetMask", "d5/dc6/a10999.html#a3a421d4ee2e7459cbc945c6c70c1993f", null ],
+    [ "GetSize", "d5/dc6/a10999.html#a656c3568cd73d10dd6f9cda1809ff509", null ],
+    [ "Insert", "d5/dc6/a10999.html#a313aedf5c623505860a227149cb64b5a", null ],
+    [ "operator!=", "d5/dc6/a10999.html#adaade1e09d979a6e98b90253f442a9e5", null ],
+    [ "operator=", "d5/dc6/a10999.html#a75f0995b55269fc2d0bca87a0294fcb3", null ],
+    [ "operator=", "d5/dc6/a10999.html#a14d76ffa09769e341dea769424ac586c", null ],
+    [ "operator==", "d5/dc6/a10999.html#a24c7c9794991ec3bf4ecefa93f8ee23e", null ],
+    [ "operator[]", "d5/dc6/a10999.html#af146d3e880ec34358ff6a07247f741d8", null ],
+    [ "_contents", "d5/dc6/a10999.html#a1e0ff07a4905517dc6e92a3615bc36d0", null ],
+    [ "_mask", "d5/dc6/a10999.html#a85ef9a03e561e385f41de88e6e0f98c0", null ]
 ];

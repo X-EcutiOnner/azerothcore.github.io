@@ -1,7 +1,6 @@
 var a16071 =
 [
-    [ "HandleScriptEffect", "d6/d4b/a16071.html#a9582a8faa1b8ba973a76d651a7479348", null ],
-    [ "PrepareSpellScript", "d6/d4b/a16071.html#a681102507df3aa365ee2e2f064be5e54", null ],
-    [ "Register", "d6/d4b/a16071.html#aebfea5eb3339ede812b43a08a8cb82b9", null ],
-    [ "Validate", "d6/d4b/a16071.html#ae4a5c7952856caf2a2d3919b24b61949", null ]
+    [ "boss_anub_arakAI", "da/d8c/a16075.html", "da/d8c/a16075" ],
+    [ "boss_anub_arak", "d6/d4b/a16071.html#ac2594f561b07069a312ed38c01d9c7da", null ],
+    [ "GetAI", "d6/d4b/a16071.html#a8687594354d514b99e026797ee71c70d", null ]
 ];

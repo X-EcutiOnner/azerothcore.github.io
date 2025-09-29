@@ -1,7 +1,9 @@
 var a17603 =
 [
-    [ "FilterTargets", "d2/d00/a17603.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
-    [ "Load", "d2/d00/a17603.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
-    [ "PrepareSpellScript", "d2/d00/a17603.html#a7526a6df4c25136f4be78e753c6abf62", null ],
-    [ "Register", "d2/d00/a17603.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
+    [ "CheckTarget", "d2/d00/a17603.html#a43fc6a16aca217ef043fa34a58391357", null ],
+    [ "HandlePresence", "d2/d00/a17603.html#a52ea6041c5fe004c1e996a974cc59d5d", null ],
+    [ "OnCast", "d2/d00/a17603.html#a96cec6f1b51a2c0c03f89447c5306b5a", null ],
+    [ "PrepareSpellScript", "d2/d00/a17603.html#abe559b32aa82f19abb0a6d664b75c748", null ],
+    [ "Register", "d2/d00/a17603.html#ad8c7a9935e85c06f837e694ebcaffba1", null ],
+    [ "Validate", "d2/d00/a17603.html#a2301414a88dcbf4bdc8a486ec4be994e", null ]
 ];

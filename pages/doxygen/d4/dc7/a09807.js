@@ -1,15 +1,9 @@
 var a09807 =
 [
-    [ "const_iterator", "d4/dc7/a09807.html#a78bdb53e78488faa65effb2706140558", null ],
-    [ "iterator", "d4/dc7/a09807.html#aff8f555370355b24f386c86d2f900bc3", null ],
-    [ "begin", "d4/dc7/a09807.html#a6774b551f0d64628e33594c7b486a872", null ],
-    [ "begin", "d4/dc7/a09807.html#a3ba9493437881e83c07f07cc992c274a", null ],
-    [ "end", "d4/dc7/a09807.html#af488c0096775085791b5fbc89e5851a0", null ],
-    [ "end", "d4/dc7/a09807.html#acb8ebd37d1458773b65311060e844e4b", null ],
-    [ "getFirst", "d4/dc7/a09807.html#a2981143744c8e08a42104a5d08659be4", null ],
-    [ "getFirst", "d4/dc7/a09807.html#a4d5eb2b65f0a586a3e809acb2c26f6cb", null ],
-    [ "getLast", "d4/dc7/a09807.html#ab9c66d320815602126292a14cae69872", null ],
-    [ "getLast", "d4/dc7/a09807.html#a6f7379252f5907d9240e3d364d3a8c02", null ],
-    [ "rbegin", "d4/dc7/a09807.html#a147b3fe09037c1b80bb122c627000b0a", null ],
-    [ "rend", "d4/dc7/a09807.html#afb985b9c750f3ff01cb1adaa6f86c78f", null ]
+    [ "RectangleBoundary", "d4/dc7/a09807.html#af401f84700a15fa1d4fcf78358a74735", null ],
+    [ "IsWithinBoundaryArea", "d4/dc7/a09807.html#a2d6c735d080382263a401d91da37b934", null ],
+    [ "_maxX", "d4/dc7/a09807.html#a3eff421dfe942634814e7526334f1c07", null ],
+    [ "_maxY", "d4/dc7/a09807.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
+    [ "_minX", "d4/dc7/a09807.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
+    [ "_minY", "d4/dc7/a09807.html#af5a7e35d5d9ff23c722643141f01a916", null ]
 ];

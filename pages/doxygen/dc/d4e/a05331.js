@@ -1,13 +1,9 @@
 var a05331 =
 [
-    [ "Logger", "dc/d4e/a05331.html#a79033d763c69dbfb95b1c591f1cc680b", null ],
-    [ "addAppender", "dc/d4e/a05331.html#aabacae0a84994e5567f9c87829909fdd", null ],
-    [ "delAppender", "dc/d4e/a05331.html#a1fb8747bf7b652b9dfbf9ee830a82c8b", null ],
-    [ "getLogLevel", "dc/d4e/a05331.html#aba945b0f037b7de27976d3a6e1a0fbbd", null ],
-    [ "getName", "dc/d4e/a05331.html#ae95167d7bb330ecc0a49779a5635d1e2", null ],
-    [ "setLogLevel", "dc/d4e/a05331.html#a00fdcdbeb39a2d5d4fb27cc36c35c101", null ],
-    [ "write", "dc/d4e/a05331.html#a3627f98e8676ee7b68a34a4d9439082e", null ],
-    [ "appenders", "dc/d4e/a05331.html#aa93931f2386ebc6dbf2464f536ed54f9", null ],
-    [ "level", "dc/d4e/a05331.html#a3b1d9dd7bd391ac7bed560918f82a03b", null ],
-    [ "name", "dc/d4e/a05331.html#ada299a7dd268085371557213e36695a9", null ]
+    [ "Count", "dc/d4e/a05331.html#a05f606f459c905632d1452727bc93a0d", null ],
+    [ "GetElements", "dc/d4e/a05331.html#a260f2bd14ae022a5810539ba87cec51e", null ],
+    [ "GetElements", "dc/d4e/a05331.html#ae04b24e63268c7b60bea36beec148a8a", null ],
+    [ "Insert", "dc/d4e/a05331.html#a791a9c0d1c878323960e529e0c7b66c8", null ],
+    [ "Remove", "dc/d4e/a05331.html#abfb5e987b1c711d259896708887ca6d7", null ],
+    [ "i_elements", "dc/d4e/a05331.html#a095f3a1caf74ca4e9e12ecca538a0cc4", null ]
 ];

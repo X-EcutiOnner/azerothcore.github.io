@@ -1,5 +1,7 @@
 var a26955 =
 [
-    [ "achievement_bg_ic_glaive_grave", "d8/d8f/a26955.html#a97e1cead0102a120b3bd14592ea26034", null ],
-    [ "OnCheck", "d8/d8f/a26955.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
+    [ "HandleEffectProc", "d8/d8f/a26955.html#a7f2ddbf54a4932277ad91eb0036915ab", null ],
+    [ "PrepareAuraScript", "d8/d8f/a26955.html#a47d844a9700cd8add793e3f3088d1b82", null ],
+    [ "Register", "d8/d8f/a26955.html#ad40dfc164ab98fc9734e1ed15ea14c17", null ],
+    [ "Validate", "d8/d8f/a26955.html#a97f5239399e7135b02000722eaf837ad", null ]
 ];

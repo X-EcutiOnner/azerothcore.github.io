@@ -1,6 +1,8 @@
 var a04469 =
 [
-    [ "CharacterCacheEntry", "d2/d32/a07490.html", "d2/d32/a07490" ],
-    [ "CharacterCache", "df/dbf/a07494.html", "df/dbf/a07494" ],
-    [ "sCharacterCache", "d5/d55/a04469.html#a7a32c898b33d6163d83a32f46d58517c", null ]
+    [ "LIQUID_TILE_SIZE", "d5/d55/a04469.html#a1596e8a465c0638086c77467a2dde3a6", null ],
+    [ "readChunk", "d5/d55/a04469.html#a166f3eeee53079ac9df4f15ccd577974", null ],
+    [ "GAMEOBJECT_MODELS", "d5/d55/a04469.html#ada4191301386f881525b3f0b0760cb60", null ],
+    [ "RAW_VMAP_MAGIC", "d5/d55/a04469.html#ab44884fb6c05cb4ae128d5882a2c4b7c", null ],
+    [ "VMAP_MAGIC", "d5/d55/a04469.html#aa7e5a571fdcb9d62ceefdcf5744746cb", null ]
 ];

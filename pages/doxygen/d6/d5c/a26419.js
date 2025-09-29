@@ -1,6 +1,7 @@
 var a26419 =
 [
-    [ "HandleEffectPeriodic", "d6/d5c/a26419.html#ab283b40ceb6dcd0a835550531321ce92", null ],
-    [ "PrepareAuraScript", "d6/d5c/a26419.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
-    [ "Register", "d6/d5c/a26419.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
+    [ "HandleProc", "d6/d5c/a26419.html#a72463db57f87387aa3ff3175c45ca9df", null ],
+    [ "PrepareAuraScript", "d6/d5c/a26419.html#ae158b4b624b50ad984b2c5e9c16d7670", null ],
+    [ "Register", "d6/d5c/a26419.html#a2da64a27cfa5a68464f8f3a885e09751", null ],
+    [ "Validate", "d6/d5c/a26419.html#a798f51ee6333d3ebb2bbb617ea88ea2b", null ]
 ];

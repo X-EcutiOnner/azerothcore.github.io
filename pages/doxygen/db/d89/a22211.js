@@ -1,6 +1,6 @@
 var a22211 =
 [
-    [ "npc_wild_wyrmAI", "d6/d0e/a22215.html", "d6/d0e/a22215" ],
-    [ "npc_wild_wyrm", "db/d89/a22211.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
-    [ "GetAI", "db/d89/a22211.html#aedba91446fe12997047070f123d925d2", null ]
+    [ "HandleOnEffectRemove", "db/d89/a22211.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "db/d89/a22211.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "db/d89/a22211.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

@@ -1,65 +1,25 @@
 var a01331 =
 [
-    [ "spell_q10935_the_exorcism_of_colonel_jules", "d7/d2a/a24226.html", "d7/d2a/a24226" ],
-    [ "npc_aeranas", "dd/dfe/a24230.html", "dd/dfe/a24230" ],
-    [ "npc_aeranas::npc_aeranasAI", "db/dc3/a24234.html", "db/dc3/a24234" ],
-    [ "npc_ancestral_wolf", "dd/df6/a24238.html", "dd/df6/a24238" ],
-    [ "npc_ancestral_wolf::npc_ancestral_wolfAI", "db/d9d/a24242.html", "db/d9d/a24242" ],
-    [ "npc_wounded_blood_elf", "d1/de7/a24246.html", "d1/de7/a24246" ],
-    [ "npc_wounded_blood_elf::npc_wounded_blood_elfAI", "d7/dba/a24250.html", "d7/dba/a24250" ],
-    [ "npc_fel_guard_hound", "dd/dd2/a24254.html", "dd/dd2/a24254" ],
-    [ "npc_fel_guard_hound::npc_fel_guard_houndAI", "de/d7b/a24258.html", "de/d7b/a24258" ],
-    [ "npc_magister_aledis", "d5/df0/a24262.html", "d5/df0/a24262" ],
-    [ "go_beacon", "da/d9a/a24266.html", "da/d9a/a24266" ],
-    [ "go_beacon::go_beaconAI", "d2/dad/a24270.html", "d2/dad/a24270" ],
-    [ "go_magtheridons_head", "d2/d1c/a24274.html", "d2/d1c/a24274" ],
-    [ "Aeranas", "dc/d8e/a01331.html#a35e86459585ec89189aab3acab8ed4ca", [
-      [ "SAY_SUMMON", "dc/d8e/a01331.html#a35e86459585ec89189aab3acab8ed4caacebbfa1f13b8de4f039f5d550063c7bf", null ],
-      [ "SAY_FREE", "dc/d8e/a01331.html#a35e86459585ec89189aab3acab8ed4caa27368277122194007f925387131a1eb9", null ],
-      [ "SPELL_ENVELOPING_WINDS", "dc/d8e/a01331.html#a35e86459585ec89189aab3acab8ed4caacf98b779c795324d47e44b043eeacf92", null ],
-      [ "SPELL_SHOCK", "dc/d8e/a01331.html#a35e86459585ec89189aab3acab8ed4caa30aa4cac2f70a310466b3fb0f2d10eab", null ]
-    ] ],
-    [ "Aledis", "dc/d8e/a01331.html#a03c6f57f8a159946f896f5702ca14dce", [
-      [ "SAY_CHALLENGE", "dc/d8e/a01331.html#a03c6f57f8a159946f896f5702ca14dcea3673de22d7f7ff97fa58d05bda2e1e19", null ],
-      [ "SAY_DEFEATED", "dc/d8e/a01331.html#a03c6f57f8a159946f896f5702ca14dceac03c09df1ddcc4faeb33ce6334bdf677", null ],
-      [ "EVENT_TALK", "dc/d8e/a01331.html#a03c6f57f8a159946f896f5702ca14dcead8d5fcaf7b3bfdd91e6337d222c1620f", null ],
-      [ "EVENT_ATTACK", "dc/d8e/a01331.html#a03c6f57f8a159946f896f5702ca14dcea0ae9cb03e0fdc3b6ba005dcf01279360", null ],
-      [ "EVENT_EVADE", "dc/d8e/a01331.html#a03c6f57f8a159946f896f5702ca14dceac76f74b24db9c237bcec4674c4783ca4", null ],
-      [ "EVENT_FIREBALL", "dc/d8e/a01331.html#a03c6f57f8a159946f896f5702ca14dcea2f41794aafc9d878c1d2e3aa735cbf44", null ],
-      [ "EVENT_FROSTNOVA", "dc/d8e/a01331.html#a03c6f57f8a159946f896f5702ca14dceadaeaec1cfb428809aea8f40a63d94a3e", null ],
-      [ "SPELL_FIREBALL", "dc/d8e/a01331.html#a03c6f57f8a159946f896f5702ca14dcea846055c995374082714483a6b39bc963", null ],
-      [ "SPELL_FROSTNOVA", "dc/d8e/a01331.html#a03c6f57f8a159946f896f5702ca14dcead434ff150c6b4a05fa0e2d914374690b", null ]
-    ] ],
-    [ "AncestralWolf", "dc/d8e/a01331.html#ae0ad636572003d2f340b9f5853329b31", [
-      [ "EMOTE_WOLF_LIFT_HEAD", "dc/d8e/a01331.html#ae0ad636572003d2f340b9f5853329b31a3d71eb68225f60940079e2c6d5b848bb", null ],
-      [ "EMOTE_WOLF_HOWL", "dc/d8e/a01331.html#ae0ad636572003d2f340b9f5853329b31a89cae72f3324d089afca2e6ec3bab2b0", null ],
-      [ "SAY_WOLF_WELCOME", "dc/d8e/a01331.html#ae0ad636572003d2f340b9f5853329b31a129ec8cc004776adf7eede6faee16398", null ],
-      [ "SPELL_GUIDED_BY_THE_SPIRITS", "dc/d8e/a01331.html#ae0ad636572003d2f340b9f5853329b31a49de5a0a57dffbeebdb91a8ad307328d", null ],
-      [ "NPC_RYGA", "dc/d8e/a01331.html#ae0ad636572003d2f340b9f5853329b31a4c5c75439f08ad6a8f448db8931dd14d", null ]
-    ] ],
-    [ "Beacon", "dc/d8e/a01331.html#aa0353d38e414033b4eac645836037a9c", [
-      [ "NPC_STONESCHYE_WHELP", "dc/d8e/a01331.html#aa0353d38e414033b4eac645836037a9ca735f9b0923e7a2f2b40c91e7bfd5a6c8", null ]
-    ] ],
-    [ "FelGuard", "dc/d8e/a01331.html#af0944e670cdc4872cb4e1de78159ef88", [
-      [ "SPELL_SUMMON_POO", "dc/d8e/a01331.html#af0944e670cdc4872cb4e1de78159ef88acaf3b07d165603ce6a87d5e137c8bc6c", null ],
-      [ "NPC_DERANGED_HELBOAR", "dc/d8e/a01331.html#af0944e670cdc4872cb4e1de78159ef88a74a22ffd9e172700137c4a85ec978333", null ],
-      [ "QUEST_SHIZZ_WORK", "dc/d8e/a01331.html#af0944e670cdc4872cb4e1de78159ef88a22cc94ada0c254f3d3848e67f5701588", null ]
-    ] ],
-    [ "q10935Exorcism", "dc/d8e/a01331.html#a2b917ea5e39342011ca6dcdac24e869e", [
-      [ "SPELL_HOLY_FIRE", "dc/d8e/a01331.html#a2b917ea5e39342011ca6dcdac24e869eac3a4396238fbb11f537aa061424abe2b", null ],
-      [ "SPELL_HEAL_BARADA", "dc/d8e/a01331.html#a2b917ea5e39342011ca6dcdac24e869eae33e5e18452ad49b09d4403d2b856efd", null ]
-    ] ],
-    [ "WoundedBloodElf", "dc/d8e/a01331.html#a1b44ea4940860848073d89e7761e5d9e", [
-      [ "SAY_ELF_START", "dc/d8e/a01331.html#a1b44ea4940860848073d89e7761e5d9ea52186d9cbaa4a5d1e385d2fe13503a97", null ],
-      [ "SAY_ELF_SUMMON1", "dc/d8e/a01331.html#a1b44ea4940860848073d89e7761e5d9ea3b168b2787eb695fadbe796416731ba3", null ],
-      [ "SAY_ELF_RESTING", "dc/d8e/a01331.html#a1b44ea4940860848073d89e7761e5d9ea6cd155f2503f730d0d12456613b29964", null ],
-      [ "SAY_ELF_SUMMON2", "dc/d8e/a01331.html#a1b44ea4940860848073d89e7761e5d9ea678e628b153b8961e58fe7f936fd9c61", null ],
-      [ "SAY_ELF_COMPLETE", "dc/d8e/a01331.html#a1b44ea4940860848073d89e7761e5d9eae06761dd5b07e038a394a2c7e72e93a7", null ],
-      [ "SAY_ELF_AGGRO", "dc/d8e/a01331.html#a1b44ea4940860848073d89e7761e5d9eabfc964a1cc07a0fdf8782361353d8a5c", null ],
-      [ "QUEST_ROAD_TO_FALCON_WATCH", "dc/d8e/a01331.html#a1b44ea4940860848073d89e7761e5d9eaaca23046d9ea87abc77d28689e3349ed", null ],
-      [ "NPC_HAALESHI_WINDWALKER", "dc/d8e/a01331.html#a1b44ea4940860848073d89e7761e5d9eafbcba9ddc06cf15e740c08aa796f43ba", null ],
-      [ "NPC_HAALESHI_TALONGUARD", "dc/d8e/a01331.html#a1b44ea4940860848073d89e7761e5d9ea338245af1e86a4794f18dc3072957088", null ],
-      [ "ARAKKOA_CAGE", "dc/d8e/a01331.html#a1b44ea4940860848073d89e7761e5d9eafe47930a46107b8a21f186ef6f97ddf7", null ]
-    ] ],
-    [ "AddSC_hellfire_peninsula", "dc/d8e/a01331.html#ae450311c68322300a0e6fb8091cd8936", null ]
+    [ "MiscScript", "dd/da9/a10395.html", "dd/da9/a10395" ],
+    [ "MiscHook", "dc/d8e/a01331.html#af37f873b1735a7e1f78da6f2f334c134", [
+      [ "MISCHOOK_ON_CONSTRUCT_OBJECT", "dc/d8e/a01331.html#af37f873b1735a7e1f78da6f2f334c134aced03c29bfe1b673cd653f80f983c9fb", null ],
+      [ "MISCHOOK_ON_DESTRUCT_OBJECT", "dc/d8e/a01331.html#af37f873b1735a7e1f78da6f2f334c134a9733f4054c726297206f0d94936b198f", null ],
+      [ "MISCHOOK_ON_CONSTRUCT_PLAYER", "dc/d8e/a01331.html#af37f873b1735a7e1f78da6f2f334c134ab44e63644ffca18d22fd8f100d741439", null ],
+      [ "MISCHOOK_ON_DESTRUCT_PLAYER", "dc/d8e/a01331.html#af37f873b1735a7e1f78da6f2f334c134a5cc41f8f78b3b4e4d2339ef9081298bf", null ],
+      [ "MISCHOOK_ON_CONSTRUCT_GROUP", "dc/d8e/a01331.html#af37f873b1735a7e1f78da6f2f334c134a1ca06f199a58422ef7353799ca54ae72", null ],
+      [ "MISCHOOK_ON_DESTRUCT_GROUP", "dc/d8e/a01331.html#af37f873b1735a7e1f78da6f2f334c134a3ce8336f58fbbc6e7eb236bbaea4e6da", null ],
+      [ "MISCHOOK_ON_CONSTRUCT_INSTANCE_SAVE", "dc/d8e/a01331.html#af37f873b1735a7e1f78da6f2f334c134a56a3d6798447586097a2539a15cb4aa2", null ],
+      [ "MISCHOOK_ON_DESTRUCT_INSTANCE_SAVE", "dc/d8e/a01331.html#af37f873b1735a7e1f78da6f2f334c134ace5f04f0c222b965d512026b695922c5", null ],
+      [ "MISCHOOK_ON_ITEM_CREATE", "dc/d8e/a01331.html#af37f873b1735a7e1f78da6f2f334c134aadbe4a9d67dbca7b90292899c0ae8d4c", null ],
+      [ "MISCHOOK_CAN_APPLY_SOULBOUND_FLAG", "dc/d8e/a01331.html#af37f873b1735a7e1f78da6f2f334c134a5d3215bd4e18f89cb0a717a84829e17f", null ],
+      [ "MISCHOOK_CAN_ITEM_APPLY_EQUIP_SPELL", "dc/d8e/a01331.html#af37f873b1735a7e1f78da6f2f334c134ae9bacf4ccf18f7e88d8aa9f83bdebded", null ],
+      [ "MISCHOOK_CAN_SEND_AUCTIONHELLO", "dc/d8e/a01331.html#af37f873b1735a7e1f78da6f2f334c134a584163956c233073e85f343585092a27", null ],
+      [ "MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL", "dc/d8e/a01331.html#af37f873b1735a7e1f78da6f2f334c134ad8dcf71de9c5c4a16743e80d66ac70c0", null ],
+      [ "MISCHOOK_VALIDATE_SPELL_AT_CAST_SPELL_RESULT", "dc/d8e/a01331.html#af37f873b1735a7e1f78da6f2f334c134a0de17e7f67dd7280da04e7a2fc502433", null ],
+      [ "MISCHOOK_ON_AFTER_LOOT_TEMPLATE_PROCESS", "dc/d8e/a01331.html#af37f873b1735a7e1f78da6f2f334c134ad88e01abe00726c718edd6c7903ec8ea", null ],
+      [ "MISCHOOK_ON_PLAYER_SET_PHASE", "dc/d8e/a01331.html#af37f873b1735a7e1f78da6f2f334c134a26ed92ee73e91e93437535e17f9d1616", null ],
+      [ "MISCHOOK_ON_INSTANCE_SAVE", "dc/d8e/a01331.html#af37f873b1735a7e1f78da6f2f334c134a29a966b43bc8252d88a8ecdeb4c9928f", null ],
+      [ "MISCHOOK_GET_DIALOG_STATUS", "dc/d8e/a01331.html#af37f873b1735a7e1f78da6f2f334c134a9c2cb4ea6da418aff3e4f1cad36a6490", null ],
+      [ "MISCHOOK_END", "dc/d8e/a01331.html#af37f873b1735a7e1f78da6f2f334c134ae8c3fca40135e387a84d7156f26a16c9", null ]
+    ] ]
 ];

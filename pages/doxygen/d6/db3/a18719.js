@@ -1,9 +1,6 @@
 var a18719 =
 [
-    [ "npc_icc_skybreaker_marksmanAI", "d6/db3/a18719.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
-    [ "AttackStart", "d6/db3/a18719.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
-    [ "JustEngagedWith", "d6/db3/a18719.html#a7648c626ded6d3abef798b46c77f991d", null ],
-    [ "Reset", "d6/db3/a18719.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
-    [ "UpdateAI", "d6/db3/a18719.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
-    [ "events", "d6/db3/a18719.html#a5aaffc1e78c255c95893be1537e520d6", null ]
+    [ "npc_blistering_zombieAI", "d5/db7/a18723.html", "d5/db7/a18723" ],
+    [ "npc_blistering_zombie", "d6/db3/a18719.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
+    [ "GetAI", "d6/db3/a18719.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
 ];

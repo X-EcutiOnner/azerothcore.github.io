@@ -1,6 +1,5 @@
 var a09775 =
 [
-    [ "AllowMount", "da/d24/a09775.html#a611108f0c1f623bb0761a174e477df22", null ],
-    [ "Parent", "da/d24/a09775.html#a6298c3dd0c8939b1cf228727c363918e", null ],
-    [ "ScriptId", "da/d24/a09775.html#ac9cdaf7fc486bc89b5c5d95ac13146da", null ]
+    [ "item_guid", "da/d24/a09775.html#a4033ef7b03b28881e28434ae796fb6ed", null ],
+    [ "item_template", "da/d24/a09775.html#ac7e05ac4dcc5d4f94b3291d819c7c86b", null ]
 ];

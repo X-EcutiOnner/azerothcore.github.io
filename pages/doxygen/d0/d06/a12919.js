@@ -1,12 +1,12 @@
 var a12919 =
 [
-    [ "npc_koltira_deathweaverAI", "d0/d06/a12919.html#adbc46fce90170aec986faacf012bd2b2", null ],
-    [ "MovementInform", "d0/d06/a12919.html#afed53c190d875d0e59775ebfeb749fcf", null ],
-    [ "Reset", "d0/d06/a12919.html#ac07053d3798d57449c23bfff68e12f1b", null ],
-    [ "sGossipSelect", "d0/d06/a12919.html#af481beffaeb97a69483a62fd5f110616", null ],
-    [ "sQuestAccept", "d0/d06/a12919.html#a83fa04558bc7617b561ec05da9f2a6a1", null ],
-    [ "StartEvent", "d0/d06/a12919.html#aa4f0df71fb88f6685f2c27f19a34b2b3", null ],
-    [ "SummonedCreatureDies", "d0/d06/a12919.html#a967575fafe29db364b4e6a00a5e0457b", null ],
-    [ "UpdateAI", "d0/d06/a12919.html#ac90ed956ba45b6363a21af76393126ac", null ],
-    [ "_valrothGUID", "d0/d06/a12919.html#ad041942412fb8288ff5f850ee6472e78", null ]
+    [ "boss_bigbadwolf", "d0/d06/a12919.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
+    [ "EnterEvadeMode", "d0/d06/a12919.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
+    [ "JustDied", "d0/d06/a12919.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
+    [ "JustEngagedWith", "d0/d06/a12919.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
+    [ "JustReachedHome", "d0/d06/a12919.html#a7755bf925d919c73075a41f8774280c0", null ],
+    [ "KilledUnit", "d0/d06/a12919.html#a8e004a1feac796ed467eba744f211827", null ],
+    [ "UpdateAI", "d0/d06/a12919.html#ab788a0155a3ffe6535d58263eea16dee", null ],
+    [ "_scheduler", "d0/d06/a12919.html#a661d9b619be30764ba5b89d71de870e9", null ],
+    [ "instance", "d0/d06/a12919.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
 ];

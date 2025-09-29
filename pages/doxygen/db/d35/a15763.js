@@ -1,8 +1,6 @@
 var a15763 =
 [
-    [ "HandleScriptEffect", "db/d35/a15763.html#af3e18fa5befc7124f2a3dbcd36259e6b", null ],
-    [ "Load", "db/d35/a15763.html#ab293f8b536957558fa8886e1f4a23e74", null ],
-    [ "PrepareSpellScript", "db/d35/a15763.html#ae4a1abf2e39c6806d804dea9ce5808ef", null ],
-    [ "Register", "db/d35/a15763.html#a9fb54f0662982dec90c2e6f8568421ed", null ],
-    [ "Validate", "db/d35/a15763.html#a2bee81d684c4739bb6247bfbdb74a21b", null ]
+    [ "npc_anachronos_quest_triggerAI", "d9/d94/a15767.html", "d9/d94/a15767" ],
+    [ "npc_anachronos_quest_trigger", "db/d35/a15763.html#ad39871952acd3152b51820fe360f4ebd", null ],
+    [ "GetAI", "db/d35/a15763.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
 ];

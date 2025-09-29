@@ -1,6 +1,5 @@
 var a27287 =
 [
-    [ "go_soulwellAI", "dc/dbd/a27291.html", "dc/dbd/a27291" ],
-    [ "go_soulwell", "dc/d55/a27287.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
-    [ "GetAI", "dc/d55/a27287.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
+    [ "achievement_not_even_a_scratch", "dc/d55/a27287.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "dc/d55/a27287.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

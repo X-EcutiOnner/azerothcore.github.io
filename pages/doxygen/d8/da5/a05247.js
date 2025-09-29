@@ -1,13 +1,9 @@
 var a05247 =
 [
-    [ "Logger", "d8/da5/a05247.html#a79033d763c69dbfb95b1c591f1cc680b", null ],
-    [ "addAppender", "d8/da5/a05247.html#aabacae0a84994e5567f9c87829909fdd", null ],
-    [ "delAppender", "d8/da5/a05247.html#a1fb8747bf7b652b9dfbf9ee830a82c8b", null ],
-    [ "getLogLevel", "d8/da5/a05247.html#aba945b0f037b7de27976d3a6e1a0fbbd", null ],
-    [ "getName", "d8/da5/a05247.html#ae95167d7bb330ecc0a49779a5635d1e2", null ],
-    [ "setLogLevel", "d8/da5/a05247.html#a00fdcdbeb39a2d5d4fb27cc36c35c101", null ],
-    [ "write", "d8/da5/a05247.html#a3627f98e8676ee7b68a34a4d9439082e", null ],
-    [ "appenders", "d8/da5/a05247.html#aa93931f2386ebc6dbf2464f536ed54f9", null ],
-    [ "level", "d8/da5/a05247.html#a3b1d9dd7bd391ac7bed560918f82a03b", null ],
-    [ "name", "d8/da5/a05247.html#ada299a7dd268085371557213e36695a9", null ]
+    [ "FactoryHolderRegistry", "d8/da5/a05247.html#a5384598eca62a35bc617a4c395353ecd", null ],
+    [ "FactoryHolder", "d8/da5/a05247.html#a5e7097c2a475378023f33ec430f4ca85", null ],
+    [ "~FactoryHolder", "d8/da5/a05247.html#a78673bd2f3d857127c1a91c49e3cd62f", null ],
+    [ "Create", "d8/da5/a05247.html#a7072fb7dfe99890dea89b1ba661eb3ce", null ],
+    [ "RegisterSelf", "d8/da5/a05247.html#a9e173f9daaf5c2de36bb8b46da4249e1", null ],
+    [ "_key", "d8/da5/a05247.html#a98c0e66f8caaa207771efd82b2c2f9aa", null ]
 ];

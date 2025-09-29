@@ -1,9 +1,6 @@
 var a27483 =
 [
-    [ "npc_target_dummyAI", "d9/df4/a27483.html#a117e45559ea721877d73df4b3c18a259", null ],
-    [ "EnterEvadeMode", "d9/df4/a27483.html#a8f7f2e4decc676e378b4929516f8a147", null ],
-    [ "MoveInLineOfSight", "d9/df4/a27483.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
-    [ "Reset", "d9/df4/a27483.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
-    [ "UpdateAI", "d9/df4/a27483.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
-    [ "deathTimer", "d9/df4/a27483.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
+    [ "go_l70_etc_musicAI", "d9/de2/a27487.html", "d9/de2/a27487" ],
+    [ "go_l70_etc_music", "d9/df4/a27483.html#a766dccca12fc7959273ba1e3a278564f", null ],
+    [ "GetAI", "d9/df4/a27483.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
 ];

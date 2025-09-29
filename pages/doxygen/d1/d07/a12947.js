@@ -1,8 +1,7 @@
 var a12947 =
 [
-    [ "DelayedSummonEvent", "d1/d07/a12947.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
-    [ "Execute", "d1/d07/a12947.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
-    [ "_entry", "d1/d07/a12947.html#a24d72110a070eb0bd03af081ef616de4", null ],
-    [ "_owner", "d1/d07/a12947.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
-    [ "_pos", "d1/d07/a12947.html#aef19987803a1cce47cbd8d9005a288ac", null ]
+    [ "HandleDummy", "d1/d07/a12947.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
+    [ "PrepareSpellScript", "d1/d07/a12947.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
+    [ "Register", "d1/d07/a12947.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
+    [ "Validate", "d1/d07/a12947.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
 ];

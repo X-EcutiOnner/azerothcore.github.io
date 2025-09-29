@@ -1,7 +1,7 @@
 var a26435 =
 [
-    [ "HandleEffectPeriodic", "df/df4/a26435.html#a2fab66e86d3c0207183db72ecbb6fc6c", null ],
-    [ "PrepareAuraScript", "df/df4/a26435.html#ae0e3b459c71933c25da8136cdcddf200", null ],
-    [ "Register", "df/df4/a26435.html#ac924ebbc893476cabab5f05120d0cd8d", null ],
-    [ "Validate", "df/df4/a26435.html#ada327cf500aec62fdf34f9d8a4ccd6e2", null ]
+    [ "HandleScriptEffect", "df/df4/a26435.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
+    [ "Load", "df/df4/a26435.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
+    [ "PrepareSpellScript", "df/df4/a26435.html#ade09cd376d00df8b5e709026e353f409", null ],
+    [ "Register", "df/df4/a26435.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
 ];

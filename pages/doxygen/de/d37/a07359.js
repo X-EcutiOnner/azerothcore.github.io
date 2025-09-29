@@ -1,9 +1,10 @@
 var a07359 =
 [
-    [ "BattlegroundEYScore", "de/d37/a07359.html#a91c17f1ff1924439b05840cd11ede36f", null ],
-    [ "BuildObjectivesBlock", "de/d37/a07359.html#a8a915f38f28ee3929c7922b9fa8f38d6", null ],
-    [ "GetAttr1", "de/d37/a07359.html#a43d4b01a1f3c8325795d90f2a97c230c", null ],
-    [ "UpdateScore", "de/d37/a07359.html#afad034f453c54587b86532a37335ab18", null ],
-    [ "BattlegroundEY", "de/d37/a07359.html#a5d809f1fdf1bb7a29d7504e432e10b8f", null ],
-    [ "FlagCaptures", "de/d37/a07359.html#a057a335c7491c1031666e6d10cf314b2", null ]
+    [ "SelectionPool", "de/d37/a07359.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
+    [ "AddGroup", "de/d37/a07359.html#a87fe4747536355ad7affda76640a082e", null ],
+    [ "GetPlayerCount", "de/d37/a07359.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
+    [ "Init", "de/d37/a07359.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
+    [ "KickGroup", "de/d37/a07359.html#a74fb708546a8612ca52b24b8472b71ef", null ],
+    [ "PlayerCount", "de/d37/a07359.html#a0c08c47f68dbb45175efc524f4553e16", null ],
+    [ "SelectedGroups", "de/d37/a07359.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
 ];

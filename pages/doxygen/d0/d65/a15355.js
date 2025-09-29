@@ -1,7 +1,13 @@
 var a15355 =
 [
-    [ "npc_aged_dying_ancient_kodoAI", "d0/d65/a15355.html#aaed19d0c915891d8afecda7df75a8a75", null ],
-    [ "JustRespawned", "d0/d65/a15355.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
-    [ "MoveInLineOfSight", "d0/d65/a15355.html#a295d4bef97b97c7deb31a81274f0818d", null ],
-    [ "SpellHit", "d0/d65/a15355.html#a021b82aa6bd2e118fe810f18349fda42", null ]
+    [ "npc_dirt_mound", "d0/d65/a15355.html#add7daefa1c96fb9d843248f8ca4796f6", null ],
+    [ "ChaseNewTarget", "d0/d65/a15355.html#a16656fb7ad8cda5916e8da0002cf0292", null ],
+    [ "EnterEvadeMode", "d0/d65/a15355.html#ac5fdeea9dc5553b689d3a8a9b0b73d34", null ],
+    [ "JustEngagedWith", "d0/d65/a15355.html#abf39fb8d63325eea7928b88b2b486ad2", null ],
+    [ "JustSummoned", "d0/d65/a15355.html#a5da17256d0cd4f6cb0e1256afe4b6539", null ],
+    [ "Reset", "d0/d65/a15355.html#ae1662eb73f21351e07d00a717421de68", null ],
+    [ "SetData", "d0/d65/a15355.html#a4faa65dd3260104202e4bdd34bc0b67d", null ],
+    [ "UpdateAI", "d0/d65/a15355.html#a88447191070cf8b84df96db565eef48d", null ],
+    [ "_instance", "d0/d65/a15355.html#ac9f138567a4367aeb5d7b1f6caea90c6", null ],
+    [ "_ouroHealth", "d0/d65/a15355.html#ac83391fa5069ae4574748f82d15e833d", null ]
 ];

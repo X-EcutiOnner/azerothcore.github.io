@@ -1,6 +1,12 @@
 var a22043 =
 [
-    [ "HandleDummy", "db/d18/a22043.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
-    [ "PrepareSpellScript", "db/d18/a22043.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
-    [ "Register", "db/d18/a22043.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
+    [ "npc_q24545_wretched_ghoulAI", "db/d18/a22043.html#a0e4d9b3acd1de2cd44d0a6a22007e026", null ],
+    [ "Activate", "db/d18/a22043.html#a52f64cef6159a3bfe29a6ac551b5bbe2", null ],
+    [ "AttackStart", "db/d18/a22043.html#a9453e2fe00c656ded0bad4d9036dbd2a", null ],
+    [ "CanAIAttack", "db/d18/a22043.html#a9cf57308ea588cc2febb0bb2666c2afe", null ],
+    [ "Deactivate", "db/d18/a22043.html#af7dd65b8c0a1b5b55752d7f6b85f21cc", null ],
+    [ "DoAction", "db/d18/a22043.html#a77aad4a0446fac68a5d1785acbe825eb", null ],
+    [ "JustDied", "db/d18/a22043.html#a2fc9b40d72eea88b2245e6b01b17384a", null ],
+    [ "JustRespawned", "db/d18/a22043.html#ab30068f7082176c279e0667f72d750a3", null ],
+    [ "Reset", "db/d18/a22043.html#ad94a4789b5ba019d021682f15df13589", null ]
 ];

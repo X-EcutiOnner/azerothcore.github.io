@@ -1,7 +1,7 @@
 var a27187 =
 [
-    [ "go_bear_trapAI", "db/dcc/a27187.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "db/dcc/a27187.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "db/dcc/a27187.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "db/dcc/a27187.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "HandleEffect", "db/dcc/a27187.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
+    [ "PrepareSpellScript", "db/dcc/a27187.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
+    [ "Register", "db/dcc/a27187.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
+    [ "Validate", "db/dcc/a27187.html#ab6d78ecb650f13df3376baced8c40a63", null ]
 ];

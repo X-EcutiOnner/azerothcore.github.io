@@ -1,5 +1,5 @@
 var a10887 =
 [
-    [ "PacketHandler", "de/def/a10887.html#ae28d6ea18799c4dc90be8225fd2fad66", null ],
-    [ "Call", "de/def/a10887.html#a9468be560aba807419fb7e28bf0d6a41", null ]
+    [ "LFGLeave", "de/def/a10887.html#aba31f53e0e13c13fd96f1b6ea1d42310", null ],
+    [ "Read", "de/def/a10887.html#abae9c55efce73edf5edf1940cb8b61eb", null ]
 ];

@@ -1,6 +1,8 @@
 var a27951 =
 [
-    [ "AreaGroupId", "d2/d7a/a27951.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "d2/d7a/a27951.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "d2/d7a/a27951.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "npc_minion_spawner", "d2/d7a/a27951.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
+    [ "CanSpawnRareMinion", "d2/d7a/a27951.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
+    [ "JustSummoned", "d2/d7a/a27951.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
+    [ "Reset", "d2/d7a/a27951.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
+    [ "UpdateAI", "d2/d7a/a27951.html#a24f93f1314bb73edb369e188eda83104", null ]
 ];

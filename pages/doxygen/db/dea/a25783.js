@@ -1,7 +1,6 @@
 var a25783 =
 [
-    [ "HandleHeal", "db/dea/a25783.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
-    [ "Load", "db/dea/a25783.html#a4dd5016439e8798083fe3d4fa5458731", null ],
-    [ "PrepareSpellScript", "db/dea/a25783.html#a248ae6d2c8f8d6c014a0164105773836", null ],
-    [ "Register", "db/dea/a25783.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
+    [ "HandleDummy", "db/dea/a25783.html#a8b9510efa5af25ef698fc6eb49b19b69", null ],
+    [ "PrepareSpellScript", "db/dea/a25783.html#a80b89fbd2506191b897dcf367ff11500", null ],
+    [ "Register", "db/dea/a25783.html#a522730e5ba844728c0b3d6f423cd123a", null ]
 ];

@@ -1,6 +1,6 @@
 var a23575 =
 [
-    [ "HandleEffect", "d6/dc9/a23575.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
-    [ "PrepareSpellScript", "d6/dc9/a23575.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
-    [ "Register", "d6/dc9/a23575.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
+    [ "boss_rokmar_the_crackler", "d6/dc9/a23575.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
+    [ "JustEngagedWith", "d6/dc9/a23575.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
+    [ "Reset", "d6/dc9/a23575.html#aed9cf4a866d5e70647125a08885fb809", null ]
 ];

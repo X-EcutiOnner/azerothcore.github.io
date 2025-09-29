@@ -1,16 +1,16 @@
 var a19707 =
 [
-    [ "boss_steelbreakerAI", "d7/d67/a19707.html#aeec79a009137be8b6290366d8d6bcfa3", null ],
-    [ "DoAction", "d7/d67/a19707.html#ac5bc8a9512c2e6e5169366cc5bbc79c2", null ],
-    [ "JustDied", "d7/d67/a19707.html#a001f8b206f0d00fff77e964f49cbdb58", null ],
-    [ "JustEngagedWith", "d7/d67/a19707.html#a0f207b2a274c7266f6882205e510f346", null ],
-    [ "JustReachedHome", "d7/d67/a19707.html#a3fd5d7c8baf6d6b4651d4d54df2e7fa8", null ],
-    [ "KilledUnit", "d7/d67/a19707.html#a5a0a92144412259bfa02abc04bdc4425", null ],
-    [ "Reset", "d7/d67/a19707.html#a9544ce38a210da1ac867d5cabf9ffbec", null ],
-    [ "SpellHit", "d7/d67/a19707.html#a21d891d8f8f6fa89b1f1883800d8d578", null ],
-    [ "UpdateAI", "d7/d67/a19707.html#ac4adabf023663df7b4c1fdc8c027b52d", null ],
-    [ "UpdatePhase", "d7/d67/a19707.html#af217acbeab5032b8a16180f4ff021e0a", null ],
-    [ "_phase", "d7/d67/a19707.html#ae71145ec4a82d1f024892181daebace9", null ],
-    [ "events", "d7/d67/a19707.html#a8085a615ff5d252452616ef69dfd3249", null ],
-    [ "pInstance", "d7/d67/a19707.html#ac99cd9678f209b0cf2e8e8e3457d0f55", null ]
+    [ "boss_ionarAI", "d7/d67/a19707.html#af212102febe4e0ef406475f5e1452695", null ],
+    [ "JustDied", "d7/d67/a19707.html#a12ad910d0838b1fbb626f761b70c86c5", null ],
+    [ "JustEngagedWith", "d7/d67/a19707.html#a17bff3df427ad65453cfc440e46f76fa", null ],
+    [ "KilledUnit", "d7/d67/a19707.html#aa74b2b6cd2358b11596d34357fac194c", null ],
+    [ "Reset", "d7/d67/a19707.html#acbb2807142af2ef570aec0f12c861d36", null ],
+    [ "ScheduleEvents", "d7/d67/a19707.html#ad3f0bf773bc091cc14491cd309a4b531", null ],
+    [ "SpellHit", "d7/d67/a19707.html#a5954749594cf76a2f8db7a61874a0279", null ],
+    [ "Split", "d7/d67/a19707.html#ab10351b157e6e370d910780febdbda74", null ],
+    [ "UpdateAI", "d7/d67/a19707.html#a41767f4b491b4d59824bac8854c3090d", null ],
+    [ "events", "d7/d67/a19707.html#ae87ba5970d8d4f9fc33b94dc9abefa2f", null ],
+    [ "HealthCheck", "d7/d67/a19707.html#a05006b60fa4e7b33f589ca87b3374aa5", null ],
+    [ "m_pInstance", "d7/d67/a19707.html#a752059e06a6971d94243f283ef75be91", null ],
+    [ "summons", "d7/d67/a19707.html#ac67332dd2f94ea8bdd7c7871bc022239", null ]
 ];

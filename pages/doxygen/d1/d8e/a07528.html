@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Impl::ChatCommands::MultiConsumer&lt; Tuple, NextType, offset &gt; Struct Template Reference</title>
+<title>AzerothCore: Member List</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d1/d8e/a07528.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('d3/d77/a07531.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,82 +104,32 @@ $(document).ready(function(){initNavTree('d1/d8e/a07528.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="summary">
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="../../da/d67/a07525.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Impl::ChatCommands::MultiConsumer&lt; Tuple, NextType, offset &gt; Struct Template Reference</div></div>
+  <div class="headertitle"><div class="title">Channel::PlayerInfo Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">ChatCommand.h</a>&quot;</code></p>
-<table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:ad64b76886d0118c6997cae9ff27dfd34"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../db/d04/a07668.html">ChatCommandResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d8e/a07528.html#ad64b76886d0118c6997cae9ff27dfd34">TryConsumeTo</a> (Tuple &amp;tuple, <a class="el" href="../../d9/d3b/a07512.html">ChatHandler</a> const *handler, std::string_view args)</td></tr>
-<tr class="separator:ad64b76886d0118c6997cae9ff27dfd34"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;typename Tuple, typename NextType, std::size_t offset&gt;<br />
-struct Acore::Impl::ChatCommands::MultiConsumer&lt; Tuple, NextType, offset &gt;</div></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="ad64b76886d0118c6997cae9ff27dfd34" name="ad64b76886d0118c6997cae9ff27dfd34"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad64b76886d0118c6997cae9ff27dfd34">&#9670;&#160;</a></span>TryConsumeTo()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename Tuple , typename NextType , std::size_t offset&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">static <a class="el" href="../../db/d04/a07668.html">ChatCommandResult</a> <a class="el" href="../../d1/d8e/a07528.html">Acore::Impl::ChatCommands::MultiConsumer</a>&lt; Tuple, NextType, offset &gt;::TryConsumeTo </td>
-          <td>(</td>
-          <td class="paramtype">Tuple &amp;&#160;</td>
-          <td class="paramname"><em>tuple</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d3b/a07512.html">ChatHandler</a> const *&#160;</td>
-          <td class="paramname"><em>handler</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>args</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   62</span>        {</div>
-<div class="line"><span class="lineno">   63</span>            <a class="code hl_struct" href="../../db/d04/a07668.html">ChatCommandResult</a> next = ArgInfo&lt;NextType&gt;::TryConsume(std::get&lt;offset&gt;(tuple), handler, args);</div>
-<div class="line"><span class="lineno">   64</span>            <span class="keywordflow">if</span> (next)</div>
-<div class="line"><span class="lineno">   65</span>                <span class="keywordflow">return</span> ConsumeFromOffset&lt;Tuple, offset + 1&gt;(tuple, handler, *next);</div>
-<div class="line"><span class="lineno">   66</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   67</span>                <span class="keywordflow">return</span> next;</div>
-<div class="line"><span class="lineno">   68</span>        }</div>
-<div class="ttc" id="aa07668_html"><div class="ttname"><a href="../../db/d04/a07668.html">Acore::Impl::ChatCommands::ChatCommandResult</a></div><div class="ttdef"><b>Definition:</b> ChatCommandHelpers.h:100</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-</div><!-- contents -->
+<p>This is the complete list of members for <a class="el" href="../../d3/d77/a07531.html">Channel::PlayerInfo</a>, including all inherited members.</p>
+<table class="directory">
+  <tr class="even"><td class="entry"><a class="el" href="../../d3/d77/a07531.html#a15686cee4d1d0d8f39c13341bc9df624">_gmStatus</a></td><td class="entry"><a class="el" href="../../d3/d77/a07531.html">Channel::PlayerInfo</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d3/d77/a07531.html#ae9ed61476c5f13dddf4aa5e98fe8c5c4">flags</a></td><td class="entry"><a class="el" href="../../d3/d77/a07531.html">Channel::PlayerInfo</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d3/d77/a07531.html#a23315bfbd0748f82c948051697079c24">HasFlag</a>(uint8 flag) const</td><td class="entry"><a class="el" href="../../d3/d77/a07531.html">Channel::PlayerInfo</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d3/d77/a07531.html#af664dc84e5a60301c4fce6fda8971062">IsModerator</a>() const</td><td class="entry"><a class="el" href="../../d3/d77/a07531.html">Channel::PlayerInfo</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d3/d77/a07531.html#a5d1e0f8e424033e34338940677ca054c">IsMuted</a>() const</td><td class="entry"><a class="el" href="../../d3/d77/a07531.html">Channel::PlayerInfo</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d3/d77/a07531.html#a4687757cb7df9778f0f5eb67714c917c">IsOwner</a>() const</td><td class="entry"><a class="el" href="../../d3/d77/a07531.html">Channel::PlayerInfo</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d3/d77/a07531.html#ad4e1573168c91372dc4af2847d4ad454">IsOwnerGM</a>() const</td><td class="entry"><a class="el" href="../../d3/d77/a07531.html">Channel::PlayerInfo</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d3/d77/a07531.html#afba1915e2dd4109928180e33884b8412">player</a></td><td class="entry"><a class="el" href="../../d3/d77/a07531.html">Channel::PlayerInfo</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d3/d77/a07531.html#a5c986d75e173cc42160143ae7621ab6b">plrPtr</a></td><td class="entry"><a class="el" href="../../d3/d77/a07531.html">Channel::PlayerInfo</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d3/d77/a07531.html#a9cb5a3ce70a2afcc553992f4a65b80e1">SetFlag</a>(uint8 flag)</td><td class="entry"><a class="el" href="../../d3/d77/a07531.html">Channel::PlayerInfo</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d3/d77/a07531.html#a0a0cbaa77040171b7b50f89914946a8a">SetModerator</a>(bool state)</td><td class="entry"><a class="el" href="../../d3/d77/a07531.html">Channel::PlayerInfo</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d3/d77/a07531.html#adf989acef0b1e53a9dc2d3210db646b7">SetMuted</a>(bool state)</td><td class="entry"><a class="el" href="../../d3/d77/a07531.html">Channel::PlayerInfo</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d3/d77/a07531.html#aac6a9ea0bf478901e62c729ac6a3e9cd">SetOwner</a>(bool state)</td><td class="entry"><a class="el" href="../../d3/d77/a07531.html">Channel::PlayerInfo</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d3/d77/a07531.html#a2e4be6dfb921ad07ebd0de3abb81f5e4">SetOwnerGM</a>(bool on)</td><td class="entry"><a class="el" href="../../d3/d77/a07531.html">Channel::PlayerInfo</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+</table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d2/d5c/a04788.html">Acore</a></li><li class="navelem"><a class="el" href="../../dd/df4/a04800.html">Impl</a></li><li class="navelem"><a class="el" href="../../df/da2/a04828.html">ChatCommands</a></li><li class="navelem"><a class="el" href="../../d1/d8e/a07528.html">MultiConsumer</a></li>
-    <li class="footer">Generated on Mon Aug 25 2025 20:47:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Sep 29 2025 20:46:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

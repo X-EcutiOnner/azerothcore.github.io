@@ -1,9 +1,8 @@
 var a21643 =
 [
-    [ "npc_minigob_manabonk", "d9/da5/a21643.html#aade5e005b68b25ede4e653629390ceb9", null ],
-    [ "Reset", "d9/da5/a21643.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
-    [ "SelectTargetInDalaran", "d9/da5/a21643.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
-    [ "SendMailToPlayer", "d9/da5/a21643.html#a1973b7885c9fce15aab9843722bf112e", null ],
-    [ "UpdateAI", "d9/da5/a21643.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
-    [ "playerGUID", "d9/da5/a21643.html#ac8dccd333691f717fdbffe22126330d5", null ]
+    [ "npc_azure_mage_slayerAI", "d9/da5/a21643.html#af1a57574d70a48b16d70d8a056f54018", null ],
+    [ "Reset", "d9/da5/a21643.html#aabe921f0d4fd147c457779791a7af619", null ],
+    [ "UpdateAI", "d9/da5/a21643.html#a7cc5ea88be6c9cf767a0cd433db7dd73", null ],
+    [ "uiArcaneEmpowermentTimer", "d9/da5/a21643.html#ace0fdd5e4b57e7ce603d2355bfc838dd", null ],
+    [ "uiSpellLockTimer", "d9/da5/a21643.html#ac3c4d2be0dd9ba42e40adccda7100947", null ]
 ];

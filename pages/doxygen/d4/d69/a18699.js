@@ -1,7 +1,11 @@
 var a18699 =
 [
-    [ "HandleDummyLaunch", "d4/d69/a18699.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
-    [ "PrepareSpellScript", "d4/d69/a18699.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
-    [ "Register", "d4/d69/a18699.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
-    [ "Validate", "d4/d69/a18699.html#a577166695c1479e3730a70637bc18cf1", null ]
+    [ "npc_valithria_cloudAI", "d4/d69/a18699.html#a5b550d0154f302cecc509fbd868a53bb", null ],
+    [ "AttackStart", "d4/d69/a18699.html#a5835d5ba19e1480016e585c1e49489c9", null ],
+    [ "EnterEvadeMode", "d4/d69/a18699.html#a346fd998d41451d7d1e605afdb13b65c", null ],
+    [ "MoveInLineOfSight", "d4/d69/a18699.html#a8d4c8d082f12b96b2b77447d0b942c2c", null ],
+    [ "Reset", "d4/d69/a18699.html#abca34d7285ef23c062006df8f8ae6d53", null ],
+    [ "UpdateAI", "d4/d69/a18699.html#a6908f5731915bf7d15bb4921c960aa30", null ],
+    [ "_events", "d4/d69/a18699.html#afc5c9299d7f1f73c087a19dcfb19e096", null ],
+    [ "_instance", "d4/d69/a18699.html#a20cc2bba9d1005cc93b55dfba8bfbcf3", null ]
 ];

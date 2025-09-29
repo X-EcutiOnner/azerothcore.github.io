@@ -1,7 +1,8 @@
 var a15383 =
 [
-    [ "HandleEffectPeriodic", "df/dda/a15383.html#ac47c157dbd193bc131d281666ae2097f", null ],
-    [ "PrepareAuraScript", "df/dda/a15383.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
-    [ "Register", "df/dda/a15383.html#ac3c158fdddd007d1d7986470032bfc25", null ],
-    [ "Validate", "df/dda/a15383.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
+    [ "boss_veklor", "df/dda/a15383.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "df/dda/a15383.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "df/dda/a15383.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "df/dda/a15383.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "df/dda/a15383.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

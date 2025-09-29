@@ -1,7 +1,6 @@
 var a25135 =
 [
-    [ "HandleEffectApply", "d6/d28/a25135.html#abf780eeca61aef7e44617aa0ed2ff8b8", null ],
-    [ "OnRemove", "d6/d28/a25135.html#af2cfa66cd7dbc7c671efa06c497cc03e", null ],
-    [ "PrepareAuraScript", "d6/d28/a25135.html#ab6c5d1fd94c763126ef77f9efd4a7116", null ],
-    [ "Register", "d6/d28/a25135.html#a473189971d0a03e7305b7b9e41dc5207", null ]
+    [ "PrepareAuraScript", "d6/d28/a25135.html#a8a60db6939ba71ddcf723fb4e48b3146", null ],
+    [ "Register", "d6/d28/a25135.html#a8ab913cf84f55428d2b0615172f3da3b", null ],
+    [ "AuraEffectHandleModes", "d6/d28/a25135.html#aed1cfe63d82450b526e154678fb97ac4", null ]
 ];

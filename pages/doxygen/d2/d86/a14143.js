@@ -1,6 +1,8 @@
 var a14143 =
 [
-    [ "HandleDummyEffect", "d2/d86/a14143.html#a3860ad8a34e37601f7a4cef395f7ab2a", null ],
-    [ "PrepareSpellScript", "d2/d86/a14143.html#a1c69fb2fd3fa623d62647fca738d27d6", null ],
-    [ "Register", "d2/d86/a14143.html#ad1cbf7ed8f7d119bb56d06fb62358458", null ]
+    [ "FilterTargets", "d2/d86/a14143.html#a3405b21202d423c649e0b8d341b42d9c", null ],
+    [ "HandleWipeThreat", "d2/d86/a14143.html#a2bbcce83bffebc509e9ec54778e82639", null ],
+    [ "PrepareSpellScript", "d2/d86/a14143.html#a59948484b528cab69c695f08b39b886d", null ],
+    [ "Register", "d2/d86/a14143.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
+    [ "_wipeThreat", "d2/d86/a14143.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
 ];

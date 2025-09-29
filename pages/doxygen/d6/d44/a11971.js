@@ -1,6 +1,6 @@
 var a11971 =
 [
-    [ "boss_gythAI", "db/dd1/a11975.html", "db/dd1/a11975" ],
-    [ "boss_gyth", "d6/d44/a11971.html#a286d19b0a6e317cb7e69343982b71062", null ],
-    [ "GetAI", "d6/d44/a11971.html#a3706cbdd1bfb16112653d31cfa971b30", null ]
+    [ "boss_galvangarAI", "db/dd1/a11975.html", "db/dd1/a11975" ],
+    [ "boss_galvangar", "d6/d44/a11971.html#a3949cfd3c987bdf52d313568de9379ba", null ],
+    [ "GetAI", "d6/d44/a11971.html#a9fd978eb38ae3e2d8d65cf4214e673e3", null ]
 ];

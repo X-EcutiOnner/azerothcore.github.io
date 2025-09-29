@@ -1,6 +1,7 @@
 var a14699 =
 [
-    [ "npc_cos_chromie_start", "d5/d78/a14699.html#ae8f810af1e593ad16958049f6ad19616", null ],
-    [ "OnGossipSelect", "d5/d78/a14699.html#a35cba5a1b7865b07a4e843648cea50c8", null ],
-    [ "OnQuestAccept", "d5/d78/a14699.html#aa730cb17e6cfe917bc32f7e7ae52e8ef", null ]
+    [ "HandleDummy", "d5/d78/a14699.html#a05c3589ee04eed87449f652db065f0e9", null ],
+    [ "PrepareSpellScript", "d5/d78/a14699.html#afb79a2cf5359e7ec69746cd89d8cd727", null ],
+    [ "Register", "d5/d78/a14699.html#a51207fcd4f272e120fe1af2ac78c1f80", null ],
+    [ "Validate", "d5/d78/a14699.html#a5fc6dae87ffb634cc0de389196751b22", null ]
 ];

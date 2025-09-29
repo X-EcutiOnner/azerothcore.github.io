@@ -1,10 +1,6 @@
 var a27475 =
 [
-    [ "npc_training_dummyAI", "d1/dfc/a27475.html#a2f10fd0b4365e99446f728883a47eb6a", null ],
-    [ "DamageTaken", "d1/dfc/a27475.html#a641c40906a6365f068ccbdba9d033923", null ],
-    [ "EnterEvadeMode", "d1/dfc/a27475.html#adb1de124bdb2a986efcfcfc287b6d824", null ],
-    [ "MoveInLineOfSight", "d1/dfc/a27475.html#a52f3516e9da6895eeddcdef7a198a6b1", null ],
-    [ "Reset", "d1/dfc/a27475.html#af63f500cb3179964c90afab0d4a2c9b7", null ],
-    [ "UpdateAI", "d1/dfc/a27475.html#a5e7892a64cd1a5cf678b401b62497bfb", null ],
-    [ "resetTimer", "d1/dfc/a27475.html#a443f2f7de257af473d6e9793f34a2071", null ]
+    [ "go_bear_trapAI", "d1/d94/a27479.html", "d1/d94/a27479" ],
+    [ "go_bear_trap", "d1/dfc/a27475.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
+    [ "GetAI", "d1/dfc/a27475.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
 ];

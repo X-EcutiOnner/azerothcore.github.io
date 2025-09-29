@@ -1,10 +1,7 @@
 var a27399 =
 [
-    [ "npc_prof_tailor", "d7/d4e/a27399.html#a481157e49fb1c09f62a3cb9de85c9da1", null ],
-    [ "HasTailorSpell", "d7/d4e/a27399.html#a188c0ac66b1972bccd031aca26f7fecd", null ],
-    [ "OnGossipHello", "d7/d4e/a27399.html#a686098ac43916ea2f82b7c321527863d", null ],
-    [ "OnGossipSelect", "d7/d4e/a27399.html#a03545eaacf3bae0d407e0e20c32740dc", null ],
-    [ "SendActionMenu", "d7/d4e/a27399.html#a03ced7d6541535097a5e4e3bd9f415f2", null ],
-    [ "SendConfirmLearn", "d7/d4e/a27399.html#a93a8692cb2c0b30ee752ae3ecd5561e5", null ],
-    [ "SendConfirmUnlearn", "d7/d4e/a27399.html#ada0be1dc79f72b7b033191c8e17a8baf", null ]
+    [ "FilterTargets", "d7/d4e/a27399.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
+    [ "HandleEffect", "d7/d4e/a27399.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
+    [ "PrepareSpellScript", "d7/d4e/a27399.html#a53b5772c87574beb5b295c26fe983b76", null ],
+    [ "Register", "d7/d4e/a27399.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
 ];

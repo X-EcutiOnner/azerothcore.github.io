@@ -1,10 +1,16 @@
 var a21447 =
 [
-    [ "npc_sinkhole_kill_creditAI", "d4/d81/a21447.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
-    [ "Reset", "d4/d81/a21447.html#a677990d64d2963ff995d9d8522c5aa81", null ],
-    [ "SpellHit", "d4/d81/a21447.html#a95eaf518fb18b67820d6195cd525b017", null ],
-    [ "UpdateAI", "d4/d81/a21447.html#a75611004a543bece9d3f51914547f2fe", null ],
-    [ "casterGuid", "d4/d81/a21447.html#a147921788b07f5e776e03aaf15049cf0", null ],
-    [ "phase", "d4/d81/a21447.html#aa45455a8d540d6f942c948cf56d11f05", null ],
-    [ "phaseTimer", "d4/d81/a21447.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
+    [ "boss_emalonAI", "d4/d81/a21447.html#ac87b3ea34e9781f3843321ef874321fe", null ],
+    [ "AttackStart", "d4/d81/a21447.html#ab08f49aabe76b623496da2fc0198a6c1", null ],
+    [ "JustDied", "d4/d81/a21447.html#a79a05156b690140e955a6e850ac41e5b", null ],
+    [ "JustEngagedWith", "d4/d81/a21447.html#a9a3b4e6df73586125c0369aa2d3666df", null ],
+    [ "JustSummoned", "d4/d81/a21447.html#a895f302d336faa0c3f93854314d3b427", null ],
+    [ "Reset", "d4/d81/a21447.html#ae5d33f728077d5bbc3b7d74db8015f5d", null ],
+    [ "ResetSummons", "d4/d81/a21447.html#a7df4da85c40ba1c34063df9b2df5874b", null ],
+    [ "SpellHitTarget", "d4/d81/a21447.html#a2c60642848b73bc00d1a8244d4fb4733", null ],
+    [ "SummonedCreatureDies", "d4/d81/a21447.html#a25a18c4d110b407c5fcf09c14444e8b0", null ],
+    [ "UpdateAI", "d4/d81/a21447.html#a4701d5a77b6ae7ce3432c81b7b6d14cf", null ],
+    [ "events", "d4/d81/a21447.html#a78312371e28b4be3c072dc870370b577", null ],
+    [ "pInstance", "d4/d81/a21447.html#af4cc6489905f9702999cc23fd6a920c2", null ],
+    [ "summons", "d4/d81/a21447.html#a1b6ccd418114e57a0c843cc980a56243", null ]
 ];

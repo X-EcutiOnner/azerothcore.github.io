@@ -1,17 +1,9 @@
 var a24151 =
 [
-    [ "npc_torloth_the_magnificentAI", "de/d91/a24151.html#ad34b85c80ebfb2332709c7ee21c053b7", null ],
-    [ "HandleAnimation", "de/d91/a24151.html#ab69f481e3871e5ce803ab1f389a2385c", null ],
-    [ "JustDied", "de/d91/a24151.html#aef9d2bcc04b8c1a54bf59f4744eba3ae", null ],
-    [ "JustEngagedWith", "de/d91/a24151.html#abf3fc3538e82fceaa916d4e217d6f9fd", null ],
-    [ "Reset", "de/d91/a24151.html#aa7944f80bb6718a65a07128be830ed94", null ],
-    [ "UpdateAI", "de/d91/a24151.html#ad5f7769462aa39fabb7ec5e79670cda1", null ],
-    [ "AggroTargetGUID", "de/d91/a24151.html#a826ecad9e9a06050a3ebc0861bf52c1e", null ],
-    [ "AnimationCount", "de/d91/a24151.html#afbe712b9e3dfe97417e1e621f4eff113", null ],
-    [ "AnimationTimer", "de/d91/a24151.html#a2485ad15002946c0c5b2ebce65221629", null ],
-    [ "LordIllidanGUID", "de/d91/a24151.html#ad135529fe083af2ce3e79823213d2735", null ],
-    [ "SpellTimer1", "de/d91/a24151.html#a991868074e39e2a4d06c37afc642a756", null ],
-    [ "SpellTimer2", "de/d91/a24151.html#a7da30509a017de1392cc3ba181a0dc53", null ],
-    [ "SpellTimer3", "de/d91/a24151.html#a0caf2b2d48c78b2eb032ff73168e2556", null ],
-    [ "Timers", "de/d91/a24151.html#a0eb0c24aff4cdab76d234ba17dbc4b5b", null ]
+    [ "boss_nethermancer_sepethrea", "de/d91/a24151.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
+    [ "EnterEvadeMode", "de/d91/a24151.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
+    [ "JustDied", "de/d91/a24151.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
+    [ "JustEngagedWith", "de/d91/a24151.html#a89851b9f6eb94270fe22151d3a968bec", null ],
+    [ "JustSummoned", "de/d91/a24151.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
+    [ "KilledUnit", "de/d91/a24151.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
 ];

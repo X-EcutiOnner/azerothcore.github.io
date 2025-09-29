@@ -1,10 +1,12 @@
 var a13751 =
 [
-    [ "boss_alyson_antille", "d0/d96/a13751.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
-    [ "GetNearbyFriendlies", "d0/d96/a13751.html#ab99596d5c2eafac8c678378d509bf585", null ],
-    [ "JustEngagedWith", "d0/d96/a13751.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
-    [ "RandomReverseFriendlyList", "d0/d96/a13751.html#afef27de229ba2c3b8beb30809a313237", null ],
-    [ "Reset", "d0/d96/a13751.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
-    [ "UpdateAI", "d0/d96/a13751.html#a15157be42d166a239ab658fc04292e44", null ],
-    [ "_friendlyList", "d0/d96/a13751.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
+    [ "npc_eastvale_peasent", "d0/d96/a13751.html#a5282dac41228569d4431d84c1f160f05", null ],
+    [ "Initialize", "d0/d96/a13751.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
+    [ "PathEndReached", "d0/d96/a13751.html#a002ec21e0715b020aa19cd0839408033", null ],
+    [ "Reset", "d0/d96/a13751.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
+    [ "SetData", "d0/d96/a13751.html#add14d9505880727e208e7ef9428f5acd", null ],
+    [ "UpdateAI", "d0/d96/a13751.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
+    [ "_events", "d0/d96/a13751.html#a1b310b07481366042dc45f7a27ce6408", null ],
+    [ "_path", "d0/d96/a13751.html#a907db8e6148947248b5bcfdb35023e16", null ],
+    [ "_realenGUID", "d0/d96/a13751.html#aad06364be8698b5ba69cd229e2a5085b", null ]
 ];

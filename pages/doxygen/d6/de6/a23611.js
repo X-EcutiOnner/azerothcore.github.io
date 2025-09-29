@@ -1,8 +1,6 @@
 var a23611 =
 [
-    [ "FilterTargets", "d6/de6/a23611.html#ae366594b668331a19f384ceb48654c0c", null ],
-    [ "HandleOnHit", "d6/de6/a23611.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
-    [ "PrepareSpellScript", "d6/de6/a23611.html#a71aa4018d293391a73d3317c1e80951d", null ],
-    [ "Register", "d6/de6/a23611.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
-    [ "Validate", "d6/de6/a23611.html#a3747ad271dc659436ae7a8203b964554", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d1/d1d/a23615.html", "d1/d1d/a23615" ],
+    [ "instance_steam_vault", "d6/de6/a23611.html#aa3417083841ccb50c8a2f29ba343e115", null ],
+    [ "GetInstanceScript", "d6/de6/a23611.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
 ];

@@ -1,6 +1,6 @@
 var a17479 =
 [
-    [ "npc_gunshipAI", "d0/d26/a17483.html", "d0/d26/a17483" ],
-    [ "npc_gunship", "d9/d48/a17479.html#a86b3ba622bd6e606cd21f7c7d8dddd1b", null ],
-    [ "GetAI", "d9/d48/a17479.html#adcd37802a2850f4ec8892f3495d5dc16", null ]
+    [ "boss_prince_valanarAI", "d0/d26/a17483.html", "d0/d26/a17483" ],
+    [ "boss_prince_valanar_icc", "d9/d48/a17479.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
+    [ "GetAI", "d9/d48/a17479.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
 ];

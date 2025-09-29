@@ -1,17 +1,7 @@
 var a12755 =
 [
-    [ "boss_priestess_lackey_commonAI", "db/dfb/a12755.html#acf122076823631cef5d66e03a9f607aa", null ],
-    [ "AttackStart", "db/dfb/a12755.html#a6056ef3425f39208e5731b25fc94a335", null ],
-    [ "EnterEvadeMode", "db/dfb/a12755.html#a6935410d7a4ce8e9dec9feed9f5351d7", null ],
-    [ "GetThreatMod", "db/dfb/a12755.html#a2e0e387ae4645c9bbd4625d1469403a8", null ],
-    [ "JustDied", "db/dfb/a12755.html#a8b06ee0a3e22d495a41ccf4c7009ad2d", null ],
-    [ "JustEngagedWith", "db/dfb/a12755.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7", null ],
-    [ "JustSummoned", "db/dfb/a12755.html#a9a7bcf641bae31827872faf7666635d5", null ],
-    [ "KilledUnit", "db/dfb/a12755.html#a23aaa0a619470898dd617a18130ca17b", null ],
-    [ "RecalculateThreat", "db/dfb/a12755.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2", null ],
-    [ "Reset", "db/dfb/a12755.html#aa2ef03d73c43668c97205fa72414e71b", null ],
-    [ "UpdateAI", "db/dfb/a12755.html#adf87bd797da345e49700265319d808cc", null ],
-    [ "aiType", "db/dfb/a12755.html#a2b7ccbf195658e402ba6f276b18e3551", null ],
-    [ "instance", "db/dfb/a12755.html#ac71aa86c97fe11d934f09d62c4ed8eab", null ],
-    [ "summons", "db/dfb/a12755.html#a498ef73fcc7995113318c5f0b6efa23e", null ]
+    [ "boss_maiden_of_virtue", "db/dfb/a12755.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
+    [ "JustDied", "db/dfb/a12755.html#a6eded246318f6b47b46f45168e4a8069", null ],
+    [ "JustEngagedWith", "db/dfb/a12755.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
+    [ "KilledUnit", "db/dfb/a12755.html#a32dd66a297d11f5ffac1841bae15727a", null ]
 ];

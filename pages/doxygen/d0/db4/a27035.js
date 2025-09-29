@@ -1,5 +1,6 @@
 var a27035 =
 [
-    [ "AreaTrigger_at_last_rites", "d0/db4/a27035.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
-    [ "OnTrigger", "d0/db4/a27035.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
+    [ "HandleScriptEffect", "d0/db4/a27035.html#a3f8988017d088d08df08ba8b696b552b", null ],
+    [ "PrepareSpellScript", "d0/db4/a27035.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
+    [ "Register", "d0/db4/a27035.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
 ];

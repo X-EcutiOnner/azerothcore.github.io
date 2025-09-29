@@ -1,7 +1,7 @@
 var a28331 =
 [
-    [ "from", "da/d03/a28331.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
-    [ "ID", "da/d03/a28331.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
-    [ "price", "da/d03/a28331.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
-    [ "to", "da/d03/a28331.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
+    [ "bit_index", "da/d03/a28331.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "da/d03/a28331.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "da/d03/a28331.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "da/d03/a28331.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

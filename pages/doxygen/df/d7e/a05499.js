@@ -1,20 +1,15 @@
 var a05499 =
 [
-    [ "AsyncProcessResultImplementation", "df/d7e/a05499.html#a1af6678b7ebf6402df0961cac5ba9ffe", null ],
-    [ "AsyncProcessResultImplementation", "df/d7e/a05499.html#a6b2ff159a1bfcaf531d0345dbc93c2bd", null ],
-    [ "AsyncProcessResultImplementation", "df/d7e/a05499.html#acde599a3b98f50b0432b0a067a00ecf8", null ],
-    [ "GetFutureResult", "df/d7e/a05499.html#a202ec00d726449fea26b3ee0d5bd7025", null ],
-    [ "operator=", "df/d7e/a05499.html#a4fb3bbb8c65e0baee35fc94cb17b1f3f", null ],
-    [ "operator=", "df/d7e/a05499.html#a82f3834506db5ed9eda323390bbdf36a", null ],
-    [ "SetFuture", "df/d7e/a05499.html#a1619a398624976e15c7926b57c9484bc", null ],
-    [ "StartProcess", "df/d7e/a05499.html#a908c5a545ab501f93a8a2525bbad6317", null ],
-    [ "Terminate", "df/d7e/a05499.html#a3ddce3d7de8eda350636f0ea8ddfde53", null ],
-    [ "args", "df/d7e/a05499.html#a2fe2cc9a0a02e6fc8ba383ecccf18060", null ],
-    [ "executable", "df/d7e/a05499.html#a7fbbe1d2ede5eac4f7bd814d4bfe8983", null ],
-    [ "input_file", "df/d7e/a05499.html#a30ac6b4cb91d8f4e63f8ff0ba47f7c9c", null ],
-    [ "is_secure", "df/d7e/a05499.html#a4a8891a13f997d26b6daf9eead76f219", null ],
-    [ "logger", "df/d7e/a05499.html#a5d60fa7b6e4277f2dfc8d743ea756ff2", null ],
-    [ "my_child", "df/d7e/a05499.html#a7aaa7f31e23947aca109871572875f4d", null ],
-    [ "result", "df/d7e/a05499.html#a9a8efa6f7ad48797c28691c08b4ede9b", null ],
-    [ "was_terminated", "df/d7e/a05499.html#a9868b0110f4db8a1d099243003c83753", null ]
+    [ "EnumFlag", "df/d7e/a05499.html#a877aa23dfde6aa91cff6d8c0eb9a4732", null ],
+    [ "AsUnderlyingType", "df/d7e/a05499.html#af9468dd952e12d2da9c0120d0ce9feb4", null ],
+    [ "HasAllFlags", "df/d7e/a05499.html#adb5b65ab4a3d827882634d94774a912b", null ],
+    [ "HasFlag", "df/d7e/a05499.html#a311985d41e79365bf9fd5bcb7c8fbf0c", null ],
+    [ "operator T", "df/d7e/a05499.html#a13022712c9634c84907b906e55aebe28", null ],
+    [ "operator&=", "df/d7e/a05499.html#afb2c7428dd07e4f427b0b0ca5ac0f7c3", null ],
+    [ "operator|=", "df/d7e/a05499.html#ab49498ed668ee324702c4beadf4de999", null ],
+    [ "operator~", "df/d7e/a05499.html#a3001eac7546c03530d1e51d5c1e6abfd", null ],
+    [ "RemoveFlag", "df/d7e/a05499.html#a106a00ee4112382aa0120489551bf50a", null ],
+    [ "operator&", "df/d7e/a05499.html#aa91d02e5d8b6d9ef507f47720ac6d9e6", null ],
+    [ "operator|", "df/d7e/a05499.html#add07cc2598afc632e84ffdc0bf60cd81", null ],
+    [ "_value", "df/d7e/a05499.html#a55353d720942d68d0dea86837aaca7c5", null ]
 ];

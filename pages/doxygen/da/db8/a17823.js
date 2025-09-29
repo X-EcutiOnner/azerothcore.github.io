@@ -1,7 +1,6 @@
 var a17823 =
 [
-    [ "HandleExtraEffect", "da/db8/a17823.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
-    [ "PrepareAuraScript", "da/db8/a17823.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
-    [ "Register", "da/db8/a17823.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
-    [ "Validate", "da/db8/a17823.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
+    [ "npc_gunship_rocketeerAI", "d7/d9e/a17827.html", "d7/d9e/a17827" ],
+    [ "npc_gunship_rocketeer", "da/db8/a17823.html#a7ed2cf258269f239bb73f2f06411db07", null ],
+    [ "GetAI", "da/db8/a17823.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
 ];

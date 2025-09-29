@@ -1,6 +1,7 @@
 var a11311 =
 [
-    [ "CheckProcHandler", "dd/d8b/a11311.html#a1b5bfc85cb9a81a64ebd4b769e3d3651", null ],
-    [ "Call", "dd/d8b/a11311.html#a977558dc8838a05259effc268235696a", null ],
-    [ "_HandlerScript", "dd/d8b/a11311.html#abcb28d1a2f32402511c1e659b2f3b443", null ]
+    [ "SpellImmune", "dd/d8b/a11311.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
+    [ "blockType", "dd/d8b/a11311.html#a13a353d02a7330820df170eb46e7a26d", null ],
+    [ "spellId", "dd/d8b/a11311.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
+    [ "type", "dd/d8b/a11311.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
 ];

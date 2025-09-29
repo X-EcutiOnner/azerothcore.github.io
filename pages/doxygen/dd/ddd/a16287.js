@@ -1,6 +1,13 @@
 var a16287 =
 [
-    [ "npc_nerubian_burrowerAI", "d6/d5b/a16291.html", "d6/d5b/a16291" ],
-    [ "npc_nerubian_burrower", "dd/ddd/a16287.html#a02c3eb1ed867738c705af8bf38a1aae5", null ],
-    [ "GetAI", "dd/ddd/a16287.html#a145ebac6f95f9190429b9bfa37e23312", null ]
+    [ "boss_twilight_halionAI", "dd/ddd/a16287.html#aab05bab963d603c3cb70edfd62a84b49", null ],
+    [ "DamageTaken", "dd/ddd/a16287.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
+    [ "EnterEvadeMode", "dd/ddd/a16287.html#af7076251fc1fad1dc259d747934910e2", null ],
+    [ "JustDied", "dd/ddd/a16287.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
+    [ "JustEngagedWith", "dd/ddd/a16287.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
+    [ "KilledUnit", "dd/ddd/a16287.html#ada770d51f63c841c500ffc3197a7a89f", null ],
+    [ "Reset", "dd/ddd/a16287.html#a9c945841926d5b08f37c6a720dd25a14", null ],
+    [ "UpdateAI", "dd/ddd/a16287.html#a6ab1d215ed077883781b0c0188282c5e", null ],
+    [ "_events", "dd/ddd/a16287.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
+    [ "_instance", "dd/ddd/a16287.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
 ];

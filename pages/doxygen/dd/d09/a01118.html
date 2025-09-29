@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Outland/Auchindoun/ShadowLabyrinth/instance_shadow_labyrinth.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Chat/Hyperlinks.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,147 +106,130 @@ $(document).ready(function(){initNavTree('dd/d09/a01118.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a> &#124;
-<a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">instance_shadow_labyrinth.cpp File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#define-members">Macros</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">Hyperlinks.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">InstanceMapScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">shadow_labyrinth.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">StringConvert.h</a>&quot;</code><br />
+<code>#include &lt;array&gt;</code><br />
+<code>#include &lt;string&gt;</code><br />
+<code>#include &lt;string_view&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d25/a22914.html">instance_shadow_labyrinth</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/dbb/a07787.html">Acore::Hyperlinks::AchievementLinkData</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dec/a22918.html">instance_shadow_labyrinth::instance_shadow_labyrinth_InstanceMapScript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/db0/a07791.html">Acore::Hyperlinks::GlyphLinkData</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/ddd/a22922.html">spell_mark_of_malice</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dc5/a07795.html">Acore::Hyperlinks::ItemLinkData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d7d/a07799.html">Acore::Hyperlinks::QuestLinkData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dde/a07803.html">Acore::Hyperlinks::TalentLinkData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/ddb/a07807.html">Acore::Hyperlinks::TradeskillLinkData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/dda/a07811.html">Acore::Hyperlinks::LinkTags::base_tag</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d33/a07815.html">Acore::Hyperlinks::LinkTags::achievement</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d91/a07819.html">Acore::Hyperlinks::LinkTags::enchant</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d49/a07823.html">Acore::Hyperlinks::LinkTags::glyph</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/de1/a07827.html">Acore::Hyperlinks::LinkTags::item</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dfe/a07831.html">Acore::Hyperlinks::LinkTags::quest</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d75/a07835.html">Acore::Hyperlinks::LinkTags::spell</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d1b/a07839.html">Acore::Hyperlinks::LinkTags::talent</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db4/a07843.html">Acore::Hyperlinks::LinkTags::trade</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dbe/a07847.html">Acore::Hyperlinks::HyperlinkColor</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d0d/a07851.html">Acore::Hyperlinks::HyperlinkInfo</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a5faa1e1ef40cd28efc7332da31667677"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d09/a01118.html#a5faa1e1ef40cd28efc7332da31667677">MarkOfMalice</a> { <a class="el" href="../../dd/d09/a01118.html#a5faa1e1ef40cd28efc7332da31667677a3c3d2a42daa901d72ea35a7207267ecb">SPELL_MARK_OF_MALICE_TRIGGERED</a> = 33494
- }</td></tr>
-<tr class="separator:a5faa1e1ef40cd28efc7332da31667677"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:dd/df4/a04800"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html">Acore</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:df/dcf/a04842"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dcf/a04842.html">Acore::Hyperlinks</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:d4/d06/a04843"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html">Acore::Hyperlinks::LinkTags</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a73cc3b14b22adefd27d34c736cafa480"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d09/a01118.html#a73cc3b14b22adefd27d34c736cafa480">make_base_tag</a>(ltag,  type)&#160;&#160;&#160;struct ltag : public base_tag { using value_type = type; static constexpr std::string_view tag() { return #ltag; } }</td></tr>
+<tr class="separator:a73cc3b14b22adefd27d34c736cafa480"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ad8948ff8ccd6c3cee367ad7227308846"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d09/a01118.html#ad8948ff8ccd6c3cee367ad7227308846">AddSC_instance_shadow_labyrinth</a> ()</td></tr>
-<tr class="separator:ad8948ff8ccd6c3cee367ad7227308846"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
-Variables</h2></td></tr>
-<tr class="memitem:a69c4a0ca4694d5ed1d42f0373dd5d80c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d67/a09670.html">DoorData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d09/a01118.html#a69c4a0ca4694d5ed1d42f0373dd5d80c">doorData</a> []</td></tr>
-<tr class="separator:a69c4a0ca4694d5ed1d42f0373dd5d80c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a412286b689bd324fedd65ddd8dde8afb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d7c/a09686.html">ObjectData</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d09/a01118.html#a412286b689bd324fedd65ddd8dde8afb">creatureData</a> []</td></tr>
-<tr class="separator:a412286b689bd324fedd65ddd8dde8afb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6ebb455ff3abbea4ad68bd1d7d05fd3a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#a6ebb455ff3abbea4ad68bd1d7d05fd3a">Acore::Hyperlinks::LinkTags::make_base_tag</a> (area, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:a6ebb455ff3abbea4ad68bd1d7d05fd3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0803de4bbc9edad4f5bb2afc3c242dca"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#a0803de4bbc9edad4f5bb2afc3c242dca">Acore::Hyperlinks::LinkTags::make_base_tag</a> (areatrigger, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:a0803de4bbc9edad4f5bb2afc3c242dca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa8156f2996632fd42a2e39b974426995"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#aa8156f2996632fd42a2e39b974426995">Acore::Hyperlinks::LinkTags::make_base_tag</a> (creature, <a class="el" href="../../d5/dac/a08455.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>)</td></tr>
+<tr class="separator:aa8156f2996632fd42a2e39b974426995"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a321da5d63921d41c561a1460929ac730"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#a321da5d63921d41c561a1460929ac730">Acore::Hyperlinks::LinkTags::make_base_tag</a> (creature_entry, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:a321da5d63921d41c561a1460929ac730"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afc9dbd840048c0031231bcdb7b2fcf04"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#afc9dbd840048c0031231bcdb7b2fcf04">Acore::Hyperlinks::LinkTags::make_base_tag</a> (gameevent, <a class="el" href="../../d9/d4e/a04307.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>)</td></tr>
+<tr class="separator:afc9dbd840048c0031231bcdb7b2fcf04"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7083d48423b83ff39095030678b29877"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#a7083d48423b83ff39095030678b29877">Acore::Hyperlinks::LinkTags::make_base_tag</a> (gameobject, <a class="el" href="../../d5/dac/a08455.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>)</td></tr>
+<tr class="separator:a7083d48423b83ff39095030678b29877"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae3a6cd0fbf426755d93a387882ff767"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#aae3a6cd0fbf426755d93a387882ff767">Acore::Hyperlinks::LinkTags::make_base_tag</a> (gameobject_entry, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:aae3a6cd0fbf426755d93a387882ff767"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa0ca4a111a856da9091a377934f8de93"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#aa0ca4a111a856da9091a377934f8de93">Acore::Hyperlinks::LinkTags::make_base_tag</a> (itemset, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:aa0ca4a111a856da9091a377934f8de93"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9990339040b491e108594df755f03a6c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#a9990339040b491e108594df755f03a6c">Acore::Hyperlinks::LinkTags::make_base_tag</a> (player, std::string_view)</td></tr>
+<tr class="separator:a9990339040b491e108594df755f03a6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa0200f5ae02cb0b03a9ab7097ca2a2ec"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#aa0200f5ae02cb0b03a9ab7097ca2a2ec">Acore::Hyperlinks::LinkTags::make_base_tag</a> (skill, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:aa0200f5ae02cb0b03a9ab7097ca2a2ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a32cfa3bc188d1b731f3e9e5dcc2de664"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#a32cfa3bc188d1b731f3e9e5dcc2de664">Acore::Hyperlinks::LinkTags::make_base_tag</a> (taxinode, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:a32cfa3bc188d1b731f3e9e5dcc2de664"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae0c637d10c728f04dc2468c15c3f8dca"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#ae0c637d10c728f04dc2468c15c3f8dca">Acore::Hyperlinks::LinkTags::make_base_tag</a> (tele, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:ae0c637d10c728f04dc2468c15c3f8dca"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abe0a588f1c0e66d33c8bc7a7d0a04459"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d06/a04843.html#abe0a588f1c0e66d33c8bc7a7d0a04459">Acore::Hyperlinks::LinkTags::make_base_tag</a> (title, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:abe0a588f1c0e66d33c8bc7a7d0a04459"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2c5596879f4531eeedbe15d1e4987918"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d0d/a07851.html">HyperlinkInfo</a> <a class="el" href="../../d9/d4e/a04307.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dcf/a04842.html#a2c5596879f4531eeedbe15d1e4987918">Acore::Hyperlinks::ParseSingleHyperlink</a> (std::string_view str)</td></tr>
+<tr class="separator:a2c5596879f4531eeedbe15d1e4987918"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a02761d9aa335689ff1b8dc1155b2a3c6"><td class="memItemLeft" align="right" valign="top">bool <a class="el" href="../../d9/d4e/a04307.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dcf/a04842.html#a02761d9aa335689ff1b8dc1155b2a3c6">Acore::Hyperlinks::CheckAllLinks</a> (std::string_view str)</td></tr>
+<tr class="separator:a02761d9aa335689ff1b8dc1155b2a3c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a5faa1e1ef40cd28efc7332da31667677" name="a5faa1e1ef40cd28efc7332da31667677"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5faa1e1ef40cd28efc7332da31667677">&#9670;&#160;</a></span>MarkOfMalice</h2>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a73cc3b14b22adefd27d34c736cafa480" name="a73cc3b14b22adefd27d34c736cafa480"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a73cc3b14b22adefd27d34c736cafa480">&#9670;&#160;</a></span>make_base_tag</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../dd/d09/a01118.html#a5faa1e1ef40cd28efc7332da31667677">MarkOfMalice</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a5faa1e1ef40cd28efc7332da31667677a3c3d2a42daa901d72ea35a7207267ecb" name="a5faa1e1ef40cd28efc7332da31667677a3c3d2a42daa901d72ea35a7207267ecb"></a>SPELL_MARK_OF_MALICE_TRIGGERED&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">  106</span>{</div>
-<div class="line"><span class="lineno">  107</span>    <a class="code hl_enumvalue" href="../../dd/d09/a01118.html#a5faa1e1ef40cd28efc7332da31667677a3c3d2a42daa901d72ea35a7207267ecb">SPELL_MARK_OF_MALICE_TRIGGERED</a> = 33494</div>
-<div class="line"><span class="lineno">  108</span>};</div>
-<div class="ttc" id="aa01118_html_a5faa1e1ef40cd28efc7332da31667677a3c3d2a42daa901d72ea35a7207267ecb"><div class="ttname"><a href="../../dd/d09/a01118.html#a5faa1e1ef40cd28efc7332da31667677a3c3d2a42daa901d72ea35a7207267ecb">SPELL_MARK_OF_MALICE_TRIGGERED</a></div><div class="ttdeci">@ SPELL_MARK_OF_MALICE_TRIGGERED</div><div class="ttdef"><b>Definition:</b> instance_shadow_labyrinth.cpp:107</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="ad8948ff8ccd6c3cee367ad7227308846" name="ad8948ff8ccd6c3cee367ad7227308846"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad8948ff8ccd6c3cee367ad7227308846">&#9670;&#160;</a></span>AddSC_instance_shadow_labyrinth()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void AddSC_instance_shadow_labyrinth </td>
+          <td class="memname">#define make_base_tag</td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">ltag, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">type&#160;</td>
         </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  137</span>{</div>
-<div class="line"><span class="lineno">  138</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../df/d25/a22914.html">instance_shadow_labyrinth</a>();</div>
-<div class="line"><span class="lineno">  139</span>    <a class="code hl_define" href="../../d1/d8f/a04202.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/ddd/a22922.html">spell_mark_of_malice</a>);</div>
-<div class="line"><span class="lineno">  140</span>}</div>
-<div class="ttc" id="aa04202_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../d1/d8f/a04202.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
-<div class="ttc" id="aa22914_html"><div class="ttname"><a href="../../df/d25/a22914.html">instance_shadow_labyrinth</a></div><div class="ttdef"><b>Definition:</b> instance_shadow_labyrinth.cpp:38</div></div>
-<div class="ttc" id="aa22922_html"><div class="ttname"><a href="../../da/ddd/a22922.html">spell_mark_of_malice</a></div><div class="ttdef"><b>Definition:</b> instance_shadow_labyrinth.cpp:111</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00122">AddOutlandScripts()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Variable Documentation</h2>
-<a id="a412286b689bd324fedd65ddd8dde8afb" name="a412286b689bd324fedd65ddd8dde8afb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a412286b689bd324fedd65ddd8dde8afb">&#9670;&#160;</a></span>creatureData</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/d7c/a09686.html">ObjectData</a> const creatureData[]</td>
+          <td></td>
+          <td>)</td>
+          <td></td><td>&#160;&#160;&#160;struct ltag : public base_tag { using value_type = type; static constexpr std::string_view tag() { return #ltag; } }</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d0/d39/a01112.html#a5aeaf5f332ee73166572f5313be89bf1ad42fe7f18144f0b2ff2949b85385db8b">NPC_HELLMAW</a>, <a class="code hl_enumvalue" href="../../d0/d39/a01112.html#a0bb87d52cf69de5a588288e14237b87da52ac1b40043222aff2cbe571a96bd05f">TYPE_HELLMAW</a> },</div>
-<div class="line">    { 0,           0            },</div>
-<div class="line">}</div>
-<div class="ttc" id="aa01112_html_a0bb87d52cf69de5a588288e14237b87da52ac1b40043222aff2cbe571a96bd05f"><div class="ttname"><a href="../../d0/d39/a01112.html#a0bb87d52cf69de5a588288e14237b87da52ac1b40043222aff2cbe571a96bd05f">TYPE_HELLMAW</a></div><div class="ttdeci">@ TYPE_HELLMAW</div><div class="ttdef"><b>Definition:</b> shadow_labyrinth.h:29</div></div>
-<div class="ttc" id="aa01112_html_a5aeaf5f332ee73166572f5313be89bf1ad42fe7f18144f0b2ff2949b85385db8b"><div class="ttname"><a href="../../d0/d39/a01112.html#a5aeaf5f332ee73166572f5313be89bf1ad42fe7f18144f0b2ff2949b85385db8b">NPC_HELLMAW</a></div><div class="ttdeci">@ NPC_HELLMAW</div><div class="ttdef"><b>Definition:</b> shadow_labyrinth.h:41</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00049">instance_shadow_labyrinth::instance_shadow_labyrinth_InstanceMapScript::instance_shadow_labyrinth_InstanceMapScript()</a>.</p>
-
-</div>
-</div>
-<a id="a69c4a0ca4694d5ed1d42f0373dd5d80c" name="a69c4a0ca4694d5ed1d42f0373dd5d80c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a69c4a0ca4694d5ed1d42f0373dd5d80c">&#9670;&#160;</a></span>doorData</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d7/d67/a09670.html">DoorData</a> const doorData[]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">=</div>
-<div class="line">{</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d0/d39/a01112.html#a5aeaf5f332ee73166572f5313be89bf1a84947de77bc0d365a3dbc4c222a80d7c">GO_REFECTORY_DOOR</a>,      <a class="code hl_enumvalue" href="../../d0/d39/a01112.html#a0bb87d52cf69de5a588288e14237b87da5e5ecb7b6f8d204717412ca517a3aa26">DATA_BLACKHEARTTHEINCITEREVENT</a>, <a class="code hl_enumvalue" href="../../dd/d87/a03569.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a> },</div>
-<div class="line">    { <a class="code hl_enumvalue" href="../../d0/d39/a01112.html#a5aeaf5f332ee73166572f5313be89bf1a8dcc6b729c4258a8e241fa45bff0798a">GO_SCREAMING_HALL_DOOR</a>, <a class="code hl_enumvalue" href="../../d0/d39/a01112.html#a0bb87d52cf69de5a588288e14237b87dabbbeb54dc0be17516ae2b37fd91b4748">DATA_GRANDMASTER_VORPIL</a>,        <a class="code hl_enumvalue" href="../../dd/d87/a03569.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a> },</div>
-<div class="line">    { 0,                      0,                              <a class="code hl_enumvalue" href="../../dd/d87/a03569.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a>    }  </div>
-<div class="line">}</div>
-<div class="ttc" id="aa01112_html_a0bb87d52cf69de5a588288e14237b87da5e5ecb7b6f8d204717412ca517a3aa26"><div class="ttname"><a href="../../d0/d39/a01112.html#a0bb87d52cf69de5a588288e14237b87da5e5ecb7b6f8d204717412ca517a3aa26">DATA_BLACKHEARTTHEINCITEREVENT</a></div><div class="ttdeci">@ DATA_BLACKHEARTTHEINCITEREVENT</div><div class="ttdef"><b>Definition:</b> shadow_labyrinth.h:30</div></div>
-<div class="ttc" id="aa01112_html_a0bb87d52cf69de5a588288e14237b87dabbbeb54dc0be17516ae2b37fd91b4748"><div class="ttname"><a href="../../d0/d39/a01112.html#a0bb87d52cf69de5a588288e14237b87dabbbeb54dc0be17516ae2b37fd91b4748">DATA_GRANDMASTER_VORPIL</a></div><div class="ttdeci">@ DATA_GRANDMASTER_VORPIL</div><div class="ttdef"><b>Definition:</b> shadow_labyrinth.h:31</div></div>
-<div class="ttc" id="aa01112_html_a5aeaf5f332ee73166572f5313be89bf1a84947de77bc0d365a3dbc4c222a80d7c"><div class="ttname"><a href="../../d0/d39/a01112.html#a5aeaf5f332ee73166572f5313be89bf1a84947de77bc0d365a3dbc4c222a80d7c">GO_REFECTORY_DOOR</a></div><div class="ttdeci">@ GO_REFECTORY_DOOR</div><div class="ttdef"><b>Definition:</b> shadow_labyrinth.h:43</div></div>
-<div class="ttc" id="aa01112_html_a5aeaf5f332ee73166572f5313be89bf1a8dcc6b729c4258a8e241fa45bff0798a"><div class="ttname"><a href="../../d0/d39/a01112.html#a5aeaf5f332ee73166572f5313be89bf1a8dcc6b729c4258a8e241fa45bff0798a">GO_SCREAMING_HALL_DOOR</a></div><div class="ttdeci">@ GO_SCREAMING_HALL_DOOR</div><div class="ttdef"><b>Definition:</b> shadow_labyrinth.h:44</div></div>
-<div class="ttc" id="aa03569_html_ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70"><div class="ttname"><a href="../../dd/d87/a03569.html#ac3549b9e861c142e11e5ad86b8b6947ea0d4c5d0a346fffd6ae47ef760c9f8d70">DOOR_TYPE_ROOM</a></div><div class="ttdeci">@ DOOR_TYPE_ROOM</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:68</div></div>
-<div class="ttc" id="aa03569_html_ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905"><div class="ttname"><a href="../../dd/d87/a03569.html#ac3549b9e861c142e11e5ad86b8b6947eabf8a73ae3dd3b7fd667a2c7f58414905">DOOR_TYPE_PASSAGE</a></div><div class="ttdeci">@ DOOR_TYPE_PASSAGE</div><div class="ttdef"><b>Definition:</b> InstanceScript.h:69</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00049">instance_shadow_labyrinth::instance_shadow_labyrinth_InstanceMapScript::instance_shadow_labyrinth_InstanceMapScript()</a>.</p>
 
 </div>
 </div>
@@ -255,8 +238,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_aa56e8ce1c3e0d32a59f1a16b86dbc72.html">Outland</a></li><li class="navelem"><a class="el" href="../../dir_c7e05c53196747da9983be071547f846.html">Auchindoun</a></li><li class="navelem"><a class="el" href="../../dir_612bf286bdc2eee44a54f756a23b5f5c.html">ShadowLabyrinth</a></li><li class="navelem"><a class="el" href="../../dd/d09/a01118.html">instance_shadow_labyrinth.cpp</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:44:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_696eb3df8c264f77a3b72ba3d62ed649.html">Chat</a></li><li class="navelem"><a class="el" href="../../dd/d09/a01118.html">Hyperlinks.h</a></li>
+    <li class="footer">Generated on Mon Sep 29 2025 20:45:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,7 +1,7 @@
 var a18387 =
 [
-    [ "ValithriaDespawner", "d3/db9/a18387.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
-    [ "Execute", "d3/db9/a18387.html#a4f8c63f52996da14078a7196cae3a00d", null ],
-    [ "operator()", "d3/db9/a18387.html#a05bae39d642f294f2ef98151d66ba382", null ],
-    [ "_creature", "d3/db9/a18387.html#a64bf6181ad867efd987edec141ca3bf0", null ]
+    [ "TriggerWickedSpirit", "d3/db9/a18387.html#ace62bc037a2bd8ca9c9c56202eb811e7", null ],
+    [ "Execute", "d3/db9/a18387.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d", null ],
+    [ "_counter", "d3/db9/a18387.html#a24b85a62208f881418f97b0a8cb10f27", null ],
+    [ "_owner", "d3/db9/a18387.html#ab460675158bfedd7f17a4b8e1cc06b3c", null ]
 ];

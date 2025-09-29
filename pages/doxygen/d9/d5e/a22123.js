@@ -1,6 +1,10 @@
 var a22123 =
 [
-    [ "npc_vekjik", "d9/d5e/a22123.html#a7439c6038237b77ba8623ae92d6cf708", null ],
-    [ "OnGossipHello", "d9/d5e/a22123.html#acdbba5b4970049e72477eccf6672b0e8", null ],
-    [ "OnGossipSelect", "d9/d5e/a22123.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
+    [ "npc_emilyAI", "d9/d5e/a22123.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "d9/d5e/a22123.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "d9/d5e/a22123.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "d9/d5e/a22123.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "d9/d5e/a22123.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "_mrfloppyGUID", "d9/d5e/a22123.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "d9/d5e/a22123.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

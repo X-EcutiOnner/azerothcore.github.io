@@ -1,7 +1,8 @@
 var a06099 =
 [
-    [ "ReactorAI", "df/d93/a06099.html#aaea292c46945399cf7c855e642941c2d", null ],
-    [ "MoveInLineOfSight", "df/d93/a06099.html#a224608a62a15d679863d68d7d0e32dde", null ],
-    [ "Permissible", "df/d93/a06099.html#a1b0845464b0d356be7bf38e65ab5eb19", null ],
-    [ "UpdateAI", "df/d93/a06099.html#a10c4c10d9ac942990d1a1ef9eb6603ad", null ]
+    [ "BannedAddon", "df/d93/a06099.html#aadd8cb8602ec03455a91b4f49767fdc8", null ],
+    [ "Id", "df/d93/a06099.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
+    [ "NameMD5", "df/d93/a06099.html#a67c4437044d747ff9867a71967697767", null ],
+    [ "Timestamp", "df/d93/a06099.html#af62257c39a4ae1eba959086e981b0d19", null ],
+    [ "VersionMD5", "df/d93/a06099.html#acb8dbe824f71363eb81504f43a126d96", null ]
 ];

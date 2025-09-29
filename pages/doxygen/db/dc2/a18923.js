@@ -1,6 +1,6 @@
 var a18923 =
 [
-    [ "boss_gluthAI", "d9/d64/a18927.html", "d9/d64/a18927" ],
-    [ "boss_gluth", "db/dc2/a18923.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
-    [ "GetAI", "db/dc2/a18923.html#a3b19c938aaecc897d6552715064be7f8", null ]
+    [ "PrepareSpellScript", "db/dc2/a18923.html#aac12da39c503615036120e3e0cd55622", null ],
+    [ "Register", "db/dc2/a18923.html#a808d2283be9714c14f22a2df0a52dd61", null ],
+    [ "RelocateDest", "db/dc2/a18923.html#a843c9dc403404ddd2de667e57e01f00c", null ]
 ];

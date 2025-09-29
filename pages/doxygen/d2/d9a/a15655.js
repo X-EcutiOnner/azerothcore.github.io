@@ -1,6 +1,7 @@
 var a15655 =
 [
-    [ "SayerEntry", "d2/d9a/a15655.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
-    [ "SayTimer", "d2/d9a/a15655.html#a942073f24fd12da712184243d9f098f2", null ],
-    [ "TextEntry", "d2/d9a/a15655.html#a360822e4c069be6019c0a465cb2499cf", null ]
+    [ "HandleDummy", "d2/d9a/a15655.html#a38dafff805471b19ca3cca4ff5273a87", null ],
+    [ "PrepareSpellScript", "d2/d9a/a15655.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
+    [ "Register", "d2/d9a/a15655.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
+    [ "Validate", "d2/d9a/a15655.html#abb7946f53e6271ae69d34caacef61f47", null ]
 ];

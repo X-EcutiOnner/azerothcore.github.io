@@ -1,11 +1,9 @@
 var a27063 =
 [
-    [ "npc_dream_fogAI", "db/da3/a27063.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
-    [ "GetRandomUnitFromDragonThreatList", "db/da3/a27063.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
-    [ "Reset", "db/da3/a27063.html#a595eeeae54d4bf323287fc408f706ac6", null ],
-    [ "ScheduleEvents", "db/da3/a27063.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
-    [ "SetGUID", "db/da3/a27063.html#aa223fc3eaa1096d0bad578a88b81ab7e", null ],
-    [ "UpdateAI", "db/da3/a27063.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
-    [ "_dragonGUID", "db/da3/a27063.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
-    [ "_targetGUID", "db/da3/a27063.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
+    [ "CheckCast", "db/da3/a27063.html#a846862b62f5750801cd804133f290d5d", null ],
+    [ "HandleDummy", "db/da3/a27063.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
+    [ "Load", "db/da3/a27063.html#acec7437ba80e4ae491020448a36e4559", null ],
+    [ "PrepareSpellScript", "db/da3/a27063.html#ab5e281028c009a4b317111de9a0a17e3", null ],
+    [ "Register", "db/da3/a27063.html#a865fa526f2131703a668e113ba0d7849", null ],
+    [ "Validate", "db/da3/a27063.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
 ];

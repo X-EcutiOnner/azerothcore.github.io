@@ -1,6 +1,7 @@
 var a17543 =
 [
-    [ "npc_gunship_mageAI", "db/d3f/a17547.html", "db/d3f/a17547" ],
-    [ "npc_gunship_mage", "d0/d25/a17543.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
-    [ "GetAI", "d0/d25/a17543.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
+    [ "HandleDummyTick", "d0/d25/a17543.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
+    [ "PrepareAuraScript", "d0/d25/a17543.html#a577523701b5a4ea2def4999e634c8862", null ],
+    [ "Register", "d0/d25/a17543.html#aaad9185c62333de4d6704b22780edd28", null ],
+    [ "Validate", "d0/d25/a17543.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
 ];

@@ -1,17 +1,17 @@
 var a11127 =
 [
-    [ "StaticData", "d8/d26/a11131.html", "d8/d26/a11131" ],
-    [ "SpellImplicitTargetInfo", "dc/de6/a11127.html#a6eadac193f40d3a14db74d6e07552bdb", null ],
-    [ "SpellImplicitTargetInfo", "dc/de6/a11127.html#a8e746c8dd4956a1bedc78c932740dfca", null ],
-    [ "CalcDirectionAngle", "dc/de6/a11127.html#ac726d7df6103bc991e650c5d221ec4cc", null ],
-    [ "GetCheckType", "dc/de6/a11127.html#a1822c2908aff0701ab6e56ccf1c83a83", null ],
-    [ "GetDirectionType", "dc/de6/a11127.html#a094f5c6bc82196355aeded09cb469b7c", null ],
-    [ "GetExplicitTargetMask", "dc/de6/a11127.html#ad368870f99d85f27ae2a15ee75b4b5dd", null ],
-    [ "GetObjectType", "dc/de6/a11127.html#a964c185b1d3ed3563c6efa68e8bf9f42", null ],
-    [ "GetReferenceType", "dc/de6/a11127.html#a59769a12291673682e1b5c3650e8aff7", null ],
-    [ "GetSelectionCategory", "dc/de6/a11127.html#a5dd39484ccfed1e34b27d957614b45e6", null ],
-    [ "GetTarget", "dc/de6/a11127.html#ae5a138c973300efce4744ea260108097", null ],
-    [ "IsArea", "dc/de6/a11127.html#a263a4660dfdf8b77f69e5475048b414b", null ],
-    [ "_data", "dc/de6/a11127.html#a1a05bbd8400ec4451ca34b2754e056e9", null ],
-    [ "_target", "dc/de6/a11127.html#ab2cec29c53f0b9bc6a016ce177f97c1d", null ]
+    [ "WorldPacket", "dc/de6/a11127.html#a6329945c46586b75f41f4f3b0410a046", null ],
+    [ "WorldPacket", "dc/de6/a11127.html#a121222c627cfce905891be1611705a1a", null ],
+    [ "WorldPacket", "dc/de6/a11127.html#af406fe2f357035990fd5eccf37f3fb93", null ],
+    [ "WorldPacket", "dc/de6/a11127.html#a2880e36e172096407778fcbbdfe917bc", null ],
+    [ "WorldPacket", "dc/de6/a11127.html#a251580581b403cc113aa743c0196ceea", null ],
+    [ "WorldPacket", "dc/de6/a11127.html#a224a2ad18da5d8dd7a7bcbb887870243", null ],
+    [ "GetOpcode", "dc/de6/a11127.html#a666547feae3b83bfbba424a541287239", null ],
+    [ "GetReceivedTime", "dc/de6/a11127.html#a467aa36509adcb07f51bc8af24137c3e", null ],
+    [ "Initialize", "dc/de6/a11127.html#a6b7d58fb0230383629fa888d3aa9dbd8", null ],
+    [ "operator=", "dc/de6/a11127.html#ad44064a3c2c73f6289a9db539b408f50", null ],
+    [ "operator=", "dc/de6/a11127.html#aa1196a05e7b338543b3b94188e59721f", null ],
+    [ "SetOpcode", "dc/de6/a11127.html#acb55a3f9540c39bf88300473c29605ed", null ],
+    [ "m_opcode", "dc/de6/a11127.html#a4ff77d8a27744f07bbab70cdc4a3ef91", null ],
+    [ "m_receivedTime", "dc/de6/a11127.html#abb78776ad3a0f19e5e3d226666612b49", null ]
 ];

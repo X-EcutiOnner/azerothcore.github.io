@@ -1,12 +1,8 @@
 var a22207 =
 [
-    [ "npc_time_lost_proto_drakeAI", "d9/df8/a22207.html#ab98805519233eda932c6131aca059a8b", null ],
-    [ "JustEngagedWith", "d9/df8/a22207.html#a14f41b30451b8ac8fe2411ec7102ae81", null ],
-    [ "Reset", "d9/df8/a22207.html#a418ea9621040e3c717c4e24f73539f44", null ],
-    [ "RollPath", "d9/df8/a22207.html#aabb3dd1d54a1290d500429efc8fa9e41", null ],
-    [ "UpdateEscortAI", "d9/df8/a22207.html#a1a5442a5796b27d04eaa3ab62c613199", null ],
-    [ "WaypointReached", "d9/df8/a22207.html#ad262b9dbc0edd2bac126fafbb5eb5f01", null ],
-    [ "events", "d9/df8/a22207.html#aa2e4c3396d63d85a5d0abc8c74e58a79", null ],
-    [ "rollPath", "d9/df8/a22207.html#a5431fd5a0801569bc03507818461aa7d", null ],
-    [ "setVisible", "d9/df8/a22207.html#a63558b3406c241ecb27f3e485eeb439b", null ]
+    [ "HandleEffectApply", "d9/df8/a22207.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
+    [ "HandleEffectPeriodic", "d9/df8/a22207.html#a183976530ebf604656db12e41449427e", null ],
+    [ "PrepareAuraScript", "d9/df8/a22207.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
+    [ "Register", "d9/df8/a22207.html#a76be53d506933d4b3c758578b7c33d5f", null ],
+    [ "_posZ", "d9/df8/a22207.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
 ];

@@ -1,10 +1,5 @@
 var a20491 =
 [
-    [ "npc_ulduar_harpoonfirestateAI", "da/d03/a20491.html#acc6853671f37e35c746ffa3807ae10b2", null ],
-    [ "GetData", "da/d03/a20491.html#ac23f2c901ef8c2160ceea43a0a15e185", null ],
-    [ "GetHarpoonGunIdForThisHFS", "da/d03/a20491.html#af21c4d50febac02eb0572efe564a19b1", null ],
-    [ "Reset", "da/d03/a20491.html#af300a8271762fe1b5582384114902ee8", null ],
-    [ "SetData", "da/d03/a20491.html#abf485123f0a73aa84ad5178e23c4192e", null ],
-    [ "pInstance", "da/d03/a20491.html#af576864ded6610daad973ac420d2fdb8", null ],
-    [ "repairPoints", "da/d03/a20491.html#a5e9bcd384285b9046da93bd18804d07b", null ]
+    [ "achievement_getting_cold_in_here", "da/d03/a20491.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
+    [ "OnCheck", "da/d03/a20491.html#aeafd382d378381f754da6ee04d382276", null ]
 ];

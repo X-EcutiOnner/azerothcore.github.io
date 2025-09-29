@@ -1,12 +1,12 @@
 var a07367 =
 [
-    [ "CapturePointInfo", "dc/df9/a07367.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
-    [ "IsUncontrolled", "dc/df9/a07367.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
-    [ "IsUnderControl", "dc/df9/a07367.html#a3f33897525f5104e2e7733dd6247c090", null ],
-    [ "IsUnderControl", "dc/df9/a07367.html#af6b021020b120b87c300981b8bb60992", null ],
-    [ "_areaTrigger", "dc/df9/a07367.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
-    [ "_barStatus", "dc/df9/a07367.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
-    [ "_ownerTeamId", "dc/df9/a07367.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
-    [ "_playersCount", "dc/df9/a07367.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
-    [ "player", "dc/df9/a07367.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
+    [ "BGQueueRemoveEvent", "dc/df9/a07367.html#ab751b728f64b2928eefb21f756539d81", null ],
+    [ "~BGQueueRemoveEvent", "dc/df9/a07367.html#aab9ea24041888975439aafb246c571c3", null ],
+    [ "Abort", "dc/df9/a07367.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
+    [ "Execute", "dc/df9/a07367.html#a42482ff784da4b23b568888a74a0b531", null ],
+    [ "m_BgInstanceGUID", "dc/df9/a07367.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
+    [ "m_BgQueueTypeId", "dc/df9/a07367.html#ac059a823ae49bd0250eec15845bf153b", null ],
+    [ "m_BgTypeId", "dc/df9/a07367.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
+    [ "m_PlayerGuid", "dc/df9/a07367.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
+    [ "m_RemoveTime", "dc/df9/a07367.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
 ];

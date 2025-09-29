@@ -1,6 +1,6 @@
 var a26443 =
 [
-    [ "PrepareSpellScript", "dd/d2d/a26443.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
-    [ "Register", "dd/d2d/a26443.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
-    [ "SetDest", "dd/d2d/a26443.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
+    [ "HandleAfterHit", "dd/d2d/a26443.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
+    [ "PrepareSpellScript", "dd/d2d/a26443.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
+    [ "Register", "dd/d2d/a26443.html#a2a780069022e62b14992a7b69626ac3d", null ]
 ];

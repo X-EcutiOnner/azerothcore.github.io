@@ -1,7 +1,8 @@
 var a04870 =
 [
-    [ "indices", "d4/db9/a04870.html#a23cadbd54502fb4edc68e052e5774664", null ],
-    [ "maxPrims", "d4/db9/a04870.html#a0c46f35977fe683a19e7cb1e580a814b", null ],
-    [ "numPrims", "d4/db9/a04870.html#a623b9ee05707ecdbaa816c797e358e86", null ],
-    [ "primBound", "d4/db9/a04870.html#a3304ad5d821f178941fd44da897213de", null ]
+    [ "CorpseMapPositionQuery", "d0/d76/a11051.html", "d0/d76/a11051" ],
+    [ "NameQuery", "d7/d9b/a11035.html", "d7/d9b/a11035" ],
+    [ "NameQueryResponse", "db/df1/a11039.html", "db/df1/a11039" ],
+    [ "TimeQuery", "d1/d0c/a11043.html", "d1/d0c/a11043" ],
+    [ "TimeQueryResponse", "de/d4f/a11047.html", "de/d4f/a11047" ]
 ];

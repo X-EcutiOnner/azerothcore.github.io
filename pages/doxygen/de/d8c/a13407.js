@@ -1,6 +1,9 @@
 var a13407 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "d2/d5d/a13411.html", "d2/d5d/a13411" ],
-    [ "instance_the_stockade", "de/d8c/a13407.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "de/d8c/a13407.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "boss_brutallus", "de/d8c/a13407.html#a501c898505eb4265edee1546bc54713e", null ],
+    [ "AttackStart", "de/d8c/a13407.html#a05edf7010f4e7364399bc81582502219", null ],
+    [ "JustDied", "de/d8c/a13407.html#a48ae6589613f2ac90a499b9b6ae07d01", null ],
+    [ "JustEngagedWith", "de/d8c/a13407.html#a04ff0c07c578c3b92cf45d1ed27fb883", null ],
+    [ "KilledUnit", "de/d8c/a13407.html#a608607d83680da85f91324ce0035804b", null ],
+    [ "Reset", "de/d8c/a13407.html#a20ad64739072e39e7ff3132c6f637af7", null ]
 ];

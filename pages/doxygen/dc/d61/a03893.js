@@ -1,13 +1,21 @@
 var a03893 =
 [
-    [ "WorldPackets::Character::ShowingCloak", "db/dab/a10518.html", "db/dab/a10518" ],
-    [ "WorldPackets::Character::ShowingHelm", "d5/dea/a10522.html", "d5/dea/a10522" ],
-    [ "WorldPackets::Character::LogoutRequest", "d5/d6f/a10526.html", "d5/d6f/a10526" ],
-    [ "WorldPackets::Character::LogoutResponse", "da/d61/a10530.html", "da/d61/a10530" ],
-    [ "WorldPackets::Character::LogoutComplete", "d3/db2/a10534.html", "d3/db2/a10534" ],
-    [ "WorldPackets::Character::LogoutCancel", "d5/d4e/a10538.html", "d5/d4e/a10538" ],
-    [ "WorldPackets::Character::LogoutCancelAck", "da/d5d/a10542.html", "da/d5d/a10542" ],
-    [ "WorldPackets::Character::PlayerLogout", "d0/d62/a10546.html", "d0/d62/a10546" ],
-    [ "WorldPackets::Character::PlayedTimeClient", "d6/d34/a10550.html", "d6/d34/a10550" ],
-    [ "WorldPackets::Character::PlayedTime", "d6/de1/a10554.html", "d6/de1/a10554" ]
+    [ "item_only_for_flight", "d0/d43/a27635.html", "d0/d43/a27635" ],
+    [ "item_incendiary_explosives", "d0/d2f/a27639.html", "d0/d2f/a27639" ],
+    [ "item_mysterious_egg", "df/d2b/a27643.html", "df/d2b/a27643" ],
+    [ "item_disgusting_jar", "d2/dfc/a27647.html", "d2/dfc/a27647" ],
+    [ "item_petrov_cluster_bombs", "d7/d02/a27651.html", "d7/d02/a27651" ],
+    [ "item_captured_frog", "dc/d0b/a27655.html", "dc/d0b/a27655" ],
+    [ "item_generic_limit_chance_above_60", "dc/d81/a27659.html", "dc/d81/a27659" ],
+    [ "CapturedFrog", "dc/d61/a03893.html#a3a51d3f5cfd1964cbec23fcba5046cca", [
+      [ "QUEST_THE_PERFECT_SPIES", "dc/d61/a03893.html#a3a51d3f5cfd1964cbec23fcba5046ccaac3f8eeb86f6f3fe350b15b7a2d86bb04", null ],
+      [ "NPC_VANIRAS_SENTRY_TOTEM", "dc/d61/a03893.html#a3a51d3f5cfd1964cbec23fcba5046ccaac387e8b467655f50a7dbaa8bcd0de57f", null ]
+    ] ],
+    [ "OnlyForFlight", "dc/d61/a03893.html#afa5a0f3082f0a49fcc796209c7828151", [
+      [ "SPELL_ARCANE_CHARGES", "dc/d61/a03893.html#afa5a0f3082f0a49fcc796209c7828151aeefbb491736447da40481cf5a8742e2d", null ]
+    ] ],
+    [ "PetrovClusterBombs", "dc/d61/a03893.html#a5481d2bf1b9efa370833eed302f6f94c", [
+      [ "SPELL_PETROV_BOMB", "dc/d61/a03893.html#a5481d2bf1b9efa370833eed302f6f94ca52897b7254f1ac012c7e278d8dcbd8b6", null ]
+    ] ],
+    [ "AddSC_item_scripts", "dc/d61/a03893.html#a3e28ebf5a580887bb117f786689a34c6", null ]
 ];

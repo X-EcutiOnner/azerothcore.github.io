@@ -1,11 +1,10 @@
 var a14207 =
 [
-    [ "npc_winterfin_playmate", "dc/d50/a14207.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
-    [ "MoveInLineOfSight", "dc/d50/a14207.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
-    [ "Reset", "dc/d50/a14207.html#aae6b51c22dc0448608c1cf9412565e25", null ],
-    [ "UpdateAI", "dc/d50/a14207.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
-    [ "orphanGUID", "dc/d50/a14207.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
-    [ "phase", "dc/d50/a14207.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
-    [ "playerGUID", "dc/d50/a14207.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
-    [ "timer", "dc/d50/a14207.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
+    [ "boss_jeklik", "dc/d50/a14207.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
+    [ "EnterEvadeMode", "dc/d50/a14207.html#a70dc363e0690e72846db5f779375edc1", null ],
+    [ "JustDied", "dc/d50/a14207.html#ae648ba9ff49f4970612a8c3351789b66", null ],
+    [ "JustEngagedWith", "dc/d50/a14207.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
+    [ "PathEndReached", "dc/d50/a14207.html#a689e8f91361de45e6f885fea0dec900a", null ],
+    [ "Reset", "dc/d50/a14207.html#a7959106123e60e3584b32b50a272746c", null ],
+    [ "batRidersCount", "dc/d50/a14207.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
 ];

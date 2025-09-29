@@ -1,8 +1,12 @@
 var a13155 =
 [
-    [ "npc_madrigosa", "da/dbf/a13155.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
-    [ "DoAction", "da/dbf/a13155.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
-    [ "UpdateAI", "da/dbf/a13155.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
-    [ "events", "da/dbf/a13155.html#a5859e4c8454371eb71740616d4763c0e", null ],
-    [ "instance", "da/dbf/a13155.html#a09525d3bb35d1da4246bd84bbadea304", null ]
+    [ "npc_koltira_deathweaverAI", "da/dbf/a13155.html#adbc46fce90170aec986faacf012bd2b2", null ],
+    [ "MovementInform", "da/dbf/a13155.html#afed53c190d875d0e59775ebfeb749fcf", null ],
+    [ "Reset", "da/dbf/a13155.html#ac07053d3798d57449c23bfff68e12f1b", null ],
+    [ "sGossipSelect", "da/dbf/a13155.html#af481beffaeb97a69483a62fd5f110616", null ],
+    [ "sQuestAccept", "da/dbf/a13155.html#a83fa04558bc7617b561ec05da9f2a6a1", null ],
+    [ "StartEvent", "da/dbf/a13155.html#aa4f0df71fb88f6685f2c27f19a34b2b3", null ],
+    [ "SummonedCreatureDies", "da/dbf/a13155.html#a967575fafe29db364b4e6a00a5e0457b", null ],
+    [ "UpdateAI", "da/dbf/a13155.html#ac90ed956ba45b6363a21af76393126ac", null ],
+    [ "_valrothGUID", "da/dbf/a13155.html#ad041942412fb8288ff5f850ee6472e78", null ]
 ];

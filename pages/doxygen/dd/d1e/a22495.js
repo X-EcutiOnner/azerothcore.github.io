@@ -1,5 +1,6 @@
 var a22495 =
 [
-    [ "OutdoorPvP_terokkar_forest", "dd/d1e/a22495.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
-    [ "GetOutdoorPvP", "dd/d1e/a22495.html#acf268293812d7a1a233e7f1fcba1e733", null ]
+    [ "npc_wild_wyrmAI", "d6/d3c/a22499.html", "d6/d3c/a22499" ],
+    [ "npc_wild_wyrm", "dd/d1e/a22495.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
+    [ "GetAI", "dd/d1e/a22495.html#aedba91446fe12997047070f123d925d2", null ]
 ];

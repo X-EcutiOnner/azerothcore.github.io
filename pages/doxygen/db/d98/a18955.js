@@ -1,6 +1,7 @@
 var a18955 =
 [
-    [ "npc_gothik_triggerAI", "d2/d7c/a18959.html", "d2/d7c/a18959" ],
-    [ "npc_gothik_trigger", "db/d98/a18955.html#a6975122d49b0d76fb2b33b310a7ccb71", null ],
-    [ "GetAI", "db/d98/a18955.html#a9b3b47e95d2c41c109a9ccd3915b89ff", null ]
+    [ "HandleEffectPeriodic", "db/d98/a18955.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
+    [ "PrepareAuraScript", "db/d98/a18955.html#af1d284c4686f739b02b350a6c0a166c2", null ],
+    [ "Register", "db/d98/a18955.html#a006a97823ac07346771ec4ab61bd0763", null ],
+    [ "Validate", "db/d98/a18955.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
 ];

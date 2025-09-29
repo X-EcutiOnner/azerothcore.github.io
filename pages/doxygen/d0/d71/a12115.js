@@ -1,5 +1,6 @@
 var a12115 =
 [
-    [ "at_blackrock_stadium", "d0/d71/a12115.html#a9f577437f231a189c02e50e71ffcb85a", null ],
-    [ "OnTrigger", "d0/d71/a12115.html#a26e43099d9253ea44060194e3b38c656", null ]
+    [ "boss_magmusAI", "d8/d4f/a12119.html", "d8/d4f/a12119" ],
+    [ "boss_magmus", "d0/d71/a12115.html#a97747c0d7e1fd33204033d6061d6d570", null ],
+    [ "GetAI", "d0/d71/a12115.html#a171bc08a8dd9fa502f3b2b6cf736fd52", null ]
 ];

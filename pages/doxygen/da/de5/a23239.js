@@ -1,6 +1,7 @@
 var a23239 =
 [
-    [ "go_ahune_ice_stone", "da/de5/a23239.html#ab7b665f01da80751ea97705c5113bde7", null ],
-    [ "GossipSelect", "da/de5/a23239.html#aadb4db41ed84922c0a2d0463b8616876", null ],
-    [ "_instance", "da/de5/a23239.html#a43651f471ac777b59fb8ba67b830cd35", null ]
+    [ "HandleOnHit", "da/de5/a23239.html#a9f368396cef39ba3bd70480f11c44700", null ],
+    [ "PrepareSpellScript", "da/de5/a23239.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
+    [ "Register", "da/de5/a23239.html#a99f80adcebdd9726a8df51f99d415651", null ],
+    [ "Validate", "da/de5/a23239.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
 ];

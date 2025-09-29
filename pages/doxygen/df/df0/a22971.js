@@ -1,6 +1,7 @@
 var a22971 =
 [
-    [ "instance_black_temple_InstanceMapScript", "d3/d65/a22975.html", "d3/d65/a22975" ],
-    [ "instance_black_temple", "df/df0/a22971.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
-    [ "GetInstanceScript", "df/df0/a22971.html#a947a1279eabde75d9884b1ef84b295a3", null ]
+    [ "npc_blade_of_azzinoth", "df/df0/a22971.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "df/df0/a22971.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "df/df0/a22971.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "df/df0/a22971.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

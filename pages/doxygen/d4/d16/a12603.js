@@ -1,7 +1,8 @@
 var a12603 =
 [
-    [ "npc_malchezaar_axe", "d4/d16/a12603.html#a1a5615f2def10add30e7917b770ebc74", null ],
-    [ "Initialize", "d4/d16/a12603.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
-    [ "JustEngagedWith", "d4/d16/a12603.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
-    [ "UpdateAI", "d4/d16/a12603.html#a202ba6922a426f87909eefbccd070175", null ]
+    [ "boss_majordomoAI", "d2/d85/a12607.html", "d2/d85/a12607" ],
+    [ "boss_majordomo", "d4/d16/a12603.html#a77a1ff3d2c7aafecad9f78fcd87536b1", null ],
+    [ "GetAI", "d4/d16/a12603.html#aceae0dc662e93bf68556073e8b324964", null ],
+    [ "OnGossipHello", "d4/d16/a12603.html#a8d1b625df61b27fef0bfe6f635a3b7ae", null ],
+    [ "OnGossipSelect", "d4/d16/a12603.html#a69c2c5fc557b02c9a0b26bdb7b57443c", null ]
 ];

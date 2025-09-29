@@ -1,6 +1,5 @@
 var a20371 =
 [
-    [ "npc_ulduar_aerial_command_unitAI", "d0/de9/a20375.html", "d0/de9/a20375" ],
-    [ "npc_ulduar_aerial_command_unit", "dd/d59/a20371.html#ac0c1ecef78b92dd4ae072f6eeca9f733", null ],
-    [ "GetAI", "dd/d59/a20371.html#a406e828a902d75bb1946fd8f5090044f", null ]
+    [ "go_ulduar_pure_saronite_deposit", "dd/d59/a20371.html#a39da51a78b9f27392ed7494e18e89b93", null ],
+    [ "OnGossipHello", "dd/d59/a20371.html#ab69c5b514e0b79ff7155e0080841d4a2", null ]
 ];

@@ -1,6 +1,7 @@
 var a22271 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "db/d12/a22275.html", "db/d12/a22275" ],
-    [ "npc_vehicle_d16_propelled_delivery", "db/de1/a22271.html#a93bed362ae78231b21327994a3e4cafd", null ],
-    [ "GetAI", "db/de1/a22271.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
+    [ "npc_battle_at_valhalasAI", "db/d12/a22275.html", "db/d12/a22275" ],
+    [ "npc_battle_at_valhalas", "db/de1/a22271.html#aacec717b5b91ae55307c9642779c15ec", null ],
+    [ "GetAI", "db/de1/a22271.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
+    [ "OnQuestAccept", "db/de1/a22271.html#addd76fd9f4b4f8ce706693614b80966b", null ]
 ];

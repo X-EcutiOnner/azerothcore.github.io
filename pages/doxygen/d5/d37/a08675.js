@@ -1,11 +1,11 @@
 var a08675 =
 [
-    [ "DispelInfo", "d5/d37/a08675.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
-    [ "GetDispeller", "d5/d37/a08675.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
-    [ "GetDispellerSpellId", "d5/d37/a08675.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
-    [ "GetRemovedCharges", "d5/d37/a08675.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
-    [ "SetRemovedCharges", "d5/d37/a08675.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
-    [ "_chargesRemoved", "d5/d37/a08675.html#a5b6105f37470acb57bbda3e14ee664be", null ],
-    [ "_dispellerSpell", "d5/d37/a08675.html#a484e6d516c5de30413e97f2c4abb5515", null ],
-    [ "_dispellerUnit", "d5/d37/a08675.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
+    [ "FriendInfo", "d5/d37/a08675.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
+    [ "FriendInfo", "d5/d37/a08675.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
+    [ "Area", "d5/d37/a08675.html#adf16884b55545ed9302dbb54d653867b", null ],
+    [ "Class", "d5/d37/a08675.html#a8b797fcfda05d52d4297f32e458be519", null ],
+    [ "Flags", "d5/d37/a08675.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
+    [ "Level", "d5/d37/a08675.html#a70d9a74f4587f648db5bf49b61091213", null ],
+    [ "Note", "d5/d37/a08675.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
+    [ "Status", "d5/d37/a08675.html#a380f11d65b34e1e598b7861987cecfe6", null ]
 ];

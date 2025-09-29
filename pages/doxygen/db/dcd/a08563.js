@@ -1,8 +1,9 @@
 var a08563 =
 [
-    [ "checkLeaderOnly", "db/dcd/a08563.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
-    [ "faction", "db/dcd/a08563.html#a23c649e494795b27856b67225370a820", null ],
-    [ "id", "db/dcd/a08563.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
-    [ "note", "db/dcd/a08563.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
-    [ "priority", "db/dcd/a08563.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
+    [ "ActionButton", "db/dcd/a08563.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
+    [ "GetAction", "db/dcd/a08563.html#a7c10f6089fab30179cfe8175b740477a", null ],
+    [ "GetType", "db/dcd/a08563.html#abe5bc143770d411cff0d8c8c425b1253", null ],
+    [ "SetActionAndType", "db/dcd/a08563.html#a29d804ed78d79f64e868e9741b37d7be", null ],
+    [ "packedData", "db/dcd/a08563.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
+    [ "uState", "db/dcd/a08563.html#a6384e73650da93c96d3b4cc42b151b63", null ]
 ];

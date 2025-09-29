@@ -1,5 +1,8 @@
 var a14867 =
 [
-    [ "npc_idol_room_spawnerAI", "d4/d07/a14867.html#a77c4aa88d213271166158c8e75d41a69", null ],
-    [ "SetData", "d4/d07/a14867.html#aa0626c837086b4a275f4d51d1659a242", null ]
+    [ "hyjalThrallAI", "d4/d07/a14867.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
+    [ "JustDied", "d4/d07/a14867.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
+    [ "JustEngagedWith", "d4/d07/a14867.html#a96706138634275ae7639c14f53cdd842", null ],
+    [ "Reset", "d4/d07/a14867.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
+    [ "UpdateAI", "d4/d07/a14867.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
 ];

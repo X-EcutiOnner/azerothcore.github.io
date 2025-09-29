@@ -1,6 +1,6 @@
 var a12159 =
 [
-    [ "FilterTargets", "d0/d4e/a12159.html#ac630fb5f068e4d26adb078b118994c45", null ],
-    [ "PrepareSpellScript", "d0/d4e/a12159.html#a5f4986bfad79573e65d56ff276c49914", null ],
-    [ "Register", "d0/d4e/a12159.html#aa1f5838d43871fd7908ea3b914666000", null ]
+    [ "RestoreAttack", "d0/d4e/a12159.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
+    [ "Execute", "d0/d4e/a12159.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
+    [ "_boss", "d0/d4e/a12159.html#a493ef909da834b0befd90f57f54fb10c", null ]
 ];

@@ -1,7 +1,6 @@
 var a25975 =
 [
-    [ "AfterRemove", "dd/d4f/a25975.html#a9dc5ef5c5545fc382e221ca9473ac3bd", null ],
-    [ "PrepareAuraScript", "dd/d4f/a25975.html#a0fd3e297a66df888f6e30f93b9f60947", null ],
-    [ "Register", "dd/d4f/a25975.html#a2b1872fa0342e0f530b61fc7a5bf876b", null ],
-    [ "Validate", "dd/d4f/a25975.html#ae08f33e0271166afa87208faa30684c4", null ]
+    [ "HandleProc", "dd/d4f/a25975.html#aa333d52d905e722554d8d61c4b9cb656", null ],
+    [ "PrepareAuraScript", "dd/d4f/a25975.html#aac4320b061d627e4ffef737d2e858ef3", null ],
+    [ "Register", "dd/d4f/a25975.html#ad58fea9afa6a3596437a324ec525982e", null ]
 ];

@@ -1,7 +1,6 @@
 var a01637 =
 [
-    [ "instance_forge_of_souls", "d7/d3b/a17014.html", "d7/d3b/a17014" ],
-    [ "instance_forge_of_souls::instance_forge_of_souls_InstanceScript", "db/dec/a17018.html", "db/dec/a17018" ],
-    [ "AddSC_instance_forge_of_souls", "db/d95/a01637.html#a1ec461fda59c652788d1a38e62cdea20", null ],
-    [ "boundaries", "db/d95/a01637.html#aa75d7d0ffe0cef214f982966c33db1c1", null ]
+    [ "AntiDosOpcodePolicy", "d8/dc8/a09091.html", "d8/dc8/a09091" ],
+    [ "WorldGlobals", "d1/d1f/a09095.html", "d1/d1f/a09095" ],
+    [ "sWorldGlobals", "db/d95/a01637.html#abde160907db136b0b0c16309add3ae94", null ]
 ];

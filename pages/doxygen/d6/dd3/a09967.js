@@ -1,10 +1,10 @@
 var a09967 =
 [
-    [ "EffectMovementGenerator", "d6/dd3/a09967.html#a4b574eb9865cffe1277d9012db653d98", null ],
-    [ "Finalize", "d6/dd3/a09967.html#a50cad77c4261bea67428b9dcd5a37ea1", null ],
-    [ "GetMovementGeneratorType", "d6/dd3/a09967.html#a42c56bc35cf3d752e24ccc36adcd2e82", null ],
-    [ "Initialize", "d6/dd3/a09967.html#a376f554231bc5dc4c95790e6c85dcb01", null ],
-    [ "Reset", "d6/dd3/a09967.html#a9627573a7206e12ff469e8e6e076862b", null ],
-    [ "Update", "d6/dd3/a09967.html#adff45ee4ce3cc72b6cc88e626c3bd0a5", null ],
-    [ "m_Id", "d6/dd3/a09967.html#a56f483336fe5c86c6d186ec4d7772d4b", null ]
+    [ "ChaseRange", "d6/dd3/a09967.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
+    [ "ChaseRange", "d6/dd3/a09967.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
+    [ "ChaseRange", "d6/dd3/a09967.html#a397b3789449b1c178f11f64313498c4d", null ],
+    [ "MaxRange", "d6/dd3/a09967.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
+    [ "MaxTolerance", "d6/dd3/a09967.html#a7909b18028d43c84eca5feee3e41469c", null ],
+    [ "MinRange", "d6/dd3/a09967.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
+    [ "MinTolerance", "d6/dd3/a09967.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
 ];

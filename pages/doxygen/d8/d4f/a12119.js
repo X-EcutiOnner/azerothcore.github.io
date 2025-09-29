@@ -1,5 +1,7 @@
 var a12119 =
 [
-    [ "go_father_flame", "d8/d4f/a12119.html#aa992bd7029a56faca4b92637688fe845", null ],
-    [ "OnLootStateChanged", "d8/d4f/a12119.html#a84c7055e791a3dac66b75d327c7662c3", null ]
+    [ "boss_magmusAI", "d8/d4f/a12119.html#a8a3e5361bda492007013af9228899b8f", null ],
+    [ "JustEngagedWith", "d8/d4f/a12119.html#a11e4868628564078997694373315a9d6", null ],
+    [ "Reset", "d8/d4f/a12119.html#a5fe304cec86831b7e64f83caee1392d0", null ],
+    [ "UpdateAI", "d8/d4f/a12119.html#aa8bb8282c794ea02fe7bd95b3d32e5ea", null ]
 ];

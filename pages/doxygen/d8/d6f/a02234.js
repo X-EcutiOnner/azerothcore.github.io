@@ -1,12 +1,26 @@
 var a02234 =
 [
-    [ "npc_valkyr_battle_maiden", "dc/dc4/a13222.html", "dc/dc4/a13222" ],
-    [ "npc_valkyr_battle_maiden::npc_valkyr_battle_maidenAI", "d1/d15/a13226.html", "d1/d15/a13226" ],
-    [ "Says_VBM", "d8/d6f/a02234.html#a1e8eb132ddeee98b584395e0a134c9e4", [
-      [ "WHISPER_REVIVE", "d8/d6f/a02234.html#a1e8eb132ddeee98b584395e0a134c9e4ab9bb7fa81ba89129587c51969dd3b833", null ]
+    [ "boss_supremus", "d5/db0/a23203.html", "d5/db0/a23203" ],
+    [ "npc_supremus_punch_invisible_stalker", "dc/dca/a23207.html", "dc/dca/a23207" ],
+    [ "Supremus", "d8/d6f/a02234.html#a5a2dccece1c55769858f3285c94af1ab", [
+      [ "EMOTE_NEW_TARGET", "d8/d6f/a02234.html#a5a2dccece1c55769858f3285c94af1abacce041f211d3aacd7153648b2b22657d", null ],
+      [ "EMOTE_PUNCH_GROUND", "d8/d6f/a02234.html#a5a2dccece1c55769858f3285c94af1aba18c2c02f5902d5eb449f84ea9b0dda48", null ],
+      [ "EMOTE_GROUND_CRACK", "d8/d6f/a02234.html#a5a2dccece1c55769858f3285c94af1abaf6e451c3b6d1ba936baa236a0676e9da", null ],
+      [ "EMOTE_BERSERK", "d8/d6f/a02234.html#a5a2dccece1c55769858f3285c94af1abad4a2e4c34c9e4cf25e66544b1de3bdd9", null ],
+      [ "SPELL_SNARE_SELF", "d8/d6f/a02234.html#a5a2dccece1c55769858f3285c94af1aba088a20b95bb9f7f7225f39e5785ef4ea", null ],
+      [ "SPELL_MOLTEN_PUNCH", "d8/d6f/a02234.html#a5a2dccece1c55769858f3285c94af1abad4325a0886f125ee1e818a2b0b78ceed", null ],
+      [ "SPELL_MOLTEN_FLAME", "d8/d6f/a02234.html#a5a2dccece1c55769858f3285c94af1aba75a6d3be947216957892ac27dcf52a1d", null ],
+      [ "SPELL_HATEFUL_STRIKE", "d8/d6f/a02234.html#a5a2dccece1c55769858f3285c94af1ababad6e8ef38e36b223ac12f2dbb1711b1", null ],
+      [ "SPELL_VOLCANIC_ERUPTION", "d8/d6f/a02234.html#a5a2dccece1c55769858f3285c94af1aba35f23f72605836bef98b77ae75bb8103", null ],
+      [ "SPELL_VOLCANIC_ERUPTION_TRIGGER", "d8/d6f/a02234.html#a5a2dccece1c55769858f3285c94af1abad1c54825503fd69f4f3beb7d4079ad6c", null ],
+      [ "SPELL_VOLCANIC_GEYSER", "d8/d6f/a02234.html#a5a2dccece1c55769858f3285c94af1aba6c3253da2383661bc757e74284163365", null ],
+      [ "SPELL_BERSERK", "d8/d6f/a02234.html#a5a2dccece1c55769858f3285c94af1abad7b3e50b45f9949cd0e4030ca19a6b4f", null ],
+      [ "SPELL_CHARGE", "d8/d6f/a02234.html#a5a2dccece1c55769858f3285c94af1aba379cd345f5bd4f776413760e5e279963", null ],
+      [ "SPELL_SERVERSIDE_RANDOM_TARGET", "d8/d6f/a02234.html#a5a2dccece1c55769858f3285c94af1aba4afeaddc7e00f338f7033e0421934935", null ],
+      [ "NPC_SUPREMUS_VOLCANO", "d8/d6f/a02234.html#a5a2dccece1c55769858f3285c94af1aba01e88a8ace84793859cb15cd5301cf2e", null ],
+      [ "GROUP_ABILITIES", "d8/d6f/a02234.html#a5a2dccece1c55769858f3285c94af1abab77bbe102634006229e15f0a32fb6c9a", null ],
+      [ "GROUP_MOLTEN_PUNCH", "d8/d6f/a02234.html#a5a2dccece1c55769858f3285c94af1abafd320e90ca8fd7f4c9b70c71f92e4bd6", null ],
+      [ "GROUP_PHASE_CHANGE", "d8/d6f/a02234.html#a5a2dccece1c55769858f3285c94af1aba9ef91e5b4ca91a9b1f730f400fef1c78", null ]
     ] ],
-    [ "Spells_VBM", "d8/d6f/a02234.html#a97df4b07a8686c29a9700c8d11af35e3", [
-      [ "SPELL_REVIVE", "d8/d6f/a02234.html#a97df4b07a8686c29a9700c8d11af35e3a3d8bf8576afa397124a60457a9fdfc38", null ]
-    ] ],
-    [ "AddSC_the_scarlet_enclave", "d8/d6f/a02234.html#a86bbb652876f394aaca15b4ed6e2bfa7", null ]
+    [ "AddSC_boss_supremus", "d8/d6f/a02234.html#aca4140213fae739c682d7d7e241294e0", null ]
 ];

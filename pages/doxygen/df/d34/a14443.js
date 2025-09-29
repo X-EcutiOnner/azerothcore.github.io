@@ -1,8 +1,7 @@
 var a14443 =
 [
-    [ "CheckCast", "df/d34/a14443.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
-    [ "HandleDummy", "df/d34/a14443.html#ad39da0510c21855dd74abd93f33621c9", null ],
-    [ "PrepareSpellScript", "df/d34/a14443.html#a727093fec8cc8422cbbaa79d821338c8", null ],
-    [ "Register", "df/d34/a14443.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
-    [ "Validate", "df/d34/a14443.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
+    [ "HandleScriptEffect", "df/d34/a14443.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
+    [ "PrepareSpellScript", "df/d34/a14443.html#a3d906994c11e52e89c842189be73ddfd", null ],
+    [ "Register", "df/d34/a14443.html#a4cdab36e2265c696207a39e16549ab13", null ],
+    [ "Validate", "df/d34/a14443.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
 ];

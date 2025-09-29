@@ -1,6 +1,9 @@
 var a12443 =
 [
-    [ "boss_sulfuronAI", "dc/d13/a12447.html", "dc/d13/a12447" ],
-    [ "boss_sulfuron", "d5/db6/a12443.html#aed72791db02009136592b905cc4f4df3", null ],
-    [ "GetAI", "d5/db6/a12443.html#aced001845e4a9bb9f517d45a36f474c7", null ]
+    [ "FilterTargets", "d5/db6/a12443.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
+    [ "HandleOnHitRogue", "d5/db6/a12443.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
+    [ "HandleOnHitWarlock", "d5/db6/a12443.html#a76f9e5e11a6f2e25868dba567d798002", null ],
+    [ "PrepareSpellScript", "d5/db6/a12443.html#a4792a25aa6fe6126a94900784798dbee", null ],
+    [ "Register", "d5/db6/a12443.html#a0f6146c64a86e953c042f8404bbfe683", null ],
+    [ "Validate", "d5/db6/a12443.html#af65d372cdbb365eff73edb8cf18734c8", null ]
 ];

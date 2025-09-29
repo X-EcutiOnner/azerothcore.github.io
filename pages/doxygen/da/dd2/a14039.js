@@ -1,6 +1,7 @@
 var a14039 =
 [
-    [ "boss_renatakiAI", "d6/d2a/a14043.html", "d6/d2a/a14043" ],
-    [ "boss_renataki", "da/dd2/a14039.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
-    [ "GetAI", "da/dd2/a14039.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
+    [ "spell", "da/dd2/a14039.html#a55423d09b2f1775dc386a36168ad764d", null ],
+    [ "spiritEntry", "da/dd2/a14039.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
+    [ "text", "da/dd2/a14039.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
+    [ "unaura", "da/dd2/a14039.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
 ];

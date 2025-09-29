@@ -1,15 +1,8 @@
 var a22439 =
 [
-    [ "OutdoorPvPEP", "d2/d26/a22439.html#ab4915dfc03de08cad83eb48c4c789cb8", null ],
-    [ "BuffTeams", "d2/d26/a22439.html#ac6a61c19ba96ca843eb12952d0c09078", null ],
-    [ "FillInitialWorldStates", "d2/d26/a22439.html#ac1b185125fa1f8864d1062b65be24bdc", null ],
-    [ "HandlePlayerEnterZone", "d2/d26/a22439.html#a9e7404160b1220dc3cc2766a07f42ad2", null ],
-    [ "HandlePlayerLeaveZone", "d2/d26/a22439.html#a251b154abfaec9cbfb1a56e657ac5214", null ],
-    [ "SendRemoveWorldStates", "d2/d26/a22439.html#afad47628bb4cfcc6060ce35396e33d9d", null ],
-    [ "SetControlledState", "d2/d26/a22439.html#abef30d5cbe7c2cd52cd32ae29da1c9ce", null ],
-    [ "SetupOutdoorPvP", "d2/d26/a22439.html#acecc8126180c027cb3d685231e55d873", null ],
-    [ "Update", "d2/d26/a22439.html#a974910b2f7f2d8cfaf43b6694bf4c2c7", null ],
-    [ "EP_ControlsId", "d2/d26/a22439.html#a7e8fcf50f88bdb56b189877721a1f006", null ],
-    [ "m_AllianceTowersControlled", "d2/d26/a22439.html#a09e5cf029656af3fc740b236596d42ee", null ],
-    [ "m_HordeTowersControlled", "d2/d26/a22439.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1", null ]
+    [ "npc_adventurous_dwarfAI", "db/d87/a22443.html", "db/d87/a22443" ],
+    [ "npc_adventurous_dwarf", "d2/d26/a22439.html#a15c39e217907189db9be7799e696f310", null ],
+    [ "GetAI", "d2/d26/a22439.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
+    [ "OnGossipHello", "d2/d26/a22439.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
+    [ "OnGossipSelect", "d2/d26/a22439.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
 ];

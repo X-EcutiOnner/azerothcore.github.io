@@ -1,12 +1,11 @@
 var a10411 =
 [
-    [ "Packet", "d7/d12/a10411.html#a316af2b7ce1ac7189fb1e57f534bad11", null ],
-    [ "~Packet", "d7/d12/a10411.html#a2ca1e6377bb2fb10bf042311e72eb5d4", null ],
-    [ "Packet", "d7/d12/a10411.html#a00213b64110a99004b3d9a6b38876cd4", null ],
-    [ "GetRawPacket", "d7/d12/a10411.html#a9d8649e1b035fe7387dcee3e0b062a5e", null ],
-    [ "GetSize", "d7/d12/a10411.html#a08eb4c40f49c0d4e7f17a6dc1df2fe6a", null ],
-    [ "operator=", "d7/d12/a10411.html#a6d2afd0d4b0d7daff11868854b7c4715", null ],
-    [ "Read", "d7/d12/a10411.html#a94afc4d66c2b5bced3063bab5a666bfd", null ],
-    [ "Write", "d7/d12/a10411.html#af7c79156d7b6cfe3142fc530f9ed262a", null ],
-    [ "_worldPacket", "d7/d12/a10411.html#ab85f1c9f20117bc5015180165c7b458a", null ]
+    [ "PetScript", "d7/d12/a10411.html#acccf0b5fa2e346c800925142ed52c917", null ],
+    [ "CanResetTalents", "d7/d12/a10411.html#ab4e5e0b19285573753ef6e9b7e8fd535", null ],
+    [ "CanUnlearnSpellDefault", "d7/d12/a10411.html#af150efd719bbb619df792ebc6705bb0a", null ],
+    [ "CanUnlearnSpellSet", "d7/d12/a10411.html#a84cba94813ffa26e1a245b814feb0349", null ],
+    [ "IsDatabaseBound", "d7/d12/a10411.html#a16fae7cdf068c6e3d9e46882548d4c20", null ],
+    [ "OnCalculateMaxTalentPointsForLevel", "d7/d12/a10411.html#a1263b06233902fbede9fc5df80cc8ad4", null ],
+    [ "OnInitStatsForLevel", "d7/d12/a10411.html#a65a33c4f374f2e9739680ad172118c26", null ],
+    [ "OnPetAddToWorld", "d7/d12/a10411.html#a3012323c5c1424512b611b6956a32554", null ]
 ];

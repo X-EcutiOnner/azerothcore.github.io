@@ -1,6 +1,6 @@
 var a18851 =
 [
-    [ "npc_four_car_garageAI", "d7/dce/a18855.html", "d7/dce/a18855" ],
-    [ "npc_four_car_garage", "d9/dac/a18851.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
-    [ "GetAI", "d9/dac/a18851.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
+    [ "npc_captain_grondelAI", "d9/dac/a18851.html#afbc971fc03584b87229318309d51a2f5", null ],
+    [ "Reset", "d9/dac/a18851.html#a7d3878822e77fba66891e87e23bd3740", null ],
+    [ "UpdateAI", "d9/dac/a18851.html#a4af8548092b49653805224bd4c0ac0a2", null ]
 ];

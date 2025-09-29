@@ -1,7 +1,8 @@
 var a21051 =
 [
-    [ "HandleOnEffectRemove", "d2/d70/a21051.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
-    [ "PrepareAuraScript", "d2/d70/a21051.html#a72e6468602d40eb479a80c611d60eb2e", null ],
-    [ "Register", "d2/d70/a21051.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
-    [ "Validate", "d2/d70/a21051.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
+    [ "boss_yoggsaron_crusher_tentacleAI", "d2/d70/a21051.html#a63d63a0b981c278fcfadfdda1feb5a12", null ],
+    [ "DamageTaken", "d2/d70/a21051.html#ac2458922b2530929ee1adbcc0da834a0", null ],
+    [ "DoAction", "d2/d70/a21051.html#abcc42381f37256e5c5ab2a42f8ef2c29", null ],
+    [ "Reset", "d2/d70/a21051.html#af33db4e2ce1bb85e38437db6ca7982f7", null ],
+    [ "UpdateAI", "d2/d70/a21051.html#a8329bc78fc037655d48cb9bf0abd8447", null ]
 ];

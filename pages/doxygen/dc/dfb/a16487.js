@@ -1,14 +1,8 @@
 var a16487 =
 [
-    [ "npc_snobold_vassalAI", "dc/dfb/a16487.html#a2ecc5e8289252b2936f36de9921294e0", null ],
-    [ "AttackStart", "dc/dfb/a16487.html#a50afc82c80cede8dcf3240a116463411", null ],
-    [ "DoAction", "dc/dfb/a16487.html#a8beac97ea5f7c797d2ae52e2f3c3be50", null ],
-    [ "JustDied", "dc/dfb/a16487.html#aef408460584a17f15a84e8a6435c6348", null ],
-    [ "JustEngagedWith", "dc/dfb/a16487.html#a60c1704617e99239d60d24d6b7513c1a", null ],
-    [ "MoveInLineOfSight", "dc/dfb/a16487.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
-    [ "Reset", "dc/dfb/a16487.html#af794f46b1a7af97b52683954b556c27d", null ],
-    [ "UpdateAI", "dc/dfb/a16487.html#ac1d282da6f2d9133619a212a349c777f", null ],
-    [ "events", "dc/dfb/a16487.html#adfb6df0ee8ab19b58de24da8d4e6d9df", null ],
-    [ "pInstance", "dc/dfb/a16487.html#afc140e6f9fc1ec78914aecc5150345b0", null ],
-    [ "TargetGUID", "dc/dfb/a16487.html#a0d36e4903448c5a03115df0dff3480c8", null ]
+    [ "npc_toc5_player_vehicleAI", "dc/dfb/a16487.html#afa00a6254b482aae5397be04860ac8ba", null ],
+    [ "BeforeSpellClick", "dc/dfb/a16487.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
+    [ "OnCharmed", "dc/dfb/a16487.html#ace805882a25a9d075d811714e607fa2b", null ],
+    [ "PassengerBoarded", "dc/dfb/a16487.html#aca35804df751185193ff5865255d3687", null ],
+    [ "Reset", "dc/dfb/a16487.html#a5439b98d544124836d2cf9762f764cea", null ]
 ];

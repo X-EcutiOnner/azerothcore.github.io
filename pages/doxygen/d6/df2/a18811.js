@@ -1,9 +1,6 @@
 var a18811 =
 [
-    [ "spell_trigger_spell_from_caster", "d6/df2/a18811.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
-    [ "HandleTrigger", "d6/df2/a18811.html#afc11c9408ea11cb04e476999a9bdf522", null ],
-    [ "PrepareSpellScript", "d6/df2/a18811.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
-    [ "Register", "d6/df2/a18811.html#ae44cc1a87267c1d08603d1aff2384957", null ],
-    [ "Validate", "d6/df2/a18811.html#a3aace9a309bc848b887b03c949c921bd", null ],
-    [ "_triggerId", "d6/df2/a18811.html#a29af52a9035f18936515a464889fefe5", null ]
+    [ "npc_crok_scourgebaneAI", "db/d40/a18815.html", "db/d40/a18815" ],
+    [ "npc_crok_scourgebane", "d6/df2/a18811.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
+    [ "GetAI", "d6/df2/a18811.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
 ];

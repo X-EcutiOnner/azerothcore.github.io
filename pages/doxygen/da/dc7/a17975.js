@@ -1,6 +1,7 @@
 var a17975 =
 [
-    [ "npc_ice_tombAI", "da/deb/a17979.html", "da/deb/a17979" ],
-    [ "npc_ice_tomb", "da/dc7/a17975.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
-    [ "GetAI", "da/dc7/a17975.html#ac99b7c9887e54a1764310bd3e079811a", null ]
+    [ "OnPeriodic", "da/dc7/a17975.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
+    [ "PrepareAuraScript", "da/dc7/a17975.html#a0e87dae1be4f69e6412129f14056eb79", null ],
+    [ "Register", "da/dc7/a17975.html#a1b26d102252bf7e0fd480076820d343f", null ],
+    [ "Validate", "da/dc7/a17975.html#a211d52aa385a874730abc43b083f2d22", null ]
 ];

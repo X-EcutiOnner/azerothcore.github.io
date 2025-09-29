@@ -1,13 +1,9 @@
 var a12223 =
 [
-    [ "boss_nefarian", "d2/deb/a12223.html#ac8ea4f24ed97cace4630d4720b1acf47", null ],
-    [ "JustDied", "d2/deb/a12223.html#a4a0a4cf4ee63ce744ffb580747f992b9", null ],
-    [ "JustEngagedWith", "d2/deb/a12223.html#a6a547ba5aea4d5af2a621e5d97ceae43", null ],
-    [ "KilledUnit", "d2/deb/a12223.html#a6fdf265e453deb8f9a4214beacf3dbab", null ],
-    [ "MovementInform", "d2/deb/a12223.html#a0eea749c0392a7713e372cc1f236cdcd", null ],
-    [ "PathEndReached", "d2/deb/a12223.html#a45ec4ab3cdf9b4de91a9ae682f3335e8", null ],
-    [ "Reset", "d2/deb/a12223.html#a5d687fce34b17e22c605c263395e823b", null ],
-    [ "UpdateAI", "d2/deb/a12223.html#a205c9b1d4116fbd0a1ca972f39094abc", null ],
-    [ "_introDone", "d2/deb/a12223.html#a5710c721f3a24762b8cc3e79e6a14951", null ],
-    [ "classesPresent", "d2/deb/a12223.html#acffc9b31a0a50ee5701c272e32c912c6", null ]
+    [ "boss_overlordwyrmthalakAI", "d2/deb/a12223.html#a76f9bd309e1c5045c74bb0ba8d8bce5c", null ],
+    [ "JustDied", "d2/deb/a12223.html#ade379755d256c4c290e6dc8bbd862261", null ],
+    [ "JustEngagedWith", "d2/deb/a12223.html#af7780f467df92c9218700773d1257a8c", null ],
+    [ "Reset", "d2/deb/a12223.html#a9dbc4cc1830703c393fbeb9c0385b709", null ],
+    [ "UpdateAI", "d2/deb/a12223.html#a950b2161ed4c2441fb73f8b009c5ba30", null ],
+    [ "Summoned", "d2/deb/a12223.html#a8183e3f02d931809440adc8cc0cd3654", null ]
 ];

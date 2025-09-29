@@ -1,6 +1,6 @@
 var a21079 =
 [
-    [ "npc_ravenous_furbolgAI", "d7/dd1/a21083.html", "d7/dd1/a21083" ],
-    [ "npc_ravenous_furbolg", "d2/df7/a21079.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
-    [ "GetAI", "d2/df7/a21079.html#a284c366e6f5bd024d9627a83dd966669", null ]
+    [ "boss_yoggsaron_descend_portalAI", "d2/df7/a21079.html#a50ddd1d7b1d4a2e729657e53dfee43f2", null ],
+    [ "OnSpellClick", "d2/df7/a21079.html#aba032a7347230db028d1e939944d3f46", null ],
+    [ "_instance", "d2/df7/a21079.html#a477abf19a0b5bf9865550541877a29d7", null ]
 ];

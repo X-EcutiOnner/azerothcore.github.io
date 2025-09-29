@@ -1,6 +1,6 @@
 var a24659 =
 [
-    [ "HandleEffectCalcSpellMod", "d0/dba/a24659.html#aaf21dafa72b58245f548ed946a49659d", null ],
-    [ "PrepareAuraScript", "d0/dba/a24659.html#ac05d3ae466ad64ac590f399827aac0c9", null ],
-    [ "Register", "d0/dba/a24659.html#a46a643985647d8a8e033b637b31214a5", null ]
+    [ "DeathEvent", "d0/dba/a24659.html#a2fb9a98c077d715c4648aede6597276e", null ],
+    [ "Execute", "d0/dba/a24659.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
+    [ "_owner", "d0/dba/a24659.html#a099d0d5ae50126f00220b3ed90907617", null ]
 ];

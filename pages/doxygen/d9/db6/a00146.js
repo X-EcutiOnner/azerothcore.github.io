@@ -1,8 +1,6 @@
 var a00146 =
 [
-    [ "TaskScheduler", "df/da8/a05582.html", "df/da8/a05582" ],
-    [ "TaskScheduler::Task", "d4/d20/a05586.html", "d4/d20/a05586" ],
-    [ "TaskScheduler::Compare", "de/dd0/a05590.html", "de/dd0/a05590" ],
-    [ "TaskScheduler::TaskQueue", "d3/ddd/a05594.html", "d3/ddd/a05594" ],
-    [ "TaskContext", "dd/d82/a05598.html", "dd/d82/a05598" ]
+    [ "GetWeatherData", "d9/db6/a00146.html#gaeca3a72d5a44b5beb019b99cf0b30aff", null ],
+    [ "LoadWeatherData", "d9/db6/a00146.html#ga6c7d8a9fc5dfce0880220f4b5b8cd623", null ],
+    [ "_weatherData", "d9/db6/a00146.html#ab7d0026c60fbd90f9833172d25e7037f", null ]
 ];

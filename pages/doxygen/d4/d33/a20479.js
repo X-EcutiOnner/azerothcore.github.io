@@ -1,8 +1,6 @@
 var a20479 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "d1/d3d/a20483.html", "d1/d3d/a20483" ],
-    [ "npc_ulduar_expedition_commander", "d4/d33/a20479.html#a8513554f686b75c29524fa5b2fa93ee4", null ],
-    [ "GetAI", "d4/d33/a20479.html#aa888a3634a643a103075d44c8f52d28a", null ],
-    [ "OnGossipHello", "d4/d33/a20479.html#a6b52abae7ec1be10fcb5385ec928b785", null ],
-    [ "OnGossipSelect", "d4/d33/a20479.html#a5d212e5e21d9ffb8c60e883e065c1801", null ]
+    [ "HandleAfterEffectApply", "d4/d33/a20479.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
+    [ "PrepareAuraScript", "d4/d33/a20479.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
+    [ "Register", "d4/d33/a20479.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
 ];

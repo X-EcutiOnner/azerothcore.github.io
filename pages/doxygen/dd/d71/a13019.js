@@ -1,7 +1,5 @@
 var a13019 =
 [
-    [ "HandleScript", "dd/d71/a13019.html#a03f8c24445ee4ac82a4cf2caece38f90", null ],
-    [ "PrepareSpellScript", "dd/d71/a13019.html#a034195e58f02225c172b70c3967fe3ad", null ],
-    [ "Register", "dd/d71/a13019.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2", null ],
-    [ "Validate", "dd/d71/a13019.html#a8ac78c00c49b1eb2fade4100a810d367", null ]
+    [ "boss_warlord_salaris", "dd/d71/a13019.html#afe9ace28dcd302e9b9a9ebe806e2ada5", null ],
+    [ "JustEngagedWith", "dd/d71/a13019.html#a77b3b531466810ee17f9fd6eadf5872a", null ]
 ];

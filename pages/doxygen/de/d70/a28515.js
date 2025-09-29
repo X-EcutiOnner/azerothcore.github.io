@@ -1,17 +1,17 @@
 var a28515 =
 [
-    [ "GetHeight", "de/d70/a28515.html#a98bc670c8dd44b210b398f5f014cbbc7", null ],
-    [ "GetOffsetX", "de/d70/a28515.html#a8facef2fdb586a71f1f740086fe160ab", null ],
-    [ "GetOffsetY", "de/d70/a28515.html#aecd2f6f40509d9b65f9f254e59298e8c", null ],
-    [ "GetWidth", "de/d70/a28515.html#a240dac4718a12daee7c8ec526209c4ba", null ],
-    [ "Height", "de/d70/a28515.html#abb92a54ddecdd06c1031bafd41e642dc", null ],
-    [ "LiquidType", "de/d70/a28515.html#a910553870f082a1b8dd47c27c8f981f1", null ],
-    [ "LiquidVertexFormat", "de/d70/a28515.html#ab1376e3688bcf9110111bf87f8fd940a", null ],
-    [ "MaxHeightLevel", "de/d70/a28515.html#aa73500f507b6ee2678f3c81328b716e1", null ],
-    [ "MinHeightLevel", "de/d70/a28515.html#a5c56ad9303d1b652774019efbe316dbd", null ],
-    [ "OffsetExistsBitmap", "de/d70/a28515.html#a1852863d7fcbbd95e6ccb190895841ca", null ],
-    [ "OffsetVertexData", "de/d70/a28515.html#abfe19bd9c6d9d1d41433abe6fae3baea", null ],
-    [ "OffsetX", "de/d70/a28515.html#a1dcb423f7ba1c0c7bdaa77aef8139b6c", null ],
-    [ "OffsetY", "de/d70/a28515.html#a08a02703ec946d3a6fb6326c24b4f6cc", null ],
-    [ "Width", "de/d70/a28515.html#a4b1bd0f232da1acde53787109e26c9b3", null ]
+    [ "Entry", "de/d70/a28515.html#a4e8689fabe6b3ef5c495bf84fa1945b7", null ],
+    [ "Difficulty", "de/d70/a28515.html#aa85e97ced86b0d27c753ca924eba074b", null ],
+    [ "ExpansionLevel", "de/d70/a28515.html#a5bbacc248aa127b889d60b3a25b12b83", null ],
+    [ "Flags", "de/d70/a28515.html#a9481c296a064ec400b0f050097903557", null ],
+    [ "GroupID", "de/d70/a28515.html#a7a6c2971a61b171d00c885ce452601ce", null ],
+    [ "ID", "de/d70/a28515.html#ae0fdf0d9afd2f99e9b7e6094960e86e0", null ],
+    [ "MapID", "de/d70/a28515.html#a6c947b111d7d356ba02eb6fffc77f5cb", null ],
+    [ "MaxLevel", "de/d70/a28515.html#aa4fbfd45d4319c9e8319508821bf4a65", null ],
+    [ "MinLevel", "de/d70/a28515.html#a17ae5fe60486c54a3becb2b14d5953c9", null ],
+    [ "Name", "de/d70/a28515.html#a7cb21e4e996be24d531b03fea66ecd27", null ],
+    [ "TargetLevel", "de/d70/a28515.html#a2e6456d16cce98666b0ac63cebf0eb82", null ],
+    [ "TargetLevelMax", "de/d70/a28515.html#ae4a27f7bc0563f606f40d955a40fab1e", null ],
+    [ "TargetLevelMin", "de/d70/a28515.html#a7558f3dc7d695fb17bc3b64e0c381de7", null ],
+    [ "TypeID", "de/d70/a28515.html#a84a498b44063cc95ba1a3b565c44a81b", null ]
 ];

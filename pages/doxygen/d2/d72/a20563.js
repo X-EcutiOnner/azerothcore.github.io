@@ -1,6 +1,10 @@
 var a20563 =
 [
-    [ "boss_thorim_trapAI", "d8/d11/a20567.html", "d8/d11/a20567" ],
-    [ "boss_thorim_trap", "d2/d72/a20563.html#af529112badd88f9ebe4cec216d9edaeb", null ],
-    [ "GetAI", "d2/d72/a20563.html#afd4ee85d73354b790c0d55abbfad75fd", null ]
+    [ "boss_kologarn_eyebeamAI", "d2/d72/a20563.html#add083b2a9067753458de1eeb6bdca4c0", null ],
+    [ "DamageDealt", "d2/d72/a20563.html#a6c1d27cc208bdaf260d6c90a2b7bca45", null ],
+    [ "IsSummonedBy", "d2/d72/a20563.html#affd177dc20c800777142208fa97207fa", null ],
+    [ "UpdateAI", "d2/d72/a20563.html#add60a709a1edf1684bd21358769590b4", null ],
+    [ "_damaged", "d2/d72/a20563.html#a7b49d9826efcf492c6e7ee003f481ccb", null ],
+    [ "_timer", "d2/d72/a20563.html#a766ad3e10016d97235499d1512c4da27", null ],
+    [ "m_pInstance", "d2/d72/a20563.html#a4145bd7e5c80c4e62144b437d38624a4", null ]
 ];

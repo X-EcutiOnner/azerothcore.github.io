@@ -1,9 +1,10 @@
 var a23983 =
 [
-    [ "npc_fel_guard_houndAI", "df/db2/a23983.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
-    [ "MovementInform", "df/db2/a23983.html#a127a0d7b61fde64c0ced52192f438f12", null ],
-    [ "Reset", "df/db2/a23983.html#ab979c3602897b1148ffd5d4a81941197", null ],
-    [ "UpdateAI", "df/db2/a23983.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
-    [ "checkTimer", "df/db2/a23983.html#ad22bb6efafb4396cd0137c1384240029", null ],
-    [ "helboarGUID", "df/db2/a23983.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
+    [ "boss_thorngrin_the_tender", "df/db2/a23983.html#ad960b1084fc08d2870975c7c6c44ab2b", null ],
+    [ "JustDied", "df/db2/a23983.html#a4bc13108f7cb240fedb44ccae2b54047", null ],
+    [ "JustEngagedWith", "df/db2/a23983.html#a647ed5b29861b719d3c4a11fd110c512", null ],
+    [ "KilledUnit", "df/db2/a23983.html#ab3731c5b56e1c01aa5d78d84a5e60234", null ],
+    [ "MoveInLineOfSight", "df/db2/a23983.html#a9467e59287b3e917907de82507d1a16d", null ],
+    [ "Reset", "df/db2/a23983.html#af3f1471cbcdadfe3a86421d7232fb4b9", null ],
+    [ "_intro", "df/db2/a23983.html#a48fc89c7e9814d90a8724ca38c5e2fe8", null ]
 ];

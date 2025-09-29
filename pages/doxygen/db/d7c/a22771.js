@@ -1,7 +1,14 @@
 var a22771 =
 [
-    [ "boss_veras_darkshadow", "db/d7c/a22771.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
-    [ "JustEngagedWith", "db/d7c/a22771.html#a5eec3e70a7950073eced60d680ff6298", null ],
-    [ "JustSummoned", "db/d7c/a22771.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
-    [ "UpdateAI", "db/d7c/a22771.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
+    [ "OutdoorPvPNA", "db/d7c/a22771.html#acbdae42245c71e4274296649d8d08e9e", null ],
+    [ "FillInitialWorldStates", "db/d7c/a22771.html#a49ac785929dd16bf0735b32b787763e9", null ],
+    [ "GetCapturePoint", "db/d7c/a22771.html#a7bab429e723c0ac1eb2f8cd3501f13be", null ],
+    [ "HandleKill", "db/d7c/a22771.html#ab55683b771104878c69239314a9782f4", null ],
+    [ "HandleKillImpl", "db/d7c/a22771.html#a2ede6e7dc54424d9729a094557b14792", null ],
+    [ "HandlePlayerEnterZone", "db/d7c/a22771.html#a312c5f2aaa35a9f83740c1bdd9772b9e", null ],
+    [ "HandlePlayerLeaveZone", "db/d7c/a22771.html#ae7dd540746946513cd7bf8e29296c068", null ],
+    [ "SendRemoveWorldStates", "db/d7c/a22771.html#ae9a93ddac1ca439f0f269d7ac7597593", null ],
+    [ "SetupOutdoorPvP", "db/d7c/a22771.html#a09369a62ec5584dd6ce5eddf7b2bb80f", null ],
+    [ "Update", "db/d7c/a22771.html#a4074a96974fe1b5e6d9149c8eee36e71", null ],
+    [ "m_obj", "db/d7c/a22771.html#a7538d64bb494644eae3cc7db03dd631f", null ]
 ];

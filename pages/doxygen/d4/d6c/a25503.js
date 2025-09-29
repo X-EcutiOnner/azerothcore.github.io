@@ -1,6 +1,7 @@
 var a25503 =
 [
-    [ "HandleDummy", "d4/d6c/a25503.html#ad086618ff3caadcf5126e12a1359503f", null ],
-    [ "PrepareSpellScript", "d4/d6c/a25503.html#a4b3a79a9ba01226038a1da886f6a2f7c", null ],
-    [ "Register", "d4/d6c/a25503.html#a214526ddc986ee829daf9090678e3a7b", null ]
+    [ "HandleDamage", "d4/d6c/a25503.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
+    [ "PrepareSpellScript", "d4/d6c/a25503.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
+    [ "Register", "d4/d6c/a25503.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
+    [ "Validate", "d4/d6c/a25503.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
 ];

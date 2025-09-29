@@ -1,7 +1,8 @@
 var a17143 =
 [
-    [ "HandleScriptEffect", "dc/d42/a17143.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
-    [ "PrepareSpellScript", "dc/d42/a17143.html#aac410690d906867216b40a49d8f15318", null ],
-    [ "Register", "dc/d42/a17143.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
-    [ "Validate", "dc/d42/a17143.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
+    [ "npc_hor_raging_ghoulAI", "dc/d42/a17143.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
+    [ "JustDied", "dc/d42/a17143.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
+    [ "Reset", "dc/d42/a17143.html#aa52576d94e230797209dfc938d62187f", null ],
+    [ "UpdateAI", "dc/d42/a17143.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
+    [ "leaped", "dc/d42/a17143.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
 ];

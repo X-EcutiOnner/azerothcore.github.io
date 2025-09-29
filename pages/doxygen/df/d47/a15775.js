@@ -1,6 +1,7 @@
 var a15775 =
 [
-    [ "ModDestHeight", "df/d47/a15775.html#a8bda9327c4244af41c513528ad5c818c", null ],
-    [ "PrepareSpellScript", "df/d47/a15775.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
-    [ "Register", "df/d47/a15775.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
+    [ "DelayedWindstoneSummonEvent", "df/d47/a15775.html#aa97daf8cf3479395ffd6558b6699436a", null ],
+    [ "Execute", "df/d47/a15775.html#aa413bc8709bc543b89ffb3df42185475", null ],
+    [ "_playerGUID", "df/d47/a15775.html#ad83bb6d87b569f59e99abcc16517745b", null ],
+    [ "_summon", "df/d47/a15775.html#af9804d276da5daebab3a37f2c75301ea", null ]
 ];

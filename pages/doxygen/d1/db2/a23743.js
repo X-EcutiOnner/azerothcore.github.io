@@ -1,6 +1,8 @@
 var a23743 =
 [
-    [ "AfterRemove", "d1/db2/a23743.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "d1/db2/a23743.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "d1/db2/a23743.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "boss_broggok", "d1/db2/a23743.html#ae20c04793116d3e8eab62d2ee27010df", null ],
+    [ "DoAction", "d1/db2/a23743.html#af5de5a1747c502f72af015c09d050354", null ],
+    [ "JustEngagedWith", "d1/db2/a23743.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
+    [ "JustSummoned", "d1/db2/a23743.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
+    [ "Reset", "d1/db2/a23743.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
 ];

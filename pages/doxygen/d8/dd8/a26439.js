@@ -1,7 +1,7 @@
 var a26439 =
 [
-    [ "HandleDummy", "d8/dd8/a26439.html#a2ea424e6c740305340001b1c09bfec91", null ],
-    [ "PrepareSpellScript", "d8/dd8/a26439.html#afe722c970155b47eac94bb9861a4eb46", null ],
-    [ "Register", "d8/dd8/a26439.html#a2c2b96f1c00da9884ec9d01fe897c8c1", null ],
-    [ "Validate", "d8/dd8/a26439.html#ac5f782da8b5e387c31e048759baf3e16", null ]
+    [ "CalculateAmount", "d8/dd8/a26439.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
+    [ "HandleUpdateSpellclick", "d8/dd8/a26439.html#a89956d7f3a6404d5b60e46034867c82c", null ],
+    [ "PrepareAuraScript", "d8/dd8/a26439.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
+    [ "Register", "d8/dd8/a26439.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ]
 ];

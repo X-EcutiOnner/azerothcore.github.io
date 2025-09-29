@@ -1,9 +1,12 @@
 var a05427 =
 [
-    [ "Base", "d7/d4f/a05431.html", "d7/d4f/a05431" ],
-    [ "Erase", "d7/d41/a05427.html#a2c7b450c8781824135765e5d82b0272e", null ],
-    [ "Get", "d7/d41/a05427.html#aa8f56bb08a6245792a75305ba2fcce82", null ],
-    [ "GetDefault", "d7/d41/a05427.html#ad53ddbe486c994277adbb96e1c644112", null ],
-    [ "Set", "d7/d41/a05427.html#a93bf2535b14236df9703e485ef816b36", null ],
-    [ "Container", "d7/d41/a05427.html#a3a559027ba0a64e4af2f02218ce1c910", null ]
+    [ "Node", "d7/d4f/a05431.html", "d7/d4f/a05431" ],
+    [ "MPSCQueueNonIntrusive", "d7/d41/a05427.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
+    [ "~MPSCQueueNonIntrusive", "d7/d41/a05427.html#a599e2093215f70dc4f2f7db08965d816", null ],
+    [ "MPSCQueueNonIntrusive", "d7/d41/a05427.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
+    [ "Dequeue", "d7/d41/a05427.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
+    [ "Enqueue", "d7/d41/a05427.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
+    [ "operator=", "d7/d41/a05427.html#a75063e89049903fb5305d67ea1a02034", null ],
+    [ "_head", "d7/d41/a05427.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
+    [ "_tail", "d7/d41/a05427.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
 ];

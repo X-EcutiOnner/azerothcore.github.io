@@ -1,8 +1,7 @@
 var a26491 =
 [
-    [ "CheckCast", "d5/dbd/a26491.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
-    [ "CheckQuest", "d5/dbd/a26491.html#abc927d932c1d5e05eab1918364d68ed5", null ],
-    [ "HandleActiveObject", "d5/dbd/a26491.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
-    [ "PrepareSpellScript", "d5/dbd/a26491.html#a96e69476965cc2466213a5371a57093a", null ],
-    [ "Register", "d5/dbd/a26491.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
+    [ "HandleProc", "d5/dbd/a26491.html#ad5bf7ab28ac2f359c65606a1772a40d2", null ],
+    [ "PrepareAuraScript", "d5/dbd/a26491.html#af4fec7fb65e1327b1a74d48453b9fddd", null ],
+    [ "Register", "d5/dbd/a26491.html#a44a82b94d509eeb04f3520ded1d62891", null ],
+    [ "Validate", "d5/dbd/a26491.html#a7b222bba8f0c4ced50bf4945bf0423ca", null ]
 ];

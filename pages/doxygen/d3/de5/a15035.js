@@ -1,9 +1,6 @@
 var a15035 =
 [
-    [ "npc_eye_tentacle", "d3/de5/a15035.html#a106deeb95d74597377d32e81695dc3c9", null ],
-    [ "JustDied", "d3/de5/a15035.html#aac965d97034f4f623172297e4f82647e", null ],
-    [ "JustEngagedWith", "d3/de5/a15035.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
-    [ "Reset", "d3/de5/a15035.html#a715439dfa31b4cf9df7ddd678d912108", null ],
-    [ "UpdateAI", "d3/de5/a15035.html#a48f9067f27d61e609a014669c1daedb9", null ],
-    [ "_portalGUID", "d3/de5/a15035.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
+    [ "instance_the_black_morass_InstanceMapScript", "d7/d5e/a15039.html", "d7/d5e/a15039" ],
+    [ "instance_the_black_morass", "d3/de5/a15035.html#aa59c960a89dbd66a4c0ad2105792efb4", null ],
+    [ "GetInstanceScript", "d3/de5/a15035.html#a44b01fc7ab23c8f4ecfa1e375a237463", null ]
 ];

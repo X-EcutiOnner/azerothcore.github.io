@@ -1,13 +1,9 @@
 var a23067 =
 [
-    [ "boss_fathomguard_caribdis", "d9/d4b/a23067.html#a9172b9717e5137ddde7df38bb237478c", null ],
-    [ "EnterEvadeMode", "d9/d4b/a23067.html#aa666a491a776b12a042ee140aedc95eb", null ],
-    [ "JustDied", "d9/d4b/a23067.html#ab821365b35a48f70a11c6033fe2ca714", null ],
-    [ "JustEngagedWith", "d9/d4b/a23067.html#a5503519998f51f475420ada2210f32f0", null ],
-    [ "JustSummoned", "d9/d4b/a23067.html#a39ca45ec0de50b7d7a5ec866c4017a8a", null ],
-    [ "Reset", "d9/d4b/a23067.html#a0d2a3403d5934e86a897b3417ed2214a", null ],
-    [ "UpdateAI", "d9/d4b/a23067.html#af4a544f37d178de21d84f2544f24431e", null ],
-    [ "_instance", "d9/d4b/a23067.html#a73f567f2269aeca1435af82e1c6880e9", null ],
-    [ "_scheduler", "d9/d4b/a23067.html#a08b01e9735e421d8d5bbc2b552217762", null ],
-    [ "_summons", "d9/d4b/a23067.html#ac8b53cb81547a2423a13c997badb77e3", null ]
+    [ "HandleAfterCast", "d9/d4b/a23067.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
+    [ "HandleDummy", "d9/d4b/a23067.html#ae94594e337c2e0e6864f3723df8349bf", null ],
+    [ "Load", "d9/d4b/a23067.html#a301008eff6b13a43070b3916925391ae", null ],
+    [ "PrepareSpellScript", "d9/d4b/a23067.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
+    [ "Register", "d9/d4b/a23067.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
+    [ "_targetCount", "d9/d4b/a23067.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
 ];

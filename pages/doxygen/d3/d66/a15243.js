@@ -1,6 +1,6 @@
 var a15243 =
 [
-    [ "npc_draenei_survivorAI", "d6/d28/a15247.html", "d6/d28/a15247" ],
-    [ "npc_draenei_survivor", "d3/d66/a15243.html#a1dca668a7c3f868677a9bf306288430c", null ],
-    [ "GetAI", "d3/d66/a15243.html#aa8dde30279bb898a4412491faca79267", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "d6/d28/a15247.html", "d6/d28/a15247" ],
+    [ "instance_ruins_of_ahnqiraj", "d3/d66/a15243.html#adeacb1c68e4b12995a335d1bedde075a", null ],
+    [ "GetInstanceScript", "d3/d66/a15243.html#a6a661e961c2599498de0ccd41c0763b4", null ]
 ];

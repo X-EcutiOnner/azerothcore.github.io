@@ -1,7 +1,8 @@
 var a24615 =
 [
-    [ "CheckProc", "d1/dd0/a24615.html#a5a74f30b941460c8347dca81dcee1bf6", null ],
-    [ "HandleProc", "d1/dd0/a24615.html#a15592382213762145eb30d85bfcbd60a", null ],
-    [ "PrepareAuraScript", "d1/dd0/a24615.html#a82201b03b7b642e7898889412a617712", null ],
-    [ "Register", "d1/dd0/a24615.html#aba014f9b0000d19cabbc5a9c763b934b", null ]
+    [ "npc_pet_gen_gnomish_flame_turret", "d1/dd0/a24615.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
+    [ "AttackStart", "d1/dd0/a24615.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
+    [ "Reset", "d1/dd0/a24615.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
+    [ "UpdateAI", "d1/dd0/a24615.html#ae3db08323af4b82009ffd660b3e78474", null ],
+    [ "checkTimer", "d1/dd0/a24615.html#ac6705f4980ca561a5fd33c2917488439", null ]
 ];

@@ -1,10 +1,11 @@
 var a26815 =
 [
-    [ "CheckProc", "da/df6/a26815.html#a257202ac9b80a67ce58d9e3491164d22", null ],
-    [ "HandleProc", "da/df6/a26815.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
-    [ "HandleTick", "da/df6/a26815.html#a5e436c530e5ef70bc4de4305676ed196", null ],
-    [ "PrepareAuraScript", "da/df6/a26815.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
-    [ "Register", "da/df6/a26815.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
-    [ "RemoveEffect", "da/df6/a26815.html#a333ad80d8478f59713ee049f935d7885", null ],
-    [ "Validate", "da/df6/a26815.html#aed3cb37f0230463978b210add84bd31d", null ]
+    [ "AddTarget", "da/df6/a26815.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
+    [ "HandleApply", "da/df6/a26815.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
+    [ "HandleEffectPeriodic", "da/df6/a26815.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
+    [ "HandleRemove", "da/df6/a26815.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
+    [ "PrepareAuraScript", "da/df6/a26815.html#abd535f756fae06c9fae613d69ef4e353", null ],
+    [ "Register", "da/df6/a26815.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
+    [ "Validate", "da/df6/a26815.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
+    [ "_targets", "da/df6/a26815.html#ad2467bc150cb08766c57cca23d4d9843", null ]
 ];

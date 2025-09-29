@@ -1,12 +1,7 @@
 var a17519 =
 [
-    [ "gunship_npc_AI", "d9/df3/a17519.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
-    [ "EnterEvadeMode", "d9/df3/a17519.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
-    [ "JustDied", "d9/df3/a17519.html#ad40c976be4decd9054dad031a4caab78", null ],
-    [ "MovementInform", "d9/df3/a17519.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
-    [ "SetData", "d9/df3/a17519.html#acfd5e331155d7787ada33acbca73fece", null ],
-    [ "SetSlotInfo", "d9/df3/a17519.html#afdfc3f9add2952f90baf24d55425670f", null ],
-    [ "Index", "d9/df3/a17519.html#ae120874514cf5921136821b820a04da7", null ],
-    [ "Instance", "d9/df3/a17519.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
-    [ "Slot", "d9/df3/a17519.html#a59d237475ae309755d429cfac77d6630", null ]
+    [ "HandleDummyTick", "d9/df3/a17519.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
+    [ "PrepareAuraScript", "d9/df3/a17519.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
+    [ "Register", "d9/df3/a17519.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
+    [ "Validate", "d9/df3/a17519.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
 ];

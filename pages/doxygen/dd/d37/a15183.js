@@ -1,8 +1,6 @@
 var a15183 =
 [
-    [ "npc_obsidian_eradicator", "dd/d37/a15183.html#a84a6c414b3d74468143984e57f83e383", null ],
-    [ "JustEngagedWith", "dd/d37/a15183.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
-    [ "Reset", "dd/d37/a15183.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
-    [ "UpdateAI", "dd/d37/a15183.html#a1697d83e89559f047d5bab652007bb61", null ],
-    [ "_targetGUIDs", "dd/d37/a15183.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
+    [ "HandleDummyHitTarget", "dd/d37/a15183.html#ae773d73496578170061baedd8f7daec1", null ],
+    [ "PrepareSpellScript", "dd/d37/a15183.html#a822fe6d19c2ee0d02dc5561b4f910cf9", null ],
+    [ "Register", "dd/d37/a15183.html#a651cc94581130224ba23e864f8ad7060", null ]
 ];

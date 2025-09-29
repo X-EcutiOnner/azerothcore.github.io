@@ -1,8 +1,7 @@
 var a27407 =
 [
-    [ "npc_artoriusAI", "d6/d50/a27411.html", "d6/d50/a27411" ],
-    [ "npc_artorius", "d2/da0/a27407.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
-    [ "GetAI", "d2/da0/a27407.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
-    [ "OnGossipHello", "d2/da0/a27407.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
-    [ "OnGossipSelect", "d2/da0/a27407.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
+    [ "HandlePeriodic", "d2/da0/a27407.html#a3da4cc5322f2e34244729fe3b3876482", null ],
+    [ "PrepareAuraScript", "d2/da0/a27407.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
+    [ "Register", "d2/da0/a27407.html#a53b6067f46912648413fc6d6f107b0d8", null ],
+    [ "Validate", "d2/da0/a27407.html#aa03222717b3c06316b232a6ac0270ec0", null ]
 ];

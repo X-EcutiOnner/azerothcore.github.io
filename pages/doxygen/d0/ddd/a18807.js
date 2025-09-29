@@ -1,5 +1,7 @@
 var a18807 =
 [
-    [ "at_icc_spire_frostwyrm", "d0/ddd/a18807.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
-    [ "_OnTrigger", "d0/ddd/a18807.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
+    [ "npc_frost_freeze_trapAI", "d0/ddd/a18807.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
+    [ "DoAction", "d0/ddd/a18807.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
+    [ "UpdateAI", "d0/ddd/a18807.html#ae8efccb090f38968f3c0ca51f022013b", null ],
+    [ "_events", "d0/ddd/a18807.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
 ];

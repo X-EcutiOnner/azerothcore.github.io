@@ -1,6 +1,6 @@
 var a12487 =
 [
-    [ "boss_mr_smiteAI", "d9/d09/a12491.html", "d9/d09/a12491" ],
-    [ "boss_mr_smite", "df/d41/a12487.html#a011d41112ef7376b71d2959f806be262", null ],
-    [ "GetAI", "df/d41/a12487.html#a619ca0aede1eb33f992328048319c4f0", null ]
+    [ "boss_vaelAI", "d9/d09/a12491.html", "d9/d09/a12491" ],
+    [ "boss_vaelastrasz", "df/d41/a12487.html#a0b51f3b50cde4907bd9064e8bf51c005", null ],
+    [ "GetAI", "df/d41/a12487.html#a42dde198f5fc0ab2e7ca28ac32c42b7e", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Crypto::TOTP Struct Reference</title>
+<title>AzerothCore: Member List</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d6/d3f/a05204.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('d8/d42/a05207.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,189 +104,37 @@ $(document).ready(function(){initNavTree('d6/d3f/a05204.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="#pub-static-attribs">Static Public Attributes</a> &#124;
-<a href="../../da/d0e/a05201.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Crypto::TOTP Struct Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt; Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">TOTP.h</a>&quot;</code></p>
-<table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:aae38427994c1f4ddf3838c4e1f3f7e03"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d3f/a05204.html#aae38427994c1f4ddf3838c4e1f3f7e03">Secret</a> = std::vector&lt; <a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> &gt;</td></tr>
-<tr class="separator:aae38427994c1f4ddf3838c4e1f3f7e03"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a44829d44e78247991d9c3dde270cab5c"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d3f/a05204.html#a44829d44e78247991d9c3dde270cab5c">GenerateToken</a> (<a class="el" href="../../d6/d3f/a05204.html#aae38427994c1f4ddf3838c4e1f3f7e03">Secret</a> const &amp;key, time_t timestamp)</td></tr>
-<tr class="separator:a44829d44e78247991d9c3dde270cab5c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab6b27542814e577106ad587a5807d663"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d3f/a05204.html#ab6b27542814e577106ad587a5807d663">ValidateToken</a> (<a class="el" href="../../d6/d3f/a05204.html#aae38427994c1f4ddf3838c4e1f3f7e03">Secret</a> const &amp;key, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> token)</td></tr>
-<tr class="separator:ab6b27542814e577106ad587a5807d663"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
-Static Public Attributes</h2></td></tr>
-<tr class="memitem:a885fc6c1a5bda166416f161ea202eb72"><td class="memItemLeft" align="right" valign="top">static constexpr std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d3f/a05204.html#a885fc6c1a5bda166416f161ea202eb72">RECOMMENDED_SECRET_LENGTH</a> = 20</td></tr>
-<tr class="separator:a885fc6c1a5bda166416f161ea202eb72"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="aae38427994c1f4ddf3838c4e1f3f7e03" name="aae38427994c1f4ddf3838c4e1f3f7e03"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aae38427994c1f4ddf3838c4e1f3f7e03">&#9670;&#160;</a></span>Secret</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../d6/d3f/a05204.html#aae38427994c1f4ddf3838c4e1f3f7e03">Acore::Crypto::TOTP::Secret</a> =  std::vector&lt;<a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a44829d44e78247991d9c3dde270cab5c" name="a44829d44e78247991d9c3dde270cab5c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a44829d44e78247991d9c3dde270cab5c">&#9670;&#160;</a></span>GenerateToken()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Acore::Crypto::TOTP::GenerateToken </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d3f/a05204.html#aae38427994c1f4ddf3838c4e1f3f7e03">Secret</a> const &amp;&#160;</td>
-          <td class="paramname"><em>key</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">time_t&#160;</td>
-          <td class="paramname"><em>timestamp</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   28</span>{</div>
-<div class="line"><span class="lineno">   29</span>    timestamp /= <a class="code hl_variable" href="../../d9/d36/a04541.html#abcaccdfb09251b1b2856cc0c48c64eda">TOTP_INTERVAL</a>;</div>
-<div class="line"><span class="lineno">   30</span>    <span class="keywordtype">unsigned</span> <span class="keywordtype">char</span> challenge[8];</div>
-<div class="line"><span class="lineno">   31</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 8; i--; timestamp &gt;&gt;= 8)</div>
-<div class="line"><span class="lineno">   32</span>        challenge[i] = timestamp;</div>
-<div class="line"><span class="lineno">   33</span> </div>
-<div class="line"><span class="lineno">   34</span>    <span class="keywordtype">unsigned</span> <span class="keywordtype">char</span> digest[<a class="code hl_variable" href="../../d9/d36/a04541.html#abdb09168f87cd99a498636550843012d">HMAC_RESULT_SIZE</a>];</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> digestSize = <a class="code hl_variable" href="../../d9/d36/a04541.html#abdb09168f87cd99a498636550843012d">HMAC_RESULT_SIZE</a>;</div>
-<div class="line"><span class="lineno">   36</span>    HMAC(EVP_sha1(), secret.data(), secret.size(), challenge, 8, digest, &amp;digestSize);</div>
-<div class="line"><span class="lineno">   37</span> </div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> offset = digest[19] &amp; 0xF;</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> truncated = (digest[offset] &lt;&lt; 24) | (digest[offset + 1] &lt;&lt; 16) | (digest[offset + 2] &lt;&lt; 8) | (digest[offset + 3]);</div>
-<div class="line"><span class="lineno">   40</span>    truncated &amp;= 0x7FFFFFFF;</div>
-<div class="line"><span class="lineno">   41</span>    <span class="keywordflow">return</span> (truncated % 1000000);</div>
-<div class="line"><span class="lineno">   42</span>}</div>
-<div class="ttc" id="aa04307_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa04541_html_abcaccdfb09251b1b2856cc0c48c64eda"><div class="ttname"><a href="../../d9/d36/a04541.html#abcaccdfb09251b1b2856cc0c48c64eda">TOTP_INTERVAL</a></div><div class="ttdeci">static constexpr uint32 TOTP_INTERVAL</div><div class="ttdef"><b>Definition:</b> TOTP.cpp:24</div></div>
-<div class="ttc" id="aa04541_html_abdb09168f87cd99a498636550843012d"><div class="ttname"><a href="../../d9/d36/a04541.html#abdb09168f87cd99a498636550843012d">HMAC_RESULT_SIZE</a></div><div class="ttdeci">static constexpr uint32 HMAC_RESULT_SIZE</div><div class="ttdef"><b>Definition:</b> TOTP.cpp:25</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00025">HMAC_RESULT_SIZE</a>, and <a class="el" href="../../#l00024">TOTP_INTERVAL</a>.</p>
-
-</div>
-</div>
-<a id="ab6b27542814e577106ad587a5807d663" name="ab6b27542814e577106ad587a5807d663"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab6b27542814e577106ad587a5807d663">&#9670;&#160;</a></span>ValidateToken()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool Acore::Crypto::TOTP::ValidateToken </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d3f/a05204.html#aae38427994c1f4ddf3838c4e1f3f7e03">Secret</a> const &amp;&#160;</td>
-          <td class="paramname"><em>key</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>token</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   45</span>{</div>
-<div class="line"><span class="lineno">   46</span>    time_t now = <a class="code hl_function" href="../../df/d59/a04343.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a>().count();</div>
-<div class="line"><span class="lineno">   47</span>    <span class="keywordflow">return</span> (</div>
-<div class="line"><span class="lineno">   48</span>        (token == <a class="code hl_function" href="../../d6/d3f/a05204.html#a44829d44e78247991d9c3dde270cab5c">GenerateToken</a>(secret, now - <a class="code hl_variable" href="../../d9/d36/a04541.html#abcaccdfb09251b1b2856cc0c48c64eda">TOTP_INTERVAL</a>)) ||</div>
-<div class="line"><span class="lineno">   49</span>        (token == <a class="code hl_function" href="../../d6/d3f/a05204.html#a44829d44e78247991d9c3dde270cab5c">GenerateToken</a>(secret, now)) ||</div>
-<div class="line"><span class="lineno">   50</span>        (token == <a class="code hl_function" href="../../d6/d3f/a05204.html#a44829d44e78247991d9c3dde270cab5c">GenerateToken</a>(secret, now + <a class="code hl_variable" href="../../d9/d36/a04541.html#abcaccdfb09251b1b2856cc0c48c64eda">TOTP_INTERVAL</a>))</div>
-<div class="line"><span class="lineno">   51</span>    );</div>
-<div class="line"><span class="lineno">   52</span>}</div>
-<div class="ttc" id="aa04343_html_ac26feb8a0cb9d57ffe71c1a86ae8108e"><div class="ttname"><a href="../../df/d59/a04343.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a></div><div class="ttdeci">Seconds GetEpochTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:141</div></div>
-<div class="ttc" id="aa05204_html_a44829d44e78247991d9c3dde270cab5c"><div class="ttname"><a href="../../d6/d3f/a05204.html#a44829d44e78247991d9c3dde270cab5c">Acore::Crypto::TOTP::GenerateToken</a></div><div class="ttdeci">static uint32 GenerateToken(Secret const &amp;key, time_t timestamp)</div><div class="ttdef"><b>Definition:</b> TOTP.cpp:27</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00141">GetEpochTime()</a>, and <a class="el" href="../../#l00024">TOTP_INTERVAL</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00164">account_commandscript::HandleAccount2FARemoveCommand()</a>, <a class="el" href="../../#l00094">account_commandscript::HandleAccount2FASetupCommand()</a>, and <a class="el" href="../../#l00456">AuthSession::HandleLogonProof()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="a885fc6c1a5bda166416f161ea202eb72" name="a885fc6c1a5bda166416f161ea202eb72"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a885fc6c1a5bda166416f161ea202eb72">&#9670;&#160;</a></span>RECOMMENDED_SECRET_LENGTH</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr std::size_t Acore::Crypto::TOTP::RECOMMENDED_SECRET_LENGTH = 20</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00094">account_commandscript::HandleAccount2FASetupCommand()</a>.</p>
-
-</div>
-</div>
-</div><!-- contents -->
+<p>This is the complete list of members for <a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a>, including all inherited members.</p>
+<table class="directory">
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/d42/a05207.html#a5a7d841e6fba7ae09705261fb0ca0228">_ctx</a></td><td class="entry"><a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/d42/a05207.html#a162b593f942b5a1f18468ad76e56816c">_digest</a></td><td class="entry"><a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/d42/a05207.html#abf69027dd4096b1bda0e5d78fbceba05">Digest</a> typedef</td><td class="entry"><a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/d42/a05207.html#af6e4303fbffe4f52dec13026532f0a87">DIGEST_LENGTH</a></td><td class="entry"><a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a></td><td class="entry"><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/d42/a05207.html#a8dc1415e2f1211753059ba2569fa049e">Finalize</a>()</td><td class="entry"><a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/d42/a05207.html#a6eccaf97a504b613089a825baed128e6">GenericHash</a>()</td><td class="entry"><a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/d42/a05207.html#a03d5bc2bc2e7366c407d95c5b84127d9">GenericHash</a>(GenericHash const &amp;right)</td><td class="entry"><a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/d42/a05207.html#a2b50d27bb0e3c3f3ef22abee357f3194">GenericHash</a>(GenericHash &amp;&amp;right) noexcept</td><td class="entry"><a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/d42/a05207.html#ae1ea3a430fe6f5659cfd28f93e67dbea">GetDigest</a>() const</td><td class="entry"><a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/d42/a05207.html#a42db9cd1a68778340bfdb7c7a8a049de">GetDigestOf</a>(uint8 const *data, std::size_t len)</td><td class="entry"><a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/d42/a05207.html#a363f6b4b036fb006f43040183eff37a4">GetDigestOf</a>(Ts &amp;&amp;... pack) -&gt; std::enable_if_t&lt;!(std::is_integral_v&lt; std::decay_t&lt; Ts &gt; &gt;||...), Digest &gt;</td><td class="entry"><a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">static</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/d42/a05207.html#aebfb39f72d9bd1e717f75d687ddad352">operator=</a>(GenericHash const &amp;right)</td><td class="entry"><a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/d42/a05207.html#a9d3fab78ba706e1d71141d1baff733cb">operator=</a>(GenericHash &amp;&amp;right) noexcept</td><td class="entry"><a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/d42/a05207.html#abe1705975eec03929bd7c603bb563d19">UpdateData</a>(uint8 const *data, std::size_t len)</td><td class="entry"><a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/d42/a05207.html#ad09ad852820ff44378c09b245ae9e055">UpdateData</a>(std::string_view str)</td><td class="entry"><a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/d42/a05207.html#a9f8078da8ab86b94c5bdb6f683094e76">UpdateData</a>(std::string const &amp;str)</td><td class="entry"><a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/d42/a05207.html#adbf1dbd8ed910f3a9ccd6c98d241085f">UpdateData</a>(char const *str)</td><td class="entry"><a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d8/d42/a05207.html#ae2a76339e35dfeb87c134db2ffcd84c9">UpdateData</a>(Container const &amp;c)</td><td class="entry"><a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d8/d42/a05207.html#a15ef55147adf4d6957d62d9cc7e3544c">~GenericHash</a>()</td><td class="entry"><a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+</table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d2/d5c/a04788.html">Acore</a></li><li class="navelem"><a class="el" href="../../d5/d6b/a04799.html">Crypto</a></li><li class="navelem"><a class="el" href="../../d6/d3f/a05204.html">TOTP</a></li>
-    <li class="footer">Generated on Mon Aug 25 2025 20:47:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Sep 29 2025 20:47:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

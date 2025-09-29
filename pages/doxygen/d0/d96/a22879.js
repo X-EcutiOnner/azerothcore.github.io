@@ -1,7 +1,11 @@
 var a22879 =
 [
-    [ "CalculateAmount", "d0/d96/a22879.html#adad1c8a513ce8a1badbd40c291363de1", null ],
-    [ "PrepareAuraScript", "d0/d96/a22879.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
-    [ "Register", "d0/d96/a22879.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
-    [ "Update", "d0/d96/a22879.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
+    [ "boss_talon_king_ikiss", "d0/d96/a22879.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "CanAIAttack", "d0/d96/a22879.html#ab4858d845f149b6333941d8f8ab59afb", null ],
+    [ "JustDied", "d0/d96/a22879.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "d0/d96/a22879.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "d0/d96/a22879.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "d0/d96/a22879.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "d0/d96/a22879.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "d0/d96/a22879.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

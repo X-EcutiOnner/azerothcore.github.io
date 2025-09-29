@@ -1,6 +1,6 @@
 var a22627 =
 [
-    [ "PrepareSpellScript", "dd/d2c/a22627.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
-    [ "Register", "dd/d2c/a22627.html#aa41700bf097963c5a352442723181037", null ],
-    [ "SelectTarget", "dd/d2c/a22627.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
+    [ "HandlePeriodicDummy", "dd/d2c/a22627.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
+    [ "PrepareAuraScript", "dd/d2c/a22627.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
+    [ "Register", "dd/d2c/a22627.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
 ];

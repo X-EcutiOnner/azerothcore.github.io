@@ -1,6 +1,6 @@
 var a20379 =
 [
-    [ "npc_ulduar_proximity_mineAI", "d5/d08/a20383.html", "d5/d08/a20383" ],
-    [ "npc_ulduar_proximity_mine", "d1/d55/a20379.html#ac33beb07e17712cdda1b3434d9dc8222", null ],
-    [ "GetAI", "d1/d55/a20379.html#a7d8237b965699004f9df731e357b4020", null ]
+    [ "boss_hodirAI", "d5/d08/a20383.html", "d5/d08/a20383" ],
+    [ "boss_hodir", "d1/d55/a20379.html#a5740f489f57380d2633a8ee5a18de339", null ],
+    [ "GetAI", "d1/d55/a20379.html#a8d6ce019e9c383d2eb9ac0d211f4bc4c", null ]
 ];

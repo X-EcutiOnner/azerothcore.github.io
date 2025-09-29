@@ -1,6 +1,7 @@
 var a18275 =
 [
-    [ "ModDestHeight", "db/d3e/a18275.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
-    [ "PrepareSpellScript", "db/d3e/a18275.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
-    [ "Register", "db/d3e/a18275.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
+    [ "PeriodicTick", "db/d3e/a18275.html#a79b63e30f37df8a961b57c4b10669800", null ],
+    [ "PrepareAuraScript", "db/d3e/a18275.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
+    [ "Register", "db/d3e/a18275.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
+    [ "Validate", "db/d3e/a18275.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
 ];

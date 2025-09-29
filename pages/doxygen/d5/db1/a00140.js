@@ -1,9 +1,20 @@
 var a00140 =
 [
-    [ "getAngle", "d5/db1/a00140.html#a5ce837ff4fb41332a25e6b0dc0f5b848", null ],
-    [ "getCircleAreaByRadius", "d5/db1/a00140.html#a18ed540c327b1fd656065d8cbfc4844f", null ],
-    [ "getCirclePerimeterByRadius", "d5/db1/a00140.html#a62641094ea3c1b9506faefa7a35ba456", null ],
-    [ "getCylinderVolume", "d5/db1/a00140.html#a95ce6760beb476a4c24ff46d3069103f", null ],
-    [ "getSlopeAngle", "d5/db1/a00140.html#a61d2d33d44f335480a833a04436620ba", null ],
-    [ "getSlopeAngleAbs", "d5/db1/a00140.html#a0b02845f56a27df498d0598d259ca5e1", null ]
+    [ "WEATHER_SEASONS", "d5/df7/a04795.html#ga5ee30d2da0d958800dd3ad582c49d487", null ],
+    [ "WeatherState", "d5/df7/a04795.html#ga32b7b9e733438755c99c2abd6cb8c94d", [
+      [ "WEATHER_STATE_FINE", "d5/df7/a04795.html#gga32b7b9e733438755c99c2abd6cb8c94da5d4c47a117d36afee4195bd260951366", null ],
+      [ "WEATHER_STATE_FOG", "d5/df7/a04795.html#gga32b7b9e733438755c99c2abd6cb8c94daf088b1890d40b05c4022d90d931e8717", null ],
+      [ "WEATHER_STATE_LIGHT_RAIN", "d5/df7/a04795.html#gga32b7b9e733438755c99c2abd6cb8c94dafe59189ae98629ed11fbd343da10e97d", null ],
+      [ "WEATHER_STATE_MEDIUM_RAIN", "d5/df7/a04795.html#gga32b7b9e733438755c99c2abd6cb8c94da33ce6050f5c9a8dbbfc2556756f960c3", null ],
+      [ "WEATHER_STATE_HEAVY_RAIN", "d5/df7/a04795.html#gga32b7b9e733438755c99c2abd6cb8c94da13bf6f46f69defe7fbea2c659e6d3873", null ],
+      [ "WEATHER_STATE_LIGHT_SNOW", "d5/df7/a04795.html#gga32b7b9e733438755c99c2abd6cb8c94da8a760bcf8d764d8749a800905111ab05", null ],
+      [ "WEATHER_STATE_MEDIUM_SNOW", "d5/df7/a04795.html#gga32b7b9e733438755c99c2abd6cb8c94da2a382668c4c73bc864079b0cf1602da6", null ],
+      [ "WEATHER_STATE_HEAVY_SNOW", "d5/df7/a04795.html#gga32b7b9e733438755c99c2abd6cb8c94daaad9131eee7d0dce651a4142705871a3", null ],
+      [ "WEATHER_STATE_LIGHT_SANDSTORM", "d5/df7/a04795.html#gga32b7b9e733438755c99c2abd6cb8c94dabe53f9722c1f5ee37a0ce46a356402eb", null ],
+      [ "WEATHER_STATE_MEDIUM_SANDSTORM", "d5/df7/a04795.html#gga32b7b9e733438755c99c2abd6cb8c94da35248c6d29502ee854f2a9c92a1c9204", null ],
+      [ "WEATHER_STATE_HEAVY_SANDSTORM", "d5/df7/a04795.html#gga32b7b9e733438755c99c2abd6cb8c94da185c2513fb0f271a64db1feb5691def0", null ],
+      [ "WEATHER_STATE_THUNDERS", "d5/df7/a04795.html#gga32b7b9e733438755c99c2abd6cb8c94da0a333865e8ae65ce8f5bb03f905dee29", null ],
+      [ "WEATHER_STATE_BLACKRAIN", "d5/df7/a04795.html#gga32b7b9e733438755c99c2abd6cb8c94daa69a93da31c84906e5b64469cda9f27f", null ],
+      [ "WEATHER_STATE_BLACKSNOW", "d5/df7/a04795.html#gga32b7b9e733438755c99c2abd6cb8c94da3aea8b6958d36e83f025fc7a489d1357", null ]
+    ] ]
 ];

@@ -1,7 +1,14 @@
 var a21011 =
 [
-    [ "npc_frost_tomb", "d8/d5b/a21011.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "d8/d5b/a21011.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "d8/d5b/a21011.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "d8/d5b/a21011.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "boss_yoggsaron_cloudAI", "d8/d5b/a21011.html#a6a13c31fb0649387ac411ed7ec2fb66a", null ],
+    [ "AttackStart", "d8/d5b/a21011.html#a3ecf6a1c74780aa250be3f4e2dd04ea1", null ],
+    [ "DoAction", "d8/d5b/a21011.html#a68caf08c015a0048be7858e435bbc84d", null ],
+    [ "InitWaypoint", "d8/d5b/a21011.html#ae68d5d5f5c1edb74596761dccecb614d", null ],
+    [ "JustSummoned", "d8/d5b/a21011.html#a70e74c2a1c19468e25edcc3d0e41df06", null ],
+    [ "MoveInLineOfSight", "d8/d5b/a21011.html#a48fb6de45d47ab4fbe02da835056f4ce", null ],
+    [ "Reset", "d8/d5b/a21011.html#adffbc99bb2fff0ce2082cd9e2d3608d7", null ],
+    [ "UpdateEscortAI", "d8/d5b/a21011.html#a3661ecf52a93c7d769eaa9dcfa2ac202", null ],
+    [ "WaypointReached", "d8/d5b/a21011.html#a3933d6c39c060db0da18d174e5b2e01a", null ],
+    [ "_checkTimer", "d8/d5b/a21011.html#a883307a4134b269fb2bbe6efa371b945", null ],
+    [ "_isSummoning", "d8/d5b/a21011.html#a118ccef4158c49bddf2b503f3a3090d0", null ]
 ];

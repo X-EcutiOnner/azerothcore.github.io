@@ -1,6 +1,11 @@
 var a20071 =
 [
-    [ "npc_ulduar_saronite_animusAI", "d2/dd5/a20075.html", "d2/dd5/a20075" ],
-    [ "npc_ulduar_saronite_animus", "dc/da6/a20071.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
-    [ "GetAI", "dc/da6/a20071.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
+    [ "boss_flame_leviathan_seatAI", "dc/da6/a20071.html#ab830db7804ee9b9815e4ea3398a6d856", null ],
+    [ "AttackStart", "dc/da6/a20071.html#a39efb927928e19a040144bab7dfa3ba2", null ],
+    [ "EnterEvadeMode", "dc/da6/a20071.html#aeda2ad4d596c86aa5c19acb1c710cc9f", null ],
+    [ "PassengerBoarded", "dc/da6/a20071.html#af4939f3daef8aae9a1eafe2020ab205e", null ],
+    [ "Reset", "dc/da6/a20071.html#a1e134e9bb2b1048f69dc310a52be9473", null ],
+    [ "UpdateAI", "dc/da6/a20071.html#a857b1e927ae6574e00e25a20a21d4427", null ],
+    [ "_despawnTimer", "dc/da6/a20071.html#ac3d1d8f405a37d2344c5f4e34519e2cb", null ],
+    [ "vehicle", "dc/da6/a20071.html#a9d0624a45613676a39def53b2a2fdce0", null ]
 ];

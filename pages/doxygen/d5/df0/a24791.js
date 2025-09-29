@@ -1,9 +1,8 @@
 var a24791 =
 [
-    [ "PrepareAuraScript", "d5/df0/a24791.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
-    [ "Register", "d5/df0/a24791.html#a04efbc64bfa0312bc1f372e403803c32", null ],
-    [ "Update", "d5/df0/a24791.html#aa463442b994b6275b2e12fe06ae7805c", null ],
-    [ "amplitude", "d5/df0/a24791.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
-    [ "amplitude", "d5/df0/a24791.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
-    [ "isPeriodic", "d5/df0/a24791.html#a0732bf60822bbb547be014566d0e092c", null ]
+    [ "CheckCast", "d5/df0/a24791.html#a94851a2b6a62138e28466317e9e88480", null ],
+    [ "HandleDummy", "d5/df0/a24791.html#a970684d219c99519512c437a8efd8d43", null ],
+    [ "PrepareSpellScript", "d5/df0/a24791.html#a39b726e6c5809a6f8100970e8b71fc71", null ],
+    [ "Register", "d5/df0/a24791.html#a7acf718f0a1109d384fd2b9dd23ca62c", null ],
+    [ "Validate", "d5/df0/a24791.html#a59cca008a97447e257bf24071301b366", null ]
 ];

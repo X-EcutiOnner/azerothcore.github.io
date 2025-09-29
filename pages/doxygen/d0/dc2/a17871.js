@@ -1,6 +1,6 @@
 var a17871 =
 [
-    [ "FilterTargetsInitial", "d0/dc2/a17871.html#a92cc71f268793c616bed66d9a489a145", null ],
-    [ "PrepareSpellScript", "d0/dc2/a17871.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
-    [ "Register", "d0/dc2/a17871.html#a91b96940a9e72e632989b49f7e475dba", null ]
+    [ "HandlePeriodicTick", "d0/dc2/a17871.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
+    [ "PrepareAuraScript", "d0/dc2/a17871.html#a9962029ce4a5223d7aa05068e8d83326", null ],
+    [ "Register", "d0/dc2/a17871.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
 ];

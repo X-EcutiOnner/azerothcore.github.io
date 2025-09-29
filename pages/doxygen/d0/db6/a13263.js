@@ -1,8 +1,14 @@
 var a13263 =
 [
-    [ "OnPeriodic", "d0/db6/a13263.html#acd400b0a061d1814591e33d16bf4180a", null ],
-    [ "OnRemove", "d0/db6/a13263.html#a3da85c726007690220e9b4f81d30f185", null ],
-    [ "PrepareAuraScript", "d0/db6/a13263.html#a216d723f309ffa46df4bba7af79752c8", null ],
-    [ "Register", "d0/db6/a13263.html#a43fe84c2717d73e20a2562f596a84f36", null ],
-    [ "Validate", "d0/db6/a13263.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
+    [ "boss_kirtonos_the_heraldAI", "d0/db6/a13263.html#af68c553db0889c22b7b4b76c868d38e7", null ],
+    [ "DoAction", "d0/db6/a13263.html#ade11c2ff67c93f09f34b7b0e59766cc3", null ],
+    [ "EnterEvadeMode", "d0/db6/a13263.html#a92ee25d349cc1ae3e46e4696a01697c3", null ],
+    [ "JustDied", "d0/db6/a13263.html#a7ecf7396ebcb6f541586435996094f56", null ],
+    [ "JustEngagedWith", "d0/db6/a13263.html#abcf09a75bed393e5fc03ef184e5c2918", null ],
+    [ "MovementInform", "d0/db6/a13263.html#a16379320eebb8223a79cf3927bdc507e", null ],
+    [ "UpdateAI", "d0/db6/a13263.html#a7eedcb1416d05b95f6110751119aea02", null ],
+    [ "events", "d0/db6/a13263.html#a5dd38f68ce8745484cbc00dadde439dc", null ],
+    [ "events2", "d0/db6/a13263.html#aaf9216da4f5394953d0316be8d8e8c4f", null ],
+    [ "instance", "d0/db6/a13263.html#acae39cf7bc9a6d68834d3916fa75a006", null ],
+    [ "TransformsCount", "d0/db6/a13263.html#aa0834b23d00463ae36bb0ec6a2067257", null ]
 ];

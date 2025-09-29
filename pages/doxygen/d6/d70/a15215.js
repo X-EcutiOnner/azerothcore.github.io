@@ -1,13 +1,9 @@
 var a15215 =
 [
-    [ "instance_wailing_caverns_InstanceMapScript", "d6/d70/a15215.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
-    [ "GetData", "d6/d70/a15215.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
-    [ "Initialize", "d6/d70/a15215.html#a870ab2322971767fa37986743b31d20c", null ],
-    [ "OnCreatureCreate", "d6/d70/a15215.html#aed3807432711105589d0b060a21836cc", null ],
-    [ "ReadSaveDataMore", "d6/d70/a15215.html#ad348102f71e070e7ef12da62238c7b0f", null ],
-    [ "SetData", "d6/d70/a15215.html#a0333b4728e9288937711174743f19f60", null ],
-    [ "WriteSaveDataMore", "d6/d70/a15215.html#a78bece51279e3f9e62800e4d80b00f64", null ],
-    [ "_encounters", "d6/d70/a15215.html#a0f049806007e59363418d4e39f9e389b", null ],
-    [ "DiscipleOfNaralexGUID", "d6/d70/a15215.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
-    [ "SerpentisGUID", "d6/d70/a15215.html#a7ba205e4988a20404f5e597331dd5d56", null ]
+    [ "go_ossirian_crystalAI", "d6/d70/a15215.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
+    [ "DoAction", "d6/d70/a15215.html#a581436335d190466520c07fde56ad441", null ],
+    [ "GossipHello", "d6/d70/a15215.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
+    [ "SetGUID", "d6/d70/a15215.html#a9c983aa02285dbebc545b4056191200c", null ],
+    [ "_instance", "d6/d70/a15215.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
+    [ "_triggerGUID", "d6/d70/a15215.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
 ];

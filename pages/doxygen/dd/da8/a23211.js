@@ -1,6 +1,6 @@
 var a23211 =
 [
-    [ "HandlePeriodic", "dd/da8/a23211.html#a25c698e911ec02d9cd7f757ba87281df", null ],
-    [ "PrepareAuraScript", "dd/da8/a23211.html#a7bf79bc5e5f509b52965f03e998db399", null ],
-    [ "Register", "dd/da8/a23211.html#ab3eec9f591384c7c1c684651c38aa614", null ]
+    [ "ShadowOfDeathSelector", "dd/da8/a23211.html#a1190094fbde74ccffd954fea742ab0ae", null ],
+    [ "operator()", "dd/da8/a23211.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
+    [ "_tank", "dd/da8/a23211.html#adc238645eec306e00918dbab05549fc8", null ]
 ];

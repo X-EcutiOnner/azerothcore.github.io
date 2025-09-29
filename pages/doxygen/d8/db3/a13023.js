@@ -1,6 +1,6 @@
 var a13023 =
 [
-    [ "instance_scholomance_InstanceMapScript", "dc/d17/a13027.html", "dc/d17/a13027" ],
-    [ "instance_scholomance", "d8/db3/a13023.html#ace7a781c45623419daad6143480d8fe2", null ],
-    [ "GetInstanceScript", "d8/db3/a13023.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
+    [ "boss_garaxxas", "d8/db3/a13023.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
+    [ "JustEngagedWith", "d8/db3/a13023.html#aebfd7b63d714468ed69e920fb89c345d", null ],
+    [ "Reset", "d8/db3/a13023.html#a56e6489ce49971cb066444888355626e", null ]
 ];

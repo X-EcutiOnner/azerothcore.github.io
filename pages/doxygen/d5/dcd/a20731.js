@@ -1,6 +1,5 @@
 var a20731 =
 [
-    [ "x", "d5/dcd/a20731.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "d5/dcd/a20731.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "d5/dcd/a20731.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_13", "d5/dcd/a20731.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
+    [ "OnCheck", "d5/dcd/a20731.html#ac91196d094f159932ad871ffa9c0f405", null ]
 ];

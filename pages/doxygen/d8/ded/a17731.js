@@ -1,7 +1,13 @@
 var a17731 =
 [
-    [ "npc_coldflameAI", "d8/ded/a17731.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
-    [ "IsSummonedBy", "d8/ded/a17731.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
-    [ "UpdateAI", "d8/ded/a17731.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
-    [ "events", "d8/ded/a17731.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
+    [ "PassengerController", "d8/ded/a17731.html#ab834deac8dfd9a7ddd1bcb37b1e5c354", null ],
+    [ "ClearSlot", "d8/ded/a17731.html#ae10f0917fb6fd395c3bb4428cbb617cb", null ],
+    [ "ResetSlots", "d8/ded/a17731.html#a2302ac8b9fac75ba58ced41e2b5236f0", null ],
+    [ "SelectSpawnPoint", "d8/ded/a17731.html#a4a4d575417a7c7940471f21e32d48b5c", null ],
+    [ "SummonCreatures", "d8/ded/a17731.html#a287e4cafc1d3739edf90c00ad91e2c64", null ],
+    [ "_controlledSlots", "d8/ded/a17731.html#af4271e53792477394a5c1022ed8fb30f", null ],
+    [ "_respawnCooldowns", "d8/ded/a17731.html#a98a6d819ec193d5a1e96739ac507b146", null ],
+    [ "_slotInfo", "d8/ded/a17731.html#a9c8fa44394c10eb2a7fec3c4f273f448", null ],
+    [ "_spawnPoint", "d8/ded/a17731.html#ab168baee9c4d6343c7adb6978a3a56d2", null ],
+    [ "_transport", "d8/ded/a17731.html#ac2c664d3b5941c673c13f7e36aa2d974", null ]
 ];

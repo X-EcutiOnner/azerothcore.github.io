@@ -1,8 +1,6 @@
 var a18271 =
 [
-    [ "Load", "d8/d8c/a18271.html#add67e02f44e3658bff98faf7a9466ba3", null ],
-    [ "OnPeriodic", "d8/d8c/a18271.html#a3e523e0bb23e4aba279ba6704206bfc4", null ],
-    [ "PrepareAuraScript", "d8/d8c/a18271.html#a399fc30c23c03d3c4964ec23faed7c18", null ],
-    [ "Register", "d8/d8c/a18271.html#a4ee6fe23e45481eea16f77d8de72742e", null ],
-    [ "_is25Man", "d8/d8c/a18271.html#ab7776e2d8eff0de1176d5d5efa853c6d", null ]
+    [ "HandleSpecial", "d8/d8c/a18271.html#afa540e8c748ca3083667528e2449bc65", null ],
+    [ "PrepareSpellScript", "d8/d8c/a18271.html#a9472211ffdaa33802099b22b2a721645", null ],
+    [ "Register", "d8/d8c/a18271.html#ab868b10372ff2ef401d19b126acf00c6", null ]
 ];

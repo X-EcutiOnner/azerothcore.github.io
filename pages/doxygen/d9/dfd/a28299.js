@@ -1,16 +1,14 @@
 var a28299 =
 [
-    [ "amount", "d9/dfd/a28299.html#a3086819447f7ae23bf5697a45cbc6f93", null ],
-    [ "aura_id", "d9/dfd/a28299.html#a5866d4e8ce373b6eb9af1d27e2db2c1b", null ],
-    [ "charges", "d9/dfd/a28299.html#ade74be0906ef080347ac81ed48379cd1", null ],
-    [ "description", "d9/dfd/a28299.html#a7dc66c82551a59750d6294f3503a3dbc", null ],
-    [ "EnchantmentCondition", "d9/dfd/a28299.html#a2416afe9ae8371b9d284dd3c176c98d1", null ],
-    [ "GemID", "d9/dfd/a28299.html#a324fd42b7184f5c626c33323a4d72b07", null ],
-    [ "ID", "d9/dfd/a28299.html#af46fa8808024e75705b812b695bd1590", null ],
-    [ "requiredLevel", "d9/dfd/a28299.html#a53bf562ea4dfccb14bfb627c831b477e", null ],
-    [ "requiredSkill", "d9/dfd/a28299.html#a6ca7dac0e1f497b3c96887a6c09097bc", null ],
-    [ "requiredSkillValue", "d9/dfd/a28299.html#a7a57764dad60c9369826638c1355127e", null ],
-    [ "slot", "d9/dfd/a28299.html#af64b13ce2e81d5be7e73763cd5c5e4b8", null ],
-    [ "spellid", "d9/dfd/a28299.html#a694edc79cf8ba571338bff2a3aad512d", null ],
-    [ "type", "d9/dfd/a28299.html#adb693b7ada8d1a65c1d8091d1055c7bf", null ]
+    [ "IsFlyable", "d9/dfd/a28299.html#a2a59297a617c9d3b582ede2a028bd07e", null ],
+    [ "IsSanctuary", "d9/dfd/a28299.html#ad239b4e381b6af858a181e9c361d6cbb", null ],
+    [ "area_level", "d9/dfd/a28299.html#a23434848cf8b2eab4de1b6530b8d5f8d", null ],
+    [ "area_name", "d9/dfd/a28299.html#a87653e6b7f7368a59af7adaf77a49e10", null ],
+    [ "exploreFlag", "d9/dfd/a28299.html#a78cf3009cd0fe49dc7870c7f65c79251", null ],
+    [ "flags", "d9/dfd/a28299.html#a5854e3f565d827dbad3d9a36f99e9a25", null ],
+    [ "ID", "d9/dfd/a28299.html#ad02bb9fce21f464e38223581074a9e21", null ],
+    [ "LiquidTypeOverride", "d9/dfd/a28299.html#abe743a4b542c4356aab9d41f3fae7457", null ],
+    [ "mapid", "d9/dfd/a28299.html#a048ac249318efd9aa35bb705bfb92dc8", null ],
+    [ "team", "d9/dfd/a28299.html#ae18e0efef83e663452715f6be15ecaef", null ],
+    [ "zone", "d9/dfd/a28299.html#a3b4f9e187629db5ced9a06c601fc7f78", null ]
 ];

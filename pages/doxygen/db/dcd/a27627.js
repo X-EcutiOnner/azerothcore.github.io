@@ -1,5 +1,6 @@
 var a27627 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "db/dcd/a27627.html#afaa929276f8b131005c9b94daa9a09f9", null ],
-    [ "OnPlayerCompleteQuest", "db/dcd/a27627.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
+    [ "guard_shattrath_aldorAI", "d2/da9/a27631.html", "d2/da9/a27631" ],
+    [ "guard_shattrath_aldor", "db/dcd/a27627.html#ab965295d9c3828ad814f658670b5f185", null ],
+    [ "GetAI", "db/dcd/a27627.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
 ];

@@ -1,17 +1,19 @@
 var a09871 =
 [
-    [ "GraveyardContainer", "d7/d03/a09871.html#a21ce8ad954d37b385e339c5247f17ffd", null ],
-    [ "AddGraveyardLink", "d7/d03/a09871.html#ab4884f2b2b4f00dd9ea65c1ceb2af1bb", null ],
-    [ "FindGraveyardData", "d7/d03/a09871.html#a54a4461db550d5383fded30a6ecd0408", null ],
-    [ "GetClosestGraveyard", "d7/d03/a09871.html#af989ee1a2f802a0cb5addf50a0586d63", null ],
-    [ "GetDefaultGraveyard", "d7/d03/a09871.html#ab6ef1306db71eb2f2d72167314d5e1c2", null ],
-    [ "GetGraveyard", "d7/d03/a09871.html#addd1a184b9791c8c6a74fb228545741b", null ],
-    [ "GetGraveyard", "d7/d03/a09871.html#aeb72f07dd677dfe31d0e4b45f2f9ddd6", null ],
-    [ "GetGraveyardData", "d7/d03/a09871.html#ab9ebb6afa55d30e64d460b81f9297f09", null ],
-    [ "instance", "d7/d03/a09871.html#aaaf39d71af738cac8dd427ca94a5689b", null ],
-    [ "LoadGraveyardFromDB", "d7/d03/a09871.html#aff7880b8c557fac494e3b8213a048f32", null ],
-    [ "LoadGraveyardZones", "d7/d03/a09871.html#ac398379a421eabea55729e867d57383f", null ],
-    [ "RemoveGraveyardLink", "d7/d03/a09871.html#af957c28b4ccfc7b1853280b7441c958d", null ],
-    [ "_graveyardStore", "d7/d03/a09871.html#a77fb8dad0ae4ea7af0823c0bcafba787", null ],
-    [ "GraveyardStore", "d7/d03/a09871.html#afe83a8248fa6617b868cadd0699af96e", null ]
+    [ "InstancedMaps", "d7/d03/a09871.html#a2d08c599bf826c4c98aaa9109e3b7a57", null ],
+    [ "MapInstanced", "d7/d03/a09871.html#af30e91e40c171ddbf7400f310283c43c", null ],
+    [ "~MapInstanced", "d7/d03/a09871.html#aa27d6f90288f23d34117c7d68160e04c", null ],
+    [ "CannotEnter", "d7/d03/a09871.html#a29f973e3e4bdfcfb0ea9bf6639b38108", null ],
+    [ "CreateBattleground", "d7/d03/a09871.html#ad57ef8f1654b494b8c20f6af461653f4", null ],
+    [ "CreateInstance", "d7/d03/a09871.html#a6d04039bbbde5717e50606d48c3ea954", null ],
+    [ "CreateInstanceForPlayer", "d7/d03/a09871.html#a9151fb7f7438abddf7aa17d015c600ab", null ],
+    [ "DelayedUpdate", "d7/d03/a09871.html#a8f58a4c872089f8fce60ddc31623611e", null ],
+    [ "DestroyInstance", "d7/d03/a09871.html#aaff2d76ae18bb7416e0cc8c16e0375d7", null ],
+    [ "FindInstanceMap", "d7/d03/a09871.html#a6ec8d0547ce589613f53a2c8d0f4a7fa", null ],
+    [ "GetInstancedMaps", "d7/d03/a09871.html#aff2cc0a1f57f06ead9a3e999c1c7dba0", null ],
+    [ "InitVisibilityDistance", "d7/d03/a09871.html#a29380bc11b3e33278338bcff32b3cbec", null ],
+    [ "UnloadAll", "d7/d03/a09871.html#a7fb86dd2f4b60721aabf3923c461f1fc", null ],
+    [ "Update", "d7/d03/a09871.html#a0fce5af3a96e35e9cbe44d73bac8b2df", null ],
+    [ "MapMgr", "d7/d03/a09871.html#ae6ac74470769d45e3c75291134ab77df", null ],
+    [ "m_InstancedMaps", "d7/d03/a09871.html#a655e624aad00ec0345aa17ce635666bf", null ]
 ];

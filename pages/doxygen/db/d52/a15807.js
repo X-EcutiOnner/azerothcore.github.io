@@ -1,6 +1,6 @@
 var a15807 =
 [
-    [ "HandlePeriodic", "db/d52/a15807.html#ad22b433005b2678bde3516a01eaaaa60", null ],
-    [ "PrepareAuraScript", "db/d52/a15807.html#a3711004edaef7242d9cae1f23f9b7467", null ],
-    [ "Register", "db/d52/a15807.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
+    [ "npc_custodian_of_timeAI", "d4/d64/a15811.html", "d4/d64/a15811" ],
+    [ "npc_custodian_of_time", "db/d52/a15807.html#a6018b30119ce819853a3c662b3d5347e", null ],
+    [ "GetAI", "db/d52/a15807.html#a57217b2dab1cab110f1c59526ca13c86", null ]
 ];

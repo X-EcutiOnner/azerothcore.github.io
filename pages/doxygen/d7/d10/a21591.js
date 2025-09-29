@@ -1,9 +1,11 @@
 var a21591 =
 [
-    [ "npc_counselor_talbotAI", "d7/d10/a21591.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
-    [ "JustDied", "d7/d10/a21591.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
-    [ "JustEngagedWith", "d7/d10/a21591.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
-    [ "Reset", "d7/d10/a21591.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
-    [ "UpdateAI", "d7/d10/a21591.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
-    [ "_events", "d7/d10/a21591.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
+    [ "npc_vh_void_sentryAI", "d7/d10/a21591.html#a312f4bbc07e6d786e85c2b4e89d36344", null ],
+    [ "DoAction", "d7/d10/a21591.html#a0bc95eea54b5cdc16a4d3f588f3ff900", null ],
+    [ "JustDied", "d7/d10/a21591.html#add5121ed38a74be9ae168df5f893f89e", null ],
+    [ "SummonedCreatureDespawn", "d7/d10/a21591.html#a24ff36cdb049da7c67c1f041361e17e4", null ],
+    [ "UpdateAI", "d7/d10/a21591.html#ae1f683d5ef920213c9c86da35c626381", null ],
+    [ "checkTimer", "d7/d10/a21591.html#a675bcae4119e45490403013534c731ef", null ],
+    [ "pInstance", "d7/d10/a21591.html#a7527473944681143bab89fd12b475645", null ],
+    [ "SummonedGUID", "d7/d10/a21591.html#a4420eb2cf4d3b6d161355b0f4ad9516d", null ]
 ];

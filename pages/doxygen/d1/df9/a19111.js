@@ -1,16 +1,9 @@
 var a19111 =
 [
-    [ "boss_thaddius_summonAI", "d1/df9/a19111.html#aa5050ea97f0f92a39f3db856af5cd28e", null ],
-    [ "DoAction", "d1/df9/a19111.html#a3b95513bd72806a928c0f57cf6ceb45a", null ],
-    [ "EnterEvadeMode", "d1/df9/a19111.html#ad2258d2039a789f99ad4c0766726df85", null ],
-    [ "JustDied", "d1/df9/a19111.html#a1629c28098312defb57611967adf34fe", null ],
-    [ "JustEngagedWith", "d1/df9/a19111.html#af96f6054547e377f401972273e6e86aa", null ],
-    [ "KilledUnit", "d1/df9/a19111.html#a16771a7a854f85dcc26e3510d31454af", null ],
-    [ "Reset", "d1/df9/a19111.html#a762fb33bd8fe4ac457b9b7b9c44b5d4c", null ],
-    [ "UpdateAI", "d1/df9/a19111.html#a6f99135eb20d77cca69ec20fe4fbd002", null ],
-    [ "events", "d1/df9/a19111.html#a18dd6a61746effdf03cd0afbadd8a368", null ],
-    [ "myCoil", "d1/df9/a19111.html#a2c21b7023f7396566f7486591a653079", null ],
-    [ "overload", "d1/df9/a19111.html#a6d054ec2a0f26f9f3a5b142bacca0ae5", null ],
-    [ "pullTimer", "d1/df9/a19111.html#a6080f32e1d90fa3e2e7bd9447abbad87", null ],
-    [ "visualTimer", "d1/df9/a19111.html#a3587b09a23d7aad81effd14bbda03291", null ]
+    [ "npc_isle_of_conquest_turretAI", "d1/df9/a19111.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
+    [ "JustDied", "d1/df9/a19111.html#a88390da94298bea9c445bb422a806d23", null ],
+    [ "SpellHit", "d1/df9/a19111.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
+    [ "UpdateAI", "d1/df9/a19111.html#a81c039a2a230b261967842161757b6f8", null ],
+    [ "events", "d1/df9/a19111.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
+    [ "faction", "d1/df9/a19111.html#aca941c070a97278c8ec27d7e6b4edede", null ]
 ];

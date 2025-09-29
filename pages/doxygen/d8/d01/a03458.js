@@ -1,9 +1,17 @@
 var a03458 =
 [
-    [ "OutdoorPvP_hellfire_peninsula", "df/d20/a22556.html", "df/d20/a22556" ],
-    [ "AddSC_outdoorpvp_hp", "d8/d01/a03458.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
-    [ "HP_LANG_CAPTURE_A", "d8/d01/a03458.html#a642fe1233b764402bae812604b684442", null ],
-    [ "HP_LANG_CAPTURE_H", "d8/d01/a03458.html#a3ae9bb2c949b7f3c852ce2e4552d8ccd", null ],
-    [ "HP_LANG_LOSE_A", "d8/d01/a03458.html#a1b9adf9c71e549e4545c2e4eabe58dd5", null ],
-    [ "HP_LANG_LOSE_H", "d8/d01/a03458.html#ad62cd8f07ac98311202494985c6ae9c8", null ]
+    [ "npc_daphne_stilwell", "d1/d47/a13963.html", "d1/d47/a13963" ],
+    [ "npc_daphne_stilwell::npc_daphne_stilwellAI", "da/df6/a13967.html", "da/df6/a13967" ],
+    [ "DaphneStilwell", "d8/d01/a03458.html#a49d1cb4d511d2524f3bf3459da05a2fd", [
+      [ "SAY_DS_START", "d8/d01/a03458.html#a49d1cb4d511d2524f3bf3459da05a2fdaa12c38d2f57b101a5272dde45bbf430e", null ],
+      [ "SAY_DS_DOWN_1", "d8/d01/a03458.html#a49d1cb4d511d2524f3bf3459da05a2fda75bd441fc5d22c60e256684d8664aa46", null ],
+      [ "SAY_DS_DOWN_2", "d8/d01/a03458.html#a49d1cb4d511d2524f3bf3459da05a2fda2fd750f4c8a0d85a69375e139be43d75", null ],
+      [ "SAY_DS_DOWN_3", "d8/d01/a03458.html#a49d1cb4d511d2524f3bf3459da05a2fda14433601b23e5a16dcc971ea746d1128", null ],
+      [ "SAY_DS_PROLOGUE", "d8/d01/a03458.html#a49d1cb4d511d2524f3bf3459da05a2fda402570a024e9b48018ca6b53ff7b83f8", null ],
+      [ "SPELL_SHOOT", "d8/d01/a03458.html#a49d1cb4d511d2524f3bf3459da05a2fda1b728fa1bb0194534b5b491d35ed871c", null ],
+      [ "QUEST_TOME_VALOR", "d8/d01/a03458.html#a49d1cb4d511d2524f3bf3459da05a2fda041a2f4b3f03948fc2f61e32e673973c", null ],
+      [ "NPC_DEFIAS_RAIDER", "d8/d01/a03458.html#a49d1cb4d511d2524f3bf3459da05a2fda8455beedf9f49cb74c0f11bfb5a83050", null ],
+      [ "EQUIP_ID_RIFLE", "d8/d01/a03458.html#a49d1cb4d511d2524f3bf3459da05a2fda31e0ac414da424f6923680055dd801d3", null ]
+    ] ],
+    [ "AddSC_westfall", "d8/d01/a03458.html#a9c6e961944f462fc3c48a6400c76266c", null ]
 ];

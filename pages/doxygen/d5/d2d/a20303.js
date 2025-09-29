@@ -1,7 +1,6 @@
 var a20303 =
 [
-    [ "FilterTargetsInitial", "d5/d2d/a20303.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
-    [ "Load", "d5/d2d/a20303.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
-    [ "PrepareSpellScript", "d5/d2d/a20303.html#a4d1e588557fa3fa432d4015fda930877", null ],
-    [ "Register", "d5/d2d/a20303.html#a0428375ddb89907e7f1728757d55d052", null ]
+    [ "boss_freya_nature_bombAI", "df/d06/a20307.html", "df/d06/a20307" ],
+    [ "boss_freya_nature_bomb", "d5/d2d/a20303.html#a18fa6ff862a1b367ac23eb1b7bda0ed4", null ],
+    [ "GetAI", "d5/d2d/a20303.html#a73e24282c6bb29cf3f6a7da14a4de582", null ]
 ];

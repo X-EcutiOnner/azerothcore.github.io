@@ -1,6 +1,6 @@
 var a17607 =
 [
-    [ "HandlePeriodicTick", "d1/df8/a17607.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
-    [ "PrepareAuraScript", "d1/df8/a17607.html#a9962029ce4a5223d7aa05068e8d83326", null ],
-    [ "Register", "d1/df8/a17607.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
+    [ "FilterTargets", "d1/df8/a17607.html#a59255a2cee0f9d8a75ca183647851779", null ],
+    [ "PrepareSpellScript", "d1/df8/a17607.html#af8d1cc9c709aeb3a68d1f452bb605c71", null ],
+    [ "Register", "d1/df8/a17607.html#a6b6dbeaa8feb8eac4441a87cdf371a36", null ]
 ];

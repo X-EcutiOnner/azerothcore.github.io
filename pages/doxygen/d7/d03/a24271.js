@@ -1,7 +1,9 @@
 var a24271 =
 [
-    [ "npc_isla_starmaneAI", "dc/d54/a24275.html", "dc/d54/a24275" ],
-    [ "npc_isla_starmane", "d7/d03/a24271.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
-    [ "GetAI", "d7/d03/a24271.html#a0ea2dbaab4115772f92849e06aa85575", null ],
-    [ "OnQuestAccept", "d7/d03/a24271.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
+    [ "npc_fel_guard_houndAI", "d7/d03/a24271.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "d7/d03/a24271.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "d7/d03/a24271.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "d7/d03/a24271.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "d7/d03/a24271.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "d7/d03/a24271.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

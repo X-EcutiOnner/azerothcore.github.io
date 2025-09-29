@@ -1,6 +1,9 @@
 var a25731 =
 [
-    [ "HandleDummy", "dc/d9e/a25731.html#ab146c4026bc8ad129bb3d421891d344b", null ],
-    [ "PrepareSpellScript", "dc/d9e/a25731.html#aa9743f357b9800ab2990fb584011b0a6", null ],
-    [ "Register", "dc/d9e/a25731.html#a3ca7b1dd1187fd39e362b3451b246a4c", null ]
+    [ "getMountSpellId", "dc/d9e/a25731.html#afe306ed6057050baf342ee717723764d", null ],
+    [ "OnApply", "dc/d9e/a25731.html#aa8bee986d413be60d00ac1d2111ef719", null ],
+    [ "OnRemove", "dc/d9e/a25731.html#a162d466a1dcd2cb710abf12c06f7c2de", null ],
+    [ "PrepareAuraScript", "dc/d9e/a25731.html#a7070cc7aeec4a88fbde960cebf1aef56", null ],
+    [ "Register", "dc/d9e/a25731.html#a481e5295da3d789d9b3c1ed30fdaf0bd", null ],
+    [ "Validate", "dc/d9e/a25731.html#a6868f6e88c9179efd921b266c83f6daf", null ]
 ];

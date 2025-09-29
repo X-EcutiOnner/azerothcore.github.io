@@ -1,7 +1,8 @@
 var a05947 =
 [
-    [ "Id", "d1/d1f/a05947.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
-    [ "NameMD5", "d1/d1f/a05947.html#a67c4437044d747ff9867a71967697767", null ],
-    [ "Timestamp", "d1/d1f/a05947.html#af62257c39a4ae1eba959086e981b0d19", null ],
-    [ "VersionMD5", "d1/d1f/a05947.html#acb8dbe824f71363eb81504f43a126d96", null ]
+    [ "UpdateResult", "d1/d1f/a05947.html#af32cdf09d32607955c98353fbfa7d392", null ],
+    [ "UpdateResult", "d1/d1f/a05947.html#a225eb6b9ff745dcd72d623ca79c007c6", null ],
+    [ "archived", "d1/d1f/a05947.html#adee274af5f5d6981e28b3587008d690c", null ],
+    [ "recent", "d1/d1f/a05947.html#aea54f4388b659def734957a47e9cca8c", null ],
+    [ "updated", "d1/d1f/a05947.html#a12b3fffe01639493fc405bd5a797f463", null ]
 ];

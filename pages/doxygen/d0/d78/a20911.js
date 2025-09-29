@@ -1,7 +1,6 @@
 var a20911 =
 [
-    [ "HandleEffectCalcPeriodic", "d0/d78/a20911.html#af01eb94174952de52615734055b17c1a", null ],
-    [ "HandleEffectPeriodic", "d0/d78/a20911.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
-    [ "PrepareAuraScript", "d0/d78/a20911.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
-    [ "Register", "d0/d78/a20911.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
+    [ "boss_xt002AI", "d8/d63/a20915.html", "d8/d63/a20915" ],
+    [ "boss_xt002", "d0/d78/a20911.html#aebd7e513b3bef6a25ad0f9766d18174e", null ],
+    [ "GetAI", "d0/d78/a20911.html#a146e4a10da7d81213e7f63d6e86c79f2", null ]
 ];

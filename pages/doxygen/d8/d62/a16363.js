@@ -1,8 +1,6 @@
 var a16363 =
 [
-    [ "npc_toc_warlockAI", "d8/d62/a16363.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
-    [ "JustSummoned", "d8/d62/a16363.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
-    [ "myCanCast", "d8/d62/a16363.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
-    [ "UpdateAI", "d8/d62/a16363.html#a554849d02d923439bd810b7d8c242afa", null ],
-    [ "events", "d8/d62/a16363.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
+    [ "PrepareSpellScript", "d8/d62/a16363.html#a743f910c3854e2c4e726e97c55fa7038", null ],
+    [ "Register", "d8/d62/a16363.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
+    [ "RemoveNotBetween", "d8/d62/a16363.html#aba462e5b8e9336a508d19606f98750b5", null ]
 ];

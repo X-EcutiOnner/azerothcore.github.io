@@ -1,6 +1,7 @@
 var a24207 =
 [
-    [ "npc_shattrathflaskvendors", "d4/dd1/a24207.html#ab74b234406c2022bf519242a7842458a", null ],
-    [ "OnGossipHello", "d4/dd1/a24207.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
-    [ "OnGossipSelect", "d4/dd1/a24207.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
+    [ "npc_daranelleAI", "d4/dd1/a24207.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "d4/dd1/a24207.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "d4/dd1/a24207.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "d4/dd1/a24207.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

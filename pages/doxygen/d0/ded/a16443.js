@@ -1,8 +1,15 @@
 var a16443 =
 [
-    [ "npc_toc_pet_hunterAI", "d0/ded/a16443.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
-    [ "EnterEvadeMode", "d0/ded/a16443.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
-    [ "myCanCast", "d0/ded/a16443.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
-    [ "UpdateAI", "d0/ded/a16443.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
-    [ "events", "d0/ded/a16443.html#ade038312363f976b34868ed2cbebb58d", null ]
+    [ "npc_argent_soldierAI", "d0/ded/a16443.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
+    [ "DamageTaken", "d0/ded/a16443.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
+    [ "JustDied", "d0/ded/a16443.html#aedf4dcd909c1009fedfde593522454ec", null ],
+    [ "JustEngagedWith", "d0/ded/a16443.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
+    [ "Reset", "d0/ded/a16443.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
+    [ "SetData", "d0/ded/a16443.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
+    [ "UpdateAI", "d0/ded/a16443.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
+    [ "WaypointReached", "d0/ded/a16443.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
+    [ "bCheck", "d0/ded/a16443.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
+    [ "events", "d0/ded/a16443.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
+    [ "pInstance", "d0/ded/a16443.html#ac9951514f27f343ae96e856f484e7baf", null ],
+    [ "uiWaypoint", "d0/ded/a16443.html#a87382571221c608017fd2d4cb99193dc", null ]
 ];

@@ -1,8 +1,6 @@
 var a26647 =
 [
-    [ "ApplyDebuff", "d0/ded/a26647.html#a76ecb96d27c54b18f3628476dae4cc73", null ],
-    [ "PrepareSpellScript", "d0/ded/a26647.html#aeff4dce89b0d893b90571e0ff63e1aaa", null ],
-    [ "Register", "d0/ded/a26647.html#ae53dfd7f60a1c4132c441f7cd1595b95", null ],
-    [ "RemoveInvalidTargets", "d0/ded/a26647.html#a1374c764b20b95febbca44c593bde218", null ],
-    [ "Validate", "d0/ded/a26647.html#a2eb14ea281b41b08acd4514c01aa938f", null ]
+    [ "HandleEffectApply", "d0/ded/a26647.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
+    [ "PrepareAuraScript", "d0/ded/a26647.html#a707504eccf42af77f6e6e927d208bc8c", null ],
+    [ "Register", "d0/ded/a26647.html#a7aeaa28997bbe966274a738cf45323ed", null ]
 ];

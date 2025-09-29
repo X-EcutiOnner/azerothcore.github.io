@@ -1,9 +1,8 @@
 var a25755 =
 [
-    [ "CheckRequirement", "db/d8b/a25755.html#adab261a5221ca54b15cc414d291908fe", null ],
-    [ "HandleDummy", "db/d8b/a25755.html#abb7a734244bb18d75304a0510f9efb8d", null ],
-    [ "Load", "db/d8b/a25755.html#a418eef16d1e3aeff67013f45409c092a", null ],
-    [ "PrepareSpellScript", "db/d8b/a25755.html#ab3e73a456ec7384720827a4ff7f5abc7", null ],
-    [ "Register", "db/d8b/a25755.html#a5dbf60e33f2cdca3921f623cd1098948", null ],
-    [ "Validate", "db/d8b/a25755.html#a1dcba4f3c2874a952ca422b0a3cdafb1", null ]
+    [ "OnApply", "db/d8b/a25755.html#a75b45732648d5ba90b49725a48609a89", null ],
+    [ "OnBaseRemove", "db/d8b/a25755.html#aa6d10399bba721ff7a3651508fcdf449", null ],
+    [ "OnRemove", "db/d8b/a25755.html#a0331b3860691db793c5a7bcf53550c6f", null ],
+    [ "PrepareAuraScript", "db/d8b/a25755.html#a34ad4890c7ce30427537e36980057e57", null ],
+    [ "Register", "db/d8b/a25755.html#a713e694cad6f1cf533d45f5d633da36e", null ]
 ];

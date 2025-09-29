@@ -1,8 +1,10 @@
 var a26563 =
 [
-    [ "HandleRootRemove", "d5/d03/a26563.html#a9678ce2254825b67eb7a16312e960ba9", null ],
-    [ "HandleSnareRemove", "d5/d03/a26563.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
-    [ "PrepareSpellScript", "d5/d03/a26563.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
-    [ "Register", "d5/d03/a26563.html#a119675dccea898932ca090577022b6ba", null ],
-    [ "Validate", "d5/d03/a26563.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
+    [ "GetTarget", "d5/d03/a26563.html#a1bfcb90731a93e4897c9d4fbf46d2a01", null ],
+    [ "HandleEffectPeriodicPlatform", "d5/d03/a26563.html#ac499c8adcd74206ad60a7fc24d32cc3c", null ],
+    [ "HandleEffectPeriodicSelf", "d5/d03/a26563.html#a2272a970ca5edca6f7353beb2279c29c", null ],
+    [ "PerformKick", "d5/d03/a26563.html#aa192aa92cc5c55f8bf2306c4463a3efc", null ],
+    [ "PrepareAuraScript", "d5/d03/a26563.html#a489f1da8f8008db8f096470f28455ef9", null ],
+    [ "Register", "d5/d03/a26563.html#a164c94c63cf03b98ee085b18a0a8af9a", null ],
+    [ "AuraEffectHandleModes", "d5/d03/a26563.html#a91d53900d8c6d0dd2a7519a4836aa05b", null ]
 ];

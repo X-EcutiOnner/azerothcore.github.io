@@ -1,5 +1,8 @@
 var a13615 =
 [
-    [ "npc_king_varian_wrynn", "d4/d8a/a13615.html#a33b7c492a7435b3f80e508be9e3440e9", null ],
-    [ "OnQuestReward", "d4/d8a/a13615.html#a1255cca95a7a2b039702b30db377a19f", null ]
+    [ "HandleApply", "d4/d8a/a13615.html#a9dce02909356193476e66586aee87f1d", null ],
+    [ "OnPeriodic", "d4/d8a/a13615.html#add4f000f81d5d4112719c6dd7464163c", null ],
+    [ "PrepareAuraScript", "d4/d8a/a13615.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
+    [ "Register", "d4/d8a/a13615.html#abc349f12f375b1f284eb78a363e8172a", null ],
+    [ "Validate", "d4/d8a/a13615.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
 ];

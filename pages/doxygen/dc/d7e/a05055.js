@@ -1,6 +1,11 @@
 var a05055 =
 [
-    [ "TriBoundFunc", "dc/d7e/a05055.html#a42711c10595c048420a09e35e3345229", null ],
-    [ "operator()", "dc/d7e/a05055.html#a026d443e9156f884a21351700b6c69dd", null ],
-    [ "vertices", "dc/d7e/a05055.html#a3c5d3e61f9a963eacf4aff4e90d8e1bb", null ]
+    [ "ModelPosition", "dc/d7e/a05055.html#ac611d964ae36e4ccd5a3bf385457a0ac", null ],
+    [ "init", "dc/d7e/a05055.html#a5b7df306c28a7985fd3ab17d48350a27", null ],
+    [ "moveToBasePos", "dc/d7e/a05055.html#a2fe1b48319a056f110ef700877257731", null ],
+    [ "transform", "dc/d7e/a05055.html#add4c2efec70be75d8ffcd1009b6c2699", null ],
+    [ "iDir", "dc/d7e/a05055.html#a24ba62281166e60036ac8a57b26c6abd", null ],
+    [ "iPos", "dc/d7e/a05055.html#a36a3bd930273e0313e3b09c1289e9317", null ],
+    [ "iRotation", "dc/d7e/a05055.html#ae53c5b044021f5ef04ecb5d8898fd8b3", null ],
+    [ "iScale", "dc/d7e/a05055.html#a81bb029dce2aadec2f147a1329ee285e", null ]
 ];

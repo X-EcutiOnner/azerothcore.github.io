@@ -1,6 +1,10 @@
 var a26383 =
 [
-    [ "HandleDummy", "d7/dbd/a26383.html#aa530b0e27c9b9ba1978a80fd4a47f68d", null ],
-    [ "PrepareSpellScript", "d7/dbd/a26383.html#a22adac71d2693d17313e506f1d12532f", null ],
-    [ "Register", "d7/dbd/a26383.html#a2680afcbe3d7e95404c614e2f0f93bf4", null ]
+    [ "CheckCast", "d7/dbd/a26383.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
+    [ "HandleScript", "d7/dbd/a26383.html#a35b9d69b8147ef06527b8533ef376e72", null ],
+    [ "Load", "d7/dbd/a26383.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
+    [ "PrepareSpellScript", "d7/dbd/a26383.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
+    [ "Register", "d7/dbd/a26383.html#afd716f555ac73287bd268c6124b15b1c", null ],
+    [ "Validate", "d7/dbd/a26383.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
+    [ "_manaAmount", "d7/dbd/a26383.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
 ];

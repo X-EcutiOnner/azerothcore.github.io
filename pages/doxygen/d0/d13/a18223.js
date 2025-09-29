@@ -1,6 +1,7 @@
 var a18223 =
 [
-    [ "npc_raging_spiritAI", "d3/dbe/a18227.html", "d3/dbe/a18227" ],
-    [ "npc_raging_spirit", "d0/d13/a18223.html#ad1a580bd394adc8c58575b600c16f9db", null ],
-    [ "GetAI", "d0/d13/a18223.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
+    [ "IceTombSummonEvent", "d0/d13/a18223.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
+    [ "Execute", "d0/d13/a18223.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
+    [ "_owner", "d0/d13/a18223.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
+    [ "_sindragosaGUID", "d0/d13/a18223.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
 ];

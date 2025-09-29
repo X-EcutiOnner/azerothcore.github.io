@@ -1,7 +1,7 @@
 var a07979 =
 [
-    [ "ForcedDespawnDelayEvent", "d5/ddf/a07979.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
-    [ "Execute", "d5/ddf/a07979.html#a735c709b269458911bd93da1902cbe25", null ],
-    [ "m_owner", "d5/ddf/a07979.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
-    [ "m_respawnTimer", "d5/ddf/a07979.html#a5db78930a1fda07f2020b23158ebb93d", null ]
+    [ "LfgReward", "d5/ddf/a07979.html#afe2ea037fa24064c2bf04cfc6303d903", null ],
+    [ "firstQuest", "d5/ddf/a07979.html#a28162b1e43a5309ab01ca99b45d29799", null ],
+    [ "maxLevel", "d5/ddf/a07979.html#aae6e46155dc790ed7c63f5f0b8e08395", null ],
+    [ "otherQuest", "d5/ddf/a07979.html#a96de83c64efc3009d7d5cd04a61e71b2", null ]
 ];

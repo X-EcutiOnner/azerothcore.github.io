@@ -1,8 +1,6 @@
 var a16283 =
 [
-    [ "npc_frost_sphereAI", "d7/ddf/a16283.html#ae697a98d23d94315768dc866852b6e07", null ],
-    [ "DamageTaken", "d7/ddf/a16283.html#a3960f19b456f29a33016d799809a82a8", null ],
-    [ "SpellHit", "d7/ddf/a16283.html#af842d47f1e8462fb6368e9dc7a070b84", null ],
-    [ "UpdateAI", "d7/ddf/a16283.html#a4e866332045135c867f2b9ee871db0c2", null ],
-    [ "permafrostTimer", "d7/ddf/a16283.html#adf7b1b447d0d05a498dd8603dbfab1ab", null ]
+    [ "boss_twilight_halionAI", "dd/ddd/a16287.html", "dd/ddd/a16287" ],
+    [ "boss_twilight_halion", "d7/ddf/a16283.html#a23ea0a61acb2cf3fd83aece3ac7d218e", null ],
+    [ "GetAI", "d7/ddf/a16283.html#a56842d74b16cbd5636649cbc643c50d8", null ]
 ];

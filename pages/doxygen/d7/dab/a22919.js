@@ -1,6 +1,7 @@
 var a22919 =
 [
-    [ "npc_supremus_punch_invisible_stalker", "d7/dab/a22919.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
-    [ "IsSummonedBy", "d7/dab/a22919.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
-    [ "UpdateAI", "d7/dab/a22919.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
+    [ "HandleOnHit", "d7/dab/a22919.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
+    [ "PrepareSpellScript", "d7/dab/a22919.html#a734b735c7e87938bff185be91f9de6e8", null ],
+    [ "Register", "d7/dab/a22919.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
+    [ "Validate", "d7/dab/a22919.html#a162f60784fdec6b748151e5c2a7ed257", null ]
 ];

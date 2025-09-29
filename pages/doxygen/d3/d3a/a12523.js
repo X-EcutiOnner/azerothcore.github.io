@@ -1,12 +1,9 @@
 var a12523 =
 [
-    [ "BoardCell", "d3/d3a/a12523.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
-    [ "Reset", "d3/d3a/a12523.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
-    [ "SetData", "d3/d3a/a12523.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
-    [ "SetPiece", "d3/d3a/a12523.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
-    [ "col", "d3/d3a/a12523.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
-    [ "pieceEntry", "d3/d3a/a12523.html#a7697506ccc800d38968e457c44bfa019", null ],
-    [ "pieceGUID", "d3/d3a/a12523.html#a74f494e406c56d4c61d79539acea684c", null ],
-    [ "row", "d3/d3a/a12523.html#a195c187e134be546f224cbb0eef8c844", null ],
-    [ "triggerGUID", "d3/d3a/a12523.html#a9cafdea50739b014a97e60611adcd3f1", null ]
+    [ "HandleAfterApply", "d3/d3a/a12523.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
+    [ "HandleAfterRemove", "d3/d3a/a12523.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
+    [ "PeriodicTick", "d3/d3a/a12523.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
+    [ "PrepareAuraScript", "d3/d3a/a12523.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
+    [ "Register", "d3/d3a/a12523.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
+    [ "Validate", "d3/d3a/a12523.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
 ];

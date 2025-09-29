@@ -1,8 +1,10 @@
 var a28643 =
 [
-    [ "TileConfig", "d8/dea/a28643.html#a67b10c747fb0d2bc2a263e5009d42e1b", null ],
-    [ "BASE_UNIT_DIM", "d8/dea/a28643.html#a5a882b0595456ab3fcca85c80af3b6f8", null ],
-    [ "TILES_PER_MAP", "d8/dea/a28643.html#ae3443f89a8a698823c91096abe51a6a9", null ],
-    [ "VERTEX_PER_MAP", "d8/dea/a28643.html#a46640a80428b1ab93d65d593c03d13ed", null ],
-    [ "VERTEX_PER_TILE", "d8/dea/a28643.html#ae0331739074e5546818e13527a76524a", null ]
+    [ "attackSpeed", "d8/dea/a28643.html#ab5242f7367e8799a556176178c72fc88", null ],
+    [ "creatureType", "d8/dea/a28643.html#a3dff9074b85261932ed8a8a550c5395b", null ],
+    [ "flags1", "d8/dea/a28643.html#a026745f2ce754d754858d69ee219b518", null ],
+    [ "ID", "d8/dea/a28643.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
+    [ "modelID_A", "d8/dea/a28643.html#a86dfa61342583d920b7d8496bce4b49d", null ],
+    [ "modelID_H", "d8/dea/a28643.html#a1ee597d6fd02507b682874929645e01d", null ],
+    [ "stanceSpell", "d8/dea/a28643.html#a08f54b905e905fb5a59e449f8c613c08", null ]
 ];

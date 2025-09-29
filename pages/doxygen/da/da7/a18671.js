@@ -1,5 +1,6 @@
 var a18671 =
 [
-    [ "at_icc_start_blood_quickening", "da/da7/a18671.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
-    [ "OnTrigger", "da/da7/a18671.html#a814670e127b1eace6068a553b23d00f7", null ]
+    [ "npc_the_lich_king_controllerAI", "df/d26/a18675.html", "df/d26/a18675" ],
+    [ "npc_the_lich_king_controller", "da/da7/a18671.html#a32b14d699737497ba7c90d8ef17557d7", null ],
+    [ "GetAI", "da/da7/a18671.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
 ];

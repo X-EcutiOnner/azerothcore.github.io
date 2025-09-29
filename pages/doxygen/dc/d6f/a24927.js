@@ -1,6 +1,6 @@
 var a24927 =
 [
-    [ "CheckAreaTarget", "dc/d6f/a24927.html#a90761b0145ea9d4178e77eb5e15a8ba6", null ],
-    [ "PrepareAuraScript", "dc/d6f/a24927.html#afbc45652033397067a439b45afd2e90e", null ],
-    [ "Register", "dc/d6f/a24927.html#aa24679e1243470056f74249e1b26767d", null ]
+    [ "HandleEffectCalcSpellMod", "dc/d6f/a24927.html#aaf21dafa72b58245f548ed946a49659d", null ],
+    [ "PrepareAuraScript", "dc/d6f/a24927.html#ac05d3ae466ad64ac590f399827aac0c9", null ],
+    [ "Register", "dc/d6f/a24927.html#a46a643985647d8a8e033b637b31214a5", null ]
 ];

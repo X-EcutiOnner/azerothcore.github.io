@@ -1,11 +1,9 @@
 var a08603 =
 [
-    [ "FriendInfo", "d7/d6a/a08603.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
-    [ "FriendInfo", "d7/d6a/a08603.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
-    [ "Area", "d7/d6a/a08603.html#adf16884b55545ed9302dbb54d653867b", null ],
-    [ "Class", "d7/d6a/a08603.html#a8b797fcfda05d52d4297f32e458be519", null ],
-    [ "Flags", "d7/d6a/a08603.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
-    [ "Level", "d7/d6a/a08603.html#a70d9a74f4587f648db5bf49b61091213", null ],
-    [ "Note", "d7/d6a/a08603.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
-    [ "Status", "d7/d6a/a08603.html#a380f11d65b34e1e598b7861987cecfe6", null ]
+    [ "areaFlag", "d7/d6a/a08603.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
+    [ "areaID", "d7/d6a/a08603.html#a455a890a1d82d31873873ac497cb83b7", null ],
+    [ "x1", "d7/d6a/a08603.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
+    [ "x2", "d7/d6a/a08603.html#aebdb021c0b9c40d624d5115b24616a12", null ],
+    [ "y1", "d7/d6a/a08603.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
+    [ "y2", "d7/d6a/a08603.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
 ];

@@ -1,6 +1,8 @@
 var a13579 =
 [
-    [ "npc_ravenclaw_apparitionAI", "db/dc9/a13583.html", "db/dc9/a13583" ],
-    [ "npc_ravenclaw_apparition", "da/d8e/a13579.html#a961044571250519e62d7d33633974038", null ],
-    [ "GetAI", "da/d8e/a13579.html#a9de4a85f8318ff8b1ad30aa4c8f15765", null ]
+    [ "HandleApply", "da/d8e/a13579.html#a2c64240e8675fc76598600ae2632570f", null ],
+    [ "HandleRemove", "da/d8e/a13579.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
+    [ "PrepareAuraScript", "da/d8e/a13579.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
+    [ "Register", "da/d8e/a13579.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
+    [ "Validate", "da/d8e/a13579.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
 ];

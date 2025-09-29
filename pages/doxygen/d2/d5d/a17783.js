@@ -1,14 +1,12 @@
 var a17783 =
 [
-    [ "npc_putricide_oozeAI", "d2/d5d/a17783.html#a5b3200110d6cd8ac1311220ab2ee3385", null ],
-    [ "CastMainSpell", "d2/d5d/a17783.html#a62c9027b6d8a7812fcf5c0023621ef70", null ],
-    [ "IsSummonedBy", "d2/d5d/a17783.html#a8e96a50b9a35f6220bf6c824c1acce58", null ],
-    [ "SelectNewTarget", "d2/d5d/a17783.html#a0a4167a73249967fcf268683f936647d", null ],
-    [ "SetGUID", "d2/d5d/a17783.html#a4820e07300bfd50980e42faac3327fec", null ],
-    [ "SpellHit", "d2/d5d/a17783.html#ab9d288f8eded19720a0aee3bd91920d2", null ],
-    [ "SpellHitTarget", "d2/d5d/a17783.html#a501e0f46abdb1bcc0d99ab9792f738fe", null ],
-    [ "UpdateAI", "d2/d5d/a17783.html#a508fe1a9974f2ffa36c72575c2d4b252", null ],
-    [ "_hitTargetSpellId", "d2/d5d/a17783.html#a728b62580e7a84e9947a45b460ab140c", null ],
-    [ "_newTargetSelectTimer", "d2/d5d/a17783.html#a9615a0e6c73c155330c1791c2a205553", null ],
-    [ "targetGUID", "d2/d5d/a17783.html#ae01b7ffe31548aa15d913cc28fa32422", null ]
+    [ "gunship_npc_AI", "d2/d5d/a17783.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
+    [ "EnterEvadeMode", "d2/d5d/a17783.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
+    [ "JustDied", "d2/d5d/a17783.html#ad40c976be4decd9054dad031a4caab78", null ],
+    [ "MovementInform", "d2/d5d/a17783.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
+    [ "SetData", "d2/d5d/a17783.html#acfd5e331155d7787ada33acbca73fece", null ],
+    [ "SetSlotInfo", "d2/d5d/a17783.html#afdfc3f9add2952f90baf24d55425670f", null ],
+    [ "Index", "d2/d5d/a17783.html#ae120874514cf5921136821b820a04da7", null ],
+    [ "Instance", "d2/d5d/a17783.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
+    [ "Slot", "d2/d5d/a17783.html#a59d237475ae309755d429cfac77d6630", null ]
 ];

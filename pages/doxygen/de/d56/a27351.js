@@ -1,5 +1,6 @@
 var a27351 =
 [
-    [ "item_mysterious_egg", "de/d56/a27351.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
-    [ "OnExpire", "de/d56/a27351.html#a5ea72284626826b75819f89b3b91c540", null ]
+    [ "npc_dream_fogAI", "d9/d70/a27355.html", "d9/d70/a27355" ],
+    [ "npc_dream_fog", "de/d56/a27351.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "de/d56/a27351.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

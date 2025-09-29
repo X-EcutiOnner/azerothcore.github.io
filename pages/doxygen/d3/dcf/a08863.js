@@ -1,14 +1,18 @@
 var a08863 =
 [
-    [ "WorldObjectSearcher", "d3/dcf/a08863.html#a4c8b6202710f1539e55eb8d30031ce62", null ],
-    [ "Visit", "d3/dcf/a08863.html#ace0642ee6949a06f9b94e350b49e64c1", null ],
-    [ "Visit", "d3/dcf/a08863.html#ac484deeb43ead6b9ea73182da97ff3ba", null ],
-    [ "Visit", "d3/dcf/a08863.html#a28a30052c55b2ffad85e8d2f4f008ff3", null ],
-    [ "Visit", "d3/dcf/a08863.html#a42fce9834443194e090e022f3f7618b0", null ],
-    [ "Visit", "d3/dcf/a08863.html#aae2b654236e3a85d9ba0b5ce48d5c315", null ],
-    [ "Visit", "d3/dcf/a08863.html#aa2742bc25a4773a487e9e8ff760644ea", null ],
-    [ "i_check", "d3/dcf/a08863.html#aa8af931f3d562aa1c31e774347db2e24", null ],
-    [ "i_mapTypeMask", "d3/dcf/a08863.html#a2910a3c0a932f2d3ea7d10d4541cbb39", null ],
-    [ "i_object", "d3/dcf/a08863.html#a8f705e476d2a32ca90d589d9b58b2c8d", null ],
-    [ "i_phaseMask", "d3/dcf/a08863.html#a5688db61fc9d297252987830eadb0ee5", null ]
+    [ "GameEventData", "d3/dcf/a08863.html#ab7963b01d9e138d79f06274ea57b9590", null ],
+    [ "isValid", "d3/dcf/a08863.html#a7a91c9c9cc68593812b13f6efd2ea4ff", null ],
+    [ "Announce", "d3/dcf/a08863.html#ae055378db69064ad4338ec2ddf6c7c75", null ],
+    [ "Conditions", "d3/dcf/a08863.html#a0915a0321c4c26bfb61824587a309cde", null ],
+    [ "Description", "d3/dcf/a08863.html#a5ab9afbc209e319839fd68de0cbc2207", null ],
+    [ "End", "d3/dcf/a08863.html#a4bae1cf480ee64f190e2f09640e8a8cd", null ],
+    [ "EventId", "d3/dcf/a08863.html#a6fe6513946fc98803fb816d2aabd8dcc", null ],
+    [ "HolidayId", "d3/dcf/a08863.html#a9c9979bdece8534af216b693a2a58a80", null ],
+    [ "HolidayStage", "d3/dcf/a08863.html#a44c52795eed59abdff72cdebdccc50ca", null ],
+    [ "Length", "d3/dcf/a08863.html#a72bff4c3a62db350460993d804a461ea", null ],
+    [ "NextStart", "d3/dcf/a08863.html#aafe5f4d5b9122f26442266c651ebd77e", null ],
+    [ "Occurence", "d3/dcf/a08863.html#ab4e80a88f30560a3af0c6381e974687d", null ],
+    [ "PrerequisiteEvents", "d3/dcf/a08863.html#aa4ecb9c9ce012aad0c1cb0d90a3eb4e0", null ],
+    [ "Start", "d3/dcf/a08863.html#a3be91b7e00641ca6cb853104190845dc", null ],
+    [ "State", "d3/dcf/a08863.html#a6288a7c28aba2927c3e91f5d2f517a60", null ]
 ];

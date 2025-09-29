@@ -1,7 +1,6 @@
 var a22019 =
 [
-    [ "npc_tirions_gambit_tirionAI", "d2/d83/a22023.html", "d2/d83/a22023" ],
-    [ "npc_tirions_gambit_tirion", "d5/db5/a22019.html#ad52abd46ccdd3b4409671679434c193c", null ],
-    [ "GetAI", "d5/db5/a22019.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
-    [ "OnGossipSelect", "d5/db5/a22019.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
+    [ "npc_q24545_lich_kingAI", "d2/d83/a22023.html", "d2/d83/a22023" ],
+    [ "npc_q24545_lich_king", "d5/db5/a22019.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
+    [ "GetAI", "d5/db5/a22019.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
 ];

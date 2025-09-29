@@ -1,14 +1,21 @@
 var a07191 =
 [
-    [ "ArenaTeamScore", "d8/da7/a07191.html#a017cd1a4d90a466b42aeab8ff1a12f3a", null ],
-    [ "~ArenaTeamScore", "d8/da7/a07191.html#ade081f31c498ee03a80f73fe70a56cc7", null ],
-    [ "Assign", "d8/da7/a07191.html#a28c3a055e1ad69693470f38fe676f0c6", null ],
-    [ "BuildRatingInfoBlock", "d8/da7/a07191.html#ae3e2b8e8a29c50ca20a42a0364349764", null ],
-    [ "BuildTeamInfoBlock", "d8/da7/a07191.html#aa876e0cf0b36f8fdb9efe8989092f143", null ],
-    [ "Reset", "d8/da7/a07191.html#a90611fd5e656d2d62917003ff0a5ff00", null ],
-    [ "Arena", "d8/da7/a07191.html#a5f488c25aa439166d145713c67e7d085", null ],
-    [ "Battleground", "d8/da7/a07191.html#a0c4048053f5f5cabe5bfbfdde8eded86", null ],
-    [ "MatchmakerRating", "d8/da7/a07191.html#a1e82169562a459371f973932d22e2f15", null ],
-    [ "RatingChange", "d8/da7/a07191.html#a61c85f158b767a6c81de87d7ad5007db", null ],
-    [ "TeamName", "d8/da7/a07191.html#ab99de3b9213f3ccab1791858df6aa3e8", null ]
+    [ "BfGraveyard", "d8/da7/a07191.html#a2e10ab7e731167473f5bbf194163660d", null ],
+    [ "AddPlayer", "d8/da7/a07191.html#acce3c0eade3e8e8afe08359de4dd7c88", null ],
+    [ "GetControlTeamId", "d8/da7/a07191.html#ac417eb4b9ff8f7c6f19e2148eb81131c", null ],
+    [ "GetDistance", "d8/da7/a07191.html#ae290db2a83278c27803d62267aebfb71", null ],
+    [ "GetGraveyardId", "d8/da7/a07191.html#ac7944db0403c37282ca90550f8ca4118", null ],
+    [ "GiveControlTo", "d8/da7/a07191.html#a9fe22d9ebbe1b652322b9a8e5f18ee91", null ],
+    [ "HasNpc", "d8/da7/a07191.html#a5f02be27972ae3f9aa8213ddb8c8b8d2", null ],
+    [ "HasPlayer", "d8/da7/a07191.html#ae85731d5d7d184749be9ec8704dde5e5", null ],
+    [ "Initialize", "d8/da7/a07191.html#ac81acd9801591e13c9f26d625d004b2f", null ],
+    [ "RelocateDeadPlayers", "d8/da7/a07191.html#ae0c6607ccfd39a3bf6806d437ce114ae", null ],
+    [ "RemovePlayer", "d8/da7/a07191.html#af21ac9d3e58cfedc9c12316e77eb875c", null ],
+    [ "Resurrect", "d8/da7/a07191.html#a94569ad820914c1f467aeaf30f977c3e", null ],
+    [ "SetSpirit", "d8/da7/a07191.html#ab4385a55321e8cf90e91bd10a04f1ddf", null ],
+    [ "m_Bf", "d8/da7/a07191.html#aa8e80e3722d725b02bfb5d450998f01a", null ],
+    [ "m_ControlTeam", "d8/da7/a07191.html#ab008468a642fb2fa450fb881704c4fbb", null ],
+    [ "m_GraveyardId", "d8/da7/a07191.html#a88e2a83e4aa220da8bc6036c2eb3fde0", null ],
+    [ "m_ResurrectQueue", "d8/da7/a07191.html#aa70f427dfa7ddd551c3880a8cc3ce445", null ],
+    [ "m_SpiritGuide", "d8/da7/a07191.html#aa8a700b633c79c7887cccebffceb772b", null ]
 ];

@@ -1,10 +1,10 @@
 var a05775 =
 [
-    [ "TransactionCallback", "d2/d2d/a05775.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
-    [ "TransactionCallback", "d2/d2d/a05775.html#adeff62976c11d9d90169e4650640118b", null ],
-    [ "AfterComplete", "d2/d2d/a05775.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
-    [ "InvokeIfReady", "d2/d2d/a05775.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
-    [ "operator=", "d2/d2d/a05775.html#ab73d1741c21ea9fd86f65a647768e972", null ],
-    [ "m_callback", "d2/d2d/a05775.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
-    [ "m_future", "d2/d2d/a05775.html#a381e889074bc5ca48574d37fe6eea00f", null ]
+    [ "MySQLConnectionInfo", "d2/d2d/a05775.html#ae60c54053d71eb9325df10701b1f42d3", null ],
+    [ "database", "d2/d2d/a05775.html#a7e65a418ad668772e4ce1b298d92f10a", null ],
+    [ "host", "d2/d2d/a05775.html#a2659372561aae5feb8da121984354ef3", null ],
+    [ "password", "d2/d2d/a05775.html#af5a51bd38ce1d58f65444d69b0283966", null ],
+    [ "port_or_socket", "d2/d2d/a05775.html#a37b89660afb3ee085e817836e9d1d01f", null ],
+    [ "ssl", "d2/d2d/a05775.html#a90e5a934b4ec46e5783248a1a80a4830", null ],
+    [ "user", "d2/d2d/a05775.html#a6bf4166ebb99ea30a3894e3d8833bde6", null ]
 ];

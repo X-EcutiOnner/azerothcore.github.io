@@ -1,6 +1,7 @@
 var a20447 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "d4/d64/a20451.html", "d4/d64/a20451" ],
-    [ "npc_ulduar_rocket_strike_trigger", "d0/d1b/a20447.html#a41cc84b04124bb47c24b39a48c9023b1", null ],
-    [ "GetAI", "d0/d1b/a20447.html#a7715ce6646efa3728c28c4e11b25c2ed", null ]
+    [ "HandleEffectPeriodic", "d0/d1b/a20447.html#a428d1251465cc9947e7474eab83494e3", null ],
+    [ "PrepareAuraScript", "d0/d1b/a20447.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
+    [ "Register", "d0/d1b/a20447.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
+    [ "Validate", "d0/d1b/a20447.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
 ];

@@ -1,7 +1,5 @@
 var a14339 =
 [
-    [ "go_loosely_turned_soilAI", "d1/d71/a14343.html", "d1/d71/a14343" ],
-    [ "go_loosely_turned_soil", "d9/da1/a14339.html#a3b4d51e2b3a604e030962127269236f1", null ],
-    [ "GetAI", "d9/da1/a14339.html#acead5810a848f8837fa65af1f2ac00bd", null ],
-    [ "OnQuestReward", "d9/da1/a14339.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
+    [ "go_brazier_of_madness", "d9/da1/a14339.html#aeb900e575be02244e62c6e5e4153c855", null ],
+    [ "GossipHello", "d9/da1/a14339.html#aba3af326b01cd045523434aec189fd47", null ]
 ];

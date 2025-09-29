@@ -1,6 +1,7 @@
 var a10499 =
 [
-    [ "SetSheathed", "dd/d5b/a10499.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
-    [ "Read", "dd/d5b/a10499.html#ae2158689450e3a9207b6992ea5223106", null ],
-    [ "CurrentSheathState", "dd/d5b/a10499.html#a8363787ac7959f19234def2707ef0b32", null ]
+    [ "ClientPacket", "dd/d5b/a10499.html#aa1d1946c07e248bae5927e83fdad9500", null ],
+    [ "ClientPacket", "dd/d5b/a10499.html#a1cdaaacca2695c4366647c7611073ff0", null ],
+    [ "GetOpcode", "dd/d5b/a10499.html#aa51558bb8faa96a665fe40b1bddf9d14", null ],
+    [ "Write", "dd/d5b/a10499.html#a16e5b9fa05e35fa1e32e33bef2688487", null ]
 ];

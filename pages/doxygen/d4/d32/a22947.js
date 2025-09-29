@@ -1,7 +1,6 @@
 var a22947 =
 [
-    [ "HandleEffectApply", "d4/d32/a22947.html#aff0dbed165d0e751db725f7eaaf76a11", null ],
-    [ "Load", "d4/d32/a22947.html#a1dfb5b2004041e7165cc9f5deb4b1e82", null ],
-    [ "PrepareAuraScript", "d4/d32/a22947.html#a3dbd01e52ed2a630f0c014f941fc1b5e", null ],
-    [ "Register", "d4/d32/a22947.html#a647f21e79e3fef72cf84439fc84e708f", null ]
+    [ "HandleScriptEffect", "d4/d32/a22947.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
+    [ "PrepareSpellScript", "d4/d32/a22947.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
+    [ "Register", "d4/d32/a22947.html#aad6959f74932db219e991efd3b3af44a", null ]
 ];

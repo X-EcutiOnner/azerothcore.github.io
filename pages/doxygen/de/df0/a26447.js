@@ -1,8 +1,10 @@
 var a26447 =
 [
-    [ "HandleScript", "de/df0/a26447.html#a1e096b2b2f5a285e660f64fb133f4f8b", null ],
-    [ "Load", "de/df0/a26447.html#ad4e3fecb64bbb0f5c63b90d445c0b9f3", null ],
-    [ "PrepareSpellScript", "de/df0/a26447.html#a5c4b2a46dfd6bdc2d14ee02f673628c1", null ],
-    [ "Register", "de/df0/a26447.html#aa823af94e3366ae799ebaf03e52411dd", null ],
-    [ "Validate", "de/df0/a26447.html#ad6985954002f88436a2681e758f41fb2", null ]
+    [ "CheckProc", "de/df0/a26447.html#adce0da60782bcdadbb42ec1c73fddec1", null ],
+    [ "HandleProc", "de/df0/a26447.html#a82218c6f6319c60c26a7d4ec01b64bf9", null ],
+    [ "Load", "de/df0/a26447.html#ab9054a6d771022e4bf2b495c30ad8361", null ],
+    [ "PrepareAuraScript", "de/df0/a26447.html#ab8f483be4d01aa2460c90b043d7a441b", null ],
+    [ "Register", "de/df0/a26447.html#a4cb08499767ab58f0e525c382b662fbd", null ],
+    [ "Validate", "de/df0/a26447.html#aa6165f28706d49940dd1f62065631119", null ],
+    [ "_procTarget", "de/df0/a26447.html#a7b9426e18b454bf631992518c2bdbde0", null ]
 ];

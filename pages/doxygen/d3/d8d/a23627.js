@@ -1,6 +1,8 @@
 var a23627 =
 [
-    [ "npc_millhouse_manastormAI", "d4/d56/a23631.html", "d4/d56/a23631" ],
-    [ "npc_millhouse_manastorm", "d3/d8d/a23627.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
-    [ "GetAI", "d3/d8d/a23627.html#ac4516785f7daf544718fc201197ba977", null ]
+    [ "boss_hungarfen", "d3/d8d/a23627.html#a009b8d34731d2310a53195024b434935", null ],
+    [ "JustEngagedWith", "d3/d8d/a23627.html#a3612bb373ecdba4245587fd94257ba62", null ],
+    [ "Reset", "d3/d8d/a23627.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
+    [ "UpdateAI", "d3/d8d/a23627.html#a1765bd54c04a3479e837b3d0e241300e", null ],
+    [ "_scheduler", "d3/d8d/a23627.html#a702185681abb6cfc4add7078ff5bbb52", null ]
 ];

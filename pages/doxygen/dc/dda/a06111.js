@@ -1,10 +1,9 @@
 var a06111 =
 [
-    [ "DefaultTargetSelector", "dc/dda/a06111.html#a4ec61d03309c7d8a977afb2060b549a3", null ],
-    [ "operator()", "dc/dda/a06111.html#aa028e0b06c45bc1eaaa8ca0bb2208a35", null ],
-    [ "except", "dc/dda/a06111.html#ad7b04bc5bd7c5cd139d0d56fbb6f9f4e", null ],
-    [ "m_aura", "dc/dda/a06111.html#a93cae8f794de101a6a0a821961c312b8", null ],
-    [ "m_dist", "dc/dda/a06111.html#a57b3cdce9605ab6ff6bdfdf7bf264a5f", null ],
-    [ "m_playerOnly", "dc/dda/a06111.html#aa7d50214f6fcb051279373e3373a6f68", null ],
-    [ "me", "dc/dda/a06111.html#a4e468ce5a085ef402659db46f71d6262", null ]
+    [ "CasterAI", "dc/dda/a06111.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e", null ],
+    [ "AttackStart", "dc/dda/a06111.html#a28386fd1a275c002445e5eaf90314a3d", null ],
+    [ "InitializeAI", "dc/dda/a06111.html#a2a24cdc24b665c52363dae587572fc4d", null ],
+    [ "JustEngagedWith", "dc/dda/a06111.html#ad436decd8b3da4323cf3fdb4a9e5a849", null ],
+    [ "UpdateAI", "dc/dda/a06111.html#a0fa50ac9bd99ff0c2c7e78f03a737090", null ],
+    [ "m_attackDist", "dc/dda/a06111.html#a561dbc6713a8ec58ef6b23ae4d04d81b", null ]
 ];

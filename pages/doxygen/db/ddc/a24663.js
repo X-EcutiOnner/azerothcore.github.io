@@ -1,6 +1,13 @@
 var a24663 =
 [
-    [ "CalculateAmount", "db/ddc/a24663.html#a66fd870eff0f2a225630e26047d36225", null ],
-    [ "PrepareAuraScript", "db/ddc/a24663.html#afde8a1734c57e01094077af3d3bdf757", null ],
-    [ "Register", "db/ddc/a24663.html#a8e5b9dd71dfccb224e92784725f2a8a9", null ]
+    [ "npc_pet_mage_mirror_image", "db/ddc/a24663.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
+    [ "EnterEvadeMode", "db/ddc/a24663.html#a858b070fb53112dc78554f0b20cd876a", null ],
+    [ "InitializeAI", "db/ddc/a24663.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
+    [ "MySelectNextTarget", "db/ddc/a24663.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
+    [ "Reset", "db/ddc/a24663.html#a79a8c153ab61c619d928ec5535e67077", null ],
+    [ "UpdateAI", "db/ddc/a24663.html#aa219b3adc38b625c6885089895b941b4", null ],
+    [ "_ebonGargoyleGUID", "db/ddc/a24663.html#a8be57d06114f108e74b850ce66722bf3", null ],
+    [ "checktarget", "db/ddc/a24663.html#a074611355768dc2072da69ed9d72242b", null ],
+    [ "dist", "db/ddc/a24663.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
+    [ "selectionTimer", "db/ddc/a24663.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
 ];

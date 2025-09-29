@@ -1,5 +1,8 @@
 var a17655 =
 [
-    [ "achievement_im_on_a_boat", "d8/d1f/a17655.html#aa25d330534aab023ec798e86976a6d50", null ],
-    [ "OnCheck", "d8/d1f/a17655.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
+    [ "CheckProc", "d8/d1f/a17655.html#a11620e4d645b3bfd35924700b5dad289", null ],
+    [ "HandleProc", "d8/d1f/a17655.html#aa80a032f2ec80aba36f6fe0208412587", null ],
+    [ "PrepareAuraScript", "d8/d1f/a17655.html#afe04f0cb6539238412253b63dd3c82b9", null ],
+    [ "Register", "d8/d1f/a17655.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
+    [ "Validate", "d8/d1f/a17655.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
 ];

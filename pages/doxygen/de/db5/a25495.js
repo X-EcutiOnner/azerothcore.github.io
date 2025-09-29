@@ -1,6 +1,11 @@
 var a25495 =
 [
-    [ "HandleDummy", "de/db5/a25495.html#a8b9510efa5af25ef698fc6eb49b19b69", null ],
-    [ "PrepareSpellScript", "de/db5/a25495.html#a80b89fbd2506191b897dcf367ff11500", null ],
-    [ "Register", "de/db5/a25495.html#a522730e5ba844728c0b3d6f423cd123a", null ]
+    [ "spell_gen_apply_aura_after_expiration", "de/db5/a25495.html#a391e5089eb034618c5e3edde26685a00", null ],
+    [ "AfterRemove", "de/db5/a25495.html#afea2221ceeebf90cf352084d8aacf7c9", null ],
+    [ "PrepareAuraScript", "de/db5/a25495.html#a494123635eda4c43d92a08c9c8cd5627", null ],
+    [ "Register", "de/db5/a25495.html#a3189ba65a1d9adf252d9f0dfb70abd16", null ],
+    [ "Validate", "de/db5/a25495.html#ad405128104d8a6528e8db96281ad0f0b", null ],
+    [ "_aura", "de/db5/a25495.html#a8a79aef777e1397b031149c54ae9d81d", null ],
+    [ "_effect", "de/db5/a25495.html#aa276a986ba9b67964ddeec56d6455cf9", null ],
+    [ "_spellId", "de/db5/a25495.html#a330f1311911ba9f3ebd704c7f9a09246", null ]
 ];

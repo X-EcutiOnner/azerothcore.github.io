@@ -1,8 +1,7 @@
 var a08479 =
 [
-    [ "IsInSpec", "d1/d05/a08479.html#a77968b5562467f85bda04b6f2f41ca29", null ],
-    [ "inSpellBook", "d1/d05/a08479.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
-    [ "specMask", "d1/d05/a08479.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
-    [ "State", "d1/d05/a08479.html#a062758af7e92f7e2263ca0a0fd329151", null ],
-    [ "talentID", "d1/d05/a08479.html#aca9b191361652002f5178179a939e41b", null ]
+    [ "UsedPos", "d1/d05/a08479.html#aef230e392619ad4abc2da649d11b2394", null ],
+    [ "dist", "d1/d05/a08479.html#ae73cbe8b0cf3ce714f6654df3a8874de", null ],
+    [ "sign", "d1/d05/a08479.html#a2b5f97425309d56482a1f287b6d5be69", null ],
+    [ "size", "d1/d05/a08479.html#a4ad5a2df36ae9c1cd9130c5efd27af58", null ]
 ];

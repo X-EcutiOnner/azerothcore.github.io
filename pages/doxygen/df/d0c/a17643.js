@@ -1,7 +1,6 @@
 var a17643 =
 [
-    [ "DamageGunship", "df/d0c/a17643.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
-    [ "PrepareSpellScript", "df/d0c/a17643.html#aa698d016ae58d665c081976f20ec0385", null ],
-    [ "Register", "df/d0c/a17643.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
-    [ "Validate", "df/d0c/a17643.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
+    [ "npc_saurfang_eventAI", "de/d63/a17647.html", "de/d63/a17647" ],
+    [ "npc_saurfang_event", "df/d0c/a17643.html#a3bfce5457466360458498833098d660c", null ],
+    [ "GetAI", "df/d0c/a17643.html#a953842d2fa3380a8331faf3a42cb3177", null ]
 ];

@@ -1,6 +1,8 @@
 var a22847 =
 [
-    [ "boss_essence_of_desireAI", "d1/df4/a22851.html", "d1/df4/a22851" ],
-    [ "boss_essence_of_desire", "d0/d11/a22847.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "d0/d11/a22847.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "npc_yor", "d0/d11/a22847.html#a43ed8720d06c035085d481dbe6539dca", null ],
+    [ "JustEngagedWith", "d0/d11/a22847.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
+    [ "Reset", "d0/d11/a22847.html#aa698540b646fd870b33afbaf19ddbe07", null ],
+    [ "UpdateAI", "d0/d11/a22847.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
+    [ "_scheduler", "d0/d11/a22847.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
 ];

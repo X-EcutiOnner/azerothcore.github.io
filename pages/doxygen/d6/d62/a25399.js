@@ -1,8 +1,8 @@
 var a25399 =
 [
-    [ "HandleFinish", "d6/d62/a25399.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
-    [ "PrepareSpellScript", "d6/d62/a25399.html#a73865997890d4f58cc09d54c2c4e5243", null ],
-    [ "Register", "d6/d62/a25399.html#a106cf5d53956b66f8f548caceda41dc8", null ],
-    [ "SelectTarget", "d6/d62/a25399.html#ab33513df20e942ba354932df5082efa8", null ],
-    [ "_target", "d6/d62/a25399.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
+    [ "CheckCast", "d6/d62/a25399.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
+    [ "HandleScript", "d6/d62/a25399.html#a2c1702398e4cbdcc106679d534a27743", null ],
+    [ "PrepareSpellScript", "d6/d62/a25399.html#a613bdf7841744632c1e6de147e0352b9", null ],
+    [ "Register", "d6/d62/a25399.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
+    [ "Validate", "d6/d62/a25399.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
 ];

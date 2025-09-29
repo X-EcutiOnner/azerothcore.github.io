@@ -1,5 +1,5 @@
 var a22351 =
 [
-    [ "achievement_wg_vehicular_gnomeslaughter", "dd/dfd/a22351.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
-    [ "OnCheck", "dd/dfd/a22351.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
+    [ "npc_guardian_pavilionAI", "dd/dfd/a22351.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "dd/dfd/a22351.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

@@ -1,6 +1,6 @@
 var a19343 =
 [
-    [ "instance_oculus_InstanceMapScript", "d7/d8c/a19347.html", "d7/d8c/a19347" ],
-    [ "instance_oculus", "d0/dcf/a19343.html#a404205ea7106531ea57307c40b9589bb", null ],
-    [ "GetInstanceScript", "d0/dcf/a19343.html#ae6d28dfd615e79d4308e4384b7c8857f", null ]
+    [ "boss_razuvious_minionAI", "d7/d8c/a19347.html", "d7/d8c/a19347" ],
+    [ "boss_razuvious_minion", "d0/dcf/a19343.html#ae23d51c9ebfe31f624a749578d27252c", null ],
+    [ "GetAI", "d0/dcf/a19343.html#afab8dccbc0b098a1fa058ef8479ba865", null ]
 ];

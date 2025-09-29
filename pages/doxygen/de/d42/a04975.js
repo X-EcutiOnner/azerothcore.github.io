@@ -1,10 +1,8 @@
 var a04975 =
 [
-    [ "MmapTileHeader", "de/d42/a04975.html#a0165f9a4caee4e4759ea261dfbac08a7", null ],
-    [ "dtVersion", "de/d42/a04975.html#a34d3ed8c617139653176454d7fa7934e", null ],
-    [ "mmapMagic", "de/d42/a04975.html#ace0ec88460c97f1438de2d0e6a9d7774", null ],
-    [ "mmapVersion", "de/d42/a04975.html#a5cc3cd873419fe8aeb479d3187584410", null ],
-    [ "padding", "de/d42/a04975.html#a6ca977b85a993eb6721e3bfe9fd3abfd", null ],
-    [ "size", "de/d42/a04975.html#a69f3284a4a56b1108792ba56c250bf97", null ],
-    [ "usesLiquids", "de/d42/a04975.html#aeb4e622161a4bb42cff42d37542f0254", null ]
+    [ "IMMapMgr", "de/d42/a04975.html#a2292f2bdacfc627ab33f02d399221ad5", null ],
+    [ "~IMMapMgr", "de/d42/a04975.html#a8298d6b3fbce5ccd835af3c287c361b6", null ],
+    [ "isEnablePathFinding", "de/d42/a04975.html#a5d6bcb413c39e82da8e4924c4754c8b0", null ],
+    [ "setEnablePathFinding", "de/d42/a04975.html#afdc7e829a374c20b4d072290363c7c62", null ],
+    [ "iEnablePathFinding", "de/d42/a04975.html#a25f8900f4546990562fb048e956bb1e0", null ]
 ];

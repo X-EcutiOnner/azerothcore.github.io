@@ -1,6 +1,6 @@
 var a21579 =
 [
-    [ "npc_leryssaAI", "d3/da3/a21583.html", "d3/da3/a21583" ],
-    [ "npc_leryssa", "db/d7a/a21579.html#a549bed4476f88c313e6b42c0fe1fffb8", null ],
-    [ "GetAI", "db/d7a/a21579.html#a4725831580b206d91dbd8c21a703893f", null ]
+    [ "boss_zuramatAI", "d3/da3/a21583.html", "d3/da3/a21583" ],
+    [ "boss_zuramat", "db/d7a/a21579.html#a1d169e786dcf846026b48d9be389f9ab", null ],
+    [ "GetAI", "db/d7a/a21579.html#a1008c053a2c9ad14cf9ce994db931670", null ]
 ];

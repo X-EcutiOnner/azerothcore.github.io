@@ -1,6 +1,8 @@
 var a27611 =
 [
-    [ "npc_venomhide_hatchlingAI", "d5/dc0/a27611.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "d5/dc0/a27611.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "d5/dc0/a27611.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "go_bellsAI", "d5/dc0/a27611.html#a6f22847c66a3b5faded35da799359846", null ],
+    [ "UpdateAI", "d5/dc0/a27611.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
+    [ "_events", "d5/dc0/a27611.html#a46c66442078cee28a76fc412746ca026", null ],
+    [ "_soundId", "d5/dc0/a27611.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
+    [ "once", "d5/dc0/a27611.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
 ];

@@ -1,9 +1,9 @@
 var a09891 =
 [
-    [ "ChaseAngle", "df/d3f/a09891.html#a0744c615f437514a52b5a26fb717013a", null ],
-    [ "IsAngleOkay", "df/d3f/a09891.html#aec86c653850655b723e5224ea20b0e21", null ],
-    [ "LowerBound", "df/d3f/a09891.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
-    [ "UpperBound", "df/d3f/a09891.html#a275d01ce57b23d42d4150b10c8433dee", null ],
-    [ "RelativeAngle", "df/d3f/a09891.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
-    [ "Tolerance", "df/d3f/a09891.html#a2bb42885da594380cb742c29b6518ea3", null ]
+    [ "MapUpdateRequest", "df/d3f/a09891.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
+    [ "call", "df/d3f/a09891.html#a2cb96db357347d47596725e5c345b02f", null ],
+    [ "m_diff", "df/d3f/a09891.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
+    [ "m_map", "df/d3f/a09891.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
+    [ "m_updater", "df/d3f/a09891.html#aeb063738175aa8ddc751290f922ffef2", null ],
+    [ "s_diff", "df/d3f/a09891.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
 ];

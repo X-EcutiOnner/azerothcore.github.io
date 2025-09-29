@@ -1,6 +1,8 @@
 var a12175 =
 [
-    [ "go_chromaggus_leverAI", "d4/d0e/a12175.html#a51406a7e313702282cebfbf067c9ce4e", null ],
-    [ "GossipHello", "d4/d0e/a12175.html#a44ece597fcfcf290234cc1ef073fbf18", null ],
-    [ "_instance", "d4/d0e/a12175.html#a364f66c7cf0a7bc4a3ea97b87ebe9f90", null ]
+    [ "boss_drakkisathAI", "d4/d0e/a12175.html#a7c347bcdb092afcd64b481b87d0895ea", null ],
+    [ "JustEngagedWith", "d4/d0e/a12175.html#a09f7c704579bdb8dad951ce63b5a54c9", null ],
+    [ "UpdateAI", "d4/d0e/a12175.html#a02ffab01744c0dbb8b5a60794e82bdb0", null ],
+    [ "_conflagrateTarget", "d4/d0e/a12175.html#a6a74b74e4e4b45aec86f70a5211ddd28", null ],
+    [ "_conflagrateThreat", "d4/d0e/a12175.html#aae3762b27c3d99b32f47293c544e4afe", null ]
 ];

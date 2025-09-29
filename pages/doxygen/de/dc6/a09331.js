@@ -1,9 +1,10 @@
 var a09331 =
 [
-    [ "AnyFriendlyNotSelfUnitInObjectRangeCheck", "de/dc6/a09331.html#a213e07e67eefd1454be655e154380202", null ],
-    [ "operator()", "de/dc6/a09331.html#a8b3547500300e3b9d8de88c0b12b268e", null ],
-    [ "i_funit", "de/dc6/a09331.html#a43b531ac740cb263d347ece24ff675fc", null ],
-    [ "i_obj", "de/dc6/a09331.html#a5fe4b376f00d33554a9a263abc743e68", null ],
-    [ "i_playerOnly", "de/dc6/a09331.html#a16cd07545542916e0f49250c77fad304", null ],
-    [ "i_range", "de/dc6/a09331.html#ac087254cf99c5f845918998f369c176a", null ]
+    [ "AnyDeadUnitObjectInRangeCheck", "de/dc6/a09331.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
+    [ "operator()", "de/dc6/a09331.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
+    [ "operator()", "de/dc6/a09331.html#ae885f49537043421a92b44c201bec358", null ],
+    [ "operator()", "de/dc6/a09331.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
+    [ "operator()", "de/dc6/a09331.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
+    [ "i_range", "de/dc6/a09331.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
+    [ "i_searchObj", "de/dc6/a09331.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
 ];

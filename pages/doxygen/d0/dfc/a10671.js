@@ -1,12 +1,5 @@
 var a10671 =
 [
-    [ "Charges", "d0/dfc/a10671.html#ada45d7e00efb3bf27afcf9db1ad4d813", null ],
-    [ "Count", "d0/dfc/a10671.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9", null ],
-    [ "EnchantmentID", "d0/dfc/a10671.html#a249a204f5d72d42f562c989b1cb92fc9", null ],
-    [ "Flags", "d0/dfc/a10671.html#a3ca816132a756d3dc939877c57f6045d", null ],
-    [ "ItemID", "d0/dfc/a10671.html#a5dc7e8b40834dba07c63322d80ed73ae", null ],
-    [ "RandomPropertiesID", "d0/dfc/a10671.html#ad98a20548478fe99f9d6d345c5a3b732", null ],
-    [ "RandomPropertiesSeed", "d0/dfc/a10671.html#ae5d493dd4798e11f02d8f02a57ba4274", null ],
-    [ "Slot", "d0/dfc/a10671.html#afcc0a78c2f9a3061830679fece476a64", null ],
-    [ "SocketEnchant", "d0/dfc/a10671.html#a55545d4d1b752e4f08bd05350b22892c", null ]
+    [ "Flags", "d0/dfc/a10671.html#af1d25fa760cdbfa907a1b6e0002f0e70", null ],
+    [ "WithdrawItemLimit", "d0/dfc/a10671.html#aa7bb5355ee174f3b9dd32c659e0f7806", null ]
 ];

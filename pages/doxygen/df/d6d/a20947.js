@@ -1,6 +1,6 @@
 var a20947 =
 [
-    [ "achievement_yogg_saron_he_waits_dreaming", "df/d6d/a20947.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
-    [ "OnCheck", "df/d6d/a20947.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
-    [ "_requiredIllusion", "df/d6d/a20947.html#aa3e107cb3be6fa02687709e07466a094", null ]
+    [ "npc_xt002_boombotAI", "d8/dcb/a20951.html", "d8/dcb/a20951" ],
+    [ "npc_xt002_boombot", "df/d6d/a20947.html#a6e2f7dd0d26d140a5b73b0f66ea434af", null ],
+    [ "GetAI", "df/d6d/a20947.html#a27237e7a60042ed7163b19d80537c1b3", null ]
 ];

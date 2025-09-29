@@ -1,6 +1,6 @@
 var a24867 =
 [
-    [ "CheckLevel", "d0/d7e/a24867.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
-    [ "PrepareSpellScript", "d0/d7e/a24867.html#abc2bcce83810661ab462f56594066df3", null ],
-    [ "Register", "d0/d7e/a24867.html#add6731563bd9a26d8f286bd29ffc8709", null ]
+    [ "CalculateAmount", "d0/d7e/a24867.html#ada4514ba7769ebceeed1e0ab1c3a33e8", null ],
+    [ "PrepareAuraScript", "d0/d7e/a24867.html#a1faa084b17776e826242293e2aaef2f4", null ],
+    [ "Register", "d0/d7e/a24867.html#a94b21c91954385201d4bad6aff2205fc", null ]
 ];

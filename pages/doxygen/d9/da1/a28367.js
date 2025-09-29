@@ -1,10 +1,10 @@
 var a28367 =
 [
-    [ "area_id", "d9/da1/a28367.html#acbd77950bf9548d266e568640cf38458", null ],
-    [ "map_id", "d9/da1/a28367.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
-    [ "virtual_map_id", "d9/da1/a28367.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
-    [ "x1", "d9/da1/a28367.html#a78967fef40841f705c2564a177cb36f3", null ],
-    [ "x2", "d9/da1/a28367.html#a037dca812715df0b4f2551f8684b537c", null ],
-    [ "y1", "d9/da1/a28367.html#a7f90073656e1cd00a88add9f8d881d11", null ],
-    [ "y2", "d9/da1/a28367.html#ad8e0164952e5565488d5443f269ec79e", null ]
+    [ "HasFlag", "d9/da1/a28367.html#abe23ca5437589a38ea57bc93a6197911", null ],
+    [ "CollisionHeight", "d9/da1/a28367.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
+    [ "CollisionWidth", "d9/da1/a28367.html#ab79497759cf169348b8922301fc43b2f", null ],
+    [ "Flags", "d9/da1/a28367.html#a3bb96e232124771e78f8b5db53405106", null ],
+    [ "Id", "d9/da1/a28367.html#aa19fec147703c7542be260c8ec5a0446", null ],
+    [ "MountHeight", "d9/da1/a28367.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
+    [ "Scale", "d9/da1/a28367.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
 ];

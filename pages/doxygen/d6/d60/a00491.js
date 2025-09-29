@@ -1,9 +1,7 @@
 var a00491 =
 [
-    [ "getAngle", "d6/d60/a00491.html#a5ce837ff4fb41332a25e6b0dc0f5b848", null ],
-    [ "getCircleAreaByRadius", "d6/d60/a00491.html#a18ed540c327b1fd656065d8cbfc4844f", null ],
-    [ "getCirclePerimeterByRadius", "d6/d60/a00491.html#a62641094ea3c1b9506faefa7a35ba456", null ],
-    [ "getCylinderVolume", "d6/d60/a00491.html#a95ce6760beb476a4c24ff46d3069103f", null ],
-    [ "getSlopeAngle", "d6/d60/a00491.html#a61d2d33d44f335480a833a04436620ba", null ],
-    [ "getSlopeAngleAbs", "d6/d60/a00491.html#a0b02845f56a27df498d0598d259ca5e1", null ]
+    [ "GetChaseRange", "d6/d60/a00491.html#a24fd9652d12d1ba9d62b8d6273664c55", null ],
+    [ "GetVelocity", "d6/d60/a00491.html#a955c196fa9c96bf11e2d887d6cbac50c", null ],
+    [ "IsMutualChase", "d6/d60/a00491.html#a53d496abdea10dead20c7e6a9cb09cd6", null ],
+    [ "PredictPosition", "d6/d60/a00491.html#ada5b031ff95410ba84fd734c95c68099", null ]
 ];

@@ -1,6 +1,7 @@
 var a10783 =
 [
-    [ "InvalidStringValueException", "d0/d0c/a10783.html#a4b5442d97f2bc8005cb20eefa6c13dc8", null ],
-    [ "GetInvalidValue", "d0/d0c/a10783.html#a5ef59243610de6d0a9db22ddb9cd7bdd", null ],
-    [ "_value", "d0/d0c/a10783.html#a8a8c86a63c34789ab7cce999455eb4bb", null ]
+    [ "GuildBankTextQueryResult", "d0/d0c/a10783.html#aa1e25895e246c3a688d7850e517858d3", null ],
+    [ "Write", "d0/d0c/a10783.html#acb6b28dcf56b821e3c0d5b58f6baa2dd", null ],
+    [ "Tab", "d0/d0c/a10783.html#abfc5522a0f94086474493db85ed1ef73", null ],
+    [ "Text", "d0/d0c/a10783.html#ae78c1d1b802e12efd058987117158ec3", null ]
 ];

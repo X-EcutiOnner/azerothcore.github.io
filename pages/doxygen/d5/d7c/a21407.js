@@ -1,6 +1,13 @@
 var a21407 =
 [
-    [ "npc_azure_captainAI", "d8/df5/a21411.html", "d8/df5/a21411" ],
-    [ "npc_azure_captain", "d5/d7c/a21407.html#aeced2dbbfb23c161fd2bbc22859886a4", null ],
-    [ "GetAI", "d5/d7c/a21407.html#a0d1bd80fc38c61e05d3f31ffe587350f", null ]
+    [ "MoveX", "d5/d7c/a21407.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
+    [ "MoveY", "d5/d7c/a21407.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
+    [ "MoveZ", "d5/d7c/a21407.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
+    [ "npc", "d5/d7c/a21407.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
+    [ "say", "d5/d7c/a21407.html#adcd8647fc0ee9799e24173780209f2d9", null ],
+    [ "SpawnO", "d5/d7c/a21407.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
+    [ "SpawnX", "d5/d7c/a21407.html#af3ae27adaecafe9a09802bc202973d68", null ],
+    [ "SpawnY", "d5/d7c/a21407.html#a749e9c6edcc87f258f250344d652145c", null ],
+    [ "SpawnZ", "d5/d7c/a21407.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
+    [ "trigger", "d5/d7c/a21407.html#ad2291d89a874c79859b3140754594ed7", null ]
 ];

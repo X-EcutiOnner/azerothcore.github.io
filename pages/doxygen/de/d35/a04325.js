@@ -1,8 +1,6 @@
 var a04325 =
 [
-    [ "TaskScheduler", "d5/d8d/a05556.html", "d5/d8d/a05556" ],
-    [ "TaskScheduler::Task", "d9/d3f/a05560.html", "d9/d3f/a05560" ],
-    [ "TaskScheduler::Compare", "d7/d1c/a05564.html", "d7/d1c/a05564" ],
-    [ "TaskScheduler::TaskQueue", "db/d7d/a05568.html", "db/d7d/a05568" ],
-    [ "TaskContext", "d3/d7c/a05572.html", "d3/d7c/a05572" ]
+    [ "SetupLibrariesForWindows", "de/d35/a04325.html#ab801d0877d7ea0652bb6f94fb17842e4", null ],
+    [ "DefaultProvider", "de/d35/a04325.html#ab217c6bb86b0f962ea820f3ffe079708", null ],
+    [ "LegacyProvider", "de/d35/a04325.html#a81b4206923925a193dca5c3acd946bc2", null ]
 ];

@@ -1,10 +1,10 @@
 var a16851 =
 [
-    [ "npc_hor_spiritual_reflectionAI", "d8/dc2/a16851.html#aac0a916bfa325284b354e7241fe857ab", null ],
-    [ "EnterEvadeMode", "d8/dc2/a16851.html#a49f1c93206bfff53090c138a3dbf79e5", null ],
-    [ "JustDied", "d8/dc2/a16851.html#a72073c44f881d4a78552de4119a716d7", null ],
-    [ "JustEngagedWith", "d8/dc2/a16851.html#ac35e648b93bb39ca831390bf88f6a3e7", null ],
-    [ "Reset", "d8/dc2/a16851.html#ad1f523fad45c34077e6d6ce7b9a4aefd", null ],
-    [ "UpdateAI", "d8/dc2/a16851.html#af9613e9309b85317bc6e3a84013dcf89", null ],
-    [ "events", "d8/dc2/a16851.html#a89a466917aa5634c4c86ecbce21280b7", null ]
+    [ "boss_dredAI", "d8/dc2/a16851.html#a4ad04fe31990a37fd6d3a23329350248", null ],
+    [ "GetData", "d8/dc2/a16851.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
+    [ "JustEngagedWith", "d8/dc2/a16851.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
+    [ "Reset", "d8/dc2/a16851.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
+    [ "SetData", "d8/dc2/a16851.html#a884f48aabc26b054dcd303a91cb88301", null ],
+    [ "UpdateAI", "d8/dc2/a16851.html#afc12ced9b5026fe3b297560c30e129ed", null ],
+    [ "_raptorCount", "d8/dc2/a16851.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
 ];

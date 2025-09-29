@@ -1,5 +1,6 @@
 var a22355 =
 [
-    [ "achievement_wg_within_our_grasp", "d8/d1d/a22355.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "d8/d1d/a22355.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "npc_tournament_training_dummyAI", "da/d6b/a22359.html", "da/d6b/a22359" ],
+    [ "npc_tournament_training_dummy", "d8/d1d/a22355.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
+    [ "GetAI", "d8/d1d/a22355.html#a31257c155c3a49c69771156800cf6340", null ]
 ];

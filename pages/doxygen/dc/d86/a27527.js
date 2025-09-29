@@ -1,11 +1,9 @@
 var a27527 =
 [
-    [ "npc_injured_patientAI", "dc/d86/a27527.html#a0973487623f1771c598648bc06a6d9a3", null ],
-    [ "JustEngagedWith", "dc/d86/a27527.html#a621a8cc3f6b9655760431d52766ca589", null ],
-    [ "Reset", "dc/d86/a27527.html#a007c9c7a4047374574cad17e9309d7c1", null ],
-    [ "SpellHit", "dc/d86/a27527.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
-    [ "UpdateAI", "dc/d86/a27527.html#a54d0a5574175747779878dce0ebfd44f", null ],
-    [ "_scheduler", "dc/d86/a27527.html#a60428fa97c8f6520338d53ed368c4c35", null ],
-    [ "Coord", "dc/d86/a27527.html#af5a6f87c0379edd07a8756018b0c8661", null ],
-    [ "DoctorGUID", "dc/d86/a27527.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
+    [ "go_gilded_brazierAI", "dc/d86/a27527.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
+    [ "GossipHello", "dc/d86/a27527.html#afac9e217c294e72ff5f2526422e6321e", null ],
+    [ "Initialize", "dc/d86/a27527.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
+    [ "UpdateAI", "dc/d86/a27527.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
+    [ "_events", "dc/d86/a27527.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
+    [ "_playerGUID", "dc/d86/a27527.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
 ];

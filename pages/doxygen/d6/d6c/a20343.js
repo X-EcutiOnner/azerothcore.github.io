@@ -1,5 +1,8 @@
 var a20343 =
 [
-    [ "achievement_kologarn_with_open_arms", "d6/d6c/a20343.html#a94af961be5bbdf7783925148731ce7e4", null ],
-    [ "OnCheck", "d6/d6c/a20343.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
+    [ "OnApply", "d6/d6c/a20343.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
+    [ "OnRemove", "d6/d6c/a20343.html#a4709f570f9014eb36bc8c65269470373", null ],
+    [ "PrepareAuraScript", "d6/d6c/a20343.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
+    [ "Register", "d6/d6c/a20343.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
+    [ "Validate", "d6/d6c/a20343.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
 ];

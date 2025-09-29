@@ -1,13 +1,9 @@
 var a08851 =
 [
-    [ "MessageDistDelivererToHostile", "d5/d1d/a08851.html#a4e1642660288eeb46867d4e19944cc78", null ],
-    [ "SendPacket", "d5/d1d/a08851.html#aced79e7b19918408fa4d81667fbeb7f0", null ],
-    [ "Visit", "d5/d1d/a08851.html#af9c5269b0266e9e28a70118e62d25e58", null ],
-    [ "Visit", "d5/d1d/a08851.html#a224eeb339614d7a9f5e43d498b245958", null ],
-    [ "Visit", "d5/d1d/a08851.html#a304c0be3c55bd2817abeaa1d53563a27", null ],
-    [ "Visit", "d5/d1d/a08851.html#ae2a44055a4363eeff81a799b8a93d74d", null ],
-    [ "i_distSq", "d5/d1d/a08851.html#a0fc7e00f191801869c3fd8eeae032af8", null ],
-    [ "i_message", "d5/d1d/a08851.html#ae10ac98c489ec48ed49daf835e7a361d", null ],
-    [ "i_phaseMask", "d5/d1d/a08851.html#a0a932cd193e847ee0cfddae0946e39d1", null ],
-    [ "i_source", "d5/d1d/a08851.html#a174aade6dc85233e8481a452f800ec0e", null ]
+    [ "GameEventAIHookWorker", "d5/d1d/a08851.html#ad72640a18d2d32a9201c965089ee49cf", null ],
+    [ "Visit", "d5/d1d/a08851.html#a23d979ee43838e7d58e9123e36474a5a", null ],
+    [ "Visit", "d5/d1d/a08851.html#a79106ec550d072d690bbf3496d76cb0a", null ],
+    [ "Visit", "d5/d1d/a08851.html#a165476edd8b252bbb90b8b78fae963a6", null ],
+    [ "_activate", "d5/d1d/a08851.html#a756665eafa08f3c8c51ccef69bdd619f", null ],
+    [ "_eventId", "d5/d1d/a08851.html#ab1ee68bb7134e84780772eba2cfac766", null ]
 ];

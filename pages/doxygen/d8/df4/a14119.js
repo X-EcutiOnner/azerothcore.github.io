@@ -1,6 +1,6 @@
 var a14119 =
 [
-    [ "HandleEffectRemove", "d8/df4/a14119.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
-    [ "PrepareAuraScript", "d8/df4/a14119.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
-    [ "Register", "d8/df4/a14119.html#aa436788f638fedacb217ca508da5f426", null ]
+    [ "boss_arlokkAI", "de/d9c/a14123.html", "de/d9c/a14123" ],
+    [ "boss_arlokk", "d8/df4/a14119.html#a55bb21239e05acff18d2fb147449800e", null ],
+    [ "GetAI", "d8/df4/a14119.html#a58b8cc7a198784b48faaab1b069d397c", null ]
 ];

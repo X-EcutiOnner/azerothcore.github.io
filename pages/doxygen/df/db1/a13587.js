@@ -1,6 +1,6 @@
 var a13587 =
 [
-    [ "npc_lord_gregor_lescovarAI", "de/d7a/a13591.html", "de/d7a/a13591" ],
-    [ "npc_lord_gregor_lescovar", "df/db1/a13587.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
-    [ "GetAI", "df/db1/a13587.html#a4cf39729bb687c7db3538575a799283e", null ]
+    [ "PrepareSpellScript", "df/db1/a13587.html#a6a9436d744865971e635f23c2b331688", null ],
+    [ "Register", "df/db1/a13587.html#a5f8a755040c9972e1bd6f68ceacf3dff", null ],
+    [ "SetDest", "df/db1/a13587.html#a2d43c0d5230f7be2d9a33e8527fd8c02", null ]
 ];

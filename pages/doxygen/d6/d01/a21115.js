@@ -1,5 +1,6 @@
 var a21115 =
 [
-    [ "go_harpoon_canon", "d6/d01/a21115.html#aa7651e111cade00bbbdb9d0feced03e6", null ],
-    [ "OnGossipHello", "d6/d01/a21115.html#ad0098bafd1233636bde181312126e65f", null ]
+    [ "boss_yoggsaron_neltharionAI", "de/d3c/a21119.html", "de/d3c/a21119" ],
+    [ "boss_yoggsaron_neltharion", "d6/d01/a21115.html#a9910e0d6043e7738cba0fe9ae7e92898", null ],
+    [ "GetAI", "d6/d01/a21115.html#abce5f59c35f7af3e1d5b30cc55ff48e6", null ]
 ];

@@ -1,6 +1,11 @@
 var a18455 =
 [
-    [ "npc_blistering_zombieAI", "d4/d1d/a18459.html", "d4/d1d/a18459" ],
-    [ "npc_blistering_zombie", "d1/d71/a18455.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
-    [ "GetAI", "d1/d71/a18455.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
+    [ "AddMissingStack", "d1/d71/a18455.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
+    [ "CheckAura", "d1/d71/a18455.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
+    [ "FilterTargets", "d1/d71/a18455.html#ab6c86c3680823329d5f3aad985aa316a", null ],
+    [ "Load", "d1/d71/a18455.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
+    [ "PrepareSpellScript", "d1/d71/a18455.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
+    [ "Register", "d1/d71/a18455.html#af0e6f1fc6687de1abcc1689116150088", null ],
+    [ "_hadInitialAura", "d1/d71/a18455.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
+    [ "_hadJumpingAura", "d1/d71/a18455.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
 ];

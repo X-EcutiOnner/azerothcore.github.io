@@ -1,5 +1,9 @@
 var a27347 =
 [
-    [ "item_incendiary_explosives", "d4/d3e/a27347.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "d4/d3e/a27347.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "emerald_dragonAI", "d4/d3e/a27347.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
+    [ "ExecuteEvent", "d4/d3e/a27347.html#a6e60f146c7b86a119f269bf755831ac6", null ],
+    [ "JustSummoned", "d4/d3e/a27347.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
+    [ "KilledUnit", "d4/d3e/a27347.html#a69b24bf865ecd38822d5602314cddf11", null ],
+    [ "Reset", "d4/d3e/a27347.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
+    [ "UpdateAI", "d4/d3e/a27347.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
 ];

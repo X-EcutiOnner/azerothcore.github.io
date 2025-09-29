@@ -1,5 +1,7 @@
 var a24131 =
 [
-    [ "npc_karynaku", "d0/de2/a24131.html#aa6a3cb409cdbc990f1eee4137c7519d2", null ],
-    [ "OnQuestAccept", "d0/de2/a24131.html#a4cae1950fe3b7b4ae6f2e6691800ec47", null ]
+    [ "boss_gatewatcher_iron_hand", "d0/de2/a24131.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "d0/de2/a24131.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "d0/de2/a24131.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "d0/de2/a24131.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

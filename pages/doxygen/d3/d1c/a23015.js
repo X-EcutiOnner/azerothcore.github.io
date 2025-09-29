@@ -1,6 +1,8 @@
 var a23015 =
 [
-    [ "HandleProc", "d3/d1c/a23015.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
-    [ "PrepareAuraScript", "d3/d1c/a23015.html#a94b244ef26355d53c874aec6d26f3a53", null ],
-    [ "Register", "d3/d1c/a23015.html#a9499d88802213ceb877e19d1651324f2", null ]
+    [ "Load", "d3/d1c/a23015.html#a038301fbb547469574efff88455be663", null ],
+    [ "OnPeriodic", "d3/d1c/a23015.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
+    [ "PrepareAuraScript", "d3/d1c/a23015.html#a386df1300e6a99b02efd13ef4968e99a", null ],
+    [ "Register", "d3/d1c/a23015.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
+    [ "Validate", "d3/d1c/a23015.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
 ];

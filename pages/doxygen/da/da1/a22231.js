@@ -1,6 +1,12 @@
 var a22231 =
 [
-    [ "npc_brunnhildar_prisonerAI", "d8/d37/a22235.html", "d8/d37/a22235" ],
-    [ "npc_brunnhildar_prisoner", "da/da1/a22231.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
-    [ "GetAI", "da/da1/a22231.html#aa2a1787849c74a5163a39137c9d03d57", null ]
+    [ "npc_your_inner_turmoilAI", "da/da1/a22231.html#a95e8039b174f6db267197e04b6bd2dd2", null ],
+    [ "DamageTaken", "da/da1/a22231.html#a0e14a306db46e817e6d8f7a358519f83", null ],
+    [ "JustDied", "da/da1/a22231.html#a142359bf1661542d044a7d27b764832b", null ],
+    [ "Reset", "da/da1/a22231.html#a4e17e9642ec11712652f41495974b716", null ],
+    [ "setphase", "da/da1/a22231.html#a17c00619bcf5818e49f67d4d8b8b35b0", null ],
+    [ "UpdateAI", "da/da1/a22231.html#a2a4b20fccb4b5ef0f590f0a7ee92e4d2", null ],
+    [ "health50", "da/da1/a22231.html#af5a9e355c2a5a927d38ea22fe96d89f0", null ],
+    [ "phase", "da/da1/a22231.html#a60212e1504bcb6f7db05ba5ed09df71f", null ],
+    [ "timer", "da/da1/a22231.html#af2c272de51aa15a41af9837f99256a62", null ]
 ];

@@ -1,8 +1,6 @@
 var a19663 =
 [
-    [ "HandlePeriodic", "df/d95/a19663.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "df/d95/a19663.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "df/d95/a19663.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "df/d95/a19663.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "df/d95/a19663.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "PrepareSpellScript", "df/d95/a19663.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
+    [ "Register", "df/d95/a19663.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
+    [ "SetDest", "df/d95/a19663.html#a24341aae14ed77101d4c31f2fbe11463", null ]
 ];

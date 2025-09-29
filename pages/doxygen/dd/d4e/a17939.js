@@ -1,6 +1,6 @@
 var a17939 =
 [
-    [ "DespawnSelf", "dd/d4e/a17939.html#a7009dd0e842898d03caa89e92447749d", null ],
-    [ "PrepareAuraScript", "dd/d4e/a17939.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
-    [ "Register", "dd/d4e/a17939.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
+    [ "npc_cult_fanaticAI", "d3/d9c/a17943.html", "d3/d9c/a17943" ],
+    [ "npc_cult_fanatic", "dd/d4e/a17939.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
+    [ "GetAI", "dd/d4e/a17939.html#ae4d22bac12d17d79669d3fccd4029952", null ]
 ];

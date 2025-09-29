@@ -1,8 +1,7 @@
 var a26239 =
 [
-    [ "HandleDummy", "da/d19/a26239.html#ae396c96647e36da357bdc70e11e3145f", null ],
-    [ "Load", "da/d19/a26239.html#a2b4811bf7e60361e13bc382e62173cee", null ],
-    [ "PrepareSpellScript", "da/d19/a26239.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
-    [ "Register", "da/d19/a26239.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
-    [ "count", "da/d19/a26239.html#a73358b2272ad12faef006b1ef633cac0", null ]
+    [ "HandleKnockBack", "da/d19/a26239.html#a860fb74000a42a7d6f22d17dde93cdf6", null ],
+    [ "PrepareSpellScript", "da/d19/a26239.html#ab951d6403188f178f79311cead8a0a8f", null ],
+    [ "Register", "da/d19/a26239.html#ac62f4fdf003cdd53650fe632b3ed3ef1", null ],
+    [ "Validate", "da/d19/a26239.html#add1bd8f583772d4dfeb20f01b9fac8ed", null ]
 ];

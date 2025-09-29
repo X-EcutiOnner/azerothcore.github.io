@@ -1,9 +1,12 @@
 var a22819 =
 [
-    [ "FilterTargets", "d5/dd3/a22819.html#aa8f0401dd004e816b8071381289116fa", null ],
-    [ "HandleTeleportUnits", "d5/dd3/a22819.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
-    [ "PrepareSpellScript", "d5/dd3/a22819.html#a47898c213cdd125714c80d327bf42d8c", null ],
-    [ "Register", "d5/dd3/a22819.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
-    [ "SetDest", "d5/dd3/a22819.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
-    [ "Validate", "d5/dd3/a22819.html#a814083360970284a325621f45e109b5b", null ]
+    [ "boss_exarch_maladaar", "d5/dd3/a22819.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
+    [ "JustDied", "d5/dd3/a22819.html#ab1179a19af8948d430559db4074c41ed", null ],
+    [ "JustEngagedWith", "d5/dd3/a22819.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
+    [ "JustSummoned", "d5/dd3/a22819.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
+    [ "KilledUnit", "d5/dd3/a22819.html#adf35cb8b039676500d4040baa08b0d48", null ],
+    [ "MoveInLineOfSight", "d5/dd3/a22819.html#a14baacd30b9186c7492c981313421d5b", null ],
+    [ "Reset", "d5/dd3/a22819.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
+    [ "UpdateAI", "d5/dd3/a22819.html#a7646c4477135d3d3b8580432902babd4", null ],
+    [ "_talked", "d5/dd3/a22819.html#a15c4f122529b9f52823ea407c43433c5", null ]
 ];

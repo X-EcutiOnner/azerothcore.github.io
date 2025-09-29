@@ -1,6 +1,6 @@
 var a26699 =
 [
-    [ "HandleSchoolDMG", "df/d14/a26699.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
-    [ "PrepareSpellScript", "df/d14/a26699.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
-    [ "Register", "df/d14/a26699.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
+    [ "HandleScript", "df/d14/a26699.html#a8866d650b96c4cae3201a2829cbeff3d", null ],
+    [ "PrepareSpellScript", "df/d14/a26699.html#aa16f51aa8a4fea2a84cadbb01d18b635", null ],
+    [ "Register", "df/d14/a26699.html#aeaa094c8d1f3407bf56d58d88c2238a1", null ]
 ];

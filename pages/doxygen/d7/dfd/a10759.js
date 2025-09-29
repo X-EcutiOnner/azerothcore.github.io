@@ -1,12 +1,13 @@
 var a10759 =
 [
-    [ "StartMirrorTimer", "d7/dfd/a10759.html#a86039d4a721636477f266712682883f0", null ],
-    [ "StartMirrorTimer", "d7/dfd/a10759.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
-    [ "Write", "d7/dfd/a10759.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
-    [ "MaxValue", "d7/dfd/a10759.html#a3f26c682d547be40d2800eff2189348d", null ],
-    [ "Paused", "d7/dfd/a10759.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
-    [ "Scale", "d7/dfd/a10759.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
-    [ "SpellID", "d7/dfd/a10759.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
-    [ "Timer", "d7/dfd/a10759.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
-    [ "Value", "d7/dfd/a10759.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
+    [ "GuildBankQueryResults", "d7/dfd/a10759.html#a8203a35b76fdc674794c5bd3c1acb9ed", null ],
+    [ "SetWithdrawalsRemaining", "d7/dfd/a10759.html#a52af0d2b4e092daf0719bdf325c51652", null ],
+    [ "Write", "d7/dfd/a10759.html#a4598c0c9d1f94c5aa0671f210e1597d4", null ],
+    [ "_withdrawalsRemainingPos", "d7/dfd/a10759.html#abe711cd2da225fdc73eabe2ad6bd3f5d", null ],
+    [ "FullUpdate", "d7/dfd/a10759.html#a42ca9b48981d7d338aecb7840c248f0f", null ],
+    [ "ItemInfo", "d7/dfd/a10759.html#ad799195b259f92aa4e71e1ee8fd99741", null ],
+    [ "Money", "d7/dfd/a10759.html#ad401eb3444f5ae50781e634e1f55eba1", null ],
+    [ "Tab", "d7/dfd/a10759.html#a72ac06ace5e7974d666e3fc3d626e3c0", null ],
+    [ "TabInfo", "d7/dfd/a10759.html#ad36f0ae1d897ef504ad9761c00db77ca", null ],
+    [ "WithdrawalsRemaining", "d7/dfd/a10759.html#a211288bde5a15f2d21df65acf087c7d0", null ]
 ];

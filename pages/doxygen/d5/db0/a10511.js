@@ -1,7 +1,6 @@
 var a10511 =
 [
-    [ "QueryGuildInfoResponse", "d5/db0/a10511.html#ae1f7b9f33e36821477a19439a3d4065d", null ],
-    [ "Write", "d5/db0/a10511.html#abda9452eba38e76c460f910eb3aad5fa", null ],
-    [ "GuildId", "d5/db0/a10511.html#a04eec0531238fa55a91afa11c394fbce", null ],
-    [ "Info", "d5/db0/a10511.html#a749e992a19264b259f62d403b4925abe", null ]
+    [ "BuyBankSlot", "d5/db0/a10511.html#a0bc11087e9359c6ac762f915b11287d8", null ],
+    [ "Read", "d5/db0/a10511.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
+    [ "Banker", "d5/db0/a10511.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
 ];

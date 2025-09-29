@@ -1,5 +1,5 @@
 var a12335 =
 [
-    [ "npc_garr_fireswornAI", "d0/d34/a12335.html#af2454b2ddf93102378ebf9780d260e56", null ],
-    [ "DamageTaken", "d0/d34/a12335.html#ae9582b14e82b163ff97b99cb603e0179", null ]
+    [ "at_scarshield_infiltrator", "d0/d34/a12335.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
+    [ "OnTrigger", "d0/d34/a12335.html#a607c3ee2bd4716cf1e0499e202d379fc", null ]
 ];

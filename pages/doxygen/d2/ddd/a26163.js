@@ -1,6 +1,6 @@
 var a26163 =
 [
-    [ "HandleEffectScriptEffect", "d2/ddd/a26163.html#a852a621f0b008dc1294dbeb9e9877a04", null ],
-    [ "PrepareSpellScript", "d2/ddd/a26163.html#a8b0f656994289f260645a2ae60d9ee4b", null ],
-    [ "Register", "d2/ddd/a26163.html#a1fa4dca7bae36c5e2acde0fe8b8cd801", null ]
+    [ "OnPeriodic", "d2/ddd/a26163.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
+    [ "PrepareAuraScript", "d2/ddd/a26163.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
+    [ "Register", "d2/ddd/a26163.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
 ];

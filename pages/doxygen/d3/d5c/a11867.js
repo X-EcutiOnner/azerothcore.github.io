@@ -1,6 +1,10 @@
 var a11867 =
 [
-    [ "boss_general_angerforgeAI", "da/dfd/a11871.html", "da/dfd/a11871" ],
-    [ "boss_general_angerforge", "d3/d5c/a11867.html#a00c94097831dc52d31505f312a04f562", null ],
-    [ "GetAI", "d3/d5c/a11867.html#ac3f3b26bf2c6745bb9ab23c7ff1484ae", null ]
+    [ "mmaps_commandscript", "d3/d5c/a11867.html#a1dbdfd26bdb685315a3012453080a56f", null ],
+    [ "GetCommands", "d3/d5c/a11867.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
+    [ "HandleMmapLoadedTilesCommand", "d3/d5c/a11867.html#a40d5b7e733298210c686fe89490b6f61", null ],
+    [ "HandleMmapLocCommand", "d3/d5c/a11867.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
+    [ "HandleMmapPathCommand", "d3/d5c/a11867.html#a2c876439ad6d9ff7523f140d97743dea", null ],
+    [ "HandleMmapStatsCommand", "d3/d5c/a11867.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
+    [ "HandleMmapTestArea", "d3/d5c/a11867.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
 ];

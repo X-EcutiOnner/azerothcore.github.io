@@ -1,6 +1,10 @@
 var a21127 =
 [
-    [ "npc_ritual_channelerAI", "dc/dd5/a21131.html", "dc/dd5/a21131" ],
-    [ "npc_ritual_channeler", "dd/ddb/a21127.html#adab372002549b009e3f937ec67e49f3f", null ],
-    [ "GetAI", "dd/ddb/a21127.html#aa416545438d701cbfc2567ba5ae536c8", null ]
+    [ "boss_yoggsaron_voiceAI", "dd/ddb/a21127.html#ac78b27f8d4df433e1fad2ae550a4da44", null ],
+    [ "Reset", "dd/ddb/a21127.html#ae5561244ad7387a3614bb6f1e23a7001", null ],
+    [ "SpellHitTarget", "dd/ddb/a21127.html#a0cc39577b4b70eb1be16f9c8b5cb5c72", null ],
+    [ "UpdateAI", "dd/ddb/a21127.html#a3c8458c25f7389f5fb5218177590a4c6", null ],
+    [ "_current", "dd/ddb/a21127.html#ad94ddde194a32b380ba1d309f1ece14a", null ],
+    [ "_targets", "dd/ddb/a21127.html#ab6132214a2249fbb5de8a5115b114381", null ],
+    [ "events", "dd/ddb/a21127.html#ac0c6aa9efe9d9e80b29fae8c190962dc", null ]
 ];

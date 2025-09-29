@@ -1,6 +1,6 @@
 var a10847 =
 [
-    [ "PetStopAttack", "db/d81/a10847.html#a4a68127f3290d4f2e288600757dd3282", null ],
-    [ "Read", "db/d81/a10847.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
-    [ "PetGUID", "db/d81/a10847.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
+    [ "ListInventory", "db/d81/a10847.html#a7b0432d3b1243bdf6d70f9f55ee0f614", null ],
+    [ "Read", "db/d81/a10847.html#a2fd1298c1da842824fca7d971cb2028b", null ],
+    [ "VendorGuid", "db/d81/a10847.html#a9c6288866c870b4a82169fe7fbef4512", null ]
 ];

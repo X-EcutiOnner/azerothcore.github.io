@@ -1,6 +1,12 @@
 var a19991 =
 [
-    [ "boss_freya_elder_brightleafAI", "df/d43/a19995.html", "df/d43/a19995" ],
-    [ "boss_freya_elder_brightleaf", "d5/d96/a19991.html#a9b1539b37912ef5ae46d5926bf2e0f40", null ],
-    [ "GetAI", "d5/d96/a19991.html#a3c39424ecf97ced8c2a962baff5ae342", null ]
+    [ "npc_assembly_lightningAI", "d5/d96/a19991.html#a4b778b6545e7c93e66a07160db793651", null ],
+    [ "AttackStart", "d5/d96/a19991.html#afd4657e8c6a2eb39346e99cb54a7ab1a", null ],
+    [ "EnterEvadeMode", "d5/d96/a19991.html#a4c0bb838053412a3945648ed1a5a13b9", null ],
+    [ "MoveInLineOfSight", "d5/d96/a19991.html#a077f788e67cdb67683ac13f3a3d1322b", null ],
+    [ "MovementInform", "d5/d96/a19991.html#a95227f93c5ac6871bfcea603ebb2188d", null ],
+    [ "OnCharmed", "d5/d96/a19991.html#aa08e4c286723c76251bd75aa54b24f5f", null ],
+    [ "Reset", "d5/d96/a19991.html#a1f03885bfd91d9b9cdde1d90b51d2c96", null ],
+    [ "UpdateAI", "d5/d96/a19991.html#a94edd1ea5278bd5ca8d5d64619e9c8b4", null ],
+    [ "_boomed", "d5/d96/a19991.html#aa6b4a46674a7d4106a49ef308ec27b9e", null ]
 ];

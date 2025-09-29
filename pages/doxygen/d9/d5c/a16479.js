@@ -1,7 +1,11 @@
 var a16479 =
 [
-    [ "FilterTargets", "d9/d5c/a16479.html#a304da18e36ff67c34b80ab39583f8c96", null ],
-    [ "HandleScript", "d9/d5c/a16479.html#adf99670bcf862288f513d2a26cbc256a", null ],
-    [ "PrepareSpellScript", "d9/d5c/a16479.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
-    [ "Register", "d9/d5c/a16479.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
+    [ "npc_black_knight_ghoulAI", "d9/d5c/a16479.html#a6e108052a7f9911dcd1b0ed13b2b8a0f", null ],
+    [ "JustEngagedWith", "d9/d5c/a16479.html#a8353dea0de91017223c7624a5a96ebec", null ],
+    [ "Reset", "d9/d5c/a16479.html#a8a33efa0719063a9565bc07143f8ad83", null ],
+    [ "SpellHit", "d9/d5c/a16479.html#aa1b1fbb1a4633831774c7a7dd5cbb546", null ],
+    [ "SpellHitTarget", "d9/d5c/a16479.html#a5f106a3b0edf353769db9021b9ca770d", null ],
+    [ "UpdateAI", "d9/d5c/a16479.html#a6ccdb6a59b93999c01d434bcda593f25", null ],
+    [ "events", "d9/d5c/a16479.html#acb56826a164e4d7da0a2f04c1efaf72b", null ],
+    [ "pInstance", "d9/d5c/a16479.html#a35b8375f1b3407f5cee653ee118e0697", null ]
 ];

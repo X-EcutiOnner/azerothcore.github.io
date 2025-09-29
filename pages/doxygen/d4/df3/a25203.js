@@ -1,7 +1,6 @@
 var a25203 =
 [
-    [ "OnApply", "d4/df3/a25203.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
-    [ "OnRemove", "d4/df3/a25203.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
-    [ "PrepareAuraScript", "d4/df3/a25203.html#a9a7b549e059b6bd2d22802f60e952658", null ],
-    [ "Register", "d4/df3/a25203.html#aae603735281daf02ceca157e218d5c9f", null ]
+    [ "HandleEffectPeriodicUpdate", "d4/df3/a25203.html#a554353fede78b89bf488230254d7892b", null ],
+    [ "PrepareAuraScript", "d4/df3/a25203.html#adf20aaafff83bae614ff3c614a08a54b", null ],
+    [ "Register", "d4/df3/a25203.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
 ];

@@ -1,7 +1,6 @@
 var a08359 =
 [
-    [ "AddToGrid", "d3/d11/a08359.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
-    [ "IsInGrid", "d3/d11/a08359.html#a996724d21d62e478f50031faa7637cd5", null ],
-    [ "RemoveFromGrid", "d3/d11/a08359.html#a29740a98fea7db66cdffd824940a2ec2", null ],
-    [ "_gridRef", "d3/d11/a08359.html#aa44ba47734267ac07b733f218623f3c5", null ]
+    [ "item_count", "d3/d11/a08359.html#a437fe00f34ad414e3c9f81d01a153d13", null ],
+    [ "setid", "d3/d11/a08359.html#ab8c24b76b1c0eb92c0fe52ca9baf293a", null ],
+    [ "spells", "d3/d11/a08359.html#af8156bad9771ed816fd861d3eb992aaa", null ]
 ];

@@ -1,16 +1,16 @@
 var a14043 =
 [
-    [ "boss_renatakiAI", "d6/d2a/a14043.html#ac154bfadeb99d67f59e1682de257e8bf", null ],
-    [ "CanAIAttack", "d6/d2a/a14043.html#af20dc14dc56500e568a3a11bfb34a227", null ],
-    [ "CanAlwaysBeDetectable", "d6/d2a/a14043.html#af75108eacb982586f43a175beede78ef", null ],
-    [ "CanBeSeen", "d6/d2a/a14043.html#ac79db0d4488702be0cd12b5e03a9bcb9", null ],
-    [ "CanSeeAlways", "d6/d2a/a14043.html#a6e4a1e9bec67a1bdac4c9cef3da4b17d", null ],
-    [ "DamageTaken", "d6/d2a/a14043.html#a62d97adb310b55a2235737b854dc4aca", null ],
-    [ "JustEngagedWith", "d6/d2a/a14043.html#a72e9a85d2215d3da197d50b6aa0b769e", null ],
-    [ "Reset", "d6/d2a/a14043.html#ad50d8e24fb4168186497c5cdb5b39a68", null ],
-    [ "UpdateAI", "d6/d2a/a14043.html#a3a1abaef460d9abe1298080080d74c9d", null ],
-    [ "_dynamicFlags", "d6/d2a/a14043.html#a502bfa737cf97ae909144278a3e39bd0", null ],
-    [ "_enraged", "d6/d2a/a14043.html#a71e717a2ea732729762aff7970439f74", null ],
-    [ "_thousandBladesCount", "d6/d2a/a14043.html#a29dd57c66245f30d12f32d31cc25cd55", null ],
-    [ "_thousandBladesTargets", "d6/d2a/a14043.html#ab8b2b52a2ef8ea6586381234c9a3e3fc", null ]
+    [ "boss_zuljin", "d6/d2a/a14043.html#a8acdf347d7f982c07614c89a101daae0", null ],
+    [ "EnterEvadeMode", "d6/d2a/a14043.html#a1b3da85aa5f4abac16256aa691d035a3", null ],
+    [ "EnterPhase", "d6/d2a/a14043.html#ae9970dba905b947a22c4ddf36bdcb656", null ],
+    [ "GetGUID", "d6/d2a/a14043.html#a29548891ef8efaa5d6baa384e7b9000a", null ],
+    [ "JustDied", "d6/d2a/a14043.html#a2e00e8311c0463a37de87668882ffeec", null ],
+    [ "JustEngagedWith", "d6/d2a/a14043.html#ab6854461a5116e94c9f0ca971a3f89ef", null ],
+    [ "KilledUnit", "d6/d2a/a14043.html#adf220cb760b77cfd09ed746705529064", null ],
+    [ "MovementInform", "d6/d2a/a14043.html#a61501941861f8838392fc8cdbe59feff", null ],
+    [ "Reset", "d6/d2a/a14043.html#a2fe7c0338eb4698cc0aae252f4b14f02", null ],
+    [ "SpawnAdds", "d6/d2a/a14043.html#a83eb0799a25f19eedddd96e609134778", null ],
+    [ "SpellHitTarget", "d6/d2a/a14043.html#aab3558edc5b90be23040077d88e21725", null ],
+    [ "_chargeTargetGUID", "d6/d2a/a14043.html#a3b26fe2e82019ea5ce110d2d0a78f47e", null ],
+    [ "_nextPhase", "d6/d2a/a14043.html#a4fc9983cb34313affa56c243a4164a4a", null ]
 ];

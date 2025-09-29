@@ -1,6 +1,6 @@
 var a18351 =
 [
-    [ "ActivateSpirit", "d8/d2a/a18351.html#ae5c9f8e693a98c828e0e922870552952", null ],
-    [ "PrepareSpellScript", "d8/d2a/a18351.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
-    [ "Register", "d8/d2a/a18351.html#a2b1d27e93a879681098a83d17c4d686a", null ]
+    [ "HandleScript", "d8/d2a/a18351.html#a038a827f7fe179ff56ab581efdf08790", null ],
+    [ "PrepareSpellScript", "d8/d2a/a18351.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
+    [ "Register", "d8/d2a/a18351.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
 ];

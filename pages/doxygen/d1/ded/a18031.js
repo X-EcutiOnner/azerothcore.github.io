@@ -1,6 +1,6 @@
 var a18031 =
 [
-    [ "MysticBuffetTargetFilter", "d1/ded/a18031.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
-    [ "operator()", "d1/ded/a18031.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
-    [ "_caster", "d1/ded/a18031.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
+    [ "UnboundPlagueTargetSelector", "d1/ded/a18031.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
+    [ "operator()", "d1/ded/a18031.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
+    [ "_source", "d1/ded/a18031.html#a87eb77615e443ccec373d571708a156a", null ]
 ];

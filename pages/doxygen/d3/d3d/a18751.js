@@ -1,6 +1,8 @@
 var a18751 =
 [
-    [ "npc_icc_severed_essenceAI", "dc/d04/a18755.html", "dc/d04/a18755" ],
-    [ "npc_icc_severed_essence", "d3/d3d/a18751.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
-    [ "GetAI", "d3/d3d/a18751.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
+    [ "DecayPeriodicTimer", "d3/d3d/a18751.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "d3/d3d/a18751.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "d3/d3d/a18751.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "d3/d3d/a18751.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "d3/d3d/a18751.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

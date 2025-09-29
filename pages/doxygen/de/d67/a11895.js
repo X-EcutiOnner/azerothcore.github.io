@@ -1,6 +1,7 @@
 var a11895 =
 [
-    [ "boss_hedrumAI", "de/d67/a11895.html#a95e4af51a8e24fa7b36b924c6cdfb86c", null ],
-    [ "JustEngagedWith", "de/d67/a11895.html#a1cf03b06598f2b36814062d47a73ed82", null ],
-    [ "UpdateAI", "de/d67/a11895.html#aa515ed081aaabdad751c1bbba56d3d96", null ]
+    [ "player_commandscript", "de/d67/a11895.html#a1565aa67743cfd3e5fe5179b4100bd20", null ],
+    [ "GetCommands", "de/d67/a11895.html#a0e1e8eec0fe449c95c5cf9dd06a0fced", null ],
+    [ "HandlePlayerLearnCommand", "de/d67/a11895.html#a6ca511bcecf73049665772cb80dbcf40", null ],
+    [ "HandlePlayerUnLearnCommand", "de/d67/a11895.html#a22fddb5da1278fe794a78a899c423bfd", null ]
 ];

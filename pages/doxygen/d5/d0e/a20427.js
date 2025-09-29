@@ -1,12 +1,6 @@
 var a20427 =
 [
-    [ "npc_ulduar_flames_initialAI", "d5/d0e/a20427.html#a5d7202463d12fbdfcc5efdfba786ca19", null ],
-    [ "DoAction", "d5/d0e/a20427.html#a6169d12043e73e7991064decccf0926a", null ],
-    [ "RemoveAll", "d5/d0e/a20427.html#a2c39dd0d4d8040db5b18af1c1b27071a", null ],
-    [ "RemoveFlame", "d5/d0e/a20427.html#ab992d2df928b9ca2699ca48e64fb2606", null ],
-    [ "SpreadFlame", "d5/d0e/a20427.html#ae801181472a8e29208a4f305fb0307f9", null ],
-    [ "UpdateAI", "d5/d0e/a20427.html#a9d628d32d3519d0e7152c772e540b7ef", null ],
-    [ "CreateTime", "d5/d0e/a20427.html#ae50820bb38d0ed61b8687b4023aac5b9", null ],
-    [ "events", "d5/d0e/a20427.html#a89217e11f9930b336665969791fc84b9", null ],
-    [ "FlameList", "d5/d0e/a20427.html#a75b218699a42ece4959d0a1fe40713d7", null ]
+    [ "npc_ulduar_hodir_shamanAI", "d5/d06/a20431.html", "d5/d06/a20431" ],
+    [ "npc_ulduar_hodir_shaman", "d5/d0e/a20427.html#ae73a416c72441ab531d8a5db88183d47", null ],
+    [ "GetAI", "d5/d0e/a20427.html#ab06a67b72a3954c65792a478ac90672c", null ]
 ];

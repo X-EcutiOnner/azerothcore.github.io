@@ -1,15 +1,7 @@
 var a15835 =
 [
-    [ "boss_hadronoxAI", "d8/dfa/a15835.html#a75430465e2329252581c2522ff14d82b", null ],
-    [ "AnyPlayerValid", "d8/dfa/a15835.html#a5b4dc381ff6df8a4badc61196e2687bd", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d8/dfa/a15835.html#aa5c858b2702744f24ac1d22078df1d7b", null ],
-    [ "DamageTaken", "d8/dfa/a15835.html#a31ddd8521366da9cb862334c659288b3", null ],
-    [ "DoAction", "d8/dfa/a15835.html#ab3bf3ca6a2adcf4c50a9bf1ddc8bac0e", null ],
-    [ "GetData", "d8/dfa/a15835.html#a6fdb9b9650382600086f5646a627af52", null ],
-    [ "JustDied", "d8/dfa/a15835.html#a42ffdf5a3d2ee43ddf0fc0d29f580491", null ],
-    [ "JustEngagedWith", "d8/dfa/a15835.html#af8bcc00fbf757e0a0129111cca0a0a5c", null ],
-    [ "JustSummoned", "d8/dfa/a15835.html#a65b93a213a69edf864ca123b6560b0a8", null ],
-    [ "KilledUnit", "d8/dfa/a15835.html#ac4b6a589939bdc8a23f182ebf955e242", null ],
-    [ "Reset", "d8/dfa/a15835.html#a1063db2596a0d57381011c2a6ceeb34e", null ],
-    [ "UpdateAI", "d8/dfa/a15835.html#a10aa0f67aeb12d3d9a34f6213fe3d28f", null ]
+    [ "npc_giltharesAI", "d8/dfa/a15835.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "d8/dfa/a15835.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "d8/dfa/a15835.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "d8/dfa/a15835.html#a9308c73760e50e0f3d04031b508526d1", null ]
 ];

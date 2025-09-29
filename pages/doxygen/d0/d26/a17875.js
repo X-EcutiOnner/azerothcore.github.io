@@ -1,8 +1,9 @@
 var a17875 =
 [
-    [ "HandleScript", "d0/d26/a17875.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
-    [ "PrepareSpellScript", "d0/d26/a17875.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
-    [ "Register", "d0/d26/a17875.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
-    [ "SelectTarget", "d0/d26/a17875.html#a36d575c6a63e94905bf435bc9d39e588", null ],
-    [ "Validate", "d0/d26/a17875.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
+    [ "HandleApply", "d0/d26/a17875.html#a5f23d41765ec949486094a0da45be7e8", null ],
+    [ "HandleRemove", "d0/d26/a17875.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
+    [ "Load", "d0/d26/a17875.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
+    [ "PrepareAuraScript", "d0/d26/a17875.html#aabf5fdf4578935db11e041e638fba187", null ],
+    [ "Register", "d0/d26/a17875.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
+    [ "SendClientControl", "d0/d26/a17875.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
 ];

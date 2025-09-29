@@ -1,7 +1,10 @@
 var a16323 =
 [
-    [ "npc_toc_druidAI", "d6/dc8/a16323.html#adb456f1f93be5329174a3199c9092825", null ],
-    [ "myCanCast", "d6/dc8/a16323.html#af82baa22ae49ba268f494cb07287845e", null ],
-    [ "UpdateAI", "d6/dc8/a16323.html#a82a22a557db647f73690d8838a635eaf", null ],
-    [ "events", "d6/dc8/a16323.html#a6bb27baf17f0286db3222287a8073bd7", null ]
+    [ "spell_halion_combustion_consumption_aura", "d6/dc8/a16323.html#a8b67aee76c7288748757e6bec7f4cb78", null ],
+    [ "AddMarkStack", "d6/dc8/a16323.html#a337776c42bd6c42ecdffb508808ed070", null ],
+    [ "OnApply", "d6/dc8/a16323.html#afeea3e5026e6d8472440c9cffac9bce9", null ],
+    [ "OnRemove", "d6/dc8/a16323.html#a3959dbe8bbdf2d3953daf14072614708", null ],
+    [ "PrepareAuraScript", "d6/dc8/a16323.html#a334f2211429dde989b6beb6c10a71464", null ],
+    [ "Register", "d6/dc8/a16323.html#affc66a03e9d1eaef30a54b8a044734b8", null ],
+    [ "_markSpell", "d6/dc8/a16323.html#a8236d9d50f267a12216d90f8041da439", null ]
 ];

@@ -1,5 +1,6 @@
 var a18663 =
 [
-    [ "at_icc_saurfang_portal", "de/d21/a18663.html#a7f30058251c520634a0b7bad08380e5d", null ],
-    [ "OnTrigger", "de/d21/a18663.html#a8980fe0e67aa33335f0fdb947a294213", null ]
+    [ "npc_green_dragon_combat_triggerAI", "de/da4/a18667.html", "de/da4/a18667" ],
+    [ "npc_green_dragon_combat_trigger", "de/d21/a18663.html#acec675494f5e5e9609bf34b7f25cb569", null ],
+    [ "GetAI", "de/d21/a18663.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
 ];

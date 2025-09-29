@@ -1,10 +1,7 @@
 var a11631 =
 [
-    [ "item_commandscript", "d2/d00/a11631.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
-    [ "GetCommands", "d2/d00/a11631.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
-    [ "HandleItemMoveCommand", "d2/d00/a11631.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
-    [ "HandleItemRefundCommand", "d2/d00/a11631.html#af914e33be05148062abd89c754d939c9", null ],
-    [ "HandleItemRestoreCommand", "d2/d00/a11631.html#a84c67a46c513c1aac2b9d2563d693929", null ],
-    [ "HandleItemRestoreListCommand", "d2/d00/a11631.html#a40181310f4187a71a6f5f5f600a8f468", null ],
-    [ "HasItemDeletionConfig", "d2/d00/a11631.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
+    [ "CompressedData", "d2/d00/a11631.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
+    [ "CompressedSize", "d2/d00/a11631.html#ab57879b41c825623a989db13a53f2f4e", null ],
+    [ "Id", "d2/d00/a11631.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
+    [ "Key", "d2/d00/a11631.html#ad100540b5c6722a19c938b134a985aed", null ]
 ];

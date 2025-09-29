@@ -1,6 +1,6 @@
 var a22055 =
 [
-    [ "ChangeSummonPos", "db/dfe/a22055.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "db/dfe/a22055.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "db/dfe/a22055.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "npc_q24545_vegard_dummyAI", "d7/de1/a22059.html", "d7/de1/a22059" ],
+    [ "npc_q24545_vegard_dummy", "db/dfe/a22055.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "db/dfe/a22055.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

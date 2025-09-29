@@ -1,6 +1,6 @@
 var a21655 =
 [
-    [ "npc_dalaran_warriorAI", "d3/d2e/a21659.html", "d3/d2e/a21659" ],
-    [ "npc_dalaran_warrior", "db/d79/a21655.html#a13d44b85173232ddedcc35184d50549c", null ],
-    [ "GetAI", "db/d79/a21655.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
+    [ "npc_azure_stalkerAI", "d3/d2e/a21659.html", "d3/d2e/a21659" ],
+    [ "npc_azure_stalker", "db/d79/a21655.html#ad069edc43b4f489e0b2c7aa4952eeb63", null ],
+    [ "GetAI", "db/d79/a21655.html#a1c067809f98a4d7845d2fb4269742274", null ]
 ];

@@ -1,29 +1,24 @@
 var a01925 =
 [
-    [ "AzjolNerubScriptName", "d6/d18/a01925.html#a49c3c3627ce229fce6b1f55755bcb7d7", null ],
-    [ "DataHeader", "d6/d18/a01925.html#a042491ef36459046f3866e90f15aae0d", null ],
-    [ "ANData", "d6/d18/a01925.html#a38e14ca59c29a20c7d83feecae87365e", [
-      [ "DATA_KRIKTHIR", "d6/d18/a01925.html#a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c", null ],
-      [ "DATA_HADRONOX", "d6/d18/a01925.html#a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8", null ],
-      [ "DATA_ANUBARAK_EVENT", "d6/d18/a01925.html#a38e14ca59c29a20c7d83feecae87365ea64e72a1a7491f71dc45c3ee0e6aba1a3", null ],
-      [ "MAX_ENCOUNTERS", "d6/d18/a01925.html#a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25", null ]
+    [ "RegisterShadowLabyrinthCreatureAI", "d6/d18/a01925.html#afbd2592662281ddc8b6d11567efe9a50", null ],
+    [ "ShadowLabyrinthScriptName", "d6/d18/a01925.html#ab96ece1dcc827c0af968525da00da892", null ],
+    [ "slData", "d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87d", [
+      [ "TYPE_RITUALISTS", "d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da2448fcd14abb165e775c665932a04948", null ],
+      [ "TYPE_HELLMAW", "d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da52ac1b40043222aff2cbe571a96bd05f", null ],
+      [ "DATA_BLACKHEARTTHEINCITEREVENT", "d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da5e5ecb7b6f8d204717412ca517a3aa26", null ],
+      [ "DATA_GRANDMASTER_VORPIL", "d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87dabbbeb54dc0be17516ae2b37fd91b4748", null ],
+      [ "DATA_GRANDMASTER_VORPIL_EVENT", "d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87dad90f8f395f905f5f55ca7b675b597f8b", null ],
+      [ "DATA_MURMUR", "d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da50ac08073863c86c5be25a661f884900", null ],
+      [ "DATA_MURMUREVENT", "d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da6d821b47b03599b8b3c294d32359c13f", null ],
+      [ "MAX_ENCOUNTER", "d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da7913656ef56deb3793c0c5f3d999d80d", null ]
     ] ],
-    [ "ANIds", "d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eb", [
-      [ "NPC_WATCHER_NARJIL", "d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f", null ],
-      [ "NPC_WATCHER_GASHRA", "d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba59e8c7ae56d3d0267c69c0e2e39b5cc8", null ],
-      [ "NPC_WATCHER_SILTHIK", "d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf4f603f77d6847952388c5dce5d0de08", null ],
-      [ "NPC_SKITTERING_SWARMER", "d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429", null ],
-      [ "NPC_SKITTERING_INFECTIOR", "d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b", null ],
-      [ "NPC_KRIKTHIR_THE_GATEWATCHER", "d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582", null ],
-      [ "NPC_HADRONOX", "d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a", null ],
-      [ "NPC_ANUB_AR_CHAMPION", "d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc", null ],
-      [ "NPC_ANUB_AR_NECROMANCER", "d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea", null ],
-      [ "NPC_ANUB_AR_CRYPTFIEND", "d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c", null ],
-      [ "GO_KRIKTHIR_DOORS", "d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b", null ],
-      [ "GO_ANUBARAK_DOORS1", "d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316", null ],
-      [ "GO_ANUBARAK_DOORS2", "d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc", null ],
-      [ "GO_ANUBARAK_DOORS3", "d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0", null ],
-      [ "SPELL_WEB_WRAP_TRIGGER", "d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b", null ]
+    [ "slNPCandGO", "d6/d18/a01925.html#a5aeaf5f332ee73166572f5313be89bf1", [
+      [ "NPC_CABAL_RITUALIST", "d6/d18/a01925.html#a5aeaf5f332ee73166572f5313be89bf1a726fe6195260ca333078e65a64d24f7a", null ],
+      [ "NPC_HELLMAW", "d6/d18/a01925.html#a5aeaf5f332ee73166572f5313be89bf1ad42fe7f18144f0b2ff2949b85385db8b", null ],
+      [ "GO_REFECTORY_DOOR", "d6/d18/a01925.html#a5aeaf5f332ee73166572f5313be89bf1a84947de77bc0d365a3dbc4c222a80d7c", null ],
+      [ "GO_SCREAMING_HALL_DOOR", "d6/d18/a01925.html#a5aeaf5f332ee73166572f5313be89bf1a8dcc6b729c4258a8e241fa45bff0798a", null ]
     ] ],
-    [ "GetAzjolNerubAI", "d6/d18/a01925.html#a19b3f42ba299e1f42de805f494cd5812", null ]
+    [ "GetShadowLabyrinthAI", "d6/d18/a01925.html#a04723307a726c0b79db08448db0704db", null ],
+    [ "EncounterCount", "d6/d18/a01925.html#ae1fbcd81e7256d27efa0288994753839", null ],
+    [ "PersistentDataCount", "d6/d18/a01925.html#aa38a92afffebaf4b33726515956b256b", null ]
 ];

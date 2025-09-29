@@ -1,6 +1,6 @@
 var a13091 =
 [
-    [ "instance_shadowfang_keep_InstanceMapScript", "df/d06/a13095.html", "df/d06/a13095" ],
-    [ "instance_shadowfang_keep", "dd/d05/a13091.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
-    [ "GetInstanceScript", "dd/d05/a13091.html#a5c076ed86470247de5b4e3733b70fa25", null ]
+    [ "npc_scarlet_cannonAI", "df/d06/a13095.html", "df/d06/a13095" ],
+    [ "npc_scarlet_cannon", "dd/d05/a13091.html#a10bb35cbbdae3508a2300ba3dacc1ea3", null ],
+    [ "GetAI", "dd/d05/a13091.html#ae2b74a4dab4b34f026fd17d5ed381c99", null ]
 ];

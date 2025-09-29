@@ -1,6 +1,6 @@
 var a19471 =
 [
-    [ "boss_volkhanAI", "d7/db7/a19475.html", "d7/db7/a19475" ],
-    [ "boss_volkhan", "db/de5/a19471.html#a9dcb6026fbf3116df9abf5acaf1bfcc2", null ],
-    [ "GetAI", "db/de5/a19471.html#aa0f76b387f9f74e0eb6dedd1b44ce34a", null ]
+    [ "npc_alexstraszaAI", "d7/db7/a19475.html", "d7/db7/a19475" ],
+    [ "npc_alexstrasza", "db/de5/a19471.html#aa28858e8368031c2882e7e3c1c5968dd", null ],
+    [ "GetAI", "db/de5/a19471.html#ad155ccc4f7bca786229ee015d365e3ce", null ]
 ];

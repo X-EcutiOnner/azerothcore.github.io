@@ -1,15 +1,16 @@
 var a11151 =
 [
-    [ "AttributesMask", "d1/dfb/a11151.html#a7cc9dfa91e034f5052ebd3bf8eaea42a", null ],
-    [ "Chance", "d1/dfb/a11151.html#aea5ca609c75ea7b314aec8ae0246297e", null ],
-    [ "Charges", "d1/dfb/a11151.html#a75f0484dad60eec59b399a188fd9908f", null ],
-    [ "Cooldown", "d1/dfb/a11151.html#a4e6185aea35599a3efc2e806145cb1d2", null ],
-    [ "HitMask", "d1/dfb/a11151.html#a8ac3331576b4eb761157fa3d0d622bea", null ],
-    [ "ProcFlags", "d1/dfb/a11151.html#a9e5de790c4f61537397a1ce2bce8a9b0", null ],
-    [ "ProcsPerMinute", "d1/dfb/a11151.html#a3815765c08f6b95cae6efb93fa98623b", null ],
-    [ "SchoolMask", "d1/dfb/a11151.html#acf72c4a783235770bbff952bdc002324", null ],
-    [ "SpellFamilyMask", "d1/dfb/a11151.html#a8688e9282cb78d4f24b310cc2521c22b", null ],
-    [ "SpellFamilyName", "d1/dfb/a11151.html#a2cb738b0d4579503fcb9bca7988f7e36", null ],
-    [ "SpellPhaseMask", "d1/dfb/a11151.html#ab4c4bfa1493a7a5924d3cd094127f973", null ],
-    [ "SpellTypeMask", "d1/dfb/a11151.html#a99e20d3979a532e1ca90ee83edcff3eb", null ]
+    [ "Player", "d1/dfb/a11151.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "WorldSession", "d1/dfb/a11151.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
+    [ "CharCount", "d1/dfb/a11151.html#aad61b8ca0caf09d6b62ee9fffd78cceb", null ],
+    [ "Class", "d1/dfb/a11151.html#a41e354593f59bc8546688a37c2a5e504", null ],
+    [ "Face", "d1/dfb/a11151.html#aba49d87691e9d2b10d430450c3f66493", null ],
+    [ "FacialHair", "d1/dfb/a11151.html#a5a88b2c2556dd1239c417ea4fcc55287", null ],
+    [ "Gender", "d1/dfb/a11151.html#ac4ed75d1527549051a92cbb958fa8eb4", null ],
+    [ "HairColor", "d1/dfb/a11151.html#a0ded70bbcf30bba4de4ac0ee88fb6eb6", null ],
+    [ "HairStyle", "d1/dfb/a11151.html#aa4b2800384a89a5c30c2edb7ff567865", null ],
+    [ "Name", "d1/dfb/a11151.html#a4f81603fda1ae148e6d6174ea8d861fe", null ],
+    [ "OutfitId", "d1/dfb/a11151.html#a15baddc70b46d48bd9f128e73aaac606", null ],
+    [ "Race", "d1/dfb/a11151.html#aeee5ee1a2dc34e1b2ad1f8edd31679ff", null ],
+    [ "Skin", "d1/dfb/a11151.html#a0fbfb41f3fd0c9d0ba2bfc7f04df648e", null ]
 ];

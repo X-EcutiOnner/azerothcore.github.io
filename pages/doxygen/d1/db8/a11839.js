@@ -1,9 +1,17 @@
 var a11839 =
 [
-    [ "npc_burning_spiritAI", "d1/db8/a11839.html#a52f63423d09794446b0c01da2feb325d", null ],
-    [ "EnterEvadeMode", "d1/db8/a11839.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
-    [ "IsSummonedBy", "d1/db8/a11839.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
-    [ "MovementInform", "d1/db8/a11839.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
-    [ "_events", "d1/db8/a11839.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
-    [ "_flamelasherGUID", "d1/db8/a11839.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
+    [ "learn_commandscript", "d1/db8/a11839.html#a7ef51367ab7ab1c360390ff5552c0f51", null ],
+    [ "GetCommands", "d1/db8/a11839.html#a8c8f73f3c1d5dbddd5a3d2e89ea326d8", null ],
+    [ "HandleLearnAllCraftsCommand", "d1/db8/a11839.html#ae25064fa03d022277a368f52a17e5b70", null ],
+    [ "HandleLearnAllDefaultCommand", "d1/db8/a11839.html#a985d2a10f01808c4bff2922b1530e911", null ],
+    [ "HandleLearnAllGMCommand", "d1/db8/a11839.html#a88e28ec43968c5a8b0bfd1f190d89a98", null ],
+    [ "HandleLearnAllLangCommand", "d1/db8/a11839.html#aaf4d779b47511db72727fe44fb1bbd2d", null ],
+    [ "HandleLearnAllMyClassCommand", "d1/db8/a11839.html#a956716b7743dfc6de922b0badf40aeda", null ],
+    [ "HandleLearnAllMyPetTalentsCommand", "d1/db8/a11839.html#a2a7cc02eb4417907b50d49bab39110cf", null ],
+    [ "HandleLearnAllMySpellsCommand", "d1/db8/a11839.html#af95e27d3bfb3cd421a0fd13f9f655755", null ],
+    [ "HandleLearnAllMyTalentsCommand", "d1/db8/a11839.html#aaa19e92798ac56355a95e625ead56556", null ],
+    [ "HandleLearnAllRecipesCommand", "d1/db8/a11839.html#a44b538a1031ad69bec762f1a791cf11f", null ],
+    [ "HandleLearnCommand", "d1/db8/a11839.html#ab59da6873596596ee84509cb0060e760", null ],
+    [ "HandleLearnSkillRecipesHelper", "d1/db8/a11839.html#ae8bd0389415fdeb70d369b694b953619", null ],
+    [ "HandleUnLearnCommand", "d1/db8/a11839.html#a2dc980af9662b3b1c783e3603732ca01", null ]
 ];

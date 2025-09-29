@@ -1,9 +1,5 @@
 var a22643 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "d2/dbc/a22643.html#ada5f19c96bfe623b110389ede032ef53", null ],
-    [ "GetData", "d2/dbc/a22643.html#ad876ebd581c470f5a3075129076bd1fb", null ],
-    [ "Initialize", "d2/dbc/a22643.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
-    [ "OnCreatureCreate", "d2/dbc/a22643.html#a118b4a7a7c872327ec2868c5b0417636", null ],
-    [ "OnUnitDeath", "d2/dbc/a22643.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
-    [ "_ritualistsAliveCount", "d2/dbc/a22643.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
+    [ "achievement_wg_within_our_grasp", "d2/dbc/a22643.html#a9edbd15bc6989c6948e21391a683d22d", null ],
+    [ "OnCheck", "d2/dbc/a22643.html#a10b659c4b52322536333e3d191796c27", null ]
 ];

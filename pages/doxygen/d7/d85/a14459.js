@@ -1,7 +1,6 @@
 var a14459 =
 [
-    [ "GetVisualThrow", "d7/d85/a14459.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
-    [ "HandleDummy", "d7/d85/a14459.html#adca1aacf89dcf452f1c98cae97f09690", null ],
-    [ "PrepareSpellScript", "d7/d85/a14459.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
-    [ "Register", "d7/d85/a14459.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
+    [ "PeriodicTick", "d7/d85/a14459.html#a0832c36a9497674374b2998398bfc3a4", null ],
+    [ "PrepareAuraScript", "d7/d85/a14459.html#a89acb64235da1ff59da90a509fbeec9d", null ],
+    [ "Register", "d7/d85/a14459.html#aab689a2cb84dcd064736171035640584", null ]
 ];

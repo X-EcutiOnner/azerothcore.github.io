@@ -1,7 +1,6 @@
 var a24851 =
 [
-    [ "HandleApply", "d0/de7/a24851.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
-    [ "HandlePeriodicTimer", "d0/de7/a24851.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
-    [ "PrepareAuraScript", "d0/de7/a24851.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
-    [ "Register", "d0/de7/a24851.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
+    [ "CheckTargets", "d0/de7/a24851.html#abb6ffb41731b05b868f82498b373d8b9", null ],
+    [ "PrepareSpellScript", "d0/de7/a24851.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
+    [ "Register", "d0/de7/a24851.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
 ];

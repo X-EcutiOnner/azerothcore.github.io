@@ -1,6 +1,9 @@
 var a18583 =
 [
-    [ "npc_captain_grondelAI", "d2/d9a/a18587.html", "d2/d9a/a18587" ],
-    [ "npc_captain_grondel", "d2/db1/a18583.html#a54a53f8e3cde87405219c815a56d523c", null ],
-    [ "GetAI", "d2/db1/a18583.html#a2a7725e81294e80701b7742d2605ec00", null ]
+    [ "npc_spirit_wardenAI", "d2/db1/a18583.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "d2/db1/a18583.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "d2/db1/a18583.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "d2/db1/a18583.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "d2/db1/a18583.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "d2/db1/a18583.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

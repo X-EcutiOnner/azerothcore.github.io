@@ -1,6 +1,7 @@
 var a20331 =
 [
-    [ "OnPeriodic", "db/d79/a20331.html#a8a12342f694499043e8ed4446fd92d36", null ],
-    [ "PrepareAuraScript", "db/d79/a20331.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
-    [ "Register", "db/d79/a20331.html#a381709d53101832de6b2161c4a33a0d4", null ]
+    [ "npc_ulduar_saronite_vaporsAI", "db/d79/a20331.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
+    [ "IsSummonedBy", "db/d79/a20331.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
+    [ "JustDied", "db/d79/a20331.html#a5be637500e7b5735d90e19fa40fde467", null ],
+    [ "pInstance", "db/d79/a20331.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
 ];

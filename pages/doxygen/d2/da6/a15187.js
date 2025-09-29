@@ -1,7 +1,7 @@
 var a15187 =
 [
-    [ "npc_anubisath_warder", "d2/da6/a15187.html#aebe14673e5c31000a9626e39d87c6775", null ],
-    [ "JustEngagedWith", "d2/da6/a15187.html#a579318fa519eb669573b2cea78c2fee3", null ],
-    [ "Reset", "d2/da6/a15187.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
-    [ "UpdateAI", "d2/da6/a15187.html#aba428f1f1a016191aa4f168c616c3a29", null ]
+    [ "boss_kurinnaxx", "d2/da6/a15187.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
+    [ "InitializeAI", "d2/da6/a15187.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
+    [ "JustDied", "d2/da6/a15187.html#adb749c8737888a099ad7a3d58292a612", null ],
+    [ "JustEngagedWith", "d2/da6/a15187.html#a451cd7ee80b0428a199c33012562bdb3", null ]
 ];

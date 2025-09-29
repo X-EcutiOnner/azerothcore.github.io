@@ -1,9 +1,7 @@
 var a24191 =
 [
-    [ "npc_korkron_or_wildhammer", "d1/d7f/a24191.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
-    [ "IsSummonedBy", "d1/d7f/a24191.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
-    [ "JustDied", "d1/d7f/a24191.html#a2b216f372b3681b4c96a711568c2a93b", null ],
-    [ "MovementInform", "d1/d7f/a24191.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
-    [ "Reset", "d1/d7f/a24191.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
-    [ "_playerGUID", "d1/d7f/a24191.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
+    [ "OnPeriodic", "d1/d7f/a24191.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "d1/d7f/a24191.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "d1/d7f/a24191.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "d1/d7f/a24191.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

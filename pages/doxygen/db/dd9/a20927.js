@@ -1,6 +1,6 @@
 var a20927 =
 [
-    [ "CheckCast", "db/dd9/a20927.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "db/dd9/a20927.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "db/dd9/a20927.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "npc_xt002_scrapbotAI", "d4/d29/a20931.html", "d4/d29/a20931" ],
+    [ "npc_xt002_scrapbot", "db/dd9/a20927.html#accfd75266d058af3856bdb625728c18d", null ],
+    [ "GetAI", "db/dd9/a20927.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
 ];

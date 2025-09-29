@@ -1,10 +1,8 @@
 var a16471 =
 [
-    [ "npc_mistress_of_painAI", "d0/dcd/a16471.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
-    [ "EnterEvadeMode", "d0/dcd/a16471.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
-    [ "JustDied", "d0/dcd/a16471.html#ae60f294f902a2f687446f7599d071e42", null ],
-    [ "Reset", "d0/dcd/a16471.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
-    [ "SpellHit", "d0/dcd/a16471.html#a077843a7ead2034da695be816de42f9e", null ],
-    [ "UpdateAI", "d0/dcd/a16471.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
-    [ "events", "d0/dcd/a16471.html#a941ae1faab010551db6a8e6749993357", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "d0/dcd/a16471.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
+    [ "DoAction", "d0/dcd/a16471.html#af38e129cdf4af99e99c41b6a98448e56", null ],
+    [ "Reset", "d0/dcd/a16471.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
+    [ "UpdateAI", "d0/dcd/a16471.html#a851008790128831c5c10710b4cccb196", null ],
+    [ "WaypointReached", "d0/dcd/a16471.html#a74b5fb1d3631c404e7797085e45e6159", null ]
 ];

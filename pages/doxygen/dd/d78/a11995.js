@@ -1,8 +1,8 @@
 var a11995 =
 [
-    [ "boss_highlordomokkAI", "dd/d78/a11995.html#ae6906b2f86eb2d8efe51de92376be0da", null ],
-    [ "JustDied", "dd/d78/a11995.html#ac7e125b4350880d3d195b915c8be9de0", null ],
-    [ "JustEngagedWith", "dd/d78/a11995.html#a072dc582f931deb7d1e0db9ad535f146", null ],
-    [ "Reset", "dd/d78/a11995.html#a627390013798de7a53a95817624417e3", null ],
-    [ "UpdateAI", "dd/d78/a11995.html#a38e6008d616131d2876ae5a085a083ff", null ]
+    [ "ironhand_guardianAI", "dd/d78/a11995.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
+    [ "SetData", "dd/d78/a11995.html#ab4e6402951bf45910fb3399ea107b207", null ],
+    [ "UpdateAI", "dd/d78/a11995.html#a095b11f44935c8ddb43a20c095495507", null ],
+    [ "events", "dd/d78/a11995.html#a13ed887285809d2fcad0d23fdf37face", null ],
+    [ "flames_enabled", "dd/d78/a11995.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
 ];

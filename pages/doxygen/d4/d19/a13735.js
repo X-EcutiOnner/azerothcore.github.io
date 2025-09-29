@@ -1,7 +1,11 @@
 var a13735 =
 [
-    [ "FilterTargets", "d4/d19/a13735.html#aebe9055301495dd3a21736b9a2a35f31", null ],
-    [ "HandleDamageCalc", "d4/d19/a13735.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
-    [ "PrepareSpellScript", "d4/d19/a13735.html#a03b8e21e58988d9fc774205263c0817f", null ],
-    [ "Register", "d4/d19/a13735.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
+    [ "npc_balance_of_light_and_shadowAI", "d4/d19/a13735.html#a00cc1f78fa8fe26bf472d99a490d05ad", null ],
+    [ "CanBeSeen", "d4/d19/a13735.html#af336c2afbf6c2850679fd7d8d1f0d5e9", null ],
+    [ "JustDied", "d4/d19/a13735.html#ae862f8763614a98dae6b982414caf30a", null ],
+    [ "MovementInform", "d4/d19/a13735.html#ad426816ae3c4d5a95587787d28f57ed8", null ],
+    [ "SpellHit", "d4/d19/a13735.html#abfddfff72b63fd05673584915d647958", null ],
+    [ "UpdateAI", "d4/d19/a13735.html#a540e3c28cc36917cde0153dd372d0287", null ],
+    [ "_targetGUID", "d4/d19/a13735.html#adaf2340aa5fe7b96c8f5cacc1c8d5545", null ],
+    [ "timer", "d4/d19/a13735.html#a204e0a809e9c392f20ec900e9a90a075", null ]
 ];

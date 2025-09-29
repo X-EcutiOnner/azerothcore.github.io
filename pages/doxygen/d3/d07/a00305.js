@@ -1,20 +1,18 @@
 var a00305 =
 [
-    [ "MmapTileHeader", "dc/d66/a05014.html", "dc/d66/a05014" ],
-    [ "MAX_NUMBER_OF_CELLS", "d3/d07/a00305.html#a2c6994ea025f427f1485c1c7aaee01fe", null ],
-    [ "MAX_NUMBER_OF_GRIDS", "d3/d07/a00305.html#a857252154f120575d940ffbdf63bace6", null ],
-    [ "MMAP_MAGIC", "d3/d07/a00305.html#af7a9a5e840ab3ad1c160e832500016d1", null ],
-    [ "MMAP_VERSION", "d3/d07/a00305.html#aea71555fdd0af33ccc21c76c67574421", null ],
-    [ "SIZE_OF_GRIDS", "d3/d07/a00305.html#a55c9adba46c0c14cd4ac80ab51228816", null ],
-    [ "NavTerrain", "d3/d07/a00305.html#a8a4d0b36dd46d60b691b894fb8c1c5db", [
-      [ "NAV_EMPTY", "d3/d07/a00305.html#a8a4d0b36dd46d60b691b894fb8c1c5dba7e7367494e3519c95f1b756726fec9a5", null ],
-      [ "NAV_GROUND", "d3/d07/a00305.html#a8a4d0b36dd46d60b691b894fb8c1c5dbac2c74d40490a8ea42121c00a8249bd98", null ],
-      [ "NAV_MAGMA", "d3/d07/a00305.html#a8a4d0b36dd46d60b691b894fb8c1c5dba9ea5d0550a08be7bb291557f1fc4f670", null ],
-      [ "NAV_SLIME", "d3/d07/a00305.html#a8a4d0b36dd46d60b691b894fb8c1c5dbad892c321d39d49cdb700eb27fc249f75", null ],
-      [ "NAV_WATER", "d3/d07/a00305.html#a8a4d0b36dd46d60b691b894fb8c1c5dbae258322a4a7d7928a89ac183ecf137d1", null ],
-      [ "NAV_UNUSED1", "d3/d07/a00305.html#a8a4d0b36dd46d60b691b894fb8c1c5dba55b6c76a11113bfd585b61366a3f6d03", null ],
-      [ "NAV_UNUSED2", "d3/d07/a00305.html#a8a4d0b36dd46d60b691b894fb8c1c5dba4c61900269be6dee2e26cbeb4e09d0bb", null ],
-      [ "NAV_UNUSED3", "d3/d07/a00305.html#a8a4d0b36dd46d60b691b894fb8c1c5dba3055dd71ec523facb0cba2976316d530", null ],
-      [ "NAV_UNUSED4", "d3/d07/a00305.html#a8a4d0b36dd46d60b691b894fb8c1c5dba94351935a3c7389b4667144d53923d56", null ]
-    ] ]
+    [ "ChangeEmail", "d3/d07/a00305.html#a2a6c83e2d4e6121855beb252f23c905b", null ],
+    [ "ChangePassword", "d3/d07/a00305.html#a6a9cb892c15d78b5de65738005234ff6", null ],
+    [ "ChangeUsername", "d3/d07/a00305.html#a3382c6430bfbf14e32ca11b5ac68fc23", null ],
+    [ "CheckPassword", "d3/d07/a00305.html#a17c28dfcb31af8f4241bb5210408185a", null ],
+    [ "CreateAccount", "d3/d07/a00305.html#a761f39260d15a979ce0214f212b936b7", null ],
+    [ "DeleteAccount", "d3/d07/a00305.html#a120323b16b2a5aefa6aa69e8be5ccef6", null ],
+    [ "GetCharactersCount", "d3/d07/a00305.html#a4fb760897161c3d463f842b28bcf7c20", null ],
+    [ "GetId", "d3/d07/a00305.html#aa215c9a96c37b8a5d76d980ecf8de114", null ],
+    [ "GetName", "d3/d07/a00305.html#af911e3860ec519c541d6df35468ee41b", null ],
+    [ "GetSecurity", "d3/d07/a00305.html#a8280510b2564ec6ea76727218c1687b3", null ],
+    [ "GetSecurity", "d3/d07/a00305.html#a30b6e5cf1733f0143f86aaeff600215c", null ],
+    [ "IsAdminAccount", "d3/d07/a00305.html#adb1b210137b09011677c74011addeefa", null ],
+    [ "IsConsoleAccount", "d3/d07/a00305.html#a81bbc2af33211a3130c6aa215f5607b7", null ],
+    [ "IsGMAccount", "d3/d07/a00305.html#a2f5fb2cf0c24e610c09ac734be93c7a9", null ],
+    [ "IsPlayerAccount", "d3/d07/a00305.html#a63751f144cb7acb57fc20f0caf5e7043", null ]
 ];

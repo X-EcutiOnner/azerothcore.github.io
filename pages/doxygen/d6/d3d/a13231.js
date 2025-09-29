@@ -1,8 +1,11 @@
 var a13231 =
 [
-    [ "HandleApply", "d6/d3d/a13231.html#a2e07ffc92d44757fe2b074244048dbf4", null ],
-    [ "HandleRemove", "d6/d3d/a13231.html#ae0d8cb63cf62e5015daa56463524aa27", null ],
-    [ "PrepareAuraScript", "d6/d3d/a13231.html#a4a59bd5c9ce7b74d29cdd6132f94c0bf", null ],
-    [ "Register", "d6/d3d/a13231.html#a3b91d692ad34b7ce965887590780e146", null ],
-    [ "Validate", "d6/d3d/a13231.html#aa3ee5b49e9e1009d5be34214eefd2a6d", null ]
+    [ "npc_valkyr_battle_maidenAI", "d6/d3d/a13231.html#a859b63621c500c7a36150fadbb460b2b", null ],
+    [ "Reset", "d6/d3d/a13231.html#a3ca06a5822f1b5ae625b1dcc71ec0c30", null ],
+    [ "UpdateAI", "d6/d3d/a13231.html#a33251b8d8abb9b46a5af4cb4e92472b8", null ],
+    [ "FlyBackTimer", "d6/d3d/a13231.html#a625eb33fb32f935c5109a8d3d70c5ae7", null ],
+    [ "phase", "d6/d3d/a13231.html#abd5d71272aa575be8583254217194e49", null ],
+    [ "x", "d6/d3d/a13231.html#a2dbae2865b6c6db4e82b7d1dc8a67739", null ],
+    [ "y", "d6/d3d/a13231.html#acccea63fedf38de14f7818016830a0a9", null ],
+    [ "z", "d6/d3d/a13231.html#adde328d26ad752a9e5f2ab32eab2a4e0", null ]
 ];

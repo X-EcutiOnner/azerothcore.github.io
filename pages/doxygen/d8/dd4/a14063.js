@@ -1,6 +1,6 @@
 var a14063 =
 [
-    [ "boss_wushoolayAI", "dc/d90/a14067.html", "dc/d90/a14067" ],
-    [ "boss_wushoolay", "d8/dd4/a14063.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
-    [ "GetAI", "d8/dd4/a14063.html#a70b476358956fd05d6effb75517e2b3d", null ]
+    [ "instance_zulaman_InstanceMapScript", "dc/d90/a14067.html", "dc/d90/a14067" ],
+    [ "instance_zulaman", "d8/dd4/a14063.html#a5a81dddc07dea599e2a197737206427b", null ],
+    [ "GetInstanceScript", "d8/dd4/a14063.html#a2144a517b22c5d6e7f6cc31d344669fc", null ]
 ];

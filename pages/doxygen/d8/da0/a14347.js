@@ -1,5 +1,6 @@
 var a14347 =
 [
-    [ "go_pumpkin_shrine", "d8/da0/a14347.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
-    [ "OnGossipSelect", "d8/da0/a14347.html#a35763a67d39c1d68974a9602ce26b699", null ]
+    [ "npc_brewfest_keg_thrower", "d8/da0/a14347.html#a29da1efd21fe6737684607e5b360ea84", null ],
+    [ "CanBeSeen", "d8/da0/a14347.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
+    [ "MoveInLineOfSight", "d8/da0/a14347.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
 ];

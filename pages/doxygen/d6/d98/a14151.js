@@ -1,6 +1,6 @@
 var a14151 =
 [
-    [ "OnApply", "d6/d98/a14151.html#a4a276b00d4912c210598057620368934", null ],
-    [ "PrepareAuraScript", "d6/d98/a14151.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
-    [ "Register", "d6/d98/a14151.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
+    [ "boss_grilekAI", "d0/d80/a14155.html", "d0/d80/a14155" ],
+    [ "boss_grilek", "d6/d98/a14151.html#acffe0061db18c5725c8c290822c5fed7", null ],
+    [ "GetAI", "d6/d98/a14151.html#aa346fa8807069d8fc94bd4d81a014c76", null ]
 ];

@@ -1,7 +1,9 @@
 var a06119 =
 [
-    [ "NonTankTargetSelector", "db/d9d/a06119.html#ac8d9ecc1fa9a29dc54e33eae9c1fb8ce", null ],
-    [ "operator()", "db/d9d/a06119.html#a3a4cf85033650b1d31e9f93ec8e74b22", null ],
-    [ "_playerOnly", "db/d9d/a06119.html#a59a14629522e0a3850991b1852d368ee", null ],
-    [ "_source", "db/d9d/a06119.html#a314c5cb35708814844a5c8f72d91511f", null ]
+    [ "TurretAI", "db/d9d/a06119.html#a0aaa1ee5eb1b2e83657ef24479d9a91e", null ],
+    [ "AttackStart", "db/d9d/a06119.html#ab6eb7cf777595a4b196373123da19bea", null ],
+    [ "CanAIAttack", "db/d9d/a06119.html#a47c1c38ddcc1f473104fb698fe338684", null ],
+    [ "Permissible", "db/d9d/a06119.html#aac81fb574d70369fb006fb7ba22a0784", null ],
+    [ "UpdateAI", "db/d9d/a06119.html#aa2d308443a31d8a06bbc63517695dfef", null ],
+    [ "m_minRange", "db/d9d/a06119.html#a4cffbf9bcb29468dad6a6583c905b99a", null ]
 ];

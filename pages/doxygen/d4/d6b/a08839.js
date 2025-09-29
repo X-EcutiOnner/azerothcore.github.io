@@ -1,7 +1,8 @@
 var a08839 =
 [
-    [ "CreatureRelocationNotifier", "d4/d6b/a08839.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
-    [ "Visit", "d4/d6b/a08839.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
-    [ "Visit", "d4/d6b/a08839.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
-    [ "i_creature", "d4/d6b/a08839.html#a3116f6245816ba8fb9edb5995faa9927", null ]
+    [ "VehicleSeat", "d4/d6b/a08839.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c", null ],
+    [ "IsEmpty", "d4/d6b/a08839.html#a9f68076857cb85ee7679f04043acdedc", null ],
+    [ "Passenger", "d4/d6b/a08839.html#ac334f2f573bf52f164d570f8b83fc197", null ],
+    [ "SeatAddon", "d4/d6b/a08839.html#a3c46401aa5859287e4bcb24141c848cc", null ],
+    [ "SeatInfo", "d4/d6b/a08839.html#add0cf92d445f6ea0cf910b0bc0d80b62", null ]
 ];

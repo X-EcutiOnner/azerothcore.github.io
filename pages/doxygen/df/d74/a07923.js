@@ -1,9 +1,5 @@
 var a07923 =
 [
-    [ "cancelTime", "df/d74/a07923.html#ac1d5edf075556c488aff36799ee6cb96", null ],
-    [ "dungeons", "df/d74/a07923.html#a1e6c1deaf47dc835bbab7a1741a57fe2", null ],
-    [ "leader", "df/d74/a07923.html#ad92b0bd391dae5f934b7d6f8a39351d8", null ],
-    [ "rDungeonId", "df/d74/a07923.html#af07fdfed0b56211af723db06959013f6", null ],
-    [ "roles", "df/d74/a07923.html#a3759dc8140194b09be842365dc0053d7", null ],
-    [ "state", "df/d74/a07923.html#aa70ef2d83084359af7bcc9e2de60ce77", null ]
+    [ "locations", "df/d74/a07923.html#a6470ea69a14e24337aa6b0c05093b6d2", null ],
+    [ "timeStamp", "df/d74/a07923.html#a5fed6b0484c1553a17b5303facaeb61b", null ]
 ];

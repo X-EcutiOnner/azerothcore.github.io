@@ -1,8 +1,10 @@
 var a26803 =
 [
-    [ "ApplyEffect", "de/d24/a26803.html#a0c303c58064236969e17d1f2df3e0556", null ],
-    [ "PrepareAuraScript", "de/d24/a26803.html#a716a483282946f840ac15d73c6e21a94", null ],
-    [ "Register", "de/d24/a26803.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
-    [ "RemoveEffect", "de/d24/a26803.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
-    [ "Validate", "de/d24/a26803.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
+    [ "CheckProc", "de/d24/a26803.html#a5971c42af47d1cc8045a130deb218a04", null ],
+    [ "HandleProc", "de/d24/a26803.html#a45aaf5afebc2fa533240fcf8233430ed", null ],
+    [ "Load", "de/d24/a26803.html#a7664b0f67c9e3b14841ed9e30447544d", null ],
+    [ "PrepareAuraScript", "de/d24/a26803.html#a291fcf1af497d1e83a31209cd01a360d", null ],
+    [ "Register", "de/d24/a26803.html#af16d0517ad07a454145da0b92c051740", null ],
+    [ "Validate", "de/d24/a26803.html#ac768a5f4738dee9ad7d885fa6136785e", null ],
+    [ "_procTargetGUID", "de/d24/a26803.html#a13976d069846f29d2f744f3f03502787", null ]
 ];

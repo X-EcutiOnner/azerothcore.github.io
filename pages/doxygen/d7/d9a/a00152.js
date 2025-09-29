@@ -1,16 +1,11 @@
 var a00152 =
 [
-    [ "Acore::CheckedBufferOutputIterator< T >", "d0/d3d/a05482.html", "d0/d3d/a05482" ],
-    [ "AddressOrSelf", "d7/d9a/a00152.html#a31c35cb4c5901c4bdb56be356d5ab9b3", null ],
-    [ "AddressOrSelf", "d7/d9a/a00152.html#aa676a34e943f3ea366194be6f31da865", null ],
-    [ "EraseIf", "d7/d9a/a00152.html#a7821713bb3723db62da8a4d0e3711407", null ],
-    [ "MapGetValuePtr", "d7/d9a/a00152.html#a288324cfca487d8ecc2eab8a6014c513", null ],
-    [ "MultimapErasePair", "d7/d9a/a00152.html#a965e5e257e71e0d1a8c708fbd00867a7", null ],
-    [ "RandomResize", "d7/d9a/a00152.html#a356dc36492769fc1473e5f5214bd6a11", null ],
-    [ "RandomResize", "d7/d9a/a00152.html#ad8b2c621f5a22f8ae253a1c9733794b9", null ],
-    [ "RandomShuffle", "d7/d9a/a00152.html#a4585a27b1f592547062d7bc039cff3b4", null ],
-    [ "SelectRandomContainerElement", "d7/d9a/a00152.html#a8ca673d18562735d4ed20a11519b3d46", null ],
-    [ "SelectRandomContainerElementIf", "d7/d9a/a00152.html#a1a2b0eddd5cd5b91e5dc86ca27f0bb86", null ],
-    [ "SelectRandomWeightedContainerElement", "d7/d9a/a00152.html#a4e1de71c76e525a6fdf4c76b0d09c94b", null ],
-    [ "SelectRandomWeightedContainerElement", "d7/d9a/a00152.html#a220cb6c43559036273f478f15d047eb9", null ]
+    [ "BaseGain", "d7/d9a/a00152.html#ada8e56c81ab672d85f2ff274d109e477", null ],
+    [ "Gain", "d7/d9a/a00152.html#ab923dd9a0df7d75127965b40539d4a10", null ],
+    [ "GetColorCode", "d7/d9a/a00152.html#a812c722ab7eb34807d8cad9659d34245", null ],
+    [ "GetGrayLevel", "d7/d9a/a00152.html#a9c310a4423fd5ada14fac549e4b1a6fd", null ],
+    [ "GetZeroDifference", "d7/d9a/a00152.html#a4152e9ef9972f6a20cbc990dce953c36", null ],
+    [ "hk_honor_at_level", "d7/d9a/a00152.html#ad25519337dcc6370a39a072c53386f55", null ],
+    [ "hk_honor_at_level_f", "d7/d9a/a00152.html#a218866625f1b3b8224fb44f5a0c8b416", null ],
+    [ "xp_in_group_rate", "d7/d9a/a00152.html#a304088bebc0743c764589112d2ba3b7f", null ]
 ];

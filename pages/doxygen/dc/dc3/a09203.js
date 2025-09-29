@@ -1,8 +1,7 @@
 var a09203 =
 [
-    [ "GameObjectListSearcher", "dc/dc3/a09203.html#a28282af745f658ad38a9492acc22b194", null ],
-    [ "Visit", "dc/dc3/a09203.html#a1dea8a4d12e916ae64f4d1129ea6d185", null ],
-    [ "Visit", "dc/dc3/a09203.html#a82522912fde5ea92f70fa76bb127504c", null ],
-    [ "i_check", "dc/dc3/a09203.html#a85a67a285acadc451978e134d80180e7", null ],
-    [ "i_phaseMask", "dc/dc3/a09203.html#aba5302d04dad7dfe3ed8dce1ec87bfbd", null ]
+    [ "GridTerrainUnloader", "dc/dc3/a09203.html#a2cae372520a8e6d6a54ad79381a844e9", null ],
+    [ "UnloadTerrain", "dc/dc3/a09203.html#ad6648cf97602141fcc64bbb6c688f6a0", null ],
+    [ "_grid", "dc/dc3/a09203.html#a94d346bc8d44f285d8cdb97736859201", null ],
+    [ "_map", "dc/dc3/a09203.html#aac1ea80c5210b25ad26f52558336c20d", null ]
 ];

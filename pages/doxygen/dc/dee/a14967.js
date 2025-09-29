@@ -1,7 +1,7 @@
 var a14967 =
 [
-    [ "boss_rajaxx", "dc/dee/a14967.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "dc/dee/a14967.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "dc/dee/a14967.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "dc/dee/a14967.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "npc_cos_chromie_middle", "dc/dee/a14967.html#a1bb7229781c122d362e781d2737d0fd3", null ],
+    [ "OnGossipHello", "dc/dee/a14967.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
+    [ "OnGossipSelect", "dc/dee/a14967.html#a37ebdd257ef22554c81cf3c062856141", null ],
+    [ "OnQuestAccept", "dc/dee/a14967.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
 ];

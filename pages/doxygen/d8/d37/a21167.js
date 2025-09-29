@@ -1,6 +1,8 @@
 var a21167 =
 [
-    [ "boss_archavonAI", "d1/d63/a21171.html", "d1/d63/a21171" ],
-    [ "boss_archavon", "d8/d37/a21167.html#a44e20480f8d86cf763afe67de49c6c33", null ],
-    [ "GetAI", "d8/d37/a21167.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
+    [ "FilterTargets", "d8/d37/a21167.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
+    [ "HandleDummyEffect", "d8/d37/a21167.html#ab1f662fa107d176386067ffc6467d90f", null ],
+    [ "PrepareSpellScript", "d8/d37/a21167.html#a069cc54bf009830ad781c790b4fcedad", null ],
+    [ "Register", "d8/d37/a21167.html#ac91532151b689bde35d7120b1e9aec5b", null ],
+    [ "Validate", "d8/d37/a21167.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
 ];

@@ -1,17 +1,5 @@
 var a22891 =
 [
-    [ "npc_akama_shade", "d8/d51/a22891.html#a95e956e162cb88d2814622bc10166ca5", null ],
-    [ "DamageTaken", "d8/d51/a22891.html#a962723ebc58a2b1f813fcc0715f9f2d2", null ],
-    [ "DoAction", "d8/d51/a22891.html#a59619f193d51e3bad05044aad2d96d9a", null ],
-    [ "EnterEvadeMode", "d8/d51/a22891.html#ae2441741caf0b91196469f67a38823bc", null ],
-    [ "JustEngagedWith", "d8/d51/a22891.html#a87df13ee30423c51e50670c535fdf99d", null ],
-    [ "JustSummoned", "d8/d51/a22891.html#a2372d2e64fb36b64f638583409cf9fa8", null ],
-    [ "MovementInform", "d8/d51/a22891.html#a4f1900d16dd36fbb9e573d59cf2176a1", null ],
-    [ "Reset", "d8/d51/a22891.html#a2d8161405dbb97cc1784e3cf49679d25", null ],
-    [ "sGossipSelect", "d8/d51/a22891.html#a8a18c7195f04caed0cf93655f556ad9a", null ],
-    [ "UpdateAI", "d8/d51/a22891.html#af9091eaa02a0967cbc2acb7d0160e5f1", null ],
-    [ "_died", "d8/d51/a22891.html#a1295073fb0f2dc19baeb16ad73ceb1df", null ],
-    [ "_generators", "d8/d51/a22891.html#a84d8d87d9bb92ba20e357d5854410a5e", null ],
-    [ "_sayLowHealth", "d8/d51/a22891.html#ae068b44aff8c9e4e1b75afab7959fda8", null ],
-    [ "instance", "d8/d51/a22891.html#a590f6a445bcda767c2197da05fc3cb15", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "d8/d51/a22891.html#a037ee225b626b64436570680ae4e9ea0", null ],
+    [ "ProcessEvent", "d8/d51/a22891.html#aba05b0edb57e6c42bd45593a51598365", null ]
 ];

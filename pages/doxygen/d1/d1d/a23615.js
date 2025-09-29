@@ -1,6 +1,6 @@
 var a23615 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "d5/d8f/a23619.html", "d5/d8f/a23619" ],
-    [ "instance_shattered_halls", "d1/d1d/a23615.html#a9d0d3b6baec34c679151791610cff3a7", null ],
-    [ "GetInstanceScript", "d1/d1d/a23615.html#a82388466811b022a725ba721845cadf3", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d1/d1d/a23615.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
+    [ "OnGameObjectCreate", "d1/d1d/a23615.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
+    [ "SetBossState", "d1/d1d/a23615.html#ab1e344fbf169ee40f28741217f3dca14", null ]
 ];

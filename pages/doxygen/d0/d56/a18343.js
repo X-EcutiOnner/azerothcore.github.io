@@ -1,6 +1,6 @@
 var a18343 =
 [
-    [ "npc_lk_spirit_bombAI", "d1/db0/a18347.html", "d1/db0/a18347" ],
-    [ "npc_lk_spirit_bomb", "d0/d56/a18343.html#acc08d41aa1761c450de782e92307ad7c", null ],
-    [ "GetAI", "d0/d56/a18343.html#ade74c00beb2da69dafb0ae93d771c430", null ]
+    [ "OrderWhelpTargetSelector", "d0/d56/a18343.html#a5e433367ebbf88c6bb8fef9d43eafcfa", null ],
+    [ "operator()", "d0/d56/a18343.html#abf98b730a2b794012c28b61ab8bb6b6c", null ],
+    [ "_owner", "d0/d56/a18343.html#ae475da3cca3d6288ce7df0b84d59005e", null ]
 ];

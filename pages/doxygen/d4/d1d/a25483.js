@@ -1,6 +1,6 @@
 var a25483 =
 [
-    [ "HandleHeal", "d4/d1d/a25483.html#a3d315ab6d76d45f3d0f5de4a312377ff", null ],
-    [ "PrepareSpellScript", "d4/d1d/a25483.html#ad77d816c82714fe2cafb4dbf48691937", null ],
-    [ "Register", "d4/d1d/a25483.html#a313abe6367e5494bd81a557ab42f9f50", null ]
+    [ "CheckRequirement", "d4/d1d/a25483.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
+    [ "PrepareSpellScript", "d4/d1d/a25483.html#aebb88f5ea803a590a099e4e6427d8276", null ],
+    [ "Register", "d4/d1d/a25483.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
 ];

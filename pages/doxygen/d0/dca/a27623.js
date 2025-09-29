@@ -1,5 +1,10 @@
 var a27623 =
 [
-    [ "npc_controller", "d0/dca/a27623.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
-    [ "OnCharmed", "d0/dca/a27623.html#a69628677de225d76a8c89b4626e0f32b", null ]
+    [ "guard_shattrath_scryerAI", "d0/dca/a27623.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "d0/dca/a27623.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "d0/dca/a27623.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "d0/dca/a27623.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "d0/dca/a27623.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "d0/dca/a27623.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "d0/dca/a27623.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

@@ -1,8 +1,6 @@
 var a16223 =
 [
-    [ "npc_toc5_player_vehicleAI", "d9/d9c/a16223.html#afa00a6254b482aae5397be04860ac8ba", null ],
-    [ "BeforeSpellClick", "d9/d9c/a16223.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
-    [ "OnCharmed", "d9/d9c/a16223.html#ace805882a25a9d075d811714e607fa2b", null ],
-    [ "PassengerBoarded", "d9/d9c/a16223.html#aca35804df751185193ff5865255d3687", null ],
-    [ "Reset", "d9/d9c/a16223.html#a5439b98d544124836d2cf9762f764cea", null ]
+    [ "boss_baltharus_the_warbornAI", "d0/dd7/a16227.html", "d0/dd7/a16227" ],
+    [ "boss_baltharus_the_warborn", "d9/d9c/a16223.html#aababb8862273d60f140dce675131783d", null ],
+    [ "GetAI", "d9/d9c/a16223.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
 ];

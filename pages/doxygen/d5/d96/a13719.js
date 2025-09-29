@@ -1,5 +1,5 @@
 var a13719 =
 [
-    [ "npc_mikhail", "d5/d96/a13719.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
-    [ "OnQuestAccept", "d5/d96/a13719.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
+    [ "at_twilight_grove", "d5/d96/a13719.html#a2ef32dbac0a35aa7dc6ebbafe926125f", null ],
+    [ "OnTrigger", "d5/d96/a13719.html#a8ee7239b8429df38a237926a7252322b", null ]
 ];

@@ -1,10 +1,7 @@
 var a14627 =
 [
-    [ "npc_hyjal_frost_wyrm", "db/d7f/a14627.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
-    [ "AttackStart", "db/d7f/a14627.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
-    [ "DoAction", "db/d7f/a14627.html#adab2b42c582cee234aea37d187b66138", null ],
-    [ "JustEngagedWith", "db/d7f/a14627.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
-    [ "PathEndReached", "db/d7f/a14627.html#a2ec3137dad743e4766ca402282d913c7", null ],
-    [ "Reset", "db/d7f/a14627.html#a550c20113f4ebe4015f9a8088888f99b", null ],
-    [ "UpdateAI", "db/d7f/a14627.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
+    [ "HandleScript", "db/d7f/a14627.html#a78899a874a645d531dd4d89f2bd5478a", null ],
+    [ "PrepareSpellScript", "db/d7f/a14627.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
+    [ "Register", "db/d7f/a14627.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
+    [ "Validate", "db/d7f/a14627.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
 ];

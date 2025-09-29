@@ -1,7 +1,6 @@
 var a19015 =
 [
-    [ "FilterTargets", "dd/d9f/a19015.html#af92aec0df6c962a10ccbebb366081cfd", null ],
-    [ "PrepareSpellScript", "dd/d9f/a19015.html#ad7ccb2b2024887ec0a9802454a8bfaec", null ],
-    [ "Register", "dd/d9f/a19015.html#af59416debfc7685bec92541a00e1dafe", null ],
-    [ "Validate", "dd/d9f/a19015.html#abbe7ae557fb510457504f72adfa0aedc", null ]
+    [ "npc_icc_severed_essenceAI", "dd/d1f/a19019.html", "dd/d1f/a19019" ],
+    [ "npc_icc_severed_essence", "dd/d9f/a19015.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
+    [ "GetAI", "dd/d9f/a19015.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
 ];

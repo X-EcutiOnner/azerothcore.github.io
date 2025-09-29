@@ -1,9 +1,25 @@
 var a10079 =
 [
-    [ "entry", "df/d54/a10079.html#a63e9b557b5e712d30580376ad811ff6c", null ],
-    [ "map", "df/d54/a10079.html#a762951c4230f0b40a59071e20852bf77", null ],
-    [ "o", "df/d54/a10079.html#a70e425f84949f6964a33250e6e9650ef", null ],
-    [ "x", "df/d54/a10079.html#a46b691dd3a31a59f56a4a7b36a35a982", null ],
-    [ "y", "df/d54/a10079.html#a38be6df7cf824ed47991c9fabb6fb06b", null ],
-    [ "z", "df/d54/a10079.html#ade7151bc8f29d91e33e7c78790d7ea55", null ]
+    [ "TaxiNodeChangeInfo", "d0/dc9/a10083.html", "d0/dc9/a10083" ],
+    [ "FlightPathMovementGenerator", "df/d54/a10079.html#a2f30b03536f0f88a4b9b541f08019af0", null ],
+    [ "DoEventIfAny", "df/d54/a10079.html#af7f2a72e9cf20bf105204b8de08400de", null ],
+    [ "DoFinalize", "df/d54/a10079.html#af4017ff6e47601f667587fb7dd6a721c", null ],
+    [ "DoInitialize", "df/d54/a10079.html#a4b0ab8a2be27b3640ff2155d734b467c", null ],
+    [ "DoReset", "df/d54/a10079.html#abd78eb2841908da8c3c18936d80f18e9", null ],
+    [ "DoUpdate", "df/d54/a10079.html#a1e4b3d248c0021a3e2a1c1446f6b7073", null ],
+    [ "GetMovementGeneratorType", "df/d54/a10079.html#a8ef0966524b238a617487bde185de6f7", null ],
+    [ "GetPath", "df/d54/a10079.html#a931a91b2e689d58098898f7b9533d632", null ],
+    [ "GetPathAtMapEnd", "df/d54/a10079.html#a0493824ba23608abcf98a156cf89bb5a", null ],
+    [ "GetResetPos", "df/d54/a10079.html#ae2cc924b7dd5252c1cb8fcf8679b7786", null ],
+    [ "HasArrived", "df/d54/a10079.html#ad4a14cf3b7497cf30e6305d52d94ecdb", null ],
+    [ "InitEndGridInfo", "df/d54/a10079.html#a6cf74faed9b8609fa74932148b6b4948", null ],
+    [ "LoadPath", "df/d54/a10079.html#ae21613bcea0003b186b08761aaf525aa", null ],
+    [ "PreloadEndGrid", "df/d54/a10079.html#ac7bb92b99dc57a2b53b0a55e0a797678", null ],
+    [ "SetCurrentNodeAfterTeleport", "df/d54/a10079.html#a7ed3028aa5d9d71cf0d889d4063fae2a", null ],
+    [ "SkipCurrentNode", "df/d54/a10079.html#a080a68e435698a14288f62ea6576a730", null ],
+    [ "_endGridX", "df/d54/a10079.html#a8dd2719a015fca9fe46c8b3586b0434c", null ],
+    [ "_endGridY", "df/d54/a10079.html#a1b0c069bcbcf3b13691b9ea80ac4c3a6", null ],
+    [ "_endMapId", "df/d54/a10079.html#aa83bc85f1b6cd6d5367d745ae31cc6fc", null ],
+    [ "_pointsForPathSwitch", "df/d54/a10079.html#a975eddf086fbd811fdebae405a62f2ea", null ],
+    [ "_preloadTargetNode", "df/d54/a10079.html#a3192e87bc06fa21ea01f99ba23fe6eb1", null ]
 ];

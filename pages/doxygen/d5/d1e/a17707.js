@@ -1,6 +1,7 @@
 var a17707 =
 [
-    [ "HandlePeriodicTick", "d5/d1e/a17707.html#a29bf443cdb53b10032ba382b8ae44828", null ],
-    [ "PrepareAuraScript", "d5/d1e/a17707.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
-    [ "Register", "d5/d1e/a17707.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
+    [ "HandleScript", "d5/d1e/a17707.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
+    [ "PrepareSpellScript", "d5/d1e/a17707.html#a8f668b88a41585cabeace574b30b4f85", null ],
+    [ "Register", "d5/d1e/a17707.html#a8fae161a91fae297b99079bde218ced8", null ],
+    [ "Validate", "d5/d1e/a17707.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
 ];

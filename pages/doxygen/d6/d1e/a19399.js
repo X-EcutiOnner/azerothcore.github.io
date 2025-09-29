@@ -1,6 +1,6 @@
 var a19399 =
 [
-    [ "PrepareSpellScript", "d6/d1e/a19399.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
-    [ "Register", "d6/d1e/a19399.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
-    [ "SetDest", "d6/d1e/a19399.html#a24341aae14ed77101d4c31f2fbe11463", null ]
+    [ "DespawnTime", "d6/d1e/a19399.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
+    [ "End", "d6/d1e/a19399.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
+    [ "Start", "d6/d1e/a19399.html#a985271de503fa704a58abe3e64c3b268", null ]
 ];

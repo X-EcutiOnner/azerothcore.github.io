@@ -1,7 +1,7 @@
 var a24535 =
 [
-    [ "CheckCast", "d0/ddf/a24535.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "d0/ddf/a24535.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "d0/ddf/a24535.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "d0/ddf/a24535.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "HandleSendEvent", "d0/ddf/a24535.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
+    [ "PrepareSpellScript", "d0/ddf/a24535.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
+    [ "Register", "d0/ddf/a24535.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
+    [ "Validate", "d0/ddf/a24535.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
 ];

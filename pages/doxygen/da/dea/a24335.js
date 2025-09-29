@@ -1,6 +1,5 @@
 var a24335 =
 [
-    [ "achievement", "da/dea/a24335.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "da/dea/a24335.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "da/dea/a24335.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "at_commander_dawnforge", "da/dea/a24335.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
+    [ "OnTrigger", "da/dea/a24335.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
 ];

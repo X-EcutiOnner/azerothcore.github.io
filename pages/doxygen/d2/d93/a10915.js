@@ -1,12 +1,8 @@
 var a10915 =
 [
-    [ "OpcodeTable", "df/d9b/a04755.html#gacb286fdd22f1781abfb0d820b1f345aa", null ],
-    [ "OpcodeTable", "df/d9b/a04755.html#ga0d719536cf746ad04a8ecc4fcca4a869", null ],
-    [ "~OpcodeTable", "df/d9b/a04755.html#gac4e0724e0795156122c4fd8f07ade628", null ],
-    [ "Initialize", "df/d9b/a04755.html#gac64814869d378e5bb7fa18144693fac1", null ],
-    [ "operator=", "df/d9b/a04755.html#ga2153d4fe6b752cc2269cbfec7e8c3c84", null ],
-    [ "operator[]", "df/d9b/a04755.html#gaa2cde2ecf8628ce12487ec9ce8fa37d1", null ],
-    [ "ValidateAndSetClientOpcode", "df/d9b/a04755.html#ga95313e8e04ed3ab47f7104db9cf1db09", null ],
-    [ "ValidateAndSetServerOpcode", "df/d9b/a04755.html#ga42b9c6fd72c2f463ab5cb3fb562151b6", null ],
-    [ "_internalTableClient", "df/d9b/a04755.html#ga8c0d7f9f6248f9652fd8b8021b9a7677", null ]
+    [ "MinimapPing", "d2/d93/a10915.html#a846074f55e6224bf322b96c7bfe9e008", null ],
+    [ "Write", "d2/d93/a10915.html#a94eb49e309ce83b04ccaf8f7e3e8bde7", null ],
+    [ "MapX", "d2/d93/a10915.html#ab747a36a7dfefb0692e8c6abb1d161e2", null ],
+    [ "MapY", "d2/d93/a10915.html#a2f8504ddba41dd09f69763d66331373b", null ],
+    [ "SourceGuid", "d2/d93/a10915.html#abf5d5980b360cbf9332460b01d5816f5", null ]
 ];

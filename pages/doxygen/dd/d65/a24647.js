@@ -1,6 +1,4 @@
 var a24647 =
 [
-    [ "CalculateAmount", "dd/d65/a24647.html#a8deb31d3b6244f4d8de6050c99b3192e", null ],
-    [ "PrepareAuraScript", "dd/d65/a24647.html#a4090baaee0e4330d3776b5774c5c923a", null ],
-    [ "Register", "dd/d65/a24647.html#a4db48f3a549a04caf746a9459b1c5640", null ]
+    [ "npc_pet_gen_moth", "dd/d65/a24647.html#a527b48528cce28f6b468af170e5ae45f", null ]
 ];

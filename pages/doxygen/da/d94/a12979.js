@@ -1,6 +1,7 @@
 var a12979 =
 [
-    [ "instance_scarlet_monastery_InstanceMapScript", "d8/d0e/a12983.html", "d8/d0e/a12983" ],
-    [ "instance_scarlet_monastery", "da/d94/a12979.html#a8f068ebd98bd81dbb60dbccd795f1f3f", null ],
-    [ "GetInstanceScript", "da/d94/a12979.html#a1c66031217457809fbe56303085715a0", null ]
+    [ "HandleDummy", "da/d94/a12979.html#ac2889b1744117f8c0bffcce04952d7c2", null ],
+    [ "PrepareSpellScript", "da/d94/a12979.html#a5738144c85424e11f33aada38273e24e", null ],
+    [ "Register", "da/d94/a12979.html#a206a4d40e082246193ba36c9080cdac1", null ],
+    [ "Validate", "da/d94/a12979.html#a0718461731d563d2c948848f60101d49", null ]
 ];

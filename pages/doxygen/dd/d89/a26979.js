@@ -1,5 +1,6 @@
 var a26979 =
 [
-    [ "achievement_bg_av_perfection", "dd/d89/a26979.html#a8a0ef996bdb1244026268922b301184c", null ],
-    [ "OnCheck", "dd/d89/a26979.html#a17e700c17b5144b571f2aeed92a77749", null ]
+    [ "CheckProc", "dd/d89/a26979.html#a945c4617cba249ee76045ce032f12c3c", null ],
+    [ "PrepareAuraScript", "dd/d89/a26979.html#abdcb401acb80eb732dbf56bbbcf79801", null ],
+    [ "Register", "dd/d89/a26979.html#a912dd7ea10038103bb6d242bb7723830", null ]
 ];

@@ -1,6 +1,7 @@
 var a00968 =
 [
-    [ "instance_culling_of_stratholme", "d1/dd6/a14974.html", "d1/dd6/a14974" ],
-    [ "instance_culling_of_stratholme::instance_culling_of_stratholme_InstanceMapScript", "d9/d6e/a14978.html", "d9/d6e/a14978" ],
-    [ "AddSC_instance_culling_of_stratholme", "d7/dd4/a00968.html#adb1b78926a09436f6897c9050ef2d9ef", null ]
+    [ "LoadPlayerSettings", "d7/dd4/a00968.html#a070b072e62079e512137662a87d710f6", null ],
+    [ "ParseSettingsData", "d7/dd4/a00968.html#aeaa79bb46d98ab2f4f5f3674d52f6745", null ],
+    [ "SerializeSettingsData", "d7/dd4/a00968.html#a2e2d73056f0c30ed8b22419fed1c3d6a", null ],
+    [ "UpdateSetting", "d7/dd4/a00968.html#ab725e991f09f03e0413ffe44fa807ead", null ]
 ];

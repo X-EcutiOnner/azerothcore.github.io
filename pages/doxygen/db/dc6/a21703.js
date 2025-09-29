@@ -1,6 +1,8 @@
 var a21703 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "d9/dc7/a21707.html", "d9/dc7/a21707" ],
-    [ "npc_injured_7th_legion_soldier", "db/dc6/a21703.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
-    [ "GetAI", "db/dc6/a21703.html#a0feca7aedcf3c07253d4d402266189cc", null ]
+    [ "HandleEffectRemove", "db/dc6/a21703.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "db/dc6/a21703.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "db/dc6/a21703.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "db/dc6/a21703.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "db/dc6/a21703.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

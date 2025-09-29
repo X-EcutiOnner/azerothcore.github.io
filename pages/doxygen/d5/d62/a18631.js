@@ -1,7 +1,5 @@
 var a18631 =
 [
-    [ "HandleEvent", "d5/d62/a18631.html#a7aea0f5c4cd3765a8266e5478322910b", null ],
-    [ "PrepareSpellScript", "d5/d62/a18631.html#a2e59f7f9eb67790c59c2e94cf877b4f3", null ],
-    [ "Register", "d5/d62/a18631.html#a96c6a479141f765b9c0f96b5f148a428", null ],
-    [ "Validate", "d5/d62/a18631.html#aa86d2cea5cb41b1e0a86248d95b5bfdb", null ]
+    [ "achievement_neck_deep_in_vile", "d5/d62/a18631.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "d5/d62/a18631.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

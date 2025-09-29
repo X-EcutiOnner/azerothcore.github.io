@@ -1,6 +1,7 @@
 var a11287 =
 [
-    [ "EffectCalcPeriodicHandler", "df/d60/a11287.html#a17288ee3b2951f1f2a8dc36a598b9a27", null ],
-    [ "Call", "df/d60/a11287.html#a6a7eeb9599a10aa4ab918a2c2456a186", null ],
-    [ "pEffectHandlerScript", "df/d60/a11287.html#a57673f457c08edfbf7fc1877aa071721", null ]
+    [ "WorldObjectSpellNearbyTargetCheck", "df/d60/a11287.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
+    [ "operator()", "df/d60/a11287.html#a731ee07d028a5ee63ecd14321c83664d", null ],
+    [ "_position", "df/d60/a11287.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
+    [ "_range", "df/d60/a11287.html#abfec0df490876b2b83dcdee4da75a77f", null ]
 ];

@@ -1,6 +1,9 @@
 var a23091 =
 [
-    [ "HandleEffectApply", "d7/ddc/a23091.html#adbfce9b247a8a36d143243955372dc91", null ],
-    [ "PrepareAuraScript", "d7/ddc/a23091.html#a7a04c4f4c9cb1070d02d58bfa3d0c8e6", null ],
-    [ "Register", "d7/ddc/a23091.html#afb919ed484440d382b9d1ac7cf6f3f14", null ]
+    [ "boss_mother_shahraz", "d7/ddc/a23091.html#adba94363f74975301472d79f24894df8", null ],
+    [ "JustDied", "d7/ddc/a23091.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
+    [ "JustEngagedWith", "d7/ddc/a23091.html#a021c702e7eff266308fee8a4220a6ec7", null ],
+    [ "KilledUnit", "d7/ddc/a23091.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
+    [ "Reset", "d7/ddc/a23091.html#ab9e4162ac92e786b84b6497c37251386", null ],
+    [ "_canTalk", "d7/ddc/a23091.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
 ];

@@ -1,6 +1,6 @@
 var a18035 =
 [
-    [ "FilterTargets", "dc/ddf/a18035.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
-    [ "PrepareSpellScript", "dc/ddf/a18035.html#a24466e7a04722cc7559b086f89d2edc8", null ],
-    [ "Register", "dc/ddf/a18035.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
+    [ "MalleableGooSelector", "dc/ddf/a18035.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
+    [ "operator()", "dc/ddf/a18035.html#adf73957539fdcc604f849944473e0015", null ],
+    [ "me", "dc/ddf/a18035.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
 ];

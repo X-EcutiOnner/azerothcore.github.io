@@ -1,6 +1,5 @@
 var a21719 =
 [
-    [ "CheckCast", "db/d4e/a21719.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
-    [ "PrepareSpellScript", "db/d4e/a21719.html#abff433d61c798d17882292b6b0956a58", null ],
-    [ "Register", "db/d4e/a21719.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
+    [ "npc_khunok_the_behemothAI", "db/d4e/a21719.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
+    [ "MoveInLineOfSight", "db/d4e/a21719.html#a5d54954a159da764aa7b83579e03688c", null ]
 ];

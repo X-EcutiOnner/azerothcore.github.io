@@ -1,6 +1,11 @@
 var a08747 =
 [
-    [ "BuildValuesCachedBuffer", "d1/d45/a08747.html#a87a3167ae060c8556700e4a137294053", null ],
-    [ "buffer", "d1/d45/a08747.html#add7150533a48434b0e606add9cff04d2", null ],
-    [ "posPointers", "d1/d45/a08747.html#affa098684782f15383a7df063b178cf1", null ]
+    [ "DispelInfo", "d1/d45/a08747.html#ab6e88e6fc168d22a8b31754a9b1bf2e5", null ],
+    [ "GetDispeller", "d1/d45/a08747.html#a1c6f02de66ffa847c09d19922b02bc20", null ],
+    [ "GetDispellerSpellId", "d1/d45/a08747.html#a0d09f205ff9374fddc694a66ccf0c31d", null ],
+    [ "GetRemovedCharges", "d1/d45/a08747.html#a9c0bd34ebe7d0a0839b7bdee31ef3f3d", null ],
+    [ "SetRemovedCharges", "d1/d45/a08747.html#a3c249e2b70b9f4d8bb3bd9fed07a1bd7", null ],
+    [ "_chargesRemoved", "d1/d45/a08747.html#a5b6105f37470acb57bbda3e14ee664be", null ],
+    [ "_dispellerSpell", "d1/d45/a08747.html#a484e6d516c5de30413e97f2c4abb5515", null ],
+    [ "_dispellerUnit", "d1/d45/a08747.html#ab14d6e0df8bbb89ef0d3550724209040", null ]
 ];

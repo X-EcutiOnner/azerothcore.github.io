@@ -1,8 +1,6 @@
 var a20883 =
 [
-    [ "FilterTargets", "da/d7c/a20883.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "da/d7c/a20883.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "da/d7c/a20883.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "da/d7c/a20883.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "da/d7c/a20883.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "boss_thorim_arena_npcsAI", "d7/d75/a20887.html", "d7/d75/a20887" ],
+    [ "boss_thorim_arena_npcs", "da/d7c/a20883.html#a60d22280bb1eb3c9da92deb08e887942", null ],
+    [ "GetAI", "da/d7c/a20883.html#a3709e1c9df32755f5932398ba3535f2f", null ]
 ];

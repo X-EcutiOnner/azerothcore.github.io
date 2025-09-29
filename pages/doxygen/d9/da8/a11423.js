@@ -1,9 +1,6 @@
 var a11423 =
 [
-    [ "ClientKeySeed", "d9/da8/a11423.html#a3e2df88e6fd716030d70a77850e96970", null ],
-    [ "ClientKeySeedHash", "d9/da8/a11423.html#ae2523827d6f9abae5eed0b463c00062f", null ],
-    [ "Module", "d9/da8/a11423.html#a1fcce28666a614c83d06729bc9c88bb4", null ],
-    [ "ModuleKey", "d9/da8/a11423.html#ac34f4c4997f5f64a9dcf4ad7d914a215", null ],
-    [ "Seed", "d9/da8/a11423.html#a3c8e1b5c642f12e29837800f0428f34e", null ],
-    [ "ServerKeySeed", "d9/da8/a11423.html#ad29fe1f9ba6ef32f1d35657683b0e11b", null ]
+    [ "BeforeHitHandler", "d9/da8/a11423.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
+    [ "Call", "d9/da8/a11423.html#a393057cca72c41e193508bf150ed0b1f", null ],
+    [ "_pBeforeHitHandlerScript", "d9/da8/a11423.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
 ];

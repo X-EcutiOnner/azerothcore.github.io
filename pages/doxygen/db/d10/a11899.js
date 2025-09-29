@@ -1,6 +1,6 @@
 var a11899 =
 [
-    [ "boss_high_interrogator_gerstahnAI", "d2/d5a/a11903.html", "d2/d5a/a11903" ],
-    [ "boss_high_interrogator_gerstahn", "db/d10/a11899.html#a700eb542c041e9ca540f2676fc42aff9", null ],
-    [ "GetAI", "db/d10/a11899.html#ab4e92847a1ce6bf50f0ae460c1a7108f", null ]
+    [ "player_settings_commandscript", "db/d10/a11899.html#ab8585064d4d358d7d48eed97379a3a78", null ],
+    [ "GetCommands", "db/d10/a11899.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
+    [ "HandleSettingsAnnouncerFlags", "db/d10/a11899.html#af505117caa66ed4222e52ff91c486b6e", null ]
 ];

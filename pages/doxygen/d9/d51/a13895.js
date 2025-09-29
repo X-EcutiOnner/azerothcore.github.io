@@ -1,8 +1,6 @@
 var a13895 =
 [
-    [ "boss_grilekAI", "d9/d51/a13895.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
-    [ "JustEngagedWith", "d9/d51/a13895.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
-    [ "Reset", "d9/d51/a13895.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
-    [ "UpdateAI", "d9/d51/a13895.html#a19438103c9a582a7d36d805c80131e8c", null ],
-    [ "_pursuitTargetGUID", "d9/d51/a13895.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
+    [ "npc_parqual_fintallas", "d9/d51/a13895.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
+    [ "OnGossipHello", "d9/d51/a13895.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
+    [ "OnGossipSelect", "d9/d51/a13895.html#a39276ef82ec5214a1727ebd60235a506", null ]
 ];

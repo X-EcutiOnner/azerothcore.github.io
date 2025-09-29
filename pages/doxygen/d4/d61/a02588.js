@@ -1,56 +1,113 @@
 var a02588 =
 [
-    [ "go_shadowforge_brazier", "d4/dc3/a11982.html", "d4/dc3/a11982" ],
-    [ "ironhand_guardian", "d9/d02/a11986.html", "d9/d02/a11986" ],
-    [ "ironhand_guardian::ironhand_guardianAI", "df/dc0/a11990.html", "df/dc0/a11990" ],
-    [ "WaveCreature", "dd/d2f/a11994.html", "dd/d2f/a11994" ],
-    [ "at_ring_of_law", "d7/d10/a11998.html", "d7/d10/a11998" ],
-    [ "npc_grimstone", "d8/dae/a12002.html", "d8/dae/a12002" ],
-    [ "npc_grimstone::npc_grimstoneAI", "d3/d86/a12006.html", "d3/d86/a12006" ],
-    [ "npc_phalanx", "dd/dbc/a12010.html", "dd/dbc/a12010" ],
-    [ "npc_phalanx::npc_phalanxAI", "d2/d2c/a12014.html", "d2/d2c/a12014" ],
-    [ "npc_lokhtos_darkbargainer", "d7/d87/a12018.html", "d7/d87/a12018" ],
-    [ "npc_rocknot", "d9/df9/a12022.html", "d9/df9/a12022" ],
-    [ "npc_rocknot::npc_rocknotAI", "d8/d02/a12026.html", "d8/d02/a12026" ],
-    [ "GrimstoneTexts", "d4/d61/a02588.html#a0c9ac53db659fd636b9dc88ea37a3954", [
-      [ "SAY_TEXT1", "d4/d61/a02588.html#a0c9ac53db659fd636b9dc88ea37a3954abe56e2dc1daa55ecb206c40203e2c43f", null ],
-      [ "SAY_TEXT2", "d4/d61/a02588.html#a0c9ac53db659fd636b9dc88ea37a3954ab6be9087c9f91d239f09f746f54c7134", null ],
-      [ "SAY_TEXT3", "d4/d61/a02588.html#a0c9ac53db659fd636b9dc88ea37a3954a2ba8965d5901749a12d1480d8ac009b9", null ],
-      [ "SAY_TEXT4", "d4/d61/a02588.html#a0c9ac53db659fd636b9dc88ea37a3954a07d6839dbfc7d4b3580bfa4dbafd9e5c", null ],
-      [ "SAY_TEXT5", "d4/d61/a02588.html#a0c9ac53db659fd636b9dc88ea37a3954abb8aafd7f2dbaa933f3d2c0f858cc16d", null ],
-      [ "SAY_TEXT6", "d4/d61/a02588.html#a0c9ac53db659fd636b9dc88ea37a3954a5b808298bfd32a4b30c81da55f921803", null ]
+    [ "MidsummerPlayerScript", "dc/d80/a14639.html", "dc/d80/a14639" ],
+    [ "npc_midsummer_bonfire", "d0/d34/a14643.html", "d0/d34/a14643" ],
+    [ "npc_midsummer_bonfire_despawner", "da/d0c/a14647.html", "da/d0c/a14647" ],
+    [ "spell_fire_festival_fortitude", "dc/d7d/a14651.html", "dc/d7d/a14651" ],
+    [ "spell_bonfires_blessing", "d3/dde/a14655.html", "d3/dde/a14655" ],
+    [ "spell_gen_crab_disguise", "d1/d5a/a14659.html", "d1/d5a/a14659" ],
+    [ "npc_midsummer_ribbon_pole_target", "de/dd0/a14663.html", "de/dd0/a14663" ],
+    [ "spell_midsummer_ribbon_pole_firework", "d7/d94/a14667.html", "d7/d94/a14667" ],
+    [ "spell_midsummer_ribbon_pole", "db/d91/a14671.html", "db/d91/a14671" ],
+    [ "spell_midsummer_ribbon_pole_visual", "d0/de8/a14675.html", "d0/de8/a14675" ],
+    [ "spell_braziers_hit", "d9/d93/a14679.html", "d9/d93/a14679" ],
+    [ "spell_torch_target_picker", "d7/d4a/a14683.html", "d7/d4a/a14683" ],
+    [ "spell_torch_tossing_training", "db/da4/a14687.html", "db/da4/a14687" ],
+    [ "spell_midsummer_fling_torch", "d5/d3a/a14691.html", "d5/d3a/a14691" ],
+    [ "spell_midsummer_juggling_torch", "dd/dee/a14695.html", "dd/dee/a14695" ],
+    [ "spell_midsummer_torch_catch", "d5/d78/a14699.html", "d5/d78/a14699" ],
+    [ "spell_midsummer_summon_ahune_lieutenant", "da/d26/a14703.html", "da/d26/a14703" ],
+    [ "CrabDisguise", "d4/d61/a02588.html#afd8a3a151093c0630847d5c80e1f854f", [
+      [ "SPELL_CRAB_DISGUISE", "d4/d61/a02588.html#afd8a3a151093c0630847d5c80e1f854fa183b2dd04793fbe4c195242a3a2bccf5", null ],
+      [ "SPELL_APPLY_DIGUISE", "d4/d61/a02588.html#afd8a3a151093c0630847d5c80e1f854fafe8114d2aab172e16869e5adbdd3cbc7", null ],
+      [ "SPELL_FADE_DIGUISE", "d4/d61/a02588.html#afd8a3a151093c0630847d5c80e1f854fab392a22637923eff71caf3a47749ca9a", null ]
     ] ],
-    [ "IronhandData", "d4/d61/a02588.html#a2351df48f090013a8239bcb029c39779", [
-      [ "IRONHAND_FLAMES_TIMER", "d4/d61/a02588.html#a2351df48f090013a8239bcb029c39779abbe9eb5c7fa7c6fdad2b47486ffaca97", null ],
-      [ "IRONHAND_FLAMES_TIMER_RAND", "d4/d61/a02588.html#a2351df48f090013a8239bcb029c39779ac69d13ee833747626073318984c0b3eb", null ],
-      [ "IRONHAND_N_GROUPS", "d4/d61/a02588.html#a2351df48f090013a8239bcb029c39779a066afe62759b3706fe8a3ad01ff12451", null ],
-      [ "SPELL_GOUT_OF_FLAMES", "d4/d61/a02588.html#a2351df48f090013a8239bcb029c39779a3b6e8dcf51592d02d02bda14669cb90a", null ]
+    [ "eBonfire", "d4/d61/a02588.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47", [
+      [ "GO_MIDSUMMER_BONFIRE_SPELL_FOCUS", "d4/d61/a02588.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47a5b905597e6cf5569f7af2a62488a074a", null ],
+      [ "GO_MIDSUMMER_BONFIRE_CAMPFIRE_SPELL_FOCUS", "d4/d61/a02588.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47a80aee8d9249a6c8384fccb50cf8e30af", null ],
+      [ "GO_AHUNE_BONFIRE", "d4/d61/a02588.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47afc32c19dca35b9b0e3396f034067d7a5", null ],
+      [ "SPELL_MIDSUMMER_BONFIRE_BUNNIES_2", "d4/d61/a02588.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47a1a15da5e52dc70bcee3b2e1048100da2", null ],
+      [ "SPELL_STAMP_OUT_BONFIRE", "d4/d61/a02588.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47a0f5326e1703b8f8cf5486ffd73a16522", null ],
+      [ "SPELL_STAMP_OUT_BONFIRE_ART_KIT", "d4/d61/a02588.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47a186e869e13ee2592310d3e72dbe637f8", null ],
+      [ "SPELL_TOSS_FUEL_ON_BONFIRE", "d4/d61/a02588.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47a9cdfcb34244939471f66271511059ba9", null ],
+      [ "SPELL_LIGHT_BONFIRE_ART_KIT", "d4/d61/a02588.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47a075c32874ac079a3b6918e26bb4642ca", null ],
+      [ "SPELL_BONFIRES_BLESSING", "d4/d61/a02588.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47addb53f7d8e475e6a696de82fb90e4394", null ],
+      [ "BONFIRE_TYPE_NONE", "d4/d61/a02588.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47a2ccf1f27c2cad014f4aef0d66b088cfc", null ],
+      [ "BONFIRE_TYPE_ALLIANCE", "d4/d61/a02588.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47a88a3cb2e1b9a88b975719a4073b13060", null ],
+      [ "BONFIRE_TYPE_HORDE", "d4/d61/a02588.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47aa882cffd7f20e9038067abc702080c0d", null ],
+      [ "BONFIRE_TYPE_CITY", "d4/d61/a02588.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47a7678d46be5b43b944f3025b84d825a54", null ],
+      [ "BONFIRE_TYPE_AHUNE", "d4/d61/a02588.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47aa07e85d01a0908b61a98a6076edcd6a2", null ],
+      [ "COUNT_GO_BONFIRE_ALLIANCE", "d4/d61/a02588.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47a9669232cd00471cd6482f33ac937131c", null ],
+      [ "COUNT_GO_BONFIRE_HORDE", "d4/d61/a02588.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47a03381e78c06d8d798df0ae4d0c10555a", null ],
+      [ "COUNT_GO_BONFIRE_CITY", "d4/d61/a02588.html#a4ecd6ad6b0b0972c78e0e7b2a0463d47a2dce8cb63540ed1dc80cba135cfaf67b", null ]
     ] ],
-    [ "LokhtosItems", "d4/d61/a02588.html#a2399740be44cbcc9b6a925a61d042f94", [
-      [ "ITEM_THRORIUM_BROTHERHOOD_CONTRACT", "d4/d61/a02588.html#a2399740be44cbcc9b6a925a61d042f94a8abbc79e28968f5cdca0fc6e1b0df40b", null ],
-      [ "ITEM_SULFURON_INGOT", "d4/d61/a02588.html#a2399740be44cbcc9b6a925a61d042f94ac62a268f952750403ff0af9ac3cc7700", null ]
+    [ "eJuggle", "d4/d61/a02588.html#af5a1b7acbac947ea58c140c1fac5090e", [
+      [ "SPELL_JUGGLE_SELF", "d4/d61/a02588.html#af5a1b7acbac947ea58c140c1fac5090ea984aba85c4d3dc2b79534ed149330a07", null ],
+      [ "SPELL_JUGGLE_SLOW", "d4/d61/a02588.html#af5a1b7acbac947ea58c140c1fac5090ea8f2ff939af4f858097368acaff2fbfca", null ],
+      [ "SPELL_JUGGLE_MED", "d4/d61/a02588.html#af5a1b7acbac947ea58c140c1fac5090eada71863a07a8a1df8b4c956b71c9d619", null ],
+      [ "SPELL_JUGGLE_FAST", "d4/d61/a02588.html#af5a1b7acbac947ea58c140c1fac5090ea7dd2ae7a70ff82391f6d9ad7ce56d926", null ],
+      [ "SPELL_TORCH_CHECK", "d4/d61/a02588.html#af5a1b7acbac947ea58c140c1fac5090ea1e0d252cd126fa3b36eadae37eecf001", null ],
+      [ "SPELL_GIVE_TORCH", "d4/d61/a02588.html#af5a1b7acbac947ea58c140c1fac5090ea3d3c09529e7d370dc482d6513f0e6f7d", null ],
+      [ "QUEST_TORCH_CATCHING_A", "d4/d61/a02588.html#af5a1b7acbac947ea58c140c1fac5090ea19486b394db0d4ffd7f6a1d03467e6e2", null ],
+      [ "QUEST_TORCH_CATCHING_H", "d4/d61/a02588.html#af5a1b7acbac947ea58c140c1fac5090ea1ec7c6531ce426f6ecdc3ecca3a2e80f", null ],
+      [ "SPELL_TORCH_SHADOW_SELF", "d4/d61/a02588.html#af5a1b7acbac947ea58c140c1fac5090ea71fe142c6a982940dc042748bf2d1f1c", null ],
+      [ "SPELL_TORCH_SHADOW_SLOW", "d4/d61/a02588.html#af5a1b7acbac947ea58c140c1fac5090eaa5f003f81344b4b63c66e9d688cf5ab7", null ],
+      [ "SPELL_TORCH_SHADOW_MED", "d4/d61/a02588.html#af5a1b7acbac947ea58c140c1fac5090ea08bfefd859c05db55966079e53275402", null ],
+      [ "SPELL_TORCH_SHADOW_FAST", "d4/d61/a02588.html#af5a1b7acbac947ea58c140c1fac5090eadb3e5a1b658501535c8e1b684930c8c5", null ]
     ] ],
-    [ "LokhtosQuests", "d4/d61/a02588.html#a45b983ab1cb7b86457cb9e2996c3db7e", [
-      [ "QUEST_A_BINDING_CONTRACT", "d4/d61/a02588.html#a45b983ab1cb7b86457cb9e2996c3db7ea67a74b63a45269bd88d4e62ac086b7e6", null ]
+    [ "flingTorch", "d4/d61/a02588.html#a5f92bb894fc1c31a174dd327b647bdfa", [
+      [ "NPC_TORCH_TARGET", "d4/d61/a02588.html#a5f92bb894fc1c31a174dd327b647bdfaa1292cbd87ba682a3a9e1a49c407d84c8", null ],
+      [ "SPELL_FLING_TORCH", "d4/d61/a02588.html#a5f92bb894fc1c31a174dd327b647bdfaaa97ee61e079ff5f21e2d293fb7984f7b", null ],
+      [ "SPELL_FLING_TORCH_DUMMY", "d4/d61/a02588.html#a5f92bb894fc1c31a174dd327b647bdfaac9b935cf14c05cae8fd6f39e9ef955dd", null ],
+      [ "SPELL_MISSED_TORCH", "d4/d61/a02588.html#a5f92bb894fc1c31a174dd327b647bdfaae7c6c87c1fbfc863a3d0ccbb79ecdc95", null ],
+      [ "SPELL_TORCH_COUNTER", "d4/d61/a02588.html#a5f92bb894fc1c31a174dd327b647bdfaa760f425c5513e45132f796fe7eb82ddc", null ],
+      [ "SPELL_TORCH_SHADOW", "d4/d61/a02588.html#a5f92bb894fc1c31a174dd327b647bdfaa3f3c773aab27e070a354e1688d7a9b22", null ],
+      [ "SPELL_TORCH_CATCH_SUCCESS_A", "d4/d61/a02588.html#a5f92bb894fc1c31a174dd327b647bdfaa7f2c6b8fb32596153dc95e8fcbdfef0f", null ],
+      [ "SPELL_TORCH_CATCH_SUCCESS_H", "d4/d61/a02588.html#a5f92bb894fc1c31a174dd327b647bdfaa6a19486e91f83430c2c213db4b909b12", null ],
+      [ "SPELL_JUGGLE_TORCH", "d4/d61/a02588.html#a5f92bb894fc1c31a174dd327b647bdfaa4788e52cdcb225f1c60f0a3b448f230c", null ],
+      [ "QUEST_MORE_TORCH_TOSS_A", "d4/d61/a02588.html#a5f92bb894fc1c31a174dd327b647bdfaabd2e316629058e902b336af9194906c5", null ],
+      [ "QUEST_MORE_TORCH_TOSS_H", "d4/d61/a02588.html#a5f92bb894fc1c31a174dd327b647bdfaa4725f163c0cd896fa7942357796a442d", null ]
     ] ],
-    [ "LokhtosSpells", "d4/d61/a02588.html#afc72f18a766ff75425d24ce4bff0b174", [
-      [ "SPELL_CREATE_THORIUM_BROTHERHOOD_CONTRACT_DND", "d4/d61/a02588.html#afc72f18a766ff75425d24ce4bff0b174a225499c386065b2bb904086ec6bc68c7", null ]
+    [ "RibbonPole", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8", [
+      [ "GO_RIBBON_POLE", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a9a4d9a8fd5ebbbccd0216f9a56aa703b", null ],
+      [ "SPELL_RIBBON_POLE_CHANNEL_VISUAL", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a7af886c662603ca66f54be4f2fedc226", null ],
+      [ "SPELL_RIBBON_POLE_CHANNEL_VISUAL_2", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a6a5ec1b6657d29d6e89e8eee2fa18153", null ],
+      [ "SPELL_TEST_RIBBON_POLE_CHANNEL_BLUE", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a4cc1380e10f24f803c1a4390bdf1cdac", null ],
+      [ "SPELL_TEST_RIBBON_POLE_CHANNEL_RED", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a1b14a874fceb6d479d7d391ffc180c72", null ],
+      [ "SPELL_TEST_RIBBON_POLE_CHANNEL_PINK", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a1dbd999db575a725dc4700d5e3d86bcb", null ],
+      [ "SPELL_RIBBON_POLE_PERIODIC_VISUAL", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a39162eed8eee62ea3eaf576a2c263e48", null ],
+      [ "SPELL_RIBBON_POLE_FIRE_SPIRAL_VISUAL", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a1ae4ee4a087f8fd77002a905ff85a0f1", null ],
+      [ "SPELL_FLAME_RING", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a6e88d9e7d9ce6bbf7622a4aafb3ec9c0", null ],
+      [ "SPELL_FLAME_PATCH", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8aaac20b59532e49f55778ef45cd571b90", null ],
+      [ "SPELL_RIBBON_POLE_FIREWORK", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a5e4f6bb168096a478efd59dfde114712", null ],
+      [ "SPELL_RIBBON_POLE_GROUND_FLOWER", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a625cce4df3497051236db7473591db6d", null ],
+      [ "SPELL_RIBBON_POLE_XP", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a304c9ae95c24a888f083b10ba99b3ac1", null ],
+      [ "NPC_RIBBON_POLE_DEBUG_TARGET", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a78d3fa7276241b6463778c06f8229f9c", null ],
+      [ "NPC_GROUND_FLOWER", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8ab33529fa6cd4798fd97fd59def754d9e", null ],
+      [ "NPC_BIG_DANCING_FLAMES", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a21de0b04b4f5afb7dafb21e70a5e42d7", null ],
+      [ "NPC_RIBBON_POLE_FIRE_SPIRAL_BUNNY", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8ab11d35a58b32f0e98bf637569790d55b", null ],
+      [ "THRESHOLD_FLAME_CIRCLE", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a2ded3f50e0ebe0dacb11560b0c44a1f2", null ],
+      [ "THRESHOLD_FIREWORK", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a47dfc3e48b58c9e54a8a7ecd14e37de7", null ],
+      [ "THRESHOLD_FIREWORK_3", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8aed0e31ce85136ef3aa237f516423709a", null ],
+      [ "THRESHOLD_FIREWORK_5", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a6bc9c4c5d5cc0f5a3606f2ea3d63ea11", null ],
+      [ "THRESHOLD_GROUND_FLOWERS", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a8c67498feb5e802c790a46ecb8685131", null ],
+      [ "THRESHOLD_SPEW_LAVA", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a8b6afb9d0d097092e3dcb18301b767de", null ],
+      [ "THRESHOLD_DANCING_FLAMES", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8ac277789c6b2e7df2c24156b4f84123b5", null ],
+      [ "MAX_COUNT_GROUND_FLOWERS", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a37412f6b859742a1ba6475cc9fe4fd32", null ],
+      [ "MAX_COUNT_SPEW_LAVA_TARGETS", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8acfe7e5ea70c906f60fdfe4985f62f230", null ],
+      [ "MAX_COUNT_DANCING_FLAMES", "d4/d61/a02588.html#a7ab184578dd394f6afeb86b5811f73f8a0742582fb100a048256a524bf04d7f41", null ]
     ] ],
-    [ "PhalanxSpells", "d4/d61/a02588.html#a4e5bf673237e04bd7162baff3a0cec21", [
-      [ "SPELL_THUNDERCLAP", "d4/d61/a02588.html#a4e5bf673237e04bd7162baff3a0cec21a7f4e66bb0a1b5b2705975420f645b16e", null ],
-      [ "SPELL_FIREBALLVOLLEY", "d4/d61/a02588.html#a4e5bf673237e04bd7162baff3a0cec21a725c2e5b9167c2cb646bf3e8c31492df", null ],
-      [ "SPELL_MIGHTYBLOW", "d4/d61/a02588.html#a4e5bf673237e04bd7162baff3a0cec21a16caf5a86b691c031c87f3f5ea65a251", null ]
+    [ "torchToss", "d4/d61/a02588.html#a73463c70074ccf447c19b49fe6272503", [
+      [ "SPELL_TORCH_TOSSING_TRAINING_SUCCESS_A", "d4/d61/a02588.html#a73463c70074ccf447c19b49fe6272503a7aad8d11a3be0b5a3eb37212a8e2c3a1", null ],
+      [ "SPELL_TORCH_TOSSING_TRAINING_SUCCESS_H", "d4/d61/a02588.html#a73463c70074ccf447c19b49fe6272503a47623396578851d7e67587407b4721b4", null ],
+      [ "SPELL_TORCH_TOSSING_TRAINING", "d4/d61/a02588.html#a73463c70074ccf447c19b49fe6272503a6d3953a63d1aba327ebd94eb09378d46", null ],
+      [ "SPELL_TORCH_TOSSING_PRACTICE", "d4/d61/a02588.html#a73463c70074ccf447c19b49fe6272503ab760b1cabd3f1be9752d9346929b67c0", null ],
+      [ "SPELL_REMOVE_TORCHES", "d4/d61/a02588.html#a73463c70074ccf447c19b49fe6272503a43263946ad087cbfa8b08e5783b90641", null ]
     ] ],
-    [ "RocknotQuests", "d4/d61/a02588.html#a6b0d084d8af18bd5f9b8b009e51137db", [
-      [ "QUEST_ALE", "d4/d61/a02588.html#a6b0d084d8af18bd5f9b8b009e51137dba736905032af28505a38a22a718e1c17a", null ]
-    ] ],
-    [ "RocknotSays", "d4/d61/a02588.html#a0fcf46ec361ec3eb9f40c6701294d8e0", [
-      [ "SAY_GOT_BEER", "d4/d61/a02588.html#a0fcf46ec361ec3eb9f40c6701294d8e0a907cae969cb1fc078f260cc54dc01e22", null ]
-    ] ],
-    [ "RocknotSpells", "d4/d61/a02588.html#aecb1fc71fc0abbbddedbf095e934edb4", [
-      [ "SPELL_DRUNKEN_RAGE", "d4/d61/a02588.html#aecb1fc71fc0abbbddedbf095e934edb4a4523bad97d4b588a1cf849bee5a67125", null ]
-    ] ],
-    [ "AddSC_blackrock_depths", "d4/d61/a02588.html#a2070b23fe45e3ac60f1b2db9b07efb22", null ],
-    [ "RingBoss", "d4/d61/a02588.html#af2fce71fa3dcd5348828dd274e1872ec", null ],
-    [ "RingMobs", "d4/d61/a02588.html#a26123366b238dd51ab03de9e763db822", null ]
+    [ "AddSC_event_midsummer_scripts", "d4/d61/a02588.html#adc17dd3d30524a3c73b564d6eed54f1c", null ],
+    [ "BonfireStampedOutState", "d4/d61/a02588.html#a5d0b0c73af98ce322c8064d69bcbb6a9", null ],
+    [ "BonfireStateStore", "d4/d61/a02588.html#a846338a1be34d95d2629c7f5660eb80b", null ],
+    [ "GoBonfireAlliance", "d4/d61/a02588.html#a6169a8d5b5053b20821b6c5c299ffd0a", null ],
+    [ "GoBonfireCity", "d4/d61/a02588.html#a972f0e92295e2837999c6e1cb5c56cfa", null ],
+    [ "GoBonfireHorde", "d4/d61/a02588.html#a062653dfa3661348a9ceb6f304df9d22", null ]
 ];

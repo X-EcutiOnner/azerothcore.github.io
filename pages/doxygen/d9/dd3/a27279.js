@@ -1,5 +1,5 @@
 var a27279 =
 [
-    [ "go_jotunheim_cage", "d9/dd3/a27279.html#a28c9312de97a822e34f05c7358b42df4", null ],
-    [ "OnGossipHello", "d9/dd3/a27279.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
+    [ "achievement_sa_defense_of_the_ancients", "d9/dd3/a27279.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "d9/dd3/a27279.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

@@ -1,6 +1,8 @@
 var a10627 =
 [
-    [ "GuildOfficerRemoveMember", "df/ddc/a10627.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
-    [ "Read", "df/ddc/a10627.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
-    [ "Removee", "df/ddc/a10627.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
+    [ "GuildCommandResult", "df/ddc/a10627.html#a9b82d7f9fe8f9b42fb4ed74c14cba03d", null ],
+    [ "Write", "df/ddc/a10627.html#a621e211342b3bf9b5de01a9a3b66291b", null ],
+    [ "Command", "df/ddc/a10627.html#a099cf9f39c403f76971d006245b03f29", null ],
+    [ "Name", "df/ddc/a10627.html#a122ee78cb5fc38aa7ecd7a2cad8a33cc", null ],
+    [ "Result", "df/ddc/a10627.html#a8b6b2127aa39807a61bf0cc3cce15921", null ]
 ];

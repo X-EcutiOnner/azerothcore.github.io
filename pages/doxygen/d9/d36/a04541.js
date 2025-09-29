@@ -1,5 +1,7 @@
 var a04541 =
 [
-    [ "HMAC_RESULT_SIZE", "d9/d36/a04541.html#abdb09168f87cd99a498636550843012d", null ],
-    [ "TOTP_INTERVAL", "d9/d36/a04541.html#abcaccdfb09251b1b2856cc0c48c64eda", null ]
+    [ "Crash", "d9/d36/a04541.html#a510bae7d9948cf497418ec913452009f", null ],
+    [ "GetDebugInfo", "d9/d36/a04541.html#a29601d3ea684d75bac9c331eb4866951", null ],
+    [ "MakeAbortMessage", "d9/d36/a04541.html#a52b8a43ee2424672ac8de45dcc283eda", null ],
+    [ "MakeMessage", "d9/d36/a04541.html#a31219fe016a9b170fc6ae111157ba552", null ]
 ];

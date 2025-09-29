@@ -1,7 +1,9 @@
 var a27907 =
 [
-    [ "Class", "d1/dd5/a27907.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
-    [ "Gender", "d1/dd5/a27907.html#aba6251a7020c6e66b9fc7a21859df271", null ],
-    [ "ItemId", "d1/dd5/a27907.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
-    [ "Race", "d1/dd5/a27907.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
+    [ "npc_arcanite_dragonling", "d1/dd5/a27907.html#a9b7e4cefa312a16c90018d655ad94758", null ],
+    [ "CanAIAttack", "d1/dd5/a27907.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
+    [ "IsSummonedBy", "d1/dd5/a27907.html#a921b35a91c4f21258efdb41fd87413db", null ],
+    [ "JustEngagedWith", "d1/dd5/a27907.html#a65f6d779681861117f750b70154b3e0d", null ],
+    [ "Reset", "d1/dd5/a27907.html#a4468d91430add821bf7a7ab11d8063da", null ],
+    [ "UpdateAI", "d1/dd5/a27907.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
 ];

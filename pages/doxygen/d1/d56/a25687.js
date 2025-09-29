@@ -1,6 +1,10 @@
 var a25687 =
 [
-    [ "HandleProc", "d1/d56/a25687.html#aa333d52d905e722554d8d61c4b9cb656", null ],
-    [ "PrepareAuraScript", "d1/d56/a25687.html#aac4320b061d627e4ffef737d2e858ef3", null ],
-    [ "Register", "d1/d56/a25687.html#ad58fea9afa6a3596437a324ec525982e", null ]
+    [ "ApplyMarker", "d1/d56/a25687.html#aae1bd2f5f21a389e8d110cabecc9d94d", null ],
+    [ "CheckTrapProc", "d1/d56/a25687.html#a00f06f18b6874302f88c3af193d8e4ed", null ],
+    [ "HandleProcs", "d1/d56/a25687.html#a81abe76c24a6a6320811d99ce8f5fb4f", null ],
+    [ "IsTargetValid", "d1/d56/a25687.html#a02590da9b97a4d6bc7a6cbd0e670480f", null ],
+    [ "PrepareAuraScript", "d1/d56/a25687.html#a475320d20875b2d710ed3734b78f4645", null ],
+    [ "Register", "d1/d56/a25687.html#aca7649a87ace4e22793ca33705b1500c", null ],
+    [ "Validate", "d1/d56/a25687.html#a45630b6dc703996321286ff16a17e3e3", null ]
 ];

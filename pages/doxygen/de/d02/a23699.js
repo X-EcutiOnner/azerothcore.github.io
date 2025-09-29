@@ -1,7 +1,6 @@
 var a23699 =
 [
-    [ "boss_warp_splinter", "de/d02/a23699.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
-    [ "JustDied", "de/d02/a23699.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
-    [ "JustEngagedWith", "de/d02/a23699.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
-    [ "KilledUnit", "de/d02/a23699.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
+    [ "HandleScriptEffect", "de/d02/a23699.html#abba5817280db6579e3e6e0b964655c6e", null ],
+    [ "PrepareSpellScript", "de/d02/a23699.html#a846fa43c9907ddb6243c006327757a1c", null ],
+    [ "Register", "de/d02/a23699.html#a7daa26f4035912bff4811b0bfee35fee", null ]
 ];

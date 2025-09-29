@@ -1,6 +1,6 @@
 var a18859 =
 [
-    [ "npc_ioc_gunship_captainAI", "d9/d2b/a18863.html", "d9/d2b/a18863" ],
-    [ "npc_ioc_gunship_captain", "d0/d04/a18859.html#a6463d7bc12d5fe4fc8921ba5916ec906", null ],
-    [ "GetAI", "d0/d04/a18859.html#a43f3ce178df31fbf693acbfa8c32a339", null ]
+    [ "npc_captain_rupertAI", "d0/d04/a18859.html#ae91de64c440e71e612f34e37b90076d5", null ],
+    [ "Reset", "d0/d04/a18859.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
+    [ "UpdateAI", "d0/d04/a18859.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
 ];

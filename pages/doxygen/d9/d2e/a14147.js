@@ -1,9 +1,6 @@
 var a14147 =
 [
-    [ "npc_brew_bubble", "d9/d2e/a14147.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
-    [ "DoAction", "d9/d2e/a14147.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
-    [ "MoveInLineOfSight", "d9/d2e/a14147.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
-    [ "Reset", "d9/d2e/a14147.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
-    [ "UpdateAI", "d9/d2e/a14147.html#a25018deaa206620f6e98ba722f689b8d", null ],
-    [ "timer", "d9/d2e/a14147.html#a4bee73add756ba4b3137818b2dacd27f", null ]
+    [ "OnEffect", "d9/d2e/a14147.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
+    [ "PrepareSpellScript", "d9/d2e/a14147.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
+    [ "Register", "d9/d2e/a14147.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
 ];

@@ -1,4 +1,5 @@
 var a03287 =
 [
-    [ "UPDATE_TARGET_MAP_INTERVAL", "d8/dcc/a03287.html#a49c1eff45f8eb67e523f8593923a5df0", null ]
+    [ "tele_commandscript", "df/d1e/a11927.html", "df/d1e/a11927" ],
+    [ "AddSC_tele_commandscript", "d8/dcc/a03287.html#a75673ffc02c68c43cefd69bb0648dd53", null ]
 ];

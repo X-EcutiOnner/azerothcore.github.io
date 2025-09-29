@@ -1,6 +1,8 @@
 var a23111 =
 [
-    [ "HandleScriptEffect", "d7/d86/a23111.html#a766edc5924124c869b04ec82cd2bc693", null ],
-    [ "PrepareSpellScript", "d7/d86/a23111.html#a1eac10c673b8f43ae08f8bbdf949f82f", null ],
-    [ "Register", "d7/d86/a23111.html#a60d4e21bf31c997ef4105ad72c8b4e85", null ]
+    [ "FilterTargets", "d7/d86/a23111.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
+    [ "HandleDummy", "d7/d86/a23111.html#ab89ab441f022ee017548ba49d128b92e", null ],
+    [ "PrepareSpellScript", "d7/d86/a23111.html#aa8578390d7d9379328c02ceb209e94ed", null ],
+    [ "Register", "d7/d86/a23111.html#a486387d707b7ad66ecb443ab2bb60778", null ],
+    [ "Validate", "d7/d86/a23111.html#ad5d695978794d796eb7139fce1530d57", null ]
 ];

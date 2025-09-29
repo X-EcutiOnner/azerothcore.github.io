@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/World/guards.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/game/Handlers/NPCHandler.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,102 +106,61 @@ $(document).ready(function(){initNavTree('df/dbb/a00698.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">guards.cpp File Reference</div></div>
+<a href="#define-members">Macros</a>  </div>
+  <div class="headertitle"><div class="title">NPCHandler.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GuardAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
+<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d5d/a27602.html">guard_shattrath_scryer</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d93/a09635.html">QEmote</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de1/a27606.html">guard_shattrath_scryer::guard_shattrath_scryerAI</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dbc/a09639.html">GossipTextOption</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d00/a27610.html">guard_shattrath_aldor</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3c/a09643.html">GossipText</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db6/a27614.html">guard_shattrath_aldor::guard_shattrath_aldorAI</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d7c/a09647.html">PageTextLocale</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/db1/a09651.html">NpcTextLocale</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a7c8fcdd86e1aa9eab132e6321290e79c"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dbb/a00698.html#a7c8fcdd86e1aa9eab132e6321290e79c">GuardShattrath</a> { <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe">SPELL_BANISHED_SHATTRATH_A</a> = 36642
-, <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48">SPELL_BANISHED_SHATTRATH_S</a> = 36671
-, <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0">SPELL_BANISH_TELEPORT</a> = 36643
-, <br />
-&#160;&#160;<a class="el" href="../../df/dbb/a00698.html#a7c8fcdd86e1aa9eab132e6321290e79ca6758cdbc7bb8447df1f7b3073833463d">SPELL_EXILE</a> = 39533
-<br />
- }</td></tr>
-<tr class="separator:a7c8fcdd86e1aa9eab132e6321290e79c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:acba582cbc90c710c629dd30926acdca4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dbb/a00698.html#acba582cbc90c710c629dd30926acdca4">AddSC_guards</a> ()</td></tr>
-<tr class="separator:acba582cbc90c710c629dd30926acdca4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a705783094711e028814c1c59a16c2c4f"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dbb/a00698.html#a705783094711e028814c1c59a16c2c4f">MAX_GOSSIP_TEXT_EMOTES</a>&#160;&#160;&#160;3</td></tr>
+<tr class="separator:a705783094711e028814c1c59a16c2c4f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a114c9636000e930cd1dc1ef7e444814f"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dbb/a00698.html#a114c9636000e930cd1dc1ef7e444814f">MAX_GOSSIP_TEXT_OPTIONS</a>&#160;&#160;&#160;8</td></tr>
+<tr class="separator:a114c9636000e930cd1dc1ef7e444814f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a7c8fcdd86e1aa9eab132e6321290e79c" name="a7c8fcdd86e1aa9eab132e6321290e79c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7c8fcdd86e1aa9eab132e6321290e79c">&#9670;&#160;</a></span>GuardShattrath</h2>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a705783094711e028814c1c59a16c2c4f" name="a705783094711e028814c1c59a16c2c4f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a705783094711e028814c1c59a16c2c4f">&#9670;&#160;</a></span>MAX_GOSSIP_TEXT_EMOTES</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../df/dbb/a00698.html#a7c8fcdd86e1aa9eab132e6321290e79c">GuardShattrath</a></td>
+          <td class="memname">#define MAX_GOSSIP_TEXT_EMOTES&#160;&#160;&#160;3</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe" name="a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe"></a>SPELL_BANISHED_SHATTRATH_A&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48" name="a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48"></a>SPELL_BANISHED_SHATTRATH_S&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0" name="a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0"></a>SPELL_BANISH_TELEPORT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a7c8fcdd86e1aa9eab132e6321290e79ca6758cdbc7bb8447df1f7b3073833463d" name="a7c8fcdd86e1aa9eab132e6321290e79ca6758cdbc7bb8447df1f7b3073833463d"></a>SPELL_EXILE&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   24</span>{</div>
-<div class="line"><span class="lineno">   25</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe">SPELL_BANISHED_SHATTRATH_A</a> = 36642,</div>
-<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48">SPELL_BANISHED_SHATTRATH_S</a> = 36671,</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0">SPELL_BANISH_TELEPORT</a>      = 36643,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../df/dbb/a00698.html#a7c8fcdd86e1aa9eab132e6321290e79ca6758cdbc7bb8447df1f7b3073833463d">SPELL_EXILE</a>                = 39533</div>
-<div class="line"><span class="lineno">   29</span>};</div>
-<div class="ttc" id="aa00698_html_a7c8fcdd86e1aa9eab132e6321290e79ca6758cdbc7bb8447df1f7b3073833463d"><div class="ttname"><a href="../../df/dbb/a00698.html#a7c8fcdd86e1aa9eab132e6321290e79ca6758cdbc7bb8447df1f7b3073833463d">SPELL_EXILE</a></div><div class="ttdeci">@ SPELL_EXILE</div><div class="ttdef"><b>Definition:</b> guards.cpp:28</div></div>
-<div class="ttc" id="aa00698_html_a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48"><div class="ttname"><a href="../../df/dbb/a00698.html#a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48">SPELL_BANISHED_SHATTRATH_S</a></div><div class="ttdeci">@ SPELL_BANISHED_SHATTRATH_S</div><div class="ttdef"><b>Definition:</b> guards.cpp:26</div></div>
-<div class="ttc" id="aa00698_html_a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0"><div class="ttname"><a href="../../df/dbb/a00698.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0">SPELL_BANISH_TELEPORT</a></div><div class="ttdeci">@ SPELL_BANISH_TELEPORT</div><div class="ttdef"><b>Definition:</b> guards.cpp:27</div></div>
-<div class="ttc" id="aa00698_html_a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe"><div class="ttname"><a href="../../df/dbb/a00698.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe">SPELL_BANISHED_SHATTRATH_A</a></div><div class="ttdeci">@ SPELL_BANISHED_SHATTRATH_A</div><div class="ttdef"><b>Definition:</b> guards.cpp:25</div></div>
-</div><!-- fragment -->
+
 </div>
 </div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="acba582cbc90c710c629dd30926acdca4" name="acba582cbc90c710c629dd30926acdca4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acba582cbc90c710c629dd30926acdca4">&#9670;&#160;</a></span>AddSC_guards()</h2>
+<a id="a114c9636000e930cd1dc1ef7e444814f" name="a114c9636000e930cd1dc1ef7e444814f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a114c9636000e930cd1dc1ef7e444814f">&#9670;&#160;</a></span>MAX_GOSSIP_TEXT_OPTIONS</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_guards </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="memname">#define MAX_GOSSIP_TEXT_OPTIONS&#160;&#160;&#160;8</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  165</span>{</div>
-<div class="line"><span class="lineno">  166</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d5/d00/a27610.html">guard_shattrath_aldor</a>();</div>
-<div class="line"><span class="lineno">  167</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/d5d/a27602.html">guard_shattrath_scryer</a>();</div>
-<div class="line"><span class="lineno">  168</span>}</div>
-<div class="ttc" id="aa27602_html"><div class="ttname"><a href="../../dd/d5d/a27602.html">guard_shattrath_scryer</a></div><div class="ttdef"><b>Definition:</b> guards.cpp:32</div></div>
-<div class="ttc" id="aa27610_html"><div class="ttname"><a href="../../d5/d00/a27610.html">guard_shattrath_aldor</a></div><div class="ttdef"><b>Definition:</b> guards.cpp:99</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00041">AddWorldScripts()</a>.</p>
 
 </div>
 </div>
@@ -210,8 +169,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_0a0414616ece51a8570c4e36029d4e29.html">World</a></li><li class="navelem"><a class="el" href="../../df/dbb/a00698.html">guards.cpp</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:44:56 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_c6aa1690377d4e56e32ba0c89772ac1d.html">Handlers</a></li><li class="navelem"><a class="el" href="../../df/dbb/a00698.html">NPCHandler.h</a></li>
+    <li class="footer">Generated on Mon Sep 29 2025 20:45:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,11 +1,12 @@
 var a01409 =
 [
-    [ "instance_the_eye", "dc/d8e/a24102.html", "dc/d8e/a24102" ],
-    [ "instance_the_eye::instance_the_eye_InstanceMapScript", "de/d80/a24106.html", "de/d80/a24106" ],
-    [ "spell_the_eye_countercharge_aura", "d3/d25/a24110.html", "d3/d25/a24110" ],
-    [ "AddSC_instance_the_eye", "d9/d6e/a01409.html#a2edbd129d024cabd379cca055dd3e341", null ],
-    [ "boundaries", "d9/d6e/a01409.html#aa75d7d0ffe0cef214f982966c33db1c1", null ],
-    [ "creatureData", "d9/d6e/a01409.html#a412286b689bd324fedd65ddd8dde8afb", null ],
-    [ "doorData", "d9/d6e/a01409.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],
-    [ "gameObjectData", "d9/d6e/a01409.html#a1461582839e3b7fdbb7397e5d2086e31", null ]
+    [ "TicketScript", "d6/d51/a10431.html", "d6/d51/a10431" ],
+    [ "TicketHook", "d9/d6e/a01409.html#af2de2d4afd6c8a1968e6e4b055620b72", [
+      [ "TICKETHOOK_ON_TICKET_CREATE", "d9/d6e/a01409.html#af2de2d4afd6c8a1968e6e4b055620b72a048895a23d18ef1c7901256655315a61", null ],
+      [ "TICKETHOOK_ON_TICKET_UPDATE_LAST_CHANGE", "d9/d6e/a01409.html#af2de2d4afd6c8a1968e6e4b055620b72a1777cc276841ae965f3636dc48161374", null ],
+      [ "TICKETHOOK_ON_TICKET_CLOSE", "d9/d6e/a01409.html#af2de2d4afd6c8a1968e6e4b055620b72ac65b75869b3e3fb1dec5db5eb5701f38", null ],
+      [ "TICKETHOOK_ON_TICKET_STATUS_UPDATE", "d9/d6e/a01409.html#af2de2d4afd6c8a1968e6e4b055620b72ad50ae60643438ce57485d63d8492a825", null ],
+      [ "TICKETHOOK_ON_TICKET_RESOLVE", "d9/d6e/a01409.html#af2de2d4afd6c8a1968e6e4b055620b72a77a1b9c3448bbffacadaaa5c542086df", null ],
+      [ "TICKETHOOK_END", "d9/d6e/a01409.html#af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222", null ]
+    ] ]
 ];

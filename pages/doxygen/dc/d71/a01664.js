@@ -1,6 +1,7 @@
 var a01664 =
 [
-    [ "instance_pit_of_saron", "d0/d9d/a17226.html", "d0/d9d/a17226" ],
-    [ "instance_pit_of_saron::instance_pit_of_saron_InstanceScript", "d2/dea/a17230.html", "d2/dea/a17230" ],
-    [ "AddSC_instance_pit_of_saron", "dc/d71/a01664.html#a0793b7a11993f477eea1066a2da4bbb2", null ]
+    [ "UpdateRequest", "de/da2/a09887.html", "de/da2/a09887" ],
+    [ "MapUpdateRequest", "df/d3f/a09891.html", "df/d3f/a09891" ],
+    [ "MapPreloadRequest", "d7/dd7/a09895.html", "d7/dd7/a09895" ],
+    [ "LFGUpdateRequest", "d6/d37/a09899.html", "d6/d37/a09899" ]
 ];

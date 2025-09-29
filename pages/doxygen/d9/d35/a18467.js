@@ -1,9 +1,7 @@
 var a18467 =
 [
-    [ "npc_gluttonous_abominationAI", "d9/d35/a18467.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
-    [ "JustDied", "d9/d35/a18467.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
-    [ "JustSummoned", "d9/d35/a18467.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
-    [ "Reset", "d9/d35/a18467.html#a45588181429a74ac024e0390c76fa57a", null ],
-    [ "UpdateAI", "d9/d35/a18467.html#a33ef03a9f005ff187493275a9c2683a7", null ],
-    [ "_events", "d9/d35/a18467.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
+    [ "CheckTargetCount", "d9/d35/a18467.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
+    [ "PrepareSpellScript", "d9/d35/a18467.html#abd32198867e7f01b21b7de6224a597d4", null ],
+    [ "Register", "d9/d35/a18467.html#a671bede7fbc68085cd6075f412822869", null ],
+    [ "Validate", "d9/d35/a18467.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
 ];

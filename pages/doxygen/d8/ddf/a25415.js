@@ -1,7 +1,9 @@
 var a25415 =
 [
-    [ "FilterTargets", "d8/ddf/a25415.html#affede599b86e05e6475fd64a60268e8e", null ],
-    [ "Load", "d8/ddf/a25415.html#a1343407ca8b571140ed2ecf5501bf378", null ],
-    [ "PrepareSpellScript", "d8/ddf/a25415.html#a12ff05520225209b476b3ba8422de1c6", null ],
-    [ "Register", "d8/ddf/a25415.html#ac99786385187e21fb02e65e9b9719400", null ]
+    [ "spell_gen_lifebloom", "d8/ddf/a25415.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
+    [ "AfterRemove", "d8/ddf/a25415.html#aea962f603e56c1bd33fccaef0c89d917", null ],
+    [ "PrepareAuraScript", "d8/ddf/a25415.html#ac11134bdc3588795ce6e256c5b02055f", null ],
+    [ "Register", "d8/ddf/a25415.html#ab4a552402ee9f90834320d6fc668cff3", null ],
+    [ "Validate", "d8/ddf/a25415.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
+    [ "_spellId", "d8/ddf/a25415.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
 ];

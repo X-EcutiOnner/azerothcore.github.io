@@ -1,6 +1,8 @@
 var a25511 =
 [
-    [ "HandleDummy", "d0/d80/a25511.html#a7b56d07d46647a2790553d40e75da79d", null ],
-    [ "PrepareSpellScript", "d0/d80/a25511.html#aad36c108f4531c19ba552064ba0d3248", null ],
-    [ "Register", "d0/d80/a25511.html#a754fcf618f53b4b17c2bcae4740e561f", null ]
+    [ "HandleApply", "d0/d80/a25511.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
+    [ "OnPeriodic", "d0/d80/a25511.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
+    [ "PrepareAuraScript", "d0/d80/a25511.html#a344d1a92623865876174c0e88ce8ab4b", null ],
+    [ "Register", "d0/d80/a25511.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
+    [ "Validate", "d0/d80/a25511.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
 ];

@@ -1,7 +1,6 @@
 var a19687 =
 [
-    [ "HandlePeriodic", "d0/d46/a19687.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
-    [ "PrepareAuraScript", "d0/d46/a19687.html#ad78b06733a8609dd39e885db2f23edba", null ],
-    [ "Register", "d0/d46/a19687.html#ac9ae9be546964752869163896c4045dd", null ],
-    [ "Validate", "d0/d46/a19687.html#afcca84d03b29ef7569c03f973a6c191b", null ]
+    [ "boss_bjarngrimAI", "df/d15/a19691.html", "df/d15/a19691" ],
+    [ "boss_bjarngrim", "d0/d46/a19687.html#ab509688547d41ec1fd094fdc45291959", null ],
+    [ "GetAI", "d0/d46/a19687.html#aff6455d2a327bbf3426d10a07f7b0e44", null ]
 ];

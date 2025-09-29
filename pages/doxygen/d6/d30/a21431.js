@@ -1,6 +1,6 @@
 var a21431 =
 [
-    [ "HandleEffectPeriodic", "d6/d30/a21431.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
-    [ "PrepareAuraScript", "d6/d30/a21431.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
-    [ "Register", "d6/d30/a21431.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
+    [ "boss_archavonAI", "d4/d2d/a21435.html", "d4/d2d/a21435" ],
+    [ "boss_archavon", "d6/d30/a21431.html#a44e20480f8d86cf763afe67de49c6c33", null ],
+    [ "GetAI", "d6/d30/a21431.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
 ];

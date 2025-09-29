@@ -1,6 +1,7 @@
 var a16635 =
 [
-    [ "OnPeriodic", "dc/dd7/a16635.html#ab71faf6fb2900e176aac245317113758", null ],
-    [ "PrepareAuraScript", "dc/dd7/a16635.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
-    [ "Register", "dc/dd7/a16635.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
+    [ "npc_toc_mageAI", "dc/dd7/a16635.html#a188831088c892f68cef7498468b24899", null ],
+    [ "myCanCast", "dc/dd7/a16635.html#aaf7fd7b143a4eb410465c7cb34c32d2f", null ],
+    [ "UpdateAI", "dc/dd7/a16635.html#a0f4393341a6c565aef2c0b79a39c0699", null ],
+    [ "events", "dc/dd7/a16635.html#ab1910ce98f3d1b14e45acba22782d536", null ]
 ];

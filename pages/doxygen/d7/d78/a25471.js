@@ -1,7 +1,6 @@
 var a25471 =
 [
-    [ "HandleJump", "d7/d78/a25471.html#ac70f6d53e85af1ee2591e761e21872db", null ],
-    [ "HandleScriptEffect", "d7/d78/a25471.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
-    [ "PrepareSpellScript", "d7/d78/a25471.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
-    [ "Register", "d7/d78/a25471.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
+    [ "OnApply", "d7/d78/a25471.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
+    [ "PrepareAuraScript", "d7/d78/a25471.html#a159ee8a9b0af729ed01f7632adb58863", null ],
+    [ "Register", "d7/d78/a25471.html#a0f33043317402119aa14e50a1eb6c227", null ]
 ];

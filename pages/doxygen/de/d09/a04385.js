@@ -1,5 +1,4 @@
 var a04385 =
 [
-    [ "DataMap", "db/d6b/a05460.html", "db/d6b/a05460" ],
-    [ "DataMap::Base", "d1/d22/a05464.html", "d1/d22/a05464" ]
+    [ "SessionKeyGenerator< Hash >", "d3/dd2/a05215.html", "d3/dd2/a05215" ]
 ];

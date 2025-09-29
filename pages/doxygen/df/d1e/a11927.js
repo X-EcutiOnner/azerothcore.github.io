@@ -1,5 +1,14 @@
 var a11927 =
 [
-    [ "boss_high_priestess_thaurissan", "df/d1e/a11927.html#a53d3fd78f6a1a3b5028c6fc2940dfbd0", null ],
-    [ "GetAI", "df/d1e/a11927.html#a7d2bb83a766b8eaa9bdbbb0f45a4fe62", null ]
+    [ "tele_commandscript", "df/d1e/a11927.html#a13d522c3480c5b82071d5f77bd41f942", null ],
+    [ "DoNameTeleport", "df/d1e/a11927.html#aeab9bf62f33fd1d55055ba2ae7925f82", null ],
+    [ "GetCommands", "df/d1e/a11927.html#a296b26e39d5d575ebe68728ff1b49f68", null ],
+    [ "HandleTeleAddCommand", "df/d1e/a11927.html#a8d429a38c01a19f8c89c87937ef24248", null ],
+    [ "HandleTeleCommand", "df/d1e/a11927.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa", null ],
+    [ "HandleTeleDelCommand", "df/d1e/a11927.html#ad3d85b0057797de2aceeb620cf62efc0", null ],
+    [ "HandleTeleGroupCommand", "df/d1e/a11927.html#af83e529b482654851a7a1ee77beb107e", null ],
+    [ "HandleTeleNameCommand", "df/d1e/a11927.html#a70fcde1c7c5a9e5297035862adca55c4", null ],
+    [ "HandleTeleNameNpcIdCommand", "df/d1e/a11927.html#a52852b7f3d7a6bbf68164e6918b9a141", null ],
+    [ "HandleTeleNameNpcNameCommand", "df/d1e/a11927.html#a2f68bad0f1af5d40fcefb8c394472b65", null ],
+    [ "HandleTeleNameNpcSpawnIdCommand", "df/d1e/a11927.html#a7a45fa39afa6bae2359a68b11a504bc5", null ]
 ];

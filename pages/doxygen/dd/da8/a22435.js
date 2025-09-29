@@ -1,13 +1,15 @@
 var a22435 =
 [
-    [ "OPvPCapturePointEP_PWT", "dd/da8/a22435.html#a17e3d11c9b282f203bb0e1511fb5af02", null ],
-    [ "ChangeState", "dd/da8/a22435.html#a1e26a3ed8d700533df0a51d8db510a4f", null ],
-    [ "FillInitialWorldStates", "dd/da8/a22435.html#ab5faf124f53394a4a54a86a7bf5d0626", null ],
-    [ "HandlePlayerEnter", "dd/da8/a22435.html#ab9bf289c0814e60fd75902b4e87d1e46", null ],
-    [ "HandlePlayerLeave", "dd/da8/a22435.html#a5772e54263c613eee365856def5e74e6", null ],
-    [ "SendChangePhase", "dd/da8/a22435.html#af1cffc64adac5b64c04175ad1685d0b8", null ],
-    [ "SummonFlightMaster", "dd/da8/a22435.html#ab3808f8d756cc5f0b48db9375ae2fa1c", null ],
-    [ "UpdateTowerState", "dd/da8/a22435.html#af30325b43d2861eb667b33dcb23ffc1e", null ],
-    [ "m_FlightMasterSpawnedId", "dd/da8/a22435.html#afeefd804849b925e6d0a880d8efb5319", null ],
-    [ "m_TowerState", "dd/da8/a22435.html#a914dcbb37baf457750cfe9829d95d88c", null ]
+    [ "npc_jungle_punch_targetAI", "dd/da8/a22435.html#a04f09361f6bc4bc752ca773878187f79", null ],
+    [ "MoveInLineOfSight", "dd/da8/a22435.html#adc08551a256220bab144ef26d89c4263", null ],
+    [ "proceedCwEvent", "dd/da8/a22435.html#a54f8a5c7414f4a9fd019e02fede1970d", null ],
+    [ "Reset", "dd/da8/a22435.html#a56faff3edbe0d13969e8d20e6c3e03a2", null ],
+    [ "SpellHit", "dd/da8/a22435.html#a3515e873adf5a097f66764887e3cc5a3", null ],
+    [ "UpdateAI", "dd/da8/a22435.html#afa2a1bcdeef51e9f984307f576a1ff6e", null ],
+    [ "orphanGUID", "dd/da8/a22435.html#a5947a4415b63f8bbda4d53c44ccebf74", null ],
+    [ "phase", "dd/da8/a22435.html#a737a9016c93d621bf8cfa29d6b66b345", null ],
+    [ "playerGUID", "dd/da8/a22435.html#afbb4e4c74c2634a442171f06bb2eff08", null ],
+    [ "sayStep", "dd/da8/a22435.html#a1b1757dd6e0775f1f4791b4feafd86fb", null ],
+    [ "sayTimer", "dd/da8/a22435.html#a4edf558dbc54ff1acab15d6daf0a5613", null ],
+    [ "timer", "dd/da8/a22435.html#a0fa884bf3003267501f048d3f1287d42", null ]
 ];

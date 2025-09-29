@@ -1,12 +1,7 @@
 var a13811 =
 [
-    [ "npc_forest_frog", "d5/dcc/a13811.html#a6a5e24a11f8d2add6a3e9d71e2e647bb", null ],
-    [ "DoSpawnRandom", "d5/dcc/a13811.html#aac140826b8c4b7ce55925b5abeee936e", null ],
-    [ "JustEngagedWith", "d5/dcc/a13811.html#aa22c4eb7eb3a84db94ce8eb38afd18f5", null ],
-    [ "MovementInform", "d5/dcc/a13811.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
-    [ "SpellHit", "d5/dcc/a13811.html#a9501955507e1f236bb48384928fd6a32", null ],
-    [ "UpdateAI", "d5/dcc/a13811.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
-    [ "eventTimer", "d5/dcc/a13811.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
-    [ "instance", "d5/dcc/a13811.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
-    [ "PlayerGUID", "d5/dcc/a13811.html#a3544a83bb22e12d247e562ef32e378c0", null ]
+    [ "npc_greengill_slaveAI", "d5/dcc/a13811.html#a1a4268b745e63992f4d0fc2028b717aa", null ],
+    [ "JustEngagedWith", "d5/dcc/a13811.html#ad7fcb8c711782d3a76e9e4566334fc21", null ],
+    [ "SpellHit", "d5/dcc/a13811.html#a0e75a3e8eb3503fdb3aea12e65ccc6e4", null ],
+    [ "UpdateAI", "d5/dcc/a13811.html#a6fa27328cf47bef81c3465b8a3e2ace1", null ]
 ];

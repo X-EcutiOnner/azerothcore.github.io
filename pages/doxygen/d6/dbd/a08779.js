@@ -1,9 +1,11 @@
 var a08779 =
 [
-    [ "GameEventAIHookWorker", "d6/dbd/a08779.html#ad72640a18d2d32a9201c965089ee49cf", null ],
-    [ "Visit", "d6/dbd/a08779.html#a23d979ee43838e7d58e9123e36474a5a", null ],
-    [ "Visit", "d6/dbd/a08779.html#a79106ec550d072d690bbf3496d76cb0a", null ],
-    [ "Visit", "d6/dbd/a08779.html#a165476edd8b252bbb90b8b78fae963a6", null ],
-    [ "_activate", "d6/dbd/a08779.html#a756665eafa08f3c8c51ccef69bdd619f", null ],
-    [ "_eventId", "d6/dbd/a08779.html#ab1ee68bb7134e84780772eba2cfac766", null ]
+    [ "SpellPeriodicAuraLogInfo", "d6/dbd/a08779.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
+    [ "absorb", "d6/dbd/a08779.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
+    [ "auraEff", "d6/dbd/a08779.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
+    [ "critical", "d6/dbd/a08779.html#a51041b901727b4f595d2a886520626ff", null ],
+    [ "damage", "d6/dbd/a08779.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
+    [ "multiplier", "d6/dbd/a08779.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
+    [ "overDamage", "d6/dbd/a08779.html#a51904be3790c99bded697b2cf7c8db23", null ],
+    [ "resist", "d6/dbd/a08779.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
 ];

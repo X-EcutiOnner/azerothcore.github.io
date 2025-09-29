@@ -1,13 +1,10 @@
 var a23755 =
 [
-    [ "advisor_baseAI", "d9/d92/a23755.html#a3c68b7ee961af2d9dabb15c7e054d45b", null ],
-    [ "DamageTaken", "d9/d92/a23755.html#a678d09ec3b3d5a4d922a0fc117192349", null ],
-    [ "JustDied", "d9/d92/a23755.html#a8da09edce761f1f1e1b7eb96ec7a529b", null ],
-    [ "JustEngagedWith", "d9/d92/a23755.html#a1e4b1ff264f4c1586515f56531b77dea", null ],
-    [ "Reset", "d9/d92/a23755.html#a008c30414ecebf4e2996d06b81539255", null ],
-    [ "ScheduleEvents", "d9/d92/a23755.html#a24d22ccec834770bc5bcf44119fb0045", null ],
-    [ "SpellHit", "d9/d92/a23755.html#a4fc41f3985244b6baf25b3417f67054e", null ],
-    [ "UpdateAI", "d9/d92/a23755.html#aa89d3479b2e0bd8dd18572135aa45235", null ],
-    [ "_feigning", "d9/d92/a23755.html#ae1c2011ba993c8d589bf6fe45602ac41", null ],
-    [ "_preventDeath", "d9/d92/a23755.html#ab6c4a3f241fa5417f0a1d450ddb811ca", null ]
+    [ "boss_kelidan_the_breaker", "d9/d92/a23755.html#a6774e4a0315b30266f6c55da608cd193", null ],
+    [ "ApplyImmunities", "d9/d92/a23755.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
+    [ "DoAction", "d9/d92/a23755.html#a3fa0117ce1079f651025116684f5e2f4", null ],
+    [ "JustDied", "d9/d92/a23755.html#a4d3f0171b7889a96f19999b28e549866", null ],
+    [ "JustEngagedWith", "d9/d92/a23755.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
+    [ "KilledUnit", "d9/d92/a23755.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
+    [ "Reset", "d9/d92/a23755.html#a46c592f6c46ea568ad368702e1640e06", null ]
 ];

@@ -1,6 +1,7 @@
 var a19639 =
 [
-    [ "npc_living_constellationAI", "dc/d73/a19643.html", "dc/d73/a19643" ],
-    [ "npc_living_constellation", "dc/d04/a19639.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
-    [ "GetAI", "dc/d04/a19639.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
+    [ "Apply", "dc/d04/a19639.html#add8e95d38b0c437833c11cded72fe2a7", null ],
+    [ "PrepareAuraScript", "dc/d04/a19639.html#ad2112b571d97e537983b4d11207015e6", null ],
+    [ "Register", "dc/d04/a19639.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
+    [ "Validate", "dc/d04/a19639.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
 ];

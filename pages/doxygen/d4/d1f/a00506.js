@@ -1,5 +1,5 @@
 var a00506 =
 [
-    [ "AddonHandler", "dd/dba/a09588.html", "dd/dba/a09588" ],
-    [ "sAddOnHandler", "d4/d1f/a00506.html#a53c18d341aaa47d117be75333e4ab43d", null ]
+    [ "FleeingMovementGenerator< T >", "d6/df5/a10003.html", "d6/df5/a10003" ],
+    [ "TimedFleeingMovementGenerator", "df/de2/a10007.html", "df/de2/a10007" ]
 ];

@@ -1,7 +1,6 @@
 var a17923 =
 [
-    [ "HandleScript", "dc/d2e/a17923.html#a802f667b20bccd3395c233482aa2485b", null ],
-    [ "PrepareSpellScript", "dc/d2e/a17923.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
-    [ "Register", "dc/d2e/a17923.html#a730fded490df68f501010f952ceea40b", null ],
-    [ "Validate", "dc/d2e/a17923.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
+    [ "CheckProc", "dc/d2e/a17923.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "dc/d2e/a17923.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "dc/d2e/a17923.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

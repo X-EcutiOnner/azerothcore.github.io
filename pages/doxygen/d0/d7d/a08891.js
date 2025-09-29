@@ -1,8 +1,10 @@
 var a08891 =
 [
-    [ "GameObjectWorker", "d0/d7d/a08891.html#a79dd3983b007d982bbb1f0b33c5c7a54", null ],
-    [ "Visit", "d0/d7d/a08891.html#a754197d7a9aa3203cda964cbee81ae9a", null ],
-    [ "Visit", "d0/d7d/a08891.html#a47a10a6790179eb5b78cbb66dd9d7b54", null ],
-    [ "_func", "d0/d7d/a08891.html#abeaa251f909368e3ebeeff4dcefbda94", null ],
-    [ "_phaseMask", "d0/d7d/a08891.html#accfe66385f5bbfb461d0493c22fde20e", null ]
+    [ "mapId", "d0/d7d/a08891.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
+    [ "name", "d0/d7d/a08891.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
+    [ "orientation", "d0/d7d/a08891.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
+    [ "position_x", "d0/d7d/a08891.html#a65e7390a1dbb615a155c4f163b830e11", null ],
+    [ "position_y", "d0/d7d/a08891.html#a3d3f398cd23566dce721fefeae7af33c", null ],
+    [ "position_z", "d0/d7d/a08891.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
+    [ "wnameLow", "d0/d7d/a08891.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
 ];

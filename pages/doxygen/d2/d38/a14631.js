@@ -1,6 +1,7 @@
 var a14631 =
 [
-    [ "instance_mount_hyjal_InstanceMapScript", "d0/d7f/a14635.html", "d0/d7f/a14635" ],
-    [ "instance_hyjal", "d2/d38/a14631.html#ade946c0fcaa4bad790bfcb4b6ffb6420", null ],
-    [ "GetInstanceScript", "d2/d38/a14631.html#ae6e39933d7cfd6563f6d37636f1c6f68", null ]
+    [ "OnApply", "d2/d38/a14631.html#a42148069675e663456bb5495fa5c8702", null ],
+    [ "OnPeriodic", "d2/d38/a14631.html#ad3582b02b369e3029e20817dd19aede0", null ],
+    [ "PrepareAuraScript", "d2/d38/a14631.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
+    [ "Register", "d2/d38/a14631.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
 ];

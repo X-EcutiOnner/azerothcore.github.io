@@ -1,16 +1,11 @@
 var a00077 =
 [
-    [ "RandomEngine", "d0/d22/a05526.html", "d0/d22/a05526" ],
-    [ "frand", "d1/d09/a00077.html#aa28484fcb823a22578601847e4b0ddb4", null ],
-    [ "irand", "d1/d09/a00077.html#a0a5e53ee066789ecb565abc05fe36dbc", null ],
-    [ "rand32", "d1/d09/a00077.html#ab91ed86274e1e52eb314784862b61696", null ],
-    [ "rand_chance", "d1/d09/a00077.html#a60564a0d93e0c87809379e0c1fa7acd1", null ],
-    [ "rand_norm", "d1/d09/a00077.html#ad552d8147f66d6ec0cd44271e8799599", null ],
-    [ "randtime", "d1/d09/a00077.html#a2fc61a89dc958460e6eabe08d87a4021", null ],
-    [ "randtime", "d1/d09/a00077.html#ad7a1463dbba108f4bfc0d800fa6f99c1", null ],
-    [ "roll_chance_f", "d1/d09/a00077.html#a4b15099bc81731469c5078a778673c94", null ],
-    [ "roll_chance_i", "d1/d09/a00077.html#a50320d4edff86db31b25138ae72161ad", null ],
-    [ "urand", "d1/d09/a00077.html#a3648faa6a1353eac6d2eec0b399c5aba", null ],
-    [ "urandms", "d1/d09/a00077.html#a1a4ee564518371004a4d34135600bfa0", null ],
-    [ "urandweighted", "d1/d09/a00077.html#a673de62907a2657190e58678691d3b36", null ]
+    [ "BanMgr", "d5/d57/a09931.html", "d5/d57/a09931" ],
+    [ "sBan", "d1/d09/a00077.html#a7d5e9b6aab3c8157bcf25fa0f070bb17", null ],
+    [ "BanReturn", "d1/d09/a00077.html#a4dd4670ead55e2780d09a66ab39943a7", [
+      [ "BAN_SUCCESS", "d1/d09/a00077.html#a4dd4670ead55e2780d09a66ab39943a7ab48bdf9afe21b115b7550bf103d1dc28", null ],
+      [ "BAN_SYNTAX_ERROR", "d1/d09/a00077.html#a4dd4670ead55e2780d09a66ab39943a7a7ec21f8f8ea6d0904423dded4b8f0dc8", null ],
+      [ "BAN_NOTFOUND", "d1/d09/a00077.html#a4dd4670ead55e2780d09a66ab39943a7aaefc3ea320005c27d70704fb92aed7ad", null ],
+      [ "BAN_LONGER_EXISTS", "d1/d09/a00077.html#a4dd4670ead55e2780d09a66ab39943a7ac441589615fb2fe9c7decb985f6f0d3c", null ]
+    ] ]
 ];

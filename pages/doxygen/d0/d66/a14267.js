@@ -1,9 +1,6 @@
 var a14267 =
 [
-    [ "entries", "d0/d66/a14267.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
-    [ "entries", "d0/d66/a14267.html#a953850b267eb6f599bb49d82080bdf64", null ],
-    [ "revelerId", "d0/d66/a14267.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
-    [ "schedule", "d0/d66/a14267.html#ad849701425622001519334f352ea6f3e", null ],
-    [ "size", "d0/d66/a14267.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
-    [ "spawns", "d0/d66/a14267.html#aa081965795e3b9473be5b322b0c46505", null ]
+    [ "OnRemove", "d0/d66/a14267.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
+    [ "PrepareAuraScript", "d0/d66/a14267.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
+    [ "Register", "d0/d66/a14267.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
 ];

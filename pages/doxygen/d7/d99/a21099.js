@@ -1,6 +1,6 @@
 var a21099 =
 [
-    [ "boss_skadiAI", "d6/d10/a21103.html", "d6/d10/a21103" ],
-    [ "boss_skadi", "d7/d99/a21099.html#a124c1c1de7ba232b3256a65547370464", null ],
-    [ "GetAI", "d7/d99/a21099.html#a4b66199169442af5ec6542be71c19033", null ]
+    [ "boss_yoggsaron_lich_kingAI", "d6/d10/a21103.html", "d6/d10/a21103" ],
+    [ "boss_yoggsaron_lich_king", "d7/d99/a21099.html#a1655d608683e90ccafd350204eed2d31", null ],
+    [ "GetAI", "d7/d99/a21099.html#aa65cd9c9eafba12ae065903868ee5319", null ]
 ];

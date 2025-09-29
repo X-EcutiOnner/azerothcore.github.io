@@ -1,11 +1,9 @@
 var a14103 =
 [
-    [ "npc_dark_iron_attack_mole_machine", "d0/d42/a14103.html#a473a8fb4905e5d1333196797d7d0f371", null ],
-    [ "AttackStart", "d0/d42/a14103.html#a999dd932fbaf22a8275dfdba150c3291", null ],
-    [ "JustEngagedWith", "d0/d42/a14103.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
-    [ "MoveInLineOfSight", "d0/d42/a14103.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
-    [ "Reset", "d0/d42/a14103.html#a0727aab751ddfbd94ae070e60e47e768", null ],
-    [ "UpdateAI", "d0/d42/a14103.html#a1217ed510a846d011143ae0a386c6236", null ],
-    [ "goTimer", "d0/d42/a14103.html#a8686845ebef564c9fcaa115866c99749", null ],
-    [ "summonTimer", "d0/d42/a14103.html#a4713da02f4a86547a0f796167e24d8bb", null ]
+    [ "npc_amanishi_scout", "d0/d42/a14103.html#a74bed56c21c184e661f62c30ce6d9140", null ],
+    [ "JustEngagedWith", "d0/d42/a14103.html#a5969fadd871094e993c4d3fe0b08054c", null ],
+    [ "Reset", "d0/d42/a14103.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
+    [ "ScheduleCombat", "d0/d42/a14103.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
+    [ "UpdateAI", "d0/d42/a14103.html#a3740a4fde31e1e81edb34dde61403acc", null ],
+    [ "_drumGUID", "d0/d42/a14103.html#afd9a1a57c413d5857331ac90665cc1e0", null ]
 ];

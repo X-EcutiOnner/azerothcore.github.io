@@ -1,6 +1,8 @@
 var a25899 =
 [
-    [ "OnRemove", "d9/daa/a25899.html#a3803e6bbdb17e9a848376481581c993d", null ],
-    [ "PrepareAuraScript", "d9/daa/a25899.html#a6f1340b824af4604e310666e89d05b7a", null ],
-    [ "Register", "d9/daa/a25899.html#a3b361a478f1c035b706ac2e17499fb37", null ]
+    [ "HandleProc", "d9/daa/a25899.html#ad92c7804b26bd29d135e55c8adad9093", null ],
+    [ "OnRemove", "d9/daa/a25899.html#afa8e065ed835243f3ebb95c10792adf8", null ],
+    [ "PrepareAuraScript", "d9/daa/a25899.html#a5e986f77b23fd0402089ea36f0360c79", null ],
+    [ "Register", "d9/daa/a25899.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
+    [ "Validate", "d9/daa/a25899.html#a51f81afec6ff0918530208d9de9dae24", null ]
 ];

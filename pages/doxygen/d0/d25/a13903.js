@@ -1,11 +1,8 @@
 var a13903 =
 [
-    [ "boss_hakkarAI", "d0/d25/a13903.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
-    [ "ApplyHakkarPowerStacks", "d0/d25/a13903.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
-    [ "CheckInRoom", "d0/d25/a13903.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
-    [ "EnterEvadeMode", "d0/d25/a13903.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
-    [ "JustDied", "d0/d25/a13903.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
-    [ "JustEngagedWith", "d0/d25/a13903.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
-    [ "Reset", "d0/d25/a13903.html#a52db5743c09088e2e9f1aff1513960f2", null ],
-    [ "UpdateAI", "d0/d25/a13903.html#a1119212465bcf293991d7a520c6ffe42", null ]
+    [ "npc_varian_wrynnAI", "dc/d29/a13907.html", "dc/d29/a13907" ],
+    [ "npc_varian_wrynn", "d0/d25/a13903.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "d0/d25/a13903.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "d0/d25/a13903.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "d0/d25/a13903.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

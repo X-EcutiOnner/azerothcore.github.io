@@ -1,6 +1,6 @@
 var a11963 =
 [
-    [ "boss_drakkisathAI", "d7/da1/a11967.html", "d7/da1/a11967" ],
-    [ "boss_drakkisath", "dd/dfe/a11963.html#a73f21cbd7b81fc045ae129d7d650b455", null ],
-    [ "GetAI", "dd/dfe/a11963.html#ad27999ba129b2e3617c1aba1c4b9772b", null ]
+    [ "boss_drektharAI", "d7/da1/a11967.html", "d7/da1/a11967" ],
+    [ "boss_drekthar", "dd/dfe/a11963.html#ac9296654b10191ac9d58219ba36f57b3", null ],
+    [ "GetAI", "dd/dfe/a11963.html#adeacbbc81ab675260c2cac1a6c76d3fe", null ]
 ];

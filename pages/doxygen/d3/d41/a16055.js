@@ -1,6 +1,6 @@
 var a16055 =
 [
-    [ "HandleForceCast", "d3/d41/a16055.html#a975b69649aba9de341f4e52c82a3c111", null ],
-    [ "PrepareSpellScript", "d3/d41/a16055.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
-    [ "Register", "d3/d41/a16055.html#a794a59e5fd3bda75f30d559f422895b5", null ]
+    [ "PrepareSpellScript", "d3/d41/a16055.html#a74a2601e2c160bb4a9b18d421775e6b3", null ],
+    [ "Register", "d3/d41/a16055.html#a17a07973a3c043683fc4fe0d1fc45156", null ],
+    [ "SetDest", "d3/d41/a16055.html#a3751a14d6e36140ee368d8ded6df03ee", null ]
 ];

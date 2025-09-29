@@ -1,7 +1,6 @@
 var a18831 =
 [
-    [ "DelayedCastMincharEvent", "d0/d5d/a18831.html#a76d8a08ca273eec5b2e083d136336a15", null ],
-    [ "Execute", "d0/d5d/a18831.html#a12aeff246d07e541ed192974320842cb", null ],
-    [ "_spellId", "d0/d5d/a18831.html#af4ea90407b2c8a283f137d213ffe97be", null ],
-    [ "_trigger", "d0/d5d/a18831.html#a9f3cd02e77ad35b98a6753b792383548", null ]
+    [ "npc_captain_arnathAI", "df/d23/a18835.html", "df/d23/a18835" ],
+    [ "npc_captain_arnath", "d0/d5d/a18831.html#ab96afce64a7714ea84bab932f80c9302", null ],
+    [ "GetAI", "d0/d5d/a18831.html#a302ec007389e677011334d78f410207b", null ]
 ];

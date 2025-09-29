@@ -1,6 +1,5 @@
 var a10607 =
 [
-    [ "GuildUpdateInfoText", "d8/d56/a10607.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
-    [ "Read", "d8/d56/a10607.html#a7019344fef99c5479602d7bc1176e9ee", null ],
-    [ "InfoText", "d8/d56/a10607.html#a786802ce427465d66a4cea1365743975", null ]
+    [ "GuildGetRoster", "d8/d56/a10607.html#a9beccc6ee2416633c57d2da31fdc021a", null ],
+    [ "Read", "d8/d56/a10607.html#af795ad992ec1b55d741227bd2d4a62d1", null ]
 ];

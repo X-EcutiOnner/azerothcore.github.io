@@ -1,7 +1,6 @@
 var a13731 =
 [
-    [ "Load", "d1/d59/a13731.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
-    [ "OnRemove", "d1/d59/a13731.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
-    [ "PrepareAuraScript", "d1/d59/a13731.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
-    [ "Register", "d1/d59/a13731.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
+    [ "npc_balance_of_light_and_shadowAI", "d4/d19/a13735.html", "d4/d19/a13735" ],
+    [ "npc_balance_of_light_and_shadow", "d1/d59/a13731.html#a55229e3ea8dd9c52972185b36c08908b", null ],
+    [ "GetAI", "d1/d59/a13731.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
 ];

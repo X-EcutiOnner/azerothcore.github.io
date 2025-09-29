@@ -1,6 +1,8 @@
 var a22099 =
 [
-    [ "HandleHealPct", "d3/d1a/a22099.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "d3/d1a/a22099.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "d3/d1a/a22099.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "AfterApply", "d3/d1a/a22099.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "d3/d1a/a22099.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "d3/d1a/a22099.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "d3/d1a/a22099.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "d3/d1a/a22099.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

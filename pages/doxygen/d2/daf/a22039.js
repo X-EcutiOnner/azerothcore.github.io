@@ -1,7 +1,6 @@
 var a22039 =
 [
-    [ "HandleDummy", "d2/daf/a22039.html#a85874062bceced2694fff725649df892", null ],
-    [ "PrepareSpellScript", "d2/daf/a22039.html#a47bae4bdc488480f91517465d8e1b784", null ],
-    [ "Register", "d2/daf/a22039.html#a7131340678ca685db98e2087661321a9", null ],
-    [ "Validate", "d2/daf/a22039.html#af1b74ceee10fc48a0b85d4a284103950", null ]
+    [ "npc_q24545_wretched_ghoulAI", "db/d18/a22043.html", "db/d18/a22043" ],
+    [ "npc_q24545_wretched_ghoul", "d2/daf/a22039.html#a3842b5bd89c911d29d561307113fb032", null ],
+    [ "GetAI", "d2/daf/a22039.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
 ];

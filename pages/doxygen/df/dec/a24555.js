@@ -1,8 +1,12 @@
 var a24555 =
 [
-    [ "HandleEffectApply", "df/dec/a24555.html#a88e98bcb11fb16696f789878f79c665c", null ],
-    [ "HandleEffectRemove", "df/dec/a24555.html#ab2d5f1dccd9bdf9f087ee3203b0d18c2", null ],
-    [ "PrepareAuraScript", "df/dec/a24555.html#a64f9e0f3d0376342767b912e32642c6c", null ],
-    [ "Register", "df/dec/a24555.html#a72d6639589588282ea15cfe83c9e9b76", null ],
-    [ "Validate", "df/dec/a24555.html#ac936c92c3a24fba95505243cd3e79c21", null ]
+    [ "npc_unkor_the_ruthlessAI", "df/dec/a24555.html#a965b0f182570a54ee4c0a6a54ba8fafb", null ],
+    [ "DamageTaken", "df/dec/a24555.html#a88b5e4b43171be8cc62d2a10f188e363", null ],
+    [ "DoNice", "df/dec/a24555.html#aa673fc892b9c0d59b2789271140e6054", null ],
+    [ "JustEngagedWith", "df/dec/a24555.html#a537225016bfeba51b607d250c0a09be5", null ],
+    [ "Reset", "df/dec/a24555.html#a14ca75417c623d6d6e5fce50521963da", null ],
+    [ "UpdateAI", "df/dec/a24555.html#a744ea41d7f9450965419085a296c8df2", null ],
+    [ "CanDoQuest", "df/dec/a24555.html#a98d7d45b450f3464291ecbc05ab31f21", null ],
+    [ "Pulverize_Timer", "df/dec/a24555.html#a2ddc09c9241bbf95cddb6c1c4ddfc6bd", null ],
+    [ "UnkorUnfriendly_Timer", "df/dec/a24555.html#ae6eeb6177d655f5a0bede45183758f1f", null ]
 ];

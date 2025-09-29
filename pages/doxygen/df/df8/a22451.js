@@ -1,9 +1,8 @@
 var a22451 =
 [
-    [ "OPvPCapturePointGH", "df/df8/a22451.html#a6e46100e50212310af4301c492d5773e", null ],
-    [ "ChangeState", "df/df8/a22451.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
-    [ "FillInitialWorldStates", "df/df8/a22451.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
-    [ "HandlePlayerEnter", "df/df8/a22451.html#afea733c44d129d9a5af78a8337d9e04a", null ],
-    [ "HandlePlayerLeave", "df/df8/a22451.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
-    [ "SendChangePhase", "df/df8/a22451.html#aec741b9102829bf77850dc06a49bb8da", null ]
+    [ "CheckCast", "df/df8/a22451.html#ab1584c391ac81b8338387acc6187001f", null ],
+    [ "HandleDummy", "df/df8/a22451.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
+    [ "PrepareSpellScript", "df/df8/a22451.html#a08d9ffb7dcbe786071979166e0489336", null ],
+    [ "Register", "df/df8/a22451.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
+    [ "Validate", "df/df8/a22451.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
 ];

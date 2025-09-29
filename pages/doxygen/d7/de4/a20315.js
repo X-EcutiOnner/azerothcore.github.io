@@ -1,7 +1,6 @@
 var a20315 =
 [
-    [ "FilterTargetsInitial", "d7/de4/a20315.html#a2477349cffb8da02936545ba0bd03d0f", null ],
-    [ "Load", "d7/de4/a20315.html#a4606d10a2699e3fb5290cefdc0876505", null ],
-    [ "PrepareSpellScript", "d7/de4/a20315.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
-    [ "Register", "d7/de4/a20315.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
+    [ "achievement_freya_knock_on_wood", "d7/de4/a20315.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "d7/de4/a20315.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "d7/de4/a20315.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

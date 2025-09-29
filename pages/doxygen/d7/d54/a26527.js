@@ -1,9 +1,7 @@
 var a26527 =
 [
-    [ "CheckCast", "d7/d54/a26527.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
-    [ "FilterTargets", "d7/d54/a26527.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
-    [ "HandleDummy", "d7/d54/a26527.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
-    [ "PrepareSpellScript", "d7/d54/a26527.html#a9c992e732b525e29f684947398d20efb", null ],
-    [ "Register", "d7/d54/a26527.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
-    [ "Validate", "d7/d54/a26527.html#abca1e5aa46e7753588c8120090775195", null ]
+    [ "if", "d7/d54/a26527.html#aefedb14e99d2e60abfd58f7778deb39b", null ],
+    [ "PrepareAuraScript", "d7/d54/a26527.html#ad61e8c804e59ca0623748acde69aeddb", null ],
+    [ "Register", "d7/d54/a26527.html#af917d32bc0d7f825a52c0a916a3a2357", null ],
+    [ "AuraEffectHandleModes", "d7/d54/a26527.html#accfab0bada4faf21178e3f67a79c6dfe", null ]
 ];

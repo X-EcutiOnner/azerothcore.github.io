@@ -1,5 +1,6 @@
 var a06215 =
 [
-    [ "SmartTrigger", "d0/d65/a06215.html#ae94d836bb1a714a3b90dcf146aa967a9", null ],
-    [ "OnTrigger", "d0/d65/a06215.html#a713066a301e22e7744b3f82a1ca134ed", null ]
+    [ "CreatureAIFactory", "d0/d65/a06215.html#a978af64c2793b92ee2fe57763500f8d9", null ],
+    [ "Create", "d0/d65/a06215.html#ab5f691811cc23c5079a7a0a7f3503638", null ],
+    [ "Permit", "d0/d65/a06215.html#ae5e76ee1d1f8949214dd5421bf7e4deb", null ]
 ];

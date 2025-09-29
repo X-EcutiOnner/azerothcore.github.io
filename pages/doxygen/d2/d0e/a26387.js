@@ -1,7 +1,9 @@
 var a26387 =
 [
-    [ "HandleScriptEffect", "d2/d0e/a26387.html#ae7bfcdf3306fe4c8532649ff7e892c57", null ],
-    [ "PrepareSpellScript", "d2/d0e/a26387.html#ad2bfab00a973366af32388e40b9d2566", null ],
-    [ "Register", "d2/d0e/a26387.html#acbf74d85d9d8ce8e9ce0546c90cb7efa", null ],
-    [ "Validate", "d2/d0e/a26387.html#a487fa0e6b5f2682349b22737ceeae50c", null ]
+    [ "CheckCast", "d2/d0e/a26387.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
+    [ "HandleTriggerSpellHit", "d2/d0e/a26387.html#aca027bb2995456bfcedd33c06966eb88", null ],
+    [ "HandleTriggerSpellLaunch", "d2/d0e/a26387.html#aa67bf9f81086a3837037d67306979072", null ],
+    [ "PrepareSpellScript", "d2/d0e/a26387.html#a9247b5f3a376bebdcf857565b5049944", null ],
+    [ "Register", "d2/d0e/a26387.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
+    [ "Validate", "d2/d0e/a26387.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
 ];

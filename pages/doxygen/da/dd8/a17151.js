@@ -1,6 +1,9 @@
 var a17151 =
 [
-    [ "boss_moorabiAI", "d7/d11/a17155.html", "d7/d11/a17155" ],
-    [ "boss_moorabi", "da/dd8/a17151.html#a94e14b2a9b06143985f785e781d1c302", null ],
-    [ "GetAI", "da/dd8/a17151.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
+    [ "npc_hor_risen_witch_doctorAI", "da/dd8/a17151.html#acd33d4811521f6d41bce21270198db45", null ],
+    [ "JustDied", "da/dd8/a17151.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
+    [ "JustEngagedWith", "da/dd8/a17151.html#a54378daf294fcbee4ba1abf14927cc52", null ],
+    [ "Reset", "da/dd8/a17151.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
+    [ "UpdateAI", "da/dd8/a17151.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
+    [ "events", "da/dd8/a17151.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
 ];

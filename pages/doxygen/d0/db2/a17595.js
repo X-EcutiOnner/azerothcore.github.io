@@ -1,6 +1,8 @@
 var a17595 =
 [
-    [ "PrepareSpellScript", "d0/db2/a17595.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
-    [ "Register", "d0/db2/a17595.html#a651f52f7d242251ff69d100fd69376e4", null ],
-    [ "SelectTarget", "d0/db2/a17595.html#aede083ebebe38deb5898ff028564ef95", null ]
+    [ "OnApply", "d0/db2/a17595.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
+    [ "OnRemove", "d0/db2/a17595.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
+    [ "PrepareAuraScript", "d0/db2/a17595.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
+    [ "Register", "d0/db2/a17595.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
+    [ "Validate", "d0/db2/a17595.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
 ];

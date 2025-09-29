@@ -1,6 +1,6 @@
 var a13887 =
 [
-    [ "OnEffect", "dd/d92/a13887.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
-    [ "PrepareSpellScript", "dd/d92/a13887.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
-    [ "Register", "dd/d92/a13887.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
+    [ "npc_highborne_lamenterAI", "d7/dde/a13891.html", "d7/dde/a13891" ],
+    [ "npc_highborne_lamenter", "dd/d92/a13887.html#a40316cf73a688e34e95dd41feef8612a", null ],
+    [ "GetAI", "dd/d92/a13887.html#aad8ccb43b325b797f60a16e338458a1e", null ]
 ];

@@ -1,6 +1,6 @@
 var a12067 =
 [
-    [ "OrcDeathEvent", "da/dcc/a12067.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
-    [ "Execute", "da/dcc/a12067.html#a293ec6667da669a27fe75965f919cd68", null ],
-    [ "_me", "da/dcc/a12067.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
+    [ "boss_evisceratorAI", "d8/dcc/a12071.html", "d8/dcc/a12071" ],
+    [ "boss_eviscerator", "da/dcc/a12067.html#aca65400afa5ca9ca81043687d79cdad0", null ],
+    [ "GetAI", "da/dcc/a12067.html#a21203f69267ec93c46d9ff56321b8169", null ]
 ];

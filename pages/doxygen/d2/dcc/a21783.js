@@ -1,6 +1,7 @@
 var a21783 =
 [
-    [ "npc_q24545_vegard_dummyAI", "dd/d5e/a21787.html", "dd/d5e/a21787" ],
-    [ "npc_q24545_vegard_dummy", "d2/dcc/a21783.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
-    [ "GetAI", "d2/dcc/a21783.html#a201d1dec206887c26e33f795a0fd0887", null ]
+    [ "npc_bonker_togglevoltAI", "dd/d5e/a21787.html", "dd/d5e/a21787" ],
+    [ "npc_bonker_togglevolt", "d2/dcc/a21783.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
+    [ "GetAI", "d2/dcc/a21783.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
+    [ "OnQuestAccept", "d2/dcc/a21783.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
 ];

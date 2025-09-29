@@ -1,7 +1,6 @@
 var a21723 =
 [
-    [ "CheckRequirement", "d8/dc2/a21723.html#a41beb2c890137328734d6adb14e08302", null ],
-    [ "PrepareSpellScript", "d8/dc2/a21723.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
-    [ "Register", "d8/dc2/a21723.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
-    [ "SetDest", "d8/dc2/a21723.html#a431a556ab73f91ed63f5983e537834a5", null ]
+    [ "npc_iruk", "d8/dc2/a21723.html#a721aeefd23371cc6bc16738a797bf50a", null ],
+    [ "OnGossipHello", "d8/dc2/a21723.html#a774669099330c75ab5e0bea8d460f517", null ],
+    [ "OnGossipSelect", "d8/dc2/a21723.html#ae6f7d54d224488a9e29c59c560eba471", null ]
 ];

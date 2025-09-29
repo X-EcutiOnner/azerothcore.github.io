@@ -1,7 +1,6 @@
 var a16403 =
 [
-    [ "npc_toc_dkAI", "db/d2f/a16403.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
-    [ "myCanCast", "db/d2f/a16403.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
-    [ "UpdateAI", "db/d2f/a16403.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
-    [ "events", "db/d2f/a16403.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
+    [ "instance_ruby_sanctum_InstanceMapScript", "d0/dac/a16407.html", "d0/dac/a16407" ],
+    [ "instance_ruby_sanctum", "db/d2f/a16403.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
+    [ "GetInstanceScript", "db/d2f/a16403.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
 ];

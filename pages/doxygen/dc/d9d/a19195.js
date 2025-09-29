@@ -1,10 +1,7 @@
 var a19195 =
 [
-    [ "npc_scion_of_eternityAI", "dc/d9d/a19195.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
-    [ "AttackStart", "dc/d9d/a19195.html#a1335f9e34ff73d5501455062be025ada", null ],
-    [ "JustDied", "dc/d9d/a19195.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
-    [ "MoveInLineOfSight", "dc/d9d/a19195.html#a74a69fa532f0921285ef678bbd2fa761", null ],
-    [ "UpdateAI", "dc/d9d/a19195.html#adb16afb6ea1583a7156b80a8d833951a", null ],
-    [ "events", "dc/d9d/a19195.html#ae0e194a24a14033a499e68524da1699d", null ],
-    [ "pInstance", "dc/d9d/a19195.html#aa828ca4a75696645d7aa350f1f981f40", null ]
+    [ "HandleScriptEffect", "dc/d9d/a19195.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
+    [ "PrepareSpellScript", "dc/d9d/a19195.html#a21a3175346c9b12c02205f2d33da3b86", null ],
+    [ "Register", "dc/d9d/a19195.html#af5f279ad20e9153f201262eaa7615978", null ],
+    [ "Validate", "dc/d9d/a19195.html#a635ff34619767f657778016e1eb901aa", null ]
 ];

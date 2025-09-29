@@ -1,6 +1,8 @@
 var a24255 =
 [
-    [ "PrepareSpellScript", "d8/de9/a24255.html#a190f6dc3d9b336324da29f627a743fe9", null ],
-    [ "Register", "d8/de9/a24255.html#a3afc8035b852bc31abd3228e88d59819", null ],
-    [ "SetDest", "d8/de9/a24255.html#a85d66a58597954501305ad5b674cc8a2", null ]
+    [ "npc_ancestral_wolfAI", "d8/de9/a24255.html#a59ccca7093575f4bcac57a4751d977d4", null ],
+    [ "MoveInLineOfSight", "d8/de9/a24255.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
+    [ "Reset", "d8/de9/a24255.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
+    [ "WaypointReached", "d8/de9/a24255.html#a2b553c29823e5ef888ee02a3ed413386", null ],
+    [ "ryga", "d8/de9/a24255.html#ac238214604720e298124b58c35d58e05", null ]
 ];

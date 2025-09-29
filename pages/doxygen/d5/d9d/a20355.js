@@ -1,6 +1,7 @@
 var a20355 =
 [
-    [ "npc_ulduar_leviathan_mkiiAI", "d3/dbe/a20359.html", "d3/dbe/a20359" ],
-    [ "npc_ulduar_leviathan_mkii", "d5/d9d/a20355.html#a9e4671adcb2409a7c83460d28d29f579", null ],
-    [ "GetAI", "d5/d9d/a20355.html#afe438e97b6989a8899850619c87cd7e6", null ]
+    [ "HandleAfterEffectApply", "d5/d9d/a20355.html#a672526de2c71dcae79bacef88f34dc26", null ],
+    [ "PrepareAuraScript", "d5/d9d/a20355.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
+    [ "Register", "d5/d9d/a20355.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
+    [ "Validate", "d5/d9d/a20355.html#ab5833f6218760a7d9829b5d453436302", null ]
 ];

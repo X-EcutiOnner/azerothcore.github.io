@@ -1,9 +1,7 @@
 var a19683 =
 [
-    [ "CheckTargets", "d9/dbd/a19683.html#a9340c167ef70508635092e273c23dcde", null ],
-    [ "CountTargets", "d9/dbd/a19683.html#a996db37b678143fbc0a392032d29fff5", null ],
-    [ "Load", "d9/dbd/a19683.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
-    [ "PrepareSpellScript", "d9/dbd/a19683.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
-    [ "Register", "d9/dbd/a19683.html#aed312a4408134589fd02bbcb844fd1b7", null ],
-    [ "_targetCount", "d9/dbd/a19683.html#ac780614674e748274081f9f99a5165fe", null ]
+    [ "HandleOnEffectApply", "d9/dbd/a19683.html#a4841f7a44f5df964c4eb9965383fd747", null ],
+    [ "PrepareAuraScript", "d9/dbd/a19683.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
+    [ "Register", "d9/dbd/a19683.html#a68fba646552678744f49d10b59704a35", null ],
+    [ "Validate", "d9/dbd/a19683.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
 ];

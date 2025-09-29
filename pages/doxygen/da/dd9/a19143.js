@@ -1,5 +1,7 @@
 var a19143 =
 [
-    [ "npc_mr_bigglesworth", "da/dd9/a19143.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
-    [ "JustDied", "da/dd9/a19143.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
+    [ "HandleGameObjectDamage", "da/dd9/a19143.html#a811edfe01c1784664b5b4253d2305b4e", null ],
+    [ "PrepareSpellScript", "da/dd9/a19143.html#a0cfedeba2a747777de292b8f30b6752b", null ],
+    [ "Register", "da/dd9/a19143.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
+    [ "Validate", "da/dd9/a19143.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
 ];

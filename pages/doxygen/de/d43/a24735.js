@@ -1,6 +1,7 @@
 var a24735 =
 [
-    [ "HandleKnockBack", "de/d43/a24735.html#ae50d143953074b83183482770046e131", null ],
-    [ "PrepareSpellScript", "de/d43/a24735.html#a73666b297ef8bbfd490fee6075b06b3a", null ],
-    [ "Register", "de/d43/a24735.html#a035df6b2e29aa0d2b5558e1cfef96ead", null ]
+    [ "HandleProc", "de/d43/a24735.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
+    [ "PrepareAuraScript", "de/d43/a24735.html#a2840931b939b95e6a476c07f08ca66b5", null ],
+    [ "Register", "de/d43/a24735.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
+    [ "lastChargeUsedTime", "de/d43/a24735.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
 ];

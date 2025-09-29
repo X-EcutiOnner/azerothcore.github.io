@@ -1,6 +1,7 @@
 var a15159 =
 [
-    [ "aqsentinelAI", "df/de0/a15163.html", "df/de0/a15163" ],
-    [ "npc_anubisath_sentinel", "d3/ddb/a15159.html#ada1ab0d1857fe52020e798d9710a66cb", null ],
-    [ "GetAI", "d3/ddb/a15159.html#ae19b8ba3766ede8f715dad5ff8d4b2d2", null ]
+    [ "HandleScript", "d3/ddb/a15159.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
+    [ "PrepareSpellScript", "d3/ddb/a15159.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
+    [ "Register", "d3/ddb/a15159.html#aff966352a2babe6e6daed91f02e1190a", null ],
+    [ "Validate", "d3/ddb/a15159.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
 ];

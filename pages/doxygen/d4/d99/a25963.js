@@ -1,7 +1,7 @@
 var a25963 =
 [
-    [ "CalculateAmount", "d4/d99/a25963.html#a0934aa8eaf442314aa6050d85304c15b", null ],
-    [ "CalculateSpellAmount", "d4/d99/a25963.html#ab765b87350bd3e73ac43879abef72d98", null ],
-    [ "PrepareAuraScript", "d4/d99/a25963.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
-    [ "Register", "d4/d99/a25963.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
+    [ "HandleScript", "d4/d99/a25963.html#a5b35bbac405dc2b03f195cb29786d5a6", null ],
+    [ "Load", "d4/d99/a25963.html#a61f1a4514e9900e4e14fded3c0b05593", null ],
+    [ "PrepareSpellScript", "d4/d99/a25963.html#abfac1629b7724a3b17b94480c31867af", null ],
+    [ "Register", "d4/d99/a25963.html#a62b9c194106e261245496441176c8d53", null ]
 ];

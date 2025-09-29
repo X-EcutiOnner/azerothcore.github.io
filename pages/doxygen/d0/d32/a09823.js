@@ -1,20 +1,13 @@
 var a09823 =
 [
-    [ "MapUpdater", "d0/d32/a09823.html#a96424fd90677e0f2d0908f9c25b58d04", null ],
-    [ "~MapUpdater", "d0/d32/a09823.html#aadb5781f6ab6ffd1410486399ccaa0ee", null ],
-    [ "activate", "d0/d32/a09823.html#a7a1362a9b916a0919f0fa6fcbf82ff22", null ],
-    [ "activated", "d0/d32/a09823.html#a9cd15656fd974278fa1d4ba30d6fcea8", null ],
-    [ "deactivate", "d0/d32/a09823.html#ab579ca346d4d19e16bd552ce84bd95b7", null ],
-    [ "schedule_lfg_update", "d0/d32/a09823.html#a4141350af5d8a86481a8e5f29f0ad7e2", null ],
-    [ "schedule_task", "d0/d32/a09823.html#a9a6a4c2260e0bb48e42b1a7d3216326b", null ],
-    [ "schedule_update", "d0/d32/a09823.html#aafda5775622dcce2e4869cf5d015fefc", null ],
-    [ "update_finished", "d0/d32/a09823.html#ab874c53de215037c8fae77f9dac6601c", null ],
-    [ "wait", "d0/d32/a09823.html#a608eb61de2bacf082422562b049e8652", null ],
-    [ "WorkerThread", "d0/d32/a09823.html#a3cce7e3bbab4e3e875dad9a549c142e8", null ],
-    [ "_cancelationToken", "d0/d32/a09823.html#a96c38c13ce5a71ce63ee0b83e83d5cfd", null ],
-    [ "_condition", "d0/d32/a09823.html#acf5b180bd52ae9244e0eda41bcc7573a", null ],
-    [ "_lock", "d0/d32/a09823.html#a0ed1652ffa76199e1e7d659b5c451549", null ],
-    [ "_queue", "d0/d32/a09823.html#afba30ac2a8ce0540b73f034b73ce5956", null ],
-    [ "_workerThreads", "d0/d32/a09823.html#a06a1943fe78ea8a5da2d4b0453748d90", null ],
-    [ "pending_requests", "d0/d32/a09823.html#aa5243a9d4d3753060570cecde9a3a6e7", null ]
+    [ "ParallelogramBoundary", "d0/d32/a09823.html#ace1e1ffbcb84343ca2641541fe000691", null ],
+    [ "IsWithinBoundaryArea", "d0/d32/a09823.html#af29e70a9febaa9d80d0ce7223e2c6fc3", null ],
+    [ "_a", "d0/d32/a09823.html#ad81a1a1f4e82de0e7a31bf13a87bac2b", null ],
+    [ "_abx", "d0/d32/a09823.html#a855c7ea39698f7dac80d72ea6962e9c7", null ],
+    [ "_aby", "d0/d32/a09823.html#ad81b9baeb70d5856ea8cdd3f787abf29", null ],
+    [ "_b", "d0/d32/a09823.html#a9d5d06cc3673f89644e45e62f96510db", null ],
+    [ "_c", "d0/d32/a09823.html#a6c19d4ed0a1c1b6ff042c4bbd64f0a8a", null ],
+    [ "_d", "d0/d32/a09823.html#a5214ac0f79f1d90492a77fbd251d1361", null ],
+    [ "_dax", "d0/d32/a09823.html#aab72030dfa3dd4e4bef03180bd0a306c", null ],
+    [ "_day", "d0/d32/a09823.html#a3b3e3993d09af62bae7fbfe65f6d641a", null ]
 ];

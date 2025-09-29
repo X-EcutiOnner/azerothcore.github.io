@@ -1,6 +1,5 @@
 var a22635 =
 [
-    [ "PrepareSpellScript", "df/dc3/a22635.html#abd6b61e7efbed1427b7603640ac7d474", null ],
-    [ "RecalculateDamage", "df/dc3/a22635.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
-    [ "Register", "df/dc3/a22635.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
+    [ "achievement_wg_didnt_stand_a_chance", "df/dc3/a22635.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
+    [ "OnCheck", "df/dc3/a22635.html#ae575bae454689e05c161e8480a13fa18", null ]
 ];

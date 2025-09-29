@@ -1,5 +1,7 @@
 var a15855 =
 [
-    [ "achievement_hadronox_denied", "d5/df9/a15855.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0", null ],
-    [ "OnCheck", "d5/df9/a15855.html#a0ee9c8fb90a43bc011c75026d6bcc2e5", null ]
+    [ "npc_wizzlecrank_shredderAI", "dd/d3e/a15859.html", "dd/d3e/a15859" ],
+    [ "npc_wizzlecrank_shredder", "d5/df9/a15855.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
+    [ "GetAI", "d5/df9/a15855.html#a5c42cc6d8cf2642333731138077af66e", null ],
+    [ "OnQuestAccept", "d5/df9/a15855.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
 ];

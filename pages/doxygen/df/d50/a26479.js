@@ -1,6 +1,6 @@
 var a26479 =
 [
-    [ "HandleScript", "df/d50/a26479.html#acde0ae837d0cd3af0f38481027200291", null ],
-    [ "PrepareSpellScript", "df/d50/a26479.html#ac1237e0af7f88f75ebc551af52fc301c", null ],
-    [ "Register", "df/d50/a26479.html#a2dc2628984358628afe7d9b62ced7794", null ]
+    [ "HandleDamage", "df/d50/a26479.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
+    [ "PrepareSpellScript", "df/d50/a26479.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
+    [ "Register", "df/d50/a26479.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
 ];

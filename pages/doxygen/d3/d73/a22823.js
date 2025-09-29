@@ -1,8 +1,12 @@
 var a22823 =
 [
-    [ "FilterTargets", "d3/d73/a22823.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
-    [ "HandleDummy", "d3/d73/a22823.html#ab89ab441f022ee017548ba49d128b92e", null ],
-    [ "PrepareSpellScript", "d3/d73/a22823.html#aa8578390d7d9379328c02ceb209e94ed", null ],
-    [ "Register", "d3/d73/a22823.html#a486387d707b7ad66ecb443ab2bb60778", null ],
-    [ "Validate", "d3/d73/a22823.html#ad5d695978794d796eb7139fce1530d57", null ]
+    [ "npc_stolen_soul", "d3/d73/a22823.html#a84a0bb8320b2332545748e010d855884", null ],
+    [ "DoAction", "d3/d73/a22823.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
+    [ "JustDied", "d3/d73/a22823.html#a6a1d6da5a448fd4b8910835d3a346e3a", null ],
+    [ "Reset", "d3/d73/a22823.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
+    [ "SetGUID", "d3/d73/a22823.html#a0779fa3688118d2f9e1fdd4c6cf600f5", null ],
+    [ "UpdateAI", "d3/d73/a22823.html#a7bf369dd943ee36600a364d56b85db5a", null ],
+    [ "_myClass", "d3/d73/a22823.html#ade19b9cb41a674f6bd049a621970aeff", null ],
+    [ "_scheduler", "d3/d73/a22823.html#ab62526916f0ccd681383d37d19d94ccc", null ],
+    [ "_targetGuid", "d3/d73/a22823.html#a6efbe90928119902e4b5a7148b12cfac", null ]
 ];

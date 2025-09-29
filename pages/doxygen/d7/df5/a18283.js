@@ -1,7 +1,6 @@
 var a18283 =
 [
-    [ "CheckTargetCount", "d7/df5/a18283.html#a44f558248f944464c773105728cffbca", null ],
-    [ "PrepareSpellScript", "d7/df5/a18283.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
-    [ "Register", "d7/df5/a18283.html#aeda833ca8483d337311086b9d0a14081", null ],
-    [ "Validate", "d7/df5/a18283.html#aee84751e352dbfc12472fc15924c48fa", null ]
+    [ "FilterTargets", "d7/df5/a18283.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
+    [ "PrepareSpellScript", "d7/df5/a18283.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
+    [ "Register", "d7/df5/a18283.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
 ];

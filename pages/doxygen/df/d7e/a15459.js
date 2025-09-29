@@ -1,13 +1,8 @@
 var a15459 =
 [
-    [ "npc_shenthulAI", "df/d7e/a15459.html#ae056474022c27be5565bf018a1b56f0b", null ],
-    [ "JustEngagedWith", "df/d7e/a15459.html#acb202ef530bc11ea807f580ff5dfc621", null ],
-    [ "ReceiveEmote", "df/d7e/a15459.html#ab2ddc3e447b36cb0fceffdaff0fca592", null ],
-    [ "Reset", "df/d7e/a15459.html#af077e96eb8bf89af2d6eb79907444a17", null ],
-    [ "UpdateAI", "df/d7e/a15459.html#a2ae643c11c6ea3808be922de96a24e8f", null ],
-    [ "CanEmote", "df/d7e/a15459.html#a920209c374e611e96347d209337c044f", null ],
-    [ "CanTalk", "df/d7e/a15459.html#a82ea8d2ee50538135add120be7616f86", null ],
-    [ "PlayerGUID", "df/d7e/a15459.html#a4b262388aca789d19231426a8cb73379", null ],
-    [ "ResetTimer", "df/d7e/a15459.html#a475a141d639f0136ac943e6afb1ecd15", null ],
-    [ "SaluteTimer", "df/d7e/a15459.html#ae76b4bbde77b6029a788abfbbbe84df8", null ]
+    [ "npc_ahnqiraji_critter", "df/d7e/a15459.html#a60e2dc1c52579a410d3435126bf39684", null ],
+    [ "JustDied", "df/d7e/a15459.html#a71d3d5262bde847a18932fea89cb6648", null ],
+    [ "JustEngagedWith", "df/d7e/a15459.html#aca1df706306f9181db26cd77e5b66452", null ],
+    [ "Reset", "df/d7e/a15459.html#a645e16e9da29f6579320394201d0ada7", null ],
+    [ "UpdateAI", "df/d7e/a15459.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
 ];

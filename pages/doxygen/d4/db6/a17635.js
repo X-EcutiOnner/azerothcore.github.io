@@ -1,6 +1,8 @@
 var a17635 =
 [
-    [ "IgbArtilleryCheck", "d4/db6/a17635.html#a78b65928551ed799cf3f446f0603c50e", null ],
-    [ "operator()", "d4/db6/a17635.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
-    [ "_entry", "d4/db6/a17635.html#a98a6a0836414da82c288e372e982f69f", null ]
+    [ "npc_muradin_bronzebeard_iccAI", "d2/dc4/a17639.html", "d2/dc4/a17639" ],
+    [ "npc_muradin_bronzebeard_icc", "d4/db6/a17635.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
+    [ "GetAI", "d4/db6/a17635.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
+    [ "OnGossipHello", "d4/db6/a17635.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
+    [ "OnGossipSelect", "d4/db6/a17635.html#a46c4893be723a848d985ff55e28d55a2", null ]
 ];

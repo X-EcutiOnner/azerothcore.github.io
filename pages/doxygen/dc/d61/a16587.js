@@ -1,10 +1,7 @@
 var a16587 =
 [
-    [ "boss_dredAI", "dc/d61/a16587.html#a4ad04fe31990a37fd6d3a23329350248", null ],
-    [ "GetData", "dc/d61/a16587.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
-    [ "JustEngagedWith", "dc/d61/a16587.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
-    [ "Reset", "dc/d61/a16587.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
-    [ "SetData", "dc/d61/a16587.html#a884f48aabc26b054dcd303a91cb88301", null ],
-    [ "UpdateAI", "dc/d61/a16587.html#afc12ced9b5026fe3b297560c30e129ed", null ],
-    [ "_raptorCount", "dc/d61/a16587.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
+    [ "npc_toc_druidAI", "dc/d61/a16587.html#adb456f1f93be5329174a3199c9092825", null ],
+    [ "myCanCast", "dc/d61/a16587.html#af82baa22ae49ba268f494cb07287845e", null ],
+    [ "UpdateAI", "dc/d61/a16587.html#a82a22a557db647f73690d8838a635eaf", null ],
+    [ "events", "dc/d61/a16587.html#a6bb27baf17f0286db3222287a8073bd7", null ]
 ];

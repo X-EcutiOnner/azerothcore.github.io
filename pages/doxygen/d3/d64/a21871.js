@@ -1,7 +1,7 @@
 var a21871 =
 [
-    [ "npc_tallhorn_stagAI", "d3/d64/a21871.html#a50947c450eece979193b45728e5e1f82", null ],
-    [ "Reset", "d3/d64/a21871.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
-    [ "UpdateAI", "d3/d64/a21871.html#adf60f62fa92238cb315c42e0179c3f17", null ],
-    [ "_phase", "d3/d64/a21871.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
+    [ "npc_warmage_violetstand", "d3/d64/a21871.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "d3/d64/a21871.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "d3/d64/a21871.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "d3/d64/a21871.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

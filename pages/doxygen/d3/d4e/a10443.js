@@ -1,6 +1,10 @@
 var a10443 =
 [
-    [ "ShowingCloak", "d3/d4e/a10443.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
-    [ "Read", "d3/d4e/a10443.html#ad72ae43efc070655aa078d9985369442", null ],
-    [ "ShowCloak", "d3/d4e/a10443.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
+    [ "VehicleScript", "d3/d4e/a10443.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
+    [ "OnAddPassenger", "d3/d4e/a10443.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
+    [ "OnInstall", "d3/d4e/a10443.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
+    [ "OnInstallAccessory", "d3/d4e/a10443.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
+    [ "OnRemovePassenger", "d3/d4e/a10443.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
+    [ "OnReset", "d3/d4e/a10443.html#a38fca3fec8785f015084b832f9e3b08c", null ],
+    [ "OnUninstall", "d3/d4e/a10443.html#a7d4bafe42756ee73b5ce79783842c243", null ]
 ];

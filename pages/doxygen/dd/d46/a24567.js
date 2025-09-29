@@ -1,7 +1,8 @@
 var a24567 =
 [
-    [ "HandleScriptEffect", "dd/d46/a24567.html#afaffd667477e286700dd7e5562423452", null ],
-    [ "PrepareSpellScript", "dd/d46/a24567.html#a9c30d4d6427cfc96b88a1427afcedb00", null ],
-    [ "Register", "dd/d46/a24567.html#ab8b68e02d05abceeb4b7eef00092e759", null ],
-    [ "Validate", "dd/d46/a24567.html#a553f2f26a412d2060151b4f49055b847", null ]
+    [ "go_skull_pile", "dd/d46/a24567.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "dd/d46/a24567.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "dd/d46/a24567.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "dd/d46/a24567.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "dd/d46/a24567.html#af74fcd75404c0886128401d661067394", null ]
 ];

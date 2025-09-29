@@ -1,9 +1,8 @@
 var a26531 =
 [
-    [ "Absorb", "db/d7b/a26531.html#a22b175a7a07f950b5be1aad60e096e4f", null ],
-    [ "CalculateAmount", "db/d7b/a26531.html#a9aa29ca1e77a2ef060d94d4d07a7c0e6", null ],
-    [ "Load", "db/d7b/a26531.html#acf7851d34fa2368c9e711e8b3943c09b", null ],
-    [ "PrepareAuraScript", "db/d7b/a26531.html#ac273b669dc396561d9ec8b523659363f", null ],
-    [ "Register", "db/d7b/a26531.html#a656f4770b0f7099f5926a8063f7d740c", null ],
-    [ "absorbPct", "db/d7b/a26531.html#a31d7ca52ace4e22652403292969baf55", null ]
+    [ "HandleDummy", "db/d7b/a26531.html#ae396c96647e36da357bdc70e11e3145f", null ],
+    [ "Load", "db/d7b/a26531.html#a2b4811bf7e60361e13bc382e62173cee", null ],
+    [ "PrepareSpellScript", "db/d7b/a26531.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
+    [ "Register", "db/d7b/a26531.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
+    [ "count", "db/d7b/a26531.html#a73358b2272ad12faef006b1ef633cac0", null ]
 ];

@@ -1,8 +1,6 @@
 var a24031 =
 [
-    [ "npc_captain_saeedAI", "d9/d09/a24035.html", "d9/d09/a24035" ],
-    [ "npc_captain_saeed", "d8/d5e/a24031.html#a8a5bee9f908b10451b8d4720dff85670", null ],
-    [ "GetAI", "d8/d5e/a24031.html#aa6a232f6c2dd39483273cac41af9a7d7", null ],
-    [ "OnGossipHello", "d8/d5e/a24031.html#a7db9b76578743d4ee96b2c4f11dc265c", null ],
-    [ "OnGossipSelect", "d8/d5e/a24031.html#a8ace4d924b6f33312d914fb6ce1e0ea6", null ]
+    [ "AfterRemove", "d8/d5e/a24031.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
+    [ "PrepareAuraScript", "d8/d5e/a24031.html#ad5871ce865820456177362c6b790778f", null ],
+    [ "Register", "d8/d5e/a24031.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
 ];

@@ -1,8 +1,8 @@
 var dir_6ce7ede482b4d6166c965935517abf20 =
 [
-    [ "boss_omor_the_unscarred.cpp", "d2/d1d/a01277.html", "d2/d1d/a01277" ],
-    [ "boss_vazruden_the_herald.cpp", "de/d33/a01274.html", "de/d33/a01274" ],
-    [ "boss_watchkeeper_gargolmar.cpp", "dc/dd9/a01268.html", "dc/dd9/a01268" ],
-    [ "hellfire_ramparts.h", "dd/d39/a01271.html", "dd/d39/a01271" ],
-    [ "instance_hellfire_ramparts.cpp", "da/dd8/a01265.html", "da/dd8/a01265" ]
+    [ "boss_omor_the_unscarred.cpp", "d6/d90/a01964.html", "d6/d90/a01964" ],
+    [ "boss_vazruden_the_herald.cpp", "d9/da1/a01976.html", "d9/da1/a01976" ],
+    [ "boss_watchkeeper_gargolmar.cpp", "de/d46/a01967.html", "de/d46/a01967" ],
+    [ "hellfire_ramparts.h", "d5/dd7/a01970.html", "d5/dd7/a01970" ],
+    [ "instance_hellfire_ramparts.cpp", "d3/d59/a01973.html", "d3/d59/a01973" ]
 ];

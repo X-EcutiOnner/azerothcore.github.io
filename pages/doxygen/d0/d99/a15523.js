@@ -1,6 +1,6 @@
 var a15523 =
 [
-    [ "npc_braug_dimspirit", "d0/d99/a15523.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
-    [ "OnGossipHello", "d0/d99/a15523.html#aeaed026edf5a1fa82c941f667c05815b", null ],
-    [ "OnGossipSelect", "d0/d99/a15523.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
+    [ "npc_magwinAI", "dc/d4f/a15527.html", "dc/d4f/a15527" ],
+    [ "npc_magwin", "d0/d99/a15523.html#a1a45602fd312a4c436b09fb7b90ac1d4", null ],
+    [ "GetAI", "d0/d99/a15523.html#a83bee0fd5c1494f2bb732fe9e0ed1594", null ]
 ];

@@ -1,11 +1,7 @@
 var a17827 =
 [
-    [ "Load", "d7/d9e/a17827.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
-    [ "PrepareSpellScript", "d7/d9e/a17827.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
-    [ "Register", "d7/d9e/a17827.html#a9adbad7cc2185b22fb16135e78114548", null ],
-    [ "SelectTarget", "d7/d9e/a17827.html#a296ec09cec9661123ea5c86f3f262f32", null ],
-    [ "SetTarget", "d7/d9e/a17827.html#a15373dc2a0767e011faf504f6377e24d", null ],
-    [ "StartAttack", "d7/d9e/a17827.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
-    [ "Validate", "d7/d9e/a17827.html#a7619f7ec6dc0ce14293414729731ed00", null ],
-    [ "_target", "d7/d9e/a17827.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
+    [ "npc_gunship_rocketeerAI", "d7/d9e/a17827.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
+    [ "CanAIAttack", "d7/d9e/a17827.html#a4b4e2839e426bdb752beea09394f13dc", null ],
+    [ "MovementInform", "d7/d9e/a17827.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
+    [ "UpdateAI", "d7/d9e/a17827.html#af73d71750f116fb90be1c2acba75ca70", null ]
 ];

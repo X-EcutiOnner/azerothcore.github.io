@@ -1,6 +1,7 @@
 var a26627 =
 [
-    [ "FilterTargets", "de/df7/a26627.html#af7035627c3d6dd3fd8381ee258391a0b", null ],
-    [ "PrepareSpellScript", "de/df7/a26627.html#a3211fda7263bc513d14a8f2fd1507ef8", null ],
-    [ "Register", "de/df7/a26627.html#abe63ec69fe15fd8924fb63235489e088", null ]
+    [ "HandleDummy", "de/df7/a26627.html#aa9b579a8a7a23b94d9a2c8c7f932ff78", null ],
+    [ "PrepareSpellScript", "de/df7/a26627.html#ae1dfa086c89a4180d42d231064d88602", null ],
+    [ "Register", "de/df7/a26627.html#a256c152beadbfce6bf245779295b8758", null ],
+    [ "Validate", "de/df7/a26627.html#acb4144be3326bcaae9c559d8e7b9d7ec", null ]
 ];

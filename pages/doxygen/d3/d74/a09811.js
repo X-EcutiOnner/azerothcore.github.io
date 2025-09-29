@@ -1,6 +1,8 @@
 var a09811 =
 [
-    [ "UpdateRequest", "d3/d74/a09811.html#a23b3dbcff54691b2710109a822a486a0", null ],
-    [ "~UpdateRequest", "d3/d74/a09811.html#a240bdc56685c270c597588231c3bf8f8", null ],
-    [ "call", "d3/d74/a09811.html#a8221fa415f828a4866f85f3983f7dab9", null ]
+    [ "CircleBoundary", "d3/d74/a09811.html#a1f58f718ac4e4f6de029a0d46954012e", null ],
+    [ "CircleBoundary", "d3/d74/a09811.html#a10387b9a70013ecc15ae4f31dd1f21f3", null ],
+    [ "IsWithinBoundaryArea", "d3/d74/a09811.html#ad8eef3c2c98ee71a7d28d1e5d93ee508", null ],
+    [ "_center", "d3/d74/a09811.html#a65edd0aef7b73b176e5e311bb0d63738", null ],
+    [ "_radiusSq", "d3/d74/a09811.html#acbb3cc0c546f0e557a48a45425355950", null ]
 ];

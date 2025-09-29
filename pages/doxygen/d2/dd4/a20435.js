@@ -1,5 +1,6 @@
 var a20435 =
 [
-    [ "npc_ulduar_flames_spreadAI", "d2/dd4/a20435.html#a607ee542f7c6d84f4072557e44a80905", null ],
-    [ "SpellHit", "d2/dd4/a20435.html#abe69df9873fc125306a4ed757665e448", null ]
+    [ "npc_ulduar_hodir_mageAI", "de/dad/a20439.html", "de/dad/a20439" ],
+    [ "npc_ulduar_hodir_mage", "d2/dd4/a20435.html#afebdd0f99f0c7eaaf0a2d5731335105d", null ],
+    [ "GetAI", "d2/dd4/a20435.html#abcbe0337b2a83b6eb0a64f7465d7f79a", null ]
 ];

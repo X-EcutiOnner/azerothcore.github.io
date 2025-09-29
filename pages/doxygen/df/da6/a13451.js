@@ -1,6 +1,7 @@
 var a13451 =
 [
-    [ "npc_maredis_firestarAI", "df/da6/a13451.html#ac2d4ed4b205146524dcf11585d65ae12", null ],
-    [ "sGossipHello", "df/da6/a13451.html#a72790dc9525249a4b558c37c4a0bd03f", null ],
-    [ "sGossipSelect", "df/da6/a13451.html#acefb2bc09fe8f7ad77d53ee6eb8bbb71", null ]
+    [ "HandleScript", "df/da6/a13451.html#aae2f572a523431f6764f08e4719adbcf", null ],
+    [ "PrepareSpellScript", "df/da6/a13451.html#a20fdb423d5db4f1fa629a0f0480e2a9f", null ],
+    [ "Register", "df/da6/a13451.html#ae3b002197564318cc92242bd925d35af", null ],
+    [ "Validate", "df/da6/a13451.html#a98d9d84fd26d110efbbbaba9a19ef423", null ]
 ];

@@ -1,7 +1,5 @@
 var a21879 =
 [
-    [ "npc_amberpine_woodsmanAI", "d6/d4a/a21879.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
-    [ "Reset", "d6/d4a/a21879.html#a8da613c7bbaadf331c95667e7a361702", null ],
-    [ "UpdateAI", "d6/d4a/a21879.html#a64dbf41424a710c400d51507f6457b41", null ],
-    [ "_events", "d6/d4a/a21879.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
+    [ "npc_steam_powered_auctioneerAI", "d6/d4a/a21879.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
+    [ "CanBeSeen", "d6/d4a/a21879.html#a3352588abda326f7c72d0764a3f53370", null ]
 ];

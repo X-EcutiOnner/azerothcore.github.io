@@ -1,7 +1,6 @@
 var a14351 =
 [
-    [ "npc_love_in_air_supply_sentry", "de/d37/a14351.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
-    [ "MoveInLineOfSight", "de/d37/a14351.html#a9df110324c74277e07183c7db231bbda", null ],
-    [ "UpdateAI", "de/d37/a14351.html#aaa658222954f96d45b75daf83555f6f8", null ],
-    [ "lock", "de/d37/a14351.html#a59bf67b114014542538165c21aa109a6", null ]
+    [ "npc_brewfest_keg_reciver", "de/d37/a14351.html#af12e7608f3f715650e6c265ac18920e4", null ],
+    [ "MoveInLineOfSight", "de/d37/a14351.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
+    [ "sGossipSelect", "de/d37/a14351.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
 ];

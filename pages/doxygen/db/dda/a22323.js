@@ -1,6 +1,7 @@
 var a22323 =
 [
-    [ "HandleSummon", "db/dda/a22323.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
-    [ "PrepareSpellScript", "db/dda/a22323.html#ae7f071e9d9a82892be31090385679c9f", null ],
-    [ "Register", "db/dda/a22323.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
+    [ "HandleDummy", "db/dda/a22323.html#a85874062bceced2694fff725649df892", null ],
+    [ "PrepareSpellScript", "db/dda/a22323.html#a47bae4bdc488480f91517465d8e1b784", null ],
+    [ "Register", "db/dda/a22323.html#a7131340678ca685db98e2087661321a9", null ],
+    [ "Validate", "db/dda/a22323.html#af1b74ceee10fc48a0b85d4a284103950", null ]
 ];

@@ -1,11 +1,10 @@
 var a15731 =
 [
-    [ "npc_amanitar_mushrooms", "dc/df8/a15731.html#ad5603426c71c107ff439cea2efeea3f9", null ],
-    [ "AttackStart", "dc/df8/a15731.html#a0cc90c924a12a8be32c78e76ca798943", null ],
-    [ "DamageTaken", "dc/df8/a15731.html#a4c21a448535e1fc0f0116257194b9732", null ],
-    [ "EnterEvadeMode", "dc/df8/a15731.html#ae17ee367c9d206868c7dfc64d438806a", null ],
-    [ "JustEngagedWith", "dc/df8/a15731.html#ac50bf479e8c891af432cfccdf9d49c55", null ],
-    [ "Reset", "dc/df8/a15731.html#ae597d5a64765f5304773f9a38e9c719a", null ],
-    [ "UpdateAI", "dc/df8/a15731.html#ae71058353be43935aa45eb28eb41170f", null ],
-    [ "events", "dc/df8/a15731.html#a0be93d15582a5511963721510652e76d", null ]
+    [ "npc_thrall_warchiefAI", "dc/df8/a15731.html#ada9c79c1591a8bd28c66329dc7c5d3dc", null ],
+    [ "DoAction", "dc/df8/a15731.html#a511da19703e30f6e82e59c5223bf2770", null ],
+    [ "JustEngagedWith", "dc/df8/a15731.html#a994a9030e2d8c5afaa66c21897e54f82", null ],
+    [ "Reset", "dc/df8/a15731.html#a920a29258228c9c2e7e0791d38b648e1", null ],
+    [ "UpdateAI", "dc/df8/a15731.html#a537ed9f2d0a638d01e877d9ca1e7fdf0", null ],
+    [ "ChainLightningTimer", "dc/df8/a15731.html#ab30df9277fc84f098e0bdd70a2ab3795", null ],
+    [ "ShockTimer", "dc/df8/a15731.html#aa8609f8824f68ce7259465284c01dd35", null ]
 ];

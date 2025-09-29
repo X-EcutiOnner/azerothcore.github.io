@@ -1,6 +1,6 @@
 var a16671 =
 [
-    [ "instance_drak_tharon_keep_InstanceScript", "d3/d23/a16675.html", "d3/d23/a16675" ],
-    [ "instance_drak_tharon_keep", "d1/deb/a16671.html#a1f375185dba1619fee36160549eb91f4", null ],
-    [ "GetInstanceScript", "d1/deb/a16671.html#aca6364452dc39e747af152695d479bf8", null ]
+    [ "npc_toc_rogueAI", "d3/d23/a16675.html", "d3/d23/a16675" ],
+    [ "npc_toc_rogue", "d1/deb/a16671.html#a925840be9698e381358235a827c20b8a", null ],
+    [ "GetAI", "d1/deb/a16671.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
 ];

@@ -1,6 +1,6 @@
 var a15799 =
 [
-    [ "instance_ahnkahet_InstanceScript", "df/de5/a15803.html", "df/de5/a15803" ],
-    [ "instance_ahnkahet", "de/d61/a15799.html#afbe11bc040019231878cf31cc357830b", null ],
-    [ "GetInstanceScript", "de/d61/a15799.html#a8847099c88f11de363c45e27998f10b7", null ]
+    [ "npc_aquementasAI", "df/de5/a15803.html", "df/de5/a15803" ],
+    [ "npc_aquementas", "de/d61/a15799.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
+    [ "GetAI", "de/d61/a15799.html#a8a071b3073d69306feb84aca347a22c8", null ]
 ];

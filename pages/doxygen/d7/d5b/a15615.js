@@ -1,8 +1,7 @@
 var a15615 =
 [
-    [ "npc_pluckyAI", "d5/df2/a15619.html", "d5/df2/a15619" ],
-    [ "npc_plucky", "d7/d5b/a15615.html#a86bb2992b8af5893987145117aaf3608", null ],
-    [ "GetAI", "d7/d5b/a15615.html#a51e73f4e1f618aee5a000e31328efefc", null ],
-    [ "OnGossipHello", "d7/d5b/a15615.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
-    [ "OnGossipSelect", "d7/d5b/a15615.html#a88fa465246b4c657b921ebdc96f7a112", null ]
+    [ "npc_aged_dying_ancient_kodoAI", "d5/df2/a15619.html", "d5/df2/a15619" ],
+    [ "npc_aged_dying_ancient_kodo", "d7/d5b/a15615.html#a676170a319d3a8e46c9d017e61396c28", null ],
+    [ "GetAI", "d7/d5b/a15615.html#a886bc82764e4ca6d98dc94ea73415375", null ],
+    [ "OnGossipHello", "d7/d5b/a15615.html#a8489b3f23d8eca39f2750711512672e4", null ]
 ];

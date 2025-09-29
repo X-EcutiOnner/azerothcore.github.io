@@ -1,12 +1,17 @@
 var a12887 =
 [
-    [ "npc_scarlet_minerAI", "dd/d31/a12887.html#a7f5ca173103eb4498ce41912bda5da66", null ],
-    [ "InitCartQuest", "dd/d31/a12887.html#a5d3ece8f2f02a2bae4550a41f55348b0", null ],
-    [ "InitWaypoint", "dd/d31/a12887.html#a7fe048368b6e0a43b5be501a24773b8c", null ],
-    [ "Reset", "dd/d31/a12887.html#a2a8660173dc32c38de917049eb33fff8", null ],
-    [ "UpdateAI", "dd/d31/a12887.html#a48d2c92a4d45d5e59252f9455b82cbbd", null ],
-    [ "WaypointReached", "dd/d31/a12887.html#a31f4363e269b51d3a002a132b5516dd0", null ],
-    [ "carGUID", "dd/d31/a12887.html#a963f9c0ca58ce160b43f36f5a9f7dee7", null ],
-    [ "IntroPhase", "dd/d31/a12887.html#a094c2ee20d13c88805c3de7f9f94b86e", null ],
-    [ "IntroTimer", "dd/d31/a12887.html#adae2103753dd62699359ff01ac3ba865", null ]
+    [ "boss_dorothee", "dd/d31/a12887.html#a8bd5b4753c2d8f8aced0c036912f10f1", null ],
+    [ "DoAction", "dd/d31/a12887.html#a1b9cf1e58d68d249249a8b0d082b725a", null ],
+    [ "EnterEvadeMode", "dd/d31/a12887.html#a6dfc4109370d4e932e7376a443bd64ad", null ],
+    [ "JustDied", "dd/d31/a12887.html#a289dfa1f257ca25acba9487908e6223c", null ],
+    [ "JustEngagedWith", "dd/d31/a12887.html#aa35dafeb9faf8eeea55caa0eeb669db3", null ],
+    [ "JustReachedHome", "dd/d31/a12887.html#a762209d2bf78cc21c48a426732f2354e", null ],
+    [ "Reset", "dd/d31/a12887.html#ae3f123a6a9223b7928295812326b0cb4", null ],
+    [ "SummonedCreatureDies", "dd/d31/a12887.html#a0e76c828a1c7c49741963b6e98003a66", null ],
+    [ "SummonTito", "dd/d31/a12887.html#a5c04074aab40ecaeeb84b33205b40144", null ],
+    [ "UpdateAI", "dd/d31/a12887.html#a30fbcc5e7ca4ed74b9d2895b94a9a19e", null ],
+    [ "_scheduler", "dd/d31/a12887.html#a840bcbad78ff881ef3a803ffa23d3c6e", null ],
+    [ "_startIntro", "dd/d31/a12887.html#a20e6555e2117a62fce3af7f7fb7167cc", null ],
+    [ "instance", "dd/d31/a12887.html#ac6a6f1c9074697f761e4e09550cfea71", null ],
+    [ "titoDied", "dd/d31/a12887.html#a258cc9ce32f314e723d5345ac18336bf", null ]
 ];

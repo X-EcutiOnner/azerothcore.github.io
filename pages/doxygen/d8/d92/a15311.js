@@ -1,7 +1,9 @@
 var a15311 =
 [
-    [ "npc_kerlonianAI", "d1/d9f/a15315.html", "d1/d9f/a15315" ],
-    [ "npc_kerlonian", "d8/d92/a15311.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
-    [ "GetAI", "d8/d92/a15311.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
-    [ "OnQuestAccept", "d8/d92/a15311.html#a257d24295318605ac2fd5554315dfd63", null ]
+    [ "npc_giant_eye_tentacle", "d8/d92/a15311.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
+    [ "JustDied", "d8/d92/a15311.html#a72cac50a711868256a41c543d0cef3da", null ],
+    [ "JustEngagedWith", "d8/d92/a15311.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
+    [ "Reset", "d8/d92/a15311.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
+    [ "UpdateAI", "d8/d92/a15311.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
+    [ "_portalGUID", "d8/d92/a15311.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
 ];

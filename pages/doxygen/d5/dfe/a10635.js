@@ -1,7 +1,5 @@
 var a10635 =
 [
-    [ "GuildBankActivate", "d5/dfe/a10635.html#a5b27541a26ada694d9635f6d6873ef20", null ],
-    [ "Read", "d5/dfe/a10635.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
-    [ "Banker", "d5/dfe/a10635.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
-    [ "FullUpdate", "d5/dfe/a10635.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
+    [ "GuildDeclineInvitation", "d5/dfe/a10635.html#a11a70a9974bb139e53f76c8b78944fe7", null ],
+    [ "Read", "d5/dfe/a10635.html#ad034438e18a7feddbac376a599c1e01a", null ]
 ];

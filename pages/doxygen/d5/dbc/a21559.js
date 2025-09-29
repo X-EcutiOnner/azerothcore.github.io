@@ -1,9 +1,6 @@
 var a21559 =
 [
-    [ "npc_bloodmage_laurithAI", "d5/dbc/a21559.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
-    [ "Reset", "d5/dbc/a21559.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
-    [ "SetGUID", "d5/dbc/a21559.html#a50a144cf1545117d79268d3a18a4b4ec", null ],
-    [ "UpdateAI", "d5/dbc/a21559.html#a9752f518441071dd4a60cd63423bf9a3", null ],
-    [ "_events", "d5/dbc/a21559.html#a35facab84094071d952792a4c3e5015d", null ],
-    [ "_playerGUID", "d5/dbc/a21559.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
+    [ "boss_moraggAI", "d4/d31/a21563.html", "d4/d31/a21563" ],
+    [ "boss_moragg", "d5/dbc/a21559.html#aeb43f9cc4c41f049fd0a13e79cadfcd1", null ],
+    [ "GetAI", "d5/dbc/a21559.html#a5ea2f210038b3e44bf2cb9c402e1b761", null ]
 ];

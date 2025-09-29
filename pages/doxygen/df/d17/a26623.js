@@ -1,5 +1,5 @@
 var a26623 =
 [
-    [ "EarthenPowerTargetSelector", "df/d17/a26623.html#a61290afcc621c73682160a4e6a6e0f5d", null ],
-    [ "operator()", "df/d17/a26623.html#a9f3d7e7bdb3a3affa72da57903f28940", null ]
+    [ "spell_q11515_fel_siphon_dummy", "df/d17/a26623.html#a80fa790a716d1ae950f43f9a298afd66", null ],
+    [ "GetSpellScript", "df/d17/a26623.html#a0d122972fc036d1f1e49c49acda58be3", null ]
 ];

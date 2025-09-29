@@ -1,6 +1,6 @@
 var a17887 =
 [
-    [ "boss_rotfaceAI", "dc/d5c/a17891.html", "dc/d5c/a17891" ],
-    [ "boss_rotface", "db/d4d/a17887.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
-    [ "GetAI", "db/d4d/a17887.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
+    [ "BurningPitchFilterCheck", "db/d4d/a17887.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
+    [ "operator()", "db/d4d/a17887.html#a24be987c8471d8a7096025debf6e60b1", null ],
+    [ "_entry", "db/d4d/a17887.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
 ];

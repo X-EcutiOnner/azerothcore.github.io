@@ -1,5 +1,6 @@
 var a17147 =
 [
-    [ "achievement_share_the_love", "d1/df8/a17147.html#a3eaa89eaa356b0e2f8b5c688439baf9c", null ],
-    [ "OnCheck", "d1/df8/a17147.html#a9d6b6d19611d1482111692de9f2b1cc8", null ]
+    [ "npc_hor_risen_witch_doctorAI", "da/dd8/a17151.html", "da/dd8/a17151" ],
+    [ "npc_hor_risen_witch_doctor", "d1/df8/a17147.html#add06a10c9b4342b136b5cab49338b095", null ],
+    [ "GetAI", "d1/df8/a17147.html#a055a8d29d8e6a58b92968ed1c39c1b1d", null ]
 ];

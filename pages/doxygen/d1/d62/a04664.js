@@ -1,8 +1,7 @@
 var a04664 =
 [
-    [ "TransactionBase", "d0/dba/a05906.html", "d0/dba/a05906" ],
-    [ "Transaction< T >", "d6/dcf/a05722.html", "d6/dcf/a05722" ],
-    [ "TransactionTask", "d7/d6f/a05910.html", "d7/d6f/a05910" ],
-    [ "TransactionWithResultTask", "de/dec/a05914.html", "de/dec/a05914" ],
-    [ "TransactionCallback", "d5/d90/a05918.html", "d5/d90/a05918" ]
+    [ "EnumText", "d1/d0f/a05543.html", "d1/d0f/a05543" ],
+    [ "Acore::Impl::EnumUtilsImpl::EnumUtils< Enum >", "da/dfb/a05547.html", "da/dfb/a05547" ],
+    [ "EnumUtils", "de/ddf/a05551.html", "de/ddf/a05551" ],
+    [ "EnumUtils::Iterator< Enum >", "dd/df2/a05555.html", "dd/df2/a05555" ]
 ];

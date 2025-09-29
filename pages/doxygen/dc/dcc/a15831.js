@@ -1,6 +1,7 @@
 var a15831 =
 [
-    [ "boss_hadronoxAI", "d8/dfa/a15835.html", "d8/dfa/a15835" ],
-    [ "boss_hadronox", "dc/dcc/a15831.html#ae3457fd6108cc350cf9eedab3178f781", null ],
-    [ "GetAI", "dc/dcc/a15831.html#a90bf0ecb218e30e61852baffeabc3dc1", null ]
+    [ "npc_giltharesAI", "d8/dfa/a15835.html", "d8/dfa/a15835" ],
+    [ "npc_gilthares", "dc/dcc/a15831.html#af1e0746350b32b68825710e1c3ed91a5", null ],
+    [ "GetAI", "dc/dcc/a15831.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
+    [ "OnQuestAccept", "dc/dcc/a15831.html#a018cc6240a79216acb371241f63e3234", null ]
 ];

@@ -1,8 +1,9 @@
 var a25655 =
 [
-    [ "CheckProc", "df/d7d/a25655.html#a2e83dd62bfcbe23e38b62e8299a52ee5", null ],
-    [ "HandleProc", "df/d7d/a25655.html#a1d45afc30c8dd6de0a01285778117033", null ],
-    [ "PrepareAuraScript", "df/d7d/a25655.html#ab468329029c4bc3c16475585b3451615", null ],
-    [ "Register", "df/d7d/a25655.html#a37700b8597a3945d30700c5e8b60404a", null ],
-    [ "Validate", "df/d7d/a25655.html#a30e57e0b04e16a4a232c6a18801fafa0", null ]
+    [ "CheckIfCorpseNear", "df/d7d/a25655.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
+    [ "HandleDummy", "df/d7d/a25655.html#a913c0137d2a13c810bbae869cc6cf734", null ],
+    [ "Load", "df/d7d/a25655.html#a3f36968d10bde12c7e2eda8db4145252", null ],
+    [ "PrepareSpellScript", "df/d7d/a25655.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
+    [ "Register", "df/d7d/a25655.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
+    [ "Validate", "df/d7d/a25655.html#a51b075f95211025b2a7719a3ee70a6be", null ]
 ];

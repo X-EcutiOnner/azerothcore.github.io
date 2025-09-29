@@ -1,6 +1,6 @@
 var a14507 =
 [
-    [ "HandleScriptEffect", "d0/dd3/a14507.html#a2acaaf3716237f147429cb07779ae49e", null ],
-    [ "PrepareSpellScript", "d0/dd3/a14507.html#a55df717ede47b17a32ae33ecd64617cd", null ],
-    [ "Register", "d0/dd3/a14507.html#ac515af62f7e42cafecc4afdf7ba15ddf", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "d8/d62/a14511.html", "d8/d62/a14511" ],
+    [ "npc_grizzlemaw_cw_trigger", "d0/dd3/a14507.html#a4514796784d974ba6de09b5a5d4e5f3b", null ],
+    [ "GetAI", "d0/dd3/a14507.html#a1a834bda866033a3cca4fc4ece447313", null ]
 ];

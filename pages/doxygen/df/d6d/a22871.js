@@ -1,6 +1,8 @@
 var a22871 =
 [
-    [ "HandleEffectRemove", "df/d6d/a22871.html#ae9baf688d8ac42c4ccbbf13f3b79e831", null ],
-    [ "PrepareAuraScript", "df/d6d/a22871.html#a2e2668f0b5bf369ec859627e0bd8d980", null ],
-    [ "Register", "df/d6d/a22871.html#acd7e22159d262a9888c744eecb978c09", null ]
+    [ "npc_anzu_spirit", "df/d6d/a22871.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
+    [ "IsSummonedBy", "df/d6d/a22871.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
+    [ "Reset", "df/d6d/a22871.html#acef3f7093f93b6c227d145523cdc487a", null ],
+    [ "UpdateAI", "df/d6d/a22871.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
+    [ "_scheduler", "df/d6d/a22871.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
 ];

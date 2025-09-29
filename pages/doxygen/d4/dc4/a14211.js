@@ -1,11 +1,10 @@
 var a14211 =
 [
-    [ "npc_snowfall_glade_playmate", "d4/dc4/a14211.html#aa31b472ad55b240faff4bc2c1ee02ebc", null ],
-    [ "MoveInLineOfSight", "d4/dc4/a14211.html#a92143d0bd0eb57b59069ca7a66e16195", null ],
-    [ "Reset", "d4/dc4/a14211.html#a89040d9843852b01123e102b49509857", null ],
-    [ "UpdateAI", "d4/dc4/a14211.html#a6dedc1cae1e568a792341842e8a922e8", null ],
-    [ "orphanGUID", "d4/dc4/a14211.html#ad9bdbee8ec178b0a6c7ff125dc698279", null ],
-    [ "phase", "d4/dc4/a14211.html#a9a5b2348313063bc389b99158fc72e3f", null ],
-    [ "playerGUID", "d4/dc4/a14211.html#a4ca4198fdbf3c98291255916ee53c637", null ],
-    [ "timer", "d4/dc4/a14211.html#ac3d736f2cd62289b88940e0a6ddcd957", null ]
+    [ "npc_batrider", "d4/dc4/a14211.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
+    [ "DamageTaken", "d4/dc4/a14211.html#ad4818b1363082a91223526908c38777c", null ],
+    [ "JustEngagedWith", "d4/dc4/a14211.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
+    [ "Reset", "d4/dc4/a14211.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
+    [ "UpdateAI", "d4/dc4/a14211.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
+    [ "_mode", "d4/dc4/a14211.html#acd53ec78a754219511af1ad2f11422a9", null ],
+    [ "_scheduler", "d4/dc4/a14211.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
 ];

@@ -1,8 +1,7 @@
 var a23519 =
 [
-    [ "instance_hellfire_ramparts_InstanceMapScript", "dd/d81/a23519.html#aebc047b45cb4560a38df89db75f8efab", null ],
-    [ "Initialize", "dd/d81/a23519.html#a115a36ec26e15e23be4d78250d86d814", null ],
-    [ "OnGameObjectCreate", "dd/d81/a23519.html#a0639fcd867616d1f04aacde44020bb30", null ],
-    [ "SetBossState", "dd/d81/a23519.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
-    [ "felIronChestGUID", "dd/d81/a23519.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
+    [ "npc_ahune_ice_spear_bunny", "dd/d81/a23519.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "dd/d81/a23519.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "dd/d81/a23519.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "dd/d81/a23519.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

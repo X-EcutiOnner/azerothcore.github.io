@@ -1,6 +1,6 @@
 var a15627 =
 [
-    [ "npc_cairne_bloodhoofAI", "d6/d01/a15631.html", "d6/d01/a15631" ],
-    [ "npc_cairne_bloodhoof", "db/db0/a15627.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
-    [ "GetAI", "db/db0/a15627.html#a1c34470c46ae9e98684de0e786be28b7", null ]
+    [ "npc_tiger_matriarch_creditAI", "db/db0/a15627.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
+    [ "UpdateAI", "db/db0/a15627.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
+    [ "events", "db/db0/a15627.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
 ];

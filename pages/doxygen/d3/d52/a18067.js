@@ -1,5 +1,7 @@
 var a18067 =
 [
-    [ "at_sindragosa_lair", "d3/d52/a18067.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
-    [ "OnTrigger", "d3/d52/a18067.html#a07074bff20272042ed05be83dd818ee9", null ]
+    [ "HandleScript", "d3/d52/a18067.html#afc76149cb44a4d2aab48350fb4392036", null ],
+    [ "PrepareSpellScript", "d3/d52/a18067.html#a8598de219c2402596fe97b5dd32c534e", null ],
+    [ "Register", "d3/d52/a18067.html#ac9d4842632431e52932f66d09042ea70", null ],
+    [ "ScaleRange", "d3/d52/a18067.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
 ];

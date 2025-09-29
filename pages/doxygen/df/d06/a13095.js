@@ -1,13 +1,7 @@
 var a13095 =
 [
-    [ "instance_shadowfang_keep_InstanceMapScript", "df/d06/a13095.html#aabb179f16f6a61d1cfc842482880ea0b", null ],
-    [ "Initialize", "df/d06/a13095.html#a8381b4ead52e3515359cc2c10d52c29a", null ],
-    [ "OnCreatureCreate", "df/d06/a13095.html#a3f9cca96886b97f7657edc04f4997d41", null ],
-    [ "OnGameObjectCreate", "df/d06/a13095.html#ad420b6b549b8d76a80844d81548b1143", null ],
-    [ "ReadSaveDataMore", "df/d06/a13095.html#a83a24703aafb973809618d3ac3ac0375", null ],
-    [ "SetData", "df/d06/a13095.html#abdc105e9306d9abc776259be97e2488f", null ],
-    [ "WriteSaveDataMore", "df/d06/a13095.html#a8be19e9a77d3796d3c09e75c5b31c19c", null ],
-    [ "_apothecaryHummel", "df/d06/a13095.html#a3f77ecd2edf0989fcb957b56153807eb", null ],
-    [ "_crazedApothecaryGeneratorGUIDs", "df/d06/a13095.html#a00880eedbbc2deb4dc36e4c851558861", null ],
-    [ "_encounters", "df/d06/a13095.html#acfc196d008166d7b9da9b85c1ef4521e", null ]
+    [ "npc_scarlet_cannonAI", "df/d06/a13095.html#a26720b34088b8063544f8c5db3b8d67c", null ],
+    [ "PassengerBoarded", "df/d06/a13095.html#a71241dfc9b3ebe1f664d0adf03439c41", null ],
+    [ "UpdateAI", "df/d06/a13095.html#a18ebb585e9b83f3781d3c49de5dc73b5", null ],
+    [ "summonAttackers", "df/d06/a13095.html#a9e8eeb6995dae9a9d9ec3cb0ca6a07f5", null ]
 ];

@@ -1,6 +1,10 @@
 var a12435 =
 [
-    [ "boss_shazzrahAI", "d2/dc9/a12435.html#a984b3d32d5f231a019f2c0f1bb027907", null ],
-    [ "ExecuteEvent", "d2/dc9/a12435.html#a0f6e3e6876b9b769ea53db5c9028c6ff", null ],
-    [ "JustEngagedWith", "d2/dc9/a12435.html#aaa8111d42cacd58f767513026976668c", null ]
+    [ "npc_corrupted_totem", "d2/dc9/a12435.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
+    [ "IsSummonedBy", "d2/dc9/a12435.html#ae8314903c9006b7bca94a47115a0d05b", null ],
+    [ "JustDied", "d2/dc9/a12435.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
+    [ "Reset", "d2/dc9/a12435.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
+    [ "SetAura", "d2/dc9/a12435.html#a509688befda49f789f77ee0e4170a74e", null ],
+    [ "UpdateAI", "d2/dc9/a12435.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
+    [ "_auraAdded", "d2/dc9/a12435.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
 ];

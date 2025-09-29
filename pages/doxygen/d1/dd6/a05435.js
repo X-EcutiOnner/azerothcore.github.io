@@ -1,15 +1,13 @@
 var a05435 =
 [
-    [ "EnumFlag", "d1/dd6/a05435.html#a877aa23dfde6aa91cff6d8c0eb9a4732", null ],
-    [ "AsUnderlyingType", "d1/dd6/a05435.html#af9468dd952e12d2da9c0120d0ce9feb4", null ],
-    [ "HasAllFlags", "d1/dd6/a05435.html#adb5b65ab4a3d827882634d94774a912b", null ],
-    [ "HasFlag", "d1/dd6/a05435.html#a311985d41e79365bf9fd5bcb7c8fbf0c", null ],
-    [ "operator T", "d1/dd6/a05435.html#a13022712c9634c84907b906e55aebe28", null ],
-    [ "operator&=", "d1/dd6/a05435.html#afb2c7428dd07e4f427b0b0ca5ac0f7c3", null ],
-    [ "operator|=", "d1/dd6/a05435.html#ab49498ed668ee324702c4beadf4de999", null ],
-    [ "operator~", "d1/dd6/a05435.html#a3001eac7546c03530d1e51d5c1e6abfd", null ],
-    [ "RemoveFlag", "d1/dd6/a05435.html#a106a00ee4112382aa0120489551bf50a", null ],
-    [ "operator&", "d1/dd6/a05435.html#aa91d02e5d8b6d9ef507f47720ac6d9e6", null ],
-    [ "operator|", "d1/dd6/a05435.html#add07cc2598afc632e84ffdc0bf60cd81", null ],
-    [ "_value", "d1/dd6/a05435.html#a55353d720942d68d0dea86837aaca7c5", null ]
+    [ "MPSCQueueIntrusive", "d1/dd6/a05435.html#a8e05361abed759932c49b0fc71ed09c1", null ],
+    [ "~MPSCQueueIntrusive", "d1/dd6/a05435.html#a8155857825ceb1b7154ea82a63dbce08", null ],
+    [ "MPSCQueueIntrusive", "d1/dd6/a05435.html#afaee06af7734e53ce50674e4ef7277b2", null ],
+    [ "Dequeue", "d1/dd6/a05435.html#a798e36f41ef34c226690f76e9dc03fd6", null ],
+    [ "Enqueue", "d1/dd6/a05435.html#a233004b906cfa66cdd285233105dddf7", null ],
+    [ "operator=", "d1/dd6/a05435.html#a93cdd07d00b7dff8a7da5bf4846b26c7", null ],
+    [ "_dummy", "d1/dd6/a05435.html#ad4d3a9cebe46fc524e474b7854a20b03", null ],
+    [ "_dummyPtr", "d1/dd6/a05435.html#a115e9affe6159ae8aa08c6fc358e400c", null ],
+    [ "_head", "d1/dd6/a05435.html#a7fb32fbb507e82f9e8a6c1691e281fcd", null ],
+    [ "_tail", "d1/dd6/a05435.html#ac7e333db415e6301a02052c53779d1d4", null ]
 ];

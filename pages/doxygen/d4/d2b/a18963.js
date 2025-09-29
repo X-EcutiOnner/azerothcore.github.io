@@ -1,7 +1,7 @@
 var a18963 =
 [
-    [ "FilterTargets", "d4/d2b/a18963.html#a56ff062a6014099623466145a66284cc", null ],
-    [ "PrepareSpellScript", "d4/d2b/a18963.html#aa14623bb948ff457e52979facf74ffab", null ],
-    [ "Register", "d4/d2b/a18963.html#a9494bea35088161c9a520395d714fde1", null ],
-    [ "Validate", "d4/d2b/a18963.html#a6a02bc1a79a5f4fefe3b1e2900eaf0b4", null ]
+    [ "HandleDummyLaunch", "d4/d2b/a18963.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
+    [ "PrepareSpellScript", "d4/d2b/a18963.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
+    [ "Register", "d4/d2b/a18963.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
+    [ "Validate", "d4/d2b/a18963.html#a577166695c1479e3730a70637bc18cf1", null ]
 ];

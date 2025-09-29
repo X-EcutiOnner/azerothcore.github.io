@@ -1,8 +1,7 @@
 var a22155 =
 [
-    [ "npc_adventurous_dwarfAI", "da/d6e/a22159.html", "da/d6e/a22159" ],
-    [ "npc_adventurous_dwarf", "d0/d54/a22155.html#a15c39e217907189db9be7799e696f310", null ],
-    [ "GetAI", "d0/d54/a22155.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
-    [ "OnGossipHello", "d0/d54/a22155.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
-    [ "OnGossipSelect", "d0/d54/a22155.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
+    [ "npc_tallhorn_stagAI", "d0/d54/a22155.html#a50947c450eece979193b45728e5e1f82", null ],
+    [ "Reset", "d0/d54/a22155.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
+    [ "UpdateAI", "d0/d54/a22155.html#adf60f62fa92238cb315c42e0179c3f17", null ],
+    [ "_phase", "d0/d54/a22155.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
 ];

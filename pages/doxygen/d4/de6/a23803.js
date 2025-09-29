@@ -1,6 +1,6 @@
 var a23803 =
 [
-    [ "HandleScriptEffect", "d4/de6/a23803.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
-    [ "PrepareSpellScript", "d4/de6/a23803.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
-    [ "Register", "d4/de6/a23803.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "d1/db4/a23807.html", "d1/db4/a23807" ],
+    [ "instance_hellfire_ramparts", "d4/de6/a23803.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "d4/de6/a23803.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

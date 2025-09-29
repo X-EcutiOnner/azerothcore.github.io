@@ -1,10 +1,10 @@
 var a09039 =
 [
-    [ "~GridCell", "df/ddb/a09039.html#ab6ca5fbc81f184597445b7aef70bb2ad", null ],
-    [ "AddGridObject", "df/ddb/a09039.html#a22ac43b185d6a34c04fb5a36970d7df2", null ],
-    [ "AddWorldObject", "df/ddb/a09039.html#a039ebb29cf4bd2eeb7fca43eba302542", null ],
-    [ "Visit", "df/ddb/a09039.html#a6409c692a1f6ddfee1b3c2806d161d44", null ],
-    [ "Visit", "df/ddb/a09039.html#a2d13e0178010836f05280c1b5b11ad57", null ],
-    [ "_gridObjects", "df/ddb/a09039.html#a1a3fdbe9e3b937c05f82572d6f757e87", null ],
-    [ "_worldObjects", "df/ddb/a09039.html#a29d0551bee2df852e262846d82e90dba", null ]
+    [ "creatureRate", "df/ddb/a09039.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
+    [ "questDailyRate", "df/ddb/a09039.html#a1798044bdf25ce774191b00e261add1e", null ],
+    [ "questMonthlyRate", "df/ddb/a09039.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
+    [ "questRate", "df/ddb/a09039.html#a914118aa28b3736ff4e6c5b61d738834", null ],
+    [ "questRepeatableRate", "df/ddb/a09039.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
+    [ "questWeeklyRate", "df/ddb/a09039.html#a0fb31ebc33d0ce11f392be845907e043", null ],
+    [ "spellRate", "df/ddb/a09039.html#a508485f1e6833c58a11706667a2c24fd", null ]
 ];

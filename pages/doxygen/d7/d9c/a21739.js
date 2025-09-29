@@ -1,7 +1,9 @@
 var a21739 =
 [
-    [ "HandleApplyEffect", "d7/d9c/a21739.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
-    [ "HandleRemoveEffect", "d7/d9c/a21739.html#a243933fec9ccd650303ea5badbea725b", null ],
-    [ "PrepareAuraScript", "d7/d9c/a21739.html#ac0e1fc0694dd51e245340d3658592447", null ],
-    [ "Register", "d7/d9c/a21739.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
+    [ "npc_lurgglbrAI", "d7/d9c/a21739.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "d7/d9c/a21739.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "d7/d9c/a21739.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "d7/d9c/a21739.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "IntroPhase", "d7/d9c/a21739.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "d7/d9c/a21739.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

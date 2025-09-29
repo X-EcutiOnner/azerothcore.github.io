@@ -1,9 +1,6 @@
 var a24403 =
 [
-    [ "npc_pet_shaman_earth_elemental", "d8/d16/a24403.html#a07f3792cb3b5264d209f1b4726867773", null ],
-    [ "InitializeAI", "d8/d16/a24403.html#a8bbca6686ae324a50cd1598125280446", null ],
-    [ "JustEngagedWith", "d8/d16/a24403.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
-    [ "UpdateAI", "d8/d16/a24403.html#ab28951b483cab31bf5672fc74e7323e1", null ],
-    [ "_events", "d8/d16/a24403.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
-    [ "_initAttack", "d8/d16/a24403.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
+    [ "npc_dragonmaw_peonAI", "d5/d1d/a24407.html", "d5/d1d/a24407" ],
+    [ "npc_dragonmaw_peon", "d8/d16/a24403.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
+    [ "GetAI", "d8/d16/a24403.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
 ];

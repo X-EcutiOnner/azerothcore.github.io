@@ -1,12 +1,12 @@
 var a23183 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "d4/dea/a23183.html#a3e83985648f2951ee33d440c9c98bf72", null ],
-    [ "GetData", "d4/dea/a23183.html#a9ea722d45efe2ee4eff041e480ff1c79", null ],
-    [ "Initialize", "d4/dea/a23183.html#a8a2214e169acace8578c1863daf0a04c", null ],
-    [ "OnCreatureCreate", "d4/dea/a23183.html#ae5f77169c337420852962fe7ddba3006", null ],
-    [ "OnGameObjectCreate", "d4/dea/a23183.html#a9aeb7b25aa1446fff655b4c8fd6c47ad", null ],
-    [ "SetBossState", "d4/dea/a23183.html#ad2863bc954ae25a5d96d06db0250cda3", null ],
-    [ "SetData", "d4/dea/a23183.html#af3ca65eef9902a029f5b836d0b6fd58a", null ],
-    [ "_aliveKeepersCount", "d4/dea/a23183.html#a85b7cbeab4149b0a379f27bdb459cfd7", null ],
-    [ "_shieldGeneratorGUID", "d4/dea/a23183.html#a570b73c8ecd0e1ab6ac2889405be6ef0", null ]
+    [ "npc_creature_generator_akama", "d4/dea/a23183.html#a8e91cadea7f135ff692635e4d39923e0", null ],
+    [ "DoAction", "d4/dea/a23183.html#a01efeecd374056da287e4a1e468472b6", null ],
+    [ "JustSummoned", "d4/dea/a23183.html#af58d7b130ed3b6c209c08ae14444bfe3", null ],
+    [ "Reset", "d4/dea/a23183.html#a23cf08661802f247147bb23cff30eeab", null ],
+    [ "SummonedCreatureDies", "d4/dea/a23183.html#a35b7ecfa659d80a869868b9a2732d92b", null ],
+    [ "UpdateAI", "d4/dea/a23183.html#a8c6e3ca67691e7625700f22c5b1c09c5", null ],
+    [ "instance", "d4/dea/a23183.html#a109aea7bb0747f8572c1d46e9df2d2a5", null ],
+    [ "spawnCounter", "d4/dea/a23183.html#a02d8acace195438fe6e8d4705a043078", null ],
+    [ "summons", "d4/dea/a23183.html#a3d532e607c48298ca0464ee630dd27b3", null ]
 ];

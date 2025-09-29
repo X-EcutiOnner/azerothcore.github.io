@@ -1,8 +1,10 @@
 var a15195 =
 [
-    [ "npc_ahnqiraji_critter", "dd/d79/a15195.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "dd/d79/a15195.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "dd/d79/a15195.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "dd/d79/a15195.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "dd/d79/a15195.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "boss_moam", "dd/d79/a15195.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
+    [ "InitializeAI", "dd/d79/a15195.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
+    [ "JustDied", "dd/d79/a15195.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
+    [ "JustEngagedWith", "dd/d79/a15195.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
+    [ "Reset", "dd/d79/a15195.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
+    [ "SummonedCreatureDies", "dd/d79/a15195.html#a8401c5e2bd216deee197617b78d85222", null ],
+    [ "UpdateAI", "dd/d79/a15195.html#aadd8320c6194923b113967d3d6c49a5e", null ]
 ];

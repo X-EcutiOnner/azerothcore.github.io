@@ -1,7 +1,7 @@
 var a15791 =
 [
-    [ "HandleScript", "df/d7a/a15791.html#ae9939f2795b8ba428277c7d658af715c", null ],
-    [ "PrepareSpellScript", "df/d7a/a15791.html#aabe244008103ff317e3fc1e26b04115a", null ],
-    [ "Register", "df/d7a/a15791.html#a4f492bdd96ef190354f37c95217bb696", null ],
-    [ "Validate", "df/d7a/a15791.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
+    [ "npc_kaya_flathoofAI", "d3/d91/a15795.html", "d3/d91/a15795" ],
+    [ "npc_kaya_flathoof", "df/d7a/a15791.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
+    [ "GetAI", "df/d7a/a15791.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
+    [ "OnQuestAccept", "df/d7a/a15791.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
 ];

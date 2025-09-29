@@ -1,46 +1,72 @@
 var a03416 =
 [
-    [ "Object", "d9/d86/a08398.html", "d9/d86/a08398" ],
-    [ "MovementInfo", "dd/d8f/a08406.html", "dd/d8f/a08406" ],
-    [ "MovementInfo::TransportInfo", "d6/d60/a08410.html", "d6/d60/a08410" ],
-    [ "MovementInfo::JumpInfo", "dc/d1b/a08414.html", "dc/d1b/a08414" ],
-    [ "GridObject< T >", "d3/d58/a08418.html", "d3/d58/a08418" ],
-    [ "FlaggedValuesArray32< T_VALUES, T_FLAGS, FLAG_TYPE, ARRAY_SIZE >", "d4/dc6/a08422.html", "d4/dc6/a08422" ],
-    [ "MovableMapObject", "d3/d29/a08426.html", "d3/d29/a08426" ],
-    [ "UpdatableMapObject", "d4/dea/a08430.html", "d4/dea/a08430" ],
-    [ "WorldObject", "d1/d05/a08434.html", "d1/d05/a08434" ],
-    [ "Acore::ObjectDistanceOrderPred", "d6/ded/a08438.html", "d6/ded/a08438" ],
-    [ "UpdateDataMapType", "df/df7/a03416.html#ac58dd2c514e262c6b68700fb72c69231", null ],
-    [ "GOSummonType", "df/df7/a03416.html#a3f5846dbc17f13c4c2b88a15593bbfba", [
-      [ "GO_SUMMON_TIMED_OR_CORPSE_DESPAWN", "df/df7/a03416.html#a3f5846dbc17f13c4c2b88a15593bbfbaa842fffe6e187c8821e8b7f1cdbbcaac1", null ],
-      [ "GO_SUMMON_TIMED_DESPAWN", "df/df7/a03416.html#a3f5846dbc17f13c4c2b88a15593bbfbaa740b94fbb874c9de6553b126eeff3e50", null ]
+    [ "npc_cameron", "d7/d1f/a13743.html", "d7/d1f/a13743" ],
+    [ "npc_supervisor_raelen", "d6/d83/a13747.html", "d6/d83/a13747" ],
+    [ "npc_eastvale_peasent", "d0/d96/a13751.html", "d0/d96/a13751" ],
+    [ "COG_Creatures", "df/df7/a03416.html#a65c53b71f65b39ebdb719ba85df40c00", [
+      [ "NPC_DANA", "df/df7/a03416.html#a65c53b71f65b39ebdb719ba85df40c00aab1360bef063d32d66b5592222983b79", null ],
+      [ "NPC_CAMERON", "df/df7/a03416.html#a65c53b71f65b39ebdb719ba85df40c00a2774529c2dae7e5aa5c9dca851e92cee", null ],
+      [ "NPC_JOHN", "df/df7/a03416.html#a65c53b71f65b39ebdb719ba85df40c00a92ee2b12ddc8057ce39df7fc8e26cad8", null ],
+      [ "NPC_LISA", "df/df7/a03416.html#a65c53b71f65b39ebdb719ba85df40c00a54c1064e732d54bcc50cc2fe6c83fc00", null ],
+      [ "NPC_AARON", "df/df7/a03416.html#a65c53b71f65b39ebdb719ba85df40c00a1b159aa0575b48c2c155ce477231d648", null ],
+      [ "NPC_JOSE", "df/df7/a03416.html#a65c53b71f65b39ebdb719ba85df40c00ad461074ca1d14ce25750b36d50dff8d9", null ]
     ] ],
-    [ "MapObjectCellMoveState", "df/df7/a03416.html#a1833d9b1810b160d0c00f297af237b07", [
-      [ "MAP_OBJECT_CELL_MOVE_NONE", "df/df7/a03416.html#a1833d9b1810b160d0c00f297af237b07afb882558defaa808483ae0d24e1d12e1", null ],
-      [ "MAP_OBJECT_CELL_MOVE_ACTIVE", "df/df7/a03416.html#a1833d9b1810b160d0c00f297af237b07acdf663aceba2a09ee27f33056500cf58", null ],
-      [ "MAP_OBJECT_CELL_MOVE_INACTIVE", "df/df7/a03416.html#a1833d9b1810b160d0c00f297af237b07a08ca33ead1d9abd8a15f213e09e1e23a", null ]
+    [ "COG_Events", "df/df7/a03416.html#ab264f1364ee8d7515c93f7604d783521", [
+      [ "EVENT_WP_START_GOLDSHIRE", "df/df7/a03416.html#ab264f1364ee8d7515c93f7604d783521a5ca2cf14da690bfda633065ea736e15f", null ],
+      [ "EVENT_WP_START_WOODS", "df/df7/a03416.html#ab264f1364ee8d7515c93f7604d783521a05142c4d528718117f9c7c66c066d67a", null ],
+      [ "EVENT_WP_START_HOUSE", "df/df7/a03416.html#ab264f1364ee8d7515c93f7604d783521ad3ea93fa2e5aa5f9c975333fa1b1ff2d", null ],
+      [ "EVENT_WP_START_LISA", "df/df7/a03416.html#ab264f1364ee8d7515c93f7604d783521acc6320f492dc6b0283b8c26d0c8dabc8", null ],
+      [ "EVENT_PLAY_SOUNDS", "df/df7/a03416.html#ab264f1364ee8d7515c93f7604d783521a9f179e3b64119e37ba2bd7197c842ab4", null ],
+      [ "EVENT_BEGIN_EVENT", "df/df7/a03416.html#ab264f1364ee8d7515c93f7604d783521a82d09cc2c3aa83b16da003fcf3cb98b7", null ],
+      [ "EVENT_RANDOM_MOVEMENT", "df/df7/a03416.html#ab264f1364ee8d7515c93f7604d783521ac6c378046d721cffff0f049904ea03d1", null ]
     ] ],
-    [ "NotifyFlags", "df/df7/a03416.html#ae6d03ea53b22c98f9dd7e3ce829cf389", [
-      [ "NOTIFY_NONE", "df/df7/a03416.html#ae6d03ea53b22c98f9dd7e3ce829cf389aae40b53764f8cda7335d348860245cb9", null ],
-      [ "NOTIFY_AI_RELOCATION", "df/df7/a03416.html#ae6d03ea53b22c98f9dd7e3ce829cf389ac8f5884b0cde878e7d080be2be35f12d", null ],
-      [ "NOTIFY_VISIBILITY_CHANGED", "df/df7/a03416.html#ae6d03ea53b22c98f9dd7e3ce829cf389ae24fd40d89da822e12587f23612eb053", null ],
-      [ "NOTIFY_ALL", "df/df7/a03416.html#ae6d03ea53b22c98f9dd7e3ce829cf389a8073de571f5d684d5b4ddd10a525322c", null ]
+    [ "COG_GameEvent", "df/df7/a03416.html#a7f96446be0a530da18223bb22482eb13", [
+      [ "GAME_EVENT_CHILDREN_OF_GOLDSHIRE", "df/df7/a03416.html#a7f96446be0a530da18223bb22482eb13ae98243feecf1c9640cede7b94f8681cb", null ]
     ] ],
-    [ "PhaseMasks", "df/df7/a03416.html#a154255f23e41069883118fc4f0d23157", [
-      [ "PHASEMASK_NORMAL", "df/df7/a03416.html#a154255f23e41069883118fc4f0d23157aa253161c3caae282ce3c6922048db060", null ],
-      [ "PHASEMASK_ANYWHERE", "df/df7/a03416.html#a154255f23e41069883118fc4f0d23157a212ead88887027cc3575f2b07c08af57", null ]
+    [ "COG_Paths", "df/df7/a03416.html#a2be3c31abb125ee2f4e5db0dffba1303", [
+      [ "STORMWIND_PATH", "df/df7/a03416.html#a2be3c31abb125ee2f4e5db0dffba1303ad1a5074e62ba573b4ca7b603db8af713", null ],
+      [ "GOLDSHIRE_PATH", "df/df7/a03416.html#a2be3c31abb125ee2f4e5db0dffba1303ae667c0211d3eff5f76656bf6d0008172", null ],
+      [ "WOODS_PATH", "df/df7/a03416.html#a2be3c31abb125ee2f4e5db0dffba1303a3b6098ca7c08a02325e87d2e2d51e097", null ],
+      [ "HOUSE_PATH", "df/df7/a03416.html#a2be3c31abb125ee2f4e5db0dffba1303a613998450aaf10ae6d9eb7b70fe9b773", null ],
+      [ "LISA_PATH", "df/df7/a03416.html#a2be3c31abb125ee2f4e5db0dffba1303a2dc260175ba90e722d9fd3a5ec22d80c", null ]
     ] ],
-    [ "TempSummonType", "df/df7/a03416.html#a38c6d8d01cbe0c49b035f348f7724148", [
-      [ "TEMPSUMMON_TIMED_OR_DEAD_DESPAWN", "df/df7/a03416.html#a38c6d8d01cbe0c49b035f348f7724148a7fcc17b9aac93c81619414e6af366e39", null ],
-      [ "TEMPSUMMON_TIMED_OR_CORPSE_DESPAWN", "df/df7/a03416.html#a38c6d8d01cbe0c49b035f348f7724148a9d16b839c0bff9df1f7adfe701da0882", null ],
-      [ "TEMPSUMMON_TIMED_DESPAWN", "df/df7/a03416.html#a38c6d8d01cbe0c49b035f348f7724148a68d0fa29801bfa0be2b983f167b0c0f2", null ],
-      [ "TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT", "df/df7/a03416.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a", null ],
-      [ "TEMPSUMMON_CORPSE_DESPAWN", "df/df7/a03416.html#a38c6d8d01cbe0c49b035f348f7724148aca87dcb32ebfdc5d2d1acd159abe8fd9", null ],
-      [ "TEMPSUMMON_CORPSE_TIMED_DESPAWN", "df/df7/a03416.html#a38c6d8d01cbe0c49b035f348f7724148ae10d0bfbb29fbbfe0e3c50203548d01a", null ],
-      [ "TEMPSUMMON_DEAD_DESPAWN", "df/df7/a03416.html#a38c6d8d01cbe0c49b035f348f7724148a2ed37622e9cac6dbba3d2bb354307493", null ],
-      [ "TEMPSUMMON_MANUAL_DESPAWN", "df/df7/a03416.html#a38c6d8d01cbe0c49b035f348f7724148a494d31263c972013b6b0e42f6c00e14a", null ],
-      [ "TEMPSUMMON_DESPAWNED", "df/df7/a03416.html#a38c6d8d01cbe0c49b035f348f7724148ab372a9ecde35043aa67d1ee162a37687", null ],
-      [ "TEMPSUMMON_TIMED_DESPAWN_OOC_ALIVE", "df/df7/a03416.html#a38c6d8d01cbe0c49b035f348f7724148a1e689534a035355813f5eac245564af7", null ]
+    [ "COG_Sounds", "df/df7/a03416.html#a41b64d07acba30bca6797dd30accb701", [
+      [ "BANSHEE_DEATH", "df/df7/a03416.html#a41b64d07acba30bca6797dd30accb701a778d73a82a4986348c2f576778911c1d", null ],
+      [ "BANSHEEPREAGGRO", "df/df7/a03416.html#a41b64d07acba30bca6797dd30accb701a9194ea7479faaf1cd6e95b3d3ef5133e", null ],
+      [ "CTHUN_YOU_WILL_DIE", "df/df7/a03416.html#a41b64d07acba30bca6797dd30accb701a82970f5a7615c954b42ee1a4fc6e175c", null ],
+      [ "CTHUN_DEATH_IS_CLOSE", "df/df7/a03416.html#a41b64d07acba30bca6797dd30accb701a6597c2048b383d43a5ff472d715fdc05", null ],
+      [ "HUMAN_FEMALE_EMOTE_CRY", "df/df7/a03416.html#a41b64d07acba30bca6797dd30accb701a154e3f7a96cd9c9d13a04b5fc36ec18a", null ],
+      [ "GHOSTDEATH", "df/df7/a03416.html#a41b64d07acba30bca6797dd30accb701a5ad070314ff7ce37671151ab6fd1df05", null ]
     ] ],
-    [ "HEARTBEAT_INTERVAL", "df/df7/a03416.html#a8cd21ff3f4267aa848be64aa30c71d24", null ]
+    [ "EastvalePeasent", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769", [
+      [ "EVENT_MOVETORAELEN", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769a7060cdf87e903e239424f6de8b3c4e01", null ],
+      [ "EVENT_TALKTORAELEN1", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769ab389694ba3f2e68242451516333631e6", null ],
+      [ "EVENT_TALKTORAELEN2", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769aa71bff713cc0f565434450c758f74f49", null ],
+      [ "EVENT_RAELENTALK", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769a07d0b4a5d57b000f4aa7ac0f641432e0", null ],
+      [ "EVENT_TALKTORAELEN3", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769a3f3781fe8cd1b69d99d36799fe7bc343", null ],
+      [ "EVENT_TALKTORAELEN4", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769aa2b4baec842eb98eed0d720a2d1e292f", null ],
+      [ "EVENT_PATHBACK", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769a2749a3e614e97936834faf0763d89f85", null ],
+      [ "NPC_SUPERVISOR_RAELEN", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769a55dd8d60432601f01a996db6af736667", null ],
+      [ "PATH_PEASENT_0", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769ac3af8fa1b480f8ffa2f3ce8f07015d90", null ],
+      [ "PATH_PEASENT_1", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769a90bfaadda89dbdfe74e830dba63392b6", null ],
+      [ "PATH_PEASENT_2", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769a691ee393540918dfc1b592fab31778d7", null ],
+      [ "PATH_PEASENT_3", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769a94a20bb05ec932c0c58387e63ee95c7d", null ],
+      [ "PATH_PEASENT_4", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769aa40d5d29c4805d92281561d5491f42e0", null ],
+      [ "SAY_RAELEN", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769ae2a00c9eac8422904f7f4e82661114fc", null ],
+      [ "SOUND_PEASENT_GREETING_1", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769a76573a8111b11c8e5d82081211d778d2", null ],
+      [ "SOUND_PEASENT_GREETING_2", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769a78f08b9a1fa0e5891df9dedd3030107d", null ],
+      [ "SOUND_PEASENT_GREETING_3", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769ace4122d507bca6f6d027e9e5d8273942", null ],
+      [ "SOUND_PEASENT_LEAVING_1", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769a6b7ddbed101521381be4ee097e03eadf", null ],
+      [ "SOUND_PEASENT_LEAVING_2", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769a94849b28c308e34fe7c2f3cdd3b569e1", null ],
+      [ "SOUND_PEASENT_LEAVING_3", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769a11f78805bf631264c76272506c189f65", null ],
+      [ "SOUND_PEASENT_LEAVING_4", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769a0537de2a4772069d0cc2f66767b7d404", null ],
+      [ "SOUND_PEASENT_LEAVING_5", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769a4631839cb0120966d74bb95fce52c358", null ],
+      [ "SPELL_TRANSFORM_PEASENT_WITH_WOOD", "df/df7/a03416.html#a7e632be8f8b8da84644527621a3c2769a716c6a90c42b3ee3811ac25a342faa56", null ]
+    ] ],
+    [ "SupervisorRaelen", "df/df7/a03416.html#a3bd40a8e75f5b073b6027152c2acd047", [
+      [ "EVENT_FIND_PEASENTS", "df/df7/a03416.html#a3bd40a8e75f5b073b6027152c2acd047a05dcad03ab565112d34579d0ef216f19", null ],
+      [ "EVENT_NEXT_PEASENT", "df/df7/a03416.html#a3bd40a8e75f5b073b6027152c2acd047a1a939768178f2c95f03e6c1490c9e2c0", null ],
+      [ "NPC_EASTVALE_PEASENT", "df/df7/a03416.html#a3bd40a8e75f5b073b6027152c2acd047ab484ca934ce49cee056ba54c53003ddd", null ]
+    ] ],
+    [ "AddSC_elwynn_forest", "df/df7/a03416.html#aef9caff22cc5e92156da2c393ecfb531", null ]
 ];

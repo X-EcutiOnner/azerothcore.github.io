@@ -1,6 +1,6 @@
 var a17775 =
 [
-    [ "boss_professor_putricideAI", "d4/dfd/a17779.html", "d4/dfd/a17779" ],
-    [ "boss_professor_putricide", "db/d56/a17775.html#a80776dad5c0205aa6a98752f43e85e32", null ],
-    [ "GetAI", "db/d56/a17775.html#a7c84089d24bb0c77a5203884254e0925", null ]
+    [ "npc_igb_ship_crewAI", "d4/dfd/a17779.html", "d4/dfd/a17779" ],
+    [ "npc_igb_ship_crew", "db/d56/a17775.html#a5f4380aba94766a6a75b97026998b881", null ],
+    [ "GetAI", "db/d56/a17775.html#a48955817e21a01a726b50685b467c229", null ]
 ];

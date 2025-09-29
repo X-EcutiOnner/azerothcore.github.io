@@ -1,6 +1,6 @@
 var a00830 =
 [
-    [ "instance_razorfen_downs", "d0/d36/a15106.html", "d0/d36/a15106" ],
-    [ "instance_razorfen_downs::instance_razorfen_downs_InstanceMapScript", "d0/ddd/a15110.html", "d0/ddd/a15110" ],
-    [ "AddSC_instance_razorfen_downs", "d9/daf/a00830.html#a0db4d34b8ea594cf2808b93c362a49c4", null ]
+    [ "ObjectVisibilityContainer", "d8/d0e/a08483.html", "d8/d0e/a08483" ],
+    [ "VisiblePlayersMap", "d9/daf/a00830.html#a52b38df575afa7eef8fb58759ee03bd8", null ],
+    [ "VisibleWorldObjectsMap", "d9/daf/a00830.html#a6fe979433a4dd2c9023626ecc74bf6a5", null ]
 ];

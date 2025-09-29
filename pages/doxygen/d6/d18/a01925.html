@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Northrend/AzjolNerub/AzjolNerub/azjol_nerub.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Outland/Auchindoun/ShadowLabyrinth/shadow_labyrinth.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,97 +107,96 @@ $(document).ready(function(){initNavTree('d6/d18/a01925.html','../../'); initRes
   <div class="summary">
 <a href="#define-members">Macros</a> &#124;
 <a href="#enum-members">Enumerations</a> &#124;
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">azjol_nerub.h File Reference</div></div>
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">shadow_labyrinth.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureAIImpl.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
 Macros</h2></td></tr>
-<tr class="memitem:a042491ef36459046f3866e90f15aae0d"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d18/a01925.html#a042491ef36459046f3866e90f15aae0d">DataHeader</a>&#160;&#160;&#160;&quot;AN&quot;</td></tr>
-<tr class="separator:a042491ef36459046f3866e90f15aae0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a49c3c3627ce229fce6b1f55755bcb7d7"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d18/a01925.html#a49c3c3627ce229fce6b1f55755bcb7d7">AzjolNerubScriptName</a>&#160;&#160;&#160;&quot;instance_azjol_nerub&quot;</td></tr>
-<tr class="separator:a49c3c3627ce229fce6b1f55755bcb7d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab96ece1dcc827c0af968525da00da892"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d18/a01925.html#ab96ece1dcc827c0af968525da00da892">ShadowLabyrinthScriptName</a>&#160;&#160;&#160;&quot;instance_shadow_labyrinth&quot;</td></tr>
+<tr class="separator:ab96ece1dcc827c0af968525da00da892"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afbd2592662281ddc8b6d11567efe9a50"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d18/a01925.html#afbd2592662281ddc8b6d11567efe9a50">RegisterShadowLabyrinthCreatureAI</a>(ai_name)&#160;&#160;&#160;<a class="el" href="../../df/d68/a01385.html#a25cc02ecf50f52ec8cdff096060b8be1">RegisterCreatureAIWithFactory</a>(ai_name, <a class="el" href="../../d6/d18/a01925.html#a04723307a726c0b79db08448db0704db">GetShadowLabyrinthAI</a>)</td></tr>
+<tr class="separator:afbd2592662281ddc8b6d11567efe9a50"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a38e14ca59c29a20c7d83feecae87365e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d18/a01925.html#a38e14ca59c29a20c7d83feecae87365e">ANData</a> { <br />
-&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c">DATA_KRIKTHIR</a> = 0
+<tr class="memitem:a0bb87d52cf69de5a588288e14237b87d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87d">slData</a> { <br />
+&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da2448fcd14abb165e775c665932a04948">TYPE_RITUALISTS</a> = 0
 , <br />
-&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8">DATA_HADRONOX</a> = 1
+&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da52ac1b40043222aff2cbe571a96bd05f">TYPE_HELLMAW</a> = 1
 , <br />
-&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a38e14ca59c29a20c7d83feecae87365ea64e72a1a7491f71dc45c3ee0e6aba1a3">DATA_ANUBARAK_EVENT</a> = 2
+&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da5e5ecb7b6f8d204717412ca517a3aa26">DATA_BLACKHEARTTHEINCITEREVENT</a> = 2
 , <br />
-&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25">MAX_ENCOUNTERS</a> = 3
+&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87dabbbeb54dc0be17516ae2b37fd91b4748">DATA_GRANDMASTER_VORPIL</a> = 3
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87dad90f8f395f905f5f55ca7b675b597f8b">DATA_GRANDMASTER_VORPIL_EVENT</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da50ac08073863c86c5be25a661f884900">DATA_MURMUR</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da6d821b47b03599b8b3c294d32359c13f">DATA_MURMUREVENT</a> = 6
+, <br />
+&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da7913656ef56deb3793c0c5f3d999d80d">MAX_ENCOUNTER</a> = 7
 <br />
  }</td></tr>
-<tr class="separator:a38e14ca59c29a20c7d83feecae87365e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a13c2be6ee4ddd01bcdde2acfa66080eb"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eb">ANIds</a> { <br />
-&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f">NPC_WATCHER_NARJIL</a> = 28729
+<tr class="separator:a0bb87d52cf69de5a588288e14237b87d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5aeaf5f332ee73166572f5313be89bf1"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d18/a01925.html#a5aeaf5f332ee73166572f5313be89bf1">slNPCandGO</a> { <br />
+&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a5aeaf5f332ee73166572f5313be89bf1a726fe6195260ca333078e65a64d24f7a">NPC_CABAL_RITUALIST</a> = 18794
 , <br />
-&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba59e8c7ae56d3d0267c69c0e2e39b5cc8">NPC_WATCHER_GASHRA</a> = 28730
+&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a5aeaf5f332ee73166572f5313be89bf1ad42fe7f18144f0b2ff2949b85385db8b">NPC_HELLMAW</a> = 18731
 , <br />
-&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf4f603f77d6847952388c5dce5d0de08">NPC_WATCHER_SILTHIK</a> = 28731
+&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a5aeaf5f332ee73166572f5313be89bf1a84947de77bc0d365a3dbc4c222a80d7c">GO_REFECTORY_DOOR</a> = 183296
 , <br />
-&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429">NPC_SKITTERING_SWARMER</a> = 28735
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b">NPC_SKITTERING_INFECTIOR</a> = 28736
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582">NPC_KRIKTHIR_THE_GATEWATCHER</a> = 28684
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a">NPC_HADRONOX</a> = 28921
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc">NPC_ANUB_AR_CHAMPION</a> = 29062
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea">NPC_ANUB_AR_NECROMANCER</a> = 29063
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c">NPC_ANUB_AR_CRYPTFIEND</a> = 29064
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b">GO_KRIKTHIR_DOORS</a> = 192395
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316">GO_ANUBARAK_DOORS1</a> = 192396
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc">GO_ANUBARAK_DOORS2</a> = 192397
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0">GO_ANUBARAK_DOORS3</a> = 192398
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b">SPELL_WEB_WRAP_TRIGGER</a> = 52087
+&#160;&#160;<a class="el" href="../../d6/d18/a01925.html#a5aeaf5f332ee73166572f5313be89bf1a8dcc6b729c4258a8e241fa45bff0798a">GO_SCREAMING_HALL_DOOR</a> = 183295
 <br />
  }</td></tr>
-<tr class="separator:a13c2be6ee4ddd01bcdde2acfa66080eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a5aeaf5f332ee73166572f5313be89bf1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a19b3f42ba299e1f42de805f494cd5812"><td class="memTemplParams" colspan="2">template&lt;class AI , class T &gt; </td></tr>
-<tr class="memitem:a19b3f42ba299e1f42de805f494cd5812"><td class="memTemplItemLeft" align="right" valign="top">AI *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/d18/a01925.html#a19b3f42ba299e1f42de805f494cd5812">GetAzjolNerubAI</a> (T *obj)</td></tr>
-<tr class="separator:a19b3f42ba299e1f42de805f494cd5812"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a04723307a726c0b79db08448db0704db"><td class="memTemplParams" colspan="2">template&lt;class AI , class T &gt; </td></tr>
+<tr class="memitem:a04723307a726c0b79db08448db0704db"><td class="memTemplItemLeft" align="right" valign="top">AI *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d6/d18/a01925.html#a04723307a726c0b79db08448db0704db">GetShadowLabyrinthAI</a> (T *obj)</td></tr>
+<tr class="separator:a04723307a726c0b79db08448db0704db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:ae1fbcd81e7256d27efa0288994753839"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> constexpr&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d18/a01925.html#ae1fbcd81e7256d27efa0288994753839">EncounterCount</a> = 4</td></tr>
+<tr class="separator:ae1fbcd81e7256d27efa0288994753839"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa38a92afffebaf4b33726515956b256b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> constexpr&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d18/a01925.html#aa38a92afffebaf4b33726515956b256b">PersistentDataCount</a> = 1</td></tr>
+<tr class="separator:aa38a92afffebaf4b33726515956b256b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a49c3c3627ce229fce6b1f55755bcb7d7" name="a49c3c3627ce229fce6b1f55755bcb7d7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a49c3c3627ce229fce6b1f55755bcb7d7">&#9670;&#160;</a></span>AzjolNerubScriptName</h2>
+<a id="afbd2592662281ddc8b6d11567efe9a50" name="afbd2592662281ddc8b6d11567efe9a50"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afbd2592662281ddc8b6d11567efe9a50">&#9670;&#160;</a></span>RegisterShadowLabyrinthCreatureAI</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define AzjolNerubScriptName&#160;&#160;&#160;&quot;instance_azjol_nerub&quot;</td>
+          <td class="memname">#define RegisterShadowLabyrinthCreatureAI</td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname">ai_name</td><td>)</td>
+          <td>&#160;&#160;&#160;<a class="el" href="../../df/d68/a01385.html#a25cc02ecf50f52ec8cdff096060b8be1">RegisterCreatureAIWithFactory</a>(ai_name, <a class="el" href="../../d6/d18/a01925.html#a04723307a726c0b79db08448db0704db">GetShadowLabyrinthAI</a>)</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<a id="a042491ef36459046f3866e90f15aae0d" name="a042491ef36459046f3866e90f15aae0d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a042491ef36459046f3866e90f15aae0d">&#9670;&#160;</a></span>DataHeader</h2>
+<a id="ab96ece1dcc827c0af968525da00da892" name="ab96ece1dcc827c0af968525da00da892"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab96ece1dcc827c0af968525da00da892">&#9670;&#160;</a></span>ShadowLabyrinthScriptName</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define DataHeader&#160;&#160;&#160;&quot;AN&quot;</td>
+          <td class="memname">#define ShadowLabyrinthScriptName&#160;&#160;&#160;&quot;instance_shadow_labyrinth&quot;</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -205,104 +204,82 @@ Functions</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a38e14ca59c29a20c7d83feecae87365e" name="a38e14ca59c29a20c7d83feecae87365e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a38e14ca59c29a20c7d83feecae87365e">&#9670;&#160;</a></span>ANData</h2>
+<a id="a0bb87d52cf69de5a588288e14237b87d" name="a0bb87d52cf69de5a588288e14237b87d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0bb87d52cf69de5a588288e14237b87d">&#9670;&#160;</a></span>slData</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d6/d18/a01925.html#a38e14ca59c29a20c7d83feecae87365e">ANData</a></td>
+          <td class="memname">enum <a class="el" href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87d">slData</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c" name="a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c"></a>DATA_KRIKTHIR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8" name="a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8"></a>DATA_HADRONOX&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a38e14ca59c29a20c7d83feecae87365ea64e72a1a7491f71dc45c3ee0e6aba1a3" name="a38e14ca59c29a20c7d83feecae87365ea64e72a1a7491f71dc45c3ee0e6aba1a3"></a>DATA_ANUBARAK_EVENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25" name="a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25"></a>MAX_ENCOUNTERS&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0bb87d52cf69de5a588288e14237b87da2448fcd14abb165e775c665932a04948" name="a0bb87d52cf69de5a588288e14237b87da2448fcd14abb165e775c665932a04948"></a>TYPE_RITUALISTS&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0bb87d52cf69de5a588288e14237b87da52ac1b40043222aff2cbe571a96bd05f" name="a0bb87d52cf69de5a588288e14237b87da52ac1b40043222aff2cbe571a96bd05f"></a>TYPE_HELLMAW&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0bb87d52cf69de5a588288e14237b87da5e5ecb7b6f8d204717412ca517a3aa26" name="a0bb87d52cf69de5a588288e14237b87da5e5ecb7b6f8d204717412ca517a3aa26"></a>DATA_BLACKHEARTTHEINCITEREVENT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0bb87d52cf69de5a588288e14237b87dabbbeb54dc0be17516ae2b37fd91b4748" name="a0bb87d52cf69de5a588288e14237b87dabbbeb54dc0be17516ae2b37fd91b4748"></a>DATA_GRANDMASTER_VORPIL&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0bb87d52cf69de5a588288e14237b87dad90f8f395f905f5f55ca7b675b597f8b" name="a0bb87d52cf69de5a588288e14237b87dad90f8f395f905f5f55ca7b675b597f8b"></a>DATA_GRANDMASTER_VORPIL_EVENT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0bb87d52cf69de5a588288e14237b87da50ac08073863c86c5be25a661f884900" name="a0bb87d52cf69de5a588288e14237b87da50ac08073863c86c5be25a661f884900"></a>DATA_MURMUR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0bb87d52cf69de5a588288e14237b87da6d821b47b03599b8b3c294d32359c13f" name="a0bb87d52cf69de5a588288e14237b87da6d821b47b03599b8b3c294d32359c13f"></a>DATA_MURMUREVENT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0bb87d52cf69de5a588288e14237b87da7913656ef56deb3793c0c5f3d999d80d" name="a0bb87d52cf69de5a588288e14237b87da7913656ef56deb3793c0c5f3d999d80d"></a>MAX_ENCOUNTER&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   28</span>{</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c">DATA_KRIKTHIR</a>                       = 0,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8">DATA_HADRONOX</a>                       = 1,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a38e14ca59c29a20c7d83feecae87365ea64e72a1a7491f71dc45c3ee0e6aba1a3">DATA_ANUBARAK_EVENT</a>                 = 2,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25">MAX_ENCOUNTERS</a>                      = 3</div>
-<div class="line"><span class="lineno">   33</span>};</div>
-<div class="ttc" id="aa01925_html_a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c"><div class="ttname"><a href="../../d6/d18/a01925.html#a38e14ca59c29a20c7d83feecae87365ea3bacd16bf3df8653050917f211e9864c">DATA_KRIKTHIR</a></div><div class="ttdeci">@ DATA_KRIKTHIR</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:29</div></div>
-<div class="ttc" id="aa01925_html_a38e14ca59c29a20c7d83feecae87365ea64e72a1a7491f71dc45c3ee0e6aba1a3"><div class="ttname"><a href="../../d6/d18/a01925.html#a38e14ca59c29a20c7d83feecae87365ea64e72a1a7491f71dc45c3ee0e6aba1a3">DATA_ANUBARAK_EVENT</a></div><div class="ttdeci">@ DATA_ANUBARAK_EVENT</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:31</div></div>
-<div class="ttc" id="aa01925_html_a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8"><div class="ttname"><a href="../../d6/d18/a01925.html#a38e14ca59c29a20c7d83feecae87365ea6d7d08974da7d4efcc668201b62787b8">DATA_HADRONOX</a></div><div class="ttdeci">@ DATA_HADRONOX</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:30</div></div>
-<div class="ttc" id="aa01925_html_a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25"><div class="ttname"><a href="../../d6/d18/a01925.html#a38e14ca59c29a20c7d83feecae87365ea9cfa5bdc17e1d5a590d300b530b36a25">MAX_ENCOUNTERS</a></div><div class="ttdeci">@ MAX_ENCOUNTERS</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:32</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   27</span>{</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da2448fcd14abb165e775c665932a04948">TYPE_RITUALISTS</a>                 = 0,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da52ac1b40043222aff2cbe571a96bd05f">TYPE_HELLMAW</a>                    = 1,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da5e5ecb7b6f8d204717412ca517a3aa26">DATA_BLACKHEARTTHEINCITEREVENT</a>  = 2,</div>
+<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87dabbbeb54dc0be17516ae2b37fd91b4748">DATA_GRANDMASTER_VORPIL</a>         = 3,</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87dad90f8f395f905f5f55ca7b675b597f8b">DATA_GRANDMASTER_VORPIL_EVENT</a>   = 4,</div>
+<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da50ac08073863c86c5be25a661f884900">DATA_MURMUR</a>                     = 5,</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da6d821b47b03599b8b3c294d32359c13f">DATA_MURMUREVENT</a>                = 6,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da7913656ef56deb3793c0c5f3d999d80d">MAX_ENCOUNTER</a>                   = 7</div>
+<div class="line"><span class="lineno">   36</span>};</div>
+<div class="ttc" id="aa01925_html_a0bb87d52cf69de5a588288e14237b87da2448fcd14abb165e775c665932a04948"><div class="ttname"><a href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da2448fcd14abb165e775c665932a04948">TYPE_RITUALISTS</a></div><div class="ttdeci">@ TYPE_RITUALISTS</div><div class="ttdef"><b>Definition:</b> shadow_labyrinth.h:28</div></div>
+<div class="ttc" id="aa01925_html_a0bb87d52cf69de5a588288e14237b87da50ac08073863c86c5be25a661f884900"><div class="ttname"><a href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da50ac08073863c86c5be25a661f884900">DATA_MURMUR</a></div><div class="ttdeci">@ DATA_MURMUR</div><div class="ttdef"><b>Definition:</b> shadow_labyrinth.h:33</div></div>
+<div class="ttc" id="aa01925_html_a0bb87d52cf69de5a588288e14237b87da52ac1b40043222aff2cbe571a96bd05f"><div class="ttname"><a href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da52ac1b40043222aff2cbe571a96bd05f">TYPE_HELLMAW</a></div><div class="ttdeci">@ TYPE_HELLMAW</div><div class="ttdef"><b>Definition:</b> shadow_labyrinth.h:29</div></div>
+<div class="ttc" id="aa01925_html_a0bb87d52cf69de5a588288e14237b87da5e5ecb7b6f8d204717412ca517a3aa26"><div class="ttname"><a href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da5e5ecb7b6f8d204717412ca517a3aa26">DATA_BLACKHEARTTHEINCITEREVENT</a></div><div class="ttdeci">@ DATA_BLACKHEARTTHEINCITEREVENT</div><div class="ttdef"><b>Definition:</b> shadow_labyrinth.h:30</div></div>
+<div class="ttc" id="aa01925_html_a0bb87d52cf69de5a588288e14237b87da6d821b47b03599b8b3c294d32359c13f"><div class="ttname"><a href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da6d821b47b03599b8b3c294d32359c13f">DATA_MURMUREVENT</a></div><div class="ttdeci">@ DATA_MURMUREVENT</div><div class="ttdef"><b>Definition:</b> shadow_labyrinth.h:34</div></div>
+<div class="ttc" id="aa01925_html_a0bb87d52cf69de5a588288e14237b87da7913656ef56deb3793c0c5f3d999d80d"><div class="ttname"><a href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87da7913656ef56deb3793c0c5f3d999d80d">MAX_ENCOUNTER</a></div><div class="ttdeci">@ MAX_ENCOUNTER</div><div class="ttdef"><b>Definition:</b> shadow_labyrinth.h:35</div></div>
+<div class="ttc" id="aa01925_html_a0bb87d52cf69de5a588288e14237b87dabbbeb54dc0be17516ae2b37fd91b4748"><div class="ttname"><a href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87dabbbeb54dc0be17516ae2b37fd91b4748">DATA_GRANDMASTER_VORPIL</a></div><div class="ttdeci">@ DATA_GRANDMASTER_VORPIL</div><div class="ttdef"><b>Definition:</b> shadow_labyrinth.h:31</div></div>
+<div class="ttc" id="aa01925_html_a0bb87d52cf69de5a588288e14237b87dad90f8f395f905f5f55ca7b675b597f8b"><div class="ttname"><a href="../../d6/d18/a01925.html#a0bb87d52cf69de5a588288e14237b87dad90f8f395f905f5f55ca7b675b597f8b">DATA_GRANDMASTER_VORPIL_EVENT</a></div><div class="ttdeci">@ DATA_GRANDMASTER_VORPIL_EVENT</div><div class="ttdef"><b>Definition:</b> shadow_labyrinth.h:32</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a13c2be6ee4ddd01bcdde2acfa66080eb" name="a13c2be6ee4ddd01bcdde2acfa66080eb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a13c2be6ee4ddd01bcdde2acfa66080eb">&#9670;&#160;</a></span>ANIds</h2>
+<a id="a5aeaf5f332ee73166572f5313be89bf1" name="a5aeaf5f332ee73166572f5313be89bf1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5aeaf5f332ee73166572f5313be89bf1">&#9670;&#160;</a></span>slNPCandGO</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eb">ANIds</a></td>
+          <td class="memname">enum <a class="el" href="../../d6/d18/a01925.html#a5aeaf5f332ee73166572f5313be89bf1">slNPCandGO</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f" name="a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f"></a>NPC_WATCHER_NARJIL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080eba59e8c7ae56d3d0267c69c0e2e39b5cc8" name="a13c2be6ee4ddd01bcdde2acfa66080eba59e8c7ae56d3d0267c69c0e2e39b5cc8"></a>NPC_WATCHER_GASHRA&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080ebaf4f603f77d6847952388c5dce5d0de08" name="a13c2be6ee4ddd01bcdde2acfa66080ebaf4f603f77d6847952388c5dce5d0de08"></a>NPC_WATCHER_SILTHIK&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429" name="a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429"></a>NPC_SKITTERING_SWARMER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b" name="a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b"></a>NPC_SKITTERING_INFECTIOR&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582" name="a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582"></a>NPC_KRIKTHIR_THE_GATEWATCHER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a" name="a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a"></a>NPC_HADRONOX&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc" name="a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc"></a>NPC_ANUB_AR_CHAMPION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea" name="a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea"></a>NPC_ANUB_AR_NECROMANCER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c" name="a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c"></a>NPC_ANUB_AR_CRYPTFIEND&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b" name="a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b"></a>GO_KRIKTHIR_DOORS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316" name="a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316"></a>GO_ANUBARAK_DOORS1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc" name="a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc"></a>GO_ANUBARAK_DOORS2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0" name="a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0"></a>GO_ANUBARAK_DOORS3&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b" name="a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b"></a>SPELL_WEB_WRAP_TRIGGER&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a5aeaf5f332ee73166572f5313be89bf1a726fe6195260ca333078e65a64d24f7a" name="a5aeaf5f332ee73166572f5313be89bf1a726fe6195260ca333078e65a64d24f7a"></a>NPC_CABAL_RITUALIST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5aeaf5f332ee73166572f5313be89bf1ad42fe7f18144f0b2ff2949b85385db8b" name="a5aeaf5f332ee73166572f5313be89bf1ad42fe7f18144f0b2ff2949b85385db8b"></a>NPC_HELLMAW&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5aeaf5f332ee73166572f5313be89bf1a84947de77bc0d365a3dbc4c222a80d7c" name="a5aeaf5f332ee73166572f5313be89bf1a84947de77bc0d365a3dbc4c222a80d7c"></a>GO_REFECTORY_DOOR&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5aeaf5f332ee73166572f5313be89bf1a8dcc6b729c4258a8e241fa45bff0798a" name="a5aeaf5f332ee73166572f5313be89bf1a8dcc6b729c4258a8e241fa45bff0798a"></a>GO_SCREAMING_HALL_DOOR&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   36</span>{</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f">NPC_WATCHER_NARJIL</a>                  = 28729,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba59e8c7ae56d3d0267c69c0e2e39b5cc8">NPC_WATCHER_GASHRA</a>                  = 28730,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf4f603f77d6847952388c5dce5d0de08">NPC_WATCHER_SILTHIK</a>                 = 28731,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429">NPC_SKITTERING_SWARMER</a>              = 28735,</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b">NPC_SKITTERING_INFECTIOR</a>            = 28736,</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582">NPC_KRIKTHIR_THE_GATEWATCHER</a>        = 28684,</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a">NPC_HADRONOX</a>                        = 28921,</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc">NPC_ANUB_AR_CHAMPION</a>                = 29062,</div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea">NPC_ANUB_AR_NECROMANCER</a>             = 29063,</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c">NPC_ANUB_AR_CRYPTFIEND</a>              = 29064,</div>
-<div class="line"><span class="lineno">   47</span> </div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b">GO_KRIKTHIR_DOORS</a>                   = 192395,</div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316">GO_ANUBARAK_DOORS1</a>                  = 192396,</div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc">GO_ANUBARAK_DOORS2</a>                  = 192397,</div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0">GO_ANUBARAK_DOORS3</a>                  = 192398,</div>
-<div class="line"><span class="lineno">   52</span> </div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b">SPELL_WEB_WRAP_TRIGGER</a>              = 52087</div>
-<div class="line"><span class="lineno">   54</span>};</div>
-<div class="ttc" id="aa01925_html_a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c"><div class="ttname"><a href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba145b39b904161cf071df0d8136bb855c">NPC_ANUB_AR_CRYPTFIEND</a></div><div class="ttdeci">@ NPC_ANUB_AR_CRYPTFIEND</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:46</div></div>
-<div class="ttc" id="aa01925_html_a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc"><div class="ttname"><a href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba43c41eeac44b6c1e9a8f5f60faf047cc">NPC_ANUB_AR_CHAMPION</a></div><div class="ttdeci">@ NPC_ANUB_AR_CHAMPION</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:44</div></div>
-<div class="ttc" id="aa01925_html_a13c2be6ee4ddd01bcdde2acfa66080eba59e8c7ae56d3d0267c69c0e2e39b5cc8"><div class="ttname"><a href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba59e8c7ae56d3d0267c69c0e2e39b5cc8">NPC_WATCHER_GASHRA</a></div><div class="ttdeci">@ NPC_WATCHER_GASHRA</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:38</div></div>
-<div class="ttc" id="aa01925_html_a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b"><div class="ttname"><a href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba5de2c77a1e59e329fcfa4828043c428b">SPELL_WEB_WRAP_TRIGGER</a></div><div class="ttdeci">@ SPELL_WEB_WRAP_TRIGGER</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:53</div></div>
-<div class="ttc" id="aa01925_html_a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea"><div class="ttname"><a href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba85576368648a94fdc7883c9b73fe6fea">NPC_ANUB_AR_NECROMANCER</a></div><div class="ttdeci">@ NPC_ANUB_AR_NECROMANCER</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:45</div></div>
-<div class="ttc" id="aa01925_html_a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582"><div class="ttname"><a href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba9a8e964886187a715fc6d9e12652b582">NPC_KRIKTHIR_THE_GATEWATCHER</a></div><div class="ttdeci">@ NPC_KRIKTHIR_THE_GATEWATCHER</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:42</div></div>
-<div class="ttc" id="aa01925_html_a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429"><div class="ttname"><a href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba9bed6273aaeebfba195695ffaccff429">NPC_SKITTERING_SWARMER</a></div><div class="ttdeci">@ NPC_SKITTERING_SWARMER</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:40</div></div>
-<div class="ttc" id="aa01925_html_a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b"><div class="ttname"><a href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080eba9c746a2553132cc145054c043a2fe64b">GO_KRIKTHIR_DOORS</a></div><div class="ttdeci">@ GO_KRIKTHIR_DOORS</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:48</div></div>
-<div class="ttc" id="aa01925_html_a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b"><div class="ttname"><a href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebaade67b0305f29a278aeb81b4317cd58b">NPC_SKITTERING_INFECTIOR</a></div><div class="ttdeci">@ NPC_SKITTERING_INFECTIOR</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:41</div></div>
-<div class="ttc" id="aa01925_html_a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f"><div class="ttname"><a href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebac6d1845d4f2671edf7f06681bfacf66f">NPC_WATCHER_NARJIL</a></div><div class="ttdeci">@ NPC_WATCHER_NARJIL</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:37</div></div>
-<div class="ttc" id="aa01925_html_a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a"><div class="ttname"><a href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebadb575f56f42e4d47c262ab2dfd220c8a">NPC_HADRONOX</a></div><div class="ttdeci">@ NPC_HADRONOX</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:43</div></div>
-<div class="ttc" id="aa01925_html_a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316"><div class="ttname"><a href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebadf4da3d7a3b1a8ab02f2e587fd9a2316">GO_ANUBARAK_DOORS1</a></div><div class="ttdeci">@ GO_ANUBARAK_DOORS1</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:49</div></div>
-<div class="ttc" id="aa01925_html_a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0"><div class="ttname"><a href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf1d64fad51ac6f98962bbdac3b4a47e0">GO_ANUBARAK_DOORS3</a></div><div class="ttdeci">@ GO_ANUBARAK_DOORS3</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:51</div></div>
-<div class="ttc" id="aa01925_html_a13c2be6ee4ddd01bcdde2acfa66080ebaf4f603f77d6847952388c5dce5d0de08"><div class="ttname"><a href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf4f603f77d6847952388c5dce5d0de08">NPC_WATCHER_SILTHIK</a></div><div class="ttdeci">@ NPC_WATCHER_SILTHIK</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:39</div></div>
-<div class="ttc" id="aa01925_html_a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc"><div class="ttname"><a href="../../d6/d18/a01925.html#a13c2be6ee4ddd01bcdde2acfa66080ebaf614c816cc31f5a04d07c0c8a30274dc">GO_ANUBARAK_DOORS2</a></div><div class="ttdeci">@ GO_ANUBARAK_DOORS2</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:50</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   39</span>{</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a5aeaf5f332ee73166572f5313be89bf1a726fe6195260ca333078e65a64d24f7a">NPC_CABAL_RITUALIST</a>         = 18794,</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a5aeaf5f332ee73166572f5313be89bf1ad42fe7f18144f0b2ff2949b85385db8b">NPC_HELLMAW</a>                 = 18731,</div>
+<div class="line"><span class="lineno">   42</span> </div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a5aeaf5f332ee73166572f5313be89bf1a84947de77bc0d365a3dbc4c222a80d7c">GO_REFECTORY_DOOR</a>           = 183296,                     <span class="comment">//door opened when blackheart the inciter dies</span></div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d6/d18/a01925.html#a5aeaf5f332ee73166572f5313be89bf1a8dcc6b729c4258a8e241fa45bff0798a">GO_SCREAMING_HALL_DOOR</a>      = 183295                      <span class="comment">//door opened when grandmaster vorpil dies</span></div>
+<div class="line"><span class="lineno">   45</span>};</div>
+<div class="ttc" id="aa01925_html_a5aeaf5f332ee73166572f5313be89bf1a726fe6195260ca333078e65a64d24f7a"><div class="ttname"><a href="../../d6/d18/a01925.html#a5aeaf5f332ee73166572f5313be89bf1a726fe6195260ca333078e65a64d24f7a">NPC_CABAL_RITUALIST</a></div><div class="ttdeci">@ NPC_CABAL_RITUALIST</div><div class="ttdef"><b>Definition:</b> shadow_labyrinth.h:40</div></div>
+<div class="ttc" id="aa01925_html_a5aeaf5f332ee73166572f5313be89bf1a84947de77bc0d365a3dbc4c222a80d7c"><div class="ttname"><a href="../../d6/d18/a01925.html#a5aeaf5f332ee73166572f5313be89bf1a84947de77bc0d365a3dbc4c222a80d7c">GO_REFECTORY_DOOR</a></div><div class="ttdeci">@ GO_REFECTORY_DOOR</div><div class="ttdef"><b>Definition:</b> shadow_labyrinth.h:43</div></div>
+<div class="ttc" id="aa01925_html_a5aeaf5f332ee73166572f5313be89bf1a8dcc6b729c4258a8e241fa45bff0798a"><div class="ttname"><a href="../../d6/d18/a01925.html#a5aeaf5f332ee73166572f5313be89bf1a8dcc6b729c4258a8e241fa45bff0798a">GO_SCREAMING_HALL_DOOR</a></div><div class="ttdeci">@ GO_SCREAMING_HALL_DOOR</div><div class="ttdef"><b>Definition:</b> shadow_labyrinth.h:44</div></div>
+<div class="ttc" id="aa01925_html_a5aeaf5f332ee73166572f5313be89bf1ad42fe7f18144f0b2ff2949b85385db8b"><div class="ttname"><a href="../../d6/d18/a01925.html#a5aeaf5f332ee73166572f5313be89bf1ad42fe7f18144f0b2ff2949b85385db8b">NPC_HELLMAW</a></div><div class="ttdeci">@ NPC_HELLMAW</div><div class="ttdef"><b>Definition:</b> shadow_labyrinth.h:41</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a19b3f42ba299e1f42de805f494cd5812" name="a19b3f42ba299e1f42de805f494cd5812"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a19b3f42ba299e1f42de805f494cd5812">&#9670;&#160;</a></span>GetAzjolNerubAI()</h2>
+<a id="a04723307a726c0b79db08448db0704db" name="a04723307a726c0b79db08448db0704db"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a04723307a726c0b79db08448db0704db">&#9670;&#160;</a></span>GetShadowLabyrinthAI()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -313,7 +290,7 @@ template&lt;class AI , class T &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">AI * GetAzjolNerubAI </td>
+          <td class="memname">AI * GetShadowLabyrinthAI </td>
           <td>(</td>
           <td class="paramtype">T *&#160;</td>
           <td class="paramname"><em>obj</em></td><td>)</td>
@@ -326,12 +303,57 @@ template&lt;class AI , class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   58</span>{</div>
-<div class="line"><span class="lineno">   59</span>    <span class="keywordflow">return</span> GetInstanceAI&lt;AI&gt;(obj, <a class="code hl_define" href="../../d6/d18/a01925.html#a49c3c3627ce229fce6b1f55755bcb7d7">AzjolNerubScriptName</a>);</div>
-<div class="line"><span class="lineno">   60</span>}</div>
-<div class="ttc" id="aa01925_html_a49c3c3627ce229fce6b1f55755bcb7d7"><div class="ttname"><a href="../../d6/d18/a01925.html#a49c3c3627ce229fce6b1f55755bcb7d7">AzjolNerubScriptName</a></div><div class="ttdeci">#define AzjolNerubScriptName</div><div class="ttdef"><b>Definition:</b> azjol_nerub.h:25</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   52</span>{</div>
+<div class="line"><span class="lineno">   53</span>    <span class="keywordflow">return</span> GetInstanceAI&lt;AI&gt;(obj, <a class="code hl_define" href="../../d6/d18/a01925.html#ab96ece1dcc827c0af968525da00da892">ShadowLabyrinthScriptName</a>);</div>
+<div class="line"><span class="lineno">   54</span>}</div>
+<div class="ttc" id="aa01925_html_ab96ece1dcc827c0af968525da00da892"><div class="ttname"><a href="../../d6/d18/a01925.html#ab96ece1dcc827c0af968525da00da892">ShadowLabyrinthScriptName</a></div><div class="ttdeci">#define ShadowLabyrinthScriptName</div><div class="ttdef"><b>Definition:</b> shadow_labyrinth.h:24</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00025">AzjolNerubScriptName</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00024">ShadowLabyrinthScriptName</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="ae1fbcd81e7256d27efa0288994753839" name="ae1fbcd81e7256d27efa0288994753839"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae1fbcd81e7256d27efa0288994753839">&#9670;&#160;</a></span>EncounterCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> constexpr EncounterCount = 4</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="aa38a92afffebaf4b33726515956b256b" name="aa38a92afffebaf4b33726515956b256b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa38a92afffebaf4b33726515956b256b">&#9670;&#160;</a></span>PersistentDataCount</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> constexpr PersistentDataCount = 1</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -340,8 +362,8 @@ template&lt;class AI , class T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_5cfbf185b44f2e5d76772a862d6b80b6.html">AzjolNerub</a></li><li class="navelem"><a class="el" href="../../dir_0b75308b148efd21a65d1041b5f64421.html">AzjolNerub</a></li><li class="navelem"><a class="el" href="../../d6/d18/a01925.html">azjol_nerub.h</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:44:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_aa56e8ce1c3e0d32a59f1a16b86dbc72.html">Outland</a></li><li class="navelem"><a class="el" href="../../dir_c7e05c53196747da9983be071547f846.html">Auchindoun</a></li><li class="navelem"><a class="el" href="../../dir_612bf286bdc2eee44a54f756a23b5f5c.html">ShadowLabyrinth</a></li><li class="navelem"><a class="el" href="../../d6/d18/a01925.html">shadow_labyrinth.h</a></li>
+    <li class="footer">Generated on Mon Sep 29 2025 20:46:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

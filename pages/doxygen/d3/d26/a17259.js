@@ -1,6 +1,9 @@
 var a17259 =
 [
-    [ "AddExtraDamage", "d3/d26/a17259.html#adeedfdd7555dfd009c99db6f002f7488", null ],
-    [ "PrepareSpellScript", "d3/d26/a17259.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
-    [ "Register", "d3/d26/a17259.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
+    [ "npc_pos_after_first_bossAI", "d3/d26/a17259.html#a622df71849da1e10e2b73068f0adea98", null ],
+    [ "MovementInform", "d3/d26/a17259.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
+    [ "Reset", "d3/d26/a17259.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
+    [ "UpdateAI", "d3/d26/a17259.html#ac45111887fd7833a041355658dd26158", null ],
+    [ "events", "d3/d26/a17259.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
+    [ "pInstance", "d3/d26/a17259.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
 ];

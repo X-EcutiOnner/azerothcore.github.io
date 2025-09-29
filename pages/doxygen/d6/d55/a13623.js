@@ -1,12 +1,8 @@
 var a13623 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "d6/d55/a13623.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
-    [ "JustEngagedWith", "d6/d55/a13623.html#a36324482fb264cc3cacf11c3ed542eee", null ],
-    [ "JustSummoned", "d6/d55/a13623.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
-    [ "Reset", "d6/d55/a13623.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
-    [ "SetGUID", "d6/d55/a13623.html#aa5270e7468dcafba98d3ee72752771ce", null ],
-    [ "UpdateAI", "d6/d55/a13623.html#ab704e4f3af8aa734910efd259db31407", null ],
-    [ "_events", "d6/d55/a13623.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
-    [ "LamentEvent", "d6/d55/a13623.html#ace9e901a965665e0f97cb9646af308aa", null ],
-    [ "playerGUID", "d6/d55/a13623.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
+    [ "HandleApply", "d6/d55/a13623.html#a717e3428afd59fa3a5e9916887d88273", null ],
+    [ "HandleRemove", "d6/d55/a13623.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
+    [ "PrepareAuraScript", "d6/d55/a13623.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
+    [ "Register", "d6/d55/a13623.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
+    [ "Validate", "d6/d55/a13623.html#a393a46618a4e1928b8149e04b4823726", null ]
 ];

@@ -1,11 +1,9 @@
 var a10723 =
 [
-    [ "LFGJoin", "d8/d95/a10723.html#a50c79bdef7393907673a328bc36ff8ae", null ],
-    [ "Read", "d8/d95/a10723.html#a5eca5c5a528cf00f1e6aad99ce5386ed", null ],
-    [ "Achievements", "d8/d95/a10723.html#a587e98d4a1c8ff0cacd459298a4193c8", null ],
-    [ "Comment", "d8/d95/a10723.html#a3e12e650a1fa573aafd7c03abd970aff", null ],
-    [ "Needs", "d8/d95/a10723.html#a313c16e84e2cd0b55551d16273e95917", null ],
-    [ "NoPartialClear", "d8/d95/a10723.html#aad54be871d0978034fb69a464fd5b9df", null ],
-    [ "Roles", "d8/d95/a10723.html#a5eaccbeb4fc8b21f5398e216589cb99b", null ],
-    [ "Slots", "d8/d95/a10723.html#aa14a07716504723283ad80c6357cf53f", null ]
+    [ "GuildBankUpdateTab", "d8/d95/a10723.html#a2950da8bfc40df57a3f5a66eee47a7ef", null ],
+    [ "Read", "d8/d95/a10723.html#ac261ff0102489efb4d69bd866ffc9283", null ],
+    [ "Banker", "d8/d95/a10723.html#a7ab950cee095221f9114224a624d46db", null ],
+    [ "BankTab", "d8/d95/a10723.html#a66284a4d9cb40b025ef265d443e6e62f", null ],
+    [ "Icon", "d8/d95/a10723.html#a75a219a9e2ab677a41920f39a1613a1b", null ],
+    [ "Name", "d8/d95/a10723.html#a44261fbc379b3137548922faf4b5cbda", null ]
 ];

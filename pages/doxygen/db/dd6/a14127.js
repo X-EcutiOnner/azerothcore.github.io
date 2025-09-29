@@ -1,6 +1,6 @@
 var a14127 =
 [
-    [ "HandleEffectApply", "db/dd6/a14127.html#a06d50e8c0f7bfd1b055d8a3f5c14d357", null ],
-    [ "PrepareAuraScript", "db/dd6/a14127.html#a5f8abd33848c554f9a530ad23c86a7a0", null ],
-    [ "Register", "db/dd6/a14127.html#a2b39daf6fe325cfa909b964da62c2571", null ]
+    [ "npc_zulian_prowlerAI", "d3/de1/a14131.html", "d3/de1/a14131" ],
+    [ "npc_zulian_prowler", "db/dd6/a14127.html#a27ae990985976d02bb221b6d669fa849", null ],
+    [ "GetAI", "db/dd6/a14127.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
 ];

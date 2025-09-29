@@ -1,8 +1,8 @@
 var a13355 =
 [
-    [ "HandleApply", "d5/d02/a13355.html#a9dce02909356193476e66586aee87f1d", null ],
-    [ "OnPeriodic", "d5/d02/a13355.html#add4f000f81d5d4112719c6dd7464163c", null ],
-    [ "PrepareAuraScript", "d5/d02/a13355.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
-    [ "Register", "d5/d02/a13355.html#abc349f12f375b1f284eb78a363e8172a", null ],
-    [ "Validate", "d5/d02/a13355.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
+    [ "CalcPeriodic", "d5/d02/a13355.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
+    [ "HandleDummyTick", "d5/d02/a13355.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
+    [ "HandleUpdatePeriodic", "d5/d02/a13355.html#a70ef86fd58eec1422bac6b61a4123842", null ],
+    [ "PrepareAuraScript", "d5/d02/a13355.html#a9a97a6ab249728dbad4d3603640a7963", null ],
+    [ "Register", "d5/d02/a13355.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
 ];

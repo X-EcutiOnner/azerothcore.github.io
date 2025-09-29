@@ -1,7 +1,5 @@
 var a11195 =
 [
-    [ "CategoryRecoveryTime", "d4/d19/a11195.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
-    [ "RecoveryTime", "d4/d19/a11195.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
-    [ "StartRecoveryCategory", "d4/d19/a11195.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
-    [ "StartRecoveryTime", "d4/d19/a11195.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
+    [ "SocketAdded", "d4/d19/a11195.html#a89b23aa46aca3772ad0c0f36f41db537", null ],
+    [ "SocketRemoved", "d4/d19/a11195.html#a4f4ec084812a4191a477f7fa9223fa6e", null ]
 ];

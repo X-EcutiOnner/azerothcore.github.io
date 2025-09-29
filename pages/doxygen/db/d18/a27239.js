@@ -1,5 +1,5 @@
 var a27239 =
 [
-    [ "go_tablet_of_the_seven", "db/d18/a27239.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
-    [ "OnGossipHello", "db/d18/a27239.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
+    [ "achievement_bg_control_all_nodes", "db/d18/a27239.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
+    [ "OnCheck", "db/d18/a27239.html#a69609eb5488519fa5a1f43b13a80e280", null ]
 ];

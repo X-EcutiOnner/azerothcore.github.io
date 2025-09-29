@@ -1,8 +1,11 @@
 var a20079 =
 [
-    [ "OnApply", "dc/d31/a20079.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
-    [ "OnRemove", "dc/d31/a20079.html#a4709f570f9014eb36bc8c65269470373", null ],
-    [ "PrepareAuraScript", "dc/d31/a20079.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
-    [ "Register", "dc/d31/a20079.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
-    [ "Validate", "dc/d31/a20079.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
+    [ "boss_flame_leviathan_defense_turretAI", "dc/d31/a20079.html#aedf30f06fe89c805019f7cc254646ff1", null ],
+    [ "CanAIAttack", "dc/d31/a20079.html#a76efa1d88ce029775809abb3ec88efb3", null ],
+    [ "DamageTaken", "dc/d31/a20079.html#adedbbeeb01da20843bc85ac2daaed12a", null ],
+    [ "JustDied", "dc/d31/a20079.html#af261cc1f0458984719ab1bb4518bdc64", null ],
+    [ "KilledUnit", "dc/d31/a20079.html#aed3f2a4bac3391683989eec94697ef16", null ],
+    [ "UpdateAI", "dc/d31/a20079.html#a575eb381d1aa31af60484271ae6e4627", null ],
+    [ "_instance", "dc/d31/a20079.html#a8c0658a5d32355607cb16f6e1c83f83e", null ],
+    [ "_setHealth", "dc/d31/a20079.html#aeb220ded0a6515674a428716a8be9f48", null ]
 ];

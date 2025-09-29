@@ -1,5 +1,7 @@
 var a24307 =
 [
-    [ "npc_pet_dk_risen_allyAI", "d9/df1/a24307.html#ac9f42a8f6d87ab65e78d9a3951102705", null ],
-    [ "OnCharmed", "d9/df1/a24307.html#ada01d7ab11b7bf240cad932c96978a06", null ]
+    [ "npc_kurenai_captiveAI", "da/df0/a24311.html", "da/df0/a24311" ],
+    [ "npc_kurenai_captive", "d9/df1/a24307.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "d9/df1/a24307.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "d9/df1/a24307.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
 ];

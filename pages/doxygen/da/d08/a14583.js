@@ -1,7 +1,8 @@
 var a14583 =
 [
-    [ "OnPeriodic", "da/d08/a14583.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
-    [ "PrepareAuraScript", "da/d08/a14583.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
-    [ "Register", "da/d08/a14583.html#aeb388d608830aeb3b30f707304403b41", null ],
-    [ "Validate", "da/d08/a14583.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
+    [ "npc_hallows_end_train_fire", "da/d08/a14583.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
+    [ "Reset", "da/d08/a14583.html#afdda52e0adce23f56fa9d1357469a17d", null ],
+    [ "SpellHit", "da/d08/a14583.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
+    [ "UpdateAI", "da/d08/a14583.html#a686a565e1743c31166d8d57f67a0adce", null ],
+    [ "timer", "da/d08/a14583.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
 ];

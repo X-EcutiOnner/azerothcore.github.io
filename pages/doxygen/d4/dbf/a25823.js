@@ -1,9 +1,7 @@
 var a25823 =
 [
-    [ "OnEffectHitTargetDisarm", "d4/dbf/a25823.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
-    [ "OnEffectHitTargetStun", "d4/dbf/a25823.html#a5a5253b6d152b1af78de663c09451536", null ],
-    [ "OnEffectLaunchTargetDisarm", "d4/dbf/a25823.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
-    [ "OnEffectLaunchTargetStun", "d4/dbf/a25823.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
-    [ "PrepareSpellScript", "d4/dbf/a25823.html#a113219d3376a23f8889f26f10744e7cb", null ],
-    [ "Register", "d4/dbf/a25823.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
+    [ "CheckProc", "d4/dbf/a25823.html#afbd6d4a64b7da0d0dc15c62eb81746c9", null ],
+    [ "HandleProc", "d4/dbf/a25823.html#a27569fe686e50246768fca4a7625fe0d", null ],
+    [ "PrepareAuraScript", "d4/dbf/a25823.html#a4f4eaa4aeeac9257804957671c16233f", null ],
+    [ "Register", "d4/dbf/a25823.html#ab9a662bebdb5e03c5c10a807b892a9bf", null ]
 ];

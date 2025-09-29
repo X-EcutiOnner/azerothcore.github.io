@@ -1,6 +1,6 @@
 var a16319 =
 [
-    [ "npc_toc_druidAI", "d6/dc8/a16323.html", "d6/dc8/a16323" ],
-    [ "npc_toc_druid", "d8/de4/a16319.html#a07321d5ee164b8e47f652f9bad65216b", null ],
-    [ "GetAI", "d8/de4/a16319.html#a4f33e8f3649c0b398448cd01666cf92b", null ]
+    [ "HandleForceCast", "d8/de4/a16319.html#a975b69649aba9de341f4e52c82a3c111", null ],
+    [ "PrepareSpellScript", "d8/de4/a16319.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
+    [ "Register", "d8/de4/a16319.html#a794a59e5fd3bda75f30d559f422895b5", null ]
 ];

@@ -1,7 +1,6 @@
 var a12147 =
 [
-    [ "boss_broodlordAI", "df/dc8/a12147.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
-    [ "JustDied", "df/dc8/a12147.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
-    [ "JustEngagedWith", "df/dc8/a12147.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
-    [ "UpdateAI", "df/dc8/a12147.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
+    [ "boss_gloomrel", "df/dc8/a12147.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
+    [ "OnGossipHello", "df/dc8/a12147.html#a6ce6898142d767a130ec09769f2be488", null ],
+    [ "OnGossipSelect", "df/dc8/a12147.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
 ];

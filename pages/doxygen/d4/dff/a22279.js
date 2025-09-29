@@ -1,7 +1,6 @@
 var a22279 =
 [
-    [ "npc_wg_demolisher_engineer", "d4/dff/a22279.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "d4/dff/a22279.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "d4/dff/a22279.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "d4/dff/a22279.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "npc_llod_genericAI", "d2/de2/a22283.html", "d2/de2/a22283" ],
+    [ "npc_llod_generic", "d4/dff/a22279.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
+    [ "GetAI", "d4/dff/a22279.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
 ];

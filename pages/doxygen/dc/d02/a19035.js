@@ -1,6 +1,5 @@
 var a19035 =
 [
-    [ "boss_maexxnaAI", "dd/d78/a19039.html", "dd/d78/a19039" ],
-    [ "boss_maexxna", "dc/d02/a19035.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
-    [ "GetAI", "dc/d02/a19035.html#ab438df4cb61625da35552ca7c867dc64", null ]
+    [ "npc_icc_buff_switcher", "dc/d02/a19035.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
+    [ "OnGossipSelect", "dc/d02/a19035.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
 ];

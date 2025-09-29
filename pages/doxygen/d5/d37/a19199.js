@@ -1,6 +1,6 @@
 var a19199 =
 [
-    [ "npc_hover_diskAI", "dd/de5/a19203.html", "dd/de5/a19203" ],
-    [ "npc_hover_disk", "d5/d37/a19199.html#af0ab534387a2af4e168915801ee855e5", null ],
-    [ "GetAI", "d5/d37/a19199.html#adbe9285126089ca998e9b6360f42c553", null ]
+    [ "NotOnSameSide", "d5/d37/a19199.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
+    [ "operator()", "d5/d37/a19199.html#a59ea48b9633049180ec62d3616fe4dea", null ],
+    [ "m_inLiveSide", "d5/d37/a19199.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
 ];

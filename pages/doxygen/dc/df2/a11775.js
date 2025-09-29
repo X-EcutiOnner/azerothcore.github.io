@@ -1,15 +1,13 @@
 var a11775 =
 [
-    [ "boss_vanndarAI", "dc/df2/a11775.html#ada061b4363340602fd1f4744433d9cf9", null ],
-    [ "AttackStart", "dc/df2/a11775.html#a76ab9327e04b82b534a9b3ea59b377d1", null ],
-    [ "EnterEvadeMode", "dc/df2/a11775.html#a9ba6e2620a25728bf30d4d813a82b781", null ],
-    [ "JustEngagedWith", "dc/df2/a11775.html#abde00baf4099361b8c26e6e0cf6c1517", null ],
-    [ "Reset", "dc/df2/a11775.html#a1c2fdf4351a43047f02bec1d46423cb8", null ],
-    [ "UpdateAI", "dc/df2/a11775.html#ab410ed8d64cd91bd6c4b78b2ed678eab", null ],
-    [ "Attacked", "dc/df2/a11775.html#ac5994c76a9d84cf303021a9298673d68", null ],
-    [ "AvatarTimer", "dc/df2/a11775.html#a3bed38b10a87baf50e9c9a57229bd464", null ],
-    [ "ResetTimer", "dc/df2/a11775.html#ae1c4e16cd9ad68e4700d68ed64baa8e2", null ],
-    [ "StormboltTimer", "dc/df2/a11775.html#a71ef70c1b504be2b00be1a70e85bc18a", null ],
-    [ "ThunderclapTimer", "dc/df2/a11775.html#a681a103b6cf937dad3fb15e5be358c26", null ],
-    [ "YellTimer", "dc/df2/a11775.html#a2b8503aaae0fd5e8cd92bb9650ee6ee3", null ]
+    [ "cheat_commandscript", "dc/df2/a11775.html#a7449cfba3578956a09b67e569e7e6083", null ],
+    [ "GetCommands", "dc/df2/a11775.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
+    [ "HandleCasttimeCheatCommand", "dc/df2/a11775.html#a119ad06c5b8be235853bb13c7cff724b", null ],
+    [ "HandleCheatStatusCommand", "dc/df2/a11775.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
+    [ "HandleCoolDownCheatCommand", "dc/df2/a11775.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
+    [ "HandleExploreCheatCommand", "dc/df2/a11775.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
+    [ "HandleGodModeCheatCommand", "dc/df2/a11775.html#ac398dbacf025830dc871bc77938d47d6", null ],
+    [ "HandlePowerCheatCommand", "dc/df2/a11775.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
+    [ "HandleTaxiCheatCommand", "dc/df2/a11775.html#ab9bd840c9622d173e710058eeb763388", null ],
+    [ "HandleWaterWalkCheatCommand", "dc/df2/a11775.html#a9162d89c049f14f29bc5ba257964df34", null ]
 ];

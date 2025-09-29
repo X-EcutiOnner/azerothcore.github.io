@@ -1,8 +1,8 @@
 var a05703 =
 [
-    [ "Statements", "d3/d30/a05703.html#a6dc31cb64a22e90cc5275bf6fcaaf000", null ],
-    [ "LoginDatabaseConnection", "d3/d30/a05703.html#aed22866380f9331ff73d4437a779206c", null ],
-    [ "LoginDatabaseConnection", "d3/d30/a05703.html#a27fa1397706cf8b986fe0a05a82a910b", null ],
-    [ "~LoginDatabaseConnection", "d3/d30/a05703.html#a7514a6e42889d5d75dcce2e804fff7b8", null ],
-    [ "DoPrepareStatements", "d3/d30/a05703.html#a3f826d59e4efa55d7825f90f434ae889", null ]
+    [ "BaseSocketMgr", "d3/d30/a05703.html#a55ca5c800a783d89fbe05bd945374b84", null ],
+    [ "CreateThreads", "d3/d30/a05703.html#a98a0866ae616017010f639f0ad9fc72d", null ],
+    [ "Instance", "d3/d30/a05703.html#a9c56ed247f209709221a3e592f4d010f", null ],
+    [ "OnSocketAccept", "d3/d30/a05703.html#ac8169c9c11a33336d08acb0532e917bc", null ],
+    [ "StartNetwork", "d3/d30/a05703.html#a345e4f8cc1c216ed7eb9c3e96748170f", null ]
 ];

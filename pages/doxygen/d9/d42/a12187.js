@@ -1,6 +1,8 @@
 var a12187 =
 [
-    [ "boss_ebonrocAI", "de/db8/a12191.html", "de/db8/a12191" ],
-    [ "boss_ebonroc", "d9/d42/a12187.html#a3f71b5a687ab10a228e560429b8a4709", null ],
-    [ "GetAI", "d9/d42/a12187.html#acf2dc7391e1f642dff3c7f56024aaea5", null ]
+    [ "CheckProc", "d9/d42/a12187.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "d9/d42/a12187.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "d9/d42/a12187.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "d9/d42/a12187.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "d9/d42/a12187.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

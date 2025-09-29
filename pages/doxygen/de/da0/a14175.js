@@ -1,6 +1,5 @@
 var a14175 =
 [
-    [ "go_direbrew_mole_machineAI", "da/d00/a14179.html", "da/d00/a14179" ],
-    [ "go_direbrew_mole_machine", "de/da0/a14175.html#a759d291a5be227d8beae3bbc779e56f4", null ],
-    [ "GetAI", "de/da0/a14175.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
+    [ "at_zulgurub_temple_speech", "de/da0/a14175.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
+    [ "_OnTrigger", "de/da0/a14175.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
 ];

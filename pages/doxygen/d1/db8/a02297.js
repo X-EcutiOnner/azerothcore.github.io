@@ -1,20 +1,24 @@
 var a02297 =
 [
-    [ "npc_partygoer_pather", "da/d61/a13750.html", "da/d61/a13750" ],
-    [ "npc_partygoer", "df/de9/a13754.html", "df/de9/a13754" ],
-    [ "Partygoer", "d1/db8/a02297.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e", [
-      [ "EVENT_RANDOM_ACTION", "d1/db8/a02297.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacb43fc5be7eecf527a639a9122091f96", null ],
-      [ "EVENT_REMOVE_EQUIPMENT", "d1/db8/a02297.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886", null ],
-      [ "EVENT_STOP_DANCING", "d1/db8/a02297.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacaad2f31616c81d6fa79aaad83b2fba4", null ],
-      [ "EVENT_THROW_FIREWORKS", "d1/db8/a02297.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eaa67af798691d1e37088900cb7c2ebf51", null ],
-      [ "EVENT_RESET_FACING", "d1/db8/a02297.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9", null ],
-      [ "GO_FIREWORKS_LAUNCHER", "d1/db8/a02297.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea4fd8fdeafd948ad27d906801728d7081", null ]
+    [ "npc_rizzle_sprysprocket", "d1/dc2/a15491.html", "d1/dc2/a15491" ],
+    [ "npc_rizzle_sprysprocket::npc_rizzle_sprysprocketAI", "d1/d9b/a15495.html", "d1/d9b/a15495" ],
+    [ "npc_depth_charge", "d7/d24/a15499.html", "d7/d24/a15499" ],
+    [ "npc_depth_charge::npc_depth_chargeAI", "d7/d81/a15503.html", "d7/d81/a15503" ],
+    [ "RizzleSprysprocketData", "d1/db8/a02297.html#ad694d8f9c4171422b48a06322c8bf5a3", [
+      [ "QUEST_CHASING_THE_MOONSTONE", "d1/db8/a02297.html#ad694d8f9c4171422b48a06322c8bf5a3a62167aa10a1e13501da60bbfd43df100", null ],
+      [ "NPC_DEPTH_CHARGE", "d1/db8/a02297.html#ad694d8f9c4171422b48a06322c8bf5a3a6238920533d94ea0caa141d736f110ac", null ],
+      [ "SPELL_RIZZLE_BLACKJACK", "d1/db8/a02297.html#ad694d8f9c4171422b48a06322c8bf5a3aa6c12ccbf9db4eb0ed767b4f07ddf62c", null ],
+      [ "SPELL_RIZZLE_ESCAPE", "d1/db8/a02297.html#ad694d8f9c4171422b48a06322c8bf5a3a045675473e0b088d783fd577efa8ad75", null ],
+      [ "SPELL_RIZZLE_FROST_GRENADE", "d1/db8/a02297.html#ad694d8f9c4171422b48a06322c8bf5a3a28994b7a8f42678d14a11b5a7078c0e1", null ],
+      [ "SPELL_DEPTH_CHARGE_TRAP", "d1/db8/a02297.html#ad694d8f9c4171422b48a06322c8bf5a3a685ae5385fd93ebf978ae918d8e88afe", null ],
+      [ "SPELL_PERIODIC_DEPTH_CHARGE", "d1/db8/a02297.html#ad694d8f9c4171422b48a06322c8bf5a3a46e20b8a4b722974fa1a48c334ad0965", null ],
+      [ "SPELL_GIVE_SOUTHFURY_MOONSTONE", "d1/db8/a02297.html#ad694d8f9c4171422b48a06322c8bf5a3a008357389ef71129c47d0af4c103f168", null ],
+      [ "SAY_RIZZLE_START", "d1/db8/a02297.html#ad694d8f9c4171422b48a06322c8bf5a3a4041141e3ffdb02858ab8e153b4bb80f", null ],
+      [ "SAY_RIZZLE_GRENADE", "d1/db8/a02297.html#ad694d8f9c4171422b48a06322c8bf5a3a62818d492b5281057628356574ada201", null ],
+      [ "SAY_RIZZLE_FINAL", "d1/db8/a02297.html#ad694d8f9c4171422b48a06322c8bf5a3a2171c54277d8aadbe7b633befacf4ab3", null ],
+      [ "MSG_ESCAPE_NOTICE", "d1/db8/a02297.html#ad694d8f9c4171422b48a06322c8bf5a3ac276316b4b9c389e1701165b3a1491c7", null ],
+      [ "GOSSIP_GET_MOONSTONE", "d1/db8/a02297.html#ad694d8f9c4171422b48a06322c8bf5a3a9ba89e15a5cf6168c5e38316ef46daa0", null ]
     ] ],
-    [ "Partygoer_Pather", "d1/db8/a02297.html#a3222d14ce03d75912e65560ebf2a961b", [
-      [ "EVENT_PATH", "d1/db8/a02297.html#a3222d14ce03d75912e65560ebf2a961bab210624be9af9dc44683266b3b3efcea", null ],
-      [ "EVENT_RANDOM_ACTION_PATHER", "d1/db8/a02297.html#a3222d14ce03d75912e65560ebf2a961ba93c437ac824047af79e5296f2f70938b", null ],
-      [ "EVENT_REMOVE_EQUIPMENT_PATHER", "d1/db8/a02297.html#a3222d14ce03d75912e65560ebf2a961baae55cce9b375894e1a9adbbd8c42610f", null ],
-      [ "EVENT_STOP_DANCING_PATHER", "d1/db8/a02297.html#a3222d14ce03d75912e65560ebf2a961ba038dd2b09deef9325222dec4d8a99292", null ]
-    ] ],
-    [ "AddSC_eversong_woods", "d1/db8/a02297.html#a78299b9cdd3e783b3f231a9dda40a7b4", null ]
+    [ "AddSC_azshara", "d1/db8/a02297.html#ad86bcd16e9f7f0d1b823153be725f9ce", null ],
+    [ "WPs", "d1/db8/a02297.html#a6963f0357cacc0d2bcf7d514cad45e73", null ]
 ];

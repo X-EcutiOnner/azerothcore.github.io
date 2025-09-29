@@ -1,6 +1,8 @@
 var a13515 =
 [
-    [ "x", "d2/d4b/a13515.html#afeb59642abc7d5114668b2c27e315228", null ],
-    [ "y", "d2/d4b/a13515.html#a3e2454dd579de689289003a343e7f29c", null ],
-    [ "z", "d2/d4b/a13515.html#a4fbcf991d732545b4f9c19689ff9d805", null ]
+    [ "FilterTargets", "d2/d4b/a13515.html#a3aac5e364d04a4a086aaa911051417d5", null ],
+    [ "HandleDummy", "d2/d4b/a13515.html#aa0705dee3edeca7b61f82581f367e94a", null ],
+    [ "PrepareSpellScript", "d2/d4b/a13515.html#a1efa036eac25d789850849dc1b209379", null ],
+    [ "Register", "d2/d4b/a13515.html#a656b512d5bef657004a72acbf7875760", null ],
+    [ "Validate", "d2/d4b/a13515.html#a33534d9fd70af99bbde1e4a908d22084", null ]
 ];

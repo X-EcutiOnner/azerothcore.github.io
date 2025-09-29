@@ -1,5 +1,6 @@
 var a28695 =
 [
-    [ "max", "dc/d18/a28695.html#a3d87d5fa5e887282fa76a4a4b77eb097", null ],
-    [ "min", "dc/d18/a28695.html#a7277258d8bdc471a007814fadf91780a", null ]
+    [ "categoryMask", "dc/d18/a28695.html#abd8816e5dda7bda455ccd6932647c4be", null ],
+    [ "categoryType", "dc/d18/a28695.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
+    [ "ID", "dc/d18/a28695.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
 ];

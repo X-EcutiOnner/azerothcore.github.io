@@ -1,6 +1,6 @@
 var a20219 =
 [
-    [ "HandleAfterEffectApply", "d0/d15/a20219.html#af655bb31dc24a3cede08ca371f784913", null ],
-    [ "PrepareAuraScript", "d0/d15/a20219.html#a1824853d0b369deac0745fabe2df657c", null ],
-    [ "Register", "d0/d15/a20219.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
+    [ "CheckCast", "d0/d15/a20219.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "d0/d15/a20219.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "d0/d15/a20219.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

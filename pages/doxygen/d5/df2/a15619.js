@@ -1,9 +1,7 @@
 var a15619 =
 [
-    [ "npc_pluckyAI", "d5/df2/a15619.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
-    [ "ReceiveEmote", "d5/df2/a15619.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
-    [ "Reset", "d5/df2/a15619.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
-    [ "UpdateAI", "d5/df2/a15619.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
-    [ "NormFaction", "d5/df2/a15619.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
-    [ "ResetTimer", "d5/df2/a15619.html#ac9808c21666cd17b0603e7e67a61d015", null ]
+    [ "npc_aged_dying_ancient_kodoAI", "d5/df2/a15619.html#aaed19d0c915891d8afecda7df75a8a75", null ],
+    [ "JustRespawned", "d5/df2/a15619.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
+    [ "MoveInLineOfSight", "d5/df2/a15619.html#a295d4bef97b97c7deb31a81274f0818d", null ],
+    [ "SpellHit", "d5/df2/a15619.html#a021b82aa6bd2e118fe810f18349fda42", null ]
 ];

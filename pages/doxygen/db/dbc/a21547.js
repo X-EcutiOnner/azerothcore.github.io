@@ -1,14 +1,11 @@
 var a21547 =
 [
-    [ "npc_hidden_cultistAI", "db/dbc/a21547.html#a970aaa2401664337147696624cc8cac4", null ],
-    [ "AttackPlayer", "db/dbc/a21547.html#a55e3b02d05f35d134fc605a13efe9018", null ],
-    [ "Initialize", "db/dbc/a21547.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
-    [ "PreScript", "db/dbc/a21547.html#a92be5361e2b28152adcca0629b286bb8", null ],
-    [ "Reset", "db/dbc/a21547.html#afe38e448d86cdf910870d72a3890ae1f", null ],
-    [ "sGossipSelect", "db/dbc/a21547.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
-    [ "UpdateAI", "db/dbc/a21547.html#a0bba4d10439d47d44ff856c7fec18595", null ],
-    [ "_emoteState", "db/dbc/a21547.html#adb4e884787dc480358c5be22d276ec49", null ],
-    [ "_events", "db/dbc/a21547.html#ab0494e33d16a43aa1426784d1882e41c", null ],
-    [ "_npcFlags", "db/dbc/a21547.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
-    [ "_playerGUID", "db/dbc/a21547.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
+    [ "npc_ichor_globuleAI", "db/dbc/a21547.html#a4d581f89c8385276fd407c000af9e569", null ],
+    [ "AttackStart", "db/dbc/a21547.html#aa4e1fc88a26d6ef41f1ca96c93abbc1a", null ],
+    [ "JustDied", "db/dbc/a21547.html#ad29c7659590933b0749e8e1c2c2e4c46", null ],
+    [ "MoveInLineOfSight", "db/dbc/a21547.html#af8ef8296512d57d934a171f1a5060e73", null ],
+    [ "SpellHit", "db/dbc/a21547.html#a1396538a446545408e3c304f3e56400f", null ],
+    [ "UpdateAI", "db/dbc/a21547.html#a6ff13c853583e5178fb3a690e17303de", null ],
+    [ "pInstance", "db/dbc/a21547.html#a94cbe93a69a28171fc3d91d71b6ec419", null ],
+    [ "uiRangeCheck_Timer", "db/dbc/a21547.html#a99914a55d2dc0b36a623dc7d6248e953", null ]
 ];

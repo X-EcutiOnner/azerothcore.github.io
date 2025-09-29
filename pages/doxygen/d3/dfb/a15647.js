@@ -1,14 +1,7 @@
 var a15647 =
 [
-    [ "npc_ringoAI", "d3/dfb/a15647.html#a816dcad96afa6bec595f4b2dfe6fb11c", null ],
-    [ "ClearFaint", "d3/dfb/a15647.html#abd24108debcafafa601958824d44abbb", null ],
-    [ "MoveInLineOfSight", "d3/dfb/a15647.html#a6758ef2fe371338826dfc8582d6d03f0", null ],
-    [ "Reset", "d3/dfb/a15647.html#a5b2cf17642bd4a560abb54b8d42bcd25", null ],
-    [ "SetFaint", "d3/dfb/a15647.html#a09d3770aade34afe5a3a15e17cc64933", null ],
-    [ "SpellHit", "d3/dfb/a15647.html#ad30d1a9fb84cc777d48b1363cf571d72", null ],
-    [ "UpdateFollowerAI", "d3/dfb/a15647.html#a3b0effa8ec4d335a1d24d2238346b04a", null ],
-    [ "EndEventProgress", "d3/dfb/a15647.html#a4df563b83103bbd7e1f0d81a78f6401a", null ],
-    [ "EndEventTimer", "d3/dfb/a15647.html#a03f20114ca340c7c710bd77ee3c905ef", null ],
-    [ "FaintTimer", "d3/dfb/a15647.html#a37d12c7edf3100837c99e3fb572f4bf1", null ],
-    [ "SpraggleGUID", "d3/dfb/a15647.html#a3b58d34a1263355e7b11e22e0eef00a5", null ]
+    [ "HandleEffectPeriodic", "d3/dfb/a15647.html#ac47c157dbd193bc131d281666ae2097f", null ],
+    [ "PrepareAuraScript", "d3/dfb/a15647.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
+    [ "Register", "d3/dfb/a15647.html#ac3c158fdddd007d1d7986470032bfc25", null ],
+    [ "Validate", "d3/dfb/a15647.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
 ];

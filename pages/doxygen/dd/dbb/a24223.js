@@ -1,5 +1,6 @@
 var a24223 =
 [
-    [ "npc_shattrath_daily_quest", "dd/dbb/a24223.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
-    [ "DoAction", "dd/dbb/a24223.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
+    [ "go_apexis_relic", "dd/dbb/a24223.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
+    [ "OnGossipHello", "dd/dbb/a24223.html#ae8f7167ba5b973881e32d604691dc15a", null ],
+    [ "OnGossipSelect", "dd/dbb/a24223.html#a025cc7cc9c69f0eb461445170972ab52", null ]
 ];

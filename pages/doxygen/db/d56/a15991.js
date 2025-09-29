@@ -1,6 +1,11 @@
 var a15991 =
 [
-    [ "boss_general_zarithrianAI", "df/d91/a15995.html", "df/d91/a15995" ],
-    [ "boss_general_zarithrian", "db/d56/a15991.html#a030c53b6ef1d75027ddfd298d49ab330", null ],
-    [ "GetAI", "db/d56/a15991.html#a22ba4e0769dd9404ae043fb9c16233ff", null ]
+    [ "boss_amanitar", "db/d56/a15991.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
+    [ "EnterEvadeMode", "db/d56/a15991.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
+    [ "JustDied", "db/d56/a15991.html#a138049712649ff414950d9d0ca05d712", null ],
+    [ "JustEngagedWith", "db/d56/a15991.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
+    [ "Reset", "db/d56/a15991.html#aab3faca4526947a72d8ca049a605f5be", null ],
+    [ "SummonedCreatureDespawn", "db/d56/a15991.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
+    [ "SummonMushroom", "db/d56/a15991.html#afc5b4942931f6020b2894b901650fc35", null ],
+    [ "_mushroomsDeque", "db/d56/a15991.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
 ];

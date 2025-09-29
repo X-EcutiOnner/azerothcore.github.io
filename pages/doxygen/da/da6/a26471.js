@@ -1,6 +1,7 @@
 var a26471 =
 [
-    [ "HandleScript", "da/da6/a26471.html#ad0885113f3bd8eea8ff3db30b55cc240", null ],
-    [ "PrepareSpellScript", "da/da6/a26471.html#a8410b746f810eaeb7f71c3a7de607a84", null ],
-    [ "Register", "da/da6/a26471.html#ab8f5c857ee42a6767d10277b52a7da01", null ]
+    [ "HandleHeal", "da/da6/a26471.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
+    [ "PrepareSpellScript", "da/da6/a26471.html#a9de9260bc1e2582138c58a708e5d899c", null ],
+    [ "Register", "da/da6/a26471.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
+    [ "Validate", "da/da6/a26471.html#aa300822cf5455404482124a6853fb314", null ]
 ];

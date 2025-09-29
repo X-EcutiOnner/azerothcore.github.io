@@ -1,6 +1,8 @@
 var a22967 =
 [
-    [ "PrepareSpellScript", "dd/d05/a22967.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
-    [ "Register", "dd/d05/a22967.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
-    [ "RemoveSpines", "dd/d05/a22967.html#a076b056328ba6181a6ec907f21258f9d", null ]
+    [ "npc_parasitic_shadowfiend", "dd/d05/a22967.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
+    [ "CanAIAttack", "dd/d05/a22967.html#ac7600aed313f1413cb9b522d60d30329", null ],
+    [ "EnterEvadeMode", "dd/d05/a22967.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
+    [ "IsSummonedBy", "dd/d05/a22967.html#a306c696d4243c4525d0a3908a212135d", null ],
+    [ "UpdateAI", "dd/d05/a22967.html#a2706a4ba7876f299b02d2e720f512af2", null ]
 ];

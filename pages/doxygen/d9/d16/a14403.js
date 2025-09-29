@@ -1,8 +1,6 @@
 var a14403 =
 [
-    [ "OnApply", "d9/d16/a14403.html#a6bc23ff885f4fbc25d00fe35173bad3e", null ],
-    [ "OnRemove", "d9/d16/a14403.html#aed62006fe08bfaad0a8bb51d5e739c67", null ],
-    [ "PrepareAuraScript", "d9/d16/a14403.html#ac7388aa4c0746ce963cbbb97dbfb4765", null ],
-    [ "Register", "d9/d16/a14403.html#a95c3af6d3f1d510ad8a2d9be7e28b2dc", null ],
-    [ "Validate", "d9/d16/a14403.html#a0ed19bc16fa8e2da2332766bbc1110e5", null ]
+    [ "HandleDummyEffect", "d9/d16/a14403.html#a3860ad8a34e37601f7a4cef395f7ab2a", null ],
+    [ "PrepareSpellScript", "d9/d16/a14403.html#a1c69fb2fd3fa623d62647fca738d27d6", null ],
+    [ "Register", "d9/d16/a14403.html#ad1cbf7ed8f7d119bb56d06fb62358458", null ]
 ];

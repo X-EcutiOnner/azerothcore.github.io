@@ -1,6 +1,6 @@
 var a12263 =
 [
-    [ "boss_razorgoreAI", "db/d1b/a12267.html", "db/d1b/a12267" ],
-    [ "boss_razorgore", "d1/d3b/a12263.html#aee534a04797c5938e6da00f2ab119943", null ],
-    [ "GetAI", "d1/d3b/a12263.html#a4683a5deefdb9d3219638189e9a99c2a", null ]
+    [ "boss_solakar_flamewreathAI", "db/d1b/a12267.html", "db/d1b/a12267" ],
+    [ "boss_solakar_flamewreath", "d1/d3b/a12263.html#a0d5a9f9525303014e72cd98d45bf302f", null ],
+    [ "GetAI", "d1/d3b/a12263.html#a0bd7971406392f15f68828ed217f4d06", null ]
 ];

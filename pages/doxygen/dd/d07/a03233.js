@@ -1,29 +1,5 @@
 var a03233 =
 [
-    [ "HashMapHolder< T >", "d6/ddd/a08874.html", "d6/ddd/a08874" ],
-    [ "AddObject", "dd/d07/a03233.html#a0726eba7e71a7c6d4f6f90b4dfb410f8", null ],
-    [ "AddObject", "dd/d07/a03233.html#a2f3be0f1bc71493623f991ad879c8be4", null ],
-    [ "FindConnectedPlayer", "dd/d07/a03233.html#a354f7e7aaf4b12d6ad8fe8ef6291eaa0", null ],
-    [ "FindPlayer", "dd/d07/a03233.html#a9ede56180a13f102ad195136eadb97ee", null ],
-    [ "FindPlayerByLowGUID", "dd/d07/a03233.html#a106c85352229fc2c097d9e021b4ce297", null ],
-    [ "FindPlayerByName", "dd/d07/a03233.html#af5cb6806842c9689cf1d5f43ffdc4b0a", null ],
-    [ "GetCorpse", "dd/d07/a03233.html#a9031db6958a68a6fda60e3c0f37d639f", null ],
-    [ "GetCreature", "dd/d07/a03233.html#ae42e503fe79bbeaea1aaa665418c43f8", null ],
-    [ "GetCreatureOrPetOrVehicle", "dd/d07/a03233.html#abe7c8995443541417f52b00973dbde6f", null ],
-    [ "GetDynamicObject", "dd/d07/a03233.html#a76097a1f20df3f0e83516b1175a17397", null ],
-    [ "GetGameObject", "dd/d07/a03233.html#a424a63829a446dac6f97a464cc64ed48", null ],
-    [ "GetObjectByTypeMask", "dd/d07/a03233.html#a0bfd3fb4a5f43a4159bbd0b176186e19", null ],
-    [ "GetPet", "dd/d07/a03233.html#a76e4ca902836751980d6157a3eed7967", null ],
-    [ "GetPlayer", "dd/d07/a03233.html#aeb3657e7ad09335b9a9ffa50473aa216", null ],
-    [ "GetPlayer", "dd/d07/a03233.html#a9179a3b50b384405892a8e8e538617b4", null ],
-    [ "GetPlayers", "dd/d07/a03233.html#a868ecab21b3e6e3ac68beed32f4ea793", null ],
-    [ "GetSpawnedCreatureByDBGUID", "dd/d07/a03233.html#a4cebdea9476a004a8a1bd57c40d1f3ae", null ],
-    [ "GetSpawnedGameObjectByDBGUID", "dd/d07/a03233.html#a6639665d2704cbd06727004567caac15", null ],
-    [ "GetTransport", "dd/d07/a03233.html#a2ddde0dc109d262af644c232a315afd7", null ],
-    [ "GetUnit", "dd/d07/a03233.html#a02c2dfb59db7d7e2501dcc9a4f9baf07", null ],
-    [ "GetWorldObject", "dd/d07/a03233.html#ade254f98439319c444ce701c75d4f93a", null ],
-    [ "RemoveObject", "dd/d07/a03233.html#a43f4538cfa587672688705f6f7a60edc", null ],
-    [ "RemoveObject", "dd/d07/a03233.html#ad72db398e2ff25a82a93e89fb67c56ff", null ],
-    [ "SaveAllPlayers", "dd/d07/a03233.html#a0fba0222d2e46026727c6e898a7f35bc", null ],
-    [ "UpdatePlayerNameMapReference", "dd/d07/a03233.html#a8a088e6967b9972662d788beffba14d4", null ]
+    [ "instance_commandscript", "df/d87/a11827.html", "df/d87/a11827" ],
+    [ "AddSC_instance_commandscript", "dd/d07/a03233.html#a3d7dc88b6e95322f2f3dc69ad367fa0c", null ]
 ];

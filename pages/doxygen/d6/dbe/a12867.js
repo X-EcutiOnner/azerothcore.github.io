@@ -1,7 +1,6 @@
 var a12867 =
 [
-    [ "npc_unworthy_initiate_anchorAI", "d6/dbe/a12867.html#a2d1a90c4f3c5047a41c7e9f80db13a99", null ],
-    [ "GetGUID", "d6/dbe/a12867.html#a83cca82e7d75231a6aa586f67dad766e", null ],
-    [ "SetGUID", "d6/dbe/a12867.html#a3d2ccbeeddc28002a4eb2392a62ba031", null ],
-    [ "prisonerGUID", "d6/dbe/a12867.html#a38a3e7e7207bb6d809d03c90e67f7742", null ]
+    [ "go_blood_drenched_doorAI", "d2/dee/a12871.html", "d2/dee/a12871" ],
+    [ "go_blood_drenched_door", "d6/dbe/a12867.html#a32451e046236bc66b605088cab35fefc", null ],
+    [ "GetAI", "d6/dbe/a12867.html#a983405ff279eabe0bc607fb85bd47eb9", null ]
 ];

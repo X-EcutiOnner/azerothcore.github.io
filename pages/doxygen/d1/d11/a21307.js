@@ -1,6 +1,10 @@
 var a21307 =
 [
-    [ "boss_xevozzAI", "dc/d0e/a21311.html", "dc/d0e/a21311" ],
-    [ "boss_xevozz", "d1/d11/a21307.html#a814ac939c4570d33450c4a6664833087", null ],
-    [ "GetAI", "d1/d11/a21307.html#a712d8ed125d464da56b677914fbf8796", null ]
+    [ "npc_dragonflayer_forge_master", "d1/d11/a21307.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
+    [ "JustDied", "d1/d11/a21307.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
+    [ "JustEngagedWith", "d1/d11/a21307.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
+    [ "Reset", "d1/d11/a21307.html#af2c844c926b94456df796b4252e899c2", null ],
+    [ "dataId", "d1/d11/a21307.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
+    [ "pInstance", "d1/d11/a21307.html#a27b5988d777347832795581b0186c09f", null ],
+    [ "prevDataId", "d1/d11/a21307.html#aa057cb5ae681b4b802031151ea1a3529", null ]
 ];

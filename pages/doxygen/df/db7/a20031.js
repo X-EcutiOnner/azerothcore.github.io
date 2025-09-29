@@ -1,6 +1,6 @@
 var a20031 =
 [
-    [ "boss_freya_summonsAI", "d3/d8d/a20035.html", "d3/d8d/a20035" ],
-    [ "boss_freya_summons", "df/db7/a20031.html#a3445ed89967cc9a610472f18e862ecd4", null ],
-    [ "GetAI", "df/db7/a20031.html#ac68f231c37c61d262d6c16bc87a0f1c7", null ]
+    [ "npc_auriaya_sanctum_sentryAI", "d3/d8d/a20035.html", "d3/d8d/a20035" ],
+    [ "npc_auriaya_sanctum_sentry", "df/db7/a20031.html#aa275374ba3a19a2e6a8768d4f01752b2", null ],
+    [ "GetAI", "df/db7/a20031.html#a6a8843d3f24378a2fd334e773618ab72", null ]
 ];

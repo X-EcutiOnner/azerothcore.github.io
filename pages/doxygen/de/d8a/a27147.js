@@ -1,5 +1,6 @@
 var a27147 =
 [
-    [ "go_ethereum_prison", "de/d8a/a27147.html#a1872dab11a8470194ab35f87e217aa8a", null ],
-    [ "OnGossipHello", "de/d8a/a27147.html#a73479b0512ea778336fad4bd5cd9b909", null ]
+    [ "HandleRemove", "de/d8a/a27147.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
+    [ "PrepareAuraScript", "de/d8a/a27147.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
+    [ "Register", "de/d8a/a27147.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
 ];

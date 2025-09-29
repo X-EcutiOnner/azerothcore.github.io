@@ -1,7 +1,14 @@
 var a14987 =
 [
-    [ "npc_hivezara_stinger", "dd/d55/a14987.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
-    [ "JustEngagedWith", "dd/d55/a14987.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
-    [ "Reset", "dd/d55/a14987.html#ae8e893c90942a469628c393d5b5380cc", null ],
-    [ "UpdateAI", "dd/d55/a14987.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
+    [ "boss_captain_skarloc", "dd/d55/a14987.html#a196477160ab6d07dc644ddadf756a1e0", null ],
+    [ "InitializeAI", "dd/d55/a14987.html#a1c67fb99984f666b63f8f79c6783341d", null ],
+    [ "JustDied", "dd/d55/a14987.html#aca0d536010a53efdf9270146f15f9058", null ],
+    [ "JustEngagedWith", "dd/d55/a14987.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
+    [ "JustSummoned", "dd/d55/a14987.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
+    [ "KilledUnit", "dd/d55/a14987.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
+    [ "MovementInform", "dd/d55/a14987.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
+    [ "Reset", "dd/d55/a14987.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
+    [ "UpdateAI", "dd/d55/a14987.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
+    [ "_spawnedAdds", "dd/d55/a14987.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
+    [ "summons", "dd/d55/a14987.html#a83a9e5971411de1c136cbad91f73f487", null ]
 ];

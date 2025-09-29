@@ -1,8 +1,11 @@
 var a12879 =
 [
-    [ "npc_scarlet_miner_cartAI", "dc/d02/a12879.html#a4256e3bc9f6678dc85a3b702e1c531f8", null ],
-    [ "DoAction", "dc/d02/a12879.html#a99ac60b1a60cc5f269aa7f02f3fd5083", null ],
-    [ "PassengerBoarded", "dc/d02/a12879.html#a3539847efa7014a8e31a78ace83b6bc5", null ],
-    [ "SetGUID", "dc/d02/a12879.html#a5679fef6f40d0e48547e7bd57a93a176", null ],
-    [ "minerGUID", "dc/d02/a12879.html#a084e80b43b5b30b5e1794feff305e9b3", null ]
+    [ "npc_demon_chain", "dc/d02/a12879.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
+    [ "AttackStart", "dc/d02/a12879.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
+    [ "IsSummonedBy", "dc/d02/a12879.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
+    [ "JustDied", "dc/d02/a12879.html#a35d1b7de8612f11cdf61b9d663990686", null ],
+    [ "JustEngagedWith", "dc/d02/a12879.html#a9743ebc31c5159a03889bfd40b09d749", null ],
+    [ "MoveInLineOfSight", "dc/d02/a12879.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
+    [ "Reset", "dc/d02/a12879.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
+    [ "sacrificeGUID", "dc/d02/a12879.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
 ];

@@ -1,5 +1,6 @@
 var a12083 =
 [
-    [ "at_the_beast_room", "d8/d75/a12083.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
-    [ "OnTrigger", "d8/d75/a12083.html#a366c5e35c4030f998404886f1526ae37", null ]
+    [ "boss_gorosh_the_dervishAI", "df/d22/a12087.html", "df/d22/a12087" ],
+    [ "boss_gorosh_the_dervish", "d8/d75/a12083.html#a18c39f21ebf6a9d43d37eb92857083a3", null ],
+    [ "GetAI", "d8/d75/a12083.html#abae1fa2a7e959d1b7b02e0850aff4fb9", null ]
 ];

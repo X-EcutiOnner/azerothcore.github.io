@@ -1,7 +1,9 @@
 var a26811 =
 [
-    [ "HandleProc", "d1/d90/a26811.html#a2a1d6c4a6fdcfbb0ab34769649dbe321", null ],
-    [ "PrepareAuraScript", "d1/d90/a26811.html#afa1f4cba7a02cb4a92a67c6e41d3349c", null ],
-    [ "Register", "d1/d90/a26811.html#ae3711d9dff0acd196b1fae8e2285fb2a", null ],
-    [ "Validate", "d1/d90/a26811.html#a77b31ab1d2952c5d77e8a1ca9cf18405", null ]
+    [ "HandleAfterHit", "d1/d90/a26811.html#a05341e7a67f50c6ced4bf4bd3892f39a", null ],
+    [ "HandleBeforeHit", "d1/d90/a26811.html#a7ca0fe15f6679c73aa77818ef3d94eed", null ],
+    [ "Load", "d1/d90/a26811.html#a6b2a1f378c0f5a2762ce1d34740d310e", null ],
+    [ "PrepareSpellScript", "d1/d90/a26811.html#a496c27472579be3b8989868765ec19ef", null ],
+    [ "Register", "d1/d90/a26811.html#a133e338413e960c442446a2a4a13b85b", null ],
+    [ "_stackAmount", "d1/d90/a26811.html#a3aa304a5386f6c0ee4aa428bf4ed12bb", null ]
 ];

@@ -1,5 +1,5 @@
 var a27639 =
 [
-    [ "npc_sunwell_gate", "d0/d2f/a27639.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
-    [ "OnQuestReward", "d0/d2f/a27639.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
+    [ "item_incendiary_explosives", "d0/d2f/a27639.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
+    [ "OnUse", "d0/d2f/a27639.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
 ];

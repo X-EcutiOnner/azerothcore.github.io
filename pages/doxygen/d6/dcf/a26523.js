@@ -1,11 +1,7 @@
 var a26523 =
 [
-    [ "AddTarget", "d6/dcf/a26523.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
-    [ "HandleApply", "d6/dcf/a26523.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
-    [ "HandleEffectPeriodic", "d6/dcf/a26523.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
-    [ "HandleRemove", "d6/dcf/a26523.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
-    [ "PrepareAuraScript", "d6/dcf/a26523.html#abd535f756fae06c9fae613d69ef4e353", null ],
-    [ "Register", "d6/dcf/a26523.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
-    [ "Validate", "d6/dcf/a26523.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
-    [ "_targets", "d6/dcf/a26523.html#ad2467bc150cb08766c57cca23d4d9843", null ]
+    [ "HandleEffectRemove", "d6/dcf/a26523.html#a814687d3938e966f8721438e1a722f77", null ],
+    [ "PrepareAuraScript", "d6/dcf/a26523.html#a2144b0602501471a4001883ce9de6db3", null ],
+    [ "Register", "d6/dcf/a26523.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
+    [ "AuraEffectHandleModes", "d6/dcf/a26523.html#ab291f6c6f269ec7004df39a043f49efd", null ]
 ];

@@ -1,6 +1,6 @@
 var a21979 =
 [
-    [ "npc_black_knight_graveyardAI", "dd/d56/a21983.html", "dd/d56/a21983" ],
-    [ "npc_black_knight_graveyard", "df/d79/a21979.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
-    [ "GetAI", "df/d79/a21979.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
+    [ "npc_injured_7th_legion_soldierAI", "df/d79/a21979.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
+    [ "MovementInform", "df/d79/a21979.html#a999bc868db485578fcc70ae7e056b778", null ],
+    [ "Reset", "df/d79/a21979.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
 ];

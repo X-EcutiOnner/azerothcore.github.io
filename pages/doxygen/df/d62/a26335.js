@@ -1,7 +1,9 @@
 var a26335 =
 [
-    [ "HandleDummy", "df/d62/a26335.html#aa9b579a8a7a23b94d9a2c8c7f932ff78", null ],
-    [ "PrepareSpellScript", "df/d62/a26335.html#ae1dfa086c89a4180d42d231064d88602", null ],
-    [ "Register", "df/d62/a26335.html#a256c152beadbfce6bf245779295b8758", null ],
-    [ "Validate", "df/d62/a26335.html#acb4144be3326bcaae9c559d8e7b9d7ec", null ]
+    [ "Load", "df/d62/a26335.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
+    [ "PrepareSpellScript", "df/d62/a26335.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
+    [ "Register", "df/d62/a26335.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
+    [ "TriggerHeal", "df/d62/a26335.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
+    [ "Validate", "df/d62/a26335.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
+    [ "healPct", "df/d62/a26335.html#a33b4d26c34903e45b7274e369f096ce1", null ]
 ];

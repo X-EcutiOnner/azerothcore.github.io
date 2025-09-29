@@ -1,27 +1,6 @@
 var a14687 =
 [
-    [ "npc_arthasAI", "db/da4/a14687.html#abaddb70881894577e50a01294ab1c8de", null ],
-    [ "DoAction", "db/da4/a14687.html#ac54fa660cf90d16e8088d15d2faf59c9", null ],
-    [ "GetEventNpc", "db/da4/a14687.html#aae8b1d8c4e51aadfb46e8ed664ce3c74", null ],
-    [ "JustDied", "db/da4/a14687.html#a22ff78f354f7bfcc4bda3eba934a1953", null ],
-    [ "JustEngagedWith", "db/da4/a14687.html#aace0b9c977da69b311eecf6de0cf42bb", null ],
-    [ "JustSummoned", "db/da4/a14687.html#a2e582bfb89c21ec6bc1451b70d0664ea", null ],
-    [ "ReorderInstance", "db/da4/a14687.html#aca7309b36c531ffdbdee842a69d11e84", null ],
-    [ "Reset", "db/da4/a14687.html#a4d839cda5bd7a6e20b2ee3052624f23a", null ],
-    [ "ScheduleNextEvent", "db/da4/a14687.html#a17eb5452fed26a8c4f64dd41b018fe74", null ],
-    [ "SendNextWave", "db/da4/a14687.html#ace215df8a11c009aa5b4f29ffa6ec5e3", null ],
-    [ "SpawnTimeRift", "db/da4/a14687.html#aa4908055e48e76ee1189c7bc7046b01d", null ],
-    [ "SummonedCreatureDespawn", "db/da4/a14687.html#a29e7be7b161f8add8e7f502dc29efcb2", null ],
-    [ "SummonedCreatureDies", "db/da4/a14687.html#a28044cc9374c63dd7cd853918eeab5bd", null ],
-    [ "SummonNextWave", "db/da4/a14687.html#abf90e835139da0fdfca443a690e49a0b", null ],
-    [ "UpdateAI", "db/da4/a14687.html#ac17e7dd501117025ea07c3d834e4e598", null ],
-    [ "WaypointReached", "db/da4/a14687.html#a32c42420cad46b39db528611893ffc12", null ],
-    [ "actionEvents", "db/da4/a14687.html#a581e9b0704ebb1d154e81b772dcf5dea", null ],
-    [ "combatEvents", "db/da4/a14687.html#a4ca63fe136d8acacedb1a3770c36beab", null ],
-    [ "eventInRun", "db/da4/a14687.html#abd0371c89f2d0986c73ac26080b61a4e", null ],
-    [ "pInstance", "db/da4/a14687.html#a57aa8b51d0c55b196dbbcc6aa4e300c3", null ],
-    [ "summons", "db/da4/a14687.html#a820fda0dce1083821b7a121e8ffc148a", null ],
-    [ "timeRiftId", "db/da4/a14687.html#aa1896b017eecc8a87715ac0cd2383266", null ],
-    [ "waveGroupId", "db/da4/a14687.html#a552bf13e89cb6f5fe9a79c596a3d7b99", null ],
-    [ "waveKillCount", "db/da4/a14687.html#a37d5ead96159ee03d31a2ac3bcf955de", null ]
+    [ "HandleAfterEffectRemove", "db/da4/a14687.html#acf650fe6fe65164c12fbb06b45e092c9", null ],
+    [ "PrepareAuraScript", "db/da4/a14687.html#a3b54e232c0502eaa03b314a05dce1835", null ],
+    [ "Register", "db/da4/a14687.html#a9bacd9538b1ab1cf9aa74e7675ff5b6b", null ]
 ];

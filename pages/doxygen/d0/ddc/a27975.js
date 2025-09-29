@@ -1,7 +1,7 @@
 var a27975 =
 [
-    [ "Class", "d0/ddc/a27975.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
-    [ "Gender", "d0/ddc/a27975.html#aba6251a7020c6e66b9fc7a21859df271", null ],
-    [ "ItemId", "d0/ddc/a27975.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
-    [ "Race", "d0/ddc/a27975.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
+    [ "HandleDummy", "d0/ddc/a27975.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "d0/ddc/a27975.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "d0/ddc/a27975.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "d0/ddc/a27975.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

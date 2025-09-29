@@ -1,6 +1,6 @@
 var a18131 =
 [
-    [ "LichKingMovieEvent", "d6/d5c/a18131.html#a3e48e13dc5166c73a9f379045988f86a", null ],
-    [ "Execute", "d6/d5c/a18131.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
-    [ "_owner", "d6/d5c/a18131.html#a7ed68f442a644d6bb7a036812351d89e", null ]
+    [ "OnRemove", "d6/d5c/a18131.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
+    [ "PrepareAuraScript", "d6/d5c/a18131.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
+    [ "Register", "d6/d5c/a18131.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
 ];

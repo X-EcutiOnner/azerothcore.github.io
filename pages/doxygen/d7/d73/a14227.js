@@ -1,11 +1,9 @@
 var a14227 =
 [
-    [ "npc_the_etymidian", "d7/d73/a14227.html#af491016ac89b67947650a5ca9c379875", null ],
-    [ "MoveInLineOfSight", "d7/d73/a14227.html#adde2d86e30442eb1b47219e934e24407", null ],
-    [ "Reset", "d7/d73/a14227.html#a714edf3ba5f7a6d59242c991764effc5", null ],
-    [ "UpdateAI", "d7/d73/a14227.html#a1f3cfddae43e443c5cd4a8a0f9f87a89", null ],
-    [ "orphanGUID", "d7/d73/a14227.html#a9ba2c34b08d0fe61e18037b02f352d08", null ],
-    [ "phase", "d7/d73/a14227.html#a7086e9a8a8a7287cf90688270e9933a7", null ],
-    [ "playerGUID", "d7/d73/a14227.html#a7371e361c018360315e20086b0b99079", null ],
-    [ "timer", "d7/d73/a14227.html#a8508a2c89eeeee2d235e1178ca77e895", null ]
+    [ "npc_shade_of_jindo", "d7/d73/a14227.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
+    [ "IsSummonedBy", "d7/d73/a14227.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
+    [ "JustEngagedWith", "d7/d73/a14227.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
+    [ "Reset", "d7/d73/a14227.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
+    [ "UpdateAI", "d7/d73/a14227.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
+    [ "_scheduler", "d7/d73/a14227.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
 ];

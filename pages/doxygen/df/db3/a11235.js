@@ -1,6 +1,7 @@
 var a11235 =
 [
-    [ "BeforeHitHandler", "df/db3/a11235.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
-    [ "Call", "df/db3/a11235.html#a393057cca72c41e193508bf150ed0b1f", null ],
-    [ "_pBeforeHitHandlerScript", "df/db3/a11235.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
+    [ "DynObjAura", "df/db3/a11235.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
+    [ "FillTargetMap", "df/db3/a11235.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
+    [ "Remove", "df/db3/a11235.html#ada3f65b4a817e2337da43da437b93a3b", null ],
+    [ "Aura::Create", "df/db3/a11235.html#ae2c0fdfb409846fec5e861de60797112", null ]
 ];

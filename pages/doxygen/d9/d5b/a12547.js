@@ -1,7 +1,7 @@
 var a12547 =
 [
-    [ "boss_maiden_of_virtue", "d9/d5b/a12547.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
-    [ "JustDied", "d9/d5b/a12547.html#a6eded246318f6b47b46f45168e4a8069", null ],
-    [ "JustEngagedWith", "d9/d5b/a12547.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
-    [ "KilledUnit", "d9/d5b/a12547.html#a32dd66a297d11f5ffac1841bae15727a", null ]
+    [ "HandlePeriodic", "d9/d5b/a12547.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
+    [ "PrepareAuraScript", "d9/d5b/a12547.html#aae9d31049889eea5c5f09dd5437de950", null ],
+    [ "Register", "d9/d5b/a12547.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
+    [ "Validate", "d9/d5b/a12547.html#a462b882e41932f99e3501f32368cf4de", null ]
 ];

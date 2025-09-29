@@ -1,13 +1,11 @@
 var a28483 =
 [
-    [ "liquid_data", "d4/d1a/a28491.html", "d4/d1a/a28491" ],
-    [ "prepareLoadedData", "dc/dc8/a28483.html#a999cde9ad5c0e4ee49e620c2ff52cb06", null ],
-    [ "data", "dc/dc8/a28483.html#aa3f6e6de7453b4a1acc7dfe4c83eac69", null ],
-    [ "fcc", "dc/dc8/a28483.html#ab0181729f82eb0f02da5cb95ec48cda1", null ],
-    [ "fcc_txt", "dc/dc8/a28483.html#a9a2576f7b8923089b3b6020d4f8d97fc", null ],
-    [ "flags", "dc/dc8/a28483.html#ac21d785a3a457baa84cbfd33ebb69bd4", null ],
-    [ "height1", "dc/dc8/a28483.html#a7b4a59ac372261c74236b2b4cfc3626a", null ],
-    [ "height2", "dc/dc8/a28483.html#ab03dc912a304c0585d2725596adb4b49", null ],
-    [ "liquid", "dc/dc8/a28483.html#aae29940e6fdf046f9a29cf519ef61936", null ],
-    [ "size", "dc/dc8/a28483.html#a11581f9fb52a4ca433765e6312168288", null ]
+    [ "ClassID", "dc/dc8/a28483.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
+    [ "DisplayInfoID", "dc/dc8/a28483.html#a87657df2ad024245ccb2192303f76b7a", null ],
+    [ "ID", "dc/dc8/a28483.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
+    [ "InventoryType", "dc/dc8/a28483.html#a6dc33fc40a299b010c18a7009aff648b", null ],
+    [ "Material", "dc/dc8/a28483.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
+    [ "SheatheType", "dc/dc8/a28483.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
+    [ "SoundOverrideSubclassID", "dc/dc8/a28483.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
+    [ "SubclassID", "dc/dc8/a28483.html#ac39254716573e335caf312f635353a2e", null ]
 ];

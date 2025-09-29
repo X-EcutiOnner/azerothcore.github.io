@@ -1,6 +1,6 @@
 var a13635 =
 [
-    [ "npc_parqual_fintallas", "d5/dbb/a13635.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
-    [ "OnGossipHello", "d5/dbb/a13635.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
-    [ "OnGossipSelect", "d5/dbb/a13635.html#a39276ef82ec5214a1727ebd60235a506", null ]
+    [ "ChangeSummonPos", "d5/dbb/a13635.html#ae24a7c8279a92f1018748a0e930736ac", null ],
+    [ "PrepareSpellScript", "d5/dbb/a13635.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
+    [ "Register", "d5/dbb/a13635.html#a03a1a1e5501452eacaceadd9725f2287", null ]
 ];

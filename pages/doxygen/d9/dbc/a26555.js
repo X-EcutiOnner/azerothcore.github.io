@@ -1,6 +1,6 @@
 var a26555 =
 [
-    [ "HandleRemove", "d9/dbc/a26555.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
-    [ "PrepareAuraScript", "d9/dbc/a26555.html#a132193c0c13a2f89b9b29391d524023a", null ],
-    [ "Register", "d9/dbc/a26555.html#a246294a7b9a128a9ec464562846332fc", null ]
+    [ "HandleDummy", "d9/dbc/a26555.html#a42f48b9d7d657da75c8a4f5b6468011e", null ],
+    [ "PrepareSpellScript", "d9/dbc/a26555.html#a5efc666af2cb73c376706c20e41ace68", null ],
+    [ "Register", "d9/dbc/a26555.html#a46e61697212a43532e148ccb12a7d8e5", null ]
 ];

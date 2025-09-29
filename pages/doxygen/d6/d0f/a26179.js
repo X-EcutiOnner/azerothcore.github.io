@@ -1,7 +1,7 @@
 var a26179 =
 [
-    [ "HandleHeal", "d6/d0f/a26179.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
-    [ "PrepareSpellScript", "d6/d0f/a26179.html#a9de9260bc1e2582138c58a708e5d899c", null ],
-    [ "Register", "d6/d0f/a26179.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
-    [ "Validate", "d6/d0f/a26179.html#aa300822cf5455404482124a6853fb314", null ]
+    [ "CheckCast", "d6/d0f/a26179.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
+    [ "HandleEffect", "d6/d0f/a26179.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
+    [ "PrepareSpellScript", "d6/d0f/a26179.html#aa63cb903e7c6037a6c08381334ccc126", null ],
+    [ "Register", "d6/d0f/a26179.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
 ];

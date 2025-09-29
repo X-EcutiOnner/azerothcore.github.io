@@ -1,7 +1,5 @@
 var a22707 =
 [
-    [ "HandleDummy", "d2/db6/a22707.html#af5ac581f7d471300fba2c23548037eea", null ],
-    [ "PrepareSpellScript", "d2/db6/a22707.html#adda61c05b544b52d98af5b7a76d4f808", null ],
-    [ "Register", "d2/db6/a22707.html#a270a64dffdce230d97515f116ec49706", null ],
-    [ "Validate", "d2/db6/a22707.html#a7cf3637ea33ad30913723b4fd33e5546", null ]
+    [ "OutdoorPvP_eastern_plaguelands", "d2/db6/a22707.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
+    [ "GetOutdoorPvP", "d2/db6/a22707.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
 ];

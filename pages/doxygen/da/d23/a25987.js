@@ -1,8 +1,7 @@
 var a25987 =
 [
-    [ "HandleDummy", "da/d23/a25987.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
-    [ "PrepareSpellScript", "da/d23/a25987.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
-    [ "Register", "da/d23/a25987.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
-    [ "Validate", "da/d23/a25987.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
-    [ "PolymorhForms", "da/d23/a25987.html#a1443d2532a060514e697a8d5e0c21b20", null ]
+    [ "HandleDummy", "da/d23/a25987.html#a02bb860f6d077d4c295ad8b82179174d", null ],
+    [ "PrepareSpellScript", "da/d23/a25987.html#ad9eeff5aa428dabff7f2181d2819681d", null ],
+    [ "Register", "da/d23/a25987.html#a2c699d4d848a01a80143d6fcc01b64a8", null ],
+    [ "Validate", "da/d23/a25987.html#a9fd765b2c48f11837dbeb4caeedc0ae1", null ]
 ];

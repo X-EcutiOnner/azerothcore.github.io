@@ -1,7 +1,11 @@
 var a13367 =
 [
-    [ "HandlePull", "d5/d29/a13367.html#a5a43bb53d3c534054498f8366d617e5a", null ],
-    [ "PrepareSpellScript", "d5/d29/a13367.html#aec00f82a35c8154e7d4c1f47c52d486f", null ],
-    [ "RaycastToObstacle", "d5/d29/a13367.html#ad6dfdf70e9ffd43510c4791f804ce340", null ],
-    [ "Register", "d5/d29/a13367.html#a6da76afd5feaa0d60be70ff8469d78bc", null ]
+    [ "boss_baroness_anastariAI", "d5/d29/a13367.html#acf180bbe881ba1f6e49c075254759c00", null ],
+    [ "JustDied", "d5/d29/a13367.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
+    [ "JustEngagedWith", "d5/d29/a13367.html#a7329455d99045e7002abffe09112a4ea", null ],
+    [ "Reset", "d5/d29/a13367.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
+    [ "SchedulePossession", "d5/d29/a13367.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
+    [ "UpdateAI", "d5/d29/a13367.html#a962e4e3091d126682825c326af5f6922", null ],
+    [ "_possessedTargetGuid", "d5/d29/a13367.html#a36e386b847c7032b5ce95a01070518ad", null ],
+    [ "_scheduler", "d5/d29/a13367.html#aa59518627a5e64e371dbbb45cfced75f", null ]
 ];

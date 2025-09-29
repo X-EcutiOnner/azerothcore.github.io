@@ -1,5 +1,5 @@
 var a20723 =
 [
-    [ "achievement_xt002_nerf_engineering", "d2/d98/a20723.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
-    [ "OnCheck", "d2/d98/a20723.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_11", "d2/d98/a20723.html#a5d8980111e029b4c9311737f3985ab61", null ],
+    [ "OnCheck", "d2/d98/a20723.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
 ];

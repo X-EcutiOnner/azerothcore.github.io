@@ -1,7 +1,9 @@
 var a13655 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d5/d78/a13655.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
-    [ "Reset", "d5/d78/a13655.html#a18de805428ce0954a5fbfffbf5975342", null ],
-    [ "UpdateAI", "d5/d78/a13655.html#a48b191d0812bfe3212511a52ef0df817", null ],
-    [ "_events", "d5/d78/a13655.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
+    [ "spell_sunwell_teleport", "d5/d78/a13655.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
+    [ "HandleScript", "d5/d78/a13655.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
+    [ "PrepareSpellScript", "d5/d78/a13655.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
+    [ "Register", "d5/d78/a13655.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
+    [ "Validate", "d5/d78/a13655.html#a351a2beced058f9354515baa38b0292e", null ],
+    [ "_triggeredSpellId", "d5/d78/a13655.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
 ];

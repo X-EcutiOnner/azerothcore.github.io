@@ -1,6 +1,6 @@
 var a17015 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d8/d34/a17019.html", "d8/d34/a17019" ],
-    [ "npc_pos_collapsing_icicle", "da/d9d/a17015.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
-    [ "GetAI", "da/d9d/a17015.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
+    [ "entry", "da/d9d/a17015.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "da/d9d/a17015.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "da/d9d/a17015.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

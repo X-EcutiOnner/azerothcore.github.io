@@ -1,7 +1,5 @@
 var a14607 =
 [
-    [ "hyjalTyrandeAI", "df/dcf/a14611.html", "df/dcf/a14611" ],
-    [ "npc_hyjal_tyrande", "dc/d7b/a14607.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
-    [ "GetAI", "dc/d7b/a14607.html#a2f863e616352a98763eef9a717d73388", null ],
-    [ "OnGossipSelect", "dc/d7b/a14607.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
+    [ "go_pumpkin_shrine", "dc/d7b/a14607.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
+    [ "OnGossipSelect", "dc/d7b/a14607.html#a35763a67d39c1d68974a9602ce26b699", null ]
 ];

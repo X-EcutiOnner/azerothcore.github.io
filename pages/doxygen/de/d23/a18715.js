@@ -1,6 +1,8 @@
 var a18715 =
 [
-    [ "npc_icc_skybreaker_marksmanAI", "d6/db3/a18719.html", "d6/db3/a18719" ],
-    [ "npc_icc_skybreaker_marksman", "de/d23/a18715.html#a1d870b78e1acf2d17782265e28698d1c", null ],
-    [ "GetAI", "de/d23/a18715.html#a374017d37da15705d51ab8edc75683ff", null ]
+    [ "npc_suppresserAI", "de/d23/a18715.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
+    [ "AttackStart", "de/d23/a18715.html#ae36105de1df1dd9841332d9a8e7799be", null ],
+    [ "IsSummonedBy", "de/d23/a18715.html#a35ec340b2d02a14707fc353428b1298d", null ],
+    [ "UpdateAI", "de/d23/a18715.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
+    [ "_instance", "de/d23/a18715.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
 ];

@@ -1,5 +1,7 @@
 var a19155 =
 [
-    [ "at_naxxramas_hub_portal", "d1/dff/a19155.html#a946086e8a4651240b84526a1b2d54065", null ],
-    [ "OnTrigger", "d1/dff/a19155.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
+    [ "HandleScript", "d1/dff/a19155.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
+    [ "Launch", "d1/dff/a19155.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
+    [ "PrepareSpellScript", "d1/dff/a19155.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
+    [ "Register", "d1/dff/a19155.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
 ];

@@ -1,12 +1,11 @@
 var a00113 =
 [
-    [ "CSymbolInfoPackage", "d6/d3b/a05202.html", "d6/d3b/a05202" ],
-    [ "_NO_CVCONST_H", "d3/d00/a00113.html#af8660cbefcf140a8992e862e401bc473", null ],
-    [ "CrashFolder", "d3/d00/a00113.html#a55b3d8676a4478f058eeb12d4e8b35b2", null ],
-    [ "EXCEPTION", "d3/d00/a00113.html#a04a8ef8e5d1a39a04fed031f53ffa2db", null ],
-    [ "WIN32_LEAN_AND_MEAN", "d3/d00/a00113.html#ac7bef5d85e3dcd73eef56ad39ffc84a9", null ],
-    [ "ErrorMessage", "d3/d00/a00113.html#a75b4eb6a99991d301f7d44683ce13c9e", null ],
-    [ "ToTchar", "d3/d00/a00113.html#a9f2ce59205c508258855d0568854e367", null ],
-    [ "ToTchar", "d3/d00/a00113.html#a74d70382aec7501d6df3dcb969b85902", null ],
-    [ "g_WheatyExceptionReport", "d3/d00/a00113.html#a9fff8ce906026fe3179e50e97182d90d", null ]
+    [ "AuraEffect", "dc/d90/a11215.html", "dc/d90/a11215" ],
+    [ "Acore::AbsorbAuraOrderPred", "db/dbf/a11219.html", "db/dbf/a11219" ],
+    [ "pAuraEffectHandler", "d3/d00/a00113.html#a9e98d9a1c1cc41922f386b184fd7ce67", null ],
+    [ "BrewfestEntries", "d3/d00/a00113.html#a4ee83f582e4ebba3a5aea9ab1a5c9354", [
+      [ "BREWFEST_KODO", "d3/d00/a00113.html#a4ee83f582e4ebba3a5aea9ab1a5c9354acbc7617ce19ea8d214518ab0335275c5", null ],
+      [ "GREAT_BREWFEST_KODO", "d3/d00/a00113.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a9e68ffb636426417370cc6b94b7b46aa", null ],
+      [ "FRESH_BREWFEST_HOPS", "d3/d00/a00113.html#a4ee83f582e4ebba3a5aea9ab1a5c9354a62ef26e3a60fddc8cbadbd349cb054bf", null ]
+    ] ]
 ];

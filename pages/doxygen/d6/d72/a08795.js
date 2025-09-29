@@ -1,7 +1,8 @@
 var a08795 =
 [
-    [ "EquipementIdPrev", "d6/d72/a08795.html#a719c716f8914a200bfde4f5bb3275f26", null ],
-    [ "EquipmentId", "d6/d72/a08795.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
-    [ "ModelId", "d6/d72/a08795.html#ade2b2413020be410428b9fee9aa284d6", null ],
-    [ "ModelIdPrev", "d6/d72/a08795.html#a9de7aa11788b22692738b72718193057", null ]
+    [ "PowerPctOrderPred", "d6/d72/a08795.html#a4e765952cfbc1c83413a8f1c148b1fe4", null ],
+    [ "operator()", "d6/d72/a08795.html#a215b641a9364c7fcb82778c98f214271", null ],
+    [ "operator()", "d6/d72/a08795.html#a42cec64c5eaf01f8b6b7e334f57b1d4a", null ],
+    [ "_ascending", "d6/d72/a08795.html#aed7be288f876fdd35c1cdba53626b03c", null ],
+    [ "_power", "d6/d72/a08795.html#ad3d61a7c5c84d91bc26c99e778105b7c", null ]
 ];

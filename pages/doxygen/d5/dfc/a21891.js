@@ -1,6 +1,8 @@
 var a21891 =
 [
-    [ "npc_venture_co_stragglerAI", "de/d25/a21895.html", "de/d25/a21895" ],
-    [ "npc_venture_co_straggler", "d5/dfc/a21891.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
-    [ "GetAI", "d5/dfc/a21891.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
+    [ "npc_shandy_dalaranAI", "de/d25/a21895.html", "de/d25/a21895" ],
+    [ "npc_shandy_dalaran", "d5/dfc/a21891.html#a7077c769a252af8ba37b5ff5d524463e", null ],
+    [ "GetAI", "d5/dfc/a21891.html#a641551a2aef739e1679912ae27ddb888", null ],
+    [ "OnGossipHello", "d5/dfc/a21891.html#a91287aaba09fce091c9d826e75208f84", null ],
+    [ "OnGossipSelect", "d5/dfc/a21891.html#ad005a17da187e0cfd03d2faf0099c448", null ]
 ];

@@ -1,6 +1,6 @@
 var a25827 =
 [
-    [ "PrepareSpellScript", "dd/dcd/a25827.html#a738e105a48f6c603f3d9a690f44b8745", null ],
-    [ "Register", "dd/dcd/a25827.html#a6bc9791d0f08440e19b89daa9b65892c", null ],
-    [ "SetDest", "dd/dcd/a25827.html#a59641895cead08de4a4503262505ee73", null ]
+    [ "HandleProc", "dd/dcd/a25827.html#a9a38fab6b581e9f9b4e092d7a4ecaebd", null ],
+    [ "PrepareAuraScript", "dd/dcd/a25827.html#a5299aaeacead013e00e81ec7960528f8", null ],
+    [ "Register", "dd/dcd/a25827.html#a3b46c5dd891d856e08cbcb9a494f2dd2", null ]
 ];

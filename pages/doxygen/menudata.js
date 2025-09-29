@@ -99,8 +99,7 @@ var menudata={children:[
 {text:"p",url:"namespacemembers_type.html#index_p"},
 {text:"s",url:"namespacemembers_type.html#index_s"},
 {text:"t",url:"namespacemembers_type.html#index_t"},
-{text:"u",url:"namespacemembers_type.html#index_u"},
-{text:"w",url:"namespacemembers_type.html#index_w"}]},
+{text:"u",url:"namespacemembers_type.html#index_u"}]},
 {text:"Enumerations",url:"namespacemembers_enum.html",children:[
 {text:"a",url:"namespacemembers_enum.html#index_a"},
 {text:"c",url:"namespacemembers_enum.html#index_c"},

@@ -1,6 +1,11 @@
 var a16563 =
 [
-    [ "HandleEffectPeriodic", "d0/def/a16563.html#a8775f4e2cb6be96f57596413d560206c", null ],
-    [ "PrepareAuraScript", "d0/def/a16563.html#a45118f9887d248a5eb840b945dee5b79", null ],
-    [ "Register", "d0/def/a16563.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
+    [ "npc_anubarak_spikeAI", "d0/def/a16563.html#a1982ce33ce76e15d33bfcc222f5ad734", null ],
+    [ "DamageTaken", "d0/def/a16563.html#a3b548e629d2c6217f21644136ca7ba4b", null ],
+    [ "DoAction", "d0/def/a16563.html#ab583d97745ea69e95a1ecc0b68ac9878", null ],
+    [ "Reset", "d0/def/a16563.html#af5b4a1227467d86d9dbba57362fdf360", null ],
+    [ "SelectNewTarget", "d0/def/a16563.html#ab9ed5d53703464c488267f578a214fb8", null ],
+    [ "UpdateAI", "d0/def/a16563.html#af8d6d840785c718d963c7b150cd12d9c", null ],
+    [ "events", "d0/def/a16563.html#a52ff0006b5194edcb55f49e970a15ab8", null ],
+    [ "TargetGUID", "d0/def/a16563.html#a2f7cbaf81e159035476ee9576a0e3990", null ]
 ];

@@ -1,7 +1,8 @@
 var a25207 =
 [
-    [ "PrepareAuraScript", "df/d05/a25207.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
-    [ "Register", "df/d05/a25207.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
-    [ "TriggerFoodBuff", "df/d05/a25207.html#a5d125413491dd377d61b8e30c4979fdd", null ],
-    [ "Validate", "df/d05/a25207.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
+    [ "CheckIfCorpseNear", "df/d05/a25207.html#afdf1bca2e23057d99962fb1000e9245e", null ],
+    [ "HandleDummy", "df/d05/a25207.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
+    [ "PrepareSpellScript", "df/d05/a25207.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
+    [ "Register", "df/d05/a25207.html#a22f4c5321769384b2b708f19edea1a66", null ],
+    [ "Validate", "df/d05/a25207.html#a855fdba79c4fa087253505ed419b9966", null ]
 ];

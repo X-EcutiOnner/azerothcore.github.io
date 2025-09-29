@@ -1,7 +1,7 @@
 var a28583 =
 [
-    [ "fcc", "d6/d18/a28583.html#afbaa5fdd612d1c93f7f07aa299d144ad", null ],
-    [ "fcc_txt", "d6/d18/a28583.html#a89ed22b0a63dae9f1443309e54e9e421", null ],
-    [ "size", "d6/d18/a28583.html#a0b9002c302e4dfef6dc533bf8c5bcdcc", null ],
-    [ "ver", "d6/d18/a28583.html#adb92d3e9f7e35255a2e6e147d51ba8fc", null ]
+    [ "Id", "d6/d18/a28583.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
+    [ "MaxLevel", "d6/d18/a28583.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
+    [ "Modifier", "d6/d18/a28583.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
+    [ "StatMod", "d6/d18/a28583.html#ab639dd94c53707ca160e13f71342730d", null ]
 ];

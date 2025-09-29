@@ -1,8 +1,7 @@
 var a22315 =
 [
-    [ "go_wg_vehicle_teleporterAI", "d2/d51/a22315.html#af84e73765b1a4d810b41613824999186", null ],
-    [ "IsFriendly", "d2/d51/a22315.html#adca817c8919958db888d5e9c759ad545", null ],
-    [ "IsValidVehicle", "d2/d51/a22315.html#a3f790a651d5f0c67c5d528828a6bb398", null ],
-    [ "UpdateAI", "d2/d51/a22315.html#a8d8197cbfa6ab36d269f18020acbc565", null ],
-    [ "_checkTimer", "d2/d51/a22315.html#a9cbb42b4f29f94e41e80caccd87d95f4", null ]
+    [ "HandleDummy", "d2/d51/a22315.html#abfb58e49821e6a563940e8ba518db850", null ],
+    [ "PrepareSpellScript", "d2/d51/a22315.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
+    [ "Register", "d2/d51/a22315.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
+    [ "Validate", "d2/d51/a22315.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
 ];

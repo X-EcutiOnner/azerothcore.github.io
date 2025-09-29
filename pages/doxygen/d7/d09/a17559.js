@@ -1,6 +1,6 @@
 var a17559 =
 [
-    [ "npc_gunship_rocketeerAI", "d4/d44/a17563.html", "d4/d44/a17563" ],
-    [ "npc_gunship_rocketeer", "d7/d09/a17559.html#a7ed2cf258269f239bb73f2f06411db07", null ],
-    [ "GetAI", "d7/d09/a17559.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
+    [ "PrepareSpellScript", "d7/d09/a17559.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
+    [ "Register", "d7/d09/a17559.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
+    [ "SetDest", "d7/d09/a17559.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
 ];

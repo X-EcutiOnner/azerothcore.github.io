@@ -1,5 +1,5 @@
 var a03278 =
 [
-    [ "DispelList", "d9/d7f/a03278.html#a711d5a2b2f8cbeb49153d9e33ea51bf1", null ],
-    [ "SpellEffects", "d9/d7f/a03278.html#a294b5954f08aebdafe9e5a6f00e2dc82", null ]
+    [ "reload_commandscript", "d7/dff/a11907.html", "d7/dff/a11907" ],
+    [ "AddSC_reload_commandscript", "d9/d7f/a03278.html#ab72bc0a4ad4d6f90fa1e05f5591ed68f", null ]
 ];

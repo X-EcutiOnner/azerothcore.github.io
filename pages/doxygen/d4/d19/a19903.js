@@ -1,8 +1,6 @@
 var a19903 =
 [
-    [ "OnApply", "d4/d19/a19903.html#a3f2ef4882bcd52e091a0bcfabfc352cd", null ],
-    [ "OnRemove", "d4/d19/a19903.html#ab967233994aa3ff07b272f010b2c1545", null ],
-    [ "PrepareAuraScript", "d4/d19/a19903.html#a788480ec4aaa57e643f55daca17c6ded", null ],
-    [ "Register", "d4/d19/a19903.html#a63a3e30704b282a430dcdbb9073a66df", null ],
-    [ "Validate", "d4/d19/a19903.html#a6ccb698445ce30c5224dcacc3dc8136b", null ]
+    [ "npc_living_constellationAI", "d6/dc4/a19907.html", "d6/dc4/a19907" ],
+    [ "npc_living_constellation", "d4/d19/a19903.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
+    [ "GetAI", "d4/d19/a19903.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
 ];

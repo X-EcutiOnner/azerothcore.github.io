@@ -1,6 +1,18 @@
 var a09015 =
 [
-    [ "m_guid", "dc/dad/a09015.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
-    [ "m_instance", "dc/dad/a09015.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
-    [ "m_state", "dc/dad/a09015.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
+    [ "BroadcastText", "dc/dad/a09015.html#abab322532f769f25ad0241422e066c3c", null ],
+    [ "GetText", "dc/dad/a09015.html#a5002c01e04536db717167eb7d0f4c5ec", null ],
+    [ "EmoteDelay1", "dc/dad/a09015.html#a627971cd4d55f9e3e17c885791a0cfbf", null ],
+    [ "EmoteDelay2", "dc/dad/a09015.html#a101f8fcc99c6badc2a7b05a9f18aa0f5", null ],
+    [ "EmoteDelay3", "dc/dad/a09015.html#ad54e97026a67329529daaa30f997a89a", null ],
+    [ "EmoteId1", "dc/dad/a09015.html#acc72081442b6a4544533a3084b5240da", null ],
+    [ "EmoteId2", "dc/dad/a09015.html#a519449d0a5cc67e758f39c154e22f853", null ],
+    [ "EmoteId3", "dc/dad/a09015.html#acbce2101751bdaed47315c23f5058a7b", null ],
+    [ "EmotesID", "dc/dad/a09015.html#a2c7c03c32d8fe589507b575fc5c2138f", null ],
+    [ "FemaleText", "dc/dad/a09015.html#a255f95912612f11867611093ebc23a59", null ],
+    [ "Flags", "dc/dad/a09015.html#af07f883cd3deb5a1a59e23aa058e6c78", null ],
+    [ "Id", "dc/dad/a09015.html#a12594a2bbd643a1968726db708a35b79", null ],
+    [ "LanguageID", "dc/dad/a09015.html#a35ea9cc4ebd2680988e610f344086c86", null ],
+    [ "MaleText", "dc/dad/a09015.html#ab30526857fe7c7c945d84931ffa4c416", null ],
+    [ "SoundEntriesId", "dc/dad/a09015.html#aae69d8b9ca72f1cb20869b69a9601595", null ]
 ];

@@ -1,14 +1,8 @@
 var a23151 =
 [
-    [ "boss_the_lurker_below", "d0/d68/a23151.html#ac76c71b6a47e1a936256d9c5901c27ab", null ],
-    [ "AttackStart", "d0/d68/a23151.html#af0f6fbe31dbcd6df4e8f1b57730e093b", null ],
-    [ "DamageTaken", "d0/d68/a23151.html#ae7c05744013753b29072ec1b5d9f2570", null ],
-    [ "DoAction", "d0/d68/a23151.html#a30e07055aa632066a75ad48f3e8109e2", null ],
-    [ "EnterEvadeMode", "d0/d68/a23151.html#a522164e819db5062225f7d5704cdaa36", null ],
-    [ "JustEngagedWith", "d0/d68/a23151.html#aa31e26b77e0c2403a338f781bf14c94b", null ],
-    [ "Reset", "d0/d68/a23151.html#ae592707182d64689e6578813b3617ee3", null ],
-    [ "SchedulerPhaseOne", "d0/d68/a23151.html#a42dd2ed36209e7be61788d054e2754b5", null ],
-    [ "SchedulerPhaseTwo", "d0/d68/a23151.html#aa910c20d3ee26d6d2e71818008eb3b5c", null ],
-    [ "SummonedCreatureDies", "d0/d68/a23151.html#a5ec68a1bc5b22e03fe485448257ad7df", null ],
-    [ "UpdateAI", "d0/d68/a23151.html#a92d854cb21b272bd09674c724b1aa862", null ]
+    [ "HandleEffectApply", "d0/d68/a23151.html#a94993441ef94f84c85aa10c693cf34fe", null ],
+    [ "HandleEffectRemove", "d0/d68/a23151.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
+    [ "PrepareAuraScript", "d0/d68/a23151.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
+    [ "Register", "d0/d68/a23151.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
+    [ "Validate", "d0/d68/a23151.html#a964637541cd64e64b4e02c00d36abf2d", null ]
 ];

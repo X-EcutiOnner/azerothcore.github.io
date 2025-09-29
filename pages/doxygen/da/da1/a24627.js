@@ -1,6 +1,10 @@
 var a24627 =
 [
-    [ "CheckProc", "da/da1/a24627.html#a1b7b855383b04bd1b627c6f1e33ad7a5", null ],
-    [ "PrepareAuraScript", "da/da1/a24627.html#a204655e4eea1cf8694c62ddae6d5a760", null ],
-    [ "Register", "da/da1/a24627.html#a23e8088d6d9626ec4c3f8fc6e66c1e24", null ]
+    [ "npc_pet_gen_imp_in_a_bottle", "da/da1/a24627.html#aa32b7770c2719d77d46fcf6d22989284", null ],
+    [ "InitializeAI", "da/da1/a24627.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
+    [ "UpdateAI", "da/da1/a24627.html#a453ec855bb21a30cb72b540ff8f77035", null ],
+    [ "_data", "da/da1/a24627.html#a982ec923536c2c33353a3673aa425b6a", null ],
+    [ "_hasParty", "da/da1/a24627.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
+    [ "_ownerGUID", "da/da1/a24627.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
+    [ "_talkTimer", "da/da1/a24627.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
 ];

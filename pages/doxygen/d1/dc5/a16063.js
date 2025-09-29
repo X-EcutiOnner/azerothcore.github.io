@@ -1,10 +1,8 @@
 var a16063 =
 [
-    [ "spell_halion_marks_aura", "d1/dc5/a16063.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
-    [ "BeforeDispel", "d1/dc5/a16063.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
-    [ "OnRemove", "d1/dc5/a16063.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
-    [ "PrepareAuraScript", "d1/dc5/a16063.html#acd5285ea5c378b31526440d263c54770", null ],
-    [ "Register", "d1/dc5/a16063.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
-    [ "_removeSpellId", "d1/dc5/a16063.html#aeef9d928c6a8739337251e144558b169", null ],
-    [ "_summonSpellId", "d1/dc5/a16063.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
+    [ "instance_ahnkahet_InstanceScript", "d1/dc5/a16063.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
+    [ "IsAllSpheresActivated", "d1/dc5/a16063.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
+    [ "OnGameObjectCreate", "d1/dc5/a16063.html#ad00fdc90a61e1c927323daa2149f8466", null ],
+    [ "SetData", "d1/dc5/a16063.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
+    [ "taldaramPlatform_GUID", "d1/dc5/a16063.html#a840ce69595c384be321c1167513d151e", null ]
 ];

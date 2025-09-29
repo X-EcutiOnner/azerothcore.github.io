@@ -1,8 +1,6 @@
 var a19287 =
 [
-    [ "npc_crystal_spike", "d5/d31/a19287.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
-    [ "Reset", "d5/d31/a19287.html#a8cdca606ce482147d87ad5248665099e", null ],
-    [ "UpdateAI", "d5/d31/a19287.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
-    [ "_damageTimer", "d5/d31/a19287.html#a36c70729a0c0281d467f870bfcde80ae", null ],
-    [ "_gameObjectGUID", "d5/d31/a19287.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
+    [ "boss_loathebAI", "d0/d19/a19291.html", "d0/d19/a19291" ],
+    [ "boss_loatheb", "d5/d31/a19287.html#a93bf8055a9ed900c880ef8b81b87bafd", null ],
+    [ "GetAI", "d5/d31/a19287.html#aca9b3a2515777f81b354c01a9727276e", null ]
 ];

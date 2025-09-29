@@ -1,6 +1,6 @@
 var a15623 =
 [
-    [ "HandleDummy", "d3/d0f/a15623.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "d3/d0f/a15623.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "d3/d0f/a15623.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "npc_tiger_matriarch_creditAI", "db/db0/a15627.html", "db/db0/a15627" ],
+    [ "npc_tiger_matriarch_credit", "d3/d0f/a15623.html#a9d76e8e808c828da501551025eecd8ea", null ],
+    [ "GetAI", "d3/d0f/a15623.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
 ];

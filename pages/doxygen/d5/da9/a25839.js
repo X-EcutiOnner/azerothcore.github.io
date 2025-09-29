@@ -1,6 +1,6 @@
 var a25839 =
 [
-    [ "CheckCast", "d5/da9/a25839.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
-    [ "PrepareSpellScript", "d5/da9/a25839.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
-    [ "Register", "d5/da9/a25839.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
+    [ "HandlePeriodicTick", "d5/da9/a25839.html#a1bd15727da421fdbfc3a60136bfa9bc9", null ],
+    [ "PrepareAuraScript", "d5/da9/a25839.html#a1c4f592511c8886d0b9a5e64eb19cda7", null ],
+    [ "Register", "d5/da9/a25839.html#ac019a52a6f62f1251d20efcfadba1e78", null ]
 ];

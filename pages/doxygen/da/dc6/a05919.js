@@ -1,9 +1,7 @@
 var a05919 =
 [
-    [ "itemId", "da/dc6/a05919.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
-    [ "mailTemplate", "da/dc6/a05919.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
-    [ "sender", "da/dc6/a05919.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
-    [ "subject", "da/dc6/a05919.html#a45644f308278529f822080f8274180d8", null ],
-    [ "text", "da/dc6/a05919.html#a4d57dcb4d130552f5bf756308d79307c", null ],
-    [ "titleId", "da/dc6/a05919.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
+    [ "TransactionWithResultTask", "da/dc6/a05919.html#a98dfb255e7be9d5cf9ed9215b0d5e0e4", null ],
+    [ "Execute", "da/dc6/a05919.html#a2a05fb2aa69032797f2065cb46fe7dc4", null ],
+    [ "GetFuture", "da/dc6/a05919.html#a5bc976207b1d695c8e8c052b0eacc7a6", null ],
+    [ "m_result", "da/dc6/a05919.html#aaf4d587b83977e65089bdbf92fa09ae1", null ]
 ];

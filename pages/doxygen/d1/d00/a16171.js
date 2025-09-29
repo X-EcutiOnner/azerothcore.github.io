@@ -1,9 +1,6 @@
 var a16171 =
 [
-    [ "npc_memoryAI", "d1/d00/a16171.html#ad927d377d60b44f43808469042f5feb9", null ],
-    [ "JustDied", "d1/d00/a16171.html#a7b0484919d671877f29dfa05ca1265d9", null ],
-    [ "Reset", "d1/d00/a16171.html#a985c51bbfa2cceeb7601432491253aaf", null ],
-    [ "UpdateAI", "d1/d00/a16171.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
-    [ "events", "d1/d00/a16171.html#a2ed2993e89728a3723456a67e13581f7", null ],
-    [ "pInstance", "d1/d00/a16171.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
+    [ "boss_sartharion_shadronAI", "dd/d94/a16175.html", "dd/d94/a16175" ],
+    [ "boss_sartharion_shadron", "d1/d00/a16171.html#ac297719abff8c795af10973492fc6fbe", null ],
+    [ "GetAI", "d1/d00/a16171.html#a95c7184ee7589f01920adc57a7df963b", null ]
 ];

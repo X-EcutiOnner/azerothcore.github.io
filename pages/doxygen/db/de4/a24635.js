@@ -1,7 +1,10 @@
 var a24635 =
 [
-    [ "AfterApply", "db/de4/a24635.html#a1849f49a9682627753b8bd39b3ff827e", null ],
-    [ "AfterRemove", "db/de4/a24635.html#a7c08bea735cd36840463aa942e7529b4", null ],
-    [ "PrepareAuraScript", "db/de4/a24635.html#ad27880f797137cae09381e860727e2f7", null ],
-    [ "Register", "db/de4/a24635.html#a6c105609c1ee61a8f845018550b2e3ba", null ]
+    [ "npc_pet_gen_plump_turkey", "db/de4/a24635.html#acd5a9cb122cbf5a773461ce1027f28a1", null ],
+    [ "MovementInform", "db/de4/a24635.html#af27c91388891add6d00e251bf3187743", null ],
+    [ "UpdateAI", "db/de4/a24635.html#a93d2719bcc6a657a9a32cce06f566b19", null ],
+    [ "checkTimer", "db/de4/a24635.html#af9e7339416ada0c3bb9829cbd8e1f5d3", null ],
+    [ "goGUID", "db/de4/a24635.html#a5fa88e045430adea9e72a3744bf72780", null ],
+    [ "jumping", "db/de4/a24635.html#a8486512b7594f2ce759fcb580f1baf34", null ],
+    [ "jumpTimer", "db/de4/a24635.html#ad53a9abad41ab6a792a55b854155135d", null ]
 ];

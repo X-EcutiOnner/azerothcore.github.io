@@ -1,6 +1,5 @@
 var a27983 =
 [
-    [ "ChannelID", "d7/de4/a27983.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
-    [ "flags", "d7/de4/a27983.html#aa77db644555e336ccbb8dd138c192425", null ],
-    [ "pattern", "d7/de4/a27983.html#ad8b550cf444d66eede00abcf2cefec22", null ]
+    [ "ServerMailReward", "d7/de4/a27983.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
+    [ "OnPlayerLogin", "d7/de4/a27983.html#ada945e805278d54746b6fabaf48b4546", null ]
 ];

@@ -1,12 +1,6 @@
 var a17367 =
 [
-    [ "npc_high_overlord_saurfangAI", "d5/dd6/a17367.html#a5c31259d9eb26e09d2b645d826e75328", null ],
-    [ "DoAction", "d5/dd6/a17367.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
-    [ "MovementInform", "d5/dd6/a17367.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
-    [ "Reset", "d5/dd6/a17367.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
-    [ "SpellHit", "d5/dd6/a17367.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
-    [ "UpdateAI", "d5/dd6/a17367.html#a92124e7490a066bf63836397a3bdc71b", null ],
-    [ "_events", "d5/dd6/a17367.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
-    [ "_guardList", "d5/dd6/a17367.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
-    [ "_instance", "d5/dd6/a17367.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
+    [ "npc_living_mojoAI", "d3/dc3/a17371.html", "d3/dc3/a17371" ],
+    [ "npc_living_mojo", "d5/dd6/a17367.html#af24190023549b4ec5fa47b5959618a8a", null ],
+    [ "GetAI", "d5/dd6/a17367.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
 ];

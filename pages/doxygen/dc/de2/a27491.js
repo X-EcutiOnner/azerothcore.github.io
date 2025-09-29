@@ -1,6 +1,6 @@
 var a27491 =
 [
-    [ "npc_air_force_botsAI", "d1/d69/a27495.html", "d1/d69/a27495" ],
-    [ "npc_air_force_bots", "dc/de2/a27491.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
-    [ "GetAI", "dc/de2/a27491.html#ae971e34d61b0f960d8f5940f9015523d", null ]
+    [ "go_brewfest_musicAI", "d1/d69/a27495.html", "d1/d69/a27495" ],
+    [ "go_brewfest_music", "dc/de2/a27491.html#a787963a5ee591933d62fdb52911f9a77", null ],
+    [ "GetAI", "dc/de2/a27491.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
 ];

@@ -1,7 +1,8 @@
 var a26063 =
 [
-    [ "HandleScriptEffect", "de/d1f/a26063.html#a6c1ac025fa93caa08737387a18003612", null ],
-    [ "PrepareSpellScript", "de/d1f/a26063.html#acb5ad05212399b06ed9bb64bb9203069", null ],
-    [ "Register", "de/d1f/a26063.html#afbf989d514c308f466ecfd9957d2d177", null ],
-    [ "Validate", "de/d1f/a26063.html#a2f48b1903edef1a5bb8beeddc8879aa4", null ]
+    [ "HandleDummy", "de/d1f/a26063.html#a60a374efc8b47bfdd8ffded2ff1e10d1", null ],
+    [ "Load", "de/d1f/a26063.html#a9ecd5d24b96d1cde3ad07e76992f5e1f", null ],
+    [ "PrepareSpellScript", "de/d1f/a26063.html#ad4605cd07b702a660556a8150b44c621", null ],
+    [ "Register", "de/d1f/a26063.html#a9cc594c2b85156f1482398af6d0bca5b", null ],
+    [ "Validate", "de/d1f/a26063.html#a954ae38fd04985b9851a09b416ba59bc", null ]
 ];

@@ -1,7 +1,10 @@
 var a13359 =
 [
-    [ "OnPeriodic", "d1/da4/a13359.html#a25e7a59384f262a36c74696a1befa01d", null ],
-    [ "PrepareAuraScript", "d1/da4/a13359.html#a9b82fde3e38054b686f9b2a110cfaa1e", null ],
-    [ "Register", "d1/da4/a13359.html#a65e469ba04d8cd2aa23d934bf2915721", null ],
-    [ "Validate", "d1/da4/a13359.html#a6843deda5be8b684c06a86920714f255", null ]
+    [ "HandleDummyTick", "d1/da4/a13359.html#a036291aee8b08212ecead4afce01adf4", null ],
+    [ "Load", "d1/da4/a13359.html#aaecea41af42790dfe9aeba3c56480668", null ],
+    [ "OnApply", "d1/da4/a13359.html#a37b425f877e7415b245c119c29521c4b", null ],
+    [ "PrepareAuraScript", "d1/da4/a13359.html#ade7bfbc3400fb620956d1e8dff7d4a8a", null ],
+    [ "Register", "d1/da4/a13359.html#a9b32995b6e324a6c779bbd742de6cce2", null ],
+    [ "Validate", "d1/da4/a13359.html#a72595ee3cd995d7bed2bcf8c9f5199fb", null ],
+    [ "_forsakenSpell", "d1/da4/a13359.html#ae2aee05482e4854120fc581ecec41f95", null ]
 ];

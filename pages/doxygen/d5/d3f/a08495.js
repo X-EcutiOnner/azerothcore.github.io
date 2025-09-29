@@ -1,6 +1,5 @@
 var a08495 =
 [
-    [ "PlayerCreateInfoItem", "d5/d3f/a08495.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
-    [ "item_amount", "d5/d3f/a08495.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
-    [ "item_id", "d5/d3f/a08495.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
+    [ "PositionXYZStreamer", "d5/d3f/a08495.html#a8da1be6111bd97ef68d62d0d9d630c56", null ],
+    [ "m_pos", "d5/d3f/a08495.html#ae5db7cb3adba811c0b9483645a7f1770", null ]
 ];

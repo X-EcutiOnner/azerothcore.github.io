@@ -1,6 +1,7 @@
 var a25627 =
 [
-    [ "FilterTargets", "da/dab/a25627.html#abe299fbad07f800e90b1614ec661c185", null ],
-    [ "PrepareSpellScript", "da/dab/a25627.html#a53bae2b6575436705adff74caf9225b7", null ],
-    [ "Register", "da/dab/a25627.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
+    [ "HandleScriptEffect", "da/dab/a25627.html#ae3c2900d98c2fd51ff0888ea5d1072c4", null ],
+    [ "PrepareSpellScript", "da/dab/a25627.html#a29ac1789b8023ef3339a7b40ee9c31ab", null ],
+    [ "Register", "da/dab/a25627.html#a321098d2325bfb9cea674d1137348350", null ],
+    [ "Validate", "da/dab/a25627.html#aa16a67bf42f51b838d22dcbe4b5b6f7b", null ]
 ];

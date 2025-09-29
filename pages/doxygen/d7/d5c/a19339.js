@@ -1,15 +1,19 @@
 var a19339 =
 [
-    [ "boss_varosAI", "d7/d5c/a19339.html#a3e6815b80a3f9f5e8c53bb762e9058f2", null ],
-    [ "EnterEvadeMode", "d7/d5c/a19339.html#a0b7eeef4529b47357d729852cdeab002", null ],
-    [ "JustDied", "d7/d5c/a19339.html#a2724167a66a059e1c0ca1612d8405d68", null ],
-    [ "JustEngagedWith", "d7/d5c/a19339.html#a2f25555ca2884f6bffb289d209e87740", null ],
-    [ "JustSummoned", "d7/d5c/a19339.html#a24b2a1e438b02c67e64b79adb0cfeafe", null ],
-    [ "MoveInLineOfSight", "d7/d5c/a19339.html#a87f743f03dc19659d0e77ee23cd2c327", null ],
-    [ "Reset", "d7/d5c/a19339.html#aef24d04954a26bb6381c860403e84288", null ],
-    [ "UpdateAI", "d7/d5c/a19339.html#acc1ac3c2bf5cb1a7732f375285467423", null ],
-    [ "events", "d7/d5c/a19339.html#a36746118770c936e7606962365e102d8", null ],
-    [ "pInstance", "d7/d5c/a19339.html#a9cf7c0159753512ae7dea8a2f6a9da74", null ],
-    [ "step", "d7/d5c/a19339.html#af4c8e11f0aad369f09902eb1ccc48059", null ],
-    [ "ZapAngle", "d7/d5c/a19339.html#aef225fcf580c5e500d3242ac4be24260", null ]
+    [ "boss_razuviousAI", "d7/d5c/a19339.html#a6c5b5a7bc419b30a8814ada3f95f0c3a", null ],
+    [ "DamageTaken", "d7/d5c/a19339.html#a4d20aa2066110c45ea06024dda04bb32", null ],
+    [ "JustDied", "d7/d5c/a19339.html#addd5c34675473b78e1785a8122a6ccd2", null ],
+    [ "JustEngagedWith", "d7/d5c/a19339.html#a9e9137c0c730435f2b2b3e8a731878e8", null ],
+    [ "JustSummoned", "d7/d5c/a19339.html#a3126cc2c35dc81a76b43d615bfa1bc4f", null ],
+    [ "KilledUnit", "d7/d5c/a19339.html#ab49711d40ea8ecbbf3a1fbab96569cc4", null ],
+    [ "MovementInform", "d7/d5c/a19339.html#a40a022ee337caaf0bb59f4beb8d9d3e8", null ],
+    [ "Reset", "d7/d5c/a19339.html#ae5b2e00b170a57b194b21445484c10bc", null ],
+    [ "ScheduleInteractWithDeathKnight", "d7/d5c/a19339.html#a5cdc692e17c3d331f1f1b12c8160408e", null ],
+    [ "ScheduleRP", "d7/d5c/a19339.html#a298fca0637eb5191e39f6010adc78c43", null ],
+    [ "SpawnHelpers", "d7/d5c/a19339.html#af2ec0fb6a5d5fe0c165f309a5ca22ff3", null ],
+    [ "SpellHit", "d7/d5c/a19339.html#a1c80a6d94af3ed794c25351484ae08ac", null ],
+    [ "UpdateAI", "d7/d5c/a19339.html#a4ea0982f190aa21077b6237cac4e4368", null ],
+    [ "_rpBuddyGUID", "d7/d5c/a19339.html#a06f80f3eac58b1cdc800bd4174244af5", null ],
+    [ "events", "d7/d5c/a19339.html#a5b73fdcb503cef89e87a1e50cc11e825", null ],
+    [ "summons", "d7/d5c/a19339.html#a6d3bb24f1b0475a04182d959f2f41b5d", null ]
 ];

@@ -1,7 +1,5 @@
 var a11327 =
 [
-    [ "ScriptStateStore", "d3/d22/a11327.html#a51baffee5c9dbf255591db8ea13ee516", null ],
-    [ "_auraApplication", "d3/d22/a11327.html#af5098bcedac048808e11bf2f82d705a7", null ],
-    [ "_currentScriptState", "d3/d22/a11327.html#adddf594d9468b16455da6e2aef683d44", null ],
-    [ "_defaultActionPrevented", "d3/d22/a11327.html#a63cf373d469af72bc96a3e72351e3256", null ]
+    [ "ImplicitTargetType", "d3/d22/a11327.html#adc4268d74a3f0b47902e16eea2fc854a", null ],
+    [ "UsedTargetObjectType", "d3/d22/a11327.html#a7bbc11d4a7a68f9441d393c7b48f5231", null ]
 ];

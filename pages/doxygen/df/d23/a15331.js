@@ -1,10 +1,9 @@
 var a15331 =
 [
-    [ "npc_rabid_thistle_bearAI", "df/d23/a15331.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
-    [ "Initialize", "df/d23/a15331.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
-    [ "Reset", "df/d23/a15331.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
-    [ "SpellHit", "df/d23/a15331.html#a62bde5a122748564cc806046bf9dcbaa", null ],
-    [ "UpdateAI", "df/d23/a15331.html#a8f6c5b873756a58760b2861bc8b86804", null ],
-    [ "_events", "df/d23/a15331.html#ad3852bf4588c453642e75fcdc544767b", null ],
-    [ "_playerGUID", "df/d23/a15331.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
+    [ "boss_fankriss", "df/d23/a15331.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
+    [ "JustEngagedWith", "df/d23/a15331.html#a9eaae719a271a95f64ac8076fe807c13", null ],
+    [ "Reset", "df/d23/a15331.html#af84010ee103eb81c1e269b03fc640f81", null ],
+    [ "SummonHatchlingWaves", "df/d23/a15331.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
+    [ "SummonWorms", "df/d23/a15331.html#ada23537921c3a11195450db89eb8fcfe", null ],
+    [ "summonWormSpells", "df/d23/a15331.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
 ];

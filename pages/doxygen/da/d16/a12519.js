@@ -1,6 +1,9 @@
 var a12519 =
 [
-    [ "HandleTriggerSpell", "da/d16/a12519.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
-    [ "PrepareSpellScript", "da/d16/a12519.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
-    [ "Register", "da/d16/a12519.html#a7e9c140aecea892ee6971bc97d385640", null ]
+    [ "boss_baron_geddonAI", "da/d16/a12519.html#a3a85b2a6e958a965e52a9fde87c08177", null ],
+    [ "DamageTaken", "da/d16/a12519.html#ad339cb7149b50cf5accc24b5a2d0bf82", null ],
+    [ "ExecuteEvent", "da/d16/a12519.html#a2c3ed57dd0336ce8ac1a85c957da9e4a", null ],
+    [ "JustEngagedWith", "da/d16/a12519.html#a8c5e43b4b4e0583db7dcc93694202bd8", null ],
+    [ "Reset", "da/d16/a12519.html#aaf47fc993e672877f51b5095f682906c", null ],
+    [ "armageddonCasted", "da/d16/a12519.html#a1a034601a7dda94becbf1801bda63d55", null ]
 ];

@@ -1,6 +1,5 @@
 var a14511 =
 [
-    [ "instance_blackfathom_deeps_InstanceMapScript", "d9/d46/a14515.html", "d9/d46/a14515" ],
-    [ "instance_blackfathom_deeps", "d8/d62/a14511.html#a4600a7e6191582c1bee684989a970e0f", null ],
-    [ "GetInstanceScript", "d8/d62/a14511.html#a62cdab4f3118ab030b4ef55243690f73", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "d8/d62/a14511.html#a40207493c75d8a63284e08f1f75d56c4", null ],
+    [ "MoveInLineOfSight", "d8/d62/a14511.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
 ];

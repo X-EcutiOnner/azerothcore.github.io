@@ -1,14 +1,9 @@
 var a12751 =
 [
-    [ "boss_priestess_delrissa", "d0/d7d/a12751.html#afcbf1aa400ec44b709fd194daab91d3d", null ],
-    [ "CheckInRoom", "d0/d7d/a12751.html#afa963761e44412915a6d89f097f33b5d", null ],
-    [ "InitializeAI", "d0/d7d/a12751.html#ae5105868d704b6ca91b27dcfbeaef3a9", null ],
-    [ "JustDied", "d0/d7d/a12751.html#a82d8c198f38c2aa881386e739dea6a08", null ],
-    [ "JustEngagedWith", "d0/d7d/a12751.html#a40c9852f9a1ea24b61edf0f7c00193a6", null ],
-    [ "JustSummoned", "d0/d7d/a12751.html#ac0a2c4346c6222380d7bda9a274f78e0", null ],
-    [ "KilledUnit", "d0/d7d/a12751.html#af0b41306f53c42745cce39069f446704", null ],
-    [ "Reset", "d0/d7d/a12751.html#a60e39157aa3043284b2e1e032c0d9241", null ],
-    [ "SummonedCreatureDies", "d0/d7d/a12751.html#a14757692ab4af5c1b5b311f059be9091", null ],
-    [ "HelpersKilled", "d0/d7d/a12751.html#a26764cdd42721c9276ccecaa97fc9a6e", null ],
-    [ "PlayersKilled", "d0/d7d/a12751.html#a9bde16a69ed9e950ce0dfb91805280cc", null ]
+    [ "boss_curator", "d0/d7d/a12751.html#a41b65078d0822ba87f3e40fc7bb10a40", null ],
+    [ "JustDied", "d0/d7d/a12751.html#a5617f51f51304682d48af11fdb0c6b8b", null ],
+    [ "JustEngagedWith", "d0/d7d/a12751.html#a848f477a101956662389cab5ffcc0727", null ],
+    [ "JustSummoned", "d0/d7d/a12751.html#ac779d275e03e6ba190617d215b217ce5", null ],
+    [ "KilledUnit", "d0/d7d/a12751.html#a9bfb89a8747251e4a84eb2f94a547f0d", null ],
+    [ "Reset", "d0/d7d/a12751.html#af6fbf3c3d77f9f052f11974f7b54feab", null ]
 ];

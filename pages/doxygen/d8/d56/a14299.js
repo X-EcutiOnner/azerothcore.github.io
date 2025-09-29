@@ -1,6 +1,6 @@
 var a14299 =
 [
-    [ "HandleScript", "d8/d56/a14299.html#a4077b809530d28bed0a9419b5a745f42", null ],
-    [ "PrepareSpellScript", "d8/d56/a14299.html#a97eb6d1fcdcf0628433e5bec68785932", null ],
-    [ "Register", "d8/d56/a14299.html#ac09b1c86655eef0febaccff86533b28f", null ]
+    [ "boss_renatakiAI", "d1/dd3/a14303.html", "d1/dd3/a14303" ],
+    [ "boss_renataki", "d8/d56/a14299.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
+    [ "GetAI", "d8/d56/a14299.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
 ];

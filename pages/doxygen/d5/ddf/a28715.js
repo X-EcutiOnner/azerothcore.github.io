@@ -1,8 +1,9 @@
 var a28715 =
 [
-    [ "Color", "d5/ddf/a28715.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
-    [ "NameIndex", "d5/ddf/a28715.html#add893e045d13a3633fd7346457a10477", null ],
-    [ "Position", "d5/ddf/a28715.html#afae9056582e71160c151de2c172bc60a", null ],
-    [ "Rotation", "d5/ddf/a28715.html#a48d372bc1371fa5f94db9aa39669942a", null ],
-    [ "Scale", "d5/ddf/a28715.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
+    [ "adtId", "d5/ddf/a28715.html#a9bf7e7dd9dd55e5b1ffeffb0ad3e92e0", null ],
+    [ "areaId", "d5/ddf/a28715.html#a7f652c68036429350543fc5a2cc6861e", null ],
+    [ "Flags", "d5/ddf/a28715.html#a60f9a61948d1e28587c9d1a338730f37", null ],
+    [ "groupId", "d5/ddf/a28715.html#a09052bad3028899580ffedd556672b64", null ],
+    [ "Id", "d5/ddf/a28715.html#a70e3e94df9d0b0b1c114ed1001768066", null ],
+    [ "rootId", "d5/ddf/a28715.html#a7997c7ac31abdb40f2e7f0e0a7e04403", null ]
 ];

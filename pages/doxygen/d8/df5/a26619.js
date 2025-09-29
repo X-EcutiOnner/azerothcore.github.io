@@ -1,8 +1,7 @@
 var a26619 =
 [
-    [ "Apply", "d8/df5/a26619.html#ac3145df90b6b179fece1c76da114e395", null ],
-    [ "HandleEffectPeriodic", "d8/df5/a26619.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
-    [ "PrepareAuraScript", "d8/df5/a26619.html#aa911ba0b5a13a933bf50a072799a040f", null ],
-    [ "Register", "d8/df5/a26619.html#ae0dff9b5002d3d3361d794a75645057f", null ],
-    [ "Validate", "d8/df5/a26619.html#ad81184b508474a89fbafc63594ef0ab1", null ]
+    [ "HandleDummy", "d8/df5/a26619.html#a367bd26543382ad71668fbe4f524d823", null ],
+    [ "PrepareSpellScript", "d8/df5/a26619.html#a71cde3f81fdb253d8e93a19be104e9db", null ],
+    [ "Register", "d8/df5/a26619.html#a7c73e3381592bef44d2265aff296b301", null ],
+    [ "Validate", "d8/df5/a26619.html#a03d59b6859286dbe460b348df6de63d7", null ]
 ];

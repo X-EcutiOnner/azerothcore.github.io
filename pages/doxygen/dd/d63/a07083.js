@@ -1,5 +1,9 @@
 var a07083 =
 [
-    [ "packet", "dd/d63/a07083.html#ad266cc5bd8e3637534055a7564047f87", null ],
-    [ "playerGuid", "dd/d63/a07083.html#a824393dda7676d4a5268d2d7d2e9d17b", null ]
+    [ "ObjectGuidVector", "dd/d63/a07083.html#aa49ab82006c390e7110013b44c018c0f", null ],
+    [ "~ObjectGuidVector", "dd/d63/a07083.html#a07fe3304a0edffa1f17a0ce5f97d01e6", null ],
+    [ "GetObjectVector", "dd/d63/a07083.html#a94ee201dcf0750edb84cedb151e9ff22", null ],
+    [ "UpdateObjects", "dd/d63/a07083.html#a8b6dad1739f51bba936257410a968c6e", null ],
+    [ "_guidVector", "dd/d63/a07083.html#aefce0edc7881ca01ba8c8c98067e165d", null ],
+    [ "_objectVector", "dd/d63/a07083.html#a78137cb1ae9930c11f87a4a8ed5e7e26", null ]
 ];

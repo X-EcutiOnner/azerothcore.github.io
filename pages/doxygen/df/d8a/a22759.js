@@ -1,10 +1,5 @@
 var a22759 =
 [
-    [ "boss_gathios_the_shatterer", "df/d8a/a22759.html#a34708f52c610e567c5acf62962e90d4e", null ],
-    [ "JustEngagedWith", "df/d8a/a22759.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
-    [ "SelectCouncilMember", "df/d8a/a22759.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
-    [ "UpdateAI", "df/d8a/a22759.html#a1541f1efd3978a4c91b80e411aec6442", null ],
-    [ "_toggleAura", "df/d8a/a22759.html#aa983e2d9018a9e53ee29840781f47c33", null ],
-    [ "_toggleBlessing", "df/d8a/a22759.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
-    [ "_toggleSeal", "df/d8a/a22759.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
+    [ "outdoorpvp_na_halaa_creatures", "df/d8a/a22759.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
+    [ "UpdateAI", "df/d8a/a22759.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
 ];

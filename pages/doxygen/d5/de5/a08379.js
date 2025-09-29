@@ -1,5 +1,10 @@
 var a08379 =
 [
-    [ "Global", "d5/de5/a08379.html#a77d72711ba9384384f9fd789f778e8c8", null ],
-    [ "MapSpecific", "d5/de5/a08379.html#a42e5a0249b84d4e8175a4cb65480bbcf", null ]
+    [ "SpellCategory", "d5/de5/a08379.html#ad170ffceb499879a4b0d638e9c922703", null ],
+    [ "SpellCategoryCooldown", "d5/de5/a08379.html#a8a33274d71b410f24f110e9a5921ff18", null ],
+    [ "SpellCharges", "d5/de5/a08379.html#a16909465a3a20dbab6e3ca2e3c807f17", null ],
+    [ "SpellCooldown", "d5/de5/a08379.html#a8ef7106595ed25ce23ca2163258d769a", null ],
+    [ "SpellId", "d5/de5/a08379.html#af6973a8a9a258a87a916bcd431c33d8d", null ],
+    [ "SpellPPMRate", "d5/de5/a08379.html#a5b208a667802e4c3766619c96d267287", null ],
+    [ "SpellTrigger", "d5/de5/a08379.html#a39657ff9e561a3c86a671f7b3c78ef98", null ]
 ];

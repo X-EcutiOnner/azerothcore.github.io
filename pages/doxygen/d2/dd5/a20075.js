@@ -1,8 +1,6 @@
 var a20075 =
 [
-    [ "npc_ulduar_saronite_animusAI", "d2/dd5/a20075.html#a2b94427feb24a7bda075b6a8f403433a", null ],
-    [ "JustDied", "d2/dd5/a20075.html#a30abcab01de3732bc5525864576615b0", null ],
-    [ "UpdateAI", "d2/dd5/a20075.html#a1490961adc8fc03ab28a992aff55b43b", null ],
-    [ "pInstance", "d2/dd5/a20075.html#a5d3b297355f286b0ad08ed38dbd5b0d2", null ],
-    [ "timer", "d2/dd5/a20075.html#a3d0345d4c503eb3f0e4acbe346f1c5e5", null ]
+    [ "boss_flame_leviathan_defense_turretAI", "dc/d31/a20079.html", "dc/d31/a20079" ],
+    [ "boss_flame_leviathan_defense_turret", "d2/dd5/a20075.html#a939c66ff6c1eb6dfdb3d93b3d0292e40", null ],
+    [ "GetAI", "d2/dd5/a20075.html#a1c3726e2b753cda18bd11d8f4ff154db", null ]
 ];

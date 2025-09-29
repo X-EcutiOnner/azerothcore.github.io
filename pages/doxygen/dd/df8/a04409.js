@@ -1,21 +1,19 @@
 var a04409 =
 [
-    [ "DefaultTargetSelector", "d4/de0/a06170.html", "d4/de0/a06170" ],
-    [ "SpellTargetSelector", "d4/d17/a06174.html", "d4/d17/a06174" ],
-    [ "NonTankTargetSelector", "d7/d53/a06178.html", "d7/d53/a06178" ],
-    [ "PowerUsersSelector", "d4/dfc/a06182.html", "d4/dfc/a06182" ],
-    [ "RangeSelector", "d4/dc1/a06186.html", "d4/dc1/a06186" ],
-    [ "UnitAI", "d9/dac/a06190.html", "d9/dac/a06190" ],
-    [ "PlayerAI", "d8/df6/a06194.html", "d8/df6/a06194" ],
-    [ "SimpleCharmedAI", "df/d12/a06198.html", "df/d12/a06198" ],
-    [ "CAST_AI", "dd/df8/a04409.html#a0476b18cfebeb691aabb4344ec4f8af3", null ],
-    [ "ENSURE_AI", "dd/df8/a04409.html#afbd9552e4d9ae2fb45fe846c8e9775cf", null ],
-    [ "SelectTargetMethod", "dd/df8/a04409.html#a482ee472018cb5f0e11addaabad35c3d", [
-      [ "Random", "dd/df8/a04409.html#a482ee472018cb5f0e11addaabad35c3da64663f4646781c9c0110838b905daa23", null ],
-      [ "MaxThreat", "dd/df8/a04409.html#a482ee472018cb5f0e11addaabad35c3da8a65bf968cbf5bef0f097c4f6cc842c0", null ],
-      [ "MinThreat", "dd/df8/a04409.html#a482ee472018cb5f0e11addaabad35c3da01cd0e3f1d186cc67cb2235ac1e02fa4", null ],
-      [ "MaxDistance", "dd/df8/a04409.html#a482ee472018cb5f0e11addaabad35c3da26566fa367c162fcc3c6639f66c6b611", null ],
-      [ "MinDistance", "dd/df8/a04409.html#a482ee472018cb5f0e11addaabad35c3da334b6577674b84a8854d5281a52e48b1", null ]
-    ] ],
-    [ "EnsureAI", "dd/df8/a04409.html#a1c66b73f1d3e1e8031c25ae739f094e6", null ]
+    [ "Find", "dd/df8/a04409.html#a516e9fe262b5a1c4dcd65da7ccf71b5a", null ],
+    [ "Find", "dd/df8/a04409.html#a6823f2f647f14752459f26981d4c26b7", null ],
+    [ "Find", "dd/df8/a04409.html#a4bfb4bddc798432f29bd818e89944edf", null ],
+    [ "Find", "dd/df8/a04409.html#a19feef3708a949a3dcdf70f3fe86ff0e", null ],
+    [ "Find", "dd/df8/a04409.html#ae166e7e76c33c81464ce6c03126a9851", null ],
+    [ "Find", "dd/df8/a04409.html#a6c9d620966c3418af1971dc8326ccb4a", null ],
+    [ "Find", "dd/df8/a04409.html#a5ebe906ee0f2f706bcc950236459a7f8", null ],
+    [ "Find", "dd/df8/a04409.html#a63a0d0d14ac1e3ecbed175c4206b87f2", null ],
+    [ "Insert", "dd/df8/a04409.html#ae7e83af9675f10ea565b725be25b8c5e", null ],
+    [ "Insert", "dd/df8/a04409.html#a2cb738cb02deb5f4d7d30a7d860a45ff", null ],
+    [ "Insert", "dd/df8/a04409.html#a9113786a11594dfcecc6d3bb4e1aadb2", null ],
+    [ "Insert", "dd/df8/a04409.html#a3bc394692e5fd3b096a149b1208e3675", null ],
+    [ "Remove", "dd/df8/a04409.html#a3714737e66e682a43beb71292ccd564e", null ],
+    [ "Remove", "dd/df8/a04409.html#ac344e92ea8d73f94dc08c6a52001ec3e", null ],
+    [ "Remove", "dd/df8/a04409.html#aecc909b333bb7f55f438bfcf1ea3085f", null ],
+    [ "Remove", "dd/df8/a04409.html#a36e61ba9bc4e287e215444ea9314a656", null ]
 ];

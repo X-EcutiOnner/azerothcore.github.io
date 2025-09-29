@@ -1,7 +1,6 @@
 var a15127 =
 [
-    [ "FilterTargets", "d6/d17/a15127.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
-    [ "HandleOnHit", "d6/d17/a15127.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
-    [ "PrepareSpellScript", "d6/d17/a15127.html#ad7372e543391a23c003b4121e0dd8a09", null ],
-    [ "Register", "d6/d17/a15127.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
+    [ "npc_idol_room_spawnerAI", "d4/d6a/a15131.html", "d4/d6a/a15131" ],
+    [ "npc_idol_room_spawner", "d6/d17/a15127.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
+    [ "GetAI", "d6/d17/a15127.html#a3017caa645e98a7647ec42a43c025624", null ]
 ];

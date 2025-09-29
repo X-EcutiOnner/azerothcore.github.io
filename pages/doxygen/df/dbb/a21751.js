@@ -1,15 +1,12 @@
 var a21751 =
 [
-    [ "npc_q24545_lich_kingAI", "df/dbb/a21751.html#abebe71c6cfb705ce4409dd7fae3842e3", null ],
-    [ "CleanAll", "df/dbb/a21751.html#a2720994f88a2706a2f0b4fb361f81f2c", null ],
-    [ "JustSummoned", "df/dbb/a21751.html#a6049433795be30eb31e240a4939ad42f", null ],
-    [ "Reset", "df/dbb/a21751.html#aebd396de51edef790cd0b599c94f78a0", null ],
-    [ "SetData", "df/dbb/a21751.html#a8ee3a4f85aebe9b9a8e18858b76042a6", null ],
-    [ "SetGUID", "df/dbb/a21751.html#a9dfbb607bb117d2d1fc8a4e61c42859f", null ],
-    [ "SpellHitTarget", "df/dbb/a21751.html#adb8be583a14c8d0951b45dc027cf31d9", null ],
-    [ "SummonedCreatureDespawn", "df/dbb/a21751.html#ae8049cc5b58c6647b37941fb98c51fe5", null ],
-    [ "UpdateAI", "df/dbb/a21751.html#a24f17e0954e498e4a4b73b4cdffea6a3", null ],
-    [ "events", "df/dbb/a21751.html#a3e89e187c08f45a51fb69b647dcc766d", null ],
-    [ "playerGUID", "df/dbb/a21751.html#ac84b9efb3ee2eaa2160afe5d0217a884", null ],
-    [ "summons", "df/dbb/a21751.html#a1de76ab7f3304f8373c633fa7d0aa533", null ]
+    [ "npc_beryl_sorcererAI", "df/dbb/a21751.html#a8f99f5f2ad6ccb1b068a86904bb1b864", null ],
+    [ "Initialize", "df/dbb/a21751.html#a40400e4e993d20d9bbe4faf063102521", null ],
+    [ "JustEngagedWith", "df/dbb/a21751.html#afae877e8dac583c9420d214f77c2b438", null ],
+    [ "Reset", "df/dbb/a21751.html#a17a16337c09013483c58cae38576d969", null ],
+    [ "SpellHit", "df/dbb/a21751.html#a762ee3ae8df3757279821af13101e0be", null ],
+    [ "UpdateAI", "df/dbb/a21751.html#a42ec665b06988d13be6cbee646afc898", null ],
+    [ "_chainsCast", "df/dbb/a21751.html#ab6238d539b10a7db9191bdc685ea67eb", null ],
+    [ "_events", "df/dbb/a21751.html#ac640099ca01ae2183b84ae9ee3407cc1", null ],
+    [ "_playerGUID", "df/dbb/a21751.html#a96f9b39c09b7a5fb484ae9069412751f", null ]
 ];

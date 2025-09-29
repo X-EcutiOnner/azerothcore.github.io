@@ -1,6 +1,6 @@
 var a19863 =
 [
-    [ "npc_pool_of_tarAI", "d0/db3/a19863.html#a6141addc9b1cf2c0028d98ef4f4d9d37", null ],
-    [ "DamageTaken", "d0/db3/a19863.html#a4ea55aa08123f724268238e0def5b595", null ],
-    [ "SpellHit", "d0/db3/a19863.html#acb63166b396c079d5b4bb9db67a1448a", null ]
+    [ "HandleApplyTouch", "d0/db3/a19863.html#a0c46c506f78f46f17c0de6caae774316", null ],
+    [ "PrepareSpellScript", "d0/db3/a19863.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
+    [ "Register", "d0/db3/a19863.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
 ];

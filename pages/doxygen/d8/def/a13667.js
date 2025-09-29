@@ -1,7 +1,6 @@
 var a13667 =
 [
-    [ "HandleScript", "d8/def/a13667.html#acd4373ab762d00d262984c36190d6f93", null ],
-    [ "PrepareSpellScript", "d8/def/a13667.html#a113216b272d0386f248a75bfcf30c6a3", null ],
-    [ "Register", "d8/def/a13667.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
-    [ "Validate", "d8/def/a13667.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
+    [ "instance_the_stockade_InstanceMapScript", "d2/d0c/a13671.html", "d2/d0c/a13671" ],
+    [ "instance_the_stockade", "d8/def/a13667.html#a533049c10a72da4b94f9807017f28c0d", null ],
+    [ "GetInstanceScript", "d8/def/a13667.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
 ];

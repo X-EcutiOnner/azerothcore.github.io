@@ -1,6 +1,6 @@
 var a12199 =
 [
-    [ "boss_firemawAI", "d6/d12/a12199.html#ab3f56c97119676b1a75662e52caecb75", null ],
-    [ "JustEngagedWith", "d6/d12/a12199.html#a04cb1d2fa18dba82b9c881b09406a076", null ],
-    [ "UpdateAI", "d6/d12/a12199.html#a6e35e47b23d713263ef00769324bbbed", null ]
+    [ "boss_highlordomokkAI", "dd/dbf/a12203.html", "dd/dbf/a12203" ],
+    [ "boss_highlord_omokk", "d6/d12/a12199.html#af5174587ed3cd1c46f604183a75de99e", null ],
+    [ "GetAI", "d6/d12/a12199.html#afb8efb012791c6a2fc18975a1ec7f984", null ]
 ];

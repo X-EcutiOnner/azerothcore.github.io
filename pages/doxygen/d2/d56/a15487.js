@@ -1,16 +1,16 @@
 var a15487 =
 [
-    [ "npc_anachronos_the_ancientAI", "d2/d56/a15487.html#aad6fbdc3cf33f2deb6dd3cc741e4aec4", null ],
-    [ "HandleAnimation", "d2/d56/a15487.html#a0bd43e2482a12cda79566f761d448109", null ],
-    [ "Reset", "d2/d56/a15487.html#a3bd2380cfd18b14aae1ae72a452299bb", null ],
-    [ "UpdateAI", "d2/d56/a15487.html#a5a55cfec1d204b6657779938e93b6be5", null ],
-    [ "AnachronosQuestTriggerGUID", "d2/d56/a15487.html#aa51b7cdfb2a37310196c81a01f89a7dd", null ],
-    [ "AnimationCount", "d2/d56/a15487.html#a504038880b7e837f63f99d477c8a0bba", null ],
-    [ "AnimationTimer", "d2/d56/a15487.html#a4ca3807429ffa2caca6199ecd66c4015", null ],
-    [ "ArygosGUID", "d2/d56/a15487.html#a4f2917c85d41d3b5015d6eed56fe9e12", null ],
-    [ "CaelestraszGUID", "d2/d56/a15487.html#adceafa1ad19ecb7df59f87b501d4622c", null ],
-    [ "eventEnd", "d2/d56/a15487.html#ad125b9eb7052449a6b75eebde7a192e0", null ],
-    [ "FandralGUID", "d2/d56/a15487.html#a157af7db82bf943c298b63d8294067ce", null ],
-    [ "MerithraGUID", "d2/d56/a15487.html#af7088f79687a4109f5701488e9019aeb", null ],
-    [ "PlayerGUID", "d2/d56/a15487.html#a7e1777ca319e4f6dafc1a035d05dabc0", null ]
+    [ "npc_muglashAI", "d2/d56/a15487.html#af1988703aaaac04e5853c33e5b915ca2", null ],
+    [ "DoAction", "d2/d56/a15487.html#afba6c4441ff4da54f89709b3c2bcd4d4", null ],
+    [ "DoWaveSummon", "d2/d56/a15487.html#aaf862468f5ba0c6f99056a81a472c6e2", null ],
+    [ "JustDied", "d2/d56/a15487.html#a5936dd183091c462e4835a00f81020f5", null ],
+    [ "JustEngagedWith", "d2/d56/a15487.html#a587c8cb4562e93cecccb20e93cabba05", null ],
+    [ "JustSummoned", "d2/d56/a15487.html#a07e451149dbf6b72e01f94dc8f07edf3", null ],
+    [ "Reset", "d2/d56/a15487.html#a98933c32f2550989356b3e876d302b88", null ],
+    [ "sQuestAccept", "d2/d56/a15487.html#a6c93a53a7b8bcd200ebca0e9d366f6fe", null ],
+    [ "UpdateAI", "d2/d56/a15487.html#a6b479f50428536997faef96e510dbd84", null ],
+    [ "WaypointReached", "d2/d56/a15487.html#a8f91b74c0d8778a73e0bc95dce339f2b", null ],
+    [ "_isBrazierExtinguished", "d2/d56/a15487.html#aeec098d6a65b6852598a4e4b6888a410", null ],
+    [ "eventTimer", "d2/d56/a15487.html#a548e142bb509b4606b6fcf98d926cd44", null ],
+    [ "waveId", "d2/d56/a15487.html#a06c0af398e53b5ea6bfd6fa80256f845", null ]
 ];

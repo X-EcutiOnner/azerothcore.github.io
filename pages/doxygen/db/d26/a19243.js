@@ -1,6 +1,9 @@
 var a19243 =
 [
-    [ "ChargeRifts", "db/d26/a19243.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
-    [ "Execute", "db/d26/a19243.html#a8d01bf861d37c25413dc14eee16a2939", null ],
-    [ "_caster", "db/d26/a19243.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
+    [ "boss_grobbulus_poison_cloudAI", "db/d26/a19243.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
+    [ "KilledUnit", "db/d26/a19243.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
+    [ "Reset", "db/d26/a19243.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
+    [ "UpdateAI", "db/d26/a19243.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
+    [ "auraVisualTimer", "db/d26/a19243.html#a74aea4294c26414d3b60983d14d36e31", null ],
+    [ "sizeTimer", "db/d26/a19243.html#a73f775b30ad36a595e0d8532067ba042", null ]
 ];

@@ -1,9 +1,7 @@
 var a22255 =
 [
-    [ "npc_hyldsmeet_protodrakeAI", "dc/d53/a22259.html", "dc/d53/a22259" ],
-    [ "NPCs", "d9/d3f/a22255.html#a8f2ea95c836ba6bab370301fbf3e6822", [
-      [ "NPC_HYLDSMEET_DRAKERIDER", "d9/d3f/a22255.html#a8f2ea95c836ba6bab370301fbf3e6822a1b77c38a75142cff5392a89db3e765df", null ]
-    ] ],
-    [ "npc_hyldsmeet_protodrake", "d9/d3f/a22255.html#a2471f1d858d7ae8f801208e35860a95e", null ],
-    [ "GetAI", "d9/d3f/a22255.html#a791e5cff3901f9a3ec365d4049b82d25", null ]
+    [ "npc_rodin_lightning_enabler", "d9/d3f/a22255.html#ae014b208af7664acd2147663d9338583", null ],
+    [ "Reset", "d9/d3f/a22255.html#ac3ff539380f8fdd5827c6868815b39cc", null ],
+    [ "UpdateAI", "d9/d3f/a22255.html#a5f900d97eec245bf3c27cde5c78b71e3", null ],
+    [ "_scheduler", "d9/d3f/a22255.html#a06434f538bd89d429a329bbd24e5fcdf", null ]
 ];

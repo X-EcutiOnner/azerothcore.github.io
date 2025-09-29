@@ -1,17 +1,16 @@
 var a28651 =
 [
-    [ "TileBuilder", "d2/d95/a28651.html#acf61f0eada3f4cc5e88ef7d36c6d0c36", null ],
-    [ "TileBuilder", "d2/d95/a28651.html#ac7ed1b1c9fdff7fc933fa6029fa9ff9d", null ],
-    [ "~TileBuilder", "d2/d95/a28651.html#a7fabcd86a5679f19ad69e9c69f1d5885", null ],
-    [ "buildMoveMapTile", "d2/d95/a28651.html#add45abc9c1f79f95dae9d7616b100dc0", null ],
-    [ "buildTile", "d2/d95/a28651.html#ab7eca8778fd61ecbfe5f07bba0b38857", null ],
-    [ "shouldSkipTile", "d2/d95/a28651.html#a77ecbab0c34dfe69c414304768b20ea3", null ],
-    [ "WaitCompletion", "d2/d95/a28651.html#ae386f742fed7d2b66bcf3750abf91daf", null ],
-    [ "WorkerThread", "d2/d95/a28651.html#a4c0497cde74883557ec841233376f95c", null ],
-    [ "m_bigBaseUnit", "d2/d95/a28651.html#a5b5313e24c00e58940067d53be93a3de", null ],
-    [ "m_debugOutput", "d2/d95/a28651.html#a4c881a6e6ec66b315f72f84da5c534c2", null ],
-    [ "m_mapBuilder", "d2/d95/a28651.html#aa83fbc484835a6d1a4c7bf6201b46639", null ],
-    [ "m_rcContext", "d2/d95/a28651.html#a160c3ad76146488175c6ae228ad4ef83", null ],
-    [ "m_terrainBuilder", "d2/d95/a28651.html#ade1605fb1b68693516c9fb27f94b278d", null ],
-    [ "m_workerThread", "d2/d95/a28651.html#a4e03cb818b108400737e3a54df24945d", null ]
+    [ "amount", "d2/d95/a28651.html#a3086819447f7ae23bf5697a45cbc6f93", null ],
+    [ "aura_id", "d2/d95/a28651.html#a5866d4e8ce373b6eb9af1d27e2db2c1b", null ],
+    [ "charges", "d2/d95/a28651.html#ade74be0906ef080347ac81ed48379cd1", null ],
+    [ "description", "d2/d95/a28651.html#a7dc66c82551a59750d6294f3503a3dbc", null ],
+    [ "EnchantmentCondition", "d2/d95/a28651.html#a2416afe9ae8371b9d284dd3c176c98d1", null ],
+    [ "GemID", "d2/d95/a28651.html#a324fd42b7184f5c626c33323a4d72b07", null ],
+    [ "ID", "d2/d95/a28651.html#af46fa8808024e75705b812b695bd1590", null ],
+    [ "requiredLevel", "d2/d95/a28651.html#a53bf562ea4dfccb14bfb627c831b477e", null ],
+    [ "requiredSkill", "d2/d95/a28651.html#a6ca7dac0e1f497b3c96887a6c09097bc", null ],
+    [ "requiredSkillValue", "d2/d95/a28651.html#a7a57764dad60c9369826638c1355127e", null ],
+    [ "slot", "d2/d95/a28651.html#af64b13ce2e81d5be7e73763cd5c5e4b8", null ],
+    [ "spellid", "d2/d95/a28651.html#a694edc79cf8ba571338bff2a3aad512d", null ],
+    [ "type", "d2/d95/a28651.html#adb693b7ada8d1a65c1d8091d1055c7bf", null ]
 ];

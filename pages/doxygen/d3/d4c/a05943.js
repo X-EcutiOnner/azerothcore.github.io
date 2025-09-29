@@ -1,6 +1,6 @@
 var a05943 =
 [
-    [ "SavedAddon", "d3/d4c/a05943.html#a6252c2ac491d0ebd9e84556f26cfa8cd", null ],
-    [ "CRC", "d3/d4c/a05943.html#a7d04d21a29aa589429aab0d95172ca95", null ],
-    [ "Name", "d3/d4c/a05943.html#a075de88ce6e643cffb7c5bb55f7b1095", null ]
+    [ "DirectoryEntry", "d3/d4c/a05943.html#a02538aefc1b014b60957d4c67793000f", null ],
+    [ "path", "d3/d4c/a05943.html#aca34dff6659f2da63f31e12bb41cf3d0", null ],
+    [ "state", "d3/d4c/a05943.html#aeddd31e8fbb23e54549e985f09c4ea96", null ]
 ];

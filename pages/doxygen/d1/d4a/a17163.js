@@ -1,5 +1,7 @@
 var a17163 =
 [
-    [ "achievement_less_rabi", "d1/d4a/a17163.html#aee43dd7623f7fecc20a0acb15f342a99", null ],
-    [ "OnCheck", "d1/d4a/a17163.html#a16b200bf93fa2571c8b31359ad7ca151", null ]
+    [ "HandleEffectPeriodic", "d1/d4a/a17163.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
+    [ "PrepareAuraScript", "d1/d4a/a17163.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
+    [ "Register", "d1/d4a/a17163.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
+    [ "Validate", "d1/d4a/a17163.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
 ];

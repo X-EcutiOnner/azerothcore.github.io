@@ -1,8 +1,12 @@
 var a11943 =
 [
-    [ "boss_doomrelAI", "d4/ddd/a11947.html", "d4/ddd/a11947" ],
-    [ "boss_doomrel", "d9/d6c/a11943.html#aee45a59f9a62f1d32a7dc344bd3c46c6", null ],
-    [ "GetAI", "d9/d6c/a11943.html#a1b8a95208506f79c00ed40be2d51eb38", null ],
-    [ "OnGossipHello", "d9/d6c/a11943.html#a3c544ae70c46a62ac7dd2fc5cca97c8b", null ],
-    [ "OnGossipSelect", "d9/d6c/a11943.html#ae430a8fef70bd46267482a70084049c1", null ]
+    [ "wp_commandscript", "d9/d6c/a11943.html#a152610b5faf3ee05bb830bbf820b7162", null ],
+    [ "GetCommands", "d9/d6c/a11943.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
+    [ "HandleWpAddCommand", "d9/d6c/a11943.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
+    [ "HandleWpEventCommand", "d9/d6c/a11943.html#a16fdb79724677307198ccf2fd6aa670d", null ],
+    [ "HandleWpLoadCommand", "d9/d6c/a11943.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
+    [ "HandleWpModifyCommand", "d9/d6c/a11943.html#a83677a6b64c3e5f6e44345026775721a", null ],
+    [ "HandleWpReloadCommand", "d9/d6c/a11943.html#a671598d3727fa7e9358391008c690cb6", null ],
+    [ "HandleWpShowCommand", "d9/d6c/a11943.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
+    [ "HandleWpUnLoadCommand", "d9/d6c/a11943.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
 ];

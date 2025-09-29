@@ -1,7 +1,9 @@
 var a28323 =
 [
-    [ "ClassMask", "da/d59/a28323.html#acae4582c147b5fd95780ae7b55d36fdc", null ],
-    [ "petTalentMask", "da/d59/a28323.html#a22ab1cf8ad05e57d91a63e3876ae2b77", null ],
-    [ "tabpage", "da/d59/a28323.html#aa6389276582adeb4cae76c257734795c", null ],
-    [ "TalentTabID", "da/d59/a28323.html#ae3a71c61223b59185365819164715dc2", null ]
+    [ "HolidayWorldStateId", "da/d59/a28323.html#a3f70ffbb1abb5a96fe91c2eec3682c8b", null ],
+    [ "id", "da/d59/a28323.html#a52f7840f9247d2af63062dd280b37341", null ],
+    [ "mapid", "da/d59/a28323.html#a11e1326eeb24b436b10db53acc323c13", null ],
+    [ "maxGroupSize", "da/d59/a28323.html#adbdae47b424c3b61b76b48ea5798f52d", null ],
+    [ "name", "da/d59/a28323.html#a9a56ca930ff8425d4b77066e47a1e09f", null ],
+    [ "type", "da/d59/a28323.html#a647669b97599d7edf02b5a38dd1d5116", null ]
 ];

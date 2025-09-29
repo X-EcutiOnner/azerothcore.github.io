@@ -1,6 +1,7 @@
 var a26835 =
 [
-    [ "HandleOnHit", "de/dc6/a26835.html#a94893e6dd048f0028540e5ce15ed7b1d", null ],
-    [ "PrepareSpellScript", "de/dc6/a26835.html#a999b019665dec9b0690a1019be428072", null ],
-    [ "Register", "de/dc6/a26835.html#ab21c47d1918a9e29ebe7b041421deaf7", null ]
+    [ "CalculateAmount", "de/dc6/a26835.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
+    [ "Load", "de/dc6/a26835.html#ae2ef0eae77137c120ec61af8698677db", null ],
+    [ "PrepareAuraScript", "de/dc6/a26835.html#acaecc78c031aa436f432fd7145478de4", null ],
+    [ "Register", "de/dc6/a26835.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
 ];

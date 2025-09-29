@@ -1,18 +1,11 @@
 var a03932 =
 [
-    [ "WorldPackets::Misc::Weather", "d2/d3a/a10886.html", "d2/d3a/a10886" ],
-    [ "WorldPackets::Misc::LevelUpInfo", "d9/d36/a10890.html", "d9/d36/a10890" ],
-    [ "WorldPackets::Misc::PlayMusic", "d7/de6/a10894.html", "d7/de6/a10894" ],
-    [ "WorldPackets::Misc::PlayObjectSound", "d2/db6/a10898.html", "d2/db6/a10898" ],
-    [ "WorldPackets::Misc::Playsound", "dd/d6e/a10902.html", "dd/d6e/a10902" ],
-    [ "WorldPackets::Misc::MinimapPingClient", "d4/db9/a10906.html", "d4/db9/a10906" ],
-    [ "WorldPackets::Misc::MinimapPing", "dd/df5/a10910.html", "dd/df5/a10910" ],
-    [ "WorldPackets::Misc::RandomRollClient", "d1/d6c/a10914.html", "d1/d6c/a10914" ],
-    [ "WorldPackets::Misc::RandomRoll", "dd/ddf/a10918.html", "dd/ddf/a10918" ],
-    [ "WorldPackets::Misc::StartMirrorTimer", "d1/db8/a10922.html", "d1/db8/a10922" ],
-    [ "WorldPackets::Misc::PauseMirrorTimer", "d8/d6e/a10926.html", "d8/d6e/a10926" ],
-    [ "WorldPackets::Misc::StopMirrorTimer", "d4/df1/a10930.html", "d4/df1/a10930" ],
-    [ "WorldPackets::Misc::DurabilityDamageDeath", "dd/d3a/a10934.html", "dd/d3a/a10934" ],
-    [ "WorldPackets::Misc::CrossedInebriationThreshold", "d2/dac/a10938.html", "d2/dac/a10938" ],
-    [ "WorldPackets::Misc::UITime", "de/de2/a10942.html", "de/de2/a10942" ]
+    [ "npc_innkeeper", "d6/d8c/a27671.html", "d6/d8c/a27671" ],
+    [ "AddSC_npc_innkeeper", "de/dce/a03932.html#a3ffce1ea6cca981888af85ba67364df9", null ],
+    [ "GOSSIP_MENU", "de/dce/a03932.html#a3115623eb3e0408aad7cd637686aaaee", null ],
+    [ "GOSSIP_MENU_EVENT", "de/dce/a03932.html#a6bb09725b9e6b10b76686a9059038e6b", null ],
+    [ "HALLOWEEN_EVENTID", "de/dce/a03932.html#a2e23760d3d379f3fa92c139f067b5984", null ],
+    [ "SPELL_TREAT", "de/dce/a03932.html#a072a033da374692139d9d33e63be89ca", null ],
+    [ "SPELL_TRICK", "de/dce/a03932.html#ad2b2ba30383cca3be221f38a809e2da1", null ],
+    [ "SPELL_TRICKED_OR_TREATED", "de/dce/a03932.html#a022e344eaf73aa8ab6655d2c6aaac688", null ]
 ];

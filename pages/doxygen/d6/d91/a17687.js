@@ -1,10 +1,7 @@
 var a17687 =
 [
-    [ "npc_cult_adherentAI", "d6/d91/a17687.html#a1ea249a25b188a949213788614f4049e", null ],
-    [ "JustEngagedWith", "d6/d91/a17687.html#ab97e0177fbc9fc7135dc7a7de0e6e31a", null ],
-    [ "Reset", "d6/d91/a17687.html#ab0b54e45468b5ebed0194c441cce434e", null ],
-    [ "SpellHit", "d6/d91/a17687.html#ab0d83d53a7f0d14cb15e133e426f2f02", null ],
-    [ "UpdateAI", "d6/d91/a17687.html#ad89638cf5859615ba2e3a0deb6701751", null ],
-    [ "_instance", "d6/d91/a17687.html#a970e99fba28d6e3e0cb759c87a866273", null ],
-    [ "events", "d6/d91/a17687.html#aa53025d3fe95086dc0c23d5d563df7c4", null ]
+    [ "npc_icc_blood_beastAI", "d6/d91/a17687.html#af52eff9f66451444c5acba6930c1bff6", null ],
+    [ "DoAction", "d6/d91/a17687.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
+    [ "UpdateAI", "d6/d91/a17687.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
+    [ "timer1", "d6/d91/a17687.html#a1074059162f818088808795119f081be", null ]
 ];

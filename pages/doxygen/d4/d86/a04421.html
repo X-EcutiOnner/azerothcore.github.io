@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/AI/CoreAI/PetAI.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Dynamic/TypeContainerFunctions.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,124 +105,144 @@ $(document).ready(function(){initNavTree('d4/d86/a04421.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">PetAI.h File Reference</div></div>
+<a href="#namespaces">Namespaces</a> &#124;
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">TypeContainerFunctions.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">CreatureAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Timer.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Dynamic/TypeList.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d33/a06154.html">PetAI</a></td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:dd/df4/a04800"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html">Acore</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a22fe79e956db2d74e141a56fef6d1cff"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cff">SpecialPets</a> { <br />
-&#160;&#160;<a class="el" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffab9abb8f92c8fdad08f49606aafda6896">ENTRY_IMP</a> = 416
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa8ef9e2169f6035568dc57b89cb823cd5">ENTRY_WATER_ELEMENTAL</a> = 510
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa2cec2788a794b1b4d9559fb23d4a5a99">ENTRY_WATER_ELEMENTAL_PERM</a> = 37994
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffaa00bd8f04ba86fd6ec18af50421dcf1c">IMP_FIREBOLT_RANK_1</a> = 3110
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa641520548259a83c82be403219e71406">IMP_FIREBOLT_RANK_2</a> = 7799
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffad5d762472639e0c0e4c4e12facf8cab6">IMP_FIREBOLT_RANK_3</a> = 7800
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa7eccd511642f2e5d0537d5059511aba7">IMP_FIREBOLT_RANK_4</a> = 7801
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffaf3a0d7d7c4554f335bec7b31ac1821ac">IMP_FIREBOLT_RANK_5</a> = 7802
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa6741051a9b4416d85efce89c68ebd2c5">IMP_FIREBOLT_RANK_6</a> = 11762
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa789304c4db65564436821950d063de7a">IMP_FIREBOLT_RANK_7</a> = 11763
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffaeda3e66d9782a330597fe42f0babfb25">IMP_FIREBOLT_RANK_8</a> = 27267
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffab0b0d7d2597750db196c82204e5fa948">IMP_FIREBOLT_RANK_9</a> = 47964
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa1afbd4a095d65be61fa03e05a1c49e1d">WATER_ELEMENTAL_WATERBOLT_1</a> = 31707
-, <br />
-&#160;&#160;<a class="el" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa5d7df8261631aa8076f63045a79896e1">WATER_ELEMENTAL_WATERBOLT_2</a> = 72898
-<br />
- }</td></tr>
-<tr class="separator:a22fe79e956db2d74e141a56fef6d1cff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:aa25dd64d4a28b7d93e2c8bf4cf93d888"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE &gt; </td></tr>
+<tr class="memitem:aa25dd64d4a28b7d93e2c8bf4cf93d888"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#aa25dd64d4a28b7d93e2c8bf4cf93d888">Acore::Insert</a> (<a class="el" href="../../da/d6b/a05303.html">ContainerUnorderedMap</a>&lt; SPECIFIC_TYPE, KEY_TYPE &gt; &amp;elements, KEY_TYPE const &amp;handle, SPECIFIC_TYPE *obj)</td></tr>
+<tr class="separator:aa25dd64d4a28b7d93e2c8bf4cf93d888"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adc541838e8b1ccc593ef03b3a8be6b20"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE &gt; </td></tr>
+<tr class="memitem:adc541838e8b1ccc593ef03b3a8be6b20"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#adc541838e8b1ccc593ef03b3a8be6b20">Acore::Insert</a> (<a class="el" href="../../da/d6b/a05303.html">ContainerUnorderedMap</a>&lt; TypeNull, KEY_TYPE &gt; &amp;, KEY_TYPE const &amp;, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:adc541838e8b1ccc593ef03b3a8be6b20"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a826d2d5fc544299a171fc4d192b13b70"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE , class T &gt; </td></tr>
+<tr class="memitem:a826d2d5fc544299a171fc4d192b13b70"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#a826d2d5fc544299a171fc4d192b13b70">Acore::Insert</a> (<a class="el" href="../../da/d6b/a05303.html">ContainerUnorderedMap</a>&lt; T, KEY_TYPE &gt; &amp;, KEY_TYPE const &amp;, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:a826d2d5fc544299a171fc4d192b13b70"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:affed0a39c687fd0d71e1838f7d91d106"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE , class H , class T &gt; </td></tr>
+<tr class="memitem:affed0a39c687fd0d71e1838f7d91d106"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#affed0a39c687fd0d71e1838f7d91d106">Acore::Insert</a> (<a class="el" href="../../da/d6b/a05303.html">ContainerUnorderedMap</a>&lt; <a class="el" href="../../dd/dd5/a05343.html">TypeList</a>&lt; H, T &gt;, KEY_TYPE &gt; &amp;elements, KEY_TYPE const &amp;handle, SPECIFIC_TYPE *obj)</td></tr>
+<tr class="separator:affed0a39c687fd0d71e1838f7d91d106"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab54306147e78491102a30b754f9add91"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE &gt; </td></tr>
+<tr class="memitem:ab54306147e78491102a30b754f9add91"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#ab54306147e78491102a30b754f9add91">Acore::Find</a> (<a class="el" href="../../da/d6b/a05303.html">ContainerUnorderedMap</a>&lt; SPECIFIC_TYPE, KEY_TYPE &gt; const &amp;elements, KEY_TYPE const &amp;handle, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:ab54306147e78491102a30b754f9add91"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a339e193b2696d368e3fd5ba8ac348ba9"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE &gt; </td></tr>
+<tr class="memitem:a339e193b2696d368e3fd5ba8ac348ba9"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#a339e193b2696d368e3fd5ba8ac348ba9">Acore::Find</a> (<a class="el" href="../../da/d6b/a05303.html">ContainerUnorderedMap</a>&lt; TypeNull, KEY_TYPE &gt; const &amp;, KEY_TYPE const &amp;, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:a339e193b2696d368e3fd5ba8ac348ba9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c90455877023c17b2305a358a1e8e05"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE , class T &gt; </td></tr>
+<tr class="memitem:a3c90455877023c17b2305a358a1e8e05"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#a3c90455877023c17b2305a358a1e8e05">Acore::Find</a> (<a class="el" href="../../da/d6b/a05303.html">ContainerUnorderedMap</a>&lt; T, KEY_TYPE &gt; const &amp;, KEY_TYPE const &amp;, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:a3c90455877023c17b2305a358a1e8e05"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6c4691a788e1b4403de11caa6a13222d"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE , class H , class T &gt; </td></tr>
+<tr class="memitem:a6c4691a788e1b4403de11caa6a13222d"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#a6c4691a788e1b4403de11caa6a13222d">Acore::Find</a> (<a class="el" href="../../da/d6b/a05303.html">ContainerUnorderedMap</a>&lt; <a class="el" href="../../dd/dd5/a05343.html">TypeList</a>&lt; H, T &gt;, KEY_TYPE &gt; const &amp;elements, KEY_TYPE const &amp;handle, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:a6c4691a788e1b4403de11caa6a13222d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac6cb156df4b425a40366655daf1ba776"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE &gt; </td></tr>
+<tr class="memitem:ac6cb156df4b425a40366655daf1ba776"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#ac6cb156df4b425a40366655daf1ba776">Acore::Remove</a> (<a class="el" href="../../da/d6b/a05303.html">ContainerUnorderedMap</a>&lt; SPECIFIC_TYPE, KEY_TYPE &gt; &amp;elements, KEY_TYPE const &amp;handle, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:ac6cb156df4b425a40366655daf1ba776"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2858d11acb15c35a59d35c9bb163d7c6"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE &gt; </td></tr>
+<tr class="memitem:a2858d11acb15c35a59d35c9bb163d7c6"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#a2858d11acb15c35a59d35c9bb163d7c6">Acore::Remove</a> (<a class="el" href="../../da/d6b/a05303.html">ContainerUnorderedMap</a>&lt; TypeNull, KEY_TYPE &gt; &amp;, KEY_TYPE const &amp;, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:a2858d11acb15c35a59d35c9bb163d7c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afe44e70d4fae1d3c112291bd985e82b1"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE , class T &gt; </td></tr>
+<tr class="memitem:afe44e70d4fae1d3c112291bd985e82b1"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#afe44e70d4fae1d3c112291bd985e82b1">Acore::Remove</a> (<a class="el" href="../../da/d6b/a05303.html">ContainerUnorderedMap</a>&lt; T, KEY_TYPE &gt; &amp;, KEY_TYPE const &amp;, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:afe44e70d4fae1d3c112291bd985e82b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab412b2504203d71c6f46869b32a4a5ef"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE , class H , class T &gt; </td></tr>
+<tr class="memitem:ab412b2504203d71c6f46869b32a4a5ef"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#ab412b2504203d71c6f46869b32a4a5ef">Acore::Remove</a> (<a class="el" href="../../da/d6b/a05303.html">ContainerUnorderedMap</a>&lt; <a class="el" href="../../dd/dd5/a05343.html">TypeList</a>&lt; H, T &gt;, KEY_TYPE &gt; &amp;elements, KEY_TYPE const &amp;handle, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:ab412b2504203d71c6f46869b32a4a5ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5161a06285195a661d1f827f51265471"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE &gt; </td></tr>
+<tr class="memitem:a5161a06285195a661d1f827f51265471"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#a5161a06285195a661d1f827f51265471">Acore::Size</a> (<a class="el" href="../../da/d6b/a05303.html">ContainerUnorderedMap</a>&lt; SPECIFIC_TYPE, KEY_TYPE &gt; const &amp;elements, std::size_t *size, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:a5161a06285195a661d1f827f51265471"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7eb6517212935878abc51faf4bcca654"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE &gt; </td></tr>
+<tr class="memitem:a7eb6517212935878abc51faf4bcca654"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#a7eb6517212935878abc51faf4bcca654">Acore::Size</a> (<a class="el" href="../../da/d6b/a05303.html">ContainerUnorderedMap</a>&lt; TypeNull, KEY_TYPE &gt; const &amp;, std::size_t *, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:a7eb6517212935878abc51faf4bcca654"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa0fbdf0f576bf824c7502b6254a7e6f5"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE , class T &gt; </td></tr>
+<tr class="memitem:aa0fbdf0f576bf824c7502b6254a7e6f5"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#aa0fbdf0f576bf824c7502b6254a7e6f5">Acore::Size</a> (<a class="el" href="../../da/d6b/a05303.html">ContainerUnorderedMap</a>&lt; T, KEY_TYPE &gt; const &amp;, std::size_t *, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:aa0fbdf0f576bf824c7502b6254a7e6f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33dad9e8e49e78c8486f2a91b49c0984"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class KEY_TYPE , class H , class T &gt; </td></tr>
+<tr class="memitem:a33dad9e8e49e78c8486f2a91b49c0984"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#a33dad9e8e49e78c8486f2a91b49c0984">Acore::Size</a> (<a class="el" href="../../da/d6b/a05303.html">ContainerUnorderedMap</a>&lt; <a class="el" href="../../dd/dd5/a05343.html">TypeList</a>&lt; H, T &gt;, KEY_TYPE &gt; const &amp;elements, std::size_t *size, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:a33dad9e8e49e78c8486f2a91b49c0984"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2d87541d6d2eceb7467b09f7fa5bd51b"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE &gt; </td></tr>
+<tr class="memitem:a2d87541d6d2eceb7467b09f7fa5bd51b"><td class="memTemplItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#a2d87541d6d2eceb7467b09f7fa5bd51b">Acore::Count</a> (const <a class="el" href="../../d5/d60/a05279.html">ContainerMapList</a>&lt; SPECIFIC_TYPE &gt; &amp;elements, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:a2d87541d6d2eceb7467b09f7fa5bd51b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a31fef0ae214e75ee3251ee75539b5933"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE &gt; </td></tr>
+<tr class="memitem:a31fef0ae214e75ee3251ee75539b5933"><td class="memTemplItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#a31fef0ae214e75ee3251ee75539b5933">Acore::Count</a> (const <a class="el" href="../../d5/d60/a05279.html">ContainerMapList</a>&lt; TypeNull &gt; &amp;, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:a31fef0ae214e75ee3251ee75539b5933"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aca0eb3f176889f6cc837d75915f5d668"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class T &gt; </td></tr>
+<tr class="memitem:aca0eb3f176889f6cc837d75915f5d668"><td class="memTemplItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#aca0eb3f176889f6cc837d75915f5d668">Acore::Count</a> (const <a class="el" href="../../d5/d60/a05279.html">ContainerMapList</a>&lt; T &gt; &amp;, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:aca0eb3f176889f6cc837d75915f5d668"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abce75cbdcbf4a58be36bf161fe79f9c0"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class T &gt; </td></tr>
+<tr class="memitem:abce75cbdcbf4a58be36bf161fe79f9c0"><td class="memTemplItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#abce75cbdcbf4a58be36bf161fe79f9c0">Acore::Count</a> (const <a class="el" href="../../d5/d60/a05279.html">ContainerMapList</a>&lt; <a class="el" href="../../dd/dd5/a05343.html">TypeList</a>&lt; SPECIFIC_TYPE, T &gt; &gt; &amp;elements, SPECIFIC_TYPE *fake)</td></tr>
+<tr class="separator:abce75cbdcbf4a58be36bf161fe79f9c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9e588c84ac0874cf6273cffcc353bd8c"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class H , class T &gt; </td></tr>
+<tr class="memitem:a9e588c84ac0874cf6273cffcc353bd8c"><td class="memTemplItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#a9e588c84ac0874cf6273cffcc353bd8c">Acore::Count</a> (const <a class="el" href="../../d5/d60/a05279.html">ContainerMapList</a>&lt; <a class="el" href="../../dd/dd5/a05343.html">TypeList</a>&lt; H, T &gt; &gt; &amp;elements, SPECIFIC_TYPE *fake)</td></tr>
+<tr class="separator:a9e588c84ac0874cf6273cffcc353bd8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5f6cfb84d3b9010f1cccee55575aeb8f"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE &gt; </td></tr>
+<tr class="memitem:a5f6cfb84d3b9010f1cccee55575aeb8f"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#a5f6cfb84d3b9010f1cccee55575aeb8f">Acore::Insert</a> (<a class="el" href="../../d5/d60/a05279.html">ContainerMapList</a>&lt; SPECIFIC_TYPE &gt; &amp;elements, SPECIFIC_TYPE *obj)</td></tr>
+<tr class="separator:a5f6cfb84d3b9010f1cccee55575aeb8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a808ff1ee05e1b5c2775ccb20325a5b2e"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE &gt; </td></tr>
+<tr class="memitem:a808ff1ee05e1b5c2775ccb20325a5b2e"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#a808ff1ee05e1b5c2775ccb20325a5b2e">Acore::Insert</a> (<a class="el" href="../../d5/d60/a05279.html">ContainerMapList</a>&lt; TypeNull &gt; &amp;, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:a808ff1ee05e1b5c2775ccb20325a5b2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9ef193f0c3493fdaeeaa5b0816714d1c"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class T &gt; </td></tr>
+<tr class="memitem:a9ef193f0c3493fdaeeaa5b0816714d1c"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#a9ef193f0c3493fdaeeaa5b0816714d1c">Acore::Insert</a> (<a class="el" href="../../d5/d60/a05279.html">ContainerMapList</a>&lt; T &gt; &amp;, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:a9ef193f0c3493fdaeeaa5b0816714d1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aace2fb0f6527ad522bb0604bfd39afaf"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class H , class T &gt; </td></tr>
+<tr class="memitem:aace2fb0f6527ad522bb0604bfd39afaf"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#aace2fb0f6527ad522bb0604bfd39afaf">Acore::Insert</a> (<a class="el" href="../../d5/d60/a05279.html">ContainerMapList</a>&lt; <a class="el" href="../../dd/dd5/a05343.html">TypeList</a>&lt; H, T &gt; &gt; &amp;elements, SPECIFIC_TYPE *obj)</td></tr>
+<tr class="separator:aace2fb0f6527ad522bb0604bfd39afaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad2c7789743eaa5306eb013742554c7f2"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE &gt; </td></tr>
+<tr class="memitem:ad2c7789743eaa5306eb013742554c7f2"><td class="memTemplItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#ad2c7789743eaa5306eb013742554c7f2">Acore::Count</a> (const <a class="el" href="../../d8/dbd/a05291.html">ContainerVector</a>&lt; SPECIFIC_TYPE &gt; &amp;elements, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:ad2c7789743eaa5306eb013742554c7f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a23d44353dd3c841732757641fcb39a57"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE &gt; </td></tr>
+<tr class="memitem:a23d44353dd3c841732757641fcb39a57"><td class="memTemplItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#a23d44353dd3c841732757641fcb39a57">Acore::Count</a> (const <a class="el" href="../../d8/dbd/a05291.html">ContainerVector</a>&lt; TypeNull &gt; &amp;, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:a23d44353dd3c841732757641fcb39a57"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa362ed4da0be77c32af1ead025d2b79d"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class T &gt; </td></tr>
+<tr class="memitem:aa362ed4da0be77c32af1ead025d2b79d"><td class="memTemplItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#aa362ed4da0be77c32af1ead025d2b79d">Acore::Count</a> (const <a class="el" href="../../d8/dbd/a05291.html">ContainerVector</a>&lt; T &gt; &amp;, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:aa362ed4da0be77c32af1ead025d2b79d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3a037512e9797c04705502307818fe99"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class T &gt; </td></tr>
+<tr class="memitem:a3a037512e9797c04705502307818fe99"><td class="memTemplItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#a3a037512e9797c04705502307818fe99">Acore::Count</a> (const <a class="el" href="../../d8/dbd/a05291.html">ContainerVector</a>&lt; <a class="el" href="../../dd/dd5/a05343.html">TypeList</a>&lt; SPECIFIC_TYPE, T &gt; &gt; &amp;elements, SPECIFIC_TYPE *fake)</td></tr>
+<tr class="separator:a3a037512e9797c04705502307818fe99"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a73118cbbcd3fd66f74bcef7972f0e244"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class H , class T &gt; </td></tr>
+<tr class="memitem:a73118cbbcd3fd66f74bcef7972f0e244"><td class="memTemplItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#a73118cbbcd3fd66f74bcef7972f0e244">Acore::Count</a> (const <a class="el" href="../../d8/dbd/a05291.html">ContainerVector</a>&lt; <a class="el" href="../../dd/dd5/a05343.html">TypeList</a>&lt; H, T &gt; &gt; &amp;elements, SPECIFIC_TYPE *fake)</td></tr>
+<tr class="separator:a73118cbbcd3fd66f74bcef7972f0e244"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a147c85d657bf3888005b70bd5c3f0023"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE &gt; </td></tr>
+<tr class="memitem:a147c85d657bf3888005b70bd5c3f0023"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#a147c85d657bf3888005b70bd5c3f0023">Acore::Insert</a> (<a class="el" href="../../d8/dbd/a05291.html">ContainerVector</a>&lt; SPECIFIC_TYPE &gt; &amp;elements, SPECIFIC_TYPE *obj)</td></tr>
+<tr class="separator:a147c85d657bf3888005b70bd5c3f0023"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abe75d0f25949e80d5b51da03acf71f63"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE &gt; </td></tr>
+<tr class="memitem:abe75d0f25949e80d5b51da03acf71f63"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#abe75d0f25949e80d5b51da03acf71f63">Acore::Insert</a> (<a class="el" href="../../d8/dbd/a05291.html">ContainerVector</a>&lt; TypeNull &gt; &amp;, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:abe75d0f25949e80d5b51da03acf71f63"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade19eac2685b8c22644d1bbf082cc4af"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class T &gt; </td></tr>
+<tr class="memitem:ade19eac2685b8c22644d1bbf082cc4af"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#ade19eac2685b8c22644d1bbf082cc4af">Acore::Insert</a> (<a class="el" href="../../d8/dbd/a05291.html">ContainerVector</a>&lt; T &gt; &amp;, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:ade19eac2685b8c22644d1bbf082cc4af"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aad11d3ae8df8f5c95f05dcf291d5640c"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class H , class T &gt; </td></tr>
+<tr class="memitem:aad11d3ae8df8f5c95f05dcf291d5640c"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#aad11d3ae8df8f5c95f05dcf291d5640c">Acore::Insert</a> (<a class="el" href="../../d8/dbd/a05291.html">ContainerVector</a>&lt; <a class="el" href="../../dd/dd5/a05343.html">TypeList</a>&lt; H, T &gt; &gt; &amp;elements, SPECIFIC_TYPE *obj)</td></tr>
+<tr class="separator:aad11d3ae8df8f5c95f05dcf291d5640c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1ebefc8a9ef67b2b479d58a62b067ce7"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE &gt; </td></tr>
+<tr class="memitem:a1ebefc8a9ef67b2b479d58a62b067ce7"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#a1ebefc8a9ef67b2b479d58a62b067ce7">Acore::Remove</a> (<a class="el" href="../../d8/dbd/a05291.html">ContainerVector</a>&lt; SPECIFIC_TYPE &gt; &amp;elements, SPECIFIC_TYPE *obj)</td></tr>
+<tr class="separator:a1ebefc8a9ef67b2b479d58a62b067ce7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab9dd42a824e7e453b99fa89a888c82f9"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE &gt; </td></tr>
+<tr class="memitem:ab9dd42a824e7e453b99fa89a888c82f9"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#ab9dd42a824e7e453b99fa89a888c82f9">Acore::Remove</a> (<a class="el" href="../../d8/dbd/a05291.html">ContainerVector</a>&lt; TypeNull &gt; &amp;, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:ab9dd42a824e7e453b99fa89a888c82f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a35e02be24dcc816ed590cfd782fba6cd"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class T &gt; </td></tr>
+<tr class="memitem:a35e02be24dcc816ed590cfd782fba6cd"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#a35e02be24dcc816ed590cfd782fba6cd">Acore::Remove</a> (<a class="el" href="../../d8/dbd/a05291.html">ContainerVector</a>&lt; T &gt; &amp;, SPECIFIC_TYPE *)</td></tr>
+<tr class="separator:a35e02be24dcc816ed590cfd782fba6cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af0ee89a4ae791fe4ce68f39979e9e5d5"><td class="memTemplParams" colspan="2">template&lt;class SPECIFIC_TYPE , class T , class H &gt; </td></tr>
+<tr class="memitem:af0ee89a4ae791fe4ce68f39979e9e5d5"><td class="memTemplItemLeft" align="right" valign="top">SPECIFIC_TYPE *&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html#af0ee89a4ae791fe4ce68f39979e9e5d5">Acore::Remove</a> (<a class="el" href="../../d8/dbd/a05291.html">ContainerVector</a>&lt; <a class="el" href="../../dd/dd5/a05343.html">TypeList</a>&lt; H, T &gt; &gt; &amp;elements, SPECIFIC_TYPE *obj)</td></tr>
+<tr class="separator:af0ee89a4ae791fe4ce68f39979e9e5d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a22fe79e956db2d74e141a56fef6d1cff" name="a22fe79e956db2d74e141a56fef6d1cff"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a22fe79e956db2d74e141a56fef6d1cff">&#9670;&#160;</a></span>SpecialPets</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cff">SpecialPets</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a22fe79e956db2d74e141a56fef6d1cffab9abb8f92c8fdad08f49606aafda6896" name="a22fe79e956db2d74e141a56fef6d1cffab9abb8f92c8fdad08f49606aafda6896"></a>ENTRY_IMP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a22fe79e956db2d74e141a56fef6d1cffa8ef9e2169f6035568dc57b89cb823cd5" name="a22fe79e956db2d74e141a56fef6d1cffa8ef9e2169f6035568dc57b89cb823cd5"></a>ENTRY_WATER_ELEMENTAL&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a22fe79e956db2d74e141a56fef6d1cffa2cec2788a794b1b4d9559fb23d4a5a99" name="a22fe79e956db2d74e141a56fef6d1cffa2cec2788a794b1b4d9559fb23d4a5a99"></a>ENTRY_WATER_ELEMENTAL_PERM&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a22fe79e956db2d74e141a56fef6d1cffaa00bd8f04ba86fd6ec18af50421dcf1c" name="a22fe79e956db2d74e141a56fef6d1cffaa00bd8f04ba86fd6ec18af50421dcf1c"></a>IMP_FIREBOLT_RANK_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a22fe79e956db2d74e141a56fef6d1cffa641520548259a83c82be403219e71406" name="a22fe79e956db2d74e141a56fef6d1cffa641520548259a83c82be403219e71406"></a>IMP_FIREBOLT_RANK_2&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a22fe79e956db2d74e141a56fef6d1cffad5d762472639e0c0e4c4e12facf8cab6" name="a22fe79e956db2d74e141a56fef6d1cffad5d762472639e0c0e4c4e12facf8cab6"></a>IMP_FIREBOLT_RANK_3&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a22fe79e956db2d74e141a56fef6d1cffa7eccd511642f2e5d0537d5059511aba7" name="a22fe79e956db2d74e141a56fef6d1cffa7eccd511642f2e5d0537d5059511aba7"></a>IMP_FIREBOLT_RANK_4&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a22fe79e956db2d74e141a56fef6d1cffaf3a0d7d7c4554f335bec7b31ac1821ac" name="a22fe79e956db2d74e141a56fef6d1cffaf3a0d7d7c4554f335bec7b31ac1821ac"></a>IMP_FIREBOLT_RANK_5&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a22fe79e956db2d74e141a56fef6d1cffa6741051a9b4416d85efce89c68ebd2c5" name="a22fe79e956db2d74e141a56fef6d1cffa6741051a9b4416d85efce89c68ebd2c5"></a>IMP_FIREBOLT_RANK_6&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a22fe79e956db2d74e141a56fef6d1cffa789304c4db65564436821950d063de7a" name="a22fe79e956db2d74e141a56fef6d1cffa789304c4db65564436821950d063de7a"></a>IMP_FIREBOLT_RANK_7&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a22fe79e956db2d74e141a56fef6d1cffaeda3e66d9782a330597fe42f0babfb25" name="a22fe79e956db2d74e141a56fef6d1cffaeda3e66d9782a330597fe42f0babfb25"></a>IMP_FIREBOLT_RANK_8&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a22fe79e956db2d74e141a56fef6d1cffab0b0d7d2597750db196c82204e5fa948" name="a22fe79e956db2d74e141a56fef6d1cffab0b0d7d2597750db196c82204e5fa948"></a>IMP_FIREBOLT_RANK_9&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a22fe79e956db2d74e141a56fef6d1cffa1afbd4a095d65be61fa03e05a1c49e1d" name="a22fe79e956db2d74e141a56fef6d1cffa1afbd4a095d65be61fa03e05a1c49e1d"></a>WATER_ELEMENTAL_WATERBOLT_1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a22fe79e956db2d74e141a56fef6d1cffa5d7df8261631aa8076f63045a79896e1" name="a22fe79e956db2d74e141a56fef6d1cffa5d7df8261631aa8076f63045a79896e1"></a>WATER_ELEMENTAL_WATERBOLT_2&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   28</span>{</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffab9abb8f92c8fdad08f49606aafda6896">ENTRY_IMP</a>                   =   416,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa8ef9e2169f6035568dc57b89cb823cd5">ENTRY_WATER_ELEMENTAL</a>       =   510,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa2cec2788a794b1b4d9559fb23d4a5a99">ENTRY_WATER_ELEMENTAL_PERM</a>  = 37994,</div>
-<div class="line"><span class="lineno">   32</span> </div>
-<div class="line"><span class="lineno">   33</span>    <a class="code hl_enumvalue" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffaa00bd8f04ba86fd6ec18af50421dcf1c">IMP_FIREBOLT_RANK_1</a>         =  3110,</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa641520548259a83c82be403219e71406">IMP_FIREBOLT_RANK_2</a>         =  7799,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffad5d762472639e0c0e4c4e12facf8cab6">IMP_FIREBOLT_RANK_3</a>         =  7800,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa7eccd511642f2e5d0537d5059511aba7">IMP_FIREBOLT_RANK_4</a>         =  7801,</div>
-<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffaf3a0d7d7c4554f335bec7b31ac1821ac">IMP_FIREBOLT_RANK_5</a>         =  7802,</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa6741051a9b4416d85efce89c68ebd2c5">IMP_FIREBOLT_RANK_6</a>         = 11762,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa789304c4db65564436821950d063de7a">IMP_FIREBOLT_RANK_7</a>         = 11763,</div>
-<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffaeda3e66d9782a330597fe42f0babfb25">IMP_FIREBOLT_RANK_8</a>         = 27267,</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffab0b0d7d2597750db196c82204e5fa948">IMP_FIREBOLT_RANK_9</a>         = 47964,</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa1afbd4a095d65be61fa03e05a1c49e1d">WATER_ELEMENTAL_WATERBOLT_1</a> = 31707,</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa5d7df8261631aa8076f63045a79896e1">WATER_ELEMENTAL_WATERBOLT_2</a> = 72898</div>
-<div class="line"><span class="lineno">   44</span>};</div>
-<div class="ttc" id="aa04421_html_a22fe79e956db2d74e141a56fef6d1cffa1afbd4a095d65be61fa03e05a1c49e1d"><div class="ttname"><a href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa1afbd4a095d65be61fa03e05a1c49e1d">WATER_ELEMENTAL_WATERBOLT_1</a></div><div class="ttdeci">@ WATER_ELEMENTAL_WATERBOLT_1</div><div class="ttdef"><b>Definition:</b> PetAI.h:42</div></div>
-<div class="ttc" id="aa04421_html_a22fe79e956db2d74e141a56fef6d1cffa2cec2788a794b1b4d9559fb23d4a5a99"><div class="ttname"><a href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa2cec2788a794b1b4d9559fb23d4a5a99">ENTRY_WATER_ELEMENTAL_PERM</a></div><div class="ttdeci">@ ENTRY_WATER_ELEMENTAL_PERM</div><div class="ttdef"><b>Definition:</b> PetAI.h:31</div></div>
-<div class="ttc" id="aa04421_html_a22fe79e956db2d74e141a56fef6d1cffa5d7df8261631aa8076f63045a79896e1"><div class="ttname"><a href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa5d7df8261631aa8076f63045a79896e1">WATER_ELEMENTAL_WATERBOLT_2</a></div><div class="ttdeci">@ WATER_ELEMENTAL_WATERBOLT_2</div><div class="ttdef"><b>Definition:</b> PetAI.h:43</div></div>
-<div class="ttc" id="aa04421_html_a22fe79e956db2d74e141a56fef6d1cffa641520548259a83c82be403219e71406"><div class="ttname"><a href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa641520548259a83c82be403219e71406">IMP_FIREBOLT_RANK_2</a></div><div class="ttdeci">@ IMP_FIREBOLT_RANK_2</div><div class="ttdef"><b>Definition:</b> PetAI.h:34</div></div>
-<div class="ttc" id="aa04421_html_a22fe79e956db2d74e141a56fef6d1cffa6741051a9b4416d85efce89c68ebd2c5"><div class="ttname"><a href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa6741051a9b4416d85efce89c68ebd2c5">IMP_FIREBOLT_RANK_6</a></div><div class="ttdeci">@ IMP_FIREBOLT_RANK_6</div><div class="ttdef"><b>Definition:</b> PetAI.h:38</div></div>
-<div class="ttc" id="aa04421_html_a22fe79e956db2d74e141a56fef6d1cffa789304c4db65564436821950d063de7a"><div class="ttname"><a href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa789304c4db65564436821950d063de7a">IMP_FIREBOLT_RANK_7</a></div><div class="ttdeci">@ IMP_FIREBOLT_RANK_7</div><div class="ttdef"><b>Definition:</b> PetAI.h:39</div></div>
-<div class="ttc" id="aa04421_html_a22fe79e956db2d74e141a56fef6d1cffa7eccd511642f2e5d0537d5059511aba7"><div class="ttname"><a href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa7eccd511642f2e5d0537d5059511aba7">IMP_FIREBOLT_RANK_4</a></div><div class="ttdeci">@ IMP_FIREBOLT_RANK_4</div><div class="ttdef"><b>Definition:</b> PetAI.h:36</div></div>
-<div class="ttc" id="aa04421_html_a22fe79e956db2d74e141a56fef6d1cffa8ef9e2169f6035568dc57b89cb823cd5"><div class="ttname"><a href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffa8ef9e2169f6035568dc57b89cb823cd5">ENTRY_WATER_ELEMENTAL</a></div><div class="ttdeci">@ ENTRY_WATER_ELEMENTAL</div><div class="ttdef"><b>Definition:</b> PetAI.h:30</div></div>
-<div class="ttc" id="aa04421_html_a22fe79e956db2d74e141a56fef6d1cffaa00bd8f04ba86fd6ec18af50421dcf1c"><div class="ttname"><a href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffaa00bd8f04ba86fd6ec18af50421dcf1c">IMP_FIREBOLT_RANK_1</a></div><div class="ttdeci">@ IMP_FIREBOLT_RANK_1</div><div class="ttdef"><b>Definition:</b> PetAI.h:33</div></div>
-<div class="ttc" id="aa04421_html_a22fe79e956db2d74e141a56fef6d1cffab0b0d7d2597750db196c82204e5fa948"><div class="ttname"><a href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffab0b0d7d2597750db196c82204e5fa948">IMP_FIREBOLT_RANK_9</a></div><div class="ttdeci">@ IMP_FIREBOLT_RANK_9</div><div class="ttdef"><b>Definition:</b> PetAI.h:41</div></div>
-<div class="ttc" id="aa04421_html_a22fe79e956db2d74e141a56fef6d1cffab9abb8f92c8fdad08f49606aafda6896"><div class="ttname"><a href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffab9abb8f92c8fdad08f49606aafda6896">ENTRY_IMP</a></div><div class="ttdeci">@ ENTRY_IMP</div><div class="ttdef"><b>Definition:</b> PetAI.h:29</div></div>
-<div class="ttc" id="aa04421_html_a22fe79e956db2d74e141a56fef6d1cffad5d762472639e0c0e4c4e12facf8cab6"><div class="ttname"><a href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffad5d762472639e0c0e4c4e12facf8cab6">IMP_FIREBOLT_RANK_3</a></div><div class="ttdeci">@ IMP_FIREBOLT_RANK_3</div><div class="ttdef"><b>Definition:</b> PetAI.h:35</div></div>
-<div class="ttc" id="aa04421_html_a22fe79e956db2d74e141a56fef6d1cffaeda3e66d9782a330597fe42f0babfb25"><div class="ttname"><a href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffaeda3e66d9782a330597fe42f0babfb25">IMP_FIREBOLT_RANK_8</a></div><div class="ttdeci">@ IMP_FIREBOLT_RANK_8</div><div class="ttdef"><b>Definition:</b> PetAI.h:40</div></div>
-<div class="ttc" id="aa04421_html_a22fe79e956db2d74e141a56fef6d1cffaf3a0d7d7c4554f335bec7b31ac1821ac"><div class="ttname"><a href="../../d4/d86/a04421.html#a22fe79e956db2d74e141a56fef6d1cffaf3a0d7d7c4554f335bec7b31ac1821ac">IMP_FIREBOLT_RANK_5</a></div><div class="ttdeci">@ IMP_FIREBOLT_RANK_5</div><div class="ttdef"><b>Definition:</b> PetAI.h:37</div></div>
-</div><!-- fragment -->
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_5e5741f7891ede41bef7ecc492194021.html">AI</a></li><li class="navelem"><a class="el" href="../../dir_89e5b46313b1092bbe526cf6db8e9dcb.html">CoreAI</a></li><li class="navelem"><a class="el" href="../../d4/d86/a04421.html">PetAI.h</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:44:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_5e90094e25781d2f0c122fad038cf6ce.html">Dynamic</a></li><li class="navelem"><a class="el" href="../../d4/d86/a04421.html">TypeContainerFunctions.h</a></li>
+    <li class="footer">Generated on Mon Sep 29 2025 20:45:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

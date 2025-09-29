@@ -1,8 +1,8 @@
 var a09475 =
 [
-    [ "flags", "d0/d76/a09475.html#a7ecce103d428ed7f91aa12fa5547561c", null ],
-    [ "group", "d0/d76/a09475.html#a0902606d44c8baa1a20b5b2cdd9b4787", null ],
-    [ "guid", "d0/d76/a09475.html#a97a20b4ccf1978165a5f5c7ff4ffb2b4", null ],
-    [ "name", "d0/d76/a09475.html#ab0719bb9805048b58a3e4c75e09d1ee7", null ],
-    [ "roles", "d0/d76/a09475.html#a2109aae0b3ebf74b065b97cc929c2954", null ]
+    [ "AllGameObjectsMatchingOneEntryInRange", "d0/d76/a09475.html#ad64e96c8484be1354ad4a3c0b6754d95", null ],
+    [ "operator()", "d0/d76/a09475.html#afc81f329be9d6d8eb8bfd2ade94c5665", null ],
+    [ "m_fRange", "d0/d76/a09475.html#aa76b1a6c8a919c1e5b37c74b33859464", null ],
+    [ "m_pObject", "d0/d76/a09475.html#ac2bae147199d0b1b592a560017128c4e", null ],
+    [ "m_uiEntries", "d0/d76/a09475.html#a3eb95fd72147ab8195da44a46c2cf0e6", null ]
 ];

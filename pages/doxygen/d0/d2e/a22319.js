@@ -1,7 +1,7 @@
 var a22319 =
 [
-    [ "HandleScript", "d0/d2e/a22319.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "d0/d2e/a22319.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "d0/d2e/a22319.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "d0/d2e/a22319.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "Absorb", "d0/d2e/a22319.html#a784b48553696734abac77545df2fc045", null ],
+    [ "CalculateAmount", "d0/d2e/a22319.html#a456ee99a71062f6217bda7561e4e7766", null ],
+    [ "PrepareAuraScript", "d0/d2e/a22319.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
+    [ "Register", "d0/d2e/a22319.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
 ];

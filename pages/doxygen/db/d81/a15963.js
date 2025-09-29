@@ -1,14 +1,22 @@
 var a15963 =
 [
-    [ "boss_baltharus_the_warbornAI", "db/d81/a15963.html#adaf6cb6ab81a461b202d40900b4b744c", null ],
-    [ "DoAction", "db/d81/a15963.html#ab22f46e2514c10ce0e8141b3f69f069d", null ],
-    [ "InitializeAI", "db/d81/a15963.html#ac188db2a727e2fb3c411f8616f8a2f41", null ],
-    [ "JustDied", "db/d81/a15963.html#aaeb3e9b1bd25464cec4a1b0adf88afbe", null ],
-    [ "JustEngagedWith", "db/d81/a15963.html#a4b670f4d89f9ed9ffeebf9d9426d79dc", null ],
-    [ "JustReachedHome", "db/d81/a15963.html#ab178ccb3ee8bfa2649f03bfc18f1e424", null ],
-    [ "JustSummoned", "db/d81/a15963.html#a7947c96290ea2cbe1b7ed6b6a8db65fe", null ],
-    [ "KilledUnit", "db/d81/a15963.html#adb1a9e2af865292215c02cc1fb959cd3", null ],
-    [ "Reset", "db/d81/a15963.html#a68e503ddac7be2f4e08d68e64aa2e725", null ],
-    [ "UpdateAI", "db/d81/a15963.html#abe2e7188e33e70d52ab1985f821fa9c5", null ],
-    [ "_introDone", "db/d81/a15963.html#a463209610cbc8e34d9839abeaf6df0e6", null ]
+    [ "npc_sergeant_blyAI", "db/d81/a15963.html#a216f8b75707e25698619786b87500461", null ],
+    [ "DoAction", "db/d81/a15963.html#a4fb20172c48257aafe284b3934a9c357", null ],
+    [ "EnterEvadeMode", "db/d81/a15963.html#a2844efbb2f213401f83ab042f974974a", null ],
+    [ "InitializeAI", "db/d81/a15963.html#ae3abcf75a666c5bd722ca060fca4a12c", null ],
+    [ "MovementInform", "db/d81/a15963.html#acf32d74b4f0454f01f7313df6b35c4d3", null ],
+    [ "Reset", "db/d81/a15963.html#a2991ad4ecd6b236d7002c3dddd540b00", null ],
+    [ "sGossipHello", "db/d81/a15963.html#a342c8b5bd49e8cfd94c41a58159e4f5c", null ],
+    [ "sGossipSelect", "db/d81/a15963.html#a9df8eeb695736b2a182c38a69840e99f", null ],
+    [ "switchFactionIfAlive", "db/d81/a15963.html#a89cbd29300ca07b3366a197a7549edab", null ],
+    [ "UpdateAI", "db/d81/a15963.html#afdcbd6c79fb31d888c5b903deb04ad9d", null ],
+    [ "ableToPortHome", "db/d81/a15963.html#aa223fcf402ed5d99ea88275b357f398c", null ],
+    [ "instance", "db/d81/a15963.html#acf42a824739dd69d64c3b1e3eff6a944", null ],
+    [ "PlayerGUID", "db/d81/a15963.html#a188e306a05afa5f25271d17b4385b623", null ],
+    [ "Porthome_Timer", "db/d81/a15963.html#aeb17b772324aa2d985606659a2aee895", null ],
+    [ "postGossipStep", "db/d81/a15963.html#aca6869f05555499b210c09889d3f6684", null ],
+    [ "Revenge_Timer", "db/d81/a15963.html#af6263dbfa9e4cbc6f7812a10894f3dd2", null ],
+    [ "ShieldBash_Timer", "db/d81/a15963.html#a5ed567ac16bef8f53a66a12fbaf4573e", null ],
+    [ "startedFight", "db/d81/a15963.html#a7a037981d3d2a37abf0d3995283ac218", null ],
+    [ "Text_Timer", "db/d81/a15963.html#a97edb216194b16d273fe6098fdaba51e", null ]
 ];

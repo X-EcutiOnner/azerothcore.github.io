@@ -1,7 +1,7 @@
 var a27959 =
 [
-    [ "cutPercent", "d9/daa/a27959.html#a8581a6a5198dab10680f477a477a7c80", null ],
-    [ "depositPercent", "d9/daa/a27959.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
-    [ "faction", "d9/daa/a27959.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
-    [ "houseId", "d9/daa/a27959.html#a1bf77c1b14731def0e3de44143df2eed", null ]
+    [ "npc_flameshocker", "d9/daa/a27959.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
+    [ "JustDied", "d9/daa/a27959.html#aba94a5bcec75c649049d5816a53ace58", null ],
+    [ "Reset", "d9/daa/a27959.html#a13cb88e2b33df2d910fb73053684b420", null ],
+    [ "UpdateAI", "d9/daa/a27959.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
 ];

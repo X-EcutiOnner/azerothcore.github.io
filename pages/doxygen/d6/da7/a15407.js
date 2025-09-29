@@ -1,6 +1,6 @@
 var a15407 =
 [
-    [ "npcs_riverbreeze_and_silversky", "d6/da7/a15407.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
-    [ "OnGossipHello", "d6/da7/a15407.html#a7de032322a37f929c316aadfdadda768", null ],
-    [ "OnGossipSelect", "d6/da7/a15407.html#a93c7b159dda733da5030de747bad30b5", null ]
+    [ "HandleOnHit", "d6/da7/a15407.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
+    [ "PrepareSpellScript", "d6/da7/a15407.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
+    [ "Register", "d6/da7/a15407.html#a1e608d67914c0071a913d96d70c625d6", null ]
 ];

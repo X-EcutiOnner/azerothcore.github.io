@@ -1,6 +1,9 @@
 var a19535 =
 [
-    [ "boss_sjonnir_dwarfAI", "d6/d27/a19539.html", "d6/d27/a19539" ],
-    [ "boss_sjonnir_dwarf", "d5/d4f/a19535.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
-    [ "GetAI", "d5/d4f/a19535.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
+    [ "HandleApply", "d5/d4f/a19535.html#a29679ed64fc288dc0e85beed2971d4be", null ],
+    [ "HandleRemove", "d5/d4f/a19535.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
+    [ "Load", "d5/d4f/a19535.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
+    [ "PrepareAuraScript", "d5/d4f/a19535.html#a2804f25643e59f3922291abcb055b641", null ],
+    [ "Register", "d5/d4f/a19535.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
+    [ "Validate", "d5/d4f/a19535.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
 ];

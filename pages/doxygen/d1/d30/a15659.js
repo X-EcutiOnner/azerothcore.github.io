@@ -1,12 +1,8 @@
 var a15659 =
 [
-    [ "DialogueHelper", "d1/d30/a15659.html#a3566655e8781bf5f9dff514fcd659421", null ],
-    [ "DialogueUpdate", "d1/d30/a15659.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
-    [ "DoNextDialogueStep", "d1/d30/a15659.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
-    [ "GetSpeakerByEntry", "d1/d30/a15659.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
-    [ "JustDidDialogueStep", "d1/d30/a15659.html#a79e80634f1780895669f5c810958fd4f", null ],
-    [ "StartNextDialogueText", "d1/d30/a15659.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
-    [ "_actionTimer", "d1/d30/a15659.html#a33b8551c136bcbc896b29d935c155a75", null ],
-    [ "_currentEntry", "d1/d30/a15659.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
-    [ "_dialogueArray", "d1/d30/a15659.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
+    [ "CheckRequirement", "d1/d30/a15659.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
+    [ "HandleDummy", "d1/d30/a15659.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
+    [ "PrepareSpellScript", "d1/d30/a15659.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
+    [ "Register", "d1/d30/a15659.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
+    [ "Validate", "d1/d30/a15659.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
 ];

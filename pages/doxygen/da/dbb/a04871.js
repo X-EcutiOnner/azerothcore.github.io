@@ -1,5 +1,5 @@
 var a04871 =
 [
-    [ "hi", "da/dbb/a04871.html#aa227ae5593ba3111598033f570d97cb9", null ],
-    [ "lo", "da/dbb/a04871.html#aaf79653331f78979c84dfee2da118fdd", null ]
+    [ "TotemCreated", "dd/d2f/a11059.html", "dd/d2f/a11059" ],
+    [ "TotemDestroyed", "d2/d03/a11055.html", "d2/d03/a11055" ]
 ];

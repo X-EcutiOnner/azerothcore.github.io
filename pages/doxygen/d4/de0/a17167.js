@@ -1,6 +1,5 @@
 var a17167 =
 [
-    [ "boss_slad_ranAI", "d1/d14/a17171.html", "d1/d14/a17171" ],
-    [ "boss_slad_ran", "d4/de0/a17167.html#a9b960242e2f186d334d7ce04b999e274", null ],
-    [ "GetAI", "d4/de0/a17167.html#a26651b7ca111bd64549283c37e34db11", null ]
+    [ "at_hor_battered_hilt_start", "d4/de0/a17167.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
+    [ "OnTrigger", "d4/de0/a17167.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
 ];

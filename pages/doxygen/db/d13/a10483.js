@@ -1,7 +1,9 @@
 var a10483 =
 [
-    [ "Emote", "db/d13/a10483.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
-    [ "Write", "db/d13/a10483.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
-    [ "EmoteID", "db/d13/a10483.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
-    [ "Guid", "db/d13/a10483.html#ab96a1c0933e90872f54eb0995098274a", null ]
+    [ "fX", "db/d13/a10483.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
+    [ "fY", "db/d13/a10483.html#a9b158e247014eec0d35e465ab9469ac7", null ],
+    [ "fZ", "db/d13/a10483.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
+    [ "uiCreatureEntry", "db/d13/a10483.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
+    [ "uiPointId", "db/d13/a10483.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
+    [ "uiWaitTime", "db/d13/a10483.html#a305620aad71152c1139a88dea05a1887", null ]
 ];

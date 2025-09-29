@@ -1,5 +1,6 @@
 var a21607 =
 [
-    [ "npc_steam_powered_auctioneerAI", "d2/dad/a21607.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "d2/dad/a21607.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "npc_vh_sinclari", "d2/dad/a21607.html#ad0235f207a3031420532174c04e0c348", null ],
+    [ "OnGossipHello", "d2/dad/a21607.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
+    [ "OnGossipSelect", "d2/dad/a21607.html#af0a260d7868f601ae239c226b10d4de3", null ]
 ];

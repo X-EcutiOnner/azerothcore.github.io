@@ -1,8 +1,10 @@
 var a24351 =
 [
-    [ "npc_pet_gen_valkyr_guardian", "d2/daf/a24351.html#a546f0b0b4273de8216e9f688c2d68209", null ],
-    [ "InitializeAI", "d2/daf/a24351.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
-    [ "OwnerAttacked", "d2/daf/a24351.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
-    [ "UpdateAI", "d2/daf/a24351.html#a9a5a233763365c6cca5618459a23a816", null ],
-    [ "targetCheck", "d2/daf/a24351.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
+    [ "npc_maxx_a_million_escortAI", "d2/daf/a24351.html#ab827933527ed7b4a04b162034876ced8", null ],
+    [ "JustDied", "d2/daf/a24351.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
+    [ "Reset", "d2/daf/a24351.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
+    [ "UpdateAI", "d2/daf/a24351.html#a3b022feb2303875d32ad981e84f66854", null ],
+    [ "WaypointReached", "d2/daf/a24351.html#acd6f45abb93f3f043cd85647405a50f6", null ],
+    [ "bTake", "d2/daf/a24351.html#ac697fc6cbc20c7f316845ed26436049b", null ],
+    [ "uiTakeTimer", "d2/daf/a24351.html#a5d4826dcf893f444a42dedba57460110", null ]
 ];

@@ -1,6 +1,8 @@
 var a24823 =
 [
-    [ "CheckAreaTarget", "d1/d20/a24823.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
-    [ "PrepareAuraScript", "d1/d20/a24823.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
-    [ "Register", "d1/d20/a24823.html#a6647a8e35009cf8559e4957a666f037a", null ]
+    [ "HandleEffectApply", "d1/d20/a24823.html#a88e98bcb11fb16696f789878f79c665c", null ],
+    [ "HandleEffectRemove", "d1/d20/a24823.html#ab2d5f1dccd9bdf9f087ee3203b0d18c2", null ],
+    [ "PrepareAuraScript", "d1/d20/a24823.html#a64f9e0f3d0376342767b912e32642c6c", null ],
+    [ "Register", "d1/d20/a24823.html#a72d6639589588282ea15cfe83c9e9b76", null ],
+    [ "Validate", "d1/d20/a24823.html#ac936c92c3a24fba95505243cd3e79c21", null ]
 ];

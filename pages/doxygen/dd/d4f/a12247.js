@@ -1,8 +1,6 @@
 var a12247 =
 [
-    [ "FilterTargets", "dd/d4f/a12247.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
-    [ "FilterTargetsEff", "dd/d4f/a12247.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
-    [ "PrepareSpellScript", "dd/d4f/a12247.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
-    [ "Register", "dd/d4f/a12247.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
-    [ "targetList", "dd/d4f/a12247.html#a874dc7877ecfae332c9f826f01afce0f", null ]
+    [ "boss_rend_blackhandAI", "da/def/a12251.html", "da/def/a12251" ],
+    [ "boss_rend_blackhand", "dd/d4f/a12247.html#afd12818c33de25332bf207f30c8490a1", null ],
+    [ "GetAI", "dd/d4f/a12247.html#aed65d31a5a841af8aed015555bf811cb", null ]
 ];

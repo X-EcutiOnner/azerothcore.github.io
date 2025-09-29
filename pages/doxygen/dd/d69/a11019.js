@@ -1,8 +1,8 @@
 var a11019 =
 [
-    [ "SkillPerfectItemEntry", "dd/d69/a11019.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
-    [ "SkillPerfectItemEntry", "dd/d69/a11019.html#a678f9908440187faad38c0e1ffaf82de", null ],
-    [ "perfectCreateChance", "dd/d69/a11019.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
-    [ "perfectItemType", "dd/d69/a11019.html#a057605f8867d4df5cb290318598a2908", null ],
-    [ "requiredSpecialization", "dd/d69/a11019.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
+    [ "PetSpellAutocast", "dd/d69/a11019.html#ab858647d14031a2a6109d1e923402d08", null ],
+    [ "Read", "dd/d69/a11019.html#a5c94e7acc04efbb2a50695ed4fdf7036", null ],
+    [ "AutocastEnabled", "dd/d69/a11019.html#a3c04543dcd5382682654b3860b84c6a3", null ],
+    [ "PetGUID", "dd/d69/a11019.html#aeed828abebf683078ee61204c91e28c9", null ],
+    [ "SpellID", "dd/d69/a11019.html#a9afcd8b8bbd2e2fd07bc59219b1a80da", null ]
 ];

@@ -1,6 +1,6 @@
 var a17963 =
 [
-    [ "LastPhaseIceTombTargetSelector", "d5/d10/a17963.html#ac01f20b199bb0ee63b9c8f8206321057", null ],
-    [ "operator()", "d5/d10/a17963.html#a92a846ff557334b1f30d8e062a2c64e9", null ],
-    [ "_source", "d5/d10/a17963.html#ab10d10dd0de7717078d31ac026d4c933", null ]
+    [ "npc_darnavanAI", "d9/db2/a17967.html", "d9/db2/a17967" ],
+    [ "npc_darnavan", "d5/d10/a17963.html#ac358ca123155165395fa5f7ec02c9dab", null ],
+    [ "GetAI", "d5/d10/a17963.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
 ];

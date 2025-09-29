@@ -1,7 +1,5 @@
 var a13315 =
 [
-    [ "HandleRemove", "d3/d7c/a13315.html#a4484cf33e423f23cad9559a6a16ed9b4", null ],
-    [ "PrepareAuraScript", "d3/d7c/a13315.html#a6fa407996b59d98d0eeef877ee89784d", null ],
-    [ "Register", "d3/d7c/a13315.html#a7dc81b47954ee8c10b99f389740de0be", null ],
-    [ "Validate", "d3/d7c/a13315.html#afd94a159c0f429f2a63ffbd0a38d32e3", null ]
+    [ "npc_apothecary_frye", "d3/d7c/a13315.html#a5546099958a9a267d237e65720588456", null ],
+    [ "JustDied", "d3/d7c/a13315.html#ab1dc310e90c591b44ce4d5bcf1bac930", null ]
 ];

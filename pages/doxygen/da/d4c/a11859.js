@@ -1,6 +1,5 @@
 var a11859 =
 [
-    [ "boss_evisceratorAI", "d9/d56/a11863.html", "d9/d56/a11863" ],
-    [ "boss_eviscerator", "da/d4c/a11859.html#aca65400afa5ca9ca81043687d79cdad0", null ],
-    [ "GetAI", "da/d4c/a11859.html#a21203f69267ec93c46d9ff56321b8169", null ]
+    [ "flag", "da/d4c/a11859.html#abde26bce31a9153038294f78e9fdc18c", null ],
+    [ "text", "da/d4c/a11859.html#a3bf2ae3fd8a347ee70e2c537d909ce30", null ]
 ];

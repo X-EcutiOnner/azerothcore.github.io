@@ -1,7 +1,6 @@
 var a19967 =
 [
-    [ "achievement_flame_leviathan_garage", "d9/d48/a19967.html#a1893b4059d7212d023c45bb828bb1905", null ],
-    [ "OnCheck", "d9/d48/a19967.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
-    [ "_entry1", "d9/d48/a19967.html#af482d6c1b2681b9fec572281620a86b7", null ],
-    [ "_entry2", "d9/d48/a19967.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
+    [ "boss_steelbreakerAI", "d9/d26/a19971.html", "d9/d26/a19971" ],
+    [ "boss_steelbreaker", "d9/d48/a19967.html#af6e4c3729874e59959b35ca67a46aa44", null ],
+    [ "GetAI", "d9/d48/a19967.html#ac4189ffbba997719fb36a10ecdabd26c", null ]
 ];

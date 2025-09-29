@@ -1,8 +1,6 @@
 var a22219 =
 [
-    [ "AfterRemove", "d1/d38/a22219.html#a06fd72c7754f34dbc62a99a9ed839302", null ],
-    [ "HandlePeriodic", "d1/d38/a22219.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9", null ],
-    [ "OnApply", "d1/d38/a22219.html#a6617555d302923e5e95e7b1c6d8d74d6", null ],
-    [ "PrepareAuraScript", "d1/d38/a22219.html#a47a6281c42dc9368357cc86912331c77", null ],
-    [ "Register", "d1/d38/a22219.html#a868c79cda98b97b27b74d46f86cb980a", null ]
+    [ "npc_attracted_reef_bullAI", "d9/df6/a22223.html", "d9/df6/a22223" ],
+    [ "npc_attracted_reef_bull", "d1/d38/a22219.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
+    [ "GetAI", "d1/d38/a22219.html#af705e2768cd41c955af7f944c670ac85", null ]
 ];

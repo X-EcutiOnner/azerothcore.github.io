@@ -1,6 +1,7 @@
 var a16975 =
 [
-    [ "npc_pos_leaderAI", "de/d4b/a16979.html", "de/d4b/a16979" ],
-    [ "npc_pos_leader", "dc/dd0/a16975.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
-    [ "GetAI", "dc/dd0/a16975.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
+    [ "HandlePeriodicTick", "dc/dd0/a16975.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
+    [ "PrepareAuraScript", "dc/dd0/a16975.html#a93e894c642101160dd51f30952c82d24", null ],
+    [ "Register", "dc/dd0/a16975.html#a49172ede0f888e391b9b4a835475220a", null ],
+    [ "Validate", "dc/dd0/a16975.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
 ];

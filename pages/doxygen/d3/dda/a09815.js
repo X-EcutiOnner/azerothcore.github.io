@@ -1,9 +1,8 @@
 var a09815 =
 [
-    [ "MapUpdateRequest", "d3/dda/a09815.html#af71812e502bb1ceb60a286ff0d676ccd", null ],
-    [ "call", "d3/dda/a09815.html#a2cb96db357347d47596725e5c345b02f", null ],
-    [ "m_diff", "d3/dda/a09815.html#a3f8ff355ac6efb0a6039c7ee5bfc053b", null ],
-    [ "m_map", "d3/dda/a09815.html#a3612f3e64bb1d2f266c8724c398f5de5", null ],
-    [ "m_updater", "d3/dda/a09815.html#aeb063738175aa8ddc751290f922ffef2", null ],
-    [ "s_diff", "d3/dda/a09815.html#a533a8c8a99f82e15dae0d4513c811b01", null ]
+    [ "EllipseBoundary", "d3/dda/a09815.html#aeb8c822a8c4c745de0c848721a624545", null ],
+    [ "IsWithinBoundaryArea", "d3/dda/a09815.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
+    [ "_center", "d3/dda/a09815.html#aa84bae8bced77e38fec652e473cf39c7", null ],
+    [ "_radiusYSq", "d3/dda/a09815.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
+    [ "_scaleXSq", "d3/dda/a09815.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
 ];

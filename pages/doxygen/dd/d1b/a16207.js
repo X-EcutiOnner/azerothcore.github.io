@@ -1,8 +1,6 @@
 var a16207 =
 [
-    [ "npc_black_knight_skeletal_gryphonAI", "dd/d1b/a16207.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
-    [ "DoAction", "dd/d1b/a16207.html#af38e129cdf4af99e99c41b6a98448e56", null ],
-    [ "Reset", "dd/d1b/a16207.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
-    [ "UpdateAI", "dd/d1b/a16207.html#a851008790128831c5c10710b4cccb196", null ],
-    [ "WaypointReached", "dd/d1b/a16207.html#a74b5fb1d3631c404e7797085e45e6159", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "df/da2/a16211.html", "df/da2/a16211" ],
+    [ "instance_obsidian_sanctum", "dd/d1b/a16207.html#a6cf2121c4167156f5748c144372b3c0b", null ],
+    [ "GetInstanceScript", "dd/d1b/a16207.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
 ];

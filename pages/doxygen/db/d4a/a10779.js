@@ -1,6 +1,6 @@
 var a10779 =
 [
-    [ "UITime", "db/d4a/a10779.html#a24311ce7df9e9a0f40a3c5473cef34b3", null ],
-    [ "Write", "db/d4a/a10779.html#ab24cdd76abd5914c3a30ee42c7681855", null ],
-    [ "Time", "db/d4a/a10779.html#ac4ad6c7c425167e90fd2497f7ebaec4c", null ]
+    [ "GuildBankTextQuery", "db/d4a/a10779.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
+    [ "Read", "db/d4a/a10779.html#af20bd5c8e58b891028613625fb14807d", null ],
+    [ "Tab", "db/d4a/a10779.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
 ];

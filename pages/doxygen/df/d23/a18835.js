@@ -1,6 +1,7 @@
 var a18835 =
 [
-    [ "instance_icecrown_citadel_InstanceMapScript", "d9/d7d/a18839.html", "d9/d7d/a18839" ],
-    [ "instance_icecrown_citadel", "df/d23/a18835.html#a0901e23025cff08d1a7516bbef099ffa", null ],
-    [ "GetInstanceScript", "df/d23/a18835.html#a787c32626681f15f5515385a9ba6b848", null ]
+    [ "npc_captain_arnathAI", "df/d23/a18835.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
+    [ "FindFriendlyCreature", "df/d23/a18835.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
+    [ "Reset", "df/d23/a18835.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
+    [ "UpdateAI", "df/d23/a18835.html#a020efd7adc0d60152007906e3229988d", null ]
 ];

@@ -1,16 +1,18 @@
 var a00005 =
 [
-    [ "DBCFileLoader", "dc/d72/a05218.html", "dc/d72/a05218" ],
-    [ "DBCFileLoader::Record", "d5/d9b/a05222.html", "d5/d9b/a05222" ],
-    [ "DbcFieldFormat", "dd/dad/a00005.html#a969264ba91452f632e809db524c68960", [
-      [ "FT_NA", "dd/dad/a00005.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c", null ],
-      [ "FT_NA_BYTE", "dd/dad/a00005.html#a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c", null ],
-      [ "FT_STRING", "dd/dad/a00005.html#a969264ba91452f632e809db524c68960a424189c585691c2ce732ea69a88f4f29", null ],
-      [ "FT_FLOAT", "dd/dad/a00005.html#a969264ba91452f632e809db524c68960a1091cfb22d5ff81a81948a92b96f8e9a", null ],
-      [ "FT_INT", "dd/dad/a00005.html#a969264ba91452f632e809db524c68960a9d5724546fec2b9d79741da7d3a8030a", null ],
-      [ "FT_BYTE", "dd/dad/a00005.html#a969264ba91452f632e809db524c68960ae268574ec5607a27ec940656742b2095", null ],
-      [ "FT_SORT", "dd/dad/a00005.html#a969264ba91452f632e809db524c68960a496dcb8cfc6d702d15b9a603b242a642", null ],
-      [ "FT_IND", "dd/dad/a00005.html#a969264ba91452f632e809db524c68960a0e7ef1f172d0c33a975fbda2be046036", null ],
-      [ "FT_LOGIC", "dd/dad/a00005.html#a969264ba91452f632e809db524c68960aad79cbf0ed6b926353344f5abde2e4cc", null ]
+    [ "UnitBaseEvent", "d5/d7b/a07887.html", "d5/d7b/a07887" ],
+    [ "ThreatRefStatusChangeEvent", "da/dee/a07891.html", "da/dee/a07891" ],
+    [ "ThreatMgrEvent", "de/d53/a07899.html", "de/d53/a07899" ],
+    [ "UEV_ALL_EVENT_MASK", "dd/dad/a00005.html#a99af7f8805c877a694d51ab4feb1e58b", null ],
+    [ "UEV_THREAT_MANAGER_EVENT_MASK", "dd/dad/a00005.html#a28d3aa8f148208fa65f5ef1af46913cc", null ],
+    [ "UEV_THREAT_REF_EVENT_MASK", "dd/dad/a00005.html#aca3c8db6dd274b113d9c3c7755ff5d7a", null ],
+    [ "UNIT_EVENT_TYPE", "dd/dad/a00005.html#a5207de6e2fb421d2579a9baf4c471e97", [
+      [ "UEV_THREAT_REF_ONLINE_STATUS", "dd/dad/a00005.html#a5207de6e2fb421d2579a9baf4c471e97a77f8da111f54455d20c58ae0fd4156f9", null ],
+      [ "UEV_THREAT_REF_THREAT_CHANGE", "dd/dad/a00005.html#a5207de6e2fb421d2579a9baf4c471e97a5c74b5ccc46cdc399916b41b6d97bfb0", null ],
+      [ "UEV_THREAT_REF_REMOVE_FROM_LIST", "dd/dad/a00005.html#a5207de6e2fb421d2579a9baf4c471e97aa8b5a9d97c235e1f56e98ff4103b08d0", null ],
+      [ "UEV_THREAT_REF_ASSECCIBLE_STATUS", "dd/dad/a00005.html#a5207de6e2fb421d2579a9baf4c471e97abd7481924e1cb036704820e5be0407db", null ],
+      [ "UEV_THREAT_SORT_LIST", "dd/dad/a00005.html#a5207de6e2fb421d2579a9baf4c471e97a74092d5fa151b78ce0de1ddf3ed05865", null ],
+      [ "UEV_THREAT_SET_NEXT_TARGET", "dd/dad/a00005.html#a5207de6e2fb421d2579a9baf4c471e97ac45249081756ba40d712bd7e08626ed9", null ],
+      [ "UEV_THREAT_VICTIM_CHANGED", "dd/dad/a00005.html#a5207de6e2fb421d2579a9baf4c471e97af02166c466fbff650b908cd08c7e4669", null ]
     ] ]
 ];

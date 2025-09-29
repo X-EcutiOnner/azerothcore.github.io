@@ -1,6 +1,7 @@
 var a21735 =
 [
-    [ "HandleSendEvent", "dc/d7b/a21735.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
-    [ "PrepareSpellScript", "dc/d7b/a21735.html#aa632d381ac415feaf226f55fc2cd8520", null ],
-    [ "Register", "dc/d7b/a21735.html#a72673f5054cf269cc8da511441f7bd66", null ]
+    [ "npc_lurgglbrAI", "d7/d9c/a21739.html", "d7/d9c/a21739" ],
+    [ "npc_lurgglbr", "dc/d7b/a21735.html#a7df52667e4d789391820a4c2182db8d2", null ],
+    [ "GetAI", "dc/d7b/a21735.html#a2795346371e7b474c53dcacb9daf2001", null ],
+    [ "OnQuestAccept", "dc/d7b/a21735.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
 ];

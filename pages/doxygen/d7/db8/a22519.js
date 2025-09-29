@@ -1,12 +1,9 @@
 var a22519 =
 [
-    [ "OPvPCapturePointZM_Beacon", "d7/db8/a22519.html#a9efdfd232e9aa6dd390800bbf0373442", null ],
-    [ "ChangeState", "d7/db8/a22519.html#a5bbe87c18c814358596a9648fd92b129", null ],
-    [ "FillInitialWorldStates", "d7/db8/a22519.html#a94511cd0d2d1dccaa1ed8276b273a2fb", null ],
-    [ "HandlePlayerEnter", "d7/db8/a22519.html#a7042cd6b4c3d57de89e3ae9e0b2cee2a", null ],
-    [ "HandlePlayerLeave", "d7/db8/a22519.html#a6e5bfb2751f157fc4ebc8338b7cce802", null ],
-    [ "SendChangePhase", "d7/db8/a22519.html#a0b5ad48fa0d6ddd6c768fb7454b5fb55", null ],
-    [ "UpdateTowerState", "d7/db8/a22519.html#a9622620e5b969e19ea049ebd3cc4a3dc", null ],
-    [ "m_TowerState", "d7/db8/a22519.html#a3a41cc34e7a8bd9f0d9d6f86f42a3312", null ],
-    [ "m_TowerType", "d7/db8/a22519.html#a481e79d61fcdd011632f8f0d37f940bc", null ]
+    [ "npc_brunnhildar_prisonerAI", "d7/db8/a22519.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
+    [ "JustRespawned", "d7/db8/a22519.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
+    [ "Reset", "d7/db8/a22519.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
+    [ "SpellHit", "d7/db8/a22519.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
+    [ "UpdateAI", "d7/db8/a22519.html#a0702d4cf577ac00688a7b93bfe656952", null ],
+    [ "freed", "d7/db8/a22519.html#a46e03a19bac91a800154e3c873235800", null ]
 ];

@@ -1,6 +1,7 @@
 var a14695 =
 [
-    [ "npc_crate_helperAI", "dd/dee/a14695.html#ad58a2f3746da7862658fb3b9e1580836", null ],
-    [ "SpellHit", "dd/dee/a14695.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
-    [ "_marked", "dd/dee/a14695.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
+    [ "HandleFinish", "dd/dee/a14695.html#a8927aaa07145b46067d5807c2048330a", null ],
+    [ "PrepareSpellScript", "dd/dee/a14695.html#a5a0bfef668242fc5f21ad5a4e3e714b5", null ],
+    [ "Register", "dd/dee/a14695.html#a1ffdc199a04bd6ead1a09bc977ae964c", null ],
+    [ "Validate", "dd/dee/a14695.html#a3fd3265e5a08f81b3e9e789f1799abd4", null ]
 ];

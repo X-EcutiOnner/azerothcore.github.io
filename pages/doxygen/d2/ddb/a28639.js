@@ -1,10 +1,8 @@
 var a28639 =
 [
-    [ "Tile", "d2/ddb/a28639.html#aa68e7829d0a4109a5fca036afe725756", null ],
-    [ "~Tile", "d2/ddb/a28639.html#aa5be25df0d267368c90c8f790b218f7a", null ],
-    [ "chf", "d2/ddb/a28639.html#a9cd4f4be0393e1b40d1ea83dad189a35", null ],
-    [ "cset", "d2/ddb/a28639.html#a8263aa243c049daa70ed537f206c6a15", null ],
-    [ "dmesh", "d2/ddb/a28639.html#a23efb981de3dbc2ecdbe4dafdbaa8f58", null ],
-    [ "pmesh", "d2/ddb/a28639.html#a00dde7c2b62890f4d78697e669f2a810", null ],
-    [ "solid", "d2/ddb/a28639.html#a6c263578a352c75a21570a26439d6156", null ]
+    [ "NoRuneCost", "d2/ddb/a28639.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
+    [ "NoRunicPowerGain", "d2/ddb/a28639.html#a97da075ecd116ef27fd4265bb8380667", null ],
+    [ "ID", "d2/ddb/a28639.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
+    [ "RuneCost", "d2/ddb/a28639.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
+    [ "runePowerGain", "d2/ddb/a28639.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
 ];

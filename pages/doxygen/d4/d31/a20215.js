@@ -1,6 +1,9 @@
 var a20215 =
 [
-    [ "HandleAfterEffectApply", "d4/d31/a20215.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
-    [ "PrepareAuraScript", "d4/d31/a20215.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
-    [ "Register", "d4/d31/a20215.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
+    [ "Absorb", "d4/d31/a20215.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
+    [ "CalculateAmount", "d4/d31/a20215.html#a9166627cbaa536405975444c4ef601de", null ],
+    [ "Load", "d4/d31/a20215.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
+    [ "PrepareAuraScript", "d4/d31/a20215.html#aa5793741c2f8179db68a9fb1222a9085", null ],
+    [ "Register", "d4/d31/a20215.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
+    [ "_absorbPct", "d4/d31/a20215.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
 ];

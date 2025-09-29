@@ -1,7 +1,25 @@
 var a19739 =
 [
-    [ "OnRemove", "d3/d67/a19739.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "d3/d67/a19739.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "d3/d67/a19739.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "d3/d67/a19739.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "boss_volkhanAI", "d3/d67/a19739.html#afbab5656887a3983b70bf21452c71f0e", null ],
+    [ "DoAction", "d3/d67/a19739.html#a94dd9afca122baa34b6ee5a63e8d6330", null ],
+    [ "GetNextPos", "d3/d67/a19739.html#ab333773a0f12ec5d4981669ef0e747b3", null ],
+    [ "GoToAnvil", "d3/d67/a19739.html#aea7d66919650969e6d1edfebd976eea6", null ],
+    [ "JustDied", "d3/d67/a19739.html#ae6e1bf5e0d86b6999b0357d022e80154", null ],
+    [ "JustEngagedWith", "d3/d67/a19739.html#a5f4eaa7215fde5dec0106975981e2276", null ],
+    [ "JustSummoned", "d3/d67/a19739.html#a648f8f7b9bcec6d677dbea1888a59c83", null ],
+    [ "KilledUnit", "d3/d67/a19739.html#aa227eecb791e12559015ee07a398d251", null ],
+    [ "MovementInform", "d3/d67/a19739.html#abe35a1a132a9f2ce22cedf1f10b503d8", null ],
+    [ "Reset", "d3/d67/a19739.html#a5e92fd793b6eedc8d1102b89aabecc68", null ],
+    [ "ScheduleEvents", "d3/d67/a19739.html#afc94fccc9d761714a4cc8e1b3fceaf13", null ],
+    [ "SpellHitTarget", "d3/d67/a19739.html#a4704b32d29a4465fcc2a3f638deb37a9", null ],
+    [ "UpdateAI", "d3/d67/a19739.html#a927ab90fe3e1a4951052934d77094530", null ],
+    [ "events", "d3/d67/a19739.html#a3305529d3a25a929c4c6c5128773a4b6", null ],
+    [ "HealthCheck", "d3/d67/a19739.html#a14c65e87caf2f0e815955946357aebf2", null ],
+    [ "m_pInstance", "d3/d67/a19739.html#ab128bbb66f0311b10e2589c5b00ba6bb", null ],
+    [ "PointID", "d3/d67/a19739.html#acfe0e8fabd539e3d3a9953db94824e51", null ],
+    [ "ShatteredCount", "d3/d67/a19739.html#a5ee620ae4a5570bef0746eb3a57d96b7", null ],
+    [ "summons", "d3/d67/a19739.html#a86be695fda3975efa15f2ce2373ec158", null ],
+    [ "x", "d3/d67/a19739.html#a76e407ff3cd8194c9ebc8845a579055f", null ],
+    [ "y", "d3/d67/a19739.html#ab5a5b9979882dd06a0fa1c0e86a768dc", null ],
+    [ "z", "d3/d67/a19739.html#a3a3617b13a66c38695551a5814868f40", null ]
 ];

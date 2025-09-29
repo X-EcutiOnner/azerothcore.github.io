@@ -1,4 +1,4 @@
 var a04757 =
 [
-    [ "dtQueryFilterExt", "da/de3/a05388.html", "da/de3/a05388" ]
+    [ "Acore::String::Trim< std::string >", "d8/dc8/a04757.html#a39e286b6ca47198eba4d5e31cef66aa5", null ]
 ];

@@ -1,49 +1,43 @@
 var a03605 =
 [
-    [ "CoordPair< LIMIT >", "d4/d6b/a09114.html", "d4/d6b/a09114" ],
-    [ "CENTER_GRID_CELL_ID", "d9/d0f/a03605.html#a98830d21df912e083fd71157268d5c5f", null ],
-    [ "CENTER_GRID_CELL_OFFSET", "d9/d0f/a03605.html#a7629c4f74e4101139df95915a2c60e5b", null ],
-    [ "CENTER_GRID_ID", "d9/d0f/a03605.html#aa0a97ea0a65346620599a3a7dc71cd5d", null ],
-    [ "CENTER_GRID_OFFSET", "d9/d0f/a03605.html#aa9900a84acd5d539fb56c9b2d7a0b9a6", null ],
-    [ "MAP_HALFSIZE", "d9/d0f/a03605.html#aa9d6737eb1c6d3c55c7707d0ad90d9f0", null ],
-    [ "MAP_RESOLUTION", "d9/d0f/a03605.html#a350873099e339fcc394b9eefa121ed6e", null ],
-    [ "MAP_SIZE", "d9/d0f/a03605.html#a0a82fd70402bbdc2259248e735fecbca", null ],
-    [ "MIN_GRID_DELAY", "d9/d0f/a03605.html#a204f91e3181b15c48673d54f4900f46c", null ],
-    [ "MIN_MAP_UPDATE_DELAY", "d9/d0f/a03605.html#ae372d35aed08096c29f83d1f27eacf8c", null ],
-    [ "SIZE_OF_GRID_CELL", "d9/d0f/a03605.html#a9b6a301ce296e14e23233b5bcd6929af", null ],
-    [ "TOTAL_NUMBER_OF_CELLS_PER_MAP", "d9/d0f/a03605.html#a39cc058a35736437f70e4b7c5a8876a3", null ],
-    [ "CellCoord", "d9/d0f/a03605.html#aa7325a29c918309cfd39e8637782f4c5", null ],
-    [ "CorpseMapType", "d9/d0f/a03605.html#a8e87d05ee9fb2b4f64470fce9231de12", null ],
-    [ "CreatureMapType", "d9/d0f/a03605.html#ac60ef2e7adf9bc71b50d675b4b74980b", null ],
-    [ "DynamicObjectMapType", "d9/d0f/a03605.html#a5957bb381cc7067b3da243bb5999e870", null ],
-    [ "FarVisibleGridContainer", "d9/d0f/a03605.html#ae75b2d7e464f342de7d9db88ca816b29", null ],
-    [ "GameObjectMapType", "d9/d0f/a03605.html#aad35d1efe9e8a57f45c0740a89bf9fbf", null ],
-    [ "GridCellType", "d9/d0f/a03605.html#a82f1139af6d18bcc83dc53785b144b4d", null ],
-    [ "GridCoord", "d9/d0f/a03605.html#a56cc9baa50cd4031aeac2999eb38ea37", null ],
-    [ "GridTypeMapContainer", "d9/d0f/a03605.html#a9bb9afe2207e6266d412c3b73369f10d", null ],
-    [ "MapGridType", "d9/d0f/a03605.html#ae6e326739a8733a22249048253475f90", null ],
-    [ "MapStoredObjectTypesContainer", "d9/d0f/a03605.html#ad13d154e097273b41f91b7a7e6cccac0", null ],
-    [ "PlayerMapType", "d9/d0f/a03605.html#ae35a7f6754cf9950d0027369ada820e7", null ],
-    [ "GridMapTypeMask", "d9/d0f/a03605.html#ab566123309f520dd2c1cc7388816c0f1", [
-      [ "GRID_MAP_TYPE_MASK_CORPSE", "d9/d0f/a03605.html#ab566123309f520dd2c1cc7388816c0f1acfb3c6070b685ab5b76dd056f220e84f", null ],
-      [ "GRID_MAP_TYPE_MASK_CREATURE", "d9/d0f/a03605.html#ab566123309f520dd2c1cc7388816c0f1a5619b6974a16694495987197827dd1f7", null ],
-      [ "GRID_MAP_TYPE_MASK_DYNAMICOBJECT", "d9/d0f/a03605.html#ab566123309f520dd2c1cc7388816c0f1a983fc0e191fefd15850bb85a39cce5b8", null ],
-      [ "GRID_MAP_TYPE_MASK_GAMEOBJECT", "d9/d0f/a03605.html#ab566123309f520dd2c1cc7388816c0f1a92e1b504e28568b364b7185cab2e7173", null ],
-      [ "GRID_MAP_TYPE_MASK_PLAYER", "d9/d0f/a03605.html#ab566123309f520dd2c1cc7388816c0f1a21cae0e997f66481782878b049542c6e", null ],
-      [ "GRID_MAP_TYPE_MASK_ALL", "d9/d0f/a03605.html#ab566123309f520dd2c1cc7388816c0f1a911d5a5a64d897a2295ecd8366a763f7", null ]
+    [ "DataHeader", "d9/d0f/a03605.html#a042491ef36459046f3866e90f15aae0d", null ],
+    [ "MTScriptName", "d9/d0f/a03605.html#a772413d8818d681e2261c99f58e1268c", null ],
+    [ "RegisterMagistersTerraceCreatureAI", "d9/d0f/a03605.html#a679c3c5e0520ffcbc6ca0827cddafeb0", null ],
+    [ "CreatureTexts", "d9/d0f/a03605.html#a98b0f0ed8e23c5a3936ff695705d37e9", [
+      [ "SAY_KALECGOS_SPAWN", "d9/d0f/a03605.html#a98b0f0ed8e23c5a3936ff695705d37e9afb263d1cd011b49bf7cda725281fa940", null ]
     ] ],
-    [ "Compute", "d9/d0f/a03605.html#a17df66939c936195b601d2eecf30eaa0", null ],
-    [ "ComputeCellCoord", "d9/d0f/a03605.html#af056a475dba505792191bc6e8c3370a5", null ],
-    [ "ComputeGridCoord", "d9/d0f/a03605.html#a4bbdd5e55a789ab8b861c1205f122b0e", null ],
-    [ "ComputeGridCoordSimple", "d9/d0f/a03605.html#a2de9525f5b0c56d1f592f8c63f21f52c", null ],
-    [ "IsValidMapCoord", "d9/d0f/a03605.html#aa0d982635f9cfc01b01bd05b05ceac08", null ],
-    [ "IsValidMapCoord", "d9/d0f/a03605.html#a9c11bc4959af5a82722cea1c36010c09", null ],
-    [ "IsValidMapCoord", "d9/d0f/a03605.html#a62d3e020a11429b8f6077c1ae189ac26", null ],
-    [ "IsValidMapCoord", "d9/d0f/a03605.html#a355df1d62e245473475d330ef6c45bae", null ],
-    [ "NormalizeMapCoord", "d9/d0f/a03605.html#a081c4b764dd94224c4a046465c5c6274", null ],
-    [ "operator!=", "d9/d0f/a03605.html#af248e8cd4ecc7161bfb1e6aa879f3cd5", null ],
-    [ "operator==", "d9/d0f/a03605.html#aa7265bcec280e27580381098105c0cae", null ],
-    [ "TYPELIST_2", "d9/d0f/a03605.html#a987ca992ed85d8443fad01cb4e12c3ea", null ],
-    [ "TYPELIST_4", "d9/d0f/a03605.html#a4a59f608393c8212378abeeab7ab1e34", null ],
-    [ "TYPELIST_5", "d9/d0f/a03605.html#a39b4829445d6f736c035f7c3ebfbbdda", null ]
+    [ "InstanceEventIds", "d9/d0f/a03605.html#ab51342a4a8f5976e51b0074f9a5746f8", [
+      [ "EVENT_SPAWN_KALECGOS", "d9/d0f/a03605.html#ab51342a4a8f5976e51b0074f9a5746f8a2e000620a7210a65a43ee87d48b5d283", null ]
+    ] ],
+    [ "MovementData", "d9/d0f/a03605.html#aed5999eedcf185b65654ded53dc601d3", [
+      [ "PATH_KALECGOS_FLIGHT", "d9/d0f/a03605.html#aed5999eedcf185b65654ded53dc601d3a6b4587e5a1bc789ca7ac972cd1e54222", null ]
+    ] ],
+    [ "MTCreatures", "d9/d0f/a03605.html#a402e3e622f03a1eed719db587960e18b", [
+      [ "NPC_DELRISSA", "d9/d0f/a03605.html#a402e3e622f03a1eed719db587960e18ba5d0ab26a56a5212e4bbd0d2bd26b7127", null ],
+      [ "NPC_FEL_CRYSTAL", "d9/d0f/a03605.html#a402e3e622f03a1eed719db587960e18bad5c5384a148b47a2c59d671014db6d35", null ],
+      [ "NPC_KAEL_THAS", "d9/d0f/a03605.html#a402e3e622f03a1eed719db587960e18ba1cc740bbad14c06e879fe922c561957c", null ],
+      [ "NPC_PHOENIX", "d9/d0f/a03605.html#a402e3e622f03a1eed719db587960e18ba93173f126c0dd252197a841ed9321048", null ],
+      [ "NPC_PHOENIX_EGG", "d9/d0f/a03605.html#a402e3e622f03a1eed719db587960e18ba37c8f15ed65139715f18d3d09d17a970", null ],
+      [ "NPC_KALECGOS", "d9/d0f/a03605.html#a402e3e622f03a1eed719db587960e18ba7434f1d158db88e1befb3cf56e801613", null ]
+    ] ],
+    [ "MTData", "d9/d0f/a03605.html#abdc560adf84eb5994b289f952995d059", [
+      [ "DATA_SELIN_FIREHEART", "d9/d0f/a03605.html#abdc560adf84eb5994b289f952995d059afd8c24b35ae0b3270c6446ed912864b8", null ],
+      [ "DATA_VEXALLUS", "d9/d0f/a03605.html#abdc560adf84eb5994b289f952995d059a7d511ceaf5f4b75dc6bf642fd4c002c3", null ],
+      [ "DATA_DELRISSA", "d9/d0f/a03605.html#abdc560adf84eb5994b289f952995d059af977a73eff024af1676aeb0fe6503c2f", null ],
+      [ "DATA_KAELTHAS", "d9/d0f/a03605.html#abdc560adf84eb5994b289f952995d059a9459cb9bb83f7a23115debb607cb25a3", null ],
+      [ "MAX_ENCOUNTER", "d9/d0f/a03605.html#abdc560adf84eb5994b289f952995d059a7913656ef56deb3793c0c5f3d999d80d", null ],
+      [ "DATA_KALECGOS", "d9/d0f/a03605.html#abdc560adf84eb5994b289f952995d059a053405afb85048224c161919aebd795d", null ],
+      [ "DATA_ESCAPE_ORB", "d9/d0f/a03605.html#abdc560adf84eb5994b289f952995d059a6c76e50a19d944f081dbe8c87034974f", null ],
+      [ "DATA_KAEL_INTRO", "d9/d0f/a03605.html#abdc560adf84eb5994b289f952995d059ad20d84b9105a6e9e87a44161e54c1d15", null ],
+      [ "MAX_PERSISTENT_DATA", "d9/d0f/a03605.html#abdc560adf84eb5994b289f952995d059ade8daf2d97d89b7bc637c9b5550e0449", null ]
+    ] ],
+    [ "MTGameObjects", "d9/d0f/a03605.html#a2b0621589774d4cc3afba085bc39867d", [
+      [ "GO_VEXALLUS_DOOR", "d9/d0f/a03605.html#a2b0621589774d4cc3afba085bc39867da660139f819500a248283735c336cf4e7", null ],
+      [ "GO_SELIN_DOOR", "d9/d0f/a03605.html#a2b0621589774d4cc3afba085bc39867da7ccc42cdb5402db90adb2298e29d4e64", null ],
+      [ "GO_SELIN_ENCOUNTER_DOOR", "d9/d0f/a03605.html#a2b0621589774d4cc3afba085bc39867da8b457fe7255a77748f94f13974791086", null ],
+      [ "GO_DELRISSA_DOOR", "d9/d0f/a03605.html#a2b0621589774d4cc3afba085bc39867da2ec22f0e669bef8a7bde879208fa8f6a", null ],
+      [ "GO_KAEL_DOOR", "d9/d0f/a03605.html#a2b0621589774d4cc3afba085bc39867dacafc1a0b7422ea5365367a4c964fee25", null ],
+      [ "GO_ESCAPE_ORB", "d9/d0f/a03605.html#a2b0621589774d4cc3afba085bc39867daf0d8c802b02ba5d48c9d4126534812fd", null ]
+    ] ],
+    [ "GetMagistersTerraceAI", "d9/d0f/a03605.html#ace003ea34649a460da4afbd65b38c987", null ]
 ];

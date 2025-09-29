@@ -1,5 +1,6 @@
 var a27359 =
 [
-    [ "item_petrov_cluster_bombs", "dc/ded/a27359.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "dc/ded/a27359.html#a14e8a00a532b5aebc8469ff538848f53", null ]
+    [ "boss_ysondreAI", "de/df4/a27363.html", "de/df4/a27363" ],
+    [ "boss_ysondre", "dc/ded/a27359.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
+    [ "GetAI", "dc/ded/a27359.html#a0da215d7bc8ee86216887e682b9335c3", null ]
 ];

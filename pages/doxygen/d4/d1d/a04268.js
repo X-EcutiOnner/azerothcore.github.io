@@ -1,4 +1,4 @@
 var a04268 =
 [
-    [ "ScriptRegistry< OutdoorPvPScript >", "d4/d1d/a04268.html#a87dac516981f5c502b37a0500f6f7882", null ]
+    [ "GUARD_RETURN", "d4/d1d/a04268.html#a545bfab3f5e5f49c7d68774189728da8", null ]
 ];

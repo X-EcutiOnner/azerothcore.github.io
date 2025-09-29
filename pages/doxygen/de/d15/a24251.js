@@ -1,7 +1,6 @@
 var a24251 =
 [
-    [ "HandlePeriodic", "de/d15/a24251.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
-    [ "PrepareAuraScript", "de/d15/a24251.html#a58dc6668172d046cef3046649928c124", null ],
-    [ "Register", "de/d15/a24251.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
-    [ "Validate", "de/d15/a24251.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
+    [ "npc_ancestral_wolfAI", "d8/de9/a24255.html", "d8/de9/a24255" ],
+    [ "npc_ancestral_wolf", "de/d15/a24251.html#a7cadf2848a086db63792f8068ee9463d", null ],
+    [ "GetAI", "de/d15/a24251.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
 ];

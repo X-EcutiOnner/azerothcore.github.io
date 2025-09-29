@@ -1,10 +1,8 @@
 var a04999 =
 [
-    [ "AreaInfo", "d9/d7c/a04999.html#a1f45e5e030aaf5b16fb6c58097fa8b14", null ],
-    [ "adtId", "d9/d7c/a04999.html#a95c1c986b14dfeba867fa55e77553499", null ],
-    [ "flags", "d9/d7c/a04999.html#a780bdbb606fe694941d2105e14a29d70", null ],
-    [ "ground_Z", "d9/d7c/a04999.html#aca4fada3b2062f74cf66cd34a63c0c86", null ],
-    [ "groupId", "d9/d7c/a04999.html#a76ac6ccec6ff67f16689a6735e644e07", null ],
-    [ "result", "d9/d7c/a04999.html#ab9e9a7658d5fb76be208835f786036b0", null ],
-    [ "rootId", "d9/d7c/a04999.html#a6f60501d22be8c1d374a46e598d0f2e3", null ]
+    [ "MMapData", "d9/d7c/a04999.html#ab6aa577df2b8bc749e68515b7b5ef96c", null ],
+    [ "~MMapData", "d9/d7c/a04999.html#a28ad87f05014c49373557369e9177df5", null ],
+    [ "loadedTileRefs", "d9/d7c/a04999.html#afa8799db33459dd5e36b7a43eae7d16b", null ],
+    [ "navMesh", "d9/d7c/a04999.html#a786a4b43773e4402451bed82cf221f66", null ],
+    [ "navMeshQueries", "d9/d7c/a04999.html#abb7a9f9131b3657eff54ed17fc329b43", null ]
 ];

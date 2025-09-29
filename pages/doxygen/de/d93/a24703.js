@@ -1,6 +1,7 @@
 var a24703 =
 [
-    [ "CheckCast", "de/d93/a24703.html#a8ab8394c56201264ac4f2d859dd52092", null ],
-    [ "PrepareSpellScript", "de/d93/a24703.html#acc6d27c8d869ec80ee5794405f6c238a", null ],
-    [ "Register", "de/d93/a24703.html#a191085bc21ce6f5ce1d5b43d6d70f069", null ]
+    [ "HandleEffectApply", "de/d93/a24703.html#a9923e38a2b5999d932d85be17a50ac83", null ],
+    [ "HandleEffectRemove", "de/d93/a24703.html#a4c1f611b4fd0cf33f654d59e783db32a", null ],
+    [ "PrepareAuraScript", "de/d93/a24703.html#a105df22901477c34757e62a0305006d4", null ],
+    [ "Register", "de/d93/a24703.html#a16f2daff28dc07f2cac8d53f4813909f", null ]
 ];

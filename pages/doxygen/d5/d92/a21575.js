@@ -1,19 +1,16 @@
 var a21575 =
 [
-    [ "npc_thassarian2AI", "d5/d92/a21575.html#ab1faae7ecc94a8781d5759de775ff9ba", null ],
-    [ "Cleanup", "d5/d92/a21575.html#a26730ec8ec6180a0dd7798797ba8dcd6", null ],
-    [ "Initialize", "d5/d92/a21575.html#aba9c197fb4ab9bb3fc63cf36e36747f5", null ],
-    [ "JustDied", "d5/d92/a21575.html#aa6b70b2bc438ff98a0c1da7898dc4b9b", null ],
-    [ "MovementInform", "d5/d92/a21575.html#abedd9b40189426c907473c5fb47d3a0d", null ],
-    [ "Reset", "d5/d92/a21575.html#a1bee1fb354dbf4a08c5a8f3a88bbf044", null ],
-    [ "SetData", "d5/d92/a21575.html#a7481081c44c4e092b700c449677da01f", null ],
-    [ "sGossipHello", "d5/d92/a21575.html#a12cfc66cb8ac02dbc088110576ee2460", null ],
-    [ "sGossipSelect", "d5/d92/a21575.html#a680dfc7280a3ef425de8b62eb38e6e21", null ],
-    [ "UpdateAI", "d5/d92/a21575.html#a9a1e96659da31040d41a9898d7e59db5", null ],
-    [ "_arlosGUID", "d5/d92/a21575.html#a6142b1e8045123a7eef1e546bda09943", null ],
-    [ "_arthasGUID", "d5/d92/a21575.html#a0e9aff1cc0c5cb9c266916536782332f", null ],
-    [ "_events", "d5/d92/a21575.html#a6b277a2de46cdeada7045b2b3826fd03", null ],
-    [ "_leryssaGUID", "d5/d92/a21575.html#a489159972b4e0cce65d12477e1031fcd", null ],
-    [ "_playerGUID", "d5/d92/a21575.html#af73af26991dcd12173a50883fe82627e", null ],
-    [ "_talbotGUID", "d5/d92/a21575.html#af148fd3e767999c8ebd4aa3b6eff0d3b", null ]
+    [ "boss_xevozzAI", "d5/d92/a21575.html#a422359074a43e84ee6462b61fc4ce6a9", null ],
+    [ "EnterEvadeMode", "d5/d92/a21575.html#a5557f799c862759c8fd94a98cadee7d5", null ],
+    [ "JustDied", "d5/d92/a21575.html#a6e66dec2e1bc198d9b3e855366ca8b02", null ],
+    [ "JustEngagedWith", "d5/d92/a21575.html#a0f8c06f3e0934eb22bf8a26aa3238b50", null ],
+    [ "JustSummoned", "d5/d92/a21575.html#a04787f7600a817fd63132676590505a8", null ],
+    [ "KilledUnit", "d5/d92/a21575.html#ad47008e9044815cc4475adbaf3ece543", null ],
+    [ "MoveInLineOfSight", "d5/d92/a21575.html#a519c1222ef186067dcb9a98bb84ea031", null ],
+    [ "Reset", "d5/d92/a21575.html#a435b22ca3c7e573d4e3c70e2497063e7", null ],
+    [ "SummonedCreatureDespawn", "d5/d92/a21575.html#ab6e7bb57110831079ede943a74641bd4", null ],
+    [ "UpdateAI", "d5/d92/a21575.html#aa61271e4a9d8e13ac875f6efd550aa4b", null ],
+    [ "events", "d5/d92/a21575.html#a8a5796089d42dad89c9cec5ea4d38321", null ],
+    [ "pInstance", "d5/d92/a21575.html#a9eda85f10a814efa32f7b224e1772b89", null ],
+    [ "spheres", "d5/d92/a21575.html#ab1d51bbfd433b37b8ceec15a18d62b17", null ]
 ];

@@ -1,6 +1,6 @@
 var a21063 =
 [
-    [ "npc_massive_jormungarAI", "dd/da8/a21067.html", "dd/da8/a21067" ],
-    [ "npc_massive_jormungar", "d5/d07/a21063.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
-    [ "GetAI", "d5/d07/a21063.html#a68e3557e967ef633ba59fa81e661b80c", null ]
+    [ "boss_yoggsaron_constrictor_tentacleAI", "dd/da8/a21067.html", "dd/da8/a21067" ],
+    [ "boss_yoggsaron_constrictor_tentacle", "d5/d07/a21063.html#a131809f1c691e55a33863caf6fe0c5dc", null ],
+    [ "GetAI", "d5/d07/a21063.html#ac469d5661eb664c73bf5ab38084cb03e", null ]
 ];

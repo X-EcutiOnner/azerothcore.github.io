@@ -1,6 +1,8 @@
 var a16351 =
 [
-    [ "npc_toc_shadow_priestAI", "df/d88/a16355.html", "df/d88/a16355" ],
-    [ "npc_toc_shadow_priest", "dc/d0d/a16351.html#a05020cd5c5363933dcea7a5901d1ac21", null ],
-    [ "GetAI", "dc/d0d/a16351.html#a93b38d23759da3b7417dbb94b4a951da", null ]
+    [ "OnApply", "dc/d0d/a16351.html#a7165da94ce589afcd24411a308802c18", null ],
+    [ "OnRemove", "dc/d0d/a16351.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49", null ],
+    [ "PrepareAuraScript", "dc/d0d/a16351.html#ab8361bc1d2cc786b52f1fc2b7ff09527", null ],
+    [ "Register", "dc/d0d/a16351.html#a0ff7bbd0dea458b15231ecf419b1c49c", null ],
+    [ "Validate", "dc/d0d/a16351.html#acf29b80b7b74c3f409e1f046b8062994", null ]
 ];

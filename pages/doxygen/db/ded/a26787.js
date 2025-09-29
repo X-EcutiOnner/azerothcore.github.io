@@ -1,6 +1,6 @@
 var a26787 =
 [
-    [ "HandleAfterHit", "db/ded/a26787.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
-    [ "PrepareSpellScript", "db/ded/a26787.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
-    [ "Register", "db/ded/a26787.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
+    [ "HandleScript", "db/ded/a26787.html#a54c724bd8786c894ecaa584c164c2e53", null ],
+    [ "PrepareSpellScript", "db/ded/a26787.html#a4505b9196609ae9339fe7e5948963663", null ],
+    [ "Register", "db/ded/a26787.html#ae293d6a2a477f716f357516781246069", null ]
 ];

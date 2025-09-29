@@ -1,6 +1,6 @@
 var a10623 =
 [
-    [ "GuildPromoteMember", "d6/d28/a10623.html#af623a381aa80e827c2c29987501626ae", null ],
-    [ "Read", "d6/d28/a10623.html#a3350c1a8c81aa1368a254288849b462b", null ],
-    [ "Promotee", "d6/d28/a10623.html#af8addf6e9bc45364f595582e8f285cde", null ]
+    [ "GuildUpdateMotdText", "d6/d28/a10623.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
+    [ "Read", "d6/d28/a10623.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
+    [ "MotdText", "d6/d28/a10623.html#a5b2ee458a919be7f912d49cf984490ac", null ]
 ];

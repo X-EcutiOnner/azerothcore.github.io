@@ -1,7 +1,6 @@
 var a02969 =
 [
-    [ "ArenaTeamFilter", "d1/dd6/a07282.html", "d1/dd6/a07282" ],
-    [ "ArenaTeamFilterByTypes", "da/d6c/a07286.html", "da/d6c/a07286" ],
-    [ "ArenaTeamFilterAllTeams", "db/d8a/a07290.html", "db/d8a/a07290" ],
-    [ "ArenaTeamFilterFactoryByUserInput", "dc/dcd/a07294.html", "dc/dcd/a07294" ]
+    [ "instance_vault_of_archavon", "da/d84/a21503.html", "da/d84/a21503" ],
+    [ "instance_vault_of_archavon::instance_vault_of_archavon_InstanceMapScript", "d4/d14/a21507.html", "d4/d14/a21507" ],
+    [ "AddSC_instance_vault_of_archavon", "db/d6c/a02969.html#af85fa677904908fe364917364696be77", null ]
 ];

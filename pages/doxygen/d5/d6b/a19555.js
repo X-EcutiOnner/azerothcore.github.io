@@ -1,9 +1,6 @@
 var a19555 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "d5/d6b/a19555.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
-    [ "JustEngagedWith", "d5/d6b/a19555.html#a9e6527bc46d7b685d938833d18796cee", null ],
-    [ "MoveInLineOfSight", "d5/d6b/a19555.html#a7449e135f088a2d4b22a423c71118093", null ],
-    [ "MovementInform", "d5/d6b/a19555.html#ac04d90e974f85282737bb5081a123106", null ],
-    [ "UpdateAI", "d5/d6b/a19555.html#afccd77c8e90d129fb3a347205a2102db", null ],
-    [ "events", "d5/d6b/a19555.html#a73c135ec94b41a752fc203c5e20128d0", null ]
+    [ "instance_nexus_InstanceMapScript", "db/d24/a19559.html", "db/d24/a19559" ],
+    [ "instance_nexus", "d5/d6b/a19555.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
+    [ "GetInstanceScript", "d5/d6b/a19555.html#a156210ba08caa0572c775dbd5851b250", null ]
 ];

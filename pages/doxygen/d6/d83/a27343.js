@@ -1,5 +1,6 @@
 var a27343 =
 [
-    [ "item_only_for_flight", "d6/d83/a27343.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
-    [ "OnUse", "d6/d83/a27343.html#a88cdf17a85630aef703f93143ba41d4d", null ]
+    [ "AreaTrigger_at_area_52_entrance", "d6/d83/a27343.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "d6/d83/a27343.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "d6/d83/a27343.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

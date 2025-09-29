@@ -1,7 +1,14 @@
 var a21515 =
 [
-    [ "npc_mootoo_the_youngerAI", "dd/d2e/a21515.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "dd/d2e/a21515.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "dd/d2e/a21515.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "dd/d2e/a21515.html#ac758a992ed0d62a272930c84d617b348", null ]
+    [ "boss_cyanigosaAI", "dd/d2e/a21515.html#a4b24132889b17b3e682a15009a1ae910", null ],
+    [ "EnterEvadeMode", "dd/d2e/a21515.html#a8da6ddc9b1c9f7b145920205046ce095", null ],
+    [ "JustDied", "dd/d2e/a21515.html#a805117db567dd3d529a1c862bc24179c", null ],
+    [ "JustEngagedWith", "dd/d2e/a21515.html#a4ef85c0178120f14f2a7b29efb7a9abf", null ],
+    [ "KilledUnit", "dd/d2e/a21515.html#a5e69b631ab6844160b1e53fd1d731bae", null ],
+    [ "MoveInLineOfSight", "dd/d2e/a21515.html#adb699a22dbf1c14cb80f8fdcca9c6f82", null ],
+    [ "Reset", "dd/d2e/a21515.html#a7b0fdaa4f2603db8fd2d0c1ee6975817", null ],
+    [ "SpellHitTarget", "dd/d2e/a21515.html#ae8218b69e6dc7489e65d891048d84da1", null ],
+    [ "UpdateAI", "dd/d2e/a21515.html#ae69afba77636c962045160b610177bd9", null ],
+    [ "events", "dd/d2e/a21515.html#ab5fe766d46e9445b9e7cfc605073983f", null ],
+    [ "pInstance", "dd/d2e/a21515.html#a075f4a592202dc73d9b5d63ca5178093", null ]
 ];

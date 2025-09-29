@@ -1,10 +1,6 @@
 var a13947 =
 [
-    [ "boss_jeklik", "d6/d4d/a13947.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
-    [ "EnterEvadeMode", "d6/d4d/a13947.html#a70dc363e0690e72846db5f779375edc1", null ],
-    [ "JustDied", "d6/d4d/a13947.html#ae648ba9ff49f4970612a8c3351789b66", null ],
-    [ "JustEngagedWith", "d6/d4d/a13947.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
-    [ "PathEndReached", "d6/d4d/a13947.html#a689e8f91361de45e6f885fea0dec900a", null ],
-    [ "Reset", "d6/d4d/a13947.html#a7959106123e60e3584b32b50a272746c", null ],
-    [ "batRidersCount", "d6/d4d/a13947.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
+    [ "npc_the_scourge_cauldronAI", "d5/d48/a13951.html", "d5/d48/a13951" ],
+    [ "npc_the_scourge_cauldron", "d6/d4d/a13947.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
+    [ "GetAI", "d6/d4d/a13947.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
 ];

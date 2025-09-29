@@ -1,7 +1,8 @@
 var a13211 =
 [
-    [ "CorruptTriggers", "d5/d1e/a13211.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
-    [ "Execute", "d5/d1e/a13211.html#a9929f3518f307e0b753782967f06c6c1", null ],
-    [ "_caster", "d5/d1e/a13211.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
-    [ "_currentLane", "d5/d1e/a13211.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
+    [ "npc_highlord_darion_mograineAI", "da/dad/a13215.html", "da/dad/a13215" ],
+    [ "npc_highlord_darion_mograine", "d5/d1e/a13211.html#a86680b1a140c706b10fd48befc572286", null ],
+    [ "GetAI", "d5/d1e/a13211.html#a350539ed741fa372ffff92ffbc6e6260", null ],
+    [ "OnGossipHello", "d5/d1e/a13211.html#a35afc9d80b4570163af9f6013949a70c", null ],
+    [ "OnGossipSelect", "d5/d1e/a13211.html#a0539d24556c16a1a72be8258c752f5f5", null ]
 ];

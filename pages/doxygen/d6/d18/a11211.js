@@ -1,7 +1,8 @@
 var a11211 =
 [
-    [ "EffectNameCheck", "d6/d18/a11211.html#aa82307388bdda7864bb085a349b63f29", null ],
-    [ "Check", "d6/d18/a11211.html#a729d7f07669dedec50f009a87b8f32a4", null ],
-    [ "ToString", "d6/d18/a11211.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
-    [ "effName", "d6/d18/a11211.html#a905224fb028ea0eab350773b7230f871", null ]
+    [ "SkillExtraItemEntry", "d6/d18/a11211.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
+    [ "SkillExtraItemEntry", "d6/d18/a11211.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
+    [ "additionalCreateChance", "d6/d18/a11211.html#a299d886468e9caf22f9d6ce80a64c247", null ],
+    [ "newMaxOrEntry", "d6/d18/a11211.html#adfda967d36154b039495f0b289a5c9d1", null ],
+    [ "requiredSpecialization", "d6/d18/a11211.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
 ];

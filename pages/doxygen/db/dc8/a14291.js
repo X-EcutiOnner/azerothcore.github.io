@@ -1,6 +1,6 @@
 var a14291 =
 [
-    [ "HandleDummy", "db/dc8/a14291.html#a7e6ecd28a6b1f161619e179bc386388e", null ],
-    [ "PrepareSpellScript", "db/dc8/a14291.html#a87a787c6ab3804847c90266f570381c6", null ],
-    [ "Register", "db/dc8/a14291.html#ad5c7ab8f3bb74882eed42c6e0868ab70", null ]
+    [ "HandleOnHit", "db/dc8/a14291.html#a36909ef786940eb1a05539c968d78e80", null ],
+    [ "PrepareSpellScript", "db/dc8/a14291.html#a4bc6792c99b40834ec1a8a9764589e24", null ],
+    [ "Register", "db/dc8/a14291.html#ad1d60c5f747f8ec16cbf2402567cfebd", null ]
 ];

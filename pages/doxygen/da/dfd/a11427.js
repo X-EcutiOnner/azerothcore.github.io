@@ -1,9 +1,6 @@
 var a11427 =
 [
-    [ "bytes", "da/dfd/a11427.html#a3a2997d203c186bc3cd54a9ba4235319", null ],
-    [ "bytes", "da/dfd/a11427.html#a8484412ccb13cf396a4dc28b86f65b4e", null ],
-    [ "bytes", "da/dfd/a11427.html#ad0213e5de805b0decb4730efa2d412e0", null ],
-    [ "ints", "da/dfd/a11427.html#a0518eb4b0a91697500a5a370068425a8", null ],
-    [ "ints", "da/dfd/a11427.html#a08efba5e78b64fef020453f689bcc5f0", null ],
-    [ "ints", "da/dfd/a11427.html#a36edc530bfb803c2f122e6758d20193a", null ]
+    [ "HitHandler", "da/dfd/a11427.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
+    [ "Call", "da/dfd/a11427.html#a157baaa3ceba62a9910cba5377bd7699", null ],
+    [ "pHitHandlerScript", "da/dfd/a11427.html#ac24144e49930a01a3049740a4072f626", null ]
 ];

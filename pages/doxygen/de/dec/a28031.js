@@ -1,8 +1,12 @@
 var a28031 =
 [
-    [ "DamagedDisplayId", "de/dec/a28031.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
-    [ "DestroyedDisplayId", "de/dec/a28031.html#afc891df0c9491a34f784e8f141434be5", null ],
-    [ "Id", "de/dec/a28031.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
-    [ "RebuildingDisplayId", "de/dec/a28031.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
-    [ "SmokeDisplayId", "de/dec/a28031.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
+    [ "categoryId", "de/dec/a28031.html#a1de0e4302757f18c08b90b40e059737b", null ],
+    [ "count", "de/dec/a28031.html#a93aac150067979467f56d9919ff665a4", null ],
+    [ "flags", "de/dec/a28031.html#a5c0dfb5b3c0711aff47d3d604ded2d1a", null ],
+    [ "ID", "de/dec/a28031.html#a843fee247948d02f7aaf04144cb37ef5", null ],
+    [ "mapID", "de/dec/a28031.html#ab3d41381808c8bdc163554f7c46f6bc6", null ],
+    [ "name", "de/dec/a28031.html#a806cfeddc475994f1b421679bd9699e6", null ],
+    [ "points", "de/dec/a28031.html#abc2b4cf9c6580c6bc99d5c47d7539374", null ],
+    [ "refAchievement", "de/dec/a28031.html#a858661b2e3479fa3fc2e029ae0d8a145", null ],
+    [ "requiredFaction", "de/dec/a28031.html#a722dbda5ed8d74f5a1e75bdec8841aa3", null ]
 ];

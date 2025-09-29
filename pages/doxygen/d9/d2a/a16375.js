@@ -1,6 +1,6 @@
 var a16375 =
 [
-    [ "npc_toc_hunterAI", "df/db1/a16379.html", "df/db1/a16379" ],
-    [ "npc_toc_hunter", "d9/d2a/a16375.html#a73d4113df71626af7b8294e08373965e", null ],
-    [ "GetAI", "d9/d2a/a16375.html#a8b9d2a8186aefb3e411bd20c006207d4", null ]
+    [ "HandleHealPct", "d9/d2a/a16375.html#ad13b3924815ac3da7902c8292a760943", null ],
+    [ "PrepareSpellScript", "d9/d2a/a16375.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
+    [ "Register", "d9/d2a/a16375.html#a3016c31c072d6417bbe47c2891059718", null ]
 ];

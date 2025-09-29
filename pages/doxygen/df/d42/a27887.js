@@ -1,11 +1,13 @@
 var a27887 =
 [
-    [ "icon", "df/d42/a27887.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
-    [ "id", "df/d42/a27887.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
-    [ "mapId", "df/d42/a27887.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
-    [ "worldState", "df/d42/a27887.html#a9d745d26316726c861cc5a242f6a4f57", null ],
-    [ "x", "df/d42/a27887.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
-    [ "y", "df/d42/a27887.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
-    [ "z", "df/d42/a27887.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
-    [ "zoneId", "df/d42/a27887.html#a0cc33089981237694ca550cba6793a3e", null ]
+    [ "npc_spring_rabbitAI", "df/d42/a27887.html#a1211ab47dee4844b90a010c284c4f1a5", null ],
+    [ "DoAction", "df/d42/a27887.html#a288ddb2f1ee0ab7113f1a1f34dc545c5", null ],
+    [ "JustEngagedWith", "df/d42/a27887.html#a0c36f1dfc094007990f067544a940538", null ],
+    [ "Reset", "df/d42/a27887.html#ac0f6b47044099016dd6453674b75b2c8", null ],
+    [ "UpdateAI", "df/d42/a27887.html#af9da118068234755fa9219b84050d2a3", null ],
+    [ "bunnyTimer", "df/d42/a27887.html#a99c2923194cf6a07bee8924abf98f470", null ],
+    [ "inLove", "df/d42/a27887.html#aec8887aedf32fb4ebcc68c48f0ee0ea5", null ],
+    [ "jumpTimer", "df/d42/a27887.html#a5c17e00187ac87b23482dfbabb89809b", null ],
+    [ "rabbitGUID", "df/d42/a27887.html#af838b25c8442767aaef16e95022cb062", null ],
+    [ "searchTimer", "df/d42/a27887.html#af1b82227dadf30c6c796e7b8c2abbe82", null ]
 ];

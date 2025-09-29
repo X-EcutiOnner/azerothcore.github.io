@@ -1,6 +1,8 @@
 var a27051 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "d2/dd5/a27051.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "d2/dd5/a27051.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "d2/dd5/a27051.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "Detonate", "d2/dd5/a27051.html#a89f46334c78fc190afd7b03706fa2513", null ],
+    [ "HandleProc", "d2/dd5/a27051.html#a82ad88c757eed35f7e0f2af38ceb2273", null ],
+    [ "PrepareAuraScript", "d2/dd5/a27051.html#a7268602da6dc74d7c501fb90c8167226", null ],
+    [ "Register", "d2/dd5/a27051.html#ac1574e943840e5f15a808ed4d338cd5f", null ],
+    [ "Validate", "d2/dd5/a27051.html#abbc5c9d069e716d9356ec366713abb84", null ]
 ];

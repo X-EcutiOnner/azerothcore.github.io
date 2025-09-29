@@ -1,6 +1,7 @@
 var a26935 =
 [
-    [ "HandleOnHit", "d9/dc7/a26935.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
-    [ "PrepareSpellScript", "d9/dc7/a26935.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
-    [ "Register", "d9/dc7/a26935.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
+    [ "HandleDummy", "d9/dc7/a26935.html#a00d36b914f5fd0466ae775e1fc95aa4f", null ],
+    [ "PrepareSpellScript", "d9/dc7/a26935.html#a86a5c2b8ff373af7e98645b8b380145c", null ],
+    [ "Register", "d9/dc7/a26935.html#a1b879ab84b8d6227ee5b2cccccd38bc2", null ],
+    [ "Validate", "d9/dc7/a26935.html#aa7d437146a96bb40c1a66a453e3e4339", null ]
 ];

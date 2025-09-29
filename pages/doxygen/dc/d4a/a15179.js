@@ -1,7 +1,9 @@
 var a15179 =
 [
-    [ "npc_vekniss_stinger", "dc/d4a/a15179.html#ad48098961715a924270cb8bbbe77e4b0", null ],
-    [ "JustEngagedWith", "dc/d4a/a15179.html#ae7c758687c81cfb223066f0a9348eab8", null ],
-    [ "Reset", "dc/d4a/a15179.html#a2a79f3775aad83410ff2670aa438e811", null ],
-    [ "UpdateAI", "dc/d4a/a15179.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
+    [ "npc_buru_egg", "dc/d4a/a15179.html#a6aa2896342b802caecde1c1dffcf4907", null ],
+    [ "JustDied", "dc/d4a/a15179.html#a3de169b252374f0b2daed3ecb5a11502", null ],
+    [ "JustEngagedWith", "dc/d4a/a15179.html#a8cde6848569671876a17b00d75228ebe", null ],
+    [ "JustSummoned", "dc/d4a/a15179.html#abebb96dcb3d653bddd4210da6567fb87", null ],
+    [ "UpdateAI", "dc/d4a/a15179.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
+    [ "_instance", "dc/d4a/a15179.html#a5b168226755a57368f17827e3457a0ca", null ]
 ];

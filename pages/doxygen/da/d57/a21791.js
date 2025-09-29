@@ -1,6 +1,6 @@
 var a21791 =
 [
-    [ "npc_q24545_vegardAI", "d5/d40/a21795.html", "d5/d40/a21795" ],
-    [ "npc_q24545_vegard", "da/d57/a21791.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
-    [ "GetAI", "da/d57/a21791.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
+    [ "npc_valiance_keep_cannoneerAI", "d5/d40/a21795.html", "d5/d40/a21795" ],
+    [ "npc_valiance_keep_cannoneer", "da/d57/a21791.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
+    [ "GetAI", "da/d57/a21791.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
 ];

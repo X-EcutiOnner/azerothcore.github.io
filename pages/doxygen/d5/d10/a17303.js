@@ -1,6 +1,6 @@
 var a17303 =
 [
-    [ "boss_blood_queen_lana_thelAI", "d0/de2/a17307.html", "d0/de2/a17307" ],
-    [ "boss_blood_queen_lana_thel", "d5/d10/a17303.html#a9f8fa906f01082caacd106abc2707b07", null ],
-    [ "GetAI", "d5/d10/a17303.html#a7873efd945bdb24228866f639e32879b", null ]
+    [ "npc_pos_leader_secondAI", "d0/de2/a17307.html", "d0/de2/a17307" ],
+    [ "npc_pos_leader_second", "d5/d10/a17303.html#ac4758674cc97eae0937264fa028e6da5", null ],
+    [ "GetAI", "d5/d10/a17303.html#ac403cfc86247990d78c9cf4179df8b87", null ]
 ];

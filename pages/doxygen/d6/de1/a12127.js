@@ -1,5 +1,6 @@
 var a12127 =
 [
-    [ "at_scarshield_infiltrator", "d6/de1/a12127.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
-    [ "OnTrigger", "d6/de1/a12127.html#a607c3ee2bd4716cf1e0499e202d379fc", null ]
+    [ "boss_high_priestess_thaurissanAI", "d6/de1/a12127.html#acbc89b59865a5fda5a4143dd8c690b37", null ],
+    [ "JustEngagedWith", "d6/de1/a12127.html#a6602682950aab4e9932bf6cdfac9886b", null ],
+    [ "UpdateAI", "d6/de1/a12127.html#a216a5bc7a38aa5e13f9d025f44e04779", null ]
 ];

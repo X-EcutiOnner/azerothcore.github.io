@@ -1,14 +1,9 @@
 var a20035 =
 [
-    [ "boss_freya_summonsAI", "d3/d8d/a20035.html#acbba11d918cc6368612cbd3d95310fe2", null ],
-    [ "DoAction", "d3/d8d/a20035.html#ad9dd522e33ffd42bff75f7dd5f1bdc45", null ],
-    [ "JustDied", "d3/d8d/a20035.html#af7668e0cb4be7d49af8be697b8fa3299", null ],
-    [ "JustEngagedWith", "d3/d8d/a20035.html#a3163e12dd184dc5b8981c356e601a05a", null ],
-    [ "Reset", "d3/d8d/a20035.html#a44f1ac940625fdd0cdb84454082e7ab6", null ],
-    [ "UpdateAI", "d3/d8d/a20035.html#afdd17576728872509ec31188fa68505b", null ],
-    [ "_freyaGUID", "d3/d8d/a20035.html#adcdf01b496a52b1d0aa2f1b3bf6a7a0a", null ],
-    [ "_hasDied", "d3/d8d/a20035.html#a86f421141d31ac70e58cf63fe707ba27", null ],
-    [ "_isTrio", "d3/d8d/a20035.html#ab31e8c73c3e22b031e5efe89ae95ce0e", null ],
-    [ "_stackCount", "d3/d8d/a20035.html#ab7fc673ad22c1dd3bd41fa185ee03abb", null ],
-    [ "events", "d3/d8d/a20035.html#a79403b4a24b92f89252db603d8ea2210", null ]
+    [ "npc_auriaya_sanctum_sentryAI", "d3/d8d/a20035.html#afffb62c4db56bb4e7baa095ae75cd7e3", null ],
+    [ "JustEngagedWith", "d3/d8d/a20035.html#aeeb0aa4667a110dabcc70d422ebd6de5", null ],
+    [ "Reset", "d3/d8d/a20035.html#a5ab87ac858782cd7f05d9778ca3a6214", null ],
+    [ "UpdateAI", "d3/d8d/a20035.html#ab1862b4bd4b4fdfaeac8ad9c52cc5ed6", null ],
+    [ "_ripFleshTimer", "d3/d8d/a20035.html#a83920afb7f6930d780abd2d6fba2aa4c", null ],
+    [ "_savagePounceTimer", "d3/d8d/a20035.html#a9a6b14ece9a0bf812a04ea765b546735", null ]
 ];

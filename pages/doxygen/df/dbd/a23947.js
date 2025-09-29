@@ -1,7 +1,7 @@
 var a23947 =
 [
-    [ "HandleEffect", "df/dbd/a23947.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "df/dbd/a23947.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "df/dbd/a23947.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "df/dbd/a23947.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "boss_zereketh_the_unbound", "df/dbd/a23947.html#abb2fc5cbe7514142160818016fda1936", null ],
+    [ "JustDied", "df/dbd/a23947.html#ac5d96da9a33a536f2002cce11453ded3", null ],
+    [ "JustEngagedWith", "df/dbd/a23947.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
+    [ "KilledUnit", "df/dbd/a23947.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
 ];

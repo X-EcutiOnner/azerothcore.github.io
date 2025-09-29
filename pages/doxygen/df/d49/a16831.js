@@ -1,6 +1,7 @@
 var a16831 =
 [
-    [ "npc_tortured_riflemanAI", "d8/d13/a16835.html", "d8/d13/a16835" ],
-    [ "npc_tortured_rifleman", "df/d49/a16831.html#a32e4164864c3873b3684ad531a2e924a", null ],
-    [ "GetAI", "df/d49/a16831.html#aaef71feb7077c561eb2bcf7d4fc411c7", null ]
+    [ "HandleEffectPeriodic", "df/d49/a16831.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
+    [ "PrepareAuraScript", "df/d49/a16831.html#af84222492b3209c97695895c4c991f4a", null ],
+    [ "Register", "df/d49/a16831.html#a4d1741913631bb649508ef238e25a6c8", null ],
+    [ "Validate", "df/d49/a16831.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
 ];

@@ -1,10 +1,6 @@
 var a28503 =
 [
-    [ "adt_CELLS", "d4/d32/a28511.html", "d4/d32/a28511" ],
-    [ "getMCNK", "de/ddd/a28503.html#a8330b7cb405146399d3d20e6952a8b40", null ],
-    [ "prepareLoadedData", "de/ddd/a28503.html#adc7346499aa51f4422c810b7e757f835", null ],
-    [ "cells", "de/ddd/a28503.html#a434ed0ca354ec27d5334cc63e5650038", null ],
-    [ "fcc", "de/ddd/a28503.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
-    [ "fcc_txt", "de/ddd/a28503.html#a514bae36851623daf76b26a9d63f1ae0", null ],
-    [ "size", "de/ddd/a28503.html#a1a40f52ea9eef3add8207da89cb71210", null ]
+    [ "Enchantment", "de/ddd/a28503.html#a480ab806214bb138d56dfd5e9e43936f", null ],
+    [ "ID", "de/ddd/a28503.html#acb673be771124b84dd3fdd5deb300de7", null ],
+    [ "Name", "de/ddd/a28503.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
 ];

@@ -1,9 +1,6 @@
 var a18027 =
 [
-    [ "AfterApply", "dc/d8c/a18027.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
-    [ "ExtraRemoveEffect", "dc/d8c/a18027.html#a9f427761fcca9029eb75d586e5876fcd", null ],
-    [ "PeriodicTick", "dc/d8c/a18027.html#a82430399e44001343f322b2c3b7769a5", null ],
-    [ "PrepareAuraScript", "dc/d8c/a18027.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
-    [ "Register", "dc/d8c/a18027.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
-    [ "Validate", "dc/d8c/a18027.html#ae20873e93fbace6272a793993fb45349", null ]
+    [ "AbominationDespawner", "dc/d8c/a18027.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "dc/d8c/a18027.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "dc/d8c/a18027.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

@@ -1,12 +1,9 @@
 var a16819 =
 [
-    [ "npc_shadowy_mercenaryAI", "d3/d64/a16819.html#ac631624615653a4f82ecfae2aa418455", null ],
-    [ "AttackStart", "d3/d64/a16819.html#a001fa53e29cf8a20ed2e3312058ceb0a", null ],
-    [ "DoAction", "d3/d64/a16819.html#a62f4e98e1dadfa0a2aeea43af9d26234", null ],
-    [ "EnterEvadeMode", "d3/d64/a16819.html#a31a9ddf038046534fad1d41afcf76548", null ],
-    [ "JustDied", "d3/d64/a16819.html#a33e576c92d1b10492cb6e65000ca8198", null ],
-    [ "JustEngagedWith", "d3/d64/a16819.html#ae12ade5e863a0022ea99620f354ca51b", null ],
-    [ "Reset", "d3/d64/a16819.html#afad174f812e2aadf6db86703a46f61d2", null ],
-    [ "UpdateAI", "d3/d64/a16819.html#a7a0238f32aa0d608b9d883db5f170052", null ],
-    [ "events", "d3/d64/a16819.html#a4c6e5a49dc4364477187a0189a166578", null ]
+    [ "npc_concentrated_ballAI", "d3/d64/a16819.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
+    [ "DoAction", "d3/d64/a16819.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
+    [ "MovementInform", "d3/d64/a16819.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
+    [ "MoveToNextPoint", "d3/d64/a16819.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
+    [ "UpdateAI", "d3/d64/a16819.html#a6509ff14639bca29b6877db54102d004", null ],
+    [ "despawning", "d3/d64/a16819.html#a24145c6c4c38b5a1853647d24871090d", null ]
 ];

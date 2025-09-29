@@ -1,6 +1,8 @@
 var a25195 =
 [
-    [ "HandleCast", "d0/df6/a25195.html#ac6f7b9650d0a55834dafb09555692243", null ],
-    [ "PrepareSpellScript", "d0/df6/a25195.html#ab3dc21aa63f0fb9202233603106eef87", null ],
-    [ "Register", "d0/df6/a25195.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
+    [ "CheckProc", "d0/df6/a25195.html#a88cdab428be20027d939fe4765afc9e0", null ],
+    [ "HandleProc", "d0/df6/a25195.html#a8e49a1bc11fdfc1b7d3f8225c890206f", null ],
+    [ "PrepareAuraScript", "d0/df6/a25195.html#a33f53dc5834a3be78e24a1a58bdfd15a", null ],
+    [ "Register", "d0/df6/a25195.html#aacb126d871c0df43f5096124b8cda376", null ],
+    [ "Validate", "d0/df6/a25195.html#aa81adc61bd1149d9c43c4670f02a91ba", null ]
 ];

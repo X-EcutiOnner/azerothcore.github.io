@@ -1,6 +1,7 @@
 var a16235 =
 [
-    [ "boss_grand_championAI", "da/d23/a16239.html", "da/d23/a16239" ],
-    [ "boss_grand_champion", "db/d09/a16235.html#a9577f8af5e234b3aebd7567841b867e2", null ],
-    [ "GetAI", "db/d09/a16235.html#aa60972482ef16329d7ffc0a7ccf2d03e", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "db/d09/a16235.html#aed531e61508d4d404827f47c6348a5e6", null ],
+    [ "JustEngagedWith", "db/d09/a16235.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
+    [ "UpdateAI", "db/d09/a16235.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
+    [ "_events", "db/d09/a16235.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
 ];

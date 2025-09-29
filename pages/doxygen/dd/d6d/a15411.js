@@ -1,5 +1,6 @@
 var a15411 =
 [
-    [ "at_ancient_leaf", "dd/d6d/a15411.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
-    [ "OnTrigger", "dd/d6d/a15411.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
+    [ "HandleOnHit", "dd/d6d/a15411.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
+    [ "PrepareSpellScript", "dd/d6d/a15411.html#a9e568a1608715973fc438ff5e4356714", null ],
+    [ "Register", "dd/d6d/a15411.html#a752d697aada626440fdff2bd889f890f", null ]
 ];

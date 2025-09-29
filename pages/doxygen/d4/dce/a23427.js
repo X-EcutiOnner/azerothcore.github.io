@@ -1,11 +1,7 @@
 var a23427 =
 [
-    [ "boss_high_king_maulgar", "d4/dce/a23427.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
-    [ "DoAction", "d4/dce/a23427.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
-    [ "JustDied", "d4/dce/a23427.html#ad235febd755745313b72394c633c3723", null ],
-    [ "JustEngagedWith", "d4/dce/a23427.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
-    [ "KilledUnit", "d4/dce/a23427.html#a2059016597039929103c053d6524ebf7", null ],
-    [ "Reset", "d4/dce/a23427.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
-    [ "UpdateAI", "d4/dce/a23427.html#ae540909dbbb3cf93e37503cd755c3001", null ],
-    [ "_recentlySpoken", "d4/dce/a23427.html#a306f8492d83703b339a8fbe044e0cbbd", null ]
+    [ "HandleEffectApply", "d4/dce/a23427.html#a3893fffea480b47d06c4903deb051aa9", null ],
+    [ "HandleEffectRemove", "d4/dce/a23427.html#a8f120ed0d8cbce6dd0640f02ea488669", null ],
+    [ "PrepareAuraScript", "d4/dce/a23427.html#a246c20ab26d1490fe38afd558a7ae406", null ],
+    [ "Register", "d4/dce/a23427.html#aea639a3ae0f003c6213143427f3b1d23", null ]
 ];

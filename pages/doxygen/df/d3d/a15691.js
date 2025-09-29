@@ -1,6 +1,6 @@
 var a15691 =
 [
-    [ "HandleOpenLock", "df/d3d/a15691.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
-    [ "PrepareSpellScript", "df/d3d/a15691.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
-    [ "Register", "df/d3d/a15691.html#a5dcac6f609ec93074ec3ce195101f592", null ]
+    [ "npc_silva_filnaveth", "df/d3d/a15691.html#a5998381865214a7b3af7823bd2557cb0", null ],
+    [ "OnGossipHello", "df/d3d/a15691.html#a32019c17271a3f504d86cd694262fd53", null ],
+    [ "OnGossipSelect", "df/d3d/a15691.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
 ];

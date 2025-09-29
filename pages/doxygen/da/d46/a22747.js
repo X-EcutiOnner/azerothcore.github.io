@@ -1,7 +1,10 @@
 var a22747 =
 [
-    [ "VerasEnvenom", "da/d46/a22747.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
-    [ "Execute", "da/d46/a22747.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
-    [ "_owner", "da/d46/a22747.html#af9cf231119ab5592be9829784f20d2e0", null ],
-    [ "_targetGUID", "da/d46/a22747.html#a90d62907c775565765fa87903adb94ea", null ]
+    [ "OPvPCapturePointHP", "da/d46/a22747.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
+    [ "ChangeState", "da/d46/a22747.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
+    [ "FillInitialWorldStates", "da/d46/a22747.html#aa8d725422951485970d9106450fb6a38", null ],
+    [ "HandlePlayerEnter", "da/d46/a22747.html#ad9738c621df084d5a3f0070c80403642", null ],
+    [ "HandlePlayerLeave", "da/d46/a22747.html#a86e849e5387383a6c751e69350ffa07c", null ],
+    [ "SendChangePhase", "da/d46/a22747.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
+    [ "m_TowerType", "da/d46/a22747.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
 ];

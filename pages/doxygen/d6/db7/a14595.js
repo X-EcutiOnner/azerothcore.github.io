@@ -1,10 +1,10 @@
 var a14595 =
 [
-    [ "hyjalJainaAI", "d6/db7/a14595.html#aa7532b691e85fd9bd467e20db39c59da", null ],
-    [ "IsSummonedBy", "d6/db7/a14595.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
-    [ "JustDied", "d6/db7/a14595.html#a605687080e5149b3f08ce8349ba9b336", null ],
-    [ "JustEngagedWith", "d6/db7/a14595.html#a187efe775b1e2a35637638507e77352e", null ],
-    [ "PathEndReached", "d6/db7/a14595.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
-    [ "Reset", "d6/db7/a14595.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
-    [ "UpdateAI", "d6/db7/a14595.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
+    [ "boss_headless_horseman_pumpkin", "d6/db7/a14595.html#a62191ae523401ac57a947db96a245f7a", null ],
+    [ "AttackStart", "d6/db7/a14595.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
+    [ "MoveInLineOfSight", "d6/db7/a14595.html#a212f9803f66d297cd276ef842247776a", null ],
+    [ "Reset", "d6/db7/a14595.html#a9d5f6922a52146b61168f1c50b378294", null ],
+    [ "SpellHit", "d6/db7/a14595.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
+    [ "UpdateAI", "d6/db7/a14595.html#aca53b8839bce5e180ba8583490d694c3", null ],
+    [ "timer", "d6/db7/a14595.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
 ];

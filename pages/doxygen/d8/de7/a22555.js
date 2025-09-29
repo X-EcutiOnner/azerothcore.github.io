@@ -1,14 +1,6 @@
 var a22555 =
 [
-    [ "boss_nexusprince_shaffar", "d8/de7/a22555.html#a2e861fb53bca7a40e967971b5e7be533", null ],
-    [ "JustDied", "d8/de7/a22555.html#abf2fef0888bced83511883027bf4d500", null ],
-    [ "JustEngagedWith", "d8/de7/a22555.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
-    [ "JustSummoned", "d8/de7/a22555.html#a576240b46ce0988f0ef86e1460c831ef", null ],
-    [ "KilledUnit", "d8/de7/a22555.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
-    [ "MoveInLineOfSight", "d8/de7/a22555.html#a71e501225d88851210d2e0e58de27f99", null ],
-    [ "Reset", "d8/de7/a22555.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
-    [ "SummonedCreatureDespawn", "d8/de7/a22555.html#ab806564e96708ca12f444249abd3c88c", null ],
-    [ "UpdateAI", "d8/de7/a22555.html#a147500575a3821262ec718ec023b458c", null ],
-    [ "HasTaunted", "d8/de7/a22555.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
-    [ "summons", "d8/de7/a22555.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
+    [ "npc_vehicle_d16_propelled_deliveryAI", "d7/d84/a22559.html", "d7/d84/a22559" ],
+    [ "npc_vehicle_d16_propelled_delivery", "d8/de7/a22555.html#a93bed362ae78231b21327994a3e4cafd", null ],
+    [ "GetAI", "d8/de7/a22555.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
 ];

@@ -1,9 +1,9 @@
 var a16727 =
 [
-    [ "HandlePeriodicTick", "d3/d1e/a16727.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
-    [ "Load", "d3/d1e/a16727.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
-    [ "PrepareAuraScript", "d3/d1e/a16727.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
-    [ "Register", "d3/d1e/a16727.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
-    [ "Validate", "d3/d1e/a16727.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
-    [ "dir", "d3/d1e/a16727.html#a7dd1959596e8ad1628498215249eb7a2", null ]
+    [ "npc_fel_infernalAI", "d3/d1e/a16727.html#a7f34b34facdfeea3fc3507ad3cf84dda", null ],
+    [ "EnterEvadeMode", "d3/d1e/a16727.html#aedec8729b9be931a74fe00d1aa649848", null ],
+    [ "JustDied", "d3/d1e/a16727.html#a599786069f98231eeb7f9ca809f8e671", null ],
+    [ "Reset", "d3/d1e/a16727.html#a09f408c9250467228b91ef9f6c9544f4", null ],
+    [ "UpdateAI", "d3/d1e/a16727.html#a45075fdaba6d7c04cb526420deb8a0ac", null ],
+    [ "events", "d3/d1e/a16727.html#acf955037c246f7b5f12cc5338b300b63", null ]
 ];

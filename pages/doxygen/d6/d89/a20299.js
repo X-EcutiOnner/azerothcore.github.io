@@ -1,10 +1,14 @@
 var a20299 =
 [
-    [ "boss_kologarn_eyebeamAI", "d6/d89/a20299.html#add083b2a9067753458de1eeb6bdca4c0", null ],
-    [ "DamageDealt", "d6/d89/a20299.html#a6c1d27cc208bdaf260d6c90a2b7bca45", null ],
-    [ "IsSummonedBy", "d6/d89/a20299.html#affd177dc20c800777142208fa97207fa", null ],
-    [ "UpdateAI", "d6/d89/a20299.html#add60a709a1edf1684bd21358769590b4", null ],
-    [ "_damaged", "d6/d89/a20299.html#a7b49d9826efcf492c6e7ee003f481ccb", null ],
-    [ "_timer", "d6/d89/a20299.html#a766ad3e10016d97235499d1512c4da27", null ],
-    [ "m_pInstance", "d6/d89/a20299.html#a4145bd7e5c80c4e62144b437d38624a4", null ]
+    [ "boss_freya_summonsAI", "d6/d89/a20299.html#acbba11d918cc6368612cbd3d95310fe2", null ],
+    [ "DoAction", "d6/d89/a20299.html#ad9dd522e33ffd42bff75f7dd5f1bdc45", null ],
+    [ "JustDied", "d6/d89/a20299.html#af7668e0cb4be7d49af8be697b8fa3299", null ],
+    [ "JustEngagedWith", "d6/d89/a20299.html#a3163e12dd184dc5b8981c356e601a05a", null ],
+    [ "Reset", "d6/d89/a20299.html#a44f1ac940625fdd0cdb84454082e7ab6", null ],
+    [ "UpdateAI", "d6/d89/a20299.html#afdd17576728872509ec31188fa68505b", null ],
+    [ "_freyaGUID", "d6/d89/a20299.html#adcdf01b496a52b1d0aa2f1b3bf6a7a0a", null ],
+    [ "_hasDied", "d6/d89/a20299.html#a86f421141d31ac70e58cf63fe707ba27", null ],
+    [ "_isTrio", "d6/d89/a20299.html#ab31e8c73c3e22b031e5efe89ae95ce0e", null ],
+    [ "_stackCount", "d6/d89/a20299.html#ab7fc673ad22c1dd3bd41fa185ee03abb", null ],
+    [ "events", "d6/d89/a20299.html#a79403b4a24b92f89252db603d8ea2210", null ]
 ];

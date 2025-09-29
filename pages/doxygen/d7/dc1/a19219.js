@@ -1,6 +1,6 @@
 var a19219 =
 [
-    [ "npc_eoe_wyrmrest_skytalonAI", "d7/dc1/a19219.html#a0878695bc4179e3b6e92dde9f2b5cf19", null ],
-    [ "JustDied", "d7/dc1/a19219.html#aaa88ff236fd49a9c672ab29feb7377b8", null ],
-    [ "PassengerBoarded", "d7/dc1/a19219.html#aa3352276e87d805cc8722eb97d10ca46", null ]
+    [ "npc_gothik_triggerAI", "d6/de7/a19223.html", "d6/de7/a19223" ],
+    [ "npc_gothik_trigger", "d7/dc1/a19219.html#a6975122d49b0d76fb2b33b310a7ccb71", null ],
+    [ "GetAI", "d7/dc1/a19219.html#a9b3b47e95d2c41c109a9ccd3915b89ff", null ]
 ];

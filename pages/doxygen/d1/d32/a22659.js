@@ -1,6 +1,6 @@
 var a22659 =
 [
-    [ "HandleScriptEffect", "d1/d32/a22659.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
-    [ "PrepareSpellScript", "d1/d32/a22659.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
-    [ "Register", "d1/d32/a22659.html#aad6959f74932db219e991efd3b3af44a", null ]
+    [ "npc_overlord_drakuru_betrayalAI", "dc/df2/a22663.html", "dc/df2/a22663" ],
+    [ "npc_overlord_drakuru_betrayal", "d1/d32/a22659.html#af4092356ea86c25d91c73af1310c2eb0", null ],
+    [ "GetAI", "d1/d32/a22659.html#a3bd893f08212dc94a321beb7a95eea08", null ]
 ];

@@ -1,5 +1,6 @@
 var a10527 =
 [
-    [ "GuildGetRoster", "dd/db3/a10527.html#a9beccc6ee2416633c57d2da31fdc021a", null ],
-    [ "Read", "dd/db3/a10527.html#af795ad992ec1b55d741227bd2d4a62d1", null ]
+    [ "ShowingHelm", "dd/db3/a10527.html#a67e25a4a39b14e488b5176b02e8dc995", null ],
+    [ "Read", "dd/db3/a10527.html#a9e6d525a7104f2a8f81564d3796c6211", null ],
+    [ "ShowHelm", "dd/db3/a10527.html#a9f3d52d5d6a6fa76b29afbd5a56d5622", null ]
 ];

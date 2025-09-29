@@ -1,6 +1,6 @@
 var a15415 =
 [
-    [ "HandleDummy", "dc/d42/a15415.html#af9c26a7e5f6cba4f1146cb626dbcf8ed", null ],
-    [ "PrepareSpellScript", "dc/d42/a15415.html#adc581ed46587afcc8be3800ae79105f6", null ],
-    [ "Register", "dc/d42/a15415.html#a7d09808ea2fdec450fcd129e996bd245", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "de/ddd/a15419.html", "de/ddd/a15419" ],
+    [ "instance_temple_of_ahnqiraj", "dc/d42/a15415.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
+    [ "GetInstanceScript", "dc/d42/a15415.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
 ];

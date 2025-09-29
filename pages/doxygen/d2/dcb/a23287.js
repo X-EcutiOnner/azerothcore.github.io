@@ -1,6 +1,6 @@
 var a23287 =
 [
-    [ "boss_rokmar_the_crackler", "d2/dcb/a23287.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
-    [ "JustEngagedWith", "d2/dcb/a23287.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
-    [ "Reset", "d2/dcb/a23287.html#aed9cf4a866d5e70647125a08885fb809", null ]
+    [ "PrepareAuraScript", "d2/dcb/a23287.html#a0dca39c324a5431d4861c1f20a34355e", null ],
+    [ "Register", "d2/dcb/a23287.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
+    [ "Update", "d2/dcb/a23287.html#a6201eaa3b961e838a535b80679996ada", null ]
 ];

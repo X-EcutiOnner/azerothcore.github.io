@@ -1,7 +1,6 @@
 var a18863 =
 [
-    [ "npc_ioc_gunship_captainAI", "d9/d2b/a18863.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
-    [ "DoAction", "d9/d2b/a18863.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
-    [ "UpdateAI", "d9/d2b/a18863.html#a222b304633143bba47d3edde67ea093b", null ],
-    [ "_events", "d9/d2b/a18863.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
+    [ "npc_frostwing_vrykulAI", "dd/d0d/a18867.html", "dd/d0d/a18867" ],
+    [ "npc_frostwing_vrykul", "d9/d2b/a18863.html#ab915aa094ddebd9201a1c626e6427409", null ],
+    [ "GetAI", "d9/d2b/a18863.html#a11678e59b6db9a41c7b6a575339995fd", null ]
 ];

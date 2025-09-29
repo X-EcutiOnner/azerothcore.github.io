@@ -1,12 +1,11 @@
 var a05363 =
 [
-    [ "Node", "db/da4/a05367.html", "db/da4/a05367" ],
-    [ "MPSCQueueNonIntrusive", "d3/dea/a05363.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
-    [ "~MPSCQueueNonIntrusive", "d3/dea/a05363.html#a599e2093215f70dc4f2f7db08965d816", null ],
-    [ "MPSCQueueNonIntrusive", "d3/dea/a05363.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
-    [ "Dequeue", "d3/dea/a05363.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
-    [ "Enqueue", "d3/dea/a05363.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
-    [ "operator=", "d3/dea/a05363.html#a75063e89049903fb5305d67ea1a02034", null ],
-    [ "_head", "d3/dea/a05363.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
-    [ "_tail", "d3/dea/a05363.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
+    [ "Decode", "d3/dea/a05363.html#a1017c0ca9db8f38832271dbe04a6c22c", null ],
+    [ "DecodedSize", "d3/dea/a05363.html#ae7f09527200686c22611e59e995a17ef", null ],
+    [ "Encode", "d3/dea/a05363.html#a9132df0434948b03df8f79b6cc48252c", null ],
+    [ "EncodedSize", "d3/dea/a05363.html#ab6808fd4c674e10ce28153394189abf5", null ],
+    [ "BITS_PER_CHAR", "d3/dea/a05363.html#a04facbd14c7d876af5154cb200d74e6b", null ],
+    [ "DECODE_ERROR", "d3/dea/a05363.html#ab52b675a0956909cdac9413443551086", null ],
+    [ "PAD_TO", "d3/dea/a05363.html#a8cec4e14ca170842d1eadf8b7b42b12b", null ],
+    [ "PADDING", "d3/dea/a05363.html#a328b2cd9dc377fb8d5b6740cde162b92", null ]
 ];

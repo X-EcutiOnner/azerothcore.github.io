@@ -1,9 +1,5 @@
 var a27587 =
 [
-    [ "npc_fireworkAI", "d9/dab/a27587.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
-    [ "FindNearestLauncher", "d9/dab/a27587.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
-    [ "GetFireworkGameObjectId", "d9/dab/a27587.html#ae17b4abbbb2088799cec188457677d44", null ],
-    [ "GetFireworkSpell", "d9/dab/a27587.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
-    [ "isCluster", "d9/dab/a27587.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
-    [ "Reset", "d9/dab/a27587.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
+    [ "go_dragonflayer_cage", "d9/dab/a27587.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
+    [ "OnGossipHello", "d9/dab/a27587.html#a542530a0b84879b21a4b9982cf4300d0", null ]
 ];

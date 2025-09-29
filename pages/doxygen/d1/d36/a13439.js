@@ -1,9 +1,9 @@
 var a13439 =
 [
-    [ "npc_professor_phizzlethorpeAI", "d1/d36/a13439.html#a92af4732575008c1a4f061cef0f23902", null ],
-    [ "JustEngagedWith", "d1/d36/a13439.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
-    [ "JustSummoned", "d1/d36/a13439.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
-    [ "sQuestAccept", "d1/d36/a13439.html#ad4a4bd9af581abe832933da69b18d76f", null ],
-    [ "UpdateAI", "d1/d36/a13439.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
-    [ "WaypointReached", "d1/d36/a13439.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ]
+    [ "spell_eredar_twins_apply_touch", "d1/d36/a13439.html#a1ffb6952cbbb79bb6a963ea57b8400aa", null ],
+    [ "HandleApplyTouch", "d1/d36/a13439.html#a200219828e22c35ef2f7c7a7fd61c973", null ],
+    [ "PrepareSpellScript", "d1/d36/a13439.html#a6e6c42042faa1a6cd82d4680d28587ae", null ],
+    [ "Register", "d1/d36/a13439.html#a8c49e8aeb1f00e8324aa4c1d420fb068", null ],
+    [ "Validate", "d1/d36/a13439.html#a36ff1d126191de7880d98242b3b714b5", null ],
+    [ "_touchSpell", "d1/d36/a13439.html#a9f8c58013add0fc5a05a78e1b90a32e1", null ]
 ];

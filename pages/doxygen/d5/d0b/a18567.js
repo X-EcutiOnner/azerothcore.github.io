@@ -1,6 +1,11 @@
 var a18567 =
 [
-    [ "npc_captain_arnathAI", "df/d1e/a18571.html", "df/d1e/a18571" ],
-    [ "npc_captain_arnath", "d5/d0b/a18567.html#ab96afce64a7714ea84bab932f80c9302", null ],
-    [ "GetAI", "d5/d0b/a18567.html#a302ec007389e677011334d78f410207b", null ]
+    [ "npc_terenas_menethilAI", "d5/d0b/a18567.html#aa2e95b96928b033ef374843ad1fb9f3c", null ],
+    [ "CanAIAttack", "d5/d0b/a18567.html#a1414da7f20e0f93486eb77c9b9450fa9", null ],
+    [ "DamageTaken", "d5/d0b/a18567.html#ae62a6f965ffb11d633190f1ca4122bc9", null ],
+    [ "DoAction", "d5/d0b/a18567.html#a4f261b19a7a8676dfd6d76d428a4f1b1", null ],
+    [ "EnterEvadeMode", "d5/d0b/a18567.html#ada5313b34e8c20c82ac97396e54e27df", null ],
+    [ "UpdateAI", "d5/d0b/a18567.html#a6210ca6e5e954d5c66d2108359efc888", null ],
+    [ "_events", "d5/d0b/a18567.html#ae61e4919b99a2b9195a389992947a125", null ],
+    [ "_instance", "d5/d0b/a18567.html#a60aae54e5e54526ba12a9468a3f45c88", null ]
 ];

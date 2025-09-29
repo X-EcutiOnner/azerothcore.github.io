@@ -1,6 +1,5 @@
 var a11883 =
 [
-    [ "boss_grizzleAI", "d6/d92/a11887.html", "d6/d92/a11887" ],
-    [ "boss_grizzle", "d0/dff/a11883.html#a6c9913cec9503a86e2f5358f65b97b26", null ],
-    [ "GetAI", "d0/dff/a11883.html#aa0bf6c89f13fbd20695ebb7ce965b0f5", null ]
+    [ "flag", "d0/dff/a11883.html#a6cae645736c697e2c2bf51a70c230070", null ],
+    [ "text", "d0/dff/a11883.html#aff011cbcd136992bfe6abb4e0e4a48ac", null ]
 ];

@@ -1,6 +1,8 @@
 var a25187 =
 [
-    [ "PrepareSpellScript", "dc/da3/a25187.html#abb178100d4e5fa4032118f86aa34127d", null ],
-    [ "Register", "dc/da3/a25187.html#a50e902cc281b909259097a8bed5651f2", null ],
-    [ "RemoveVehicleAuras", "dc/da3/a25187.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
+    [ "HandleEffectCalcPeriodic", "dc/da3/a25187.html#a78c46695cab8da2280686ea49d88f036", null ],
+    [ "HandleEffectPeriodic", "dc/da3/a25187.html#a65b8a9dcd836cb538d5d2bec3d03d4a2", null ],
+    [ "HandleOnEffectRemove", "dc/da3/a25187.html#af722cf30e478802784178a9346bd1bdd", null ],
+    [ "PrepareAuraScript", "dc/da3/a25187.html#a6352d1ab3dd67efd9be171f7db20a62d", null ],
+    [ "Register", "dc/da3/a25187.html#ae6c2b365463345c71ed1a4acdee04a15", null ]
 ];

@@ -1,8 +1,6 @@
 var a19583 =
 [
-    [ "dark_rune_stormcallerAI", "d1/d7b/a19583.html#ad889fb0c50e879c958c9b8bb681e4bf7", null ],
-    [ "JustEngagedWith", "d1/d7b/a19583.html#a7ddfb8afac3ff28a84b26255628fab50", null ],
-    [ "Reset", "d1/d7b/a19583.html#afa9cc2e1a9f7d21cd885479e9afdcd12", null ],
-    [ "UpdateAI", "d1/d7b/a19583.html#adbd245fc5180dc7c78704595a9592864", null ],
-    [ "events", "d1/d7b/a19583.html#aa7d8d1d075eeb03952b47cc16846a3db", null ]
+    [ "boss_eregosAI", "d5/da4/a19587.html", "d5/da4/a19587" ],
+    [ "boss_eregos", "d1/d7b/a19583.html#a105820f29aa1391d77a56e024c4b5637", null ],
+    [ "GetAI", "d1/d7b/a19583.html#aee43f0dfee70ab9618c560a27504cb02", null ]
 ];

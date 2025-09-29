@@ -1,6 +1,7 @@
 var a12123 =
 [
-    [ "near_scarshield_infiltrator", "db/dbe/a12123.html#a38d2e75946c429b4d80b007f190406bc", null ],
-    [ "OnTrigger", "db/dbe/a12123.html#aeb761433e3210ce85c1de4dab653a87c", null ],
-    [ "whisperedTargets", "db/dbe/a12123.html#a5655e241d2551798a960cb6375c7df23", null ]
+    [ "boss_moira_bronzebeardAI", "db/dbe/a12123.html#a11265b6aad76574c2c76253128c79165", null ],
+    [ "CastOnEmperorIfPossible", "db/dbe/a12123.html#a3f42c37e9f4cc14974106bf67ee4e583", null ],
+    [ "JustEngagedWith", "db/dbe/a12123.html#a40ae00eb86e2bec048a9394d4deef106", null ],
+    [ "UpdateAI", "db/dbe/a12123.html#ae3f22a059330fb564cd30e581fc0198d", null ]
 ];

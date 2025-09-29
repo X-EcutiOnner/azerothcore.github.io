@@ -1,10 +1,10 @@
 var a05711 =
 [
-    [ "MySQLConnectionInfo", "dd/de0/a05711.html#ae60c54053d71eb9325df10701b1f42d3", null ],
-    [ "database", "dd/de0/a05711.html#a7e65a418ad668772e4ce1b298d92f10a", null ],
-    [ "host", "dd/de0/a05711.html#a2659372561aae5feb8da121984354ef3", null ],
-    [ "password", "dd/de0/a05711.html#af5a51bd38ce1d58f65444d69b0283966", null ],
-    [ "port_or_socket", "dd/de0/a05711.html#a37b89660afb3ee085e817836e9d1d01f", null ],
-    [ "ssl", "dd/de0/a05711.html#a90e5a934b4ec46e5783248a1a80a4830", null ],
-    [ "user", "dd/de0/a05711.html#a6bf4166ebb99ea30a3894e3d8833bde6", null ]
+    [ "FreezeDetector", "df/dc6/a04793.html#gae4bea4699ff716ee22295d12bc9f1b9b", null ],
+    [ "Handler", "df/dc6/a04793.html#gad4c4e5b291e0c6c2dc169a7dbffdfabb", null ],
+    [ "Start", "df/dc6/a04793.html#ga6a90ff702a8d363bd23334c81e2e5770", null ],
+    [ "_lastChangeMsTime", "df/dc6/a04793.html#ga0a2b971b7ea733d846be71abf7b5dc1d", null ],
+    [ "_maxCoreStuckTimeInMs", "df/dc6/a04793.html#ga54077eab38ea5d0db27f08c50fd0652e", null ],
+    [ "_timer", "df/dc6/a04793.html#ga2377cec7cca6dbb9133a3d48b4d376c3", null ],
+    [ "_worldLoopCounter", "df/dc6/a04793.html#ga0ea988a0e070d056c16d7c9f3b1035f4", null ]
 ];

@@ -1,8 +1,15 @@
 var a12967 =
 [
-    [ "HandleHit", "df/d16/a12967.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
-    [ "PrepareSpellScript", "df/d16/a12967.html#a53f170244b390f7035e131fb5c79cb3f", null ],
-    [ "Register", "df/d16/a12967.html#a248124b837cf71f7d422154db4581747", null ],
-    [ "Validate", "df/d16/a12967.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
-    [ "_emote", "df/d16/a12967.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
+    [ "npc_image_of_medivhAI", "df/d16/a12967.html#a1afe3245dc18db3c0bf6801b5ca20d31", null ],
+    [ "JustEngagedWith", "df/d16/a12967.html#a1013be426b3567d8cbd1c45debc914c5", null ],
+    [ "NextStep", "df/d16/a12967.html#a87160b37ba61af4866fe3f410813fe9f", null ],
+    [ "Reset", "df/d16/a12967.html#af2e7dd7f1038bb5662fe7375a7e052c4", null ],
+    [ "UpdateAI", "df/d16/a12967.html#a321d689d645b4630e2e93e6251d5130c", null ],
+    [ "ArcanagosGUID", "df/d16/a12967.html#a877c693b6ac736aa874926d8efe0d79a", null ],
+    [ "ATimer", "df/d16/a12967.html#a28aef0767b6adb0ccf0479dd50dc11a8", null ],
+    [ "EventStarted", "df/d16/a12967.html#a9a662b435218a3e13ca58eb4a6b3af86", null ],
+    [ "instance", "df/d16/a12967.html#a2e02aa8d441426aa51f46121eec0becb", null ],
+    [ "MTimer", "df/d16/a12967.html#a16c3f6d5bd1cc288590bd096233e0bfb", null ],
+    [ "Step", "df/d16/a12967.html#a9d7b9bdcf9e185284dba5251a0deb0b3", null ],
+    [ "YellTimer", "df/d16/a12967.html#a34ad7cabe4cb86e23deb30ca0ce77db0", null ]
 ];

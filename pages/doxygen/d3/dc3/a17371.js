@@ -1,8 +1,10 @@
 var a17371 =
 [
-    [ "npc_muradin_bronzebeard_iccAI", "d6/dad/a17375.html", "d6/dad/a17375" ],
-    [ "npc_muradin_bronzebeard_icc", "d3/dc3/a17371.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
-    [ "GetAI", "d3/dc3/a17371.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
-    [ "OnGossipHello", "d3/dc3/a17371.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
-    [ "OnGossipSelect", "d3/dc3/a17371.html#a46c4893be723a848d985ff55e28d55a2", null ]
+    [ "npc_living_mojoAI", "d3/dc3/a17371.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
+    [ "AttackStart", "d3/dc3/a17371.html#ad3f73a040176cd804f9715141063d176", null ],
+    [ "DoAction", "d3/dc3/a17371.html#a9d942e99f358a7488d473969ab461d6f", null ],
+    [ "MoveInLineOfSight", "d3/dc3/a17371.html#a7981568666269e25580ae839f1f97f09", null ],
+    [ "Reset", "d3/dc3/a17371.html#a139df1207438dbd3793a2fbc58c2396c", null ],
+    [ "UpdateAI", "d3/dc3/a17371.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
+    [ "events", "d3/dc3/a17371.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
 ];

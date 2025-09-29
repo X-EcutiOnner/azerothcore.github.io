@@ -1,17 +1,12 @@
 var a22491 =
 [
-    [ "OutdoorPvPSI", "d4/d4c/a22491.html#a89bf2d913b7d68ee921ef4b9aeea61e1", null ],
-    [ "FillInitialWorldStates", "d4/d4c/a22491.html#a7392eed60ec3307bdea4ed35cd859077", null ],
-    [ "HandleAreaTrigger", "d4/d4c/a22491.html#a7c6d70d7a611752456c55d13420ff840", null ],
-    [ "HandleCustomSpell", "d4/d4c/a22491.html#a10853a2f5766b6fc75044a20b281a198", null ],
-    [ "HandleDropFlag", "d4/d4c/a22491.html#a9238a5007253d84d66192bd340d8311a", null ],
-    [ "HandlePlayerEnterZone", "d4/d4c/a22491.html#ad2cabd461406a61e40411850b3d31c0c", null ],
-    [ "HandlePlayerLeaveZone", "d4/d4c/a22491.html#aa06088b1d80072577e6fc7653a214512", null ],
-    [ "SendRemoveWorldStates", "d4/d4c/a22491.html#aae7deda0662b28f6fc0e16115a65304b", null ],
-    [ "SetupOutdoorPvP", "d4/d4c/a22491.html#a401da5bef2350c4eb21b249b4f8b3e40", null ],
-    [ "Update", "d4/d4c/a22491.html#a56bda08a795a4b0cd1c52ec448920fac", null ],
-    [ "UpdateWorldState", "d4/d4c/a22491.html#a81f4362ece83f37f14471926e9a85fb3", null ],
-    [ "m_Gathered_A", "d4/d4c/a22491.html#ab532337ab7e66e1489221e3189e48bac", null ],
-    [ "m_Gathered_H", "d4/d4c/a22491.html#abcd36fe918edbbea387573bd5fab89e7", null ],
-    [ "m_LastController", "d4/d4c/a22491.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c", null ]
+    [ "npc_time_lost_proto_drakeAI", "d4/d4c/a22491.html#ab98805519233eda932c6131aca059a8b", null ],
+    [ "JustEngagedWith", "d4/d4c/a22491.html#a14f41b30451b8ac8fe2411ec7102ae81", null ],
+    [ "Reset", "d4/d4c/a22491.html#a418ea9621040e3c717c4e24f73539f44", null ],
+    [ "RollPath", "d4/d4c/a22491.html#aabb3dd1d54a1290d500429efc8fa9e41", null ],
+    [ "UpdateEscortAI", "d4/d4c/a22491.html#a1a5442a5796b27d04eaa3ab62c613199", null ],
+    [ "WaypointReached", "d4/d4c/a22491.html#ad262b9dbc0edd2bac126fafbb5eb5f01", null ],
+    [ "events", "d4/d4c/a22491.html#aa2e4c3396d63d85a5d0abc8c74e58a79", null ],
+    [ "rollPath", "d4/d4c/a22491.html#a5431fd5a0801569bc03507818461aa7d", null ],
+    [ "setVisible", "d4/d4c/a22491.html#a63558b3406c241ecb27f3e485eeb439b", null ]
 ];

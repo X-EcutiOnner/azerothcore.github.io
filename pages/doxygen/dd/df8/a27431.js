@@ -1,8 +1,6 @@
 var a27431 =
 [
-    [ "npc_nelsonAI", "d5/de2/a27435.html", "d5/de2/a27435" ],
-    [ "npc_nelson", "dd/df8/a27431.html#ada597926a6db1aa7823ddabc19945b11", null ],
-    [ "GetAI", "dd/df8/a27431.html#a75fea281fb49249345c48236bf44b1c8", null ],
-    [ "OnGossipHello", "dd/df8/a27431.html#aa693b365a15d4617f214f9c3c229bf89", null ],
-    [ "OnGossipSelect", "dd/df8/a27431.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
+    [ "go_witherbark_totem_bundleAI", "dd/df8/a27431.html#a955625e2315008a2e36936d44f825060", null ],
+    [ "UpdateAI", "dd/df8/a27431.html#af688bab2dc3d938951adb303e8b8d88b", null ],
+    [ "_timer", "dd/df8/a27431.html#a509e6d8401380c326a0f565a6b903d7a", null ]
 ];

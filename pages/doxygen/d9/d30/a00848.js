@@ -1,58 +1,45 @@
 var a00848 =
 [
-    [ "npc_draenei_survivor", "d4/dec/a15502.html", "d4/dec/a15502" ],
-    [ "npc_draenei_survivor::npc_draenei_survivorAI", "d6/d5e/a15506.html", "d6/d5e/a15506" ],
-    [ "npc_injured_draenei", "d2/d5a/a15510.html", "d2/d5a/a15510" ],
-    [ "npc_injured_draenei::npc_injured_draeneiAI", "d8/df0/a15514.html", "d8/df0/a15514" ],
-    [ "npc_magwin", "d3/d56/a15518.html", "d3/d56/a15518" ],
-    [ "npc_magwin::npc_magwinAI", "d4/d78/a15522.html", "d4/d78/a15522" ],
-    [ "go_ravager_cage", "d5/d2b/a15526.html", "d5/d2b/a15526" ],
-    [ "npc_death_ravager", "d4/d4b/a15530.html", "d4/d4b/a15530" ],
-    [ "npc_death_ravager::npc_death_ravagerAI", "d0/de0/a15534.html", "d0/de0/a15534" ],
-    [ "npc_stillpine_capitive", "d4/d0b/a15538.html", "d4/d0b/a15538" ],
-    [ "npc_stillpine_capitive::npc_stillpine_capitiveAI", "de/d2f/a15542.html", "de/d2f/a15542" ],
-    [ "go_bristlelimb_cage", "dc/db2/a15546.html", "dc/db2/a15546" ],
-    [ "spell_inoculate_nestlewood_owlkin", "d3/db3/a15550.html", "d3/db3/a15550" ],
-    [ "BristlelimbCage", "d9/d30/a00848.html#ab69bb59145b8e4a3ee5c269d141090a0", [
-      [ "QUEST_THE_PROPHECY_OF_AKIDA", "d9/d30/a00848.html#ab69bb59145b8e4a3ee5c269d141090a0ae8d9e7f48db483f0e3497db05e0a8ab5", null ],
-      [ "NPC_STILLPINE_CAPITIVE", "d9/d30/a00848.html#ab69bb59145b8e4a3ee5c269d141090a0af8664c69b400568c2fc8974230b57cdf", null ],
-      [ "GO_BRISTELIMB_CAGE", "d9/d30/a00848.html#ab69bb59145b8e4a3ee5c269d141090a0aef32e220b187e5b1852e8f7a5bf67ed8", null ],
-      [ "CAPITIVE_SAY", "d9/d30/a00848.html#ab69bb59145b8e4a3ee5c269d141090a0a98d7f3af2f348e324c78eca1ee3312e4", null ],
-      [ "POINT_INIT", "d9/d30/a00848.html#ab69bb59145b8e4a3ee5c269d141090a0a965d8213c7e2bdb3d719b4dc8abe6175", null ],
-      [ "EVENT_DESPAWN", "d9/d30/a00848.html#ab69bb59145b8e4a3ee5c269d141090a0a37c22b84c74c36e2af467a6bd1047f15", null ]
+    [ "PassengerInfo", "d1/d28/a08831.html", "d1/d28/a08831" ],
+    [ "VehicleSeatAddon", "d2/d5d/a08835.html", "d2/d5d/a08835" ],
+    [ "VehicleSeat", "d4/d6b/a08839.html", "d4/d6b/a08839" ],
+    [ "VehicleAccessory", "d1/d76/a08843.html", "d1/d76/a08843" ],
+    [ "TransportBase", "d9/d6f/a08847.html", "d9/d6f/a08847" ],
+    [ "SeatMap", "d9/d30/a00848.html#a2dadb2596b27d20ebbc12696cb7b9a74", null ],
+    [ "VehicleAccessoryContainer", "d9/d30/a00848.html#a5b46179616c0e205a7c933e02f87160b", null ],
+    [ "VehicleAccessoryList", "d9/d30/a00848.html#af5d682a742080008bd21db9bba6e162f", null ],
+    [ "PowerType", "d9/d30/a00848.html#a0d0e3226055ad5266e487b58fd01cebd", [
+      [ "POWER_STEAM", "d9/d30/a00848.html#a0d0e3226055ad5266e487b58fd01cebda687679964e834b0ca1543e4dd62ad47f", null ],
+      [ "POWER_PYRITE", "d9/d30/a00848.html#a0d0e3226055ad5266e487b58fd01cebda80a2f688d9270400c0a412df595754d9", null ],
+      [ "POWER_HEAT", "d9/d30/a00848.html#a0d0e3226055ad5266e487b58fd01cebda84c681da1fcd67b223f97fd81f534434", null ],
+      [ "POWER_OOZE", "d9/d30/a00848.html#a0d0e3226055ad5266e487b58fd01cebda9bc45bf37416c880275746bf261a4097", null ],
+      [ "POWER_BLOOD", "d9/d30/a00848.html#a0d0e3226055ad5266e487b58fd01cebda73464121f88e583ed4c4f89280fd7d68", null ],
+      [ "POWER_WRATH", "d9/d30/a00848.html#a0d0e3226055ad5266e487b58fd01cebda94e6111f7ab9d0e57b77b1b3f70faab1", null ]
     ] ],
-    [ "draeneiSurvivor", "d9/d30/a00848.html#a4312325b44ff42e455a1955a0a0d0ce0", [
-      [ "SAY_HEAL", "d9/d30/a00848.html#a4312325b44ff42e455a1955a0a0d0ce0a3bb81f47f40ebbd45afd95991300a0b6", null ],
-      [ "SAY_HELP", "d9/d30/a00848.html#a4312325b44ff42e455a1955a0a0d0ce0a13e3c4fbf4ffac2b5a7fc5c14d049293", null ],
-      [ "SPELL_IRRIDATION", "d9/d30/a00848.html#a4312325b44ff42e455a1955a0a0d0ce0a75ebf4ca85d16446e34a15b18cdf38ef", null ],
-      [ "SPELL_STUNNED", "d9/d30/a00848.html#a4312325b44ff42e455a1955a0a0d0ce0acf37fb2b5fa94a29d651d4b9364de3b1", null ]
+    [ "VehicleExitParameters", "d9/d30/a00848.html#a7f17d71c7e2664769a8e8a8b40cb5116", [
+      [ "VehicleExitParamNone", "d9/d30/a00848.html#a7f17d71c7e2664769a8e8a8b40cb5116aa81d7ce24590f0cf3b5de2218dc4b2eb", null ],
+      [ "VehicleExitParamOffset", "d9/d30/a00848.html#a7f17d71c7e2664769a8e8a8b40cb5116aa79483bd0c086e5f24b906b5e4b28427", null ],
+      [ "VehicleExitParamDest", "d9/d30/a00848.html#a7f17d71c7e2664769a8e8a8b40cb5116a0f2b1d49adc9bb508c54af39ddb0b99d", null ],
+      [ "VehicleExitParamMax", "d9/d30/a00848.html#a7f17d71c7e2664769a8e8a8b40cb5116a0d5345401371099713f87a738fca55c0", null ]
     ] ],
-    [ "Magwin", "d9/d30/a00848.html#a8f680a89d6b189116cd0885d3f8e0232", [
-      [ "SAY_START", "d9/d30/a00848.html#a8f680a89d6b189116cd0885d3f8e0232a2eae21cbf7d110ee89a9798ef6f00239", null ],
-      [ "SAY_AGGRO", "d9/d30/a00848.html#a8f680a89d6b189116cd0885d3f8e0232a47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_PROGRESS", "d9/d30/a00848.html#a8f680a89d6b189116cd0885d3f8e0232a0a1c1c8ee2f4fb58f4e107f259c6a7a5", null ],
-      [ "SAY_END1", "d9/d30/a00848.html#a8f680a89d6b189116cd0885d3f8e0232a944891a3d2f715c9e1c8f47d65f16eca", null ],
-      [ "SAY_END2", "d9/d30/a00848.html#a8f680a89d6b189116cd0885d3f8e0232aa0efc3eab3d2447cc17568f7ceed8cba", null ],
-      [ "EMOTE_HUG", "d9/d30/a00848.html#a8f680a89d6b189116cd0885d3f8e0232a32c1d786a95676b42ba62cccb0249d6d", null ],
-      [ "NPC_COWLEN", "d9/d30/a00848.html#a8f680a89d6b189116cd0885d3f8e0232a72a6ae36de9915698b0dbb6646852a3a", null ],
-      [ "SAY_COWLEN", "d9/d30/a00848.html#a8f680a89d6b189116cd0885d3f8e0232a3b5ee5ee9166e2ca31e5271bfb24aead", null ],
-      [ "EVENT_ACCEPT_QUEST", "d9/d30/a00848.html#a8f680a89d6b189116cd0885d3f8e0232ac570135999543136afc56b60cd580a2d", null ],
-      [ "EVENT_START_ESCORT", "d9/d30/a00848.html#a8f680a89d6b189116cd0885d3f8e0232aac17b854a151f2f2ca72de93bf3c9e01", null ],
-      [ "EVENT_STAND", "d9/d30/a00848.html#a8f680a89d6b189116cd0885d3f8e0232a306a9ab7ce63e6bdb9de7e1cb8ddb026", null ],
-      [ "EVENT_TALK_END", "d9/d30/a00848.html#a8f680a89d6b189116cd0885d3f8e0232add701ab59fa34c09ea3a0c03ccad4b00", null ],
-      [ "EVENT_COWLEN_TALK", "d9/d30/a00848.html#a8f680a89d6b189116cd0885d3f8e0232a87e4ec7fc1940c461ccea28f089583a7", null ],
-      [ "QUEST_A_CRY_FOR_HELP", "d9/d30/a00848.html#a8f680a89d6b189116cd0885d3f8e0232a5e07ef0614c38548bc743a6622705cd8", null ]
+    [ "VehicleFlags", "d9/d30/a00848.html#a6f71ae83254cc7417ec04e6ac2a55f7a", [
+      [ "VEHICLE_FLAG_NO_STRAFE", "d9/d30/a00848.html#a6f71ae83254cc7417ec04e6ac2a55f7aa42ade3ec25a77cbf106f1da2cc732a6b", null ],
+      [ "VEHICLE_FLAG_NO_JUMPING", "d9/d30/a00848.html#a6f71ae83254cc7417ec04e6ac2a55f7aa283b85a441a9087bd98ed48a34707c6f", null ],
+      [ "VEHICLE_FLAG_FULLSPEEDTURNING", "d9/d30/a00848.html#a6f71ae83254cc7417ec04e6ac2a55f7aa8eb5fb073cde2366b27d7726b55593b1", null ],
+      [ "VEHICLE_FLAG_ALLOW_PITCHING", "d9/d30/a00848.html#a6f71ae83254cc7417ec04e6ac2a55f7aa929f5dba0c217566377740ffbde2195f", null ],
+      [ "VEHICLE_FLAG_FULLSPEEDPITCHING", "d9/d30/a00848.html#a6f71ae83254cc7417ec04e6ac2a55f7aaeeead2f047ca8fa51f9fb779867cd2c5", null ],
+      [ "VEHICLE_FLAG_CUSTOM_PITCH", "d9/d30/a00848.html#a6f71ae83254cc7417ec04e6ac2a55f7aaadfdb0e47bbca692a5cada5b07577a22", null ],
+      [ "VEHICLE_FLAG_ADJUST_AIM_ANGLE", "d9/d30/a00848.html#a6f71ae83254cc7417ec04e6ac2a55f7aa2cdd4b1bec19233a8162dc420ecde103", null ],
+      [ "VEHICLE_FLAG_ADJUST_AIM_POWER", "d9/d30/a00848.html#a6f71ae83254cc7417ec04e6ac2a55f7aadf965323e550d3307799178679544dd5", null ]
     ] ],
-    [ "NestlewoodOwlkin", "d9/d30/a00848.html#a8399336a8832e4ae3f893a082e3f6a23", [
-      [ "NPC_NESTLEWOOD_OWLKIN_ENTRY", "d9/d30/a00848.html#a8399336a8832e4ae3f893a082e3f6a23a042fac43f48aae1e0c20efae45c8edd4", null ],
-      [ "NPC_INOCULATED_OWLKIN_ENTRY", "d9/d30/a00848.html#a8399336a8832e4ae3f893a082e3f6a23a81405be99e82dc85aab4f0a4a9560783", null ],
-      [ "TALK_OWLKIN", "d9/d30/a00848.html#a8399336a8832e4ae3f893a082e3f6a23a018df08708e7e76f44efdb0f93a8dac7", null ]
+    [ "VehicleNPCs", "d9/d30/a00848.html#aecacfdf074f78c4655fc7b038cce5c06", [
+      [ "NPC_EIDOLON_WATCHER", "d9/d30/a00848.html#aecacfdf074f78c4655fc7b038cce5c06a1ad291a45a8ceaff91f636890e29dcb8", null ],
+      [ "NPC_LITHE_STALKER", "d9/d30/a00848.html#aecacfdf074f78c4655fc7b038cce5c06a5a7d35fc890662fca47daf84cc7c0612", null ]
     ] ],
-    [ "RavegerCage", "d9/d30/a00848.html#afbe1872b98459d496587a276f39f6172", [
-      [ "NPC_DEATH_RAVAGER", "d9/d30/a00848.html#afbe1872b98459d496587a276f39f6172a3fc36348616e2274939b17da119f4cbb", null ],
-      [ "SPELL_REND", "d9/d30/a00848.html#afbe1872b98459d496587a276f39f6172ac553ad24710435636bd9736df18484c6", null ],
-      [ "SPELL_ENRAGING_BITE", "d9/d30/a00848.html#afbe1872b98459d496587a276f39f6172a441711efdb9fa90311571a2a0dbfe888", null ],
-      [ "QUEST_STRENGTH_ONE", "d9/d30/a00848.html#afbe1872b98459d496587a276f39f6172a2ca7128123717d9b2be0d049b0180449", null ]
-    ] ],
-    [ "AddSC_azuremyst_isle", "d9/d30/a00848.html#a92fc206251c5ac3ca89e584f0e69e0cb", null ]
+    [ "VehicleSpells", "d9/d30/a00848.html#a5829b6d4bd25b5c2a56495142fa8ca54", [
+      [ "VEHICLE_SPELL_RIDE_HARDCODED", "d9/d30/a00848.html#a5829b6d4bd25b5c2a56495142fa8ca54adc19864d7c866905ca0c5bcec8b60119", null ],
+      [ "VEHICLE_SPELL_PARACHUTE", "d9/d30/a00848.html#a5829b6d4bd25b5c2a56495142fa8ca54a9d7d863fbfbc5b74e135ff1c825f2eae", null ],
+      [ "VEHICLE_SPELL_GEIST_CONTROL_END", "d9/d30/a00848.html#a5829b6d4bd25b5c2a56495142fa8ca54ac4b6447ce07cbd236c81e6cc097a42fe", null ],
+      [ "VEHICLE_SPELL_SHADE_CONTROL_END", "d9/d30/a00848.html#a5829b6d4bd25b5c2a56495142fa8ca54aa4ccb8c6147a5a23c813ae796ebe267b", null ]
+    ] ]
 ];

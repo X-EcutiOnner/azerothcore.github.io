@@ -1,13 +1,11 @@
 var a11571 =
 [
-    [ "cheat_commandscript", "d4/d48/a11571.html#a7449cfba3578956a09b67e569e7e6083", null ],
-    [ "GetCommands", "d4/d48/a11571.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
-    [ "HandleCasttimeCheatCommand", "d4/d48/a11571.html#a119ad06c5b8be235853bb13c7cff724b", null ],
-    [ "HandleCheatStatusCommand", "d4/d48/a11571.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
-    [ "HandleCoolDownCheatCommand", "d4/d48/a11571.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
-    [ "HandleExploreCheatCommand", "d4/d48/a11571.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
-    [ "HandleGodModeCheatCommand", "d4/d48/a11571.html#ac398dbacf025830dc871bc77938d47d6", null ],
-    [ "HandlePowerCheatCommand", "d4/d48/a11571.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
-    [ "HandleTaxiCheatCommand", "d4/d48/a11571.html#ab9bd840c9622d173e710058eeb763388", null ],
-    [ "HandleWaterWalkCheatCommand", "d4/d48/a11571.html#a9162d89c049f14f29bc5ba257964df34", null ]
+    [ "WorldUpdateTime", "d4/d48/a11571.html#a97552c4ce99bd40919f199c17fe203ed", null ],
+    [ "LoadFromConfig", "d4/d48/a11571.html#acb2b9d56504fc760e7df1c93621ab788", null ],
+    [ "RecordUpdateTime", "d4/d48/a11571.html#a88d773c8029cebeab6b99444c25c8379", null ],
+    [ "RecordUpdateTimeDuration", "d4/d48/a11571.html#a3ae299cfba6adcbb4e38af40313428fc", null ],
+    [ "SetRecordUpdateTimeInterval", "d4/d48/a11571.html#ada81050229ccacc49d5b6a9f6101174c", null ],
+    [ "_lastRecordTime", "d4/d48/a11571.html#a7bc68a1a700deb4bc4d19992edf3ffa7", null ],
+    [ "_recordUpdateTimeInverval", "d4/d48/a11571.html#a5486477b0a604f0207336e423f42c2b1", null ],
+    [ "_recordUpdateTimeMin", "d4/d48/a11571.html#a6b8a8d1b61f9ecec591165fa334972fc", null ]
 ];

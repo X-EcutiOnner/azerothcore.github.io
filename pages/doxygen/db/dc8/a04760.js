@@ -1,15 +1,16 @@
 var a04760 =
 [
-    [ "Socket< T >", "d3/d77/a28726.html", "d3/d77/a28726" ],
-    [ "READ_BLOCK_SIZE", "db/dc8/a04760.html#a16ba013af02b9d4400b5e47d8daa022b", null ],
-    [ "ProxyHeaderAddressFamilyAndProtocol", "db/dc8/a04760.html#a7ddce6d0420753babeb6258ada50eec1", [
-      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V4", "db/dc8/a04760.html#a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575", null ],
-      [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V6", "db/dc8/a04760.html#a7ddce6d0420753babeb6258ada50eec1a5b0f57dac80a77ad98bc0d371a22f699", null ]
-    ] ],
-    [ "ProxyHeaderReadingState", "db/dc8/a04760.html#aa514bb66fa404b5b180297bb005c3272", [
-      [ "PROXY_HEADER_READING_STATE_NOT_STARTED", "db/dc8/a04760.html#aa514bb66fa404b5b180297bb005c3272a0bd44a601a6d6745f442535a457fc67c", null ],
-      [ "PROXY_HEADER_READING_STATE_STARTED", "db/dc8/a04760.html#aa514bb66fa404b5b180297bb005c3272a6b5e85386b6638d1a72fa2520f355c98", null ],
-      [ "PROXY_HEADER_READING_STATE_FINISHED", "db/dc8/a04760.html#aa514bb66fa404b5b180297bb005c3272a2898c80db946e4ae677297c1954470fb", null ],
-      [ "PROXY_HEADER_READING_STATE_FAILED", "db/dc8/a04760.html#aa514bb66fa404b5b180297bb005c3272a7a96033158689ba0590a86245f58922f", null ]
-    ] ]
+    [ "frand", "db/dc8/a04760.html#a19bd31014583536af788a65b398e4406", null ],
+    [ "GetRng", "db/dc8/a04760.html#a8602a67daa881e92c3eb9204c88b7733", null ],
+    [ "irand", "db/dc8/a04760.html#a6ae07d2bb0593d8339e65c136f63ecc0", null ],
+    [ "rand32", "db/dc8/a04760.html#ac699324b85bb2266ea8978796967c541", null ],
+    [ "rand_chance", "db/dc8/a04760.html#a66621d09a8cc2aa9476391004fe2c427", null ],
+    [ "rand_norm", "db/dc8/a04760.html#af2f9363ceebb6f78067b4a146d1de9df", null ],
+    [ "randtime", "db/dc8/a04760.html#a9ecda65ea9686c86f47934d04d38ec69", null ],
+    [ "randtime", "db/dc8/a04760.html#a7c8533961af63b720553e868fdaabd85", null ],
+    [ "urand", "db/dc8/a04760.html#ab17def34ccbbd868dc87a16bf35acdbd", null ],
+    [ "urandms", "db/dc8/a04760.html#af901d57f29ff48f701a375e44a0f1261", null ],
+    [ "urandweighted", "db/dc8/a04760.html#a3f7e714c8fc3a6f6ccbe91d524a84f23", null ],
+    [ "engine", "db/dc8/a04760.html#a8ab11e2fa939d9f333dfa1a858e7690b", null ],
+    [ "sfmtRand", "db/dc8/a04760.html#a131ba7587aa544a7e73ff9884d6bc784", null ]
 ];

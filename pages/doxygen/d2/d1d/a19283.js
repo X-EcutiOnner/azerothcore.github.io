@@ -1,11 +1,7 @@
 var a19283 =
 [
-    [ "boss_ormorok", "d2/d1d/a19283.html#aa4862339ed41d5c593a93ef605d85a39", null ],
-    [ "JustDied", "d2/d1d/a19283.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
-    [ "JustEngagedWith", "d2/d1d/a19283.html#a22ac203db7c3b445e653798743e48764", null ],
-    [ "JustSummoned", "d2/d1d/a19283.html#acc149b49e6658454610a7871e3c82b5e", null ],
-    [ "KilledUnit", "d2/d1d/a19283.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
-    [ "Reset", "d2/d1d/a19283.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
-    [ "UpdateAI", "d2/d1d/a19283.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
-    [ "_spikesCount", "d2/d1d/a19283.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
+    [ "HandleScript", "d2/d1d/a19283.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
+    [ "PrepareAuraScript", "d2/d1d/a19283.html#aa3053519be0101f55450d76b1291f0f7", null ],
+    [ "Register", "d2/d1d/a19283.html#ada596a7f19115c7178fd07fb9e956f58", null ],
+    [ "Validate", "d2/d1d/a19283.html#a768dec18bc0e879c457a64135ec27ad9", null ]
 ];

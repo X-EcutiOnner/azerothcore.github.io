@@ -1,13 +1,7 @@
 var a13995 =
 [
-    [ "npc_ohganAI", "dc/d40/a13995.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
-    [ "JustDied", "dc/d40/a13995.html#a89e506868e3191362545e34d21528b8f", null ],
-    [ "JustEngagedWith", "dc/d40/a13995.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
-    [ "KilledUnit", "dc/d40/a13995.html#a4e202eef928e54bd52160705bba5cc35", null ],
-    [ "Reset", "dc/d40/a13995.html#ac3e1bc9dc819138741eb3b4448051547", null ],
-    [ "SetGUID", "dc/d40/a13995.html#a5baf8e15902d4d8ff06c8410314327f6", null ],
-    [ "UpdateAI", "dc/d40/a13995.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
-    [ "_scheduler", "dc/d40/a13995.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
-    [ "instance", "dc/d40/a13995.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
-    [ "reviveGUID", "dc/d40/a13995.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
+    [ "FilterTargets", "dc/d40/a13995.html#aebe9055301495dd3a21736b9a2a35f31", null ],
+    [ "HandleDamageCalc", "dc/d40/a13995.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
+    [ "PrepareSpellScript", "dc/d40/a13995.html#a03b8e21e58988d9fc774205263c0817f", null ],
+    [ "Register", "dc/d40/a13995.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
 ];

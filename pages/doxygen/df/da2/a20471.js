@@ -1,6 +1,7 @@
 var a20471 =
 [
-    [ "boss_razorscaleAI", "d6/de4/a20475.html", "d6/de4/a20475" ],
-    [ "boss_razorscale", "df/da2/a20471.html#ad8fe81f1b553414df3fa07c646029065", null ],
-    [ "GetAI", "df/da2/a20471.html#a01cf25d901a5eddae9ef3ea291020ba1", null ]
+    [ "HandleAfterEffectApply", "df/da2/a20471.html#adab765d78094eec673abce5140145267", null ],
+    [ "OnApply", "df/da2/a20471.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
+    [ "PrepareAuraScript", "df/da2/a20471.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
+    [ "Register", "df/da2/a20471.html#ac1007ce2ee5e046639829558855f0188", null ]
 ];

@@ -1,5 +1,6 @@
 var a20643 =
 [
-    [ "achievement_thorim_lose_your_illusion", "d0/d44/a20643.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
-    [ "OnCheck", "d0/d44/a20643.html#a322df4f30445a84085615925f74a8a6b", null ]
+    [ "npc_ulduar_proximity_mineAI", "d0/d4b/a20647.html", "d0/d4b/a20647" ],
+    [ "npc_ulduar_proximity_mine", "d0/d44/a20643.html#ac33beb07e17712cdda1b3434d9dc8222", null ],
+    [ "GetAI", "d0/d44/a20643.html#a7d8237b965699004f9df731e357b4020", null ]
 ];

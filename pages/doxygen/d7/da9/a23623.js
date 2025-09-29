@@ -1,5 +1,5 @@
 var a23623 =
 [
-    [ "at_shattered_halls_execution", "d7/da9/a23623.html#a73f1d1f03960acd070b7996257f7a526", null ],
-    [ "OnTrigger", "d7/da9/a23623.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
+    [ "at_underbog_ghazan", "d7/da9/a23623.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
+    [ "_OnTrigger", "d7/da9/a23623.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
 ];

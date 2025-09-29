@@ -1,6 +1,8 @@
 var a20171 =
 [
-    [ "npc_ulduar_hodir_mageAI", "dd/d93/a20175.html", "dd/d93/a20175" ],
-    [ "npc_ulduar_hodir_mage", "df/daa/a20171.html#afebdd0f99f0c7eaaf0a2d5731335105d", null ],
-    [ "GetAI", "df/daa/a20171.html#abcbe0337b2a83b6eb0a64f7465d7f79a", null ]
+    [ "FilterTargets", "df/daa/a20171.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
+    [ "HandleScript", "df/daa/a20171.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
+    [ "PrepareSpellScript", "df/daa/a20171.html#aea46762f43b31923617f740e0545fe98", null ],
+    [ "Register", "df/daa/a20171.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
+    [ "Validate", "df/daa/a20171.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
 ];

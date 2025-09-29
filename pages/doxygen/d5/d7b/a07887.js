@@ -1,7 +1,8 @@
 var a07887 =
 [
-    [ "RBEntryInfo", "d5/d7b/a07887.html#aa720dd6cae9ee7163bb9b84918249644", null ],
-    [ "RBEntryInfo", "d5/d7b/a07887.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
-    [ "comment", "d5/d7b/a07887.html#a7284eac7208dba21a52b79257aad7dbc", null ],
-    [ "roles", "d5/d7b/a07887.html#ab891dec65b0070ede1233080eadd0190", null ]
+    [ "UnitBaseEvent", "d5/d7b/a07887.html#a2d4586c59a7595374d427a15924c34fd", null ],
+    [ "getType", "d5/d7b/a07887.html#a7619b09043a8a729df77502786216aff", null ],
+    [ "matchesTypeMask", "d5/d7b/a07887.html#a05103aacf99310a6c9e602296d56f168", null ],
+    [ "setType", "d5/d7b/a07887.html#a1a3ae3042df9ca91d17a1c3320579867", null ],
+    [ "iType", "d5/d7b/a07887.html#a528a4023be375f43f4ac33b55f5c95d9", null ]
 ];

@@ -1,5 +1,8 @@
 var a09487 =
 [
-    [ "getFirst", "dc/dc1/a09487.html#ab6524f9fba08d034c78a38ab1045ace9", null ],
-    [ "getFirst", "dc/dc1/a09487.html#a74a687ba16e352c3fa5eafd1cfdd7b0e", null ]
+    [ "MostHPMissingGroupInRange", "dc/dc1/a09487.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
+    [ "operator()", "dc/dc1/a09487.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
+    [ "i_hp", "dc/dc1/a09487.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
+    [ "i_obj", "dc/dc1/a09487.html#ae0d85f9738301b40c3e950b02ee20026", null ],
+    [ "i_range", "dc/dc1/a09487.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
 ];

@@ -1,9 +1,8 @@
 var a23647 =
 [
-    [ "boss_dalliah_the_doomsayer", "d1/d45/a23647.html#ad6edf9623942297b28bc7420ec0cc733", null ],
-    [ "InitializeAI", "d1/d45/a23647.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
-    [ "JustDied", "d1/d45/a23647.html#a431edc9c25fb125d7d267073eb1c1423", null ],
-    [ "JustEngagedWith", "d1/d45/a23647.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
-    [ "KilledUnit", "d1/d45/a23647.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
-    [ "Reset", "d1/d45/a23647.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
+    [ "boss_the_black_stalker", "d1/d45/a23647.html#ac33519b374509cefe43b8e97701719ee", null ],
+    [ "JustEngagedWith", "d1/d45/a23647.html#ad118347103ec463a09492e81dbd61418", null ],
+    [ "JustSummoned", "d1/d45/a23647.html#a9e0299a99df83abb7de476a765b667b9", null ],
+    [ "SummonedCreatureDies", "d1/d45/a23647.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
+    [ "UpdateAI", "d1/d45/a23647.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
 ];

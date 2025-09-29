@@ -1,7 +1,6 @@
 var a20935 =
 [
-    [ "HandleProc", "da/df2/a20935.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "da/df2/a20935.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "da/df2/a20935.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "da/df2/a20935.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "npc_xt002_pummellerAI", "da/dfa/a20939.html", "da/dfa/a20939" ],
+    [ "npc_xt002_pummeller", "da/df2/a20935.html#af620e31a231ca8fb812324521bad4673", null ],
+    [ "GetAI", "da/df2/a20935.html#a9ec4e452a3763c3d03e581a17e5d7efe", null ]
 ];

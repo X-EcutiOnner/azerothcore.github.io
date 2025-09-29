@@ -1,11 +1,8 @@
 var a13487 =
 [
-    [ "npc_supervisor_raelen", "d4/dc1/a13487.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
-    [ "CallPeasent", "d4/dc1/a13487.html#a0b8d661a86ec334adeb502d6936135ee", null ],
-    [ "Reset", "d4/dc1/a13487.html#a656029c56da84d2d3cee7380d6032e3d", null ],
-    [ "SetData", "d4/dc1/a13487.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
-    [ "UpdateAI", "d4/dc1/a13487.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
-    [ "_events", "d4/dc1/a13487.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
-    [ "_PeasentId", "d4/dc1/a13487.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
-    [ "peasentGUIDs", "d4/dc1/a13487.html#a6e290a29c8205b22bd668f0516e8904a", null ]
+    [ "HandleApply", "d4/dc1/a13487.html#a2e07ffc92d44757fe2b074244048dbf4", null ],
+    [ "HandleRemove", "d4/dc1/a13487.html#ae0d8cb63cf62e5015daa56463524aa27", null ],
+    [ "PrepareAuraScript", "d4/dc1/a13487.html#a4a59bd5c9ce7b74d29cdd6132f94c0bf", null ],
+    [ "Register", "d4/dc1/a13487.html#a3b91d692ad34b7ce965887590780e146", null ],
+    [ "Validate", "d4/dc1/a13487.html#aa3ee5b49e9e1009d5be34214eefd2a6d", null ]
 ];

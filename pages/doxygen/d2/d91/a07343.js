@@ -1,14 +1,14 @@
 var a07343 =
 [
-    [ "BattlegroundDS", "d2/d91/a07343.html#a041cd3c81d341ff12e2e103da44c19b8", null ],
-    [ "FillInitialWorldStates", "d2/d91/a07343.html#a0c7a45aa22e390d2760bf32720435d5e", null ],
-    [ "HandleAreaTrigger", "d2/d91/a07343.html#a91e0be32f0169b9ac8749003ae3cdae7", null ],
-    [ "HandlePlayerUnderMap", "d2/d91/a07343.html#a97ed6f531b1de3eaf93c585e205e7f54", null ],
-    [ "PostUpdateImpl", "d2/d91/a07343.html#a57cfca32a361d43f19163dc6e7408e96", null ],
-    [ "SetupBattleground", "d2/d91/a07343.html#ae008bf979e6984856237938dfe743ec7", null ],
-    [ "StartingEventCloseDoors", "d2/d91/a07343.html#ae215043c2c10df9f9339e2a6dbcb185e", null ],
-    [ "StartingEventOpenDoors", "d2/d91/a07343.html#ab9ab60253daa5318dcdb6675c8919cd5", null ],
-    [ "_events", "d2/d91/a07343.html#a79112a1631ec6541cf19ecef712bb66f", null ],
-    [ "_pipeKnockBackCount", "d2/d91/a07343.html#a32490dab9fd8ea9ae9afd8cf66feb087", null ],
-    [ "_pipeKnockBackTimer", "d2/d91/a07343.html#aaef0cac1f3283c56117efcc484a0abfc", null ]
+    [ "IsArena", "d2/d91/a07343.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
+    [ "BattlemasterEntry", "d2/d91/a07343.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
+    [ "Id", "d2/d91/a07343.html#a0fca37318585903f68695452a95011a9", null ],
+    [ "MaxLevel", "d2/d91/a07343.html#a790f55d480d1454a5f6e5713c04314b7", null ],
+    [ "MaxPlayersPerTeam", "d2/d91/a07343.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
+    [ "MaxStartDistSq", "d2/d91/a07343.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
+    [ "MinLevel", "d2/d91/a07343.html#a49fdf96a08376830a06956fd501cfa78", null ],
+    [ "MinPlayersPerTeam", "d2/d91/a07343.html#ac1bea263b53de8573cdb8eb890175495", null ],
+    [ "ScriptId", "d2/d91/a07343.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
+    [ "StartLocation", "d2/d91/a07343.html#a8477d2156c8aa5bb89da038d1a779698", null ],
+    [ "Weight", "d2/d91/a07343.html#aa7a051e8453599a7e82da763a6f91da2", null ]
 ];

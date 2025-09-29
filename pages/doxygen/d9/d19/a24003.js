@@ -1,7 +1,10 @@
 var a24003 =
 [
-    [ "npc_maghar_captiveAI", "da/d85/a24007.html", "da/d85/a24007" ],
-    [ "npc_maghar_captive", "d9/d19/a24003.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
-    [ "GetAI", "d9/d19/a24003.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
-    [ "OnQuestAccept", "d9/d19/a24003.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
+    [ "CheckProc", "d9/d19/a24003.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
+    [ "Load", "d9/d19/a24003.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
+    [ "PrepareAuraScript", "d9/d19/a24003.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
+    [ "Register", "d9/d19/a24003.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
+    [ "_lastForm", "d9/d19/a24003.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
+    [ "_lastSchool", "d9/d19/a24003.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
+    [ "_swapTime", "d9/d19/a24003.html#af832dc200e928df3849ab7d7f93cb412", null ]
 ];

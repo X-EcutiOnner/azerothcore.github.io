@@ -1,6 +1,6 @@
 var a13799 =
 [
-    [ "go", "d2/d15/a13799.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
-    [ "npc", "d2/d15/a13799.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
-    [ "pos", "d2/d15/a13799.html#a51175880a326101b29879d7a6a62c48d", null ]
+    [ "npc_grand_magister_rommathAI", "d6/d77/a13803.html", "d6/d77/a13803" ],
+    [ "npc_grand_magister_rommath", "d2/d15/a13799.html#a63b9786bfbd9c7b462b0549e2f6941ea", null ],
+    [ "GetAI", "d2/d15/a13799.html#abd64eff4712e8209e39e938b1813250c", null ]
 ];

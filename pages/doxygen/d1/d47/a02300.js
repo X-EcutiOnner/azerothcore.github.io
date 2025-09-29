@@ -1,43 +1,42 @@
 var a02300 =
 [
-    [ "npc_lord_gregor_lescovar", "d3/db7/a13842.html", "d3/db7/a13842" ],
-    [ "npc_lord_gregor_lescovar::npc_lord_gregor_lescovarAI", "dd/db6/a13846.html", "dd/db6/a13846" ],
-    [ "npc_marzon_silent_blade", "df/df5/a13850.html", "df/df5/a13850" ],
-    [ "npc_marzon_silent_blade::npc_marzon_silent_bladeAI", "d3/d19/a13854.html", "d3/d19/a13854" ],
-    [ "npc_tyrion_spybot", "d2/d17/a13858.html", "d2/d17/a13858" ],
-    [ "npc_tyrion_spybot::npc_tyrion_spybotAI", "db/dc4/a13862.html", "db/dc4/a13862" ],
-    [ "npc_tyrion", "db/d94/a13866.html", "db/d94/a13866" ],
-    [ "npc_king_varian_wrynn", "d4/d3e/a13870.html", "d4/d3e/a13870" ],
-    [ "KingVarianWrynn", "d1/d47/a02300.html#a4d5b8ecc1cc8ab2e4f86d7cca68d78bd", [
-      [ "QUEST_WHERE_KINGS_WALK", "d1/d47/a02300.html#a4d5b8ecc1cc8ab2e4f86d7cca68d78bda9e049b42d363915086263f2809d9e2f0", null ]
+    [ "npc_lakota_windsong", "d9/d5b/a15863.html", "d9/d5b/a15863" ],
+    [ "npc_lakota_windsong::npc_lakota_windsongAI", "d2/db1/a15867.html", "d2/db1/a15867" ],
+    [ "npc_paoka_swiftmountain", "d4/d3b/a15871.html", "d4/d3b/a15871" ],
+    [ "npc_paoka_swiftmountain::npc_paoka_swiftmountainAI", "df/d4e/a15875.html", "df/d4e/a15875" ],
+    [ "npc_plucky", "d7/dcc/a15879.html", "d7/dcc/a15879" ],
+    [ "npc_plucky::npc_pluckyAI", "d8/d7e/a15883.html", "d8/d7e/a15883" ],
+    [ "spell_panther_cage_key", "d7/d00/a15887.html", "d7/d00/a15887" ],
+    [ "GOSSIP_P", "d1/d47/a02300.html#abe76f0bf6cd768a947537874b5a56330", null ],
+    [ "Lakota", "d1/d47/a02300.html#ac39a2ad4e9c1ced24984bd5c9acf3745", [
+      [ "SAY_LAKO_START", "d1/d47/a02300.html#ac39a2ad4e9c1ced24984bd5c9acf3745ad685ecf0f999b3b0859c272226a5b4b0", null ],
+      [ "SAY_LAKO_LOOK_OUT", "d1/d47/a02300.html#ac39a2ad4e9c1ced24984bd5c9acf3745a1b46b3b897330c62331282922a1cc28f", null ],
+      [ "SAY_LAKO_HERE_COME", "d1/d47/a02300.html#ac39a2ad4e9c1ced24984bd5c9acf3745ab3d49c68827aa5fe936a35424c8f0e6a", null ],
+      [ "SAY_LAKO_MORE", "d1/d47/a02300.html#ac39a2ad4e9c1ced24984bd5c9acf3745a2c2cac4bc7f485753ffc62ce9ac53f74", null ],
+      [ "SAY_LAKO_END", "d1/d47/a02300.html#ac39a2ad4e9c1ced24984bd5c9acf3745aec914a4c9c6b907b2f105307b224a80c", null ],
+      [ "QUEST_FREE_AT_LAST", "d1/d47/a02300.html#ac39a2ad4e9c1ced24984bd5c9acf3745aaab7b3aeba6646842a5bdadb11feed57", null ],
+      [ "NPC_GRIM_BANDIT", "d1/d47/a02300.html#ac39a2ad4e9c1ced24984bd5c9acf3745acbe7e3eadbfd99e1aefdd918f0c28923", null ],
+      [ "ID_AMBUSH_1", "d1/d47/a02300.html#ac39a2ad4e9c1ced24984bd5c9acf3745a6b351de9d4d7cf41632a688dac1d3c33", null ],
+      [ "ID_AMBUSH_2", "d1/d47/a02300.html#ac39a2ad4e9c1ced24984bd5c9acf3745af63f5bcbb697f260ed4b2b515e6c5820", null ],
+      [ "ID_AMBUSH_3", "d1/d47/a02300.html#ac39a2ad4e9c1ced24984bd5c9acf3745a104db33b08420d20a3c621920e5af607", null ]
     ] ],
-    [ "LordGregorLescovar", "d1/d47/a02300.html#a1e4dca432ca60e815b6e871483cbe4e7", [
-      [ "SAY_GUARD_2", "d1/d47/a02300.html#a1e4dca432ca60e815b6e871483cbe4e7aab262efa326f919e2608524a5f839c91", null ],
-      [ "SAY_LESCOVAR_2", "d1/d47/a02300.html#a1e4dca432ca60e815b6e871483cbe4e7a56a4966e9106db7ffda929b1e7e67603", null ],
-      [ "SAY_LESCOVAR_3", "d1/d47/a02300.html#a1e4dca432ca60e815b6e871483cbe4e7ab0afa663e4044b81b4b05e29a88cd45a", null ],
-      [ "SAY_LESCOVAR_4", "d1/d47/a02300.html#a1e4dca432ca60e815b6e871483cbe4e7a560401a00335748429691c21614a4c76", null ],
-      [ "SAY_MARZON_1", "d1/d47/a02300.html#a1e4dca432ca60e815b6e871483cbe4e7ad19de95b33b84ba449bdc585d534f3bb", null ],
-      [ "SAY_MARZON_2", "d1/d47/a02300.html#a1e4dca432ca60e815b6e871483cbe4e7aafffef47f5909f07b5aa3b77975ec171", null ],
-      [ "SAY_TYRION_2", "d1/d47/a02300.html#a1e4dca432ca60e815b6e871483cbe4e7a83253082d516a61481fa2396e8e421db", null ],
-      [ "NPC_STORMWIND_ROYAL", "d1/d47/a02300.html#a1e4dca432ca60e815b6e871483cbe4e7af9d88994485cf4511078f883c1db22db", null ],
-      [ "NPC_MARZON_BLADE", "d1/d47/a02300.html#a1e4dca432ca60e815b6e871483cbe4e7a3100dd88fab725a47c86deb05c2a57cd", null ],
-      [ "NPC_TYRION", "d1/d47/a02300.html#a1e4dca432ca60e815b6e871483cbe4e7a87ee81f943a1bcb5ee89b1c646035696", null ],
-      [ "QUEST_THE_ATTACK", "d1/d47/a02300.html#a1e4dca432ca60e815b6e871483cbe4e7a2035fa37d7029761409d06dfdbfcfc68", null ]
+    [ "Packa", "d1/d47/a02300.html#aa5861ade3620d04c615fc8c237d80102", [
+      [ "SAY_START", "d1/d47/a02300.html#aa5861ade3620d04c615fc8c237d80102a2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_WYVERN", "d1/d47/a02300.html#aa5861ade3620d04c615fc8c237d80102a89b65c3f1b01d8e211937b52981ec045", null ],
+      [ "SAY_COMPLETE", "d1/d47/a02300.html#aa5861ade3620d04c615fc8c237d80102ac31c61437b536671a4aac2cfc0a66fdd", null ],
+      [ "QUEST_HOMEWARD", "d1/d47/a02300.html#aa5861ade3620d04c615fc8c237d80102a226fac5a4fdf03b5b8cbdb6ff533037c", null ],
+      [ "NPC_WYVERN", "d1/d47/a02300.html#aa5861ade3620d04c615fc8c237d80102a771d1fc8b6ed270a927ff5a146e4d9de", null ]
     ] ],
-    [ "Tyrion", "d1/d47/a02300.html#affa30c579e72ac17979d6590547e9cde", [
-      [ "NPC_TYRION_SPYBOT", "d1/d47/a02300.html#affa30c579e72ac17979d6590547e9cdeaa7d8f055bd91fb38ec823e32df381407", null ]
+    [ "PantherCage", "d1/d47/a02300.html#a59d31c8fc3505146f60a3a4fcbb5b502", [
+      [ "NPC_ENRAGED_PANTHER", "d1/d47/a02300.html#a59d31c8fc3505146f60a3a4fcbb5b502a9a705dc738c579f064f3dedc010cfa84", null ],
+      [ "QUEST_HYPERCAPACITOR_GIZMO", "d1/d47/a02300.html#a59d31c8fc3505146f60a3a4fcbb5b502af086e007008db9902863c5bb28c1affe", null ]
     ] ],
-    [ "TyrionSpybot", "d1/d47/a02300.html#ab61d02c4c07338130c8927cc8120aa82", [
-      [ "SAY_QUEST_ACCEPT_ATTACK", "d1/d47/a02300.html#ab61d02c4c07338130c8927cc8120aa82aeec93897a6676c7262cd237a03b3c75c", null ],
-      [ "SAY_SPYBOT_1", "d1/d47/a02300.html#ab61d02c4c07338130c8927cc8120aa82a5f538e2baf878a43cdc9d1856e978372", null ],
-      [ "SAY_SPYBOT_2", "d1/d47/a02300.html#ab61d02c4c07338130c8927cc8120aa82a93f30c745248ddf8f06e9acd6152a8dc", null ],
-      [ "SAY_SPYBOT_3", "d1/d47/a02300.html#ab61d02c4c07338130c8927cc8120aa82af13ce48c683aa75a00cdecd473e15566", null ],
-      [ "SAY_SPYBOT_4", "d1/d47/a02300.html#ab61d02c4c07338130c8927cc8120aa82a461198cb836bfd590945213473abfea9", null ],
-      [ "SAY_TYRION_1", "d1/d47/a02300.html#ab61d02c4c07338130c8927cc8120aa82a0124003837e7afa98fe1fd7385e021b8", null ],
-      [ "SAY_GUARD_1", "d1/d47/a02300.html#ab61d02c4c07338130c8927cc8120aa82a97779823d343820b34531f4b2e3a88c5", null ],
-      [ "SAY_LESCOVAR_1", "d1/d47/a02300.html#ab61d02c4c07338130c8927cc8120aa82abdb322c060b497308c09f195091521fb", null ],
-      [ "NPC_PRIESTESS_TYRIONA", "d1/d47/a02300.html#ab61d02c4c07338130c8927cc8120aa82a1dae5d8b98957d3a79a37b8a5d200537", null ],
-      [ "NPC_LORD_GREGOR_LESCOVAR", "d1/d47/a02300.html#ab61d02c4c07338130c8927cc8120aa82a51dc64fb93f3e5982bfd7746b6d359ea", null ]
+    [ "Plucky", "d1/d47/a02300.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1", [
+      [ "QUEST_SCOOP", "d1/d47/a02300.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1a6c756d0f0363f4a2918294de15581e1b", null ],
+      [ "SPELL_PLUCKY_HUMAN", "d1/d47/a02300.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ae828034bf4e23f2a9ab587c74aea1e47", null ],
+      [ "SPELL_PLUCKY_CHICKEN", "d1/d47/a02300.html#aba5ef692b96fe4f89e8ffd8c4e37d4e1ae20866bf46f5f2e406792d8e5e6a5179", null ]
     ] ],
-    [ "AddSC_stormwind_city", "d1/d47/a02300.html#ac865e7add4724f06be48735f6bf1a542", null ]
+    [ "AddSC_thousand_needles", "d1/d47/a02300.html#a58e024bcebfefe3b44080ac0751c36bd", null ],
+    [ "BanditLoc", "d1/d47/a02300.html#a9d831677b4e878c5a76e7bc332ba6730", null ],
+    [ "WyvernLoc", "d1/d47/a02300.html#aca7b1639e471cc34f43cd5768265d02a", null ]
 ];

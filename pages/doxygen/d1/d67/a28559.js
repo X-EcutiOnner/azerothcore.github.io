@@ -1,31 +1,5 @@
 var a28559 =
 [
-    [ "Exception", "d0/dff/a28563.html", "d0/dff/a28563" ],
-    [ "Iterator", "d4/d8a/a28575.html", "d4/d8a/a28575" ],
-    [ "NotFound", "da/d4d/a28567.html", "da/d4d/a28567" ],
-    [ "Record", "db/dcb/a28571.html", "db/dcb/a28571" ],
-    [ "DBCFile", "d1/d67/a28559.html#a1ad4638c766b9222924e17977153439c", null ],
-    [ "~DBCFile", "d1/d67/a28559.html#a2453497157878f50c1e709e834fa2ca6", null ],
-    [ "DBCFile", "d1/d67/a28559.html#a1ad4638c766b9222924e17977153439c", null ],
-    [ "~DBCFile", "d1/d67/a28559.html#a2453497157878f50c1e709e834fa2ca6", null ],
-    [ "begin", "d1/d67/a28559.html#a8059ee48b626aa095d186771b3992121", null ],
-    [ "begin", "d1/d67/a28559.html#a3fa1721514df95a0fdaab68383c92877", null ],
-    [ "end", "d1/d67/a28559.html#a49d9c8ab11bf8d10f754369e6e37fac9", null ],
-    [ "end", "d1/d67/a28559.html#ae41b3ec666d9ccd6804d90a341cc7207", null ],
-    [ "getFieldCount", "d1/d67/a28559.html#af9946ba472555e6f3d38d124759d3e4d", null ],
-    [ "getFieldCount", "d1/d67/a28559.html#af9946ba472555e6f3d38d124759d3e4d", null ],
-    [ "getMaxId", "d1/d67/a28559.html#aeb8bf52f3140176b383d746247763d69", null ],
-    [ "getRecord", "d1/d67/a28559.html#ac3539b586d9d87f274e582115c6fad21", null ],
-    [ "getRecord", "d1/d67/a28559.html#a24c3e91383aec085c92c7b632497c192", null ],
-    [ "getRecordCount", "d1/d67/a28559.html#ae0fd1c5f3728ec3073a6615dc9604f9c", null ],
-    [ "getRecordCount", "d1/d67/a28559.html#ae0fd1c5f3728ec3073a6615dc9604f9c", null ],
-    [ "open", "d1/d67/a28559.html#a8255273a3ed878f743837eecf83c5897", null ],
-    [ "open", "d1/d67/a28559.html#a8255273a3ed878f743837eecf83c5897", null ],
-    [ "data", "d1/d67/a28559.html#a13665b42b03d29542922798b8e596db0", null ],
-    [ "fieldCount", "d1/d67/a28559.html#a5bad58543d306efba432f49474861c78", null ],
-    [ "filename", "d1/d67/a28559.html#a41e6549e414b05b545e4cc2e6c9ed526", null ],
-    [ "recordCount", "d1/d67/a28559.html#a1078e933a1984bc8cd74126bbd217571", null ],
-    [ "recordSize", "d1/d67/a28559.html#a612b41c93f0acc15638ff9874f260799", null ],
-    [ "stringSize", "d1/d67/a28559.html#a294ac17f748f5db90e9795b0d35a4dbf", null ],
-    [ "stringTable", "d1/d67/a28559.html#ae6c0a134786acbe1ef184d053efc2b00", null ]
+    [ "Id", "d1/d67/a28559.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
+    [ "PowerType", "d1/d67/a28559.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
 ];

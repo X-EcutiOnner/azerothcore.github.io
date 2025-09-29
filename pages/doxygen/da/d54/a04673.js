@@ -1,10 +1,10 @@
 var a04673 =
 [
-    [ "MySQLConnectionInfo", "d2/d90/a05770.html", "d2/d90/a05770" ],
-    [ "MySQLConnection", "d9/dc9/a05774.html", "d9/dc9/a05774" ],
-    [ "ConnectionFlags", "da/d54/a04673.html#a008b1c9a9206a70569b89aea01ac321f", [
-      [ "CONNECTION_ASYNC", "da/d54/a04673.html#a008b1c9a9206a70569b89aea01ac321faa12dee499d68ef84c216f874cb104fe9", null ],
-      [ "CONNECTION_SYNCH", "da/d54/a04673.html#a008b1c9a9206a70569b89aea01ac321fa38de35d7007257d23046b73a6aec7946", null ],
-      [ "CONNECTION_BOTH", "da/d54/a04673.html#a008b1c9a9206a70569b89aea01ac321fa69536f08cbcdbe5a0ff0d89981fc6b39", null ]
-    ] ]
+    [ "Acore::has_type< T, std::tuple< Us... > >", "da/da1/a05627.html", null ],
+    [ "Acore::is_tuple< typename >", "dc/d03/a05631.html", null ],
+    [ "Acore::is_tuple< std::tuple< Ts... > >", "dd/df1/a05635.html", null ],
+    [ "new_from_tuple", "da/d54/a04673.html#aac12e702d41e9aa126f7d39f0f295252", null ],
+    [ "new_from_tuple", "da/d54/a04673.html#a028fc93107022ad23a763503c9b0bbdb", null ],
+    [ "has_type_v", "da/d54/a04673.html#aa4e7bc2a96e641dd1642a3c61cfc96b0", null ],
+    [ "is_tuple_v", "da/d54/a04673.html#a4104f84ad757b701a6ffbd51f5d10b9f", null ]
 ];

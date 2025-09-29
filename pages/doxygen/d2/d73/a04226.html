@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/game/Scripting/ScriptDefines/ArenaScript.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/tools/vmap4_extractor/gameobject_extract.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,75 +105,187 @@ $(document).ready(function(){initNavTree('d2/d73/a04226.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#enum-members">Enumerations</a>  </div>
-  <div class="headertitle"><div class="title">ArenaScript.h File Reference</div></div>
+<a href="#func-members">Functions</a>  </div>
+  <div class="headertitle"><div class="title">gameobject_extract.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptObject.h</a>&quot;</code><br />
-<code>#include &lt;vector&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">adtfile.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">dbcfile.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">model.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">vmapexport.h</a>&quot;</code><br />
+<code>#include &lt;cstdio&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d94/a10286.html">ArenaScript</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a93515f145fed15b3645f2240f39214ba"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d73/a04226.html#a93515f145fed15b3645f2240f39214ba">ArenaHook</a> { <br />
-&#160;&#160;<a class="el" href="../../d2/d73/a04226.html#a93515f145fed15b3645f2240f39214baa0eec08769f1e2848ef510ae5bc1980d0">ARENAHOOK_CAN_ADD_MEMBER</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d73/a04226.html#a93515f145fed15b3645f2240f39214baab3934eeceaededbb59ec277bc4275588">ARENAHOOK_ON_GET_POINTS</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d73/a04226.html#a93515f145fed15b3645f2240f39214baa707580e05d247690d89335a46d576657">ARENAHOOK_CAN_SAVE_TO_DB</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d73/a04226.html#a93515f145fed15b3645f2240f39214baa8f35d3e6970c95df27f631f3f5558a5e">ARENAHOOK_ON_BEFORE_CHECK_WIN_CONDITION</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d73/a04226.html#a93515f145fed15b3645f2240f39214baac02079e51af3fd7c3507a8a6f88fee09">ARENAHOOK_ON_ARENA_START</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d2/d73/a04226.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58">ARENAHOOK_END</a>
-<br />
- }</td></tr>
-<tr class="separator:a93515f145fed15b3645f2240f39214ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:a6a96194f748b715f0400249583336ae5"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d73/a04226.html#a6a96194f748b715f0400249583336ae5">ExtractSingleModel</a> (std::string &amp;fname)</td></tr>
+<tr class="separator:a6a96194f748b715f0400249583336ae5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b3d0cbf404ed32359e354ccf6e34392"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d73/a04226.html#a7b3d0cbf404ed32359e354ccf6e34392">ExtractGameobjectModels</a> ()</td></tr>
+<tr class="separator:a7b3d0cbf404ed32359e354ccf6e34392"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a93515f145fed15b3645f2240f39214ba" name="a93515f145fed15b3645f2240f39214ba"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a93515f145fed15b3645f2240f39214ba">&#9670;&#160;</a></span>ArenaHook</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a7b3d0cbf404ed32359e354ccf6e34392" name="a7b3d0cbf404ed32359e354ccf6e34392"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7b3d0cbf404ed32359e354ccf6e34392">&#9670;&#160;</a></span>ExtractGameobjectModels()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d2/d73/a04226.html#a93515f145fed15b3645f2240f39214ba">ArenaHook</a></td>
+          <td class="memname">void ExtractGameobjectModels </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a93515f145fed15b3645f2240f39214baa0eec08769f1e2848ef510ae5bc1980d0" name="a93515f145fed15b3645f2240f39214baa0eec08769f1e2848ef510ae5bc1980d0"></a>ARENAHOOK_CAN_ADD_MEMBER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a93515f145fed15b3645f2240f39214baab3934eeceaededbb59ec277bc4275588" name="a93515f145fed15b3645f2240f39214baab3934eeceaededbb59ec277bc4275588"></a>ARENAHOOK_ON_GET_POINTS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a93515f145fed15b3645f2240f39214baa707580e05d247690d89335a46d576657" name="a93515f145fed15b3645f2240f39214baa707580e05d247690d89335a46d576657"></a>ARENAHOOK_CAN_SAVE_TO_DB&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a93515f145fed15b3645f2240f39214baa8f35d3e6970c95df27f631f3f5558a5e" name="a93515f145fed15b3645f2240f39214baa8f35d3e6970c95df27f631f3f5558a5e"></a>ARENAHOOK_ON_BEFORE_CHECK_WIN_CONDITION&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a93515f145fed15b3645f2240f39214baac02079e51af3fd7c3507a8a6f88fee09" name="a93515f145fed15b3645f2240f39214baac02079e51af3fd7c3507a8a6f88fee09"></a>ARENAHOOK_ON_ARENA_START&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58" name="a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58"></a>ARENAHOOK_END&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../d2/d73/a04226.html#a93515f145fed15b3645f2240f39214baa0eec08769f1e2848ef510ae5bc1980d0">ARENAHOOK_CAN_ADD_MEMBER</a>,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../d2/d73/a04226.html#a93515f145fed15b3645f2240f39214baab3934eeceaededbb59ec277bc4275588">ARENAHOOK_ON_GET_POINTS</a>,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../d2/d73/a04226.html#a93515f145fed15b3645f2240f39214baa707580e05d247690d89335a46d576657">ARENAHOOK_CAN_SAVE_TO_DB</a>,</div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../d2/d73/a04226.html#a93515f145fed15b3645f2240f39214baa8f35d3e6970c95df27f631f3f5558a5e">ARENAHOOK_ON_BEFORE_CHECK_WIN_CONDITION</a>,</div>
-<div class="line"><span class="lineno">   31</span>    <a class="code hl_enumvalue" href="../../d2/d73/a04226.html#a93515f145fed15b3645f2240f39214baac02079e51af3fd7c3507a8a6f88fee09">ARENAHOOK_ON_ARENA_START</a>,</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_enumvalue" href="../../d2/d73/a04226.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58">ARENAHOOK_END</a></div>
-<div class="line"><span class="lineno">   33</span>};</div>
-<div class="ttc" id="aa04226_html_a93515f145fed15b3645f2240f39214baa0eec08769f1e2848ef510ae5bc1980d0"><div class="ttname"><a href="../../d2/d73/a04226.html#a93515f145fed15b3645f2240f39214baa0eec08769f1e2848ef510ae5bc1980d0">ARENAHOOK_CAN_ADD_MEMBER</a></div><div class="ttdeci">@ ARENAHOOK_CAN_ADD_MEMBER</div><div class="ttdef"><b>Definition:</b> ArenaScript.h:27</div></div>
-<div class="ttc" id="aa04226_html_a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58"><div class="ttname"><a href="../../d2/d73/a04226.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58">ARENAHOOK_END</a></div><div class="ttdeci">@ ARENAHOOK_END</div><div class="ttdef"><b>Definition:</b> ArenaScript.h:32</div></div>
-<div class="ttc" id="aa04226_html_a93515f145fed15b3645f2240f39214baa707580e05d247690d89335a46d576657"><div class="ttname"><a href="../../d2/d73/a04226.html#a93515f145fed15b3645f2240f39214baa707580e05d247690d89335a46d576657">ARENAHOOK_CAN_SAVE_TO_DB</a></div><div class="ttdeci">@ ARENAHOOK_CAN_SAVE_TO_DB</div><div class="ttdef"><b>Definition:</b> ArenaScript.h:29</div></div>
-<div class="ttc" id="aa04226_html_a93515f145fed15b3645f2240f39214baa8f35d3e6970c95df27f631f3f5558a5e"><div class="ttname"><a href="../../d2/d73/a04226.html#a93515f145fed15b3645f2240f39214baa8f35d3e6970c95df27f631f3f5558a5e">ARENAHOOK_ON_BEFORE_CHECK_WIN_CONDITION</a></div><div class="ttdeci">@ ARENAHOOK_ON_BEFORE_CHECK_WIN_CONDITION</div><div class="ttdef"><b>Definition:</b> ArenaScript.h:30</div></div>
-<div class="ttc" id="aa04226_html_a93515f145fed15b3645f2240f39214baab3934eeceaededbb59ec277bc4275588"><div class="ttname"><a href="../../d2/d73/a04226.html#a93515f145fed15b3645f2240f39214baab3934eeceaededbb59ec277bc4275588">ARENAHOOK_ON_GET_POINTS</a></div><div class="ttdeci">@ ARENAHOOK_ON_GET_POINTS</div><div class="ttdef"><b>Definition:</b> ArenaScript.h:28</div></div>
-<div class="ttc" id="aa04226_html_a93515f145fed15b3645f2240f39214baac02079e51af3fd7c3507a8a6f88fee09"><div class="ttname"><a href="../../d2/d73/a04226.html#a93515f145fed15b3645f2240f39214baac02079e51af3fd7c3507a8a6f88fee09">ARENAHOOK_ON_ARENA_START</a></div><div class="ttdeci">@ ARENAHOOK_ON_ARENA_START</div><div class="ttdef"><b>Definition:</b> ArenaScript.h:31</div></div>
+<dl class="todo"><dt><b><a class="el" href="../../d6/d56/a04790.html#_todo000268">Todo:</a></b></dt><dd>: extract .mdl files, if needed </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">   60</span>{</div>
+<div class="line"><span class="lineno">   61</span>    printf(<span class="stringliteral">&quot;Extracting GameObject models...&quot;</span>);</div>
+<div class="line"><span class="lineno">   62</span>    <a class="code hl_class" href="../../d2/d4b/a28923.html">DBCFile</a> dbc(<span class="stringliteral">&quot;DBFilesClient\\GameObjectDisplayInfo.dbc&quot;</span>);</div>
+<div class="line"><span class="lineno">   63</span>    <span class="keywordflow">if</span> (!dbc.open())</div>
+<div class="line"><span class="lineno">   64</span>    {</div>
+<div class="line"><span class="lineno">   65</span>        printf(<span class="stringliteral">&quot;Fatal error: Invalid GameObjectDisplayInfo.dbc file format!\n&quot;</span>);</div>
+<div class="line"><span class="lineno">   66</span>        exit(1);</div>
+<div class="line"><span class="lineno">   67</span>    }</div>
+<div class="line"><span class="lineno">   68</span> </div>
+<div class="line"><span class="lineno">   69</span>    std::string basepath = <a class="code hl_variable" href="../../df/d88/a04241.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a>;</div>
+<div class="line"><span class="lineno">   70</span>    basepath += <span class="stringliteral">&quot;/&quot;</span>;</div>
+<div class="line"><span class="lineno">   71</span>    std::string path;</div>
+<div class="line"><span class="lineno">   72</span> </div>
+<div class="line"><span class="lineno">   73</span>    std::string modelListPath = basepath + <span class="stringliteral">&quot;temp_gameobject_models&quot;</span>;</div>
+<div class="line"><span class="lineno">   74</span>    FILE* <a class="code hl_variable" href="../../d7/d43/a04505.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a> = fopen(modelListPath.c_str(), <span class="stringliteral">&quot;wb&quot;</span>);</div>
+<div class="line"><span class="lineno">   75</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d7/d43/a04505.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>)</div>
+<div class="line"><span class="lineno">   76</span>    {</div>
+<div class="line"><span class="lineno">   77</span>        printf(<span class="stringliteral">&quot;Fatal error: Could not open file %s\n&quot;</span>, modelListPath.c_str());</div>
+<div class="line"><span class="lineno">   78</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   79</span>    }</div>
+<div class="line"><span class="lineno">   80</span> </div>
+<div class="line"><span class="lineno">   81</span>    fwrite(<a class="code hl_variable" href="../../d1/da9/a04807.html#ab44884fb6c05cb4ae128d5882a2c4b7c">VMAP::RAW_VMAP_MAGIC</a>, 1, 8, <a class="code hl_variable" href="../../d7/d43/a04505.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>);</div>
+<div class="line"><span class="lineno">   82</span> </div>
+<div class="line"><span class="lineno">   83</span>    <span class="keywordflow">for</span> (<span class="keyword">const</span> <span class="keyword">auto</span> &amp; it : dbc)</div>
+<div class="line"><span class="lineno">   84</span>    {</div>
+<div class="line"><span class="lineno">   85</span>        path = it.getString(1);</div>
+<div class="line"><span class="lineno">   86</span> </div>
+<div class="line"><span class="lineno">   87</span>        <span class="keywordflow">if</span> (path.length() &lt; 4)</div>
+<div class="line"><span class="lineno">   88</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   89</span> </div>
+<div class="line"><span class="lineno">   90</span>        <a class="code hl_function" href="../../d2/d98/a04244.html#abdc56edc46e0804c456749761cff8daf">fixnamen</a>((<span class="keywordtype">char</span>*)path.c_str(), path.size());</div>
+<div class="line"><span class="lineno">   91</span>        <span class="keywordtype">char</span>* name = <a class="code hl_function" href="../../d2/d98/a04244.html#a939d4568b4058bf826a517f55cb963af">GetPlainName</a>((<span class="keywordtype">char</span>*)path.c_str());</div>
+<div class="line"><span class="lineno">   92</span>        <a class="code hl_function" href="../../d2/d98/a04244.html#ac0029be4572a61d00eb1435db5526a74">fixname2</a>(name, strlen(name));</div>
+<div class="line"><span class="lineno">   93</span> </div>
+<div class="line"><span class="lineno">   94</span>        <span class="keywordtype">char</span>* ch_ext = <a class="code hl_function" href="../../d2/d98/a04244.html#ac3f75fc482c41471364c2c3e8bd1dd96">GetExtension</a>(name);</div>
+<div class="line"><span class="lineno">   95</span>        <span class="keywordflow">if</span> (!ch_ext)</div>
+<div class="line"><span class="lineno">   96</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">   97</span> </div>
+<div class="line"><span class="lineno">   98</span>        <a class="code hl_function" href="../../db/d62/a04730.html#a8a91185d89f31e26170db63a868642cd">strToLower</a>(ch_ext);</div>
+<div class="line"><span class="lineno">   99</span> </div>
+<div class="line"><span class="lineno">  100</span>        <span class="keywordtype">bool</span> result = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  101</span>        <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> isWmo = 0;</div>
+<div class="line"><span class="lineno">  102</span>        <span class="keywordflow">if</span> (!strcmp(ch_ext, <span class="stringliteral">&quot;.wmo&quot;</span>))</div>
+<div class="line"><span class="lineno">  103</span>        {</div>
+<div class="line"><span class="lineno">  104</span>            isWmo = 1;</div>
+<div class="line"><span class="lineno">  105</span>            result = <a class="code hl_function" href="../../df/d88/a04241.html#afc9839262206eb10094c1769141ae146">ExtractSingleWmo</a>(path);</div>
+<div class="line"><span class="lineno">  106</span>        }</div>
+<div class="line"><span class="lineno">  107</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!strcmp(ch_ext, <span class="stringliteral">&quot;.mdl&quot;</span>))</div>
+<div class="line"><span class="lineno">  108</span>        {</div>
+<div class="line"><span class="lineno">  110</span>            <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  111</span>        }</div>
+<div class="line"><span class="lineno">  112</span>        <span class="keywordflow">else</span> <span class="comment">//if (!strcmp(ch_ext, &quot;.mdx&quot;) || !strcmp(ch_ext, &quot;.m2&quot;))</span></div>
+<div class="line"><span class="lineno">  113</span>        {</div>
+<div class="line"><span class="lineno">  114</span>            result = <a class="code hl_function" href="../../d2/d73/a04226.html#a6a96194f748b715f0400249583336ae5">ExtractSingleModel</a>(path);</div>
+<div class="line"><span class="lineno">  115</span>        }</div>
+<div class="line"><span class="lineno">  116</span> </div>
+<div class="line"><span class="lineno">  117</span>        <span class="keywordflow">if</span> (result)</div>
+<div class="line"><span class="lineno">  118</span>        {</div>
+<div class="line"><span class="lineno">  119</span>            <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> displayId = it.getUInt(0);</div>
+<div class="line"><span class="lineno">  120</span>            <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> path_length = strlen(name);</div>
+<div class="line"><span class="lineno">  121</span>            fwrite(&amp;displayId, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, <a class="code hl_variable" href="../../d7/d43/a04505.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>);</div>
+<div class="line"><span class="lineno">  122</span>            fwrite(&amp;isWmo, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>), 1, <a class="code hl_variable" href="../../d7/d43/a04505.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>);</div>
+<div class="line"><span class="lineno">  123</span>            fwrite(&amp;path_length, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, <a class="code hl_variable" href="../../d7/d43/a04505.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>);</div>
+<div class="line"><span class="lineno">  124</span>            fwrite(name, <span class="keyword">sizeof</span>(<span class="keywordtype">char</span>), path_length, <a class="code hl_variable" href="../../d7/d43/a04505.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>);</div>
+<div class="line"><span class="lineno">  125</span>        }</div>
+<div class="line"><span class="lineno">  126</span>    }</div>
+<div class="line"><span class="lineno">  127</span> </div>
+<div class="line"><span class="lineno">  128</span>    fclose(<a class="code hl_variable" href="../../d7/d43/a04505.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a>);</div>
+<div class="line"><span class="lineno">  129</span> </div>
+<div class="line"><span class="lineno">  130</span>    printf(<span class="stringliteral">&quot;Done!\n&quot;</span>);</div>
+<div class="line"><span class="lineno">  131</span>}</div>
+<div class="ttc" id="aa04226_html_a6a96194f748b715f0400249583336ae5"><div class="ttname"><a href="../../d2/d73/a04226.html#a6a96194f748b715f0400249583336ae5">ExtractSingleModel</a></div><div class="ttdeci">bool ExtractSingleModel(std::string &amp;fname)</div><div class="ttdef"><b>Definition:</b> gameobject_extract.cpp:24</div></div>
+<div class="ttc" id="aa04241_html_ae79cb6c3493a63f0e1058be3bd5ba328"><div class="ttname"><a href="../../df/d88/a04241.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a></div><div class="ttdeci">char const  * szWorkDirWmo</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:68</div></div>
+<div class="ttc" id="aa04241_html_afc9839262206eb10094c1769141ae146"><div class="ttname"><a href="../../df/d88/a04241.html#afc9839262206eb10094c1769141ae146">ExtractSingleWmo</a></div><div class="ttdeci">bool ExtractSingleWmo(std::string &amp;fname)</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:98</div></div>
+<div class="ttc" id="aa04244_html_a939d4568b4058bf826a517f55cb963af"><div class="ttname"><a href="../../d2/d98/a04244.html#a939d4568b4058bf826a517f55cb963af">GetPlainName</a></div><div class="ttdeci">char const * GetPlainName(char const *FileName)</div><div class="ttdef"><b>Definition:</b> adtfile.cpp:26</div></div>
+<div class="ttc" id="aa04244_html_abdc56edc46e0804c456749761cff8daf"><div class="ttname"><a href="../../d2/d98/a04244.html#abdc56edc46e0804c456749761cff8daf">fixnamen</a></div><div class="ttdeci">void fixnamen(char *name, std::size_t len)</div><div class="ttdef"><b>Definition:</b> adtfile.cpp:44</div></div>
+<div class="ttc" id="aa04244_html_ac0029be4572a61d00eb1435db5526a74"><div class="ttname"><a href="../../d2/d98/a04244.html#ac0029be4572a61d00eb1435db5526a74">fixname2</a></div><div class="ttdeci">void fixname2(char *name, std::size_t len)</div><div class="ttdef"><b>Definition:</b> adtfile.cpp:62</div></div>
+<div class="ttc" id="aa04244_html_ac3f75fc482c41471364c2c3e8bd1dd96"><div class="ttname"><a href="../../d2/d98/a04244.html#ac3f75fc482c41471364c2c3e8bd1dd96">GetExtension</a></div><div class="ttdeci">char * GetExtension(char *FileName)</div><div class="ttdef"><b>Definition:</b> adtfile.cpp:72</div></div>
+<div class="ttc" id="aa04307_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa04307_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa04505_html_aa0a0fd13eaa3eba090a3085d41303f12"><div class="ttname"><a href="../../d7/d43/a04505.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a></div><div class="ttdeci">ModelList model_list</div><div class="ttdef"><b>Definition:</b> GameObjectModel.cpp:43</div></div>
+<div class="ttc" id="aa04730_html_a8a91185d89f31e26170db63a868642cd"><div class="ttname"><a href="../../db/d62/a04730.html#a8a91185d89f31e26170db63a868642cd">strToLower</a></div><div class="ttdeci">void strToLower(std::string &amp;str)</div><div class="ttdef"><b>Definition:</b> Util.cpp:384</div></div>
+<div class="ttc" id="aa04807_html_ab44884fb6c05cb4ae128d5882a2c4b7c"><div class="ttname"><a href="../../d1/da9/a04807.html#ab44884fb6c05cb4ae128d5882a2c4b7c">VMAP::RAW_VMAP_MAGIC</a></div><div class="ttdeci">const char RAW_VMAP_MAGIC[]</div><div class="ttdef"><b>Definition:</b> VMapDefinitions.h:26</div></div>
+<div class="ttc" id="aa28923_html"><div class="ttname"><a href="../../d2/d4b/a28923.html">DBCFile</a></div><div class="ttdef"><b>Definition:</b> dbcfile.h:25</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00024">ExtractSingleModel()</a>, <a class="el" href="../../#l00098">ExtractSingleWmo()</a>, <a class="el" href="../../#l00062">fixname2()</a>, <a class="el" href="../../#l00044">fixnamen()</a>, <a class="el" href="../../#l00072">GetExtension()</a>, <a class="el" href="../../#l00026">GetPlainName()</a>, <a class="el" href="../../#l00043">model_list</a>, <a class="el" href="../../#l00029">DBCFile::open()</a>, <a class="el" href="../../#l00026">VMAP::RAW_VMAP_MAGIC</a>, <a class="el" href="../../#l00384">strToLower()</a>, and <a class="el" href="../../#l00068">szWorkDirWmo</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00420">main()</a>.</p>
+
+</div>
+</div>
+<a id="a6a96194f748b715f0400249583336ae5" name="a6a96194f748b715f0400249583336ae5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6a96194f748b715f0400249583336ae5">&#9670;&#160;</a></span>ExtractSingleModel()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ExtractSingleModel </td>
+          <td>(</td>
+          <td class="paramtype">std::string &amp;&#160;</td>
+          <td class="paramname"><em>fname</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
+<div class="line"><span class="lineno">   26</span>    <span class="keywordflow">if</span> (fname.length() &lt; 4)</div>
+<div class="line"><span class="lineno">   27</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   28</span> </div>
+<div class="line"><span class="lineno">   29</span>    std::string extension = fname.substr(fname.length() - 4, 4);</div>
+<div class="line"><span class="lineno">   30</span>    <span class="keywordflow">if</span> (extension == <span class="stringliteral">&quot;.mdx&quot;</span> || extension == <span class="stringliteral">&quot;.MDX&quot;</span> || extension == <span class="stringliteral">&quot;.mdl&quot;</span> || extension == <span class="stringliteral">&quot;.MDL&quot;</span>)</div>
+<div class="line"><span class="lineno">   31</span>    {</div>
+<div class="line"><span class="lineno">   32</span>        <span class="comment">// replace .mdx -&gt; .m2</span></div>
+<div class="line"><span class="lineno">   33</span>        fname.erase(fname.length() - 2, 2);</div>
+<div class="line"><span class="lineno">   34</span>        fname.append(<span class="stringliteral">&quot;2&quot;</span>);</div>
+<div class="line"><span class="lineno">   35</span>    }</div>
+<div class="line"><span class="lineno">   36</span>    <span class="comment">// &gt;= 3.1.0 ADT MMDX section store filename.m2 filenames for corresponded .m2 file</span></div>
+<div class="line"><span class="lineno">   37</span>    <span class="comment">// nothing do</span></div>
+<div class="line"><span class="lineno">   38</span> </div>
+<div class="line"><span class="lineno">   39</span>    std::string originalName = fname;</div>
+<div class="line"><span class="lineno">   40</span> </div>
+<div class="line"><span class="lineno">   41</span>    <span class="keywordtype">char</span>* name = <a class="code hl_function" href="../../d2/d98/a04244.html#a939d4568b4058bf826a517f55cb963af">GetPlainName</a>((<span class="keywordtype">char</span>*)fname.c_str());</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_function" href="../../d2/d98/a04244.html#abdc56edc46e0804c456749761cff8daf">fixnamen</a>(name, strlen(name));</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_function" href="../../d2/d98/a04244.html#ac0029be4572a61d00eb1435db5526a74">fixname2</a>(name, strlen(name));</div>
+<div class="line"><span class="lineno">   44</span> </div>
+<div class="line"><span class="lineno">   45</span>    std::string output(<a class="code hl_variable" href="../../df/d88/a04241.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a>);</div>
+<div class="line"><span class="lineno">   46</span>    output += <span class="stringliteral">&quot;/&quot;</span>;</div>
+<div class="line"><span class="lineno">   47</span>    output += name;</div>
+<div class="line"><span class="lineno">   48</span> </div>
+<div class="line"><span class="lineno">   49</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d1/dde/a04187.html#ad44d8658e695b84dce92babe0abea43d">FileExists</a>(output.c_str()))</div>
+<div class="line"><span class="lineno">   50</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   51</span> </div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_class" href="../../d7/d76/a29047.html">Model</a> mdl(originalName);</div>
+<div class="line"><span class="lineno">   53</span>    <span class="keywordflow">if</span> (!mdl.open())</div>
+<div class="line"><span class="lineno">   54</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   55</span> </div>
+<div class="line"><span class="lineno">   56</span>    <span class="keywordflow">return</span> mdl.ConvertToVMAPModel(output.c_str());</div>
+<div class="line"><span class="lineno">   57</span>}</div>
+<div class="ttc" id="aa04187_html_ad44d8658e695b84dce92babe0abea43d"><div class="ttname"><a href="../../d1/dde/a04187.html#ad44d8658e695b84dce92babe0abea43d">FileExists</a></div><div class="ttdeci">bool FileExists(const char *FileName)</div><div class="ttdef"><b>Definition:</b> System.cpp:144</div></div>
+<div class="ttc" id="aa29047_html"><div class="ttname"><a href="../../d7/d76/a29047.html">Model</a></div><div class="ttdef"><b>Definition:</b> model.h:32</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00070">Model::ConvertToVMAPModel()</a>, <a class="el" href="../../#l00144">FileExists()</a>, <a class="el" href="../../#l00062">fixname2()</a>, <a class="el" href="../../#l00044">fixnamen()</a>, <a class="el" href="../../#l00026">GetPlainName()</a>, <a class="el" href="../../#l00032">Model::open()</a>, and <a class="el" href="../../#l00068">szWorkDirWmo</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00059">ExtractGameobjectModels()</a>, <a class="el" href="../../#l00084">ADTFile::init()</a>, and <a class="el" href="../../#l00038">WMORoot::open()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -181,8 +293,8 @@ Enumerations</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_824c567499771b11a8d1959386aa27e6.html">Scripting</a></li><li class="navelem"><a class="el" href="../../dir_a0aac0519f50cbe40c54d5948ed285d0.html">ScriptDefines</a></li><li class="navelem"><a class="el" href="../../d2/d73/a04226.html">ArenaScript.h</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:44:07 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_b604cd515113e1b9d14f26b265d784ac.html">vmap4_extractor</a></li><li class="navelem"><a class="el" href="../../d2/d73/a04226.html">gameobject_extract.cpp</a></li>
+    <li class="footer">Generated on Mon Sep 29 2025 20:46:36 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

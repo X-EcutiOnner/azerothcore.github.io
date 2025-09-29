@@ -1,6 +1,7 @@
 var a22343 =
 [
-    [ "PrepareSpellScript", "da/d30/a22343.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
-    [ "RecalculateDamage", "da/d30/a22343.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
-    [ "Register", "da/d30/a22343.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
+    [ "HandleScriptEffect", "da/d30/a22343.html#ad20cf97a7dd442d5670a22095b487a01", null ],
+    [ "PrepareSpellScript", "da/d30/a22343.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
+    [ "Register", "da/d30/a22343.html#a996ea344ea2a3312cb8886565b80972d", null ],
+    [ "Validate", "da/d30/a22343.html#a29bf5a9615e02281f426bf521a045567", null ]
 ];

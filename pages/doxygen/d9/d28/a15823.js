@@ -1,6 +1,7 @@
 var a15823 =
 [
-    [ "HandleApplyAura", "d9/d28/a15823.html#aeddfd61eab5aa077ca07a924ec491285", null ],
-    [ "PrepareSpellScript", "d9/d28/a15823.html#ad53341842455d98722c03318dd80fb94", null ],
-    [ "Register", "d9/d28/a15823.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
+    [ "npc_toogaAI", "d8/d4c/a15827.html", "d8/d4c/a15827" ],
+    [ "npc_tooga", "d9/d28/a15823.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
+    [ "GetAI", "d9/d28/a15823.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
+    [ "OnQuestAccept", "d9/d28/a15823.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
 ];

@@ -1,10 +1,6 @@
 var a21043 =
 [
-    [ "npc_dragonflayer_forge_master", "df/da4/a21043.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
-    [ "JustDied", "df/da4/a21043.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
-    [ "JustEngagedWith", "df/da4/a21043.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
-    [ "Reset", "df/da4/a21043.html#af2c844c926b94456df796b4252e899c2", null ],
-    [ "dataId", "df/da4/a21043.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
-    [ "pInstance", "df/da4/a21043.html#a27b5988d777347832795581b0186c09f", null ],
-    [ "prevDataId", "df/da4/a21043.html#aa057cb5ae681b4b802031151ea1a3529", null ]
+    [ "boss_yoggsaron_death_orbAI", "df/da4/a21043.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
+    [ "UpdateAI", "df/da4/a21043.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
+    [ "_startTimer", "df/da4/a21043.html#aebc8edef5f84219e1c50f2394d129443", null ]
 ];

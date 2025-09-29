@@ -1,8 +1,6 @@
 var a23259 =
 [
-    [ "FilterTargets", "d7/d1e/a23259.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
-    [ "HandleDummy", "d7/d1e/a23259.html#addb3580259be74126b7de36d1b0a8a97", null ],
-    [ "PrepareSpellScript", "d7/d1e/a23259.html#aba82de0886d03037de4564f9908b8c89", null ],
-    [ "Register", "d7/d1e/a23259.html#a1650962493d48f5553a9e2771e594f1f", null ],
-    [ "Validate", "d7/d1e/a23259.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
+    [ "instance_black_temple_InstanceMapScript", "de/dcd/a23263.html", "de/dcd/a23263" ],
+    [ "instance_black_temple", "d7/d1e/a23259.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "d7/d1e/a23259.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

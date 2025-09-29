@@ -1,10 +1,8 @@
 var a05687 =
 [
-    [ "Alias", "d2/de1/a05687.html#ac885c365760ade7b0c74e5fead82a210", null ],
-    [ "Index", "d2/de1/a05687.html#ad841e71a9394fc114a35f0234ef581b6", null ],
-    [ "Name", "d2/de1/a05687.html#af8b9f87733157401cff6b0846a545fa4", null ],
-    [ "TableAlias", "d2/de1/a05687.html#aa9ca2448829defe395b479a9a4ca3c3e", null ],
-    [ "TableName", "d2/de1/a05687.html#ada6594cc2aa67c8d34bdb45e757fda8c", null ],
-    [ "Type", "d2/de1/a05687.html#a76dec8aee42dce6698e4fda0ee1e3eba", null ],
-    [ "TypeName", "d2/de1/a05687.html#aba1b90e43c4f4c545f76568cae86ad43", null ]
+    [ "cmd", "d2/de1/a05687.html#a14df856ae931474a7c58d0e35caf6ad0", null ],
+    [ "number_of_keys", "d2/de1/a05687.html#aaa44734bb96b91894c038b3f34b4db0d", null ],
+    [ "R1", "d2/de1/a05687.html#a054648a96d1c66bae6fdb9a174e7b1e6", null ],
+    [ "R2", "d2/de1/a05687.html#a72fa4a4d0b6098fdf8e5c8f9a33f08ad", null ],
+    [ "R3", "d2/de1/a05687.html#a819a5ba3a19583fd0cfd0558cf218e54", null ]
 ];

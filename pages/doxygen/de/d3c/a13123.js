@@ -1,6 +1,8 @@
 var a13123 =
 [
-    [ "instance_stratholme_InstanceMapScript", "d5/ddf/a13127.html", "d5/ddf/a13127" ],
-    [ "instance_stratholme", "de/d3c/a13123.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
-    [ "GetInstanceScript", "de/d3c/a13123.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
+    [ "npc_scarlet_miner_cartAI", "de/d3c/a13123.html#a4256e3bc9f6678dc85a3b702e1c531f8", null ],
+    [ "DoAction", "de/d3c/a13123.html#a99ac60b1a60cc5f269aa7f02f3fd5083", null ],
+    [ "PassengerBoarded", "de/d3c/a13123.html#a3539847efa7014a8e31a78ace83b6bc5", null ],
+    [ "SetGUID", "de/d3c/a13123.html#a5679fef6f40d0e48547e7bd57a93a176", null ],
+    [ "minerGUID", "de/d3c/a13123.html#a084e80b43b5b30b5e1794feff305e9b3", null ]
 ];

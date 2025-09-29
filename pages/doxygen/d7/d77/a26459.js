@@ -1,6 +1,9 @@
 var a26459 =
 [
-    [ "ModDest", "d7/d77/a26459.html#ab03387aec0a02a6b3bac1014443554b6", null ],
-    [ "PrepareSpellScript", "d7/d77/a26459.html#a53f7da301759fb18686bc73281c4a321", null ],
-    [ "Register", "d7/d77/a26459.html#a266198fbc6203517f9845ef6212ddf13", null ]
+    [ "CheckCast", "d7/d77/a26459.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
+    [ "HandleDummy", "d7/d77/a26459.html#a7f79495525687fba6229f48935b2558a", null ],
+    [ "Load", "d7/d77/a26459.html#a0c73457e44a3d64bdccee78d28893672", null ],
+    [ "PrepareSpellScript", "d7/d77/a26459.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
+    [ "Register", "d7/d77/a26459.html#ab9f09394ab301350a2abaefde90632fe", null ],
+    [ "Validate", "d7/d77/a26459.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
 ];

@@ -1,5 +1,6 @@
 var a04907 =
 [
-    [ "GetBounds", "d6/d45/a04907.html#aad63d9f5960111e34b0a3005e2c51d0f", null ],
-    [ "GetBounds2", "d6/d45/a04907.html#adcedbb1fa73310dff07fb945793fb23e", null ]
+    [ "Resolver", "d6/d45/a04907.html#ad1a3a95744d64df722a6fb4b267316e6", null ],
+    [ "Resolve", "d6/d45/a04907.html#ab190f885c84753fe65405db6fb04bf7c", null ],
+    [ "_impl", "d6/d45/a04907.html#a08ed9183a6338606524c44f0fd5695a0", null ]
 ];

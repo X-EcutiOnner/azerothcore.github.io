@@ -1,7 +1,6 @@
 var a26003 =
 [
-    [ "CheckProc", "d1/d80/a26003.html#a2052750b91de67b330a2ae6a190a5d4e", null ],
-    [ "HandleProc", "d1/d80/a26003.html#a5b404a07ccb13cabf5fa6ab90db92129", null ],
-    [ "PrepareAuraScript", "d1/d80/a26003.html#af16eec48ab0f469ca3cefd149bb0d925", null ],
-    [ "Register", "d1/d80/a26003.html#a4f31c76184e4ae5bc03763e04cdac72e", null ]
+    [ "CheckSinkholes", "d1/d80/a26003.html#a5c363144cde9e809d97730f54873fe85", null ],
+    [ "PrepareSpellScript", "d1/d80/a26003.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
+    [ "Register", "d1/d80/a26003.html#a6694fbf58b776b74df0a54cd96141688", null ]
 ];

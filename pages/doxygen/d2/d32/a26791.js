@@ -1,7 +1,6 @@
 var a26791 =
 [
-    [ "HandleRemove", "d2/d32/a26791.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
-    [ "PrepareAuraScript", "d2/d32/a26791.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
-    [ "Register", "d2/d32/a26791.html#a338ee9c0eddd309ce2a791160059bad6", null ],
-    [ "Validate", "d2/d32/a26791.html#ae8272b65a070fc959af003f701567c3c", null ]
+    [ "HandleSendEvent", "d2/d32/a26791.html#a8126102215aa6eedd638b89d1a6b7110", null ],
+    [ "PrepareSpellScript", "d2/d32/a26791.html#abc57ba05637e2c51bf2d1fb918a93667", null ],
+    [ "Register", "d2/d32/a26791.html#ac37abad48c398bdb22529c1a44327d34", null ]
 ];

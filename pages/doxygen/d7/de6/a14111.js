@@ -1,10 +1,8 @@
 var a14111 =
 [
-    [ "npc_brewfest_super_brew_trigger", "d7/de6/a14111.html#a3d2189978683150b1c431fa0fd637358", null ],
-    [ "AttackStart", "d7/de6/a14111.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
-    [ "JustEngagedWith", "d7/de6/a14111.html#a61be52cb8ba0cc10285820ad5324816e", null ],
-    [ "MoveInLineOfSight", "d7/de6/a14111.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
-    [ "Reset", "d7/de6/a14111.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
-    [ "UpdateAI", "d7/de6/a14111.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
-    [ "timer", "d7/de6/a14111.html#a2ebb06175e3142cca156e57e8386fe02", null ]
+    [ "HandleScriptEffect", "d7/de6/a14111.html#af7f22d3b7ba136ec2af88656b9805168", null ],
+    [ "PrepareSpellScript", "d7/de6/a14111.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3", null ],
+    [ "Register", "d7/de6/a14111.html#a6a6d95c6d33bc8d90a2022e1ce23c635", null ],
+    [ "Validate", "d7/de6/a14111.html#a94a5697e9d8a068fe6ae34b8aaf974fd", null ],
+    [ "spells", "d7/de6/a14111.html#a902fc17746af82a4c58fe599c9616ce2", null ]
 ];

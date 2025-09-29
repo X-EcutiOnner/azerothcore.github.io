@@ -1,6 +1,7 @@
 var a26731 =
 [
-    [ "HandleBanish", "d9/d4f/a26731.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "d9/d4f/a26731.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "d9/d4f/a26731.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "HandleDummy", "d9/d4f/a26731.html#a2ea424e6c740305340001b1c09bfec91", null ],
+    [ "PrepareSpellScript", "d9/d4f/a26731.html#afe722c970155b47eac94bb9861a4eb46", null ],
+    [ "Register", "d9/d4f/a26731.html#a2c2b96f1c00da9884ec9d01fe897c8c1", null ],
+    [ "Validate", "d9/d4f/a26731.html#ac5f782da8b5e387c31e048759baf3e16", null ]
 ];

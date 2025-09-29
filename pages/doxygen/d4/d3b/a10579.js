@@ -1,6 +1,6 @@
 var a10579 =
 [
-    [ "GuildEventLogQueryResults", "d4/d3b/a10579.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
-    [ "Write", "d4/d3b/a10579.html#aa24738cdd040a883782b50189abdf240", null ],
-    [ "Entry", "d4/d3b/a10579.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
+    [ "SetSheathed", "d4/d3b/a10579.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
+    [ "Read", "d4/d3b/a10579.html#ae2158689450e3a9207b6992ea5223106", null ],
+    [ "CurrentSheathState", "d4/d3b/a10579.html#a8363787ac7959f19234def2707ef0b32", null ]
 ];

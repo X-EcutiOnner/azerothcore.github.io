@@ -1,10 +1,12 @@
 var a11335 =
 [
-    [ "CustomChatTextBuilder", "de/de5/a11335.html#a47b3e24f7100d13180ad1946647999ae", null ],
-    [ "operator()", "de/de5/a11335.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
-    [ "_language", "de/de5/a11335.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
-    [ "_msgType", "de/de5/a11335.html#a0db1501da33fde77ab3c50943666b1fd", null ],
-    [ "_source", "de/de5/a11335.html#ad75f22d7eb6a62d59730918f4336768c", null ],
-    [ "_target", "de/de5/a11335.html#aa45be322836be588d8df2b253a22ee5c", null ],
-    [ "_text", "de/de5/a11335.html#ab59c9b938b564329483e38466169a92c", null ]
+    [ "cooldown", "de/de5/a11335.html#a0cd88c27979ccc5284aa46846db32a7c", null ],
+    [ "customChance", "de/de5/a11335.html#adf6742b70f0b00abddf1da6f45da3d16", null ],
+    [ "ppmRate", "de/de5/a11335.html#a931b2df4a187482e32ef252c3320080a", null ],
+    [ "procEx", "de/de5/a11335.html#a911770f28fe36243593b12fe92d6fbec", null ],
+    [ "procFlags", "de/de5/a11335.html#af253ef32b9de49fe85d0fe6f06855a60", null ],
+    [ "procPhase", "de/de5/a11335.html#a179d83770a02e4ab13f809ed3943a399", null ],
+    [ "schoolMask", "de/de5/a11335.html#a9a6d38ee4e4a35066780ef924c63f92f", null ],
+    [ "spellFamilyMask", "de/de5/a11335.html#a2aa57bf419ab51129fe7240750ee8910", null ],
+    [ "spellFamilyName", "de/de5/a11335.html#a5ffa91b3f66ebb0ac34f30e1c532fb3a", null ]
 ];

@@ -1,6 +1,6 @@
 var a19631 =
 [
-    [ "npc_collapsing_starAI", "d0/d26/a19635.html", "d0/d26/a19635" ],
-    [ "npc_collapsing_star", "d5/d78/a19631.html#a8d57987c9b4622746d4f42a2b4845b9e", null ],
-    [ "GetAI", "d5/d78/a19631.html#a346af96d122e64c68defdeccb9183cd4", null ]
+    [ "npc_centrifuge_constructAI", "d0/d26/a19635.html", "d0/d26/a19635" ],
+    [ "npc_centrifuge_construct", "d5/d78/a19631.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
+    [ "GetAI", "d5/d78/a19631.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
 ];

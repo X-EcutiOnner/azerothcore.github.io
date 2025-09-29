@@ -1,6 +1,7 @@
 var a18763 =
 [
-    [ "npc_icc_vengeful_fleshreaperAI", "d1/d90/a18767.html", "d1/d90/a18767" ],
-    [ "npc_icc_vengeful_fleshreaper", "df/d64/a18763.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
-    [ "GetAI", "df/d64/a18763.html#abf1903616dbf52718313c8b404b504a5", null ]
+    [ "HandleForceCast", "df/d64/a18763.html#accc757e0a23103242865f0ce3085f9d9", null ],
+    [ "Load", "df/d64/a18763.html#a7206571378a0196a8648659628bdeece", null ],
+    [ "PrepareSpellScript", "df/d64/a18763.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
+    [ "Register", "df/d64/a18763.html#ace665321732f59f13b2ef831c71c2f18", null ]
 ];

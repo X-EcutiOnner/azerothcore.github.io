@@ -1,7 +1,8 @@
 var a09419 =
 [
-    [ "PlayerAtMinimumRangeAway", "d5/d7e/a09419.html#a12eb5ff486232f88c7303741ebd8e65e", null ],
-    [ "operator()", "d5/d7e/a09419.html#a1cfda97a0590e033f9b6043c8de2d0a0", null ],
-    [ "fRange", "d5/d7e/a09419.html#a0c58929de429694f24877525287f15a6", null ],
-    [ "unit", "d5/d7e/a09419.html#a4ea0f83c3287079cff40fac15272fa94", null ]
+    [ "AnyAttackableUnitExceptForOriginalCasterInObjectRangeCheck", "d5/d7e/a09419.html#ab3a1ebf25ef0da5df75a5a6a8bbf3ddf", null ],
+    [ "operator()", "d5/d7e/a09419.html#a2b38f9e66b1ba3bb678d763937852e02", null ],
+    [ "i_funit", "d5/d7e/a09419.html#aed6fe2e6d17e2076a373b32de071cd18", null ],
+    [ "i_obj", "d5/d7e/a09419.html#a65245ce627d5ccfde557f2d7e744ead6", null ],
+    [ "i_range", "d5/d7e/a09419.html#aff91ead572f2ed0d1912dbd0180196d5", null ]
 ];

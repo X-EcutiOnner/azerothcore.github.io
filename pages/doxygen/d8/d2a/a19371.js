@@ -1,8 +1,6 @@
 var a19371 =
 [
-    [ "npc_centrifuge_constructAI", "d8/d2a/a19371.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
-    [ "DamageTaken", "d8/d2a/a19371.html#aa568418de267a99108698e79baa1b3f4", null ],
-    [ "JustEngagedWith", "d8/d2a/a19371.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
-    [ "Reset", "d8/d2a/a19371.html#a2f7750cea2f59d794c85e20b703370af", null ],
-    [ "UpdateAI", "d8/d2a/a19371.html#a28316416ad6c56d83c9e878511256445", null ]
+    [ "boss_thaddius_summonAI", "dd/d56/a19375.html", "dd/d56/a19375" ],
+    [ "boss_thaddius_summon", "d8/d2a/a19371.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
+    [ "GetAI", "d8/d2a/a19371.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
 ];

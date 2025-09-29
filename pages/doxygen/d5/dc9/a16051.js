@@ -1,7 +1,7 @@
 var a16051 =
 [
-    [ "HandlePeriodic", "d5/dc9/a16051.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
-    [ "PrepareAuraScript", "d5/dc9/a16051.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
-    [ "Register", "d5/dc9/a16051.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
-    [ "Validate", "d5/dc9/a16051.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
+    [ "HandleScript", "d5/dc9/a16051.html#ae9939f2795b8ba428277c7d658af715c", null ],
+    [ "PrepareSpellScript", "d5/dc9/a16051.html#aabe244008103ff317e3fc1e26b04115a", null ],
+    [ "Register", "d5/dc9/a16051.html#a4f492bdd96ef190354f37c95217bb696", null ],
+    [ "Validate", "d5/dc9/a16051.html#a4a3a5e83b66d0ae3f6f95bcead932f55", null ]
 ];

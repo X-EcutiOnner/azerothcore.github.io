@@ -1,7 +1,6 @@
 var a20695 =
 [
-    [ "npc_xt002_life_sparkAI", "d6/d30/a20695.html#a763ec1834d3b71c88bfa80bc0e34966a", null ],
-    [ "Reset", "d6/d30/a20695.html#a596e2ed45b9221915781b03bf2d18e5b", null ],
-    [ "UpdateAI", "d6/d30/a20695.html#af0a1e717b08b2fa35dd4ff83778a87c1", null ],
-    [ "_attackTimer", "d6/d30/a20695.html#a79bf005de95aa1fee60dfc73b8920dad", null ]
+    [ "npc_ulduar_flames_spreadAI", "df/dbf/a20699.html", "df/dbf/a20699" ],
+    [ "npc_ulduar_flames_spread", "d6/d30/a20695.html#aca9713b28d6d0c7b13b85a00c8a53ab0", null ],
+    [ "GetAI", "d6/d30/a20695.html#af492a5bc9304a05f8475a39458c6abdb", null ]
 ];

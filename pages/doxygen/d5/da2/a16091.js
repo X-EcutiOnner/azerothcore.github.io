@@ -1,6 +1,6 @@
 var a16091 =
 [
-    [ "HandlePeriodic", "d5/da2/a16091.html#a7753587518171689f86f3f76269c1b8a", null ],
-    [ "PrepareAuraScript", "d5/da2/a16091.html#aa73351e7200bee94b0068fb8dabfada5", null ],
-    [ "Register", "d5/da2/a16091.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
+    [ "boss_hadronoxAI", "df/d8d/a16095.html", "df/d8d/a16095" ],
+    [ "boss_hadronox", "d5/da2/a16091.html#ae3457fd6108cc350cf9eedab3178f781", null ],
+    [ "GetAI", "d5/da2/a16091.html#a90bf0ecb218e30e61852baffeabc3dc1", null ]
 ];

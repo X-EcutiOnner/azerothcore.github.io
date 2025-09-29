@@ -1,6 +1,14 @@
 var a16227 =
 [
-    [ "npc_toc5_grand_champion_minionAI", "d2/d7e/a16231.html", "d2/d7e/a16231" ],
-    [ "npc_toc5_grand_champion_minion", "d0/dd7/a16227.html#a5761757b3cbbbce8ada4770805eb8de5", null ],
-    [ "GetAI", "d0/dd7/a16227.html#a55acf397b94ba63b1db626dc1041b28e", null ]
+    [ "boss_baltharus_the_warbornAI", "d0/dd7/a16227.html#adaf6cb6ab81a461b202d40900b4b744c", null ],
+    [ "DoAction", "d0/dd7/a16227.html#ab22f46e2514c10ce0e8141b3f69f069d", null ],
+    [ "InitializeAI", "d0/dd7/a16227.html#ac188db2a727e2fb3c411f8616f8a2f41", null ],
+    [ "JustDied", "d0/dd7/a16227.html#aaeb3e9b1bd25464cec4a1b0adf88afbe", null ],
+    [ "JustEngagedWith", "d0/dd7/a16227.html#a4b670f4d89f9ed9ffeebf9d9426d79dc", null ],
+    [ "JustReachedHome", "d0/dd7/a16227.html#ab178ccb3ee8bfa2649f03bfc18f1e424", null ],
+    [ "JustSummoned", "d0/dd7/a16227.html#a7947c96290ea2cbe1b7ed6b6a8db65fe", null ],
+    [ "KilledUnit", "d0/dd7/a16227.html#adb1a9e2af865292215c02cc1fb959cd3", null ],
+    [ "Reset", "d0/dd7/a16227.html#a68e503ddac7be2f4e08d68e64aa2e725", null ],
+    [ "UpdateAI", "d0/dd7/a16227.html#abe2e7188e33e70d52ab1985f821fa9c5", null ],
+    [ "_introDone", "d0/dd7/a16227.html#a463209610cbc8e34d9839abeaf6df0e6", null ]
 ];

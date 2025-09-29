@@ -1,6 +1,6 @@
 var a16935 =
 [
-    [ "boss_ickAI", "d5/d48/a16939.html", "d5/d48/a16939" ],
-    [ "boss_ick", "d9/d71/a16935.html#af97d7f96bc48ba245e28c18614b9369e", null ],
-    [ "GetAI", "d9/d71/a16935.html#a355285766712a31b704c23fe85d19e5f", null ]
+    [ "instance_drak_tharon_keep_InstanceScript", "d5/d48/a16939.html", "d5/d48/a16939" ],
+    [ "instance_drak_tharon_keep", "d9/d71/a16935.html#a1f375185dba1619fee36160549eb91f4", null ],
+    [ "GetInstanceScript", "d9/d71/a16935.html#aca6364452dc39e747af152695d479bf8", null ]
 ];

@@ -1,6 +1,7 @@
 var a18895 =
 [
-    [ "boss_anubrekhanAI", "df/d3c/a18899.html", "df/d3c/a18899" ],
-    [ "boss_anubrekhan", "da/dec/a18895.html#a6ff866300f8b0b58d4b7467def9747c0", null ],
-    [ "GetAI", "da/dec/a18895.html#aba5c31f182d6f600302f84ed21e9f7e9", null ]
+    [ "HandleEvent", "da/dec/a18895.html#a7aea0f5c4cd3765a8266e5478322910b", null ],
+    [ "PrepareSpellScript", "da/dec/a18895.html#a2e59f7f9eb67790c59c2e94cf877b4f3", null ],
+    [ "Register", "da/dec/a18895.html#a96c6a479141f765b9c0f96b5f148a428", null ],
+    [ "Validate", "da/dec/a18895.html#aa86d2cea5cb41b1e0a86248d95b5bfdb", null ]
 ];

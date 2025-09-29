@@ -1,6 +1,7 @@
 var a23835 =
 [
-    [ "PrepareAuraScript", "d2/da6/a23835.html#a14d4d1a75130a77e7e59e41720491bec", null ],
-    [ "PrepareProc", "d2/da6/a23835.html#abea217f4bfdffc70007fbc29849e9a49", null ],
-    [ "Register", "d2/da6/a23835.html#a9dbcd4c940f5941472bebb64829125e3", null ]
+    [ "FilterTargets", "d2/da6/a23835.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
+    [ "HandleHit", "d2/da6/a23835.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
+    [ "PrepareSpellScript", "d2/da6/a23835.html#a376618b9811b2e1ec18697431094e22f", null ],
+    [ "Register", "d2/da6/a23835.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
 ];

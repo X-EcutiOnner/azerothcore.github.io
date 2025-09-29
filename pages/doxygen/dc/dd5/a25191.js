@@ -1,7 +1,8 @@
 var a25191 =
 [
-    [ "EjectPassenger", "dc/dd5/a25191.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
-    [ "PrepareSpellScript", "dc/dd5/a25191.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
-    [ "Register", "dc/dd5/a25191.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
-    [ "Validate", "dc/dd5/a25191.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
+    [ "Absorb", "dc/dd5/a25191.html#aecfcbafe098adddba0a73965c447558c", null ],
+    [ "Load", "dc/dd5/a25191.html#a1883cb4c86478359dd1ff8df25e2ec65", null ],
+    [ "PrepareAuraScript", "dc/dd5/a25191.html#a3a65787dd5b7c1c796b98ce79f180d4d", null ],
+    [ "Register", "dc/dd5/a25191.html#ab6bea7d62539841fa21fa8f3c8122707", null ],
+    [ "_limit", "dc/dd5/a25191.html#a5985a97749e318e3ccba4c96724d8704", null ]
 ];

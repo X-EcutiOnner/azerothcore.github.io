@@ -1,13 +1,5 @@
 var a14675 =
 [
-    [ "boss_salrammAI", "d0/de8/a14675.html#ae1055878b3919e29d44ee26efcbe044f", null ],
-    [ "ExplodeGhoul", "d0/de8/a14675.html#adc64d8b10b28b98254c528732fff0516", null ],
-    [ "JustDied", "d0/de8/a14675.html#a59bc42afcbb0ed2c2629bd0280836194", null ],
-    [ "JustEngagedWith", "d0/de8/a14675.html#a8d3287cc74cc9d756a879c4ac796f860", null ],
-    [ "JustSummoned", "d0/de8/a14675.html#afd70403a8644f310f37335c6c9bf5b55", null ],
-    [ "KilledUnit", "d0/de8/a14675.html#ad3f4161c0e18c911a931d65e25693cdd", null ],
-    [ "Reset", "d0/de8/a14675.html#a9ddecc950cac3fc392078df2810ec2a2", null ],
-    [ "UpdateAI", "d0/de8/a14675.html#aa2350dc05884593b1361f9f09b8d9392", null ],
-    [ "events", "d0/de8/a14675.html#a55c0bba93a90b5a3770c81b9c4d2fe5b", null ],
-    [ "summons", "d0/de8/a14675.html#a813c09e121730d4ae2e623ac3c37d570", null ]
+    [ "PrepareSpellScript", "d0/de8/a14675.html#aa5593d0da0fe9cb1cb22cb2ccab18e05", null ],
+    [ "Register", "d0/de8/a14675.html#a99f7d0be5668d5b005400140fc9865a4", null ]
 ];

@@ -1,10 +1,8 @@
 var a07899 =
 [
-    [ "LfgUpdateData", "de/d53/a07899.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
-    [ "LfgUpdateData", "de/d53/a07899.html#a656873ea6ef9b3f23791827617a000c6", null ],
-    [ "LfgUpdateData", "de/d53/a07899.html#a248682a712dd43b8c4601830aae4ddec", null ],
-    [ "comment", "de/d53/a07899.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
-    [ "dungeons", "de/d53/a07899.html#a0e9b49693248b438dbc508e230a870db", null ],
-    [ "state", "de/d53/a07899.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
-    [ "updateType", "de/d53/a07899.html#a146e43854f66bf57f703d7089a24481e", null ]
+    [ "ThreatMgrEvent", "de/d53/a07899.html#ad8d5d86b12e5c13f25f8598ef5670eb8", null ],
+    [ "ThreatMgrEvent", "de/d53/a07899.html#a332ae279dc4c243c148e07454611a057", null ],
+    [ "getThreatContainer", "de/d53/a07899.html#a15ab83dccbbae73cbd2ec0a376d57d28", null ],
+    [ "setThreatContainer", "de/d53/a07899.html#aaffdff7ac81e949adc076b113a824cbf", null ],
+    [ "iThreatContainer", "de/d53/a07899.html#a7f32669286852385312b86e0b70e177e", null ]
 ];

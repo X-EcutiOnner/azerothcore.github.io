@@ -1,6 +1,6 @@
 var a20247 =
 [
-    [ "npc_ulduar_iron_constructAI", "db/d7e/a20251.html", "db/d7e/a20251" ],
-    [ "npc_ulduar_iron_construct", "dc/d4b/a20247.html#a56ddf4d4d290dbb15303419c1dab18da", null ],
-    [ "GetAI", "dc/d4b/a20247.html#a7d46ba96b6f1968e35721d45c17b1a49", null ]
+    [ "boss_freya_elder_stonebarkAI", "db/d7e/a20251.html", "db/d7e/a20251" ],
+    [ "boss_freya_elder_stonebark", "dc/d4b/a20247.html#a9c90c504d78456580ae657a42fac4075", null ],
+    [ "GetAI", "dc/d4b/a20247.html#a0b529bb8755c56046c40b620ef4b7448", null ]
 ];

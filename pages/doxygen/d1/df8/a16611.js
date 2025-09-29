@@ -1,7 +1,7 @@
 var a16611 =
 [
-    [ "HandleScriptEffect", "d1/df8/a16611.html#a51064b3a11f453724ae0879c80eaf8df", null ],
-    [ "PrepareSpellScript", "d1/df8/a16611.html#aac26002ff107e609fb7258306b430f1b", null ],
-    [ "Register", "d1/df8/a16611.html#a0efef7644706940e3929ce99cd162c91", null ],
-    [ "Validate", "d1/df8/a16611.html#a7110d4136337d44aa0300ec82e5a6511", null ]
+    [ "npc_toc_priestAI", "d1/df8/a16611.html#aa362d2136193a8738e311bba18b87c90", null ],
+    [ "myCanCast", "d1/df8/a16611.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
+    [ "UpdateAI", "d1/df8/a16611.html#ae51d2ac95320909150c673b76c9856c7", null ],
+    [ "events", "d1/df8/a16611.html#aa5be20e87351424e0e4698540fc1fef4", null ]
 ];

@@ -1,7 +1,7 @@
 var a13443 =
 [
-    [ "HandleScriptEffect", "dd/d6c/a13443.html#aa537704c2066df4f5b4c60a775026a83", null ],
-    [ "PrepareSpellScript", "dd/d6c/a13443.html#ac500902c22102ebfc6dcf6f78f0dd8c1", null ],
-    [ "Register", "dd/d6c/a13443.html#a1d9cfdc65bd5ae76376e709d0ac891c0", null ],
-    [ "Validate", "dd/d6c/a13443.html#a9ef5a491b5a06c31cdb0249dc086e32f", null ]
+    [ "CheckCast", "dd/d6c/a13443.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
+    [ "PrepareSpellScript", "dd/d6c/a13443.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
+    [ "Register", "dd/d6c/a13443.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
+    [ "Validate", "dd/d6c/a13443.html#a9208b9c010bb9cc379c195939351aa45", null ]
 ];

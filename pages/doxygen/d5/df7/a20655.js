@@ -1,6 +1,8 @@
 var a20655 =
 [
-    [ "npc_xt002_heartAI", "d9/d3e/a20659.html", "d9/d3e/a20659" ],
-    [ "npc_xt002_heart", "d5/df7/a20655.html#ab914ce1e945080b873cf6f93e3a6a32c", null ],
-    [ "GetAI", "d5/df7/a20655.html#af59c6623b97d1adff765e8ba4958d482", null ]
+    [ "npc_ulduar_mimiron_rocketAI", "d5/df7/a20655.html#ad758070aaeadc4d7b2b7ff4108b76c89", null ],
+    [ "InitializeAI", "d5/df7/a20655.html#aba3bf48434dca79f56f4b9aac707d48c", null ],
+    [ "Reset", "d5/df7/a20655.html#a60fbcbae9205bfd1c63b5bef7924b3ee", null ],
+    [ "SetData", "d5/df7/a20655.html#a8e547ba872c9bc2ec95ae2f60b011fce", null ],
+    [ "UpdateAI", "d5/df7/a20655.html#a28106e303d5e7c1bce9ceaa571129dca", null ]
 ];

@@ -1,6 +1,9 @@
 var a17159 =
 [
-    [ "HandlePeriodic", "d6/d6f/a17159.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
-    [ "PrepareAuraScript", "d6/d6f/a17159.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
-    [ "Register", "d6/d6f/a17159.html#a9753daf5cdc812e9027c1153b450686d", null ]
+    [ "npc_hor_lumbering_abominationAI", "d6/d6f/a17159.html#acc1e6e72aee030ebf2d0daa50f880f60", null ],
+    [ "JustDied", "d6/d6f/a17159.html#af243a79da3028d3d66facc8a15132f78", null ],
+    [ "JustEngagedWith", "d6/d6f/a17159.html#a83d0add807b5d9647328b89fed8e9bc4", null ],
+    [ "Reset", "d6/d6f/a17159.html#a4270f405bbade0028fce4df0655a1987", null ],
+    [ "UpdateAI", "d6/d6f/a17159.html#a995d0f7902cb70280d1448ac7731a816", null ],
+    [ "events", "d6/d6f/a17159.html#aee9063950477b50e38ec904e91882689", null ]
 ];

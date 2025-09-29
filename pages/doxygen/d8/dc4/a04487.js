@@ -1,7 +1,7 @@
 var a04487 =
 [
-    [ "UpdateTime", "d7/dc0/a11562.html", "d7/dc0/a11562" ],
-    [ "WorldUpdateTime", "d5/da0/a11566.html", "d5/da0/a11566" ],
-    [ "AVG_DIFF_COUNT", "d8/dc4/a04487.html#ac09527fd6979f77130f2ef6be46850eb", null ],
-    [ "sWorldUpdateTime", "d8/dc4/a04487.html#a911ff49ac052e337a0927c080aec20b2", null ]
+    [ "VMAP::MeshTriangle", "df/d84/a05115.html", "df/d84/a05115" ],
+    [ "VMAP::WmoLiquid", "d3/d91/a05119.html", "d3/d91/a05119" ],
+    [ "VMAP::GroupModel", "d0/d9d/a05123.html", "d0/d9d/a05123" ],
+    [ "VMAP::WorldModel", "d0/d42/a05127.html", "d0/d42/a05127" ]
 ];

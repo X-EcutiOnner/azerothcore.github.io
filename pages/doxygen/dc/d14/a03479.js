@@ -1,11 +1,23 @@
 var a03479 =
 [
-    [ "AddOutdoorPvPScripts", "dc/d14/a03479.html#a489bdfb4854732e561b6b13b70f67a0f", null ],
-    [ "AddSC_outdoorpvp_ep", "dc/d14/a03479.html#ac97adfc1efbcf82840cffa915a55fecb", null ],
-    [ "AddSC_outdoorpvp_gh", "dc/d14/a03479.html#a04eaa29ec2e34f71e4f7addacc0405c0", null ],
-    [ "AddSC_outdoorpvp_hp", "dc/d14/a03479.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
-    [ "AddSC_outdoorpvp_na", "dc/d14/a03479.html#a03015585e7619177355fefd05f85e1c7", null ],
-    [ "AddSC_outdoorpvp_si", "dc/d14/a03479.html#a6dfd2849f525333510ae4febbbc3ae1f", null ],
-    [ "AddSC_outdoorpvp_tf", "dc/d14/a03479.html#a6df553c8dd6e9b81e83110e7beab3646", null ],
-    [ "AddSC_outdoorpvp_zm", "dc/d14/a03479.html#a3077d08865fa83f84cf956c392a9091c", null ]
+    [ "npc_eris_hevenfire", "d9/dbe/a13723.html", "d9/dbe/a13723" ],
+    [ "npc_eris_hevenfire::npc_eris_hevenfireAI", "d2/d7a/a13727.html", "d2/d7a/a13727" ],
+    [ "npc_balance_of_light_and_shadow", "d1/d59/a13731.html", "d1/d59/a13731" ],
+    [ "npc_balance_of_light_and_shadow::npc_balance_of_light_and_shadowAI", "d4/d19/a13735.html", "d4/d19/a13735" ],
+    [ "npc_augustus_the_touched", "d6/d7b/a13739.html", "d6/d7b/a13739" ],
+    [ "eEris", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36fe", [
+      [ "QUEST_BALANCE_OF_LIGHT_AND_SHADOW", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36fea893fed7c9aba464b46eda93ba0ff910e", null ],
+      [ "ITEM_EYE_OF_DIVINITY", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36feaa330f1e90d7e18c5cec4f6ac9eccbf9b", null ],
+      [ "NPC_INJURED_PEASANT", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36feaae13148e0ec5731f2bc25c5cd83fb54a", null ],
+      [ "NPC_PLAGUED_PEASANT", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36fea2e04645dc1fe7fae413d5c2c903c89d2", null ],
+      [ "NPC_SCOURGE_ARCHER", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36fea50dd59f1eeb08594a61c6ad576ad2814", null ],
+      [ "EVENT_SUMMON_PEASANTS", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36fea499f23b6c79690c613e046b3e6394937", null ],
+      [ "EVENT_CHECK_PLAYER", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36fea3d3d147dbdefaa5a8280f3d1bcc15ea8", null ],
+      [ "EVENT_SUMMON_ARCHERS", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36fea84afa1291830b37278989be41610fb72", null ],
+      [ "SPELL_SHOOT", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36fea1b728fa1bb0194534b5b491d35ed871c", null ],
+      [ "SPELL_DEATHS_DOOR", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36fea59bc5812f6dcf3f0e45b673f923490e7", null ],
+      [ "SPELL_SEETHING_PLAGUE", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36feac366f4ed224210fd4352c0ac9fb1c12a", null ],
+      [ "SPELL_ERIS_BLESSING", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36feaaedc6f0db3ab3db342fe3379082ce633", null ]
+    ] ],
+    [ "AddSC_eastern_plaguelands", "dc/d14/a03479.html#aaef7747656518bf0ce052d780430ed88", null ]
 ];

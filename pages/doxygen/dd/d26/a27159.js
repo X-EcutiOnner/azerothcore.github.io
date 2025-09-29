@@ -1,6 +1,7 @@
 var a27159 =
 [
-    [ "go_tadpole_cageAI", "d8/de5/a27163.html", "d8/de5/a27163" ],
-    [ "go_tadpole_cage", "dd/d26/a27159.html#a1a9acacd0ebff33d402018d4205e415b", null ],
-    [ "GetAI", "dd/d26/a27159.html#a38990dc5edd725623b6c35dba7802612", null ]
+    [ "HandleDummy", "dd/d26/a27159.html#a3af91500357eb127f813334bdf538dbd", null ],
+    [ "PrepareSpellScript", "dd/d26/a27159.html#ae34ff5e6027efecc34fa770690df5887", null ],
+    [ "Register", "dd/d26/a27159.html#add4e4d484008d1e1cf63e36c6b6e9757", null ],
+    [ "Validate", "dd/d26/a27159.html#a0b107442c0b76a018cc019f776c0b785", null ]
 ];

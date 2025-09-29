@@ -1,6 +1,7 @@
 var a14847 =
 [
-    [ "instance_razorfen_downs_InstanceMapScript", "d3/d9c/a14851.html", "d3/d9c/a14851" ],
-    [ "instance_razorfen_downs", "d7/d9a/a14847.html#a317e5e4ce45fd88c657b8032b377ffb7", null ],
-    [ "GetInstanceScript", "d7/d9a/a14847.html#a5010fc2704c3c699e39bf969f6f6ce2c", null ]
+    [ "OnPeriodic", "d7/d9a/a14847.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
+    [ "PrepareAuraScript", "d7/d9a/a14847.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
+    [ "Register", "d7/d9a/a14847.html#aeb388d608830aeb3b30f707304403b41", null ],
+    [ "Validate", "d7/d9a/a14847.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
 ];

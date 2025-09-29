@@ -1,7 +1,9 @@
 var a25063 =
 [
-    [ "HandleDummy", "d2/d43/a25063.html#ab00358dc50fa943685fdd87e5a8ac224", null ],
-    [ "Load", "d2/d43/a25063.html#a31075533c24011797bd0f99dce5e8330", null ],
-    [ "PrepareSpellScript", "d2/d43/a25063.html#abf0acc8765f6e02674b8e93aca575a98", null ],
-    [ "Register", "d2/d43/a25063.html#ad1bd05a154b506424954ef879e5b9fba", null ]
+    [ "PrepareAuraScript", "d2/d43/a25063.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
+    [ "Register", "d2/d43/a25063.html#a04efbc64bfa0312bc1f372e403803c32", null ],
+    [ "Update", "d2/d43/a25063.html#aa463442b994b6275b2e12fe06ae7805c", null ],
+    [ "amplitude", "d2/d43/a25063.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
+    [ "amplitude", "d2/d43/a25063.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
+    [ "isPeriodic", "d2/d43/a25063.html#a0732bf60822bbb547be014566d0e092c", null ]
 ];

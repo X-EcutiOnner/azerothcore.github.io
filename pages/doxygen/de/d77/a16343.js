@@ -1,6 +1,7 @@
 var a16343 =
 [
-    [ "npc_toc_priestAI", "de/d2e/a16347.html", "de/d2e/a16347" ],
-    [ "npc_toc_priest", "de/d77/a16343.html#a0e360a2cc053434d2f76826683da8eee", null ],
-    [ "GetAI", "de/d77/a16343.html#a6056a81bef962a02537d525f07d1c302", null ]
+    [ "OnApply", "de/d77/a16343.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
+    [ "OnRemove", "de/d77/a16343.html#a781994b0be4588f4df29399fc900ec69", null ],
+    [ "PrepareAuraScript", "de/d77/a16343.html#aee648b80e7352edffb20fd60697e1d88", null ],
+    [ "Register", "de/d77/a16343.html#a53c56711e31500f827123c08f44072cb", null ]
 ];

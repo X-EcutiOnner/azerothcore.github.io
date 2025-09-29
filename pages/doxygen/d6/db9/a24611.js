@@ -1,7 +1,7 @@
 var a24611 =
 [
-    [ "CalculateAmount", "d6/db9/a24611.html#a44c3c1c97f0b87b261614e7eb0ce7d4d", null ],
-    [ "PrepareAuraScript", "d6/db9/a24611.html#aaf070525419cc8af56cd0002bbef2391", null ],
-    [ "Register", "d6/db9/a24611.html#ad37c82f88ebfb8c68aef2e574c0c4dcf", null ],
-    [ "Validate", "d6/db9/a24611.html#a3b8d5d04ec015240d941790bd02598f8", null ]
+    [ "npc_pet_gen_target_following_bomb", "d6/db9/a24611.html#a447c2cd258d784ca1d79c79412a1a426", null ],
+    [ "UpdateAI", "d6/db9/a24611.html#ac68f18d68a313623c04e885f9506f287", null ],
+    [ "bombSpellId", "d6/db9/a24611.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
+    [ "checkTimer", "d6/db9/a24611.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
 ];

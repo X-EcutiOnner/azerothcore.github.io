@@ -1,6 +1,6 @@
 var a17055 =
 [
-    [ "HandleDummy", "d4/de2/a17055.html#aef592aafe931351186edf98f7aba7e22", null ],
-    [ "PrepareSpellScript", "d4/de2/a17055.html#ab79a160e0d5b0c6e0ecfa842a4da2819", null ],
-    [ "Register", "d4/de2/a17055.html#a7594952f23cba22b886c2c3b10f363d4", null ]
+    [ "npc_ghostly_priestAI", "d8/d73/a17059.html", "d8/d73/a17059" ],
+    [ "npc_ghostly_priest", "d4/de2/a17055.html#a7c03bb327cfc65f4df515969da482ddb", null ],
+    [ "GetAI", "d4/de2/a17055.html#a0fab76345c5459efcedff02123e4fc8d", null ]
 ];

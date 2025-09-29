@@ -1,7 +1,10 @@
 var a18443 =
 [
-    [ "npc_blazing_skeletonAI", "d3/dde/a18443.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
-    [ "Reset", "d3/dde/a18443.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
-    [ "UpdateAI", "d3/dde/a18443.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
-    [ "_events", "d3/dde/a18443.html#aab1b04989d5e3fc289f00bc121df193d", null ]
+    [ "npc_shambling_horror_iccAI", "d3/dde/a18443.html#a0d15c62bead7a4da3c8a8abd0b2ee612", null ],
+    [ "CanAIAttack", "d3/dde/a18443.html#a6d77fdd16c4b089049ade7f7b081b4e9", null ],
+    [ "DamageTaken", "d3/dde/a18443.html#aed90f2c487c28190c7af630f4ea2fa13", null ],
+    [ "Reset", "d3/dde/a18443.html#ac5bab3d9f360e4e00dcab9abc3799865", null ],
+    [ "UpdateAI", "d3/dde/a18443.html#abae6058591022057e93d48da3db1b8bc", null ],
+    [ "_events", "d3/dde/a18443.html#af12b65fe4f77e8b2d3f5c87379dd69d2", null ],
+    [ "_frenzied", "d3/dde/a18443.html#a34347cbecea4c6f538345b7285e8f1c0", null ]
 ];

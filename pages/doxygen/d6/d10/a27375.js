@@ -1,8 +1,6 @@
 var a27375 =
 [
-    [ "trigger_periodicAI", "d6/d10/a27375.html#a696d62fed28de9c67827dad111cf320b", null ],
-    [ "UpdateAI", "d6/d10/a27375.html#aed31d60765eff7dd11790714e28e729e", null ],
-    [ "interval", "d6/d10/a27375.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
-    [ "spell", "d6/d10/a27375.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
-    [ "timer", "d6/d10/a27375.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
+    [ "npc_spirit_shadeAI", "d9/df6/a27379.html", "d9/df6/a27379" ],
+    [ "npc_spirit_shade", "d6/d10/a27375.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "d6/d10/a27375.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

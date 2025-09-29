@@ -1,5 +1,5 @@
 var a03323 =
 [
-    [ "_ModifyUInt32", "d4/d00/a03323.html#ab53d40bc3b1cf5c14440f3e212aa4f08", null ],
-    [ "m_diminishing_k", "d4/d00/a03323.html#a826ceb2644eb2661137e2983dd779164", null ]
+    [ "cast_commandscript", "d2/dae/a11763.html", "d2/dae/a11763" ],
+    [ "AddSC_cast_commandscript", "d4/d00/a03323.html#a7b374923a29bdbff68b6e78d2ef4a3e0", null ]
 ];

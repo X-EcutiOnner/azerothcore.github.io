@@ -1,5 +1,6 @@
 var a12727 =
 [
-    [ "at_karazhan_side_entrance", "d2/dca/a12727.html#abdaa7339a53941e2e89c4fcd439395fc", null ],
-    [ "_OnTrigger", "d2/dca/a12727.html#a80d0018a9442ef7f0834dc329047e135", null ]
+    [ "HandleTriggerSpell", "d2/dca/a12727.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
+    [ "PrepareSpellScript", "d2/dca/a12727.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
+    [ "Register", "d2/dca/a12727.html#a7e9c140aecea892ee6971bc97d385640", null ]
 ];

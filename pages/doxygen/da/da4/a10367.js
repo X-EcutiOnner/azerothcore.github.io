@@ -1,6 +1,12 @@
 var a10367 =
 [
-    [ "WeatherScript", "da/da4/a10367.html#a4f86b051364c95f5389d7ed473429b7b", null ],
-    [ "IsDatabaseBound", "da/da4/a10367.html#a2547902149ce080711ccacb709b10e8a", null ],
-    [ "OnChange", "da/da4/a10367.html#a10c105f1e1bff1e9fe484e98b00cf76c", null ]
+    [ "GroupScript", "da/da4/a10367.html#a0680f82522424afc364e9b94e1c6f686", null ],
+    [ "CanGroupJoinBattlegroundQueue", "da/da4/a10367.html#a931b4a94a2f95958579b37c0af6ece03", null ],
+    [ "IsDatabaseBound", "da/da4/a10367.html#acb561e8a2d5b3542e228a7beb8122fbf", null ],
+    [ "OnAddMember", "da/da4/a10367.html#adb279c4c0ba60ffea994f35cd7e91ad1", null ],
+    [ "OnChangeLeader", "da/da4/a10367.html#a64a1441fd3db3f25236691efcff4a80b", null ],
+    [ "OnCreate", "da/da4/a10367.html#a18973a7e5f260712f032ca1129d4a0bc", null ],
+    [ "OnDisband", "da/da4/a10367.html#a3cb94966ba1d02180fb3e7cf95000e5f", null ],
+    [ "OnInviteMember", "da/da4/a10367.html#a2ae925dc27708fdaa4d5909b582b77a7", null ],
+    [ "OnRemoveMember", "da/da4/a10367.html#adf640b01746ee92fed31670ee5cc8d0f", null ]
 ];

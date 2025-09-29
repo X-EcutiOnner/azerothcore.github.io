@@ -1,7 +1,5 @@
 var a12319 =
 [
-    [ "HandleAfterApply", "dc/dd4/a12319.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
-    [ "HandleAfterRemove", "dc/dd4/a12319.html#a7970613f1668294f29f61c1f10a9ba37", null ],
-    [ "PrepareAuraScript", "dc/dd4/a12319.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
-    [ "Register", "dc/dd4/a12319.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
+    [ "at_dragonspire_hall", "dc/dd4/a12319.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
+    [ "OnTrigger", "dc/dd4/a12319.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
 ];

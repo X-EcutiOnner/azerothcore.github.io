@@ -1,11 +1,12 @@
 var a20855 =
 [
-    [ "boss_yoggsaron_neltharionAI", "d0/deb/a20855.html#aacefe32de32513bdf46c0dd526768e25", null ],
-    [ "NextStep", "d0/deb/a20855.html#a4770948240ac56ec151c262c8996e4e4", null ],
-    [ "Reset", "d0/deb/a20855.html#a03841acfd21e920bc6589203448709a0", null ],
-    [ "Say", "d0/deb/a20855.html#ae45f051ab64ce1f96f32e5b8d073356e", null ],
-    [ "UpdateAI", "d0/deb/a20855.html#a80c174a8ffa15550627ed27ab0d8925d", null ],
-    [ "_checkTimer", "d0/deb/a20855.html#a7eef651198e09cf25c2f039bcb4a1876", null ],
-    [ "_running", "d0/deb/a20855.html#a6b2f01ed2ffe8113cbddd4a033886059", null ],
-    [ "_step", "d0/deb/a20855.html#a0ac37717e940b094d322a7e492202718", null ]
+    [ "boss_thorim_start_npcsAI", "d0/deb/a20855.html#a9602af25cbe9d4b3fe8534093c237a20", null ],
+    [ "DamageTaken", "d0/deb/a20855.html#a9a848662671380a726eb7288c6507f68", null ],
+    [ "JustDied", "d0/deb/a20855.html#a3c4b8928e1e0264e88eb49d930529c41", null ],
+    [ "JustEngagedWith", "d0/deb/a20855.html#ab6c0a8ae05a408cafb8ffe359d4d0d4e", null ],
+    [ "Reset", "d0/deb/a20855.html#aedf26a4b5baaf464d70316ce79ec32b3", null ],
+    [ "UpdateAI", "d0/deb/a20855.html#a5a84827d8d85e3a9b8e374da68d2c7ed", null ],
+    [ "_isCaster", "d0/deb/a20855.html#a6b2729ab9bce244da0a7d7fe6a4280f7", null ],
+    [ "_playerAttack", "d0/deb/a20855.html#adb868f1910859c79625cfb7f9a2b4101", null ],
+    [ "events", "d0/deb/a20855.html#a8dc5693814c49003727204623cef29b7", null ]
 ];

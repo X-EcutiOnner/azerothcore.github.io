@@ -1,6 +1,7 @@
 var a20579 =
 [
-    [ "boss_thorim_pillarAI", "df/d4b/a20583.html", "df/d4b/a20583" ],
-    [ "boss_thorim_pillar", "d2/d5f/a20579.html#a7a2cbafc1d359d7b33bb735342cdfe2d", null ],
-    [ "GetAI", "d2/d5f/a20579.html#af95d5e819292af9b54a022674b74af70", null ]
+    [ "FilterTargetsInitial", "d2/d5f/a20579.html#a2477349cffb8da02936545ba0bd03d0f", null ],
+    [ "Load", "d2/d5f/a20579.html#a4606d10a2699e3fb5290cefdc0876505", null ],
+    [ "PrepareSpellScript", "d2/d5f/a20579.html#aa28f3565bddf70b98c945be7a7a37bad", null ],
+    [ "Register", "d2/d5f/a20579.html#ae9bbe2d4ce5413f040b8b5f73f985822", null ]
 ];

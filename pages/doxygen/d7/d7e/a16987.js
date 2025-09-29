@@ -1,15 +1,18 @@
 var a16987 =
 [
-    [ "npc_pos_deathwhisper_necrolyteAI", "d7/d7e/a16987.html#ae03f3fef42fcbcecedaf38692d1e9131", null ],
-    [ "DamageTaken", "d7/d7e/a16987.html#aad000cc1310f22325a29131fad169cbc", null ],
-    [ "DoAction", "d7/d7e/a16987.html#a5d7a324073cfdbd01ae267964959f15b", null ],
-    [ "InitializeAI", "d7/d7e/a16987.html#ad84905d1385bce0e431c2baf1158a343", null ],
-    [ "JustEngagedWith", "d7/d7e/a16987.html#ae095fa3ceb484cc289a086be8c2f2552", null ],
-    [ "MoveInLineOfSight", "d7/d7e/a16987.html#a1d43b002628080d5faf2fd59347a7f79", null ],
-    [ "MovementInform", "d7/d7e/a16987.html#a849b06a045de5529706e83b03febe135", null ],
-    [ "Reset", "d7/d7e/a16987.html#a0e6b326b3c8102dd711c002537f2c339", null ],
-    [ "UpdateAI", "d7/d7e/a16987.html#ade1c91217b6c6e33bfca60a69a51bbc0", null ],
-    [ "events", "d7/d7e/a16987.html#a30d65bc3625ed22e11ed7e040451643c", null ],
-    [ "isInvincible", "d7/d7e/a16987.html#a0216b301112656fb75907ff1f0d50d0f", null ],
-    [ "pInstance", "d7/d7e/a16987.html#afb71e537115d36795c2568360b2d58ce", null ]
+    [ "boss_devourer_of_soulsAI", "d7/d7e/a16987.html#aa54d512a3bcf22ba64872bf60ed89ca3", null ],
+    [ "CanAIAttack", "d7/d7e/a16987.html#a48b79a3429dec44486d6bd858d5b6edb", null ],
+    [ "EnterEvadeMode", "d7/d7e/a16987.html#a0c2c380955e5b24c387b8dd8f00567cc", null ],
+    [ "GetData", "d7/d7e/a16987.html#a7d99dba5d3c6725c5f6cbc8a0cc0ec9f", null ],
+    [ "JustDied", "d7/d7e/a16987.html#a6e5a944ffbf325aa1bc591ef288c593f", null ],
+    [ "JustEngagedWith", "d7/d7e/a16987.html#a1f3b4a9d31a0704807fb9b44237c7b4b", null ],
+    [ "JustSummoned", "d7/d7e/a16987.html#ae3c5c0c1d905c424102a6e3a360d61d7", null ],
+    [ "KilledUnit", "d7/d7e/a16987.html#aba4ed91e1f61ddd1db29509700a4e0c8", null ],
+    [ "Reset", "d7/d7e/a16987.html#aefc761b1142cc6941394a4e3402662d7", null ],
+    [ "SpellHitTarget", "d7/d7e/a16987.html#ad503ae8ea66c964bc5997019c9118856", null ],
+    [ "UpdateAI", "d7/d7e/a16987.html#ac387b29bcb23f1697bc8b5b1a94e9ee1", null ],
+    [ "bAchiev", "d7/d7e/a16987.html#ad57135868c5c631a4add0dea0067feb0", null ],
+    [ "events", "d7/d7e/a16987.html#ac0467332ad699f9c60cc9dc257d9e1df", null ],
+    [ "pInstance", "d7/d7e/a16987.html#a78204e146c22a80df48d8a6840e70790", null ],
+    [ "summons", "d7/d7e/a16987.html#a6602605118c8d64dabec4b96c8e99436", null ]
 ];

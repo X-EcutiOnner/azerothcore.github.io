@@ -1,7 +1,4 @@
 var a29945 =
 [
-    [ "Id", "d5/dee/a29945.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
-    [ "SoundBank", "d5/dee/a29945.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
-    [ "SpellId", "d5/dee/a29945.html#aa010947f5fbec6867b005b25728e720b", null ],
-    [ "Type", "d5/dee/a29945.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
+    [ "gOpenArchives", "d5/dee/a29945.html#a8ae40ebe73635e831bc65b70e7f97f3c", null ]
 ];

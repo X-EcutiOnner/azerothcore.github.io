@@ -1,6 +1,5 @@
 var a20055 =
 [
-    [ "boss_vezaxAI", "d4/dcf/a20059.html", "d4/dcf/a20059" ],
-    [ "boss_vezax", "d2/d31/a20055.html#af778f9ef3070598f8ca5109b2f6f0f82", null ],
-    [ "GetAI", "d2/d31/a20055.html#a55c7f1ee93252768ba02e8d0d4634eb9", null ]
+    [ "achievement_auriaya_nine_lives", "d2/d31/a20055.html#a750304bc946a7ecefec29dc18c429d3b", null ],
+    [ "OnCheck", "d2/d31/a20055.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
 ];

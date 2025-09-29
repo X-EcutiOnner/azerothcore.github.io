@@ -1,7 +1,6 @@
 var a17395 =
 [
-    [ "HandleDummy", "d5/d3f/a17395.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "d5/d3f/a17395.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "d5/d3f/a17395.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "d5/d3f/a17395.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "boss_gal_darahAI", "d1/df9/a17399.html", "d1/df9/a17399" ],
+    [ "boss_gal_darah", "d5/d3f/a17395.html#a687bb98f9de9cd838c57511dc6b3d086", null ],
+    [ "GetAI", "d5/d3f/a17395.html#a8f709568f5a06265056571061ff3a26b", null ]
 ];

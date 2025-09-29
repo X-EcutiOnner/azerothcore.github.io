@@ -1,7 +1,6 @@
 var a25139 =
 [
-    [ "HandleProc", "d6/d69/a25139.html#ac88c41bcfcedd9194d9d3f958d605d37", null ],
-    [ "PrepareAuraScript", "d6/d69/a25139.html#a66c3458e88ab5802e10445df3aeb52f6", null ],
-    [ "Register", "d6/d69/a25139.html#af02b0af51a1fece0780414ab45c8d31e", null ],
-    [ "Validate", "d6/d69/a25139.html#a9f955b53e5905cfb3742a58c8bedab96", null ]
+    [ "CheckLevel", "d6/d69/a25139.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
+    [ "PrepareSpellScript", "d6/d69/a25139.html#abc2bcce83810661ab462f56594066df3", null ],
+    [ "Register", "d6/d69/a25139.html#add6731563bd9a26d8f286bd29ffc8709", null ]
 ];

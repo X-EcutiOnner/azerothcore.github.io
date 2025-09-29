@@ -1,6 +1,6 @@
 var a17459 =
 [
-    [ "Cooldown", "df/d8f/a17459.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
-    [ "Entry", "df/d8f/a17459.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
-    [ "TargetPosition", "df/d8f/a17459.html#ac47af49622012b4ad40357cadc5214b3", null ]
+    [ "ShockVortexExplodeEvent", "df/d8f/a17459.html#ad972aed372822e10a476d1592192f3ea", null ],
+    [ "Execute", "df/d8f/a17459.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
+    [ "_owner", "df/d8f/a17459.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
 ];

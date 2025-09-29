@@ -1,8 +1,10 @@
 var a16735 =
 [
-    [ "npc_fos_leaderAI", "dd/d74/a16735.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "dd/d74/a16735.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "dd/d74/a16735.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "dd/d74/a16735.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "dd/d74/a16735.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "npc_mistress_of_painAI", "dd/d74/a16735.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
+    [ "EnterEvadeMode", "dd/d74/a16735.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
+    [ "JustDied", "dd/d74/a16735.html#ae60f294f902a2f687446f7599d071e42", null ],
+    [ "Reset", "dd/d74/a16735.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
+    [ "SpellHit", "dd/d74/a16735.html#a077843a7ead2034da695be816de42f9e", null ],
+    [ "UpdateAI", "dd/d74/a16735.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
+    [ "events", "dd/d74/a16735.html#a941ae1faab010551db6a8e6749993357", null ]
 ];

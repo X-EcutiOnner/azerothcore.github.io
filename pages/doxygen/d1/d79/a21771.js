@@ -1,12 +1,10 @@
 var a21771 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "d1/d79/a21771.html#a0e4d9b3acd1de2cd44d0a6a22007e026", null ],
-    [ "Activate", "d1/d79/a21771.html#a52f64cef6159a3bfe29a6ac551b5bbe2", null ],
-    [ "AttackStart", "d1/d79/a21771.html#a9453e2fe00c656ded0bad4d9036dbd2a", null ],
-    [ "CanAIAttack", "d1/d79/a21771.html#a9cf57308ea588cc2febb0bb2666c2afe", null ],
-    [ "Deactivate", "d1/d79/a21771.html#af7dd65b8c0a1b5b55752d7f6b85f21cc", null ],
-    [ "DoAction", "d1/d79/a21771.html#a77aad4a0446fac68a5d1785acbe825eb", null ],
-    [ "JustDied", "d1/d79/a21771.html#a2fc9b40d72eea88b2245e6b01b17384a", null ],
-    [ "JustRespawned", "d1/d79/a21771.html#ab30068f7082176c279e0667f72d750a3", null ],
-    [ "Reset", "d1/d79/a21771.html#ad94a4789b5ba019d021682f15df13589", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "d1/d79/a21771.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
+    [ "GotStinged", "d1/d79/a21771.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
+    [ "JustEngagedWith", "d1/d79/a21771.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
+    [ "Reset", "d1/d79/a21771.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
+    [ "SpellHit", "d1/d79/a21771.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
+    [ "UpdateAI", "d1/d79/a21771.html#a21def23073eeec051c1c97a813e0ea84", null ],
+    [ "rebuff", "d1/d79/a21771.html#ac83c25091fdd3c7876a88927b758261f", null ]
 ];

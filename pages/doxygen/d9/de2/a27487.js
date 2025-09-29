@@ -1,6 +1,6 @@
 var a27487 =
 [
-    [ "spawnedCreatureEntry", "d9/de2/a27487.html#a32b390dfff99d5fd3c49359779718af4", null ],
-    [ "spawnType", "d9/de2/a27487.html#a056dabf4092da4ef3155a661607ca772", null ],
-    [ "thisCreatureEntry", "d9/de2/a27487.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
+    [ "go_l70_etc_musicAI", "d9/de2/a27487.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
+    [ "UpdateAI", "d9/de2/a27487.html#a182a5a9bbe53ced25740de9a4a368469", null ],
+    [ "_events", "d9/de2/a27487.html#aa0cda672b4491b3cfc75214038aa2132", null ]
 ];

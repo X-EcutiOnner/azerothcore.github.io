@@ -1,5 +1,5 @@
 var a13979 =
 [
-    [ "npc_brain_wash_totem", "df/d2e/a13979.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
-    [ "EnterEvadeMode", "df/d2e/a13979.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
+    [ "npc_mikhail", "df/d2e/a13979.html#ab63d49e91b0d4b6ca0f00ff0992f5bad", null ],
+    [ "OnQuestAccept", "df/d2e/a13979.html#a3e1d81aa9e610b73c3d856b355338d3b", null ]
 ];

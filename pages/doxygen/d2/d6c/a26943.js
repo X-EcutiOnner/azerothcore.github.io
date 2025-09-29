@@ -1,5 +1,7 @@
 var a26943 =
 [
-    [ "achievement_bg_control_all_nodes", "d2/d6c/a26943.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
-    [ "OnCheck", "d2/d6c/a26943.html#a69609eb5488519fa5a1f43b13a80e280", null ]
+    [ "HandleProc", "d2/d6c/a26943.html#a3878044c77e9560bcc7d531d5c119e0f", null ],
+    [ "PrepareAuraScript", "d2/d6c/a26943.html#a3a496539a6adddca91724d9cc77f81c3", null ],
+    [ "Register", "d2/d6c/a26943.html#a096f4ecd857cc642ff1d1e5119933921", null ],
+    [ "Validate", "d2/d6c/a26943.html#a1592084736ebe5b10a343aee4dba8050", null ]
 ];

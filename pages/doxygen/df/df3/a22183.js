@@ -1,6 +1,6 @@
 var a22183 =
 [
-    [ "HandleScriptEffect", "df/df3/a22183.html#a1dac2806b74471332aec0595118005a3", null ],
-    [ "PrepareSpellScript", "df/df3/a22183.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
-    [ "Register", "df/df3/a22183.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
+    [ "npc_lake_frogAI", "d1/de0/a22187.html", "d1/de0/a22187" ],
+    [ "npc_lake_frog", "df/df3/a22183.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "df/df3/a22183.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

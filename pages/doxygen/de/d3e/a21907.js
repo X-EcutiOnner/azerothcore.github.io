@@ -1,7 +1,6 @@
 var a21907 =
 [
-    [ "HandleScript", "de/d3e/a21907.html#a95de3ae27cfd764380ab1648b49af38d", null ],
-    [ "Load", "de/d3e/a21907.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
-    [ "PrepareSpellScript", "de/d3e/a21907.html#a442138710213b9b120d8ce57b733205a", null ],
-    [ "Register", "de/d3e/a21907.html#af9d8f764a6a02737f8b559f067156df6", null ]
+    [ "npc_mageguard_dalaranAI", "d7/d56/a21911.html", "d7/d56/a21911" ],
+    [ "npc_mageguard_dalaran", "de/d3e/a21907.html#a0cec4f232b665325c421cecb5839885f", null ],
+    [ "GetAI", "de/d3e/a21907.html#a10cbddceb53a2d432da2224128c59b28", null ]
 ];

@@ -1,9 +1,12 @@
 var a19627 =
 [
-    [ "npc_brann_bronzebeard_algalonAI", "df/d98/a19627.html#a5ab0ff088866cf9d6af99ee3f42e897a", null ],
-    [ "DoAction", "df/d98/a19627.html#a9de9e9b19b8a635ec4bc0a4f8c8d13c6", null ],
-    [ "MovementInform", "df/d98/a19627.html#a7f8d3efed49f0d43a5e9e73ee8bd36e0", null ],
-    [ "UpdateAI", "df/d98/a19627.html#a16e3fcd7f082e04f648d2341a7e83cba", null ],
-    [ "_currentPoint", "df/d98/a19627.html#ae9da41b5b4cae16e1ed4709ab41b8964", null ],
-    [ "events", "df/d98/a19627.html#ab71b71ac63517349cb8702bb29d76334", null ]
+    [ "npc_oculus_drakeAI", "df/d98/a19627.html#a214d9b77a5653f1a5f60106081eaf683", null ],
+    [ "IsSummonedBy", "df/d98/a19627.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
+    [ "MovementInform", "df/d98/a19627.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
+    [ "PassengerBoarded", "df/d98/a19627.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
+    [ "SpellHitTarget", "df/d98/a19627.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
+    [ "UpdateAI", "df/d98/a19627.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
+    [ "despawnTimer", "df/d98/a19627.html#a560dc0936a78267a4036b209c6718732", null ],
+    [ "JustSummoned", "df/d98/a19627.html#a8b656a464525e881944e72e9486b0eb9", null ],
+    [ "m_pInstance", "df/d98/a19627.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
 ];

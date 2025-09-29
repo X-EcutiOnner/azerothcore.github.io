@@ -1,5 +1,5 @@
 var a27895 =
 [
-    [ "ID", "dd/db5/a27895.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
-    [ "price", "dd/db5/a27895.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
+    [ "npc_stable_masterAI", "dd/db5/a27895.html#a5c6f9bca1004af163ddb074b606330be", null ],
+    [ "sGossipSelect", "dd/db5/a27895.html#a09205661674dd011ffe425deaadde053", null ]
 ];

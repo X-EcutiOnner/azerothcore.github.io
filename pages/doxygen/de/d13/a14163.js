@@ -1,10 +1,11 @@
 var a14163 =
 [
-    [ "npc_coren_direbrew_sisters", "de/d13/a14163.html#a415ea0ebd044236f5f4c4d6c28896e00", null ],
-    [ "GetGUID", "de/d13/a14163.html#a61863117e71ebfb7f1c4c83780ece7bc", null ],
-    [ "JustEngagedWith", "de/d13/a14163.html#a34e0b6af032240c152c463c221d99335", null ],
-    [ "SetGUID", "de/d13/a14163.html#ada2e446a929bbba088d3c7e09d117f93", null ],
-    [ "UpdateAI", "de/d13/a14163.html#a7434b08d12d3f0902d1944b75323560c", null ],
-    [ "_scheduler", "de/d13/a14163.html#a9d8ca85e7bbd3cc9c61c2bbb38b7d222", null ],
-    [ "_targetGUID", "de/d13/a14163.html#a801a6811124a7db3a31ec492ef954b20", null ]
+    [ "boss_hakkarAI", "de/d13/a14163.html#ae29c8c0816fc3efb83d7912c559747e4", null ],
+    [ "ApplyHakkarPowerStacks", "de/d13/a14163.html#aca5b7ee8d026ff7ee808e9ebd64c8dcf", null ],
+    [ "CheckInRoom", "de/d13/a14163.html#a8a70e82f6c72760143148d9c9f8095cc", null ],
+    [ "EnterEvadeMode", "de/d13/a14163.html#a6ca87d663714ddecfe562f0c705fa6f8", null ],
+    [ "JustDied", "de/d13/a14163.html#ae6b8c72ad3d36ee6eea624a7d79ca26b", null ],
+    [ "JustEngagedWith", "de/d13/a14163.html#ae023eb68fc066ba5713baaf3b0595f0c", null ],
+    [ "Reset", "de/d13/a14163.html#a52db5743c09088e2e9f1aff1513960f2", null ],
+    [ "UpdateAI", "de/d13/a14163.html#a1119212465bcf293991d7a520c6ffe42", null ]
 ];

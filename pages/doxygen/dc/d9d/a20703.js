@@ -1,6 +1,6 @@
 var a20703 =
 [
-    [ "PrepareSpellScript", "dc/d9d/a20703.html#a525025d429743f9d606289ca1a660796", null ],
-    [ "Register", "dc/d9d/a20703.html#a66f565c07d495f27aaba393fdcce9d24", null ],
-    [ "SelectTarget", "dc/d9d/a20703.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
+    [ "npc_ulduar_emergency_fire_botAI", "dc/da8/a20707.html", "dc/da8/a20707" ],
+    [ "npc_ulduar_emergency_fire_bot", "dc/d9d/a20703.html#a1adc05ac4602ab2b297b18f605bfd2cd", null ],
+    [ "GetAI", "dc/d9d/a20703.html#afb3ab952495175c5f571d4e39a5acea4", null ]
 ];

@@ -1,13 +1,15 @@
 var a23123 =
 [
-    [ "npc_inner_demon", "da/dca/a23123.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
-    [ "CanAIAttack", "da/dca/a23123.html#a7498fd32b0ace832b38dc624d07478ed", null ],
-    [ "CanBeSeen", "da/dca/a23123.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
-    [ "CanReceiveDamage", "da/dca/a23123.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
-    [ "IsSummonedBy", "da/dca/a23123.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
-    [ "JustDied", "da/dca/a23123.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
-    [ "OnCalculateMeleeDamageReceived", "da/dca/a23123.html#ae95022548b44b23ef93fae24729b5af5", null ],
-    [ "OnCalculatePeriodicTickReceived", "da/dca/a23123.html#a546281a2257d0407d294fba1f7d3426f", null ],
-    [ "OnCalculateSpellDamageReceived", "da/dca/a23123.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
-    [ "UpdateAI", "da/dca/a23123.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
+    [ "boss_reliquary_of_soulsAI", "da/dca/a23123.html#abee29aab1d28a168be3b381d0765a804", null ],
+    [ "AttackStart", "da/dca/a23123.html#af59a9972dfdb264248e78206ea0d834c", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "da/dca/a23123.html#a67343cecd292c2dc40f8c5a275d95fdf", null ],
+    [ "DoAction", "da/dca/a23123.html#aa281dd9c7dc0c6f15c2bfcbf60384006", null ],
+    [ "JustDied", "da/dca/a23123.html#a6e19cb7d94579a70ac11f7173cf930c6", null ],
+    [ "JustEngagedWith", "da/dca/a23123.html#a88eef17a5f475b38a37b0e1adcc0cbbc", null ],
+    [ "JustSummoned", "da/dca/a23123.html#ad3c7679c2341951bbeb49aafad7196cd", null ],
+    [ "MoveInLineOfSight", "da/dca/a23123.html#a315a0ad69f566ff63b06fd0d47ce32d8", null ],
+    [ "PhaseTransitionSpawns", "da/dca/a23123.html#a96235ed84a30458eb5f76d87ed47dc89", null ],
+    [ "Reset", "da/dca/a23123.html#a5dc6ec0521e2ddfb63a6818ad2de0d8b", null ],
+    [ "SummonedCreatureDies", "da/dca/a23123.html#a51ac7df8689bf899eaaf4cde566d8202", null ],
+    [ "UpdateAI", "da/dca/a23123.html#a4289e678a69e35db5e4ea75fddd7e8e4", null ]
 ];

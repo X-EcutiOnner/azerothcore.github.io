@@ -1,6 +1,7 @@
 var a23963 =
 [
-    [ "npc_ancestral_wolfAI", "d1/ddc/a23967.html", "d1/ddc/a23967" ],
-    [ "npc_ancestral_wolf", "d2/d53/a23963.html#a7cadf2848a086db63792f8068ee9463d", null ],
-    [ "GetAI", "d2/d53/a23963.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
+    [ "AfterApply", "d2/d53/a23963.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
+    [ "PrepareAuraScript", "d2/d53/a23963.html#aa98346e5f5b23fe016148426a19a719f", null ],
+    [ "Register", "d2/d53/a23963.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
+    [ "Validate", "d2/d53/a23963.html#a616d1758aa257140f4941fe12ef21e87", null ]
 ];

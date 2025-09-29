@@ -1,6 +1,6 @@
 var a21707 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "d9/dc7/a21707.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
-    [ "MovementInform", "d9/dc7/a21707.html#a999bc868db485578fcc70ae7e056b778", null ],
-    [ "Reset", "d9/dc7/a21707.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
+    [ "npc_sinkhole_kill_creditAI", "d8/d04/a21711.html", "d8/d04/a21711" ],
+    [ "npc_sinkhole_kill_credit", "d9/dc7/a21707.html#a627d01aaaa3408986f2b4d171624e680", null ],
+    [ "GetAI", "d9/dc7/a21707.html#a4d734432f132bea2c4525d049fbcfa67", null ]
 ];

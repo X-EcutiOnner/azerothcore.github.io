@@ -1,8 +1,6 @@
 var a12843 =
 [
-    [ "npc_dkc1_gothikAI", "dd/d1f/a12843.html#a35e65bd943f86ba3a1d6841569289df6", null ],
-    [ "DoAction", "dd/d1f/a12843.html#a3193c562973bbf995ab5e0173a93d01f", null ],
-    [ "MoveInLineOfSight", "dd/d1f/a12843.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
-    [ "UpdateAI", "dd/d1f/a12843.html#a346d32c9831babe6fb5f675b70b7a897", null ],
-    [ "spoken", "dd/d1f/a12843.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
+    [ "npc_sanguine_spirit", "dd/d1f/a12843.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
+    [ "Reset", "dd/d1f/a12843.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
+    [ "UpdateAI", "dd/d1f/a12843.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
 ];

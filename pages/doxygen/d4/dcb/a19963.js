@@ -1,5 +1,5 @@
 var a19963 =
 [
-    [ "achievement_flame_leviathan_shutout", "d4/dcb/a19963.html#a555e0d206b7f730665d301c7e03b23e6", null ],
-    [ "OnCheck", "d4/dcb/a19963.html#af548232f563fd387bc8ee25b696a2f99", null ]
+    [ "achievement_algalon_herald_of_the_titans", "d4/dcb/a19963.html#a13c75b878f4669d212eeb09b55336384", null ],
+    [ "OnCheck", "d4/dcb/a19963.html#a20811d7bb453b1758967c11545e630e9", null ]
 ];

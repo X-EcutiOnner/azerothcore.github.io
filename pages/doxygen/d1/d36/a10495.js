@@ -1,10 +1,9 @@
 var a10495 =
 [
-    [ "EnvironmentalDamageLog", "d1/d36/a10495.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
-    [ "Write", "d1/d36/a10495.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
-    [ "Absorbed", "d1/d36/a10495.html#a443df04be3afe2021532716140ffb099", null ],
-    [ "Amount", "d1/d36/a10495.html#a073e22176d44f5806313c2a4bd3e263a", null ],
-    [ "Resisted", "d1/d36/a10495.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
-    [ "Type", "d1/d36/a10495.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
-    [ "Victim", "d1/d36/a10495.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
+    [ "ServerPacket", "d1/d36/a10495.html#a4d2bf169dd705b886da8ff58a7ef4bd2", null ],
+    [ "Clear", "d1/d36/a10495.html#aa54f2fa66cfe4682ca56cf01f9e1296a", null ],
+    [ "GetOpcode", "d1/d36/a10495.html#a639ab6c078d7c746bcb328526df705be", null ],
+    [ "Move", "d1/d36/a10495.html#a659397042201ae571bb564872e54d2c6", null ],
+    [ "Read", "d1/d36/a10495.html#ae49aa7bce566d9f0ea3c7bbb487a119d", null ],
+    [ "ShrinkToFit", "d1/d36/a10495.html#a6fa19a94d57484aaff3498be01495258", null ]
 ];

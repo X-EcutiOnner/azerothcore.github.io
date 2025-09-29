@@ -1,7 +1,6 @@
 var a17803 =
 [
-    [ "HandleScript", "d7/dfc/a17803.html#afc76149cb44a4d2aab48350fb4392036", null ],
-    [ "PrepareSpellScript", "d7/dfc/a17803.html#a8598de219c2402596fe97b5dd32c534e", null ],
-    [ "Register", "d7/dfc/a17803.html#ac9d4842632431e52932f66d09042ea70", null ],
-    [ "ScaleRange", "d7/dfc/a17803.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
+    [ "npc_gunship_boarding_add_realAI", "d7/dfc/a17803.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
+    [ "UpdateAI", "d7/dfc/a17803.html#a33ac355c8f61907574a0736a24cbee82", null ],
+    [ "_events", "d7/dfc/a17803.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
 ];

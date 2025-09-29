@@ -1,6 +1,6 @@
 var a24211 =
 [
-    [ "npc_zephyr", "d4/dc3/a24211.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
-    [ "OnGossipHello", "d4/dc3/a24211.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
-    [ "OnGossipSelect", "d4/dc3/a24211.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
+    [ "npc_simon_bunnyAI", "d6/dc9/a24215.html", "d6/dc9/a24215" ],
+    [ "npc_simon_bunny", "d4/dc3/a24211.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
+    [ "GetAI", "d4/dc3/a24211.html#ac0c97609916321a1599c0722803a050f", null ]
 ];

@@ -1,7 +1,6 @@
 var a17855 =
 [
-    [ "CheckRequirement", "d9/d97/a17855.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
-    [ "CheckRequirementInternal", "d9/d97/a17855.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
-    [ "PrepareSpellScript", "d9/d97/a17855.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
-    [ "Register", "d9/d97/a17855.html#a95a250aeb3a41922c529f476d39f18e4", null ]
+    [ "IgbExplosionCheck", "d9/d97/a17855.html#ae67cca111f26a275614810cbe053bcd8", null ],
+    [ "operator()", "d9/d97/a17855.html#a28ce6685366e99db2aa1e4022012f943", null ],
+    [ "_source", "d9/d97/a17855.html#a413ee8f2218621d274d118aea967dc9b", null ]
 ];

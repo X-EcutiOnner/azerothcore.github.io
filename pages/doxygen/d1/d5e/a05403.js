@@ -1,5 +1,8 @@
 var a05403 =
 [
-    [ "Lock", "d1/d5e/a05403.html#a09c992e631ec8e778a238b38208d686b", null ],
-    [ "i_lock", "d1/d5e/a05403.html#a45314b9d141b17ba5bac603afb0ffbe0", null ]
+    [ "LogOperation", "d1/d5e/a05403.html#a19e5e4731bd71697876110348f86d737", null ],
+    [ "~LogOperation", "d1/d5e/a05403.html#aae305e293044badac1a628edd501ed35", null ],
+    [ "call", "d1/d5e/a05403.html#a966a4bfb45430860fa5be56fe8b48f79", null ],
+    [ "logger", "d1/d5e/a05403.html#af1d8611d116a3575e59a99e8cba5fc84", null ],
+    [ "msg", "d1/d5e/a05403.html#a665effc48367f396f3e714f5d3d56d75", null ]
 ];

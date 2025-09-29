@@ -1,18 +1,12 @@
 var a12283 =
 [
-    [ "boss_vaelAI", "dd/d82/a12283.html#acc7eceafe9cc5a5cb5e7045d143d5ca6", null ],
-    [ "BeginSpeech", "dd/d82/a12283.html#a448dcc64099fff57b4c18841f8715dbe", null ],
-    [ "Initialize", "dd/d82/a12283.html#a4364710f3634b6caeea3b739efe7dc56", null ],
-    [ "JustEngagedWith", "dd/d82/a12283.html#a860aa0077f235f652bd6f9a247a40e30", null ],
-    [ "JustSummoned", "dd/d82/a12283.html#a6eb3e6649d0a476fc9b2c12107cea43b", null ],
-    [ "KilledUnit", "dd/d82/a12283.html#a15e4df870d3c5263ab534cd1d2bb8a75", null ],
-    [ "Reset", "dd/d82/a12283.html#a8aab1f11a688d05289bae6acf216cf1c", null ],
-    [ "sGossipSelect", "dd/d82/a12283.html#abd3c8c7ab8d7af10ae297443ac24bd9c", null ],
-    [ "UpdateAI", "dd/d82/a12283.html#a570948cbf0c2ddde65ca77092c4b37a3", null ],
-    [ "_burningAdrenalineCast", "dd/d82/a12283.html#ab1048eb2da3e93f5cb67a8f23d35be2e", null ],
-    [ "_eventsIntro", "dd/d82/a12283.html#aed37566236cb2872b3a85de9f994f0cb", null ],
-    [ "_introDone", "dd/d82/a12283.html#aab29cb166d390a56a1d3b94dd07f1c63", null ],
-    [ "HasYelled", "dd/d82/a12283.html#a4eace0c62b5ad50f7c1a525485da08fb", null ],
-    [ "m_nefariusGuid", "dd/d82/a12283.html#a9402e7435904dffb8a494dc60d6d02e9", null ],
-    [ "PlayerGUID", "dd/d82/a12283.html#a1a86b7b15e0a435284afab6ac724968c", null ]
+    [ "boss_thebeastAI", "dd/d82/a12283.html#a51b7d4ec10d2616d99fb21e680ff17b4", null ],
+    [ "FindNearbyOrcs", "dd/d82/a12283.html#ad832a878880ac32e05d360262546422a", null ],
+    [ "JustEngagedWith", "dd/d82/a12283.html#ab107354f10d0af4b840ab5ff8d3d0eaf", null ],
+    [ "Reset", "dd/d82/a12283.html#abfa1bca308a02ef0e80d2baf11670305", null ],
+    [ "SetData", "dd/d82/a12283.html#a6f30ed7c0451613998660b258145f801", null ],
+    [ "UpdateAI", "dd/d82/a12283.html#a0f490e907ce632e1fb921a6eb46b49c0", null ],
+    [ "_beastReached", "dd/d82/a12283.html#a01271598b4b3c85a7066e66d8150e522", null ],
+    [ "_nearbyOrcsGUIDs", "dd/d82/a12283.html#af32fb34f4c76cfe292da9bc84a5d6372", null ],
+    [ "_orcYelled", "dd/d82/a12283.html#a16df847475ea220b8ac4ea944e8d1ca4", null ]
 ];

@@ -1,5 +1,6 @@
 var a20335 =
 [
-    [ "achievement_kologarn_looks_could_kill", "db/d51/a20335.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
-    [ "OnCheck", "db/d51/a20335.html#a0e7be4fb00808fab9a231530822fc93d", null ]
+    [ "npc_ulduar_saronite_animusAI", "d8/dc2/a20339.html", "d8/dc2/a20339" ],
+    [ "npc_ulduar_saronite_animus", "db/d51/a20335.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
+    [ "GetAI", "db/d51/a20335.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
 ];

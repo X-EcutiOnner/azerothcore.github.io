@@ -1,6 +1,5 @@
 var a19515 =
 [
-    [ "CalculateDamage", "d1/d99/a19515.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
-    [ "PrepareSpellScript", "d1/d99/a19515.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
-    [ "Register", "d1/d99/a19515.html#a02851f0b94687512a8e016bfb9b826e3", null ]
+    [ "achievement_chaos_theory", "d1/d99/a19515.html#a3068009fa1fb400439a2c72f00296484", null ],
+    [ "OnCheck", "d1/d99/a19515.html#a68d9a577cb7e005d81f52077707e3555", null ]
 ];

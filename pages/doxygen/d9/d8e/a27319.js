@@ -1,8 +1,5 @@
 var a27319 =
 [
-    [ "go_bellsAI", "d9/d8e/a27319.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "d9/d8e/a27319.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "d9/d8e/a27319.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "d9/d8e/a27319.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "d9/d8e/a27319.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "AreaTrigger_at_stormwright_shelf", "d9/d8e/a27319.html#a97cdf51a8992b3d9edc138351770fd75", null ],
+    [ "OnTrigger", "d9/d8e/a27319.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
 ];

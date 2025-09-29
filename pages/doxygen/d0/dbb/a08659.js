@@ -1,9 +1,10 @@
 var a08659 =
 [
-    [ "ProcTriggeredData", "d0/dbb/a08659.html#a37c5cbfd0b916b950a0e638223394de4", null ],
-    [ "operator==", "d0/dbb/a08659.html#a787760cbd8a6ee5192975bc514886159", null ],
-    [ "aura", "d0/dbb/a08659.html#a5138144d49900690bb15a5f66b763eac", null ],
-    [ "effMask", "d0/dbb/a08659.html#a1c2bfb3e0016ba823e12b3defe373790", null ],
-    [ "spellProcEvent", "d0/dbb/a08659.html#ac6e491a7ef478d271d3c74d7b9df577e", null ],
-    [ "triggerSpelId", "d0/dbb/a08659.html#abfd99a1e3beb871a3cbf83d7578ec98a", null ]
+    [ "Index", "d0/dbb/a08659.html#a28b25d822326a1b7d5ec7f95ce084bac", [
+      [ "REGULAR", "d0/dbb/a08659.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
+      [ "ADDON", "d0/dbb/a08659.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
+      [ "MAX", "d0/dbb/a08659.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
+    ] ],
+    [ "Count", "d0/dbb/a08659.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
+    [ "Time", "d0/dbb/a08659.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
 ];

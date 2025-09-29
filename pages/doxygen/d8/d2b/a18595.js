@@ -1,6 +1,6 @@
 var a18595 =
 [
-    [ "npc_captain_rupertAI", "d8/d2b/a18595.html#ae91de64c440e71e612f34e37b90076d5", null ],
-    [ "Reset", "d8/d2b/a18595.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
-    [ "UpdateAI", "d8/d2b/a18595.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
+    [ "npc_icc_lk_checktargetAI", "d3/d3a/a18599.html", "d3/d3a/a18599" ],
+    [ "npc_icc_lk_checktarget", "d8/d2b/a18595.html#a3a2cc943e731e472694dcb13417090da", null ],
+    [ "GetAI", "d8/d2b/a18595.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
 ];

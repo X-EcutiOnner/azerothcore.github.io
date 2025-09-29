@@ -1,27 +1,7 @@
 var a12419 =
 [
-    [ "boss_ragnarosAI", "d2/d95/a12419.html#a94c4efe28aac474a88eeb4b0f370af02", null ],
-    [ "AttackStart", "d2/d95/a12419.html#a6c89e52fc1f34d08676a81fe83f6e820", null ],
-    [ "CanAIAttack", "d2/d95/a12419.html#af5d86d91401c2543128866524ff4a44f", null ],
-    [ "DamageTaken", "d2/d95/a12419.html#a869dfadf29a812e1d036a65bf2091d92", null ],
-    [ "DoAction", "d2/d95/a12419.html#ad02bb8b22e166a2fd34fa56ddea3d396", null ],
-    [ "EnterEvadeMode", "d2/d95/a12419.html#a9e043455beaadc2a47e0d753cc5c18d7", null ],
-    [ "HandleEmerge", "d2/d95/a12419.html#ae15e53e682b9d8475861c64847d8b89c", null ],
-    [ "IsVictimWithinMeleeRange", "d2/d95/a12419.html#a940e84dbc1d88d97a244dac000d1395d", null ],
-    [ "JustDied", "d2/d95/a12419.html#a0455bacbe8356bdadd9c391115efcd68", null ],
-    [ "JustEngagedWith", "d2/d95/a12419.html#ae71cafa0f60ce0ca6792524b5680d110", null ],
-    [ "JustSummoned", "d2/d95/a12419.html#a249bbd12c520e81968e93a93d3dd272c", null ],
-    [ "KilledUnit", "d2/d95/a12419.html#a4051c5bcb73419a8a5459732a148da4d", null ],
-    [ "Reset", "d2/d95/a12419.html#a04a206275d57f0e0f2af0d7e98323696", null ],
-    [ "ScheduleCombatEvents", "d2/d95/a12419.html#af1ce50fa9f251bf1d5270caca23d7dc1", null ],
-    [ "SetGUID", "d2/d95/a12419.html#a29f05ceecaaa0582b24430eb87e840f0", null ],
-    [ "SummonedCreatureDies", "d2/d95/a12419.html#aeda8df8fe34a59bea6e2bbb7d3fa0b72", null ],
-    [ "UpdateAI", "d2/d95/a12419.html#afd770319814d46976e3d946b43e909a4", null ],
-    [ "_hasSubmergedOnce", "d2/d95/a12419.html#a1e9b96abd69fce032a7ca6dff275703c", null ],
-    [ "_hasYelledMagmaBurst", "d2/d95/a12419.html#a3026598fec3a0b4ba9a8b458aa411d33", null ],
-    [ "_isIntroDone", "d2/d95/a12419.html#a9e7506026fc816aea5e1b58bab0e50c0", null ],
-    [ "_isKnockbackEmoteAllowed", "d2/d95/a12419.html#a96505d1dbb57c7d52d8730952f5c46f8", null ],
-    [ "_lavaBurstGUIDS", "d2/d95/a12419.html#ac2b114c221b2713b4c2ab039cf3bc924", null ],
-    [ "_processingMagmaBurst", "d2/d95/a12419.html#af1f3bf328a3729e0c667bbbe9188b104", null ],
-    [ "extraEvents", "d2/d95/a12419.html#adcb09077e86ad069dbe219bfc5c45613", null ]
+    [ "ClassCallSelector", "d2/d95/a12419.html#a223895c97121b0727aac258c12c89e0b", null ],
+    [ "operator()", "d2/d95/a12419.html#ab0d2ab1d94d72c6a202ed0cb2900dd2e", null ],
+    [ "_me", "d2/d95/a12419.html#a5347a24609a21ae0a342682104b1dc14", null ],
+    [ "_targetClass", "d2/d95/a12419.html#a7ce861956ec8d216d2f8cba82c69ea50", null ]
 ];

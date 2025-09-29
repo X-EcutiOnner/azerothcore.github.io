@@ -1,7 +1,6 @@
 var a21939 =
 [
-    [ "HandleScript", "d3/d6b/a21939.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "d3/d6b/a21939.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "d3/d6b/a21939.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "d3/d6b/a21939.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "npc_conversing_with_the_depths_triggerAI", "d2/df9/a21943.html", "d2/df9/a21943" ],
+    [ "npc_conversing_with_the_depths_trigger", "d3/d6b/a21939.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
+    [ "GetAI", "d3/d6b/a21939.html#a61c337bfe1efb3589cf0df91d9082236", null ]
 ];

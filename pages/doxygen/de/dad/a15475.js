@@ -1,10 +1,6 @@
 var a15475 =
 [
-    [ "CreatureId", "de/dad/a15475.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
-    [ "DespTimer", "de/dad/a15475.html#a0dfec745982b346ac1cd0af672be31fb", null ],
-    [ "SpawnCount", "de/dad/a15475.html#ad5347ee83eaa00fe0721279099c48433", null ],
-    [ "SpawnTimer", "de/dad/a15475.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
-    [ "UsedSpawnPoint", "de/dad/a15475.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
-    [ "WaveTextId", "de/dad/a15475.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
-    [ "YellTimer", "de/dad/a15475.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "d0/d5d/a15479.html", "d0/d5d/a15479" ],
+    [ "instance_wailing_caverns", "de/dad/a15475.html#a906f59c39f59237e9eedb479dfc7d825", null ],
+    [ "GetInstanceScript", "de/dad/a15475.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
 ];

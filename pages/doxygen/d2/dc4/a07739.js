@@ -1,8 +1,10 @@
 var a07739 =
 [
-    [ "CurValue", "d2/dc4/a07739.html#a110169c51e3dac271b4ba6d10bbbadac", null ],
-    [ "KnownRecipes", "d2/dc4/a07739.html#a1a44c7eb6dbf3a16e8d2db47821bb39a", null ],
-    [ "MaxValue", "d2/dc4/a07739.html#a6c48d3a6afddf895b97ec9b964dfd86c", null ],
-    [ "Owner", "d2/dc4/a07739.html#a085e0aa9f79129920af96046c4fc29b1", null ],
-    [ "Spell", "d2/dc4/a07739.html#a2b0ca4fecc7ba965a329afa6a184cf07", null ]
+    [ "storage_type", "d2/dc4/a07739.html#a054c554d9d812e571455bce39655a9ac", null ],
+    [ "value_type", "d2/dc4/a07739.html#a5c55c97d4dd08c5e71563596e0c59111", null ],
+    [ "operator value_type", "d2/dc4/a07739.html#a2d439c3664d398cebfc503b2769bfa9c", null ],
+    [ "operator*", "d2/dc4/a07739.html#a9d4cf547beb996e5945acb84f5305200", null ],
+    [ "operator->", "d2/dc4/a07739.html#afb5bb4e6e4a32db89e3b8a68e9c0d901", null ],
+    [ "TryConsume", "d2/dc4/a07739.html#a57892ca7457ca93bdcdbbb8309311c8f", null ],
+    [ "val", "d2/dc4/a07739.html#aef50fdfc79df3ca784eb90a69bd43076", null ]
 ];

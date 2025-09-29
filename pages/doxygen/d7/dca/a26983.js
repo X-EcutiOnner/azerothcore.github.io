@@ -1,5 +1,7 @@
 var a26983 =
 [
-    [ "achievement_sa_defense_of_the_ancients", "d7/dca/a26983.html#a678cffdece32710a42a92db0c092f3a5", null ],
-    [ "OnCheck", "d7/dca/a26983.html#af23e346f9b022f490b84c8081f847a2f", null ]
+    [ "HandleProc", "d7/dca/a26983.html#a85df8d4086a980d2b0a441097a909143", null ],
+    [ "PrepareAuraScript", "d7/dca/a26983.html#a4576f3d5af2d9265fa173f66d68ed512", null ],
+    [ "Register", "d7/dca/a26983.html#ab5308a36bc3b878a2913a89a84051ad7", null ],
+    [ "Validate", "d7/dca/a26983.html#a760a018b8410233e09065d94abeeb1ff", null ]
 ];

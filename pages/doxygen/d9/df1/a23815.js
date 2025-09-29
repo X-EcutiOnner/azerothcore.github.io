@@ -1,6 +1,8 @@
 var a23815 =
 [
-    [ "HandleScriptEffect", "d9/df1/a23815.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
-    [ "PrepareSpellScript", "d9/df1/a23815.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
-    [ "Register", "d9/df1/a23815.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
+    [ "npc_target_trigger", "d9/df1/a23815.html#a238058ba80130c6239b7267db3247196", null ],
+    [ "Reset", "d9/df1/a23815.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
+    [ "UpdateAI", "d9/df1/a23815.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
+    [ "_cast", "d9/df1/a23815.html#a4ec89ca960323f7ad135d5a425a82416", null ],
+    [ "_scheduler", "d9/df1/a23815.html#a9b418b09e25c8f96692b4e2626339c96", null ]
 ];

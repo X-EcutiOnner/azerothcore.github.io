@@ -1,9 +1,6 @@
 var a24495 =
 [
-    [ "Absorb", "df/d7d/a24495.html#ade7f8805491a627cf3e8accdee178f3e", null ],
-    [ "CalculateAmount", "df/d7d/a24495.html#a1194d2bd96632cbc3eab58300a5f9a46", null ],
-    [ "Load", "df/d7d/a24495.html#a49277dbcc2d7cc79f29226e9b242120b", null ],
-    [ "PrepareAuraScript", "df/d7d/a24495.html#a9eb3dc519bd595b7c0193ae3519c136e", null ],
-    [ "Register", "df/d7d/a24495.html#a730528baddf2087fb1c0898ac7ad76c5", null ],
-    [ "absorbPct", "df/d7d/a24495.html#a58c03a57bdfcba203159ae38683fdf14", null ]
+    [ "npc_shattrathflaskvendors", "df/d7d/a24495.html#ab74b234406c2022bf519242a7842458a", null ],
+    [ "OnGossipHello", "df/d7d/a24495.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
+    [ "OnGossipSelect", "df/d7d/a24495.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
 ];

@@ -1,5 +1,5 @@
 var a27323 =
 [
-    [ "go_duskwither_spire_power_source", "df/daa/a27323.html#aab69de16e8b744af2671e2ed882ee94a", null ],
-    [ "OnGossipHello", "df/daa/a27323.html#a2c7fd017e7985b99bff187119157a041", null ]
+    [ "AreaTrigger_at_scent_larkorwi", "df/daa/a27323.html#a967a43eae4cc986754eed9ee8291c17e", null ],
+    [ "OnTrigger", "df/daa/a27323.html#aeeb339afa5a7dd4b028aea800026998e", null ]
 ];

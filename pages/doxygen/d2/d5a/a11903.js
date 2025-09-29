@@ -1,11 +1,9 @@
 var a11903 =
 [
-    [ "boss_high_interrogator_gerstahnAI", "d2/d5a/a11903.html#a557fda67d1d1de268ba661350ba915dc", null ],
-    [ "JustEngagedWith", "d2/d5a/a11903.html#a80e01faa471f9e83e85c3c47fd815dea", null ],
-    [ "Reset", "d2/d5a/a11903.html#ab63099f83037b3716d1e2b9c21d7d607", null ],
-    [ "UpdateAI", "d2/d5a/a11903.html#a67b34f7cf4c62a57bc9fb556f5fb0b81", null ],
-    [ "ManaBurn_Timer", "d2/d5a/a11903.html#aede307f972942c15c4b2bfa90e75856d", null ],
-    [ "PsychicScream_Timer", "d2/d5a/a11903.html#a291f3484e4d125fefe437d96b12153f1", null ],
-    [ "ShadowShield_Timer", "d2/d5a/a11903.html#a7ba151c46b097825dca9b8e3ac2cdee9", null ],
-    [ "ShadowWordPain_Timer", "d2/d5a/a11903.html#aec0eab93e8494bc1abc87d81460fac31", null ]
+    [ "quest_commandscript", "d2/d5a/a11903.html#a98804583ded14bc50d252475289dda4f", null ],
+    [ "GetCommands", "d2/d5a/a11903.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
+    [ "HandleQuestAdd", "d2/d5a/a11903.html#acd1410f224a1d69bba1321999ebf25bc", null ],
+    [ "HandleQuestComplete", "d2/d5a/a11903.html#a044c30fdaedd07060284bd37fd2e226c", null ],
+    [ "HandleQuestRemove", "d2/d5a/a11903.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
+    [ "HandleQuestReward", "d2/d5a/a11903.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ]
 ];

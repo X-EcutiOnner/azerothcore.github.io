@@ -1,13 +1,14 @@
 var a24395 =
 [
-    [ "npc_pet_mage_mirror_image", "d5/d4a/a24395.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
-    [ "EnterEvadeMode", "d5/d4a/a24395.html#a858b070fb53112dc78554f0b20cd876a", null ],
-    [ "InitializeAI", "d5/d4a/a24395.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
-    [ "MySelectNextTarget", "d5/d4a/a24395.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
-    [ "Reset", "d5/d4a/a24395.html#a79a8c153ab61c619d928ec5535e67077", null ],
-    [ "UpdateAI", "d5/d4a/a24395.html#aa219b3adc38b625c6885089895b941b4", null ],
-    [ "_ebonGargoyleGUID", "d5/d4a/a24395.html#a8be57d06114f108e74b850ce66722bf3", null ],
-    [ "checktarget", "d5/d4a/a24395.html#a074611355768dc2072da69ed9d72242b", null ],
-    [ "dist", "d5/d4a/a24395.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
-    [ "selectionTimer", "d5/d4a/a24395.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
+    [ "npc_mature_netherwing_drakeAI", "d5/d4a/a24395.html#a32281f8dfa1c8af8fe6bcac2a8be4220", null ],
+    [ "JustReachedHome", "d5/d4a/a24395.html#a0de69b5fda6342217697ad264d64d4e6", null ],
+    [ "MovementInform", "d5/d4a/a24395.html#a456b5de60672120f82506d177faf6b47", null ],
+    [ "Reset", "d5/d4a/a24395.html#a72eb39e259aed0ab230d4d43722cba13", null ],
+    [ "SpellHit", "d5/d4a/a24395.html#a749690b386c0c726d11b77bc705b9b01", null ],
+    [ "UpdateAI", "d5/d4a/a24395.html#a624c256f29d3cefed0bb909da3841853", null ],
+    [ "bCanEat", "d5/d4a/a24395.html#ad4c671be4f16f23ddf2f2f84b0bd4c94", null ],
+    [ "bIsEating", "d5/d4a/a24395.html#a0519438fda724a06a0c6f8ed2d7d533d", null ],
+    [ "CastTimer", "d5/d4a/a24395.html#a630312f70a2f22683311a66e5a4f9ec6", null ],
+    [ "EatTimer", "d5/d4a/a24395.html#aa50d3a21103dc769d162b1c917100630", null ],
+    [ "uiPlayerGUID", "d5/d4a/a24395.html#a6b9a435245ddce156d0657aa9e35175b", null ]
 ];

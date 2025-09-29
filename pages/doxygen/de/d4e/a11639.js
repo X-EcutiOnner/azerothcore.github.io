@@ -1,10 +1,12 @@
 var a11639 =
 [
-    [ "lfg_commandscript", "de/d4e/a11639.html#a90faaca821e4162e0aea40a4d98af62c", null ],
-    [ "GetCommands", "de/d4e/a11639.html#a324310f9b04675c277ceae44ea09fbaf", null ],
-    [ "HandleLfgCleanCommand", "de/d4e/a11639.html#a93db689dbdb97a0318d62409a863767e", null ],
-    [ "HandleLfgGroupInfoCommand", "de/d4e/a11639.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
-    [ "HandleLfgOptionsCommand", "de/d4e/a11639.html#a73187a97c883d8d1bb3765943dd98c39", null ],
-    [ "HandleLfgPlayerInfoCommand", "de/d4e/a11639.html#acdf12aff45f16904df5724ab158e3b97", null ],
-    [ "HandleLfgQueueInfoCommand", "de/d4e/a11639.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
+    [ "Action", "de/d4e/a11639.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
+    [ "Address", "de/d4e/a11639.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
+    [ "CheckId", "de/d4e/a11639.html#a51a0cea0381f2b64e9d240ac39591172", null ],
+    [ "Comment", "de/d4e/a11639.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
+    [ "Data", "de/d4e/a11639.html#a962795028d40645fe67e4290ea64b10b", null ],
+    [ "IdStr", "de/d4e/a11639.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
+    [ "Length", "de/d4e/a11639.html#abe0249d9550042e696eb74edf06aaec8", null ],
+    [ "Str", "de/d4e/a11639.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
+    [ "Type", "de/d4e/a11639.html#aca31cdb700dca4801dfa514812639c70", null ]
 ];

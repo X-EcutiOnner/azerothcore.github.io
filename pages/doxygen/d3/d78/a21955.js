@@ -1,12 +1,20 @@
 var a21955 =
 [
-    [ "npc_your_inner_turmoilAI", "d3/d78/a21955.html#a95e8039b174f6db267197e04b6bd2dd2", null ],
-    [ "DamageTaken", "d3/d78/a21955.html#a0e14a306db46e817e6d8f7a358519f83", null ],
-    [ "JustDied", "d3/d78/a21955.html#a142359bf1661542d044a7d27b764832b", null ],
-    [ "Reset", "d3/d78/a21955.html#a4e17e9642ec11712652f41495974b716", null ],
-    [ "setphase", "d3/d78/a21955.html#a17c00619bcf5818e49f67d4d8b8b35b0", null ],
-    [ "UpdateAI", "d3/d78/a21955.html#a2a4b20fccb4b5ef0f590f0a7ee92e4d2", null ],
-    [ "health50", "d3/d78/a21955.html#af5a9e355c2a5a927d38ea22fe96d89f0", null ],
-    [ "phase", "d3/d78/a21955.html#a60212e1504bcb6f7db05ba5ed09df71f", null ],
-    [ "timer", "d3/d78/a21955.html#af2c272de51aa15a41af9837f99256a62", null ]
+    [ "npc_hourglass_of_eternityAI", "d3/d78/a21955.html#a51c68ff78150b7351dc34edf7a51e1a7", null ],
+    [ "GetCopy", "d3/d78/a21955.html#addacaa0e3ba686d9cb343689c56fc4b5", null ],
+    [ "GetPlayer", "d3/d78/a21955.html#a1216634009d635f5a1658cae62f92133", null ],
+    [ "HideNozdormu", "d3/d78/a21955.html#acbcf4d9602bf87b2c4c4f898c8a6f6b0", null ],
+    [ "InitializeAI", "d3/d78/a21955.html#af592003f019ace3e78ff7a19ada3e8f6", null ],
+    [ "IsFuture", "d3/d78/a21955.html#a19527a426055c689a36f5b02e2978307", null ],
+    [ "randEntry", "d3/d78/a21955.html#af581d3a7697fdb0f257d72568c342df8", null ],
+    [ "randomWhisper", "d3/d78/a21955.html#a235353e41ee463f43f3d18a7b4f5a75d", null ],
+    [ "ShowNozdormu", "d3/d78/a21955.html#a483e2a5a89b3dc4cfd51bb78732a6af2", null ],
+    [ "UpdateAI", "d3/d78/a21955.html#a66a80c2c36a5fa7a89b30a7c872007d8", null ],
+    [ "copyGUID", "d3/d78/a21955.html#add68894964681b8345c3751510f7e48c", null ],
+    [ "count", "d3/d78/a21955.html#a126b67aacdfd0d96ad443944e9244f3b", null ],
+    [ "events", "d3/d78/a21955.html#ae2d5690e0dc5205d68bd1ddb1b0ca3a9", null ],
+    [ "lastRandomTalk", "d3/d78/a21955.html#aa00ff56a5a906e97ddf4d10d300c85c4", null ],
+    [ "pGUID", "d3/d78/a21955.html#a6ad97b2c11057f936dce4aad04894177", null ],
+    [ "phase", "d3/d78/a21955.html#ad7d3755e7b13c4b37d56f14746acc1e1", null ],
+    [ "randomTalk", "d3/d78/a21955.html#a19042362c0dc7da80b81d284d2fa7e4b", null ]
 ];

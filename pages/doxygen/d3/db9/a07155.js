@@ -1,12 +1,12 @@
 var a07155 =
 [
-    [ "damageText", "d3/db9/a07155.html#af83062a39d8dfc89bf61a4364bd8579d", null ],
-    [ "destroyText", "d3/db9/a07155.html#a81747f8ff920f7c17a55d45d43304cc9", null ],
-    [ "entry", "d3/db9/a07155.html#a58d0395a47190698d309e80d91358bb1", null ],
-    [ "o", "d3/db9/a07155.html#a21238943701f594e1a5346193c895d33", null ],
-    [ "type", "d3/db9/a07155.html#a3cebd422659aa7339e9a23a87cfad0d7", null ],
-    [ "WorldState", "d3/db9/a07155.html#a4b4881aba2d297e125443f0c8ccab618", null ],
-    [ "x", "d3/db9/a07155.html#a80ebabba7265753a05367a4c79f6450c", null ],
-    [ "y", "d3/db9/a07155.html#a5d8ade187749e6fc191f01b384a4cda6", null ],
-    [ "z", "d3/db9/a07155.html#a3913a2618277cc5ad382aa2fc1d00f5e", null ]
+    [ "Type", "d3/db9/a07155.html#a758c9729d907d872a5e5365539486408", [
+      [ "ADD", "d3/db9/a07155.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d", null ],
+      [ "REMOVE", "d3/db9/a07155.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538", null ],
+      [ "UPDATE_BID", "d3/db9/a07155.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5", null ]
+    ] ],
+    [ "AuctionSearcherUpdate", "d3/db9/a07155.html#acfc9c3749967b90c2b8633c40f1aa2bd", null ],
+    [ "~AuctionSearcherUpdate", "d3/db9/a07155.html#a34cb7ede5d2108065a51a80396d6fc55", null ],
+    [ "listFaction", "d3/db9/a07155.html#a3f61acebd3d594e3a23d682d2d5292bc", null ],
+    [ "updateType", "d3/db9/a07155.html#af6ee8672029884bdbec327242ce5d5d2", null ]
 ];

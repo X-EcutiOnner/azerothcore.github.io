@@ -1,7 +1,7 @@
 var a18691 =
 [
-    [ "HandleEffectPeriodic", "d3/dc5/a18691.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
-    [ "PrepareAuraScript", "d3/dc5/a18691.html#af1d284c4686f739b02b350a6c0a166c2", null ],
-    [ "Register", "d3/dc5/a18691.html#a006a97823ac07346771ec4ab61bd0763", null ],
-    [ "Validate", "d3/dc5/a18691.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
+    [ "npc_valithria_portalAI", "d3/dc5/a18691.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
+    [ "GetData", "d3/dc5/a18691.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
+    [ "OnSpellClick", "d3/dc5/a18691.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
+    [ "_used", "d3/dc5/a18691.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
 ];

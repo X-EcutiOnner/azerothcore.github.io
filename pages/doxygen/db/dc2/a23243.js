@@ -1,6 +1,9 @@
 var a23243 =
 [
-    [ "HandleScript", "db/dc2/a23243.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
-    [ "PrepareSpellScript", "db/dc2/a23243.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
-    [ "Register", "db/dc2/a23243.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
+    [ "boss_najentus", "db/dc2/a23243.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "db/dc2/a23243.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "db/dc2/a23243.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "db/dc2/a23243.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "db/dc2/a23243.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
+    [ "_canTalk", "db/dc2/a23243.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
 ];

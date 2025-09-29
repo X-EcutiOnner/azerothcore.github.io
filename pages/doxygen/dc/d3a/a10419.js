@@ -1,7 +1,10 @@
 var a10419 =
 [
-    [ "ClientPacket", "dc/d3a/a10419.html#aa1d1946c07e248bae5927e83fdad9500", null ],
-    [ "ClientPacket", "dc/d3a/a10419.html#a1cdaaacca2695c4366647c7611073ff0", null ],
-    [ "GetOpcode", "dc/d3a/a10419.html#aa51558bb8faa96a665fe40b1bddf9d14", null ],
-    [ "Write", "dc/d3a/a10419.html#a16e5b9fa05e35fa1e32e33bef2688487", null ]
+    [ "ServerScript", "dc/d3a/a10419.html#a164286c210360b97b9efb48aed33b0d8", null ],
+    [ "CanPacketReceive", "dc/d3a/a10419.html#a9c817a6f922029c9c58f783c4ebc18ff", null ],
+    [ "CanPacketSend", "dc/d3a/a10419.html#a6682dfb556d137feb5fc95a66ccd6917", null ],
+    [ "OnNetworkStart", "dc/d3a/a10419.html#ab51ce520816236687820d1f72bae0ed6", null ],
+    [ "OnNetworkStop", "dc/d3a/a10419.html#a1f2e87caed202bbcde98e2cb0c8f19c6", null ],
+    [ "OnSocketClose", "dc/d3a/a10419.html#a27ecdfc9c6d737d02705adcd13be9d13", null ],
+    [ "OnSocketOpen", "dc/d3a/a10419.html#a656f1c0dc191b8f91e0705748d286454", null ]
 ];

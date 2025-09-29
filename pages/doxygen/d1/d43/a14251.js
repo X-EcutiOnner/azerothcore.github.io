@@ -1,5 +1,6 @@
 var a14251 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "d1/d43/a14251.html#a40207493c75d8a63284e08f1f75d56c4", null ],
-    [ "MoveInLineOfSight", "d1/d43/a14251.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
+    [ "npc_ohganAI", "da/d3f/a14255.html", "da/d3f/a14255" ],
+    [ "npc_ohgan", "d1/d43/a14251.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
+    [ "GetAI", "d1/d43/a14251.html#a129dc2fcd449850403e0dcb99725da90", null ]
 ];

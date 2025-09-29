@@ -1,6 +1,5 @@
 var a20715 =
 [
-    [ "PrepareSpellScript", "d5/d12/a20715.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
-    [ "Register", "d5/d12/a20715.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
-    [ "SelectTarget", "d5/d12/a20715.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
+    [ "npc_ulduar_rocket_strike_triggerAI", "d5/d12/a20715.html#a6308129d11989dadf0a5948c4a268e4b", null ],
+    [ "SpellHitTarget", "d5/d12/a20715.html#a3c254e16f62e7d2414d81062c91c2468", null ]
 ];

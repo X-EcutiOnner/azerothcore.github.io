@@ -1,5 +1,6 @@
 var a15819 =
 [
-    [ "PrepareAuraScript", "d8/dac/a15819.html#a94b3a8e0a610afa69c3a9771f8f22b13", null ],
-    [ "Register", "d8/dac/a15819.html#a1203cbec26f64aa97d10783b567c2d62", null ]
+    [ "npc_stone_watcher_of_norgannon", "d8/dac/a15819.html#aa838e060c8ef6d7d85981c718328d9ef", null ],
+    [ "OnGossipHello", "d8/dac/a15819.html#a00f526b1b17b68f31a86e892e0997856", null ],
+    [ "OnGossipSelect", "d8/dac/a15819.html#a5b79ebae097266ec4e1a0e3dfaa87da5", null ]
 ];

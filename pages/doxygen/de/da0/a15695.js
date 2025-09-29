@@ -1,6 +1,6 @@
 var a15695 =
 [
-    [ "npc_sergeant_blyAI", "d5/d94/a15699.html", "d5/d94/a15699" ],
-    [ "npc_sergeant_bly", "de/da0/a15695.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
-    [ "GetAI", "de/da0/a15695.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
+    [ "npc_clintar_spiritAI", "d5/d94/a15699.html", "d5/d94/a15699" ],
+    [ "npc_clintar_spirit", "de/da0/a15695.html#a416f5eea882f2c13c4c0f7dd81d36a2b", null ],
+    [ "GetAI", "de/da0/a15695.html#a118198504f6f93c86302275a11582d60", null ]
 ];

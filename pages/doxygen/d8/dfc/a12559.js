@@ -1,8 +1,6 @@
 var a12559 =
 [
-    [ "HandleEffectRemove", "d8/dfc/a12559.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
-    [ "if", "d8/dfc/a12559.html#a8596fc98402bf952484c9567f61c7820", null ],
-    [ "PrepareAuraScript", "d8/dfc/a12559.html#a4055f781a914de631187b00ba7aefeef", null ],
-    [ "Register", "d8/dfc/a12559.html#aefb4bbae43558abde871548088784613", null ],
-    [ "AuraEffectHandleModes", "d8/dfc/a12559.html#a7d419ba41e68b70740a867a2265824bd", null ]
+    [ "boss_gehennasAI", "d8/dfc/a12559.html#aaefd1f10d03957477863df95143a95a9", null ],
+    [ "ExecuteEvent", "d8/dfc/a12559.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
+    [ "JustEngagedWith", "d8/dfc/a12559.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
 ];

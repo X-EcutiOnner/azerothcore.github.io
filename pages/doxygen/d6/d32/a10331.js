@@ -1,11 +1,7 @@
 var a10331 =
 [
-    [ "PetScript", "d6/d32/a10331.html#acccf0b5fa2e346c800925142ed52c917", null ],
-    [ "CanResetTalents", "d6/d32/a10331.html#ab4e5e0b19285573753ef6e9b7e8fd535", null ],
-    [ "CanUnlearnSpellDefault", "d6/d32/a10331.html#af150efd719bbb619df792ebc6705bb0a", null ],
-    [ "CanUnlearnSpellSet", "d6/d32/a10331.html#a84cba94813ffa26e1a245b814feb0349", null ],
-    [ "IsDatabaseBound", "d6/d32/a10331.html#a16fae7cdf068c6e3d9e46882548d4c20", null ],
-    [ "OnCalculateMaxTalentPointsForLevel", "d6/d32/a10331.html#a1263b06233902fbede9fc5df80cc8ad4", null ],
-    [ "OnInitStatsForLevel", "d6/d32/a10331.html#a65a33c4f374f2e9739680ad172118c26", null ],
-    [ "OnPetAddToWorld", "d6/d32/a10331.html#a3012323c5c1424512b611b6956a32554", null ]
+    [ "DatabaseScript", "d6/d32/a10331.html#aab34b85df1a5ccdf17fede64baca4994", null ],
+    [ "IsDatabaseBound", "d6/d32/a10331.html#af4321bb95ed9bb3bb0e5a8a93c89c235", null ],
+    [ "OnAfterDatabaseLoadCreatureTemplates", "d6/d32/a10331.html#a2f4e91e2b1192c0ceb399cd93eb33ee3", null ],
+    [ "OnAfterDatabasesLoaded", "d6/d32/a10331.html#ab52afc833cb462693f5e0d79cff6bb3f", null ]
 ];

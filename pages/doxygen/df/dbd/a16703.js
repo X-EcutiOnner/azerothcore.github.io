@@ -1,6 +1,6 @@
 var a16703 =
 [
-    [ "PrepareSpellScript", "df/dbd/a16703.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
-    [ "RecalculateDamage", "df/dbd/a16703.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
-    [ "Register", "df/dbd/a16703.html#a1a740e697fc84f5f035f2ec251872009", null ]
+    [ "npc_toc_pet_hunterAI", "dc/dab/a16707.html", "dc/dab/a16707" ],
+    [ "npc_toc_pet_hunter", "df/dbd/a16703.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
+    [ "GetAI", "df/dbd/a16703.html#a9febc3086b0627324277f45d49cdd03f", null ]
 ];

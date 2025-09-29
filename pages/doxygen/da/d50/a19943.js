@@ -1,6 +1,6 @@
 var a19943 =
 [
-    [ "PrepareSpellScript", "da/d50/a19943.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
-    [ "RecalculateDamage", "da/d50/a19943.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
-    [ "Register", "da/d50/a19943.html#af2b5382122be41a6b1ee4ab721b417da", null ]
+    [ "PrepareSpellScript", "da/d50/a19943.html#af7426e99a49f8618fc38242ded7132f1", null ],
+    [ "RecalculateDamage", "da/d50/a19943.html#a94e70b20f2139f668227dccb623c1af6", null ],
+    [ "Register", "da/d50/a19943.html#acd911f78780e052d88f5f47574092d62", null ]
 ];

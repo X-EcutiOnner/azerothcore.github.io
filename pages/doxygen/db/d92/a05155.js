@@ -1,6 +1,5 @@
 var a05155 =
 [
-    [ "HashCreator", "db/d92/a05155.html#a03a4f6e31f0cb838b857997a0272f90b", null ],
-    [ "DestroyCTX", "db/d92/a05155.html#a7e607b03e0758d10156e201e8d601db4", null ],
-    [ "MakeCTX", "db/d92/a05155.html#a59487cdc54d416f8b2a88eb54ae21c8d", null ]
+    [ "argument_type", "db/d92/a05155.html#ad0011a133ce27e947c35917314e60693", null ],
+    [ "result_type", "db/d92/a05155.html#a6dcbf6789c1565b95f16de3d580118a9", null ]
 ];

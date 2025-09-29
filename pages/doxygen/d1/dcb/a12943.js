@@ -1,6 +1,7 @@
 var a12943 =
 [
-    [ "OnRemove", "d1/dcb/a12943.html#aedad236b202300eee0925e3600b87bfa", null ],
-    [ "PrepareAuraScript", "d1/dcb/a12943.html#acfdeb98e274989e378d4d4c800306a24", null ],
-    [ "Register", "d1/dcb/a12943.html#a0d820ca108e3aabe87ab5867d997264c", null ]
+    [ "PeriodicTick", "d1/dcb/a12943.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
+    [ "PrepareAuraScript", "d1/dcb/a12943.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
+    [ "Register", "d1/dcb/a12943.html#a2681d44b149e9f1d797df4147e20e686", null ],
+    [ "Validate", "d1/dcb/a12943.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
 ];

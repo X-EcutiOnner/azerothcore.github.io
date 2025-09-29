@@ -1,7 +1,6 @@
 var a13855 =
 [
-    [ "HandleEffect", "dd/d07/a13855.html#a8cda8eff109af7441d6990a236a52b80", null ],
-    [ "PrepareSpellScript", "dd/d07/a13855.html#acc2698ba702be211bef63cefa41005f4", null ],
-    [ "Register", "dd/d07/a13855.html#a5d6dccbb44a5d95055755673ad70707f", null ],
-    [ "Validate", "dd/d07/a13855.html#a0b106298aa550e4fe9e8a449ed7eaa51", null ]
+    [ "npc_marzon_silent_bladeAI", "d1/de9/a13859.html", "d1/de9/a13859" ],
+    [ "npc_marzon_silent_blade", "dd/d07/a13855.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
+    [ "GetAI", "dd/d07/a13855.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
 ];

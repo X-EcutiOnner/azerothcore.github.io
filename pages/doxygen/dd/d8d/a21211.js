@@ -1,7 +1,6 @@
 var a21211 =
 [
-    [ "PrepareAuraScript", "dd/d8d/a21211.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
-    [ "Register", "dd/d8d/a21211.html#a7225d1f83921e4de06516c1db5a5038a", null ],
-    [ "TriggerFists", "dd/d8d/a21211.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
-    [ "Validate", "dd/d8d/a21211.html#a977897c569245148eb94892bb42d4ca5", null ]
+    [ "achievement_yogg_saron_he_waits_dreaming", "dd/d8d/a21211.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
+    [ "OnCheck", "dd/d8d/a21211.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
+    [ "_requiredIllusion", "dd/d8d/a21211.html#aa3e107cb3be6fa02687709e07466a094", null ]
 ];

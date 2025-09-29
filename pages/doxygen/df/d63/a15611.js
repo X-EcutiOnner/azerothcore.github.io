@@ -1,7 +1,27 @@
 var a15611 =
 [
-    [ "npc_paoka_swiftmountainAI", "df/d63/a15611.html#a92a229f76de3bc46ae14910439db0004", null ],
-    [ "DoSpawnWyvern", "df/d63/a15611.html#a7997a3d398db82c205e3a8af77ac1684", null ],
-    [ "Reset", "df/d63/a15611.html#acae0427957aba04a54e6001823bc7eb4", null ],
-    [ "WaypointReached", "df/d63/a15611.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
+    [ "npc_cork_gizeltonAI", "df/d63/a15611.html#a3f5f08b4ac364fddf14e8405cdc27b68", null ],
+    [ "CheckCaravan", "df/d63/a15611.html#aa0d89f971b6e210d8550e89839e28f44", null ],
+    [ "CheckPlayer", "df/d63/a15611.html#acd3edee41c80992ee97130eac6912c18", null ],
+    [ "EnterEvadeMode", "df/d63/a15611.html#ab639db8fe4637a2068d94bb5e99d88ea", null ],
+    [ "ImmuneFlagSet", "df/d63/a15611.html#aee85ef406a6bc0644ec2e35a4a7f22d5", null ],
+    [ "Initialize", "df/d63/a15611.html#a91131055a31dc828ccb2e3ba087d5062", null ],
+    [ "InitializeAI", "df/d63/a15611.html#a4c39fd26b4ab6bd861988c19ab3ead37", null ],
+    [ "JustDied", "df/d63/a15611.html#ab34fe1b0bac1a694c6e76d3cebf67172", null ],
+    [ "JustRespawned", "df/d63/a15611.html#a6b860a2b93654f92fb821b8907a3cc91", null ],
+    [ "RelocateSummons", "df/d63/a15611.html#a22d63ca89f2ebce396eb0a5a6cb69d13", null ],
+    [ "RemoveSummons", "df/d63/a15611.html#a53c900f7bfa720bfdfc22531ac916c5b", null ],
+    [ "SetData", "df/d63/a15611.html#a26576302fc0f6897d604030431651908", null ],
+    [ "SetGUID", "df/d63/a15611.html#ada67b8aa3de368daa6e143924cce6a9e", null ],
+    [ "SummonedCreatureDespawn", "df/d63/a15611.html#a4dabd8ae79a6b956264dea7ba2359e7d", null ],
+    [ "SummonedCreatureDies", "df/d63/a15611.html#a85cd2486bad6cda8867eba29538842e9", null ],
+    [ "SummonHelpers", "df/d63/a15611.html#a38986eddc806f76fdefa99de1cd46fb5", null ],
+    [ "SummonsFollow", "df/d63/a15611.html#a81a72db27d196b2fb6696b6466d26449", null ],
+    [ "UpdateEscortAI", "df/d63/a15611.html#a2c3704eaa58cc11e86a9e1eb60e3e543", null ],
+    [ "WaypointReached", "df/d63/a15611.html#ab9d7763f86dcbaa3bf6e2c12c5d872e7", null ],
+    [ "_faction", "df/d63/a15611.html#a4ff6b0e39f7cbf8ba5f4c79159a03e45", null ],
+    [ "_playerGUID", "df/d63/a15611.html#a94277075d53a9d9115894e3bf378d106", null ],
+    [ "events", "df/d63/a15611.html#a251f091e5b314341c8e5131bf38188f0", null ],
+    [ "headNorth", "df/d63/a15611.html#aace73f2e878ebaf30634431f9f1068ab", null ],
+    [ "summons", "df/d63/a15611.html#a9af9323b3bf6df4a85445d9859609c78", null ]
 ];

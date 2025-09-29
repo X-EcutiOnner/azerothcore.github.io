@@ -1,6 +1,5 @@
 var a07767 =
 [
-    [ "value_type", "d7/d72/a07767.html#ac481731c1965ea0420cd7820e1e89881", null ],
-    [ "StoreTo", "d7/d72/a07767.html#a36969f95d224ae4561d46a3ca7b20d26", null ],
-    [ "tag", "d7/d72/a07767.html#a24d00ca0725d6b4f236bccd7cf5ecbc7", null ]
+    [ "IsColorValid", "d7/d72/a07767.html#a816b3afba97af88a04cd5a724e9b663c", null ],
+    [ "IsTextValid", "d7/d72/a07767.html#a54af0b68fa7891adbc3001c74e251ea1", null ]
 ];

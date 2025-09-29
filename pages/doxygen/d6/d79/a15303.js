@@ -1,6 +1,9 @@
 var a15303 =
 [
-    [ "npc_murkdeepAI", "d5/d60/a15307.html", "d5/d60/a15307" ],
-    [ "npc_murkdeep", "d6/d79/a15303.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
-    [ "GetAI", "d6/d79/a15303.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
+    [ "npc_claw_tentacle", "d6/d79/a15303.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
+    [ "JustDied", "d6/d79/a15303.html#aa566b417d1b766668133dd1d6a58293f", null ],
+    [ "JustEngagedWith", "d6/d79/a15303.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
+    [ "Reset", "d6/d79/a15303.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
+    [ "UpdateAI", "d6/d79/a15303.html#ae7d521445680167add653717c7ae4c86", null ],
+    [ "_portalGUID", "d6/d79/a15303.html#ab979781a8f77267348595cfa17341bae", null ]
 ];

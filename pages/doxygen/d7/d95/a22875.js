@@ -1,10 +1,8 @@
 var a22875 =
 [
-    [ "CalculateAmount", "d7/d95/a22875.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
-    [ "CheckProc", "d7/d95/a22875.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
-    [ "HandleProc", "d7/d95/a22875.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
-    [ "PrepareAuraScript", "d7/d95/a22875.html#a6e066884663276dbba82e46ca5f66e59", null ],
-    [ "Register", "d7/d95/a22875.html#ac4154f0746e77229e8d349021d5b9c30", null ],
-    [ "Update", "d7/d95/a22875.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
-    [ "Validate", "d7/d95/a22875.html#a4f10d23f63c47b408b70373623b877a8", null ]
+    [ "boss_darkweaver_syth", "d7/d95/a22875.html#a4f719165e07206c5a378412b3f82ff86", null ],
+    [ "JustDied", "d7/d95/a22875.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
+    [ "JustEngagedWith", "d7/d95/a22875.html#aaf6dab75e66734e930c5732749f3d69a", null ],
+    [ "KilledUnit", "d7/d95/a22875.html#a1904c2596dd455f84625974beec4a2c8", null ],
+    [ "Reset", "d7/d95/a22875.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
 ];

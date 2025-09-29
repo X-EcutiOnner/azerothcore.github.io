@@ -1,11 +1,12 @@
 var a11855 =
 [
-    [ "boss_draganthaurissanAI", "d4/da0/a11855.html#a2ecd55ed9e7e48829cb85862e965b7d8", null ],
-    [ "JustDied", "d4/da0/a11855.html#a7a7d4737c4825cfabc1012f9cce0e38a", null ],
-    [ "JustEngagedWith", "d4/da0/a11855.html#a00604bed2c13a7b470d950059122f018", null ],
-    [ "KilledUnit", "d4/da0/a11855.html#acec58686917d6e5aff9a51a96b023174", null ],
-    [ "SetData", "d4/da0/a11855.html#aaa43aa340f946f3b8361f2bb7b29ef40", null ],
-    [ "UpdateAI", "d4/da0/a11855.html#a04eaea53b78d490373f9bb911cc92596", null ],
-    [ "hasYelled", "d4/da0/a11855.html#aef5ede4f444e85fafd30faab6043672b", null ],
-    [ "SenatorYells", "d4/da0/a11855.html#ab4b27bf33b58b44ac604ca6bf6b5e424", null ]
+    [ "message_commandscript", "d4/da0/a11855.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
+    [ "GetCommands", "d4/da0/a11855.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
+    [ "HandleAnnounceCommand", "d4/da0/a11855.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
+    [ "HandleGMAnnounceCommand", "d4/da0/a11855.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
+    [ "HandleGMNameAnnounceCommand", "d4/da0/a11855.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
+    [ "HandleGMNotifyCommand", "d4/da0/a11855.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
+    [ "HandleNameAnnounceCommand", "d4/da0/a11855.html#a786902b70345712c6dba9f638695dd9e", null ],
+    [ "HandleNotifyCommand", "d4/da0/a11855.html#a0d53b2414931451b30abd2fe5acee1af", null ],
+    [ "HandleWhispersCommand", "d4/da0/a11855.html#a9a02c97677250136f9717968a9f47b73", null ]
 ];

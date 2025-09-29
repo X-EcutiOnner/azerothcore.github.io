@@ -1,5 +1,9 @@
 var a23459 =
 [
-    [ "go_broggok_lever", "df/d82/a23459.html#af91c2e283c357d2f38c9932dcfb5c375", null ],
-    [ "OnGossipHello", "df/d82/a23459.html#af00fe1da1cfa40dc3ece286cef45090c", null ]
+    [ "FilterTargets", "df/d82/a23459.html#a9049c113d65b15a9a8e1143980a84b23", null ],
+    [ "HandleDummy", "df/d82/a23459.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
+    [ "Load", "df/d82/a23459.html#a8cad82701e0147e14f826243175e1c32", null ],
+    [ "PrepareSpellScript", "df/d82/a23459.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
+    [ "Register", "df/d82/a23459.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
+    [ "_targetNumber", "df/d82/a23459.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
 ];

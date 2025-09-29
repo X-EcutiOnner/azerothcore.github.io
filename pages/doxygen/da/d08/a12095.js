@@ -1,6 +1,7 @@
 var a12095 =
 [
-    [ "boss_warmastervooneAI", "dd/dfe/a12099.html", "dd/dfe/a12099" ],
-    [ "boss_warmaster_voone", "da/d08/a12095.html#ac363118e4201adccd4be0028a558442f", null ],
-    [ "GetAI", "da/d08/a12095.html#a560469e60fda04b2c7d8fd3994493868", null ]
+    [ "boss_grizzleAI", "da/d08/a12095.html#a3310892cafc2a8e022105f77258b25af", null ],
+    [ "JustEngagedWith", "da/d08/a12095.html#a598e7e7d6bdd847bf01968116988a935", null ],
+    [ "UpdateAI", "da/d08/a12095.html#a2dc5c27cd4eaf2aa1484a370a68e3314", null ],
+    [ "nextTremorTime", "da/d08/a12095.html#aa392b5a5db08d8676614923ae4838d05", null ]
 ];

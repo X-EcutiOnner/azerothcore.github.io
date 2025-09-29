@@ -1,6 +1,6 @@
 var a27099 =
 [
-    [ "boss_taerarAI", "dc/d10/a27103.html", "dc/d10/a27103" ],
-    [ "boss_taerar", "df/d93/a27099.html#a100c1b80a50faf93088db870faa21b58", null ],
-    [ "GetAI", "df/d93/a27099.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
+    [ "CalculateAmount", "df/d93/a27099.html#aa27de1a2fc517a4b796a10e780239880", null ],
+    [ "PrepareAuraScript", "df/d93/a27099.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
+    [ "Register", "df/d93/a27099.html#a5ee969ad0916a9337849c75c18f13c29", null ]
 ];

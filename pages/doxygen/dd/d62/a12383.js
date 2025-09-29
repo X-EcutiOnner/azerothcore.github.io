@@ -1,6 +1,6 @@
 var a12383 =
 [
-    [ "boss_magmadarAI", "dd/d62/a12383.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
-    [ "ExecuteEvent", "dd/d62/a12383.html#a7d4c1807cb320fdc331057209a4ce166", null ],
-    [ "JustEngagedWith", "dd/d62/a12383.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
+    [ "go_chromaggus_leverAI", "dd/d62/a12383.html#a51406a7e313702282cebfbf067c9ce4e", null ],
+    [ "GossipHello", "dd/d62/a12383.html#a44ece597fcfcf290234cc1ef073fbf18", null ],
+    [ "_instance", "dd/d62/a12383.html#a364f66c7cf0a7bc4a3ea97b87ebe9f90", null ]
 ];

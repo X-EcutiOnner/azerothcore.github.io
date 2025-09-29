@@ -1,5 +1,6 @@
 var a24299 =
 [
-    [ "npc_pet_dk_ghoulAI", "d5/dda/a24299.html#a7e747ba9e709eb532b0c16c8a1c1763a", null ],
-    [ "JustDied", "d5/dda/a24299.html#a7d964fafeb0a7746a7749a9e0eb93080", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "d1/d45/a24303.html", "d1/d45/a24303" ],
+    [ "npc_creditmarker_visit_with_ancestors", "d5/dda/a24299.html#a60f7abac7198d8504d944828dceb1ffa", null ],
+    [ "GetAI", "d5/dda/a24299.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
 ];

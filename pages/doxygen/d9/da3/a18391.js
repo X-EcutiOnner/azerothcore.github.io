@@ -1,6 +1,6 @@
 var a18391 =
 [
-    [ "boss_valithria_dreamwalkerAI", "d7/d79/a18395.html", "d7/d79/a18395" ],
-    [ "boss_valithria_dreamwalker", "d9/da3/a18391.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
-    [ "GetAI", "d9/da3/a18391.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
+    [ "LichKingDeathEvent", "d9/da3/a18391.html#a9aa328b60358034355b1eed5caacb9f8", null ],
+    [ "Execute", "d9/da3/a18391.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
+    [ "_owner", "d9/da3/a18391.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
 ];

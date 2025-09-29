@@ -1,6 +1,6 @@
 var a21087 =
 [
-    [ "npc_frenzied_worgenAI", "d1/dc5/a21091.html", "d1/dc5/a21091" ],
-    [ "npc_frenzied_worgen", "dc/d85/a21087.html#ad46eb89ab86876950652f6dd6b7dc91a", null ],
-    [ "GetAI", "dc/d85/a21087.html#a1ed46e8e6bd001f8f35492f340ab1d56", null ]
+    [ "boss_yoggsaron_influence_tentacleAI", "dc/d85/a21087.html#ae7457ed8084888b1074a44dd9a7ed0c7", null ],
+    [ "DamageTaken", "dc/d85/a21087.html#ad46e93ffb89c9c3ee9bfbe0f27c7117c", null ],
+    [ "JustDied", "dc/d85/a21087.html#ab09c96d167b9502098b9a7a2fa1b82ec", null ]
 ];

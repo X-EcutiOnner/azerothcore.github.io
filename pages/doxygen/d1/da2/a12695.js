@@ -1,8 +1,6 @@
 var a12695 =
 [
-    [ "CalcPeriodic", "d1/da2/a12695.html#a493609298c152df8216641ba2e5861cd", null ],
-    [ "PrepareAuraScript", "d1/da2/a12695.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
-    [ "Register", "d1/da2/a12695.html#a44002db5980dfc1db816cf61fd446491", null ],
-    [ "Update", "d1/da2/a12695.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
-    [ "Validate", "d1/da2/a12695.html#a060e189aaa4396681d42906b65c9196f", null ]
+    [ "boss_mr_smiteAI", "df/d41/a12699.html", "df/d41/a12699" ],
+    [ "boss_mr_smite", "d1/da2/a12695.html#a011d41112ef7376b71d2959f806be262", null ],
+    [ "GetAI", "d1/da2/a12695.html#a619ca0aede1eb33f992328048319c4f0", null ]
 ];
