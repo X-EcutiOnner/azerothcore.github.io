@@ -1,17 +1,6 @@
 var a24439 =
 [
-    [ "npc_torloth_the_magnificentAI", "dc/dc9/a24439.html#ad34b85c80ebfb2332709c7ee21c053b7", null ],
-    [ "HandleAnimation", "dc/dc9/a24439.html#ab69f481e3871e5ce803ab1f389a2385c", null ],
-    [ "JustDied", "dc/dc9/a24439.html#aef9d2bcc04b8c1a54bf59f4744eba3ae", null ],
-    [ "JustEngagedWith", "dc/dc9/a24439.html#abf3fc3538e82fceaa916d4e217d6f9fd", null ],
-    [ "Reset", "dc/dc9/a24439.html#aa7944f80bb6718a65a07128be830ed94", null ],
-    [ "UpdateAI", "dc/dc9/a24439.html#ad5f7769462aa39fabb7ec5e79670cda1", null ],
-    [ "AggroTargetGUID", "dc/dc9/a24439.html#a826ecad9e9a06050a3ebc0861bf52c1e", null ],
-    [ "AnimationCount", "dc/dc9/a24439.html#afbe712b9e3dfe97417e1e621f4eff113", null ],
-    [ "AnimationTimer", "dc/dc9/a24439.html#a2485ad15002946c0c5b2ebce65221629", null ],
-    [ "LordIllidanGUID", "dc/dc9/a24439.html#ad135529fe083af2ce3e79823213d2735", null ],
-    [ "SpellTimer1", "dc/dc9/a24439.html#a991868074e39e2a4d06c37afc642a756", null ],
-    [ "SpellTimer2", "dc/dc9/a24439.html#a7da30509a017de1392cc3ba181a0dc53", null ],
-    [ "SpellTimer3", "dc/dc9/a24439.html#a0caf2b2d48c78b2eb032ff73168e2556", null ],
-    [ "Timers", "dc/dc9/a24439.html#a0eb0c24aff4cdab76d234ba17dbc4b5b", null ]
+    [ "npc_lord_illidan_stormrageAI", "d4/df2/a24443.html", "d4/df2/a24443" ],
+    [ "npc_lord_illidan_stormrage", "dc/dc9/a24439.html#ad2f213749e170ec4f9903396d132f5f3", null ],
+    [ "GetAI", "dc/dc9/a24439.html#a9aaedc4326b90621965dad522f4af897", null ]
 ];

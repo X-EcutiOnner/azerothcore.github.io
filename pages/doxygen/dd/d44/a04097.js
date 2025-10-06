@@ -1,6 +1,6 @@
 var a04097 =
 [
-    [ "Acore::Impl::CurrentServerProcessHolder", "d8/de7/a28799.html", "d8/de7/a28799" ],
+    [ "Acore::Impl::CurrentServerProcessHolder", "d5/d0b/a28795.html", "d5/d0b/a28795" ],
     [ "CHAIN_SPELL_JUMP_RADIUS", "dd/d44/a04097.html#a8dad73b854bbc7c0190e84c30e3ddafc", null ],
     [ "CLASSMASK_ALL_CREATURES", "dd/d44/a04097.html#add3308c1afa012ee9d6fa99299a3bcb5", null ],
     [ "CLASSMASK_ALL_PLAYABLE", "dd/d44/a04097.html#abf66a284fdfaa1dd8b07dbd234ce2028", null ],
@@ -1561,7 +1561,8 @@ var a04097 =
       [ "Disabled", "dd/d44/a04097.html#a22fc01c7384d8db0900ea2e19513fe75ab9f5c797ebbf55adccdd8539a65a0241", null ],
       [ "NoCharacter", "dd/d44/a04097.html#a22fc01c7384d8db0900ea2e19513fe75afa6a721b205c824b937f235bfead2055", null ],
       [ "LockedForTransfer", "dd/d44/a04097.html#a22fc01c7384d8db0900ea2e19513fe75ab3189eed46e36120420600546d81e4d8", null ],
-      [ "LockedByBilling", "dd/d44/a04097.html#a22fc01c7384d8db0900ea2e19513fe75acd1bcacb2170a31158e7564378f714b0", null ]
+      [ "LockedByBilling", "dd/d44/a04097.html#a22fc01c7384d8db0900ea2e19513fe75acd1bcacb2170a31158e7564378f714b0", null ],
+      [ "UsingRemote", "dd/d44/a04097.html#a22fc01c7384d8db0900ea2e19513fe75ad682ce19a5108b390b8142c280181d1c", null ]
     ] ],
     [ "LootModes", "dd/d44/a04097.html#aa7ea1b1c5f83714142d0ab23ddea3b44", [
       [ "LOOT_MODE_DEFAULT", "dd/d44/a04097.html#aa7ea1b1c5f83714142d0ab23ddea3b44a560af9c60a98958fda2a2a8a5f97a214", null ],

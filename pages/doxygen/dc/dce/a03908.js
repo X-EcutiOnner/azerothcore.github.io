@@ -1,6 +1,6 @@
 var a03908 =
 [
-    [ "npc_taxi", "d5/d9b/a27743.html", "d5/d9b/a27743" ],
+    [ "npc_taxi", "d8/d1d/a27739.html", "d8/d1d/a27739" ],
     [ "Misc", "dc/dce/a03908.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d6/d1c/a03692.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "dd/d2e/a03734.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
@@ -267,6 +267,7 @@ var a03908 =
       [ "SAY_SURGE", "d7/d6b/a02945.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a0be05cf38671dac65609ad3781ddc87d", null ],
       [ "EMOTE_ALTAR", "d7/d6b/a02945.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7067586544d8212d7442abdb0e584991", null ],
       [ "EVENT_COLOSSUS_MIGHTY_BLOW", "d7/d6b/a02945.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7e4466db7bb032cf5e1f9979d4817822", null ],
+      [ "EVENT_COLOSSUS_MORTAL_STRIKE", "d7/d6b/a02945.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a4dfa6bd980a216f470e3d71894ead0ef", null ],
       [ "EVENT_COLOSSUS_HEALTH_1", "d7/d6b/a02945.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7de18eae43b5a92eb6d1b396dc212f38", null ],
       [ "EVENT_COLOSSUS_HEALTH_2", "d7/d6b/a02945.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a38958b9da0b2edfc8de6afbbc031a775", null ],
       [ "EVENT_COLOSSUS_START_FIGHT", "d7/d6b/a02945.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7f30f5390c892fb583e78d131e494b44", null ],
@@ -286,13 +287,6 @@ var a03908 =
       [ "MAX_VIPER", "df/d5c/a02933.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1e3f12d08f9d4880b8263386a54d21c8", null ],
       [ "MAX_CONSTRICTOR", "df/d5c/a02933.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6acc7075615c62a740f793b19068462944", null ],
       [ "MAX_SUMMONS", "df/d5c/a02933.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a84601fa79312ae9ec09455ea0c08a421", null ],
-      [ "EVENT_POISON_NOVA", "df/d5c/a02933.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a721c4a2d69044b980cc898a992560c94", null ],
-      [ "EVENT_POWERFULL_BITE", "df/d5c/a02933.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a65fcf2ab22d98143ae5e8bf65ab57c77", null ],
-      [ "EVENT_VENOM_BOLT", "df/d5c/a02933.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abb679151001ca548b37ab6314bffbe7c", null ],
-      [ "EVENT_CHECK_HEALTH1", "df/d5c/a02933.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab36d747a1c8dd4aa89b59ad5e09afc2d", null ],
-      [ "EVENT_CHECK_HEALTH2", "df/d5c/a02933.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abf2720c6d7bcd1ff0e641f33cf445e8a", null ],
-      [ "EVENT_SUMMON1", "df/d5c/a02933.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ab4739603e8d437ba1c0c1df820551794", null ],
-      [ "EVENT_SUMMON2", "df/d5c/a02933.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a981bb86538dddef87f8a74bbc627a974", null ],
       [ "EVENT_KILL_TALK", "df/d5c/a02933.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a19e2d7e7feeb728214e70da2b689c36b", null ],
       [ "NPC_CORPSE_SCARAB", "df/d5e/a02690.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa810cf8de416ff562974ac4d6fe143ed", null ],
       [ "NPC_CRYPT_GUARD", "df/d5e/a02690.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9606cf5470e07e01547dda07eaa3be9f", null ],

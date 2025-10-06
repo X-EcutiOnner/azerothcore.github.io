@@ -1,17 +1,12 @@
 var a23179 =
 [
-    [ "npc_akama_shade", "d5/d76/a23179.html#a95e956e162cb88d2814622bc10166ca5", null ],
-    [ "DamageTaken", "d5/d76/a23179.html#a962723ebc58a2b1f813fcc0715f9f2d2", null ],
-    [ "DoAction", "d5/d76/a23179.html#a59619f193d51e3bad05044aad2d96d9a", null ],
-    [ "EnterEvadeMode", "d5/d76/a23179.html#ae2441741caf0b91196469f67a38823bc", null ],
-    [ "JustEngagedWith", "d5/d76/a23179.html#a87df13ee30423c51e50670c535fdf99d", null ],
-    [ "JustSummoned", "d5/d76/a23179.html#a2372d2e64fb36b64f638583409cf9fa8", null ],
-    [ "MovementInform", "d5/d76/a23179.html#a4f1900d16dd36fbb9e573d59cf2176a1", null ],
-    [ "Reset", "d5/d76/a23179.html#a2d8161405dbb97cc1784e3cf49679d25", null ],
-    [ "sGossipSelect", "d5/d76/a23179.html#a8a18c7195f04caed0cf93655f556ad9a", null ],
-    [ "UpdateAI", "d5/d76/a23179.html#af9091eaa02a0967cbc2acb7d0160e5f1", null ],
-    [ "_died", "d5/d76/a23179.html#a1295073fb0f2dc19baeb16ad73ceb1df", null ],
-    [ "_generators", "d5/d76/a23179.html#a84d8d87d9bb92ba20e357d5854410a5e", null ],
-    [ "_sayLowHealth", "d5/d76/a23179.html#ae068b44aff8c9e4e1b75afab7959fda8", null ],
-    [ "instance", "d5/d76/a23179.html#a590f6a445bcda767c2197da05fc3cb15", null ]
+    [ "npc_creature_generator_akama", "d5/d76/a23179.html#a8e91cadea7f135ff692635e4d39923e0", null ],
+    [ "DoAction", "d5/d76/a23179.html#a01efeecd374056da287e4a1e468472b6", null ],
+    [ "JustSummoned", "d5/d76/a23179.html#af58d7b130ed3b6c209c08ae14444bfe3", null ],
+    [ "Reset", "d5/d76/a23179.html#a23cf08661802f247147bb23cff30eeab", null ],
+    [ "SummonedCreatureDies", "d5/d76/a23179.html#a35b7ecfa659d80a869868b9a2732d92b", null ],
+    [ "UpdateAI", "d5/d76/a23179.html#a8c6e3ca67691e7625700f22c5b1c09c5", null ],
+    [ "instance", "d5/d76/a23179.html#a109aea7bb0747f8572c1d46e9df2d2a5", null ],
+    [ "spawnCounter", "d5/d76/a23179.html#a02d8acace195438fe6e8d4705a043078", null ],
+    [ "summons", "d5/d76/a23179.html#a3d532e607c48298ca0464ee630dd27b3", null ]
 ];

@@ -1,5 +1,8 @@
 var a23671 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d5/d91/a23671.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
-    [ "Initialize", "d5/d91/a23671.html#a9c7c10020eef3db4794283c0f946d086", null ]
+    [ "npc_underbat", "d5/d91/a23671.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
+    [ "JustEngagedWith", "d5/d91/a23671.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
+    [ "Reset", "d5/d91/a23671.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
+    [ "UpdateAI", "d5/d91/a23671.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
+    [ "_scheduler", "d5/d91/a23671.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
 ];

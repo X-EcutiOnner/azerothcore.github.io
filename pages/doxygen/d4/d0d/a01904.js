@@ -1,7 +1,7 @@
 var a01904 =
 [
-    [ "boss_talon_king_ikiss", "d0/d96/a22879.html", "d0/d96/a22879" ],
-    [ "spell_talon_king_ikiss_blink", "d3/d89/a22883.html", "d3/d89/a22883" ],
+    [ "boss_talon_king_ikiss", "d7/d95/a22875.html", "d7/d95/a22875" ],
+    [ "spell_talon_king_ikiss_blink", "d0/d96/a22879.html", "d0/d96/a22879" ],
     [ "Spells", "d4/d0d/a01904.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d4/def/a00359.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d4/def/a00359.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],
@@ -1724,6 +1724,7 @@ var a01904 =
       [ "SPELL_MOJO_WAVE", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cab22bbe5a324eae4e259ef8f4203daa0f", null ],
       [ "SPELL_FREEZE_ANIM", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca09463e66b152e3f856401806af0a4823", null ],
       [ "SPELL_MIGHTY_BLOW", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cae9c68ac99f2257b412925e1b55e98716", null ],
+      [ "SPELL_MORTAL_STRIKE", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca7794ace87705e2898f8b60f1f5228110", null ],
       [ "SPELL_ELEMENTAL_SPAWN_EFFECT", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca18e4e60be7a579f1442812409346316b", null ],
       [ "SPELL_EMERGE", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca35b4bf2fdacd2ed7ad6bd7f098ea58b3", null ],
       [ "SPELL_EMERGE_SUMMON", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cafe9d130c476fedbca0b895da0481c403", null ],

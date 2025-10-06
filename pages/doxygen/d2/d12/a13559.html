@@ -320,15 +320,15 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  967</span>    {</div>
-<div class="line"><span class="lineno">  968</span>        targets.remove_if(<a class="code hl_class" href="../../db/d61/a09515.html">Acore::UnitAuraCheck</a>(<span class="keyword">true</span>, <a class="code hl_enumvalue" href="../../d9/d79/a03809.html#a5bd342133be8c2137b831460acc9298cae7a7bef1be74ab2b89a88293e87a56f9">SPELL_VENGEANCE_OF_THE_BLUE_FLIGHT</a>));</div>
-<div class="line"><span class="lineno">  969</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  972</span>    {</div>
+<div class="line"><span class="lineno">  973</span>        targets.remove_if(<a class="code hl_class" href="../../db/d61/a09515.html">Acore::UnitAuraCheck</a>(<span class="keyword">true</span>, <a class="code hl_enumvalue" href="../../d9/d79/a03809.html#a5bd342133be8c2137b831460acc9298cae7a7bef1be74ab2b89a88293e87a56f9">SPELL_VENGEANCE_OF_THE_BLUE_FLIGHT</a>));</div>
+<div class="line"><span class="lineno">  974</span>    }</div>
 <div class="ttc" id="aa03809_html_a5bd342133be8c2137b831460acc9298cae7a7bef1be74ab2b89a88293e87a56f9"><div class="ttname"><a href="../../d9/d79/a03809.html#a5bd342133be8c2137b831460acc9298cae7a7bef1be74ab2b89a88293e87a56f9">SPELL_VENGEANCE_OF_THE_BLUE_FLIGHT</a></div><div class="ttdeci">@ SPELL_VENGEANCE_OF_THE_BLUE_FLIGHT</div><div class="ttdef"><b>Definition:</b> boss_kiljaeden.cpp:91</div></div>
 <div class="ttc" id="aa09515_html"><div class="ttname"><a href="../../db/d61/a09515.html">Acore::UnitAuraCheck</a></div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:1658</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00091">SPELL_VENGEANCE_OF_THE_BLUE_FLIGHT</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00987">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00992">Register()</a>.</p>
 
 </div>
 </div>
@@ -355,30 +355,30 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  972</span>    {</div>
-<div class="line"><span class="lineno">  973</span>        <a class="code hl_function" href="../../d2/dd2/a11407.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f">PreventHitDefaultEffect</a>(effIndex);</div>
-<div class="line"><span class="lineno">  974</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/d8e/a08791.html">Unit</a>* target = <a class="code hl_function" href="../../d2/dd2/a11407.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>())</div>
-<div class="line"><span class="lineno">  975</span>        {</div>
-<div class="line"><span class="lineno">  976</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; 4; ++i)</div>
-<div class="line"><span class="lineno">  977</span>            {</div>
-<div class="line"><span class="lineno">  978</span>                target-&gt;CastSpell(target, <a class="code hl_enumvalue" href="../../d9/d79/a03809.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82">SPELL_SINISTER_REFLECTION_SUMMON</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  979</span>            }</div>
-<div class="line"><span class="lineno">  980</span>            <span class="comment">// TODO implement these auras</span></div>
-<div class="line"><span class="lineno">  981</span>            <span class="comment">//target-&gt;AddAura(SPELL_SINISTER_COPY_WEAPON, target);</span></div>
-<div class="line"><span class="lineno">  982</span>            <span class="comment">//target-&gt;AddAura(SPELL_SINISTER_COPY_OFFHAND_WEAPON, target);</span></div>
-<div class="line"><span class="lineno">  983</span>            target-&gt;CastSpell(target, <a class="code hl_enumvalue" href="../../d9/d79/a03809.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b">SPELL_SINISTER_REFLECTION_CLONE</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  984</span>        }</div>
-<div class="line"><span class="lineno">  985</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  977</span>    {</div>
+<div class="line"><span class="lineno">  978</span>        <a class="code hl_function" href="../../d2/dd2/a11407.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f">PreventHitDefaultEffect</a>(effIndex);</div>
+<div class="line"><span class="lineno">  979</span>        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../de/d8e/a08791.html">Unit</a>* target = <a class="code hl_function" href="../../d2/dd2/a11407.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>())</div>
+<div class="line"><span class="lineno">  980</span>        {</div>
+<div class="line"><span class="lineno">  981</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; 4; ++i)</div>
+<div class="line"><span class="lineno">  982</span>            {</div>
+<div class="line"><span class="lineno">  983</span>                target-&gt;CastSpell(target, <a class="code hl_enumvalue" href="../../d9/d79/a03809.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82">SPELL_SINISTER_REFLECTION_SUMMON</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  984</span>            }</div>
+<div class="line"><span class="lineno">  985</span>            <span class="comment">// TODO implement these auras</span></div>
+<div class="line"><span class="lineno">  986</span>            <span class="comment">//target-&gt;AddAura(SPELL_SINISTER_COPY_WEAPON, target);</span></div>
+<div class="line"><span class="lineno">  987</span>            <span class="comment">//target-&gt;AddAura(SPELL_SINISTER_COPY_OFFHAND_WEAPON, target);</span></div>
+<div class="line"><span class="lineno">  988</span>            target-&gt;CastSpell(target, <a class="code hl_enumvalue" href="../../d9/d79/a03809.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b">SPELL_SINISTER_REFLECTION_CLONE</a>, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  989</span>        }</div>
+<div class="line"><span class="lineno">  990</span>    }</div>
 <div class="ttc" id="aa03809_html_a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82"><div class="ttname"><a href="../../d9/d79/a03809.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82">SPELL_SINISTER_REFLECTION_SUMMON</a></div><div class="ttdeci">@ SPELL_SINISTER_REFLECTION_SUMMON</div><div class="ttdef"><b>Definition:</b> boss_kiljaeden.cpp:79</div></div>
 <div class="ttc" id="aa03809_html_a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b"><div class="ttname"><a href="../../d9/d79/a03809.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b">SPELL_SINISTER_REFLECTION_CLONE</a></div><div class="ttdeci">@ SPELL_SINISTER_REFLECTION_CLONE</div><div class="ttdef"><b>Definition:</b> boss_kiljaeden.cpp:81</div></div>
 <div class="ttc" id="aa04307_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-<div class="ttc" id="aa08791_html"><div class="ttname"><a href="../../de/d8e/a08791.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:620</div></div>
+<div class="ttc" id="aa08791_html"><div class="ttname"><a href="../../de/d8e/a08791.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:627</div></div>
 <div class="ttc" id="aa11407_html_a56ed3ad5cf4ebc848946a9d8f1c35d5f"><div class="ttname"><a href="../../d2/dd2/a11407.html#a56ed3ad5cf4ebc848946a9d8f1c35d5f">SpellScript::PreventHitDefaultEffect</a></div><div class="ttdeci">void PreventHitDefaultEffect(SpellEffIndex effIndex)</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:590</div></div>
 <div class="ttc" id="aa11407_html_a8435df1d0677fa5124515002da8e0860"><div class="ttname"><a href="../../d2/dd2/a11407.html#a8435df1d0677fa5124515002da8e0860">SpellScript::GetHitUnit</a></div><div class="ttdeci">Unit * GetHitUnit()</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:448</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>, <a class="el" href="../../#l00590">SpellScript::PreventHitDefaultEffect()</a>, <a class="el" href="../../#l00081">SPELL_SINISTER_REFLECTION_CLONE</a>, and <a class="el" href="../../#l00079">SPELL_SINISTER_REFLECTION_SUMMON</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00987">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00992">Register()</a>.</p>
 
 </div>
 </div>
@@ -432,10 +432,10 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d4/d87/a11391.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  988</span>    {</div>
-<div class="line"><span class="lineno">  989</span>        <a class="code hl_variable" href="../../d2/dd2/a11407.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../de/d76/a00134.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d2/d12/a13559.html#a3282eb4c27b4256705bba47f4934c9b8">spell_kiljaeden_sinister_reflection::FilterTargets</a>, <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
-<div class="line"><span class="lineno">  990</span>        <a class="code hl_variable" href="../../d2/dd2/a11407.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../de/d76/a00134.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d2/d12/a13559.html#a8622351d9984d2de69ccd67d37fd52b9">spell_kiljaeden_sinister_reflection::HandleScriptEffect</a>, <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a>);</div>
-<div class="line"><span class="lineno">  991</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  993</span>    {</div>
+<div class="line"><span class="lineno">  994</span>        <a class="code hl_variable" href="../../d2/dd2/a11407.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../de/d76/a00134.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d2/d12/a13559.html#a3282eb4c27b4256705bba47f4934c9b8">spell_kiljaeden_sinister_reflection::FilterTargets</a>, <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a>);</div>
+<div class="line"><span class="lineno">  995</span>        <a class="code hl_variable" href="../../d2/dd2/a11407.html#a6f11356f7a28793e6053bfbc4e2dacf3">OnEffectHitTarget</a> += <a class="code hl_define" href="../../de/d76/a00134.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a>(<a class="code hl_function" href="../../d2/d12/a13559.html#a8622351d9984d2de69ccd67d37fd52b9">spell_kiljaeden_sinister_reflection::HandleScriptEffect</a>, <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#a292c893150c454dd75628b719db1fe97a078f855df3793531cf8efdef80967cba">SPELL_EFFECT_SCRIPT_EFFECT</a>);</div>
+<div class="line"><span class="lineno">  996</span>    }</div>
 <div class="ttc" id="aa00134_html_a551b0adb8eaf82985a7e55cef0695dcb"><div class="ttname"><a href="../../de/d76/a00134.html#a551b0adb8eaf82985a7e55cef0695dcb">SpellEffectFn</a></div><div class="ttdeci">#define SpellEffectFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:337</div></div>
 <div class="ttc" id="aa00134_html_a623f49512c3d12eceb55ca05cd53c4f2"><div class="ttname"><a href="../../de/d76/a00134.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a></div><div class="ttdeci">#define SpellObjectAreaTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:354</div></div>
 <div class="ttc" id="aa04097_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../dd/d44/a04097.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
@@ -443,10 +443,10 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa04097_html_a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4"><div class="ttname"><a href="../../dd/d44/a04097.html#a418aed4e4066eb09ab979b5d78dc9152a7b8c7cf5819db17b9ed16dfbb93addb4">TARGET_UNIT_SRC_AREA_ENEMY</a></div><div class="ttdeci">@ TARGET_UNIT_SRC_AREA_ENEMY</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1431</div></div>
 <div class="ttc" id="aa11407_html_a6f11356f7a28793e6053bfbc4e2dacf3"><div class="ttname"><a href="../../d2/dd2/a11407.html#a6f11356f7a28793e6053bfbc4e2dacf3">SpellScript::OnEffectHitTarget</a></div><div class="ttdeci">HookList&lt; EffectHandler &gt; OnEffectHitTarget</div><div class="ttdef"><b>Definition:</b> SpellScript.h:336</div></div>
 <div class="ttc" id="aa11407_html_af74f730c6dacd310a78036be6b7cc6b7"><div class="ttname"><a href="../../d2/dd2/a11407.html#af74f730c6dacd310a78036be6b7cc6b7">SpellScript::OnObjectAreaTargetSelect</a></div><div class="ttdeci">HookList&lt; ObjectAreaTargetSelectHandler &gt; OnObjectAreaTargetSelect</div><div class="ttdef"><b>Definition:</b> SpellScript.h:353</div></div>
-<div class="ttc" id="aa13559_html_a3282eb4c27b4256705bba47f4934c9b8"><div class="ttname"><a href="../../d2/d12/a13559.html#a3282eb4c27b4256705bba47f4934c9b8">spell_kiljaeden_sinister_reflection::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition:</b> boss_kiljaeden.cpp:966</div></div>
-<div class="ttc" id="aa13559_html_a8622351d9984d2de69ccd67d37fd52b9"><div class="ttname"><a href="../../d2/d12/a13559.html#a8622351d9984d2de69ccd67d37fd52b9">spell_kiljaeden_sinister_reflection::HandleScriptEffect</a></div><div class="ttdeci">void HandleScriptEffect(SpellEffIndex effIndex)</div><div class="ttdef"><b>Definition:</b> boss_kiljaeden.cpp:971</div></div>
+<div class="ttc" id="aa13559_html_a3282eb4c27b4256705bba47f4934c9b8"><div class="ttname"><a href="../../d2/d12/a13559.html#a3282eb4c27b4256705bba47f4934c9b8">spell_kiljaeden_sinister_reflection::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition:</b> boss_kiljaeden.cpp:971</div></div>
+<div class="ttc" id="aa13559_html_a8622351d9984d2de69ccd67d37fd52b9"><div class="ttname"><a href="../../d2/d12/a13559.html#a8622351d9984d2de69ccd67d37fd52b9">spell_kiljaeden_sinister_reflection::HandleScriptEffect</a></div><div class="ttdeci">void HandleScriptEffect(SpellEffIndex effIndex)</div><div class="ttdef"><b>Definition:</b> boss_kiljaeden.cpp:976</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00966">FilterTargets()</a>, <a class="el" href="../../#l00971">HandleScriptEffect()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00866">SPELL_EFFECT_SCRIPT_EFFECT</a>, <a class="el" href="../../#l00337">SpellEffectFn</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01431">TARGET_UNIT_SRC_AREA_ENEMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00971">FilterTargets()</a>, <a class="el" href="../../#l00976">HandleScriptEffect()</a>, <a class="el" href="../../#l00336">SpellScript::OnEffectHitTarget</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00866">SPELL_EFFECT_SCRIPT_EFFECT</a>, <a class="el" href="../../#l00337">SpellEffectFn</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01431">TARGET_UNIT_SRC_AREA_ENEMY</a>.</p>
 
 </div>
 </div>
@@ -475,9 +475,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d4/d87/a11391.html#a95e7862a5807bff409f13aea8306077e">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  962</span>    {</div>
-<div class="line"><span class="lineno">  963</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d4/d87/a11391.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d9/d79/a03809.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82">SPELL_SINISTER_REFLECTION_SUMMON</a>, <a class="code hl_enumvalue" href="../../d9/d79/a03809.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b">SPELL_SINISTER_REFLECTION_CLONE</a> });</div>
-<div class="line"><span class="lineno">  964</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  967</span>    {</div>
+<div class="line"><span class="lineno">  968</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../d4/d87/a11391.html#a9f7c76ac56838fbe61bf67d534979159">ValidateSpellInfo</a>({ <a class="code hl_enumvalue" href="../../d9/d79/a03809.html#a5bd342133be8c2137b831460acc9298ca71f16716214f1f22b82cc0a0e0ea4c82">SPELL_SINISTER_REFLECTION_SUMMON</a>, <a class="code hl_enumvalue" href="../../d9/d79/a03809.html#a5bd342133be8c2137b831460acc9298cab8620ab50f2f9bd8645774fcc6230a0b">SPELL_SINISTER_REFLECTION_CLONE</a> });</div>
+<div class="line"><span class="lineno">  969</span>    }</div>
 <div class="ttc" id="aa11391_html_a9f7c76ac56838fbe61bf67d534979159"><div class="ttname"><a href="../../d4/d87/a11391.html#a9f7c76ac56838fbe61bf67d534979159">_SpellScript::ValidateSpellInfo</a></div><div class="ttdeci">static bool ValidateSpellInfo(std::initializer_list&lt; uint32 &gt; spellIds)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:125</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00081">SPELL_SINISTER_REFLECTION_CLONE</a>, <a class="el" href="../../#l00079">SPELL_SINISTER_REFLECTION_SUMMON</a>, and <a class="el" href="../../#l00125">_SpellScript::ValidateSpellInfo()</a>.</p>
@@ -490,7 +490,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d12/a13559.html">spell_kiljaeden_sinister_reflection</a></li>
-    <li class="footer">Generated on Mon Sep 29 2025 20:47:42 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Oct 6 2025 20:46:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

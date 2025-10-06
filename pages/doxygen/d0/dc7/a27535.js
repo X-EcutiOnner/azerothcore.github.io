@@ -1,5 +1,5 @@
 var a27535 =
 [
-    [ "go_jump_a_tron", "d0/dc7/a27535.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
-    [ "OnGossipHello", "d0/dc7/a27535.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
+    [ "go_sacred_fire_of_life", "d0/dc7/a27535.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
+    [ "OnGossipHello", "d0/dc7/a27535.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
 ];

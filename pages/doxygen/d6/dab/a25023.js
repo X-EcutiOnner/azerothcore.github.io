@@ -1,10 +1,6 @@
 var a25023 =
 [
-    [ "Load", "d6/dab/a25023.html#a2c4e408e45995098b01a05815fffb34c", null ],
-    [ "OnApply", "d6/dab/a25023.html#acae1047046bb8f555d1798ca024a2650", null ],
-    [ "OnRemove", "d6/dab/a25023.html#aa01df2b86cf69508866f6e7d063c735a", null ],
-    [ "PrepareAuraScript", "d6/dab/a25023.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
-    [ "Register", "d6/dab/a25023.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
-    [ "Validate", "d6/dab/a25023.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
-    [ "_casterGUID", "d6/dab/a25023.html#a8047fb4309487c7a529047ec5148a2e3", null ]
+    [ "HandleScript", "d6/dab/a25023.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
+    [ "PrepareSpellScript", "d6/dab/a25023.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
+    [ "Register", "d6/dab/a25023.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
 ];

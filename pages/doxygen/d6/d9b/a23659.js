@@ -1,7 +1,7 @@
 var a23659 =
 [
-    [ "HandleScript", "d6/d9b/a23659.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
-    [ "PrepareSpellScript", "d6/d9b/a23659.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
-    [ "Register", "d6/d9b/a23659.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
-    [ "Validate", "d6/d9b/a23659.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
+    [ "HandleScript", "d6/d9b/a23659.html#a42052a416290a54d5479a402de578a73", null ],
+    [ "PrepareSpellScript", "d6/d9b/a23659.html#a5f6aa972879b65c0207e47435d436a33", null ],
+    [ "Register", "d6/d9b/a23659.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
+    [ "Validate", "d6/d9b/a23659.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
 ];

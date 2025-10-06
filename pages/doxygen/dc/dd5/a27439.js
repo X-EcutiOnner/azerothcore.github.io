@@ -1,5 +1,5 @@
 var a27439 =
 [
-    [ "go_ethereum_prison", "dc/dd5/a27439.html#a1872dab11a8470194ab35f87e217aa8a", null ],
-    [ "OnGossipHello", "dc/dd5/a27439.html#a73479b0512ea778336fad4bd5cd9b909", null ]
+    [ "go_ethereum_stasis", "dc/dd5/a27439.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
+    [ "OnGossipHello", "dc/dd5/a27439.html#ac36da8dccbebcaee605a878df3904c60", null ]
 ];

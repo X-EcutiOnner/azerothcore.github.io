@@ -1,8 +1,7 @@
 var a23111 =
 [
-    [ "FilterTargets", "d7/d86/a23111.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
-    [ "HandleDummy", "d7/d86/a23111.html#ab89ab441f022ee017548ba49d128b92e", null ],
-    [ "PrepareSpellScript", "d7/d86/a23111.html#aa8578390d7d9379328c02ceb209e94ed", null ],
-    [ "Register", "d7/d86/a23111.html#a486387d707b7ad66ecb443ab2bb60778", null ],
-    [ "Validate", "d7/d86/a23111.html#ad5d695978794d796eb7139fce1530d57", null ]
+    [ "SuckBackEvent", "d7/d86/a23111.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
+    [ "Execute", "d7/d86/a23111.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
+    [ "_action", "d7/d86/a23111.html#abc54669df2dba0238723a40ababe4c0a", null ],
+    [ "_owner", "d7/d86/a23111.html#a4d8bc09803f7786022c1836457ded488", null ]
 ];

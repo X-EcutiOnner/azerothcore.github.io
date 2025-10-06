@@ -1,5 +1,7 @@
 var a25819 =
 [
-    [ "PrepareSpellScript", "d2/d0e/a25819.html#a64c8a9156181a78dfcb413eedc47f0ed", null ],
-    [ "Register", "d2/d0e/a25819.html#af8f8b5901a068bef3e2663809180b3e2", null ]
+    [ "CheckProc", "d2/d0e/a25819.html#afbd6d4a64b7da0d0dc15c62eb81746c9", null ],
+    [ "HandleProc", "d2/d0e/a25819.html#a27569fe686e50246768fca4a7625fe0d", null ],
+    [ "PrepareAuraScript", "d2/d0e/a25819.html#a4f4eaa4aeeac9257804957671c16233f", null ],
+    [ "Register", "d2/d0e/a25819.html#ab9a662bebdb5e03c5c10a807b892a9bf", null ]
 ];

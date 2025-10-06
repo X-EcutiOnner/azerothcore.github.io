@@ -1,6 +1,6 @@
 var a24999 =
 [
-    [ "OnHit", "de/d94/a24999.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
-    [ "PrepareSpellScript", "de/d94/a24999.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
-    [ "Register", "de/d94/a24999.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
+    [ "HandleKnockBack", "de/d94/a24999.html#ae50d143953074b83183482770046e131", null ],
+    [ "PrepareSpellScript", "de/d94/a24999.html#a73666b297ef8bbfd490fee6075b06b3a", null ],
+    [ "Register", "de/d94/a24999.html#a035df6b2e29aa0d2b5558e1cfef96ead", null ]
 ];

@@ -1,5 +1,6 @@
 var a27615 =
 [
-    [ "go_duskwither_spire_power_source", "d3/da2/a27615.html#aab69de16e8b744af2671e2ed882ee94a", null ],
-    [ "OnGossipHello", "d3/da2/a27615.html#a2c7fd017e7985b99bff187119157a041", null ]
+    [ "guard_shattrath_scryerAI", "dc/d7c/a27619.html", "dc/d7c/a27619" ],
+    [ "guard_shattrath_scryer", "d3/da2/a27615.html#a2ee4d6881d7c24cd848c590b84207663", null ],
+    [ "GetAI", "d3/da2/a27615.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
 ];

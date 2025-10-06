@@ -1,7 +1,10 @@
 var a25607 =
 [
-    [ "HandleOnEffectApply", "de/d65/a25607.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
-    [ "HandleOnEffectRemove", "de/d65/a25607.html#a094d788d157474a9683387d5c340538f", null ],
-    [ "PrepareAuraScript", "de/d65/a25607.html#aad378b8c45f11af51faf9128878c01df", null ],
-    [ "Register", "de/d65/a25607.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
+    [ "Load", "de/d65/a25607.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
+    [ "OnApply", "de/d65/a25607.html#a83d922c434442e22482410d61aa0198f", null ],
+    [ "OnPetApply", "de/d65/a25607.html#a6df5e59e29cb89310a1c78bf93029545", null ],
+    [ "OnRemove", "de/d65/a25607.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
+    [ "PrepareAuraScript", "de/d65/a25607.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
+    [ "Register", "de/d65/a25607.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
+    [ "Validate", "de/d65/a25607.html#ab318472ea9f4aaa79e45f18783586eed", null ]
 ];

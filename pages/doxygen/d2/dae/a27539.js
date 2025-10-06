@@ -1,5 +1,5 @@
 var a27539 =
 [
-    [ "go_sacred_fire_of_life", "d2/dae/a27539.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "d2/dae/a27539.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "go_southfury_moonstone", "d2/dae/a27539.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
+    [ "OnGossipHello", "d2/dae/a27539.html#a4c0870f0e03708f1fdc073abadbe5de8", null ]
 ];

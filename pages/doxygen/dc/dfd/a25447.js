@@ -1,5 +1,5 @@
 var a25447 =
 [
-    [ "PrepareSpellScript", "dc/dfd/a25447.html#ae49ad5a4ad43099c4510e1666ff6415b", null ],
-    [ "Register", "dc/dfd/a25447.html#ad31fa6c2099d984389c3fb12e53a5bd8", null ]
+    [ "PrepareSpellScript", "dc/dfd/a25447.html#a096abf53c6e622875c463060e986b5ef", null ],
+    [ "Register", "dc/dfd/a25447.html#a68905cc33f09dbb42db67139193530cb", null ]
 ];

@@ -1,6 +1,6 @@
 var a27519 =
 [
-    [ "go_midsummer_musicAI", "d7/de5/a27519.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
-    [ "UpdateAI", "d7/de5/a27519.html#adf185ee702e9e74f65204b90786f9eb4", null ],
-    [ "_events", "d7/de5/a27519.html#a31e45a754930cdc3206fe2b7f754d234", null ]
+    [ "go_gilded_brazierAI", "d7/d91/a27523.html", "d7/d91/a27523" ],
+    [ "go_gilded_brazier", "d7/de5/a27519.html#a778c753a8432131601371da8849ef004", null ],
+    [ "GetAI", "d7/de5/a27519.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
 ];

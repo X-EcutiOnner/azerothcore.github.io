@@ -1,7 +1,7 @@
 var a01937 =
 [
-    [ "boss_nexusprince_shaffar", "da/d20/a22843.html", "da/d20/a22843" ],
-    [ "npc_yor", "d0/d11/a22847.html", "d0/d11/a22847" ],
+    [ "boss_nexusprince_shaffar", "da/d20/a22839.html", "da/d20/a22839" ],
+    [ "npc_yor", "da/d20/a22843.html", "da/d20/a22843" ],
     [ "Npc", "d9/d17/a01937.html#a8d8031a9ef6bd14633aa0a1bc87e2753", [
       [ "NPC_IRON_SLUDGE", "d9/dc5/a02924.html#a8d8031a9ef6bd14633aa0a1bc87e2753a8ef27256382a54362848418fa570723e", null ],
       [ "NPC_DWARFES_FRIENDLY", "d9/dc5/a02924.html#a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7", null ],
@@ -1741,6 +1741,7 @@ var a01937 =
       [ "SPELL_MOJO_WAVE", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cab22bbe5a324eae4e259ef8f4203daa0f", null ],
       [ "SPELL_FREEZE_ANIM", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca09463e66b152e3f856401806af0a4823", null ],
       [ "SPELL_MIGHTY_BLOW", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cae9c68ac99f2257b412925e1b55e98716", null ],
+      [ "SPELL_MORTAL_STRIKE", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca7794ace87705e2898f8b60f1f5228110", null ],
       [ "SPELL_ELEMENTAL_SPAWN_EFFECT", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca18e4e60be7a579f1442812409346316b", null ],
       [ "SPELL_EMERGE", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca35b4bf2fdacd2ed7ad6bd7f098ea58b3", null ],
       [ "SPELL_EMERGE_SUMMON", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cafe9d130c476fedbca0b895da0481c403", null ],

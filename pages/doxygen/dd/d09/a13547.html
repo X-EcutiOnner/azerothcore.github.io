@@ -171,8 +171,8 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  678</span>: <a class="code hl_variable" href="../../dd/d09/a13547.html#a5f12db3774bdeef25a300780c00db1fb">_owner</a>(owner) { }</div>
-<div class="ttc" id="aa13547_html_a5f12db3774bdeef25a300780c00db1fb"><div class="ttname"><a href="../../dd/d09/a13547.html#a5f12db3774bdeef25a300780c00db1fb">FixOrientation::_owner</a></div><div class="ttdeci">Creature * _owner</div><div class="ttdef"><b>Definition:</b> boss_kiljaeden.cpp:690</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  683</span>: <a class="code hl_variable" href="../../dd/d09/a13547.html#a5f12db3774bdeef25a300780c00db1fb">_owner</a>(owner) { }</div>
+<div class="ttc" id="aa13547_html_a5f12db3774bdeef25a300780c00db1fb"><div class="ttname"><a href="../../dd/d09/a13547.html#a5f12db3774bdeef25a300780c00db1fb">FixOrientation::_owner</a></div><div class="ttdeci">Creature * _owner</div><div class="ttdef"><b>Definition:</b> boss_kiljaeden.cpp:695</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -212,18 +212,18 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d4/da8/a05511.html#a89297a10b64d01895332655122ed8ccb">BasicEvent</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  681</span>    {</div>
-<div class="line"><span class="lineno">  682</span>        std::list&lt;Creature*&gt; cList;</div>
-<div class="line"><span class="lineno">  683</span>        <a class="code hl_variable" href="../../dd/d09/a13547.html#a5f12db3774bdeef25a300780c00db1fb">_owner</a>-&gt;<a class="code hl_function" href="../../d7/d2a/a08439.html#aa95da5ea65fa0d7f7cd74c11b70b1ed2">GetCreaturesWithEntryInRange</a>(cList, 20.0f, <a class="code hl_enumvalue" href="../../d9/d79/a03809.html#a02e384ccca4dd05dad4eab9d15f6a4dcacc469b72648c025d784c0a50a03264d2">NPC_SHATTERED_SUN_SOLDIER</a>);</div>
-<div class="line"><span class="lineno">  684</span>        <span class="keywordflow">for</span> (std::list&lt;Creature*&gt;::const_iterator itr = cList.begin(); itr != cList.end(); ++itr)</div>
-<div class="line"><span class="lineno">  685</span>            (*itr)-&gt;SetFacingTo(<a class="code hl_variable" href="../../dd/d09/a13547.html#a5f12db3774bdeef25a300780c00db1fb">_owner</a>-&gt;<a class="code hl_function" href="../../d0/d81/a08487.html#a74cabfb8f441acb38e1abd5bf6ecdc84">GetOrientation</a>());</div>
-<div class="line"><span class="lineno">  686</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  687</span>    }</div>
-<div class="ttc" id="aa03809_html_a02e384ccca4dd05dad4eab9d15f6a4dcacc469b72648c025d784c0a50a03264d2"><div class="ttname"><a href="../../d9/d79/a03809.html#a02e384ccca4dd05dad4eab9d15f6a4dcacc469b72648c025d784c0a50a03264d2">NPC_SHATTERED_SUN_SOLDIER</a></div><div class="ttdeci">@ NPC_SHATTERED_SUN_SOLDIER</div><div class="ttdef"><b>Definition:</b> boss_kiljaeden.cpp:614</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  686</span>    {</div>
+<div class="line"><span class="lineno">  687</span>        std::list&lt;Creature*&gt; cList;</div>
+<div class="line"><span class="lineno">  688</span>        <a class="code hl_variable" href="../../dd/d09/a13547.html#a5f12db3774bdeef25a300780c00db1fb">_owner</a>-&gt;<a class="code hl_function" href="../../d7/d2a/a08439.html#aa95da5ea65fa0d7f7cd74c11b70b1ed2">GetCreaturesWithEntryInRange</a>(cList, 20.0f, <a class="code hl_enumvalue" href="../../d9/d79/a03809.html#a02e384ccca4dd05dad4eab9d15f6a4dcacc469b72648c025d784c0a50a03264d2">NPC_SHATTERED_SUN_SOLDIER</a>);</div>
+<div class="line"><span class="lineno">  689</span>        <span class="keywordflow">for</span> (std::list&lt;Creature*&gt;::const_iterator itr = cList.begin(); itr != cList.end(); ++itr)</div>
+<div class="line"><span class="lineno">  690</span>            (*itr)-&gt;SetFacingTo(<a class="code hl_variable" href="../../dd/d09/a13547.html#a5f12db3774bdeef25a300780c00db1fb">_owner</a>-&gt;<a class="code hl_function" href="../../d0/d81/a08487.html#a74cabfb8f441acb38e1abd5bf6ecdc84">GetOrientation</a>());</div>
+<div class="line"><span class="lineno">  691</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  692</span>    }</div>
+<div class="ttc" id="aa03809_html_a02e384ccca4dd05dad4eab9d15f6a4dcacc469b72648c025d784c0a50a03264d2"><div class="ttname"><a href="../../d9/d79/a03809.html#a02e384ccca4dd05dad4eab9d15f6a4dcacc469b72648c025d784c0a50a03264d2">NPC_SHATTERED_SUN_SOLDIER</a></div><div class="ttdeci">@ NPC_SHATTERED_SUN_SOLDIER</div><div class="ttdef"><b>Definition:</b> boss_kiljaeden.cpp:619</div></div>
 <div class="ttc" id="aa08439_html_aa95da5ea65fa0d7f7cd74c11b70b1ed2"><div class="ttname"><a href="../../d7/d2a/a08439.html#aa95da5ea65fa0d7f7cd74c11b70b1ed2">WorldObject::GetCreaturesWithEntryInRange</a></div><div class="ttdeci">void GetCreaturesWithEntryInRange(std::list&lt; Creature * &gt; &amp;creatureList, float radius, uint32 entry)</div><div class="ttdef"><b>Definition:</b> Object.cpp:2987</div></div>
 <div class="ttc" id="aa08487_html_a74cabfb8f441acb38e1abd5bf6ecdc84"><div class="ttname"><a href="../../d0/d81/a08487.html#a74cabfb8f441acb38e1abd5bf6ecdc84">Position::GetOrientation</a></div><div class="ttdeci">float GetOrientation() const</div><div class="ttdef"><b>Definition:</b> Position.h:124</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00690">_owner</a>, <a class="el" href="../../#l02987">WorldObject::GetCreaturesWithEntryInRange()</a>, <a class="el" href="../../#l00124">Position::GetOrientation()</a>, and <a class="el" href="../../#l00614">NPC_SHATTERED_SUN_SOLDIER</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00695">_owner</a>, <a class="el" href="../../#l02987">WorldObject::GetCreaturesWithEntryInRange()</a>, <a class="el" href="../../#l00124">Position::GetOrientation()</a>, and <a class="el" href="../../#l00619">NPC_SHATTERED_SUN_SOLDIER</a>.</p>
 
 </div>
 </div>
@@ -248,7 +248,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00680">Execute()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00685">Execute()</a>.</p>
 
 </div>
 </div>
@@ -258,7 +258,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d09/a13547.html">FixOrientation</a></li>
-    <li class="footer">Generated on Mon Sep 29 2025 20:46:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Oct 6 2025 20:45:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

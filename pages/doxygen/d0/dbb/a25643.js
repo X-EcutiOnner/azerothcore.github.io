@@ -1,7 +1,8 @@
 var a25643 =
 [
-    [ "HandleDummy", "d0/dbb/a25643.html#a5b25d03bb22995e1ba9deb7eec4ee35a", null ],
-    [ "Load", "d0/dbb/a25643.html#a833d9abe12cb4fff1700b97bc7215c1d", null ],
-    [ "PrepareSpellScript", "d0/dbb/a25643.html#a547b3f71f9fc502dc589ad7b9b6f3cc2", null ],
-    [ "Register", "d0/dbb/a25643.html#ae7d502253b0c47921e40da4aa87b0eef", null ]
+    [ "HandlePeriodic", "d0/dbb/a25643.html#acba5d68c19e68361c088e50f9b831bff", null ],
+    [ "HandleUpdatePeriodic", "d0/dbb/a25643.html#af27c6dfccb12f1ba52d170da5d9228f9", null ],
+    [ "PrepareAuraScript", "d0/dbb/a25643.html#a8fa9d7c1f8e95c2e50bd2178f4f58c04", null ],
+    [ "Register", "d0/dbb/a25643.html#a2be03ae04a562b2c908fcdb0c052ca5f", null ],
+    [ "Validate", "d0/dbb/a25643.html#ab467c3b759ac1e276d6a4815d20f5ff0", null ]
 ];

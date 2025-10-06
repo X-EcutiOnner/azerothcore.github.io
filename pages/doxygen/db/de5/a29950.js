@@ -1,6 +1,7 @@
 var a29950 =
 [
-    [ "color", "db/de5/a29950.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
-    [ "ID", "db/de5/a29950.html#ac125147c2dc5546a0116f48e08f36e59", null ],
-    [ "spellitemenchantement", "db/de5/a29950.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
+    [ "MPQArchive", "db/ded/a28955.html", "db/ded/a28955" ],
+    [ "MPQFile", "dd/d2e/a28959.html", "dd/d2e/a28959" ],
+    [ "ArchiveSet", "db/de5/a29950.html#a8d76af4bfff910da40b4f93a1c465744", null ],
+    [ "flipcc", "db/de5/a29950.html#aff3add09c98fece7ace91b0e7c90435e", null ]
 ];

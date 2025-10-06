@@ -1,12 +1,12 @@
 var a02123 =
 [
-    [ "boss_gruul", "d7/d21/a23687.html", "d7/d21/a23687" ],
-    [ "npc_invisible_tractor_beam_source", "d7/d23/a23691.html", "d7/d23/a23691" ],
-    [ "spell_gruul_ground_slam", "da/dfd/a23695.html", "da/dfd/a23695" ],
-    [ "spell_tractor_beam_creator", "de/d02/a23699.html", "de/d02/a23699" ],
-    [ "spell_gruul_ground_slam_trigger", "d4/dd5/a23703.html", "d4/dd5/a23703" ],
-    [ "spell_gruul_shatter", "de/d26/a23707.html", "de/d26/a23707" ],
-    [ "spell_gruul_shatter_effect", "d6/df7/a23711.html", "d6/df7/a23711" ],
+    [ "boss_gruul", "d3/d96/a23683.html", "d3/d96/a23683" ],
+    [ "npc_invisible_tractor_beam_source", "d7/d21/a23687.html", "d7/d21/a23687" ],
+    [ "spell_gruul_ground_slam", "d7/d23/a23691.html", "d7/d23/a23691" ],
+    [ "spell_tractor_beam_creator", "da/dfd/a23695.html", "da/dfd/a23695" ],
+    [ "spell_gruul_ground_slam_trigger", "de/d02/a23699.html", "de/d02/a23699" ],
+    [ "spell_gruul_shatter", "d4/dd5/a23703.html", "d4/dd5/a23703" ],
+    [ "spell_gruul_shatter_effect", "de/d26/a23707.html", "de/d26/a23707" ],
     [ "Spells", "d5/d63/a02123.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d4/def/a00359.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d4/def/a00359.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],
@@ -1729,6 +1729,7 @@ var a02123 =
       [ "SPELL_MOJO_WAVE", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cab22bbe5a324eae4e259ef8f4203daa0f", null ],
       [ "SPELL_FREEZE_ANIM", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca09463e66b152e3f856401806af0a4823", null ],
       [ "SPELL_MIGHTY_BLOW", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cae9c68ac99f2257b412925e1b55e98716", null ],
+      [ "SPELL_MORTAL_STRIKE", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca7794ace87705e2898f8b60f1f5228110", null ],
       [ "SPELL_ELEMENTAL_SPAWN_EFFECT", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca18e4e60be7a579f1442812409346316b", null ],
       [ "SPELL_EMERGE", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca35b4bf2fdacd2ed7ad6bd7f098ea58b3", null ],
       [ "SPELL_EMERGE_SUMMON", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cafe9d130c476fedbca0b895da0481c403", null ],

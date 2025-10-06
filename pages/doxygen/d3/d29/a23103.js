@@ -1,7 +1,9 @@
 var a23103 =
 [
-    [ "CheckProc", "d3/d29/a23103.html#a0968b7b32f2d2bef6035e030f544088a", null ],
-    [ "PrepareAuraScript", "d3/d29/a23103.html#ac424e41948196a6e60b790ebcf40783f", null ],
-    [ "Register", "d3/d29/a23103.html#a06bdac68e36b43ee534e937ffd974086", null ],
-    [ "Update", "d3/d29/a23103.html#af6c228840f6af96e353ba964fdd01e54", null ]
+    [ "FilterTargets", "d3/d29/a23103.html#aa8f0401dd004e816b8071381289116fa", null ],
+    [ "HandleTeleportUnits", "d3/d29/a23103.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
+    [ "PrepareSpellScript", "d3/d29/a23103.html#a47898c213cdd125714c80d327bf42d8c", null ],
+    [ "Register", "d3/d29/a23103.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
+    [ "SetDest", "d3/d29/a23103.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
+    [ "Validate", "d3/d29/a23103.html#a814083360970284a325621f45e109b5b", null ]
 ];

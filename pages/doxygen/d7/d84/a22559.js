@@ -1,6 +1,6 @@
 var a22559 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "d7/d84/a22559.html#afd54b130725aa724b80f150f968ce09d", null ],
-    [ "MovementInform", "d7/d84/a22559.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
-    [ "PassengerBoarded", "d7/d84/a22559.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
+    [ "CheckCast", "d7/d84/a22559.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
+    [ "PrepareSpellScript", "d7/d84/a22559.html#ab4025d8a4acee4723dcca972bce01f45", null ],
+    [ "Register", "d7/d84/a22559.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
 ];

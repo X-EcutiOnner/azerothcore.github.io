@@ -1,7 +1,6 @@
 var a24071 =
 [
-    [ "HandleEffect", "dd/d96/a24071.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
-    [ "PrepareSpellScript", "dd/d96/a24071.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
-    [ "Register", "dd/d96/a24071.html#ac406946bb793125d49006e3a877c9638", null ],
-    [ "SelectTarget", "dd/d96/a24071.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
+    [ "HandlePeriodic", "dd/d96/a24071.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
+    [ "PrepareAuraScript", "dd/d96/a24071.html#a75d72d196ded2ee109d0231d4342890a", null ],
+    [ "Register", "dd/d96/a24071.html#a148013ea68bbc573bddc1c3639dba019", null ]
 ];

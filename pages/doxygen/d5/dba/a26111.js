@@ -1,7 +1,9 @@
 var a26111 =
 [
-    [ "HandleDummy", "d5/dba/a26111.html#a884ab3487725dbdd5b069f3a45b7164b", null ],
-    [ "PrepareSpellScript", "d5/dba/a26111.html#a6ad225a1bcd7bdad7ee1751766e7c129", null ],
-    [ "Register", "d5/dba/a26111.html#a0877a96dde66adb988628ebb93fe15b6", null ],
-    [ "Validate", "d5/dba/a26111.html#ad784bb6b5d3588965492b102f2b2898e", null ]
+    [ "OnEffectHitTargetDisarm", "d5/dba/a26111.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
+    [ "OnEffectHitTargetStun", "d5/dba/a26111.html#a5a5253b6d152b1af78de663c09451536", null ],
+    [ "OnEffectLaunchTargetDisarm", "d5/dba/a26111.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
+    [ "OnEffectLaunchTargetStun", "d5/dba/a26111.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
+    [ "PrepareSpellScript", "d5/dba/a26111.html#a113219d3376a23f8889f26f10744e7cb", null ],
+    [ "Register", "d5/dba/a26111.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
 ];

@@ -6,7 +6,7 @@ var searchData=
   ['q13007ironcolossus_3',['q13007IronColossus',['../db/d6b/a03128.html#a087b056704b91fae2c93eba42a026a26',1,'zone_storm_peaks.cpp']]],
   ['qfallfromgrace_4',['qFallFromGrace',['../d1/de9/a02591.html#a2ed708185ac0e1b74cd309bc04fe037a',1,'spell_quest.cpp']]],
   ['qruseoftheashtongue_5',['qruseoftheAshtongue',['../db/df6/a02138.html#a2c95972a6d4a8c05920a7936dc009f10',1,'boss_alar.cpp']]],
-  ['qsniffing_6',['qSniffing',['../db/d6b/a03128.html#a72aa32e04cd59045853af5772e3d687a',1,'zone_storm_peaks.cpp']]],
+  ['qsniffingouttheperpetrator_6',['qSniffingOutThePerpetrator',['../db/d6b/a03128.html#ae794c084a85a17bd6a4ca1e996c00530',1,'zone_storm_peaks.cpp']]],
   ['quenchingmist_7',['QuenchingMist',['../d1/de9/a02591.html#a7662ed5f345e47d80a29b02f36b82525',1,'spell_quest.cpp']]],
   ['quest11010_5f11102_5f11023data_8',['Quest11010_11102_11023Data',['../d1/de9/a02591.html#ab3509a0655e0668f2ad59704b04bcb39',1,'spell_quest.cpp']]],
   ['quest11396_5f11399data_9',['Quest11396_11399Data',['../d1/de9/a02591.html#adf52d34d709391b95add43de7eedefff',1,'spell_quest.cpp']]],

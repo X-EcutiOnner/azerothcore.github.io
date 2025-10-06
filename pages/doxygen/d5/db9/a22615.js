@@ -1,9 +1,7 @@
 var a22615 =
 [
-    [ "HandleFinish", "d5/db9/a22615.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
-    [ "Load", "d5/db9/a22615.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
-    [ "PrepareSpellScript", "d5/db9/a22615.html#a8326b3f9f78aab65225e81d274cc37df", null ],
-    [ "Register", "d5/db9/a22615.html#a749858f56e15a0bb6074d15ba166625d", null ],
-    [ "Validate", "d5/db9/a22615.html#a64005c52e7112c466f6206b7f6c847c0", null ],
-    [ "handled", "d5/db9/a22615.html#a7afe3007a016cb553f437544f8fd6f89", null ]
+    [ "HandleScript", "d5/db9/a22615.html#a1811115f1732912bdfaeeb8272db2304", null ],
+    [ "PrepareSpellScript", "d5/db9/a22615.html#a50c24464dd88717bf78971d679715d7b", null ],
+    [ "Register", "d5/db9/a22615.html#ab48b37db40865d60d7cda3260ec15ba8", null ],
+    [ "Validate", "d5/db9/a22615.html#a0f0e4621965ea7ed7a108bca6d232ad0", null ]
 ];

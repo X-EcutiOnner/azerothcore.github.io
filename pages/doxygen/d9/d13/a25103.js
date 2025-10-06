@@ -1,5 +1,6 @@
 var a25103 =
 [
-    [ "PrepareSpellScript", "d9/d13/a25103.html#a2d0e411f3b4a9efed35ee34c7bf03252", null ],
-    [ "Register", "d9/d13/a25103.html#a560ff22e718e8a975a2e2dc2340da917", null ]
+    [ "CheckProc", "d9/d13/a25103.html#af742bdfd97c9202d50ed7aa1cf8e7d49", null ],
+    [ "PrepareAuraScript", "d9/d13/a25103.html#a255a58ad99059ba28ab09a94e7cc683a", null ],
+    [ "Register", "d9/d13/a25103.html#a4ec4dd2342a5b75c975dc6ffe0b02b79", null ]
 ];

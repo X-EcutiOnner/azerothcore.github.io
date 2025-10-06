@@ -1,8 +1,6 @@
 var a22855 =
 [
-    [ "boss_tavarok", "d0/de6/a22855.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
-    [ "JustDied", "d0/de6/a22855.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
-    [ "JustEngagedWith", "d0/de6/a22855.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
-    [ "KilledUnit", "d0/de6/a22855.html#a2c99df9457c548ee562fde920592ea88", null ],
-    [ "Reset", "d0/de6/a22855.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
+    [ "instance_mana_tombs_InstanceMapScript", "d0/d57/a22859.html", "d0/d57/a22859" ],
+    [ "instance_mana_tombs", "d0/de6/a22855.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
+    [ "GetInstanceScript", "d0/de6/a22855.html#a26e4dad0957df886bc446396ab48ceda", null ]
 ];

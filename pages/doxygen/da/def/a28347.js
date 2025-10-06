@@ -1,8 +1,5 @@
 var a28347 =
 [
-    [ "ID", "da/def/a28347.html#a36958c346c8554d9ab1cfb73ac583818", null ],
-    [ "Model", "da/def/a28347.html#a8877a066a16c8c246a2d5a24a3661e56", null ],
-    [ "Origin", "da/def/a28347.html#a684c69add50ee545ee606ae456a93336", null ],
-    [ "OriginFacing", "da/def/a28347.html#a460723250353c7720cd87677991283cf", null ],
-    [ "SoundID", "da/def/a28347.html#aa56be05c7ab4015738e049d75ff365c6", null ]
+    [ "cinematicCamera", "da/def/a28347.html#a87e5f6de255dc0c75423eace2768a1dc", null ],
+    [ "Id", "da/def/a28347.html#a9c3dc0e60728c1c76594385d6860f265", null ]
 ];

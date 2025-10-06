@@ -1,6 +1,6 @@
 var a02162 =
 [
-    [ "boss_dalliah_the_doomsayer", "d9/d6c/a23935.html", "d9/d6c/a23935" ],
+    [ "boss_dalliah_the_doomsayer", "d3/d36/a23931.html", "d3/d36/a23931" ],
     [ "Say", "d7/d26/a02162.html#aa58e311eb19c72984d1fb3bcf9ae2a68", [
       [ "SAY_AGGRO", "d8/d33/a03629.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_LEASH", "d8/d33/a03629.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7d67e29b0f8ef4c0df41e318ab764d9a", null ],
@@ -1782,6 +1782,7 @@ var a02162 =
       [ "SPELL_MOJO_WAVE", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cab22bbe5a324eae4e259ef8f4203daa0f", null ],
       [ "SPELL_FREEZE_ANIM", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca09463e66b152e3f856401806af0a4823", null ],
       [ "SPELL_MIGHTY_BLOW", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cae9c68ac99f2257b412925e1b55e98716", null ],
+      [ "SPELL_MORTAL_STRIKE", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca7794ace87705e2898f8b60f1f5228110", null ],
       [ "SPELL_ELEMENTAL_SPAWN_EFFECT", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca18e4e60be7a579f1442812409346316b", null ],
       [ "SPELL_EMERGE", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca35b4bf2fdacd2ed7ad6bd7f098ea58b3", null ],
       [ "SPELL_EMERGE_SUMMON", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cafe9d130c476fedbca0b895da0481c403", null ],

@@ -1,6 +1,7 @@
 var a24515 =
 [
-    [ "PrepareSpellScript", "d9/d5c/a24515.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
-    [ "Register", "d9/d5c/a24515.html#ac57aee08a131bcf7db11bc105f32242c", null ],
-    [ "SetDest", "d9/d5c/a24515.html#a26362c4873890bb60c2526bf07058746", null ]
+    [ "HandleEffectRemove", "d9/d5c/a24515.html#a63c0fede080591df9ebf8b3de2cd2fc3", null ],
+    [ "PrepareAuraScript", "d9/d5c/a24515.html#a19ce53b5731b0789896612fa55f38849", null ],
+    [ "Register", "d9/d5c/a24515.html#a7d60c5b18bbf77a18ab683a101782ada", null ],
+    [ "Validate", "d9/d5c/a24515.html#ae3c3c1bce38882cd5de32295813b1a47", null ]
 ];

@@ -1,7 +1,7 @@
 var a25439 =
 [
-    [ "PrepareSpellScript", "dd/d6d/a25439.html#a65d5717a25e371e09c44148c679dd390", null ],
-    [ "Register", "dd/d6d/a25439.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
-    [ "RemoveInvalidTargets", "dd/d6d/a25439.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
-    [ "Validate", "dd/d6d/a25439.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
+    [ "CalculateAmount", "dd/d6d/a25439.html#a074a7de6cd4d930c1f23f6398c738bad", null ],
+    [ "Load", "dd/d6d/a25439.html#a777803a61286e0eba31246d4771630df", null ],
+    [ "PrepareAuraScript", "dd/d6d/a25439.html#ab76bc3927d3ce31ae061fe8577ca25f0", null ],
+    [ "Register", "dd/d6d/a25439.html#a335e1629b98bfacf6e4e565b94d4991e", null ]
 ];

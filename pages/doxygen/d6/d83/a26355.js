@@ -1,7 +1,8 @@
 var a26355 =
 [
-    [ "HandleScriptEffect", "d6/d83/a26355.html#a6c1ac025fa93caa08737387a18003612", null ],
-    [ "PrepareSpellScript", "d6/d83/a26355.html#acb5ad05212399b06ed9bb64bb9203069", null ],
-    [ "Register", "d6/d83/a26355.html#afbf989d514c308f466ecfd9957d2d177", null ],
-    [ "Validate", "d6/d83/a26355.html#a2f48b1903edef1a5bb8beeddc8879aa4", null ]
+    [ "Load", "d6/d83/a26355.html#a7662d85a5469c20edf6d2eefca820db3", null ],
+    [ "PrepareAuraScript", "d6/d83/a26355.html#a252bd975a7639eab4e151249db974b7c", null ],
+    [ "Register", "d6/d83/a26355.html#a51723a22f1062f44e8eb6848e1398595", null ],
+    [ "Split", "d6/d83/a26355.html#a08e982eae6030fdc679663bfd38bca47", null ],
+    [ "remainingAmount", "d6/d83/a26355.html#afaab88988769ddc720deb44f06de3d7d", null ]
 ];

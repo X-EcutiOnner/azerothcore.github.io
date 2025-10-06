@@ -1,8 +1,8 @@
 var a27951 =
 [
-    [ "npc_minion_spawner", "d2/d7a/a27951.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
-    [ "CanSpawnRareMinion", "d2/d7a/a27951.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
-    [ "JustSummoned", "d2/d7a/a27951.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
-    [ "Reset", "d2/d7a/a27951.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
-    [ "UpdateAI", "d2/d7a/a27951.html#a24f93f1314bb73edb369e188eda83104", null ]
+    [ "npc_cultist_engineer", "d2/d7a/a27951.html#a02675a96d20902d147b0370fa1715d81", null ],
+    [ "JustDied", "d2/d7a/a27951.html#a4b4d561f827553998caa204e0e1b9e54", null ],
+    [ "Reset", "d2/d7a/a27951.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
+    [ "sGossipSelect", "d2/d7a/a27951.html#ab26d124cbfdc4d649fef6058e9637845", null ],
+    [ "UpdateAI", "d2/d7a/a27951.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
 ];

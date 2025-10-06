@@ -1,5 +1,5 @@
 var a27327 =
 [
-    [ "AreaTrigger_at_last_rites", "d8/d05/a27327.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
-    [ "OnTrigger", "d8/d05/a27327.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
+    [ "AreaTrigger_at_nats_landing", "d8/d05/a27327.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
+    [ "OnTrigger", "d8/d05/a27327.html#a67434f74300fa3463e679afb7d344467", null ]
 ];

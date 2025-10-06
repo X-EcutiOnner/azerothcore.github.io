@@ -1,6 +1,6 @@
 var a02201 =
 [
-    [ "boss_high_botanist_freywinn", "df/deb/a23971.html", "df/deb/a23971" ],
+    [ "boss_high_botanist_freywinn", "d1/ddc/a23967.html", "d1/ddc/a23967" ],
     [ "Npcs", "dd/d14/a02201.html#a213e9ce155baf17b6147afe6a069d54d", [
       [ "NPC_TM_GUARDSMAN", "d5/d73/a02423.html#a213e9ce155baf17b6147afe6a069d54da21f261d22a0cd419e2febe6c2604502e", null ],
       [ "NPC_TM_PROTECTOR", "d5/d73/a02423.html#a213e9ce155baf17b6147afe6a069d54da78f045556089f7be512b4bc38abc558f", null ],
@@ -2302,6 +2302,7 @@ var a02201 =
       [ "SPELL_MOJO_WAVE", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cab22bbe5a324eae4e259ef8f4203daa0f", null ],
       [ "SPELL_FREEZE_ANIM", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca09463e66b152e3f856401806af0a4823", null ],
       [ "SPELL_MIGHTY_BLOW", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cae9c68ac99f2257b412925e1b55e98716", null ],
+      [ "SPELL_MORTAL_STRIKE", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca7794ace87705e2898f8b60f1f5228110", null ],
       [ "SPELL_ELEMENTAL_SPAWN_EFFECT", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca18e4e60be7a579f1442812409346316b", null ],
       [ "SPELL_EMERGE", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca35b4bf2fdacd2ed7ad6bd7f098ea58b3", null ],
       [ "SPELL_EMERGE_SUMMON", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cafe9d130c476fedbca0b895da0481c403", null ],

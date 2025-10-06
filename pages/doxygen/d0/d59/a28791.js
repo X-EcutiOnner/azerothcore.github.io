@@ -1,13 +1,11 @@
 var a28791 =
 [
-    [ "Secret", "d5/d0b/a28795.html", "d5/d0b/a28795" ],
-    [ "SecretMgr", "d0/d59/a28791.html#a28ee0858a14656d7fc464eb604b127b7", null ],
-    [ "~SecretMgr", "d0/d59/a28791.html#ae6f15def262312b17456583b4e548d99", null ],
-    [ "SecretMgr", "d0/d59/a28791.html#ab48b891b84f116dc5efffe0a10a82f79", null ],
-    [ "AttemptLoad", "d0/d59/a28791.html#a65c2fd304c0f851f81cd80037deac8fb", null ],
-    [ "AttemptTransition", "d0/d59/a28791.html#a4b6cbe75e50ec3e4765fdb9e965ee84f", null ],
-    [ "GetSecret", "d0/d59/a28791.html#aff0b6ca546a62a3d6e7da52c3a2752bd", null ],
-    [ "Initialize", "d0/d59/a28791.html#a929de7b687d7c6bb91ef35306134ebac", null ],
-    [ "instance", "d0/d59/a28791.html#a27e237503dc523367fa94bd28a289d97", null ],
-    [ "_secrets", "d0/d59/a28791.html#a143bb8b3855a9f28df72abc9cfc94f3c", null ]
+    [ "IsAvailable", "d0/d59/a28791.html#adfebd7a162ebae8396669de031c768a6", null ],
+    [ "operator bool", "d0/d59/a28791.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
+    [ "operator*", "d0/d59/a28791.html#a24733bf06b4a91abcf4945aa5303a275", null ],
+    [ "operator->", "d0/d59/a28791.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
+    [ "SecretMgr", "d0/d59/a28791.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
+    [ "lock", "d0/d59/a28791.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
+    [ "state", "d0/d59/a28791.html#ad5c4eb66bfdb78d40bc8cdacd34a257b", null ],
+    [ "value", "d0/d59/a28791.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
 ];

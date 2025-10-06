@@ -1,6 +1,6 @@
 var a26303 =
 [
-    [ "HandleRemove", "de/d76/a26303.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
-    [ "PrepareAuraScript", "de/d76/a26303.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
-    [ "Register", "de/d76/a26303.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
+    [ "CheckProc", "de/d76/a26303.html#a0f1461140b08deac3f044142067368e7", null ],
+    [ "PrepareAuraScript", "de/d76/a26303.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
+    [ "Register", "de/d76/a26303.html#a05e31c2252c9054a18b4267be84895b9", null ]
 ];

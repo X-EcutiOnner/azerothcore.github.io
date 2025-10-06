@@ -1,7 +1,9 @@
 var a23967 =
 [
-    [ "HandleCast", "d1/ddc/a23967.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
-    [ "PrepareSpellScript", "d1/ddc/a23967.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
-    [ "Register", "d1/ddc/a23967.html#a6ae0573ea69573df64cd57ba84f99918", null ],
-    [ "Validate", "d1/ddc/a23967.html#ab5794ca5c0863ce40194ed40e156279a", null ]
+    [ "boss_high_botanist_freywinn", "d1/ddc/a23967.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
+    [ "JustDied", "d1/ddc/a23967.html#a7b370482ea195d0305cba339ce0cbab3", null ],
+    [ "JustEngagedWith", "d1/ddc/a23967.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
+    [ "KilledUnit", "d1/ddc/a23967.html#a80a997e0d12c175da0a46d7362890b9c", null ],
+    [ "ResumeEncounter", "d1/ddc/a23967.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
+    [ "SummonedCreatureDies", "d1/ddc/a23967.html#a7f1a02d4b944191471f59ba728b6372e", null ]
 ];

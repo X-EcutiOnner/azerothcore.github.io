@@ -1,8 +1,9 @@
 var a22543 =
 [
-    [ "npc_hyldsmeet_protodrakeAI", "d6/d58/a22543.html#a30794392a32b1323fb0a86615b341741", null ],
-    [ "PassengerBoarded", "d6/d58/a22543.html#acb699d519bf79702a34b7d9910fe7c9e", null ],
-    [ "UpdateAI", "d6/d58/a22543.html#afd2168f8dc7328898f5e769c31c6da5a", null ],
-    [ "_accessoryRespawnTimer", "d6/d58/a22543.html#a4c6b4236bf35278d05c4b78f1eda6b75", null ],
-    [ "_vehicleKit", "d6/d58/a22543.html#aba68a138ef44af7d012c8c7dd4c06c6d", null ]
+    [ "HandlePeriodic", "d6/d58/a22543.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "d6/d58/a22543.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "d6/d58/a22543.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "d6/d58/a22543.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "d6/d58/a22543.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "d6/d58/a22543.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

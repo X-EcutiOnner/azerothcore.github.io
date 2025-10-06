@@ -1,16 +1,14 @@
 var a29938 =
 [
-    [ "IsContestedGuardFaction", "db/d94/a29938.html#a52d5e1e5b01946a3d6d66158910e9f6d", null ],
-    [ "IsFriendlyTo", "db/d94/a29938.html#ac70cef62b2ec646d593d8742a3c02f08", null ],
-    [ "IsHostileTo", "db/d94/a29938.html#a1aadbf23c1c81a958665d96e5bf76093", null ],
-    [ "IsHostileToPlayers", "db/d94/a29938.html#a349650c7af717e3c67392a0b9d1970e1", null ],
-    [ "IsNeutralToAll", "db/d94/a29938.html#a99cb471bcc9071a3c152266caa4579ae", null ],
-    [ "enemyFaction", "db/d94/a29938.html#ae53f6799be5ae4bf7ab047fd97a4a969", null ],
-    [ "faction", "db/d94/a29938.html#a2cb03ed38c15f6e6db7b556200282541", null ],
-    [ "factionFlags", "db/d94/a29938.html#af20e4983d34c419b4a14c60d8049d9f4", null ],
-    [ "friendFaction", "db/d94/a29938.html#a9c89b58067e28de89cedf2572b5e0e31", null ],
-    [ "friendlyMask", "db/d94/a29938.html#a6842badfb5e7e0ad3a26d250426c64b6", null ],
-    [ "hostileMask", "db/d94/a29938.html#ab395ab86c3e553ea4a9b1ae901c6e7cb", null ],
-    [ "ID", "db/d94/a29938.html#a22657898486c71df39da27b968e405d5", null ],
-    [ "ourMask", "db/d94/a29938.html#a822685376430441eeb85c24fd26473b0", null ]
+    [ "file_MVER", "de/dd7/a28943.html", "de/dd7/a28943" ],
+    [ "FileLoader", "de/df9/a28951.html", "de/df9/a28951" ],
+    [ "FILE_FORMAT_VERSION", "db/d94/a29938.html#a82680783457cdcbe83db9eefe68f8a9b", null ],
+    [ "int16", "db/d94/a29938.html#aa0d0fdc87fd135ef2bedb030901cdb9c", null ],
+    [ "int32", "db/d94/a29938.html#ab7903878916593daecbeb95b98115ab0", null ],
+    [ "int64", "db/d94/a29938.html#a7cde0074dfd288f2d70c0e035dacb28a", null ],
+    [ "int8", "db/d94/a29938.html#aa79c2d3de4fcd200458c406f40b2ae64", null ],
+    [ "uint16", "db/d94/a29938.html#ac2a9e79eb120216f855626495b7bd18a", null ],
+    [ "uint32", "db/d94/a29938.html#acbd4acd0d29e2d6c43104827f77d9cd2", null ],
+    [ "uint64", "db/d94/a29938.html#abc0f5bc07737e498f287334775dff2b6", null ],
+    [ "uint8", "db/d94/a29938.html#a33a5e996e7a90acefb8b1c0bea47e365", null ]
 ];

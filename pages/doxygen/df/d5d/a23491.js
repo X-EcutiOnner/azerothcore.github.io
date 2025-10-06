@@ -1,9 +1,10 @@
 var a23491 =
 [
-    [ "CalcPeriodic", "df/d5d/a23491.html#a4c5a034d23253b2cf08cb86f12821184", null ],
-    [ "HandleEffectApply", "df/d5d/a23491.html#af60491946062054504b20e16273ed594", null ],
-    [ "HandleEffectRemove", "df/d5d/a23491.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
-    [ "HandlePeriodic", "df/d5d/a23491.html#a5137e24394fa14129c44d92c79eef117", null ],
-    [ "PrepareAuraScript", "df/d5d/a23491.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
-    [ "Register", "df/d5d/a23491.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
+    [ "Spells", "df/d5d/a23491.html#a70ca1841fb1db54e6f76b96331e05cf1", [
+      [ "SPELL_GROW", "df/d5d/a23491.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
+      [ "SPELL_SPORE_CLOUD", "df/d5d/a23491.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
+    ] ],
+    [ "npc_rancid_mushroom", "df/d5d/a23491.html#a15896957b94de57de9eda5a199a05d4c", null ],
+    [ "InitializeAI", "df/d5d/a23491.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
+    [ "UpdateAI", "df/d5d/a23491.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
 ];

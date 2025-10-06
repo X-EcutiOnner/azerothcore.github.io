@@ -1,8 +1,8 @@
 var a23739 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "db/d32/a23739.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "db/d32/a23739.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "db/d32/a23739.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "db/d32/a23739.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "db/d32/a23739.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "boss_broggok", "db/d32/a23739.html#ae20c04793116d3e8eab62d2ee27010df", null ],
+    [ "DoAction", "db/d32/a23739.html#af5de5a1747c502f72af015c09d050354", null ],
+    [ "JustEngagedWith", "db/d32/a23739.html#a084e3c37a0218d47c8e39b196fc6746a", null ],
+    [ "JustSummoned", "db/d32/a23739.html#a0bf2d75f7889542a9e48689b8d080a1e", null ],
+    [ "Reset", "db/d32/a23739.html#af11b4dc2aee8064a1eaad334d93e6de0", null ]
 ];

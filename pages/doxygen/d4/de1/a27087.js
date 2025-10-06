@@ -1,7 +1,8 @@
 var a27087 =
 [
-    [ "HandleDispel", "d4/de1/a27087.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
-    [ "PrepareAuraScript", "d4/de1/a27087.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
-    [ "Register", "d4/de1/a27087.html#a2c67e4327fdd034978d4822311632980", null ],
-    [ "Validate", "d4/de1/a27087.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
+    [ "Load", "d4/de1/a27087.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
+    [ "OnRemove", "d4/de1/a27087.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
+    [ "PrepareAuraScript", "d4/de1/a27087.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
+    [ "Register", "d4/de1/a27087.html#a932760326c822f1b47df1afdec6bb9cb", null ],
+    [ "Validate", "d4/de1/a27087.html#a69bcfedb7f566c572201aadc9e75df08", null ]
 ];

@@ -1,6 +1,7 @@
 var a22563 =
 [
-    [ "CheckCast", "d1/d91/a22563.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
-    [ "PrepareSpellScript", "d1/d91/a22563.html#ab4025d8a4acee4723dcca972bce01f45", null ],
-    [ "Register", "d1/d91/a22563.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
+    [ "npc_wg_demolisher_engineer", "d1/d91/a22563.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "d1/d91/a22563.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "d1/d91/a22563.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "d1/d91/a22563.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

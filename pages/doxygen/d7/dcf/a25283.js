@@ -1,8 +1,6 @@
 var a25283 =
 [
-    [ "CheckRequirement", "d7/dcf/a25283.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
-    [ "HandleScript", "d7/dcf/a25283.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
-    [ "Load", "d7/dcf/a25283.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
-    [ "PrepareSpellScript", "d7/dcf/a25283.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
-    [ "Register", "d7/dcf/a25283.html#a89d053e0ee793017c74188aac32d99d5", null ]
+    [ "HandleScriptEffect", "d7/dcf/a25283.html#a514697f3fdcbf9274453d6d71c0c4816", null ],
+    [ "PrepareSpellScript", "d7/dcf/a25283.html#a5bcff624e9a396a2f90115dc99d93ae9", null ],
+    [ "Register", "d7/dcf/a25283.html#aebcc23e4f4a1c5ab90fb06a47755ec2b", null ]
 ];

@@ -1,7 +1,7 @@
 var a28631 =
 [
-    [ "ID", "d9/dfe/a28631.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
-    [ "RadiusMax", "d9/dfe/a28631.html#ab82c1acb9309b17104958182d80b01d1", null ],
-    [ "RadiusMin", "d9/dfe/a28631.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
-    [ "RadiusPerLevel", "d9/dfe/a28631.html#a74bb59afb808af45ceff6367468fca1e", null ]
+    [ "Flags", "d9/dfe/a28631.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
+    [ "ID", "d9/dfe/a28631.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
+    [ "RangeMax", "d9/dfe/a28631.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
+    [ "RangeMin", "d9/dfe/a28631.html#a127a46f2382edea750ca567d5ea3d304", null ]
 ];

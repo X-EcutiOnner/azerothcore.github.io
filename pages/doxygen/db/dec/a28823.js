@@ -1,11 +1,12 @@
 var a28823 =
 [
-    [ "SetUp", "db/dec/a28823.html#abb28ef64461635a540dad471b7b12ebc", null ],
-    [ "TearDown", "db/dec/a28823.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
-    [ "_previousWorld", "db/dec/a28823.html#a2633d21816e5aa3e4a649292f07a3369", null ],
-    [ "_worldMock", "db/dec/a28823.html#ae1629c69438e29ea7be460120132b68b", null ],
-    [ "arenaTeams", "db/dec/a28823.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
-    [ "team1", "db/dec/a28823.html#a325d8058950e53d17e16fd90cd105776", null ],
-    [ "team2", "db/dec/a28823.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
-    [ "team3", "db/dec/a28823.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
+    [ "TestVisibilityScript", "db/dec/a28823.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
+    [ "EnsureRegistered", "db/dec/a28823.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
+    [ "OnPlayerSetServerSideVisibility", "db/dec/a28823.html#a6b3701188303b644b28a52ec42bec846", null ],
+    [ "Reset", "db/dec/a28823.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
+    [ "CallCount", "db/dec/a28823.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
+    [ "Instance", "db/dec/a28823.html#adcf0326aa1e32db109ec920857868138", null ],
+    [ "LastPlayer", "db/dec/a28823.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
+    [ "LastSecurity", "db/dec/a28823.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
+    [ "LastType", "db/dec/a28823.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
 ];

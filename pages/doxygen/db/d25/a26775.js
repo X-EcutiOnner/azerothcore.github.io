@@ -1,6 +1,6 @@
 var a26775 =
 [
-    [ "PrepareAuraScript", "db/d25/a26775.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
-    [ "Register", "db/d25/a26775.html#a91f4b2b8796c7efab2f622893a393619", null ],
-    [ "AuraEffectHandleModes", "db/d25/a26775.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
+    [ "HandleFinish", "db/d25/a26775.html#ac4c50220d86f809644e339fc578d9b4a", null ],
+    [ "PrepareSpellScript", "db/d25/a26775.html#a5a14594ed93150e34626a7e0edb8171b", null ],
+    [ "Register", "db/d25/a26775.html#a9d28a3b88d57e2f89921d59f56148f74", null ]
 ];

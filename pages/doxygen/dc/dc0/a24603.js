@@ -1,6 +1,16 @@
 var a24603 =
 [
-    [ "achievement", "dc/dc0/a24603.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "dc/dc0/a24603.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "dc/dc0/a24603.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "npc_pet_gen_argent_pony_bridle", "dc/dc0/a24603.html#a9df25627a92b8914ab8009be099f15d4", null ],
+    [ "DoAction", "dc/dc0/a24603.html#a4c08ed385886a118c165925602b1dff7", null ],
+    [ "EnterEvadeMode", "dc/dc0/a24603.html#a897e72a4bf279607903bce58a5a45c6f", null ],
+    [ "GetData", "dc/dc0/a24603.html#a862546ec66d8282c87169305711e4ec7", null ],
+    [ "OnGossipHello", "dc/dc0/a24603.html#a35cfcfd3418295bcb1140d1b8b8266ab", null ],
+    [ "OnGossipSelect", "dc/dc0/a24603.html#a36f15c2c0ec3466b492148303e828403", null ],
+    [ "Reset", "dc/dc0/a24603.html#a4d885f00ea1b6b97270d41f2583bd0dc", null ],
+    [ "UpdateAI", "dc/dc0/a24603.html#a1172dbd471ee8f05f25ff77dc222a61d", null ],
+    [ "_banners", "dc/dc0/a24603.html#aeda5ce6c8f4f37ce7a4630c06586cde1", null ],
+    [ "_init", "dc/dc0/a24603.html#a8a7dd73d9d3af5ca00998735e45ee7e8", null ],
+    [ "_lastAura", "dc/dc0/a24603.html#a4abeb86eb0179a77d47d737d67495411", null ],
+    [ "_mountTimer", "dc/dc0/a24603.html#a38253b6d1e1f7fb8fc3fdccb2522a090", null ],
+    [ "_state", "dc/dc0/a24603.html#ae57f97ca9a08353e8ec8ebfadbd51541", null ]
 ];

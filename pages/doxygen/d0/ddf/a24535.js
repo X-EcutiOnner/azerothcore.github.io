@@ -1,7 +1,7 @@
 var a24535 =
 [
-    [ "HandleSendEvent", "d0/ddf/a24535.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "d0/ddf/a24535.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "d0/ddf/a24535.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "d0/ddf/a24535.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "HandlePeriodic", "d0/ddf/a24535.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
+    [ "PrepareAuraScript", "d0/ddf/a24535.html#a58dc6668172d046cef3046649928c124", null ],
+    [ "Register", "d0/ddf/a24535.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
+    [ "Validate", "d0/ddf/a24535.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
 ];

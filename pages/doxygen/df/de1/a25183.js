@@ -1,6 +1,8 @@
 var a25183 =
 [
-    [ "HandleOnEffectHit", "df/de1/a25183.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "df/de1/a25183.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "df/de1/a25183.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "HandleEffectCalcPeriodic", "df/de1/a25183.html#a78c46695cab8da2280686ea49d88f036", null ],
+    [ "HandleEffectPeriodic", "df/de1/a25183.html#a65b8a9dcd836cb538d5d2bec3d03d4a2", null ],
+    [ "HandleOnEffectRemove", "df/de1/a25183.html#af722cf30e478802784178a9346bd1bdd", null ],
+    [ "PrepareAuraScript", "df/de1/a25183.html#a6352d1ab3dd67efd9be171f7db20a62d", null ],
+    [ "Register", "df/de1/a25183.html#ae6c2b365463345c71ed1a4acdee04a15", null ]
 ];

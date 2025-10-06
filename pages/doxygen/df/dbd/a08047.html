@@ -185,10 +185,10 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  554</span>: <a class="code hl_function" href="../../d4/da8/a05511.html#a9c3cd17edab7fc410f88bb680d756975">BasicEvent</a>(), <a class="code hl_variable" href="../../df/dbd/a08047.html#aa4fa09703f39ae8bbe0b7483a27d9cc3">m_owner</a>(owner), <a class="code hl_variable" href="../../df/dbd/a08047.html#a5db78930a1fda07f2020b23158ebb93d">m_respawnTimer</a>(respawnTimer) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  550</span>: <a class="code hl_function" href="../../d4/da8/a05511.html#a9c3cd17edab7fc410f88bb680d756975">BasicEvent</a>(), <a class="code hl_variable" href="../../df/dbd/a08047.html#aa4fa09703f39ae8bbe0b7483a27d9cc3">m_owner</a>(owner), <a class="code hl_variable" href="../../df/dbd/a08047.html#a5db78930a1fda07f2020b23158ebb93d">m_respawnTimer</a>(respawnTimer) { }</div>
 <div class="ttc" id="aa05511_html_a9c3cd17edab7fc410f88bb680d756975"><div class="ttname"><a href="../../d4/da8/a05511.html#a9c3cd17edab7fc410f88bb680d756975">BasicEvent::BasicEvent</a></div><div class="ttdeci">BasicEvent()=default</div></div>
-<div class="ttc" id="aa08047_html_a5db78930a1fda07f2020b23158ebb93d"><div class="ttname"><a href="../../df/dbd/a08047.html#a5db78930a1fda07f2020b23158ebb93d">ForcedDespawnDelayEvent::m_respawnTimer</a></div><div class="ttdeci">Seconds const m_respawnTimer</div><div class="ttdef"><b>Definition:</b> Creature.h:559</div></div>
-<div class="ttc" id="aa08047_html_aa4fa09703f39ae8bbe0b7483a27d9cc3"><div class="ttname"><a href="../../df/dbd/a08047.html#aa4fa09703f39ae8bbe0b7483a27d9cc3">ForcedDespawnDelayEvent::m_owner</a></div><div class="ttdeci">Creature &amp; m_owner</div><div class="ttdef"><b>Definition:</b> Creature.h:558</div></div>
+<div class="ttc" id="aa08047_html_a5db78930a1fda07f2020b23158ebb93d"><div class="ttname"><a href="../../df/dbd/a08047.html#a5db78930a1fda07f2020b23158ebb93d">ForcedDespawnDelayEvent::m_respawnTimer</a></div><div class="ttdeci">Seconds const m_respawnTimer</div><div class="ttdef"><b>Definition:</b> Creature.h:555</div></div>
+<div class="ttc" id="aa08047_html_aa4fa09703f39ae8bbe0b7483a27d9cc3"><div class="ttname"><a href="../../df/dbd/a08047.html#aa4fa09703f39ae8bbe0b7483a27d9cc3">ForcedDespawnDelayEvent::m_owner</a></div><div class="ttdeci">Creature &amp; m_owner</div><div class="ttdef"><b>Definition:</b> Creature.h:554</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -232,9 +232,9 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  254</span>    <a class="code hl_variable" href="../../df/dbd/a08047.html#aa4fa09703f39ae8bbe0b7483a27d9cc3">m_owner</a>.<a class="code hl_function" href="../../dd/dfa/a08035.html#abce66404f36b926cf403555911bcb9f7">DespawnOrUnsummon</a>(0s, <a class="code hl_variable" href="../../df/dbd/a08047.html#a5db78930a1fda07f2020b23158ebb93d">m_respawnTimer</a>);    <span class="comment">// since we are here, we are not TempSummon as object type cannot change during runtime</span></div>
 <div class="line"><span class="lineno">  255</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  256</span>}</div>
-<div class="ttc" id="aa08035_html_abce66404f36b926cf403555911bcb9f7"><div class="ttname"><a href="../../dd/dfa/a08035.html#abce66404f36b926cf403555911bcb9f7">Creature::DespawnOrUnsummon</a></div><div class="ttdeci">void DespawnOrUnsummon(Milliseconds msTimeToDespawn, Seconds forcedRespawnTimer)</div><div class="ttdef"><b>Definition:</b> Creature.cpp:2180</div></div>
+<div class="ttc" id="aa08035_html_abce66404f36b926cf403555911bcb9f7"><div class="ttname"><a href="../../dd/dfa/a08035.html#abce66404f36b926cf403555911bcb9f7">Creature::DespawnOrUnsummon</a></div><div class="ttdeci">void DespawnOrUnsummon(Milliseconds msTimeToDespawn, Seconds forcedRespawnTimer)</div><div class="ttdef"><b>Definition:</b> Creature.cpp:2182</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02180">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00558">m_owner</a>, and <a class="el" href="../../#l00559">m_respawnTimer</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02182">Creature::DespawnOrUnsummon()</a>, <a class="el" href="../../#l00554">m_owner</a>, and <a class="el" href="../../#l00555">m_respawnTimer</a>.</p>
 
 </div>
 </div>
@@ -293,7 +293,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/dbd/a08047.html">ForcedDespawnDelayEvent</a></li>
-    <li class="footer">Generated on Mon Sep 29 2025 20:46:59 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Oct 6 2025 20:45:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

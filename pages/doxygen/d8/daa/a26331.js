@@ -1,10 +1,9 @@
 var a26331 =
 [
-    [ "Load", "d8/daa/a26331.html#a4330a13b4144aa0a2e299c5cb00b1aea", null ],
-    [ "PrepareAuraScript", "d8/daa/a26331.html#ae04fa1b54e4b0219d1dcdf998e708c29", null ],
-    [ "Register", "d8/daa/a26331.html#a3031d32b7366f7f707cbb69e3cb96fc8", null ],
-    [ "Split", "d8/daa/a26331.html#aa28fe4ba6a8a501318b6d1d49a2fa9b9", null ],
-    [ "groupSize", "d8/daa/a26331.html#aa1e61b128f63c802dc623be551657df1", null ],
-    [ "minHpPct", "d8/daa/a26331.html#a279f1a2b232a7be981e4315c9e8595e4", null ],
-    [ "remainingAmount", "d8/daa/a26331.html#ad00a550f82d6b3ae77c3112c753de60b", null ]
+    [ "Load", "d8/daa/a26331.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
+    [ "PrepareSpellScript", "d8/daa/a26331.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
+    [ "Register", "d8/daa/a26331.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
+    [ "TriggerHeal", "d8/daa/a26331.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
+    [ "Validate", "d8/daa/a26331.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
+    [ "healPct", "d8/daa/a26331.html#a33b4d26c34903e45b7274e369f096ce1", null ]
 ];

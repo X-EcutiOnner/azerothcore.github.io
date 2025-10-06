@@ -1,6 +1,7 @@
 var a27099 =
 [
-    [ "CalculateAmount", "df/d93/a27099.html#aa27de1a2fc517a4b796a10e780239880", null ],
-    [ "PrepareAuraScript", "df/d93/a27099.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
-    [ "Register", "df/d93/a27099.html#a5ee969ad0916a9337849c75c18f13c29", null ]
+    [ "HandleProc", "df/d93/a27099.html#a2a1d6c4a6fdcfbb0ab34769649dbe321", null ],
+    [ "PrepareAuraScript", "df/d93/a27099.html#afa1f4cba7a02cb4a92a67c6e41d3349c", null ],
+    [ "Register", "df/d93/a27099.html#ae3711d9dff0acd196b1fae8e2285fb2a", null ],
+    [ "Validate", "df/d93/a27099.html#a77b31ab1d2952c5d77e8a1ca9cf18405", null ]
 ];

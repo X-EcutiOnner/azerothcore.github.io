@@ -1,6 +1,7 @@
 var a24203 =
 [
-    [ "npc_daranelleAI", "d4/dd1/a24207.html", "d4/dd1/a24207" ],
-    [ "npc_daranelle", "da/db2/a24203.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
-    [ "GetAI", "da/db2/a24203.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
+    [ "npc_daranelleAI", "da/db2/a24203.html#a49eeff6e0aea079a0375a92074227d12", null ],
+    [ "JustEngagedWith", "da/db2/a24203.html#aeff39dfd84986186057cdaf7632eed4f", null ],
+    [ "MoveInLineOfSight", "da/db2/a24203.html#a353e27c1485b88f0751a64260898d35b", null ],
+    [ "Reset", "da/db2/a24203.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
 ];

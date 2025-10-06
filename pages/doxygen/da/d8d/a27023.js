@@ -1,6 +1,7 @@
 var a27023 =
 [
-    [ "HandleBanish", "da/d8d/a27023.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "da/d8d/a27023.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "da/d8d/a27023.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "HandleScriptEffect", "da/d8d/a27023.html#a328c1ba6ccd98e25e477a3f784cb47ff", null ],
+    [ "PrepareSpellScript", "da/d8d/a27023.html#aa211032991d8fd11d574cb364533a515", null ],
+    [ "Register", "da/d8d/a27023.html#a13315f197f2e6975dca00b53cbc599d2", null ],
+    [ "Validate", "da/d8d/a27023.html#a3b752f07631223199ed7ac404ed1afed", null ]
 ];

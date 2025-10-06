@@ -1,8 +1,8 @@
 var a29908 =
 [
-    [ "DBCFile", "da/d6d/a28894.html", "da/d6d/a28894" ],
-    [ "DBCFile::Exception", "da/dcf/a28898.html", "da/dcf/a28898" ],
-    [ "DBCFile::NotFound", "dc/d97/a28902.html", "dc/d97/a28902" ],
-    [ "DBCFile::Record", "d5/d99/a28906.html", "d5/d99/a28906" ],
-    [ "DBCFile::Iterator", "d4/de3/a28910.html", "d4/de3/a28910" ]
+    [ "_ACORE_DB_IMPORT_CONFIG", "d6/da0/a29908.html#a97392c73658eeeb49d256527b19ad90f", null ],
+    [ "GetConsoleArguments", "d6/da0/a29908.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
+    [ "main", "d6/da0/a29908.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
+    [ "StartDB", "d6/da0/a29908.html#a1551df43a48f1dbf64dbec1e47b07eea", null ],
+    [ "StopDB", "d6/da0/a29908.html#a927af1587546ee7503a3b9a18f6439c0", null ]
 ];

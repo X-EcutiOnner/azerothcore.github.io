@@ -1,8 +1,8 @@
 var a01988 =
 [
-    [ "boss_broggok", "d1/db2/a23743.html", "d1/db2/a23743" ],
-    [ "go_broggok_lever", "d5/d51/a23747.html", "d5/d51/a23747" ],
-    [ "spell_broggok_poison_cloud", "d5/db6/a23751.html", "d5/db6/a23751" ],
+    [ "boss_broggok", "db/d32/a23739.html", "db/d32/a23739" ],
+    [ "go_broggok_lever", "d1/db2/a23743.html", "d1/db2/a23743" ],
+    [ "spell_broggok_poison_cloud", "d5/d51/a23747.html", "d5/d51/a23747" ],
     [ "Say", "d5/da1/a01988.html#aa58e311eb19c72984d1fb3bcf9ae2a68", [
       [ "SAY_AGGRO", "d8/d33/a03629.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_LEASH", "d8/d33/a03629.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7d67e29b0f8ef4c0df41e318ab764d9a", null ],
@@ -1784,6 +1784,7 @@ var a01988 =
       [ "SPELL_MOJO_WAVE", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cab22bbe5a324eae4e259ef8f4203daa0f", null ],
       [ "SPELL_FREEZE_ANIM", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca09463e66b152e3f856401806af0a4823", null ],
       [ "SPELL_MIGHTY_BLOW", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cae9c68ac99f2257b412925e1b55e98716", null ],
+      [ "SPELL_MORTAL_STRIKE", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca7794ace87705e2898f8b60f1f5228110", null ],
       [ "SPELL_ELEMENTAL_SPAWN_EFFECT", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca18e4e60be7a579f1442812409346316b", null ],
       [ "SPELL_EMERGE", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298ca35b4bf2fdacd2ed7ad6bd7f098ea58b3", null ],
       [ "SPELL_EMERGE_SUMMON", "d7/d6b/a02945.html#a5bd342133be8c2137b831460acc9298cafe9d130c476fedbca0b895da0481c403", null ],

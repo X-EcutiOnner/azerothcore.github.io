@@ -1,7 +1,6 @@
 var a22587 =
 [
-    [ "npc_wg_quest_giver", "da/d68/a22587.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "da/d68/a22587.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "da/d68/a22587.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "da/d68/a22587.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "npc_wg_siege_machineAI", "d7/d65/a22591.html", "d7/d65/a22591" ],
+    [ "npc_wg_siege_machine", "da/d68/a22587.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
+    [ "GetAI", "da/d68/a22587.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
 ];

@@ -1,5 +1,6 @@
 var a24583 =
 [
-    [ "npc_pet_dk_risen_ally", "d3/d6f/a24583.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
-    [ "OnCharmed", "d3/d6f/a24583.html#ac3927becc1ed929c384b3413bfee9330", null ]
+    [ "npc_pet_dk_army_of_the_dead", "d3/d6f/a24583.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
+    [ "InitializeAI", "d3/d6f/a24583.html#add16c667f3e614f9d6ceebbe17cf0515", null ],
+    [ "IsSummonedBy", "d3/d6f/a24583.html#a4f1acbbccd68c83a7c3ea14b26a56305", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: MockArenaSeasonTeamRewarder Class Reference</title>
+<title>AzerothCore: ArenaSeasonRewardDistributorTest Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,70 +105,208 @@ $(document).ready(function(){initNavTree('d3/d28/a28811.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
 <a href="../../d2/d01/a28808.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">MockArenaSeasonTeamRewarder Class Reference</div></div>
+  <div class="headertitle"><div class="title">ArenaSeasonRewardDistributorTest Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="dynheader">
-Inheritance diagram for MockArenaSeasonTeamRewarder:</div>
+Inheritance diagram for ArenaSeasonRewardDistributorTest:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../d3/d28/a28811.png" usemap="#MockArenaSeasonTeamRewarder_map" alt=""/>
-  <map id="MockArenaSeasonTeamRewarder_map" name="MockArenaSeasonTeamRewarder_map">
-<area href="../../d3/dd7/a07275.html" alt="ArenaSeasonTeamRewarder" shape="rect" coords="0,0,205,24"/>
-  </map>
-</div></div>
+  <img src="../../d3/d28/a28811.png" alt=""/>
+ </div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a423c022319fa9025b56db18cc27945b3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d28/a28811.html#a423c022319fa9025b56db18cc27945b3">MOCK_METHOD</a> (void, <a class="el" href="../../d3/dd7/a07275.html#a2beaf893f95e16c4d388ad048885848b">RewardTeamWithRewardGroup</a>,(<a class="el" href="../../d4/dcf/a07311.html">ArenaTeam</a> *arenaTeam, <a class="el" href="../../df/df8/a07267.html">ArenaSeasonRewardGroup</a> const &amp;rewardGroup),(override))</td></tr>
-<tr class="separator:a423c022319fa9025b56db18cc27945b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a07275"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a07275')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d3/dd7/a07275.html">ArenaSeasonTeamRewarder</a></td></tr>
-<tr class="memitem:a8f7eb844a39cd5213134ef4f4d4b1fde inherit pub_methods_a07275"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd7/a07275.html#a8f7eb844a39cd5213134ef4f4d4b1fde">~ArenaSeasonTeamRewarder</a> ()=default</td></tr>
-<tr class="separator:a8f7eb844a39cd5213134ef4f4d4b1fde inherit pub_methods_a07275"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2beaf893f95e16c4d388ad048885848b inherit pub_methods_a07275"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/dd7/a07275.html#a2beaf893f95e16c4d388ad048885848b">RewardTeamWithRewardGroup</a> (<a class="el" href="../../d4/dcf/a07311.html">ArenaTeam</a> *arenaTeam, <a class="el" href="../../df/df8/a07267.html">ArenaSeasonRewardGroup</a> const &amp;rewardGroup)=0</td></tr>
-<tr class="separator:a2beaf893f95e16c4d388ad048885848b inherit pub_methods_a07275"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
+Protected Member Functions</h2></td></tr>
+<tr class="memitem:a5ee46555116eca62d3e8320dd5a5fbbb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d28/a28811.html#a5ee46555116eca62d3e8320dd5a5fbbb">SetUp</a> () override</td></tr>
+<tr class="separator:a5ee46555116eca62d3e8320dd5a5fbbb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2a331c0ef77503c08c37e226a4e0a33b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d28/a28811.html#a2a331c0ef77503c08c37e226a4e0a33b">TearDown</a> () override</td></tr>
+<tr class="separator:a2a331c0ef77503c08c37e226a4e0a33b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:ad466c2751d8e9739db56f9f82d15deff"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d2/d8e/a28807.html">MockArenaSeasonTeamRewarder</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d28/a28811.html#ad466c2751d8e9739db56f9f82d15deff">_mockRewarder</a></td></tr>
+<tr class="separator:ad466c2751d8e9739db56f9f82d15deff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6c043c7543dec59e640b379aec1ad0d0"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d7/dba/a07283.html">ArenaSeasonRewardDistributor</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d28/a28811.html#a6c043c7543dec59e640b379aec1ad0d0">_distributor</a></td></tr>
+<tr class="separator:a6c043c7543dec59e640b379aec1ad0d0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aef822a2309df5d13af31ea5a5da74df7"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../d6/dae/a11695.html">IWorld</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d28/a28811.html#aef822a2309df5d13af31ea5a5da74df7">_previousWorld</a></td></tr>
+<tr class="separator:aef822a2309df5d13af31ea5a5da74df7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a00b242d182fd7eacc93efc9d4f3e914f"><td class="memItemLeft" align="right" valign="top">::testing::NiceMock&lt; <a class="el" href="../../d7/d36/a28803.html">WorldMock</a> &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d28/a28811.html#a00b242d182fd7eacc93efc9d4f3e914f">_worldMock</a> = nullptr</td></tr>
+<tr class="separator:a00b242d182fd7eacc93efc9d4f3e914f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a423c022319fa9025b56db18cc27945b3" name="a423c022319fa9025b56db18cc27945b3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a423c022319fa9025b56db18cc27945b3">&#9670;&#160;</a></span>MOCK_METHOD()</h2>
+<a id="a5ee46555116eca62d3e8320dd5a5fbbb" name="a5ee46555116eca62d3e8320dd5a5fbbb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5ee46555116eca62d3e8320dd5a5fbbb">&#9670;&#160;</a></span>SetUp()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">MockArenaSeasonTeamRewarder::MOCK_METHOD </td>
+          <td class="memname">void ArenaSeasonRewardDistributorTest::SetUp </td>
           <td>(</td>
-          <td class="paramtype">void&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/dd7/a07275.html#a2beaf893f95e16c4d388ad048885848b">RewardTeamWithRewardGroup</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">(<a class="el" href="../../d4/dcf/a07311.html">ArenaTeam</a> *arenaTeam, <a class="el" href="../../df/df8/a07267.html">ArenaSeasonRewardGroup</a> const &amp;rewardGroup)&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">(override)&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   35</span>    {</div>
+<div class="line"><span class="lineno">   36</span>        <a class="code hl_variable" href="../../d3/d28/a28811.html#aef822a2309df5d13af31ea5a5da74df7">_previousWorld</a> = std::move(<a class="code hl_define" href="../../d5/df7/a04795.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>);</div>
+<div class="line"><span class="lineno">   37</span>        <a class="code hl_variable" href="../../d3/d28/a28811.html#a00b242d182fd7eacc93efc9d4f3e914f">_worldMock</a> = new ::testing::NiceMock&lt;WorldMock&gt;();</div>
+<div class="line"><span class="lineno">   38</span>        ON_CALL(*<a class="code hl_variable" href="../../d3/d28/a28811.html#a00b242d182fd7eacc93efc9d4f3e914f">_worldMock</a>, getIntConfig(::testing::_)).WillByDefault(::testing::Return(0));</div>
+<div class="line"><span class="lineno">   39</span>        ON_CALL(*<a class="code hl_variable" href="../../d3/d28/a28811.html#a00b242d182fd7eacc93efc9d4f3e914f">_worldMock</a>, getIntConfig(<a class="code hl_enumvalue" href="../../d9/d25/a01157.html#a468ad15992691eb97dd20680046832e0aa62dd772af47b6e3ea1594c67ad215ad">CONFIG_LEGACY_ARENA_START_RATING</a>)).WillByDefault(::testing::Return(1500));</div>
+<div class="line"><span class="lineno">   40</span>        ON_CALL(*<a class="code hl_variable" href="../../d3/d28/a28811.html#a00b242d182fd7eacc93efc9d4f3e914f">_worldMock</a>, getIntConfig(<a class="code hl_enumvalue" href="../../d9/d25/a01157.html#a468ad15992691eb97dd20680046832e0a0cf89807ea66fd80478c5110224c2347">CONFIG_ARENA_START_RATING</a>)).WillByDefault(::testing::Return(0));</div>
+<div class="line"><span class="lineno">   41</span>        <a class="code hl_define" href="../../d5/df7/a04795.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>.reset(<a class="code hl_variable" href="../../d3/d28/a28811.html#a00b242d182fd7eacc93efc9d4f3e914f">_worldMock</a>);</div>
+<div class="line"><span class="lineno">   42</span> </div>
+<div class="line"><span class="lineno">   43</span>        <a class="code hl_variable" href="../../d3/d28/a28811.html#ad466c2751d8e9739db56f9f82d15deff">_mockRewarder</a> = std::make_unique&lt;MockArenaSeasonTeamRewarder&gt;();</div>
+<div class="line"><span class="lineno">   44</span>        <a class="code hl_variable" href="../../d3/d28/a28811.html#a6c043c7543dec59e640b379aec1ad0d0">_distributor</a> = std::make_unique&lt;ArenaSeasonRewardDistributor&gt;(<a class="code hl_variable" href="../../d3/d28/a28811.html#ad466c2751d8e9739db56f9f82d15deff">_mockRewarder</a>.get());</div>
+<div class="line"><span class="lineno">   45</span>    }</div>
+<div class="ttc" id="aa01157_html_a468ad15992691eb97dd20680046832e0a0cf89807ea66fd80478c5110224c2347"><div class="ttname"><a href="../../d9/d25/a01157.html#a468ad15992691eb97dd20680046832e0a0cf89807ea66fd80478c5110224c2347">CONFIG_ARENA_START_RATING</a></div><div class="ttdeci">@ CONFIG_ARENA_START_RATING</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:287</div></div>
+<div class="ttc" id="aa01157_html_a468ad15992691eb97dd20680046832e0aa62dd772af47b6e3ea1594c67ad215ad"><div class="ttname"><a href="../../d9/d25/a01157.html#a468ad15992691eb97dd20680046832e0aa62dd772af47b6e3ea1594c67ad215ad">CONFIG_LEGACY_ARENA_START_RATING</a></div><div class="ttdeci">@ CONFIG_LEGACY_ARENA_START_RATING</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:288</div></div>
+<div class="ttc" id="aa04795_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d5/df7/a04795.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:316</div></div>
+<div class="ttc" id="aa28811_html_a00b242d182fd7eacc93efc9d4f3e914f"><div class="ttname"><a href="../../d3/d28/a28811.html#a00b242d182fd7eacc93efc9d4f3e914f">ArenaSeasonRewardDistributorTest::_worldMock</a></div><div class="ttdeci">::testing::NiceMock&lt; WorldMock &gt; * _worldMock</div><div class="ttdef"><b>Definition:</b> ArenaSeasonRewardDistributorTest.cpp:55</div></div>
+<div class="ttc" id="aa28811_html_a6c043c7543dec59e640b379aec1ad0d0"><div class="ttname"><a href="../../d3/d28/a28811.html#a6c043c7543dec59e640b379aec1ad0d0">ArenaSeasonRewardDistributorTest::_distributor</a></div><div class="ttdeci">std::unique_ptr&lt; ArenaSeasonRewardDistributor &gt; _distributor</div><div class="ttdef"><b>Definition:</b> ArenaSeasonRewardDistributorTest.cpp:53</div></div>
+<div class="ttc" id="aa28811_html_ad466c2751d8e9739db56f9f82d15deff"><div class="ttname"><a href="../../d3/d28/a28811.html#ad466c2751d8e9739db56f9f82d15deff">ArenaSeasonRewardDistributorTest::_mockRewarder</a></div><div class="ttdeci">std::unique_ptr&lt; MockArenaSeasonTeamRewarder &gt; _mockRewarder</div><div class="ttdef"><b>Definition:</b> ArenaSeasonRewardDistributorTest.cpp:52</div></div>
+<div class="ttc" id="aa28811_html_aef822a2309df5d13af31ea5a5da74df7"><div class="ttname"><a href="../../d3/d28/a28811.html#aef822a2309df5d13af31ea5a5da74df7">ArenaSeasonRewardDistributorTest::_previousWorld</a></div><div class="ttdeci">std::unique_ptr&lt; IWorld &gt; _previousWorld</div><div class="ttdef"><b>Definition:</b> ArenaSeasonRewardDistributorTest.cpp:54</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00053">_distributor</a>, <a class="el" href="../../#l00052">_mockRewarder</a>, <a class="el" href="../../#l00054">_previousWorld</a>, <a class="el" href="../../#l00055">_worldMock</a>, <a class="el" href="../../#l00287">CONFIG_ARENA_START_RATING</a>, <a class="el" href="../../#l00288">CONFIG_LEGACY_ARENA_START_RATING</a>, and <a class="el" href="../../#l00316">sWorld</a>.</p>
+
+</div>
+</div>
+<a id="a2a331c0ef77503c08c37e226a4e0a33b" name="a2a331c0ef77503c08c37e226a4e0a33b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2a331c0ef77503c08c37e226a4e0a33b">&#9670;&#160;</a></span>TearDown()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ArenaSeasonRewardDistributorTest::TearDown </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   48</span>    {</div>
+<div class="line"><span class="lineno">   49</span>        <a class="code hl_define" href="../../d5/df7/a04795.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a> = std::move(<a class="code hl_variable" href="../../d3/d28/a28811.html#aef822a2309df5d13af31ea5a5da74df7">_previousWorld</a>);</div>
+<div class="line"><span class="lineno">   50</span>    }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00054">_previousWorld</a>, and <a class="el" href="../../#l00316">sWorld</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="a6c043c7543dec59e640b379aec1ad0d0" name="a6c043c7543dec59e640b379aec1ad0d0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6c043c7543dec59e640b379aec1ad0d0">&#9670;&#160;</a></span>_distributor</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../d7/dba/a07283.html">ArenaSeasonRewardDistributor</a>&gt; ArenaSeasonRewardDistributorTest::_distributor</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00034">SetUp()</a>.</p>
+
+</div>
+</div>
+<a id="ad466c2751d8e9739db56f9f82d15deff" name="ad466c2751d8e9739db56f9f82d15deff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad466c2751d8e9739db56f9f82d15deff">&#9670;&#160;</a></span>_mockRewarder</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../d2/d8e/a28807.html">MockArenaSeasonTeamRewarder</a>&gt; ArenaSeasonRewardDistributorTest::_mockRewarder</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00034">SetUp()</a>.</p>
+
+</div>
+</div>
+<a id="aef822a2309df5d13af31ea5a5da74df7" name="aef822a2309df5d13af31ea5a5da74df7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aef822a2309df5d13af31ea5a5da74df7">&#9670;&#160;</a></span>_previousWorld</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../d6/dae/a11695.html">IWorld</a>&gt; ArenaSeasonRewardDistributorTest::_previousWorld</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00034">SetUp()</a>, and <a class="el" href="../../#l00047">TearDown()</a>.</p>
+
+</div>
+</div>
+<a id="a00b242d182fd7eacc93efc9d4f3e914f" name="a00b242d182fd7eacc93efc9d4f3e914f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a00b242d182fd7eacc93efc9d4f3e914f">&#9670;&#160;</a></span>_worldMock</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">::testing::NiceMock&lt;<a class="el" href="../../d7/d36/a28803.html">WorldMock</a>&gt;* ArenaSeasonRewardDistributorTest::_worldMock = nullptr</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00034">SetUp()</a>.</p>
 
 </div>
 </div>
@@ -177,8 +315,8 @@ Public Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d28/a28811.html">MockArenaSeasonTeamRewarder</a></li>
-    <li class="footer">Generated on Mon Sep 29 2025 20:47:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d28/a28811.html">ArenaSeasonRewardDistributorTest</a></li>
+    <li class="footer">Generated on Mon Oct 6 2025 20:44:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

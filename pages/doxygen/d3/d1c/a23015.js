@@ -1,8 +1,7 @@
 var a23015 =
 [
-    [ "Load", "d3/d1c/a23015.html#a038301fbb547469574efff88455be663", null ],
-    [ "OnPeriodic", "d3/d1c/a23015.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
-    [ "PrepareAuraScript", "d3/d1c/a23015.html#a386df1300e6a99b02efd13ef4968e99a", null ],
-    [ "Register", "d3/d1c/a23015.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
-    [ "Validate", "d3/d1c/a23015.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
+    [ "HandleScriptEffect", "d3/d1c/a23015.html#a16f131e42272bc75c99df2a9cf43470e", null ],
+    [ "PrepareSpellScript", "d3/d1c/a23015.html#a510e80ef85ae3057e30c7c710aaf187b", null ],
+    [ "Register", "d3/d1c/a23015.html#ae26ff6be3b2d4a1975ace3734603ab41", null ],
+    [ "Validate", "d3/d1c/a23015.html#a58ff628906f3077a354ed486d3c56d23", null ]
 ];

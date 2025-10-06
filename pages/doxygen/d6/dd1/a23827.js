@@ -1,7 +1,6 @@
 var a23827 =
 [
-    [ "HandleDummyApply", "d6/dd1/a23827.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
-    [ "HandleDummyRemove", "d6/dd1/a23827.html#a5d68d9e15600119deca7179ffe00acda", null ],
-    [ "PrepareAuraScript", "d6/dd1/a23827.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
-    [ "Register", "d6/dd1/a23827.html#a094004ccf6b4cae4d27bca639b76b899", null ]
+    [ "HandleHit", "d6/dd1/a23827.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
+    [ "PrepareSpellScript", "d6/dd1/a23827.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
+    [ "Register", "d6/dd1/a23827.html#acb1b681f587817614c2b3684585369db", null ]
 ];

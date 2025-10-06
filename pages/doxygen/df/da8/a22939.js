@@ -1,12 +1,6 @@
 var a22939 =
 [
-    [ "boss_gurtogg_bloodboil", "df/da8/a22939.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
-    [ "CanAIAttack", "df/da8/a22939.html#a60e6439bab689eb88a18612b6b46c713", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "df/da8/a22939.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
-    [ "JustDied", "df/da8/a22939.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
-    [ "JustEngagedWith", "df/da8/a22939.html#a0847173efbae252c2fbbaf1be17097cb", null ],
-    [ "JustSummoned", "df/da8/a22939.html#ae718666a1da0e93cb0965c42c40b51df", null ],
-    [ "KilledUnit", "df/da8/a22939.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
-    [ "Reset", "df/da8/a22939.html#add25677d422b8bddcb753465451f0584", null ],
-    [ "_recentlySpoken", "df/da8/a22939.html#a74af813b84f7787a5b764cfe574c087b", null ]
+    [ "FilterTargets", "df/da8/a22939.html#abd3fafc2120b7069790dd9822cd62adc", null ],
+    [ "PrepareSpellScript", "df/da8/a22939.html#aebc0441481a2c458fc904175df931a9e", null ],
+    [ "Register", "df/da8/a22939.html#af1173988538ad44c27ea2ed9d49fe06d", null ]
 ];

@@ -1,11 +1,10 @@
 var a27015 =
 [
-    [ "CalcPeriodic", "da/ddd/a27015.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
-    [ "CalculateAPAmount", "da/ddd/a27015.html#a72bd308dbeaa7eca5685f3e5055d7fad", null ],
-    [ "CalculateResistanceAmount", "da/ddd/a27015.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
-    [ "CalculateSPAmount", "da/ddd/a27015.html#a114c868f0dc31f3370588b1bd1f18894", null ],
-    [ "CalculateStatAmount", "da/ddd/a27015.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
-    [ "HandlePeriodic", "da/ddd/a27015.html#af5076795e8bf6abd45590a060f9e5b52", null ],
-    [ "PrepareAuraScript", "da/ddd/a27015.html#aa512873852c0eea9947472fcb60fbfc2", null ],
-    [ "Register", "da/ddd/a27015.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
+    [ "CalculateAPAmount", "da/ddd/a27015.html#ae76d10c68df1f149f83d4247122b47a7", null ],
+    [ "CalculateResistanceAmount", "da/ddd/a27015.html#ab21a4b135dfd70963f75eff7bffbf476", null ],
+    [ "CalculateSPAmount", "da/ddd/a27015.html#a421996ca946d5b04c264718e6dd63fa9", null ],
+    [ "CalculateStatAmount", "da/ddd/a27015.html#ae695515c915f2452dccb71aeb018f3a3", null ],
+    [ "HandleEffectApply", "da/ddd/a27015.html#a207864c73e485e0db0fe47bde97d87a2", null ],
+    [ "PrepareAuraScript", "da/ddd/a27015.html#a4179be48195872410bda69cac3454812", null ],
+    [ "Register", "da/ddd/a27015.html#a94b34a7e4c36bf1336b5611e82e2dd58", null ]
 ];

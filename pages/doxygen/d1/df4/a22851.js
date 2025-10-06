@@ -1,8 +1,8 @@
 var a22851 =
 [
-    [ "boss_pandemonius", "d1/df4/a22851.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
-    [ "JustDied", "d1/df4/a22851.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
-    [ "JustEngagedWith", "d1/df4/a22851.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
-    [ "KilledUnit", "d1/df4/a22851.html#a26a012afe8c418c8da283c7b9f983e89", null ],
-    [ "PullRoom", "d1/df4/a22851.html#a05011127290350f11cc1a333b23dbb04", null ]
+    [ "boss_tavarok", "d1/df4/a22851.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
+    [ "JustDied", "d1/df4/a22851.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
+    [ "JustEngagedWith", "d1/df4/a22851.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
+    [ "KilledUnit", "d1/df4/a22851.html#a2c99df9457c548ee562fde920592ea88", null ],
+    [ "Reset", "d1/df4/a22851.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
 ];

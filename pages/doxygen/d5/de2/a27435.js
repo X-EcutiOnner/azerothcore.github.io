@@ -1,5 +1,5 @@
 var a27435 =
 [
-    [ "go_arena_ready_marker", "d5/de2/a27435.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
-    [ "OnGossipHello", "d5/de2/a27435.html#a9f51ead2b56d51427ff23be9688388d8", null ]
+    [ "go_ethereum_prison", "d5/de2/a27435.html#a1872dab11a8470194ab35f87e217aa8a", null ],
+    [ "OnGossipHello", "d5/de2/a27435.html#a73479b0512ea778336fad4bd5cd9b909", null ]
 ];

@@ -6,5 +6,6 @@ var a17391 =
     [ "JustEngagedWith", "d9/d1c/a17391.html#a393630157bb1b9d80a19b2da3bf0b377", null ],
     [ "MovementInform", "d9/d1c/a17391.html#a4826dee262817fbdfa38bcf17f5723da", null ],
     [ "Reset", "d9/d1c/a17391.html#afc33618907cb06591cc57751dfc14ca5", null ],
+    [ "SpellHitTarget", "d9/d1c/a17391.html#a9838782769779ed0750ba32ac77625d4", null ],
     [ "UpdateAI", "d9/d1c/a17391.html#a697ceea1e138d484d80b39c80078de58", null ]
 ];

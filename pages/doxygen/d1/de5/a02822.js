@@ -64,7 +64,6 @@ var a02822 =
       [ "DATA_MOORABI", "d0/d08/a02936.html#af5baa506e65b4caa6be6d1c6661dfe63a4d6384c29b6e14d0308fc0240c2afabe", null ],
       [ "DATA_DRAKKARI_COLOSSUS", "d0/d08/a02936.html#af5baa506e65b4caa6be6d1c6661dfe63a32975304248dc504bd8206a2e3a33d14", null ],
       [ "DATA_GAL_DARAH", "d0/d08/a02936.html#af5baa506e65b4caa6be6d1c6661dfe63a6c2628ab4e3a8aa192d2ff8685f8066d", null ],
-      [ "DATA_ECK_THE_FEROCIOUS_INIT", "d0/d08/a02936.html#af5baa506e65b4caa6be6d1c6661dfe63a3683686008191891e5e1c027669afca4", null ],
       [ "DATA_ECK_THE_FEROCIOUS", "d0/d08/a02936.html#af5baa506e65b4caa6be6d1c6661dfe63ac039a49a9b97fc453a4e5f873d5e1288", null ],
       [ "MAX_ENCOUNTERS", "d0/d08/a02936.html#af5baa506e65b4caa6be6d1c6661dfe63a9cfa5bdc17e1d5a590d300b530b36a25", null ],
       [ "DATA_IRIS_ACTIVATED", "d0/d04/a03161.html#af5baa506e65b4caa6be6d1c6661dfe63aed48a27d536509f11ee2da8c3366176f", null ],

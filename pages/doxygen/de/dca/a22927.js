@@ -1,6 +1,9 @@
 var a22927 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "d5/d50/a22931.html", "d5/d50/a22931" ],
-    [ "instance_shadow_labyrinth", "de/dca/a22927.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
-    [ "GetInstanceScript", "de/dca/a22927.html#af9edf624413593a5cdf025dd9a1c3631", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "de/dca/a22927.html#ada5f19c96bfe623b110389ede032ef53", null ],
+    [ "GetData", "de/dca/a22927.html#ad876ebd581c470f5a3075129076bd1fb", null ],
+    [ "Initialize", "de/dca/a22927.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
+    [ "OnCreatureCreate", "de/dca/a22927.html#a118b4a7a7c872327ec2868c5b0417636", null ],
+    [ "OnUnitDeath", "de/dca/a22927.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
+    [ "_ritualistsAliveCount", "de/dca/a22927.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
 ];
