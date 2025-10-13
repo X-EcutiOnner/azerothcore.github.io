@@ -1,5 +1,6 @@
 var a27419 =
 [
-    [ "go_mistwhisper_treasure", "d9/d33/a27419.html#a87c90caa9f6a628cb0eea3556b58449e", null ],
-    [ "OnGossipHello", "d9/d33/a27419.html#a03b6b19faba005ced7ff921fdf8ab493", null ]
+    [ "boss_emerissAI", "d9/d2d/a27423.html", "d9/d2d/a27423" ],
+    [ "boss_emeriss", "d9/d33/a27419.html#a2d373e5add3f007cf214ad9763039aa2", null ],
+    [ "GetAI", "d9/d33/a27419.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
 ];

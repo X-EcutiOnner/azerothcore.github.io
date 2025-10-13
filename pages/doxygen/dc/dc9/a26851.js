@@ -1,8 +1,11 @@
 var a26851 =
 [
-    [ "HandleRootRemove", "dc/dc9/a26851.html#a9678ce2254825b67eb7a16312e960ba9", null ],
-    [ "HandleSnareRemove", "dc/dc9/a26851.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
-    [ "PrepareSpellScript", "dc/dc9/a26851.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
-    [ "Register", "dc/dc9/a26851.html#a119675dccea898932ca090577022b6ba", null ],
-    [ "Validate", "dc/dc9/a26851.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
+    [ "AddTarget", "dc/dc9/a26851.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
+    [ "HandleApply", "dc/dc9/a26851.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
+    [ "HandleEffectPeriodic", "dc/dc9/a26851.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
+    [ "HandleRemove", "dc/dc9/a26851.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
+    [ "PrepareAuraScript", "dc/dc9/a26851.html#abd535f756fae06c9fae613d69ef4e353", null ],
+    [ "Register", "dc/dc9/a26851.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
+    [ "Validate", "dc/dc9/a26851.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
+    [ "_targets", "dc/dc9/a26851.html#ad2467bc150cb08766c57cca23d4d9843", null ]
 ];

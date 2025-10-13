@@ -1,13 +1,9 @@
 var a25067 =
 [
-    [ "CalcPeriodic", "d9/dc9/a25067.html#a08dca1818a687bb5862779e261dafb00", null ],
-    [ "CalculateExpertiseAmount", "d9/dc9/a25067.html#a44703f4a1c5cfb74083bf74d7b77c23c", null ],
-    [ "CalculateHitAmount", "d9/dc9/a25067.html#af6e9dda7381a80d4de93c1a7402a2e2b", null ],
-    [ "CalculateSpellHitAmount", "d9/dc9/a25067.html#ab31dfffdf449c1eef74c2bcd43469109", null ],
-    [ "HandleEffectApply", "d9/dc9/a25067.html#a6ba389f156263462f5e80e3a9fb6f62e", null ],
-    [ "HandlePeriodic", "d9/dc9/a25067.html#ac97a33580dc873af7b580d4fdf7ed9f6", null ],
-    [ "PrepareAuraScript", "d9/dc9/a25067.html#ad9aeb68e7d512f55f38f5a64d1d80f7f", null ],
-    [ "Register", "d9/dc9/a25067.html#a803e26c6a4c06feedd80a4d94452aca5", null ],
-    [ "cap", "d9/dc9/a25067.html#a9c3e35d01ad863d146566efe7cca2637", null ],
-    [ "maxChance", "d9/dc9/a25067.html#a34933c7fe8b570214c821347f4ba974b", null ]
+    [ "PrepareAuraScript", "d9/dc9/a25067.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
+    [ "Register", "d9/dc9/a25067.html#a04efbc64bfa0312bc1f372e403803c32", null ],
+    [ "Update", "d9/dc9/a25067.html#aa463442b994b6275b2e12fe06ae7805c", null ],
+    [ "amplitude", "d9/dc9/a25067.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
+    [ "amplitude", "d9/dc9/a25067.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
+    [ "isPeriodic", "d9/dc9/a25067.html#a0732bf60822bbb547be014566d0e092c", null ]
 ];

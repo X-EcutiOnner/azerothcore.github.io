@@ -1,6 +1,6 @@
 var a27867 =
 [
-    [ "npc_experience", "d8/dcb/a27867.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
-    [ "OnGossipHello", "d8/dcb/a27867.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
-    [ "OnGossipSelect", "d8/dcb/a27867.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
+    [ "npc_guardianAI", "d2/dcd/a27871.html", "d2/dcd/a27871" ],
+    [ "npc_guardian", "d8/dcb/a27867.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
+    [ "GetAI", "d8/dcb/a27867.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
 ];

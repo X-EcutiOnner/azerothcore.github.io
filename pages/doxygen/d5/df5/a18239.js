@@ -1,6 +1,6 @@
 var a18239 =
 [
-    [ "npc_ice_tombAI", "db/d31/a18243.html", "db/d31/a18243" ],
-    [ "npc_ice_tomb", "d5/df5/a18239.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
-    [ "GetAI", "d5/df5/a18239.html#ac99b7c9887e54a1764310bd3e079811a", null ]
+    [ "boss_sindragosaAI", "db/d31/a18243.html", "db/d31/a18243" ],
+    [ "boss_sindragosa", "d5/df5/a18239.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
+    [ "GetAI", "d5/df5/a18239.html#a005a6da9f4f9690416a108872b3c2b36", null ]
 ];

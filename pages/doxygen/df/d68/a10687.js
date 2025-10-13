@@ -1,6 +1,5 @@
 var a10687 =
 [
-    [ "GuildUpdateInfoText", "df/d68/a10687.html#a82afd6cb3240da6870990d6f80f69cd6", null ],
-    [ "Read", "df/d68/a10687.html#a7019344fef99c5479602d7bc1176e9ee", null ],
-    [ "InfoText", "df/d68/a10687.html#a786802ce427465d66a4cea1365743975", null ]
+    [ "GuildPermissionsQuery", "df/d68/a10687.html#a6ab30e173d26362db0065f4f9f8fa5f8", null ],
+    [ "Read", "df/d68/a10687.html#aec20af8c3c8236627353287fe2eaa0a7", null ]
 ];

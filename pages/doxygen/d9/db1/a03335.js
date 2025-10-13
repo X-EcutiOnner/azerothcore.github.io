@@ -1,5 +1,5 @@
 var a03335 =
 [
-    [ "server_commandscript", "d0/d87/a11919.html", "d0/d87/a11919" ],
-    [ "AddSC_server_commandscript", "d9/db1/a03335.html#aaa97392c09b5045a6040d75b224bdf22", null ]
+    [ "account_commandscript", "de/d37/a11767.html", "de/d37/a11767" ],
+    [ "AddSC_account_commandscript", "d9/db1/a03335.html#a8c18eb17be05fd3da5e9cfa3480c52c4", null ]
 ];

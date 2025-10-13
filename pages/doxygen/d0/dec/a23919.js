@@ -1,6 +1,6 @@
 var a23919 =
 [
-    [ "npc_warden_mellicharAI", "dd/de4/a23923.html", "dd/de4/a23923" ],
-    [ "npc_warden_mellichar", "d0/dec/a23919.html#aba5c3d005097430941bd40bbbb0d3562", null ],
-    [ "GetAI", "d0/dec/a23919.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
+    [ "npc_millhouse_manastormAI", "dd/de4/a23923.html", "dd/de4/a23923" ],
+    [ "npc_millhouse_manastorm", "d0/dec/a23919.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
+    [ "GetAI", "d0/dec/a23919.html#ac4516785f7daf544718fc201197ba977", null ]
 ];

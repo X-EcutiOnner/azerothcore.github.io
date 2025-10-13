@@ -1,13 +1,8 @@
 var a08427 =
 [
-    [ "FlaggedValuesArray32", "db/dec/a08427.html#a0680f7b67001783f20d89989a49cbead", null ],
-    [ "AddFlag", "db/dec/a08427.html#a273ab3607b23881628eb0c5d6a4da288", null ],
-    [ "AddValue", "db/dec/a08427.html#aacca1261b2a22525e5fd40e5f479aa06", null ],
-    [ "DelFlag", "db/dec/a08427.html#a3a674b2a7b8d5874f7210372b3e92123", null ],
-    [ "GetFlags", "db/dec/a08427.html#a314a315eb1c1a76116fe3a31f7be9c68", null ],
-    [ "GetValue", "db/dec/a08427.html#a87e5949bc041f15449331aceb277e8c4", null ],
-    [ "HasFlag", "db/dec/a08427.html#a0ea5d977caef5152c71c515259a91f06", null ],
-    [ "SetValue", "db/dec/a08427.html#ad0d385589befe52103f077723fa2463c", null ],
-    [ "m_flags", "db/dec/a08427.html#abab31b77efb46fa796275c36964eab91", null ],
-    [ "m_values", "db/dec/a08427.html#aabd025f47ad522e574f603eb559500f0", null ]
+    [ "Reset", "db/dec/a08427.html#a28a5bd110553457c86d7f77e78041713", null ],
+    [ "cosAngle", "db/dec/a08427.html#a37f49fc816f37dff8c1947f4de7f04d5", null ],
+    [ "sinAngle", "db/dec/a08427.html#af2a184b7c8e7f324607a0b7468bcb8f6", null ],
+    [ "xyspeed", "db/dec/a08427.html#a6fada60d677d89580c3a718d42a75d17", null ],
+    [ "zspeed", "db/dec/a08427.html#ad0a5a36aeabc9b8d8ea27cecae30ae31", null ]
 ];

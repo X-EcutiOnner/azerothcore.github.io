@@ -1,6 +1,6 @@
 var a13919 =
 [
-    [ "boss_blight_wormAI", "d9/d0c/a13923.html", "d9/d0c/a13923" ],
-    [ "boss_blight_worm", "dc/d49/a13919.html#a6dea51baebc6b44ef94342565136e56d", null ],
-    [ "GetAI", "dc/d49/a13919.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
+    [ "npc_parqual_fintallas", "dc/d49/a13919.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
+    [ "OnGossipHello", "dc/d49/a13919.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
+    [ "OnGossipSelect", "dc/d49/a13919.html#a39276ef82ec5214a1727ebd60235a506", null ]
 ];

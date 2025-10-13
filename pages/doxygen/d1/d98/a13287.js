@@ -1,7 +1,9 @@
 var a13287 =
 [
-    [ "HandleEffectApply", "d1/d98/a13287.html#a710536e0a3bacf173d037041e755bd82", null ],
-    [ "HandleEffectRemove", "d1/d98/a13287.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
-    [ "PrepareAuraScript", "d1/d98/a13287.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
-    [ "Register", "d1/d98/a13287.html#a9092818bdb15a12163aae633049cb7f6", null ]
+    [ "npc_risen_guardianAI", "d1/d98/a13287.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
+    [ "IsSummonedBy", "d1/d98/a13287.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
+    [ "KilledUnit", "d1/d98/a13287.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
+    [ "Gandling", "d1/d98/a13287.html#a93013b905260aa51341b22d1627cc986", null ],
+    [ "instance", "d1/d98/a13287.html#a96f1835989f646c708b8ef0cc9999e63", null ],
+    [ "room", "d1/d98/a13287.html#a5862a184b6daa92da133cc6c360a993d", null ]
 ];

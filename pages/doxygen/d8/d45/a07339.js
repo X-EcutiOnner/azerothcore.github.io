@@ -1,6 +1,10 @@
 var a07339 =
 [
-    [ "_Battlegrounds", "d8/d45/a07339.html#aa48f3a9d4a51e357055a0bc60ca41d7c", null ],
-    [ "_ClientBattlegroundIds", "d8/d45/a07339.html#a0526fab23b40ac1b33ce18243ad41132", null ],
-    [ "BGFreeSlotQueue", "d8/d45/a07339.html#a49fd7eb3a472894f233d309d35d509be", null ]
+    [ "ArenaLogEntryData", "d8/d45/a07339.html#a8f3ec057dd930d2f2acd7961e0cf4e5e", null ],
+    [ "Fill", "d8/d45/a07339.html#aa3cca4521431bf152550611549bf4bbe", null ],
+    [ "Acc", "d8/d45/a07339.html#aa8983930063298c86f4635d2ae3078fe", null ],
+    [ "ArenaTeamId", "d8/d45/a07339.html#ac764620c3c8a986286fd74062dac4645", null ],
+    [ "Guid", "d8/d45/a07339.html#a03b32cd44c655dcc9104aead3b76454e", null ],
+    [ "IP", "d8/d45/a07339.html#ab9f80eacfe24025a2d4947085d3f6dd7", null ],
+    [ "Name", "d8/d45/a07339.html#a5c18d554adb9e38ab10baf36c9b3fdd7", null ]
 ];

@@ -1,5 +1,6 @@
 var a24331 =
 [
-    [ "at_commander_dawnforge", "d2/d62/a24331.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
-    [ "OnTrigger", "d2/d62/a24331.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
+    [ "npc_commander_dawnforgeAI", "da/dea/a24335.html", "da/dea/a24335" ],
+    [ "npc_commander_dawnforge", "d2/d62/a24331.html#ab4d430725f68f906e9c8def66b1d6646", null ],
+    [ "GetAI", "d2/d62/a24331.html#a6089b087b7c3b18659e23c677814318b", null ]
 ];

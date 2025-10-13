@@ -1,5 +1,5 @@
 var a12543 =
 [
-    [ "npc_garr_fireswornAI", "dd/d1f/a12543.html#af2454b2ddf93102378ebf9780d260e56", null ],
-    [ "DamageTaken", "dd/d1f/a12543.html#ae9582b14e82b163ff97b99cb603e0179", null ]
+    [ "at_orb_of_command", "dd/d1f/a12543.html#a1f0b196362b76e050eba66d3ce612623", null ],
+    [ "OnTrigger", "dd/d1f/a12543.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
 ];

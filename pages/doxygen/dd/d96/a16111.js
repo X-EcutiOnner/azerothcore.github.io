@@ -1,7 +1,11 @@
 var a16111 =
 [
-    [ "HandleEffectRemove", "dd/d96/a16111.html#a45ed6d3f1c80dcef3ee6c59e744f13c6", null ],
-    [ "PrepareAuraScript", "dd/d96/a16111.html#a34b88963dd81e6a8855daaedb9c238d4", null ],
-    [ "Register", "dd/d96/a16111.html#a7c0533650e772713233ea45b0264cbff", null ],
-    [ "Validate", "dd/d96/a16111.html#a7690603bd7b01ca6da2a73ac8ed36114", null ]
+    [ "npc_anub_ar_crusherAI", "dd/d96/a16111.html#a35866e3cad208bb70bbc5a146301c28d", null ],
+    [ "DoAction", "dd/d96/a16111.html#ac11795153811d2465b106bc1fdea508a", null ],
+    [ "JustEngagedWith", "dd/d96/a16111.html#a02d3b78427bc247cde28620470c43331", null ],
+    [ "JustSummoned", "dd/d96/a16111.html#a6d484f8d3f54bb7c7ad572027501f2ab", null ],
+    [ "Reset", "dd/d96/a16111.html#a85f60e0733ac4ccd8f7941e8df0f88d9", null ],
+    [ "UpdateAI", "dd/d96/a16111.html#aaeda7e00410766857ee4bd73a8e15b89", null ],
+    [ "events", "dd/d96/a16111.html#ad4a2111d4301f0b928fbd01b6783fb6c", null ],
+    [ "summons", "dd/d96/a16111.html#a3136ecd40bf228fade0e40d3c5d22e5d", null ]
 ];

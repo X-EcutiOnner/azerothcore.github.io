@@ -1,10 +1,7 @@
 var a15571 =
 [
-    [ "npc_murkdeepAI", "d8/d72/a15571.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
-    [ "JustEngagedWith", "d8/d72/a15571.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
-    [ "Reset", "d8/d72/a15571.html#aa89316a0fe4f99630a4a129aed305e24", null ],
-    [ "UpdateAI", "d8/d72/a15571.html#aeca85a1324791d18ac825401fb8a31e8", null ],
-    [ "events", "d8/d72/a15571.html#ae3d344829aeba22ef0c5947863720390", null ],
-    [ "phase", "d8/d72/a15571.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
-    [ "spawnTimer", "d8/d72/a15571.html#a6b139fb5cc0776103934f14be15c34d1", null ]
+    [ "npc_webbed_creatureAI", "d8/d72/a15571.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
+    [ "JustDied", "d8/d72/a15571.html#a153d461124ec9266ffcac147a217f6d9", null ],
+    [ "JustEngagedWith", "d8/d72/a15571.html#ac52ad6512bcaee35932f856abdac80d4", null ],
+    [ "Reset", "d8/d72/a15571.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
 ];

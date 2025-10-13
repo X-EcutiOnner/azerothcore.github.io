@@ -1,12 +1,9 @@
 var a22935 =
 [
-    [ "boss_gurtogg_bloodboil", "d0/d25/a22935.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
-    [ "CanAIAttack", "d0/d25/a22935.html#a60e6439bab689eb88a18612b6b46c713", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d0/d25/a22935.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
-    [ "JustDied", "d0/d25/a22935.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
-    [ "JustEngagedWith", "d0/d25/a22935.html#a0847173efbae252c2fbbaf1be17097cb", null ],
-    [ "JustSummoned", "d0/d25/a22935.html#ae718666a1da0e93cb0965c42c40b51df", null ],
-    [ "KilledUnit", "d0/d25/a22935.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
-    [ "Reset", "d0/d25/a22935.html#add25677d422b8bddcb753465451f0584", null ],
-    [ "_recentlySpoken", "d0/d25/a22935.html#a74af813b84f7787a5b764cfe574c087b", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "d0/d25/a22935.html#ada5f19c96bfe623b110389ede032ef53", null ],
+    [ "GetData", "d0/d25/a22935.html#ad876ebd581c470f5a3075129076bd1fb", null ],
+    [ "Initialize", "d0/d25/a22935.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
+    [ "OnCreatureCreate", "d0/d25/a22935.html#a118b4a7a7c872327ec2868c5b0417636", null ],
+    [ "OnUnitDeath", "d0/d25/a22935.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
+    [ "_ritualistsAliveCount", "d0/d25/a22935.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
 ];

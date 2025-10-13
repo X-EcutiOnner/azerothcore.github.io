@@ -1,5 +1,5 @@
 var a03221 =
 [
-    [ "group_commandscript", "d2/d5f/a11815.html", "d2/d5f/a11815" ],
-    [ "AddSC_group_commandscript", "d1/da3/a03221.html#ac4c9434ed910cd9636e0a8644a8e91e1", null ]
+    [ "player_settings_commandscript", "d8/da5/a11931.html", "d8/da5/a11931" ],
+    [ "AddSC_player_settings_commandscript", "d1/da3/a03221.html#a366685affd5565d164c65f8cd4a20b61", null ]
 ];

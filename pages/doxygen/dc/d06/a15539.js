@@ -1,8 +1,5 @@
 var a15539 =
 [
-    [ "npc_death_ravagerAI", "dc/d06/a15539.html#ad18242b078db0883029537562a41cc20", null ],
-    [ "Reset", "dc/d06/a15539.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
-    [ "UpdateAI", "dc/d06/a15539.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
-    [ "EnragingBiteTimer", "dc/d06/a15539.html#af33898ebd9bea6b1a58b673373de3c64", null ],
-    [ "RendTimer", "dc/d06/a15539.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
+    [ "go_ravager_cage", "dc/d06/a15539.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
+    [ "OnGossipHello", "dc/d06/a15539.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
 ];

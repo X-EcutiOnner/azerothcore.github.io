@@ -1,7 +1,7 @@
 var a27843 =
 [
-    [ "npc_steam_tonkAI", "d3/dc9/a27843.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "d3/dc9/a27843.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "d3/dc9/a27843.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "d3/dc9/a27843.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "npc_doctorAI", "de/d31/a27847.html", "de/d31/a27847" ],
+    [ "npc_doctor", "d3/dc9/a27843.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
+    [ "GetAI", "d3/dc9/a27843.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
+    [ "OnQuestAccept", "d3/dc9/a27843.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
 ];

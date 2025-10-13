@@ -1,8 +1,6 @@
 var a15455 =
 [
-    [ "npc_obsidian_nullifier", "d3/d2f/a15455.html#a9dbb6d681e348057564750fcd7e8050a", null ],
-    [ "JustEngagedWith", "d3/d2f/a15455.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
-    [ "Reset", "d3/d2f/a15455.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
-    [ "UpdateAI", "d3/d2f/a15455.html#a37cf1d335dd3735b262e82828c4f904a", null ],
-    [ "_targetGUIDs", "d3/d2f/a15455.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
+    [ "OnPeriodic", "d3/d2f/a15455.html#a5945e24db52c6bacae7221b085dc877b", null ],
+    [ "PrepareAuraScript", "d3/d2f/a15455.html#acc987aa864a8333de7bd0b770eb9018d", null ],
+    [ "Register", "d3/d2f/a15455.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
 ];

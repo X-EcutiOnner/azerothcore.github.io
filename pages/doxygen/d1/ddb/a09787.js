@@ -1,6 +1,26 @@
 var a09787 =
 [
-    [ "ServerMailItems", "d1/ddb/a09787.html#a95cb2278da300c6b0385241f5a3950c1", null ],
-    [ "item", "d1/ddb/a09787.html#ae03738595a87a47e831bcbeea6f97d34", null ],
-    [ "itemCount", "d1/ddb/a09787.html#a4475d65dd5721d4af323ae93d15f4170", null ]
+    [ "AddItem", "d1/ddb/a09787.html#ab39b529b190bafe093a7931311c24626", null ],
+    [ "HasItems", "d1/ddb/a09787.html#a0997971db668abca530f1869d71828dc", null ],
+    [ "IsCODPayment", "d1/ddb/a09787.html#a113aef1ace737f4bf119ee9cec9d69bd", null ],
+    [ "IsReturnedMail", "d1/ddb/a09787.html#adb7b77433c2ac76939d3fa9aa7ba5972", null ],
+    [ "IsSentByGM", "d1/ddb/a09787.html#a0e07f4b90ae44b9dc2a2cac9589196db", null ],
+    [ "IsSentByPlayer", "d1/ddb/a09787.html#a387fbf2f51eb9414bbcead134f59fa53", null ],
+    [ "RemoveItem", "d1/ddb/a09787.html#ab96701f1ab95184d78a1a91c87d0076c", null ],
+    [ "body", "d1/ddb/a09787.html#aaa91a94ee92b2712218a9cae389554f7", null ],
+    [ "checked", "d1/ddb/a09787.html#ae3198d4379f7f783aa40b180311ca970", null ],
+    [ "COD", "d1/ddb/a09787.html#ac6db3ffc26e23cc0aea607633390bb66", null ],
+    [ "deliver_time", "d1/ddb/a09787.html#ac418d7eae438c2c3cd297477a760f0b1", null ],
+    [ "expire_time", "d1/ddb/a09787.html#a5d7d7251c7a6021d9dc8b9406c0c20ff", null ],
+    [ "items", "d1/ddb/a09787.html#aab1074d26d11d3216df8f7e6e9b8c1f7", null ],
+    [ "mailTemplateId", "d1/ddb/a09787.html#afefffec74369d920ce395f1a04d8838c", null ],
+    [ "messageID", "d1/ddb/a09787.html#a3ee287f59b36f3154cd977a1e92c4d47", null ],
+    [ "messageType", "d1/ddb/a09787.html#a240dfdc4b89b7cb806330460d5256a44", null ],
+    [ "money", "d1/ddb/a09787.html#af326068e66a3091aa731186e5e3295ed", null ],
+    [ "receiver", "d1/ddb/a09787.html#a1cc9173228e34a23b635dfdb6fdf58a1", null ],
+    [ "removedItems", "d1/ddb/a09787.html#a4299fd5b84f08ff8b1a8fa7caadf531b", null ],
+    [ "sender", "d1/ddb/a09787.html#a62b403874a8e34a2ab99bc77dbe2996d", null ],
+    [ "state", "d1/ddb/a09787.html#ae81b243e0ef55683b282e8bfae1d7a42", null ],
+    [ "stationery", "d1/ddb/a09787.html#a88588149be95899c2fc30b144c4425a6", null ],
+    [ "subject", "d1/ddb/a09787.html#a8bc2e13257b7a771c9065e35aaf02744", null ]
 ];

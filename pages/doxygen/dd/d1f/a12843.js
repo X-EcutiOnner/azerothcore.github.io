@@ -1,6 +1,7 @@
 var a12843 =
 [
-    [ "npc_sanguine_spirit", "dd/d1f/a12843.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
-    [ "Reset", "dd/d1f/a12843.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
-    [ "UpdateAI", "dd/d1f/a12843.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
+    [ "npc_malchezaar_axe", "dd/d1f/a12843.html#a1a5615f2def10add30e7917b770ebc74", null ],
+    [ "Initialize", "dd/d1f/a12843.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
+    [ "JustEngagedWith", "dd/d1f/a12843.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
+    [ "UpdateAI", "dd/d1f/a12843.html#a202ba6922a426f87909eefbccd070175", null ]
 ];

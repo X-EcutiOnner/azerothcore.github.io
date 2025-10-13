@@ -1,6 +1,6 @@
 var a19507 =
 [
-    [ "ChargeRifts", "d4/d7e/a19507.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
-    [ "Execute", "d4/d7e/a19507.html#a8d01bf861d37c25413dc14eee16a2939", null ],
-    [ "_caster", "d4/d7e/a19507.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
+    [ "instance_eye_of_eternity_InstanceMapScript", "d2/df8/a19511.html", "d2/df8/a19511" ],
+    [ "instance_eye_of_eternity", "d4/d7e/a19507.html#afcab4ba969d0423871a4e398627a323d", null ],
+    [ "GetInstanceScript", "d4/d7e/a19507.html#af51319609d355fe87a77a87eb697f434", null ]
 ];

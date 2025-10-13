@@ -1,19 +1,14 @@
 var a14031 =
 [
-    [ "boss_nalorakk", "d4/d24/a14031.html#a4dd18b28685e3dac2406c4e3d8be95aa", null ],
-    [ "CheckAnyEvadeGroup", "d4/d24/a14031.html#a2ef7e2a115b8f2292580c88ff55bb797", null ],
-    [ "CheckFullyDeadGroup", "d4/d24/a14031.html#a0754b8a39fd26f5fb026f9460faa17aa", null ],
-    [ "GroupedAttack", "d4/d24/a14031.html#a249f35697e422a7e7e8a583f85cc97b1", null ],
-    [ "JustDied", "d4/d24/a14031.html#a6f79e518e3a356e0f6093afa8c438fe5", null ],
-    [ "JustEngagedWith", "d4/d24/a14031.html#a1d3c302161e8666c0343d449727c35a9", null ],
-    [ "MoveInLineOfSight", "d4/d24/a14031.html#a3455e91061cfb9ea03712b8006d298df", null ],
-    [ "Reset", "d4/d24/a14031.html#a85093d79b866ceff41357dde22e06867", null ],
-    [ "ShapeShift", "d4/d24/a14031.html#a78b12658138455ccddd9c62b6c7e26dd", null ],
-    [ "UpdateAI", "d4/d24/a14031.html#a4cf5656619dd9339000236ed6b006c90", null ],
-    [ "_active", "d4/d24/a14031.html#a8825e186d58b8f6bbd39976e013ee114", null ],
-    [ "_bearForm", "d4/d24/a14031.html#aa76da1d9912aaa97242f5d27e567e895", null ],
-    [ "_introScheduler", "d4/d24/a14031.html#ac654307d732ac59155321008418f8c90", null ],
-    [ "_phase", "d4/d24/a14031.html#a390142234210027d37f5e4ec7cea84ae", null ],
-    [ "_ranIntro", "d4/d24/a14031.html#a78bd5a9970ab205d9553ed5746a42066", null ],
-    [ "_waveList", "d4/d24/a14031.html#a6093dac3b1353a047174e5aae98c13d6", null ]
+    [ "boss_hexlord_malacrass", "d4/d24/a14031.html#aaf3fdf0b34904d1c5798ebcc291cdcde", null ],
+    [ "JustEngagedWith", "d4/d24/a14031.html#ac5af0a5ec11ab8529e74a1ea7f0b4b66", null ],
+    [ "KilledUnit", "d4/d24/a14031.html#a69e7a3aa2cb068706651bad34363099f", null ],
+    [ "Reset", "d4/d24/a14031.html#af00159c9e2c54033f52f46d60881f22e", null ],
+    [ "ScheduleClassAbility", "d4/d24/a14031.html#aefffbab821a4abb4ab0e6779ba73d5ac", null ],
+    [ "SpawnAdds", "d4/d24/a14031.html#a8ffb01ebe267b4eb935e373bd0d99eed", null ],
+    [ "UseAbility", "d4/d24/a14031.html#afdad8cc36235f11dc5c4b4f579f5b46b", null ],
+    [ "_classAbilityTimer", "d4/d24/a14031.html#a40ccd2e586895ab1cde3c51bcd56c11b", null ],
+    [ "_creatureIndex", "d4/d24/a14031.html#ac13b0f08fec4270ed372f00ae540fdc3", null ],
+    [ "_currentClass", "d4/d24/a14031.html#ab7e531fccbb486b7b429d77d804841c2", null ],
+    [ "_timeUntilNextDrainPower", "d4/d24/a14031.html#aa6963eb30a6e8555d4695bf284b13cac", null ]
 ];

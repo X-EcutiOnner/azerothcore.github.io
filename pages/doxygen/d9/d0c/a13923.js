@@ -1,7 +1,7 @@
 var a13923 =
 [
-    [ "boss_blight_wormAI", "d9/d0c/a13923.html#af267e395fbd539f871e498dc6745c610", null ],
-    [ "Reset", "d9/d0c/a13923.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
-    [ "UpdateAI", "d9/d0c/a13923.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
-    [ "_events", "d9/d0c/a13923.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
+    [ "o", "d9/d0c/a13923.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
+    [ "x", "d9/d0c/a13923.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
+    [ "y", "d9/d0c/a13923.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
+    [ "z", "d9/d0c/a13923.html#abf42d988d416ebe409100c4b860d26db", null ]
 ];

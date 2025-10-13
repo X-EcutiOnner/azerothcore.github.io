@@ -1,8 +1,8 @@
 var a09311 =
 [
-    [ "PlayerListSearcher", "db/d7d/a09311.html#a82520531c26a6c9645956739538cd286", null ],
-    [ "Visit", "db/d7d/a09311.html#a5cec285c685fce6ac215ac0cde740168", null ],
-    [ "Visit", "db/d7d/a09311.html#a87980d05e12069a42baea27ee0e937d3", null ],
-    [ "i_check", "db/d7d/a09311.html#ad49658237a1e6bf54852d4fc127ea660", null ],
-    [ "i_phaseMask", "db/d7d/a09311.html#ae61e586baa621b0dbd15d453d1320091", null ]
+    [ "CreatureWorker", "db/d7d/a09311.html#a4b4dc219d034565cd83748c5f1cab2a5", null ],
+    [ "Visit", "db/d7d/a09311.html#ae67044250380c521055f80c55de0bba5", null ],
+    [ "Visit", "db/d7d/a09311.html#aa9a450b147aafe46a49135f5c5be668e", null ],
+    [ "i_do", "db/d7d/a09311.html#ac22f86d9a41701e7527d4840da256f11", null ],
+    [ "i_phaseMask", "db/d7d/a09311.html#adf514c89c894cdf2b44fc75d14c4f5b0", null ]
 ];

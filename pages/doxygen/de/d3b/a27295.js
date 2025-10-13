@@ -1,11 +1,5 @@
 var a27295 =
 [
-    [ "AccountActionIpLogger", "de/d3b/a27295.html#a73cad77bd83243cb10c4a1b4d7081e0b", null ],
-    [ "AccountIPLogAction", "de/d3b/a27295.html#a9c978dafb71e67b8b278806df507e34b", null ],
-    [ "OnAccountLogin", "de/d3b/a27295.html#a2952adcd73d775b924671e5a69adaccb", null ],
-    [ "OnEmailChange", "de/d3b/a27295.html#aa15d0cc4e6ed3818fa18a927074f5f0c", null ],
-    [ "OnFailedAccountLogin", "de/d3b/a27295.html#a8225c45bcb83e1ddd91a8dcd0f7da9cd", null ],
-    [ "OnFailedEmailChange", "de/d3b/a27295.html#a9fd73dc7b6954dfb4fc94a1f1288ccd2", null ],
-    [ "OnFailedPasswordChange", "de/d3b/a27295.html#a0663e15ea1a29b3daa672c8b6a25548f", null ],
-    [ "OnPasswordChange", "de/d3b/a27295.html#a4b71aa9c1790e6d4033d884a17ce0a2f", null ]
+    [ "achievement_bg_sa_artillery", "de/d3b/a27295.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
+    [ "OnCheck", "de/d3b/a27295.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
 ];

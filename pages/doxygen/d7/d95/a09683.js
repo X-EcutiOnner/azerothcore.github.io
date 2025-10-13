@@ -1,10 +1,6 @@
 var a09683 =
 [
-    [ "const_iterator", "d7/d95/a09683.html#ac52d3ebfa7eaeb9d6fd08f0089b13918", null ],
-    [ "StorageType", "d7/d95/a09683.html#a6825a379d1af4254b920c14ab0068e7b", null ],
-    [ "BossBoundaryData", "d7/d95/a09683.html#a3f80cd89e43eae1a74e2b0a6a674d0cb", null ],
-    [ "~BossBoundaryData", "d7/d95/a09683.html#a446a3ec16cdce76058761fce972f1e57", null ],
-    [ "begin", "d7/d95/a09683.html#a326930360d22d5fdf9a895991f2c4e49", null ],
-    [ "end", "d7/d95/a09683.html#ab3dc9905d861b62c4551f45ee8b08ba5", null ],
-    [ "_data", "d7/d95/a09683.html#af60e90664c434a8d36115ca5dec889b5", null ]
+    [ "bossId", "d7/d95/a09683.html#ac7ce1fcc568ad1fe6bc8a20957357ed8", null ],
+    [ "entry", "d7/d95/a09683.html#a1a199d022692efe54e29a7cb90e73dee", null ],
+    [ "type", "d7/d95/a09683.html#ab5654860b5c27654fa0346e9e92a71fc", null ]
 ];

@@ -1,5 +1,5 @@
 var a03239 =
 [
-    [ "achievement_commandscript", "d1/d7f/a11739.html", "d1/d7f/a11739" ],
-    [ "AddSC_achievement_commandscript", "db/d5f/a03239.html#afeb482a8cffe8416071764bc4e78bff2", null ]
+    [ "mmaps_commandscript", "db/d10/a11899.html", "db/d10/a11899" ],
+    [ "AddSC_mmaps_commandscript", "db/d5f/a03239.html#aa9672a1e32f85f31a4be02f505768ecd", null ]
 ];

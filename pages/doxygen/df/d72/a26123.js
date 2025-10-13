@@ -1,6 +1,6 @@
 var a26123 =
 [
-    [ "HandleScriptEffect", "df/d72/a26123.html#a14df2ed73118826254a6ffa923063f6c", null ],
-    [ "PrepareSpellScript", "df/d72/a26123.html#a1b20ba3fe209ebf0100f32d4013f2d08", null ],
-    [ "Register", "df/d72/a26123.html#ac70a96209898dc6f2c7b2532dc9f5e6c", null ]
+    [ "HandleDummy", "df/d72/a26123.html#a9530db7f75987879285d224fb8381c2b", null ],
+    [ "PrepareSpellScript", "df/d72/a26123.html#ad1c1bdb577739f769802127960aaf9e5", null ],
+    [ "Register", "df/d72/a26123.html#ae3a340132caf3f8839631c92015d47a0", null ]
 ];

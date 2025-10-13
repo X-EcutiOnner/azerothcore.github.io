@@ -1,11 +1,11 @@
 var a23719 =
 [
-    [ "boss_kiggler_the_crazed", "d6/db0/a23719.html#a6f6cd74a8d2b12809f2710f784340fda", null ],
-    [ "AttackStart", "d6/db0/a23719.html#a47c18487637dcb911852573e3aec85a2", null ],
-    [ "JustDied", "d6/db0/a23719.html#acf82f68ccfeabd33bc387dbe7ea0e997", null ],
-    [ "JustEngagedWith", "d6/db0/a23719.html#acd10951a5b148579d0bd4196cc2e686e", null ],
-    [ "Reset", "d6/db0/a23719.html#a3bd8ca2488b2db298a198038a849189e", null ],
-    [ "UpdateAI", "d6/db0/a23719.html#a16e2b767ca4b05eba79726ccb6e11204", null ],
-    [ "_scheduler", "d6/db0/a23719.html#af041c254910df663a03fcc815db635da", null ],
-    [ "instance", "d6/db0/a23719.html#aa78db443f19814c66b977fe008de74fa", null ]
+    [ "boss_high_king_maulgar", "d6/db0/a23719.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
+    [ "DoAction", "d6/db0/a23719.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
+    [ "JustDied", "d6/db0/a23719.html#ad235febd755745313b72394c633c3723", null ],
+    [ "JustEngagedWith", "d6/db0/a23719.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
+    [ "KilledUnit", "d6/db0/a23719.html#a2059016597039929103c053d6524ebf7", null ],
+    [ "Reset", "d6/db0/a23719.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
+    [ "UpdateAI", "d6/db0/a23719.html#ae540909dbbb3cf93e37503cd755c3001", null ],
+    [ "_recentlySpoken", "d6/db0/a23719.html#a306f8492d83703b339a8fbe044e0cbbd", null ]
 ];

@@ -1,5 +1,6 @@
 var a19395 =
 [
-    [ "at_thaddius_entrance", "d7/dab/a19395.html#ad81a60cac337baad82ea526de1d151d1", null ],
-    [ "OnTrigger", "d7/dab/a19395.html#af8635a58d4da0421b72b4451c1ebafc5", null ]
+    [ "npc_teslaAI", "d6/d1e/a19399.html", "d6/d1e/a19399" ],
+    [ "npc_tesla", "d7/dab/a19395.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
+    [ "GetAI", "d7/dab/a19395.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
 ];

@@ -1,7 +1,5 @@
 var a25603 =
 [
-    [ "HandleOnEffectApply", "d0/d52/a25603.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
-    [ "HandleOnEffectRemove", "d0/d52/a25603.html#a094d788d157474a9683387d5c340538f", null ],
-    [ "PrepareAuraScript", "d0/d52/a25603.html#aad378b8c45f11af51faf9128878c01df", null ],
-    [ "Register", "d0/d52/a25603.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
+    [ "PrepareSpellScript", "d0/d52/a25603.html#aa07fade62e79ccc8ad969de44b886332", null ],
+    [ "Register", "d0/d52/a25603.html#a1c20e492be2655e8547d36fedb29cfdc", null ]
 ];

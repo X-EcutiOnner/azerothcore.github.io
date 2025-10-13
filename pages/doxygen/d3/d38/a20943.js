@@ -1,6 +1,6 @@
 var a20943 =
 [
-    [ "BoomEvent", "d3/d38/a20943.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
-    [ "Execute", "d3/d38/a20943.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
-    [ "_me", "d3/d38/a20943.html#a30de77ee751f1c10231088cb84942342", null ]
+    [ "npc_xt002_pummellerAI", "df/d6d/a20947.html", "df/d6d/a20947" ],
+    [ "npc_xt002_pummeller", "d3/d38/a20943.html#af620e31a231ca8fb812324521bad4673", null ],
+    [ "GetAI", "d3/d38/a20943.html#a9ec4e452a3763c3d03e581a17e5d7efe", null ]
 ];

@@ -1,11 +1,6 @@
 var a16107 =
 [
-    [ "spell_hadronox_summon_periodic_aura", "d0/d73/a16107.html#afcca15cddf71c0d46bd811eab9174f1a", null ],
-    [ "HandlePeriodic", "d0/d73/a16107.html#a048695baf71d307e5aaa00e54586c9f7", null ],
-    [ "OnApply", "d0/d73/a16107.html#a4466547bc1a5259a33354f2008d6cce7", null ],
-    [ "PrepareAuraScript", "d0/d73/a16107.html#a4205560054e5baed86aecba3b98fc202", null ],
-    [ "Register", "d0/d73/a16107.html#a09efdcddaed4af2833139ca20ef94376", null ],
-    [ "Validate", "d0/d73/a16107.html#a20827683249c17625242e205bb51f9e8", null ],
-    [ "_delay", "d0/d73/a16107.html#a191d7eec948e0753835bd41eef66f1ec", null ],
-    [ "_spellEntry", "d0/d73/a16107.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
+    [ "npc_anub_ar_crusherAI", "dd/d96/a16111.html", "dd/d96/a16111" ],
+    [ "npc_anub_ar_crusher", "d0/d73/a16107.html#a3397fab6358ce8c19aecaad734e0ef78", null ],
+    [ "GetAI", "d0/d73/a16107.html#aeb8eb3e39612d0f7059f1910033cbbcc", null ]
 ];

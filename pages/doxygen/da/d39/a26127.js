@@ -1,6 +1,8 @@
 var a26127 =
 [
-    [ "CheckCast", "da/d39/a26127.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
-    [ "PrepareSpellScript", "da/d39/a26127.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
-    [ "Register", "da/d39/a26127.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
+    [ "HandleDummy", "da/d39/a26127.html#a13b4ea32e03dec26d0cdaa9537abb3b0", null ],
+    [ "Load", "da/d39/a26127.html#a78506404ba25b054a9ab3f7176a5d4fc", null ],
+    [ "PrepareSpellScript", "da/d39/a26127.html#a070e83b84feb418f02327240daebede7", null ],
+    [ "Register", "da/d39/a26127.html#a0c2965e62feb26ca764636fcd3a1f885", null ],
+    [ "Validate", "da/d39/a26127.html#a48934cde38c6f3b18087267b616ff338", null ]
 ];

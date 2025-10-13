@@ -1,7 +1,5 @@
 var a14191 =
 [
-    [ "OnRemove", "da/d9e/a14191.html#ab909660f32a77e86fde5da35e2f69302", null ],
-    [ "PrepareAuraScript", "da/d9e/a14191.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
-    [ "Register", "da/d9e/a14191.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
-    [ "Validate", "da/d9e/a14191.html#abd1254c53c04f72f848d8641affc729d", null ]
+    [ "at_zulgurub_entrance_speech", "da/d9e/a14191.html#afef11c6a7e97befd07072826fa13be55", null ],
+    [ "_OnTrigger", "da/d9e/a14191.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
 ];

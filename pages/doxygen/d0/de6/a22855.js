@@ -1,6 +1,8 @@
 var a22855 =
 [
-    [ "instance_mana_tombs_InstanceMapScript", "d0/d57/a22859.html", "d0/d57/a22859" ],
-    [ "instance_mana_tombs", "d0/de6/a22855.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
-    [ "GetInstanceScript", "d0/de6/a22855.html#a26e4dad0957df886bc446396ab48ceda", null ]
+    [ "boss_pandemonius", "d0/de6/a22855.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
+    [ "JustDied", "d0/de6/a22855.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
+    [ "JustEngagedWith", "d0/de6/a22855.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
+    [ "KilledUnit", "d0/de6/a22855.html#a26a012afe8c418c8da283c7b9f983e89", null ],
+    [ "PullRoom", "d0/de6/a22855.html#a05011127290350f11cc1a333b23dbb04", null ]
 ];

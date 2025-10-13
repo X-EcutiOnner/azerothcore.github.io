@@ -1,7 +1,8 @@
 var a12027 =
 [
-    [ "npc_rocknotAI", "db/d98/a12031.html", "db/d98/a12031" ],
-    [ "npc_rocknot", "d2/d99/a12027.html#a64a0cd215c1f4881948e5a49cf1b86d7", null ],
-    [ "GetAI", "d2/d99/a12027.html#ac8a90d54e9303c40f0313fda1dcfea86", null ],
-    [ "OnQuestReward", "d2/d99/a12027.html#abd8ad3d7e6dd1e557398e268409a2c98", null ]
+    [ "ironhand_guardianAI", "d2/d99/a12027.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
+    [ "SetData", "d2/d99/a12027.html#ab4e6402951bf45910fb3399ea107b207", null ],
+    [ "UpdateAI", "d2/d99/a12027.html#a095b11f44935c8ddb43a20c095495507", null ],
+    [ "events", "d2/d99/a12027.html#a13ed887285809d2fcad0d23fdf37face", null ],
+    [ "flames_enabled", "d2/d99/a12027.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
 ];

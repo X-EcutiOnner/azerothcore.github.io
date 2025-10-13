@@ -1,7 +1,10 @@
 var a04505 =
 [
-    [ "GameobjectModelData", "d6/d32/a05075.html", "d6/d32/a05075" ],
-    [ "ModelList", "d7/d43/a04505.html#a2f908ce58f8fea2d0606bfe603d719d1", null ],
-    [ "LoadGameObjectModelList", "d7/d43/a04505.html#a5a80774080fc05f90c7d92213fda6788", null ],
-    [ "model_list", "d7/d43/a04505.html#aa0a0fd13eaa3eba090a3085d41303f12", null ]
+    [ "VMAP::ModelSpawn", "d9/de1/a05091.html", "d9/de1/a05091" ],
+    [ "VMAP::ModelInstance", "de/d11/a05095.html", "de/d11/a05095" ],
+    [ "ModelFlags", "d7/d43/a04505.html#ac540ff16efadcc07eeb9d8511b94ccce", [
+      [ "MOD_M2", "d7/d43/a04505.html#ac540ff16efadcc07eeb9d8511b94ccceadfad2b6f6278e720b00314cd5117b673", null ],
+      [ "MOD_WORLDSPAWN", "d7/d43/a04505.html#ac540ff16efadcc07eeb9d8511b94cccea3a6165ebc7b838e28ef59670dc84dc46", null ],
+      [ "MOD_HAS_BOUND", "d7/d43/a04505.html#ac540ff16efadcc07eeb9d8511b94ccceaa47940cd802c5225d2babb37d24c7f09", null ]
+    ] ]
 ];

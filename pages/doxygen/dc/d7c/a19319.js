@@ -1,6 +1,8 @@
 var a19319 =
 [
-    [ "boss_nothAI", "d5/d17/a19323.html", "d5/d17/a19323" ],
-    [ "boss_noth", "dc/d7c/a19319.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
-    [ "GetAI", "dc/d7c/a19319.html#a534f30792c051ab44c6c07c9347893e5", null ]
+    [ "boss_maexxna_webwrapAI", "dc/d7c/a19319.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
+    [ "IsSummonedBy", "dc/d7c/a19319.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
+    [ "JustDied", "dc/d7c/a19319.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
+    [ "UpdateAI", "dc/d7c/a19319.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
+    [ "victimGUID", "dc/d7c/a19319.html#a54081ebfc0df639b7e18b5f079802c92", null ]
 ];

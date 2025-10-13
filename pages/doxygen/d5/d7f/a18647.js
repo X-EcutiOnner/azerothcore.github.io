@@ -1,7 +1,6 @@
 var a18647 =
 [
-    [ "AuraRemoveEvent", "d5/d7f/a18647.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "d5/d7f/a18647.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "d5/d7f/a18647.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "d5/d7f/a18647.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "ManaVoidSelector", "d5/d7f/a18647.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "d5/d7f/a18647.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "d5/d7f/a18647.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

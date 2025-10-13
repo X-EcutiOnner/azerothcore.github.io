@@ -1,6 +1,7 @@
 var a25043 =
 [
-    [ "PrepareSpellScript", "d9/dc8/a25043.html#ae8ef8bea1a6afa3f810c476e038bacc6", null ],
-    [ "RecalculateDamage", "d9/dc8/a25043.html#a856fdecdde1c68a163caf61afb2b0b90", null ],
-    [ "Register", "d9/dc8/a25043.html#a7f8c5c4920a87605b716e9e85b43ef47", null ]
+    [ "if", "d9/dc8/a25043.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
+    [ "PrepareAuraScript", "d9/dc8/a25043.html#a01d974333043452a37ec3124d23b49f2", null ],
+    [ "Register", "d9/dc8/a25043.html#aeb6c695819e894aad8b210a237e6d315", null ],
+    [ "AuraEffectHandleModes", "d9/dc8/a25043.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
 ];

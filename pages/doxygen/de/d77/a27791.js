@@ -1,9 +1,8 @@
 var a27791 =
 [
-    [ "npc_chicken_cluckAI", "de/d77/a27791.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "de/d77/a27791.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "de/d77/a27791.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "de/d77/a27791.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "de/d77/a27791.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "de/d77/a27791.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "npc_riggle_bassbaitAI", "d2/dd9/a27795.html", "d2/dd9/a27795" ],
+    [ "npc_riggle_bassbait", "de/d77/a27791.html#afc4280099cda3c28c4634d649e636839", null ],
+    [ "GetAI", "de/d77/a27791.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
+    [ "OnGossipHello", "de/d77/a27791.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
+    [ "OnQuestReward", "de/d77/a27791.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
 ];

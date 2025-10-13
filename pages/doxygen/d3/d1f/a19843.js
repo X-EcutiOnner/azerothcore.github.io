@@ -1,6 +1,6 @@
 var a19843 =
 [
-    [ "dark_rune_stormcallerAI", "dd/de3/a19847.html", "dd/de3/a19847" ],
-    [ "dark_rune_stormcaller", "d3/d1f/a19843.html#ab31774011fc3e1e8ffa1a3b7c5cbfbcc", null ],
-    [ "GetAI", "d3/d1f/a19843.html#a9072aaf482106cfae0d3901507b47f60", null ]
+    [ "dark_rune_protectorsAI", "dd/de3/a19847.html", "dd/de3/a19847" ],
+    [ "dark_rune_protectors", "d3/d1f/a19843.html#a14225a2369a8deea416fc640a2d7b075", null ],
+    [ "GetAI", "d3/d1f/a19843.html#a359e4049b7ec828177d9a36d23e9b4ef", null ]
 ];

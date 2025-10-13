@@ -1,6 +1,8 @@
 var a12679 =
 [
-    [ "npc_mc_core_houndAI", "d7/d81/a12683.html", "d7/d81/a12683" ],
-    [ "npc_mc_core_hound", "de/d82/a12679.html#aee1ef71447dbd1494de5e0065bd5ae78", null ],
-    [ "GetAI", "de/d82/a12679.html#a3aa8c5332b509b4d5498cd726ab47e40", null ]
+    [ "FilterTargets", "de/d82/a12679.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
+    [ "HandleScript", "de/d82/a12679.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
+    [ "PrepareSpellScript", "de/d82/a12679.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
+    [ "Register", "de/d82/a12679.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
+    [ "Validate", "de/d82/a12679.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
 ];

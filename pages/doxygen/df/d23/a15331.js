@@ -1,9 +1,13 @@
 var a15331 =
 [
-    [ "boss_fankriss", "df/d23/a15331.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
-    [ "JustEngagedWith", "df/d23/a15331.html#a9eaae719a271a95f64ac8076fe807c13", null ],
-    [ "Reset", "df/d23/a15331.html#af84010ee103eb81c1e269b03fc640f81", null ],
-    [ "SummonHatchlingWaves", "df/d23/a15331.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
-    [ "SummonWorms", "df/d23/a15331.html#ada23537921c3a11195450db89eb8fcfe", null ],
-    [ "summonWormSpells", "df/d23/a15331.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
+    [ "npc_giant_claw_tentacle", "df/d23/a15331.html#aa50511886122a337fc59585fba03b590", null ],
+    [ "Emerge", "df/d23/a15331.html#ad5fd7a9246c9c7aba0fa71d331e1f512", null ],
+    [ "JustDied", "df/d23/a15331.html#aaaed0a9fb39d30f5c9c7381e923a3d1e", null ],
+    [ "JustEngagedWith", "df/d23/a15331.html#ad4dceaafa3bb12b2e5cb7d9530c59d31", null ],
+    [ "Reset", "df/d23/a15331.html#a8da9c7e164bc7d7bc6e70a784420c3bc", null ],
+    [ "ScheduleTasks", "df/d23/a15331.html#af62d155ec2cf4f56c956869aed8fa1f9", null ],
+    [ "Submerge", "df/d23/a15331.html#ac4fedda976b2de295350363e9fef86ec", null ],
+    [ "UpdateAI", "df/d23/a15331.html#aa3cc1eac6fe92e4325ec0b5a4f7a2604", null ],
+    [ "_canAttack", "df/d23/a15331.html#a62be930ba345b1d2e0df832e72570752", null ],
+    [ "_portalGUID", "df/d23/a15331.html#a175bd11b9d5651d44cc0dd213b2c4ef5", null ]
 ];

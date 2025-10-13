@@ -1,7 +1,14 @@
 var a11071 =
 [
-    [ "UpdateWorldState", "d3/d6e/a11071.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
-    [ "Write", "d3/d6e/a11071.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
-    [ "Value", "d3/d6e/a11071.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
-    [ "VariableID", "d3/d6e/a11071.html#aa73278b324822f509f48e6edcdaed457", null ]
+    [ "NameQueryResponse", "d3/d6e/a11071.html#a04a03faa1ab655eb87d755b603f7b427", null ],
+    [ "Write", "d3/d6e/a11071.html#a8bbf006e3b84b9b47df8f1497a6c4eb8", null ],
+    [ "Class", "d3/d6e/a11071.html#acd3c6d5f56924fe32bb8a0bddddce13a", null ],
+    [ "Declined", "d3/d6e/a11071.html#abe147a5c99db99148cc3b76136eccb2b", null ],
+    [ "DeclinedNames", "d3/d6e/a11071.html#a4d3a2f218c8e1763889cc45adc514f0b", null ],
+    [ "Guid", "d3/d6e/a11071.html#ae45b2723b1b5a3313566df2d353114f9", null ],
+    [ "Name", "d3/d6e/a11071.html#ad2d16050d9229912105c8f2136538d91", null ],
+    [ "NameUnknown", "d3/d6e/a11071.html#ab15e54b3abb638a8782ce4eefa77d489", null ],
+    [ "Race", "d3/d6e/a11071.html#a74463c6218d56c913df7f24b7491003f", null ],
+    [ "RealmName", "d3/d6e/a11071.html#ab52bc81a49ff62ea23f1dd05e4826f6c", null ],
+    [ "Sex", "d3/d6e/a11071.html#ae3f54cab19cf94fef55ef1dcac1f1ad8", null ]
 ];

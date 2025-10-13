@@ -1,9 +1,7 @@
 var a11611 =
 [
-    [ "ClientKeySeed", "d8/d49/a11611.html#a3e2df88e6fd716030d70a77850e96970", null ],
-    [ "ClientKeySeedHash", "d8/d49/a11611.html#ae2523827d6f9abae5eed0b463c00062f", null ],
-    [ "Module", "d8/d49/a11611.html#a1fcce28666a614c83d06729bc9c88bb4", null ],
-    [ "ModuleKey", "d8/d49/a11611.html#ac34f4c4997f5f64a9dcf4ad7d914a215", null ],
-    [ "Seed", "d8/d49/a11611.html#a3c8e1b5c642f12e29837800f0428f34e", null ],
-    [ "ServerKeySeed", "d8/d49/a11611.html#ad29fe1f9ba6ef32f1d35657683b0e11b", null ]
+    [ "PlayerGuid", "d8/d49/a11611.html#a629a600c48376d04293c225390f747ff", null ],
+    [ "PrimaryKey", "d8/d49/a11611.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
+    [ "StoredType", "d8/d49/a11611.html#a9bea7cf549813010b55c23417d65edc6", null ],
+    [ "TableName", "d8/d49/a11611.html#a0f308af88812c110c490c94368bda482", null ]
 ];

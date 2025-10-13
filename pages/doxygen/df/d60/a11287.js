@@ -1,7 +1,6 @@
 var a11287 =
 [
-    [ "WorldObjectSpellNearbyTargetCheck", "df/d60/a11287.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
-    [ "operator()", "df/d60/a11287.html#a731ee07d028a5ee63ecd14321c83664d", null ],
-    [ "_position", "df/d60/a11287.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
-    [ "_range", "df/d60/a11287.html#abfec0df490876b2b83dcdee4da75a77f", null ]
+    [ "ChannelTargetData", "df/d60/a11287.html#a26f2a2037750712d8718d9537603e3a1", null ],
+    [ "channelGUID", "df/d60/a11287.html#afad1c896d6a137ebb224fd636ba4d7f2", null ],
+    [ "spellDst", "df/d60/a11287.html#aa5cfec093a599f4bf33ebf0c73a2f4ac", null ]
 ];

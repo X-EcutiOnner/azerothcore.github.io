@@ -1,15 +1,16 @@
 var a14023 =
 [
-    [ "npc_janalai_hatcher", "dc/dff/a14023.html#a337e21f5a014d0f9d7a1f614b7245f36", null ],
-    [ "AttackStart", "dc/dff/a14023.html#a5a7826964349ed9adbbdeb7c733dd915", null ],
-    [ "JustEngagedWith", "dc/dff/a14023.html#a54c251278dcfa22052b6c6e49a4abd89", null ],
-    [ "MoveInLineOfSight", "dc/dff/a14023.html#a4ae2157e37bb93b7465e029e526a6ce4", null ],
-    [ "MovementInform", "dc/dff/a14023.html#a3a0170bc53f9f8f96090e34097b90c2c", null ],
-    [ "MoveToNewWaypoint", "dc/dff/a14023.html#ab775a888ae1002eed3ed548ab89ca2e4", null ],
-    [ "Reset", "dc/dff/a14023.html#ab1c3945160c55b2b2d63763eacced473", null ],
-    [ "UpdateAI", "dc/dff/a14023.html#ab5cc0c5f73593128b6d6e023aa4ce609", null ],
-    [ "_isHatching", "dc/dff/a14023.html#aae712db69c870d00d07a37b8611ecaf4", null ],
-    [ "_repeatCount", "dc/dff/a14023.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12", null ],
-    [ "_side", "dc/dff/a14023.html#a177ddd5ff96902363ab708f0c737fc20", null ],
-    [ "_waypoint", "dc/dff/a14023.html#ab39ab27d8057b52b77637faefd48e8e6", null ]
+    [ "boss_halazzi", "dc/dff/a14023.html#aed961a9e12b44dfd97bd31c981184be5", null ],
+    [ "AttackStart", "dc/dff/a14023.html#a000c3b6b8a73fd8f858b87724dfcf123", null ],
+    [ "DamageTaken", "dc/dff/a14023.html#aaa698dfa4d4a991968eebee3330e967a", null ],
+    [ "DoAction", "dc/dff/a14023.html#a1685c7c99a797ec332b67797a294d83a", null ],
+    [ "EnterPhase", "dc/dff/a14023.html#a951a0c9fc4fc737abbaaae77dfd4e43b", null ],
+    [ "JustDied", "dc/dff/a14023.html#aa607a13fef1b8c195ba0aa09fafdaaae", null ],
+    [ "JustEngagedWith", "dc/dff/a14023.html#a1dd4992bfca0bf658bd7a385300578ae", null ],
+    [ "JustSummoned", "dc/dff/a14023.html#a152267cb31912106443ceea9488fee0a", null ],
+    [ "KilledUnit", "dc/dff/a14023.html#a4d69fa8e754f823a599c52e227361600", null ],
+    [ "Reset", "dc/dff/a14023.html#a9d9a82e5ae8dadfefcf2c929325cb60e", null ],
+    [ "SpellHit", "dc/dff/a14023.html#a36141673391a423174db874ca425ea07", null ],
+    [ "_phase", "dc/dff/a14023.html#a1f76fd0c02eec20aa2c222b278420dd8", null ],
+    [ "_transformCount", "dc/dff/a14023.html#a9a86487f20e48d6be123bd61aaf13f7f", null ]
 ];

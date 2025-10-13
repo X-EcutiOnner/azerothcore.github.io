@@ -1,6 +1,10 @@
 var a11463 =
 [
-    [ "EffectPeriodicHandler", "d1/d27/a11463.html#aad44956783e9c044eb92065cc62e97f6", null ],
-    [ "Call", "d1/d27/a11463.html#a938e987363972fbd58e42f19880016d8", null ],
-    [ "pEffectHandlerScript", "d1/d27/a11463.html#a803108e6a515d2d210d8e79a9fb6ce18", null ]
+    [ "TargetHook", "d1/d27/a11463.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
+    [ "CheckEffect", "d1/d27/a11463.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
+    [ "GetTarget", "d1/d27/a11463.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
+    [ "ToString", "d1/d27/a11463.html#a424e03e457dc15a2689f344e614a882f", null ],
+    [ "area", "d1/d27/a11463.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
+    [ "dest", "d1/d27/a11463.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
+    [ "targetType", "d1/d27/a11463.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
 ];

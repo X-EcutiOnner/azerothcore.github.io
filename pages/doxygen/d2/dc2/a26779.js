@@ -1,8 +1,9 @@
 var a26779 =
 [
-    [ "CheckCast", "d2/dc2/a26779.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
-    [ "CheckQuest", "d2/dc2/a26779.html#abc927d932c1d5e05eab1918364d68ed5", null ],
-    [ "HandleActiveObject", "d2/dc2/a26779.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
-    [ "PrepareSpellScript", "d2/dc2/a26779.html#a96e69476965cc2466213a5371a57093a", null ],
-    [ "Register", "d2/dc2/a26779.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
+    [ "HandleKnockBack", "d2/dc2/a26779.html#acaa8f445874270f34ea5b42a506671db", null ],
+    [ "HandleScript", "d2/dc2/a26779.html#a29e47298601cb55c5442a3fa59bb3646", null ],
+    [ "Load", "d2/dc2/a26779.html#a45700aba665b601b2c860af5a869d1af", null ],
+    [ "PrepareSpellScript", "d2/dc2/a26779.html#aad1c175a2611152278d847ac59f93090", null ],
+    [ "Register", "d2/dc2/a26779.html#ad790d435f422fabd128e601fb2dff103", null ],
+    [ "Validate", "d2/dc2/a26779.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
 ];

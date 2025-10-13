@@ -1,10 +1,9 @@
 var a15335 =
 [
-    [ "boss_huhuran", "d9/d63/a15335.html#a64e0b20891992764c708cbb661c18196", null ],
-    [ "DamageTaken", "d9/d63/a15335.html#adb47086f29b41f4168ad5d1b2728547d", null ],
-    [ "JustEngagedWith", "d9/d63/a15335.html#a08f1d6550680d5bcf07332eade115730", null ],
-    [ "Reset", "d9/d63/a15335.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
-    [ "UpdateAI", "d9/d63/a15335.html#a23962e668f046b373f94ea6a2d75574a", null ],
-    [ "_berserk", "d9/d63/a15335.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
-    [ "_hardEnrage", "d9/d63/a15335.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
+    [ "npc_giant_eye_tentacle", "d9/d63/a15335.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
+    [ "JustDied", "d9/d63/a15335.html#a72cac50a711868256a41c543d0cef3da", null ],
+    [ "JustEngagedWith", "d9/d63/a15335.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
+    [ "Reset", "d9/d63/a15335.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
+    [ "UpdateAI", "d9/d63/a15335.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
+    [ "_portalGUID", "d9/d63/a15335.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
 ];

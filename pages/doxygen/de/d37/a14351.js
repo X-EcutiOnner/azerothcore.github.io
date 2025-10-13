@@ -1,6 +1,6 @@
 var a14351 =
 [
-    [ "npc_brewfest_keg_reciver", "de/d37/a14351.html#af12e7608f3f715650e6c265ac18920e4", null ],
-    [ "MoveInLineOfSight", "de/d37/a14351.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
-    [ "sGossipSelect", "de/d37/a14351.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
+    [ "boss_wushoolayAI", "de/d37/a14351.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
+    [ "JustEngagedWith", "de/d37/a14351.html#af519da543fff63a39a6fbe48f90f2f22", null ],
+    [ "UpdateAI", "de/d37/a14351.html#acfaacee2a97212eb15056c1552b9e06b", null ]
 ];

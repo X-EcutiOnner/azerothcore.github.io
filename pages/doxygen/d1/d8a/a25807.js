@@ -1,6 +1,6 @@
 var a25807 =
 [
-    [ "HandleActivateObject", "d1/d8a/a25807.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "d1/d8a/a25807.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "d1/d8a/a25807.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "HandleHeal", "d1/d8a/a25807.html#a3d315ab6d76d45f3d0f5de4a312377ff", null ],
+    [ "PrepareSpellScript", "d1/d8a/a25807.html#ad77d816c82714fe2cafb4dbf48691937", null ],
+    [ "Register", "d1/d8a/a25807.html#a313abe6367e5494bd81a557ab42f9f50", null ]
 ];

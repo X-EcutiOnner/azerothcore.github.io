@@ -1,6 +1,8 @@
 var a26395 =
 [
-    [ "CheckCast", "d7/d47/a26395.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
-    [ "PrepareSpellScript", "d7/d47/a26395.html#a33e86d770e926247c58c00143b55c418", null ],
-    [ "Register", "d7/d47/a26395.html#a453c7fa25baf458c9a319053ca726621", null ]
+    [ "Load", "d7/d47/a26395.html#a7662d85a5469c20edf6d2eefca820db3", null ],
+    [ "PrepareAuraScript", "d7/d47/a26395.html#a252bd975a7639eab4e151249db974b7c", null ],
+    [ "Register", "d7/d47/a26395.html#a51723a22f1062f44e8eb6848e1398595", null ],
+    [ "Split", "d7/d47/a26395.html#a08e982eae6030fdc679663bfd38bca47", null ],
+    [ "remainingAmount", "d7/d47/a26395.html#afaab88988769ddc720deb44f06de3d7d", null ]
 ];

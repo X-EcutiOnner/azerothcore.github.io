@@ -1,8 +1,6 @@
 var a14143 =
 [
-    [ "FilterTargets", "d2/d86/a14143.html#a3405b21202d423c649e0b8d341b42d9c", null ],
-    [ "HandleWipeThreat", "d2/d86/a14143.html#a2bbcce83bffebc509e9ec54778e82639", null ],
-    [ "PrepareSpellScript", "d2/d86/a14143.html#a59948484b528cab69c695f08b39b886d", null ],
-    [ "Register", "d2/d86/a14143.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
-    [ "_wipeThreat", "d2/d86/a14143.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
+    [ "boss_arlokkAI", "d9/d2e/a14147.html", "d9/d2e/a14147" ],
+    [ "boss_arlokk", "d2/d86/a14143.html#a55bb21239e05acff18d2fb147449800e", null ],
+    [ "GetAI", "d2/d86/a14143.html#a58b8cc7a198784b48faaab1b069d397c", null ]
 ];

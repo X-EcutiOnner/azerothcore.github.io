@@ -1,8 +1,5 @@
 var a27951 =
 [
-    [ "npc_cultist_engineer", "d2/d7a/a27951.html#a02675a96d20902d147b0370fa1715d81", null ],
-    [ "JustDied", "d2/d7a/a27951.html#a4b4d561f827553998caa204e0e1b9e54", null ],
-    [ "Reset", "d2/d7a/a27951.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
-    [ "sGossipSelect", "d2/d7a/a27951.html#ab26d124cbfdc4d649fef6058e9637845", null ],
-    [ "UpdateAI", "d2/d7a/a27951.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
+    [ "npc_controller", "d2/d7a/a27951.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
+    [ "OnCharmed", "d2/d7a/a27951.html#a69628677de225d76a8c89b4626e0f32b", null ]
 ];

@@ -1,6 +1,6 @@
 var a19263 =
 [
-    [ "boss_kelthuzadAI", "da/d01/a19267.html", "da/d01/a19267" ],
-    [ "boss_kelthuzad", "dc/d9c/a19263.html#a52b0988d0ee9e41c8a7911f2d2460442", null ],
-    [ "GetAI", "dc/d9c/a19263.html#acf19b29d6c1eb0052baa7ff491f6a050", null ]
+    [ "boss_heiganAI", "da/d01/a19267.html", "da/d01/a19267" ],
+    [ "boss_heigan", "dc/d9c/a19263.html#aefa3a6d870bde0d33504c5f2b56572be", null ],
+    [ "GetAI", "dc/d9c/a19263.html#ad9edf8eade874c1ecc2cecdac17700a1", null ]
 ];

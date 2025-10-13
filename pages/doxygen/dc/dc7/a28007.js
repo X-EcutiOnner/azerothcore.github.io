@@ -1,6 +1,7 @@
 var a28007 =
 [
-    [ "X", "dc/dc7/a28007.html#a55bda49b2eb919415afaf780ca1977de", null ],
-    [ "Y", "dc/dc7/a28007.html#a0bf22799258050a9b12ddc14bb2b4b11", null ],
-    [ "Z", "dc/dc7/a28007.html#a7f0ceece775146d825d19a3cd22e5da3", null ]
+    [ "HandleDummy", "dc/dc7/a28007.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
+    [ "PrepareSpellScript", "dc/dc7/a28007.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
+    [ "Register", "dc/dc7/a28007.html#a3fda4d652c1264b3cfababdd98297c61", null ],
+    [ "Validate", "dc/dc7/a28007.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
 ];

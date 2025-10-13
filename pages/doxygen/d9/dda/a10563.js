@@ -1,7 +1,5 @@
 var a10563 =
 [
-    [ "Emote", "d9/dda/a10563.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
-    [ "Write", "d9/dda/a10563.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
-    [ "EmoteID", "d9/dda/a10563.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
-    [ "Guid", "d9/dda/a10563.html#ab96a1c0933e90872f54eb0995098274a", null ]
+    [ "LogoutComplete", "d9/dda/a10563.html#a94f3ea0cd30d1eb44733c1c5aef05ec7", null ],
+    [ "Write", "d9/dda/a10563.html#a0d958bc07b674ed3339833351fec7d3a", null ]
 ];

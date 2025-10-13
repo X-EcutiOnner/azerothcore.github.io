@@ -1,6 +1,6 @@
 var a11487 =
 [
-    [ "EffectAbsorbHandler", "d9/dc3/a11487.html#a29bb773b8271acf651b08f33ce358720", null ],
-    [ "Call", "d9/dc3/a11487.html#a56bfb0fd0d860678920445d1182c09ef", null ],
-    [ "pEffectHandlerScript", "d9/dc3/a11487.html#a519489b8d951173a806e86cfe075faf1", null ]
+    [ "AuraDispelHandler", "d9/dc3/a11487.html#ab6e675b4db931c601b3d6aef65ae0ff6", null ],
+    [ "Call", "d9/dc3/a11487.html#a147d8a6d95f011f27600d052ef7b4000", null ],
+    [ "pHandlerScript", "d9/dc3/a11487.html#ab7dd73a36aa517354a023deb7db0cf19", null ]
 ];

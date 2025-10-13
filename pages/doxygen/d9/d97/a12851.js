@@ -1,6 +1,10 @@
 var a12851 =
 [
-    [ "HandleCast", "d9/d97/a12851.html#aefe0621647cd9e25f19063eb5ce4dd69", null ],
-    [ "PrepareSpellScript", "d9/d97/a12851.html#afb4d3414a0da5e2701ee114349cf64ce", null ],
-    [ "Register", "d9/d97/a12851.html#a261a63e366c22c6bf2d1d7dfec97c6e2", null ]
+    [ "boss_servant_quarters", "d9/d97/a12851.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
+    [ "JustDied", "d9/d97/a12851.html#a3b9df7ab573f22a9e15761cb662db404", null ],
+    [ "JustEngagedWith", "d9/d97/a12851.html#afe4a4a78824851f63ce560a60d55cee3", null ],
+    [ "MovementInform", "d9/d97/a12851.html#a00d31d9421903b6a92c03a3bd0382328", null ],
+    [ "Reset", "d9/d97/a12851.html#a273a09b1242968a5dd45ab9866fbe481", null ],
+    [ "UpdateAI", "d9/d97/a12851.html#a6a41cfd67310077803733190645050e4", null ],
+    [ "_scheduler", "d9/d97/a12851.html#a520142de5e8d2911684b18c85a3f37e2", null ]
 ];

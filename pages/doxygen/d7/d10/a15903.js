@@ -1,10 +1,12 @@
 var a15903 =
 [
-    [ "npc_ameAI", "d7/d10/a15903.html#ad3d0ee584859b2b0fb7c6c5dbf204ad6", null ],
-    [ "JustDied", "d7/d10/a15903.html#a9b77f94f112477509c3163945ceb8201", null ],
-    [ "JustSummoned", "d7/d10/a15903.html#ab09c72c4ea50313c23a53d3862aeddea", null ],
-    [ "Reset", "d7/d10/a15903.html#a0bda0f95bd97b9e755a745a8ea41ba49", null ],
-    [ "UpdateAI", "d7/d10/a15903.html#a0a073e4c216985607aa51099044ff6c5", null ],
-    [ "WaypointReached", "d7/d10/a15903.html#a44b06a6a977d20b03ed663f1090ed43c", null ],
-    [ "DemoralizingShoutTimer", "d7/d10/a15903.html#ab5d1786735adea4bce1bba8adf42a877", null ]
+    [ "npc_cairne_bloodhoofAI", "d7/d10/a15903.html#ac87f0d10b1886ffa24ae201fdb614441", null ],
+    [ "Reset", "d7/d10/a15903.html#ab58f32a6bd1659b1a54fb056526c121a", null ],
+    [ "sGossipSelect", "d7/d10/a15903.html#aa95b820eb4d3c6c5f1898a67c319b1a6", null ],
+    [ "UpdateAI", "d7/d10/a15903.html#aefcbb7b2da6d1039055c27feeb1f5f9e", null ],
+    [ "_berserkerChargeTimer", "d7/d10/a15903.html#a2efb1949abe83dadf62b5c868ae57fe2", null ],
+    [ "_cleaveTimer", "d7/d10/a15903.html#ab1ed741e998cd7ed088cab3af378b3ca", null ],
+    [ "_mortalStrikeTimer", "d7/d10/a15903.html#a9f33790662ce229669e5d1d6f2aac8b0", null ],
+    [ "_thunderclapTimer", "d7/d10/a15903.html#a6bdca667875353db2badc40fd95a1ce4", null ],
+    [ "_uppercutTimer", "d7/d10/a15903.html#a9f13acd7df900d9bdac64898b183c67d", null ]
 ];

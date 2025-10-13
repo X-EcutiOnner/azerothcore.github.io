@@ -1,6 +1,6 @@
 var a17323 =
 [
-    [ "HandleDummy", "d6/d03/a17323.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
-    [ "PrepareSpellScript", "d6/d03/a17323.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
-    [ "Register", "d6/d03/a17323.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
+    [ "SlaveRunEvent", "d6/d03/a17323.html#a4560b275b0870cdbd192b2610893b47c", null ],
+    [ "Execute", "d6/d03/a17323.html#a81db67be136525dea5a9cd84180be165", null ],
+    [ "_owner", "d6/d03/a17323.html#a33e2ce4cea1edf2e0967696c41667f15", null ]
 ];

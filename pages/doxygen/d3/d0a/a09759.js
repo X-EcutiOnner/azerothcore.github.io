@@ -1,7 +1,10 @@
 var a09759 =
 [
-    [ "LootView", "d3/d0a/a09759.html#a4cfc8ca1034e941a85d2955f38b2e894", null ],
-    [ "loot", "d3/d0a/a09759.html#ac95fa4805c79923b292e8984b00de929", null ],
-    [ "permission", "d3/d0a/a09759.html#a33d7eeebd6fbc854300275a4138d9030", null ],
-    [ "viewer", "d3/d0a/a09759.html#af9a6926c6c871dee245f876038e49995", null ]
+    [ "iterator", "d3/d0a/a09759.html#a9fada63aa17222fc5e216f3904affafd", null ],
+    [ "begin", "d3/d0a/a09759.html#aee3a4701c5bc51f4028fe53f18675989", null ],
+    [ "end", "d3/d0a/a09759.html#ad61defd77296790a6c5d0a43bacbbe4b", null ],
+    [ "getFirst", "d3/d0a/a09759.html#ae47bba95a17db31a42231da948245387", null ],
+    [ "getLast", "d3/d0a/a09759.html#ac03e93ac8ad6fc91ec9d2961b8904217", null ],
+    [ "rbegin", "d3/d0a/a09759.html#af68f1d93a80e13976798dfed0063a1e4", null ],
+    [ "rend", "d3/d0a/a09759.html#a92c30fb269bc99820b6964a99ee86d98", null ]
 ];

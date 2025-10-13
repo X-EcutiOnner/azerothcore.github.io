@@ -1,8 +1,8 @@
 var a08751 =
 [
-    [ "CleanDamage", "d0/d6a/a08751.html#ad25ab816a679e323c07873efbc1c2f20", null ],
-    [ "absorbed_damage", "d0/d6a/a08751.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
-    [ "attackType", "d0/d6a/a08751.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
-    [ "hitOutCome", "d0/d6a/a08751.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
-    [ "mitigated_damage", "d0/d6a/a08751.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
+    [ "DiminishingReturn", "d0/d6a/a08751.html#acd4828637710636d0164fced285c854d", null ],
+    [ "DRGroup", "d0/d6a/a08751.html#add3ab95d65e283a326e1922129941ae4", null ],
+    [ "hitCount", "d0/d6a/a08751.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
+    [ "hitTime", "d0/d6a/a08751.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
+    [ "stack", "d0/d6a/a08751.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
 ];

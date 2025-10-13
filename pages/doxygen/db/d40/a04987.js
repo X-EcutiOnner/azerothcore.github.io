@@ -1,6 +1,8 @@
 var a04987 =
 [
-    [ "LiquidInfo", "db/d40/a04987.html#abfae4e75223a93b5b71840f60710afb9", null ],
-    [ "level", "db/d40/a04987.html#a4c3731c1d0dd78e7a018e2379c42488b", null ],
-    [ "type", "db/d40/a04987.html#ae766c58994cf635c8e0bdfdb15bd4246", null ]
+    [ "AreaInfo", "db/d40/a04987.html#a5cff768781236ef358e8864269d739e4", null ],
+    [ "adtId", "db/d40/a04987.html#a6e13cfcbd4aa9c36fb80be7913640730", null ],
+    [ "groupId", "db/d40/a04987.html#ae0e0518b31f3a16121bf3abd0770eb57", null ],
+    [ "mogpFlags", "db/d40/a04987.html#ace485f0168c41ce50c78c782dd6301fd", null ],
+    [ "rootId", "db/d40/a04987.html#a225d78ba13f20c147b92c6dfac1b37ad", null ]
 ];

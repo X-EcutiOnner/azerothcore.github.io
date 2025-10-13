@@ -1,7 +1,8 @@
 var a05539 =
 [
-    [ "~SignalHandler", "d6/d15/a05539.html#a9c515cb60b156629c43d1a6fce81d58e", null ],
-    [ "handle_signal", "d6/d15/a05539.html#a56782d1718cb243bb5b0c6dc2d100042", null ],
-    [ "_handled", "d6/d15/a05539.html#a21b208a696ed4a320a7cf312006a787f", null ],
-    [ "_mutex", "d6/d15/a05539.html#a0c4d6ba642dd3877c3333b067db22db6", null ]
+    [ "result_type", "d6/d15/a05539.html#a20f96383bade76c6185d8f20f458784e", null ],
+    [ "Instance", "d6/d15/a05539.html#a5ff7fcb1f8d34861b0c210eddc450681", null ],
+    [ "max", "d6/d15/a05539.html#ad5dcf280f768ebd79210caf6ecff4290", null ],
+    [ "min", "d6/d15/a05539.html#ab153ffca65139db4084745302dd4db7f", null ],
+    [ "operator()", "d6/d15/a05539.html#afe5f6dd94cbc6add3fd13fa3fe37b60d", null ]
 ];

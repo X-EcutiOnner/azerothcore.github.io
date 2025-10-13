@@ -1,8 +1,17 @@
 var a12071 =
 [
-    [ "boss_evisceratorAI", "d8/dcc/a12071.html#a26bfcd3390e987a9fe13dd1a2bc2a7a4", null ],
-    [ "DamageTaken", "d8/dcc/a12071.html#aab3e8290963ca6c312715f18727d3e82", null ],
-    [ "JustEngagedWith", "d8/dcc/a12071.html#a60f3942b352206888569f60776041a28", null ],
-    [ "UpdateAI", "d8/dcc/a12071.html#aa201d35455f2e6eb41df27e264c2c03c", null ],
-    [ "SpellShieldReady", "d8/dcc/a12071.html#a3e5d8a40bfca16cc811f35b1293c19aa", null ]
+    [ "boss_ambassador_flamelashAI", "d8/dcc/a12071.html#a33afad6262abe2a0c9224a4b5bb3ce28", null ],
+    [ "DoAction", "d8/dcc/a12071.html#a6466b6b4a275849a813a362ef6b1d518", null ],
+    [ "getValidRandomPosition", "d8/dcc/a12071.html#ae9faa36cdc7a0d6faf0b7d4ec5b380e9", null ],
+    [ "JustDied", "d8/dcc/a12071.html#a2d2a162132b7f4c0a5faf1f86a476002", null ],
+    [ "JustEngagedWith", "d8/dcc/a12071.html#a79138cf6c886c843544b948778f91145", null ],
+    [ "JustSummoned", "d8/dcc/a12071.html#a9ec61ccf9984a9a68091ca9fba7582df", null ],
+    [ "Reset", "d8/dcc/a12071.html#ae2dd71a0edfc489645de130a8b731392", null ],
+    [ "SummonSpirits", "d8/dcc/a12071.html#a6c88f2f38d3072f5192fc0b9bd2c6e04", null ],
+    [ "TurnRunes", "d8/dcc/a12071.html#aefcdf4c5b663671fb96395e280141bbb", null ],
+    [ "UpdateAI", "d8/dcc/a12071.html#a528436b7e4e55910d1eb6e00831e7e41", null ],
+    [ "_events", "d8/dcc/a12071.html#a80aaeb0ce3a5fe101aedbdfc2489bafe", null ],
+    [ "foundValidPosition", "d8/dcc/a12071.html#a4b3a75fa687361efc85ebc0da7bf2b75", null ],
+    [ "summons", "d8/dcc/a12071.html#a6c1a07a1a59b46d65683436f32f76bf9", null ],
+    [ "validPosition", "d8/dcc/a12071.html#af11a0cddced13c34a012c8df964ab68a", null ]
 ];

@@ -1,11 +1,5 @@
 var a27351 =
 [
-    [ "npc_dream_fogAI", "de/d56/a27351.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
-    [ "GetRandomUnitFromDragonThreatList", "de/d56/a27351.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
-    [ "Reset", "de/d56/a27351.html#a595eeeae54d4bf323287fc408f706ac6", null ],
-    [ "ScheduleEvents", "de/d56/a27351.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
-    [ "SetGUID", "de/d56/a27351.html#aa223fc3eaa1096d0bad578a88b81ab7e", null ],
-    [ "UpdateAI", "de/d56/a27351.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
-    [ "_dragonGUID", "de/d56/a27351.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
-    [ "_targetGUID", "de/d56/a27351.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
+    [ "AreaTrigger_at_legion_teleporter", "de/d56/a27351.html#a2b648bd038f41025c19338367c696d25", null ],
+    [ "OnTrigger", "de/d56/a27351.html#ae8239e5ad56d93627102dbd02989353d", null ]
 ];

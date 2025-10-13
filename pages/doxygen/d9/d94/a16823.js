@@ -1,7 +1,6 @@
 var a16823 =
 [
-    [ "HandleAfterEffectAbsorb", "d9/d94/a16823.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
-    [ "PrepareAuraScript", "d9/d94/a16823.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
-    [ "Register", "d9/d94/a16823.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
-    [ "Validate", "d9/d94/a16823.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
+    [ "npc_concentrated_ballAI", "d5/d11/a16827.html", "d5/d11/a16827" ],
+    [ "npc_concentrated_ball", "d9/d94/a16823.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
+    [ "GetAI", "d9/d94/a16823.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
 ];

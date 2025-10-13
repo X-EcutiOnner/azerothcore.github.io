@@ -1,6 +1,6 @@
 var a26759 =
 [
-    [ "HandleScript", "d4/d97/a26759.html#ad0885113f3bd8eea8ff3db30b55cc240", null ],
-    [ "PrepareSpellScript", "d4/d97/a26759.html#a8410b746f810eaeb7f71c3a7de607a84", null ],
-    [ "Register", "d4/d97/a26759.html#ab8f5c857ee42a6767d10277b52a7da01", null ]
+    [ "PrepareSpellScript", "d4/d97/a26759.html#a882d87de64d0e2c64b17c26d9e40d616", null ],
+    [ "Register", "d4/d97/a26759.html#ab58938808e460e843e42f2b6fa644e8a", null ],
+    [ "SetDest", "d4/d97/a26759.html#ab87932c73a2e53647bda584aeb58f789", null ]
 ];

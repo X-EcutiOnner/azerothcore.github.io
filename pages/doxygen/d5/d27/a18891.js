@@ -1,7 +1,6 @@
 var a18891 =
 [
-    [ "OnApply", "d5/d27/a18891.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
-    [ "OnRemove", "d5/d27/a18891.html#a697a7c76f944b5df956a9de07746b7a9", null ],
-    [ "PrepareAuraScript", "d5/d27/a18891.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
-    [ "Register", "d5/d27/a18891.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
+    [ "npc_arthas_teleport_visualAI", "da/dec/a18895.html", "da/dec/a18895" ],
+    [ "npc_arthas_teleport_visual", "d5/d27/a18891.html#a62d2caed6b12355f6d7aeceabba2ddaf", null ],
+    [ "GetAI", "d5/d27/a18891.html#a393d5ef960b9ee0cf8feeeeb5d81045d", null ]
 ];

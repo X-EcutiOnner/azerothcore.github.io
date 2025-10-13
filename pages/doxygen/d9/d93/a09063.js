@@ -1,6 +1,6 @@
 var a09063 =
 [
-    [ "Conditions", "d9/d93/a09063.html#a93edc2f0d71164b683c844b713befa85", null ],
-    [ "MenuID", "d9/d93/a09063.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
-    [ "TextID", "d9/d93/a09063.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
+    [ "EmoteDelay", "d9/d93/a09063.html#a053adbedc95026b192360e13d32c9401", null ],
+    [ "EmoteType", "d9/d93/a09063.html#aa5189cb250b3f46086ecd69dee23414b", null ],
+    [ "Greeting", "d9/d93/a09063.html#a84aa5fced9b8989487d1468c4eccb976", null ]
 ];

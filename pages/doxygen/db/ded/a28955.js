@@ -1,13 +1,8 @@
 var a28955 =
 [
-    [ "MPQArchive", "db/ded/a28955.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "db/ded/a28955.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "MPQArchive", "db/ded/a28955.html#a58d57322334966ca16a22e52e5198d9f", null ],
-    [ "~MPQArchive", "db/ded/a28955.html#a5bce22525ca16381fbb4729540a165e2", null ],
-    [ "close", "db/ded/a28955.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "close", "db/ded/a28955.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
-    [ "GetFileListTo", "db/ded/a28955.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "GetFileListTo", "db/ded/a28955.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
-    [ "isOpened", "db/ded/a28955.html#a2026335b9ede29197acfaac8513456d5", null ],
-    [ "mpq_a", "db/ded/a28955.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
+    [ "ADT_file", "db/ded/a28955.html#ac7d3b65a1377d0c7358fe5e2d20dbe5e", null ],
+    [ "~ADT_file", "db/ded/a28955.html#a79fe542f34b0e7bf668e7e5ff94a7ded", null ],
+    [ "free", "db/ded/a28955.html#a8fc207b8cc83596577166a0008965dc6", null ],
+    [ "prepareLoadedData", "db/ded/a28955.html#ac9f498cb9c8e21a1947be87904e3760b", null ],
+    [ "a_grid", "db/ded/a28955.html#aad5263c4df4ab9d072f217ec8c19441c", null ]
 ];

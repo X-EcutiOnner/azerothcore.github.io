@@ -1,6 +1,6 @@
 var a14087 =
 [
-    [ "OnEffect", "df/d98/a14087.html#ab87d53faac04ced3c11088e260782068", null ],
-    [ "PrepareSpellScript", "df/d98/a14087.html#af618e8d84029dda5e48b699cbcf671be", null ],
-    [ "Register", "df/d98/a14087.html#abcfe54b8901ec3c5e070b3c528ade26e", null ]
+    [ "instance_zulaman_InstanceMapScript", "da/d08/a14091.html", "da/d08/a14091" ],
+    [ "instance_zulaman", "df/d98/a14087.html#a5a81dddc07dea599e2a197737206427b", null ],
+    [ "GetInstanceScript", "df/d98/a14087.html#a2144a517b22c5d6e7f6cc31d344669fc", null ]
 ];

@@ -1,12 +1,10 @@
 var a07367 =
 [
-    [ "BGQueueRemoveEvent", "dc/df9/a07367.html#ab751b728f64b2928eefb21f756539d81", null ],
-    [ "~BGQueueRemoveEvent", "dc/df9/a07367.html#aab9ea24041888975439aafb246c571c3", null ],
-    [ "Abort", "dc/df9/a07367.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
-    [ "Execute", "dc/df9/a07367.html#a42482ff784da4b23b568888a74a0b531", null ],
-    [ "m_BgInstanceGUID", "dc/df9/a07367.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
-    [ "m_BgQueueTypeId", "dc/df9/a07367.html#ac059a823ae49bd0250eec15845bf153b", null ],
-    [ "m_BgTypeId", "dc/df9/a07367.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
-    [ "m_PlayerGuid", "dc/df9/a07367.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
-    [ "m_RemoveTime", "dc/df9/a07367.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
+    [ "SelectionPool", "dc/df9/a07367.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
+    [ "AddGroup", "dc/df9/a07367.html#a87fe4747536355ad7affda76640a082e", null ],
+    [ "GetPlayerCount", "dc/df9/a07367.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
+    [ "Init", "dc/df9/a07367.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
+    [ "KickGroup", "dc/df9/a07367.html#a74fb708546a8612ca52b24b8472b71ef", null ],
+    [ "PlayerCount", "dc/df9/a07367.html#a0c08c47f68dbb45175efc524f4553e16", null ],
+    [ "SelectedGroups", "dc/df9/a07367.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
 ];

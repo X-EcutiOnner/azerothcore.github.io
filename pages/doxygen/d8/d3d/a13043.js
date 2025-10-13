@@ -1,6 +1,5 @@
 var a13043 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "d3/d22/a13047.html", "d3/d22/a13047" ],
-    [ "instance_magisters_terrace", "d8/d3d/a13043.html#a81e23ce04c4d765193d2d2763ef78987", null ],
-    [ "GetInstanceScript", "d8/d3d/a13043.html#a465cbaebb13535cdb7f6a2108e026fc5", null ]
+    [ "boss_eramas_brightblaze", "d8/d3d/a13043.html#a14d1528750036f27948f5de8a2b44bd3", null ],
+    [ "JustEngagedWith", "d8/d3d/a13043.html#ad34613d2795f7371a43891488044392a", null ]
 ];

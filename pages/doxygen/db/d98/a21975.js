@@ -1,6 +1,6 @@
 var a21975 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "df/d79/a21979.html", "df/d79/a21979" ],
-    [ "npc_injured_7th_legion_soldier", "db/d98/a21975.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
-    [ "GetAI", "db/d98/a21975.html#a0feca7aedcf3c07253d4d402266189cc", null ]
+    [ "npc_mindless_ghoulAI", "df/d79/a21979.html", "df/d79/a21979" ],
+    [ "npc_mindless_ghoul", "db/d98/a21975.html#ac5bf71e719c0df04687f426a022fd65e", null ],
+    [ "GetAI", "db/d98/a21975.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
 ];

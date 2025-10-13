@@ -1,10 +1,9 @@
 var a09335 =
 [
-    [ "AnyDeadUnitSpellTargetInRangeCheck", "dc/d0e/a09335.html#a212c308a02716ff382e820e86e233ed3", null ],
-    [ "operator()", "dc/d0e/a09335.html#af328df880d17a62e2dbed0ff4231fc39", null ],
-    [ "operator()", "dc/d0e/a09335.html#adcc69b9ef03a68aa235e40449a80b701", null ],
-    [ "operator()", "dc/d0e/a09335.html#a2f2483cf7078681cb3acf28560e61184", null ],
-    [ "operator()", "dc/d0e/a09335.html#aba0bf4c320a684b68743a06e724a369e", null ],
-    [ "i_check", "dc/d0e/a09335.html#aa2223ad31acf47a1608ded6b5cbc2f03", null ],
-    [ "i_spellInfo", "dc/d0e/a09335.html#afeb889f6cee596b2c2229f86e0a8a3f1", null ]
+    [ "PlayerDistWorker", "dc/d0e/a09335.html#a53c207607485724ba7c3aa5e9fd02b51", null ],
+    [ "Visit", "dc/d0e/a09335.html#a6cb5d9bdf26bc96a24e5660ca3b3758b", null ],
+    [ "Visit", "dc/d0e/a09335.html#a2658f12f90953f1057a9377b21824879", null ],
+    [ "i_dist", "dc/d0e/a09335.html#aad16511b6a9aaa3eb561f636475ffe97", null ],
+    [ "i_do", "dc/d0e/a09335.html#a0e1738a71d7feda9f607ee964ff1fff2", null ],
+    [ "i_searcher", "dc/d0e/a09335.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f", null ]
 ];

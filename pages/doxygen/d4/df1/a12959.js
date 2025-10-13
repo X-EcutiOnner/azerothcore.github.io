@@ -1,17 +1,18 @@
 var a12959 =
 [
-    [ "npc_barnesAI", "d4/df1/a12959.html#acf165009e5b2164d8244e709043eba09", null ],
-    [ "JustEngagedWith", "d4/df1/a12959.html#a1f24ea5604563c9a16c5a2a91ae078f1", null ],
-    [ "PrepareEncounter", "d4/df1/a12959.html#acdefdf68be1d870f76cbd0e329e3c890", null ],
-    [ "Reset", "d4/df1/a12959.html#a67ee1ef5c6012e499a9d9d7b77938fbe", null ],
-    [ "StartEvent", "d4/df1/a12959.html#ab5ed76e189150b2bb8a57095289246fe", null ],
-    [ "Talk", "d4/df1/a12959.html#a8a5c4a97e9093220a5d8642fcf6ceece", null ],
-    [ "UpdateAI", "d4/df1/a12959.html#a19c6ac3829ae4c38263eda116d56df88", null ],
-    [ "WaypointReached", "d4/df1/a12959.html#acae5cbc4bcbe91b6810d649385a889a9", null ],
-    [ "instance", "d4/df1/a12959.html#a9094deb17c0c77c968bbfb4f9f05e521", null ],
-    [ "m_uiEventId", "d4/df1/a12959.html#a47ac00c081635aeba9ef02a7f1bbd645", null ],
-    [ "m_uiSpotlightGUID", "d4/df1/a12959.html#aceae6d1588aec9035fb80678af32e96c", null ],
-    [ "PerformanceReady", "d4/df1/a12959.html#a27a8ceb27724f074de840d24dcf0e284", null ],
-    [ "TalkCount", "d4/df1/a12959.html#a555a152b2f4981dc824a6fb0f66b5702", null ],
-    [ "TalkTimer", "d4/df1/a12959.html#afa7fd12da57b887f1254e24d444f43d1", null ]
+    [ "boss_romulo", "d4/df1/a12959.html#a497e0e57d2abb6640081c1d141a588ff", null ],
+    [ "DamageTaken", "d4/df1/a12959.html#a603db3883d03367406cbcf3f2cb28a08", null ],
+    [ "DoAction", "d4/df1/a12959.html#acc23f4f4f5856b9956a764c1f69bbc92", null ],
+    [ "EnterEvadeMode", "d4/df1/a12959.html#ab4dda6b70337668dd36a582e8439c3db", null ],
+    [ "JustDied", "d4/df1/a12959.html#aa60d8fe07db9444f25eec9de9e5bf365", null ],
+    [ "JustEngagedWith", "d4/df1/a12959.html#ab13e2a4ebe8a1956f6de460cdb9b199d", null ],
+    [ "JustReachedHome", "d4/df1/a12959.html#af8bff3f1c107dc7d8beae7956a25fbcc", null ],
+    [ "KilledUnit", "d4/df1/a12959.html#ae4ca6736913cc8df4d016876a8fd8576", null ],
+    [ "Reset", "d4/df1/a12959.html#a15703ee7df979b8ee5892dacf84066e2", null ],
+    [ "ScheduleCombat", "d4/df1/a12959.html#a4cc20dccb171d1f4d3c680b6b5310e73", null ],
+    [ "UpdateAI", "d4/df1/a12959.html#ac42df238a2ad354a2fb21ebb558734c6", null ],
+    [ "_scheduler", "d4/df1/a12959.html#a456abfa48f038e904c427179c2a10edb", null ],
+    [ "instance", "d4/df1/a12959.html#aae979b72844ff8fcc70956925df4fa9b", null ],
+    [ "isFakingDeath", "d4/df1/a12959.html#a88ccbe761b4703e4f309d1bb3fca4085", null ],
+    [ "phase", "d4/df1/a12959.html#ab549436aec35727665150d51f1c25714", null ]
 ];

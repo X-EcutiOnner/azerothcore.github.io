@@ -1,7 +1,10 @@
 var a28679 =
 [
-    [ "from", "d7/d04/a28679.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
-    [ "ID", "d7/d04/a28679.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
-    [ "price", "d7/d04/a28679.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
-    [ "to", "d7/d04/a28679.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
+    [ "attackSpeed", "d7/d04/a28679.html#ab5242f7367e8799a556176178c72fc88", null ],
+    [ "creatureType", "d7/d04/a28679.html#a3dff9074b85261932ed8a8a550c5395b", null ],
+    [ "flags1", "d7/d04/a28679.html#a026745f2ce754d754858d69ee219b518", null ],
+    [ "ID", "d7/d04/a28679.html#a72853ed36016e05e4cd14a9d89e9d6a8", null ],
+    [ "modelID_A", "d7/d04/a28679.html#a86dfa61342583d920b7d8496bce4b49d", null ],
+    [ "modelID_H", "d7/d04/a28679.html#a1ee597d6fd02507b682874929645e01d", null ],
+    [ "stanceSpell", "d7/d04/a28679.html#a08f54b905e905fb5a59e449f8c613c08", null ]
 ];

@@ -1,8 +1,6 @@
 var a27299 =
 [
-    [ "CharacterActionIpLogger", "d1/de7/a27299.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "d1/de7/a27299.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "d1/de7/a27299.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "d1/de7/a27299.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "d1/de7/a27299.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "achievement_arena_by_type", "d1/de7/a27299.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "d1/de7/a27299.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "d1/de7/a27299.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

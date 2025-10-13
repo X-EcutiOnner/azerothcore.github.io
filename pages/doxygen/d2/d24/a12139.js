@@ -1,6 +1,6 @@
 var a12139 =
 [
-    [ "boss_okthorAI", "d7/dce/a12143.html", "d7/dce/a12143" ],
-    [ "boss_okthor", "d2/d24/a12139.html#a9e75c1da85a6db6692dfabfbb3ee3e87", null ],
-    [ "GetAI", "d2/d24/a12139.html#a15d13a6c879ae260c0676fd4a4aff645", null ]
+    [ "boss_high_interrogator_gerstahnAI", "d7/dce/a12143.html", "d7/dce/a12143" ],
+    [ "boss_high_interrogator_gerstahn", "d2/d24/a12139.html#a700eb542c041e9ca540f2676fc42aff9", null ],
+    [ "GetAI", "d2/d24/a12139.html#ab4e92847a1ce6bf50f0ae460c1a7108f", null ]
 ];

@@ -1,8 +1,10 @@
 var a09363 =
 [
-    [ "MostHPMissingInRange", "d1/df2/a09363.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
-    [ "operator()", "d1/df2/a09363.html#a420388204d8a1420552b902fbcb2bebe", null ],
-    [ "i_hp", "d1/df2/a09363.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
-    [ "i_obj", "d1/df2/a09363.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
-    [ "i_range", "d1/df2/a09363.html#acef63da9004997c7f25056651284efa9", null ]
+    [ "NearestGameObjectEntryInObjectRangeCheck", "d1/df2/a09363.html#a7d57ae865868d4848caf088c4520b2a7", null ],
+    [ "NearestGameObjectEntryInObjectRangeCheck", "d1/df2/a09363.html#a28d97af524c2bab39e1bd2e5508e434b", null ],
+    [ "operator()", "d1/df2/a09363.html#ad0c6798e28784ed547102414f4c6a31f", null ],
+    [ "i_entry", "d1/df2/a09363.html#a5d19a23e7da2e5e5ed417d0a9623ffbb", null ],
+    [ "i_obj", "d1/df2/a09363.html#a104b8bece6ea78ba049dc592e54311be", null ],
+    [ "i_onlySpawned", "d1/df2/a09363.html#a2a58a6bcff73142e21c082bf2c11eff2", null ],
+    [ "i_range", "d1/df2/a09363.html#a94fc995a14f84060f3bfe5827f17b95e", null ]
 ];

@@ -1,10 +1,6 @@
 var a13943 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "dc/dc8/a13943.html#af7d495f489979690615d091bbd9d539b", null ],
-    [ "CanAIAttack", "dc/dc8/a13943.html#af332a66852c9499912d8ef4959f394f5", null ],
-    [ "InitializeAI", "dc/dc8/a13943.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
-    [ "JustRespawned", "dc/dc8/a13943.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
-    [ "Reset", "dc/dc8/a13943.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
-    [ "UpdateAI", "dc/dc8/a13943.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
-    [ "_events", "dc/dc8/a13943.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
+    [ "boss_blight_wormAI", "d6/d4d/a13947.html", "d6/d4d/a13947" ],
+    [ "boss_blight_worm", "dc/dc8/a13943.html#a6dea51baebc6b44ef94342565136e56d", null ],
+    [ "GetAI", "dc/dc8/a13943.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
 ];

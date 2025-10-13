@@ -1,16 +1,20 @@
 var a14043 =
 [
-    [ "boss_zuljin", "d6/d2a/a14043.html#a8acdf347d7f982c07614c89a101daae0", null ],
-    [ "EnterEvadeMode", "d6/d2a/a14043.html#a1b3da85aa5f4abac16256aa691d035a3", null ],
-    [ "EnterPhase", "d6/d2a/a14043.html#ae9970dba905b947a22c4ddf36bdcb656", null ],
-    [ "GetGUID", "d6/d2a/a14043.html#a29548891ef8efaa5d6baa384e7b9000a", null ],
-    [ "JustDied", "d6/d2a/a14043.html#a2e00e8311c0463a37de87668882ffeec", null ],
-    [ "JustEngagedWith", "d6/d2a/a14043.html#ab6854461a5116e94c9f0ca971a3f89ef", null ],
-    [ "KilledUnit", "d6/d2a/a14043.html#adf220cb760b77cfd09ed746705529064", null ],
-    [ "MovementInform", "d6/d2a/a14043.html#a61501941861f8838392fc8cdbe59feff", null ],
-    [ "Reset", "d6/d2a/a14043.html#a2fe7c0338eb4698cc0aae252f4b14f02", null ],
-    [ "SpawnAdds", "d6/d2a/a14043.html#a83eb0799a25f19eedddd96e609134778", null ],
-    [ "SpellHitTarget", "d6/d2a/a14043.html#aab3558edc5b90be23040077d88e21725", null ],
-    [ "_chargeTargetGUID", "d6/d2a/a14043.html#a3b26fe2e82019ea5ce110d2d0a78f47e", null ],
-    [ "_nextPhase", "d6/d2a/a14043.html#a4fc9983cb34313affa56c243a4164a4a", null ]
+    [ "boss_janalai", "d6/d2a/a14043.html#a6a049cb60b475b6c496862205d91c39f", null ],
+    [ "Boom", "d6/d2a/a14043.html#a902814fa472af7dde6096e6e1901bfd4", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d6/d2a/a14043.html#a9320a91d93f1fc82ec863ecf767c0a8a", null ],
+    [ "DamageDealt", "d6/d2a/a14043.html#af29b99a31b38516815390087d76c9408", null ],
+    [ "FireWall", "d6/d2a/a14043.html#ac3cd768db0abbbe4b03a08f214afc5ba", null ],
+    [ "HatchAllEggs", "d6/d2a/a14043.html#a7caee2554fe4f6211589e3346d1865fd", null ],
+    [ "JustDied", "d6/d2a/a14043.html#a1dd381dbf7bdc25e6a5fc519b132c5e4", null ],
+    [ "JustEngagedWith", "d6/d2a/a14043.html#af16f7db848ff2ddcf060ba770d0df836", null ],
+    [ "JustSummoned", "d6/d2a/a14043.html#a37aacd788ee8206a8ffbaad7ba702736", null ],
+    [ "Reset", "d6/d2a/a14043.html#a8f42138403eb2ef6d1737539dd352e80", null ],
+    [ "SetData", "d6/d2a/a14043.html#a48636a0186d7a09e4e98d960bab5530e", null ],
+    [ "SpawnBombs", "d6/d2a/a14043.html#ab352cc1bb7f2fc04505de30fe041c9bd", null ],
+    [ "StartBombing", "d6/d2a/a14043.html#a9a32cbc9bb1c1542a19aea32f9a9addf", null ],
+    [ "ThrowBombs", "d6/d2a/a14043.html#a9a927462879c6c81b2c919c62336a08c", null ],
+    [ "_isBombing", "d6/d2a/a14043.html#a881f564fe75051c1c10e645d3f0b243b", null ],
+    [ "_isFlameBreathing", "d6/d2a/a14043.html#a0fc79fcdfdd27baa047d22b86135a653", null ],
+    [ "_sideHatched", "d6/d2a/a14043.html#ae5cb2bcdfd54a66f62dc807946249528", null ]
 ];

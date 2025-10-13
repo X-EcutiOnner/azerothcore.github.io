@@ -1,6 +1,7 @@
 var a14063 =
 [
-    [ "instance_zulaman_InstanceMapScript", "dc/d90/a14067.html", "dc/d90/a14067" ],
-    [ "instance_zulaman", "d8/dd4/a14063.html#a5a81dddc07dea599e2a197737206427b", null ],
-    [ "GetInstanceScript", "d8/dd4/a14063.html#a2144a517b22c5d6e7f6cc31d344669fc", null ]
+    [ "spell", "d8/dd4/a14063.html#a55423d09b2f1775dc386a36168ad764d", null ],
+    [ "spiritEntry", "d8/dd4/a14063.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
+    [ "text", "d8/dd4/a14063.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
+    [ "unaura", "d8/dd4/a14063.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
 ];

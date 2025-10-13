@@ -1,7 +1,12 @@
 var a28871 =
 [
-    [ "asyncId", "df/d04/a28871.html#afd18849875b4562e4a532903676ce25d", null ],
-    [ "flags", "df/d04/a28871.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
-    [ "offsMCNK", "df/d04/a28871.html#a063c5dc62c44038e882340221bf8228a", null ],
-    [ "size", "df/d04/a28871.html#a47a5eeb595d53de009651ae02d2b416d", null ]
+    [ "ApplyGmVisibleState", "df/d04/a28871.html#a3deb6c8e282913959275b537bb748860", null ],
+    [ "EnsureScriptRegistriesInitialized", "df/d04/a28871.html#a4238366c75dd8889993888e4e8bce5a2", null ],
+    [ "ExecuteCommand", "df/d04/a28871.html#ad6c2132a8f827fd0ff6bad1868bf34c2", null ],
+    [ "SetUp", "df/d04/a28871.html#a236c5547ff9855b39315642ec2e79c4e", null ],
+    [ "TearDown", "df/d04/a28871.html#a8fe66b3b0b3ba0d6f3393eb9a4fef3f2", null ],
+    [ "originalWorld", "df/d04/a28871.html#a8f7396466d2b20742f66e14462de96a4", null ],
+    [ "player", "df/d04/a28871.html#a97049ae029c9354fdf3194be77f36dfa", null ],
+    [ "session", "df/d04/a28871.html#a2f87ec522777defa8b023274b1d78c35", null ],
+    [ "worldMock", "df/d04/a28871.html#ae4caf6ccdfce680cce07d4759b2a4b54", null ]
 ];

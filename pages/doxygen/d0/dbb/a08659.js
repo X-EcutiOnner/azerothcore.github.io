@@ -1,10 +1,9 @@
 var a08659 =
 [
-    [ "Index", "d0/dbb/a08659.html#a28b25d822326a1b7d5ec7f95ce084bac", [
-      [ "REGULAR", "d0/dbb/a08659.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
-      [ "ADDON", "d0/dbb/a08659.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
-      [ "MAX", "d0/dbb/a08659.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
-    ] ],
-    [ "Count", "d0/dbb/a08659.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
-    [ "Time", "d0/dbb/a08659.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
+    [ "PendingSpellCastRequest", "d0/dbb/a08659.html#aa09e9b9fcaec6d10dff4916bec15ab04", null ],
+    [ "cancelInProgress", "d0/dbb/a08659.html#a726b6e423b23f8c12c65e07809462ad1", null ],
+    [ "category", "d0/dbb/a08659.html#a51a702f257b784dac4556397dd1c0be4", null ],
+    [ "isItem", "d0/dbb/a08659.html#a9e50a954b3da1f3b39894f1d3d7a932f", null ],
+    [ "requestPacket", "d0/dbb/a08659.html#a6ee868c6161e49dc8774ab357f313116", null ],
+    [ "spellId", "d0/dbb/a08659.html#a28f12287e339fd0c6cc9ea8c89c26113", null ]
 ];

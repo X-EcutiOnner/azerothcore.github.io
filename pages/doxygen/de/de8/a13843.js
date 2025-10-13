@@ -1,13 +1,6 @@
 var a13843 =
 [
-    [ "npc_ravenclaw_apparitionAI", "de/de8/a13843.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
-    [ "EmoteCrowd", "de/de8/a13843.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
-    [ "JustDied", "de/de8/a13843.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
-    [ "JustSummoned", "de/de8/a13843.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
-    [ "SummonCrowd", "de/de8/a13843.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
-    [ "UpdateAI", "de/de8/a13843.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
-    [ "events", "de/de8/a13843.html#a27522107b5e1f54909294f800f26663f", null ],
-    [ "HasEnded", "de/de8/a13843.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
-    [ "summons", "de/de8/a13843.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
-    [ "TalkRNG", "de/de8/a13843.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
+    [ "npc_corporal_keeshanAI", "d5/de2/a13847.html", "d5/de2/a13847" ],
+    [ "npc_corporal_keeshan", "de/de8/a13843.html#a0ca9459a7f283e040f14e0052762f587", null ],
+    [ "GetAI", "de/de8/a13843.html#a2cc19f28dea9ea8597648339a160d1bc", null ]
 ];

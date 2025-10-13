@@ -1,6 +1,6 @@
 var a27975 =
 [
-    [ "CheckCast", "d0/ddc/a27975.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
-    [ "PrepareSpellScript", "d0/ddc/a27975.html#aa3c18907c79309a8924a98bce41e27f1", null ],
-    [ "Register", "d0/ddc/a27975.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
+    [ "npc_necropolis_proxy", "d0/ddc/a27975.html#a73f92ee73673172989d48064e5984db0", null ],
+    [ "SpellHit", "d0/ddc/a27975.html#a90d1ab55683a6409403e24291643cca5", null ],
+    [ "SpellHitTarget", "d0/ddc/a27975.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
 ];

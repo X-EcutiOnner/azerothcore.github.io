@@ -1,12 +1,6 @@
 var a22863 =
 [
-    [ "boss_anzu", "de/db8/a22863.html#aef8c5c57afa95936d8c2809fa1257799", null ],
-    [ "JustEngagedWith", "de/db8/a22863.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
-    [ "Reset", "de/db8/a22863.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
-    [ "SummonBroods", "de/db8/a22863.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
-    [ "SummonedCreatureDies", "de/db8/a22863.html#a2e35df609db069c8d31afffabcfead34", null ],
-    [ "SummonSpirits", "de/db8/a22863.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
-    [ "UpdateAI", "de/db8/a22863.html#a06373460d454bfaf8db793e591cc0abd", null ],
-    [ "AnzuSpiritPos", "de/db8/a22863.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
-    [ "talkTimer", "de/db8/a22863.html#a2afae53534d9e777c90d09456f834b5d", null ]
+    [ "instance_mana_tombs_InstanceMapScript", "df/da6/a22867.html", "df/da6/a22867" ],
+    [ "instance_mana_tombs", "de/db8/a22863.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
+    [ "GetInstanceScript", "de/db8/a22863.html#a26e4dad0957df886bc446396ab48ceda", null ]
 ];

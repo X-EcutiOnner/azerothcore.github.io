@@ -1,5 +1,5 @@
 var a03215 =
 [
-    [ "send_commandscript", "d4/d51/a11915.html", "d4/d51/a11915" ],
-    [ "AddSC_send_commandscript", "d9/d65/a03215.html#a9f3fee551f6ca7aa7dad83edb2dfe480", null ]
+    [ "gm_commandscript", "d2/d82/a11835.html", "d2/d82/a11835" ],
+    [ "AddSC_gm_commandscript", "d9/d65/a03215.html#a65c7b128fdf4dd9807ef514c24918e7b", null ]
 ];

@@ -1,12 +1,7 @@
 var a11639 =
 [
-    [ "Action", "de/d4e/a11639.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
-    [ "Address", "de/d4e/a11639.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
-    [ "CheckId", "de/d4e/a11639.html#a51a0cea0381f2b64e9d240ac39591172", null ],
-    [ "Comment", "de/d4e/a11639.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
-    [ "Data", "de/d4e/a11639.html#a962795028d40645fe67e4290ea64b10b", null ],
-    [ "IdStr", "de/d4e/a11639.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
-    [ "Length", "de/d4e/a11639.html#abe0249d9550042e696eb74edf06aaec8", null ],
-    [ "Str", "de/d4e/a11639.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
-    [ "Type", "de/d4e/a11639.html#aca31cdb700dca4801dfa514812639c70", null ]
+    [ "PlayerDumpReader", "de/d4e/a11639.html#ad630b61e298fb1ddf165481c9a14e077", null ],
+    [ "LoadDump", "de/d4e/a11639.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
+    [ "LoadDumpFromFile", "de/d4e/a11639.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
+    [ "LoadDumpFromString", "de/d4e/a11639.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
 ];

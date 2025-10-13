@@ -1,13 +1,7 @@
 var a27883 =
 [
-    [ "npc_spring_rabbitAI", "d6/d5e/a27883.html#a1211ab47dee4844b90a010c284c4f1a5", null ],
-    [ "DoAction", "d6/d5e/a27883.html#a288ddb2f1ee0ab7113f1a1f34dc545c5", null ],
-    [ "JustEngagedWith", "d6/d5e/a27883.html#a0c36f1dfc094007990f067544a940538", null ],
-    [ "Reset", "d6/d5e/a27883.html#ac0f6b47044099016dd6453674b75b2c8", null ],
-    [ "UpdateAI", "d6/d5e/a27883.html#af9da118068234755fa9219b84050d2a3", null ],
-    [ "bunnyTimer", "d6/d5e/a27883.html#a99c2923194cf6a07bee8924abf98f470", null ],
-    [ "inLove", "d6/d5e/a27883.html#aec8887aedf32fb4ebcc68c48f0ee0ea5", null ],
-    [ "jumpTimer", "d6/d5e/a27883.html#a5c17e00187ac87b23482dfbabb89809b", null ],
-    [ "rabbitGUID", "d6/d5e/a27883.html#af838b25c8442767aaef16e95022cb062", null ],
-    [ "searchTimer", "d6/d5e/a27883.html#af1b82227dadf30c6c796e7b8c2abbe82", null ]
+    [ "npc_steam_tonkAI", "d6/d5e/a27883.html#a64bc74af412304d50526e5c93e01a333", null ],
+    [ "JustEngagedWith", "d6/d5e/a27883.html#a95b023adf0a2e62788e0d5646b17b319", null ],
+    [ "OnPossess", "d6/d5e/a27883.html#a954208c1a9826ae84a7402f59e1d7055", null ],
+    [ "Reset", "d6/d5e/a27883.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
 ];

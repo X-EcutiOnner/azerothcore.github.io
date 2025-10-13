@@ -1,6 +1,6 @@
 var a16907 =
 [
-    [ "HandleScript", "d4/da6/a16907.html#a4786e0c38f03f7e671174d0641526681", null ],
-    [ "PrepareSpellScript", "d4/da6/a16907.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
-    [ "Register", "d4/da6/a16907.html#a943117bfb56b846e99d04bd9a348af8d", null ]
+    [ "OnPeriodic", "d4/da6/a16907.html#ab71faf6fb2900e176aac245317113758", null ],
+    [ "PrepareAuraScript", "d4/da6/a16907.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
+    [ "Register", "d4/da6/a16907.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
 ];

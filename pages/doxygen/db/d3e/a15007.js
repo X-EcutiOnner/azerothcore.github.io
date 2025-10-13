@@ -1,8 +1,28 @@
 var a15007 =
 [
-    [ "npc_thrall_old_hillsbradAI", "da/d31/a15011.html", "da/d31/a15011" ],
-    [ "npc_thrall_old_hillsbrad", "db/d3e/a15007.html#a3e6fa750b095af3beac806a619e18328", null ],
-    [ "GetAI", "db/d3e/a15007.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
-    [ "OnGossipHello", "db/d3e/a15007.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
-    [ "OnGossipSelect", "db/d3e/a15007.html#a17fcb00850503903f430506654e035c0", null ]
+    [ "instance_culling_of_stratholme_InstanceMapScript", "db/d3e/a15007.html#ab14fa9416d0971ed84d659cad15f7065", null ],
+    [ "ChromieWhisper", "db/d3e/a15007.html#ae97d05afd1cb4b8d665ad3361a517781", null ],
+    [ "FillInitialWorldStates", "db/d3e/a15007.html#aa3433b8a185c31d8c00ae1ffab10baa2", null ],
+    [ "GetData", "db/d3e/a15007.html#aaea6ab9b71d52377ddebd7b54b354c1e", null ],
+    [ "GetGuidData", "db/d3e/a15007.html#adc795bd78af72bd6bda8546a756a94e0", null ],
+    [ "GetSaveData", "db/d3e/a15007.html#ad0d4cd6646c52dba390193b38df00d6f", null ],
+    [ "IsEncounterInProgress", "db/d3e/a15007.html#ad64c44c62f429cbca6c2e720a35a7b41", null ],
+    [ "Load", "db/d3e/a15007.html#a7981d6fc2a4f4113d9844ffd9a917473", null ],
+    [ "OnCreatureCreate", "db/d3e/a15007.html#a160e3b02d40abecbc16533972433fe9b", null ],
+    [ "OnGameObjectCreate", "db/d3e/a15007.html#a6fe2831227ec9f43882cf19849689a45", null ],
+    [ "OnPlayerEnter", "db/d3e/a15007.html#a09088000395dbd2b1255c02b4867898d", null ],
+    [ "Reposition", "db/d3e/a15007.html#a32218976e637b9499bcbd8f1e4d9c8c8", null ],
+    [ "SetData", "db/d3e/a15007.html#a02fc56dddc6b300f06c7cc5f8fb3ded7", null ],
+    [ "Update", "db/d3e/a15007.html#a9e90b4dd34a8a81b499b1402fbbaf218", null ],
+    [ "UpdateEventState", "db/d3e/a15007.html#aff8e5df41dd304df32a6ad3ac185b672", null ],
+    [ "_arthasGUID", "db/d3e/a15007.html#a1047f207de079d1cad0fc6976ab2d3f9", null ],
+    [ "_crateCount", "db/d3e/a15007.html#a7cdab6cdc847b4b3c434ee42ff458dae", null ],
+    [ "_encounterState", "db/d3e/a15007.html#a0a5afd0104654aea57479fa3f4d1e36a", null ],
+    [ "_exitGateGUID", "db/d3e/a15007.html#ab671339f99ddc498950ef868042fd4a4", null ],
+    [ "_guardianTimer", "db/d3e/a15007.html#aaf1409ef7e2c3ef43d0704f586a75312", null ],
+    [ "_infiniteGUID", "db/d3e/a15007.html#a96d30d5f0dabb385f36e4b0a0762a16a", null ],
+    [ "_loadTimer", "db/d3e/a15007.html#a87002a39776087346791b9026c6e2e07", null ],
+    [ "_respawnAndReposition", "db/d3e/a15007.html#af768b50e85b799d35844b173d94e578d", null ],
+    [ "_shkafGateGUID", "db/d3e/a15007.html#a4a7fd8572c70c16853cf7cd410197e52", null ],
+    [ "_showCrateTimer", "db/d3e/a15007.html#ae6948cd547db988418c5d98f435ef2b8", null ]
 ];

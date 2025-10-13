@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: TransportAnimation Struct Reference</title>
+<title>AzerothCore: KeyFrame Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,7 +108,7 @@ $(document).ready(function(){initNavTree('d6/d1b/a09919.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d6/db1/a09916.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">TransportAnimation Struct Reference</div></div>
+  <div class="headertitle"><div class="title">KeyFrame Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
@@ -116,26 +116,48 @@ $(document).ready(function(){initNavTree('d6/d1b/a09919.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a775b84b54deefd38af40222afd82d572"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#a775b84b54deefd38af40222afd82d572">TransportAnimation</a> ()</td></tr>
-<tr class="separator:a775b84b54deefd38af40222afd82d572"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a73b56750c90afce38dbf57793bae16f3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#a73b56750c90afce38dbf57793bae16f3">GetAnimNode</a> (<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> time, <a class="el" href="../../dc/d18/a28695.html">TransportAnimationEntry</a> const *&amp;curr, <a class="el" href="../../dc/d18/a28695.html">TransportAnimationEntry</a> const *&amp;next, float &amp;percPos) const</td></tr>
-<tr class="separator:a73b56750c90afce38dbf57793bae16f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa2c892f14712828acaa85fa6e6d919bb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#aa2c892f14712828acaa85fa6e6d919bb">GetAnimRotation</a> (<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> time, G3D::Quat &amp;curr, G3D::Quat &amp;next, float &amp;percRot) const</td></tr>
-<tr class="separator:aa2c892f14712828acaa85fa6e6d919bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a29de8ef0d2ba8671a00557782b5b3ba0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#a29de8ef0d2ba8671a00557782b5b3ba0">KeyFrame</a> (<a class="el" href="../../dc/d41/a28723.html">TaxiPathNodeEntry</a> const *node)</td></tr>
+<tr class="separator:a29de8ef0d2ba8671a00557782b5b3ba0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4197d8450563a6abd2826be37a2d0c0e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#a4197d8450563a6abd2826be37a2d0c0e">IsTeleportFrame</a> () const</td></tr>
+<tr class="separator:a4197d8450563a6abd2826be37a2d0c0e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5e5b3e61a5734a8cfcba1c8e9cfb6e33"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#a5e5b3e61a5734a8cfcba1c8e9cfb6e33">IsStopFrame</a> () const</td></tr>
+<tr class="separator:a5e5b3e61a5734a8cfcba1c8e9cfb6e33"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a7c45df781dda8058d281a2cf7e5fe5fb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/df5/a01673.html#a7905b31432c2140de30ffc9363c3e9b9">TransportPathContainer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#a7c45df781dda8058d281a2cf7e5fe5fb">Path</a></td></tr>
-<tr class="separator:a7c45df781dda8058d281a2cf7e5fe5fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5fa771fb487c437d7d6229eadf7d90c3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/df5/a01673.html#a58adfcebbe67029f647a3db4897a6558">TransportPathRotationContainer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#a5fa771fb487c437d7d6229eadf7d90c3">Rotations</a></td></tr>
-<tr class="separator:a5fa771fb487c437d7d6229eadf7d90c3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a59a31ffc2e642a3950b0509130a76ad4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#a59a31ffc2e642a3950b0509130a76ad4">TotalTime</a></td></tr>
-<tr class="separator:a59a31ffc2e642a3950b0509130a76ad4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1176b2e4067a4e330db280514ca66d43"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#a1176b2e4067a4e330db280514ca66d43">Index</a></td></tr>
+<tr class="separator:a1176b2e4067a4e330db280514ca66d43"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac628c537d5854ddf54d516eaf4471d7f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d41/a28723.html">TaxiPathNodeEntry</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#ac628c537d5854ddf54d516eaf4471d7f">Node</a></td></tr>
+<tr class="separator:ac628c537d5854ddf54d516eaf4471d7f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9af26b07943f22473526463f7a0f7c6b"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#a9af26b07943f22473526463f7a0f7c6b">InitialOrientation</a></td></tr>
+<tr class="separator:a9af26b07943f22473526463f7a0f7c6b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a60502cefa4387ffd815ba88530123ac6"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#a60502cefa4387ffd815ba88530123ac6">DistSinceStop</a></td></tr>
+<tr class="separator:a60502cefa4387ffd815ba88530123ac6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a03f76647aa0c383bcd4b26ae93abe465"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#a03f76647aa0c383bcd4b26ae93abe465">DistUntilStop</a></td></tr>
+<tr class="separator:a03f76647aa0c383bcd4b26ae93abe465"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4271d37fac21d8c41758fc5edbf793e2"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#a4271d37fac21d8c41758fc5edbf793e2">DistFromPrev</a></td></tr>
+<tr class="separator:a4271d37fac21d8c41758fc5edbf793e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae12ac1910a4aa13557e69bd5e066214b"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#ae12ac1910a4aa13557e69bd5e066214b">TimeFrom</a></td></tr>
+<tr class="separator:ae12ac1910a4aa13557e69bd5e066214b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae4e0c37d26edb99017bf0042b3e0bad4"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#ae4e0c37d26edb99017bf0042b3e0bad4">TimeTo</a></td></tr>
+<tr class="separator:ae4e0c37d26edb99017bf0042b3e0bad4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad57abe67a7e4771a35621b4204bfe347"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#ad57abe67a7e4771a35621b4204bfe347">Teleport</a></td></tr>
+<tr class="separator:ad57abe67a7e4771a35621b4204bfe347"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afc5d26078e42a2170d43c864542f676f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#afc5d26078e42a2170d43c864542f676f">ArriveTime</a></td></tr>
+<tr class="separator:afc5d26078e42a2170d43c864542f676f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac243e42c49063db26557d96b5fdf8a8f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#ac243e42c49063db26557d96b5fdf8a8f">DepartureTime</a></td></tr>
+<tr class="separator:ac243e42c49063db26557d96b5fdf8a8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aee298cdd32a7593baf6ad00234120781"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/df5/a01673.html#a05990a03a3ab902d6d79e9f33385b605">TransportSpline</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#aee298cdd32a7593baf6ad00234120781">Spline</a></td></tr>
+<tr class="separator:aee298cdd32a7593baf6ad00234120781"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a23823648385abc72ffd8372468b98915"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#a23823648385abc72ffd8372468b98915">NextDistFromPrev</a></td></tr>
+<tr class="separator:a23823648385abc72ffd8372468b98915"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51fb15713126d4890bfe99dc00e421f7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d1b/a09919.html#a51fb15713126d4890bfe99dc00e421f7">NextArriveTime</a></td></tr>
+<tr class="separator:a51fb15713126d4890bfe99dc00e421f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a775b84b54deefd38af40222afd82d572" name="a775b84b54deefd38af40222afd82d572"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a775b84b54deefd38af40222afd82d572">&#9670;&#160;</a></span>TransportAnimation()</h2>
+<a id="a29de8ef0d2ba8671a00557782b5b3ba0" name="a29de8ef0d2ba8671a00557782b5b3ba0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a29de8ef0d2ba8671a00557782b5b3ba0">&#9670;&#160;</a></span>KeyFrame()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -144,10 +166,56 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">TransportAnimation::TransportAnimation </td>
+          <td class="memname">KeyFrame::KeyFrame </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/d41/a28723.html">TaxiPathNodeEntry</a> const *&#160;</td>
+          <td class="paramname"><em>node</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   43</span>                                                     : <a class="code hl_variable" href="../../d6/d1b/a09919.html#a1176b2e4067a4e330db280514ca66d43">Index</a>(0), <a class="code hl_variable" href="../../d6/d1b/a09919.html#ac628c537d5854ddf54d516eaf4471d7f">Node</a>(node), <a class="code hl_variable" href="../../d6/d1b/a09919.html#a9af26b07943f22473526463f7a0f7c6b">InitialOrientation</a>(0.0f),</div>
+<div class="line"><span class="lineno">   44</span>        <a class="code hl_variable" href="../../d6/d1b/a09919.html#a60502cefa4387ffd815ba88530123ac6">DistSinceStop</a>(-1.0f), <a class="code hl_variable" href="../../d6/d1b/a09919.html#a03f76647aa0c383bcd4b26ae93abe465">DistUntilStop</a>(-1.0f), <a class="code hl_variable" href="../../d6/d1b/a09919.html#a4271d37fac21d8c41758fc5edbf793e2">DistFromPrev</a>(-1.0f), <a class="code hl_variable" href="../../d6/d1b/a09919.html#ae12ac1910a4aa13557e69bd5e066214b">TimeFrom</a>(0.0f), <a class="code hl_variable" href="../../d6/d1b/a09919.html#ae4e0c37d26edb99017bf0042b3e0bad4">TimeTo</a>(0.0f),</div>
+<div class="line"><span class="lineno">   45</span>        <a class="code hl_variable" href="../../d6/d1b/a09919.html#ad57abe67a7e4771a35621b4204bfe347">Teleport</a>(<span class="keyword">false</span>), <a class="code hl_variable" href="../../d6/d1b/a09919.html#afc5d26078e42a2170d43c864542f676f">ArriveTime</a>(0), <a class="code hl_variable" href="../../d6/d1b/a09919.html#ac243e42c49063db26557d96b5fdf8a8f">DepartureTime</a>(0), <a class="code hl_variable" href="../../d6/d1b/a09919.html#aee298cdd32a7593baf6ad00234120781">Spline</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d6/d1b/a09919.html#a23823648385abc72ffd8372468b98915">NextDistFromPrev</a>(0.0f), <a class="code hl_variable" href="../../d6/d1b/a09919.html#a51fb15713126d4890bfe99dc00e421f7">NextArriveTime</a>(0)</div>
+<div class="line"><span class="lineno">   46</span>    {</div>
+<div class="line"><span class="lineno">   47</span>    }</div>
+<div class="ttc" id="aa09919_html_a03f76647aa0c383bcd4b26ae93abe465"><div class="ttname"><a href="../../d6/d1b/a09919.html#a03f76647aa0c383bcd4b26ae93abe465">KeyFrame::DistUntilStop</a></div><div class="ttdeci">float DistUntilStop</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:53</div></div>
+<div class="ttc" id="aa09919_html_a1176b2e4067a4e330db280514ca66d43"><div class="ttname"><a href="../../d6/d1b/a09919.html#a1176b2e4067a4e330db280514ca66d43">KeyFrame::Index</a></div><div class="ttdeci">uint32 Index</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:49</div></div>
+<div class="ttc" id="aa09919_html_a23823648385abc72ffd8372468b98915"><div class="ttname"><a href="../../d6/d1b/a09919.html#a23823648385abc72ffd8372468b98915">KeyFrame::NextDistFromPrev</a></div><div class="ttdeci">float NextDistFromPrev</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:63</div></div>
+<div class="ttc" id="aa09919_html_a4271d37fac21d8c41758fc5edbf793e2"><div class="ttname"><a href="../../d6/d1b/a09919.html#a4271d37fac21d8c41758fc5edbf793e2">KeyFrame::DistFromPrev</a></div><div class="ttdeci">float DistFromPrev</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:54</div></div>
+<div class="ttc" id="aa09919_html_a51fb15713126d4890bfe99dc00e421f7"><div class="ttname"><a href="../../d6/d1b/a09919.html#a51fb15713126d4890bfe99dc00e421f7">KeyFrame::NextArriveTime</a></div><div class="ttdeci">uint32 NextArriveTime</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:64</div></div>
+<div class="ttc" id="aa09919_html_a60502cefa4387ffd815ba88530123ac6"><div class="ttname"><a href="../../d6/d1b/a09919.html#a60502cefa4387ffd815ba88530123ac6">KeyFrame::DistSinceStop</a></div><div class="ttdeci">float DistSinceStop</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:52</div></div>
+<div class="ttc" id="aa09919_html_a9af26b07943f22473526463f7a0f7c6b"><div class="ttname"><a href="../../d6/d1b/a09919.html#a9af26b07943f22473526463f7a0f7c6b">KeyFrame::InitialOrientation</a></div><div class="ttdeci">float InitialOrientation</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:51</div></div>
+<div class="ttc" id="aa09919_html_ac243e42c49063db26557d96b5fdf8a8f"><div class="ttname"><a href="../../d6/d1b/a09919.html#ac243e42c49063db26557d96b5fdf8a8f">KeyFrame::DepartureTime</a></div><div class="ttdeci">uint32 DepartureTime</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:59</div></div>
+<div class="ttc" id="aa09919_html_ac628c537d5854ddf54d516eaf4471d7f"><div class="ttname"><a href="../../d6/d1b/a09919.html#ac628c537d5854ddf54d516eaf4471d7f">KeyFrame::Node</a></div><div class="ttdeci">TaxiPathNodeEntry const  * Node</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:50</div></div>
+<div class="ttc" id="aa09919_html_ad57abe67a7e4771a35621b4204bfe347"><div class="ttname"><a href="../../d6/d1b/a09919.html#ad57abe67a7e4771a35621b4204bfe347">KeyFrame::Teleport</a></div><div class="ttdeci">bool Teleport</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:57</div></div>
+<div class="ttc" id="aa09919_html_ae12ac1910a4aa13557e69bd5e066214b"><div class="ttname"><a href="../../d6/d1b/a09919.html#ae12ac1910a4aa13557e69bd5e066214b">KeyFrame::TimeFrom</a></div><div class="ttdeci">float TimeFrom</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:55</div></div>
+<div class="ttc" id="aa09919_html_ae4e0c37d26edb99017bf0042b3e0bad4"><div class="ttname"><a href="../../d6/d1b/a09919.html#ae4e0c37d26edb99017bf0042b3e0bad4">KeyFrame::TimeTo</a></div><div class="ttdeci">float TimeTo</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:56</div></div>
+<div class="ttc" id="aa09919_html_aee298cdd32a7593baf6ad00234120781"><div class="ttname"><a href="../../d6/d1b/a09919.html#aee298cdd32a7593baf6ad00234120781">KeyFrame::Spline</a></div><div class="ttdeci">TransportSpline * Spline</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:60</div></div>
+<div class="ttc" id="aa09919_html_afc5d26078e42a2170d43c864542f676f"><div class="ttname"><a href="../../d6/d1b/a09919.html#afc5d26078e42a2170d43c864542f676f">KeyFrame::ArriveTime</a></div><div class="ttdeci">uint32 ArriveTime</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:58</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a5e5b3e61a5734a8cfcba1c8e9cfb6e33" name="a5e5b3e61a5734a8cfcba1c8e9cfb6e33"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5e5b3e61a5734a8cfcba1c8e9cfb6e33">&#9670;&#160;</a></span>IsStopFrame()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool KeyFrame::IsStopFrame </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td> const</td>
         </tr>
       </table>
   </td>
@@ -156,200 +224,253 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   89</span>: <a class="code hl_variable" href="../../d6/d1b/a09919.html#a59a31ffc2e642a3950b0509130a76ad4">TotalTime</a>(0) { }</div>
-<div class="ttc" id="aa09919_html_a59a31ffc2e642a3950b0509130a76ad4"><div class="ttname"><a href="../../d6/d1b/a09919.html#a59a31ffc2e642a3950b0509130a76ad4">TransportAnimation::TotalTime</a></div><div class="ttdeci">uint32 TotalTime</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:93</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   67</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d6/d1b/a09919.html#ac628c537d5854ddf54d516eaf4471d7f">Node</a>-&gt;<a class="code hl_variable" href="../../dc/d41/a28723.html#a6257ae486eff937cf12be64f0e850ca6">actionFlag</a> == 2; }</div>
+<div class="ttc" id="aa28723_html_a6257ae486eff937cf12be64f0e850ca6"><div class="ttname"><a href="../../dc/d41/a28723.html#a6257ae486eff937cf12be64f0e850ca6">TaxiPathNodeEntry::actionFlag</a></div><div class="ttdeci">uint32 actionFlag</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1982</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01982">TaxiPathNodeEntry::actionFlag</a>, and <a class="el" href="../../#l00050">Node</a>.</p>
+
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a73b56750c90afce38dbf57793bae16f3" name="a73b56750c90afce38dbf57793bae16f3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a73b56750c90afce38dbf57793bae16f3">&#9670;&#160;</a></span>GetAnimNode()</h2>
+<a id="a4197d8450563a6abd2826be37a2d0c0e" name="a4197d8450563a6abd2826be37a2d0c0e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4197d8450563a6abd2826be37a2d0c0e">&#9670;&#160;</a></span>IsTeleportFrame()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool TransportAnimation::GetAnimNode </td>
+          <td class="memname">bool KeyFrame::IsTeleportFrame </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>time</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dc/d18/a28695.html">TransportAnimationEntry</a> const *&amp;&#160;</td>
-          <td class="paramname"><em>curr</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dc/d18/a28695.html">TransportAnimationEntry</a> const *&amp;&#160;</td>
-          <td class="paramname"><em>next</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname"><em>percPos</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  493</span>{</div>
-<div class="line"><span class="lineno">  494</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d1b/a09919.html#a7c45df781dda8058d281a2cf7e5fe5fb">Path</a>.empty())</div>
-<div class="line"><span class="lineno">  495</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  496</span> </div>
-<div class="line"><span class="lineno">  497</span>    <span class="keywordflow">for</span> (TransportPathContainer::const_reverse_iterator itr = <a class="code hl_variable" href="../../d6/d1b/a09919.html#a7c45df781dda8058d281a2cf7e5fe5fb">Path</a>.rbegin(); itr != <a class="code hl_variable" href="../../d6/d1b/a09919.html#a7c45df781dda8058d281a2cf7e5fe5fb">Path</a>.rend(); ++itr)</div>
-<div class="line"><span class="lineno">  498</span>        <span class="keywordflow">if</span> (time &gt;= itr-&gt;first)</div>
-<div class="line"><span class="lineno">  499</span>        {</div>
-<div class="line"><span class="lineno">  500</span>            curr = itr-&gt;second;</div>
-<div class="line"><span class="lineno">  501</span>            <a class="code hl_define" href="../../d1/d56/a04544.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(itr != <a class="code hl_variable" href="../../d6/d1b/a09919.html#a7c45df781dda8058d281a2cf7e5fe5fb">Path</a>.rbegin());</div>
-<div class="line"><span class="lineno">  502</span>            --itr;</div>
-<div class="line"><span class="lineno">  503</span>            next = itr-&gt;second;</div>
-<div class="line"><span class="lineno">  504</span>            percPos = float(time - curr-&gt;TimeSeg) / float(next-&gt;TimeSeg - curr-&gt;TimeSeg);</div>
-<div class="line"><span class="lineno">  505</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  506</span>        }</div>
-<div class="line"><span class="lineno">  507</span> </div>
-<div class="line"><span class="lineno">  508</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  509</span>}</div>
-<div class="ttc" id="aa04544_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d1/d56/a04544.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
-<div class="ttc" id="aa09919_html_a7c45df781dda8058d281a2cf7e5fe5fb"><div class="ttname"><a href="../../d6/d1b/a09919.html#a7c45df781dda8058d281a2cf7e5fe5fb">TransportAnimation::Path</a></div><div class="ttdeci">TransportPathContainer Path</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:91</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   66</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d6/d1b/a09919.html#ad57abe67a7e4771a35621b4204bfe347">Teleport</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00091">Path</a>, and <a class="el" href="../../#l02007">TransportAnimationEntry::TimeSeg</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00913">StaticTransport::RelocateToProgress()</a>.</p>
-
-</div>
-</div>
-<a id="aa2c892f14712828acaa85fa6e6d919bb" name="aa2c892f14712828acaa85fa6e6d919bb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa2c892f14712828acaa85fa6e6d919bb">&#9670;&#160;</a></span>GetAnimRotation()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TransportAnimation::GetAnimRotation </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>time</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">G3D::Quat &amp;&#160;</td>
-          <td class="paramname"><em>curr</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">G3D::Quat &amp;&#160;</td>
-          <td class="paramname"><em>next</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname"><em>percRot</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  512</span>{</div>
-<div class="line"><span class="lineno">  513</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d6/d1b/a09919.html#a5fa771fb487c437d7d6229eadf7d90c3">Rotations</a>.empty())</div>
-<div class="line"><span class="lineno">  514</span>    {</div>
-<div class="line"><span class="lineno">  515</span>        curr = G3D::Quat(0.0f, 0.0f, 0.0f, 1.0f);</div>
-<div class="line"><span class="lineno">  516</span>        next = G3D::Quat(0.0f, 0.0f, 0.0f, 1.0f);</div>
-<div class="line"><span class="lineno">  517</span>        percRot = 0.0f;</div>
-<div class="line"><span class="lineno">  518</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  519</span>    }</div>
-<div class="line"><span class="lineno">  520</span> </div>
-<div class="line"><span class="lineno">  521</span>    <span class="keywordflow">for</span> (TransportPathRotationContainer::const_reverse_iterator itr = <a class="code hl_variable" href="../../d6/d1b/a09919.html#a5fa771fb487c437d7d6229eadf7d90c3">Rotations</a>.rbegin(); itr != <a class="code hl_variable" href="../../d6/d1b/a09919.html#a5fa771fb487c437d7d6229eadf7d90c3">Rotations</a>.rend(); ++itr)</div>
-<div class="line"><span class="lineno">  522</span>        <span class="keywordflow">if</span> (time &gt;= itr-&gt;first)</div>
-<div class="line"><span class="lineno">  523</span>        {</div>
-<div class="line"><span class="lineno">  524</span>            <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> currSeg = itr-&gt;second-&gt;TimeSeg, nextSeg;</div>
-<div class="line"><span class="lineno">  525</span>            curr = G3D::Quat(itr-&gt;second-&gt;X, itr-&gt;second-&gt;Y, itr-&gt;second-&gt;Z, itr-&gt;second-&gt;W);</div>
-<div class="line"><span class="lineno">  526</span>            <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d6/d1b/a09919.html#a5fa771fb487c437d7d6229eadf7d90c3">Rotations</a>.rbegin())</div>
-<div class="line"><span class="lineno">  527</span>            {</div>
-<div class="line"><span class="lineno">  528</span>                --itr;</div>
-<div class="line"><span class="lineno">  529</span>                next = G3D::Quat(itr-&gt;second-&gt;X, itr-&gt;second-&gt;Y, itr-&gt;second-&gt;Z, itr-&gt;second-&gt;W);</div>
-<div class="line"><span class="lineno">  530</span>                nextSeg = itr-&gt;second-&gt;TimeSeg;</div>
-<div class="line"><span class="lineno">  531</span>            }</div>
-<div class="line"><span class="lineno">  532</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  533</span>            {</div>
-<div class="line"><span class="lineno">  534</span>                next = G3D::Quat(<a class="code hl_variable" href="../../d6/d1b/a09919.html#a5fa771fb487c437d7d6229eadf7d90c3">Rotations</a>.begin()-&gt;second-&gt;X, <a class="code hl_variable" href="../../d6/d1b/a09919.html#a5fa771fb487c437d7d6229eadf7d90c3">Rotations</a>.begin()-&gt;second-&gt;Y, <a class="code hl_variable" href="../../d6/d1b/a09919.html#a5fa771fb487c437d7d6229eadf7d90c3">Rotations</a>.begin()-&gt;second-&gt;Z, <a class="code hl_variable" href="../../d6/d1b/a09919.html#a5fa771fb487c437d7d6229eadf7d90c3">Rotations</a>.begin()-&gt;second-&gt;W);</div>
-<div class="line"><span class="lineno">  535</span>                nextSeg = this-&gt;<a class="code hl_variable" href="../../d6/d1b/a09919.html#a59a31ffc2e642a3950b0509130a76ad4">TotalTime</a>;</div>
-<div class="line"><span class="lineno">  536</span>            }</div>
-<div class="line"><span class="lineno">  537</span>            percRot = float(time - currSeg) / float(nextSeg - currSeg);</div>
-<div class="line"><span class="lineno">  538</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  539</span>        }</div>
-<div class="line"><span class="lineno">  540</span> </div>
-<div class="line"><span class="lineno">  541</span>    curr = G3D::Quat(0.0f, 0.0f, 0.0f, 1.0f);</div>
-<div class="line"><span class="lineno">  542</span>    next = G3D::Quat(0.0f, 0.0f, 0.0f, 1.0f);</div>
-<div class="line"><span class="lineno">  543</span>    percRot = 0.0f;</div>
-<div class="line"><span class="lineno">  544</span>}</div>
-<div class="ttc" id="aa04307_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa09919_html_a5fa771fb487c437d7d6229eadf7d90c3"><div class="ttname"><a href="../../d6/d1b/a09919.html#a5fa771fb487c437d7d6229eadf7d90c3">TransportAnimation::Rotations</a></div><div class="ttdeci">TransportPathRotationContainer Rotations</div><div class="ttdef"><b>Definition:</b> TransportMgr.h:92</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00092">Rotations</a>, and <a class="el" href="../../#l00093">TotalTime</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00913">StaticTransport::RelocateToProgress()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00057">Teleport</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a7c45df781dda8058d281a2cf7e5fe5fb" name="a7c45df781dda8058d281a2cf7e5fe5fb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7c45df781dda8058d281a2cf7e5fe5fb">&#9670;&#160;</a></span>Path</h2>
+<a id="afc5d26078e42a2170d43c864542f676f" name="afc5d26078e42a2170d43c864542f676f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afc5d26078e42a2170d43c864542f676f">&#9670;&#160;</a></span>ArriveTime</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/df5/a01673.html#a7905b31432c2140de30ffc9363c3e9b9">TransportPathContainer</a> TransportAnimation::Path</td>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> KeyFrame::ArriveTime</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00350">TransportMgr::AddPathNodeToTransport()</a>, and <a class="el" href="../../#l00492">GetAnimNode()</a>.</p>
-
 </div>
 </div>
-<a id="a5fa771fb487c437d7d6229eadf7d90c3" name="a5fa771fb487c437d7d6229eadf7d90c3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5fa771fb487c437d7d6229eadf7d90c3">&#9670;&#160;</a></span>Rotations</h2>
+<a id="ac243e42c49063db26557d96b5fdf8a8f" name="ac243e42c49063db26557d96b5fdf8a8f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac243e42c49063db26557d96b5fdf8a8f">&#9670;&#160;</a></span>DepartureTime</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/df5/a01673.html#a58adfcebbe67029f647a3db4897a6558">TransportPathRotationContainer</a> TransportAnimation::Rotations</td>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> KeyFrame::DepartureTime</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00511">GetAnimRotation()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00475">MotionTransport::CalculateSegmentPos()</a>.</p>
 
 </div>
 </div>
-<a id="a59a31ffc2e642a3950b0509130a76ad4" name="a59a31ffc2e642a3950b0509130a76ad4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a59a31ffc2e642a3950b0509130a76ad4">&#9670;&#160;</a></span>TotalTime</h2>
+<a id="a4271d37fac21d8c41758fc5edbf793e2" name="a4271d37fac21d8c41758fc5edbf793e2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4271d37fac21d8c41758fc5edbf793e2">&#9670;&#160;</a></span>DistFromPrev</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> TransportAnimation::TotalTime</td>
+          <td class="memname">float KeyFrame::DistFromPrev</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00350">TransportMgr::AddPathNodeToTransport()</a>, <a class="el" href="../../#l00727">StaticTransport::Create()</a>, <a class="el" href="../../#l00511">GetAnimRotation()</a>, and <a class="el" href="../../#l00136">StaticTransport::GetPeriod()</a>.</p>
+</div>
+</div>
+<a id="a60502cefa4387ffd815ba88530123ac6" name="a60502cefa4387ffd815ba88530123ac6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a60502cefa4387ffd815ba88530123ac6">&#9670;&#160;</a></span>DistSinceStop</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float KeyFrame::DistSinceStop</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00475">MotionTransport::CalculateSegmentPos()</a>.</p>
+
+</div>
+</div>
+<a id="a03f76647aa0c383bcd4b26ae93abe465" name="a03f76647aa0c383bcd4b26ae93abe465"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a03f76647aa0c383bcd4b26ae93abe465">&#9670;&#160;</a></span>DistUntilStop</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float KeyFrame::DistUntilStop</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00475">MotionTransport::CalculateSegmentPos()</a>.</p>
+
+</div>
+</div>
+<a id="a1176b2e4067a4e330db280514ca66d43" name="a1176b2e4067a4e330db280514ca66d43"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1176b2e4067a4e330db280514ca66d43">&#9670;&#160;</a></span>Index</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> KeyFrame::Index</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a9af26b07943f22473526463f7a0f7c6b" name="a9af26b07943f22473526463f7a0f7c6b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9af26b07943f22473526463f7a0f7c6b">&#9670;&#160;</a></span>InitialOrientation</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float KeyFrame::InitialOrientation</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00115">TransportMgr::GeneratePath()</a>.</p>
+
+</div>
+</div>
+<a id="a51fb15713126d4890bfe99dc00e421f7" name="a51fb15713126d4890bfe99dc00e421f7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a51fb15713126d4890bfe99dc00e421f7">&#9670;&#160;</a></span>NextArriveTime</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> KeyFrame::NextArriveTime</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a23823648385abc72ffd8372468b98915" name="a23823648385abc72ffd8372468b98915"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a23823648385abc72ffd8372468b98915">&#9670;&#160;</a></span>NextDistFromPrev</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float KeyFrame::NextDistFromPrev</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00475">MotionTransport::CalculateSegmentPos()</a>.</p>
+
+</div>
+</div>
+<a id="ac628c537d5854ddf54d516eaf4471d7f" name="ac628c537d5854ddf54d516eaf4471d7f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac628c537d5854ddf54d516eaf4471d7f">&#9670;&#160;</a></span>Node</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dc/d41/a28723.html">TaxiPathNodeEntry</a> const* KeyFrame::Node</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00671">MotionTransport::DoEventIfAny()</a>, <a class="el" href="../../#l00115">TransportMgr::GeneratePath()</a>, and <a class="el" href="../../#l00067">IsStopFrame()</a>.</p>
+
+</div>
+</div>
+<a id="aee298cdd32a7593baf6ad00234120781" name="aee298cdd32a7593baf6ad00234120781"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aee298cdd32a7593baf6ad00234120781">&#9670;&#160;</a></span>Spline</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/df5/a01673.html#a05990a03a3ab902d6d79e9f33385b605">TransportSpline</a>* KeyFrame::Spline</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad57abe67a7e4771a35621b4204bfe347" name="ad57abe67a7e4771a35621b4204bfe347"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad57abe67a7e4771a35621b4204bfe347">&#9670;&#160;</a></span>Teleport</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool KeyFrame::Teleport</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00066">IsTeleportFrame()</a>.</p>
+
+</div>
+</div>
+<a id="ae12ac1910a4aa13557e69bd5e066214b" name="ae12ac1910a4aa13557e69bd5e066214b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae12ac1910a4aa13557e69bd5e066214b">&#9670;&#160;</a></span>TimeFrom</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float KeyFrame::TimeFrom</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00475">MotionTransport::CalculateSegmentPos()</a>.</p>
+
+</div>
+</div>
+<a id="ae4e0c37d26edb99017bf0042b3e0bad4" name="ae4e0c37d26edb99017bf0042b3e0bad4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae4e0c37d26edb99017bf0042b3e0bad4">&#9670;&#160;</a></span>TimeTo</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float KeyFrame::TimeTo</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00475">MotionTransport::CalculateSegmentPos()</a>.</p>
 
 </div>
 </div>
@@ -358,8 +479,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d6/d1b/a09919.html">TransportAnimation</a></li>
-    <li class="footer">Generated on Mon Oct 6 2025 20:46:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d6/d1b/a09919.html">KeyFrame</a></li>
+    <li class="footer">Generated on Mon Oct 13 2025 20:45:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

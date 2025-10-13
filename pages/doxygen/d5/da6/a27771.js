@@ -1,9 +1,11 @@
 var a27771 =
 [
-    [ "npc_target_dummyAI", "d5/da6/a27771.html#a117e45559ea721877d73df4b3c18a259", null ],
-    [ "EnterEvadeMode", "d5/da6/a27771.html#a8f7f2e4decc676e378b4929516f8a147", null ],
-    [ "MoveInLineOfSight", "d5/da6/a27771.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
-    [ "Reset", "d5/da6/a27771.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
-    [ "UpdateAI", "d5/da6/a27771.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
-    [ "deathTimer", "d5/da6/a27771.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
+    [ "npc_franklinAI", "d5/da6/a27771.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
+    [ "DamageTaken", "d5/da6/a27771.html#afa494098126ce3291e234cfc2b36336f", null ],
+    [ "JustEngagedWith", "d5/da6/a27771.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
+    [ "Reset", "d5/da6/a27771.html#a51a260460facf06ec6bb1486f434d885", null ],
+    [ "ScheduleEncounterStart", "d5/da6/a27771.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
+    [ "SpellHit", "d5/da6/a27771.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
+    [ "UpdateAI", "d5/da6/a27771.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
+    [ "events", "d5/da6/a27771.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
 ];

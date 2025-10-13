@@ -1,8 +1,13 @@
 var a28723 =
 [
-    [ "MapDifficulty", "dc/d41/a28723.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
-    [ "MapDifficulty", "dc/d41/a28723.html#a227aec55b5b774076882ea34f70d5d88", null ],
-    [ "hasErrorMessage", "dc/d41/a28723.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
-    [ "maxPlayers", "dc/d41/a28723.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
-    [ "resetTime", "dc/d41/a28723.html#a7190131620b9eee0897ac7b4dd62949e", null ]
+    [ "actionFlag", "dc/d41/a28723.html#a6257ae486eff937cf12be64f0e850ca6", null ],
+    [ "arrivalEventID", "dc/d41/a28723.html#a1ffe17f529066091b18451a1121ce6ac", null ],
+    [ "delay", "dc/d41/a28723.html#aef005db912b0a57ecc5d62c66d838826", null ],
+    [ "departureEventID", "dc/d41/a28723.html#a670a033aaf0ff48676373baf9235d670", null ],
+    [ "index", "dc/d41/a28723.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
+    [ "mapid", "dc/d41/a28723.html#aa2c6fb8a785e297c72384043698dd401", null ],
+    [ "path", "dc/d41/a28723.html#aa0692acbae0d4639c89ece77265d7858", null ],
+    [ "x", "dc/d41/a28723.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
+    [ "y", "dc/d41/a28723.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
+    [ "z", "dc/d41/a28723.html#af48d85940d7f204091e8438427a72e2d", null ]
 ];

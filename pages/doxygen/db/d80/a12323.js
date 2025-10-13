@@ -1,5 +1,5 @@
 var a12323 =
 [
-    [ "at_blackrock_stadium", "db/d80/a12323.html#a9f577437f231a189c02e50e71ffcb85a", null ],
-    [ "OnTrigger", "db/d80/a12323.html#a26e43099d9253ea44060194e3b38c656", null ]
+    [ "at_the_beast_room", "db/d80/a12323.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
+    [ "OnTrigger", "db/d80/a12323.html#a366c5e35c4030f998404886f1526ae37", null ]
 ];

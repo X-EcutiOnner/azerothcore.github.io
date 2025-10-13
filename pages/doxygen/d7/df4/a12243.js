@@ -1,11 +1,14 @@
 var a12243 =
 [
-    [ "boss_quartermaster_zigris", "d7/df4/a12243.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
-    [ "DamageTaken", "d7/df4/a12243.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
-    [ "JustDied", "d7/df4/a12243.html#a9295bbcffd7968051a789e8dfb634e23", null ],
-    [ "JustEngagedWith", "d7/df4/a12243.html#af482c06e00e7f6c15b290115998a27a9", null ],
-    [ "Reset", "d7/df4/a12243.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
-    [ "SpellHitTarget", "d7/df4/a12243.html#a38197746cc73ada1378e6e1a5555ef79", null ],
-    [ "UpdateAI", "d7/df4/a12243.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
-    [ "_hasDrunkPotion", "d7/df4/a12243.html#a25335533bc43171687e03f1ed22d4fb3", null ]
+    [ "boss_lord_valthalakAI", "d7/df4/a12243.html#a7f10837eafefefb87b338410c5994362", null ],
+    [ "DamageTaken", "d7/df4/a12243.html#a6fe691c8dd5c5b387eed08e3a010bec7", null ],
+    [ "IsSummonedBy", "d7/df4/a12243.html#a852589ca84562ad1a9dcdd403fe5aa83", null ],
+    [ "JustDied", "d7/df4/a12243.html#a4c9bd060e62f1c4d3819350bf549a39a", null ],
+    [ "JustEngagedWith", "d7/df4/a12243.html#acee7b1758b670a688fe1afcdef3b9f8c", null ],
+    [ "Reset", "d7/df4/a12243.html#abcc993a205602484fb46a67bc68dbbd9", null ],
+    [ "StartFighting", "d7/df4/a12243.html#af06da24e8bedf922895c8c591c1def04", null ],
+    [ "StartTalking", "d7/df4/a12243.html#ab89e407c8afccd712c3b9375f0de8687", null ],
+    [ "UpdateAI", "d7/df4/a12243.html#a2b39a384ac7133aa013e21b0e873c4e2", null ],
+    [ "frenzy15", "d7/df4/a12243.html#aabd65fc1a1bdbbc9c3a46c918bc7dff5", null ],
+    [ "frenzy40", "d7/df4/a12243.html#a75aa55580bed475e88e9071fa5284267", null ]
 ];

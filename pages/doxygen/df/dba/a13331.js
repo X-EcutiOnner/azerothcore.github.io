@@ -1,7 +1,11 @@
 var a13331 =
 [
-    [ "HandleScript", "df/dba/a13331.html#acbff60b24bd0239880378b48cb97b6a4", null ],
-    [ "PrepareSpellScript", "df/dba/a13331.html#a2f72b76ced4443a8eb1dfcf7bf6a4ac5", null ],
-    [ "Register", "df/dba/a13331.html#a132d35555f1d589caa65ecd3728976d5", null ],
-    [ "Validate", "df/dba/a13331.html#a503ce41357f8195837c9b14f2468fb5b", null ]
+    [ "npc_scholomance_occultistAI", "df/dba/a13331.html#af78103d07aef427130d26b4aed5e5ae3", null ],
+    [ "JustEngagedWith", "df/dba/a13331.html#a03f0f6d015065c5afcf025dc44dc6aa8", null ],
+    [ "JustReachedHome", "df/dba/a13331.html#ac4bb0aa4009191a36dd4cebb45fd2ad5", null ],
+    [ "SelectUnitCasting", "df/dba/a13331.html#adde187b89a74a57aac823e4eb19bfeed", null ],
+    [ "UpdateAI", "df/dba/a13331.html#ab02edf780adb553b2314045d8effa277", null ],
+    [ "events", "df/dba/a13331.html#a1ee55a572462a1e832a5b89c8906bd87", null ],
+    [ "instance", "df/dba/a13331.html#a195fe4d681580c17086a5390fd4f82ba", null ],
+    [ "originalDisplayId", "df/dba/a13331.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4", null ]
 ];

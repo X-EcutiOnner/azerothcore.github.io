@@ -1,9 +1,8 @@
 var a11239 =
 [
-    [ "SpellEvent", "db/d7a/a11239.html#abca64eb7d39df9788cef9df7e8634368", null ],
-    [ "~SpellEvent", "db/d7a/a11239.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
-    [ "Abort", "db/d7a/a11239.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
-    [ "Execute", "db/d7a/a11239.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
-    [ "IsDeletable", "db/d7a/a11239.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
-    [ "m_Spell", "db/d7a/a11239.html#a22cce1d722f5086932ae3e97c58d2921", null ]
+    [ "SkillPerfectItemEntry", "db/d7a/a11239.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
+    [ "SkillPerfectItemEntry", "db/d7a/a11239.html#a678f9908440187faad38c0e1ffaf82de", null ],
+    [ "perfectCreateChance", "db/d7a/a11239.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
+    [ "perfectItemType", "db/d7a/a11239.html#a057605f8867d4df5cb290318598a2908", null ],
+    [ "requiredSpecialization", "db/d7a/a11239.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
 ];

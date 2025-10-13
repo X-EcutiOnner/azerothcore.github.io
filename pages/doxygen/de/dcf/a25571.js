@@ -1,9 +1,13 @@
 var a25571 =
 [
-    [ "spell_gen_translocate", "de/dcf/a25571.html#a56a3df0eba3e1521aa2898194c39e919", null ],
-    [ "HandleScript", "de/dcf/a25571.html#a67684fb76da60fdc13dbece055dae157", null ],
-    [ "PrepareSpellScript", "de/dcf/a25571.html#a6f0986e54ad410c2f42a7935645485ed", null ],
-    [ "Register", "de/dcf/a25571.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
-    [ "Validate", "de/dcf/a25571.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
-    [ "_spellId", "de/dcf/a25571.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
+    [ "CalcPeriodic", "de/dcf/a25571.html#a3ac8408619d30ad092b624c2894d40bb", null ],
+    [ "CalculateExpertiseAmount", "de/dcf/a25571.html#ae974eed8254bace2a758917a4b629fa9", null ],
+    [ "CalculateSpellHitAmount", "de/dcf/a25571.html#ad42047dcb29d96224f6bd44064b1da32", null ],
+    [ "CalculateSpellPenAmount", "de/dcf/a25571.html#a300e649beb785c4ebc84eb1b0613164e", null ],
+    [ "HandleEffectApply", "de/dcf/a25571.html#ac01bc37e10b1072fb12aeb0bbfbdcc41", null ],
+    [ "HandlePeriodic", "de/dcf/a25571.html#a26c15c411ff09d8107dfc360b71dbc0a", null ],
+    [ "PrepareAuraScript", "de/dcf/a25571.html#a8b1230d7a14f87966ecf834fcbf83b58", null ],
+    [ "Register", "de/dcf/a25571.html#a47cb8f043f8b8984615520db25696f8e", null ],
+    [ "cap", "de/dcf/a25571.html#a5e168cfe5d9b620d523ea780f1e18cc7", null ],
+    [ "maxChance", "de/dcf/a25571.html#a11f2c759a5587eb865560eceff5b8414", null ]
 ];

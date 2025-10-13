@@ -1,9 +1,7 @@
 var a00944 =
 [
-    [ "PetStable", "d4/d06/a08527.html", "d4/d06/a08527" ],
-    [ "PetStable::PetInfo", "d4/dbc/a08531.html", "d4/dbc/a08531" ],
-    [ "PET_FOLLOW_ANGLE", "d9/dce/a00944.html#a346068e848cb7777695f170d2c7958de", null ],
-    [ "PET_FOLLOW_DIST", "d9/dce/a00944.html#a83e96c6d024ceb5d1189baac7b823d5d", null ],
+    [ "PetStable", "d1/ddc/a08535.html", "d1/ddc/a08535" ],
+    [ "PetStable::PetInfo", "d2/d4c/a08539.html", "d2/d4c/a08539" ],
     [ "ActionFeedback", "d9/dce/a00944.html#aeb5551b3f37a2573e008d2d5d865359d", [
       [ "FEEDBACK_NONE", "d9/dce/a00944.html#aeb5551b3f37a2573e008d2d5d865359dac70a05f4ef81ef0dd1eb55ab74779fba", null ],
       [ "FEEDBACK_PET_DEAD", "d9/dce/a00944.html#aeb5551b3f37a2573e008d2d5d865359da482a5e311921dbd1dfab7521309f18c1", null ],
@@ -128,5 +126,9 @@ var a00944 =
       [ "HUNTER_PET", "d9/dce/a00944.html#a9c56f6096d84d7e4e38d3e3f4e5af97ca608ed771a0dfa608eeafada945298bc2", null ],
       [ "MAX_PET_TYPE", "d9/dce/a00944.html#a9c56f6096d84d7e4e38d3e3f4e5af97cacb8090a59681ea6d194c6a00b73423ea", null ]
     ] ],
-    [ "MAX_PET_STABLES", "d9/dce/a00944.html#ad8cb525a1566956fd2dd5baf811ab5b1", null ]
+    [ "MAX_PET_STABLES", "d9/dce/a00944.html#ad8cb525a1566956fd2dd5baf811ab5b1", null ],
+    [ "MINI_PET_FOLLOW_ANGLE", "d9/dce/a00944.html#a4957a90340dbf72fc1e78027fc825e5c", null ],
+    [ "MINI_PET_SUMMON_ANGLE", "d9/dce/a00944.html#a2f001127b7dc43cdc0367d187229324c", null ],
+    [ "PET_FOLLOW_ANGLE", "d9/dce/a00944.html#a614e66564b4c3d044cd6e1b5880de654", null ],
+    [ "PET_FOLLOW_DIST", "d9/dce/a00944.html#a72390f1dacad9f741f303cec18519217", null ]
 ];

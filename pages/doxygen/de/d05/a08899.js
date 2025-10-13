@@ -1,10 +1,10 @@
 var a08899 =
 [
-    [ "UnitLastSearcher", "de/d05/a08899.html#a7924240df139cf0814282eaff8a898b6", null ],
-    [ "Visit", "de/d05/a08899.html#a95a5148e040daf44ed19e3118621a4ca", null ],
-    [ "Visit", "de/d05/a08899.html#ae9992afc09771d4f1e1517642075f17e", null ],
-    [ "Visit", "de/d05/a08899.html#aadfcfdd95a9f2b61cb9ff4c7db43a014", null ],
-    [ "i_check", "de/d05/a08899.html#a6cf23e7ed9198798da03e6ec3526ee97", null ],
-    [ "i_object", "de/d05/a08899.html#a7bd2407800c461de70b217a4b48f9921", null ],
-    [ "i_phaseMask", "de/d05/a08899.html#aee39e2b567813e1e7420de07b3fe9b08", null ]
+    [ "mapId", "de/d05/a08899.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
+    [ "name", "de/d05/a08899.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
+    [ "orientation", "de/d05/a08899.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
+    [ "position_x", "de/d05/a08899.html#a65e7390a1dbb615a155c4f163b830e11", null ],
+    [ "position_y", "de/d05/a08899.html#a3d3f398cd23566dce721fefeae7af33c", null ],
+    [ "position_z", "de/d05/a08899.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
+    [ "wnameLow", "de/d05/a08899.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
 ];

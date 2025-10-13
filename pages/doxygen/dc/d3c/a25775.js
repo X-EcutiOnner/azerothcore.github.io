@@ -1,7 +1,5 @@
 var a25775 =
 [
-    [ "HandleScriptEffect", "dc/d3c/a25775.html#a3ad488a1b6115bb1ec8cfe6717d3b4cf", null ],
-    [ "Load", "dc/d3c/a25775.html#af89783564da25769be15e22291717f6a", null ],
-    [ "PrepareSpellScript", "dc/d3c/a25775.html#a1e7e4137712fcaa378d1ac7ff1b0a6c7", null ],
-    [ "Register", "dc/d3c/a25775.html#addbe722d9f3727578f817789e3010bab", null ]
+    [ "PrepareSpellScript", "dc/d3c/a25775.html#adaaa520c889970d91f3f38c958efdad4", null ],
+    [ "Register", "dc/d3c/a25775.html#a80fe694c669aa86494bd73bfa7b8ffc8", null ]
 ];

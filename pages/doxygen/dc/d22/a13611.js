@@ -1,7 +1,8 @@
 var a13611 =
 [
-    [ "npc_singularity", "dc/d22/a13611.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
-    [ "FindAndFollowTarget", "dc/d22/a13611.html#a76c21129756dec05f6f2d88cebe948c5", null ],
-    [ "Reset", "dc/d22/a13611.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
-    [ "UpdateAI", "dc/d22/a13611.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
+    [ "HandleApply", "dc/d22/a13611.html#a2c64240e8675fc76598600ae2632570f", null ],
+    [ "HandleRemove", "dc/d22/a13611.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
+    [ "PrepareAuraScript", "dc/d22/a13611.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
+    [ "Register", "dc/d22/a13611.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
+    [ "Validate", "dc/d22/a13611.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
 ];

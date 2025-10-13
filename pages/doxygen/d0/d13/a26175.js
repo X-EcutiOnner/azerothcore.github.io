@@ -1,7 +1,6 @@
 var a26175 =
 [
-    [ "CheckCast", "d0/d13/a26175.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
-    [ "HandleEffect", "d0/d13/a26175.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
-    [ "PrepareSpellScript", "d0/d13/a26175.html#aa63cb903e7c6037a6c08381334ccc126", null ],
-    [ "Register", "d0/d13/a26175.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
+    [ "CheckProc", "d0/d13/a26175.html#a1da9fe2fa918a8f92a53de8eee9d1830", null ],
+    [ "PrepareAuraScript", "d0/d13/a26175.html#a3fa05a39b003805f405d814214f4366e", null ],
+    [ "Register", "d0/d13/a26175.html#a9b7f633b60dd7798b8f2f85d14c26ca2", null ]
 ];

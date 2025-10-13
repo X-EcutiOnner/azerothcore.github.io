@@ -1,6 +1,6 @@
 var a11055 =
 [
-    [ "TotemDestroyed", "d2/d03/a11055.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
-    [ "Read", "d2/d03/a11055.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
-    [ "Slot", "d2/d03/a11055.html#a41eebde65aa696c2dec812da0aeab633", null ]
+    [ "PetLearnedSpell", "d2/d03/a11055.html#a5d105cca08515b9550998f2c86b13a1a", null ],
+    [ "Write", "d2/d03/a11055.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
+    [ "SpellID", "d2/d03/a11055.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
 ];

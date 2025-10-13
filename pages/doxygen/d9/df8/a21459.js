@@ -1,6 +1,7 @@
 var a21459 =
 [
-    [ "boss_koralonAI", "d2/dbb/a21463.html", "d2/dbb/a21463" ],
-    [ "boss_koralon", "d9/df8/a21459.html#a43b9fb1224abeba44080fb02062451b0", null ],
-    [ "GetAI", "d9/df8/a21459.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
+    [ "HandlePeriodicDummy", "d9/df8/a21459.html#a295f37cddccc696d450a0c4380d43c29", null ],
+    [ "PrepareAuraScript", "d9/df8/a21459.html#a9453aa189ba53de3d89bbab183927cfc", null ],
+    [ "Register", "d9/df8/a21459.html#a1ca87e8523c020a9e4e0970c68957c14", null ],
+    [ "Validate", "d9/df8/a21459.html#a475480c072aaccde7b00cf28aedff3ec", null ]
 ];

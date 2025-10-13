@@ -1,6 +1,6 @@
 var a20075 =
 [
-    [ "boss_flame_leviathan_defense_turretAI", "dc/d31/a20079.html", "dc/d31/a20079" ],
-    [ "boss_flame_leviathan_defense_turret", "d2/dd5/a20075.html#a939c66ff6c1eb6dfdb3d93b3d0292e40", null ],
-    [ "GetAI", "d2/dd5/a20075.html#a1c3726e2b753cda18bd11d8f4ff154db", null ]
+    [ "boss_flame_leviathan_seatAI", "dc/d31/a20079.html", "dc/d31/a20079" ],
+    [ "boss_flame_leviathan_seat", "d2/dd5/a20075.html#a0fc90640a5142d889f1c043270582a16", null ],
+    [ "GetAI", "d2/dd5/a20075.html#a0e17225aeb93e0a5f5442c4ac2362af8", null ]
 ];

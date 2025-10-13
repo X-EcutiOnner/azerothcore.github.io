@@ -1,6 +1,6 @@
 var a14355 =
 [
-    [ "npc_brewfest_bark_trigger", "dc/db4/a14355.html#a110d654792e1f5dae8b17f014ea3d425", null ],
-    [ "GetTextFor", "dc/db4/a14355.html#aca27445a1d9868a2cbd3a6a89dd806df", null ],
-    [ "MoveInLineOfSight", "dc/db4/a14355.html#a271a440f21b4abddd9aa087e1e64a3d0", null ]
+    [ "instance_zulgurub_InstanceMapScript", "dc/de3/a14359.html", "dc/de3/a14359" ],
+    [ "instance_zulgurub", "dc/db4/a14355.html#aedc8c70e880ed9ccaf58b7154f9ba341", null ],
+    [ "GetInstanceScript", "dc/db4/a14355.html#a51f17d1135c7e97ff082d0d95ec3ffa4", null ]
 ];

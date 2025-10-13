@@ -1,12 +1,10 @@
 var a15219 =
 [
-    [ "npc_anubisath_guardian", "db/d62/a15219.html#a7db1771f9083e14c177e37d7bf6690c5", null ],
-    [ "DamageTaken", "db/d62/a15219.html#a2b7f307b5af7c50c86a68c4834f08ed4", null ],
-    [ "JustDied", "db/d62/a15219.html#a9f40c43ded16ad5934a5d5499f16ca76", null ],
-    [ "JustEngagedWith", "db/d62/a15219.html#a16d1e70f0ca0fcef972ac45f82e885e6", null ],
-    [ "Reset", "db/d62/a15219.html#af87cc86141964c48f9c57ed5bade36a5", null ],
-    [ "UpdateAI", "db/d62/a15219.html#a9a9c805c92a3e8e96914d01accb01051", null ],
-    [ "_enraged", "db/d62/a15219.html#a69b3b2cee4c84cd6dccd3465b555ad12", null ],
-    [ "_scheduler", "db/d62/a15219.html#ad44455c43d53426a152547d5b0770bbe", null ],
-    [ "_spells", "db/d62/a15219.html#aee75f952ed14f5f6fab1f5117f6b8b9e", null ]
+    [ "boss_moam", "db/d62/a15219.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
+    [ "InitializeAI", "db/d62/a15219.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
+    [ "JustDied", "db/d62/a15219.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
+    [ "JustEngagedWith", "db/d62/a15219.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
+    [ "Reset", "db/d62/a15219.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
+    [ "SummonedCreatureDies", "db/d62/a15219.html#a8401c5e2bd216deee197617b78d85222", null ],
+    [ "UpdateAI", "db/d62/a15219.html#aadd8320c6194923b113967d3d6c49a5e", null ]
 ];

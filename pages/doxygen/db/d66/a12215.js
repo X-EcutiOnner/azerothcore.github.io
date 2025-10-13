@@ -1,14 +1,11 @@
 var a12215 =
 [
-    [ "boss_mor_grayhoof", "db/d66/a12215.html#aef1001233a51ad3bb9963c540d39d79b", null ],
-    [ "CastRandomSpell", "db/d66/a12215.html#a00756d64d24088ebf408153fcb59ff13", null ],
-    [ "DamageTaken", "db/d66/a12215.html#a164a911eb9a86964a61866c05d44512f", null ],
-    [ "JustDied", "db/d66/a12215.html#aa98fbfc5cc4ee94e0323d8586dae1e1c", null ],
-    [ "JustEngagedWith", "db/d66/a12215.html#a043f6ee099efd0d49982b2966604e65a", null ],
-    [ "Reset", "db/d66/a12215.html#af313bd8509a76cd6b6fbc197f15afbff", null ],
-    [ "UpdateAI", "db/d66/a12215.html#aaa6a1a9b6e4259aea46d2f25bca3b809", null ],
-    [ "_phase", "db/d66/a12215.html#a40bf6a66aefe7a605d94526b5a586ba6", null ],
-    [ "_scheduler", "db/d66/a12215.html#ad2a897281d308475957e2636c6536fdd", null ],
-    [ "_sleepTargetGUID", "db/d66/a12215.html#a8baa606696dc8acf532e8badfc6c624b", null ],
-    [ "_sleepTargetThreat", "db/d66/a12215.html#ac62d7d30b12d0c2da9553b9689091e0e", null ]
+    [ "boss_gythAI", "db/d66/a12215.html#aeec049af24b3a6f94051f1008ce107e6", null ],
+    [ "EnterEvadeMode", "db/d66/a12215.html#a20296c618ad366d7ac956f16671cc408", null ],
+    [ "IsSummonedBy", "db/d66/a12215.html#a6800421a2e9e889e649e792ee642d8ac", null ],
+    [ "JustDied", "db/d66/a12215.html#a979da1f3922d9575b6c237b85952fb6c", null ],
+    [ "JustEngagedWith", "db/d66/a12215.html#a6c0ca15d87851c205d94679ea65e5193", null ],
+    [ "JustSummoned", "db/d66/a12215.html#ab9024ce261129c82d4304d2a13834a5f", null ],
+    [ "Reset", "db/d66/a12215.html#aa3c86b403af5394a4e4cb30781bcb46b", null ],
+    [ "UpdateAI", "db/d66/a12215.html#a66f27f6d49b40dcc2894f177b281570f", null ]
 ];

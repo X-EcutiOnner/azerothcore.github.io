@@ -1,6 +1,6 @@
 var a22687 =
 [
-    [ "npc_crusade_recruitAI", "dd/d96/a22691.html", "dd/d96/a22691" ],
-    [ "npc_crusade_recruit", "d5/df3/a22687.html#a6e130f153c506255ef5ece1baf006028", null ],
-    [ "GetAI", "d5/df3/a22687.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
+    [ "npc_released_offspring_harkoaAI", "dd/d96/a22691.html", "dd/d96/a22691" ],
+    [ "npc_released_offspring_harkoa", "d5/df3/a22687.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
+    [ "GetAI", "d5/df3/a22687.html#ae3d2a02c496be1b2606fce596625d12e", null ]
 ];

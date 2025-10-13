@@ -1,5 +1,6 @@
 var a22027 =
 [
-    [ "at_q24545_frostmourne_cavern", "d2/d13/a22027.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
-    [ "OnTrigger", "d2/d13/a22027.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
+    [ "npc_q24545_lich_kingAI", "da/d0f/a22031.html", "da/d0f/a22031" ],
+    [ "npc_q24545_lich_king", "d2/d13/a22027.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
+    [ "GetAI", "d2/d13/a22027.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
 ];

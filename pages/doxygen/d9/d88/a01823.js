@@ -1,6 +1,5 @@
 var a01823 =
 [
-    [ "LogHeader", "d4/d98/a11107.html", "d4/d98/a11107" ],
-    [ "PacketHeader", "d9/d70/a11111.html", "d9/d70/a11111" ],
-    [ "PacketHeader::OptionalData", "da/dfd/a11115.html", "da/dfd/a11115" ]
+    [ "WorldSessionMgr", "d6/d18/a11211.html", "d6/d18/a11211" ],
+    [ "sWorldSessionMgr", "d9/d88/a01823.html#a57dd9797e2282d27210248275f47ab85", null ]
 ];

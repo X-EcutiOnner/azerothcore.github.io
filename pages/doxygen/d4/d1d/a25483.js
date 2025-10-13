@@ -1,6 +1,7 @@
 var a25483 =
 [
-    [ "HandleScriptEffect", "d4/d1d/a25483.html#a78a131bdf6a1406604edd130c28d664b", null ],
-    [ "PrepareSpellScript", "d4/d1d/a25483.html#a3b2d739227e57667a284ae4600ec1bb6", null ],
-    [ "Register", "d4/d1d/a25483.html#a8a70913369aa733160366f37ff1c3470", null ]
+    [ "PrepareAuraScript", "d4/d1d/a25483.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
+    [ "Register", "d4/d1d/a25483.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
+    [ "TriggerFoodBuff", "d4/d1d/a25483.html#a5d125413491dd377d61b8e30c4979fdd", null ],
+    [ "Validate", "d4/d1d/a25483.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
 ];

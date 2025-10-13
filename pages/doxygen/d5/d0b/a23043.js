@@ -1,10 +1,10 @@
 var a23043 =
 [
-    [ "boss_gathios_the_shatterer", "d5/d0b/a23043.html#a34708f52c610e567c5acf62962e90d4e", null ],
-    [ "JustEngagedWith", "d5/d0b/a23043.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
-    [ "SelectCouncilMember", "d5/d0b/a23043.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
-    [ "UpdateAI", "d5/d0b/a23043.html#a1541f1efd3978a4c91b80e411aec6442", null ],
-    [ "_toggleAura", "d5/d0b/a23043.html#aa983e2d9018a9e53ee29840781f47c33", null ],
-    [ "_toggleBlessing", "d5/d0b/a23043.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
-    [ "_toggleSeal", "d5/d0b/a23043.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
+    [ "boss_illidari_council", "d5/d0b/a23043.html#a078c36be39b377f6d1cdbf061d70270d", null ],
+    [ "AttackStart", "d5/d0b/a23043.html#a260b15ec58164f17543aa044a89875a8", null ],
+    [ "DamageTaken", "d5/d0b/a23043.html#af8e88c307efaba392cc2a1d2f3862078", null ],
+    [ "DoAction", "d5/d0b/a23043.html#a6c3c57523ed2775ba553af1171b46463", null ],
+    [ "EnterEvadeMode", "d5/d0b/a23043.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
+    [ "MoveInLineOfSight", "d5/d0b/a23043.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
+    [ "UpdateAI", "d5/d0b/a23043.html#a8b30df956aa4ce1727756f1d19e151be", null ]
 ];

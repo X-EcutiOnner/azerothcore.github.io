@@ -1,15 +1,13 @@
 var a19587 =
 [
-    [ "boss_eregosAI", "d5/da4/a19587.html#a5b09dacbddd6075c2ebf4d62a387a8b6", null ],
-    [ "DamageTaken", "d5/da4/a19587.html#a7a4b4443aed576f080a56a27e15edfd4", null ],
-    [ "JustDied", "d5/da4/a19587.html#ade16be2804b857fc8e93a62d4be42380", null ],
-    [ "JustEngagedWith", "d5/da4/a19587.html#a1544782732beba5d7114c3bb70419ae1", null ],
-    [ "JustSummoned", "d5/da4/a19587.html#a33ef5a080e457f4e08e7997b467b0974", null ],
-    [ "KilledUnit", "d5/da4/a19587.html#a30ad32a4a63ae17eef4fc703a6749d38", null ],
-    [ "MoveInLineOfSight", "d5/da4/a19587.html#ac622481abb0190bdc7654b383766a9ed", null ],
-    [ "Reset", "d5/da4/a19587.html#aeec469c2c9d0ad27461478ee57c30c56", null ],
-    [ "UpdateAI", "d5/da4/a19587.html#a2a190fdb6b1c9ed4eba2b9e536c5cf36", null ],
-    [ "events", "d5/da4/a19587.html#ae6f1f2e3146525596c3dbb646283b744", null ],
-    [ "pInstance", "d5/da4/a19587.html#abf0b366d7b0931ccc30711a33736dda8", null ],
-    [ "shiftNumber", "d5/da4/a19587.html#a16c90dba1f0a7f4cc2025e294dbac455", null ]
+    [ "npc_oculus_unstable_sphereAI", "d5/da4/a19587.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
+    [ "AttackStart", "d5/da4/a19587.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
+    [ "MoveInLineOfSight", "d5/da4/a19587.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
+    [ "MovementInform", "d5/da4/a19587.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
+    [ "PickNewLocation", "d5/da4/a19587.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
+    [ "Reset", "d5/da4/a19587.html#ac2e391d0149b62823ac9074d45c694cf", null ],
+    [ "UpdateAI", "d5/da4/a19587.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
+    [ "gonext", "d5/da4/a19587.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
+    [ "located", "d5/da4/a19587.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
+    [ "timer", "d5/da4/a19587.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
 ];

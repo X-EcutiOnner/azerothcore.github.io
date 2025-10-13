@@ -1,10 +1,6 @@
 var a28867 =
 [
-    [ "adt_CELLS", "d4/d15/a28875.html", "d4/d15/a28875" ],
-    [ "getMCNK", "d1/d70/a28867.html#a8330b7cb405146399d3d20e6952a8b40", null ],
-    [ "prepareLoadedData", "d1/d70/a28867.html#adc7346499aa51f4422c810b7e757f835", null ],
-    [ "cells", "d1/d70/a28867.html#a434ed0ca354ec27d5334cc63e5650038", null ],
-    [ "fcc", "d1/d70/a28867.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
-    [ "fcc_txt", "d1/d70/a28867.html#a514bae36851623daf76b26a9d63f1ae0", null ],
-    [ "size", "d1/d70/a28867.html#a1a40f52ea9eef3add8207da89cb71210", null ]
+    [ "ForceInitValues", "d1/d70/a28867.html#a51bcb2ec0bf6b92a0ed7a29abd675bf5", null ],
+    [ "Player", "d1/d70/a28867.html#ad56f27531abb9267f144b2b22d61a5bf", null ],
+    [ "UpdateObjectVisibility", "d1/d70/a28867.html#a2b00c7bea40d5cbd4343d859555060a3", null ]
 ];

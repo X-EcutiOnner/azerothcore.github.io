@@ -1,7 +1,6 @@
 var a13723 =
 [
-    [ "npc_eris_hevenfireAI", "d2/d7a/a13727.html", "d2/d7a/a13727" ],
-    [ "npc_eris_hevenfire", "d9/dbe/a13723.html#a77f0836dc0b19114316b8b67839d8033", null ],
-    [ "GetAI", "d9/dbe/a13723.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
-    [ "OnQuestAccept", "d9/dbe/a13723.html#a1e0baec5706cfddd678b58eb9359997e", null ]
+    [ "HandleSendEvent", "d9/dbe/a13723.html#a1be975f4440b823c34cc3e790fcff608", null ],
+    [ "PrepareSpellScript", "d9/dbe/a13723.html#a91ac4a392fcf5b6e833fb3f5103d8e06", null ],
+    [ "Register", "d9/dbe/a13723.html#a217fb7cb47b08999d49ec04b345b77fe", null ]
 ];

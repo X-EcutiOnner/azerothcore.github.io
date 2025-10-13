@@ -1,11 +1,5 @@
 var a14535 =
 [
-    [ "boss_anetheron", "d2/dd0/a14535.html#a6c103caa3f137756599a75bff03a6648", null ],
-    [ "DoAction", "d2/dd0/a14535.html#a2fd485de26c820fec5240f9141a09964", null ],
-    [ "JustDied", "d2/dd0/a14535.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
-    [ "JustEngagedWith", "d2/dd0/a14535.html#aa34ac87ad4014fbecb481be7896c577c", null ],
-    [ "JustSummoned", "d2/dd0/a14535.html#af9c156e28c7eca710d8367bd2a99387d", null ],
-    [ "KilledUnit", "d2/dd0/a14535.html#a4471af823278a3664574729bf5c749be", null ],
-    [ "PathEndReached", "d2/dd0/a14535.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
-    [ "_recentlySpoken", "d2/dd0/a14535.html#accd9455c3b1d536ca177be6028f3503d", null ]
+    [ "npc_grizzlemaw_cw_triggerAI", "d2/dd0/a14535.html#a40207493c75d8a63284e08f1f75d56c4", null ],
+    [ "MoveInLineOfSight", "d2/dd0/a14535.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
 ];

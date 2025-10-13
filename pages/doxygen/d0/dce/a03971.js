@@ -1,9 +1,7 @@
 var a03971 =
 [
-    [ "QueryCallback::QueryCallbackData", "d2/dea/a05863.html", "d2/dea/a05863" ],
-    [ "Construct", "d0/dce/a03971.html#a0e2a26009ee3d271eeacbb20a20e930b", null ],
-    [ "ConstructActiveMember", "d0/dce/a03971.html#a63276ee687270e668e7c51876ced5fb1", null ],
-    [ "Destroy", "d0/dce/a03971.html#aa4339e1c31032221caeaaedac04c0b32", null ],
-    [ "DestroyActiveMember", "d0/dce/a03971.html#aac0ba6a0017441eb25c4b294fde99186", null ],
-    [ "MoveFrom", "d0/dce/a03971.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa", null ]
+    [ "GetCleanAliasName", "d0/dce/a03971.html#ae187308862c39923e2b843bc9d4c989c", null ],
+    [ "GetDefaultValue", "d0/dce/a03971.html#a2ea1ae2c2289bdc9068ec9c886d124c8", null ],
+    [ "IsCorrectAlias", "d0/dce/a03971.html#a56e834d391c0eb5187d3c7dd0dad88b7", null ],
+    [ "IsCorrectFieldType", "d0/dce/a03971.html#a61bef7957f008e8cd937746ba03feb73", null ]
 ];

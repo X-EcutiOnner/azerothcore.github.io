@@ -1,18 +1,10 @@
 var a05671 =
 [
-    [ "build", "d4/d71/a05671.html#a4c2989e284a86a7257c3f4a7b507265c", null ],
-    [ "cmd", "d4/d71/a05671.html#a296fd5746ea3ad8f5b341cd92ecb92a6", null ],
-    [ "country", "d4/d71/a05671.html#a5391c693d5aee76e67001f648b108792", null ],
-    [ "error", "d4/d71/a05671.html#a36a4e2114203cbec036c7f6c6ba1f11b", null ],
-    [ "gamename", "d4/d71/a05671.html#ae6f5a1b7c4684bb96deaa51cb9cfc7bc", null ],
-    [ "I", "d4/d71/a05671.html#a48ed2eb4f17a62d033320b981fe9d07c", null ],
-    [ "I_len", "d4/d71/a05671.html#a589c5dadf3e694ba5e3d9f1e5732426e", null ],
-    [ "ip", "d4/d71/a05671.html#a5993cfad4be8f9e457bd6067ced6bd2a", null ],
-    [ "os", "d4/d71/a05671.html#ad8c71a1e514e6b8f6d6a4681ba1db0c1", null ],
-    [ "platform", "d4/d71/a05671.html#afc0d27e7213846988c0ee7ccc5e54ee0", null ],
-    [ "size", "d4/d71/a05671.html#aae293343b590c23405a32d2809887020", null ],
-    [ "timezone_bias", "d4/d71/a05671.html#a44cdd2733fb678966bc3252b6bef9d16", null ],
-    [ "version1", "d4/d71/a05671.html#aa7a794d75e11e98aa9f88cb8e82be9e9", null ],
-    [ "version2", "d4/d71/a05671.html#abe9218ee7ebdffa48dd404a2ad465ca4", null ],
-    [ "version3", "d4/d71/a05671.html#a6a9e5088baf8c568916891a55e035db3", null ]
+    [ "ListIterator", "d4/d71/a05671.html#a2d6f26f422402c3dcc0e026587201f9e", null ],
+    [ "begin", "d4/d71/a05671.html#ab7d2c8fa95d8256bba7b6b3ccdcff251", null ],
+    [ "end", "d4/d71/a05671.html#a6dffd4b0ef103e34fca8d474856ca8d3", null ],
+    [ "operator+=", "d4/d71/a05671.html#a3a4a52377c59e360b9aa164940b06285", null ],
+    [ "operator-=", "d4/d71/a05671.html#ae5c430c031dffae3c3b270c527b0cc70", null ],
+    [ "size", "d4/d71/a05671.html#a13d85caabd15541389f8e93e99b768b0", null ],
+    [ "m_list", "d4/d71/a05671.html#a5bb439ae8dd02302f19581d2771c570c", null ]
 ];

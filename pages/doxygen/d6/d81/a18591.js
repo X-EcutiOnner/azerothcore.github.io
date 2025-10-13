@@ -1,7 +1,9 @@
 var a18591 =
 [
-    [ "OnPeriodic", "d6/d81/a18591.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
-    [ "PrepareAuraScript", "d6/d81/a18591.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
-    [ "Register", "d6/d81/a18591.html#a0fc7ca43a0d82058fc04277742231388", null ],
-    [ "Validate", "d6/d81/a18591.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
+    [ "npc_spirit_wardenAI", "d6/d81/a18591.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "d6/d81/a18591.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "d6/d81/a18591.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "d6/d81/a18591.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "d6/d81/a18591.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "d6/d81/a18591.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

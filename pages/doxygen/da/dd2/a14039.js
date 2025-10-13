@@ -1,7 +1,7 @@
 var a14039 =
 [
-    [ "spell", "da/dd2/a14039.html#a55423d09b2f1775dc386a36168ad764d", null ],
-    [ "spiritEntry", "da/dd2/a14039.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
-    [ "text", "da/dd2/a14039.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
-    [ "unaura", "da/dd2/a14039.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
+    [ "HandleDispel", "da/dd2/a14039.html#a415977576283972ce4a1050c70826d7c", null ],
+    [ "PrepareAuraScript", "da/dd2/a14039.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
+    [ "Register", "da/dd2/a14039.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
+    [ "Validate", "da/dd2/a14039.html#ac496e7bef875ca46660217e74fc3bc74", null ]
 ];

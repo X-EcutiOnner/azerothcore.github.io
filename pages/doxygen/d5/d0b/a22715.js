@@ -1,13 +1,13 @@
 var a22715 =
 [
-    [ "OPvPCapturePointEP_CGT", "d5/d0b/a22715.html#a82d8e9bff56eed1870b098dcf21f77cd", null ],
-    [ "ChangeState", "d5/d0b/a22715.html#ab9d32c9a60bbdca9fc54d7e0b2bf8a5d", null ],
-    [ "FillInitialWorldStates", "d5/d0b/a22715.html#ae7d57fe449bb38de013b18ecf2f9f07c", null ],
-    [ "HandlePlayerEnter", "d5/d0b/a22715.html#a48cb29473f25ed9b469c7ff54acc9d88", null ],
-    [ "HandlePlayerLeave", "d5/d0b/a22715.html#ad1886046ecf8c382e1fd0e01d6394614", null ],
-    [ "LinkGraveyard", "d5/d0b/a22715.html#ada14179a31fb6235b7882a190dc96c40", null ],
-    [ "SendChangePhase", "d5/d0b/a22715.html#a30d9f8701dd6a78740f7df0d2c7ceb9d", null ],
-    [ "UpdateTowerState", "d5/d0b/a22715.html#a764284d6143d4879b5bc003acc52048c", null ],
-    [ "m_GraveyardSide", "d5/d0b/a22715.html#aaf1f8440dc891ed45857bb7d15149d9a", null ],
-    [ "m_TowerState", "d5/d0b/a22715.html#a6f434f86ed97f88368e3194a3bc3183b", null ]
+    [ "OPvPCapturePointEP_EWT", "d5/d0b/a22715.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
+    [ "ChangeState", "d5/d0b/a22715.html#ac00c50b89e1218f87506778096a9d7cd", null ],
+    [ "FillInitialWorldStates", "d5/d0b/a22715.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
+    [ "HandlePlayerEnter", "d5/d0b/a22715.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
+    [ "HandlePlayerLeave", "d5/d0b/a22715.html#a2638b24dca375420778845963e307db3", null ],
+    [ "SendChangePhase", "d5/d0b/a22715.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
+    [ "SummonSupportUnitAtNorthpassTower", "d5/d0b/a22715.html#ad70a8cc485072cd9af892290584062d8", null ],
+    [ "UpdateTowerState", "d5/d0b/a22715.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
+    [ "m_TowerState", "d5/d0b/a22715.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
+    [ "m_UnitsSummonedSideId", "d5/d0b/a22715.html#a0319f0d51624df44419976e7abd1b813", null ]
 ];

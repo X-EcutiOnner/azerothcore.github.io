@@ -1,7 +1,8 @@
 var a16199 =
 [
-    [ "HandleHit", "d9/db8/a16199.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
-    [ "PrepareSpellScript", "d9/db8/a16199.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
-    [ "Register", "d9/db8/a16199.html#af132eee38064c5123f4e01d52efb9314", null ],
-    [ "Validate", "d9/db8/a16199.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
+    [ "npc_twilight_summonAI", "d9/db8/a16199.html#a8f5dfe54a5ac1d7a058c5efb9bead77a", null ],
+    [ "DoAction", "d9/db8/a16199.html#aac4c1e3bc635b30f1ceed8b25f2c7829", null ],
+    [ "Reset", "d9/db8/a16199.html#a1174c827aef1b05603214e4717c78f8a", null ],
+    [ "UpdateAI", "d9/db8/a16199.html#addb312c34c668b8189087de6cf89543b", null ],
+    [ "fadeArmorTimer", "d9/db8/a16199.html#ace4028c8f4d0240b4e2939481312d0d2", null ]
 ];

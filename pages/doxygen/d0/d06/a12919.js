@@ -1,12 +1,17 @@
 var a12919 =
 [
-    [ "boss_bigbadwolf", "d0/d06/a12919.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
-    [ "EnterEvadeMode", "d0/d06/a12919.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
-    [ "JustDied", "d0/d06/a12919.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
-    [ "JustEngagedWith", "d0/d06/a12919.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
-    [ "JustReachedHome", "d0/d06/a12919.html#a7755bf925d919c73075a41f8774280c0", null ],
-    [ "KilledUnit", "d0/d06/a12919.html#a8e004a1feac796ed467eba744f211827", null ],
-    [ "UpdateAI", "d0/d06/a12919.html#ab788a0155a3ffe6535d58263eea16dee", null ],
-    [ "_scheduler", "d0/d06/a12919.html#a661d9b619be30764ba5b89d71de870e9", null ],
-    [ "instance", "d0/d06/a12919.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
+    [ "boss_dorothee", "d0/d06/a12919.html#a8bd5b4753c2d8f8aced0c036912f10f1", null ],
+    [ "DoAction", "d0/d06/a12919.html#a1b9cf1e58d68d249249a8b0d082b725a", null ],
+    [ "EnterEvadeMode", "d0/d06/a12919.html#a6dfc4109370d4e932e7376a443bd64ad", null ],
+    [ "JustDied", "d0/d06/a12919.html#a289dfa1f257ca25acba9487908e6223c", null ],
+    [ "JustEngagedWith", "d0/d06/a12919.html#aa35dafeb9faf8eeea55caa0eeb669db3", null ],
+    [ "JustReachedHome", "d0/d06/a12919.html#a762209d2bf78cc21c48a426732f2354e", null ],
+    [ "Reset", "d0/d06/a12919.html#ae3f123a6a9223b7928295812326b0cb4", null ],
+    [ "SummonedCreatureDies", "d0/d06/a12919.html#a0e76c828a1c7c49741963b6e98003a66", null ],
+    [ "SummonTito", "d0/d06/a12919.html#a5c04074aab40ecaeeb84b33205b40144", null ],
+    [ "UpdateAI", "d0/d06/a12919.html#a30fbcc5e7ca4ed74b9d2895b94a9a19e", null ],
+    [ "_scheduler", "d0/d06/a12919.html#a840bcbad78ff881ef3a803ffa23d3c6e", null ],
+    [ "_startIntro", "d0/d06/a12919.html#a20e6555e2117a62fce3af7f7fb7167cc", null ],
+    [ "instance", "d0/d06/a12919.html#ac6a6f1c9074697f761e4e09550cfea71", null ],
+    [ "titoDied", "d0/d06/a12919.html#a258cc9ce32f314e723d5345ac18336bf", null ]
 ];

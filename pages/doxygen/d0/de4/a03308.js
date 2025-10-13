@@ -1,5 +1,6 @@
 var a03308 =
 [
-    [ "titles_commandscript", "dc/d1e/a11935.html", "dc/d1e/a11935" ],
-    [ "AddSC_titles_commandscript", "d0/de4/a03308.html#abd13948cbed6e10bdbf797847a0f6839", null ]
+    [ "debug_commandscript", "d9/d91/a11811.html", "d9/d91/a11811" ],
+    [ "debug_commandscript::CreatureCountWorker", "d2/d5f/a11815.html", "d2/d5f/a11815" ],
+    [ "AddSC_debug_commandscript", "d0/de4/a03308.html#abae44bbc8eb2fb66a5596017ea83583f", null ]
 ];

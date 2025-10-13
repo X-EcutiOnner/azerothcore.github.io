@@ -1,6 +1,5 @@
 var a20059 =
 [
-    [ "boss_flame_leviathanAI", "d0/dab/a20063.html", "d0/dab/a20063" ],
-    [ "boss_flame_leviathan", "d4/dcf/a20059.html#af4fcd38fc7095701c6c31674d849aef4", null ],
-    [ "GetAI", "d4/dcf/a20059.html#a3a402b002472bfe4347b512f21654c50", null ]
+    [ "achievement_auriaya_crazy_cat_lady", "d4/dcf/a20059.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
+    [ "OnCheck", "d4/dcf/a20059.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
 ];

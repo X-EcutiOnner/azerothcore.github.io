@@ -1,7 +1,6 @@
 var a13831 =
 [
-    [ "npc_deathstalker_erlandAI", "dc/d45/a13831.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
-    [ "JustEngagedWith", "dc/d45/a13831.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
-    [ "Reset", "dc/d45/a13831.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
-    [ "WaypointReached", "dc/d45/a13831.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ]
+    [ "npc_grand_magister_rommathAI", "df/d01/a13835.html", "df/d01/a13835" ],
+    [ "npc_grand_magister_rommath", "dc/d45/a13831.html#a63b9786bfbd9c7b462b0549e2f6941ea", null ],
+    [ "GetAI", "dc/d45/a13831.html#abd64eff4712e8209e39e938b1813250c", null ]
 ];

@@ -1,7 +1,6 @@
 var a08367 =
 [
-    [ "EnchStoreItem", "d6/d08/a08367.html#a89019e156774c5b978251479264e5463", null ],
-    [ "EnchStoreItem", "d6/d08/a08367.html#aca83bb20eb6153faeaf599b07b97e357", null ],
-    [ "chance", "d6/d08/a08367.html#a2d3d0cd28c79402b3625694d4676ed8b", null ],
-    [ "ench", "d6/d08/a08367.html#ac2346b6c6c5c09bb63676d72c798d848", null ]
+    [ "item_count", "d6/d08/a08367.html#a437fe00f34ad414e3c9f81d01a153d13", null ],
+    [ "setid", "d6/d08/a08367.html#ab8c24b76b1c0eb92c0fe52ca9baf293a", null ],
+    [ "spells", "d6/d08/a08367.html#af8156bad9771ed816fd861d3eb992aaa", null ]
 ];

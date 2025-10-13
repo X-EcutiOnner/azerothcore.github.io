@@ -1,6 +1,10 @@
 var a26095 =
 [
-    [ "HandleDummy", "da/d04/a26095.html#af306009f2c418e898478720b9c4ad6ab", null ],
-    [ "PrepareSpellScript", "da/d04/a26095.html#a44cb481fe93fd1c691495cc1ead35e5e", null ],
-    [ "Register", "da/d04/a26095.html#af51e3b3cbfb469fa6230a36d8d5fcec7", null ]
+    [ "CalcPeriodic", "da/d04/a26095.html#a6ec300503503fa6f12a48a8494d41edd", null ],
+    [ "Load", "da/d04/a26095.html#a349827fe659ff3bee0a5dfc677c04825", null ],
+    [ "PrepareAuraScript", "da/d04/a26095.html#a8c12c4ae3835322602347b654d96a8b7", null ],
+    [ "Register", "da/d04/a26095.html#aeba6dda1114bc738cddff4d40d48ccd7", null ],
+    [ "Update", "da/d04/a26095.html#afa9e6eec798c354231b5f95e260c7111", null ],
+    [ "Validate", "da/d04/a26095.html#adb891e80c5bf15b4a0798aa01a45c9e0", null ],
+    [ "_spell_id", "da/d04/a26095.html#a2836863ea4bafc73f2adbb9176cbec60", null ]
 ];

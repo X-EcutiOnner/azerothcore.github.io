@@ -1,10 +1,18 @@
 var a08599 =
 [
-    [ "DuelInfo", "d6/d49/a08599.html#a183f336e52fe7cdaa34dbb43991d0c39", null ],
-    [ "Initiator", "d6/d49/a08599.html#ae1a6667f934c88ad8f0b160e6a8b1190", null ],
-    [ "IsMounted", "d6/d49/a08599.html#ad80e3507a7bdfc8f7dbebd07697c464f", null ],
-    [ "Opponent", "d6/d49/a08599.html#a2765770367c839ad28f804e2df3205cb", null ],
-    [ "OutOfBoundsTime", "d6/d49/a08599.html#a8ff9ae1c990674b6ac0cd929f5114f23", null ],
-    [ "StartTime", "d6/d49/a08599.html#a1b8b4c373b2e4243f8e33a391821528f", null ],
-    [ "State", "d6/d49/a08599.html#ae8492a9857d819fcec56a10cfd5051e2", null ]
+    [ "PlayerInfo", "d6/d49/a08599.html#a8a26bdeb267824135b3f84baa2585baa", null ],
+    [ "action", "d6/d49/a08599.html#a0f68412598a9741e9b5ce7a42c82d129", null ],
+    [ "areaId", "d6/d49/a08599.html#a60d086c6e6879e6c5d8b5a24c0ae7bf8", null ],
+    [ "castSpells", "d6/d49/a08599.html#a35ab273058db0828c91f01d823467e02", null ],
+    [ "customSpells", "d6/d49/a08599.html#ab40e5fd724fab03afbbd38713e1dd4bf", null ],
+    [ "displayId_f", "d6/d49/a08599.html#adf14854368c9351fe2fba3215194f2f9", null ],
+    [ "displayId_m", "d6/d49/a08599.html#a2ce7d9aa7fc52bd9768c75b88f88b256", null ],
+    [ "item", "d6/d49/a08599.html#ad76819034c64c0c691561eff683b7e57", null ],
+    [ "levelInfo", "d6/d49/a08599.html#abbff546bbe2cc0ea643c41456c1f0d9f", null ],
+    [ "mapId", "d6/d49/a08599.html#ad8d359374f74de40c1c591bb61976405", null ],
+    [ "orientation", "d6/d49/a08599.html#a041a37c356d50860cab9f1ced33a28d0", null ],
+    [ "positionX", "d6/d49/a08599.html#a55a076dc53e8c2d0b2ab11b1087ebccd", null ],
+    [ "positionY", "d6/d49/a08599.html#a7314ecd469357e2eb46ed3d133a5a7a0", null ],
+    [ "positionZ", "d6/d49/a08599.html#ad21a8dd3353d3f141bcc9af65e607aee", null ],
+    [ "skills", "d6/d49/a08599.html#a3bec7891e115ab3cff40c3d95174981c", null ]
 ];

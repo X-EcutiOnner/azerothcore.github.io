@@ -1,6 +1,6 @@
 var a14679 =
 [
-    [ "HandleAfterEffectApply", "d9/d93/a14679.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
-    [ "PrepareAuraScript", "d9/d93/a14679.html#a917379c33352721b5b76c1d9dac0c025", null ],
-    [ "Register", "d9/d93/a14679.html#a846d79564d76d6000c2276045775d7da", null ]
+    [ "OnApply", "d9/d93/a14679.html#a30d33268b58507c228a4628031bffca0", null ],
+    [ "PrepareAuraScript", "d9/d93/a14679.html#a16dc3f52152d63b5512690c761f9915a", null ],
+    [ "Register", "d9/d93/a14679.html#a6494e4d7277e910ffa3b30c333117f00", null ]
 ];

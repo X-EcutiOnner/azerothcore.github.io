@@ -1,6 +1,6 @@
 var a15959 =
 [
-    [ "npc_sergeant_blyAI", "db/d81/a15963.html", "db/d81/a15963" ],
-    [ "npc_sergeant_bly", "dc/d94/a15959.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
-    [ "GetAI", "dc/d94/a15959.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
+    [ "HandleSummon", "dc/d94/a15959.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
+    [ "PrepareSpellScript", "dc/d94/a15959.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
+    [ "Register", "dc/d94/a15959.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
 ];

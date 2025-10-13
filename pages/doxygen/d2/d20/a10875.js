@@ -1,6 +1,8 @@
 var a10875 =
 [
-    [ "ItemRefundInfo", "d2/d20/a10875.html#ab43208228bc0c6d1dc9dcc3154589b49", null ],
-    [ "Read", "d2/d20/a10875.html#a9aaf7ecb1f757708c541e4957a72c610", null ],
-    [ "ItemGuid", "d2/d20/a10875.html#a23cce0e086b7c640fd744403f3cfe45e", null ]
+    [ "AutoStoreBagItem", "d2/d20/a10875.html#a09e4b117d8789d513a0e766986340140", null ],
+    [ "Read", "d2/d20/a10875.html#a172832ec72012278b000f38d761823b4", null ],
+    [ "DestinationBag", "d2/d20/a10875.html#a7472dfd7ccd78051bc8808832f8e74cb", null ],
+    [ "SourceBag", "d2/d20/a10875.html#a27e27653e6f00869070de7354adff52d", null ],
+    [ "SourceSlot", "d2/d20/a10875.html#a517202ccb270d78289630404beb61afc", null ]
 ];

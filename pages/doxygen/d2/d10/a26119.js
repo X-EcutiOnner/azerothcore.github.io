@@ -1,6 +1,7 @@
 var a26119 =
 [
-    [ "CalculateDamage", "d2/d10/a26119.html#a05c6a249b32f41d8d33b40d07bd3c44d", null ],
-    [ "PrepareSpellScript", "d2/d10/a26119.html#ace682a64f3ca32e4f4151034ad936ea6", null ],
-    [ "Register", "d2/d10/a26119.html#a6dc3beb1f857c2c2a719bd882cc3568d", null ]
+    [ "HandleDummy", "d2/d10/a26119.html#addfcb17cbbb56bda88997b34ce3e3ddd", null ],
+    [ "PrepareSpellScript", "d2/d10/a26119.html#a22614b06c6f1853f02a992dcab027a60", null ],
+    [ "Register", "d2/d10/a26119.html#a9ad5691f6049078c45052d07513b35a2", null ],
+    [ "Validate", "d2/d10/a26119.html#a3fab2057be5de9e2f7703b8f43a99ed5", null ]
 ];

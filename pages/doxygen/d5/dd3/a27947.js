@@ -1,8 +1,7 @@
 var a27947 =
 [
-    [ "npc_minion_spawner", "d5/dd3/a27947.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
-    [ "CanSpawnRareMinion", "d5/dd3/a27947.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
-    [ "JustSummoned", "d5/dd3/a27947.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
-    [ "Reset", "d5/dd3/a27947.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
-    [ "UpdateAI", "d5/dd3/a27947.html#a24f93f1314bb73edb369e188eda83104", null ]
+    [ "npc_crashin_thrashin_robot", "d5/dd3/a27947.html#ad21336d212498b1c9ef5d46979d147ab", null ],
+    [ "IsSummonedBy", "d5/dd3/a27947.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
+    [ "UpdateAI", "d5/dd3/a27947.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
+    [ "_scheduler", "d5/dd3/a27947.html#a55778501d154d0a9e77f76054e926f85", null ]
 ];

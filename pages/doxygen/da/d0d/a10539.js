@@ -1,5 +1,6 @@
 var a10539 =
 [
-    [ "LogoutComplete", "da/d0d/a10539.html#a94f3ea0cd30d1eb44733c1c5aef05ec7", null ],
-    [ "Write", "da/d0d/a10539.html#a0d958bc07b674ed3339833351fec7d3a", null ]
+    [ "ArenaTeam", "da/d0d/a10539.html#ab199427a8f1a5c4063aef2aeb390714f", null ],
+    [ "Read", "da/d0d/a10539.html#a9953d33b35eca1b91ed1618609c6acea", null ],
+    [ "ArenaTeamId", "da/d0d/a10539.html#aecda79f3715bd7ff5a6e872800ef256d", null ]
 ];

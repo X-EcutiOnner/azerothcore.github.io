@@ -1,7 +1,9 @@
 var a21863 =
 [
-    [ "HandleProc", "da/daf/a21863.html#aeb5b70614b266bac0792906bf89a5b97", null ],
-    [ "PrepareAuraScript", "da/daf/a21863.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
-    [ "Register", "da/daf/a21863.html#a163e0099271f21362deeb1ba1f169f3f", null ],
-    [ "Validate", "da/daf/a21863.html#abdb889e4c6d19f756c143d7b36f82257", null ]
+    [ "npc_counselor_talbotAI", "da/daf/a21863.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
+    [ "JustDied", "da/daf/a21863.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
+    [ "JustEngagedWith", "da/daf/a21863.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
+    [ "Reset", "da/daf/a21863.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
+    [ "UpdateAI", "da/daf/a21863.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
+    [ "_events", "da/daf/a21863.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
 ];

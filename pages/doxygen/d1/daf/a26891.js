@@ -1,8 +1,8 @@
 var a26891 =
 [
-    [ "ApplyDebuff", "d1/daf/a26891.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
-    [ "PrepareSpellScript", "d1/daf/a26891.html#aa37525d089348f58e3d871830caa3417", null ],
-    [ "Register", "d1/daf/a26891.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
-    [ "RemoveInvalidTargets", "d1/daf/a26891.html#a0451b75aa962065a01a5806992e01b16", null ],
-    [ "Validate", "d1/daf/a26891.html#ac69d777fdf7a2d3c527621dee256690c", null ]
+    [ "HandleRootRemove", "d1/daf/a26891.html#a9678ce2254825b67eb7a16312e960ba9", null ],
+    [ "HandleSnareRemove", "d1/daf/a26891.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
+    [ "PrepareSpellScript", "d1/daf/a26891.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
+    [ "Register", "d1/daf/a26891.html#a119675dccea898932ca090577022b6ba", null ],
+    [ "Validate", "d1/daf/a26891.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
 ];

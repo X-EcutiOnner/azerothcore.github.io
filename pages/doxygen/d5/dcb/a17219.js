@@ -1,7 +1,8 @@
 var a17219 =
 [
-    [ "HandlePeriodicTick", "d5/dcb/a17219.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
-    [ "PrepareAuraScript", "d5/dcb/a17219.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
-    [ "Register", "d5/dcb/a17219.html#a4653ccb0d93d056adf3b14056865787c", null ],
-    [ "Validate", "d5/dcb/a17219.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
+    [ "boss_krickAI", "d5/dcb/a17219.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
+    [ "DoAction", "d5/dcb/a17219.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
+    [ "UpdateAI", "d5/dcb/a17219.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
+    [ "events", "d5/dcb/a17219.html#a75349e2fc35832e7944fa4f772380baa", null ],
+    [ "pInstance", "d5/dcb/a17219.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
 ];

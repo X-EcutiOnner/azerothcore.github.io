@@ -1,15 +1,9 @@
 var a20111 =
 [
-    [ "npc_mimirons_infernoAI", "df/d5a/a20111.html#ae412b49c76e76b322e779665d895080f", null ],
-    [ "AttackStart", "df/d5a/a20111.html#a5676eb2a790be80e539dd71a3b8e140a", null ],
-    [ "DoAction", "df/d5a/a20111.html#a499301a57e57a54aa8f1249c12247be7", null ],
-    [ "JustSummoned", "df/d5a/a20111.html#a586f15a02d77ed6831eb787e2bdf477c", null ],
-    [ "MoveInLineOfSight", "df/d5a/a20111.html#a6ae48c92d9fec13d66c445a2176b58eb", null ],
-    [ "Reset", "df/d5a/a20111.html#adf35df754ce212e9937f4b7833b81bf6", null ],
-    [ "SummonedCreatureDespawn", "df/d5a/a20111.html#a8019ef0c505c6b71a44da13ed0dd081b", null ],
-    [ "UpdateAI", "df/d5a/a20111.html#a661199c38d5bce921632191132767c32", null ],
-    [ "WaypointReached", "df/d5a/a20111.html#a9619ab9bb68a3da71a6c78e4092632f4", null ],
-    [ "_recastTimer", "df/d5a/a20111.html#ad6f7e7f6a745ba9b7b860030a9a22e9a", null ],
-    [ "_spellTimer", "df/d5a/a20111.html#adc8ed31e1d0d2aac5bd75391b21b7bfb", null ],
-    [ "summons", "df/d5a/a20111.html#ad3a5853ee86922f5854ddf757dada8e9", null ]
+    [ "npc_hodirs_furyAI", "df/d5a/a20111.html#ae08a68a79a3fef952f6dfa50b4eaabca", null ],
+    [ "MovementInform", "df/d5a/a20111.html#a37b07ddee5403ee2de8f69904412ed42", null ],
+    [ "Reset", "df/d5a/a20111.html#a389f0f17fbc7860c5531f4859be561d3", null ],
+    [ "UpdateAI", "df/d5a/a20111.html#a5417d68891ad0f93c8130c9a14d57513", null ],
+    [ "_switchTargetTimer", "df/d5a/a20111.html#a8d15c1e290438c8a4aa50887cfffccba", null ],
+    [ "_timeToHit", "df/d5a/a20111.html#a594356602bd0068fba82bea64e284837", null ]
 ];

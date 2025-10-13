@@ -1,11 +1,12 @@
 var a28067 =
 [
-    [ "Displayid", "de/d15/a28067.html#a4aa3c391401f39d6f4a595f4dff0668b", null ],
-    [ "filename", "de/d15/a28067.html#a0cee5b90a15b39e1ff49231e332cc320", null ],
-    [ "maxX", "de/d15/a28067.html#a10563ae885d34e516825a18db95b40e7", null ],
-    [ "maxY", "de/d15/a28067.html#a711286df6d2bd74246dee2170052c17a", null ],
-    [ "maxZ", "de/d15/a28067.html#acb74e32790b2c60cca5faef1caa225e4", null ],
-    [ "minX", "de/d15/a28067.html#a77466c3aabd4e7b6b7aa8b5f9f2a82da", null ],
-    [ "minY", "de/d15/a28067.html#a7168f5b3229bd27edde78e88bf7dc20a", null ],
-    [ "minZ", "de/d15/a28067.html#ac88aefc2530212b9dff10e018c4e9305", null ]
+    [ "categoryId", "de/d15/a28067.html#a1de0e4302757f18c08b90b40e059737b", null ],
+    [ "count", "de/d15/a28067.html#a93aac150067979467f56d9919ff665a4", null ],
+    [ "flags", "de/d15/a28067.html#a5c0dfb5b3c0711aff47d3d604ded2d1a", null ],
+    [ "ID", "de/d15/a28067.html#a843fee247948d02f7aaf04144cb37ef5", null ],
+    [ "mapID", "de/d15/a28067.html#ab3d41381808c8bdc163554f7c46f6bc6", null ],
+    [ "name", "de/d15/a28067.html#a806cfeddc475994f1b421679bd9699e6", null ],
+    [ "points", "de/d15/a28067.html#abc2b4cf9c6580c6bc99d5c47d7539374", null ],
+    [ "refAchievement", "de/d15/a28067.html#a858661b2e3479fa3fc2e029ae0d8a145", null ],
+    [ "requiredFaction", "de/d15/a28067.html#a722dbda5ed8d74f5a1e75bdec8841aa3", null ]
 ];

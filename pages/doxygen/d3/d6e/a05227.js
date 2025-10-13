@@ -1,11 +1,25 @@
 var a05227 =
 [
-    [ "Record", "d3/d6e/a05227.html#a3303a6b7ba364777e368158052dbe1db", null ],
-    [ "getFloat", "d3/d6e/a05227.html#a1647694079553a20a7c6621aa6d4ecf6", null ],
-    [ "getString", "d3/d6e/a05227.html#a833c7017749b6b3109ebdee2ff0d3517", null ],
-    [ "getUInt", "d3/d6e/a05227.html#a6f22775adc36b8955009f3f0bd51f355", null ],
-    [ "getUInt8", "d3/d6e/a05227.html#af6a95de37b34f0204f57323d9a39d110", null ],
-    [ "DBCFileLoader", "d3/d6e/a05227.html#aa9814b507b472e781e08c803e025cc72", null ],
-    [ "file", "d3/d6e/a05227.html#a146dc23a5f24a0d8a1a34f29375b9bcd", null ],
-    [ "offset", "d3/d6e/a05227.html#a06e2c90771be91d9ca948840a07125e8", null ]
+    [ "Record", "d4/d54/a05231.html", "d4/d54/a05231" ],
+    [ "DBCFileLoader", "d3/d6e/a05227.html#a99ba418c63c49cf9a028626b8e282a01", null ],
+    [ "~DBCFileLoader", "d3/d6e/a05227.html#a2e8dd3e5d88b870ea01e0c8dbfa55acd", null ],
+    [ "DBCFileLoader", "d3/d6e/a05227.html#a2e75536e8df1449449b4b6fe5585074d", null ],
+    [ "AutoProduceData", "d3/d6e/a05227.html#af8810dd9cef9ed82036bbebb4c938521", null ],
+    [ "AutoProduceStrings", "d3/d6e/a05227.html#a12054e13d90636076ce04587aacf8ff6", null ],
+    [ "GetCols", "d3/d6e/a05227.html#a3c536a9333a06213a37c95087eaaf8e3", null ],
+    [ "GetFormatRecordSize", "d3/d6e/a05227.html#a990308cf88d2772db090c37a66e9f9e5", null ],
+    [ "GetNumRows", "d3/d6e/a05227.html#aeedb51dd9b316063a58a989b175d0bc5", null ],
+    [ "GetOffset", "d3/d6e/a05227.html#ae624604ad0cdae8d3eb7212630a33613", null ],
+    [ "getRecord", "d3/d6e/a05227.html#ac4b1c79585f63f53f6d48db235732e20", null ],
+    [ "GetRowSize", "d3/d6e/a05227.html#af322bc9e92472463998ca8082c5da3d6", null ],
+    [ "IsLoaded", "d3/d6e/a05227.html#a28bf265dafc284e9edb55fc1ed261694", null ],
+    [ "Load", "d3/d6e/a05227.html#a32c6a04567395f66270858c5feb57f5f", null ],
+    [ "operator=", "d3/d6e/a05227.html#ac2b0f30fb125b8dae385ca8330d02e8b", null ],
+    [ "data", "d3/d6e/a05227.html#a137152d873bfa3cb2d3860fe6001f404", null ],
+    [ "fieldCount", "d3/d6e/a05227.html#a920472d71232fa759bce768fdca9a1c4", null ],
+    [ "fieldsOffset", "d3/d6e/a05227.html#a7aa68d259f6295df3029456bde143862", null ],
+    [ "recordCount", "d3/d6e/a05227.html#a1a17426b679598ee27363e897b40f2bf", null ],
+    [ "recordSize", "d3/d6e/a05227.html#ab4f28de7c57a6e25c715bb009ed5f701", null ],
+    [ "stringSize", "d3/d6e/a05227.html#a0761727ba38d899f337c733873742d69", null ],
+    [ "stringTable", "d3/d6e/a05227.html#a5961bf01316cc14a075c1b874000e8a2", null ]
 ];

@@ -1,5 +1,7 @@
 var a27435 =
 [
-    [ "go_ethereum_prison", "d5/de2/a27435.html#a1872dab11a8470194ab35f87e217aa8a", null ],
-    [ "OnGossipHello", "d5/de2/a27435.html#a73479b0512ea778336fad4bd5cd9b909", null ]
+    [ "FilterTargets", "d5/de2/a27435.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
+    [ "HandleEffect", "d5/de2/a27435.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
+    [ "PrepareSpellScript", "d5/de2/a27435.html#a53b5772c87574beb5b295c26fe983b76", null ],
+    [ "Register", "d5/de2/a27435.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
 ];

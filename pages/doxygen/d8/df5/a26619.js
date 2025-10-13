@@ -1,5 +1,6 @@
 var a26619 =
 [
-    [ "spell_q11515_fel_siphon_dummy", "d8/df5/a26619.html#a80fa790a716d1ae950f43f9a298afd66", null ],
-    [ "GetSpellScript", "d8/df5/a26619.html#a0d122972fc036d1f1e49c49acda58be3", null ]
+    [ "CheckProc", "d8/df5/a26619.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
+    [ "PrepareAuraScript", "d8/df5/a26619.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
+    [ "Register", "d8/df5/a26619.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
 ];

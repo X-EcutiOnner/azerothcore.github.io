@@ -1,8 +1,10 @@
 var a09463 =
 [
-    [ "NearestPlayerInObjectRangeCheck", "d6/db9/a09463.html#ae8e57c69baf8bdaf0448864d4afbb1a4", null ],
-    [ "NearestPlayerInObjectRangeCheck", "d6/db9/a09463.html#aac3d406d10a036b92a55bcd955411165", null ],
-    [ "operator()", "d6/db9/a09463.html#a5d7ed3141c03d2209d5a3b1a689d1668", null ],
-    [ "i_obj", "d6/db9/a09463.html#a9cd17091269bcfc2b48fefc12ac9b127", null ],
-    [ "i_range", "d6/db9/a09463.html#ab55f93d7c5d6ca3461bcbe49010fcb83", null ]
+    [ "AnyPlayerInObjectRangeCheck", "d6/db9/a09463.html#ae636bd72045687920ec1d460508bc74b", null ],
+    [ "operator()", "d6/db9/a09463.html#ac1eda8f85259230fb382a3b6e58b6798", null ],
+    [ "operator()", "d6/db9/a09463.html#a70c477213c8b271d3402857edd87ef8b", null ],
+    [ "_disallowGM", "d6/db9/a09463.html#a9c43efd575de2edfdaa0b84def91c727", null ],
+    [ "_obj", "d6/db9/a09463.html#a07a346225f675433792d2298673acd1f", null ],
+    [ "_range", "d6/db9/a09463.html#ae372500b3a21cb65a11045dcc6f094a8", null ],
+    [ "_reqAlive", "d6/db9/a09463.html#af1e397c5033711e65d9ac5b35311e893", null ]
 ];

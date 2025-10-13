@@ -1,7 +1,7 @@
 var a14871 =
 [
-    [ "hyjalTyrandeAI", "d3/dca/a14875.html", "d3/dca/a14875" ],
-    [ "npc_hyjal_tyrande", "d4/dc7/a14871.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
-    [ "GetAI", "d4/dc7/a14871.html#a2f863e616352a98763eef9a717d73388", null ],
-    [ "OnGossipSelect", "d4/dc7/a14871.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
+    [ "OnPeriodic", "d4/dc7/a14871.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
+    [ "PrepareAuraScript", "d4/dc7/a14871.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
+    [ "Register", "d4/dc7/a14871.html#aeb388d608830aeb3b30f707304403b41", null ],
+    [ "Validate", "d4/dc7/a14871.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: WorldSession::DosProtection Class Reference</title>
+<title>AzerothCore: MapSessionFilter Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,76 +105,53 @@ $(document).ready(function(){initNavTree('d6/d74/a11175.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pro-attribs">Protected Attributes</a> &#124;
-<a href="#pri-types">Private Types</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
-<a href="#friends">Friends</a> &#124;
 <a href="../../d1/dbe/a11172.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">WorldSession::DosProtection Class Reference</div></div>
+  <div class="headertitle"><div class="title">MapSessionFilter Class Reference<div class="ingroups"><a class="el" href="../../d3/d7d/a04797.html">User to World Communication</a></div></div></div>
 </div><!--header-->
 <div class="contents">
 
 <p><code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for MapSessionFilter:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d6/d74/a11175.png" usemap="#MapSessionFilter_map" alt=""/>
+  <map id="MapSessionFilter_map" name="MapSessionFilter_map">
+<area href="../../d7/d40/a11171.html" alt="PacketFilter" shape="rect" coords="0,0,110,24"/>
+  </map>
+</div></div>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:abdee2870dbaa3341ecd6f682f87a63aa"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aa">Policy</a> { <br />
-&#160;&#160;<a class="el" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe">Process</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd">Kick</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9">Ban</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b">Log</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb">BlockingThrottle</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970">DropPacket</a>
-<br />
- }</td></tr>
-<tr class="separator:abdee2870dbaa3341ecd6f682f87a63aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a8e43f21b9c729db604c9afd90f68dc20"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11175.html#a8e43f21b9c729db604c9afd90f68dc20">DosProtection</a> (<a class="el" href="../../d7/d40/a11171.html">WorldSession</a> *s)</td></tr>
-<tr class="separator:a8e43f21b9c729db604c9afd90f68dc20"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a575c7bcb895ad0a3d0456f0a99ee5ec7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aa">Policy</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11175.html#a575c7bcb895ad0a3d0456f0a99ee5ec7">EvaluateOpcode</a> (<a class="el" href="../../dc/de6/a11127.html">WorldPacket</a> const &amp;p, time_t const time) const</td></tr>
-<tr class="separator:a575c7bcb895ad0a3d0456f0a99ee5ec7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad11a700c36f8f45640402e96edc74b49"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11175.html#ad11a700c36f8f45640402e96edc74b49">MapSessionFilter</a> (<a class="el" href="../../d5/de4/a11203.html">WorldSession</a> *pSession)</td></tr>
+<tr class="separator:ad11a700c36f8f45640402e96edc74b49"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a82960e741c8f64d24a764a915f14e2b8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11175.html#a82960e741c8f64d24a764a915f14e2b8">~MapSessionFilter</a> () override=default</td></tr>
+<tr class="separator:a82960e741c8f64d24a764a915f14e2b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a54483596fe2a5a0d30fab9a13506b375"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11175.html#a54483596fe2a5a0d30fab9a13506b375">Process</a> (<a class="el" href="../../d9/d65/a11159.html">WorldPacket</a> *packet) override</td></tr>
+<tr class="separator:a54483596fe2a5a0d30fab9a13506b375"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8e3a7dd5affb24305435aea2c57718fa"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11175.html#a8e3a7dd5affb24305435aea2c57718fa">ProcessUnsafe</a> () const override</td></tr>
+<tr class="separator:a8e3a7dd5affb24305435aea2c57718fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a11171"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a11171')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d7/d40/a11171.html">PacketFilter</a></td></tr>
+<tr class="memitem:accfa43359c62d2e9d6c38086c77374bd inherit pub_methods_a11171"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d40/a11171.html#accfa43359c62d2e9d6c38086c77374bd">PacketFilter</a> (<a class="el" href="../../d5/de4/a11203.html">WorldSession</a> *pSession)</td></tr>
+<tr class="separator:accfa43359c62d2e9d6c38086c77374bd inherit pub_methods_a11171"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a669531cfd9c06d5cf525986069117687 inherit pub_methods_a11171"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d40/a11171.html#a669531cfd9c06d5cf525986069117687">~PacketFilter</a> ()=default</td></tr>
+<tr class="separator:a669531cfd9c06d5cf525986069117687 inherit pub_methods_a11171"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a03679e3c241a535757608c63ca933ac9 inherit pub_methods_a11171"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d40/a11171.html#a03679e3c241a535757608c63ca933ac9">Process</a> (<a class="el" href="../../d9/d65/a11159.html">WorldPacket</a> *)</td></tr>
+<tr class="separator:a03679e3c241a535757608c63ca933ac9 inherit pub_methods_a11171"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3e2bdc6d15cfd5cac1b9c130937599e3 inherit pub_methods_a11171"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d40/a11171.html#a3e2bdc6d15cfd5cac1b9c130937599e3">ProcessUnsafe</a> () const</td></tr>
+<tr class="separator:a3e2bdc6d15cfd5cac1b9c130937599e3 inherit pub_methods_a11171"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
-Protected Attributes</h2></td></tr>
-<tr class="memitem:a3f3f5397fb30cdf14141480659b18208"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d40/a11171.html">WorldSession</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11175.html#a3f3f5397fb30cdf14141480659b18208">Session</a></td></tr>
-<tr class="separator:a3f3f5397fb30cdf14141480659b18208"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-types" name="pri-types"></a>
-Private Types</h2></td></tr>
-<tr class="memitem:aa41dd21032403490c49a400651c98855"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; <a class="el" href="../../d9/d4e/a04307.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>, <a class="el" href="../../db/d46/a11167.html">PacketCounter</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11175.html#aa41dd21032403490c49a400651c98855">PacketThrottlingMap</a></td></tr>
-<tr class="separator:aa41dd21032403490c49a400651c98855"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:a8850d18ae254633f6bde5c85cbcef830"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11175.html#a8850d18ae254633f6bde5c85cbcef830">DosProtection</a> (<a class="el" href="../../d6/d74/a11175.html">DosProtection</a> const &amp;right)=delete</td></tr>
-<tr class="separator:a8850d18ae254633f6bde5c85cbcef830"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a98394089b867ff6e8107b7975a67737d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d74/a11175.html">DosProtection</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11175.html#a98394089b867ff6e8107b7975a67737d">operator=</a> (<a class="el" href="../../d6/d74/a11175.html">DosProtection</a> const &amp;right)=delete</td></tr>
-<tr class="separator:a98394089b867ff6e8107b7975a67737d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:ab74f0cf257d3db9076e3a8771de63eb3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d74/a11175.html#aa41dd21032403490c49a400651c98855">PacketThrottlingMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11175.html#ab74f0cf257d3db9076e3a8771de63eb3">_PacketThrottlingMap</a></td></tr>
-<tr class="separator:ab74f0cf257d3db9076e3a8771de63eb3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
-Friends</h2></td></tr>
-<tr class="memitem:a7b4bcdf992c21ae83363f25df05b1d25"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d74/a11175.html#a7b4bcdf992c21ae83363f25df05b1d25">World</a></td></tr>
-<tr class="separator:a7b4bcdf992c21ae83363f25df05b1d25"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
+Additional Inherited Members</h2></td></tr>
+<tr class="inherit_header pro_attribs_a11171"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_a11171')"><img src="../../closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="../../d7/d40/a11171.html">PacketFilter</a></td></tr>
+<tr class="memitem:ad3723289ea93f1095cf82584268335d9 inherit pro_attribs_a11171"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/de4/a11203.html">WorldSession</a> *const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d40/a11171.html#ad3723289ea93f1095cf82584268335d9">m_pSession</a></td></tr>
+<tr class="separator:ad3723289ea93f1095cf82584268335d9 inherit pro_attribs_a11171"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="aa41dd21032403490c49a400651c98855" name="aa41dd21032403490c49a400651c98855"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa41dd21032403490c49a400651c98855">&#9670;&#160;</a></span>PacketThrottlingMap</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="ad11a700c36f8f45640402e96edc74b49" name="ad11a700c36f8f45640402e96edc74b49"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad11a700c36f8f45640402e96edc74b49">&#9670;&#160;</a></span>MapSessionFilter()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -183,105 +160,43 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::unordered_map&lt;<a class="el" href="../../d9/d4e/a04307.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>, <a class="el" href="../../db/d46/a11167.html">PacketCounter</a>&gt; <a class="el" href="../../d6/d74/a11175.html#aa41dd21032403490c49a400651c98855">WorldSession::DosProtection::PacketThrottlingMap</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Member Enumeration Documentation</h2>
-<a id="abdee2870dbaa3341ecd6f682f87a63aa" name="abdee2870dbaa3341ecd6f682f87a63aa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abdee2870dbaa3341ecd6f682f87a63aa">&#9670;&#160;</a></span>Policy</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum class <a class="el" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aa">WorldSession::DosProtection::Policy</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe" name="abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe"></a>Process&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd" name="abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd"></a>Kick&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9" name="abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9"></a>Ban&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b" name="abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b"></a>Log&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb" name="abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb"></a>BlockingThrottle&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970" name="abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970"></a>DropPacket&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno"> 1147</span>        {</div>
-<div class="line"><span class="lineno"> 1148</span>            <a class="code hl_enumvalue" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe">Process</a>,</div>
-<div class="line"><span class="lineno"> 1149</span>            <a class="code hl_enumvalue" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd">Kick</a>,</div>
-<div class="line"><span class="lineno"> 1150</span>            <a class="code hl_enumvalue" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9">Ban</a>,</div>
-<div class="line"><span class="lineno"> 1151</span>            <a class="code hl_enumvalue" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b">Log</a>,</div>
-<div class="line"><span class="lineno"> 1152</span>            <a class="code hl_enumvalue" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb">BlockingThrottle</a>,</div>
-<div class="line"><span class="lineno"> 1153</span>            <a class="code hl_enumvalue" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970">DropPacket</a></div>
-<div class="line"><span class="lineno"> 1154</span>        };</div>
-<div class="ttc" id="aa11175_html_abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb"><div class="ttname"><a href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb">WorldSession::DosProtection::Policy::BlockingThrottle</a></div><div class="ttdeci">@ BlockingThrottle</div></div>
-<div class="ttc" id="aa11175_html_abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970"><div class="ttname"><a href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970">WorldSession::DosProtection::Policy::DropPacket</a></div><div class="ttdeci">@ DropPacket</div></div>
-<div class="ttc" id="aa11175_html_abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd"><div class="ttname"><a href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd">WorldSession::DosProtection::Policy::Kick</a></div><div class="ttdeci">@ Kick</div></div>
-<div class="ttc" id="aa11175_html_abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9"><div class="ttname"><a href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9">WorldSession::DosProtection::Policy::Ban</a></div><div class="ttdeci">@ Ban</div></div>
-<div class="ttc" id="aa11175_html_abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe"><div class="ttname"><a href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe">WorldSession::DosProtection::Policy::Process</a></div><div class="ttdeci">@ Process</div></div>
-<div class="ttc" id="aa11175_html_abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b"><div class="ttname"><a href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaace0be71e33226e4c1db2bcea5959f16b">WorldSession::DosProtection::Policy::Log</a></div><div class="ttdeci">@ Log</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a8e43f21b9c729db604c9afd90f68dc20" name="a8e43f21b9c729db604c9afd90f68dc20"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8e43f21b9c729db604c9afd90f68dc20">&#9670;&#160;</a></span>DosProtection() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">WorldSession::DosProtection::DosProtection </td>
+          <td class="memname">MapSessionFilter::MapSessionFilter </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d7/d40/a11171.html">WorldSession</a> *&#160;</td>
-          <td class="paramname"><em>s</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1423</span>                                                        :</div>
-<div class="line"><span class="lineno"> 1424</span>    <a class="code hl_variable" href="../../d6/d74/a11175.html#a3f3f5397fb30cdf14141480659b18208">Session</a>(s) { }</div>
-<div class="ttc" id="aa11175_html_a3f3f5397fb30cdf14141480659b18208"><div class="ttname"><a href="../../d6/d74/a11175.html#a3f3f5397fb30cdf14141480659b18208">WorldSession::DosProtection::Session</a></div><div class="ttdeci">WorldSession * Session</div><div class="ttdef"><b>Definition:</b> WorldSession.h:1159</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a8850d18ae254633f6bde5c85cbcef830" name="a8850d18ae254633f6bde5c85cbcef830"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8850d18ae254633f6bde5c85cbcef830">&#9670;&#160;</a></span>DosProtection() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">WorldSession::DosProtection::DosProtection </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d74/a11175.html">DosProtection</a> const &amp;&#160;</td>
-          <td class="paramname"><em>right</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d5/de4/a11203.html">WorldSession</a> *&#160;</td>
+          <td class="paramname"><em>pSession</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">delete</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  285</span>: <a class="code hl_class" href="../../d7/d40/a11171.html">PacketFilter</a>(pSession) {}</div>
+<div class="ttc" id="aa11171_html"><div class="ttname"><a href="../../d7/d40/a11171.html">PacketFilter</a></div><div class="ttdef"><b>Definition:</b> WorldSession.h:270</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a82960e741c8f64d24a764a915f14e2b8" name="a82960e741c8f64d24a764a915f14e2b8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a82960e741c8f64d24a764a915f14e2b8">&#9670;&#160;</a></span>~MapSessionFilter()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">MapSessionFilter::~MapSessionFilter </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">default</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -289,131 +204,67 @@ Friends</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a575c7bcb895ad0a3d0456f0a99ee5ec7" name="a575c7bcb895ad0a3d0456f0a99ee5ec7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a575c7bcb895ad0a3d0456f0a99ee5ec7">&#9670;&#160;</a></span>EvaluateOpcode()</h2>
+<a id="a54483596fe2a5a0d30fab9a13506b375" name="a54483596fe2a5a0d30fab9a13506b375"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a54483596fe2a5a0d30fab9a13506b375">&#9670;&#160;</a></span>Process()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aa">WorldSession::DosProtection::Policy</a> WorldSession::DosProtection::EvaluateOpcode </td>
+          <td class="memname">bool MapSessionFilter::Process </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/de6/a11127.html">WorldPacket</a> const &amp;&#160;</td>
-          <td class="paramname"><em>p</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramtype"><a class="el" href="../../d9/d65/a11159.html">WorldPacket</a> *&#160;</td>
+          <td class="paramname"><em>packet</em></td><td>)</td>
           <td></td>
-          <td class="paramtype">time_t const&#160;</td>
-          <td class="paramname"><em>time</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1355</span>{</div>
-<div class="line"><span class="lineno"> 1356</span>    <a class="code hl_struct" href="../../d8/dc8/a09091.html">AntiDosOpcodePolicy</a> <span class="keyword">const</span>* policy = <a class="code hl_define" href="../../db/d95/a01637.html#abde160907db136b0b0c16309add3ae94">sWorldGlobals</a>-&gt;GetAntiDosPolicyForOpcode(p.GetOpcode());</div>
-<div class="line"><span class="lineno"> 1357</span>    <span class="keywordflow">if</span> (!policy)</div>
-<div class="line"><span class="lineno"> 1358</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe">WorldSession::DosProtection::Policy::Process</a>; <span class="comment">// Return true if there is no policy for the opcode</span></div>
-<div class="line"><span class="lineno"> 1359</span> </div>
-<div class="line"><span class="lineno"> 1360</span>    <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> maxPacketCounterAllowed = policy-&gt;<a class="code hl_variable" href="../../d8/dc8/a09091.html#afb0dcc50d8e9aa85fe2904050d646042">MaxAllowedCount</a>;</div>
-<div class="line"><span class="lineno"> 1361</span>    <span class="keywordflow">if</span> (!maxPacketCounterAllowed)</div>
-<div class="line"><span class="lineno"> 1362</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe">WorldSession::DosProtection::Policy::Process</a>; <span class="comment">// Return true if there no limit for the opcode</span></div>
-<div class="line"><span class="lineno"> 1363</span> </div>
-<div class="line"><span class="lineno"> 1364</span>    <span class="comment">// packetCounter is opcodes handled in the same world second, so MaxAllowedCount is per second</span></div>
-<div class="line"><span class="lineno"> 1365</span>    <a class="code hl_struct" href="../../db/d46/a11167.html">PacketCounter</a>&amp; packetCounter = <a class="code hl_variable" href="../../d6/d74/a11175.html#ab74f0cf257d3db9076e3a8771de63eb3">_PacketThrottlingMap</a>[p.GetOpcode()];</div>
-<div class="line"><span class="lineno"> 1366</span>    <span class="keywordflow">if</span> (packetCounter.<a class="code hl_variable" href="../../db/d46/a11167.html#ae0f3f2a90a24b48d239e3df3525f8fdc">lastReceiveTime</a> != time)</div>
-<div class="line"><span class="lineno"> 1367</span>    {</div>
-<div class="line"><span class="lineno"> 1368</span>        packetCounter.<a class="code hl_variable" href="../../db/d46/a11167.html#ae0f3f2a90a24b48d239e3df3525f8fdc">lastReceiveTime</a> = time;</div>
-<div class="line"><span class="lineno"> 1369</span>        packetCounter.<a class="code hl_variable" href="../../db/d46/a11167.html#af652ffc837bde625aa39e913ec2e2eec">amountCounter</a> = 0;</div>
-<div class="line"><span class="lineno"> 1370</span>    }</div>
-<div class="line"><span class="lineno"> 1371</span> </div>
-<div class="line"><span class="lineno"> 1372</span>    <span class="comment">// Check if player is flooding some packets</span></div>
-<div class="line"><span class="lineno"> 1373</span>    <span class="keywordflow">if</span> (++packetCounter.<a class="code hl_variable" href="../../db/d46/a11167.html#af652ffc837bde625aa39e913ec2e2eec">amountCounter</a> &lt;= maxPacketCounterAllowed)</div>
-<div class="line"><span class="lineno"> 1374</span>        <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe">WorldSession::DosProtection::Policy::Process</a>;</div>
-<div class="line"><span class="lineno"> 1375</span> </div>
-<div class="line"><span class="lineno"> 1376</span>    <span class="keywordflow">if</span> (<a class="code hl_enumeration" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aa">WorldSession::DosProtection::Policy</a>(policy-&gt;<a class="code hl_variable" href="../../d8/dc8/a09091.html#a8b2bbd3d9f52166c1235b0d306042609">Policy</a>) != <a class="code hl_enumvalue" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb">WorldSession::DosProtection::Policy::BlockingThrottle</a>)</div>
-<div class="line"><span class="lineno"> 1377</span>    {</div>
-<div class="line"><span class="lineno"> 1378</span>        <a class="code hl_define" href="../../d4/d88/a04637.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;network&quot;</span>, <span class="stringliteral">&quot;AntiDOS: Account {}, IP: {}, Ping: {}, Character: {}, flooding packet (opc: {} (0x{:X}), count: {})&quot;</span>,</div>
-<div class="line"><span class="lineno"> 1379</span>            <a class="code hl_variable" href="../../d6/d74/a11175.html#a3f3f5397fb30cdf14141480659b18208">Session</a>-&gt;<a class="code hl_function" href="../../d7/d40/a11171.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>(), <a class="code hl_variable" href="../../d6/d74/a11175.html#a3f3f5397fb30cdf14141480659b18208">Session</a>-&gt;<a class="code hl_function" href="../../d7/d40/a11171.html#abd79893fa3de7652009e32fff5d9523d">GetRemoteAddress</a>(), <a class="code hl_variable" href="../../d6/d74/a11175.html#a3f3f5397fb30cdf14141480659b18208">Session</a>-&gt;<a class="code hl_function" href="../../d7/d40/a11171.html#aba0d5c49bc78f449da94cca0dee6e685">GetLatency</a>(), <a class="code hl_variable" href="../../d6/d74/a11175.html#a3f3f5397fb30cdf14141480659b18208">Session</a>-&gt;<a class="code hl_function" href="../../d7/d40/a11171.html#adc5517d80512262fe3b6c1c887bacba8">GetPlayerName</a>(),</div>
-<div class="line"><span class="lineno"> 1380</span>            <a class="code hl_variable" href="../../de/d4c/a04794.html#gaab348862a5b8f265e05e5b0ac296162a">opcodeTable</a>[<span class="keyword">static_cast&lt;</span><a class="code hl_enumeration" href="../../de/d4c/a04794.html#ga1073b6abb3a749f18bf1633020879e9b">OpcodeClient</a><span class="keyword">&gt;</span>(p.GetOpcode())]-&gt;Name, p.GetOpcode(), packetCounter.<a class="code hl_variable" href="../../db/d46/a11167.html#af652ffc837bde625aa39e913ec2e2eec">amountCounter</a>);</div>
-<div class="line"><span class="lineno"> 1381</span>    }</div>
-<div class="line"><span class="lineno"> 1382</span> </div>
-<div class="line"><span class="lineno"> 1383</span>    <span class="keywordflow">switch</span> (<a class="code hl_enumeration" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aa">WorldSession::DosProtection::Policy</a>(policy-&gt;<a class="code hl_variable" href="../../d8/dc8/a09091.html#a8b2bbd3d9f52166c1235b0d306042609">Policy</a>))</div>
-<div class="line"><span class="lineno"> 1384</span>    {</div>
-<div class="line"><span class="lineno"> 1385</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd">WorldSession::DosProtection::Policy::Kick</a>:</div>
-<div class="line"><span class="lineno"> 1386</span>        {</div>
-<div class="line"><span class="lineno"> 1387</span>            <a class="code hl_define" href="../../d4/d88/a04637.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;network&quot;</span>, <span class="stringliteral">&quot;AntiDOS: Player {} kicked!&quot;</span>, <a class="code hl_variable" href="../../d6/d74/a11175.html#a3f3f5397fb30cdf14141480659b18208">Session</a>-&gt;<a class="code hl_function" href="../../d7/d40/a11171.html#adc5517d80512262fe3b6c1c887bacba8">GetPlayerName</a>());</div>
-<div class="line"><span class="lineno"> 1388</span>            <a class="code hl_variable" href="../../d6/d74/a11175.html#a3f3f5397fb30cdf14141480659b18208">Session</a>-&gt;<a class="code hl_function" href="../../d7/d40/a11171.html#ad84e1251e6fb43fe3aed0ea2a27f018b">KickPlayer</a>();</div>
-<div class="line"><span class="lineno"> 1389</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1390</span>        }</div>
-<div class="line"><span class="lineno"> 1391</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9">WorldSession::DosProtection::Policy::Ban</a>:</div>
-<div class="line"><span class="lineno"> 1392</span>        {</div>
-<div class="line"><span class="lineno"> 1393</span>            <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> bm = <a class="code hl_define" href="../../d5/df7/a04795.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d9/d25/a01157.html#a468ad15992691eb97dd20680046832e0aae839a5d37a711a45ce11f1b1539f9aa">CONFIG_PACKET_SPOOF_BANMODE</a>);</div>
-<div class="line"><span class="lineno"> 1394</span>            <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> duration = <a class="code hl_define" href="../../d5/df7/a04795.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getIntConfig(<a class="code hl_enumvalue" href="../../d9/d25/a01157.html#a468ad15992691eb97dd20680046832e0a7bbac6f1e7c05710935efebf9d5a5e02">CONFIG_PACKET_SPOOF_BANDURATION</a>); <span class="comment">// in seconds</span></div>
-<div class="line"><span class="lineno"> 1395</span>            std::string nameOrIp = <span class="stringliteral">&quot;&quot;</span>;</div>
-<div class="line"><span class="lineno"> 1396</span>            <span class="keywordflow">switch</span> (bm)</div>
-<div class="line"><span class="lineno"> 1397</span>            {</div>
-<div class="line"><span class="lineno"> 1398</span>                <span class="keywordflow">case</span> 0: <span class="comment">// Ban account</span></div>
-<div class="line"><span class="lineno"> 1399</span>                    (void)<a class="code hl_function" href="../../dc/d4a/a04832.html#af911e3860ec519c541d6df35468ee41b">AccountMgr::GetName</a>(<a class="code hl_variable" href="../../d6/d74/a11175.html#a3f3f5397fb30cdf14141480659b18208">Session</a>-&gt;<a class="code hl_function" href="../../d7/d40/a11171.html#a9fa5510daf576fe281d1961430902dd9">GetAccountId</a>(), nameOrIp);</div>
-<div class="line"><span class="lineno"> 1400</span>                    <a class="code hl_define" href="../../d1/d09/a00077.html#a7d5e9b6aab3c8157bcf25fa0f070bb17">sBan</a>-&gt;BanAccount(nameOrIp, std::to_string(duration), <span class="stringliteral">&quot;DOS (Packet Flooding/Spoofing&quot;</span>, <span class="stringliteral">&quot;Server: AutoDOS&quot;</span>);</div>
-<div class="line"><span class="lineno"> 1401</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1402</span>                <span class="keywordflow">case</span> 1: <span class="comment">// Ban ip</span></div>
-<div class="line"><span class="lineno"> 1403</span>                    nameOrIp = <a class="code hl_variable" href="../../d6/d74/a11175.html#a3f3f5397fb30cdf14141480659b18208">Session</a>-&gt;<a class="code hl_function" href="../../d7/d40/a11171.html#abd79893fa3de7652009e32fff5d9523d">GetRemoteAddress</a>();</div>
-<div class="line"><span class="lineno"> 1404</span>                    <a class="code hl_define" href="../../d1/d09/a00077.html#a7d5e9b6aab3c8157bcf25fa0f070bb17">sBan</a>-&gt;BanIP(nameOrIp, std::to_string(duration), <span class="stringliteral">&quot;DOS (Packet Flooding/Spoofing&quot;</span>, <span class="stringliteral">&quot;Server: AutoDOS&quot;</span>);</div>
-<div class="line"><span class="lineno"> 1405</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1406</span>            }</div>
-<div class="line"><span class="lineno"> 1407</span> </div>
-<div class="line"><span class="lineno"> 1408</span>            <a class="code hl_define" href="../../d4/d88/a04637.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;network&quot;</span>, <span class="stringliteral">&quot;AntiDOS: Player automatically banned for {} seconds.&quot;</span>, duration);</div>
-<div class="line"><span class="lineno"> 1409</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1410</span>        }</div>
-<div class="line"><span class="lineno"> 1411</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970">WorldSession::DosProtection::Policy::DropPacket</a>:</div>
-<div class="line"><span class="lineno"> 1412</span>        {</div>
-<div class="line"><span class="lineno"> 1413</span>            <a class="code hl_define" href="../../d4/d88/a04637.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;network&quot;</span>, <span class="stringliteral">&quot;AntiDOS: Opcode packet {} from player {} will be dropped.&quot;</span>, p.GetOpcode(), <a class="code hl_variable" href="../../d6/d74/a11175.html#a3f3f5397fb30cdf14141480659b18208">Session</a>-&gt;<a class="code hl_function" href="../../d7/d40/a11171.html#adc5517d80512262fe3b6c1c887bacba8">GetPlayerName</a>());</div>
-<div class="line"><span class="lineno"> 1414</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1415</span>        }</div>
-<div class="line"><span class="lineno"> 1416</span>        <span class="keywordflow">default</span>: <span class="comment">// invalid policy</span></div>
-<div class="line"><span class="lineno"> 1417</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1418</span>    }</div>
-<div class="line"><span class="lineno"> 1419</span> </div>
-<div class="line"><span class="lineno"> 1420</span>    <span class="keywordflow">return</span> <a class="code hl_enumeration" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aa">WorldSession::DosProtection::Policy</a>(policy-&gt;<a class="code hl_variable" href="../../d8/dc8/a09091.html#a8b2bbd3d9f52166c1235b0d306042609">Policy</a>);</div>
-<div class="line"><span class="lineno"> 1421</span>}</div>
-<div class="ttc" id="aa00077_html_a7d5e9b6aab3c8157bcf25fa0f070bb17"><div class="ttname"><a href="../../d1/d09/a00077.html#a7d5e9b6aab3c8157bcf25fa0f070bb17">sBan</a></div><div class="ttdeci">#define sBan</div><div class="ttdef"><b>Definition:</b> BanMgr.h:48</div></div>
-<div class="ttc" id="aa01157_html_a468ad15992691eb97dd20680046832e0a7bbac6f1e7c05710935efebf9d5a5e02"><div class="ttname"><a href="../../d9/d25/a01157.html#a468ad15992691eb97dd20680046832e0a7bbac6f1e7c05710935efebf9d5a5e02">CONFIG_PACKET_SPOOF_BANDURATION</a></div><div class="ttdeci">@ CONFIG_PACKET_SPOOF_BANDURATION</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:330</div></div>
-<div class="ttc" id="aa01157_html_a468ad15992691eb97dd20680046832e0aae839a5d37a711a45ce11f1b1539f9aa"><div class="ttname"><a href="../../d9/d25/a01157.html#a468ad15992691eb97dd20680046832e0aae839a5d37a711a45ce11f1b1539f9aa">CONFIG_PACKET_SPOOF_BANMODE</a></div><div class="ttdeci">@ CONFIG_PACKET_SPOOF_BANMODE</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:329</div></div>
-<div class="ttc" id="aa01637_html_abde160907db136b0b0c16309add3ae94"><div class="ttname"><a href="../../db/d95/a01637.html#abde160907db136b0b0c16309add3ae94">sWorldGlobals</a></div><div class="ttdeci">#define sWorldGlobals</div><div class="ttdef"><b>Definition:</b> WorldGlobals.h:42</div></div>
-<div class="ttc" id="aa04307_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa04637_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d4/d88/a04637.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
-<div class="ttc" id="aa04637_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../d4/d88/a04637.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:162</div></div>
-<div class="ttc" id="aa04794_html_ga1073b6abb3a749f18bf1633020879e9b"><div class="ttname"><a href="../../de/d4c/a04794.html#ga1073b6abb3a749f18bf1633020879e9b">Opcodes</a></div><div class="ttdeci">Opcodes</div><div class="ttdoc">List of Opcodes.</div><div class="ttdef"><b>Definition:</b> Opcodes.h:30</div></div>
-<div class="ttc" id="aa04794_html_gaab348862a5b8f265e05e5b0ac296162a"><div class="ttname"><a href="../../de/d4c/a04794.html#gaab348862a5b8f265e05e5b0ac296162a">opcodeTable</a></div><div class="ttdeci">OpcodeTable opcodeTable</div><div class="ttdef"><b>Definition:</b> Opcodes.cpp:51</div></div>
-<div class="ttc" id="aa04795_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d5/df7/a04795.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:316</div></div>
-<div class="ttc" id="aa04832_html_af911e3860ec519c541d6df35468ee41b"><div class="ttname"><a href="../../dc/d4a/a04832.html#af911e3860ec519c541d6df35468ee41b">AccountMgr::GetName</a></div><div class="ttdeci">bool GetName(uint32 accountId, std::string &amp;name)</div><div class="ttdef"><b>Definition:</b> AccountMgr.cpp:264</div></div>
-<div class="ttc" id="aa09091_html"><div class="ttname"><a href="../../d8/dc8/a09091.html">AntiDosOpcodePolicy</a></div><div class="ttdef"><b>Definition:</b> WorldGlobals.h:25</div></div>
-<div class="ttc" id="aa09091_html_a8b2bbd3d9f52166c1235b0d306042609"><div class="ttname"><a href="../../d8/dc8/a09091.html#a8b2bbd3d9f52166c1235b0d306042609">AntiDosOpcodePolicy::Policy</a></div><div class="ttdeci">uint8 Policy</div><div class="ttdef"><b>Definition:</b> WorldGlobals.h:26</div></div>
-<div class="ttc" id="aa09091_html_afb0dcc50d8e9aa85fe2904050d646042"><div class="ttname"><a href="../../d8/dc8/a09091.html#afb0dcc50d8e9aa85fe2904050d646042">AntiDosOpcodePolicy::MaxAllowedCount</a></div><div class="ttdeci">uint16 MaxAllowedCount</div><div class="ttdef"><b>Definition:</b> WorldGlobals.h:27</div></div>
-<div class="ttc" id="aa11167_html"><div class="ttname"><a href="../../db/d46/a11167.html">PacketCounter</a></div><div class="ttdef"><b>Definition:</b> WorldSession.h:353</div></div>
-<div class="ttc" id="aa11167_html_ae0f3f2a90a24b48d239e3df3525f8fdc"><div class="ttname"><a href="../../db/d46/a11167.html#ae0f3f2a90a24b48d239e3df3525f8fdc">PacketCounter::lastReceiveTime</a></div><div class="ttdeci">time_t lastReceiveTime</div><div class="ttdef"><b>Definition:</b> WorldSession.h:354</div></div>
-<div class="ttc" id="aa11167_html_af652ffc837bde625aa39e913ec2e2eec"><div class="ttname"><a href="../../db/d46/a11167.html#af652ffc837bde625aa39e913ec2e2eec">PacketCounter::amountCounter</a></div><div class="ttdeci">uint16 amountCounter</div><div class="ttdef"><b>Definition:</b> WorldSession.h:355</div></div>
-<div class="ttc" id="aa11171_html_a9fa5510daf576fe281d1961430902dd9"><div class="ttname"><a href="../../d7/d40/a11171.html#a9fa5510daf576fe281d1961430902dd9">WorldSession::GetAccountId</a></div><div class="ttdeci">uint32 GetAccountId() const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:414</div></div>
-<div class="ttc" id="aa11171_html_aba0d5c49bc78f449da94cca0dee6e685"><div class="ttname"><a href="../../d7/d40/a11171.html#aba0d5c49bc78f449da94cca0dee6e685">WorldSession::GetLatency</a></div><div class="ttdeci">uint32 GetLatency() const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:555</div></div>
-<div class="ttc" id="aa11171_html_abd79893fa3de7652009e32fff5d9523d"><div class="ttname"><a href="../../d7/d40/a11171.html#abd79893fa3de7652009e32fff5d9523d">WorldSession::GetRemoteAddress</a></div><div class="ttdeci">std::string const &amp; GetRemoteAddress()</div><div class="ttdef"><b>Definition:</b> WorldSession.h:424</div></div>
-<div class="ttc" id="aa11171_html_ad84e1251e6fb43fe3aed0ea2a27f018b"><div class="ttname"><a href="../../d7/d40/a11171.html#ad84e1251e6fb43fe3aed0ea2a27f018b">WorldSession::KickPlayer</a></div><div class="ttdeci">void KickPlayer(bool setKicked=true)</div><div class="ttdef"><b>Definition:</b> WorldSession.h:453</div></div>
-<div class="ttc" id="aa11171_html_adc5517d80512262fe3b6c1c887bacba8"><div class="ttname"><a href="../../d7/d40/a11171.html#adc5517d80512262fe3b6c1c887bacba8">WorldSession::GetPlayerName</a></div><div class="ttdeci">std::string const &amp; GetPlayerName() const</div><div class="ttdef"><b>Definition:</b> WorldSession.cpp:211</div></div>
-<div class="ttc" id="aa11175_html_ab74f0cf257d3db9076e3a8771de63eb3"><div class="ttname"><a href="../../d6/d74/a11175.html#ab74f0cf257d3db9076e3a8771de63eb3">WorldSession::DosProtection::_PacketThrottlingMap</a></div><div class="ttdeci">PacketThrottlingMap _PacketThrottlingMap</div><div class="ttdef"><b>Definition:</b> WorldSession.h:1163</div></div>
-<div class="ttc" id="aa11175_html_abdee2870dbaa3341ecd6f682f87a63aa"><div class="ttname"><a href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aa">WorldSession::DosProtection::Policy</a></div><div class="ttdeci">Policy</div><div class="ttdef"><b>Definition:</b> WorldSession.h:1147</div></div>
+
+<p>Reimplemented from <a class="el" href="../../d7/d40/a11171.html#a03679e3c241a535757608c63ca933ac9">PacketFilter</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   64</span>{</div>
+<div class="line"><span class="lineno">   65</span>    <a class="code hl_class" href="../../dc/de6/a11127.html">ClientOpcodeHandler</a> <span class="keyword">const</span>* opHandle = <a class="code hl_variable" href="../../d3/d7d/a04797.html#gaab348862a5b8f265e05e5b0ac296162a">opcodeTable</a>[<span class="keyword">static_cast&lt;</span><a class="code hl_enumeration" href="../../d3/d7d/a04797.html#ga1073b6abb3a749f18bf1633020879e9b">OpcodeClient</a><span class="keyword">&gt;</span>(packet-&gt;<a class="code hl_function" href="../../d9/d65/a11159.html#a666547feae3b83bfbba424a541287239">GetOpcode</a>())];</div>
+<div class="line"><span class="lineno">   66</span> </div>
+<div class="line"><span class="lineno">   67</span>    <span class="comment">//let&#39;s check if our has an anxiety disorder can be really processed in Map::Update()</span></div>
+<div class="line"><span class="lineno">   68</span>    <span class="keywordflow">if</span> (opHandle-&gt;<a class="code hl_variable" href="../../d3/d7d/a04797.html#gaccb7f451536a1a56ba072a82202e5a53">ProcessingPlace</a> == <a class="code hl_enumvalue" href="../../d3/d7d/a04797.html#ggadb1f3eec4312420ff005e4d832f82ef4a10fc703aaf4e3032582278e9d36c23e8">PROCESS_INPLACE</a>)</div>
+<div class="line"><span class="lineno">   69</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   70</span> </div>
+<div class="line"><span class="lineno">   71</span>    <span class="comment">//we do not process thread-unsafe packets</span></div>
+<div class="line"><span class="lineno">   72</span>    <span class="keywordflow">if</span> (opHandle-&gt;<a class="code hl_variable" href="../../d3/d7d/a04797.html#gaccb7f451536a1a56ba072a82202e5a53">ProcessingPlace</a> == <a class="code hl_enumvalue" href="../../d3/d7d/a04797.html#ggadb1f3eec4312420ff005e4d832f82ef4a789f81b4b4c56cee7b5cd568c3de197d">PROCESS_THREADUNSAFE</a>)</div>
+<div class="line"><span class="lineno">   73</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   74</span> </div>
+<div class="line"><span class="lineno">   75</span>    <a class="code hl_class" href="../../d4/d78/a08663.html">Player</a>* player = <a class="code hl_variable" href="../../d7/d40/a11171.html#ad3723289ea93f1095cf82584268335d9">m_pSession</a>-&gt;<a class="code hl_function" href="../../d5/de4/a11203.html#a62c786bcb829a021c267e7eb56809952">GetPlayer</a>();</div>
+<div class="line"><span class="lineno">   76</span>    <span class="keywordflow">if</span> (!player)</div>
+<div class="line"><span class="lineno">   77</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   78</span> </div>
+<div class="line"><span class="lineno">   79</span>    <span class="comment">//in Map::Update() we do not process packets where player is not in world!</span></div>
+<div class="line"><span class="lineno">   80</span>    <span class="keywordflow">return</span> player-&gt;<a class="code hl_function" href="../../d3/da9/a08411.html#a3aeab7def818ba6c50249f197ad2f9ca">IsInWorld</a>();</div>
+<div class="line"><span class="lineno">   81</span>}</div>
+<div class="ttc" id="aa04797_html_ga1073b6abb3a749f18bf1633020879e9b"><div class="ttname"><a href="../../d3/d7d/a04797.html#ga1073b6abb3a749f18bf1633020879e9b">Opcodes</a></div><div class="ttdeci">Opcodes</div><div class="ttdoc">List of Opcodes.</div><div class="ttdef"><b>Definition:</b> Opcodes.h:30</div></div>
+<div class="ttc" id="aa04797_html_gaab348862a5b8f265e05e5b0ac296162a"><div class="ttname"><a href="../../d3/d7d/a04797.html#gaab348862a5b8f265e05e5b0ac296162a">opcodeTable</a></div><div class="ttdeci">OpcodeTable opcodeTable</div><div class="ttdef"><b>Definition:</b> Opcodes.cpp:51</div></div>
+<div class="ttc" id="aa04797_html_gaccb7f451536a1a56ba072a82202e5a53"><div class="ttname"><a href="../../d3/d7d/a04797.html#gaccb7f451536a1a56ba072a82202e5a53">ClientOpcodeHandler::ProcessingPlace</a></div><div class="ttdeci">PacketProcessing ProcessingPlace</div><div class="ttdef"><b>Definition:</b> Opcodes.h:1392</div></div>
+<div class="ttc" id="aa04797_html_ggadb1f3eec4312420ff005e4d832f82ef4a10fc703aaf4e3032582278e9d36c23e8"><div class="ttname"><a href="../../d3/d7d/a04797.html#ggadb1f3eec4312420ff005e4d832f82ef4a10fc703aaf4e3032582278e9d36c23e8">PROCESS_INPLACE</a></div><div class="ttdeci">@ PROCESS_INPLACE</div><div class="ttdef"><b>Definition:</b> Opcodes.h:1366</div></div>
+<div class="ttc" id="aa04797_html_ggadb1f3eec4312420ff005e4d832f82ef4a789f81b4b4c56cee7b5cd568c3de197d"><div class="ttname"><a href="../../d3/d7d/a04797.html#ggadb1f3eec4312420ff005e4d832f82ef4a789f81b4b4c56cee7b5cd568c3de197d">PROCESS_THREADUNSAFE</a></div><div class="ttdeci">@ PROCESS_THREADUNSAFE</div><div class="ttdef"><b>Definition:</b> Opcodes.h:1367</div></div>
+<div class="ttc" id="aa08411_html_a3aeab7def818ba6c50249f197ad2f9ca"><div class="ttname"><a href="../../d3/da9/a08411.html#a3aeab7def818ba6c50249f197ad2f9ca">Object::IsInWorld</a></div><div class="ttdeci">bool IsInWorld() const</div><div class="ttdef"><b>Definition:</b> Object.h:108</div></div>
+<div class="ttc" id="aa08663_html"><div class="ttname"><a href="../../d4/d78/a08663.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1071</div></div>
+<div class="ttc" id="aa11127_html"><div class="ttname"><a href="../../dc/de6/a11127.html">ClientOpcodeHandler</a></div><div class="ttdef"><b>Definition:</b> Opcodes.h:1385</div></div>
+<div class="ttc" id="aa11159_html_a666547feae3b83bfbba424a541287239"><div class="ttname"><a href="../../d9/d65/a11159.html#a666547feae3b83bfbba424a541287239">WorldPacket::GetOpcode</a></div><div class="ttdeci">uint16 GetOpcode() const</div><div class="ttdef"><b>Definition:</b> WorldPacket.h:75</div></div>
+<div class="ttc" id="aa11171_html_ad3723289ea93f1095cf82584268335d9"><div class="ttname"><a href="../../d7/d40/a11171.html#ad3723289ea93f1095cf82584268335d9">PacketFilter::m_pSession</a></div><div class="ttdeci">WorldSession *const m_pSession</div><div class="ttdef"><b>Definition:</b> WorldSession.h:279</div></div>
+<div class="ttc" id="aa11203_html_a62c786bcb829a021c267e7eb56809952"><div class="ttname"><a href="../../d5/de4/a11203.html#a62c786bcb829a021c267e7eb56809952">WorldSession::GetPlayer</a></div><div class="ttdeci">Player * GetPlayer() const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:424</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01163">_PacketThrottlingMap</a>, <a class="el" href="../../#l00355">PacketCounter::amountCounter</a>, <a class="el" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaa5c664f50adcaaf94d8c8d01b4eb754e9">Ban</a>, <a class="el" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaa1974493f69f8fbf2eb0a63a852d132bb">BlockingThrottle</a>, <a class="el" href="../../#l00330">CONFIG_PACKET_SPOOF_BANDURATION</a>, <a class="el" href="../../#l00329">CONFIG_PACKET_SPOOF_BANMODE</a>, <a class="el" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaa3bd03342168b3845d34fccaf6543c970">DropPacket</a>, <a class="el" href="../../#l00414">WorldSession::GetAccountId()</a>, <a class="el" href="../../#l00555">WorldSession::GetLatency()</a>, <a class="el" href="../../#l00264">AccountMgr::GetName()</a>, <a class="el" href="../../#l00075">WorldPacket::GetOpcode()</a>, <a class="el" href="../../#l00211">WorldSession::GetPlayerName()</a>, <a class="el" href="../../#l00424">WorldSession::GetRemoteAddress()</a>, <a class="el" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaa3e07960fcc45408894cf1402257bd9fd">Kick</a>, <a class="el" href="../../#l00453">WorldSession::KickPlayer()</a>, <a class="el" href="../../#l00354">PacketCounter::lastReceiveTime</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l00027">AntiDosOpcodePolicy::MaxAllowedCount</a>, <a class="el" href="../../#l00051">opcodeTable</a>, <a class="el" href="../../#l00026">AntiDosOpcodePolicy::Policy</a>, <a class="el" href="../../d6/d74/a11175.html#abdee2870dbaa3341ecd6f682f87a63aaab6ec7abeb6ae29cc35a4b47475e12afe">Process</a>, <a class="el" href="../../#l00048">sBan</a>, <a class="el" href="../../#l01159">Session</a>, <a class="el" href="../../#l00316">sWorld</a>, and <a class="el" href="../../#l00042">sWorldGlobals</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00327">WorldSession::Update()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00075">WorldPacket::GetOpcode()</a>, <a class="el" href="../../#l00424">WorldSession::GetPlayer()</a>, <a class="el" href="../../#l00108">Object::IsInWorld()</a>, <a class="el" href="../../#l00279">PacketFilter::m_pSession</a>, <a class="el" href="../../#l00051">opcodeTable</a>, <a class="el" href="../../#l01366">PROCESS_INPLACE</a>, <a class="el" href="../../#l01367">PROCESS_THREADUNSAFE</a>, and <a class="el" href="../../#l01392">ClientOpcodeHandler::ProcessingPlace</a>.</p>
 
 </div>
 </div>
-<a id="a98394089b867ff6e8107b7975a67737d" name="a98394089b867ff6e8107b7975a67737d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a98394089b867ff6e8107b7975a67737d">&#9670;&#160;</a></span>operator=()</h2>
+<a id="a8e3a7dd5affb24305435aea2c57718fa" name="a8e3a7dd5affb24305435aea2c57718fa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8e3a7dd5affb24305435aea2c57718fa">&#9670;&#160;</a></span>ProcessUnsafe()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -422,92 +273,22 @@ Friends</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d74/a11175.html">DosProtection</a> &amp; WorldSession::DosProtection::operator= </td>
+          <td class="memname">bool MapSessionFilter::ProcessUnsafe </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/d74/a11175.html">DosProtection</a> const &amp;&#160;</td>
-          <td class="paramname"><em>right</em></td><td>)</td>
-          <td></td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">delete</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-</div>
-</div>
-<h2 class="groupheader">Friends And Related Function Documentation</h2>
-<a id="a7b4bcdf992c21ae83363f25df05b1d25" name="a7b4bcdf992c21ae83363f25df05b1d25"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7b4bcdf992c21ae83363f25df05b1d25">&#9670;&#160;</a></span>World</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">friend class <a class="el" href="../../d7/d18/a11707.html">World</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="ab74f0cf257d3db9076e3a8771de63eb3" name="ab74f0cf257d3db9076e3a8771de63eb3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab74f0cf257d3db9076e3a8771de63eb3">&#9670;&#160;</a></span>_PacketThrottlingMap</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d6/d74/a11175.html#aa41dd21032403490c49a400651c98855">PacketThrottlingMap</a> WorldSession::DosProtection::_PacketThrottlingMap</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">mutable</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01354">EvaluateOpcode()</a>.</p>
-
-</div>
-</div>
-<a id="a3f3f5397fb30cdf14141480659b18208" name="a3f3f5397fb30cdf14141480659b18208"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3f3f5397fb30cdf14141480659b18208">&#9670;&#160;</a></span>Session</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d7/d40/a11171.html">WorldSession</a>* WorldSession::DosProtection::Session</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01354">EvaluateOpcode()</a>.</p>
-
+<p>Reimplemented from <a class="el" href="../../d7/d40/a11171.html#a3e2bdc6d15cfd5cac1b9c130937599e3">PacketFilter</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  290</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -515,8 +296,8 @@ Friends</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d7/d40/a11171.html">WorldSession</a></li><li class="navelem"><a class="el" href="../../d6/d74/a11175.html">DosProtection</a></li>
-    <li class="footer">Generated on Mon Oct 6 2025 20:46:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d6/d74/a11175.html">MapSessionFilter</a></li>
+    <li class="footer">Generated on Mon Oct 13 2025 20:45:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,7 @@
 var a03278 =
 [
-    [ "reload_commandscript", "d7/dff/a11907.html", "d7/dff/a11907" ],
-    [ "AddSC_reload_commandscript", "d9/d7f/a03278.html#ab72bc0a4ad4d6f90fa1e05f5591ed68f", null ]
+    [ "inventory_commandscript", "d9/d56/a11863.html", "d9/d56/a11863" ],
+    [ "AddSC_inventory_commandscript", "d9/d7f/a03278.html#a8917ab2c5001702c3dc7a14313dbc562", null ],
+    [ "bagSpecsColors", "d9/d7f/a03278.html#aabf9a2b965ae6153eb18635be4468eb6", null ],
+    [ "bagSpecsToString", "d9/d7f/a03278.html#ac004d76eb746ea415b16f1b512a057b6", null ]
 ];

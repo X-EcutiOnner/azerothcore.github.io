@@ -1,5 +1,5 @@
 var a27651 =
 [
-    [ "item_captured_frog", "d7/d02/a27651.html#ad41b743c98c9534453eca8cf1f367366", null ],
-    [ "OnUse", "d7/d02/a27651.html#a1156467ca046a077ea494f92c488bf54", null ]
+    [ "go_duskwither_spire_power_source", "d7/d02/a27651.html#aab69de16e8b744af2671e2ed882ee94a", null ],
+    [ "OnGossipHello", "d7/d02/a27651.html#a2c7fd017e7985b99bff187119157a041", null ]
 ];

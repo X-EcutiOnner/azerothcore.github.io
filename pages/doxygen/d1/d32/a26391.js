@@ -1,7 +1,7 @@
 var a26391 =
 [
-    [ "HandleScriptEffect", "d1/d32/a26391.html#a8c7ede10a8f7d0c1ea04c21166807995", null ],
-    [ "PrepareSpellScript", "d1/d32/a26391.html#af52663b01774372d3e6f695d2f395cb5", null ],
-    [ "Register", "d1/d32/a26391.html#abcefab06ff481fad88be4d7ad9289808", null ],
-    [ "Validate", "d1/d32/a26391.html#af269a7085412b5a889dfb802d1dc7fbe", null ]
+    [ "HandleScriptEffect", "d1/d32/a26391.html#a6c1ac025fa93caa08737387a18003612", null ],
+    [ "PrepareSpellScript", "d1/d32/a26391.html#acb5ad05212399b06ed9bb64bb9203069", null ],
+    [ "Register", "d1/d32/a26391.html#afbf989d514c308f466ecfd9957d2d177", null ],
+    [ "Validate", "d1/d32/a26391.html#a2f48b1903edef1a5bb8beeddc8879aa4", null ]
 ];

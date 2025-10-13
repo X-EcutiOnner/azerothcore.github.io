@@ -1,12 +1,11 @@
 var a14907 =
 [
-    [ "boss_epochAI", "d3/d8d/a14907.html#a2986db39b7db92b1fa9d64cef5f8c08b", null ],
-    [ "JustDied", "d3/d8d/a14907.html#a780aa5bc86c80aaeeffad441b2873121", null ],
-    [ "JustEngagedWith", "d3/d8d/a14907.html#ae742dceac5979faebb58a133e9bd91f0", null ],
-    [ "KilledUnit", "d3/d8d/a14907.html#af41946feab7b86d812f706bd7abbf1bd", null ],
-    [ "Reset", "d3/d8d/a14907.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
-    [ "SpellHitTarget", "d3/d8d/a14907.html#ab87dfcf635a65b02be29186d2990fef3", null ],
-    [ "UpdateAI", "d3/d8d/a14907.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
-    [ "events", "d3/d8d/a14907.html#af0c1477b3d9fb48cfcf55f32e21591f4", null ],
-    [ "warps", "d3/d8d/a14907.html#a478113af1ce565c729604c6039f55551", null ]
+    [ "npc_hyjal_ground_trash", "d3/d8d/a14907.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
+    [ "AttackStart", "d3/d8d/a14907.html#a0ab86d651644dcc579585176c2b5c07e", null ],
+    [ "DoAction", "d3/d8d/a14907.html#aa92481bcf993c4eda5ef271145200d77", null ],
+    [ "GetNearbyFriendlyTrashCreature", "d3/d8d/a14907.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
+    [ "JustEngagedWith", "d3/d8d/a14907.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
+    [ "PathEndReached", "d3/d8d/a14907.html#a035610284a56e690200f978b0fd496ab", null ],
+    [ "Reset", "d3/d8d/a14907.html#aa38b45f63841c049a2add0a9832268ef", null ],
+    [ "UpdateAI", "d3/d8d/a14907.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
 ];

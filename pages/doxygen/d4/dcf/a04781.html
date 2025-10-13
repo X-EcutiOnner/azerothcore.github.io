@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Commands/GmVisibleCommandTest.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Battlegrounds/ArenaSeason/ArenaTeamFilterTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,82 +106,197 @@ $(document).ready(function(){initNavTree('d4/dcf/a04781.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#define-members">Macros</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">GmVisibleCommandTest.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">ArenaTeamFilterTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldSession.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">WorldMock.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ObjectGuid.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptDefines/MiscScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptDefines/PlayerScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptDefines/WorldObjectScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptDefines/UnitScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ScriptDefines/CommandScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
 <code>#include &quot;gmock/gmock.h&quot;</code><br />
 <code>#include &quot;gtest/gtest.h&quot;</code><br />
-<code>#include &lt;string&gt;</code><br />
-<code>#include &lt;string_view&gt;</code><br />
+<code>#include &quot;<a class="el" href="../../">ArenaTeamFilter.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ArenaTeamMgr.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">ArenaTeam.h</a>&quot;</code><br />
+<code>#include &lt;memory&gt;</code><br />
+<code>#include &quot;<a class="el" href="../../">WorldMock.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dec/a28823.html">anonymous_namespace{GmVisibleCommandTest.cpp}::TestVisibilityScript</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dd4/a28855.html">ArenaTeamTest</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d0b/a28827.html">anonymous_namespace{GmVisibleCommandTest.cpp}::TestPlayer</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d74/a28859.html">ArenaTeamFilterTest</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d99/a28831.html">anonymous_namespace{GmVisibleCommandTest.cpp}::GmVisibleCommandTest</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:d1/dcd/a04880"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dcd/a04880.html">anonymous_namespace{GmVisibleCommandTest.cpp}</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a3c2cf023118b4939342706355b5e3e23"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dcf/a04781.html#a3c2cf023118b4939342706355b5e3e23">TEST_F</a>(fixture,  name)&#160;&#160;&#160;void fixture##_##name()</td></tr>
-<tr class="separator:a3c2cf023118b4939342706355b5e3e23"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ab69ef1935950dc8de0cefd60510d681d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dcd/a04880.html#ab69ef1935950dc8de0cefd60510d681d">anonymous_namespace{GmVisibleCommandTest.cpp}::TEST_F</a> (GmVisibleCommandTest, SetsPlayerInvisibleAndInvokesHook)</td></tr>
-<tr class="separator:ab69ef1935950dc8de0cefd60510d681d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af70d9dbfad6d1852aa5b7ea680a70928"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/dcd/a04880.html#af70d9dbfad6d1852aa5b7ea680a70928">anonymous_namespace{GmVisibleCommandTest.cpp}::TEST_F</a> (GmVisibleCommandTest, SetsPlayerVisibleAndInvokesHook)</td></tr>
-<tr class="separator:af70d9dbfad6d1852aa5b7ea680a70928"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9ce4d88bf97ee463db69de183769f18e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d1f/a07319.html">ArenaTeam</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dcf/a04781.html#a9ce4d88bf97ee463db69de183769f18e">ArenaTeamWithType</a> (<a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> type)</td></tr>
+<tr class="separator:a9ce4d88bf97ee463db69de183769f18e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a37c0d226ff50c702fc70274ea77f1f09"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dcf/a04781.html#a37c0d226ff50c702fc70274ea77f1f09">TEST_F</a> (<a class="el" href="../../db/d74/a28859.html">ArenaTeamFilterTest</a>, AllTeamsFilter)</td></tr>
+<tr class="separator:a37c0d226ff50c702fc70274ea77f1f09"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a03a46ff29d075ef3207bb12d9a539b5b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dcf/a04781.html#a03a46ff29d075ef3207bb12d9a539b5b">TEST_F</a> (<a class="el" href="../../db/d74/a28859.html">ArenaTeamFilterTest</a>, FilterBySpecificTypes)</td></tr>
+<tr class="separator:a03a46ff29d075ef3207bb12d9a539b5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0f9cf98a51ec8c4db75724bf81ef8c7c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/dcf/a04781.html#a0f9cf98a51ec8c4db75724bf81ef8c7c">TEST_F</a> (<a class="el" href="../../db/d74/a28859.html">ArenaTeamFilterTest</a>, FabricCreatesFilterByInput)</td></tr>
+<tr class="separator:a0f9cf98a51ec8c4db75724bf81ef8c7c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="a3c2cf023118b4939342706355b5e3e23" name="a3c2cf023118b4939342706355b5e3e23"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3c2cf023118b4939342706355b5e3e23">&#9670;&#160;</a></span>TEST_F</h2>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="a9ce4d88bf97ee463db69de183769f18e" name="a9ce4d88bf97ee463db69de183769f18e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9ce4d88bf97ee463db69de183769f18e">&#9670;&#160;</a></span>ArenaTeamWithType()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">#define TEST_F</td>
+          <td class="memname"><a class="el" href="../../dc/d1f/a07319.html">ArenaTeam</a> * ArenaTeamWithType </td>
           <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">fixture, </td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>type</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   38</span>{</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_class" href="../../de/dd4/a28855.html">ArenaTeamTest</a>* team = <span class="keyword">new</span> <a class="code hl_class" href="../../de/dd4/a28855.html">ArenaTeamTest</a>();</div>
+<div class="line"><span class="lineno">   40</span>    team-&gt;<a class="code hl_function" href="../../de/dd4/a28855.html#ad2fd1d002f4a95b778a8d5ba819eba42">SetType</a>(type);</div>
+<div class="line"><span class="lineno">   41</span>    <span class="keywordflow">return</span> team;</div>
+<div class="line"><span class="lineno">   42</span>}</div>
+<div class="ttc" id="aa28855_html"><div class="ttname"><a href="../../de/dd4/a28855.html">ArenaTeamTest</a></div><div class="ttdef"><b>Definition:</b> ArenaTeamFilterTest.cpp:29</div></div>
+<div class="ttc" id="aa28855_html_ad2fd1d002f4a95b778a8d5ba819eba42"><div class="ttname"><a href="../../de/dd4/a28855.html#ad2fd1d002f4a95b778a8d5ba819eba42">ArenaTeamTest::SetType</a></div><div class="ttdeci">void SetType(uint8 type)</div><div class="ttdef"><b>Definition:</b> ArenaTeamFilterTest.cpp:31</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00031">ArenaTeamTest::SetType()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00048">ArenaTeamFilterTest::SetUp()</a>.</p>
+
+</div>
+</div>
+<a id="a37c0d226ff50c702fc70274ea77f1f09" name="a37c0d226ff50c702fc70274ea77f1f09"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a37c0d226ff50c702fc70274ea77f1f09">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d74/a28859.html">ArenaTeamFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">name&#160;</td>
+          <td class="paramtype">AllTeamsFilter&#160;</td>
+          <td class="paramname">&#160;</td>
         </tr>
         <tr>
           <td></td>
           <td>)</td>
-          <td></td><td>&#160;&#160;&#160;void fixture##_##name()</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   85</span>{</div>
+<div class="line"><span class="lineno">   86</span>    <a class="code hl_class" href="../../d3/dcd/a07303.html">ArenaTeamFilterAllTeams</a> filter;</div>
+<div class="line"><span class="lineno">   87</span>    <a class="code hl_typedef" href="../../dd/d99/a07323.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a> result = filter.<a class="code hl_function" href="../../d3/dcd/a07303.html#a1fcb023fe0dee17790b3636bf1ff3e9a">Filter</a>(arenaTeams);</div>
+<div class="line"><span class="lineno">   88</span> </div>
+<div class="line"><span class="lineno">   89</span>    EXPECT_EQ(result.size(), arenaTeams.size());</div>
+<div class="line"><span class="lineno">   90</span>    EXPECT_EQ(result[1], team1);</div>
+<div class="line"><span class="lineno">   91</span>    EXPECT_EQ(result[2], team2);</div>
+<div class="line"><span class="lineno">   92</span>    EXPECT_EQ(result[3], team3);</div>
+<div class="line"><span class="lineno">   93</span>}</div>
+<div class="ttc" id="aa07303_html"><div class="ttname"><a href="../../d3/dcd/a07303.html">ArenaTeamFilterAllTeams</a></div><div class="ttdef"><b>Definition:</b> ArenaTeamFilter.h:71</div></div>
+<div class="ttc" id="aa07303_html_a1fcb023fe0dee17790b3636bf1ff3e9a"><div class="ttname"><a href="../../d3/dcd/a07303.html#a1fcb023fe0dee17790b3636bf1ff3e9a">ArenaTeamFilterAllTeams::Filter</a></div><div class="ttdeci">ArenaTeamMgr::ArenaTeamContainer Filter(ArenaTeamMgr::ArenaTeamContainer teams) override</div><div class="ttdef"><b>Definition:</b> ArenaTeamFilter.h:73</div></div>
+<div class="ttc" id="aa07323_html_ac76e895599b64e0824e923faf9c08560"><div class="ttname"><a href="../../dd/d99/a07323.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a></div><div class="ttdeci">std::unordered_map&lt; uint32, ArenaTeam * &gt; ArenaTeamContainer</div><div class="ttdef"><b>Definition:</b> ArenaTeamMgr.h:34</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00073">ArenaTeamFilterAllTeams::Filter()</a>.</p>
+
+</div>
+</div>
+<a id="a0f9cf98a51ec8c4db75724bf81ef8c7c" name="a0f9cf98a51ec8c4db75724bf81ef8c7c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0f9cf98a51ec8c4db75724bf81ef8c7c">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d74/a28859.html">ArenaTeamFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">FabricCreatesFilterByInput&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  111</span>{</div>
+<div class="line"><span class="lineno">  112</span>    <a class="code hl_class" href="../../d0/d9c/a07307.html">ArenaTeamFilterFactoryByUserInput</a> fabric;</div>
+<div class="line"><span class="lineno">  113</span> </div>
+<div class="line"><span class="lineno">  114</span>    <span class="comment">// Test for &quot;all&quot; input</span></div>
+<div class="line"><span class="lineno">  115</span>    <span class="keyword">auto</span> allTeamsFilter = fabric.<a class="code hl_function" href="../../d0/d9c/a07307.html#ae35ff456f56290032c4c62d252a83690">CreateFilterByUserInput</a>(<span class="stringliteral">&quot;all&quot;</span>);</div>
+<div class="line"><span class="lineno">  116</span>    <a class="code hl_typedef" href="../../dd/d99/a07323.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a> allTeamsResult = allTeamsFilter-&gt;Filter(arenaTeams);</div>
+<div class="line"><span class="lineno">  117</span>    EXPECT_EQ(allTeamsResult.size(), arenaTeams.size()); <span class="comment">// All teams should pass</span></div>
+<div class="line"><span class="lineno">  118</span> </div>
+<div class="line"><span class="lineno">  119</span>    <span class="comment">// Test for &quot;2,3&quot; input</span></div>
+<div class="line"><span class="lineno">  120</span>    <span class="keyword">auto</span> specificTypesFilter = fabric.<a class="code hl_function" href="../../d0/d9c/a07307.html#ae35ff456f56290032c4c62d252a83690">CreateFilterByUserInput</a>(<span class="stringliteral">&quot;2,3&quot;</span>);</div>
+<div class="line"><span class="lineno">  121</span>    <a class="code hl_typedef" href="../../dd/d99/a07323.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a> filteredResult = specificTypesFilter-&gt;Filter(arenaTeams);</div>
+<div class="line"><span class="lineno">  122</span>    EXPECT_EQ(filteredResult.size(), 2);  <span class="comment">// Only 2v2 and 3v3 teams should pass</span></div>
+<div class="line"><span class="lineno">  123</span>    EXPECT_EQ(filteredResult[1], team1);  <span class="comment">// 2v2</span></div>
+<div class="line"><span class="lineno">  124</span>    EXPECT_EQ(filteredResult[2], team2);  <span class="comment">// 3v3</span></div>
+<div class="line"><span class="lineno">  125</span>}</div>
+<div class="ttc" id="aa07307_html"><div class="ttname"><a href="../../d0/d9c/a07307.html">ArenaTeamFilterFactoryByUserInput</a></div><div class="ttdef"><b>Definition:</b> ArenaTeamFilter.h:80</div></div>
+<div class="ttc" id="aa07307_html_ae35ff456f56290032c4c62d252a83690"><div class="ttname"><a href="../../d0/d9c/a07307.html#ae35ff456f56290032c4c62d252a83690">ArenaTeamFilterFactoryByUserInput::CreateFilterByUserInput</a></div><div class="ttdeci">std::unique_ptr&lt; ArenaTeamFilter &gt; CreateFilterByUserInput(std::string userInput)</div><div class="ttdef"><b>Definition:</b> ArenaTeamFilter.h:82</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00082">ArenaTeamFilterFactoryByUserInput::CreateFilterByUserInput()</a>.</p>
+
+</div>
+</div>
+<a id="a03a46ff29d075ef3207bb12d9a539b5b" name="a03a46ff29d075ef3207bb12d9a539b5b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a03a46ff29d075ef3207bb12d9a539b5b">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST_F </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d74/a28859.html">ArenaTeamFilterTest</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">FilterBySpecificTypes&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   97</span>{</div>
+<div class="line"><span class="lineno">   98</span>    std::vector&lt;uint8&gt; validTypes = {2, 3}; <span class="comment">// Filtering for 2v2 and 3v3</span></div>
+<div class="line"><span class="lineno">   99</span>    <a class="code hl_class" href="../../d0/d09/a07299.html">ArenaTeamFilterByTypes</a> filter(validTypes);</div>
+<div class="line"><span class="lineno">  100</span> </div>
+<div class="line"><span class="lineno">  101</span>    <a class="code hl_typedef" href="../../dd/d99/a07323.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a> result = filter.Filter(arenaTeams);</div>
+<div class="line"><span class="lineno">  102</span> </div>
+<div class="line"><span class="lineno">  103</span>    EXPECT_EQ(result.size(), 2);           <span class="comment">// Only 2v2 and 3v3 should pass</span></div>
+<div class="line"><span class="lineno">  104</span>    EXPECT_EQ(result[1], team1);           <span class="comment">// team1 is 2v2</span></div>
+<div class="line"><span class="lineno">  105</span>    EXPECT_EQ(result[2], team2);           <span class="comment">// team2 is 3v3</span></div>
+<div class="line"><span class="lineno">  106</span>    EXPECT_EQ(result.find(3), result.end()); <span class="comment">// team3 (5v5) should be filtered out</span></div>
+<div class="line"><span class="lineno">  107</span>}</div>
+<div class="ttc" id="aa07299_html"><div class="ttname"><a href="../../d0/d09/a07299.html">ArenaTeamFilterByTypes</a></div><div class="ttdef"><b>Definition:</b> ArenaTeamFilter.h:42</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">ArenaTeamFilterByTypes::Filter()</a>.</p>
 
 </div>
 </div>
@@ -190,8 +305,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_3bf2c71940346ae5daa53b7ea4ecf20c.html">Commands</a></li><li class="navelem"><a class="el" href="../../d4/dcf/a04781.html">GmVisibleCommandTest.cpp</a></li>
-    <li class="footer">Generated on Mon Oct 6 2025 20:44:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_d68c8764f6b69d1180b66c35742ddf05.html">Battlegrounds</a></li><li class="navelem"><a class="el" href="../../dir_3adc8ed69e0e90d16469d218b57e0fdd.html">ArenaSeason</a></li><li class="navelem"><a class="el" href="../../d4/dcf/a04781.html">ArenaTeamFilterTest.cpp</a></li>
+    <li class="footer">Generated on Mon Oct 13 2025 20:44:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

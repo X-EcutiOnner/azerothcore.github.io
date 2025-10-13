@@ -1,6 +1,6 @@
 var a21715 =
 [
-    [ "npc_khunok_the_behemothAI", "db/d4e/a21719.html", "db/d4e/a21719" ],
-    [ "npc_khunok_the_behemoth", "d3/dac/a21715.html#a0370959631c00581495dbd7c37263236", null ],
-    [ "GetAI", "d3/dac/a21715.html#a201aa35dd119d23126b192a1e3786c09", null ]
+    [ "npc_sinkhole_kill_creditAI", "db/d4e/a21719.html", "db/d4e/a21719" ],
+    [ "npc_sinkhole_kill_credit", "d3/dac/a21715.html#a627d01aaaa3408986f2b4d171624e680", null ],
+    [ "GetAI", "d3/dac/a21715.html#a4d734432f132bea2c4525d049fbcfa67", null ]
 ];

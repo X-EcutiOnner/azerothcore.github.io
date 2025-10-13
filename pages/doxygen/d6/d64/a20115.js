@@ -1,6 +1,6 @@
 var a20115 =
 [
-    [ "npc_thorims_hammerAI", "db/dff/a20119.html", "db/dff/a20119" ],
-    [ "npc_thorims_hammer", "d6/d64/a20115.html#a97cbcda73931e6119f8ab30fa4bb0806", null ],
-    [ "GetAI", "d6/d64/a20115.html#aaee92d115d112ebf590cf690de8c6667", null ]
+    [ "npc_mimirons_infernoAI", "db/dff/a20119.html", "db/dff/a20119" ],
+    [ "npc_mimirons_inferno", "d6/d64/a20115.html#a7a531a65a179b5d56c888c055b72d269", null ],
+    [ "GetAI", "d6/d64/a20115.html#a69294c5e8f50727e5f1a6586a8a3682b", null ]
 ];

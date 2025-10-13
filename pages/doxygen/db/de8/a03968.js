@@ -1,7 +1,6 @@
 var a03968 =
 [
-    [ "GetCleanAliasName", "db/de8/a03968.html#ae187308862c39923e2b843bc9d4c989c", null ],
-    [ "GetDefaultValue", "db/de8/a03968.html#a2ea1ae2c2289bdc9068ec9c886d124c8", null ],
-    [ "IsCorrectAlias", "db/de8/a03968.html#a56e834d391c0eb5187d3c7dd0dad88b7", null ],
-    [ "IsCorrectFieldType", "db/de8/a03968.html#a61bef7957f008e8cd937746ba03feb73", null ]
+    [ "CharacterDatabase", "db/de8/a03968.html#a7e7534bc66d79434bd280b77cb124eec", null ],
+    [ "LoginDatabase", "db/de8/a03968.html#a2cf25eafe7f2f73b61ccde11d55daf0c", null ],
+    [ "WorldDatabase", "db/de8/a03968.html#afa9a6509f9913c9c7dd3081523badd7c", null ]
 ];

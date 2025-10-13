@@ -1,28 +1,7 @@
 var a05555 =
 [
-    [ "difference_type", "dd/df2/a05555.html#a87c56269252a45d93cb7a6817d851d9b", null ],
-    [ "iterator_category", "dd/df2/a05555.html#a988e170d51564d1092aa6da6752e45d7", null ],
-    [ "pointer", "dd/df2/a05555.html#ac8f81146b33b0bc3012e1ffa4a066c4d", null ],
-    [ "reference", "dd/df2/a05555.html#a3a0c25745e0fe5d45156cb04a570d1b7", null ],
-    [ "value_type", "dd/df2/a05555.html#a8f03f82f42ecf9d2413bbe4321eb25ef", null ],
-    [ "Iterator", "dd/df2/a05555.html#a0ce72f90a7151eacbd1b4e2c6b764c2b", null ],
-    [ "Iterator", "dd/df2/a05555.html#a4715873446d48c95a8dcd6d0a26644ec", null ],
-    [ "operator!=", "dd/df2/a05555.html#a7db4bcf36157f43d6aafb0f010f268c7", null ],
-    [ "operator*", "dd/df2/a05555.html#a71e22f4402f6c2b524d60462a5c7871d", null ],
-    [ "operator+", "dd/df2/a05555.html#aaf3ff151367f05252d3adad90cf46a06", null ],
-    [ "operator++", "dd/df2/a05555.html#ab50b189c11a20d02c0bfa03939c26f8a", null ],
-    [ "operator++", "dd/df2/a05555.html#a417ee64de4779553841f3b02a69a2051", null ],
-    [ "operator+=", "dd/df2/a05555.html#a096474962457bdbbb1354fcb0a902546", null ],
-    [ "operator-", "dd/df2/a05555.html#a99ebc9aca08c4664a8d64165f0c093d9", null ],
-    [ "operator-", "dd/df2/a05555.html#ae14ad3e01f6e45901058cafb4e336785", null ],
-    [ "operator--", "dd/df2/a05555.html#a2b5f22e68d456cb3271bb6b380adff13", null ],
-    [ "operator--", "dd/df2/a05555.html#ada1d1bd9376c586626bb2e8f5890c1f0", null ],
-    [ "operator-=", "dd/df2/a05555.html#a994f84c3ab6170344a7a835bc32cdd55", null ],
-    [ "operator<", "dd/df2/a05555.html#a836539ad459e13c117be01eb4180c5d7", null ],
-    [ "operator<=", "dd/df2/a05555.html#a356d9bc90663d5085f70acaa7d1c233c", null ],
-    [ "operator==", "dd/df2/a05555.html#ab883fc37f69501bfdaab3e355726652a", null ],
-    [ "operator>", "dd/df2/a05555.html#a79d4cfb0169f0843e5ed6adc8b5f88a0", null ],
-    [ "operator>=", "dd/df2/a05555.html#a986873876a57897cdd23595e0b82aebc", null ],
-    [ "operator[]", "dd/df2/a05555.html#ac6b43ec7c64e8ebe88ef23ec4ccb0616", null ],
-    [ "_index", "dd/df2/a05555.html#a94fb31307e8403b34260bdca8caf0ebd", null ]
+    [ "Count", "dd/df2/a05555.html#aeeb13e953eff5fde8c9edff41ee17806", null ],
+    [ "FromIndex", "dd/df2/a05555.html#a8c6cb9f0a8d3488956904e2141405cf7", null ],
+    [ "ToIndex", "dd/df2/a05555.html#a25cc4ea08020adcf6deac42e2912b1f9", null ],
+    [ "ToString", "dd/df2/a05555.html#a8d3379c79f103655dd49d993402b741d", null ]
 ];

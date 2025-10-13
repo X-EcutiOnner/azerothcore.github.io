@@ -1,7 +1,5 @@
 var a25855 =
 [
-    [ "HandleProc", "df/d56/a25855.html#a8a844ca9970584aa4bcbc0107e923ff5", null ],
-    [ "PrepareAuraScript", "df/d56/a25855.html#a0097e8c7603bf705115958dd5d96f6ad", null ],
-    [ "Register", "df/d56/a25855.html#aca3cd3a1f4738e3e78c879239a80e9cc", null ],
-    [ "Validate", "df/d56/a25855.html#a8df8750f53a7c618eb534f40fb17875e", null ]
+    [ "PrepareSpellScript", "df/d56/a25855.html#a64c8a9156181a78dfcb413eedc47f0ed", null ],
+    [ "Register", "df/d56/a25855.html#af8f8b5901a068bef3e2663809180b3e2", null ]
 ];

@@ -55,5 +55,5 @@ var a00173 =
     [ "ClearGossipMenuFor", "d7/d3f/a00173.html#af077a82741577a63a075c7d40b3b3dc5", null ],
     [ "CloseGossipMenuFor", "d7/d3f/a00173.html#af8f7e54dac5ecc86e92d780c3918cb09", null ],
     [ "SendGossipMenuFor", "d7/d3f/a00173.html#ad893abf2b09592b57715ef4a3222a2b3", null ],
-    [ "SendGossipMenuFor", "d7/d3f/a00173.html#a18599cfc6649557de0d505ed4d4a0210", null ]
+    [ "SendGossipMenuFor", "d7/d3f/a00173.html#ab43ecd551b53630add88fbf882236f78", null ]
 ];

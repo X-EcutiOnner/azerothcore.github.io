@@ -1,8 +1,13 @@
 var a17143 =
 [
-    [ "npc_hor_raging_ghoulAI", "dc/d42/a17143.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
-    [ "JustDied", "dc/d42/a17143.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
-    [ "Reset", "dc/d42/a17143.html#aa52576d94e230797209dfc938d62187f", null ],
-    [ "UpdateAI", "dc/d42/a17143.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
-    [ "leaped", "dc/d42/a17143.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
+    [ "npc_hor_leader_secondAI", "dc/d42/a17143.html#a54a5094dc533755efc249ebc96663b62", null ],
+    [ "DamageTaken", "dc/d42/a17143.html#ae534779315b04b3dde495b13a1cb28e4", null ],
+    [ "DoAction", "dc/d42/a17143.html#a4185259006017e85fade721796851dd0", null ],
+    [ "MovementInform", "dc/d42/a17143.html#afe93165a3e96496b52a2be8de5022164", null ],
+    [ "MoveToNextStopPoint", "dc/d42/a17143.html#a6d9f65386d6f40a5cf96b09ecaf54871", null ],
+    [ "Reset", "dc/d42/a17143.html#ae5d125deab31e6425e94b4523d8251eb", null ],
+    [ "UpdateAI", "dc/d42/a17143.html#ae991e18a6729a1b088c60060802c01c2", null ],
+    [ "currentStopPoint", "dc/d42/a17143.html#ae4bf31530e701f9e0aa4f253452f9881", null ],
+    [ "events", "dc/d42/a17143.html#a3510e246908f4e5b758e05ca06a29e47", null ],
+    [ "pInstance", "dc/d42/a17143.html#a32cebea12e13c87b45dd2a4c6cf495e5", null ]
 ];

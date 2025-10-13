@@ -1,10 +1,12 @@
 var a09051 =
 [
-    [ "Flags", "d2/d92/a09051.html#a5292a64de662f608915844d58199542f", null ],
-    [ "Icon", "d2/d92/a09051.html#ab7460f125e05509baf9331e424b8bacf", null ],
-    [ "ID", "d2/d92/a09051.html#a94b184ecd7c82419fa6d59a59c1d95da", null ],
-    [ "Importance", "d2/d92/a09051.html#a623d8bdc2bf5eea161466340ae8e3cd1", null ],
-    [ "Name", "d2/d92/a09051.html#a45c6eb50f0d56bbdabd6c3b3469c607c", null ],
-    [ "PositionX", "d2/d92/a09051.html#a561763556f1ac77e988c350c37a3a0a1", null ],
-    [ "PositionY", "d2/d92/a09051.html#abec7b2b3e649263f0b963f3fedef60fe", null ]
+    [ "IsTeamAward1", "d2/d92/a09051.html#a25f928a8f8c3a19b1aa9a5c41b0ba612", null ],
+    [ "IsTeamAward2", "d2/d92/a09051.html#a053bd7825d0464ac322b449f3d243722", null ],
+    [ "RepFaction1", "d2/d92/a09051.html#a4e75bb4149f8bb0b83a5aacba47800dd", null ],
+    [ "RepFaction2", "d2/d92/a09051.html#a5934590811c666d06b68216428574d8a", null ],
+    [ "ReputationMaxCap1", "d2/d92/a09051.html#a292b78f629723c3993a796eb256dd9b8", null ],
+    [ "ReputationMaxCap2", "d2/d92/a09051.html#ac90d17e82d6c8a763d3ea868250b44a7", null ],
+    [ "RepValue1", "d2/d92/a09051.html#a4c5f965e028c45d6ad4d5875f76b2458", null ],
+    [ "RepValue2", "d2/d92/a09051.html#a74f46afc59593d7ae71ab65aa9e1f1c2", null ],
+    [ "TeamDependent", "d2/d92/a09051.html#a66e60a90f166e5fc12ea4dbe615c998f", null ]
 ];

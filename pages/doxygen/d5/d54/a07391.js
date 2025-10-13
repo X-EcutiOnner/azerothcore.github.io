@@ -1,9 +1,11 @@
 var a07391 =
 [
-    [ "CapturePointInfo", "d5/d54/a07391.html#a47ba3bbadd15909726e87dc5adc67686", null ],
-    [ "_captured", "d5/d54/a07391.html#aac26833d9951853183095b3985254e03", null ],
-    [ "_iconCapture", "d5/d54/a07391.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
-    [ "_iconNone", "d5/d54/a07391.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
-    [ "_ownerTeamId", "d5/d54/a07391.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
-    [ "_state", "d5/d54/a07391.html#a98cb154218423e295b8007c62222831c", null ]
+    [ "BattlegroundABScore", "d5/d54/a07391.html#ae219ecb551c89ad5a5cb22f1996a598b", null ],
+    [ "BuildObjectivesBlock", "d5/d54/a07391.html#a86ac6e9b19eaa7ed257f25f9f73c22cf", null ],
+    [ "GetAttr1", "d5/d54/a07391.html#af0f066f76f4d84e844946862ae819b4f", null ],
+    [ "GetAttr2", "d5/d54/a07391.html#a8ac00679dd8dfeef81f159b7a2b22027", null ],
+    [ "UpdateScore", "d5/d54/a07391.html#a43aaefd97c8880cbf70381282d81f7cf", null ],
+    [ "BattlegroundAB", "d5/d54/a07391.html#ad5365fcb2edd84180065badd1572ba8e", null ],
+    [ "BasesAssaulted", "d5/d54/a07391.html#a25643abf67d1ae2f8498951c11833994", null ],
+    [ "BasesDefended", "d5/d54/a07391.html#a450504481d335230b3e035d4337694be", null ]
 ];

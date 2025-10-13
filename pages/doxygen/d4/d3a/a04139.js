@@ -1,9 +1,10 @@
 var a04139 =
 [
-    [ "SecretInfo", "dd/d67/a28783.html", "dd/d67/a28783" ],
-    [ "SECRET_FLAG", "d4/d3a/a04139.html#a70a4d0f8c2ee51e0b67794cea19657d1", null ],
-    [ "SECRET_FLAG_FOR", "d4/d3a/a04139.html#a7e7cfdab68c3e6a9600329d157ed30e7", null ],
-    [ "SecretFlags", "d4/d3a/a04139.html#a03463ea440a7f843bdf8415f362a49f5", null ],
-    [ "GetHexFromConfig", "d4/d3a/a04139.html#a39b73180b1b7c528faf5774c3a2a7676", null ],
-    [ "secret_info", "d4/d3a/a04139.html#a7a4c8b2d083fa8310d30aa4b21217766", null ]
+    [ "SecretMgr", "d7/d0b/a28827.html", "d7/d0b/a28827" ],
+    [ "SecretMgr::Secret", "d8/d99/a28831.html", "d8/d99/a28831" ],
+    [ "sSecretMgr", "d4/d3a/a04139.html#a5104e1ebeb8cbf71ec16e9492a3ad622", null ],
+    [ "Secrets", "d4/d3a/a04139.html#ab54b0ec728a299f0ff9e8a7796297a01", [
+      [ "SECRET_TOTP_MASTER_KEY", "d4/d3a/a04139.html#ab54b0ec728a299f0ff9e8a7796297a01a414121b0e05fa3a392ffe0da5afe0fe9", null ],
+      [ "NUM_SECRETS", "d4/d3a/a04139.html#ab54b0ec728a299f0ff9e8a7796297a01a087643d0aa89a708bad0f254697489c6", null ]
+    ] ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Events/firework_show/firework_show.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Events/firework_show/firework_show_Undercity.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,123 +105,85 @@ $(document).ready(function(){initNavTree('d1/d0c/a02570.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
-  <div class="headertitle"><div class="title">firework_show.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">firework_show_Undercity.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaDefines.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">firework_show.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">firework_show_BootyBay.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">firework_show_Exodar.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">firework_show_Ironforge.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">firework_show_Orgrimmar.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">firework_show_Shattrath.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">firework_show_Silvermoon.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">firework_show_Stormwind.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">firework_show_Teldrassil.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">firework_show_ThunderBluff.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">firework_show_Undercity.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameObjectAI.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GameObjectScript.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Timer.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">firework_show.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d46/a14515.html">go_firework_show</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:af7a6296c13b6615a14e0823fe7e5b577"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d0c/a02570.html#af7a6296c13b6615a14e0823fe7e5b577">AddSC_event_firework_show_scripts</a> ()</td></tr>
-<tr class="separator:af7a6296c13b6615a14e0823fe7e5b577"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
-<tr class="memitem:a7e7f0c2a7b605ff7a9a4fb3302ed279e"><td class="memItemLeft" align="right" valign="top">std::map&lt; std::pair&lt; <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;, <a class="el" href="../../d3/d12/a14527.html">FireworkShow</a> const * &gt; const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d0c/a02570.html#a7e7f0c2a7b605ff7a9a4fb3302ed279e">FireworkShowStore</a></td></tr>
-<tr class="separator:a7e7f0c2a7b605ff7a9a4fb3302ed279e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67896d1b367cdcfcbee837b12ee9451c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d05/a14543.html">FireworkShowGameobject</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d0c/a02570.html#a67896d1b367cdcfcbee837b12ee9451c">fireworkShowGameobjectUndercity</a> []</td></tr>
+<tr class="separator:a67896d1b367cdcfcbee837b12ee9451c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab00bea2179a021590447cb30da50fce1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/d82/a14547.html">FireworkShowScheduleEntry</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d0c/a02570.html#ab00bea2179a021590447cb30da50fce1">fireworkShowScheduleUndercity</a> []</td></tr>
+<tr class="separator:ab00bea2179a021590447cb30da50fce1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afd61e001f4ea31858964426d56d2b3cf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/d1d/a14551.html">FireworkShow</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d0c/a02570.html#afd61e001f4ea31858964426d56d2b3cf">fireworkShowUndercity</a></td></tr>
+<tr class="separator:afd61e001f4ea31858964426d56d2b3cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="af7a6296c13b6615a14e0823fe7e5b577" name="af7a6296c13b6615a14e0823fe7e5b577"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af7a6296c13b6615a14e0823fe7e5b577">&#9670;&#160;</a></span>AddSC_event_firework_show_scripts()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void AddSC_event_firework_show_scripts </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  213</span>{</div>
-<div class="line"><span class="lineno">  214</span>    <span class="comment">// Gameobjects</span></div>
-<div class="line"><span class="lineno">  215</span>    <a class="code hl_define" href="../../da/d06/a01403.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a>(<a class="code hl_struct" href="../../d9/d46/a14515.html">go_firework_show</a>);</div>
-<div class="line"><span class="lineno">  216</span>}</div>
-<div class="ttc" id="aa01403_html_a87397a2ba2a1acd88f62793eae9aa30e"><div class="ttname"><a href="../../da/d06/a01403.html#a87397a2ba2a1acd88f62793eae9aa30e">RegisterGameObjectAI</a></div><div class="ttdeci">#define RegisterGameObjectAI(ai_name)</div><div class="ttdef"><b>Definition:</b> GameObjectScript.h:77</div></div>
-<div class="ttc" id="aa14515_html"><div class="ttname"><a href="../../d9/d46/a14515.html">go_firework_show</a></div><div class="ttdef"><b>Definition:</b> firework_show.cpp:49</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">RegisterGameObjectAI</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00031">AddEventsScripts()</a>.</p>
-
-</div>
-</div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="a7e7f0c2a7b605ff7a9a4fb3302ed279e" name="a7e7f0c2a7b605ff7a9a4fb3302ed279e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7e7f0c2a7b605ff7a9a4fb3302ed279e">&#9670;&#160;</a></span>FireworkShowStore</h2>
+<a id="a67896d1b367cdcfcbee837b12ee9451c" name="a67896d1b367cdcfcbee837b12ee9451c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a67896d1b367cdcfcbee837b12ee9451c">&#9670;&#160;</a></span>fireworkShowGameobjectUndercity</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::map&lt;std::pair&lt;<a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;, <a class="el" href="../../d3/d12/a14527.html">FireworkShow</a> const *&gt; const FireworkShowStore</td>
+          <td class="memname"><a class="el" href="../../dd/d05/a14543.html">FireworkShowGameobject</a> const fireworkShowGameobjectUndercity[]</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">= {</div>
-<div class="line">    { { <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3ab550361ae2466ca9dcd5b434f0e665ad">AREA_DUN_MOROGH</a>         }, &amp;<a class="code hl_variable" href="../../d1/d67/a02561.html#aac2063b01976ab49960c5cde832a70dc">fireworkShowIronforge</a>    },</div>
-<div class="line">    { { <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3a38c75f339ee9a17d1e78a9516413efc2">AREA_STRANGLETHORN_VALE</a> }, &amp;<a class="code hl_variable" href="../../d1/d1a/a02546.html#ade8881c3a797a7937c46526f8c8adf99">fireworkShowBootyBay</a>     },</div>
-<div class="line">    { { <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3a3748fb0df84a7002fee04a79b1c26858">AREA_UNDERCITY</a>          }, &amp;<a class="code hl_variable" href="../../db/dab/a02567.html#afd61e001f4ea31858964426d56d2b3cf">fireworkShowUndercity</a>    },</div>
-<div class="line">    { { <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>, <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3ab7b30784be644e9844de24a8aeb78eba">AREA_STORMWIND_CITY</a>     }, &amp;<a class="code hl_variable" href="../../db/d44/a02564.html#a378278257abadcd4369abd66f412d8e6">fireworkShowStormwind</a>    },</div>
-<div class="line">    { { <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad">MAP_KALIMDOR</a>,         <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3ab20c46837fc760d5b36722a5f335ee61">AREA_TELDRASSIL</a>         }, &amp;<a class="code hl_variable" href="../../d8/d1b/a02555.html#a8999f3fc85a14b073f5037adea6f7496">fireworkShowTeldrassil</a>   },</div>
-<div class="line">    { { <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad">MAP_KALIMDOR</a>,         <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3ad2dc06a1b56bb07677ef211cafd8a835">AREA_ORGRIMMAR</a>          }, &amp;<a class="code hl_variable" href="../../d1/d57/a02543.html#a20e15c8e61c734af478a4849bd54c9d3">fireworkShowOrgrimmar</a>    },</div>
-<div class="line">    { { <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad">MAP_KALIMDOR</a>,         <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3af03e74d7f69961f850f6db995248c82a">AREA_THUNDER_BLUFF</a>      }, &amp;<a class="code hl_variable" href="../../d0/df5/a02549.html#ae9cf9fa234ec7db55622bede66c21f78">fireworkShowThunderBluff</a> },</div>
-<div class="line">    { { <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cba63fb1898d9f56087e4e0074752326a94">MAP_OUTLAND</a>,          <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3af9b5bcd5f783106dbbae607924aa54d5">AREA_EVERSONG_WOODS</a>     }, &amp;<a class="code hl_variable" href="../../de/d48/a02552.html#accc2d205eed4478e8e14ed4d88aeeb02">fireworkShowSilvermoon</a>   },</div>
-<div class="line">    { { <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cba63fb1898d9f56087e4e0074752326a94">MAP_OUTLAND</a>,          <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3a4d6c8932bda9ade445520146ebf5f49c">AREA_THE_EXODAR</a>         }, &amp;<a class="code hl_variable" href="../../df/d23/a02558.html#a62ccee24b6a90b61a19256b66e97c1dd">fireworkShowExodar</a>       },</div>
-<div class="line">    { { <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cba63fb1898d9f56087e4e0074752326a94">MAP_OUTLAND</a>,          <a class="code hl_enumvalue" href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3ac93b050927b91c4f1b4644907f707972">AREA_SHATTRATH_CITY</a>     }, &amp;<a class="code hl_variable" href="../../d2/ddf/a02573.html#a5fcd036e2fe28c58f38d59d0ade0e4ed">fireworkShowShattrath</a>    },</div>
-<div class="line">}</div>
-<div class="ttc" id="aa01688_html_a6d57376a08b6ff3944dd9a5930a492cba63fb1898d9f56087e4e0074752326a94"><div class="ttname"><a href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cba63fb1898d9f56087e4e0074752326a94">MAP_OUTLAND</a></div><div class="ttdeci">@ MAP_OUTLAND</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:216</div></div>
-<div class="ttc" id="aa01688_html_a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad"><div class="ttname"><a href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad">MAP_KALIMDOR</a></div><div class="ttdeci">@ MAP_KALIMDOR</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:186</div></div>
-<div class="ttc" id="aa01688_html_a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339"><div class="ttname"><a href="../../d6/d53/a01688.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a></div><div class="ttdeci">@ MAP_EASTERN_KINGDOMS</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:185</div></div>
-<div class="ttc" id="aa01688_html_ad26fccabf338d55f9fdcce090c8a0aa3a3748fb0df84a7002fee04a79b1c26858"><div class="ttname"><a href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3a3748fb0df84a7002fee04a79b1c26858">AREA_UNDERCITY</a></div><div class="ttdeci">@ AREA_UNDERCITY</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:80</div></div>
-<div class="ttc" id="aa01688_html_ad26fccabf338d55f9fdcce090c8a0aa3a38c75f339ee9a17d1e78a9516413efc2"><div class="ttname"><a href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3a38c75f339ee9a17d1e78a9516413efc2">AREA_STRANGLETHORN_VALE</a></div><div class="ttdeci">@ AREA_STRANGLETHORN_VALE</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:37</div></div>
-<div class="ttc" id="aa01688_html_ad26fccabf338d55f9fdcce090c8a0aa3a4d6c8932bda9ade445520146ebf5f49c"><div class="ttname"><a href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3a4d6c8932bda9ade445520146ebf5f49c">AREA_THE_EXODAR</a></div><div class="ttdeci">@ AREA_THE_EXODAR</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:108</div></div>
-<div class="ttc" id="aa01688_html_ad26fccabf338d55f9fdcce090c8a0aa3ab20c46837fc760d5b36722a5f335ee61"><div class="ttname"><a href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3ab20c46837fc760d5b36722a5f335ee61">AREA_TELDRASSIL</a></div><div class="ttdeci">@ AREA_TELDRASSIL</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:54</div></div>
-<div class="ttc" id="aa01688_html_ad26fccabf338d55f9fdcce090c8a0aa3ab550361ae2466ca9dcd5b434f0e665ad"><div class="ttname"><a href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3ab550361ae2466ca9dcd5b434f0e665ad">AREA_DUN_MOROGH</a></div><div class="ttdeci">@ AREA_DUN_MOROGH</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:25</div></div>
-<div class="ttc" id="aa01688_html_ad26fccabf338d55f9fdcce090c8a0aa3ab7b30784be644e9844de24a8aeb78eba"><div class="ttname"><a href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3ab7b30784be644e9844de24a8aeb78eba">AREA_STORMWIND_CITY</a></div><div class="ttdeci">@ AREA_STORMWIND_CITY</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:81</div></div>
-<div class="ttc" id="aa01688_html_ad26fccabf338d55f9fdcce090c8a0aa3ac93b050927b91c4f1b4644907f707972"><div class="ttname"><a href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3ac93b050927b91c4f1b4644907f707972">AREA_SHATTRATH_CITY</a></div><div class="ttdeci">@ AREA_SHATTRATH_CITY</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:117</div></div>
-<div class="ttc" id="aa01688_html_ad26fccabf338d55f9fdcce090c8a0aa3ad2dc06a1b56bb07677ef211cafd8a835"><div class="ttname"><a href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3ad2dc06a1b56bb07677ef211cafd8a835">AREA_ORGRIMMAR</a></div><div class="ttdeci">@ AREA_ORGRIMMAR</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:83</div></div>
-<div class="ttc" id="aa01688_html_ad26fccabf338d55f9fdcce090c8a0aa3af03e74d7f69961f850f6db995248c82a"><div class="ttname"><a href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3af03e74d7f69961f850f6db995248c82a">AREA_THUNDER_BLUFF</a></div><div class="ttdeci">@ AREA_THUNDER_BLUFF</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:84</div></div>
-<div class="ttc" id="aa01688_html_ad26fccabf338d55f9fdcce090c8a0aa3af9b5bcd5f783106dbbae607924aa54d5"><div class="ttname"><a href="../../d6/d53/a01688.html#ad26fccabf338d55f9fdcce090c8a0aa3af9b5bcd5f783106dbbae607924aa54d5">AREA_EVERSONG_WOODS</a></div><div class="ttdeci">@ AREA_EVERSONG_WOODS</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:96</div></div>
-<div class="ttc" id="aa02543_html_a20e15c8e61c734af478a4849bd54c9d3"><div class="ttname"><a href="../../d1/d57/a02543.html#a20e15c8e61c734af478a4849bd54c9d3">fireworkShowOrgrimmar</a></div><div class="ttdeci">FireworkShow const fireworkShowOrgrimmar</div><div class="ttdef"><b>Definition:</b> firework_show_Orgrimmar.h:1604</div></div>
-<div class="ttc" id="aa02546_html_ade8881c3a797a7937c46526f8c8adf99"><div class="ttname"><a href="../../d1/d1a/a02546.html#ade8881c3a797a7937c46526f8c8adf99">fireworkShowBootyBay</a></div><div class="ttdeci">FireworkShow const fireworkShowBootyBay</div><div class="ttdef"><b>Definition:</b> firework_show_BootyBay.h:518</div></div>
-<div class="ttc" id="aa02549_html_ae9cf9fa234ec7db55622bede66c21f78"><div class="ttname"><a href="../../d0/df5/a02549.html#ae9cf9fa234ec7db55622bede66c21f78">fireworkShowThunderBluff</a></div><div class="ttdeci">FireworkShow const fireworkShowThunderBluff</div><div class="ttdef"><b>Definition:</b> firework_show_ThunderBluff.h:1562</div></div>
-<div class="ttc" id="aa02552_html_accc2d205eed4478e8e14ed4d88aeeb02"><div class="ttname"><a href="../../de/d48/a02552.html#accc2d205eed4478e8e14ed4d88aeeb02">fireworkShowSilvermoon</a></div><div class="ttdeci">FireworkShow const fireworkShowSilvermoon</div><div class="ttdef"><b>Definition:</b> firework_show_Silvermoon.h:1414</div></div>
-<div class="ttc" id="aa02555_html_a8999f3fc85a14b073f5037adea6f7496"><div class="ttname"><a href="../../d8/d1b/a02555.html#a8999f3fc85a14b073f5037adea6f7496">fireworkShowTeldrassil</a></div><div class="ttdeci">FireworkShow const fireworkShowTeldrassil</div><div class="ttdef"><b>Definition:</b> firework_show_Teldrassil.h:1306</div></div>
-<div class="ttc" id="aa02558_html_a62ccee24b6a90b61a19256b66e97c1dd"><div class="ttname"><a href="../../df/d23/a02558.html#a62ccee24b6a90b61a19256b66e97c1dd">fireworkShowExodar</a></div><div class="ttdeci">FireworkShow const fireworkShowExodar</div><div class="ttdef"><b>Definition:</b> firework_show_Exodar.h:1275</div></div>
-<div class="ttc" id="aa02561_html_aac2063b01976ab49960c5cde832a70dc"><div class="ttname"><a href="../../d1/d67/a02561.html#aac2063b01976ab49960c5cde832a70dc">fireworkShowIronforge</a></div><div class="ttdeci">FireworkShow const fireworkShowIronforge</div><div class="ttdef"><b>Definition:</b> firework_show_Ironforge.h:1400</div></div>
-<div class="ttc" id="aa02564_html_a378278257abadcd4369abd66f412d8e6"><div class="ttname"><a href="../../db/d44/a02564.html#a378278257abadcd4369abd66f412d8e6">fireworkShowStormwind</a></div><div class="ttdeci">FireworkShow const fireworkShowStormwind</div><div class="ttdef"><b>Definition:</b> firework_show_Stormwind.h:1641</div></div>
-<div class="ttc" id="aa02567_html_afd61e001f4ea31858964426d56d2b3cf"><div class="ttname"><a href="../../db/dab/a02567.html#afd61e001f4ea31858964426d56d2b3cf">fireworkShowUndercity</a></div><div class="ttdeci">FireworkShow const fireworkShowUndercity</div><div class="ttdef"><b>Definition:</b> firework_show_Undercity.h:1263</div></div>
-<div class="ttc" id="aa02573_html_a5fcd036e2fe28c58f38d59d0ade0e4ed"><div class="ttname"><a href="../../d2/ddf/a02573.html#a5fcd036e2fe28c58f38d59d0ade0e4ed">fireworkShowShattrath</a></div><div class="ttdeci">FireworkShow const fireworkShowShattrath</div><div class="ttdef"><b>Definition:</b> firework_show_Shattrath.h:1162</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00059">go_firework_show::InitShow()</a>.</p>
 
+</div>
+</div>
+<a id="ab00bea2179a021590447cb30da50fce1" name="ab00bea2179a021590447cb30da50fce1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab00bea2179a021590447cb30da50fce1">&#9670;&#160;</a></span>fireworkShowScheduleUndercity</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../df/d82/a14547.html">FireworkShowScheduleEntry</a> const fireworkShowScheduleUndercity[]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="afd61e001f4ea31858964426d56d2b3cf" name="afd61e001f4ea31858964426d56d2b3cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afd61e001f4ea31858964426d56d2b3cf">&#9670;&#160;</a></span>fireworkShowUndercity</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/d1d/a14551.html">FireworkShow</a> const fireworkShowUndercity</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<b>Initial value:</b><div class="fragment"><div class="line">=</div>
+<div class="line">{</div>
+<div class="line">    .schedule =</div>
+<div class="line">    {</div>
+<div class="line">        .entries = <a class="code hl_variable" href="../../d1/d0c/a02570.html#ab00bea2179a021590447cb30da50fce1">fireworkShowScheduleUndercity</a>,</div>
+<div class="line">        .size = <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../d1/d0c/a02570.html#ab00bea2179a021590447cb30da50fce1">fireworkShowScheduleUndercity</a>) / <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../d1/d0c/a02570.html#ab00bea2179a021590447cb30da50fce1">fireworkShowScheduleUndercity</a>[0])</div>
+<div class="line">    },</div>
+<div class="line">    .spawns =</div>
+<div class="line">    {</div>
+<div class="line">        .entries = <a class="code hl_variable" href="../../d1/d0c/a02570.html#a67896d1b367cdcfcbee837b12ee9451c">fireworkShowGameobjectUndercity</a>,</div>
+<div class="line">        .size = <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../d1/d0c/a02570.html#a67896d1b367cdcfcbee837b12ee9451c">fireworkShowGameobjectUndercity</a>) / <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../d1/d0c/a02570.html#a67896d1b367cdcfcbee837b12ee9451c">fireworkShowGameobjectUndercity</a>[0])</div>
+<div class="line">    },</div>
+<div class="line">    .revelerId =</div>
+<div class="line">    {</div>
+<div class="line">        <a class="code hl_enumvalue" href="../../d4/d70/a02579.html#ad6101dc8b1197f1113132f0abce2b1efa6ec14bd98619d5e959cb71a3fcf53b75">NPC_UNDERCITY_REVELER</a>,</div>
+<div class="line">        0</div>
+<div class="line">    }</div>
+<div class="line">}</div>
+<div class="ttc" id="aa02570_html_a67896d1b367cdcfcbee837b12ee9451c"><div class="ttname"><a href="../../d1/d0c/a02570.html#a67896d1b367cdcfcbee837b12ee9451c">fireworkShowGameobjectUndercity</a></div><div class="ttdeci">FireworkShowGameobject const fireworkShowGameobjectUndercity[]</div><div class="ttdef"><b>Definition:</b> firework_show_Undercity.h:24</div></div>
+<div class="ttc" id="aa02570_html_ab00bea2179a021590447cb30da50fce1"><div class="ttname"><a href="../../d1/d0c/a02570.html#ab00bea2179a021590447cb30da50fce1">fireworkShowScheduleUndercity</a></div><div class="ttdeci">FireworkShowScheduleEntry const fireworkShowScheduleUndercity[]</div><div class="ttdef"><b>Definition:</b> firework_show_Undercity.h:87</div></div>
+<div class="ttc" id="aa02579_html_ad6101dc8b1197f1113132f0abce2b1efa6ec14bd98619d5e959cb71a3fcf53b75"><div class="ttname"><a href="../../d4/d70/a02579.html#ad6101dc8b1197f1113132f0abce2b1efa6ec14bd98619d5e959cb71a3fcf53b75">NPC_UNDERCITY_REVELER</a></div><div class="ttdeci">@ NPC_UNDERCITY_REVELER</div><div class="ttdef"><b>Definition:</b> firework_show.h:56</div></div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -229,8 +191,8 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_c818e5878076a3731e7c7d0d4061bd6b.html">Events</a></li><li class="navelem"><a class="el" href="../../dir_86b42cc1a54e6d04672764bc481d77b5.html">firework_show</a></li><li class="navelem"><a class="el" href="../../d1/d0c/a02570.html">firework_show.cpp</a></li>
-    <li class="footer">Generated on Mon Oct 6 2025 20:44:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_c818e5878076a3731e7c7d0d4061bd6b.html">Events</a></li><li class="navelem"><a class="el" href="../../dir_86b42cc1a54e6d04672764bc481d77b5.html">firework_show</a></li><li class="navelem"><a class="el" href="../../d1/d0c/a02570.html">firework_show_Undercity.h</a></li>
+    <li class="footer">Generated on Mon Oct 13 2025 20:44:14 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,17 +1,13 @@
 var a06263 =
 [
-    [ "WorldBossAI", "d8/df3/a06263.html#aad7ffc5fb8215f6bf36fe72aef40c9e1", null ],
-    [ "~WorldBossAI", "d8/df3/a06263.html#a2877e6056f3ff51c625d46d5b7d7d008", null ],
-    [ "_JustDied", "d8/df3/a06263.html#a72e92da9585e41f742ee0ff964340230", null ],
-    [ "_JustEngagedWith", "d8/df3/a06263.html#a451c933079bd3b887079b15b74c22b5e", null ],
-    [ "_Reset", "d8/df3/a06263.html#ac11f7b51038891d8e10427ca10aa516c", null ],
-    [ "ExecuteEvent", "d8/df3/a06263.html#a477e7bc0bcf1ba99d64cffddbfa0c6d2", null ],
-    [ "JustDied", "d8/df3/a06263.html#a012c70e390c46b8f326b91014091b3d7", null ],
-    [ "JustEngagedWith", "d8/df3/a06263.html#ab84cb945e773c41d22b682996c744768", null ],
-    [ "JustSummoned", "d8/df3/a06263.html#aa783665ce6e43e76a18515f511f82efb", null ],
-    [ "Reset", "d8/df3/a06263.html#ad19a91bf2344f531e01db07efd04c395", null ],
-    [ "SummonedCreatureDespawn", "d8/df3/a06263.html#af7a1e062b13d997def99c077a79cd12f", null ],
-    [ "UpdateAI", "d8/df3/a06263.html#a31686947c399d780ea5220dae5e4820b", null ],
-    [ "events", "d8/df3/a06263.html#abba6c74269442b0bbfe94ab583904485", null ],
-    [ "summons", "d8/df3/a06263.html#adb0612a97ccab6c817d9fa69b63cfff7", null ]
+    [ "HealthCheckEventData", "d8/df3/a06263.html#a2610f9688b27212eb3470f55718c61f0", null ],
+    [ "GetDelay", "d8/df3/a06263.html#a9bab6c9834517c4260f814f258d52d5c", null ],
+    [ "HasBeenProcessed", "d8/df3/a06263.html#abe8549b1e96fc3ea7e4154cd30ff5389", null ],
+    [ "IsPending", "d8/df3/a06263.html#a367c865eb488a2a95ce7e98536ccb311", null ],
+    [ "UpdateStatus", "d8/df3/a06263.html#aae2283a58be68424fbe01c37a29e1c5e", null ],
+    [ "_allowedWhileCasting", "d8/df3/a06263.html#aff327c455fbd912579725956c99c3a2d", null ],
+    [ "_delay", "d8/df3/a06263.html#ad23fcf00ca53ef2772185b2008a84de5", null ],
+    [ "_exec", "d8/df3/a06263.html#a66c38460690d77fb021c91fa676c3a12", null ],
+    [ "_healthPct", "d8/df3/a06263.html#a420edc39ff982d55ae82207a0cfe7689", null ],
+    [ "_status", "d8/df3/a06263.html#a787509d0963c134539e4dec7525b5608", null ]
 ];

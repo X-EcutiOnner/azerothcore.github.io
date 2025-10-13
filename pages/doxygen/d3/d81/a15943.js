@@ -1,6 +1,5 @@
 var a15943 =
 [
-    [ "instance_zulfarrak_InstanceMapScript", "d2/dd7/a15947.html", "d2/dd7/a15947" ],
-    [ "instance_zulfarrak", "d3/d81/a15943.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
-    [ "GetInstanceScript", "d3/d81/a15943.html#a5f092341e49848c9d321452be2193d56", null ]
+    [ "go_elune_fire", "d3/d81/a15943.html#a84d1b8e5a10e57cf717e10e413cb6027", null ],
+    [ "OnGossipHello", "d3/d81/a15943.html#a31e3cad89090bb7d2933e8758dbb56c4", null ]
 ];

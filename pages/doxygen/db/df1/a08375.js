@@ -1,5 +1,7 @@
 var a08375 =
 [
-    [ "ItemStatType", "db/df1/a08375.html#a8643f062d325b5048c839525db56af3e", null ],
-    [ "ItemStatValue", "db/df1/a08375.html#a5a5ee42445d9121f186c084dfbc31425", null ]
+    [ "EnchStoreItem", "db/df1/a08375.html#a89019e156774c5b978251479264e5463", null ],
+    [ "EnchStoreItem", "db/df1/a08375.html#aca83bb20eb6153faeaf599b07b97e357", null ],
+    [ "chance", "db/df1/a08375.html#a2d3d0cd28c79402b3625694d4676ed8b", null ],
+    [ "ench", "db/df1/a08375.html#ac2346b6c6c5c09bb63676d72c798d848", null ]
 ];

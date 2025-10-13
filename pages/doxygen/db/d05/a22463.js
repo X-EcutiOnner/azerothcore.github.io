@@ -1,6 +1,6 @@
 var a22463 =
 [
-    [ "HandleScript", "db/d05/a22463.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
-    [ "PrepareSpellScript", "db/d05/a22463.html#a5a4ce9453638d61fe52514240f0a9384", null ],
-    [ "Register", "db/d05/a22463.html#a889f931aaa37d3a283f4d585b384a68e", null ]
+    [ "npc_vics_flying_machineAI", "d9/d64/a22467.html", "d9/d64/a22467" ],
+    [ "npc_vics_flying_machine", "db/d05/a22463.html#ac0f1e83a9f53f1e38e81804f0332e3fd", null ],
+    [ "GetAI", "db/d05/a22463.html#aac2a7cabd2e87705e9a1b3bfebb89eae", null ]
 ];

@@ -1,10 +1,11 @@
 var a03422 =
 [
-    [ "spell_razelikh_teleport_group", "d1/da4/a13703.html", "d1/da4/a13703" ],
-    [ "DeathlyUsher", "d3/dff/a03422.html#aaff0e89586a03a5c2b80f93a4fe0ded7", [
-      [ "SPELL_TELEPORT_SINGLE", "d3/dff/a03422.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3cdd675db7120b3a968f19df07485e7d", null ],
-      [ "SPELL_TELEPORT_SINGLE_IN_GROUP", "d3/dff/a03422.html#aaff0e89586a03a5c2b80f93a4fe0ded7a138ccf86c6441c7347a973d3e04c62a5", null ],
-      [ "SPELL_TELEPORT_GROUP", "d3/dff/a03422.html#aaff0e89586a03a5c2b80f93a4fe0ded7a3efb41f1943511af5c5c1abbced10dcc", null ]
+    [ "npc_the_scourge_cauldron", "db/d80/a13971.html", "db/d80/a13971" ],
+    [ "npc_the_scourge_cauldron::npc_the_scourge_cauldronAI", "d0/dc9/a13975.html", "d0/dc9/a13975" ],
+    [ "npc_andorhal_tower", "df/d2e/a13979.html", "df/d2e/a13979" ],
+    [ "npc_andorhal_tower::npc_andorhal_towerAI", "d3/d21/a13983.html", "d3/d21/a13983" ],
+    [ "AndorhalTower", "d3/dff/a03422.html#a07061f0cf471fb1cb236b428c31965c8", [
+      [ "GO_BEACON_TORCH", "d3/dff/a03422.html#a07061f0cf471fb1cb236b428c31965c8ace3e47469a19c76e79a7ae1ca2b4f798", null ]
     ] ],
-    [ "AddSC_blasted_lands", "d3/dff/a03422.html#a8c45aaff0bee880d1bac07d32d1747f1", null ]
+    [ "AddSC_western_plaguelands", "d3/dff/a03422.html#a978fbc9b0f23371fedcca17926c637cb", null ]
 ];

@@ -1,6 +1,9 @@
 var a08739 =
 [
-    [ "ResetToHomeOrientation", "d5/df0/a08739.html#a1009ddced98cc6fae6108aa36dfba671", null ],
-    [ "Execute", "d5/df0/a08739.html#ad46e2d8f0ae0a13bc40ebfaf8c3249aa", null ],
-    [ "_self", "d5/df0/a08739.html#a5233190cd777c3d65f2e1c4ce1d6efb2", null ]
+    [ "ProcTriggeredData", "d5/df0/a08739.html#a37c5cbfd0b916b950a0e638223394de4", null ],
+    [ "operator==", "d5/df0/a08739.html#a787760cbd8a6ee5192975bc514886159", null ],
+    [ "aura", "d5/df0/a08739.html#a5138144d49900690bb15a5f66b763eac", null ],
+    [ "effMask", "d5/df0/a08739.html#a1c2bfb3e0016ba823e12b3defe373790", null ],
+    [ "spellProcEvent", "d5/df0/a08739.html#ac6e491a7ef478d271d3c74d7b9df577e", null ],
+    [ "triggerSpelId", "d5/df0/a08739.html#abfd99a1e3beb871a3cbf83d7578ec98a", null ]
 ];

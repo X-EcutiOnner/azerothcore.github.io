@@ -1,10 +1,10 @@
 var a25027 =
 [
-    [ "HandleEffectApply", "de/d7f/a25027.html#ac977d07e0b054af33345538f10d80c56", null ],
-    [ "HandleEffectRemove", "de/d7f/a25027.html#acd9c460acb60eae5db8874c246014147", null ],
-    [ "PrepareAuraScript", "de/d7f/a25027.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
-    [ "Register", "de/d7f/a25027.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
-    [ "_hasFlag", "de/d7f/a25027.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
-    [ "_itemId", "de/d7f/a25027.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
-    [ "_modelId", "de/d7f/a25027.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
+    [ "Load", "de/d7f/a25027.html#a2c4e408e45995098b01a05815fffb34c", null ],
+    [ "OnApply", "de/d7f/a25027.html#acae1047046bb8f555d1798ca024a2650", null ],
+    [ "OnRemove", "de/d7f/a25027.html#aa01df2b86cf69508866f6e7d063c735a", null ],
+    [ "PrepareAuraScript", "de/d7f/a25027.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
+    [ "Register", "de/d7f/a25027.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
+    [ "Validate", "de/d7f/a25027.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
+    [ "_casterGUID", "de/d7f/a25027.html#a8047fb4309487c7a529047ec5148a2e3", null ]
 ];

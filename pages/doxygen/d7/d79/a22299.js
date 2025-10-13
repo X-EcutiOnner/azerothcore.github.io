@@ -1,6 +1,9 @@
 var a22299 =
 [
-    [ "npc_boneguard_footmanAI", "d7/d79/a22299.html#a04eff1976824724b321f0c0d95e0940a", null ],
-    [ "UpdateAI", "d7/d79/a22299.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
-    [ "checkTimer", "d7/d79/a22299.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
+    [ "npc_lord_areteAI", "d7/d79/a22299.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
+    [ "InitializeAI", "d7/d79/a22299.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
+    [ "UpdateAI", "d7/d79/a22299.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
+    [ "_landgrenGUID", "d7/d79/a22299.html#ac0e3753096dfe779024acc8400791171", null ],
+    [ "_landgrenSoulGUID", "d7/d79/a22299.html#aaa28c67691610136f0b418b30892f3cd", null ],
+    [ "events", "d7/d79/a22299.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
 ];

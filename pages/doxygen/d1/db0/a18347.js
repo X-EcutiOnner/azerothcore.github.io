@@ -1,8 +1,15 @@
 var a18347 =
 [
-    [ "FilterTargets", "d1/db0/a18347.html#a14e392760361b95578bc95de10cdd8aa", null ],
-    [ "HandleForcedCast", "d1/db0/a18347.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
-    [ "PrepareSpellScript", "d1/db0/a18347.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
-    [ "Register", "d1/db0/a18347.html#ac2105e66f692c6a991ac9190b1901505", null ],
-    [ "Validate", "d1/db0/a18347.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
+    [ "npc_sindragosa_trashAI", "d1/db0/a18347.html#a7401a422bc4c2140c631bc118f396f25", null ],
+    [ "GetData", "d1/db0/a18347.html#a701b8189869bf20d2b3da31b73aed9da", null ],
+    [ "InitializeAI", "d1/db0/a18347.html#a3a8b341c7304faa2c238305f9dde29b0", null ],
+    [ "JustEngagedWith", "d1/db0/a18347.html#a0a7a0012105dea55fe4c8b51d9df5fc7", null ],
+    [ "JustRespawned", "d1/db0/a18347.html#a6438b9f864f178dc4e35e24a48066980", null ],
+    [ "Reset", "d1/db0/a18347.html#a823df6bb8b36ab38aa059e6d1313f2c0", null ],
+    [ "SetData", "d1/db0/a18347.html#a4aaa7f3963b24ac03e2fb8aaea7b62b2", null ],
+    [ "UpdateAI", "d1/db0/a18347.html#a12b995cc8c836efbf0eecc6591c85ff4", null ],
+    [ "_events", "d1/db0/a18347.html#ab789c21e742fe261f9f8aa63509a7d45", null ],
+    [ "_frostwyrmId", "d1/db0/a18347.html#ac2853246532bd913211fc743f4723ce0", null ],
+    [ "_instance", "d1/db0/a18347.html#aa2199507fdabe850b6af9a5ae0283fdc", null ],
+    [ "_isTaunted", "d1/db0/a18347.html#a50632ee1a85936748aabc5fb10f5e982", null ]
 ];

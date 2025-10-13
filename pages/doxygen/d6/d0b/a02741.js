@@ -1,7 +1,11 @@
 var a02741 =
 [
-    [ "instance_trial_of_the_crusader", "d8/d13/a16835.html", "d8/d13/a16835" ],
-    [ "instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript", "d8/d6f/a16839.html", "d8/d6f/a16839" ],
-    [ "AddSC_instance_trial_of_the_crusader", "d6/d0b/a02741.html#af823cabf441f9e6a5443da42df4fda4f", null ],
-    [ "validDedicatedInsanityItems", "d6/d0b/a02741.html#ad29a01125872f689fb9953e9b3beb8e8", null ]
+    [ "npc_announcer_toc10", "d8/dc2/a16851.html", "d8/dc2/a16851" ],
+    [ "MenuTexts", "d6/d0b/a02741.html#a5e87c460d493df2d4629af8c1a30fc5a", [
+      [ "MSG_TESTED", "d6/d0b/a02741.html#a5e87c460d493df2d4629af8c1a30fc5aa462de44eca88c95eb9e412dcabc36185", null ],
+      [ "MSG_NEXT_STAGE", "d6/d0b/a02741.html#a5e87c460d493df2d4629af8c1a30fc5aafb4b982343fbe7bdd8db85adec53db80", null ],
+      [ "MSG_CRUSADERS", "d6/d0b/a02741.html#a5e87c460d493df2d4629af8c1a30fc5aa0f20061fedbed395c6723105b82e091d", null ],
+      [ "MSG_ANUBARAK", "d6/d0b/a02741.html#a5e87c460d493df2d4629af8c1a30fc5aad43353382c7c2b60068aa5b306b62643", null ]
+    ] ],
+    [ "AddSC_trial_of_the_crusader", "d6/d0b/a02741.html#aae8fa1928137dde06462a753ceebcca6", null ]
 ];

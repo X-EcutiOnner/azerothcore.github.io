@@ -1,17 +1,10 @@
 var a09951 =
 [
-    [ "GraveyardContainer", "d8/d7d/a09951.html#a21ce8ad954d37b385e339c5247f17ffd", null ],
-    [ "AddGraveyardLink", "d8/d7d/a09951.html#ab4884f2b2b4f00dd9ea65c1ceb2af1bb", null ],
-    [ "FindGraveyardData", "d8/d7d/a09951.html#a54a4461db550d5383fded30a6ecd0408", null ],
-    [ "GetClosestGraveyard", "d8/d7d/a09951.html#af989ee1a2f802a0cb5addf50a0586d63", null ],
-    [ "GetDefaultGraveyard", "d8/d7d/a09951.html#ab6ef1306db71eb2f2d72167314d5e1c2", null ],
-    [ "GetGraveyard", "d8/d7d/a09951.html#addd1a184b9791c8c6a74fb228545741b", null ],
-    [ "GetGraveyard", "d8/d7d/a09951.html#aeb72f07dd677dfe31d0e4b45f2f9ddd6", null ],
-    [ "GetGraveyardData", "d8/d7d/a09951.html#ab9ebb6afa55d30e64d460b81f9297f09", null ],
-    [ "instance", "d8/d7d/a09951.html#aaaf39d71af738cac8dd427ca94a5689b", null ],
-    [ "LoadGraveyardFromDB", "d8/d7d/a09951.html#aff7880b8c557fac494e3b8213a048f32", null ],
-    [ "LoadGraveyardZones", "d8/d7d/a09951.html#ac398379a421eabea55729e867d57383f", null ],
-    [ "RemoveGraveyardLink", "d8/d7d/a09951.html#af957c28b4ccfc7b1853280b7441c958d", null ],
-    [ "_graveyardStore", "d8/d7d/a09951.html#a77fb8dad0ae4ea7af0823c0bcafba787", null ],
-    [ "GraveyardStore", "d8/d7d/a09951.html#afe83a8248fa6617b868cadd0699af96e", null ]
+    [ "ID", "d8/d7d/a09951.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
+    [ "Map", "d8/d7d/a09951.html#af4e60380e8434e5b8f573d2172ddf656", null ],
+    [ "name", "d8/d7d/a09951.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
+    [ "wnameLow", "d8/d7d/a09951.html#a148ead3270ad02213204792d6063cead", null ],
+    [ "x", "d8/d7d/a09951.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
+    [ "y", "d8/d7d/a09951.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
+    [ "z", "d8/d7d/a09951.html#adf56d09898752230a4fa1629849ac945", null ]
 ];

@@ -1,7 +1,9 @@
 var a14115 =
 [
-    [ "HandleEffect", "df/d36/a14115.html#a8cda8eff109af7441d6990a236a52b80", null ],
-    [ "PrepareSpellScript", "df/d36/a14115.html#acc2698ba702be211bef63cefa41005f4", null ],
-    [ "Register", "df/d36/a14115.html#a5d6dccbb44a5d95055755673ad70707f", null ],
-    [ "Validate", "df/d36/a14115.html#a0b106298aa550e4fe9e8a449ed7eaa51", null ]
+    [ "npc_amanishi_lookout", "df/d36/a14115.html#adf34c160c531164a459092f45588a7be", null ],
+    [ "DoAction", "df/d36/a14115.html#ab43e3372000af268c81e2701070e1b03", null ],
+    [ "MoveInLineOfSight", "df/d36/a14115.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
+    [ "MovementInform", "df/d36/a14115.html#ae9e6d22a781392107a7e50e5815c116c", null ],
+    [ "Reset", "df/d36/a14115.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
+    [ "_instance", "df/d36/a14115.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
 ];

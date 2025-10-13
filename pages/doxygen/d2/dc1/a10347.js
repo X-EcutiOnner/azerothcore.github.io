@@ -1,7 +1,6 @@
 var a10347 =
 [
-    [ "GameEventScript", "d2/dc1/a10347.html#ac43a9c70638ad56b69b5841ee8410374", null ],
-    [ "OnEventCheck", "d2/dc1/a10347.html#aadab9593da561e9b19202d09b53cba36", null ],
-    [ "OnStart", "d2/dc1/a10347.html#a0e61a9e1379aef55af93a593af84a3cc", null ],
-    [ "OnStop", "d2/dc1/a10347.html#a4813f26f03e5ba79a740bf30558e604c", null ]
+    [ "ElunaScript", "d2/dc1/a10347.html#a1b4a815f484b4048f7e1fa7ec5282eef", null ],
+    [ "CanAreaTrigger", "d2/dc1/a10347.html#a47f8793586dd27dd4eb42eb5379828b0", null ],
+    [ "OnWeatherChange", "d2/dc1/a10347.html#af09f40df2d02a57c92d7e05d19f35549", null ]
 ];

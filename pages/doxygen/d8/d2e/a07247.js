@@ -1,11 +1,7 @@
 var a07247 =
 [
-    [ "WGWorkshop", "d8/d2e/a07247.html#a2d2d7b24ec77275f24efa54d31e98bbb", null ],
-    [ "GiveControlTo", "d8/d2e/a07247.html#a6b69312f4ffa562b0e8fdcf5da3568d3", null ],
-    [ "Save", "d8/d2e/a07247.html#adede1c780178f20dc8339320a021e4b6", null ],
-    [ "UpdateGraveyardAndWorkshop", "d8/d2e/a07247.html#a2ff11801fb50cd3a463c44fafbddaed4", null ],
-    [ "bf", "d8/d2e/a07247.html#ae2b7e050289ad5922ddcd73c6da9f5a5", null ],
-    [ "state", "d8/d2e/a07247.html#a279d47c85843e884edef1f82b9654cd8", null ],
-    [ "teamControl", "d8/d2e/a07247.html#a196c8d0094a34c18835840e046fd39ef", null ],
-    [ "workshopId", "d8/d2e/a07247.html#a42d7337c67e4f19886b0ec86f0e60596", null ]
+    [ "attackText", "d8/d2e/a07247.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
+    [ "id", "d8/d2e/a07247.html#a7f28adc30e9293df2f2c124469550d75", null ],
+    [ "takenText", "d8/d2e/a07247.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
+    [ "worldstate", "d8/d2e/a07247.html#a342ef087df4f9326952728c2192a3da3", null ]
 ];

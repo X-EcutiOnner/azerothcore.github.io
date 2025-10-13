@@ -1,12 +1,5 @@
 var a20691 =
 [
-    [ "npc_ulduar_flames_initialAI", "de/da1/a20691.html#a5d7202463d12fbdfcc5efdfba786ca19", null ],
-    [ "DoAction", "de/da1/a20691.html#a6169d12043e73e7991064decccf0926a", null ],
-    [ "RemoveAll", "de/da1/a20691.html#a2c39dd0d4d8040db5b18af1c1b27071a", null ],
-    [ "RemoveFlame", "de/da1/a20691.html#ab992d2df928b9ca2699ca48e64fb2606", null ],
-    [ "SpreadFlame", "de/da1/a20691.html#ae801181472a8e29208a4f305fb0307f9", null ],
-    [ "UpdateAI", "de/da1/a20691.html#a9d628d32d3519d0e7152c772e540b7ef", null ],
-    [ "CreateTime", "de/da1/a20691.html#ae50820bb38d0ed61b8687b4023aac5b9", null ],
-    [ "events", "de/da1/a20691.html#a89217e11f9930b336665969791fc84b9", null ],
-    [ "FlameList", "de/da1/a20691.html#a75b218699a42ece4959d0a1fe40713d7", null ]
+    [ "go_ulduar_do_not_push_this_button", "de/da1/a20691.html#aa204af213a643c001161e0c2f173ee6b", null ],
+    [ "OnGossipHello", "de/da1/a20691.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
 ];

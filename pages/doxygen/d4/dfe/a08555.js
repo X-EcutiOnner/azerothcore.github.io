@@ -1,12 +1,7 @@
 var a08555 =
 [
-    [ "SpellModifier", "d4/dfe/a08555.html#adba5fad6b904d09a43be7302e7eb62bd", null ],
-    [ "charges", "d4/dfe/a08555.html#a1aaf71299c2dd27b58a049d252efdee8", null ],
-    [ "mask", "d4/dfe/a08555.html#aba1b01bf3486d61cc1876b03078a35ee", null ],
-    [ "op", "d4/dfe/a08555.html#a21d017f0c8d3108a0eb5f48798103356", null ],
-    [ "ownerAura", "d4/dfe/a08555.html#a5e180553fb4739eb7f947da70fbe7ef8", null ],
-    [ "priority", "d4/dfe/a08555.html#a163a81b49cfdeb73236ee930d6f24673", null ],
-    [ "spellId", "d4/dfe/a08555.html#a465803efab27b2ba0a49c6571b65b908", null ],
-    [ "type", "d4/dfe/a08555.html#a22f64b9c021f5a87f30f01ef117ebb0b", null ],
-    [ "value", "d4/dfe/a08555.html#a31742662ba8112c9e9b972897a928e57", null ]
+    [ "IsInSpec", "d4/dfe/a08555.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
+    [ "Active", "d4/dfe/a08555.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
+    [ "specMask", "d4/dfe/a08555.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
+    [ "State", "d4/dfe/a08555.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
 ];

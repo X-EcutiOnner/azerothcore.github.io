@@ -1,8 +1,10 @@
 var a14875 =
 [
-    [ "hyjalTyrandeAI", "d3/dca/a14875.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
-    [ "JustDied", "d3/dca/a14875.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
-    [ "JustEngagedWith", "d3/dca/a14875.html#a158589b567d22c8f6e0be462bad8299d", null ],
-    [ "Reset", "d3/dca/a14875.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
-    [ "UpdateAI", "d3/dca/a14875.html#a9e825f9d87df6227b73eb965488eff8a", null ]
+    [ "boss_rage_winterchill", "d3/dca/a14875.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
+    [ "DoAction", "d3/dca/a14875.html#a45333aea6d6a180473ca4823ea83920a", null ],
+    [ "JustDied", "d3/dca/a14875.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
+    [ "JustEngagedWith", "d3/dca/a14875.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
+    [ "KilledUnit", "d3/dca/a14875.html#a69d69530a080379add7be73c552f4937", null ],
+    [ "PathEndReached", "d3/dca/a14875.html#aec47befdf3246710a5158780fa797fa7", null ],
+    [ "_recentlySpoken", "d3/dca/a14875.html#ae2141b4ea1d10cb74146aec63d65214c", null ]
 ];

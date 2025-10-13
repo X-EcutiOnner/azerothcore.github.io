@@ -1,26 +1,5 @@
 var a08671 =
 [
-    [ "PlayerTaxi", "db/d3b/a08671.html#a33cfc1b5bf7cc5eb253855967a532d8b", null ],
-    [ "~PlayerTaxi", "db/d3b/a08671.html#ab8ba2e4cebd37f540e45d1f41cf46fb4", null ],
-    [ "AddTaxiDestination", "db/d3b/a08671.html#a1ecef7f42bb7197ce7c6ca35c7010ec3", null ],
-    [ "AppendTaximaskTo", "db/d3b/a08671.html#ab18bdbd8b7e04949d6d4b9adfabf8451", null ],
-    [ "ClearTaxiDestinations", "db/d3b/a08671.html#ab4422be16e69b1f32bce002ab71ab5a5", null ],
-    [ "empty", "db/d3b/a08671.html#a76919e4ba603f6a1b88a3c213767e09d", null ],
-    [ "GetCurrentTaxiPath", "db/d3b/a08671.html#ae4a6a1a97932c90ca79a282f131711e7", null ],
-    [ "GetFlightMasterFactionTemplate", "db/d3b/a08671.html#a487e2760da8446a3c34dddc2d4c5c0f5", null ],
-    [ "GetPath", "db/d3b/a08671.html#a031051c85f1ce8fb8ab172c86bb4382b", null ],
-    [ "GetTaxiDestination", "db/d3b/a08671.html#aa54293e7ea1125b0e7dd2a79f9a7e0a0", null ],
-    [ "GetTaxiSource", "db/d3b/a08671.html#a4313e575d9bd2a60852f5e944f79ac71", null ],
-    [ "InitTaxiNodesForLevel", "db/d3b/a08671.html#ae63c6941e0e8b7c0920cc1f255641e4d", null ],
-    [ "IsTaximaskNodeKnown", "db/d3b/a08671.html#a76220474a42fc4207bb6f40b589a6511", null ],
-    [ "LoadTaxiDestinationsFromString", "db/d3b/a08671.html#a6261b2b052d1a8385a480372450c7191", null ],
-    [ "LoadTaxiMask", "db/d3b/a08671.html#a010941cce9bf3b9c37d951c2ece4b3d4", null ],
-    [ "NextTaxiDestination", "db/d3b/a08671.html#aa417f33d57d94db8c8aa9df56e329835", null ],
-    [ "SaveTaxiDestinationsToString", "db/d3b/a08671.html#a0cffd730b09becde5f65882bc5c0832c", null ],
-    [ "SetFlightMasterFactionTemplateId", "db/d3b/a08671.html#a2be37f977bdf5dc787e1923b4d1ed12e", null ],
-    [ "SetTaximaskNode", "db/d3b/a08671.html#a34a9653fbdc2b4a7c86a990fcc080e64", null ],
-    [ "operator<<", "db/d3b/a08671.html#aa8a947319a6f00895a3c443f5cb258ad", null ],
-    [ "m_flightMasterFactionId", "db/d3b/a08671.html#a52ed114d167bcc8079fe37c410b25b31", null ],
-    [ "m_TaxiDestinations", "db/d3b/a08671.html#a3aff323ba6dfee2f8776efb49e3ebfbf", null ],
-    [ "m_taximask", "db/d3b/a08671.html#abf0d776badac2d25cf823609d5fec799", null ]
+    [ "bgQueueTypeId", "db/d3b/a08671.html#a171a9be34883429a97f6f2e3035b5fca", null ],
+    [ "invitedToInstance", "db/d3b/a08671.html#a5efaf8479d7afb8c24e7f3389ad9c8cf", null ]
 ];

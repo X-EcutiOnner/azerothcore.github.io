@@ -1,18 +1,28 @@
 var a03848 =
 [
-    [ "OutdoorPvPSI", "dc/d41/a22775.html", "dc/d41/a22775" ],
-    [ "OutdoorPvPSISpells", "de/de6/a03848.html#a62a8c4b8a007cc2da63e91f039a9b0f5", [
-      [ "SI_SILITHYST_FLAG_GO_SPELL", "de/de6/a03848.html#a62a8c4b8a007cc2da63e91f039a9b0f5add71e365726ced6250de08c4c883f055", null ],
-      [ "SI_SILITHYST_FLAG", "de/de6/a03848.html#a62a8c4b8a007cc2da63e91f039a9b0f5a1bf0ed27bacc509ec19e1648e1a9ec74", null ],
-      [ "SI_TRACES_OF_SILITHYST", "de/de6/a03848.html#a62a8c4b8a007cc2da63e91f039a9b0f5a8f61c4e11367451aa4b95455a9086410", null ],
-      [ "SI_CENARION_FAVOR", "de/de6/a03848.html#a62a8c4b8a007cc2da63e91f039a9b0f5a113a47f651228b031a6d40c36d34d2fb", null ]
+    [ "OPvPCapturePointHP", "d5/dd7/a22751.html", "d5/dd7/a22751" ],
+    [ "OutdoorPvPHP", "dc/d82/a22755.html", "dc/d82/a22755" ],
+    [ "OutdoorPvPHPBuffZonesNum", "de/de6/a03848.html#a01aada98c8079ea71a361cba06e10640", null ],
+    [ "OutdoorPvPHPSpells", "de/de6/a03848.html#a09664100577cc20866b21589f3c1eb4a", [
+      [ "AlliancePlayerKillReward", "de/de6/a03848.html#a09664100577cc20866b21589f3c1eb4aad472ab0479934282573d2a2b142ecddc", null ],
+      [ "HordePlayerKillReward", "de/de6/a03848.html#a09664100577cc20866b21589f3c1eb4aa831169d26f4b6d47dc372629927d7e45", null ],
+      [ "AllianceBuff", "de/de6/a03848.html#a09664100577cc20866b21589f3c1eb4aa426e0e0ba254467f65dbcecd1cb3451a", null ],
+      [ "HordeBuff", "de/de6/a03848.html#a09664100577cc20866b21589f3c1eb4aab7ca0ff835377a499cd163afa9ddfaa2", null ]
     ] ],
-    [ "OutdoorPvPSIBuffZones", "de/de6/a03848.html#a155bfb73bcc562d8eaaa4d62d52e59bc", null ],
-    [ "OutdoorPvPSIBuffZonesNum", "de/de6/a03848.html#aaf633cff2fc1b3449acb7753f698c4d4", null ],
-    [ "SI_AREATRIGGER_A", "de/de6/a03848.html#aca1406dea9e721dc32c834e8b85b2d9a", null ],
-    [ "SI_AREATRIGGER_H", "de/de6/a03848.html#abb17804eb9913c298a5dae804e1c7206", null ],
-    [ "SI_MAX_RESOURCES", "de/de6/a03848.html#a9558d0ea12ff1048686daf5bf0ff999c", null ],
-    [ "SI_SILITHYST_MOUND", "de/de6/a03848.html#a5a6a1265e5e65971f8d86be718ea3bb3", null ],
-    [ "SI_TURNIN_QUEST_CM_A", "de/de6/a03848.html#a18c47c74867642b4bd8cc166d9fe1e79", null ],
-    [ "SI_TURNIN_QUEST_CM_H", "de/de6/a03848.html#ad1787da9136bc956357571149e1f6b60", null ]
+    [ "OutdoorPvPHPTowerType", "de/de6/a03848.html#ad618152baad1f5a1d7f70f40941e8f33", [
+      [ "HP_TOWER_BROKEN_HILL", "de/de6/a03848.html#ad618152baad1f5a1d7f70f40941e8f33ac441f3412d9e7d328a88cb288f56bfd9", null ],
+      [ "HP_TOWER_OVERLOOK", "de/de6/a03848.html#ad618152baad1f5a1d7f70f40941e8f33a8c33cdd1da9aa64b4a329b18f6f54447", null ],
+      [ "HP_TOWER_STADIUM", "de/de6/a03848.html#ad618152baad1f5a1d7f70f40941e8f33a7fda380ac328f409fa311478cd32be84", null ],
+      [ "HP_TOWER_NUM", "de/de6/a03848.html#ad618152baad1f5a1d7f70f40941e8f33a83bc78133ae0c9793e647dad81a62355", null ]
+    ] ],
+    [ "HP_CREDITMARKER", "de/de6/a03848.html#a3be5b978c2160f84a013071d76c121aa", null ],
+    [ "HP_MAP_A", "de/de6/a03848.html#ab540dae1c3c44e27c4441e9d56e10d1d", null ],
+    [ "HP_MAP_H", "de/de6/a03848.html#ab15c51d80dc177784041dedc55e39c56", null ],
+    [ "HP_MAP_N", "de/de6/a03848.html#a8a39817e7479fa79181e8c99bb83ca5c", null ],
+    [ "HP_TowerArtKit_A", "de/de6/a03848.html#ab9c6e470e4a4759ce2e77f88661521bb", null ],
+    [ "HP_TowerArtKit_H", "de/de6/a03848.html#a6791490624d9d1c2995c6a13659f8692", null ],
+    [ "HP_TowerArtKit_N", "de/de6/a03848.html#ae64775fc45fae501937d72c9d55c8dc1", null ],
+    [ "HPCapturePoints", "de/de6/a03848.html#a23f671f25a8a3e3db11f4a0953b34773", null ],
+    [ "HPTowerFlags", "de/de6/a03848.html#ae6571d986fbbf7b469cf495033f46516", null ],
+    [ "OutdoorPvPHPBuffZones", "de/de6/a03848.html#a876ea3aeffde8ab2532706d13ae6e2ce", null ]
 ];

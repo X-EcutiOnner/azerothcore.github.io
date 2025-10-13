@@ -1,7 +1,6 @@
 var a15927 =
 [
-    [ "npc_ranshallaAI", "d1/d5c/a15931.html", "d1/d5c/a15931" ],
-    [ "npc_ranshalla", "db/de4/a15927.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
-    [ "GetAI", "db/de4/a15927.html#a1a81651366cc05d3ad6e9929160fe059", null ],
-    [ "OnQuestAccept", "db/de4/a15927.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
+    [ "SayerEntry", "db/de4/a15927.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
+    [ "SayTimer", "db/de4/a15927.html#a942073f24fd12da712184243d9f098f2", null ],
+    [ "TextEntry", "db/de4/a15927.html#a360822e4c069be6019c0a465cb2499cf", null ]
 ];

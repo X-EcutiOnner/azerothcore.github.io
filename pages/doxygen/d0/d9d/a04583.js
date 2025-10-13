@@ -1,4 +1,4 @@
 var a04583 =
 [
-    [ "Acore::Encoding::Base32", "df/d5e/a05351.html", "df/d5e/a05351" ]
+    [ "Acore::Impl::GenericBaseEncoding< Encoding >", "db/da4/a05367.html", "db/da4/a05367" ]
 ];

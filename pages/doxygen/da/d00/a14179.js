@@ -1,5 +1,8 @@
 var a14179 =
 [
-    [ "at_zulgurub_bloodfire_pit_speech", "da/d00/a14179.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
-    [ "_OnTrigger", "da/d00/a14179.html#a8f1e477942ba9a5f653077632a98930f", null ]
+    [ "boss_grilekAI", "da/d00/a14179.html#aea4d151ce75bf2cdf6d6910c369daf17", null ],
+    [ "JustEngagedWith", "da/d00/a14179.html#a76d2cddd8ebfc4df400ef43f8c5aa936", null ],
+    [ "Reset", "da/d00/a14179.html#acd8ce07ab3ef576580df16c0176fcaf3", null ],
+    [ "UpdateAI", "da/d00/a14179.html#a19438103c9a582a7d36d805c80131e8c", null ],
+    [ "_pursuitTargetGUID", "da/d00/a14179.html#ad20779cdb8d82ae8a54c12a8d4b0bada", null ]
 ];

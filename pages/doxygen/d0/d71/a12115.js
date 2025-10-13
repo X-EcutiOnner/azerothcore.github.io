@@ -1,6 +1,6 @@
 var a12115 =
 [
-    [ "boss_magmusAI", "d8/d4f/a12119.html", "d8/d4f/a12119" ],
-    [ "boss_magmus", "d0/d71/a12115.html#a97747c0d7e1fd33204033d6061d6d570", null ],
-    [ "GetAI", "d0/d71/a12115.html#a171bc08a8dd9fa502f3b2b6cf736fd52", null ]
+    [ "boss_gorosh_the_dervishAI", "d8/d4f/a12119.html", "d8/d4f/a12119" ],
+    [ "boss_gorosh_the_dervish", "d0/d71/a12115.html#a18c39f21ebf6a9d43d37eb92857083a3", null ],
+    [ "GetAI", "d0/d71/a12115.html#abae1fa2a7e959d1b7b02e0850aff4fb9", null ]
 ];

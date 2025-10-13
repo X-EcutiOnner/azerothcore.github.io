@@ -1,6 +1,6 @@
 var a24703 =
 [
-    [ "HandleAfterCast", "de/d93/a24703.html#aaa65e67362ded5318e89272acf073bf3", null ],
-    [ "PrepareSpellScript", "de/d93/a24703.html#a7d0dd936965845c14e7b54846facdb89", null ],
-    [ "Register", "de/d93/a24703.html#ab7b767743d62d9763bea710b7552a8cf", null ]
+    [ "HandlePeriodic", "de/d93/a24703.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
+    [ "PrepareAuraScript", "de/d93/a24703.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
+    [ "Register", "de/d93/a24703.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
 ];

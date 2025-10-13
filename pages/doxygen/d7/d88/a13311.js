@@ -1,7 +1,6 @@
 var a13311 =
 [
-    [ "npc_apothecary_genericAI", "d7/d88/a13311.html#afb2b04b51e28d0795e7781effa68dffd", null ],
-    [ "DoAction", "d7/d88/a13311.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
-    [ "MovementInform", "d7/d88/a13311.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
-    [ "_movePos", "d7/d88/a13311.html#a53d10ab64df212b043cc21e054f6528c", null ]
+    [ "instance_scholomance_InstanceMapScript", "d3/d7c/a13315.html", "d3/d7c/a13315" ],
+    [ "instance_scholomance", "d7/d88/a13311.html#ace7a781c45623419daad6143480d8fe2", null ],
+    [ "GetInstanceScript", "d7/d88/a13311.html#a9e2030e41154c92dbe45d7895ddf37b8", null ]
 ];

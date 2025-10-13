@@ -1,6 +1,6 @@
 var a21663 =
 [
-    [ "npc_azure_spellbreakerAI", "d3/d79/a21667.html", "d3/d79/a21667" ],
-    [ "npc_azure_spellbreaker", "d3/d28/a21663.html#a36f09ff7a60a04e6dd99bc37146000f8", null ],
-    [ "GetAI", "d3/d28/a21663.html#a7b2e89c33deef7fb5237b271dd5b0d12", null ]
+    [ "npc_azure_stalkerAI", "d3/d79/a21667.html", "d3/d79/a21667" ],
+    [ "npc_azure_stalker", "d3/d28/a21663.html#ad069edc43b4f489e0b2c7aa4952eeb63", null ],
+    [ "GetAI", "d3/d28/a21663.html#a1c067809f98a4d7845d2fb4269742274", null ]
 ];

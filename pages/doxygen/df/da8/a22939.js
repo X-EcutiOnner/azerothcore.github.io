@@ -1,6 +1,7 @@
 var a22939 =
 [
-    [ "FilterTargets", "df/da8/a22939.html#abd3fafc2120b7069790dd9822cd62adc", null ],
-    [ "PrepareSpellScript", "df/da8/a22939.html#aebc0441481a2c458fc904175df931a9e", null ],
-    [ "Register", "df/da8/a22939.html#af1173988538ad44c27ea2ed9d49fe06d", null ]
+    [ "HandleProc", "df/da8/a22939.html#a4d12ab1b286105fdad5eb2dd20131408", null ],
+    [ "PrepareAuraScript", "df/da8/a22939.html#a94b6499dc2e1fa95a50bd9c3c491e858", null ],
+    [ "Register", "df/da8/a22939.html#a6b764182501a1d192f90dc20bbd6549e", null ],
+    [ "Validate", "df/da8/a22939.html#ad89123425cca5bd02a18526a11595a1a", null ]
 ];

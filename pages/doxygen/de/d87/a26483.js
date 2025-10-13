@@ -1,7 +1,10 @@
 var a26483 =
 [
-    [ "HandleApplyEffect", "de/d87/a26483.html#af95120b26a165196e0310956c245f36f", null ],
-    [ "HandleRemoveEffect", "de/d87/a26483.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
-    [ "PrepareAuraScript", "de/d87/a26483.html#ae19e002407db1466f0655db3d14fe0d7", null ],
-    [ "Register", "de/d87/a26483.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
+    [ "CheckProc", "de/d87/a26483.html#adce0da60782bcdadbb42ec1c73fddec1", null ],
+    [ "HandleProc", "de/d87/a26483.html#a82218c6f6319c60c26a7d4ec01b64bf9", null ],
+    [ "Load", "de/d87/a26483.html#ab9054a6d771022e4bf2b495c30ad8361", null ],
+    [ "PrepareAuraScript", "de/d87/a26483.html#ab8f483be4d01aa2460c90b043d7a441b", null ],
+    [ "Register", "de/d87/a26483.html#a4cb08499767ab58f0e525c382b662fbd", null ],
+    [ "Validate", "de/d87/a26483.html#aa6165f28706d49940dd1f62065631119", null ],
+    [ "_procTarget", "de/d87/a26483.html#a7b9426e18b454bf631992518c2bdbde0", null ]
 ];

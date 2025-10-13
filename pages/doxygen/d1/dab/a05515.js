@@ -1,6 +1,8 @@
 var a05515 =
 [
-    [ "LambdaBasicEvent", "d1/dab/a05515.html#a4244b5e91413d71076d9cc3af230aed8", null ],
-    [ "Execute", "d1/dab/a05515.html#a8771a49f00554372b5ed38816abbd253", null ],
-    [ "_callback", "d1/dab/a05515.html#a2660ba5053b9ad6a1c4231bd32359999", null ]
+    [ "Event", "d1/dab/a05515.html#acd0d1988a60808384e2cc0dba8735cd3", null ],
+    [ "Event", "d1/dab/a05515.html#a0c6f6d46b2210c42e41fbeb1241c9e7d", null ],
+    [ "_groupMask", "d1/dab/a05515.html#a7f752259eafab986537db2d70c56d211", null ],
+    [ "_id", "d1/dab/a05515.html#a7b60d3d526fd45833d87165d8356f896", null ],
+    [ "_phaseMask", "d1/dab/a05515.html#afce8fa5e187a1c2110a06c70707db247", null ]
 ];

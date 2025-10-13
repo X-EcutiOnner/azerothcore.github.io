@@ -1,4 +1,4 @@
 var a04604 =
 [
-    [ "BasicStatementTask", "d1/d9f/a05714.html", "d1/d9f/a05714" ]
+    [ "LogOperation", "dc/d06/a05407.html", "dc/d06/a05407" ]
 ];

@@ -1,11 +1,13 @@
 var a14279 =
 [
-    [ "boss_marli", "dc/d78/a14279.html#abba94b400523047bfa9e3a5b34b1ee54", null ],
-    [ "_chargePlayer", "dc/d78/a14279.html#a54efa8663716fb32d6e390b76dc89ee1", null ],
-    [ "_schedulePhaseSpider", "dc/d78/a14279.html#aff86376080fdcb9773e0a4b2751d3ae6", null ],
-    [ "_schedulePhaseTroll", "dc/d78/a14279.html#ad6977930dac1cddd2162f7db1b239c83", null ],
-    [ "JustDied", "dc/d78/a14279.html#a10ab29949ef17e0f9ebd991dc70262c7", null ],
-    [ "JustEngagedWith", "dc/d78/a14279.html#ac74bd382c3dc826f7e4426bec3557094", null ],
-    [ "Reset", "dc/d78/a14279.html#ada18ae0feb0c512267ec6bd83b8ac591", null ],
-    [ "_phase", "dc/d78/a14279.html#af2b3f0e75ad60b6a9d013a3e9654021e", null ]
+    [ "npc_ohganAI", "dc/d78/a14279.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
+    [ "JustDied", "dc/d78/a14279.html#a89e506868e3191362545e34d21528b8f", null ],
+    [ "JustEngagedWith", "dc/d78/a14279.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
+    [ "KilledUnit", "dc/d78/a14279.html#a4e202eef928e54bd52160705bba5cc35", null ],
+    [ "Reset", "dc/d78/a14279.html#ac3e1bc9dc819138741eb3b4448051547", null ],
+    [ "SetGUID", "dc/d78/a14279.html#a575531a144c46ae3084e56e452125f16", null ],
+    [ "UpdateAI", "dc/d78/a14279.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
+    [ "_scheduler", "dc/d78/a14279.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
+    [ "instance", "dc/d78/a14279.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
+    [ "reviveGUID", "dc/d78/a14279.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
 ];

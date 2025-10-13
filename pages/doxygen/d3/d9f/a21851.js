@@ -1,6 +1,6 @@
 var a21851 =
 [
-    [ "npc_counselor_talbotAI", "df/db1/a21855.html", "df/db1/a21855" ],
-    [ "npc_counselor_talbot", "d3/d9f/a21851.html#a9223380bb78afeda617482bea0a3110c", null ],
-    [ "GetAI", "d3/d9f/a21851.html#a3debd13352146a247d635042ecbfa155", null ]
+    [ "npc_leryssaAI", "df/db1/a21855.html", "df/db1/a21855" ],
+    [ "npc_leryssa", "d3/d9f/a21851.html#a549bed4476f88c313e6b42c0fe1fffb8", null ],
+    [ "GetAI", "d3/d9f/a21851.html#a4725831580b206d91dbd8c21a703893f", null ]
 ];

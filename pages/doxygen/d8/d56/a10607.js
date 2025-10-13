@@ -1,5 +1,6 @@
 var a10607 =
 [
-    [ "GuildGetRoster", "d8/d56/a10607.html#a9beccc6ee2416633c57d2da31fdc021a", null ],
-    [ "Read", "d8/d56/a10607.html#af795ad992ec1b55d741227bd2d4a62d1", null ]
+    [ "QueryGuildInfo", "d8/d56/a10607.html#a34b129b3c9fef61aa4211a9bc2783aef", null ],
+    [ "Read", "d8/d56/a10607.html#a0396a58ca114706f7de91f51c5ab949d", null ],
+    [ "GuildId", "d8/d56/a10607.html#ad221eecdb16233251306fff3d9801f38", null ]
 ];

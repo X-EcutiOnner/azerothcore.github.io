@@ -1,8 +1,7 @@
 var a26063 =
 [
-    [ "HandleDummy", "de/d1f/a26063.html#ae73e0d900e5b33f47bf2ba45d8ab26ce", null ],
-    [ "Load", "de/d1f/a26063.html#a5c0e5de94faca0c2841153f7a099d2eb", null ],
-    [ "PrepareSpellScript", "de/d1f/a26063.html#af89de259afbab436326a67b9eb7833ad", null ],
-    [ "Register", "de/d1f/a26063.html#a78ffb20ccc10c3c632934af862273716", null ],
-    [ "Validate", "de/d1f/a26063.html#ace6bdf4755f1d1c95011bb782cb2e59e", null ]
+    [ "HandleDummy", "de/d1f/a26063.html#ad6d449ac393851166d8be653639c7d05", null ],
+    [ "PrepareSpellScript", "de/d1f/a26063.html#acb0b66631c0b3df227ee371e2e4000ac", null ],
+    [ "Register", "de/d1f/a26063.html#a8dcd509be4d9034e8c0262bdcb2cf189", null ],
+    [ "Validate", "de/d1f/a26063.html#af8f4e6bb32120c8113ddddcda17ae51d", null ]
 ];

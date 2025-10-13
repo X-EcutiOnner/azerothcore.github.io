@@ -1,6 +1,9 @@
 var a14735 =
 [
-    [ "OnAuraRemove", "d7/dc1/a14735.html#ad16e8b64999771154360afad71454c07", null ],
-    [ "PrepareAuraScript", "d7/dc1/a14735.html#a70963be80861e10ecd093e40b77e7078", null ],
-    [ "Register", "d7/dc1/a14735.html#a7381cbea873fb57485e4539aa478d236", null ]
+    [ "HandlePeriodic", "d7/dc1/a14735.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
+    [ "Load", "d7/dc1/a14735.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
+    [ "PrepareAuraScript", "d7/dc1/a14735.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
+    [ "Register", "d7/dc1/a14735.html#ac331de3219ae7da9e35e962011540bdf", null ],
+    [ "Validate", "d7/dc1/a14735.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
+    [ "_buffGiven", "d7/dc1/a14735.html#aec2476ad5e046213b90af04ad91f0230", null ]
 ];

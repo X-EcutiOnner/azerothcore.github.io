@@ -1,7 +1,8 @@
 var a26931 =
 [
-    [ "HandleDummy", "db/d36/a26931.html#a00d36b914f5fd0466ae775e1fc95aa4f", null ],
-    [ "PrepareSpellScript", "db/d36/a26931.html#a86a5c2b8ff373af7e98645b8b380145c", null ],
-    [ "Register", "db/d36/a26931.html#a1b879ab84b8d6227ee5b2cccccd38bc2", null ],
-    [ "Validate", "db/d36/a26931.html#aa7d437146a96bb40c1a66a453e3e4339", null ]
+    [ "ApplyDebuff", "db/d36/a26931.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
+    [ "PrepareSpellScript", "db/d36/a26931.html#aa37525d089348f58e3d871830caa3417", null ],
+    [ "Register", "db/d36/a26931.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
+    [ "RemoveInvalidTargets", "db/d36/a26931.html#a0451b75aa962065a01a5806992e01b16", null ],
+    [ "Validate", "db/d36/a26931.html#ac69d777fdf7a2d3c527621dee256690c", null ]
 ];

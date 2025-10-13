@@ -1,5 +1,9 @@
 var a28375 =
 [
-    [ "BitIndex", "d3/d76/a28375.html#a55fdf966aec0ca687cd6074683af6e7f", null ],
-    [ "ItemId", "d3/d76/a28375.html#a998c1f6dadb823fbba56bb2154396635", null ]
+    [ "CinematicSequence", "d3/d76/a28375.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
+    [ "ClassID", "d3/d76/a28375.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
+    [ "expansion", "d3/d76/a28375.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
+    [ "name", "d3/d76/a28375.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
+    [ "powerType", "d3/d76/a28375.html#a74aec35dc161a7e830453b9365a6f107", null ],
+    [ "spellfamily", "d3/d76/a28375.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
 ];

@@ -1,8 +1,8 @@
 var a21651 =
 [
-    [ "npc_azure_raiderAI", "d4/d9c/a21651.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
-    [ "Reset", "d4/d9c/a21651.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
-    [ "UpdateAI", "d4/d9c/a21651.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
-    [ "uiConcussionBlowTimer", "d4/d9c/a21651.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
-    [ "uiMagicReflectionTimer", "d4/d9c/a21651.html#acb262ab506ea58201abfe2057525c548", null ]
+    [ "npc_azure_mage_slayerAI", "d4/d9c/a21651.html#af1a57574d70a48b16d70d8a056f54018", null ],
+    [ "Reset", "d4/d9c/a21651.html#aabe921f0d4fd147c457779791a7af619", null ],
+    [ "UpdateAI", "d4/d9c/a21651.html#a7cc5ea88be6c9cf767a0cd433db7dd73", null ],
+    [ "uiArcaneEmpowermentTimer", "d4/d9c/a21651.html#ace0fdd5e4b57e7ce603d2355bfc838dd", null ],
+    [ "uiSpellLockTimer", "d4/d9c/a21651.html#ac3c4d2be0dd9ba42e40adccda7100947", null ]
 ];

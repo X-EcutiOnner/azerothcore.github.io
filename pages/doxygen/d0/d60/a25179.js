@@ -1,6 +1,6 @@
 var a25179 =
 [
-    [ "HandleOnEffectHit", "d0/d60/a25179.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "d0/d60/a25179.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "d0/d60/a25179.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "OnPeriodic", "d0/d60/a25179.html#a5fdf44f34765d0386d5c5490620c944a", null ],
+    [ "PrepareAuraScript", "d0/d60/a25179.html#a3c3044795e183eef2c801781100b11c7", null ],
+    [ "Register", "d0/d60/a25179.html#a1221c3287c3fd7add356e84430508684", null ]
 ];

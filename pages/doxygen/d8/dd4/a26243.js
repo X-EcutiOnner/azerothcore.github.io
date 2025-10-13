@@ -1,8 +1,7 @@
 var a26243 =
 [
-    [ "Absorb", "d8/dd4/a26243.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
-    [ "CalculateAmount", "d8/dd4/a26243.html#a20d5b4776ebeb859b0641af640e41d80", null ],
-    [ "PrepareAuraScript", "d8/dd4/a26243.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
-    [ "Register", "d8/dd4/a26243.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
-    [ "Validate", "d8/dd4/a26243.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
+    [ "CalcPeriodic", "d8/dd4/a26243.html#a404e5309016cfcaa3071c0216978699e", null ],
+    [ "PrepareAuraScript", "d8/dd4/a26243.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
+    [ "Register", "d8/dd4/a26243.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
+    [ "AuraEffectHandleModes", "d8/dd4/a26243.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
 ];

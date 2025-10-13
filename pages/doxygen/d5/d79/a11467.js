@@ -1,6 +1,6 @@
 var a11467 =
 [
-    [ "EffectUpdatePeriodicHandler", "d5/d79/a11467.html#a6b18a259aa84c847bcc064c5243eb590", null ],
-    [ "Call", "d5/d79/a11467.html#a38802863e7859453cbbe58ad91018c67", null ],
-    [ "pEffectHandlerScript", "d5/d79/a11467.html#a0e51245e089fcd9532d5789056ab944c", null ]
+    [ "ObjectAreaTargetSelectHandler", "d5/d79/a11467.html#a89b86436bb1de38223165e7ef60f2b61", null ],
+    [ "Call", "d5/d79/a11467.html#a11d2070610d178006231bac274d1f311", null ],
+    [ "pObjectAreaTargetSelectHandlerScript", "d5/d79/a11467.html#a118ca963c6319802806913762c4d1fec", null ]
 ];

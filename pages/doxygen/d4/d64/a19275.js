@@ -1,15 +1,17 @@
 var a19275 =
 [
-    [ "boss_kelthuzad_minionAI", "d4/d64/a19275.html#addeb3112e8b6da5713e6c25878c7e785", null ],
-    [ "AttackStart", "d4/d64/a19275.html#ae6e2b0dd529f819b5b62348059dacb02", null ],
-    [ "DoAction", "d4/d64/a19275.html#acd08aa78c1620f5552bbbc77c06b4344", null ],
-    [ "JustDied", "d4/d64/a19275.html#abc6db76c9dcdbdb1c51b7f67d4c39551", null ],
-    [ "JustEngagedWith", "d4/d64/a19275.html#a135dd028f95eeb34b2852e8dafebbe63", null ],
-    [ "JustReachedHome", "d4/d64/a19275.html#aedfaf037ddf66d0e3aa990b4ea5b171c", null ],
-    [ "KilledUnit", "d4/d64/a19275.html#ac8a2297a89310f4902fdc544ef71b673", null ],
-    [ "MoveInLineOfSight", "d4/d64/a19275.html#aee871ff356bcfd38162a5f6c9bd3c994", null ],
-    [ "Reset", "d4/d64/a19275.html#a01db0df4ec5f49d0915e90c418ebba75", null ],
-    [ "UpdateAI", "d4/d64/a19275.html#ad60ec485144e447fd9d43b0cd5d6c87c", null ],
-    [ "callHelp", "d4/d64/a19275.html#a6c6935e058bc18c013bc31f03f5a914b", null ],
-    [ "events", "d4/d64/a19275.html#a2885d65bfaf345e7c3dfa42d8c80a892", null ]
+    [ "boss_kelthuzadAI", "d4/d64/a19275.html#a3fa1e67bf942824cd40c5591f4e63a08", null ],
+    [ "EnterEvadeMode", "d4/d64/a19275.html#ac99064d95afff73680df1fe96749665a", null ],
+    [ "JustDied", "d4/d64/a19275.html#a49066a2fa1dc424a27262706c8af046a", null ],
+    [ "JustEngagedWith", "d4/d64/a19275.html#a8fd3938c0e91a0773eacba9fbdb4a60e", null ],
+    [ "JustSummoned", "d4/d64/a19275.html#a0b305ec3029d149c3ca273cb7ba52e1b", null ],
+    [ "KilledUnit", "d4/d64/a19275.html#ad2fa9b4d11b158e3fadf0c304be6b431", null ],
+    [ "MoveInLineOfSight", "d4/d64/a19275.html#a440b758486cd95b7884fe2ce9bdfb28f", null ],
+    [ "NormalizeOrientation", "d4/d64/a19275.html#a21ac290b79119d47b7509b04b34ea16e", null ],
+    [ "Reset", "d4/d64/a19275.html#a5df92ebc5bd4ee8d06b17e31381be8c4", null ],
+    [ "SpawnHelpers", "d4/d64/a19275.html#ad81fa9c3449ba347de09b1519be6d408", null ],
+    [ "SummonHelper", "d4/d64/a19275.html#a3a21a45072144b6f0421733466770267", null ],
+    [ "UpdateAI", "d4/d64/a19275.html#a3004d23e6eaa3f2ef5942e96e0c17308", null ],
+    [ "events", "d4/d64/a19275.html#a1ac1341c022c65f46b30a9c70b3f37ba", null ],
+    [ "summons", "d4/d64/a19275.html#a4b8a2fcda2e9f4e3944c3527dd6afb1e", null ]
 ];

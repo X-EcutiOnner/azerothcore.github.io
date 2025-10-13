@@ -1,5 +1,7 @@
 var a28391 =
 [
-    [ "Id", "dc/d79/a28391.html#a79e4b857b811a044aed0ce33422df801", null ],
-    [ "quality_mod", "dc/d79/a28391.html#a756e7b316cc365f15f24e5e4637303a6", null ]
+    [ "Displayid", "dc/d79/a28391.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
+    [ "ExtendedDisplayInfoID", "dc/d79/a28391.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
+    [ "ModelId", "dc/d79/a28391.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
+    [ "scale", "dc/d79/a28391.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
 ];

@@ -1,9 +1,6 @@
 var a26335 =
 [
-    [ "CountTargets", "df/d62/a26335.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
-    [ "HandleDummy", "df/d62/a26335.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
-    [ "PrepareSpellScript", "df/d62/a26335.html#adfb7e3fbb52aa349573b95c457823900", null ],
-    [ "Register", "df/d62/a26335.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
-    [ "Validate", "df/d62/a26335.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
-    [ "_targetCount", "df/d62/a26335.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
+    [ "FilterTargets", "df/d62/a26335.html#aad5d183d0d7ea229cbfc11f751536624", null ],
+    [ "PrepareSpellScript", "df/d62/a26335.html#a68ba19142ae6eb04a2547495233700df", null ],
+    [ "Register", "df/d62/a26335.html#a22c313409438f94d29ab3e236a56c115", null ]
 ];

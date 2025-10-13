@@ -1,6 +1,11 @@
 var a16399 =
 [
-    [ "HandleScript", "d5/df8/a16399.html#a647f39eb125537cd7545ab4115be1091", null ],
-    [ "PrepareSpellScript", "d5/df8/a16399.html#a55dec84643f9bd536c7c73b5909ab303", null ],
-    [ "Register", "d5/df8/a16399.html#a0077abbe11092b9636c3bb7b5c367946", null ]
+    [ "boss_saviana_ragefireAI", "d5/df8/a16399.html#ab4fa6a2cc57c9d110bfd3cf16a016942", null ],
+    [ "JustDied", "d5/df8/a16399.html#a30331f9cdb141cd2dbc043888b48a6eb", null ],
+    [ "JustEngagedWith", "d5/df8/a16399.html#a458eb370872c20441b5ec6ecd2c97500", null ],
+    [ "JustReachedHome", "d5/df8/a16399.html#a74abf893a37874eb98aa5ba9883e8d62", null ],
+    [ "KilledUnit", "d5/df8/a16399.html#ac07513681c72d6748246cc7c349d117c", null ],
+    [ "MovementInform", "d5/df8/a16399.html#aed4c70f571586c8cbcc044c01bdc472d", null ],
+    [ "Reset", "d5/df8/a16399.html#a4b7f103331c566cbf007a075161505af", null ],
+    [ "UpdateAI", "d5/df8/a16399.html#af36ca2a359f950a10214d07aad240324", null ]
 ];

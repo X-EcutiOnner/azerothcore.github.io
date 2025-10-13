@@ -1,6 +1,6 @@
 var a20955 =
 [
-    [ "npc_xt002_life_sparkAI", "d6/d4a/a20959.html", "d6/d4a/a20959" ],
-    [ "npc_xt002_life_spark", "db/df7/a20955.html#a9644718d192708e391b833468a0ff21e", null ],
-    [ "GetAI", "db/df7/a20955.html#a09a1ce332d55fad146947c94bb53f564", null ]
+    [ "npc_xt002_boombotAI", "d6/d4a/a20959.html", "d6/d4a/a20959" ],
+    [ "npc_xt002_boombot", "db/df7/a20955.html#a6e2f7dd0d26d140a5b73b0f66ea434af", null ],
+    [ "GetAI", "db/df7/a20955.html#a27237e7a60042ed7163b19d80537c1b3", null ]
 ];

@@ -1,16 +1,12 @@
 var a11151 =
 [
-    [ "Player", "d1/dfb/a11151.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "WorldSession", "d1/dfb/a11151.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "CharCount", "d1/dfb/a11151.html#aad61b8ca0caf09d6b62ee9fffd78cceb", null ],
-    [ "Class", "d1/dfb/a11151.html#a41e354593f59bc8546688a37c2a5e504", null ],
-    [ "Face", "d1/dfb/a11151.html#aba49d87691e9d2b10d430450c3f66493", null ],
-    [ "FacialHair", "d1/dfb/a11151.html#a5a88b2c2556dd1239c417ea4fcc55287", null ],
-    [ "Gender", "d1/dfb/a11151.html#ac4ed75d1527549051a92cbb958fa8eb4", null ],
-    [ "HairColor", "d1/dfb/a11151.html#a0ded70bbcf30bba4de4ac0ee88fb6eb6", null ],
-    [ "HairStyle", "d1/dfb/a11151.html#aa4b2800384a89a5c30c2edb7ff567865", null ],
-    [ "Name", "d1/dfb/a11151.html#a4f81603fda1ae148e6d6174ea8d861fe", null ],
-    [ "OutfitId", "d1/dfb/a11151.html#a15baddc70b46d48bd9f128e73aaac606", null ],
-    [ "Race", "d1/dfb/a11151.html#aeee5ee1a2dc34e1b2ad1f8edd31679ff", null ],
-    [ "Skin", "d1/dfb/a11151.html#a0fbfb41f3fd0c9d0ba2bfc7f04df648e", null ]
+    [ "PacketLog", "d1/dfb/a11151.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
+    [ "~PacketLog", "d1/dfb/a11151.html#a595a42f9aaa94d6c46d185955df801e0", null ],
+    [ "CanLogPacket", "d1/dfb/a11151.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
+    [ "Initialize", "d1/dfb/a11151.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
+    [ "instance", "d1/dfb/a11151.html#a484418a51ca0bf150d17b23d97979bf4", null ],
+    [ "LogPacket", "d1/dfb/a11151.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
+    [ "_file", "d1/dfb/a11151.html#a03346a709f7586f6445e03b9a3b6af04", null ],
+    [ "_initializeFlag", "d1/dfb/a11151.html#a490cafe009f7b2ecb303a76c781f8960", null ],
+    [ "_logPacketLock", "d1/dfb/a11151.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
 ];

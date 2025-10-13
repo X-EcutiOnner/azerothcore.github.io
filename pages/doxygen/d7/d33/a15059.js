@@ -1,8 +1,6 @@
 var a15059 =
 [
-    [ "Load", "d7/d33/a15059.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
-    [ "PeriodicTick", "d7/d33/a15059.html#ae4761ac3bce02903a7266511d80503f9", null ],
-    [ "PrepareAuraScript", "d7/d33/a15059.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
-    [ "Register", "d7/d33/a15059.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
-    [ "_ticks", "d7/d33/a15059.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
+    [ "instance_the_black_morass_InstanceMapScript", "d3/d8c/a15063.html", "d3/d8c/a15063" ],
+    [ "instance_the_black_morass", "d7/d33/a15059.html#aa59c960a89dbd66a4c0ad2105792efb4", null ],
+    [ "GetInstanceScript", "d7/d33/a15059.html#a44b01fc7ab23c8f4ecfa1e375a237463", null ]
 ];

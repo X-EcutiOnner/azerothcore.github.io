@@ -1,6 +1,6 @@
 var a12055 =
 [
-    [ "boss_anubshiahAI", "d2/d9f/a12055.html#ae5bdb5509aad0d386bf73e5aad728744", null ],
-    [ "JustEngagedWith", "d2/d9f/a12055.html#ae83c1def323828814b5db6b032002438", null ],
-    [ "UpdateAI", "d2/d9f/a12055.html#a3acd88f97e2f1e3386c9b5dfa4f15d15", null ]
+    [ "npc_lokhtos_darkbargainer", "d2/d9f/a12055.html#af91685ecf0f63313968b3d82373668d2", null ],
+    [ "OnGossipHello", "d2/d9f/a12055.html#a39547487ef7db8a3942556665099893f", null ],
+    [ "OnGossipSelect", "d2/d9f/a12055.html#a5a4640678a5669c75b1fa5d787999c02", null ]
 ];

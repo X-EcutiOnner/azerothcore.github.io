@@ -1,8 +1,8 @@
 var a25979 =
 [
-    [ "OnRemove", "d6/dcc/a25979.html#a645e869079e711a87f1a957b42a35e98", null ],
-    [ "OnStackChange", "d6/dcc/a25979.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
-    [ "PrepareAuraScript", "d6/dcc/a25979.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
-    [ "Register", "d6/dcc/a25979.html#ac86068a892255e38244c487a7456cd9f", null ],
-    [ "Validate", "d6/dcc/a25979.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
+    [ "CheckProc", "d6/dcc/a25979.html#a2e83dd62bfcbe23e38b62e8299a52ee5", null ],
+    [ "HandleProc", "d6/dcc/a25979.html#a1d45afc30c8dd6de0a01285778117033", null ],
+    [ "PrepareAuraScript", "d6/dcc/a25979.html#ab468329029c4bc3c16475585b3451615", null ],
+    [ "Register", "d6/dcc/a25979.html#a37700b8597a3945d30700c5e8b60404a", null ],
+    [ "Validate", "d6/dcc/a25979.html#a30e57e0b04e16a4a232c6a18801fafa0", null ]
 ];

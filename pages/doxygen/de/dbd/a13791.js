@@ -1,16 +1,9 @@
 var a13791 =
 [
-    [ "npc_bh_thalorien_dawnseekerAI", "de/dbd/a13791.html#aa0fc35194d16d63854926d4266569d77", null ],
-    [ "DamageTaken", "de/dbd/a13791.html#a46f47c937db63c2cd12331bce4e251cf", null ],
-    [ "EnterEvadeMode", "de/dbd/a13791.html#a55b6176ee579f5f320ce36b63f83d314", null ],
-    [ "JustSummoned", "de/dbd/a13791.html#aa23391bbed38571a86508b4c87e5c66c", null ],
-    [ "MovementInform", "de/dbd/a13791.html#a5f47c72447c197642a0081e544095489", null ],
-    [ "Reset", "de/dbd/a13791.html#a6a9beaf984d954bc11a5f7dff17ca442", null ],
-    [ "SetData", "de/dbd/a13791.html#a24293b807b8999acbb6fbe59e3c06232", null ],
-    [ "SummonedCreatureDespawn", "de/dbd/a13791.html#a095587a925d6054da2e2fdc9de2b415e", null ],
-    [ "UpdateAI", "de/dbd/a13791.html#aa432d9d89eed150f0b3cf0beaef144d2", null ],
-    [ "events", "de/dbd/a13791.html#a5b98f3bcba320cbec0116d3f4a8e4d05", null ],
-    [ "morlenGUID", "de/dbd/a13791.html#aefe243dea75b1aac366fae1395e0e398", null ],
-    [ "playerGUID", "de/dbd/a13791.html#ab93ca177abc21647a1162006ed50a551", null ],
-    [ "summons", "de/dbd/a13791.html#af36ccbeaec6bc0157cb8cac6d705c3c3", null ]
+    [ "npc_partygoer", "de/dbd/a13791.html#af053caedfd1fa8173b875f521d279418", null ],
+    [ "Initialize", "de/dbd/a13791.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
+    [ "Reset", "de/dbd/a13791.html#ad1936099ec5696a2a593e5041b0360c6", null ],
+    [ "UpdateAI", "de/dbd/a13791.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
+    [ "_events", "de/dbd/a13791.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
+    [ "_facing", "de/dbd/a13791.html#a9e934091894987ec091b03090bf733e5", null ]
 ];

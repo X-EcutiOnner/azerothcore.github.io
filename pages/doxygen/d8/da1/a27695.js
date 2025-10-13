@@ -1,8 +1,5 @@
 var a27695 =
 [
-    [ "npc_artoriusAI", "d2/d46/a27699.html", "d2/d46/a27699" ],
-    [ "npc_artorius", "d8/da1/a27695.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
-    [ "GetAI", "d8/da1/a27695.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
-    [ "OnGossipHello", "d8/da1/a27695.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
-    [ "OnGossipSelect", "d8/da1/a27695.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
+    [ "item_generic_limit_chance_above_60", "d8/da1/a27695.html#abc18809810f0a7668020d01c482be84b", null ],
+    [ "OnCastItemCombatSpell", "d8/da1/a27695.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
 ];

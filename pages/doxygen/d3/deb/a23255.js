@@ -1,6 +1,6 @@
 var a23255 =
 [
-    [ "instance_black_temple_InstanceMapScript", "d7/d1e/a23259.html", "d7/d1e/a23259" ],
-    [ "instance_black_temple", "d3/deb/a23255.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
-    [ "GetInstanceScript", "d3/deb/a23255.html#a947a1279eabde75d9884b1ef84b295a3", null ]
+    [ "HandleSchoolDamage", "d3/deb/a23255.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
+    [ "PrepareSpellScript", "d3/deb/a23255.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
+    [ "Register", "d3/deb/a23255.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
 ];

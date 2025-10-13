@@ -1,6 +1,4 @@
 var a07683 =
 [
-    [ "operator bool", "d6/d11/a07683.html#a02878c282dfcfd2b9f4eddf99a805fa3", null ],
-    [ "tail", "d6/d11/a07683.html#a0bd839d0c7a8b7ce84612c80f3ca84e7", null ],
-    [ "token", "d6/d11/a07683.html#a55e214db8a01ac3c427874d03f1bda54", null ]
+    [ "TryConsume", "d6/d11/a07683.html#ad05fd0aa821ee47f5bbdac096c421dfa", null ]
 ];

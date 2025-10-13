@@ -1,6 +1,9 @@
 var a08567 =
 [
-    [ "PlayerCreateInfoItem", "d7/dae/a08567.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
-    [ "item_amount", "d7/dae/a08567.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
-    [ "item_id", "d7/dae/a08567.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
+    [ "category", "d7/dae/a08567.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
+    [ "end", "d7/dae/a08567.html#a8cc857ef51745900398765164a450a50", null ],
+    [ "itemid", "d7/dae/a08567.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
+    [ "maxduration", "d7/dae/a08567.html#a94b98afb7651e2c6b99ee79f85702259", null ],
+    [ "needSendToClient", "d7/dae/a08567.html#a678f56b6723567f984a0188b85a6f9df", null ],
+    [ "sendToSpectator", "d7/dae/a08567.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
 ];

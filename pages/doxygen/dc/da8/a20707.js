@@ -1,9 +1,5 @@
 var a20707 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "dc/da8/a20707.html#a98ad3308b0fa56847ce6f5583bdfaba9", null ],
-    [ "AttackStart", "dc/da8/a20707.html#aa18e89f63e98112efeb69328f8fdc296", null ],
-    [ "MoveInLineOfSight", "dc/da8/a20707.html#a6384437fff9349df0cfa5053b37313ea", null ],
-    [ "MovementInform", "dc/da8/a20707.html#a2f7d5b821ea4bf80bd01d469859f6fb6", null ],
-    [ "UpdateAI", "dc/da8/a20707.html#a71d24eb5cea764011249b8ff78c3ed6c", null ],
-    [ "events", "dc/da8/a20707.html#a5099c03b3ab1eb437ea11a0c4e8650f1", null ]
+    [ "npc_ulduar_flames_spreadAI", "dc/da8/a20707.html#a607ee542f7c6d84f4072557e44a80905", null ],
+    [ "SpellHit", "dc/da8/a20707.html#abe69df9873fc125306a4ed757665e448", null ]
 ];

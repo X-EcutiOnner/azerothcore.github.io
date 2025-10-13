@@ -1,8 +1,6 @@
 var a16515 =
 [
-    [ "npc_announcer_toc5AI", "d0/dcf/a16519.html", "d0/dcf/a16519" ],
-    [ "npc_announcer_toc5", "db/df3/a16515.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
-    [ "GetAI", "db/df3/a16515.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
-    [ "OnGossipHello", "db/df3/a16515.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
-    [ "OnGossipSelect", "db/df3/a16515.html#a9017488c652fd75882db75914f4a2db2", null ]
+    [ "instance_trial_of_the_champion_InstanceMapScript", "d0/dcf/a16519.html", "d0/dcf/a16519" ],
+    [ "instance_trial_of_the_champion", "db/df3/a16515.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
+    [ "GetInstanceScript", "db/df3/a16515.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
 ];

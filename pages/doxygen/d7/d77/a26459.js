@@ -1,8 +1,10 @@
 var a26459 =
 [
-    [ "CalculateAmount", "d7/d77/a26459.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
-    [ "PrepareAuraScript", "d7/d77/a26459.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
-    [ "ReflectDamage", "d7/d77/a26459.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
-    [ "Register", "d7/d77/a26459.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
-    [ "Validate", "d7/d77/a26459.html#af2936ba4a29fc8735a3cabe805c77355", null ]
+    [ "Absorb", "d7/d77/a26459.html#ab4006b00d415a94e6a49856cee7e272b", null ],
+    [ "CalculateAmount", "d7/d77/a26459.html#a57bfd4e7178e9e7c3df12c025d0c7d9e", null ],
+    [ "Load", "d7/d77/a26459.html#a88aa9623f587bb7b5e91da83c76f562a", null ],
+    [ "PrepareAuraScript", "d7/d77/a26459.html#a456c1bd5b284f642d1e040de52eee24b", null ],
+    [ "Register", "d7/d77/a26459.html#a905994099dcc4ac9512d5f27b78a778c", null ],
+    [ "Validate", "d7/d77/a26459.html#ad99966111a1919c610a942a8eb133ea1", null ],
+    [ "healPct", "d7/d77/a26459.html#a3b0527ce7f1fd6afaa57f942275ec81b", null ]
 ];

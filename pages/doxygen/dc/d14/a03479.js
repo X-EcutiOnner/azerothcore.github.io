@@ -1,23 +1,13 @@
 var a03479 =
 [
-    [ "npc_eris_hevenfire", "d9/dbe/a13723.html", "d9/dbe/a13723" ],
-    [ "npc_eris_hevenfire::npc_eris_hevenfireAI", "d2/d7a/a13727.html", "d2/d7a/a13727" ],
-    [ "npc_balance_of_light_and_shadow", "d1/d59/a13731.html", "d1/d59/a13731" ],
-    [ "npc_balance_of_light_and_shadow::npc_balance_of_light_and_shadowAI", "d4/d19/a13735.html", "d4/d19/a13735" ],
-    [ "npc_augustus_the_touched", "d6/d7b/a13739.html", "d6/d7b/a13739" ],
-    [ "eEris", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36fe", [
-      [ "QUEST_BALANCE_OF_LIGHT_AND_SHADOW", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36fea893fed7c9aba464b46eda93ba0ff910e", null ],
-      [ "ITEM_EYE_OF_DIVINITY", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36feaa330f1e90d7e18c5cec4f6ac9eccbf9b", null ],
-      [ "NPC_INJURED_PEASANT", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36feaae13148e0ec5731f2bc25c5cd83fb54a", null ],
-      [ "NPC_PLAGUED_PEASANT", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36fea2e04645dc1fe7fae413d5c2c903c89d2", null ],
-      [ "NPC_SCOURGE_ARCHER", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36fea50dd59f1eeb08594a61c6ad576ad2814", null ],
-      [ "EVENT_SUMMON_PEASANTS", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36fea499f23b6c79690c613e046b3e6394937", null ],
-      [ "EVENT_CHECK_PLAYER", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36fea3d3d147dbdefaa5a8280f3d1bcc15ea8", null ],
-      [ "EVENT_SUMMON_ARCHERS", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36fea84afa1291830b37278989be41610fb72", null ],
-      [ "SPELL_SHOOT", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36fea1b728fa1bb0194534b5b491d35ed871c", null ],
-      [ "SPELL_DEATHS_DOOR", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36fea59bc5812f6dcf3f0e45b673f923490e7", null ],
-      [ "SPELL_SEETHING_PLAGUE", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36feac366f4ed224210fd4352c0ac9fb1c12a", null ],
-      [ "SPELL_ERIS_BLESSING", "dc/d14/a03479.html#a0846b7169aa45fd1ef72775a5f6e36feaaedc6f0db3ab3db342fe3379082ce633", null ]
+    [ "instance_sunken_temple", "d3/d94/a13419.html", "d3/d94/a13419" ],
+    [ "instance_sunken_temple::instance_sunken_temple_InstanceMapScript", "dd/d24/a13423.html", "dd/d24/a13423" ],
+    [ "at_malfurion_stormrage", "d0/dfd/a13427.html", "d0/dfd/a13427" ],
+    [ "spell_temple_of_atal_hakkar_hex_of_jammal_an_aura", "db/d09/a13431.html", "db/d09/a13431" ],
+    [ "spell_temple_of_atal_hakkar_awaken_the_soulflayer", "d3/d81/a13435.html", "d3/d81/a13435" ],
+    [ "MalfurionMisc", "dc/d14/a03479.html#a754fcfafd80b5a6c2ea444f49cfbc7d1", [
+      [ "QUEST_ERANIKUS_TYRANT_OF_DREAMS", "dc/d14/a03479.html#a754fcfafd80b5a6c2ea444f49cfbc7d1a99089f2ff32693b053abae21941aed5d", null ],
+      [ "QUEST_THE_CHARGE_OF_DRAGONFLIGHTS", "dc/d14/a03479.html#a754fcfafd80b5a6c2ea444f49cfbc7d1aabeeb62adbb72d2616aa2e6e393f2526", null ]
     ] ],
-    [ "AddSC_eastern_plaguelands", "dc/d14/a03479.html#aaef7747656518bf0ce052d780430ed88", null ]
+    [ "AddSC_instance_sunken_temple", "dc/d14/a03479.html#ab3f2a91fe096585f54078e8884cb25f7", null ]
 ];

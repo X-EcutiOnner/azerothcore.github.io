@@ -1,6 +1,7 @@
 var a26115 =
 [
-    [ "PrepareSpellScript", "da/d4e/a26115.html#a738e105a48f6c603f3d9a690f44b8745", null ],
-    [ "Register", "da/d4e/a26115.html#a6bc9791d0f08440e19b89daa9b65892c", null ],
-    [ "SetDest", "da/d4e/a26115.html#a59641895cead08de4a4503262505ee73", null ]
+    [ "HandleEnergize", "da/d4e/a26115.html#a283e713252166a863aa96530d6e7608b", null ],
+    [ "Load", "da/d4e/a26115.html#a89847e0e9435a708c5722ff928f7033f", null ],
+    [ "PrepareSpellScript", "da/d4e/a26115.html#a8847e05e6eeafd801fca5423d0689432", null ],
+    [ "Register", "da/d4e/a26115.html#ae0778ffd8cf203e22510ee91b0394303", null ]
 ];

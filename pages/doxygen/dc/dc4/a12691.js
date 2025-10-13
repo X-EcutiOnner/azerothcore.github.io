@@ -1,8 +1,6 @@
 var a12691 =
 [
-    [ "npc_lava_spawn", "dc/dc4/a12691.html#aff97441b2cfbcd68e0788be022ee6236", null ],
-    [ "JustEngagedWith", "dc/dc4/a12691.html#a3b93df8de3c0f8a50768b860cfa11b72", null ],
-    [ "Reset", "dc/dc4/a12691.html#ab774d354991c90b1421e6783c0513e59", null ],
-    [ "UpdateAI", "dc/dc4/a12691.html#a6a17c8c40b0110b688ff5faef5585185", null ],
-    [ "_scheduler", "dc/dc4/a12691.html#ab7a6b2beec095f3f903ad4443813cfce", null ]
+    [ "npc_flamewaker_priestAI", "d1/da2/a12695.html", "d1/da2/a12695" ],
+    [ "npc_flamewaker_priest", "dc/dc4/a12691.html#a2ae4d75192f8ddc60d092b9a129e636e", null ],
+    [ "GetAI", "dc/dc4/a12691.html#a8a38c2c54ae8366496eb58145f75eac9", null ]
 ];

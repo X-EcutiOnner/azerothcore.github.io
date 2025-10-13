@@ -1,6 +1,9 @@
 var a17887 =
 [
-    [ "BurningPitchFilterCheck", "db/d4d/a17887.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
-    [ "operator()", "db/d4d/a17887.html#a24be987c8471d8a7096025debf6e60b1", null ],
-    [ "_entry", "db/d4d/a17887.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
+    [ "CalculatePower", "db/d4d/a17887.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
+    [ "Load", "db/d4d/a17887.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
+    [ "PrepareSpellScript", "db/d4d/a17887.html#a49489a8e4e39735efa560f53236dfc2c", null ],
+    [ "PreventPowerGainOnHit", "db/d4d/a17887.html#a5eebe6f82a6d7306d6e232b755531939", null ],
+    [ "Register", "db/d4d/a17887.html#a67b59c096848adaad5566cbc2140da59", null ],
+    [ "Validate", "db/d4d/a17887.html#a355500a6f3bfed084030738041d0e3b9", null ]
 ];

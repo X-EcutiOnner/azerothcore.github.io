@@ -1,4 +1,5 @@
 var a08083 =
 [
-    [ "ItemEntry", "da/d1b/a08083.html#aa941274a50c076189d0957120ca25e5e", null ]
+    [ "BoxText", "da/d1b/a08083.html#a00882f98df67222d396ae9992084a1cd", null ],
+    [ "OptionText", "da/d1b/a08083.html#ab69f2dac8061cf8f6762a683243934fa", null ]
 ];

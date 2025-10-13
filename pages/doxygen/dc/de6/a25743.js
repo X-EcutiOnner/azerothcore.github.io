@@ -1,7 +1,6 @@
 var a25743 =
 [
-    [ "HandleScriptEffect", "dc/de6/a25743.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
-    [ "PrepareSpellScript", "dc/de6/a25743.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
-    [ "Register", "dc/de6/a25743.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
-    [ "SelectTarget", "dc/de6/a25743.html#a6a59b7ce696f959b2026cf8088079e89", null ]
+    [ "HandleItemRemove", "dc/de6/a25743.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
+    [ "PrepareSpellScript", "dc/de6/a25743.html#a8b43e146724a2c8b3c495e886a79d021", null ],
+    [ "Register", "dc/de6/a25743.html#af8b02c31b81dce516ea47d6a1235d683", null ]
 ];

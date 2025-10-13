@@ -1,12 +1,20 @@
 var a15859 =
 [
-    [ "npc_wizzlecrank_shredderAI", "dd/d3e/a15859.html#a055c4b426219aa3372a83d2e2021d916", null ],
-    [ "JustSummoned", "dd/d3e/a15859.html#a7cad21f0b3286ed75256a49c315069ce", null ],
-    [ "Reset", "dd/d3e/a15859.html#a86929e8a2f3433f37e4dda03e3011193", null ],
-    [ "UpdateEscortAI", "dd/d3e/a15859.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
-    [ "WaypointReached", "dd/d3e/a15859.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
-    [ "WaypointStart", "dd/d3e/a15859.html#a00857e372e53950338ed71d672edb780", null ],
-    [ "IsPostEvent", "dd/d3e/a15859.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
-    [ "PostEventCount", "dd/d3e/a15859.html#aa5284a284c074f32cee85d29aea00f2f", null ],
-    [ "PostEventTimer", "dd/d3e/a15859.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
+    [ "npc_twiggy_flatheadAI", "dd/d3e/a15859.html#a03aee9619eafa0f497390c520cbfaf24", null ],
+    [ "CleanUp", "dd/d3e/a15859.html#adfe48ed23633691608b289c4751c788a", null ],
+    [ "EnterEvadeMode", "dd/d3e/a15859.html#a9fd1519e6196ba4db30740b16904964b", null ],
+    [ "JustEngagedWith", "dd/d3e/a15859.html#aa601e079ed93d4d21f2ea2decf6cdab3", null ],
+    [ "MoveInLineOfSight", "dd/d3e/a15859.html#a95188ce1d3abba7dfeef5a9cbd6d3306", null ],
+    [ "Reset", "dd/d3e/a15859.html#ab98c38a9d8c3cb3e1ac67f321cfe90fb", null ],
+    [ "UpdateAI", "dd/d3e/a15859.html#a0a9cefdaf419143eed6e6aa89489e8dd", null ],
+    [ "AffrayChallenger", "dd/d3e/a15859.html#a42354987ab877f7c113ac44b50d4a660", null ],
+    [ "BigWill", "dd/d3e/a15859.html#a4a017e9153c04e34b2c9c3ae30583856", null ],
+    [ "ChallengerChecker", "dd/d3e/a15859.html#a9908c43715426b75c06c1e2032f4fcca", null ],
+    [ "ChallengerDown", "dd/d3e/a15859.html#a8777dbc5bd40e29a46d1195414a3f754", null ],
+    [ "EventBigWill", "dd/d3e/a15859.html#a32d931e4aabbabedd05ae243038cca8e", null ],
+    [ "EventGrate", "dd/d3e/a15859.html#a8bc3907272941dbf2218cc0dbafb205f", null ],
+    [ "EventInProgress", "dd/d3e/a15859.html#a4dd84ae18a7f79238f110659db03b984", null ],
+    [ "PlayerGUID", "dd/d3e/a15859.html#aa510117962fc5294113f2f88a1f2a652", null ],
+    [ "Wave", "dd/d3e/a15859.html#a5a38a9a8da1b9cd03e800fcd90e38d1a", null ],
+    [ "WaveTimer", "dd/d3e/a15859.html#a8a0d2b9db7f49cdb367dcf6f68bc1633", null ]
 ];

@@ -1,7 +1,7 @@
 var a13303 =
 [
-    [ "boss_apothecary_hummelAI", "db/d8f/a13307.html", "db/d8f/a13307" ],
-    [ "boss_apothecary_hummel", "d8/d21/a13303.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
-    [ "GetAI", "d8/d21/a13303.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
-    [ "OnQuestReward", "d8/d21/a13303.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
+    [ "HandleScript", "d8/d21/a13303.html#a6ce169d6c1b106195f787b52ea433311", null ],
+    [ "PrepareSpellScript", "d8/d21/a13303.html#a4f71583df2193274365944e6d228247c", null ],
+    [ "Register", "d8/d21/a13303.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
+    [ "Validate", "d8/d21/a13303.html#a51025308f88001f1f66d7f68f174f325", null ]
 ];

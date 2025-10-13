@@ -1,16 +1,11 @@
 var a17399 =
 [
-    [ "boss_gal_darahAI", "d1/df9/a17399.html#a11f552c8d7ea90003540c052e84d7d30", null ],
-    [ "GetData", "d1/df9/a17399.html#a239f2ad880eef60de017aa5493624e81", null ],
-    [ "InitializeAI", "d1/df9/a17399.html#ad59573249068bd4962b36f1f3dc581c8", null ],
-    [ "JustDied", "d1/df9/a17399.html#ad48d93efb462d7042b858724b8ff2aac", null ],
-    [ "JustEngagedWith", "d1/df9/a17399.html#aabf2d3ef1d00731696d71225c63bb8b5", null ],
-    [ "JustReachedHome", "d1/df9/a17399.html#a66abe46de699aca6e21910e8594caeaf", null ],
-    [ "JustSummoned", "d1/df9/a17399.html#afda5dd71e597245e5c7b272b6817e644", null ],
-    [ "KilledUnit", "d1/df9/a17399.html#ad477c3f60dfc1158856a6765b15efe78", null ],
-    [ "Reset", "d1/df9/a17399.html#a0fba8f1a406dd97a27e92b26c682ec63", null ],
-    [ "ScheduleEvents", "d1/df9/a17399.html#a77f18488503bf47e985c1ac6c8d67b1f", null ],
-    [ "UpdateAI", "d1/df9/a17399.html#a5faa0cbb6eb126508ef6921f3b4ba15f", null ],
-    [ "impaledList", "d1/df9/a17399.html#a53b3c115af0df5381d31fa54f344af80", null ],
-    [ "phaseCounter", "d1/df9/a17399.html#a484acaccbbc400ec271e24ea6fb0c55f", null ]
+    [ "boss_eckAI", "d1/df9/a17399.html#a9de9ad13286c625241242a72c8c3ef2b", null ],
+    [ "InitializeAI", "d1/df9/a17399.html#a37ed08383c43c53ea5a46ad8e03adb35", null ],
+    [ "JustDied", "d1/df9/a17399.html#afa625b388a7495e7f83ea3149ad2020c", null ],
+    [ "JustEngagedWith", "d1/df9/a17399.html#a393630157bb1b9d80a19b2da3bf0b377", null ],
+    [ "MovementInform", "d1/df9/a17399.html#a4826dee262817fbdfa38bcf17f5723da", null ],
+    [ "Reset", "d1/df9/a17399.html#afc33618907cb06591cc57751dfc14ca5", null ],
+    [ "SpellHitTarget", "d1/df9/a17399.html#a9838782769779ed0750ba32ac77625d4", null ],
+    [ "UpdateAI", "d1/df9/a17399.html#a697ceea1e138d484d80b39c80078de58", null ]
 ];

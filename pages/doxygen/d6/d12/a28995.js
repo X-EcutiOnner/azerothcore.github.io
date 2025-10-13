@@ -1,9 +1,13 @@
 var a28995 =
 [
-    [ "MapTiles", "d6/d12/a28995.html#abc58d7154eab45ae26df27e2e82dac63", null ],
-    [ "MapTiles", "d6/d12/a28995.html#a406efc53593b5bceb0a491c0b7553350", null ],
-    [ "~MapTiles", "d6/d12/a28995.html#aec1baac21c06380ba71ff5e610152519", null ],
-    [ "operator==", "d6/d12/a28995.html#a3e7a87f421e8eb23926afe1d0978c3b4", null ],
-    [ "m_mapId", "d6/d12/a28995.html#a2fc10edf226a6f4548c2175e1013c1b9", null ],
-    [ "m_tiles", "d6/d12/a28995.html#ab80305bb73234e35a528701d775954b5", null ]
+    [ "MPQArchive", "d6/d12/a28995.html#a58d57322334966ca16a22e52e5198d9f", null ],
+    [ "~MPQArchive", "d6/d12/a28995.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "MPQArchive", "d6/d12/a28995.html#a58d57322334966ca16a22e52e5198d9f", null ],
+    [ "~MPQArchive", "d6/d12/a28995.html#a5bce22525ca16381fbb4729540a165e2", null ],
+    [ "close", "d6/d12/a28995.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "close", "d6/d12/a28995.html#ac40182c8e52d70aa1f53325f1b48f259", null ],
+    [ "GetFileListTo", "d6/d12/a28995.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "GetFileListTo", "d6/d12/a28995.html#ab91bd82370a1ebcf6b46fc3047188640", null ],
+    [ "isOpened", "d6/d12/a28995.html#a2026335b9ede29197acfaac8513456d5", null ],
+    [ "mpq_a", "d6/d12/a28995.html#a72b9fb96b1e3db6c7be652e426978b4a", null ]
 ];

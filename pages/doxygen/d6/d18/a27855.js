@@ -1,6 +1,11 @@
 var a27855 =
 [
-    [ "npc_pet_trainerAI", "d7/db4/a27859.html", "d7/db4/a27859" ],
-    [ "npc_pet_trainer", "d6/d18/a27855.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "d6/d18/a27855.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "npc_injured_patientAI", "d6/d18/a27855.html#a0973487623f1771c598648bc06a6d9a3", null ],
+    [ "JustEngagedWith", "d6/d18/a27855.html#a621a8cc3f6b9655760431d52766ca589", null ],
+    [ "Reset", "d6/d18/a27855.html#a007c9c7a4047374574cad17e9309d7c1", null ],
+    [ "SpellHit", "d6/d18/a27855.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
+    [ "UpdateAI", "d6/d18/a27855.html#a54d0a5574175747779878dce0ebfd44f", null ],
+    [ "_scheduler", "d6/d18/a27855.html#a60428fa97c8f6520338d53ed368c4c35", null ],
+    [ "Coord", "d6/d18/a27855.html#af5a6f87c0379edd07a8756018b0c8661", null ],
+    [ "DoctorGUID", "d6/d18/a27855.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
 ];

@@ -1,6 +1,7 @@
 var a22151 =
 [
-    [ "npc_tallhorn_stagAI", "d0/d54/a22155.html", "d0/d54/a22155" ],
-    [ "npc_tallhorn_stag", "d8/de2/a22151.html#aff7f23376c27312894c9a042f6a0f848", null ],
-    [ "GetAI", "d8/de2/a22151.html#a3d993542271c80982adcee9a9d60e46b", null ]
+    [ "HandleScriptEffect", "d8/de2/a22151.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
+    [ "PrepareSpellScript", "d8/de2/a22151.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
+    [ "Register", "d8/de2/a22151.html#a278206630f9f45f2dba50b259a6115c1", null ],
+    [ "Validate", "d8/de2/a22151.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
 ];

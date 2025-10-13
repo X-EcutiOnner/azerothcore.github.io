@@ -1,6 +1,8 @@
 var a26347 =
 [
-    [ "FilterTargets", "d9/d94/a26347.html#a9ee58cd4e7a0fa59bfb6ef1270d51f21", null ],
-    [ "PrepareSpellScript", "d9/d94/a26347.html#a5992d94317d3da7400d5a9ab115e621e", null ],
-    [ "Register", "d9/d94/a26347.html#a125ce6c8dfdc6419b4409c72f74fcf85", null ]
+    [ "CalculateAmount", "d9/d94/a26347.html#a8751483423726ffa8a33c70b7e55db23", null ],
+    [ "CheckProc", "d9/d94/a26347.html#a046cd1087342cdcbd2e6b0f8ded7c03a", null ],
+    [ "HandleProc", "d9/d94/a26347.html#abda070e7dfbb4ddc8d18cb3d180edc2e", null ],
+    [ "PrepareAuraScript", "d9/d94/a26347.html#a6bb54cea419145875c4086a69e1e55e8", null ],
+    [ "Register", "d9/d94/a26347.html#a8e92638bbdd786ef77b17f00dcf0f643", null ]
 ];

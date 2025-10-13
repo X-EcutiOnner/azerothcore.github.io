@@ -1,6 +1,6 @@
 var a12091 =
 [
-    [ "boss_grizzleAI", "da/d08/a12095.html", "da/d08/a12095" ],
-    [ "boss_grizzle", "d3/d60/a12091.html#a6c9913cec9503a86e2f5358f65b97b26", null ],
-    [ "GetAI", "d3/d60/a12091.html#aa0bf6c89f13fbd20695ebb7ce965b0f5", null ]
+    [ "boss_draganthaurissanAI", "da/d08/a12095.html", "da/d08/a12095" ],
+    [ "boss_emperor_dagran_thaurissan", "d3/d60/a12091.html#a8332d74b5aa1528d5687084932419ad1", null ],
+    [ "GetAI", "d3/d60/a12091.html#aca2c4ca4e32ce75d95b42ddd88c4dc99", null ]
 ];

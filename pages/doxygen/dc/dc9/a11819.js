@@ -1,12 +1,14 @@
 var a11819 =
 [
-    [ "guild_commandscript", "dc/dc9/a11819.html#a4394d242740505ad128e4cebf4b617f0", null ],
-    [ "GetCommands", "dc/dc9/a11819.html#a6b0a700e7fa3251373c1405d245f6931", null ],
-    [ "HandleGuildCreateCommand", "dc/dc9/a11819.html#a2d2c2414b9b08a5d510fccd223b34a36", null ],
-    [ "HandleGuildDeleteCommand", "dc/dc9/a11819.html#a4bbef641c86de37611e7ff1c906b4048", null ],
-    [ "HandleGuildInfoCommand", "dc/dc9/a11819.html#adbe43a3a362608e37dd7d6652a83adfc", null ],
-    [ "HandleGuildInviteCommand", "dc/dc9/a11819.html#a67210b9845ca4475e6ab3d0d7cc0dbab", null ],
-    [ "HandleGuildRankCommand", "dc/dc9/a11819.html#adbea3b610c98354866fec52a43fedda0", null ],
-    [ "HandleGuildRenameCommand", "dc/dc9/a11819.html#ac946b4284c85e43b1ca29f69df9a8f27", null ],
-    [ "HandleGuildUninviteCommand", "dc/dc9/a11819.html#aa7b134de9c3632cc1e147064c9ffcb5f", null ]
+    [ "deserter_commandscript", "dc/dc9/a11819.html#aebaaf99b9c5959f3f3418e13e252fb95", null ],
+    [ "GetCommands", "dc/dc9/a11819.html#ab5b48b9dde89c9215c51560f26324649", null ],
+    [ "HandleDeserterAdd", "dc/dc9/a11819.html#abe8c428ec09d341bb9f49882b7c071e2", null ],
+    [ "HandleDeserterBGAdd", "dc/dc9/a11819.html#a11fba09d369e7244244887947a91369e", null ],
+    [ "HandleDeserterBGRemove", "dc/dc9/a11819.html#a9bf4e146ef0f4f0cb2508c4953f8a647", null ],
+    [ "HandleDeserterBGRemoveAll", "dc/dc9/a11819.html#a419d404315e91b6cac1bfd3ac225a8fd", null ],
+    [ "HandleDeserterInstanceAdd", "dc/dc9/a11819.html#aabd2b23e2dc61fac10890077b41d8179", null ],
+    [ "HandleDeserterInstanceRemove", "dc/dc9/a11819.html#a3197e5228284ba50da7f3a31b3e76060", null ],
+    [ "HandleDeserterInstanceRemoveAll", "dc/dc9/a11819.html#adc6ad2f406fcb58ba64d2b6fd47281e2", null ],
+    [ "HandleDeserterRemove", "dc/dc9/a11819.html#a210dc9a7eddede6fe976157d6b22b683", null ],
+    [ "HandleDeserterRemoveAll", "dc/dc9/a11819.html#a6274f79b9884586069f94137b44d89e9", null ]
 ];

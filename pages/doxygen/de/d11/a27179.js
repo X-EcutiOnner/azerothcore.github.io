@@ -1,6 +1,7 @@
 var a27179 =
 [
-    [ "HandleHeal", "de/d11/a27179.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
-    [ "PrepareSpellScript", "de/d11/a27179.html#a61a601108cd59e5d87634c02b002e20d", null ],
-    [ "Register", "de/d11/a27179.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
+    [ "FilterTargets", "de/d11/a27179.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
+    [ "PrepareSpellScript", "de/d11/a27179.html#a954f00317eab544dd57e657368aab7fb", null ],
+    [ "Register", "de/d11/a27179.html#a1804684c8685372faf2e88e56b48f5be", null ],
+    [ "Validate", "de/d11/a27179.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
 ];

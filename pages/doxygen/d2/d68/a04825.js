@@ -1,25 +1,7 @@
 var a04825 =
 [
-    [ "achievement", "de/d73/a07772.html", "de/d73/a07772" ],
-    [ "base_tag", "d1/ddb/a07768.html", "d1/ddb/a07768" ],
-    [ "enchant", "d8/dd2/a07776.html", "d8/dd2/a07776" ],
-    [ "glyph", "d0/df0/a07780.html", "d0/df0/a07780" ],
-    [ "item", "dc/d8f/a07784.html", "dc/d8f/a07784" ],
-    [ "quest", "d5/d7b/a07788.html", "d5/d7b/a07788" ],
-    [ "spell", "dc/d41/a07792.html", "dc/d41/a07792" ],
-    [ "talent", "d1/d83/a07796.html", "d1/d83/a07796" ],
-    [ "trade", "d5/dc7/a07800.html", "d5/dc7/a07800" ],
-    [ "make_base_tag", "d2/d68/a04825.html#a6ebb455ff3abbea4ad68bd1d7d05fd3a", null ],
-    [ "make_base_tag", "d2/d68/a04825.html#a0803de4bbc9edad4f5bb2afc3c242dca", null ],
-    [ "make_base_tag", "d2/d68/a04825.html#aa8156f2996632fd42a2e39b974426995", null ],
-    [ "make_base_tag", "d2/d68/a04825.html#a321da5d63921d41c561a1460929ac730", null ],
-    [ "make_base_tag", "d2/d68/a04825.html#afc9dbd840048c0031231bcdb7b2fcf04", null ],
-    [ "make_base_tag", "d2/d68/a04825.html#a7083d48423b83ff39095030678b29877", null ],
-    [ "make_base_tag", "d2/d68/a04825.html#aae3a6cd0fbf426755d93a387882ff767", null ],
-    [ "make_base_tag", "d2/d68/a04825.html#aa0ca4a111a856da9091a377934f8de93", null ],
-    [ "make_base_tag", "d2/d68/a04825.html#a9990339040b491e108594df755f03a6c", null ],
-    [ "make_base_tag", "d2/d68/a04825.html#aa0200f5ae02cb0b03a9ab7097ca2a2ec", null ],
-    [ "make_base_tag", "d2/d68/a04825.html#a32cfa3bc188d1b731f3e9e5dcc2de664", null ],
-    [ "make_base_tag", "d2/d68/a04825.html#ae0c637d10c728f04dc2468c15c3f8dca", null ],
-    [ "make_base_tag", "d2/d68/a04825.html#abe0a588f1c0e66d33c8bc7a7d0a04459", null ]
+    [ "For", "de/d98/a05579.html", null ],
+    [ "For< bool, void >", "dc/d4a/a05587.html", "dc/d4a/a05587" ],
+    [ "For< T, std::enable_if_t< std::is_floating_point_v< T > > >", "d0/db9/a05591.html", "d0/db9/a05591" ],
+    [ "For< T, std::enable_if_t< std::is_integral_v< T > &&!std::is_same_v< T, bool > > >", "d0/d52/a05583.html", "d0/d52/a05583" ]
 ];

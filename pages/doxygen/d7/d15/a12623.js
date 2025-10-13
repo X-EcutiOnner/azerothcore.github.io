@@ -1,6 +1,6 @@
 var a12623 =
 [
-    [ "boss_ragnarosAI", "d3/d23/a12627.html", "d3/d23/a12627" ],
-    [ "boss_ragnaros", "d7/d15/a12623.html#a47bd4dc50a0d05e8cbb75c1a5a52c9b5", null ],
-    [ "GetAI", "d7/d15/a12623.html#af54e36608e160811ca06952fd2c63f6e", null ]
+    [ "boss_magmadarAI", "d7/d15/a12623.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
+    [ "ExecuteEvent", "d7/d15/a12623.html#a7d4c1807cb320fdc331057209a4ce166", null ],
+    [ "JustEngagedWith", "d7/d15/a12623.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
 ];

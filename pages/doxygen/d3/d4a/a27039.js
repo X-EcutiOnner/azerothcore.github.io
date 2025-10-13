@@ -1,6 +1,6 @@
 var a27039 =
 [
-    [ "FilterTargets", "d3/d4a/a27039.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
-    [ "PrepareSpellScript", "d3/d4a/a27039.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
-    [ "Register", "d3/d4a/a27039.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
+    [ "CheckCast", "d3/d4a/a27039.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
+    [ "PrepareSpellScript", "d3/d4a/a27039.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
+    [ "Register", "d3/d4a/a27039.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
 ];

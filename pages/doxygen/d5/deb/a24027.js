@@ -1,6 +1,6 @@
 var a24027 =
 [
-    [ "AfterRemove", "d5/deb/a24027.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "d5/deb/a24027.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "d5/deb/a24027.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "OnApply", "d5/deb/a24027.html#a472220f22165c6d21eab5f4b5f75921e", null ],
+    [ "PrepareAuraScript", "d5/deb/a24027.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
+    [ "Register", "d5/deb/a24027.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
 ];

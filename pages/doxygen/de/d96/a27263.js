@@ -1,5 +1,6 @@
 var a27263 =
 [
-    [ "achievement_sickly_gazelle", "de/d96/a27263.html#abb613cb222c727923c4c5ce843db3a5f", null ],
-    [ "OnCheck", "de/d96/a27263.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
+    [ "HandleOnHit", "de/d96/a27263.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "de/d96/a27263.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "de/d96/a27263.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

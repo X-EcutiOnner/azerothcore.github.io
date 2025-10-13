@@ -1,25 +1,6 @@
 var a13215 =
 [
-    [ "npc_highlord_darion_mograineAI", "da/dad/a13215.html#a04be4c12a255c082b2a00daf40e86d96", null ],
-    [ "DoAction", "da/dad/a13215.html#a7103aa11bc2dff6942f4a4de5cd8d759", null ],
-    [ "FinishFight", "da/dad/a13215.html#ab3fef458ca3180f49d78579f7485e76c", null ],
-    [ "GetData", "da/dad/a13215.html#aa3eae106cf85eb7cb163f9780bf16b9f", null ],
-    [ "GetEntryFromSummons", "da/dad/a13215.html#a2c9e336d14667aabc3e1a8f3a99fc1e7", null ],
-    [ "JustDied", "da/dad/a13215.html#a2875789a251381677106f74e61efaa77", null ],
-    [ "JustEngagedWith", "da/dad/a13215.html#ac6ca07a76351dfc5a82b0a57fdfa08d8", null ],
-    [ "JustRespawned", "da/dad/a13215.html#a3116088116fe6b4a6b42014f7f5fb3a8", null ],
-    [ "JustSummoned", "da/dad/a13215.html#a9ddc2350ffbbf6e3ae91410da55bd326", null ],
-    [ "MovementInform", "da/dad/a13215.html#a205b7ebb74ca3be7a6a11fb2d8670288", null ],
-    [ "Reset", "da/dad/a13215.html#a7dde645763bab79e34fa7421dbec518e", null ],
-    [ "SendInitialWorldStates", "da/dad/a13215.html#ab49e38e481fcb263337f5224c1db7383", null ],
-    [ "SendUpdateWorldState", "da/dad/a13215.html#a32fed806170c3664eeb1dd2a1bfdf278", null ],
-    [ "SummonedCreatureDies", "da/dad/a13215.html#aa0935ab5c5a8a3ad41719e520703ff92", null ],
-    [ "UpdateAI", "da/dad/a13215.html#a086efd646a7298ce17f7ead4688fa022", null ],
-    [ "battleStarted", "da/dad/a13215.html#aecb7e1bdebf943e1793656f8a9c39917", null ],
-    [ "defendersRemaining", "da/dad/a13215.html#a49b41a9719548bffd2020caea7a94a3d", null ],
-    [ "events", "da/dad/a13215.html#a2155cbea373225904a3645a77738dea4", null ],
-    [ "resetExecuted", "da/dad/a13215.html#ae1431b2f46cf2ae096e7ddfb22e54a28", null ],
-    [ "scourgeRemaining", "da/dad/a13215.html#aabaa1fb49467d4dc5abf2a14ec833d15", null ],
-    [ "startTimeRemaining", "da/dad/a13215.html#a503f8e5166ec08664085ae032611de61", null ],
-    [ "summons", "da/dad/a13215.html#ae592eef844350ca8fa8415f343d8dffc", null ]
+    [ "npc_gothik_the_harvesterAI", "df/d91/a13219.html", "df/d91/a13219" ],
+    [ "npc_gothik_the_harvester", "da/dad/a13215.html#a44a8a900e195308802e76c5b550b577a", null ],
+    [ "GetAI", "da/dad/a13215.html#a97d99101d8c6eca7cf59e9920725efbc", null ]
 ];

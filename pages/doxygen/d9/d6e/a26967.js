@@ -1,7 +1,7 @@
 var a26967 =
 [
-    [ "AfterRemove", "d9/d6e/a26967.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
-    [ "PrepareAuraScript", "d9/d6e/a26967.html#af338af238305f1872275e1e5e9fdee16", null ],
-    [ "Register", "d9/d6e/a26967.html#aa266e794be35b51a399b13ee2d06199d", null ],
-    [ "Validate", "d9/d6e/a26967.html#af58098eb7a904e20846cf728f5adc18b", null ]
+    [ "HandleDispel", "d9/d6e/a26967.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
+    [ "PrepareAuraScript", "d9/d6e/a26967.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
+    [ "Register", "d9/d6e/a26967.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
+    [ "Validate", "d9/d6e/a26967.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
 ];

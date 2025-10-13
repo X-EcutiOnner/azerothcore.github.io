@@ -1,6 +1,6 @@
 var a19987 =
 [
-    [ "npc_assembly_lightningAI", "d5/d96/a19991.html", "d5/d96/a19991" ],
-    [ "npc_assembly_lightning", "d2/d43/a19987.html#ac9776fc8cb3dd3f8bfecb1d367afefd2", null ],
-    [ "GetAI", "d2/d43/a19987.html#a4054ea8bb68b2742847b359e19b477df", null ]
+    [ "boss_runemaster_molgeimAI", "d5/d96/a19991.html", "d5/d96/a19991" ],
+    [ "boss_runemaster_molgeim", "d2/d43/a19987.html#a440e4e43b941ac2b956c7c586a95f991", null ],
+    [ "GetAI", "d2/d43/a19987.html#a080e70913be1e6ad9521bab5b90a92a6", null ]
 ];

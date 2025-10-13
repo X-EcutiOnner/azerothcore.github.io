@@ -1,10 +1,8 @@
 var a09855 =
 [
-    [ "ZoneDynamicInfo", "d7/d84/a09855.html#a0542940fdcc273a4ff8a8e8bb6a40b1f", null ],
-    [ "DefaultWeather", "d7/d84/a09855.html#a8c2c7772596ec58413bee2077e46790f", null ],
-    [ "LightFadeInTime", "d7/d84/a09855.html#a0be8cff9a7e74add7bba8af3be993e48", null ],
-    [ "MusicId", "d7/d84/a09855.html#a3ab0244b34c30cc7d929b418da31d7d3", null ],
-    [ "OverrideLightId", "d7/d84/a09855.html#a0d43acd5539d3449b7c36ee88518346e", null ],
-    [ "WeatherGrade", "d7/d84/a09855.html#a923c3231c49554addd1522f0ccc50e2d", null ],
-    [ "WeatherId", "d7/d84/a09855.html#a4df1e694992a3c2638460601e4c4d7c9", null ]
+    [ "PositionFullTerrainStatus", "d7/d84/a09855.html#ae0349ed89530b35af91b7b1862acaffe", null ],
+    [ "areaId", "d7/d84/a09855.html#ac04966fa31b30f341a937906223463d4", null ],
+    [ "floorZ", "d7/d84/a09855.html#abbd186ca681e532d567b5a221a62c02b", null ],
+    [ "liquidInfo", "d7/d84/a09855.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
+    [ "outdoors", "d7/d84/a09855.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
 ];

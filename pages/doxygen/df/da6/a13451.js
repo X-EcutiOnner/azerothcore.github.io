@@ -1,7 +1,6 @@
 var a13451 =
 [
-    [ "HandleScript", "df/da6/a13451.html#aae2f572a523431f6764f08e4719adbcf", null ],
-    [ "PrepareSpellScript", "df/da6/a13451.html#a20fdb423d5db4f1fa629a0f0480e2a9f", null ],
-    [ "Register", "df/da6/a13451.html#ae3b002197564318cc92242bd925d35af", null ],
-    [ "Validate", "df/da6/a13451.html#a98d9d84fd26d110efbbbaba9a19ef423", null ]
+    [ "HandleActivateObject", "df/da6/a13451.html#aedcb4513b7c53b9a9e972b9051da0e0f", null ],
+    [ "PrepareSpellScript", "df/da6/a13451.html#afc844250ea7ba48330edfda305fa856c", null ],
+    [ "Register", "df/da6/a13451.html#a6d77f6848397724e61c1db7a80de7139", null ]
 ];

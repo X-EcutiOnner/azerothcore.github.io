@@ -1,6 +1,6 @@
 var a12711 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "d5/db2/a12715.html", "d5/db2/a12715" ],
-    [ "instance_gnomeregan", "d6/d72/a12711.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
-    [ "GetInstanceScript", "d6/d72/a12711.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
+    [ "npc_mc_core_houndAI", "d5/db2/a12715.html", "d5/db2/a12715" ],
+    [ "npc_mc_core_hound", "d6/d72/a12711.html#aee1ef71447dbd1494de5e0065bd5ae78", null ],
+    [ "GetAI", "d6/d72/a12711.html#a3aa8c5332b509b4d5498cd726ab47e40", null ]
 ];

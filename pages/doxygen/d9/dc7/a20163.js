@@ -1,5 +1,6 @@
 var a20163 =
 [
-    [ "go_ulduar_tower", "d9/dc7/a20163.html#afc1add1a0543921f52afe1eb907f5de3", null ],
-    [ "OnDestroyed", "d9/dc7/a20163.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
+    [ "npc_mechanoliftAI", "dc/d6d/a20167.html", "dc/d6d/a20167" ],
+    [ "npc_mechanolift", "d9/dc7/a20163.html#a7b753a3426213706c899745a6d0d989b", null ],
+    [ "GetAI", "d9/dc7/a20163.html#a823a929bf65f32cdbe9b56df5d33c66d", null ]
 ];

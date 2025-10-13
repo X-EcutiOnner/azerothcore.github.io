@@ -1,6 +1,6 @@
 var a21343 =
 [
-    [ "npc_ravenous_furbolgAI", "de/d45/a21347.html", "de/d45/a21347" ],
-    [ "npc_ravenous_furbolg", "db/d28/a21343.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
-    [ "GetAI", "db/d28/a21343.html#a284c366e6f5bd024d9627a83dd966669", null ]
+    [ "npc_ferocious_rhinoAI", "de/d45/a21347.html", "de/d45/a21347" ],
+    [ "npc_ferocious_rhino", "db/d28/a21343.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
+    [ "GetAI", "db/d28/a21343.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
 ];

@@ -1,16 +1,20 @@
 var a03464 =
 [
-    [ "npc_corporal_keeshan", "d5/d7d/a13819.html", "d5/d7d/a13819" ],
-    [ "npc_corporal_keeshan::npc_corporal_keeshanAI", "d0/d17/a13823.html", "d0/d17/a13823" ],
-    [ "CorporalKeeshan", "d4/d4b/a03464.html#aeff5ef215a48fcd7bb6837e1d77e4b45", [
-      [ "QUEST_MISSING_IN_ACTION", "d4/d4b/a03464.html#aeff5ef215a48fcd7bb6837e1d77e4b45a5671553041dd72c404603a8d8306d210", null ],
-      [ "SAY_CORPORAL_1", "d4/d4b/a03464.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac38c6d842f842737e2ce32328ac9f364", null ],
-      [ "SAY_CORPORAL_2", "d4/d4b/a03464.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0f3bc1435df322537b377cf731568c3f", null ],
-      [ "SAY_CORPORAL_3", "d4/d4b/a03464.html#aeff5ef215a48fcd7bb6837e1d77e4b45ac9f16a476377703de75fca38efc30445", null ],
-      [ "SAY_CORPORAL_4", "d4/d4b/a03464.html#aeff5ef215a48fcd7bb6837e1d77e4b45af4b07584ff68de1c2cb9c2ffc72b0dbe", null ],
-      [ "SAY_CORPORAL_5", "d4/d4b/a03464.html#aeff5ef215a48fcd7bb6837e1d77e4b45a6b6a9b8fdd7d72951451c7ae86adc8bf", null ],
-      [ "SPELL_MOCKING_BLOW", "d4/d4b/a03464.html#aeff5ef215a48fcd7bb6837e1d77e4b45a187756168a83876d24db61f38ff5ec5e", null ],
-      [ "SPELL_SHIELD_BASH", "d4/d4b/a03464.html#aeff5ef215a48fcd7bb6837e1d77e4b45a0d74cfe7662c959a043f01770a2c7bf4", null ]
+    [ "npc_professor_phizzlethorpe", "d2/d7a/a13727.html", "d2/d7a/a13727" ],
+    [ "npc_professor_phizzlethorpe::npc_professor_phizzlethorpeAI", "d1/d59/a13731.html", "d1/d59/a13731" ],
+    [ "ProfessorPhizzlethorpe", "d4/d4b/a03464.html#a2fbc348d7cc479e3131e261e4a86f0a1", [
+      [ "SAY_PROGRESS_1", "d4/d4b/a03464.html#a2fbc348d7cc479e3131e261e4a86f0a1ac7ef023ed2cd6e71dcfa4b57f34ffb21", null ],
+      [ "SAY_PROGRESS_2", "d4/d4b/a03464.html#a2fbc348d7cc479e3131e261e4a86f0a1a967473f354dae95832b5e82733f4cced", null ],
+      [ "SAY_PROGRESS_3", "d4/d4b/a03464.html#a2fbc348d7cc479e3131e261e4a86f0a1a25cbd1006b2e610756fbd3227fb87dcc", null ],
+      [ "EMOTE_PROGRESS_4", "d4/d4b/a03464.html#a2fbc348d7cc479e3131e261e4a86f0a1a35c4fc6952e57458ffc3e74698dd2769", null ],
+      [ "SAY_AGGRO", "d4/d4b/a03464.html#a2fbc348d7cc479e3131e261e4a86f0a1a47c752fff069f3e55065795eef2a9bfe", null ],
+      [ "SAY_PROGRESS_5", "d4/d4b/a03464.html#a2fbc348d7cc479e3131e261e4a86f0a1aeee7fea4c8b3b6d3b0732bcde69433f3", null ],
+      [ "SAY_PROGRESS_6", "d4/d4b/a03464.html#a2fbc348d7cc479e3131e261e4a86f0a1a36a5f74e6995b5cd9d8df351e57bfa84", null ],
+      [ "SAY_PROGRESS_7", "d4/d4b/a03464.html#a2fbc348d7cc479e3131e261e4a86f0a1a9e815bbd308d3234b2feecf6dcd4e4cd", null ],
+      [ "EMOTE_PROGRESS_8", "d4/d4b/a03464.html#a2fbc348d7cc479e3131e261e4a86f0a1a09177823914cf4cba524cd102c309c4e", null ],
+      [ "SAY_PROGRESS_9", "d4/d4b/a03464.html#a2fbc348d7cc479e3131e261e4a86f0a1a0d013e69b765c1cc9024427c5967dbdf", null ],
+      [ "QUEST_SUNKEN_TREASURE", "d4/d4b/a03464.html#a2fbc348d7cc479e3131e261e4a86f0a1a70619c446edf1e13b81824e234d2c7f3", null ],
+      [ "NPC_VENGEFUL_SURGE", "d4/d4b/a03464.html#a2fbc348d7cc479e3131e261e4a86f0a1aa30485aedeea21658a4aa93a8f361873", null ]
     ] ],
-    [ "AddSC_redridge_mountains", "d4/d4b/a03464.html#a0e7af4a9a0f1dcec20ae3d284f9721c5", null ]
+    [ "AddSC_arathi_highlands", "d4/d4b/a03464.html#a1e4a782474f0928dbacdf32c0ba395fd", null ]
 ];

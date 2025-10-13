@@ -1,6 +1,6 @@
 var a17027 =
 [
-    [ "boss_falricAI", "d3/d68/a17031.html", "d3/d68/a17031" ],
-    [ "boss_falric", "d5/d46/a17027.html#aa64253f502f79db5947c09788fb66deb", null ],
-    [ "GetAI", "d5/d46/a17027.html#a95249877208d19bb54edd8de18616158", null ]
+    [ "instance_forge_of_souls_InstanceScript", "d3/d68/a17031.html", "d3/d68/a17031" ],
+    [ "instance_forge_of_souls", "d5/d46/a17027.html#a504896f6e191c87ce77231c4ef267b27", null ],
+    [ "GetInstanceScript", "d5/d46/a17027.html#a64982b527cfa6057315b8e628549480b", null ]
 ];

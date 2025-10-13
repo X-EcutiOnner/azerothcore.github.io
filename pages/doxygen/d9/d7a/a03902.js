@@ -1,14 +1,14 @@
 var a03902 =
 [
-    [ "npc_artorius", "d8/da1/a27695.html", "d8/da1/a27695" ],
-    [ "npc_artorius::npc_artoriusAI", "d2/d46/a27699.html", "d2/d46/a27699" ],
-    [ "npc_precious", "d2/d77/a27703.html", "d2/d77/a27703" ],
-    [ "npc_precious::npc_preciousAI", "d4/de1/a27707.html", "d4/de1/a27707" ],
-    [ "npc_simone", "d5/d78/a27711.html", "d5/d78/a27711" ],
-    [ "npc_simone::npc_simoneAI", "d2/d18/a27715.html", "d2/d18/a27715" ],
-    [ "npc_nelson", "d2/dca/a27719.html", "d2/dca/a27719" ],
-    [ "npc_nelson::npc_nelsonAI", "de/d8d/a27723.html", "de/d8d/a27723" ],
-    [ "npc_franklin", "da/dc3/a27727.html", "da/dc3/a27727" ],
-    [ "npc_franklin::npc_franklinAI", "d1/d8d/a27731.html", "d1/d8d/a27731" ],
-    [ "AddSC_npc_stave_of_ancients", "d9/d7a/a03902.html#a81e200e5d045a2403cd76a0559a6fd8c", null ]
+    [ "guard_shattrath_scryer", "dc/d0b/a27655.html", "dc/d0b/a27655" ],
+    [ "guard_shattrath_scryer::guard_shattrath_scryerAI", "dc/d81/a27659.html", "dc/d81/a27659" ],
+    [ "guard_shattrath_aldor", "d4/dd7/a27663.html", "d4/dd7/a27663" ],
+    [ "guard_shattrath_aldor::guard_shattrath_aldorAI", "de/def/a27667.html", "de/def/a27667" ],
+    [ "GuardShattrath", "d9/d7a/a03902.html#a7c8fcdd86e1aa9eab132e6321290e79c", [
+      [ "SPELL_BANISHED_SHATTRATH_A", "d9/d7a/a03902.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe", null ],
+      [ "SPELL_BANISHED_SHATTRATH_S", "d9/d7a/a03902.html#a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48", null ],
+      [ "SPELL_BANISH_TELEPORT", "d9/d7a/a03902.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0", null ],
+      [ "SPELL_EXILE", "d9/d7a/a03902.html#a7c8fcdd86e1aa9eab132e6321290e79ca6758cdbc7bb8447df1f7b3073833463d", null ]
+    ] ],
+    [ "AddSC_guards", "d9/d7a/a03902.html#acba582cbc90c710c629dd30926acdca4", null ]
 ];

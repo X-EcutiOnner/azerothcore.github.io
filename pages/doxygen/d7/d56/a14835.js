@@ -1,6 +1,8 @@
 var a14835 =
 [
-    [ "OnRemove", "d7/d56/a14835.html#af9da33426d8ea4462f7d9957c4312019", null ],
-    [ "PrepareAuraScript", "d7/d56/a14835.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
-    [ "Register", "d7/d56/a14835.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
+    [ "npc_doomfire_spirit", "d7/d56/a14835.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
+    [ "Reset", "d7/d56/a14835.html#a0600718fad91723eba74b903583c5942", null ],
+    [ "TryTeleportInDirection", "d7/d56/a14835.html#a7fc48df636df66a006a8179fd63e2a65", null ],
+    [ "UpdateAI", "d7/d56/a14835.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
+    [ "turnConstant", "d7/d56/a14835.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
 ];

@@ -1,12 +1,9 @@
 var a28823 =
 [
-    [ "TestVisibilityScript", "db/dec/a28823.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
-    [ "EnsureRegistered", "db/dec/a28823.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
-    [ "OnPlayerSetServerSideVisibility", "db/dec/a28823.html#a6b3701188303b644b28a52ec42bec846", null ],
-    [ "Reset", "db/dec/a28823.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
-    [ "CallCount", "db/dec/a28823.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
-    [ "Instance", "db/dec/a28823.html#adcf0326aa1e32db109ec920857868138", null ],
-    [ "LastPlayer", "db/dec/a28823.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
-    [ "LastSecurity", "db/dec/a28823.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
-    [ "LastType", "db/dec/a28823.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
+    [ "flags", "db/dec/a28823.html#a064de2e88c563121bbb78549a7bab868", null ],
+    [ "_flags", "db/dec/a28823.html#a16f1b30a57eb6703e8073ef55d988391", null ],
+    [ "bits", "db/dec/a28823.html#a529f1856635132646457c57f3546f4ec", null ],
+    [ "configKey", "db/dec/a28823.html#af14d118016b9e01612769c00f13aa2d6", null ],
+    [ "oldKey", "db/dec/a28823.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
+    [ "owner", "db/dec/a28823.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
 ];

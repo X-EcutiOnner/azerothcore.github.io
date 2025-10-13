@@ -1,7 +1,6 @@
 var a08627 =
 [
-    [ "ItemPosCount", "d9/da4/a08627.html#a43458da1fc31d827b6de726754f7901e", null ],
-    [ "isContainedIn", "d9/da4/a08627.html#a6977c544a2d39ca5872b75f27517974f", null ],
-    [ "count", "d9/da4/a08627.html#a4e09f94aa0808f76b2d5ff23691abb27", null ],
-    [ "pos", "d9/da4/a08627.html#ad8954f1a6323316510cfe0f332ee495f", null ]
+    [ "SkillStatusData", "d9/da4/a08627.html#a7594ceb20110da34f3aa68ac69996b94", null ],
+    [ "pos", "d9/da4/a08627.html#a51ccb328b807f2c7fd275d843218f466", null ],
+    [ "uState", "d9/da4/a08627.html#a232801ad25897a82739916d5be4fdc22", null ]
 ];

@@ -1,6 +1,6 @@
 var a12343 =
 [
-    [ "npc_vaelastrasz_the_redAI", "d2/d4c/a12347.html", "d2/d4c/a12347" ],
-    [ "npc_vaelastrasz_the_red", "de/ddf/a12343.html#af39fcaa29b200e3b7933f97de277df6b", null ],
-    [ "GetAI", "de/ddf/a12343.html#a59e7630d5060986dc4209d2d2b5ef42b", null ]
+    [ "instance_blackrock_spireMapScript", "d2/d4c/a12347.html", "d2/d4c/a12347" ],
+    [ "instance_blackrock_spire", "de/ddf/a12343.html#a3238be88efcdc9669e7e6a1d725649b3", null ],
+    [ "GetInstanceScript", "de/ddf/a12343.html#a5ee2cc38a36ce2cd8c1196ce9f687e2a", null ]
 ];

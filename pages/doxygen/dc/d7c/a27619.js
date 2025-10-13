@@ -1,10 +1,5 @@
 var a27619 =
 [
-    [ "guard_shattrath_scryerAI", "dc/d7c/a27619.html#a97accbf467ca1190f8a05512b3857164", null ],
-    [ "Reset", "dc/d7c/a27619.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
-    [ "UpdateAI", "dc/d7c/a27619.html#ad759cca08b0093522e190ddc038e2c73", null ],
-    [ "banishTimer", "dc/d7c/a27619.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
-    [ "canTeleport", "dc/d7c/a27619.html#a84188b40b44deae5714466bb23bf2f0d", null ],
-    [ "exileTimer", "dc/d7c/a27619.html#a97fbc3f54c23049fd91ad432cd560698", null ],
-    [ "playerGUID", "dc/d7c/a27619.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
+    [ "go_soulwellAI", "dc/d7c/a27619.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
+    [ "GossipHello", "dc/d7c/a27619.html#a3df147478af8930d9b6108a183e9478f", null ]
 ];

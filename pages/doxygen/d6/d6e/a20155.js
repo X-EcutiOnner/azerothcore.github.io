@@ -1,6 +1,6 @@
 var a20155 =
 [
-    [ "npc_mechanoliftAI", "da/d10/a20159.html", "da/d10/a20159" ],
-    [ "npc_mechanolift", "d6/d6e/a20155.html#a7b753a3426213706c899745a6d0d989b", null ],
-    [ "GetAI", "d6/d6e/a20155.html#a823a929bf65f32cdbe9b56df5d33c66d", null ]
+    [ "boss_flame_leviathan_safety_containerAI", "da/d10/a20159.html", "da/d10/a20159" ],
+    [ "boss_flame_leviathan_safety_container", "d6/d6e/a20155.html#ae14b2e13bd6358ad03d568f2bef042b7", null ],
+    [ "GetAI", "d6/d6e/a20155.html#a6bcbc4e65214a0c667875271ff9aa0dd", null ]
 ];

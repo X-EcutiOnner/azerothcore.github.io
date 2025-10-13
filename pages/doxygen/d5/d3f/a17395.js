@@ -1,6 +1,6 @@
 var a17395 =
 [
-    [ "boss_gal_darahAI", "d1/df9/a17399.html", "d1/df9/a17399" ],
-    [ "boss_gal_darah", "d5/d3f/a17395.html#a687bb98f9de9cd838c57511dc6b3d086", null ],
-    [ "GetAI", "d5/d3f/a17395.html#a8f709568f5a06265056571061ff3a26b", null ]
+    [ "boss_eckAI", "d1/df9/a17399.html", "d1/df9/a17399" ],
+    [ "boss_eck", "d5/d3f/a17395.html#aa445927936d7759a8c3289e2899181e5", null ],
+    [ "GetAI", "d5/d3f/a17395.html#a335755ec7416d3e00a4070e03569293a", null ]
 ];

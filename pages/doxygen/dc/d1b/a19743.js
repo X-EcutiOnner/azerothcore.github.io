@@ -1,6 +1,6 @@
 var a19743 =
 [
-    [ "npc_molten_golemAI", "d9/d3c/a19747.html", "d9/d3c/a19747" ],
-    [ "npc_molten_golem", "dc/d1b/a19743.html#a63e16216a59b50524632b49599bd3bd1", null ],
-    [ "GetAI", "dc/d1b/a19743.html#a22a723039267cb0901b78c6064a88d0c", null ]
+    [ "boss_volkhanAI", "d9/d3c/a19747.html", "d9/d3c/a19747" ],
+    [ "boss_volkhan", "dc/d1b/a19743.html#a9dcb6026fbf3116df9abf5acaf1bfcc2", null ],
+    [ "GetAI", "dc/d1b/a19743.html#aa0f76b387f9f74e0eb6dedd1b44ce34a", null ]
 ];

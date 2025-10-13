@@ -1,6 +1,6 @@
 var a10519 =
 [
-    [ "ShowBank", "d1/ddd/a10519.html#a57c189db7f6338f73d4e0028d846cfcf", null ],
-    [ "Write", "d1/ddd/a10519.html#a39e1b86a7d4d6163ab504797be1af505", null ],
-    [ "Banker", "d1/ddd/a10519.html#aeceda879d837508d95b79fbd3ee8d892", null ]
+    [ "BuyBankSlot", "d1/ddd/a10519.html#a0bc11087e9359c6ac762f915b11287d8", null ],
+    [ "Read", "d1/ddd/a10519.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
+    [ "Banker", "d1/ddd/a10519.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
 ];

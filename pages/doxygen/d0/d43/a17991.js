@@ -1,6 +1,6 @@
 var a17991 =
 [
-    [ "npc_coldflameAI", "d8/d72/a17995.html", "d8/d72/a17995" ],
-    [ "npc_coldflame", "d0/d43/a17991.html#a573b887358e2ba2281c4c119a267c33f", null ],
-    [ "GetAI", "d0/d43/a17991.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
+    [ "BoneStormMoveTargetSelector", "d0/d43/a17991.html#acd13e67fbbc29137ca2b77aaf9dc0e77", null ],
+    [ "operator()", "d0/d43/a17991.html#a5b53c140d38db0df8faef3dfaf5c458d", null ],
+    [ "_source", "d0/d43/a17991.html#a03d8b1ec5f18398fe2963418bb319973", null ]
 ];

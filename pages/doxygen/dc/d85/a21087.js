@@ -1,6 +1,6 @@
 var a21087 =
 [
-    [ "boss_yoggsaron_influence_tentacleAI", "dc/d85/a21087.html#ae7457ed8084888b1074a44dd9a7ed0c7", null ],
-    [ "DamageTaken", "dc/d85/a21087.html#ad46e93ffb89c9c3ee9bfbe0f27c7117c", null ],
-    [ "JustDied", "dc/d85/a21087.html#ab09c96d167b9502098b9a7a2fa1b82ec", null ]
+    [ "boss_yoggsaron_descend_portalAI", "dc/d85/a21087.html#a50ddd1d7b1d4a2e729657e53dfee43f2", null ],
+    [ "OnSpellClick", "dc/d85/a21087.html#aba032a7347230db028d1e939944d3f46", null ],
+    [ "_instance", "dc/d85/a21087.html#a477abf19a0b5bf9865550541877a29d7", null ]
 ];

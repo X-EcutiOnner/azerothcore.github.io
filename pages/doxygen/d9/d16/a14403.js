@@ -1,6 +1,6 @@
 var a14403 =
 [
-    [ "HandleDummyEffect", "d9/d16/a14403.html#a3860ad8a34e37601f7a4cef395f7ab2a", null ],
-    [ "PrepareSpellScript", "d9/d16/a14403.html#a1c69fb2fd3fa623d62647fca738d27d6", null ],
-    [ "Register", "d9/d16/a14403.html#ad1cbf7ed8f7d119bb56d06fb62358458", null ]
+    [ "HandleEffectRemove", "d9/d16/a14403.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
+    [ "PrepareAuraScript", "d9/d16/a14403.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
+    [ "Register", "d9/d16/a14403.html#aa436788f638fedacb217ca508da5f426", null ]
 ];

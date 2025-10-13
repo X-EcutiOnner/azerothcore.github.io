@@ -1,12 +1,12 @@
 var a19223 =
 [
-    [ "npc_gothik_triggerAI", "d6/de7/a19223.html#ae45c6de238755eb069e0c182943da58c", null ],
-    [ "DamageTaken", "d6/de7/a19223.html#ada8e501edfadbb55162532f081a4b48b", null ],
-    [ "EnterEvadeMode", "d6/de7/a19223.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
-    [ "JustEngagedWith", "d6/de7/a19223.html#ab5403383f1fcd539cacf975dffbe2817", null ],
-    [ "JustSummoned", "d6/de7/a19223.html#a35be0135b77a3e62ac8d421910cf0674", null ],
-    [ "SelectRandomSkullPile", "d6/de7/a19223.html#aeafc63047c9059afdf668b8c22d2937f", null ],
-    [ "SpellHit", "d6/de7/a19223.html#a18a8135ab0395991afc4896950783ae5", null ],
-    [ "SummonedCreatureDespawn", "d6/de7/a19223.html#ad7ed092509dd41fddd44a4024c011364", null ],
-    [ "UpdateAI", "d6/de7/a19223.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
+    [ "npc_boss_gothik_minionAI", "d6/de7/a19223.html#aa719d87c65294fc483b424b125619a10", null ],
+    [ "IsOnSameSide", "d6/de7/a19223.html#a7d305be5e3d66c1317fa91e588223da0", null ],
+    [ "JustDied", "d6/de7/a19223.html#a752b6eab9cf1b016962c6f535586b59d", null ],
+    [ "JustEngagedWith", "d6/de7/a19223.html#ad86778d5a0e883a839b4a43425a57d7f", null ],
+    [ "KilledUnit", "d6/de7/a19223.html#a6a09440d623dcee51b7e0d4ed77d624e", null ],
+    [ "Reset", "d6/de7/a19223.html#a309401236c254cd850759a0cbb4004e0", null ],
+    [ "UpdateAI", "d6/de7/a19223.html#a43744e96be00d8bc0afc34a570e79947", null ],
+    [ "events", "d6/de7/a19223.html#ae2dde7b4fc655b1ae27410d299776c49", null ],
+    [ "livingSide", "d6/de7/a19223.html#a2545d00e04bae9ee0a1bf9f9d6162c74", null ]
 ];

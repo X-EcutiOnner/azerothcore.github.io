@@ -1,8 +1,6 @@
 var a21227 =
 [
-    [ "npc_ulduar_keeperAI", "d2/dc9/a21231.html", "d2/dc9/a21231" ],
-    [ "npc_ulduar_keeper", "d0/ded/a21227.html#a252b781061a2e21dc961ea94f7120d59", null ],
-    [ "GetAI", "d0/ded/a21227.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
-    [ "OnGossipHello", "d0/ded/a21227.html#a4db12efd22c7d2a5f18144fd16543230", null ],
-    [ "OnGossipSelect", "d0/ded/a21227.html#acf8681577117107d16d45705e4b8463f", null ]
+    [ "instance_ulduar_InstanceMapScript", "d2/dc9/a21231.html", "d2/dc9/a21231" ],
+    [ "instance_ulduar", "d0/ded/a21227.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
+    [ "GetInstanceScript", "d0/ded/a21227.html#ad15f003a90e656910fc32d661ca9baba", null ]
 ];

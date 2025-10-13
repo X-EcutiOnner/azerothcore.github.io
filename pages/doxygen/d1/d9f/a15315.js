@@ -1,6 +1,17 @@
 var a15315 =
 [
-    [ "FilterTargets", "d1/d9f/a15315.html#a3ec2840ab1d853a1546c64a2d158e75f", null ],
-    [ "PrepareSpellScript", "d1/d9f/a15315.html#a511e54100036307aa5d37bc959405c73", null ],
-    [ "Register", "d1/d9f/a15315.html#a31d1d590f0e6fc2e56322d606961828f", null ]
+    [ "boss_eye_of_cthun", "d1/d9f/a15315.html#ac780d2e04a1fab6bd02db049bc6eaab2", null ],
+    [ "DamageTaken", "d1/d9f/a15315.html#a1a28da1eefd61303201d1f3150fe405f", null ],
+    [ "DoAction", "d1/d9f/a15315.html#a102aabe3ce6d89b6403760c11eac87ec", null ],
+    [ "JustDied", "d1/d9f/a15315.html#a4dec255ac49195d835390772a8f1f517", null ],
+    [ "JustEngagedWith", "d1/d9f/a15315.html#ae83ed5b888df95ad0b854f67192cbd4a", null ],
+    [ "JustSummoned", "d1/d9f/a15315.html#a5c037c1fa7adb8355242bf36beb9c61d", null ],
+    [ "MoveInLineOfSight", "d1/d9f/a15315.html#a4555b8c931f9d02b7bd3af1c1f569c6c", null ],
+    [ "Reset", "d1/d9f/a15315.html#a66aec1afcbaa46ede6be2ffc32b67faa", null ],
+    [ "ScheduleTask", "d1/d9f/a15315.html#a14e5b518f2c8534096b8a8059458636d", null ],
+    [ "_beamTarget", "d1/d9f/a15315.html#a2c217290b988d06397c52e3485a7dae8", null ],
+    [ "_eyeTentacleCounter", "d1/d9f/a15315.html#a559d6ba31ed626d8c42a00c230d647b8", null ],
+    [ "ClockWise", "d1/d9f/a15315.html#a701a24f3a06657467b8665d2e4216710", null ],
+    [ "DarkGlareAngle", "d1/d9f/a15315.html#ac71992a2cf223d65c0e06cd8bd440164", null ],
+    [ "DarkGlareTick", "d1/d9f/a15315.html#af546d3325ad456d335148cd7284f7cad", null ]
 ];

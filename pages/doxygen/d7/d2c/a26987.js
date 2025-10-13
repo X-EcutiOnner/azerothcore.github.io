@@ -1,6 +1,8 @@
 var a26987 =
 [
-    [ "HandleSchoolDMG", "d7/d2c/a26987.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
-    [ "PrepareSpellScript", "d7/d2c/a26987.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
-    [ "Register", "d7/d2c/a26987.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
+    [ "CheckProc", "d7/d2c/a26987.html#a33412f2b5abb1ce2160408ef13e7f0cb", null ],
+    [ "HandleProc", "d7/d2c/a26987.html#ab24c3d3f697a7ebd146d6135305c7741", null ],
+    [ "PrepareAuraScript", "d7/d2c/a26987.html#a8eccfbb749b85bbb850874324f17bbde", null ],
+    [ "Register", "d7/d2c/a26987.html#a482dd09de6cba9f5a36a6cdad1b82a0a", null ],
+    [ "Validate", "d7/d2c/a26987.html#a0c3020d44608920a2820e73e0b9e4b42", null ]
 ];

@@ -1,5 +1,5 @@
 var a27567 =
 [
-    [ "go_jotunheim_cage", "d0/d84/a27567.html#a28c9312de97a822e34f05c7358b42df4", null ],
-    [ "OnGossipHello", "d0/d84/a27567.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
+    [ "go_tablet_of_the_seven", "d0/d84/a27567.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
+    [ "OnGossipHello", "d0/d84/a27567.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
 ];

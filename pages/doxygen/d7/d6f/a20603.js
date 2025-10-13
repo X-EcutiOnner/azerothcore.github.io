@@ -1,5 +1,6 @@
 var a20603 =
 [
-    [ "achievement_kologarn_rubble_and_roll", "d7/d6f/a20603.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
-    [ "OnCheck", "d7/d6f/a20603.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
+    [ "OnPeriodic", "d7/d6f/a20603.html#a8a12342f694499043e8ed4446fd92d36", null ],
+    [ "PrepareAuraScript", "d7/d6f/a20603.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
+    [ "Register", "d7/d6f/a20603.html#a381709d53101832de6b2161c4a33a0d4", null ]
 ];

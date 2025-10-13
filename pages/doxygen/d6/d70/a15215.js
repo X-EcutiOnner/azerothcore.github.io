@@ -1,9 +1,7 @@
 var a15215 =
 [
-    [ "go_ossirian_crystalAI", "d6/d70/a15215.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
-    [ "DoAction", "d6/d70/a15215.html#a581436335d190466520c07fde56ad441", null ],
-    [ "GossipHello", "d6/d70/a15215.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
-    [ "SetGUID", "d6/d70/a15215.html#a9c983aa02285dbebc545b4056191200c", null ],
-    [ "_instance", "d6/d70/a15215.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
-    [ "_triggerGUID", "d6/d70/a15215.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
+    [ "go_sand_trap", "d6/d70/a15215.html#a58d45acac672cb05988ddca78185b469", null ],
+    [ "Reset", "d6/d70/a15215.html#a7071a3e420e9137ca133b471bc217bf3", null ],
+    [ "UpdateAI", "d6/d70/a15215.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
+    [ "_scheduler", "d6/d70/a15215.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
 ];

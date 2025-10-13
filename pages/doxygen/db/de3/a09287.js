@@ -1,9 +1,10 @@
 var a09287 =
 [
-    [ "UnitListSearcher", "db/de3/a09287.html#a24c0de32dc3baa927962626421a343ae", null ],
-    [ "Visit", "db/de3/a09287.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d", null ],
-    [ "Visit", "db/de3/a09287.html#a92f9b0407e609b6c61f10d93aa49912f", null ],
-    [ "Visit", "db/de3/a09287.html#a5fddd281a9f9cd10cf3948d4bf7b626f", null ],
-    [ "i_check", "db/de3/a09287.html#a508a47e6261e7ae6e5669aee853ff99e", null ],
-    [ "i_phaseMask", "db/de3/a09287.html#a43c863350bea423cf4a720c4c680fd4c", null ]
+    [ "UnitSearcher", "db/de3/a09287.html#a4c50b4594650d9f3f83a40ac02f1a954", null ],
+    [ "Visit", "db/de3/a09287.html#a5e419d2cb0de5ae58373e521d3a84ac6", null ],
+    [ "Visit", "db/de3/a09287.html#a4bf8a315ab9464bbc5b0c8cae5c27fed", null ],
+    [ "Visit", "db/de3/a09287.html#ac65516ed337b509ff5c316fb29727854", null ],
+    [ "i_check", "db/de3/a09287.html#a3618df5a6ae33e76b802eae9cac1e1bd", null ],
+    [ "i_object", "db/de3/a09287.html#a3029760131a6f50883246afe2533c062", null ],
+    [ "i_phaseMask", "db/de3/a09287.html#ab94911f3f275de6a9ce9f15f1169c81c", null ]
 ];

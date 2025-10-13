@@ -1,6 +1,8 @@
 var a14971 =
 [
-    [ "npc_cos_stratholme_citizienAI", "d2/df8/a14975.html", "d2/df8/a14975" ],
-    [ "npc_cos_stratholme_citizien", "d4/d4b/a14971.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
-    [ "GetAI", "d4/d4b/a14971.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
+    [ "npc_arthasAI", "d2/df8/a14975.html", "d2/df8/a14975" ],
+    [ "npc_arthas", "d4/d4b/a14971.html#a87c280ff9861187b0a713f795e657266", null ],
+    [ "GetAI", "d4/d4b/a14971.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
+    [ "OnGossipHello", "d4/d4b/a14971.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
+    [ "OnGossipSelect", "d4/d4b/a14971.html#aeca2f4baa3c943281c676c6498393165", null ]
 ];

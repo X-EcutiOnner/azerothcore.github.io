@@ -1,7 +1,7 @@
 var a26523 =
 [
-    [ "if", "d6/dcf/a26523.html#aefedb14e99d2e60abfd58f7778deb39b", null ],
-    [ "PrepareAuraScript", "d6/dcf/a26523.html#ad61e8c804e59ca0623748acde69aeddb", null ],
-    [ "Register", "d6/dcf/a26523.html#af917d32bc0d7f825a52c0a916a3a2357", null ],
-    [ "AuraEffectHandleModes", "d6/dcf/a26523.html#accfab0bada4faf21178e3f67a79c6dfe", null ]
+    [ "HandleApplyEffect", "d6/dcf/a26523.html#af95120b26a165196e0310956c245f36f", null ],
+    [ "HandleRemoveEffect", "d6/dcf/a26523.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
+    [ "PrepareAuraScript", "d6/dcf/a26523.html#ae19e002407db1466f0655db3d14fe0d7", null ],
+    [ "Register", "d6/dcf/a26523.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
 ];

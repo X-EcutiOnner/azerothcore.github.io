@@ -1,18 +1,7 @@
 var a17695 =
 [
-    [ "boss_festergutAI", "d6/db7/a17695.html#a7649f45cfc8bf05bf46b4e50319b4fb3", null ],
-    [ "EnterEvadeMode", "d6/db7/a17695.html#a001e00435bb01b464573dbff8338c64a", null ],
-    [ "GetData", "d6/db7/a17695.html#aea4509b130c9b5a8a5dd054ac8783312", null ],
-    [ "JustDied", "d6/db7/a17695.html#abd0f4f55cfb026d0e25ff7a825d390d1", null ],
-    [ "JustEngagedWith", "d6/db7/a17695.html#ad5538ae8933a4fd492ab45560dea785e", null ],
-    [ "JustReachedHome", "d6/db7/a17695.html#a7e371063b84df1f8fe1df1a5bff38ca9", null ],
-    [ "KilledUnit", "d6/db7/a17695.html#a3af6cacb219928c3c89f7ce3d980ae88", null ],
-    [ "RemoveBlight", "d6/db7/a17695.html#a5807cd013ebe935f69bc1824386afd72", null ],
-    [ "Reset", "d6/db7/a17695.html#aeb046d9ef4aa9b7b94aa1ee1727ab1be", null ],
-    [ "SetData", "d6/db7/a17695.html#af8678cd7e9ddd7ef8095217e4820e7af", null ],
-    [ "SpellHitTarget", "d6/db7/a17695.html#a0c6684365e711d48f4f4ffc4a2b4e524", null ],
-    [ "UpdateAI", "d6/db7/a17695.html#ac2b9e850d425336f2bdc6a1d9a707fa0", null ],
-    [ "_gasDummyGUID", "d6/db7/a17695.html#a742b6ab0990d54e011ac36fde2c2cca2", null ],
-    [ "_inhaleCounter", "d6/db7/a17695.html#aed5b7fce1ebf9f76fffa2ba682c54b4e", null ],
-    [ "_maxInoculatedStack", "d6/db7/a17695.html#aeda8f6f959f7b7bd311aabde940a05ca", null ]
+    [ "npc_icc_blood_beastAI", "d6/db7/a17695.html#af52eff9f66451444c5acba6930c1bff6", null ],
+    [ "DoAction", "d6/db7/a17695.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
+    [ "UpdateAI", "d6/db7/a17695.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
+    [ "timer1", "d6/db7/a17695.html#a1074059162f818088808795119f081be", null ]
 ];

@@ -1,19 +1,12 @@
 var a07859 =
 [
-    [ "HostileRefMgr", "d4/dcf/a07859.html#a892bb42b0068242eb73723924a47d299", null ],
-    [ "~HostileRefMgr", "d4/dcf/a07859.html#aa241f443839e2eba8dded66bd67438a5", null ],
-    [ "addTempThreat", "d4/dcf/a07859.html#a2c74a35806e10917a5d619dcf785f5a5", null ],
-    [ "addThreatPercent", "d4/dcf/a07859.html#af19a7681493ed53a3a8bafbed2c80f76", null ],
-    [ "deleteReference", "d4/dcf/a07859.html#aa610d9538496658d47323b96cf6d8111", null ],
-    [ "deleteReferences", "d4/dcf/a07859.html#a0327a7238535a3d0961da1cca2102b0e", null ],
-    [ "deleteReferencesForFaction", "d4/dcf/a07859.html#ab3c2d4ed0629b7e68c265f96280ebb5d", null ],
-    [ "deleteReferencesOutOfRange", "d4/dcf/a07859.html#adda97e72581a9cf804abb5483ca82e8a", null ],
-    [ "getFirst", "d4/dcf/a07859.html#a9ca4a2de820859825701e3b9c2b93492", null ],
-    [ "GetOwner", "d4/dcf/a07859.html#aced75674dcdcdd8f5bb07a442fb6340a", null ],
-    [ "setOnlineOfflineState", "d4/dcf/a07859.html#a49753f69707cf223046784397c58d8c4", null ],
-    [ "setOnlineOfflineState", "d4/dcf/a07859.html#ac89f12ca41476ffaaa60b11cc8093642", null ],
-    [ "threatAssist", "d4/dcf/a07859.html#a69c355d1c078cfba9927c8c752912b48", null ],
-    [ "updateThreatTables", "d4/dcf/a07859.html#a7b34a7b9af4cae7e177f130a61e27a5b", null ],
-    [ "UpdateVisibility", "d4/dcf/a07859.html#a04a74a1a4cf017f6ead3334804d2d862", null ],
-    [ "iOwner", "d4/dcf/a07859.html#a5e0cb3a2053af2a738ba3efc0f6e5d21", null ]
+    [ "HyperlinkInfo", "d4/dcf/a07859.html#aa61aad1a1e2cf1a699ff67ee25cc474b", null ],
+    [ "HyperlinkInfo", "d4/dcf/a07859.html#ac08518b3afb878fc7979807d764b7872", null ],
+    [ "operator bool", "d4/dcf/a07859.html#a834ac95bb310f6653208026e203e065f", null ],
+    [ "color", "d4/dcf/a07859.html#a38c0121d4001ad938d9bc53ca08217db", null ],
+    [ "data", "d4/dcf/a07859.html#a7d7d839de8eb48a25e2b687b69a092ea", null ],
+    [ "ok", "d4/dcf/a07859.html#a54c7a812f79593258002d367110b2403", null ],
+    [ "tag", "d4/dcf/a07859.html#a2171d081c4eb0a23d00e637dfa64bcfc", null ],
+    [ "tail", "d4/dcf/a07859.html#a065d1a0942abbe5739f44126d5c3ce00", null ],
+    [ "text", "d4/dcf/a07859.html#a2b914c9bdc41771b8cb058468bfa23db", null ]
 ];

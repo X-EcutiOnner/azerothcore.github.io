@@ -1,7 +1,6 @@
 var a20527 =
 [
-    [ "HandleEffectPeriodic", "df/d62/a20527.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
-    [ "PrepareAuraScript", "df/d62/a20527.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
-    [ "Register", "df/d62/a20527.html#aed86a298340cc05fbe2a8a68396423bb", null ],
-    [ "Validate", "df/d62/a20527.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
+    [ "boss_ignisAI", "de/d9f/a20531.html", "de/d9f/a20531" ],
+    [ "boss_ignis", "df/d62/a20527.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
+    [ "GetAI", "df/d62/a20527.html#ac11ff148e9cbc985875f859268a3de01", null ]
 ];

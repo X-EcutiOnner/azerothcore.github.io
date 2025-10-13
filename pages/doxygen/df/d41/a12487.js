@@ -1,6 +1,8 @@
 var a12487 =
 [
-    [ "boss_vaelAI", "d9/d09/a12491.html", "d9/d09/a12491" ],
-    [ "boss_vaelastrasz", "df/d41/a12487.html#a0b51f3b50cde4907bd9064e8bf51c005", null ],
-    [ "GetAI", "df/d41/a12487.html#a42dde198f5fc0ab2e7ca28ac32c42b7e", null ]
+    [ "FilterTargets", "df/d41/a12487.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
+    [ "FilterTargetsEff", "df/d41/a12487.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
+    [ "PrepareSpellScript", "df/d41/a12487.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
+    [ "Register", "df/d41/a12487.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
+    [ "targetList", "df/d41/a12487.html#a874dc7877ecfae332c9f826f01afce0f", null ]
 ];

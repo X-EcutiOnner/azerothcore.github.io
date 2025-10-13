@@ -1,17 +1,15 @@
 var a12999 =
 [
-    [ "boss_priestess_lackey_commonAI", "df/d05/a12999.html#acf122076823631cef5d66e03a9f607aa", null ],
-    [ "AttackStart", "df/d05/a12999.html#a6056ef3425f39208e5731b25fc94a335", null ],
-    [ "EnterEvadeMode", "df/d05/a12999.html#a6935410d7a4ce8e9dec9feed9f5351d7", null ],
-    [ "GetThreatMod", "df/d05/a12999.html#a2e0e387ae4645c9bbd4625d1469403a8", null ],
-    [ "JustDied", "df/d05/a12999.html#a8b06ee0a3e22d495a41ccf4c7009ad2d", null ],
-    [ "JustEngagedWith", "df/d05/a12999.html#a4d47aacc653ab0e4b74fa3bcbcfdbbc7", null ],
-    [ "JustSummoned", "df/d05/a12999.html#a9a7bcf641bae31827872faf7666635d5", null ],
-    [ "KilledUnit", "df/d05/a12999.html#a23aaa0a619470898dd617a18130ca17b", null ],
-    [ "RecalculateThreat", "df/d05/a12999.html#a7daa8f2b2ddfbbd0d0f267dac7e0c2c2", null ],
-    [ "Reset", "df/d05/a12999.html#aa2ef03d73c43668c97205fa72414e71b", null ],
-    [ "UpdateAI", "df/d05/a12999.html#adf87bd797da345e49700265319d808cc", null ],
-    [ "aiType", "df/d05/a12999.html#a2b7ccbf195658e402ba6f276b18e3551", null ],
-    [ "instance", "df/d05/a12999.html#ac71aa86c97fe11d934f09d62c4ed8eab", null ],
-    [ "summons", "df/d05/a12999.html#a498ef73fcc7995113318c5f0b6efa23e", null ]
+    [ "npc_image_of_medivhAI", "df/d05/a12999.html#a1afe3245dc18db3c0bf6801b5ca20d31", null ],
+    [ "JustEngagedWith", "df/d05/a12999.html#a1013be426b3567d8cbd1c45debc914c5", null ],
+    [ "NextStep", "df/d05/a12999.html#a87160b37ba61af4866fe3f410813fe9f", null ],
+    [ "Reset", "df/d05/a12999.html#af2e7dd7f1038bb5662fe7375a7e052c4", null ],
+    [ "UpdateAI", "df/d05/a12999.html#a321d689d645b4630e2e93e6251d5130c", null ],
+    [ "ArcanagosGUID", "df/d05/a12999.html#a877c693b6ac736aa874926d8efe0d79a", null ],
+    [ "ATimer", "df/d05/a12999.html#a28aef0767b6adb0ccf0479dd50dc11a8", null ],
+    [ "EventStarted", "df/d05/a12999.html#a9a662b435218a3e13ca58eb4a6b3af86", null ],
+    [ "instance", "df/d05/a12999.html#a2e02aa8d441426aa51f46121eec0becb", null ],
+    [ "MTimer", "df/d05/a12999.html#a16c3f6d5bd1cc288590bd096233e0bfb", null ],
+    [ "Step", "df/d05/a12999.html#a9d7b9bdcf9e185284dba5251a0deb0b3", null ],
+    [ "YellTimer", "df/d05/a12999.html#a34ad7cabe4cb86e23deb30ca0ce77db0", null ]
 ];

@@ -1,6 +1,6 @@
 var a19887 =
 [
-    [ "npc_brann_bronzebeard_algalonAI", "d6/d43/a19891.html", "d6/d43/a19891" ],
-    [ "npc_brann_bronzebeard_algalon", "df/d6e/a19887.html#a2760d42de8f78250ca5862bfcb23ed2e", null ],
-    [ "GetAI", "df/d6e/a19887.html#ad8bc8bde865adcce1e9f6fd6234f1a0a", null ]
+    [ "boss_algalon_the_observerAI", "d6/d43/a19891.html", "d6/d43/a19891" ],
+    [ "boss_algalon_the_observer", "df/d6e/a19887.html#a0691b47a116401da58b246203ecba2cb", null ],
+    [ "GetAI", "df/d6e/a19887.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
 ];

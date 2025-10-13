@@ -1,7 +1,7 @@
 var a11311 =
 [
-    [ "SpellImmune", "dd/d8b/a11311.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
-    [ "blockType", "dd/d8b/a11311.html#a13a353d02a7330820df170eb46e7a26d", null ],
-    [ "spellId", "dd/d8b/a11311.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
-    [ "type", "dd/d8b/a11311.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
+    [ "chance", "dd/d8b/a11311.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
+    [ "triggeredByAura", "dd/d8b/a11311.html#abb48d6093570ba9c5488f200544a1e83", null ],
+    [ "triggeredByEffIdx", "dd/d8b/a11311.html#a82d752dedab39f417af225add6af1403", null ],
+    [ "triggeredSpell", "dd/d8b/a11311.html#a02ac12119655f9ab82347d21cc68803a", null ]
 ];

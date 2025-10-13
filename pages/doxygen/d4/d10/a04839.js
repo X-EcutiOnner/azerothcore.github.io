@@ -1,14 +1,9 @@
 var a04839 =
 [
-    [ "LinkTags", "de/daa/a04840.html", "de/daa/a04840" ],
-    [ "AchievementLinkData", "df/db3/a07782.html", "df/db3/a07782" ],
-    [ "GlyphLinkData", "dd/dbc/a07786.html", "dd/dbc/a07786" ],
-    [ "HyperlinkColor", "d8/d39/a07842.html", "d8/d39/a07842" ],
-    [ "HyperlinkInfo", "d8/d56/a07846.html", "d8/d56/a07846" ],
-    [ "ItemLinkData", "dc/dfa/a07790.html", "dc/dfa/a07790" ],
-    [ "QuestLinkData", "d0/d6e/a07794.html", "d0/d6e/a07794" ],
-    [ "TalentLinkData", "d3/d43/a07798.html", "d3/d43/a07798" ],
-    [ "TradeskillLinkData", "d6/d28/a07802.html", "d6/d28/a07802" ],
-    [ "CheckAllLinks", "d4/d10/a04839.html#a02761d9aa335689ff1b8dc1155b2a3c6", null ],
-    [ "ParseSingleHyperlink", "d4/d10/a04839.html#a2c5596879f4531eeedbe15d1e4987918", null ]
+    [ "PermissibleOrderPred", "dd/d85/a06231.html", "dd/d85/a06231" ],
+    [ "GetPermitFor", "d4/d10/a04839.html#aaf9c138ae6c123d03859db553a39892d", null ],
+    [ "SelectAI", "d4/d10/a04839.html#a10fef1ff3335f4642179ee423b1ff0d6", null ],
+    [ "SelectFactory", "d4/d10/a04839.html#ad553c2186f078e696768d40d217738f8", null ],
+    [ "SelectGameObjectAI", "d4/d10/a04839.html#a2ce404e9b85f551638d8783c01a19860", null ],
+    [ "SelectMovementGenerator", "d4/d10/a04839.html#a203d17bf72c42c0d3fdb77626b01b679", null ]
 ];

@@ -1,8 +1,8 @@
 var a08803 =
 [
-    [ "RedirectSpellEvent", "d1/d39/a08803.html#a77d243d64c2fc651d71c42e10a315161", null ],
-    [ "Execute", "d1/d39/a08803.html#a34ae2bc23904558bd5f5b99e8f1c5fdc", null ],
-    [ "_auraEffect", "d1/d39/a08803.html#a010f14a7d389b4e9ae9896061fa18a65", null ],
-    [ "_auraOwnerGUID", "d1/d39/a08803.html#a1b3fb598748362379fef15b3172d8e2b", null ],
-    [ "_self", "d1/d39/a08803.html#aecfa190843c1493b47652ccdac7ae9c3", null ]
+    [ "PowerPctOrderPred", "d1/d39/a08803.html#a4e765952cfbc1c83413a8f1c148b1fe4", null ],
+    [ "operator()", "d1/d39/a08803.html#a215b641a9364c7fcb82778c98f214271", null ],
+    [ "operator()", "d1/d39/a08803.html#a42cec64c5eaf01f8b6b7e334f57b1d4a", null ],
+    [ "_ascending", "d1/d39/a08803.html#aed7be288f876fdd35c1cdba53626b03c", null ],
+    [ "_power", "d1/d39/a08803.html#ad3d61a7c5c84d91bc26c99e778105b7c", null ]
 ];

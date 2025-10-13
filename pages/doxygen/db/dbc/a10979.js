@@ -1,4 +1,6 @@
 var a10979 =
 [
-    [ "Validate", "db/dbc/a10979.html#a33ba7592ac6571144fc3a7385dbc49f0", null ]
+    [ "ComplainResult", "db/dbc/a10979.html#a9c0f7cf8600887fdbc5283fa23f77857", null ],
+    [ "Write", "db/dbc/a10979.html#a1b74c82acbfae8d62c7b1d6ef59caa1e", null ],
+    [ "Unk", "db/dbc/a10979.html#a88445c8e01e64f89176dd6c1ebb1a986", null ]
 ];

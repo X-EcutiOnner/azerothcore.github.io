@@ -1,8 +1,7 @@
 var a09835 =
 [
-    [ "BoundaryIntersectBoundary", "d7/dad/a09835.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
-    [ "~BoundaryIntersectBoundary", "d7/dad/a09835.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
-    [ "IsWithinBoundaryArea", "d7/dad/a09835.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
-    [ "_b1", "d7/dad/a09835.html#ab0239437fa92e39d144bf3856eb347c7", null ],
-    [ "_b2", "d7/dad/a09835.html#a41e100c17db99990981293399660824c", null ]
+    [ "ZRangeBoundary", "d7/dad/a09835.html#ab9c77783e059de4478625f7c97713c49", null ],
+    [ "IsWithinBoundaryArea", "d7/dad/a09835.html#af1410b3eeb9e7096b1cc53caa7edd68f", null ],
+    [ "_maxZ", "d7/dad/a09835.html#a7226d6a69b9fb922a2ac06300ab060d8", null ],
+    [ "_minZ", "d7/dad/a09835.html#aee142d5bc4cfae80584b84ae451da05c", null ]
 ];

@@ -1,13 +1,12 @@
 var a10155 =
 [
-    [ "entry", "dc/dea/a10155.html#a300fb240386044aab139e777d6244d19", null ],
-    [ "map", "dc/dea/a10155.html#a2ec529bbd5b03490899a5c3a41cf739a", null ],
-    [ "o", "dc/dea/a10155.html#a379e36eac68d8ff487c90fdb9be0e83d", null ],
-    [ "rot0", "dc/dea/a10155.html#a8b808a7545a7efaf0bf352ec663ca9ba", null ],
-    [ "rot1", "dc/dea/a10155.html#a9aa433644fc5bedbb3749eacfd9a57fd", null ],
-    [ "rot2", "dc/dea/a10155.html#ae7c9755e9ae6293b3be8bdc121040f7f", null ],
-    [ "rot3", "dc/dea/a10155.html#a60460fc3030b24eef0246dae28af2282", null ],
-    [ "x", "dc/dea/a10155.html#a1587c3d17c78e1a94a1f2bc30b831c02", null ],
-    [ "y", "dc/dea/a10155.html#ab42ebe981ba589e3d67110487bd88255", null ],
-    [ "z", "dc/dea/a10155.html#a389d430f290dbb66d46ccb81daac6f0d", null ]
+    [ "delay", "dc/dea/a10155.html#aa05ef99c3e04589501362a07d0dd032a", null ],
+    [ "event_chance", "dc/dea/a10155.html#af54f2d38ca1a11664f516799f3bb80c8", null ],
+    [ "event_id", "dc/dea/a10155.html#a083020691278af836e48f0a0c2feff96", null ],
+    [ "id", "dc/dea/a10155.html#af7248c313ceefedb5b7ff6ed4c2ffd6b", null ],
+    [ "move_type", "dc/dea/a10155.html#afb1a57b423a258e99c6921727a27e2e7", null ],
+    [ "orientation", "dc/dea/a10155.html#a971411811b0e60839538f82cd55dcfb7", null ],
+    [ "x", "dc/dea/a10155.html#a2dfd7f1f946ebef0b67d8f1542198b4b", null ],
+    [ "y", "dc/dea/a10155.html#a574c5ba7eb5e6bd55f6c55bb511c03f7", null ],
+    [ "z", "dc/dea/a10155.html#a013fa650f43e790e652016fbce2e1bd5", null ]
 ];

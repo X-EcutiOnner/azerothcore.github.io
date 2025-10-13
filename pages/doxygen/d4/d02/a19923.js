@@ -1,8 +1,8 @@
 var a19923 =
 [
-    [ "go_celestial_planetarium_accessAI", "d4/d02/a19923.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
-    [ "GossipHello", "d4/d02/a19923.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
-    [ "UpdateAI", "d4/d02/a19923.html#a9b2bfb74a12e3258476387fc78cde574", null ],
-    [ "_locked", "d4/d02/a19923.html#a37f83dbbb05e461d613a4c38001f785c", null ],
-    [ "events", "d4/d02/a19923.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
+    [ "npc_algalon_worm_holeAI", "d4/d02/a19923.html#a07b36b40972bebea6b17890aa8fee50c", null ],
+    [ "JustSummoned", "d4/d02/a19923.html#a148de5da4502813e369ec6c52b1671a0", null ],
+    [ "Reset", "d4/d02/a19923.html#a915a8e5e23062cb10da9a3dbe387cf51", null ],
+    [ "UpdateAI", "d4/d02/a19923.html#a9df88d81aa4f4dd7e1dcdf6209832c32", null ],
+    [ "_summonTimer", "d4/d02/a19923.html#a73a55560e5ff7957d883f732bc0d2a82", null ]
 ];

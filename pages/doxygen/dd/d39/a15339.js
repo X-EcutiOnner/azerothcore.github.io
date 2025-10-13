@@ -1,6 +1,6 @@
 var a15339 =
 [
-    [ "OnRemove", "dd/d39/a15339.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
-    [ "PrepareAuraScript", "dd/d39/a15339.html#a47849d8241ed17ad0fb541c1178b0760", null ],
-    [ "Register", "dd/d39/a15339.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
+    [ "FilterTargets", "dd/d39/a15339.html#a3ec2840ab1d853a1546c64a2d158e75f", null ],
+    [ "PrepareSpellScript", "dd/d39/a15339.html#a511e54100036307aa5d37bc959405c73", null ],
+    [ "Register", "dd/d39/a15339.html#a31d1d590f0e6fc2e56322d606961828f", null ]
 ];

@@ -1,7 +1,9 @@
 var a27491 =
 [
-    [ "go_brewfest_musicAI", "dc/de2/a27491.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
-    [ "UpdateAI", "dc/de2/a27491.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
-    [ "_currentMusicEvent", "dc/de2/a27491.html#ad26a0309bdd4eafce4dfa310db929357", null ],
-    [ "_events", "dc/de2/a27491.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
+    [ "go_tadpole_cageAI", "dc/de2/a27491.html#a87dc192a13cecf834d49cd04451224cd", null ],
+    [ "GossipHello", "dc/de2/a27491.html#a5c59db4b4d21b9e7de9bbb8835f31f2a", null ],
+    [ "OnStateChanged", "dc/de2/a27491.html#aa545ba4659b288c1ce1f5c2332d5e61f", null ],
+    [ "SummonTadpoles", "dc/de2/a27491.html#ab4903827c78b1b042cc17aef661a0b4f", null ],
+    [ "UpdateAI", "dc/de2/a27491.html#af6d4f5c3fe822815f58665a0207e3c32", null ],
+    [ "requireSummon", "dc/de2/a27491.html#a9884081855fc45776a6b12b9a68890e4", null ]
 ];

@@ -1,9 +1,10 @@
 var a04676 =
 [
-    [ "Acore::Impl::StringConvertImpl::For< T, typename >", "d6/d3f/a05571.html", null ],
-    [ "Acore::Impl::StringConvertImpl::For< T, std::enable_if_t< std::is_integral_v< T > &&!std::is_same_v< T, bool > > >", "d5/da0/a05575.html", "d5/da0/a05575" ],
-    [ "Acore::Impl::StringConvertImpl::For< bool, void >", "de/d98/a05579.html", "de/d98/a05579" ],
-    [ "Acore::Impl::StringConvertImpl::For< T, std::enable_if_t< std::is_floating_point_v< T > > >", "d0/d52/a05583.html", "d0/d52/a05583" ],
-    [ "StringTo", "d5/def/a04676.html#a71739ada07c2f1b12bcd0aa811eea903", null ],
-    [ "ToString", "d5/def/a04676.html#ac2cb308fb001c35fbaa90489ea6cf478", null ]
+    [ "Acore::has_type< T, std::tuple< Us... > >", "dd/df1/a05635.html", null ],
+    [ "Acore::is_tuple< typename >", "d7/d9a/a05639.html", null ],
+    [ "Acore::is_tuple< std::tuple< Ts... > >", "d7/d3b/a05643.html", null ],
+    [ "new_from_tuple", "d5/def/a04676.html#aac12e702d41e9aa126f7d39f0f295252", null ],
+    [ "new_from_tuple", "d5/def/a04676.html#a028fc93107022ad23a763503c9b0bbdb", null ],
+    [ "has_type_v", "d5/def/a04676.html#aa4e7bc2a96e641dd1642a3c61cfc96b0", null ],
+    [ "is_tuple_v", "d5/def/a04676.html#a4104f84ad757b701a6ffbd51f5d10b9f", null ]
 ];

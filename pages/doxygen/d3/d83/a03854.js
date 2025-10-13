@@ -1,5 +1,10 @@
 var a03854 =
 [
-    [ "OutdoorPvP_zangarmarsh", "dd/d8f/a22795.html", "dd/d8f/a22795" ],
-    [ "AddSC_outdoorpvp_zm", "d3/d83/a03854.html#a3077d08865fa83f84cf956c392a9091c", null ]
+    [ "OutdoorPvPGH", "d1/dcc/a22739.html", "d1/dcc/a22739" ],
+    [ "OPvPCapturePointGH", "d0/dc6/a22743.html", "d0/dc6/a22743" ],
+    [ "OutdoorPvPGHenum", "d3/d83/a03854.html#a68fd4e51a6ab53a5f6bc93fe7800623b", [
+      [ "GH_ALLIANCE_DEFENSE_EVENT", "d3/d83/a03854.html#a68fd4e51a6ab53a5f6bc93fe7800623ba4d9e1d2fb4e064d2ec502e86046044c3", null ],
+      [ "GH_HORDE_DEFENSE_EVENT", "d3/d83/a03854.html#a68fd4e51a6ab53a5f6bc93fe7800623babf83508167d0dcdfb12a95048d098d10", null ],
+      [ "GH_ZONE", "d3/d83/a03854.html#a68fd4e51a6ab53a5f6bc93fe7800623ba5b111447969af668c37b96bdcb8e4e0f", null ]
+    ] ]
 ];

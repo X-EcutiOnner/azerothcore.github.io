@@ -1,6 +1,6 @@
 var a19711 =
 [
-    [ "npc_spark_of_ionarAI", "d6/d39/a19715.html", "d6/d39/a19715" ],
-    [ "npc_spark_of_ionar", "d6/d85/a19711.html#a63578a0d77331849b7a48272870af04d", null ],
-    [ "GetAI", "d6/d85/a19711.html#aa1e524327b76ddc11a32e7a094e39dd1", null ]
+    [ "boss_ionarAI", "d6/d39/a19715.html", "d6/d39/a19715" ],
+    [ "boss_ionar", "d6/d85/a19711.html#a284da7d86f0b386e352587e0321bf465", null ],
+    [ "GetAI", "d6/d85/a19711.html#a0c0f28f832458df7326842f04413af5d", null ]
 ];

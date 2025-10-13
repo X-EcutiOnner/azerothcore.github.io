@@ -1,6 +1,6 @@
 var a10315 =
 [
-    [ "ConditionScript", "da/db8/a10315.html#a546130ee7ed33c7763115cb0d1506a1b", null ],
-    [ "IsDatabaseBound", "da/db8/a10315.html#ac4f8325e3fa1e11437056818a0267342", null ],
-    [ "OnConditionCheck", "da/db8/a10315.html#a2d8a4e71f20c290428c3a86cedfcaab7", null ]
+    [ "BattlegroundScript", "da/db8/a10315.html#a306231f1c7346a00a3f877c7cef3897b", null ],
+    [ "GetBattleground", "da/db8/a10315.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
+    [ "IsDatabaseBound", "da/db8/a10315.html#a35b571d570c85a861af6f949b51453cb", null ]
 ];

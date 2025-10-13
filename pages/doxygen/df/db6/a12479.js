@@ -1,5 +1,7 @@
 var a12479 =
 [
-    [ "go_orb_of_domination", "df/db6/a12479.html#a1d4659e21344a12ec6084ef7ef5df7d0", null ],
-    [ "OnGossipHello", "df/db6/a12479.html#aa88cebf1bd539b55cf63f10a25cc1bbb", null ]
+    [ "HandlePeriodic", "df/db6/a12479.html#a72e043202c587e6c12d0b36d679cd071", null ],
+    [ "PrepareAuraScript", "df/db6/a12479.html#a7ca007283e34855ee825ae160653f4a3", null ],
+    [ "Register", "df/db6/a12479.html#aebad39c65167042be8db3c3a1811a235", null ],
+    [ "Validate", "df/db6/a12479.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
 ];

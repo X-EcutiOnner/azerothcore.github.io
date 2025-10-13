@@ -1,13 +1,12 @@
 var a14515 =
 [
-    [ "go_firework_show", "d9/d46/a14515.html#a42123490a9752f2187023f3f3ae56333", null ],
-    [ "InitShow", "d9/d46/a14515.html#a27dc501894beaeb88b2ff0d940c7d129", null ],
-    [ "SpawnNextFirework", "d9/d46/a14515.html#a6e9ce552bf040f2acce49c2e3eb70bab", null ],
-    [ "StartShow", "d9/d46/a14515.html#af637d1436655e44738b55040196533d3", null ],
-    [ "StopShow", "d9/d46/a14515.html#ad84f3dbb4692d03933d972ec7be6287d", null ],
-    [ "UpdateAI", "d9/d46/a14515.html#ad1bcb7a47652d62ed8633abdafc56881", null ],
-    [ "_curIdx", "d9/d46/a14515.html#a92613337cf2473e585b98b92bdcbce92", null ],
-    [ "_scheduler", "d9/d46/a14515.html#a6248d36087d8fae9cfa47f473613f886", null ],
-    [ "_show", "d9/d46/a14515.html#a4392d7e2cffa2342b53092cbd9ccea3f", null ],
-    [ "_showRunning", "d9/d46/a14515.html#ae7e870de692c61630d0fd2f44d487aa4", null ]
+    [ "npc_alexstraza_the_lifebinder", "d9/d46/a14515.html#a7c30258540803bde75843cb070b6a288", null ],
+    [ "MoveInLineOfSight", "d9/d46/a14515.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
+    [ "Reset", "d9/d46/a14515.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
+    [ "SetData", "d9/d46/a14515.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
+    [ "UpdateAI", "d9/d46/a14515.html#ad13b21d571833210b1c069b7ea8bea05", null ],
+    [ "orphanGUID", "d9/d46/a14515.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
+    [ "phase", "d9/d46/a14515.html#a98216e43888854ac93f22169a0e253e5", null ],
+    [ "playerGUID", "d9/d46/a14515.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
+    [ "timer", "d9/d46/a14515.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
 ];

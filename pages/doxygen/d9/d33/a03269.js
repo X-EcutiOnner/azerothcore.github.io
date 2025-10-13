@@ -1,5 +1,6 @@
 var a03269 =
 [
-    [ "HandleLearnSpellCommand", "d9/d33/a03269.html#acbe37f872cbc981a27671ebdf10904de", null ],
-    [ "HandleUnlearnSpellCommand", "d9/d33/a03269.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
+    [ "character_commandscript", "d6/d6c/a11799.html", "d6/d6c/a11799" ],
+    [ "character_commandscript::DeletedInfo", "d6/db1/a11803.html", "d6/db1/a11803" ],
+    [ "AddSC_character_commandscript", "d9/d33/a03269.html#a97f9cac12c34068d5e63b2ed28ddf9e2", null ]
 ];

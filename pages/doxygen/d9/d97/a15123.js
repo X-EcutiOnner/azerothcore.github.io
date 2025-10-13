@@ -1,16 +1,12 @@
 var a15123 =
 [
-    [ "npc_belnistraszAI", "d9/d97/a15123.html#ac57c5de9140d8d37b15b4a30f4ffc0a1", null ],
-    [ "JustDied", "d9/d97/a15123.html#aece63cabcfb2bcf54992dc2b4832ca92", null ],
-    [ "JustEngagedWith", "d9/d97/a15123.html#ab03f29b1f76b7d67e7d7bb3407e2cd41", null ],
-    [ "MovementInform", "d9/d97/a15123.html#ae64e10d0cc860bf033b76538455b9f8e", null ],
-    [ "Reset", "d9/d97/a15123.html#aecf1ef9b7f6eecec9489d27ce41deea2", null ],
-    [ "sQuestAccept", "d9/d97/a15123.html#aa18258b7f80c040d6a5fb9fbbb321efe", null ],
-    [ "UpdateAI", "d9/d97/a15123.html#a45481c2ef18ab3fec727813de96eb1b6", null ],
-    [ "channeling", "d9/d97/a15123.html#a88ff13ec705d11475de5a2080998c905", null ],
-    [ "eventInProgress", "d9/d97/a15123.html#ae9ce796b17c7791d83e949fa406a2b80", null ],
-    [ "eventProgress", "d9/d97/a15123.html#ad32a0387dbf95b6aa40b3311d6ba8348", null ],
-    [ "events", "d9/d97/a15123.html#af9c1f14a7a7b7380e9fb99ecdaf80126", null ],
-    [ "instance", "d9/d97/a15123.html#a61f3bcbf36e630bbb455405eb89ccf00", null ],
-    [ "spawnerCount", "d9/d97/a15123.html#aa5124160ecba044a3752f68945068776", null ]
+    [ "instance_onyxias_lair_InstanceMapScript", "d9/d97/a15123.html#a15c6f3f16f9cfa1f9fc1b7a2c62bcc64", null ],
+    [ "CheckAchievementCriteriaMeet", "d9/d97/a15123.html#a20761aa41e0f70836c4525f17faf064f", null ],
+    [ "Initialize", "d9/d97/a15123.html#a5d109b5acfa2e21e3c50e35dcdf119dd", null ],
+    [ "OnGameObjectCreate", "d9/d97/a15123.html#a1e99600992673d165382d99236e0c59f", null ],
+    [ "SetBossState", "d9/d97/a15123.html#a2a28e42ec49fce2ef47288c1ad4b6e61", null ],
+    [ "SetData", "d9/d97/a15123.html#ac5df2ecb9f88dbedbb1f59ad2bdc8b96", null ],
+    [ "bDeepBreath", "d9/d97/a15123.html#a96211e4e0e033e16d4de57b6e40f2023", null ],
+    [ "ManyWhelpsCounter", "d9/d97/a15123.html#aea148b562a4f2cd752ac73240f902993", null ],
+    [ "str_data", "d9/d97/a15123.html#ad0b65a3cfccdf07d017757751f4e15fa", null ]
 ];

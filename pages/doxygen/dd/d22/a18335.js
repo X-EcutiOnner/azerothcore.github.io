@@ -1,6 +1,7 @@
 var a18335 =
 [
-    [ "npc_sindragosa_trashAI", "dd/dd1/a18339.html", "dd/dd1/a18339" ],
-    [ "npc_sindragosa_trash", "dd/d22/a18335.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
-    [ "GetAI", "dd/d22/a18335.html#ab1de715d98236a853a793d830bc601d7", null ]
+    [ "HandleTriggerMissile", "dd/d22/a18335.html#af6370594be48d35a12009fa10a38d91d", null ],
+    [ "PrepareSpellScript", "dd/d22/a18335.html#aeeca4381273f382c3abb68f34d229213", null ],
+    [ "Register", "dd/d22/a18335.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
+    [ "Validate", "dd/d22/a18335.html#abe0b9290ddf9beaa60a583840d90d914", null ]
 ];

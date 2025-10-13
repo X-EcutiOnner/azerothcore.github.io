@@ -1,6 +1,6 @@
 var a13807 =
 [
-    [ "npc_greengill_slaveAI", "d5/dcc/a13811.html", "d5/dcc/a13811" ],
-    [ "npc_greengill_slave", "d0/d2d/a13807.html#a46fb36fadb5ed5fc94a563473edd8732", null ],
-    [ "GetAI", "d0/d2d/a13807.html#ab2cb9adfeef75384becfbb3c5188b8d7", null ]
+    [ "x", "d0/d2d/a13807.html#afeb59642abc7d5114668b2c27e315228", null ],
+    [ "y", "d0/d2d/a13807.html#a3e2454dd579de689289003a343e7f29c", null ],
+    [ "z", "d0/d2d/a13807.html#a4fbcf991d732545b4f9c19689ff9d805", null ]
 ];

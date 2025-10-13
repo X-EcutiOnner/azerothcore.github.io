@@ -1,7 +1,6 @@
 var a11083 =
 [
-    [ "effectMask", "d5/d89/a11083.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
-    [ "processed", "d5/d89/a11083.html#aedfa36678be863a558ecd0ecc07cc544", null ],
-    [ "targetGUID", "d5/d89/a11083.html#a619f98bf094d2667048204f733d64d0c", null ],
-    [ "timeDelay", "d5/d89/a11083.html#ab552326c0780fe62ff95b02249458492", null ]
+    [ "CorpseMapPositionQuery", "d5/d89/a11083.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
+    [ "Read", "d5/d89/a11083.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
+    [ "unk", "d5/d89/a11083.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
 ];

@@ -1,5 +1,5 @@
 var a27275 =
 [
-    [ "achievement_sa_defense_of_the_ancients", "d0/d28/a27275.html#a678cffdece32710a42a92db0c092f3a5", null ],
-    [ "OnCheck", "d0/d28/a27275.html#af23e346f9b022f490b84c8081f847a2f", null ]
+    [ "achievement_bg_control_all_nodes", "d0/d28/a27275.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
+    [ "OnCheck", "d0/d28/a27275.html#a69609eb5488519fa5a1f43b13a80e280", null ]
 ];

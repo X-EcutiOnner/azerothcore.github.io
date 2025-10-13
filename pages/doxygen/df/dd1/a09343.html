@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::GameObjectFocusCheck Class Reference</title>
+<title>AzerothCore: Acore::AnyDeadUnitSpellTargetInRangeCheck Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,32 +106,65 @@ $(document).ready(function(){initNavTree('df/dd1/a09343.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
 <a href="../../d3/d98/a09340.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::GameObjectFocusCheck Class Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::AnyDeadUnitSpellTargetInRangeCheck Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
 <p><code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for Acore::AnyDeadUnitSpellTargetInRangeCheck:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../df/dd1/a09343.png" usemap="#Acore::AnyDeadUnitSpellTargetInRangeCheck_map" alt=""/>
+  <map id="Acore::AnyDeadUnitSpellTargetInRangeCheck_map" name="Acore::AnyDeadUnitSpellTargetInRangeCheck_map">
+<area href="../../d3/def/a09339.html" alt="Acore::AnyDeadUnitObjectInRangeCheck" shape="rect" coords="0,0,273,24"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a06607ffa0ebf51c230f4584632a7444a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd1/a09343.html#a06607ffa0ebf51c230f4584632a7444a">GameObjectFocusCheck</a> (<a class="el" href="../../de/d8e/a08791.html">Unit</a> const *unit, <a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> focusId)</td></tr>
-<tr class="separator:a06607ffa0ebf51c230f4584632a7444a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af5c0b63b8bfe112c9a8a43d7e49e1f7b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd1/a09343.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b">operator()</a> (<a class="el" href="../../d2/d4c/a08211.html">GameObject</a> *go) const</td></tr>
-<tr class="separator:af5c0b63b8bfe112c9a8a43d7e49e1f7b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a212c308a02716ff382e820e86e233ed3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd1/a09343.html#a212c308a02716ff382e820e86e233ed3">AnyDeadUnitSpellTargetInRangeCheck</a> (<a class="el" href="../../d6/d41/a08799.html">Unit</a> *searchObj, float range, <a class="el" href="../../d9/d42/a11363.html">SpellInfo</a> const *spellInfo, <a class="el" href="../../d1/dc1/a00092.html#a392c69714f880d43f8afb5510ba1fff7">SpellTargetCheckTypes</a> check)</td></tr>
+<tr class="separator:a212c308a02716ff382e820e86e233ed3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aba0bf4c320a684b68743a06e724a369e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd1/a09343.html#aba0bf4c320a684b68743a06e724a369e">operator()</a> (<a class="el" href="../../d4/d78/a08663.html">Player</a> *u)</td></tr>
+<tr class="separator:aba0bf4c320a684b68743a06e724a369e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af328df880d17a62e2dbed0ff4231fc39"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd1/a09343.html#af328df880d17a62e2dbed0ff4231fc39">operator()</a> (<a class="el" href="../../dc/dbf/a08039.html">Corpse</a> *u)</td></tr>
+<tr class="separator:af328df880d17a62e2dbed0ff4231fc39"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adcc69b9ef03a68aa235e40449a80b701"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd1/a09343.html#adcc69b9ef03a68aa235e40449a80b701">operator()</a> (<a class="el" href="../../d3/d30/a08043.html">Creature</a> *u)</td></tr>
+<tr class="separator:adcc69b9ef03a68aa235e40449a80b701"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2f2483cf7078681cb3acf28560e61184"><td class="memTemplParams" colspan="2">template&lt;class NOT_INTERESTED &gt; </td></tr>
+<tr class="memitem:a2f2483cf7078681cb3acf28560e61184"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../df/dd1/a09343.html#a2f2483cf7078681cb3acf28560e61184">operator()</a> (NOT_INTERESTED *)</td></tr>
+<tr class="separator:a2f2483cf7078681cb3acf28560e61184"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a09339"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a09339')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d3/def/a09339.html">Acore::AnyDeadUnitObjectInRangeCheck</a></td></tr>
+<tr class="memitem:ad51c7d9c256d8d769e7e5df2a618f233 inherit pub_methods_a09339"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/def/a09339.html#ad51c7d9c256d8d769e7e5df2a618f233">AnyDeadUnitObjectInRangeCheck</a> (<a class="el" href="../../d6/d41/a08799.html">Unit</a> *searchObj, float range)</td></tr>
+<tr class="separator:ad51c7d9c256d8d769e7e5df2a618f233 inherit pub_methods_a09339"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae7a76a9bcc28c6e4705a2885b02be20d inherit pub_methods_a09339"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/def/a09339.html#ae7a76a9bcc28c6e4705a2885b02be20d">operator()</a> (<a class="el" href="../../d4/d78/a08663.html">Player</a> *u)</td></tr>
+<tr class="separator:ae7a76a9bcc28c6e4705a2885b02be20d inherit pub_methods_a09339"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a71355418a935e1e4c4f5294c0e6a244f inherit pub_methods_a09339"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/def/a09339.html#a71355418a935e1e4c4f5294c0e6a244f">operator()</a> (<a class="el" href="../../dc/dbf/a08039.html">Corpse</a> *u)</td></tr>
+<tr class="separator:a71355418a935e1e4c4f5294c0e6a244f inherit pub_methods_a09339"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae885f49537043421a92b44c201bec358 inherit pub_methods_a09339"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/def/a09339.html#ae885f49537043421a92b44c201bec358">operator()</a> (<a class="el" href="../../d3/d30/a08043.html">Creature</a> *u)</td></tr>
+<tr class="separator:ae885f49537043421a92b44c201bec358 inherit pub_methods_a09339"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a92b2dcfedf97677e84f46ee0e3affb91 inherit pub_methods_a09339"><td class="memTemplParams" colspan="2">template&lt;class NOT_INTERESTED &gt; </td></tr>
+<tr class="memitem:a92b2dcfedf97677e84f46ee0e3affb91 inherit pub_methods_a09339"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d3/def/a09339.html#a92b2dcfedf97677e84f46ee0e3affb91">operator()</a> (NOT_INTERESTED *)</td></tr>
+<tr class="separator:a92b2dcfedf97677e84f46ee0e3affb91 inherit pub_methods_a09339"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a0afc07e086f5aa3301c2b46a0004213e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d8e/a08791.html">Unit</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd1/a09343.html#a0afc07e086f5aa3301c2b46a0004213e">i_unit</a></td></tr>
-<tr class="separator:a0afc07e086f5aa3301c2b46a0004213e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ace009546c2dcc6dac5de98b3c34152a5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd1/a09343.html#ace009546c2dcc6dac5de98b3c34152a5">i_focusId</a></td></tr>
-<tr class="separator:ace009546c2dcc6dac5de98b3c34152a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:afeb889f6cee596b2c2229f86e0a8a3f1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d42/a11363.html">SpellInfo</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd1/a09343.html#afeb889f6cee596b2c2229f86e0a8a3f1">i_spellInfo</a></td></tr>
+<tr class="separator:afeb889f6cee596b2c2229f86e0a8a3f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa2223ad31acf47a1608ded6b5cbc2f03"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/de3/a11315.html">WorldObjectSpellTargetCheck</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dd1/a09343.html#aa2223ad31acf47a1608ded6b5cbc2f03">i_check</a></td></tr>
+<tr class="separator:aa2223ad31acf47a1608ded6b5cbc2f03"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pro_attribs_a09339"><td colspan="2" onclick="javascript:toggleInherit('pro_attribs_a09339')"><img src="../../closed.png" alt="-"/>&#160;Protected Attributes inherited from <a class="el" href="../../d3/def/a09339.html">Acore::AnyDeadUnitObjectInRangeCheck</a></td></tr>
+<tr class="memitem:acf10f61f95961ff4b9fd4a8c162fa029 inherit pro_attribs_a09339"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d41/a08799.html">Unit</a> const  *const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/def/a09339.html#acf10f61f95961ff4b9fd4a8c162fa029">i_searchObj</a></td></tr>
+<tr class="separator:acf10f61f95961ff4b9fd4a8c162fa029 inherit pro_attribs_a09339"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a95cfd469f27284e6ff35e9856bddcb inherit pro_attribs_a09339"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/def/a09339.html#a1a95cfd469f27284e6ff35e9856bddcb">i_range</a></td></tr>
+<tr class="separator:a1a95cfd469f27284e6ff35e9856bddcb inherit pro_attribs_a09339"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a06607ffa0ebf51c230f4584632a7444a" name="a06607ffa0ebf51c230f4584632a7444a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a06607ffa0ebf51c230f4584632a7444a">&#9670;&#160;</a></span>GameObjectFocusCheck()</h2>
+<a id="a212c308a02716ff382e820e86e233ed3" name="a212c308a02716ff382e820e86e233ed3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a212c308a02716ff382e820e86e233ed3">&#9670;&#160;</a></span>AnyDeadUnitSpellTargetInRangeCheck()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -140,16 +173,28 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Acore::GameObjectFocusCheck::GameObjectFocusCheck </td>
+          <td class="memname">Acore::AnyDeadUnitSpellTargetInRangeCheck::AnyDeadUnitSpellTargetInRangeCheck </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d8e/a08791.html">Unit</a> const *&#160;</td>
-          <td class="paramname"><em>unit</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d6/d41/a08799.html">Unit</a> *&#160;</td>
+          <td class="paramname"><em>searchObj</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>focusId</em>&#160;</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>range</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d42/a11363.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname"><em>spellInfo</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d1/dc1/a00092.html#a392c69714f880d43f8afb5510ba1fff7">SpellTargetCheckTypes</a>&#160;</td>
+          <td class="paramname"><em>check</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -163,28 +208,79 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  650</span>: <a class="code hl_variable" href="../../df/dd1/a09343.html#a0afc07e086f5aa3301c2b46a0004213e">i_unit</a>(unit), <a class="code hl_variable" href="../../df/dd1/a09343.html#ace009546c2dcc6dac5de98b3c34152a5">i_focusId</a>(focusId) {}</div>
-<div class="ttc" id="aa09343_html_a0afc07e086f5aa3301c2b46a0004213e"><div class="ttname"><a href="../../df/dd1/a09343.html#a0afc07e086f5aa3301c2b46a0004213e">Acore::GameObjectFocusCheck::i_unit</a></div><div class="ttdeci">Unit const  * i_unit</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:667</div></div>
-<div class="ttc" id="aa09343_html_ace009546c2dcc6dac5de98b3c34152a5"><div class="ttname"><a href="../../df/dd1/a09343.html#ace009546c2dcc6dac5de98b3c34152a5">Acore::GameObjectFocusCheck::i_focusId</a></div><div class="ttdeci">uint32 i_focusId</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:668</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  622</span>            : <a class="code hl_function" href="../../d3/def/a09339.html#ad51c7d9c256d8d769e7e5df2a618f233">AnyDeadUnitObjectInRangeCheck</a>(searchObj, range), <a class="code hl_variable" href="../../df/dd1/a09343.html#afeb889f6cee596b2c2229f86e0a8a3f1">i_spellInfo</a>(spellInfo), <a class="code hl_variable" href="../../df/dd1/a09343.html#aa2223ad31acf47a1608ded6b5cbc2f03">i_check</a>(searchObj, searchObj, spellInfo, check, <span class="keyword">nullptr</span>)</div>
+<div class="line"><span class="lineno">  623</span>        {}</div>
+<div class="ttc" id="aa09339_html_ad51c7d9c256d8d769e7e5df2a618f233"><div class="ttname"><a href="../../d3/def/a09339.html#ad51c7d9c256d8d769e7e5df2a618f233">Acore::AnyDeadUnitObjectInRangeCheck::AnyDeadUnitObjectInRangeCheck</a></div><div class="ttdeci">AnyDeadUnitObjectInRangeCheck(Unit *searchObj, float range)</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:608</div></div>
+<div class="ttc" id="aa09343_html_aa2223ad31acf47a1608ded6b5cbc2f03"><div class="ttname"><a href="../../df/dd1/a09343.html#aa2223ad31acf47a1608ded6b5cbc2f03">Acore::AnyDeadUnitSpellTargetInRangeCheck::i_check</a></div><div class="ttdeci">WorldObjectSpellTargetCheck i_check</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:630</div></div>
+<div class="ttc" id="aa09343_html_afeb889f6cee596b2c2229f86e0a8a3f1"><div class="ttname"><a href="../../df/dd1/a09343.html#afeb889f6cee596b2c2229f86e0a8a3f1">Acore::AnyDeadUnitSpellTargetInRangeCheck::i_spellInfo</a></div><div class="ttdeci">SpellInfo const  * i_spellInfo</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:629</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="af5c0b63b8bfe112c9a8a43d7e49e1f7b" name="af5c0b63b8bfe112c9a8a43d7e49e1f7b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af5c0b63b8bfe112c9a8a43d7e49e1f7b">&#9670;&#160;</a></span>operator()()</h2>
+<a id="af328df880d17a62e2dbed0ff4231fc39" name="af328df880d17a62e2dbed0ff4231fc39"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af328df880d17a62e2dbed0ff4231fc39">&#9670;&#160;</a></span>operator()() <span class="overload">[1/4]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AnyDeadUnitSpellTargetInRangeCheck::operator() </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/dbf/a08039.html">Corpse</a> *&#160;</td>
+          <td class="paramname"><em>u</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  373</span>{</div>
+<div class="line"><span class="lineno">  374</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d3/def/a09339.html#ae7a76a9bcc28c6e4705a2885b02be20d">AnyDeadUnitObjectInRangeCheck::operator()</a>(u) &amp;&amp; <a class="code hl_variable" href="../../df/dd1/a09343.html#aa2223ad31acf47a1608ded6b5cbc2f03">i_check</a>(u);</div>
+<div class="line"><span class="lineno">  375</span>}</div>
+<div class="ttc" id="aa09339_html_ae7a76a9bcc28c6e4705a2885b02be20d"><div class="ttname"><a href="../../d3/def/a09339.html#ae7a76a9bcc28c6e4705a2885b02be20d">Acore::AnyDeadUnitObjectInRangeCheck::operator()</a></div><div class="ttdeci">bool operator()(Player *u)</div><div class="ttdef"><b>Definition:</b> GridNotifiers.cpp:352</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00630">i_check</a>, and <a class="el" href="../../#l00352">Acore::AnyDeadUnitObjectInRangeCheck::operator()()</a>.</p>
+
+</div>
+</div>
+<a id="adcc69b9ef03a68aa235e40449a80b701" name="adcc69b9ef03a68aa235e40449a80b701"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adcc69b9ef03a68aa235e40449a80b701">&#9670;&#160;</a></span>operator()() <span class="overload">[2/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AnyDeadUnitSpellTargetInRangeCheck::operator() </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d30/a08043.html">Creature</a> *&#160;</td>
+          <td class="paramname"><em>u</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  378</span>{</div>
+<div class="line"><span class="lineno">  379</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d3/def/a09339.html#ae7a76a9bcc28c6e4705a2885b02be20d">AnyDeadUnitObjectInRangeCheck::operator()</a>(u) &amp;&amp; <a class="code hl_variable" href="../../df/dd1/a09343.html#aa2223ad31acf47a1608ded6b5cbc2f03">i_check</a>(u);</div>
+<div class="line"><span class="lineno">  380</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00630">i_check</a>, and <a class="el" href="../../#l00352">Acore::AnyDeadUnitObjectInRangeCheck::operator()()</a>.</p>
+
+</div>
+</div>
+<a id="a2f2483cf7078681cb3acf28560e61184" name="a2f2483cf7078681cb3acf28560e61184"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2f2483cf7078681cb3acf28560e61184">&#9670;&#160;</a></span>operator()() <span class="overload">[3/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class NOT_INTERESTED &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool Acore::GameObjectFocusCheck::operator() </td>
+          <td class="memname">bool Acore::AnyDeadUnitSpellTargetInRangeCheck::operator() </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d4c/a08211.html">GameObject</a> *&#160;</td>
-          <td class="paramname"><em>go</em></td><td>)</td>
-          <td> const</td>
+          <td class="paramtype">NOT_INTERESTED *&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
   </td>
@@ -193,36 +289,36 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  652</span>        {</div>
-<div class="line"><span class="lineno">  653</span>            <span class="keywordflow">if</span> (go-&gt;<a class="code hl_function" href="../../d2/d4c/a08211.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../da/d26/a08215.html#a1c78664b7272010dac83e9f4ea132330">type</a> != <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#a0233096c29a8a39f15373e06434985f9a19da3e0d6d3baeb2f62b2f2fc8b35405">GAMEOBJECT_TYPE_SPELL_FOCUS</a>)</div>
-<div class="line"><span class="lineno">  654</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  655</span> </div>
-<div class="line"><span class="lineno">  656</span>            <span class="keywordflow">if</span> (!go-&gt;<a class="code hl_function" href="../../d2/d4c/a08211.html#a462386b3457bdd1da4821cd6e6f9c64c">isSpawned</a>()) <span class="comment">// xinef: dont allow to count deactivated objects</span></div>
-<div class="line"><span class="lineno">  657</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  658</span> </div>
-<div class="line"><span class="lineno">  659</span>            <span class="keywordflow">if</span> (go-&gt;<a class="code hl_function" href="../../d2/d4c/a08211.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../da/d26/a08215.html#a1e26ff370bfe49a1e28b79c686b51bfd">spellFocus</a>.<a class="code hl_variable" href="../../da/d26/a08215.html#aba1538c08713a616500b51650896cd5b">focusId</a> != <a class="code hl_variable" href="../../df/dd1/a09343.html#ace009546c2dcc6dac5de98b3c34152a5">i_focusId</a>)</div>
-<div class="line"><span class="lineno">  660</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  661</span> </div>
-<div class="line"><span class="lineno">  662</span>            <span class="keywordtype">float</span> dist = (float)((go-&gt;<a class="code hl_function" href="../../d2/d4c/a08211.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GetGOInfo</a>()-&gt;<a class="code hl_variable" href="../../da/d26/a08215.html#a1e26ff370bfe49a1e28b79c686b51bfd">spellFocus</a>.<a class="code hl_variable" href="../../da/d26/a08215.html#a0ac32f94eef325076f8c17868af2559e">dist</a>) / 2);</div>
-<div class="line"><span class="lineno">  663</span> </div>
-<div class="line"><span class="lineno">  664</span>            <span class="keywordflow">return</span> go-&gt;<a class="code hl_function" href="../../d2/d4c/a08211.html#a0e472403802c7a862e22c769ef4f8378">IsWithinDistInMap</a>(<a class="code hl_variable" href="../../df/dd1/a09343.html#a0afc07e086f5aa3301c2b46a0004213e">i_unit</a>, dist);</div>
-<div class="line"><span class="lineno">  665</span>        }</div>
-<div class="ttc" id="aa04097_html_a0233096c29a8a39f15373e06434985f9a19da3e0d6d3baeb2f62b2f2fc8b35405"><div class="ttname"><a href="../../dd/d44/a04097.html#a0233096c29a8a39f15373e06434985f9a19da3e0d6d3baeb2f62b2f2fc8b35405">GAMEOBJECT_TYPE_SPELL_FOCUS</a></div><div class="ttdeci">@ GAMEOBJECT_TYPE_SPELL_FOCUS</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1579</div></div>
-<div class="ttc" id="aa08211_html_a0e472403802c7a862e22c769ef4f8378"><div class="ttname"><a href="../../d2/d4c/a08211.html#a0e472403802c7a862e22c769ef4f8378">GameObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(Player const *player) const</div><div class="ttdef"><b>Definition:</b> GameObject.cpp:2984</div></div>
-<div class="ttc" id="aa08211_html_a1415b5cb9b3b3f4f6691584c5b6d7324"><div class="ttname"><a href="../../d2/d4c/a08211.html#a1415b5cb9b3b3f4f6691584c5b6d7324">GameObject::GetGOInfo</a></div><div class="ttdeci">GameObjectTemplate const * GetGOInfo() const</div><div class="ttdef"><b>Definition:</b> GameObject.h:136</div></div>
-<div class="ttc" id="aa08211_html_a462386b3457bdd1da4821cd6e6f9c64c"><div class="ttname"><a href="../../d2/d4c/a08211.html#a462386b3457bdd1da4821cd6e6f9c64c">GameObject::isSpawned</a></div><div class="ttdeci">bool isSpawned() const</div><div class="ttdef"><b>Definition:</b> GameObject.h:189</div></div>
-<div class="ttc" id="aa08215_html_a0ac32f94eef325076f8c17868af2559e"><div class="ttname"><a href="../../da/d26/a08215.html#a0ac32f94eef325076f8c17868af2559e">GameObjectTemplate::dist</a></div><div class="ttdeci">uint32 dist</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:143</div></div>
-<div class="ttc" id="aa08215_html_a1c78664b7272010dac83e9f4ea132330"><div class="ttname"><a href="../../da/d26/a08215.html#a1c78664b7272010dac83e9f4ea132330">GameObjectTemplate::type</a></div><div class="ttdeci">uint32 type</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:33</div></div>
-<div class="ttc" id="aa08215_html_a1e26ff370bfe49a1e28b79c686b51bfd"><div class="ttname"><a href="../../da/d26/a08215.html#a1e26ff370bfe49a1e28b79c686b51bfd">GameObjectTemplate::spellFocus</a></div><div class="ttdeci">struct GameObjectTemplate::@232::@241 spellFocus</div></div>
-<div class="ttc" id="aa08215_html_aba1538c08713a616500b51650896cd5b"><div class="ttname"><a href="../../da/d26/a08215.html#aba1538c08713a616500b51650896cd5b">GameObjectTemplate::focusId</a></div><div class="ttdeci">uint32 focusId</div><div class="ttdef"><b>Definition:</b> GameObjectData.h:142</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  627</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00143">GameObjectTemplate::dist</a>, <a class="el" href="../../#l00142">GameObjectTemplate::focusId</a>, <a class="el" href="../../#l01579">GAMEOBJECT_TYPE_SPELL_FOCUS</a>, <a class="el" href="../../#l00136">GameObject::GetGOInfo()</a>, <a class="el" href="../../#l00668">i_focusId</a>, <a class="el" href="../../#l00667">i_unit</a>, <a class="el" href="../../#l00189">GameObject::isSpawned()</a>, <a class="el" href="../../#l02984">GameObject::IsWithinDistInMap()</a>, <a class="el" href="../../da/d26/a08215.html#a1e26ff370bfe49a1e28b79c686b51bfd">GameObjectTemplate::spellFocus</a>, and <a class="el" href="../../#l00033">GameObjectTemplate::type</a>.</p>
+</div>
+</div>
+<a id="aba0bf4c320a684b68743a06e724a369e" name="aba0bf4c320a684b68743a06e724a369e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aba0bf4c320a684b68743a06e724a369e">&#9670;&#160;</a></span>operator()() <span class="overload">[4/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool AnyDeadUnitSpellTargetInRangeCheck::operator() </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/d78/a08663.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>u</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  368</span>{</div>
+<div class="line"><span class="lineno">  369</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../d3/def/a09339.html#ae7a76a9bcc28c6e4705a2885b02be20d">AnyDeadUnitObjectInRangeCheck::operator()</a>(u) &amp;&amp; <a class="code hl_variable" href="../../df/dd1/a09343.html#aa2223ad31acf47a1608ded6b5cbc2f03">i_check</a>(u);</div>
+<div class="line"><span class="lineno">  370</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00630">i_check</a>, and <a class="el" href="../../#l00352">Acore::AnyDeadUnitObjectInRangeCheck::operator()()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="ace009546c2dcc6dac5de98b3c34152a5" name="ace009546c2dcc6dac5de98b3c34152a5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ace009546c2dcc6dac5de98b3c34152a5">&#9670;&#160;</a></span>i_focusId</h2>
+<a id="aa2223ad31acf47a1608ded6b5cbc2f03" name="aa2223ad31acf47a1608ded6b5cbc2f03"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa2223ad31acf47a1608ded6b5cbc2f03">&#9670;&#160;</a></span>i_check</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -231,22 +327,22 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Acore::GameObjectFocusCheck::i_focusId</td>
+          <td class="memname"><a class="el" href="../../d1/de3/a11315.html">WorldObjectSpellTargetCheck</a> Acore::AnyDeadUnitSpellTargetInRangeCheck::i_check</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00651">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00367">operator()()</a>.</p>
 
 </div>
 </div>
-<a id="a0afc07e086f5aa3301c2b46a0004213e" name="a0afc07e086f5aa3301c2b46a0004213e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0afc07e086f5aa3301c2b46a0004213e">&#9670;&#160;</a></span>i_unit</h2>
+<a id="afeb889f6cee596b2c2229f86e0a8a3f1" name="afeb889f6cee596b2c2229f86e0a8a3f1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afeb889f6cee596b2c2229f86e0a8a3f1">&#9670;&#160;</a></span>i_spellInfo</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -255,17 +351,15 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d8e/a08791.html">Unit</a> const* Acore::GameObjectFocusCheck::i_unit</td>
+          <td class="memname"><a class="el" href="../../d9/d42/a11363.html">SpellInfo</a> const* Acore::AnyDeadUnitSpellTargetInRangeCheck::i_spellInfo</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00651">operator()()</a>.</p>
 
 </div>
 </div>
@@ -274,8 +368,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dd/df4/a04800.html">Acore</a></li><li class="navelem"><a class="el" href="../../df/dd1/a09343.html">GameObjectFocusCheck</a></li>
-    <li class="footer">Generated on Mon Oct 6 2025 20:46:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/d62/a04803.html">Acore</a></li><li class="navelem"><a class="el" href="../../df/dd1/a09343.html">AnyDeadUnitSpellTargetInRangeCheck</a></li>
+    <li class="footer">Generated on Mon Oct 13 2025 20:46:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

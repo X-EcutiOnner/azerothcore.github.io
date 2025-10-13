@@ -1,7 +1,6 @@
 var a24231 =
 [
-    [ "HandleEffect", "dc/dfd/a24231.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "dc/dfd/a24231.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "dc/dfd/a24231.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "dc/dfd/a24231.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d4/de0/a24235.html", "d4/de0/a24235" ],
+    [ "npc_oscillating_frequency_scanner_master_bunny", "dc/dfd/a24231.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
+    [ "GetAI", "dc/dfd/a24231.html#a60d55e2eda4484ceea4e475ac8653977", null ]
 ];

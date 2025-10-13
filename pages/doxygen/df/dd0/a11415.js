@@ -1,6 +1,7 @@
 var a11415 =
 [
-    [ "CheckCastHandler", "df/dd0/a11415.html#a8647582abeea09779e05d809cbdb0d06", null ],
-    [ "Call", "df/dd0/a11415.html#a805de70601b15de19639ca01c75ae7f7", null ],
-    [ "_checkCastHandlerScript", "df/dd0/a11415.html#af13f11d14772afbea06f0020df4bbe6c", null ]
+    [ "CategoryRecoveryTime", "df/dd0/a11415.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
+    [ "RecoveryTime", "df/dd0/a11415.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
+    [ "StartRecoveryCategory", "df/dd0/a11415.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
+    [ "StartRecoveryTime", "df/dd0/a11415.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
 ];

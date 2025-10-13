@@ -1,9 +1,6 @@
 var a08639 =
 [
-    [ "achievements", "d6/ddb/a08639.html#acfdabccf4f66aa7ebfbae0bfe185f6dc", null ],
-    [ "items", "d6/ddb/a08639.html#a2873836588f37b9a5cf691da2b6fa715", null ],
-    [ "levelMax", "d6/ddb/a08639.html#a7430d852e5426c1a32e49c77d747f4e6", null ],
-    [ "levelMin", "d6/ddb/a08639.html#a823016216268e13116a46bcb40ea0e70", null ],
-    [ "quests", "d6/ddb/a08639.html#a6150aa58762a13dcbfcb55507df77809", null ],
-    [ "reqItemLevel", "d6/ddb/a08639.html#a97f262e488e178dad0c33f228808f69e", null ]
+    [ "SavedItem", "d6/ddb/a08639.html#a7261d44eefdbd56df651a57a71f5af6e", null ],
+    [ "dstpos", "d6/ddb/a08639.html#af844c8b955858b1ead94798c6326fa03", null ],
+    [ "item", "d6/ddb/a08639.html#afaa651441e306c13acc3cd1aa3084170", null ]
 ];

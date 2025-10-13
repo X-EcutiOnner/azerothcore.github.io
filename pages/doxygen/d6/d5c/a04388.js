@@ -1,4 +1,4 @@
 var a04388 =
 [
-    [ "BigNumber", "de/d61/a05191.html", "de/d61/a05191" ]
+    [ "SessionKeyGenerator< Hash >", "d8/d9b/a05219.html", "d8/d9b/a05219" ]
 ];

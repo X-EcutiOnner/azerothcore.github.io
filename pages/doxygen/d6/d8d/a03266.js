@@ -1,6 +1,6 @@
 var a03266 =
 [
-    [ "character_commandscript", "de/d37/a11767.html", "de/d37/a11767" ],
-    [ "character_commandscript::DeletedInfo", "d3/dc0/a11771.html", "d3/dc0/a11771" ],
-    [ "AddSC_character_commandscript", "d6/d8d/a03266.html#a97f9cac12c34068d5e63b2ed28ddf9e2", null ]
+    [ "bg_commandscript", "da/d0f/a11779.html", "da/d0f/a11779" ],
+    [ "AddSC_bag_commandscript", "d6/d8d/a03266.html#a8fa1e803122341d611168b2b62fde4e5", null ],
+    [ "itemQualityToString", "d6/d8d/a03266.html#af266597924b9d3f439ffc9908001d2cb", null ]
 ];

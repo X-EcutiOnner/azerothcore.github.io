@@ -1,6 +1,6 @@
 var a27519 =
 [
-    [ "go_gilded_brazierAI", "d7/d91/a27523.html", "d7/d91/a27523" ],
-    [ "go_gilded_brazier", "d7/de5/a27519.html#a778c753a8432131601371da8849ef004", null ],
-    [ "GetAI", "d7/de5/a27519.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
+    [ "go_l70_etc_musicAI", "d7/d91/a27523.html", "d7/d91/a27523" ],
+    [ "go_l70_etc_music", "d7/de5/a27519.html#a766dccca12fc7959273ba1e3a278564f", null ],
+    [ "GetAI", "d7/de5/a27519.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
 ];

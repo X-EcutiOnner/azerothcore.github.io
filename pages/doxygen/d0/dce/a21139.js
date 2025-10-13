@@ -1,9 +1,8 @@
 var a21139 =
 [
-    [ "HandleOnEffectApply", "d0/dce/a21139.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
-    [ "OnPeriodic", "d0/dce/a21139.html#a49ad44eba19416743bd26252d1b40d71", null ],
-    [ "PrepareAuraScript", "d0/dce/a21139.html#ae0c475babb67cebb245d6d85b50cd694", null ],
-    [ "Register", "d0/dce/a21139.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
-    [ "Validate", "d0/dce/a21139.html#ab383a0a207aa78b7efcd400765ad0838", null ],
-    [ "_targetGUID", "d0/dce/a21139.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
+    [ "OnApply", "d0/dce/a21139.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
+    [ "OnRemove", "d0/dce/a21139.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "d0/dce/a21139.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "d0/dce/a21139.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "d0/dce/a21139.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

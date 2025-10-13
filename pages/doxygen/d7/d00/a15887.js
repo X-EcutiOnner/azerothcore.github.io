@@ -1,6 +1,8 @@
 var a15887 =
 [
-    [ "HandleDummy", "d7/d00/a15887.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "d7/d00/a15887.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "d7/d00/a15887.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "npc_pluckyAI", "de/dd4/a15891.html", "de/dd4/a15891" ],
+    [ "npc_plucky", "d7/d00/a15887.html#a86bb2992b8af5893987145117aaf3608", null ],
+    [ "GetAI", "d7/d00/a15887.html#a51e73f4e1f618aee5a000e31328efefc", null ],
+    [ "OnGossipHello", "d7/d00/a15887.html#a3443f3e8c2b3fcc96955ab2e55e7fd61", null ],
+    [ "OnGossipSelect", "d7/d00/a15887.html#a88fa465246b4c657b921ebdc96f7a112", null ]
 ];

@@ -1,7 +1,8 @@
 var a14343 =
 [
-    [ "FilterTargets", "d1/d71/a14343.html#a00adeba9ac3e631109308b1e4bf8f529", null ],
-    [ "HandleEffect", "d1/d71/a14343.html#ab6dd7934cc6f10d327e80cd0b6bdfac9", null ],
-    [ "PrepareSpellScript", "d1/d71/a14343.html#a08127992c96fb02e87e9ade65a5375d5", null ],
-    [ "Register", "d1/d71/a14343.html#aeaf1955aece958a8e7d7773a33177e5d", null ]
+    [ "boss_venoxis", "d1/d71/a14343.html#a3e91a9022163a726cbc077d38459a5f5", null ],
+    [ "InitializeAI", "d1/d71/a14343.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
+    [ "JustDied", "d1/d71/a14343.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
+    [ "JustEngagedWith", "d1/d71/a14343.html#afaa68ffbd5fecae48a044009326bcaed", null ],
+    [ "Reset", "d1/d71/a14343.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
 ];

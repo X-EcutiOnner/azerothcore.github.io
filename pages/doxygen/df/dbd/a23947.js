@@ -1,6 +1,13 @@
 var a23947 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "d5/d77/a23951.html", "d5/d77/a23951" ],
-    [ "instance_arcatraz", "df/dbd/a23947.html#a6fc8860651573353b54fd26bddea32aa", null ],
-    [ "GetInstanceScript", "df/dbd/a23947.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
+    [ "boss_wrath_scryer_soccothrates", "df/dbd/a23947.html#a771980c1022e7699c3eb02baccb68a93", null ],
+    [ "InitializeAI", "df/dbd/a23947.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
+    [ "JustDied", "df/dbd/a23947.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
+    [ "JustEngagedWith", "df/dbd/a23947.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
+    [ "KilledUnit", "df/dbd/a23947.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
+    [ "MoveInLineOfSight", "df/dbd/a23947.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
+    [ "Reset", "df/dbd/a23947.html#a85435a23d36f13e348112348a26e7d12", null ],
+    [ "UpdateAI", "df/dbd/a23947.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
+    [ "events2", "df/dbd/a23947.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
+    [ "preFight", "df/dbd/a23947.html#a193889ee2815b93a1c9aeee394170fc4", null ]
 ];

@@ -1,58 +1,50 @@
 var a02327 =
 [
-    [ "npc_draenei_survivor", "d3/d3e/a15507.html", "d3/d3e/a15507" ],
-    [ "npc_draenei_survivor::npc_draenei_survivorAI", "d2/df7/a15511.html", "d2/df7/a15511" ],
-    [ "npc_injured_draenei", "d4/da9/a15515.html", "d4/da9/a15515" ],
-    [ "npc_injured_draenei::npc_injured_draeneiAI", "db/d23/a15519.html", "db/d23/a15519" ],
-    [ "npc_magwin", "d0/d99/a15523.html", "d0/d99/a15523" ],
-    [ "npc_magwin::npc_magwinAI", "dc/d4f/a15527.html", "dc/d4f/a15527" ],
-    [ "go_ravager_cage", "dc/de0/a15531.html", "dc/de0/a15531" ],
-    [ "npc_death_ravager", "dc/d2d/a15535.html", "dc/d2d/a15535" ],
-    [ "npc_death_ravager::npc_death_ravagerAI", "dc/d06/a15539.html", "dc/d06/a15539" ],
-    [ "npc_stillpine_capitive", "d9/df2/a15543.html", "d9/df2/a15543" ],
-    [ "npc_stillpine_capitive::npc_stillpine_capitiveAI", "db/d5f/a15547.html", "db/d5f/a15547" ],
-    [ "go_bristlelimb_cage", "db/df9/a15551.html", "db/df9/a15551" ],
-    [ "spell_inoculate_nestlewood_owlkin", "d3/d09/a15555.html", "d3/d09/a15555" ],
-    [ "BristlelimbCage", "d1/da3/a02327.html#ab69bb59145b8e4a3ee5c269d141090a0", [
-      [ "QUEST_THE_PROPHECY_OF_AKIDA", "d1/da3/a02327.html#ab69bb59145b8e4a3ee5c269d141090a0ae8d9e7f48db483f0e3497db05e0a8ab5", null ],
-      [ "NPC_STILLPINE_CAPITIVE", "d1/da3/a02327.html#ab69bb59145b8e4a3ee5c269d141090a0af8664c69b400568c2fc8974230b57cdf", null ],
-      [ "GO_BRISTELIMB_CAGE", "d1/da3/a02327.html#ab69bb59145b8e4a3ee5c269d141090a0aef32e220b187e5b1852e8f7a5bf67ed8", null ],
-      [ "CAPITIVE_SAY", "d1/da3/a02327.html#ab69bb59145b8e4a3ee5c269d141090a0a98d7f3af2f348e324c78eca1ee3312e4", null ],
-      [ "POINT_INIT", "d1/da3/a02327.html#ab69bb59145b8e4a3ee5c269d141090a0a965d8213c7e2bdb3d719b4dc8abe6175", null ],
-      [ "EVENT_DESPAWN", "d1/da3/a02327.html#ab69bb59145b8e4a3ee5c269d141090a0a37c22b84c74c36e2af467a6bd1047f15", null ]
+    [ "npc_gilthares", "d5/d28/a15839.html", "d5/d28/a15839" ],
+    [ "npc_gilthares::npc_giltharesAI", "da/d31/a15843.html", "da/d31/a15843" ],
+    [ "npc_taskmaster_fizzule", "d5/d68/a15847.html", "d5/d68/a15847" ],
+    [ "npc_taskmaster_fizzule::npc_taskmaster_fizzuleAI", "d6/d6f/a15851.html", "d6/d6f/a15851" ],
+    [ "npc_twiggy_flathead", "d5/df9/a15855.html", "d5/df9/a15855" ],
+    [ "npc_twiggy_flathead::npc_twiggy_flatheadAI", "dd/d3e/a15859.html", "dd/d3e/a15859" ],
+    [ "npc_wizzlecrank_shredder", "d9/d5b/a15863.html", "d9/d5b/a15863" ],
+    [ "npc_wizzlecrank_shredder::npc_wizzlecrank_shredderAI", "d2/db1/a15867.html", "d2/db1/a15867" ],
+    [ "Gilthares", "d1/da3/a02327.html#aa3e172c8a560dd0d92fb1d8f79b90716", [
+      [ "SAY_GIL_START", "d1/da3/a02327.html#aa3e172c8a560dd0d92fb1d8f79b90716a9cc558649c398869a908d76e46580a55", null ],
+      [ "SAY_GIL_AT_LAST", "d1/da3/a02327.html#aa3e172c8a560dd0d92fb1d8f79b90716a74625b1d5af887cffe07cc6889f66f94", null ],
+      [ "SAY_GIL_PROCEED", "d1/da3/a02327.html#aa3e172c8a560dd0d92fb1d8f79b90716a83573efbb4a65334a79436dadb172c25", null ],
+      [ "SAY_GIL_FREEBOOTERS", "d1/da3/a02327.html#aa3e172c8a560dd0d92fb1d8f79b90716add548aa464c97165ed4e9a07e2d26b76", null ],
+      [ "SAY_GIL_AGGRO", "d1/da3/a02327.html#aa3e172c8a560dd0d92fb1d8f79b90716a189c2478bea56968035dc5626a361ad9", null ],
+      [ "SAY_GIL_ALMOST", "d1/da3/a02327.html#aa3e172c8a560dd0d92fb1d8f79b90716af98466d2079315f8451fe5fd010cfd86", null ],
+      [ "SAY_GIL_SWEET", "d1/da3/a02327.html#aa3e172c8a560dd0d92fb1d8f79b90716a53a6c4cad1fc536662a170117dab1f9b", null ],
+      [ "SAY_GIL_FREED", "d1/da3/a02327.html#aa3e172c8a560dd0d92fb1d8f79b90716af0bf3f928b89fe85bfd73f9973f02046", null ],
+      [ "QUEST_FREE_FROM_HOLD", "d1/da3/a02327.html#aa3e172c8a560dd0d92fb1d8f79b90716a406ffd8f7c4e1a504188c50f2743b36a", null ]
     ] ],
-    [ "draeneiSurvivor", "d1/da3/a02327.html#a4312325b44ff42e455a1955a0a0d0ce0", [
-      [ "SAY_HEAL", "d1/da3/a02327.html#a4312325b44ff42e455a1955a0a0d0ce0a3bb81f47f40ebbd45afd95991300a0b6", null ],
-      [ "SAY_HELP", "d1/da3/a02327.html#a4312325b44ff42e455a1955a0a0d0ce0a13e3c4fbf4ffac2b5a7fc5c14d049293", null ],
-      [ "SPELL_IRRIDATION", "d1/da3/a02327.html#a4312325b44ff42e455a1955a0a0d0ce0a75ebf4ca85d16446e34a15b18cdf38ef", null ],
-      [ "SPELL_STUNNED", "d1/da3/a02327.html#a4312325b44ff42e455a1955a0a0d0ce0acf37fb2b5fa94a29d651d4b9364de3b1", null ]
+    [ "TaskmasterFizzule", "d1/da3/a02327.html#a75148097e6b48058f314d1f1d4fc4ed0", [
+      [ "FACTION_FRIENDLY_F", "d1/da3/a02327.html#a75148097e6b48058f314d1f1d4fc4ed0a31d50866a36abfe970a3514cb06962ea", null ],
+      [ "SPELL_FLARE", "d1/da3/a02327.html#a75148097e6b48058f314d1f1d4fc4ed0a8046626c29fcfd2e2491ac4f74af6eba", null ],
+      [ "SPELL_FOLLY", "d1/da3/a02327.html#a75148097e6b48058f314d1f1d4fc4ed0a736760d92e40d0f4387af0951d3ef13a", null ]
     ] ],
-    [ "Magwin", "d1/da3/a02327.html#a8f680a89d6b189116cd0885d3f8e0232", [
-      [ "SAY_START", "d1/da3/a02327.html#a8f680a89d6b189116cd0885d3f8e0232a2eae21cbf7d110ee89a9798ef6f00239", null ],
-      [ "SAY_AGGRO", "d1/da3/a02327.html#a8f680a89d6b189116cd0885d3f8e0232a47c752fff069f3e55065795eef2a9bfe", null ],
-      [ "SAY_PROGRESS", "d1/da3/a02327.html#a8f680a89d6b189116cd0885d3f8e0232a0a1c1c8ee2f4fb58f4e107f259c6a7a5", null ],
-      [ "SAY_END1", "d1/da3/a02327.html#a8f680a89d6b189116cd0885d3f8e0232a944891a3d2f715c9e1c8f47d65f16eca", null ],
-      [ "SAY_END2", "d1/da3/a02327.html#a8f680a89d6b189116cd0885d3f8e0232aa0efc3eab3d2447cc17568f7ceed8cba", null ],
-      [ "EMOTE_HUG", "d1/da3/a02327.html#a8f680a89d6b189116cd0885d3f8e0232a32c1d786a95676b42ba62cccb0249d6d", null ],
-      [ "NPC_COWLEN", "d1/da3/a02327.html#a8f680a89d6b189116cd0885d3f8e0232a72a6ae36de9915698b0dbb6646852a3a", null ],
-      [ "SAY_COWLEN", "d1/da3/a02327.html#a8f680a89d6b189116cd0885d3f8e0232a3b5ee5ee9166e2ca31e5271bfb24aead", null ],
-      [ "EVENT_ACCEPT_QUEST", "d1/da3/a02327.html#a8f680a89d6b189116cd0885d3f8e0232ac570135999543136afc56b60cd580a2d", null ],
-      [ "EVENT_START_ESCORT", "d1/da3/a02327.html#a8f680a89d6b189116cd0885d3f8e0232aac17b854a151f2f2ca72de93bf3c9e01", null ],
-      [ "EVENT_STAND", "d1/da3/a02327.html#a8f680a89d6b189116cd0885d3f8e0232a306a9ab7ce63e6bdb9de7e1cb8ddb026", null ],
-      [ "EVENT_TALK_END", "d1/da3/a02327.html#a8f680a89d6b189116cd0885d3f8e0232add701ab59fa34c09ea3a0c03ccad4b00", null ],
-      [ "EVENT_COWLEN_TALK", "d1/da3/a02327.html#a8f680a89d6b189116cd0885d3f8e0232a87e4ec7fc1940c461ccea28f089583a7", null ],
-      [ "QUEST_A_CRY_FOR_HELP", "d1/da3/a02327.html#a8f680a89d6b189116cd0885d3f8e0232a5e07ef0614c38548bc743a6622705cd8", null ]
+    [ "TwiggyFlathead", "d1/da3/a02327.html#aa59efdc816049c3fc44f4f97e12a5658", [
+      [ "NPC_BIG_WILL", "d1/da3/a02327.html#aa59efdc816049c3fc44f4f97e12a5658a52b94fa0523183a46082d10748f5c26e", null ],
+      [ "NPC_AFFRAY_CHALLENGER", "d1/da3/a02327.html#aa59efdc816049c3fc44f4f97e12a5658aa3eb3b7d13bad2106f352684e916714e", null ],
+      [ "SAY_TWIGGY_FLATHEAD_BEGIN", "d1/da3/a02327.html#aa59efdc816049c3fc44f4f97e12a5658a28f41773e448294cb2b7bdb0e2196423", null ],
+      [ "SAY_TWIGGY_FLATHEAD_FRAY", "d1/da3/a02327.html#aa59efdc816049c3fc44f4f97e12a5658a1e039ea737b8aaa19f4293172019e7bd", null ],
+      [ "SAY_TWIGGY_FLATHEAD_DOWN", "d1/da3/a02327.html#aa59efdc816049c3fc44f4f97e12a5658a0a41b6c14d5e6d0fa171a6ce3571243b", null ],
+      [ "SAY_TWIGGY_FLATHEAD_OVER", "d1/da3/a02327.html#aa59efdc816049c3fc44f4f97e12a5658afcef9e183c118b65e0e78c8b503eabaa", null ]
     ] ],
-    [ "NestlewoodOwlkin", "d1/da3/a02327.html#a8399336a8832e4ae3f893a082e3f6a23", [
-      [ "NPC_NESTLEWOOD_OWLKIN_ENTRY", "d1/da3/a02327.html#a8399336a8832e4ae3f893a082e3f6a23a042fac43f48aae1e0c20efae45c8edd4", null ],
-      [ "NPC_INOCULATED_OWLKIN_ENTRY", "d1/da3/a02327.html#a8399336a8832e4ae3f893a082e3f6a23a81405be99e82dc85aab4f0a4a9560783", null ],
-      [ "TALK_OWLKIN", "d1/da3/a02327.html#a8399336a8832e4ae3f893a082e3f6a23a018df08708e7e76f44efdb0f93a8dac7", null ]
+    [ "Wizzlecrank", "d1/da3/a02327.html#ac43046d19bb8d15ff051d8b88111a24d", [
+      [ "SAY_MERCENARY", "d1/da3/a02327.html#ac43046d19bb8d15ff051d8b88111a24daf5cf9a9b244c85c38bd02b6148fe9217", null ],
+      [ "SAY_START", "d1/da3/a02327.html#ac43046d19bb8d15ff051d8b88111a24da2eae21cbf7d110ee89a9798ef6f00239", null ],
+      [ "SAY_STARTUP1", "d1/da3/a02327.html#ac43046d19bb8d15ff051d8b88111a24da38e6de67604407821fa452a13ee74da2", null ],
+      [ "SAY_STARTUP2", "d1/da3/a02327.html#ac43046d19bb8d15ff051d8b88111a24da23d6a197b8495317fae68ebc5426bfd7", null ],
+      [ "SAY_PROGRESS_1", "d1/da3/a02327.html#ac43046d19bb8d15ff051d8b88111a24dac7ef023ed2cd6e71dcfa4b57f34ffb21", null ],
+      [ "SAY_PROGRESS_2", "d1/da3/a02327.html#ac43046d19bb8d15ff051d8b88111a24da967473f354dae95832b5e82733f4cced", null ],
+      [ "SAY_PROGRESS_3", "d1/da3/a02327.html#ac43046d19bb8d15ff051d8b88111a24da25cbd1006b2e610756fbd3227fb87dcc", null ],
+      [ "SAY_END", "d1/da3/a02327.html#ac43046d19bb8d15ff051d8b88111a24da40884932ffbbf14d6c380b9022bcfe97", null ],
+      [ "QUEST_ESCAPE", "d1/da3/a02327.html#ac43046d19bb8d15ff051d8b88111a24dac283b4a9a83bbf1c8f03006b37d75208", null ],
+      [ "NPC_PILOT_WIZZ", "d1/da3/a02327.html#ac43046d19bb8d15ff051d8b88111a24dabea7d3cfb3795470ea680285a2de300b", null ],
+      [ "NPC_MERCENARY", "d1/da3/a02327.html#ac43046d19bb8d15ff051d8b88111a24da3fe4be631c0b988a493e3867b76fab3f", null ]
     ] ],
-    [ "RavegerCage", "d1/da3/a02327.html#afbe1872b98459d496587a276f39f6172", [
-      [ "NPC_DEATH_RAVAGER", "d1/da3/a02327.html#afbe1872b98459d496587a276f39f6172a3fc36348616e2274939b17da119f4cbb", null ],
-      [ "SPELL_REND", "d1/da3/a02327.html#afbe1872b98459d496587a276f39f6172ac553ad24710435636bd9736df18484c6", null ],
-      [ "SPELL_ENRAGING_BITE", "d1/da3/a02327.html#afbe1872b98459d496587a276f39f6172a441711efdb9fa90311571a2a0dbfe888", null ],
-      [ "QUEST_STRENGTH_ONE", "d1/da3/a02327.html#afbe1872b98459d496587a276f39f6172a2ca7128123717d9b2be0d049b0180449", null ]
-    ] ],
-    [ "AddSC_azuremyst_isle", "d1/da3/a02327.html#a92fc206251c5ac3ca89e584f0e69e0cb", null ]
+    [ "AddSC_the_barrens", "d1/da3/a02327.html#a89bb85fa847a65b610f6b4d1f9f0214c", null ],
+    [ "AffrayChallengerLoc", "d1/da3/a02327.html#a0e553820217161ed24e533b560f8ab03", null ]
 ];

@@ -1,8 +1,9 @@
 var a22699 =
 [
-    [ "HandleApply", "df/dc7/a22699.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
-    [ "HandleRemove", "df/dc7/a22699.html#a06c7c65d973fcf348f5c929503902520", null ],
-    [ "PrepareAuraScript", "df/dc7/a22699.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
-    [ "Register", "df/dc7/a22699.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
-    [ "Validate", "df/dc7/a22699.html#a8135c492638557eec71189282e7f78a2", null ]
+    [ "npc_crusade_recruitAI", "df/dc7/a22699.html#aa5d5e8cc4fe612fda84d971d9cee987f", null ],
+    [ "Reset", "df/dc7/a22699.html#a183360b99ecbd784b4dabbf5158f59d1", null ],
+    [ "sGossipSelect", "df/dc7/a22699.html#ab7bfdc4cc8c86645174ac154ee5db541", null ],
+    [ "UpdateAI", "df/dc7/a22699.html#a0b4dad62e1adf04013d8fbcefe310400", null ],
+    [ "_events", "df/dc7/a22699.html#a32060a04ba73fbf9ae2df8417e826ce9", null ],
+    [ "_heading", "df/dc7/a22699.html#a6e260a6e085962d54b765bff4cb17963", null ]
 ];

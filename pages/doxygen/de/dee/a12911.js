@@ -1,8 +1,11 @@
 var a12911 =
 [
-    [ "npc_cyclone", "de/dee/a12911.html#afdc4f98b031f832702929c6a7f192ab5", null ],
-    [ "JustEngagedWith", "de/dee/a12911.html#a61d0710868c91f707643a436c0d79485", null ],
-    [ "Reset", "de/dee/a12911.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
-    [ "UpdateAI", "de/dee/a12911.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
-    [ "_scheduler", "de/dee/a12911.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
+    [ "npc_demon_chain", "de/dee/a12911.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
+    [ "AttackStart", "de/dee/a12911.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
+    [ "IsSummonedBy", "de/dee/a12911.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
+    [ "JustDied", "de/dee/a12911.html#a35d1b7de8612f11cdf61b9d663990686", null ],
+    [ "JustEngagedWith", "de/dee/a12911.html#a9743ebc31c5159a03889bfd40b09d749", null ],
+    [ "MoveInLineOfSight", "de/dee/a12911.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
+    [ "Reset", "de/dee/a12911.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
+    [ "sacrificeGUID", "de/dee/a12911.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
 ];

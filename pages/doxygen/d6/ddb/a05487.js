@@ -1,16 +1,17 @@
 var a05487 =
 [
-    [ "difference_type", "d6/ddb/a05487.html#aeb2086c6034a734b92b3cb8d0382a293", null ],
-    [ "iterator_category", "d6/ddb/a05487.html#a60f6936503d386c555d012e8763611ca", null ],
-    [ "pointer", "d6/ddb/a05487.html#aa25ef6456bed8f4e599a48c7c1448363", null ],
-    [ "reference", "d6/ddb/a05487.html#a95fa5b0dac0017e43bc5683fb040836d", null ],
-    [ "value_type", "d6/ddb/a05487.html#ab19bfdfea57f6de2bbef93aff14481ec", null ],
-    [ "CheckedBufferOutputIterator", "d6/ddb/a05487.html#a49de38fe9f4e296bcd229d486864c65e", null ],
-    [ "check", "d6/ddb/a05487.html#ab8414d5a971d77718de7f610bb000443", null ],
-    [ "operator*", "d6/ddb/a05487.html#a2d4635aa952b03df738046667197b6f9", null ],
-    [ "operator++", "d6/ddb/a05487.html#a1bdbf99823ee46a88094480b5040211b", null ],
-    [ "operator++", "d6/ddb/a05487.html#a8a72bd229fb92e389ec311142ca2a139", null ],
-    [ "remaining", "d6/ddb/a05487.html#ae804b558c6912a00405070e170572407", null ],
-    [ "_buf", "d6/ddb/a05487.html#abee1c6def8872acea5f34f0ae22aa467", null ],
-    [ "_end", "d6/ddb/a05487.html#a83a86f648edeeaf34b01581b972b2f1d", null ]
+    [ "CircularBuffer", "d6/ddb/a05487.html#a169d3975fbe8eda83c02f62b34347bc9", null ],
+    [ "capacity", "d6/ddb/a05487.html#aed04549e911fb6ecebbac1cbd01e9dcd", null ],
+    [ "content", "d6/ddb/a05487.html#ad364f8ee7c9176b912ea053e2f3c928f", null ],
+    [ "empty", "d6/ddb/a05487.html#a7509cc5ef0dd0a9f731c47b05929580c", null ],
+    [ "full", "d6/ddb/a05487.html#a2a2f13f00dca028142c250b5f2183097", null ],
+    [ "peak_back", "d6/ddb/a05487.html#ad4bb17889033526da4605ebddd60f3c7", null ],
+    [ "put", "d6/ddb/a05487.html#a2a5e093804731b69969c18e49a206572", null ],
+    [ "size", "d6/ddb/a05487.html#af429f831da3fd31618d1c1612cd94ce7", null ],
+    [ "buf_", "d6/ddb/a05487.html#aa2b9389da6cd912b4dd54d89ca1d69ee", null ],
+    [ "full_", "d6/ddb/a05487.html#a1dfcbf9f9d2760d7d82144c57ff8a60e", null ],
+    [ "head_", "d6/ddb/a05487.html#a43ba1c722307cdbbf38f8ba1ec7f64c6", null ],
+    [ "max_size_", "d6/ddb/a05487.html#a4ad34b67dc4924addf79905732203d2a", null ],
+    [ "mutex_", "d6/ddb/a05487.html#aa4762ba2167d8b9560ff39328b4b3afa", null ],
+    [ "tail_", "d6/ddb/a05487.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f", null ]
 ];

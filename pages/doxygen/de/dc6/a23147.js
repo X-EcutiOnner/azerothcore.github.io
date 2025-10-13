@@ -1,8 +1,6 @@
 var a23147 =
 [
-    [ "HandleEffectApply", "de/dc6/a23147.html#a94993441ef94f84c85aa10c693cf34fe", null ],
-    [ "HandleEffectRemove", "de/dc6/a23147.html#a047a1dd4bab33d7d5b2631c0862ba4b0", null ],
-    [ "PrepareAuraScript", "de/dc6/a23147.html#a0ced86fc2e108e7bba9727d26eac3ff3", null ],
-    [ "Register", "de/dc6/a23147.html#a0dbd8b0bc1dfad8bda0e48ab57b4db3f", null ],
-    [ "Validate", "de/dc6/a23147.html#a964637541cd64e64b4e02c00d36abf2d", null ]
+    [ "boss_essence_of_angerAI", "d0/d68/a23151.html", "d0/d68/a23151" ],
+    [ "boss_essence_of_anger", "de/dc6/a23147.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
+    [ "GetAI", "de/dc6/a23147.html#a70a460f31b7f878e532b695ca822ab5d", null ]
 ];

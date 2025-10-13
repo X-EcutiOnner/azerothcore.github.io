@@ -1,7 +1,10 @@
 var a18531 =
 [
-    [ "PrepareSpellScript", "d6/d29/a18531.html#a3283e829757b50bb52f66ee1e64033ae", null ],
-    [ "Register", "d6/d29/a18531.html#a0162c92c32210f2873686610f4f00b87", null ],
-    [ "TriggerHeal", "d6/d29/a18531.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
-    [ "Validate", "d6/d29/a18531.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
+    [ "HandleScript", "d6/d29/a18531.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
+    [ "Load", "d6/d29/a18531.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
+    [ "PrepareSpellScript", "d6/d29/a18531.html#afcc1efc69d73086a9ab686855911e516", null ],
+    [ "Register", "d6/d29/a18531.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
+    [ "ReplaceTarget", "d6/d29/a18531.html#a01cb7d25bef14a2266d81594544f6283", null ],
+    [ "SelectTarget", "d6/d29/a18531.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
+    [ "_target", "d6/d29/a18531.html#a3a84a9d7109845d201b395f05f66d109", null ]
 ];

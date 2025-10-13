@@ -1,12 +1,10 @@
 var a13967 =
 [
-    [ "npc_daphne_stilwellAI", "da/df6/a13967.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
-    [ "AttackStart", "da/df6/a13967.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
-    [ "JustSummoned", "da/df6/a13967.html#ae56554d30e9de7644efab891555c57e0", null ],
-    [ "Reset", "da/df6/a13967.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
-    [ "SummonedCreatureDies", "da/df6/a13967.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
-    [ "Update", "da/df6/a13967.html#a4099d75c4a6bca1525781a5753ef9972", null ],
-    [ "WaypointReached", "da/df6/a13967.html#a1035eb0a1696730d8304593b5fb079e4", null ],
-    [ "summons", "da/df6/a13967.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
-    [ "textCounter", "da/df6/a13967.html#a62ab24169c1b7c3028ab33303b217f63", null ]
+    [ "npc_lady_sylvanas_windrunner_bfuAI", "da/df6/a13967.html#af7d495f489979690615d091bbd9d539b", null ],
+    [ "CanAIAttack", "da/df6/a13967.html#af332a66852c9499912d8ef4959f394f5", null ],
+    [ "InitializeAI", "da/df6/a13967.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
+    [ "JustRespawned", "da/df6/a13967.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
+    [ "Reset", "da/df6/a13967.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
+    [ "UpdateAI", "da/df6/a13967.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
+    [ "_events", "da/df6/a13967.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
 ];

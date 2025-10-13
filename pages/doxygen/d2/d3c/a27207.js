@@ -1,7 +1,8 @@
 var a27207 =
 [
-    [ "HandleScript", "d2/d3c/a27207.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
-    [ "PrepareSpellScript", "d2/d3c/a27207.html#ab363d596d2d1e030f0cc07126b40e921", null ],
-    [ "Register", "d2/d3c/a27207.html#ab9041b811e80e220828d5db59b724682", null ],
-    [ "Validate", "d2/d3c/a27207.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
+    [ "HandleEffect", "d2/d3c/a27207.html#a1c1a06362742abcf83e1817c468de3d3", null ],
+    [ "PrepareSpellScript", "d2/d3c/a27207.html#a0e2cce13a3b2c8b8e9ace8876def8b9c", null ],
+    [ "Register", "d2/d3c/a27207.html#a56108b37bc69809ce80d424e2bcb3f55", null ],
+    [ "SendMiss", "d2/d3c/a27207.html#afda727460aebc8fe97d5c18d0195ea2c", null ],
+    [ "Validate", "d2/d3c/a27207.html#ab9533351a176f4e0d641a6e36a75d6b9", null ]
 ];

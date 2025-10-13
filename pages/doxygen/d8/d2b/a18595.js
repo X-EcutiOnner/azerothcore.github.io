@@ -1,6 +1,7 @@
 var a18595 =
 [
-    [ "npc_icc_lk_checktargetAI", "d3/d3a/a18599.html", "d3/d3a/a18599" ],
-    [ "npc_icc_lk_checktarget", "d8/d2b/a18595.html#a3a2cc943e731e472694dcb13417090da", null ],
-    [ "GetAI", "d8/d2b/a18595.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
+    [ "HandleProc", "d8/d2b/a18595.html#af06730a865009127c7d3e5423afd4d44", null ],
+    [ "PrepareAuraScript", "d8/d2b/a18595.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
+    [ "Register", "d8/d2b/a18595.html#a6c97b787ce00491a259c575d26189f8c", null ],
+    [ "Validate", "d8/d2b/a18595.html#aed9c98e20d916359629e119d6dd2a94f", null ]
 ];

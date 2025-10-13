@@ -1,22 +1,29 @@
 var a04610 =
 [
-    [ "AppenderConsole", "db/d18/a05383.html", "db/d18/a05383" ],
-    [ "ColorTypes", "d9/d98/a04610.html#a6a9b1b5f775325358eae2c7e95ebe832", [
-      [ "BLACK", "d9/d98/a04610.html#a6a9b1b5f775325358eae2c7e95ebe832af77fb67151d0c18d397069ad8c271ba3", null ],
-      [ "RED", "d9/d98/a04610.html#a6a9b1b5f775325358eae2c7e95ebe832af80f9a890089d211842d59625e561f88", null ],
-      [ "GREEN", "d9/d98/a04610.html#a6a9b1b5f775325358eae2c7e95ebe832aa60bd322f93178d68184e30e162571ca", null ],
-      [ "BROWN", "d9/d98/a04610.html#a6a9b1b5f775325358eae2c7e95ebe832a1fa14482e7e4dc1332ab8c9d995fe570", null ],
-      [ "BLUE", "d9/d98/a04610.html#a6a9b1b5f775325358eae2c7e95ebe832a35d6719cb4d7577c031b3d79057a1b79", null ],
-      [ "MAGENTA", "d9/d98/a04610.html#a6a9b1b5f775325358eae2c7e95ebe832a56926c820ad72d0977e7ee44d9916e62", null ],
-      [ "CYAN", "d9/d98/a04610.html#a6a9b1b5f775325358eae2c7e95ebe832aafe71cad474c15ce63b300c470eef8cc", null ],
-      [ "GREY", "d9/d98/a04610.html#a6a9b1b5f775325358eae2c7e95ebe832a38566822dbd9408c447abfd3ed4a85d2", null ],
-      [ "YELLOW", "d9/d98/a04610.html#a6a9b1b5f775325358eae2c7e95ebe832ae735a848bf82163a19236ead1c3ef2d2", null ],
-      [ "LRED", "d9/d98/a04610.html#a6a9b1b5f775325358eae2c7e95ebe832a21218f0bbfa9bc5df1980d7b00b31eef", null ],
-      [ "LGREEN", "d9/d98/a04610.html#a6a9b1b5f775325358eae2c7e95ebe832af140c7722cbeec108ed0498ab2e5dc81", null ],
-      [ "LBLUE", "d9/d98/a04610.html#a6a9b1b5f775325358eae2c7e95ebe832aceb95882ebc29273fb1545cf9c521da5", null ],
-      [ "LMAGENTA", "d9/d98/a04610.html#a6a9b1b5f775325358eae2c7e95ebe832a51603f3a2238f1121bd8ab3c5d4a1b6e", null ],
-      [ "LCYAN", "d9/d98/a04610.html#a6a9b1b5f775325358eae2c7e95ebe832ad0eb86e5e042610a6d0c3fc1e86961b7", null ],
-      [ "WHITE", "d9/d98/a04610.html#a6a9b1b5f775325358eae2c7e95ebe832a283fc479650da98250635b9c3c0e7e50", null ],
-      [ "NUM_COLOR_TYPES", "d9/d98/a04610.html#a6a9b1b5f775325358eae2c7e95ebe832a90c1f623cb1ff125c9834ae2dc757f66", null ]
+    [ "AppenderFlags", "d9/d98/a04610.html#a94c1c25ceab6db205eb6a5d5a2e0e803", [
+      [ "APPENDER_FLAGS_NONE", "d9/d98/a04610.html#a94c1c25ceab6db205eb6a5d5a2e0e803a184efa87bd2e31eb7cbcb9d9d9da282b", null ],
+      [ "APPENDER_FLAGS_PREFIX_TIMESTAMP", "d9/d98/a04610.html#a94c1c25ceab6db205eb6a5d5a2e0e803abd5b7165060ec5de7b8db0619e2f2a46", null ],
+      [ "APPENDER_FLAGS_PREFIX_LOGLEVEL", "d9/d98/a04610.html#a94c1c25ceab6db205eb6a5d5a2e0e803adc9e7db7404463919a903d8acfeff94e", null ],
+      [ "APPENDER_FLAGS_PREFIX_LOGFILTERTYPE", "d9/d98/a04610.html#a94c1c25ceab6db205eb6a5d5a2e0e803ac133c721eb5548b0845595467e081c5b", null ],
+      [ "APPENDER_FLAGS_USE_TIMESTAMP", "d9/d98/a04610.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6aec71fc9bc28024147cf9f5291c08c3", null ],
+      [ "APPENDER_FLAGS_MAKE_FILE_BACKUP", "d9/d98/a04610.html#a94c1c25ceab6db205eb6a5d5a2e0e803a6a4fbf813da7a71ddfd24f9336a7e5a2", null ]
+    ] ],
+    [ "AppenderType", "d9/d98/a04610.html#aacbd2dccb14fcb75d2651dce582364df", [
+      [ "APPENDER_NONE", "d9/d98/a04610.html#aacbd2dccb14fcb75d2651dce582364dfaceddd86331dd45bd7dbd5f8bae6c8852", null ],
+      [ "APPENDER_CONSOLE", "d9/d98/a04610.html#aacbd2dccb14fcb75d2651dce582364dfa8cc0efa84bbb87aa8207ba11f369b78a", null ],
+      [ "APPENDER_FILE", "d9/d98/a04610.html#aacbd2dccb14fcb75d2651dce582364dfa2420e38b426dcb22e37a90b6a97cc65d", null ],
+      [ "APPENDER_DB", "d9/d98/a04610.html#aacbd2dccb14fcb75d2651dce582364dfacac80dc510e850226c250af5a5600394", null ],
+      [ "APPENDER_INVALID", "d9/d98/a04610.html#aacbd2dccb14fcb75d2651dce582364dfa7cb05f13eacfc1d54ef111d7b8375301", null ]
+    ] ],
+    [ "LogLevel", "d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781", [
+      [ "LOG_LEVEL_DISABLED", "d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61", null ],
+      [ "LOG_LEVEL_FATAL", "d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5", null ],
+      [ "LOG_LEVEL_ERROR", "d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781a5b40f003febbc3b535649d63f4b8a44f", null ],
+      [ "LOG_LEVEL_WARN", "d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781a99c1e5c8e6d557f3993b9ab54a0107f4", null ],
+      [ "LOG_LEVEL_INFO", "d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781aedee1e3159bfe7d918b6e29873c5aee4", null ],
+      [ "LOG_LEVEL_DEBUG", "d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781a538b2b6e011479d408ecd2be0f6d6177", null ],
+      [ "LOG_LEVEL_TRACE", "d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781a8fa9f12103da446ab4f3d3dc2fcf7f5d", null ],
+      [ "NUM_ENABLED_LOG_LEVELS", "d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781a02115b12f9d2c08405f3ea32fb8dea7d", null ],
+      [ "LOG_LEVEL_INVALID", "d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781a385a9fffad0d67363b55e833e0395c96", null ]
     ] ]
 ];

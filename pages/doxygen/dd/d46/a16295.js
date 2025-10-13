@@ -1,14 +1,13 @@
 var a16295 =
 [
-    [ "npc_halion_controllerAI", "dd/d46/a16295.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
-    [ "DoAction", "dd/d46/a16295.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
-    [ "Reset", "dd/d46/a16295.html#a3004aecb50815287d5f832f2a8a0d250", null ],
-    [ "SetData", "dd/d46/a16295.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
-    [ "UpdateAI", "dd/d46/a16295.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
-    [ "UpdateCorporeality", "dd/d46/a16295.html#ac82987f2b2b069b90c509c477004bae6", null ],
-    [ "_corporeality", "dd/d46/a16295.html#a4c23df1bb774ac724bdf537453592671", null ],
-    [ "_events", "dd/d46/a16295.html#a92e3f116260265a2d0dbeef769eee03e", null ],
-    [ "_instance", "dd/d46/a16295.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
-    [ "_materialDamage", "dd/d46/a16295.html#afcc510b0d4be10ed057d1a304b803b69", null ],
-    [ "_twilightDamage", "dd/d46/a16295.html#a13a9efcb11ed31725c45011508407287", null ]
+    [ "boss_twilight_halionAI", "dd/d46/a16295.html#aab05bab963d603c3cb70edfd62a84b49", null ],
+    [ "DamageTaken", "dd/d46/a16295.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
+    [ "EnterEvadeMode", "dd/d46/a16295.html#af7076251fc1fad1dc259d747934910e2", null ],
+    [ "JustDied", "dd/d46/a16295.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
+    [ "JustEngagedWith", "dd/d46/a16295.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
+    [ "KilledUnit", "dd/d46/a16295.html#ada770d51f63c841c500ffc3197a7a89f", null ],
+    [ "Reset", "dd/d46/a16295.html#a9c945841926d5b08f37c6a720dd25a14", null ],
+    [ "UpdateAI", "dd/d46/a16295.html#a6ab1d215ed077883781b0c0188282c5e", null ],
+    [ "_events", "dd/d46/a16295.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
+    [ "_instance", "dd/d46/a16295.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
 ];

@@ -1,7 +1,8 @@
 var a26007 =
 [
-    [ "Load", "de/da1/a26007.html#a8be944ae201f4f8406948aff78f982d9", null ],
-    [ "OnDummyEffect", "de/da1/a26007.html#adcb707400963e549a295e115d6f3583b", null ],
-    [ "PrepareSpellScript", "de/da1/a26007.html#a5b2175a933df10d775bc3381f515aa96", null ],
-    [ "Register", "de/da1/a26007.html#a6e41bf15401c540887dd321e4b2cc7d3", null ]
+    [ "CheckProc", "de/da1/a26007.html#a8b3f8cf17dda2322d0e9f8f4211cbd20", null ],
+    [ "HandleProc", "de/da1/a26007.html#ae034bd626880858c9701ed963de993c9", null ],
+    [ "isException", "de/da1/a26007.html#aa5f4fcd1b9b710e2931460207cfc6dea", null ],
+    [ "PrepareAuraScript", "de/da1/a26007.html#a50348fd27947f67df03bf4ddbec89cca", null ],
+    [ "Register", "de/da1/a26007.html#aaa14b34ac54b4caee76ff72d07dd5c2d", null ]
 ];

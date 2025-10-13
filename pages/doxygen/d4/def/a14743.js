@@ -1,6 +1,5 @@
 var a14743 =
 [
-    [ "HandleScriptEffect", "d4/def/a14743.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
-    [ "PrepareSpellScript", "d4/def/a14743.html#a55115ca986d5226588d168ced7ab1f55", null ],
-    [ "Register", "d4/def/a14743.html#ad8811bf48dfb564afcd82cf51b860255", null ]
+    [ "npc_pilgrims_bounty_plate", "d4/def/a14743.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
+    [ "SpellHit", "d4/def/a14743.html#a7797b7a532336542ef37f0643df8dec0", null ]
 ];

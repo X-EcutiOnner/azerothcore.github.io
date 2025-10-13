@@ -1,8 +1,8 @@
 var a27047 =
 [
-    [ "Detonate", "d5/dd0/a27047.html#a89f46334c78fc190afd7b03706fa2513", null ],
-    [ "HandleProc", "d5/dd0/a27047.html#a82ad88c757eed35f7e0f2af38ceb2273", null ],
-    [ "PrepareAuraScript", "d5/dd0/a27047.html#a7268602da6dc74d7c501fb90c8167226", null ],
-    [ "Register", "d5/dd0/a27047.html#ac1574e943840e5f15a808ed4d338cd5f", null ],
-    [ "Validate", "d5/dd0/a27047.html#abbc5c9d069e716d9356ec366713abb84", null ]
+    [ "CalcPeriodic", "d5/dd0/a27047.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
+    [ "CalculateAmount", "d5/dd0/a27047.html#a525009acb345d6b0a9857c30cfce2230", null ],
+    [ "HandlePeriodic", "d5/dd0/a27047.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
+    [ "PrepareAuraScript", "d5/dd0/a27047.html#a5627212e48a3044a9a7480851787a839", null ],
+    [ "Register", "d5/dd0/a27047.html#a09ea5265d7105a4bd487d383948901a0", null ]
 ];

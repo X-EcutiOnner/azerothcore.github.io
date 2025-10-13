@@ -1,7 +1,11 @@
 var a14823 =
 [
-    [ "PeriodicTick", "d8/ddd/a14823.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
-    [ "PrepareAuraScript", "d8/ddd/a14823.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
-    [ "Register", "d8/ddd/a14823.html#a24058b120f4fa06b89f6d582c53a365a", null ],
-    [ "Validate", "d8/ddd/a14823.html#a093b09be5abde91a1487d67a7a554d30", null ]
+    [ "boss_anetheron", "d8/ddd/a14823.html#a6c103caa3f137756599a75bff03a6648", null ],
+    [ "DoAction", "d8/ddd/a14823.html#a2fd485de26c820fec5240f9141a09964", null ],
+    [ "JustDied", "d8/ddd/a14823.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
+    [ "JustEngagedWith", "d8/ddd/a14823.html#aa34ac87ad4014fbecb481be7896c577c", null ],
+    [ "JustSummoned", "d8/ddd/a14823.html#af9c156e28c7eca710d8367bd2a99387d", null ],
+    [ "KilledUnit", "d8/ddd/a14823.html#a4471af823278a3664574729bf5c749be", null ],
+    [ "PathEndReached", "d8/ddd/a14823.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
+    [ "_recentlySpoken", "d8/ddd/a14823.html#accd9455c3b1d536ca177be6028f3503d", null ]
 ];

@@ -1,5 +1,5 @@
 var a28659 =
 [
-    [ "Price", "d7/db0/a28659.html#a9cf01cf0d41d49613b4ceaf1eeb1716b", null ],
-    [ "Slot", "d7/db0/a28659.html#aa53247914bda0ceca015b8b9ca117379", null ]
+    [ "ID", "d7/db0/a28659.html#a0272b3c1130508a2681035c91ee416e6", null ],
+    [ "SpellID", "d7/db0/a28659.html#a231d22a763ddcd9f1fbdab81521dcf67", null ]
 ];

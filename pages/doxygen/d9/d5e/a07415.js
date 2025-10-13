@@ -1,7 +1,10 @@
 var a07415 =
 [
-    [ "BattlegroundEYPointIconsStruct", "d9/d5e/a07415.html#a322379024d155d293d1c0083c510d232", null ],
-    [ "WorldStateAllianceControlledIndex", "d9/d5e/a07415.html#a449932bc2357e26c79520fcf01a71a2a", null ],
-    [ "WorldStateControlIndex", "d9/d5e/a07415.html#a82e87048f934b67821bc8ba308ed101d", null ],
-    [ "WorldStateHordeControlledIndex", "d9/d5e/a07415.html#a1118c998cf9a319f9c81c100d23c25d3", null ]
+    [ "BattlegroundBE", "d9/d5e/a07415.html#a4b29ebe897de3109b165607de957fae2", null ],
+    [ "FillInitialWorldStates", "d9/d5e/a07415.html#a15f4e4a79c5a1ee594811aa1cd1786f7", null ],
+    [ "HandleAreaTrigger", "d9/d5e/a07415.html#a6216e25edd0057b9599efc787045505e", null ],
+    [ "HandlePlayerUnderMap", "d9/d5e/a07415.html#ab004984d4b882e72471b0b5a8fca9632", null ],
+    [ "SetupBattleground", "d9/d5e/a07415.html#a2eed1be4672539674e092edb6a6a9627", null ],
+    [ "StartingEventCloseDoors", "d9/d5e/a07415.html#a2379fda6296fcdbde68fad362e858621", null ],
+    [ "StartingEventOpenDoors", "d9/d5e/a07415.html#a09be55b7b6a1559a657bdfbd672021f0", null ]
 ];

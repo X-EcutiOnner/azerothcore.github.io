@@ -1,7 +1,6 @@
 var a16003 =
 [
-    [ "npc_ahnkahar_nerubian", "dc/de4/a16003.html#ae18cdf09bae50751e266e95caf165f8e", null ],
-    [ "Reset", "dc/de4/a16003.html#a387831015ec8e4bc65cff8c8550bb176", null ],
-    [ "UpdateAI", "dc/de4/a16003.html#a9a773127e4f94bcdf142718355eae0e8", null ],
-    [ "uiSprintTimer", "dc/de4/a16003.html#a27a6f57a6b145cc595896d1ad453064f", null ]
+    [ "HandleApply", "dc/de4/a16003.html#aee4d5908035d06be2f1469a50db02e26", null ],
+    [ "PrepareAuraScript", "dc/de4/a16003.html#ac8349deb2e9c8861194e80132bd72fc5", null ],
+    [ "Register", "dc/de4/a16003.html#ac83962bef84b68cef6d7937769730598", null ]
 ];

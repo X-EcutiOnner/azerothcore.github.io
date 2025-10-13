@@ -1,7 +1,7 @@
 var a24075 =
 [
-    [ "Load", "d2/d63/a24075.html#aba7e1a0b87607386649bb842b5058c3e", null ],
-    [ "OnRemove", "d2/d63/a24075.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
-    [ "PrepareAuraScript", "d2/d63/a24075.html#ac62b18eedbadb0b3581d772909175e96", null ],
-    [ "Register", "d2/d63/a24075.html#a17e8be131f01b2434b18740b20a08d6e", null ]
+    [ "HandleEffect", "d2/d63/a24075.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
+    [ "PrepareSpellScript", "d2/d63/a24075.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
+    [ "Register", "d2/d63/a24075.html#ac406946bb793125d49006e3a877c9638", null ],
+    [ "SelectTarget", "d2/d63/a24075.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
 ];

@@ -1,25 +1,7 @@
 var a05223 =
 [
-    [ "Record", "d3/d6e/a05227.html", "d3/d6e/a05227" ],
-    [ "DBCFileLoader", "d7/d00/a05223.html#a99ba418c63c49cf9a028626b8e282a01", null ],
-    [ "~DBCFileLoader", "d7/d00/a05223.html#a2e8dd3e5d88b870ea01e0c8dbfa55acd", null ],
-    [ "DBCFileLoader", "d7/d00/a05223.html#a2e75536e8df1449449b4b6fe5585074d", null ],
-    [ "AutoProduceData", "d7/d00/a05223.html#af8810dd9cef9ed82036bbebb4c938521", null ],
-    [ "AutoProduceStrings", "d7/d00/a05223.html#a12054e13d90636076ce04587aacf8ff6", null ],
-    [ "GetCols", "d7/d00/a05223.html#a3c536a9333a06213a37c95087eaaf8e3", null ],
-    [ "GetFormatRecordSize", "d7/d00/a05223.html#a990308cf88d2772db090c37a66e9f9e5", null ],
-    [ "GetNumRows", "d7/d00/a05223.html#aeedb51dd9b316063a58a989b175d0bc5", null ],
-    [ "GetOffset", "d7/d00/a05223.html#ae624604ad0cdae8d3eb7212630a33613", null ],
-    [ "getRecord", "d7/d00/a05223.html#ac4b1c79585f63f53f6d48db235732e20", null ],
-    [ "GetRowSize", "d7/d00/a05223.html#af322bc9e92472463998ca8082c5da3d6", null ],
-    [ "IsLoaded", "d7/d00/a05223.html#a28bf265dafc284e9edb55fc1ed261694", null ],
-    [ "Load", "d7/d00/a05223.html#a32c6a04567395f66270858c5feb57f5f", null ],
-    [ "operator=", "d7/d00/a05223.html#ac2b0f30fb125b8dae385ca8330d02e8b", null ],
-    [ "data", "d7/d00/a05223.html#a137152d873bfa3cb2d3860fe6001f404", null ],
-    [ "fieldCount", "d7/d00/a05223.html#a920472d71232fa759bce768fdca9a1c4", null ],
-    [ "fieldsOffset", "d7/d00/a05223.html#a7aa68d259f6295df3029456bde143862", null ],
-    [ "recordCount", "d7/d00/a05223.html#a1a17426b679598ee27363e897b40f2bf", null ],
-    [ "recordSize", "d7/d00/a05223.html#ab4f28de7c57a6e25c715bb009ed5f701", null ],
-    [ "stringSize", "d7/d00/a05223.html#a0761727ba38d899f337c733873742d69", null ],
-    [ "stringTable", "d7/d00/a05223.html#a5961bf01316cc14a075c1b874000e8a2", null ]
+    [ "Secret", "d7/d00/a05223.html#aae38427994c1f4ddf3838c4e1f3f7e03", null ],
+    [ "GenerateToken", "d7/d00/a05223.html#a44829d44e78247991d9c3dde270cab5c", null ],
+    [ "ValidateToken", "d7/d00/a05223.html#ab6b27542814e577106ad587a5807d663", null ],
+    [ "RECOMMENDED_SECRET_LENGTH", "d7/d00/a05223.html#a885fc6c1a5bda166416f161ea202eb72", null ]
 ];

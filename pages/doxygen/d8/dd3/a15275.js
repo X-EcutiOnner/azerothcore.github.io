@@ -1,5 +1,7 @@
 var a15275 =
 [
-    [ "boss_yauj", "d8/dd3/a15275.html#a15ab7b6b35d29fb1552b11586163320e", null ],
-    [ "JustEngagedWith", "d8/dd3/a15275.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
+    [ "npc_hivezara_stinger", "d8/dd3/a15275.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
+    [ "JustEngagedWith", "d8/dd3/a15275.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
+    [ "Reset", "d8/dd3/a15275.html#ae8e893c90942a469628c393d5b5380cc", null ],
+    [ "UpdateAI", "d8/dd3/a15275.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
 ];

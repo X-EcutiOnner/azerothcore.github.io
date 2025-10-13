@@ -1,5 +1,5 @@
 var a27571 =
 [
-    [ "go_table_theka", "d1/d71/a27571.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
-    [ "OnGossipHello", "d1/d71/a27571.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
+    [ "go_jump_a_tron", "d1/d71/a27571.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
+    [ "OnGossipHello", "d1/d71/a27571.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
 ];

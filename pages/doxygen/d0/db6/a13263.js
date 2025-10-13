@@ -1,14 +1,11 @@
 var a13263 =
 [
-    [ "boss_kirtonos_the_heraldAI", "d0/db6/a13263.html#af68c553db0889c22b7b4b76c868d38e7", null ],
-    [ "DoAction", "d0/db6/a13263.html#ade11c2ff67c93f09f34b7b0e59766cc3", null ],
-    [ "EnterEvadeMode", "d0/db6/a13263.html#a92ee25d349cc1ae3e46e4696a01697c3", null ],
-    [ "JustDied", "d0/db6/a13263.html#a7ecf7396ebcb6f541586435996094f56", null ],
-    [ "JustEngagedWith", "d0/db6/a13263.html#abcf09a75bed393e5fc03ef184e5c2918", null ],
-    [ "MovementInform", "d0/db6/a13263.html#a16379320eebb8223a79cf3927bdc507e", null ],
-    [ "UpdateAI", "d0/db6/a13263.html#a7eedcb1416d05b95f6110751119aea02", null ],
-    [ "events", "d0/db6/a13263.html#a5dd38f68ce8745484cbc00dadde439dc", null ],
-    [ "events2", "d0/db6/a13263.html#aaf9216da4f5394953d0316be8d8e8c4f", null ],
-    [ "instance", "d0/db6/a13263.html#acae39cf7bc9a6d68834d3916fa75a006", null ],
-    [ "TransformsCount", "d0/db6/a13263.html#aa0834b23d00463ae36bb0ec6a2067257", null ]
+    [ "npc_valkyr_battle_maidenAI", "d0/db6/a13263.html#a859b63621c500c7a36150fadbb460b2b", null ],
+    [ "Reset", "d0/db6/a13263.html#a3ca06a5822f1b5ae625b1dcc71ec0c30", null ],
+    [ "UpdateAI", "d0/db6/a13263.html#a33251b8d8abb9b46a5af4cb4e92472b8", null ],
+    [ "FlyBackTimer", "d0/db6/a13263.html#a625eb33fb32f935c5109a8d3d70c5ae7", null ],
+    [ "phase", "d0/db6/a13263.html#abd5d71272aa575be8583254217194e49", null ],
+    [ "x", "d0/db6/a13263.html#a2dbae2865b6c6db4e82b7d1dc8a67739", null ],
+    [ "y", "d0/db6/a13263.html#acccea63fedf38de14f7818016830a0a9", null ],
+    [ "z", "d0/db6/a13263.html#adde328d26ad752a9e5f2ab32eab2a4e0", null ]
 ];

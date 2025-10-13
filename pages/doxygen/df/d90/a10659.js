@@ -1,6 +1,5 @@
 var a10659 =
 [
-    [ "GuildEventLogQueryResults", "df/d90/a10659.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
-    [ "Write", "df/d90/a10659.html#aa24738cdd040a883782b50189abdf240", null ],
-    [ "Entry", "df/d90/a10659.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
+    [ "GuildDeclineInvitation", "df/d90/a10659.html#a11a70a9974bb139e53f76c8b78944fe7", null ],
+    [ "Read", "df/d90/a10659.html#ad034438e18a7feddbac376a599c1e01a", null ]
 ];

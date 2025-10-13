@@ -1,6 +1,6 @@
 var a14323 =
 [
-    [ "boss_wushoolayAI", "d7/d92/a14327.html", "d7/d92/a14327" ],
-    [ "boss_wushoolay", "d2/deb/a14323.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
-    [ "GetAI", "d2/deb/a14323.html#a70b476358956fd05d6effb75517e2b3d", null ]
+    [ "boss_renatakiAI", "d7/d92/a14327.html", "d7/d92/a14327" ],
+    [ "boss_renataki", "d2/deb/a14323.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
+    [ "GetAI", "d2/deb/a14323.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
 ];

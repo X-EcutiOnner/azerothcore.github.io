@@ -1,10 +1,10 @@
 var a26419 =
 [
-    [ "Absorb", "d6/d5c/a26419.html#ab4006b00d415a94e6a49856cee7e272b", null ],
-    [ "CalculateAmount", "d6/d5c/a26419.html#a57bfd4e7178e9e7c3df12c025d0c7d9e", null ],
-    [ "Load", "d6/d5c/a26419.html#a88aa9623f587bb7b5e91da83c76f562a", null ],
-    [ "PrepareAuraScript", "d6/d5c/a26419.html#a456c1bd5b284f642d1e040de52eee24b", null ],
-    [ "Register", "d6/d5c/a26419.html#a905994099dcc4ac9512d5f27b78a778c", null ],
-    [ "Validate", "d6/d5c/a26419.html#ad99966111a1919c610a942a8eb133ea1", null ],
-    [ "healPct", "d6/d5c/a26419.html#a3b0527ce7f1fd6afaa57f942275ec81b", null ]
+    [ "CheckCast", "d6/d5c/a26419.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
+    [ "HandleScript", "d6/d5c/a26419.html#a35b9d69b8147ef06527b8533ef376e72", null ],
+    [ "Load", "d6/d5c/a26419.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
+    [ "PrepareSpellScript", "d6/d5c/a26419.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
+    [ "Register", "d6/d5c/a26419.html#afd716f555ac73287bd268c6124b15b1c", null ],
+    [ "Validate", "d6/d5c/a26419.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
+    [ "_manaAmount", "d6/d5c/a26419.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
 ];

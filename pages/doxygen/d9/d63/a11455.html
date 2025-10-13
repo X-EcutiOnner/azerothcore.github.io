@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: AuraScript::AuraDispelHandler Class Reference</title>
+<title>AzerothCore: SpellScript::BeforeHitHandler Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,7 +108,7 @@ $(document).ready(function(){initNavTree('d9/d63/a11455.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d7/dd8/a11452.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">AuraScript::AuraDispelHandler Class Reference</div></div>
+  <div class="headertitle"><div class="title">SpellScript::BeforeHitHandler Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
@@ -116,58 +116,58 @@ $(document).ready(function(){initNavTree('d9/d63/a11455.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ab6e675b4db931c601b3d6aef65ae0ff6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d63/a11455.html#ab6e675b4db931c601b3d6aef65ae0ff6">AuraDispelHandler</a> (AuraDispelFnType <a class="el" href="../../d9/d63/a11455.html#ab7dd73a36aa517354a023deb7db0cf19">pHandlerScript</a>)</td></tr>
-<tr class="separator:ab6e675b4db931c601b3d6aef65ae0ff6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a147d8a6d95f011f27600d052ef7b4000"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d63/a11455.html#a147d8a6d95f011f27600d052ef7b4000">Call</a> (<a class="el" href="../../d9/d11/a11447.html">AuraScript</a> *auraScript, <a class="el" href="../../d1/d45/a08747.html">DispelInfo</a> *dispelInfo)</td></tr>
-<tr class="separator:a147d8a6d95f011f27600d052ef7b4000"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0c2f048fc10f408a299a8b537ad7551d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d63/a11455.html#a0c2f048fc10f408a299a8b537ad7551d">BeforeHitHandler</a> (SpellBeforeHitFnType pBeforeHitHandlerScript)</td></tr>
+<tr class="separator:a0c2f048fc10f408a299a8b537ad7551d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a393057cca72c41e193508bf150ed0b1f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d63/a11455.html#a393057cca72c41e193508bf150ed0b1f">Call</a> (<a class="el" href="../../df/dee/a11439.html">SpellScript</a> *spellScript, <a class="el" href="../../d1/da3/a04100.html#ac42174a036914cd9ca25c52e98bef65a">SpellMissInfo</a> missInfo)</td></tr>
+<tr class="separator:a393057cca72c41e193508bf150ed0b1f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:ab7dd73a36aa517354a023deb7db0cf19"><td class="memItemLeft" align="right" valign="top">AuraDispelFnType&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d63/a11455.html#ab7dd73a36aa517354a023deb7db0cf19">pHandlerScript</a></td></tr>
-<tr class="separator:ab7dd73a36aa517354a023deb7db0cf19"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acecb7a8844155ff6eeb3f09582d7a475"><td class="memItemLeft" align="right" valign="top">SpellBeforeHitFnType&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d63/a11455.html#acecb7a8844155ff6eeb3f09582d7a475">_pBeforeHitHandlerScript</a></td></tr>
+<tr class="separator:acecb7a8844155ff6eeb3f09582d7a475"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ab6e675b4db931c601b3d6aef65ae0ff6" name="ab6e675b4db931c601b3d6aef65ae0ff6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab6e675b4db931c601b3d6aef65ae0ff6">&#9670;&#160;</a></span>AuraDispelHandler()</h2>
+<a id="a0c2f048fc10f408a299a8b537ad7551d" name="a0c2f048fc10f408a299a8b537ad7551d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0c2f048fc10f408a299a8b537ad7551d">&#9670;&#160;</a></span>BeforeHitHandler()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">AuraScript::AuraDispelHandler::AuraDispelHandler </td>
+          <td class="memname">SpellScript::BeforeHitHandler::BeforeHitHandler </td>
           <td>(</td>
-          <td class="paramtype">AuraDispelFnType&#160;</td>
-          <td class="paramname"><em>pHandlerScript</em></td><td>)</td>
+          <td class="paramtype">SpellBeforeHitFnType&#160;</td>
+          <td class="paramname"><em>pBeforeHitHandlerScript</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  774</span>{</div>
-<div class="line"><span class="lineno">  775</span>    <a class="code hl_variable" href="../../d9/d63/a11455.html#ab7dd73a36aa517354a023deb7db0cf19">pHandlerScript</a> = _pHandlerScript;</div>
-<div class="line"><span class="lineno">  776</span>}</div>
-<div class="ttc" id="aa11455_html_ab7dd73a36aa517354a023deb7db0cf19"><div class="ttname"><a href="../../d9/d63/a11455.html#ab7dd73a36aa517354a023deb7db0cf19">AuraScript::AuraDispelHandler::pHandlerScript</a></div><div class="ttdeci">AuraDispelFnType pHandlerScript</div><div class="ttdef"><b>Definition:</b> SpellScript.h:553</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  208</span>{</div>
+<div class="line"><span class="lineno">  209</span>    <a class="code hl_variable" href="../../d9/d63/a11455.html#acecb7a8844155ff6eeb3f09582d7a475">_pBeforeHitHandlerScript</a> = pBeforeHitHandlerScript;</div>
+<div class="line"><span class="lineno">  210</span>}</div>
+<div class="ttc" id="aa11455_html_acecb7a8844155ff6eeb3f09582d7a475"><div class="ttname"><a href="../../d9/d63/a11455.html#acecb7a8844155ff6eeb3f09582d7a475">SpellScript::BeforeHitHandler::_pBeforeHitHandlerScript</a></div><div class="ttdeci">SpellBeforeHitFnType _pBeforeHitHandlerScript</div><div class="ttdef"><b>Definition:</b> SpellScript.h:234</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a147d8a6d95f011f27600d052ef7b4000" name="a147d8a6d95f011f27600d052ef7b4000"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a147d8a6d95f011f27600d052ef7b4000">&#9670;&#160;</a></span>Call()</h2>
+<a id="a393057cca72c41e193508bf150ed0b1f" name="a393057cca72c41e193508bf150ed0b1f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a393057cca72c41e193508bf150ed0b1f">&#9670;&#160;</a></span>Call()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AuraScript::AuraDispelHandler::Call </td>
+          <td class="memname">void SpellScript::BeforeHitHandler::Call </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d11/a11447.html">AuraScript</a> *&#160;</td>
-          <td class="paramname"><em>auraScript</em>, </td>
+          <td class="paramtype"><a class="el" href="../../df/dee/a11439.html">SpellScript</a> *&#160;</td>
+          <td class="paramname"><em>spellScript</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d1/d45/a08747.html">DispelInfo</a> *&#160;</td>
-          <td class="paramname"><em>dispelInfo</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d1/da3/a04100.html#ac42174a036914cd9ca25c52e98bef65a">SpellMissInfo</a>&#160;</td>
+          <td class="paramname"><em>missInfo</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -176,15 +176,15 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  779</span>{</div>
-<div class="line"><span class="lineno">  780</span>    (auraScript-&gt;*<a class="code hl_variable" href="../../d9/d63/a11455.html#ab7dd73a36aa517354a023deb7db0cf19">pHandlerScript</a>)(_dispelInfo);</div>
-<div class="line"><span class="lineno">  781</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  213</span>{</div>
+<div class="line"><span class="lineno">  214</span>    (spellScript-&gt;*<a class="code hl_variable" href="../../d9/d63/a11455.html#acecb7a8844155ff6eeb3f09582d7a475">_pBeforeHitHandlerScript</a>)(missInfo);</div>
+<div class="line"><span class="lineno">  215</span>}</div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="ab7dd73a36aa517354a023deb7db0cf19" name="ab7dd73a36aa517354a023deb7db0cf19"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab7dd73a36aa517354a023deb7db0cf19">&#9670;&#160;</a></span>pHandlerScript</h2>
+<a id="acecb7a8844155ff6eeb3f09582d7a475" name="acecb7a8844155ff6eeb3f09582d7a475"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acecb7a8844155ff6eeb3f09582d7a475">&#9670;&#160;</a></span>_pBeforeHitHandlerScript</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -193,7 +193,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">AuraDispelFnType AuraScript::AuraDispelHandler::pHandlerScript</td>
+          <td class="memname">SpellBeforeHitFnType SpellScript::BeforeHitHandler::_pBeforeHitHandlerScript</td>
         </tr>
       </table>
   </td>
@@ -210,8 +210,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d9/d11/a11447.html">AuraScript</a></li><li class="navelem"><a class="el" href="../../d9/d63/a11455.html">AuraDispelHandler</a></li>
-    <li class="footer">Generated on Mon Oct 6 2025 20:45:00 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/dee/a11439.html">SpellScript</a></li><li class="navelem"><a class="el" href="../../d9/d63/a11455.html">BeforeHitHandler</a></li>
+    <li class="footer">Generated on Mon Oct 13 2025 20:46:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

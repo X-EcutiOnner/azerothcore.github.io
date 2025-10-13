@@ -1,6 +1,6 @@
 var a21399 =
 [
-    [ "HandleDummyEffect", "db/d40/a21399.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
-    [ "PrepareSpellScript", "db/d40/a21399.html#a07376c95cb2ec41d86a24be59094d207", null ],
-    [ "Register", "db/d40/a21399.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
+    [ "npc_ritual_channelerAI", "d6/d2b/a21403.html", "d6/d2b/a21403" ],
+    [ "npc_ritual_channeler", "db/d40/a21399.html#adab372002549b009e3f937ec67e49f3f", null ],
+    [ "GetAI", "db/d40/a21399.html#aa416545438d701cbfc2567ba5ae536c8", null ]
 ];

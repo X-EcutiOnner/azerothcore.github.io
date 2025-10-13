@@ -1,4 +1,4 @@
 var a04349 =
 [
-    [ "Initialize", "d6/ddf/a04349.html#a9ddfbc9345acf19d3b4bcb7ce7804c94", null ]
+    [ "AuthCrypt", "db/d48/a05187.html", "db/d48/a05187" ]
 ];

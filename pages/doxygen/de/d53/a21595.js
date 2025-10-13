@@ -1,6 +1,6 @@
 var a21595 =
 [
-    [ "instance_violet_hold_InstanceMapScript", "df/d32/a21599.html", "df/d32/a21599" ],
-    [ "instance_violet_hold", "de/d53/a21595.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
-    [ "GetInstanceScript", "de/d53/a21595.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
+    [ "npc_vh_void_sentryAI", "df/d32/a21599.html", "df/d32/a21599" ],
+    [ "npc_vh_void_sentry", "de/d53/a21595.html#a6d4995d112a3fe6b59c3c3c417d98c45", null ],
+    [ "GetAI", "de/d53/a21595.html#ab3bcb8f8e9084e2ab588f80929a5d5ce", null ]
 ];

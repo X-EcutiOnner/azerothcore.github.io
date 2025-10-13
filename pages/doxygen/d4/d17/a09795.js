@@ -1,14 +1,6 @@
 var a09795 =
 [
-    [ "ServerMailMgr", "d4/d17/a09795.html#aeec2235e9dd9b36b868634d850f02a5b", null ],
-    [ "~ServerMailMgr", "d4/d17/a09795.html#adba54af38e90ecae21e79835910ba195", null ],
-    [ "ConditionTypeUsesConditionState", "d4/d17/a09795.html#a2e7a8cdc7ebdb51204823fd30a0449b3", null ],
-    [ "GetAllServerMailStore", "d4/d17/a09795.html#acb4521f696c6f11c977dc9d8b76e0c16", null ],
-    [ "GetServerMailConditionType", "d4/d17/a09795.html#a57f8aea4b5bb15ff77b9ebd8e65e8092", null ],
-    [ "instance", "d4/d17/a09795.html#abc85cb07f717384fac09f4e2b0f59af1", null ],
-    [ "LoadMailServerTemplates", "d4/d17/a09795.html#a1a01dd7a8e5c45bc7c97203e4a04a768", null ],
-    [ "LoadMailServerTemplatesConditions", "d4/d17/a09795.html#a6bb75bdb34a25dd01fdc7e81b4e9b897", null ],
-    [ "LoadMailServerTemplatesItems", "d4/d17/a09795.html#a49aea924f27804d21fbe06e72e159df3", null ],
-    [ "SendServerMail", "d4/d17/a09795.html#af615430a40e9ddfff49bc338b31d6c1b", null ],
-    [ "_serverMailStore", "d4/d17/a09795.html#a96ae3a78694ca97d112c5d92884f2415", null ]
+    [ "ServerMailItems", "d4/d17/a09795.html#a95cb2278da300c6b0385241f5a3950c1", null ],
+    [ "item", "d4/d17/a09795.html#ae03738595a87a47e831bcbeea6f97d34", null ],
+    [ "itemCount", "d4/d17/a09795.html#a4475d65dd5721d4af323ae93d15f4170", null ]
 ];

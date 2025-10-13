@@ -1,6 +1,6 @@
 var a20983 =
 [
-    [ "OnRemove", "d5/d97/a20983.html#a492bd9e9c82937e00897e19362b40901", null ],
-    [ "PrepareAuraScript", "d5/d97/a20983.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
-    [ "Register", "d5/d97/a20983.html#adfcaf82ff48225ea0e0314d421795644", null ]
+    [ "HandleScript", "d5/d97/a20983.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
+    [ "PrepareSpellScript", "d5/d97/a20983.html#a4fd05478a145157dbd8377532033ab95", null ],
+    [ "Register", "d5/d97/a20983.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
 ];

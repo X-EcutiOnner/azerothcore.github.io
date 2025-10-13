@@ -1,7 +1,6 @@
 var a16711 =
 [
-    [ "HandleDispel", "d2/df6/a16711.html#a7b24f38bbb7813826520f928b22d30aa", null ],
-    [ "PrepareAuraScript", "d2/df6/a16711.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
-    [ "Register", "d2/df6/a16711.html#a2bf6921550da3c13730fd98bded2c927", null ],
-    [ "Validate", "d2/df6/a16711.html#ad8b0bb389d232c74acf106b711414fa1", null ]
+    [ "npc_toc_pet_hunterAI", "dd/db1/a16715.html", "dd/db1/a16715" ],
+    [ "npc_toc_pet_hunter", "d2/df6/a16711.html#a1aa59cca8cd71e9f17fb9f55cf03c1da", null ],
+    [ "GetAI", "d2/df6/a16711.html#a9febc3086b0627324277f45d49cdd03f", null ]
 ];

@@ -1,6 +1,6 @@
 var a27879 =
 [
-    [ "npc_spring_rabbitAI", "d6/d5e/a27883.html", "d6/d5e/a27883" ],
-    [ "npc_spring_rabbit", "d0/dc4/a27879.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
-    [ "GetAI", "d0/dc4/a27879.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
+    [ "npc_steam_tonkAI", "d6/d5e/a27883.html", "d6/d5e/a27883" ],
+    [ "npc_steam_tonk", "d0/dc4/a27879.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
+    [ "GetAI", "d0/dc4/a27879.html#a38e51485a3610a204a45677fce15c943", null ]
 ];

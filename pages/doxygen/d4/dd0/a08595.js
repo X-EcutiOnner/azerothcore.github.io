@@ -1,10 +1,5 @@
 var a08595 =
 [
-    [ "PvPInfo", "d4/dd0/a08595.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
-    [ "EndTimer", "d4/dd0/a08595.html#ae06b5030552c02f30fe8386633a753df", null ],
-    [ "FFAPvPEndTimer", "d4/dd0/a08595.html#a739dfc63dfe39429a44ea682d9120522", null ],
-    [ "IsHostile", "d4/dd0/a08595.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
-    [ "IsInFFAPvPArea", "d4/dd0/a08595.html#a8a654926248b3974587af1eb9c064d15", null ],
-    [ "IsInHostileArea", "d4/dd0/a08595.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
-    [ "IsInNoPvPArea", "d4/dd0/a08595.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
+    [ "Rank", "d4/dd0/a08595.html#a61797c7cb799308a7c20a954d287be17", null ],
+    [ "SkillId", "d4/dd0/a08595.html#a3f28221b1c8e91bf9f2fa6337e81c952", null ]
 ];

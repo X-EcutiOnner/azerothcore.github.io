@@ -1,6 +1,6 @@
 var a20427 =
 [
-    [ "npc_ulduar_hodir_shamanAI", "d5/d06/a20431.html", "d5/d06/a20431" ],
-    [ "npc_ulduar_hodir_shaman", "d5/d0e/a20427.html#ae73a416c72441ab531d8a5db88183d47", null ],
-    [ "GetAI", "d5/d0e/a20427.html#ab06a67b72a3954c65792a478ac90672c", null ]
+    [ "npc_ulduar_hodir_druidAI", "d5/d06/a20431.html", "d5/d06/a20431" ],
+    [ "npc_ulduar_hodir_druid", "d5/d0e/a20427.html#a07809d61d55756a847467043b0e90989", null ],
+    [ "GetAI", "d5/d0e/a20427.html#a4b0503e20bf8caddf0ea544a88124263", null ]
 ];

@@ -1,5 +1,5 @@
 var a27311 =
 [
-    [ "AreaTrigger_at_legion_teleporter", "dd/df3/a27311.html#a2b648bd038f41025c19338367c696d25", null ],
-    [ "OnTrigger", "dd/df3/a27311.html#ae8239e5ad56d93627102dbd02989353d", null ]
+    [ "achievement_bg_av_perfection", "dd/df3/a27311.html#a8a0ef996bdb1244026268922b301184c", null ],
+    [ "OnCheck", "dd/df3/a27311.html#a17e700c17b5144b571f2aeed92a77749", null ]
 ];

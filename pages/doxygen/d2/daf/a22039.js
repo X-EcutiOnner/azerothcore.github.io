@@ -1,6 +1,6 @@
 var a22039 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "db/d18/a22043.html", "db/d18/a22043" ],
-    [ "npc_q24545_wretched_ghoul", "d2/daf/a22039.html#a3842b5bd89c911d29d561307113fb032", null ],
-    [ "GetAI", "d2/daf/a22039.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
+    [ "SACActivateEvent", "d2/daf/a22039.html#a7e5ba22c5500337f14ae067e2b404c5a", null ],
+    [ "Execute", "d2/daf/a22039.html#ad3e4092941e8cd8953fdc251e97c458a", null ],
+    [ "_owner", "d2/daf/a22039.html#ae930bd1f603ea296c5ccabd6fbd299f8", null ]
 ];

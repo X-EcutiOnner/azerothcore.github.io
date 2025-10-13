@@ -1,10 +1,7 @@
 var a03941 =
 [
-    [ "AddPetScripts", "d8/d7b/a03941.html#aaeb6a149e6495db19023f37a4f8bd882", null ],
-    [ "AddSC_deathknight_pet_scripts", "d8/d7b/a03941.html#ac6a5b089240cd6b996928b3e7f9137b3", null ],
-    [ "AddSC_generic_pet_scripts", "d8/d7b/a03941.html#a9852812a043673e45884dca938eff157", null ],
-    [ "AddSC_hunter_pet_scripts", "d8/d7b/a03941.html#ab89117a79c55f003f82b06a1878e6534", null ],
-    [ "AddSC_mage_pet_scripts", "d8/d7b/a03941.html#a689a4efb7777f4164aee994745a0e2d2", null ],
-    [ "AddSC_priest_pet_scripts", "d8/d7b/a03941.html#ac0eaa77dc1cb9a092b318e3bc3f6d5b8", null ],
-    [ "AddSC_shaman_pet_scripts", "d8/d7b/a03941.html#ab07e634ed761985e07d5c0e10f329231", null ]
+    [ "go_transport_the_iron_eagle", "de/dec/a28031.html", "de/dec/a28031" ],
+    [ "go_transport_the_thundercaller", "d1/d9a/a28035.html", "d1/d9a/a28035" ],
+    [ "go_transport_the_purple_princess", "d8/dd9/a28039.html", "d8/dd9/a28039" ],
+    [ "AddSC_transport_zeppelins", "d8/d7b/a03941.html#a29051596b0a3382db98c6b72f7ff3173", null ]
 ];

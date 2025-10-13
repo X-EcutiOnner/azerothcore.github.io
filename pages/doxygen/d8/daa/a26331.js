@@ -1,9 +1,7 @@
 var a26331 =
 [
-    [ "Load", "d8/daa/a26331.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
-    [ "PrepareSpellScript", "d8/daa/a26331.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
-    [ "Register", "d8/daa/a26331.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
-    [ "TriggerHeal", "d8/daa/a26331.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
-    [ "Validate", "d8/daa/a26331.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
-    [ "healPct", "d8/daa/a26331.html#a33b4d26c34903e45b7274e369f096ce1", null ]
+    [ "CheckProc", "d8/daa/a26331.html#a2052750b91de67b330a2ae6a190a5d4e", null ],
+    [ "HandleProc", "d8/daa/a26331.html#a5b404a07ccb13cabf5fa6ab90db92129", null ],
+    [ "PrepareAuraScript", "d8/daa/a26331.html#af16eec48ab0f469ca3cefd149bb0d925", null ],
+    [ "Register", "d8/daa/a26331.html#a4f31c76184e4ae5bc03763e04cdac72e", null ]
 ];

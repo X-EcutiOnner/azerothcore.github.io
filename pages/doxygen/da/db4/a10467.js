@@ -1,18 +1,17 @@
 var a10467 =
 [
-    [ "EnabledHooksVector", "da/db4/a10467.html#ac9d98df16d3857ca556acda331064063", null ],
-    [ "EnabledHooksVectorIterator", "da/db4/a10467.html#a575c2a2974f9e002a8a3bb1b858a2912", null ],
-    [ "ScriptMap", "da/db4/a10467.html#a0f8009ac0cd91574f0bf4ac92ef90ce0", null ],
-    [ "ScriptMapIterator", "da/db4/a10467.html#ad1fcde41ec854314c5e1cc50b916ac5d", null ],
-    [ "ScriptVector", "da/db4/a10467.html#abf04ad36ed630be4499f0be2d53016a9", null ],
-    [ "ScriptVectorIterator", "da/db4/a10467.html#ac0554c5200368592f5d0bfb1025935fe", null ],
-    [ "_checkMemory", "da/db4/a10467.html#a8d784f25a47c9ca4be72fca0215bf1c8", null ],
-    [ "AddALScripts", "da/db4/a10467.html#aa86b74a2560deae81f5c2a38cf1f72c8", null ],
-    [ "AddScript", "da/db4/a10467.html#a4a25c0e3b90f6af4563baf0e7a1c0622", null ],
-    [ "GetScriptById", "da/db4/a10467.html#a22226c545e7975d4c612e7adcc766d05", null ],
-    [ "InitEnabledHooksIfNeeded", "da/db4/a10467.html#a44238d9b122f50192b989b1efe2107bd", null ],
-    [ "_scriptIdCounter", "da/db4/a10467.html#aa66e44e9291be980d12f4167f699c680", null ],
-    [ "ALScripts", "da/db4/a10467.html#ac67b828a489c483ceaaa745b2dd7ef57", null ],
-    [ "EnabledHooks", "da/db4/a10467.html#a4274e01ddb2659f125970b97014da00e", null ],
-    [ "ScriptPointerList", "da/db4/a10467.html#a57e93b2fa2db2a29fa4c12714e217d43", null ]
+    [ "WorldScript", "da/db4/a10467.html#a89b4180130e22738c2898562de6b9145", null ],
+    [ "OnAfterConfigLoad", "da/db4/a10467.html#affadabcae325631b2683ef458c6d13ee", null ],
+    [ "OnAfterUnloadAllMaps", "da/db4/a10467.html#a15bc203d07dd2fef96c2a6d13d3ddd44", null ],
+    [ "OnBeforeConfigLoad", "da/db4/a10467.html#a78baa1285b6495d7beace131dfba8400", null ],
+    [ "OnBeforeFinalizePlayerWorldSession", "da/db4/a10467.html#a480e411f6178e5128bc5e760d9f36d99", null ],
+    [ "OnBeforeWorldInitialized", "da/db4/a10467.html#a8ec0a2cc97986db07698392e5c503571", null ],
+    [ "OnLoadCustomDatabaseTable", "da/db4/a10467.html#af9c5296102d7ef0f716796788650ec4d", null ],
+    [ "OnMotdChange", "da/db4/a10467.html#a3a72e488dd36a672d7aaa0b59fffe154", null ],
+    [ "OnOpenStateChange", "da/db4/a10467.html#a7eab4282e8be8ef2a643478f9fe6e0e2", null ],
+    [ "OnShutdown", "da/db4/a10467.html#a3578707d9be5da90530633a93b4b2bf8", null ],
+    [ "OnShutdownCancel", "da/db4/a10467.html#a322bd84359ac77369d9aa84bc8bf9649", null ],
+    [ "OnShutdownInitiate", "da/db4/a10467.html#a83c76efd3de10b0a35c4a311c44d13c1", null ],
+    [ "OnStartup", "da/db4/a10467.html#a117234aac087ec653c83cfe01a6dce7a", null ],
+    [ "OnUpdate", "da/db4/a10467.html#ad28857965a9f6f993a47c95af6d9c5ad", null ]
 ];

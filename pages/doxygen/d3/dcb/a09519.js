@@ -1,8 +1,7 @@
 var a09519 =
 [
-    [ "AllWorldObjectsInExactRange", "d3/dcb/a09519.html#a0281d22587b9b1bdbfbdd8dccc625186", null ],
-    [ "operator()", "d3/dcb/a09519.html#afe0bea69ddd5e275363361bf37284840", null ],
-    [ "_equals", "d3/dcb/a09519.html#aebb4cb9e84cf91cca235fe663dba8d60", null ],
-    [ "_object", "d3/dcb/a09519.html#a5fba0e3c7cde76bfe56f8e9e9716412b", null ],
-    [ "_range", "d3/dcb/a09519.html#ae40de8ce49bb429243e5059b6d14398f", null ]
+    [ "ObjectGUIDCheck", "d3/dcb/a09519.html#a4932b3610ddc148ee5a30a6ce91c6f27", null ],
+    [ "operator()", "d3/dcb/a09519.html#a0f3f6e89a9e621a208cd6795722ae4ef", null ],
+    [ "_equals", "d3/dcb/a09519.html#a413d991eeee0294a54f3c803e296c3ac", null ],
+    [ "_GUID", "d3/dcb/a09519.html#a0e97bfe0e160177549a831df8e9b4555", null ]
 ];

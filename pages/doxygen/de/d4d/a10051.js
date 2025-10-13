@@ -1,28 +1,6 @@
 var a10051 =
 [
-    [ "RandomMovementGenerator", "de/d4d/a10051.html#a6235a7dac94600832323438b7d279818", null ],
-    [ "~RandomMovementGenerator", "de/d4d/a10051.html#a18b8596043e93675adf92fe3e1cff71d", null ],
-    [ "_setRandomLocation", "de/d4d/a10051.html#aa09f453a7853bdf6bb143414aa86e274", null ],
-    [ "_setRandomLocation", "de/d4d/a10051.html#af06aa5a3173151c6a8d42f30dd61b497", null ],
-    [ "DoFinalize", "de/d4d/a10051.html#ad760dedb9ed2d1787eb8be26750b8afc", null ],
-    [ "DoFinalize", "de/d4d/a10051.html#ae53e616aeb31ebc90c17a12b1954527d", null ],
-    [ "DoInitialize", "de/d4d/a10051.html#a7326bebe29867a808d5fc70255e9e509", null ],
-    [ "DoInitialize", "de/d4d/a10051.html#a4a9db865f66e1204e887c28dae301777", null ],
-    [ "DoReset", "de/d4d/a10051.html#a92d7354c8ed7f212dadb9592de0939e8", null ],
-    [ "DoReset", "de/d4d/a10051.html#a786c54868314d4068600328cbf6f3acc", null ],
-    [ "DoUpdate", "de/d4d/a10051.html#a7cec9cbbaf329cb1f212701fcd59d8d0", null ],
-    [ "DoUpdate", "de/d4d/a10051.html#aae1ad7a92bb3471d4651588baba81b0a", null ],
-    [ "GetMovementGeneratorType", "de/d4d/a10051.html#a10626f514ae30260131303cf2ecbb36d", null ],
-    [ "GetResetPosition", "de/d4d/a10051.html#a20b49e85e5d6d29ed351a645ac3b71c7", null ],
-    [ "GetResetPosition", "de/d4d/a10051.html#a973ee4bdf2e90f7de2b99ae1df9f6028", null ],
-    [ "_currDestPosition", "de/d4d/a10051.html#a4a68bad00340f11dc3b85d5bde1d5e39", null ],
-    [ "_currentPoint", "de/d4d/a10051.html#ac7ebbd23fd3dd18ebca3a0698ca65cb8", null ],
-    [ "_destinationPoints", "de/d4d/a10051.html#a10a0a69bc08109087de88171900f3f84", null ],
-    [ "_initialPosition", "de/d4d/a10051.html#a6dcd285f42169206ac6a52304e293c97", null ],
-    [ "_moveCount", "de/d4d/a10051.html#a3835858ec9154f759a2cf5ea3863d3c8", null ],
-    [ "_nextMoveTime", "de/d4d/a10051.html#af055ec2b1a95f0338ccbbaabd0e82483", null ],
-    [ "_pathGenerator", "de/d4d/a10051.html#a8ef4e05168bf1b089e808fb96b927b2a", null ],
-    [ "_preComputedPaths", "de/d4d/a10051.html#a1934d0e4248932f4afdb2dc228c29910", null ],
-    [ "_validPointsVector", "de/d4d/a10051.html#a52c59b1a5dee6e0c9d67ed48ba63ce90", null ],
-    [ "_wanderDistance", "de/d4d/a10051.html#ad5880ec25953f9f6495b503d92621021", null ]
+    [ "AssistanceMovementGenerator", "de/d4d/a10051.html#a649b7d2833aaf895a5f6f290131c88f5", null ],
+    [ "Finalize", "de/d4d/a10051.html#a6fc296a5283726cca409d7df1137743d", null ],
+    [ "GetMovementGeneratorType", "de/d4d/a10051.html#a1d4b6fe8693fdd21c364b53075c27439", null ]
 ];

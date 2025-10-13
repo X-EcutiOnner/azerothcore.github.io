@@ -1,10 +1,11 @@
 var a24383 =
 [
-    [ "npc_infernal_attackerAI", "dd/d9b/a24383.html#ae04c4e026f22bd650bb33940b923df9a", null ],
-    [ "IsSummonedBy", "dd/d9b/a24383.html#a926e6cd6772784872a905de7245007ac", null ],
-    [ "JustDied", "dd/d9b/a24383.html#a1822131520f98dd5f1dd637282f20ae3", null ],
-    [ "Reset", "dd/d9b/a24383.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
-    [ "SpellHit", "dd/d9b/a24383.html#a956f3fb1e341519817599df08afc2589", null ],
-    [ "UpdateAI", "dd/d9b/a24383.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
-    [ "casterGUID", "dd/d9b/a24383.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
+    [ "npc_invis_infernal_casterAI", "dd/d9b/a24383.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
+    [ "Reset", "dd/d9b/a24383.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
+    [ "SetData", "dd/d9b/a24383.html#aee88dc141757384f96da969fcdc20671", null ],
+    [ "SummonInfernal", "dd/d9b/a24383.html#a78d53d09e5544b3fe8301da4415d297b", null ],
+    [ "UpdateAI", "dd/d9b/a24383.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
+    [ "events", "dd/d9b/a24383.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
+    [ "ground", "dd/d9b/a24383.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
+    [ "infernalGUID", "dd/d9b/a24383.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
 ];

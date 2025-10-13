@@ -1,14 +1,10 @@
 var a17507 =
 [
-    [ "npc_ball_of_flameAI", "d5/dc2/a17507.html#a90314990bc6404bf2a4005bb94213926", null ],
-    [ "AttackStart", "d5/dc2/a17507.html#a34d51c96005f620c0010948acb6c89ec", null ],
-    [ "DamageDealt", "d5/dc2/a17507.html#ac2d36bc12bb86c329721a2af224d037f", null ],
-    [ "DoAction", "d5/dc2/a17507.html#ac589db56562987de5bbed27a2bead49f", null ],
-    [ "MoveInLineOfSight", "d5/dc2/a17507.html#a7bb96de89b9dc6b6f97443e9aec3ad61", null ],
-    [ "MovementInform", "d5/dc2/a17507.html#ab18870c29224fc3fa5e7b76c1aa981f4", null ],
-    [ "SetGUID", "d5/dc2/a17507.html#a809a33d832264eba92bf0847222bd23a", null ],
-    [ "_chaseGUID", "d5/dc2/a17507.html#a30dc40f8922f8f34d6ad7ec3053413e4", null ],
-    [ "_exploded", "d5/dc2/a17507.html#a724de41f7b14755d704d5de335da380b", null ],
-    [ "_instance", "d5/dc2/a17507.html#af5d8717572176409eca01ae214910c7f", null ],
-    [ "_started", "d5/dc2/a17507.html#a508a5e3f0acafa98956bba6eb41f28fb", null ]
+    [ "npc_dark_nucleusAI", "d5/dc2/a17507.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
+    [ "AttackStart", "d5/dc2/a17507.html#a3dec28dd13257b944df0c559d26a76e0", null ],
+    [ "DamageTaken", "d5/dc2/a17507.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
+    [ "JustDied", "d5/dc2/a17507.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
+    [ "Reset", "d5/dc2/a17507.html#ac84f79f84e721ab1306c8eed8658b143", null ],
+    [ "UpdateAI", "d5/dc2/a17507.html#a3a08457c34d4dd904a99a78875d6318c", null ],
+    [ "timer", "d5/dc2/a17507.html#ac5f9824276987b81aef5cfee05158049", null ]
 ];

@@ -1,6 +1,14 @@
 var a22655 =
 [
-    [ "npc_overlord_drakuru_betrayalAI", "d1/d32/a22659.html", "d1/d32/a22659" ],
-    [ "npc_overlord_drakuru_betrayal", "da/d5c/a22655.html#af4092356ea86c25d91c73af1310c2eb0", null ],
-    [ "GetAI", "da/d5c/a22655.html#a3bd893f08212dc94a321beb7a95eea08", null ]
+    [ "npc_finklesteinAI", "da/d5c/a22655.html#a075481689af110f8c20cd5ca13258ba3", null ],
+    [ "ClearPlayerOnTask", "da/d5c/a22655.html#ad6ec9c020ba2f8eae9250a89fbe9490d", null ],
+    [ "GetTaskAura", "da/d5c/a22655.html#ae3a1b7fbdd9aba64e8f853f53d9c261c", null ],
+    [ "GetTaskCounter", "da/d5c/a22655.html#a240e8f556176b9571bd08407276402be", null ],
+    [ "GetTaskItemEntry", "da/d5c/a22655.html#a08a3005db6d192663a835b9ee192352b", null ],
+    [ "GetTaskItemName", "da/d5c/a22655.html#adce990629aa1833dc07c7dbb1297cead", null ],
+    [ "IsPlayerOnTask", "da/d5c/a22655.html#ad815f0d79ab73d95e9fbf3a659aea2ce", null ],
+    [ "RightClickCauldron", "da/d5c/a22655.html#a71fea2fdf5079fbc1d8baa72e7e4ae82", null ],
+    [ "SelectRandomCode", "da/d5c/a22655.html#a16c9ddf6f2f858f4147a0188e0df7250", null ],
+    [ "StartNextTask", "da/d5c/a22655.html#a89c5c3a90fad1719bc4d2e2cb611e8c7", null ],
+    [ "questList", "da/d5c/a22655.html#a5c3a3237579721b94dd433841b83bb02", null ]
 ];

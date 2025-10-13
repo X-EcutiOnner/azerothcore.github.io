@@ -1,6 +1,14 @@
 var a12407 =
 [
-    [ "boss_firemawAI", "d5/ddf/a12407.html#ab3f56c97119676b1a75662e52caecb75", null ],
-    [ "JustEngagedWith", "d5/ddf/a12407.html#a04cb1d2fa18dba82b9c881b09406a076", null ],
-    [ "UpdateAI", "d5/ddf/a12407.html#a6e35e47b23d713263ef00769324bbbed", null ]
+    [ "boss_chromaggusAI", "d5/ddf/a12407.html#a06f811fb8aa0c15e07e8a771ac722056", null ],
+    [ "CanAIAttack", "d5/ddf/a12407.html#a4643974601831ced1f6173965009ad20", null ],
+    [ "Initialize", "d5/ddf/a12407.html#a0697edb4aa9fb60a0db2ccf54c32dc19", null ],
+    [ "JustEngagedWith", "d5/ddf/a12407.html#a66b6f31ebcfdb2fe9adba85311e655bb", null ],
+    [ "PathEndReached", "d5/ddf/a12407.html#a2805052cd90212ecb9b5f313f4ecc384", null ],
+    [ "Reset", "d5/ddf/a12407.html#aaa72a25326e9c4e1936020a1e6e7b87a", null ],
+    [ "SetGUID", "d5/ddf/a12407.html#ac2f3f6efccc3d48ddd2a7f9175439123", null ],
+    [ "UpdateAI", "d5/ddf/a12407.html#a4a120f99c6586fd06af6699bfe913d24", null ],
+    [ "_breathSpells", "d5/ddf/a12407.html#a10e18592d163d4be586701de47da48c9", null ],
+    [ "_playerGUID", "d5/ddf/a12407.html#a03a7fc87c67b04eb0b1289276023c1b4", null ],
+    [ "Enraged", "d5/ddf/a12407.html#acc8b5cfbae8debb22a0493400ec310c4", null ]
 ];

@@ -1,15 +1,11 @@
 var a27391 =
 [
-    [ "boss_taerarAI", "db/d25/a27391.html#a69171fba79d49d12a2e96fb5c2baa0aa", null ],
-    [ "DamageTaken", "db/d25/a27391.html#a08babc3ca2cd76891b9c0e196e461c79", null ],
-    [ "ExecuteEvent", "db/d25/a27391.html#a89750136787d549ac4c744a0e3b9239c", null ],
-    [ "JustDied", "db/d25/a27391.html#add2712022edbd88504de2dd147a098a0", null ],
-    [ "JustEngagedWith", "db/d25/a27391.html#adf280483e6fd7f01d14472973c021a91", null ],
-    [ "Reset", "db/d25/a27391.html#a74a53b7c4672bcba1cc4f69407c23c42", null ],
-    [ "SummonedCreatureDies", "db/d25/a27391.html#a35557d97df6d83c9fafead3f59e1af2e", null ],
-    [ "UpdateAI", "db/d25/a27391.html#a406213e6b3a1397c0026d5dc857f08a9", null ],
-    [ "_banished", "db/d25/a27391.html#a8ee658a07f28df0c5f46cedac25f68ab", null ],
-    [ "_banishedTimer", "db/d25/a27391.html#a6b7bd08d3e4362201ee904019f9e6b51", null ],
-    [ "_shades", "db/d25/a27391.html#a6e77285330fcd09fd13ef0d029e2a554", null ],
-    [ "_stage", "db/d25/a27391.html#a2d49f2ce95d16cfc1b9525256f0a6bc2", null ]
+    [ "npc_dream_fogAI", "db/d25/a27391.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
+    [ "GetRandomUnitFromDragonThreatList", "db/d25/a27391.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
+    [ "Reset", "db/d25/a27391.html#a595eeeae54d4bf323287fc408f706ac6", null ],
+    [ "ScheduleEvents", "db/d25/a27391.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
+    [ "SetGUID", "db/d25/a27391.html#a3666423921a5405ea220ba098f3f91fe", null ],
+    [ "UpdateAI", "db/d25/a27391.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
+    [ "_dragonGUID", "db/d25/a27391.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
+    [ "_targetGUID", "db/d25/a27391.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
 ];

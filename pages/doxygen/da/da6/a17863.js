@@ -1,6 +1,6 @@
 var a17863 =
 [
-    [ "IgbTeleportOnVictoryCheck", "da/da6/a17863.html#a29ee8cac93b9920e598da9205406e608", null ],
-    [ "operator()", "da/da6/a17863.html#acf85943e238179e911434358f1593be2", null ],
-    [ "_inst", "da/da6/a17863.html#a015353ecb66da16c697152b7ad3c527e", null ]
+    [ "IgbExplosionCheck", "da/da6/a17863.html#ae67cca111f26a275614810cbe053bcd8", null ],
+    [ "operator()", "da/da6/a17863.html#a28ce6685366e99db2aa1e4022012f943", null ],
+    [ "_source", "da/da6/a17863.html#a413ee8f2218621d274d118aea967dc9b", null ]
 ];

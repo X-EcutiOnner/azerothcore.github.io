@@ -1,5 +1,8 @@
 var a14167 =
 [
-    [ "at_zulgurub_entrance_speech", "d6/d93/a14167.html#afef11c6a7e97befd07072826fa13be55", null ],
-    [ "_OnTrigger", "d6/d93/a14167.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
+    [ "FilterTargets", "d6/d93/a14167.html#a3405b21202d423c649e0b8d341b42d9c", null ],
+    [ "HandleWipeThreat", "d6/d93/a14167.html#a2bbcce83bffebc509e9ec54778e82639", null ],
+    [ "PrepareSpellScript", "d6/d93/a14167.html#a59948484b528cab69c695f08b39b886d", null ],
+    [ "Register", "d6/d93/a14167.html#ac4106a251bd3120e122955edbcdc8e2a", null ],
+    [ "_wipeThreat", "d6/d93/a14167.html#ab5293e50bd670c0d350f190f1c9892b3", null ]
 ];

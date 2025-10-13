@@ -1,6 +1,9 @@
 var a19687 =
 [
-    [ "boss_bjarngrimAI", "df/d15/a19691.html", "df/d15/a19691" ],
-    [ "boss_bjarngrim", "d0/d46/a19687.html#ab509688547d41ec1fd094fdc45291959", null ],
-    [ "GetAI", "d0/d46/a19687.html#aff6455d2a327bbf3426d10a07f7b0e44", null ]
+    [ "HandleOnEffectApply", "d0/d46/a19687.html#a6ab047004cc901331d747641f218cf6a", null ],
+    [ "HandleOnEffectRemove", "d0/d46/a19687.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
+    [ "PrepareAuraScript", "d0/d46/a19687.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
+    [ "Register", "d0/d46/a19687.html#a83b0d414a6e97b434f82492fa01ac385", null ],
+    [ "Validate", "d0/d46/a19687.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
+    [ "_drakeGUID", "d0/d46/a19687.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
 ];

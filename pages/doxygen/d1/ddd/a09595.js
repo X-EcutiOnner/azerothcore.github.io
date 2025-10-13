@@ -1,15 +1,12 @@
 var a09595 =
 [
-    [ "LogHolder", "d1/ddd/a09595.html#a3432ee2f32857bd02e75fdb5ba922bd1", null ],
-    [ "AddEvent", "d1/ddd/a09595.html#a5f6d81d9048290815053bb4aa3531d73", null ],
-    [ "CanInsert", "d1/ddd/a09595.html#aefdb4e57b5bf35b00564491547e6e2a9", null ],
-    [ "GetGuildId", "d1/ddd/a09595.html#ada98449548b389a1cd8177087e3aa5e8", null ],
-    [ "GetGuildLog", "d1/ddd/a09595.html#a17593c12663e8c4251f94636e511c73a", null ],
-    [ "GetGuildLog", "d1/ddd/a09595.html#ae43929001324d6bece4e45bc95115535", null ],
-    [ "GetNextGUID", "d1/ddd/a09595.html#aed00250b6a1036a91dd971af510f7750", null ],
-    [ "LoadEvent", "d1/ddd/a09595.html#a22e87750252d1c4f62f2e5686a2e008d", null ],
-    [ "m_guildId", "d1/ddd/a09595.html#a3827f9fb3fc13300f60d9f7dd27154c7", null ],
-    [ "m_log", "d1/ddd/a09595.html#aca25adbc1c1e9397c837a53793568b64", null ],
-    [ "m_maxRecords", "d1/ddd/a09595.html#a755788eaede72a131f74ae7de88c37b4", null ],
-    [ "m_nextGUID", "d1/ddd/a09595.html#a267cecce9b2f244235800c93a086e8e2", null ]
+    [ "EventLogEntry", "d1/ddd/a09595.html#a31726d40f7b89077b45ffbaca8396a9d", null ],
+    [ "EventLogEntry", "d1/ddd/a09595.html#a96a2e3a6d565db452e7d0f1a152f63c7", null ],
+    [ "~EventLogEntry", "d1/ddd/a09595.html#a8d6bf0a5a53fdc8e99ad53293d96af7c", null ],
+    [ "SaveToDB", "d1/ddd/a09595.html#a2ca71e291a44f95bb42d51083aa84985", null ],
+    [ "WritePacket", "d1/ddd/a09595.html#adffe90bd0265dea0ca2fd6bc83f3056e", null ],
+    [ "m_eventType", "d1/ddd/a09595.html#a00216643e6856591402c21df490c1fec", null ],
+    [ "m_newRank", "d1/ddd/a09595.html#ab733c92f478dc36e3b5ffc61799a6ce7", null ],
+    [ "m_playerGuid1", "d1/ddd/a09595.html#a06a2b45d16860c711829f49f97624272", null ],
+    [ "m_playerGuid2", "d1/ddd/a09595.html#a1f66e71f9536e484663e437bbcbcefca", null ]
 ];

@@ -1,6 +1,6 @@
 var a22683 =
 [
-    [ "npc_released_offspring_harkoaAI", "df/d3b/a22683.html#ab1002f002987b6ea2366129afd48d65c", null ],
-    [ "MovementInform", "df/d3b/a22683.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
-    [ "Reset", "df/d3b/a22683.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
+    [ "npc_captured_rageclawAI", "df/d3b/a22683.html#a5bb483a323330b0895f87c5381d73314", null ],
+    [ "Reset", "df/d3b/a22683.html#a9cde0a0e5015334ec8dcd277fcd99dc3", null ],
+    [ "SpellHit", "df/d3b/a22683.html#a2c63911d27435a2271a7c89d9d88318c", null ]
 ];

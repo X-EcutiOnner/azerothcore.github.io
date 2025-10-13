@@ -1,15 +1,10 @@
 var a13835 =
 [
-    [ "npc_deathstalker_fearleia", "df/d01/a13835.html#a92c6d31e801164dc0c4ddc8c47f134b6", null ],
-    [ "JustDied", "df/d01/a13835.html#a378f59a926e1be299b6e5ddf0cc83d30", null ],
-    [ "JustEngagedWith", "df/d01/a13835.html#a248f13c2fff27a9ec8075d5b1429fec8", null ],
-    [ "JustSummoned", "df/d01/a13835.html#a8ef363de7292d366eea128b55b1acaeb", null ],
-    [ "Reset", "df/d01/a13835.html#a5f7f40e2d702fae5242cfc347d44a1fe", null ],
-    [ "sQuestAccept", "df/d01/a13835.html#a5da116182685dfac72139b40266f2884", null ],
-    [ "SummonCreatureWithRandomTarget", "df/d01/a13835.html#a884be2e1aa730c310de24cb865fc7aa5", null ],
-    [ "SummonedCreatureDespawn", "df/d01/a13835.html#a36415976d5ae2034578581bdec183f33", null ],
-    [ "UpdateAI", "df/d01/a13835.html#a45f4823e2a131fda3c4e03de13ec0c5e", null ],
-    [ "_playerGUID", "df/d01/a13835.html#a7135b977e1d7ef47c62f4dace25908fd", null ],
-    [ "_questInProgress", "df/d01/a13835.html#a899a4a0c3c70236be66ee2028f3423c7", null ],
-    [ "_summons", "df/d01/a13835.html#a79dc171af9ef5057039f9a6b87c49bd1", null ]
+    [ "npc_grand_magister_rommathAI", "df/d01/a13835.html#a5e9404dd8bf4b513e05daac53c076314", null ],
+    [ "DoAction", "df/d01/a13835.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
+    [ "MoveInLineOfSight", "df/d01/a13835.html#ad35b64b37915484b133bcd185a832011", null ],
+    [ "UpdateAI", "df/d01/a13835.html#ac687bd20f0ae66b21ce52c21561af417", null ],
+    [ "announced", "df/d01/a13835.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
+    [ "events", "df/d01/a13835.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
+    [ "playerGUID", "df/d01/a13835.html#ad0ac0647feb998e837a44b0a688694e9", null ]
 ];

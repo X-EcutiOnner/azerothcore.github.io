@@ -1,8 +1,18 @@
 var a27847 =
 [
-    [ "npc_wormholeAI", "d2/d02/a27851.html", "d2/d02/a27851" ],
-    [ "npc_wormhole", "de/d31/a27847.html#aeace4cbf665409786b86140709191cb0", null ],
-    [ "GetAI", "de/d31/a27847.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
-    [ "OnGossipHello", "de/d31/a27847.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
-    [ "OnGossipSelect", "de/d31/a27847.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
+    [ "npc_doctorAI", "de/d31/a27847.html#a8efc303041393347eaaf38aff05f7b9c", null ],
+    [ "BeginEvent", "de/d31/a27847.html#a1439b4eb147700ca493dc5eaa1e2d5a4", null ],
+    [ "JustEngagedWith", "de/d31/a27847.html#aca786ccf8cf99d7ba49a08046147f121", null ],
+    [ "PatientDied", "de/d31/a27847.html#ad3e2a36e774d2dbd2a6779d8fb19ea88", null ],
+    [ "PatientSaved", "de/d31/a27847.html#af8a61f187f6bd57b98d8bf4c8c45e494", null ],
+    [ "Reset", "de/d31/a27847.html#af2d84b163d41b1b32e191200f54085c2", null ],
+    [ "UpdateAI", "de/d31/a27847.html#abe156e2303a9c743fa66b4f82808c707", null ],
+    [ "Coordinates", "de/d31/a27847.html#acda1ada9d7868bfd93ceaaa39f82731b", null ],
+    [ "Event", "de/d31/a27847.html#ad558d5c0a5fe07904445e893c09be980", null ],
+    [ "PatientDiedCount", "de/d31/a27847.html#a0774874d9d75feb8d8bf6ce201e719d9", null ],
+    [ "Patients", "de/d31/a27847.html#a75cd1e01322c09204ffe54cd92ad9543", null ],
+    [ "PatientSavedCount", "de/d31/a27847.html#abeda2ee514c6ed1544a7e27955fc86b8", null ],
+    [ "PlayerGUID", "de/d31/a27847.html#a97e2b2bd8a750817f23c51d36c49ae1c", null ],
+    [ "SummonPatientCount", "de/d31/a27847.html#a320c2e32c5003e880f7567c89db8ca8c", null ],
+    [ "SummonPatientTimer", "de/d31/a27847.html#adb9cd2ed50dd02f88c4f375a0be8ee89", null ]
 ];

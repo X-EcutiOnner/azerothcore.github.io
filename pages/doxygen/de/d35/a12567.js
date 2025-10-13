@@ -1,10 +1,8 @@
 var a12567 =
 [
-    [ "boss_golemaggAI", "de/d35/a12567.html#a79e2416a55a1531316d891ebff4e5575", null ],
-    [ "DamageTaken", "de/d35/a12567.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
-    [ "Reset", "de/d35/a12567.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
-    [ "UpdateAI", "de/d35/a12567.html#af7b322731241dbb08041a92cd355f273", null ],
-    [ "earthquakeTimer", "de/d35/a12567.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
-    [ "enraged", "de/d35/a12567.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
-    [ "pyroblastTimer", "de/d35/a12567.html#a142ededff85d517c08744bdafd644c34", null ]
+    [ "boss_garrAI", "de/d35/a12567.html#a12d403a90bf4920763ddd87b252f544a", null ],
+    [ "JustEngagedWith", "de/d35/a12567.html#a3b2bf0e6d3b6b32c450d03b1c88f3850", null ],
+    [ "Reset", "de/d35/a12567.html#acb14e869dac8e7df83b5b9d858cd2b21", null ],
+    [ "UpdateAI", "de/d35/a12567.html#aca82837e143f4509db221de15276b90c", null ],
+    [ "massEruptionTimer", "de/d35/a12567.html#ab807c47afd1ba8320730c3aa733e1b15", null ]
 ];

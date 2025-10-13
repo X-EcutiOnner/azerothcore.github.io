@@ -1,26 +1,5 @@
 var a05159 =
 [
-    [ "ConfigMgr", "d1/d90/a05159.html#af5206e9fdadc2123af20aba4534d2988", null ],
-    [ "ConfigMgr", "d1/d90/a05159.html#a809bc22f24f6330edac8f95bbdc1be2e", null ],
-    [ "~ConfigMgr", "d1/d90/a05159.html#a25f0f8dba4b71b9679ec631339ef5a57", null ],
-    [ "Configure", "d1/d90/a05159.html#a600438259fbb2939b482792a550bd7a4", null ],
-    [ "GetArguments", "d1/d90/a05159.html#a824a06c1dc274c92c33d1f5681994be0", null ],
-    [ "GetConfigPath", "d1/d90/a05159.html#a104bef8d83f8c3b643f7538ac7bf5c30", null ],
-    [ "GetFilename", "d1/d90/a05159.html#ad002777983ff9399976fc5d4447536de", null ],
-    [ "GetKeysByString", "d1/d90/a05159.html#a6172d618b5f96b7f58c8dca984afecb4", null ],
-    [ "GetOption", "d1/d90/a05159.html#ac30a389fa563bf0360ac833a4a029573", null ],
-    [ "GetOption", "d1/d90/a05159.html#a711be8eda4077d967a3677bd138998ac", null ],
-    [ "GetValueDefault", "d1/d90/a05159.html#a4a122373714bb95f10e6532e30735e55", null ],
-    [ "instance", "d1/d90/a05159.html#a775439020c2e5577206c2559bbb2b042", null ],
-    [ "isDryRun", "d1/d90/a05159.html#a951307027c22fea8c88c3d0e78232413", null ],
-    [ "LoadAdditionalFile", "d1/d90/a05159.html#a58c320a6a1cf51bbeb51b90f0e4f2a71", null ],
-    [ "LoadAppConfigs", "d1/d90/a05159.html#ae8b4473b24540d12468cb994b89b78b8", null ],
-    [ "LoadInitial", "d1/d90/a05159.html#ab44a44b2613fc787f60937835bf4878f", null ],
-    [ "LoadModulesConfigs", "d1/d90/a05159.html#a4752375243302e81a5e8fb3f5615e776", null ],
-    [ "operator=", "d1/d90/a05159.html#ac7257754613b850d43951a0d6e1074b9", null ],
-    [ "OverrideWithEnvVariablesIfAny", "d1/d90/a05159.html#a03a1bed0e7b07a3fb3e41ea5fd80d983", null ],
-    [ "Reload", "d1/d90/a05159.html#a66363d8377945f4b29061ce9e4ea6dc7", null ],
-    [ "setDryRun", "d1/d90/a05159.html#ac2d5c14f32b1d8dfb3e8736f5aef5e7e", null ],
-    [ "_moduleConfigFiles", "d1/d90/a05159.html#aa5a8c891e53c6d76cf63d0a40fd799e1", null ],
-    [ "dryRun", "d1/d90/a05159.html#a555709e27a884d16ef6dd91cc21b806b", null ]
+    [ "argument_type", "d1/d90/a05159.html#ad0011a133ce27e947c35917314e60693", null ],
+    [ "result_type", "d1/d90/a05159.html#a6dcbf6789c1565b95f16de3d580118a9", null ]
 ];

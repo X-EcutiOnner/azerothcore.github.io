@@ -1,6 +1,6 @@
 var a25843 =
 [
-    [ "HandleSummon", "d1/d4f/a25843.html#ad1ee0eb347454d50216610a266226d68", null ],
-    [ "PrepareSpellScript", "d1/d4f/a25843.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
-    [ "Register", "d1/d4f/a25843.html#aa145041af68291f107c3ff11ce15b85e", null ]
+    [ "OnRemove", "d1/d4f/a25843.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
+    [ "PrepareAuraScript", "d1/d4f/a25843.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
+    [ "Register", "d1/d4f/a25843.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
 ];

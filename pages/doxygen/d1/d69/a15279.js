@@ -1,6 +1,8 @@
 var a15279 =
 [
-    [ "HandleScriptEffect", "d1/d69/a15279.html#a0f03a3e09e80ae50a5ddedcea1f9f30e", null ],
-    [ "PrepareSpellScript", "d1/d69/a15279.html#aa109d61baba87acf5bce5d44bff55214", null ],
-    [ "Register", "d1/d69/a15279.html#ac8412777c84abfe56262d6d83163e9a1", null ]
+    [ "npc_obsidian_destroyer", "d1/d69/a15279.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
+    [ "JustDied", "d1/d69/a15279.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
+    [ "JustEngagedWith", "d1/d69/a15279.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
+    [ "Reset", "d1/d69/a15279.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
+    [ "UpdateAI", "d1/d69/a15279.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
 ];

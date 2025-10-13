@@ -1,14 +1,12 @@
 var a11975 =
 [
-    [ "boss_galvangarAI", "db/dd1/a11975.html#a34a0cacc52749bd1146fcb779d006b3b", null ],
-    [ "JustEngagedWith", "db/dd1/a11975.html#ac1898cea6887fcfa182aa8a7a535c462", null ],
-    [ "JustRespawned", "db/dd1/a11975.html#a92139ad3720ba662f87c0b55ac77dbeb", null ],
-    [ "Reset", "db/dd1/a11975.html#a96e1a262f368ab0f6885e955133b7ae8", null ],
-    [ "UpdateAI", "db/dd1/a11975.html#a2e5c7511cce7dd0ff27e13cda9807928", null ],
-    [ "CleaveTimer", "db/dd1/a11975.html#ae2f943d7e08b5ca508518cd19c675be9", null ],
-    [ "FrighteningShoutTimer", "db/dd1/a11975.html#a6f62f62ffa1c06baa2649901f02d13dc", null ],
-    [ "MortalStrikeTimer", "db/dd1/a11975.html#acbfa384508002ba9505d280c448f1f0e", null ],
-    [ "ResetTimer", "db/dd1/a11975.html#aaeff7d8bffb2ddcef5591c2c9be22ae2", null ],
-    [ "Whirlwind1Timer", "db/dd1/a11975.html#a1e1b3d242ad06e6b8b2e48fbc135b3c5", null ],
-    [ "Whirlwind2Timer", "db/dd1/a11975.html#adb5a2609f1f065fe7a737b8da2d4aef4", null ]
+    [ "wp_commandscript", "db/dd1/a11975.html#a152610b5faf3ee05bb830bbf820b7162", null ],
+    [ "GetCommands", "db/dd1/a11975.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
+    [ "HandleWpAddCommand", "db/dd1/a11975.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
+    [ "HandleWpEventCommand", "db/dd1/a11975.html#a16fdb79724677307198ccf2fd6aa670d", null ],
+    [ "HandleWpLoadCommand", "db/dd1/a11975.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
+    [ "HandleWpModifyCommand", "db/dd1/a11975.html#a83677a6b64c3e5f6e44345026775721a", null ],
+    [ "HandleWpReloadCommand", "db/dd1/a11975.html#a671598d3727fa7e9358391008c690cb6", null ],
+    [ "HandleWpShowCommand", "db/dd1/a11975.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
+    [ "HandleWpUnLoadCommand", "db/dd1/a11975.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
 ];

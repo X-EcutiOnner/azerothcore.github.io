@@ -1,5 +1,6 @@
 var a27527 =
 [
-    [ "go_tablet_of_the_seven", "dc/d86/a27527.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
-    [ "OnGossipHello", "dc/d86/a27527.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
+    [ "go_brewfest_musicAI", "de/db2/a27531.html", "de/db2/a27531" ],
+    [ "go_brewfest_music", "dc/d86/a27527.html#a787963a5ee591933d62fdb52911f9a77", null ],
+    [ "GetAI", "dc/d86/a27527.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
 ];

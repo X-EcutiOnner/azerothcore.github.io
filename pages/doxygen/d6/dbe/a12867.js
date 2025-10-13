@@ -1,6 +1,5 @@
 var a12867 =
 [
-    [ "go_blood_drenched_doorAI", "d2/dee/a12871.html", "d2/dee/a12871" ],
-    [ "go_blood_drenched_door", "d6/dbe/a12867.html#a32451e046236bc66b605088cab35fefc", null ],
-    [ "GetAI", "d6/dbe/a12867.html#a983405ff279eabe0bc607fb85bd47eb9", null ]
+    [ "at_karazhan_atiesh_aran", "d6/dbe/a12867.html#ac84f5848b8a26cbfdd2544108567a6cc", null ],
+    [ "OnTrigger", "d6/dbe/a12867.html#a5a6646c573b6e0bab0cbc288e594979e", null ]
 ];

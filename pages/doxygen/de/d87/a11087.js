@@ -1,4 +1,6 @@
 var a11087 =
 [
-    [ "type", "de/d87/a11087.html#aa3307afff20191a467f7e948d9fd00ed", null ]
+    [ "TotemDestroyed", "de/d87/a11087.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
+    [ "Read", "de/d87/a11087.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
+    [ "Slot", "de/d87/a11087.html#a41eebde65aa696c2dec812da0aeab633", null ]
 ];

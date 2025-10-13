@@ -1,9 +1,6 @@
 var a12439 =
 [
-    [ "npc_drakonid_spawner", "d8/db4/a12439.html#a2b657e800dc5cc30c618391413ded116", null ],
-    [ "DoAction", "d8/db4/a12439.html#ab013cff0430c09fe1045fdc735e45182", null ],
-    [ "IsSummonedBy", "d8/db4/a12439.html#a6a2170e0f20736d69006ce6d6c769476", null ],
-    [ "SummonedCreatureDies", "d8/db4/a12439.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
-    [ "UpdateAI", "d8/db4/a12439.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
-    [ "_owner", "d8/db4/a12439.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
+    [ "boss_firemawAI", "d8/db4/a12439.html#ab3f56c97119676b1a75662e52caecb75", null ],
+    [ "JustEngagedWith", "d8/db4/a12439.html#a04cb1d2fa18dba82b9c881b09406a076", null ],
+    [ "UpdateAI", "d8/db4/a12439.html#a6e35e47b23d713263ef00769324bbbed", null ]
 ];

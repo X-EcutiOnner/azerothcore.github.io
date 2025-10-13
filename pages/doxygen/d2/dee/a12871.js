@@ -1,9 +1,11 @@
 var a12871 =
 [
-    [ "go_blood_drenched_doorAI", "d2/dee/a12871.html#af431fff2778278cbd3e27b3906201373", null ],
-    [ "GossipHello", "d2/dee/a12871.html#aa3d9c4ee80d6fb42103a3f02abdd8d20", null ],
-    [ "UpdateAI", "d2/dee/a12871.html#a644ac9ce05242714d1b87150852539f3", null ],
-    [ "events", "d2/dee/a12871.html#a2c51ffa6a3992fe55c2e22cb783409c9", null ],
-    [ "mirkblood", "d2/dee/a12871.html#a07e1b098c31efe45e2df4f85f71109e4", null ],
-    [ "opener", "d2/dee/a12871.html#aa70272eb79e875ba7d7767a1bf82afe9", null ]
+    [ "boss_tenris_mirkblood", "d2/dee/a12871.html#ae626332a437983bbb0219bbe2d4b75dc", null ],
+    [ "DamageTaken", "d2/dee/a12871.html#a0316d2d936f10928fe01d1d5a532e9e0", null ],
+    [ "EnterEvadeMode", "d2/dee/a12871.html#a5da11ca73a280c08d1ab0ab4df66d836", null ],
+    [ "JustEngagedWith", "d2/dee/a12871.html#ad95106bbe08589a5ca1d0f2f30aab0ec", null ],
+    [ "KilledUnit", "d2/dee/a12871.html#ab0a5fedbd8714326a948163d7bcc0838", null ],
+    [ "Reset", "d2/dee/a12871.html#a88d46f6e972525979687b315db90dc30", null ],
+    [ "SpellHit", "d2/dee/a12871.html#a5d69e0cf2a394ac9eed94bb82ab35949", null ],
+    [ "_mirrorTarget", "d2/dee/a12871.html#a1e9a1c361046b12fe0569fbdef4a7033", null ]
 ];

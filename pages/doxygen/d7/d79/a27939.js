@@ -1,6 +1,6 @@
 var a27939 =
 [
-    [ "npc_necropolis_relay", "d7/d79/a27939.html#a044958acd1449d664532aeea7d0cb2fd", null ],
-    [ "SpellHit", "d7/d79/a27939.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
-    [ "SpellHitTarget", "d7/d79/a27939.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
+    [ "npc_venomhide_hatchlingAI", "d7/d79/a27939.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "d7/d79/a27939.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "d7/d79/a27939.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

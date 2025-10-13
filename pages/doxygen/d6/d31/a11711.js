@@ -1,5 +1,6 @@
 var a11711 =
 [
-    [ "WorldConfig", "d6/d31/a11711.html#abe3f855f1902d7f3974b741cfc0a3663", null ],
-    [ "BuildConfigCache", "d6/d31/a11711.html#aaf6bfad583f3a2dbb1e9ea2487dd2c9d", null ]
+    [ "rainChance", "d3/d1a/a04798.html#ga8c3d9f1d251a9b167c9adc99101e5612", null ],
+    [ "snowChance", "d3/d1a/a04798.html#ga474650c5237c4a7428e858775fea7b86", null ],
+    [ "stormChance", "d3/d1a/a04798.html#gaa50e5243877e8283f30ee9376b2d519e", null ]
 ];

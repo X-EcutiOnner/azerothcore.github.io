@@ -1,4 +1,4 @@
 var a04670 =
 [
-    [ "EventMap", "d0/d2f/a05507.html", "d0/d2f/a05507" ]
+    [ "MessageBuffer", "d7/dbb/a05535.html", "d7/dbb/a05535" ]
 ];

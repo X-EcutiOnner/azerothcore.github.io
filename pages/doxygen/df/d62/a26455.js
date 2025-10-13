@@ -1,9 +1,7 @@
 var a26455 =
 [
-    [ "CheckCast", "df/d62/a26455.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
-    [ "HandleDummy", "df/d62/a26455.html#a7f79495525687fba6229f48935b2558a", null ],
-    [ "Load", "df/d62/a26455.html#a0c73457e44a3d64bdccee78d28893672", null ],
-    [ "PrepareSpellScript", "df/d62/a26455.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
-    [ "Register", "df/d62/a26455.html#ab9f09394ab301350a2abaefde90632fe", null ],
-    [ "Validate", "df/d62/a26455.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
+    [ "HandleProc", "df/d62/a26455.html#a72463db57f87387aa3ff3175c45ca9df", null ],
+    [ "PrepareAuraScript", "df/d62/a26455.html#ae158b4b624b50ad984b2c5e9c16d7670", null ],
+    [ "Register", "df/d62/a26455.html#a2da64a27cfa5a68464f8f3a885e09751", null ],
+    [ "Validate", "df/d62/a26455.html#a798f51ee6333d3ebb2bbb617ea88ea2b", null ]
 ];

@@ -1,14 +1,15 @@
 var a05091 =
 [
-    [ "ModelInstance", "d9/de1/a05091.html#a7a4efa321915b77801e9fc87924df572", null ],
-    [ "ModelInstance", "d9/de1/a05091.html#a1d29459f4f79da938ae969509246fcf1", null ],
-    [ "GetLiquidLevel", "d9/de1/a05091.html#a6150e52c7fdff3cba536e04e115d86ba", null ],
-    [ "GetLocationInfo", "d9/de1/a05091.html#a2e756866245d8131d5fc040489a563e3", null ],
-    [ "getWorldModel", "d9/de1/a05091.html#a464922875649215b0b60aafc1ff70c3c", null ],
-    [ "intersectPoint", "d9/de1/a05091.html#a991622da72fe08d812f49f20f0a2df17", null ],
-    [ "intersectRay", "d9/de1/a05091.html#aca8a2a07911eba5ec362080e2790453c", null ],
-    [ "setUnloaded", "d9/de1/a05091.html#a1797ec305f365e58cd92c8cd3f3094ba", null ],
-    [ "iInvRot", "d9/de1/a05091.html#a9ac1d8dbfc566a2b5e508cae92ef4019", null ],
-    [ "iInvScale", "d9/de1/a05091.html#adc23d9c9a79ac7cfdb1f90b96485b089", null ],
-    [ "iModel", "d9/de1/a05091.html#ac0b95c6fde838667e007781bde2f2917", null ]
+    [ "GetBounds", "d9/de1/a05091.html#a4a112397e75fbaf5fd991a322a8a4ea4", null ],
+    [ "operator==", "d9/de1/a05091.html#ab9713afd57c0bdf9f5ff8d5d12cd567f", null ],
+    [ "readFromFile", "d9/de1/a05091.html#a35d7880eb3e295ed3148ca05a2f4520e", null ],
+    [ "writeToFile", "d9/de1/a05091.html#ae8623dcb78a2af4c9aebd60f67649f34", null ],
+    [ "adtId", "d9/de1/a05091.html#a4ebcfe8326eff028e722c9972a16200b", null ],
+    [ "flags", "d9/de1/a05091.html#acfc7a76db09013abfad8e42aaae59f52", null ],
+    [ "iBound", "d9/de1/a05091.html#ae1dac1aa360c4d49b61a0cd8af92399c", null ],
+    [ "ID", "d9/de1/a05091.html#ab2fdb441870d6ac7ddc05640ec1d0598", null ],
+    [ "iPos", "d9/de1/a05091.html#abb5966f87710bc6a1f5da766c99b3e12", null ],
+    [ "iRot", "d9/de1/a05091.html#a6d0b4f6bde1a20b246e4b22cc43e25af", null ],
+    [ "iScale", "d9/de1/a05091.html#aad355d0fb09ff0360ed19610bef92d8e", null ],
+    [ "name", "d9/de1/a05091.html#a66e19a4a28f8fc0c537f1315d9bddcfb", null ]
 ];

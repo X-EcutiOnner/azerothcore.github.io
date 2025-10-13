@@ -1,7 +1,7 @@
 var a14015 =
 [
-    [ "HandleDispel", "d4/d53/a14015.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "d4/d53/a14015.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "d4/d53/a14015.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "d4/d53/a14015.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "Load", "d4/d53/a14015.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
+    [ "OnRemove", "d4/d53/a14015.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
+    [ "PrepareAuraScript", "d4/d53/a14015.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
+    [ "Register", "d4/d53/a14015.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
 ];

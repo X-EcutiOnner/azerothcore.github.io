@@ -1,10 +1,12 @@
 var a11263 =
 [
-    [ "TriggeredByAuraSpellData", "df/d00/a11263.html#a3f4704eed73af1e37a3d09434cfcddae", null ],
-    [ "Init", "df/d00/a11263.html#a782e0056967e006748318af3112c0e43", null ],
-    [ "operator bool", "df/d00/a11263.html#a85d4782b76b060c172aaa6f914d400da", null ],
-    [ "operator!", "df/d00/a11263.html#af7290a4c37b1829a98e436486fa8b6cd", null ],
-    [ "effectIndex", "df/d00/a11263.html#a9bbee8d48d4beb8a21721a10e0380c41", null ],
-    [ "spellInfo", "df/d00/a11263.html#af58f62fb168e9da7011f7b570f08e977", null ],
-    [ "tickNumber", "df/d00/a11263.html#afbb1ffd006dc6eb00ccd65add87b1b22", null ]
+    [ "UnitAura", "df/d00/a11263.html#ada4033955271dfb21d16a95b316087f5", null ],
+    [ "_ApplyForTarget", "df/d00/a11263.html#a920549cf55c8def37149b00ae971127d", null ],
+    [ "_UnapplyForTarget", "df/d00/a11263.html#af4d453cee6758e633bdcae0049581898", null ],
+    [ "FillTargetMap", "df/d00/a11263.html#add5ce04446338e078c5986420abfd16e", null ],
+    [ "GetDiminishGroup", "df/d00/a11263.html#a8ebf7b01e7f324938f68ad4ce74d56b5", null ],
+    [ "Remove", "df/d00/a11263.html#a28f714404942bb5c614ac844cf937546", null ],
+    [ "SetDiminishGroup", "df/d00/a11263.html#a6d858a153c5d3046574f3387ab852050", null ],
+    [ "Aura::Create", "df/d00/a11263.html#ae2c0fdfb409846fec5e861de60797112", null ],
+    [ "m_AuraDRGroup", "df/d00/a11263.html#a4b413c5e62eee76875a22345059e6124", null ]
 ];

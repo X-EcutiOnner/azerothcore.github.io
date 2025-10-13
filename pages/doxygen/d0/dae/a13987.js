@@ -1,12 +1,7 @@
 var a13987 =
 [
-    [ "npc_akilzon_eagle", "d0/dae/a13987.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
-    [ "JustEngagedWith", "d0/dae/a13987.html#aa5c3d77a1086ad90397d47f081b25476", null ],
-    [ "MoveInLineOfSight", "d0/dae/a13987.html#adefd384b8a273ca52343d836a399f3cb", null ],
-    [ "MovementInform", "d0/dae/a13987.html#abf69be0c32356e65e6d451c33fb389f0", null ],
-    [ "Reset", "d0/dae/a13987.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
-    [ "UpdateAI", "d0/dae/a13987.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
-    [ "arrived", "d0/dae/a13987.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
-    [ "EagleSwoop_Timer", "d0/dae/a13987.html#a37a5861ef690729e2a8bfafddce168be", null ],
-    [ "TargetGUID", "d0/dae/a13987.html#a14d4f82f932569d24f6014ad39640619", null ]
+    [ "npc_daphne_stilwellAI", "de/def/a13991.html", "de/def/a13991" ],
+    [ "npc_daphne_stilwell", "d0/dae/a13987.html#ad844c5f0409936d7068ee55271506041", null ],
+    [ "GetAI", "d0/dae/a13987.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
+    [ "OnQuestAccept", "d0/dae/a13987.html#ad7b293efc802506a825f202e34cb0f4d", null ]
 ];

@@ -1,6 +1,9 @@
 var a25907 =
 [
-    [ "HandleEffectApply", "dd/dbb/a25907.html#a9e8b226f3ebb33c47de584850643994f", null ],
-    [ "PrepareAuraScript", "dd/dbb/a25907.html#a30b74d44bb81a04ea1cfe1b6d5f926c7", null ],
-    [ "Register", "dd/dbb/a25907.html#a1d3d32c057877b5cf00f5970e583c25e", null ]
+    [ "spell_item_trigger_spell", "dd/dbb/a25907.html#a619e9a5233e36157cbdaba70a3ba80da", null ],
+    [ "HandleDummy", "dd/dbb/a25907.html#a49613255eea28e34cf5ff8a06798f89a", null ],
+    [ "PrepareSpellScript", "dd/dbb/a25907.html#a78903f92c30fb23ff7297f7fa16c4861", null ],
+    [ "Register", "dd/dbb/a25907.html#ab9abd9f01ce37c23d6502e6d86e3f998", null ],
+    [ "Validate", "dd/dbb/a25907.html#a2f2df93e8f9d0e51273560665ea5c245", null ],
+    [ "_triggeredSpellId", "dd/dbb/a25907.html#a610c5ac434fe788120ed101f7bf58f63", null ]
 ];

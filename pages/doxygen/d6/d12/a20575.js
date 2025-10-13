@@ -1,7 +1,7 @@
 var a20575 =
 [
-    [ "StoneGripTargetSelector", "d6/d12/a20575.html#a74fc772e2bc0694dee05fe82de4463e2", null ],
-    [ "operator()", "d6/d12/a20575.html#ae40653def55e656f2347029a97605395", null ],
-    [ "_me", "d6/d12/a20575.html#ae5781d6b553491a1e3e8bfde2b965c3a", null ],
-    [ "_victim", "d6/d12/a20575.html#a09c3c6f832c20776f11b72a468a4b0bb", null ]
+    [ "FilterTargetsInitial", "d6/d12/a20575.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
+    [ "Load", "d6/d12/a20575.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
+    [ "PrepareSpellScript", "d6/d12/a20575.html#a4d1e588557fa3fa432d4015fda930877", null ],
+    [ "Register", "d6/d12/a20575.html#a0428375ddb89907e7f1728757d55d052", null ]
 ];

@@ -1,12 +1,6 @@
 var a07155 =
 [
-    [ "Type", "d3/db9/a07155.html#a758c9729d907d872a5e5365539486408", [
-      [ "ADD", "d3/db9/a07155.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d", null ],
-      [ "REMOVE", "d3/db9/a07155.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538", null ],
-      [ "UPDATE_BID", "d3/db9/a07155.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5", null ]
-    ] ],
-    [ "AuctionSearcherUpdate", "d3/db9/a07155.html#acfc9c3749967b90c2b8633c40f1aa2bd", null ],
-    [ "~AuctionSearcherUpdate", "d3/db9/a07155.html#a34cb7ede5d2108065a51a80396d6fc55", null ],
-    [ "listFaction", "d3/db9/a07155.html#a3f61acebd3d594e3a23d682d2d5292bc", null ],
-    [ "updateType", "d3/db9/a07155.html#af6ee8672029884bdbec327242ce5d5d2", null ]
+    [ "AuctionSearchBidderListRequest", "d3/db9/a07155.html#a193c39468959c998a2ccae74342983d2", null ],
+    [ "outbiddedAuctionIds", "d3/db9/a07155.html#a6caf25d532b87d38b043cf3aa214f9cd", null ],
+    [ "ownerGuid", "d3/db9/a07155.html#a6fb69f4996993f264466c50e7485c4a6", null ]
 ];

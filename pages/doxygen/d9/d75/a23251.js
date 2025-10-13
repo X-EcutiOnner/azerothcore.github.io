@@ -1,6 +1,6 @@
 var a23251 =
 [
-    [ "PrepareSpellScript", "d9/d75/a23251.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
-    [ "Register", "d9/d75/a23251.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
-    [ "RemoveSpines", "d9/d75/a23251.html#a076b056328ba6181a6ec907f21258f9d", null ]
+    [ "HandleDummy", "d9/d75/a23251.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
+    [ "PrepareSpellScript", "d9/d75/a23251.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
+    [ "Register", "d9/d75/a23251.html#a972574075c86c32593982add71dc893f", null ]
 ];

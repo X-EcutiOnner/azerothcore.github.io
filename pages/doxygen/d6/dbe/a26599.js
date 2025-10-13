@@ -1,8 +1,10 @@
 var a26599 =
 [
-    [ "HandleDummy", "d6/dbe/a26599.html#a1afcd9c6ab96c87db8aa4899d0830899", null ],
-    [ "Load", "d6/dbe/a26599.html#a11d3cd0eccd4895f5cd9d2721bd3fd0c", null ],
-    [ "PrepareSpellScript", "d6/dbe/a26599.html#a252784bb4b438750db5ef7f905477140", null ],
-    [ "Register", "d6/dbe/a26599.html#ab93554e82cbed0c78452846c95247584", null ],
-    [ "Validate", "d6/dbe/a26599.html#a33404726f5e5986b263eb0a0beba9443", null ]
+    [ "GetTarget", "d6/dbe/a26599.html#a1bfcb90731a93e4897c9d4fbf46d2a01", null ],
+    [ "HandleEffectPeriodicPlatform", "d6/dbe/a26599.html#ac499c8adcd74206ad60a7fc24d32cc3c", null ],
+    [ "HandleEffectPeriodicSelf", "d6/dbe/a26599.html#a2272a970ca5edca6f7353beb2279c29c", null ],
+    [ "PerformKick", "d6/dbe/a26599.html#aa192aa92cc5c55f8bf2306c4463a3efc", null ],
+    [ "PrepareAuraScript", "d6/dbe/a26599.html#a489f1da8f8008db8f096470f28455ef9", null ],
+    [ "Register", "d6/dbe/a26599.html#a164c94c63cf03b98ee085b18a0a8af9a", null ],
+    [ "AuraEffectHandleModes", "d6/dbe/a26599.html#a91d53900d8c6d0dd2a7519a4836aa05b", null ]
 ];

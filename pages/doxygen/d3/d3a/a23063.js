@@ -1,9 +1,7 @@
 var a23063 =
 [
-    [ "HandleAfterCast", "d3/d3a/a23063.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
-    [ "HandleDummy", "d3/d3a/a23063.html#ae94594e337c2e0e6864f3723df8349bf", null ],
-    [ "Load", "d3/d3a/a23063.html#a301008eff6b13a43070b3916925391ae", null ],
-    [ "PrepareSpellScript", "d3/d3a/a23063.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
-    [ "Register", "d3/d3a/a23063.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
-    [ "_targetCount", "d3/d3a/a23063.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
+    [ "boss_veras_darkshadow", "d3/d3a/a23063.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "d3/d3a/a23063.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "d3/d3a/a23063.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "d3/d3a/a23063.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

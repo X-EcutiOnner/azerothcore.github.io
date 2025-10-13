@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: TaskScheduler::TaskQueue Class Reference</title>
+<title>AzerothCore: TaskScheduler::Task Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,290 +107,59 @@ $(document).ready(function(){initNavTree('d8/d26/a05599.html','../../'); initRes
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#friends">Friends</a> &#124;
 <a href="../../d8/d23/a05596.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">TaskScheduler::TaskQueue Class Reference</div></div>
+  <div class="headertitle"><div class="title">TaskScheduler::Task Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aff6bc8c7fae6640b555ddb027cf0f6ab"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#aff6bc8c7fae6640b555ddb027cf0f6ab">Push</a> (<a class="el" href="../../dc/d4a/a05587.html#a0c6c7a95026322208866b6b829e0b598">TaskContainer</a> &amp;&amp;task)</td></tr>
-<tr class="separator:aff6bc8c7fae6640b555ddb027cf0f6ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5f5d6b5a4a5e4ec93ff94619485736cb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d4a/a05587.html#a0c6c7a95026322208866b6b829e0b598">TaskContainer</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#a5f5d6b5a4a5e4ec93ff94619485736cb">Pop</a> ()</td></tr>
-<tr class="memdesc:a5f5d6b5a4a5e4ec93ff94619485736cb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Pops the task out of the container.  <a href="../../d8/d26/a05599.html#a5f5d6b5a4a5e4ec93ff94619485736cb">More...</a><br /></td></tr>
-<tr class="separator:a5f5d6b5a4a5e4ec93ff94619485736cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8bbd41b304f7e69df565af75f4846bda"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d4a/a05587.html#a0c6c7a95026322208866b6b829e0b598">TaskContainer</a> const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#a8bbd41b304f7e69df565af75f4846bda">First</a> () const</td></tr>
-<tr class="separator:a8bbd41b304f7e69df565af75f4846bda"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adc64d35670bf0d41519cb9998d3db17e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#adc64d35670bf0d41519cb9998d3db17e">Clear</a> ()</td></tr>
-<tr class="separator:adc64d35670bf0d41519cb9998d3db17e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6efe3145679913fde4d4cc1f8cc819e6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#a6efe3145679913fde4d4cc1f8cc819e6">RemoveIf</a> (std::function&lt; bool(<a class="el" href="../../dc/d4a/a05587.html#a0c6c7a95026322208866b6b829e0b598">TaskContainer</a> const &amp;)&gt; const &amp;filter)</td></tr>
-<tr class="separator:a6efe3145679913fde4d4cc1f8cc819e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0ad5b4de404b1f8312341a28a1a58b5b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#a0ad5b4de404b1f8312341a28a1a58b5b">ModifyIf</a> (std::function&lt; bool(<a class="el" href="../../dc/d4a/a05587.html#a0c6c7a95026322208866b6b829e0b598">TaskContainer</a> const &amp;)&gt; const &amp;filter)</td></tr>
-<tr class="separator:a0ad5b4de404b1f8312341a28a1a58b5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ada8edd51338da19db3f282ccc6229516"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#ada8edd51338da19db3f282ccc6229516">IsGroupQueued</a> (<a class="el" href="../../dc/d4a/a05587.html#a998482c629b3a5783373a6d3ac30e1ed">group_t</a> const group)</td></tr>
-<tr class="memdesc:ada8edd51338da19db3f282ccc6229516"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check if the group exists and is currently scheduled.  <a href="../../d8/d26/a05599.html#ada8edd51338da19db3f282ccc6229516">More...</a><br /></td></tr>
-<tr class="separator:ada8edd51338da19db3f282ccc6229516"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af2cb38062e4d62558d520be75b01bedb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d4a/a05587.html#a0e14d7b24d018a41c9dc849e1421d5e7">TaskScheduler::timepoint_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#af2cb38062e4d62558d520be75b01bedb">GetNextGroupOccurrence</a> (<a class="el" href="../../dc/d4a/a05587.html#a998482c629b3a5783373a6d3ac30e1ed">group_t</a> const group) const</td></tr>
-<tr class="separator:af2cb38062e4d62558d520be75b01bedb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a151898f14e9a1628ddb52b6840fcc4fc"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#a151898f14e9a1628ddb52b6840fcc4fc">IsEmpty</a> () const</td></tr>
-<tr class="separator:a151898f14e9a1628ddb52b6840fcc4fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a15fd2d39bf79bd4d8ea432b5543f5efc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#a15fd2d39bf79bd4d8ea432b5543f5efc">Task</a> (<a class="el" href="../../d6/d66/a05595.html#a0e14d7b24d018a41c9dc849e1421d5e7">timepoint_t</a> const &amp;end, <a class="el" href="../../d6/d66/a05595.html#a9c6be5fc079684953f911548fb66cb21">duration_t</a> const &amp;duration, std::optional&lt; <a class="el" href="../../d6/d66/a05595.html#a998482c629b3a5783373a6d3ac30e1ed">group_t</a> &gt; const &amp;group, <a class="el" href="../../d6/d66/a05595.html#af3067f67a46b296be44fca007a2d3690">repeated_t</a> const repeated, <a class="el" href="../../d6/d66/a05595.html#a529b1284294a63217e3f9fa56c170743">task_handler_t</a> const &amp;task)</td></tr>
+<tr class="separator:a15fd2d39bf79bd4d8ea432b5543f5efc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad9b788727c5e8dfa5c424970f882b1dc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#ad9b788727c5e8dfa5c424970f882b1dc">Task</a> (<a class="el" href="../../d6/d66/a05595.html#a0e14d7b24d018a41c9dc849e1421d5e7">timepoint_t</a> const &amp;end, <a class="el" href="../../d6/d66/a05595.html#a9c6be5fc079684953f911548fb66cb21">duration_t</a> const &amp;duration, <a class="el" href="../../d6/d66/a05595.html#a529b1284294a63217e3f9fa56c170743">task_handler_t</a> const &amp;task)</td></tr>
+<tr class="separator:ad9b788727c5e8dfa5c424970f882b1dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7eec23707deabeb93b600ad1b17812d6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#a7eec23707deabeb93b600ad1b17812d6">Task</a> (<a class="el" href="../../d8/d26/a05599.html">Task</a> const &amp;)=delete</td></tr>
+<tr class="separator:a7eec23707deabeb93b600ad1b17812d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9acec30a90c44ffcff66c256a9caf01a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#a9acec30a90c44ffcff66c256a9caf01a">Task</a> (<a class="el" href="../../d8/d26/a05599.html">Task</a> &amp;&amp;)=delete</td></tr>
+<tr class="separator:a9acec30a90c44ffcff66c256a9caf01a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a97319b03103a3013d96f7abe094ab6a5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d26/a05599.html">Task</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#a97319b03103a3013d96f7abe094ab6a5">operator=</a> (<a class="el" href="../../d8/d26/a05599.html">Task</a> const &amp;)=default</td></tr>
+<tr class="separator:a97319b03103a3013d96f7abe094ab6a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af7f962055b0324a6fedcdd91d9d375dd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d26/a05599.html">Task</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#af7f962055b0324a6fedcdd91d9d375dd">operator=</a> (<a class="el" href="../../d8/d26/a05599.html">Task</a> &amp;&amp;right)=delete</td></tr>
+<tr class="separator:af7f962055b0324a6fedcdd91d9d375dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa53b9d06447478218858aaff7634daab"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#aa53b9d06447478218858aaff7634daab">operator&lt;</a> (<a class="el" href="../../d8/d26/a05599.html">Task</a> const &amp;other) const</td></tr>
+<tr class="separator:aa53b9d06447478218858aaff7634daab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a45990c164939b2c5a4fafc541103f70f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#a45990c164939b2c5a4fafc541103f70f">operator&gt;</a> (<a class="el" href="../../d8/d26/a05599.html">Task</a> const &amp;other) const</td></tr>
+<tr class="separator:a45990c164939b2c5a4fafc541103f70f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac245f8900a292b6ad6ece4c44da85e11"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#ac245f8900a292b6ad6ece4c44da85e11">operator==</a> (<a class="el" href="../../d8/d26/a05599.html">Task</a> const &amp;other)</td></tr>
+<tr class="separator:ac245f8900a292b6ad6ece4c44da85e11"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0bbb86f1ed4357c9af9813e551fc41d7"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#a0bbb86f1ed4357c9af9813e551fc41d7">IsInGroup</a> (<a class="el" href="../../d6/d66/a05595.html#a998482c629b3a5783373a6d3ac30e1ed">group_t</a> const group) const</td></tr>
+<tr class="separator:a0bbb86f1ed4357c9af9813e551fc41d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:acc56bddf7e586a3a950f608efb730498"><td class="memItemLeft" align="right" valign="top">std::multiset&lt; <a class="el" href="../../dc/d4a/a05587.html#a0c6c7a95026322208866b6b829e0b598">TaskContainer</a>, <a class="el" href="../../d6/d66/a05595.html">Compare</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#acc56bddf7e586a3a950f608efb730498">container</a></td></tr>
-<tr class="separator:acc56bddf7e586a3a950f608efb730498"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a09a7b8fbb3878aef1cc5f76367e4d43b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d66/a05595.html#a0e14d7b24d018a41c9dc849e1421d5e7">timepoint_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#a09a7b8fbb3878aef1cc5f76367e4d43b">_end</a></td></tr>
+<tr class="separator:a09a7b8fbb3878aef1cc5f76367e4d43b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:add2dd72f389df2168012eb70160f6eb3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d66/a05595.html#a9c6be5fc079684953f911548fb66cb21">duration_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#add2dd72f389df2168012eb70160f6eb3">_duration</a></td></tr>
+<tr class="separator:add2dd72f389df2168012eb70160f6eb3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad9e890cbd7ed9ff7b8829e132605d432"><td class="memItemLeft" align="right" valign="top">std::optional&lt; <a class="el" href="../../d6/d66/a05595.html#a998482c629b3a5783373a6d3ac30e1ed">group_t</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#ad9e890cbd7ed9ff7b8829e132605d432">_group</a></td></tr>
+<tr class="separator:ad9e890cbd7ed9ff7b8829e132605d432"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a85e8a2803a79f877e94162cc824fabbe"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d66/a05595.html#af3067f67a46b296be44fca007a2d3690">repeated_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#a85e8a2803a79f877e94162cc824fabbe">_repeated</a></td></tr>
+<tr class="separator:a85e8a2803a79f877e94162cc824fabbe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0d846eeae80d54906771ba41281fbdc0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d66/a05595.html#a529b1284294a63217e3f9fa56c170743">task_handler_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#a0d846eeae80d54906771ba41281fbdc0">_task</a></td></tr>
+<tr class="separator:a0d846eeae80d54906771ba41281fbdc0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
+Friends</h2></td></tr>
+<tr class="memitem:ab75a9caf07880e5ba2bb9f75068bbe7e"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#ab75a9caf07880e5ba2bb9f75068bbe7e">TaskContext</a></td></tr>
+<tr class="separator:ab75a9caf07880e5ba2bb9f75068bbe7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9f0573c5408a663c3874787eeb7d599e"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d26/a05599.html#a9f0573c5408a663c3874787eeb7d599e">TaskScheduler</a></td></tr>
+<tr class="separator:a9f0573c5408a663c3874787eeb7d599e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="adc64d35670bf0d41519cb9998d3db17e" name="adc64d35670bf0d41519cb9998d3db17e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adc64d35670bf0d41519cb9998d3db17e">&#9670;&#160;</a></span>Clear()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TaskScheduler::TaskQueue::Clear </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  150</span>{</div>
-<div class="line"><span class="lineno">  151</span>    <a class="code hl_variable" href="../../d8/d26/a05599.html#acc56bddf7e586a3a950f608efb730498">container</a>.clear();</div>
-<div class="line"><span class="lineno">  152</span>}</div>
-<div class="ttc" id="aa05599_html_acc56bddf7e586a3a950f608efb730498"><div class="ttname"><a href="../../d8/d26/a05599.html#acc56bddf7e586a3a950f608efb730498">TaskScheduler::TaskQueue::container</a></div><div class="ttdeci">std::multiset&lt; TaskContainer, Compare &gt; container</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:131</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00045">TaskScheduler::CancelAll()</a>.</p>
-
-</div>
-</div>
-<a id="a8bbd41b304f7e69df565af75f4846bda" name="a8bbd41b304f7e69df565af75f4846bda"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8bbd41b304f7e69df565af75f4846bda">&#9670;&#160;</a></span>First()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">auto TaskScheduler::TaskQueue::First </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  145</span>{</div>
-<div class="line"><span class="lineno">  146</span>    <span class="keywordflow">return</span> *<a class="code hl_variable" href="../../d8/d26/a05599.html#acc56bddf7e586a3a950f608efb730498">container</a>.begin();</div>
-<div class="line"><span class="lineno">  147</span>}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00076">TaskScheduler::Dispatch()</a>.</p>
-
-</div>
-</div>
-<a id="af2cb38062e4d62558d520be75b01bedb" name="af2cb38062e4d62558d520be75b01bedb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af2cb38062e4d62558d520be75b01bedb">&#9670;&#160;</a></span>GetNextGroupOccurrence()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dc/d4a/a05587.html#a0e14d7b24d018a41c9dc849e1421d5e7">TaskScheduler::timepoint_t</a> TaskScheduler::TaskQueue::GetNextGroupOccurrence </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/d4a/a05587.html#a998482c629b3a5783373a6d3ac30e1ed">group_t</a> const&#160;</td>
-          <td class="paramname"><em>group</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  198</span>{</div>
-<div class="line"><span class="lineno">  199</span>    <a class="code hl_typedef" href="../../dc/d4a/a05587.html#a0e14d7b24d018a41c9dc849e1421d5e7">TaskScheduler::timepoint_t</a> next = TaskScheduler::timepoint_t::max();</div>
-<div class="line"><span class="lineno">  200</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; task : <a class="code hl_variable" href="../../d8/d26/a05599.html#acc56bddf7e586a3a950f608efb730498">container</a>)</div>
-<div class="line"><span class="lineno">  201</span>        <span class="keywordflow">if</span> (task-&gt;IsInGroup(group) &amp;&amp; task-&gt;_end &lt; next)</div>
-<div class="line"><span class="lineno">  202</span>            next = task-&gt;_end;</div>
-<div class="line"><span class="lineno">  203</span>    <span class="keywordflow">return</span> next;</div>
-<div class="line"><span class="lineno">  204</span>}</div>
-<div class="ttc" id="aa05587_html_a0e14d7b24d018a41c9dc849e1421d5e7"><div class="ttname"><a href="../../dc/d4a/a05587.html#a0e14d7b24d018a41c9dc849e1421d5e7">TaskScheduler::timepoint_t</a></div><div class="ttdeci">clock_t::time_point timepoint_t</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:50</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00127">TaskScheduler::GetNextGroupOccurrence()</a>.</p>
-
-</div>
-</div>
-<a id="a151898f14e9a1628ddb52b6840fcc4fc" name="a151898f14e9a1628ddb52b6840fcc4fc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a151898f14e9a1628ddb52b6840fcc4fc">&#9670;&#160;</a></span>IsEmpty()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool TaskScheduler::TaskQueue::IsEmpty </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  207</span>{</div>
-<div class="line"><span class="lineno">  208</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/d26/a05599.html#acc56bddf7e586a3a950f608efb730498">container</a>.empty();</div>
-<div class="line"><span class="lineno">  209</span>}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00076">TaskScheduler::Dispatch()</a>.</p>
-
-</div>
-</div>
-<a id="ada8edd51338da19db3f282ccc6229516" name="ada8edd51338da19db3f282ccc6229516"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ada8edd51338da19db3f282ccc6229516">&#9670;&#160;</a></span>IsGroupQueued()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool TaskScheduler::TaskQueue::IsGroupQueued </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/d4a/a05587.html#a998482c629b3a5783373a6d3ac30e1ed">group_t</a> const&#160;</td>
-          <td class="paramname"><em>group</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Check if the group exists and is currently scheduled. </p>
-<div class="fragment"><div class="line"><span class="lineno">  185</span>{</div>
-<div class="line"><span class="lineno">  186</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; task : <a class="code hl_variable" href="../../d8/d26/a05599.html#acc56bddf7e586a3a950f608efb730498">container</a>)</div>
-<div class="line"><span class="lineno">  187</span>    {</div>
-<div class="line"><span class="lineno">  188</span>        <span class="keywordflow">if</span> (task-&gt;IsInGroup(group))</div>
-<div class="line"><span class="lineno">  189</span>        {</div>
-<div class="line"><span class="lineno">  190</span>            <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  191</span>        }</div>
-<div class="line"><span class="lineno">  192</span>    }</div>
-<div class="line"><span class="lineno">  193</span> </div>
-<div class="line"><span class="lineno">  194</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  195</span>}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00122">TaskScheduler::IsGroupScheduled()</a>.</p>
-
-</div>
-</div>
-<a id="a0ad5b4de404b1f8312341a28a1a58b5b" name="a0ad5b4de404b1f8312341a28a1a58b5b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ad5b4de404b1f8312341a28a1a58b5b">&#9670;&#160;</a></span>ModifyIf()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TaskScheduler::TaskQueue::ModifyIf </td>
-          <td>(</td>
-          <td class="paramtype">std::function&lt; bool(<a class="el" href="../../dc/d4a/a05587.html#a0c6c7a95026322208866b6b829e0b598">TaskContainer</a> const &amp;)&gt; const &amp;&#160;</td>
-          <td class="paramname"><em>filter</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  168</span>{</div>
-<div class="line"><span class="lineno">  169</span>    std::vector&lt;TaskContainer&gt; cache;</div>
-<div class="line"><span class="lineno">  170</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../d8/d26/a05599.html#acc56bddf7e586a3a950f608efb730498">container</a>.begin(); itr != <a class="code hl_variable" href="../../d8/d26/a05599.html#acc56bddf7e586a3a950f608efb730498">container</a>.end();)</div>
-<div class="line"><span class="lineno">  171</span>        <span class="keywordflow">if</span> (filter(*itr))</div>
-<div class="line"><span class="lineno">  172</span>        {</div>
-<div class="line"><span class="lineno">  173</span>            cache.push_back(*itr);</div>
-<div class="line"><span class="lineno">  174</span>            itr = <a class="code hl_variable" href="../../d8/d26/a05599.html#acc56bddf7e586a3a950f608efb730498">container</a>.erase(itr);</div>
-<div class="line"><span class="lineno">  175</span>        }</div>
-<div class="line"><span class="lineno">  176</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  177</span>        {</div>
-<div class="line"><span class="lineno">  178</span>            ++itr;</div>
-<div class="line"><span class="lineno">  179</span>        }</div>
-<div class="line"><span class="lineno">  180</span> </div>
-<div class="line"><span class="lineno">  181</span>    <a class="code hl_variable" href="../../d8/d26/a05599.html#acc56bddf7e586a3a950f608efb730498">container</a>.insert(cache.begin(), cache.end());</div>
-<div class="line"><span class="lineno">  182</span>}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00283">TaskScheduler::DelayAll()</a>, <a class="el" href="../../#l00303">TaskScheduler::DelayGroup()</a>, <a class="el" href="../../#l00331">TaskScheduler::RescheduleAll()</a>, and <a class="el" href="../../#l00352">TaskScheduler::RescheduleGroup()</a>.</p>
-
-</div>
-</div>
-<a id="a5f5d6b5a4a5e4ec93ff94619485736cb" name="a5f5d6b5a4a5e4ec93ff94619485736cb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5f5d6b5a4a5e4ec93ff94619485736cb">&#9670;&#160;</a></span>Pop()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">auto TaskScheduler::TaskQueue::Pop </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p>Pops the task out of the container. </p>
-<div class="fragment"><div class="line"><span class="lineno">  138</span>{</div>
-<div class="line"><span class="lineno">  139</span>    <a class="code hl_typedef" href="../../dc/d4a/a05587.html#a0c6c7a95026322208866b6b829e0b598">TaskContainer</a> result = *<a class="code hl_variable" href="../../d8/d26/a05599.html#acc56bddf7e586a3a950f608efb730498">container</a>.begin();</div>
-<div class="line"><span class="lineno">  140</span>    <a class="code hl_variable" href="../../d8/d26/a05599.html#acc56bddf7e586a3a950f608efb730498">container</a>.erase(<a class="code hl_variable" href="../../d8/d26/a05599.html#acc56bddf7e586a3a950f608efb730498">container</a>.begin());</div>
-<div class="line"><span class="lineno">  141</span>    <span class="keywordflow">return</span> result;</div>
-<div class="line"><span class="lineno">  142</span>}</div>
-<div class="ttc" id="aa05587_html_a0c6c7a95026322208866b6b829e0b598"><div class="ttname"><a href="../../dc/d4a/a05587.html#a0c6c7a95026322208866b6b829e0b598">TaskScheduler::TaskContainer</a></div><div class="ttdeci">std::shared_ptr&lt; Task &gt; TaskContainer</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:118</div></div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00076">TaskScheduler::Dispatch()</a>.</p>
-
-</div>
-</div>
-<a id="aff6bc8c7fae6640b555ddb027cf0f6ab" name="aff6bc8c7fae6640b555ddb027cf0f6ab"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aff6bc8c7fae6640b555ddb027cf0f6ab">&#9670;&#160;</a></span>Push()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TaskScheduler::TaskQueue::Push </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/d4a/a05587.html#a0c6c7a95026322208866b6b829e0b598">TaskContainer</a> &amp;&amp;&#160;</td>
-          <td class="paramname"><em>task</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  133</span>{</div>
-<div class="line"><span class="lineno">  134</span>    <a class="code hl_variable" href="../../d8/d26/a05599.html#acc56bddf7e586a3a950f608efb730498">container</a>.insert(task);</div>
-<div class="line"><span class="lineno">  135</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00131">container</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00070">TaskScheduler::InsertTask()</a>.</p>
-
-</div>
-</div>
-<a id="a6efe3145679913fde4d4cc1f8cc819e6" name="a6efe3145679913fde4d4cc1f8cc819e6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6efe3145679913fde4d4cc1f8cc819e6">&#9670;&#160;</a></span>RemoveIf()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void TaskScheduler::TaskQueue::RemoveIf </td>
-          <td>(</td>
-          <td class="paramtype">std::function&lt; bool(<a class="el" href="../../dc/d4a/a05587.html#a0c6c7a95026322208866b6b829e0b598">TaskContainer</a> const &amp;)&gt; const &amp;&#160;</td>
-          <td class="paramname"><em>filter</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  155</span>{</div>
-<div class="line"><span class="lineno">  156</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../d8/d26/a05599.html#acc56bddf7e586a3a950f608efb730498">container</a>.begin(); itr != <a class="code hl_variable" href="../../d8/d26/a05599.html#acc56bddf7e586a3a950f608efb730498">container</a>.end();)</div>
-<div class="line"><span class="lineno">  157</span>        <span class="keywordflow">if</span> (filter(*itr))</div>
-<div class="line"><span class="lineno">  158</span>        {</div>
-<div class="line"><span class="lineno">  159</span>            itr = <a class="code hl_variable" href="../../d8/d26/a05599.html#acc56bddf7e586a3a950f608efb730498">container</a>.erase(itr);</div>
-<div class="line"><span class="lineno">  160</span>        }</div>
-<div class="line"><span class="lineno">  161</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  162</span>        {</div>
-<div class="line"><span class="lineno">  163</span>            ++itr;</div>
-<div class="line"><span class="lineno">  164</span>        }</div>
-<div class="line"><span class="lineno">  165</span>}</div>
-</div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00053">TaskScheduler::CancelGroup()</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="acc56bddf7e586a3a950f608efb730498" name="acc56bddf7e586a3a950f608efb730498"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acc56bddf7e586a3a950f608efb730498">&#9670;&#160;</a></span>container</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a15fd2d39bf79bd4d8ea432b5543f5efc" name="a15fd2d39bf79bd4d8ea432b5543f5efc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a15fd2d39bf79bd4d8ea432b5543f5efc">&#9670;&#160;</a></span>Task() <span class="overload">[1/4]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -399,7 +168,385 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::multiset&lt;<a class="el" href="../../dc/d4a/a05587.html#a0c6c7a95026322208866b6b829e0b598">TaskContainer</a>, <a class="el" href="../../d6/d66/a05595.html">Compare</a>&gt; TaskScheduler::TaskQueue::container</td>
+          <td class="memname">TaskScheduler::Task::Task </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d66/a05595.html#a0e14d7b24d018a41c9dc849e1421d5e7">timepoint_t</a> const &amp;&#160;</td>
+          <td class="paramname"><em>end</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d66/a05595.html#a9c6be5fc079684953f911548fb66cb21">duration_t</a> const &amp;&#160;</td>
+          <td class="paramname"><em>duration</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::optional&lt; <a class="el" href="../../d6/d66/a05595.html#a998482c629b3a5783373a6d3ac30e1ed">group_t</a> &gt; const &amp;&#160;</td>
+          <td class="paramname"><em>group</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d66/a05595.html#af3067f67a46b296be44fca007a2d3690">repeated_t</a> const&#160;</td>
+          <td class="paramname"><em>repeated</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d66/a05595.html#a529b1284294a63217e3f9fa56c170743">task_handler_t</a> const &amp;&#160;</td>
+          <td class="paramname"><em>task</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   79</span>            : <a class="code hl_variable" href="../../d8/d26/a05599.html#a09a7b8fbb3878aef1cc5f76367e4d43b">_end</a>(end), <a class="code hl_variable" href="../../d8/d26/a05599.html#add2dd72f389df2168012eb70160f6eb3">_duration</a>(duration), <a class="code hl_variable" href="../../d8/d26/a05599.html#ad9e890cbd7ed9ff7b8829e132605d432">_group</a>(group), <a class="code hl_variable" href="../../d8/d26/a05599.html#a85e8a2803a79f877e94162cc824fabbe">_repeated</a>(repeated), <a class="code hl_variable" href="../../d8/d26/a05599.html#a0d846eeae80d54906771ba41281fbdc0">_task</a>(task) { }</div>
+<div class="ttc" id="aa05599_html_a09a7b8fbb3878aef1cc5f76367e4d43b"><div class="ttname"><a href="../../d8/d26/a05599.html#a09a7b8fbb3878aef1cc5f76367e4d43b">TaskScheduler::Task::_end</a></div><div class="ttdeci">timepoint_t _end</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:69</div></div>
+<div class="ttc" id="aa05599_html_a0d846eeae80d54906771ba41281fbdc0"><div class="ttname"><a href="../../d8/d26/a05599.html#a0d846eeae80d54906771ba41281fbdc0">TaskScheduler::Task::_task</a></div><div class="ttdeci">task_handler_t _task</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:73</div></div>
+<div class="ttc" id="aa05599_html_a85e8a2803a79f877e94162cc824fabbe"><div class="ttname"><a href="../../d8/d26/a05599.html#a85e8a2803a79f877e94162cc824fabbe">TaskScheduler::Task::_repeated</a></div><div class="ttdeci">repeated_t _repeated</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:72</div></div>
+<div class="ttc" id="aa05599_html_ad9e890cbd7ed9ff7b8829e132605d432"><div class="ttname"><a href="../../d8/d26/a05599.html#ad9e890cbd7ed9ff7b8829e132605d432">TaskScheduler::Task::_group</a></div><div class="ttdeci">std::optional&lt; group_t &gt; _group</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:71</div></div>
+<div class="ttc" id="aa05599_html_add2dd72f389df2168012eb70160f6eb3"><div class="ttname"><a href="../../d8/d26/a05599.html#add2dd72f389df2168012eb70160f6eb3">TaskScheduler::Task::_duration</a></div><div class="ttdeci">duration_t _duration</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:70</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ad9b788727c5e8dfa5c424970f882b1dc" name="ad9b788727c5e8dfa5c424970f882b1dc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad9b788727c5e8dfa5c424970f882b1dc">&#9670;&#160;</a></span>Task() <span class="overload">[2/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">TaskScheduler::Task::Task </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d66/a05595.html#a0e14d7b24d018a41c9dc849e1421d5e7">timepoint_t</a> const &amp;&#160;</td>
+          <td class="paramname"><em>end</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d66/a05595.html#a9c6be5fc079684953f911548fb66cb21">duration_t</a> const &amp;&#160;</td>
+          <td class="paramname"><em>duration</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d66/a05595.html#a529b1284294a63217e3f9fa56c170743">task_handler_t</a> const &amp;&#160;</td>
+          <td class="paramname"><em>task</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   83</span>            : <a class="code hl_variable" href="../../d8/d26/a05599.html#a09a7b8fbb3878aef1cc5f76367e4d43b">_end</a>(end), <a class="code hl_variable" href="../../d8/d26/a05599.html#add2dd72f389df2168012eb70160f6eb3">_duration</a>(duration), <a class="code hl_variable" href="../../d8/d26/a05599.html#ad9e890cbd7ed9ff7b8829e132605d432">_group</a>(std::nullopt), <a class="code hl_variable" href="../../d8/d26/a05599.html#a85e8a2803a79f877e94162cc824fabbe">_repeated</a>(0), <a class="code hl_variable" href="../../d8/d26/a05599.html#a0d846eeae80d54906771ba41281fbdc0">_task</a>(task) { }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a7eec23707deabeb93b600ad1b17812d6" name="a7eec23707deabeb93b600ad1b17812d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7eec23707deabeb93b600ad1b17812d6">&#9670;&#160;</a></span>Task() <span class="overload">[3/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">TaskScheduler::Task::Task </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d26/a05599.html">Task</a> const &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">delete</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a9acec30a90c44ffcff66c256a9caf01a" name="a9acec30a90c44ffcff66c256a9caf01a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9acec30a90c44ffcff66c256a9caf01a">&#9670;&#160;</a></span>Task() <span class="overload">[4/4]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">TaskScheduler::Task::Task </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d26/a05599.html">Task</a> &amp;&amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">delete</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a0bbb86f1ed4357c9af9813e551fc41d7" name="a0bbb86f1ed4357c9af9813e551fc41d7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0bbb86f1ed4357c9af9813e551fc41d7">&#9670;&#160;</a></span>IsInGroup()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool TaskScheduler::Task::IsInGroup </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d66/a05595.html#a998482c629b3a5783373a6d3ac30e1ed">group_t</a> const&#160;</td>
+          <td class="paramname"><em>group</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  113</span>        {</div>
+<div class="line"><span class="lineno">  114</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/d26/a05599.html#ad9e890cbd7ed9ff7b8829e132605d432">_group</a> == group;</div>
+<div class="line"><span class="lineno">  115</span>        }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00071">_group</a>.</p>
+
+</div>
+</div>
+<a id="aa53b9d06447478218858aaff7634daab" name="aa53b9d06447478218858aaff7634daab"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa53b9d06447478218858aaff7634daab">&#9670;&#160;</a></span>operator&lt;()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool TaskScheduler::Task::operator&lt; </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d26/a05599.html">Task</a> const &amp;&#160;</td>
+          <td class="paramname"><em>other</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   96</span>        {</div>
+<div class="line"><span class="lineno">   97</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/d26/a05599.html#a09a7b8fbb3878aef1cc5f76367e4d43b">_end</a> &lt; other._end;</div>
+<div class="line"><span class="lineno">   98</span>        }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00069">_end</a>.</p>
+
+</div>
+</div>
+<a id="af7f962055b0324a6fedcdd91d9d375dd" name="af7f962055b0324a6fedcdd91d9d375dd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af7f962055b0324a6fedcdd91d9d375dd">&#9670;&#160;</a></span>operator=() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d26/a05599.html">Task</a> &amp; TaskScheduler::Task::operator= </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d26/a05599.html">Task</a> &amp;&amp;&#160;</td>
+          <td class="paramname"><em>right</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">delete</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a97319b03103a3013d96f7abe094ab6a5" name="a97319b03103a3013d96f7abe094ab6a5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a97319b03103a3013d96f7abe094ab6a5">&#9670;&#160;</a></span>operator=() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d26/a05599.html">Task</a> &amp; TaskScheduler::Task::operator= </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d26/a05599.html">Task</a> const &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac245f8900a292b6ad6ece4c44da85e11" name="ac245f8900a292b6ad6ece4c44da85e11"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac245f8900a292b6ad6ece4c44da85e11">&#9670;&#160;</a></span>operator==()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool TaskScheduler::Task::operator== </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d26/a05599.html">Task</a> const &amp;&#160;</td>
+          <td class="paramname"><em>other</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  107</span>        {</div>
+<div class="line"><span class="lineno">  108</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/d26/a05599.html#a09a7b8fbb3878aef1cc5f76367e4d43b">_end</a> == other._end;</div>
+<div class="line"><span class="lineno">  109</span>        }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00069">_end</a>.</p>
+
+</div>
+</div>
+<a id="a45990c164939b2c5a4fafc541103f70f" name="a45990c164939b2c5a4fafc541103f70f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a45990c164939b2c5a4fafc541103f70f">&#9670;&#160;</a></span>operator&gt;()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool TaskScheduler::Task::operator&gt; </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d8/d26/a05599.html">Task</a> const &amp;&#160;</td>
+          <td class="paramname"><em>other</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  101</span>        {</div>
+<div class="line"><span class="lineno">  102</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d8/d26/a05599.html#a09a7b8fbb3878aef1cc5f76367e4d43b">_end</a> &gt; other._end;</div>
+<div class="line"><span class="lineno">  103</span>        }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00069">_end</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Friends And Related Function Documentation</h2>
+<a id="ab75a9caf07880e5ba2bb9f75068bbe7e" name="ab75a9caf07880e5ba2bb9f75068bbe7e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab75a9caf07880e5ba2bb9f75068bbe7e">&#9670;&#160;</a></span>TaskContext</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">friend class <a class="el" href="../../d6/df6/a05611.html">TaskContext</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a9f0573c5408a663c3874787eeb7d599e" name="a9f0573c5408a663c3874787eeb7d599e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9f0573c5408a663c3874787eeb7d599e">&#9670;&#160;</a></span>TaskScheduler</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">friend class <a class="el" href="../../d6/d66/a05595.html">TaskScheduler</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="add2dd72f389df2168012eb70160f6eb3" name="add2dd72f389df2168012eb70160f6eb3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#add2dd72f389df2168012eb70160f6eb3">&#9670;&#160;</a></span>_duration</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d66/a05595.html#a9c6be5fc079684953f911548fb66cb21">duration_t</a> TaskScheduler::Task::_duration</td>
         </tr>
       </table>
   </td>
@@ -409,7 +556,97 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00132">Push()</a>.</p>
+</div>
+</div>
+<a id="a09a7b8fbb3878aef1cc5f76367e4d43b" name="a09a7b8fbb3878aef1cc5f76367e4d43b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a09a7b8fbb3878aef1cc5f76367e4d43b">&#9670;&#160;</a></span>_end</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d66/a05595.html#a0e14d7b24d018a41c9dc849e1421d5e7">timepoint_t</a> TaskScheduler::Task::_end</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00095">operator&lt;()</a>, <a class="el" href="../../#l00106">operator==()</a>, and <a class="el" href="../../#l00100">operator&gt;()</a>.</p>
+
+</div>
+</div>
+<a id="ad9e890cbd7ed9ff7b8829e132605d432" name="ad9e890cbd7ed9ff7b8829e132605d432"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad9e890cbd7ed9ff7b8829e132605d432">&#9670;&#160;</a></span>_group</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::optional&lt;<a class="el" href="../../d6/d66/a05595.html#a998482c629b3a5783373a6d3ac30e1ed">group_t</a>&gt; TaskScheduler::Task::_group</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00112">IsInGroup()</a>.</p>
+
+</div>
+</div>
+<a id="a85e8a2803a79f877e94162cc824fabbe" name="a85e8a2803a79f877e94162cc824fabbe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a85e8a2803a79f877e94162cc824fabbe">&#9670;&#160;</a></span>_repeated</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d66/a05595.html#af3067f67a46b296be44fca007a2d3690">repeated_t</a> TaskScheduler::Task::_repeated</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a0d846eeae80d54906771ba41281fbdc0" name="a0d846eeae80d54906771ba41281fbdc0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0d846eeae80d54906771ba41281fbdc0">&#9670;&#160;</a></span>_task</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d66/a05595.html#a529b1284294a63217e3f9fa56c170743">task_handler_t</a> TaskScheduler::Task::_task</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -418,8 +655,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dc/d4a/a05587.html">TaskScheduler</a></li><li class="navelem"><a class="el" href="../../d8/d26/a05599.html">TaskQueue</a></li>
-    <li class="footer">Generated on Mon Oct 6 2025 20:46:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d6/d66/a05595.html">TaskScheduler</a></li><li class="navelem"><a class="el" href="../../d8/d26/a05599.html">Task</a></li>
+    <li class="footer">Generated on Mon Oct 13 2025 20:46:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,7 +1,7 @@
 var a22119 =
 [
-    [ "npc_emilyAI", "d9/d5e/a22123.html", "d9/d5e/a22123" ],
-    [ "npc_emily", "d6/dbb/a22119.html#ab40f581fad087b3d32a7724fca97895d", null ],
-    [ "GetAI", "d6/dbb/a22119.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
-    [ "OnQuestAccept", "d6/dbb/a22119.html#ad434e7bf2427b3575a8459021e792152", null ]
+    [ "HandleScriptEffect", "d6/dbb/a22119.html#a8df8d5addea956e80ad0a30ff8f73050", null ],
+    [ "PrepareSpellScript", "d6/dbb/a22119.html#adf6593e47a5766c40e7e3859fce00f81", null ],
+    [ "Register", "d6/dbb/a22119.html#a6e3bbfb11816f72ae85efb4defb23ad7", null ],
+    [ "Validate", "d6/dbb/a22119.html#afdabca016ed5eae85a0bdb3fd9d695ec", null ]
 ];

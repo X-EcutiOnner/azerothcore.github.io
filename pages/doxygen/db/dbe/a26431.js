@@ -1,7 +1,7 @@
 var a26431 =
 [
-    [ "HandleScriptEffect", "db/dbe/a26431.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
-    [ "Load", "db/dbe/a26431.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
-    [ "PrepareSpellScript", "db/dbe/a26431.html#ade09cd376d00df8b5e709026e353f409", null ],
-    [ "Register", "db/dbe/a26431.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
+    [ "HandleScriptEffect", "db/dbe/a26431.html#a8c7ede10a8f7d0c1ea04c21166807995", null ],
+    [ "PrepareSpellScript", "db/dbe/a26431.html#af52663b01774372d3e6f695d2f395cb5", null ],
+    [ "Register", "db/dbe/a26431.html#abcefab06ff481fad88be4d7ad9289808", null ],
+    [ "Validate", "db/dbe/a26431.html#af269a7085412b5a889dfb802d1dc7fbe", null ]
 ];

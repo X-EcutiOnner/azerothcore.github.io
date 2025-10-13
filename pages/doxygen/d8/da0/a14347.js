@@ -1,6 +1,6 @@
 var a14347 =
 [
-    [ "npc_brewfest_keg_thrower", "d8/da0/a14347.html#a29da1efd21fe6737684607e5b360ea84", null ],
-    [ "CanBeSeen", "d8/da0/a14347.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
-    [ "MoveInLineOfSight", "d8/da0/a14347.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
+    [ "boss_wushoolayAI", "de/d37/a14351.html", "de/d37/a14351" ],
+    [ "boss_wushoolay", "d8/da0/a14347.html#a68359ee086bb4e86c3c16c4a03e54893", null ],
+    [ "GetAI", "d8/da0/a14347.html#a70b476358956fd05d6effb75517e2b3d", null ]
 ];

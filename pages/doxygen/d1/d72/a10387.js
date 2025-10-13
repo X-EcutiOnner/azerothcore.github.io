@@ -1,6 +1,5 @@
 var a10387 =
 [
-    [ "LootScript", "d1/d72/a10387.html#a57fd5dffc97f62a595f0ff4c2856dbd4", null ],
-    [ "IsDatabaseBound", "d1/d72/a10387.html#ad60b605eac89be48efd339127e9cb9cd", null ],
-    [ "OnLootMoney", "d1/d72/a10387.html#a56a57baead49f6815a9979b181a55375", null ]
+    [ "GenericInstanceMapScript", "d1/d72/a10387.html#a39aef4c434d791f18fc04ea692bf2255", null ],
+    [ "GetInstanceScript", "d1/d72/a10387.html#a8ca7180c1d2f8fb213e8b52bb73b2f76", null ]
 ];

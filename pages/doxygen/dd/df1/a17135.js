@@ -1,13 +1,17 @@
 var a17135 =
 [
-    [ "npc_hor_leader_secondAI", "dd/df1/a17135.html#a54a5094dc533755efc249ebc96663b62", null ],
-    [ "DamageTaken", "dd/df1/a17135.html#ae534779315b04b3dde495b13a1cb28e4", null ],
-    [ "DoAction", "dd/df1/a17135.html#a4185259006017e85fade721796851dd0", null ],
-    [ "MovementInform", "dd/df1/a17135.html#afe93165a3e96496b52a2be8de5022164", null ],
-    [ "MoveToNextStopPoint", "dd/df1/a17135.html#a6d9f65386d6f40a5cf96b09ecaf54871", null ],
-    [ "Reset", "dd/df1/a17135.html#ae5d125deab31e6425e94b4523d8251eb", null ],
-    [ "UpdateAI", "dd/df1/a17135.html#ae991e18a6729a1b088c60060802c01c2", null ],
-    [ "currentStopPoint", "dd/df1/a17135.html#ae4bf31530e701f9e0aa4f253452f9881", null ],
-    [ "events", "dd/df1/a17135.html#a3510e246908f4e5b758e05ca06a29e47", null ],
-    [ "pInstance", "dd/df1/a17135.html#a32cebea12e13c87b45dd2a4c6cf495e5", null ]
+    [ "npc_hor_lich_kingAI", "dd/df1/a17135.html#a689fd445286595780c3d842976a5913f", null ],
+    [ "DoAction", "dd/df1/a17135.html#a904a57d99527b6ff47d4f9ab8751a4a5", null ],
+    [ "JustSummoned", "dd/df1/a17135.html#aed675a5238ca6a6312d1758ecbe86aa2", null ],
+    [ "MovementInform", "dd/df1/a17135.html#aeeea82d3e5869e5f604314474533975c", null ],
+    [ "Reset", "dd/df1/a17135.html#a1f1bb445ea29daaf479e7171c96db901", null ],
+    [ "SpellHitTarget", "dd/df1/a17135.html#adcee3757198acfaf4fd4dc8765b86a98", null ],
+    [ "SummonedCreatureDespawn", "dd/df1/a17135.html#a1f3a49cd9e1f9c1013a7c5c2ead3bb3d", null ],
+    [ "UpdateAI", "dd/df1/a17135.html#a127cc66ea4804da51eb9069037b9ba33", null ],
+    [ "currentWall", "dd/df1/a17135.html#a13c505b17edf9f843c6c638802eb62aa", null ],
+    [ "div2", "dd/df1/a17135.html#a63a1741fba6e0fecaf9aac6b6c397acf", null ],
+    [ "events", "dd/df1/a17135.html#a06550732cba84da4cbd708d03a7bd6bb", null ],
+    [ "pInstance", "dd/df1/a17135.html#a5c8ce256ab8e71705bc8d84f08245417", null ],
+    [ "reqKillCount", "dd/df1/a17135.html#a69da5432ed2b4ef9944fbd19c97d404d", null ],
+    [ "summons", "dd/df1/a17135.html#af55dd229cd141ffab701c6ab77304127", null ]
 ];

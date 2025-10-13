@@ -1,6 +1,6 @@
 var a13839 =
 [
-    [ "npc_ravenclaw_apparitionAI", "de/de8/a13843.html", "de/de8/a13843" ],
-    [ "npc_ravenclaw_apparition", "d0/d92/a13839.html#a961044571250519e62d7d33633974038", null ],
-    [ "GetAI", "d0/d92/a13839.html#a9de4a85f8318ff8b1ad30aa4c8f15765", null ]
+    [ "CheckProc", "d0/d92/a13839.html#af6d00234388ceb5d1c9acd8775c66788", null ],
+    [ "PrepareAuraScript", "d0/d92/a13839.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
+    [ "Register", "d0/d92/a13839.html#acad1e829a317d15e73549047ece67eda", null ]
 ];

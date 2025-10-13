@@ -1,9 +1,10 @@
 var a09807 =
 [
-    [ "RectangleBoundary", "d4/dc7/a09807.html#af401f84700a15fa1d4fcf78358a74735", null ],
-    [ "IsWithinBoundaryArea", "d4/dc7/a09807.html#a2d6c735d080382263a401d91da37b934", null ],
-    [ "_maxX", "d4/dc7/a09807.html#a3eff421dfe942634814e7526334f1c07", null ],
-    [ "_maxY", "d4/dc7/a09807.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
-    [ "_minX", "d4/dc7/a09807.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
-    [ "_minY", "d4/dc7/a09807.html#af5a7e35d5d9ff23c722643141f01a916", null ]
+    [ "DoublePosition", "d3/d74/a09811.html", "d3/d74/a09811" ],
+    [ "~AreaBoundary", "d4/dc7/a09807.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
+    [ "AreaBoundary", "d4/dc7/a09807.html#adf670910c492c08d3384c2dd1824e7ce", null ],
+    [ "IsWithinBoundary", "d4/dc7/a09807.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
+    [ "IsWithinBoundary", "d4/dc7/a09807.html#a1d407f77ce0388263fc0ee6224734213", null ],
+    [ "IsWithinBoundaryArea", "d4/dc7/a09807.html#ae5580b0044dba24d100831fe51ee1abc", null ],
+    [ "_isInvertedBoundary", "d4/dc7/a09807.html#ad416f29594688ce670549d6fdcce4314", null ]
 ];

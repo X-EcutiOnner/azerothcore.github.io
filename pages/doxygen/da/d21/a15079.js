@@ -1,10 +1,5 @@
 var a15079 =
 [
-    [ "instance_maraudon_InstanceMapScript", "da/d21/a15079.html#a9c46508320d3973006561444feae0586", null ],
-    [ "Initialize", "da/d21/a15079.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
-    [ "OnGameObjectCreate", "da/d21/a15079.html#a3a287b97db58c3489815f20ee0d37977", null ],
-    [ "ReadSaveDataMore", "da/d21/a15079.html#ac2cd336874b25ad20dac104037de1df5", null ],
-    [ "SetData", "da/d21/a15079.html#a6e90bf60a076c164e432128f7ec62fba", null ],
-    [ "WriteSaveDataMore", "da/d21/a15079.html#a6e4072342e66689d343912de85e66b34", null ],
-    [ "_encounters", "da/d21/a15079.html#af2e752a791d75e50001060c4a9f18173", null ]
+    [ "npc_black_morass_summoned_add", "da/d21/a15079.html#ab1551fc3e746dc724ea433f7a3daa786", null ],
+    [ "EnterEvadeMode", "da/d21/a15079.html#a437e7b72b985713d22883f3e33f30942", null ]
 ];

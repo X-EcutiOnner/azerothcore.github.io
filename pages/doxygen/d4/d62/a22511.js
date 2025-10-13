@@ -1,6 +1,7 @@
 var a22511 =
 [
-    [ "npc_brunnhildar_prisonerAI", "d2/d11/a22515.html", "d2/d11/a22515" ],
-    [ "npc_brunnhildar_prisoner", "d4/d62/a22511.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
-    [ "GetAI", "d4/d62/a22511.html#aa2a1787849c74a5163a39137c9d03d57", null ]
+    [ "HandleDummy", "d4/d62/a22511.html#a68c638c6e056cbadb101ddd025909f54", null ],
+    [ "PrepareSpellScript", "d4/d62/a22511.html#a5a857bace5232d259145a0a095f70eec", null ],
+    [ "Register", "d4/d62/a22511.html#af9c657e1fac6ee630af0bea337fbff62", null ],
+    [ "Validate", "d4/d62/a22511.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
 ];

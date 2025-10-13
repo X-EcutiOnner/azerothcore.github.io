@@ -1,6 +1,6 @@
 var a19371 =
 [
-    [ "boss_thaddius_summonAI", "dd/d56/a19375.html", "dd/d56/a19375" ],
-    [ "boss_thaddius_summon", "d8/d2a/a19371.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
-    [ "GetAI", "d8/d2a/a19371.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
+    [ "boss_thaddiusAI", "dd/d56/a19375.html", "dd/d56/a19375" ],
+    [ "boss_thaddius", "d8/d2a/a19371.html#aff97b030b861feb646e1b22f60ee3605", null ],
+    [ "GetAI", "d8/d2a/a19371.html#acf841c6897396f517a74932fc3480e69", null ]
 ];

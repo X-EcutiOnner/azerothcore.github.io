@@ -1,7 +1,9 @@
 var a12551 =
 [
-    [ "HandleHit", "da/ded/a12551.html#a18f86449945ade16140ee934a7d8703e", null ],
-    [ "PrepareSpellScript", "da/ded/a12551.html#abaf09043858db27b05fbe544d7a15a8f", null ],
-    [ "Register", "da/ded/a12551.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
-    [ "Validate", "da/ded/a12551.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
+    [ "boss_baron_geddonAI", "da/ded/a12551.html#a3a85b2a6e958a965e52a9fde87c08177", null ],
+    [ "DamageTaken", "da/ded/a12551.html#ad339cb7149b50cf5accc24b5a2d0bf82", null ],
+    [ "ExecuteEvent", "da/ded/a12551.html#a2c3ed57dd0336ce8ac1a85c957da9e4a", null ],
+    [ "JustEngagedWith", "da/ded/a12551.html#a8c5e43b4b4e0583db7dcc93694202bd8", null ],
+    [ "Reset", "da/ded/a12551.html#aaf47fc993e672877f51b5095f682906c", null ],
+    [ "armageddonCasted", "da/ded/a12551.html#a1a034601a7dda94becbf1801bda63d55", null ]
 ];

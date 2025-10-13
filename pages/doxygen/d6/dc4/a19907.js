@@ -1,11 +1,6 @@
 var a19907 =
 [
-    [ "npc_living_constellationAI", "d6/dc4/a19907.html#a54f4e946fad895bca07a59f4e00d10a5", null ],
-    [ "DoAction", "d6/dc4/a19907.html#acdc93a7dc3019940d730fa20d115a929", null ],
-    [ "GetData", "d6/dc4/a19907.html#acb5cc31d7a084e82d8bde3852f9668dd", null ],
-    [ "Reset", "d6/dc4/a19907.html#a664b03bdaea184ab8dd8298ed9952790", null ],
-    [ "SpellHit", "d6/dc4/a19907.html#a4c83ef2d5fe161a90d465a8fbd7eb4f8", null ],
-    [ "UpdateAI", "d6/dc4/a19907.html#ad5b23c3db46b455c9321e7fb29b88572", null ],
-    [ "_isActive", "d6/dc4/a19907.html#a786d2d05f83e59dd0da34f44037bdd35", null ],
-    [ "events", "d6/dc4/a19907.html#a679c9fe1ed357b7c7e1ed1fac01ef8d3", null ]
+    [ "npc_collapsing_starAI", "d6/dc4/a19907.html#ac389b380a8f315ae50a8cd809393a773", null ],
+    [ "DamageTaken", "d6/dc4/a19907.html#a424fac98093eb9d02cda5027523ad06a", null ],
+    [ "JustSummoned", "d6/dc4/a19907.html#ae70fcb66171fe5f87d96aaf2f52e35bc", null ]
 ];

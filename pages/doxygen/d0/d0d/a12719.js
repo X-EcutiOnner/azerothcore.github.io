@@ -1,7 +1,9 @@
 var a12719 =
 [
-    [ "npc_kernobeeAI", "df/d32/a12723.html", "df/d32/a12723" ],
-    [ "npc_kernobee", "d0/d0d/a12719.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
-    [ "GetAI", "d0/d0d/a12719.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
-    [ "OnQuestAccept", "d0/d0d/a12719.html#aa830285cf19211b8233620257735ab62", null ]
+    [ "HandleEffectApply", "d0/d0d/a12719.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
+    [ "HandleEffectRemove", "d0/d0d/a12719.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
+    [ "Load", "d0/d0d/a12719.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
+    [ "PrepareAuraScript", "d0/d0d/a12719.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
+    [ "Register", "d0/d0d/a12719.html#a201bafab6c483b08a6ae27054392dea9", null ],
+    [ "Validate", "d0/d0d/a12719.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
 ];

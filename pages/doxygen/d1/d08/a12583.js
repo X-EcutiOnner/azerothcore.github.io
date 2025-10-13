@@ -1,6 +1,7 @@
 var a12583 =
 [
-    [ "boss_lucifronAI", "d1/d08/a12583.html#ab93792bd7798b9ee9cf869fa20190554", null ],
-    [ "ExecuteEvent", "d1/d08/a12583.html#a0ba286f037c07032488d6763daeaf130", null ],
-    [ "JustEngagedWith", "d1/d08/a12583.html#aba3256ec99e56e3051045391fceedc7f", null ]
+    [ "HandleHit", "d1/d08/a12583.html#a18f86449945ade16140ee934a7d8703e", null ],
+    [ "PrepareSpellScript", "d1/d08/a12583.html#abaf09043858db27b05fbe544d7a15a8f", null ],
+    [ "Register", "d1/d08/a12583.html#abe0733be2e32ff616c48acaeeb1d39e9", null ],
+    [ "Validate", "d1/d08/a12583.html#abc970a8b4a8f27f81f392cebf81dc574", null ]
 ];

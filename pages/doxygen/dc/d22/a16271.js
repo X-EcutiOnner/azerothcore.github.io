@@ -1,6 +1,6 @@
 var a16271 =
 [
-    [ "SendEncounterUnit", "dc/d22/a16271.html#a5300ba7c1a8001bbf52c56fc2e5dc331", null ],
-    [ "Execute", "dc/d22/a16271.html#ae21b67f8fe8a0677778436563872495f", null ],
-    [ "_owner", "dc/d22/a16271.html#a6e1569fb7fa159fe702defbab1e123b6", null ]
+    [ "npc_onyx_flamecallerAI", "de/db1/a16275.html", "de/db1/a16275" ],
+    [ "npc_onyx_flamecaller", "dc/d22/a16271.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
+    [ "GetAI", "dc/d22/a16271.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
 ];

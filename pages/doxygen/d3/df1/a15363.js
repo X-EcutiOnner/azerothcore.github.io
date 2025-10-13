@@ -1,7 +1,6 @@
 var a15363 =
 [
-    [ "npc_sartura_royal_guard", "d3/df1/a15363.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
-    [ "JustEngagedWith", "d3/df1/a15363.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
-    [ "Reset", "d3/df1/a15363.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
-    [ "UpdateAI", "d3/df1/a15363.html#a2ed50f65847133c897facecbaa4711d8", null ]
+    [ "OnRemove", "d3/df1/a15363.html#a85595fed0e9b6a2ced18aeb4acffcf81", null ],
+    [ "PrepareAuraScript", "d3/df1/a15363.html#a47849d8241ed17ad0fb541c1178b0760", null ],
+    [ "Register", "d3/df1/a15363.html#aa23231c5c324e73930fdf8d784b0edb4", null ]
 ];

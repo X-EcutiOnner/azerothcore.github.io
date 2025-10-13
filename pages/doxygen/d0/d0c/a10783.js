@@ -1,7 +1,13 @@
 var a10783 =
 [
-    [ "GuildBankTextQueryResult", "d0/d0c/a10783.html#aa1e25895e246c3a688d7850e517858d3", null ],
-    [ "Write", "d0/d0c/a10783.html#acb6b28dcf56b821e3c0d5b58f6baa2dd", null ],
-    [ "Tab", "d0/d0c/a10783.html#abfc5522a0f94086474493db85ed1ef73", null ],
-    [ "Text", "d0/d0c/a10783.html#ae78c1d1b802e12efd058987117158ec3", null ]
+    [ "GuildBankQueryResults", "d0/d0c/a10783.html#a8203a35b76fdc674794c5bd3c1acb9ed", null ],
+    [ "SetWithdrawalsRemaining", "d0/d0c/a10783.html#a52af0d2b4e092daf0719bdf325c51652", null ],
+    [ "Write", "d0/d0c/a10783.html#a4598c0c9d1f94c5aa0671f210e1597d4", null ],
+    [ "_withdrawalsRemainingPos", "d0/d0c/a10783.html#abe711cd2da225fdc73eabe2ad6bd3f5d", null ],
+    [ "FullUpdate", "d0/d0c/a10783.html#a42ca9b48981d7d338aecb7840c248f0f", null ],
+    [ "ItemInfo", "d0/d0c/a10783.html#ad799195b259f92aa4e71e1ee8fd99741", null ],
+    [ "Money", "d0/d0c/a10783.html#ad401eb3444f5ae50781e634e1f55eba1", null ],
+    [ "Tab", "d0/d0c/a10783.html#a72ac06ace5e7974d666e3fc3d626e3c0", null ],
+    [ "TabInfo", "d0/d0c/a10783.html#ad36f0ae1d897ef504ad9761c00db77ca", null ],
+    [ "WithdrawalsRemaining", "d0/d0c/a10783.html#a211288bde5a15f2d21df65acf087c7d0", null ]
 ];

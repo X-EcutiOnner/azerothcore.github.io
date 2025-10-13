@@ -1,10 +1,10 @@
 var a28715 =
 [
-    [ "area_id", "d5/ddf/a28715.html#acbd77950bf9548d266e568640cf38458", null ],
-    [ "map_id", "d5/ddf/a28715.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
-    [ "virtual_map_id", "d5/ddf/a28715.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
-    [ "x1", "d5/ddf/a28715.html#a78967fef40841f705c2564a177cb36f3", null ],
-    [ "x2", "d5/ddf/a28715.html#a037dca812715df0b4f2551f8684b537c", null ],
-    [ "y1", "d5/ddf/a28715.html#a7f90073656e1cd00a88add9f8d881d11", null ],
-    [ "y2", "d5/ddf/a28715.html#ad8e0164952e5565488d5443f269ec79e", null ]
+    [ "ID", "d5/ddf/a28715.html#a090069d13cbbcc5762ecca600c506492", null ],
+    [ "map_id", "d5/ddf/a28715.html#a685931e2a361f9e0fc81c004c7467d19", null ],
+    [ "MountCreatureID", "d5/ddf/a28715.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
+    [ "name", "d5/ddf/a28715.html#ae00db3ea736c3a470f6f0690c178e758", null ],
+    [ "x", "d5/ddf/a28715.html#a7cbd40848094fa367862d653b0f7170d", null ],
+    [ "y", "d5/ddf/a28715.html#a9380befd45cab3104003b2487464bd71", null ],
+    [ "z", "d5/ddf/a28715.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
 ];

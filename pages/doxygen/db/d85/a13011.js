@@ -1,5 +1,7 @@
 var a13011 =
 [
-    [ "boss_eramas_brightblaze", "db/d85/a13011.html#a14d1528750036f27948f5de8a2b44bd3", null ],
-    [ "JustEngagedWith", "db/d85/a13011.html#ad34613d2795f7371a43891488044392a", null ]
+    [ "HandleDummy", "db/d85/a13011.html#ac2889b1744117f8c0bffcce04952d7c2", null ],
+    [ "PrepareSpellScript", "db/d85/a13011.html#a5738144c85424e11f33aada38273e24e", null ],
+    [ "Register", "db/d85/a13011.html#a206a4d40e082246193ba36c9080cdac1", null ],
+    [ "Validate", "db/d85/a13011.html#a0718461731d563d2c948848f60101d49", null ]
 ];

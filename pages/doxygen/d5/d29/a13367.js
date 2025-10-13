@@ -1,11 +1,7 @@
 var a13367 =
 [
-    [ "boss_baroness_anastariAI", "d5/d29/a13367.html#acf180bbe881ba1f6e49c075254759c00", null ],
-    [ "JustDied", "d5/d29/a13367.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
-    [ "JustEngagedWith", "d5/d29/a13367.html#a7329455d99045e7002abffe09112a4ea", null ],
-    [ "Reset", "d5/d29/a13367.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
-    [ "SchedulePossession", "d5/d29/a13367.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
-    [ "UpdateAI", "d5/d29/a13367.html#a962e4e3091d126682825c326af5f6922", null ],
-    [ "_possessedTargetGuid", "d5/d29/a13367.html#a36e386b847c7032b5ce95a01070518ad", null ],
-    [ "_scheduler", "d5/d29/a13367.html#aa59518627a5e64e371dbbb45cfced75f", null ]
+    [ "HandleScript", "d5/d29/a13367.html#ab705220b48be16090107135f9e2272cf", null ],
+    [ "PrepareSpellScript", "d5/d29/a13367.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
+    [ "Register", "d5/d29/a13367.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
+    [ "Validate", "d5/d29/a13367.html#ad1d90693a427a52fa728e5ae455932a3", null ]
 ];

@@ -1,7 +1,6 @@
 var a20471 =
 [
-    [ "HandleAfterEffectApply", "df/da2/a20471.html#adab765d78094eec673abce5140145267", null ],
-    [ "OnApply", "df/da2/a20471.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
-    [ "PrepareAuraScript", "df/da2/a20471.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
-    [ "Register", "df/da2/a20471.html#ac1007ce2ee5e046639829558855f0188", null ]
+    [ "FilterTargets", "df/da2/a20471.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
+    [ "PrepareSpellScript", "df/da2/a20471.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
+    [ "Register", "df/da2/a20471.html#af6704b0789566b2b385ac573eaa50f06", null ]
 ];

@@ -1,6 +1,12 @@
 var a12263 =
 [
-    [ "boss_solakar_flamewreathAI", "db/d1b/a12267.html", "db/d1b/a12267" ],
-    [ "boss_solakar_flamewreath", "d1/d3b/a12263.html#a0d5a9f9525303014e72cd98d45bf302f", null ],
-    [ "GetAI", "d1/d3b/a12263.html#a0bd7971406392f15f68828ed217f4d06", null ]
+    [ "boss_pyroguard_emberseerAI", "d1/d3b/a12263.html#ac08deea0d151d109f36bb3cf66a34f29", null ],
+    [ "JustDied", "d1/d3b/a12263.html#aa35fc50d327c0bf7506bfd166d098522", null ],
+    [ "JustEngagedWith", "d1/d3b/a12263.html#a9eff335ff04e3da1e4488e00b55ecbaa", null ],
+    [ "OpenDoors", "d1/d3b/a12263.html#a8002f8d7b6b06b970d38d9824d57d737", null ],
+    [ "Reset", "d1/d3b/a12263.html#ab82a2bc6e9596d14dd2fd65b859af74d", null ],
+    [ "SetData", "d1/d3b/a12263.html#a5892ccaf9107e2da47c22c21bf5b2ed9", null ],
+    [ "SpellHit", "d1/d3b/a12263.html#a236f20c40eb1c37a25b04b5cf83e2488", null ],
+    [ "UpdateAI", "d1/d3b/a12263.html#a075147c4409174652e732293426b732d", null ],
+    [ "UpdateRunes", "d1/d3b/a12263.html#a87d7d63893a9feb6bb6c44adf1c637eb", null ]
 ];

@@ -1,6 +1,6 @@
 var a20975 =
 [
-    [ "HandleScript", "dd/d3a/a20975.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
-    [ "PrepareSpellScript", "dd/d3a/a20975.html#a4fd05478a145157dbd8377532033ab95", null ],
-    [ "Register", "dd/d3a/a20975.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
+    [ "PrepareSpellScript", "dd/d3a/a20975.html#a525025d429743f9d606289ca1a660796", null ],
+    [ "Register", "dd/d3a/a20975.html#a66f565c07d495f27aaba393fdcce9d24", null ],
+    [ "SelectTarget", "dd/d3a/a20975.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
 ];

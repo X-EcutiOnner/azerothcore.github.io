@@ -1,10 +1,9 @@
 var a03833 =
 [
-    [ "OutdoorPvP_nagrand", "d5/dd7/a22751.html", "d5/dd7/a22751" ],
-    [ "outdoorpvp_na_halaa_creatures", "dc/d82/a22755.html", "dc/d82/a22755" ],
-    [ "AddSC_outdoorpvp_na", "de/d6a/a03833.html#a03015585e7619177355fefd05f85e1c7", null ],
-    [ "FlagPlayerPvP", "de/d6a/a03833.html#ab1d33448696056a0951a0c306a511f1e", null ],
-    [ "UpdateCreatureHalaa", "de/d6a/a03833.html#a37af66c813e135cc11bd1dc663b35697", null ],
-    [ "halaaNPCAlly", "de/d6a/a03833.html#a3428675268608e5372767fc629259d5c", null ],
-    [ "halaaNPCHorde", "de/d6a/a03833.html#a531a4e8a5291c048ad0f3b0fc64b29d9", null ]
+    [ "OutdoorPvP_hellfire_peninsula", "da/d46/a22747.html", "da/d46/a22747" ],
+    [ "AddSC_outdoorpvp_hp", "de/d6a/a03833.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
+    [ "HP_LANG_CAPTURE_A", "de/d6a/a03833.html#a642fe1233b764402bae812604b684442", null ],
+    [ "HP_LANG_CAPTURE_H", "de/d6a/a03833.html#a3ae9bb2c949b7f3c852ce2e4552d8ccd", null ],
+    [ "HP_LANG_LOSE_A", "de/d6a/a03833.html#a1b9adf9c71e549e4545c2e4eabe58dd5", null ],
+    [ "HP_LANG_LOSE_H", "de/d6a/a03833.html#ad62cd8f07ac98311202494985c6ae9c8", null ]
 ];

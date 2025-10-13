@@ -1,6 +1,6 @@
 var a14959 =
 [
-    [ "npc_crate_helperAI", "d3/d36/a14959.html#ad58a2f3746da7862658fb3b9e1580836", null ],
-    [ "SpellHit", "d3/d36/a14959.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
-    [ "_marked", "d3/d36/a14959.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
+    [ "boss_salrammAI", "d5/dc8/a14963.html", "d5/dc8/a14963" ],
+    [ "boss_salramm", "d3/d36/a14959.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
+    [ "GetAI", "d3/d36/a14959.html#ab6b400f0d329d4def074d012de47f53d", null ]
 ];

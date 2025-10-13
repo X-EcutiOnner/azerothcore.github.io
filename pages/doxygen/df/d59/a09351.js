@@ -1,8 +1,7 @@
 var a09351 =
 [
-    [ "NearestGameObjectCheck", "df/d59/a09351.html#aa8ede7ca83cc53cc5b4a8a057f6e8477", null ],
-    [ "NearestGameObjectCheck", "df/d59/a09351.html#a366ef1710823d1e52eb2df650e60562f", null ],
-    [ "operator()", "df/d59/a09351.html#a00df56adb5c6459c59b5ae4e0b85f0d3", null ],
-    [ "i_obj", "df/d59/a09351.html#aeaec0e0f53cb870e1f0a93f8b05b74bc", null ],
-    [ "i_range", "df/d59/a09351.html#a92fc9a7ac2995ad962173ae3a794e825", null ]
+    [ "GameObjectFocusCheck", "df/d59/a09351.html#a06607ffa0ebf51c230f4584632a7444a", null ],
+    [ "operator()", "df/d59/a09351.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b", null ],
+    [ "i_focusId", "df/d59/a09351.html#ace009546c2dcc6dac5de98b3c34152a5", null ],
+    [ "i_unit", "df/d59/a09351.html#a0afc07e086f5aa3301c2b46a0004213e", null ]
 ];

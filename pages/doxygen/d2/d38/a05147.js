@@ -1,7 +1,8 @@
 var a05147 =
 [
-    [ "operator()", "d2/d38/a05147.html#af1b2d9b7517b57a5a0a598f58b470c33", null ],
-    [ "closestEntity", "d2/d38/a05147.html#ab377424b7edd0274f61967619700f841", null ],
-    [ "hitLocation", "d2/d38/a05147.html#a00e778dd78dca96391d200e18dfc2c9d", null ],
-    [ "hitNormal", "d2/d38/a05147.html#a57f40f48c26829f7da9e48efd839d773", null ]
+    [ "ComputeCell", "d2/d38/a05147.html#a32a8b5ab15a28fb06672fcf62ac63d1e", null ],
+    [ "isValid", "d2/d38/a05147.html#afe64d87e738675f1c8cb0fa6d440029c", null ],
+    [ "operator==", "d2/d38/a05147.html#a13e8b2fcda561f185777e4d8b48da3f5", null ],
+    [ "x", "d2/d38/a05147.html#a8435f7d7b8f529dfe397ada59e3405a1", null ],
+    [ "y", "d2/d38/a05147.html#af3d5ae020727d58286ef7725958063a9", null ]
 ];

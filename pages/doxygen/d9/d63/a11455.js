@@ -1,6 +1,6 @@
 var a11455 =
 [
-    [ "AuraDispelHandler", "d9/d63/a11455.html#ab6e675b4db931c601b3d6aef65ae0ff6", null ],
-    [ "Call", "d9/d63/a11455.html#a147d8a6d95f011f27600d052ef7b4000", null ],
-    [ "pHandlerScript", "d9/d63/a11455.html#ab7dd73a36aa517354a023deb7db0cf19", null ]
+    [ "BeforeHitHandler", "d9/d63/a11455.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
+    [ "Call", "d9/d63/a11455.html#a393057cca72c41e193508bf150ed0b1f", null ],
+    [ "_pBeforeHitHandlerScript", "d9/d63/a11455.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ArenaSeasonRewardGroup Struct Reference</title>
+<title>AzerothCore: ArenaTeamScore Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,49 +105,51 @@ $(document).ready(function(){initNavTree('df/df8/a07267.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="#friends">Friends</a> &#124;
 <a href="../../d3/d13/a07264.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ArenaSeasonRewardGroup Struct Reference</div></div>
+  <div class="headertitle"><div class="title">ArenaTeamScore Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">ArenaSeasonMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">ArenaScore.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a128e78db84f099d91e21da77b2147e82"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#a128e78db84f099d91e21da77b2147e82">ArenaSeasonRewardGroup</a> ()=default</td></tr>
-<tr class="separator:a128e78db84f099d91e21da77b2147e82"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a625ef69db8523e1a5e6e5ea16bdacc2f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#a625ef69db8523e1a5e6e5ea16bdacc2f">operator==</a> (const <a class="el" href="../../df/df8/a07267.html">ArenaSeasonRewardGroup</a> &amp;other) const</td></tr>
-<tr class="separator:a625ef69db8523e1a5e6e5ea16bdacc2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
+Protected Member Functions</h2></td></tr>
+<tr class="memitem:a017cd1a4d90a466b42aeab8ff1a12f3a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#a017cd1a4d90a466b42aeab8ff1a12f3a">ArenaTeamScore</a> ()=default</td></tr>
+<tr class="separator:a017cd1a4d90a466b42aeab8ff1a12f3a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade081f31c498ee03a80f73fe70a56cc7"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#ade081f31c498ee03a80f73fe70a56cc7">~ArenaTeamScore</a> ()=default</td></tr>
+<tr class="separator:ade081f31c498ee03a80f73fe70a56cc7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a90611fd5e656d2d62917003ff0a5ff00"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#a90611fd5e656d2d62917003ff0a5ff00">Reset</a> ()</td></tr>
+<tr class="separator:a90611fd5e656d2d62917003ff0a5ff00"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a28c3a055e1ad69693470f38fe676f0c6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#a28c3a055e1ad69693470f38fe676f0c6">Assign</a> (<a class="el" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> ratingChange, <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> matchMakerRating, std::string_view teamName)</td></tr>
+<tr class="separator:a28c3a055e1ad69693470f38fe676f0c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae3e2b8e8a29c50ca20a42a0364349764"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#ae3e2b8e8a29c50ca20a42a0364349764">BuildRatingInfoBlock</a> (<a class="el" href="../../d9/d65/a11159.html">WorldPacket</a> &amp;data)</td></tr>
+<tr class="separator:ae3e2b8e8a29c50ca20a42a0364349764"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa876e0cf0b36f8fdb9efe8989092f143"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#aa876e0cf0b36f8fdb9efe8989092f143">BuildTeamInfoBlock</a> (<a class="el" href="../../d9/d65/a11159.html">WorldPacket</a> &amp;data)</td></tr>
+<tr class="separator:aa876e0cf0b36f8fdb9efe8989092f143"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a2e6a5d2ca970d3921142b497d351c50f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#a2e6a5d2ca970d3921142b497d351c50f">season</a> {}</td></tr>
-<tr class="separator:a2e6a5d2ca970d3921142b497d351c50f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a16261356df6f5aed35bc3ec06ab49560"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d9c/a00413.html#a983281e9aada2538d6bc53ae4dd4d266">ArenaSeasonRewardGroupCriteriaType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a></td></tr>
-<tr class="separator:a16261356df6f5aed35bc3ec06ab49560"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a07507bd59265508a463aa328f343afa0"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> {}</td></tr>
-<tr class="separator:a07507bd59265508a463aa328f343afa0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa3cf9a0ad2ed2170542ec360e61682e2"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> {}</td></tr>
-<tr class="separator:aa3cf9a0ad2ed2170542ec360e61682e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ade97a1ea3355cd19aaf65ab80a26e4bf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#ade97a1ea3355cd19aaf65ab80a26e4bf">rewardMailTemplateID</a> {}</td></tr>
-<tr class="separator:ade97a1ea3355cd19aaf65ab80a26e4bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0574cf3fc910f13413ea7eb1c0f08166"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#a0574cf3fc910f13413ea7eb1c0f08166">rewardMailSubject</a> {}</td></tr>
-<tr class="separator:a0574cf3fc910f13413ea7eb1c0f08166"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afa55d982d4f2ef5f2eccf48ed305b649"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#afa55d982d4f2ef5f2eccf48ed305b649">rewardMailBody</a> {}</td></tr>
-<tr class="separator:afa55d982d4f2ef5f2eccf48ed305b649"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a582c7d51c2ab4bb5cf0e45b773dd20ee"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#a582c7d51c2ab4bb5cf0e45b773dd20ee">goldReward</a> {}</td></tr>
-<tr class="separator:a582c7d51c2ab4bb5cf0e45b773dd20ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a24e7afcf5a95fba7f2cdc5914baac392"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../df/dc1/a07263.html">ArenaSeasonReward</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#a24e7afcf5a95fba7f2cdc5914baac392">itemRewards</a></td></tr>
-<tr class="separator:a24e7afcf5a95fba7f2cdc5914baac392"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1b89c847e86b29671f86dbbef1c9a1b6"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../df/dc1/a07263.html">ArenaSeasonReward</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#a1b89c847e86b29671f86dbbef1c9a1b6">achievementRewards</a></td></tr>
-<tr class="separator:a1b89c847e86b29671f86dbbef1c9a1b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:a61c85f158b767a6c81de87d7ad5007db"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#a61c85f158b767a6c81de87d7ad5007db">RatingChange</a> = 0</td></tr>
+<tr class="separator:a61c85f158b767a6c81de87d7ad5007db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e82169562a459371f973932d22e2f15"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#a1e82169562a459371f973932d22e2f15">MatchmakerRating</a> = 0</td></tr>
+<tr class="separator:a1e82169562a459371f973932d22e2f15"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab99de3b9213f3ccab1791858df6aa3e8"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#ab99de3b9213f3ccab1791858df6aa3e8">TeamName</a> {}</td></tr>
+<tr class="separator:ab99de3b9213f3ccab1791858df6aa3e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="friends" name="friends"></a>
+Friends</h2></td></tr>
+<tr class="memitem:a5f488c25aa439166d145713c67e7d085"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#a5f488c25aa439166d145713c67e7d085">Arena</a></td></tr>
+<tr class="separator:a5f488c25aa439166d145713c67e7d085"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0c4048053f5f5cabe5bfbfdde8eded86"><td class="memItemLeft" align="right" valign="top">class&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/df8/a07267.html#a0c4048053f5f5cabe5bfbfdde8eded86">Battleground</a></td></tr>
+<tr class="separator:a0c4048053f5f5cabe5bfbfdde8eded86"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a128e78db84f099d91e21da77b2147e82" name="a128e78db84f099d91e21da77b2147e82"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a128e78db84f099d91e21da77b2147e82">&#9670;&#160;</a></span>ArenaSeasonRewardGroup()</h2>
+<a id="a017cd1a4d90a466b42aeab8ff1a12f3a" name="a017cd1a4d90a466b42aeab8ff1a12f3a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a017cd1a4d90a466b42aeab8ff1a12f3a">&#9670;&#160;</a></span>ArenaTeamScore()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -156,7 +158,7 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">ArenaSeasonRewardGroup::ArenaSeasonRewardGroup </td>
+          <td class="memname">ArenaTeamScore::ArenaTeamScore </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -164,16 +166,15 @@ Public Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">default</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a625ef69db8523e1a5e6e5ea16bdacc2f" name="a625ef69db8523e1a5e6e5ea16bdacc2f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a625ef69db8523e1a5e6e5ea16bdacc2f">&#9670;&#160;</a></span>operator==()</h2>
+<a id="ade081f31c498ee03a80f73fe70a56cc7" name="ade081f31c498ee03a80f73fe70a56cc7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ade081f31c498ee03a80f73fe70a56cc7">&#9670;&#160;</a></span>~ArenaTeamScore()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -182,194 +183,288 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool ArenaSeasonRewardGroup::operator== </td>
+          <td class="memname">virtual ArenaTeamScore::~ArenaTeamScore </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="../../df/df8/a07267.html">ArenaSeasonRewardGroup</a> &amp;&#160;</td>
-          <td class="paramname"><em>other</em></td><td>)</td>
-          <td> const</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   82</span>    {</div>
-<div class="line"><span class="lineno">   83</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../df/df8/a07267.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> == other.<a class="code hl_variable" href="../../df/df8/a07267.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> &amp;&amp;</div>
-<div class="line"><span class="lineno">   84</span>               <a class="code hl_variable" href="../../df/df8/a07267.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> == other.<a class="code hl_variable" href="../../df/df8/a07267.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> &amp;&amp;</div>
-<div class="line"><span class="lineno">   85</span>               <a class="code hl_variable" href="../../df/df8/a07267.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> == other.<a class="code hl_variable" href="../../df/df8/a07267.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> &amp;&amp;</div>
-<div class="line"><span class="lineno">   86</span>               <a class="code hl_variable" href="../../df/df8/a07267.html#a24e7afcf5a95fba7f2cdc5914baac392">itemRewards</a> == other.<a class="code hl_variable" href="../../df/df8/a07267.html#a24e7afcf5a95fba7f2cdc5914baac392">itemRewards</a> &amp;&amp;</div>
-<div class="line"><span class="lineno">   87</span>               <a class="code hl_variable" href="../../df/df8/a07267.html#a1b89c847e86b29671f86dbbef1c9a1b6">achievementRewards</a> == other.<a class="code hl_variable" href="../../df/df8/a07267.html#a1b89c847e86b29671f86dbbef1c9a1b6">achievementRewards</a>;</div>
-<div class="line"><span class="lineno">   88</span>    }</div>
-<div class="ttc" id="aa07267_html_a07507bd59265508a463aa328f343afa0"><div class="ttname"><a href="../../df/df8/a07267.html#a07507bd59265508a463aa328f343afa0">ArenaSeasonRewardGroup::minCriteria</a></div><div class="ttdeci">float minCriteria</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:69</div></div>
-<div class="ttc" id="aa07267_html_a16261356df6f5aed35bc3ec06ab49560"><div class="ttname"><a href="../../df/df8/a07267.html#a16261356df6f5aed35bc3ec06ab49560">ArenaSeasonRewardGroup::criteriaType</a></div><div class="ttdeci">ArenaSeasonRewardGroupCriteriaType criteriaType</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:67</div></div>
-<div class="ttc" id="aa07267_html_a1b89c847e86b29671f86dbbef1c9a1b6"><div class="ttname"><a href="../../df/df8/a07267.html#a1b89c847e86b29671f86dbbef1c9a1b6">ArenaSeasonRewardGroup::achievementRewards</a></div><div class="ttdeci">std::vector&lt; ArenaSeasonReward &gt; achievementRewards</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:78</div></div>
-<div class="ttc" id="aa07267_html_a24e7afcf5a95fba7f2cdc5914baac392"><div class="ttname"><a href="../../df/df8/a07267.html#a24e7afcf5a95fba7f2cdc5914baac392">ArenaSeasonRewardGroup::itemRewards</a></div><div class="ttdeci">std::vector&lt; ArenaSeasonReward &gt; itemRewards</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:77</div></div>
-<div class="ttc" id="aa07267_html_aa3cf9a0ad2ed2170542ec360e61682e2"><div class="ttname"><a href="../../df/df8/a07267.html#aa3cf9a0ad2ed2170542ec360e61682e2">ArenaSeasonRewardGroup::maxCriteria</a></div><div class="ttdeci">float maxCriteria</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:70</div></div>
+
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a28c3a055e1ad69693470f38fe676f0c6" name="a28c3a055e1ad69693470f38fe676f0c6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a28c3a055e1ad69693470f38fe676f0c6">&#9670;&#160;</a></span>Assign()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ArenaTeamScore::Assign </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname"><em>ratingChange</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>matchMakerRating</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>teamName</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   62</span>    {</div>
+<div class="line"><span class="lineno">   63</span>        <a class="code hl_variable" href="../../df/df8/a07267.html#a61c85f158b767a6c81de87d7ad5007db">RatingChange</a> = ratingChange;</div>
+<div class="line"><span class="lineno">   64</span>        <a class="code hl_variable" href="../../df/df8/a07267.html#a1e82169562a459371f973932d22e2f15">MatchmakerRating</a> = matchMakerRating;</div>
+<div class="line"><span class="lineno">   65</span>        <a class="code hl_variable" href="../../df/df8/a07267.html#ab99de3b9213f3ccab1791858df6aa3e8">TeamName</a> = std::string(teamName);</div>
+<div class="line"><span class="lineno">   66</span>    }</div>
+<div class="ttc" id="aa07267_html_a1e82169562a459371f973932d22e2f15"><div class="ttname"><a href="../../df/df8/a07267.html#a1e82169562a459371f973932d22e2f15">ArenaTeamScore::MatchmakerRating</a></div><div class="ttdeci">uint32 MatchmakerRating</div><div class="ttdef"><b>Definition:</b> ArenaScore.h:72</div></div>
+<div class="ttc" id="aa07267_html_a61c85f158b767a6c81de87d7ad5007db"><div class="ttname"><a href="../../df/df8/a07267.html#a61c85f158b767a6c81de87d7ad5007db">ArenaTeamScore::RatingChange</a></div><div class="ttdeci">int32 RatingChange</div><div class="ttdef"><b>Definition:</b> ArenaScore.h:71</div></div>
+<div class="ttc" id="aa07267_html_ab99de3b9213f3ccab1791858df6aa3e8"><div class="ttname"><a href="../../df/df8/a07267.html#ab99de3b9213f3ccab1791858df6aa3e8">ArenaTeamScore::TeamName</a></div><div class="ttdeci">std::string TeamName</div><div class="ttdef"><b>Definition:</b> ArenaScore.h:73</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00078">achievementRewards</a>, <a class="el" href="../../#l00067">criteriaType</a>, <a class="el" href="../../#l00077">itemRewards</a>, <a class="el" href="../../#l00070">maxCriteria</a>, and <a class="el" href="../../#l00069">minCriteria</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00207">Arena::EndBattleground()</a>.</p>
+
+</div>
+</div>
+<a id="ae3e2b8e8a29c50ca20a42a0364349764" name="ae3e2b8e8a29c50ca20a42a0364349764"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae3e2b8e8a29c50ca20a42a0364349764">&#9670;&#160;</a></span>BuildRatingInfoBlock()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ArenaTeamScore::BuildRatingInfoBlock </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d65/a11159.html">WorldPacket</a> &amp;&#160;</td>
+          <td class="paramname"><em>data</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   50</span>{</div>
+<div class="line"><span class="lineno">   51</span>    <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ratingLost = std::abs(std::min(<a class="code hl_variable" href="../../df/df8/a07267.html#a61c85f158b767a6c81de87d7ad5007db">RatingChange</a>, 0));</div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ratingWon = std::max(<a class="code hl_variable" href="../../df/df8/a07267.html#a61c85f158b767a6c81de87d7ad5007db">RatingChange</a>, 0);</div>
+<div class="line"><span class="lineno">   53</span> </div>
+<div class="line"><span class="lineno">   54</span>    <span class="comment">// should be old rating, new rating, and client will calculate rating change itself</span></div>
+<div class="line"><span class="lineno">   55</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(ratingLost);</div>
+<div class="line"><span class="lineno">   56</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(ratingWon);</div>
+<div class="line"><span class="lineno">   57</span>    data &lt;&lt; <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(<a class="code hl_variable" href="../../df/df8/a07267.html#a1e82169562a459371f973932d22e2f15">MatchmakerRating</a>);</div>
+<div class="line"><span class="lineno">   58</span>}</div>
+<div class="ttc" id="aa04310_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00072">MatchmakerRating</a>, and <a class="el" href="../../#l00071">RatingChange</a>.</p>
+
+</div>
+</div>
+<a id="aa876e0cf0b36f8fdb9efe8989092f143" name="aa876e0cf0b36f8fdb9efe8989092f143"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa876e0cf0b36f8fdb9efe8989092f143">&#9670;&#160;</a></span>BuildTeamInfoBlock()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ArenaTeamScore::BuildTeamInfoBlock </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d65/a11159.html">WorldPacket</a> &amp;&#160;</td>
+          <td class="paramname"><em>data</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   61</span>{</div>
+<div class="line"><span class="lineno">   62</span>    data &lt;&lt; <a class="code hl_variable" href="../../df/df8/a07267.html#ab99de3b9213f3ccab1791858df6aa3e8">TeamName</a>;</div>
+<div class="line"><span class="lineno">   63</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00073">TeamName</a>.</p>
+
+</div>
+</div>
+<a id="a90611fd5e656d2d62917003ff0a5ff00" name="a90611fd5e656d2d62917003ff0a5ff00"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a90611fd5e656d2d62917003ff0a5ff00">&#9670;&#160;</a></span>Reset()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void ArenaTeamScore::Reset </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   55</span>    {</div>
+<div class="line"><span class="lineno">   56</span>        <a class="code hl_variable" href="../../df/df8/a07267.html#a61c85f158b767a6c81de87d7ad5007db">RatingChange</a> = 0;</div>
+<div class="line"><span class="lineno">   57</span>        <a class="code hl_variable" href="../../df/df8/a07267.html#a1e82169562a459371f973932d22e2f15">MatchmakerRating</a> = 0;</div>
+<div class="line"><span class="lineno">   58</span>        <a class="code hl_variable" href="../../df/df8/a07267.html#ab99de3b9213f3ccab1791858df6aa3e8">TeamName</a> = {};</div>
+<div class="line"><span class="lineno">   59</span>    }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Friends And Related Function Documentation</h2>
+<a id="a5f488c25aa439166d145713c67e7d085" name="a5f488c25aa439166d145713c67e7d085"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5f488c25aa439166d145713c67e7d085">&#9670;&#160;</a></span>Arena</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">friend class <a class="el" href="../../dc/d33/a07259.html">Arena</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a0c4048053f5f5cabe5bfbfdde8eded86" name="a0c4048053f5f5cabe5bfbfdde8eded86"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0c4048053f5f5cabe5bfbfdde8eded86">&#9670;&#160;</a></span>Battleground</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">friend class <a class="el" href="../../d2/d91/a07343.html">Battleground</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">friend</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a1b89c847e86b29671f86dbbef1c9a1b6" name="a1b89c847e86b29671f86dbbef1c9a1b6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1b89c847e86b29671f86dbbef1c9a1b6">&#9670;&#160;</a></span>achievementRewards</h2>
+<a id="a1e82169562a459371f973932d22e2f15" name="a1e82169562a459371f973932d22e2f15"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1e82169562a459371f973932d22e2f15">&#9670;&#160;</a></span>MatchmakerRating</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt;<a class="el" href="../../df/dc1/a07263.html">ArenaSeasonReward</a>&gt; ArenaSeasonRewardGroup::achievementRewards</td>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ArenaTeamScore::MatchmakerRating = 0</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00081">operator==()</a>, and <a class="el" href="../../#l00073">ArenaSeasonTeamRewarderImpl::RewardWithAchievements()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00049">BuildRatingInfoBlock()</a>.</p>
 
 </div>
 </div>
-<a id="a16261356df6f5aed35bc3ec06ab49560" name="a16261356df6f5aed35bc3ec06ab49560"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a16261356df6f5aed35bc3ec06ab49560">&#9670;&#160;</a></span>criteriaType</h2>
+<a id="a61c85f158b767a6c81de87d7ad5007db" name="a61c85f158b767a6c81de87d7ad5007db"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a61c85f158b767a6c81de87d7ad5007db">&#9670;&#160;</a></span>RatingChange</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../da/d9c/a00413.html#a983281e9aada2538d6bc53ae4dd4d266">ArenaSeasonRewardGroupCriteriaType</a> ArenaSeasonRewardGroup::criteriaType</td>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> ArenaTeamScore::RatingChange = 0</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00081">operator==()</a>, and <a class="el" href="../../#l00069">TEST_F()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00049">BuildRatingInfoBlock()</a>.</p>
 
 </div>
 </div>
-<a id="a582c7d51c2ab4bb5cf0e45b773dd20ee" name="a582c7d51c2ab4bb5cf0e45b773dd20ee"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a582c7d51c2ab4bb5cf0e45b773dd20ee">&#9670;&#160;</a></span>goldReward</h2>
+<a id="ab99de3b9213f3ccab1791858df6aa3e8" name="ab99de3b9213f3ccab1791858df6aa3e8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab99de3b9213f3ccab1791858df6aa3e8">&#9670;&#160;</a></span>TeamName</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ArenaSeasonRewardGroup::goldReward {}</td>
+          <td class="memname">std::string ArenaTeamScore::TeamName {}</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00033">ArenaSeasonTeamRewarderImpl::RewardWithMail()</a>.</p>
-
-</div>
-</div>
-<a id="a24e7afcf5a95fba7f2cdc5914baac392" name="a24e7afcf5a95fba7f2cdc5914baac392"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a24e7afcf5a95fba7f2cdc5914baac392">&#9670;&#160;</a></span>itemRewards</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::vector&lt;<a class="el" href="../../df/dc1/a07263.html">ArenaSeasonReward</a>&gt; ArenaSeasonRewardGroup::itemRewards</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00081">operator==()</a>, and <a class="el" href="../../#l00033">ArenaSeasonTeamRewarderImpl::RewardWithMail()</a>.</p>
-
-</div>
-</div>
-<a id="aa3cf9a0ad2ed2170542ec360e61682e2" name="aa3cf9a0ad2ed2170542ec360e61682e2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa3cf9a0ad2ed2170542ec360e61682e2">&#9670;&#160;</a></span>maxCriteria</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float ArenaSeasonRewardGroup::maxCriteria {}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00081">operator==()</a>, and <a class="el" href="../../#l00069">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="a07507bd59265508a463aa328f343afa0" name="a07507bd59265508a463aa328f343afa0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a07507bd59265508a463aa328f343afa0">&#9670;&#160;</a></span>minCriteria</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float ArenaSeasonRewardGroup::minCriteria {}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00081">operator==()</a>, and <a class="el" href="../../#l00069">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="afa55d982d4f2ef5f2eccf48ed305b649" name="afa55d982d4f2ef5f2eccf48ed305b649"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afa55d982d4f2ef5f2eccf48ed305b649">&#9670;&#160;</a></span>rewardMailBody</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::string ArenaSeasonRewardGroup::rewardMailBody {}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00033">ArenaSeasonTeamRewarderImpl::RewardWithMail()</a>.</p>
-
-</div>
-</div>
-<a id="a0574cf3fc910f13413ea7eb1c0f08166" name="a0574cf3fc910f13413ea7eb1c0f08166"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0574cf3fc910f13413ea7eb1c0f08166">&#9670;&#160;</a></span>rewardMailSubject</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::string ArenaSeasonRewardGroup::rewardMailSubject {}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00033">ArenaSeasonTeamRewarderImpl::RewardWithMail()</a>.</p>
-
-</div>
-</div>
-<a id="ade97a1ea3355cd19aaf65ab80a26e4bf" name="ade97a1ea3355cd19aaf65ab80a26e4bf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ade97a1ea3355cd19aaf65ab80a26e4bf">&#9670;&#160;</a></span>rewardMailTemplateID</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ArenaSeasonRewardGroup::rewardMailTemplateID {}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00033">ArenaSeasonTeamRewarderImpl::RewardWithMail()</a>.</p>
-
-</div>
-</div>
-<a id="a2e6a5d2ca970d3921142b497d351c50f" name="a2e6a5d2ca970d3921142b497d351c50f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2e6a5d2ca970d3921142b497d351c50f">&#9670;&#160;</a></span>season</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d9/d4e/a04307.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> ArenaSeasonRewardGroup::season {}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00032">ArenaSeasonMgr::LoadRewards()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00060">BuildTeamInfoBlock()</a>.</p>
 
 </div>
 </div>
@@ -378,8 +473,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/df8/a07267.html">ArenaSeasonRewardGroup</a></li>
-    <li class="footer">Generated on Mon Oct 6 2025 20:44:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/df8/a07267.html">ArenaTeamScore</a></li>
+    <li class="footer">Generated on Mon Oct 13 2025 20:44:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

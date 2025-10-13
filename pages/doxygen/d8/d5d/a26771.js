@@ -1,6 +1,6 @@
 var a26771 =
 [
-    [ "PrepareAuraScript", "d8/d5d/a26771.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
-    [ "Register", "d8/d5d/a26771.html#a91f4b2b8796c7efab2f622893a393619", null ],
-    [ "AuraEffectHandleModes", "d8/d5d/a26771.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
+    [ "PrepareSpellScript", "d8/d5d/a26771.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
+    [ "Register", "d8/d5d/a26771.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
+    [ "SetDest", "d8/d5d/a26771.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
 ];

@@ -1,7 +1,6 @@
 var a12399 =
 [
-    [ "boss_ebonrocAI", "df/d72/a12399.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
-    [ "JustEngagedWith", "df/d72/a12399.html#a2c74e0030b1093d79245978939043d53", null ],
-    [ "MovementInform", "df/d72/a12399.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
-    [ "UpdateAI", "df/d72/a12399.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
+    [ "FilterTargets", "df/d72/a12399.html#ac630fb5f068e4d26adb078b118994c45", null ],
+    [ "PrepareSpellScript", "df/d72/a12399.html#a5f4986bfad79573e65d56ff276c49914", null ],
+    [ "Register", "df/d72/a12399.html#aa1f5838d43871fd7908ea3b914666000", null ]
 ];

@@ -1,8 +1,8 @@
 var a27175 =
 [
-    [ "HandleDamage", "dd/dcc/a27175.html#a371d3112e619453b7c92933a145bf4d2", null ],
-    [ "HandleDummy", "dd/dcc/a27175.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
-    [ "PrepareSpellScript", "dd/dcc/a27175.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
-    [ "Register", "dd/dcc/a27175.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
-    [ "Validate", "dd/dcc/a27175.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
+    [ "CheckProc", "dd/dcc/a27175.html#a8a61fbd855294e6218cfc0e2dd3706c9", null ],
+    [ "OnProc", "dd/dcc/a27175.html#a9217135a55d6612bf1d36b63ac09e7fb", null ],
+    [ "PrepareAuraScript", "dd/dcc/a27175.html#a8bf573bb900773d4669708536b0b8011", null ],
+    [ "Register", "dd/dcc/a27175.html#ae8ddcb6329088f904cbae3292ff92023", null ],
+    [ "Validate", "dd/dcc/a27175.html#a918c9334b7f20710c0d6448a33c94601", null ]
 ];

@@ -1,5 +1,5 @@
 var a27307 =
 [
-    [ "AreaTrigger_at_coilfang_waterfall", "dc/d00/a27307.html#aa2e9a01adad7e195860bbc6c55131024", null ],
-    [ "OnTrigger", "dc/d00/a27307.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
+    [ "achievement_everything_counts", "dc/d00/a27307.html#af18e6b3128a9d722c98f33f7ec6430b3", null ],
+    [ "OnCheck", "dc/d00/a27307.html#a81741a8df4d10b37314ec8ef09eb888b", null ]
 ];

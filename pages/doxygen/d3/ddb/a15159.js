@@ -1,7 +1,6 @@
 var a15159 =
 [
-    [ "HandleScript", "d3/ddb/a15159.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
-    [ "PrepareSpellScript", "d3/ddb/a15159.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
-    [ "Register", "d3/ddb/a15159.html#aff966352a2babe6e6daed91f02e1190a", null ],
-    [ "Validate", "d3/ddb/a15159.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
+    [ "instance_razorfen_kraul_InstanceMapScript", "df/de0/a15163.html", "df/de0/a15163" ],
+    [ "instance_razorfen_kraul", "d3/ddb/a15159.html#aedd65b901c8131a7ac21e8576734f76f", null ],
+    [ "GetInstanceScript", "d3/ddb/a15159.html#a78e77010ebb055b9530733ca25533110", null ]
 ];

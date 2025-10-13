@@ -1,8 +1,7 @@
 var a25643 =
 [
-    [ "HandlePeriodic", "d0/dbb/a25643.html#acba5d68c19e68361c088e50f9b831bff", null ],
-    [ "HandleUpdatePeriodic", "d0/dbb/a25643.html#af27c6dfccb12f1ba52d170da5d9228f9", null ],
-    [ "PrepareAuraScript", "d0/dbb/a25643.html#a8fa9d7c1f8e95c2e50bd2178f4f58c04", null ],
-    [ "Register", "d0/dbb/a25643.html#a2be03ae04a562b2c908fcdb0c052ca5f", null ],
-    [ "Validate", "d0/dbb/a25643.html#ab467c3b759ac1e276d6a4815d20f5ff0", null ]
+    [ "HandleOnEffectApply", "d0/dbb/a25643.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
+    [ "HandleOnEffectRemove", "d0/dbb/a25643.html#a094d788d157474a9683387d5c340538f", null ],
+    [ "PrepareAuraScript", "d0/dbb/a25643.html#aad378b8c45f11af51faf9128878c01df", null ],
+    [ "Register", "d0/dbb/a25643.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
 ];

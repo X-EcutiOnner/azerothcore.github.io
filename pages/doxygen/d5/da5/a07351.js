@@ -1,20 +1,14 @@
 var a07351 =
 [
-    [ "ArenaMatchmakerRating", "d5/da5/a07351.html#aebaba68d0d75e08eb909975d70ab7084", null ],
-    [ "ArenaTeamId", "d5/da5/a07351.html#a62d4963600711b2476d6de964fc51f5e", null ],
-    [ "ArenaTeamRating", "d5/da5/a07351.html#a167a97bcd0ee298dfc49cabc4193fd3e", null ],
-    [ "ArenaType", "d5/da5/a07351.html#a607a585ca374dc2cf9e8f5e460465f22", null ],
-    [ "BgTypeId", "d5/da5/a07351.html#aad98458292aca41fc7feb2e63ba5125f", null ],
-    [ "BracketId", "d5/da5/a07351.html#a99ed2f2dc9510c77cbe1fdf1497ce5d4", null ],
-    [ "GroupType", "d5/da5/a07351.html#af4ad41d00ee448097eb4b7e468f336f8", null ],
-    [ "IsInvitedToBGInstanceGUID", "d5/da5/a07351.html#a0261df1066e01602f475e9a08e142883", null ],
-    [ "IsRated", "d5/da5/a07351.html#af6bac7c32a8e3e7faf647a4f6b6722a0", null ],
-    [ "JoinTime", "d5/da5/a07351.html#a44939a98ff1ec940e42e79faf31a2e9a", null ],
-    [ "OpponentsMatchmakerRating", "d5/da5/a07351.html#a558a2febf6dcc2aed2ddedfd1f5d342a", null ],
-    [ "OpponentsTeamRating", "d5/da5/a07351.html#adf219cc12cebeaddebf8c04c5004c30a", null ],
-    [ "Players", "d5/da5/a07351.html#ae5912a881a5ecaa761ea28c87e6c45ad", null ],
-    [ "PreviousOpponentsTeamId", "d5/da5/a07351.html#a2fac6fffa7bec4507fdde7632e2b4df0", null ],
-    [ "RealTeamID", "d5/da5/a07351.html#a972df7095f38b6f2617bc12a67ac30f7", null ],
-    [ "RemoveInviteTime", "d5/da5/a07351.html#aefe5994744194e7db9110fb36fa9c4bb", null ],
-    [ "teamId", "d5/da5/a07351.html#a2303f13880bbac9faf4b1fd4fc6334d5", null ]
+    [ "IsArena", "d5/da5/a07351.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
+    [ "BattlemasterEntry", "d5/da5/a07351.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
+    [ "Id", "d5/da5/a07351.html#a0fca37318585903f68695452a95011a9", null ],
+    [ "MaxLevel", "d5/da5/a07351.html#a790f55d480d1454a5f6e5713c04314b7", null ],
+    [ "MaxPlayersPerTeam", "d5/da5/a07351.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
+    [ "MaxStartDistSq", "d5/da5/a07351.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
+    [ "MinLevel", "d5/da5/a07351.html#a49fdf96a08376830a06956fd501cfa78", null ],
+    [ "MinPlayersPerTeam", "d5/da5/a07351.html#ac1bea263b53de8573cdb8eb890175495", null ],
+    [ "ScriptId", "d5/da5/a07351.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
+    [ "StartLocation", "d5/da5/a07351.html#a8477d2156c8aa5bb89da038d1a779698", null ],
+    [ "Weight", "d5/da5/a07351.html#aa7a051e8453599a7e82da763a6f91da2", null ]
 ];

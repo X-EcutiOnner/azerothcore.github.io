@@ -1,9 +1,8 @@
 var a08099 =
 [
-    [ "VendorItem", "dc/dc3/a08099.html#ae79c26c304bee575a722f8a82fc79fd2", null ],
-    [ "IsGoldRequired", "dc/dc3/a08099.html#a5f335ffdb5d82418cdb4eb7a606692c1", null ],
-    [ "ExtendedCost", "dc/dc3/a08099.html#a18234f38ff242b8687265f9acf70dbe0", null ],
-    [ "incrtime", "dc/dc3/a08099.html#afe3bb3324faf1beae6ee17c223678e9b", null ],
-    [ "item", "dc/dc3/a08099.html#a6b26a96440c885684c173ee17d788896", null ],
-    [ "maxcount", "dc/dc3/a08099.html#a98be1e0499d9ae9cfb176063991f72ee", null ]
+    [ "bounding_radius", "dc/dc3/a08099.html#a9f4a794b06bcbe31fc0a104cc97b91a4", null ],
+    [ "combat_reach", "dc/dc3/a08099.html#ac271edb10093db19e4df1396053f820d", null ],
+    [ "gender", "dc/dc3/a08099.html#aa5c8134851ff4f7ab6ad2af3b6e1dc1e", null ],
+    [ "is_trigger", "dc/dc3/a08099.html#a52dbfa82e1525df681b87ab07ba8ead0", null ],
+    [ "modelid_other_gender", "dc/dc3/a08099.html#a222b3c513a64b385954ea549e67f4255", null ]
 ];

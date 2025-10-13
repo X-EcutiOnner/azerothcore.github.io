@@ -1,8 +1,7 @@
 var a25955 =
 [
-    [ "HandleDummy", "db/ded/a25955.html#a57897df074b7766c022526e082b4a13b", null ],
-    [ "Load", "db/ded/a25955.html#a47cbade67be124496c6194391ab51794", null ],
-    [ "PrepareSpellScript", "db/ded/a25955.html#af5e5a22976adfa5588ca8e054e19a669", null ],
-    [ "Register", "db/ded/a25955.html#ab0c3be8436b79288bb45899448fd6c1b", null ],
-    [ "Validate", "db/ded/a25955.html#a97d037267e385e0d3fd80543a5ddb366", null ]
+    [ "HandleProc", "db/ded/a25955.html#aee71de2c7f718a443dd48ed649c72a2f", null ],
+    [ "PrepareAuraScript", "db/ded/a25955.html#a7ba07407ce43ea4bfb03bc232ed409e3", null ],
+    [ "Register", "db/ded/a25955.html#ad907078d049340da77dcfd25a312e32b", null ],
+    [ "Validate", "db/ded/a25955.html#ad9987f6b17c9522be954a1b75aed1fc5", null ]
 ];

@@ -1,8 +1,6 @@
 var a20343 =
 [
-    [ "OnApply", "d6/d6c/a20343.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
-    [ "OnRemove", "d6/d6c/a20343.html#a4709f570f9014eb36bc8c65269470373", null ],
-    [ "PrepareAuraScript", "d6/d6c/a20343.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
-    [ "Register", "d6/d6c/a20343.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
-    [ "Validate", "d6/d6c/a20343.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
+    [ "npc_ulduar_saronite_animusAI", "d2/d7e/a20347.html", "d2/d7e/a20347" ],
+    [ "npc_ulduar_saronite_animus", "d6/d6c/a20343.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
+    [ "GetAI", "d6/d6c/a20343.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
 ];

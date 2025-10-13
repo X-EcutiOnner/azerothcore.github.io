@@ -832,6 +832,7 @@ var a00155 =
       [ "LANG_GUILD_INFO_EXTRA_INFO", "d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aa7fd9297724a1d120ef830bbc1808aac5", null ],
       [ "LANG_GUILD_INFO_RANKS", "d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aa15442ff7cf591a0e7478b946b605d630", null ],
       [ "LANG_GUILD_INFO_RANKS_LIST", "d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aa48e1dc058d87cc4d930b9e769b49fae8", null ],
+      [ "LANG_COMMAND_BEASTMASTER_MODE", "d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aa7f6e81db9fa76cb7d9da47a3da60ed48", null ],
       [ "LANG_DO_NOT_USE_6X_DEBUG_AREATRIGGER_LEFT", "d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aace90283fb275f6bb9bb5eb53aaaf94d2", null ],
       [ "LANG_CINEMATIC_NOT_EXIST", "d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aa379cb79641953ec81b9a7932e9a37e68", null ],
       [ "LANG_MOVIE_NOT_EXIST", "d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aaaa886a422001d68180d833bb54d95436", null ],

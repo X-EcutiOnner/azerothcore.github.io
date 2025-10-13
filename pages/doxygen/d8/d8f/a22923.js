@@ -1,6 +1,7 @@
 var a22923 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "de/dca/a22927.html", "de/dca/a22927" ],
-    [ "instance_shadow_labyrinth", "d8/d8f/a22923.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
-    [ "GetInstanceScript", "d8/d8f/a22923.html#af9edf624413593a5cdf025dd9a1c3631", null ]
+    [ "HandleOnHit", "d8/d8f/a22923.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
+    [ "PrepareSpellScript", "d8/d8f/a22923.html#a734b735c7e87938bff185be91f9de6e8", null ],
+    [ "Register", "d8/d8f/a22923.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
+    [ "Validate", "d8/d8f/a22923.html#a162f60784fdec6b748151e5c2a7ed257", null ]
 ];

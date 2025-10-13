@@ -1,11 +1,16 @@
 var a07127 =
 [
-    [ "GetSkillValue", "df/d83/a07127.html#a8f5894a5729d4c8d26376bbe1a2ac29e", null ],
-    [ "HasSpell", "df/d83/a07127.html#a3400ad05d8423ae6878fab815521ec6f", null ],
-    [ "PlayerCanUseItem", "df/d83/a07127.html#aee11f4f45f83664483344e3bbfba7463", null ],
-    [ "classMask", "df/d83/a07127.html#a41a57c372871c84a572d2f3697cb18aa", null ],
-    [ "level", "df/d83/a07127.html#a870f632b54e4638b1f5a4e93b6bd9e52", null ],
-    [ "raceMask", "df/d83/a07127.html#a96e56943da42f1a1258fc1d716259e1a", null ],
-    [ "skills", "df/d83/a07127.html#a55c2ad9d1cdea4913cb35deb4adc87fd", null ],
-    [ "spells", "df/d83/a07127.html#ac83cc019ceb1752ce8d6b5a3aa3d350f", null ]
+    [ "BuildAuctionInfo", "df/d83/a07127.html#ae220020b8cbb4e751bfa5798ea95d594", null ],
+    [ "CompareAuctionEntry", "df/d83/a07127.html#a7daa9aa634bf2b589ef1906dfc0704d0", null ],
+    [ "SetItemNames", "df/d83/a07127.html#a7d56d87bcd100bcb470bc7710c59bf9e", null ],
+    [ "bid", "df/d83/a07127.html#a0b2c836d635d9a170b2d70b763c4907b", null ],
+    [ "bidderGuid", "df/d83/a07127.html#ada14d168bde5da2b39c93a240941a80a", null ],
+    [ "buyout", "df/d83/a07127.html#a978fea69d5c823f71e681903a432ec51", null ],
+    [ "expire_time", "df/d83/a07127.html#aa3556fd353c58fda259c7dec52bb3b90", null ],
+    [ "Id", "df/d83/a07127.html#aa52368fdef3baed1aed4af459f764b8b", null ],
+    [ "item", "df/d83/a07127.html#a05df9a39681c0014a1c398b9bca1cbfe", null ],
+    [ "listFaction", "df/d83/a07127.html#a988bdc1b8ae87c3797b24534e853213f", null ],
+    [ "ownerGuid", "df/d83/a07127.html#a75e8c535be797d015ed970d896a56c29", null ],
+    [ "ownerName", "df/d83/a07127.html#aaca6e4de9cfbc62eb1815c2cf79be123", null ],
+    [ "startbid", "df/d83/a07127.html#ae3459d9794539591ae3727bdd6de3e2b", null ]
 ];

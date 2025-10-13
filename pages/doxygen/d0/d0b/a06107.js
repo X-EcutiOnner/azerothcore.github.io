@@ -1,12 +1,8 @@
 var a06107 =
 [
-    [ "CombatAI", "d0/d0b/a06107.html#a32e63efb85155ac3deeb818a9a1ba18a", null ],
-    [ "InitializeAI", "d0/d0b/a06107.html#a70caf22165251220365d03873b3d3f17", null ],
-    [ "JustDied", "d0/d0b/a06107.html#a9176b9b9c7a5e13fb05dae636c7ef2d4", null ],
-    [ "JustEngagedWith", "d0/d0b/a06107.html#ab157082819d821cf0b0093f084111e16", null ],
-    [ "Permissible", "d0/d0b/a06107.html#aaf52e2cbeb1ea9a816b5e8d914c03edb", null ],
-    [ "Reset", "d0/d0b/a06107.html#a7a39daea9b9bd09572472ae0d8689edd", null ],
-    [ "UpdateAI", "d0/d0b/a06107.html#af12583d15ccd183f6236c1889d539b9b", null ],
-    [ "events", "d0/d0b/a06107.html#af59650830fa1abdf8eec179a12e328e7", null ],
-    [ "spells", "d0/d0b/a06107.html#ae0ecfc744e4200bbf7ea36cdd84b13c0", null ]
+    [ "BannedAddon", "d0/d0b/a06107.html#aadd8cb8602ec03455a91b4f49767fdc8", null ],
+    [ "Id", "d0/d0b/a06107.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
+    [ "NameMD5", "d0/d0b/a06107.html#a67c4437044d747ff9867a71967697767", null ],
+    [ "Timestamp", "d0/d0b/a06107.html#af62257c39a4ae1eba959086e981b0d19", null ],
+    [ "VersionMD5", "d0/d0b/a06107.html#acb8dbe824f71363eb81504f43a126d96", null ]
 ];

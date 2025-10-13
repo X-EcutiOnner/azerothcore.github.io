@@ -1,6 +1,14 @@
 var a13295 =
 [
-    [ "npc_scholomance_occultistAI", "d0/d12/a13299.html", "d0/d12/a13299" ],
-    [ "npc_scholomance_occultist", "d2/d69/a13295.html#adf100912a15ff8edf056efa7eebd13ff", null ],
-    [ "GetAI", "d2/d69/a13295.html#a5da2b011ec4859523c1f713dc18e4d5b", null ]
+    [ "boss_kirtonos_the_heraldAI", "d2/d69/a13295.html#af68c553db0889c22b7b4b76c868d38e7", null ],
+    [ "DoAction", "d2/d69/a13295.html#ade11c2ff67c93f09f34b7b0e59766cc3", null ],
+    [ "EnterEvadeMode", "d2/d69/a13295.html#a92ee25d349cc1ae3e46e4696a01697c3", null ],
+    [ "JustDied", "d2/d69/a13295.html#a7ecf7396ebcb6f541586435996094f56", null ],
+    [ "JustEngagedWith", "d2/d69/a13295.html#abcf09a75bed393e5fc03ef184e5c2918", null ],
+    [ "MovementInform", "d2/d69/a13295.html#a16379320eebb8223a79cf3927bdc507e", null ],
+    [ "UpdateAI", "d2/d69/a13295.html#a7eedcb1416d05b95f6110751119aea02", null ],
+    [ "events", "d2/d69/a13295.html#a5dd38f68ce8745484cbc00dadde439dc", null ],
+    [ "events2", "d2/d69/a13295.html#aaf9216da4f5394953d0316be8d8e8c4f", null ],
+    [ "instance", "d2/d69/a13295.html#acae39cf7bc9a6d68834d3916fa75a006", null ],
+    [ "TransformsCount", "d2/d69/a13295.html#aa0834b23d00463ae36bb0ec6a2067257", null ]
 ];

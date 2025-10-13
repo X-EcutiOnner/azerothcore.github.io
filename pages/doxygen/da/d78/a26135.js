@@ -1,6 +1,6 @@
 var a26135 =
 [
-    [ "CheckProc", "da/d78/a26135.html#a1da9fe2fa918a8f92a53de8eee9d1830", null ],
-    [ "PrepareAuraScript", "da/d78/a26135.html#a3fa05a39b003805f405d814214f4366e", null ],
-    [ "Register", "da/d78/a26135.html#a9b7f633b60dd7798b8f2f85d14c26ca2", null ]
+    [ "HandleDummy", "da/d78/a26135.html#af306009f2c418e898478720b9c4ad6ab", null ],
+    [ "PrepareSpellScript", "da/d78/a26135.html#a44cb481fe93fd1c691495cc1ead35e5e", null ],
+    [ "Register", "da/d78/a26135.html#af51e3b3cbfb469fa6230a36d8d5fcec7", null ]
 ];

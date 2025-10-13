@@ -1,5 +1,5 @@
 var a03272 =
 [
-    [ "arena_commandscript", "dc/d7a/a11743.html", "dc/d7a/a11743" ],
-    [ "AddSC_arena_commandscript", "d4/d1c/a03272.html#aa94d37f012ac02e97a1021713b7dbeeb", null ]
+    [ "HandleLearnSpellCommand", "d4/d1c/a03272.html#acbe37f872cbc981a27671ebdf10904de", null ],
+    [ "HandleUnlearnSpellCommand", "d4/d1c/a03272.html#ad36f90f90b3d9aaf782f7efc859f7e7a", null ]
 ];

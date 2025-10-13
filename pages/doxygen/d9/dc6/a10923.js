@@ -1,9 +1,7 @@
 var a10923 =
 [
-    [ "RandomRoll", "d9/dc6/a10923.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
-    [ "Write", "d9/dc6/a10923.html#aab5879874745603dd448a7f5084d60d4", null ],
-    [ "Max", "d9/dc6/a10923.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
-    [ "Min", "d9/dc6/a10923.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
-    [ "Result", "d9/dc6/a10923.html#a34fd2c1d018bb292836724671163ff07", null ],
-    [ "Roller", "d9/dc6/a10923.html#af02aa97826259885791d0f4afc0c1a84", null ]
+    [ "PlayMusic", "d9/dc6/a10923.html#afee4b7ae9ac5f4f2b7365d3d00e7b581", null ],
+    [ "PlayMusic", "d9/dc6/a10923.html#ad3d833f70de5937365c2351aa5206bbf", null ],
+    [ "Write", "d9/dc6/a10923.html#ad01a67d76fe9dff269eac9108a27c75a", null ],
+    [ "SoundKitID", "d9/dc6/a10923.html#ad2342dd0c1461283c595af29c3bc9fe6", null ]
 ];

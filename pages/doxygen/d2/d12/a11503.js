@@ -1,6 +1,6 @@
 var a11503 =
 [
-    [ "AfterCheckProcHandler", "d2/d12/a11503.html#ac0a14950e90d064ffd7adc224b25f9d8", null ],
-    [ "Call", "d2/d12/a11503.html#ab2da0d87413dd7317eeaf73df17f1aaf", null ],
-    [ "_HandlerScript", "d2/d12/a11503.html#af5a393efc729e8588c0fc425fdfead99", null ]
+    [ "EffectCalcAmountHandler", "d2/d12/a11503.html#a4fe66bbf0433e80b602683a278e3a709", null ],
+    [ "Call", "d2/d12/a11503.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
+    [ "pEffectHandlerScript", "d2/d12/a11503.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
 ];

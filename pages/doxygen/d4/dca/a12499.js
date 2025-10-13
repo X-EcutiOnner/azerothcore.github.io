@@ -1,6 +1,7 @@
 var a12499 =
 [
-    [ "instance_blackwing_lair_InstanceMapScript", "df/daf/a12503.html", "df/daf/a12503" ],
-    [ "instance_blackwing_lair", "d4/dca/a12499.html#afb9a7ce1ac297b023aa8364cc1383336", null ],
-    [ "GetInstanceScript", "d4/dca/a12499.html#a70aff4e1bb406f232d0b4961037ed0a1", null ]
+    [ "HandleDummy", "d4/dca/a12499.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
+    [ "PrepareSpellScript", "d4/dca/a12499.html#a5308de47023b89e4ff8680158a502ac0", null ],
+    [ "Register", "d4/dca/a12499.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
+    [ "Validate", "d4/dca/a12499.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
 ];

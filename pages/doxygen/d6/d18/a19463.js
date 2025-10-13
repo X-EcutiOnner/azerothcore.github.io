@@ -1,6 +1,6 @@
 var a19463 =
 [
-    [ "npc_hover_diskAI", "df/de7/a19467.html", "df/de7/a19467" ],
-    [ "npc_hover_disk", "d6/d18/a19463.html#af0ab534387a2af4e168915801ee855e5", null ],
-    [ "GetAI", "d6/d18/a19463.html#adbe9285126089ca998e9b6360f42c553", null ]
+    [ "npc_scion_of_eternityAI", "df/de7/a19467.html", "df/de7/a19467" ],
+    [ "npc_scion_of_eternity", "d6/d18/a19463.html#ac1d66d65b5d4468b908443a64dc2de1c", null ],
+    [ "GetAI", "d6/d18/a19463.html#a7c27a55f177fb9e31f73fa1cb227fa27", null ]
 ];

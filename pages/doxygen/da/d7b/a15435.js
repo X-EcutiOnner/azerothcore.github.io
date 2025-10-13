@@ -1,6 +1,6 @@
 var a15435 =
 [
-    [ "HandleDummy", "da/d7b/a15435.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
-    [ "PrepareSpellScript", "da/d7b/a15435.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
-    [ "Register", "da/d7b/a15435.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
+    [ "HandleOnHit", "da/d7b/a15435.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
+    [ "PrepareSpellScript", "da/d7b/a15435.html#a9e568a1608715973fc438ff5e4356714", null ],
+    [ "Register", "da/d7b/a15435.html#a752d697aada626440fdff2bd889f890f", null ]
 ];

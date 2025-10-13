@@ -1,7 +1,7 @@
 var a13323 =
 [
-    [ "HandleAfterCast", "d1/d90/a13323.html#afa662fbe1b777047259ac6212961f7a5", null ],
-    [ "HandleScript", "d1/d90/a13323.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
-    [ "PrepareSpellScript", "d1/d90/a13323.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
-    [ "Register", "d1/d90/a13323.html#a4a898b0b096583af33f1f691a252b2ed", null ]
+    [ "OnApply", "d1/d90/a13323.html#a278a1eb6d5f856a620f5a33de294b0ec", null ],
+    [ "OnRemove", "d1/d90/a13323.html#a8300f726a41882e3d3f54adc0e5bfb29", null ],
+    [ "PrepareAuraScript", "d1/d90/a13323.html#a46ba800f3a3512951b83e428bc5373b9", null ],
+    [ "Register", "d1/d90/a13323.html#a4a59d431c7d7607e614c4ec035e3acf7", null ]
 ];

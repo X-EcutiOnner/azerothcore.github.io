@@ -1,7 +1,7 @@
 var a12391 =
 [
-    [ "HandleScript", "d4/d21/a12391.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
-    [ "PrepareSpellScript", "d4/d21/a12391.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
-    [ "Register", "d4/d21/a12391.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
-    [ "Validate", "d4/d21/a12391.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
+    [ "go_suppression_deviceAI", "d0/d7c/a12395.html", "d0/d7c/a12395" ],
+    [ "go_suppression_device", "d4/d21/a12391.html#a900713d6b029015f8868a96e5e1b9018", null ],
+    [ "GetAI", "d4/d21/a12391.html#aa51bb6f9616022c1f4e1e711ca1130e8", null ],
+    [ "OnLootStateChanged", "d4/d21/a12391.html#a684546c3ce0c0785d52a87eb011ef313", null ]
 ];

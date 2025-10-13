@@ -1,7 +1,10 @@
 var a27083 =
 [
-    [ "HandleDispel", "de/d9c/a27083.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
-    [ "PrepareAuraScript", "de/d9c/a27083.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
-    [ "Register", "de/d9c/a27083.html#a2c67e4327fdd034978d4822311632980", null ],
-    [ "Validate", "de/d9c/a27083.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
+    [ "CalculateAmount", "de/d9c/a27083.html#a9e0e28d871f9d3c89cf2dc862971321d", null ],
+    [ "Detonate", "de/d9c/a27083.html#adc622aae157984546dfe3d8373c0c413", null ],
+    [ "HandleProc", "de/d9c/a27083.html#a3b5812649b67830d8dc6d10b5dd1c937", null ],
+    [ "OnRemove", "de/d9c/a27083.html#a5067cef0afc99d487f995f8d6edea21f", null ],
+    [ "PrepareAuraScript", "de/d9c/a27083.html#abc23ebb3761e3505486ac578bdeaeeed", null ],
+    [ "Register", "de/d9c/a27083.html#acc4819698e175889a0491d7f7cc680fd", null ],
+    [ "Validate", "de/d9c/a27083.html#a0649826ce0d66c9f21be8d47c76f4941", null ]
 ];

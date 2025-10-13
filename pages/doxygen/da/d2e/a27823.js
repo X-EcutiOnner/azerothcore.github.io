@@ -1,13 +1,10 @@
 var a27823 =
 [
-    [ "npc_garments_of_questsAI", "da/d2e/a27823.html#a079f719ca488ed6fde2783b5db4f328b", null ],
-    [ "JustEngagedWith", "da/d2e/a27823.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
-    [ "Reset", "da/d2e/a27823.html#aaaaa3e41deae0057bd659be5c579d226", null ],
-    [ "SpellHit", "da/d2e/a27823.html#ad22195dba70ced744b319bc1ad83c083", null ],
-    [ "UpdateAI", "da/d2e/a27823.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
-    [ "WaypointReached", "da/d2e/a27823.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
-    [ "CanRun", "da/d2e/a27823.html#a93c41781e4cb037b56773bbbf36181b7", null ],
-    [ "CasterGUID", "da/d2e/a27823.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
-    [ "IsHealed", "da/d2e/a27823.html#a96db66704eabf028362d5f8b5c424712", null ],
-    [ "RunAwayTimer", "da/d2e/a27823.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
+    [ "npc_air_force_botsAI", "da/d2e/a27823.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "da/d2e/a27823.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "da/d2e/a27823.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "da/d2e/a27823.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "da/d2e/a27823.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "da/d2e/a27823.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "da/d2e/a27823.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

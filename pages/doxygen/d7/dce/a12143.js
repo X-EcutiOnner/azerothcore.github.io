@@ -1,7 +1,11 @@
 var a12143 =
 [
-    [ "boss_okthorAI", "d7/dce/a12143.html#a8007cfade5c04d8b4e0b787ac5a5beff", null ],
-    [ "JustEngagedWith", "d7/dce/a12143.html#a466a618e52f40e04e873dd50f3728755", null ],
-    [ "UpdateAI", "d7/dce/a12143.html#a246c3bd9aa96eb11d2fa48be8654d726", null ],
-    [ "nextArcaneExplosionTime", "d7/dce/a12143.html#a89d8cdd528775ee77caeac1d0465d4f2", null ]
+    [ "boss_high_interrogator_gerstahnAI", "d7/dce/a12143.html#a557fda67d1d1de268ba661350ba915dc", null ],
+    [ "JustEngagedWith", "d7/dce/a12143.html#a80e01faa471f9e83e85c3c47fd815dea", null ],
+    [ "Reset", "d7/dce/a12143.html#ab63099f83037b3716d1e2b9c21d7d607", null ],
+    [ "UpdateAI", "d7/dce/a12143.html#a67b34f7cf4c62a57bc9fb556f5fb0b81", null ],
+    [ "ManaBurn_Timer", "d7/dce/a12143.html#aede307f972942c15c4b2bfa90e75856d", null ],
+    [ "PsychicScream_Timer", "d7/dce/a12143.html#a291f3484e4d125fefe437d96b12153f1", null ],
+    [ "ShadowShield_Timer", "d7/dce/a12143.html#a7ba151c46b097825dca9b8e3ac2cdee9", null ],
+    [ "ShadowWordPain_Timer", "d7/dce/a12143.html#aec0eab93e8494bc1abc87d81460fac31", null ]
 ];

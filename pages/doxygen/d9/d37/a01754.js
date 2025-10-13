@@ -1,8 +1,8 @@
 var a01754 =
 [
-    [ "WorldPackets::Query::NameQuery", "d7/d9b/a11035.html", "d7/d9b/a11035" ],
-    [ "WorldPackets::Query::NameQueryResponse", "db/df1/a11039.html", "db/df1/a11039" ],
-    [ "WorldPackets::Query::TimeQuery", "d1/d0c/a11043.html", "d1/d0c/a11043" ],
-    [ "WorldPackets::Query::TimeQueryResponse", "de/d4f/a11047.html", "de/d4f/a11047" ],
-    [ "WorldPackets::Query::CorpseMapPositionQuery", "d0/d76/a11051.html", "d0/d76/a11051" ]
+    [ "WorldPackets::Query::NameQuery", "d8/d6e/a11067.html", "d8/d6e/a11067" ],
+    [ "WorldPackets::Query::NameQueryResponse", "d3/d6e/a11071.html", "d3/d6e/a11071" ],
+    [ "WorldPackets::Query::TimeQuery", "dc/dcc/a11075.html", "dc/dcc/a11075" ],
+    [ "WorldPackets::Query::TimeQueryResponse", "df/d0e/a11079.html", "df/d0e/a11079" ],
+    [ "WorldPackets::Query::CorpseMapPositionQuery", "d5/d89/a11083.html", "d5/d89/a11083" ]
 ];

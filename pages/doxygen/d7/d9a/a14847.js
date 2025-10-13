@@ -1,7 +1,7 @@
 var a14847 =
 [
-    [ "OnPeriodic", "d7/d9a/a14847.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
-    [ "PrepareAuraScript", "d7/d9a/a14847.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
-    [ "Register", "d7/d9a/a14847.html#aeb388d608830aeb3b30f707304403b41", null ],
-    [ "Validate", "d7/d9a/a14847.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
+    [ "PeriodicTick", "d7/d9a/a14847.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
+    [ "PrepareAuraScript", "d7/d9a/a14847.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
+    [ "Register", "d7/d9a/a14847.html#a24058b120f4fa06b89f6d582c53a365a", null ],
+    [ "Validate", "d7/d9a/a14847.html#a093b09be5abde91a1487d67a7a554d30", null ]
 ];

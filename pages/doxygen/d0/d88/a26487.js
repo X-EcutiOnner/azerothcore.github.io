@@ -1,7 +1,6 @@
 var a26487 =
 [
-    [ "HandleProc", "d0/d88/a26487.html#ad5bf7ab28ac2f359c65606a1772a40d2", null ],
-    [ "PrepareAuraScript", "d0/d88/a26487.html#af4fec7fb65e1327b1a74d48453b9fddd", null ],
-    [ "Register", "d0/d88/a26487.html#a44a82b94d509eeb04f3520ded1d62891", null ],
-    [ "Validate", "d0/d88/a26487.html#a7b222bba8f0c4ced50bf4945bf0423ca", null ]
+    [ "FilterTargets", "d0/d88/a26487.html#a23c7b977f7e213322b3702367d6a28c7", null ],
+    [ "PrepareSpellScript", "d0/d88/a26487.html#a7000b2fd940c914933c486e847932b62", null ],
+    [ "Register", "d0/d88/a26487.html#a870ee08d0341f6640710a87c97a6b98b", null ]
 ];

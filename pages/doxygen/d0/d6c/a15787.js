@@ -1,6 +1,6 @@
 var a15787 =
 [
-    [ "npc_braug_dimspirit", "d0/d6c/a15787.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
-    [ "OnGossipHello", "d0/d6c/a15787.html#aeaed026edf5a1fa82c941f667c05815b", null ],
-    [ "OnGossipSelect", "d0/d6c/a15787.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
+    [ "go_wind_stoneAI", "df/d7a/a15791.html", "df/d7a/a15791" ],
+    [ "go_wind_stone", "d0/d6c/a15787.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
+    [ "GetAI", "d0/d6c/a15787.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Metric/Metric.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/GitRevision.h File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,486 +105,58 @@ $(document).ready(function(){initNavTree('d1/ddc/a04532.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#namespaces">Namespaces</a> &#124;
-<a href="#define-members">Macros</a> &#124;
-<a href="#typedef-members">Typedefs</a> &#124;
-<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">Metric.h File Reference</div></div>
+  <div class="headertitle"><div class="title">GitRevision.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Duration.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MPSCQueue.h</a>&quot;</code><br />
-<code>#include &lt;boost/asio/steady_timer.hpp&gt;</code><br />
-<code>#include &lt;functional&gt;</code><br />
-<code>#include &lt;memory&gt;</code><br />
-<code>#include &lt;string&gt;</code><br />
-<code>#include &lt;unordered_map&gt;</code><br />
-<code>#include &lt;vector&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d06/a05407.html">MetricData</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d4f/a05411.html">Metric</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/ddb/a05415.html">MetricStopWatch&lt; LoggerType &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
 Namespaces</h2></td></tr>
-<tr class="memitem:dd/df4/a04800"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html">Acore</a></td></tr>
+<tr class="memitem:d6/d6f/a04819"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d6f/a04819.html">GitRevision</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:da/d54/a04801"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/d54/a04801.html">Acore::Asio</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
-Macros</h2></td></tr>
-<tr class="memitem:a4e89926204845a9c9e315d6f0abec5ef"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/a04532.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>&#160;&#160;&#160;<a class="el" href="../../d8/d4f/a05411.html#a5013a4cfaa8e40a739e9f7439efae575">Metric::instance</a>()</td></tr>
-<tr class="separator:a4e89926204845a9c9e315d6f0abec5ef"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab81b5769123c1e5e3870b9b05f25fe0a"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/a04532.html#ab81b5769123c1e5e3870b9b05f25fe0a">METRIC_TAG</a>(name,  value)&#160;&#160;&#160;{ name, value }</td></tr>
-<tr class="separator:ab81b5769123c1e5e3870b9b05f25fe0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa861206b38b55c4f39f1ed649defb338"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/a04532.html#aa861206b38b55c4f39f1ed649defb338">METRIC_DO_CONCAT</a>(a,  b)&#160;&#160;&#160;a##b</td></tr>
-<tr class="separator:aa861206b38b55c4f39f1ed649defb338"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad81585df46d4cee988a1222012dbabf1"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/a04532.html#ad81585df46d4cee988a1222012dbabf1">METRIC_CONCAT</a>(a,  b)&#160;&#160;&#160;<a class="el" href="../../d1/ddc/a04532.html#aa861206b38b55c4f39f1ed649defb338">METRIC_DO_CONCAT</a>(a, b)</td></tr>
-<tr class="separator:ad81585df46d4cee988a1222012dbabf1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adf91483a75eca0531263536ce38d9339"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/a04532.html#adf91483a75eca0531263536ce38d9339">METRIC_UNIQUE_NAME</a>(name)&#160;&#160;&#160;<a class="el" href="../../d1/ddc/a04532.html#ad81585df46d4cee988a1222012dbabf1">METRIC_CONCAT</a>(name, __LINE__)</td></tr>
-<tr class="separator:adf91483a75eca0531263536ce38d9339"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad57573999508dbc7a2c953379996b542"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/a04532.html#ad57573999508dbc7a2c953379996b542">METRIC_EVENT</a>(category,  title,  description)</td></tr>
-<tr class="separator:ad57573999508dbc7a2c953379996b542"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a92aedc832ddfc479ecc61289f12be449"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/a04532.html#a92aedc832ddfc479ecc61289f12be449">METRIC_VALUE</a>(category,  value, ...)</td></tr>
-<tr class="separator:a92aedc832ddfc479ecc61289f12be449"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad88ae7d281622a32a700443aa3dc51f9"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/a04532.html#ad88ae7d281622a32a700443aa3dc51f9">METRIC_TIMER</a>(category, ...)</td></tr>
-<tr class="separator:ad88ae7d281622a32a700443aa3dc51f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac782d1c3265f7b707782545777d49d05"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/a04532.html#ac782d1c3265f7b707782545777d49d05">METRIC_DETAILED_EVENT</a>(category,  title,  description)&#160;&#160;&#160;((void)0)</td></tr>
-<tr class="separator:ac782d1c3265f7b707782545777d49d05"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a22dcbf78f0d280a4b2b4e0662034efe9"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/a04532.html#a22dcbf78f0d280a4b2b4e0662034efe9">METRIC_DETAILED_TIMER</a>(category, ...)&#160;&#160;&#160;((void)0)</td></tr>
-<tr class="separator:a22dcbf78f0d280a4b2b4e0662034efe9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a281633f6f8b252d96029ce8fd29da746"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/a04532.html#a281633f6f8b252d96029ce8fd29da746">METRIC_DETAILED_NO_THRESHOLD_TIMER</a>(category, ...)&#160;&#160;&#160;((void)0)</td></tr>
-<tr class="separator:a281633f6f8b252d96029ce8fd29da746"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a8fdc9a93c03faef11e4c36679e79e3f1"><td class="memItemLeft" align="right" valign="top">typedef std::pair&lt; std::string, std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/a04532.html#a8fdc9a93c03faef11e4c36679e79e3f1">MetricTag</a></td></tr>
-<tr class="separator:a8fdc9a93c03faef11e4c36679e79e3f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
-Enumerations</h2></td></tr>
-<tr class="memitem:a0bb9cc086e32544cb0e43338f83d8e62"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/ddc/a04532.html#a0bb9cc086e32544cb0e43338f83d8e62">MetricDataType</a> { <br />
-&#160;&#160;<a class="el" href="../../d1/ddc/a04532.html#a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155">METRIC_DATA_VALUE</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d1/ddc/a04532.html#a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2">METRIC_DATA_EVENT</a>
-<br />
- }</td></tr>
-<tr class="separator:a0bb9cc086e32544cb0e43338f83d8e62"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:ab339934305abce426aa1d43c99d65e9f"><td class="memTemplParams" colspan="2">template&lt;typename LoggerType &gt; </td></tr>
-<tr class="memitem:ab339934305abce426aa1d43c99d65e9f"><td class="memTemplItemLeft" align="right" valign="top"><a class="el" href="../../d8/ddb/a05415.html">MetricStopWatch</a>&lt; LoggerType &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d1/ddc/a04532.html#ab339934305abce426aa1d43c99d65e9f">MakeMetricStopWatch</a> (LoggerType &amp;&amp;loggerFunc)</td></tr>
-<tr class="separator:ab339934305abce426aa1d43c99d65e9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:addcf1401768f04ea13a6e868d9580605"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d6f/a04819.html#addcf1401768f04ea13a6e868d9580605">GitRevision::GetHash</a> ()</td></tr>
+<tr class="separator:addcf1401768f04ea13a6e868d9580605"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a10817e6a26ea352c0f79233d2ef552a8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d6f/a04819.html#a10817e6a26ea352c0f79233d2ef552a8">GitRevision::GetDate</a> ()</td></tr>
+<tr class="separator:a10817e6a26ea352c0f79233d2ef552a8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0353e7a37f6f7102283a92975eb1f56f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d6f/a04819.html#a0353e7a37f6f7102283a92975eb1f56f">GitRevision::GetBranch</a> ()</td></tr>
+<tr class="separator:a0353e7a37f6f7102283a92975eb1f56f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9d2cbfd79c6c215859ddad44996a8a8c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d6f/a04819.html#a9d2cbfd79c6c215859ddad44996a8a8c">GitRevision::GetCMakeCommand</a> ()</td></tr>
+<tr class="separator:a9d2cbfd79c6c215859ddad44996a8a8c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a83b62eaf53be851b0bd82c3a00b934d1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d6f/a04819.html#a83b62eaf53be851b0bd82c3a00b934d1">GitRevision::GetCMakeVersion</a> ()</td></tr>
+<tr class="separator:a83b62eaf53be851b0bd82c3a00b934d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad63ab422bd364927fa88a394e82fc2a7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d6f/a04819.html#ad63ab422bd364927fa88a394e82fc2a7">GitRevision::GetHostOSVersion</a> ()</td></tr>
+<tr class="separator:ad63ab422bd364927fa88a394e82fc2a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51523316de8184739b710e472a8ce843"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d6f/a04819.html#a51523316de8184739b710e472a8ce843">GitRevision::GetBuildDirectory</a> ()</td></tr>
+<tr class="separator:a51523316de8184739b710e472a8ce843"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1062fcec3676f562803f4775d95a9594"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d6f/a04819.html#a1062fcec3676f562803f4775d95a9594">GitRevision::GetSourceDirectory</a> ()</td></tr>
+<tr class="separator:a1062fcec3676f562803f4775d95a9594"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a13f3b200d2427f6546ebddd3b54b7fcf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d6f/a04819.html#a13f3b200d2427f6546ebddd3b54b7fcf">GitRevision::GetMySQLExecutable</a> ()</td></tr>
+<tr class="separator:a13f3b200d2427f6546ebddd3b54b7fcf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad68b75fc60314941c3cbade8eafcda23"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d6f/a04819.html#ad68b75fc60314941c3cbade8eafcda23">GitRevision::GetFullVersion</a> ()</td></tr>
+<tr class="separator:ad68b75fc60314941c3cbade8eafcda23"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a72b700a0bbbdb2829e283fe892f1ba51"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d6f/a04819.html#a72b700a0bbbdb2829e283fe892f1ba51">GitRevision::GetCompanyNameStr</a> ()</td></tr>
+<tr class="separator:a72b700a0bbbdb2829e283fe892f1ba51"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abd1a810f85a1f404d88e3f7e61cc85cc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d6f/a04819.html#abd1a810f85a1f404d88e3f7e61cc85cc">GitRevision::GetLegalCopyrightStr</a> ()</td></tr>
+<tr class="separator:abd1a810f85a1f404d88e3f7e61cc85cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a631c2811f3f8b72a16dfa2ceb7c4cb42"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d6f/a04819.html#a631c2811f3f8b72a16dfa2ceb7c4cb42">GitRevision::GetFileVersionStr</a> ()</td></tr>
+<tr class="separator:a631c2811f3f8b72a16dfa2ceb7c4cb42"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abbfa02a4b9aba10f263252be4d3f48fc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#aae2dc50bce825b002235487401b252e8">AC_COMMON_API</a> char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d6f/a04819.html#abbfa02a4b9aba10f263252be4d3f48fc">GitRevision::GetProductVersionStr</a> ()</td></tr>
+<tr class="separator:abbfa02a4b9aba10f263252be4d3f48fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Macro Definition Documentation</h2>
-<a id="ad81585df46d4cee988a1222012dbabf1" name="ad81585df46d4cee988a1222012dbabf1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad81585df46d4cee988a1222012dbabf1">&#9670;&#160;</a></span>METRIC_CONCAT</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define METRIC_CONCAT</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">a, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">b&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td>&#160;&#160;&#160;<a class="el" href="../../d1/ddc/a04532.html#aa861206b38b55c4f39f1ed649defb338">METRIC_DO_CONCAT</a>(a, b)</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ac782d1c3265f7b707782545777d49d05" name="ac782d1c3265f7b707782545777d49d05"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac782d1c3265f7b707782545777d49d05">&#9670;&#160;</a></span>METRIC_DETAILED_EVENT</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define METRIC_DETAILED_EVENT</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">category, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">title, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">description&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td>&#160;&#160;&#160;((void)0)</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a281633f6f8b252d96029ce8fd29da746" name="a281633f6f8b252d96029ce8fd29da746"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a281633f6f8b252d96029ce8fd29da746">&#9670;&#160;</a></span>METRIC_DETAILED_NO_THRESHOLD_TIMER</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define METRIC_DETAILED_NO_THRESHOLD_TIMER</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">category, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>...</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td>&#160;&#160;&#160;((void)0)</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a22dcbf78f0d280a4b2b4e0662034efe9" name="a22dcbf78f0d280a4b2b4e0662034efe9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a22dcbf78f0d280a4b2b4e0662034efe9">&#9670;&#160;</a></span>METRIC_DETAILED_TIMER</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define METRIC_DETAILED_TIMER</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">category, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>...</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td>&#160;&#160;&#160;((void)0)</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aa861206b38b55c4f39f1ed649defb338" name="aa861206b38b55c4f39f1ed649defb338"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa861206b38b55c4f39f1ed649defb338">&#9670;&#160;</a></span>METRIC_DO_CONCAT</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define METRIC_DO_CONCAT</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">a, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">b&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td>&#160;&#160;&#160;a##b</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ad57573999508dbc7a2c953379996b542" name="ad57573999508dbc7a2c953379996b542"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad57573999508dbc7a2c953379996b542">&#9670;&#160;</a></span>METRIC_EVENT</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define METRIC_EVENT</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">category, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">title, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">description&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">        __pragma(warning(push))                                        \</div>
-<div class="line">        __pragma(warning(disable:4127))                                \</div>
-<div class="line">        <span class="keywordflow">do</span> {                                                           \</div>
-<div class="line">            if (<a class="code hl_define" href="../../d1/ddc/a04532.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;IsEnabled())                                  \</div>
-<div class="line">                <a class="code hl_define" href="../../d1/ddc/a04532.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;LogEvent(category, title, description);       \</div>
-<div class="line">        } <span class="keywordflow">while</span> (0)                                                    \</div>
-<div class="line">        __pragma(warning(pop))</div>
-<div class="ttc" id="aa04532_html_a4e89926204845a9c9e315d6f0abec5ef"><div class="ttname"><a href="../../d1/ddc/a04532.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a></div><div class="ttdeci">#define sMetric</div><div class="ttdef"><b>Definition:</b> Metric.h:134</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ab81b5769123c1e5e3870b9b05f25fe0a" name="ab81b5769123c1e5e3870b9b05f25fe0a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab81b5769123c1e5e3870b9b05f25fe0a">&#9670;&#160;</a></span>METRIC_TAG</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define METRIC_TAG</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">name, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">value&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td>&#160;&#160;&#160;{ name, value }</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ad88ae7d281622a32a700443aa3dc51f9" name="ad88ae7d281622a32a700443aa3dc51f9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad88ae7d281622a32a700443aa3dc51f9">&#9670;&#160;</a></span>METRIC_TIMER</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define METRIC_TIMER</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">category, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>...</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">        <a class="code hl_class" href="../../d8/ddb/a05415.html">MetricStopWatch</a> <a class="code hl_define" href="../../d1/ddc/a04532.html#adf91483a75eca0531263536ce38d9339">METRIC_UNIQUE_NAME</a>(__ac_metric_stop_watch) = <a class="code hl_function" href="../../d1/ddc/a04532.html#ab339934305abce426aa1d43c99d65e9f">MakeMetricStopWatch</a>([&amp;](<a class="code hl_typedef" href="../../d7/de9/a04715.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a> start) \</div>
-<div class="line">        {                                                                                                        \</div>
-<div class="line">            <a class="code hl_define" href="../../d1/ddc/a04532.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;LogValue(category, std::chrono::steady_clock::now() - start, { __VA_ARGS__ });              \</div>
-<div class="line">        });</div>
-<div class="ttc" id="aa04532_html_ab339934305abce426aa1d43c99d65e9f"><div class="ttname"><a href="../../d1/ddc/a04532.html#ab339934305abce426aa1d43c99d65e9f">MakeMetricStopWatch</a></div><div class="ttdeci">MetricStopWatch&lt; LoggerType &gt; MakeMetricStopWatch(LoggerType &amp;&amp;loggerFunc)</div><div class="ttdef"><b>Definition:</b> Metric.h:158</div></div>
-<div class="ttc" id="aa04532_html_adf91483a75eca0531263536ce38d9339"><div class="ttname"><a href="../../d1/ddc/a04532.html#adf91483a75eca0531263536ce38d9339">METRIC_UNIQUE_NAME</a></div><div class="ttdeci">#define METRIC_UNIQUE_NAME(name)</div><div class="ttdef"><b>Definition:</b> Metric.h:167</div></div>
-<div class="ttc" id="aa04715_html_ae5ca775e8d8c664b6edef818ce1251b9"><div class="ttname"><a href="../../d7/de9/a04715.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a></div><div class="ttdeci">std::chrono::steady_clock::time_point TimePoint</div><div class="ttdoc">time_point shorthand typedefs</div><div class="ttdef"><b>Definition:</b> Duration.h:69</div></div>
-<div class="ttc" id="aa05415_html"><div class="ttname"><a href="../../d8/ddb/a05415.html">MetricStopWatch</a></div><div class="ttdef"><b>Definition:</b> Metric.h:138</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="adf91483a75eca0531263536ce38d9339" name="adf91483a75eca0531263536ce38d9339"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adf91483a75eca0531263536ce38d9339">&#9670;&#160;</a></span>METRIC_UNIQUE_NAME</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define METRIC_UNIQUE_NAME</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">name</td><td>)</td>
-          <td>&#160;&#160;&#160;<a class="el" href="../../d1/ddc/a04532.html#ad81585df46d4cee988a1222012dbabf1">METRIC_CONCAT</a>(name, __LINE__)</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a92aedc832ddfc479ecc61289f12be449" name="a92aedc832ddfc479ecc61289f12be449"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a92aedc832ddfc479ecc61289f12be449">&#9670;&#160;</a></span>METRIC_VALUE</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define METRIC_VALUE</td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">category, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname">value, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>...</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<b>Value:</b><div class="fragment"><div class="line">        __pragma(warning(push))                                        \</div>
-<div class="line">        __pragma(warning(disable:4127))                                \</div>
-<div class="line">        <span class="keywordflow">do</span> {                                                           \</div>
-<div class="line">            if (<a class="code hl_define" href="../../d1/ddc/a04532.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;IsEnabled())                                  \</div>
-<div class="line">                <a class="code hl_define" href="../../d1/ddc/a04532.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;LogValue(category, value, { __VA_ARGS__ });   \</div>
-<div class="line">        } <span class="keywordflow">while</span> (0)                                                    \</div>
-<div class="line">        __pragma(warning(pop))</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a4e89926204845a9c9e315d6f0abec5ef" name="a4e89926204845a9c9e315d6f0abec5ef"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4e89926204845a9c9e315d6f0abec5ef">&#9670;&#160;</a></span>sMetric</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">#define sMetric&#160;&#160;&#160;<a class="el" href="../../d8/d4f/a05411.html#a5013a4cfaa8e40a739e9f7439efae575">Metric::instance</a>()</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Typedef Documentation</h2>
-<a id="a8fdc9a93c03faef11e4c36679e79e3f1" name="a8fdc9a93c03faef11e4c36679e79e3f1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8fdc9a93c03faef11e4c36679e79e3f1">&#9670;&#160;</a></span>MetricTag</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::pair&lt;std::string, std::string&gt; <a class="el" href="../../d1/ddc/a04532.html#a8fdc9a93c03faef11e4c36679e79e3f1">MetricTag</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a0bb9cc086e32544cb0e43338f83d8e62" name="a0bb9cc086e32544cb0e43338f83d8e62"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0bb9cc086e32544cb0e43338f83d8e62">&#9670;&#160;</a></span>MetricDataType</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">enum <a class="el" href="../../d1/ddc/a04532.html#a0bb9cc086e32544cb0e43338f83d8e62">MetricDataType</a></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155" name="a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155"></a>METRIC_DATA_VALUE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2" name="a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2"></a>METRIC_DATA_EVENT&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   37</span>{</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d1/ddc/a04532.html#a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155">METRIC_DATA_VALUE</a>,</div>
-<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d1/ddc/a04532.html#a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2">METRIC_DATA_EVENT</a></div>
-<div class="line"><span class="lineno">   40</span>};</div>
-<div class="ttc" id="aa04532_html_a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2"><div class="ttname"><a href="../../d1/ddc/a04532.html#a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2">METRIC_DATA_EVENT</a></div><div class="ttdeci">@ METRIC_DATA_EVENT</div><div class="ttdef"><b>Definition:</b> Metric.h:39</div></div>
-<div class="ttc" id="aa04532_html_a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155"><div class="ttname"><a href="../../d1/ddc/a04532.html#a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155">METRIC_DATA_VALUE</a></div><div class="ttdeci">@ METRIC_DATA_VALUE</div><div class="ttdef"><b>Definition:</b> Metric.h:38</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="ab339934305abce426aa1d43c99d65e9f" name="ab339934305abce426aa1d43c99d65e9f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab339934305abce426aa1d43c99d65e9f">&#9670;&#160;</a></span>MakeMetricStopWatch()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename LoggerType &gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d8/ddb/a05415.html">MetricStopWatch</a>&lt; LoggerType &gt; MakeMetricStopWatch </td>
-          <td>(</td>
-          <td class="paramtype">LoggerType &amp;&amp;&#160;</td>
-          <td class="paramname"><em>loggerFunc</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  159</span>{</div>
-<div class="line"><span class="lineno">  160</span>    <span class="keywordflow">return</span> { std::forward&lt;LoggerType&gt;(loggerFunc) };</div>
-<div class="line"><span class="lineno">  161</span>}</div>
-</div><!-- fragment -->
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_91ceca9fdbb4b9c87bdfaa4e4d598d9a.html">Metric</a></li><li class="navelem"><a class="el" href="../../d1/ddc/a04532.html">Metric.h</a></li>
-    <li class="footer">Generated on Mon Oct 6 2025 20:44:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../d1/ddc/a04532.html">GitRevision.h</a></li>
+    <li class="footer">Generated on Mon Oct 13 2025 20:43:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

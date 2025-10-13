@@ -1,7 +1,6 @@
 var a12547 =
 [
-    [ "HandlePeriodic", "d9/d5b/a12547.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
-    [ "PrepareAuraScript", "d9/d5b/a12547.html#aae9d31049889eea5c5f09dd5437de950", null ],
-    [ "Register", "d9/d5b/a12547.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
-    [ "Validate", "d9/d5b/a12547.html#a462b882e41932f99e3501f32368cf4de", null ]
+    [ "boss_baron_geddonAI", "da/ded/a12551.html", "da/ded/a12551" ],
+    [ "boss_baron_geddon", "d9/d5b/a12547.html#ad72caf30219b4295c0be4289b9d25498", null ],
+    [ "GetAI", "d9/d5b/a12547.html#a8f328680a5f99fb275cb0b3e8adf9c63", null ]
 ];

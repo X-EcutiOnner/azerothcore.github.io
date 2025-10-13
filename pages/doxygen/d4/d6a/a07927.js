@@ -1,6 +1,16 @@
 var a07927 =
 [
-    [ "p0", "d4/d6a/a07927.html#aaf1df5d479ef12c6bfa9b02c8d9a54ad", null ],
-    [ "p1", "d4/d6a/a07927.html#a8c5a9c6371f264469203575be48684fa", null ],
-    [ "p2", "d4/d6a/a07927.html#a40d46738768d6c2037e5978ce32a9fb8", null ]
+    [ "DisableMap", "d4/d6a/a07927.html#adf2cad99fa4b2b3ddbff05931928c1c5", null ],
+    [ "DisableTypeMap", "d4/d6a/a07927.html#a70c68e93cdd77f5e54bae1b96c66da13", null ],
+    [ "DisableMgr", "d4/d6a/a07927.html#afadb62b96ab43f983f8a8c3077cbe205", null ],
+    [ "~DisableMgr", "d4/d6a/a07927.html#ae1483ae3fdeeb98cceb29905f7181b1a", null ],
+    [ "AddDisable", "d4/d6a/a07927.html#a343955ca73dabce8e7b81bf2803992fc", null ],
+    [ "CheckQuestDisables", "d4/d6a/a07927.html#a2f9fa5dadf6f2da5f01651d37d996377", null ],
+    [ "HandleDisableType", "d4/d6a/a07927.html#a203bb85bc7ecb9be3cf09b5d093b90fa", null ],
+    [ "instance", "d4/d6a/a07927.html#ac3787801d677b0ed6592476d648743db", null ],
+    [ "IsDisabledFor", "d4/d6a/a07927.html#accac4f17d8411544e22ba2231b04f36f", null ],
+    [ "IsPathfindingEnabled", "d4/d6a/a07927.html#a8dce4846886ded6ec2b882820abdc517", null ],
+    [ "IsVMAPDisabledFor", "d4/d6a/a07927.html#a38b182e1836b2197303b2809006f5148", null ],
+    [ "LoadDisables", "d4/d6a/a07927.html#adb464165caf6cd436499fa84969eeaf8", null ],
+    [ "m_DisableMap", "d4/d6a/a07927.html#a7a299346248eb6dc692f9e56ae9efffd", null ]
 ];

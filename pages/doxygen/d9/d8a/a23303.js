@@ -1,6 +1,6 @@
 var a23303 =
 [
-    [ "OnPeriodic", "d9/d8a/a23303.html#aef6afe014ce90711cd7628563aada2a4", null ],
-    [ "PrepareAuraScript", "d9/d8a/a23303.html#a40a98b79b445d3cebe3f195cb9c03a80", null ],
-    [ "Register", "d9/d8a/a23303.html#a44c261ff549ddf0b1dad5ae6d0ff2432", null ]
+    [ "HandleScriptEffect", "d9/d8a/a23303.html#a2b46490b70bf93effb7379686e648618", null ],
+    [ "PrepareSpellScript", "d9/d8a/a23303.html#a5030d071372ef12663f6a75be637476e", null ],
+    [ "Register", "d9/d8a/a23303.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
 ];

@@ -1,6 +1,6 @@
 var a13151 =
 [
-    [ "npc_koltira_deathweaverAI", "da/dbf/a13155.html", "da/dbf/a13155" ],
-    [ "npc_koltira_deathweaver", "dd/dfd/a13151.html#a5e9fdbc8dc70ce3480906b86aed381a3", null ],
-    [ "GetAI", "dd/dfd/a13151.html#afddc561b88679f3dd6ca8b374807b0f0", null ]
+    [ "npc_scarlet_miner_cartAI", "da/dbf/a13155.html", "da/dbf/a13155" ],
+    [ "npc_scarlet_miner_cart", "dd/dfd/a13151.html#a987247939c6fd576d4b8d541175ecb6b", null ],
+    [ "GetAI", "dd/dfd/a13151.html#a0f1436f0f6784af5ab62bf91df355731", null ]
 ];

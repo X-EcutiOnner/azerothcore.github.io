@@ -1,6 +1,6 @@
 var a15431 =
 [
-    [ "OnPeriodic", "dd/d26/a15431.html#a5945e24db52c6bacae7221b085dc877b", null ],
-    [ "PrepareAuraScript", "dd/d26/a15431.html#acc987aa864a8333de7bd0b770eb9018d", null ],
-    [ "Register", "dd/d26/a15431.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
+    [ "HandleOnHit", "dd/d26/a15431.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
+    [ "PrepareSpellScript", "dd/d26/a15431.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
+    [ "Register", "dd/d26/a15431.html#a1e608d67914c0071a913d96d70c625d6", null ]
 ];

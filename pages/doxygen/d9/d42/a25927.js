@@ -1,8 +1,8 @@
 var a25927 =
 [
-    [ "HandleDummy", "d9/d42/a25927.html#ad303a5c1bbbab3766bd5e9ab753b2a01", null ],
-    [ "Load", "d9/d42/a25927.html#a054d9083b24183f4427fc0cb4985ba62", null ],
-    [ "PrepareSpellScript", "d9/d42/a25927.html#aa4904ed55b5e216e0af5e32508372d4e", null ],
-    [ "Register", "d9/d42/a25927.html#a5679f34290f90dbcaf15f09eca0fb20f", null ],
-    [ "Validate", "d9/d42/a25927.html#a0a01f5e290b91e58b4b0f8ba443eb7bf", null ]
+    [ "CheckProc", "d9/d42/a25927.html#a06d76f258699bd4f78834ef33752a351", null ],
+    [ "HandleProc", "d9/d42/a25927.html#af22f22cbc38fabe4181b853727df83f8", null ],
+    [ "PrepareAuraScript", "d9/d42/a25927.html#adbc2bc54974837a9784cbf8b30ef2c1e", null ],
+    [ "Register", "d9/d42/a25927.html#a8db2cf628d44fa962bb3889b20f5dfb1", null ],
+    [ "Validate", "d9/d42/a25927.html#aa5604d45c0c11bef130d9242c4357163", null ]
 ];

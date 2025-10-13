@@ -1,6 +1,10 @@
 var a13799 =
 [
-    [ "npc_grand_magister_rommathAI", "d6/d77/a13803.html", "d6/d77/a13803" ],
-    [ "npc_grand_magister_rommath", "d2/d15/a13799.html#a63b9786bfbd9c7b462b0549e2f6941ea", null ],
-    [ "GetAI", "d2/d15/a13799.html#abd64eff4712e8209e39e938b1813250c", null ]
+    [ "npc_sentinel_leader", "d2/d15/a13799.html#a583c43b047dd5c172938d60ef647ecd5", null ],
+    [ "JustEngagedWith", "d2/d15/a13799.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
+    [ "MovementInform", "d2/d15/a13799.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
+    [ "Reset", "d2/d15/a13799.html#ad638ba6ce33753af6a0165c053a90d78", null ],
+    [ "UpdateAI", "d2/d15/a13799.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
+    [ "_events", "d2/d15/a13799.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
+    [ "_helpCalled", "d2/d15/a13799.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
 ];

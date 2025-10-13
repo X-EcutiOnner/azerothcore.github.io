@@ -1,6 +1,6 @@
 var a10871 =
 [
-    [ "CancelTempEnchantment", "d8/d9a/a10871.html#aa70516ab1b16789cb7b705751162b70b", null ],
-    [ "Read", "d8/d9a/a10871.html#a2c77f79d63247d7aa321cf6bda026ffa", null ],
-    [ "EquipmentSlot", "d8/d9a/a10871.html#a0b06dfb31f70cc547c54723d0bf70952", null ]
+    [ "ListInventory", "d8/d9a/a10871.html#a7b0432d3b1243bdf6d70f9f55ee0f614", null ],
+    [ "Read", "d8/d9a/a10871.html#a2fd1298c1da842824fca7d971cb2028b", null ],
+    [ "VendorGuid", "d8/d9a/a10871.html#a9c6288866c870b4a82169fe7fbef4512", null ]
 ];

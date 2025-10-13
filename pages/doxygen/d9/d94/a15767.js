@@ -1,17 +1,16 @@
 var a15767 =
 [
-    [ "npc_anachronos_quest_triggerAI", "d9/d94/a15767.html#aec19da0dd982c643b15dd3f9fae7338e", null ],
-    [ "CheckEventFail", "d9/d94/a15767.html#a9cb72ea49977b65c42c80f6e53cfa021", null ],
-    [ "LiveCounter", "d9/d94/a15767.html#aa19310d516a578dcd2d13d4298da0f58", null ],
-    [ "Reset", "d9/d94/a15767.html#ab69245d2f874bef9796c151e5a27aaf7", null ],
-    [ "SummonNextWave", "d9/d94/a15767.html#af2cc55a3f35a70a4a9630b4b843f8db7", null ],
-    [ "UpdateAI", "d9/d94/a15767.html#af8aa57d58c05da9a8194bc6565d7a096", null ],
-    [ "Announced", "d9/d94/a15767.html#a4e516705efff20a62124514ba14c8161", null ],
-    [ "AnnounceTimer", "d9/d94/a15767.html#a7772c5b4f80b75ffe7b0641321029059", null ],
-    [ "EventStarted", "d9/d94/a15767.html#ad70b899bedb2b338a306f45e2b4eafd4", null ],
-    [ "Failed", "d9/d94/a15767.html#a60af9e06e872adfab6e7dbac73dfbece", null ],
-    [ "LiveCount", "d9/d94/a15767.html#ae959e46865951c2783fe97e824180050", null ],
-    [ "PlayerGUID", "d9/d94/a15767.html#a2c459e96b3599cda8560582a4fb4253a", null ],
-    [ "WaveCount", "d9/d94/a15767.html#ac3a32a11e5f99d081371c49363509deb", null ],
-    [ "WaveTimer", "d9/d94/a15767.html#a5294c9cd61713bc209a1b65f3b0a252e", null ]
+    [ "npc_qiraj_war_spawnAI", "d9/d94/a15767.html#a1122bc3961300ba39c02613ba0fcd909", null ],
+    [ "JustDied", "d9/d94/a15767.html#ada3362722a2f7a4ac5e3e807385c30fc", null ],
+    [ "JustEngagedWith", "d9/d94/a15767.html#a628da97f8b8bda848880c53a509ad1f5", null ],
+    [ "Reset", "d9/d94/a15767.html#a617104afe4d5cca5cd0d98fe12cb1608", null ],
+    [ "UpdateAI", "d9/d94/a15767.html#afeed6ddc214d7d6ba6156a90e4465cb2", null ],
+    [ "hasTarget", "d9/d94/a15767.html#ad36ad196f757d6014f7aa7cf7afb167b", null ],
+    [ "MobGUID", "d9/d94/a15767.html#a4148121a56275770ee84744a0288b6c5", null ],
+    [ "PlayerGUID", "d9/d94/a15767.html#a9e4294e9b7ce773263e0bd16512602ce", null ],
+    [ "SpellTimer1", "d9/d94/a15767.html#a8979a90473c62aad604857d92574e5f1", null ],
+    [ "SpellTimer2", "d9/d94/a15767.html#a91cb2356a92ef987bd1ba6d31b560ec1", null ],
+    [ "SpellTimer3", "d9/d94/a15767.html#aeea20bb2f78ece03df38a3e9aa5d8b59", null ],
+    [ "SpellTimer4", "d9/d94/a15767.html#a301971cf821e68e6be3223d4076f8b49", null ],
+    [ "Timers", "d9/d94/a15767.html#a460bbddfe94e9c84eaa0ad83e087ebf4", null ]
 ];

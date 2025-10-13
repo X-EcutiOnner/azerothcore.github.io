@@ -1,20 +1,21 @@
 var a03401 =
 [
-    [ "npc_partygoer_pather", "d7/da4/a13755.html", "d7/da4/a13755" ],
-    [ "npc_partygoer", "dd/d4c/a13759.html", "dd/d4c/a13759" ],
-    [ "Partygoer", "da/dfd/a03401.html#a2426dcce5ddc33ba72e2c0ebe9c88e1e", [
-      [ "EVENT_RANDOM_ACTION", "da/dfd/a03401.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacb43fc5be7eecf527a639a9122091f96", null ],
-      [ "EVENT_REMOVE_EQUIPMENT", "da/dfd/a03401.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea37faceace884bd7a013b0d5dd0fac886", null ],
-      [ "EVENT_STOP_DANCING", "da/dfd/a03401.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eacaad2f31616c81d6fa79aaad83b2fba4", null ],
-      [ "EVENT_THROW_FIREWORKS", "da/dfd/a03401.html#a2426dcce5ddc33ba72e2c0ebe9c88e1eaa67af798691d1e37088900cb7c2ebf51", null ],
-      [ "EVENT_RESET_FACING", "da/dfd/a03401.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea1d5b4f747a997b97e8ac881aa879bbb9", null ],
-      [ "GO_FIREWORKS_LAUNCHER", "da/dfd/a03401.html#a2426dcce5ddc33ba72e2c0ebe9c88e1ea4fd8fdeafd948ad27d906801728d7081", null ]
+    [ "LocationXYZ", "d0/d2d/a13807.html", "d0/d2d/a13807" ],
+    [ "npc_rinji", "d5/dcc/a13811.html", "d5/dcc/a13811" ],
+    [ "npc_rinji::npc_rinjiAI", "da/d81/a13815.html", "da/d81/a13815" ],
+    [ "Rinji", "da/dfd/a03401.html#ab769c87cc823749a5fe9cc0ed4f59133", [
+      [ "SAY_RIN_BY_OUTRUNNER", "da/dfd/a03401.html#ab769c87cc823749a5fe9cc0ed4f59133a3aaaf930cf9ab49ca1d76cc6ed5e766c", null ],
+      [ "SAY_RIN_FREE", "da/dfd/a03401.html#ab769c87cc823749a5fe9cc0ed4f59133a18a3ea60620bdbd5ef82292e56df01d3", null ],
+      [ "SAY_RIN_HELP", "da/dfd/a03401.html#ab769c87cc823749a5fe9cc0ed4f59133af6414cba0564a077856ea0ee01cde0e0", null ],
+      [ "SAY_RIN_COMPLETE", "da/dfd/a03401.html#ab769c87cc823749a5fe9cc0ed4f59133a2e8b271174b0c30e02c7d465daca4632", null ],
+      [ "SAY_RIN_PROGRESS_1", "da/dfd/a03401.html#ab769c87cc823749a5fe9cc0ed4f59133a8f06b066d2b30fd7440ab8d0c0450aa5", null ],
+      [ "SAY_RIN_PROGRESS_2", "da/dfd/a03401.html#ab769c87cc823749a5fe9cc0ed4f59133a9d77a031db4f3a40f412949a95be80c5", null ],
+      [ "QUEST_RINJI_TRAPPED", "da/dfd/a03401.html#ab769c87cc823749a5fe9cc0ed4f59133aeb5734ecb62da42fe708673351c073e8", null ],
+      [ "NPC_RANGER", "da/dfd/a03401.html#ab769c87cc823749a5fe9cc0ed4f59133aec7fcfc9b715f5aeadff781115a0e69e", null ],
+      [ "NPC_OUTRUNNER", "da/dfd/a03401.html#ab769c87cc823749a5fe9cc0ed4f59133abc36fa763814aa6d572492b462e191a2", null ],
+      [ "GO_RINJI_CAGE", "da/dfd/a03401.html#ab769c87cc823749a5fe9cc0ed4f59133a8b71e8dfde4865f3891f672d000410fb", null ]
     ] ],
-    [ "Partygoer_Pather", "da/dfd/a03401.html#a3222d14ce03d75912e65560ebf2a961b", [
-      [ "EVENT_PATH", "da/dfd/a03401.html#a3222d14ce03d75912e65560ebf2a961bab210624be9af9dc44683266b3b3efcea", null ],
-      [ "EVENT_RANDOM_ACTION_PATHER", "da/dfd/a03401.html#a3222d14ce03d75912e65560ebf2a961ba93c437ac824047af79e5296f2f70938b", null ],
-      [ "EVENT_REMOVE_EQUIPMENT_PATHER", "da/dfd/a03401.html#a3222d14ce03d75912e65560ebf2a961baae55cce9b375894e1a9adbbd8c42610f", null ],
-      [ "EVENT_STOP_DANCING_PATHER", "da/dfd/a03401.html#a3222d14ce03d75912e65560ebf2a961ba038dd2b09deef9325222dec4d8a99292", null ]
-    ] ],
-    [ "AddSC_eversong_woods", "da/dfd/a03401.html#a78299b9cdd3e783b3f231a9dda40a7b4", null ]
+    [ "AddSC_hinterlands", "da/dfd/a03401.html#a0b6f7497a7db75be5fe9d90d14c46720", null ],
+    [ "AmbushMoveTo", "da/dfd/a03401.html#aa2e998c0f3d966c32be9106221fe957c", null ],
+    [ "AmbushSpawn", "da/dfd/a03401.html#ace1d91ebeb7be507ec886616fad7eef4", null ]
 ];

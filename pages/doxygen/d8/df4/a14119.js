@@ -1,6 +1,6 @@
 var a14119 =
 [
-    [ "boss_arlokkAI", "de/d9c/a14123.html", "de/d9c/a14123" ],
-    [ "boss_arlokk", "d8/df4/a14119.html#a55bb21239e05acff18d2fb147449800e", null ],
-    [ "GetAI", "d8/df4/a14119.html#a58b8cc7a198784b48faaab1b069d397c", null ]
+    [ "npc_eagle_trash_aggro_trigger", "d8/df4/a14119.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
+    [ "MoveInLineOfSight", "d8/df4/a14119.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
+    [ "_instance", "d8/df4/a14119.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
 ];

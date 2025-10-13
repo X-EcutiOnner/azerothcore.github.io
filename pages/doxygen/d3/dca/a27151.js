@@ -1,7 +1,7 @@
 var a27151 =
 [
-    [ "HandleDummy", "d3/dca/a27151.html#a436ed0843e0035308c69f0854decd7f2", null ],
-    [ "PrepareSpellScript", "d3/dca/a27151.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
-    [ "Register", "d3/dca/a27151.html#a0b69f667ea83dee61206bbc723020cbc", null ],
-    [ "Validate", "d3/dca/a27151.html#a93e68d77227297883aae472ef08fb67c", null ]
+    [ "HandleApply", "d3/dca/a27151.html#a046abc4b8afd26d13bcb7140165aed80", null ],
+    [ "HandleRemove", "d3/dca/a27151.html#ad35716d4210572057fe67d426849931a", null ],
+    [ "PrepareAuraScript", "d3/dca/a27151.html#a9af96871b8b7ac19de01e316f4350ebf", null ],
+    [ "Register", "d3/dca/a27151.html#a37c4c881c563882fb72693babe545fc4", null ]
 ];

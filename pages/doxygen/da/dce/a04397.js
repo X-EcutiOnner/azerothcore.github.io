@@ -1,4 +1,4 @@
 var a04397 =
 [
-    [ "Reference< TO, FROM >", "d1/dad/a05267.html", "d1/dad/a05267" ]
+    [ "RefMgr< TO, FROM >", "d1/dd1/a05275.html", "d1/dd1/a05275" ]
 ];

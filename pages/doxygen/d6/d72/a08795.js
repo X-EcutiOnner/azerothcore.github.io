@@ -1,8 +1,8 @@
 var a08795 =
 [
-    [ "PowerPctOrderPred", "d6/d72/a08795.html#a4e765952cfbc1c83413a8f1c148b1fe4", null ],
-    [ "operator()", "d6/d72/a08795.html#a215b641a9364c7fcb82778c98f214271", null ],
-    [ "operator()", "d6/d72/a08795.html#a42cec64c5eaf01f8b6b7e334f57b1d4a", null ],
-    [ "_ascending", "d6/d72/a08795.html#aed7be288f876fdd35c1cdba53626b03c", null ],
-    [ "_power", "d6/d72/a08795.html#ad3d61a7c5c84d91bc26c99e778105b7c", null ]
+    [ "AttackPosition", "d6/d72/a08795.html#a6681bcab6c497d2c7fc6e5585f422744", null ],
+    [ "operator=", "d6/d72/a08795.html#a019fe5d4c053c1d6980789b7f97f6e54", null ],
+    [ "operator==", "d6/d72/a08795.html#a320adced006c0f70456492c9e9dc99c2", null ],
+    [ "_pos", "d6/d72/a08795.html#a77783e0e6e83836ad6e5903535ad9370", null ],
+    [ "_taken", "d6/d72/a08795.html#a113512b8ab66c879fd85c43263c3b7f1", null ]
 ];

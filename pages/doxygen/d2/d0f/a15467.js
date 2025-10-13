@@ -1,6 +1,7 @@
 var a15467 =
 [
-    [ "HandleApply", "d2/d0f/a15467.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
-    [ "PrepareAuraScript", "d2/d0f/a15467.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
-    [ "Register", "d2/d0f/a15467.html#ade5c710416516760cc69f77750aa2a1f", null ]
+    [ "npc_vekniss_stinger", "d2/d0f/a15467.html#ad48098961715a924270cb8bbbe77e4b0", null ],
+    [ "JustEngagedWith", "d2/d0f/a15467.html#ae7c758687c81cfb223066f0a9348eab8", null ],
+    [ "Reset", "d2/d0f/a15467.html#a2a79f3775aad83410ff2670aa438e811", null ],
+    [ "UpdateAI", "d2/d0f/a15467.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
 ];

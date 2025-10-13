@@ -1,11 +1,9 @@
 var a17267 =
 [
-    [ "npc_pos_tyrannus_eventsAI", "d1/d8d/a17267.html#a51769d22a4cb448fae90d827e2494581", null ],
-    [ "MovementInform", "d1/d8d/a17267.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
-    [ "SetData", "d1/d8d/a17267.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
-    [ "UpdateAI", "d1/d8d/a17267.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
-    [ "deathbringerGUID", "d1/d8d/a17267.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
-    [ "events", "d1/d8d/a17267.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
-    [ "killsLeft", "d1/d8d/a17267.html#ac81d85e0ceb0b571373f44475baa36df", null ],
-    [ "pInstance", "d1/d8d/a17267.html#a44460335986bcedf35dc295c242df6da", null ]
+    [ "npc_pos_after_first_bossAI", "d1/d8d/a17267.html#a622df71849da1e10e2b73068f0adea98", null ],
+    [ "MovementInform", "d1/d8d/a17267.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
+    [ "Reset", "d1/d8d/a17267.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
+    [ "UpdateAI", "d1/d8d/a17267.html#ac45111887fd7833a041355658dd26158", null ],
+    [ "events", "d1/d8d/a17267.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
+    [ "pInstance", "d1/d8d/a17267.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
 ];

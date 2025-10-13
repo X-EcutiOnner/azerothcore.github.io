@@ -1,9 +1,6 @@
 var a08527 =
 [
-    [ "PetInfo", "d4/dbc/a08531.html", "d4/dbc/a08531" ],
-    [ "GetUnslottedHunterPet", "d4/d06/a08527.html#a4e0e22a135703c989976694a32912cbd", null ],
-    [ "CurrentPet", "d4/d06/a08527.html#a7a9f76452985abc65560773ac413208f", null ],
-    [ "MaxStabledPets", "d4/d06/a08527.html#a2a30270bbd396b7fa4e035429ff8d04e", null ],
-    [ "StabledPets", "d4/d06/a08527.html#a6bd064e692fff316581d08680b163026", null ],
-    [ "UnslottedPets", "d4/d06/a08527.html#a8e6f6e36722dd883e6df962a1e950346", null ]
+    [ "active", "d4/d06/a08527.html#a9460571d6fc219ab8c475aab34fc9494", null ],
+    [ "state", "d4/d06/a08527.html#a0600418cb460fdaf8093bfa609e796c8", null ],
+    [ "type", "d4/d06/a08527.html#a4c4a7d0f299ae4e2ceb146a741057032", null ]
 ];

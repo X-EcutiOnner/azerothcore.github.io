@@ -1,10 +1,8 @@
 var a09355 =
 [
-    [ "NearestGameObjectEntryInObjectRangeCheck", "d8/d27/a09355.html#a7d57ae865868d4848caf088c4520b2a7", null ],
-    [ "NearestGameObjectEntryInObjectRangeCheck", "d8/d27/a09355.html#a28d97af524c2bab39e1bd2e5508e434b", null ],
-    [ "operator()", "d8/d27/a09355.html#ad0c6798e28784ed547102414f4c6a31f", null ],
-    [ "i_entry", "d8/d27/a09355.html#a5d19a23e7da2e5e5ed417d0a9623ffbb", null ],
-    [ "i_obj", "d8/d27/a09355.html#a104b8bece6ea78ba049dc592e54311be", null ],
-    [ "i_onlySpawned", "d8/d27/a09355.html#a2a58a6bcff73142e21c082bf2c11eff2", null ],
-    [ "i_range", "d8/d27/a09355.html#a94fc995a14f84060f3bfe5827f17b95e", null ]
+    [ "NearestGameObjectFishingHole", "d8/d27/a09355.html#ab0e4734202edf26b69881ab85abe1d93", null ],
+    [ "NearestGameObjectFishingHole", "d8/d27/a09355.html#a256c64e6c82d98349b958647d98bf4ce", null ],
+    [ "operator()", "d8/d27/a09355.html#a52e2c64f8209ab364f4e85e1f4e947dc", null ],
+    [ "i_obj", "d8/d27/a09355.html#a182fbf6b5cc68fb0eba6be26568c9d78", null ],
+    [ "i_range", "d8/d27/a09355.html#af27a870fb654a130bf1e4ac1472fdffc", null ]
 ];

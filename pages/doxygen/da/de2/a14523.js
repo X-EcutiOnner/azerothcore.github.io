@@ -1,6 +1,6 @@
 var a14523 =
 [
-    [ "gameobjectId", "da/de2/a14523.html#a5cebf652fccc66cb5f98968036405d14", null ],
-    [ "spawnIndex", "da/de2/a14523.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
-    [ "timestamp", "da/de2/a14523.html#a0c49f62b35e906637890fee896c74951", null ]
+    [ "npc_cw_area_triggerAI", "d3/d12/a14527.html", "d3/d12/a14527" ],
+    [ "npc_cw_area_trigger", "da/de2/a14523.html#a11af64ac4ab078566bf8f68a36781939", null ],
+    [ "GetAI", "da/de2/a14523.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
 ];

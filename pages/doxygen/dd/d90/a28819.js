@@ -1,11 +1,20 @@
 var a28819 =
 [
-    [ "SetUp", "dd/d90/a28819.html#abb28ef64461635a540dad471b7b12ebc", null ],
-    [ "TearDown", "dd/d90/a28819.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
-    [ "_previousWorld", "dd/d90/a28819.html#a2633d21816e5aa3e4a649292f07a3369", null ],
-    [ "_worldMock", "dd/d90/a28819.html#ae1629c69438e29ea7be460120132b68b", null ],
-    [ "arenaTeams", "dd/d90/a28819.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
-    [ "team1", "dd/d90/a28819.html#a325d8058950e53d17e16fd90cd105776", null ],
-    [ "team2", "dd/d90/a28819.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
-    [ "team3", "dd/d90/a28819.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
+    [ "RealmMap", "dd/d90/a28819.html#a6031c19ec935fbe535f60a1014483dbd", null ],
+    [ "RealmList", "dd/d90/a28819.html#abe7dfad5160a08a5852cb1436a06eaa9", null ],
+    [ "~RealmList", "dd/d90/a28819.html#a64bea5f38384143cc960840a8e84ef00", null ],
+    [ "Close", "dd/d90/a28819.html#a14a4d9b5383da24bc1ad9754cdfa2183", null ],
+    [ "GetBuildInfo", "dd/d90/a28819.html#a0f7136cb280d2461b1ec0d080645c6e0", null ],
+    [ "GetRealm", "dd/d90/a28819.html#a3e25e63168bcff88d021294559ccf0c5", null ],
+    [ "GetRealms", "dd/d90/a28819.html#afc2cbe2a4ee4d9870821dbe8d96e8fa4", null ],
+    [ "Initialize", "dd/d90/a28819.html#a70954d518dc4559e0aca0388f13db411", null ],
+    [ "Instance", "dd/d90/a28819.html#aea053134fe293fbd4a8801b25fbb44ca", null ],
+    [ "LoadBuildInfo", "dd/d90/a28819.html#a1f8866e57557beb7d69037a63e34428d", null ],
+    [ "UpdateRealm", "dd/d90/a28819.html#ae15cf59b00e8e8e561f266d5dd3e11ae", null ],
+    [ "UpdateRealms", "dd/d90/a28819.html#a0b4559e5538a02ccf5247839005d602e", null ],
+    [ "_builds", "dd/d90/a28819.html#a7c38c3c8b4fe6554c66dbc5ada26a3e0", null ],
+    [ "_realms", "dd/d90/a28819.html#a41693a01cd88ea99b54dd9ca8fe6b445", null ],
+    [ "_resolver", "dd/d90/a28819.html#a1beee0fdd1a9e61f68db925f53d373a9", null ],
+    [ "_updateInterval", "dd/d90/a28819.html#ac07fe3cd4fc18169af4f63b207902e95", null ],
+    [ "_updateTimer", "dd/d90/a28819.html#a5619be8a2649680901cfd7a3608e984a", null ]
 ];

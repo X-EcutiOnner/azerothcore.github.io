@@ -1,6 +1,6 @@
 var a12191 =
 [
-    [ "boss_halyconAI", "d1/d1b/a12195.html", "d1/d1b/a12195" ],
-    [ "boss_halycon", "de/db8/a12191.html#aa149c5f8b34b9c00102f9a0758dcbd9a", null ],
-    [ "GetAI", "de/db8/a12191.html#a861f1b0213ad9bcf572c9d59eabba699", null ]
+    [ "RestoreAttack", "de/db8/a12191.html#a8c5b3b0cbe7f5bfebb1c09987c4066e3", null ],
+    [ "Execute", "de/db8/a12191.html#a633e5abe4a3a9353df63d3778b8d71bc", null ],
+    [ "_boss", "de/db8/a12191.html#a493ef909da834b0befd90f57f54fb10c", null ]
 ];

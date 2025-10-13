@@ -1,6 +1,6 @@
 var a13447 =
 [
-    [ "FilterTargets", "d4/daf/a13447.html#a78675c3421e0243de9e136b646c56be1", null ],
-    [ "PrepareSpellScript", "d4/daf/a13447.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
-    [ "Register", "d4/daf/a13447.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
+    [ "HandleActivateObject", "d4/daf/a13447.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
+    [ "PrepareSpellScript", "d4/daf/a13447.html#ad55914fdc6771e09a508572d59ad30ed", null ],
+    [ "Register", "d4/daf/a13447.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
 ];

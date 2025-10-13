@@ -1,10 +1,9 @@
 var a10443 =
 [
-    [ "VehicleScript", "d3/d4e/a10443.html#a9f708a7e432fcb4abe15dcabb0e5a035", null ],
-    [ "OnAddPassenger", "d3/d4e/a10443.html#a4495f8900ecb85546ac23ebe4783ae7c", null ],
-    [ "OnInstall", "d3/d4e/a10443.html#abbb42dcbc5fad97ed1df45ea7b3afe54", null ],
-    [ "OnInstallAccessory", "d3/d4e/a10443.html#ad59ae4c47404abb86e05ae983704f6ea", null ],
-    [ "OnRemovePassenger", "d3/d4e/a10443.html#ad4094366aba1fb6a1ff19361d1be9210", null ],
-    [ "OnReset", "d3/d4e/a10443.html#a38fca3fec8785f015084b832f9e3b08c", null ],
-    [ "OnUninstall", "d3/d4e/a10443.html#a7d4bafe42756ee73b5ce79783842c243", null ]
+    [ "TransportScript", "d3/d4e/a10443.html#a4b83123b122fa98831d304670a3de50a", null ],
+    [ "IsDatabaseBound", "d3/d4e/a10443.html#a956f0d757e5d974566fa8fac0df731e5", null ],
+    [ "OnAddCreaturePassenger", "d3/d4e/a10443.html#a5afb1f1dca2264089238ddd68b38a86d", null ],
+    [ "OnAddPassenger", "d3/d4e/a10443.html#a806f4829b47429900271f6dde7eaa625", null ],
+    [ "OnRelocate", "d3/d4e/a10443.html#a10334c1929c80fc80c76791cbd52f6dd", null ],
+    [ "OnRemovePassenger", "d3/d4e/a10443.html#a6d6a3af4fcde46101b78cfdb787a2248", null ]
 ];

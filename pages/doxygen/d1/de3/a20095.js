@@ -1,12 +1,5 @@
 var a20095 =
 [
-    [ "npc_freya_wardAI", "d1/de3/a20095.html#afbc2f3d88173e240b87915cf0520b3cf", null ],
-    [ "DoAction", "d1/de3/a20095.html#a4c9418b5474eb572a76168d4a460159a", null ],
-    [ "JustSummoned", "d1/de3/a20095.html#a9075d763014ca50b4e0d2c815e1c23b7", null ],
-    [ "Reset", "d1/de3/a20095.html#a65d304edd3b00b4a45c58bf36b926900", null ],
-    [ "SummonedCreatureDespawn", "d1/de3/a20095.html#a6273b024ebde2fb36ed79eb122f7ac68", null ],
-    [ "UpdateAI", "d1/de3/a20095.html#a11dd073b70e5126f580ec5122dce7bbd", null ],
-    [ "_castTimer", "d1/de3/a20095.html#a6308aadc8ebf41cf045b04ac58e2244b", null ],
-    [ "_summoned", "d1/de3/a20095.html#a5df6604055c5f3936a95f8d0ca5be8c1", null ],
-    [ "summons", "d1/de3/a20095.html#a82932e9f2d570fa6d8394bfd3954c41e", null ]
+    [ "boss_flame_leviathan_overload_deviceAI", "d1/de3/a20095.html#ab28c1371c20672e717f92fbc3656fb99", null ],
+    [ "OnSpellClick", "d1/de3/a20095.html#af432be27e1b91ecf5a5a53c7b6add39e", null ]
 ];

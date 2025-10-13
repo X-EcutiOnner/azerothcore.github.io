@@ -1,10 +1,10 @@
 var a09039 =
 [
-    [ "creatureRate", "df/ddb/a09039.html#aa9c27c19179b8a7bdfdc11d906cd1c06", null ],
-    [ "questDailyRate", "df/ddb/a09039.html#a1798044bdf25ce774191b00e261add1e", null ],
-    [ "questMonthlyRate", "df/ddb/a09039.html#a0db34ed7420bc376cfe64a0d12434fea", null ],
-    [ "questRate", "df/ddb/a09039.html#a914118aa28b3736ff4e6c5b61d738834", null ],
-    [ "questRepeatableRate", "df/ddb/a09039.html#a2b050d4cf6555e824d59a3ffc0558b21", null ],
-    [ "questWeeklyRate", "df/ddb/a09039.html#a0fb31ebc33d0ce11f392be845907e043", null ],
-    [ "spellRate", "df/ddb/a09039.html#a508485f1e6833c58a11706667a2c24fd", null ]
+    [ "PetLevelInfo", "df/ddb/a09039.html#ad8e757abeae500063e963ffef5469809", null ],
+    [ "armor", "df/ddb/a09039.html#ab7097f75cf86bd6f135f21dace61a89e", null ],
+    [ "health", "df/ddb/a09039.html#a322dcab3af8f98726aa6addf38e8891b", null ],
+    [ "mana", "df/ddb/a09039.html#a27352e73d6ed3945e398e0634dee1e96", null ],
+    [ "max_dmg", "df/ddb/a09039.html#a092f2600f64f2af885142b2e96d1fe64", null ],
+    [ "min_dmg", "df/ddb/a09039.html#a299d1c7f4c28893e09de79cd816afa95", null ],
+    [ "stats", "df/ddb/a09039.html#a897aabacdbe9cbc4afcc40ab059c12be", null ]
 ];

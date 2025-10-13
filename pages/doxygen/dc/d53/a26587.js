@@ -1,5 +1,6 @@
 var a26587 =
 [
-    [ "spell_q55_sacred_cleansing", "dc/d53/a26587.html#a4aa8a16350a7a55706841471fd985ca2", null ],
-    [ "GetSpellScript", "dc/d53/a26587.html#a50a8f2d777169aaeef88533b66b88fb2", null ]
+    [ "HandleScriptEffect", "dc/d53/a26587.html#a7dc7cb2dcdd6518a253a459e2e711c89", null ],
+    [ "PrepareSpellScript", "dc/d53/a26587.html#a9c41ae2e7ef1947c11c16d8abb48ec56", null ],
+    [ "Register", "dc/d53/a26587.html#a5b2a218cca68177209ca42be9dfbc8ea", null ]
 ];

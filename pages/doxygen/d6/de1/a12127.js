@@ -1,6 +1,7 @@
 var a12127 =
 [
-    [ "boss_high_priestess_thaurissanAI", "d6/de1/a12127.html#acbc89b59865a5fda5a4143dd8c690b37", null ],
-    [ "JustEngagedWith", "d6/de1/a12127.html#a6602682950aab4e9932bf6cdfac9886b", null ],
-    [ "UpdateAI", "d6/de1/a12127.html#a216a5bc7a38aa5e13f9d025f44e04779", null ]
+    [ "boss_grizzleAI", "d6/de1/a12127.html#a3310892cafc2a8e022105f77258b25af", null ],
+    [ "JustEngagedWith", "d6/de1/a12127.html#a598e7e7d6bdd847bf01968116988a935", null ],
+    [ "UpdateAI", "d6/de1/a12127.html#a2dc5c27cd4eaf2aa1484a370a68e3314", null ],
+    [ "nextTremorTime", "d6/de1/a12127.html#ab0f05592db6d0c806247e76232760c44", null ]
 ];

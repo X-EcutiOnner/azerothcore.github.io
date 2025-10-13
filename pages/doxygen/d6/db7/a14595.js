@@ -1,10 +1,13 @@
 var a14595 =
 [
-    [ "boss_headless_horseman_pumpkin", "d6/db7/a14595.html#a62191ae523401ac57a947db96a245f7a", null ],
-    [ "AttackStart", "d6/db7/a14595.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
-    [ "MoveInLineOfSight", "d6/db7/a14595.html#a212f9803f66d297cd276ef842247776a", null ],
-    [ "Reset", "d6/db7/a14595.html#a9d5f6922a52146b61168f1c50b378294", null ],
-    [ "SpellHit", "d6/db7/a14595.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
-    [ "UpdateAI", "d6/db7/a14595.html#aca53b8839bce5e180ba8583490d694c3", null ],
-    [ "timer", "d6/db7/a14595.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
+    [ "npc_costumed_orphan_matron", "d6/db7/a14595.html#a0b913090588613ac00ea928f6273d56f", null ],
+    [ "DoAction", "d6/db7/a14595.html#a7a7739f89604ffb5afc6bab75118340e", null ],
+    [ "GetInitXYZ", "d6/db7/a14595.html#a3c6d0e6cecd1c4ef85b3d77c45ef6533", null ],
+    [ "Reset", "d6/db7/a14595.html#a962de50b13079f3337c4e41eb2d98b55", null ],
+    [ "sGossipHello", "d6/db7/a14595.html#a1a9c58c087b8addf8e482375737d6c49", null ],
+    [ "sQuestAccept", "d6/db7/a14595.html#adac5d514261a210a701442da13ba1587", null ],
+    [ "UpdateAI", "d6/db7/a14595.html#a4679d807df8749265ba0453c5b7588f1", null ],
+    [ "allowQuest", "d6/db7/a14595.html#a722f4bfd0fb8b2665ff2b79d3208bc90", null ],
+    [ "eventStarted", "d6/db7/a14595.html#a5292ab4e45fe3a858b3a59ef4a79bb34", null ],
+    [ "horseGUID", "d6/db7/a14595.html#a92cfd09cefd26933ae322f2cc2716927", null ]
 ];

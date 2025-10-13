@@ -1,12 +1,6 @@
 var a27707 =
 [
-    [ "npc_preciousAI", "d4/de1/a27707.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
-    [ "FlagForDespawn", "d4/de1/a27707.html#a934a5147c1cc9937189011fb061657da", null ],
-    [ "InitializeAI", "d4/de1/a27707.html#aa15843c4029f2df2ee04d21b5157602a", null ],
-    [ "JustEngagedWith", "d4/de1/a27707.html#a58bc4149111605850f070a77ee776313", null ],
-    [ "JustReachedHome", "d4/de1/a27707.html#a31893e9441b24398554370a58ef8bd78", null ],
-    [ "Reset", "d4/de1/a27707.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
-    [ "UpdateAI", "d4/de1/a27707.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
-    [ "events", "d4/de1/a27707.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
-    [ "flaggedForDespawn", "d4/de1/a27707.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
+    [ "npc_innkeeper", "d4/de1/a27707.html#a006f27d898ead8827d8b98d8b93d430d", null ],
+    [ "OnGossipHello", "d4/de1/a27707.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
+    [ "OnGossipSelect", "d4/de1/a27707.html#ab6cf511f5b032050336a77d1e4598dda", null ]
 ];

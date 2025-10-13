@@ -1,6 +1,9 @@
 var a12695 =
 [
-    [ "boss_mr_smiteAI", "df/d41/a12699.html", "df/d41/a12699" ],
-    [ "boss_mr_smite", "d1/da2/a12695.html#a011d41112ef7376b71d2959f806be262", null ],
-    [ "GetAI", "d1/da2/a12695.html#a619ca0aede1eb33f992328048319c4f0", null ]
+    [ "npc_flamewaker_priestAI", "d1/da2/a12695.html#aa0508dda5bc365896128f088b6de30f4", null ],
+    [ "JustDied", "d1/da2/a12695.html#ad1f51c4589abe6ef5bcf513d70e34a4c", null ],
+    [ "JustEngagedWith", "d1/da2/a12695.html#a15fefb756ad1ae20257d4ed9cb1d3eca", null ],
+    [ "Reset", "d1/da2/a12695.html#a3c3629a6c6987e861e40a893363d2508", null ],
+    [ "UpdateAI", "d1/da2/a12695.html#a28c0ed65521f3d2150874ddc1b913933", null ],
+    [ "events", "d1/da2/a12695.html#a7d769cc852a69fdf719cb7958c3d890c", null ]
 ];

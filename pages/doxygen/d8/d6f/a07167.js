@@ -1,7 +1,5 @@
 var a07167 =
 [
-    [ "AuctionSearchUpdateBid", "d8/d6f/a07167.html#ad7ecaf272e5cc8fe61e0b448d05b6d27", null ],
-    [ "auctionId", "d8/d6f/a07167.html#a6ebbff1fcebe77ed4735483ad481fd00", null ],
-    [ "bid", "d8/d6f/a07167.html#a14b7f79b2aa0b020c8c940d6b01c4efc", null ],
-    [ "bidderGuid", "d8/d6f/a07167.html#a843bcff41f694075ea056d9a3c71467f", null ]
+    [ "AuctionSearchAdd", "d8/d6f/a07167.html#a40116c721d736fe362a3dab56e6b3113", null ],
+    [ "searchableAuctionEntry", "d8/d6f/a07167.html#a48e000b0e7d9411676fd2ccacf283163", null ]
 ];

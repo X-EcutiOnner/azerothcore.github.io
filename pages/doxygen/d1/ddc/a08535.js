@@ -1,20 +1,9 @@
 var a08535 =
 [
-    [ "CinematicMgr", "d1/ddc/a08535.html#a95547140d5718eb7fb4a8242a6e6de05", null ],
-    [ "~CinematicMgr", "d1/ddc/a08535.html#ac56017a73bed15eadfdb6d17891328ff", null ],
-    [ "BeginCinematic", "d1/ddc/a08535.html#a94ef6fc060617708b7bfd3a8c311e519", null ],
-    [ "EndCinematic", "d1/ddc/a08535.html#a8a47c7cff4414c6aea3aa31fa483cc60", null ],
-    [ "GetActiveCinematicCamera", "d1/ddc/a08535.html#a0535dee9b0ec7aa6176809c6dca16b30", null ],
-    [ "IsOnCinematic", "d1/ddc/a08535.html#a904cb7a2db9b9e92e8539b736487ad0e", null ],
-    [ "SetActiveCinematicCamera", "d1/ddc/a08535.html#afa5c37702ecdb71e09e552b92fa5ad71", null ],
-    [ "UpdateCinematicLocation", "d1/ddc/a08535.html#afdcf4c2361f5ce445b1dfc013cf3348d", null ],
-    [ "Player", "d1/ddc/a08535.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
-    [ "m_activeCinematicCameraId", "d1/ddc/a08535.html#ab8cd685c623be2b2609a71e8c4ebb740", null ],
-    [ "m_cinematicCamera", "d1/ddc/a08535.html#a0c527989b49df340a268b8f69911377c", null ],
-    [ "m_cinematicDiff", "d1/ddc/a08535.html#a398e47385916c712677268bed43f7955", null ],
-    [ "m_cinematicLength", "d1/ddc/a08535.html#a60c48bec98a06c5cc0e50268df35c9cd", null ],
-    [ "m_CinematicObject", "d1/ddc/a08535.html#a969e4ab19088fd45f3ba9483efa2e481", null ],
-    [ "m_lastCinematicCheck", "d1/ddc/a08535.html#a50c42e2f39ba97a39ee31043dec17337", null ],
-    [ "m_remoteSightPosition", "d1/ddc/a08535.html#ae4f473744f0e3ad43ef51dbf30f62f55", null ],
-    [ "player", "d1/ddc/a08535.html#a00099569f6f2b683d4d5640bf971bf2d", null ]
+    [ "PetInfo", "d2/d4c/a08539.html", "d2/d4c/a08539" ],
+    [ "GetUnslottedHunterPet", "d1/ddc/a08535.html#a4e0e22a135703c989976694a32912cbd", null ],
+    [ "CurrentPet", "d1/ddc/a08535.html#a7a9f76452985abc65560773ac413208f", null ],
+    [ "MaxStabledPets", "d1/ddc/a08535.html#a2a30270bbd396b7fa4e035429ff8d04e", null ],
+    [ "StabledPets", "d1/ddc/a08535.html#a6bd064e692fff316581d08680b163026", null ],
+    [ "UnslottedPets", "d1/ddc/a08535.html#a8e6f6e36722dd883e6df962a1e950346", null ]
 ];

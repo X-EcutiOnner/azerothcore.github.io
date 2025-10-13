@@ -1,6 +1,7 @@
 var a12579 =
 [
-    [ "boss_lucifronAI", "d1/d08/a12583.html", "d1/d08/a12583" ],
-    [ "boss_lucifron", "d3/dc2/a12579.html#aa54be5c49a77524b036c167dbb6d81ea", null ],
-    [ "GetAI", "d3/dc2/a12579.html#a885366d4190bbc77dc696ee6910435ed", null ]
+    [ "HandlePeriodic", "d3/dc2/a12579.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
+    [ "PrepareAuraScript", "d3/dc2/a12579.html#aae9d31049889eea5c5f09dd5437de950", null ],
+    [ "Register", "d3/dc2/a12579.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
+    [ "Validate", "d3/dc2/a12579.html#a462b882e41932f99e3501f32368cf4de", null ]
 ];

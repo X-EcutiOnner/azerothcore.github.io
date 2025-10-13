@@ -1,5 +1,9 @@
 var a27563 =
 [
-    [ "go_arcane_prison", "d3/d99/a27563.html#ad73ac33d843027de0e516de8f90c45a0", null ],
-    [ "OnGossipHello", "d3/d99/a27563.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
+    [ "go_gilded_brazierAI", "d3/d99/a27563.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
+    [ "GossipHello", "d3/d99/a27563.html#afac9e217c294e72ff5f2526422e6321e", null ],
+    [ "Initialize", "d3/d99/a27563.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
+    [ "UpdateAI", "d3/d99/a27563.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
+    [ "_events", "d3/d99/a27563.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
+    [ "_playerGUID", "d3/d99/a27563.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
 ];

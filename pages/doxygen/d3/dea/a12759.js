@@ -1,17 +1,6 @@
 var a12759 =
 [
-    [ "boss_attumen", "d3/dea/a12759.html#a394925c2a44b0bfe8931ae88dd9868ae", null ],
-    [ "CanMeleeHit", "d3/dea/a12759.html#ae685929086090928802854cc93f9934a", null ],
-    [ "DamageTaken", "d3/dea/a12759.html#a0b426b760d9ace05211c3383e7628022", null ],
-    [ "EnterEvadeMode", "d3/dea/a12759.html#af00f91294c04d0fe932c922fd270c5dc", null ],
-    [ "Initialize", "d3/dea/a12759.html#ac89445e6a04c2d8cd04e53f4aea30c58", null ],
-    [ "IsSummonedBy", "d3/dea/a12759.html#a1fa6827c323cbda15e2a438bc376e74c", null ],
-    [ "JustDied", "d3/dea/a12759.html#a375a95d46f8db8a53ea6420dd557855e", null ],
-    [ "JustSummoned", "d3/dea/a12759.html#af91018e54244864ca4cd1b9d40c569df", null ],
-    [ "KilledUnit", "d3/dea/a12759.html#ad167a1ec5ff737ad77b0c492efc022f0", null ],
-    [ "Reset", "d3/dea/a12759.html#ab8815ed9b1068e748e43346725cd9281", null ],
-    [ "ScheduleTasks", "d3/dea/a12759.html#ae63d0a3c7ae4ad755f091f2d31342a57", null ],
-    [ "SpellHit", "d3/dea/a12759.html#a1181ae1d50d6c52483b0d90423997c90", null ],
-    [ "UpdateAI", "d3/dea/a12759.html#aac982f13b35e7c37b49a4e76ace5fccd", null ],
-    [ "_phase", "d3/dea/a12759.html#a8a668537dc5b7c01e6d9d91c67d6da72", null ]
+    [ "HandleTriggerSpell", "d3/dea/a12759.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
+    [ "PrepareSpellScript", "d3/dea/a12759.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
+    [ "Register", "d3/dea/a12759.html#a7e9c140aecea892ee6971bc97d385640", null ]
 ];

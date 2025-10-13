@@ -1,41 +1,12 @@
 var a04457 =
 [
-    [ "FileCloser", "db/d6c/a11570.html", "db/d6c/a11570" ],
-    [ "BaseTable", "d1/df1/a11574.html", "d1/df1/a11574" ],
-    [ "DumpTable", "db/d39/a11578.html", "db/d39/a11578" ],
-    [ "StringTransaction", "de/d1a/a11582.html", "de/d1a/a11582" ],
-    [ "TableField", "db/da1/a11586.html", "db/da1/a11586" ],
-    [ "TableStruct", "dc/ddc/a11590.html", "dc/ddc/a11590" ],
-    [ "FileHandle", "d5/de3/a04457.html#ad7de4fbad2e55215496223bdf2a32cd9", null ],
-    [ "GuidType", "d5/de3/a04457.html#a786729c2a29db8efe3400a170aeb9073", [
-      [ "GUID_TYPE_ACCOUNT", "d5/de3/a04457.html#a786729c2a29db8efe3400a170aeb9073add99b8eef962c1e9a87a68646b4bf876", null ],
-      [ "GUID_TYPE_CHAR", "d5/de3/a04457.html#a786729c2a29db8efe3400a170aeb9073ac93e6c4d1a9efe0499f1c7a7b826821e", null ],
-      [ "GUID_TYPE_PET", "d5/de3/a04457.html#a786729c2a29db8efe3400a170aeb9073a69c016bd84f08697ac13b16609866466", null ],
-      [ "GUID_TYPE_MAIL", "d5/de3/a04457.html#a786729c2a29db8efe3400a170aeb9073a53f4408b25dfeb8012a6ff280c5abf34", null ],
-      [ "GUID_TYPE_ITEM", "d5/de3/a04457.html#a786729c2a29db8efe3400a170aeb9073ad1a7c19c45454ebb3d4fbaa8e7c23e02", null ],
-      [ "GUID_TYPE_EQUIPMENT_SET", "d5/de3/a04457.html#a786729c2a29db8efe3400a170aeb9073a7e486a867408d382ecfe7bfe1a79a157", null ],
-      [ "GUID_TYPE_NULL", "d5/de3/a04457.html#a786729c2a29db8efe3400a170aeb9073a4215597c66d8cb0ea684255c5b7a2874", null ]
-    ] ],
-    [ "AppendTableDump", "d5/de3/a04457.html#a372c4190050b1bd62a350242bd1ebeca", null ],
-    [ "AssertBaseTable", "d5/de3/a04457.html#a3e4f9eec1091165debd31a11766ccf29", null ],
-    [ "ChangeColumn", "d5/de3/a04457.html#a472b6d51c18d3fc72f924f199508ea12", null ],
-    [ "ChangeGuid", "d5/de3/a04457.html#a43971347cb9fd242d082d962c1b8184e", null ],
-    [ "FindColumn", "d5/de3/a04457.html#aefd4f8ad39e21517e1160f4209e9492f", null ],
-    [ "FindColumnByName", "d5/de3/a04457.html#aef6e6393d5903e926f3f8ed0d65501b3", null ],
-    [ "FixNULLfields", "d5/de3/a04457.html#ad06caa0201c6ed5de4537e124ac90086", null ],
-    [ "GenerateWhereStr", "d5/de3/a04457.html#af5ecd510e3a4c642ed2250c17649f925", null ],
-    [ "GenerateWhereStr", "d5/de3/a04457.html#a78a33c3255668abb77c4710ed82ab71d", null ],
-    [ "GetColumn", "d5/de3/a04457.html#a21507cf8ad94e164df4f1bfe273d32da", null ],
-    [ "GetColumnIndexByName", "d5/de3/a04457.html#a995022112291c980706933e2de6accf5", null ],
-    [ "GetFileHandle", "d5/de3/a04457.html#a4b7f4eca1fd3d5d501b08819b8949edb", null ],
-    [ "GetTableName", "d5/de3/a04457.html#af32b9d84c5a117bcf96df822301d8350", null ],
-    [ "MarkDependentColumn", "d5/de3/a04457.html#a17802f71d1e9f88bd6ded0e79a8b4405", null ],
-    [ "MarkWhereField", "d5/de3/a04457.html#ac8eb839b544e24a47a01c195daec540a", null ],
-    [ "RegisterNewGuid", "d5/de3/a04457.html#a99e441709c35a6ba0ffeda0e25143cf9", null ],
-    [ "StringsEqualCaseInsensitive", "d5/de3/a04457.html#a83fd95e505d5de193245e4de46589892", null ],
-    [ "ValidateFields", "d5/de3/a04457.html#ac091f551576a1206061821e3d95b9bc6", null ],
-    [ "BaseTables", "d5/de3/a04457.html#a9a85cce136a6d1ebc3195903ee719aec", null ],
-    [ "CharacterTables", "d5/de3/a04457.html#ae8849d3a4dc3838acedf5f6f84242c08", null ],
-    [ "DUMP_TABLE_COUNT", "d5/de3/a04457.html#a4d61020c5d40e9d3093656551dcc00f0", null ],
-    [ "DumpTables", "d5/de3/a04457.html#a846234dc3d2969c8ef6f67687a3a4049", null ]
+    [ "MMAP::MMapFactory", "d9/d7c/a04999.html", "d9/d7c/a04999" ],
+    [ "MMAP_LOAD_RESULT", "d5/de3/a04457.html#a329271d76c3ed7ad6d255d45094b4868", [
+      [ "MMAP_LOAD_RESULT_ERROR", "d5/de3/a04457.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
+      [ "MMAP_LOAD_RESULT_OK", "d5/de3/a04457.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "d5/de3/a04457.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ],
+      [ "MMAP_LOAD_RESULT_ERROR", "d5/de3/a04457.html#a329271d76c3ed7ad6d255d45094b4868a66ec06574c26cbc0b14b939c3cb09f85", null ],
+      [ "MMAP_LOAD_RESULT_OK", "d5/de3/a04457.html#a329271d76c3ed7ad6d255d45094b4868ad7493681e0258dd1099139230f17df10", null ],
+      [ "MMAP_LOAD_RESULT_IGNORED", "d5/de3/a04457.html#a329271d76c3ed7ad6d255d45094b4868a87dfee65ac7d1c8acf69eea806a151c8", null ]
+    ] ]
 ];

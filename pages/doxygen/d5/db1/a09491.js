@@ -1,8 +1,8 @@
 var a09491 =
 [
-    [ "AllDeadCreaturesInRange", "d5/db1/a09491.html#a31b4976c3ea6203b9a1e7f7970a97977", null ],
-    [ "operator()", "d5/db1/a09491.html#a3638a8d3c5791b590ec717e4f1ba9cef", null ],
-    [ "_obj", "d5/db1/a09491.html#a4ca7fcf9945e698a790d01d3fadae98e", null ],
-    [ "_range", "d5/db1/a09491.html#a431ada86a2b864d53773a85b05d8da4f", null ],
-    [ "_reqAlive", "d5/db1/a09491.html#aefd0d77b69b5df9b99c148e0254fda09", null ]
+    [ "AllCreaturesMatchingOneEntryInRange", "d5/db1/a09491.html#a440899ae5e52fedea316b7caa550455e", null ],
+    [ "operator()", "d5/db1/a09491.html#a95c87356617b135cc3ab0aec74e9f9c9", null ],
+    [ "m_fRange", "d5/db1/a09491.html#ac3ca671167fe5dbc8f9798327a8a3fcf", null ],
+    [ "m_pObject", "d5/db1/a09491.html#a1a7b27a1b2f0d623829605e42bf98900", null ],
+    [ "m_uiEntries", "d5/db1/a09491.html#a8411b275c6aad74eac83147a6d06fb0b", null ]
 ];

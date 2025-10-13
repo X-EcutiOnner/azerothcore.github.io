@@ -1,6 +1,5 @@
 var a21611 =
 [
-    [ "npc_vh_teleportation_portalAI", "db/d90/a21615.html", "db/d90/a21615" ],
-    [ "npc_vh_teleportation_portal", "d0/d84/a21611.html#a9a554058f594f992a17dbb3887117a6f", null ],
-    [ "GetAI", "d0/d84/a21611.html#a0721c64c01ae69bd78dfc15637c97f49", null ]
+    [ "go_vh_activation_crystal", "d0/d84/a21611.html#a4af485ac7ab6144282f3204a6d045cea", null ],
+    [ "OnGossipHello", "d0/d84/a21611.html#a47a61ba67086580135559332931e9c6e", null ]
 ];

@@ -1,6 +1,6 @@
 var a16139 =
 [
-    [ "HandleScriptEffect", "d4/d15/a16139.html#aaa650972803d14e4d74be977430b04f6", null ],
-    [ "PrepareSpellScript", "d4/d15/a16139.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
-    [ "Register", "d4/d15/a16139.html#a3405c1b04f2e623662c7acaa6810278c", null ]
+    [ "instance_azjol_nerub_InstanceScript", "d2/dc7/a16143.html", "d2/dc7/a16143" ],
+    [ "instance_azjol_nerub", "d4/d15/a16139.html#a61476a0d15136d2bdb3a65eca72963da", null ],
+    [ "GetInstanceScript", "d4/d15/a16139.html#a8bb8477669c6369afe508a400bd4d489", null ]
 ];

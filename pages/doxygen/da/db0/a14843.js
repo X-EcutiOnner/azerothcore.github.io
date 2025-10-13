@@ -1,6 +1,6 @@
 var a14843 =
 [
-    [ "FilterTargets", "da/db0/a14843.html#a45b0713b2942199bf0e19752fe765aac", null ],
-    [ "PrepareSpellScript", "da/db0/a14843.html#a7f7177d7754a99743202f69a0342f587", null ],
-    [ "Register", "da/db0/a14843.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
+    [ "HandleHit", "da/db0/a14843.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
+    [ "PrepareSpellScript", "da/db0/a14843.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
+    [ "Register", "da/db0/a14843.html#a64a861b5c25df5780390aa55899393d7", null ]
 ];

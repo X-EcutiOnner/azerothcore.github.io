@@ -1,7 +1,8 @@
 var a26183 =
 [
-    [ "OnApply", "dc/de9/a26183.html#aa86d7b45f028773b8666c06d3a0e60b4", null ],
-    [ "OnRemove", "dc/de9/a26183.html#a0fdd3c926bb1b2846579102e64e8e18c", null ],
-    [ "PrepareAuraScript", "dc/de9/a26183.html#aa93b45e31c33caf3ea51a26846566b34", null ],
-    [ "Register", "dc/de9/a26183.html#a56d819c88a4e70a89cef5183e3c5b728", null ]
+    [ "HandleScript", "dc/de9/a26183.html#ad99c741ef4bf707ec4b4726a3610d827", null ],
+    [ "Load", "dc/de9/a26183.html#ab7aac5c557c76fdd195565a99d746dc9", null ],
+    [ "PrepareSpellScript", "dc/de9/a26183.html#abb6e76d537d61b5b38ce4488d230d6de", null ],
+    [ "Register", "dc/de9/a26183.html#a2f7e819dfa30f4f0d3645fde9c87408c", null ],
+    [ "Validate", "dc/de9/a26183.html#a0767c66cbc288bee6ee0eb3a4fde315f", null ]
 ];

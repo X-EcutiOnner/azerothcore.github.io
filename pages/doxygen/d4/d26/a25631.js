@@ -1,9 +1,6 @@
 var a25631 =
 [
-    [ "DoCheckCast", "d4/d26/a25631.html#a09c7bd66988c38cb019656842ed87366", null ],
-    [ "HandleDummy", "d4/d26/a25631.html#a183e2ac37a432ea2902b31e24a474cea", null ],
-    [ "HandleScriptEffect", "d4/d26/a25631.html#a396b1129f15056d0b22c7887f56bea99", null ],
-    [ "PrepareSpellScript", "d4/d26/a25631.html#aad4de93de822a742e02ac8d5d395d482", null ],
-    [ "Register", "d4/d26/a25631.html#a84fc18d6a2d92aefa2cc4d8095780314", null ],
-    [ "Validate", "d4/d26/a25631.html#a2565f0ad3bb988ad37dd6a60f08c995c", null ]
+    [ "PrepareAuraScript", "d4/d26/a25631.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
+    [ "Register", "d4/d26/a25631.html#abb54f08b1932e3638537656360d3aad8", null ],
+    [ "AuraEffectHandleModes", "d4/d26/a25631.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
 ];

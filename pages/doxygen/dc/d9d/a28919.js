@@ -1,31 +1,5 @@
 var a28919 =
 [
-    [ "Exception", "d2/d4b/a28923.html", "d2/d4b/a28923" ],
-    [ "Iterator", "dc/d0a/a28935.html", "dc/d0a/a28935" ],
-    [ "NotFound", "de/d0f/a28927.html", "de/d0f/a28927" ],
-    [ "Record", "d8/d62/a28931.html", "d8/d62/a28931" ],
-    [ "DBCFile", "dc/d9d/a28919.html#a1ad4638c766b9222924e17977153439c", null ],
-    [ "~DBCFile", "dc/d9d/a28919.html#a2453497157878f50c1e709e834fa2ca6", null ],
-    [ "DBCFile", "dc/d9d/a28919.html#a1ad4638c766b9222924e17977153439c", null ],
-    [ "~DBCFile", "dc/d9d/a28919.html#a2453497157878f50c1e709e834fa2ca6", null ],
-    [ "begin", "dc/d9d/a28919.html#a8059ee48b626aa095d186771b3992121", null ],
-    [ "begin", "dc/d9d/a28919.html#a3fa1721514df95a0fdaab68383c92877", null ],
-    [ "end", "dc/d9d/a28919.html#a49d9c8ab11bf8d10f754369e6e37fac9", null ],
-    [ "end", "dc/d9d/a28919.html#ae41b3ec666d9ccd6804d90a341cc7207", null ],
-    [ "getFieldCount", "dc/d9d/a28919.html#af9946ba472555e6f3d38d124759d3e4d", null ],
-    [ "getFieldCount", "dc/d9d/a28919.html#af9946ba472555e6f3d38d124759d3e4d", null ],
-    [ "getMaxId", "dc/d9d/a28919.html#aeb8bf52f3140176b383d746247763d69", null ],
-    [ "getRecord", "dc/d9d/a28919.html#ac3539b586d9d87f274e582115c6fad21", null ],
-    [ "getRecord", "dc/d9d/a28919.html#a24c3e91383aec085c92c7b632497c192", null ],
-    [ "getRecordCount", "dc/d9d/a28919.html#ae0fd1c5f3728ec3073a6615dc9604f9c", null ],
-    [ "getRecordCount", "dc/d9d/a28919.html#ae0fd1c5f3728ec3073a6615dc9604f9c", null ],
-    [ "open", "dc/d9d/a28919.html#a8255273a3ed878f743837eecf83c5897", null ],
-    [ "open", "dc/d9d/a28919.html#a8255273a3ed878f743837eecf83c5897", null ],
-    [ "data", "dc/d9d/a28919.html#a13665b42b03d29542922798b8e596db0", null ],
-    [ "fieldCount", "dc/d9d/a28919.html#a5bad58543d306efba432f49474861c78", null ],
-    [ "filename", "dc/d9d/a28919.html#a41e6549e414b05b545e4cc2e6c9ed526", null ],
-    [ "recordCount", "dc/d9d/a28919.html#a1078e933a1984bc8cd74126bbd217571", null ],
-    [ "recordSize", "dc/d9d/a28919.html#a612b41c93f0acc15638ff9874f260799", null ],
-    [ "stringSize", "dc/d9d/a28919.html#a294ac17f748f5db90e9795b0d35a4dbf", null ],
-    [ "stringTable", "dc/d9d/a28919.html#ae6c0a134786acbe1ef184d053efc2b00", null ]
+    [ "Deep", "dc/d9d/a28919.html#a9efcd2f19d9701713666f1ad2285d992", null ],
+    [ "Fishable", "dc/d9d/a28919.html#a929299daf6bc46aa775b9b0fa055c9e2", null ]
 ];

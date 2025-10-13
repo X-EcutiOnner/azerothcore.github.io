@@ -1,5 +1,5 @@
 var a27639 =
 [
-    [ "item_mysterious_egg", "d0/d2f/a27639.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
-    [ "OnExpire", "d0/d2f/a27639.html#a5ea72284626826b75819f89b3b91c540", null ]
+    [ "go_veil_skith_cage", "d0/d2f/a27639.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
+    [ "OnGossipHello", "d0/d2f/a27639.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
 ];

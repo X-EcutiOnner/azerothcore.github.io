@@ -1,13 +1,14 @@
 var a17515 =
 [
-    [ "npc_kinetic_bombAI", "df/dd8/a17515.html#a0f3852f332d4027b5a00a67e20ec886b", null ],
-    [ "DoAction", "df/dd8/a17515.html#a52e913b244e58f99745926d021dc0d95", null ],
-    [ "IsSummonedBy", "df/dd8/a17515.html#a03dc3870b23105bb1d0d207adefe2541", null ],
-    [ "Reset", "df/dd8/a17515.html#abf30320da7f6fc6a4f213b0c4b2b24ce", null ],
-    [ "UpdateAI", "df/dd8/a17515.html#a1ce9bf99879796652878990a773e6a2c", null ],
-    [ "_events", "df/dd8/a17515.html#a7b14483f361a90b1ff2c5de06d6dbbaf", null ],
-    [ "_groundZ", "df/dd8/a17515.html#ac4de8610671b000bdff5cf47f2aecd0f", null ],
-    [ "_x", "df/dd8/a17515.html#a5780cb1c041d7a57f75e0dbeadc27814", null ],
-    [ "_y", "df/dd8/a17515.html#a5d9f4039c87e1e57234af51cd4617022", null ],
-    [ "exploded", "df/dd8/a17515.html#a1391f0fffa2f57cbb630b34bfc78aa64", null ]
+    [ "npc_ball_of_flameAI", "df/dd8/a17515.html#a90314990bc6404bf2a4005bb94213926", null ],
+    [ "AttackStart", "df/dd8/a17515.html#a34d51c96005f620c0010948acb6c89ec", null ],
+    [ "DamageDealt", "df/dd8/a17515.html#ac2d36bc12bb86c329721a2af224d037f", null ],
+    [ "DoAction", "df/dd8/a17515.html#ac589db56562987de5bbed27a2bead49f", null ],
+    [ "MoveInLineOfSight", "df/dd8/a17515.html#a7bb96de89b9dc6b6f97443e9aec3ad61", null ],
+    [ "MovementInform", "df/dd8/a17515.html#ab18870c29224fc3fa5e7b76c1aa981f4", null ],
+    [ "SetGUID", "df/dd8/a17515.html#ab82ac6ffc7f946428c26f5bd6585f95c", null ],
+    [ "_chaseGUID", "df/dd8/a17515.html#a30dc40f8922f8f34d6ad7ec3053413e4", null ],
+    [ "_exploded", "df/dd8/a17515.html#a724de41f7b14755d704d5de335da380b", null ],
+    [ "_instance", "df/dd8/a17515.html#af5d8717572176409eca01ae214910c7f", null ],
+    [ "_started", "df/dd8/a17515.html#a508a5e3f0acafa98956bba6eb41f28fb", null ]
 ];

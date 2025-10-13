@@ -1,6 +1,10 @@
 var a21875 =
 [
-    [ "npc_steam_powered_auctioneerAI", "d6/d4a/a21879.html", "d6/d4a/a21879" ],
-    [ "npc_steam_powered_auctioneer", "de/d73/a21875.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
-    [ "GetAI", "de/d73/a21875.html#a39a2f0c187078c759bc4a391e0a81068", null ]
+    [ "npc_preparations_for_war_vehicle", "de/d73/a21875.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
+    [ "InitializeAI", "de/d73/a21875.html#a85eaba9e51498313f8498eaaf0e7d0d1", null ],
+    [ "MovementInform", "de/d73/a21875.html#ac78c5675b42563f46cc2af0f0c97bee0", null ],
+    [ "UpdateAI", "de/d73/a21875.html#ae40a23070d96ecf122e9de5571a845ef", null ],
+    [ "pointId", "de/d73/a21875.html#ae75d286eb6116b41adb346861b3c1365", null ],
+    [ "searchForShipTimer", "de/d73/a21875.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
+    [ "transportEntry", "de/d73/a21875.html#aa0083566387cd42750aaa56b1fa23fed", null ]
 ];

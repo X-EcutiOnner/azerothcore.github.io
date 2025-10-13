@@ -1,9 +1,13 @@
 var a27923 =
 [
-    [ "npc_herald_of_the_lich_king", "d4/d53/a27923.html#a62e373796ce4e6509692e6837cdb561f", null ],
-    [ "ChangeZoneEventStatus", "d4/d53/a27923.html#a30c44f2f62badd27b105a55527d40670", null ],
-    [ "DoAction", "d4/d53/a27923.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
-    [ "InitializeAI", "d4/d53/a27923.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
-    [ "UpdateAI", "d4/d53/a27923.html#a21a5093a46959f4b69777b63de12c557", null ],
-    [ "UpdateWeather", "d4/d53/a27923.html#a3c6d076171596c9ce472cddda18a42be", null ]
+    [ "npc_spring_rabbitAI", "d4/d53/a27923.html#a1211ab47dee4844b90a010c284c4f1a5", null ],
+    [ "DoAction", "d4/d53/a27923.html#a288ddb2f1ee0ab7113f1a1f34dc545c5", null ],
+    [ "JustEngagedWith", "d4/d53/a27923.html#a0c36f1dfc094007990f067544a940538", null ],
+    [ "Reset", "d4/d53/a27923.html#ac0f6b47044099016dd6453674b75b2c8", null ],
+    [ "UpdateAI", "d4/d53/a27923.html#af9da118068234755fa9219b84050d2a3", null ],
+    [ "bunnyTimer", "d4/d53/a27923.html#a99c2923194cf6a07bee8924abf98f470", null ],
+    [ "inLove", "d4/d53/a27923.html#aec8887aedf32fb4ebcc68c48f0ee0ea5", null ],
+    [ "jumpTimer", "d4/d53/a27923.html#a5c17e00187ac87b23482dfbabb89809b", null ],
+    [ "rabbitGUID", "d4/d53/a27923.html#af838b25c8442767aaef16e95022cb062", null ],
+    [ "searchTimer", "d4/d53/a27923.html#af1b82227dadf30c6c796e7b8c2abbe82", null ]
 ];

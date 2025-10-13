@@ -1,10 +1,12 @@
 var a14011 =
 [
-    [ "boss_alyson_antille", "d0/df2/a14011.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
-    [ "GetNearbyFriendlies", "d0/df2/a14011.html#ab99596d5c2eafac8c678378d509bf585", null ],
-    [ "JustEngagedWith", "d0/df2/a14011.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
-    [ "RandomReverseFriendlyList", "d0/df2/a14011.html#afef27de229ba2c3b8beb30809a313237", null ],
-    [ "Reset", "d0/df2/a14011.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
-    [ "UpdateAI", "d0/df2/a14011.html#a15157be42d166a239ab658fc04292e44", null ],
-    [ "_friendlyList", "d0/df2/a14011.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
+    [ "npc_akilzon_eagle", "d0/df2/a14011.html#ad70a735ce3a06f9c92ddb8ef7e5fd595", null ],
+    [ "JustEngagedWith", "d0/df2/a14011.html#aa5c3d77a1086ad90397d47f081b25476", null ],
+    [ "MoveInLineOfSight", "d0/df2/a14011.html#adefd384b8a273ca52343d836a399f3cb", null ],
+    [ "MovementInform", "d0/df2/a14011.html#abf69be0c32356e65e6d451c33fb389f0", null ],
+    [ "Reset", "d0/df2/a14011.html#a8ae0b8115d402671f94aaf27ff83eade", null ],
+    [ "UpdateAI", "d0/df2/a14011.html#a59ef60c0d16eda1b4d78ef964b42211a", null ],
+    [ "arrived", "d0/df2/a14011.html#a918dae0b34b43e10f066d32d5ebe6fcf", null ],
+    [ "EagleSwoop_Timer", "d0/df2/a14011.html#a37a5861ef690729e2a8bfafddce168be", null ],
+    [ "TargetGUID", "d0/df2/a14011.html#a14d4f82f932569d24f6014ad39640619", null ]
 ];

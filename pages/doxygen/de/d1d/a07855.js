@@ -1,7 +1,9 @@
 var a07855 =
 [
-    [ "HyperlinkDataTokenizer", "de/d1d/a07855.html#a1fb14152c61205ce31fcf2bfeaeceeaf", null ],
-    [ "IsEmpty", "de/d1d/a07855.html#a4f74f1647780c9f2769443dbfeba6a7e", null ],
-    [ "TryConsumeTo", "de/d1d/a07855.html#a42e18263129c27149bf9a91b3dc42418", null ],
-    [ "_str", "de/d1d/a07855.html#ab497f7f0b3cab4b8c4813ba443ff1c91", null ]
+    [ "HyperlinkColor", "de/d1d/a07855.html#a4b246814aa2e2ac930e1e9e4e79345f0", null ],
+    [ "operator==", "de/d1d/a07855.html#aad186f06a8d61834ec94d29d305fa0f2", null ],
+    [ "a", "de/d1d/a07855.html#a57d68da0bcaec609d89efb18185b7f03", null ],
+    [ "b", "de/d1d/a07855.html#a5ef7a2aab07e2e9a5097a27a466adeca", null ],
+    [ "g", "de/d1d/a07855.html#a4570365880f14c7f7c5e7d96332ae150", null ],
+    [ "r", "de/d1d/a07855.html#a1b4e0f604b95a773d28b93601af8ffe0", null ]
 ];

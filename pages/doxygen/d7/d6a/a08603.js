@@ -1,9 +1,10 @@
 var a08603 =
 [
-    [ "areaFlag", "d7/d6a/a08603.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
-    [ "areaID", "d7/d6a/a08603.html#a455a890a1d82d31873873ac497cb83b7", null ],
-    [ "x1", "d7/d6a/a08603.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
-    [ "x2", "d7/d6a/a08603.html#aebdb021c0b9c40d624d5115b24616a12", null ],
-    [ "y1", "d7/d6a/a08603.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
-    [ "y2", "d7/d6a/a08603.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
+    [ "PvPInfo", "d7/d6a/a08603.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
+    [ "EndTimer", "d7/d6a/a08603.html#ae06b5030552c02f30fe8386633a753df", null ],
+    [ "FFAPvPEndTimer", "d7/d6a/a08603.html#a739dfc63dfe39429a44ea682d9120522", null ],
+    [ "IsHostile", "d7/d6a/a08603.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
+    [ "IsInFFAPvPArea", "d7/d6a/a08603.html#a8a654926248b3974587af1eb9c064d15", null ],
+    [ "IsInHostileArea", "d7/d6a/a08603.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
+    [ "IsInNoPvPArea", "d7/d6a/a08603.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
 ];

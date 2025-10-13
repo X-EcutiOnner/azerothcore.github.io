@@ -1,8 +1,7 @@
 var a26143 =
 [
-    [ "HandleScript", "dc/d58/a26143.html#ad99c741ef4bf707ec4b4726a3610d827", null ],
-    [ "Load", "dc/d58/a26143.html#ab7aac5c557c76fdd195565a99d746dc9", null ],
-    [ "PrepareSpellScript", "dc/d58/a26143.html#abb6e76d537d61b5b38ce4488d230d6de", null ],
-    [ "Register", "dc/d58/a26143.html#a2f7e819dfa30f4f0d3645fde9c87408c", null ],
-    [ "Validate", "dc/d58/a26143.html#a0767c66cbc288bee6ee0eb3a4fde315f", null ]
+    [ "HandleScript", "dc/d58/a26143.html#aad0be226a2d294d3361c1afbf644c5e4", null ],
+    [ "PrepareSpellScript", "dc/d58/a26143.html#a85dee311aab08d796a3a0c1bc9e9390d", null ],
+    [ "Register", "dc/d58/a26143.html#a2b22be9826db241ecf3f99ff16c309c0", null ],
+    [ "Validate", "dc/d58/a26143.html#a98df659504307fc0666fe2b1001eaa00", null ]
 ];

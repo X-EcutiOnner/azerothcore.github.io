@@ -1,7 +1,7 @@
 var a26595 =
 [
-    [ "HandleEffectPeriodic", "d3/dca/a26595.html#a9347200565cb858cf0cc9cdb897fe1dc", null ],
-    [ "PrepareAuraScript", "d3/dca/a26595.html#a5fc89b09fb226d0d9315081d64f4103e", null ],
-    [ "Register", "d3/dca/a26595.html#ac3741617faacf83a707f1359aab1886e", null ],
-    [ "Validate", "d3/dca/a26595.html#a9378252b6711cc0bec3e63efce026495", null ]
+    [ "CheckTarget", "d3/dca/a26595.html#abaef73201d2e0bd1d6789309442019e0", null ],
+    [ "HandleScriptEffect", "d3/dca/a26595.html#a545196cd976bfabbd85ba48942012e1e", null ],
+    [ "PrepareSpellScript", "d3/dca/a26595.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
+    [ "Register", "d3/dca/a26595.html#a36563a197b7377660b7c3f9e85d478bd", null ]
 ];

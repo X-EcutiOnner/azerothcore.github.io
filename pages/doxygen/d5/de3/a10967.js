@@ -1,4 +1,8 @@
 var a10967 =
 [
-    [ "Validate", "d5/de3/a10967.html#a25f2d2033711c905ed702d844416c250", null ]
+    [ "CrossedInebriationThreshold", "d5/de3/a10967.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
+    [ "Write", "d5/de3/a10967.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
+    [ "Guid", "d5/de3/a10967.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
+    [ "ItemID", "d5/de3/a10967.html#a9e48a650bf21872099cdb0626e875fd7", null ],
+    [ "Threshold", "d5/de3/a10967.html#a87b756b64cbfb8f292f46cce38308095", null ]
 ];

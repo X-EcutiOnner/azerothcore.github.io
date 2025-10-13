@@ -1,5 +1,6 @@
 var a27535 =
 [
-    [ "go_sacred_fire_of_life", "d0/dc7/a27535.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "d0/dc7/a27535.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "go_pirate_day_musicAI", "d2/dae/a27539.html", "d2/dae/a27539" ],
+    [ "go_pirate_day_music", "d0/dc7/a27535.html#aa8d19102357639bd160eae9e90a87505", null ],
+    [ "GetAI", "d0/dc7/a27535.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
 ];

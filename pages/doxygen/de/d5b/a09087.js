@@ -1,6 +1,8 @@
 var a09087 =
 [
-    [ "m_guid", "de/d5b/a09087.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
-    [ "m_instance", "de/d5b/a09087.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
-    [ "m_state", "de/d5b/a09087.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
+    [ "DungeonEncounter", "de/d5b/a09087.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
+    [ "creditEntry", "de/d5b/a09087.html#a700a0792973678339f33ab85e7396918", null ],
+    [ "creditType", "de/d5b/a09087.html#a66a077e193f099bb7aef363dc75672d6", null ],
+    [ "dbcEntry", "de/d5b/a09087.html#a262bdd0ba443739456fc14bcad83ecda", null ],
+    [ "lastEncounterDungeon", "de/d5b/a09087.html#a67e29b891887e339dbb40515d082e781", null ]
 ];

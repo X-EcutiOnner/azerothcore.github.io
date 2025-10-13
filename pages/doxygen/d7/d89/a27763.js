@@ -1,10 +1,13 @@
 var a27763 =
 [
-    [ "npc_training_dummyAI", "d7/d89/a27763.html#a2f10fd0b4365e99446f728883a47eb6a", null ],
-    [ "DamageTaken", "d7/d89/a27763.html#a641c40906a6365f068ccbdba9d033923", null ],
-    [ "EnterEvadeMode", "d7/d89/a27763.html#adb1de124bdb2a986efcfcfc287b6d824", null ],
-    [ "MoveInLineOfSight", "d7/d89/a27763.html#a52f3516e9da6895eeddcdef7a198a6b1", null ],
-    [ "Reset", "d7/d89/a27763.html#af63f500cb3179964c90afab0d4a2c9b7", null ],
-    [ "UpdateAI", "d7/d89/a27763.html#a5e7892a64cd1a5cf678b401b62497bfb", null ],
-    [ "resetTimer", "d7/d89/a27763.html#a443f2f7de257af473d6e9793f34a2071", null ]
+    [ "npc_nelsonAI", "d7/d89/a27763.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
+    [ "DoAction", "d7/d89/a27763.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
+    [ "JustEngagedWith", "d7/d89/a27763.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
+    [ "JustSummoned", "d7/d89/a27763.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
+    [ "Reset", "d7/d89/a27763.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
+    [ "SpellHit", "d7/d89/a27763.html#afab81d8a6077c755c186bb619944d78d", null ],
+    [ "SummonedCreatureDies", "d7/d89/a27763.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
+    [ "UpdateAI", "d7/d89/a27763.html#ac68749942f37de5f9105556fe7b904b7", null ],
+    [ "events", "d7/d89/a27763.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
+    [ "shouldDespawn", "d7/d89/a27763.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
 ];

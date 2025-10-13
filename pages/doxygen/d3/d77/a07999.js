@@ -1,20 +1,9 @@
 var a07999 =
 [
-    [ "LFGDungeonData", "d3/d77/a07999.html#af609ccb3be2e80fa6cd0339f91f6d094", null ],
-    [ "LFGDungeonData", "d3/d77/a07999.html#ada24faec77a2174bd436535eb283ebc2", null ],
-    [ "Entry", "d3/d77/a07999.html#ad421a384c1e1c37ff897cc50421fe3d9", null ],
-    [ "difficulty", "d3/d77/a07999.html#a310b9d83b84a6f8896ac62b89ca16be3", null ],
-    [ "expansion", "d3/d77/a07999.html#a0d5bc7c615666f52aca24ee34d849992", null ],
-    [ "group", "d3/d77/a07999.html#a8791fcc476a5ebec99327f497f53db04", null ],
-    [ "id", "d3/d77/a07999.html#ae25732254c64f1a2bca8a938a240e509", null ],
-    [ "map", "d3/d77/a07999.html#ac981fbb0aaf96ea75482273c50bc53e7", null ],
-    [ "maxlevel", "d3/d77/a07999.html#a9419e8826804b6d0a2c8b65de3b513dd", null ],
-    [ "minlevel", "d3/d77/a07999.html#a4ef8f3bbf52a2ac8c45eeaa61aa22e2d", null ],
-    [ "name", "d3/d77/a07999.html#a6eef80ccf8defe89696cec1675033ea2", null ],
-    [ "o", "d3/d77/a07999.html#a42dd178512ebfbba612889f3ff5384bb", null ],
-    [ "seasonal", "d3/d77/a07999.html#ad8b1d936512ebb1075fe2a15f29abff1", null ],
-    [ "type", "d3/d77/a07999.html#aaea170ae5069dc46022652bfacd22edf", null ],
-    [ "x", "d3/d77/a07999.html#a90ca0afe02dfe5aa50bfd378e38de865", null ],
-    [ "y", "d3/d77/a07999.html#a32ef5d26a8c16690889eed2e3e230de1", null ],
-    [ "z", "d3/d77/a07999.html#a7ec9ddbd30f0cd2c602cfef7d2eb8956", null ]
+    [ "cancelTime", "d3/d77/a07999.html#ac1d5edf075556c488aff36799ee6cb96", null ],
+    [ "dungeons", "d3/d77/a07999.html#a1e6c1deaf47dc835bbab7a1741a57fe2", null ],
+    [ "leader", "d3/d77/a07999.html#ad92b0bd391dae5f934b7d6f8a39351d8", null ],
+    [ "rDungeonId", "d3/d77/a07999.html#af07fdfed0b56211af723db06959013f6", null ],
+    [ "roles", "d3/d77/a07999.html#a3759dc8140194b09be842365dc0053d7", null ],
+    [ "state", "d3/d77/a07999.html#aa70ef2d83084359af7bcc9e2de60ce77", null ]
 ];

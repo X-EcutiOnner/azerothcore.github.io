@@ -1,20 +1,16 @@
 var a21375 =
 [
-    [ "boss_skadi_graufAI", "dc/d39/a21375.html#ad5266bee9f90bc7c5622bd30825820eb", null ],
-    [ "CheckPlayers", "dc/d39/a21375.html#ac240eae79545ab4dc0b5cbc0f5592e8e", null ],
-    [ "DoAction", "dc/d39/a21375.html#a51a189e6f1f6c9c6948194d3181a7426", null ],
-    [ "JustEngagedWith", "dc/d39/a21375.html#a6e9c8012479fac7873567acf1e5476a2", null ],
-    [ "MovementInform", "dc/d39/a21375.html#a2b8fc3e54c0a1970510eabd74b4cee5b", null ],
-    [ "RemoveSkadi", "dc/d39/a21375.html#a11c732dff2d71bce71c0077e1bda57cf", null ],
-    [ "Reset", "dc/d39/a21375.html#ab04a1a98da7d318ee54c4af9aaabcfae", null ],
-    [ "SelectNextPos", "dc/d39/a21375.html#aa01ac1cbc1866628c0953b22cca0b114", null ],
-    [ "SpawnFlameTriggers", "dc/d39/a21375.html#ae7e2383327566d74af8839a4b0e0303f", null ],
-    [ "SpawnHelpers", "dc/d39/a21375.html#a1ee67c3814a6ab406b7ca304c28314d3", null ],
-    [ "SpellHitTarget", "dc/d39/a21375.html#a218c5df55286c143711a7f2023ada012", null ],
-    [ "UpdateAI", "dc/d39/a21375.html#add5671b1f9e20590e1121f8c18d064cc", null ],
-    [ "AchievementHitCount", "dc/d39/a21375.html#ae233171c66fb042f57156adfafb8e4fb", null ],
-    [ "currentPos", "dc/d39/a21375.html#a486d9d7998015bb922addf92791cbe8f", null ],
-    [ "events", "dc/d39/a21375.html#ab1cffcaa77006c54f8c948bc2a8d661a", null ],
-    [ "m_pInstance", "dc/d39/a21375.html#a4cff3d8e4c1be9a2b5e9b501e455f2be", null ],
-    [ "summons", "dc/d39/a21375.html#aac4eb6351a0fe1cf7423d277d9375f8a", null ]
+    [ "boss_skadiAI", "dc/d39/a21375.html#a674e0cea77b25ec6413f8e52336d06db", null ],
+    [ "DoAction", "dc/d39/a21375.html#ac0513a8e187b3d68fd320b124930ac8b", null ],
+    [ "GetGrauf", "dc/d39/a21375.html#a48806cf61d295e6ab86a1e018b0fd30a", null ],
+    [ "JustDied", "dc/d39/a21375.html#af963eda18854869f3a73cb22f48b0230", null ],
+    [ "KilledUnit", "dc/d39/a21375.html#aab72405691cab78ac0f224cf637f7570", null ],
+    [ "Reset", "dc/d39/a21375.html#a7d1287f7a3cc5703a7430a15e769cb2c", null ],
+    [ "UpdateAI", "dc/d39/a21375.html#a05690f147e2c2a584179c19b0a84a1b0", null ],
+    [ "events", "dc/d39/a21375.html#a7dabced72e6cc2191cc29a221967159e", null ],
+    [ "EventStarted", "dc/d39/a21375.html#aa4f75b2430f3b95dcc2a06f22f5d9680", null ],
+    [ "GraufGUID", "dc/d39/a21375.html#a9990eed4758e5eaad8a538b09ac7ee4f", null ],
+    [ "m_pInstance", "dc/d39/a21375.html#ae48e23b61d9cafbdc9a7811361ebcd11", null ],
+    [ "SecondPhase", "dc/d39/a21375.html#a3a3892c0fcc148cf8d3b903a37de3e1f", null ],
+    [ "summons", "dc/d39/a21375.html#a93762ced245b700eb6196ea3a96b143c", null ]
 ];

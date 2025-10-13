@@ -1,14 +1,8 @@
 var a03899 =
 [
-    [ "guard_shattrath_scryer", "d3/da2/a27615.html", "d3/da2/a27615" ],
-    [ "guard_shattrath_scryer::guard_shattrath_scryerAI", "dc/d7c/a27619.html", "dc/d7c/a27619" ],
-    [ "guard_shattrath_aldor", "d0/dca/a27623.html", "d0/dca/a27623" ],
-    [ "guard_shattrath_aldor::guard_shattrath_aldorAI", "db/dcd/a27627.html", "db/dcd/a27627" ],
-    [ "GuardShattrath", "d0/d33/a03899.html#a7c8fcdd86e1aa9eab132e6321290e79c", [
-      [ "SPELL_BANISHED_SHATTRATH_A", "d0/d33/a03899.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe", null ],
-      [ "SPELL_BANISHED_SHATTRATH_S", "d0/d33/a03899.html#a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48", null ],
-      [ "SPELL_BANISH_TELEPORT", "d0/d33/a03899.html#a7c8fcdd86e1aa9eab132e6321290e79ca7aecffca2feb1502c591610fee5566e0", null ],
-      [ "SPELL_EXILE", "d0/d33/a03899.html#a7c8fcdd86e1aa9eab132e6321290e79ca6758cdbc7bb8447df1f7b3073833463d", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "d3/d87/a27955.html", "d3/d87/a27955" ],
+    [ "ApprenticeAnglerQuestEnum", "d0/d33/a03899.html#a6d8279401bbf1ce28fa9c35fbcf1970c", [
+      [ "QUEST_APPRENTICE_ANGLER", "d0/d33/a03899.html#a6d8279401bbf1ce28fa9c35fbcf1970cacdd3122055e667091697fd808a284aba", null ]
     ] ],
-    [ "AddSC_guards", "d0/d33/a03899.html#acba582cbc90c710c629dd30926acdca4", null ]
+    [ "AddSC_player_scripts", "d0/d33/a03899.html#a1f476a8466c12651b57fd55bf13b9617", null ]
 ];

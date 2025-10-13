@@ -1,6 +1,7 @@
 var a24371 =
 [
-    [ "npc_invis_infernal_casterAI", "d3/d81/a24375.html", "d3/d81/a24375" ],
-    [ "npc_invis_infernal_caster", "d3/dbe/a24371.html#a9aed081ef904075830428bbc76f53874", null ],
-    [ "GetAI", "d3/dbe/a24371.html#aede0c5cc390ea423169b1cba66d929cd", null ]
+    [ "HandleScriptEffect", "d3/dbe/a24371.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
+    [ "PrepareSpellScript", "d3/dbe/a24371.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
+    [ "Register", "d3/dbe/a24371.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
+    [ "Validate", "d3/dbe/a24371.html#a5209de3456c374010502a94f67ff4544", null ]
 ];

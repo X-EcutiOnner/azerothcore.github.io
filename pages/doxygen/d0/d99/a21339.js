@@ -1,13 +1,14 @@
 var a21339 =
 [
-    [ "npc_ferocious_rhinoAI", "d0/d99/a21339.html#ad70d0aeba4b73330c5087bc84a533389", null ],
-    [ "DoAction", "d0/d99/a21339.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
-    [ "JustDied", "d0/d99/a21339.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
-    [ "JustEngagedWith", "d0/d99/a21339.html#aab35078fe4518b6647f98e316d02898a", null ],
-    [ "JustReachedHome", "d0/d99/a21339.html#ab8105d6c8c70037c208c83c13c35242d", null ],
-    [ "MoveInLineOfSight", "d0/d99/a21339.html#a97e32d32a692f223b96746f3ef1086c5", null ],
-    [ "Reset", "d0/d99/a21339.html#a6d317407c2de2f954b5dd2a6db137304", null ],
-    [ "UpdateAI", "d0/d99/a21339.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
-    [ "events", "d0/d99/a21339.html#af23061de7d8566c7435c2c64c53dff89", null ],
-    [ "m_pInstance", "d0/d99/a21339.html#a97e00db40792c559dd06327c9960abe4", null ]
+    [ "npc_massive_jormungarAI", "d0/d99/a21339.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
+    [ "DoAction", "d0/d99/a21339.html#a8084994ba056c907b2e487568fa7502a", null ],
+    [ "JustDied", "d0/d99/a21339.html#a02b4e75227811250e2210f754e6e04f2", null ],
+    [ "JustEngagedWith", "d0/d99/a21339.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
+    [ "JustReachedHome", "d0/d99/a21339.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
+    [ "MoveInLineOfSight", "d0/d99/a21339.html#a55c817111fab479c3abcfca8942f16e8", null ],
+    [ "Reset", "d0/d99/a21339.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
+    [ "UpdateAI", "d0/d99/a21339.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
+    [ "events", "d0/d99/a21339.html#a92334b8178317a91a7d4336096d75f33", null ],
+    [ "m_pInstance", "d0/d99/a21339.html#ad50a9852370798817fda318f71f27653", null ],
+    [ "summons", "d0/d99/a21339.html#acfa84efc38b994706015e6d82fe1f653", null ]
 ];

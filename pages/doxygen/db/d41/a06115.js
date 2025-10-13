@@ -1,8 +1,12 @@
 var a06115 =
 [
-    [ "ArcherAI", "db/d41/a06115.html#a113c138958054716182c15ee9f2b47da", null ],
-    [ "AttackStart", "db/d41/a06115.html#adc79f7ead63ecaf8fed9ea4f81d27f76", null ],
-    [ "Permissible", "db/d41/a06115.html#ac5b3d144b0d71a5e527d53f33c3d31cc", null ],
-    [ "UpdateAI", "db/d41/a06115.html#aa6e072e239549d337de61670a05eb6f8", null ],
-    [ "m_minRange", "db/d41/a06115.html#ab449efcd81769888ff8d8bc5f348cbe7", null ]
+    [ "CombatAI", "db/d41/a06115.html#a32e63efb85155ac3deeb818a9a1ba18a", null ],
+    [ "InitializeAI", "db/d41/a06115.html#a70caf22165251220365d03873b3d3f17", null ],
+    [ "JustDied", "db/d41/a06115.html#a9176b9b9c7a5e13fb05dae636c7ef2d4", null ],
+    [ "JustEngagedWith", "db/d41/a06115.html#ab157082819d821cf0b0093f084111e16", null ],
+    [ "Permissible", "db/d41/a06115.html#aaf52e2cbeb1ea9a816b5e8d914c03edb", null ],
+    [ "Reset", "db/d41/a06115.html#a7a39daea9b9bd09572472ae0d8689edd", null ],
+    [ "UpdateAI", "db/d41/a06115.html#af12583d15ccd183f6236c1889d539b9b", null ],
+    [ "events", "db/d41/a06115.html#af59650830fa1abdf8eec179a12e328e7", null ],
+    [ "spells", "db/d41/a06115.html#ae0ecfc744e4200bbf7ea36cdd84b13c0", null ]
 ];

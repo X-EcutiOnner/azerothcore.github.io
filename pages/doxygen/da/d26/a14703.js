@@ -1,6 +1,6 @@
 var a14703 =
 [
-    [ "HandleDummy", "da/d26/a14703.html#a5e0797e5af760b618b1498f405766de8", null ],
-    [ "PrepareSpellScript", "da/d26/a14703.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
-    [ "Register", "da/d26/a14703.html#a2254e486bda73e07f8327c3412c7852b", null ]
+    [ "HandleAfterEffectApply", "da/d26/a14703.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
+    [ "PrepareAuraScript", "da/d26/a14703.html#a917379c33352721b5b76c1d9dac0c025", null ],
+    [ "Register", "da/d26/a14703.html#a846d79564d76d6000c2276045775d7da", null ]
 ];

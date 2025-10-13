@@ -1,11 +1,10 @@
 var a27731 =
 [
-    [ "npc_franklinAI", "d1/d8d/a27731.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
-    [ "DamageTaken", "d1/d8d/a27731.html#afa494098126ce3291e234cfc2b36336f", null ],
-    [ "JustEngagedWith", "d1/d8d/a27731.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
-    [ "Reset", "d1/d8d/a27731.html#a51a260460facf06ec6bb1486f434d885", null ],
-    [ "ScheduleEncounterStart", "d1/d8d/a27731.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
-    [ "SpellHit", "d1/d8d/a27731.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
-    [ "UpdateAI", "d1/d8d/a27731.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
-    [ "events", "d1/d8d/a27731.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
+    [ "go_evil_book_for_dummies", "d1/d8d/a27731.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "d1/d8d/a27731.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "d1/d8d/a27731.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "d1/d8d/a27731.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "d1/d8d/a27731.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "d1/d8d/a27731.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "d1/d8d/a27731.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

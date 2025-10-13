@@ -1,12 +1,16 @@
 var a13823 =
 [
-    [ "npc_corporal_keeshanAI", "d0/d17/a13823.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
-    [ "Reset", "d0/d17/a13823.html#a311488932a3de9153490d41e3fae92fb", null ],
-    [ "sQuestAccept", "d0/d17/a13823.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
-    [ "UpdateAI", "d0/d17/a13823.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
-    [ "WaypointReached", "d0/d17/a13823.html#a3edc9ab54068e47f955116db70454f6c", null ],
-    [ "mockingBlowTimer", "d0/d17/a13823.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
-    [ "phase", "d0/d17/a13823.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
-    [ "shieldBashTimer", "d0/d17/a13823.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
-    [ "timer", "d0/d17/a13823.html#a3107368f175aa7f4e8c405248ef917df", null ]
+    [ "npc_bh_thalorien_dawnseekerAI", "d0/d17/a13823.html#aa0fc35194d16d63854926d4266569d77", null ],
+    [ "DamageTaken", "d0/d17/a13823.html#a46f47c937db63c2cd12331bce4e251cf", null ],
+    [ "EnterEvadeMode", "d0/d17/a13823.html#a55b6176ee579f5f320ce36b63f83d314", null ],
+    [ "JustSummoned", "d0/d17/a13823.html#aa23391bbed38571a86508b4c87e5c66c", null ],
+    [ "MovementInform", "d0/d17/a13823.html#a5f47c72447c197642a0081e544095489", null ],
+    [ "Reset", "d0/d17/a13823.html#a6a9beaf984d954bc11a5f7dff17ca442", null ],
+    [ "SetData", "d0/d17/a13823.html#a24293b807b8999acbb6fbe59e3c06232", null ],
+    [ "SummonedCreatureDespawn", "d0/d17/a13823.html#a095587a925d6054da2e2fdc9de2b415e", null ],
+    [ "UpdateAI", "d0/d17/a13823.html#aa432d9d89eed150f0b3cf0beaef144d2", null ],
+    [ "events", "d0/d17/a13823.html#a5b98f3bcba320cbec0116d3f4a8e4d05", null ],
+    [ "morlenGUID", "d0/d17/a13823.html#aefe243dea75b1aac366fae1395e0e398", null ],
+    [ "playerGUID", "d0/d17/a13823.html#ab93ca177abc21647a1162006ed50a551", null ],
+    [ "summons", "d0/d17/a13823.html#af36ccbeaec6bc0157cb8cac6d705c3c3", null ]
 ];

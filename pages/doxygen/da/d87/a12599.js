@@ -1,8 +1,10 @@
 var a12599 =
 [
-    [ "MajordomoAddData", "da/d87/a12599.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
-    [ "MajordomoAddData", "da/d87/a12599.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
-    [ "creatureEntry", "da/d87/a12599.html#ae3a0444e88158123f4d6359328e89a1d", null ],
-    [ "guid", "da/d87/a12599.html#a2f2b0aaace557361a21d1072f36933dc", null ],
-    [ "spawnPos", "da/d87/a12599.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
+    [ "boss_golemaggAI", "da/d87/a12599.html#a79e2416a55a1531316d891ebff4e5575", null ],
+    [ "DamageTaken", "da/d87/a12599.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
+    [ "Reset", "da/d87/a12599.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
+    [ "UpdateAI", "da/d87/a12599.html#af7b322731241dbb08041a92cd355f273", null ],
+    [ "earthquakeTimer", "da/d87/a12599.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
+    [ "enraged", "da/d87/a12599.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
+    [ "pyroblastTimer", "da/d87/a12599.html#a142ededff85d517c08744bdafd644c34", null ]
 ];

@@ -1,10 +1,12 @@
 var a03548 =
 [
-    [ "spell_q12779_an_end_to_all_things", "dc/d37/a13199.html", "dc/d37/a13199" ],
-    [ "spell_q12779_an_end_to_all_things_devour_aura", "da/dad/a13203.html", "da/dad/a13203" ],
-    [ "DevourHumanoid", "d8/d2e/a03548.html#a4a9cc76e41bd77e034f57ac5663bfbe8", [
-      [ "NPC_HEARTHGLEN_CRUSADER", "d8/d2e/a03548.html#a4a9cc76e41bd77e034f57ac5663bfbe8a5bcd1929ca343fde7380dbf2f02650d7", null ],
-      [ "NPC_TIRISFAL_CRUSADER", "d8/d2e/a03548.html#a4a9cc76e41bd77e034f57ac5663bfbe8a1808abd83c367810e3ca5ac70b35dcd8", null ]
+    [ "npc_valkyr_battle_maiden", "dd/d06/a13259.html", "dd/d06/a13259" ],
+    [ "npc_valkyr_battle_maiden::npc_valkyr_battle_maidenAI", "d0/db6/a13263.html", "d0/db6/a13263" ],
+    [ "Says_VBM", "d8/d2e/a03548.html#a1e8eb132ddeee98b584395e0a134c9e4", [
+      [ "WHISPER_REVIVE", "d8/d2e/a03548.html#a1e8eb132ddeee98b584395e0a134c9e4ab9bb7fa81ba89129587c51969dd3b833", null ]
     ] ],
-    [ "AddSC_the_scarlet_enclave_c3", "d8/d2e/a03548.html#add963c2bc2b515348b9b7c636d176927", null ]
+    [ "Spells_VBM", "d8/d2e/a03548.html#a97df4b07a8686c29a9700c8d11af35e3", [
+      [ "SPELL_REVIVE", "d8/d2e/a03548.html#a97df4b07a8686c29a9700c8d11af35e3a3d8bf8576afa397124a60457a9fdfc38", null ]
+    ] ],
+    [ "AddSC_the_scarlet_enclave", "d8/d2e/a03548.html#a86bbb652876f394aaca15b4ed6e2bfa7", null ]
 ];

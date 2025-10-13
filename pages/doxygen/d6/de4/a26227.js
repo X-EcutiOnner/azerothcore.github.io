@@ -1,7 +1,6 @@
 var a26227 =
 [
-    [ "OnRemove", "d6/de4/a26227.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
-    [ "PrepareAuraScript", "d6/de4/a26227.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
-    [ "Register", "d6/de4/a26227.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
-    [ "Validate", "d6/de4/a26227.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
+    [ "OnRemove", "d6/de4/a26227.html#a3803e6bbdb17e9a848376481581c993d", null ],
+    [ "PrepareAuraScript", "d6/de4/a26227.html#a6f1340b824af4604e310666e89d05b7a", null ],
+    [ "Register", "d6/de4/a26227.html#a3b361a478f1c035b706ac2e17499fb37", null ]
 ];

@@ -1,12 +1,15 @@
 var a11231 =
 [
-    [ "UnitAura", "d0/dd6/a11231.html#ada4033955271dfb21d16a95b316087f5", null ],
-    [ "_ApplyForTarget", "d0/dd6/a11231.html#a920549cf55c8def37149b00ae971127d", null ],
-    [ "_UnapplyForTarget", "d0/dd6/a11231.html#af4d453cee6758e633bdcae0049581898", null ],
-    [ "FillTargetMap", "d0/dd6/a11231.html#add5ce04446338e078c5986420abfd16e", null ],
-    [ "GetDiminishGroup", "d0/dd6/a11231.html#a8ebf7b01e7f324938f68ad4ce74d56b5", null ],
-    [ "Remove", "d0/dd6/a11231.html#a28f714404942bb5c614ac844cf937546", null ],
-    [ "SetDiminishGroup", "d0/dd6/a11231.html#a6d858a153c5d3046574f3387ab852050", null ],
-    [ "Aura::Create", "d0/dd6/a11231.html#ae2c0fdfb409846fec5e861de60797112", null ],
-    [ "m_AuraDRGroup", "d0/dd6/a11231.html#a4b413c5e62eee76875a22345059e6124", null ]
+    [ "BaseSocketMgr", "d0/dd6/a11231.html#a6f9671b94ae64c0c3482e085cb2a252f", null ],
+    [ "WorldSocketMgr", "d0/dd6/a11231.html#a8e46ddcf7ba33a66c7226150400cc08b", null ],
+    [ "CreateThreads", "d0/dd6/a11231.html#a04e98fcb25c09ff85e9536cf43fd4e6e", null ],
+    [ "GetApplicationSendBufferSize", "d0/dd6/a11231.html#a8deeaffd7d25bacd8bfa15d29dff6aeb", null ],
+    [ "Instance", "d0/dd6/a11231.html#aaa32a527707cb66916b1499a2e283250", null ],
+    [ "OnSocketAccept", "d0/dd6/a11231.html#aec088639145bbea3fcb69714ac5b5b67", null ],
+    [ "OnSocketOpen", "d0/dd6/a11231.html#a308aacca5450fca4a4b35009ddd6142f", null ],
+    [ "StartWorldNetwork", "d0/dd6/a11231.html#acaf85b16b490bfda8532b49456a38b71", null ],
+    [ "StopNetwork", "d0/dd6/a11231.html#aede126ecfe75f2917aaf730330ea3b82", null ],
+    [ "_socketApplicationSendBufferSize", "d0/dd6/a11231.html#a7a5ca8c2c9165d3cb1f46adbdfe917b0", null ],
+    [ "_socketSystemSendBufferSize", "d0/dd6/a11231.html#a043da77b04a29c4c5fe81698ae279985", null ],
+    [ "_tcpNoDelay", "d0/dd6/a11231.html#a6f440c4cde2deaa72cbc5dbd348a00b6", null ]
 ];

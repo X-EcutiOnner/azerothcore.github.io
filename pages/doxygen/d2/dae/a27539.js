@@ -1,5 +1,7 @@
 var a27539 =
 [
-    [ "go_southfury_moonstone", "d2/dae/a27539.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
-    [ "OnGossipHello", "d2/dae/a27539.html#a4c0870f0e03708f1fdc073abadbe5de8", null ]
+    [ "go_pirate_day_musicAI", "d2/dae/a27539.html#a1abe263949b7a07e5143779efcddc7eb", null ],
+    [ "UpdateAI", "d2/dae/a27539.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
+    [ "_events", "d2/dae/a27539.html#a233ae55a05876c665455b106ef50d57e", null ],
+    [ "rnd", "d2/dae/a27539.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
 ];

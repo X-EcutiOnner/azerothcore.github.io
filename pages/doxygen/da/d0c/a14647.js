@@ -1,4 +1,7 @@
 var a14647 =
 [
-    [ "npc_midsummer_bonfire_despawner", "da/d0c/a14647.html#aacb82b08ec0fef0f53d7e251e010abd8", null ]
+    [ "HandleEffectApply", "da/d0c/a14647.html#ad48d832fef881bfb517fb8df694b7507", null ],
+    [ "HandleEffectRemove", "da/d0c/a14647.html#a1534b010301dbaff66d41443142c50b7", null ],
+    [ "PrepareAuraScript", "da/d0c/a14647.html#ab4bba02a5e2196ad65ccea94a4615a9d", null ],
+    [ "Register", "da/d0c/a14647.html#a97a0003cca808e5b03f720bb3be07419", null ]
 ];

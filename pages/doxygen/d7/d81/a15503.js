@@ -1,11 +1,13 @@
 var a15503 =
 [
-    [ "npc_depth_chargeAI", "d7/d81/a15503.html#a088848c16418964973107e125c20f508", null ],
-    [ "AttackStart", "d7/d81/a15503.html#a1ec6e2ea0cc61262932f63f764273cdb", null ],
-    [ "JustEngagedWith", "d7/d81/a15503.html#a90cc6eab8b63588f2567f59941eafc59", null ],
-    [ "MoveInLineOfSight", "d7/d81/a15503.html#a8342b7fc7677ac94757c725ec4063e9e", null ],
-    [ "Reset", "d7/d81/a15503.html#aaccf632a50749c0f6d6f29bb1b1bf5a4", null ],
-    [ "UpdateAI", "d7/d81/a15503.html#af34e55c3aee40f840edf695adc06495e", null ],
-    [ "WeMustDie", "d7/d81/a15503.html#a7b25b1228cf5029f1ebe653c76cf9843", null ],
-    [ "WeMustDieTimer", "d7/d81/a15503.html#a23e4f1f7079d12e78c74c21171d95cc7", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "d7/d81/a15503.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
+    [ "GetData", "d7/d81/a15503.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
+    [ "Initialize", "d7/d81/a15503.html#a870ab2322971767fa37986743b31d20c", null ],
+    [ "OnCreatureCreate", "d7/d81/a15503.html#aed3807432711105589d0b060a21836cc", null ],
+    [ "ReadSaveDataMore", "d7/d81/a15503.html#ad348102f71e070e7ef12da62238c7b0f", null ],
+    [ "SetData", "d7/d81/a15503.html#a0333b4728e9288937711174743f19f60", null ],
+    [ "WriteSaveDataMore", "d7/d81/a15503.html#a78bece51279e3f9e62800e4d80b00f64", null ],
+    [ "_encounters", "d7/d81/a15503.html#a0f049806007e59363418d4e39f9e389b", null ],
+    [ "DiscipleOfNaralexGUID", "d7/d81/a15503.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
+    [ "SerpentisGUID", "d7/d81/a15503.html#a7ba205e4988a20404f5e597331dd5d56", null ]
 ];

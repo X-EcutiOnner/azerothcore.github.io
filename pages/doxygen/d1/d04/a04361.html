@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/common/Cryptography/CryptoHash.h File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/common/Cryptography/TOTP.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,54 +105,80 @@ $(document).ready(function(){initNavTree('d1/d04/a04361.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
-<a href="#namespaces">Namespaces</a> &#124;
-<a href="#typedef-members">Typedefs</a>  </div>
-  <div class="headertitle"><div class="title">CryptoHash.h File Reference</div></div>
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">TOTP.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">CryptoConstants.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Errors.h</a>&quot;</code><br />
-<code>#include &lt;array&gt;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">TOTP.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Timer.h</a>&quot;</code><br />
 <code>#include &lt;openssl/evp.h&gt;</code><br />
-<code>#include &lt;string&gt;</code><br />
-<code>#include &lt;string_view&gt;</code><br />
-<code>#include &lt;utility&gt;</code><br />
+<code>#include &lt;openssl/hmac.h&gt;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d1b/a05203.html">Acore::Impl::GenericHashImpl</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash&lt; HashCreator, DigestLength &gt;</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
-Namespaces</h2></td></tr>
-<tr class="memitem:dd/df4/a04800"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/df4/a04800.html">Acore</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d9/d3b/a04812"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d3b/a04812.html">Acore::Impl</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:d8/d95/a04811"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d95/a04811.html">Acore::Crypto</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
-Typedefs</h2></td></tr>
-<tr class="memitem:a0e8f523857a8cf977c3aa63b40112a4d"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d95/a04811.html#a0e8f523857a8cf977c3aa63b40112a4d">Acore::Crypto::MD5</a> = <a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash</a>&lt; EVP_md5, Constants::MD5_DIGEST_LENGTH_BYTES &gt;</td></tr>
-<tr class="separator:a0e8f523857a8cf977c3aa63b40112a4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac698fcc9e65a1dd451c5bd72b1b3e368"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d95/a04811.html#ac698fcc9e65a1dd451c5bd72b1b3e368">Acore::Crypto::SHA1</a> = <a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash</a>&lt; EVP_sha1, Constants::SHA1_DIGEST_LENGTH_BYTES &gt;</td></tr>
-<tr class="separator:ac698fcc9e65a1dd451c5bd72b1b3e368"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a57930df8fd74a97f0fbc8d958ebb215f"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d95/a04811.html#a57930df8fd74a97f0fbc8d958ebb215f">Acore::Crypto::SHA256</a> = <a class="el" href="../../d8/d42/a05207.html">Acore::Impl::GenericHash</a>&lt; EVP_sha256, Constants::SHA256_DIGEST_LENGTH_BYTES &gt;</td></tr>
-<tr class="separator:a57930df8fd74a97f0fbc8d958ebb215f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:abcaccdfb09251b1b2856cc0c48c64eda"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#abcaccdfb09251b1b2856cc0c48c64eda">TOTP_INTERVAL</a> = 30</td></tr>
+<tr class="separator:abcaccdfb09251b1b2856cc0c48c64eda"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abdb09168f87cd99a498636550843012d"><td class="memItemLeft" align="right" valign="top">static constexpr <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d04/a04361.html#abdb09168f87cd99a498636550843012d">HMAC_RESULT_SIZE</a> = 20</td></tr>
+<tr class="separator:abdb09168f87cd99a498636550843012d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="abdb09168f87cd99a498636550843012d" name="abdb09168f87cd99a498636550843012d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abdb09168f87cd99a498636550843012d">&#9670;&#160;</a></span>HMAC_RESULT_SIZE</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> HMAC_RESULT_SIZE = 20</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00027">Acore::Crypto::TOTP::GenerateToken()</a>.</p>
+
+</div>
+</div>
+<a id="abcaccdfb09251b1b2856cc0c48c64eda" name="abcaccdfb09251b1b2856cc0c48c64eda"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abcaccdfb09251b1b2856cc0c48c64eda">&#9670;&#160;</a></span>TOTP_INTERVAL</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> TOTP_INTERVAL = 30</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00027">Acore::Crypto::TOTP::GenerateToken()</a>, and <a class="el" href="../../#l00044">Acore::Crypto::TOTP::ValidateToken()</a>.</p>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_c55db428bdbf28a6b4d3b113733cf911.html">Cryptography</a></li><li class="navelem"><a class="el" href="../../d1/d04/a04361.html">CryptoHash.h</a></li>
-    <li class="footer">Generated on Mon Oct 6 2025 20:44:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_c55db428bdbf28a6b4d3b113733cf911.html">Cryptography</a></li><li class="navelem"><a class="el" href="../../d1/d04/a04361.html">TOTP.cpp</a></li>
+    <li class="footer">Generated on Mon Oct 13 2025 20:43:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

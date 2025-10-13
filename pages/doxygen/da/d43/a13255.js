@@ -1,9 +1,8 @@
 var a13255 =
 [
-    [ "npc_risen_guardianAI", "da/d43/a13255.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
-    [ "IsSummonedBy", "da/d43/a13255.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
-    [ "KilledUnit", "da/d43/a13255.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
-    [ "Gandling", "da/d43/a13255.html#a93013b905260aa51341b22d1627cc986", null ],
-    [ "instance", "da/d43/a13255.html#a96f1835989f646c708b8ef0cc9999e63", null ],
-    [ "room", "da/d43/a13255.html#a5862a184b6daa92da133cc6c360a993d", null ]
+    [ "HandleHit", "da/d43/a13255.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
+    [ "PrepareSpellScript", "da/d43/a13255.html#a53f170244b390f7035e131fb5c79cb3f", null ],
+    [ "Register", "da/d43/a13255.html#a248124b837cf71f7d422154db4581747", null ],
+    [ "Validate", "da/d43/a13255.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
+    [ "_emote", "da/d43/a13255.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
 ];

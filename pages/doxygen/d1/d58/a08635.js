@@ -1,8 +1,7 @@
 var a08635 =
 [
-    [ "checkLeaderOnly", "d1/d58/a08635.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
-    [ "faction", "d1/d58/a08635.html#a23c649e494795b27856b67225370a820", null ],
-    [ "id", "d1/d58/a08635.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
-    [ "note", "d1/d58/a08635.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
-    [ "priority", "d1/d58/a08635.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
+    [ "ItemPosCount", "d1/d58/a08635.html#a43458da1fc31d827b6de726754f7901e", null ],
+    [ "isContainedIn", "d1/d58/a08635.html#a6977c544a2d39ca5872b75f27517974f", null ],
+    [ "count", "d1/d58/a08635.html#a4e09f94aa0808f76b2d5ff23691abb27", null ],
+    [ "pos", "d1/d58/a08635.html#ad8954f1a6323316510cfe0f332ee495f", null ]
 ];

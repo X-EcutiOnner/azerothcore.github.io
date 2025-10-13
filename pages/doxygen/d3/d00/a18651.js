@@ -1,7 +1,9 @@
 var a18651 =
 [
-    [ "ValithriaDespawner", "d3/d00/a18651.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
-    [ "Execute", "d3/d00/a18651.html#a4f8c63f52996da14078a7196cae3a00d", null ],
-    [ "operator()", "d3/d00/a18651.html#a05bae39d642f294f2ef98151d66ba382", null ],
-    [ "_creature", "d3/d00/a18651.html#a64bf6181ad867efd987edec141ca3bf0", null ]
+    [ "DelayedCastEvent", "d3/d00/a18651.html#a96b86f3f1ee23d6f25ec3c13f9a03235", null ],
+    [ "Execute", "d3/d00/a18651.html#ae2925429b3049e44d2afd2e8b990af71", null ],
+    [ "_despawnTime", "d3/d00/a18651.html#afcaeafb72df77c36b5496588c219fac4", null ],
+    [ "_originalCaster", "d3/d00/a18651.html#adb07c24a947d59d2ef1f61b8ab18d328", null ],
+    [ "_spellId", "d3/d00/a18651.html#abe28a6749101233302634ed226a289e8", null ],
+    [ "_trigger", "d3/d00/a18651.html#a85471a151a3165cc906f3a41103c3f5d", null ]
 ];

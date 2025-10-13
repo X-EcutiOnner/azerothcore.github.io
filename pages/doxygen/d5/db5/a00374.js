@@ -1,9 +1,9 @@
 var a00374 =
 [
-    [ "ABNodeInfo", "df/d8f/a07379.html", "df/d8f/a07379" ],
-    [ "BattlegroundABScore", "d1/d80/a07383.html", "d1/d80/a07383" ],
-    [ "BattlegroundAB", "d7/d65/a07387.html", "d7/d65/a07387" ],
-    [ "BattlegroundAB::CapturePointInfo", "d5/d54/a07391.html", "d5/d54/a07391" ],
+    [ "ABNodeInfo", "d7/d65/a07387.html", "d7/d65/a07387" ],
+    [ "BattlegroundABScore", "d5/d54/a07391.html", "d5/d54/a07391" ],
+    [ "BattlegroundAB", "d1/d27/a07395.html", "d1/d27/a07395" ],
+    [ "BattlegroundAB::CapturePointInfo", "db/d46/a07399.html", "db/d46/a07399" ],
     [ "BG_AB_BattlegroundNodes", "d5/db5/a00374.html#a7cb15f4d123cdbe557e15c7daaf014ad", [
       [ "BG_AB_NODE_STABLES", "d5/db5/a00374.html#a7cb15f4d123cdbe557e15c7daaf014ada1659f989b2c934ff7bbb18ddf3889f0f", null ],
       [ "BG_AB_NODE_BLACKSMITH", "d5/db5/a00374.html#a7cb15f4d123cdbe557e15c7daaf014ada0d2696d111c150a16896fc7a9b88af53", null ],
@@ -43,9 +43,7 @@ var a00374 =
       [ "BG_AB_REP_TICK_NORMAL", "d5/db5/a00374.html#a5fdbcfc2e08c809423685172cb1e9baba1546a9ed57db30f84bf7171a342cd3d2", null ],
       [ "BG_AB_REP_TICK_WEEKEND", "d5/db5/a00374.html#a5fdbcfc2e08c809423685172cb1e9baba1b44cf78923307fdbb2d2d48579928f9", null ],
       [ "BG_AB_WARNING_NEAR_VICTORY_SCORE", "d5/db5/a00374.html#a5fdbcfc2e08c809423685172cb1e9baba3f2ba4902de6da31bbf923ed4dee5d9b", null ],
-      [ "BG_AB_MAX_TEAM_SCORE", "d5/db5/a00374.html#a5fdbcfc2e08c809423685172cb1e9baba83d800e593f1a661408cffc977d441ba", null ],
-      [ "BG_AB_FLAG_CAPTURING_TIME", "d5/db5/a00374.html#a5fdbcfc2e08c809423685172cb1e9baba3de28f8d2bbeffeb1df9d791dda332db", null ],
-      [ "BG_AB_BANNER_UPDATE_TIME", "d5/db5/a00374.html#a5fdbcfc2e08c809423685172cb1e9baba5bf93a57912ec884f19961a82ab6488f", null ]
+      [ "BG_AB_MAX_TEAM_SCORE", "d5/db5/a00374.html#a5fdbcfc2e08c809423685172cb1e9baba83d800e593f1a661408cffc977d441ba", null ]
     ] ],
     [ "BG_AB_NodeStatus", "d5/db5/a00374.html#a57b60dbaa9b05ef4b896e2b8ffebf130", [
       [ "BG_AB_NODE_STATE_NEUTRAL", "d5/db5/a00374.html#a57b60dbaa9b05ef4b896e2b8ffebf130a462423d2f622b94627c152cb7e50618e", null ],
@@ -109,11 +107,13 @@ var a00374 =
       [ "BG_AB_SOUND_NEAR_VICTORY_HORDE", "d5/db5/a00374.html#afa4330ec402735b2df3a043a6b018338a70dc7021ef277eafceea927b23e73e4b", null ]
     ] ],
     [ "ABNodes", "d5/db5/a00374.html#a5ce5aced5b18a9136cfd7a03348a9979", null ],
+    [ "BG_AB_BANNER_UPDATE_TIME", "d5/db5/a00374.html#a8a2e075b59b1fc0fc4993c2c10a8a023", null ],
     [ "BG_AB_BuffPositions", "d5/db5/a00374.html#a51ad679e6affe77350ba6d21554463c3", null ],
     [ "BG_AB_DoorPositions", "d5/db5/a00374.html#a6d6a352719d503f3002b193c412ec53b", null ],
+    [ "BG_AB_FLAG_CAPTURING_TIME", "d5/db5/a00374.html#a17477e3186c4fbc193be057a70100139", null ],
     [ "BG_AB_GraveyardIds", "d5/db5/a00374.html#a6f996d495e116848d3bd6384e501d51e", null ],
     [ "BG_AB_NodePositions", "d5/db5/a00374.html#af981815b69f9cc306f4740e809a90f77", null ],
     [ "BG_AB_SpiritGuidePos", "d5/db5/a00374.html#a86650176a2fbeee8806e5281e56c0a42", null ],
-    [ "BG_AB_TickIntervals", "d5/db5/a00374.html#accc3ec988e6f59e7774947ed53d23bc4", null ],
+    [ "BG_AB_TickIntervals", "d5/db5/a00374.html#abd40a7cae8fb8d49746d0e92e482e50f", null ],
     [ "BG_AB_TickPoints", "d5/db5/a00374.html#acc55e240ec4cc628722f56c5fa4d2c84", null ]
 ];

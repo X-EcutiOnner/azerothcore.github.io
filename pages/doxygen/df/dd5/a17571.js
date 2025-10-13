@@ -1,25 +1,6 @@
 var a17571 =
 [
-    [ "boss_blood_queen_lana_thelAI", "df/dd5/a17571.html#ab28467f9b11a87162dae0306a1f2fb20", null ],
-    [ "CanAIAttack", "df/dd5/a17571.html#a4b6ce34090fcf21eb68560c078278303", null ],
-    [ "CleanAuras", "df/dd5/a17571.html#a78b0d391090e9d2424da315bf1f696e9", null ],
-    [ "DoAction", "df/dd5/a17571.html#a2e7d45ce9d7a0e05b60c9e94f736d1b3", null ],
-    [ "EnterEvadeMode", "df/dd5/a17571.html#afb02799e3fad05e2e0d48ea5b3be7526", null ],
-    [ "GoToMinchar", "df/dd5/a17571.html#acb939a02a912d1db13947a939f4c554c", null ],
-    [ "JustDied", "df/dd5/a17571.html#a475fcf43849c5cd2144020f57c2a461f", null ],
-    [ "JustEngagedWith", "df/dd5/a17571.html#a01866a1f5a20bd9b4ccf754051dedd10", null ],
-    [ "KilledUnit", "df/dd5/a17571.html#aebb53f7599dd3a55953946b7cc9e76d6", null ],
-    [ "MovementInform", "df/dd5/a17571.html#a4b74cb2b2f36ae115327e8a0532fdc23", null ],
-    [ "Reset", "df/dd5/a17571.html#abc58e7c6c384ea4c342d6b153557c4b1", null ],
-    [ "SetGUID", "df/dd5/a17571.html#ac1620cfe6e8f20a8ef54b211a5641bea", null ],
-    [ "UpdateAI", "df/dd5/a17571.html#a13fe9d7463efbecf63d78fce59fc4fab", null ],
-    [ "WasBloodbolted", "df/dd5/a17571.html#a76f5eca557f9d25c8025a909b1de8faf", null ],
-    [ "WasVampire", "df/dd5/a17571.html#a7a74b7241f0ff736bdff7088ee384695", null ],
-    [ "_bloodboltedPlayers", "df/dd5/a17571.html#a1c5ef6d44112d67a29dde74371ab644a", null ],
-    [ "_creditBloodQuickening", "df/dd5/a17571.html#a3534b15706cd35ad8de485fc430207b1", null ],
-    [ "_killMinchar", "df/dd5/a17571.html#ac617b5511beacd7b98d0e9ae8773e7dc", null ],
-    [ "_offtankGUID", "df/dd5/a17571.html#a8a4d21d7ab9ad827c88a7869000c3628", null ],
-    [ "_tankGUID", "df/dd5/a17571.html#a231f68b31fdd105559c186d4edbfc47b", null ],
-    [ "_vampires", "df/dd5/a17571.html#af808b2b543ea9b27b4b03d0e561fb90e", null ],
-    [ "bEnteredCombat", "df/dd5/a17571.html#aca37d322e154ae01ceb4e96b3b42d5d0", null ]
+    [ "VampiricBiteTargetSelector", "df/dd5/a17571.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
+    [ "operator()", "df/dd5/a17571.html#ac16204f50f62cb2568998d1ea137f55d", null ],
+    [ "_source", "df/dd5/a17571.html#af23a69491c915909566249b109b1f0e8", null ]
 ];

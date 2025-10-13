@@ -1,6 +1,6 @@
 var a21411 =
 [
-    [ "boss_ymironAI", "d6/d00/a21415.html", "d6/d00/a21415" ],
-    [ "boss_ymiron", "d8/df5/a21411.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
-    [ "GetAI", "d8/df5/a21411.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
+    [ "CalculateAmount", "d8/df5/a21411.html#a79019ef395c9b66f6a88759b0517005d", null ],
+    [ "PrepareAuraScript", "d8/df5/a21411.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
+    [ "Register", "d8/df5/a21411.html#a9bce52699983fe798c903385faa42462", null ]
 ];

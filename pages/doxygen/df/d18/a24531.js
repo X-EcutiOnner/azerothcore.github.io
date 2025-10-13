@@ -1,7 +1,7 @@
 var a24531 =
 [
-    [ "HandleSendEvent", "df/d18/a24531.html#a8b32db78a3b4d5a01be230968fda3a8d", null ],
-    [ "PrepareSpellScript", "df/d18/a24531.html#a0adf10b63735dbdf1cb3d49c73f7da1d", null ],
-    [ "Register", "df/d18/a24531.html#ad6aedfed88d4a921122fdc7a8b501f0e", null ],
-    [ "Validate", "df/d18/a24531.html#a9b72b16ac81c53aaa7936640e5149e6c", null ]
+    [ "HandleEffectRemove", "df/d18/a24531.html#a317c238b165ad331beb447ea5d0de7e1", null ],
+    [ "PrepareAuraScript", "df/d18/a24531.html#a7481f017a1382eb75e0101cb49fb4fcf", null ],
+    [ "Register", "df/d18/a24531.html#a13fdde1557249328306a57e159d821a7", null ],
+    [ "Validate", "df/d18/a24531.html#a58a383bd4e3062a5c5b1df97192b4b7e", null ]
 ];

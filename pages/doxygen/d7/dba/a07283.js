@@ -1,6 +1,5 @@
 var a07283 =
 [
-    [ "ArenaSeasonRewardDistributor", "d7/dba/a07283.html#a9b60eb5be0be5c1be68b9c371c99f28c", null ],
-    [ "DistributeRewards", "d7/dba/a07283.html#a93640633dc11edda2cd1fce4f1da496b", null ],
-    [ "_rewarder", "d7/dba/a07283.html#af2801ea5d098bebac111589e1fcf7004", null ]
+    [ "~ArenaSeasonTeamRewarder", "d7/dba/a07283.html#a8f7eb844a39cd5213134ef4f4d4b1fde", null ],
+    [ "RewardTeamWithRewardGroup", "d7/dba/a07283.html#a2beaf893f95e16c4d388ad048885848b", null ]
 ];

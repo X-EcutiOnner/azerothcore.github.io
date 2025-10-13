@@ -1,7 +1,6 @@
 var a14455 =
 [
-    [ "PeriodicTick", "db/d57/a14455.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
-    [ "PrepareAuraScript", "db/d57/a14455.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
-    [ "Register", "db/d57/a14455.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
-    [ "Validate", "db/d57/a14455.html#a68247c2afa553411fac34582e83635c9", null ]
+    [ "npc_direbrew_antagonist", "db/d57/a14455.html#a30fed4e6888d98af576dea8e13c510d3", null ],
+    [ "DoAction", "db/d57/a14455.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
+    [ "JustEngagedWith", "db/d57/a14455.html#aaf54b03d66d726901c289ff28d362787", null ]
 ];

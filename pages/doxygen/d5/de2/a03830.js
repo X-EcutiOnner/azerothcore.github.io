@@ -1,9 +1,5 @@
 var a03830 =
 [
-    [ "OutdoorPvP_hellfire_peninsula", "d1/dcc/a22739.html", "d1/dcc/a22739" ],
-    [ "AddSC_outdoorpvp_hp", "d5/de2/a03830.html#a69303ad6f661d8c009ee493dc4fd486c", null ],
-    [ "HP_LANG_CAPTURE_A", "d5/de2/a03830.html#a642fe1233b764402bae812604b684442", null ],
-    [ "HP_LANG_CAPTURE_H", "d5/de2/a03830.html#a3ae9bb2c949b7f3c852ce2e4552d8ccd", null ],
-    [ "HP_LANG_LOSE_A", "d5/de2/a03830.html#a1b9adf9c71e549e4545c2e4eabe58dd5", null ],
-    [ "HP_LANG_LOSE_H", "d5/de2/a03830.html#ad62cd8f07ac98311202494985c6ae9c8", null ]
+    [ "OutdoorPvP_grizzly_hills", "db/ded/a22735.html", "db/ded/a22735" ],
+    [ "AddSC_outdoorpvp_gh", "d5/de2/a03830.html#a04eaa29ec2e34f71e4f7addacc0405c0", null ]
 ];

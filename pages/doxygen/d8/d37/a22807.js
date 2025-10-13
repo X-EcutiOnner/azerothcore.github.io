@@ -1,17 +1,14 @@
 var a22807 =
 [
-    [ "OPvPCapturePointZM_Graveyard", "d8/d37/a22807.html#a78fe433ee7f86e42d9b9c24d4c47f870", null ],
-    [ "CanTalkTo", "d8/d37/a22807.html#ae16e1448e5c21daea0a56ede78b3174a", null ],
-    [ "ChangeState", "d8/d37/a22807.html#a6a066c902c6e8ac58950037e6c4934b6", null ],
-    [ "FillInitialWorldStates", "d8/d37/a22807.html#a8aea9e4a005f5c88e2c71cfd46d10058", null ],
-    [ "GetGraveyardState", "d8/d37/a22807.html#ac10fc817ba6d3c68310a6b0d68e52342", null ],
-    [ "HandleDropFlag", "d8/d37/a22807.html#a87fb109fcc88099406d9f189333aef7c", null ],
-    [ "HandleGossipOption", "d8/d37/a22807.html#a132a6beb8a265dc614763a5f8e510173", null ],
-    [ "HandleOpenGo", "d8/d37/a22807.html#abef3d9dfff4688e0c5a87cd7b2a847c4", null ],
-    [ "SetBeaconState", "d8/d37/a22807.html#a7d7fc3041c753918c6e13e49a691674a", null ],
-    [ "Update", "d8/d37/a22807.html#a19d09f296598b83079eb2545b3d2caff", null ],
-    [ "UpdateTowerState", "d8/d37/a22807.html#ae907325621c0c0a40fc1e7761b81e832", null ],
-    [ "m_BothControllingFactionId", "d8/d37/a22807.html#ad501fe77b1d678cb593be6a0a8afd0a8", null ],
-    [ "m_FlagCarrierGUID", "d8/d37/a22807.html#acb0c4738c28d48f2f0ccec090e4b96d4", null ],
-    [ "m_GraveyardState", "d8/d37/a22807.html#a20e5b236d87c0942d15a60d2eba1af83", null ]
+    [ "event_enter", "d8/d37/a22807.html#ac80d575f14dca1c901be55e34cc690e1", null ],
+    [ "event_leave", "d8/d37/a22807.html#a3dc0a11a5c06079026d27852e7561b74", null ],
+    [ "map_tower_a", "d8/d37/a22807.html#a9a65209caac3791b835c1920f5a667cf", null ],
+    [ "map_tower_h", "d8/d37/a22807.html#aa30ae484db7c69137abb13adb1b3c505", null ],
+    [ "map_tower_n", "d8/d37/a22807.html#a0453edceab2132e900bec183e360e210", null ],
+    [ "slider_disp", "d8/d37/a22807.html#aec3c8dde769675e3f436515c7a3bcf24", null ],
+    [ "slider_n", "d8/d37/a22807.html#a65015a3a24a5554643ecb5da47e24eea", null ],
+    [ "slider_pos", "d8/d37/a22807.html#acc63481f7613242ac06c6bee6c136a30", null ],
+    [ "ui_tower_a", "d8/d37/a22807.html#a0107bfd3b1df99568e02d6ca80042c86", null ],
+    [ "ui_tower_h", "d8/d37/a22807.html#a94a5fa0517fd0713b74f50a3d1d627cc", null ],
+    [ "ui_tower_n", "d8/d37/a22807.html#ae0fd99db88e6c60b829a18ff8e4be9a0", null ]
 ];

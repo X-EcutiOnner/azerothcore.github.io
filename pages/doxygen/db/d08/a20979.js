@@ -1,6 +1,8 @@
 var a20979 =
 [
-    [ "PrepareSpellScript", "db/d08/a20979.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
-    [ "Register", "db/d08/a20979.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
-    [ "SelectTarget", "db/d08/a20979.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
+    [ "OnPeriodic", "db/d08/a20979.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
+    [ "OnRemove", "db/d08/a20979.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
+    [ "PrepareAuraScript", "db/d08/a20979.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
+    [ "Register", "db/d08/a20979.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
+    [ "Validate", "db/d08/a20979.html#aa56622a1e57c157260940023a6c70a35", null ]
 ];

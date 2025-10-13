@@ -1,6 +1,6 @@
 var a15975 =
 [
-    [ "npc_weegli_blastfuseAI", "db/da5/a15979.html", "db/da5/a15979" ],
-    [ "npc_weegli_blastfuse", "d9/d13/a15975.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
-    [ "GetAI", "d9/d13/a15975.html#a701681d8771756dac20d30c2e03a1349", null ]
+    [ "go_troll_cageAI", "db/da5/a15979.html", "db/da5/a15979" ],
+    [ "go_troll_cage", "d9/d13/a15975.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
+    [ "GetAI", "d9/d13/a15975.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
 ];

@@ -1,23 +1,17 @@
 var a04532 =
 [
-    [ "MetricData", "dc/d06/a05407.html", "dc/d06/a05407" ],
-    [ "Metric", "d8/d4f/a05411.html", "d8/d4f/a05411" ],
-    [ "MetricStopWatch< LoggerType >", "d8/ddb/a05415.html", "d8/ddb/a05415" ],
-    [ "METRIC_CONCAT", "d1/ddc/a04532.html#ad81585df46d4cee988a1222012dbabf1", null ],
-    [ "METRIC_DETAILED_EVENT", "d1/ddc/a04532.html#ac782d1c3265f7b707782545777d49d05", null ],
-    [ "METRIC_DETAILED_NO_THRESHOLD_TIMER", "d1/ddc/a04532.html#a281633f6f8b252d96029ce8fd29da746", null ],
-    [ "METRIC_DETAILED_TIMER", "d1/ddc/a04532.html#a22dcbf78f0d280a4b2b4e0662034efe9", null ],
-    [ "METRIC_DO_CONCAT", "d1/ddc/a04532.html#aa861206b38b55c4f39f1ed649defb338", null ],
-    [ "METRIC_EVENT", "d1/ddc/a04532.html#ad57573999508dbc7a2c953379996b542", null ],
-    [ "METRIC_TAG", "d1/ddc/a04532.html#ab81b5769123c1e5e3870b9b05f25fe0a", null ],
-    [ "METRIC_TIMER", "d1/ddc/a04532.html#ad88ae7d281622a32a700443aa3dc51f9", null ],
-    [ "METRIC_UNIQUE_NAME", "d1/ddc/a04532.html#adf91483a75eca0531263536ce38d9339", null ],
-    [ "METRIC_VALUE", "d1/ddc/a04532.html#a92aedc832ddfc479ecc61289f12be449", null ],
-    [ "sMetric", "d1/ddc/a04532.html#a4e89926204845a9c9e315d6f0abec5ef", null ],
-    [ "MetricTag", "d1/ddc/a04532.html#a8fdc9a93c03faef11e4c36679e79e3f1", null ],
-    [ "MetricDataType", "d1/ddc/a04532.html#a0bb9cc086e32544cb0e43338f83d8e62", [
-      [ "METRIC_DATA_VALUE", "d1/ddc/a04532.html#a0bb9cc086e32544cb0e43338f83d8e62a62f4e964751c180f1ab400ee1852b155", null ],
-      [ "METRIC_DATA_EVENT", "d1/ddc/a04532.html#a0bb9cc086e32544cb0e43338f83d8e62a599565c733d02dcd1c4676c2ad463af2", null ]
-    ] ],
-    [ "MakeMetricStopWatch", "d1/ddc/a04532.html#ab339934305abce426aa1d43c99d65e9f", null ]
+    [ "GetBranch", "d1/ddc/a04532.html#a0353e7a37f6f7102283a92975eb1f56f", null ],
+    [ "GetBuildDirectory", "d1/ddc/a04532.html#a51523316de8184739b710e472a8ce843", null ],
+    [ "GetCMakeCommand", "d1/ddc/a04532.html#a9d2cbfd79c6c215859ddad44996a8a8c", null ],
+    [ "GetCMakeVersion", "d1/ddc/a04532.html#a83b62eaf53be851b0bd82c3a00b934d1", null ],
+    [ "GetCompanyNameStr", "d1/ddc/a04532.html#a72b700a0bbbdb2829e283fe892f1ba51", null ],
+    [ "GetDate", "d1/ddc/a04532.html#a10817e6a26ea352c0f79233d2ef552a8", null ],
+    [ "GetFileVersionStr", "d1/ddc/a04532.html#a631c2811f3f8b72a16dfa2ceb7c4cb42", null ],
+    [ "GetFullVersion", "d1/ddc/a04532.html#ad68b75fc60314941c3cbade8eafcda23", null ],
+    [ "GetHash", "d1/ddc/a04532.html#addcf1401768f04ea13a6e868d9580605", null ],
+    [ "GetHostOSVersion", "d1/ddc/a04532.html#ad63ab422bd364927fa88a394e82fc2a7", null ],
+    [ "GetLegalCopyrightStr", "d1/ddc/a04532.html#abd1a810f85a1f404d88e3f7e61cc85cc", null ],
+    [ "GetMySQLExecutable", "d1/ddc/a04532.html#a13f3b200d2427f6546ebddd3b54b7fcf", null ],
+    [ "GetProductVersionStr", "d1/ddc/a04532.html#abbfa02a4b9aba10f263252be4d3f48fc", null ],
+    [ "GetSourceDirectory", "d1/ddc/a04532.html#a1062fcec3676f562803f4775d95a9594", null ]
 ];

@@ -1,8 +1,6 @@
 var a28535 =
 [
-    [ "areaTriggerText", "d2/ddc/a28535.html#a32bb8c4a4defce661d108627e25b645a", null ],
-    [ "Difficulty", "d2/ddc/a28535.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
-    [ "MapId", "d2/ddc/a28535.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
-    [ "maxPlayers", "d2/ddc/a28535.html#a7ab33229ffee11a27861439053c79831", null ],
-    [ "resetTime", "d2/ddc/a28535.html#a891a741efb049b51996e1a6110efc52d", null ]
+    [ "ID", "d2/ddc/a28535.html#a7d40e334785d96a2e57d28f87a59778a", null ],
+    [ "maxCount", "d2/ddc/a28535.html#a5edc6442e026b12dae654fa86440a11a", null ],
+    [ "mode", "d2/ddc/a28535.html#a76553ecf9f880a5e5967f818123742fd", null ]
 ];

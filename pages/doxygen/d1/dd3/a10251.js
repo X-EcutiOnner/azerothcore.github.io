@@ -1,10 +1,13 @@
 var a10251 =
 [
-    [ "AchievementScript", "d1/dd3/a10251.html#a85f0d7a676e7e31bc87ca64040b29489", null ],
-    [ "CanCheckCriteria", "d1/dd3/a10251.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
-    [ "IsCompletedCriteria", "d1/dd3/a10251.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
-    [ "IsDatabaseBound", "d1/dd3/a10251.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
-    [ "IsRealmCompleted", "d1/dd3/a10251.html#abc54c295c1bcad45e21aed99e43a3713", null ],
-    [ "OnBeforeCheckCriteria", "d1/dd3/a10251.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
-    [ "SetRealmCompleted", "d1/dd3/a10251.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
+    [ "AccountScript", "d1/dd3/a10251.html#a3720bf412499a13ba4b41fc5c9f96b7c", null ],
+    [ "CanAccountCreateCharacter", "d1/dd3/a10251.html#a6b5b94c1ac64bf8d926928d8401cd533", null ],
+    [ "OnAccountLogin", "d1/dd3/a10251.html#afbebc7186ba77b0fefe0a6d32a774601", null ],
+    [ "OnBeforeAccountDelete", "d1/dd3/a10251.html#a631f7deca08644da2613142c667618a8", null ],
+    [ "OnEmailChange", "d1/dd3/a10251.html#adf20bd20cdc97b91db664dca95f82670", null ],
+    [ "OnFailedAccountLogin", "d1/dd3/a10251.html#aae3401d74bdc9e8328a5f084462ae740", null ],
+    [ "OnFailedEmailChange", "d1/dd3/a10251.html#a23261a238db9ddd618ebb6a45aaabcbf", null ],
+    [ "OnFailedPasswordChange", "d1/dd3/a10251.html#a45d58c0f669f37b24e3dabf0ac4b2423", null ],
+    [ "OnLastIpUpdate", "d1/dd3/a10251.html#a3de6453c132bb3d76b6888b87f988d2d", null ],
+    [ "OnPasswordChange", "d1/dd3/a10251.html#aefa30b298f52d7c1a44e7648d088c3f0", null ]
 ];

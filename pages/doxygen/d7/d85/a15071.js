@@ -1,18 +1,16 @@
 var a15071 =
 [
-    [ "instance_dire_maul_InstanceMapScript", "d7/d85/a15071.html#aacdc6a4029fceddfa56155b296012aa3", null ],
-    [ "GetData", "d7/d85/a15071.html#ad3eaa065114b6a0d2a38844df9289dc7", null ],
-    [ "Initialize", "d7/d85/a15071.html#a5b0977c0b20d6302ce6c5f8a14e78e90", null ],
-    [ "OnCreatureCreate", "d7/d85/a15071.html#aa903356acce9401a139e30fb6839f4df", null ],
-    [ "OnGameObjectCreate", "d7/d85/a15071.html#aad49d9f3f3c974e5c2f3a42b22759b9a", null ],
-    [ "ReadSaveDataMore", "d7/d85/a15071.html#ae8c49e7531b89074cc07ac0555650f05", null ],
-    [ "SetData", "d7/d85/a15071.html#a93e7b63eae8d1e21b7e5c57fa370e801", null ],
-    [ "WriteSaveDataMore", "d7/d85/a15071.html#ad6f52ef932cc09e377325e83482a3b5c", null ],
-    [ "_eastWingProgress", "d7/d85/a15071.html#a7f9d7f14c3223fa7bf7b7999d1f41105", null ],
-    [ "_immoltharGUID", "d7/d85/a15071.html#a4b63e6062765fc1df53c6a95b366e9f1", null ],
-    [ "_northWingBosses", "d7/d85/a15071.html#ab7130c806073258f4efae9e9177587be", null ],
-    [ "_northWingProgress", "d7/d85/a15071.html#a55e78ac91cf6073192594758e447cb19", null ],
-    [ "_pylonsState", "d7/d85/a15071.html#a5a16e7c47b42d1f8da9dde7b14f5c513", null ],
-    [ "_westWingProgress", "d7/d85/a15071.html#ab4d27deece6b8274300904571fb62e90", null ],
-    [ "HighborneSummoners", "d7/d85/a15071.html#af0e2c615ca136f4fffd1ed41e471f492", null ]
+    [ "npc_medivh_bm", "d7/d85/a15071.html#a23f04c433faf7da663b2edffb2a0440d", null ],
+    [ "AttackStart", "d7/d85/a15071.html#a8eb87f4d80d83725af017657c599d458", null ],
+    [ "DoAction", "d7/d85/a15071.html#aa5a54d0b2b069947dd59eee77cbdf21b", null ],
+    [ "JustDied", "d7/d85/a15071.html#ad6dbbef1b6fbccd9dd224af1a15a6c90", null ],
+    [ "JustSummoned", "d7/d85/a15071.html#a16d8d3be1dd148e149f4e49570f092a6", null ],
+    [ "MoveInLineOfSight", "d7/d85/a15071.html#a87f092fccd5b485bdf0bd0449bd57265", null ],
+    [ "Reset", "d7/d85/a15071.html#a1a33f613b083763c952882cdb82a35c1", null ],
+    [ "SummonOrcs", "d7/d85/a15071.html#aa0a50952374866ef02af83efe81c9e49", null ],
+    [ "UpdateAI", "d7/d85/a15071.html#aefc693d7be0c06c5056cae18d4e4eb1e", null ],
+    [ "_airArray", "d7/d85/a15071.html#a6e766596b69b52690635ee91e6e8d164", null ],
+    [ "_events", "d7/d85/a15071.html#a1d4fe5bc964d12e812a178c68e2f037f", null ],
+    [ "_groundArray", "d7/d85/a15071.html#a6fd3a75ddec2a6bda3e5d1bd3e33722c", null ],
+    [ "_instance", "d7/d85/a15071.html#a45e129d61c3987e4bff94485db739eb1", null ]
 ];

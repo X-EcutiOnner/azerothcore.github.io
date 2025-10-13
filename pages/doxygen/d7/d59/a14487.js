@@ -1,11 +1,8 @@
 var a14487 =
 [
-    [ "npc_the_etymidian", "d7/d59/a14487.html#af491016ac89b67947650a5ca9c379875", null ],
-    [ "MoveInLineOfSight", "d7/d59/a14487.html#adde2d86e30442eb1b47219e934e24407", null ],
-    [ "Reset", "d7/d59/a14487.html#a714edf3ba5f7a6d59242c991764effc5", null ],
-    [ "UpdateAI", "d7/d59/a14487.html#a1f3cfddae43e443c5cd4a8a0f9f87a89", null ],
-    [ "orphanGUID", "d7/d59/a14487.html#a9ba2c34b08d0fe61e18037b02f352d08", null ],
-    [ "phase", "d7/d59/a14487.html#a7086e9a8a8a7287cf90688270e9933a7", null ],
-    [ "playerGUID", "d7/d59/a14487.html#a7371e361c018360315e20086b0b99079", null ],
-    [ "timer", "d7/d59/a14487.html#a8508a2c89eeeee2d235e1178ca77e895", null ]
+    [ "OnApply", "d7/d59/a14487.html#a6f3f05316f025ef638672a82cc855136", null ],
+    [ "PeriodicTick", "d7/d59/a14487.html#a051d292f9483e6b82d773fba3ab52460", null ],
+    [ "PrepareAuraScript", "d7/d59/a14487.html#ab8face95be60d7c5ba3fe15f0d05de25", null ],
+    [ "Register", "d7/d59/a14487.html#a0004de73250b8523db2b9ab714c8a246", null ],
+    [ "Validate", "d7/d59/a14487.html#aae1809dd5bc8baa06ee079a6d2a8b940", null ]
 ];

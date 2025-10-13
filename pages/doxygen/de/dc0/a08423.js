@@ -1,7 +1,9 @@
 var a08423 =
 [
-    [ "AddToGrid", "de/dc0/a08423.html#a178e3cc30d983d739e1f3f98d9eefbf0", null ],
-    [ "IsInGrid", "de/dc0/a08423.html#a996724d21d62e478f50031faa7637cd5", null ],
-    [ "RemoveFromGrid", "de/dc0/a08423.html#a29740a98fea7db66cdffd824940a2ec2", null ],
-    [ "_gridRef", "de/dc0/a08423.html#aa44ba47734267ac07b733f218623f3c5", null ]
+    [ "Reset", "de/dc0/a08423.html#a9c210ff536b49481f71bc6c3f60ee864", null ],
+    [ "guid", "de/dc0/a08423.html#ac115013e34f67bc1444fef4fc96c843e", null ],
+    [ "pos", "de/dc0/a08423.html#adff317cbf0c2d159d8ffddf52b4751b3", null ],
+    [ "seat", "de/dc0/a08423.html#ad57bea2ae3beb6a086a116989b0d528f", null ],
+    [ "time", "de/dc0/a08423.html#acec3991f0d19fd9f72e9837eef516057", null ],
+    [ "time2", "de/dc0/a08423.html#a426c651d2f359847b033a4d7f278a191", null ]
 ];

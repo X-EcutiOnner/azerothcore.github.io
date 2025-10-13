@@ -1,9 +1,6 @@
 var a12443 =
 [
-    [ "FilterTargets", "d5/db6/a12443.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "d5/db6/a12443.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "d5/db6/a12443.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "d5/db6/a12443.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "d5/db6/a12443.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "d5/db6/a12443.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "boss_flamegorAI", "dc/d13/a12447.html", "dc/d13/a12447" ],
+    [ "boss_flamegor", "d5/db6/a12443.html#abc6f068c81466d08306d94667bb1974b", null ],
+    [ "GetAI", "d5/db6/a12443.html#a56fb8425c55703fbda14a982d8fdcb2d", null ]
 ];

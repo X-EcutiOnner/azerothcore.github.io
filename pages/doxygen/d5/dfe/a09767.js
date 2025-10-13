@@ -1,10 +1,7 @@
 var a09767 =
 [
-    [ "MailReceiver", "d5/dfe/a09767.html#a6fba3ff0ab3167197f569631d766ce14", null ],
-    [ "MailReceiver", "d5/dfe/a09767.html#af0b094a704463ed76b1c08bc3cab0380", null ],
-    [ "MailReceiver", "d5/dfe/a09767.html#a9f69a0951c2b9d9152685632c744cf4e", null ],
-    [ "GetPlayer", "d5/dfe/a09767.html#a0113e33ef82e9f3112f8cd5793581a36", null ],
-    [ "GetPlayerGUIDLow", "d5/dfe/a09767.html#a0e29fba37b58c7bc92065b0221b8e31e", null ],
-    [ "m_receiver", "d5/dfe/a09767.html#a377b896e1dc7a0e89440efbc2b811ae7", null ],
-    [ "m_receiver_lowguid", "d5/dfe/a09767.html#a46b62a2b8dd0ebac981e0a1752e88743", null ]
+    [ "LootView", "d5/dfe/a09767.html#a4cfc8ca1034e941a85d2955f38b2e894", null ],
+    [ "loot", "d5/dfe/a09767.html#ac95fa4805c79923b292e8984b00de929", null ],
+    [ "permission", "d5/dfe/a09767.html#a33d7eeebd6fbc854300275a4138d9030", null ],
+    [ "viewer", "d5/dfe/a09767.html#af9a6926c6c871dee245f876038e49995", null ]
 ];

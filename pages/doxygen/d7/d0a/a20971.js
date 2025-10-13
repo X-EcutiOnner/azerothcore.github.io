@@ -1,8 +1,7 @@
 var a20971 =
 [
-    [ "OnPeriodic", "d7/d0a/a20971.html#aa49d1186ca6f5cdd628728a8a30c06a0", null ],
-    [ "OnRemove", "d7/d0a/a20971.html#ad3a81506d71ed3d6ddffce7d8f902eb4", null ],
-    [ "PrepareAuraScript", "d7/d0a/a20971.html#a63b654cf540e331e4d2b4f4ece5c1fcc", null ],
-    [ "Register", "d7/d0a/a20971.html#a004ba2e0e83a14bef3cae208a45f222b", null ],
-    [ "Validate", "d7/d0a/a20971.html#aa56622a1e57c157260940023a6c70a35", null ]
+    [ "FilterTargets", "d7/d0a/a20971.html#a582691eca81b6db6d78ca925ad8fb084", null ],
+    [ "PrepareSpellScript", "d7/d0a/a20971.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
+    [ "RecalculateDamage", "d7/d0a/a20971.html#a02c1af0414de344056b2375488f23c01", null ],
+    [ "Register", "d7/d0a/a20971.html#a1e030067944878000b731edf456d6bc8", null ]
 ];

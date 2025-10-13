@@ -1,10 +1,7 @@
 var a16247 =
 [
-    [ "npc_xerestraszaAI", "d2/d95/a16247.html#a768ae45296e16b8fcada6359dfd6c7e5", null ],
-    [ "DoAction", "d2/d95/a16247.html#af696ecee315892b2bf0233113d2f89f9", null ],
-    [ "Reset", "d2/d95/a16247.html#a0eceae8fb9bf5071bc8d9cddf783507b", null ],
-    [ "UpdateAI", "d2/d95/a16247.html#a6389ab58f4b44c668590113ec75f2adf", null ],
-    [ "_events", "d2/d95/a16247.html#ae998fc6aaee14bc313ff38bb76d79e43", null ],
-    [ "_introDone", "d2/d95/a16247.html#a9d01014297290dafbb7ed25bffbe6fe6", null ],
-    [ "_isIntro", "d2/d95/a16247.html#a71ffbf3fedb77bd693beabb4ee52f57a", null ]
+    [ "CheckDistance", "d2/d95/a16247.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
+    [ "PrepareSpellScript", "d2/d95/a16247.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
+    [ "Register", "d2/d95/a16247.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
+    [ "Validate", "d2/d95/a16247.html#aa5d7a420154b156ca24e73de2faf912a", null ]
 ];

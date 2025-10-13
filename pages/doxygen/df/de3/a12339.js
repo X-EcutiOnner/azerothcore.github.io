@@ -1,6 +1,7 @@
 var a12339 =
 [
-    [ "OnEffect", "df/de3/a12339.html#a1b5999f392cec9fea4431c3f746ee034", null ],
-    [ "PrepareSpellScript", "df/de3/a12339.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
-    [ "Register", "df/de3/a12339.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
+    [ "boss_warmastervooneAI", "df/de3/a12339.html#aa22519c8d3037cf07c275080b9bedcaf", null ],
+    [ "DamageTaken", "df/de3/a12339.html#adce28de25fa74557000d60188346e2d2", null ],
+    [ "ExecuteEvent", "df/de3/a12339.html#ac9dc6ef78503a87ea68d0e232b0376da", null ],
+    [ "JustEngagedWith", "df/de3/a12339.html#ac419c5118a45264e24e391f7575d90fb", null ]
 ];

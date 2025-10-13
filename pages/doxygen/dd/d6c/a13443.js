@@ -1,7 +1,8 @@
 var a13443 =
 [
-    [ "CheckCast", "dd/d6c/a13443.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
-    [ "PrepareSpellScript", "dd/d6c/a13443.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
-    [ "Register", "dd/d6c/a13443.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
-    [ "Validate", "dd/d6c/a13443.html#a9208b9c010bb9cc379c195939351aa45", null ]
+    [ "npc_madrigosa", "dd/d6c/a13443.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
+    [ "DoAction", "dd/d6c/a13443.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
+    [ "UpdateAI", "dd/d6c/a13443.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
+    [ "events", "dd/d6c/a13443.html#a5859e4c8454371eb71740616d4763c0e", null ],
+    [ "instance", "dd/d6c/a13443.html#a09525d3bb35d1da4246bd84bbadea304", null ]
 ];

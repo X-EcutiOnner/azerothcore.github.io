@@ -1,17 +1,17 @@
 var a10003 =
 [
-    [ "FleeingMovementGenerator", "d6/df5/a10003.html#a84808dc91baadc114a6c283dd0ba6caa", null ],
-    [ "DoFinalize", "d6/df5/a10003.html#a89dd4d270b35e855c268374d8bfc3ebb", null ],
-    [ "DoFinalize", "d6/df5/a10003.html#a693ec24e9d51ea0f63d15e1c07afdb2d", null ],
-    [ "DoInitialize", "d6/df5/a10003.html#adeb978816b67ec9542ccd131da1403be", null ],
-    [ "DoReset", "d6/df5/a10003.html#a0e84bc32b599040c7f8ed9cdf92679e8", null ],
-    [ "DoUpdate", "d6/df5/a10003.html#ad78ed87cc8d2569a2744ef43957ba498", null ],
-    [ "GetMovementGeneratorType", "d6/df5/a10003.html#aa739940493313028f17d306c1b23da52", null ],
-    [ "GetPoint", "d6/df5/a10003.html#a77d3ae9533947a538220f9340ed7a907", null ],
-    [ "SetTargetLocation", "d6/df5/a10003.html#ab0e0f55df28f7cbcf108191e1e129634", null ],
-    [ "_fleeTargetGUID", "d6/df5/a10003.html#ade625570dc07a778a2089c986fac38f7", null ],
-    [ "_interrupt", "d6/df5/a10003.html#a1b71b8e2f29109b5dee1e1661d54f74a", null ],
-    [ "_invalidPathsCount", "d6/df5/a10003.html#a56cbd33bf6cd8152f4586b2298c8fdf8", null ],
-    [ "_path", "d6/df5/a10003.html#a4955c5c4b2d18c11da2b9d2a75524c16", null ],
-    [ "_timer", "d6/df5/a10003.html#a33bbc20fc564b7166965ca2f8e9b9211", null ]
+    [ "ConfusedMovementGenerator", "d6/df5/a10003.html#a694dd083a1c01378e4877939f78309b8", null ],
+    [ "_InitSpecific", "d6/df5/a10003.html#aea922e45838ab8a9cfe1787f0f7c169c", null ],
+    [ "_InitSpecific", "d6/df5/a10003.html#a212665e4306ca335181c255573d30a06", null ],
+    [ "_InitSpecific", "d6/df5/a10003.html#af597e5c544e56c255b179a08290f4ccb", null ],
+    [ "DoFinalize", "d6/df5/a10003.html#a9e2a3f0e1a99436b33a883a1ac797f43", null ],
+    [ "DoFinalize", "d6/df5/a10003.html#a82c2458b43334f06cae1a91224753fd3", null ],
+    [ "DoFinalize", "d6/df5/a10003.html#ab18018803d8e194e9d2220eb8c6450ac", null ],
+    [ "DoInitialize", "d6/df5/a10003.html#a8f1e9d0e00517b0d7f88b4213fd25104", null ],
+    [ "DoReset", "d6/df5/a10003.html#a734a73ffa4008898a170b913aafce899", null ],
+    [ "DoUpdate", "d6/df5/a10003.html#a8703ba139d90194a481388a543a14de6", null ],
+    [ "GetMovementGeneratorType", "d6/df5/a10003.html#a3f0760b38745b9e065e069d6ad984d51", null ],
+    [ "i_nextMove", "d6/df5/a10003.html#ad36fe1fd2d07af01691a319c425dc92c", null ],
+    [ "i_nextMoveTime", "d6/df5/a10003.html#ad7b5bb65d55f6149e8df8cb4e2cdda50", null ],
+    [ "i_waypoints", "d6/df5/a10003.html#a02b83b879cc31fb1a0e2f90e97556ba1", null ]
 ];

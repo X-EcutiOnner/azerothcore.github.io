@@ -1,7 +1,5 @@
 var a14631 =
 [
-    [ "OnApply", "d2/d38/a14631.html#a42148069675e663456bb5495fa5c8702", null ],
-    [ "OnPeriodic", "d2/d38/a14631.html#ad3582b02b369e3029e20817dd19aede0", null ],
-    [ "PrepareAuraScript", "d2/d38/a14631.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
-    [ "Register", "d2/d38/a14631.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
+    [ "go_pumpkin_shrine", "d2/d38/a14631.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
+    [ "OnGossipSelect", "d2/d38/a14631.html#a35763a67d39c1d68974a9602ce26b699", null ]
 ];

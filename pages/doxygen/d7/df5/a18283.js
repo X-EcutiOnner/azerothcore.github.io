@@ -1,6 +1,7 @@
 var a18283 =
 [
-    [ "FilterTargets", "d7/df5/a18283.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
-    [ "PrepareSpellScript", "d7/df5/a18283.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
-    [ "Register", "d7/df5/a18283.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
+    [ "PeriodicTick", "d7/df5/a18283.html#a79b63e30f37df8a961b57c4b10669800", null ],
+    [ "PrepareAuraScript", "d7/df5/a18283.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
+    [ "Register", "d7/df5/a18283.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
+    [ "Validate", "d7/df5/a18283.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
 ];

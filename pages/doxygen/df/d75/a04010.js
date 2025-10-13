@@ -1,6 +1,6 @@
 var a04010 =
 [
-    [ "CharacterDatabase", "df/d75/a04010.html#af8239cd04c4137e1e621226a6d919ed4", null ],
-    [ "LoginDatabase", "df/d75/a04010.html#ae753c5c60b556b0cb7998e7424be5cbf", null ],
-    [ "WorldDatabase", "df/d75/a04010.html#af42e9d262f732792d1e81568ae38ea2e", null ]
+    [ "ResultIterator< T >", "d8/d88/a05899.html", "d8/d88/a05899" ],
+    [ "ResultSet", "db/d12/a05903.html", "db/d12/a05903" ],
+    [ "PreparedResultSet", "da/d2e/a05907.html", "da/d2e/a05907" ]
 ];

@@ -1,7 +1,6 @@
 var a12611 =
 [
-    [ "HandleHit", "d2/d0c/a12611.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
-    [ "Load", "d2/d0c/a12611.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
-    [ "PrepareSpellScript", "d2/d0c/a12611.html#a9fb8d980381264a2ef645f2e620abd21", null ],
-    [ "Register", "d2/d0c/a12611.html#a4998015873f0e0ca768c20b0f95fda90", null ]
+    [ "boss_lucifronAI", "df/d3a/a12615.html", "df/d3a/a12615" ],
+    [ "boss_lucifron", "d2/d0c/a12611.html#aa54be5c49a77524b036c167dbb6d81ea", null ],
+    [ "GetAI", "d2/d0c/a12611.html#a885366d4190bbc77dc696ee6910435ed", null ]
 ];

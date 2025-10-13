@@ -1,8 +1,7 @@
 var a25679 =
 [
-    [ "HandleFinish", "d8/d17/a25679.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
-    [ "PrepareSpellScript", "d8/d17/a25679.html#a73865997890d4f58cc09d54c2c4e5243", null ],
-    [ "Register", "d8/d17/a25679.html#a106cf5d53956b66f8f548caceda41dc8", null ],
-    [ "SelectTarget", "d8/d17/a25679.html#ab33513df20e942ba354932df5082efa8", null ],
-    [ "_target", "d8/d17/a25679.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
+    [ "HandleDummy", "d8/d17/a25679.html#a5b25d03bb22995e1ba9deb7eec4ee35a", null ],
+    [ "Load", "d8/d17/a25679.html#a833d9abe12cb4fff1700b97bc7215c1d", null ],
+    [ "PrepareSpellScript", "d8/d17/a25679.html#a547b3f71f9fc502dc589ad7b9b6f3cc2", null ],
+    [ "Register", "d8/d17/a25679.html#ae7d502253b0c47921e40da4aa87b0eef", null ]
 ];

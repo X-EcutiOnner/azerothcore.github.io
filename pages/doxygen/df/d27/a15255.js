@@ -1,8 +1,7 @@
 var a15255 =
 [
-    [ "npc_obsidian_destroyer", "df/d27/a15255.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
-    [ "JustDied", "df/d27/a15255.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
-    [ "JustEngagedWith", "df/d27/a15255.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
-    [ "Reset", "df/d27/a15255.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
-    [ "UpdateAI", "df/d27/a15255.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
+    [ "boss_rajaxx", "df/d27/a15255.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
+    [ "JustDied", "df/d27/a15255.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
+    [ "JustEngagedWith", "df/d27/a15255.html#a8dad79921559359b6aa7149641925fe5", null ],
+    [ "UpdateAI", "df/d27/a15255.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
 ];

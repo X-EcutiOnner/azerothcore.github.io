@@ -1,6 +1,11 @@
 var a14387 =
 [
-    [ "HandleEffectApply", "d0/d27/a14387.html#a06d50e8c0f7bfd1b055d8a3f5c14d357", null ],
-    [ "PrepareAuraScript", "d0/d27/a14387.html#a5f8abd33848c554f9a530ad23c86a7a0", null ],
-    [ "Register", "d0/d27/a14387.html#a2b39daf6fe325cfa909b964da62c2571", null ]
+    [ "npc_dark_iron_attack_mole_machine", "d0/d27/a14387.html#a473a8fb4905e5d1333196797d7d0f371", null ],
+    [ "AttackStart", "d0/d27/a14387.html#a999dd932fbaf22a8275dfdba150c3291", null ],
+    [ "JustEngagedWith", "d0/d27/a14387.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
+    [ "MoveInLineOfSight", "d0/d27/a14387.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
+    [ "Reset", "d0/d27/a14387.html#a0727aab751ddfbd94ae070e60e47e768", null ],
+    [ "UpdateAI", "d0/d27/a14387.html#a1217ed510a846d011143ae0a386c6236", null ],
+    [ "goTimer", "d0/d27/a14387.html#a8686845ebef564c9fcaa115866c99749", null ],
+    [ "summonTimer", "d0/d27/a14387.html#a4713da02f4a86547a0f796167e24d8bb", null ]
 ];

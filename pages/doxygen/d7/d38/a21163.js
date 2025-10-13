@@ -1,7 +1,6 @@
 var a21163 =
 [
-    [ "OnPeriodic", "d7/d38/a21163.html#a529e89c1ae0074370da174defc086719", null ],
-    [ "PrepareAuraScript", "d7/d38/a21163.html#a587652095a5dfae229787a0c0ceacfbe", null ],
-    [ "Register", "d7/d38/a21163.html#acd5551b09882d720608bdec6036dee9a", null ],
-    [ "Validate", "d7/d38/a21163.html#aaed6604e39dd977f4e7c671052d718e8", null ]
+    [ "FilterTargets", "d7/d38/a21163.html#a7efa78a7991b7ca859c7d622f973265d", null ],
+    [ "PrepareSpellScript", "d7/d38/a21163.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
+    [ "Register", "d7/d38/a21163.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
 ];

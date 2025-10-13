@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Spells/spell_hunter.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/server/scripts/Spells/spell_rogue.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,383 +106,286 @@ $(document).ready(function(){initNavTree('d6/dfc/a02612.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
+<a href="#define-members">Macros</a> &#124;
+<a href="#typedef-members">Typedefs</a> &#124;
 <a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">spell_hunter.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">spell_rogue.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Cell.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">AreaDefines.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">CellImpl.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">Pet.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SpellAuraEffects.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">SpellAuras.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SpellScript.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SpellScriptLoader.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">GridNotifiersImpl.h</a>&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/ddf/a25583.html">spell_hun_check_pet_los</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d73/a26831.html">spell_rog_savage_combat</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/da9/a25587.html">spell_hun_cower</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dc6/a26835.html">spell_rog_combat_potency</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d6d/a25591.html">spell_hun_wyvern_sting</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/de6/a26839.html">spell_rog_blade_flurry</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d19/a25595.html">spell_hun_animal_handler</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d00/a26843.html">spell_rog_cheat_death</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d0a/a25599.html">spell_hun_generic_scaling</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d4c/a26847.html">spell_rog_deadly_poison</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d52/a25603.html">spell_hun_taming_the_beast</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/dc9/a26851.html">spell_rog_killing_spree_aura</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d65/a25607.html">spell_hun_aspect_of_the_beast</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d5b/a26855.html">spell_rog_killing_spree</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d6c/a25611.html">spell_hun_ascpect_of_the_viper</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d42/a26859.html">spell_rog_nerves_of_steel</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/db2/a25615.html">spell_hun_chimera_shot</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/de4/a26863.html">spell_rog_preparation</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d82/a25619.html">spell_hun_improved_mend_pet</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d10/a26867.html">spell_rog_prey_on_the_weak</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd6/a25623.html">spell_hun_invigoration</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/dea/a26871.html">spell_rog_rupture</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dab/a25627.html">spell_hun_last_stand_pet</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/db0/a26875.html">spell_rog_shiv</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d26/a25631.html">spell_hun_masters_call</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d7a/a26879.html">spell_rog_tricks_of_the_trade</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d53/a25635.html">spell_hun_readiness</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/d3c/a26883.html">spell_rog_tricks_of_the_trade_proc</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d07/a25639.html">spell_hun_scatter_shot</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d87/a26887.html">spell_rog_pickpocket</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dbb/a25643.html">spell_hun_sniper_training</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/daf/a26891.html">spell_rog_vanish_purge</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d69/a25647.html">spell_hun_pet_heart_of_the_phoenix</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d03/a26895.html">spell_rog_vanish</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d5c/a25651.html">spell_hun_pet_carrion_feeder</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d7d/a25655.html">spell_hun_misdirection</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d6a/a25659.html">spell_hun_misdirection_proc</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dff/a25663.html">spell_hun_disengage</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/db8/a25667.html">spell_hun_tame_beast</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dee/a25671.html">spell_hun_viper_attack_speed</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d81/a25675.html">spell_hun_glyph_of_arcane_shot</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d17/a25679.html">spell_hun_volley_trigger</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d14/a25683.html">spell_hun_lock_and_load</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d56/a25687.html">spell_hun_intimidation</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d67/a25691.html">spell_hun_bestial_wrath</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/df6/a25695.html">spell_hun_target_self_and_pet</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/deb/a25699.html">spell_hun_explosive_shot</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:a3113dcef6ca918382eb15e4803d7bb42"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dfc/a02612.html#a3113dcef6ca918382eb15e4803d7bb42">KillingSpreeScriptName</a>&#160;&#160;&#160;&quot;spell_rog_killing_spree&quot;</td></tr>
+<tr class="separator:a3113dcef6ca918382eb15e4803d7bb42"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="typedef-members" name="typedef-members"></a>
+Typedefs</h2></td></tr>
+<tr class="memitem:a68df6411a1d33b37aed8e2cb7d35de0f"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="../../dc/dc9/a26851.html">spell_rog_killing_spree_aura</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dfc/a02612.html#a68df6411a1d33b37aed8e2cb7d35de0f">spell_rog_killing_spree_aura_script</a></td></tr>
+<tr class="separator:a68df6411a1d33b37aed8e2cb7d35de0f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
 Enumerations</h2></td></tr>
-<tr class="memitem:a87efb4c7cf60464c813daf57f8006a7e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7e">HunterSpells</a> { <br />
-&#160;&#160;<a class="el" href="../../d1/d55/a03959.html#a87efb4c7cf60464c813daf57f8006a7ea919b3819273ed109abc5ff9e1f17f280">SPELL_HUNTER_CRIPPLING_POISON</a> = 30981
+<tr class="memitem:a8b34bf8ceba4b8c2efea84d90002d523"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523">RogueSpells</a> { <br />
+&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523abd75ddb52a8c3be71d8856b3a34686b4">SPELL_ROGUE_BLADE_FLURRY_EXTRA_ATTACK</a> = 22482
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d55/a03959.html#a87efb4c7cf60464c813daf57f8006a7ead1a8eca1edbd63099142576708bdcdbf">SPELL_HUNTER_DEADLY_POISON_PASSIVE</a> = 34657
+&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a75fb50ee3a9ea34c6f3cd9c9c69ef812">SPELL_ROGUE_CHEAT_DEATH_COOLDOWN</a> = 31231
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d55/a03959.html#a87efb4c7cf60464c813daf57f8006a7eadf08a2ccf6ab77efd0195c9312df57fc">SPELL_HUNTER_MIND_NUMBING_POISON</a> = 25810
+&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a6396f8908556e8d41d4588ad332ed220">SPELL_ROGUE_CHEATING_DEATH</a> = 45182
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d55/a03959.html#a87efb4c7cf60464c813daf57f8006a7eafb79cd1f0ef5f656d3f72634c53cfde6">SPELL_HUNTER_GLYPH_OF_SNAKE_TRAP</a> = 56849
+&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a7545fa0487a27a1ff5c4f46f11bd6e2d">SPELL_ROGUE_GLYPH_OF_PREPARATION</a> = 56819
 , <br />
-&#160;&#160;<a class="el" href="../../d1/d55/a03959.html#a87efb4c7cf60464c813daf57f8006a7ea5d2116d1e86d04190a20c4e9fed1c86f">SPELL_HUNTER_PET_SCALING</a> = 62915
+&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a8724d3e7643b075ffc53dc2b56a6d57e">SPELL_ROGUE_KILLING_SPREE</a> = 51690
 , <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea30a1369afc6885f7670bcf55f8948c07">SPELL_HUNTER_WYVERN_STING_DOT</a> = 24131
+&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523ac79c792df274373bd828b858423bf788">SPELL_ROGUE_KILLING_SPREE_TELEPORT</a> = 57840
 , <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea9729e1f80d9e5ce1cd9928f8ed27ca00">SPELL_HUNTER_ASPECT_OF_THE_BEAST</a> = 13161
+&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a43c37fb7f4397717d9d461979a347419">SPELL_ROGUE_KILLING_SPREE_WEAPON_DMG</a> = 57841
 , <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7eaab952376ae60a2bfa87860e57b81604e">SPELL_HUNTER_ASPECT_OF_THE_BEAST_PET</a> = 61669
+&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523aa581c4f979f952b5ab2cd9c3fe4b48b3">SPELL_ROGUE_KILLING_SPREE_DMG_BUFF</a> = 61851
 , <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ead05cc74310d029dfed9226f52ff7e9e7">SPELL_HUNTER_ASPECT_OF_THE_VIPER</a> = 34074
+&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a00ea9db72b7743f8aa77105b26052452">SPELL_ROGUE_PREY_ON_THE_WEAK</a> = 58670
 , <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea291f618e33506ca7b2182480873737f8">SPELL_HUNTER_ASPECT_OF_THE_VIPER_ENERGIZE</a> = 34075
+&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523abbcae24b30508077d3d35d472fda1c1e">SPELL_ROGUE_SHIV_TRIGGERED</a> = 5940
 , <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ead2ce3e1b324d99ed0919aad89eb0d524">SPELL_HUNTER_BESTIAL_WRATH</a> = 19574
+&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a3e6468283bdb07074e12d6fa6a95de1a">SPELL_ROGUE_TRICKS_OF_THE_TRADE_DMG_BOOST</a> = 57933
 , <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7eae4017a2262529adaf18e0cfcc81ca052">SPELL_HUNTER_CHIMERA_SHOT_SERPENT</a> = 53353
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea27313cec0b1c54431414148930dee532">SPELL_HUNTER_CHIMERA_SHOT_VIPER</a> = 53358
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea02c4f17910c60803051dc22d837911ce">SPELL_HUNTER_CHIMERA_SHOT_SCORPID</a> = 53359
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea6511da7ee83f971738c671b8150f93c1">SPELL_HUNTER_GLYPH_OF_ASPECT_OF_THE_VIPER</a> = 56851
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ead3961ef5de734ba9384c7c21b78b88a3">SPELL_HUNTER_IMPROVED_MEND_PET</a> = 24406
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea0835f319e0b7eae6873df26c0ecb1516">SPELL_HUNTER_INVIGORATION_TRIGGERED</a> = 53398
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea6268d79b97acf49da958366261e0df54">SPELL_HUNTER_MASTERS_CALL_TRIGGERED</a> = 62305
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea3e0615670e4fc9469b7250228033251c">SPELL_HUNTER_MISDIRECTION_PROC</a> = 35079
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ead1b47010db0ea9e584e24e15141719b7">SPELL_HUNTER_PET_LAST_STAND_TRIGGERED</a> = 53479
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea0a1495d9817725f5cb19e63026605ce5">SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX</a> = 55709
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea8ab8a8af8e4201e7442c10a338a5d6dd">SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX_TRIGGERED</a> = 54114
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea848635e540638b2f1fb01164ec34a332">SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX_DEBUFF</a> = 55711
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7eabb248b57d2aeb464deeed4679d51d110">SPELL_HUNTER_PET_CARRION_FEEDER_TRIGGERED</a> = 54045
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea5eb25691f66e527c4af972f7390363a7">SPELL_HUNTER_READINESS</a> = 23989
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea28068379ce495b5984cad20edcd9f95c">SPELL_HUNTER_SNIPER_TRAINING_R1</a> = 53302
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea38571110b4e0757cb9400f8c23f34410">SPELL_HUNTER_SNIPER_TRAINING_BUFF_R1</a> = 64418
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea91c03fc46203d796b746b1f13a72f034">SPELL_HUNTER_VICIOUS_VIPER</a> = 61609
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea05da71a759b2932a2f0dc58dc3852138">SPELL_HUNTER_VIPER_ATTACK_SPEED</a> = 60144
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea8b43cf97edfed28f7001b77141f01fac">SPELL_DRAENEI_GIFT_OF_THE_NAARU</a> = 59543
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea24de2077bf8ff891f5d0639cae664d5b">SPELL_HUNTER_GLYPH_OF_ARCANE_SHOT</a> = 61389
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea5706be61803978650ec18c15106c8491">SPELL_LOCK_AND_LOAD_TRIGGER</a> = 56453
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7eadfa5358bedddaa69188aa6805eee5002">SPELL_LOCK_AND_LOAD_MARKER</a> = 67544
-, <br />
-&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea9690d550fbf55abe4d2da23e29b5f8b6">SPELL_HUNTER_PET_LEGGINGS_OF_BEAST_MASTERY</a> = 38297
+&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a05c69acb7a8f501d078f7fda049926e1">SPELL_ROGUE_TRICKS_OF_THE_TRADE_PROC</a> = 59628
 <br />
  }</td></tr>
-<tr class="separator:a87efb4c7cf60464c813daf57f8006a7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8e414ebc815b459786b1b60831500b3e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dfc/a02612.html#a8e414ebc815b459786b1b60831500b3e">LocknLoadSpells</a> { <a class="el" href="../../d6/dfc/a02612.html#a8e414ebc815b459786b1b60831500b3ea3fe2049f68094a11efb86e4e93a040be">SPELL_FROST_TRAP_SLOW</a> = 67035
+<tr class="separator:a8b34bf8ceba4b8c2efea84d90002d523"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a47d2a2d375f5f93aeca232de9aa5ac52"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dfc/a02612.html#a47d2a2d375f5f93aeca232de9aa5ac52">vanish</a> { <br />
+&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a47d2a2d375f5f93aeca232de9aa5ac52ab05b1ff486cc81800d4e40014eae5576">SPELL_STEALTH</a> = 1784
+, <br />
+&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a47d2a2d375f5f93aeca232de9aa5ac52abdce16544ce0bef6f5399bbf640e6f01">SPELL_PARALYZE</a> = 38132
+, <br />
+&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a47d2a2d375f5f93aeca232de9aa5ac52a8d6bf93ef29ba0ac643e6ae0fe2b3a58">SPELL_CLEAN_ESCAPE_AURA</a> = 23582
+, <br />
+&#160;&#160;<a class="el" href="../../d6/dfc/a02612.html#a47d2a2d375f5f93aeca232de9aa5ac52a481fbba00ece37c94df1a980e2060c37">SPELL_CLEAN_ESCAPE_HEAL</a> = 23583
+<br />
  }</td></tr>
-<tr class="separator:a8e414ebc815b459786b1b60831500b3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:a47d2a2d375f5f93aeca232de9aa5ac52"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:af7e6bdb12ab989b575a1dca18382ea7c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dfc/a02612.html#af7e6bdb12ab989b575a1dca18382ea7c">AddSC_hunter_spell_scripts</a> ()</td></tr>
-<tr class="separator:af7e6bdb12ab989b575a1dca18382ea7c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a540405afe3345e19487d2db693272b2a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dfc/a02612.html#a540405afe3345e19487d2db693272b2a">AddSC_rogue_spell_scripts</a> ()</td></tr>
+<tr class="separator:a540405afe3345e19487d2db693272b2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a87efb4c7cf60464c813daf57f8006a7e" name="a87efb4c7cf60464c813daf57f8006a7e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a87efb4c7cf60464c813daf57f8006a7e">&#9670;&#160;</a></span>HunterSpells</h2>
+<h2 class="groupheader">Macro Definition Documentation</h2>
+<a id="a3113dcef6ca918382eb15e4803d7bb42" name="a3113dcef6ca918382eb15e4803d7bb42"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3113dcef6ca918382eb15e4803d7bb42">&#9670;&#160;</a></span>KillingSpreeScriptName</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d1/d55/a03959.html#a87efb4c7cf60464c813daf57f8006a7e">HunterSpells</a></td>
+          <td class="memname">#define KillingSpreeScriptName&#160;&#160;&#160;&quot;spell_rog_killing_spree&quot;</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<dl class="todo"><dt><b><a class="el" href="../../d6/d56/a04790.html#_todo000210">Todo:</a></b></dt><dd>: this import is not necessary for compilation and marked as unused by the IDE </dd></dl>
+
+</div>
+</div>
+<h2 class="groupheader">Typedef Documentation</h2>
+<a id="a68df6411a1d33b37aed8e2cb7d35de0f" name="a68df6411a1d33b37aed8e2cb7d35de0f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a68df6411a1d33b37aed8e2cb7d35de0f">&#9670;&#160;</a></span>spell_rog_killing_spree_aura_script</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef <a class="el" href="../../dc/dc9/a26851.html">spell_rog_killing_spree_aura</a> <a class="el" href="../../d6/dfc/a02612.html#a68df6411a1d33b37aed8e2cb7d35de0f">spell_rog_killing_spree_aura_script</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a8b34bf8ceba4b8c2efea84d90002d523" name="a8b34bf8ceba4b8c2efea84d90002d523"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8b34bf8ceba4b8c2efea84d90002d523">&#9670;&#160;</a></span>RogueSpells</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523">RogueSpells</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea919b3819273ed109abc5ff9e1f17f280" name="a87efb4c7cf60464c813daf57f8006a7ea919b3819273ed109abc5ff9e1f17f280"></a>SPELL_HUNTER_CRIPPLING_POISON&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ead1a8eca1edbd63099142576708bdcdbf" name="a87efb4c7cf60464c813daf57f8006a7ead1a8eca1edbd63099142576708bdcdbf"></a>SPELL_HUNTER_DEADLY_POISON_PASSIVE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7eadf08a2ccf6ab77efd0195c9312df57fc" name="a87efb4c7cf60464c813daf57f8006a7eadf08a2ccf6ab77efd0195c9312df57fc"></a>SPELL_HUNTER_MIND_NUMBING_POISON&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7eafb79cd1f0ef5f656d3f72634c53cfde6" name="a87efb4c7cf60464c813daf57f8006a7eafb79cd1f0ef5f656d3f72634c53cfde6"></a>SPELL_HUNTER_GLYPH_OF_SNAKE_TRAP&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea5d2116d1e86d04190a20c4e9fed1c86f" name="a87efb4c7cf60464c813daf57f8006a7ea5d2116d1e86d04190a20c4e9fed1c86f"></a>SPELL_HUNTER_PET_SCALING&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea30a1369afc6885f7670bcf55f8948c07" name="a87efb4c7cf60464c813daf57f8006a7ea30a1369afc6885f7670bcf55f8948c07"></a>SPELL_HUNTER_WYVERN_STING_DOT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea9729e1f80d9e5ce1cd9928f8ed27ca00" name="a87efb4c7cf60464c813daf57f8006a7ea9729e1f80d9e5ce1cd9928f8ed27ca00"></a>SPELL_HUNTER_ASPECT_OF_THE_BEAST&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7eaab952376ae60a2bfa87860e57b81604e" name="a87efb4c7cf60464c813daf57f8006a7eaab952376ae60a2bfa87860e57b81604e"></a>SPELL_HUNTER_ASPECT_OF_THE_BEAST_PET&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ead05cc74310d029dfed9226f52ff7e9e7" name="a87efb4c7cf60464c813daf57f8006a7ead05cc74310d029dfed9226f52ff7e9e7"></a>SPELL_HUNTER_ASPECT_OF_THE_VIPER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea291f618e33506ca7b2182480873737f8" name="a87efb4c7cf60464c813daf57f8006a7ea291f618e33506ca7b2182480873737f8"></a>SPELL_HUNTER_ASPECT_OF_THE_VIPER_ENERGIZE&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ead2ce3e1b324d99ed0919aad89eb0d524" name="a87efb4c7cf60464c813daf57f8006a7ead2ce3e1b324d99ed0919aad89eb0d524"></a>SPELL_HUNTER_BESTIAL_WRATH&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7eae4017a2262529adaf18e0cfcc81ca052" name="a87efb4c7cf60464c813daf57f8006a7eae4017a2262529adaf18e0cfcc81ca052"></a>SPELL_HUNTER_CHIMERA_SHOT_SERPENT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea27313cec0b1c54431414148930dee532" name="a87efb4c7cf60464c813daf57f8006a7ea27313cec0b1c54431414148930dee532"></a>SPELL_HUNTER_CHIMERA_SHOT_VIPER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea02c4f17910c60803051dc22d837911ce" name="a87efb4c7cf60464c813daf57f8006a7ea02c4f17910c60803051dc22d837911ce"></a>SPELL_HUNTER_CHIMERA_SHOT_SCORPID&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea6511da7ee83f971738c671b8150f93c1" name="a87efb4c7cf60464c813daf57f8006a7ea6511da7ee83f971738c671b8150f93c1"></a>SPELL_HUNTER_GLYPH_OF_ASPECT_OF_THE_VIPER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ead3961ef5de734ba9384c7c21b78b88a3" name="a87efb4c7cf60464c813daf57f8006a7ead3961ef5de734ba9384c7c21b78b88a3"></a>SPELL_HUNTER_IMPROVED_MEND_PET&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea0835f319e0b7eae6873df26c0ecb1516" name="a87efb4c7cf60464c813daf57f8006a7ea0835f319e0b7eae6873df26c0ecb1516"></a>SPELL_HUNTER_INVIGORATION_TRIGGERED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea6268d79b97acf49da958366261e0df54" name="a87efb4c7cf60464c813daf57f8006a7ea6268d79b97acf49da958366261e0df54"></a>SPELL_HUNTER_MASTERS_CALL_TRIGGERED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea3e0615670e4fc9469b7250228033251c" name="a87efb4c7cf60464c813daf57f8006a7ea3e0615670e4fc9469b7250228033251c"></a>SPELL_HUNTER_MISDIRECTION_PROC&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ead1b47010db0ea9e584e24e15141719b7" name="a87efb4c7cf60464c813daf57f8006a7ead1b47010db0ea9e584e24e15141719b7"></a>SPELL_HUNTER_PET_LAST_STAND_TRIGGERED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea0a1495d9817725f5cb19e63026605ce5" name="a87efb4c7cf60464c813daf57f8006a7ea0a1495d9817725f5cb19e63026605ce5"></a>SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea8ab8a8af8e4201e7442c10a338a5d6dd" name="a87efb4c7cf60464c813daf57f8006a7ea8ab8a8af8e4201e7442c10a338a5d6dd"></a>SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX_TRIGGERED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea848635e540638b2f1fb01164ec34a332" name="a87efb4c7cf60464c813daf57f8006a7ea848635e540638b2f1fb01164ec34a332"></a>SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX_DEBUFF&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7eabb248b57d2aeb464deeed4679d51d110" name="a87efb4c7cf60464c813daf57f8006a7eabb248b57d2aeb464deeed4679d51d110"></a>SPELL_HUNTER_PET_CARRION_FEEDER_TRIGGERED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea5eb25691f66e527c4af972f7390363a7" name="a87efb4c7cf60464c813daf57f8006a7ea5eb25691f66e527c4af972f7390363a7"></a>SPELL_HUNTER_READINESS&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea28068379ce495b5984cad20edcd9f95c" name="a87efb4c7cf60464c813daf57f8006a7ea28068379ce495b5984cad20edcd9f95c"></a>SPELL_HUNTER_SNIPER_TRAINING_R1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea38571110b4e0757cb9400f8c23f34410" name="a87efb4c7cf60464c813daf57f8006a7ea38571110b4e0757cb9400f8c23f34410"></a>SPELL_HUNTER_SNIPER_TRAINING_BUFF_R1&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea91c03fc46203d796b746b1f13a72f034" name="a87efb4c7cf60464c813daf57f8006a7ea91c03fc46203d796b746b1f13a72f034"></a>SPELL_HUNTER_VICIOUS_VIPER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea05da71a759b2932a2f0dc58dc3852138" name="a87efb4c7cf60464c813daf57f8006a7ea05da71a759b2932a2f0dc58dc3852138"></a>SPELL_HUNTER_VIPER_ATTACK_SPEED&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea8b43cf97edfed28f7001b77141f01fac" name="a87efb4c7cf60464c813daf57f8006a7ea8b43cf97edfed28f7001b77141f01fac"></a>SPELL_DRAENEI_GIFT_OF_THE_NAARU&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea24de2077bf8ff891f5d0639cae664d5b" name="a87efb4c7cf60464c813daf57f8006a7ea24de2077bf8ff891f5d0639cae664d5b"></a>SPELL_HUNTER_GLYPH_OF_ARCANE_SHOT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea5706be61803978650ec18c15106c8491" name="a87efb4c7cf60464c813daf57f8006a7ea5706be61803978650ec18c15106c8491"></a>SPELL_LOCK_AND_LOAD_TRIGGER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7eadfa5358bedddaa69188aa6805eee5002" name="a87efb4c7cf60464c813daf57f8006a7eadfa5358bedddaa69188aa6805eee5002"></a>SPELL_LOCK_AND_LOAD_MARKER&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a87efb4c7cf60464c813daf57f8006a7ea9690d550fbf55abe4d2da23e29b5f8b6" name="a87efb4c7cf60464c813daf57f8006a7ea9690d550fbf55abe4d2da23e29b5f8b6"></a>SPELL_HUNTER_PET_LEGGINGS_OF_BEAST_MASTERY&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a8b34bf8ceba4b8c2efea84d90002d523abd75ddb52a8c3be71d8856b3a34686b4" name="a8b34bf8ceba4b8c2efea84d90002d523abd75ddb52a8c3be71d8856b3a34686b4"></a>SPELL_ROGUE_BLADE_FLURRY_EXTRA_ATTACK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8b34bf8ceba4b8c2efea84d90002d523a75fb50ee3a9ea34c6f3cd9c9c69ef812" name="a8b34bf8ceba4b8c2efea84d90002d523a75fb50ee3a9ea34c6f3cd9c9c69ef812"></a>SPELL_ROGUE_CHEAT_DEATH_COOLDOWN&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8b34bf8ceba4b8c2efea84d90002d523a6396f8908556e8d41d4588ad332ed220" name="a8b34bf8ceba4b8c2efea84d90002d523a6396f8908556e8d41d4588ad332ed220"></a>SPELL_ROGUE_CHEATING_DEATH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8b34bf8ceba4b8c2efea84d90002d523a7545fa0487a27a1ff5c4f46f11bd6e2d" name="a8b34bf8ceba4b8c2efea84d90002d523a7545fa0487a27a1ff5c4f46f11bd6e2d"></a>SPELL_ROGUE_GLYPH_OF_PREPARATION&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8b34bf8ceba4b8c2efea84d90002d523a8724d3e7643b075ffc53dc2b56a6d57e" name="a8b34bf8ceba4b8c2efea84d90002d523a8724d3e7643b075ffc53dc2b56a6d57e"></a>SPELL_ROGUE_KILLING_SPREE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8b34bf8ceba4b8c2efea84d90002d523ac79c792df274373bd828b858423bf788" name="a8b34bf8ceba4b8c2efea84d90002d523ac79c792df274373bd828b858423bf788"></a>SPELL_ROGUE_KILLING_SPREE_TELEPORT&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8b34bf8ceba4b8c2efea84d90002d523a43c37fb7f4397717d9d461979a347419" name="a8b34bf8ceba4b8c2efea84d90002d523a43c37fb7f4397717d9d461979a347419"></a>SPELL_ROGUE_KILLING_SPREE_WEAPON_DMG&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8b34bf8ceba4b8c2efea84d90002d523aa581c4f979f952b5ab2cd9c3fe4b48b3" name="a8b34bf8ceba4b8c2efea84d90002d523aa581c4f979f952b5ab2cd9c3fe4b48b3"></a>SPELL_ROGUE_KILLING_SPREE_DMG_BUFF&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8b34bf8ceba4b8c2efea84d90002d523a00ea9db72b7743f8aa77105b26052452" name="a8b34bf8ceba4b8c2efea84d90002d523a00ea9db72b7743f8aa77105b26052452"></a>SPELL_ROGUE_PREY_ON_THE_WEAK&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8b34bf8ceba4b8c2efea84d90002d523abbcae24b30508077d3d35d472fda1c1e" name="a8b34bf8ceba4b8c2efea84d90002d523abbcae24b30508077d3d35d472fda1c1e"></a>SPELL_ROGUE_SHIV_TRIGGERED&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8b34bf8ceba4b8c2efea84d90002d523a3e6468283bdb07074e12d6fa6a95de1a" name="a8b34bf8ceba4b8c2efea84d90002d523a3e6468283bdb07074e12d6fa6a95de1a"></a>SPELL_ROGUE_TRICKS_OF_THE_TRADE_DMG_BOOST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a8b34bf8ceba4b8c2efea84d90002d523a05c69acb7a8f501d078f7fda049926e1" name="a8b34bf8ceba4b8c2efea84d90002d523a05c69acb7a8f501d078f7fda049926e1"></a>SPELL_ROGUE_TRICKS_OF_THE_TRADE_PROC&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   41</span>{</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea30a1369afc6885f7670bcf55f8948c07">SPELL_HUNTER_WYVERN_STING_DOT</a>                   = 24131,</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea9729e1f80d9e5ce1cd9928f8ed27ca00">SPELL_HUNTER_ASPECT_OF_THE_BEAST</a>                = 13161,</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7eaab952376ae60a2bfa87860e57b81604e">SPELL_HUNTER_ASPECT_OF_THE_BEAST_PET</a>            = 61669,</div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ead05cc74310d029dfed9226f52ff7e9e7">SPELL_HUNTER_ASPECT_OF_THE_VIPER</a>                = 34074,</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea291f618e33506ca7b2182480873737f8">SPELL_HUNTER_ASPECT_OF_THE_VIPER_ENERGIZE</a>       = 34075,</div>
-<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ead2ce3e1b324d99ed0919aad89eb0d524">SPELL_HUNTER_BESTIAL_WRATH</a>                      = 19574,</div>
-<div class="line"><span class="lineno">   48</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7eae4017a2262529adaf18e0cfcc81ca052">SPELL_HUNTER_CHIMERA_SHOT_SERPENT</a>               = 53353,</div>
-<div class="line"><span class="lineno">   49</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea27313cec0b1c54431414148930dee532">SPELL_HUNTER_CHIMERA_SHOT_VIPER</a>                 = 53358,</div>
-<div class="line"><span class="lineno">   50</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea02c4f17910c60803051dc22d837911ce">SPELL_HUNTER_CHIMERA_SHOT_SCORPID</a>               = 53359,</div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea6511da7ee83f971738c671b8150f93c1">SPELL_HUNTER_GLYPH_OF_ASPECT_OF_THE_VIPER</a>       = 56851,</div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ead3961ef5de734ba9384c7c21b78b88a3">SPELL_HUNTER_IMPROVED_MEND_PET</a>                  = 24406,</div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea0835f319e0b7eae6873df26c0ecb1516">SPELL_HUNTER_INVIGORATION_TRIGGERED</a>             = 53398,</div>
-<div class="line"><span class="lineno">   54</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea6268d79b97acf49da958366261e0df54">SPELL_HUNTER_MASTERS_CALL_TRIGGERED</a>             = 62305,</div>
-<div class="line"><span class="lineno">   55</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea3e0615670e4fc9469b7250228033251c">SPELL_HUNTER_MISDIRECTION_PROC</a>                  = 35079,</div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ead1b47010db0ea9e584e24e15141719b7">SPELL_HUNTER_PET_LAST_STAND_TRIGGERED</a>           = 53479,</div>
-<div class="line"><span class="lineno">   57</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea0a1495d9817725f5cb19e63026605ce5">SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX</a>           = 55709,</div>
-<div class="line"><span class="lineno">   58</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea8ab8a8af8e4201e7442c10a338a5d6dd">SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX_TRIGGERED</a> = 54114,</div>
-<div class="line"><span class="lineno">   59</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea848635e540638b2f1fb01164ec34a332">SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX_DEBUFF</a>    = 55711,</div>
-<div class="line"><span class="lineno">   60</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7eabb248b57d2aeb464deeed4679d51d110">SPELL_HUNTER_PET_CARRION_FEEDER_TRIGGERED</a>       = 54045,</div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea5eb25691f66e527c4af972f7390363a7">SPELL_HUNTER_READINESS</a>                          = 23989,</div>
-<div class="line"><span class="lineno">   62</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea28068379ce495b5984cad20edcd9f95c">SPELL_HUNTER_SNIPER_TRAINING_R1</a>                 = 53302,</div>
-<div class="line"><span class="lineno">   63</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea38571110b4e0757cb9400f8c23f34410">SPELL_HUNTER_SNIPER_TRAINING_BUFF_R1</a>            = 64418,</div>
-<div class="line"><span class="lineno">   64</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea91c03fc46203d796b746b1f13a72f034">SPELL_HUNTER_VICIOUS_VIPER</a>                      = 61609,</div>
-<div class="line"><span class="lineno">   65</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea05da71a759b2932a2f0dc58dc3852138">SPELL_HUNTER_VIPER_ATTACK_SPEED</a>                 = 60144,</div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea8b43cf97edfed28f7001b77141f01fac">SPELL_DRAENEI_GIFT_OF_THE_NAARU</a>                 = 59543,</div>
-<div class="line"><span class="lineno">   67</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea24de2077bf8ff891f5d0639cae664d5b">SPELL_HUNTER_GLYPH_OF_ARCANE_SHOT</a>               = 61389,</div>
-<div class="line"><span class="lineno">   68</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea5706be61803978650ec18c15106c8491">SPELL_LOCK_AND_LOAD_TRIGGER</a>                     = 56453,</div>
-<div class="line"><span class="lineno">   69</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7eadfa5358bedddaa69188aa6805eee5002">SPELL_LOCK_AND_LOAD_MARKER</a>                      = 67544,</div>
-<div class="line"><span class="lineno">   70</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea9690d550fbf55abe4d2da23e29b5f8b6">SPELL_HUNTER_PET_LEGGINGS_OF_BEAST_MASTERY</a>      = 38297, <span class="comment">// Leggings of Beast Mastery</span></div>
-<div class="line"><span class="lineno">   71</span>};</div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea02c4f17910c60803051dc22d837911ce"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea02c4f17910c60803051dc22d837911ce">SPELL_HUNTER_CHIMERA_SHOT_SCORPID</a></div><div class="ttdeci">@ SPELL_HUNTER_CHIMERA_SHOT_SCORPID</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:50</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea05da71a759b2932a2f0dc58dc3852138"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea05da71a759b2932a2f0dc58dc3852138">SPELL_HUNTER_VIPER_ATTACK_SPEED</a></div><div class="ttdeci">@ SPELL_HUNTER_VIPER_ATTACK_SPEED</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:65</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea0835f319e0b7eae6873df26c0ecb1516"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea0835f319e0b7eae6873df26c0ecb1516">SPELL_HUNTER_INVIGORATION_TRIGGERED</a></div><div class="ttdeci">@ SPELL_HUNTER_INVIGORATION_TRIGGERED</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:53</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea0a1495d9817725f5cb19e63026605ce5"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea0a1495d9817725f5cb19e63026605ce5">SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX</a></div><div class="ttdeci">@ SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:57</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea24de2077bf8ff891f5d0639cae664d5b"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea24de2077bf8ff891f5d0639cae664d5b">SPELL_HUNTER_GLYPH_OF_ARCANE_SHOT</a></div><div class="ttdeci">@ SPELL_HUNTER_GLYPH_OF_ARCANE_SHOT</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:67</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea27313cec0b1c54431414148930dee532"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea27313cec0b1c54431414148930dee532">SPELL_HUNTER_CHIMERA_SHOT_VIPER</a></div><div class="ttdeci">@ SPELL_HUNTER_CHIMERA_SHOT_VIPER</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:49</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea28068379ce495b5984cad20edcd9f95c"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea28068379ce495b5984cad20edcd9f95c">SPELL_HUNTER_SNIPER_TRAINING_R1</a></div><div class="ttdeci">@ SPELL_HUNTER_SNIPER_TRAINING_R1</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:62</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea291f618e33506ca7b2182480873737f8"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea291f618e33506ca7b2182480873737f8">SPELL_HUNTER_ASPECT_OF_THE_VIPER_ENERGIZE</a></div><div class="ttdeci">@ SPELL_HUNTER_ASPECT_OF_THE_VIPER_ENERGIZE</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:46</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea30a1369afc6885f7670bcf55f8948c07"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea30a1369afc6885f7670bcf55f8948c07">SPELL_HUNTER_WYVERN_STING_DOT</a></div><div class="ttdeci">@ SPELL_HUNTER_WYVERN_STING_DOT</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:42</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea38571110b4e0757cb9400f8c23f34410"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea38571110b4e0757cb9400f8c23f34410">SPELL_HUNTER_SNIPER_TRAINING_BUFF_R1</a></div><div class="ttdeci">@ SPELL_HUNTER_SNIPER_TRAINING_BUFF_R1</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:63</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea3e0615670e4fc9469b7250228033251c"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea3e0615670e4fc9469b7250228033251c">SPELL_HUNTER_MISDIRECTION_PROC</a></div><div class="ttdeci">@ SPELL_HUNTER_MISDIRECTION_PROC</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:55</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea5706be61803978650ec18c15106c8491"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea5706be61803978650ec18c15106c8491">SPELL_LOCK_AND_LOAD_TRIGGER</a></div><div class="ttdeci">@ SPELL_LOCK_AND_LOAD_TRIGGER</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:68</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea5eb25691f66e527c4af972f7390363a7"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea5eb25691f66e527c4af972f7390363a7">SPELL_HUNTER_READINESS</a></div><div class="ttdeci">@ SPELL_HUNTER_READINESS</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:61</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea6268d79b97acf49da958366261e0df54"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea6268d79b97acf49da958366261e0df54">SPELL_HUNTER_MASTERS_CALL_TRIGGERED</a></div><div class="ttdeci">@ SPELL_HUNTER_MASTERS_CALL_TRIGGERED</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:54</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea6511da7ee83f971738c671b8150f93c1"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea6511da7ee83f971738c671b8150f93c1">SPELL_HUNTER_GLYPH_OF_ASPECT_OF_THE_VIPER</a></div><div class="ttdeci">@ SPELL_HUNTER_GLYPH_OF_ASPECT_OF_THE_VIPER</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:51</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea848635e540638b2f1fb01164ec34a332"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea848635e540638b2f1fb01164ec34a332">SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX_DEBUFF</a></div><div class="ttdeci">@ SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX_DEBUFF</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:59</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea8ab8a8af8e4201e7442c10a338a5d6dd"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea8ab8a8af8e4201e7442c10a338a5d6dd">SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX_TRIGGERED</a></div><div class="ttdeci">@ SPELL_HUNTER_PET_HEART_OF_THE_PHOENIX_TRIGGERED</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:58</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea8b43cf97edfed28f7001b77141f01fac"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea8b43cf97edfed28f7001b77141f01fac">SPELL_DRAENEI_GIFT_OF_THE_NAARU</a></div><div class="ttdeci">@ SPELL_DRAENEI_GIFT_OF_THE_NAARU</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:66</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea91c03fc46203d796b746b1f13a72f034"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea91c03fc46203d796b746b1f13a72f034">SPELL_HUNTER_VICIOUS_VIPER</a></div><div class="ttdeci">@ SPELL_HUNTER_VICIOUS_VIPER</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:64</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea9690d550fbf55abe4d2da23e29b5f8b6"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea9690d550fbf55abe4d2da23e29b5f8b6">SPELL_HUNTER_PET_LEGGINGS_OF_BEAST_MASTERY</a></div><div class="ttdeci">@ SPELL_HUNTER_PET_LEGGINGS_OF_BEAST_MASTERY</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:70</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ea9729e1f80d9e5ce1cd9928f8ed27ca00"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ea9729e1f80d9e5ce1cd9928f8ed27ca00">SPELL_HUNTER_ASPECT_OF_THE_BEAST</a></div><div class="ttdeci">@ SPELL_HUNTER_ASPECT_OF_THE_BEAST</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:43</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7eaab952376ae60a2bfa87860e57b81604e"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7eaab952376ae60a2bfa87860e57b81604e">SPELL_HUNTER_ASPECT_OF_THE_BEAST_PET</a></div><div class="ttdeci">@ SPELL_HUNTER_ASPECT_OF_THE_BEAST_PET</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:44</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7eabb248b57d2aeb464deeed4679d51d110"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7eabb248b57d2aeb464deeed4679d51d110">SPELL_HUNTER_PET_CARRION_FEEDER_TRIGGERED</a></div><div class="ttdeci">@ SPELL_HUNTER_PET_CARRION_FEEDER_TRIGGERED</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:60</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ead05cc74310d029dfed9226f52ff7e9e7"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ead05cc74310d029dfed9226f52ff7e9e7">SPELL_HUNTER_ASPECT_OF_THE_VIPER</a></div><div class="ttdeci">@ SPELL_HUNTER_ASPECT_OF_THE_VIPER</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:45</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ead1b47010db0ea9e584e24e15141719b7"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ead1b47010db0ea9e584e24e15141719b7">SPELL_HUNTER_PET_LAST_STAND_TRIGGERED</a></div><div class="ttdeci">@ SPELL_HUNTER_PET_LAST_STAND_TRIGGERED</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:56</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ead2ce3e1b324d99ed0919aad89eb0d524"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ead2ce3e1b324d99ed0919aad89eb0d524">SPELL_HUNTER_BESTIAL_WRATH</a></div><div class="ttdeci">@ SPELL_HUNTER_BESTIAL_WRATH</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:47</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7ead3961ef5de734ba9384c7c21b78b88a3"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7ead3961ef5de734ba9384c7c21b78b88a3">SPELL_HUNTER_IMPROVED_MEND_PET</a></div><div class="ttdeci">@ SPELL_HUNTER_IMPROVED_MEND_PET</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:52</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7eadfa5358bedddaa69188aa6805eee5002"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7eadfa5358bedddaa69188aa6805eee5002">SPELL_LOCK_AND_LOAD_MARKER</a></div><div class="ttdeci">@ SPELL_LOCK_AND_LOAD_MARKER</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:69</div></div>
-<div class="ttc" id="aa02612_html_a87efb4c7cf60464c813daf57f8006a7eae4017a2262529adaf18e0cfcc81ca052"><div class="ttname"><a href="../../d6/dfc/a02612.html#a87efb4c7cf60464c813daf57f8006a7eae4017a2262529adaf18e0cfcc81ca052">SPELL_HUNTER_CHIMERA_SHOT_SERPENT</a></div><div class="ttdeci">@ SPELL_HUNTER_CHIMERA_SHOT_SERPENT</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:48</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   33</span>{</div>
+<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523abd75ddb52a8c3be71d8856b3a34686b4">SPELL_ROGUE_BLADE_FLURRY_EXTRA_ATTACK</a>       = 22482,</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a75fb50ee3a9ea34c6f3cd9c9c69ef812">SPELL_ROGUE_CHEAT_DEATH_COOLDOWN</a>            = 31231,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a6396f8908556e8d41d4588ad332ed220">SPELL_ROGUE_CHEATING_DEATH</a>                  = 45182,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a7545fa0487a27a1ff5c4f46f11bd6e2d">SPELL_ROGUE_GLYPH_OF_PREPARATION</a>            = 56819,</div>
+<div class="line"><span class="lineno">   38</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a8724d3e7643b075ffc53dc2b56a6d57e">SPELL_ROGUE_KILLING_SPREE</a>                   = 51690,</div>
+<div class="line"><span class="lineno">   39</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523ac79c792df274373bd828b858423bf788">SPELL_ROGUE_KILLING_SPREE_TELEPORT</a>          = 57840,</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a43c37fb7f4397717d9d461979a347419">SPELL_ROGUE_KILLING_SPREE_WEAPON_DMG</a>        = 57841,</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523aa581c4f979f952b5ab2cd9c3fe4b48b3">SPELL_ROGUE_KILLING_SPREE_DMG_BUFF</a>          = 61851,</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a00ea9db72b7743f8aa77105b26052452">SPELL_ROGUE_PREY_ON_THE_WEAK</a>                = 58670,</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523abbcae24b30508077d3d35d472fda1c1e">SPELL_ROGUE_SHIV_TRIGGERED</a>                  = 5940,</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a3e6468283bdb07074e12d6fa6a95de1a">SPELL_ROGUE_TRICKS_OF_THE_TRADE_DMG_BOOST</a>   = 57933,</div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a05c69acb7a8f501d078f7fda049926e1">SPELL_ROGUE_TRICKS_OF_THE_TRADE_PROC</a>        = 59628,</div>
+<div class="line"><span class="lineno">   46</span>};</div>
+<div class="ttc" id="aa02612_html_a8b34bf8ceba4b8c2efea84d90002d523a00ea9db72b7743f8aa77105b26052452"><div class="ttname"><a href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a00ea9db72b7743f8aa77105b26052452">SPELL_ROGUE_PREY_ON_THE_WEAK</a></div><div class="ttdeci">@ SPELL_ROGUE_PREY_ON_THE_WEAK</div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:42</div></div>
+<div class="ttc" id="aa02612_html_a8b34bf8ceba4b8c2efea84d90002d523a05c69acb7a8f501d078f7fda049926e1"><div class="ttname"><a href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a05c69acb7a8f501d078f7fda049926e1">SPELL_ROGUE_TRICKS_OF_THE_TRADE_PROC</a></div><div class="ttdeci">@ SPELL_ROGUE_TRICKS_OF_THE_TRADE_PROC</div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:45</div></div>
+<div class="ttc" id="aa02612_html_a8b34bf8ceba4b8c2efea84d90002d523a3e6468283bdb07074e12d6fa6a95de1a"><div class="ttname"><a href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a3e6468283bdb07074e12d6fa6a95de1a">SPELL_ROGUE_TRICKS_OF_THE_TRADE_DMG_BOOST</a></div><div class="ttdeci">@ SPELL_ROGUE_TRICKS_OF_THE_TRADE_DMG_BOOST</div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:44</div></div>
+<div class="ttc" id="aa02612_html_a8b34bf8ceba4b8c2efea84d90002d523a43c37fb7f4397717d9d461979a347419"><div class="ttname"><a href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a43c37fb7f4397717d9d461979a347419">SPELL_ROGUE_KILLING_SPREE_WEAPON_DMG</a></div><div class="ttdeci">@ SPELL_ROGUE_KILLING_SPREE_WEAPON_DMG</div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:40</div></div>
+<div class="ttc" id="aa02612_html_a8b34bf8ceba4b8c2efea84d90002d523a6396f8908556e8d41d4588ad332ed220"><div class="ttname"><a href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a6396f8908556e8d41d4588ad332ed220">SPELL_ROGUE_CHEATING_DEATH</a></div><div class="ttdeci">@ SPELL_ROGUE_CHEATING_DEATH</div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:36</div></div>
+<div class="ttc" id="aa02612_html_a8b34bf8ceba4b8c2efea84d90002d523a7545fa0487a27a1ff5c4f46f11bd6e2d"><div class="ttname"><a href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a7545fa0487a27a1ff5c4f46f11bd6e2d">SPELL_ROGUE_GLYPH_OF_PREPARATION</a></div><div class="ttdeci">@ SPELL_ROGUE_GLYPH_OF_PREPARATION</div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:37</div></div>
+<div class="ttc" id="aa02612_html_a8b34bf8ceba4b8c2efea84d90002d523a75fb50ee3a9ea34c6f3cd9c9c69ef812"><div class="ttname"><a href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a75fb50ee3a9ea34c6f3cd9c9c69ef812">SPELL_ROGUE_CHEAT_DEATH_COOLDOWN</a></div><div class="ttdeci">@ SPELL_ROGUE_CHEAT_DEATH_COOLDOWN</div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:35</div></div>
+<div class="ttc" id="aa02612_html_a8b34bf8ceba4b8c2efea84d90002d523a8724d3e7643b075ffc53dc2b56a6d57e"><div class="ttname"><a href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523a8724d3e7643b075ffc53dc2b56a6d57e">SPELL_ROGUE_KILLING_SPREE</a></div><div class="ttdeci">@ SPELL_ROGUE_KILLING_SPREE</div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:38</div></div>
+<div class="ttc" id="aa02612_html_a8b34bf8ceba4b8c2efea84d90002d523aa581c4f979f952b5ab2cd9c3fe4b48b3"><div class="ttname"><a href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523aa581c4f979f952b5ab2cd9c3fe4b48b3">SPELL_ROGUE_KILLING_SPREE_DMG_BUFF</a></div><div class="ttdeci">@ SPELL_ROGUE_KILLING_SPREE_DMG_BUFF</div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:41</div></div>
+<div class="ttc" id="aa02612_html_a8b34bf8ceba4b8c2efea84d90002d523abbcae24b30508077d3d35d472fda1c1e"><div class="ttname"><a href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523abbcae24b30508077d3d35d472fda1c1e">SPELL_ROGUE_SHIV_TRIGGERED</a></div><div class="ttdeci">@ SPELL_ROGUE_SHIV_TRIGGERED</div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:43</div></div>
+<div class="ttc" id="aa02612_html_a8b34bf8ceba4b8c2efea84d90002d523abd75ddb52a8c3be71d8856b3a34686b4"><div class="ttname"><a href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523abd75ddb52a8c3be71d8856b3a34686b4">SPELL_ROGUE_BLADE_FLURRY_EXTRA_ATTACK</a></div><div class="ttdeci">@ SPELL_ROGUE_BLADE_FLURRY_EXTRA_ATTACK</div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:34</div></div>
+<div class="ttc" id="aa02612_html_a8b34bf8ceba4b8c2efea84d90002d523ac79c792df274373bd828b858423bf788"><div class="ttname"><a href="../../d6/dfc/a02612.html#a8b34bf8ceba4b8c2efea84d90002d523ac79c792df274373bd828b858423bf788">SPELL_ROGUE_KILLING_SPREE_TELEPORT</a></div><div class="ttdeci">@ SPELL_ROGUE_KILLING_SPREE_TELEPORT</div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:39</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a8e414ebc815b459786b1b60831500b3e" name="a8e414ebc815b459786b1b60831500b3e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8e414ebc815b459786b1b60831500b3e">&#9670;&#160;</a></span>LocknLoadSpells</h2>
+<a id="a47d2a2d375f5f93aeca232de9aa5ac52" name="a47d2a2d375f5f93aeca232de9aa5ac52"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a47d2a2d375f5f93aeca232de9aa5ac52">&#9670;&#160;</a></span>vanish</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="../../d6/dfc/a02612.html#a8e414ebc815b459786b1b60831500b3e">LocknLoadSpells</a></td>
+          <td class="memname">enum <a class="el" href="../../d6/dfc/a02612.html#a47d2a2d375f5f93aeca232de9aa5ac52">vanish</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a8e414ebc815b459786b1b60831500b3ea3fe2049f68094a11efb86e4e93a040be" name="a8e414ebc815b459786b1b60831500b3ea3fe2049f68094a11efb86e4e93a040be"></a>SPELL_FROST_TRAP_SLOW&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a47d2a2d375f5f93aeca232de9aa5ac52ab05b1ff486cc81800d4e40014eae5576" name="a47d2a2d375f5f93aeca232de9aa5ac52ab05b1ff486cc81800d4e40014eae5576"></a>SPELL_STEALTH&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a47d2a2d375f5f93aeca232de9aa5ac52abdce16544ce0bef6f5399bbf640e6f01" name="a47d2a2d375f5f93aeca232de9aa5ac52abdce16544ce0bef6f5399bbf640e6f01"></a>SPELL_PARALYZE&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a47d2a2d375f5f93aeca232de9aa5ac52a8d6bf93ef29ba0ac643e6ae0fe2b3a58" name="a47d2a2d375f5f93aeca232de9aa5ac52a8d6bf93ef29ba0ac643e6ae0fe2b3a58"></a>SPELL_CLEAN_ESCAPE_AURA&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a47d2a2d375f5f93aeca232de9aa5ac52a481fbba00ece37c94df1a980e2060c37" name="a47d2a2d375f5f93aeca232de9aa5ac52a481fbba00ece37c94df1a980e2060c37"></a>SPELL_CLEAN_ESCAPE_HEAL&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno"> 1155</span>{</div>
-<div class="line"><span class="lineno"> 1156</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a8e414ebc815b459786b1b60831500b3ea3fe2049f68094a11efb86e4e93a040be">SPELL_FROST_TRAP_SLOW</a> = 67035</div>
-<div class="line"><span class="lineno"> 1157</span>};</div>
-<div class="ttc" id="aa02612_html_a8e414ebc815b459786b1b60831500b3ea3fe2049f68094a11efb86e4e93a040be"><div class="ttname"><a href="../../d6/dfc/a02612.html#a8e414ebc815b459786b1b60831500b3ea3fe2049f68094a11efb86e4e93a040be">SPELL_FROST_TRAP_SLOW</a></div><div class="ttdeci">@ SPELL_FROST_TRAP_SLOW</div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:1156</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  683</span>{</div>
+<div class="line"><span class="lineno">  684</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a47d2a2d375f5f93aeca232de9aa5ac52ab05b1ff486cc81800d4e40014eae5576">SPELL_STEALTH</a>           = 1784,</div>
+<div class="line"><span class="lineno">  685</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a47d2a2d375f5f93aeca232de9aa5ac52abdce16544ce0bef6f5399bbf640e6f01">SPELL_PARALYZE</a>          = 38132,</div>
+<div class="line"><span class="lineno">  686</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a47d2a2d375f5f93aeca232de9aa5ac52a8d6bf93ef29ba0ac643e6ae0fe2b3a58">SPELL_CLEAN_ESCAPE_AURA</a> = 23582,</div>
+<div class="line"><span class="lineno">  687</span>    <a class="code hl_enumvalue" href="../../d6/dfc/a02612.html#a47d2a2d375f5f93aeca232de9aa5ac52a481fbba00ece37c94df1a980e2060c37">SPELL_CLEAN_ESCAPE_HEAL</a> = 23583</div>
+<div class="line"><span class="lineno">  688</span>};</div>
+<div class="ttc" id="aa02612_html_a47d2a2d375f5f93aeca232de9aa5ac52a481fbba00ece37c94df1a980e2060c37"><div class="ttname"><a href="../../d6/dfc/a02612.html#a47d2a2d375f5f93aeca232de9aa5ac52a481fbba00ece37c94df1a980e2060c37">SPELL_CLEAN_ESCAPE_HEAL</a></div><div class="ttdeci">@ SPELL_CLEAN_ESCAPE_HEAL</div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:687</div></div>
+<div class="ttc" id="aa02612_html_a47d2a2d375f5f93aeca232de9aa5ac52a8d6bf93ef29ba0ac643e6ae0fe2b3a58"><div class="ttname"><a href="../../d6/dfc/a02612.html#a47d2a2d375f5f93aeca232de9aa5ac52a8d6bf93ef29ba0ac643e6ae0fe2b3a58">SPELL_CLEAN_ESCAPE_AURA</a></div><div class="ttdeci">@ SPELL_CLEAN_ESCAPE_AURA</div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:686</div></div>
+<div class="ttc" id="aa02612_html_a47d2a2d375f5f93aeca232de9aa5ac52ab05b1ff486cc81800d4e40014eae5576"><div class="ttname"><a href="../../d6/dfc/a02612.html#a47d2a2d375f5f93aeca232de9aa5ac52ab05b1ff486cc81800d4e40014eae5576">SPELL_STEALTH</a></div><div class="ttdeci">@ SPELL_STEALTH</div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:684</div></div>
+<div class="ttc" id="aa02612_html_a47d2a2d375f5f93aeca232de9aa5ac52abdce16544ce0bef6f5399bbf640e6f01"><div class="ttname"><a href="../../d6/dfc/a02612.html#a47d2a2d375f5f93aeca232de9aa5ac52abdce16544ce0bef6f5399bbf640e6f01">SPELL_PARALYZE</a></div><div class="ttdeci">@ SPELL_PARALYZE</div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:685</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="af7e6bdb12ab989b575a1dca18382ea7c" name="af7e6bdb12ab989b575a1dca18382ea7c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af7e6bdb12ab989b575a1dca18382ea7c">&#9670;&#160;</a></span>AddSC_hunter_spell_scripts()</h2>
+<a id="a540405afe3345e19487d2db693272b2a" name="a540405afe3345e19487d2db693272b2a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a540405afe3345e19487d2db693272b2a">&#9670;&#160;</a></span>AddSC_rogue_spell_scripts()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void AddSC_hunter_spell_scripts </td>
+          <td class="memname">void AddSC_rogue_spell_scripts </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1368</span>{</div>
-<div class="line"><span class="lineno"> 1369</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d8/ddf/a25583.html">spell_hun_check_pet_los</a>);</div>
-<div class="line"><span class="lineno"> 1370</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/da9/a25587.html">spell_hun_cower</a>);</div>
-<div class="line"><span class="lineno"> 1371</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/d6d/a25591.html">spell_hun_wyvern_sting</a>);</div>
-<div class="line"><span class="lineno"> 1372</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d9/d19/a25595.html">spell_hun_animal_handler</a>);</div>
-<div class="line"><span class="lineno"> 1373</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d8/d0a/a25599.html">spell_hun_generic_scaling</a>);</div>
-<div class="line"><span class="lineno"> 1374</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d0/d52/a25603.html">spell_hun_taming_the_beast</a>);</div>
-<div class="line"><span class="lineno"> 1375</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dc/d81/a25675.html">spell_hun_glyph_of_arcane_shot</a>);</div>
-<div class="line"><span class="lineno"> 1376</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../de/d65/a25607.html">spell_hun_aspect_of_the_beast</a>);</div>
-<div class="line"><span class="lineno"> 1377</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d0/d6c/a25611.html">spell_hun_ascpect_of_the_viper</a>);</div>
-<div class="line"><span class="lineno"> 1378</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/db2/a25615.html">spell_hun_chimera_shot</a>);</div>
-<div class="line"><span class="lineno"> 1379</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d9/dff/a25663.html">spell_hun_disengage</a>);</div>
-<div class="line"><span class="lineno"> 1380</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d7/d82/a25619.html">spell_hun_improved_mend_pet</a>);</div>
-<div class="line"><span class="lineno"> 1381</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d0/dd6/a25623.html">spell_hun_invigoration</a>);</div>
-<div class="line"><span class="lineno"> 1382</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/dab/a25627.html">spell_hun_last_stand_pet</a>);</div>
-<div class="line"><span class="lineno"> 1383</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d4/d26/a25631.html">spell_hun_masters_call</a>);</div>
-<div class="line"><span class="lineno"> 1384</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/d7d/a25655.html">spell_hun_misdirection</a>);</div>
-<div class="line"><span class="lineno"> 1385</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d8/d6a/a25659.html">spell_hun_misdirection_proc</a>);</div>
-<div class="line"><span class="lineno"> 1386</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d4/d5c/a25651.html">spell_hun_pet_carrion_feeder</a>);</div>
-<div class="line"><span class="lineno"> 1387</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d1/d69/a25647.html">spell_hun_pet_heart_of_the_phoenix</a>);</div>
-<div class="line"><span class="lineno"> 1388</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../db/d53/a25635.html">spell_hun_readiness</a>);</div>
-<div class="line"><span class="lineno"> 1389</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d4/d07/a25639.html">spell_hun_scatter_shot</a>);</div>
-<div class="line"><span class="lineno"> 1390</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d0/dbb/a25643.html">spell_hun_sniper_training</a>);</div>
-<div class="line"><span class="lineno"> 1391</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/db8/a25667.html">spell_hun_tame_beast</a>);</div>
-<div class="line"><span class="lineno"> 1392</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../de/dee/a25671.html">spell_hun_viper_attack_speed</a>);</div>
-<div class="line"><span class="lineno"> 1393</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d8/d17/a25679.html">spell_hun_volley_trigger</a>);</div>
-<div class="line"><span class="lineno"> 1394</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../db/d14/a25683.html">spell_hun_lock_and_load</a>);</div>
-<div class="line"><span class="lineno"> 1395</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d1/d56/a25687.html">spell_hun_intimidation</a>);</div>
-<div class="line"><span class="lineno"> 1396</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/d67/a25691.html">spell_hun_bestial_wrath</a>);</div>
-<div class="line"><span class="lineno"> 1397</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d1/df6/a25695.html">spell_hun_target_self_and_pet</a>);</div>
-<div class="line"><span class="lineno"> 1398</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dc/deb/a25699.html">spell_hun_explosive_shot</a>);</div>
-<div class="line"><span class="lineno"> 1399</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  757</span>{</div>
+<div class="line"><span class="lineno">  758</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d8/d73/a26831.html">spell_rog_savage_combat</a>);</div>
+<div class="line"><span class="lineno">  759</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../de/dc6/a26835.html">spell_rog_combat_potency</a>);</div>
+<div class="line"><span class="lineno">  760</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../da/de6/a26839.html">spell_rog_blade_flurry</a>);</div>
+<div class="line"><span class="lineno">  761</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d0/d00/a26843.html">spell_rog_cheat_death</a>);</div>
+<div class="line"><span class="lineno">  762</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d8/d4c/a26847.html">spell_rog_deadly_poison</a>);</div>
+<div class="line"><span class="lineno">  763</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a>(<a class="code hl_class" href="../../d1/d5b/a26855.html">spell_rog_killing_spree</a>, <a class="code hl_class" href="../../dc/dc9/a26851.html">spell_rog_killing_spree_aura</a>);</div>
+<div class="line"><span class="lineno">  764</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/d42/a26859.html">spell_rog_nerves_of_steel</a>);</div>
+<div class="line"><span class="lineno">  765</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../dd/de4/a26863.html">spell_rog_preparation</a>);</div>
+<div class="line"><span class="lineno">  766</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/d10/a26867.html">spell_rog_prey_on_the_weak</a>);</div>
+<div class="line"><span class="lineno">  767</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../df/dea/a26871.html">spell_rog_rupture</a>);</div>
+<div class="line"><span class="lineno">  768</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d4/db0/a26875.html">spell_rog_shiv</a>);</div>
+<div class="line"><span class="lineno">  769</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d2/d7a/a26879.html">spell_rog_tricks_of_the_trade</a>);</div>
+<div class="line"><span class="lineno">  770</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d6/d3c/a26883.html">spell_rog_tricks_of_the_trade_proc</a>);</div>
+<div class="line"><span class="lineno">  771</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d9/d87/a26887.html">spell_rog_pickpocket</a>);</div>
+<div class="line"><span class="lineno">  772</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d1/daf/a26891.html">spell_rog_vanish_purge</a>);</div>
+<div class="line"><span class="lineno">  773</span>    <a class="code hl_define" href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a>(<a class="code hl_class" href="../../d9/d03/a26895.html">spell_rog_vanish</a>);</div>
+<div class="line"><span class="lineno">  774</span>}</div>
+<div class="ttc" id="aa01448_html_a69b21d1b83cecaba944f4e9379bc866c"><div class="ttname"><a href="../../dd/d08/a01448.html#a69b21d1b83cecaba944f4e9379bc866c">RegisterSpellAndAuraScriptPair</a></div><div class="ttdeci">#define RegisterSpellAndAuraScriptPair(script_1, script_2)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:90</div></div>
 <div class="ttc" id="aa01448_html_ae221e5976ab29ba14fec3b073a03670f"><div class="ttname"><a href="../../dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f">RegisterSpellScript</a></div><div class="ttdeci">#define RegisterSpellScript(spell_script)</div><div class="ttdef"><b>Definition:</b> SpellScriptLoader.h:88</div></div>
-<div class="ttc" id="aa25583_html"><div class="ttname"><a href="../../d8/ddf/a25583.html">spell_hun_check_pet_los</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:74</div></div>
-<div class="ttc" id="aa25587_html"><div class="ttname"><a href="../../d2/da9/a25587.html">spell_hun_cower</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:105</div></div>
-<div class="ttc" id="aa25591_html"><div class="ttname"><a href="../../df/d6d/a25591.html">spell_hun_wyvern_sting</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:121</div></div>
-<div class="ttc" id="aa25595_html"><div class="ttname"><a href="../../d9/d19/a25595.html">spell_hun_animal_handler</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:137</div></div>
-<div class="ttc" id="aa25599_html"><div class="ttname"><a href="../../d8/d0a/a25599.html">spell_hun_generic_scaling</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:155</div></div>
-<div class="ttc" id="aa25603_html"><div class="ttname"><a href="../../d0/d52/a25603.html">spell_hun_taming_the_beast</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:287</div></div>
-<div class="ttc" id="aa25607_html"><div class="ttname"><a href="../../de/d65/a25607.html">spell_hun_aspect_of_the_beast</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:317</div></div>
-<div class="ttc" id="aa25611_html"><div class="ttname"><a href="../../d0/d6c/a25611.html">spell_hun_ascpect_of_the_viper</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:370</div></div>
-<div class="ttc" id="aa25615_html"><div class="ttname"><a href="../../d2/db2/a25615.html">spell_hun_chimera_shot</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:431</div></div>
-<div class="ttc" id="aa25619_html"><div class="ttname"><a href="../../d7/d82/a25619.html">spell_hun_improved_mend_pet</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:515</div></div>
-<div class="ttc" id="aa25623_html"><div class="ttname"><a href="../../d0/dd6/a25623.html">spell_hun_invigoration</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:543</div></div>
-<div class="ttc" id="aa25627_html"><div class="ttname"><a href="../../da/dab/a25627.html">spell_hun_last_stand_pet</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:567</div></div>
-<div class="ttc" id="aa25631_html"><div class="ttname"><a href="../../d4/d26/a25631.html">spell_hun_masters_call</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:590</div></div>
-<div class="ttc" id="aa25635_html"><div class="ttname"><a href="../../db/d53/a25635.html">spell_hun_readiness</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:650</div></div>
-<div class="ttc" id="aa25639_html"><div class="ttname"><a href="../../d4/d07/a25639.html">spell_hun_scatter_shot</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:703</div></div>
-<div class="ttc" id="aa25643_html"><div class="ttname"><a href="../../d0/dbb/a25643.html">spell_hun_sniper_training</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:728</div></div>
-<div class="ttc" id="aa25647_html"><div class="ttname"><a href="../../d1/d69/a25647.html">spell_hun_pet_heart_of_the_phoenix</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:778</div></div>
-<div class="ttc" id="aa25651_html"><div class="ttname"><a href="../../d4/d5c/a25651.html">spell_hun_pet_carrion_feeder</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:823</div></div>
-<div class="ttc" id="aa25655_html"><div class="ttname"><a href="../../df/d7d/a25655.html">spell_hun_misdirection</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:869</div></div>
-<div class="ttc" id="aa25659_html"><div class="ttname"><a href="../../d8/d6a/a25659.html">spell_hun_misdirection_proc</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:908</div></div>
-<div class="ttc" id="aa25663_html"><div class="ttname"><a href="../../d9/dff/a25663.html">spell_hun_disengage</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:924</div></div>
-<div class="ttc" id="aa25667_html"><div class="ttname"><a href="../../da/db8/a25667.html">spell_hun_tame_beast</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:944</div></div>
-<div class="ttc" id="aa25671_html"><div class="ttname"><a href="../../de/dee/a25671.html">spell_hun_viper_attack_speed</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:1023</div></div>
-<div class="ttc" id="aa25675_html"><div class="ttname"><a href="../../dc/d81/a25675.html">spell_hun_glyph_of_arcane_shot</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:1052</div></div>
-<div class="ttc" id="aa25679_html"><div class="ttname"><a href="../../d8/d17/a25679.html">spell_hun_volley_trigger</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:1106</div></div>
-<div class="ttc" id="aa25683_html"><div class="ttname"><a href="../../db/d14/a25683.html">spell_hun_lock_and_load</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:1161</div></div>
-<div class="ttc" id="aa25687_html"><div class="ttname"><a href="../../d1/d56/a25687.html">spell_hun_intimidation</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:1268</div></div>
-<div class="ttc" id="aa25691_html"><div class="ttname"><a href="../../dd/d67/a25691.html">spell_hun_bestial_wrath</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:1289</div></div>
-<div class="ttc" id="aa25695_html"><div class="ttname"><a href="../../d1/df6/a25695.html">spell_hun_target_self_and_pet</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:1324</div></div>
-<div class="ttc" id="aa25699_html"><div class="ttname"><a href="../../dc/deb/a25699.html">spell_hun_explosive_shot</a></div><div class="ttdef"><b>Definition:</b> spell_hunter.cpp:1348</div></div>
+<div class="ttc" id="aa26831_html"><div class="ttname"><a href="../../d8/d73/a26831.html">spell_rog_savage_combat</a></div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:49</div></div>
+<div class="ttc" id="aa26835_html"><div class="ttname"><a href="../../de/dc6/a26835.html">spell_rog_combat_potency</a></div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:76</div></div>
+<div class="ttc" id="aa26839_html"><div class="ttname"><a href="../../da/de6/a26839.html">spell_rog_blade_flurry</a></div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:92</div></div>
+<div class="ttc" id="aa26843_html"><div class="ttname"><a href="../../d0/d00/a26843.html">spell_rog_cheat_death</a></div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:147</div></div>
+<div class="ttc" id="aa26847_html"><div class="ttname"><a href="../../d8/d4c/a26847.html">spell_rog_deadly_poison</a></div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:198</div></div>
+<div class="ttc" id="aa26851_html"><div class="ttname"><a href="../../dc/dc9/a26851.html">spell_rog_killing_spree_aura</a></div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:286</div></div>
+<div class="ttc" id="aa26855_html"><div class="ttname"><a href="../../d1/d5b/a26855.html">spell_rog_killing_spree</a></div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:357</div></div>
+<div class="ttc" id="aa26859_html"><div class="ttname"><a href="../../dd/d42/a26859.html">spell_rog_nerves_of_steel</a></div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:404</div></div>
+<div class="ttc" id="aa26863_html"><div class="ttname"><a href="../../dd/de4/a26863.html">spell_rog_preparation</a></div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:437</div></div>
+<div class="ttc" id="aa26867_html"><div class="ttname"><a href="../../df/d10/a26867.html">spell_rog_prey_on_the_weak</a></div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:497</div></div>
+<div class="ttc" id="aa26871_html"><div class="ttname"><a href="../../df/dea/a26871.html">spell_rog_rupture</a></div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:532</div></div>
+<div class="ttc" id="aa26875_html"><div class="ttname"><a href="../../d4/db0/a26875.html">spell_rog_shiv</a></div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:573</div></div>
+<div class="ttc" id="aa26879_html"><div class="ttname"><a href="../../d2/d7a/a26879.html">spell_rog_tricks_of_the_trade</a></div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:601</div></div>
+<div class="ttc" id="aa26883_html"><div class="ttname"><a href="../../d6/d3c/a26883.html">spell_rog_tricks_of_the_trade_proc</a></div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:650</div></div>
+<div class="ttc" id="aa26887_html"><div class="ttname"><a href="../../d9/d87/a26887.html">spell_rog_pickpocket</a></div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:665</div></div>
+<div class="ttc" id="aa26891_html"><div class="ttname"><a href="../../d1/daf/a26891.html">spell_rog_vanish_purge</a></div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:692</div></div>
+<div class="ttc" id="aa26895_html"><div class="ttname"><a href="../../d9/d03/a26895.html">spell_rog_vanish</a></div><div class="ttdef"><b>Definition:</b> spell_rogue.cpp:722</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00090">RegisterSpellAndAuraScriptPair</a>, and <a class="el" href="../../#l00088">RegisterSpellScript</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00035">AddSpellsScripts()</a>.</p>
 
@@ -493,8 +396,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_a5c81565c813a087452a284baefe3cb6.html">Spells</a></li><li class="navelem"><a class="el" href="../../d6/dfc/a02612.html">spell_hunter.cpp</a></li>
-    <li class="footer">Generated on Mon Oct 6 2025 20:44:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_a5c81565c813a087452a284baefe3cb6.html">Spells</a></li><li class="navelem"><a class="el" href="../../d6/dfc/a02612.html">spell_rogue.cpp</a></li>
+    <li class="footer">Generated on Mon Oct 13 2025 20:44:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,7 @@
 var a12559 =
 [
-    [ "boss_gehennasAI", "d8/dfc/a12559.html#aaefd1f10d03957477863df95143a95a9", null ],
-    [ "ExecuteEvent", "d8/dfc/a12559.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
-    [ "JustEngagedWith", "d8/dfc/a12559.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
+    [ "HandleAfterApply", "d8/dfc/a12559.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
+    [ "HandleAfterRemove", "d8/dfc/a12559.html#a7970613f1668294f29f61c1f10a9ba37", null ],
+    [ "PrepareAuraScript", "d8/dfc/a12559.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
+    [ "Register", "d8/dfc/a12559.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
 ];

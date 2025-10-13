@@ -1,5 +1,5 @@
 var a07779 =
 [
-    [ "IsColorValid", "db/dba/a07779.html#a4bb1cd2a247136daadfa36f85b50a65d", null ],
-    [ "IsTextValid", "db/dba/a07779.html#a25b0d16c232ab67fc75a81a494fb5815", null ]
+    [ "IsColorValid", "db/dba/a07779.html#ad9f1623f6e04696a0e3520d3996170e4", null ],
+    [ "IsTextValid", "db/dba/a07779.html#a3b729ae39753a31c38c16e5186fe7f46", null ]
 ];

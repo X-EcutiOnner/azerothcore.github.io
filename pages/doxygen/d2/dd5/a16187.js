@@ -1,6 +1,6 @@
 var a16187 =
 [
-    [ "npc_twilight_summonAI", "d4/daf/a16191.html", "d4/daf/a16191" ],
-    [ "npc_twilight_summon", "d2/dd5/a16187.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
-    [ "GetAI", "d2/dd5/a16187.html#a98bf5ce96c25bc252acd46163644bf33", null ]
+    [ "boss_sartharion_vesperonAI", "d4/daf/a16191.html", "d4/daf/a16191" ],
+    [ "boss_sartharion_vesperon", "d2/dd5/a16187.html#a53af67abd9f9bff7f72ee2441e885500", null ],
+    [ "GetAI", "d2/dd5/a16187.html#ad045054b44910461e704c412a524bdc4", null ]
 ];

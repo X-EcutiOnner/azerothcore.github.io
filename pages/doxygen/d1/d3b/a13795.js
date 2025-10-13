@@ -1,6 +1,7 @@
 var a13795 =
 [
-    [ "OnEffect", "d1/d3b/a13795.html#a41903586310ec274dd10537ccb8655f3", null ],
-    [ "PrepareSpellScript", "d1/d3b/a13795.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
-    [ "Register", "d1/d3b/a13795.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
+    [ "npc_ranger_lilatha", "d1/d3b/a13795.html#abd13a89b41a289edefb9bc21588f8d29", null ],
+    [ "Reset", "d1/d3b/a13795.html#a3e804e483b51961193ee1079caba40be", null ],
+    [ "sQuestAccept", "d1/d3b/a13795.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
+    [ "WaypointReached", "d1/d3b/a13795.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
 ];

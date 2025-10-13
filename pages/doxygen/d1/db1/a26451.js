@@ -1,6 +1,6 @@
 var a26451 =
 [
-    [ "HandleEffectScriptEffect", "d1/db1/a26451.html#a852a621f0b008dc1294dbeb9e9877a04", null ],
-    [ "PrepareSpellScript", "d1/db1/a26451.html#a8b0f656994289f260645a2ae60d9ee4b", null ],
-    [ "Register", "d1/db1/a26451.html#a1fa4dca7bae36c5e2acde0fe8b8cd801", null ]
+    [ "FilterTargets", "d1/db1/a26451.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
+    [ "PrepareSpellScript", "d1/db1/a26451.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
+    [ "Register", "d1/db1/a26451.html#a4db02c58be57a797c26b07656d1b5409", null ]
 ];

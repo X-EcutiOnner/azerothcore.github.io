@@ -1,7 +1,9 @@
 var a11271 =
 [
-    [ "effectMask", "d2/d2e/a11271.html#a07d70f3c2425f07a36db90e9fd5b3c97", null ],
-    [ "processed", "d2/d2e/a11271.html#aedfa36678be863a558ecd0ecc07cc544", null ],
-    [ "targetGUID", "d2/d2e/a11271.html#a619f98bf094d2667048204f733d64d0c", null ],
-    [ "timeDelay", "d2/d2e/a11271.html#ab552326c0780fe62ff95b02249458492", null ]
+    [ "SpellEvent", "d2/d2e/a11271.html#abca64eb7d39df9788cef9df7e8634368", null ],
+    [ "~SpellEvent", "d2/d2e/a11271.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
+    [ "Abort", "d2/d2e/a11271.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
+    [ "Execute", "d2/d2e/a11271.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
+    [ "IsDeletable", "d2/d2e/a11271.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
+    [ "m_Spell", "d2/d2e/a11271.html#a22cce1d722f5086932ae3e97c58d2921", null ]
 ];

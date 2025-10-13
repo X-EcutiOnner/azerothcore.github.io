@@ -1,7 +1,6 @@
 var a13879 =
 [
-    [ "npc_lady_sylvanas_windrunnerAI", "d9/d3a/a13883.html", "d9/d3a/a13883" ],
-    [ "npc_lady_sylvanas_windrunner", "dc/d4e/a13879.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
-    [ "GetAI", "dc/d4e/a13879.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
-    [ "OnQuestReward", "dc/d4e/a13879.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
+    [ "npc_marzon_silent_bladeAI", "d9/d3a/a13883.html", "d9/d3a/a13883" ],
+    [ "npc_marzon_silent_blade", "dc/d4e/a13879.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
+    [ "GetAI", "dc/d4e/a13879.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
 ];

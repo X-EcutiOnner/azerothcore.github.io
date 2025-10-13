@@ -1,16 +1,10 @@
 var a24843 =
 [
-    [ "CheckCast", "d4/dfc/a24843.html#a28e769267a83e4c499dca83a3f5708eb", null ],
-    [ "CheckReagents", "d4/dfc/a24843.html#aa8a2efb4807c29aeb5bf786e05113b61", null ],
-    [ "CheckTarget", "d4/dfc/a24843.html#ae339cf884f1d2f877e988ef6f6b555bf", null ],
-    [ "CheckTargets", "d4/dfc/a24843.html#af1013668080685cd86ae6abb52258fb1", null ],
-    [ "ConsumeReagents", "d4/dfc/a24843.html#aa5df00ed970db696b92b51566e098f3f", null ],
-    [ "GetGhoulSpellId", "d4/dfc/a24843.html#a9f94b3d279c036fb4b1c5b69934e63f2", null ],
-    [ "HandleRaiseDead", "d4/dfc/a24843.html#a3d1e0191d99e970f42d825632fe0f7e2", null ],
-    [ "Load", "d4/dfc/a24843.html#a05ea44a20f08f9010faca13a0f4d0f39", null ],
-    [ "PrepareSpellScript", "d4/dfc/a24843.html#a9565c8459a6d8cfed85c9120aca9715f", null ],
-    [ "Register", "d4/dfc/a24843.html#a0ebef363de4a802b242c806517ad0fb5", null ],
-    [ "Validate", "d4/dfc/a24843.html#a0ab8ee639fa83e954e964994c75451c8", null ],
-    [ "_corpse", "d4/dfc/a24843.html#adbc699b3bfd33f595ea287ca833ea2d4", null ],
-    [ "_result", "d4/dfc/a24843.html#aefebf79fa61b9f4d12929d54bd48389f", null ]
+    [ "HandleEffectRemove", "d4/dfc/a24843.html#a3b43cfcbbfa8fdbf170c76dd12b72074", null ],
+    [ "HandleImprovedBloodPresence", "d4/dfc/a24843.html#a020c0ae1f74856ae070ab2104232a079", null ],
+    [ "HandleImprovedFrostPresence", "d4/dfc/a24843.html#a262bfd40ee2f2d8ed793f999f660ba28", null ],
+    [ "HandleImprovedUnholyPresence", "d4/dfc/a24843.html#a5da86bb3686327787da5f46fc756f0a0", null ],
+    [ "PrepareAuraScript", "d4/dfc/a24843.html#a96453bb078359e46665e0eaa2a6cf6d1", null ],
+    [ "Register", "d4/dfc/a24843.html#a6534d2b5bca9a50830d20b08bfc1b84e", null ],
+    [ "Validate", "d4/dfc/a24843.html#afc23187a3a6dd48f2ad84ef354e36f3a", null ]
 ];

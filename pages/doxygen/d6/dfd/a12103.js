@@ -1,6 +1,8 @@
 var a12103 =
 [
-    [ "boss_hedrumAI", "d6/dfd/a12103.html#a95e4af51a8e24fa7b36b924c6cdfb86c", null ],
-    [ "JustEngagedWith", "d6/dfd/a12103.html#a1cf03b06598f2b36814062d47a73ed82", null ],
-    [ "UpdateAI", "d6/dfd/a12103.html#aa515ed081aaabdad751c1bbba56d3d96", null ]
+    [ "boss_evisceratorAI", "d6/dfd/a12103.html#a26bfcd3390e987a9fe13dd1a2bc2a7a4", null ],
+    [ "DamageTaken", "d6/dfd/a12103.html#aab3e8290963ca6c312715f18727d3e82", null ],
+    [ "JustEngagedWith", "d6/dfd/a12103.html#a60f3942b352206888569f60776041a28", null ],
+    [ "UpdateAI", "d6/dfd/a12103.html#aa201d35455f2e6eb41df27e264c2c03c", null ],
+    [ "SpellShieldReady", "d6/dfd/a12103.html#a3e5d8a40bfca16cc811f35b1293c19aa", null ]
 ];

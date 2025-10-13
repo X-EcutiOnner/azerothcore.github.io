@@ -1,6 +1,5 @@
 var a19079 =
 [
-    [ "icecrown_citadel_teleport", "df/de4/a19079.html#ab74d5962073dcf3b4488c33aaa935377", null ],
-    [ "OnGossipHello", "df/de4/a19079.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
-    [ "OnGossipSelect", "df/de4/a19079.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
+    [ "at_icc_spire_frostwyrm", "df/de4/a19079.html#ac3da2c0bc3e8b1c31832fcbb4e8ceae8", null ],
+    [ "_OnTrigger", "df/de4/a19079.html#a67e320fb8ada7cb2c87f5944395fa174", null ]
 ];

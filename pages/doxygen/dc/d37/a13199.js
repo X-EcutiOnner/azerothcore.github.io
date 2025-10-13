@@ -1,7 +1,6 @@
 var a13199 =
 [
-    [ "CheckCast", "dc/d37/a13199.html#a3fe12c32e49232c2ea80095e62b4f981", null ],
-    [ "HandleScriptEffect", "dc/d37/a13199.html#af265f0bba7028f45763a7f9afea2d051", null ],
-    [ "PrepareSpellScript", "dc/d37/a13199.html#a27518fd5482e65e0324100057e747d68", null ],
-    [ "Register", "dc/d37/a13199.html#a07789d7d092eb1b6633200442466c52b", null ]
+    [ "npc_a_special_surpriseAI", "da/dad/a13203.html", "da/dad/a13203" ],
+    [ "npc_a_special_surprise", "dc/d37/a13199.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
+    [ "GetAI", "dc/d37/a13199.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
 ];

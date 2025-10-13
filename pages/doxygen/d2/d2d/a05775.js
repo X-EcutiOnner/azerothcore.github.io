@@ -1,10 +1,8 @@
 var a05775 =
 [
-    [ "MySQLConnectionInfo", "d2/d2d/a05775.html#ae60c54053d71eb9325df10701b1f42d3", null ],
-    [ "database", "d2/d2d/a05775.html#a7e65a418ad668772e4ce1b298d92f10a", null ],
-    [ "host", "d2/d2d/a05775.html#a2659372561aae5feb8da121984354ef3", null ],
-    [ "password", "d2/d2d/a05775.html#af5a51bd38ce1d58f65444d69b0283966", null ],
-    [ "port_or_socket", "d2/d2d/a05775.html#a37b89660afb3ee085e817836e9d1d01f", null ],
-    [ "ssl", "d2/d2d/a05775.html#a90e5a934b4ec46e5783248a1a80a4830", null ],
-    [ "user", "d2/d2d/a05775.html#a6bf4166ebb99ea30a3894e3d8833bde6", null ]
+    [ "Statements", "d2/d2d/a05775.html#a6dc31cb64a22e90cc5275bf6fcaaf000", null ],
+    [ "LoginDatabaseConnection", "d2/d2d/a05775.html#aed22866380f9331ff73d4437a779206c", null ],
+    [ "LoginDatabaseConnection", "d2/d2d/a05775.html#a27fa1397706cf8b986fe0a05a82a910b", null ],
+    [ "~LoginDatabaseConnection", "d2/d2d/a05775.html#a7514a6e42889d5d75dcce2e804fff7b8", null ],
+    [ "DoPrepareStatements", "d2/d2d/a05775.html#a3f826d59e4efa55d7825f90f434ae889", null ]
 ];

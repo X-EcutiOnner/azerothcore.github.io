@@ -1,4 +1,4 @@
 var a04559 =
 [
-    [ "Acore::Asio::Resolver", "d6/d45/a04907.html", "d6/d45/a04907" ]
+    [ "tcp_endpoint", "d1/dce/a04559.html#a27a44b709519f6caccf33bc420c4698b", null ]
 ];

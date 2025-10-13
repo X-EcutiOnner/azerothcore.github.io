@@ -1,6 +1,7 @@
 var a13175 =
 [
-    [ "npc_acherus_necromancerAI", "d0/d8b/a13179.html", "d0/d8b/a13179" ],
-    [ "npc_acherus_necromancer", "d3/d33/a13175.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
-    [ "GetAI", "d3/d33/a13175.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
+    [ "HandleEffectApply", "d3/d33/a13175.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
+    [ "PrepareAuraScript", "d3/d33/a13175.html#a9829789fe5544429454e29d228ce0daf", null ],
+    [ "Register", "d3/d33/a13175.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
+    [ "Validate", "d3/d33/a13175.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
 ];

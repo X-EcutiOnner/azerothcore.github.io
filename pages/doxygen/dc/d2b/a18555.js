@@ -1,6 +1,7 @@
 var a18555 =
 [
-    [ "npc_strangulate_vehicleAI", "dc/d09/a18559.html", "dc/d09/a18559" ],
-    [ "npc_strangulate_vehicle", "dc/d2b/a18555.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
-    [ "GetAI", "dc/d2b/a18555.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
+    [ "CheckTargetCount", "dc/d2b/a18555.html#a44f558248f944464c773105728cffbca", null ],
+    [ "PrepareSpellScript", "dc/d2b/a18555.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
+    [ "Register", "dc/d2b/a18555.html#aeda833ca8483d337311086b9d0a14081", null ],
+    [ "Validate", "dc/d2b/a18555.html#aee84751e352dbfc12472fc15924c48fa", null ]
 ];

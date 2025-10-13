@@ -1,6 +1,8 @@
 var a28423 =
 [
-    [ "Id", "de/d54/a28423.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
-    [ "SpellId", "de/d54/a28423.html#ae8c119bacf706916f331d3f316fb1347", null ],
-    [ "TypeFlags", "de/d54/a28423.html#aae92871758e9a738a888cacf0946f16b", null ]
+    [ "difficulty", "de/d54/a28423.html#a2a04df701c13dc49053b09a9587a72a8", null ],
+    [ "encounterIndex", "de/d54/a28423.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
+    [ "encounterName", "de/d54/a28423.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
+    [ "id", "de/d54/a28423.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
+    [ "mapId", "de/d54/a28423.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
 ];

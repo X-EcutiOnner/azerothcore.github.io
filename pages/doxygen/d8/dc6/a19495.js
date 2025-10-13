@@ -1,7 +1,5 @@
 var a19495 =
 [
-    [ "EoEDrakeEnterVehicleEvent", "d8/dc6/a19495.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
-    [ "Execute", "d8/dc6/a19495.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
-    [ "_owner", "d8/dc6/a19495.html#ab48302fdff800afddfeec2c0d756873c", null ],
-    [ "_playerGUID", "d8/dc6/a19495.html#add56bff0695453e01f300e0434a39ec8", null ]
+    [ "go_the_focusing_iris", "d8/dc6/a19495.html#a9c2fa1e739ff98ebdd9b9fdcc2ab5ece", null ],
+    [ "OnGossipHello", "d8/dc6/a19495.html#a7f3f1170713d63f912ca5732453a7e33", null ]
 ];

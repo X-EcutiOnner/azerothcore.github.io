@@ -1,7 +1,6 @@
 var a27183 =
 [
-    [ "HandleEffect", "d8/d45/a27183.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
-    [ "PrepareSpellScript", "d8/d45/a27183.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
-    [ "Register", "d8/d45/a27183.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
-    [ "Validate", "d8/d45/a27183.html#ab6d78ecb650f13df3376baced8c40a63", null ]
+    [ "HandleRemove", "d8/d45/a27183.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
+    [ "PrepareAuraScript", "d8/d45/a27183.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
+    [ "Register", "d8/d45/a27183.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
 ];

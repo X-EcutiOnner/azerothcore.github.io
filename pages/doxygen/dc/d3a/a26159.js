@@ -1,6 +1,6 @@
 var a26159 =
 [
-    [ "OnPeriodic", "dc/d3a/a26159.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
-    [ "PrepareAuraScript", "dc/d3a/a26159.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
-    [ "Register", "dc/d3a/a26159.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
+    [ "CalculateDamage", "dc/d3a/a26159.html#a05c6a249b32f41d8d33b40d07bd3c44d", null ],
+    [ "PrepareSpellScript", "dc/d3a/a26159.html#ace682a64f3ca32e4f4151034ad936ea6", null ],
+    [ "Register", "dc/d3a/a26159.html#a6dc3beb1f857c2c2a719bd882cc3568d", null ]
 ];

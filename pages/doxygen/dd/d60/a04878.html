@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::PlayerCommand Namespace Reference</title>
+<title>AzerothCore: GameTime Namespace Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,184 +105,311 @@ $(document).ready(function(){initNavTree('dd/d60/a04878.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">Acore::PlayerCommand Namespace Reference</div></div>
+<a href="#func-members">Functions</a> &#124;
+<a href="#var-members">Variables</a>  </div>
+  <div class="headertitle"><div class="title">GameTime Namespace Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:acbe37f872cbc981a27671ebdf10904de"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d60/a04878.html#acbe37f872cbc981a27671ebdf10904de">HandleLearnSpellCommand</a> (<a class="el" href="../../dd/d81/a07547.html">ChatHandler</a> *handler, <a class="el" href="../../d6/d1f/a08655.html">Player</a> *targetPlayer, <a class="el" href="../../da/d3a/a11331.html">SpellInfo</a> const *spell, <a class="el" href="../../d9/d82/a04718.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d6/dea/a01094.html#ac61bb0d0d29d3ccc94188eb93516adf5">EXACT_SEQUENCE</a>(&quot;all&quot;)&gt; allRanks)</td></tr>
-<tr class="separator:acbe37f872cbc981a27671ebdf10904de"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad36f90f90b3d9aaf782f7efc859f7e7a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d60/a04878.html#ad36f90f90b3d9aaf782f7efc859f7e7a">HandleUnlearnSpellCommand</a> (<a class="el" href="../../dd/d81/a07547.html">ChatHandler</a> *handler, <a class="el" href="../../d6/d1f/a08655.html">Player</a> *targetPlayer, <a class="el" href="../../da/d3a/a11331.html">SpellInfo</a> const *spell, <a class="el" href="../../d9/d82/a04718.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d6/dea/a01094.html#ac61bb0d0d29d3ccc94188eb93516adf5">EXACT_SEQUENCE</a>(&quot;all&quot;)&gt; allRanks)</td></tr>
-<tr class="separator:ad36f90f90b3d9aaf782f7efc859f7e7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a872d34d3f9d420cfc749073c809931f9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d82/a04718.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d60/a04878.html#a872d34d3f9d420cfc749073c809931f9">GetStartTime</a> ()</td></tr>
+<tr class="separator:a872d34d3f9d420cfc749073c809931f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adbe1785d1327dedf2ac403b7cc8e99c2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d82/a04718.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d60/a04878.html#adbe1785d1327dedf2ac403b7cc8e99c2">GetGameTime</a> ()</td></tr>
+<tr class="separator:adbe1785d1327dedf2ac403b7cc8e99c2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d0d49f37e25e497391157b2a2ec90c1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d60/a04878.html#a6d0d49f37e25e497391157b2a2ec90c1">GetGameTimeMS</a> ()</td></tr>
+<tr class="separator:a6d0d49f37e25e497391157b2a2ec90c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a443eccf314fe436192278d425d6d8220"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d82/a04718.html#ada798961abc5a533d616ff780f567bb6">SystemTimePoint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d60/a04878.html#a443eccf314fe436192278d425d6d8220">GetSystemTime</a> ()</td></tr>
+<tr class="memdesc:a443eccf314fe436192278d425d6d8220"><td class="mdescLeft">&#160;</td><td class="mdescRight">Current chrono system_clock time point.  <a href="../../dd/d60/a04878.html#a443eccf314fe436192278d425d6d8220">More...</a><br /></td></tr>
+<tr class="separator:a443eccf314fe436192278d425d6d8220"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae5cc9f17fc6b8b15c678fa7a84a6e117"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d82/a04718.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d60/a04878.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">Now</a> ()</td></tr>
+<tr class="memdesc:ae5cc9f17fc6b8b15c678fa7a84a6e117"><td class="mdescLeft">&#160;</td><td class="mdescRight">Current chrono steady_clock time point.  <a href="../../dd/d60/a04878.html#ae5cc9f17fc6b8b15c678fa7a84a6e117">More...</a><br /></td></tr>
+<tr class="separator:ae5cc9f17fc6b8b15c678fa7a84a6e117"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae2ff9233756dd88fa1aafcc1e1c0be4d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d82/a04718.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d60/a04878.html#ae2ff9233756dd88fa1aafcc1e1c0be4d">GetUptime</a> ()</td></tr>
+<tr class="memdesc:ae2ff9233756dd88fa1aafcc1e1c0be4d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Uptime.  <a href="../../dd/d60/a04878.html#ae2ff9233756dd88fa1aafcc1e1c0be4d">More...</a><br /></td></tr>
+<tr class="separator:ae2ff9233756dd88fa1aafcc1e1c0be4d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a45712735241c9563a12fc3da54fb144d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d60/a04878.html#a45712735241c9563a12fc3da54fb144d">UpdateGameTimers</a> ()</td></tr>
+<tr class="memdesc:a45712735241c9563a12fc3da54fb144d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Update all timers.  <a href="../../dd/d60/a04878.html#a45712735241c9563a12fc3da54fb144d">More...</a><br /></td></tr>
+<tr class="separator:a45712735241c9563a12fc3da54fb144d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
+Variables</h2></td></tr>
+<tr class="memitem:a78088a0637670a1ab5125a1388f7ca52"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d82/a04718.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a> const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d60/a04878.html#a78088a0637670a1ab5125a1388f7ca52">StartTime</a> = <a class="el" href="../../d1/d62/a04664.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a>()</td></tr>
+<tr class="separator:a78088a0637670a1ab5125a1388f7ca52"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9a28ffdb4bb387919d2dd70a51080ce0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d82/a04718.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d60/a04878.html#a9a28ffdb4bb387919d2dd70a51080ce0">GameTime</a> = <a class="el" href="../../d1/d62/a04664.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a>()</td></tr>
+<tr class="separator:a9a28ffdb4bb387919d2dd70a51080ce0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad5fc2a056410eeac2e2717f91cb8295c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d60/a04878.html#ad5fc2a056410eeac2e2717f91cb8295c">GameMSTime</a> = 0ms</td></tr>
+<tr class="separator:ad5fc2a056410eeac2e2717f91cb8295c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa393fef2187ebdd6aa34379b0f1504d7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d82/a04718.html#ada798961abc5a533d616ff780f567bb6">SystemTimePoint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d60/a04878.html#aa393fef2187ebdd6aa34379b0f1504d7">GameTimeSystemPoint</a> = SystemTimePoint::min()</td></tr>
+<tr class="separator:aa393fef2187ebdd6aa34379b0f1504d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a874057035d37aa57afc5064acffba119"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d82/a04718.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dd/d60/a04878.html#a874057035d37aa57afc5064acffba119">GameTimeSteadyPoint</a> = TimePoint::min()</td></tr>
+<tr class="separator:a874057035d37aa57afc5064acffba119"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="acbe37f872cbc981a27671ebdf10904de" name="acbe37f872cbc981a27671ebdf10904de"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acbe37f872cbc981a27671ebdf10904de">&#9670;&#160;</a></span>HandleLearnSpellCommand()</h2>
+<a id="adbe1785d1327dedf2ac403b7cc8e99c2" name="adbe1785d1327dedf2ac403b7cc8e99c2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adbe1785d1327dedf2ac403b7cc8e99c2">&#9670;&#160;</a></span>GetGameTime()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool Acore::PlayerCommand::HandleLearnSpellCommand </td>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a> <a class="el" href="../../d9/d82/a04718.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a> GameTime::GetGameTime </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d81/a07547.html">ChatHandler</a> *&#160;</td>
-          <td class="paramname"><em>handler</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1f/a08655.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>targetPlayer</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/d3a/a11331.html">SpellInfo</a> const *&#160;</td>
-          <td class="paramname"><em>spell</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d82/a04718.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d6/dea/a01094.html#ac61bb0d0d29d3ccc94188eb93516adf5">EXACT_SEQUENCE</a>(&quot;all&quot;)&gt;&#160;</td>
-          <td class="paramname"><em>allRanks</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
-<div class="line"><span class="lineno">   26</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d1/d5b/a11387.html#a8dfd3856cb381953bfeb1db1a4a4bad7">SpellMgr::IsSpellValid</a>(spell))</div>
-<div class="line"><span class="lineno">   27</span>    {</div>
-<div class="line"><span class="lineno">   28</span>        handler-&gt;<a class="code hl_function" href="../../dd/d81/a07547.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aaef51c94173b2a9aca75898d46518b665">LANG_COMMAND_SPELL_BROKEN</a>, spell-&gt;Id);</div>
-<div class="line"><span class="lineno">   29</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   30</span>    }</div>
-<div class="line"><span class="lineno">   31</span> </div>
-<div class="line"><span class="lineno">   32</span>    <span class="keywordflow">if</span> (!allRanks &amp;&amp; targetPlayer-&gt;<a class="code hl_function" href="../../d6/d1f/a08655.html#ad0b702ec9df9626312843eb9a44742df">HasSpell</a>(spell-&gt;Id))</div>
-<div class="line"><span class="lineno">   33</span>    {</div>
-<div class="line"><span class="lineno">   34</span>        <span class="keywordflow">if</span> (targetPlayer == handler-&gt;<a class="code hl_function" href="../../dd/d81/a07547.html#ab1fd0ff3281702b870de2aac859e9ace">GetPlayer</a>())</div>
-<div class="line"><span class="lineno">   35</span>        {</div>
-<div class="line"><span class="lineno">   36</span>            handler-&gt;<a class="code hl_function" href="../../dd/d81/a07547.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aa07b52d281d0150b557c88c47cf9ce65f">LANG_YOU_KNOWN_SPELL</a>);</div>
-<div class="line"><span class="lineno">   37</span>        }</div>
-<div class="line"><span class="lineno">   38</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   39</span>        {</div>
-<div class="line"><span class="lineno">   40</span>            handler-&gt;<a class="code hl_function" href="../../dd/d81/a07547.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aafb80569b0ed74068a5713e12a66ebdcb">LANG_TARGET_KNOWN_SPELL</a>, handler-&gt;<a class="code hl_function" href="../../dd/d81/a07547.html#a0e2b0a9da9e25f17c2f995505eeea940">GetNameLink</a>(targetPlayer).c_str());</div>
-<div class="line"><span class="lineno">   41</span>        }</div>
-<div class="line"><span class="lineno">   42</span> </div>
-<div class="line"><span class="lineno">   43</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   44</span>    }</div>
-<div class="line"><span class="lineno">   45</span> </div>
-<div class="line"><span class="lineno">   46</span>    targetPlayer-&gt;<a class="code hl_function" href="../../d6/d1f/a08655.html#a19ea15940b7b8e6ed7480b3dc3702bee">learnSpell</a>(spell-&gt;Id, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">   47</span> </div>
-<div class="line"><span class="lineno">   48</span>    <span class="keywordflow">if</span> (allRanks)</div>
-<div class="line"><span class="lineno">   49</span>    {</div>
-<div class="line"><span class="lineno">   50</span>        <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId = spell-&gt;Id;</div>
-<div class="line"><span class="lineno">   51</span> </div>
-<div class="line"><span class="lineno">   52</span>        <span class="keywordflow">while</span> ((spellId = <a class="code hl_define" href="../../d1/d44/a00098.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetNextSpellInChain(spellId)))</div>
-<div class="line"><span class="lineno">   53</span>        {</div>
-<div class="line"><span class="lineno">   54</span>            targetPlayer-&gt;<a class="code hl_function" href="../../d6/d1f/a08655.html#a19ea15940b7b8e6ed7480b3dc3702bee">learnSpell</a>(spellId, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">   55</span>        }</div>
-<div class="line"><span class="lineno">   56</span>    }</div>
-<div class="line"><span class="lineno">   57</span> </div>
-<div class="line"><span class="lineno">   58</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dc/dbf/a01595.html#a67c1970c378a0fdf0489c1d376d7c388">GetTalentSpellCost</a>(spell-&gt;GetFirstRankSpell()-&gt;Id))</div>
-<div class="line"><span class="lineno">   59</span>    {</div>
-<div class="line"><span class="lineno">   60</span>        targetPlayer-&gt;<a class="code hl_function" href="../../d6/d1f/a08655.html#a134bcbd463d0048b59372a89f6c455af">SendTalentsInfoData</a>(<span class="keyword">false</span>);</div>
+<div class="fragment"><div class="line"><span class="lineno">   39</span>    {</div>
+<div class="line"><span class="lineno">   40</span>        <span class="keywordflow">return</span> <a class="code hl_namespace" href="../../dd/d60/a04878.html">GameTime</a>;</div>
+<div class="line"><span class="lineno">   41</span>    }</div>
+<div class="ttc" id="aa04878_html"><div class="ttname"><a href="../../dd/d60/a04878.html">GameTime</a></div><div class="ttdef"><b>Definition:</b> GameTime.cpp:22</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00027">GameTime</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l19586">Unit::_ExitVehicle()</a>, <a class="el" href="../../#l06155">Player::_LoadMail()</a>, <a class="el" href="../../#l06228">Player::_LoadQuestStatus()</a>, <a class="el" href="../../#l01476">Pet::_LoadSpellCooldowns()</a>, <a class="el" href="../../#l03616">Player::_LoadSpellCooldowns()</a>, <a class="el" href="../../#l00561">InstanceSaveMgr::_ResetOrWarnAll()</a>, <a class="el" href="../../#l14810">Player::_SaveCharacter()</a>, <a class="el" href="../../#l07461">Player::_SaveQuestStatus()</a>, <a class="el" href="../../#l01520">Pet::_SaveSpellCooldowns()</a>, <a class="el" href="../../#l03652">Player::_SaveSpellCooldowns()</a>, <a class="el" href="../../#l01423">World::_UpdateGameTime()</a>, <a class="el" href="../../#l00066">InstanceSaveMgr::AddInstanceSave()</a>, <a class="el" href="../../#l03929">Player::AddItemToBuyBackSlot()</a>, <a class="el" href="../../#l02901">Player::AddNewMailDeliverTime()</a>, <a class="el" href="../../#l02002">InstanceMap::AddPlayerToMap()</a>, <a class="el" href="../../#l00507">Player::AddQuest()</a>, <a class="el" href="../../#l00277">WorldSessionMgr::AddSession_()</a>, <a class="el" href="../../#l00029">anonymous_namespace{BattlegroundSpamProtect.cpp}::AddTime()</a>, <a class="el" href="../../#l03006">Creature::AllLootRemovedFromCorpse()</a>, <a class="el" href="../../#l00038">BanMgr::BanAccount()</a>, <a class="el" href="../../#l00100">BanMgr::BanAccountByPlayerName()</a>, <a class="el" href="../../#l02395">AchievementMgr::BuildAllDataPacket()</a>, <a class="el" href="../../#l00434">SearchableAuctionEntry::BuildAuctionInfo()</a>, <a class="el" href="../../#l13000">Player::CalculateCorpseReclaimDelay()</a>, <a class="el" href="../../#l02635">Creature::CanCreatureAttack()</a>, <a class="el" href="../../#l03711">Creature::CanGeneratePickPocketLoot()</a>, <a class="el" href="../../#l05592">Spell::CheckCast()</a>, <a class="el" href="../../#l00246">lfg::LFGQueue::CheckCompatibility()</a>, <a class="el" href="../../#l00045">GameEventMgr::CheckOneGameEvent()</a>, <a class="el" href="../../#l01756">GameEventMgr::CheckOneGameEventConditions()</a>, <a class="el" href="../../#l00100">spell_botanica_shift_form_aura::CheckProc()</a>, <a class="el" href="../../#l00467">PassengerController::ClearSlot()</a>, <a class="el" href="../../#l02265">AchievementMgr::CompletedAchievement()</a>, <a class="el" href="../../#l00029">Corpse::Corpse()</a>, <a class="el" href="../../#l00479">Player::Create()</a>, <a class="el" href="../../#l01049">Guild::Create()</a>, <a class="el" href="../../#l04366">Player::DeleteOldCharacters()</a>, <a class="el" href="../../#l00385">CalendarMgr::DeleteOldEvents()</a>, <a class="el" href="../../#l04401">Player::DeleteOldRecoveryItems()</a>, <a class="el" href="../../#l00823">npc_high_overlord_saurfang_igb::npc_high_overlord_saurfang_igbAI::DoAction()</a>, <a class="el" href="../../#l01159">npc_muradin_bronzebeard_igb::npc_muradin_bronzebeard_igbAI::DoAction()</a>, <a class="el" href="../../#l00737">boss_the_lich_king::boss_the_lich_kingAI::DoAction()</a>, <a class="el" href="../../#l00400">FlightPathMovementGenerator::DoFinalize()</a>, <a class="el" href="../../#l04915">Spell::EffectCharge()</a>, <a class="el" href="../../#l00662">Spell::EffectDummy()</a>, <a class="el" href="../../#l05036">Spell::EffectLeapBack()</a>, <a class="el" href="../../#l00940">BattlefieldWG::FillInitialWorldStates()</a>, <a class="el" href="../../#l02477">Pet::FillPetInfo()</a>, <a class="el" href="../../#l00162">GmTicket::FormatMessageString()</a>, <a class="el" href="../../#l00033">GetAge()</a>, <a class="el" href="../../#l12983">Player::GetCorpseReclaimDelay()</a>, <a class="el" href="../../#l02542">Group::GetDifficultyChangePreventionTime()</a>, <a class="el" href="../../#l03622">Creature::GetLastLeashExtensionTimePtr()</a>, <a class="el" href="../../#l01246">Item::GetPlayedTime()</a>, <a class="el" href="../../#l02948">Creature::GetRespawnTimeEx()</a>, <a class="el" href="../../#l02909">GameObject::GetRespawnTimeEx()</a>, <a class="el" href="../../#l03078">Creature::GetVendorItemCurrentCount()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l03354">AuraEffect::HandleAuraFeatherFall()</a>, <a class="el" href="../../#l00555">WorldSocket::HandleAuthSessionCallback()</a>, <a class="el" href="../../#l00307">ban_commandscript::HandleBanInfoCharacterCommand()</a>, <a class="el" href="../../#l00280">ban_commandscript::HandleBanInfoHelper()</a>, <a class="el" href="../../#l00228">WorldSession::HandleCalendarAddEvent()</a>, <a class="el" href="../../#l00425">WorldSession::HandleCalendarCopyEvent()</a>, <a class="el" href="../../#l00630">WorldSession::HandleCalendarEventRsvp()</a>, <a class="el" href="../../#l00604">WorldSession::HandleCalendarEventSignup()</a>, <a class="el" href="../../#l00694">WorldSession::HandleCalendarEventStatus()</a>, <a class="el" href="../../#l00053">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00357">WorldSession::HandleCalendarUpdateEvent()</a>, <a class="el" href="../../#l00755">BattlegroundIC::HandleCapturedNodes()</a>, <a class="el" href="../../#l00025">WorldSession::HandleDuelAcceptedOpcode()</a>, <a class="el" href="../../#l06689">Unit::HandleDummyAuraProc()</a>, <a class="el" href="../../#l00774">spell_midsummer_ribbon_pole::HandleEffectPeriodic()</a>, <a class="el" href="../../#l00077">event_commandscript::HandleEventInfoCommand()</a>, <a class="el" href="../../#l00172">gobject_commandscript::HandleGameObjectTargetCommand()</a>, <a class="el" href="../../#l00629">WorldSession::HandleGetMailList()</a>, <a class="el" href="../../#l00054">instance_commandscript::HandleInstanceListBindsCommand()</a>, <a class="el" href="../../#l00081">instance_commandscript::HandleInstanceUnbindCommand()</a>, <a class="el" href="../../#l00509">BattlegroundIC::HandleKillUnit()</a>, <a class="el" href="../../#l00418">WorldSession::HandleLogoutRequestOpcode()</a>, <a class="el" href="../../#l00757">WorldSession::HandleMailCreateTextItem()</a>, <a class="el" href="../../#l00401">WorldSession::HandleMailReturnToSender()</a>, <a class="el" href="../../#l00482">WorldSession::HandleMailTakeItem()</a>, <a class="el" href="../../#l00590">WorldSession::HandleMailTakeMoney()</a>, <a class="el" href="../../#l00059">WorldSession::HandleMessagechatOpcode()</a>, <a class="el" href="../../#l00199">WorldSession::HandleMoveSplineDoneOpcode()</a>, <a class="el" href="../../#l00050">WorldSession::HandleMoveWorldportAck()</a>, <a class="el" href="../../#l02451">misc_commandscript::HandleMuteCommand()</a>, <a class="el" href="../../#l00564">npc_commandscript::HandleNpcInfoCommand()</a>, <a class="el" href="../../#l00827">WorldSession::HandlePetRename()</a>, <a class="el" href="../../#l01965">misc_commandscript::HandlePInfoCommand()</a>, <a class="el" href="../../#l00082">Battlefield::HandlePlayerEnterZone()</a>, <a class="el" href="../../#l00788">WorldSession::HandlePlayerLoginFromDB()</a>, <a class="el" href="../../#l01128">WorldSession::HandlePlayerLoginToCharInWorld()</a>, <a class="el" href="../../#l00824">WorldSession::HandleQueryNextMailTime()</a>, <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00635">WorldSession::HandleReclaimCorpseOpcode()</a>, <a class="el" href="../../#l00256">WorldSession::HandleReportLag()</a>, <a class="el" href="../../#l01203">Guild::HandleRoster()</a>, <a class="el" href="../../#l00580">WorldSession::HandleTeleportTimeout()</a>, <a class="el" href="../../#l00728">WorldSession::HandleTextEmoteOpcode()</a>, <a class="el" href="../../#l01589">WorldSession::HandleWorldStateUITimerUpdate()</a>, <a class="el" href="../../#l00338">WorldSessionMgr::HasRecentlyDisconnected()</a>, <a class="el" href="../../#l00561">BattlegroundMgr::InitAutomaticArenaPointDistribution()</a>, <a class="el" href="../../#l02018">lfg::LFGMgr::InitBoot()</a>, <a class="el" href="../../#l00077">LoginQueryHolder::Initialize()</a>, <a class="el" href="../../#l00082">PacketLog::Initialize()</a>, <a class="el" href="../../#l00261">Battlefield::InvitePlayersInZoneToWar()</a>, <a class="el" href="../../#l00278">Battlefield::InvitePlayerToWar()</a>, <a class="el" href="../../#l00096">Channel::IsBanned()</a>, <a class="el" href="../../#l00045">anonymous_namespace{BattlegroundSpamProtect.cpp}::IsCorrectDelay()</a>, <a class="el" href="../../#l01887">Creature::IsInvisibleDueToDespawn()</a>, <a class="el" href="../../#l16384">Player::IsSummonAsSpectator()</a>, <a class="el" href="../../#l00261">Item::Item()</a>, <a class="el" href="../../#l00512">lfg::LFGMgr::JoinLfg()</a>, <a class="el" href="../../#l00603">npc_simone::npc_simoneAI::JustDied()</a>, <a class="el" href="../../#l00315">Channel::KickOrBan()</a>, <a class="el" href="../../#l00728">boss_the_lich_king::boss_the_lich_kingAI::KilledUnit()</a>, <a class="el" href="../../#l11357">Player::LeaveBattleground()</a>, <a class="el" href="../../#l00326">GameEventMgr::LoadEvents()</a>, <a class="el" href="../../#l04918">Player::LoadFromDB()</a>, <a class="el" href="../../#l00618">AchievementMgr::LoadFromDB()</a>, <a class="el" href="../../#l01104">GameObject::LoadGameObjectFromDB()</a>, <a class="el" href="../../#l00216">Pet::LoadPetFromDB()</a>, <a class="el" href="../../#l00299">InstanceSaveMgr::LoadResetTimes()</a>, <a class="el" href="../../#l00301">AchievementCriteriaData::Meets()</a>, <a class="el" href="../../#l00662">MotionMaster::MoveFall()</a>, <a class="el" href="../../#l00092">npc_brewfest_keg_reciver::MoveInLineOfSight()</a>, <a class="el" href="../../#l00083">GameEventMgr::NextCheck()</a>, <a class="el" href="../../#l00777">npc_high_overlord_saurfang_igb::npc_high_overlord_saurfang_igbAI::npc_high_overlord_saurfang_igbAI()</a>, <a class="el" href="../../#l01112">npc_muradin_bronzebeard_igb::npc_muradin_bronzebeard_igbAI::npc_muradin_bronzebeard_igbAI()</a>, <a class="el" href="../../#l00214">npc_riggle_bassbait::npc_riggle_bassbaitAI::npc_riggle_bassbaitAI()</a>, <a class="el" href="../../#l02210">npc_ulduar_flames_initial::npc_ulduar_flames_initialAI::npc_ulduar_flames_initialAI()</a>, <a class="el" href="../../#l00290">npc_wg_queue::OnGossipHello()</a>, <a class="el" href="../../#l00297">npc_riggle_bassbait::OnQuestReward()</a>, <a class="el" href="../../#l00298">AreaTrigger_at_brewfest::OnTrigger()</a>, <a class="el" href="../../#l00351">AreaTrigger_at_area_52_entrance::OnTrigger()</a>, <a class="el" href="../../#l00156">at_ring_of_law::OnTrigger()</a>, <a class="el" href="../../#l01086">instance_ulduar::instance_ulduar_InstanceMapScript::OnUnitDeath()</a>, <a class="el" href="../../#l01005">MovementInfo::OutDebug()</a>, <a class="el" href="../../#l00153">Player::Player()</a>, <a class="el" href="../../#l00094">BattlegroundIC::PostUpdateImpl()</a>, <a class="el" href="../../#l00402">Creature::RemoveCorpse()</a>, <a class="el" href="../../#l02735">Map::RemoveOldCorpses()</a>, <a class="el" href="../../#l00293">MotionTransport::RemovePassenger()</a>, <a class="el" href="../../#l01039">StaticTransport::RemovePassenger()</a>, <a class="el" href="../../#l00195">Corpse::ResetGhostTime()</a>, <a class="el" href="../../#l03733">Player::resetTalents()</a>, <a class="el" href="../../#l03700">Player::resetTalentsCost()</a>, <a class="el" href="../../#l01299">GameObject::Respawn()</a>, <a class="el" href="../../#l02043">Creature::Respawn()</a>, <a class="el" href="../../#l06309">ObjectMgr::ReturnOrDeleteOldMails()</a>, <a class="el" href="../../#l02401">Map::SaveCreatureRespawnTime()</a>, <a class="el" href="../../#l02435">Map::SaveGORespawnTime()</a>, <a class="el" href="../../#l00502">Pet::SavePetToDB()</a>, <a class="el" href="../../#l00113">OutdoorPvPTF::SaveRequiredWorldStates()</a>, <a class="el" href="../../#l01224">GameObject::SaveRespawnTime()</a>, <a class="el" href="../../#l00069">Map::ScriptCommandStart()</a>, <a class="el" href="../../#l00277">Map::ScriptsProcess()</a>, <a class="el" href="../../#l00031">Map::ScriptsStart()</a>, <a class="el" href="../../#l00945">WorldSession::SendAccountDataTimes()</a>, <a class="el" href="../../#l00702">AchievementMgr::SendAchievementEarned()</a>, <a class="el" href="../../#l00161">AuctionHouseMgr::SendAuctionSalePendingMail()</a>, <a class="el" href="../../#l00031">WorldSession::SendBfInvitePlayerToWar()</a>, <a class="el" href="../../#l00804">WorldSession::SendCalendarRaidLockout()</a>, <a class="el" href="../../#l00823">WorldSession::SendCalendarRaidLockoutUpdated()</a>, <a class="el" href="../../#l00768">AchievementMgr::SendCriteriaUpdate()</a>, <a class="el" href="../../#l11605">Player::SendInitialPacketsBeforeAddToMap()</a>, <a class="el" href="../../#l00507">WorldSession::SendLfgBootProposalUpdate()</a>, <a class="el" href="../../#l07848">Player::SendLoot()</a>, <a class="el" href="../../#l00185">MailDraft::SendMailTo()</a>, <a class="el" href="../../#l00252">WorldSession::SendPacket()</a>, <a class="el" href="../../#l06527">Player::SendRaidInfo()</a>, <a class="el" href="../../#l00077">WorldSession::SendTimeQueryResponse()</a>, <a class="el" href="../../#l00995">BattlefieldWG::SendUpdateWorldStates()</a>, <a class="el" href="../../#l18433">Unit::SetCharmedBy()</a>, <a class="el" href="../../#l03748">Creature::SetCorpseRemoveTime()</a>, <a class="el" href="../../#l02094">AchievementMgr::SetCriteriaProgress()</a>, <a class="el" href="../../#l12157">Player::SetDailyQuestStatus()</a>, <a class="el" href="../../#l00451">instance_blackrock_depths::instance_blackrock_depths_InstanceMapScript::SetData()</a>, <a class="el" href="../../#l00274">instance_trial_of_the_crusader::instance_trial_of_the_crusader_InstanceMapScript::SetData()</a>, <a class="el" href="../../#l00177">instance_vault_of_archavon::instance_vault_of_archavon_InstanceMapScript::SetData()</a>, <a class="el" href="../../#l01972">Creature::setDeathState()</a>, <a class="el" href="../../#l02547">Group::SetDifficultyChangePrevention()</a>, <a class="el" href="../../#l01840">GameEventMgr::SetHolidayEventTime()</a>, <a class="el" href="../../#l00303">World::SetInitialWorldSettings()</a>, <a class="el" href="../../#l02918">GameObject::SetLootGenerationTime()</a>, <a class="el" href="../../#l02428">GameObject::SetLootState()</a>, <a class="el" href="../../#l00257">GmTicket::SetMessage()</a>, <a class="el" href="../../#l03706">Creature::SetPickPocketLootTime()</a>, <a class="el" href="../../#l01284">GameObject::SetRespawnTime()</a>, <a class="el" href="../../#l03743">Creature::SetRespawnTime()</a>, <a class="el" href="../../#l16194">Player::SetRestFlag()</a>, <a class="el" href="../../#l01086">Player::SetRestState()</a>, <a class="el" href="../../#l16374">Player::SetSummonPoint()</a>, <a class="el" href="../../#l00334">OutdoorPvPTF::SetupOutdoorPvP()</a>, <a class="el" href="../../#l00916">boss_the_lich_king::boss_the_lich_kingAI::SpellHit()</a>, <a class="el" href="../../#l00136">GameEventMgr::StartEvent()</a>, <a class="el" href="../../#l00193">GameEventMgr::StopEvent()</a>, <a class="el" href="../../#l00428">PassengerController::SummonCreatures()</a>, <a class="el" href="../../#l12485">Player::SummonIfPossible()</a>, <a class="el" href="../../#l09017">Player::SummonPet()</a>, <a class="el" href="../../#l01347">Player::TeleportTo()</a>, <a class="el" href="../../#l00503">AuctionHouseObject::Update()</a>, <a class="el" href="../../#l01168">GameEventMgr::Update()</a>, <a class="el" href="../../#l00462">InstanceSaveMgr::Update()</a>, <a class="el" href="../../#l00143">Battlefield::Update()</a>, <a class="el" href="../../#l00100">BattlegroundMgr::Update()</a>, <a class="el" href="../../#l00652">Pet::Update()</a>, <a class="el" href="../../#l01089">World::Update()</a>, <a class="el" href="../../#l00327">WorldSession::Update()</a>, <a class="el" href="../../#l00274">lfg::LFGMgr::Update()</a>, <a class="el" href="../../#l00443">GameObject::Update()</a>, <a class="el" href="../../#l00665">Creature::Update()</a>, <a class="el" href="../../#l00053">Player::Update()</a>, <a class="el" href="../../#l00906">npc_high_overlord_saurfang_igb::npc_high_overlord_saurfang_igbAI::UpdateAI()</a>, <a class="el" href="../../#l01242">npc_muradin_bronzebeard_igb::npc_muradin_bronzebeard_igbAI::UpdateAI()</a>, <a class="el" href="../../#l00397">boss_mimiron::boss_mimironAI::UpdateAI()</a>, <a class="el" href="../../#l01915">Player::UpdateCorpseReclaimDelay()</a>, <a class="el" href="../../#l01453">Player::UpdateFFAPvPState()</a>, <a class="el" href="../../#l01182">Player::UpdateHonorFields()</a>, <a class="el" href="../../#l00448">TicketMgr::UpdateLastChange()</a>, <a class="el" href="../../#l03644">Creature::UpdateLeashExtensionTime()</a>, <a class="el" href="../../#l00582">Guild::Member::UpdateLogoutTime()</a>, <a class="el" href="../../#l00436">Player::UpdateNextMailTimeAndUnreads()</a>, <a class="el" href="../../#l00971">StaticTransport::UpdatePassengerPositions()</a>, <a class="el" href="../../#l01218">Item::UpdatePlayedTime()</a>, <a class="el" href="../../#l01806">lfg::LFGMgr::UpdateProposal()</a>, <a class="el" href="../../#l01526">Player::UpdatePvP()</a>, <a class="el" href="../../#l01436">Player::UpdatePvPState()</a>, <a class="el" href="../../#l00469">lfg::LFGQueue::UpdateQueueTimers()</a>, <a class="el" href="../../#l01400">lfg::LFGMgr::UpdateRoleCheck()</a>, <a class="el" href="../../#l00091">WorldSessionMgr::UpdateSessions()</a>, <a class="el" href="../../#l00029">Player::UpdateSpeakTime()</a>, <a class="el" href="../../#l03113">Creature::UpdateVendorItemCurrentCount()</a>, <a class="el" href="../../#l00237">Guild::BankEventLogEntry::WritePacket()</a>, and <a class="el" href="../../#l00198">Guild::EventLogEntry::WritePacket()</a>.</p>
+
+</div>
+</div>
+<a id="a6d0d49f37e25e497391157b2a2ec90c1" name="a6d0d49f37e25e497391157b2a2ec90c1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6d0d49f37e25e497391157b2a2ec90c1">&#9670;&#160;</a></span>GetGameTimeMS()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a> <a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> GameTime::GetGameTimeMS </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   44</span>    {</div>
+<div class="line"><span class="lineno">   45</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d60/a04878.html#ad5fc2a056410eeac2e2717f91cb8295c">GameMSTime</a>;</div>
+<div class="line"><span class="lineno">   46</span>    }</div>
+<div class="ttc" id="aa04878_html_ad5fc2a056410eeac2e2717f91cb8295c"><div class="ttname"><a href="../../dd/d60/a04878.html#ad5fc2a056410eeac2e2717f91cb8295c">GameTime::GameMSTime</a></div><div class="ttdeci">Milliseconds GameMSTime</div><div class="ttdef"><b>Definition:</b> GameTime.cpp:28</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00028">GameMSTime</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02870">Creature::_AddCreatureSpellCooldown()</a>, <a class="el" href="../../#l11102">Player::_AddSpellCooldown()</a>, <a class="el" href="../../#l01520">Pet::_SaveSpellCooldowns()</a>, <a class="el" href="../../#l03652">Player::_SaveSpellCooldowns()</a>, <a class="el" href="../../#l00419">GlobalCooldownMgr::AddGlobalCooldown()</a>, <a class="el" href="../../#l00134">BattlegroundQueue::AddGroup()</a>, <a class="el" href="../../#l02970">WorldObject::AddToNotify()</a>, <a class="el" href="../../#l15213">Unit::ApplyDiminishingAura()</a>, <a class="el" href="../../#l11838">Player::ApplyEquipCooldown()</a>, <a class="el" href="../../#l00707">BattlegroundQueue::BattlegroundQueueUpdate()</a>, <a class="el" href="../../#l19714">Unit::BuildMovementPacket()</a>, <a class="el" href="../../#l00510">BattlegroundQueue::CheckPremadeMatch()</a>, <a class="el" href="../../#l00097">DynamicObject::CreateDynamicObject()</a>, <a class="el" href="../../#l02520">Spell::DoAllEffectOnTarget()</a>, <a class="el" href="../../#l04022">Spell::EffectSanctuary()</a>, <a class="el" href="../../#l15094">Unit::GetDiminishing()</a>, <a class="el" href="../../#l02924">Creature::GetSpellCooldown()</a>, <a class="el" href="../../#l00609">WorldSession::HandleBattlefieldStatusOpcode()</a>, <a class="el" href="../../#l00563">WardenWin::HandleData()</a>, <a class="el" href="../../#l02140">spell_mimiron_p3wx2_laser_barrage_aura::HandleEffectPeriodic()</a>, <a class="el" href="../../#l00788">WorldSession::HandlePlayerLoginFromDB()</a>, <a class="el" href="../../#l01128">WorldSession::HandlePlayerLoginToCharInWorld()</a>, <a class="el" href="../../#l00397">GlobalCooldownMgr::HasGlobalCooldown()</a>, <a class="el" href="../../#l02933">Creature::HasSpellCooldown()</a>, <a class="el" href="../../#l15120">Unit::IncrDiminishing()</a>, <a class="el" href="../../#l01221">BattlegroundQueue::InviteGroupToBG()</a>, <a class="el" href="../../#l02846">Creature::IsSpellProhibited()</a>, <a class="el" href="../../#l17321">Unit::IsUnderLastManaUseEffect()</a>, <a class="el" href="../../#l02133">spell_mimiron_p3wx2_laser_barrage_aura::Load()</a>, <a class="el" href="../../#l02374">spell_gen_turkey_marker::OnPeriodic()</a>, <a class="el" href="../../#l09569">Player::PetSpellInitialize()</a>, <a class="el" href="../../#l00209">BattlegroundQueue::PlayerInvitedToBGUpdateAverageWaitTime()</a>, <a class="el" href="../../#l00058">BattlegroundEY::PostUpdateImpl()</a>, <a class="el" href="../../#l02835">Creature::ProhibitSpellSchool()</a>, <a class="el" href="../../#l03603">Player::RemoveAllSpellCooldown()</a>, <a class="el" href="../../#l03568">Player::RemoveArenaSpellCooldowns()</a>, <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>, <a class="el" href="../../#l02768">Player::SendInitialSpells()</a>, <a class="el" href="../../#l00537">Unit::SendMonsterMove()</a>, <a class="el" href="../../#l04735">Spell::SendSpellGo()</a>, <a class="el" href="../../#l00266">boss_ignis::boss_ignisAI::SetData()</a>, <a class="el" href="../../#l05253">Spell::TakePower()</a>, <a class="el" href="../../#l01089">World::Update()</a>, <a class="el" href="../../#l00443">GameObject::Update()</a>, <a class="el" href="../../#l01100">BattlegroundSA::UpdateDemolisherSpawns()</a>, <a class="el" href="../../#l00979">lfg::LFGMgr::UpdateRaidBrowser()</a>, <a class="el" href="../../#l01460">GameObject::Use()</a>, <a class="el" href="../../#l01410">GameObject::UseDoorOrButton()</a>, and <a class="el" href="../../#l09669">Player::VehicleSpellInitialize()</a>.</p>
+
+</div>
+</div>
+<a id="a872d34d3f9d420cfc749073c809931f9" name="a872d34d3f9d420cfc749073c809931f9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a872d34d3f9d420cfc749073c809931f9">&#9670;&#160;</a></span>GetStartTime()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a> <a class="el" href="../../d9/d82/a04718.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a> GameTime::GetStartTime </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   34</span>    {</div>
+<div class="line"><span class="lineno">   35</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d60/a04878.html#a78088a0637670a1ab5125a1388f7ca52">StartTime</a>;</div>
+<div class="line"><span class="lineno">   36</span>    }</div>
+<div class="ttc" id="aa04878_html_a78088a0637670a1ab5125a1388f7ca52"><div class="ttname"><a href="../../dd/d60/a04878.html#a78088a0637670a1ab5125a1388f7ca52">GameTime::StartTime</a></div><div class="ttdeci">Seconds const StartTime</div><div class="ttdef"><b>Definition:</b> GameTime.cpp:25</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00025">StartTime</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00303">World::SetInitialWorldSettings()</a>, and <a class="el" href="../../#l01089">World::Update()</a>.</p>
+
+</div>
+</div>
+<a id="a443eccf314fe436192278d425d6d8220" name="a443eccf314fe436192278d425d6d8220"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a443eccf314fe436192278d425d6d8220">&#9670;&#160;</a></span>GetSystemTime()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a> <a class="el" href="../../d9/d82/a04718.html#ada798961abc5a533d616ff780f567bb6">SystemTimePoint</a> GameTime::GetSystemTime </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Current chrono system_clock time point. </p>
+<div class="fragment"><div class="line"><span class="lineno">   49</span>    {</div>
+<div class="line"><span class="lineno">   50</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d60/a04878.html#aa393fef2187ebdd6aa34379b0f1504d7">GameTimeSystemPoint</a>;</div>
+<div class="line"><span class="lineno">   51</span>    }</div>
+<div class="ttc" id="aa04878_html_aa393fef2187ebdd6aa34379b0f1504d7"><div class="ttname"><a href="../../dd/d60/a04878.html#aa393fef2187ebdd6aa34379b0f1504d7">GameTime::GameTimeSystemPoint</a></div><div class="ttdeci">SystemTimePoint GameTimeSystemPoint</div><div class="ttdef"><b>Definition:</b> GameTime.cpp:30</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00030">GameTimeSystemPoint</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02570">AchievementGlobalMgr::IsRealmCompleted()</a>, and <a class="el" href="../../#l02596">AchievementGlobalMgr::SetRealmCompleted()</a>.</p>
+
+</div>
+</div>
+<a id="ae2ff9233756dd88fa1aafcc1e1c0be4d" name="ae2ff9233756dd88fa1aafcc1e1c0be4d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae2ff9233756dd88fa1aafcc1e1c0be4d">&#9670;&#160;</a></span>GetUptime()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a> <a class="el" href="../../d9/d82/a04718.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a> GameTime::GetUptime </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Uptime. </p>
+<div class="fragment"><div class="line"><span class="lineno">   59</span>    {</div>
+<div class="line"><span class="lineno">   60</span>        <span class="keywordflow">return</span> <a class="code hl_namespace" href="../../dd/d60/a04878.html">GameTime</a> - <a class="code hl_variable" href="../../dd/d60/a04878.html#a78088a0637670a1ab5125a1388f7ca52">StartTime</a>;</div>
 <div class="line"><span class="lineno">   61</span>    }</div>
-<div class="line"><span class="lineno">   62</span> </div>
-<div class="line"><span class="lineno">   63</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   64</span>}</div>
-<div class="ttc" id="aa00098_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../d1/d44/a00098.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:825</div></div>
-<div class="ttc" id="aa00155_html_af9ee42b1cf006ecb2d2e74fe71c0761aa07b52d281d0150b557c88c47cf9ce65f"><div class="ttname"><a href="../../d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aa07b52d281d0150b557c88c47cf9ce65f">LANG_YOU_KNOWN_SPELL</a></div><div class="ttdeci">@ LANG_YOU_KNOWN_SPELL</div><div class="ttdef"><b>Definition:</b> Language.h:533</div></div>
-<div class="ttc" id="aa00155_html_af9ee42b1cf006ecb2d2e74fe71c0761aaef51c94173b2a9aca75898d46518b665"><div class="ttname"><a href="../../d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aaef51c94173b2a9aca75898d46518b665">LANG_COMMAND_SPELL_BROKEN</a></div><div class="ttdeci">@ LANG_COMMAND_SPELL_BROKEN</div><div class="ttdef"><b>Definition:</b> Language.h:526</div></div>
-<div class="ttc" id="aa00155_html_af9ee42b1cf006ecb2d2e74fe71c0761aafb80569b0ed74068a5713e12a66ebdcb"><div class="ttname"><a href="../../d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aafb80569b0ed74068a5713e12a66ebdcb">LANG_TARGET_KNOWN_SPELL</a></div><div class="ttdeci">@ LANG_TARGET_KNOWN_SPELL</div><div class="ttdef"><b>Definition:</b> Language.h:534</div></div>
-<div class="ttc" id="aa01595_html_a67c1970c378a0fdf0489c1d376d7c388"><div class="ttname"><a href="../../dc/dbf/a01595.html#a67c1970c378a0fdf0489c1d376d7c388">GetTalentSpellCost</a></div><div class="ttdeci">uint32 GetTalentSpellCost(uint32 spellId)</div><div class="ttdef"><b>Definition:</b> DBCStores.cpp:686</div></div>
-<div class="ttc" id="aa04307_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa07547_html_a0e2b0a9da9e25f17c2f995505eeea940"><div class="ttname"><a href="../../dd/d81/a07547.html#a0e2b0a9da9e25f17c2f995505eeea940">ChatHandler::GetNameLink</a></div><div class="ttdeci">virtual std::string GetNameLink() const</div><div class="ttdef"><b>Definition:</b> Chat.h:198</div></div>
-<div class="ttc" id="aa07547_html_a92dbe6ed87759b9ed247973178d99a80"><div class="ttname"><a href="../../dd/d81/a07547.html#a92dbe6ed87759b9ed247973178d99a80">ChatHandler::SendErrorMessage</a></div><div class="ttdeci">void SendErrorMessage(uint32 entry)</div><div class="ttdef"><b>Definition:</b> Chat.cpp:216</div></div>
-<div class="ttc" id="aa07547_html_ab1fd0ff3281702b870de2aac859e9ace"><div class="ttname"><a href="../../dd/d81/a07547.html#ab1fd0ff3281702b870de2aac859e9ace">ChatHandler::GetPlayer</a></div><div class="ttdeci">Player * GetPlayer() const</div><div class="ttdef"><b>Definition:</b> Chat.cpp:36</div></div>
-<div class="ttc" id="aa08655_html_a134bcbd463d0048b59372a89f6c455af"><div class="ttname"><a href="../../d6/d1f/a08655.html#a134bcbd463d0048b59372a89f6c455af">Player::SendTalentsInfoData</a></div><div class="ttdeci">void SendTalentsInfoData(bool pet)</div><div class="ttdef"><b>Definition:</b> Player.cpp:14494</div></div>
-<div class="ttc" id="aa08655_html_a19ea15940b7b8e6ed7480b3dc3702bee"><div class="ttname"><a href="../../d6/d1f/a08655.html#a19ea15940b7b8e6ed7480b3dc3702bee">Player::learnSpell</a></div><div class="ttdeci">void learnSpell(uint32 spellId, bool temporary=false, bool learnFromSkill=false)</div><div class="ttdef"><b>Definition:</b> Player.cpp:3317</div></div>
-<div class="ttc" id="aa08655_html_ad0b702ec9df9626312843eb9a44742df"><div class="ttname"><a href="../../d6/d1f/a08655.html#ad0b702ec9df9626312843eb9a44742df">Player::HasSpell</a></div><div class="ttdeci">bool HasSpell(uint32 spell) const override</div><div class="ttdef"><b>Definition:</b> Player.cpp:3905</div></div>
-<div class="ttc" id="aa11387_html_a8dfd3856cb381953bfeb1db1a4a4bad7"><div class="ttname"><a href="../../d1/d5b/a11387.html#a8dfd3856cb381953bfeb1db1a4a4bad7">SpellMgr::IsSpellValid</a></div><div class="ttdeci">static bool IsSpellValid(SpellInfo const *spellInfo)</div><div class="ttdef"><b>Definition:</b> SpellMgr.cpp:441</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l02513">SpellInfo::GetFirstRankSpell()</a>, <a class="el" href="../../#l00198">ChatHandler::GetNameLink()</a>, <a class="el" href="../../#l00036">ChatHandler::GetPlayer()</a>, <a class="el" href="../../#l00686">GetTalentSpellCost()</a>, <a class="el" href="../../#l03905">Player::HasSpell()</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l00441">SpellMgr::IsSpellValid()</a>, <a class="el" href="../../#l00526">LANG_COMMAND_SPELL_BROKEN</a>, <a class="el" href="../../#l00534">LANG_TARGET_KNOWN_SPELL</a>, <a class="el" href="../../#l00533">LANG_YOU_KNOWN_SPELL</a>, <a class="el" href="../../#l03317">Player::learnSpell()</a>, <a class="el" href="../../#l00216">ChatHandler::SendErrorMessage()</a>, <a class="el" href="../../#l14494">Player::SendTalentsInfoData()</a>, and <a class="el" href="../../#l00825">sSpellMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00025">StartTime</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00068">learn_commandscript::HandleLearnCommand()</a>, and <a class="el" href="../../#l00043">player_commandscript::HandlePlayerLearnCommand()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00257">server_commandscript::HandleServerInfoCommand()</a>, and <a class="el" href="../../#l01089">World::Update()</a>.</p>
 
 </div>
 </div>
-<a id="ad36f90f90b3d9aaf782f7efc859f7e7a" name="ad36f90f90b3d9aaf782f7efc859f7e7a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad36f90f90b3d9aaf782f7efc859f7e7a">&#9670;&#160;</a></span>HandleUnlearnSpellCommand()</h2>
+<a id="ae5cc9f17fc6b8b15c678fa7a84a6e117" name="ae5cc9f17fc6b8b15c678fa7a84a6e117"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae5cc9f17fc6b8b15c678fa7a84a6e117">&#9670;&#160;</a></span>Now()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool Acore::PlayerCommand::HandleUnlearnSpellCommand </td>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a00a04eccc2ca042486601576eccae409">AC_GAME_API</a> <a class="el" href="../../d9/d82/a04718.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a> GameTime::Now </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d81/a07547.html">ChatHandler</a> *&#160;</td>
-          <td class="paramname"><em>handler</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d6/d1f/a08655.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>targetPlayer</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/d3a/a11331.html">SpellInfo</a> const *&#160;</td>
-          <td class="paramname"><em>spell</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d82/a04718.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d6/dea/a01094.html#ac61bb0d0d29d3ccc94188eb93516adf5">EXACT_SEQUENCE</a>(&quot;all&quot;)&gt;&#160;</td>
-          <td class="paramname"><em>allRanks</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   67</span>{</div>
-<div class="line"><span class="lineno">   68</span>    <a class="code hl_typedef" href="../../d9/d4e/a04307.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId = spell-&gt;Id;</div>
-<div class="line"><span class="lineno">   69</span> </div>
-<div class="line"><span class="lineno">   70</span>    <span class="keywordflow">if</span> (allRanks)</div>
-<div class="line"><span class="lineno">   71</span>    {</div>
-<div class="line"><span class="lineno">   72</span>        spellId = <a class="code hl_define" href="../../d1/d44/a00098.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetFirstSpellInChain(spellId);</div>
-<div class="line"><span class="lineno">   73</span>    }</div>
-<div class="line"><span class="lineno">   74</span> </div>
-<div class="line"><span class="lineno">   75</span>    <span class="keywordflow">if</span> (target-&gt;HasSpell(spellId))</div>
-<div class="line"><span class="lineno">   76</span>    {</div>
-<div class="line"><span class="lineno">   77</span>        target-&gt;removeSpell(spellId, <a class="code hl_define" href="../../db/d40/a00959.html#a6a6dfeb0ddba76f8c51abbe98ea08609">SPEC_MASK_ALL</a>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">   78</span>    }</div>
-<div class="line"><span class="lineno">   79</span>    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   80</span>    {</div>
-<div class="line"><span class="lineno">   81</span>        handler-&gt;<a class="code hl_function" href="../../dd/d81/a07547.html#ac1ed346507097817b3f8e00f0ae657a0">SendSysMessage</a>(<a class="code hl_enumvalue" href="../../d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aa16efd11f1d4a0c67b42e214df1cd14f2">LANG_FORGET_SPELL</a>);</div>
-<div class="line"><span class="lineno">   82</span>    }</div>
-<div class="line"><span class="lineno">   83</span> </div>
-<div class="line"><span class="lineno">   84</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dc/dbf/a01595.html#a67c1970c378a0fdf0489c1d376d7c388">GetTalentSpellCost</a>(spellId))</div>
-<div class="line"><span class="lineno">   85</span>    {</div>
-<div class="line"><span class="lineno">   86</span>        target-&gt;SendTalentsInfoData(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">   87</span>    }</div>
-<div class="line"><span class="lineno">   88</span> </div>
-<div class="line"><span class="lineno">   89</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   90</span>}</div>
-<div class="ttc" id="aa00155_html_af9ee42b1cf006ecb2d2e74fe71c0761aa16efd11f1d4a0c67b42e214df1cd14f2"><div class="ttname"><a href="../../d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aa16efd11f1d4a0c67b42e214df1cd14f2">LANG_FORGET_SPELL</a></div><div class="ttdeci">@ LANG_FORGET_SPELL</div><div class="ttdef"><b>Definition:</b> Language.h:536</div></div>
-<div class="ttc" id="aa00959_html_a6a6dfeb0ddba76f8c51abbe98ea08609"><div class="ttname"><a href="../../db/d40/a00959.html#a6a6dfeb0ddba76f8c51abbe98ea08609">SPEC_MASK_ALL</a></div><div class="ttdeci">#define SPEC_MASK_ALL</div><div class="ttdef"><b>Definition:</b> Player.h:177</div></div>
-<div class="ttc" id="aa07547_html_ac1ed346507097817b3f8e00f0ae657a0"><div class="ttname"><a href="../../dd/d81/a07547.html#ac1ed346507097817b3f8e00f0ae657a0">ChatHandler::SendSysMessage</a></div><div class="ttdeci">virtual void SendSysMessage(std::string_view str, bool escapeCharacters=false)</div><div class="ttdef"><b>Definition:</b> Chat.cpp:160</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00686">GetTalentSpellCost()</a>, <a class="el" href="../../#l03905">Player::HasSpell()</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l00536">LANG_FORGET_SPELL</a>, <a class="el" href="../../#l03358">Player::removeSpell()</a>, <a class="el" href="../../#l00160">ChatHandler::SendSysMessage()</a>, <a class="el" href="../../#l14494">Player::SendTalentsInfoData()</a>, <a class="el" href="../../#l00177">SPEC_MASK_ALL</a>, and <a class="el" href="../../#l00825">sSpellMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00054">player_commandscript::HandlePlayerUnLearnCommand()</a>, and <a class="el" href="../../#l00408">learn_commandscript::HandleUnLearnCommand()</a>.</p>
+<p>Current chrono steady_clock time point. </p>
+<div class="fragment"><div class="line"><span class="lineno">   54</span>    {</div>
+<div class="line"><span class="lineno">   55</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../dd/d60/a04878.html#a874057035d37aa57afc5064acffba119">GameTimeSteadyPoint</a>;</div>
+<div class="line"><span class="lineno">   56</span>    }</div>
+<div class="ttc" id="aa04878_html_a874057035d37aa57afc5064acffba119"><div class="ttname"><a href="../../dd/d60/a04878.html#a874057035d37aa57afc5064acffba119">GameTime::GameTimeSteadyPoint</a></div><div class="ttdeci">TimePoint GameTimeSteadyPoint</div><div class="ttdef"><b>Definition:</b> GameTime.cpp:31</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00031">GameTimeSteadyPoint</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00401">WorldSocket::ReadDataHandler()</a>.</p>
+
+</div>
+</div>
+<a id="a45712735241c9563a12fc3da54fb144d" name="a45712735241c9563a12fc3da54fb144d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a45712735241c9563a12fc3da54fb144d">&#9670;&#160;</a></span>UpdateGameTimers()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void GameTime::UpdateGameTimers </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Update all timers. </p>
+<div class="fragment"><div class="line"><span class="lineno">   64</span>    {</div>
+<div class="line"><span class="lineno">   65</span>        <a class="code hl_namespace" href="../../dd/d60/a04878.html">GameTime</a> = <a class="code hl_function" href="../../d1/d62/a04664.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a>();</div>
+<div class="line"><span class="lineno">   66</span>        <a class="code hl_variable" href="../../dd/d60/a04878.html#ad5fc2a056410eeac2e2717f91cb8295c">GameMSTime</a> = <a class="code hl_function" href="../../d1/d62/a04664.html#a002742f64e7fe0b13f08d610eca4d672">GetTimeMS</a>();</div>
+<div class="line"><span class="lineno">   67</span>        <a class="code hl_variable" href="../../dd/d60/a04878.html#aa393fef2187ebdd6aa34379b0f1504d7">GameTimeSystemPoint</a> = system_clock::now();</div>
+<div class="line"><span class="lineno">   68</span>        <a class="code hl_variable" href="../../dd/d60/a04878.html#a874057035d37aa57afc5064acffba119">GameTimeSteadyPoint</a> = steady_clock::now();</div>
+<div class="line"><span class="lineno">   69</span>    }</div>
+<div class="ttc" id="aa04664_html_a002742f64e7fe0b13f08d610eca4d672"><div class="ttname"><a href="../../d1/d62/a04664.html#a002742f64e7fe0b13f08d610eca4d672">GetTimeMS</a></div><div class="ttdeci">Milliseconds GetTimeMS()</div><div class="ttdef"><b>Definition:</b> Timer.h:84</div></div>
+<div class="ttc" id="aa04664_html_ac26feb8a0cb9d57ffe71c1a86ae8108e"><div class="ttname"><a href="../../d1/d62/a04664.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a></div><div class="ttdeci">Seconds GetEpochTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:141</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00028">GameMSTime</a>, <a class="el" href="../../#l00031">GameTimeSteadyPoint</a>, <a class="el" href="../../#l00030">GameTimeSystemPoint</a>, <a class="el" href="../../#l00141">GetEpochTime()</a>, and <a class="el" href="../../#l00084">GetTimeMS()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01423">World::_UpdateGameTime()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Variable Documentation</h2>
+<a id="ad5fc2a056410eeac2e2717f91cb8295c" name="ad5fc2a056410eeac2e2717f91cb8295c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad5fc2a056410eeac2e2717f91cb8295c">&#9670;&#160;</a></span>GameMSTime</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> GameTime::GameMSTime = 0ms</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00043">GetGameTimeMS()</a>, and <a class="el" href="../../#l00063">UpdateGameTimers()</a>.</p>
+
+</div>
+</div>
+<a id="a9a28ffdb4bb387919d2dd70a51080ce0" name="a9a28ffdb4bb387919d2dd70a51080ce0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9a28ffdb4bb387919d2dd70a51080ce0">&#9670;&#160;</a></span>GameTime</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d82/a04718.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a> GameTime::GameTime = <a class="el" href="../../d1/d62/a04664.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a>()</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00038">GetGameTime()</a>.</p>
+
+</div>
+</div>
+<a id="a874057035d37aa57afc5064acffba119" name="a874057035d37aa57afc5064acffba119"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a874057035d37aa57afc5064acffba119">&#9670;&#160;</a></span>GameTimeSteadyPoint</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d82/a04718.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a> GameTime::GameTimeSteadyPoint = TimePoint::min()</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00053">Now()</a>, and <a class="el" href="../../#l00063">UpdateGameTimers()</a>.</p>
+
+</div>
+</div>
+<a id="aa393fef2187ebdd6aa34379b0f1504d7" name="aa393fef2187ebdd6aa34379b0f1504d7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa393fef2187ebdd6aa34379b0f1504d7">&#9670;&#160;</a></span>GameTimeSystemPoint</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d82/a04718.html#ada798961abc5a533d616ff780f567bb6">SystemTimePoint</a> GameTime::GameTimeSystemPoint = SystemTimePoint::min()</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00048">GetSystemTime()</a>, and <a class="el" href="../../#l00063">UpdateGameTimers()</a>.</p>
+
+</div>
+</div>
+<a id="a78088a0637670a1ab5125a1388f7ca52" name="a78088a0637670a1ab5125a1388f7ca52"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a78088a0637670a1ab5125a1388f7ca52">&#9670;&#160;</a></span>StartTime</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d82/a04718.html#a3cd82f1c195a0b935b4d66b02a41acd8">Seconds</a> const GameTime::StartTime = <a class="el" href="../../d1/d62/a04664.html#ac26feb8a0cb9d57ffe71c1a86ae8108e">GetEpochTime</a>()</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00033">GetStartTime()</a>, and <a class="el" href="../../#l00058">GetUptime()</a>.</p>
 
 </div>
 </div>
@@ -291,8 +418,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dd/df4/a04800.html">Acore</a></li><li class="navelem"><a class="el" href="../../dd/d60/a04878.html">PlayerCommand</a></li>
-    <li class="footer">Generated on Mon Oct 6 2025 20:46:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dd/d60/a04878.html">GameTime</a></li>
+    <li class="footer">Generated on Mon Oct 13 2025 20:46:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

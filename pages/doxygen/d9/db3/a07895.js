@@ -1,7 +1,8 @@
 var a07895 =
 [
-    [ "LfgJoinResultData", "d9/db3/a07895.html#a1d711d49a6b49f55eb3771352b294b95", null ],
-    [ "lockmap", "d9/db3/a07895.html#aff918b3c02ca76982a964402175f8ad7", null ],
-    [ "result", "d9/db3/a07895.html#aa713cbc1930962d520883523f6f6446c", null ],
-    [ "state", "d9/db3/a07895.html#a2eee5e81651a7a9be245e4b717ab53ed", null ]
+    [ "UnitBaseEvent", "d9/db3/a07895.html#a2d4586c59a7595374d427a15924c34fd", null ],
+    [ "getType", "d9/db3/a07895.html#a7619b09043a8a729df77502786216aff", null ],
+    [ "matchesTypeMask", "d9/db3/a07895.html#a05103aacf99310a6c9e602296d56f168", null ],
+    [ "setType", "d9/db3/a07895.html#a1a3ae3042df9ca91d17a1c3320579867", null ],
+    [ "iType", "d9/db3/a07895.html#a528a4023be375f43f4ac33b55f5c95d9", null ]
 ];

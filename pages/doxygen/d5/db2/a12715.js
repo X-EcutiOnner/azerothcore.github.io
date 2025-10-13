@@ -1,10 +1,9 @@
 var a12715 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "d5/db2/a12715.html#a0080fdf557ad8159a8934dce5b39a535", null ],
-    [ "OnCreatureCreate", "d5/db2/a12715.html#ac607601becc7fbf4ea9c64d87c93287c", null ],
-    [ "OnGameObjectCreate", "d5/db2/a12715.html#a0c2f4d615394ef1d6e1b930ed6aff82f", null ],
-    [ "ReadSaveDataMore", "d5/db2/a12715.html#a85d3db22430a4bac7e01dcfa1a1efb5b", null ],
-    [ "SetData", "d5/db2/a12715.html#af800a1906c532f61f0299f8aa9359a66", null ],
-    [ "WriteSaveDataMore", "d5/db2/a12715.html#a1b30829b3c782bb2c52e5da4fa388d5c", null ],
-    [ "_encounters", "d5/db2/a12715.html#ae19a56e7fdcb2d0204d444cba11b7441", null ]
+    [ "npc_mc_core_houndAI", "d5/db2/a12715.html#a9b07d662e32a342419a848ecd59d6391", null ],
+    [ "DamageTaken", "d5/db2/a12715.html#aaf2b0ac9b723bb16bfaf8481165e6b4f", null ],
+    [ "Reset", "d5/db2/a12715.html#a9f4b06230ae2e4fc2fe150eb9e9d1f12", null ],
+    [ "UpdateAI", "d5/db2/a12715.html#aaba8ef0b33b9bb9acf74223ef0e9aaad", null ],
+    [ "instance", "d5/db2/a12715.html#ab47451dfeff84c8467be2b76554df897", null ],
+    [ "serratedBiteTimer", "d5/db2/a12715.html#a3a49df32c788497d3e82912d423683b7", null ]
 ];

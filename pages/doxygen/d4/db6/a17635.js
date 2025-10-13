@@ -1,8 +1,8 @@
 var a17635 =
 [
-    [ "npc_muradin_bronzebeard_iccAI", "d2/dc4/a17639.html", "d2/dc4/a17639" ],
-    [ "npc_muradin_bronzebeard_icc", "d4/db6/a17635.html#a7e4cecb0f4cabf024794045ed20e3563", null ],
-    [ "GetAI", "d4/db6/a17635.html#ab2b6a0bb1b8626e5a4064b9412234f4b", null ],
-    [ "OnGossipHello", "d4/db6/a17635.html#a7fb9838521dbae6ac0a8bb4ac1e07c37", null ],
-    [ "OnGossipSelect", "d4/db6/a17635.html#a46c4893be723a848d985ff55e28d55a2", null ]
+    [ "npc_high_overlord_saurfangAI", "d2/dc4/a17639.html", "d2/dc4/a17639" ],
+    [ "npc_high_overlord_saurfang_icc", "d4/db6/a17635.html#ac02fe80550572e142406c2d80c0392df", null ],
+    [ "GetAI", "d4/db6/a17635.html#a21c04ab5b8d747c28c7355cc483ac6e3", null ],
+    [ "OnGossipHello", "d4/db6/a17635.html#a515a87f751527412222cfdd968febe7c", null ],
+    [ "OnGossipSelect", "d4/db6/a17635.html#a39c33a3b2e7037ca6f0f40ba65cb55db", null ]
 ];

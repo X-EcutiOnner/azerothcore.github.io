@@ -1,6 +1,6 @@
 var a12179 =
 [
-    [ "boss_gythAI", "df/da7/a12183.html", "df/da7/a12183" ],
-    [ "boss_gyth", "d2/d4f/a12179.html#a286d19b0a6e317cb7e69343982b71062", null ],
-    [ "GetAI", "d2/d4f/a12179.html#a3706cbdd1bfb16112653d31cfa971b30", null ]
+    [ "boss_gloomrel", "d2/d4f/a12179.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
+    [ "OnGossipHello", "d2/d4f/a12179.html#a6ce6898142d767a130ec09769f2be488", null ],
+    [ "OnGossipSelect", "d2/d4f/a12179.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
 ];

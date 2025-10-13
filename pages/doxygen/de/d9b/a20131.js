@@ -1,6 +1,6 @@
 var a20131 =
 [
-    [ "npc_brann_radioAI", "dd/dc1/a20135.html", "dd/dc1/a20135" ],
-    [ "npc_brann_radio", "de/d9b/a20131.html#a22b5231f643c287d8e32d88a3b0728b2", null ],
-    [ "GetAI", "de/d9b/a20131.html#aa2ea91337262fb886e7535ba013f4b10", null ]
+    [ "npc_pool_of_tarAI", "dd/dc1/a20135.html", "dd/dc1/a20135" ],
+    [ "npc_pool_of_tar", "de/d9b/a20131.html#a9c585318b4507babe77b3ba758b06a87", null ],
+    [ "GetAI", "de/d9b/a20131.html#ae77bf48a72ce49f821085f32127e91dc", null ]
 ];

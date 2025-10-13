@@ -1,6 +1,8 @@
 var a28691 =
 [
-    [ "categoryMask", "df/def/a28691.html#abd8816e5dda7bda455ccd6932647c4be", null ],
-    [ "categoryType", "df/def/a28691.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
-    [ "ID", "df/def/a28691.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
+    [ "Color", "df/def/a28691.html#a670fb4e2a31958f81d46047f74d9916f", null ],
+    [ "Comparator", "df/def/a28691.html#ace0bdad11edd9db12e45d374da623793", null ],
+    [ "CompareColor", "df/def/a28691.html#a801e2221bbb1b6aab67a57381901cf08", null ],
+    [ "ID", "df/def/a28691.html#aae73769db40326d298bb1d04eef38871", null ],
+    [ "Value", "df/def/a28691.html#ac314a9a6b447d386e31a286811f66538", null ]
 ];

@@ -1,10 +1,9 @@
 var a15195 =
 [
-    [ "boss_moam", "dd/d79/a15195.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
-    [ "InitializeAI", "dd/d79/a15195.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
-    [ "JustDied", "dd/d79/a15195.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
-    [ "JustEngagedWith", "dd/d79/a15195.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
-    [ "Reset", "dd/d79/a15195.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
-    [ "SummonedCreatureDies", "dd/d79/a15195.html#a8401c5e2bd216deee197617b78d85222", null ],
-    [ "UpdateAI", "dd/d79/a15195.html#aadd8320c6194923b113967d3d6c49a5e", null ]
+    [ "spell_gen_ayamiss_swarmer_loop", "dd/d79/a15195.html#ad910e172ef6866f102fa3407f676169a", null ],
+    [ "HandleScript", "dd/d79/a15195.html#acd0dffad436cb414deb546b192957783", null ],
+    [ "Load", "dd/d79/a15195.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
+    [ "PrepareSpellScript", "dd/d79/a15195.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
+    [ "Register", "dd/d79/a15195.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
+    [ "_pathId", "dd/d79/a15195.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
 ];

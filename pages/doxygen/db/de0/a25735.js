@@ -1,5 +1,7 @@
 var a25735 =
 [
-    [ "PrepareSpellScript", "db/de0/a25735.html#adaaa520c889970d91f3f38c958efdad4", null ],
-    [ "Register", "db/de0/a25735.html#a80fe694c669aa86494bd73bfa7b8ffc8", null ]
+    [ "FilterTargets", "db/de0/a25735.html#affede599b86e05e6475fd64a60268e8e", null ],
+    [ "Load", "db/de0/a25735.html#a1343407ca8b571140ed2ecf5501bf378", null ],
+    [ "PrepareSpellScript", "db/de0/a25735.html#a12ff05520225209b476b3ba8422de1c6", null ],
+    [ "Register", "db/de0/a25735.html#ac99786385187e21fb02e65e9b9719400", null ]
 ];

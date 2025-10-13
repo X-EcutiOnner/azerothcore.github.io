@@ -1,7 +1,9 @@
 var a26519 =
 [
-    [ "HandleEffectRemove", "d6/de6/a26519.html#a814687d3938e966f8721438e1a722f77", null ],
-    [ "PrepareAuraScript", "d6/de6/a26519.html#a2144b0602501471a4001883ce9de6db3", null ],
-    [ "Register", "d6/de6/a26519.html#a9d696dc7e58692216fa1cf6cc7c011a9", null ],
-    [ "AuraEffectHandleModes", "d6/de6/a26519.html#ab291f6c6f269ec7004df39a043f49efd", null ]
+    [ "CheckProc", "d6/de6/a26519.html#ac0e2bf5c1a96ce0502561bb6bcb6ad97", null ],
+    [ "HandleDispel", "d6/de6/a26519.html#a64235032423050de10581165c57f8b0a", null ],
+    [ "HandleProc", "d6/de6/a26519.html#ab1c1196f003f7ff0bf6f6eae5bd6de9a", null ],
+    [ "PrepareAuraScript", "d6/de6/a26519.html#af7ba0eb96dca76a288dd034665822069", null ],
+    [ "Register", "d6/de6/a26519.html#ababc8b42c64740655864d2834a639384", null ],
+    [ "Validate", "d6/de6/a26519.html#a03ecf2489369cbb7a6dff555db153a96", null ]
 ];

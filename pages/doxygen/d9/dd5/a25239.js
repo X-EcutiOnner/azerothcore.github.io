@@ -1,6 +1,7 @@
 var a25239 =
 [
-    [ "HandleScript", "d9/dd5/a25239.html#a913c8c461f291ccaad2f48614c0146c6", null ],
-    [ "PrepareSpellScript", "d9/dd5/a25239.html#a18913a7455cf3f158136f2d3bb415779", null ],
-    [ "Register", "d9/dd5/a25239.html#ac24208b646e95d87fbb340d7779cb7c5", null ]
+    [ "HandleEffectPeriodic", "d9/dd5/a25239.html#a3a2e7653276964fd36c93b41aa8f25ea", null ],
+    [ "PrepareAuraScript", "d9/dd5/a25239.html#a893a539f4eeb0b9f027c5a306cc7bd53", null ],
+    [ "Register", "d9/dd5/a25239.html#a36792fd068ec7444aa118ec63cf972a7", null ],
+    [ "Validate", "d9/dd5/a25239.html#aa57af116294cfba007586506ba1dbeb5", null ]
 ];

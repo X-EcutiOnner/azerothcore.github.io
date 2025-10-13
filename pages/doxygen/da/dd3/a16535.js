@@ -1,6 +1,6 @@
 var a16535 =
 [
-    [ "npc_swarm_scarabAI", "d1/d5e/a16539.html", "d1/d5e/a16539" ],
-    [ "npc_swarm_scarab", "da/dd3/a16535.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
-    [ "GetAI", "da/dd3/a16535.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
+    [ "boss_anubarak_trialAI", "d1/d5e/a16539.html", "d1/d5e/a16539" ],
+    [ "boss_anubarak_trial", "da/dd3/a16535.html#a5204e33a412608b53cc155a043356d58", null ],
+    [ "GetAI", "da/dd3/a16535.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
 ];

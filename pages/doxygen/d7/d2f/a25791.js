@@ -1,6 +1,8 @@
 var a25791 =
 [
-    [ "HandleDummy", "d7/d2f/a25791.html#ade4c16273ebefaeefac3bfb51c61d19a", null ],
-    [ "PrepareSpellScript", "d7/d2f/a25791.html#adfa89e065aa18b3e11998331c426151a", null ],
-    [ "Register", "d7/d2f/a25791.html#ab37569c6b2362220cbce92eb184cc6db", null ]
+    [ "OnApply", "d7/d2f/a25791.html#a75b45732648d5ba90b49725a48609a89", null ],
+    [ "OnBaseRemove", "d7/d2f/a25791.html#aa6d10399bba721ff7a3651508fcdf449", null ],
+    [ "OnRemove", "d7/d2f/a25791.html#a0331b3860691db793c5a7bcf53550c6f", null ],
+    [ "PrepareAuraScript", "d7/d2f/a25791.html#a34ad4890c7ce30427537e36980057e57", null ],
+    [ "Register", "d7/d2f/a25791.html#a713e694cad6f1cf533d45f5d633da36e", null ]
 ];

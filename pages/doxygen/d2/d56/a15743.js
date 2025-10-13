@@ -1,6 +1,6 @@
 var a15743 =
 [
-    [ "SpellId", "d2/d56/a15743.html#a2c430be201c1fd866ee96224f1803a20", null ],
-    [ "Timer1", "d2/d56/a15743.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
-    [ "Timer2", "d2/d56/a15743.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
+    [ "Creature", "d2/d56/a15743.html#a77b33f8998f85808b58052079b1cab54", null ],
+    [ "TextId", "d2/d56/a15743.html#ad691f3cd40035e96547adf7528229119", null ],
+    [ "Timer", "d2/d56/a15743.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
 ];

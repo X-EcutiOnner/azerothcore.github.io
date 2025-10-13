@@ -1,9 +1,12 @@
 var a07443 =
 [
-    [ "entry", "de/d55/a07443.html#a4c6980a035279ca45e88a2ddc0beb0b5", null ],
-    [ "o", "de/d55/a07443.html#a785703f50dcafda5888fb76af82a09da", null ],
-    [ "type", "de/d55/a07443.html#aa21624a51b1fbfc474d0c64f4996cb9b", null ],
-    [ "x", "de/d55/a07443.html#a55bd18cb9ea27748a07dd91f6783de23", null ],
-    [ "y", "de/d55/a07443.html#a908fbf198d908963e77630b42deea147", null ],
-    [ "z", "de/d55/a07443.html#a4a49f5cbb58764ea9c137fc010e898c6", null ]
+    [ "CapturePointInfo", "de/d55/a07443.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
+    [ "IsUncontrolled", "de/d55/a07443.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
+    [ "IsUnderControl", "de/d55/a07443.html#a3f33897525f5104e2e7733dd6247c090", null ],
+    [ "IsUnderControl", "de/d55/a07443.html#af6b021020b120b87c300981b8bb60992", null ],
+    [ "_areaTrigger", "de/d55/a07443.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
+    [ "_barStatus", "de/d55/a07443.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
+    [ "_ownerTeamId", "de/d55/a07443.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
+    [ "_playersCount", "de/d55/a07443.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
+    [ "player", "de/d55/a07443.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
 ];

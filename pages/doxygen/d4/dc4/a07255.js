@@ -1,9 +1,11 @@
 var a07255 =
 [
-    [ "ArenaScore", "d4/dc4/a07255.html#a58f1391de4e67750dad211b10704499f", null ],
-    [ "AppendToPacket", "d4/dc4/a07255.html#a3fe2ab34a9abc4d8c4ff863334cf2c84", null ],
-    [ "BuildObjectivesBlock", "d4/dc4/a07255.html#ac96461b865fc7a9ba0cdfad6ae3fa96f", null ],
-    [ "ToString", "d4/dc4/a07255.html#ab04b30f4bfa6b1aa89e08e3195ad3b0b", null ],
-    [ "Arena", "d4/dc4/a07255.html#a5f488c25aa439166d145713c67e7d085", null ],
-    [ "PvPTeamId", "d4/dc4/a07255.html#a486ee0e05ac5160f0fb174e2a1e061bb", null ]
+    [ "WGWorkshop", "d4/dc4/a07255.html#a2d2d7b24ec77275f24efa54d31e98bbb", null ],
+    [ "GiveControlTo", "d4/dc4/a07255.html#a6b69312f4ffa562b0e8fdcf5da3568d3", null ],
+    [ "Save", "d4/dc4/a07255.html#adede1c780178f20dc8339320a021e4b6", null ],
+    [ "UpdateGraveyardAndWorkshop", "d4/dc4/a07255.html#a2ff11801fb50cd3a463c44fafbddaed4", null ],
+    [ "bf", "d4/dc4/a07255.html#ae2b7e050289ad5922ddcd73c6da9f5a5", null ],
+    [ "state", "d4/dc4/a07255.html#a279d47c85843e884edef1f82b9654cd8", null ],
+    [ "teamControl", "d4/dc4/a07255.html#a196c8d0094a34c18835840e046fd39ef", null ],
+    [ "workshopId", "d4/dc4/a07255.html#a42d7337c67e4f19886b0ec86f0e60596", null ]
 ];

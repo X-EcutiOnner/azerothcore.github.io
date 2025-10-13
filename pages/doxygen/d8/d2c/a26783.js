@@ -1,6 +1,7 @@
 var a26783 =
 [
-    [ "HandleScript", "d8/d2c/a26783.html#a54c724bd8786c894ecaa584c164c2e53", null ],
-    [ "PrepareSpellScript", "d8/d2c/a26783.html#a4505b9196609ae9339fe7e5948963663", null ],
-    [ "Register", "d8/d2c/a26783.html#ae293d6a2a477f716f357516781246069", null ]
+    [ "HandleDummy", "d8/d2c/a26783.html#a4c837e7342603519d1f23ab8702c3160", null ],
+    [ "PrepareSpellScript", "d8/d2c/a26783.html#ae9d6ab0c9b9cf87f7b86f28e9bb25371", null ],
+    [ "Register", "d8/d2c/a26783.html#a16a5ca3ec9a8c463c9a2975fa29eb1e9", null ],
+    [ "Validate", "d8/d2c/a26783.html#ad742f4ce0d0db70427f7ba849a4526df", null ]
 ];

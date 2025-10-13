@@ -1,6 +1,5 @@
 var a27623 =
 [
-    [ "guard_shattrath_aldorAI", "db/dcd/a27627.html", "db/dcd/a27627" ],
-    [ "guard_shattrath_aldor", "d0/dca/a27623.html#ab965295d9c3828ad814f658670b5f185", null ],
-    [ "GetAI", "d0/dca/a27623.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
+    [ "go_dragonflayer_cage", "d0/dca/a27623.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
+    [ "OnGossipHello", "d0/dca/a27623.html#a542530a0b84879b21a4b9982cf4300d0", null ]
 ];

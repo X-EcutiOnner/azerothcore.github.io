@@ -1,8 +1,6 @@
 var a26543 =
 [
-    [ "HandleEffectRemove", "d2/dde/a26543.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
-    [ "if", "d2/dde/a26543.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
-    [ "PrepareAuraScript", "d2/dde/a26543.html#a531f51626ae4527282ad1e628911a9ea", null ],
-    [ "Register", "d2/dde/a26543.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
-    [ "AuraEffectHandleModes", "d2/dde/a26543.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
+    [ "HandleDummyEffect", "d2/dde/a26543.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
+    [ "PrepareSpellScript", "d2/dde/a26543.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
+    [ "Register", "d2/dde/a26543.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
 ];

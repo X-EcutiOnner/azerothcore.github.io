@@ -1,6 +1,6 @@
 var a21543 =
 [
-    [ "npc_ichor_globuleAI", "db/dbc/a21547.html", "db/dbc/a21547" ],
-    [ "npc_ichor_globule", "da/d26/a21543.html#a4dbd3b057e319ba83e0e1c94b99cd2ab", null ],
-    [ "GetAI", "da/d26/a21543.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2", null ]
+    [ "boss_ichoronAI", "db/dbc/a21547.html", "db/dbc/a21547" ],
+    [ "boss_ichoron", "da/d26/a21543.html#ad4390da77a130edaf050d0bef3926882", null ],
+    [ "GetAI", "da/d26/a21543.html#a68051088dc2d2c738b042e2df0436b28", null ]
 ];

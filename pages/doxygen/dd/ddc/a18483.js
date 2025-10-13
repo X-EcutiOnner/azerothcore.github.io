@@ -1,6 +1,6 @@
 var a18483 =
 [
-    [ "HandleScript", "dd/ddc/a18483.html#aa05c6e510e933a71a6bce8d653632ebd", null ],
-    [ "PrepareSpellScript", "dd/ddc/a18483.html#add6b78f0396a34c36e0dff1928889e43", null ],
-    [ "Register", "dd/ddc/a18483.html#a587247f7417cefa2b8aa5a8edb8e2616", null ]
+    [ "npc_icc_ice_sphereAI", "d8/dc6/a18487.html", "d8/dc6/a18487" ],
+    [ "npc_icc_ice_sphere", "dd/ddc/a18483.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
+    [ "GetAI", "dd/ddc/a18483.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
 ];

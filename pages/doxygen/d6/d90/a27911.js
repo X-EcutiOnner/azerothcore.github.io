@@ -1,5 +1,6 @@
 var a27911 =
 [
-    [ "npc_controller", "d6/d90/a27911.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
-    [ "OnCharmed", "d6/d90/a27911.html#a69628677de225d76a8c89b4626e0f32b", null ]
+    [ "npc_fireworkAI", "d2/da1/a27915.html", "d2/da1/a27915" ],
+    [ "npc_firework", "d6/d90/a27911.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
+    [ "GetAI", "d6/d90/a27911.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
 ];

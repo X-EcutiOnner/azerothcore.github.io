@@ -1,7 +1,6 @@
 var a21439 =
 [
-    [ "HandleScript", "db/d85/a21439.html#a47b991c20c523d151893fefd9d487714", null ],
-    [ "PrepareSpellScript", "db/d85/a21439.html#ab2db47d0a2694c0734db600e810e190d", null ],
-    [ "Register", "db/d85/a21439.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
-    [ "Validate", "db/d85/a21439.html#a89d601f6036fe38238767281f3427e54", null ]
+    [ "boss_archavonAI", "df/d59/a21443.html", "df/d59/a21443" ],
+    [ "boss_archavon", "db/d85/a21439.html#a44e20480f8d86cf763afe67de49c6c33", null ],
+    [ "GetAI", "db/d85/a21439.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
 ];

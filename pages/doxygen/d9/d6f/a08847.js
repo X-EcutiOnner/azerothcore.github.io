@@ -1,9 +1,8 @@
 var a08847 =
 [
-    [ "TransportBase", "d9/d6f/a08847.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
-    [ "~TransportBase", "d9/d6f/a08847.html#a81dca3435a1a1666a90acd8e154e3287", null ],
-    [ "CalculatePassengerOffset", "d9/d6f/a08847.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
-    [ "CalculatePassengerOffset", "d9/d6f/a08847.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
-    [ "CalculatePassengerPosition", "d9/d6f/a08847.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
-    [ "CalculatePassengerPosition", "d9/d6f/a08847.html#a328fbc464c56eca89138380182a0108c", null ]
+    [ "VehicleSeat", "d9/d6f/a08847.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c", null ],
+    [ "IsEmpty", "d9/d6f/a08847.html#a9f68076857cb85ee7679f04043acdedc", null ],
+    [ "Passenger", "d9/d6f/a08847.html#ac334f2f573bf52f164d570f8b83fc197", null ],
+    [ "SeatAddon", "d9/d6f/a08847.html#a3c46401aa5859287e4bcb24141c848cc", null ],
+    [ "SeatInfo", "d9/d6f/a08847.html#add0cf92d445f6ea0cf910b0bc0d80b62", null ]
 ];

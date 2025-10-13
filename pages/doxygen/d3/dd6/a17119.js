@@ -1,5 +1,6 @@
 var a17119 =
 [
-    [ "at_hor_shadow_throne", "d3/dd6/a17119.html#a342808808be75079acf6a2f930afe930", null ],
-    [ "OnTrigger", "d3/dd6/a17119.html#a0166b1a58f4171c4d9893010df5831c4", null ]
+    [ "npc_hor_spiritual_reflectionAI", "dd/d93/a17123.html", "dd/d93/a17123" ],
+    [ "npc_hor_spiritual_reflection", "d3/dd6/a17119.html#a5f43c7b336335698468092f72c804fea", null ],
+    [ "GetAI", "d3/dd6/a17119.html#ab6aafc6db10943662fb66b0f77fc34ec", null ]
 ];

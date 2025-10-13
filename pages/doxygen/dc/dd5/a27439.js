@@ -1,5 +1,5 @@
 var a27439 =
 [
-    [ "go_ethereum_stasis", "dc/dd5/a27439.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
-    [ "OnGossipHello", "dc/dd5/a27439.html#ac36da8dccbebcaee605a878df3904c60", null ]
+    [ "MarkOfNatureTargetSelector", "dc/dd5/a27439.html#ae737da5ff93360fde8c4c818f41d7853", null ],
+    [ "operator()", "dc/dd5/a27439.html#a1515fd40dcccaba5947e93eabf241336", null ]
 ];

@@ -1,9 +1,7 @@
 var a15171 =
 [
-    [ "spell_gen_ayamiss_swarmer_loop", "d3/df5/a15171.html#ad910e172ef6866f102fa3407f676169a", null ],
-    [ "HandleScript", "d3/df5/a15171.html#acd0dffad436cb414deb546b192957783", null ],
-    [ "Load", "d3/df5/a15171.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
-    [ "PrepareSpellScript", "d3/df5/a15171.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
-    [ "Register", "d3/df5/a15171.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
-    [ "_pathId", "d3/df5/a15171.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
+    [ "npc_hive_zara_larva", "d3/df5/a15171.html#a50fb5738d7b0818689216fee0915a0de", null ],
+    [ "JustSummoned", "d3/df5/a15171.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
+    [ "MovementInform", "d3/df5/a15171.html#a6890c58106450d654062f548a80cb42f", null ],
+    [ "_instance", "d3/df5/a15171.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
 ];

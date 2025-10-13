@@ -1,6 +1,7 @@
 var a24907 =
 [
-    [ "CheckCast", "d2/df2/a24907.html#a583e19667a83ada4cd793fbf391f9e93", null ],
-    [ "PrepareSpellScript", "d2/df2/a24907.html#ac6adda0dbe544cf2457060647c01de0f", null ],
-    [ "Register", "d2/df2/a24907.html#a50d1284f1113bfdd0b39690efabe6b9b", null ]
+    [ "AfterApply", "d2/df2/a24907.html#a1849f49a9682627753b8bd39b3ff827e", null ],
+    [ "AfterRemove", "d2/df2/a24907.html#a7c08bea735cd36840463aa942e7529b4", null ],
+    [ "PrepareAuraScript", "d2/df2/a24907.html#ad27880f797137cae09381e860727e2f7", null ],
+    [ "Register", "d2/df2/a24907.html#a6c105609c1ee61a8f845018550b2e3ba", null ]
 ];

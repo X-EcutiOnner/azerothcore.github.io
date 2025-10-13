@@ -1,7 +1,8 @@
 var a13927 =
 [
-    [ "HandleScript", "d4/d26/a13927.html#acd4373ab762d00d262984c36190d6f93", null ],
-    [ "PrepareSpellScript", "d4/d26/a13927.html#a113216b272d0386f248a75bfcf30c6a3", null ],
-    [ "Register", "d4/d26/a13927.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
-    [ "Validate", "d4/d26/a13927.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
+    [ "npc_varian_wrynnAI", "d7/d92/a13931.html", "d7/d92/a13931" ],
+    [ "npc_varian_wrynn", "d4/d26/a13927.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "d4/d26/a13927.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "d4/d26/a13927.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "d4/d26/a13927.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

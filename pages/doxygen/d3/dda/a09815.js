@@ -1,8 +1,9 @@
 var a09815 =
 [
-    [ "EllipseBoundary", "d3/dda/a09815.html#aeb8c822a8c4c745de0c848721a624545", null ],
-    [ "IsWithinBoundaryArea", "d3/dda/a09815.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
-    [ "_center", "d3/dda/a09815.html#aa84bae8bced77e38fec652e473cf39c7", null ],
-    [ "_radiusYSq", "d3/dda/a09815.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
-    [ "_scaleXSq", "d3/dda/a09815.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
+    [ "RectangleBoundary", "d3/dda/a09815.html#af401f84700a15fa1d4fcf78358a74735", null ],
+    [ "IsWithinBoundaryArea", "d3/dda/a09815.html#a2d6c735d080382263a401d91da37b934", null ],
+    [ "_maxX", "d3/dda/a09815.html#a3eff421dfe942634814e7526334f1c07", null ],
+    [ "_maxY", "d3/dda/a09815.html#a9ec96dfb6b1ee804cceaae2f2dce6a22", null ],
+    [ "_minX", "d3/dda/a09815.html#a77db64ebe7e7f5e9621bbbd6e38837e1", null ],
+    [ "_minY", "d3/dda/a09815.html#af5a7e35d5d9ff23c722643141f01a916", null ]
 ];

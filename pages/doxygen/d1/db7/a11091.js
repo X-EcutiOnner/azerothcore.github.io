@@ -1,7 +1,9 @@
 var a11091 =
 [
-    [ "OpcodeHandler", "de/d4c/a04794.html#gad7dc8101b537abe699b18ae8de444a81", null ],
-    [ "~OpcodeHandler", "de/d4c/a04794.html#ga5400057a3d849035aedda259828a5af5", null ],
-    [ "Name", "de/d4c/a04794.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
-    [ "Status", "de/d4c/a04794.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
+    [ "TotemCreated", "d1/db7/a11091.html#a24c9e483d1edb526330311c719d750df", null ],
+    [ "Write", "d1/db7/a11091.html#a554900ae7442f00a63c983ea7ea74510", null ],
+    [ "Duration", "d1/db7/a11091.html#aff6335b86ac051bccb623124905c7180", null ],
+    [ "Slot", "d1/db7/a11091.html#a0889c816fbef728f1a0a6c530c801eac", null ],
+    [ "SpellID", "d1/db7/a11091.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
+    [ "Totem", "d1/db7/a11091.html#a684d15c5368e8065c78e9320eebb676b", null ]
 ];

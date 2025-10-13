@@ -1,9 +1,6 @@
 var a08731 =
 [
-    [ "ProcTriggeredData", "da/dc6/a08731.html#a37c5cbfd0b916b950a0e638223394de4", null ],
-    [ "operator==", "da/dc6/a08731.html#a787760cbd8a6ee5192975bc514886159", null ],
-    [ "aura", "da/dc6/a08731.html#a5138144d49900690bb15a5f66b763eac", null ],
-    [ "effMask", "da/dc6/a08731.html#a1c2bfb3e0016ba823e12b3defe373790", null ],
-    [ "spellProcEvent", "da/dc6/a08731.html#ac6e491a7ef478d271d3c74d7b9df577e", null ],
-    [ "triggerSpelId", "da/dc6/a08731.html#abfd99a1e3beb871a3cbf83d7578ec98a", null ]
+    [ "SplineHandler", "da/dc6/a08731.html#a7c5aac2d12e13bad1c38c4e8860ed27f", null ],
+    [ "operator()", "da/dc6/a08731.html#aa5d1bddc2435eee76f493229740ecf9e", null ],
+    [ "_unit", "da/dc6/a08731.html#aaafb07271736d8bc89d07aafbbae7f25", null ]
 ];

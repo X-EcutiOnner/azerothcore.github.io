@@ -1,7 +1,5 @@
 var a18947 =
 [
-    [ "OnPeriodic", "d5/d10/a18947.html#a32c4b856d6248062fbdc1dea13d876ac", null ],
-    [ "PrepareAuraScript", "d5/d10/a18947.html#a87260a1cd06190f5412f3cab0f448a01", null ],
-    [ "Register", "d5/d10/a18947.html#a00827210671b959a030655f6be5edac6", null ],
-    [ "Validate", "d5/d10/a18947.html#a7163fb09fd8568a7ef5a5c37147ed5b0", null ]
+    [ "at_icc_start_frostwing_gauntlet", "d5/d10/a18947.html#a285cd9046d5658fc5d917c3427bbbe83", null ],
+    [ "OnTrigger", "d5/d10/a18947.html#a7137166f281876f00d4e03c846875d85", null ]
 ];

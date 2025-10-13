@@ -1,7 +1,7 @@
 var a01652 =
 [
-    [ "DisableData", "dc/d13/a07915.html", "dc/d13/a07915" ],
-    [ "DisableMgr", "dc/de6/a07919.html", "dc/de6/a07919" ],
+    [ "DisableData", "df/d74/a07923.html", "df/d74/a07923" ],
+    [ "DisableMgr", "d4/d6a/a07927.html", "d4/d6a/a07927" ],
     [ "sDisableMgr", "d0/dc0/a01652.html#a1a184d22bd27210ea5af79573927826a", null ],
     [ "DisableType", "d0/dc0/a01652.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64c", [
       [ "DISABLE_TYPE_SPELL", "d0/dc0/a01652.html#affa2a0d7ee61f6e1bc7c6cb7d2c1b64ca0f70e5147b74bccf96a1ff907ae92c27", null ],

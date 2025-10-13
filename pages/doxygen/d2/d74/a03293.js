@@ -1,5 +1,5 @@
 var a03293 =
 [
-    [ "reset_commandscript", "d1/d2c/a11911.html", "d1/d2c/a11911" ],
-    [ "AddSC_reset_commandscript", "d2/d74/a03293.html#ae4c7679595ac3aac5f03426eb6e0e6e4", null ]
+    [ "cheat_commandscript", "d0/dd1/a11807.html", "d0/dd1/a11807" ],
+    [ "AddSC_cheat_commandscript", "d2/d74/a03293.html#aafc88882ff0af0beb4632ec2c929fc8c", null ]
 ];

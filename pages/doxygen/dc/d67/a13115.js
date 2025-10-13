@@ -1,5 +1,6 @@
 var a13115 =
 [
-    [ "go_acherus_soul_prison", "dc/d67/a13115.html#a13c858f74080b8f7963fdacc4b554019", null ],
-    [ "OnGossipHello", "dc/d67/a13115.html#a904059cbeac3ddb3acf07ec1afe78c37", null ]
+    [ "npc_dkc1_gothikAI", "d0/ddd/a13119.html", "d0/ddd/a13119" ],
+    [ "npc_dkc1_gothik", "dc/d67/a13115.html#ae4a6aec0235b01044ebd5c9c71d400d9", null ],
+    [ "GetAI", "dc/d67/a13115.html#aeb285cf6977cfab5d337f51ae41907ec", null ]
 ];

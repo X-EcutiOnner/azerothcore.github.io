@@ -1,7 +1,6 @@
 var a19775 =
 [
-    [ "HandleScript", "d4/d98/a19775.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
-    [ "PrepareSpellScript", "d4/d98/a19775.html#a34337690029eedb60a17572dbbf1e1f9", null ],
-    [ "Register", "d4/d98/a19775.html#ad554d79e1a98490085b22f5038d058da", null ],
-    [ "Validate", "d4/d98/a19775.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
+    [ "boss_krystallusAI", "dc/d18/a19779.html", "dc/d18/a19779" ],
+    [ "boss_krystallus", "d4/d98/a19775.html#a1d7453c9d67594bfdbd650fea897666a", null ],
+    [ "GetAI", "d4/d98/a19775.html#aba14bcfa00a5d997959abd94af647bf4", null ]
 ];

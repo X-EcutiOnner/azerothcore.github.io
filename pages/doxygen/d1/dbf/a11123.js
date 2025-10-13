@@ -1,8 +1,7 @@
 var a11123 =
 [
-    [ "ServerPktHeader", "d1/dbf/a11123.html#a761e294fccc02055a46bfc46656da706", null ],
-    [ "getHeaderLength", "d1/dbf/a11123.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
-    [ "isLargePacket", "d1/dbf/a11123.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
-    [ "header", "d1/dbf/a11123.html#adc69128832b16124c284c584e7540b11", null ],
-    [ "size", "d1/dbf/a11123.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
+    [ "OpcodeHandler", "d3/d7d/a04797.html#gad7dc8101b537abe699b18ae8de444a81", null ],
+    [ "~OpcodeHandler", "d3/d7d/a04797.html#ga5400057a3d849035aedda259828a5af5", null ],
+    [ "Name", "d3/d7d/a04797.html#ga0f1d1acde7c65e2b5c29357b232a7061", null ],
+    [ "Status", "d3/d7d/a04797.html#gace7959058ad5b5e617c7b043f5c63b7c", null ]
 ];

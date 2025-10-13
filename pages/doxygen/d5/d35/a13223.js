@@ -1,8 +1,7 @@
 var a13223 =
 [
-    [ "HandleHit", "d5/d35/a13223.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
-    [ "PrepareSpellScript", "d5/d35/a13223.html#a53f170244b390f7035e131fb5c79cb3f", null ],
-    [ "Register", "d5/d35/a13223.html#a248124b837cf71f7d422154db4581747", null ],
-    [ "Validate", "d5/d35/a13223.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
-    [ "_emote", "d5/d35/a13223.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
+    [ "HandleHit", "d5/d35/a13223.html#aa06c722fbd75f11fa3ba43c77e68f15f", null ],
+    [ "Load", "d5/d35/a13223.html#affe2cd261752db89b1b418eb18a3370c", null ],
+    [ "PrepareSpellScript", "d5/d35/a13223.html#a90a11fb3309325c93e7c052e172a0d0b", null ],
+    [ "Register", "d5/d35/a13223.html#aaadaf49a3757e78d69ffc32768945d16", null ]
 ];

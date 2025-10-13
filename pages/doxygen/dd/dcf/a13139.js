@@ -1,6 +1,6 @@
 var a13139 =
 [
-    [ "HandleScriptEffect", "dd/dcf/a13139.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
-    [ "PrepareSpellScript", "dd/dcf/a13139.html#ad110e0dba330acde845c47501256cf5d", null ],
-    [ "Register", "dd/dcf/a13139.html#ab6971aa466055a1280cd258e26645157", null ]
+    [ "npc_unworthy_initiate_anchorAI", "d0/d10/a13143.html", "d0/d10/a13143" ],
+    [ "npc_unworthy_initiate_anchor", "dd/dcf/a13139.html#a3d4c6d9e5ffa66d3424297b27e5ac4a1", null ],
+    [ "GetAI", "dd/dcf/a13139.html#ab012983661d20a3ffa4f58136bd2d808", null ]
 ];

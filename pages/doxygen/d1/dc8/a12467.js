@@ -1,7 +1,10 @@
 var a12467 =
 [
-    [ "HandleDummy", "d1/dc8/a12467.html#a21c5eb1511cb4035f795ff1d22797e34", null ],
-    [ "PrepareSpellScript", "d1/dc8/a12467.html#a5308de47023b89e4ff8680158a502ac0", null ],
-    [ "Register", "d1/dc8/a12467.html#a5f148d259b1102b1046e6a3ac096fea8", null ],
-    [ "Validate", "d1/dc8/a12467.html#a75f89d90b9e68288e54e1e0bd3b2ce98", null ]
+    [ "npc_corrupted_totem", "d1/dc8/a12467.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
+    [ "IsSummonedBy", "d1/dc8/a12467.html#ae8314903c9006b7bca94a47115a0d05b", null ],
+    [ "JustDied", "d1/dc8/a12467.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
+    [ "Reset", "d1/dc8/a12467.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
+    [ "SetAura", "d1/dc8/a12467.html#a509688befda49f789f77ee0e4170a74e", null ],
+    [ "UpdateAI", "d1/dc8/a12467.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
+    [ "_auraAdded", "d1/dc8/a12467.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
 ];

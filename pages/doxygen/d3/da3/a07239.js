@@ -1,7 +1,10 @@
 var a07239 =
 [
-    [ "attackText", "d3/da3/a07239.html#a9c1319033a432ca0db51a9a1545aa7af", null ],
-    [ "id", "d3/da3/a07239.html#a7f28adc30e9293df2f2c124469550d75", null ],
-    [ "takenText", "d3/da3/a07239.html#a55ccbd94fe08ecc99f5be97b96761f68", null ],
-    [ "worldstate", "d3/da3/a07239.html#a342ef087df4f9326952728c2192a3da3", null ]
+    [ "CreatureBottom", "d3/da3/a07239.html#aaa8fe59aa58bf02934bf87f636582637", null ],
+    [ "CreatureTop", "d3/da3/a07239.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
+    [ "GameObject", "d3/da3/a07239.html#abc26a328692fc048d9040c44f360f4c4", null ],
+    [ "nbCreatureBottom", "d3/da3/a07239.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
+    [ "nbCreatureTop", "d3/da3/a07239.html#a38ab7536e0682efd7080b823569d504b", null ],
+    [ "nbObject", "d3/da3/a07239.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
+    [ "towerEntry", "d3/da3/a07239.html#a1c0edf97a599773b688954f2e966e794", null ]
 ];

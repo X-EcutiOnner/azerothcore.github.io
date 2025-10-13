@@ -1,7 +1,4 @@
 var a14671 =
 [
-    [ "HandleEffectApply", "db/d91/a14671.html#a404f2134734e1d21201033b3f26e611e", null ],
-    [ "HandleEffectPeriodic", "db/d91/a14671.html#a8ce6799e01cf8b7849386fbdd2edddb8", null ],
-    [ "PrepareAuraScript", "db/d91/a14671.html#a1707f92d77a3ed7beefd499adc7f4a95", null ],
-    [ "Register", "db/d91/a14671.html#ad239472c15ca0c73b053d112f538ecff", null ]
+    [ "npc_midsummer_bonfire_despawner", "db/d91/a14671.html#aacb82b08ec0fef0f53d7e251e010abd8", null ]
 ];

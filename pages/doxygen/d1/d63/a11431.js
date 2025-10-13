@@ -1,10 +1,7 @@
 var a11431 =
 [
-    [ "TargetHook", "d1/d63/a11431.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
-    [ "CheckEffect", "d1/d63/a11431.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
-    [ "GetTarget", "d1/d63/a11431.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
-    [ "ToString", "d1/d63/a11431.html#a424e03e457dc15a2689f344e614a882f", null ],
-    [ "area", "d1/d63/a11431.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
-    [ "dest", "d1/d63/a11431.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
-    [ "targetType", "d1/d63/a11431.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
+    [ "EffectNameCheck", "d1/d63/a11431.html#aa82307388bdda7864bb085a349b63f29", null ],
+    [ "Check", "d1/d63/a11431.html#a729d7f07669dedec50f009a87b8f32a4", null ],
+    [ "ToString", "d1/d63/a11431.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
+    [ "effName", "d1/d63/a11431.html#a905224fb028ea0eab350773b7230f871", null ]
 ];

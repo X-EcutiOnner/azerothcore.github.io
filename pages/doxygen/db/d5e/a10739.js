@@ -1,6 +1,7 @@
 var a10739 =
 [
-    [ "GuildBankRemainingWithdrawMoney", "db/d5e/a10739.html#afdb4e226091e8280b4ef26bd51edebdd", null ],
-    [ "Write", "db/d5e/a10739.html#aecc28f8734a66c562c7baa1575b07ff9", null ],
-    [ "RemainingWithdrawMoney", "db/d5e/a10739.html#a015ba615ebe4ea09df8233f6a85332f4", null ]
+    [ "GuildBankActivate", "db/d5e/a10739.html#a5b27541a26ada694d9635f6d6873ef20", null ],
+    [ "Read", "db/d5e/a10739.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
+    [ "Banker", "db/d5e/a10739.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
+    [ "FullUpdate", "db/d5e/a10739.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
 ];

@@ -1,6 +1,6 @@
 var a18259 =
 [
-    [ "CheckProc", "de/d46/a18259.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "de/d46/a18259.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "de/d46/a18259.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "UnchainedMagicTargetSelector", "de/d46/a18259.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
+    [ "operator()", "de/d46/a18259.html#af28ce8f46154ae6152e9025775a7f84f", null ],
+    [ "_removeHealers", "de/d46/a18259.html#a35a7981ce5495cba8b3a5391e4031431", null ]
 ];

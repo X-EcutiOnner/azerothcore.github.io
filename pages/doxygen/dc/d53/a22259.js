@@ -1,7 +1,6 @@
 var a22259 =
 [
-    [ "HandleScriptEffect", "dc/d53/a22259.html#a7b0fca053f225beda41942d8fee86383", null ],
-    [ "PrepareSpellScript", "dc/d53/a22259.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
-    [ "Register", "dc/d53/a22259.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
-    [ "Validate", "dc/d53/a22259.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
+    [ "npc_razael_and_lyana", "dc/d53/a22259.html#aec7257a1136a3580e2b4542e032429d6", null ],
+    [ "OnGossipHello", "dc/d53/a22259.html#a9c9085db92853d5275c12e804a68b0fc", null ],
+    [ "OnGossipSelect", "dc/d53/a22259.html#a407d8344280e8e38efb3991fda1d52cd", null ]
 ];

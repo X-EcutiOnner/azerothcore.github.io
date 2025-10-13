@@ -1,5 +1,9 @@
 var a06079 =
 [
-    [ "changed", "d9/db8/a06079.html#a98ad429a8aa7a190e94f943a2ec5edf2", null ],
-    [ "date", "d9/db8/a06079.html#a3c6c1cca7f125fc98323669e4e9c775d", null ]
+    [ "itemId", "d9/db8/a06079.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
+    [ "mailTemplate", "d9/db8/a06079.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
+    [ "sender", "d9/db8/a06079.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
+    [ "subject", "d9/db8/a06079.html#a45644f308278529f822080f8274180d8", null ],
+    [ "text", "d9/db8/a06079.html#a4d57dcb4d130552f5bf756308d79307c", null ],
+    [ "titleId", "d9/db8/a06079.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
 ];

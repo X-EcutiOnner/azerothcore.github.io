@@ -1,6 +1,6 @@
 var a16867 =
 [
-    [ "boss_novosAI", "d1/d46/a16871.html", "d1/d46/a16871" ],
-    [ "boss_novos", "dd/de5/a16867.html#a898a5ee1de69df17fde66c84dd065ac1", null ],
-    [ "GetAI", "dd/de5/a16867.html#aaf28e2a23a8139197dccc92ae29a8be4", null ]
+    [ "HandleDummy", "dd/de5/a16867.html#a84fb6e08a523f375cd8bc43e9cc73eab", null ],
+    [ "PrepareSpellScript", "dd/de5/a16867.html#accbf8f40b1ab123a2be81a514c94c836", null ],
+    [ "Register", "dd/de5/a16867.html#a1805904d5e50bbf5aeccf37d2cadd09e", null ]
 ];

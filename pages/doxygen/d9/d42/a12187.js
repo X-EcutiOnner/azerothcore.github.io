@@ -1,8 +1,11 @@
 var a12187 =
 [
-    [ "CheckProc", "d9/d42/a12187.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "d9/d42/a12187.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "d9/d42/a12187.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "d9/d42/a12187.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "d9/d42/a12187.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "boss_doomrelAI", "d9/d42/a12187.html#a231cc3989d1c575af941a5462ad94cbd", null ],
+    [ "EnterEvadeMode", "d9/d42/a12187.html#ae633f4cc1747f291a3911ca50ee39370", null ],
+    [ "JustEngagedWith", "d9/d42/a12187.html#a622f673548b0a6f1db2a59ef69f31ac7", null ],
+    [ "Reset", "d9/d42/a12187.html#aec30616ad3c84ee4b6dd92f6ac8b4fbc", null ],
+    [ "UpdateAI", "d9/d42/a12187.html#a3d851f7bd5a78858fd228cac78c05f27", null ],
+    [ "_events", "d9/d42/a12187.html#aaf800dd1d20dc8288cad5aa21cd602b0", null ],
+    [ "instance", "d9/d42/a12187.html#aa0fc44bb955e83c2ef7b7373751fc2c2", null ],
+    [ "Voidwalkers", "d9/d42/a12187.html#af29d871a370a534f508f225d49c3dc9f", null ]
 ];

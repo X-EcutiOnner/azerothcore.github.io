@@ -1,8 +1,9 @@
 var a14811 =
 [
-    [ "npc_doomfire_spirit", "de/d06/a14811.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
-    [ "Reset", "de/d06/a14811.html#a0600718fad91723eba74b903583c5942", null ],
-    [ "TryTeleportInDirection", "de/d06/a14811.html#a7fc48df636df66a006a8179fd63e2a65", null ],
-    [ "UpdateAI", "de/d06/a14811.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
-    [ "turnConstant", "de/d06/a14811.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
+    [ "boss_azuregosAI", "de/d06/a14811.html#a839ab1e096d30062d64c1c515a7462a4", null ],
+    [ "JustDied", "de/d06/a14811.html#aea4d204173b7882d2d9acf8204410947", null ],
+    [ "JustEngagedWith", "de/d06/a14811.html#ac17c09d4de27e3b3a299bb8288ef79f8", null ],
+    [ "KilledUnit", "de/d06/a14811.html#aeefc791e17d2a687f8beae809c44d123", null ],
+    [ "Reset", "de/d06/a14811.html#a3f9584a7cf4e27f57eec2c5babb7aff1", null ],
+    [ "UpdateAI", "de/d06/a14811.html#aafdfce2d21d5890ead413a2d9fe1b65d", null ]
 ];

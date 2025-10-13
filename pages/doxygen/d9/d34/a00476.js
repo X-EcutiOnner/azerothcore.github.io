@@ -1,7 +1,7 @@
 var a00476 =
 [
-    [ "IdleMovementGenerator", "dc/dfd/a10019.html", "dc/dfd/a10019" ],
-    [ "RotateMovementGenerator", "de/d38/a10023.html", "de/d38/a10023" ],
-    [ "DistractMovementGenerator", "d9/d66/a10027.html", "d9/d66/a10027" ],
-    [ "AssistanceDistractMovementGenerator", "d4/d0e/a10031.html", "d4/d0e/a10031" ]
+    [ "IdleMovementGenerator", "d9/d66/a10027.html", "d9/d66/a10027" ],
+    [ "RotateMovementGenerator", "d4/d0e/a10031.html", "d4/d0e/a10031" ],
+    [ "DistractMovementGenerator", "d5/d49/a10035.html", "d5/d49/a10035" ],
+    [ "AssistanceDistractMovementGenerator", "d0/d41/a10039.html", "d0/d41/a10039" ]
 ];

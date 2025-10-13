@@ -1,7 +1,8 @@
 var a12631 =
 [
-    [ "HandleScript", "dc/d20/a12631.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
-    [ "PrepareSpellScript", "dc/d20/a12631.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
-    [ "Register", "dc/d20/a12631.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
-    [ "Validate", "dc/d20/a12631.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
+    [ "MajordomoAddData", "dc/d20/a12631.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
+    [ "MajordomoAddData", "dc/d20/a12631.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
+    [ "creatureEntry", "dc/d20/a12631.html#ae3a0444e88158123f4d6359328e89a1d", null ],
+    [ "guid", "dc/d20/a12631.html#a2f2b0aaace557361a21d1072f36933dc", null ],
+    [ "spawnPos", "dc/d20/a12631.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
 ];

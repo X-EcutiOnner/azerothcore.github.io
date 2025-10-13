@@ -1,8 +1,10 @@
 var a14619 =
 [
-    [ "npc_love_in_air_snivel_real", "d5/df2/a14619.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
-    [ "Talk", "d5/df2/a14619.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
-    [ "UpdateAI", "d5/df2/a14619.html#a22ed25da8fe3441ef0e4183390983f40", null ],
-    [ "actionCounter", "d5/df2/a14619.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
-    [ "actionTimer", "d5/df2/a14619.html#a3bbee1ff355581772b337268775b8fbc", null ]
+    [ "boss_headless_horseman_pumpkin", "d5/df2/a14619.html#a62191ae523401ac57a947db96a245f7a", null ],
+    [ "AttackStart", "d5/df2/a14619.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
+    [ "MoveInLineOfSight", "d5/df2/a14619.html#a212f9803f66d297cd276ef842247776a", null ],
+    [ "Reset", "d5/df2/a14619.html#a9d5f6922a52146b61168f1c50b378294", null ],
+    [ "SpellHit", "d5/df2/a14619.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
+    [ "UpdateAI", "d5/df2/a14619.html#aca53b8839bce5e180ba8583490d694c3", null ],
+    [ "timer", "d5/df2/a14619.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
 ];

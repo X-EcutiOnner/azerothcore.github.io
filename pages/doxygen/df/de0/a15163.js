@@ -1,7 +1,4 @@
 var a15163 =
 [
-    [ "HandleScript", "df/de0/a15163.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
-    [ "Load", "df/de0/a15163.html#a2dc1edf537f58133fb4daabde9f43843", null ],
-    [ "PrepareSpellScript", "df/de0/a15163.html#ae856c6e70ededa95c0308596a9f980af", null ],
-    [ "Register", "df/de0/a15163.html#ac2e82c7e626658faa968f75c26688b43", null ]
+    [ "instance_razorfen_kraul_InstanceMapScript", "df/de0/a15163.html#a60715ab6220e798f16b16bcaa3714ad9", null ]
 ];

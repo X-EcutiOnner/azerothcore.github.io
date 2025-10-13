@@ -1,6 +1,6 @@
 var a22491 =
 [
-    [ "npc_wild_wyrmAI", "dd/d1e/a22495.html", "dd/d1e/a22495" ],
-    [ "npc_wild_wyrm", "d4/d4c/a22491.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
-    [ "GetAI", "d4/d4c/a22491.html#aedba91446fe12997047070f123d925d2", null ]
+    [ "npc_time_lost_proto_drakeAI", "dd/d1e/a22495.html", "dd/d1e/a22495" ],
+    [ "npc_time_lost_proto_drake", "d4/d4c/a22491.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
+    [ "GetAI", "d4/d4c/a22491.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
 ];

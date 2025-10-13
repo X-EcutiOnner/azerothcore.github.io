@@ -1,5 +1,6 @@
 var a10531 =
 [
-    [ "LogoutRequest", "d4/d0a/a10531.html#ab92b0a8a5d3d076adbd465fcf24b7975", null ],
-    [ "Read", "d4/d0a/a10531.html#a84701a16603f8b0f1e8dda1020ec1161", null ]
+    [ "GetEvent", "d4/d0a/a10531.html#aabf338a9824038abbd0934a3bef0a269", null ],
+    [ "Read", "d4/d0a/a10531.html#a344db9b28e7247dc0285a3468a789721", null ],
+    [ "EventId", "d4/d0a/a10531.html#a31de21c2af87d174d139eef870cbb5fd", null ]
 ];

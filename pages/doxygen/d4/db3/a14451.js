@@ -1,7 +1,7 @@
 var a14451 =
 [
-    [ "HandleScriptEffect", "d4/db3/a14451.html#ae758c224878aebdde0124b5d4ec902a5", null ],
-    [ "PrepareSpellScript", "d4/db3/a14451.html#ac3755ef09a905d90ce7df328b83d51aa", null ],
-    [ "Register", "d4/db3/a14451.html#a051d0fe383e5675e39e4ac8ed7a6e329", null ],
-    [ "Validate", "d4/db3/a14451.html#a56f71954e122f651c6e2ec68453e16cc", null ]
+    [ "npc_direbrew_minion", "d4/db3/a14451.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
+    [ "IsSummonedBy", "d4/db3/a14451.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
+    [ "Reset", "d4/db3/a14451.html#a21fb7a778e9025ca4185951460a96d08", null ],
+    [ "_instance", "d4/db3/a14451.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
 ];

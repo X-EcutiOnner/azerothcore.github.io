@@ -1,7 +1,6 @@
 var a15251 =
 [
-    [ "npc_hivezara_stinger", "d0/d2d/a15251.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
-    [ "JustEngagedWith", "d0/d2d/a15251.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
-    [ "Reset", "d0/d2d/a15251.html#ae8e893c90942a469628c393d5b5380cc", null ],
-    [ "UpdateAI", "d0/d2d/a15251.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
+    [ "FilterTargets", "d0/d2d/a15251.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
+    [ "PrepareSpellScript", "d0/d2d/a15251.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
+    [ "Register", "d0/d2d/a15251.html#a3168a3f97ddb38b261a0730405ba27db", null ]
 ];

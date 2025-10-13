@@ -1,10 +1,7 @@
 var a11755 =
 [
-    [ "bf_commandscript", "d7/d70/a11755.html#a806ca440ae1b51fffefee9d298dab3df", null ],
-    [ "GetCommands", "d7/d70/a11755.html#a97f0192d7ccd3532cfceaebff9f242be", null ],
-    [ "HandleBattlefieldEnable", "d7/d70/a11755.html#a08dd3bdd279c760fe0f126200a01619e", null ],
-    [ "HandleBattlefieldEnd", "d7/d70/a11755.html#af7100032ad26a66fbc9d9b37d1da98e1", null ],
-    [ "HandleBattlefieldStart", "d7/d70/a11755.html#a55102cc3b29a3ded0832ec82be1e3a5e", null ],
-    [ "HandleBattlefieldSwitch", "d7/d70/a11755.html#ac12cac377007d90b25b9797f2b2cc8de", null ],
-    [ "HandleBattlefieldTimer", "d7/d70/a11755.html#a7168b3db9435d70e2c5ca5eb41fc8ef2", null ]
+    [ "map", "d7/d70/a11755.html#ab52fa79b07a9fad5b0cf8a28669a94eb", null ],
+    [ "pallid", "d7/d70/a11755.html#a0693df9090f40b7b1b8dba0003b6092e", null ],
+    [ "pallidGuid", "d7/d70/a11755.html#ae78b3d7448e8f43a993f46208039f0b1", null ],
+    [ "zoneId", "d7/d70/a11755.html#ad035d67dce95aa1ad7a1f39b1cf7b847", null ]
 ];

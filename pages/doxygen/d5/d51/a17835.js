@@ -1,9 +1,7 @@
 var a17835 =
 [
-    [ "CheckAreaTarget", "d5/d51/a17835.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
-    [ "HandleApply", "d5/d51/a17835.html#a9ce86d32957af07313af379b4176d0b3", null ],
-    [ "HandleRemove", "d5/d51/a17835.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
-    [ "Load", "d5/d51/a17835.html#aa10821981f3e80262850e5c46449d5d0", null ],
-    [ "PrepareAuraScript", "d5/d51/a17835.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
-    [ "Register", "d5/d51/a17835.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
+    [ "npc_gunship_rocketeerAI", "d5/d51/a17835.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
+    [ "CanAIAttack", "d5/d51/a17835.html#a4b4e2839e426bdb752beea09394f13dc", null ],
+    [ "MovementInform", "d5/d51/a17835.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
+    [ "UpdateAI", "d5/d51/a17835.html#af73d71750f116fb90be1c2acba75ca70", null ]
 ];

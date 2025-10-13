@@ -1,8 +1,6 @@
 var a14027 =
 [
-    [ "FilterTargets", "d4/d64/a14027.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
-    [ "OnHit", "d4/d64/a14027.html#ac25886536c353f09838188362fb8ae84", null ],
-    [ "PrepareSpellScript", "d4/d64/a14027.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
-    [ "Register", "d4/d64/a14027.html#afa419365236c09914f758846978e2cbb", null ],
-    [ "Validate", "d4/d64/a14027.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
+    [ "cooldown", "d4/d64/a14027.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
+    [ "spell", "d4/d64/a14027.html#a00ee3238030686e1cc66562f7cefb27a", null ],
+    [ "target", "d4/d64/a14027.html#a16e54dbd059baac1b6e7229621339d83", null ]
 ];

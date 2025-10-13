@@ -1,5 +1,10 @@
 var a10599 =
 [
-    [ "GuildGetInfo", "d8/d93/a10599.html#a585a6a49fe9747d5044ac185f1236cf5", null ],
-    [ "Read", "d8/d93/a10599.html#aa2b107f35fcf348fb7f84c2971c5fa00", null ]
+    [ "EnvironmentalDamageLog", "d8/d93/a10599.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
+    [ "Write", "d8/d93/a10599.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
+    [ "Absorbed", "d8/d93/a10599.html#a443df04be3afe2021532716140ffb099", null ],
+    [ "Amount", "d8/d93/a10599.html#a073e22176d44f5806313c2a4bd3e263a", null ],
+    [ "Resisted", "d8/d93/a10599.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
+    [ "Type", "d8/d93/a10599.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
+    [ "Victim", "d8/d93/a10599.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
 ];

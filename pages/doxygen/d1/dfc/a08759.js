@@ -1,21 +1,8 @@
 var a08759 =
 [
-    [ "HealInfo", "d1/dfc/a08759.html#a25fe1984f6c3ef5eeb90049ef4749437", null ],
-    [ "AbsorbHeal", "d1/dfc/a08759.html#ae656cf383df85bb88c6486e5aac1df5b", null ],
-    [ "GetAbsorb", "d1/dfc/a08759.html#a3a29dc8e520997a58c7da005945d96e2", null ],
-    [ "GetEffectiveHeal", "d1/dfc/a08759.html#a3d5391116c63cc0a3cacb2cab1512a01", null ],
-    [ "GetHeal", "d1/dfc/a08759.html#af95a6d6c94a72874c150a3deabce20ee", null ],
-    [ "GetHealer", "d1/dfc/a08759.html#a2139bd1efadb23063a67d3fef35b424d", null ],
-    [ "GetSchoolMask", "d1/dfc/a08759.html#aca2b1e31608a7c186a06e9bbe8977a9d", null ],
-    [ "GetSpellInfo", "d1/dfc/a08759.html#a53b73d5b297e341be237723269c7644d", null ],
-    [ "GetTarget", "d1/dfc/a08759.html#ae7a08b2e27a5ac316ed2d3bca7d2395d", null ],
-    [ "SetEffectiveHeal", "d1/dfc/a08759.html#ac3564eb034d66a0d0199e5412db82ba8", null ],
-    [ "SetHeal", "d1/dfc/a08759.html#a622e0993c76b43f30d9cc774c70a92b0", null ],
-    [ "m_absorb", "d1/dfc/a08759.html#a383cc7bb4d30dd72cbfeaedd9b5d5042", null ],
-    [ "m_effectiveHeal", "d1/dfc/a08759.html#a0a00b20efbeb2e5bf515dc98e96aa12d", null ],
-    [ "m_heal", "d1/dfc/a08759.html#af0a2d7c40710cabbb88122de2650c705", null ],
-    [ "m_healer", "d1/dfc/a08759.html#ad291e8e65eb0a9a9054ac1827cf0d315", null ],
-    [ "m_schoolMask", "d1/dfc/a08759.html#af2fd7934b1b1cd08dd4dcfeadc9c02df", null ],
-    [ "m_spellInfo", "d1/dfc/a08759.html#a68d6d63fdd1efb458615e24f65e643be", null ],
-    [ "m_target", "d1/dfc/a08759.html#a3a13a815e870e6745888ed082e8498e8", null ]
+    [ "CleanDamage", "d1/dfc/a08759.html#ad25ab816a679e323c07873efbc1c2f20", null ],
+    [ "absorbed_damage", "d1/dfc/a08759.html#a7ba8e32e564b43915889a23ecb9d5297", null ],
+    [ "attackType", "d1/dfc/a08759.html#ad9b56ae5faabe67a8fdec8cd5a7988b1", null ],
+    [ "hitOutCome", "d1/dfc/a08759.html#a040977b1579b62695b4cbcf0c2ffeaa8", null ],
+    [ "mitigated_damage", "d1/dfc/a08759.html#a6aeffc94560ac510c0b89e4384a2f41a", null ]
 ];

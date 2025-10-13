@@ -1,6 +1,6 @@
 var a17279 =
 [
-    [ "npc_pos_collapsing_icicleAI", "d6/d00/a17283.html", "d6/d00/a17283" ],
-    [ "npc_pos_collapsing_icicle", "d2/dd7/a17279.html#a42b29fe5d4e106c1e5e5b866a0074664", null ],
-    [ "GetAI", "d2/dd7/a17279.html#a96969ebe749b49ceb38920c63ec6fce3", null ]
+    [ "npc_pos_icicle_triggerAI", "d6/d00/a17283.html", "d6/d00/a17283" ],
+    [ "npc_pos_icicle_trigger", "d2/dd7/a17279.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
+    [ "GetAI", "d2/dd7/a17279.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
 ];

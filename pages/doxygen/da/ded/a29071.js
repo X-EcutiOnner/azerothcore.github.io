@@ -1,7 +1,12 @@
 var a29071 =
 [
-    [ "_pad", "da/ded/a29071.html#ad6e8aff776dfb6fa95c30d0318b3af25", null ],
-    [ "Count", "da/ded/a29071.html#ac90dd584efc679554d4cee31c988c7c8", null ],
-    [ "Name", "da/ded/a29071.html#ae93b772cbbe91b9ed55c78e22317c8dd", null ],
-    [ "StartIndex", "da/ded/a29071.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa", null ]
+    [ "Bounds", "da/ded/a29071.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
+    [ "DoodadSet", "da/ded/a29071.html#abbf6e50e76b120be17215cfcf227a524", null ],
+    [ "Flags", "da/ded/a29071.html#a06f5e96119239356eea45b9acdadf6e1", null ],
+    [ "Id", "da/ded/a29071.html#a952442c180e8d3710af31272b54eb6ec", null ],
+    [ "NameSet", "da/ded/a29071.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
+    [ "Position", "da/ded/a29071.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
+    [ "Rotation", "da/ded/a29071.html#a2c04715e800b9f375c287cced96643d1", null ],
+    [ "Scale", "da/ded/a29071.html#a142716fecae07abc013c7f3bd053c0ea", null ],
+    [ "UniqueId", "da/ded/a29071.html#a749e920740b9e91547fe1f87933d1c7d", null ]
 ];

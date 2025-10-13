@@ -1,7 +1,8 @@
 var a09843 =
 [
-    [ "ownerGUID", "d2/d90/a09843.html#a3c89974ea78b732cbffb8a9d482d403b", null ],
-    [ "script", "d2/d90/a09843.html#ad995c862431acd9d45cc12c9d5c8b319", null ],
-    [ "sourceGUID", "d2/d90/a09843.html#acafb40cbd1e73152f9dbf390f1fc98f3", null ],
-    [ "targetGUID", "d2/d90/a09843.html#a1505a3b9a6de23dcd6b2847207a279ca", null ]
+    [ "BoundaryIntersectBoundary", "d2/d90/a09843.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
+    [ "~BoundaryIntersectBoundary", "d2/d90/a09843.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
+    [ "IsWithinBoundaryArea", "d2/d90/a09843.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
+    [ "_b1", "d2/d90/a09843.html#ab0239437fa92e39d144bf3856eb347c7", null ],
+    [ "_b2", "d2/d90/a09843.html#a41e100c17db99990981293399660824c", null ]
 ];

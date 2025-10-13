@@ -1,7 +1,6 @@
 var a09895 =
 [
-    [ "MapPreloadRequest", "d7/dd7/a09895.html#abb217a11f2b2ed7716cad33e0fd667e7", null ],
-    [ "call", "d7/dd7/a09895.html#a688f4e2c5517c29c10c0810325211b50", null ],
-    [ "_mapId", "d7/dd7/a09895.html#aa207469ff8369f9b5559b35404d16847", null ],
-    [ "_updater", "d7/dd7/a09895.html#ae6d0d229c7cd04152fd54d03aa69306a", null ]
+    [ "UpdateRequest", "d7/dd7/a09895.html#a23b3dbcff54691b2710109a822a486a0", null ],
+    [ "~UpdateRequest", "d7/dd7/a09895.html#a240bdc56685c270c597588231c3bf8f8", null ],
+    [ "call", "d7/dd7/a09895.html#a8221fa415f828a4866f85f3983f7dab9", null ]
 ];

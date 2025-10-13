@@ -1,6 +1,10 @@
 var a11899 =
 [
-    [ "player_settings_commandscript", "db/d10/a11899.html#ab8585064d4d358d7d48eed97379a3a78", null ],
-    [ "GetCommands", "db/d10/a11899.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
-    [ "HandleSettingsAnnouncerFlags", "db/d10/a11899.html#af505117caa66ed4222e52ff91c486b6e", null ]
+    [ "mmaps_commandscript", "db/d10/a11899.html#a1dbdfd26bdb685315a3012453080a56f", null ],
+    [ "GetCommands", "db/d10/a11899.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
+    [ "HandleMmapLoadedTilesCommand", "db/d10/a11899.html#a40d5b7e733298210c686fe89490b6f61", null ],
+    [ "HandleMmapLocCommand", "db/d10/a11899.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
+    [ "HandleMmapPathCommand", "db/d10/a11899.html#a2c876439ad6d9ff7523f140d97743dea", null ],
+    [ "HandleMmapStatsCommand", "db/d10/a11899.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
+    [ "HandleMmapTestArea", "db/d10/a11899.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
 ];

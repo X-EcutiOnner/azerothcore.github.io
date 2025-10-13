@@ -1,8 +1,8 @@
 var a22107 =
 [
-    [ "OnRemove", "dd/d72/a22107.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
-    [ "PrepareAuraScript", "dd/d72/a22107.html#a183b5a3b1332695e3c047bb63435389a", null ],
-    [ "Register", "dd/d72/a22107.html#aad41ab76cc0a882f272e8f79867a7015", null ],
-    [ "Validate", "dd/d72/a22107.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
-    [ "spellIds", "dd/d72/a22107.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
+    [ "AfterApply", "dd/d72/a22107.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "dd/d72/a22107.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "dd/d72/a22107.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "dd/d72/a22107.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "dd/d72/a22107.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

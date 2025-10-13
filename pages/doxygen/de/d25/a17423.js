@@ -1,6 +1,6 @@
 var a17423 =
 [
-    [ "HandlePeriodic", "de/d25/a17423.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
-    [ "PrepareAuraScript", "de/d25/a17423.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
-    [ "Register", "de/d25/a17423.html#a9753daf5cdc812e9027c1153b450686d", null ]
+    [ "boss_moorabiAI", "d1/d98/a17427.html", "d1/d98/a17427" ],
+    [ "boss_moorabi", "de/d25/a17423.html#a94e14b2a9b06143985f785e781d1c302", null ],
+    [ "GetAI", "de/d25/a17423.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
 ];

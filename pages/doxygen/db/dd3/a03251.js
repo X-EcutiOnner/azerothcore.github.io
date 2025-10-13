@@ -1,5 +1,5 @@
 var a03251 =
 [
-    [ "wp_commandscript", "d9/d6c/a11943.html", "d9/d6c/a11943" ],
-    [ "AddSC_wp_commandscript", "db/dd3/a03251.html#afc6bb2ca7e993730a57350142f7e6fd5", null ]
+    [ "player_commandscript", "df/d1e/a11927.html", "df/d1e/a11927" ],
+    [ "AddSC_player_commandscript", "db/dd3/a03251.html#a3a4a77162d5b304dab9a8c8e397c3516", null ]
 ];

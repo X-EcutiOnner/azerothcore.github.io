@@ -1,6 +1,10 @@
 var a10055 =
 [
-    [ "TargetedMovementGeneratorBase", "dc/d3f/a10055.html#a670b36c578b32b7d582e8f4b6ef656c3", null ],
-    [ "stopFollowing", "dc/d3f/a10055.html#adb0a6f1a63ce265fc63bf362e2f60488", null ],
-    [ "i_target", "dc/d3f/a10055.html#a427d8512cbd0ccbaca65dcf48bbe39f6", null ]
+    [ "EffectMovementGenerator", "dc/d3f/a10055.html#a4b574eb9865cffe1277d9012db653d98", null ],
+    [ "Finalize", "dc/d3f/a10055.html#a50cad77c4261bea67428b9dcd5a37ea1", null ],
+    [ "GetMovementGeneratorType", "dc/d3f/a10055.html#a42c56bc35cf3d752e24ccc36adcd2e82", null ],
+    [ "Initialize", "dc/d3f/a10055.html#a376f554231bc5dc4c95790e6c85dcb01", null ],
+    [ "Reset", "dc/d3f/a10055.html#a9627573a7206e12ff469e8e6e076862b", null ],
+    [ "Update", "dc/d3f/a10055.html#adff45ee4ce3cc72b6cc88e626c3bd0a5", null ],
+    [ "m_Id", "dc/d3f/a10055.html#a56f483336fe5c86c6d186ec4d7772d4b", null ]
 ];

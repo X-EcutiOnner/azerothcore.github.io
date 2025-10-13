@@ -1,12 +1,7 @@
 var a11103 =
 [
-    [ "OpcodeTable", "de/d4c/a04794.html#gacb286fdd22f1781abfb0d820b1f345aa", null ],
-    [ "OpcodeTable", "de/d4c/a04794.html#ga0d719536cf746ad04a8ecc4fcca4a869", null ],
-    [ "~OpcodeTable", "de/d4c/a04794.html#gac4e0724e0795156122c4fd8f07ade628", null ],
-    [ "Initialize", "de/d4c/a04794.html#gac64814869d378e5bb7fa18144693fac1", null ],
-    [ "operator=", "de/d4c/a04794.html#ga2153d4fe6b752cc2269cbfec7e8c3c84", null ],
-    [ "operator[]", "de/d4c/a04794.html#gaa2cde2ecf8628ce12487ec9ce8fa37d1", null ],
-    [ "ValidateAndSetClientOpcode", "de/d4c/a04794.html#ga95313e8e04ed3ab47f7104db9cf1db09", null ],
-    [ "ValidateAndSetServerOpcode", "de/d4c/a04794.html#ga42b9c6fd72c2f463ab5cb3fb562151b6", null ],
-    [ "_internalTableClient", "de/d4c/a04794.html#ga8c0d7f9f6248f9652fd8b8021b9a7677", null ]
+    [ "UpdateWorldState", "d9/dc5/a11103.html#a1ccdf24be9a20c824b479af014f4fcb0", null ],
+    [ "Write", "d9/dc5/a11103.html#a76a4c5d6a06ce8d86a2d3f04f68e838d", null ],
+    [ "Value", "d9/dc5/a11103.html#a51fa2401d8af4c1c7848b423cb6f056f", null ],
+    [ "VariableID", "d9/dc5/a11103.html#aa73278b324822f509f48e6edcdaed457", null ]
 ];

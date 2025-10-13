@@ -1,6 +1,7 @@
 var a12423 =
 [
-    [ "boss_victor_nefariusAI", "d3/d18/a12427.html", "d3/d18/a12427" ],
-    [ "boss_victor_nefarius", "d8/d39/a12423.html#a85c529c49a0373a553bc59818fb18f49", null ],
-    [ "GetAI", "d8/d39/a12423.html#a6ea19bde6980cbb4ca627d17cf57ae24", null ]
+    [ "HandleScript", "d8/d39/a12423.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
+    [ "PrepareSpellScript", "d8/d39/a12423.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
+    [ "Register", "d8/d39/a12423.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
+    [ "Validate", "d8/d39/a12423.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
 ];

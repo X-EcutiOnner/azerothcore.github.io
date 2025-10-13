@@ -1,10 +1,7 @@
 var a21743 =
 [
-    [ "npc_jenny", "d9/da3/a21743.html#ab845ba4551900a03c5a995d348a1be55", null ],
-    [ "DamageTaken", "d9/da3/a21743.html#a8700091c82bfff473f3d5563deb69e0b", null ],
-    [ "Initialize", "d9/da3/a21743.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
-    [ "MoveInLineOfSight", "d9/da3/a21743.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
-    [ "UpdateFollowerAI", "d9/da3/a21743.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
-    [ "_events", "d9/da3/a21743.html#aa98caf8b706551470c943b4b722a85ae", null ],
-    [ "_fezzix", "d9/da3/a21743.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
+    [ "npc_lurgglbrAI", "d6/daa/a21747.html", "d6/daa/a21747" ],
+    [ "npc_lurgglbr", "d9/da3/a21743.html#a7df52667e4d789391820a4c2182db8d2", null ],
+    [ "GetAI", "d9/da3/a21743.html#a2795346371e7b474c53dcacb9daf2001", null ],
+    [ "OnQuestAccept", "d9/da3/a21743.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::AbsorbAuraOrderPred Class Reference</title>
+<title>AzerothCore: ClientPktHeader Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,24 +106,32 @@ $(document).ready(function(){initNavTree('db/dbf/a11219.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d1/d71/a11216.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::AbsorbAuraOrderPred Class Reference</div></div>
+  <div class="headertitle"><div class="title">ClientPktHeader Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">SpellAuraEffects.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">WorldSocket.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a30283854715c90496e14d260f913f5fa"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbf/a11219.html#a30283854715c90496e14d260f913f5fa">AbsorbAuraOrderPred</a> ()</td></tr>
-<tr class="separator:a30283854715c90496e14d260f913f5fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8f705a8b053ef6ff2e2827b4c7f9c643"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbf/a11219.html#a8f705a8b053ef6ff2e2827b4c7f9c643">operator()</a> (<a class="el" href="../../dc/d90/a11215.html">AuraEffect</a> *aurEffA, <a class="el" href="../../dc/d90/a11215.html">AuraEffect</a> *aurEffB) const</td></tr>
-<tr class="separator:a8f705a8b053ef6ff2e2827b4c7f9c643"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aec5192f7f57a16c9dfa244ff3874e693"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbf/a11219.html#aec5192f7f57a16c9dfa244ff3874e693">IsValidSize</a> () const</td></tr>
+<tr class="separator:aec5192f7f57a16c9dfa244ff3874e693"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afdba55f89a1c7ffb9e7c302f2269687f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbf/a11219.html#afdba55f89a1c7ffb9e7c302f2269687f">IsValidOpcode</a> () const</td></tr>
+<tr class="separator:afdba55f89a1c7ffb9e7c302f2269687f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:ac1d551036381db4f85b8dc92ea55d4ee"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbf/a11219.html#ac1d551036381db4f85b8dc92ea55d4ee">size</a></td></tr>
+<tr class="separator:ac1d551036381db4f85b8dc92ea55d4ee"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad0a112cb2a8a71e6e8c20e320af63f49"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbf/a11219.html#ad0a112cb2a8a71e6e8c20e320af63f49">cmd</a></td></tr>
+<tr class="separator:ad0a112cb2a8a71e6e8c20e320af63f49"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a30283854715c90496e14d260f913f5fa" name="a30283854715c90496e14d260f913f5fa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a30283854715c90496e14d260f913f5fa">&#9670;&#160;</a></span>AbsorbAuraOrderPred()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="afdba55f89a1c7ffb9e7c302f2269687f" name="afdba55f89a1c7ffb9e7c302f2269687f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afdba55f89a1c7ffb9e7c302f2269687f">&#9670;&#160;</a></span>IsValidOpcode()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -132,10 +140,10 @@ Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Acore::AbsorbAuraOrderPred::AbsorbAuraOrderPred </td>
+          <td class="memname">bool ClientPktHeader::IsValidOpcode </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td> const</td>
         </tr>
       </table>
   </td>
@@ -144,13 +152,18 @@ Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  352</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   64</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/dbf/a11219.html#ad0a112cb2a8a71e6e8c20e320af63f49">cmd</a> &lt; <a class="code hl_enumvalue" href="../../d3/d7d/a04797.html#ggace1bc0a234752bc4bc96594bd955f45ca2b55e6facd0266405bb0f7e775c6f611">NUM_OPCODE_HANDLERS</a>; }</div>
+<div class="ttc" id="aa04797_html_ggace1bc0a234752bc4bc96594bd955f45ca2b55e6facd0266405bb0f7e775c6f611"><div class="ttname"><a href="../../d3/d7d/a04797.html#ggace1bc0a234752bc4bc96594bd955f45ca2b55e6facd0266405bb0f7e775c6f611">NUM_OPCODE_HANDLERS</a></div><div class="ttdeci">@ NUM_OPCODE_HANDLERS</div><div class="ttdef"><b>Definition:</b> Opcodes.h:1346</div></div>
+<div class="ttc" id="aa11219_html_ad0a112cb2a8a71e6e8c20e320af63f49"><div class="ttname"><a href="../../db/dbf/a11219.html#ad0a112cb2a8a71e6e8c20e320af63f49">ClientPktHeader::cmd</a></div><div class="ttdeci">uint32 cmd</div><div class="ttdef"><b>Definition:</b> WorldSocket.h:61</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00061">cmd</a>, and <a class="el" href="../../#l01346">NUM_OPCODE_HANDLERS</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00305">WorldSocket::ReadHeaderHandler()</a>.</p>
+
 </div>
 </div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a8f705a8b053ef6ff2e2827b4c7f9c643" name="a8f705a8b053ef6ff2e2827b4c7f9c643"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8f705a8b053ef6ff2e2827b4c7f9c643">&#9670;&#160;</a></span>operator()()</h2>
+<a id="aec5192f7f57a16c9dfa244ff3874e693" name="aec5192f7f57a16c9dfa244ff3874e693"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aec5192f7f57a16c9dfa244ff3874e693">&#9670;&#160;</a></span>IsValidSize()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -159,21 +172,10 @@ Public Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool Acore::AbsorbAuraOrderPred::operator() </td>
+          <td class="memname">bool ClientPktHeader::IsValidSize </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/d90/a11215.html">AuraEffect</a> *&#160;</td>
-          <td class="paramname"><em>aurEffA</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dc/d90/a11215.html">AuraEffect</a> *&#160;</td>
-          <td class="paramname"><em>aurEffB</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
@@ -182,64 +184,45 @@ Public Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  354</span>        {</div>
-<div class="line"><span class="lineno">  355</span>            <a class="code hl_class" href="../../da/d3a/a11331.html">SpellInfo</a> <span class="keyword">const</span>* spellProtoA = aurEffA-&gt;<a class="code hl_function" href="../../dc/d90/a11215.html#a1004d58d71df9a9b603d217ebca51321">GetSpellInfo</a>();</div>
-<div class="line"><span class="lineno">  356</span>            <a class="code hl_class" href="../../da/d3a/a11331.html">SpellInfo</a> <span class="keyword">const</span>* spellProtoB = aurEffB-&gt;<a class="code hl_function" href="../../dc/d90/a11215.html#a1004d58d71df9a9b603d217ebca51321">GetSpellInfo</a>();</div>
-<div class="line"><span class="lineno">  357</span> </div>
-<div class="line"><span class="lineno">  358</span>            <span class="comment">// Wards</span></div>
-<div class="line"><span class="lineno">  359</span>            <span class="keywordflow">if</span> ((spellProtoA-&gt;<a class="code hl_variable" href="../../da/d3a/a11331.html#af6ec577353f7d3cc59badd7d332153b0">SpellFamilyName</a> == <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae">SPELLFAMILY_MAGE</a>) ||</div>
-<div class="line"><span class="lineno">  360</span>                    (spellProtoA-&gt;<a class="code hl_variable" href="../../da/d3a/a11331.html#af6ec577353f7d3cc59badd7d332153b0">SpellFamilyName</a> == <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0a134bc75d430da10f6c1df4977c29cf">SPELLFAMILY_WARLOCK</a>))</div>
-<div class="line"><span class="lineno">  361</span>                <span class="keywordflow">if</span> (spellProtoA-&gt;<a class="code hl_function" href="../../da/d3a/a11331.html#a25ed784456d2d769bf59a788f9216001">GetCategory</a>() == 56)</div>
-<div class="line"><span class="lineno">  362</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  363</span>            <span class="keywordflow">if</span> ((spellProtoB-&gt;<a class="code hl_variable" href="../../da/d3a/a11331.html#af6ec577353f7d3cc59badd7d332153b0">SpellFamilyName</a> == <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae">SPELLFAMILY_MAGE</a>) ||</div>
-<div class="line"><span class="lineno">  364</span>                    (spellProtoB-&gt;<a class="code hl_variable" href="../../da/d3a/a11331.html#af6ec577353f7d3cc59badd7d332153b0">SpellFamilyName</a> == <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0a134bc75d430da10f6c1df4977c29cf">SPELLFAMILY_WARLOCK</a>))</div>
-<div class="line"><span class="lineno">  365</span>                <span class="keywordflow">if</span> (spellProtoB-&gt;<a class="code hl_function" href="../../da/d3a/a11331.html#a25ed784456d2d769bf59a788f9216001">GetCategory</a>() == 56)</div>
-<div class="line"><span class="lineno">  366</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  367</span> </div>
-<div class="line"><span class="lineno">  368</span>            <span class="comment">// Sacred Shield</span></div>
-<div class="line"><span class="lineno">  369</span>            <span class="keywordflow">if</span> (spellProtoA-&gt;<a class="code hl_variable" href="../../da/d3a/a11331.html#a49bc14059c2bd3785231c52e0d54d382">Id</a> == 58597)</div>
-<div class="line"><span class="lineno">  370</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  371</span>            <span class="keywordflow">if</span> (spellProtoB-&gt;<a class="code hl_variable" href="../../da/d3a/a11331.html#a49bc14059c2bd3785231c52e0d54d382">Id</a> == 58597)</div>
-<div class="line"><span class="lineno">  372</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  373</span> </div>
-<div class="line"><span class="lineno">  374</span>            <span class="comment">// Fel Blossom</span></div>
-<div class="line"><span class="lineno">  375</span>            <span class="keywordflow">if</span> (spellProtoA-&gt;<a class="code hl_variable" href="../../da/d3a/a11331.html#a49bc14059c2bd3785231c52e0d54d382">Id</a> == 28527)</div>
-<div class="line"><span class="lineno">  376</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  377</span>            <span class="keywordflow">if</span> (spellProtoB-&gt;<a class="code hl_variable" href="../../da/d3a/a11331.html#a49bc14059c2bd3785231c52e0d54d382">Id</a> == 28527)</div>
-<div class="line"><span class="lineno">  378</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  379</span> </div>
-<div class="line"><span class="lineno">  380</span>            <span class="comment">// Divine Aegis</span></div>
-<div class="line"><span class="lineno">  381</span>            <span class="keywordflow">if</span> (spellProtoA-&gt;<a class="code hl_variable" href="../../da/d3a/a11331.html#a49bc14059c2bd3785231c52e0d54d382">Id</a> == 47753)</div>
-<div class="line"><span class="lineno">  382</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  383</span>            <span class="keywordflow">if</span> (spellProtoB-&gt;<a class="code hl_variable" href="../../da/d3a/a11331.html#a49bc14059c2bd3785231c52e0d54d382">Id</a> == 47753)</div>
-<div class="line"><span class="lineno">  384</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  385</span> </div>
-<div class="line"><span class="lineno">  386</span>            <span class="comment">// Ice Barrier</span></div>
-<div class="line"><span class="lineno">  387</span>            <span class="keywordflow">if</span> (spellProtoA-&gt;<a class="code hl_function" href="../../da/d3a/a11331.html#a25ed784456d2d769bf59a788f9216001">GetCategory</a>() == 471)</div>
-<div class="line"><span class="lineno">  388</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  389</span>            <span class="keywordflow">if</span> (spellProtoB-&gt;<a class="code hl_function" href="../../da/d3a/a11331.html#a25ed784456d2d769bf59a788f9216001">GetCategory</a>() == 471)</div>
-<div class="line"><span class="lineno">  390</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  391</span> </div>
-<div class="line"><span class="lineno">  392</span>            <span class="comment">// Sacrifice</span></div>
-<div class="line"><span class="lineno">  393</span>            <span class="keywordflow">if</span> ((spellProtoA-&gt;<a class="code hl_variable" href="../../da/d3a/a11331.html#af6ec577353f7d3cc59badd7d332153b0">SpellFamilyName</a> == <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0a134bc75d430da10f6c1df4977c29cf">SPELLFAMILY_WARLOCK</a>) &amp;&amp;</div>
-<div class="line"><span class="lineno">  394</span>                    (spellProtoA-&gt;<a class="code hl_variable" href="../../da/d3a/a11331.html#ac1a82f9330481616b4b87ed9eff0f785">SpellIconID</a> == 693))</div>
-<div class="line"><span class="lineno">  395</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  396</span>            <span class="keywordflow">if</span> ((spellProtoB-&gt;<a class="code hl_variable" href="../../da/d3a/a11331.html#af6ec577353f7d3cc59badd7d332153b0">SpellFamilyName</a> == <a class="code hl_enumvalue" href="../../dd/d44/a04097.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0a134bc75d430da10f6c1df4977c29cf">SPELLFAMILY_WARLOCK</a>) &amp;&amp;</div>
-<div class="line"><span class="lineno">  397</span>                    (spellProtoB-&gt;<a class="code hl_variable" href="../../da/d3a/a11331.html#ac1a82f9330481616b4b87ed9eff0f785">SpellIconID</a> == 693))</div>
-<div class="line"><span class="lineno">  398</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  399</span> </div>
-<div class="line"><span class="lineno">  400</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  401</span>        }</div>
-<div class="ttc" id="aa04097_html_a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0a134bc75d430da10f6c1df4977c29cf"><div class="ttname"><a href="../../dd/d44/a04097.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0a134bc75d430da10f6c1df4977c29cf">SPELLFAMILY_WARLOCK</a></div><div class="ttdeci">@ SPELLFAMILY_WARLOCK</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3799</div></div>
-<div class="ttc" id="aa04097_html_a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae"><div class="ttname"><a href="../../dd/d44/a04097.html#a9264ae6b0ef1b61a6eeb7fdac9fbab1ba0e4b88db8be01ea5d62cc08d07b28aae">SPELLFAMILY_MAGE</a></div><div class="ttdeci">@ SPELLFAMILY_MAGE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3797</div></div>
-<div class="ttc" id="aa11215_html_a1004d58d71df9a9b603d217ebca51321"><div class="ttname"><a href="../../dc/d90/a11215.html#a1004d58d71df9a9b603d217ebca51321">AuraEffect::GetSpellInfo</a></div><div class="ttdeci">SpellInfo const * GetSpellInfo() const</div><div class="ttdef"><b>Definition:</b> SpellAuraEffects.h:54</div></div>
-<div class="ttc" id="aa11331_html"><div class="ttname"><a href="../../da/d3a/a11331.html">SpellInfo</a></div><div class="ttdef"><b>Definition:</b> SpellInfo.h:316</div></div>
-<div class="ttc" id="aa11331_html_a25ed784456d2d769bf59a788f9216001"><div class="ttname"><a href="../../da/d3a/a11331.html#a25ed784456d2d769bf59a788f9216001">SpellInfo::GetCategory</a></div><div class="ttdeci">uint32 GetCategory() const</div><div class="ttdef"><b>Definition:</b> SpellInfo.cpp:871</div></div>
-<div class="ttc" id="aa11331_html_a49bc14059c2bd3785231c52e0d54d382"><div class="ttname"><a href="../../da/d3a/a11331.html#a49bc14059c2bd3785231c52e0d54d382">SpellInfo::Id</a></div><div class="ttdeci">uint32 Id</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:320</div></div>
-<div class="ttc" id="aa11331_html_ac1a82f9330481616b4b87ed9eff0f785"><div class="ttname"><a href="../../da/d3a/a11331.html#ac1a82f9330481616b4b87ed9eff0f785">SpellInfo::SpellIconID</a></div><div class="ttdeci">uint32 SpellIconID</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:380</div></div>
-<div class="ttc" id="aa11331_html_af6ec577353f7d3cc59badd7d332153b0"><div class="ttname"><a href="../../da/d3a/a11331.html#af6ec577353f7d3cc59badd7d332153b0">SpellInfo::SpellFamilyName</a></div><div class="ttdeci">uint32 SpellFamilyName</div><div class="ttdef"><b>Definition:</b> SpellInfo.h:387</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   63</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/dbf/a11219.html#ac1d551036381db4f85b8dc92ea55d4ee">size</a> &gt;= 4 &amp;&amp; <a class="code hl_variable" href="../../db/dbf/a11219.html#ac1d551036381db4f85b8dc92ea55d4ee">size</a> &lt; 10240; }</div>
+<div class="ttc" id="aa11219_html_ac1d551036381db4f85b8dc92ea55d4ee"><div class="ttname"><a href="../../db/dbf/a11219.html#ac1d551036381db4f85b8dc92ea55d4ee">ClientPktHeader::size</a></div><div class="ttdeci">uint16 size</div><div class="ttdef"><b>Definition:</b> WorldSocket.h:60</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00871">SpellInfo::GetCategory()</a>, <a class="el" href="../../#l00054">AuraEffect::GetSpellInfo()</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l03797">SPELLFAMILY_MAGE</a>, <a class="el" href="../../#l03799">SPELLFAMILY_WARLOCK</a>, <a class="el" href="../../#l00387">SpellInfo::SpellFamilyName</a>, and <a class="el" href="../../#l00380">SpellInfo::SpellIconID</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00060">size</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00305">WorldSocket::ReadHeaderHandler()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="ad0a112cb2a8a71e6e8c20e320af63f49" name="ad0a112cb2a8a71e6e8c20e320af63f49"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad0a112cb2a8a71e6e8c20e320af63f49">&#9670;&#160;</a></span>cmd</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ClientPktHeader::cmd</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00064">IsValidOpcode()</a>, <a class="el" href="../../#l00401">WorldSocket::ReadDataHandler()</a>, and <a class="el" href="../../#l00305">WorldSocket::ReadHeaderHandler()</a>.</p>
+
+</div>
+</div>
+<a id="ac1d551036381db4f85b8dc92ea55d4ee" name="ac1d551036381db4f85b8dc92ea55d4ee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac1d551036381db4f85b8dc92ea55d4ee">&#9670;&#160;</a></span>size</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> ClientPktHeader::size</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00063">IsValidSize()</a>, and <a class="el" href="../../#l00305">WorldSocket::ReadHeaderHandler()</a>.</p>
 
 </div>
 </div>
@@ -248,8 +231,8 @@ Public Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dd/df4/a04800.html">Acore</a></li><li class="navelem"><a class="el" href="../../db/dbf/a11219.html">AbsorbAuraOrderPred</a></li>
-    <li class="footer">Generated on Mon Oct 6 2025 20:46:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../db/dbf/a11219.html">ClientPktHeader</a></li>
+    <li class="footer">Generated on Mon Oct 13 2025 20:45:08 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

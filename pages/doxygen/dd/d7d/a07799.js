@@ -1,5 +1,5 @@
 var a07799 =
 [
-    [ "Quest", "dd/d7d/a07799.html#aca1cbcd3319031b549c0ec6441b2c821", null ],
-    [ "QuestLevel", "dd/d7d/a07799.html#ad162701af62caac909ef9f57f68bf848", null ]
+    [ "Glyph", "dd/d7d/a07799.html#a99ef57f9c0bbab04953bd6edcf5b83f2", null ],
+    [ "Slot", "dd/d7d/a07799.html#acc79672f4bddb27eb980b6aac19f83ec", null ]
 ];

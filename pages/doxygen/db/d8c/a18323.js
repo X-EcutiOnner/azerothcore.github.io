@@ -1,17 +1,15 @@
 var a18323 =
 [
-    [ "npc_rimefangAI", "db/d8c/a18323.html#ae89b397bafdcb06e94fa94c18ef0d2c8", null ],
-    [ "DoAction", "db/d8c/a18323.html#a79d34453b3ace5c1f80b12b862890e3c", null ],
-    [ "InitializeAI", "db/d8c/a18323.html#ae515d0b1d383c48e40fa4795edd1b247", null ],
-    [ "JustDied", "db/d8c/a18323.html#ab3cd1550cda44cecf889f4bf28f976ba", null ],
-    [ "JustEngagedWith", "db/d8c/a18323.html#ad161bb0a6c76d223b1e687a1cc604375", null ],
-    [ "JustReachedHome", "db/d8c/a18323.html#a7b15a9c6db1a48c3766afcb41d66b61f", null ],
-    [ "JustRespawned", "db/d8c/a18323.html#a47ed52a4a0511d7b1e3eb4bd5da409ca", null ],
-    [ "MovementInform", "db/d8c/a18323.html#aacd146fbfac94b8f82b3971ff74644cc", null ],
-    [ "Reset", "db/d8c/a18323.html#a8956324e2806393d26bf146f4e2c48b0", null ],
-    [ "UpdateAI", "db/d8c/a18323.html#a00872042199924a14089c1057c479ff7", null ],
-    [ "_events", "db/d8c/a18323.html#ade0c279565236eb3fd59fd43eef4c3e1", null ],
-    [ "_icyBlastCounter", "db/d8c/a18323.html#aef3e7d4cd3d23f407ef4ba5aa5c737c9", null ],
-    [ "_instance", "db/d8c/a18323.html#ad12541907c439117cf8c8a6741c07445", null ],
-    [ "_summoned", "db/d8c/a18323.html#aa27dd1e338145a65915262a8d44f7519", null ]
+    [ "npc_spinestalkerAI", "db/d8c/a18323.html#ad758068ccfc12cead2e3a6b646bea374", null ],
+    [ "DoAction", "db/d8c/a18323.html#a263d897b4c94c71fe6597c0753722ce8", null ],
+    [ "InitializeAI", "db/d8c/a18323.html#ab87abc1a65e48325c31a52517477297b", null ],
+    [ "JustDied", "db/d8c/a18323.html#ada5ab1c21b13acc0aee4e7a4907d76d9", null ],
+    [ "JustReachedHome", "db/d8c/a18323.html#a56e9b760fd28219bee8a3aa604010d07", null ],
+    [ "JustRespawned", "db/d8c/a18323.html#a6ae99a71f8517055acc6e637b54c78d0", null ],
+    [ "MovementInform", "db/d8c/a18323.html#aebb6606d219bd6ee59c01718374576e9", null ],
+    [ "Reset", "db/d8c/a18323.html#a892d973ca4e04138eda70b09e16c9b2a", null ],
+    [ "UpdateAI", "db/d8c/a18323.html#a94ad98a558ed8df7c17f75a0a6c0ec26", null ],
+    [ "_events", "db/d8c/a18323.html#a45d8828fc3324d91387a26c560cf725b", null ],
+    [ "_instance", "db/d8c/a18323.html#a73dfcbf2ea0162cfb69f1ec169f659d4", null ],
+    [ "_summoned", "db/d8c/a18323.html#a324cd480e056750c61318446c97df48d", null ]
 ];

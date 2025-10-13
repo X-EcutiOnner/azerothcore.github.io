@@ -1,8 +1,6 @@
 var a13123 =
 [
-    [ "npc_scarlet_miner_cartAI", "de/d3c/a13123.html#a4256e3bc9f6678dc85a3b702e1c531f8", null ],
-    [ "DoAction", "de/d3c/a13123.html#a99ac60b1a60cc5f269aa7f02f3fd5083", null ],
-    [ "PassengerBoarded", "de/d3c/a13123.html#a3539847efa7014a8e31a78ace83b6bc5", null ],
-    [ "SetGUID", "de/d3c/a13123.html#a5679fef6f40d0e48547e7bd57a93a176", null ],
-    [ "minerGUID", "de/d3c/a13123.html#a084e80b43b5b30b5e1794feff305e9b3", null ]
+    [ "npc_scarlet_cannonAI", "d5/ddf/a13127.html", "d5/ddf/a13127" ],
+    [ "npc_scarlet_cannon", "de/d3c/a13123.html#a10bb35cbbdae3508a2300ba3dacc1ea3", null ],
+    [ "GetAI", "de/d3c/a13123.html#ae2b74a4dab4b34f026fd17d5ed381c99", null ]
 ];

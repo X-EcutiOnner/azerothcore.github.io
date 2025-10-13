@@ -1,4 +1,4 @@
 var a01481 =
 [
-    [ "AchievementCriteriaScript", "db/d9b/a10247.html", "db/d9b/a10247" ]
+    [ "AchievementCriteriaScript", "d6/d49/a10255.html", "d6/d49/a10255" ]
 ];

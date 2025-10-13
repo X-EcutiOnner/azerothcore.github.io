@@ -1,6 +1,8 @@
 var a12799 =
 [
-    [ "FilterTargets", "df/da2/a12799.html#adae7a812a222a60f9c89cac4ea327011", null ],
-    [ "PrepareSpellScript", "df/da2/a12799.html#a9576a48a3aa761c103f72586cd93970c", null ],
-    [ "Register", "df/da2/a12799.html#aaadad68c322eac268ea7a45f9c369c59", null ]
+    [ "HandleEffectRemove", "df/da2/a12799.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
+    [ "if", "df/da2/a12799.html#a8596fc98402bf952484c9567f61c7820", null ],
+    [ "PrepareAuraScript", "df/da2/a12799.html#a4055f781a914de631187b00ba7aefeef", null ],
+    [ "Register", "df/da2/a12799.html#aefb4bbae43558abde871548088784613", null ],
+    [ "AuraEffectHandleModes", "df/da2/a12799.html#a7d419ba41e68b70740a867a2265824bd", null ]
 ];

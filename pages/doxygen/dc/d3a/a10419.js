@@ -1,10 +1,11 @@
 var a10419 =
 [
-    [ "ServerScript", "dc/d3a/a10419.html#a164286c210360b97b9efb48aed33b0d8", null ],
-    [ "CanPacketReceive", "dc/d3a/a10419.html#a9c817a6f922029c9c58f783c4ebc18ff", null ],
-    [ "CanPacketSend", "dc/d3a/a10419.html#a6682dfb556d137feb5fc95a66ccd6917", null ],
-    [ "OnNetworkStart", "dc/d3a/a10419.html#ab51ce520816236687820d1f72bae0ed6", null ],
-    [ "OnNetworkStop", "dc/d3a/a10419.html#a1f2e87caed202bbcde98e2cb0c8f19c6", null ],
-    [ "OnSocketClose", "dc/d3a/a10419.html#a27ecdfc9c6d737d02705adcd13be9d13", null ],
-    [ "OnSocketOpen", "dc/d3a/a10419.html#a656f1c0dc191b8f91e0705748d286454", null ]
+    [ "PetScript", "dc/d3a/a10419.html#acccf0b5fa2e346c800925142ed52c917", null ],
+    [ "CanResetTalents", "dc/d3a/a10419.html#ab4e5e0b19285573753ef6e9b7e8fd535", null ],
+    [ "CanUnlearnSpellDefault", "dc/d3a/a10419.html#af150efd719bbb619df792ebc6705bb0a", null ],
+    [ "CanUnlearnSpellSet", "dc/d3a/a10419.html#a84cba94813ffa26e1a245b814feb0349", null ],
+    [ "IsDatabaseBound", "dc/d3a/a10419.html#a16fae7cdf068c6e3d9e46882548d4c20", null ],
+    [ "OnCalculateMaxTalentPointsForLevel", "dc/d3a/a10419.html#a1263b06233902fbede9fc5df80cc8ad4", null ],
+    [ "OnInitStatsForLevel", "dc/d3a/a10419.html#a65a33c4f374f2e9739680ad172118c26", null ],
+    [ "OnPetAddToWorld", "dc/d3a/a10419.html#a3012323c5c1424512b611b6956a32554", null ]
 ];

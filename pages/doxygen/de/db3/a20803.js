@@ -1,6 +1,5 @@
 var a20803 =
 [
-    [ "boss_thorimAI", "d1/de7/a20807.html", "d1/de7/a20807" ],
-    [ "boss_thorim", "de/db3/a20803.html#a23a52a05aea5092cef8fe47be28b4bfb", null ],
-    [ "GetAI", "de/db3/a20803.html#a70895451317569f50adc11474e653515", null ]
+    [ "achievement_quick_shave", "de/db3/a20803.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
+    [ "OnCheck", "de/db3/a20803.html#a151c479da3d4cec05999ad8a249b100c", null ]
 ];

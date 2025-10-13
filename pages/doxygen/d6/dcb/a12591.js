@@ -1,6 +1,6 @@
 var a12591 =
 [
-    [ "boss_magmadarAI", "d6/dcb/a12591.html#a47207fdd6eb94fb08791da06cd4160f6", null ],
-    [ "ExecuteEvent", "d6/dcb/a12591.html#a7d4c1807cb320fdc331057209a4ce166", null ],
-    [ "JustEngagedWith", "d6/dcb/a12591.html#a5ce1495d01f28e0a38f00127e7137a4f", null ]
+    [ "boss_gehennasAI", "d6/dcb/a12591.html#aaefd1f10d03957477863df95143a95a9", null ],
+    [ "ExecuteEvent", "d6/dcb/a12591.html#a1568cecdacc6afee23b4661c3dc0ae2b", null ],
+    [ "JustEngagedWith", "d6/dcb/a12591.html#ad932bb3d7079f53cf1bb2b7ad143b15d", null ]
 ];

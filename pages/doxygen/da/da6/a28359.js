@@ -1,12 +1,9 @@
 var a28359 =
 [
-    [ "ID", "da/da6/a28359.html#a84ba697182123cb3e7dd3ba07241e971", null ],
-    [ "maxScale", "da/da6/a28359.html#a23ca0ae7c45790a24f58546970194abf", null ],
-    [ "maxScaleLevel", "da/da6/a28359.html#ad5d722d74bc08d4de3edd54c2f24addb", null ],
-    [ "minScale", "da/da6/a28359.html#a3eacdd8639c6dd25dbd3205a58860cf9", null ],
-    [ "minScaleLevel", "da/da6/a28359.html#a49d9d7847cc4d54891d83166eb277740", null ],
-    [ "Name", "da/da6/a28359.html#a937fc579ab2790f4a972f07d3453a762", null ],
-    [ "petFoodMask", "da/da6/a28359.html#a4d9dd8baa3f7981633248513bb25f4ca", null ],
-    [ "petTalentType", "da/da6/a28359.html#a802000cefb6c4d357edfc45cc291e21e", null ],
-    [ "skillLine", "da/da6/a28359.html#ad4498d40b31d18742ee4ac235cb58a2e", null ]
+    [ "HolidayWorldStateId", "da/da6/a28359.html#a3f70ffbb1abb5a96fe91c2eec3682c8b", null ],
+    [ "id", "da/da6/a28359.html#a52f7840f9247d2af63062dd280b37341", null ],
+    [ "mapid", "da/da6/a28359.html#a11e1326eeb24b436b10db53acc323c13", null ],
+    [ "maxGroupSize", "da/da6/a28359.html#adbdae47b424c3b61b76b48ea5798f52d", null ],
+    [ "name", "da/da6/a28359.html#a9a56ca930ff8425d4b77066e47a1e09f", null ],
+    [ "type", "da/da6/a28359.html#a647669b97599d7edf02b5a38dd1d5116", null ]
 ];

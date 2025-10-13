@@ -1,7 +1,6 @@
 var a16455 =
 [
-    [ "HandleAfterEffectAbsorb", "db/d01/a16455.html#ab3d9f3679931b4b3b29713602d08701d", null ],
-    [ "PrepareAuraScript", "db/d01/a16455.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
-    [ "Register", "db/d01/a16455.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
-    [ "Validate", "db/d01/a16455.html#a87750183d2b2d6adb67bba4a1f767029", null ]
+    [ "FilterTargets", "db/d01/a16455.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
+    [ "PrepareSpellScript", "db/d01/a16455.html#a5ede43deece629a38f5482280983b59a", null ],
+    [ "Register", "db/d01/a16455.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
 ];

@@ -1,9 +1,9 @@
 var a20939 =
 [
-    [ "npc_xt002_pummellerAI", "da/dfa/a20939.html#a2942c05c93036c2e02b9a72c784441b1", null ],
-    [ "Reset", "da/dfa/a20939.html#a6542fb3e585f100f06f6be14a1346306", null ],
-    [ "UpdateAI", "da/dfa/a20939.html#a959990310303ff2102f1c03852b4ab8e", null ],
-    [ "_arcingSmashTimer", "da/dfa/a20939.html#a830fda66756dc3f34a530939116e7556", null ],
-    [ "_trampleTimer", "da/dfa/a20939.html#ae5e450601861f83b20419405bb92ef6d", null ],
-    [ "_uppercutTimer", "da/dfa/a20939.html#a5a1bdb380438070effc091ec37db6aec", null ]
+    [ "npc_xt002_scrapbotAI", "da/dfa/a20939.html#a21be97bb49ff06ef090cbbe6f5006f56", null ],
+    [ "JustDied", "da/dfa/a20939.html#adcab192d017e6a9e8d103a6e8b91cb26", null ],
+    [ "MovementInform", "da/dfa/a20939.html#a48fd29d42280ae91852ef2ef0cecc8f6", null ],
+    [ "Reset", "da/dfa/a20939.html#aab71d2a49ee96e88a2858c07c455e78d", null ],
+    [ "UpdateAI", "da/dfa/a20939.html#ae2de6767f8ab502833971e4171d48c13", null ],
+    [ "_locked", "da/dfa/a20939.html#add3bfe992d635629ac7e07e04c4334c9", null ]
 ];

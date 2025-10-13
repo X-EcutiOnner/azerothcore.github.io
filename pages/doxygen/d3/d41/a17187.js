@@ -1,6 +1,6 @@
 var a17187 =
 [
-    [ "boss_garfrostAI", "d6/d46/a17191.html", "d6/d46/a17191" ],
-    [ "boss_garfrost", "d3/d41/a17187.html#ac116491cf252ee476cedee55ea292827", null ],
-    [ "GetAI", "d3/d41/a17187.html#a8a67bb09249655a8706868bb26b5124d", null ]
+    [ "instance_halls_of_reflection_InstanceMapScript", "d6/d46/a17191.html", "d6/d46/a17191" ],
+    [ "instance_halls_of_reflection", "d3/d41/a17187.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
+    [ "GetInstanceScript", "d3/d41/a17187.html#aca27a4f654f41fe6f238c905b48285b7", null ]
 ];

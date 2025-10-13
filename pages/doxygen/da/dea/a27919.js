@@ -1,4 +1,6 @@
 var a27919 =
 [
-    [ "go_necropolis", "da/dea/a27919.html#aef477499aefa5340db97538a8f3a3cca", null ]
+    [ "npc_spring_rabbitAI", "d4/d53/a27923.html", "d4/d53/a27923" ],
+    [ "npc_spring_rabbit", "da/dea/a27919.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
+    [ "GetAI", "da/dea/a27919.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
 ];

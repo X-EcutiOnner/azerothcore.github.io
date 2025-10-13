@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Battlegrounds/ArenaSeason/ArenaSeasonRewardDistributorTest.cpp File Reference</title>
+<title>AzerothCore: azerothcore-wotlk/src/test/server/game/Miscellaneous/FormulasTest.cpp File Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,102 +105,49 @@ $(document).ready(function(){initNavTree('d9/d61/a04775.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">ArenaSeasonRewardDistributorTest.cpp File Reference</div></div>
+  <div class="headertitle"><div class="title">FormulasTest.cpp File Reference</div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><code>#include &quot;<a class="el" href="../../">Define.h</a>&quot;</code><br />
-<code>#include &quot;gmock/gmock.h&quot;</code><br />
-<code>#include &quot;gtest/gtest.h&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">ArenaSeasonRewardsDistributor.h</a>&quot;</code><br />
+<div class="textblock"><code>#include &quot;<a class="el" href="../../">DBCStores.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">Formulas.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">WorldMock.h</a>&quot;</code><br />
-<code>#include &lt;memory&gt;</code><br />
+<code>#include &quot;gtest/gtest.h&quot;</code><br />
 </div>
 <p><a href="">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d2/d8e/a28807.html">MockArenaSeasonTeamRewarder</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d28/a28811.html">ArenaSeasonRewardDistributorTest</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a74bb31c469b2f6e9691219589ac41a12"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/dcf/a07311.html">ArenaTeam</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d61/a04775.html#a74bb31c469b2f6e9691219589ac41a12">ArenaTeamWithRating</a> (int rating, int gamesPlayed)</td></tr>
-<tr class="separator:a74bb31c469b2f6e9691219589ac41a12"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1ba0a1dda2222e2d5931f54c84ed5162"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d61/a04775.html#a1ba0a1dda2222e2d5931f54c84ed5162">TEST_F</a> (<a class="el" href="../../d3/d28/a28811.html">ArenaSeasonRewardDistributorTest</a>, SingleTeamMultiplePctRewardDistribution)</td></tr>
-<tr class="separator:a1ba0a1dda2222e2d5931f54c84ed5162"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5a69347e03ab5eeea43bfcbffb063d52"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d61/a04775.html#a5a69347e03ab5eeea43bfcbffb063d52">TEST_F</a> (<a class="el" href="../../d3/d28/a28811.html">ArenaSeasonRewardDistributorTest</a>, SingleTeamMultipleAbsRewardDistribution)</td></tr>
-<tr class="separator:a5a69347e03ab5eeea43bfcbffb063d52"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acd40406191e1dacb6e7400210157262a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d61/a04775.html#acd40406191e1dacb6e7400210157262a">TEST_F</a> (<a class="el" href="../../d3/d28/a28811.html">ArenaSeasonRewardDistributorTest</a>, ManyTeamsTwoRewardsDistribution)</td></tr>
-<tr class="separator:acd40406191e1dacb6e7400210157262a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7bfddbb1d9978546d0eff10b29942b32"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d61/a04775.html#a7bfddbb1d9978546d0eff10b29942b32">TEST_F</a> (<a class="el" href="../../d3/d28/a28811.html">ArenaSeasonRewardDistributorTest</a>, MinimumRequiredGamesFilter)</td></tr>
-<tr class="separator:a7bfddbb1d9978546d0eff10b29942b32"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9b7a926251db0fa2bd2678cee360e161"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d61/a04775.html#a9b7a926251db0fa2bd2678cee360e161">TEST</a> (FormulasTest, hk_honor_at_level)</td></tr>
+<tr class="separator:a9b7a926251db0fa2bd2678cee360e161"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8ffadf8c8dbffb858cf2a925473d6bff"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d61/a04775.html#a8ffadf8c8dbffb858cf2a925473d6bff">TEST</a> (FormulasTest, GetGrayLevel)</td></tr>
+<tr class="separator:a8ffadf8c8dbffb858cf2a925473d6bff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5fcf85473a490662471938a1f773d6e2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d61/a04775.html#a5fcf85473a490662471938a1f773d6e2">TEST</a> (FormulasTest, GetColorCode)</td></tr>
+<tr class="separator:a5fcf85473a490662471938a1f773d6e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a23ac78cb09ef0a7b924b271ffefbc6a9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d61/a04775.html#a23ac78cb09ef0a7b924b271ffefbc6a9">TEST</a> (FormulasTest, GetZeroDifference)</td></tr>
+<tr class="separator:a23ac78cb09ef0a7b924b271ffefbc6a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7a11632378897367b979b12423a3f5dd"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d61/a04775.html#a7a11632378897367b979b12423a3f5dd">TEST</a> (FormulasTest, BaseGain)</td></tr>
+<tr class="separator:a7a11632378897367b979b12423a3f5dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac23831b7258f696b9e9a4972c42b5a4c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d61/a04775.html#ac23831b7258f696b9e9a4972c42b5a4c">TEST</a> (FormulasTest, Gain)</td></tr>
+<tr class="separator:ac23831b7258f696b9e9a4972c42b5a4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a74bb31c469b2f6e9691219589ac41a12" name="a74bb31c469b2f6e9691219589ac41a12"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a74bb31c469b2f6e9691219589ac41a12">&#9670;&#160;</a></span>ArenaTeamWithRating()</h2>
+<a id="a7a11632378897367b979b12423a3f5dd" name="a7a11632378897367b979b12423a3f5dd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7a11632378897367b979b12423a3f5dd">&#9670;&#160;</a></span>TEST() <span class="overload">[1/6]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d4/dcf/a07311.html">ArenaTeam</a> ArenaTeamWithRating </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>rating</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>gamesPlayed</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   59</span>{</div>
-<div class="line"><span class="lineno">   60</span>    <a class="code hl_struct" href="../../d0/d9c/a07307.html">ArenaTeamStats</a> stats;</div>
-<div class="line"><span class="lineno">   61</span>    stats.<a class="code hl_variable" href="../../d0/d9c/a07307.html#ab43875cc3ae58eb636a490c2c0f5c1f6">Rating</a> = rating;</div>
-<div class="line"><span class="lineno">   62</span>    stats.<a class="code hl_variable" href="../../d0/d9c/a07307.html#a124c6d64f22c13707764eedd79fe1912">SeasonGames</a> = gamesPlayed;</div>
-<div class="line"><span class="lineno">   63</span>    <a class="code hl_class" href="../../d4/dcf/a07311.html">ArenaTeam</a> team;</div>
-<div class="line"><span class="lineno">   64</span>    team.<a class="code hl_function" href="../../d4/dcf/a07311.html#af8231c5442a950532af331d64ad13bea">SetArenaTeamStats</a>(stats);</div>
-<div class="line"><span class="lineno">   65</span>    <span class="keywordflow">return</span> team;</div>
-<div class="line"><span class="lineno">   66</span>}</div>
-<div class="ttc" id="aa07307_html"><div class="ttname"><a href="../../d0/d9c/a07307.html">ArenaTeamStats</a></div><div class="ttdef"><b>Definition:</b> ArenaTeam.h:125</div></div>
-<div class="ttc" id="aa07307_html_a124c6d64f22c13707764eedd79fe1912"><div class="ttname"><a href="../../d0/d9c/a07307.html#a124c6d64f22c13707764eedd79fe1912">ArenaTeamStats::SeasonGames</a></div><div class="ttdeci">uint16 SeasonGames</div><div class="ttdef"><b>Definition:</b> ArenaTeam.h:129</div></div>
-<div class="ttc" id="aa07307_html_ab43875cc3ae58eb636a490c2c0f5c1f6"><div class="ttname"><a href="../../d0/d9c/a07307.html#ab43875cc3ae58eb636a490c2c0f5c1f6">ArenaTeamStats::Rating</a></div><div class="ttdeci">uint16 Rating</div><div class="ttdef"><b>Definition:</b> ArenaTeam.h:126</div></div>
-<div class="ttc" id="aa07311_html"><div class="ttname"><a href="../../d4/dcf/a07311.html">ArenaTeam</a></div><div class="ttdef"><b>Definition:</b> ArenaTeam.h:137</div></div>
-<div class="ttc" id="aa07311_html_af8231c5442a950532af331d64ad13bea"><div class="ttname"><a href="../../d4/dcf/a07311.html#af8231c5442a950532af331d64ad13bea">ArenaTeam::SetArenaTeamStats</a></div><div class="ttdeci">void SetArenaTeamStats(ArenaTeamStats &amp;stats)</div><div class="ttdef"><b>Definition:</b> ArenaTeam.h:156</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00126">ArenaTeamStats::Rating</a>, <a class="el" href="../../#l00129">ArenaTeamStats::SeasonGames</a>, and <a class="el" href="../../#l00156">ArenaTeam::SetArenaTeamStats()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00069">TEST_F()</a>.</p>
-
-</div>
-</div>
-<a id="acd40406191e1dacb6e7400210157262a" name="acd40406191e1dacb6e7400210157262a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acd40406191e1dacb6e7400210157262a">&#9670;&#160;</a></span>TEST_F() <span class="overload">[1/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d28/a28811.html">ArenaSeasonRewardDistributorTest</a>&#160;</td>
+          <td class="paramtype">FormulasTest&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">ManyTeamsTwoRewardsDistribution&#160;</td>
+          <td class="paramtype">BaseGain&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -210,216 +157,42 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  122</span>{</div>
-<div class="line"><span class="lineno">  123</span>    <a class="code hl_typedef" href="../../d3/de5/a07315.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a> arenaTeams;</div>
-<div class="line"><span class="lineno">  124</span>    std::vector&lt;ArenaSeasonRewardGroup&gt; rewardGroups;</div>
-<div class="line"><span class="lineno">  125</span> </div>
-<div class="line"><span class="lineno">  126</span>    <span class="keyword">const</span> <span class="keywordtype">int</span> numTeams = 1000;</div>
-<div class="line"><span class="lineno">  127</span>    <a class="code hl_class" href="../../d4/dcf/a07311.html">ArenaTeam</a> teams[numTeams + 1]; <span class="comment">// used just to prevent teams deletion</span></div>
-<div class="line"><span class="lineno">  128</span>    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 1; i &lt;= numTeams; i++)</div>
-<div class="line"><span class="lineno">  129</span>    {</div>
-<div class="line"><span class="lineno">  130</span>        teams[i] = <a class="code hl_function" href="../../d9/d61/a04775.html#a74bb31c469b2f6e9691219589ac41a12">ArenaTeamWithRating</a>(i, 50);</div>
-<div class="line"><span class="lineno">  131</span>        arenaTeams[i] = &amp;teams[i];</div>
-<div class="line"><span class="lineno">  132</span>    }</div>
-<div class="line"><span class="lineno">  133</span> </div>
-<div class="line"><span class="lineno">  134</span>    <a class="code hl_struct" href="../../df/df8/a07267.html">ArenaSeasonRewardGroup</a> rewardGroup1;</div>
-<div class="line"><span class="lineno">  135</span>    rewardGroup1.<a class="code hl_variable" href="../../df/df8/a07267.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> = <a class="code hl_enumvalue" href="../../da/d9c/a00413.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>;</div>
-<div class="line"><span class="lineno">  136</span>    rewardGroup1.<a class="code hl_variable" href="../../df/df8/a07267.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> = 0.0;  <span class="comment">// 0%</span></div>
-<div class="line"><span class="lineno">  137</span>    rewardGroup1.<a class="code hl_variable" href="../../df/df8/a07267.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> = 0.5;  <span class="comment">// 0.5% of total teams</span></div>
-<div class="line"><span class="lineno">  138</span>    rewardGroups.push_back(rewardGroup1);</div>
-<div class="line"><span class="lineno">  139</span> </div>
-<div class="line"><span class="lineno">  140</span>    <a class="code hl_struct" href="../../df/df8/a07267.html">ArenaSeasonRewardGroup</a> rewardGroup2;</div>
-<div class="line"><span class="lineno">  141</span>    rewardGroup2.<a class="code hl_variable" href="../../df/df8/a07267.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> = <a class="code hl_enumvalue" href="../../da/d9c/a00413.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>;</div>
-<div class="line"><span class="lineno">  142</span>    rewardGroup2.<a class="code hl_variable" href="../../df/df8/a07267.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> = 0.5;  <span class="comment">// 0.5% (the top 0.5% of the teams)</span></div>
-<div class="line"><span class="lineno">  143</span>    rewardGroup2.<a class="code hl_variable" href="../../df/df8/a07267.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> = 3.0;  <span class="comment">// 3% of total teams</span></div>
-<div class="line"><span class="lineno">  144</span>    rewardGroups.push_back(rewardGroup2);</div>
-<div class="line"><span class="lineno">  145</span> </div>
-<div class="line"><span class="lineno">  146</span>    <a class="code hl_struct" href="../../df/df8/a07267.html">ArenaSeasonRewardGroup</a> rewardGroup3;</div>
-<div class="line"><span class="lineno">  147</span>    rewardGroup3.<a class="code hl_variable" href="../../df/df8/a07267.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> = <a class="code hl_enumvalue" href="../../da/d9c/a00413.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>;</div>
-<div class="line"><span class="lineno">  148</span>    rewardGroup3.<a class="code hl_variable" href="../../df/df8/a07267.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> = 3;</div>
-<div class="line"><span class="lineno">  149</span>    rewardGroup3.<a class="code hl_variable" href="../../df/df8/a07267.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> = 10;</div>
-<div class="line"><span class="lineno">  150</span>    rewardGroups.push_back(rewardGroup3);</div>
-<div class="line"><span class="lineno">  151</span> </div>
-<div class="line"><span class="lineno">  152</span>    <a class="code hl_struct" href="../../df/df8/a07267.html">ArenaSeasonRewardGroup</a> rewardGroup4;</div>
-<div class="line"><span class="lineno">  153</span>    rewardGroup4.<a class="code hl_variable" href="../../df/df8/a07267.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> = <a class="code hl_enumvalue" href="../../da/d9c/a00413.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>;</div>
-<div class="line"><span class="lineno">  154</span>    rewardGroup4.<a class="code hl_variable" href="../../df/df8/a07267.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> = 10;</div>
-<div class="line"><span class="lineno">  155</span>    rewardGroup4.<a class="code hl_variable" href="../../df/df8/a07267.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> = 35;</div>
-<div class="line"><span class="lineno">  156</span>    rewardGroups.push_back(rewardGroup4);</div>
-<div class="line"><span class="lineno">  157</span> </div>
-<div class="line"><span class="lineno">  158</span>    <span class="comment">// Top 1</span></div>
-<div class="line"><span class="lineno">  159</span>    <a class="code hl_struct" href="../../df/df8/a07267.html">ArenaSeasonRewardGroup</a> rewardGroup5;</div>
-<div class="line"><span class="lineno">  160</span>    rewardGroup5.<a class="code hl_variable" href="../../df/df8/a07267.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> = <a class="code hl_enumvalue" href="../../da/d9c/a00413.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63">ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE</a>;</div>
-<div class="line"><span class="lineno">  161</span>    rewardGroup5.<a class="code hl_variable" href="../../df/df8/a07267.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> = 1;</div>
-<div class="line"><span class="lineno">  162</span>    rewardGroup5.<a class="code hl_variable" href="../../df/df8/a07267.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> = 1;</div>
-<div class="line"><span class="lineno">  163</span>    rewardGroups.push_back(rewardGroup5);</div>
-<div class="line"><span class="lineno">  164</span> </div>
-<div class="line"><span class="lineno">  165</span>    <span class="comment">// Calculate expected reward distributions</span></div>
-<div class="line"><span class="lineno">  166</span>    <span class="keywordtype">int</span> expectedTeamsInGroup1 = <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>(0.005 * numTeams);  <span class="comment">// 0.5% of 1000 = 5</span></div>
-<div class="line"><span class="lineno">  167</span>    <span class="keywordtype">int</span> expectedTeamsInGroup2 = <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>(0.03 * numTeams);   <span class="comment">// 3% of 1000 = 30</span></div>
-<div class="line"><span class="lineno">  168</span>    <span class="keywordtype">int</span> expectedTeamsInGroup3 = <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>(0.10 * numTeams);   <span class="comment">// 10% of 1000 = 100</span></div>
-<div class="line"><span class="lineno">  169</span>    <span class="keywordtype">int</span> expectedTeamsInGroup4 = <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>(0.35 * numTeams);   <span class="comment">// 35% of 1000 = 350</span></div>
-<div class="line"><span class="lineno">  170</span> </div>
-<div class="line"><span class="lineno">  171</span>    <span class="keywordtype">int</span> teamsIndexCounter = numTeams;</div>
-<div class="line"><span class="lineno">  172</span> </div>
-<div class="line"><span class="lineno">  173</span>    <span class="comment">// Expectation for rewardGroup1 (top 0.5% of teams)</span></div>
-<div class="line"><span class="lineno">  174</span>    <span class="keywordflow">for</span> (; teamsIndexCounter &gt; numTeams - expectedTeamsInGroup1; --teamsIndexCounter)</div>
-<div class="line"><span class="lineno">  175</span>        EXPECT_CALL(*_mockRewarder, RewardTeamWithRewardGroup(&amp;teams[teamsIndexCounter], rewardGroup1)).<a class="code hl_enumeration" href="../../d4/def/a00359.html#a3c5d18364f664b5ad98e2ad610875cb5">Times</a>(1);</div>
-<div class="line"><span class="lineno">  176</span> </div>
-<div class="line"><span class="lineno">  177</span>    <span class="comment">// Expectation for rewardGroup2 (next 3% - 0.5% teams)</span></div>
-<div class="line"><span class="lineno">  178</span>    <span class="keywordflow">for</span> (; teamsIndexCounter &gt; numTeams - expectedTeamsInGroup2; --teamsIndexCounter)</div>
-<div class="line"><span class="lineno">  179</span>        EXPECT_CALL(*_mockRewarder, RewardTeamWithRewardGroup(&amp;teams[teamsIndexCounter], rewardGroup2)).<a class="code hl_enumeration" href="../../d4/def/a00359.html#a3c5d18364f664b5ad98e2ad610875cb5">Times</a>(1);</div>
-<div class="line"><span class="lineno">  180</span> </div>
-<div class="line"><span class="lineno">  181</span>    <span class="keywordflow">for</span> (; teamsIndexCounter &gt; numTeams - expectedTeamsInGroup3; --teamsIndexCounter)</div>
-<div class="line"><span class="lineno">  182</span>        EXPECT_CALL(*_mockRewarder, RewardTeamWithRewardGroup(&amp;teams[teamsIndexCounter], rewardGroup3)).<a class="code hl_enumeration" href="../../d4/def/a00359.html#a3c5d18364f664b5ad98e2ad610875cb5">Times</a>(1);</div>
-<div class="line"><span class="lineno">  183</span> </div>
-<div class="line"><span class="lineno">  184</span>    <span class="keywordflow">for</span> (; teamsIndexCounter &gt; numTeams - expectedTeamsInGroup4; --teamsIndexCounter)</div>
-<div class="line"><span class="lineno">  185</span>        EXPECT_CALL(*_mockRewarder, RewardTeamWithRewardGroup(&amp;teams[teamsIndexCounter], rewardGroup4)).<a class="code hl_enumeration" href="../../d4/def/a00359.html#a3c5d18364f664b5ad98e2ad610875cb5">Times</a>(1);</div>
-<div class="line"><span class="lineno">  186</span> </div>
-<div class="line"><span class="lineno">  187</span>    <span class="comment">// Top 1</span></div>
-<div class="line"><span class="lineno">  188</span>    EXPECT_CALL(*_mockRewarder, RewardTeamWithRewardGroup(&amp;teams[numTeams], rewardGroup5)).Times(1);</div>
-<div class="line"><span class="lineno">  189</span> </div>
-<div class="line"><span class="lineno">  190</span>    _distributor-&gt;DistributeRewards(arenaTeams, rewardGroups);</div>
-<div class="line"><span class="lineno">  191</span>}</div>
-<div class="ttc" id="aa00359_html_a3c5d18364f664b5ad98e2ad610875cb5"><div class="ttname"><a href="../../d4/def/a00359.html#a3c5d18364f664b5ad98e2ad610875cb5">Times</a></div><div class="ttdeci">Times</div><div class="ttdef"><b>Definition:</b> BattlegroundIC.h:194</div></div>
-<div class="ttc" id="aa00413_html_a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422"><div class="ttname"><a href="../../da/d9c/a00413.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a></div><div class="ttdeci">@ ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:40</div></div>
-<div class="ttc" id="aa00413_html_a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63"><div class="ttname"><a href="../../da/d9c/a00413.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63">ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE</a></div><div class="ttdeci">@ ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:41</div></div>
-<div class="ttc" id="aa04775_html_a74bb31c469b2f6e9691219589ac41a12"><div class="ttname"><a href="../../d9/d61/a04775.html#a74bb31c469b2f6e9691219589ac41a12">ArenaTeamWithRating</a></div><div class="ttdeci">ArenaTeam ArenaTeamWithRating(int rating, int gamesPlayed)</div><div class="ttdef"><b>Definition:</b> ArenaSeasonRewardDistributorTest.cpp:58</div></div>
-<div class="ttc" id="aa07267_html"><div class="ttname"><a href="../../df/df8/a07267.html">ArenaSeasonRewardGroup</a></div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:62</div></div>
-<div class="ttc" id="aa07267_html_a07507bd59265508a463aa328f343afa0"><div class="ttname"><a href="../../df/df8/a07267.html#a07507bd59265508a463aa328f343afa0">ArenaSeasonRewardGroup::minCriteria</a></div><div class="ttdeci">float minCriteria</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:69</div></div>
-<div class="ttc" id="aa07267_html_a16261356df6f5aed35bc3ec06ab49560"><div class="ttname"><a href="../../df/df8/a07267.html#a16261356df6f5aed35bc3ec06ab49560">ArenaSeasonRewardGroup::criteriaType</a></div><div class="ttdeci">ArenaSeasonRewardGroupCriteriaType criteriaType</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:67</div></div>
-<div class="ttc" id="aa07267_html_aa3cf9a0ad2ed2170542ec360e61682e2"><div class="ttname"><a href="../../df/df8/a07267.html#aa3cf9a0ad2ed2170542ec360e61682e2">ArenaSeasonRewardGroup::maxCriteria</a></div><div class="ttdeci">float maxCriteria</div><div class="ttdef"><b>Definition:</b> ArenaSeasonMgr.h:70</div></div>
-<div class="ttc" id="aa07315_html_ac76e895599b64e0824e923faf9c08560"><div class="ttname"><a href="../../d3/de5/a07315.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a></div><div class="ttdeci">std::unordered_map&lt; uint32, ArenaTeam * &gt; ArenaTeamContainer</div><div class="ttdef"><b>Definition:</b> ArenaTeamMgr.h:34</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00041">ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE</a>, <a class="el" href="../../#l00040">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>, <a class="el" href="../../#l00058">ArenaTeamWithRating()</a>, <a class="el" href="../../#l00067">ArenaSeasonRewardGroup::criteriaType</a>, <a class="el" href="../../#l00070">ArenaSeasonRewardGroup::maxCriteria</a>, and <a class="el" href="../../#l00069">ArenaSeasonRewardGroup::minCriteria</a>.</p>
-
-</div>
-</div>
-<a id="a7bfddbb1d9978546d0eff10b29942b32" name="a7bfddbb1d9978546d0eff10b29942b32"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7bfddbb1d9978546d0eff10b29942b32">&#9670;&#160;</a></span>TEST_F() <span class="overload">[2/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d28/a28811.html">ArenaSeasonRewardDistributorTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">MinimumRequiredGamesFilter&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  196</span>{</div>
-<div class="line"><span class="lineno">  197</span>    <a class="code hl_typedef" href="../../d3/de5/a07315.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a> arenaTeams;</div>
-<div class="line"><span class="lineno">  198</span>    std::vector&lt;ArenaSeasonRewardGroup&gt; rewardGroups;</div>
-<div class="line"><span class="lineno">  199</span> </div>
-<div class="line"><span class="lineno">  200</span>    <span class="comment">// Creating three teams: one below and two above the minRequiredGames threshold (30 games)</span></div>
-<div class="line"><span class="lineno">  201</span>    <a class="code hl_class" href="../../d4/dcf/a07311.html">ArenaTeam</a> team1 = <a class="code hl_function" href="../../d9/d61/a04775.html#a74bb31c469b2f6e9691219589ac41a12">ArenaTeamWithRating</a>(1500, 50);  <span class="comment">// Eligible, as it has 50 games</span></div>
-<div class="line"><span class="lineno">  202</span>    <a class="code hl_class" href="../../d4/dcf/a07311.html">ArenaTeam</a> team2 = <a class="code hl_function" href="../../d9/d61/a04775.html#a74bb31c469b2f6e9691219589ac41a12">ArenaTeamWithRating</a>(1100, 20);  <span class="comment">// Not eligible, as it has only 20 games</span></div>
-<div class="line"><span class="lineno">  203</span>    <a class="code hl_class" href="../../d4/dcf/a07311.html">ArenaTeam</a> team3 = <a class="code hl_function" href="../../d9/d61/a04775.html#a74bb31c469b2f6e9691219589ac41a12">ArenaTeamWithRating</a>(1300, 40);  <span class="comment">// Eligible, as it has 40 games</span></div>
-<div class="line"><span class="lineno">  204</span> </div>
-<div class="line"><span class="lineno">  205</span>    <span class="comment">// Adding teams to the container</span></div>
-<div class="line"><span class="lineno">  206</span>    arenaTeams[1] = &amp;team1;</div>
-<div class="line"><span class="lineno">  207</span>    arenaTeams[2] = &amp;team2;</div>
-<div class="line"><span class="lineno">  208</span>    arenaTeams[3] = &amp;team3;</div>
-<div class="line"><span class="lineno">  209</span> </div>
-<div class="line"><span class="lineno">  210</span>    <span class="comment">// Creating a single reward group covering all teams</span></div>
-<div class="line"><span class="lineno">  211</span>    <a class="code hl_struct" href="../../df/df8/a07267.html">ArenaSeasonRewardGroup</a> rewardGroup;</div>
-<div class="line"><span class="lineno">  212</span>    rewardGroup.<a class="code hl_variable" href="../../df/df8/a07267.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> = <a class="code hl_enumvalue" href="../../da/d9c/a00413.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>;</div>
-<div class="line"><span class="lineno">  213</span>    rewardGroup.<a class="code hl_variable" href="../../df/df8/a07267.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> = 0.0;</div>
-<div class="line"><span class="lineno">  214</span>    rewardGroup.<a class="code hl_variable" href="../../df/df8/a07267.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> = 100;</div>
-<div class="line"><span class="lineno">  215</span>    rewardGroups.push_back(rewardGroup);</div>
-<div class="line"><span class="lineno">  216</span> </div>
-<div class="line"><span class="lineno">  217</span>    <span class="comment">// We expect the rewarder to be called for team1 and team3, but not for team2.</span></div>
-<div class="line"><span class="lineno">  218</span>    EXPECT_CALL(*_mockRewarder, RewardTeamWithRewardGroup(&amp;team1, rewardGroup)).Times(1);</div>
-<div class="line"><span class="lineno">  219</span>    EXPECT_CALL(*_mockRewarder, RewardTeamWithRewardGroup(&amp;team3, rewardGroup)).Times(1);</div>
-<div class="line"><span class="lineno">  220</span>    EXPECT_CALL(*_mockRewarder, RewardTeamWithRewardGroup(&amp;team2, rewardGroup)).Times(0);</div>
-<div class="line"><span class="lineno">  221</span> </div>
-<div class="line"><span class="lineno">  222</span>    _distributor-&gt;DistributeRewards(arenaTeams, rewardGroups);</div>
-<div class="line"><span class="lineno">  223</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00040">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>, <a class="el" href="../../#l00058">ArenaTeamWithRating()</a>, <a class="el" href="../../#l00067">ArenaSeasonRewardGroup::criteriaType</a>, <a class="el" href="../../#l00070">ArenaSeasonRewardGroup::maxCriteria</a>, and <a class="el" href="../../#l00069">ArenaSeasonRewardGroup::minCriteria</a>.</p>
-
-</div>
-</div>
-<a id="a5a69347e03ab5eeea43bfcbffb063d52" name="a5a69347e03ab5eeea43bfcbffb063d52"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5a69347e03ab5eeea43bfcbffb063d52">&#9670;&#160;</a></span>TEST_F() <span class="overload">[3/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">TEST_F </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d28/a28811.html">ArenaSeasonRewardDistributorTest</a>&#160;</td>
-          <td class="paramname">, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">SingleTeamMultipleAbsRewardDistribution&#160;</td>
-          <td class="paramname">&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   95</span>{</div>
-<div class="line"><span class="lineno">   96</span>    <a class="code hl_typedef" href="../../d3/de5/a07315.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a> arenaTeams;</div>
-<div class="line"><span class="lineno">   97</span>    std::vector&lt;ArenaSeasonRewardGroup&gt; rewardGroups;</div>
+<div class="fragment"><div class="line"><span class="lineno">   92</span>{</div>
+<div class="line"><span class="lineno">   93</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#ada8e56c81ab672d85f2ff274d109e477">BaseGain</a>(60, 40, <a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#adb4039320bbc363da97cee8d73c6cae3a68ea4d4597b255338cf2456581dd3a44">CONTENT_1_60</a>), 0);</div>
+<div class="line"><span class="lineno">   94</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#ada8e56c81ab672d85f2ff274d109e477">BaseGain</a>(60, 60, <a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#adb4039320bbc363da97cee8d73c6cae3a68ea4d4597b255338cf2456581dd3a44">CONTENT_1_60</a>), 345);</div>
+<div class="line"><span class="lineno">   95</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#ada8e56c81ab672d85f2ff274d109e477">BaseGain</a>(50, 60, <a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#adb4039320bbc363da97cee8d73c6cae3a68ea4d4597b255338cf2456581dd3a44">CONTENT_1_60</a>), 354);</div>
+<div class="line"><span class="lineno">   96</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#ada8e56c81ab672d85f2ff274d109e477">BaseGain</a>(65, 66, <a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#adb4039320bbc363da97cee8d73c6cae3a0bd1720e4f1744924485f32a2425e314">CONTENT_61_70</a>), 588);</div>
+<div class="line"><span class="lineno">   97</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#ada8e56c81ab672d85f2ff274d109e477">BaseGain</a>(79, 78, <a class="code hl_enumvalue" href="../../d2/d2f/a01586.html#adb4039320bbc363da97cee8d73c6cae3a4f68b502900171ba379179f367a2d6e5">CONTENT_71_80</a>), 917);</div>
 <div class="line"><span class="lineno">   98</span> </div>
-<div class="line"><span class="lineno">   99</span>    <a class="code hl_class" href="../../d4/dcf/a07311.html">ArenaTeam</a> team = <a class="code hl_function" href="../../d9/d61/a04775.html#a74bb31c469b2f6e9691219589ac41a12">ArenaTeamWithRating</a>(1500, 50);</div>
-<div class="line"><span class="lineno">  100</span>    arenaTeams[1] = &amp;team;</div>
-<div class="line"><span class="lineno">  101</span> </div>
-<div class="line"><span class="lineno">  102</span>    <a class="code hl_struct" href="../../df/df8/a07267.html">ArenaSeasonRewardGroup</a> rewardGroup;</div>
-<div class="line"><span class="lineno">  103</span>    rewardGroup.<a class="code hl_variable" href="../../df/df8/a07267.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> = <a class="code hl_enumvalue" href="../../da/d9c/a00413.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63">ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE</a>;</div>
-<div class="line"><span class="lineno">  104</span>    rewardGroup.<a class="code hl_variable" href="../../df/df8/a07267.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> = 1;</div>
-<div class="line"><span class="lineno">  105</span>    rewardGroup.<a class="code hl_variable" href="../../df/df8/a07267.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> = 1;</div>
-<div class="line"><span class="lineno">  106</span>    rewardGroups.push_back(rewardGroup);</div>
-<div class="line"><span class="lineno">  107</span>    <a class="code hl_struct" href="../../df/df8/a07267.html">ArenaSeasonRewardGroup</a> rewardGroup2;</div>
-<div class="line"><span class="lineno">  108</span>    rewardGroup2.<a class="code hl_variable" href="../../df/df8/a07267.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> = <a class="code hl_enumvalue" href="../../da/d9c/a00413.html#a983281e9aada2538d6bc53ae4dd4d266a80897ebd11175aa1dd3435611c86dd63">ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE</a>;</div>
-<div class="line"><span class="lineno">  109</span>    rewardGroup2.<a class="code hl_variable" href="../../df/df8/a07267.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> = 2;</div>
-<div class="line"><span class="lineno">  110</span>    rewardGroup2.<a class="code hl_variable" href="../../df/df8/a07267.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> = 10;</div>
-<div class="line"><span class="lineno">  111</span>    rewardGroups.push_back(rewardGroup2);</div>
-<div class="line"><span class="lineno">  112</span> </div>
-<div class="line"><span class="lineno">  113</span>    EXPECT_CALL(*_mockRewarder, RewardTeamWithRewardGroup(&amp;team, rewardGroup)).Times(1);</div>
-<div class="line"><span class="lineno">  114</span> </div>
-<div class="line"><span class="lineno">  115</span>    _distributor-&gt;DistributeRewards(arenaTeams, rewardGroups);</div>
-<div class="line"><span class="lineno">  116</span>}</div>
+<div class="line"><span class="lineno">   99</span>    <span class="comment">// check outError() has been called after passing an invalid ContentLevels content</span></div>
+<div class="line"><span class="lineno">  100</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#ada8e56c81ab672d85f2ff274d109e477">BaseGain</a>(79, 1, <a class="code hl_enumeration" href="../../d2/d2f/a01586.html#adb4039320bbc363da97cee8d73c6cae3">ContentLevels</a>(999)), 0);</div>
+<div class="line"><span class="lineno">  101</span>}</div>
+<div class="ttc" id="aa01586_html_adb4039320bbc363da97cee8d73c6cae3"><div class="ttname"><a href="../../d2/d2f/a01586.html#adb4039320bbc363da97cee8d73c6cae3">ContentLevels</a></div><div class="ttdeci">ContentLevels</div><div class="ttdef"><b>Definition:</b> DBCStores.h:41</div></div>
+<div class="ttc" id="aa01586_html_adb4039320bbc363da97cee8d73c6cae3a0bd1720e4f1744924485f32a2425e314"><div class="ttname"><a href="../../d2/d2f/a01586.html#adb4039320bbc363da97cee8d73c6cae3a0bd1720e4f1744924485f32a2425e314">CONTENT_61_70</a></div><div class="ttdeci">@ CONTENT_61_70</div><div class="ttdef"><b>Definition:</b> DBCStores.h:43</div></div>
+<div class="ttc" id="aa01586_html_adb4039320bbc363da97cee8d73c6cae3a4f68b502900171ba379179f367a2d6e5"><div class="ttname"><a href="../../d2/d2f/a01586.html#adb4039320bbc363da97cee8d73c6cae3a4f68b502900171ba379179f367a2d6e5">CONTENT_71_80</a></div><div class="ttdeci">@ CONTENT_71_80</div><div class="ttdef"><b>Definition:</b> DBCStores.h:44</div></div>
+<div class="ttc" id="aa01586_html_adb4039320bbc363da97cee8d73c6cae3a68ea4d4597b255338cf2456581dd3a44"><div class="ttname"><a href="../../d2/d2f/a01586.html#adb4039320bbc363da97cee8d73c6cae3a68ea4d4597b255338cf2456581dd3a44">CONTENT_1_60</a></div><div class="ttdeci">@ CONTENT_1_60</div><div class="ttdef"><b>Definition:</b> DBCStores.h:42</div></div>
+<div class="ttc" id="aa04856_html_ada8e56c81ab672d85f2ff274d109e477"><div class="ttname"><a href="../../db/dde/a04856.html#ada8e56c81ab672d85f2ff274d109e477">Acore::XP::BaseGain</a></div><div class="ttdeci">uint32 BaseGain(uint8 pl_level, uint8 mob_level, ContentLevels content)</div><div class="ttdef"><b>Definition:</b> Formulas.cpp:26</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00041">ARENA_SEASON_REWARD_CRITERIA_TYPE_ABSOLUTE_VALUE</a>, <a class="el" href="../../#l00058">ArenaTeamWithRating()</a>, <a class="el" href="../../#l00067">ArenaSeasonRewardGroup::criteriaType</a>, <a class="el" href="../../#l00070">ArenaSeasonRewardGroup::maxCriteria</a>, and <a class="el" href="../../#l00069">ArenaSeasonRewardGroup::minCriteria</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00026">Acore::XP::BaseGain()</a>, <a class="el" href="../../#l00042">CONTENT_1_60</a>, <a class="el" href="../../#l00043">CONTENT_61_70</a>, and <a class="el" href="../../#l00044">CONTENT_71_80</a>.</p>
 
 </div>
 </div>
-<a id="a1ba0a1dda2222e2d5931f54c84ed5162" name="a1ba0a1dda2222e2d5931f54c84ed5162"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1ba0a1dda2222e2d5931f54c84ed5162">&#9670;&#160;</a></span>TEST_F() <span class="overload">[4/4]</span></h2>
+<a id="ac23831b7258f696b9e9a4972c42b5a4c" name="ac23831b7258f696b9e9a4972c42b5a4c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac23831b7258f696b9e9a4972c42b5a4c">&#9670;&#160;</a></span>TEST() <span class="overload">[2/6]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">TEST_F </td>
+          <td class="memname">TEST </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d3/d28/a28811.html">ArenaSeasonRewardDistributorTest</a>&#160;</td>
+          <td class="paramtype">FormulasTest&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">SingleTeamMultiplePctRewardDistribution&#160;</td>
+          <td class="paramtype">Gain&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -429,30 +202,202 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   70</span>{</div>
-<div class="line"><span class="lineno">   71</span>    <a class="code hl_typedef" href="../../d3/de5/a07315.html#ac76e895599b64e0824e923faf9c08560">ArenaTeamMgr::ArenaTeamContainer</a> arenaTeams;</div>
-<div class="line"><span class="lineno">   72</span>    std::vector&lt;ArenaSeasonRewardGroup&gt; rewardGroups;</div>
-<div class="line"><span class="lineno">   73</span> </div>
-<div class="line"><span class="lineno">   74</span>    <a class="code hl_class" href="../../d4/dcf/a07311.html">ArenaTeam</a> team = <a class="code hl_function" href="../../d9/d61/a04775.html#a74bb31c469b2f6e9691219589ac41a12">ArenaTeamWithRating</a>(1500, 50);</div>
-<div class="line"><span class="lineno">   75</span>    arenaTeams[1] = &amp;team;</div>
-<div class="line"><span class="lineno">   76</span> </div>
-<div class="line"><span class="lineno">   77</span>    <a class="code hl_struct" href="../../df/df8/a07267.html">ArenaSeasonRewardGroup</a> rewardGroup;</div>
-<div class="line"><span class="lineno">   78</span>    rewardGroup.<a class="code hl_variable" href="../../df/df8/a07267.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> = <a class="code hl_enumvalue" href="../../da/d9c/a00413.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>;</div>
-<div class="line"><span class="lineno">   79</span>    rewardGroup.<a class="code hl_variable" href="../../df/df8/a07267.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> = 0;</div>
-<div class="line"><span class="lineno">   80</span>    rewardGroup.<a class="code hl_variable" href="../../df/df8/a07267.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> = 0.5;</div>
-<div class="line"><span class="lineno">   81</span>    rewardGroups.push_back(rewardGroup);</div>
-<div class="line"><span class="lineno">   82</span>    <a class="code hl_struct" href="../../df/df8/a07267.html">ArenaSeasonRewardGroup</a> rewardGroup2;</div>
-<div class="line"><span class="lineno">   83</span>    rewardGroup2.<a class="code hl_variable" href="../../df/df8/a07267.html#a16261356df6f5aed35bc3ec06ab49560">criteriaType</a> = <a class="code hl_enumvalue" href="../../da/d9c/a00413.html#a983281e9aada2538d6bc53ae4dd4d266a39f434bc965a3f4fafe78ece7d3f6422">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>;</div>
-<div class="line"><span class="lineno">   84</span>    rewardGroup2.<a class="code hl_variable" href="../../df/df8/a07267.html#a07507bd59265508a463aa328f343afa0">minCriteria</a> = 0.5;</div>
-<div class="line"><span class="lineno">   85</span>    rewardGroup2.<a class="code hl_variable" href="../../df/df8/a07267.html#aa3cf9a0ad2ed2170542ec360e61682e2">maxCriteria</a> = 100;</div>
-<div class="line"><span class="lineno">   86</span>    rewardGroups.push_back(rewardGroup2);</div>
-<div class="line"><span class="lineno">   87</span> </div>
-<div class="line"><span class="lineno">   88</span>    EXPECT_CALL(*_mockRewarder, RewardTeamWithRewardGroup(&amp;team, rewardGroup2)).Times(1);</div>
-<div class="line"><span class="lineno">   89</span> </div>
-<div class="line"><span class="lineno">   90</span>    _distributor-&gt;DistributeRewards(arenaTeams, rewardGroups);</div>
-<div class="line"><span class="lineno">   91</span>}</div>
+<dl class="todo"><dt><b><a class="el" href="../../df/dc6/a04793.html#_todo000264">Todo:</a></b></dt><dd>: create mocks of <a class="el" href="../../d4/d78/a08663.html">Player</a> and <a class="el" href="../../d3/d30/a08043.html">Creature</a> </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">  104</span>{</div>
+<div class="line"><span class="lineno">  105</span>    <span class="keyword">auto</span> worldMock = <span class="keyword">new</span> <a class="code hl_class" href="../../d4/dc2/a28843.html">WorldMock</a>();</div>
+<div class="line"><span class="lineno">  106</span>    <a class="code hl_define" href="../../d3/d1a/a04798.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>.reset((worldMock));</div>
+<div class="line"><span class="lineno">  108</span>    <span class="comment">// Gain(nullptr, nullptr);</span></div>
+<div class="line"><span class="lineno">  109</span>}</div>
+<div class="ttc" id="aa04798_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../d3/d1a/a04798.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:316</div></div>
+<div class="ttc" id="aa28843_html"><div class="ttname"><a href="../../d4/dc2/a28843.html">WorldMock</a></div><div class="ttdef"><b>Definition:</b> WorldMock.h:32</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00040">ARENA_SEASON_REWARD_CRITERIA_TYPE_PERCENT_VALUE</a>, <a class="el" href="../../#l00058">ArenaTeamWithRating()</a>, <a class="el" href="../../#l00067">ArenaSeasonRewardGroup::criteriaType</a>, <a class="el" href="../../#l00070">ArenaSeasonRewardGroup::maxCriteria</a>, and <a class="el" href="../../#l00069">ArenaSeasonRewardGroup::minCriteria</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00316">sWorld</a>.</p>
+
+</div>
+</div>
+<a id="a5fcf85473a490662471938a1f773d6e2" name="a5fcf85473a490662471938a1f773d6e2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5fcf85473a490662471938a1f773d6e2">&#9670;&#160;</a></span>TEST() <span class="overload">[3/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST </td>
+          <td>(</td>
+          <td class="paramtype">FormulasTest&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">GetColorCode&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   50</span>{</div>
+<div class="line"><span class="lineno">   51</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a812c722ab7eb34807d8cad9659d34245">GetColorCode</a>(60, 80), <a class="code hl_enumvalue" href="../../d1/da3/a04100.html#a4730a8cb3b5ba4caf0c78c978dcf4458a8b9de8b212e8c6817d46ade5e1cddb2c">XP_RED</a>);</div>
+<div class="line"><span class="lineno">   52</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a812c722ab7eb34807d8cad9659d34245">GetColorCode</a>(60, 65), <a class="code hl_enumvalue" href="../../d1/da3/a04100.html#a4730a8cb3b5ba4caf0c78c978dcf4458a8b9de8b212e8c6817d46ade5e1cddb2c">XP_RED</a>);</div>
+<div class="line"><span class="lineno">   53</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a812c722ab7eb34807d8cad9659d34245">GetColorCode</a>(60, 64), <a class="code hl_enumvalue" href="../../d1/da3/a04100.html#a4730a8cb3b5ba4caf0c78c978dcf4458aaf9065b4a6308f6fec4f2a74aeea4db7">XP_ORANGE</a>);</div>
+<div class="line"><span class="lineno">   54</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a812c722ab7eb34807d8cad9659d34245">GetColorCode</a>(60, 63), <a class="code hl_enumvalue" href="../../d1/da3/a04100.html#a4730a8cb3b5ba4caf0c78c978dcf4458aaf9065b4a6308f6fec4f2a74aeea4db7">XP_ORANGE</a>);</div>
+<div class="line"><span class="lineno">   55</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a812c722ab7eb34807d8cad9659d34245">GetColorCode</a>(60, 62), <a class="code hl_enumvalue" href="../../d1/da3/a04100.html#a4730a8cb3b5ba4caf0c78c978dcf4458a4b0d250ed5a161fc04a68c3ffe34873a">XP_YELLOW</a>);</div>
+<div class="line"><span class="lineno">   56</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a812c722ab7eb34807d8cad9659d34245">GetColorCode</a>(60, 58), <a class="code hl_enumvalue" href="../../d1/da3/a04100.html#a4730a8cb3b5ba4caf0c78c978dcf4458a4b0d250ed5a161fc04a68c3ffe34873a">XP_YELLOW</a>);</div>
+<div class="line"><span class="lineno">   57</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a812c722ab7eb34807d8cad9659d34245">GetColorCode</a>(60, 57), <a class="code hl_enumvalue" href="../../d1/da3/a04100.html#a4730a8cb3b5ba4caf0c78c978dcf4458a31efade814abd9f4cdcf258bbbe94b6e">XP_GREEN</a>);</div>
+<div class="line"><span class="lineno">   58</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a812c722ab7eb34807d8cad9659d34245">GetColorCode</a>(60, 52), <a class="code hl_enumvalue" href="../../d1/da3/a04100.html#a4730a8cb3b5ba4caf0c78c978dcf4458a31efade814abd9f4cdcf258bbbe94b6e">XP_GREEN</a>);</div>
+<div class="line"><span class="lineno">   59</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a812c722ab7eb34807d8cad9659d34245">GetColorCode</a>(60, 51), <a class="code hl_enumvalue" href="../../d1/da3/a04100.html#a4730a8cb3b5ba4caf0c78c978dcf4458a36cf0227da3b3aa6cbc972f5df549e92">XP_GRAY</a>);</div>
+<div class="line"><span class="lineno">   60</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a812c722ab7eb34807d8cad9659d34245">GetColorCode</a>(60, 1), <a class="code hl_enumvalue" href="../../d1/da3/a04100.html#a4730a8cb3b5ba4caf0c78c978dcf4458a36cf0227da3b3aa6cbc972f5df549e92">XP_GRAY</a>);</div>
+<div class="line"><span class="lineno">   61</span>}</div>
+<div class="ttc" id="aa04100_html_a4730a8cb3b5ba4caf0c78c978dcf4458a31efade814abd9f4cdcf258bbbe94b6e"><div class="ttname"><a href="../../d1/da3/a04100.html#a4730a8cb3b5ba4caf0c78c978dcf4458a31efade814abd9f4cdcf258bbbe94b6e">XP_GREEN</a></div><div class="ttdeci">@ XP_GREEN</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3847</div></div>
+<div class="ttc" id="aa04100_html_a4730a8cb3b5ba4caf0c78c978dcf4458a36cf0227da3b3aa6cbc972f5df549e92"><div class="ttname"><a href="../../d1/da3/a04100.html#a4730a8cb3b5ba4caf0c78c978dcf4458a36cf0227da3b3aa6cbc972f5df549e92">XP_GRAY</a></div><div class="ttdeci">@ XP_GRAY</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3848</div></div>
+<div class="ttc" id="aa04100_html_a4730a8cb3b5ba4caf0c78c978dcf4458a4b0d250ed5a161fc04a68c3ffe34873a"><div class="ttname"><a href="../../d1/da3/a04100.html#a4730a8cb3b5ba4caf0c78c978dcf4458a4b0d250ed5a161fc04a68c3ffe34873a">XP_YELLOW</a></div><div class="ttdeci">@ XP_YELLOW</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3846</div></div>
+<div class="ttc" id="aa04100_html_a4730a8cb3b5ba4caf0c78c978dcf4458a8b9de8b212e8c6817d46ade5e1cddb2c"><div class="ttname"><a href="../../d1/da3/a04100.html#a4730a8cb3b5ba4caf0c78c978dcf4458a8b9de8b212e8c6817d46ade5e1cddb2c">XP_RED</a></div><div class="ttdeci">@ XP_RED</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3844</div></div>
+<div class="ttc" id="aa04100_html_a4730a8cb3b5ba4caf0c78c978dcf4458aaf9065b4a6308f6fec4f2a74aeea4db7"><div class="ttname"><a href="../../d1/da3/a04100.html#a4730a8cb3b5ba4caf0c78c978dcf4458aaf9065b4a6308f6fec4f2a74aeea4db7">XP_ORANGE</a></div><div class="ttdeci">@ XP_ORANGE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3845</div></div>
+<div class="ttc" id="aa04856_html_a812c722ab7eb34807d8cad9659d34245"><div class="ttname"><a href="../../db/dde/a04856.html#a812c722ab7eb34807d8cad9659d34245">Acore::XP::GetColorCode</a></div><div class="ttdeci">XPColorChar GetColorCode(uint8 pl_level, uint8 mob_level)</div><div class="ttdef"><b>Definition:</b> Formulas.h:63</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00063">Acore::XP::GetColorCode()</a>, <a class="el" href="../../#l03848">XP_GRAY</a>, <a class="el" href="../../#l03847">XP_GREEN</a>, <a class="el" href="../../#l03845">XP_ORANGE</a>, <a class="el" href="../../#l03844">XP_RED</a>, and <a class="el" href="../../#l03846">XP_YELLOW</a>.</p>
+
+</div>
+</div>
+<a id="a8ffadf8c8dbffb858cf2a925473d6bff" name="a8ffadf8c8dbffb858cf2a925473d6bff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8ffadf8c8dbffb858cf2a925473d6bff">&#9670;&#160;</a></span>TEST() <span class="overload">[4/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST </td>
+          <td>(</td>
+          <td class="paramtype">FormulasTest&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">GetGrayLevel&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   38</span>{</div>
+<div class="line"><span class="lineno">   39</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a9c310a4423fd5ada14fac549e4b1a6fd">GetGrayLevel</a>(0), 0);</div>
+<div class="line"><span class="lineno">   40</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a9c310a4423fd5ada14fac549e4b1a6fd">GetGrayLevel</a>(5), 0);</div>
+<div class="line"><span class="lineno">   41</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a9c310a4423fd5ada14fac549e4b1a6fd">GetGrayLevel</a>(6), 1);</div>
+<div class="line"><span class="lineno">   42</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a9c310a4423fd5ada14fac549e4b1a6fd">GetGrayLevel</a>(39), 31);</div>
+<div class="line"><span class="lineno">   43</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a9c310a4423fd5ada14fac549e4b1a6fd">GetGrayLevel</a>(40), 31);</div>
+<div class="line"><span class="lineno">   44</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a9c310a4423fd5ada14fac549e4b1a6fd">GetGrayLevel</a>(59), 47);</div>
+<div class="line"><span class="lineno">   45</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a9c310a4423fd5ada14fac549e4b1a6fd">GetGrayLevel</a>(60), 51);</div>
+<div class="line"><span class="lineno">   46</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a9c310a4423fd5ada14fac549e4b1a6fd">GetGrayLevel</a>(80), 71);</div>
+<div class="line"><span class="lineno">   47</span>}</div>
+<div class="ttc" id="aa04856_html_a9c310a4423fd5ada14fac549e4b1a6fd"><div class="ttname"><a href="../../db/dde/a04856.html#a9c310a4423fd5ada14fac549e4b1a6fd">Acore::XP::GetGrayLevel</a></div><div class="ttdeci">uint8 GetGrayLevel(uint8 pl_level)</div><div class="ttdef"><b>Definition:</b> Formulas.h:46</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00046">Acore::XP::GetGrayLevel()</a>.</p>
+
+</div>
+</div>
+<a id="a23ac78cb09ef0a7b924b271ffefbc6a9" name="a23ac78cb09ef0a7b924b271ffefbc6a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a23ac78cb09ef0a7b924b271ffefbc6a9">&#9670;&#160;</a></span>TEST() <span class="overload">[5/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST </td>
+          <td>(</td>
+          <td class="paramtype">FormulasTest&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">GetZeroDifference&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   64</span>{</div>
+<div class="line"><span class="lineno">   65</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(1), 5);</div>
+<div class="line"><span class="lineno">   66</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(7), 5);</div>
+<div class="line"><span class="lineno">   67</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(8), 6);</div>
+<div class="line"><span class="lineno">   68</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(9), 6);</div>
+<div class="line"><span class="lineno">   69</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(10), 7);</div>
+<div class="line"><span class="lineno">   70</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(11), 7);</div>
+<div class="line"><span class="lineno">   71</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(12), 8);</div>
+<div class="line"><span class="lineno">   72</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(15), 8);</div>
+<div class="line"><span class="lineno">   73</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(16), 9);</div>
+<div class="line"><span class="lineno">   74</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(19), 9);</div>
+<div class="line"><span class="lineno">   75</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(20), 11);</div>
+<div class="line"><span class="lineno">   76</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(29), 11);</div>
+<div class="line"><span class="lineno">   77</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(30), 12);</div>
+<div class="line"><span class="lineno">   78</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(39), 12);</div>
+<div class="line"><span class="lineno">   79</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(40), 13);</div>
+<div class="line"><span class="lineno">   80</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(44), 13);</div>
+<div class="line"><span class="lineno">   81</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(45), 14);</div>
+<div class="line"><span class="lineno">   82</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(49), 14);</div>
+<div class="line"><span class="lineno">   83</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(50), 15);</div>
+<div class="line"><span class="lineno">   84</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(54), 15);</div>
+<div class="line"><span class="lineno">   85</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(55), 16);</div>
+<div class="line"><span class="lineno">   86</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(59), 16);</div>
+<div class="line"><span class="lineno">   87</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(60), 17);</div>
+<div class="line"><span class="lineno">   88</span>    EXPECT_EQ(<a class="code hl_function" href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">GetZeroDifference</a>(80), 17);</div>
+<div class="line"><span class="lineno">   89</span>}</div>
+<div class="ttc" id="aa04856_html_a4152e9ef9972f6a20cbc990dce953c36"><div class="ttname"><a href="../../db/dde/a04856.html#a4152e9ef9972f6a20cbc990dce953c36">Acore::XP::GetZeroDifference</a></div><div class="ttdeci">uint8 GetZeroDifference(uint8 pl_level)</div><div class="ttdef"><b>Definition:</b> Formulas.h:82</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00082">Acore::XP::GetZeroDifference()</a>.</p>
+
+</div>
+</div>
+<a id="a9b7a926251db0fa2bd2678cee360e161" name="a9b7a926251db0fa2bd2678cee360e161"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9b7a926251db0fa2bd2678cee360e161">&#9670;&#160;</a></span>TEST() <span class="overload">[6/6]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">TEST </td>
+          <td>(</td>
+          <td class="paramtype">FormulasTest&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">hk_honor_at_level&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   27</span>{</div>
+<div class="line"><span class="lineno">   28</span>    EXPECT_EQ(<a class="code hl_function" href="../../d9/d87/a04855.html#ad25519337dcc6370a39a072c53386f55">hk_honor_at_level</a>(80), 124);</div>
+<div class="line"><span class="lineno">   29</span>    EXPECT_EQ(<a class="code hl_function" href="../../d9/d87/a04855.html#ad25519337dcc6370a39a072c53386f55">hk_honor_at_level</a>(80, 2), 248);</div>
+<div class="line"><span class="lineno">   30</span>    EXPECT_EQ(<a class="code hl_function" href="../../d9/d87/a04855.html#ad25519337dcc6370a39a072c53386f55">hk_honor_at_level</a>(80, 0.5), 62);</div>
+<div class="line"><span class="lineno">   31</span>    EXPECT_EQ(<a class="code hl_function" href="../../d9/d87/a04855.html#ad25519337dcc6370a39a072c53386f55">hk_honor_at_level</a>(1), 2);</div>
+<div class="line"><span class="lineno">   32</span>    EXPECT_EQ(<a class="code hl_function" href="../../d9/d87/a04855.html#ad25519337dcc6370a39a072c53386f55">hk_honor_at_level</a>(1, 10), 16);</div>
+<div class="line"><span class="lineno">   33</span>    EXPECT_EQ(<a class="code hl_function" href="../../d9/d87/a04855.html#ad25519337dcc6370a39a072c53386f55">hk_honor_at_level</a>(2), 4);</div>
+<div class="line"><span class="lineno">   34</span>    EXPECT_EQ(<a class="code hl_function" href="../../d9/d87/a04855.html#ad25519337dcc6370a39a072c53386f55">hk_honor_at_level</a>(3), 5);</div>
+<div class="line"><span class="lineno">   35</span>}</div>
+<div class="ttc" id="aa04855_html_ad25519337dcc6370a39a072c53386f55"><div class="ttname"><a href="../../d9/d87/a04855.html#ad25519337dcc6370a39a072c53386f55">Acore::Honor::hk_honor_at_level</a></div><div class="ttdeci">uint32 hk_honor_at_level(uint8 level, float multiplier=1.0f)</div><div class="ttdef"><b>Definition:</b> Formulas.h:38</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00038">Acore::Honor::hk_honor_at_level()</a>.</p>
 
 </div>
 </div>
@@ -461,8 +406,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_d68c8764f6b69d1180b66c35742ddf05.html">Battlegrounds</a></li><li class="navelem"><a class="el" href="../../dir_3adc8ed69e0e90d16469d218b57e0fdd.html">ArenaSeason</a></li><li class="navelem"><a class="el" href="../../d9/d61/a04775.html">ArenaSeasonRewardDistributorTest.cpp</a></li>
-    <li class="footer">Generated on Mon Oct 6 2025 20:44:55 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1e2b35566ac0cf24ea791bcb2545ed2e.html">test</a></li><li class="navelem"><a class="el" href="../../dir_337bdd013191c9d548b6f28390c35d04.html">server</a></li><li class="navelem"><a class="el" href="../../dir_432bda28dad7986d3a1dc3010dcbb57c.html">game</a></li><li class="navelem"><a class="el" href="../../dir_8303d6c15c2da3f083d7d0da7d55e7c8.html">Miscellaneous</a></li><li class="navelem"><a class="el" href="../../d9/d61/a04775.html">FormulasTest.cpp</a></li>
+    <li class="footer">Generated on Mon Oct 13 2025 20:44:47 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

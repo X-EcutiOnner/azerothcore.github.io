@@ -1,6 +1,7 @@
 var a14879 =
 [
-    [ "HandleHeal", "d9/db4/a14879.html#a953536a9a393af9472bdd89018449df0", null ],
-    [ "PrepareSpellScript", "d9/db4/a14879.html#a70503fc6042001a860d361f2597b7153", null ],
-    [ "Register", "d9/db4/a14879.html#a383479896e6deb96e50b827370ccfd4d", null ]
+    [ "hyjalJainaAI", "dd/d7e/a14883.html", "dd/d7e/a14883" ],
+    [ "npc_hyjal_jaina", "d9/db4/a14879.html#a6616aa6c38818770610259312a392a3f", null ],
+    [ "GetAI", "d9/db4/a14879.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
+    [ "OnGossipSelect", "d9/db4/a14879.html#a47853fa317b1a9325fcbe555867139f6", null ]
 ];

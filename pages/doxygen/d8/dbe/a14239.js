@@ -1,5 +1,7 @@
 var a14239 =
 [
-    [ "npc_brain_wash_totem", "d8/dbe/a14239.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
-    [ "EnterEvadeMode", "d8/dbe/a14239.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
+    [ "HandleScriptEffect", "d8/dbe/a14239.html#ace68732d578fbaeb2b209bfded88853a", null ],
+    [ "PrepareSpellScript", "d8/dbe/a14239.html#a42a69995e8f527a383e96e2ead832f72", null ],
+    [ "Register", "d8/dbe/a14239.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
+    [ "Validate", "d8/dbe/a14239.html#a7697caf8e5390d290b353fb6a291aa10", null ]
 ];

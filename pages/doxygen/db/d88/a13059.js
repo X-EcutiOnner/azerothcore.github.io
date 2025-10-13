@@ -1,8 +1,5 @@
 var a13059 =
 [
-    [ "npc_death_knight_initiateAI", "db/d12/a13063.html", "db/d12/a13063" ],
-    [ "npc_death_knight_initiate", "db/d88/a13059.html#a0c1b552035bed7be9af1fbdf8205b4b6", null ],
-    [ "GetAI", "db/d88/a13059.html#ac38e0ed0ea1eac8e0de6f08664cb095a", null ],
-    [ "OnGossipHello", "db/d88/a13059.html#a24f1b91ad0a69e4468e812747225d303", null ],
-    [ "OnGossipSelect", "db/d88/a13059.html#ab0712bc84003b5eb72f11b49ef6e57a7", null ]
+    [ "boss_apoko", "db/d88/a13059.html#a3ae4752839f47bbfce5f7df03c427cd2", null ],
+    [ "JustEngagedWith", "db/d88/a13059.html#a7ad52b258863bd818b3e5d1143de7629", null ]
 ];

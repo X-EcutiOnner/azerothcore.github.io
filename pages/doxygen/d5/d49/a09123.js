@@ -1,10 +1,11 @@
 var a09123 =
 [
-    [ "GridObjectLoader", "d5/d49/a09123.html#a57cd46fee6f747221761aa3114c40ba6", null ],
-    [ "AddObjectHelper", "d5/d49/a09123.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
-    [ "LoadAllCellsInGrid", "d5/d49/a09123.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
-    [ "LoadCreatures", "d5/d49/a09123.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
-    [ "LoadGameObjects", "d5/d49/a09123.html#ad577dbb6544e806d25b496796651ba5b", null ],
-    [ "_grid", "d5/d49/a09123.html#abe551354634514fa3998eccb10fcbefe", null ],
-    [ "_map", "d5/d49/a09123.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
+    [ "~GridCell", "d5/d49/a09123.html#a042be8f85e83068d4bb39a0de0618146", null ],
+    [ "AddFarVisibleObject", "d5/d49/a09123.html#a9a81bdbf151463b4687227df0fa39ece", null ],
+    [ "AddGridObject", "d5/d49/a09123.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
+    [ "RemoveFarVisibleObject", "d5/d49/a09123.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
+    [ "Visit", "d5/d49/a09123.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
+    [ "Visit", "d5/d49/a09123.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
+    [ "_farVisibleObjects", "d5/d49/a09123.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
+    [ "_gridObjects", "d5/d49/a09123.html#ac5a741aebc11124aa228e5107e664335", null ]
 ];

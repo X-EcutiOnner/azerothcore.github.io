@@ -1,7 +1,6 @@
 var a26319 =
 [
-    [ "HandleDummy", "d2/d12/a26319.html#a82ff05f6150750ecb6ef3b5f8c40f703", null ],
-    [ "PrepareSpellScript", "d2/d12/a26319.html#a6856f05f2cc25267f1d3023d3cb48dc2", null ],
-    [ "Register", "d2/d12/a26319.html#adadd0254d68281ac1063bcc57574ed77", null ],
-    [ "Validate", "d2/d12/a26319.html#a61923f636ad8b3d48eb2dbc6a1803527", null ]
+    [ "HandleDummy", "d2/d12/a26319.html#acb433ef020fbd090259ac969a35842ea", null ],
+    [ "PrepareSpellScript", "d2/d12/a26319.html#a9440e067db7bc5c48c973dfd61f1a95e", null ],
+    [ "Register", "d2/d12/a26319.html#a349e674aa5e07f59dc0a0d78a25aa0cd", null ]
 ];

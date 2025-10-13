@@ -1,7 +1,6 @@
 var a23875 =
 [
-    [ "FilterTargets", "d2/dda/a23875.html#a834163302ff10875227806d7d4945988", null ],
-    [ "HandleScriptEffect", "d2/dda/a23875.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
-    [ "PrepareSpellScript", "d2/dda/a23875.html#a079e72d57550e03956088b4be1d11422", null ],
-    [ "Register", "d2/dda/a23875.html#abd4e0f268652652d3828ba8d350de849", null ]
+    [ "boss_porung", "d2/dda/a23875.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "d2/dda/a23875.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "d2/dda/a23875.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

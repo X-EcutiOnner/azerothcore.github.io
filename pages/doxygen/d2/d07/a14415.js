@@ -1,6 +1,6 @@
 var a14415 =
 [
-    [ "CheckItem", "d2/d07/a14415.html#a71f8c9bad4a102914a1047ef61d20f92", null ],
-    [ "PrepareSpellScript", "d2/d07/a14415.html#a0fa160f1218cf838444f894716cb8aed", null ],
-    [ "Register", "d2/d07/a14415.html#a2a6816d9ab97abddfa20cd6413a94178", null ]
+    [ "HandleAfterHit", "d2/d07/a14415.html#a4a3122d1b69baeae76f1ae3b6818bfb5", null ],
+    [ "PrepareSpellScript", "d2/d07/a14415.html#a284796ec70bdfaea9919f54da94f0021", null ],
+    [ "Register", "d2/d07/a14415.html#a30dcb608c20df17de9597ece1930d59d", null ]
 ];

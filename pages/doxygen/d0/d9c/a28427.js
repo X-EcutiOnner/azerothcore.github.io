@@ -1,6 +1,5 @@
 var a28427 =
 [
-    [ "Id", "d0/d9c/a28427.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
-    [ "Order", "d0/d9c/a28427.html#a16fca42d9a0a98e034a93984c4362b53", null ],
-    [ "TypeFlags", "d0/d9c/a28427.html#ac7246adc7c6c3217de8ac093983b7553", null ]
+    [ "Itemlvl", "d0/d9c/a28427.html#a39d9dcee397a1f5984184c769f9b8b17", null ],
+    [ "multiplier", "d0/d9c/a28427.html#a5c6c206a6185a546223de7501ff846f6", null ]
 ];

@@ -1,6 +1,11 @@
 var a27739 =
 [
-    [ "npc_taxi", "d8/d1d/a27739.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
-    [ "OnGossipHello", "d8/d1d/a27739.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
-    [ "OnGossipSelect", "d8/d1d/a27739.html#a5a7443abba8cf98a3073195177981edc", null ]
+    [ "npc_artoriusAI", "d8/d1d/a27739.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
+    [ "DamageTaken", "d8/d1d/a27739.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
+    [ "DoAction", "d8/d1d/a27739.html#abbfc9ee752d97f1694dbd739719843c2", null ],
+    [ "JustEngagedWith", "d8/d1d/a27739.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
+    [ "Reset", "d8/d1d/a27739.html#a862cc52a9251e2dfe486f1152dae9500", null ],
+    [ "SpellHit", "d8/d1d/a27739.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
+    [ "UpdateAI", "d8/d1d/a27739.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
+    [ "events", "d8/d1d/a27739.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
 ];

@@ -1,10 +1,7 @@
 var a07423 =
 [
-    [ "BattlegroundEYCapturingPointStruct", "dd/d71/a07423.html#a54164bcb9e4235b15d8a5d8a27fbe41c", null ],
-    [ "DespawnNeutralObjectType", "dd/d71/a07423.html#a77b4eac66780587e6be0eb380e29c9ce", null ],
-    [ "GraveyardId", "dd/d71/a07423.html#a23524562fd9c875b29092ee7e7a4e44b", null ],
-    [ "MessageIdAlliance", "dd/d71/a07423.html#af3295d59367354a4ddaac12258e793b8", null ],
-    [ "MessageIdHorde", "dd/d71/a07423.html#a5c82eae433ee69b5bda8c96049a06422", null ],
-    [ "SpawnObjectTypeAlliance", "dd/d71/a07423.html#aeeeecdf09990c74ffc868a135854d49b", null ],
-    [ "SpawnObjectTypeHorde", "dd/d71/a07423.html#a4b25984504b15c7249d2e5866ad35962", null ]
+    [ "BattlegroundEYPointIconsStruct", "dd/d71/a07423.html#a322379024d155d293d1c0083c510d232", null ],
+    [ "WorldStateAllianceControlledIndex", "dd/d71/a07423.html#a449932bc2357e26c79520fcf01a71a2a", null ],
+    [ "WorldStateControlIndex", "dd/d71/a07423.html#a82e87048f934b67821bc8ba308ed101d", null ],
+    [ "WorldStateHordeControlledIndex", "dd/d71/a07423.html#a1118c998cf9a319f9c81c100d23c25d3", null ]
 ];

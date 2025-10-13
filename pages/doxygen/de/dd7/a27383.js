@@ -1,10 +1,9 @@
 var a27383 =
 [
-    [ "boss_emerissAI", "de/dd7/a27383.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
-    [ "DamageTaken", "de/dd7/a27383.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
-    [ "ExecuteEvent", "de/dd7/a27383.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
-    [ "JustEngagedWith", "de/dd7/a27383.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
-    [ "KilledUnit", "de/dd7/a27383.html#ad851169bc09a362137e211dd10d30a1b", null ],
-    [ "Reset", "de/dd7/a27383.html#a44dfb325c4e8413662052137edc710ef", null ],
-    [ "_stage", "de/dd7/a27383.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
+    [ "emerald_dragonAI", "de/dd7/a27383.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
+    [ "ExecuteEvent", "de/dd7/a27383.html#a6e60f146c7b86a119f269bf755831ac6", null ],
+    [ "JustSummoned", "de/dd7/a27383.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
+    [ "KilledUnit", "de/dd7/a27383.html#a69b24bf865ecd38822d5602314cddf11", null ],
+    [ "Reset", "de/dd7/a27383.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
+    [ "UpdateAI", "de/dd7/a27383.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
 ];

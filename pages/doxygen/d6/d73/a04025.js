@@ -1,4 +1,6 @@
 var a04025 =
 [
-    [ "DatabaseWorker", "d2/dac/a05743.html", "d2/dac/a05743" ]
+    [ "GetLibraryVersion", "d6/d73/a04025.html#aefa4bd51f34aad2d1a141c00a2310092", null ],
+    [ "Library_End", "d6/d73/a04025.html#aff44554b66bd7ef0e21f1db5beb0b81a", null ],
+    [ "Library_Init", "d6/d73/a04025.html#a70b74137156f0a22792c3cf95c54decc", null ]
 ];

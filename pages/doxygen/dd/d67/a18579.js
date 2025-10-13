@@ -1,6 +1,7 @@
 var a18579 =
 [
-    [ "npc_spirit_wardenAI", "d2/db1/a18583.html", "d2/db1/a18583" ],
-    [ "npc_spirit_warden", "dd/d67/a18579.html#ab585d20eadb7876752d731702db44293", null ],
-    [ "GetAI", "dd/d67/a18579.html#ab33ab494d7fee64eed7c75464ce60489", null ]
+    [ "CalculateBonus", "dd/d67/a18579.html#ae149a739150cb7eb9fb67f19130c0510", null ],
+    [ "OnPeriodic", "dd/d67/a18579.html#a19697bd65a325870becc1c30d7deff36", null ],
+    [ "PrepareAuraScript", "dd/d67/a18579.html#a77c272d4a26323c421e4b264f79d5b66", null ],
+    [ "Register", "dd/d67/a18579.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
 ];

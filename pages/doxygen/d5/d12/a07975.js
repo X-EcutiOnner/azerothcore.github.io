@@ -1,8 +1,10 @@
 var a07975 =
 [
-    [ "LfgPlayerRewardData", "d5/d12/a07975.html#afe99288f8d7028a5a54317e73e3f2c01", null ],
-    [ "done", "d5/d12/a07975.html#a91ba12acf66d631af2de45513f20b702", null ],
-    [ "quest", "d5/d12/a07975.html#abd051091fec6835f63bafa98a045142b", null ],
-    [ "rdungeonEntry", "d5/d12/a07975.html#a87623ce14ef1d123d226e37e227a566d", null ],
-    [ "sdungeonEntry", "d5/d12/a07975.html#abe9c93ab7f3a421dd3c44414a0987277", null ]
+    [ "LfgUpdateData", "d5/d12/a07975.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
+    [ "LfgUpdateData", "d5/d12/a07975.html#a656873ea6ef9b3f23791827617a000c6", null ],
+    [ "LfgUpdateData", "d5/d12/a07975.html#a248682a712dd43b8c4601830aae4ddec", null ],
+    [ "comment", "d5/d12/a07975.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
+    [ "dungeons", "d5/d12/a07975.html#a0e9b49693248b438dbc508e230a870db", null ],
+    [ "state", "d5/d12/a07975.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
+    [ "updateType", "d5/d12/a07975.html#a146e43854f66bf57f703d7089a24481e", null ]
 ];

@@ -1,4 +1,5 @@
 var a04439 =
 [
-    [ "g_MMapMgr", "d8/d3a/a04439.html#a7ca17c8e81612c16a92e901cac65113e", null ]
+    [ "BIHWrap< T, BoundsFunc >", "d2/d77/a04939.html", "d2/d77/a04939" ],
+    [ "BIHWrap< T, BoundsFunc >::MDLCallback< RayCallback >", "d5/dc1/a04943.html", "d5/dc1/a04943" ]
 ];

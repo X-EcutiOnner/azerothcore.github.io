@@ -1,8 +1,10 @@
 var a10259 =
 [
-    [ "AllCommandScript", "d1/d6f/a10259.html#a7ff235b904eecdd4d02d2025c4078980", null ],
-    [ "IsDatabaseBound", "d1/d6f/a10259.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
-    [ "OnBeforeIsInvokerVisible", "d1/d6f/a10259.html#a6f85dc271c1b61244978aa4474e708b0", null ],
-    [ "OnHandleDevCommand", "d1/d6f/a10259.html#aba983f0e052ece230617573f04a35c92", null ],
-    [ "OnTryExecuteCommand", "d1/d6f/a10259.html#a3a116836453073e77bbd8ab974f36f47", null ]
+    [ "AchievementScript", "d1/d6f/a10259.html#a85f0d7a676e7e31bc87ca64040b29489", null ],
+    [ "CanCheckCriteria", "d1/d6f/a10259.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
+    [ "IsCompletedCriteria", "d1/d6f/a10259.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
+    [ "IsDatabaseBound", "d1/d6f/a10259.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
+    [ "IsRealmCompleted", "d1/d6f/a10259.html#abc54c295c1bcad45e21aed99e43a3713", null ],
+    [ "OnBeforeCheckCriteria", "d1/d6f/a10259.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
+    [ "SetRealmCompleted", "d1/d6f/a10259.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
 ];

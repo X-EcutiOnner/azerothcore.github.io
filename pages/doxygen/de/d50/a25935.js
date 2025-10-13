@@ -1,7 +1,8 @@
 var a25935 =
 [
-    [ "HandleDummy", "de/d50/a25935.html#ae1321cc7d119e1f2c8c2029f8ada60a3", null ],
-    [ "PrepareSpellScript", "de/d50/a25935.html#a527f606fd6e583eab56146a689f73e69", null ],
-    [ "Register", "de/d50/a25935.html#ac34b3d95ea2888a164deaa3db6671e8b", null ],
-    [ "Validate", "de/d50/a25935.html#a2a414ce6309b0bbbdb3fb4612215ca03", null ]
+    [ "HandleProc", "de/d50/a25935.html#ad92c7804b26bd29d135e55c8adad9093", null ],
+    [ "OnRemove", "de/d50/a25935.html#afa8e065ed835243f3ebb95c10792adf8", null ],
+    [ "PrepareAuraScript", "de/d50/a25935.html#a5e986f77b23fd0402089ea36f0360c79", null ],
+    [ "Register", "de/d50/a25935.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
+    [ "Validate", "de/d50/a25935.html#a51f81afec6ff0918530208d9de9dae24", null ]
 ];

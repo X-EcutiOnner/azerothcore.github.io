@@ -1,12 +1,6 @@
 var a13131 =
 [
-    [ "npc_scarlet_minerAI", "d3/df1/a13131.html#a7f5ca173103eb4498ce41912bda5da66", null ],
-    [ "InitCartQuest", "d3/df1/a13131.html#a5d3ece8f2f02a2bae4550a41f55348b0", null ],
-    [ "InitWaypoint", "d3/df1/a13131.html#a7fe048368b6e0a43b5be501a24773b8c", null ],
-    [ "Reset", "d3/df1/a13131.html#a2a8660173dc32c38de917049eb33fff8", null ],
-    [ "UpdateAI", "d3/df1/a13131.html#a48d2c92a4d45d5e59252f9455b82cbbd", null ],
-    [ "WaypointReached", "d3/df1/a13131.html#a31f4363e269b51d3a002a132b5516dd0", null ],
-    [ "carGUID", "d3/df1/a13131.html#a963f9c0ca58ce160b43f36f5a9f7dee7", null ],
-    [ "IntroPhase", "d3/df1/a13131.html#a094c2ee20d13c88805c3de7f9f94b86e", null ],
-    [ "IntroTimer", "d3/df1/a13131.html#adae2103753dd62699359ff01ac3ba865", null ]
+    [ "npc_unworthy_initiateAI", "d0/d0d/a13135.html", "d0/d0d/a13135" ],
+    [ "npc_unworthy_initiate", "d3/df1/a13131.html#aaa04626b783eadc0b14bd89aa715e694", null ],
+    [ "GetAI", "d3/df1/a13131.html#a0912cc56cb2082b2de086cbd9b914b4a", null ]
 ];

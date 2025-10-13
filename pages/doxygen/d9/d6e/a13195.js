@@ -1,8 +1,10 @@
 var a13195 =
 [
-    [ "CheckCast", "d9/d6e/a13195.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
-    [ "HandleScriptEffect", "d9/d6e/a13195.html#a36bb2b95651889eaa0321a7a327e173f", null ],
-    [ "PrepareSpellScript", "d9/d6e/a13195.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
-    [ "Register", "d9/d6e/a13195.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
-    [ "Validate", "d9/d6e/a13195.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
+    [ "npc_scarlet_courierAI", "d9/d6e/a13195.html#a83c5e32659d38a513790322e46dcc283", null ],
+    [ "JustEngagedWith", "d9/d6e/a13195.html#aa470197f0949a413c421bda8c7c09279", null ],
+    [ "MovementInform", "d9/d6e/a13195.html#add19812d92d62b602f96ffc5fb513d6c", null ],
+    [ "Reset", "d9/d6e/a13195.html#ab642188631b67ae5ff5fd312eaf37ff0", null ],
+    [ "UpdateAI", "d9/d6e/a13195.html#ac37287a77e37785b606c742ff8d6eeeb", null ],
+    [ "uiStage", "d9/d6e/a13195.html#a2f920922f8c6f1a878d0e4978e081257", null ],
+    [ "uiStage_timer", "d9/d6e/a13195.html#a8ee22a276535a3a9c2f12a62e984d55b", null ]
 ];

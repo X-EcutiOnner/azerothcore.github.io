@@ -1,7 +1,6 @@
 var a12615 =
 [
-    [ "HandlePeriodic", "df/d3a/a12615.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
-    [ "PrepareAuraScript", "df/d3a/a12615.html#a5dca8e116c05d11961cbd7995314441e", null ],
-    [ "Register", "df/d3a/a12615.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
-    [ "Validate", "df/d3a/a12615.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
+    [ "boss_lucifronAI", "df/d3a/a12615.html#ab93792bd7798b9ee9cf869fa20190554", null ],
+    [ "ExecuteEvent", "df/d3a/a12615.html#a0ba286f037c07032488d6763daeaf130", null ],
+    [ "JustEngagedWith", "df/d3a/a12615.html#aba3256ec99e56e3051045391fceedc7f", null ]
 ];

@@ -1,7 +1,8 @@
 var a09371 =
 [
-    [ "FriendlyCCedInRange", "dc/d65/a09371.html#ae8dcff3f285f208b0db8aa3efed202a1", null ],
-    [ "operator()", "dc/d65/a09371.html#a0e241f930cee855664aeac3604d5c023", null ],
-    [ "i_obj", "dc/d65/a09371.html#a73d3e29bbdc7fd4aa162be3cb7ecbe08", null ],
-    [ "i_range", "dc/d65/a09371.html#a49e79f3aea0c7e8c321c9f297b71a9b2", null ]
+    [ "MostHPMissingInRange", "dc/d65/a09371.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
+    [ "operator()", "dc/d65/a09371.html#a420388204d8a1420552b902fbcb2bebe", null ],
+    [ "i_hp", "dc/d65/a09371.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
+    [ "i_obj", "dc/d65/a09371.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
+    [ "i_range", "dc/d65/a09371.html#acef63da9004997c7f25056651284efa9", null ]
 ];

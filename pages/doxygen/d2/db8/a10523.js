@@ -1,6 +1,6 @@
 var a10523 =
 [
-    [ "ShowingCloak", "d2/db8/a10523.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
-    [ "Read", "d2/db8/a10523.html#ad72ae43efc070655aa078d9985369442", null ],
-    [ "ShowCloak", "d2/db8/a10523.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
+    [ "BuyBankSlotResult", "d2/db8/a10523.html#a93b60814becc451c38f06f9702a9e027", null ],
+    [ "Write", "d2/db8/a10523.html#a55a6609863b0d3ef966f222526268acb", null ],
+    [ "Result", "d2/db8/a10523.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
 ];

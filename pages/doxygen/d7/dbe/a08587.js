@@ -1,5 +1,5 @@
 var a08587 =
 [
-    [ "Rank", "d7/dbe/a08587.html#a61797c7cb799308a7c20a954d287be17", null ],
-    [ "SkillId", "d7/dbe/a08587.html#a3f28221b1c8e91bf9f2fa6337e81c952", null ]
+    [ "PlayerLevelInfo", "d7/dbe/a08587.html#af0d716577a3645fe1cef95968382ec80", null ],
+    [ "stats", "d7/dbe/a08587.html#a796af7d07604474adebf5a6f3518ca30", null ]
 ];

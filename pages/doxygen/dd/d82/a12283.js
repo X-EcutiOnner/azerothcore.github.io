@@ -1,12 +1,20 @@
 var a12283 =
 [
-    [ "boss_thebeastAI", "dd/d82/a12283.html#a51b7d4ec10d2616d99fb21e680ff17b4", null ],
-    [ "FindNearbyOrcs", "dd/d82/a12283.html#ad832a878880ac32e05d360262546422a", null ],
-    [ "JustEngagedWith", "dd/d82/a12283.html#ab107354f10d0af4b840ab5ff8d3d0eaf", null ],
-    [ "Reset", "dd/d82/a12283.html#abfa1bca308a02ef0e80d2baf11670305", null ],
-    [ "SetData", "dd/d82/a12283.html#a6f30ed7c0451613998660b258145f801", null ],
-    [ "UpdateAI", "dd/d82/a12283.html#a0f490e907ce632e1fb921a6eb46b49c0", null ],
-    [ "_beastReached", "dd/d82/a12283.html#a01271598b4b3c85a7066e66d8150e522", null ],
-    [ "_nearbyOrcsGUIDs", "dd/d82/a12283.html#af32fb34f4c76cfe292da9bc84a5d6372", null ],
-    [ "_orcYelled", "dd/d82/a12283.html#a16df847475ea220b8ac4ea944e8d1ca4", null ]
+    [ "boss_rend_blackhandAI", "dd/d82/a12283.html#a2814a327bc7a9f757f7a05912a662f44", null ],
+    [ "EnterEvadeMode", "dd/d82/a12283.html#a144c325de23530f4d77d6ab0a82bd341", null ],
+    [ "IsSummonedBy", "dd/d82/a12283.html#aaa526ce953dd90de0d2459e74b96d3b7", null ],
+    [ "JustDied", "dd/d82/a12283.html#a4e41038af6075585346ce7acc40f5d16", null ],
+    [ "JustEngagedWith", "dd/d82/a12283.html#ad2800c1ca9785cf9a4445bb298635464", null ],
+    [ "JustSummoned", "dd/d82/a12283.html#ab003c8952ff1d7c71295621967a29bbd", null ],
+    [ "MovementInform", "dd/d82/a12283.html#a0219dfff536ebb0663dbd575c2955630", null ],
+    [ "Reset", "dd/d82/a12283.html#adf7859684e871f844db8d39ae29d4229", null ],
+    [ "SetData", "dd/d82/a12283.html#ae8da177a417f420f63b318477ad2fa9c", null ],
+    [ "SummonedCreatureDespawn", "dd/d82/a12283.html#a09f814167a86eed5e13dec8a34a5d2e8", null ],
+    [ "SummonedCreatureDies", "dd/d82/a12283.html#af0467f9f8cf7f552cd90994b6a208394", null ],
+    [ "SummonWave", "dd/d82/a12283.html#a51a96beb5c271191c52a0b12d3824043", null ],
+    [ "UpdateAI", "dd/d82/a12283.html#a89970f47673bc2ce1290900251970fe4", null ],
+    [ "_currentWave", "dd/d82/a12283.html#aff4797532d1ab098dc8f52454c2ecd05", null ],
+    [ "gythEvent", "dd/d82/a12283.html#ac5c2ee831c560ef96338dd08a61ec4c1", null ],
+    [ "victorGUID", "dd/d82/a12283.html#a414de083616e4b77a84af8617a3b5f8e", null ],
+    [ "waveDoorGUID", "dd/d82/a12283.html#a0f426a5f2cde0f522ba2a236d34f9d5a", null ]
 ];

@@ -1,6 +1,12 @@
 var a10951 =
 [
-    [ "InvalidStringValueException", "df/ddd/a10951.html#a4b5442d97f2bc8005cb20eefa6c13dc8", null ],
-    [ "GetInvalidValue", "df/ddd/a10951.html#a5ef59243610de6d0a9db22ddb9cd7bdd", null ],
-    [ "_value", "df/ddd/a10951.html#a8a8c86a63c34789ab7cce999455eb4bb", null ]
+    [ "StartMirrorTimer", "df/ddd/a10951.html#a86039d4a721636477f266712682883f0", null ],
+    [ "StartMirrorTimer", "df/ddd/a10951.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
+    [ "Write", "df/ddd/a10951.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
+    [ "MaxValue", "df/ddd/a10951.html#a3f26c682d547be40d2800eff2189348d", null ],
+    [ "Paused", "df/ddd/a10951.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
+    [ "Scale", "df/ddd/a10951.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
+    [ "SpellID", "df/ddd/a10951.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
+    [ "Timer", "df/ddd/a10951.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
+    [ "Value", "df/ddd/a10951.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
 ];

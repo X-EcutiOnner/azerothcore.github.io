@@ -1,9 +1,16 @@
 var a28811 =
 [
-    [ "SetUp", "d3/d28/a28811.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
-    [ "TearDown", "d3/d28/a28811.html#a2a331c0ef77503c08c37e226a4e0a33b", null ],
-    [ "_distributor", "d3/d28/a28811.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
-    [ "_mockRewarder", "d3/d28/a28811.html#ad466c2751d8e9739db56f9f82d15deff", null ],
-    [ "_previousWorld", "d3/d28/a28811.html#aef822a2309df5d13af31ea5a5da74df7", null ],
-    [ "_worldMock", "d3/d28/a28811.html#a00b242d182fd7eacc93efc9d4f3e914f", null ]
+    [ "GetAddressForClient", "d3/d28/a28811.html#a2a3f3db57bb7e6f69ca4f030b65c7331", null ],
+    [ "AllowedSecurityLevel", "d3/d28/a28811.html#a25e953d80aa3c80e068afe6b57f67d99", null ],
+    [ "Build", "d3/d28/a28811.html#a64533e919d8c3a37bd5668af77d09166", null ],
+    [ "ExternalAddress", "d3/d28/a28811.html#a703504aaf54f1ecf934b9184e9737367", null ],
+    [ "Flags", "d3/d28/a28811.html#a1984cc9564b01b6456f31f77fd65a6d6", null ],
+    [ "Id", "d3/d28/a28811.html#ab0ccda7e7a58eee0965261767f3ee2ee", null ],
+    [ "LocalAddress", "d3/d28/a28811.html#a61f429ddc92895e66dff2808e17cc322", null ],
+    [ "LocalSubnetMask", "d3/d28/a28811.html#a52a4b2704e7f76d8ea296148cefb9482", null ],
+    [ "Name", "d3/d28/a28811.html#a9381717fdc924158ecd61a8f00488fc0", null ],
+    [ "PopulationLevel", "d3/d28/a28811.html#a63cdbd47c50f368974b43c3db2f32cee", null ],
+    [ "Port", "d3/d28/a28811.html#a0131d758f10cbae0c610c2c088299feb", null ],
+    [ "Timezone", "d3/d28/a28811.html#a377055c4729f21beecb8601cd79017db", null ],
+    [ "Type", "d3/d28/a28811.html#af77452a4cf7f632d692079615af4737c", null ]
 ];

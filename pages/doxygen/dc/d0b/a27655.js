@@ -1,5 +1,6 @@
 var a27655 =
 [
-    [ "item_generic_limit_chance_above_60", "dc/d0b/a27655.html#abc18809810f0a7668020d01c482be84b", null ],
-    [ "OnCastItemCombatSpell", "dc/d0b/a27655.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
+    [ "guard_shattrath_scryerAI", "dc/d81/a27659.html", "dc/d81/a27659" ],
+    [ "guard_shattrath_scryer", "dc/d0b/a27655.html#a2ee4d6881d7c24cd848c590b84207663", null ],
+    [ "GetAI", "dc/d0b/a27655.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
 ];

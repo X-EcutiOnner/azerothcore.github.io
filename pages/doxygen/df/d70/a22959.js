@@ -1,12 +1,20 @@
 var a22959 =
 [
-    [ "npc_maiev_illidan", "df/d70/a22959.html#a0d19d9bb58c44662cdfb66a8fe373a60", null ],
-    [ "DamageTaken", "df/d70/a22959.html#a780cc558c483efa3293d798cc6048a33", null ],
-    [ "DoAction", "df/d70/a22959.html#a53607a158edf8fd772908b5d7af6edf1", null ],
-    [ "IsSummonedBy", "df/d70/a22959.html#a1bf4f2f29132c5132e7903d089ace6e2", null ],
-    [ "JustEngagedWith", "df/d70/a22959.html#ad1728d7d8b1b5f9db8db4d811c2ba630", null ],
-    [ "Reset", "df/d70/a22959.html#a100db757c89634a58b9382216e2791ec", null ],
-    [ "SpellHit", "df/d70/a22959.html#aa4d6626d6130a88519f86cfe70d9fb95", null ],
-    [ "UpdateAI", "df/d70/a22959.html#a269e4a8f79b508e2da61cd5e2dc34664", null ],
-    [ "instance", "df/d70/a22959.html#ad41b6deb9406232629ad60ba66cfac6b", null ]
+    [ "boss_illidan_stormrage", "df/d70/a22959.html#a87e74bda2af623ba5c70911a033c6d6f", null ],
+    [ "CanAIAttack", "df/d70/a22959.html#a9607a9a09df9d07ebae0513458435b4d", null ],
+    [ "CycleBeamPos", "df/d70/a22959.html#a2044514c049262328022ac22a651fb92", null ],
+    [ "DamageTaken", "df/d70/a22959.html#ad568e3993f74ad0dd0b2f4e630fcb7f1", null ],
+    [ "DoAction", "df/d70/a22959.html#aad32a8fab5f1ca21824790d2da4d086b", null ],
+    [ "EnterEvadeMode", "df/d70/a22959.html#ab07e90f48ee9e84298b24b8e7cdb192f", null ],
+    [ "JustDied", "df/d70/a22959.html#a4d38abd8885862e31a88da4de754e35d", null ],
+    [ "JustEngagedWith", "df/d70/a22959.html#aa2d516aea252d55307c9f98212e7ee5e", null ],
+    [ "JustSummoned", "df/d70/a22959.html#a2c642790b16d864ae100b5e8f30e4e61", null ],
+    [ "KilledUnit", "df/d70/a22959.html#abf29f9607351d35953d8d0e97779c3f9", null ],
+    [ "MovementInform", "df/d70/a22959.html#acdd75f289288b3e6de4136267d490519", null ],
+    [ "Reset", "df/d70/a22959.html#aa5eb94712f886e821630535cb2970dfe", null ],
+    [ "ScheduleAbilities", "df/d70/a22959.html#af230387ddbd1b270e1be69133f4bae38", null ],
+    [ "_canTalk", "df/d70/a22959.html#abaf0cca3f159aae572203254c41444a3", null ],
+    [ "_dying", "df/d70/a22959.html#af312452020938736624496d9f6a76d28", null ],
+    [ "_inCutscene", "df/d70/a22959.html#a715525706b44dbc53847e639f3b15d3a", null ],
+    [ "beamPosId", "df/d70/a22959.html#a6168b84bfb49781736fa2accf5225808", null ]
 ];

@@ -1,5 +1,5 @@
 var a27611 =
 [
-    [ "go_duskwither_spire_power_source", "d5/dc0/a27611.html#aab69de16e8b744af2671e2ed882ee94a", null ],
-    [ "OnGossipHello", "d5/dc0/a27611.html#a2c7fd017e7985b99bff187119157a041", null ]
+    [ "go_table_theka", "d5/dc0/a27611.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
+    [ "OnGossipHello", "d5/dc0/a27611.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
 ];

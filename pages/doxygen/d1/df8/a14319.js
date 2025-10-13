@@ -1,8 +1,7 @@
 var a14319 =
 [
-    [ "boss_venoxis", "d1/df8/a14319.html#a3e91a9022163a726cbc077d38459a5f5", null ],
-    [ "InitializeAI", "d1/df8/a14319.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
-    [ "JustDied", "d1/df8/a14319.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
-    [ "JustEngagedWith", "d1/df8/a14319.html#afaa68ffbd5fecae48a044009326bcaed", null ],
-    [ "Reset", "d1/df8/a14319.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
+    [ "HandleApply", "d1/df8/a14319.html#a92734043e53b5e1ef81fa9b5ccce135e", null ],
+    [ "HandleRemove", "d1/df8/a14319.html#a56bf9c77cf96b1e34543a59fc2a308b2", null ],
+    [ "PrepareAuraScript", "d1/df8/a14319.html#ae3bcbf588e46cb0e81160fdd48502566", null ],
+    [ "Register", "d1/df8/a14319.html#af2343add2ed014832bd34d11519b391b", null ]
 ];

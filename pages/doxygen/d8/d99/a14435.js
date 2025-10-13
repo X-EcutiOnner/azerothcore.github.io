@@ -1,6 +1,6 @@
 var a14435 =
 [
-    [ "go_direbrew_mole_machineAI", "d4/d22/a14439.html", "d4/d22/a14439" ],
-    [ "go_direbrew_mole_machine", "d8/d99/a14435.html#a759d291a5be227d8beae3bbc779e56f4", null ],
-    [ "GetAI", "d8/d99/a14435.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
+    [ "OnApply", "d8/d99/a14435.html#a4a276b00d4912c210598057620368934", null ],
+    [ "PrepareAuraScript", "d8/d99/a14435.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
+    [ "Register", "d8/d99/a14435.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
 ];

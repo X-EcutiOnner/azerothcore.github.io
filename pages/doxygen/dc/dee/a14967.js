@@ -1,7 +1,7 @@
 var a14967 =
 [
-    [ "npc_cos_chromie_middle", "dc/dee/a14967.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "dc/dee/a14967.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "dc/dee/a14967.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "dc/dee/a14967.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "OnRemove", "dc/dee/a14967.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
+    [ "PrepareAuraScript", "dc/dee/a14967.html#ab082adc51983f124d0467cbff63cffb7", null ],
+    [ "Register", "dc/dee/a14967.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
+    [ "Validate", "dc/dee/a14967.html#a73421b82f483e73314dbb862fb0a11c7", null ]
 ];

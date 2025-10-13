@@ -1,6 +1,6 @@
 var a12727 =
 [
-    [ "HandleTriggerSpell", "d2/dca/a12727.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
-    [ "PrepareSpellScript", "d2/dca/a12727.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
-    [ "Register", "d2/dca/a12727.html#a7e9c140aecea892ee6971bc97d385640", null ]
+    [ "boss_mr_smiteAI", "df/dce/a12731.html", "df/dce/a12731" ],
+    [ "boss_mr_smite", "d2/dca/a12727.html#a011d41112ef7376b71d2959f806be262", null ],
+    [ "GetAI", "d2/dca/a12727.html#a619ca0aede1eb33f992328048319c4f0", null ]
 ];

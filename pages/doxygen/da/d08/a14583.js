@@ -1,8 +1,6 @@
 var a14583 =
 [
-    [ "npc_hallows_end_train_fire", "da/d08/a14583.html#a0aacc53a7410590e8d1f05aa8d3e37ba", null ],
-    [ "Reset", "da/d08/a14583.html#afdda52e0adce23f56fa9d1357469a17d", null ],
-    [ "SpellHit", "da/d08/a14583.html#a5767b2a5a2ca1813812cf078b0dd1189", null ],
-    [ "UpdateAI", "da/d08/a14583.html#a686a565e1743c31166d8d57f67a0adce", null ],
-    [ "timer", "da/d08/a14583.html#a7fa7d23a587ab632d1b9a2b803f83cd4", null ]
+    [ "HandleScript", "da/d08/a14583.html#a4077b809530d28bed0a9419b5a745f42", null ],
+    [ "PrepareSpellScript", "da/d08/a14583.html#a97eb6d1fcdcf0628433e5bec68785932", null ],
+    [ "Register", "da/d08/a14583.html#ac09b1c86655eef0febaccff86533b28f", null ]
 ];

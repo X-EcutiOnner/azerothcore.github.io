@@ -1,10 +1,5 @@
 var a25611 =
 [
-    [ "CheckProc", "d0/d6c/a25611.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
-    [ "HandleProc", "d0/d6c/a25611.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
-    [ "OnApply", "d0/d6c/a25611.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
-    [ "OnRemove", "d0/d6c/a25611.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
-    [ "PrepareAuraScript", "d0/d6c/a25611.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
-    [ "Register", "d0/d6c/a25611.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
-    [ "Validate", "d0/d6c/a25611.html#a91c5a0e10c308332e18dc40033049996", null ]
+    [ "PrepareSpellScript", "d0/d6c/a25611.html#ac83289482a8f83a2af80e2f9f35b6716", null ],
+    [ "Register", "d0/d6c/a25611.html#a5e2cdc942b9972f79ff0a4fac2f0d77d", null ]
 ];

@@ -1,9 +1,7 @@
 var a14807 =
 [
-    [ "npc_ancient_wisp", "d8/d9b/a14807.html#a70e45e500b3490a034b058ca2ec16d39", null ],
-    [ "DamageTaken", "d8/d9b/a14807.html#ad7d96e6b54cdc23a5101338474125e71", null ],
-    [ "JustEngagedWith", "d8/d9b/a14807.html#a755ed852b3149ada65c5750410776fc8", null ],
-    [ "Reset", "d8/d9b/a14807.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
-    [ "UpdateAI", "d8/d9b/a14807.html#a51ca214de826d7126f32e49f6852bca3", null ],
-    [ "_instance", "d8/d9b/a14807.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
+    [ "boss_azuregosAI", "de/d06/a14811.html", "de/d06/a14811" ],
+    [ "boss_azuregos", "d8/d9b/a14807.html#a48590db0037870ca5c9425a468e5ea3a", null ],
+    [ "GetAI", "d8/d9b/a14807.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
+    [ "OnGossipSelect", "d8/d9b/a14807.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
 ];

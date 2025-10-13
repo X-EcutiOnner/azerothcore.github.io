@@ -1,6 +1,6 @@
 var a23427 =
 [
-    [ "OnPeriodic", "d4/dce/a23427.html#adfd5a3a6d9c16cd6acdb1f24e7874f20", null ],
-    [ "PrepareAuraScript", "d4/dce/a23427.html#a8444053fa146a4163ea905634be78dfc", null ],
-    [ "Register", "d4/dce/a23427.html#aad8868dc3d00fd3ea648abe7b536970d", null ]
+    [ "FilterTargets", "d4/dce/a23427.html#ac20676c292d87276e444bad56d71960d", null ],
+    [ "PrepareSpellScript", "d4/dce/a23427.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
+    [ "Register", "d4/dce/a23427.html#ae356b768872de3e87806c19bf8cccb08", null ]
 ];

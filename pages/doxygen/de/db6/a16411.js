@@ -1,7 +1,6 @@
 var a16411 =
 [
-    [ "CountAllies", "de/db6/a16411.html#a207c1fd89fd726054a881e342391d2a0", null ],
-    [ "PrepareSpellScript", "de/db6/a16411.html#ae1e230ad204a280a261ebe0f21c7f8a5", null ],
-    [ "Register", "de/db6/a16411.html#a47574795b2a262625c65ab23a4179684", null ],
-    [ "Validate", "de/db6/a16411.html#a0178e7c4f5509a4bb2c6ed3811fc9685", null ]
+    [ "instance_ruby_sanctum_InstanceMapScript", "d2/df0/a16415.html", "d2/df0/a16415" ],
+    [ "instance_ruby_sanctum", "de/db6/a16411.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
+    [ "GetInstanceScript", "de/db6/a16411.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
 ];

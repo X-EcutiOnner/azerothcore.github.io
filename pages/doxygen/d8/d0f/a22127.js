@@ -1,6 +1,7 @@
 var a22127 =
 [
-    [ "npc_mrfloppyAI", "db/d24/a22131.html", "db/d24/a22131" ],
-    [ "npc_mrfloppy", "d8/d0f/a22127.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
-    [ "GetAI", "d8/d0f/a22127.html#a88590566309f3fc155eb6dc26055a161", null ]
+    [ "npc_emilyAI", "db/d24/a22131.html", "db/d24/a22131" ],
+    [ "npc_emily", "d8/d0f/a22127.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "d8/d0f/a22127.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "d8/d0f/a22127.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

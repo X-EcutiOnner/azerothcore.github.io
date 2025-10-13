@@ -1,12 +1,9 @@
 var a09199 =
 [
-    [ "GridTerrainLoader", "dd/d81/a09199.html#a9f5094ad19163dc8ac3f3c4bada48ee9", null ],
-    [ "ExistMap", "dd/d81/a09199.html#a980cb9f6537642db8ae0825d14b6bb68", null ],
-    [ "ExistVMap", "dd/d81/a09199.html#a17bdde445c48738ade280bd1cdda0619", null ],
-    [ "LoadMap", "dd/d81/a09199.html#ac220ce61dd0c3e514dcff2465c61af0f", null ],
-    [ "LoadMMap", "dd/d81/a09199.html#a8b3be4eb509393af8a2a927bc15947c9", null ],
-    [ "LoadTerrain", "dd/d81/a09199.html#a097556a8a778efa22ab9d50cbda2649a", null ],
-    [ "LoadVMap", "dd/d81/a09199.html#ac4e66140ef37fb3dc0f990cc196d106f", null ],
-    [ "_grid", "dd/d81/a09199.html#a1ec8202457f9df4fdc3b356e30f1a15d", null ],
-    [ "_map", "dd/d81/a09199.html#a2547ac0b9ee6ae7b760227d5051dea85", null ]
+    [ "LiquidData", "dd/d81/a09199.html#ac2435178323f480d2dae449b49b39146", null ],
+    [ "DepthLevel", "dd/d81/a09199.html#ad84c7763a6253db7ae6117ecc7144f1d", null ],
+    [ "Entry", "dd/d81/a09199.html#abfed22cb0e920067c0f86a0083ef4ab6", null ],
+    [ "Flags", "dd/d81/a09199.html#aa0903ec4233bcfa34494cea5068cd19c", null ],
+    [ "Level", "dd/d81/a09199.html#a7c596e921e383bbdbdacbcd4307fe380", null ],
+    [ "Status", "dd/d81/a09199.html#acb79cdfb4221f158ce9b29127591a8a9", null ]
 ];

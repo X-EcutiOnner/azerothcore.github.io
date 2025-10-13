@@ -1,6 +1,8 @@
 var a13555 =
 [
-    [ "HandlePeriodic", "d6/d00/a13555.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
-    [ "PrepareAuraScript", "d6/d00/a13555.html#a7ac99d626990f068a00f403847bfa6bc", null ],
-    [ "Register", "d6/d00/a13555.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
+    [ "CheckCast", "d6/d00/a13555.html#a414c603646c1a6be9bbb7059abbb7e71", null ],
+    [ "HandleScriptEffect", "d6/d00/a13555.html#a22f630cb9df4b435a5624f2865915753", null ],
+    [ "PrepareSpellScript", "d6/d00/a13555.html#a6e6b27ade1cac743946a976dbf343066", null ],
+    [ "Register", "d6/d00/a13555.html#a4afae0bafceeb6e6a9a26aea2162d4d9", null ],
+    [ "Validate", "d6/d00/a13555.html#a85779288126b21f516f2feb0238ee65b", null ]
 ];

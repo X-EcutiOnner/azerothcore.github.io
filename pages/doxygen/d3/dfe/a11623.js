@@ -1,6 +1,6 @@
 var a11623 =
 [
-    [ "Command", "d3/dfe/a11623.html#a65dc9a4861ab63743146c65a0a6249f2", null ],
-    [ "Data", "d3/dfe/a11623.html#abda0f8cc15c7fb45fa81fcf5ccad8d08", null ],
-    [ "DataSize", "d3/dfe/a11623.html#a279f37acfa44c06ae14c5a544dd7baf6", null ]
+    [ "FieldGuidType", "d3/dfe/a11623.html#a88e763ed9715ad76a0eb1c1a9ad7a59b", null ],
+    [ "FieldName", "d3/dfe/a11623.html#a669f1ecf12148799e59e7b3e3124d681", null ],
+    [ "IsDependentField", "d3/dfe/a11623.html#a241b9e8f5672e30732f0b938b02046d4", null ]
 ];

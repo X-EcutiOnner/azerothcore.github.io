@@ -1,6 +1,6 @@
 var a21927 =
 [
-    [ "npc_dalaran_warriorAI", "de/d4f/a21931.html", "de/d4f/a21931" ],
-    [ "npc_dalaran_warrior", "da/dc4/a21927.html#a13d44b85173232ddedcc35184d50549c", null ],
-    [ "GetAI", "da/dc4/a21927.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
+    [ "npc_dalaran_mageAI", "de/d4f/a21931.html", "de/d4f/a21931" ],
+    [ "npc_dalaran_mage", "da/dc4/a21927.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
+    [ "GetAI", "da/dc4/a21927.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
 ];

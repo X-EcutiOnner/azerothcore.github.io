@@ -1,6 +1,6 @@
 var a11507 =
 [
-    [ "AuraProcHandler", "d7/d23/a11507.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
-    [ "Call", "d7/d23/a11507.html#abc0c3be9dee08e995c282f20900f3c46", null ],
-    [ "_HandlerScript", "d7/d23/a11507.html#ada8d7a5659598b0092739a91ba2653bd", null ]
+    [ "EffectCalcPeriodicHandler", "d7/d23/a11507.html#a17288ee3b2951f1f2a8dc36a598b9a27", null ],
+    [ "Call", "d7/d23/a11507.html#a6a7eeb9599a10aa4ab918a2c2456a186", null ],
+    [ "pEffectHandlerScript", "d7/d23/a11507.html#a57673f457c08edfbf7fc1877aa071721", null ]
 ];

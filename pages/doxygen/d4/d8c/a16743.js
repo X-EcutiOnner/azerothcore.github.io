@@ -1,7 +1,10 @@
 var a16743 =
 [
-    [ "FilterTargets", "d4/d8c/a16743.html#a304da18e36ff67c34b80ab39583f8c96", null ],
-    [ "HandleScript", "d4/d8c/a16743.html#adf99670bcf862288f513d2a26cbc256a", null ],
-    [ "PrepareSpellScript", "d4/d8c/a16743.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
-    [ "Register", "d4/d8c/a16743.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
+    [ "npc_mistress_of_painAI", "d4/d8c/a16743.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
+    [ "EnterEvadeMode", "d4/d8c/a16743.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
+    [ "JustDied", "d4/d8c/a16743.html#ae60f294f902a2f687446f7599d071e42", null ],
+    [ "Reset", "d4/d8c/a16743.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
+    [ "SpellHit", "d4/d8c/a16743.html#a077843a7ead2034da695be816de42f9e", null ],
+    [ "UpdateAI", "d4/d8c/a16743.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
+    [ "events", "d4/d8c/a16743.html#a941ae1faab010551db6a8e6749993357", null ]
 ];

@@ -1,6 +1,15 @@
 var a16451 =
 [
-    [ "FilterTargets", "d4/d40/a16451.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
-    [ "PrepareSpellScript", "d4/d40/a16451.html#a697a52cbc50eafd2b0377621afb01557", null ],
-    [ "Register", "d4/d40/a16451.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
+    [ "npc_argent_soldierAI", "d4/d40/a16451.html#abbfbb5a1e116c6deb3db23f12ff8994f", null ],
+    [ "DamageTaken", "d4/d40/a16451.html#afb48cc1c2e254c292c33eade74b6fad7", null ],
+    [ "JustDied", "d4/d40/a16451.html#aedf4dcd909c1009fedfde593522454ec", null ],
+    [ "JustEngagedWith", "d4/d40/a16451.html#a0aa59fdf0668d64f3b670c595579ba81", null ],
+    [ "Reset", "d4/d40/a16451.html#a1a0c00c09c348f746730c9743d4b7b6b", null ],
+    [ "SetData", "d4/d40/a16451.html#a20b62b48f5cf92106fcd1860d9e91956", null ],
+    [ "UpdateAI", "d4/d40/a16451.html#aed2921c1f6bc0507bf9e6f02f224ab44", null ],
+    [ "WaypointReached", "d4/d40/a16451.html#af70fb91477dbeaa7e6e409f3381f0770", null ],
+    [ "bCheck", "d4/d40/a16451.html#af570597c33add7ac5ebf3d01e8c9b2df", null ],
+    [ "events", "d4/d40/a16451.html#ac458fc9a331dc7edfdc764215b1926e8", null ],
+    [ "pInstance", "d4/d40/a16451.html#ac9951514f27f343ae96e856f484e7baf", null ],
+    [ "uiWaypoint", "d4/d40/a16451.html#a87382571221c608017fd2d4cb99193dc", null ]
 ];

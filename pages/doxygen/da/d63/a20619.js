@@ -1,6 +1,6 @@
 var a20619 =
 [
-    [ "npc_ulduar_leviathan_mkiiAI", "dd/d12/a20623.html", "dd/d12/a20623" ],
-    [ "npc_ulduar_leviathan_mkii", "da/d63/a20619.html#a9e4671adcb2409a7c83460d28d29f579", null ],
-    [ "GetAI", "da/d63/a20619.html#afe438e97b6989a8899850619c87cd7e6", null ]
+    [ "boss_mimironAI", "dd/d12/a20623.html", "dd/d12/a20623" ],
+    [ "boss_mimiron", "da/d63/a20619.html#a72904837bd85e9f711fcf3da04c459c3", null ],
+    [ "GetAI", "da/d63/a20619.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
 ];

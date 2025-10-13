@@ -1,10 +1,12 @@
 var a07739 =
 [
-    [ "storage_type", "d2/dc4/a07739.html#a054c554d9d812e571455bce39655a9ac", null ],
-    [ "value_type", "d2/dc4/a07739.html#a5c55c97d4dd08c5e71563596e0c59111", null ],
-    [ "operator value_type", "d2/dc4/a07739.html#a2d439c3664d398cebfc503b2769bfa9c", null ],
-    [ "operator*", "d2/dc4/a07739.html#a9d4cf547beb996e5945acb84f5305200", null ],
-    [ "operator->", "d2/dc4/a07739.html#afb5bb4e6e4a32db89e3b8a68e9c0d901", null ],
-    [ "TryConsume", "d2/dc4/a07739.html#a57892ca7457ca93bdcdbbb8309311c8f", null ],
-    [ "val", "d2/dc4/a07739.html#aef50fdfc79df3ca784eb90a69bd43076", null ]
+    [ "value_type", "d2/dc4/a07739.html#ad430aafb433483e30d12567e7e8c2915", null ],
+    [ "GetID", "d2/dc4/a07739.html#a73dd0adf980c5c3d2e272f9709ece880", null ],
+    [ "GetName", "d2/dc4/a07739.html#aae4efee3e6e7d403b0c6f5d484814b81", null ],
+    [ "operator std::string const &", "d2/dc4/a07739.html#a3530d83607efda9b3f50a61959da3267", null ],
+    [ "operator std::string_view", "d2/dc4/a07739.html#a6b77a74762705e00d73b751a5f947e05", null ],
+    [ "operator uint32", "d2/dc4/a07739.html#abffff20cfe5d5b3936ac345c5082258f", null ],
+    [ "TryConsume", "d2/dc4/a07739.html#abc0041bef0d0171b54acbdcf6b18f611", null ],
+    [ "_id", "d2/dc4/a07739.html#a844e7f79db885f3076958b0e6d423b4e", null ],
+    [ "_name", "d2/dc4/a07739.html#a63bb52a0619ceef7b1af1b97d52a7373", null ]
 ];

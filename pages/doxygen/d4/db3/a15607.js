@@ -1,7 +1,7 @@
 var a15607 =
 [
-    [ "npc_cork_gizeltonAI", "df/d63/a15611.html", "df/d63/a15611" ],
-    [ "npc_cork_gizelton", "d4/db3/a15607.html#a915aa2abc18109e7d0197863f59536f2", null ],
-    [ "GetAI", "d4/db3/a15607.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
-    [ "OnQuestAccept", "d4/db3/a15607.html#a11dc1fea0a24add451272b537298fc13", null ]
+    [ "npc_tharnarianAI", "df/d63/a15611.html", "df/d63/a15611" ],
+    [ "npc_tharnarian", "d4/db3/a15607.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
+    [ "GetAI", "d4/db3/a15607.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
+    [ "OnQuestReward", "d4/db3/a15607.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
 ];

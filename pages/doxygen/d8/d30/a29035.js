@@ -1,10 +1,9 @@
 var a29035 =
 [
-    [ "ADTFile", "d8/d30/a29035.html#a763f0f9c1106700987797864b2fdb006", null ],
-    [ "~ADTFile", "d8/d30/a29035.html#ad1533f5b630a70b6ff95861e64960de0", null ],
-    [ "init", "d8/d30/a29035.html#ab9ba3b1a2aac611bec5bfe4a454e4042", null ],
-    [ "_file", "d8/d30/a29035.html#a7f3071e63be08fe3288d5ab03b5b8acf", null ],
-    [ "Adtfilename", "d8/d30/a29035.html#a07c82112e26b96a87e22f1c7bec9c72e", null ],
-    [ "ModelInstanceNames", "d8/d30/a29035.html#a6601e20fed78c54bb281ad3bd0ce7800", null ],
-    [ "WmoInstanceNames", "d8/d30/a29035.html#acd96c287a01828bf3e49fb599a3b5d81", null ]
+    [ "MapTiles", "d8/d30/a29035.html#abc58d7154eab45ae26df27e2e82dac63", null ],
+    [ "MapTiles", "d8/d30/a29035.html#a406efc53593b5bceb0a491c0b7553350", null ],
+    [ "~MapTiles", "d8/d30/a29035.html#aec1baac21c06380ba71ff5e610152519", null ],
+    [ "operator==", "d8/d30/a29035.html#a3e7a87f421e8eb23926afe1d0978c3b4", null ],
+    [ "m_mapId", "d8/d30/a29035.html#a2fc10edf226a6f4548c2175e1013c1b9", null ],
+    [ "m_tiles", "d8/d30/a29035.html#ab80305bb73234e35a528701d775954b5", null ]
 ];

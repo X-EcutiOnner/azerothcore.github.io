@@ -1,6 +1,10 @@
 var a23731 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "de/dca/a23735.html", "de/dca/a23735" ],
-    [ "instance_gruuls_lair", "d4/d92/a23731.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
-    [ "GetInstanceScript", "d4/d92/a23731.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
+    [ "boss_blindeye_the_seer", "d4/d92/a23731.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
+    [ "JustDied", "d4/d92/a23731.html#ad70a72b18587da82d26bde8f10d63700", null ],
+    [ "JustEngagedWith", "d4/d92/a23731.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
+    [ "Reset", "d4/d92/a23731.html#aabbda75266615f64ce88ce092e68bfa4", null ],
+    [ "UpdateAI", "d4/d92/a23731.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
+    [ "_scheduler", "d4/d92/a23731.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
+    [ "instance", "d4/d92/a23731.html#a74462f26d66da3ca370825858060b1c2", null ]
 ];

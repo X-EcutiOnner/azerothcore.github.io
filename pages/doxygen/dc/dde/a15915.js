@@ -1,6 +1,7 @@
 var a15915 =
 [
-    [ "npc_rivern_frostwind", "dc/dde/a15915.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
-    [ "OnGossipHello", "dc/dde/a15915.html#a90a6582633336de422c9f98973562b32", null ],
-    [ "OnGossipSelect", "dc/dde/a15915.html#a067ff91179f551633594d488eda269ed", null ]
+    [ "npc_ringoAI", "d1/d5c/a15919.html", "d1/d5c/a15919" ],
+    [ "npc_ringo", "dc/dde/a15915.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
+    [ "GetAI", "dc/dde/a15915.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
+    [ "OnQuestAccept", "dc/dde/a15915.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
 ];

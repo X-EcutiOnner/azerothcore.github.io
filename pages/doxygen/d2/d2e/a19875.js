@@ -1,6 +1,6 @@
 var a19875 =
 [
-    [ "CosmicSmashDamageEvent", "d2/d2e/a19875.html#a5c9606791b560d8be1825a9c73f2393e", null ],
-    [ "Execute", "d2/d2e/a19875.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
-    [ "_caster", "d2/d2e/a19875.html#ab7af2459d3962831812ee2362ee9de2b", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "da/d9b/a19879.html", "da/d9b/a19879" ],
+    [ "instance_halls_of_stone", "d2/d2e/a19875.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "d2/d2e/a19875.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

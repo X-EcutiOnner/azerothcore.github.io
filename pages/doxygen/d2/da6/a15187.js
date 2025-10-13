@@ -1,7 +1,7 @@
 var a15187 =
 [
-    [ "boss_kurinnaxx", "d2/da6/a15187.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
-    [ "InitializeAI", "d2/da6/a15187.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
-    [ "JustDied", "d2/da6/a15187.html#adb749c8737888a099ad7a3d58292a612", null ],
-    [ "JustEngagedWith", "d2/da6/a15187.html#a451cd7ee80b0428a199c33012562bdb3", null ]
+    [ "HandleScript", "d2/da6/a15187.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
+    [ "Load", "d2/da6/a15187.html#a2dc1edf537f58133fb4daabde9f43843", null ],
+    [ "PrepareSpellScript", "d2/da6/a15187.html#ae856c6e70ededa95c0308596a9f980af", null ],
+    [ "Register", "d2/da6/a15187.html#ac2e82c7e626658faa968f75c26688b43", null ]
 ];

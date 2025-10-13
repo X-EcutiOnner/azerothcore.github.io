@@ -1,7 +1,6 @@
 var a12831 =
 [
-    [ "OnRemove", "d6/d3e/a12831.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
-    [ "PrepareAuraScript", "d6/d3e/a12831.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
-    [ "Register", "d6/d3e/a12831.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
-    [ "Validate", "d6/d3e/a12831.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
+    [ "FilterTargets", "d6/d3e/a12831.html#adae7a812a222a60f9c89cac4ea327011", null ],
+    [ "PrepareSpellScript", "d6/d3e/a12831.html#a9576a48a3aa761c103f72586cd93970c", null ],
+    [ "Register", "d6/d3e/a12831.html#aaadad68c322eac268ea7a45f9c369c59", null ]
 ];

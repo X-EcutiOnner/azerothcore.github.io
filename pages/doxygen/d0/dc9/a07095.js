@@ -1,26 +1,9 @@
 var a07095 =
 [
-    [ "BuildAuctionMailBody", "d0/dc9/a07095.html#a146f034b64f65c03866ecc2f45a9b448", null ],
-    [ "BuildAuctionMailSubject", "d0/dc9/a07095.html#a8e3dee79fd65c7f25ca1d74fe7924163", null ],
-    [ "CalculateAuctionOutBid", "d0/dc9/a07095.html#aa6854cd3ccd30bafdac8e13f05f97c1d", null ],
-    [ "DeleteFromDB", "d0/dc9/a07095.html#a13750d00897a07a57a881c3dcb1f6737", null ],
-    [ "GetAuctionCut", "d0/dc9/a07095.html#ab18794a9a9287cee3328625ae715a57e", null ],
-    [ "GetAuctionOutBid", "d0/dc9/a07095.html#a0d34f5709de579b0eea0884598755adc", null ],
-    [ "GetFactionId", "d0/dc9/a07095.html#ac5f752011b382f3b37a155b13cb5cb69", null ],
-    [ "GetHouseId", "d0/dc9/a07095.html#a2d5a849d817aaee17738aba2a53009f9", null ],
-    [ "LoadFromDB", "d0/dc9/a07095.html#acca59324d63bc3eb7a0ffa22c6101770", null ],
-    [ "SaveToDB", "d0/dc9/a07095.html#a62b83210cbde94626f6e092b454b83d8", null ],
-    [ "auctionHouseEntry", "d0/dc9/a07095.html#a46668a8214d200bf508a157aa256e9ec", null ],
-    [ "bid", "d0/dc9/a07095.html#a11521c90c74d1eba7d7d3ef55e960a93", null ],
-    [ "bidder", "d0/dc9/a07095.html#a3d4e0baffa36cf643b0c645efe4bf3f4", null ],
-    [ "buyout", "d0/dc9/a07095.html#aa75d261f77460c16f98f211b481a9af0", null ],
-    [ "deposit", "d0/dc9/a07095.html#aa7f8aefd6e3bcda5dbbb8f8d4460871c", null ],
-    [ "expire_time", "d0/dc9/a07095.html#a8520c9664918d452d8e6b643df8486b5", null ],
-    [ "houseId", "d0/dc9/a07095.html#a014be11a4e161eea637098a4e9243b6f", null ],
-    [ "Id", "d0/dc9/a07095.html#aa65a8b6b8be81f705378e2f510196c48", null ],
-    [ "item_guid", "d0/dc9/a07095.html#a9b1f40baa8c949995acdab008944f403", null ],
-    [ "item_template", "d0/dc9/a07095.html#ac8935b680716aa5c0d50d750fb934bab", null ],
-    [ "itemCount", "d0/dc9/a07095.html#aa67975f37a4ef343422a471ef65a98fd", null ],
-    [ "owner", "d0/dc9/a07095.html#adf2b61be66a9afc7114198fe993d526d", null ],
-    [ "startbid", "d0/dc9/a07095.html#aa1e6771187c237136d34645db9f852f9", null ]
+    [ "SmartWaypointMgr", "d0/dc9/a07095.html#ad9168edcc4fd16260178d4a9277f71ba", null ],
+    [ "~SmartWaypointMgr", "d0/dc9/a07095.html#a300be22ad39e320833297c3f05cdcecc", null ],
+    [ "GetPath", "d0/dc9/a07095.html#ac3ea00baf665a3a201c911c875600010", null ],
+    [ "instance", "d0/dc9/a07095.html#a7ae477d4d210d938e167453d9085e520", null ],
+    [ "LoadFromDB", "d0/dc9/a07095.html#a9b5cdb29d31e7de0a407f600aef482af", null ],
+    [ "waypoint_map", "d0/dc9/a07095.html#a6acec90c526e47c3b16d1ba556f79c35", null ]
 ];

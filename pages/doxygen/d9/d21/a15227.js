@@ -1,6 +1,6 @@
 var a15227 =
 [
-    [ "FilterTargets", "d9/d21/a15227.html#ab0cd088c750e9538e2087f58fdaac20e", null ],
-    [ "PrepareSpellScript", "d9/d21/a15227.html#ae252cbce0ebc63eb4e54bedfc88640ad", null ],
-    [ "Register", "d9/d21/a15227.html#a3168a3f97ddb38b261a0730405ba27db", null ]
+    [ "HandleScript", "d9/d21/a15227.html#a7e6ec873a252106ba865bdef05f757f5", null ],
+    [ "PrepareSpellScript", "d9/d21/a15227.html#a98e80c8726c350aca850b6c87c5861da", null ],
+    [ "Register", "d9/d21/a15227.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
 ];

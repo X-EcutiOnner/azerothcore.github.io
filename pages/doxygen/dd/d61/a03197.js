@@ -1,5 +1,7 @@
 var a03197 =
 [
-    [ "list_commandscript", "dc/d83/a11847.html", "dc/d83/a11847" ],
-    [ "AddSC_list_commandscript", "dd/d61/a03197.html#a81af00772e7a06ad952109222b1f53a3", null ]
+    [ "gobject_commandscript", "dd/d69/a11843.html", "dd/d69/a11843" ],
+    [ "GameObjectEntry", "dd/d61/a03197.html#af6e4fdc2f36213d5f2a9fa6f335517b8", null ],
+    [ "GameObjectSpawnId", "dd/d61/a03197.html#ad5bd2a208bd6c6213df595ee7369126f", null ],
+    [ "AddSC_gobject_commandscript", "dd/d61/a03197.html#a0cc4be9c12b1a892f031cb1ff47e23d9", null ]
 ];

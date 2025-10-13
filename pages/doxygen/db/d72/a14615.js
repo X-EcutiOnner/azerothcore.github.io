@@ -1,9 +1,13 @@
 var a14615 =
 [
-    [ "npc_love_in_air_snivel", "db/d72/a14615.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
-    [ "AllowAction", "db/d72/a14615.html#af1097317f62bbb8f8456124001c73576", null ],
-    [ "MoveInLineOfSight", "db/d72/a14615.html#ae6537707109b95fad20e521d07867cdd", null ],
-    [ "Reset", "db/d72/a14615.html#a2385ea44d9f44735b193add4a0d0485b", null ],
-    [ "UpdateAI", "db/d72/a14615.html#a9e712994663e3442359d2f574ebc812c", null ],
-    [ "delay", "db/d72/a14615.html#a548db6245ef875ec47279246e437934c", null ]
+    [ "boss_headless_horseman_head", "db/d72/a14615.html#a12343a1bb6e30681b0c82ba649bd5b8a", null ],
+    [ "DamageTaken", "db/d72/a14615.html#a73e75350937736ad7cfe725b785b3768", null ],
+    [ "GetOwner", "db/d72/a14615.html#ab72d1f1891401754ffe032ed0534882d", null ],
+    [ "Reset", "db/d72/a14615.html#a367e8b82d6d3bb08e7106c71295610f9", null ],
+    [ "SpellHit", "db/d72/a14615.html#adcd9ce9755f8dbc1391b4d2b3f5e1669", null ],
+    [ "SpellHitTarget", "db/d72/a14615.html#a0d73ba0831118d135137953f91e7c5d7", null ],
+    [ "UpdateAI", "db/d72/a14615.html#a300dec039465535914bf6879423a0962", null ],
+    [ "handled", "db/d72/a14615.html#a72c0d0c8c534fa8fdc1370203c30c3a3", null ],
+    [ "pct", "db/d72/a14615.html#a9752326bac7ecbcdfde5b12f55b20be2", null ],
+    [ "timer", "db/d72/a14615.html#ae7c669e65659459fd83f91b5e9ed1347", null ]
 ];

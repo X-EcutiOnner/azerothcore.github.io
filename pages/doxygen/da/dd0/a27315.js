@@ -1,5 +1,5 @@
 var a27315 =
 [
-    [ "AreaTrigger_at_stormwright_shelf", "da/dd0/a27315.html#a97cdf51a8992b3d9edc138351770fd75", null ],
-    [ "OnTrigger", "da/dd0/a27315.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
+    [ "achievement_sa_defense_of_the_ancients", "da/dd0/a27315.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "da/dd0/a27315.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

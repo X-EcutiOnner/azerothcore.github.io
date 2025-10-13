@@ -1,5 +1,6 @@
 var a14751 =
 [
-    [ "achievement_pb_terokkar_turkey_time", "d2/dff/a14751.html#a68e536379b04e060f44819c9831766c2", null ],
-    [ "OnCheck", "d2/dff/a14751.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
+    [ "HandleDummy", "d2/dff/a14751.html#aa75140309e66c28590a64e10676356da", null ],
+    [ "PrepareSpellScript", "d2/dff/a14751.html#a21c4872e16c18c2918dfbea366e61df3", null ],
+    [ "Register", "d2/dff/a14751.html#a841c9277224cbae878946deb288b87a1", null ]
 ];

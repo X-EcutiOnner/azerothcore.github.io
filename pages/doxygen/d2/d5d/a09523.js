@@ -1,6 +1,9 @@
 var a09523 =
 [
-    [ "RandomCheck", "d2/d5d/a09523.html#aca7a234c6eef8876abb02af723e9485d", null ],
-    [ "operator()", "d2/d5d/a09523.html#a9886987fa2b675ab404102ebe828c9f3", null ],
-    [ "_chance", "d2/d5d/a09523.html#aad026a0ad4539dd5336c3a6b820e351d", null ]
+    [ "UnitAuraCheck", "d2/d5d/a09523.html#acbc0c969db8b768720ab3b8235c28352", null ],
+    [ "operator()", "d2/d5d/a09523.html#abc385cad226ac51c09a908864d360fd3", null ],
+    [ "operator()", "d2/d5d/a09523.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
+    [ "_casterGUID", "d2/d5d/a09523.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
+    [ "_present", "d2/d5d/a09523.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
+    [ "_spellId", "d2/d5d/a09523.html#a0dd71c851f803fb70a4543c77b672889", null ]
 ];

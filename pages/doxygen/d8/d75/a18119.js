@@ -1,7 +1,6 @@
 var a18119 =
 [
-    [ "CheckRequirement", "d8/d75/a18119.html#a1568599758bdc757ae448ab5a77c1cc7", null ],
-    [ "CheckRequirementInternal", "d8/d75/a18119.html#ac2559b4a925fc0960a902fa2b306dc54", null ],
-    [ "PrepareSpellScript", "d8/d75/a18119.html#a0d6745dab09cdd228fc802e482c3d15c", null ],
-    [ "Register", "d8/d75/a18119.html#a95a250aeb3a41922c529f476d39f18e4", null ]
+    [ "HandleScript", "d8/d75/a18119.html#a54ecb69bf0c54c170b12c9a4b88b55fb", null ],
+    [ "PrepareSpellScript", "d8/d75/a18119.html#a50560d754709e6b9ec6863142c1ffce3", null ],
+    [ "Register", "d8/d75/a18119.html#ab29deadceb953d6fb5d997b21ee4bb1c", null ]
 ];

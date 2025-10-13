@@ -1,9 +1,7 @@
 var a09515 =
 [
-    [ "UnitAuraCheck", "db/d61/a09515.html#acbc0c969db8b768720ab3b8235c28352", null ],
-    [ "operator()", "db/d61/a09515.html#abc385cad226ac51c09a908864d360fd3", null ],
-    [ "operator()", "db/d61/a09515.html#a1c85e9d5d517a852cf4c92063e6f3ed1", null ],
-    [ "_casterGUID", "db/d61/a09515.html#ab2bdf4c05792dd83e4e9542fc3083cc3", null ],
-    [ "_present", "db/d61/a09515.html#af553a0c4db5b11ec69ae7fbe9ce5ff78", null ],
-    [ "_spellId", "db/d61/a09515.html#a0dd71c851f803fb70a4543c77b672889", null ]
+    [ "ObjectTypeIdCheck", "db/d61/a09515.html#a40af6d4d15e92aaaf2c9bb53ce9bb290", null ],
+    [ "operator()", "db/d61/a09515.html#a9cbd09a6021bef7819a0002952264293", null ],
+    [ "_equals", "db/d61/a09515.html#ab08a6e18731ccb822a71a1530f6966c3", null ],
+    [ "_typeId", "db/d61/a09515.html#a70e9a07e4c2c559bc55b8003db3af3be", null ]
 ];

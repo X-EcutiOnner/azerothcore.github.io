@@ -1,5 +1,6 @@
 var a25847 =
 [
-    [ "PrepareSpellScript", "d7/d2e/a25847.html#a065d81d698c978bcdd234712807e9098", null ],
-    [ "Register", "d7/d2e/a25847.html#a3efcd145189b27272495110c799cf14f", null ]
+    [ "HandleActivateObject", "d7/d2e/a25847.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
+    [ "PrepareSpellScript", "d7/d2e/a25847.html#a684079434128bacd3d8b8b71c14dc56a", null ],
+    [ "Register", "d7/d2e/a25847.html#a266301f59c809c03d0ccfc48a2ace302", null ]
 ];

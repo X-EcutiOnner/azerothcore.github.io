@@ -1,6 +1,5 @@
 var a09699 =
 [
-    [ "DoorInfo", "d1/d90/a09699.html#a26f4849a1d68df466e6db0ccbb8d001b", null ],
-    [ "bossInfo", "d1/d90/a09699.html#a14f7742a1b272d0cd76dda6ce28cde26", null ],
-    [ "type", "d1/d90/a09699.html#ad77a91752ea10a11c8e73655e63dd5c1", null ]
+    [ "entry", "d1/d90/a09699.html#a1105fbea33b497bca2a290431cb0f4ca", null ],
+    [ "type", "d1/d90/a09699.html#acaf1010ce0620ee99a2a6b2721a06b89", null ]
 ];

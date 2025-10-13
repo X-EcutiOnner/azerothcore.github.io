@@ -1,8 +1,8 @@
 var a25939 =
 [
-    [ "CheckProc", "df/d21/a25939.html#a2e83dd62bfcbe23e38b62e8299a52ee5", null ],
-    [ "HandleProc", "df/d21/a25939.html#a1d45afc30c8dd6de0a01285778117033", null ],
-    [ "PrepareAuraScript", "df/d21/a25939.html#ab468329029c4bc3c16475585b3451615", null ],
-    [ "Register", "df/d21/a25939.html#a37700b8597a3945d30700c5e8b60404a", null ],
-    [ "Validate", "df/d21/a25939.html#a30e57e0b04e16a4a232c6a18801fafa0", null ]
+    [ "HandleDummy", "df/d21/a25939.html#a0604906219798bec87624f8179292317", null ],
+    [ "Load", "df/d21/a25939.html#a99d0d9dd5818a9252536879a3a1dab66", null ],
+    [ "PrepareSpellScript", "df/d21/a25939.html#a51602256218ee899b7391b2b7af0ee7b", null ],
+    [ "Register", "df/d21/a25939.html#a7b065390e95c9673a28d1c49158766ff", null ],
+    [ "Validate", "df/d21/a25939.html#a0bf9973fae74a700623805352908aa69", null ]
 ];

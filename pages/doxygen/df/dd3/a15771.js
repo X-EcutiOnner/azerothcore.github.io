@@ -1,5 +1,6 @@
 var a15771 =
 [
-    [ "go_crystalline_tear", "df/dd3/a15771.html#a9e19c6538ecd1a758f2639171321d965", null ],
-    [ "OnQuestAccept", "df/dd3/a15771.html#a4efd6b2b8ca37462ba3a26d05f01ec2d", null ]
+    [ "npc_anachronos_quest_triggerAI", "df/d47/a15775.html", "df/d47/a15775" ],
+    [ "npc_anachronos_quest_trigger", "df/dd3/a15771.html#ad39871952acd3152b51820fe360f4ebd", null ],
+    [ "GetAI", "df/dd3/a15771.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
 ];

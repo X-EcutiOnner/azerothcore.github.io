@@ -1,6 +1,7 @@
 var a27019 =
 [
-    [ "HandleBanish", "d1/d51/a27019.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "d1/d51/a27019.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "d1/d51/a27019.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "HandleProc", "d1/d51/a27019.html#a85df8d4086a980d2b0a441097a909143", null ],
+    [ "PrepareAuraScript", "d1/d51/a27019.html#a4576f3d5af2d9265fa173f66d68ed512", null ],
+    [ "Register", "d1/d51/a27019.html#ab5308a36bc3b878a2913a89a84051ad7", null ],
+    [ "Validate", "d1/d51/a27019.html#a760a018b8410233e09065d94abeeb1ff", null ]
 ];

@@ -1,6 +1,10 @@
 var a15103 =
 [
-    [ "instance_ragefire_chasm_InstanceMapScript", "d9/d51/a15107.html", "d9/d51/a15107" ],
-    [ "instance_ragefire_chasm", "d6/dfc/a15103.html#ab7f27d3e73b24d16dcf9b114f7dd4b36", null ],
-    [ "GetInstanceScript", "d6/dfc/a15103.html#a0568996a61ef91688b9f223cb3782e5a", null ]
+    [ "instance_maraudon_InstanceMapScript", "d6/dfc/a15103.html#a9c46508320d3973006561444feae0586", null ],
+    [ "Initialize", "d6/dfc/a15103.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
+    [ "OnGameObjectCreate", "d6/dfc/a15103.html#a3a287b97db58c3489815f20ee0d37977", null ],
+    [ "ReadSaveDataMore", "d6/dfc/a15103.html#ac2cd336874b25ad20dac104037de1df5", null ],
+    [ "SetData", "d6/dfc/a15103.html#a6e90bf60a076c164e432128f7ec62fba", null ],
+    [ "WriteSaveDataMore", "d6/dfc/a15103.html#a6e4072342e66689d343912de85e66b34", null ],
+    [ "_encounters", "d6/dfc/a15103.html#af2e752a791d75e50001060c4a9f18173", null ]
 ];

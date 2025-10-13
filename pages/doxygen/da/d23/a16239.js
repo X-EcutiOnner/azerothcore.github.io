@@ -1,7 +1,6 @@
 var a16239 =
 [
-    [ "CheckDistance", "da/d23/a16239.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
-    [ "PrepareSpellScript", "da/d23/a16239.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
-    [ "Register", "da/d23/a16239.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
-    [ "Validate", "da/d23/a16239.html#aa5d7a420154b156ca24e73de2faf912a", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "d0/d89/a16243.html", "d0/d89/a16243" ],
+    [ "npc_baltharus_the_warborn_clone", "da/d23/a16239.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
+    [ "GetAI", "da/d23/a16239.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
 ];

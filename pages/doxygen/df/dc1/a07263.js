@@ -1,7 +1,9 @@
 var a07263 =
 [
-    [ "ArenaSeasonReward", "df/dc1/a07263.html#ae0871effd7fcac1006d8a16f9c7d7d04", null ],
-    [ "operator==", "df/dc1/a07263.html#a2f04bbb871ab3b90f5dc3121e2bff213", null ],
-    [ "entry", "df/dc1/a07263.html#ab3144a4701e1ebd88a3a94544ee76cdf", null ],
-    [ "type", "df/dc1/a07263.html#ac4c8cff64cf2eb7f34d28080a2a5528b", null ]
+    [ "ArenaScore", "df/dc1/a07263.html#a58f1391de4e67750dad211b10704499f", null ],
+    [ "AppendToPacket", "df/dc1/a07263.html#a3fe2ab34a9abc4d8c4ff863334cf2c84", null ],
+    [ "BuildObjectivesBlock", "df/dc1/a07263.html#ac96461b865fc7a9ba0cdfad6ae3fa96f", null ],
+    [ "ToString", "df/dc1/a07263.html#ab04b30f4bfa6b1aa89e08e3195ad3b0b", null ],
+    [ "Arena", "df/dc1/a07263.html#a5f488c25aa439166d145713c67e7d085", null ],
+    [ "PvPTeamId", "df/dc1/a07263.html#a486ee0e05ac5160f0fb174e2a1e061bb", null ]
 ];

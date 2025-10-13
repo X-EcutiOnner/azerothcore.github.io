@@ -1,7 +1,7 @@
 var a00332 =
 [
-    [ "BattlegroundWGScore", "dc/d19/a07487.html", "dc/d19/a07487" ],
-    [ "BattlegroundWS", "d7/d68/a07491.html", "d7/d68/a07491" ],
+    [ "BattlegroundWGScore", "d1/d0c/a07495.html", "d1/d0c/a07495" ],
+    [ "BattlegroundWS", "dc/d7b/a07499.html", "dc/d7b/a07499" ],
     [ "BG_WS_BroadcastTexts", "dc/d50/a00332.html#a7c9154e6ca4e1207a973b539247c437e", [
       [ "BG_WS_TEXT_START_ONE_MINUTE", "dc/d50/a00332.html#a7c9154e6ca4e1207a973b539247c437ead7db7cd7c39b7d45b4fde846f6ce35ab", null ],
       [ "BG_WS_TEXT_START_HALF_MINUTE", "dc/d50/a00332.html#a7c9154e6ca4e1207a973b539247c437ea143eab6f072004d7ef36368cb8c5a6a3", null ],
@@ -106,11 +106,7 @@ var a00332 =
     [ "BG_WS_TimerOrScore", "dc/d50/a00332.html#ae5f8a7cd4f42f719752da8c95249214a", [
       [ "BG_WS_MAX_TEAM_SCORE", "dc/d50/a00332.html#ae5f8a7cd4f42f719752da8c95249214aaa68a8480363b87d5a538eb6716f8efb8", null ],
       [ "BG_WS_TOTAL_GAME_TIME", "dc/d50/a00332.html#ae5f8a7cd4f42f719752da8c95249214aabe9a2e0c527ac4dbe235b6f04a64f016", null ],
-      [ "BG_WS_FLAG_RESPAWN_TIME", "dc/d50/a00332.html#ae5f8a7cd4f42f719752da8c95249214aa0960ca9313b2915b96ae434eca282313", null ],
-      [ "BG_WS_FLAG_DROP_TIME", "dc/d50/a00332.html#ae5f8a7cd4f42f719752da8c95249214aa5e494f66c9a370bdd7e65aea0e2cdfa5", null ],
-      [ "BG_WS_SPELL_FORCE_TIME", "dc/d50/a00332.html#ae5f8a7cd4f42f719752da8c95249214aa4876641eeb6401cce978679a1150de48", null ],
-      [ "BG_WS_SPELL_BRUTAL_TIME", "dc/d50/a00332.html#ae5f8a7cd4f42f719752da8c95249214aaf00f7ef0f4d9e0cc43ecfb8b5d6ef743", null ],
-      [ "BG_WS_DOOR_DESPAWN_TIME", "dc/d50/a00332.html#ae5f8a7cd4f42f719752da8c95249214aaf3a9212e0ca0569e162e8cf96de4dc44", null ]
+      [ "BG_WS_FLAG_RESPAWN_TIME", "dc/d50/a00332.html#ae5f8a7cd4f42f719752da8c95249214aa0960ca9313b2915b96ae434eca282313", null ]
     ] ],
     [ "BG_WS_Trigger", "dc/d50/a00332.html#a50801b1baa78c499341bfe44d88ffcf3", [
       [ "BG_WS_TRIGGER_ALLIANCE_FLAG_SPAWN", "dc/d50/a00332.html#a50801b1baa78c499341bfe44d88ffcf3afe1ff0fad52fd52ab78965a7465113d3", null ],
@@ -121,5 +117,9 @@ var a00332 =
       [ "BG_WS_TRIGGER_HORDE_ELIXIR_REGEN_SPAWN", "dc/d50/a00332.html#a50801b1baa78c499341bfe44d88ffcf3a8bc4e07db5aeeb0e5cb7b391be15b292", null ],
       [ "BG_WS_TRIGGER_ALLIANCE_ELIXIR_BERSERK_SPAWN", "dc/d50/a00332.html#a50801b1baa78c499341bfe44d88ffcf3aedcf50e072c7fbdbf39f7421e29c09fe", null ],
       [ "BG_WS_TRIGGER_HORDE_ELIXIR_BERSERK_SPAWN", "dc/d50/a00332.html#a50801b1baa78c499341bfe44d88ffcf3aea7c50de78560ae6831d5b51cf33034e", null ]
-    ] ]
+    ] ],
+    [ "BG_WS_DOOR_DESPAWN_TIME", "dc/d50/a00332.html#a8d3a1f5c677b26a98ae6286c0e4875f3", null ],
+    [ "BG_WS_FLAG_DROP_TIME", "dc/d50/a00332.html#a190d782187c7f19845cef271f7db3d88", null ],
+    [ "BG_WS_SPELL_BRUTAL_TIME", "dc/d50/a00332.html#aff703fcdbd9a08b60b657ec15a583a3a", null ],
+    [ "BG_WS_SPELL_FORCE_TIME", "dc/d50/a00332.html#a4018529c6fe6a82915185f2744eb26e3", null ]
 ];

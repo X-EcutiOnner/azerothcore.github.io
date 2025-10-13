@@ -1,15 +1,15 @@
 var a14123 =
 [
-    [ "boss_arlokkAI", "de/d9c/a14123.html#adb598bf47620cd077fb689fb8f9a4ad8", null ],
-    [ "EnterEvadeMode", "de/d9c/a14123.html#a8553c4d173e7c39315f022f69587c6c0", null ],
-    [ "JustDied", "de/d9c/a14123.html#ac03a6599a5b41e01bd4ed9ebd55cc0ba", null ],
-    [ "JustEngagedWith", "de/d9c/a14123.html#ac4ee55299a9389c4fee1ad96140b00d0", null ],
-    [ "JustReachedHome", "de/d9c/a14123.html#ab0499a80ea8406457e6bfaac96eae975", null ],
-    [ "Reset", "de/d9c/a14123.html#a3ea2c720ac5c4b1fa6ea4d2eb8bf163f", null ],
-    [ "SetData", "de/d9c/a14123.html#a7eedf1d1b55740698c314d4afbb2b0b2", null ],
-    [ "UpdateAI", "de/d9c/a14123.html#a3a2d07d42be88244c0c72b998792dd28", null ],
-    [ "_summonCountA", "de/d9c/a14123.html#a77f83909fca59d1c5d72dc583d7ec22e", null ],
-    [ "_summonCountB", "de/d9c/a14123.html#a7e7d091ea00fb42e7f97cb79168e0dc3", null ],
-    [ "_triggersSideAGUID", "de/d9c/a14123.html#aedc8dda728ed849f33dc83396da51bce", null ],
-    [ "_triggersSideBGUID", "de/d9c/a14123.html#a0fc797fd56c4f12272b647087492670a", null ]
+    [ "npc_amanishi_tempest", "de/d9c/a14123.html#a8e15b39501998e9f8c45baef0963d160", null ],
+    [ "DoAction", "de/d9c/a14123.html#a50963cc0aac2560f6ddbf81000943ac3", null ],
+    [ "EnterEvadeMode", "de/d9c/a14123.html#a66c787bd318fdcad83b7b5008b4979f9", null ],
+    [ "JustDied", "de/d9c/a14123.html#aadda903d17a5f4560ce2db896bd7b257", null ],
+    [ "JustEngagedWith", "de/d9c/a14123.html#af277f5d1f73cf79ea8cfcb1e4fc744e3", null ],
+    [ "JustSummoned", "de/d9c/a14123.html#aac72fdc33051370c3cffa388f466b6be", null ],
+    [ "Reset", "de/d9c/a14123.html#aa921f85142f9103bea839bdc0330e1cc", null ],
+    [ "ScheduleEvents", "de/d9c/a14123.html#a09ba0ce51ad981578adcc1950c89d5ae", null ],
+    [ "SummonedCreatureEvade", "de/d9c/a14123.html#a61eebb122c9288c826cdf352c17e0590", null ],
+    [ "UpdateAI", "de/d9c/a14123.html#ad8f6b32c3f08eb2a4ac36a8d91434a4d", null ],
+    [ "_instance", "de/d9c/a14123.html#ab88e1d1ad979192f0519045d8ed2e14f", null ],
+    [ "_summons", "de/d9c/a14123.html#a4337b2bc417d8dafc4a6d5d10bbd0db9", null ]
 ];

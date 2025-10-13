@@ -1,7 +1,6 @@
 var a08827 =
 [
-    [ "VehicleDespawnEvent", "d3/d5b/a08827.html#ab6f88e60f1068ab79049c158314a87ab", null ],
-    [ "Execute", "d3/d5b/a08827.html#a39284ca2343e54cec915ac3ecf51f4a8", null ],
-    [ "_duration", "d3/d5b/a08827.html#a3e9c695929c24728b2091940e511d5f0", null ],
-    [ "_self", "d3/d5b/a08827.html#a0d472ea9a1a7b615f01c73d20cfc6573", null ]
+    [ "BuildValuesCachedBuffer", "d3/d5b/a08827.html#a87a3167ae060c8556700e4a137294053", null ],
+    [ "buffer", "d3/d5b/a08827.html#add7150533a48434b0e606add9cff04d2", null ],
+    [ "posPointers", "d3/d5b/a08827.html#affa098684782f15383a7df063b178cf1", null ]
 ];
