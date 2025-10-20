@@ -1,8 +1,8 @@
 var a03389 =
 [
-    [ "npc_tapoke_slim_jahn", "dc/d40/a13995.html", "dc/d40/a13995" ],
-    [ "npc_tapoke_slim_jahn::npc_tapoke_slim_jahnAI", "d6/d2e/a13999.html", "d6/d2e/a13999" ],
-    [ "npc_mikhail", "d2/d78/a14003.html", "d2/d78/a14003" ],
+    [ "npc_tapoke_slim_jahn", "d2/d78/a14003.html", "d2/d78/a14003" ],
+    [ "npc_tapoke_slim_jahn::npc_tapoke_slim_jahnAI", "dc/de5/a14007.html", "dc/de5/a14007" ],
+    [ "npc_mikhail", "d0/df2/a14011.html", "d0/df2/a14011" ],
     [ "TapokeSlim", "d2/dce/a03389.html#ad5b3ef2d2393f509f0cbf4e70303fab9", [
       [ "QUEST_MISSING_DIPLO_PT11", "d2/dce/a03389.html#ad5b3ef2d2393f509f0cbf4e70303fab9afdacf3720ad6627ab1c120619b4628a2", null ],
       [ "SPELL_STEALTH", "d2/dce/a03389.html#ad5b3ef2d2393f509f0cbf4e70303fab9ab05b1ff486cc81800d4e40014eae5576", null ],

@@ -1,7 +1,8 @@
 var a15039 =
 [
-    [ "npc_tarethaAI", "d4/d4f/a15043.html", "d4/d4f/a15043" ],
-    [ "npc_taretha", "d7/d5e/a15039.html#a54379e06518ff972e91e25e295731f5a", null ],
-    [ "GetAI", "d7/d5e/a15039.html#a5045bb7119b12800ee0053818fcae5fe", null ],
-    [ "OnGossipHello", "d7/d5e/a15039.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
+    [ "npc_thrall_old_hillsbradAI", "d4/d4f/a15043.html", "d4/d4f/a15043" ],
+    [ "npc_thrall_old_hillsbrad", "d7/d5e/a15039.html#a3e6fa750b095af3beac806a619e18328", null ],
+    [ "GetAI", "d7/d5e/a15039.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
+    [ "OnGossipHello", "d7/d5e/a15039.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
+    [ "OnGossipSelect", "d7/d5e/a15039.html#a17fcb00850503903f430506654e035c0", null ]
 ];

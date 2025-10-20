@@ -1,9 +1,10 @@
 var a12475 =
 [
-    [ "FilterTargets", "df/ded/a12475.html#ae1029dd58a48c099e8bbd071898f1b12", null ],
-    [ "HandleOnHitRogue", "df/ded/a12475.html#a57cd6d2c45a9a73bb284272db21d1fce", null ],
-    [ "HandleOnHitWarlock", "df/ded/a12475.html#a76f9e5e11a6f2e25868dba567d798002", null ],
-    [ "PrepareSpellScript", "df/ded/a12475.html#a4792a25aa6fe6126a94900784798dbee", null ],
-    [ "Register", "df/ded/a12475.html#a0f6146c64a86e953c042f8404bbfe683", null ],
-    [ "Validate", "df/ded/a12475.html#af65d372cdbb365eff73edb8cf18734c8", null ]
+    [ "npc_corrupted_totem", "df/ded/a12475.html#a5e0c58b341fe25a5d682b68e9eee207f", null ],
+    [ "IsSummonedBy", "df/ded/a12475.html#ae8314903c9006b7bca94a47115a0d05b", null ],
+    [ "JustDied", "df/ded/a12475.html#aa3c6b1a3df61c9e98c62efadff637578", null ],
+    [ "Reset", "df/ded/a12475.html#a0bc8df2b8266b7b3a5f40f1ede0e10b4", null ],
+    [ "SetAura", "df/ded/a12475.html#a509688befda49f789f77ee0e4170a74e", null ],
+    [ "UpdateAI", "df/ded/a12475.html#ac128625268820d2e9b1f0ef5ead975e9", null ],
+    [ "_auraAdded", "df/ded/a12475.html#a953cf5af625b9b5a4ab6704d5b1b664c", null ]
 ];

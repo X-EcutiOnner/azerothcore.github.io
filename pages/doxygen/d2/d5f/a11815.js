@@ -1,8 +1,13 @@
 var a11815 =
 [
-    [ "CreatureCountWorker", "d2/d5f/a11815.html#ad01e947d97d03a10ea3a891d24cb05b7", null ],
-    [ "GetTopCreatureCount", "d2/d5f/a11815.html#a5d4d009b6685dd71703f96f9945a463e", null ],
-    [ "Visit", "d2/d5f/a11815.html#a786d95d42f7711235e60a4f54cc3b4be", null ],
-    [ "Visit", "d2/d5f/a11815.html#afa72c0c1f905f4277d650ad0cfef281d", null ],
-    [ "creatureIds", "d2/d5f/a11815.html#a3a6f946c40b1006164793dbaed2b3948", null ]
+    [ "cheat_commandscript", "d2/d5f/a11815.html#a7449cfba3578956a09b67e569e7e6083", null ],
+    [ "GetCommands", "d2/d5f/a11815.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
+    [ "HandleCasttimeCheatCommand", "d2/d5f/a11815.html#a119ad06c5b8be235853bb13c7cff724b", null ],
+    [ "HandleCheatStatusCommand", "d2/d5f/a11815.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
+    [ "HandleCoolDownCheatCommand", "d2/d5f/a11815.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
+    [ "HandleExploreCheatCommand", "d2/d5f/a11815.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
+    [ "HandleGodModeCheatCommand", "d2/d5f/a11815.html#ac398dbacf025830dc871bc77938d47d6", null ],
+    [ "HandlePowerCheatCommand", "d2/d5f/a11815.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
+    [ "HandleTaxiCheatCommand", "d2/d5f/a11815.html#ab9bd840c9622d173e710058eeb763388", null ],
+    [ "HandleWaterWalkCheatCommand", "d2/d5f/a11815.html#a9162d89c049f14f29bc5ba257964df34", null ]
 ];

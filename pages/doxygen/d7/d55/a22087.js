@@ -1,6 +1,6 @@
 var a22087 =
 [
-    [ "npc_commander_eligor_dawnbringerAI", "db/d95/a22091.html", "db/d95/a22091" ],
-    [ "npc_commander_eligor_dawnbringer", "d7/d55/a22087.html#a71d919af98464d6d63f948507f3ff08c", null ],
-    [ "GetAI", "d7/d55/a22087.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
+    [ "HandleScriptEffect", "d7/d55/a22087.html#aab68c7fac277f4da5a6cf8bf8e6256ea", null ],
+    [ "PrepareSpellScript", "d7/d55/a22087.html#a6b7f628a138ac395a8cc122902ec38b4", null ],
+    [ "Register", "d7/d55/a22087.html#aacf2bbf7b8396fd7cfbfaf34a66f9b61", null ]
 ];

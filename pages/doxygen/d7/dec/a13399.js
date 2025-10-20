@@ -1,11 +1,10 @@
 var a13399 =
 [
-    [ "boss_baroness_anastariAI", "d7/dec/a13399.html#acf180bbe881ba1f6e49c075254759c00", null ],
-    [ "JustDied", "d7/dec/a13399.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
-    [ "JustEngagedWith", "d7/dec/a13399.html#a7329455d99045e7002abffe09112a4ea", null ],
-    [ "Reset", "d7/dec/a13399.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
-    [ "SchedulePossession", "d7/dec/a13399.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
-    [ "UpdateAI", "d7/dec/a13399.html#a962e4e3091d126682825c326af5f6922", null ],
-    [ "_possessedTargetGuid", "d7/dec/a13399.html#a36e386b847c7032b5ce95a01070518ad", null ],
-    [ "_scheduler", "d7/dec/a13399.html#aa59518627a5e64e371dbbb45cfced75f", null ]
+    [ "HandleDummyTick", "d7/dec/a13399.html#a036291aee8b08212ecead4afce01adf4", null ],
+    [ "Load", "d7/dec/a13399.html#aaecea41af42790dfe9aeba3c56480668", null ],
+    [ "OnApply", "d7/dec/a13399.html#a37b425f877e7415b245c119c29521c4b", null ],
+    [ "PrepareAuraScript", "d7/dec/a13399.html#ade7bfbc3400fb620956d1e8dff7d4a8a", null ],
+    [ "Register", "d7/dec/a13399.html#a9b32995b6e324a6c779bbd742de6cce2", null ],
+    [ "Validate", "d7/dec/a13399.html#a72595ee3cd995d7bed2bcf8c9f5199fb", null ],
+    [ "_forsakenSpell", "d7/dec/a13399.html#ae2aee05482e4854120fc581ecec41f95", null ]
 ];

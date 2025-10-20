@@ -1,9 +1,8 @@
 var a24115 =
 [
-    [ "boss_void_reaver", "d4/d67/a24115.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
-    [ "JustDied", "d4/d67/a24115.html#a49e6f52b11177bdac07adff92c2675f5", null ],
-    [ "JustEngagedWith", "d4/d67/a24115.html#a9260d05e11f4dec6fc25432a0524706b", null ],
-    [ "KilledUnit", "d4/d67/a24115.html#adc234fc43308771a42d99049876cad1b", null ],
-    [ "Reset", "d4/d67/a24115.html#a02c36ea960de24991f879943991a93c6", null ],
-    [ "_recentlySpoken", "d4/d67/a24115.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac", null ]
+    [ "boss_mechano_lord_capacitus", "d4/d67/a24115.html#ab5867184d4e50a89a1afe25eb40e6bc3", null ],
+    [ "JustDied", "d4/d67/a24115.html#a596314e7aebcc9e2e7311b4e0850b817", null ],
+    [ "JustEngagedWith", "d4/d67/a24115.html#a4aa9ee50a942fe123acfdeee0350fa2d", null ],
+    [ "JustSummoned", "d4/d67/a24115.html#a9a0b2cac08002db63162f95b9476c251", null ],
+    [ "KilledUnit", "d4/d67/a24115.html#a6a408c654f91a44a40b3df52c0f2b093", null ]
 ];

@@ -1,7 +1,8 @@
 var a23527 =
 [
-    [ "go_ahune_ice_spear", "df/d6a/a23527.html#a22922e47b819bc60e331cffbc7c353b3", null ],
-    [ "Reset", "df/d6a/a23527.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
-    [ "UpdateAI", "df/d6a/a23527.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
-    [ "_scheduler", "df/d6a/a23527.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
+    [ "FilterTargets", "df/d6a/a23527.html#a8687ba9c22299e62e5911a3729fa4a0a", null ],
+    [ "HandleDummy", "df/d6a/a23527.html#addb3580259be74126b7de36d1b0a8a97", null ],
+    [ "PrepareSpellScript", "df/d6a/a23527.html#aba82de0886d03037de4564f9908b8c89", null ],
+    [ "Register", "df/d6a/a23527.html#a1650962493d48f5553a9e2771e594f1f", null ],
+    [ "Validate", "df/d6a/a23527.html#a0a29926e43bd5ff58ca7ad79df6f8cc1", null ]
 ];

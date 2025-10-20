@@ -1,7 +1,7 @@
 var a20339 =
 [
-    [ "npc_ulduar_saronite_vaporsAI", "d8/dc2/a20339.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
-    [ "IsSummonedBy", "d8/dc2/a20339.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
-    [ "JustDied", "d8/dc2/a20339.html#a5be637500e7b5735d90e19fa40fde467", null ],
-    [ "pInstance", "d8/dc2/a20339.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
+    [ "HandleAfterEffectApply", "d8/dc2/a20339.html#a672526de2c71dcae79bacef88f34dc26", null ],
+    [ "PrepareAuraScript", "d8/dc2/a20339.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
+    [ "Register", "d8/dc2/a20339.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
+    [ "Validate", "d8/dc2/a20339.html#ab5833f6218760a7d9829b5d453436302", null ]
 ];

@@ -1,6 +1,6 @@
 var a18803 =
 [
-    [ "npc_rotting_frost_giantAI", "d0/ddd/a18807.html", "d0/ddd/a18807" ],
-    [ "npc_rotting_frost_giant", "da/d1a/a18803.html#ad4440216e11a00d97af43dc5f3957e95", null ],
-    [ "GetAI", "da/d1a/a18803.html#aabc388b3690f2d03e903c7f480d52842", null ]
+    [ "npc_highlord_tirion_fordringAI", "d0/ddd/a18807.html", "d0/ddd/a18807" ],
+    [ "npc_highlord_tirion_fordring_lh", "da/d1a/a18803.html#a96102a488330c54a3e3654c767e8e1a5", null ],
+    [ "GetAI", "da/d1a/a18803.html#aea42394c04c1763cffe10eb5eba09854", null ]
 ];

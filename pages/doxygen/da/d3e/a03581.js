@@ -1,6 +1,6 @@
 var a03581 =
 [
-    [ "boss_nalorakk", "da/df4/a14055.html", "da/df4/a14055" ],
+    [ "boss_nalorakk", "d8/dd4/a14063.html", "d8/dd4/a14063" ],
     [ "NalorakkGroups", "da/d3e/a03581.html#a2b9b56f8ba96d26553d016ff45e7c8e2", [
       [ "GROUP_CHECK_DEAD", "da/d3e/a03581.html#a2b9b56f8ba96d26553d016ff45e7c8e2af5019321f37c2840c6500d4024e0283f", null ],
       [ "GROUP_CHECK_EVADE", "da/d3e/a03581.html#a2b9b56f8ba96d26553d016ff45e7c8e2a087914d7c454fb26a10d35f7e87c34cf", null ],

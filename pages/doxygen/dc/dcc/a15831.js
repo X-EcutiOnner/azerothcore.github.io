@@ -1,7 +1,7 @@
 var a15831 =
 [
-    [ "npc_toogaAI", "d8/dfa/a15835.html", "d8/dfa/a15835" ],
-    [ "npc_tooga", "dc/dcc/a15831.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
-    [ "GetAI", "dc/dcc/a15831.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
-    [ "OnQuestAccept", "dc/dcc/a15831.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
+    [ "npc_steward_of_time", "dc/dcc/a15831.html#ad49973464c96f44506033b73a85f6360", null ],
+    [ "OnGossipHello", "dc/dcc/a15831.html#a3b61038393c3addbbfa6643438164db3", null ],
+    [ "OnGossipSelect", "dc/dcc/a15831.html#af4fe13e266a98129b92e5a25188d947c", null ],
+    [ "OnQuestAccept", "dc/dcc/a15831.html#a53d552282da49e8246089b2799fff9ca", null ]
 ];

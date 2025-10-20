@@ -1,9 +1,18 @@
 var a15239 =
 [
-    [ "go_ossirian_crystalAI", "da/dd6/a15239.html#ae4d3c0c2cff08bd9fe86cbfee2cbb980", null ],
-    [ "DoAction", "da/dd6/a15239.html#a581436335d190466520c07fde56ad441", null ],
-    [ "GossipHello", "da/dd6/a15239.html#ad1aff0e18d8f4ef7fe5d4cfa7ef17875", null ],
-    [ "SetGUID", "da/dd6/a15239.html#a9b4af48363a6d3194a22312fafa48587", null ],
-    [ "_instance", "da/dd6/a15239.html#aa2c83296cbe8d49de7bc7262b792e8b3", null ],
-    [ "_triggerGUID", "da/dd6/a15239.html#abd96d9b4f2c5f41e4a85606b22e1b0cf", null ]
+    [ "boss_ossirian", "da/dd6/a15239.html#ab03a53ee2c0dc70ab86328e9a7ad1495", null ],
+    [ "InitializeAI", "da/dd6/a15239.html#a76731e2594cfadf5305d8abc502f665a", null ],
+    [ "JustEngagedWith", "da/dd6/a15239.html#a78616bb875bd51d5727e85d0b65d1a73", null ],
+    [ "JustSummoned", "da/dd6/a15239.html#ad462996cd1b12395f6cdaa33a7b876f1", null ],
+    [ "KilledUnit", "da/dd6/a15239.html#a716acecfc8e38eb663557fafb56719fd", null ],
+    [ "MoveInLineOfSight", "da/dd6/a15239.html#a16aa4ac59c1c8f6f844c311745b6e969", null ],
+    [ "Reset", "da/dd6/a15239.html#a17a31cf7827cdb904efa64d954b19c4a", null ],
+    [ "SetGUID", "da/dd6/a15239.html#a87369e8995c096301908ec209e17b274", null ],
+    [ "SpawnNextCrystal", "da/dd6/a15239.html#a2a95c315af6a9e2bcedc8a9c9a9d9789", null ],
+    [ "SpellHit", "da/dd6/a15239.html#a0b5b92a9bce9a5dd0054cb833a56d32f", null ],
+    [ "SummonedCreatureDespawn", "da/dd6/a15239.html#a5c3ac7bddf52e2390f91599bb3ce3a64", null ],
+    [ "UpdateAI", "da/dd6/a15239.html#a8f3822d1cc3354efa5292d88fedd4087", null ],
+    [ "_crystalIterator", "da/dd6/a15239.html#adc049248fa851c954d5fcbf643d47c16", null ],
+    [ "_firstCrystalGUID", "da/dd6/a15239.html#a498d562d4ceeaecc6a01047bc4559235", null ],
+    [ "_saidIntro", "da/dd6/a15239.html#a5a9b0b7ae7421a4554f4c4abc8850220", null ]
 ];

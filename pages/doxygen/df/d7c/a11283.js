@@ -1,11 +1,12 @@
 var a11283 =
 [
-    [ "SpellValue", "df/d7c/a11283.html#a2aebedc86822634a0a80de7a4c16dd7f", null ],
-    [ "AuraDuration", "df/d7c/a11283.html#af44c190ba8a8636d78f8d271656bdd02", null ],
-    [ "AuraStackAmount", "df/d7c/a11283.html#af9d7a902bd7d6a24f2ef9480e725d8e8", null ],
-    [ "EffectBasePoints", "df/d7c/a11283.html#a4de44adea4dc620f0871215e4d4f611d", null ],
-    [ "ForcedCritResult", "df/d7c/a11283.html#a14f0fd1b3351297e5c71e34e0c9a44fb", null ],
-    [ "MaxAffectedTargets", "df/d7c/a11283.html#a69ea555bb8ae6642a0c9c85b3f9b373c", null ],
-    [ "MiscVal", "df/d7c/a11283.html#af81b9a29e521e28a4e88b8677f05a93f", null ],
-    [ "RadiusMod", "df/d7c/a11283.html#a135bbce8300101411e87a70467dbbd57", null ]
+    [ "SpellDestination", "df/d7c/a11283.html#aa91f31101de3139b2e2d2976dac94686", null ],
+    [ "SpellDestination", "df/d7c/a11283.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
+    [ "SpellDestination", "df/d7c/a11283.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
+    [ "SpellDestination", "df/d7c/a11283.html#a7b8949fa80249aee8bebc56620ec746c", null ],
+    [ "Relocate", "df/d7c/a11283.html#ab565861d5013130639013e3c4d22d712", null ],
+    [ "RelocateOffset", "df/d7c/a11283.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
+    [ "_position", "df/d7c/a11283.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
+    [ "_transportGUID", "df/d7c/a11283.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
+    [ "_transportOffset", "df/d7c/a11283.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
 ];

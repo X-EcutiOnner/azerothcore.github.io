@@ -1,6 +1,5 @@
 var a14783 =
 [
-    [ "HandleScriptEffect", "d8/d1a/a14783.html#aebd700897688157ca62405c92fe58680", null ],
-    [ "PrepareSpellScript", "d8/d1a/a14783.html#a09e11d1938279a2302fb8805e71c6c36", null ],
-    [ "Register", "d8/d1a/a14783.html#aa0679665ba2c496e0a5aa5f6864d7230", null ]
+    [ "achievement_pb_terokkar_turkey_time", "d8/d1a/a14783.html#a68e536379b04e060f44819c9831766c2", null ],
+    [ "OnCheck", "d8/d1a/a14783.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
 ];

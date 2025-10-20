@@ -1,5 +1,6 @@
 var a27683 =
 [
-    [ "item_disgusting_jar", "dd/df5/a27683.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
-    [ "OnExpire", "dd/df5/a27683.html#a4f6967035a4d247914a6034fcebac5c5", null ]
+    [ "npc_innkeeper", "dd/df5/a27683.html#a006f27d898ead8827d8b98d8b93d430d", null ],
+    [ "OnGossipHello", "dd/df5/a27683.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
+    [ "OnGossipSelect", "dd/df5/a27683.html#ab6cf511f5b032050336a77d1e4598dda", null ]
 ];

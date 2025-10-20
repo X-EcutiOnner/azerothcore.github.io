@@ -1,8 +1,14 @@
 var a22291 =
 [
-    [ "npc_llod_genericAI", "d9/d5c/a22291.html#ac75d85ae4b59416952788102cd1db132", null ],
-    [ "Reset", "d9/d5c/a22291.html#a15bd7442fef36a551cc8797f7919f57c", null ],
-    [ "UpdateAI", "d9/d5c/a22291.html#aa7dce553fb699127f63281b2c47a2f02", null ],
-    [ "attackTimer", "d9/d5c/a22291.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
-    [ "summonTimer", "d9/d5c/a22291.html#aeeeef545aee565c14d86d8587923c677", null ]
+    [ "npc_tirions_gambit_tirionAI", "d9/d5c/a22291.html#a38959c7a5b502b5716a5c09b0f6ae8a4", null ],
+    [ "DoAction", "d9/d5c/a22291.html#a495e0762614020ef6d7b741447099326", null ],
+    [ "DoSummonAction", "d9/d5c/a22291.html#a891b31661705ed4df634059e6165d499", null ],
+    [ "JustSummoned", "d9/d5c/a22291.html#ac62ec499aba734d36249f8c00b36e2d4", null ],
+    [ "Reset", "d9/d5c/a22291.html#afb398bda1d6ee4d35527208e6c5bffee", null ],
+    [ "SetData", "d9/d5c/a22291.html#a41f24de5f824d84edb69c6b2bdca6d4e", null ],
+    [ "SummonedCreatureDespawn", "d9/d5c/a22291.html#aca05fee85997dffba6ec998b144b9495", null ],
+    [ "UpdateEscortAI", "d9/d5c/a22291.html#a0b681d6cc1566e6193f7eb143ab2bd5e", null ],
+    [ "WaypointReached", "d9/d5c/a22291.html#af5fd69b799c6227dba901f434e30c434", null ],
+    [ "events", "d9/d5c/a22291.html#a711c55c26187ae695644b770a358766e", null ],
+    [ "summons", "d9/d5c/a22291.html#af574a4b136ff42c597e30c83e4d463ca", null ]
 ];

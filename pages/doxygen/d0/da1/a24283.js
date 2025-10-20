@@ -1,6 +1,7 @@
 var a24283 =
 [
-    [ "go_beaconAI", "df/d9c/a24287.html", "df/d9c/a24287" ],
-    [ "go_beacon", "d0/da1/a24283.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
-    [ "GetAI", "d0/da1/a24283.html#abd168f0c1ac9a64cece280758f3120d4", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "d0/da1/a24283.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
+    [ "JustEngagedWith", "d0/da1/a24283.html#a4038d707731f64f588e307c22c859902", null ],
+    [ "MoveInLineOfSight", "d0/da1/a24283.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
+    [ "Reset", "d0/da1/a24283.html#a29132346f117ba785039057619edb9e7", null ]
 ];

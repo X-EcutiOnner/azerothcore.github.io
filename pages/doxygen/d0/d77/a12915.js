@@ -1,11 +1,11 @@
 var a12915 =
 [
-    [ "boss_terestian_illhoof", "d0/d77/a12915.html#a5750bf4f12ac01216335a926f885e136", null ],
-    [ "JustDied", "d0/d77/a12915.html#a9039c0fb905e72e659ce62f9d36593ce", null ],
-    [ "JustEngagedWith", "d0/d77/a12915.html#adc1f9195954eda7ec406ac9a084b7508", null ],
-    [ "JustSummoned", "d0/d77/a12915.html#a8b156654dbd75a4a7626edf30a8aae78", null ],
-    [ "KilledUnit", "d0/d77/a12915.html#ab7de8b406de200eec981fab79a56dcd7", null ],
-    [ "Reset", "d0/d77/a12915.html#a685b00f0e3317740412adfc48df1c3fb", null ],
-    [ "SpellHit", "d0/d77/a12915.html#a2f25021cfbc9e466d73c13de8116d8f1", null ],
-    [ "SummonKilrek", "d0/d77/a12915.html#a0007e35a38efce5edada2f47a9bb89c6", null ]
+    [ "npc_kilrek", "d0/d77/a12915.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
+    [ "JustDied", "d0/d77/a12915.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
+    [ "JustEngagedWith", "d0/d77/a12915.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
+    [ "Reset", "d0/d77/a12915.html#ae0b375abe5ec909cfaff96c257da0325", null ],
+    [ "UpdateAI", "d0/d77/a12915.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
+    [ "_scheduler", "d0/d77/a12915.html#a93663ee806385f617e81a03062dd94d6", null ],
+    [ "instance", "d0/d77/a12915.html#a13b969fa86ef57f9508117a73252a36b", null ],
+    [ "TerestianGUID", "d0/d77/a12915.html#a411476da379bf687cd007e25ba11280e", null ]
 ];

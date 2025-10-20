@@ -1,5 +1,6 @@
 var a13427 =
 [
-    [ "at_malfurion_stormrage", "d0/dfd/a13427.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
-    [ "OnTrigger", "d0/dfd/a13427.html#a0aa7818bd09b8a456d1ebbaa7d5f5c1d", null ]
+    [ "instance_sunken_temple_InstanceMapScript", "db/d09/a13431.html", "db/d09/a13431" ],
+    [ "instance_sunken_temple", "d0/dfd/a13427.html#a123b052c1cd1487588c88bf2611bc53b", null ],
+    [ "GetInstanceScript", "d0/dfd/a13427.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
 ];

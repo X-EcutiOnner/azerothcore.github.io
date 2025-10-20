@@ -1,8 +1,10 @@
 var a12755 =
 [
-    [ "npc_kernobeeAI", "db/dfb/a12755.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
-    [ "SetGUID", "db/dfb/a12755.html#ab704b138670279f6d731a6bb58ac6d10", null ],
-    [ "UpdateAI", "db/dfb/a12755.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
-    [ "checkTimer", "db/dfb/a12755.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
-    [ "playerGUID", "db/dfb/a12755.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
+    [ "instance_gnomeregan_InstanceMapScript", "db/dfb/a12755.html#a0080fdf557ad8159a8934dce5b39a535", null ],
+    [ "OnCreatureCreate", "db/dfb/a12755.html#ac607601becc7fbf4ea9c64d87c93287c", null ],
+    [ "OnGameObjectCreate", "db/dfb/a12755.html#a0c2f4d615394ef1d6e1b930ed6aff82f", null ],
+    [ "ReadSaveDataMore", "db/dfb/a12755.html#a85d3db22430a4bac7e01dcfa1a1efb5b", null ],
+    [ "SetData", "db/dfb/a12755.html#af800a1906c532f61f0299f8aa9359a66", null ],
+    [ "WriteSaveDataMore", "db/dfb/a12755.html#a1b30829b3c782bb2c52e5da4fa388d5c", null ],
+    [ "_encounters", "db/dfb/a12755.html#ae19a56e7fdcb2d0204d444cba11b7441", null ]
 ];

@@ -1,9 +1,8 @@
 var a22523 =
 [
-    [ "npc_brunnhildar_prisonerAI", "db/d93/a22523.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
-    [ "JustRespawned", "db/d93/a22523.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
-    [ "Reset", "db/d93/a22523.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
-    [ "SpellHit", "db/d93/a22523.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
-    [ "UpdateAI", "db/d93/a22523.html#a0702d4cf577ac00688a7b93bfe656952", null ],
-    [ "freed", "db/d93/a22523.html#a46e03a19bac91a800154e3c873235800", null ]
+    [ "npc_hyldsmeet_protodrakeAI", "db/d93/a22523.html#a30794392a32b1323fb0a86615b341741", null ],
+    [ "PassengerBoarded", "db/d93/a22523.html#acb699d519bf79702a34b7d9910fe7c9e", null ],
+    [ "UpdateAI", "db/d93/a22523.html#afd2168f8dc7328898f5e769c31c6da5a", null ],
+    [ "_accessoryRespawnTimer", "db/d93/a22523.html#a4c6b4236bf35278d05c4b78f1eda6b75", null ],
+    [ "_vehicleKit", "db/d93/a22523.html#aba68a138ef44af7d012c8c7dd4c06c6d", null ]
 ];

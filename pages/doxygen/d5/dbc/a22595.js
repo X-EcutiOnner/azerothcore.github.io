@@ -1,6 +1,9 @@
 var a22595 =
 [
-    [ "npc_wg_siege_machineAI", "d0/d5b/a22599.html", "d0/d5b/a22599" ],
-    [ "npc_wg_siege_machine", "d5/dbc/a22595.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
-    [ "GetAI", "d5/dbc/a22595.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
+    [ "HandleFinish", "d5/dbc/a22595.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
+    [ "Load", "d5/dbc/a22595.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
+    [ "PrepareSpellScript", "d5/dbc/a22595.html#a8326b3f9f78aab65225e81d274cc37df", null ],
+    [ "Register", "d5/dbc/a22595.html#a749858f56e15a0bb6074d15ba166625d", null ],
+    [ "Validate", "d5/dbc/a22595.html#a64005c52e7112c466f6206b7f6c847c0", null ],
+    [ "handled", "d5/dbc/a22595.html#a7afe3007a016cb553f437544f8fd6f89", null ]
 ];

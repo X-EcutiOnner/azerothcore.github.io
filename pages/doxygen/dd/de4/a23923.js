@@ -1,16 +1,13 @@
 var a23923 =
 [
-    [ "npc_millhouse_manastormAI", "dd/de4/a23923.html#ac86df4d5887c4c1b719ce47f00b32995", null ],
-    [ "AttackStart", "dd/de4/a23923.html#a032cc1ad7a07ead4ced3afe99601d94f", null ],
-    [ "DamageTaken", "dd/de4/a23923.html#a30ed336d552596211b3bfc316d223968", null ],
-    [ "InitializeAI", "dd/de4/a23923.html#a7e8f7483b7cf4ba5d87386940e632339", null ],
-    [ "JustDied", "dd/de4/a23923.html#aaa22ed7812600c1670d12d6887d316d6", null ],
-    [ "JustEngagedWith", "dd/de4/a23923.html#a5e643192572f29f954a31b7b949f6525", null ],
-    [ "KilledUnit", "dd/de4/a23923.html#ac3ba302f496d03c171d1d3f4dbf175da", null ],
-    [ "Reset", "dd/de4/a23923.html#a74076048ea382816fa9c98a0d759af46", null ],
-    [ "UpdateAI", "dd/de4/a23923.html#a7dad659c4ba1db0460c23a3dc573eff2", null ],
-    [ "_usedIceblock", "dd/de4/a23923.html#af0ce341df018dafdce89f75fcb9f0063", null ],
-    [ "events", "dd/de4/a23923.html#aa9aadd461e32cf8a65b185d77f62d838", null ],
-    [ "events2", "dd/de4/a23923.html#ac762ce5981457cbcf6ec73236bab2486", null ],
-    [ "instance", "dd/de4/a23923.html#aff28c68ed9575440f5732df855ab4372", null ]
+    [ "boss_wrath_scryer_soccothrates", "dd/de4/a23923.html#a771980c1022e7699c3eb02baccb68a93", null ],
+    [ "InitializeAI", "dd/de4/a23923.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
+    [ "JustDied", "dd/de4/a23923.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
+    [ "JustEngagedWith", "dd/de4/a23923.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
+    [ "KilledUnit", "dd/de4/a23923.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
+    [ "MoveInLineOfSight", "dd/de4/a23923.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
+    [ "Reset", "dd/de4/a23923.html#a85435a23d36f13e348112348a26e7d12", null ],
+    [ "UpdateAI", "dd/de4/a23923.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
+    [ "events2", "dd/de4/a23923.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
+    [ "preFight", "dd/de4/a23923.html#a193889ee2815b93a1c9aeee394170fc4", null ]
 ];

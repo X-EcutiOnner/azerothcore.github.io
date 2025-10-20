@@ -1,5 +1,6 @@
 var a15411 =
 [
-    [ "at_twin_emperors", "dd/d6d/a15411.html#a343d482857fa0a45c42f593e591f7754", null ],
-    [ "_OnTrigger", "dd/d6d/a15411.html#adf3120b7bf611e0246abb2970711ada3", null ]
+    [ "boss_veknilash", "dd/d6d/a15411.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
+    [ "IAmVeklor", "dd/d6d/a15411.html#a454027d829b962ee0feebb6fd5687714", null ],
+    [ "JustEngagedWith", "dd/d6d/a15411.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
 ];

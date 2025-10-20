@@ -1,8 +1,6 @@
 var a21139 =
 [
-    [ "OnApply", "d0/dce/a21139.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
-    [ "OnRemove", "d0/dce/a21139.html#ad3f482f9fff9798cc6e7a06183344742", null ],
-    [ "PrepareAuraScript", "d0/dce/a21139.html#ab830a7a6c5ed432f8718071345c99b57", null ],
-    [ "Register", "d0/dce/a21139.html#ac83a8d085d02feec64b6012cacb60dce", null ],
-    [ "Validate", "d0/dce/a21139.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
+    [ "FilterTargets", "d0/dce/a21139.html#a7efa78a7991b7ca859c7d622f973265d", null ],
+    [ "PrepareSpellScript", "d0/dce/a21139.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
+    [ "Register", "d0/dce/a21139.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
 ];

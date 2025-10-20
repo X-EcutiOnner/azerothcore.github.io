@@ -1,12 +1,13 @@
 var a11887 =
 [
-    [ "message_commandscript", "d6/d92/a11887.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
-    [ "GetCommands", "d6/d92/a11887.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
-    [ "HandleAnnounceCommand", "d6/d92/a11887.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
-    [ "HandleGMAnnounceCommand", "d6/d92/a11887.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
-    [ "HandleGMNameAnnounceCommand", "d6/d92/a11887.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
-    [ "HandleGMNotifyCommand", "d6/d92/a11887.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
-    [ "HandleNameAnnounceCommand", "d6/d92/a11887.html#a786902b70345712c6dba9f638695dd9e", null ],
-    [ "HandleNotifyCommand", "d6/d92/a11887.html#a0d53b2414931451b30abd2fe5acee1af", null ],
-    [ "HandleWhispersCommand", "d6/d92/a11887.html#a9a02c97677250136f9717968a9f47b73", null ]
+    [ "list_commandscript", "d6/d92/a11887.html#a5a85953a46afe08fe05a11fe69c934dc", null ],
+    [ "GetCommands", "d6/d92/a11887.html#a949c6e6f372afb50e1116b6414acdd7c", null ],
+    [ "HandleListAllAurasCommand", "d6/d92/a11887.html#a93f1fe9131b917c813058899efede2a5", null ],
+    [ "HandleListAurasByIdCommand", "d6/d92/a11887.html#a3c59e8b85175ef056b07f566c231c221", null ],
+    [ "HandleListAurasByNameCommand", "d6/d92/a11887.html#a78d6be53ddae80068e2d9c04ea494e24", null ],
+    [ "HandleListCreatureCommand", "d6/d92/a11887.html#a48388f1c839cec6597c74740ec49fa68", null ],
+    [ "HandleListItemCommand", "d6/d92/a11887.html#a7d0aadb081f25c3d533951bd9841f103", null ],
+    [ "HandleListObjectCommand", "d6/d92/a11887.html#ac8b32be8650c9e54388320d650c9761b", null ],
+    [ "ListAurasCommand", "d6/d92/a11887.html#a98c9f6fb42e8030d76f234cdb02a72fb", null ],
+    [ "ShouldListAura", "d6/d92/a11887.html#afc42154ec5e978b366780fb600b17e8d", null ]
 ];

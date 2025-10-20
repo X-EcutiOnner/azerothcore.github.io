@@ -1,6 +1,6 @@
 var a20811 =
 [
-    [ "boss_thorimAI", "d9/dee/a20815.html", "d9/dee/a20815" ],
-    [ "boss_thorim", "df/dbe/a20811.html#a23a52a05aea5092cef8fe47be28b4bfb", null ],
-    [ "GetAI", "df/dbe/a20811.html#a70895451317569f50adc11474e653515", null ]
+    [ "boss_thorim_trapAI", "d9/dee/a20815.html", "d9/dee/a20815" ],
+    [ "boss_thorim_trap", "df/dbe/a20811.html#af529112badd88f9ebe4cec216d9edaeb", null ],
+    [ "GetAI", "df/dbe/a20811.html#afd4ee85d73354b790c0d55abbfad75fd", null ]
 ];

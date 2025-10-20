@@ -1,6 +1,6 @@
 var a16647 =
 [
-    [ "npc_toc_hunterAI", "db/d6c/a16651.html", "db/d6c/a16651" ],
-    [ "npc_toc_hunter", "d1/dfa/a16647.html#a73d4113df71626af7b8294e08373965e", null ],
-    [ "GetAI", "d1/dfa/a16647.html#a8b9d2a8186aefb3e411bd20c006207d4", null ]
+    [ "npc_toc_mageAI", "db/d6c/a16651.html", "db/d6c/a16651" ],
+    [ "npc_toc_mage", "d1/dfa/a16647.html#a8270875c1da3e2e96f767362ef90cdc6", null ],
+    [ "GetAI", "d1/dfa/a16647.html#a64b5b8b3a5933a0264537f2187e81e15", null ]
 ];

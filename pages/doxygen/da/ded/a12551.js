@@ -1,9 +1,5 @@
 var a12551 =
 [
-    [ "boss_baron_geddonAI", "da/ded/a12551.html#a3a85b2a6e958a965e52a9fde87c08177", null ],
-    [ "DamageTaken", "da/ded/a12551.html#ad339cb7149b50cf5accc24b5a2d0bf82", null ],
-    [ "ExecuteEvent", "da/ded/a12551.html#a2c3ed57dd0336ce8ac1a85c957da9e4a", null ],
-    [ "JustEngagedWith", "da/ded/a12551.html#a8c5e43b4b4e0583db7dcc93694202bd8", null ],
-    [ "Reset", "da/ded/a12551.html#aaf47fc993e672877f51b5095f682906c", null ],
-    [ "armageddonCasted", "da/ded/a12551.html#a1a034601a7dda94becbf1801bda63d55", null ]
+    [ "at_orb_of_command", "da/ded/a12551.html#a1f0b196362b76e050eba66d3ce612623", null ],
+    [ "OnTrigger", "da/ded/a12551.html#a8d30d303c72d5eaf59222c890ab13ca3", null ]
 ];

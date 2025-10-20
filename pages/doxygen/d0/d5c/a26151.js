@@ -1,9 +1,6 @@
 var a26151 =
 [
-    [ "OnEffectHitTargetDisarm", "d0/d5c/a26151.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
-    [ "OnEffectHitTargetStun", "d0/d5c/a26151.html#a5a5253b6d152b1af78de663c09451536", null ],
-    [ "OnEffectLaunchTargetDisarm", "d0/d5c/a26151.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
-    [ "OnEffectLaunchTargetStun", "d0/d5c/a26151.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
-    [ "PrepareSpellScript", "d0/d5c/a26151.html#a113219d3376a23f8889f26f10744e7cb", null ],
-    [ "Register", "d0/d5c/a26151.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
+    [ "CheckProc", "d0/d5c/a26151.html#a1da9fe2fa918a8f92a53de8eee9d1830", null ],
+    [ "PrepareAuraScript", "d0/d5c/a26151.html#a3fa05a39b003805f405d814214f4366e", null ],
+    [ "Register", "d0/d5c/a26151.html#a9b7f633b60dd7798b8f2f85d14c26ca2", null ]
 ];

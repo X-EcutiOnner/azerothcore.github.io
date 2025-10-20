@@ -1,10 +1,16 @@
 var a14335 =
 [
-    [ "npc_zealot_lorkhan", "dd/d3a/a14335.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
-    [ "JustDied", "dd/d3a/a14335.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
-    [ "JustEngagedWith", "dd/d3a/a14335.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
-    [ "Reset", "dd/d3a/a14335.html#abecbd4a2ea2cf3281244933fe7484239", null ],
-    [ "UpdateAI", "dd/d3a/a14335.html#a68c35734f8886b2c241dcbc178899206", null ],
-    [ "_scheduler", "dd/d3a/a14335.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
-    [ "instance", "dd/d3a/a14335.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
+    [ "boss_renatakiAI", "dd/d3a/a14335.html#ac154bfadeb99d67f59e1682de257e8bf", null ],
+    [ "CanAIAttack", "dd/d3a/a14335.html#af20dc14dc56500e568a3a11bfb34a227", null ],
+    [ "CanAlwaysBeDetectable", "dd/d3a/a14335.html#af75108eacb982586f43a175beede78ef", null ],
+    [ "CanBeSeen", "dd/d3a/a14335.html#ac79db0d4488702be0cd12b5e03a9bcb9", null ],
+    [ "CanSeeAlways", "dd/d3a/a14335.html#a6e4a1e9bec67a1bdac4c9cef3da4b17d", null ],
+    [ "DamageTaken", "dd/d3a/a14335.html#a62d97adb310b55a2235737b854dc4aca", null ],
+    [ "JustEngagedWith", "dd/d3a/a14335.html#a72e9a85d2215d3da197d50b6aa0b769e", null ],
+    [ "Reset", "dd/d3a/a14335.html#ad50d8e24fb4168186497c5cdb5b39a68", null ],
+    [ "UpdateAI", "dd/d3a/a14335.html#a3a1abaef460d9abe1298080080d74c9d", null ],
+    [ "_dynamicFlags", "dd/d3a/a14335.html#a502bfa737cf97ae909144278a3e39bd0", null ],
+    [ "_enraged", "dd/d3a/a14335.html#a71e717a2ea732729762aff7970439f74", null ],
+    [ "_thousandBladesCount", "dd/d3a/a14335.html#a29dd57c66245f30d12f32d31cc25cd55", null ],
+    [ "_thousandBladesTargets", "dd/d3a/a14335.html#ab8b2b52a2ef8ea6586381234c9a3e3fc", null ]
 ];

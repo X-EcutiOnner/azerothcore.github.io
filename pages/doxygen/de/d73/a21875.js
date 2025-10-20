@@ -1,10 +1,8 @@
 var a21875 =
 [
-    [ "npc_preparations_for_war_vehicle", "de/d73/a21875.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
-    [ "InitializeAI", "de/d73/a21875.html#a85eaba9e51498313f8498eaaf0e7d0d1", null ],
-    [ "MovementInform", "de/d73/a21875.html#ac78c5675b42563f46cc2af0f0c97bee0", null ],
-    [ "UpdateAI", "de/d73/a21875.html#ae40a23070d96ecf122e9de5571a845ef", null ],
-    [ "pointId", "de/d73/a21875.html#ae75d286eb6116b41adb346861b3c1365", null ],
-    [ "searchForShipTimer", "de/d73/a21875.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
-    [ "transportEntry", "de/d73/a21875.html#aa0083566387cd42750aaa56b1fa23fed", null ]
+    [ "npc_shandy_dalaranAI", "d6/d4a/a21879.html", "d6/d4a/a21879" ],
+    [ "npc_shandy_dalaran", "de/d73/a21875.html#a7077c769a252af8ba37b5ff5d524463e", null ],
+    [ "GetAI", "de/d73/a21875.html#a641551a2aef739e1679912ae27ddb888", null ],
+    [ "OnGossipHello", "de/d73/a21875.html#a91287aaba09fce091c9d826e75208f84", null ],
+    [ "OnGossipSelect", "de/d73/a21875.html#ad005a17da187e0cfd03d2faf0099c448", null ]
 ];

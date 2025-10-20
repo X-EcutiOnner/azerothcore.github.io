@@ -1,11 +1,10 @@
 var a15587 =
 [
-    [ "npc_kerlonianAI", "d2/d15/a15587.html#a0f7a4566ca93a174c92fe10e904af480", null ],
-    [ "ClearSleeping", "d2/d15/a15587.html#aea2815d79da4fa006ea150f052255b9d", null ],
-    [ "MoveInLineOfSight", "d2/d15/a15587.html#a8b0a606510d278f26099a125d583377a", null ],
-    [ "Reset", "d2/d15/a15587.html#a20fac33bf3322ad0caf72ea883680b8d", null ],
-    [ "SetSleeping", "d2/d15/a15587.html#a0e1e6beaa98090d8bf8a17d28a9ee733", null ],
-    [ "SpellHit", "d2/d15/a15587.html#a1df028085cf1cb9e8152cdb70a3d28b1", null ],
-    [ "UpdateFollowerAI", "d2/d15/a15587.html#aa86dc8b3e934ff3297f7316de5420fe6", null ],
-    [ "FallAsleepTimer", "d2/d15/a15587.html#a8cfd8d869f8a313d041d89f8d0daa1bb", null ]
+    [ "npc_murkdeepAI", "d2/d15/a15587.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
+    [ "JustEngagedWith", "d2/d15/a15587.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
+    [ "Reset", "d2/d15/a15587.html#aa89316a0fe4f99630a4a129aed305e24", null ],
+    [ "UpdateAI", "d2/d15/a15587.html#aeca85a1324791d18ac825401fb8a31e8", null ],
+    [ "events", "d2/d15/a15587.html#ae3d344829aeba22ef0c5947863720390", null ],
+    [ "phase", "d2/d15/a15587.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
+    [ "spawnTimer", "d2/d15/a15587.html#a6b139fb5cc0776103934f14be15c34d1", null ]
 ];

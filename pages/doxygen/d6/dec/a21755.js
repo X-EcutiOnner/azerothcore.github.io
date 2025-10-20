@@ -1,6 +1,10 @@
 var a21755 =
 [
-    [ "npc_beryl_sorcererAI", "de/d51/a21759.html", "de/d51/a21759" ],
-    [ "npc_beryl_sorcerer", "d6/dec/a21755.html#a4f74ee45ee0730fcfd044418771a9ee1", null ],
-    [ "GetAI", "d6/dec/a21755.html#a963646eed9f121f87efe480312957286", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "d6/dec/a21755.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
+    [ "GotStinged", "d6/dec/a21755.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
+    [ "JustEngagedWith", "d6/dec/a21755.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
+    [ "Reset", "d6/dec/a21755.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
+    [ "SpellHit", "d6/dec/a21755.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
+    [ "UpdateAI", "d6/dec/a21755.html#a21def23073eeec051c1c97a813e0ea84", null ],
+    [ "rebuff", "d6/dec/a21755.html#ac83c25091fdd3c7876a88927b758261f", null ]
 ];

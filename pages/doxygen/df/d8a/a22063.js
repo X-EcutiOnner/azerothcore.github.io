@@ -1,6 +1,6 @@
 var a22063 =
 [
-    [ "npc_q24545_vegard_dummyAI", "d0/d61/a22067.html", "d0/d61/a22067" ],
-    [ "npc_q24545_vegard_dummy", "df/d8a/a22063.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
-    [ "GetAI", "df/d8a/a22063.html#a201d1dec206887c26e33f795a0fd0887", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "d0/d61/a22067.html", "d0/d61/a22067" ],
+    [ "npc_commander_eligor_dawnbringer", "df/d8a/a22063.html#a71d919af98464d6d63f948507f3ff08c", null ],
+    [ "GetAI", "df/d8a/a22063.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
 ];

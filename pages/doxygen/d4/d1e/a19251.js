@@ -1,9 +1,16 @@
 var a19251 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "d4/d1e/a19251.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
-    [ "KilledUnit", "d4/d1e/a19251.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
-    [ "Reset", "d4/d1e/a19251.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
-    [ "UpdateAI", "d4/d1e/a19251.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
-    [ "auraVisualTimer", "d4/d1e/a19251.html#a74aea4294c26414d3b60983d14d36e31", null ],
-    [ "sizeTimer", "d4/d1e/a19251.html#a73f775b30ad36a595e0d8532067ba042", null ]
+    [ "boss_grobbulusAI", "d4/d1e/a19251.html#ad9e7cd519e30eded06f76bcc69189117", null ],
+    [ "JustDied", "d4/d1e/a19251.html#aa717d51aa10c139473031072065064ce", null ],
+    [ "JustEngagedWith", "d4/d1e/a19251.html#a4c74d53fe029d02df9652dbb87a09242", null ],
+    [ "JustSummoned", "d4/d1e/a19251.html#af266d40889fbecd50a118a579b711757", null ],
+    [ "KilledUnit", "d4/d1e/a19251.html#a266ef5135e09ee6a0b0b9ae0aaac822b", null ],
+    [ "PullChamberAdds", "d4/d1e/a19251.html#ad215f20452cd48c2c2bca394410d739b", null ],
+    [ "Reset", "d4/d1e/a19251.html#a6bd34fcdcfa47b19f366ba85e7f420cb", null ],
+    [ "SpellHitTarget", "d4/d1e/a19251.html#a996175b70b9a69175988350fc09edd79", null ],
+    [ "SummonedCreatureDespawn", "d4/d1e/a19251.html#ae939b029565ef9a075c0d9f0f94b76f3", null ],
+    [ "UpdateAI", "d4/d1e/a19251.html#aafd79debbe76b02a1478c03daf235b05", null ],
+    [ "dropSludgeTimer", "d4/d1e/a19251.html#a5fdcf157f498b8e47d6380b03fe819d6", null ],
+    [ "events", "d4/d1e/a19251.html#a810a91ffbcc3caa7c31e17afbd615392", null ],
+    [ "summons", "d4/d1e/a19251.html#a39ce39397f845a4fddf20da5f5812713", null ]
 ];

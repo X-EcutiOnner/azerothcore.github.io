@@ -1,8 +1,7 @@
 var a22147 =
 [
-    [ "npc_ravenous_worgAI", "d3/dba/a22147.html#a5404516869e171c84b774f2a7b8be15d", null ],
-    [ "AttackStart", "d3/dba/a22147.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
-    [ "UpdateAI", "d3/dba/a22147.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
-    [ "_attack", "d3/dba/a22147.html#a3df5c98821ba33a40e25e7b050858b96", null ],
-    [ "_pacified", "d3/dba/a22147.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
+    [ "npc_amberpine_woodsmanAI", "d3/dba/a22147.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
+    [ "Reset", "d3/dba/a22147.html#a8da613c7bbaadf331c95667e7a361702", null ],
+    [ "UpdateAI", "d3/dba/a22147.html#a64dbf41424a710c400d51507f6457b41", null ],
+    [ "_events", "d3/dba/a22147.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
 ];

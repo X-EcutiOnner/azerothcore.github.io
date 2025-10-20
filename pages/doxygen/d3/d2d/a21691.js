@@ -1,9 +1,6 @@
 var a21691 =
 [
-    [ "npc_azure_sorcerorAI", "d3/d2d/a21691.html#a474a7144908d4820341dc56f77436b90", null ],
-    [ "Reset", "d3/d2d/a21691.html#a4c637288f79e1da4bdace6516cd887b1", null ],
-    [ "UpdateAI", "d3/d2d/a21691.html#a928d789e2cbd35b228857a23c4204ea1", null ],
-    [ "uiArcaneStreamTimer", "d3/d2d/a21691.html#ad238fe8fed4dcefd923d901e4f73ed05", null ],
-    [ "uiArcaneStreamTimerStartingValueHolder", "d3/d2d/a21691.html#af044879e8e064e28a491c87d0c6cde74", null ],
-    [ "uiManaDetonationTimer", "d3/d2d/a21691.html#a3ebe4eb452296f3c45db5c1b6cdaa243", null ]
+    [ "npc_sinkhole_kill_creditAI", "d3/db7/a21695.html", "d3/db7/a21695" ],
+    [ "npc_sinkhole_kill_credit", "d3/d2d/a21691.html#a627d01aaaa3408986f2b4d171624e680", null ],
+    [ "GetAI", "d3/d2d/a21691.html#a4d734432f132bea2c4525d049fbcfa67", null ]
 ];

@@ -1,7 +1,10 @@
 var a14239 =
 [
-    [ "HandleScriptEffect", "d8/dbe/a14239.html#ace68732d578fbaeb2b209bfded88853a", null ],
-    [ "PrepareSpellScript", "d8/dbe/a14239.html#a42a69995e8f527a383e96e2ead832f72", null ],
-    [ "Register", "d8/dbe/a14239.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
-    [ "Validate", "d8/dbe/a14239.html#a7697caf8e5390d290b353fb6a291aa10", null ]
+    [ "boss_jeklik", "d8/dbe/a14239.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
+    [ "EnterEvadeMode", "d8/dbe/a14239.html#a70dc363e0690e72846db5f779375edc1", null ],
+    [ "JustDied", "d8/dbe/a14239.html#ae648ba9ff49f4970612a8c3351789b66", null ],
+    [ "JustEngagedWith", "d8/dbe/a14239.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
+    [ "PathEndReached", "d8/dbe/a14239.html#a689e8f91361de45e6f885fea0dec900a", null ],
+    [ "Reset", "d8/dbe/a14239.html#a7959106123e60e3584b32b50a272746c", null ],
+    [ "batRidersCount", "d8/dbe/a14239.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
 ];

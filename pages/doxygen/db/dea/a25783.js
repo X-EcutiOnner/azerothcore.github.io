@@ -1,7 +1,6 @@
 var a25783 =
 [
-    [ "HandleScriptEffect", "db/dea/a25783.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
-    [ "PrepareSpellScript", "db/dea/a25783.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
-    [ "Register", "db/dea/a25783.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
-    [ "SelectTarget", "db/dea/a25783.html#a6a59b7ce696f959b2026cf8088079e89", null ]
+    [ "HandleHeal", "db/dea/a25783.html#a3d315ab6d76d45f3d0f5de4a312377ff", null ],
+    [ "PrepareSpellScript", "db/dea/a25783.html#ad77d816c82714fe2cafb4dbf48691937", null ],
+    [ "Register", "db/dea/a25783.html#a313abe6367e5494bd81a557ab42f9f50", null ]
 ];

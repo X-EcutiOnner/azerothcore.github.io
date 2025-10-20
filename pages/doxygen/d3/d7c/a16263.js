@@ -1,6 +1,10 @@
 var a16263 =
 [
-    [ "boss_general_zarithrianAI", "d7/db4/a16267.html", "d7/db4/a16267" ],
-    [ "boss_general_zarithrian", "d3/d7c/a16263.html#a030c53b6ef1d75027ddfd298d49ab330", null ],
-    [ "GetAI", "d3/d7c/a16263.html#a22ba4e0769dd9404ae043fb9c16233ff", null ]
+    [ "npc_xerestraszaAI", "d3/d7c/a16263.html#a768ae45296e16b8fcada6359dfd6c7e5", null ],
+    [ "DoAction", "d3/d7c/a16263.html#af696ecee315892b2bf0233113d2f89f9", null ],
+    [ "Reset", "d3/d7c/a16263.html#a0eceae8fb9bf5071bc8d9cddf783507b", null ],
+    [ "UpdateAI", "d3/d7c/a16263.html#a6389ab58f4b44c668590113ec75f2adf", null ],
+    [ "_events", "d3/d7c/a16263.html#ae998fc6aaee14bc313ff38bb76d79e43", null ],
+    [ "_introDone", "d3/d7c/a16263.html#a9d01014297290dafbb7ed25bffbe6fe6", null ],
+    [ "_isIntro", "d3/d7c/a16263.html#a71ffbf3fedb77bd693beabb4ee52f57a", null ]
 ];

@@ -1,10 +1,8 @@
 var a15603 =
 [
-    [ "npc_rabid_thistle_bearAI", "d6/d2b/a15603.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
-    [ "Initialize", "d6/d2b/a15603.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
-    [ "Reset", "d6/d2b/a15603.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
-    [ "SpellHit", "d6/d2b/a15603.html#a62bde5a122748564cc806046bf9dcbaa", null ],
-    [ "UpdateAI", "d6/d2b/a15603.html#a8f6c5b873756a58760b2861bc8b86804", null ],
-    [ "_events", "d6/d2b/a15603.html#ad3852bf4588c453642e75fcdc544767b", null ],
-    [ "_playerGUID", "d6/d2b/a15603.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
+    [ "npc_prospector_remtravelAI", "d6/d2b/a15603.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d6/d2b/a15603.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d6/d2b/a15603.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d6/d2b/a15603.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d6/d2b/a15603.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
 ];

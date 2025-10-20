@@ -1,7 +1,6 @@
 var a22571 =
 [
-    [ "npc_wg_demolisher_engineer", "d9/de3/a22571.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "d9/de3/a22571.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "d9/de3/a22571.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "d9/de3/a22571.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "npc_wg_siege_machineAI", "d3/db1/a22575.html", "d3/db1/a22575" ],
+    [ "npc_wg_siege_machine", "d9/de3/a22571.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
+    [ "GetAI", "d9/de3/a22571.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
 ];

@@ -1,18 +1,13 @@
 var a05443 =
 [
-    [ "ProducerConsumerQueue", "dd/d83/a05443.html#a79b3575e4e25204841ad6b2ca43b0b38", null ],
-    [ "Cancel", "dd/d83/a05443.html#a7e9de516e77945411ad4f8bfa161489d", null ],
-    [ "DeleteQueuedObject", "dd/d83/a05443.html#af375e232b14a288b4e514f4e1e726f06", null ],
-    [ "DeleteQueuedObject", "dd/d83/a05443.html#a10e893856377f7f7a4be62c224a2aef3", null ],
-    [ "Empty", "dd/d83/a05443.html#a1ad8d5d17442d0148b2d8d99e8c798b4", null ],
-    [ "Pop", "dd/d83/a05443.html#afe8119f67dd7d95bbcd749d7ac9404d4", null ],
-    [ "Push", "dd/d83/a05443.html#abd3bd3c88fbd7d8edb721fc5f89da5ed", null ],
-    [ "Shutdown", "dd/d83/a05443.html#aff2060f9ae351caf2da543a5379911ca", null ],
-    [ "Size", "dd/d83/a05443.html#adeefabd0da1df47a9ef3ec2fc6a78b80", null ],
-    [ "WaitAndPop", "dd/d83/a05443.html#a172ef4211bcb237478ec57531c8dcc4d", null ],
-    [ "_cancel", "dd/d83/a05443.html#a54223137936cfa679327d01313adfa01", null ],
-    [ "_condition", "dd/d83/a05443.html#ace83931f4236e97f32c58067b05d35e9", null ],
-    [ "_queue", "dd/d83/a05443.html#a5fc3a20c094041e2da999c4b37d735f0", null ],
-    [ "_queueLock", "dd/d83/a05443.html#a18c7223e356b338f9ddbc17eadc6a21e", null ],
-    [ "_shutdown", "dd/d83/a05443.html#a994ad012dfe4e9cd4d76d8eb9270f0d2", null ]
+    [ "MPSCQueueIntrusive", "dd/d83/a05443.html#a8e05361abed759932c49b0fc71ed09c1", null ],
+    [ "~MPSCQueueIntrusive", "dd/d83/a05443.html#a8155857825ceb1b7154ea82a63dbce08", null ],
+    [ "MPSCQueueIntrusive", "dd/d83/a05443.html#afaee06af7734e53ce50674e4ef7277b2", null ],
+    [ "Dequeue", "dd/d83/a05443.html#a798e36f41ef34c226690f76e9dc03fd6", null ],
+    [ "Enqueue", "dd/d83/a05443.html#a233004b906cfa66cdd285233105dddf7", null ],
+    [ "operator=", "dd/d83/a05443.html#a93cdd07d00b7dff8a7da5bf4846b26c7", null ],
+    [ "_dummy", "dd/d83/a05443.html#ad4d3a9cebe46fc524e474b7854a20b03", null ],
+    [ "_dummyPtr", "dd/d83/a05443.html#a115e9affe6159ae8aa08c6fc358e400c", null ],
+    [ "_head", "dd/d83/a05443.html#a7fb32fbb507e82f9e8a6c1691e281fcd", null ],
+    [ "_tail", "dd/d83/a05443.html#ac7e333db415e6301a02052c53779d1d4", null ]
 ];

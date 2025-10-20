@@ -1,11 +1,12 @@
 var a13915 =
 [
-    [ "npc_highborne_lamenterAI", "d1/d06/a13915.html#ad91cd657166a12d3c34adcf7b11d076f", null ],
-    [ "JustEngagedWith", "d1/d06/a13915.html#a77a978fdb0ba0de506f66ec0b2906229", null ],
-    [ "Reset", "d1/d06/a13915.html#a7cf9338767e8edf0a87a5552703de87a", null ],
-    [ "UpdateAI", "d1/d06/a13915.html#a1048c558b825b58dbc7a3d97869a3e88", null ],
-    [ "EventCast", "d1/d06/a13915.html#a02ed3216c8b71e3d2be695866dbc0089", null ],
-    [ "EventCastTimer", "d1/d06/a13915.html#afc490ae2382fd7097b3877c7f9eadf6b", null ],
-    [ "EventMove", "d1/d06/a13915.html#aca22c73db989f0393926067506794e43", null ],
-    [ "EventMoveTimer", "d1/d06/a13915.html#a36d1993262eb0a7200e2bec625f5b4d1", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "d1/d06/a13915.html#ad6eefe9a14ce64b12b65a22c3ebb4db0", null ],
+    [ "JustEngagedWith", "d1/d06/a13915.html#a36324482fb264cc3cacf11c3ed542eee", null ],
+    [ "JustSummoned", "d1/d06/a13915.html#a456ee6f4b5b8cdd79647a42185265be8", null ],
+    [ "Reset", "d1/d06/a13915.html#ad4c6cb31a8d3dc280e689d5d29e27479", null ],
+    [ "SetGUID", "d1/d06/a13915.html#a10ecf7bf7551be186e1c00390eaad203", null ],
+    [ "UpdateAI", "d1/d06/a13915.html#ab704e4f3af8aa734910efd259db31407", null ],
+    [ "_events", "d1/d06/a13915.html#a621d4db4fac3a7c3d08defa2a8ed06d0", null ],
+    [ "LamentEvent", "d1/d06/a13915.html#ace9e901a965665e0f97cb9646af308aa", null ],
+    [ "playerGUID", "d1/d06/a13915.html#aa125ab2a33dbf9f1d40f238e7d45000d", null ]
 ];

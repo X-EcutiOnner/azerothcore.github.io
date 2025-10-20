@@ -1,8 +1,10 @@
 var a13691 =
 [
-    [ "npc_sunblade_arch_mage", "dc/d44/a13691.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
-    [ "JustEngagedWith", "dc/d44/a13691.html#aadeae32d691229b7b7b531175b8a5018", null ],
-    [ "Reset", "dc/d44/a13691.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
-    [ "UpdateAI", "dc/d44/a13691.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
-    [ "scheduler", "dc/d44/a13691.html#aa6680f06651316996868907b1d28126c", null ]
+    [ "npc_sunblade_scout", "dc/d44/a13691.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
+    [ "JustEngagedWith", "dc/d44/a13691.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
+    [ "Reset", "dc/d44/a13691.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
+    [ "ScheduleCombat", "dc/d44/a13691.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
+    [ "ScheduleOOC", "dc/d44/a13691.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
+    [ "UpdateAI", "dc/d44/a13691.html#aca75482085b72070487c24feefa23fd6", null ],
+    [ "_protectorGUID", "dc/d44/a13691.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
 ];

@@ -1,6 +1,6 @@
 var a20139 =
 [
-    [ "npc_brann_radioAI", "d7/dd2/a20143.html", "d7/dd2/a20143" ],
-    [ "npc_brann_radio", "dd/d69/a20139.html#a22b5231f643c287d8e32d88a3b0728b2", null ],
-    [ "GetAI", "dd/d69/a20139.html#aa2ea91337262fb886e7535ba013f4b10", null ]
+    [ "npc_mechanoliftAI", "d7/dd2/a20143.html", "d7/dd2/a20143" ],
+    [ "npc_mechanolift", "dd/d69/a20139.html#a7b753a3426213706c899745a6d0d989b", null ],
+    [ "GetAI", "dd/d69/a20139.html#a823a929bf65f32cdbe9b56df5d33c66d", null ]
 ];

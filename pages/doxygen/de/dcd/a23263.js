@@ -1,6 +1,7 @@
 var a23263 =
 [
-    [ "instance_black_temple_InstanceMapScript", "da/ddf/a23267.html", "da/ddf/a23267" ],
-    [ "instance_black_temple", "de/dcd/a23263.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
-    [ "GetInstanceScript", "de/dcd/a23263.html#a947a1279eabde75d9884b1ef84b295a3", null ]
+    [ "HandleEffectRemove", "de/dcd/a23263.html#a070e0dacb457d7dc0bd61594f0ed6d83", null ],
+    [ "PrepareAuraScript", "de/dcd/a23263.html#ac30073d35c40385a24b694012776391e", null ],
+    [ "Register", "de/dcd/a23263.html#ae66eceece2812aee47acb386735f50a0", null ],
+    [ "Validate", "de/dcd/a23263.html#af26c0361e6b7e480f59563d8630d6736", null ]
 ];

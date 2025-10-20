@@ -1,6 +1,6 @@
 var a26135 =
 [
-    [ "HandleDummy", "da/d78/a26135.html#af306009f2c418e898478720b9c4ad6ab", null ],
-    [ "PrepareSpellScript", "da/d78/a26135.html#a44cb481fe93fd1c691495cc1ead35e5e", null ],
-    [ "Register", "da/d78/a26135.html#af51e3b3cbfb469fa6230a36d8d5fcec7", null ]
+    [ "CalculateDamage", "da/d78/a26135.html#a05c6a249b32f41d8d33b40d07bd3c44d", null ],
+    [ "PrepareSpellScript", "da/d78/a26135.html#ace682a64f3ca32e4f4151034ad936ea6", null ],
+    [ "Register", "da/d78/a26135.html#a6dc3beb1f857c2c2a719bd882cc3568d", null ]
 ];

@@ -1,6 +1,7 @@
 var a13763 =
 [
-    [ "npc_balance_of_light_and_shadowAI", "d8/d2a/a13767.html", "d8/d2a/a13767" ],
-    [ "npc_balance_of_light_and_shadow", "de/da6/a13763.html#a55229e3ea8dd9c52972185b36c08908b", null ],
-    [ "GetAI", "de/da6/a13763.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
+    [ "npc_eris_hevenfireAI", "d8/d2a/a13767.html", "d8/d2a/a13767" ],
+    [ "npc_eris_hevenfire", "de/da6/a13763.html#a77f0836dc0b19114316b8b67839d8033", null ],
+    [ "GetAI", "de/da6/a13763.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
+    [ "OnQuestAccept", "de/da6/a13763.html#a1e0baec5706cfddd678b58eb9359997e", null ]
 ];

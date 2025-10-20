@@ -1,6 +1,6 @@
 var a12383 =
 [
-    [ "boss_broodlordAI", "d6/de4/a12387.html", "d6/de4/a12387" ],
-    [ "boss_broodlord", "dd/d62/a12383.html#a936f7eb723111877e2a5e3a85cb95b2b", null ],
-    [ "GetAI", "dd/d62/a12383.html#a5bd506c6f397608ce84496fa0fea2679", null ]
+    [ "npc_vaelastrasz_the_redAI", "d6/de4/a12387.html", "d6/de4/a12387" ],
+    [ "npc_vaelastrasz_the_red", "dd/d62/a12383.html#af39fcaa29b200e3b7933f97de277df6b", null ],
+    [ "GetAI", "dd/d62/a12383.html#a59e7630d5060986dc4209d2d2b5ef42b", null ]
 ];

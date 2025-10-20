@@ -1,9 +1,9 @@
 var a15203 =
 [
-    [ "npc_buru_egg", "d1/dcd/a15203.html#a6aa2896342b802caecde1c1dffcf4907", null ],
-    [ "JustDied", "d1/dcd/a15203.html#a3de169b252374f0b2daed3ecb5a11502", null ],
-    [ "JustEngagedWith", "d1/dcd/a15203.html#a8cde6848569671876a17b00d75228ebe", null ],
-    [ "JustSummoned", "d1/dcd/a15203.html#abebb96dcb3d653bddd4210da6567fb87", null ],
-    [ "UpdateAI", "d1/dcd/a15203.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
-    [ "_instance", "d1/dcd/a15203.html#a5b168226755a57368f17827e3457a0ca", null ]
+    [ "spell_gen_ayamiss_swarmer_loop", "d1/dcd/a15203.html#ad910e172ef6866f102fa3407f676169a", null ],
+    [ "HandleScript", "d1/dcd/a15203.html#acd0dffad436cb414deb546b192957783", null ],
+    [ "Load", "d1/dcd/a15203.html#aa2b338da6aa545e588be3d3a72b1a747", null ],
+    [ "PrepareSpellScript", "d1/dcd/a15203.html#aa64e3d5a98804e2a05d3af1fdc5b2d30", null ],
+    [ "Register", "d1/dcd/a15203.html#ae1b7f1ab58bcdc526ff05b9b66b9c9f8", null ],
+    [ "_pathId", "d1/dcd/a15203.html#ad179773bdfe73f7926d41d30726f0ac9", null ]
 ];

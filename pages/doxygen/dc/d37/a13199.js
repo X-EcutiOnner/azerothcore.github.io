@@ -1,6 +1,6 @@
 var a13199 =
 [
-    [ "npc_a_special_surpriseAI", "da/dad/a13203.html", "da/dad/a13203" ],
-    [ "npc_a_special_surprise", "dc/d37/a13199.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
-    [ "GetAI", "dc/d37/a13199.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
+    [ "npc_scarlet_courierAI", "da/dad/a13203.html", "da/dad/a13203" ],
+    [ "npc_scarlet_courier", "dc/d37/a13199.html#ac9bb46ff40bdf5c83d55c14e52243004", null ],
+    [ "GetAI", "dc/d37/a13199.html#a4b6b5a14ec6ce13a9ce7089f08bce9f5", null ]
 ];

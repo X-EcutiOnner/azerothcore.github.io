@@ -1,7 +1,7 @@
 var a03710 =
 [
-    [ "boss_lord_valthalak", "d4/d39/a12239.html", "d4/d39/a12239" ],
-    [ "boss_lord_valthalak::boss_lord_valthalakAI", "d7/df4/a12243.html", "d7/df4/a12243" ],
+    [ "boss_lord_valthalak", "dd/d4f/a12247.html", "dd/d4f/a12247" ],
+    [ "boss_lord_valthalak::boss_lord_valthalakAI", "da/def/a12251.html", "da/def/a12251" ],
     [ "EventPhase", "d5/d46/a03710.html#a43e68df0d4eba2cb57fbd798181b226a", [
       [ "EVENT_PHASE_TALK", "d5/d46/a03710.html#a43e68df0d4eba2cb57fbd798181b226aa501bb05d0c7a016be1a399e0361f8e47", null ],
       [ "EVENT_PHASE_FIGHT", "d5/d46/a03710.html#a43e68df0d4eba2cb57fbd798181b226aa82f20b32e61c68efeea2b7df8747f3ae", null ]

@@ -1,8 +1,6 @@
 var a11335 =
 [
-    [ "ReflectEvent", "de/de5/a11335.html#a1669aec08a3a09143c57e4889c8fad08", null ],
-    [ "Execute", "de/de5/a11335.html#a37fb766d70932e8a431dba363c603531", null ],
-    [ "_caster", "de/de5/a11335.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
-    [ "_spellInfo", "de/de5/a11335.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
-    [ "_targetGUID", "de/de5/a11335.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
+    [ "WorldObjectSpellConeTargetCheck", "de/de5/a11335.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
+    [ "operator()", "de/de5/a11335.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
+    [ "_coneAngle", "de/de5/a11335.html#a8f946789292320ea8b205dec5d1e1975", null ]
 ];

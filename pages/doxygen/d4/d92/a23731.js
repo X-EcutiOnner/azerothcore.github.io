@@ -1,10 +1,7 @@
 var a23731 =
 [
-    [ "boss_blindeye_the_seer", "d4/d92/a23731.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
-    [ "JustDied", "d4/d92/a23731.html#ad70a72b18587da82d26bde8f10d63700", null ],
-    [ "JustEngagedWith", "d4/d92/a23731.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
-    [ "Reset", "d4/d92/a23731.html#aabbda75266615f64ce88ce092e68bfa4", null ],
-    [ "UpdateAI", "d4/d92/a23731.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
-    [ "_scheduler", "d4/d92/a23731.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
-    [ "instance", "d4/d92/a23731.html#a74462f26d66da3ca370825858060b1c2", null ]
+    [ "PeriodicTick", "d4/d92/a23731.html#a53541105e40202e4a73ecc38d84e9eca", null ],
+    [ "PrepareAuraScript", "d4/d92/a23731.html#a79c8829a86db535e254db009d5286430", null ],
+    [ "Register", "d4/d92/a23731.html#a58cd762eb10d224bb188aaf167c816b9", null ],
+    [ "Validate", "d4/d92/a23731.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
 ];

@@ -1,7 +1,6 @@
 var a22003 =
 [
-    [ "CheckRequirement", "d1/d3f/a22003.html#a41beb2c890137328734d6adb14e08302", null ],
-    [ "PrepareSpellScript", "d1/d3f/a22003.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
-    [ "Register", "d1/d3f/a22003.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
-    [ "SetDest", "d1/d3f/a22003.html#a431a556ab73f91ed63f5983e537834a5", null ]
+    [ "npc_q24545_lich_kingAI", "df/db8/a22007.html", "df/db8/a22007" ],
+    [ "npc_q24545_lich_king", "d1/d3f/a22003.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
+    [ "GetAI", "d1/d3f/a22003.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
 ];

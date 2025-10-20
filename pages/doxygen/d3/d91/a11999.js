@@ -1,17 +1,12 @@
 var a11999 =
 [
-    [ "boss_drektharAI", "d3/d91/a11999.html#a4cd7f817b3dfe457cb330e73316e18d1", null ],
-    [ "AttackStart", "d3/d91/a11999.html#a058d9683179756e49aa4e243d270105c", null ],
-    [ "EnterEvadeMode", "d3/d91/a11999.html#a7f8677796d1b9dbe7021c056252278d3", null ],
-    [ "JustEngagedWith", "d3/d91/a11999.html#aea7fad4bfdc14e5526a6620ee5d3ba2e", null ],
-    [ "JustRespawned", "d3/d91/a11999.html#aef244c80a915eaf4c1e0ff1c1080b18a", null ],
-    [ "Reset", "d3/d91/a11999.html#a87e1f67ae379360bc0843d7bb3cd0acb", null ],
-    [ "UpdateAI", "d3/d91/a11999.html#a79f1f0430496d2a1759ded7cca5cdef3", null ],
-    [ "Attacked", "d3/d91/a11999.html#a6a6b5b2b00e85231441f5a8a0213e5ec", null ],
-    [ "FrenzyTimer", "d3/d91/a11999.html#afd2d5fc6b7091fb019048d32a8b3631e", null ],
-    [ "KnockdownTimer", "d3/d91/a11999.html#a235912a2cb78bd10b6b3a45c51ee0cff", null ],
-    [ "ResetTimer", "d3/d91/a11999.html#a7d7b0a8d19d540e998db3b6e189cc16d", null ],
-    [ "Whirlwind2Timer", "d3/d91/a11999.html#a788359b7f2df1794dbff643d75b2c561", null ],
-    [ "WhirlwindTimer", "d3/d91/a11999.html#aef399775e552d7e80224fbb0c2f62aff", null ],
-    [ "YellTimer", "d3/d91/a11999.html#ad45ea624603c427fa5b3e40cd6ba7f5d", null ]
+    [ "boss_balinda", "d3/d91/a11999.html#a2f3ce696dbc66843cddc13196800866b", null ],
+    [ "DamageTaken", "d3/d91/a11999.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
+    [ "JustDied", "d3/d91/a11999.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
+    [ "JustEngagedWith", "d3/d91/a11999.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
+    [ "JustSummoned", "d3/d91/a11999.html#a3c2306326d2f85fbb6766352117a1f91", null ],
+    [ "Reset", "d3/d91/a11999.html#a1ecfa5d743682997076a47cce44b19f5", null ],
+    [ "UpdateAI", "d3/d91/a11999.html#af3506dd75baef12fd0328aed21636978", null ],
+    [ "_hasCastIceBlock", "d3/d91/a11999.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
+    [ "summons", "d3/d91/a11999.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
 ];

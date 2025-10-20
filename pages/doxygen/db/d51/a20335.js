@@ -1,6 +1,6 @@
 var a20335 =
 [
-    [ "npc_ulduar_saronite_vaporsAI", "d8/dc2/a20339.html", "d8/dc2/a20339" ],
-    [ "npc_ulduar_saronite_vapors", "db/d51/a20335.html#a567c3aca8c381167ca278c2c3562e6f6", null ],
-    [ "GetAI", "db/d51/a20335.html#a3c2e7b6263f8935da9291c736b14d139", null ]
+    [ "FilterTargets", "db/d51/a20335.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
+    [ "PrepareSpellScript", "db/d51/a20335.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
+    [ "Register", "db/d51/a20335.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
 ];

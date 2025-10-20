@@ -1,6 +1,6 @@
 var a27387 =
 [
-    [ "npc_dream_fogAI", "db/d25/a27391.html", "db/d25/a27391" ],
-    [ "npc_dream_fog", "d2/daf/a27387.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
-    [ "GetAI", "d2/daf/a27387.html#a48c45fec086e3a50462deed44734ba38", null ]
+    [ "npc_spirit_shadeAI", "db/d25/a27391.html", "db/d25/a27391" ],
+    [ "npc_spirit_shade", "d2/daf/a27387.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "d2/daf/a27387.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

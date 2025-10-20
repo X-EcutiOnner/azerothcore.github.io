@@ -1,7 +1,7 @@
 var a26999 =
 [
-    [ "HandleDummy", "d9/d6f/a26999.html#a6990bc24605167d38772f391aa2a5376", null ],
-    [ "PrepareSpellScript", "d9/d6f/a26999.html#af85da0790eb36b91266ffa45888068d6", null ],
-    [ "Register", "d9/d6f/a26999.html#a619dab878b3d6e332a15d772dd148e26", null ],
-    [ "Validate", "d9/d6f/a26999.html#a5a39713deabac73334442e1bdeb00aad", null ]
+    [ "HandleAuraApply", "d9/d6f/a26999.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
+    [ "HandleAuraRemove", "d9/d6f/a26999.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
+    [ "PrepareAuraScript", "d9/d6f/a26999.html#a5c7d7c0b8880128121d66d39094f1965", null ],
+    [ "Register", "d9/d6f/a26999.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
 ];

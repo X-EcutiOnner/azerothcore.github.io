@@ -1,7 +1,11 @@
 var a24739 =
 [
-    [ "HandleProc", "da/d44/a24739.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
-    [ "PrepareAuraScript", "da/d44/a24739.html#a2840931b939b95e6a476c07f08ca66b5", null ],
-    [ "Register", "da/d44/a24739.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
-    [ "lastChargeUsedTime", "da/d44/a24739.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
+    [ "CalcPeriodic", "da/d44/a24739.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
+    [ "CalculateHasteAmount", "da/d44/a24739.html#a75d428e0b3619d53bd9436712d2e394e", null ],
+    [ "CalculateSPAmount", "da/d44/a24739.html#a81805b43a47065281f83889d8be95c54", null ],
+    [ "CalculateStatAmount", "da/d44/a24739.html#a763276aaa00bb6953e0b52118662e7a8", null ],
+    [ "HandleEffectApply", "da/d44/a24739.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
+    [ "HandlePeriodic", "da/d44/a24739.html#ab3c7d479eae88ab4a59b06610af19429", null ],
+    [ "PrepareAuraScript", "da/d44/a24739.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
+    [ "Register", "da/d44/a24739.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
 ];

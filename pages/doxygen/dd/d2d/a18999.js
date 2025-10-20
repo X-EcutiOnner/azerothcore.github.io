@@ -1,9 +1,9 @@
 var a18999 =
 [
-    [ "npc_icc_skybreaker_vicarAI", "dd/d2d/a18999.html#ae74a306850b328f536b55e5c24c040ab", null ],
-    [ "AttackStart", "dd/d2d/a18999.html#a52b753e1f599eb02385d980a78cd3c78", null ],
-    [ "JustEngagedWith", "dd/d2d/a18999.html#afdb4215cd0578de7342b152783666ed6", null ],
-    [ "Reset", "dd/d2d/a18999.html#aeb11687534fa7c1e76ea22cc07deb73d", null ],
-    [ "UpdateAI", "dd/d2d/a18999.html#af1726169fe63eb3ff1ed95eb0e10d2f0", null ],
-    [ "events", "dd/d2d/a18999.html#a711d9571b4edb87f77eeebbd12e248b3", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "dd/d2d/a18999.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
+    [ "AttackStart", "dd/d2d/a18999.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
+    [ "JustEngagedWith", "dd/d2d/a18999.html#a7648c626ded6d3abef798b46c77f991d", null ],
+    [ "Reset", "dd/d2d/a18999.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
+    [ "UpdateAI", "dd/d2d/a18999.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
+    [ "events", "dd/d2d/a18999.html#a5aaffc1e78c255c95893be1537e520d6", null ]
 ];

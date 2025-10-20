@@ -1,6 +1,10 @@
 var a15227 =
 [
-    [ "HandleScript", "d9/d21/a15227.html#a7e6ec873a252106ba865bdef05f757f5", null ],
-    [ "PrepareSpellScript", "d9/d21/a15227.html#a98e80c8726c350aca850b6c87c5861da", null ],
-    [ "Register", "d9/d21/a15227.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
+    [ "boss_moam", "d9/d21/a15227.html#a9a7a9f410efc5a05e46fd05f331e96c9", null ],
+    [ "InitializeAI", "d9/d21/a15227.html#a2c8bde24fb3811e29c91a57258a243e5", null ],
+    [ "JustDied", "d9/d21/a15227.html#a06b843bddd8f2759fa733c5169e0a5e6", null ],
+    [ "JustEngagedWith", "d9/d21/a15227.html#ad33ba2f2cf9c83f37856aa6f2212637b", null ],
+    [ "Reset", "d9/d21/a15227.html#a4112940fbe1f8be8e7adee7dbc48a9ae", null ],
+    [ "SummonedCreatureDies", "d9/d21/a15227.html#a8401c5e2bd216deee197617b78d85222", null ],
+    [ "UpdateAI", "d9/d21/a15227.html#aadd8320c6194923b113967d3d6c49a5e", null ]
 ];

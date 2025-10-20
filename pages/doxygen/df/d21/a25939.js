@@ -1,8 +1,7 @@
 var a25939 =
 [
-    [ "HandleDummy", "df/d21/a25939.html#a0604906219798bec87624f8179292317", null ],
-    [ "Load", "df/d21/a25939.html#a99d0d9dd5818a9252536879a3a1dab66", null ],
-    [ "PrepareSpellScript", "df/d21/a25939.html#a51602256218ee899b7391b2b7af0ee7b", null ],
-    [ "Register", "df/d21/a25939.html#a7b065390e95c9673a28d1c49158766ff", null ],
-    [ "Validate", "df/d21/a25939.html#a0bf9973fae74a700623805352908aa69", null ]
+    [ "HandleDummy", "df/d21/a25939.html#a7a8016e1403caa0432242c5c3240f107", null ],
+    [ "PrepareSpellScript", "df/d21/a25939.html#ae2d2de36cceb037006eb4126f8e1778c", null ],
+    [ "Register", "df/d21/a25939.html#abd09f5df3f31af619f24214f90791a53", null ],
+    [ "Validate", "df/d21/a25939.html#ab14aedfdb61d54334f60e57968fcf081", null ]
 ];

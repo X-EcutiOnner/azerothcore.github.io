@@ -1,6 +1,6 @@
 var a14299 =
 [
-    [ "LaunchHit", "d8/d56/a14299.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
-    [ "PrepareSpellScript", "d8/d56/a14299.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
-    [ "Register", "d8/d56/a14299.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
+    [ "OnRemove", "d8/d56/a14299.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
+    [ "PrepareAuraScript", "d8/d56/a14299.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
+    [ "Register", "d8/d56/a14299.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
 ];

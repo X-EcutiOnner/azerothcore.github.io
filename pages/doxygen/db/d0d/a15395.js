@@ -1,6 +1,7 @@
 var a15395 =
 [
-    [ "FilterTargets", "db/d0d/a15395.html#a1ceb8f97a19b7c0434c430b388d0f76b", null ],
-    [ "PrepareSpellScript", "db/d0d/a15395.html#a4a376e2a30c79ee2819c695e72535c0a", null ],
-    [ "Register", "db/d0d/a15395.html#aaf7b4fba94d94331f6b35add2b836061", null ]
+    [ "npc_sartura_royal_guard", "db/d0d/a15395.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "db/d0d/a15395.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "db/d0d/a15395.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "db/d0d/a15395.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

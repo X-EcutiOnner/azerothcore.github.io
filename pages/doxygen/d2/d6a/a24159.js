@@ -1,10 +1,14 @@
 var a24159 =
 [
-    [ "npc_raging_flames", "d2/d6a/a24159.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
-    [ "EnterEvadeMode", "d2/d6a/a24159.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
-    [ "FixateRandomTarget", "d2/d6a/a24159.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
-    [ "InitializeAI", "d2/d6a/a24159.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
-    [ "IsSummonedBy", "d2/d6a/a24159.html#ae42c4329be355807af92c1c803e61500", null ],
-    [ "Reset", "d2/d6a/a24159.html#a34ac2249e507784d81c4040e87a646e0", null ],
-    [ "UpdateAI", "d2/d6a/a24159.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d2/d6a/a24159.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
+    [ "Initialize", "d2/d6a/a24159.html#a187340b00067f2f65a7e48845a6edaba", null ],
+    [ "JustSummoned", "d2/d6a/a24159.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
+    [ "Reset", "d2/d6a/a24159.html#a92a6cbe0515752440284d18bae0adf66", null ],
+    [ "SpellHit", "d2/d6a/a24159.html#a517f7412208de83604d0d6806fbc0b34", null ],
+    [ "UpdateAI", "d2/d6a/a24159.html#ab4fb75f1b84c2722f936387a6942028b", null ],
+    [ "CannonGUID", "d2/d6a/a24159.html#a220e111467cfb6f02e996f012123e09b", null ],
+    [ "count", "d2/d6a/a24159.html#ac78f94033239dcf247be9a48d0535081", null ],
+    [ "events", "d2/d6a/a24159.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
+    [ "PartyTime", "d2/d6a/a24159.html#a1780c656fb539be6dcd74e271cea4c53", null ],
+    [ "PlayerGUID", "d2/d6a/a24159.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
 ];

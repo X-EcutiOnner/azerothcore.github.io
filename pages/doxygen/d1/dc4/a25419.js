@@ -1,9 +1,7 @@
 var a25419 =
 [
-    [ "spell_gen_lifebloom", "d1/dc4/a25419.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
-    [ "AfterRemove", "d1/dc4/a25419.html#aea962f603e56c1bd33fccaef0c89d917", null ],
-    [ "PrepareAuraScript", "d1/dc4/a25419.html#ac11134bdc3588795ce6e256c5b02055f", null ],
-    [ "Register", "d1/dc4/a25419.html#ab4a552402ee9f90834320d6fc668cff3", null ],
-    [ "Validate", "d1/dc4/a25419.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
-    [ "_spellId", "d1/dc4/a25419.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
+    [ "PrepareSpellScript", "d1/dc4/a25419.html#a65d5717a25e371e09c44148c679dd390", null ],
+    [ "Register", "d1/dc4/a25419.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
+    [ "RemoveInvalidTargets", "d1/dc4/a25419.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
+    [ "Validate", "d1/dc4/a25419.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
 ];

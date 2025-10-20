@@ -1,8 +1,6 @@
 var a26567 =
 [
-    [ "HandleDummy", "d4/ded/a26567.html#ae396c96647e36da357bdc70e11e3145f", null ],
-    [ "Load", "d4/ded/a26567.html#a2b4811bf7e60361e13bc382e62173cee", null ],
-    [ "PrepareSpellScript", "d4/ded/a26567.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
-    [ "Register", "d4/ded/a26567.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
-    [ "count", "d4/ded/a26567.html#a73358b2272ad12faef006b1ef633cac0", null ]
+    [ "HandleDummy", "d4/ded/a26567.html#a42f48b9d7d657da75c8a4f5b6468011e", null ],
+    [ "PrepareSpellScript", "d4/ded/a26567.html#a5efc666af2cb73c376706c20e41ace68", null ],
+    [ "Register", "d4/ded/a26567.html#a46e61697212a43532e148ccb12a7d8e5", null ]
 ];

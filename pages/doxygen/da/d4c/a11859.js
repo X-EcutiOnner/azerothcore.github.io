@@ -1,11 +1,12 @@
 var a11859 =
 [
-    [ "instance_commandscript", "da/d4c/a11859.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
-    [ "GetCommands", "da/d4c/a11859.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
-    [ "HandleInstanceGetBossStateCommand", "da/d4c/a11859.html#a0530ca6481073d6bafd11596546140b0", null ],
-    [ "HandleInstanceListBindsCommand", "da/d4c/a11859.html#abf42411f9c78ce59b21b34691e3d4233", null ],
-    [ "HandleInstanceSaveDataCommand", "da/d4c/a11859.html#a4b494a8b1de470612436fbb9fa433416", null ],
-    [ "HandleInstanceSetBossStateCommand", "da/d4c/a11859.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
-    [ "HandleInstanceStatsCommand", "da/d4c/a11859.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
-    [ "HandleInstanceUnbindCommand", "da/d4c/a11859.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
+    [ "guild_commandscript", "da/d4c/a11859.html#a4394d242740505ad128e4cebf4b617f0", null ],
+    [ "GetCommands", "da/d4c/a11859.html#a6b0a700e7fa3251373c1405d245f6931", null ],
+    [ "HandleGuildCreateCommand", "da/d4c/a11859.html#a2d2c2414b9b08a5d510fccd223b34a36", null ],
+    [ "HandleGuildDeleteCommand", "da/d4c/a11859.html#a4bbef641c86de37611e7ff1c906b4048", null ],
+    [ "HandleGuildInfoCommand", "da/d4c/a11859.html#adbe43a3a362608e37dd7d6652a83adfc", null ],
+    [ "HandleGuildInviteCommand", "da/d4c/a11859.html#a67210b9845ca4475e6ab3d0d7cc0dbab", null ],
+    [ "HandleGuildRankCommand", "da/d4c/a11859.html#adbea3b610c98354866fec52a43fedda0", null ],
+    [ "HandleGuildRenameCommand", "da/d4c/a11859.html#ac946b4284c85e43b1ca29f69df9a8f27", null ],
+    [ "HandleGuildUninviteCommand", "da/d4c/a11859.html#aa7b134de9c3632cc1e147064c9ffcb5f", null ]
 ];

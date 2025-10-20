@@ -1,6 +1,19 @@
 var a24555 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d3/de1/a24559.html", "d3/de1/a24559" ],
-    [ "npc_unkor_the_ruthless", "df/dec/a24555.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
-    [ "GetAI", "df/dec/a24555.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
+    [ "npc_pet_dk_ebon_gargoyle", "df/dec/a24555.html#af3a1bf5f8f5b594aa7cd7542b6099a95", null ],
+    [ "AttackStart", "df/dec/a24555.html#ae5408b18b589fb483095450bf1338b2f", null ],
+    [ "FlyAway", "df/dec/a24555.html#abd2bbbff0d1752bbc2d03021b8155155", null ],
+    [ "InitializeAI", "df/dec/a24555.html#a05e7d29c738dcc280603ab12a82b819b", null ],
+    [ "MovementInform", "df/dec/a24555.html#a33e0260425cf179daae147bfc1a570b4", null ],
+    [ "MySelectNextTarget", "df/dec/a24555.html#af86f48070b8c329c6a6a3f43d0156273", null ],
+    [ "RemoveTargetAura", "df/dec/a24555.html#a07a6044ab1246bc2f90309b9eb7d0223", null ],
+    [ "Reset", "df/dec/a24555.html#aa719acf874e7588ed6b73c437fb6765b", null ],
+    [ "UpdateAI", "df/dec/a24555.html#a998a0401bd975cc7d0da7fb33670a503", null ],
+    [ "_decisionTimer", "df/dec/a24555.html#a5ad13d23e35dcc1dab567ae2d8800cd6", null ],
+    [ "_despawning", "df/dec/a24555.html#abca2ddc0628899b0c5bd35210e303d00", null ],
+    [ "_despawnTimer", "df/dec/a24555.html#a8135321f4e5c01dc71e13f719e43d056", null ],
+    [ "_initialCastTimer", "df/dec/a24555.html#ae6a8edeb3ee7a2bde5af81080d536d1f", null ],
+    [ "_initialSelection", "df/dec/a24555.html#a5ce762eb57204a1b4d8f0ea49be701a7", null ],
+    [ "_selectionTimer", "df/dec/a24555.html#ad004ccbe33b4eacff3ac5b5b28709df0", null ],
+    [ "_targetGUID", "df/dec/a24555.html#a8299788ca453930977a605a2766d9e8d", null ]
 ];

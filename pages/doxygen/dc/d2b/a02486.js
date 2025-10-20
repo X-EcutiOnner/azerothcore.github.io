@@ -1,6 +1,6 @@
 var a02486 =
 [
-    [ "spell_gordunni_trap", "dd/d00/a15687.html", "dd/d00/a15687" ],
+    [ "spell_gordunni_trap", "de/da0/a15695.html", "de/da0/a15695" ],
     [ "GordunniTrap", "dc/d2b/a02486.html#ae11511f5835ecdfec73fde1f9f29431c", [
       [ "GO_GORDUNNI_DIRT_MOUND", "dc/d2b/a02486.html#ae11511f5835ecdfec73fde1f9f29431ca12df131fc84f6cc9bcf7d02eaf65e1ab", null ]
     ] ],

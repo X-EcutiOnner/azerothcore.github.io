@@ -1,6 +1,7 @@
 var a11087 =
 [
-    [ "TotemDestroyed", "de/d87/a11087.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
-    [ "Read", "de/d87/a11087.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
-    [ "Slot", "de/d87/a11087.html#a41eebde65aa696c2dec812da0aeab633", null ]
+    [ "TimeQueryResponse", "de/d87/a11087.html#abefcc15670a85ae023d24bfa5dc26a11", null ],
+    [ "Write", "de/d87/a11087.html#a5fbfca11889684a0ab6b437eb30527cc", null ],
+    [ "ServerTime", "de/d87/a11087.html#a9dfc03a60bb8a1f20eb850e3f8a00b88", null ],
+    [ "TimeResponse", "de/d87/a11087.html#a4f528e5c08dc67a2c6f7826b21a771ed", null ]
 ];

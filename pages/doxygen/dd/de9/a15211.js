@@ -1,7 +1,9 @@
 var a15211 =
 [
-    [ "boss_kurinnaxx", "dd/de9/a15211.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
-    [ "InitializeAI", "dd/de9/a15211.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
-    [ "JustDied", "dd/de9/a15211.html#adb749c8737888a099ad7a3d58292a612", null ],
-    [ "JustEngagedWith", "dd/de9/a15211.html#a451cd7ee80b0428a199c33012562bdb3", null ]
+    [ "npc_buru_egg", "dd/de9/a15211.html#a6aa2896342b802caecde1c1dffcf4907", null ],
+    [ "JustDied", "dd/de9/a15211.html#a3de169b252374f0b2daed3ecb5a11502", null ],
+    [ "JustEngagedWith", "dd/de9/a15211.html#a8cde6848569671876a17b00d75228ebe", null ],
+    [ "JustSummoned", "dd/de9/a15211.html#abebb96dcb3d653bddd4210da6567fb87", null ],
+    [ "UpdateAI", "dd/de9/a15211.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
+    [ "_instance", "dd/de9/a15211.html#a5b168226755a57368f17827e3457a0ca", null ]
 ];

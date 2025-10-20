@@ -1,6 +1,10 @@
 var a27011 =
 [
-    [ "HandleKnockBack", "d2/d22/a27011.html#abad9f9293260a3e99be98b43aabb321b", null ],
-    [ "PrepareSpellScript", "d2/d22/a27011.html#a65787b78165631898458264e6ee310f4", null ],
-    [ "Register", "d2/d22/a27011.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
+    [ "CalcPeriodic", "d2/d22/a27011.html#abd23b7e24d9688dd4b9cbe70cdd45d75", null ],
+    [ "CalculateAmount", "d2/d22/a27011.html#a55aa6c6a23e4db0f407b86bcf95d3761", null ],
+    [ "HandleEffectCalcSpellMod", "d2/d22/a27011.html#a8c888218fde2176a3c3b5cb97fdce5de", null ],
+    [ "HandlePeriodic", "d2/d22/a27011.html#ae2c4de235fc727039a50f1b6ba729422", null ],
+    [ "Load", "d2/d22/a27011.html#a9e1a5a07db18f6ff238276f9e1c44321", null ],
+    [ "PrepareAuraScript", "d2/d22/a27011.html#a847c1db1bf92baeba47260ffbacbcdd9", null ],
+    [ "Register", "d2/d22/a27011.html#a9241ab85d616f4f17c52b3730c5434e1", null ]
 ];

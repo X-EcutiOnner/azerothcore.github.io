@@ -1,6 +1,8 @@
 var a21115 =
 [
-    [ "boss_yoggsaron_llaneAI", "de/d3c/a21119.html", "de/d3c/a21119" ],
-    [ "boss_yoggsaron_llane", "d6/d01/a21115.html#a671df488222583aa12bc1c75695918b9", null ],
-    [ "GetAI", "d6/d01/a21115.html#a1e7d1b4bce0ca1dbfbbe8c044b451b92", null ]
+    [ "OnApply", "d6/d01/a21115.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
+    [ "OnRemove", "d6/d01/a21115.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "d6/d01/a21115.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "d6/d01/a21115.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "d6/d01/a21115.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

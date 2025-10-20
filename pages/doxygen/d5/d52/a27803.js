@@ -1,10 +1,8 @@
 var a27803 =
 [
-    [ "npc_training_dummyAI", "d5/d52/a27803.html#a2f10fd0b4365e99446f728883a47eb6a", null ],
-    [ "DamageTaken", "d5/d52/a27803.html#a641c40906a6365f068ccbdba9d033923", null ],
-    [ "EnterEvadeMode", "d5/d52/a27803.html#adb1de124bdb2a986efcfcfc287b6d824", null ],
-    [ "MoveInLineOfSight", "d5/d52/a27803.html#a52f3516e9da6895eeddcdef7a198a6b1", null ],
-    [ "Reset", "d5/d52/a27803.html#af63f500cb3179964c90afab0d4a2c9b7", null ],
-    [ "UpdateAI", "d5/d52/a27803.html#a5e7892a64cd1a5cf678b401b62497bfb", null ],
-    [ "resetTimer", "d5/d52/a27803.html#a443f2f7de257af473d6e9793f34a2071", null ]
+    [ "npc_chicken_cluckAI", "d9/d6e/a27807.html", "d9/d6e/a27807" ],
+    [ "npc_chicken_cluck", "d5/d52/a27803.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
+    [ "GetAI", "d5/d52/a27803.html#abf986f555672823477c3c17e0f59bdbe", null ],
+    [ "OnQuestAccept", "d5/d52/a27803.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
+    [ "OnQuestComplete", "d5/d52/a27803.html#a8f22520166a557e066502eb16bdae774", null ]
 ];

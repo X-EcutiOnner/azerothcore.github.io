@@ -1,7 +1,7 @@
 var a04592 =
 [
-    [ "DBCFileLoader", "d3/d6e/a05227.html", "d3/d6e/a05227" ],
-    [ "DBCFileLoader::Record", "d4/d54/a05231.html", "d4/d54/a05231" ],
+    [ "DBCFileLoader", "d4/d54/a05231.html", "d4/d54/a05231" ],
+    [ "DBCFileLoader::Record", "d8/dd0/a05235.html", "d8/dd0/a05235" ],
     [ "DbcFieldFormat", "da/d34/a04592.html#a969264ba91452f632e809db524c68960", [
       [ "FT_NA", "da/d34/a04592.html#a969264ba91452f632e809db524c68960a0f8a37a34dd644e8432e79266f8e2f8c", null ],
       [ "FT_NA_BYTE", "da/d34/a04592.html#a969264ba91452f632e809db524c68960a974d335432036bc88ad76f044e8fca0c", null ],

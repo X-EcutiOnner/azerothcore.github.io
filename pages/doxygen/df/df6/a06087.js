@@ -1,5 +1,5 @@
 var a06087 =
 [
-    [ "changed", "df/df6/a06087.html#a98ad429a8aa7a190e94f943a2ec5edf2", null ],
-    [ "date", "df/df6/a06087.html#a3c6c1cca7f125fc98323669e4e9c775d", null ]
+    [ "Subject", "df/df6/a06087.html#ad9bd686973c6e59518889bd5d9b6a11f", null ],
+    [ "Text", "df/df6/a06087.html#a95f203f9e53a61988a4d2af6ac6820a2", null ]
 ];

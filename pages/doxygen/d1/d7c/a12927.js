@@ -1,13 +1,17 @@
 var a12927 =
 [
-    [ "boss_roar", "d1/d7c/a12927.html#a93e1d81bcff8b31841ae65628759ee7e", null ],
-    [ "DoAction", "d1/d7c/a12927.html#a9a2778a803d6d41b256759b29452cc51", null ],
-    [ "EnterEvadeMode", "d1/d7c/a12927.html#a198044653632b93838c0f79c06cb7640", null ],
-    [ "JustDied", "d1/d7c/a12927.html#a3c79bea69740601ad89f0765f3af99f2", null ],
-    [ "JustEngagedWith", "d1/d7c/a12927.html#a1db42b2b1a19ac4a959a51ce17c8ae32", null ],
-    [ "JustReachedHome", "d1/d7c/a12927.html#a632929b026815a524bd79748e768e3fc", null ],
-    [ "KilledUnit", "d1/d7c/a12927.html#aaaa0d33697fe1abc0df5bf9ecb249ffc", null ],
-    [ "UpdateAI", "d1/d7c/a12927.html#a255d406f8bab62593a3eeda0e4e3d646", null ],
-    [ "_scheduler", "d1/d7c/a12927.html#a54b45b1fdacc2b3982e21580b9b4d26a", null ],
-    [ "instance", "d1/d7c/a12927.html#a67df04e89c877d565753ac077aa923c7", null ]
+    [ "boss_dorothee", "d1/d7c/a12927.html#a8bd5b4753c2d8f8aced0c036912f10f1", null ],
+    [ "DoAction", "d1/d7c/a12927.html#a1b9cf1e58d68d249249a8b0d082b725a", null ],
+    [ "EnterEvadeMode", "d1/d7c/a12927.html#a6dfc4109370d4e932e7376a443bd64ad", null ],
+    [ "JustDied", "d1/d7c/a12927.html#a289dfa1f257ca25acba9487908e6223c", null ],
+    [ "JustEngagedWith", "d1/d7c/a12927.html#aa35dafeb9faf8eeea55caa0eeb669db3", null ],
+    [ "JustReachedHome", "d1/d7c/a12927.html#a762209d2bf78cc21c48a426732f2354e", null ],
+    [ "Reset", "d1/d7c/a12927.html#ae3f123a6a9223b7928295812326b0cb4", null ],
+    [ "SummonedCreatureDies", "d1/d7c/a12927.html#a0e76c828a1c7c49741963b6e98003a66", null ],
+    [ "SummonTito", "d1/d7c/a12927.html#a5c04074aab40ecaeeb84b33205b40144", null ],
+    [ "UpdateAI", "d1/d7c/a12927.html#a30fbcc5e7ca4ed74b9d2895b94a9a19e", null ],
+    [ "_scheduler", "d1/d7c/a12927.html#a840bcbad78ff881ef3a803ffa23d3c6e", null ],
+    [ "_startIntro", "d1/d7c/a12927.html#a20e6555e2117a62fce3af7f7fb7167cc", null ],
+    [ "instance", "d1/d7c/a12927.html#ac6a6f1c9074697f761e4e09550cfea71", null ],
+    [ "titoDied", "d1/d7c/a12927.html#a258cc9ce32f314e723d5345ac18336bf", null ]
 ];

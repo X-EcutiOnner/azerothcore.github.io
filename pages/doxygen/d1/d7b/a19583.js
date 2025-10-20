@@ -1,6 +1,6 @@
 var a19583 =
 [
-    [ "npc_oculus_unstable_sphereAI", "d5/da4/a19587.html", "d5/da4/a19587" ],
-    [ "npc_oculus_unstable_sphere", "d1/d7b/a19583.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
-    [ "GetAI", "d1/d7b/a19583.html#adda2a9e7eab03444742e85729673ab2f", null ]
+    [ "boss_drakosAI", "d5/da4/a19587.html", "d5/da4/a19587" ],
+    [ "boss_drakos", "d1/d7b/a19583.html#aa70ae2809af4f24eea0b83b42d695448", null ],
+    [ "GetAI", "d1/d7b/a19583.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
 ];

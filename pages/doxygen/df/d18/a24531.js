@@ -1,7 +1,6 @@
 var a24531 =
 [
-    [ "HandleEffectRemove", "df/d18/a24531.html#a317c238b165ad331beb447ea5d0de7e1", null ],
-    [ "PrepareAuraScript", "df/d18/a24531.html#a7481f017a1382eb75e0101cb49fb4fcf", null ],
-    [ "Register", "df/d18/a24531.html#a13fdde1557249328306a57e159d821a7", null ],
-    [ "Validate", "df/d18/a24531.html#a58a383bd4e3062a5c5b1df97192b4b7e", null ]
+    [ "npc_unkor_the_ruthlessAI", "d0/ddf/a24535.html", "d0/ddf/a24535" ],
+    [ "npc_unkor_the_ruthless", "df/d18/a24531.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
+    [ "GetAI", "df/d18/a24531.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
 ];

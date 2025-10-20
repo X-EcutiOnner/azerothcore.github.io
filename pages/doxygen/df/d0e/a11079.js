@@ -1,7 +1,14 @@
 var a11079 =
 [
-    [ "TimeQueryResponse", "df/d0e/a11079.html#abefcc15670a85ae023d24bfa5dc26a11", null ],
-    [ "Write", "df/d0e/a11079.html#a5fbfca11889684a0ab6b437eb30527cc", null ],
-    [ "ServerTime", "df/d0e/a11079.html#a9dfc03a60bb8a1f20eb850e3f8a00b88", null ],
-    [ "TimeResponse", "df/d0e/a11079.html#a4f528e5c08dc67a2c6f7826b21a771ed", null ]
+    [ "NameQueryResponse", "df/d0e/a11079.html#a04a03faa1ab655eb87d755b603f7b427", null ],
+    [ "Write", "df/d0e/a11079.html#a8bbf006e3b84b9b47df8f1497a6c4eb8", null ],
+    [ "Class", "df/d0e/a11079.html#acd3c6d5f56924fe32bb8a0bddddce13a", null ],
+    [ "Declined", "df/d0e/a11079.html#abe147a5c99db99148cc3b76136eccb2b", null ],
+    [ "DeclinedNames", "df/d0e/a11079.html#a4d3a2f218c8e1763889cc45adc514f0b", null ],
+    [ "Guid", "df/d0e/a11079.html#ae45b2723b1b5a3313566df2d353114f9", null ],
+    [ "Name", "df/d0e/a11079.html#ad2d16050d9229912105c8f2136538d91", null ],
+    [ "NameUnknown", "df/d0e/a11079.html#ab15e54b3abb638a8782ce4eefa77d489", null ],
+    [ "Race", "df/d0e/a11079.html#a74463c6218d56c913df7f24b7491003f", null ],
+    [ "RealmName", "df/d0e/a11079.html#ab52bc81a49ff62ea23f1dd05e4826f6c", null ],
+    [ "Sex", "df/d0e/a11079.html#ae3f54cab19cf94fef55ef1dcac1f1ad8", null ]
 ];

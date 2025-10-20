@@ -1,6 +1,7 @@
 var a12135 =
 [
-    [ "boss_hedrumAI", "d1/d64/a12135.html#a95e4af51a8e24fa7b36b924c6cdfb86c", null ],
-    [ "JustEngagedWith", "d1/d64/a12135.html#a1cf03b06598f2b36814062d47a73ed82", null ],
-    [ "UpdateAI", "d1/d64/a12135.html#aa515ed081aaabdad751c1bbba56d3d96", null ]
+    [ "boss_grizzleAI", "d1/d64/a12135.html#a3310892cafc2a8e022105f77258b25af", null ],
+    [ "JustEngagedWith", "d1/d64/a12135.html#a598e7e7d6bdd847bf01968116988a935", null ],
+    [ "UpdateAI", "d1/d64/a12135.html#a2dc5c27cd4eaf2aa1484a370a68e3314", null ],
+    [ "nextTremorTime", "d1/d64/a12135.html#ab0f05592db6d0c806247e76232760c44", null ]
 ];

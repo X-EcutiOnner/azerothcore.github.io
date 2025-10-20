@@ -1,6 +1,6 @@
 var a08579 =
 [
-    [ "PlayerClassLevelInfo", "d1/dce/a08579.html#a60153094e3179bfc6c028d2b76775805", null ],
-    [ "basehealth", "d1/dce/a08579.html#a034ae3d2b5b14ce454710ca8f92ffee0", null ],
-    [ "basemana", "d1/dce/a08579.html#a939a8d8739a553c919d84e399ce17d22", null ]
+    [ "PlayerCreateInfoItem", "d1/dce/a08579.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
+    [ "item_amount", "d1/dce/a08579.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
+    [ "item_id", "d1/dce/a08579.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
 ];

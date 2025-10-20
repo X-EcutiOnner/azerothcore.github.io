@@ -1,4 +1,4 @@
 var a00578 =
 [
-    [ "lfg::LfgPlayerData", "d3/d21/a08015.html", "d3/d21/a08015" ]
+    [ "lfg::LfgPlayerData", "d3/de2/a08019.html", "d3/de2/a08019" ]
 ];

@@ -1,16 +1,12 @@
 var a11679 =
 [
-    [ "CheckContainer", "da/d75/a11679.html#a08e083224760d2bca1996da9cd9cb014", null ],
-    [ "CheckResultContainer", "da/d75/a11679.html#a6ce6feb03f6e0250bc03fea4612098df", null ],
-    [ "WardenCheckMgr", "da/d75/a11679.html#a2de08c0613dd688f4bbbb4cc572f3d72", null ],
-    [ "~WardenCheckMgr", "da/d75/a11679.html#a0d89190f580435337c328da4bf2497b8", null ],
-    [ "GetMaxValidCheckId", "da/d75/a11679.html#a79926d8228c3252fc0eabe295f6e78a8", null ],
-    [ "GetWardenDataById", "da/d75/a11679.html#a290e74857c1b1a50ced0a46b7477fa4c", null ],
-    [ "GetWardenResultById", "da/d75/a11679.html#a8c06b4f57a84a8229ad1674a5048ced9", null ],
-    [ "instance", "da/d75/a11679.html#aba9de1e123070338dc0049db8d8f0663", null ],
-    [ "LoadWardenChecks", "da/d75/a11679.html#ad02847547a06d98c582d09992dce9d11", null ],
-    [ "LoadWardenOverrides", "da/d75/a11679.html#a0a82e118a8f8236fecf1b00de0e2071c", null ],
-    [ "CheckIdPool", "da/d75/a11679.html#ac1d20dec3028cdff0f475c4aff8af928", null ],
-    [ "CheckResultStore", "da/d75/a11679.html#a4f0224b8377827aced304b28fdefbda7", null ],
-    [ "CheckStore", "da/d75/a11679.html#aac59e154d81b838f27c577af87b86bd1", null ]
+    [ "Action", "da/d75/a11679.html#a0aba96ac9e7af155a1d9bdf120afae25", null ],
+    [ "Address", "da/d75/a11679.html#aaae2d4fd576f3eeb40c1413d54802345", null ],
+    [ "CheckId", "da/d75/a11679.html#a51a0cea0381f2b64e9d240ac39591172", null ],
+    [ "Comment", "da/d75/a11679.html#a6abdb409f49751b2f6aa8df88c349ba2", null ],
+    [ "Data", "da/d75/a11679.html#a962795028d40645fe67e4290ea64b10b", null ],
+    [ "IdStr", "da/d75/a11679.html#a15ecbc1a6582666a14423fa157d2fb84", null ],
+    [ "Length", "da/d75/a11679.html#abe0249d9550042e696eb74edf06aaec8", null ],
+    [ "Str", "da/d75/a11679.html#a1fc1eba87b344d4681498aafcaa496cb", null ],
+    [ "Type", "da/d75/a11679.html#aca31cdb700dca4801dfa514812639c70", null ]
 ];

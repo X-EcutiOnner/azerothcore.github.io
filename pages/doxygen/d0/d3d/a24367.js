@@ -1,7 +1,10 @@
 var a24367 =
 [
-    [ "CheckRequirement", "d0/d3d/a24367.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "d0/d3d/a24367.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "d0/d3d/a24367.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "d0/d3d/a24367.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "npc_infernal_attackerAI", "d0/d3d/a24367.html#ae04c4e026f22bd650bb33940b923df9a", null ],
+    [ "IsSummonedBy", "d0/d3d/a24367.html#a926e6cd6772784872a905de7245007ac", null ],
+    [ "JustDied", "d0/d3d/a24367.html#a1822131520f98dd5f1dd637282f20ae3", null ],
+    [ "Reset", "d0/d3d/a24367.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
+    [ "SpellHit", "d0/d3d/a24367.html#a956f3fb1e341519817599df08afc2589", null ],
+    [ "UpdateAI", "d0/d3d/a24367.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
+    [ "casterGUID", "d0/d3d/a24367.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
 ];

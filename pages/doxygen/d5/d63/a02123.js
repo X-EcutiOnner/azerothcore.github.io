@@ -1,7 +1,7 @@
 var a02123 =
 [
-    [ "instance_gruuls_lair", "db/d32/a23739.html", "db/d32/a23739" ],
-    [ "instance_gruuls_lair::instance_gruuls_lair_InstanceMapScript", "d1/db2/a23743.html", "d1/db2/a23743" ],
+    [ "instance_gruuls_lair", "d3/db3/a23715.html", "d3/db3/a23715" ],
+    [ "instance_gruuls_lair::instance_gruuls_lair_InstanceMapScript", "d6/db0/a23719.html", "d6/db0/a23719" ],
     [ "AddSC_instance_gruuls_lair", "d5/d63/a02123.html#a6c9bd5a761d9018e8be9e0c11b8db2c5", null ],
     [ "creatureData", "d5/d63/a02123.html#a412286b689bd324fedd65ddd8dde8afb", null ],
     [ "doorData", "d5/d63/a02123.html#a69c4a0ca4694d5ed1d42f0373dd5d80c", null ],

@@ -1,5 +1,6 @@
 var a20319 =
 [
-    [ "achievement_freya_getting_back_to_nature", "da/df3/a20319.html#aa4078b573a9335fc52c9b9609590b12f", null ],
-    [ "OnCheck", "da/df3/a20319.html#a850a32450379284784f019a5eb5ff0ff", null ]
+    [ "npc_ulduar_saronite_animusAI", "de/dba/a20323.html", "de/dba/a20323" ],
+    [ "npc_ulduar_saronite_animus", "da/df3/a20319.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
+    [ "GetAI", "da/df3/a20319.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
 ];

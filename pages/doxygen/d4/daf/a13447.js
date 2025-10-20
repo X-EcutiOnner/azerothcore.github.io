@@ -1,6 +1,9 @@
 var a13447 =
 [
-    [ "HandleActivateObject", "d4/daf/a13447.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
-    [ "PrepareSpellScript", "d4/daf/a13447.html#ad55914fdc6771e09a508572d59ad30ed", null ],
-    [ "Register", "d4/daf/a13447.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
+    [ "boss_brutallus", "d4/daf/a13447.html#a501c898505eb4265edee1546bc54713e", null ],
+    [ "AttackStart", "d4/daf/a13447.html#a05edf7010f4e7364399bc81582502219", null ],
+    [ "JustDied", "d4/daf/a13447.html#a48ae6589613f2ac90a499b9b6ae07d01", null ],
+    [ "JustEngagedWith", "d4/daf/a13447.html#a04ff0c07c578c3b92cf45d1ed27fb883", null ],
+    [ "KilledUnit", "d4/daf/a13447.html#a608607d83680da85f91324ce0035804b", null ],
+    [ "Reset", "d4/daf/a13447.html#a20ad64739072e39e7ff3132c6f637af7", null ]
 ];

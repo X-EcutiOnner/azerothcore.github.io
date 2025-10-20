@@ -1,6 +1,6 @@
 var a20527 =
 [
-    [ "boss_ignisAI", "de/d9f/a20531.html", "de/d9f/a20531" ],
-    [ "boss_ignis", "df/d62/a20527.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
-    [ "GetAI", "df/d62/a20527.html#ac11ff148e9cbc985875f859268a3de01", null ]
+    [ "boss_kologarnAI", "de/d9f/a20531.html", "de/d9f/a20531" ],
+    [ "boss_kologarn", "df/d62/a20527.html#a5f654a0f534c4ec6c1164ea08e40a476", null ],
+    [ "GetAI", "df/d62/a20527.html#ad78c2d269e68d8c3bbd86b844ada9435", null ]
 ];

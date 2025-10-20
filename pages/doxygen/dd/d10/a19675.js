@@ -1,6 +1,6 @@
 var a19675 =
 [
-    [ "HandlePeriodic", "dd/d10/a19675.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
-    [ "PrepareAuraScript", "dd/d10/a19675.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
-    [ "Register", "dd/d10/a19675.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
+    [ "HandleEffectCalcAmount", "dd/d10/a19675.html#afa50ce616d36dd59c7195209074d6182", null ],
+    [ "PrepareAuraScript", "dd/d10/a19675.html#a4638b99dac7653f13d59c3928a78b3b9", null ],
+    [ "Register", "dd/d10/a19675.html#a691d5a99eec9e367c518d0244f25bd41", null ]
 ];

@@ -1,7 +1,6 @@
 var a16831 =
 [
-    [ "HandleAfterEffectAbsorb", "df/d49/a16831.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
-    [ "PrepareAuraScript", "df/d49/a16831.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
-    [ "Register", "df/d49/a16831.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
-    [ "Validate", "df/d49/a16831.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
+    [ "npc_concentrated_ballAI", "d8/d13/a16835.html", "d8/d13/a16835" ],
+    [ "npc_concentrated_ball", "df/d49/a16831.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
+    [ "GetAI", "df/d49/a16831.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
 ];

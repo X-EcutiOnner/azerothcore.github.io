@@ -1,7 +1,9 @@
 var a25043 =
 [
-    [ "if", "d9/dc8/a25043.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
-    [ "PrepareAuraScript", "d9/dc8/a25043.html#a01d974333043452a37ec3124d23b49f2", null ],
-    [ "Register", "d9/dc8/a25043.html#aeb6c695819e894aad8b210a237e6d315", null ],
-    [ "AuraEffectHandleModes", "d9/dc8/a25043.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
+    [ "PrepareAuraScript", "d9/dc8/a25043.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
+    [ "Register", "d9/dc8/a25043.html#a04efbc64bfa0312bc1f372e403803c32", null ],
+    [ "Update", "d9/dc8/a25043.html#aa463442b994b6275b2e12fe06ae7805c", null ],
+    [ "amplitude", "d9/dc8/a25043.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
+    [ "amplitude", "d9/dc8/a25043.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
+    [ "isPeriodic", "d9/dc8/a25043.html#a0732bf60822bbb547be014566d0e092c", null ]
 ];

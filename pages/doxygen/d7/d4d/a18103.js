@@ -1,7 +1,7 @@
 var a18103 =
 [
-    [ "HandleDummy", "d7/d4d/a18103.html#aa61db53d7395fd45b8569e12978fed0b", null ],
-    [ "PrepareSpellScript", "d7/d4d/a18103.html#ab63054debe6763027ab52ad122277719", null ],
-    [ "Register", "d7/d4d/a18103.html#a6dee5fc9fafd7faa3eadbf9431568dcc", null ],
-    [ "Validate", "d7/d4d/a18103.html#adb7e30d10c2071de5d5070b64a10af30", null ]
+    [ "HandleExtraEffect", "d7/d4d/a18103.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "d7/d4d/a18103.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "d7/d4d/a18103.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "d7/d4d/a18103.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

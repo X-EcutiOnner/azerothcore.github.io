@@ -1,13 +1,11 @@
 var a11291 =
 [
-    [ "alive", "da/dd0/a11291.html#aebeb2f67bf8646770570e5564fb01d4d", null ],
-    [ "crit", "da/dd0/a11291.html#a908278bd46f9be3e1191f4883f9eb32f", null ],
-    [ "damage", "da/dd0/a11291.html#a5bdf23f41a4a748f96dd9fffa8e8a838", null ],
-    [ "effectMask", "da/dd0/a11291.html#afb839b2b409a61e4d63de03dbce2abcb", null ],
-    [ "missCondition", "da/dd0/a11291.html#a6c17740427f4f90c7c2e4fb4854ab4b3", null ],
-    [ "processed", "da/dd0/a11291.html#a2de96d62297ff614fc3702bec035ce5b", null ],
-    [ "reflectResult", "da/dd0/a11291.html#add2beb55eb3313e474d947fd3eb1fc65", null ],
-    [ "scaleAura", "da/dd0/a11291.html#a89bba366b26686d41288e9b2e725eb75", null ],
-    [ "targetGUID", "da/dd0/a11291.html#acf55c1dd6f00c94296c592d988f959cf", null ],
-    [ "timeDelay", "da/dd0/a11291.html#abcf1acd0c3d50c2264253dc9c052795a", null ]
+    [ "SpellValue", "da/dd0/a11291.html#a2aebedc86822634a0a80de7a4c16dd7f", null ],
+    [ "AuraDuration", "da/dd0/a11291.html#af44c190ba8a8636d78f8d271656bdd02", null ],
+    [ "AuraStackAmount", "da/dd0/a11291.html#af9d7a902bd7d6a24f2ef9480e725d8e8", null ],
+    [ "EffectBasePoints", "da/dd0/a11291.html#a4de44adea4dc620f0871215e4d4f611d", null ],
+    [ "ForcedCritResult", "da/dd0/a11291.html#a14f0fd1b3351297e5c71e34e0c9a44fb", null ],
+    [ "MaxAffectedTargets", "da/dd0/a11291.html#a69ea555bb8ae6642a0c9c85b3f9b373c", null ],
+    [ "MiscVal", "da/dd0/a11291.html#af81b9a29e521e28a4e88b8677f05a93f", null ],
+    [ "RadiusMod", "da/dd0/a11291.html#a135bbce8300101411e87a70467dbbd57", null ]
 ];

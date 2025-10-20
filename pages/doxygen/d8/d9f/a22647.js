@@ -1,5 +1,6 @@
 var a22647 =
 [
-    [ "achievement_wg_within_our_grasp", "d8/d9f/a22647.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "d8/d9f/a22647.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "npc_drakuru_shacklesAI", "d2/d4d/a22651.html", "d2/d4d/a22651" ],
+    [ "npc_drakuru_shackles", "d8/d9f/a22647.html#a2b15a214b34d86597cba09b17654e4ff", null ],
+    [ "GetAI", "d8/d9f/a22647.html#a90ce98de4630771858cd3b79264a28f9", null ]
 ];

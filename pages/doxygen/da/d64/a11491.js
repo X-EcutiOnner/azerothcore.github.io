@@ -1,6 +1,6 @@
 var a11491 =
 [
-    [ "EffectBase", "da/d64/a11491.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
-    [ "CheckEffect", "da/d64/a11491.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
-    [ "ToString", "da/d64/a11491.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
+    [ "CheckAreaTargetHandler", "da/d64/a11491.html#a641b633e37079949c8b1b71a32f4222e", null ],
+    [ "Call", "da/d64/a11491.html#ab434cb7ba8927c16e2b63c2ad8ae9a25", null ],
+    [ "pHandlerScript", "da/d64/a11491.html#a7c1e677d10a89ea7f1ea06f8de10e0f9", null ]
 ];

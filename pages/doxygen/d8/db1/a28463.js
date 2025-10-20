@@ -1,6 +1,4 @@
 var a28463 =
 [
-    [ "Id", "d8/db1/a28463.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
-    [ "SpellId", "d8/db1/a28463.html#ae8c119bacf706916f331d3f316fb1347", null ],
-    [ "TypeFlags", "d8/db1/a28463.html#aae92871758e9a738a888cacf0946f16b", null ]
+    [ "base", "d8/db1/a28463.html#ad5e8b55760b9007284e8acf719d7647c", null ]
 ];

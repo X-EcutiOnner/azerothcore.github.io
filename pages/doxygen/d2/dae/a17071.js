@@ -1,6 +1,6 @@
 var a17071 =
 [
-    [ "npc_phantom_mageAI", "df/dd7/a17075.html", "df/dd7/a17075" ],
-    [ "npc_phantom_mage", "d2/dae/a17071.html#ad57414231c40917bf55d6155fa9c05db", null ],
-    [ "GetAI", "d2/dae/a17071.html#ae2134b8be3052da659390bde7c2aac2e", null ]
+    [ "npc_ghostly_priestAI", "df/dd7/a17075.html", "df/dd7/a17075" ],
+    [ "npc_ghostly_priest", "d2/dae/a17071.html#a7c03bb327cfc65f4df515969da482ddb", null ],
+    [ "GetAI", "d2/dae/a17071.html#a0fab76345c5459efcedff02123e4fc8d", null ]
 ];

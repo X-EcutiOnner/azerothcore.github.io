@@ -1,6 +1,7 @@
 var a24215 =
 [
-    [ "npc_simon_bunnyAI", "d2/d3d/a24219.html", "d2/d3d/a24219" ],
-    [ "npc_simon_bunny", "d6/dc9/a24215.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
-    [ "GetAI", "d6/dc9/a24215.html#ac0c97609916321a1599c0722803a050f", null ]
+    [ "HandleEffect", "d6/dc9/a24215.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
+    [ "PrepareSpellScript", "d6/dc9/a24215.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
+    [ "Register", "d6/dc9/a24215.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
+    [ "Validate", "d6/dc9/a24215.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
 ];

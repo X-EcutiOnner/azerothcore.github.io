@@ -1,6 +1,5 @@
 var a15567 =
 [
-    [ "npc_webbed_creatureAI", "d8/d72/a15571.html", "d8/d72/a15571" ],
-    [ "npc_webbed_creature", "d4/d40/a15567.html#ae52152939766c411e45e827e9ab52d4f", null ],
-    [ "GetAI", "d4/d40/a15567.html#a30fd53b81260b7fd6ca06881930b79e9", null ]
+    [ "go_bristlelimb_cage", "d4/d40/a15567.html#ab965b9c529577a5e58639285fa35d3d7", null ],
+    [ "OnGossipHello", "d4/d40/a15567.html#a6f29e07550767c1c0610f46e4921503f", null ]
 ];

@@ -1,8 +1,9 @@
 var a13519 =
 [
-    [ "HandleApply", "d0/d93/a13519.html#a2e07ffc92d44757fe2b074244048dbf4", null ],
-    [ "HandleRemove", "d0/d93/a13519.html#ae0d8cb63cf62e5015daa56463524aa27", null ],
-    [ "PrepareAuraScript", "d0/d93/a13519.html#a4a59bd5c9ce7b74d29cdd6132f94c0bf", null ],
-    [ "Register", "d0/d93/a13519.html#a3b91d692ad34b7ce965887590780e146", null ],
-    [ "Validate", "d0/d93/a13519.html#aa3ee5b49e9e1009d5be34214eefd2a6d", null ]
+    [ "npc_demonic_vapor_trail", "d0/d93/a13519.html#a5bd024ea050372e982a183da59b45904", null ],
+    [ "JustSummoned", "d0/d93/a13519.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
+    [ "Reset", "d0/d93/a13519.html#a9da762ab640abfaf5092034f284239af", null ],
+    [ "SpellHitTarget", "d0/d93/a13519.html#a21e2223f58156da2fbe1803554623ecd", null ],
+    [ "UpdateAI", "d0/d93/a13519.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
+    [ "_timer", "d0/d93/a13519.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
 ];

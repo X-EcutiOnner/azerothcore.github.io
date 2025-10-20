@@ -1,7 +1,8 @@
 var a22123 =
 [
-    [ "OnRemove", "d9/d5e/a22123.html#a335bc64860227122e0536f61144e2003", null ],
-    [ "PrepareAuraScript", "d9/d5e/a22123.html#ae38bdeb74493f73bed1246c011bb2076", null ],
-    [ "Register", "d9/d5e/a22123.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
-    [ "Validate", "d9/d5e/a22123.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
+    [ "npc_ravenous_worgAI", "d9/d5e/a22123.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "d9/d5e/a22123.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "d9/d5e/a22123.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "d9/d5e/a22123.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "d9/d5e/a22123.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

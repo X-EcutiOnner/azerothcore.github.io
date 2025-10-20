@@ -1,7 +1,6 @@
 var a22263 =
 [
-    [ "npc_rodin_lightning_enabler", "d9/d7f/a22263.html#ae014b208af7664acd2147663d9338583", null ],
-    [ "Reset", "d9/d7f/a22263.html#ac3ff539380f8fdd5827c6868815b39cc", null ],
-    [ "UpdateAI", "d9/d7f/a22263.html#a5f900d97eec245bf3c27cde5c78b71e3", null ],
-    [ "_scheduler", "d9/d7f/a22263.html#a06434f538bd89d429a329bbd24e5fcdf", null ]
+    [ "npc_llod_genericAI", "d4/d47/a22267.html", "d4/d47/a22267" ],
+    [ "npc_llod_generic", "d9/d7f/a22263.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
+    [ "GetAI", "d9/d7f/a22263.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
 ];

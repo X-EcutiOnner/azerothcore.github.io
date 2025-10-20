@@ -1,11 +1,12 @@
 var a17115 =
 [
-    [ "boss_frostsworn_generalAI", "d1/dfe/a17115.html#afd3e486cd9a0ac18d10675f40f7f6314", null ],
-    [ "EnterEvadeMode", "d1/dfe/a17115.html#a4f45facb49cb5c1a8b0565e87dccf50e", null ],
-    [ "JustDied", "d1/dfe/a17115.html#ac2653a5664c87045df16f2fdcf850edf", null ],
-    [ "JustEngagedWith", "d1/dfe/a17115.html#a64f2b0426491f1471c8cf653e94a2fa2", null ],
-    [ "Reset", "d1/dfe/a17115.html#a8333b3f2637f029de4182ca16e2fb634", null ],
-    [ "UpdateAI", "d1/dfe/a17115.html#aea65a8fab859db4396690d846d10f5a1", null ],
-    [ "events", "d1/dfe/a17115.html#a4e5c714486cdba1fc4a6db609d8b6a97", null ],
-    [ "pInstance", "d1/dfe/a17115.html#a01cc3db24e03600501b9980aa966ad7d", null ]
+    [ "npc_tortured_riflemanAI", "d1/dfe/a17115.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
+    [ "AttackStart", "d1/dfe/a17115.html#aaf2b73d0b60791f887207842580d91dc", null ],
+    [ "DoAction", "d1/dfe/a17115.html#acb941c20d911a567c93bb0f92105fdfd", null ],
+    [ "EnterEvadeMode", "d1/dfe/a17115.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
+    [ "JustDied", "d1/dfe/a17115.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
+    [ "JustEngagedWith", "d1/dfe/a17115.html#ac5d8f17c48269da06c14643e82c88567", null ],
+    [ "Reset", "d1/dfe/a17115.html#a04f9c7056e063d436df66f079127d1a7", null ],
+    [ "UpdateAI", "d1/dfe/a17115.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
+    [ "events", "d1/dfe/a17115.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
 ];

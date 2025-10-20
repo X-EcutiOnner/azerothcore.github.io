@@ -1,6 +1,6 @@
 var a19767 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "d1/d2b/a19771.html", "d1/d2b/a19771" ],
-    [ "instance_halls_of_lightning", "d8/d0d/a19767.html#a24395866efe2c7d1f7727be2557a8b46", null ],
-    [ "GetInstanceScript", "d8/d0d/a19767.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
+    [ "boss_maiden_of_griefAI", "d1/d2b/a19771.html", "d1/d2b/a19771" ],
+    [ "boss_maiden_of_grief", "d8/d0d/a19767.html#a8361e4961ac1da09b803ca9e7fc67f95", null ],
+    [ "GetAI", "d8/d0d/a19767.html#af8d2e6392a0c73add801910945b2558e", null ]
 ];

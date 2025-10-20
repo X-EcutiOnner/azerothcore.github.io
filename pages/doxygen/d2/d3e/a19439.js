@@ -1,6 +1,6 @@
 var a19439 =
 [
-    [ "npc_vortex_rideAI", "dc/d49/a19443.html", "dc/d49/a19443" ],
-    [ "npc_vortex_ride", "d2/d3e/a19439.html#ad794cda407c9dfc35dd9bc2724f5014a", null ],
-    [ "GetAI", "d2/d3e/a19439.html#a23ef53feb432127db2620810a55d02ff", null ]
+    [ "boss_malygosAI", "dc/d49/a19443.html", "dc/d49/a19443" ],
+    [ "boss_malygos", "d2/d3e/a19439.html#aeac3c63d4ccd2947a6f7e4c007dc6aa1", null ],
+    [ "GetAI", "d2/d3e/a19439.html#a9e1d821311fa8b92318a99ea79ddb1e3", null ]
 ];

@@ -1,7 +1,8 @@
 var a25955 =
 [
-    [ "HandleProc", "db/ded/a25955.html#aee71de2c7f718a443dd48ed649c72a2f", null ],
-    [ "PrepareAuraScript", "db/ded/a25955.html#a7ba07407ce43ea4bfb03bc232ed409e3", null ],
-    [ "Register", "db/ded/a25955.html#ad907078d049340da77dcfd25a312e32b", null ],
-    [ "Validate", "db/ded/a25955.html#ad9987f6b17c9522be954a1b75aed1fc5", null ]
+    [ "CheckProc", "db/ded/a25955.html#a2e83dd62bfcbe23e38b62e8299a52ee5", null ],
+    [ "HandleProc", "db/ded/a25955.html#a1d45afc30c8dd6de0a01285778117033", null ],
+    [ "PrepareAuraScript", "db/ded/a25955.html#ab468329029c4bc3c16475585b3451615", null ],
+    [ "Register", "db/ded/a25955.html#a37700b8597a3945d30700c5e8b60404a", null ],
+    [ "Validate", "db/ded/a25955.html#a30e57e0b04e16a4a232c6a18801fafa0", null ]
 ];

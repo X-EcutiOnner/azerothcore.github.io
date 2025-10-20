@@ -1,7 +1,10 @@
 var a13795 =
 [
-    [ "npc_ranger_lilatha", "d1/d3b/a13795.html#abd13a89b41a289edefb9bc21588f8d29", null ],
-    [ "Reset", "d1/d3b/a13795.html#a3e804e483b51961193ee1079caba40be", null ],
-    [ "sQuestAccept", "d1/d3b/a13795.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
-    [ "WaypointReached", "d1/d3b/a13795.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
+    [ "npc_partygoer_pather", "d1/d3b/a13795.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
+    [ "Initialize", "d1/d3b/a13795.html#afb114b0587c550e39c41e131364da663", null ],
+    [ "PathEndReached", "d1/d3b/a13795.html#a55833d306716ba411f96ecd024cc7c72", null ],
+    [ "Reset", "d1/d3b/a13795.html#ade2cc36ff49001138eee5b607ec83b12", null ],
+    [ "UpdateAI", "d1/d3b/a13795.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
+    [ "_events", "d1/d3b/a13795.html#ac210dc0286ded980e78743237a08bb23", null ],
+    [ "_path", "d1/d3b/a13795.html#a4da184c44858e99eca2b07193fd48f13", null ]
 ];

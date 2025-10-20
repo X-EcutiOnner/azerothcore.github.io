@@ -1,13 +1,10 @@
 var a15611 =
 [
-    [ "npc_tharnarianAI", "df/d63/a15611.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
-    [ "Initialize", "df/d63/a15611.html#ad1d89491b42a56406273a04045e7e91d", null ],
-    [ "Reset", "df/d63/a15611.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
-    [ "SetGUID", "df/d63/a15611.html#a8717a30828b91853ceba1b5e62126f29", null ],
-    [ "sGossipSelect", "df/d63/a15611.html#a33b5898def48e17ba27363b98f51849b", null ],
-    [ "UpdateAI", "df/d63/a15611.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
-    [ "_bearGUID", "df/d63/a15611.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
-    [ "_events", "df/d63/a15611.html#aff73052a4b7407d760af3dde09fa8a07", null ],
-    [ "_facing", "df/d63/a15611.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
-    [ "_scriptRunning", "df/d63/a15611.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
+    [ "npc_rabid_thistle_bearAI", "df/d63/a15611.html#a7fb4b6e26dd2fe66fb3e444c260999a6", null ],
+    [ "Initialize", "df/d63/a15611.html#a466ec20c65535777c60b5c4aac4e45bd", null ],
+    [ "Reset", "df/d63/a15611.html#aedc6834fef78ad7a0e5ab99bb844ace1", null ],
+    [ "SpellHit", "df/d63/a15611.html#a62bde5a122748564cc806046bf9dcbaa", null ],
+    [ "UpdateAI", "df/d63/a15611.html#a8f6c5b873756a58760b2861bc8b86804", null ],
+    [ "_events", "df/d63/a15611.html#ad3852bf4588c453642e75fcdc544767b", null ],
+    [ "_playerGUID", "df/d63/a15611.html#ac4df0c9b8be03ce4e45fbb4efcad6892", null ]
 ];

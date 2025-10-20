@@ -1,6 +1,6 @@
 var a11535 =
 [
-    [ "AfterCheckProcHandler", "d8/dad/a11535.html#ac0a14950e90d064ffd7adc224b25f9d8", null ],
-    [ "Call", "d8/dad/a11535.html#ab2da0d87413dd7317eeaf73df17f1aaf", null ],
-    [ "_HandlerScript", "d8/dad/a11535.html#af5a393efc729e8588c0fc425fdfead99", null ]
+    [ "EffectSplitHandler", "d8/dad/a11535.html#a1e31c0f06961aba66f6737c4b4aca7f6", null ],
+    [ "Call", "d8/dad/a11535.html#ae0ef79af01cce82ed3cbe208d98b325a", null ],
+    [ "pEffectHandlerScript", "d8/dad/a11535.html#a181c0f987789f3725e7ba7e023cfc4e7", null ]
 ];

@@ -1,9 +1,6 @@
 var a17887 =
 [
-    [ "CalculatePower", "db/d4d/a17887.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
-    [ "Load", "db/d4d/a17887.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
-    [ "PrepareSpellScript", "db/d4d/a17887.html#a49489a8e4e39735efa560f53236dfc2c", null ],
-    [ "PreventPowerGainOnHit", "db/d4d/a17887.html#a5eebe6f82a6d7306d6e232b755531939", null ],
-    [ "Register", "db/d4d/a17887.html#a67b59c096848adaad5566cbc2140da59", null ],
-    [ "Validate", "db/d4d/a17887.html#a355500a6f3bfed084030738041d0e3b9", null ]
+    [ "HandlePeriodicTick", "db/d4d/a17887.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
+    [ "PrepareAuraScript", "db/d4d/a17887.html#a9962029ce4a5223d7aa05068e8d83326", null ],
+    [ "Register", "db/d4d/a17887.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
 ];

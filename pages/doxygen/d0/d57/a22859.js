@@ -1,8 +1,11 @@
 var a22859 =
 [
-    [ "boss_tavarok", "d0/d57/a22859.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
-    [ "JustDied", "d0/d57/a22859.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
-    [ "JustEngagedWith", "d0/d57/a22859.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
-    [ "KilledUnit", "d0/d57/a22859.html#a2c99df9457c548ee562fde920592ea88", null ],
-    [ "Reset", "d0/d57/a22859.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
+    [ "boss_talon_king_ikiss", "d0/d57/a22859.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "CanAIAttack", "d0/d57/a22859.html#ab4858d845f149b6333941d8f8ab59afb", null ],
+    [ "JustDied", "d0/d57/a22859.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "d0/d57/a22859.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "d0/d57/a22859.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "d0/d57/a22859.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "d0/d57/a22859.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "d0/d57/a22859.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

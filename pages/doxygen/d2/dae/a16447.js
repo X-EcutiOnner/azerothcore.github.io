@@ -1,6 +1,6 @@
 var a16447 =
 [
-    [ "npc_argent_soldierAI", "d4/d40/a16451.html", "d4/d40/a16451" ],
-    [ "npc_argent_soldier", "d2/dae/a16447.html#aa308b4cf1df6edf0666d06e0ddab0797", null ],
-    [ "GetAI", "d2/dae/a16447.html#adfeed3d533104b9617dfbb06925a3d44", null ]
+    [ "npc_memoryAI", "d4/d40/a16451.html", "d4/d40/a16451" ],
+    [ "npc_memory", "d2/dae/a16447.html#acebf31813025d323f9486d6575a60483", null ],
+    [ "GetAI", "d2/dae/a16447.html#ad8e532d029217a06d11ae39810498976", null ]
 ];

@@ -1,8 +1,10 @@
 var a25283 =
 [
-    [ "HandleScript", "d7/dcf/a25283.html#af7330c1b586b809c78e0bc080cb92c65", null ],
-    [ "Load", "d7/dcf/a25283.html#a262fc7f4bc3f1fae07f69dde765d8228", null ],
-    [ "PrepareSpellScript", "d7/dcf/a25283.html#af0fda52cff0361cf6c4a69957459ddf3", null ],
-    [ "Register", "d7/dcf/a25283.html#a41225a9f5d9304df4a02a681e8b73ff6", null ],
-    [ "Validate", "d7/dcf/a25283.html#a520341dc41dcce5fd9346e3f5ed6ee51", null ]
+    [ "Load", "d7/dcf/a25283.html#a6ae104e97dc9c0aa50e115fe1f17e161", null ],
+    [ "OnPeriodic", "d7/dcf/a25283.html#ab1dc8acb8072f70625375480742fee5e", null ],
+    [ "PrepareAuraScript", "d7/dcf/a25283.html#a2e81d03893b23aa8dc9c615683206f75", null ],
+    [ "Register", "d7/dcf/a25283.html#ac2f2c8359487ad8c619e9faf8535b927", null ],
+    [ "Validate", "d7/dcf/a25283.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d", null ],
+    [ "_applyTimes", "d7/dcf/a25283.html#a1bf9f3a1eb52bb64df59b381c412552f", null ],
+    [ "stackAmount", "d7/dcf/a25283.html#ac8d762bdb40366c93602497e9aaa42eb", null ]
 ];

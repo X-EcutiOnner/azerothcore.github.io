@@ -1,10 +1,11 @@
 var a11867 =
 [
-    [ "item_commandscript", "d3/d5c/a11867.html#a22f9cb46f2c3701fc5c9136c87c09435", null ],
-    [ "GetCommands", "d3/d5c/a11867.html#aab60aa980ef0f86938cfcb51e7ee20a8", null ],
-    [ "HandleItemMoveCommand", "d3/d5c/a11867.html#a6adae7cb08c0e69ac0a20c107f818a57", null ],
-    [ "HandleItemRefundCommand", "d3/d5c/a11867.html#af914e33be05148062abd89c754d939c9", null ],
-    [ "HandleItemRestoreCommand", "d3/d5c/a11867.html#a84c67a46c513c1aac2b9d2563d693929", null ],
-    [ "HandleItemRestoreListCommand", "d3/d5c/a11867.html#a40181310f4187a71a6f5f5f600a8f468", null ],
-    [ "HasItemDeletionConfig", "d3/d5c/a11867.html#a28d0b4083bf3352f80b6210f9ac00692", null ]
+    [ "instance_commandscript", "d3/d5c/a11867.html#a4d0b308b35a1aa21c66c8bd406ffa82f", null ],
+    [ "GetCommands", "d3/d5c/a11867.html#a092d62969c835f6bf2a08ca3e05f04d5", null ],
+    [ "HandleInstanceGetBossStateCommand", "d3/d5c/a11867.html#a0530ca6481073d6bafd11596546140b0", null ],
+    [ "HandleInstanceListBindsCommand", "d3/d5c/a11867.html#abf42411f9c78ce59b21b34691e3d4233", null ],
+    [ "HandleInstanceSaveDataCommand", "d3/d5c/a11867.html#a4b494a8b1de470612436fbb9fa433416", null ],
+    [ "HandleInstanceSetBossStateCommand", "d3/d5c/a11867.html#aec65b5af811eae2cbcf17571e9d1473b", null ],
+    [ "HandleInstanceStatsCommand", "d3/d5c/a11867.html#a9547a0a88a3bcd7407c449f3f2f25f44", null ],
+    [ "HandleInstanceUnbindCommand", "d3/d5c/a11867.html#a7abbe257b10632f2acbdd838e1f073a9", null ]
 ];

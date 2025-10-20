@@ -1,6 +1,7 @@
 var a23147 =
 [
-    [ "boss_essence_of_angerAI", "d0/d68/a23151.html", "d0/d68/a23151" ],
-    [ "boss_essence_of_anger", "de/dc6/a23147.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
-    [ "GetAI", "de/dc6/a23147.html#a70a460f31b7f878e532b695ca822ab5d", null ]
+    [ "CalculateAmount", "de/dc6/a23147.html#adad1c8a513ce8a1badbd40c291363de1", null ],
+    [ "PrepareAuraScript", "de/dc6/a23147.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
+    [ "Register", "de/dc6/a23147.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
+    [ "Update", "de/dc6/a23147.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
 ];

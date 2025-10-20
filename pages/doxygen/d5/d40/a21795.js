@@ -1,9 +1,14 @@
 var a21795 =
 [
-    [ "npc_bonker_togglevoltAI", "d5/d40/a21795.html#adfd43a6a804a35e235262e55f0155ffe", null ],
-    [ "JustDied", "d5/d40/a21795.html#a5ac6e89ad9ad3d3d69a87f7b9dc4026f", null ],
-    [ "Reset", "d5/d40/a21795.html#a13efa2a2a0c5c796b3fd9f36a54ce523", null ],
-    [ "UpdateEscortAI", "d5/d40/a21795.html#a9bf17d7ec59d800955c131dbe14a31d8", null ],
-    [ "WaypointReached", "d5/d40/a21795.html#a06dc6c018d52f1cd1b2c7f76dbda3a2d", null ],
-    [ "Bonker_agro", "d5/d40/a21795.html#a395e6e14f03cb0ecfe70348cc148d7ef", null ]
+    [ "npc_hidden_cultistAI", "d5/d40/a21795.html#a970aaa2401664337147696624cc8cac4", null ],
+    [ "AttackPlayer", "d5/d40/a21795.html#a55e3b02d05f35d134fc605a13efe9018", null ],
+    [ "Initialize", "d5/d40/a21795.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
+    [ "PreScript", "d5/d40/a21795.html#a92be5361e2b28152adcca0629b286bb8", null ],
+    [ "Reset", "d5/d40/a21795.html#afe38e448d86cdf910870d72a3890ae1f", null ],
+    [ "sGossipSelect", "d5/d40/a21795.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
+    [ "UpdateAI", "d5/d40/a21795.html#a0bba4d10439d47d44ff856c7fec18595", null ],
+    [ "_emoteState", "d5/d40/a21795.html#adb4e884787dc480358c5be22d276ec49", null ],
+    [ "_events", "d5/d40/a21795.html#ab0494e33d16a43aa1426784d1882e41c", null ],
+    [ "_npcFlags", "d5/d40/a21795.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
+    [ "_playerGUID", "d5/d40/a21795.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
 ];

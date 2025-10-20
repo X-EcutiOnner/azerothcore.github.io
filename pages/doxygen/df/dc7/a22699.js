@@ -1,9 +1,13 @@
 var a22699 =
 [
-    [ "npc_crusade_recruitAI", "df/dc7/a22699.html#aa5d5e8cc4fe612fda84d971d9cee987f", null ],
-    [ "Reset", "df/dc7/a22699.html#a183360b99ecbd784b4dabbf5158f59d1", null ],
-    [ "sGossipSelect", "df/dc7/a22699.html#ab7bfdc4cc8c86645174ac154ee5db541", null ],
-    [ "UpdateAI", "df/dc7/a22699.html#a0b4dad62e1adf04013d8fbcefe310400", null ],
-    [ "_events", "df/dc7/a22699.html#a32060a04ba73fbf9ae2df8417e826ce9", null ],
-    [ "_heading", "df/dc7/a22699.html#a6e260a6e085962d54b765bff4cb17963", null ]
+    [ "OPvPCapturePointEP_CGT", "df/dc7/a22699.html#a82d8e9bff56eed1870b098dcf21f77cd", null ],
+    [ "ChangeState", "df/dc7/a22699.html#ab9d32c9a60bbdca9fc54d7e0b2bf8a5d", null ],
+    [ "FillInitialWorldStates", "df/dc7/a22699.html#ae7d57fe449bb38de013b18ecf2f9f07c", null ],
+    [ "HandlePlayerEnter", "df/dc7/a22699.html#a48cb29473f25ed9b469c7ff54acc9d88", null ],
+    [ "HandlePlayerLeave", "df/dc7/a22699.html#ad1886046ecf8c382e1fd0e01d6394614", null ],
+    [ "LinkGraveyard", "df/dc7/a22699.html#ada14179a31fb6235b7882a190dc96c40", null ],
+    [ "SendChangePhase", "df/dc7/a22699.html#a30d9f8701dd6a78740f7df0d2c7ceb9d", null ],
+    [ "UpdateTowerState", "df/dc7/a22699.html#a764284d6143d4879b5bc003acc52048c", null ],
+    [ "m_GraveyardSide", "df/dc7/a22699.html#aaf1f8440dc891ed45857bb7d15149d9a", null ],
+    [ "m_TowerState", "df/dc7/a22699.html#a6f434f86ed97f88368e3194a3bc3183b", null ]
 ];

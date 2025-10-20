@@ -1,6 +1,6 @@
 var a17567 =
 [
-    [ "PrepareSpellScript", "d5/d87/a17567.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
-    [ "Register", "d5/d87/a17567.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
-    [ "SetDest", "d5/d87/a17567.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
+    [ "KnockIntoAir", "d5/d87/a17567.html#a1f9fb1f258613ca6657abba26969961f", null ],
+    [ "PrepareSpellScript", "d5/d87/a17567.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
+    [ "Register", "d5/d87/a17567.html#a35a7758630c1769228fedff84ad929e8", null ]
 ];

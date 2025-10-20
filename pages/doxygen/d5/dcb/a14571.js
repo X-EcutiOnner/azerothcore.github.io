@@ -1,6 +1,6 @@
 var a14571 =
 [
-    [ "HandleScript", "d5/dcb/a14571.html#a465272dc4e693ab5ce5abd5a3905283b", null ],
-    [ "PrepareSpellScript", "d5/dcb/a14571.html#a26b296c1c4d9f5193dc3773509267284", null ],
-    [ "Register", "d5/dcb/a14571.html#aad66e4079ea9404b9057546d8959a395", null ]
+    [ "HandleScript", "d5/dcb/a14571.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
+    [ "PrepareSpellScript", "d5/dcb/a14571.html#aab4303fff660c68db100e07a4423c39b", null ],
+    [ "Register", "d5/dcb/a14571.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
 ];

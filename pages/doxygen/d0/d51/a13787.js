@@ -1,10 +1,11 @@
 var a13787 =
 [
-    [ "npc_partygoer_pather", "d0/d51/a13787.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
-    [ "Initialize", "d0/d51/a13787.html#afb114b0587c550e39c41e131364da663", null ],
-    [ "PathEndReached", "d0/d51/a13787.html#a55833d306716ba411f96ecd024cc7c72", null ],
-    [ "Reset", "d0/d51/a13787.html#ade2cc36ff49001138eee5b607ec83b12", null ],
-    [ "UpdateAI", "d0/d51/a13787.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
-    [ "_events", "d0/d51/a13787.html#ac210dc0286ded980e78743237a08bb23", null ],
-    [ "_path", "d0/d51/a13787.html#a4da184c44858e99eca2b07193fd48f13", null ]
+    [ "npc_supervisor_raelen", "d0/d51/a13787.html#a2059d41f6df3a44406ab69a0dca501a4", null ],
+    [ "CallPeasent", "d0/d51/a13787.html#a0b8d661a86ec334adeb502d6936135ee", null ],
+    [ "Reset", "d0/d51/a13787.html#a656029c56da84d2d3cee7380d6032e3d", null ],
+    [ "SetData", "d0/d51/a13787.html#ab709a5a975c22556dfe71dce52a3ec2c", null ],
+    [ "UpdateAI", "d0/d51/a13787.html#a623a95d4f3ca483d1bf3dff5e06c1958", null ],
+    [ "_events", "d0/d51/a13787.html#a1ed36b07ff83a6a8a202f4a451d90190", null ],
+    [ "_PeasentId", "d0/d51/a13787.html#ae3e44b8f29f05c771137c5b9afd5da56", null ],
+    [ "peasentGUIDs", "d0/d51/a13787.html#a6e290a29c8205b22bd668f0516e8904a", null ]
 ];

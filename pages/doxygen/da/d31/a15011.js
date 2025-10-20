@@ -1,14 +1,6 @@
 var a15011 =
 [
-    [ "boss_captain_skarloc", "da/d31/a15011.html#a196477160ab6d07dc644ddadf756a1e0", null ],
-    [ "InitializeAI", "da/d31/a15011.html#a1c67fb99984f666b63f8f79c6783341d", null ],
-    [ "JustDied", "da/d31/a15011.html#aca0d536010a53efdf9270146f15f9058", null ],
-    [ "JustEngagedWith", "da/d31/a15011.html#aaa516f26cdc0ccd88f5c529a0a4252d4", null ],
-    [ "JustSummoned", "da/d31/a15011.html#a5f5f08ab00d18bece28dde7490e52af8", null ],
-    [ "KilledUnit", "da/d31/a15011.html#a1ead95b7cf3c4fb5b36be083e852aa21", null ],
-    [ "MovementInform", "da/d31/a15011.html#a8e16d85ca8e41bc1cb7ac749dfaea075", null ],
-    [ "Reset", "da/d31/a15011.html#a73b728cd24c8cb124f93c0e637bc8a11", null ],
-    [ "UpdateAI", "da/d31/a15011.html#aa1a9d9e781f1bc2394e2ebf879fdf196", null ],
-    [ "_spawnedAdds", "da/d31/a15011.html#ad69432da4a5beb5fcc8bbac155608a87", null ],
-    [ "summons", "da/d31/a15011.html#a83a9e5971411de1c136cbad91f73f487", null ]
+    [ "instance_culling_of_stratholme_InstanceMapScript", "d8/d2a/a15015.html", "d8/d2a/a15015" ],
+    [ "instance_culling_of_stratholme", "da/d31/a15011.html#a0b07e751032e15e7fcf2f86bf29a39be", null ],
+    [ "GetInstanceScript", "da/d31/a15011.html#ad8cbcb198666d44d79d6255d066c8315", null ]
 ];

@@ -1,9 +1,9 @@
 var a24779 =
 [
-    [ "HandleAfterHit", "d2/d8f/a24779.html#ae1b4b01bd1a6903bcd594d2191e2770b", null ],
-    [ "Load", "d2/d8f/a24779.html#a7f0dae9dd4ead6ea10e8343810671282", null ],
-    [ "PrepareSpellScript", "d2/d8f/a24779.html#a293ff5d232851bce7cbc4a83aa8253b5", null ],
-    [ "Register", "d2/d8f/a24779.html#ae9eeb78d006bc01dd05fdd726dea9b90", null ],
-    [ "Validate", "d2/d8f/a24779.html#afdbb71f81aacc9ac1a5119707952ec52", null ],
-    [ "_executed", "d2/d8f/a24779.html#a2fe77cc280a5fa3bb324d969f1081b65", null ]
+    [ "CheckCast", "d2/d8f/a24779.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
+    [ "EntryCheck", "d2/d8f/a24779.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
+    [ "HandleBaseDummy", "d2/d8f/a24779.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
+    [ "HandleDummy", "d2/d8f/a24779.html#a34d9f5699f306b27830ced2129be506c", null ],
+    [ "PrepareSpellScript", "d2/d8f/a24779.html#af7aff878540dd34138aa479f532611b6", null ],
+    [ "Register", "d2/d8f/a24779.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
 ];

@@ -1,7 +1,7 @@
 var a00107 =
 [
-    [ "AuraApplication", "d2/dbf/a11255.html", "d2/dbf/a11255" ],
-    [ "Aura", "d7/df2/a11259.html", "d7/df2/a11259" ],
-    [ "UnitAura", "df/d00/a11263.html", "df/d00/a11263" ],
-    [ "DynObjAura", "d5/d9a/a11267.html", "d5/d9a/a11267" ]
+    [ "AuraApplication", "df/d00/a11263.html", "df/d00/a11263" ],
+    [ "Aura", "d5/d9a/a11267.html", "d5/d9a/a11267" ],
+    [ "UnitAura", "d2/d2e/a11271.html", "d2/d2e/a11271" ],
+    [ "DynObjAura", "d2/d26/a11275.html", "d2/d26/a11275" ]
 ];

@@ -1,9 +1,14 @@
 var a11827 =
 [
-    [ "event_commandscript", "df/d87/a11827.html#a160db0ad8874b0834ef863043b1796ae", null ],
-    [ "GetCommands", "df/d87/a11827.html#aac32a7f3d2d11dc73dfa3e9f8224560e", null ],
-    [ "HandleEventActiveListCommand", "df/d87/a11827.html#a6752be35103bb585984083a449c85714", null ],
-    [ "HandleEventInfoCommand", "df/d87/a11827.html#a1f0815bccd6cef61826ada4e349708d9", null ],
-    [ "HandleEventStartCommand", "df/d87/a11827.html#ad46dbd8892db3548d889d4127461c8e3", null ],
-    [ "HandleEventStopCommand", "df/d87/a11827.html#a1322b3206a1846dc0404a3fb5c74e025", null ]
+    [ "deserter_commandscript", "df/d87/a11827.html#aebaaf99b9c5959f3f3418e13e252fb95", null ],
+    [ "GetCommands", "df/d87/a11827.html#ab5b48b9dde89c9215c51560f26324649", null ],
+    [ "HandleDeserterAdd", "df/d87/a11827.html#abe8c428ec09d341bb9f49882b7c071e2", null ],
+    [ "HandleDeserterBGAdd", "df/d87/a11827.html#a11fba09d369e7244244887947a91369e", null ],
+    [ "HandleDeserterBGRemove", "df/d87/a11827.html#a9bf4e146ef0f4f0cb2508c4953f8a647", null ],
+    [ "HandleDeserterBGRemoveAll", "df/d87/a11827.html#a419d404315e91b6cac1bfd3ac225a8fd", null ],
+    [ "HandleDeserterInstanceAdd", "df/d87/a11827.html#aabd2b23e2dc61fac10890077b41d8179", null ],
+    [ "HandleDeserterInstanceRemove", "df/d87/a11827.html#a3197e5228284ba50da7f3a31b3e76060", null ],
+    [ "HandleDeserterInstanceRemoveAll", "df/d87/a11827.html#adc6ad2f406fcb58ba64d2b6fd47281e2", null ],
+    [ "HandleDeserterRemove", "df/d87/a11827.html#a210dc9a7eddede6fe976157d6b22b683", null ],
+    [ "HandleDeserterRemoveAll", "df/d87/a11827.html#a6274f79b9884586069f94137b44d89e9", null ]
 ];

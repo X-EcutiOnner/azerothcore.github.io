@@ -1,7 +1,6 @@
 var a12751 =
 [
-    [ "npc_kernobeeAI", "db/dfb/a12755.html", "db/dfb/a12755" ],
-    [ "npc_kernobee", "d0/d7d/a12751.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
-    [ "GetAI", "d0/d7d/a12751.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
-    [ "OnQuestAccept", "d0/d7d/a12751.html#aa830285cf19211b8233620257735ab62", null ]
+    [ "instance_gnomeregan_InstanceMapScript", "db/dfb/a12755.html", "db/dfb/a12755" ],
+    [ "instance_gnomeregan", "d0/d7d/a12751.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
+    [ "GetInstanceScript", "d0/d7d/a12751.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
 ];

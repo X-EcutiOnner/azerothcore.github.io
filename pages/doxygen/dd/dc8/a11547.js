@@ -1,7 +1,6 @@
 var a11547 =
 [
-    [ "ScriptStateStore", "dd/dc8/a11547.html#a51baffee5c9dbf255591db8ea13ee516", null ],
-    [ "_auraApplication", "dd/dc8/a11547.html#af5098bcedac048808e11bf2f82d705a7", null ],
-    [ "_currentScriptState", "dd/dc8/a11547.html#adddf594d9468b16455da6e2aef683d44", null ],
-    [ "_defaultActionPrevented", "dd/dc8/a11547.html#a63cf373d469af72bc96a3e72351e3256", null ]
+    [ "AuraProcHandler", "dd/dc8/a11547.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
+    [ "Call", "dd/dc8/a11547.html#abc0c3be9dee08e995c282f20900f3c46", null ],
+    [ "_HandlerScript", "dd/dc8/a11547.html#ada8d7a5659598b0092739a91ba2653bd", null ]
 ];

@@ -1,6 +1,6 @@
 var a12295 =
 [
-    [ "boss_solakar_flamewreathAI", "d8/d4c/a12299.html", "d8/d4c/a12299" ],
-    [ "boss_solakar_flamewreath", "d7/d69/a12295.html#a0d5a9f9525303014e72cd98d45bf302f", null ],
-    [ "GetAI", "d7/d69/a12295.html#a0bd7971406392f15f68828ed217f4d06", null ]
+    [ "npc_rookery_hatcherAI", "d8/d4c/a12299.html", "d8/d4c/a12299" ],
+    [ "npc_rookery_hatcher", "d7/d69/a12295.html#aa385f8a93384d4db9b92eecd1b152ce0", null ],
+    [ "GetAI", "d7/d69/a12295.html#a76e27f10dd58ec15a8e8f9d579f1c176", null ]
 ];

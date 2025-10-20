@@ -1,7 +1,6 @@
 var a14967 =
 [
-    [ "OnRemove", "dc/dee/a14967.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
-    [ "PrepareAuraScript", "dc/dee/a14967.html#ab082adc51983f124d0467cbff63cffb7", null ],
-    [ "Register", "dc/dee/a14967.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
-    [ "Validate", "dc/dee/a14967.html#a73421b82f483e73314dbb862fb0a11c7", null ]
+    [ "boss_salrammAI", "d4/d4b/a14971.html", "d4/d4b/a14971" ],
+    [ "boss_salramm", "dc/dee/a14967.html#a62c629a03f0c7ca7f3bf14b5209342d1", null ],
+    [ "GetAI", "dc/dee/a14967.html#ab6b400f0d329d4def074d012de47f53d", null ]
 ];

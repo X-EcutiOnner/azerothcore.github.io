@@ -1,28 +1,7 @@
 var a12535 =
 [
-    [ "instance_blackwing_lair_InstanceMapScript", "da/dec/a12535.html#a9cf94352442fc16d348cf4d422410fe1", null ],
-    [ "CheckRequiredBosses", "da/dec/a12535.html#a182101e5a87320126812527c7a9d5284", null ],
-    [ "GetData", "da/dec/a12535.html#a9a03ee3eece1b15d547f64ab5070c30b", null ],
-    [ "GetGuidData", "da/dec/a12535.html#a50ef4d022d7001fa9eada56af5e35649", null ],
-    [ "Initialize", "da/dec/a12535.html#a045d3f8f41da01e70a04975d9cc7caca", null ],
-    [ "OnCreatureCreate", "da/dec/a12535.html#ab65352275d06c7d5b7f1e15c0dffb4db", null ],
-    [ "OnGameObjectCreate", "da/dec/a12535.html#a4127b0f7b3307ae74386d48218a7a04f", null ],
-    [ "OnGameObjectRemove", "da/dec/a12535.html#a18d50b6c508ac265785cebc0ef71e2c2", null ],
-    [ "OnUnitDeath", "da/dec/a12535.html#a765e061b6e9c989443c23d44b07f7962", null ],
-    [ "ReadSaveDataMore", "da/dec/a12535.html#a90ef90e7bcf2d6578c0a22b9443fa64e", null ],
-    [ "SetBossState", "da/dec/a12535.html#ac811176530020d9a175c6658353f2a71", null ],
-    [ "SetData", "da/dec/a12535.html#ae25b1640368ec23e1b460becb6a1c6c1", null ],
-    [ "Update", "da/dec/a12535.html#a22c7a6191db476b53def56710c429049", null ],
-    [ "WriteSaveDataMore", "da/dec/a12535.html#a931bef98e77201e130d8f89ad5b27486", null ],
-    [ "_events", "da/dec/a12535.html#a7ae6c97f0e29c47f0fa5694d99e11cc8", null ],
-    [ "addsCount", "da/dec/a12535.html#a4472694b3e10a52fa69a399ea716e349", null ],
-    [ "EggCount", "da/dec/a12535.html#a2d77ac46e819402980f16d2e2d7abafe", null ],
-    [ "EggEvent", "da/dec/a12535.html#abf892481c634ac48009ec366e8410e3c", null ],
-    [ "EggList", "da/dec/a12535.html#a69e6b9ddb34e398f1b93adde1d422288", null ],
-    [ "guardList", "da/dec/a12535.html#a25502eb6ebe27e24b8311e4518466445", null ],
-    [ "nefarianDoorGUID", "da/dec/a12535.html#aa2aceddb53255eb977446cc76ec7f201", null ],
-    [ "nefarianGUID", "da/dec/a12535.html#ab72e14e96cb291310d8284c02d14a855", null ],
-    [ "NefarianLeftTunnel", "da/dec/a12535.html#a946bb26f4db468867efe40f26c77064b", null ],
-    [ "NefarianRightTunnel", "da/dec/a12535.html#a0136578bdcea8c39163b7813f359e1c8", null ],
-    [ "razorgoreGUID", "da/dec/a12535.html#aa7aec41b51c994602d75c38e4e51f2d4", null ]
+    [ "HandleRemove", "da/dec/a12535.html#a754b44b62c131e20e1be94b3407e2006", null ],
+    [ "PrepareAuraScript", "da/dec/a12535.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
+    [ "Register", "da/dec/a12535.html#a02cd375ec140f7614104b7e56df13430", null ],
+    [ "Validate", "da/dec/a12535.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
 ];

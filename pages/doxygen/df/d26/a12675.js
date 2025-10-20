@@ -1,6 +1,7 @@
 var a12675 =
 [
-    [ "boss_shazzrahAI", "df/d26/a12675.html#a984b3d32d5f231a019f2c0f1bb027907", null ],
-    [ "ExecuteEvent", "df/d26/a12675.html#a0f6e3e6876b9b769ea53db5c9028c6ff", null ],
-    [ "JustEngagedWith", "df/d26/a12675.html#aaa8111d42cacd58f767513026976668c", null ]
+    [ "HandleScript", "df/d26/a12675.html#aa6a02fd6ac2fe27588cb17377e63125f", null ],
+    [ "PrepareSpellScript", "df/d26/a12675.html#a8d200122bafb943ccb6aa1bd86a1d227", null ],
+    [ "Register", "df/d26/a12675.html#ab1ee3baa1bd7341660bcc7a10978aff3", null ],
+    [ "Validate", "df/d26/a12675.html#a931be0e5aa4b54e646a3ed3ade135423", null ]
 ];

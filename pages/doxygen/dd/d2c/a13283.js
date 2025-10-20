@@ -1,6 +1,6 @@
 var a13283 =
 [
-    [ "npc_risen_guardianAI", "d1/d98/a13287.html", "d1/d98/a13287" ],
-    [ "npc_risen_guardian", "dd/d2c/a13283.html#a472274c69abe912f5781c60911204eb5", null ],
-    [ "GetAI", "dd/d2c/a13283.html#a568f57a442adcd64c8c3d2e4d5df729f", null ]
+    [ "boss_darkmaster_gandlingAI", "d1/d98/a13287.html", "d1/d98/a13287" ],
+    [ "boss_darkmaster_gandling", "dd/d2c/a13283.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
+    [ "GetAI", "dd/d2c/a13283.html#a21ea53862614303af31a517a53d1fbf6", null ]
 ];

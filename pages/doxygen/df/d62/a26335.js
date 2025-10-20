@@ -1,6 +1,7 @@
 var a26335 =
 [
-    [ "FilterTargets", "df/d62/a26335.html#aad5d183d0d7ea229cbfc11f751536624", null ],
-    [ "PrepareSpellScript", "df/d62/a26335.html#a68ba19142ae6eb04a2547495233700df", null ],
-    [ "Register", "df/d62/a26335.html#a22c313409438f94d29ab3e236a56c115", null ]
+    [ "HandleDummy", "df/d62/a26335.html#a82ff05f6150750ecb6ef3b5f8c40f703", null ],
+    [ "PrepareSpellScript", "df/d62/a26335.html#a6856f05f2cc25267f1d3023d3cb48dc2", null ],
+    [ "Register", "df/d62/a26335.html#adadd0254d68281ac1063bcc57574ed77", null ],
+    [ "Validate", "df/d62/a26335.html#a61923f636ad8b3d48eb2dbc6a1803527", null ]
 ];

@@ -1,6 +1,5 @@
 var a16823 =
 [
-    [ "npc_concentrated_ballAI", "d5/d11/a16827.html", "d5/d11/a16827" ],
-    [ "npc_concentrated_ball", "d9/d94/a16823.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
-    [ "GetAI", "d9/d94/a16823.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
+    [ "boss_fjolaAI", "d9/d94/a16823.html#aa46fdff841d01f28ef50aa5363082f71", null ],
+    [ "JustSummoned", "d9/d94/a16823.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
 ];

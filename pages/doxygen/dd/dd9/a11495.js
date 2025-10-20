@@ -1,6 +1,6 @@
 var a11495 =
 [
-    [ "EffectPeriodicHandler", "dd/dd9/a11495.html#aad44956783e9c044eb92065cc62e97f6", null ],
-    [ "Call", "dd/dd9/a11495.html#a938e987363972fbd58e42f19880016d8", null ],
-    [ "pEffectHandlerScript", "dd/dd9/a11495.html#a803108e6a515d2d210d8e79a9fb6ce18", null ]
+    [ "AuraDispelHandler", "dd/dd9/a11495.html#ab6e675b4db931c601b3d6aef65ae0ff6", null ],
+    [ "Call", "dd/dd9/a11495.html#a147d8a6d95f011f27600d052ef7b4000", null ],
+    [ "pHandlerScript", "dd/dd9/a11495.html#ab7dd73a36aa517354a023deb7db0cf19", null ]
 ];

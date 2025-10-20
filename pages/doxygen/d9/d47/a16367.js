@@ -1,7 +1,8 @@
 var a16367 =
 [
-    [ "TwilightCutterSelector", "d9/d47/a16367.html#accea6e932c44d083fbb4dc41c5102b3d", null ],
-    [ "operator()", "d9/d47/a16367.html#a6374425df156bdf202d53a2c73ef784c", null ],
-    [ "_caster", "d9/d47/a16367.html#a784c95ef6472e711f4200f194222d179", null ],
-    [ "_cutterCaster", "d9/d47/a16367.html#a7f713777a36a8d127c2865e4610b1288", null ]
+    [ "OnApply", "d9/d47/a16367.html#a7165da94ce589afcd24411a308802c18", null ],
+    [ "OnRemove", "d9/d47/a16367.html#a8a43050c44b4d3d5b48f4e2c6fcc0b49", null ],
+    [ "PrepareAuraScript", "d9/d47/a16367.html#ab8361bc1d2cc786b52f1fc2b7ff09527", null ],
+    [ "Register", "d9/d47/a16367.html#a0ff7bbd0dea458b15231ecf419b1c49c", null ],
+    [ "Validate", "d9/d47/a16367.html#acf29b80b7b74c3f409e1f046b8062994", null ]
 ];

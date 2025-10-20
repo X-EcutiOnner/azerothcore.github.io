@@ -1,9 +1,7 @@
 var a14247 =
 [
-    [ "npc_healing_ward", "d2/dfa/a14247.html#a3d3c35f61502d3a83cb2581119e08903", null ],
-    [ "JustEngagedWith", "d2/dfa/a14247.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
-    [ "Reset", "d2/dfa/a14247.html#a756d27a43d86c7ecde859df255c6bd62", null ],
-    [ "UpdateAI", "d2/dfa/a14247.html#a8b8635af33ce814602206064e0815520", null ],
-    [ "_instance", "d2/dfa/a14247.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
-    [ "_scheduler", "d2/dfa/a14247.html#a0c62fe945b491cab76175217a7d10c06", null ]
+    [ "HandleScriptEffect", "d2/dfa/a14247.html#ace68732d578fbaeb2b209bfded88853a", null ],
+    [ "PrepareSpellScript", "d2/dfa/a14247.html#a42a69995e8f527a383e96e2ead832f72", null ],
+    [ "Register", "d2/dfa/a14247.html#abb26c89a617bc27f8c2a1cfbb0935234", null ],
+    [ "Validate", "d2/dfa/a14247.html#a7697caf8e5390d290b353fb6a291aa10", null ]
 ];

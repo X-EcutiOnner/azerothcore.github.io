@@ -1,9 +1,5 @@
 var a27451 =
 [
-    [ "ChatLogScript", "dd/d12/a27451.html#ade8c407083cf094f0767412e7b6d7730", null ],
-    [ "OnPlayerChat", "dd/d12/a27451.html#a9dc39835aac01da34c57c420fc82790e", null ],
-    [ "OnPlayerChat", "dd/d12/a27451.html#a64e047261c3d3de22614950c6b6f6f79", null ],
-    [ "OnPlayerChat", "dd/d12/a27451.html#ac9a4dc6a35325a87c69f08f50a26750c", null ],
-    [ "OnPlayerChat", "dd/d12/a27451.html#af6e61405ba6642fa451465e27c4b47d8", null ],
-    [ "OnPlayerChat", "dd/d12/a27451.html#a9962307a0e073ee3f5e7139f059e01b8", null ]
+    [ "go_ethereum_prison", "dd/d12/a27451.html#a1872dab11a8470194ab35f87e217aa8a", null ],
+    [ "OnGossipHello", "dd/d12/a27451.html#a73479b0512ea778336fad4bd5cd9b909", null ]
 ];

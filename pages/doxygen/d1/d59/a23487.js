@@ -1,6 +1,10 @@
 var a23487 =
 [
-    [ "HandleApplyAura", "d1/d59/a23487.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "d1/d59/a23487.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "d1/d59/a23487.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "npc_frozen_core", "d1/d59/a23487.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
+    [ "DoAction", "d1/d59/a23487.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
+    [ "Initialize", "d1/d59/a23487.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
+    [ "JustDied", "d1/d59/a23487.html#a476e086b0379e0cef3a44d250b020d6a", null ],
+    [ "UpdateAI", "d1/d59/a23487.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
+    [ "_events", "d1/d59/a23487.html#a3a5efec3279644ef713722e1556a3c84", null ],
+    [ "_instance", "d1/d59/a23487.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
 ];

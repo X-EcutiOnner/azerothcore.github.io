@@ -1,8 +1,6 @@
 var a24175 =
 [
-    [ "instance_mechanar_InstanceMapScript", "d4/d10/a24175.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
-    [ "OnCreatureCreate", "d4/d10/a24175.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
-    [ "OnGameObjectCreate", "d4/d10/a24175.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
-    [ "OnGameObjectRemove", "d4/d10/a24175.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
-    [ "_pathaleonGUID", "d4/d10/a24175.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
+    [ "npc_nether_drakeAI", "d1/dce/a24179.html", "d1/dce/a24179" ],
+    [ "npc_nether_drake", "d4/d10/a24175.html#a253ec3c91857b899ea9e2c824870b760", null ],
+    [ "GetAI", "d4/d10/a24175.html#a58d269e2c73cae07bb507162b742fe8f", null ]
 ];

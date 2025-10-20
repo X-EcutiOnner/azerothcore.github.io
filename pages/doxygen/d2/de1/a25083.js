@@ -1,6 +1,5 @@
 var a25083 =
 [
-    [ "PrepareSpellScript", "d2/de1/a25083.html#acfa320b33c00883a78c3696bbbeb7eb0", null ],
-    [ "Register", "d2/de1/a25083.html#a6d251ba1e88d4349dcffa96978389a7f", null ],
-    [ "SelectTarget", "d2/de1/a25083.html#a0d95f8ad8d05d2c0b100dc10988d00c9", null ]
+    [ "PrepareSpellScript", "d2/de1/a25083.html#a2d0e411f3b4a9efed35ee34c7bf03252", null ],
+    [ "Register", "d2/de1/a25083.html#a560ff22e718e8a975a2e2dc2340da917", null ]
 ];

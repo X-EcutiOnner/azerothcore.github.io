@@ -1,10 +1,7 @@
 var a25423 =
 [
-    [ "spell_gen_summon_elemental", "da/d82/a25423.html#ae2dece3ac20afe16430e741fab909fa1", null ],
-    [ "AfterApply", "da/d82/a25423.html#a97fbc7e3f60b6aae5d9783bbd9a2415d", null ],
-    [ "AfterRemove", "da/d82/a25423.html#aeec3688e66a7e9f0207b219e9dcdb265", null ],
-    [ "PrepareAuraScript", "da/d82/a25423.html#a3ad6e5615bb080abae4e18673cd40b6d", null ],
-    [ "Register", "da/d82/a25423.html#ac364e1a3c4b5a1cfd35d8dcec0a42345", null ],
-    [ "Validate", "da/d82/a25423.html#ac2284d4f192fe402ebcf6ad75e777c2a", null ],
-    [ "_spellId", "da/d82/a25423.html#a6ac27b65f909a8c832cf3d301c8db0ce", null ]
+    [ "CalculateAmount", "da/d82/a25423.html#a074a7de6cd4d930c1f23f6398c738bad", null ],
+    [ "Load", "da/d82/a25423.html#a777803a61286e0eba31246d4771630df", null ],
+    [ "PrepareAuraScript", "da/d82/a25423.html#ab76bc3927d3ce31ae061fe8577ca25f0", null ],
+    [ "Register", "da/d82/a25423.html#a335e1629b98bfacf6e4e565b94d4991e", null ]
 ];

@@ -1,7 +1,8 @@
 var a13599 =
 [
-    [ "HandleSchoolDamage", "d3/d7d/a13599.html#a4fee3e37f347d1dcfa84c1dc0454c9fa", null ],
-    [ "PrepareSpellScript", "d3/d7d/a13599.html#a8063f3d669e07dc0768607feb9a2f763", null ],
-    [ "Register", "d3/d7d/a13599.html#a83aad24c7111d1f68196fcb9765dcd97", null ],
-    [ "Validate", "d3/d7d/a13599.html#af90ae09274b0082bd8bd674ca43596f6", null ]
+    [ "FilterTargets", "d3/d7d/a13599.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
+    [ "HandleScriptEffect", "d3/d7d/a13599.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
+    [ "PrepareSpellScript", "d3/d7d/a13599.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
+    [ "Register", "d3/d7d/a13599.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
+    [ "Validate", "d3/d7d/a13599.html#a5493864b068de82015bc157f3d0899b3", null ]
 ];

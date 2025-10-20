@@ -1,6 +1,10 @@
 var a27031 =
 [
-    [ "HandleAuraApply", "d0/dec/a27031.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
-    [ "PrepareAuraScript", "d0/dec/a27031.html#a7596065e5ffcacf099a5984f5d940c11", null ],
-    [ "Register", "d0/dec/a27031.html#a8efa76b28dddad68fee132f37791f231", null ]
+    [ "CalculateAPAmount", "d0/dec/a27031.html#ae76d10c68df1f149f83d4247122b47a7", null ],
+    [ "CalculateResistanceAmount", "d0/dec/a27031.html#ab21a4b135dfd70963f75eff7bffbf476", null ],
+    [ "CalculateSPAmount", "d0/dec/a27031.html#a421996ca946d5b04c264718e6dd63fa9", null ],
+    [ "CalculateStatAmount", "d0/dec/a27031.html#ae695515c915f2452dccb71aeb018f3a3", null ],
+    [ "HandleEffectApply", "d0/dec/a27031.html#a207864c73e485e0db0fe47bde97d87a2", null ],
+    [ "PrepareAuraScript", "d0/dec/a27031.html#a4179be48195872410bda69cac3454812", null ],
+    [ "Register", "d0/dec/a27031.html#a94b34a7e4c36bf1336b5611e82e2dd58", null ]
 ];

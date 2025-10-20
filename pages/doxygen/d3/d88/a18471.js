@@ -1,7 +1,11 @@
 var a18471 =
 [
-    [ "OnRemove", "d3/d88/a18471.html#a106935d92ef6ba7909c57264e26b5522", null ],
-    [ "PrepareAuraScript", "d3/d88/a18471.html#a8ce8f5d4ebd4279fdfd192ba3b01b894", null ],
-    [ "Register", "d3/d88/a18471.html#a095e7530a0f2e7a76dc8bd3f75759089", null ],
-    [ "Validate", "d3/d88/a18471.html#a0b4283bdb19a4ceef505aab41c99abe8", null ]
+    [ "AddMissingStack", "d3/d88/a18471.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
+    [ "CheckAura", "d3/d88/a18471.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
+    [ "FilterTargets", "d3/d88/a18471.html#ab6c86c3680823329d5f3aad985aa316a", null ],
+    [ "Load", "d3/d88/a18471.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
+    [ "PrepareSpellScript", "d3/d88/a18471.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
+    [ "Register", "d3/d88/a18471.html#af0e6f1fc6687de1abcc1689116150088", null ],
+    [ "_hadInitialAura", "d3/d88/a18471.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
+    [ "_hadJumpingAura", "d3/d88/a18471.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
 ];

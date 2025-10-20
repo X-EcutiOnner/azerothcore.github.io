@@ -1,7 +1,9 @@
 var a12059 =
 [
-    [ "npc_rocknotAI", "d8/d39/a12063.html", "d8/d39/a12063" ],
-    [ "npc_rocknot", "d5/d27/a12059.html#a64a0cd215c1f4881948e5a49cf1b86d7", null ],
-    [ "GetAI", "d5/d27/a12059.html#ac8a90d54e9303c40f0313fda1dcfea86", null ],
-    [ "OnQuestReward", "d5/d27/a12059.html#abd8ad3d7e6dd1e557398e268409a2c98", null ]
+    [ "npc_phalanxAI", "d5/d27/a12059.html#a1a09cd0b0cf765dec20ca9c3c5bb9373", null ],
+    [ "Reset", "d5/d27/a12059.html#a41a14315d82b169528bd764335c16d52", null ],
+    [ "UpdateAI", "d5/d27/a12059.html#a78092bfb2d9b8455b5348d872afc6521", null ],
+    [ "FireballVolley_Timer", "d5/d27/a12059.html#a0e7bedf19d7a69707fcfec9cbd3649e5", null ],
+    [ "MightyBlow_Timer", "d5/d27/a12059.html#ae8fe8a7313f573e910763d5a82303e66", null ],
+    [ "ThunderClap_Timer", "d5/d27/a12059.html#ab68781dcd728e2a0d021a0d52e43fd71", null ]
 ];

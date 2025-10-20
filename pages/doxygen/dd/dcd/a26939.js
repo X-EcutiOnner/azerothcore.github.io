@@ -1,7 +1,8 @@
 var a26939 =
 [
-    [ "HandleDummy", "dd/dcd/a26939.html#a96c5064738653ce16f06634196218a88", null ],
-    [ "PrepareSpellScript", "dd/dcd/a26939.html#a2fa51a29d2c8ce74c8a4351712ccdeb9", null ],
-    [ "Register", "dd/dcd/a26939.html#a080969e035143ac8527443025dbacef2", null ],
-    [ "Validate", "dd/dcd/a26939.html#a66fd30d7cffdc7307b4c9dc821ccdf92", null ]
+    [ "CheckFireTotem", "dd/dcd/a26939.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "dd/dcd/a26939.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "dd/dcd/a26939.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "dd/dcd/a26939.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "dd/dcd/a26939.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

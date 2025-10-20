@@ -1,5 +1,6 @@
 var a20059 =
 [
-    [ "achievement_auriaya_crazy_cat_lady", "d4/dcf/a20059.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
-    [ "OnCheck", "d4/dcf/a20059.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
+    [ "boss_flame_leviathan_defense_turretAI", "d0/dab/a20063.html", "d0/dab/a20063" ],
+    [ "boss_flame_leviathan_defense_turret", "d4/dcf/a20059.html#a939c66ff6c1eb6dfdb3d93b3d0292e40", null ],
+    [ "GetAI", "d4/dcf/a20059.html#a1c3726e2b753cda18bd11d8f4ff154db", null ]
 ];

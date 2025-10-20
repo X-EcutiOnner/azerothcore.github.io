@@ -1,12 +1,11 @@
 var a13775 =
 [
-    [ "npc_cameron", "d7/d81/a13775.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
-    [ "MoveTheChildren", "d7/d81/a13775.html#a85ae436f19f69ffb853330f01ee152a0", null ],
-    [ "PathEndReached", "d7/d81/a13775.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
-    [ "sOnGameEvent", "d7/d81/a13775.html#ab22841871cfcdc926b28296a5b4e440c", null ],
-    [ "SoundPicker", "d7/d81/a13775.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
-    [ "UpdateAI", "d7/d81/a13775.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
-    [ "_childrenGUIDs", "d7/d81/a13775.html#ad260466902e8fb1a2e02998cc4549695", null ],
-    [ "_events", "d7/d81/a13775.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
-    [ "_started", "d7/d81/a13775.html#a985d0590eedde340a3923e299d4dffd8", null ]
+    [ "npc_balance_of_light_and_shadowAI", "d7/d81/a13775.html#a00cc1f78fa8fe26bf472d99a490d05ad", null ],
+    [ "CanBeSeen", "d7/d81/a13775.html#af336c2afbf6c2850679fd7d8d1f0d5e9", null ],
+    [ "JustDied", "d7/d81/a13775.html#ae862f8763614a98dae6b982414caf30a", null ],
+    [ "MovementInform", "d7/d81/a13775.html#ad426816ae3c4d5a95587787d28f57ed8", null ],
+    [ "SpellHit", "d7/d81/a13775.html#abfddfff72b63fd05673584915d647958", null ],
+    [ "UpdateAI", "d7/d81/a13775.html#a540e3c28cc36917cde0153dd372d0287", null ],
+    [ "_targetGUID", "d7/d81/a13775.html#adaf2340aa5fe7b96c8f5cacc1c8d5545", null ],
+    [ "timer", "d7/d81/a13775.html#a204e0a809e9c392f20ec900e9a90a075", null ]
 ];

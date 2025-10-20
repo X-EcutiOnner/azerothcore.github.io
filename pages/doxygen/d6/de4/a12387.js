@@ -1,7 +1,9 @@
 var a12387 =
 [
-    [ "boss_broodlordAI", "d6/de4/a12387.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
-    [ "JustDied", "d6/de4/a12387.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
-    [ "JustEngagedWith", "d6/de4/a12387.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
-    [ "UpdateAI", "d6/de4/a12387.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
+    [ "npc_vaelastrasz_the_redAI", "d6/de4/a12387.html#aa800617f887a21d8a61cac099c86faed", null ],
+    [ "IsSummonedBy", "d6/de4/a12387.html#ab0eb414e7c9385e4831c4fbc6ba1de49", null ],
+    [ "UpdateAI", "d6/de4/a12387.html#a4dd74c81dc67291ed04861cf542b0d24", null ],
+    [ "_combatEnabled", "d6/de4/a12387.html#ae82e9f70dbfd6a4a75206d358de4504e", null ],
+    [ "_events2", "d6/de4/a12387.html#aa31a968cb89f2c4bb4fde836fd600ab9", null ],
+    [ "_victorGUID", "d6/de4/a12387.html#a8a4af969b8d340d5492f89499e3e90c2", null ]
 ];

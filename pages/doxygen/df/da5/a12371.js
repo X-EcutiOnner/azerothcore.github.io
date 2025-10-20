@@ -1,6 +1,6 @@
 var a12371 =
 [
-    [ "OnEffect", "df/da5/a12371.html#a1b5999f392cec9fea4431c3f746ee034", null ],
-    [ "PrepareSpellScript", "df/da5/a12371.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
-    [ "Register", "df/da5/a12371.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
+    [ "near_scarshield_infiltrator", "df/da5/a12371.html#a38d2e75946c429b4d80b007f190406bc", null ],
+    [ "OnTrigger", "df/da5/a12371.html#aeb761433e3210ce85c1de4dab653a87c", null ],
+    [ "whisperedTargets", "df/da5/a12371.html#a5655e241d2551798a960cb6375c7df23", null ]
 ];

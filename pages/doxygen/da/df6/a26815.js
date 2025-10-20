@@ -1,6 +1,10 @@
 var a26815 =
 [
-    [ "HandleFinish", "da/df6/a26815.html#ac4c50220d86f809644e339fc578d9b4a", null ],
-    [ "PrepareSpellScript", "da/df6/a26815.html#a5a14594ed93150e34626a7e0edb8171b", null ],
-    [ "Register", "da/df6/a26815.html#a9d28a3b88d57e2f89921d59f56148f74", null ]
+    [ "CheckProc", "da/df6/a26815.html#a5971c42af47d1cc8045a130deb218a04", null ],
+    [ "HandleProc", "da/df6/a26815.html#a45aaf5afebc2fa533240fcf8233430ed", null ],
+    [ "Load", "da/df6/a26815.html#a7664b0f67c9e3b14841ed9e30447544d", null ],
+    [ "PrepareAuraScript", "da/df6/a26815.html#a291fcf1af497d1e83a31209cd01a360d", null ],
+    [ "Register", "da/df6/a26815.html#af16d0517ad07a454145da0b92c051740", null ],
+    [ "Validate", "da/df6/a26815.html#ac768a5f4738dee9ad7d885fa6136785e", null ],
+    [ "_procTargetGUID", "da/df6/a26815.html#a13976d069846f29d2f744f3f03502787", null ]
 ];

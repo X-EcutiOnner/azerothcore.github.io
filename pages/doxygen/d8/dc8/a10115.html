@@ -411,7 +411,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00116">Movement::MoveSplineFlag::done</a>, and <a class="el" href="../../#l00059">splineflags</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00636">Unit::DisableSpline()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00637">Unit::DisableSpline()</a>.</p>
 
 </div>
 </div>
@@ -475,7 +475,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  249</span>            <span class="keywordflow">return</span> <a class="code hl_enumvalue" href="../../d8/dc8/a10115.html#a6fcd01e84f328619ce1a8dbbfa8143b0a2fe334066f924cb5ee843ec6c45553d5">Result_Arrived</a>;</div>
 <div class="line"><span class="lineno">  250</span>        }</div>
 <div class="line"><span class="lineno">  251</span> </div>
-<div class="line"><span class="lineno">  252</span>        <a class="code hl_struct" href="../../d0/d5d/a05955.html">UpdateResult</a> result = <a class="code hl_enumvalue" href="../../d8/dc8/a10115.html#a6fcd01e84f328619ce1a8dbbfa8143b0a80bc65d893b8c23d148b93ddc33de8fc">Result_None</a>;</div>
+<div class="line"><span class="lineno">  252</span>        <a class="code hl_struct" href="../../d8/d33/a05959.html">UpdateResult</a> result = <a class="code hl_enumvalue" href="../../d8/dc8/a10115.html#a6fcd01e84f328619ce1a8dbbfa8143b0a80bc65d893b8c23d148b93ddc33de8fc">Result_None</a>;</div>
 <div class="line"><span class="lineno">  253</span> </div>
 <div class="line"><span class="lineno">  254</span>        <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> minimal_diff = std::min(ms_time_diff, <a class="code hl_function" href="../../d8/dc8/a10115.html#aca091ebfe9952bb677cb3adb18ee5c9b">segment_time_elapsed</a>());</div>
 <div class="line"><span class="lineno">  255</span>        <span class="keywordflow">if</span> (minimal_diff &lt; 0)</div>
@@ -513,7 +513,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  287</span>    }</div>
 <div class="ttc" id="aa04310_html_a0bf9964a3ce962c07ad3d8b5432bbbcd"><div class="ttname"><a href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a></div><div class="ttdeci">std::int32_t int32</div><div class="ttdef"><b>Definition:</b> Define.h:103</div></div>
 <div class="ttc" id="aa04547_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
-<div class="ttc" id="aa05955_html"><div class="ttname"><a href="../../d0/d5d/a05955.html">UpdateResult</a></div><div class="ttdef"><b>Definition:</b> UpdateFetcher.h:30</div></div>
+<div class="ttc" id="aa05959_html"><div class="ttname"><a href="../../d8/d33/a05959.html">UpdateResult</a></div><div class="ttdef"><b>Definition:</b> UpdateFetcher.h:30</div></div>
 <div class="ttc" id="aa10115_html_a0ab31e82d23db1da66296cafc1a356a8"><div class="ttname"><a href="../../d8/dc8/a10115.html#a0ab31e82d23db1da66296cafc1a356a8">Movement::MoveSpline::next_timestamp</a></div><div class="ttdeci">int32 next_timestamp() const</div><div class="ttdef"><b>Definition:</b> MoveSpline.h:79</div></div>
 <div class="ttc" id="aa10115_html_a313fdb89edc8e257d4f3b5d6ba12f0e5"><div class="ttname"><a href="../../d8/dc8/a10115.html#a313fdb89edc8e257d4f3b5d6ba12f0e5">Movement::MoveSpline::_Finalize</a></div><div class="ttdeci">void _Finalize()</div><div class="ttdef"><b>Definition:</b> MoveSpline.cpp:310</div></div>
 <div class="ttc" id="aa10115_html_a4c375981abbfa1ea7335cd9369fd93f6"><div class="ttname"><a href="../../d8/dc8/a10115.html#a4c375981abbfa1ea7335cd9369fd93f6">Movement::MoveSpline::Finalized</a></div><div class="ttdeci">bool Finalized() const</div><div class="ttdef"><b>Definition:</b> MoveSpline.h:116</div></div>
@@ -629,23 +629,23 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">   31</span>        <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> seg_time = <a class="code hl_variable" href="../../d8/dc8/a10115.html#a94a0255f355fadbaee5314a548a90882">spline</a>.<a class="code hl_function" href="../../d9/d28/a10151.html#aab929569bba2417387acd22f0634504d">length</a>(<a class="code hl_variable" href="../../d8/dc8/a10115.html#aac49274b3aaae247ad398b0159e7033c">point_Idx</a>, <a class="code hl_variable" href="../../d8/dc8/a10115.html#aac49274b3aaae247ad398b0159e7033c">point_Idx</a> + 1);</div>
 <div class="line"><span class="lineno">   32</span>        <span class="keywordflow">if</span> (seg_time &gt; 0)</div>
 <div class="line"><span class="lineno">   33</span>            u = (<a class="code hl_variable" href="../../d8/dc8/a10115.html#a43b26a2cb5d7047054b6bdbd35e170e1">time_passed</a> - <a class="code hl_variable" href="../../d8/dc8/a10115.html#a94a0255f355fadbaee5314a548a90882">spline</a>.<a class="code hl_function" href="../../d9/d28/a10151.html#aab929569bba2417387acd22f0634504d">length</a>(<a class="code hl_variable" href="../../d8/dc8/a10115.html#aac49274b3aaae247ad398b0159e7033c">point_Idx</a>)) / (<span class="keywordtype">float</span>)seg_time;</div>
-<div class="line"><span class="lineno">   34</span>        <a class="code hl_struct" href="../../df/d96/a24431.html">Location</a> c;</div>
+<div class="line"><span class="lineno">   34</span>        <a class="code hl_struct" href="../../d5/d1d/a24407.html">Location</a> c;</div>
 <div class="line"><span class="lineno">   35</span>        c.orientation = <a class="code hl_variable" href="../../d8/dc8/a10115.html#af5cf0a38c59f295bbf89e68e139ce687">initialOrientation</a>;</div>
 <div class="line"><span class="lineno">   36</span>        <a class="code hl_variable" href="../../d8/dc8/a10115.html#a94a0255f355fadbaee5314a548a90882">spline</a>.<a class="code hl_function" href="../../d9/d28/a10151.html#ae05046412e2825316172dc8b1cdac870">evaluate_percent</a>(<a class="code hl_variable" href="../../d8/dc8/a10115.html#aac49274b3aaae247ad398b0159e7033c">point_Idx</a>, u, c);</div>
 <div class="line"><span class="lineno">   37</span> </div>
 <div class="line"><span class="lineno">   38</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d8/dc8/a10115.html#ae4f7636760ddc72da3daeaeff76f34de">splineflags</a>.<a class="code hl_variable" href="../../d0/dc2/a10119.html#a61a40ce0b6ea77a9af8604e6ee99bbf6">animation</a>)</div>
 <div class="line"><span class="lineno">   39</span>            ;<span class="comment">// MoveSplineFlag::Animation disables falling or parabolic movement</span></div>
 <div class="line"><span class="lineno">   40</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d8/dc8/a10115.html#ae4f7636760ddc72da3daeaeff76f34de">splineflags</a>.<a class="code hl_variable" href="../../d0/dc2/a10119.html#a002f305e30b1ab1b8737396204faf06d">parabolic</a>)</div>
-<div class="line"><span class="lineno">   41</span>            <a class="code hl_function" href="../../d8/dc8/a10115.html#ad89f7f9628e36e2031fcc49c55e88f3b">computeParabolicElevation</a>(c.<a class="code hl_variable" href="../../df/d96/a24431.html#a69fc2438e52f6c0de3af13900ff38166">z</a>);</div>
+<div class="line"><span class="lineno">   41</span>            <a class="code hl_function" href="../../d8/dc8/a10115.html#ad89f7f9628e36e2031fcc49c55e88f3b">computeParabolicElevation</a>(c.<a class="code hl_variable" href="../../d5/d1d/a24407.html#a69fc2438e52f6c0de3af13900ff38166">z</a>);</div>
 <div class="line"><span class="lineno">   42</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d8/dc8/a10115.html#ae4f7636760ddc72da3daeaeff76f34de">splineflags</a>.<a class="code hl_variable" href="../../d0/dc2/a10119.html#afb2ab2e120170c78a0311f8286a93b4e">falling</a>)</div>
-<div class="line"><span class="lineno">   43</span>            <a class="code hl_function" href="../../d8/dc8/a10115.html#a46956cfbaaa2ada7a7720760f116b66a">computeFallElevation</a>(c.<a class="code hl_variable" href="../../df/d96/a24431.html#a69fc2438e52f6c0de3af13900ff38166">z</a>);</div>
+<div class="line"><span class="lineno">   43</span>            <a class="code hl_function" href="../../d8/dc8/a10115.html#a46956cfbaaa2ada7a7720760f116b66a">computeFallElevation</a>(c.<a class="code hl_variable" href="../../d5/d1d/a24407.html#a69fc2438e52f6c0de3af13900ff38166">z</a>);</div>
 <div class="line"><span class="lineno">   44</span> </div>
 <div class="line"><span class="lineno">   45</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d8/dc8/a10115.html#ae4f7636760ddc72da3daeaeff76f34de">splineflags</a>.<a class="code hl_variable" href="../../d0/dc2/a10119.html#ad4217e478ecdb5fcc3ccfc4d0dca68ce">done</a> &amp;&amp; <a class="code hl_variable" href="../../d8/dc8/a10115.html#ae4f7636760ddc72da3daeaeff76f34de">splineflags</a>.<a class="code hl_function" href="../../d0/dc2/a10119.html#a6e571ca707464ceea929767573d202fb">isFacing</a>())</div>
 <div class="line"><span class="lineno">   46</span>        {</div>
 <div class="line"><span class="lineno">   47</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d8/dc8/a10115.html#ae4f7636760ddc72da3daeaeff76f34de">splineflags</a>.<a class="code hl_variable" href="../../d0/dc2/a10119.html#a96118e89070feb1e1af37d0dcd397a11">final_angle</a>)</div>
 <div class="line"><span class="lineno">   48</span>                c.orientation = <a class="code hl_variable" href="../../d8/dc8/a10115.html#acaefd7981d82fef5f8352aca2791d9bf">facing</a>.<a class="code hl_variable" href="../../d5/ddf/a10135.html#ac56b304c2c5df7ab72c6fcbd2f845b02">angle</a>;</div>
 <div class="line"><span class="lineno">   49</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d8/dc8/a10115.html#ae4f7636760ddc72da3daeaeff76f34de">splineflags</a>.<a class="code hl_variable" href="../../d0/dc2/a10119.html#a6114527c0a5e68d0e3f049b54ec9d161">final_point</a>)</div>
-<div class="line"><span class="lineno">   50</span>                c.orientation = std::atan2(<a class="code hl_variable" href="../../d8/dc8/a10115.html#acaefd7981d82fef5f8352aca2791d9bf">facing</a>.<a class="code hl_variable" href="../../d5/ddf/a10135.html#a582c76e5c93b1256195c1a89bd2a5e41">f</a>.<a class="code hl_variable" href="../../d5/ddf/a10135.html#ad7fcfb6b1c5402a0570748d343eadfcc">y</a> - c.<a class="code hl_variable" href="../../df/d96/a24431.html#a10fbad67977d8dd3911eb629c1797684">y</a>, <a class="code hl_variable" href="../../d8/dc8/a10115.html#acaefd7981d82fef5f8352aca2791d9bf">facing</a>.<a class="code hl_variable" href="../../d5/ddf/a10135.html#a582c76e5c93b1256195c1a89bd2a5e41">f</a>.<a class="code hl_variable" href="../../d5/ddf/a10135.html#ac08687158cc0bcfbc9814b1cbbe95684">x</a> - c.<a class="code hl_variable" href="../../df/d96/a24431.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7">x</a>);</div>
+<div class="line"><span class="lineno">   50</span>                c.orientation = std::atan2(<a class="code hl_variable" href="../../d8/dc8/a10115.html#acaefd7981d82fef5f8352aca2791d9bf">facing</a>.<a class="code hl_variable" href="../../d5/ddf/a10135.html#a582c76e5c93b1256195c1a89bd2a5e41">f</a>.<a class="code hl_variable" href="../../d5/ddf/a10135.html#ad7fcfb6b1c5402a0570748d343eadfcc">y</a> - c.<a class="code hl_variable" href="../../d5/d1d/a24407.html#a10fbad67977d8dd3911eb629c1797684">y</a>, <a class="code hl_variable" href="../../d8/dc8/a10115.html#acaefd7981d82fef5f8352aca2791d9bf">facing</a>.<a class="code hl_variable" href="../../d5/ddf/a10135.html#a582c76e5c93b1256195c1a89bd2a5e41">f</a>.<a class="code hl_variable" href="../../d5/ddf/a10135.html#ac08687158cc0bcfbc9814b1cbbe95684">x</a> - c.<a class="code hl_variable" href="../../d5/d1d/a24407.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7">x</a>);</div>
 <div class="line"><span class="lineno">   51</span>            <span class="comment">//nothing to do for MoveSplineFlag::Final_Target flag</span></div>
 <div class="line"><span class="lineno">   52</span>        }</div>
 <div class="line"><span class="lineno">   53</span>        <span class="keywordflow">else</span></div>
@@ -683,14 +683,14 @@ Friends</h2></td></tr>
 <div class="ttc" id="aa10151_html_aab929569bba2417387acd22f0634504d"><div class="ttname"><a href="../../d9/d28/a10151.html#aab929569bba2417387acd22f0634504d">Movement::Spline::length</a></div><div class="ttdeci">length_type length() const</div><div class="ttdef"><b>Definition:</b> Spline.h:200</div></div>
 <div class="ttc" id="aa10151_html_ad4b8334bf969be613fdf68043b602fb1"><div class="ttname"><a href="../../d9/d28/a10151.html#ad4b8334bf969be613fdf68043b602fb1">Movement::Spline::evaluate_derivative</a></div><div class="ttdeci">void evaluate_derivative(float t, Vector3 &amp;hermite) const</div><div class="ttdef"><b>Definition:</b> SplineImpl.h:28</div></div>
 <div class="ttc" id="aa10151_html_ae05046412e2825316172dc8b1cdac870"><div class="ttname"><a href="../../d9/d28/a10151.html#ae05046412e2825316172dc8b1cdac870">Movement::Spline::evaluate_percent</a></div><div class="ttdeci">void evaluate_percent(float t, Vector3 &amp;c) const</div><div class="ttdef"><b>Definition:</b> SplineImpl.h:20</div></div>
-<div class="ttc" id="aa24431_html"><div class="ttname"><a href="../../df/d96/a24431.html">Location</a></div><div class="ttdef"><b>Definition:</b> zone_shadowmoon_valley.cpp:809</div></div>
-<div class="ttc" id="aa24431_html_a10fbad67977d8dd3911eb629c1797684"><div class="ttname"><a href="../../df/d96/a24431.html#a10fbad67977d8dd3911eb629c1797684">Location::y</a></div><div class="ttdeci">float y</div><div class="ttdef"><b>Definition:</b> zone_shadowmoon_valley.cpp:810</div></div>
-<div class="ttc" id="aa24431_html_a69fc2438e52f6c0de3af13900ff38166"><div class="ttname"><a href="../../df/d96/a24431.html#a69fc2438e52f6c0de3af13900ff38166">Location::z</a></div><div class="ttdeci">float z</div><div class="ttdef"><b>Definition:</b> zone_shadowmoon_valley.cpp:810</div></div>
-<div class="ttc" id="aa24431_html_ac81cc1119b7ac8ac70ee635f2e3d4bb7"><div class="ttname"><a href="../../df/d96/a24431.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7">Location::x</a></div><div class="ttdeci">float x</div><div class="ttdef"><b>Definition:</b> zone_shadowmoon_valley.cpp:810</div></div>
+<div class="ttc" id="aa24407_html"><div class="ttname"><a href="../../d5/d1d/a24407.html">Location</a></div><div class="ttdef"><b>Definition:</b> zone_shadowmoon_valley.cpp:809</div></div>
+<div class="ttc" id="aa24407_html_a10fbad67977d8dd3911eb629c1797684"><div class="ttname"><a href="../../d5/d1d/a24407.html#a10fbad67977d8dd3911eb629c1797684">Location::y</a></div><div class="ttdeci">float y</div><div class="ttdef"><b>Definition:</b> zone_shadowmoon_valley.cpp:810</div></div>
+<div class="ttc" id="aa24407_html_a69fc2438e52f6c0de3af13900ff38166"><div class="ttname"><a href="../../d5/d1d/a24407.html#a69fc2438e52f6c0de3af13900ff38166">Location::z</a></div><div class="ttdeci">float z</div><div class="ttdef"><b>Definition:</b> zone_shadowmoon_valley.cpp:810</div></div>
+<div class="ttc" id="aa24407_html_ac81cc1119b7ac8ac70ee635f2e3d4bb7"><div class="ttname"><a href="../../d5/d1d/a24407.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7">Location::x</a></div><div class="ttdeci">float x</div><div class="ttdef"><b>Definition:</b> zone_shadowmoon_valley.cpp:810</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00037">Movement::FacingInfo::angle</a>, <a class="el" href="../../#l00129">Movement::MoveSplineFlag::animation</a>, <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00081">computeFallElevation()</a>, <a class="el" href="../../#l00068">computeParabolicElevation()</a>, <a class="el" href="../../#l00116">Movement::MoveSplineFlag::done</a>, <a class="el" href="../../#l00028">Movement::Spline&lt; length_type &gt;::evaluate_derivative()</a>, <a class="el" href="../../#l00020">Movement::Spline&lt; length_type &gt;::evaluate_percent()</a>, <a class="el" href="../../d5/ddf/a10135.html#a582c76e5c93b1256195c1a89bd2a5e41">Movement::FacingInfo::f</a>, <a class="el" href="../../#l00055">facing</a>, <a class="el" href="../../#l00040">Movement::MoveSplineFlag::Falling</a>, <a class="el" href="../../#l00117">Movement::MoveSplineFlag::falling</a>, <a class="el" href="../../#l00125">Movement::MoveSplineFlag::final_angle</a>, <a class="el" href="../../#l00123">Movement::MoveSplineFlag::final_point</a>, <a class="el" href="../../#l00094">Movement::MoveSplineFlag::hasFlag()</a>, <a class="el" href="../../#l00093">Initialized()</a>, <a class="el" href="../../#l00066">initialOrientation</a>, <a class="el" href="../../#l00090">Movement::MoveSplineFlag::isFacing()</a>, <a class="el" href="../../#l00200">Movement::Spline&lt; length_type &gt;::length()</a>, <a class="el" href="../../#l00033">Movement::Location::orientation</a>, <a class="el" href="../../#l00045">Movement::MoveSplineFlag::OrientationFixed</a>, <a class="el" href="../../#l00135">Movement::MoveSplineFlag::orientationInversed</a>, <a class="el" href="../../#l00119">Movement::MoveSplineFlag::parabolic</a>, <a class="el" href="../../#l00068">point_Idx</a>, <a class="el" href="../../#l00053">spline</a>, <a class="el" href="../../#l00059">splineflags</a>, <a class="el" href="../../#l00061">time_passed</a>, <a class="el" href="../../#l00034">Movement::FacingInfo::x</a>, and <a class="el" href="../../#l00034">Movement::FacingInfo::y</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00059">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l00153">Movement::MoveSplineInit::Stop()</a>, and <a class="el" href="../../#l00607">Unit::UpdateSplinePosition()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00059">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l00153">Movement::MoveSplineInit::Stop()</a>, and <a class="el" href="../../#l00608">Unit::UpdateSplinePosition()</a>.</p>
 
 </div>
 </div>
@@ -746,7 +746,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00116">Finalized()</a>, <a class="el" href="../../#l00106">Movement::SplineBase::first()</a>, <a class="el" href="../../#l00117">isCyclic()</a>, <a class="el" href="../../#l00107">Movement::SplineBase::last()</a>, <a class="el" href="../../#l00068">point_Idx</a>, <a class="el" href="../../#l00069">point_Idx_offset</a>, and <a class="el" href="../../#l00053">spline</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00455">FlightPathMovementGenerator::DoUpdate()</a>, <a class="el" href="../../#l00559">SplineHandler::operator()()</a>, and <a class="el" href="../../#l00289">ToString()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00454">FlightPathMovementGenerator::DoUpdate()</a>, <a class="el" href="../../#l00560">SplineHandler::operator()()</a>, and <a class="el" href="../../#l00289">ToString()</a>.</p>
 
 </div>
 </div>
@@ -806,7 +806,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00116">Movement::SplineBase::getPoint()</a>, <a class="el" href="../../#l00093">Initialized()</a>, <a class="el" href="../../#l00107">Movement::SplineBase::last()</a>, and <a class="el" href="../../#l00053">spline</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00081">computeFallElevation()</a>, <a class="el" href="../../#l01011">MotionMaster::GetDestination()</a>, <a class="el" href="../../#l00323">CharmInfo::SaveStayPosition()</a>, and <a class="el" href="../../#l00159">Movement::PacketBuilder::WriteCreate()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00081">computeFallElevation()</a>, <a class="el" href="../../#l01008">MotionMaster::GetDestination()</a>, <a class="el" href="../../#l00323">CharmInfo::SaveStayPosition()</a>, and <a class="el" href="../../#l00159">Movement::PacketBuilder::WriteCreate()</a>.</p>
 
 </div>
 </div>
@@ -836,7 +836,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00116">Movement::MoveSplineFlag::done</a>, and <a class="el" href="../../#l00059">splineflags</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00244">_updateState()</a>, <a class="el" href="../../#l00317">currentPathIdx()</a>, <a class="el" href="../../#l00075">HomeMovementGenerator&lt; Creature &gt;::DoUpdate()</a>, <a class="el" href="../../#l00212">WaypointMovementGenerator&lt; Creature &gt;::DoUpdate()</a>, <a class="el" href="../../#l00277">RandomMovementGenerator&lt; T &gt;::DoUpdate()</a>, <a class="el" href="../../#l03482">Creature::FocusTarget()</a>, <a class="el" href="../../#l01011">MotionMaster::GetDestination()</a>, <a class="el" href="../../#l01308">WorldSession::HandleSetRaidDifficultyOpcode()</a>, <a class="el" href="../../#l19766">Unit::IsFalling()</a>, <a class="el" href="../../#l00059">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l00108">boss_captain_skarloc::MovementInform()</a>, <a class="el" href="../../#l00318">boss_razorscale::boss_razorscaleAI::MovementInform()</a>, <a class="el" href="../../#l00310">boss_alar::MovementInform()</a>, <a class="el" href="../../#l00380">npc_wild_wyrm::npc_wild_wyrmAI::MovementInform()</a>, <a class="el" href="../../#l01706">npc_hor_lich_king::npc_hor_lich_kingAI::MovementInform()</a>, <a class="el" href="../../#l01995">npc_hor_leader_second::npc_hor_leader_secondAI::MovementInform()</a>, <a class="el" href="../../#l00832">npc_freed_protodrake::npc_freed_protodrakeAI::MovementInform()</a>, <a class="el" href="../../#l00595">SmartAI::MovepointReached()</a>, <a class="el" href="../../#l00153">Movement::MoveSplineInit::Stop()</a>, <a class="el" href="../../#l16719">Unit::StopMoving()</a>, <a class="el" href="../../#l00226">EffectMovementGenerator::Update()</a>, <a class="el" href="../../#l00233">npc_escortAI::UpdateAI()</a>, <a class="el" href="../../#l00398">SmartAI::UpdatePath()</a>, <a class="el" href="../../#l00575">Unit::UpdateSplineMovement()</a>, and <a class="el" href="../../#l00507">WorldSession::VerifyMovementInfo()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00244">_updateState()</a>, <a class="el" href="../../#l00317">currentPathIdx()</a>, <a class="el" href="../../#l00073">HomeMovementGenerator&lt; Creature &gt;::DoUpdate()</a>, <a class="el" href="../../#l00211">WaypointMovementGenerator&lt; Creature &gt;::DoUpdate()</a>, <a class="el" href="../../#l00290">RandomMovementGenerator&lt; T &gt;::DoUpdate()</a>, <a class="el" href="../../#l03482">Creature::FocusTarget()</a>, <a class="el" href="../../#l01008">MotionMaster::GetDestination()</a>, <a class="el" href="../../#l01308">WorldSession::HandleSetRaidDifficultyOpcode()</a>, <a class="el" href="../../#l19764">Unit::IsFalling()</a>, <a class="el" href="../../#l00059">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l00108">boss_captain_skarloc::MovementInform()</a>, <a class="el" href="../../#l00318">boss_razorscale::boss_razorscaleAI::MovementInform()</a>, <a class="el" href="../../#l00310">boss_alar::MovementInform()</a>, <a class="el" href="../../#l00382">npc_wild_wyrm::npc_wild_wyrmAI::MovementInform()</a>, <a class="el" href="../../#l01706">npc_hor_lich_king::npc_hor_lich_kingAI::MovementInform()</a>, <a class="el" href="../../#l01995">npc_hor_leader_second::npc_hor_leader_secondAI::MovementInform()</a>, <a class="el" href="../../#l00834">npc_freed_protodrake::npc_freed_protodrakeAI::MovementInform()</a>, <a class="el" href="../../#l00586">SmartAI::MovepointReached()</a>, <a class="el" href="../../#l00153">Movement::MoveSplineInit::Stop()</a>, <a class="el" href="../../#l16717">Unit::StopMoving()</a>, <a class="el" href="../../#l00236">EffectMovementGenerator::Update()</a>, <a class="el" href="../../#l00231">npc_escortAI::UpdateAI()</a>, <a class="el" href="../../#l00390">SmartAI::UpdatePath()</a>, <a class="el" href="../../#l00576">Unit::UpdateSplineMovement()</a>, and <a class="el" href="../../#l00507">WorldSession::VerifyMovementInfo()</a>.</p>
 
 </div>
 </div>
@@ -867,7 +867,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00115">Movement::MoveSplineFlag::animId</a>, and <a class="el" href="../../#l00059">splineflags</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00575">Unit::UpdateSplineMovement()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00576">Unit::UpdateSplineMovement()</a>.</p>
 
 </div>
 </div>
@@ -897,7 +897,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00057">m_Id</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00559">SplineHandler::operator()()</a>, <a class="el" href="../../#l00289">ToString()</a>, <a class="el" href="../../#l00043">Movement::PacketBuilder::WriteCommonMonsterMovePart()</a>, and <a class="el" href="../../#l00159">Movement::PacketBuilder::WriteCreate()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00560">SplineHandler::operator()()</a>, <a class="el" href="../../#l00289">ToString()</a>, <a class="el" href="../../#l00043">Movement::PacketBuilder::WriteCommonMonsterMovePart()</a>, and <a class="el" href="../../#l00159">Movement::PacketBuilder::WriteCreate()</a>.</p>
 
 </div>
 </div>
@@ -958,7 +958,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00129">Movement::MoveSplineFlag::animation</a>, and <a class="el" href="../../#l00059">splineflags</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00575">Unit::UpdateSplineMovement()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00576">Unit::UpdateSplineMovement()</a>.</p>
 
 </div>
 </div>
@@ -990,7 +990,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00061">time_passed</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l16719">Unit::StopMoving()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l16717">Unit::StopMoving()</a>.</p>
 
 </div>
 </div>
@@ -1017,7 +1017,7 @@ Friends</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<dl class="todo"><dt><b><a class="el" href="../../df/dc6/a04793.html#_todo000108">Todo:</a></b></dt><dd>: what to do in such cases? problem is in input data (all points are at same coords) </dd></dl>
+<dl class="todo"><dt><b><a class="el" href="../../df/dc6/a04793.html#_todo000107">Todo:</a></b></dt><dd>: what to do in such cases? problem is in input data (all points are at same coords) </dd></dl>
 <div class="fragment"><div class="line"><span class="lineno">  123</span>    {</div>
 <div class="line"><span class="lineno">  124</span>        <span class="keyword">const</span> <a class="code hl_enumeration" href="../../d6/d71/a10147.html#a815f7b7cd727035f39a5d81bb3ff731a">SplineBase::EvaluationMode</a> modes[2] = {<a class="code hl_enumvalue" href="../../d6/d71/a10147.html#a815f7b7cd727035f39a5d81bb3ff731aaf7dc78a98cac10b22b94630757269e8b">SplineBase::ModeLinear</a>, <a class="code hl_enumvalue" href="../../d6/d71/a10147.html#a815f7b7cd727035f39a5d81bb3ff731aa237cadfa35c5a8a98d58ada3c2c4c903">SplineBase::ModeCatmullrom</a>};</div>
 <div class="line"><span class="lineno">  125</span>        <span class="keywordflow">if</span> (args.flags.cyclic)</div>
@@ -1152,7 +1152,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00109">Movement::SplineBase::empty()</a>, and <a class="el" href="../../#l00053">spline</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00026">ComputePosition()</a>, <a class="el" href="../../#l00121">CurrentDestination()</a>, <a class="el" href="../../#l00120">FinalDestination()</a>, <a class="el" href="../../#l19766">Unit::IsFalling()</a>, <a class="el" href="../../#l20624">Unit::SendMovementFeatherFall()</a>, <a class="el" href="../../#l20633">Unit::SendMovementHover()</a>, <a class="el" href="../../#l20615">Unit::SendMovementWaterWalking()</a>, <a class="el" href="../../#l00575">Unit::UpdateSplineMovement()</a>, and <a class="el" href="../../#l00098">updateState()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00026">ComputePosition()</a>, <a class="el" href="../../#l00121">CurrentDestination()</a>, <a class="el" href="../../#l00120">FinalDestination()</a>, <a class="el" href="../../#l19764">Unit::IsFalling()</a>, <a class="el" href="../../#l20600">Unit::SendMovementFeatherFall()</a>, <a class="el" href="../../#l20609">Unit::SendMovementHover()</a>, <a class="el" href="../../#l20591">Unit::SendMovementWaterWalking()</a>, <a class="el" href="../../#l00576">Unit::UpdateSplineMovement()</a>, and <a class="el" href="../../#l00098">updateState()</a>.</p>
 
 </div>
 </div>
@@ -1213,7 +1213,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00117">Movement::MoveSplineFlag::falling</a>, and <a class="el" href="../../#l00059">splineflags</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00231">EffectMovementGenerator::Finalize()</a>, and <a class="el" href="../../#l19766">Unit::IsFalling()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00246">EffectMovementGenerator::Finalize()</a>, and <a class="el" href="../../#l19764">Unit::IsFalling()</a>.</p>
 
 </div>
 </div>
@@ -1244,7 +1244,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00059">splineflags</a>, and <a class="el" href="../../#l00120">Movement::MoveSplineFlag::walkmode</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00523">FollowMovementGenerator&lt; T &gt;::DoUpdate()</a>, and <a class="el" href="../../#l00416">GetVelocity()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00522">FollowMovementGenerator&lt; T &gt;::DoUpdate()</a>, and <a class="el" href="../../#l00415">GetVelocity()</a>.</p>
 
 </div>
 </div>
@@ -1489,7 +1489,7 @@ template&lt;class UpdateHandler &gt; </div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00244">_updateState()</a>, <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00093">Initialized()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00575">Unit::UpdateSplineMovement()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00576">Unit::UpdateSplineMovement()</a>.</p>
 
 </div>
 </div>
@@ -1625,7 +1625,7 @@ template&lt;class UpdateHandler &gt; </div>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00059">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l00323">CharmInfo::SaveStayPosition()</a>, <a class="el" href="../../#l00153">Movement::MoveSplineInit::Stop()</a>, and <a class="el" href="../../#l00607">Unit::UpdateSplinePosition()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00059">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l00323">CharmInfo::SaveStayPosition()</a>, <a class="el" href="../../#l00153">Movement::MoveSplineInit::Stop()</a>, and <a class="el" href="../../#l00608">Unit::UpdateSplinePosition()</a>.</p>
 
 </div>
 </div>
@@ -1779,7 +1779,7 @@ template&lt;class UpdateHandler &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/dab/a04850.html">Movement</a></li><li class="navelem"><a class="el" href="../../d8/dc8/a10115.html">MoveSpline</a></li>
-    <li class="footer">Generated on Mon Oct 13 2025 20:46:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Oct 20 2025 20:48:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

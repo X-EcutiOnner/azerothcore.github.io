@@ -1,6 +1,10 @@
 var a11471 =
 [
-    [ "ObjectTargetSelectHandler", "d2/d52/a11471.html#abe96c3e266375ab64f8dec54a047a5b8", null ],
-    [ "Call", "d2/d52/a11471.html#a7e18103fb5c68b2cf85f54bf7caf4b3b", null ],
-    [ "pObjectTargetSelectHandlerScript", "d2/d52/a11471.html#a6982985537c0ddb8dd79647766c9ae70", null ]
+    [ "TargetHook", "d2/d52/a11471.html#afcada203ddd8752107c74bbf0e7c24eb", null ],
+    [ "CheckEffect", "d2/d52/a11471.html#af02ad1f1fb914aac52095d7e41f12c94", null ],
+    [ "GetTarget", "d2/d52/a11471.html#a238979ffaaa644bd65ffd4e7cb20d797", null ],
+    [ "ToString", "d2/d52/a11471.html#a424e03e457dc15a2689f344e614a882f", null ],
+    [ "area", "d2/d52/a11471.html#aceec6f0ea91d45a11233122c3bc843ed", null ],
+    [ "dest", "d2/d52/a11471.html#a28f2f6f3338a2c261ee754508ee48e60", null ],
+    [ "targetType", "d2/d52/a11471.html#aed2e0e651bdd5453d716db464ac0ab55", null ]
 ];

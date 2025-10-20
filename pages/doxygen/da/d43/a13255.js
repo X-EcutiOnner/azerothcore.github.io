@@ -1,8 +1,25 @@
 var a13255 =
 [
-    [ "HandleHit", "da/d43/a13255.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
-    [ "PrepareSpellScript", "da/d43/a13255.html#a53f170244b390f7035e131fb5c79cb3f", null ],
-    [ "Register", "da/d43/a13255.html#a248124b837cf71f7d422154db4581747", null ],
-    [ "Validate", "da/d43/a13255.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
-    [ "_emote", "da/d43/a13255.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
+    [ "npc_highlord_darion_mograineAI", "da/d43/a13255.html#a04be4c12a255c082b2a00daf40e86d96", null ],
+    [ "DoAction", "da/d43/a13255.html#a7103aa11bc2dff6942f4a4de5cd8d759", null ],
+    [ "FinishFight", "da/d43/a13255.html#ab3fef458ca3180f49d78579f7485e76c", null ],
+    [ "GetData", "da/d43/a13255.html#aa3eae106cf85eb7cb163f9780bf16b9f", null ],
+    [ "GetEntryFromSummons", "da/d43/a13255.html#a2c9e336d14667aabc3e1a8f3a99fc1e7", null ],
+    [ "JustDied", "da/d43/a13255.html#a2875789a251381677106f74e61efaa77", null ],
+    [ "JustEngagedWith", "da/d43/a13255.html#ac6ca07a76351dfc5a82b0a57fdfa08d8", null ],
+    [ "JustRespawned", "da/d43/a13255.html#a3116088116fe6b4a6b42014f7f5fb3a8", null ],
+    [ "JustSummoned", "da/d43/a13255.html#a9ddc2350ffbbf6e3ae91410da55bd326", null ],
+    [ "MovementInform", "da/d43/a13255.html#a205b7ebb74ca3be7a6a11fb2d8670288", null ],
+    [ "Reset", "da/d43/a13255.html#a7dde645763bab79e34fa7421dbec518e", null ],
+    [ "SendInitialWorldStates", "da/d43/a13255.html#ab49e38e481fcb263337f5224c1db7383", null ],
+    [ "SendUpdateWorldState", "da/d43/a13255.html#a32fed806170c3664eeb1dd2a1bfdf278", null ],
+    [ "SummonedCreatureDies", "da/d43/a13255.html#aa0935ab5c5a8a3ad41719e520703ff92", null ],
+    [ "UpdateAI", "da/d43/a13255.html#a086efd646a7298ce17f7ead4688fa022", null ],
+    [ "battleStarted", "da/d43/a13255.html#aecb7e1bdebf943e1793656f8a9c39917", null ],
+    [ "defendersRemaining", "da/d43/a13255.html#a49b41a9719548bffd2020caea7a94a3d", null ],
+    [ "events", "da/d43/a13255.html#a2155cbea373225904a3645a77738dea4", null ],
+    [ "resetExecuted", "da/d43/a13255.html#ae1431b2f46cf2ae096e7ddfb22e54a28", null ],
+    [ "scourgeRemaining", "da/d43/a13255.html#aabaa1fb49467d4dc5abf2a14ec833d15", null ],
+    [ "startTimeRemaining", "da/d43/a13255.html#a503f8e5166ec08664085ae032611de61", null ],
+    [ "summons", "da/d43/a13255.html#ae592eef844350ca8fa8415f343d8dffc", null ]
 ];

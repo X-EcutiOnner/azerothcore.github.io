@@ -1,6 +1,6 @@
 var a15507 =
 [
-    [ "npc_muglashAI", "d2/df7/a15511.html", "d2/df7/a15511" ],
-    [ "npc_muglash", "d3/d3e/a15507.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
-    [ "GetAI", "d3/d3e/a15507.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "d2/df7/a15511.html", "d2/df7/a15511" ],
+    [ "instance_wailing_caverns", "d3/d3e/a15507.html#a906f59c39f59237e9eedb479dfc7d825", null ],
+    [ "GetInstanceScript", "d3/d3e/a15507.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
 ];

@@ -1,7 +1,7 @@
 var a12431 =
 [
-    [ "boss_ebonrocAI", "d4/d4f/a12431.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
-    [ "JustEngagedWith", "d4/d4f/a12431.html#a2c74e0030b1093d79245978939043d53", null ],
-    [ "MovementInform", "d4/d4f/a12431.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
-    [ "UpdateAI", "d4/d4f/a12431.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
+    [ "HandleScript", "d4/d4f/a12431.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
+    [ "PrepareSpellScript", "d4/d4f/a12431.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
+    [ "Register", "d4/d4f/a12431.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
+    [ "Validate", "d4/d4f/a12431.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
 ];

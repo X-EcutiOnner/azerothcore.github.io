@@ -1,6 +1,6 @@
 var a25867 =
 [
-    [ "HandleProc", "d3/d77/a25867.html#a04796308cb57993dea310e0aca051c46", null ],
-    [ "PrepareAuraScript", "d3/d77/a25867.html#a1a0291eb2ca9073b0bac8dc8c7d22550", null ],
-    [ "Register", "d3/d77/a25867.html#a191d0bcc015b92a6f2481b3b5c196cab", null ]
+    [ "HandlePeriodicTick", "d3/d77/a25867.html#a058eeb1e0489340763a58d92d4bed832", null ],
+    [ "PrepareAuraScript", "d3/d77/a25867.html#a3d71859b7e7f914a395f131dd4a6b4ab", null ],
+    [ "Register", "d3/d77/a25867.html#ae5a8adc3fe7cc5c5d7dd715449d3442f", null ]
 ];

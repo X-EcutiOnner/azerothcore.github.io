@@ -1,9 +1,11 @@
 var a14831 =
 [
-    [ "npc_ancient_wisp", "d0/db5/a14831.html#a70e45e500b3490a034b058ca2ec16d39", null ],
-    [ "DamageTaken", "d0/db5/a14831.html#ad7d96e6b54cdc23a5101338474125e71", null ],
-    [ "JustEngagedWith", "d0/db5/a14831.html#a755ed852b3149ada65c5750410776fc8", null ],
-    [ "Reset", "d0/db5/a14831.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
-    [ "UpdateAI", "d0/db5/a14831.html#a51ca214de826d7126f32e49f6852bca3", null ],
-    [ "_instance", "d0/db5/a14831.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
+    [ "boss_anetheron", "d0/db5/a14831.html#a6c103caa3f137756599a75bff03a6648", null ],
+    [ "DoAction", "d0/db5/a14831.html#a2fd485de26c820fec5240f9141a09964", null ],
+    [ "JustDied", "d0/db5/a14831.html#a7c8b2039ee7e379bed8387b7236b7ee5", null ],
+    [ "JustEngagedWith", "d0/db5/a14831.html#aa34ac87ad4014fbecb481be7896c577c", null ],
+    [ "JustSummoned", "d0/db5/a14831.html#af9c156e28c7eca710d8367bd2a99387d", null ],
+    [ "KilledUnit", "d0/db5/a14831.html#a4471af823278a3664574729bf5c749be", null ],
+    [ "PathEndReached", "d0/db5/a14831.html#a75ed708e2769a77defa5c9a0b22dcae9", null ],
+    [ "_recentlySpoken", "d0/db5/a14831.html#accd9455c3b1d536ca177be6028f3503d", null ]
 ];

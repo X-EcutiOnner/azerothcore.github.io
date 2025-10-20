@@ -1,6 +1,8 @@
 var a19507 =
 [
-    [ "instance_eye_of_eternity_InstanceMapScript", "d2/df8/a19511.html", "d2/df8/a19511" ],
-    [ "instance_eye_of_eternity", "d4/d7e/a19507.html#afcab4ba969d0423871a4e398627a323d", null ],
-    [ "GetInstanceScript", "d4/d7e/a19507.html#af51319609d355fe87a77a87eb697f434", null ]
+    [ "FilterTargets", "d4/d7e/a19507.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "d4/d7e/a19507.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "d4/d7e/a19507.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "d4/d7e/a19507.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
+    [ "DrakeGUID", "d4/d7e/a19507.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
 ];

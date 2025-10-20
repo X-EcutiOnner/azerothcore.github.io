@@ -1,7 +1,6 @@
 var a27003 =
 [
-    [ "HandleDummy", "d4/dc6/a27003.html#abd35c974f5ebec4c8845c05ab4f6d309", null ],
-    [ "PrepareSpellScript", "d4/dc6/a27003.html#a99deca1c5c8631342be400cb863eefb2", null ],
-    [ "Register", "d4/dc6/a27003.html#aa5ecc51b030fe7280e824ade641216d3", null ],
-    [ "Validate", "d4/dc6/a27003.html#a731503d3769718695d109ad71160e67a", null ]
+    [ "HandleSchoolDMG", "d4/dc6/a27003.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
+    [ "PrepareSpellScript", "d4/dc6/a27003.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
+    [ "Register", "d4/dc6/a27003.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
 ];

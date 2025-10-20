@@ -229,20 +229,20 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   90</span>    owner-&gt;<a class="code hl_function" href="../../d6/d41/a08799.html#a0234fee1df2999bda3ca22449164f7b5">ClearUnitState</a>(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a076b3690797658278727cb725ffaee36">UNIT_STATE_DISTRACTED</a>);</div>
 <div class="line"><span class="lineno">   91</span> </div>
 <div class="line"><span class="lineno">   92</span>    <span class="comment">// If this is a creature, then return orientation to original position (for idle movement creatures)</span></div>
-<div class="line"><span class="lineno">   93</span>    <span class="keywordflow">if</span> (owner-&gt;<a class="code hl_function" href="../../d3/da9/a08411.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>() &amp;&amp; owner-&gt;<a class="code hl_function" href="../../d3/da9/a08411.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>())</div>
+<div class="line"><span class="lineno">   93</span>    <span class="keywordflow">if</span> (owner-&gt;<a class="code hl_function" href="../../de/d5d/a08415.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>() &amp;&amp; owner-&gt;<a class="code hl_function" href="../../de/d5d/a08415.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>())</div>
 <div class="line"><span class="lineno">   94</span>    {</div>
-<div class="line"><span class="lineno">   95</span>        <span class="keywordtype">float</span> angle = owner-&gt;<a class="code hl_function" href="../../d3/da9/a08411.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../d3/d30/a08043.html#a406ff2cf337ffe4dde864ecf85a6f54b">GetHomePosition</a>().GetOrientation();</div>
+<div class="line"><span class="lineno">   95</span>        <span class="keywordtype">float</span> angle = owner-&gt;<a class="code hl_function" href="../../de/d5d/a08415.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>()-&gt;<a class="code hl_function" href="../../df/dbd/a08047.html#a406ff2cf337ffe4dde864ecf85a6f54b">GetHomePosition</a>().GetOrientation();</div>
 <div class="line"><span class="lineno">   96</span>        owner-&gt;<a class="code hl_function" href="../../d6/d41/a08799.html#a15935c3f574e8b3e72952561c75e6faf">SetFacingTo</a>(angle);</div>
 <div class="line"><span class="lineno">   97</span>    }</div>
 <div class="line"><span class="lineno">   98</span>}</div>
 <div class="ttc" id="aa00875_html_ae51d2ecb71f7a5cb3882982a622c9544a076b3690797658278727cb725ffaee36"><div class="ttname"><a href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a076b3690797658278727cb725ffaee36">UNIT_STATE_DISTRACTED</a></div><div class="ttdeci">@ UNIT_STATE_DISTRACTED</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:182</div></div>
-<div class="ttc" id="aa08043_html_a406ff2cf337ffe4dde864ecf85a6f54b"><div class="ttname"><a href="../../d3/d30/a08043.html#a406ff2cf337ffe4dde864ecf85a6f54b">Creature::GetHomePosition</a></div><div class="ttdeci">void GetHomePosition(float &amp;x, float &amp;y, float &amp;z, float &amp;ori) const</div><div class="ttdef"><b>Definition:</b> Creature.h:342</div></div>
-<div class="ttc" id="aa08411_html_aacc8ee332f66effdc0d77c126dae1961"><div class="ttname"><a href="../../d3/da9/a08411.html#aacc8ee332f66effdc0d77c126dae1961">Object::IsCreature</a></div><div class="ttdeci">bool IsCreature() const</div><div class="ttdef"><b>Definition:</b> Object.h:205</div></div>
-<div class="ttc" id="aa08411_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../d3/da9/a08411.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition:</b> Object.h:206</div></div>
-<div class="ttc" id="aa08799_html_a0234fee1df2999bda3ca22449164f7b5"><div class="ttname"><a href="../../d6/d41/a08799.html#a0234fee1df2999bda3ca22449164f7b5">Unit::ClearUnitState</a></div><div class="ttdeci">void ClearUnitState(uint32 f)</div><div class="ttdef"><b>Definition:</b> Unit.h:699</div></div>
-<div class="ttc" id="aa08799_html_a15935c3f574e8b3e72952561c75e6faf"><div class="ttname"><a href="../../d6/d41/a08799.html#a15935c3f574e8b3e72952561c75e6faf">Unit::SetFacingTo</a></div><div class="ttdeci">void SetFacingTo(float ori)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:20353</div></div>
+<div class="ttc" id="aa08047_html_a406ff2cf337ffe4dde864ecf85a6f54b"><div class="ttname"><a href="../../df/dbd/a08047.html#a406ff2cf337ffe4dde864ecf85a6f54b">Creature::GetHomePosition</a></div><div class="ttdeci">void GetHomePosition(float &amp;x, float &amp;y, float &amp;z, float &amp;ori) const</div><div class="ttdef"><b>Definition:</b> Creature.h:342</div></div>
+<div class="ttc" id="aa08415_html_aacc8ee332f66effdc0d77c126dae1961"><div class="ttname"><a href="../../de/d5d/a08415.html#aacc8ee332f66effdc0d77c126dae1961">Object::IsCreature</a></div><div class="ttdeci">bool IsCreature() const</div><div class="ttdef"><b>Definition:</b> Object.h:205</div></div>
+<div class="ttc" id="aa08415_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../de/d5d/a08415.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition:</b> Object.h:206</div></div>
+<div class="ttc" id="aa08799_html_a0234fee1df2999bda3ca22449164f7b5"><div class="ttname"><a href="../../d6/d41/a08799.html#a0234fee1df2999bda3ca22449164f7b5">Unit::ClearUnitState</a></div><div class="ttdeci">void ClearUnitState(uint32 f)</div><div class="ttdef"><b>Definition:</b> Unit.h:700</div></div>
+<div class="ttc" id="aa08799_html_a15935c3f574e8b3e72952561c75e6faf"><div class="ttname"><a href="../../d6/d41/a08799.html#a15935c3f574e8b3e72952561c75e6faf">Unit::SetFacingTo</a></div><div class="ttdeci">void SetFacingTo(float ori)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:20333</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00699">Unit::ClearUnitState()</a>, <a class="el" href="../../#l00342">Creature::GetHomePosition()</a>, <a class="el" href="../../#l00205">Object::IsCreature()</a>, <a class="el" href="../../#l20353">Unit::SetFacingTo()</a>, <a class="el" href="../../#l00206">Object::ToCreature()</a>, and <a class="el" href="../../#l00182">UNIT_STATE_DISTRACTED</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00700">Unit::ClearUnitState()</a>, <a class="el" href="../../#l00342">Creature::GetHomePosition()</a>, <a class="el" href="../../#l00205">Object::IsCreature()</a>, <a class="el" href="../../#l20333">Unit::SetFacingTo()</a>, <a class="el" href="../../#l00206">Object::ToCreature()</a>, and <a class="el" href="../../#l00182">UNIT_STATE_DISTRACTED</a>.</p>
 
 </div>
 </div>
@@ -312,11 +312,11 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   85</span>    owner-&gt;<a class="code hl_function" href="../../d6/d41/a08799.html#a752f5f516257bfdf139098c29a55c466">AddUnitState</a>(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a076b3690797658278727cb725ffaee36">UNIT_STATE_DISTRACTED</a>);</div>
 <div class="line"><span class="lineno">   86</span>}</div>
 <div class="ttc" id="aa00875_html_a809d475cf0ffeaa1ddad86f73e24a7c1ae36b6864d89399e04b14123d3194e224"><div class="ttname"><a href="../../d1/d93/a00875.html#a809d475cf0ffeaa1ddad86f73e24a7c1ae36b6864d89399e04b14123d3194e224">UNIT_STAND_STATE_STAND</a></div><div class="ttdeci">@ UNIT_STAND_STATE_STAND</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:32</div></div>
-<div class="ttc" id="aa08799_html_a66120644adf09a45c139d48d4e4dce5b"><div class="ttname"><a href="../../d6/d41/a08799.html#a66120644adf09a45c139d48d4e4dce5b">Unit::IsStandState</a></div><div class="ttdeci">bool IsStandState() const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:16789</div></div>
-<div class="ttc" id="aa08799_html_a752f5f516257bfdf139098c29a55c466"><div class="ttname"><a href="../../d6/d41/a08799.html#a752f5f516257bfdf139098c29a55c466">Unit::AddUnitState</a></div><div class="ttdeci">void AddUnitState(uint32 f)</div><div class="ttdef"><b>Definition:</b> Unit.h:697</div></div>
-<div class="ttc" id="aa08799_html_aeae261b4b6d3ccacc8819ca19b4ef0cc"><div class="ttname"><a href="../../d6/d41/a08799.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">Unit::SetStandState</a></div><div class="ttdeci">void SetStandState(uint8 state)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:16804</div></div>
+<div class="ttc" id="aa08799_html_a66120644adf09a45c139d48d4e4dce5b"><div class="ttname"><a href="../../d6/d41/a08799.html#a66120644adf09a45c139d48d4e4dce5b">Unit::IsStandState</a></div><div class="ttdeci">bool IsStandState() const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:16787</div></div>
+<div class="ttc" id="aa08799_html_a752f5f516257bfdf139098c29a55c466"><div class="ttname"><a href="../../d6/d41/a08799.html#a752f5f516257bfdf139098c29a55c466">Unit::AddUnitState</a></div><div class="ttdeci">void AddUnitState(uint32 f)</div><div class="ttdef"><b>Definition:</b> Unit.h:698</div></div>
+<div class="ttc" id="aa08799_html_aeae261b4b6d3ccacc8819ca19b4ef0cc"><div class="ttname"><a href="../../d6/d41/a08799.html#aeae261b4b6d3ccacc8819ca19b4ef0cc">Unit::SetStandState</a></div><div class="ttdeci">void SetStandState(uint8 state)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:16802</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00697">Unit::AddUnitState()</a>, <a class="el" href="../../#l16789">Unit::IsStandState()</a>, <a class="el" href="../../#l16804">Unit::SetStandState()</a>, <a class="el" href="../../#l00032">UNIT_STAND_STATE_STAND</a>, and <a class="el" href="../../#l00182">UNIT_STATE_DISTRACTED</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00698">Unit::AddUnitState()</a>, <a class="el" href="../../#l16787">Unit::IsStandState()</a>, <a class="el" href="../../#l16802">Unit::SetStandState()</a>, <a class="el" href="../../#l00032">UNIT_STAND_STATE_STAND</a>, and <a class="el" href="../../#l00182">UNIT_STATE_DISTRACTED</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00056">Reset()</a>.</p>
 
@@ -396,9 +396,9 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  105</span>    <a class="code hl_variable" href="../../d5/d49/a10035.html#a8b520d8e97704ac39ce28c2256557b42">m_timer</a> -= time_diff;</div>
 <div class="line"><span class="lineno">  106</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  107</span>}</div>
-<div class="ttc" id="aa08799_html_af5e75d013dfa8a8b888d7714992e3f2a"><div class="ttname"><a href="../../d6/d41/a08799.html#af5e75d013dfa8a8b888d7714992e3f2a">Unit::IsInCombat</a></div><div class="ttdeci">bool IsInCombat() const</div><div class="ttdef"><b>Definition:</b> Unit.h:894</div></div>
+<div class="ttc" id="aa08799_html_af5e75d013dfa8a8b888d7714992e3f2a"><div class="ttname"><a href="../../d6/d41/a08799.html#af5e75d013dfa8a8b888d7714992e3f2a">Unit::IsInCombat</a></div><div class="ttdeci">bool IsInCombat() const</div><div class="ttdef"><b>Definition:</b> Unit.h:895</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00894">Unit::IsInCombat()</a>, and <a class="el" href="../../#l00061">m_timer</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00895">Unit::IsInCombat()</a>, and <a class="el" href="../../#l00061">m_timer</a>.</p>
 
 </div>
 </div>
@@ -433,7 +433,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d49/a10035.html">DistractMovementGenerator</a></li>
-    <li class="footer">Generated on Mon Oct 13 2025 20:45:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Oct 20 2025 20:47:38 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

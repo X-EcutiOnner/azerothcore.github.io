@@ -1,6 +1,7 @@
 var a25019 =
 [
-    [ "HandleAfterCast", "da/d6e/a25019.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
-    [ "PrepareSpellScript", "da/d6e/a25019.html#a602d7c920aa73a9c3c69222854093036", null ],
-    [ "Register", "da/d6e/a25019.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
+    [ "if", "da/d6e/a25019.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
+    [ "PrepareAuraScript", "da/d6e/a25019.html#a01d974333043452a37ec3124d23b49f2", null ],
+    [ "Register", "da/d6e/a25019.html#aeb6c695819e894aad8b210a237e6d315", null ],
+    [ "AuraEffectHandleModes", "da/d6e/a25019.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
 ];

@@ -1,6 +1,8 @@
 var a19911 =
 [
-    [ "npc_living_constellationAI", "d8/dc7/a19915.html", "d8/dc7/a19915" ],
-    [ "npc_living_constellation", "db/d7c/a19911.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
-    [ "GetAI", "db/d7c/a19911.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
+    [ "HandlePeriodic", "db/d7c/a19911.html#a2724a85983561a14db8b06ae492ead55", null ],
+    [ "OnRemove", "db/d7c/a19911.html#a6d0f941f30d8c850e48396fffd13768d", null ],
+    [ "PrepareAuraScript", "db/d7c/a19911.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
+    [ "Register", "db/d7c/a19911.html#a85270947972be9c299a642b31969ef68", null ],
+    [ "Validate", "db/d7c/a19911.html#a91ebb4e69d02deb5129965f543c474d1", null ]
 ];

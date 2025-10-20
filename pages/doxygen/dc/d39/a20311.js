@@ -1,6 +1,6 @@
 var a20311 =
 [
-    [ "boss_freya_nature_bombAI", "d7/de4/a20315.html", "d7/de4/a20315" ],
-    [ "boss_freya_nature_bomb", "dc/d39/a20311.html#a18fa6ff862a1b367ac23eb1b7bda0ed4", null ],
-    [ "GetAI", "dc/d39/a20311.html#a73e24282c6bb29cf3f6a7da14a4de582", null ]
+    [ "npc_ulduar_saronite_vaporsAI", "d7/de4/a20315.html", "d7/de4/a20315" ],
+    [ "npc_ulduar_saronite_vapors", "dc/d39/a20311.html#a567c3aca8c381167ca278c2c3562e6f6", null ],
+    [ "GetAI", "dc/d39/a20311.html#a3c2e7b6263f8935da9291c736b14d139", null ]
 ];

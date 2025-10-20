@@ -1,7 +1,7 @@
 var a11415 =
 [
-    [ "CategoryRecoveryTime", "df/dd0/a11415.html#a5a089aa55b5db1f3e3d3fa0ff61bbfdd", null ],
-    [ "RecoveryTime", "df/dd0/a11415.html#ac0e514cfe760baf23f4f05d871e6779a", null ],
-    [ "StartRecoveryCategory", "df/dd0/a11415.html#abb7ca704f04612ddcec3e2e52470ca77", null ],
-    [ "StartRecoveryTime", "df/dd0/a11415.html#a3155069a4ef8d87d4c952f92df2ec42d", null ]
+    [ "maxvalue", "df/dd0/a11415.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
+    [ "skill", "df/dd0/a11415.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
+    [ "step", "df/dd0/a11415.html#a1c882f7d43c65954cb99566225660312", null ],
+    [ "value", "df/dd0/a11415.html#a064fece53cdaf07b072510b14200a968", null ]
 ];

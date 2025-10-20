@@ -1,7 +1,6 @@
 var a16951 =
 [
-    [ "HandleEffectRemove", "d6/da9/a16951.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
-    [ "Load", "d6/da9/a16951.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
-    [ "PrepareAuraScript", "d6/da9/a16951.html#a97411ddf89a10a962ba74d294eb653e7", null ],
-    [ "Register", "d6/da9/a16951.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
+    [ "instance_drak_tharon_keep_InstanceScript", "df/d80/a16955.html", "df/d80/a16955" ],
+    [ "instance_drak_tharon_keep", "d6/da9/a16951.html#a1f375185dba1619fee36160549eb91f4", null ],
+    [ "GetInstanceScript", "d6/da9/a16951.html#aca6364452dc39e747af152695d479bf8", null ]
 ];

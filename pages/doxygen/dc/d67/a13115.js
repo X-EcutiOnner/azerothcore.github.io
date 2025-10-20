@@ -1,6 +1,6 @@
 var a13115 =
 [
-    [ "npc_dkc1_gothikAI", "d0/ddd/a13119.html", "d0/ddd/a13119" ],
-    [ "npc_dkc1_gothik", "dc/d67/a13115.html#ae4a6aec0235b01044ebd5c9c71d400d9", null ],
-    [ "GetAI", "dc/d67/a13115.html#aeb285cf6977cfab5d337f51ae41907ec", null ]
+    [ "npc_scarlet_ghoulAI", "d0/ddd/a13119.html", "d0/ddd/a13119" ],
+    [ "npc_scarlet_ghoul", "dc/d67/a13115.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
+    [ "GetAI", "dc/d67/a13115.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
 ];

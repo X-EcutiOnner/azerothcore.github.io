@@ -1,6 +1,6 @@
 var a17571 =
 [
-    [ "VampiricBiteTargetSelector", "df/dd5/a17571.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
-    [ "operator()", "df/dd5/a17571.html#ac16204f50f62cb2568998d1ea137f55d", null ],
-    [ "_source", "df/dd5/a17571.html#af23a69491c915909566249b109b1f0e8", null ]
+    [ "PrepareSpellScript", "df/dd5/a17571.html#a37899f12707930d038de38bae92c9aff", null ],
+    [ "Register", "df/dd5/a17571.html#a3677d2e7db842f899e6e2d2c8c9a3d42", null ],
+    [ "SelectDest", "df/dd5/a17571.html#a4caabf8afac621ef70bbbac1a2b5177e", null ]
 ];

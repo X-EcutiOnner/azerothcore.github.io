@@ -1,7 +1,7 @@
 var a13651 =
 [
-    [ "OnPeriodic", "de/d20/a13651.html#a25e7a59384f262a36c74696a1befa01d", null ],
-    [ "PrepareAuraScript", "de/d20/a13651.html#a9b82fde3e38054b686f9b2a110cfaa1e", null ],
-    [ "Register", "de/d20/a13651.html#a65e469ba04d8cd2aa23d934bf2915721", null ],
-    [ "Validate", "de/d20/a13651.html#a6843deda5be8b684c06a86920714f255", null ]
+    [ "npc_singularity", "de/d20/a13651.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "FindAndFollowTarget", "de/d20/a13651.html#a76c21129756dec05f6f2d88cebe948c5", null ],
+    [ "Reset", "de/d20/a13651.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "de/d20/a13651.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

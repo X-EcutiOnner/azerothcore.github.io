@@ -1,11 +1,9 @@
 var a19795 =
 [
-    [ "boss_maiden_of_griefAI", "d9/db5/a19795.html#a521decece7a53165349ebcfb9fb8dfb5", null ],
-    [ "JustDied", "d9/db5/a19795.html#abd3977cca1cbbf4b64c278a641514fc8", null ],
-    [ "JustEngagedWith", "d9/db5/a19795.html#acf30049b09bbaf3e30f2dcb77bf1b4e0", null ],
-    [ "KilledUnit", "d9/db5/a19795.html#a3d2173db5a852a356c187b2d2771b75f", null ],
-    [ "Reset", "d9/db5/a19795.html#a46776004549b0dcfcf73351225adaad8", null ],
-    [ "UpdateAI", "d9/db5/a19795.html#a4e26fc785b3c72982f9d98e0b120e929", null ],
-    [ "events", "d9/db5/a19795.html#aa2d2ccea219b679594d8d8b4a38d70cc", null ],
-    [ "pInstance", "d9/db5/a19795.html#abc195718a208a926f978d7f0fe0e7925", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "d9/db5/a19795.html#aac57ae32188c47ca97b7331d62986e66", null ],
+    [ "JustDied", "d9/db5/a19795.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
+    [ "JustEngagedWith", "d9/db5/a19795.html#a772d279407d724477560898559710433", null ],
+    [ "Reset", "d9/db5/a19795.html#a5b4a726aa496923d81c41b038e5f7449", null ],
+    [ "UpdateAI", "d9/db5/a19795.html#a2745ff26c165851c367e080d28652984", null ],
+    [ "events", "d9/db5/a19795.html#a468d45f9b9c2172f326068d59a74121a", null ]
 ];

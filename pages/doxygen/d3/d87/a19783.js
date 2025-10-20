@@ -1,7 +1,6 @@
 var a19783 =
 [
-    [ "HandleScript", "d3/d87/a19783.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
-    [ "PrepareSpellScript", "d3/d87/a19783.html#a34337690029eedb60a17572dbbf1e1f9", null ],
-    [ "Register", "d3/d87/a19783.html#ad554d79e1a98490085b22f5038d058da", null ],
-    [ "Validate", "d3/d87/a19783.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
+    [ "boss_sjonnir_dwarfAI", "d9/de9/a19787.html", "d9/de9/a19787" ],
+    [ "boss_sjonnir_dwarf", "d3/d87/a19783.html#a3589ae3bef1bbfe0fc5381e341c0995b", null ],
+    [ "GetAI", "d3/d87/a19783.html#a945d8e753e1a54dc348848b9c2dd6cce", null ]
 ];

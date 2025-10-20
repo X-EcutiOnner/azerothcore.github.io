@@ -1,10 +1,11 @@
 var a24007 =
 [
-    [ "CheckProc", "da/d85/a24007.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
-    [ "Load", "da/d85/a24007.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
-    [ "PrepareAuraScript", "da/d85/a24007.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
-    [ "Register", "da/d85/a24007.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
-    [ "_lastForm", "da/d85/a24007.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
-    [ "_lastSchool", "da/d85/a24007.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
-    [ "_swapTime", "da/d85/a24007.html#af832dc200e928df3849ab7d7f93cb412", null ]
+    [ "boss_high_astromancer_solarian", "da/d85/a24007.html#a2db48cc179539f81b55188de08a7e180", null ],
+    [ "AttackStart", "da/d85/a24007.html#acaf94134aef553447e766a5e431c8b83", null ],
+    [ "JustDied", "da/d85/a24007.html#a510eb2e4f0770670d6767bc2545375b7", null ],
+    [ "JustEngagedWith", "da/d85/a24007.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
+    [ "JustSummoned", "da/d85/a24007.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
+    [ "KilledUnit", "da/d85/a24007.html#a561a78193615575b7e43e0f21387f1b8", null ],
+    [ "Reset", "da/d85/a24007.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
+    [ "UpdateAI", "da/d85/a24007.html#a07a76c34a978c31212390cf10ed3e382", null ]
 ];

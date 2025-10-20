@@ -1,11 +1,12 @@
 var a13999 =
 [
-    [ "npc_tapoke_slim_jahnAI", "d6/d2e/a13999.html#aeb2bca4d3233d8790b1ccfdd559f2e41", null ],
-    [ "AttackedBy", "d6/d2e/a13999.html#a25bf491c19fe0bb3116c6df46cb370e5", null ],
-    [ "DamageTaken", "d6/d2e/a13999.html#a3dbb7abb6559a6f853cc77423d7153e9", null ],
-    [ "JustEngagedWith", "d6/d2e/a13999.html#a544b8eaee365217a4a735ed39b4607b2", null ],
-    [ "JustSummoned", "d6/d2e/a13999.html#ae468305fbe930baf0a1547f2e6de9953", null ],
-    [ "Reset", "d6/d2e/a13999.html#a5aeaa5511584d1095639e7df584019c5", null ],
-    [ "WaypointReached", "d6/d2e/a13999.html#a886ba3133f77a93cfae9c4a7e9fb0609", null ],
-    [ "IsFriendSummoned", "d6/d2e/a13999.html#a1e4291187ff400e6f326ef4acbff41ee", null ]
+    [ "npc_daphne_stilwellAI", "d6/d2e/a13999.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
+    [ "AttackStart", "d6/d2e/a13999.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
+    [ "JustSummoned", "d6/d2e/a13999.html#ae56554d30e9de7644efab891555c57e0", null ],
+    [ "Reset", "d6/d2e/a13999.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
+    [ "SummonedCreatureDies", "d6/d2e/a13999.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
+    [ "Update", "d6/d2e/a13999.html#a4099d75c4a6bca1525781a5753ef9972", null ],
+    [ "WaypointReached", "d6/d2e/a13999.html#a1035eb0a1696730d8304593b5fb079e4", null ],
+    [ "summons", "d6/d2e/a13999.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
+    [ "textCounter", "d6/d2e/a13999.html#a62ab24169c1b7c3028ab33303b217f63", null ]
 ];

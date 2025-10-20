@@ -1,6 +1,10 @@
 var a19575 =
 [
-    [ "boss_drakosAI", "d7/db6/a19579.html", "d7/db6/a19579" ],
-    [ "boss_drakos", "d9/dc4/a19575.html#aa70ae2809af4f24eea0b83b42d695448", null ],
-    [ "GetAI", "d9/dc4/a19575.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
+    [ "instance_nexus_InstanceMapScript", "d9/dc4/a19575.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
+    [ "Initialize", "d9/dc4/a19575.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
+    [ "OnCreatureCreate", "d9/dc4/a19575.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
+    [ "OnGameObjectCreate", "d9/dc4/a19575.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
+    [ "OnGameObjectRemove", "d9/dc4/a19575.html#ac148c67823484eee38ab6646dfb68530", null ],
+    [ "SetBossState", "d9/dc4/a19575.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
+    [ "SetData", "d9/dc4/a19575.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ]
 ];

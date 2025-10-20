@@ -1,6 +1,8 @@
 var a26259 =
 [
-    [ "CheckProc", "db/dbe/a26259.html#af38c2b1c556a1fcdb1157468cd02811e", null ],
-    [ "PrepareAuraScript", "db/dbe/a26259.html#a42b97406721d3493a378394132a55981", null ],
-    [ "Register", "db/dbe/a26259.html#af4d514906f66af1b2f2392bcfc5e8b9c", null ]
+    [ "Absorb", "db/dbe/a26259.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
+    [ "CalculateAmount", "db/dbe/a26259.html#a20d5b4776ebeb859b0641af640e41d80", null ],
+    [ "PrepareAuraScript", "db/dbe/a26259.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
+    [ "Register", "db/dbe/a26259.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
+    [ "Validate", "db/dbe/a26259.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
 ];

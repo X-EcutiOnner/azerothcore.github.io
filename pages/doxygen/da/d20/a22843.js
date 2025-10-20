@@ -1,4 +1,4 @@
 var a22843 =
 [
-    [ "instance_auchenai_crypts_InstanceMapScript", "da/d20/a22843.html#af67e3aa61d9fe3ed3876b1bd2df9ff3c", null ]
+    [ "instance_mana_tombs_InstanceMapScript", "da/d20/a22843.html#a1523ad04993ce4ddf5b503355f7c856a", null ]
 ];

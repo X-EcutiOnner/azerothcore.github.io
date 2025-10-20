@@ -1,9 +1,6 @@
 var a20543 =
 [
-    [ "HandleEffectPeriodic", "dc/d28/a20543.html#adc6e83abb52a21528c07a1d989818dcf", null ],
-    [ "OnApply", "dc/d28/a20543.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
-    [ "OnRemove", "dc/d28/a20543.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
-    [ "PrepareAuraScript", "dc/d28/a20543.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
-    [ "Register", "dc/d28/a20543.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
-    [ "Validate", "dc/d28/a20543.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
+    [ "boss_kologarn_eyebeamAI", "dd/d3e/a20547.html", "dd/d3e/a20547" ],
+    [ "boss_kologarn_eyebeam", "dc/d28/a20543.html#af28ff60e3b42f7316cc3d63624a91ee9", null ],
+    [ "GetAI", "dc/d28/a20543.html#a34f5533a6bfe84c52fe0b0e854e694f8", null ]
 ];

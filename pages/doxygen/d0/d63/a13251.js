@@ -1,7 +1,8 @@
 var a13251 =
 [
-    [ "OnApply", "d0/d63/a13251.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
-    [ "OnRemove", "d0/d63/a13251.html#a810203874163cf04798c3edbe69b747e", null ],
-    [ "PrepareAuraScript", "d0/d63/a13251.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
-    [ "Register", "d0/d63/a13251.html#af2ad52165de188897fdeb8d62646b7cc", null ]
+    [ "npc_highlord_darion_mograineAI", "da/d43/a13255.html", "da/d43/a13255" ],
+    [ "npc_highlord_darion_mograine", "d0/d63/a13251.html#a86680b1a140c706b10fd48befc572286", null ],
+    [ "GetAI", "d0/d63/a13251.html#a350539ed741fa372ffff92ffbc6e6260", null ],
+    [ "OnGossipHello", "d0/d63/a13251.html#a35afc9d80b4570163af9f6013949a70c", null ],
+    [ "OnGossipSelect", "d0/d63/a13251.html#a0539d24556c16a1a72be8258c752f5f5", null ]
 ];

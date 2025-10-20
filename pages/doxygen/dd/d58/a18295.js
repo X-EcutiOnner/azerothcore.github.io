@@ -1,9 +1,5 @@
 var a18295 =
 [
-    [ "FilterTargets", "dd/d58/a18295.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
-    [ "FilterTargetsSubseq", "dd/d58/a18295.html#a88a53a855e01b550fbd106ac318a891e", null ],
-    [ "PrepareSpellScript", "dd/d58/a18295.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
-    [ "Register", "dd/d58/a18295.html#a27e8768422b311f6db16757e167f4102", null ],
-    [ "Validate", "dd/d58/a18295.html#a96ef76527449a138685830b52fa95146", null ],
-    [ "_targetList", "dd/d58/a18295.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
+    [ "operator()", "dd/d58/a18295.html#a6a8c02f9b797ed7df8960e5ddc44f93f", null ],
+    [ "operator()", "dd/d58/a18295.html#a3847988d35a9cb0c5aab4ad73ff1a427", null ]
 ];

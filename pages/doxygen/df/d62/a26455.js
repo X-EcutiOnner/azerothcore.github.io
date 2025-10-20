@@ -1,7 +1,6 @@
 var a26455 =
 [
-    [ "HandleProc", "df/d62/a26455.html#a72463db57f87387aa3ff3175c45ca9df", null ],
-    [ "PrepareAuraScript", "df/d62/a26455.html#ae158b4b624b50ad984b2c5e9c16d7670", null ],
-    [ "Register", "df/d62/a26455.html#a2da64a27cfa5a68464f8f3a885e09751", null ],
-    [ "Validate", "df/d62/a26455.html#a798f51ee6333d3ebb2bbb617ea88ea2b", null ]
+    [ "HandleAfterHit", "df/d62/a26455.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
+    [ "PrepareSpellScript", "df/d62/a26455.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
+    [ "Register", "df/d62/a26455.html#a2a780069022e62b14992a7b69626ac3d", null ]
 ];

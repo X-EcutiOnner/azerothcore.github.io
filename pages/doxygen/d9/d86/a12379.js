@@ -1,9 +1,6 @@
 var a12379 =
 [
-    [ "npc_vaelastrasz_the_redAI", "d9/d86/a12379.html#aa800617f887a21d8a61cac099c86faed", null ],
-    [ "IsSummonedBy", "d9/d86/a12379.html#ab0eb414e7c9385e4831c4fbc6ba1de49", null ],
-    [ "UpdateAI", "d9/d86/a12379.html#a4dd74c81dc67291ed04861cf542b0d24", null ],
-    [ "_combatEnabled", "d9/d86/a12379.html#ae82e9f70dbfd6a4a75206d358de4504e", null ],
-    [ "_events2", "d9/d86/a12379.html#aa31a968cb89f2c4bb4fde836fd600ab9", null ],
-    [ "_victorGUID", "d9/d86/a12379.html#a8a4af969b8d340d5492f89499e3e90c2", null ]
+    [ "OnEffect", "d9/d86/a12379.html#a1b5999f392cec9fea4431c3f746ee034", null ],
+    [ "PrepareSpellScript", "d9/d86/a12379.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
+    [ "Register", "d9/d86/a12379.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
 ];

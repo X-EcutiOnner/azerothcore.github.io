@@ -1,13 +1,12 @@
 var a23623 =
 [
-    [ "boss_ghazan", "d7/da9/a23623.html#ae730362fcf3606c67b6b85147de98fb6", null ],
-    [ "DoAction", "d7/da9/a23623.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
-    [ "InitializeAI", "d7/da9/a23623.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
-    [ "JustEngagedWith", "d7/da9/a23623.html#ad4136f0f63d267284f36756793c0efa7", null ],
-    [ "JustReachedHome", "d7/da9/a23623.html#af9f2dd854036d5c8b9c6703499836199", null ],
-    [ "MovementInform", "d7/da9/a23623.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
-    [ "Reset", "d7/da9/a23623.html#afc9522a26060643f2f9d25a8a98691b7", null ],
-    [ "UpdateAI", "d7/da9/a23623.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
-    [ "_movedToPlatform", "d7/da9/a23623.html#aa6c0c391355ac0b698d67796efd63062", null ],
-    [ "_reachedPlatform", "d7/da9/a23623.html#af3476318b4721bd52facaf735eabb1f9", null ]
+    [ "boss_swamplord_muselek", "d7/da9/a23623.html#a94ca982b8b9c1785a59040d23e72fc0e", null ],
+    [ "AttackStart", "d7/da9/a23623.html#a0732fdf14c972ae955eb43417a6d86a1", null ],
+    [ "CanShootVictim", "d7/da9/a23623.html#af84af5e4b344fc5f5da9f2047519710a", null ],
+    [ "JustDied", "d7/da9/a23623.html#a4020748c43bf03cb338e3d64a1dfd840", null ],
+    [ "JustEngagedWith", "d7/da9/a23623.html#a7b22bff5b78dcd1e5e1cc42858735655", null ],
+    [ "KilledUnit", "d7/da9/a23623.html#a9f2afd6aacb9befa956079a42fbace37", null ],
+    [ "Reset", "d7/da9/a23623.html#a6e03d7feca2de668c82d8f056d95fc6a", null ],
+    [ "_canChase", "d7/da9/a23623.html#aca3298f0e9bbbd7366f4e6456cfff621", null ],
+    [ "_markTarget", "d7/da9/a23623.html#a957d3f9ad935dbfa0537c75e39316ce3", null ]
 ];

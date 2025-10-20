@@ -1,8 +1,8 @@
 var a11243 =
 [
-    [ "SkillExtraItemEntry", "dd/d2c/a11243.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
-    [ "SkillExtraItemEntry", "dd/d2c/a11243.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
-    [ "additionalCreateChance", "dd/d2c/a11243.html#a299d886468e9caf22f9d6ce80a64c247", null ],
-    [ "newMaxOrEntry", "dd/d2c/a11243.html#adfda967d36154b039495f0b289a5c9d1", null ],
-    [ "requiredSpecialization", "dd/d2c/a11243.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
+    [ "SkillDiscoveryEntry", "dd/d2c/a11243.html#a54c0f12153c6e63a37e5da44d233b271", null ],
+    [ "SkillDiscoveryEntry", "dd/d2c/a11243.html#a301cae078fe1943cae045e94dc3d38ad", null ],
+    [ "chance", "dd/d2c/a11243.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
+    [ "reqSkillValue", "dd/d2c/a11243.html#a61e0edc8fee1fa4045d846668d08449c", null ],
+    [ "spellId", "dd/d2c/a11243.html#a75ca40729917317173b2953c8f47f833", null ]
 ];

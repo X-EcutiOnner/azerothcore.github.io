@@ -1,12 +1,17 @@
 var a19779 =
 [
-    [ "boss_krystallusAI", "dc/d18/a19779.html#adfa2ab8498279937bf497292d6e7cba5", null ],
-    [ "JustDied", "dc/d18/a19779.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
-    [ "JustEngagedWith", "dc/d18/a19779.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
-    [ "KilledUnit", "dc/d18/a19779.html#acf9101c5b776820039fd80e5d6e0c138", null ],
-    [ "RemoveStonedEffect", "dc/d18/a19779.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
-    [ "Reset", "dc/d18/a19779.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
-    [ "UpdateAI", "dc/d18/a19779.html#a79095e25f1d9dac927f63cef67db60ec", null ],
-    [ "events", "dc/d18/a19779.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
-    [ "pInstance", "dc/d18/a19779.html#aec9cf7053476298f72dccf3bd1579c63", null ]
+    [ "boss_sjonnirAI", "dc/d18/a19779.html#a53127766553d1bee4d7331e6f4fcda05", null ],
+    [ "ActivatePipe", "dc/d18/a19779.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
+    [ "DoAction", "dc/d18/a19779.html#afb2f73908bc17c763a8028af4b499481", null ],
+    [ "JustDied", "dc/d18/a19779.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
+    [ "JustEngagedWith", "dc/d18/a19779.html#aade776baf55155bb3814129ddc2f9632", null ],
+    [ "KilledUnit", "dc/d18/a19779.html#ac79740a8c5e4263f2917647c74e995aa", null ],
+    [ "Reset", "dc/d18/a19779.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
+    [ "SummonDwarfes", "dc/d18/a19779.html#a0f0472fbd8be38501cedef6c9d0553ee", null ],
+    [ "UpdateAI", "dc/d18/a19779.html#ad357741fbf486671790f6e619f330460", null ],
+    [ "events", "dc/d18/a19779.html#ae40bf2206d0e6af3f15727fa5dfef5e7", null ],
+    [ "pInstance", "dc/d18/a19779.html#aa9aba0a76bfc58031c3f8133eb07c134", null ],
+    [ "SlugeCount", "dc/d18/a19779.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ],
+    [ "SummonPhase", "dc/d18/a19779.html#ab409b352a20824dd1b274763aeab2c39", null ],
+    [ "summons", "dc/d18/a19779.html#a4888090a1b02403c80b83b7089eb0dfa", null ]
 ];

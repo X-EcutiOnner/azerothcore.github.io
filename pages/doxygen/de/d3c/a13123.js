@@ -1,6 +1,6 @@
 var a13123 =
 [
-    [ "npc_scarlet_cannonAI", "d5/ddf/a13127.html", "d5/ddf/a13127" ],
-    [ "npc_scarlet_cannon", "de/d3c/a13123.html#a10bb35cbbdae3508a2300ba3dacc1ea3", null ],
-    [ "GetAI", "de/d3c/a13123.html#ae2b74a4dab4b34f026fd17d5ed381c99", null ]
+    [ "npc_dkc1_gothikAI", "d5/ddf/a13127.html", "d5/ddf/a13127" ],
+    [ "npc_dkc1_gothik", "de/d3c/a13123.html#ae4a6aec0235b01044ebd5c9c71d400d9", null ],
+    [ "GetAI", "de/d3c/a13123.html#aeb285cf6977cfab5d337f51ae41907ec", null ]
 ];

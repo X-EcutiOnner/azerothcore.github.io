@@ -1,6 +1,6 @@
 var a14171 =
 [
-    [ "OnEffect", "d0/d17/a14171.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
-    [ "PrepareSpellScript", "d0/d17/a14171.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
-    [ "Register", "d0/d17/a14171.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
+    [ "boss_gahzranka", "d0/d17/a14171.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "d0/d17/a14171.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "d0/d17/a14171.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

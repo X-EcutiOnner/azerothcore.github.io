@@ -1,8 +1,7 @@
 var a05035 =
 [
-    [ "LocationInfoCallback", "d1/d9f/a05035.html#a81b8c00fcc0a1780445ffbdf85decfdf", null ],
-    [ "operator()", "d1/d9f/a05035.html#ac2ccfe87fa33cae7d2513c24ba8bfbeb", null ],
-    [ "locInfo", "d1/d9f/a05035.html#a9a8b8529a571b3652cd898b2888d8027", null ],
-    [ "prims", "d1/d9f/a05035.html#a19c87ad1c9665c3ddfbfa89ccdee5c10", null ],
-    [ "result", "d1/d9f/a05035.html#a1ada8b8a1742f02b2d1f28ee82903246", null ]
+    [ "AreaInfoCallback", "d1/d9f/a05035.html#a80988ffb9cda6f41e269ba896332e6a1", null ],
+    [ "operator()", "d1/d9f/a05035.html#ac53fe7cf79b790f501c8a3dd94cc89ff", null ],
+    [ "aInfo", "d1/d9f/a05035.html#a7c38a60631dc273abcfe930847864315", null ],
+    [ "prims", "d1/d9f/a05035.html#adb24cb7deeafd42035efb29ad2529b14", null ]
 ];

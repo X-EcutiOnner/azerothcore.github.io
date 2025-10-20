@@ -1,10 +1,12 @@
 var a23759 =
 [
-    [ "boss_kelidan_the_breaker", "d8/d30/a23759.html#a6774e4a0315b30266f6c55da608cd193", null ],
-    [ "ApplyImmunities", "d8/d30/a23759.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
-    [ "DoAction", "d8/d30/a23759.html#a3fa0117ce1079f651025116684f5e2f4", null ],
-    [ "JustDied", "d8/d30/a23759.html#a4d3f0171b7889a96f19999b28e549866", null ],
-    [ "JustEngagedWith", "d8/d30/a23759.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
-    [ "KilledUnit", "d8/d30/a23759.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
-    [ "Reset", "d8/d30/a23759.html#a46c592f6c46ea568ad368702e1640e06", null ]
+    [ "boss_nazan", "d8/d30/a23759.html#a4390d3e181c4db46e364df3302612763", null ],
+    [ "AttackStart", "d8/d30/a23759.html#a7acea69f908e7a004c2a78c103528975", null ],
+    [ "DoAction", "d8/d30/a23759.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
+    [ "EnterEvadeMode", "d8/d30/a23759.html#ab6338a7d240014e548b22044b788ce8f", null ],
+    [ "JustEngagedWith", "d8/d30/a23759.html#a4d44b759530f32207a46a608fb7d6209", null ],
+    [ "MovementInform", "d8/d30/a23759.html#ad35866322ff55263b1f8b105d2cad952", null ],
+    [ "Reset", "d8/d30/a23759.html#a5c10e932075130399a9127869f45ce1d", null ],
+    [ "UpdateAI", "d8/d30/a23759.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
+    [ "_scheduler", "d8/d30/a23759.html#a8915d84ec4ffb8dade18041d5e910018", null ]
 ];

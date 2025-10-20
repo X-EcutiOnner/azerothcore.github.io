@@ -1,8 +1,14 @@
 var a13719 =
 [
-    [ "HandleEffectApply", "d5/d96/a13719.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
-    [ "HandleEffectRemove", "d5/d96/a13719.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
-    [ "Load", "d5/d96/a13719.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
-    [ "PrepareAuraScript", "d5/d96/a13719.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
-    [ "Register", "d5/d96/a13719.html#a6a90296c9903ce65913f3bba29dea176", null ]
+    [ "instance_uldaman_InstanceMapScript", "d5/d96/a13719.html#ab2607f229d1e34852c82139ddb597712", null ],
+    [ "GetData", "d5/d96/a13719.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
+    [ "Initialize", "d5/d96/a13719.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
+    [ "OnCreatureCreate", "d5/d96/a13719.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
+    [ "OnGameObjectCreate", "d5/d96/a13719.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
+    [ "ReadSaveDataMore", "d5/d96/a13719.html#a8e0e03189463039dd31d883ad9c40e51", null ],
+    [ "SetData", "d5/d96/a13719.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
+    [ "WriteSaveDataMore", "d5/d96/a13719.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
+    [ "_encounters", "d5/d96/a13719.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
+    [ "ancientVaultDoorGUID", "d5/d96/a13719.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
+    [ "archaedasTempleDoorGUID", "d5/d96/a13719.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
 ];

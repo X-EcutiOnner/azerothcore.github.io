@@ -1,14 +1,11 @@
 var a21531 =
 [
-    [ "boss_erekemAI", "de/da5/a21531.html#aedf10fef3f0f2ac6797efa5f5a809f4a", null ],
-    [ "EnterEvadeMode", "de/da5/a21531.html#a2c9f8f444b3b28d5cfdbaa234e9d76ee", null ],
-    [ "GetChainHealTargetGUID", "de/da5/a21531.html#aa346cbaded883bbb3806acf9cb32579a", null ],
-    [ "JustDied", "de/da5/a21531.html#a12e7fb5389977dcacb4e1eadda771467", null ],
-    [ "JustEngagedWith", "de/da5/a21531.html#ad380838dbb6c2a3488fa57f2999e137c", null ],
-    [ "KilledUnit", "de/da5/a21531.html#a120a2c9a6af821ce9a5e68dbab6e800d", null ],
-    [ "MoveInLineOfSight", "de/da5/a21531.html#a5905809cba20d426c4d222b1e91055bc", null ],
-    [ "Reset", "de/da5/a21531.html#a338bbc123b1d3adef4f014c3302c4590", null ],
-    [ "UpdateAI", "de/da5/a21531.html#a234ae447260ae30a137a53fb986e5dc4", null ],
-    [ "events", "de/da5/a21531.html#a8d4445b6d35f534061818f7708f39f7e", null ],
-    [ "pInstance", "de/da5/a21531.html#aa68ece744a21ed2ef8d3e7c4b4081d8e", null ]
+    [ "npc_ichor_globuleAI", "de/da5/a21531.html#a4d581f89c8385276fd407c000af9e569", null ],
+    [ "AttackStart", "de/da5/a21531.html#aa4e1fc88a26d6ef41f1ca96c93abbc1a", null ],
+    [ "JustDied", "de/da5/a21531.html#ad29c7659590933b0749e8e1c2c2e4c46", null ],
+    [ "MoveInLineOfSight", "de/da5/a21531.html#af8ef8296512d57d934a171f1a5060e73", null ],
+    [ "SpellHit", "de/da5/a21531.html#a1396538a446545408e3c304f3e56400f", null ],
+    [ "UpdateAI", "de/da5/a21531.html#a6ff13c853583e5178fb3a690e17303de", null ],
+    [ "pInstance", "de/da5/a21531.html#a94cbe93a69a28171fc3d91d71b6ec419", null ],
+    [ "uiRangeCheck_Timer", "de/da5/a21531.html#a99914a55d2dc0b36a623dc7d6248e953", null ]
 ];

@@ -1,12 +1,6 @@
 var a13847 =
 [
-    [ "npc_corporal_keeshanAI", "d5/de2/a13847.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
-    [ "Reset", "d5/de2/a13847.html#a311488932a3de9153490d41e3fae92fb", null ],
-    [ "sQuestAccept", "d5/de2/a13847.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
-    [ "UpdateAI", "d5/de2/a13847.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
-    [ "WaypointReached", "d5/de2/a13847.html#a3edc9ab54068e47f955116db70454f6c", null ],
-    [ "mockingBlowTimer", "d5/de2/a13847.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
-    [ "phase", "d5/de2/a13847.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
-    [ "shieldBashTimer", "d5/de2/a13847.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
-    [ "timer", "d5/de2/a13847.html#a3107368f175aa7f4e8c405248ef917df", null ]
+    [ "CheckProc", "d5/de2/a13847.html#af6d00234388ceb5d1c9acd8775c66788", null ],
+    [ "PrepareAuraScript", "d5/de2/a13847.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
+    [ "Register", "d5/de2/a13847.html#acad1e829a317d15e73549047ece67eda", null ]
 ];

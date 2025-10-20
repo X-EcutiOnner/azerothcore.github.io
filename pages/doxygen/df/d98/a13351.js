@@ -1,8 +1,7 @@
 var a13351 =
 [
-    [ "npc_apothecary_baxter", "df/d98/a13351.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
-    [ "JustDied", "df/d98/a13351.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
-    [ "Reset", "df/d98/a13351.html#afee5103029bd761c48cbf6a11655c44a", null ],
-    [ "UpdateAI", "df/d98/a13351.html#ad06090f599d0fda3a88f3182c990a49f", null ],
-    [ "_scheduler", "df/d98/a13351.html#a6d813041e055f3c2b28be7cba3acde13", null ]
+    [ "npc_apothecary_genericAI", "df/d98/a13351.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "df/d98/a13351.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "df/d98/a13351.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "df/d98/a13351.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

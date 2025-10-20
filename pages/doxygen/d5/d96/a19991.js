@@ -1,16 +1,6 @@
 var a19991 =
 [
-    [ "boss_runemaster_molgeimAI", "d5/d96/a19991.html#a9454bd0e95a5361baed5b186b1290606", null ],
-    [ "JustDied", "d5/d96/a19991.html#a98df9b6d86eb0cec19f3a32dbf79a0e1", null ],
-    [ "JustEngagedWith", "d5/d96/a19991.html#ade0ee9133e2d571015d7b0b2ea9d988b", null ],
-    [ "JustReachedHome", "d5/d96/a19991.html#add0ccdadc163490cb9d241aedb919cfc", null ],
-    [ "KilledUnit", "d5/d96/a19991.html#a1e1e8f4dbd450799135c8065d8229481", null ],
-    [ "Reset", "d5/d96/a19991.html#ae17903a98365dc462b6dfd13efb6c689", null ],
-    [ "SpellHit", "d5/d96/a19991.html#a35f83a6017a8c6a46334c5c65b3f62c4", null ],
-    [ "UpdateAI", "d5/d96/a19991.html#a7db3d0f2725fd8b7aff01d1f60aba5bd", null ],
-    [ "UpdatePhase", "d5/d96/a19991.html#adc700e8903de503260839c2d627d4b44", null ],
-    [ "_phase", "d5/d96/a19991.html#a47a958b930d898627bcbde9a1b0426e6", null ],
-    [ "events", "d5/d96/a19991.html#a626a84eca5840ba0851aa6bc151e5277", null ],
-    [ "pInstance", "d5/d96/a19991.html#a422e7c2e139483cd377856bf3357b6a3", null ],
-    [ "summons", "d5/d96/a19991.html#ad7b215ef95f6d37f94accf4d0e8a19e1", null ]
+    [ "HandleInstaKill", "d5/d96/a19991.html#a9371a2cc86616fd04e47939d45f01cae", null ],
+    [ "PrepareSpellScript", "d5/d96/a19991.html#a38eed301f1db3ea7ac15b626e5927500", null ],
+    [ "Register", "d5/d96/a19991.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
 ];

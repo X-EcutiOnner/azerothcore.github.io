@@ -1,8 +1,6 @@
 var a26315 =
 [
-    [ "HandleDummy", "d8/dba/a26315.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
-    [ "PrepareSpellScript", "d8/dba/a26315.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
-    [ "Register", "d8/dba/a26315.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
-    [ "Validate", "d8/dba/a26315.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
-    [ "PolymorhForms", "d8/dba/a26315.html#a1443d2532a060514e697a8d5e0c21b20", null ]
+    [ "HandleRemove", "d8/dba/a26315.html#a491765056e8c4d97d9cdaaea9d11a0af", null ],
+    [ "PrepareAuraScript", "d8/dba/a26315.html#abe5d45b960fda879f48e3e98db9ad4ac", null ],
+    [ "Register", "d8/dba/a26315.html#ab00f3119d6c1bd1ad185374144f2987e", null ]
 ];

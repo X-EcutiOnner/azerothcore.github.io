@@ -1,6 +1,8 @@
 var a19395 =
 [
-    [ "npc_teslaAI", "d6/d1e/a19399.html", "d6/d1e/a19399" ],
-    [ "npc_tesla", "d7/dab/a19395.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
-    [ "GetAI", "d7/dab/a19395.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
+    [ "HandleDamage", "d7/dab/a19395.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
+    [ "HandleTargets", "d7/dab/a19395.html#ac36e689bad93aa17738f390680764a7e", null ],
+    [ "PrepareSpellScript", "d7/dab/a19395.html#a149db071722ce12cded16087c8eec1df", null ],
+    [ "Register", "d7/dab/a19395.html#abd073f34a414fab7ee23ee933863f1c7", null ],
+    [ "Validate", "d7/dab/a19395.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
 ];

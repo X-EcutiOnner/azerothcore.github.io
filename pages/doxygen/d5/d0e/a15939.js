@@ -1,20 +1,12 @@
 var a15939 =
 [
-    [ "npc_ranshallaAI", "d5/d0e/a15939.html#a8d41e290f9545fb72daf5e503b3c660b", null ],
-    [ "DoChannelTorchSpell", "d5/d0e/a15939.html#ade38de77f83da2f084a9ad3f8ada01d3", null ],
-    [ "DoContinueEscort", "d5/d0e/a15939.html#aef1192735d87a7e83ea00cc8cb9303c7", null ],
-    [ "DoSummonPriestess", "d5/d0e/a15939.html#a15f8706b9084b72359e4c8433d771d89", null ],
-    [ "GetSpeakerByEntry", "d5/d0e/a15939.html#ad930520b705ab63f903f7b68d660adbb", null ],
-    [ "JustDidDialogueStep", "d5/d0e/a15939.html#a6a20f536d6e360d07970955a8ff9902c", null ],
-    [ "Reset", "d5/d0e/a15939.html#a0b07925593835ce4d4aaab2f672ae387", null ],
-    [ "SummonedMovementInform", "d5/d0e/a15939.html#a453cfe020d81e27daa8d779be64012ee", null ],
-    [ "UpdateEscortAI", "d5/d0e/a15939.html#afabe9208f01fe3d2f128feba8f18426d", null ],
-    [ "WaypointReached", "d5/d0e/a15939.html#a96ff03de70b433e2ff5c35f50d062c55", null ],
-    [ "_altarGUID", "d5/d0e/a15939.html#ab9e42364744d89301944b7baa852bc9f", null ],
-    [ "_delayTimer", "d5/d0e/a15939.html#a219e1f257f0ddae9de5fd89ba9a338be", null ],
-    [ "_firstPriestessGUID", "d5/d0e/a15939.html#ae5289a2645f3d17da452810b22a77713", null ],
-    [ "_guardEluneGUID", "d5/d0e/a15939.html#a575afe78a40c8d49a928772fbec64dd9", null ],
-    [ "_secondPriestessGUID", "d5/d0e/a15939.html#a800131f5a4355e293c5edc009dbbdd20", null ],
-    [ "_voiceEluneGUID", "d5/d0e/a15939.html#af676158d45338ddbc2a366e399796642", null ],
-    [ "events", "d5/d0e/a15939.html#a1deb2de50401297451a3e314b5369b5e", null ]
+    [ "DialogueHelper", "d5/d0e/a15939.html#a3566655e8781bf5f9dff514fcd659421", null ],
+    [ "DialogueUpdate", "d5/d0e/a15939.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
+    [ "DoNextDialogueStep", "d5/d0e/a15939.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
+    [ "GetSpeakerByEntry", "d5/d0e/a15939.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
+    [ "JustDidDialogueStep", "d5/d0e/a15939.html#a79e80634f1780895669f5c810958fd4f", null ],
+    [ "StartNextDialogueText", "d5/d0e/a15939.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
+    [ "_actionTimer", "d5/d0e/a15939.html#a33b8551c136bcbc896b29d935c155a75", null ],
+    [ "_currentEntry", "d5/d0e/a15939.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
+    [ "_dialogueArray", "d5/d0e/a15939.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
 ];

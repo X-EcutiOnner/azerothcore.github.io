@@ -1,6 +1,10 @@
 var a25623 =
 [
-    [ "CheckCast", "d0/dd6/a25623.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
-    [ "PrepareSpellScript", "d0/dd6/a25623.html#a0bc2de519e0c84688fad609444d28afa", null ],
-    [ "Register", "d0/dd6/a25623.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
+    [ "Load", "d0/dd6/a25623.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
+    [ "OnApply", "d0/dd6/a25623.html#a83d922c434442e22482410d61aa0198f", null ],
+    [ "OnPetApply", "d0/dd6/a25623.html#a6df5e59e29cb89310a1c78bf93029545", null ],
+    [ "OnRemove", "d0/dd6/a25623.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
+    [ "PrepareAuraScript", "d0/dd6/a25623.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
+    [ "Register", "d0/dd6/a25623.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
+    [ "Validate", "d0/dd6/a25623.html#ab318472ea9f4aaa79e45f18783586eed", null ]
 ];

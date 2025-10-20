@@ -1,6 +1,6 @@
 var a25851 =
 [
-    [ "PrepareSpellScript", "d4/d98/a25851.html#a72e57e8a4bdb9a4fcd73e3519b6025ea", null ],
-    [ "Register", "d4/d98/a25851.html#aac4d3c8ecde3652c65c05abad5c8eaeb", null ],
-    [ "SelectTarget", "d4/d98/a25851.html#a3153b6c6814922cd7220e19b06f2a602", null ]
+    [ "HandlePeriodicTick", "d4/d98/a25851.html#a1bd15727da421fdbfc3a60136bfa9bc9", null ],
+    [ "PrepareAuraScript", "d4/d98/a25851.html#a1c4f592511c8886d0b9a5e64eb19cda7", null ],
+    [ "Register", "d4/d98/a25851.html#ac019a52a6f62f1251d20efcfadba1e78", null ]
 ];

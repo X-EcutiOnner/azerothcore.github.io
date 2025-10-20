@@ -1,6 +1,5 @@
 var a12519 =
 [
-    [ "boss_vaelAI", "d3/d3a/a12523.html", "d3/d3a/a12523" ],
-    [ "boss_vaelastrasz", "da/d16/a12519.html#a0b51f3b50cde4907bd9064e8bf51c005", null ],
-    [ "GetAI", "da/d16/a12519.html#a42dde198f5fc0ab2e7ca28ac32c42b7e", null ]
+    [ "go_orb_of_domination", "da/d16/a12519.html#a1d4659e21344a12ec6084ef7ef5df7d0", null ],
+    [ "OnGossipHello", "da/d16/a12519.html#aa88cebf1bd539b55cf63f10a25cc1bbb", null ]
 ];

@@ -1,11 +1,8 @@
 var a26851 =
 [
-    [ "AddTarget", "dc/dc9/a26851.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
-    [ "HandleApply", "dc/dc9/a26851.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
-    [ "HandleEffectPeriodic", "dc/dc9/a26851.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
-    [ "HandleRemove", "dc/dc9/a26851.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
-    [ "PrepareAuraScript", "dc/dc9/a26851.html#abd535f756fae06c9fae613d69ef4e353", null ],
-    [ "Register", "dc/dc9/a26851.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
-    [ "Validate", "dc/dc9/a26851.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
-    [ "_targets", "dc/dc9/a26851.html#ad2467bc150cb08766c57cca23d4d9843", null ]
+    [ "HandleDummy", "dc/dc9/a26851.html#ab653cf0414411c17ccc674395b08af7a", null ],
+    [ "Load", "dc/dc9/a26851.html#a6eb80b68a00c91d92a2963adb753ed23", null ],
+    [ "PrepareSpellScript", "dc/dc9/a26851.html#ae6c5ba4ed1918125594b31368c3bcf2f", null ],
+    [ "Register", "dc/dc9/a26851.html#a92eb201b3ae3ab167cc338174a355b00", null ],
+    [ "Validate", "dc/dc9/a26851.html#a3635089640297e059a183322c7e8f7b9", null ]
 ];

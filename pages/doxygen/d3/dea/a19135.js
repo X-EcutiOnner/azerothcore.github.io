@@ -1,7 +1,6 @@
 var a19135 =
 [
-    [ "npc_ioc_gunship_captainAI", "d3/dea/a19135.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
-    [ "DoAction", "d3/dea/a19135.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
-    [ "UpdateAI", "d3/dea/a19135.html#a222b304633143bba47d3edde67ea093b", null ],
-    [ "_events", "d3/dea/a19135.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
+    [ "npc_four_car_garageAI", "d3/dea/a19135.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
+    [ "JustDied", "d3/dea/a19135.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
+    [ "PassengerBoarded", "d3/dea/a19135.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
 ];

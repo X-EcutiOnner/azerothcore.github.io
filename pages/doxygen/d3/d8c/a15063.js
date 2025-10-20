@@ -1,20 +1,9 @@
 var a15063 =
 [
-    [ "instance_the_black_morass_InstanceMapScript", "d3/d8c/a15063.html#aa44359378462c0e0de9aad778bb67b6c", null ],
-    [ "CleanupInstance", "d3/d8c/a15063.html#afa6718d4aba7ed4f2cf3da1552bff6f0", null ],
-    [ "GetData", "d3/d8c/a15063.html#ae8e2aa62fd1e96aef87cd4ef00d3bf5c", null ],
-    [ "OnCreatureCreate", "d3/d8c/a15063.html#a024b2c41699ec1ee40b5adbfe355c498", null ],
-    [ "OnCreatureRemove", "d3/d8c/a15063.html#af9f5df1e16ca32705fb66d39f5c2526b", null ],
-    [ "OnPlayerEnter", "d3/d8c/a15063.html#a151c4f2b0e2210d261a29c2c5f8512c9", null ],
-    [ "ScheduleNextPortal", "d3/d8c/a15063.html#aa6187583d1a821cb8c60544566637885", null ],
-    [ "SetBossState", "d3/d8c/a15063.html#a8d08e9d50547706579e2eb313583fa12", null ],
-    [ "SetData", "d3/d8c/a15063.html#af6b8897ec076a9efa9c8dac8d39398a3", null ],
-    [ "Update", "d3/d8c/a15063.html#aa92607dccc1d83c0bbcfd98b6b420042", null ],
-    [ "_availableRiftPositions", "d3/d8c/a15063.html#a12c33ad0c493997995b13c2bf6a7271c", null ],
-    [ "_currentRift", "d3/d8c/a15063.html#aa994df6a0d7f6c5547ce7c9d0e643ef5", null ],
-    [ "_encounterNPCs", "d3/d8c/a15063.html#a50b6d6bf47994ae4d69c9ca26540c814", null ],
-    [ "_eventStatus", "d3/d8c/a15063.html#a351f6e209d99e0a4c63e26bd9cf55646", null ],
-    [ "_noBossSpawnDelay", "d3/d8c/a15063.html#a70d2a49424c250b761858a3102e37e39", null ],
-    [ "_scheduler", "d3/d8c/a15063.html#ac176dc2a8851a3f8a98663037757a380", null ],
-    [ "_shieldPercent", "d3/d8c/a15063.html#a8ef05e2031267a5dc21c0999e181344b", null ]
+    [ "boss_temporus", "d3/d8c/a15063.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
+    [ "JustDied", "d3/d8c/a15063.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
+    [ "JustEngagedWith", "d3/d8c/a15063.html#abe7f18497c1c8b31693980e98b1d1859", null ],
+    [ "KilledUnit", "d3/d8c/a15063.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
+    [ "MoveInLineOfSight", "d3/d8c/a15063.html#a18a0279036324498a9daf8c7d0296ffc", null ],
+    [ "OwnTalk", "d3/d8c/a15063.html#a99356589a048debbc308b8431259da5c", null ]
 ];

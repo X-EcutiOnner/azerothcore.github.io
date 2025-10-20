@@ -1,8 +1,7 @@
 var a14643 =
 [
-    [ "npc_love_in_air_snivel_real", "d0/d34/a14643.html#a9f5b36d35ced9eb27375ca13fcfbc55d", null ],
-    [ "Talk", "d0/d34/a14643.html#a0b5cc8dd6bdf7c4fbd7b7aa2ba02b028", null ],
-    [ "UpdateAI", "d0/d34/a14643.html#a22ed25da8fe3441ef0e4183390983f40", null ],
-    [ "actionCounter", "d0/d34/a14643.html#ab1685b1ee34c81c689af3c3466b185f0", null ],
-    [ "actionTimer", "d0/d34/a14643.html#a3bbee1ff355581772b337268775b8fbc", null ]
+    [ "npc_love_in_air_supply_sentry", "d0/d34/a14643.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
+    [ "MoveInLineOfSight", "d0/d34/a14643.html#a9df110324c74277e07183c7db231bbda", null ],
+    [ "UpdateAI", "d0/d34/a14643.html#aaa658222954f96d45b75daf83555f6f8", null ],
+    [ "lock", "d0/d34/a14643.html#a59bf67b114014542538165c21aa109a6", null ]
 ];

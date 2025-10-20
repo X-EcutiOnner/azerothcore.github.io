@@ -1,6 +1,6 @@
 var a17495 =
 [
-    [ "npc_blood_queen_lana_thelAI", "d5/d27/a17499.html", "d5/d27/a17499" ],
-    [ "npc_blood_queen_lana_thel", "df/ddc/a17495.html#a39adef3ae54efd4433805bd8ad4719be", null ],
-    [ "GetAI", "df/ddc/a17495.html#a02d928ac4ef1704cee2498ebe6533561", null ]
+    [ "boss_prince_valanarAI", "d5/d27/a17499.html", "d5/d27/a17499" ],
+    [ "boss_prince_valanar_icc", "df/ddc/a17495.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
+    [ "GetAI", "df/ddc/a17495.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
 ];

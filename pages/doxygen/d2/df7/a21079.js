@@ -1,9 +1,10 @@
 var a21079 =
 [
-    [ "boss_yoggsaron_keeper", "d2/df7/a21079.html#ad2098933656371b1bf80ec3ea859c418", null ],
-    [ "DoAction", "d2/df7/a21079.html#a9e3d251810b55072458003356213ae15", null ],
-    [ "JustEngagedWith", "d2/df7/a21079.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
-    [ "JustSummoned", "d2/df7/a21079.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
-    [ "UpdateAI", "d2/df7/a21079.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
-    [ "_summons", "d2/df7/a21079.html#aa840eff5f3d8b24225046113737936b4", null ]
+    [ "boss_yoggsaron_immortal_guardianAI", "d2/df7/a21079.html#a84a3ffe43a4ce49cd543f770594cd683", null ],
+    [ "DamageTaken", "d2/df7/a21079.html#aec157bcf0628a7301bcb91dd62bcc484", null ],
+    [ "Reset", "d2/df7/a21079.html#a763f772414f00c0f83402e1a635b6bd0", null ],
+    [ "SpellHit", "d2/df7/a21079.html#a60721961f2eb5e91c15890252166b872", null ],
+    [ "UpdateAI", "d2/df7/a21079.html#a7fa550f683fcf16f5bd70a307bffcb2b", null ],
+    [ "_spellTimer", "d2/df7/a21079.html#a4ed360380707195e10753436020b67eb", null ],
+    [ "_visualTimer", "d2/df7/a21079.html#a8c382c37aaa3d20cfc0fe604af52bef4", null ]
 ];

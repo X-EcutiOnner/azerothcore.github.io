@@ -1,8 +1,7 @@
 var a12487 =
 [
-    [ "FilterTargets", "df/d41/a12487.html#a03acb7fb2734d9c8e8e623600bc16859", null ],
-    [ "FilterTargetsEff", "df/d41/a12487.html#a8aeffd2a01c805246c33d22a59274c6f", null ],
-    [ "PrepareSpellScript", "df/d41/a12487.html#ae00bc9956c9971d62d9185c72d3bd8b5", null ],
-    [ "Register", "df/d41/a12487.html#aba646a238c3b4b7343f3eec8c6445eb5", null ],
-    [ "targetList", "df/d41/a12487.html#a874dc7877ecfae332c9f826f01afce0f", null ]
+    [ "HandlePeriodic", "df/d41/a12487.html#a72e043202c587e6c12d0b36d679cd071", null ],
+    [ "PrepareAuraScript", "df/d41/a12487.html#a7ca007283e34855ee825ae160653f4a3", null ],
+    [ "Register", "df/d41/a12487.html#aebad39c65167042be8db3c3a1811a235", null ],
+    [ "Validate", "df/d41/a12487.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
 ];

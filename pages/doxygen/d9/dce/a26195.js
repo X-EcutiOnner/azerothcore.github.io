@@ -1,5 +1,6 @@
 var a26195 =
 [
-    [ "PrepareSpellScript", "d9/dce/a26195.html#a5f3b3fb1c42f21d309923e12f1272408", null ],
-    [ "Register", "d9/dce/a26195.html#afc19789732c46589dca40d46cdb12d9e", null ]
+    [ "CalculateAmount", "d9/dce/a26195.html#a2010f58ba86d6266e9549753fdec52ed", null ],
+    [ "PrepareAuraScript", "d9/dce/a26195.html#aa9ddc9f2a0ded66e81be51cec24a0e4b", null ],
+    [ "Register", "d9/dce/a26195.html#acf737f74e3cb9340f3449b491e923b7f", null ]
 ];

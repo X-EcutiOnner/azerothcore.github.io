@@ -1,16 +1,7 @@
 var a13135 =
 [
-    [ "npc_unworthy_initiateAI", "d0/d0d/a13135.html#ae535d3335eb7865400f9e5c24b1dd3b5", null ],
-    [ "EventStart", "d0/d0d/a13135.html#a1973d5a14a1ac19be1d74cf57693cabe", null ],
-    [ "JustEngagedWith", "d0/d0d/a13135.html#aeedb0af23823ec5c7ff4f951c872552e", null ],
-    [ "MovementInform", "d0/d0d/a13135.html#afbf6d71b196067400256df98949ae963", null ],
-    [ "Reset", "d0/d0d/a13135.html#aba37cb6291a2e7436f8af796c50dead9", null ],
-    [ "UpdateAI", "d0/d0d/a13135.html#a485695877f48aea0bb191e8b312f9c99", null ],
-    [ "anchorGUID", "d0/d0d/a13135.html#acb1b338fae07b3ececfc8c15cc5ea80b", null ],
-    [ "anchorX", "d0/d0d/a13135.html#a69455d3e3f822c2f2a4f8c3f89e4586d", null ],
-    [ "anchorY", "d0/d0d/a13135.html#a67bbfac4014f2907cc9ad9caca80a4be", null ],
-    [ "events", "d0/d0d/a13135.html#a4eff6a50c098c3f851274ece860fb6fb", null ],
-    [ "phase", "d0/d0d/a13135.html#a299de7b4e1992edebd0a87c119d06d0a", null ],
-    [ "playerGUID", "d0/d0d/a13135.html#a02d1e6dd7a302e170b08f0c90f038ca9", null ],
-    [ "wait_timer", "d0/d0d/a13135.html#a9270c6e57cf77805769cfe692beefbe0", null ]
+    [ "npc_scarlet_cannonAI", "d0/d0d/a13135.html#a26720b34088b8063544f8c5db3b8d67c", null ],
+    [ "PassengerBoarded", "d0/d0d/a13135.html#a71241dfc9b3ebe1f664d0adf03439c41", null ],
+    [ "UpdateAI", "d0/d0d/a13135.html#a18ebb585e9b83f3781d3c49de5dc73b5", null ],
+    [ "summonAttackers", "d0/d0d/a13135.html#a9e8eeb6995dae9a9d9ec3cb0ca6a07f5", null ]
 ];

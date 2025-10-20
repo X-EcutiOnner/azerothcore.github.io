@@ -1,13 +1,13 @@
 var a03809 =
 [
-    [ "CorruptTriggers", "de/d3e/a13499.html", "de/d3e/a13499" ],
-    [ "boss_felmyst", "d8/d32/a13503.html", "d8/d32/a13503" ],
-    [ "npc_demonic_vapor", "de/d47/a13507.html", "de/d47/a13507" ],
-    [ "npc_demonic_vapor_trail", "df/d73/a13511.html", "df/d73/a13511" ],
-    [ "spell_felmyst_fog_of_corruption", "d2/d4b/a13515.html", "d2/d4b/a13515" ],
-    [ "spell_felmyst_fog_of_corruption_charm_aura", "d0/d93/a13519.html", "d0/d93/a13519" ],
-    [ "DoorsGuidCheck", "df/d87/a13523.html", "df/d87/a13523" ],
-    [ "spell_felmyst_open_brutallus_back_doors", "d6/d72/a13527.html", "d6/d72/a13527" ],
+    [ "CorruptTriggers", "de/d47/a13507.html", "de/d47/a13507" ],
+    [ "boss_felmyst", "df/d73/a13511.html", "df/d73/a13511" ],
+    [ "npc_demonic_vapor", "d2/d4b/a13515.html", "d2/d4b/a13515" ],
+    [ "npc_demonic_vapor_trail", "d0/d93/a13519.html", "d0/d93/a13519" ],
+    [ "spell_felmyst_fog_of_corruption", "df/d87/a13523.html", "df/d87/a13523" ],
+    [ "spell_felmyst_fog_of_corruption_charm_aura", "d6/d72/a13527.html", "d6/d72/a13527" ],
+    [ "DoorsGuidCheck", "d4/d41/a13531.html", "d4/d41/a13531" ],
+    [ "spell_felmyst_open_brutallus_back_doors", "df/d75/a13535.html", "df/d75/a13535" ],
     [ "Misc", "d9/d79/a03809.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d2/db4/a03695.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "db/d49/a03737.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

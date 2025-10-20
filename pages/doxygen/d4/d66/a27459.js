@@ -1,5 +1,5 @@
 var a27459 =
 [
-    [ "go_mistwhisper_treasure", "d4/d66/a27459.html#a87c90caa9f6a628cb0eea3556b58449e", null ],
-    [ "OnGossipHello", "d4/d66/a27459.html#a03b6b19faba005ced7ff921fdf8ab493", null ]
+    [ "go_resonite_cask", "d4/d66/a27459.html#a5a89aa97a4cd31d7ae183649ee750b74", null ],
+    [ "OnGossipHello", "d4/d66/a27459.html#aae8591d53a6983886b52d404acdba293", null ]
 ];

@@ -1,8 +1,7 @@
 var a27131 =
 [
-    [ "ApplyEffect", "d3/dbe/a27131.html#a0c303c58064236969e17d1f2df3e0556", null ],
-    [ "PrepareAuraScript", "d3/dbe/a27131.html#a716a483282946f840ac15d73c6e21a94", null ],
-    [ "Register", "d3/dbe/a27131.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
-    [ "RemoveEffect", "d3/dbe/a27131.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
-    [ "Validate", "d3/dbe/a27131.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
+    [ "HandleApply", "d3/dbe/a27131.html#aa35fa107aee605a8583150901a75ad72", null ],
+    [ "HandleRemove", "d3/dbe/a27131.html#a60b6e438ff67d9db41d160020b54da40", null ],
+    [ "PrepareAuraScript", "d3/dbe/a27131.html#a1da44046f2cb9fb68b18f712111c38ea", null ],
+    [ "Register", "d3/dbe/a27131.html#ac7c9e15a796e91e0ac68791d24e3d4bf", null ]
 ];

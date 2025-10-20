@@ -1,6 +1,8 @@
 var a26543 =
 [
-    [ "HandleDummyEffect", "d2/dde/a26543.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
-    [ "PrepareSpellScript", "d2/dde/a26543.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
-    [ "Register", "d2/dde/a26543.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
+    [ "HandleDummy", "d2/dde/a26543.html#ae396c96647e36da357bdc70e11e3145f", null ],
+    [ "Load", "d2/dde/a26543.html#a2b4811bf7e60361e13bc382e62173cee", null ],
+    [ "PrepareSpellScript", "d2/dde/a26543.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
+    [ "Register", "d2/dde/a26543.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
+    [ "count", "d2/dde/a26543.html#a73358b2272ad12faef006b1ef633cac0", null ]
 ];

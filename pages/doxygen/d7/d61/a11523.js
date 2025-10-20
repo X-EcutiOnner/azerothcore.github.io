@@ -1,6 +1,7 @@
 var a11523 =
 [
-    [ "EffectManaShieldHandler", "d7/d61/a11523.html#a234fb0f6749072f9cc6310f80b3b9583", null ],
-    [ "Call", "d7/d61/a11523.html#a30ac72ee0a22ac3e71bcb2eeda903dbc", null ],
-    [ "pEffectHandlerScript", "d7/d61/a11523.html#a1aec2af2a69a90b8038d612d9ebddc2b", null ]
+    [ "EffectApplyHandler", "d7/d61/a11523.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
+    [ "Call", "d7/d61/a11523.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
+    [ "mode", "d7/d61/a11523.html#ac776375c5a5de321edc572c87e983193", null ],
+    [ "pEffectHandlerScript", "d7/d61/a11523.html#acd715556a7661f688ce0de9afe62250a", null ]
 ];

@@ -1,7 +1,8 @@
 var a26291 =
 [
-    [ "CalculateAmount", "d9/dfb/a26291.html#a0934aa8eaf442314aa6050d85304c15b", null ],
-    [ "CalculateSpellAmount", "d9/dfb/a26291.html#ab765b87350bd3e73ac43879abef72d98", null ],
-    [ "PrepareAuraScript", "d9/dfb/a26291.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
-    [ "Register", "d9/dfb/a26291.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
+    [ "HandleDummy", "d9/dfb/a26291.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
+    [ "PrepareSpellScript", "d9/dfb/a26291.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
+    [ "Register", "d9/dfb/a26291.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
+    [ "Validate", "d9/dfb/a26291.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
+    [ "PolymorhForms", "d9/dfb/a26291.html#a1443d2532a060514e697a8d5e0c21b20", null ]
 ];

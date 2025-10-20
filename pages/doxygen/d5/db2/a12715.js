@@ -1,9 +1,24 @@
 var a12715 =
 [
-    [ "npc_mc_core_houndAI", "d5/db2/a12715.html#a9b07d662e32a342419a848ecd59d6391", null ],
-    [ "DamageTaken", "d5/db2/a12715.html#aaf2b0ac9b723bb16bfaf8481165e6b4f", null ],
-    [ "Reset", "d5/db2/a12715.html#a9f4b06230ae2e4fc2fe150eb9e9d1f12", null ],
-    [ "UpdateAI", "d5/db2/a12715.html#aaba8ef0b33b9bb9acf74223ef0e9aaad", null ],
-    [ "instance", "d5/db2/a12715.html#ab47451dfeff84c8467be2b76554df897", null ],
-    [ "serratedBiteTimer", "d5/db2/a12715.html#a3a49df32c788497d3e82912d423683b7", null ]
+    [ "instance_molten_core_InstanceMapScript", "d5/db2/a12715.html#aac834ca3723fbe4cdba2d2813feb0451", null ],
+    [ "CheckMajordomoExecutus", "d5/db2/a12715.html#ae1a8863f382d142b1d8722065f20949e", null ],
+    [ "DoAction", "d5/db2/a12715.html#a0849a6d1a98b6c49cca7341f6341179c", null ],
+    [ "GetGuidData", "d5/db2/a12715.html#a644bfe3309b765ba8df750acdb81d496", null ],
+    [ "OnCreatureCreate", "d5/db2/a12715.html#ace732c2df084275ae3af76b612c1a098", null ],
+    [ "OnCreatureRemove", "d5/db2/a12715.html#af45a1eb74e5e59f98808d2a54ea00b0f", null ],
+    [ "OnGameObjectCreate", "d5/db2/a12715.html#aee70a5df7498eba0bba840870c0b5cf3", null ],
+    [ "OnPlayerEnter", "d5/db2/a12715.html#aaadc39f4b4032cc59105525ce6a7b6a8", null ],
+    [ "SetBossState", "d5/db2/a12715.html#a38a20534aeb08f52fbf6e57f49763bdd", null ],
+    [ "SummonMajordomoExecutus", "d5/db2/a12715.html#abee5c9c60893401fb5df17dbe2ccead9", null ],
+    [ "_cacheOfTheFirelordGUID", "d5/db2/a12715.html#a080decfc444d3d89f0334a76bfb5e757", null ],
+    [ "_circlesGUIDs", "d5/db2/a12715.html#ac87977d4b94ceccad965c00cab772cbe", null ],
+    [ "_garrGUID", "d5/db2/a12715.html#a44a6c18c9e1d279cfb16a087d1313845", null ],
+    [ "_golemaggGUID", "d5/db2/a12715.html#a42ba68922c644e8a3c752bdaefbadb57", null ],
+    [ "_golemaggMinionsGUIDS", "d5/db2/a12715.html#afe5ea95bd9fc8fa7e1d3d737bad8923c", null ],
+    [ "_lavaSplashGUID", "d5/db2/a12715.html#a7bdd42ce9cf698f6d78fde784ac0b32f", null ],
+    [ "_lavaSteamGUID", "d5/db2/a12715.html#aaa5552c50b504a3a3e2d5534840a52cf", null ],
+    [ "_magmadarGUID", "d5/db2/a12715.html#a2a46b6d841d988dce9c5e54b19a1967a", null ],
+    [ "_majordomoExecutusGUID", "d5/db2/a12715.html#a88215e741eec8be55882290de22f5c69", null ],
+    [ "_ragnarosGUID", "d5/db2/a12715.html#a8d512fa12205db57c322b0734b344717", null ],
+    [ "_runesGUIDs", "d5/db2/a12715.html#ae259af00a4f2a349795d08d969f93fe2", null ]
 ];

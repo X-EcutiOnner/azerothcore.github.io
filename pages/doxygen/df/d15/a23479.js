@@ -1,6 +1,6 @@
 var a23479 =
 [
-    [ "HandleEffectRemove", "df/d15/a23479.html#ab4c215a735ead9959fd78972a6da72e4", null ],
-    [ "PrepareAuraScript", "df/d15/a23479.html#a75be2f838d6773b619dfac80e32557b8", null ],
-    [ "Register", "df/d15/a23479.html#a239068b4e4ad88b5be93a031043ad7ca", null ]
+    [ "HandlePeriodic", "df/d15/a23479.html#a25c698e911ec02d9cd7f757ba87281df", null ],
+    [ "PrepareAuraScript", "df/d15/a23479.html#a7bf79bc5e5f509b52965f03e998db399", null ],
+    [ "Register", "df/d15/a23479.html#ab3eec9f591384c7c1c684651c38aa614", null ]
 ];

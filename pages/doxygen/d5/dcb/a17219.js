@@ -1,8 +1,16 @@
 var a17219 =
 [
-    [ "boss_krickAI", "d5/dcb/a17219.html#ac085bae551fd4d9e48b05481a86cca9f", null ],
-    [ "DoAction", "d5/dcb/a17219.html#ace248881cb71c1e91f33ff93489b6f3f", null ],
-    [ "UpdateAI", "d5/dcb/a17219.html#aea8dd89c8e4de1bebd94a26ead852119", null ],
-    [ "events", "d5/dcb/a17219.html#a75349e2fc35832e7944fa4f772380baa", null ],
-    [ "pInstance", "d5/dcb/a17219.html#aecc2cdee32c4e4fa14ecaeca9b3eb65f", null ]
+    [ "boss_ickAI", "d5/dcb/a17219.html#a72c90af745b63202edc36b84b3f4df12", null ],
+    [ "CanAIAttack", "d5/dcb/a17219.html#afa3a7ef19f014ed9c46be4a3adc83aa3", null ],
+    [ "DamageTaken", "d5/dcb/a17219.html#a96d39b533a96503d59c41c9e7cdd4ac4", null ],
+    [ "GetKrick", "d5/dcb/a17219.html#a2d6192f314e76886204c7248d141260a", null ],
+    [ "JustDied", "d5/dcb/a17219.html#afd7752ee19dcc6be0b28181bb4485146", null ],
+    [ "JustEngagedWith", "d5/dcb/a17219.html#a27598604e65417225acd41d6f05cc717", null ],
+    [ "JustSummoned", "d5/dcb/a17219.html#abf700d993e1cfaa0cc64d90903bfa842", null ],
+    [ "KilledUnit", "d5/dcb/a17219.html#a618c4e704d9a90d8bf4fac2d22bda6b3", null ],
+    [ "Reset", "d5/dcb/a17219.html#a9ba668208cda4dd33fd4eacb04476e2e", null ],
+    [ "SpellHitTarget", "d5/dcb/a17219.html#a5d90395d45509f8aeb244f4a4743d07d", null ],
+    [ "UpdateAI", "d5/dcb/a17219.html#a74bd63ac9558ecec52affaa7440360a1", null ],
+    [ "events", "d5/dcb/a17219.html#aab514bb5f930d9eb545a279181632796", null ],
+    [ "pInstance", "d5/dcb/a17219.html#a1ad5a6809ffe750a5538dc650a437b81", null ]
 ];

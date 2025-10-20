@@ -1,6 +1,8 @@
 var a26899 =
 [
-    [ "HandleAfterCast", "d0/d9c/a26899.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "d0/d9c/a26899.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "d0/d9c/a26899.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "FilterTargets", "d0/d9c/a26899.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
+    [ "HandleDummy", "d0/d9c/a26899.html#a2214b10da042a3af2fd3311872cc5286", null ],
+    [ "PrepareSpellScript", "d0/d9c/a26899.html#a9959966856601f79a83931a7a7ecff91", null ],
+    [ "Register", "d0/d9c/a26899.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
+    [ "Validate", "d0/d9c/a26899.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
 ];

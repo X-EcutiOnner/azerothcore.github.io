@@ -1,13 +1,12 @@
 var a27763 =
 [
-    [ "npc_nelsonAI", "d7/d89/a27763.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
-    [ "DoAction", "d7/d89/a27763.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
-    [ "JustEngagedWith", "d7/d89/a27763.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
-    [ "JustSummoned", "d7/d89/a27763.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
-    [ "Reset", "d7/d89/a27763.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
-    [ "SpellHit", "d7/d89/a27763.html#afab81d8a6077c755c186bb619944d78d", null ],
-    [ "SummonedCreatureDies", "d7/d89/a27763.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
-    [ "UpdateAI", "d7/d89/a27763.html#ac68749942f37de5f9105556fe7b904b7", null ],
-    [ "events", "d7/d89/a27763.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
-    [ "shouldDespawn", "d7/d89/a27763.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
+    [ "npc_elder_clearwaterAI", "d7/d89/a27763.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
+    [ "DoAction", "d7/d89/a27763.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
+    [ "GetData", "d7/d89/a27763.html#a077c02bf06b16439225a5cf8d83babf2", null ],
+    [ "UpdateAI", "d7/d89/a27763.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
+    [ "events", "d7/d89/a27763.html#a267fec22dc3d7272cae74267d0567618", null ],
+    [ "finished", "d7/d89/a27763.html#af51d6abb8fc8b59d068156a4859a377e", null ],
+    [ "finishWarning", "d7/d89/a27763.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
+    [ "preWarning", "d7/d89/a27763.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
+    [ "startWarning", "d7/d89/a27763.html#a01545211dec4338ac44304ebc7f18a97", null ]
 ];

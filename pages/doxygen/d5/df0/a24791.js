@@ -1,12 +1,8 @@
 var a24791 =
 [
-    [ "CheckTarget", "d5/df0/a24791.html#a731aa2c0a2b67b8a15cab72ea2cb961a", null ],
-    [ "CheckTargets", "d5/df0/a24791.html#a3b5bbef0c43a600387235822f3c6dbc7", null ],
-    [ "HandleCorpseExplosion", "d5/df0/a24791.html#a201de2ee86d0cf954117df0e5343ee69", null ],
-    [ "HandleDamage", "d5/df0/a24791.html#a810fc65eb5d7160366d63210bad9caea", null ],
-    [ "Load", "d5/df0/a24791.html#a00b45e2f466de39c95251c2a38f6c3bd", null ],
-    [ "PrepareSpellScript", "d5/df0/a24791.html#a4cae1673a840d8ec0d727b881a3616cf", null ],
-    [ "Register", "d5/df0/a24791.html#a9e67ea51300569a0e163cb3e427b086e", null ],
-    [ "Validate", "d5/df0/a24791.html#a93984e8b831cb4c37ec2726d44532d43", null ],
-    [ "_target", "d5/df0/a24791.html#a5028b9d3166270b2b0557943e962eade", null ]
+    [ "HandleDamage", "d5/df0/a24791.html#a2c5149eb0b6698240c25b63e71af0854", null ],
+    [ "PrepareSpellScript", "d5/df0/a24791.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
+    [ "Register", "d5/df0/a24791.html#ad29179d9159700b52b0c21a779cd060b", null ],
+    [ "Suicide", "d5/df0/a24791.html#a981f8547eae9b317111bf9a7016510ab", null ],
+    [ "Validate", "d5/df0/a24791.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
 ];

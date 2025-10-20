@@ -1,7 +1,9 @@
 var a21787 =
 [
-    [ "npc_mootoo_the_youngerAI", "dd/d5e/a21787.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "dd/d5e/a21787.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "dd/d5e/a21787.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "dd/d5e/a21787.html#ac758a992ed0d62a272930c84d617b348", null ]
+    [ "npc_warmage_coldarraAI", "dd/d5e/a21787.html#a9a8c2afff61ad8457aab8a9c23a4b755", null ],
+    [ "AttackStart", "dd/d5e/a21787.html#a41277824ae3f6bd9a099894b6dfc7537", null ],
+    [ "JustEngagedWith", "dd/d5e/a21787.html#a23a8999e34142201c6ceadc64a3df6c2", null ],
+    [ "Reset", "dd/d5e/a21787.html#adf5094ba2bee34ec793124e798d5af8f", null ],
+    [ "UpdateAI", "dd/d5e/a21787.html#a14b221265cc38b4061c52b687274a398", null ],
+    [ "m_uiTimer", "dd/d5e/a21787.html#a338ad26d40d395dfc6ed7e8fedcc6d60", null ]
 ];

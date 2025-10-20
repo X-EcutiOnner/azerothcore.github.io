@@ -120,10 +120,10 @@ Inheritance diagram for TransportBase:</div>
  <div class="center">
   <img src="../../de/d22/a08855.png" usemap="#TransportBase_map" alt=""/>
   <map id="TransportBase_map" name="TransportBase_map">
-<area href="../../dd/d1a/a08703.html" alt="Transport" shape="rect" coords="57,56,161,80"/>
+<area href="../../df/db3/a08707.html" alt="Transport" shape="rect" coords="57,56,161,80"/>
 <area href="../../d1/d28/a08831.html" alt="Vehicle" shape="rect" coords="171,56,275,80"/>
-<area href="../../df/db3/a08707.html" alt="MotionTransport" shape="rect" coords="0,112,104,136"/>
-<area href="../../d6/db8/a08711.html" alt="StaticTransport" shape="rect" coords="114,112,218,136"/>
+<area href="../../d6/db8/a08711.html" alt="MotionTransport" shape="rect" coords="0,112,104,136"/>
+<area href="../../dd/d58/a08715.html" alt="StaticTransport" shape="rect" coords="114,112,218,136"/>
   </map>
 </div></div>
 <table class="memberdecls">
@@ -274,7 +274,7 @@ Static Protected Member Functions</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  155</span>    {</div>
 <div class="line"><span class="lineno">  156</span>        <span class="keywordflow">if</span> (o)</div>
-<div class="line"><span class="lineno">  157</span>            *o = <a class="code hl_function" href="../../d5/d3f/a08495.html#a47dfa17a367a4824c454c3fa0997b2ee">Position::NormalizeOrientation</a>(*o - transO);</div>
+<div class="line"><span class="lineno">  157</span>            *o = <a class="code hl_function" href="../../da/d1b/a08499.html#a47dfa17a367a4824c454c3fa0997b2ee">Position::NormalizeOrientation</a>(*o - transO);</div>
 <div class="line"><span class="lineno">  158</span> </div>
 <div class="line"><span class="lineno">  159</span>        z -= transZ;</div>
 <div class="line"><span class="lineno">  160</span>        y -= transY;    <span class="comment">// y = searchedY * std::cos(o) + searchedX * std::sin(o)</span></div>
@@ -283,7 +283,7 @@ Static Protected Member Functions</h2></td></tr>
 <div class="line"><span class="lineno">  163</span>        y = (iny - inx * std::tan(transO)) / (std::cos(transO) + std::sin(transO) * std::tan(transO));</div>
 <div class="line"><span class="lineno">  164</span>        x = (inx + iny * std::tan(transO)) / (std::cos(transO) + std::sin(transO) * std::tan(transO));</div>
 <div class="line"><span class="lineno">  165</span>    }</div>
-<div class="ttc" id="aa08495_html_a47dfa17a367a4824c454c3fa0997b2ee"><div class="ttname"><a href="../../d5/d3f/a08495.html#a47dfa17a367a4824c454c3fa0997b2ee">Position::NormalizeOrientation</a></div><div class="ttdeci">static float NormalizeOrientation(float o)</div><div class="ttdef"><b>Definition:</b> Position.h:238</div></div>
+<div class="ttc" id="aa08499_html_a47dfa17a367a4824c454c3fa0997b2ee"><div class="ttname"><a href="../../da/d1b/a08499.html#a47dfa17a367a4824c454c3fa0997b2ee">Position::NormalizeOrientation</a></div><div class="ttdeci">static float NormalizeOrientation(float o)</div><div class="ttdef"><b>Definition:</b> Position.h:238</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00238">Position::NormalizeOrientation()</a>.</p>
 
@@ -337,7 +337,7 @@ Static Protected Member Functions</h2></td></tr>
 
 <p>This method transforms supplied global coordinates into local offsets. </p>
 
-<p>Implemented in <a class="el" href="../../d1/d28/a08831.html#af8c5538eb32ae303b1213948606acc71">Vehicle</a>, and <a class="el" href="../../dd/d1a/a08703.html#a327d37eef797c4197b8bba503bd8a3f8">Transport</a>.</p>
+<p>Implemented in <a class="el" href="../../d1/d28/a08831.html#af8c5538eb32ae303b1213948606acc71">Vehicle</a>, and <a class="el" href="../../df/db3/a08707.html#a327d37eef797c4197b8bba503bd8a3f8">Transport</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00086">Vehicle::CalculatePassengerOffset()</a>, and <a class="el" href="../../#l00034">Transport::CalculatePassengerOffset()</a>.</p>
 
@@ -415,7 +415,7 @@ Static Protected Member Functions</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  144</span>    {</div>
 <div class="line"><span class="lineno">  145</span>        <span class="keywordtype">float</span> inx = x, iny = y, inz = z;</div>
 <div class="line"><span class="lineno">  146</span>        <span class="keywordflow">if</span> (o)</div>
-<div class="line"><span class="lineno">  147</span>            *o = <a class="code hl_function" href="../../d5/d3f/a08495.html#a47dfa17a367a4824c454c3fa0997b2ee">Position::NormalizeOrientation</a>(transO + *o);</div>
+<div class="line"><span class="lineno">  147</span>            *o = <a class="code hl_function" href="../../da/d1b/a08499.html#a47dfa17a367a4824c454c3fa0997b2ee">Position::NormalizeOrientation</a>(transO + *o);</div>
 <div class="line"><span class="lineno">  148</span> </div>
 <div class="line"><span class="lineno">  149</span>        x = transX + inx * std::cos(transO) - iny * std::sin(transO);</div>
 <div class="line"><span class="lineno">  150</span>        y = transY + iny * std::cos(transO) + inx * std::sin(transO);</div>
@@ -474,7 +474,7 @@ Static Protected Member Functions</h2></td></tr>
 
 <p>This method transforms supplied transport offsets into global coordinates. </p>
 
-<p>Implemented in <a class="el" href="../../d1/d28/a08831.html#a6d3079db2acbf88c9118baa087634841">Vehicle</a>, and <a class="el" href="../../dd/d1a/a08703.html#ae4e716194ce5e9c466a8fe5c53ee0980">Transport</a>.</p>
+<p>Implemented in <a class="el" href="../../d1/d28/a08831.html#a6d3079db2acbf88c9118baa087634841">Vehicle</a>, and <a class="el" href="../../df/db3/a08707.html#ae4e716194ce5e9c466a8fe5c53ee0980">Transport</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00078">Vehicle::CalculatePassengerPosition()</a>, <a class="el" href="../../#l00033">Transport::CalculatePassengerPosition()</a>, <a class="el" href="../../#l00536">MotionTransport::DelayedTeleportTransport()</a>, and <a class="el" href="../../#l00506">MotionTransport::TeleportTransport()</a>.</p>
 
@@ -486,7 +486,7 @@ Static Protected Member Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../de/d22/a08855.html">TransportBase</a></li>
-    <li class="footer">Generated on Mon Oct 13 2025 20:46:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Oct 20 2025 20:48:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

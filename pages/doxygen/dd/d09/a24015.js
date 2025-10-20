@@ -1,7 +1,7 @@
 var a24015 =
 [
-    [ "CastQuill", "dd/d09/a24015.html#a923234809186bcbdf02457f4be095519", null ],
-    [ "Execute", "dd/d09/a24015.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
-    [ "_caster", "dd/d09/a24015.html#af809b9279aff141ce4007c8d1fbcc331", null ],
-    [ "_spellId", "dd/d09/a24015.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
+    [ "OnApply", "dd/d09/a24015.html#abab02b8307b762d070ba12358f59916d", null ],
+    [ "OnRemove", "dd/d09/a24015.html#a5ac45a5cfa17689d241c44241216ff38", null ],
+    [ "PrepareAuraScript", "dd/d09/a24015.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
+    [ "Register", "dd/d09/a24015.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
 ];

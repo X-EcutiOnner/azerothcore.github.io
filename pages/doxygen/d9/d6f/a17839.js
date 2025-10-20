@@ -1,8 +1,6 @@
 var a17839 =
 [
-    [ "HandlePeriodic", "d9/d6f/a17839.html#a5ff571c616b69bb50c736622feb9ed96", null ],
-    [ "HandleRemove", "d9/d6f/a17839.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
-    [ "PrepareAuraScript", "d9/d6f/a17839.html#a1b140274e283dd95e28fcb773e30f965", null ],
-    [ "Register", "d9/d6f/a17839.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
-    [ "Validate", "d9/d6f/a17839.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
+    [ "npc_gunship_rocketeerAI", "d8/d34/a17843.html", "d8/d34/a17843" ],
+    [ "npc_gunship_rocketeer", "d9/d6f/a17839.html#a7ed2cf258269f239bb73f2f06411db07", null ],
+    [ "GetAI", "d9/d6f/a17839.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
 ];

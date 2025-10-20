@@ -1,6 +1,6 @@
 var a17979 =
 [
-    [ "HandlePeriodicTick", "da/deb/a17979.html#a29bf443cdb53b10032ba382b8ae44828", null ],
-    [ "PrepareAuraScript", "da/deb/a17979.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
-    [ "Register", "da/deb/a17979.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
+    [ "npc_darnavanAI", "d2/d89/a17983.html", "d2/d89/a17983" ],
+    [ "npc_darnavan", "da/deb/a17979.html#ac358ca123155165395fa5f7ec02c9dab", null ],
+    [ "GetAI", "da/deb/a17979.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
 ];

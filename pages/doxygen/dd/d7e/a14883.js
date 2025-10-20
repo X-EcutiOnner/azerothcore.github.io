@@ -1,10 +1,10 @@
 var a14883 =
 [
-    [ "hyjalJainaAI", "dd/d7e/a14883.html#aa7532b691e85fd9bd467e20db39c59da", null ],
-    [ "IsSummonedBy", "dd/d7e/a14883.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
-    [ "JustDied", "dd/d7e/a14883.html#a605687080e5149b3f08ce8349ba9b336", null ],
-    [ "JustEngagedWith", "dd/d7e/a14883.html#a187efe775b1e2a35637638507e77352e", null ],
-    [ "PathEndReached", "dd/d7e/a14883.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
-    [ "Reset", "dd/d7e/a14883.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
-    [ "UpdateAI", "dd/d7e/a14883.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
+    [ "boss_rage_winterchill", "dd/d7e/a14883.html#a66fed2a7cc6135d41a2c40bdf4ffe02e", null ],
+    [ "DoAction", "dd/d7e/a14883.html#a45333aea6d6a180473ca4823ea83920a", null ],
+    [ "JustDied", "dd/d7e/a14883.html#ab10c7df81a9e71b2c114465c30e40a9b", null ],
+    [ "JustEngagedWith", "dd/d7e/a14883.html#ad36a840c65949c54d5ee3ae8cb6f1f7b", null ],
+    [ "KilledUnit", "dd/d7e/a14883.html#a69d69530a080379add7be73c552f4937", null ],
+    [ "PathEndReached", "dd/d7e/a14883.html#aec47befdf3246710a5158780fa797fa7", null ],
+    [ "_recentlySpoken", "dd/d7e/a14883.html#ae2141b4ea1d10cb74146aec63d65214c", null ]
 ];

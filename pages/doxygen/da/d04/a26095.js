@@ -1,10 +1,7 @@
 var a26095 =
 [
-    [ "CalcPeriodic", "da/d04/a26095.html#a6ec300503503fa6f12a48a8494d41edd", null ],
-    [ "Load", "da/d04/a26095.html#a349827fe659ff3bee0a5dfc677c04825", null ],
-    [ "PrepareAuraScript", "da/d04/a26095.html#a8c12c4ae3835322602347b654d96a8b7", null ],
-    [ "Register", "da/d04/a26095.html#aeba6dda1114bc738cddff4d40d48ccd7", null ],
-    [ "Update", "da/d04/a26095.html#afa9e6eec798c354231b5f95e260c7111", null ],
-    [ "Validate", "da/d04/a26095.html#adb891e80c5bf15b4a0798aa01a45c9e0", null ],
-    [ "_spell_id", "da/d04/a26095.html#a2836863ea4bafc73f2adbb9176cbec60", null ]
+    [ "HandleDummy", "da/d04/a26095.html#addfcb17cbbb56bda88997b34ce3e3ddd", null ],
+    [ "PrepareSpellScript", "da/d04/a26095.html#a22614b06c6f1853f02a992dcab027a60", null ],
+    [ "Register", "da/d04/a26095.html#a9ad5691f6049078c45052d07513b35a2", null ],
+    [ "Validate", "da/d04/a26095.html#a3fab2057be5de9e2f7703b8f43a99ed5", null ]
 ];

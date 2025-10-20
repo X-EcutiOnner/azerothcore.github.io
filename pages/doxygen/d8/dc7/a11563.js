@@ -1,12 +1,10 @@
 var a11563 =
 [
-    [ "CreatureTextBuilder", "d8/dc7/a11563.html#a582eed3ab284675e72261a1db9808925", null ],
-    [ "operator()", "d8/dc7/a11563.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
-    [ "_gender", "d8/dc7/a11563.html#a615c3046f749bf44b036958fb1a50128", null ],
-    [ "_language", "d8/dc7/a11563.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
-    [ "_msgType", "d8/dc7/a11563.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
-    [ "_source", "d8/dc7/a11563.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
-    [ "_target", "d8/dc7/a11563.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
-    [ "_textGroup", "d8/dc7/a11563.html#afcd842c1482980c6232f3f19d21a1481", null ],
-    [ "_textId", "d8/dc7/a11563.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
+    [ "CustomChatTextBuilder", "d8/dc7/a11563.html#a47b3e24f7100d13180ad1946647999ae", null ],
+    [ "operator()", "d8/dc7/a11563.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
+    [ "_language", "d8/dc7/a11563.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
+    [ "_msgType", "d8/dc7/a11563.html#a0db1501da33fde77ab3c50943666b1fd", null ],
+    [ "_source", "d8/dc7/a11563.html#ad75f22d7eb6a62d59730918f4336768c", null ],
+    [ "_target", "d8/dc7/a11563.html#aa45be322836be588d8df2b253a22ee5c", null ],
+    [ "_text", "d8/dc7/a11563.html#ab59c9b938b564329483e38466169a92c", null ]
 ];

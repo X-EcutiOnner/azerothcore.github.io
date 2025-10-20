@@ -1,6 +1,6 @@
 var a16967 =
 [
-    [ "npc_fos_corrupted_soul_fragmentAI", "da/d18/a16971.html", "da/d18/a16971" ],
-    [ "npc_fos_corrupted_soul_fragment", "dd/db3/a16967.html#a4caefccfdfee2e906eb94e34bceb064c", null ],
-    [ "GetAI", "dd/db3/a16967.html#aed663e0a313223fcaa988b89b1b02df3", null ]
+    [ "boss_bronjahmAI", "da/d18/a16971.html", "da/d18/a16971" ],
+    [ "boss_bronjahm", "dd/db3/a16967.html#a699e1be5273979c76cd5d06b60f0ee05", null ],
+    [ "GetAI", "dd/db3/a16967.html#a04676028f1f324b6eecea625122794ed", null ]
 ];

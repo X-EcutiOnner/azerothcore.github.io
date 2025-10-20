@@ -1,14 +1,16 @@
 var a15519 =
 [
-    [ "npc_draenei_survivorAI", "db/d23/a15519.html#a8766dcf9afd6d26d619bead82b549a8f", null ],
-    [ "JustEngagedWith", "db/d23/a15519.html#a6d0b790ad7466b14bf0bba0aa37eebf2", null ],
-    [ "MoveInLineOfSight", "db/d23/a15519.html#a2b3f0a595fde04ad1e054331a596e225", null ],
-    [ "Reset", "db/d23/a15519.html#a3db19a846ce3b4810321eb02d314633f", null ],
-    [ "SpellHit", "db/d23/a15519.html#a079789d2f6a03b1c7b0ac7dc43a2550a", null ],
-    [ "UpdateAI", "db/d23/a15519.html#aa3fd8e3747fa69b5156e932fddaf6fa7", null ],
-    [ "CanSayHelp", "db/d23/a15519.html#a6bf8c4eb06fe661da0c850424843bd42", null ],
-    [ "pCaster", "db/d23/a15519.html#a35ad8350e51fd520b75cd0289f19cb09", null ],
-    [ "RunAwayTimer", "db/d23/a15519.html#a233885b12615bfbc927d8845d0cff3fd", null ],
-    [ "SayHelpTimer", "db/d23/a15519.html#a8d77b110c6af6615d5d39e0870cbe890", null ],
-    [ "SayThanksTimer", "db/d23/a15519.html#a4f2d829af97d6fb5ef13e3922ebe99e8", null ]
+    [ "npc_muglashAI", "db/d23/a15519.html#af1988703aaaac04e5853c33e5b915ca2", null ],
+    [ "DoAction", "db/d23/a15519.html#afba6c4441ff4da54f89709b3c2bcd4d4", null ],
+    [ "DoWaveSummon", "db/d23/a15519.html#aaf862468f5ba0c6f99056a81a472c6e2", null ],
+    [ "JustDied", "db/d23/a15519.html#a5936dd183091c462e4835a00f81020f5", null ],
+    [ "JustEngagedWith", "db/d23/a15519.html#a587c8cb4562e93cecccb20e93cabba05", null ],
+    [ "JustSummoned", "db/d23/a15519.html#a07e451149dbf6b72e01f94dc8f07edf3", null ],
+    [ "Reset", "db/d23/a15519.html#a98933c32f2550989356b3e876d302b88", null ],
+    [ "sQuestAccept", "db/d23/a15519.html#a6c93a53a7b8bcd200ebca0e9d366f6fe", null ],
+    [ "UpdateAI", "db/d23/a15519.html#a6b479f50428536997faef96e510dbd84", null ],
+    [ "WaypointReached", "db/d23/a15519.html#a8f91b74c0d8778a73e0bc95dce339f2b", null ],
+    [ "_isBrazierExtinguished", "db/d23/a15519.html#aeec098d6a65b6852598a4e4b6888a410", null ],
+    [ "eventTimer", "db/d23/a15519.html#a548e142bb509b4606b6fcf98d926cd44", null ],
+    [ "waveId", "db/d23/a15519.html#a06c0af398e53b5ea6bfd6fa80256f845", null ]
 ];

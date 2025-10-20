@@ -1,7 +1,9 @@
 var a21839 =
 [
-    [ "npc_thassarianAI", "d2/dbd/a21839.html#a92e873dc3aa97f81919225ce75a5f894", null ],
-    [ "Reset", "d2/dbd/a21839.html#a8611ef17700c739dbd5e7a70660f1379", null ],
-    [ "UpdateAI", "d2/dbd/a21839.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
-    [ "_events", "d2/dbd/a21839.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
+    [ "npc_counselor_talbotAI", "d2/dbd/a21839.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
+    [ "JustDied", "d2/dbd/a21839.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
+    [ "JustEngagedWith", "d2/dbd/a21839.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
+    [ "Reset", "d2/dbd/a21839.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
+    [ "UpdateAI", "d2/dbd/a21839.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
+    [ "_events", "d2/dbd/a21839.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
 ];

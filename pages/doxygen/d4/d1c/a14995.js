@@ -1,6 +1,6 @@
 var a14995 =
 [
-    [ "npc_cos_stratholme_citizienAI", "d7/df0/a14999.html", "d7/df0/a14999" ],
-    [ "npc_cos_stratholme_citizien", "d4/d1c/a14995.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
-    [ "GetAI", "d4/d1c/a14995.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
+    [ "npc_cos_chromie_start", "d4/d1c/a14995.html#ae8f810af1e593ad16958049f6ad19616", null ],
+    [ "OnGossipSelect", "d4/d1c/a14995.html#a35cba5a1b7865b07a4e843648cea50c8", null ],
+    [ "OnQuestAccept", "d4/d1c/a14995.html#aa730cb17e6cfe917bc32f7e7ae52e8ef", null ]
 ];

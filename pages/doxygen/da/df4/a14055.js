@@ -1,19 +1,15 @@
 var a14055 =
 [
-    [ "boss_nalorakk", "da/df4/a14055.html#a4dd18b28685e3dac2406c4e3d8be95aa", null ],
-    [ "CheckAnyEvadeGroup", "da/df4/a14055.html#a2ef7e2a115b8f2292580c88ff55bb797", null ],
-    [ "CheckFullyDeadGroup", "da/df4/a14055.html#a0754b8a39fd26f5fb026f9460faa17aa", null ],
-    [ "GroupedAttack", "da/df4/a14055.html#a249f35697e422a7e7e8a583f85cc97b1", null ],
-    [ "JustDied", "da/df4/a14055.html#a6f79e518e3a356e0f6093afa8c438fe5", null ],
-    [ "JustEngagedWith", "da/df4/a14055.html#a1d3c302161e8666c0343d449727c35a9", null ],
-    [ "MoveInLineOfSight", "da/df4/a14055.html#a3455e91061cfb9ea03712b8006d298df", null ],
-    [ "Reset", "da/df4/a14055.html#a85093d79b866ceff41357dde22e06867", null ],
-    [ "ShapeShift", "da/df4/a14055.html#a78b12658138455ccddd9c62b6c7e26dd", null ],
-    [ "UpdateAI", "da/df4/a14055.html#a4cf5656619dd9339000236ed6b006c90", null ],
-    [ "_active", "da/df4/a14055.html#a8825e186d58b8f6bbd39976e013ee114", null ],
-    [ "_bearForm", "da/df4/a14055.html#aa76da1d9912aaa97242f5d27e567e895", null ],
-    [ "_introScheduler", "da/df4/a14055.html#ac654307d732ac59155321008418f8c90", null ],
-    [ "_phase", "da/df4/a14055.html#a390142234210027d37f5e4ec7cea84ae", null ],
-    [ "_ranIntro", "da/df4/a14055.html#a78bd5a9970ab205d9553ed5746a42066", null ],
-    [ "_waveList", "da/df4/a14055.html#a6093dac3b1353a047174e5aae98c13d6", null ]
+    [ "npc_janalai_hatcher", "da/df4/a14055.html#a337e21f5a014d0f9d7a1f614b7245f36", null ],
+    [ "AttackStart", "da/df4/a14055.html#a5a7826964349ed9adbbdeb7c733dd915", null ],
+    [ "JustEngagedWith", "da/df4/a14055.html#a54c251278dcfa22052b6c6e49a4abd89", null ],
+    [ "MoveInLineOfSight", "da/df4/a14055.html#a4ae2157e37bb93b7465e029e526a6ce4", null ],
+    [ "MovementInform", "da/df4/a14055.html#a3a0170bc53f9f8f96090e34097b90c2c", null ],
+    [ "MoveToNewWaypoint", "da/df4/a14055.html#ab775a888ae1002eed3ed548ab89ca2e4", null ],
+    [ "Reset", "da/df4/a14055.html#ab1c3945160c55b2b2d63763eacced473", null ],
+    [ "UpdateAI", "da/df4/a14055.html#ab5cc0c5f73593128b6d6e023aa4ce609", null ],
+    [ "_isHatching", "da/df4/a14055.html#aae712db69c870d00d07a37b8611ecaf4", null ],
+    [ "_repeatCount", "da/df4/a14055.html#acaf411fe3f6ea66d1ed2cd2da2ccaf12", null ],
+    [ "_side", "da/df4/a14055.html#a177ddd5ff96902363ab708f0c737fc20", null ],
+    [ "_waypoint", "da/df4/a14055.html#ab39ab27d8057b52b77637faefd48e8e6", null ]
 ];

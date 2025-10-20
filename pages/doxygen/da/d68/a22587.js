@@ -1,6 +1,7 @@
 var a22587 =
 [
-    [ "npc_wg_queueAI", "da/d68/a22587.html#a3760738d61b6148042fc30bd96b88fdc", null ],
-    [ "UpdateAI", "da/d68/a22587.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
-    [ "events", "da/d68/a22587.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
+    [ "HandleScript", "da/d68/a22587.html#a26eb647b6c938df3aeff7981571dc475", null ],
+    [ "PrepareSpellScript", "da/d68/a22587.html#a10114d8fa956aabff64aa0df7708f635", null ],
+    [ "Register", "da/d68/a22587.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
+    [ "Validate", "da/d68/a22587.html#adb477d34d8012c6fb45c5548fc49e127", null ]
 ];

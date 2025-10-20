@@ -1,7 +1,6 @@
 var a26295 =
 [
-    [ "CalculateSpellAmount", "d9/d96/a26295.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
-    [ "CheckCast", "d9/d96/a26295.html#af043f7ee0f80baf667e64225effd57d1", null ],
-    [ "PrepareSpellScript", "d9/d96/a26295.html#a233ac4020722078d865cf980d7fa76cf", null ],
-    [ "Register", "d9/d96/a26295.html#a3648ecd94430e21dd014795156c1eb98", null ]
+    [ "HandleDummy", "d9/d96/a26295.html#acb433ef020fbd090259ac969a35842ea", null ],
+    [ "PrepareSpellScript", "d9/d96/a26295.html#a9440e067db7bc5c48c973dfd61f1a95e", null ],
+    [ "Register", "d9/d96/a26295.html#a349e674aa5e07f59dc0a0d78a25aa0cd", null ]
 ];

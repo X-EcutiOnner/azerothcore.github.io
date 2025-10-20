@@ -1,6 +1,7 @@
 var a12587 =
 [
-    [ "boss_gehennasAI", "d6/dcb/a12591.html", "d6/dcb/a12591" ],
-    [ "boss_gehennas", "da/d19/a12587.html#a380a24cbaad4e247c6c76fd63ac34f59", null ],
-    [ "GetAI", "da/d19/a12587.html#a92f9ff0e957da5331b4a3ecc48be0ffa", null ]
+    [ "HandlePeriodic", "da/d19/a12587.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
+    [ "PrepareAuraScript", "da/d19/a12587.html#aae9d31049889eea5c5f09dd5437de950", null ],
+    [ "Register", "da/d19/a12587.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
+    [ "Validate", "da/d19/a12587.html#a462b882e41932f99e3501f32368cf4de", null ]
 ];

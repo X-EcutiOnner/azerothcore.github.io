@@ -1,4 +1,9 @@
 var a28523 =
 [
-    [ "ID", "da/dad/a28523.html#a11f792510d9749f99371234b15a45beb", null ]
+    [ "itemId", "da/dad/a28523.html#ae125712e5569c9699b4748b6a15fbc12", null ],
+    [ "items_to_triggerspell", "da/dad/a28523.html#a8496a2f3fa3e230def04b996fc585760", null ],
+    [ "name", "da/dad/a28523.html#a9b62f843833d524f200782d44151503d", null ],
+    [ "required_skill_id", "da/dad/a28523.html#ab3058ac725fb8f105b9359d5a5147942", null ],
+    [ "required_skill_value", "da/dad/a28523.html#a58d0997a73cf48061545edbc0201f544", null ],
+    [ "spells", "da/dad/a28523.html#a8aac032992efe1bfbba0e49693562c7f", null ]
 ];

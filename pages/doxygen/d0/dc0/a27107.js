@@ -1,7 +1,8 @@
 var a27107 =
 [
-    [ "HandleTeleport", "d0/dc0/a27107.html#a7ba7b82988dab5fd8e691b5b87c3d959", null ],
-    [ "PrepareAuraScript", "d0/dc0/a27107.html#a2307b7eccd4dd08d7e97ece704ddc4fb", null ],
-    [ "Register", "d0/dc0/a27107.html#a82432a4448d8c23ea2a39b4b26eb1b58", null ],
-    [ "Validate", "d0/dc0/a27107.html#adabf22bd591a10662ffbf0354a18a936", null ]
+    [ "ApplyEffect", "d0/dc0/a27107.html#a0c303c58064236969e17d1f2df3e0556", null ],
+    [ "PrepareAuraScript", "d0/dc0/a27107.html#a716a483282946f840ac15d73c6e21a94", null ],
+    [ "Register", "d0/dc0/a27107.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
+    [ "RemoveEffect", "d0/dc0/a27107.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
+    [ "Validate", "d0/dc0/a27107.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
 ];

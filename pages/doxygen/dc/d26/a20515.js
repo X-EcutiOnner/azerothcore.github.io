@@ -1,5 +1,7 @@
 var a20515 =
 [
-    [ "achievement_staying_buffed_all_winter_25", "dc/d26/a20515.html#a91f0ab3bada837cff6414350b98a27a3", null ],
-    [ "OnCheck", "dc/d26/a20515.html#a36591082184bc8466e124bad9a910545", null ]
+    [ "HandleScript", "dc/d26/a20515.html#a760bb60198017605111d02af98c827b1", null ],
+    [ "PrepareSpellScript", "dc/d26/a20515.html#a6128956f1037b62fff2e6f10ec22d956", null ],
+    [ "Register", "dc/d26/a20515.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
+    [ "Validate", "dc/d26/a20515.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
 ];

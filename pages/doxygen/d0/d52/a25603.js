@@ -1,5 +1,6 @@
 var a25603 =
 [
-    [ "PrepareSpellScript", "d0/d52/a25603.html#aa07fade62e79ccc8ad969de44b886332", null ],
-    [ "Register", "d0/d52/a25603.html#a1c20e492be2655e8547d36fedb29cfdc", null ]
+    [ "CalculateAmount", "d0/d52/a25603.html#a83bf0327aade6f6a33293a442ad10911", null ],
+    [ "PrepareAuraScript", "d0/d52/a25603.html#aa964f4eb7391dab54ff744fc94306de1", null ],
+    [ "Register", "d0/d52/a25603.html#a37d29d87bec2fe2908b7d3e47f5e1caa", null ]
 ];

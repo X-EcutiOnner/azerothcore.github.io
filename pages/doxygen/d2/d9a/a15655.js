@@ -1,7 +1,6 @@
 var a15655 =
 [
-    [ "HandleEffectPeriodic", "d2/d9a/a15655.html#ac47c157dbd193bc131d281666ae2097f", null ],
-    [ "PrepareAuraScript", "d2/d9a/a15655.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
-    [ "Register", "d2/d9a/a15655.html#ac3c158fdddd007d1d7986470032bfc25", null ],
-    [ "Validate", "d2/d9a/a15655.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
+    [ "npc_troll_volunteerAI", "d1/d30/a15659.html", "d1/d30/a15659" ],
+    [ "npc_troll_volunteer", "d2/d9a/a15655.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
+    [ "GetAI", "d2/d9a/a15655.html#aba0208b0910ace75686941c462ecca56", null ]
 ];

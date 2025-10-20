@@ -1,6 +1,8 @@
 var a22863 =
 [
-    [ "instance_mana_tombs_InstanceMapScript", "df/da6/a22867.html", "df/da6/a22867" ],
-    [ "instance_mana_tombs", "de/db8/a22863.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
-    [ "GetInstanceScript", "de/db8/a22863.html#a26e4dad0957df886bc446396ab48ceda", null ]
+    [ "FilterTargets", "de/db8/a22863.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
+    [ "HandleDummyHitTarget", "de/db8/a22863.html#ae892090a9bd48aa447224c9f96801d37", null ],
+    [ "PrepareSpellScript", "de/db8/a22863.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
+    [ "Register", "de/db8/a22863.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
+    [ "Validate", "de/db8/a22863.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
 ];

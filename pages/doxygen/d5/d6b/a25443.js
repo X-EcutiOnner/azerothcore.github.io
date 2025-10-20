@@ -1,7 +1,7 @@
 var a25443 =
 [
-    [ "PrepareSpellScript", "d5/d6b/a25443.html#a65d5717a25e371e09c44148c679dd390", null ],
-    [ "Register", "d5/d6b/a25443.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
-    [ "RemoveInvalidTargets", "d5/d6b/a25443.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
-    [ "Validate", "d5/d6b/a25443.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
+    [ "EjectPassenger", "d5/d6b/a25443.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
+    [ "PrepareSpellScript", "d5/d6b/a25443.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
+    [ "Register", "d5/d6b/a25443.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
+    [ "Validate", "d5/d6b/a25443.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
 ];

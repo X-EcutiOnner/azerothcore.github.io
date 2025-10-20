@@ -1,6 +1,5 @@
 var a12039 =
 [
-    [ "npc_grimstoneAI", "d3/deb/a12043.html", "d3/deb/a12043" ],
-    [ "npc_grimstone", "dc/de8/a12039.html#ae5c3e36bf18cb30dd4fc7cd5e7a72cfb", null ],
-    [ "GetAI", "dc/de8/a12039.html#a24cf0aa69ac28c13ac3c44e14c35406c", null ]
+    [ "amount", "dc/de8/a12039.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b", null ],
+    [ "entry", "dc/de8/a12039.html#ac3d4d211ebb927b1b9a376ee956e1b26", null ]
 ];

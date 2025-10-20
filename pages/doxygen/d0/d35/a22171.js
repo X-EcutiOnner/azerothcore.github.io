@@ -1,7 +1,11 @@
 var a22171 =
 [
-    [ "npc_amberpine_woodsmanAI", "d0/d35/a22171.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
-    [ "Reset", "d0/d35/a22171.html#a8da613c7bbaadf331c95667e7a361702", null ],
-    [ "UpdateAI", "d0/d35/a22171.html#a64dbf41424a710c400d51507f6457b41", null ],
-    [ "_events", "d0/d35/a22171.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
+    [ "npc_lake_frogAI", "d0/d35/a22171.html#ac08eeed39d046ce35d7d6aa65d53cab5", null ],
+    [ "ReceiveEmote", "d0/d35/a22171.html#abd58e65b6829c70818c578ed615a980b", null ],
+    [ "Reset", "d0/d35/a22171.html#a3773b3a21ea25db316481f1da5e6dd3c", null ],
+    [ "sGossipSelect", "d0/d35/a22171.html#a95906677ff65e004408ae65df3f49b5c", null ],
+    [ "UpdateAI", "d0/d35/a22171.html#aed8368ec27fed5cd14e4a54091aa9584", null ],
+    [ "_events", "d0/d35/a22171.html#a314d7d7891c05bda288ea0d590f0cfa4", null ],
+    [ "_following", "d0/d35/a22171.html#a0078f9134a61f0ec2465ce103523e341", null ],
+    [ "_runningScript", "d0/d35/a22171.html#af76102ba6c9ffd80baa95623b7312980", null ]
 ];

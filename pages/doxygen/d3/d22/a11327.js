@@ -1,6 +1,7 @@
 var a11327 =
 [
-    [ "WorldObjectSpellConeTargetCheck", "d3/d22/a11327.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
-    [ "operator()", "d3/d22/a11327.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
-    [ "_coneAngle", "d3/d22/a11327.html#a8f946789292320ea8b205dec5d1e1975", null ]
+    [ "WorldObjectSpellNearbyTargetCheck", "d3/d22/a11327.html#afda548f6394c5d11a7ca229fe6b3d402", null ],
+    [ "operator()", "d3/d22/a11327.html#a731ee07d028a5ee63ecd14321c83664d", null ],
+    [ "_position", "d3/d22/a11327.html#a7b19899dd015a73bd1ae4c71fa9ae79d", null ],
+    [ "_range", "d3/d22/a11327.html#abfec0df490876b2b83dcdee4da75a77f", null ]
 ];

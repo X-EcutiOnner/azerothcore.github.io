@@ -1,5 +1,5 @@
 var a07171 =
 [
-    [ "AuctionSearchRemove", "d6/da9/a07171.html#a5a93de23f32eb653e9df2df3e2d11bcb", null ],
-    [ "auctionId", "d6/da9/a07171.html#a6e18c3999d22c1972314b4a20ed8b62f", null ]
+    [ "AuctionSearchAdd", "d6/da9/a07171.html#a40116c721d736fe362a3dab56e6b3113", null ],
+    [ "searchableAuctionEntry", "d6/da9/a07171.html#a48e000b0e7d9411676fd2ccacf283163", null ]
 ];

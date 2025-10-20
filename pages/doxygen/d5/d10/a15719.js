@@ -1,6 +1,6 @@
 var a15719 =
 [
-    [ "npc_giant_spotlightAI", "d5/d60/a15723.html", "d5/d60/a15723" ],
-    [ "npc_giant_spotlight", "d5/d10/a15719.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
-    [ "GetAI", "d5/d10/a15719.html#af002a3d0194c991c1f78c720de63cfea", null ]
+    [ "npc_omenAI", "d5/d60/a15723.html", "d5/d60/a15723" ],
+    [ "npc_omen", "d5/d10/a15719.html#aff955303a8b9741838779a59dd496f62", null ],
+    [ "GetAI", "d5/d10/a15719.html#a8023ad3298000d9819c46f46a93166d4", null ]
 ];

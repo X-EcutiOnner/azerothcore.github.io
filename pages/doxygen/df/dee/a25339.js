@@ -1,7 +1,7 @@
 var a25339 =
 [
-    [ "HandleDummy", "df/dee/a25339.html#ab00358dc50fa943685fdd87e5a8ac224", null ],
-    [ "Load", "df/dee/a25339.html#a31075533c24011797bd0f99dce5e8330", null ],
-    [ "PrepareSpellScript", "df/dee/a25339.html#abf0acc8765f6e02674b8e93aca575a98", null ],
-    [ "Register", "df/dee/a25339.html#ad1bd05a154b506424954ef879e5b9fba", null ]
+    [ "HandleChargeEffect", "df/dee/a25339.html#ad8d2871e6277dd982653fa864010d084", null ],
+    [ "HandleScriptEffect", "df/dee/a25339.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc", null ],
+    [ "PrepareSpellScript", "df/dee/a25339.html#a1f8722308e1a5bef546dcb939d73dca7", null ],
+    [ "Register", "df/dee/a25339.html#a2cdda449ab11438347e7dd32fd058e6d", null ]
 ];

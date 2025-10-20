@@ -1,21 +1,15 @@
 var a11767 =
 [
-    [ "account_commandscript", "de/d37/a11767.html#acfea28449f30913389ab2eddfc512dbb", null ],
-    [ "GetCommands", "de/d37/a11767.html#a28baac859fcc2ee8bbf00dcdf7b38f4d", null ],
-    [ "HandleAccount2FARemoveCommand", "de/d37/a11767.html#a9cba65441f9e594e14ff55537f7f83f0", null ],
-    [ "HandleAccount2FASetupCommand", "de/d37/a11767.html#aedfc70990dd6211938baad8b11a45e8c", null ],
-    [ "HandleAccountAddonCommand", "de/d37/a11767.html#ac05636d86ea945c48fdf2c8565029e2e", null ],
-    [ "HandleAccountCommand", "de/d37/a11767.html#aca24ee7a088839552cdf75c0a418d4e3", null ],
-    [ "HandleAccountCreateCommand", "de/d37/a11767.html#af8b6cb76e8a6f762b86c3a8d7134d056", null ],
-    [ "HandleAccountDeleteCommand", "de/d37/a11767.html#a4bb0b76ef822011054d699df31f60d7e", null ],
-    [ "HandleAccountLockCountryCommand", "de/d37/a11767.html#a35e6b959596f1d9a32d39af117d2b95e", null ],
-    [ "HandleAccountLockIpCommand", "de/d37/a11767.html#a14e0d3fefc18f003c0079250e5c06b18", null ],
-    [ "HandleAccountOnlineListCommand", "de/d37/a11767.html#a36cb5b885d6c0745303b386ad42541f6", null ],
-    [ "HandleAccountPasswordCommand", "de/d37/a11767.html#a5cbbc397cd816e82963c7e2e352c90e5", null ],
-    [ "HandleAccountRemoveLockCountryCommand", "de/d37/a11767.html#a6a40319f52f00881a5be4a50f812b337", null ],
-    [ "HandleAccountSet2FACommand", "de/d37/a11767.html#a195e5037d3c4886ca8e69a56daadd028", null ],
-    [ "HandleAccountSetAddonCommand", "de/d37/a11767.html#aca017dc33dab7c379d8203569775f21b", null ],
-    [ "HandleAccountSetEmailCommand", "de/d37/a11767.html#ad4f26277c3484e8091e5f23ddbd45a2f", null ],
-    [ "HandleAccountSetGmLevelCommand", "de/d37/a11767.html#a1aaee019de3b7802281e25e926fa4821", null ],
-    [ "HandleAccountSetPasswordCommand", "de/d37/a11767.html#a77e9bb9f0f82b19ec9306533cab0d7bd", null ]
+    [ "SunsReachReclamationData", "de/d37/a11767.html#a840eb2024ae39f2f60f819e884db80b3", null ],
+    [ "GetData", "de/d37/a11767.html#ae7ef124f28f2bc8230b4234652734994", null ],
+    [ "GetPhasePercentage", "de/d37/a11767.html#a215cec505dd74695704ae7961161e195", null ],
+    [ "GetSubPhasePercentage", "de/d37/a11767.html#aaee292336c57d967842d63f55e69bf0f", null ],
+    [ "GetSunwellGatePercentage", "de/d37/a11767.html#a9b5de26596e174f9a94e019fcb998f9e", null ],
+    [ "m_gate", "de/d37/a11767.html#a35755bcf3f67cfb2ebc77dcb36fa4dfb", null ],
+    [ "m_gateCounters", "de/d37/a11767.html#a76b38d6f571386c1d818752e12a66f66", null ],
+    [ "m_phase", "de/d37/a11767.html#a67711cd7d43f481161b8f98690d67fe3", null ],
+    [ "m_subphaseMask", "de/d37/a11767.html#a0a94a3b69ac5ccfcfae35af007ed375c", null ],
+    [ "m_sunsReachReclamationCounters", "de/d37/a11767.html#a14253084085c114aa2cfeefdebb0257d", null ],
+    [ "m_sunsReachReclamationMutex", "de/d37/a11767.html#a0ef2835b702469482926ec4942d0f786", null ],
+    [ "m_sunsReachReclamationPlayers", "de/d37/a11767.html#a72780ba8e17ccf5513d104eb228b3411", null ]
 ];

@@ -1,13 +1,12 @@
 var a14939 =
 [
-    [ "boss_infinite_corruptorAI", "d7/db5/a14939.html#add36192941eaabf7f3d1d41c572783bd", null ],
-    [ "DoAction", "d7/db5/a14939.html#a8ff0a9731ad7bc118a1014bdbb0e1daf", null ],
-    [ "JustDied", "d7/db5/a14939.html#a6d2f445bf0819ac644d7de14d3b7034d", null ],
-    [ "JustEngagedWith", "d7/db5/a14939.html#a644725505db4fc7a98c4255d0eb34616", null ],
-    [ "JustSummoned", "d7/db5/a14939.html#a2b12c03184b169a56a0e6696a107dc35", null ],
-    [ "Reset", "d7/db5/a14939.html#a4dbff495bfcda6fb715dec68616e1764", null ],
-    [ "UpdateAI", "d7/db5/a14939.html#aaa0a45066ab7ad7d5a7543822d399947", null ],
-    [ "beamTimer", "d7/db5/a14939.html#a2f8048e591a818f073a65bfcfa49e66c", null ],
-    [ "events", "d7/db5/a14939.html#a5491db8f5e063ca84f18f1ca63c1e846", null ],
-    [ "summons", "d7/db5/a14939.html#aa5de5f986f8a6d3ba5f3aad84422eab6", null ]
+    [ "boss_epochAI", "d7/db5/a14939.html#a2986db39b7db92b1fa9d64cef5f8c08b", null ],
+    [ "JustDied", "d7/db5/a14939.html#a780aa5bc86c80aaeeffad441b2873121", null ],
+    [ "JustEngagedWith", "d7/db5/a14939.html#ae742dceac5979faebb58a133e9bd91f0", null ],
+    [ "KilledUnit", "d7/db5/a14939.html#af41946feab7b86d812f706bd7abbf1bd", null ],
+    [ "Reset", "d7/db5/a14939.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
+    [ "SpellHitTarget", "d7/db5/a14939.html#ab87dfcf635a65b02be29186d2990fef3", null ],
+    [ "UpdateAI", "d7/db5/a14939.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
+    [ "events", "d7/db5/a14939.html#af0c1477b3d9fb48cfcf55f32e21591f4", null ],
+    [ "warps", "d7/db5/a14939.html#a478113af1ce565c729604c6039f55551", null ]
 ];

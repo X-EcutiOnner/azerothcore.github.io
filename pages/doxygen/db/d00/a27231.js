@@ -1,6 +1,7 @@
 var a27231 =
 [
-    [ "CalculateAmount", "db/d00/a27231.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
-    [ "PrepareAuraScript", "db/d00/a27231.html#a845476e27b3751fd5aab505d41d8696d", null ],
-    [ "Register", "db/d00/a27231.html#aa5141f11bcd97cc501297a5309df1079", null ]
+    [ "CheckProc", "db/d00/a27231.html#a957f8837b5613a3bfd8200ded3529c54", null ],
+    [ "HandleEffectProc", "db/d00/a27231.html#a54810a897e535558d060119e3de6537b", null ],
+    [ "PrepareAuraScript", "db/d00/a27231.html#a37950bfd846e1c2c550a108461941a26", null ],
+    [ "Register", "db/d00/a27231.html#a16c273043e81fd163fb7c3f517ee6f4c", null ]
 ];

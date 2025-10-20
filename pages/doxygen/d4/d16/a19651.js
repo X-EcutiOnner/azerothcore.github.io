@@ -1,7 +1,8 @@
 var a19651 =
 [
-    [ "HandleProc", "d4/d16/a19651.html#adb7714eca4c317ab76db0ecbc813669e", null ],
-    [ "PrepareAuraScript", "d4/d16/a19651.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
-    [ "Register", "d4/d16/a19651.html#a445ce7331c36e507aa24466ff9a67781", null ],
-    [ "Validate", "d4/d16/a19651.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
+    [ "npc_centrifuge_constructAI", "d4/d16/a19651.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
+    [ "DamageTaken", "d4/d16/a19651.html#aa568418de267a99108698e79baa1b3f4", null ],
+    [ "JustEngagedWith", "d4/d16/a19651.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
+    [ "Reset", "d4/d16/a19651.html#a2f7750cea2f59d794c85e20b703370af", null ],
+    [ "UpdateAI", "d4/d16/a19651.html#a28316416ad6c56d83c9e878511256445", null ]
 ];

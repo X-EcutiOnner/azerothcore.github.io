@@ -1,8 +1,7 @@
 var a12183 =
 [
-    [ "boss_doomrelAI", "d9/d42/a12187.html", "d9/d42/a12187" ],
-    [ "boss_doomrel", "df/da7/a12183.html#aee45a59f9a62f1d32a7dc344bd3c46c6", null ],
-    [ "GetAI", "df/da7/a12183.html#a1b8a95208506f79c00ed40be2d51eb38", null ],
-    [ "OnGossipHello", "df/da7/a12183.html#a3c544ae70c46a62ac7dd2fc5cca97c8b", null ],
-    [ "OnGossipSelect", "df/da7/a12183.html#ae430a8fef70bd46267482a70084049c1", null ]
+    [ "boss_okthorAI", "df/da7/a12183.html#a8007cfade5c04d8b4e0b787ac5a5beff", null ],
+    [ "JustEngagedWith", "df/da7/a12183.html#a466a618e52f40e04e873dd50f3728755", null ],
+    [ "UpdateAI", "df/da7/a12183.html#a246c3bd9aa96eb11d2fa48be8654d726", null ],
+    [ "nextArcaneExplosionTime", "df/da7/a12183.html#a21446d2cfc51a05de6cee3ba4301eae9", null ]
 ];

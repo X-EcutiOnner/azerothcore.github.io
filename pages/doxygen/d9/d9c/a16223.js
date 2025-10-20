@@ -1,7 +1,6 @@
 var a16223 =
 [
-    [ "DelayedTalk", "d9/d9c/a16223.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
-    [ "Execute", "d9/d9c/a16223.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
-    [ "_owner", "d9/d9c/a16223.html#a9d13769bb3fbaed32919fc919da35006", null ],
-    [ "_talkId", "d9/d9c/a16223.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
+    [ "instance_obsidian_sanctum_InstanceMapScript", "d0/dd7/a16227.html", "d0/dd7/a16227" ],
+    [ "instance_obsidian_sanctum", "d9/d9c/a16223.html#a6cf2121c4167156f5748c144372b3c0b", null ],
+    [ "GetInstanceScript", "d9/d9c/a16223.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
 ];

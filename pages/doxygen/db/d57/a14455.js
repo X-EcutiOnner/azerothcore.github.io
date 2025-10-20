@@ -1,6 +1,10 @@
 var a14455 =
 [
-    [ "npc_direbrew_antagonist", "db/d57/a14455.html#a30fed4e6888d98af576dea8e13c510d3", null ],
-    [ "DoAction", "db/d57/a14455.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
-    [ "JustEngagedWith", "db/d57/a14455.html#aaf54b03d66d726901c289ff28d362787", null ]
+    [ "npc_coren_direbrew_sisters", "db/d57/a14455.html#a415ea0ebd044236f5f4c4d6c28896e00", null ],
+    [ "GetGUID", "db/d57/a14455.html#a61863117e71ebfb7f1c4c83780ece7bc", null ],
+    [ "JustEngagedWith", "db/d57/a14455.html#a34e0b6af032240c152c463c221d99335", null ],
+    [ "SetGUID", "db/d57/a14455.html#a8b25691671f4a65e990e9f39c92214ae", null ],
+    [ "UpdateAI", "db/d57/a14455.html#a7434b08d12d3f0902d1944b75323560c", null ],
+    [ "_scheduler", "db/d57/a14455.html#a9d8ca85e7bbd3cc9c61c2bbb38b7d222", null ],
+    [ "_targetGUID", "db/d57/a14455.html#a801a6811124a7db3a31ec492ef954b20", null ]
 ];

@@ -1,15 +1,17 @@
 var a22731 =
 [
-    [ "OutdoorPvPEP", "d9/d64/a22731.html#ab4915dfc03de08cad83eb48c4c789cb8", null ],
-    [ "BuffTeams", "d9/d64/a22731.html#ac6a61c19ba96ca843eb12952d0c09078", null ],
-    [ "FillInitialWorldStates", "d9/d64/a22731.html#ac1b185125fa1f8864d1062b65be24bdc", null ],
-    [ "HandlePlayerEnterZone", "d9/d64/a22731.html#a9e7404160b1220dc3cc2766a07f42ad2", null ],
-    [ "HandlePlayerLeaveZone", "d9/d64/a22731.html#a251b154abfaec9cbfb1a56e657ac5214", null ],
-    [ "SendRemoveWorldStates", "d9/d64/a22731.html#afad47628bb4cfcc6060ce35396e33d9d", null ],
-    [ "SetControlledState", "d9/d64/a22731.html#abef30d5cbe7c2cd52cd32ae29da1c9ce", null ],
-    [ "SetupOutdoorPvP", "d9/d64/a22731.html#acecc8126180c027cb3d685231e55d873", null ],
-    [ "Update", "d9/d64/a22731.html#a974910b2f7f2d8cfaf43b6694bf4c2c7", null ],
-    [ "EP_ControlsId", "d9/d64/a22731.html#a7e8fcf50f88bdb56b189877721a1f006", null ],
-    [ "m_AllianceTowersControlled", "d9/d64/a22731.html#a09e5cf029656af3fc740b236596d42ee", null ],
-    [ "m_HordeTowersControlled", "d9/d64/a22731.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1", null ]
+    [ "OutdoorPvPHP", "d9/d64/a22731.html#a19118d7facc4a745e391491fb7d95421", null ],
+    [ "FillInitialWorldStates", "d9/d64/a22731.html#a4ecc55395f1f792075e07026e1ccd171", null ],
+    [ "GetAllianceTowersControlled", "d9/d64/a22731.html#ae6d3a1561b94d92539a5dd8b5ac56689", null ],
+    [ "GetHordeTowersControlled", "d9/d64/a22731.html#a9395b6966bcdd36b448ca1c403f17873", null ],
+    [ "HandleKillImpl", "d9/d64/a22731.html#aad7804f10c42f6643397d673ba4e9bee", null ],
+    [ "HandlePlayerEnterZone", "d9/d64/a22731.html#a117149e3db7fa02fdcfab05a6ff6de18", null ],
+    [ "HandlePlayerLeaveZone", "d9/d64/a22731.html#abf21499824ad64aa7a26a4b33090783e", null ],
+    [ "SendRemoveWorldStates", "d9/d64/a22731.html#ac94c44783b2141c751d5c16a24bce8d4", null ],
+    [ "SetAllianceTowersControlled", "d9/d64/a22731.html#a1f9bbc083ae0bb7c00a303909ab043f5", null ],
+    [ "SetHordeTowersControlled", "d9/d64/a22731.html#ae5de375e1ec88dc5ce0059490596a935", null ],
+    [ "SetupOutdoorPvP", "d9/d64/a22731.html#aee60f1d1da4d6eecd0e66cf975272979", null ],
+    [ "Update", "d9/d64/a22731.html#aeec44f41e6d6fe7c768bb738a3eafb47", null ],
+    [ "m_AllianceTowersControlled", "d9/d64/a22731.html#a90c41df874abfee0a4861cf923de9ab5", null ],
+    [ "m_HordeTowersControlled", "d9/d64/a22731.html#ada8244f57fe3a693d167689d3f921025", null ]
 ];

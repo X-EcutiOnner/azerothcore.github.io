@@ -1,7 +1,6 @@
 var a27871 =
 [
-    [ "npc_guardianAI", "d2/dcd/a27871.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
-    [ "JustEngagedWith", "d2/dcd/a27871.html#a50257f80245bc59437e53083badcb056", null ],
-    [ "Reset", "d2/dcd/a27871.html#a217df9bae079f56ffd70d27958fb2756", null ],
-    [ "UpdateAI", "d2/dcd/a27871.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
+    [ "npc_pet_trainerAI", "d4/d5c/a27875.html", "d4/d5c/a27875" ],
+    [ "npc_pet_trainer", "d2/dcd/a27871.html#ac2279bce52e911b1c339da5e68aa2501", null ],
+    [ "GetAI", "d2/dcd/a27871.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
 ];

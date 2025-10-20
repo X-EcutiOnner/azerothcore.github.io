@@ -1,8 +1,6 @@
 var a26863 =
 [
-    [ "HandleDummy", "dd/de4/a26863.html#a308880cf9c61c76de0fdee05fff2b463", null ],
-    [ "Load", "dd/de4/a26863.html#acafb9d6ac4fde694dc44cbf13b7f97ad", null ],
-    [ "PrepareSpellScript", "dd/de4/a26863.html#a3a2672c39f36229c0dd6cdea0fad3299", null ],
-    [ "Register", "dd/de4/a26863.html#a1857b342ae34a57f079f45019645c688", null ],
-    [ "Validate", "dd/de4/a26863.html#a121c30045281eab5fee4f65d38d1dfc3", null ]
+    [ "CheckCast", "dd/de4/a26863.html#a97f479cccecc6f37c75b47122b47e333", null ],
+    [ "PrepareSpellScript", "dd/de4/a26863.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
+    [ "Register", "dd/de4/a26863.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
 ];

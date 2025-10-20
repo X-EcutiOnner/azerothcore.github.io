@@ -116,14 +116,14 @@ $(document).ready(function(){initNavTree('de/d73/a09411.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a2c775f62eeabcb8af5306cbcedae322e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d73/a09411.html#a2c775f62eeabcb8af5306cbcedae322e">AnyGroupedUnitInObjectRangeCheck</a> (<a class="el" href="../../de/d2b/a08447.html">WorldObject</a> const *obj, <a class="el" href="../../d6/d41/a08799.html">Unit</a> const *funit, float range, bool raid)</td></tr>
+<tr class="memitem:a2c775f62eeabcb8af5306cbcedae322e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d73/a09411.html#a2c775f62eeabcb8af5306cbcedae322e">AnyGroupedUnitInObjectRangeCheck</a> (<a class="el" href="../../dc/d34/a08451.html">WorldObject</a> const *obj, <a class="el" href="../../d6/d41/a08799.html">Unit</a> const *funit, float range, bool raid)</td></tr>
 <tr class="separator:a2c775f62eeabcb8af5306cbcedae322e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3c316eacdd1c74c69d8297871f84d7b9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d73/a09411.html#a3c316eacdd1c74c69d8297871f84d7b9">operator()</a> (<a class="el" href="../../d6/d41/a08799.html">Unit</a> *u)</td></tr>
 <tr class="separator:a3c316eacdd1c74c69d8297871f84d7b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a91de967d2376ea96b1fc0838094915cf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d2b/a08447.html">WorldObject</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d73/a09411.html#a91de967d2376ea96b1fc0838094915cf">_source</a></td></tr>
+<tr class="memitem:a91de967d2376ea96b1fc0838094915cf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d34/a08451.html">WorldObject</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d73/a09411.html#a91de967d2376ea96b1fc0838094915cf">_source</a></td></tr>
 <tr class="separator:a91de967d2376ea96b1fc0838094915cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad083243ef5487aa374b19e3c82b0457c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d41/a08799.html">Unit</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d73/a09411.html#ad083243ef5487aa374b19e3c82b0457c">_refUnit</a></td></tr>
 <tr class="separator:ad083243ef5487aa374b19e3c82b0457c"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -146,7 +146,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">Acore::AnyGroupedUnitInObjectRangeCheck::AnyGroupedUnitInObjectRangeCheck </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d2b/a08447.html">WorldObject</a> const *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dc/d34/a08451.html">WorldObject</a> const *&#160;</td>
           <td class="paramname"><em>obj</em>, </td>
         </tr>
         <tr>
@@ -220,15 +220,15 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno"> 1013</span>            <span class="keywordflow">else</span> <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../de/d73/a09411.html#ad083243ef5487aa374b19e3c82b0457c">_refUnit</a>-&gt;<a class="code hl_function" href="../../d6/d41/a08799.html#aefb32cb21b4b745ed8fd3cc49644e5d7">IsInPartyWith</a>(u))</div>
 <div class="line"><span class="lineno"> 1014</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno"> 1015</span> </div>
-<div class="line"><span class="lineno"> 1016</span>            <span class="keywordflow">return</span> !<a class="code hl_variable" href="../../de/d73/a09411.html#ad083243ef5487aa374b19e3c82b0457c">_refUnit</a>-&gt;<a class="code hl_function" href="../../d6/d41/a08799.html#ae8d112bd8c9cc28d1186e773945291b6">IsHostileTo</a>(u) &amp;&amp; u-&gt;<a class="code hl_function" href="../../d6/d41/a08799.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() &amp;&amp; <a class="code hl_variable" href="../../de/d73/a09411.html#a91de967d2376ea96b1fc0838094915cf">_source</a>-&gt;<a class="code hl_function" href="../../de/d2b/a08447.html#ab73407bcdf13a30519a953d24773ed02">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../de/d73/a09411.html#a01b4592ac61d58ff39e5bb2eb1a1b997">_range</a>);</div>
+<div class="line"><span class="lineno"> 1016</span>            <span class="keywordflow">return</span> !<a class="code hl_variable" href="../../de/d73/a09411.html#ad083243ef5487aa374b19e3c82b0457c">_refUnit</a>-&gt;<a class="code hl_function" href="../../d6/d41/a08799.html#ae8d112bd8c9cc28d1186e773945291b6">IsHostileTo</a>(u) &amp;&amp; u-&gt;<a class="code hl_function" href="../../d6/d41/a08799.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() &amp;&amp; <a class="code hl_variable" href="../../de/d73/a09411.html#a91de967d2376ea96b1fc0838094915cf">_source</a>-&gt;<a class="code hl_function" href="../../dc/d34/a08451.html#ab73407bcdf13a30519a953d24773ed02">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../de/d73/a09411.html#a01b4592ac61d58ff39e5bb2eb1a1b997">_range</a>);</div>
 <div class="line"><span class="lineno"> 1017</span>        }</div>
-<div class="ttc" id="aa08447_html_ab73407bcdf13a30519a953d24773ed02"><div class="ttname"><a href="../../de/d2b/a08447.html#ab73407bcdf13a30519a953d24773ed02">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool useBoundingRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1350</div></div>
-<div class="ttc" id="aa08799_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d6/d41/a08799.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1727</div></div>
-<div class="ttc" id="aa08799_html_aba37c290cf4f3e5dbeb170714eb711b1"><div class="ttname"><a href="../../d6/d41/a08799.html#aba37c290cf4f3e5dbeb170714eb711b1">Unit::IsInRaidWith</a></div><div class="ttdeci">bool IsInRaidWith(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:18880</div></div>
-<div class="ttc" id="aa08799_html_ae8d112bd8c9cc28d1186e773945291b6"><div class="ttname"><a href="../../d6/d41/a08799.html#ae8d112bd8c9cc28d1186e773945291b6">Unit::IsHostileTo</a></div><div class="ttdeci">bool IsHostileTo(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10288</div></div>
-<div class="ttc" id="aa08799_html_aefb32cb21b4b745ed8fd3cc49644e5d7"><div class="ttname"><a href="../../d6/d41/a08799.html#aefb32cb21b4b745ed8fd3cc49644e5d7">Unit::IsInPartyWith</a></div><div class="ttdeci">bool IsInPartyWith(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:18857</div></div>
+<div class="ttc" id="aa08451_html_ab73407bcdf13a30519a953d24773ed02"><div class="ttname"><a href="../../dc/d34/a08451.html#ab73407bcdf13a30519a953d24773ed02">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool useBoundingRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1350</div></div>
+<div class="ttc" id="aa08799_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d6/d41/a08799.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1726</div></div>
+<div class="ttc" id="aa08799_html_aba37c290cf4f3e5dbeb170714eb711b1"><div class="ttname"><a href="../../d6/d41/a08799.html#aba37c290cf4f3e5dbeb170714eb711b1">Unit::IsInRaidWith</a></div><div class="ttdeci">bool IsInRaidWith(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:18878</div></div>
+<div class="ttc" id="aa08799_html_ae8d112bd8c9cc28d1186e773945291b6"><div class="ttname"><a href="../../d6/d41/a08799.html#ae8d112bd8c9cc28d1186e773945291b6">Unit::IsHostileTo</a></div><div class="ttdeci">bool IsHostileTo(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10287</div></div>
+<div class="ttc" id="aa08799_html_aefb32cb21b4b745ed8fd3cc49644e5d7"><div class="ttname"><a href="../../d6/d41/a08799.html#aefb32cb21b4b745ed8fd3cc49644e5d7">Unit::IsInPartyWith</a></div><div class="ttdeci">bool IsInPartyWith(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:18855</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01023">_raid</a>, <a class="el" href="../../#l01022">_range</a>, <a class="el" href="../../#l01021">_refUnit</a>, <a class="el" href="../../#l01020">_source</a>, <a class="el" href="../../#l01727">Unit::IsAlive()</a>, <a class="el" href="../../#l10288">Unit::IsHostileTo()</a>, <a class="el" href="../../#l18857">Unit::IsInPartyWith()</a>, <a class="el" href="../../#l18880">Unit::IsInRaidWith()</a>, and <a class="el" href="../../#l01350">WorldObject::IsWithinDistInMap()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01023">_raid</a>, <a class="el" href="../../#l01022">_range</a>, <a class="el" href="../../#l01021">_refUnit</a>, <a class="el" href="../../#l01020">_source</a>, <a class="el" href="../../#l01726">Unit::IsAlive()</a>, <a class="el" href="../../#l10287">Unit::IsHostileTo()</a>, <a class="el" href="../../#l18855">Unit::IsInPartyWith()</a>, <a class="el" href="../../#l18878">Unit::IsInRaidWith()</a>, and <a class="el" href="../../#l01350">WorldObject::IsWithinDistInMap()</a>.</p>
 
 </div>
 </div>
@@ -315,7 +315,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d2b/a08447.html">WorldObject</a> const* Acore::AnyGroupedUnitInObjectRangeCheck::_source</td>
+          <td class="memname"><a class="el" href="../../dc/d34/a08451.html">WorldObject</a> const* Acore::AnyGroupedUnitInObjectRangeCheck::_source</td>
         </tr>
       </table>
   </td>
@@ -335,7 +335,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d62/a04803.html">Acore</a></li><li class="navelem"><a class="el" href="../../de/d73/a09411.html">AnyGroupedUnitInObjectRangeCheck</a></li>
-    <li class="footer">Generated on Mon Oct 13 2025 20:46:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Oct 20 2025 20:48:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

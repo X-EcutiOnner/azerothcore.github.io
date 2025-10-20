@@ -1,6 +1,6 @@
 var a17215 =
 [
-    [ "boss_krickAI", "d5/dcb/a17219.html", "d5/dcb/a17219" ],
-    [ "boss_krick", "df/dd0/a17215.html#a8921ff79c0af7db7f7910634239bcd0c", null ],
-    [ "GetAI", "df/dd0/a17215.html#a9aa994da7c667b20c00b1bd1e994fed1", null ]
+    [ "boss_ickAI", "d5/dcb/a17219.html", "d5/dcb/a17219" ],
+    [ "boss_ick", "df/dd0/a17215.html#af97d7f96bc48ba245e28c18614b9369e", null ],
+    [ "GetAI", "df/dd0/a17215.html#a355285766712a31b704c23fe85d19e5f", null ]
 ];

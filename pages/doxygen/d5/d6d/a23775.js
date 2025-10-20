@@ -1,12 +1,12 @@
 var a23775 =
 [
-    [ "boss_omor_the_unscarred", "d5/d6d/a23775.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
-    [ "JustDied", "d5/d6d/a23775.html#a9ddae483a0f8cefd8a19975b60002660", null ],
-    [ "JustEngagedWith", "d5/d6d/a23775.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
-    [ "JustSummoned", "d5/d6d/a23775.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
-    [ "KilledUnit", "d5/d6d/a23775.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
-    [ "Reset", "d5/d6d/a23775.html#a0ec22c50cd096677a20299ab45a3c344", null ],
-    [ "UpdateAI", "d5/d6d/a23775.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
-    [ "_hasSpoken", "d5/d6d/a23775.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
-    [ "_targetGUID", "d5/d6d/a23775.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
+    [ "boss_watchkeeper_gargolmar", "d5/d6d/a23775.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
+    [ "JustDied", "d5/d6d/a23775.html#a39be5796b39bea913105fc48dda0d186", null ],
+    [ "JustEngagedWith", "d5/d6d/a23775.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
+    [ "KilledUnit", "d5/d6d/a23775.html#a22736c2680f41cfd3443a76cd4de9352", null ],
+    [ "MoveInLineOfSight", "d5/d6d/a23775.html#adec9837fdb2595ce57acffb279a7d011", null ],
+    [ "Reset", "d5/d6d/a23775.html#a356b7fe9071b073b74b21913e35e7408", null ],
+    [ "UpdateAI", "d5/d6d/a23775.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
+    [ "_hasSpoken", "d5/d6d/a23775.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
+    [ "_taunted", "d5/d6d/a23775.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
 ];

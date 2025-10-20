@@ -1,17 +1,12 @@
 var a11159 =
 [
-    [ "WorldPacket", "d9/d65/a11159.html#a6329945c46586b75f41f4f3b0410a046", null ],
-    [ "WorldPacket", "d9/d65/a11159.html#a121222c627cfce905891be1611705a1a", null ],
-    [ "WorldPacket", "d9/d65/a11159.html#af406fe2f357035990fd5eccf37f3fb93", null ],
-    [ "WorldPacket", "d9/d65/a11159.html#a2880e36e172096407778fcbbdfe917bc", null ],
-    [ "WorldPacket", "d9/d65/a11159.html#a251580581b403cc113aa743c0196ceea", null ],
-    [ "WorldPacket", "d9/d65/a11159.html#a224a2ad18da5d8dd7a7bcbb887870243", null ],
-    [ "GetOpcode", "d9/d65/a11159.html#a666547feae3b83bfbba424a541287239", null ],
-    [ "GetReceivedTime", "d9/d65/a11159.html#a467aa36509adcb07f51bc8af24137c3e", null ],
-    [ "Initialize", "d9/d65/a11159.html#a6b7d58fb0230383629fa888d3aa9dbd8", null ],
-    [ "operator=", "d9/d65/a11159.html#ad44064a3c2c73f6289a9db539b408f50", null ],
-    [ "operator=", "d9/d65/a11159.html#aa1196a05e7b338543b3b94188e59721f", null ],
-    [ "SetOpcode", "d9/d65/a11159.html#acb55a3f9540c39bf88300473c29605ed", null ],
-    [ "m_opcode", "d9/d65/a11159.html#a4ff77d8a27744f07bbab70cdc4a3ef91", null ],
-    [ "m_receivedTime", "d9/d65/a11159.html#abb78776ad3a0f19e5e3d226666612b49", null ]
+    [ "PacketLog", "d9/d65/a11159.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
+    [ "~PacketLog", "d9/d65/a11159.html#a595a42f9aaa94d6c46d185955df801e0", null ],
+    [ "CanLogPacket", "d9/d65/a11159.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
+    [ "Initialize", "d9/d65/a11159.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
+    [ "instance", "d9/d65/a11159.html#a484418a51ca0bf150d17b23d97979bf4", null ],
+    [ "LogPacket", "d9/d65/a11159.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
+    [ "_file", "d9/d65/a11159.html#a03346a709f7586f6445e03b9a3b6af04", null ],
+    [ "_initializeFlag", "d9/d65/a11159.html#a490cafe009f7b2ecb303a76c781f8960", null ],
+    [ "_logPacketLock", "d9/d65/a11159.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
 ];

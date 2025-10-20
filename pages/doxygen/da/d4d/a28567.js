@@ -1,5 +1,5 @@
 var a28567 =
 [
-    [ "content", "da/d4d/a28567.html#a936eb07adb8a41480dfc196127b7e5c0", null ],
-    [ "ID", "da/d4d/a28567.html#a1a33aff67b979c3c7a76c26debb5fc25", null ]
+    [ "id", "da/d4d/a28567.html#a22e48015dd880199e131089e35b1ce05", null ],
+    [ "spellId", "da/d4d/a28567.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
 ];

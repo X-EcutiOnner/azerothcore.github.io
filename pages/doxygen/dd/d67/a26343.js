@@ -1,6 +1,10 @@
 var a26343 =
 [
-    [ "CheckProc", "dd/d67/a26343.html#a0f1461140b08deac3f044142067368e7", null ],
-    [ "PrepareAuraScript", "dd/d67/a26343.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
-    [ "Register", "dd/d67/a26343.html#a05e31c2252c9054a18b4267be84895b9", null ]
+    [ "Load", "dd/d67/a26343.html#a4330a13b4144aa0a2e299c5cb00b1aea", null ],
+    [ "PrepareAuraScript", "dd/d67/a26343.html#ae04fa1b54e4b0219d1dcdf998e708c29", null ],
+    [ "Register", "dd/d67/a26343.html#a3031d32b7366f7f707cbb69e3cb96fc8", null ],
+    [ "Split", "dd/d67/a26343.html#aa28fe4ba6a8a501318b6d1d49a2fa9b9", null ],
+    [ "groupSize", "dd/d67/a26343.html#aa1e61b128f63c802dc623be551657df1", null ],
+    [ "minHpPct", "dd/d67/a26343.html#a279f1a2b232a7be981e4315c9e8595e4", null ],
+    [ "remainingAmount", "dd/d67/a26343.html#ad00a550f82d6b3ae77c3112c753de60b", null ]
 ];

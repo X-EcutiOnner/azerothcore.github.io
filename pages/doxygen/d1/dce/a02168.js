@@ -1,6 +1,6 @@
 var a02168 =
 [
-    [ "boss_dalliah_the_doomsayer", "d8/daf/a23939.html", "d8/daf/a23939" ],
+    [ "boss_dalliah_the_doomsayer", "d0/db2/a23915.html", "d0/db2/a23915" ],
     [ "Say", "d1/dce/a02168.html#aa58e311eb19c72984d1fb3bcf9ae2a68", [
       [ "SAY_AGGRO", "d3/d50/a03632.html#aa58e311eb19c72984d1fb3bcf9ae2a68a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_LEASH", "d3/d50/a03632.html#aa58e311eb19c72984d1fb3bcf9ae2a68a7d67e29b0f8ef4c0df41e318ab764d9a", null ],

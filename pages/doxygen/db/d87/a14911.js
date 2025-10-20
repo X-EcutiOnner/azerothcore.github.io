@@ -1,10 +1,6 @@
 var a14911 =
 [
-    [ "npc_hyjal_gargoyle", "db/d87/a14911.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
-    [ "AttackStart", "db/d87/a14911.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
-    [ "DoAction", "db/d87/a14911.html#ae213c71426f438dd2b27699d7de23664", null ],
-    [ "JustEngagedWith", "db/d87/a14911.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
-    [ "PathEndReached", "db/d87/a14911.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
-    [ "Reset", "db/d87/a14911.html#af314bb183bde44680eeb136d2a08c142", null ],
-    [ "UpdateAI", "db/d87/a14911.html#ac1ca0648b08430a8bcbf99980222b684", null ]
+    [ "HandleHeal", "db/d87/a14911.html#a953536a9a393af9472bdd89018449df0", null ],
+    [ "PrepareSpellScript", "db/d87/a14911.html#a70503fc6042001a860d361f2597b7153", null ],
+    [ "Register", "db/d87/a14911.html#a383479896e6deb96e50b827370ccfd4d", null ]
 ];

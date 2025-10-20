@@ -1,8 +1,9 @@
 var a06123 =
 [
-    [ "ArcherAI", "d4/d17/a06123.html#a113c138958054716182c15ee9f2b47da", null ],
-    [ "AttackStart", "d4/d17/a06123.html#adc79f7ead63ecaf8fed9ea4f81d27f76", null ],
-    [ "Permissible", "d4/d17/a06123.html#ac5b3d144b0d71a5e527d53f33c3d31cc", null ],
-    [ "UpdateAI", "d4/d17/a06123.html#aa6e072e239549d337de61670a05eb6f8", null ],
-    [ "m_minRange", "d4/d17/a06123.html#ab449efcd81769888ff8d8bc5f348cbe7", null ]
+    [ "CasterAI", "d4/d17/a06123.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e", null ],
+    [ "AttackStart", "d4/d17/a06123.html#a28386fd1a275c002445e5eaf90314a3d", null ],
+    [ "InitializeAI", "d4/d17/a06123.html#a2a24cdc24b665c52363dae587572fc4d", null ],
+    [ "JustEngagedWith", "d4/d17/a06123.html#ad436decd8b3da4323cf3fdb4a9e5a849", null ],
+    [ "UpdateAI", "d4/d17/a06123.html#a0fa50ac9bd99ff0c2c7e78f03a737090", null ],
+    [ "m_attackDist", "d4/d17/a06123.html#a561dbc6713a8ec58ef6b23ae4d04d81b", null ]
 ];

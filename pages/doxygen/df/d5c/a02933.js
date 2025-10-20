@@ -1,7 +1,7 @@
 var a02933 =
 [
-    [ "npc_preparations_for_war_vehicle", "de/d73/a21875.html", "de/d73/a21875" ],
-    [ "npc_warmage_violetstand", "d6/d4a/a21879.html", "d6/d4a/a21879" ],
+    [ "npc_preparations_for_war_vehicle", "d3/d9f/a21851.html", "d3/d9f/a21851" ],
+    [ "npc_warmage_violetstand", "df/db1/a21855.html", "df/db1/a21855" ],
     [ "ePreparationsForWar", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1", [
       [ "NPC_HAMMERHEAD", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1ad1b13588c08e2e01417692b4885a4872", null ],
       [ "NPC_CLOUDBUSTER", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1afa07f0b51a484de98e7c55105c1235fa", null ],

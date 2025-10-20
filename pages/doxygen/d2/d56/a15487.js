@@ -1,6 +1,8 @@
 var a15487 =
 [
-    [ "HandleDummy", "d2/d56/a15487.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
-    [ "PrepareSpellScript", "d2/d56/a15487.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
-    [ "Register", "d2/d56/a15487.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
+    [ "npc_obsidian_nullifier", "d2/d56/a15487.html#a9dbb6d681e348057564750fcd7e8050a", null ],
+    [ "JustEngagedWith", "d2/d56/a15487.html#ad3e30a214a9bcb6ea13d3a78716b5cb1", null ],
+    [ "Reset", "d2/d56/a15487.html#a9897eab3b71dd0a6a2ea598951b095cd", null ],
+    [ "UpdateAI", "d2/d56/a15487.html#a37cf1d335dd3735b262e82828c4f904a", null ],
+    [ "_targetGUIDs", "d2/d56/a15487.html#aaf125742bf9d17ec0b605b78dee39c7c", null ]
 ];

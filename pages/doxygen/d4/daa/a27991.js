@@ -1,8 +1,6 @@
 var a27991 =
 [
-    [ "npc_cultist_engineer", "d4/daa/a27991.html#a02675a96d20902d147b0370fa1715d81", null ],
-    [ "JustDied", "d4/daa/a27991.html#a4b4d561f827553998caa204e0e1b9e54", null ],
-    [ "Reset", "d4/daa/a27991.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
-    [ "sGossipSelect", "d4/daa/a27991.html#ab26d124cbfdc4d649fef6058e9637845", null ],
-    [ "UpdateAI", "d4/daa/a27991.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
+    [ "CheckCast", "d4/daa/a27991.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
+    [ "PrepareSpellScript", "d4/daa/a27991.html#aa3c18907c79309a8924a98bce41e27f1", null ],
+    [ "Register", "d4/daa/a27991.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
 ];

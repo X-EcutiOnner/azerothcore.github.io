@@ -1,11 +1,10 @@
 var a16571 =
 [
-    [ "npc_anubarak_spikeAI", "db/dfc/a16571.html#a1982ce33ce76e15d33bfcc222f5ad734", null ],
-    [ "DamageTaken", "db/dfc/a16571.html#a3b548e629d2c6217f21644136ca7ba4b", null ],
-    [ "DoAction", "db/dfc/a16571.html#ab583d97745ea69e95a1ecc0b68ac9878", null ],
-    [ "Reset", "db/dfc/a16571.html#af5b4a1227467d86d9dbba57362fdf360", null ],
-    [ "SelectNewTarget", "db/dfc/a16571.html#ab9ed5d53703464c488267f578a214fb8", null ],
-    [ "UpdateAI", "db/dfc/a16571.html#af8d6d840785c718d963c7b150cd12d9c", null ],
-    [ "events", "db/dfc/a16571.html#a52ff0006b5194edcb55f49e970a15ab8", null ],
-    [ "TargetGUID", "db/dfc/a16571.html#a2f7cbaf81e159035476ee9576a0e3990", null ]
+    [ "npc_nerubian_burrowerAI", "db/dfc/a16571.html#a7673709e7b16a6573d9c7392ba556313", null ],
+    [ "CanAIAttack", "db/dfc/a16571.html#a82e4a5ca23ae2a94212b214aad1c69df", null ],
+    [ "JustDied", "db/dfc/a16571.html#ab5182ad65187c472b306e2177530d7b6", null ],
+    [ "Reset", "db/dfc/a16571.html#a4491965d9c08ed1d888cad6f7b06352d", null ],
+    [ "SpellHitTarget", "db/dfc/a16571.html#a64fa2c8276f7418542190e833dd72c51", null ],
+    [ "UpdateAI", "db/dfc/a16571.html#abd2c7333625ded502a00848b09ee9a40", null ],
+    [ "events", "db/dfc/a16571.html#ab45e8c6dd9ea3552fed4b926136f80e6", null ]
 ];

@@ -1,7 +1,7 @@
 var a14071 =
 [
-    [ "npc_zuljin_vortex", "dd/d5d/a14071.html#af3af996adc0a0dba4af992234f8356fb", null ],
-    [ "ChangeToNewPlayer", "dd/d5d/a14071.html#ab353794ef978151999fdd2294783e757", null ],
-    [ "Reset", "dd/d5d/a14071.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
-    [ "UpdateAI", "dd/d5d/a14071.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
+    [ "spell", "dd/d5d/a14071.html#a55423d09b2f1775dc386a36168ad764d", null ],
+    [ "spiritEntry", "dd/d5d/a14071.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
+    [ "text", "dd/d5d/a14071.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
+    [ "unaura", "dd/d5d/a14071.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
 ];

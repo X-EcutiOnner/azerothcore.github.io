@@ -1,7 +1,10 @@
 var a22319 =
 [
-    [ "GetSeatNumber", "d0/d2e/a22319.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
-    [ "HandleDummy", "d0/d2e/a22319.html#ac5945381452559e1d5655f5345bdeff3", null ],
-    [ "PrepareSpellScript", "d0/d2e/a22319.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
-    [ "Register", "d0/d2e/a22319.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
+    [ "npc_infra_green_bomber_genericAI", "d0/d2e/a22319.html#aed712ea3625971e059e2ecd158227287", null ],
+    [ "DamageTaken", "d0/d2e/a22319.html#a8f860368df96e430b441c8316db99c93", null ],
+    [ "GetSummoner", "d0/d2e/a22319.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
+    [ "IsSummonedBy", "d0/d2e/a22319.html#a79676717b7c6219ea74ebe5a580eab28", null ],
+    [ "SpreadFire", "d0/d2e/a22319.html#a5727c839b7dd02ea64eccce3606688d1", null ],
+    [ "UpdateAI", "d0/d2e/a22319.html#a252875777655e963965676a24c15e766", null ],
+    [ "events", "d0/d2e/a22319.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
 ];

@@ -1,6 +1,6 @@
 var a20835 =
 [
-    [ "boss_thorim_trapAI", "dd/d33/a20839.html", "dd/d33/a20839" ],
-    [ "boss_thorim_trap", "da/d51/a20835.html#af529112badd88f9ebe4cec216d9edaeb", null ],
-    [ "GetAI", "da/d51/a20835.html#afd4ee85d73354b790c0d55abbfad75fd", null ]
+    [ "boss_thorim_start_npcsAI", "dd/d33/a20839.html", "dd/d33/a20839" ],
+    [ "boss_thorim_start_npcs", "da/d51/a20835.html#a3aa11a487ae00b2e397fd25ed2e42702", null ],
+    [ "GetAI", "da/d51/a20835.html#a6c529b19d071b4966ccc74b44279cb08", null ]
 ];

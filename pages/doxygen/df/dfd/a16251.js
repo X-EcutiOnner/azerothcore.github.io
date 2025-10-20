@@ -1,6 +1,7 @@
 var a16251 =
 [
-    [ "npc_xerestraszaAI", "d1/d92/a16255.html", "d1/d92/a16255" ],
-    [ "npc_xerestrasza", "df/dfd/a16251.html#a49023756b5dab130e4ffd7e62fa80ce4", null ],
-    [ "GetAI", "df/dfd/a16251.html#a5e0ede0054969d4787db56781dc55846", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "df/dfd/a16251.html#aed531e61508d4d404827f47c6348a5e6", null ],
+    [ "JustEngagedWith", "df/dfd/a16251.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
+    [ "UpdateAI", "df/dfd/a16251.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
+    [ "_events", "df/dfd/a16251.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
 ];

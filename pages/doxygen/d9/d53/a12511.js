@@ -1,5 +1,6 @@
 var a12511 =
 [
-    [ "go_orb_of_domination", "d9/d53/a12511.html#a1d4659e21344a12ec6084ef7ef5df7d0", null ],
-    [ "OnGossipHello", "d9/d53/a12511.html#aa88cebf1bd539b55cf63f10a25cc1bbb", null ]
+    [ "boss_razorgoreAI", "d4/d6a/a12515.html", "d4/d6a/a12515" ],
+    [ "boss_razorgore", "d9/d53/a12511.html#aee534a04797c5938e6da00f2ab119943", null ],
+    [ "GetAI", "d9/d53/a12511.html#a4683a5deefdb9d3219638189e9a99c2a", null ]
 ];

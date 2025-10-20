@@ -1,4 +1,5 @@
 var a28003 =
 [
-    [ "operator()", "de/de3/a28003.html#a76ede7ef27a41a284821e690c88375c9", null ]
+    [ "npc_sunwell_gate", "de/de3/a28003.html#a70643c475fe4aa6f47e0a47222b1faad", null ],
+    [ "OnQuestReward", "de/de3/a28003.html#acfcf6b252cc7ebc594b22fffffa5930b", null ]
 ];

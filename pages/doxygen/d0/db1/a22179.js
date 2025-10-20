@@ -1,6 +1,7 @@
 var a22179 =
 [
-    [ "CheckRequirement", "d0/db1/a22179.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "d0/db1/a22179.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "d0/db1/a22179.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "HandleAfterEffectApply", "d0/db1/a22179.html#ab54795dc49ca453db40494a694158a98", null ],
+    [ "PrepareAuraScript", "d0/db1/a22179.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
+    [ "Register", "d0/db1/a22179.html#addd4fac4cc8a93d800abacb144e3303c", null ],
+    [ "Validate", "d0/db1/a22179.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
 ];

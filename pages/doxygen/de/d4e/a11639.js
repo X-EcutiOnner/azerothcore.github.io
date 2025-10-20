@@ -1,7 +1,5 @@
 var a11639 =
 [
-    [ "PlayerDumpReader", "de/d4e/a11639.html#ad630b61e298fb1ddf165481c9a14e077", null ],
-    [ "LoadDump", "de/d4e/a11639.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
-    [ "LoadDumpFromFile", "de/d4e/a11639.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
-    [ "LoadDumpFromString", "de/d4e/a11639.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
+    [ "PlayerDump", "de/d4e/a11639.html#a457c89834631206d39453721e41af28e", null ],
+    [ "InitializeTables", "de/d4e/a11639.html#a69c8e6c412ac09099752a3ad388f5467", null ]
 ];

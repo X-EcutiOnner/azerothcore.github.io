@@ -1,9 +1,5 @@
 var a22619 =
 [
-    [ "HandleFinish", "d8/d30/a22619.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
-    [ "Load", "d8/d30/a22619.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
-    [ "PrepareSpellScript", "d8/d30/a22619.html#a8326b3f9f78aab65225e81d274cc37df", null ],
-    [ "Register", "d8/d30/a22619.html#a749858f56e15a0bb6074d15ba166625d", null ],
-    [ "Validate", "d8/d30/a22619.html#a64005c52e7112c466f6206b7f6c847c0", null ],
-    [ "handled", "d8/d30/a22619.html#a7afe3007a016cb553f437544f8fd6f89", null ]
+    [ "achievement_wg_vehicular_gnomeslaughter", "d8/d30/a22619.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
+    [ "OnCheck", "d8/d30/a22619.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
 ];

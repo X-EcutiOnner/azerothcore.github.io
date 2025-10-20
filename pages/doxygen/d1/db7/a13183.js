@@ -1,6 +1,7 @@
 var a13183 =
 [
-    [ "npc_koltira_deathweaverAI", "d9/d10/a13187.html", "d9/d10/a13187" ],
-    [ "npc_koltira_deathweaver", "d1/db7/a13183.html#a5e9fdbc8dc70ce3480906b86aed381a3", null ],
-    [ "GetAI", "d1/db7/a13183.html#afddc561b88679f3dd6ca8b374807b0f0", null ]
+    [ "HandleEffectApply", "d1/db7/a13183.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
+    [ "PrepareAuraScript", "d1/db7/a13183.html#a9829789fe5544429454e29d228ce0daf", null ],
+    [ "Register", "d1/db7/a13183.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
+    [ "Validate", "d1/db7/a13183.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
 ];

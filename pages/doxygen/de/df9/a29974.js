@@ -1,4 +1,4 @@
 var a29974 =
 [
-    [ "ratio", "de/df9/a29974.html#a4df2f98014dd653657b80b4d98e54896", null ]
+    [ "gOpenArchives", "de/df9/a29974.html#a8ae40ebe73635e831bc65b70e7f97f3c", null ]
 ];

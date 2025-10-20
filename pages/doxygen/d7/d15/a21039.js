@@ -1,6 +1,6 @@
 var a21039 =
 [
-    [ "boss_yoggsaron_brainAI", "df/da4/a21043.html", "df/da4/a21043" ],
-    [ "boss_yoggsaron_brain", "d7/d15/a21039.html#a8094e2a062f06c5a954c1d3401ca18d4", null ],
-    [ "GetAI", "d7/d15/a21039.html#a02e6b07087765d75d0f49b864e2f323f", null ]
+    [ "boss_yoggsaron_corruptor_tentacleAI", "df/da4/a21043.html", "df/da4/a21043" ],
+    [ "boss_yoggsaron_corruptor_tentacle", "d7/d15/a21039.html#a86fbf881f0a861124dda085347bb03bd", null ],
+    [ "GetAI", "d7/d15/a21039.html#a7325d6feaa12d74c030152ba3a0ab756", null ]
 ];

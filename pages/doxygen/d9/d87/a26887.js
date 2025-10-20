@@ -1,6 +1,6 @@
 var a26887 =
 [
-    [ "CheckCast", "d9/d87/a26887.html#a97f479cccecc6f37c75b47122b47e333", null ],
-    [ "PrepareSpellScript", "d9/d87/a26887.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
-    [ "Register", "d9/d87/a26887.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
+    [ "HandlePeriodic", "d9/d87/a26887.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
+    [ "PrepareAuraScript", "d9/d87/a26887.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
+    [ "Register", "d9/d87/a26887.html#ac90afe9f5d9d55faba2282a875469311", null ]
 ];

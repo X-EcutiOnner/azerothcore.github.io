@@ -1,6 +1,7 @@
 var a14415 =
 [
-    [ "HandleAfterHit", "d2/d07/a14415.html#a4a3122d1b69baeae76f1ae3b6818bfb5", null ],
-    [ "PrepareSpellScript", "d2/d07/a14415.html#a284796ec70bdfaea9919f54da94f0021", null ],
-    [ "Register", "d2/d07/a14415.html#a30dcb608c20df17de9597ece1930d59d", null ]
+    [ "FilterTargets", "d2/d07/a14415.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
+    [ "HandleDummyEffect", "d2/d07/a14415.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
+    [ "PrepareSpellScript", "d2/d07/a14415.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
+    [ "Register", "d2/d07/a14415.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
 ];

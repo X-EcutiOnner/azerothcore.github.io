@@ -1,6 +1,21 @@
 var a19983 =
 [
-    [ "CastRunesEvent", "d3/d5e/a19983.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
-    [ "Execute", "d3/d5e/a19983.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
-    [ "_owner", "d3/d5e/a19983.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
+    [ "boss_stormcaller_brundirAI", "d3/d5e/a19983.html#adc28dd5beed1a6e48c79d7cdcceec084", null ],
+    [ "GetData", "d3/d5e/a19983.html#a72b285d89d1bf55d85436718cf25c287", null ],
+    [ "JustDied", "d3/d5e/a19983.html#a8aa9383b97b23d71d598ae1e650d0195", null ],
+    [ "JustEngagedWith", "d3/d5e/a19983.html#a9f2c58c1ebf4ce1809d454c4bba8f758", null ],
+    [ "JustReachedHome", "d3/d5e/a19983.html#af7e52166fdeb9b77ffa7057444ee67ef", null ],
+    [ "KilledUnit", "d3/d5e/a19983.html#af26795d89f26a9d907e81ef16ab10762", null ],
+    [ "MovementInform", "d3/d5e/a19983.html#a396869cd37f7f66c38424d70fb87bb01", null ],
+    [ "Reset", "d3/d5e/a19983.html#a4e1d09a210b4991e2b97e04f7be8a2bf", null ],
+    [ "SpellHit", "d3/d5e/a19983.html#af6e9b985d9bb5f63b1163d8ef1299992", null ],
+    [ "SpellHitTarget", "d3/d5e/a19983.html#a5592b2f9e4ce9149fb77cdc5dcc27539", null ],
+    [ "UpdateAI", "d3/d5e/a19983.html#a483ea3ae6c95ab18cc5fa2f41b613690", null ],
+    [ "UpdatePhase", "d3/d5e/a19983.html#a6f018f955bf546a47c119328b33ef010", null ],
+    [ "_channelTimer", "d3/d5e/a19983.html#a19fe914b34ca1ac05714387f00e0d28d", null ],
+    [ "_flyTargetGUID", "d3/d5e/a19983.html#a30d4b48a08328fb497ff51e0fa260041", null ],
+    [ "_phase", "d3/d5e/a19983.html#afe01d10d1abf8a7ddfc1d3c1b238cd30", null ],
+    [ "_stunnedAchievement", "d3/d5e/a19983.html#a678cd6ce097dab459bbf162553ddd56b", null ],
+    [ "events", "d3/d5e/a19983.html#afe480aedba3a5772a98f694647c7ed50", null ],
+    [ "pInstance", "d3/d5e/a19983.html#ab528df844696fec44595e0878966e0c2", null ]
 ];

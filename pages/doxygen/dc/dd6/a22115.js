@@ -1,8 +1,9 @@
 var a22115 =
 [
-    [ "OnRemove", "dc/dd6/a22115.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
-    [ "PrepareAuraScript", "dc/dd6/a22115.html#a183b5a3b1332695e3c047bb63435389a", null ],
-    [ "Register", "dc/dd6/a22115.html#aad41ab76cc0a882f272e8f79867a7015", null ],
-    [ "Validate", "dc/dd6/a22115.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
-    [ "spellIds", "dc/dd6/a22115.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
+    [ "npc_mrfloppyAI", "dc/dd6/a22115.html#a2994e5658035bb2cfe6f3cdab4c507fc", null ],
+    [ "EnterEvadeMode", "dc/dd6/a22115.html#af0f11f715cac553c772c0dca7e5e3a22", null ],
+    [ "JustEngagedWith", "dc/dd6/a22115.html#a490bf07de00cc5c59b5f0024317d8125", null ],
+    [ "MoveInLineOfSight", "dc/dd6/a22115.html#af0b376c5f10b6cb43f3bb63376012a0d", null ],
+    [ "Reset", "dc/dd6/a22115.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5", null ],
+    [ "UpdateAI", "dc/dd6/a22115.html#afad6db1ccd903fd18192f832a10a32f4", null ]
 ];

@@ -1,6 +1,7 @@
 var a18563 =
 [
-    [ "npc_strangulate_vehicleAI", "d5/d0b/a18567.html", "d5/d0b/a18567" ],
-    [ "npc_strangulate_vehicle", "d3/d31/a18563.html#a04532bc5902af45b1e9c76cf1cec9add", null ],
-    [ "GetAI", "d3/d31/a18563.html#aa5813442234d7b18fc4e7ed44a0b30bc", null ]
+    [ "CheckTargetCount", "d3/d31/a18563.html#a44f558248f944464c773105728cffbca", null ],
+    [ "PrepareSpellScript", "d3/d31/a18563.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
+    [ "Register", "d3/d31/a18563.html#aeda833ca8483d337311086b9d0a14081", null ],
+    [ "Validate", "d3/d31/a18563.html#aee84751e352dbfc12472fc15924c48fa", null ]
 ];

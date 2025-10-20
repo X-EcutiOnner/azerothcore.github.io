@@ -1,14 +1,11 @@
 var a13407 =
 [
-    [ "boss_sothos", "de/d8c/a13407.html#a2e7283078d4049ff339f29c3fdfc69cf", null ],
-    [ "DoAction", "de/d8c/a13407.html#a1433dddccb71896016bc014bdf92b453", null ],
-    [ "IsSummonedBy", "de/d8c/a13407.html#aaaf7e317f146bb296c4ba6f57c5f72d4", null ],
-    [ "JustDied", "de/d8c/a13407.html#a2d634aade37ea887f6bbf4b43baf061d", null ],
-    [ "JustEngagedWith", "de/d8c/a13407.html#ace8a0c92ec3ab3e76cceb63c5b4a277b", null ],
-    [ "Reset", "de/d8c/a13407.html#a042578148cae9a0b9befb7c5747a8e99", null ],
-    [ "UpdateAI", "de/d8c/a13407.html#a35e247fa9bfe00927b844af8d0ef916f", null ],
-    [ "_jarienDied", "de/d8c/a13407.html#a74725d8a4b3ce9fbfb9f06868fa02055", null ],
-    [ "_phase", "de/d8c/a13407.html#a5719cd4a85527c256fb7f048be6489f7", null ],
-    [ "_scheduler", "de/d8c/a13407.html#a5e18256858cd594b45628508500e5f1a", null ],
-    [ "_talked", "de/d8c/a13407.html#a3f3c0d0a079aad1306b638e8ff34f2f6", null ]
+    [ "boss_baroness_anastariAI", "de/d8c/a13407.html#acf180bbe881ba1f6e49c075254759c00", null ],
+    [ "JustDied", "de/d8c/a13407.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
+    [ "JustEngagedWith", "de/d8c/a13407.html#a7329455d99045e7002abffe09112a4ea", null ],
+    [ "Reset", "de/d8c/a13407.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
+    [ "SchedulePossession", "de/d8c/a13407.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
+    [ "UpdateAI", "de/d8c/a13407.html#a962e4e3091d126682825c326af5f6922", null ],
+    [ "_possessedTargetGuid", "de/d8c/a13407.html#a36e386b847c7032b5ce95a01070518ad", null ],
+    [ "_scheduler", "de/d8c/a13407.html#aa59518627a5e64e371dbbb45cfced75f", null ]
 ];

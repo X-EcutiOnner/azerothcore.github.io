@@ -1,11 +1,12 @@
 var a20079 =
 [
-    [ "boss_flame_leviathan_seatAI", "dc/d31/a20079.html#ab830db7804ee9b9815e4ea3398a6d856", null ],
-    [ "AttackStart", "dc/d31/a20079.html#a39efb927928e19a040144bab7dfa3ba2", null ],
-    [ "EnterEvadeMode", "dc/d31/a20079.html#aeda2ad4d596c86aa5c19acb1c710cc9f", null ],
-    [ "PassengerBoarded", "dc/d31/a20079.html#af4939f3daef8aae9a1eafe2020ab205e", null ],
-    [ "Reset", "dc/d31/a20079.html#a1e134e9bb2b1048f69dc310a52be9473", null ],
-    [ "UpdateAI", "dc/d31/a20079.html#a857b1e927ae6574e00e25a20a21d4427", null ],
-    [ "_despawnTimer", "dc/d31/a20079.html#ac3d1d8f405a37d2344c5f4e34519e2cb", null ],
-    [ "vehicle", "dc/d31/a20079.html#a9d0624a45613676a39def53b2a2fdce0", null ]
+    [ "npc_freya_wardAI", "dc/d31/a20079.html#afbc2f3d88173e240b87915cf0520b3cf", null ],
+    [ "DoAction", "dc/d31/a20079.html#a4c9418b5474eb572a76168d4a460159a", null ],
+    [ "JustSummoned", "dc/d31/a20079.html#a9075d763014ca50b4e0d2c815e1c23b7", null ],
+    [ "Reset", "dc/d31/a20079.html#a65d304edd3b00b4a45c58bf36b926900", null ],
+    [ "SummonedCreatureDespawn", "dc/d31/a20079.html#a6273b024ebde2fb36ed79eb122f7ac68", null ],
+    [ "UpdateAI", "dc/d31/a20079.html#a11dd073b70e5126f580ec5122dce7bbd", null ],
+    [ "_castTimer", "dc/d31/a20079.html#a6308aadc8ebf41cf045b04ac58e2244b", null ],
+    [ "_summoned", "dc/d31/a20079.html#a5df6604055c5f3936a95f8d0ca5be8c1", null ],
+    [ "summons", "dc/d31/a20079.html#a82932e9f2d570fa6d8394bfd3954c41e", null ]
 ];

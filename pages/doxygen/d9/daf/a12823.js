@@ -1,5 +1,6 @@
 var a12823 =
 [
-    [ "go_blackened_urn", "d9/daf/a12823.html#aaa311353e693a0dd7fd9a6f8e617e0ab", null ],
-    [ "OnGossipHello", "d9/daf/a12823.html#ab091bd54734acc65532303a391441ee2", null ]
+    [ "HandleApply", "d9/daf/a12823.html#ac9f6f1927c9f66682892c32d4a431cc4", null ],
+    [ "PrepareAuraScript", "d9/daf/a12823.html#ae908ad87781553cc3bed05ea510a4447", null ],
+    [ "Register", "d9/daf/a12823.html#a391dff720ed9d2d48aa69e48e69ba8df", null ]
 ];

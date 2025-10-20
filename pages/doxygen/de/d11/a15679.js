@@ -1,6 +1,7 @@
 var a15679 =
 [
-    [ "npcs_riverbreeze_and_silversky", "de/d11/a15679.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
-    [ "OnGossipHello", "de/d11/a15679.html#a7de032322a37f929c316aadfdadda768", null ],
-    [ "OnGossipSelect", "de/d11/a15679.html#a93c7b159dda733da5030de747bad30b5", null ]
+    [ "HandleDummy", "de/d11/a15679.html#a30a87266b89021caf7d05c45397f70d1", null ],
+    [ "PrepareSpellScript", "de/d11/a15679.html#a43a92b346088d710719722e8feed9634", null ],
+    [ "Register", "de/d11/a15679.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
+    [ "Validate", "de/d11/a15679.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
 ];

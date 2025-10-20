@@ -1,7 +1,8 @@
 var a25903 =
 [
-    [ "OnRemove", "df/dce/a25903.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
-    [ "PrepareAuraScript", "df/dce/a25903.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
-    [ "Register", "df/dce/a25903.html#a35a8adc4944fc2333488e72498f6d252", null ],
-    [ "Validate", "df/dce/a25903.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
+    [ "CheckProc", "df/dce/a25903.html#a06d76f258699bd4f78834ef33752a351", null ],
+    [ "HandleProc", "df/dce/a25903.html#af22f22cbc38fabe4181b853727df83f8", null ],
+    [ "PrepareAuraScript", "df/dce/a25903.html#adbc2bc54974837a9784cbf8b30ef2c1e", null ],
+    [ "Register", "df/dce/a25903.html#a8db2cf628d44fa962bb3889b20f5dfb1", null ],
+    [ "Validate", "df/dce/a25903.html#aa5604d45c0c11bef130d9242c4357163", null ]
 ];

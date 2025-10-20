@@ -1,10 +1,10 @@
 var a12607 =
 [
-    [ "npc_core_ragerAI", "d2/d85/a12607.html#a3c5125e0a10043f6181c10ba749fa579", null ],
-    [ "DamageTaken", "d2/d85/a12607.html#a758eb158eb9d232d74514281028efcb3", null ],
-    [ "Reset", "d2/d85/a12607.html#acf83e469d3d8108276227a942fda28b3", null ],
-    [ "UpdateAI", "d2/d85/a12607.html#a2183cf5ab22b737413b86a657fde6d3c", null ],
-    [ "instance", "d2/d85/a12607.html#a7cfddba62f737214b8cfc7fbffa8c2e2", null ],
-    [ "mangleTimer", "d2/d85/a12607.html#a081333b967abb3812b9ddae2f933a324", null ],
-    [ "rangeCheckTimer", "d2/d85/a12607.html#ade427bdd9ec99807b6f190c890136414", null ]
+    [ "boss_golemaggAI", "d2/d85/a12607.html#a79e2416a55a1531316d891ebff4e5575", null ],
+    [ "DamageTaken", "d2/d85/a12607.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
+    [ "Reset", "d2/d85/a12607.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
+    [ "UpdateAI", "d2/d85/a12607.html#af7b322731241dbb08041a92cd355f273", null ],
+    [ "earthquakeTimer", "d2/d85/a12607.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
+    [ "enraged", "d2/d85/a12607.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
+    [ "pyroblastTimer", "d2/d85/a12607.html#a142ededff85d517c08744bdafd644c34", null ]
 ];

@@ -1,8 +1,7 @@
 var a25331 =
 [
-    [ "OnApply", "d4/de4/a25331.html#a9ea247d39fa51d9722c17e6ea83a0e55", null ],
-    [ "OnRemove", "d4/de4/a25331.html#abd45d59ecd41274bd02c17fb066a521e", null ],
-    [ "PrepareAuraScript", "d4/de4/a25331.html#af30811301599459bf2a99a68608a053f", null ],
-    [ "Register", "d4/de4/a25331.html#a0eb56dc80c02932a0d7cf4cca7079c75", null ],
-    [ "Validate", "d4/de4/a25331.html#a29c5049e4455737ff96596a18af118d0", null ]
+    [ "HandleScript", "d4/de4/a25331.html#a8b20e2ffed94ec9438dc9b756ba76693", null ],
+    [ "PrepareSpellScript", "d4/de4/a25331.html#a9e29ea947d5415471d991a4e1cd699ac", null ],
+    [ "Register", "d4/de4/a25331.html#aa4bc27415893009581b317637599a85a", null ],
+    [ "Validate", "d4/de4/a25331.html#a77ed10819633ae2bc381023da0feb31b", null ]
 ];

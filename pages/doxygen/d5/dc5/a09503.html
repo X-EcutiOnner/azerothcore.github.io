@@ -118,7 +118,7 @@ $(document).ready(function(){initNavTree('d5/dc5/a09503.html','../../'); initRes
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a12eb5ff486232f88c7303741ebd8e65e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc5/a09503.html#a12eb5ff486232f88c7303741ebd8e65e">PlayerAtMinimumRangeAway</a> (<a class="el" href="../../d6/d41/a08799.html">Unit</a> const *<a class="el" href="../../d5/dc5/a09503.html#a4ea0f83c3287079cff40fac15272fa94">unit</a>, float fMinRange)</td></tr>
 <tr class="separator:a12eb5ff486232f88c7303741ebd8e65e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1cfda97a0590e033f9b6043c8de2d0a0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc5/a09503.html#a1cfda97a0590e033f9b6043c8de2d0a0">operator()</a> (<a class="el" href="../../d4/d78/a08663.html">Player</a> *player)</td></tr>
+<tr class="memitem:a1cfda97a0590e033f9b6043c8de2d0a0"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc5/a09503.html#a1cfda97a0590e033f9b6043c8de2d0a0">operator()</a> (<a class="el" href="../../d0/df5/a08667.html">Player</a> *player)</td></tr>
 <tr class="separator:a1cfda97a0590e033f9b6043c8de2d0a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
@@ -182,7 +182,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="memname">bool Acore::PlayerAtMinimumRangeAway::operator() </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d78/a08663.html">Player</a> *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d0/df5/a08667.html">Player</a> *&#160;</td>
           <td class="paramname"><em>player</em></td><td>)</td>
           <td></td>
         </tr>
@@ -195,16 +195,16 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno"> 1587</span>        {</div>
 <div class="line"><span class="lineno"> 1588</span>            <span class="comment">//No threat list check, must be done explicit if expected to be in combat with creature</span></div>
-<div class="line"><span class="lineno"> 1589</span>            <span class="keywordflow">if</span> (!player-&gt;<a class="code hl_function" href="../../d4/d78/a08663.html#a9f23cae8a3da0345a05c2a2bfedc2fe2">IsGameMaster</a>() &amp;&amp; player-&gt;<a class="code hl_function" href="../../d6/d41/a08799.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() &amp;&amp; !<a class="code hl_variable" href="../../d5/dc5/a09503.html#a4ea0f83c3287079cff40fac15272fa94">unit</a>-&gt;<a class="code hl_function" href="../../de/d2b/a08447.html#a488ffb2c3d4f60c987706f93bc4db611">IsWithinDist</a>(player, <a class="code hl_variable" href="../../d5/dc5/a09503.html#a0c58929de429694f24877525287f15a6">fRange</a>, <span class="keyword">false</span>))</div>
+<div class="line"><span class="lineno"> 1589</span>            <span class="keywordflow">if</span> (!player-&gt;<a class="code hl_function" href="../../d0/df5/a08667.html#a9f23cae8a3da0345a05c2a2bfedc2fe2">IsGameMaster</a>() &amp;&amp; player-&gt;<a class="code hl_function" href="../../d6/d41/a08799.html#a5ea3f54af571493f7889220724667189">IsAlive</a>() &amp;&amp; !<a class="code hl_variable" href="../../d5/dc5/a09503.html#a4ea0f83c3287079cff40fac15272fa94">unit</a>-&gt;<a class="code hl_function" href="../../dc/d34/a08451.html#a488ffb2c3d4f60c987706f93bc4db611">IsWithinDist</a>(player, <a class="code hl_variable" href="../../d5/dc5/a09503.html#a0c58929de429694f24877525287f15a6">fRange</a>, <span class="keyword">false</span>))</div>
 <div class="line"><span class="lineno"> 1590</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno"> 1591</span> </div>
 <div class="line"><span class="lineno"> 1592</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno"> 1593</span>        }</div>
-<div class="ttc" id="aa08447_html_a488ffb2c3d4f60c987706f93bc4db611"><div class="ttname"><a href="../../de/d2b/a08447.html#a488ffb2c3d4f60c987706f93bc4db611">WorldObject::IsWithinDist</a></div><div class="ttdeci">bool IsWithinDist(WorldObject const *obj, float dist2compare, bool is3D=true, bool useBoundingRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1345</div></div>
-<div class="ttc" id="aa08663_html_a9f23cae8a3da0345a05c2a2bfedc2fe2"><div class="ttname"><a href="../../d4/d78/a08663.html#a9f23cae8a3da0345a05c2a2bfedc2fe2">Player::IsGameMaster</a></div><div class="ttdeci">bool IsGameMaster() const</div><div class="ttdef"><b>Definition:</b> Player.h:1161</div></div>
-<div class="ttc" id="aa08799_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d6/d41/a08799.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1727</div></div>
+<div class="ttc" id="aa08451_html_a488ffb2c3d4f60c987706f93bc4db611"><div class="ttname"><a href="../../dc/d34/a08451.html#a488ffb2c3d4f60c987706f93bc4db611">WorldObject::IsWithinDist</a></div><div class="ttdeci">bool IsWithinDist(WorldObject const *obj, float dist2compare, bool is3D=true, bool useBoundingRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1345</div></div>
+<div class="ttc" id="aa08667_html_a9f23cae8a3da0345a05c2a2bfedc2fe2"><div class="ttname"><a href="../../d0/df5/a08667.html#a9f23cae8a3da0345a05c2a2bfedc2fe2">Player::IsGameMaster</a></div><div class="ttdeci">bool IsGameMaster() const</div><div class="ttdef"><b>Definition:</b> Player.h:1161</div></div>
+<div class="ttc" id="aa08799_html_a5ea3f54af571493f7889220724667189"><div class="ttname"><a href="../../d6/d41/a08799.html#a5ea3f54af571493f7889220724667189">Unit::IsAlive</a></div><div class="ttdeci">bool IsAlive() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1726</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01597">fRange</a>, <a class="el" href="../../#l01727">Unit::IsAlive()</a>, <a class="el" href="../../#l01161">Player::IsGameMaster()</a>, <a class="el" href="../../#l01345">WorldObject::IsWithinDist()</a>, and <a class="el" href="../../#l01596">unit</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01597">fRange</a>, <a class="el" href="../../#l01726">Unit::IsAlive()</a>, <a class="el" href="../../#l01161">Player::IsGameMaster()</a>, <a class="el" href="../../#l01345">WorldObject::IsWithinDist()</a>, and <a class="el" href="../../#l01596">unit</a>.</p>
 
 </div>
 </div>
@@ -263,7 +263,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d62/a04803.html">Acore</a></li><li class="navelem"><a class="el" href="../../d5/dc5/a09503.html">PlayerAtMinimumRangeAway</a></li>
-    <li class="footer">Generated on Mon Oct 13 2025 20:46:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Oct 20 2025 20:48:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

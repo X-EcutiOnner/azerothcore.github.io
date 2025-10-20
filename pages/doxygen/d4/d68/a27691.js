@@ -1,5 +1,10 @@
 var a27691 =
 [
-    [ "item_captured_frog", "d4/d68/a27691.html#ad41b743c98c9534453eca8cf1f367366", null ],
-    [ "OnUse", "d4/d68/a27691.html#a1156467ca046a077ea494f92c488bf54", null ]
+    [ "npc_prof_blacksmith", "d4/d68/a27691.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
+    [ "HasWeaponSub", "d4/d68/a27691.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
+    [ "OnGossipHello", "d4/d68/a27691.html#a9a432c1ec33578949110c877fc6a686d", null ],
+    [ "OnGossipSelect", "d4/d68/a27691.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
+    [ "SendActionMenu", "d4/d68/a27691.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
+    [ "SendConfirmLearn", "d4/d68/a27691.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
+    [ "SendConfirmUnlearn", "d4/d68/a27691.html#a851dc241d944bc888a00df85bff17e3a", null ]
 ];

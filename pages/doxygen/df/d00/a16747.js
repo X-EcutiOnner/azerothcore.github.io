@@ -1,7 +1,6 @@
 var a16747 =
 [
-    [ "HandleEffectPeriodic", "df/d00/a16747.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
-    [ "PrepareAuraScript", "df/d00/a16747.html#a66dcb98f38ed6b040928543015f59c9b", null ],
-    [ "Register", "df/d00/a16747.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
-    [ "Validate", "df/d00/a16747.html#a1131f0014f298b87483412d960bc0221", null ]
+    [ "npc_mistress_of_painAI", "d6/d9b/a16751.html", "d6/d9b/a16751" ],
+    [ "npc_mistress_of_pain", "df/d00/a16747.html#a0261ed835454725e0e5629c295be4330", null ],
+    [ "GetAI", "df/d00/a16747.html#ae32e9b907e2e31556e72d7feb4e24e8a", null ]
 ];

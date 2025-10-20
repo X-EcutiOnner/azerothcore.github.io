@@ -1,14 +1,8 @@
 var a26323 =
 [
-    [ "AfterCheckProc", "d9/d38/a26323.html#ae6ac733a614be543c04b57379b84aaca", null ],
-    [ "CheckProc", "d9/d38/a26323.html#aa533054a5cd434ef3e02767a0a87db62", null ],
-    [ "GetProcSpell", "d9/d38/a26323.html#af9fc6eb0c61c4084307fc2f7fb38973b", null ],
-    [ "HandleAfterEffectProc", "d9/d38/a26323.html#aaa577b07d61ddc6e7af175c76ce63b11", null ],
-    [ "HandleOnEffectProc", "d9/d38/a26323.html#a5bb5345754505cca5f9c840dc5bb9dfb", null ],
-    [ "PrepareAuraScript", "d9/d38/a26323.html#a111821352b6d26f51878ce81b173ef6d", null ],
-    [ "Register", "d9/d38/a26323.html#a9ba0584da94cf51b8cd8fe7da50fc1b0", null ],
-    [ "ResetProcState", "d9/d38/a26323.html#a9f7371edfa971c56e15cef94d6fb0117", null ],
-    [ "_chance", "d9/d38/a26323.html#ab644c981163424fbaa05650dc6505ae1", null ],
-    [ "_procSpellDelayMoment", "d9/d38/a26323.html#a0477619c024d2f2f505e7617fb057691", null ],
-    [ "_spell", "d9/d38/a26323.html#a07a855a4806bac873eb40505f805c39f", null ]
+    [ "CalculateAmount", "d9/d38/a26323.html#a8751483423726ffa8a33c70b7e55db23", null ],
+    [ "CheckProc", "d9/d38/a26323.html#a046cd1087342cdcbd2e6b0f8ded7c03a", null ],
+    [ "HandleProc", "d9/d38/a26323.html#abda070e7dfbb4ddc8d18cb3d180edc2e", null ],
+    [ "PrepareAuraScript", "d9/d38/a26323.html#a6bb54cea419145875c4086a69e1e55e8", null ],
+    [ "Register", "d9/d38/a26323.html#a8e92638bbdd786ef77b17f00dcf0f643", null ]
 ];

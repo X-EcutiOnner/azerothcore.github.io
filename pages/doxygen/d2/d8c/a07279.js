@@ -1,19 +1,15 @@
 var a07279 =
 [
-    [ "ArenaSeasonRewardGroupsBySeasonContainer", "d2/d8c/a07279.html#a510f51e8cd7ad494dc2f0dd25640e924", null ],
-    [ "BroadcastUpdatedWorldState", "d2/d8c/a07279.html#ae40b9d3ff73604045d1d7f6c59487f95", null ],
-    [ "CanDeleteArenaTeams", "d2/d8c/a07279.html#a6d2302f89f8756d7ceaf210cdabea9e8", null ],
-    [ "ChangeCurrentSeason", "d2/d8c/a07279.html#a05f9e4be327f8ecb65729cec2d811851", null ],
-    [ "DeleteArenaTeams", "d2/d8c/a07279.html#ad28595c2f09c2cecd46ba8811374ae21", null ],
-    [ "GameEventForArenaSeason", "d2/d8c/a07279.html#a3bef72c5136e9920f8b4e0438f3f1628", null ],
-    [ "GetCurrentSeason", "d2/d8c/a07279.html#ae07db874a46e7d1cc8c60105635bbdf0", null ],
-    [ "GetSeasonState", "d2/d8c/a07279.html#abff2ff6a3e08f37b00405f5f688cb08d", null ],
-    [ "instance", "d2/d8c/a07279.html#ad9299d5394ee20830fe9aca038575ce0", null ],
-    [ "LoadActiveSeason", "d2/d8c/a07279.html#a81c47f17e571dd5ba2c2617bdef09694", null ],
-    [ "LoadRewards", "d2/d8c/a07279.html#a495f7d12cbe5a4bfb09a9a6de45c17e1", null ],
-    [ "RewardTeamsForTheSeason", "d2/d8c/a07279.html#a4c1069779f69aa3eae885540fa2b31e6", null ],
-    [ "SetSeasonState", "d2/d8c/a07279.html#a118910793bb11fba35b0cd6b28e248a8", null ],
-    [ "_arenaSeasonRewardGroupsStore", "d2/d8c/a07279.html#a90d508c6ffb7c7277d0e6c6f27bafc33", null ],
-    [ "_currentSeason", "d2/d8c/a07279.html#a168a36d3ae1818f22acfb168e932c10c", null ],
-    [ "_currentSeasonState", "d2/d8c/a07279.html#af73eb610ed7b0e908c206aac14f2c452", null ]
+    [ "ArenaSeasonRewardGroup", "d2/d8c/a07279.html#a128e78db84f099d91e21da77b2147e82", null ],
+    [ "operator==", "d2/d8c/a07279.html#a625ef69db8523e1a5e6e5ea16bdacc2f", null ],
+    [ "achievementRewards", "d2/d8c/a07279.html#a1b89c847e86b29671f86dbbef1c9a1b6", null ],
+    [ "criteriaType", "d2/d8c/a07279.html#a16261356df6f5aed35bc3ec06ab49560", null ],
+    [ "goldReward", "d2/d8c/a07279.html#a582c7d51c2ab4bb5cf0e45b773dd20ee", null ],
+    [ "itemRewards", "d2/d8c/a07279.html#a24e7afcf5a95fba7f2cdc5914baac392", null ],
+    [ "maxCriteria", "d2/d8c/a07279.html#aa3cf9a0ad2ed2170542ec360e61682e2", null ],
+    [ "minCriteria", "d2/d8c/a07279.html#a07507bd59265508a463aa328f343afa0", null ],
+    [ "rewardMailBody", "d2/d8c/a07279.html#afa55d982d4f2ef5f2eccf48ed305b649", null ],
+    [ "rewardMailSubject", "d2/d8c/a07279.html#a0574cf3fc910f13413ea7eb1c0f08166", null ],
+    [ "rewardMailTemplateID", "d2/d8c/a07279.html#ade97a1ea3355cd19aaf65ab80a26e4bf", null ],
+    [ "season", "d2/d8c/a07279.html#a2e6a5d2ca970d3921142b497d351c50f", null ]
 ];

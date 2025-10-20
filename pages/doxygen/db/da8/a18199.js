@@ -1,7 +1,7 @@
 var a18199 =
 [
-    [ "HandleScript", "db/da8/a18199.html#aa579f99f704f4db50b38b5f9b87259d7", null ],
-    [ "PrepareSpellScript", "db/da8/a18199.html#a92a6f2b0d5a0845e35c07d0b5cefe053", null ],
-    [ "Register", "db/da8/a18199.html#a2278ecef3dc60082ccb8964a34e55587", null ],
-    [ "Validate", "db/da8/a18199.html#aeee94330ee7ea9b4fd7447e642404119", null ]
+    [ "HandleScript", "db/da8/a18199.html#a37b261d0df2829788d8290a9194913f5", null ],
+    [ "PrepareSpellScript", "db/da8/a18199.html#a69386dbef57322393a38eec90662135f", null ],
+    [ "Register", "db/da8/a18199.html#a5b85b01100d7f7c672c437e4bdfd7a7c", null ],
+    [ "Validate", "db/da8/a18199.html#a63c446574c700a895d7fbc5bb2b81508", null ]
 ];

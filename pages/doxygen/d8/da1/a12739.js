@@ -1,10 +1,11 @@
 var a12739 =
 [
-    [ "instance_deadmines_InstanceMapScript", "d8/da1/a12739.html#afa12491c1b276d0d643822da562320c3", null ],
-    [ "GetSaveData", "d8/da1/a12739.html#a775c7d564b931e157a32b0909efed859", null ],
-    [ "Initialize", "d8/da1/a12739.html#a8b8bca7a1d7880bc53b8002934ceeb7a", null ],
-    [ "Load", "d8/da1/a12739.html#afff7e04cc632e2d4ddb438d03e561560", null ],
-    [ "OnGameObjectCreate", "d8/da1/a12739.html#a095202af8915f8a1d8888c045e18d6c4", null ],
-    [ "SetData", "d8/da1/a12739.html#a8cd5bf5302b1a7221c69dd9fdc9518dc", null ],
-    [ "_encounters", "d8/da1/a12739.html#a01d69e135cbd2dd885dfc84c98ed8be1", null ]
+    [ "boss_mr_smiteAI", "d8/da1/a12739.html#a277e52b7086db7e6447c4ad07ff8c8a2", null ],
+    [ "JustEngagedWith", "d8/da1/a12739.html#a3b2e5636b6c13bc243a067cacc7ab529", null ],
+    [ "MovementInform", "d8/da1/a12739.html#ade54a8fa42cbbf9febecf1a3eee00fd3", null ],
+    [ "Reset", "d8/da1/a12739.html#a8b90bbc2a0cdfdb09a3f8ddde2bf4108", null ],
+    [ "UpdateAI", "d8/da1/a12739.html#aa1693c8cc5bcc60a256f5d61f81cce1a", null ],
+    [ "events", "d8/da1/a12739.html#a3471692c39233f3c25cdc875c0078f2c", null ],
+    [ "health34", "d8/da1/a12739.html#adc83683c2f6a7073469cd2f5aa325717", null ],
+    [ "health67", "d8/da1/a12739.html#af30c26b46b14e9e16fe5d48d4dcf23de", null ]
 ];

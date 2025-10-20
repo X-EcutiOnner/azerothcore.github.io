@@ -1,11 +1,8 @@
 var a15555 =
 [
-    [ "npc_stillpine_capitiveAI", "d3/d09/a15555.html#a98560e7fc360dbfa3166805d9ab3feb4", null ],
-    [ "MovementInform", "d3/d09/a15555.html#a1e930b49da85a64aa87ba79b5fe72391", null ],
-    [ "Reset", "d3/d09/a15555.html#a9c884f892e64044057d477bdc0f89eed", null ],
-    [ "StartMoving", "d3/d09/a15555.html#a2552a79cf384cca1203afa7f241c1cb9", null ],
-    [ "UpdateAI", "d3/d09/a15555.html#a25dc06767382b5fee2a7098b58726fb2", null ],
-    [ "_events", "d3/d09/a15555.html#a93dd55d392836d8d085e34293344b700", null ],
-    [ "_movementComplete", "d3/d09/a15555.html#ae8e39ca782aee412e39d65a33d14014e", null ],
-    [ "_playerGUID", "d3/d09/a15555.html#a3fe9a4f01aebb602095d60eb606ce763", null ]
+    [ "npc_death_ravagerAI", "d3/d09/a15555.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "d3/d09/a15555.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "d3/d09/a15555.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "d3/d09/a15555.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "d3/d09/a15555.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

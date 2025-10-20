@@ -1,6 +1,7 @@
 var a23739 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "d1/db2/a23743.html", "d1/db2/a23743" ],
-    [ "instance_gruuls_lair", "db/d32/a23739.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
-    [ "GetInstanceScript", "db/d32/a23739.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
+    [ "boss_the_maker", "db/d32/a23739.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
+    [ "JustDied", "db/d32/a23739.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
+    [ "JustEngagedWith", "db/d32/a23739.html#a6b0a4442dbabde69ca9352017ee23675", null ],
+    [ "KilledUnit", "db/d32/a23739.html#a40643ca00fe7d7029a291335e47c722a", null ]
 ];

@@ -1,11 +1,7 @@
 var a20267 =
 [
-    [ "boss_freya_elder_brightleafAI", "d2/db2/a20267.html#a53de463d34b808b4c5d459e1339f6f30", null ],
-    [ "JustDied", "d2/db2/a20267.html#aeea7300081f645d3fa83df6841c5a497", null ],
-    [ "JustEngagedWith", "d2/db2/a20267.html#a956adeb9b6ea0c8fa71bdcbd3735c79d", null ],
-    [ "KilledUnit", "d2/db2/a20267.html#a47935d017a2d34a888acb4079d3ff9aa", null ],
-    [ "Reset", "d2/db2/a20267.html#aee11d2e1fad8bc1b18c17b1527610914", null ],
-    [ "UpdateAI", "d2/db2/a20267.html#af28f94f278d279513d7f72cdc36528d4", null ],
-    [ "events", "d2/db2/a20267.html#a45b4f0d12497dd8e3ffc1cde429116f6", null ],
-    [ "summons", "d2/db2/a20267.html#a456123135a7fb4595d611a9e3995f461", null ]
+    [ "boss_freya_lifebinderAI", "d2/db2/a20267.html#ae421aa209690e4a2908995b6b7d322cd", null ],
+    [ "Reset", "d2/db2/a20267.html#a972bd7d390d444e0ea2bc513d5d3816a", null ],
+    [ "UpdateAI", "d2/db2/a20267.html#afb06c217c1012d6463e44689359eada9", null ],
+    [ "_healTimer", "d2/db2/a20267.html#a7021d13dceb9af343f0e820cf086046e", null ]
 ];

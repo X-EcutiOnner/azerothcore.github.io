@@ -1,6 +1,6 @@
 var a22355 =
 [
-    [ "npc_guardian_pavilionAI", "da/d6b/a22359.html", "da/d6b/a22359" ],
-    [ "npc_guardian_pavilion", "d8/d1d/a22355.html#aecc7e93f2b50351584049f031362e0f0", null ],
-    [ "GetAI", "d8/d1d/a22355.html#a89e55b3267cd93ae688573678851c7b9", null ]
+    [ "npc_frostbrood_skytalonAI", "da/d6b/a22359.html", "da/d6b/a22359" ],
+    [ "npc_frostbrood_skytalon", "d8/d1d/a22355.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
+    [ "GetAI", "d8/d1d/a22355.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
 ];

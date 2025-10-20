@@ -1,6 +1,7 @@
 var a17535 =
 [
-    [ "HandleScript", "db/dc0/a17535.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
-    [ "PrepareSpellScript", "db/dc0/a17535.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
-    [ "Register", "db/dc0/a17535.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
+    [ "HandleDummyTick", "db/dc0/a17535.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
+    [ "PrepareAuraScript", "db/dc0/a17535.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
+    [ "Register", "db/dc0/a17535.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
+    [ "Validate", "db/dc0/a17535.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
 ];

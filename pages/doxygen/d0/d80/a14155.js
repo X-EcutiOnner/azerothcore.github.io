@@ -1,12 +1,15 @@
 var a14155 =
 [
-    [ "npc_zulian_prowlerAI", "d0/d80/a14155.html#a367613efead335b060173011267ddcff", null ],
-    [ "JustDied", "d0/d80/a14155.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
-    [ "JustEngagedWith", "d0/d80/a14155.html#a207504b15ecd22b78088593b80433581", null ],
-    [ "Reset", "d0/d80/a14155.html#a62d14bae970d8a70a997c683e0e94259", null ],
-    [ "SpellHit", "d0/d80/a14155.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
-    [ "UpdateAI", "d0/d80/a14155.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
-    [ "_events", "d0/d80/a14155.html#a994ae5b4e72429141155d1342830e5ad", null ],
-    [ "_instance", "d0/d80/a14155.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
-    [ "_sideData", "d0/d80/a14155.html#afa44e09c5677c2fc567be6a67b766bde", null ]
+    [ "boss_arlokkAI", "d0/d80/a14155.html#adb598bf47620cd077fb689fb8f9a4ad8", null ],
+    [ "EnterEvadeMode", "d0/d80/a14155.html#a8553c4d173e7c39315f022f69587c6c0", null ],
+    [ "JustDied", "d0/d80/a14155.html#ac03a6599a5b41e01bd4ed9ebd55cc0ba", null ],
+    [ "JustEngagedWith", "d0/d80/a14155.html#ac4ee55299a9389c4fee1ad96140b00d0", null ],
+    [ "JustReachedHome", "d0/d80/a14155.html#ab0499a80ea8406457e6bfaac96eae975", null ],
+    [ "Reset", "d0/d80/a14155.html#a3ea2c720ac5c4b1fa6ea4d2eb8bf163f", null ],
+    [ "SetData", "d0/d80/a14155.html#a7eedf1d1b55740698c314d4afbb2b0b2", null ],
+    [ "UpdateAI", "d0/d80/a14155.html#a3a2d07d42be88244c0c72b998792dd28", null ],
+    [ "_summonCountA", "d0/d80/a14155.html#a77f83909fca59d1c5d72dc583d7ec22e", null ],
+    [ "_summonCountB", "d0/d80/a14155.html#a7e7d091ea00fb42e7f97cb79168e0dc3", null ],
+    [ "_triggersSideAGUID", "d0/d80/a14155.html#aedc8dda728ed849f33dc83396da51bce", null ],
+    [ "_triggersSideBGUID", "d0/d80/a14155.html#a0fc797fd56c4f12272b647087492670a", null ]
 ];

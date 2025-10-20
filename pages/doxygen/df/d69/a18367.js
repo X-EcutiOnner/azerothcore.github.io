@@ -1,7 +1,6 @@
 var a18367 =
 [
-    [ "HandleInfusion", "df/d69/a18367.html#a9f77330d81fef646dd5d5399800cba66", null ],
-    [ "PrepareSpellScript", "df/d69/a18367.html#ae0a272902b0a9f74058c1dbe62974358", null ],
-    [ "Register", "df/d69/a18367.html#ad759f6215e722f799156b4bdddcb7af1", null ],
-    [ "Validate", "df/d69/a18367.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
+    [ "HandleScript", "df/d69/a18367.html#a038a827f7fe179ff56ab581efdf08790", null ],
+    [ "PrepareSpellScript", "df/d69/a18367.html#a9ffd37bb54ce5e4a73d7d93eaddda2dd", null ],
+    [ "Register", "df/d69/a18367.html#a6018f3a74a1b61042bb0ff6c02b76611", null ]
 ];

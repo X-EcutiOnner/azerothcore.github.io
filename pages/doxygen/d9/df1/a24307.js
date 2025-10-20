@@ -1,7 +1,6 @@
 var a24307 =
 [
-    [ "npc_creditmarker_visit_with_ancestorsAI", "d9/df1/a24307.html#a483e8fb0d73561e34a1078fdde1a1b5b", null ],
-    [ "JustEngagedWith", "d9/df1/a24307.html#a4038d707731f64f588e307c22c859902", null ],
-    [ "MoveInLineOfSight", "d9/df1/a24307.html#a40d92122cd4f879f52ff78a4f172c3b8", null ],
-    [ "Reset", "d9/df1/a24307.html#a29132346f117ba785039057619edb9e7", null ]
+    [ "npc_commander_dawnforgeAI", "da/df0/a24311.html", "da/df0/a24311" ],
+    [ "npc_commander_dawnforge", "d9/df1/a24307.html#ab4d430725f68f906e9c8def66b1d6646", null ],
+    [ "GetAI", "d9/df1/a24307.html#a6089b087b7c3b18659e23c677814318b", null ]
 ];

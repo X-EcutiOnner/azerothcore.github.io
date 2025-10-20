@@ -1,7 +1,6 @@
 var a15215 =
 [
-    [ "go_sand_trap", "d6/d70/a15215.html#a58d45acac672cb05988ddca78185b469", null ],
-    [ "Reset", "d6/d70/a15215.html#a7071a3e420e9137ca133b471bc217bf3", null ],
-    [ "UpdateAI", "d6/d70/a15215.html#a2e4a5fec4d4c790233ca97e6a7732ac4", null ],
-    [ "_scheduler", "d6/d70/a15215.html#af845c0efb3d8ebe53d3620970a84f1e4", null ]
+    [ "HandleDummyHitTarget", "d6/d70/a15215.html#ae773d73496578170061baedd8f7daec1", null ],
+    [ "PrepareSpellScript", "d6/d70/a15215.html#a822fe6d19c2ee0d02dc5561b4f910cf9", null ],
+    [ "Register", "d6/d70/a15215.html#a651cc94581130224ba23e864f8ad7060", null ]
 ];

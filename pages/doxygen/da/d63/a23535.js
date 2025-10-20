@@ -1,6 +1,7 @@
 var a23535 =
 [
-    [ "HandleScript", "da/d63/a23535.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
-    [ "PrepareSpellScript", "da/d63/a23535.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
-    [ "Register", "da/d63/a23535.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
+    [ "HandleProc", "da/d63/a23535.html#a03b2be5894d489a6021aff2744aee0e0", null ],
+    [ "PrepareAuraScript", "da/d63/a23535.html#a0ff401cd6d8e32ff458b7383b76a92a1", null ],
+    [ "Register", "da/d63/a23535.html#a804e1bc3d570d28cb2e06155054f3169", null ],
+    [ "Validate", "da/d63/a23535.html#a8d18e9ed9fa851f1c4d36c1f0bed8fcb", null ]
 ];

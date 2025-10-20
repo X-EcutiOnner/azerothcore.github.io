@@ -1,8 +1,8 @@
 var a26963 =
 [
-    [ "CheckFireTotem", "d2/dd3/a26963.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
-    [ "HandleDummy", "d2/dd3/a26963.html#a179d07e7090cec396a7845754e545e8e", null ],
-    [ "PrepareSpellScript", "d2/dd3/a26963.html#a8311cc106da26267e90acd98698cb737", null ],
-    [ "Register", "d2/dd3/a26963.html#abae5a4961888e6ba2d876e450307e362", null ],
-    [ "Validate", "d2/dd3/a26963.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
+    [ "CheckProc", "d2/dd3/a26963.html#a33412f2b5abb1ce2160408ef13e7f0cb", null ],
+    [ "HandleProc", "d2/dd3/a26963.html#ab24c3d3f697a7ebd146d6135305c7741", null ],
+    [ "PrepareAuraScript", "d2/dd3/a26963.html#a8eccfbb749b85bbb850874324f17bbde", null ],
+    [ "Register", "d2/dd3/a26963.html#a482dd09de6cba9f5a36a6cdad1b82a0a", null ],
+    [ "Validate", "d2/dd3/a26963.html#a0c3020d44608920a2820e73e0b9e4b42", null ]
 ];

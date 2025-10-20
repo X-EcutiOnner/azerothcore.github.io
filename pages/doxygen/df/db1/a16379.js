@@ -1,7 +1,6 @@
 var a16379 =
 [
-    [ "HandleDummy", "df/db1/a16379.html#a96b430cb0546fb599da22cd675660187", null ],
-    [ "PrepareSpellScript", "df/db1/a16379.html#ad0330cb78a330f05c18f33375f231fbc", null ],
-    [ "Register", "df/db1/a16379.html#a70a36683a235dec6044a8a32f20c606c", null ],
-    [ "Validate", "df/db1/a16379.html#affa7ccf869e98eacd3a153cc645d704e", null ]
+    [ "PrepareSpellScript", "df/db1/a16379.html#a743f910c3854e2c4e726e97c55fa7038", null ],
+    [ "Register", "df/db1/a16379.html#a3b9b2ffa90f58a5da93fd369e11c6216", null ],
+    [ "RemoveNotBetween", "df/db1/a16379.html#aba462e5b8e9336a508d19606f98750b5", null ]
 ];

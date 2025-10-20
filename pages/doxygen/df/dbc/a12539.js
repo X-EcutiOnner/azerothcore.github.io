@@ -1,7 +1,6 @@
 var a12539 =
 [
-    [ "HandleEffectScriptEffect", "df/dbc/a12539.html#a8157c4b213b3b4e260222976e283e2ae", null ],
-    [ "PrepareSpellScript", "df/dbc/a12539.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
-    [ "Register", "df/dbc/a12539.html#aeda056b568b4956ba35b32a3f20c053e", null ],
-    [ "Validate", "df/dbc/a12539.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
+    [ "instance_blackwing_lair_InstanceMapScript", "dd/d1f/a12543.html", "dd/d1f/a12543" ],
+    [ "instance_blackwing_lair", "df/dbc/a12539.html#afb9a7ce1ac297b023aa8364cc1383336", null ],
+    [ "GetInstanceScript", "df/dbc/a12539.html#a70aff4e1bb406f232d0b4961037ed0a1", null ]
 ];

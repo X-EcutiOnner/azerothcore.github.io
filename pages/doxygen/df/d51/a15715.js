@@ -1,10 +1,17 @@
 var a15715 =
 [
-    [ "npc_omenAI", "df/d51/a15715.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
-    [ "JustDied", "df/d51/a15715.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
-    [ "JustEngagedWith", "df/d51/a15715.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
-    [ "MovementInform", "df/d51/a15715.html#a92e59bde1f0da2ee537a836304a3c385", null ],
-    [ "SpellHit", "df/d51/a15715.html#a4e3960d506fd0435de055a365906a9c9", null ],
-    [ "UpdateAI", "df/d51/a15715.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
-    [ "events", "df/d51/a15715.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
+    [ "npc_clintar_spiritAI", "df/d51/a15715.html#ab64c9da6af7246e1665a5264a26d75ab", null ],
+    [ "EnterEvadeMode", "df/d51/a15715.html#a2ccffe81e2bd7cddcab10746bc9311bf", null ],
+    [ "IsSummonedBy", "df/d51/a15715.html#af55bc32b17bfd45968e668c5591325ae", null ],
+    [ "JustDied", "df/d51/a15715.html#a4e90511d9daf0545f0fee471f3ab0d5e", null ],
+    [ "Reset", "df/d51/a15715.html#afd59b5e50deb65f7175138272f439740", null ],
+    [ "StartEvent", "df/d51/a15715.html#ae3bbfd8374bf667d4eeb26e047ee2186", null ],
+    [ "UpdateAI", "df/d51/a15715.html#a4b780f14cb2aa08c06e39a58501a21fe", null ],
+    [ "WaypointReached", "df/d51/a15715.html#a98315f3202daaac261a1e7f0222b01c5", null ],
+    [ "checkPlayerTimer", "df/d51/a15715.html#a10165a369bb8a7775050ae425cb94123", null ],
+    [ "CurrWP", "df/d51/a15715.html#ae3b4588a2dfd337ffc71456652fa136f", null ],
+    [ "EventOnWait", "df/d51/a15715.html#a7473dff3417d3e7510bc4fb7acbeb494", null ],
+    [ "EventTimer", "df/d51/a15715.html#a27b0a90757df63df276b1e26bfbaba83", null ],
+    [ "PlayerGUID", "df/d51/a15715.html#ad721852353215d46bc623efca358981f", null ],
+    [ "Step", "df/d51/a15715.html#af9b65e2de0dcce5844fbc642b32f5a3f", null ]
 ];

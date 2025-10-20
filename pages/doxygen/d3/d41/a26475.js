@@ -1,7 +1,8 @@
 var a26475 =
 [
-    [ "CalculateAmount", "d3/d41/a26475.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
-    [ "HandleUpdateSpellclick", "d3/d41/a26475.html#a89956d7f3a6404d5b60e46034867c82c", null ],
-    [ "PrepareAuraScript", "d3/d41/a26475.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
-    [ "Register", "d3/d41/a26475.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ]
+    [ "CalculateAmount", "d3/d41/a26475.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
+    [ "PrepareAuraScript", "d3/d41/a26475.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
+    [ "ReflectDamage", "d3/d41/a26475.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
+    [ "Register", "d3/d41/a26475.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
+    [ "Validate", "d3/d41/a26475.html#af2936ba4a29fc8735a3cabe805c77355", null ]
 ];

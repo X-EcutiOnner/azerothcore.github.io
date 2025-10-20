@@ -1,7 +1,8 @@
 var a26867 =
 [
-    [ "HandleEffectPeriodic", "df/d10/a26867.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
-    [ "PrepareAuraScript", "df/d10/a26867.html#ae151331af09510cc91b63b65a30bdcbf", null ],
-    [ "Register", "df/d10/a26867.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
-    [ "Validate", "df/d10/a26867.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
+    [ "HandleRootRemove", "df/d10/a26867.html#a9678ce2254825b67eb7a16312e960ba9", null ],
+    [ "HandleSnareRemove", "df/d10/a26867.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
+    [ "PrepareSpellScript", "df/d10/a26867.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
+    [ "Register", "df/d10/a26867.html#a119675dccea898932ca090577022b6ba", null ],
+    [ "Validate", "df/d10/a26867.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
 ];

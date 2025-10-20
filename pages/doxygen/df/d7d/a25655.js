@@ -1,7 +1,7 @@
 var a25655 =
 [
-    [ "HandleScriptEffect", "df/d7d/a25655.html#ab1d476e7a07da5db80908fb669b6fa6b", null ],
-    [ "PrepareSpellScript", "df/d7d/a25655.html#acf30d245bab2e7a1ee1121008345e667", null ],
-    [ "Register", "df/d7d/a25655.html#a303a38a41f3d9be6e3083690b234e51f", null ],
-    [ "Validate", "df/d7d/a25655.html#a77a3256cdea185ce0ea95d88283c55d7", null ]
+    [ "HandleDummy", "df/d7d/a25655.html#a5b25d03bb22995e1ba9deb7eec4ee35a", null ],
+    [ "Load", "df/d7d/a25655.html#a833d9abe12cb4fff1700b97bc7215c1d", null ],
+    [ "PrepareSpellScript", "df/d7d/a25655.html#a547b3f71f9fc502dc589ad7b9b6f3cc2", null ],
+    [ "Register", "df/d7d/a25655.html#ae7d502253b0c47921e40da4aa87b0eef", null ]
 ];

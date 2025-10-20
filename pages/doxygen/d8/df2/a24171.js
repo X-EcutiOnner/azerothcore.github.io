@@ -1,6 +1,7 @@
 var a24171 =
 [
-    [ "instance_mechanar_InstanceMapScript", "d4/d10/a24175.html", "d4/d10/a24175" ],
-    [ "instance_mechanar", "d8/df2/a24171.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
-    [ "GetInstanceScript", "d8/df2/a24171.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
+    [ "OnPeriodic", "d8/df2/a24171.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "d8/df2/a24171.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "d8/df2/a24171.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "d8/df2/a24171.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

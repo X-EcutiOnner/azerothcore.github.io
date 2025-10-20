@@ -1,6 +1,6 @@
 var a25703 =
 [
-    [ "CheckCast", "d0/dca/a25703.html#a849de7a9bc8d22ca1556e4e798807eaa", null ],
-    [ "PrepareSpellScript", "d0/dca/a25703.html#aadbfe7c69dac7cbc76aee2bfb790b612", null ],
-    [ "Register", "d0/dca/a25703.html#a2ca1fd7353e69d1028b8a9b2882d7931", null ]
+    [ "CheckProc", "d0/dca/a25703.html#a393946dd3404c4b03a9a8ced7913ccaa", null ],
+    [ "PrepareAuraScript", "d0/dca/a25703.html#ae28075d0d66c99fb77a2c7fef678f4e2", null ],
+    [ "Register", "d0/dca/a25703.html#a3e0279f7dc724b4d49bfda4f0e417353", null ]
 ];

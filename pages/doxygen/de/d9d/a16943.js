@@ -1,6 +1,6 @@
 var a16943 =
 [
-    [ "instance_drak_tharon_keep_InstanceScript", "dc/db0/a16947.html", "dc/db0/a16947" ],
-    [ "instance_drak_tharon_keep", "de/d9d/a16943.html#a1f375185dba1619fee36160549eb91f4", null ],
-    [ "GetInstanceScript", "de/d9d/a16943.html#aca6364452dc39e747af152695d479bf8", null ]
+    [ "HandleScriptEffect", "de/d9d/a16943.html#a90b13b2a093fdd430a383d7ea4126290", null ],
+    [ "PrepareSpellScript", "de/d9d/a16943.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
+    [ "Register", "de/d9d/a16943.html#a53c8d47ee21637055ad901946be1e2c2", null ]
 ];

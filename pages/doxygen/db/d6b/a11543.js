@@ -1,6 +1,6 @@
 var a11543 =
 [
-    [ "EffectProcHandler", "db/d6b/a11543.html#a613d5e85c3a7449e4f31719966dcdcc1", null ],
-    [ "Call", "db/d6b/a11543.html#ae03d27451f687319629b3c54c5a7eed5", null ],
-    [ "_EffectHandlerScript", "db/d6b/a11543.html#a8cb9ec4cfee59bc44063ac5cbf25844f", null ]
+    [ "AfterCheckProcHandler", "db/d6b/a11543.html#ac0a14950e90d064ffd7adc224b25f9d8", null ],
+    [ "Call", "db/d6b/a11543.html#ab2da0d87413dd7317eeaf73df17f1aaf", null ],
+    [ "_HandlerScript", "db/d6b/a11543.html#af5a393efc729e8588c0fc425fdfead99", null ]
 ];

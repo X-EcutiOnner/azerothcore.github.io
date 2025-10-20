@@ -1,6 +1,7 @@
 var a12671 =
 [
-    [ "boss_shazzrahAI", "df/d26/a12675.html", "df/d26/a12675" ],
-    [ "boss_shazzrah", "dc/dd1/a12671.html#a99a162d6eac5c9046a27f53ec05af7e4", null ],
-    [ "GetAI", "dc/dd1/a12671.html#a8135f6ab246dbce4c2ebebe0e7f137d5", null ]
+    [ "HandleScript", "dc/dd1/a12671.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
+    [ "PrepareSpellScript", "dc/dd1/a12671.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
+    [ "Register", "dc/dd1/a12671.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
+    [ "Validate", "dc/dd1/a12671.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
 ];

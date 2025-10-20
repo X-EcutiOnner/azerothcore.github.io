@@ -1,6 +1,7 @@
 var a26555 =
 [
-    [ "HandleScriptEffect", "d9/dbc/a26555.html#a8b60ae77f13045a582548fe5d1186d54", null ],
-    [ "PrepareSpellScript", "d9/dbc/a26555.html#ad68619783c4a1aad5a24826bf5d89858", null ],
-    [ "Register", "d9/dbc/a26555.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
+    [ "CheckRequirement", "d9/dbc/a26555.html#afc9206b1d92834943c9825dfd97439c9", null ],
+    [ "HandleScriptEffect", "d9/dbc/a26555.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
+    [ "PrepareSpellScript", "d9/dbc/a26555.html#a0223c05b5832c64b248e82eba770f7fa", null ],
+    [ "Register", "d9/dbc/a26555.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
 ];

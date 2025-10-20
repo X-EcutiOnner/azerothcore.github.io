@@ -1,5 +1,5 @@
 var a27303 =
 [
-    [ "achievement_sickly_gazelle", "d3/d79/a27303.html#abb613cb222c727923c4c5ce843db3a5f", null ],
-    [ "OnCheck", "d3/d79/a27303.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
+    [ "achievement_killed_exp_or_honor_target", "d3/d79/a27303.html#aad432878c97af698dd1cc4019d716281", null ],
+    [ "OnCheck", "d3/d79/a27303.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
 ];

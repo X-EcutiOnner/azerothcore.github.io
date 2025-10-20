@@ -1,14 +1,8 @@
 var a15199 =
 [
-    [ "boss_buru", "db/dfa/a15199.html#a586dfec9d3b0cb9497e616afb1c0b86d", null ],
-    [ "ChaseNewVictim", "db/dfa/a15199.html#a177ec0ac9dcfbd9de51088bf50c5785c", null ],
-    [ "DamageTaken", "db/dfa/a15199.html#a5ec0141994aac2b8e1fdce12b30c13b0", null ],
-    [ "EnterEvadeMode", "db/dfa/a15199.html#aa534cca1e46299e8db917cc8aa5d5b51", null ],
-    [ "JustDied", "db/dfa/a15199.html#a6d8f3265dca889bc49e747471da8597f", null ],
-    [ "JustEngagedWith", "db/dfa/a15199.html#a61eeeb3eb1684943e94367a9318b3035", null ],
-    [ "KilledUnit", "db/dfa/a15199.html#a7c780a29ea9f7b3d2f72eaa11bf7e19c", null ],
-    [ "ManipulateEggs", "db/dfa/a15199.html#a4f8a92eab729c975443579560edb03a3", null ],
-    [ "SpellHit", "db/dfa/a15199.html#ac3bc641c6bb67e585541c4e5d93dd7fa", null ],
-    [ "UpdateAI", "db/dfa/a15199.html#af65d0026b2ea78edb6d48e3c48b6b37b", null ],
-    [ "_phase", "db/dfa/a15199.html#aa395967af50f2a422bf1e81a087efc43", null ]
+    [ "HandleScript", "db/dfa/a15199.html#ac58aef1b295e32c8a44852278edc18f8", null ],
+    [ "Load", "db/dfa/a15199.html#a2f7b9372dd36444c5161f3bc50424d99", null ],
+    [ "PrepareSpellScript", "db/dfa/a15199.html#adc1301a318f86b4e147a191f4c63e3bf", null ],
+    [ "Register", "db/dfa/a15199.html#a95f4abd67d6baf75980ff28a7518503d", null ],
+    [ "Validate", "db/dfa/a15199.html#a98271e7adb17b11e39241154a83b0d0d", null ]
 ];

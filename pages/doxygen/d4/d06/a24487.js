@@ -1,6 +1,7 @@
 var a24487 =
 [
-    [ "PrepareSpellScript", "d4/d06/a24487.html#aa858fff409e5c75d865c91cb5fbef679", null ],
-    [ "Register", "d4/d06/a24487.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
-    [ "SetDest", "d4/d06/a24487.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
+    [ "npc_kservantAI", "d4/d06/a24487.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "d4/d06/a24487.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "d4/d06/a24487.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "WaypointReached", "d4/d06/a24487.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
 ];

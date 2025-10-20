@@ -1,12 +1,12 @@
 var a13783 =
 [
-    [ "npc_eastvale_peasent", "d3/d33/a13783.html#a5282dac41228569d4431d84c1f160f05", null ],
-    [ "Initialize", "d3/d33/a13783.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
-    [ "PathEndReached", "d3/d33/a13783.html#a002ec21e0715b020aa19cd0839408033", null ],
-    [ "Reset", "d3/d33/a13783.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
-    [ "SetData", "d3/d33/a13783.html#add14d9505880727e208e7ef9428f5acd", null ],
-    [ "UpdateAI", "d3/d33/a13783.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
-    [ "_events", "d3/d33/a13783.html#a1b310b07481366042dc45f7a27ce6408", null ],
-    [ "_path", "d3/d33/a13783.html#a907db8e6148947248b5bcfdb35023e16", null ],
-    [ "_realenGUID", "d3/d33/a13783.html#aad06364be8698b5ba69cd229e2a5085b", null ]
+    [ "npc_cameron", "d3/d33/a13783.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
+    [ "MoveTheChildren", "d3/d33/a13783.html#a85ae436f19f69ffb853330f01ee152a0", null ],
+    [ "PathEndReached", "d3/d33/a13783.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
+    [ "sOnGameEvent", "d3/d33/a13783.html#ab22841871cfcdc926b28296a5b4e440c", null ],
+    [ "SoundPicker", "d3/d33/a13783.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
+    [ "UpdateAI", "d3/d33/a13783.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
+    [ "_childrenGUIDs", "d3/d33/a13783.html#ad260466902e8fb1a2e02998cc4549695", null ],
+    [ "_events", "d3/d33/a13783.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
+    [ "_started", "d3/d33/a13783.html#a985d0590eedde340a3923e299d4dffd8", null ]
 ];

@@ -1,8 +1,7 @@
 var a15483 =
 [
-    [ "npc_ahnqiraji_critter", "dd/d3b/a15483.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "dd/d3b/a15483.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "dd/d3b/a15483.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "dd/d3b/a15483.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "dd/d3b/a15483.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "npc_anubisath_warder", "dd/d3b/a15483.html#aebe14673e5c31000a9626e39d87c6775", null ],
+    [ "JustEngagedWith", "dd/d3b/a15483.html#a579318fa519eb669573b2cea78c2fee3", null ],
+    [ "Reset", "dd/d3b/a15483.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
+    [ "UpdateAI", "dd/d3b/a15483.html#aba428f1f1a016191aa4f168c616c3a29", null ]
 ];

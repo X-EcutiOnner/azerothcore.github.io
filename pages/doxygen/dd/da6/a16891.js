@@ -1,7 +1,7 @@
 var a16891 =
 [
-    [ "HandleScript", "dd/da6/a16891.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
-    [ "PrepareSpellScript", "dd/da6/a16891.html#a71b28156c628aacbc6cb481038c0e76c", null ],
-    [ "Register", "dd/da6/a16891.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
-    [ "Validate", "dd/da6/a16891.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
+    [ "HandleScriptEffect", "dd/da6/a16891.html#a51064b3a11f453724ae0879c80eaf8df", null ],
+    [ "PrepareSpellScript", "dd/da6/a16891.html#aac26002ff107e609fb7258306b430f1b", null ],
+    [ "Register", "dd/da6/a16891.html#a0efef7644706940e3929ce99cd162c91", null ],
+    [ "Validate", "dd/da6/a16891.html#a7110d4136337d44aa0300ec82e5a6511", null ]
 ];

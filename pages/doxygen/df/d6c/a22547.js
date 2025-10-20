@@ -1,8 +1,7 @@
 var a22547 =
 [
-    [ "npc_hyldsmeet_protodrakeAI", "df/d6c/a22547.html#a30794392a32b1323fb0a86615b341741", null ],
-    [ "PassengerBoarded", "df/d6c/a22547.html#acb699d519bf79702a34b7d9910fe7c9e", null ],
-    [ "UpdateAI", "df/d6c/a22547.html#afd2168f8dc7328898f5e769c31c6da5a", null ],
-    [ "_accessoryRespawnTimer", "df/d6c/a22547.html#a4c6b4236bf35278d05c4b78f1eda6b75", null ],
-    [ "_vehicleKit", "df/d6c/a22547.html#aba68a138ef44af7d012c8c7dd4c06c6d", null ]
+    [ "npc_wg_demolisher_engineer", "df/d6c/a22547.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "df/d6c/a22547.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "df/d6c/a22547.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "df/d6c/a22547.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

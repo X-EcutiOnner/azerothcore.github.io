@@ -1,9 +1,9 @@
 var a15335 =
 [
-    [ "npc_giant_eye_tentacle", "d9/d63/a15335.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
-    [ "JustDied", "d9/d63/a15335.html#a72cac50a711868256a41c543d0cef3da", null ],
-    [ "JustEngagedWith", "d9/d63/a15335.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
-    [ "Reset", "d9/d63/a15335.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
-    [ "UpdateAI", "d9/d63/a15335.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
-    [ "_portalGUID", "d9/d63/a15335.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
+    [ "npc_claw_tentacle", "d9/d63/a15335.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
+    [ "JustDied", "d9/d63/a15335.html#aa566b417d1b766668133dd1d6a58293f", null ],
+    [ "JustEngagedWith", "d9/d63/a15335.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
+    [ "Reset", "d9/d63/a15335.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
+    [ "UpdateAI", "d9/d63/a15335.html#ae7d521445680167add653717c7ae4c86", null ],
+    [ "_portalGUID", "d9/d63/a15335.html#ab979781a8f77267348595cfa17341bae", null ]
 ];

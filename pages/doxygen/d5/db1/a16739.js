@@ -1,6 +1,6 @@
 var a16739 =
 [
-    [ "npc_mistress_of_painAI", "d4/d8c/a16743.html", "d4/d8c/a16743" ],
-    [ "npc_mistress_of_pain", "d5/db1/a16739.html#a0261ed835454725e0e5629c295be4330", null ],
-    [ "GetAI", "d5/db1/a16739.html#ae32e9b907e2e31556e72d7feb4e24e8a", null ]
+    [ "npc_fel_infernalAI", "d4/d8c/a16743.html", "d4/d8c/a16743" ],
+    [ "npc_fel_infernal", "d5/db1/a16739.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
+    [ "GetAI", "d5/db1/a16739.html#a768201a7516c9972800c941cf2079a11", null ]
 ];

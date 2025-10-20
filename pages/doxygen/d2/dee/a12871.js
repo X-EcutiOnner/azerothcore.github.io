@@ -1,11 +1,7 @@
 var a12871 =
 [
-    [ "boss_tenris_mirkblood", "d2/dee/a12871.html#ae626332a437983bbb0219bbe2d4b75dc", null ],
-    [ "DamageTaken", "d2/dee/a12871.html#a0316d2d936f10928fe01d1d5a532e9e0", null ],
-    [ "EnterEvadeMode", "d2/dee/a12871.html#a5da11ca73a280c08d1ab0ab4df66d836", null ],
-    [ "JustEngagedWith", "d2/dee/a12871.html#ad95106bbe08589a5ca1d0f2f30aab0ec", null ],
-    [ "KilledUnit", "d2/dee/a12871.html#ab0a5fedbd8714326a948163d7bcc0838", null ],
-    [ "Reset", "d2/dee/a12871.html#a88d46f6e972525979687b315db90dc30", null ],
-    [ "SpellHit", "d2/dee/a12871.html#a5d69e0cf2a394ac9eed94bb82ab35949", null ],
-    [ "_mirrorTarget", "d2/dee/a12871.html#a1e9a1c361046b12fe0569fbdef4a7033", null ]
+    [ "OnRemove", "d2/dee/a12871.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
+    [ "PrepareAuraScript", "d2/dee/a12871.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
+    [ "Register", "d2/dee/a12871.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
+    [ "Validate", "d2/dee/a12871.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
 ];

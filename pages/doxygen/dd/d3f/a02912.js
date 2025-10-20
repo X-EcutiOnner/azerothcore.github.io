@@ -1,9 +1,9 @@
 var a02912 =
 [
-    [ "boss_krystallus", "d4/d98/a19775.html", "d4/d98/a19775" ],
-    [ "boss_krystallus::boss_krystallusAI", "dc/d18/a19779.html", "dc/d18/a19779" ],
-    [ "spell_krystallus_shatter", "d3/d87/a19783.html", "d3/d87/a19783" ],
-    [ "spell_krystallus_shatter_effect", "d9/de9/a19787.html", "d9/de9/a19787" ],
+    [ "boss_krystallus", "d2/def/a19751.html", "d2/def/a19751" ],
+    [ "boss_krystallus::boss_krystallusAI", "d8/de6/a19755.html", "d8/de6/a19755" ],
+    [ "spell_krystallus_shatter", "d2/d97/a19759.html", "d2/d97/a19759" ],
+    [ "spell_krystallus_shatter_effect", "d3/dea/a19763.html", "d3/dea/a19763" ],
     [ "events", "dd/d3f/a02912.html#ad29858f6d8ab73f2970f41cb21a76b84", [
       [ "EVENT_SARTURA_WHIRLWIND", "d7/dbe/a02333.html#ad29858f6d8ab73f2970f41cb21a76b84ab9ca33cc16c2b82d1ff2f4361607d180", null ],
       [ "EVENT_SARTURA_WHIRLWIND_RANDOM", "d7/dbe/a02333.html#ad29858f6d8ab73f2970f41cb21a76b84a0963f59968bcf20bcda9da76e151f691", null ],

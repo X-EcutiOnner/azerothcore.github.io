@@ -1,6 +1,6 @@
 var a25463 =
 [
-    [ "PrepareSpellScript", "dd/df5/a25463.html#abb178100d4e5fa4032118f86aa34127d", null ],
-    [ "Register", "dd/df5/a25463.html#a50e902cc281b909259097a8bed5651f2", null ],
-    [ "RemoveVehicleAuras", "dd/df5/a25463.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
+    [ "CheckRequirement", "dd/df5/a25463.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
+    [ "PrepareSpellScript", "dd/df5/a25463.html#aebb88f5ea803a590a099e4e6427d8276", null ],
+    [ "Register", "dd/df5/a25463.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
 ];

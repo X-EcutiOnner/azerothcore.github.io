@@ -1,7 +1,5 @@
 var a28011 =
 [
-    [ "HandleDummy", "d6/d97/a28011.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
-    [ "PrepareSpellScript", "d6/d97/a28011.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
-    [ "Register", "d6/d97/a28011.html#a66c530b497e4952b457bbfa50a036c07", null ],
-    [ "Validate", "d6/d97/a28011.html#a968333dcfe0553ad73879f3042db5511", null ]
+    [ "go_transport_the_thundercaller", "d6/d97/a28011.html#a79d5ed60a112c5f352f9f0b94f9f3a17", null ],
+    [ "EventInform", "d6/d97/a28011.html#ad2e981ff6223ec2cbd8a897485a61204", null ]
 ];

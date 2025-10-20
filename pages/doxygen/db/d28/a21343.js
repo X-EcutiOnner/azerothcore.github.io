@@ -1,6 +1,5 @@
 var a21343 =
 [
-    [ "npc_ferocious_rhinoAI", "de/d45/a21347.html", "de/d45/a21347" ],
-    [ "npc_ferocious_rhino", "db/d28/a21343.html#a480c1d0c24cdbe7cd3c47332ee925466", null ],
-    [ "GetAI", "db/d28/a21343.html#aa5c3cba6b1ed6cffaac578c5449b9b4e", null ]
+    [ "go_palehoof_sphere", "db/d28/a21343.html#a9e31fe7531980a5f75af95e24cbc272d", null ],
+    [ "OnGossipHello", "db/d28/a21343.html#ad939fd46f8bdf32d4e158f32f2bcd8da", null ]
 ];

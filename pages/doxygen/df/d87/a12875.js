@@ -1,6 +1,5 @@
 var a12875 =
 [
-    [ "npc_sanguine_spirit", "df/d87/a12875.html#a1e9a9a8dfaf5475b99d53b6b14db25f0", null ],
-    [ "Reset", "df/d87/a12875.html#ab92451fe70fd8c444a1c9d0bc318f624", null ],
-    [ "UpdateAI", "df/d87/a12875.html#abb07fe0308c3cce7ab5e239e66d65c52", null ]
+    [ "at_karazhan_atiesh_aran", "df/d87/a12875.html#ac84f5848b8a26cbfdd2544108567a6cc", null ],
+    [ "OnTrigger", "df/d87/a12875.html#a5a6646c573b6e0bab0cbc288e594979e", null ]
 ];

@@ -1,8 +1,7 @@
 var a26499 =
 [
-    [ "CalculateAmount", "d9/d70/a26499.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
-    [ "PrepareAuraScript", "d9/d70/a26499.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
-    [ "ReflectDamage", "d9/d70/a26499.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
-    [ "Register", "d9/d70/a26499.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
-    [ "Validate", "d9/d70/a26499.html#af2936ba4a29fc8735a3cabe805c77355", null ]
+    [ "HandleApplyEffect", "d9/d70/a26499.html#af95120b26a165196e0310956c245f36f", null ],
+    [ "HandleRemoveEffect", "d9/d70/a26499.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
+    [ "PrepareAuraScript", "d9/d70/a26499.html#ae19e002407db1466f0655db3d14fe0d7", null ],
+    [ "Register", "d9/d70/a26499.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
 ];

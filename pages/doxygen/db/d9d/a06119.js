@@ -1,9 +1,12 @@
 var a06119 =
 [
-    [ "CasterAI", "db/d9d/a06119.html#ad91d5c64cbc4d56d9a84aaeb2f64b35e", null ],
-    [ "AttackStart", "db/d9d/a06119.html#a28386fd1a275c002445e5eaf90314a3d", null ],
-    [ "InitializeAI", "db/d9d/a06119.html#a2a24cdc24b665c52363dae587572fc4d", null ],
-    [ "JustEngagedWith", "db/d9d/a06119.html#ad436decd8b3da4323cf3fdb4a9e5a849", null ],
-    [ "UpdateAI", "db/d9d/a06119.html#a0fa50ac9bd99ff0c2c7e78f03a737090", null ],
-    [ "m_attackDist", "db/d9d/a06119.html#a561dbc6713a8ec58ef6b23ae4d04d81b", null ]
+    [ "CombatAI", "db/d9d/a06119.html#a32e63efb85155ac3deeb818a9a1ba18a", null ],
+    [ "InitializeAI", "db/d9d/a06119.html#a70caf22165251220365d03873b3d3f17", null ],
+    [ "JustDied", "db/d9d/a06119.html#a9176b9b9c7a5e13fb05dae636c7ef2d4", null ],
+    [ "JustEngagedWith", "db/d9d/a06119.html#ab157082819d821cf0b0093f084111e16", null ],
+    [ "Permissible", "db/d9d/a06119.html#aaf52e2cbeb1ea9a816b5e8d914c03edb", null ],
+    [ "Reset", "db/d9d/a06119.html#a7a39daea9b9bd09572472ae0d8689edd", null ],
+    [ "UpdateAI", "db/d9d/a06119.html#af12583d15ccd183f6236c1889d539b9b", null ],
+    [ "events", "db/d9d/a06119.html#af59650830fa1abdf8eec179a12e328e7", null ],
+    [ "spells", "db/d9d/a06119.html#ae0ecfc744e4200bbf7ea36cdd84b13c0", null ]
 ];

@@ -1,7 +1,7 @@
 var a16699 =
 [
-    [ "npc_toc_retro_paladinAI", "d9/d1b/a16699.html#afe933281cea61c9a4f3ded76290a3b72", null ],
-    [ "myCanCast", "d9/d1b/a16699.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
-    [ "UpdateAI", "d9/d1b/a16699.html#a105d6b9c133c1147b310826d7be416f5", null ],
-    [ "events", "d9/d1b/a16699.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
+    [ "npc_toc_enh_shamanAI", "d9/d1b/a16699.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
+    [ "myCanCast", "d9/d1b/a16699.html#a8a38da4063a22361b25835a67f14ff52", null ],
+    [ "UpdateAI", "d9/d1b/a16699.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
+    [ "events", "d9/d1b/a16699.html#adec973540bf3b046f54547fb845c06b1", null ]
 ];

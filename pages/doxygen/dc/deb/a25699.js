@@ -1,6 +1,10 @@
 var a25699 =
 [
-    [ "OnRemove", "dc/deb/a25699.html#ac3a6d7bdc95605e3c73f8115b4a68da0", null ],
-    [ "PrepareAuraScript", "dc/deb/a25699.html#ab1e3a55a35dbbb4bd781ac8c51608e6a", null ],
-    [ "Register", "dc/deb/a25699.html#aecd068248e174c4b676ff9f43dd0856f", null ]
+    [ "ApplyMarker", "dc/deb/a25699.html#aae1bd2f5f21a389e8d110cabecc9d94d", null ],
+    [ "CheckTrapProc", "dc/deb/a25699.html#a00f06f18b6874302f88c3af193d8e4ed", null ],
+    [ "HandleProcs", "dc/deb/a25699.html#a81abe76c24a6a6320811d99ce8f5fb4f", null ],
+    [ "IsTargetValid", "dc/deb/a25699.html#a02590da9b97a4d6bc7a6cbd0e670480f", null ],
+    [ "PrepareAuraScript", "dc/deb/a25699.html#a475320d20875b2d710ed3734b78f4645", null ],
+    [ "Register", "dc/deb/a25699.html#aca7649a87ace4e22793ca33705b1500c", null ],
+    [ "Validate", "dc/deb/a25699.html#a45630b6dc703996321286ff16a17e3e3", null ]
 ];

@@ -1,6 +1,6 @@
 var a15647 =
 [
-    [ "npc_troll_volunteerAI", "d3/dac/a15651.html", "d3/dac/a15651" ],
-    [ "npc_troll_volunteer", "d3/dfb/a15647.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
-    [ "GetAI", "d3/dfb/a15647.html#aba0208b0910ace75686941c462ecca56", null ]
+    [ "npc_tiger_matriarchAI", "d3/dac/a15651.html", "d3/dac/a15651" ],
+    [ "npc_tiger_matriarch", "d3/dfb/a15647.html#a05a08bfa64c428213a4b534a982afb71", null ],
+    [ "GetAI", "d3/dfb/a15647.html#a6d5664ca125a775c2d71f322f5a57655", null ]
 ];

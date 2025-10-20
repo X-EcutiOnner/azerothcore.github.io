@@ -1,7 +1,6 @@
 var a23883 =
 [
-    [ "FilterTargets", "da/d5a/a23883.html#a834163302ff10875227806d7d4945988", null ],
-    [ "HandleScriptEffect", "da/d5a/a23883.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
-    [ "PrepareSpellScript", "da/d5a/a23883.html#a079e72d57550e03956088b4be1d11422", null ],
-    [ "Register", "da/d5a/a23883.html#abd4e0f268652652d3828ba8d350de849", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "d7/d08/a23887.html", "d7/d08/a23887" ],
+    [ "instance_shattered_halls", "da/d5a/a23883.html#a9d0d3b6baec34c679151791610cff3a7", null ],
+    [ "GetInstanceScript", "da/d5a/a23883.html#a82388466811b022a725ba721845cadf3", null ]
 ];

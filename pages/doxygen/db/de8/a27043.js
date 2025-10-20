@@ -1,6 +1,9 @@
 var a27043 =
 [
-    [ "HandleAuraApply", "db/de8/a27043.html#a0c17d42095cac3d4cf304df1fc83acbf", null ],
-    [ "PrepareAuraScript", "db/de8/a27043.html#a6eedadacba366104fdca2791862be216", null ],
-    [ "Register", "db/de8/a27043.html#a5869dc6372d479d85da1118d0c9ec8e6", null ]
+    [ "CheckCast", "db/de8/a27043.html#a441927e0d8d7304030440c19458eb34d", null ],
+    [ "HandleScriptEffect", "db/de8/a27043.html#a10e9691aa15869c82fba79072a314d7e", null ],
+    [ "PrepareSpellScript", "db/de8/a27043.html#a90b8ae945aeb85ad6e8a120501288979", null ],
+    [ "Register", "db/de8/a27043.html#aac95bd6f7409e1ae9d3f9cf0c7212990", null ],
+    [ "Validate", "db/de8/a27043.html#a00c67b65bcfdeaf56295da6a64689d58", null ],
+    [ "iTypes", "db/de8/a27043.html#ae852b9df34612c074eab23b025c86870", null ]
 ];

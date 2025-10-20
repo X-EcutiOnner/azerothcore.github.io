@@ -1,11 +1,6 @@
 var a15999 =
 [
-    [ "boss_amanitar", "d3/dee/a15999.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
-    [ "EnterEvadeMode", "d3/dee/a15999.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
-    [ "JustDied", "d3/dee/a15999.html#a138049712649ff414950d9d0ca05d712", null ],
-    [ "JustEngagedWith", "d3/dee/a15999.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
-    [ "Reset", "d3/dee/a15999.html#aab3faca4526947a72d8ca049a605f5be", null ],
-    [ "SummonedCreatureDespawn", "d3/dee/a15999.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
-    [ "SummonMushroom", "d3/dee/a15999.html#afc5b4942931f6020b2894b901650fc35", null ],
-    [ "_mushroomsDeque", "d3/dee/a15999.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
+    [ "npc_shadowpriest_sezzizAI", "dc/de4/a16003.html", "dc/de4/a16003" ],
+    [ "npc_shadowpriest_sezziz", "d3/dee/a15999.html#a1be46acc9d8f1405f925f7b7f87592ea", null ],
+    [ "GetAI", "d3/dee/a15999.html#a1513b766f18dbc290b6682582fd33b1d", null ]
 ];

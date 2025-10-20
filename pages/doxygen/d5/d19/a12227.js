@@ -1,8 +1,8 @@
 var a12227 =
 [
-    [ "boss_halyconAI", "d5/d19/a12227.html#acc110d5d802fc0da3ea630f667167748", null ],
-    [ "JustDied", "d5/d19/a12227.html#a7d71e135a8edf3d3b99ccfcb3b071eaa", null ],
-    [ "JustEngagedWith", "d5/d19/a12227.html#a5735567462167fffa4d01800d696296e", null ],
-    [ "Reset", "d5/d19/a12227.html#ac5622260b0b40cb584cf3037521cc5b8", null ],
-    [ "UpdateAI", "d5/d19/a12227.html#a6e72949b63de3d32d8369c7122b6060d", null ]
+    [ "CheckProc", "d5/d19/a12227.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "d5/d19/a12227.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "d5/d19/a12227.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "d5/d19/a12227.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "d5/d19/a12227.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

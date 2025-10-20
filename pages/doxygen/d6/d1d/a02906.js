@@ -1,10 +1,8 @@
 var a02906 =
 [
     [ "boss_ionar", "d6/d85/a19711.html", "d6/d85/a19711" ],
-    [ "boss_ionar::boss_ionarAI", "d6/d39/a19715.html", "d6/d39/a19715" ],
-    [ "npc_spark_of_ionar", "d6/d3a/a19719.html", "d6/d3a/a19719" ],
-    [ "npc_spark_of_ionar::npc_spark_of_ionarAI", "d1/d60/a19723.html", "d1/d60/a19723" ],
-    [ "spell_ionar_static_overload", "d6/db6/a19727.html", "d6/db6/a19727" ],
+    [ "npc_spark_of_ionar", "d6/d39/a19715.html", "d6/d39/a19715" ],
+    [ "spell_ionar_static_overload", "d6/d3a/a19719.html", "d6/d3a/a19719" ],
     [ "IonarEvents", "d6/d1d/a02906.html#a55c0c07978cfe70c0de268fffe25dc01", [
       [ "EVENT_BALL_LIGHTNING", "d6/d1d/a02906.html#a55c0c07978cfe70c0de268fffe25dc01a78c3786c67000c32de404a9427b52b06", null ],
       [ "EVENT_STATIC_OVERLOAD", "d6/d1d/a02906.html#a55c0c07978cfe70c0de268fffe25dc01ae3a111aaab2ee8146af4226e5480bd76", null ],
@@ -18,16 +16,13 @@ var a02906 =
       [ "ACTION_SPARK_DESPAWN", "d6/d1d/a02906.html#ad24f90689dd5be1e46b422f4ddd65e45a884668d3645a97e3290c97af7d8c82af", null ]
     ] ],
     [ "IonarSpells", "d6/d1d/a02906.html#ad38e13b91473fd0a924fbda8426cdbd3", [
-      [ "SPELL_BALL_LIGHTNING_N", "d6/d1d/a02906.html#ad38e13b91473fd0a924fbda8426cdbd3a0a87684f6a18d3c8f31c58e26effbb0e", null ],
-      [ "SPELL_BALL_LIGHTNING_H", "d6/d1d/a02906.html#ad38e13b91473fd0a924fbda8426cdbd3af2d28468851fe3c0e7d1a6df0a10495b", null ],
-      [ "SPELL_STATIC_OVERLOAD_N", "d6/d1d/a02906.html#ad38e13b91473fd0a924fbda8426cdbd3a7fa88501769e9abc9a35d7adb3f1561f", null ],
-      [ "SPELL_STATIC_OVERLOAD_H", "d6/d1d/a02906.html#ad38e13b91473fd0a924fbda8426cdbd3aff67fb2f3aa6c3236ccb43015c0d4c7c", null ],
+      [ "SPELL_BALL_LIGHTNING", "d6/d1d/a02906.html#ad38e13b91473fd0a924fbda8426cdbd3a1f2b03b0253b70f6a8347e41ebdfacb4", null ],
+      [ "SPELL_STATIC_OVERLOAD", "d6/d1d/a02906.html#ad38e13b91473fd0a924fbda8426cdbd3ac10ff9ea929d6a53f3168f96362d13f5", null ],
       [ "SPELL_STATIC_OVERLOAD_KNOCK", "d6/d1d/a02906.html#ad38e13b91473fd0a924fbda8426cdbd3a7377a456730e145b98c742bbca47da29", null ],
       [ "SPELL_DISPERSE", "d6/d1d/a02906.html#ad38e13b91473fd0a924fbda8426cdbd3acbe24a984f278f1c76119e8c3fbbe6a3", null ],
       [ "SPELL_SUMMON_SPARK", "d6/d1d/a02906.html#ad38e13b91473fd0a924fbda8426cdbd3a12c06129c4f7d93c09671196ad95a854", null ],
       [ "SPELL_SPARK_DESPAWN", "d6/d1d/a02906.html#ad38e13b91473fd0a924fbda8426cdbd3a24659e9a7d70d9ade4cd1e63cdc76615", null ],
-      [ "SPELL_SPARK_VISUAL_TRIGGER_N", "d6/d1d/a02906.html#ad38e13b91473fd0a924fbda8426cdbd3aa2515b057c24d94cc727cd0d3507b95f", null ],
-      [ "SPELL_SPARK_VISUAL_TRIGGER_H", "d6/d1d/a02906.html#ad38e13b91473fd0a924fbda8426cdbd3afeb28fc63dbea54f5766afa763e4ebf5", null ],
+      [ "SPELL_SPARK_VISUAL_TRIGGER", "d6/d1d/a02906.html#ad38e13b91473fd0a924fbda8426cdbd3adc9a5908888fbc2ecc5805c4d80cbda1", null ],
       [ "SPELL_RANDOM_LIGHTNING", "d6/d1d/a02906.html#ad38e13b91473fd0a924fbda8426cdbd3a1c7751ae4ca5b1e2d35d7ab87cbaf49c", null ]
     ] ],
     [ "Yells", "d6/d1d/a02906.html#a34a1b224b8db54cacd01d75b910f04e3", [

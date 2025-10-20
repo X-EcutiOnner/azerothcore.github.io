@@ -1,6 +1,5 @@
 var a22011 =
 [
-    [ "npc_heated_battleAI", "da/d32/a22011.html#a2b73957d7890549f4b02488c5527fcef", null ],
-    [ "DamageTaken", "da/d32/a22011.html#a8422c157214195d7166ede35c9c05d19", null ],
-    [ "Reset", "da/d32/a22011.html#a11a4f3270ff260e30da89017dad38433", null ]
+    [ "at_q24545_frostmourne_cavern", "da/d32/a22011.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
+    [ "OnTrigger", "da/d32/a22011.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
 ];

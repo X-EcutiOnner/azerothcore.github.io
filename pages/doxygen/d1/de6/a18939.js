@@ -1,5 +1,6 @@
 var a18939 =
 [
-    [ "at_icc_shutdown_traps", "d1/de6/a18939.html#aa13f5d78d3032e8114e9978f42468f64", null ],
-    [ "OnTrigger", "d1/de6/a18939.html#abb31b3f6d0b159b625d731ac47127005", null ]
+    [ "PrepareSpellScript", "d1/de6/a18939.html#aac12da39c503615036120e3e0cd55622", null ],
+    [ "Register", "d1/de6/a18939.html#a808d2283be9714c14f22a2df0a52dd61", null ],
+    [ "RelocateDest", "d1/de6/a18939.html#a843c9dc403404ddd2de667e57e01f00c", null ]
 ];

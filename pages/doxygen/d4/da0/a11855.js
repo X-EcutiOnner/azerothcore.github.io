@@ -1,8 +1,11 @@
 var a11855 =
 [
-    [ "honor_commandscript", "d4/da0/a11855.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
-    [ "GetCommands", "d4/da0/a11855.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
-    [ "HandleHonorAddCommand", "d4/da0/a11855.html#a03caa77b436e3d513e1325badf05df33", null ],
-    [ "HandleHonorAddKillCommand", "d4/da0/a11855.html#aec79f459796d821a032477827e16308a", null ],
-    [ "HandleHonorUpdateCommand", "d4/da0/a11855.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
+    [ "group_commandscript", "d4/da0/a11855.html#ad2890427cfe3649b2e0fe0896693372c", null ],
+    [ "GetCommands", "d4/da0/a11855.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
+    [ "HandleGroupDisbandCommand", "d4/da0/a11855.html#a538539340a697e02453ddcfa669fb646", null ],
+    [ "HandleGroupJoinCommand", "d4/da0/a11855.html#a382e8532c653464e90b45569e813ae37", null ],
+    [ "HandleGroupLeaderCommand", "d4/da0/a11855.html#a899858a63add3c68e0e1446d29216c00", null ],
+    [ "HandleGroupListCommand", "d4/da0/a11855.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
+    [ "HandleGroupRemoveCommand", "d4/da0/a11855.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
+    [ "HandleGroupReviveCommand", "d4/da0/a11855.html#a13968d61ec037aacc8070bc675290f94", null ]
 ];

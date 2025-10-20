@@ -1,12 +1,10 @@
 var a23143 =
 [
-    [ "boss_essence_of_desireAI", "d9/d74/a23143.html#a02f6dec07038297c15c264fb501b01ab", null ],
-    [ "DamageTaken", "d9/d74/a23143.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
-    [ "DoAction", "d9/d74/a23143.html#ad55459d8e75f34783c1516be05cbb97f", null ],
-    [ "JustEngagedWith", "d9/d74/a23143.html#a0976078399b2190cca25aa2ae5c3c201", null ],
-    [ "KilledUnit", "d9/d74/a23143.html#a07509843bd658e3fc0b02cb817da37e9", null ],
-    [ "MovementInform", "d9/d74/a23143.html#ad65068c5f56db269b4dc711745f96cfb", null ],
-    [ "Reset", "d9/d74/a23143.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
-    [ "UpdateAI", "d9/d74/a23143.html#af348a1b996a8e7704ba55185ef79fe7d", null ],
-    [ "_recentlySpoken", "d9/d74/a23143.html#a6507c0da056a74d961d28e96120cd676", null ]
+    [ "CalculateAmount", "d9/d74/a23143.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
+    [ "CheckProc", "d9/d74/a23143.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
+    [ "HandleProc", "d9/d74/a23143.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
+    [ "PrepareAuraScript", "d9/d74/a23143.html#a6e066884663276dbba82e46ca5f66e59", null ],
+    [ "Register", "d9/d74/a23143.html#ac4154f0746e77229e8d349021d5b9c30", null ],
+    [ "Update", "d9/d74/a23143.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
+    [ "Validate", "d9/d74/a23143.html#a4f10d23f63c47b408b70373623b877a8", null ]
 ];

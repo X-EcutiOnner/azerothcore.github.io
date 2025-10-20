@@ -1,7 +1,8 @@
 var a21475 =
 [
-    [ "HandleDummy", "d9/d6f/a21475.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
-    [ "PrepareSpellScript", "d9/d6f/a21475.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
-    [ "Register", "d9/d6f/a21475.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
-    [ "Validate", "d9/d6f/a21475.html#a92f99501ee1582873586d2405b224f4f", null ]
+    [ "npc_frozen_orbAI", "d9/d6f/a21475.html#aa7456d1d876690e3723ee0a36866348b", null ],
+    [ "JustEngagedWith", "d9/d6f/a21475.html#afd9686dbb8503d7f756b670269aed33d", null ],
+    [ "Reset", "d9/d6f/a21475.html#a376dc1fcef9752e235008c4ba66e2463", null ],
+    [ "UpdateAI", "d9/d6f/a21475.html#a37d7cf81197fe4344c8b847753997e93", null ],
+    [ "switchTimer", "d9/d6f/a21475.html#afc63a3cf6b814df81a35b53278d722c9", null ]
 ];

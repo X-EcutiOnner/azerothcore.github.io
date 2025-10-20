@@ -1,12 +1,10 @@
 var a19475 =
 [
-    [ "npc_hover_diskAI", "d7/db7/a19475.html#a1ee618b8e6393437f0e4193fc57725f3", null ],
-    [ "AttackStart", "d7/db7/a19475.html#aec7920845132af74ecf83bbbcf221f06", null ],
-    [ "DoAction", "d7/db7/a19475.html#a802681ba91854eec0a5d9ac1c2df761c", null ],
-    [ "MoveInLineOfSight", "d7/db7/a19475.html#a770bbfc63a3aef7801b6ba9a542c459c", null ],
-    [ "MovementInform", "d7/db7/a19475.html#a97c5039553d267fc3d955cb6e5eafb47", null ],
-    [ "PassengerBoarded", "d7/db7/a19475.html#a130a40916bb42945531b02d2f3385ece", null ],
-    [ "UpdateAI", "d7/db7/a19475.html#a5213e9b9a750e53b83621cd981741773", null ],
-    [ "events", "d7/db7/a19475.html#adeed5599c5416f3a5d171f70b53d0023", null ],
-    [ "pInstance", "d7/db7/a19475.html#a5141cd8297bf3dc67ce9195867a4152c", null ]
+    [ "npc_scion_of_eternityAI", "d7/db7/a19475.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
+    [ "AttackStart", "d7/db7/a19475.html#a1335f9e34ff73d5501455062be025ada", null ],
+    [ "JustDied", "d7/db7/a19475.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
+    [ "MoveInLineOfSight", "d7/db7/a19475.html#a74a69fa532f0921285ef678bbd2fa761", null ],
+    [ "UpdateAI", "d7/db7/a19475.html#adb16afb6ea1583a7156b80a8d833951a", null ],
+    [ "events", "d7/db7/a19475.html#ae0e194a24a14033a499e68524da1699d", null ],
+    [ "pInstance", "d7/db7/a19475.html#aa828ca4a75696645d7aa350f1f981f40", null ]
 ];

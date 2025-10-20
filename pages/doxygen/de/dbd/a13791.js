@@ -1,9 +1,12 @@
 var a13791 =
 [
-    [ "npc_partygoer", "de/dbd/a13791.html#af053caedfd1fa8173b875f521d279418", null ],
-    [ "Initialize", "de/dbd/a13791.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
-    [ "Reset", "de/dbd/a13791.html#ad1936099ec5696a2a593e5041b0360c6", null ],
-    [ "UpdateAI", "de/dbd/a13791.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
-    [ "_events", "de/dbd/a13791.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
-    [ "_facing", "de/dbd/a13791.html#a9e934091894987ec091b03090bf733e5", null ]
+    [ "npc_eastvale_peasent", "de/dbd/a13791.html#a5282dac41228569d4431d84c1f160f05", null ],
+    [ "Initialize", "de/dbd/a13791.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
+    [ "PathEndReached", "de/dbd/a13791.html#a002ec21e0715b020aa19cd0839408033", null ],
+    [ "Reset", "de/dbd/a13791.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
+    [ "SetData", "de/dbd/a13791.html#add14d9505880727e208e7ef9428f5acd", null ],
+    [ "UpdateAI", "de/dbd/a13791.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
+    [ "_events", "de/dbd/a13791.html#a1b310b07481366042dc45f7a27ce6408", null ],
+    [ "_path", "de/dbd/a13791.html#a907db8e6148947248b5bcfdb35023e16", null ],
+    [ "_realenGUID", "de/dbd/a13791.html#aad06364be8698b5ba69cd229e2a5085b", null ]
 ];

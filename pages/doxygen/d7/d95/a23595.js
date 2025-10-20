@@ -1,7 +1,6 @@
 var a23595 =
 [
-    [ "boss_hydromancer_thespia", "d7/d95/a23595.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "d7/d95/a23595.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "d7/d95/a23595.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "d7/d95/a23595.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d7/d95/a23595.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
+    [ "OnGameObjectCreate", "d7/d95/a23595.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
+    [ "SetBossState", "d7/d95/a23595.html#ab1e344fbf169ee40f28741217f3dca14", null ]
 ];

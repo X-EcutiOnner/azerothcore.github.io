@@ -1,6 +1,5 @@
 var a13055 =
 [
-    [ "boss_garaxxas", "db/d66/a13055.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
-    [ "JustEngagedWith", "db/d66/a13055.html#aebfd7b63d714468ed69e920fb89c345d", null ],
-    [ "Reset", "db/d66/a13055.html#a56e6489ce49971cb066444888355626e", null ]
+    [ "boss_yazzai", "db/d66/a13055.html#a6c92ffeff3e56f98cb1bd08f1835fe10", null ],
+    [ "JustEngagedWith", "db/d66/a13055.html#ab504de0e51a3715485eb65e006352a6f", null ]
 ];

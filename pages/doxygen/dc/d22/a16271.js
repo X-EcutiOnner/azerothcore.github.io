@@ -1,6 +1,6 @@
 var a16271 =
 [
-    [ "npc_onyx_flamecallerAI", "de/db1/a16275.html", "de/db1/a16275" ],
-    [ "npc_onyx_flamecaller", "dc/d22/a16271.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
-    [ "GetAI", "dc/d22/a16271.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
+    [ "boss_general_zarithrianAI", "de/db1/a16275.html", "de/db1/a16275" ],
+    [ "boss_general_zarithrian", "dc/d22/a16271.html#a030c53b6ef1d75027ddfd298d49ab330", null ],
+    [ "GetAI", "dc/d22/a16271.html#a22ba4e0769dd9404ae043fb9c16233ff", null ]
 ];

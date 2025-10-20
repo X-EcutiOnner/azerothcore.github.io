@@ -1,6 +1,6 @@
 var a21503 =
 [
-    [ "npc_frozen_orb_stalkerAI", "d4/d14/a21507.html", "d4/d14/a21507" ],
-    [ "npc_frozen_orb_stalker", "da/d84/a21503.html#a7f025c829106aa6668427f913d07a722", null ],
-    [ "GetAI", "da/d84/a21503.html#af33e27138a70286bac561113ed09f350", null ]
+    [ "boss_erekemAI", "d4/d14/a21507.html", "d4/d14/a21507" ],
+    [ "boss_erekem", "da/d84/a21503.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
+    [ "GetAI", "da/d84/a21503.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
 ];

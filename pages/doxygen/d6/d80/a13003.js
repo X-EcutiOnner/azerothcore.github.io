@@ -1,5 +1,6 @@
 var a13003 =
 [
-    [ "at_karazhan_side_entrance", "d6/d80/a13003.html#abdaa7339a53941e2e89c4fcd439395fc", null ],
-    [ "_OnTrigger", "d6/d80/a13003.html#a80d0018a9442ef7f0834dc329047e135", null ]
+    [ "npc_image_of_medivhAI", "da/d88/a13007.html", "da/d88/a13007" ],
+    [ "npc_image_of_medivh", "d6/d80/a13003.html#a55ee6f97bc7f144209927a2813cab6a9", null ],
+    [ "GetAI", "d6/d80/a13003.html#a11769c47fda3f1c4d8d80329f70d1957", null ]
 ];

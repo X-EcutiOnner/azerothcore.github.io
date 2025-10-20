@@ -1,6 +1,5 @@
 var a27627 =
 [
-    [ "go_amberpine_outhouse", "db/dcd/a27627.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
-    [ "OnGossipHello", "db/dcd/a27627.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
-    [ "OnGossipSelect", "db/dcd/a27627.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
+    [ "go_duskwither_spire_power_source", "db/dcd/a27627.html#aab69de16e8b744af2671e2ed882ee94a", null ],
+    [ "OnGossipHello", "db/dcd/a27627.html#a2c7fd017e7985b99bff187119157a041", null ]
 ];

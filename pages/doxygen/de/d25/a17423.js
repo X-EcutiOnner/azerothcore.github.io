@@ -1,6 +1,7 @@
 var a17423 =
 [
-    [ "boss_moorabiAI", "d1/d98/a17427.html", "d1/d98/a17427" ],
-    [ "boss_moorabi", "de/d25/a17423.html#a94e14b2a9b06143985f785e781d1c302", null ],
-    [ "GetAI", "de/d25/a17423.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
+    [ "HandleScriptEffect", "de/d25/a17423.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
+    [ "PrepareSpellScript", "de/d25/a17423.html#aac410690d906867216b40a49d8f15318", null ],
+    [ "Register", "de/d25/a17423.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
+    [ "Validate", "de/d25/a17423.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
 ];

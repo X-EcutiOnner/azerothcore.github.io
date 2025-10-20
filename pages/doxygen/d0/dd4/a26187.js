@@ -1,6 +1,8 @@
 var a26187 =
 [
-    [ "PrepareSpellScript", "d0/dd4/a26187.html#a7099b8d28128cfea49288792ea02606c", null ],
-    [ "Register", "d0/dd4/a26187.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
-    [ "UpdateTarget", "d0/dd4/a26187.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
+    [ "CheckQuest", "d0/dd4/a26187.html#ab7ebff0894832ac009cda89b7c28e252", null ],
+    [ "HandleDummy", "d0/dd4/a26187.html#a365df14504a54e95e7d68d22a284e441", null ],
+    [ "HandleOpenObject", "d0/dd4/a26187.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
+    [ "PrepareSpellScript", "d0/dd4/a26187.html#a479e313031a2e71473238d8f645bf2d4", null ],
+    [ "Register", "d0/dd4/a26187.html#a70f1a91e611cc2092aad44a909cd53db", null ]
 ];

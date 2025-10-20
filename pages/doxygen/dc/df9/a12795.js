@@ -1,14 +1,7 @@
 var a12795 =
 [
-    [ "boss_midnight", "dc/df9/a12795.html#aacf45b21a30d671d5e9720a30336f72c", null ],
-    [ "CanMeleeHit", "dc/df9/a12795.html#ad46a3726f398e5db56612d78d33fb13f", null ],
-    [ "DamageTaken", "dc/df9/a12795.html#a47be6bc98217cf32a54dc522b7983bdb", null ],
-    [ "DoAction", "dc/df9/a12795.html#a6831149d56f432aa3116d4172ef95a18", null ],
-    [ "EnterEvadeMode", "dc/df9/a12795.html#a7ef9e935ac932f5a9e4fd435b8180783", null ],
-    [ "JustEngagedWith", "dc/df9/a12795.html#afbb95384e6c747e73c87c5a5eb40843e", null ],
-    [ "JustSummoned", "dc/df9/a12795.html#a2644deaf0a2970835b0cd508565e7279", null ],
-    [ "KilledUnit", "dc/df9/a12795.html#a14dcbec9dc43cc12a124b6f140e0e8e6", null ],
-    [ "Reset", "dc/df9/a12795.html#a4f9cb414779705c179bc5447975b35e9", null ],
-    [ "UpdateAI", "dc/df9/a12795.html#a17c86571df6263fe1cc3657ca596e3ae", null ],
-    [ "_phase", "dc/df9/a12795.html#ae5f3f452f5141cecab1b99616eb2bf74", null ]
+    [ "boss_maiden_of_virtue", "dc/df9/a12795.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
+    [ "JustDied", "dc/df9/a12795.html#a6eded246318f6b47b46f45168e4a8069", null ],
+    [ "JustEngagedWith", "dc/df9/a12795.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
+    [ "KilledUnit", "dc/df9/a12795.html#a32dd66a297d11f5ffac1841bae15727a", null ]
 ];

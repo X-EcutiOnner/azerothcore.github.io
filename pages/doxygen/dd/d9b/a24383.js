@@ -1,11 +1,6 @@
 var a24383 =
 [
-    [ "npc_invis_infernal_casterAI", "dd/d9b/a24383.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
-    [ "Reset", "dd/d9b/a24383.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
-    [ "SetData", "dd/d9b/a24383.html#aee88dc141757384f96da969fcdc20671", null ],
-    [ "SummonInfernal", "dd/d9b/a24383.html#a78d53d09e5544b3fe8301da4415d297b", null ],
-    [ "UpdateAI", "dd/d9b/a24383.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
-    [ "events", "dd/d9b/a24383.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
-    [ "ground", "dd/d9b/a24383.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
-    [ "infernalGUID", "dd/d9b/a24383.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
+    [ "npc_dragonmaw_peonAI", "d5/d7e/a24387.html", "d5/d7e/a24387" ],
+    [ "npc_dragonmaw_peon", "dd/d9b/a24383.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
+    [ "GetAI", "dd/d9b/a24383.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
 ];

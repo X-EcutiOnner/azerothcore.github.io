@@ -1,8 +1,10 @@
 var a23935 =
 [
-    [ "HandleEffectApply", "d9/d6c/a23935.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
-    [ "HandleEffectRemove", "d9/d6c/a23935.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
-    [ "PrepareAuraScript", "d9/d6c/a23935.html#a438a8ba3688e0832853bae4183695494", null ],
-    [ "Register", "d9/d6c/a23935.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
-    [ "Validate", "d9/d6c/a23935.html#ab07b244e53b397bc9e9842655617a80d", null ]
+    [ "instance_arcatraz_InstanceMapScript", "d9/d6c/a23935.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
+    [ "GetGuidData", "d9/d6c/a23935.html#aa4bedf168359eaf5332476a6de99c830", null ],
+    [ "OnGameObjectCreate", "d9/d6c/a23935.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
+    [ "SetBossState", "d9/d6c/a23935.html#a2937e4ea47af542a476bd3399ecc7233", null ],
+    [ "SetData", "d9/d6c/a23935.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
+    [ "StasisPodGUIDs", "d9/d6c/a23935.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
+    [ "WardensShieldGUID", "d9/d6c/a23935.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
 ];

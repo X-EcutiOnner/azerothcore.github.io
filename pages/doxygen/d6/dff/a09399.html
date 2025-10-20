@@ -195,18 +195,18 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  952</span>        {</div>
 <div class="line"><span class="lineno">  953</span>            <span class="keywordflow">return</span> u-&gt;IsAlive()</div>
-<div class="line"><span class="lineno">  954</span>                   &amp;&amp; <a class="code hl_variable" href="../../d6/dff/a09399.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6">i_funit</a>-&gt;<a class="code hl_function" href="../../de/d2b/a08447.html#ab73407bcdf13a30519a953d24773ed02">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../d6/dff/a09399.html#a953943e53e25b6887bfab8cc1c19620a">i_range</a>)</div>
+<div class="line"><span class="lineno">  954</span>                   &amp;&amp; <a class="code hl_variable" href="../../d6/dff/a09399.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6">i_funit</a>-&gt;<a class="code hl_function" href="../../dc/d34/a08451.html#ab73407bcdf13a30519a953d24773ed02">IsWithinDistInMap</a>(u, <a class="code hl_variable" href="../../d6/dff/a09399.html#a953943e53e25b6887bfab8cc1c19620a">i_range</a>)</div>
 <div class="line"><span class="lineno">  955</span>                   &amp;&amp; !<a class="code hl_variable" href="../../d6/dff/a09399.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6">i_funit</a>-&gt;<a class="code hl_function" href="../../d6/d41/a08799.html#abdfe022523c40277d917754f75edb722">IsFriendlyTo</a>(u)</div>
 <div class="line"><span class="lineno">  956</span>                   &amp;&amp; <a class="code hl_variable" href="../../d6/dff/a09399.html#a3a0742f36f0a0a22c4ae6a2c8b8269b6">i_funit</a>-&gt;<a class="code hl_function" href="../../d6/d41/a08799.html#ae1efc957b28c2cfa49d9766bdf2da6b6">IsValidAttackTarget</a>(u)</div>
 <div class="line"><span class="lineno">  957</span>                   &amp;&amp; !u-&gt;IsCritter()</div>
 <div class="line"><span class="lineno">  958</span>                   &amp;&amp; !u-&gt;IsTotem() <span class="comment">//xinef: dont attack totems</span></div>
 <div class="line"><span class="lineno">  959</span>                   <span class="comment">/*&amp;&amp; i_funit-&gt;CanSeeOrDetect(u)*/</span>; <span class="comment">// pussywizard: already checked in IsValidAttackTarget(u)</span></div>
 <div class="line"><span class="lineno">  960</span>        }</div>
-<div class="ttc" id="aa08447_html_ab73407bcdf13a30519a953d24773ed02"><div class="ttname"><a href="../../de/d2b/a08447.html#ab73407bcdf13a30519a953d24773ed02">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool useBoundingRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1350</div></div>
-<div class="ttc" id="aa08799_html_abdfe022523c40277d917754f75edb722"><div class="ttname"><a href="../../d6/d41/a08799.html#abdfe022523c40277d917754f75edb722">Unit::IsFriendlyTo</a></div><div class="ttdeci">bool IsFriendlyTo(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10293</div></div>
-<div class="ttc" id="aa08799_html_ae1efc957b28c2cfa49d9766bdf2da6b6"><div class="ttname"><a href="../../d6/d41/a08799.html#ae1efc957b28c2cfa49d9766bdf2da6b6">Unit::IsValidAttackTarget</a></div><div class="ttdeci">bool IsValidAttackTarget(Unit const *target, SpellInfo const *bySpell=nullptr) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:13956</div></div>
+<div class="ttc" id="aa08451_html_ab73407bcdf13a30519a953d24773ed02"><div class="ttname"><a href="../../dc/d34/a08451.html#ab73407bcdf13a30519a953d24773ed02">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool useBoundingRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1350</div></div>
+<div class="ttc" id="aa08799_html_abdfe022523c40277d917754f75edb722"><div class="ttname"><a href="../../d6/d41/a08799.html#abdfe022523c40277d917754f75edb722">Unit::IsFriendlyTo</a></div><div class="ttdeci">bool IsFriendlyTo(Unit const *unit) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10292</div></div>
+<div class="ttc" id="aa08799_html_ae1efc957b28c2cfa49d9766bdf2da6b6"><div class="ttname"><a href="../../d6/d41/a08799.html#ae1efc957b28c2cfa49d9766bdf2da6b6">Unit::IsValidAttackTarget</a></div><div class="ttdeci">bool IsValidAttackTarget(Unit const *target, SpellInfo const *bySpell=nullptr) const</div><div class="ttdef"><b>Definition:</b> Unit.cpp:13955</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00962">i_funit</a>, <a class="el" href="../../#l00963">i_range</a>, <a class="el" href="../../#l01727">Unit::IsAlive()</a>, <a class="el" href="../../#l00793">Unit::IsCritter()</a>, <a class="el" href="../../#l10293">Unit::IsFriendlyTo()</a>, <a class="el" href="../../#l00759">Unit::IsTotem()</a>, <a class="el" href="../../#l13956">Unit::IsValidAttackTarget()</a>, and <a class="el" href="../../#l01350">WorldObject::IsWithinDistInMap()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00962">i_funit</a>, <a class="el" href="../../#l00963">i_range</a>, <a class="el" href="../../#l01726">Unit::IsAlive()</a>, <a class="el" href="../../#l00794">Unit::IsCritter()</a>, <a class="el" href="../../#l10292">Unit::IsFriendlyTo()</a>, <a class="el" href="../../#l00760">Unit::IsTotem()</a>, <a class="el" href="../../#l13955">Unit::IsValidAttackTarget()</a>, and <a class="el" href="../../#l01350">WorldObject::IsWithinDistInMap()</a>.</p>
 
 </div>
 </div>
@@ -265,7 +265,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d62/a04803.html">Acore</a></li><li class="navelem"><a class="el" href="../../d6/dff/a09399.html">AnyUnfriendlyAttackableVisibleUnitInObjectRangeCheck</a></li>
-    <li class="footer">Generated on Mon Oct 13 2025 20:46:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Oct 20 2025 20:48:39 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

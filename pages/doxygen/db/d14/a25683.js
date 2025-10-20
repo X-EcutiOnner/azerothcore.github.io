@@ -1,8 +1,6 @@
 var a25683 =
 [
-    [ "HandlePeriodic", "db/d14/a25683.html#acba5d68c19e68361c088e50f9b831bff", null ],
-    [ "HandleUpdatePeriodic", "db/d14/a25683.html#af27c6dfccb12f1ba52d170da5d9228f9", null ],
-    [ "PrepareAuraScript", "db/d14/a25683.html#a8fa9d7c1f8e95c2e50bd2178f4f58c04", null ],
-    [ "Register", "db/d14/a25683.html#a2be03ae04a562b2c908fcdb0c052ca5f", null ],
-    [ "Validate", "db/d14/a25683.html#ab467c3b759ac1e276d6a4815d20f5ff0", null ]
+    [ "CheckCast", "db/d14/a25683.html#a7fa12be149f0cb2202142d7f44cde0a6", null ],
+    [ "PrepareSpellScript", "db/d14/a25683.html#ad6867dad8bda358bd1479935c80b82e7", null ],
+    [ "Register", "db/d14/a25683.html#a0ab2f1f2a87db93e54dc883c4e53d7ba", null ]
 ];

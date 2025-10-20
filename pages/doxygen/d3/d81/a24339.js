@@ -1,5 +1,6 @@
 var a24339 =
 [
-    [ "at_commander_dawnforge", "d3/d81/a24339.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
-    [ "OnTrigger", "d3/d81/a24339.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
+    [ "HandleEffectRemove", "d3/d81/a24339.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
+    [ "PrepareAuraScript", "d3/d81/a24339.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
+    [ "Register", "d3/d81/a24339.html#ac02217c103db141d75377e233e1e4242", null ]
 ];

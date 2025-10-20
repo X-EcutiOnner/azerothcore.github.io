@@ -1,6 +1,8 @@
 var a11931 =
 [
-    [ "player_settings_commandscript", "d8/da5/a11931.html#ab8585064d4d358d7d48eed97379a3a78", null ],
-    [ "GetCommands", "d8/da5/a11931.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
-    [ "HandleSettingsAnnouncerFlags", "d8/da5/a11931.html#af505117caa66ed4222e52ff91c486b6e", null ]
+    [ "pet_commandscript", "d8/da5/a11931.html#a84595dcb908398e80deee0b0aa47e335", null ],
+    [ "GetCommands", "d8/da5/a11931.html#a01026a4936774d2225d10e0f6e27b08c", null ],
+    [ "HandlePetCreateCommand", "d8/da5/a11931.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
+    [ "HandlePetLearnCommand", "d8/da5/a11931.html#a59a2a6bd9af23fe3a775319216337bda", null ],
+    [ "HandlePetUnlearnCommand", "d8/da5/a11931.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
 ];

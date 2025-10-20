@@ -1,7 +1,6 @@
 var a20363 =
 [
-    [ "HandleAfterEffectApply", "dc/d09/a20363.html#a672526de2c71dcae79bacef88f34dc26", null ],
-    [ "PrepareAuraScript", "dc/d09/a20363.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
-    [ "Register", "dc/d09/a20363.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
-    [ "Validate", "dc/d09/a20363.html#ab5833f6218760a7d9829b5d453436302", null ]
+    [ "boss_hodirAI", "da/d30/a20367.html", "da/d30/a20367" ],
+    [ "boss_hodir", "dc/d09/a20363.html#a5740f489f57380d2633a8ee5a18de339", null ],
+    [ "GetAI", "dc/d09/a20363.html#a8d6ce019e9c383d2eb9ac0d211f4bc4c", null ]
 ];

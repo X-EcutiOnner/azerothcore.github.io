@@ -1,7 +1,6 @@
 var a22511 =
 [
-    [ "HandleDummy", "d4/d62/a22511.html#a68c638c6e056cbadb101ddd025909f54", null ],
-    [ "PrepareSpellScript", "d4/d62/a22511.html#a5a857bace5232d259145a0a095f70eec", null ],
-    [ "Register", "d4/d62/a22511.html#af9c657e1fac6ee630af0bea337fbff62", null ],
-    [ "Validate", "d4/d62/a22511.html#a21e9eaf2eea4b46986b8e8b911bd0508", null ]
+    [ "npc_icefangAI", "d2/d11/a22515.html", "d2/d11/a22515" ],
+    [ "npc_icefang", "d4/d62/a22511.html#a2e13be89b110abaa2509e597e4cf883a", null ],
+    [ "GetAI", "d4/d62/a22511.html#ad1a936b1eef30271912054a817e0c9f8", null ]
 ];

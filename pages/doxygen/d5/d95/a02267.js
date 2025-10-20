@@ -1,11 +1,11 @@
 var a02267 =
 [
-    [ "boss_ossirian", "d7/d7b/a15231.html", "d7/d7b/a15231" ],
-    [ "go_ossirian_crystal", "dc/db6/a15235.html", "dc/db6/a15235" ],
-    [ "go_ossirian_crystal::go_ossirian_crystalAI", "da/dd6/a15239.html", "da/dd6/a15239" ],
-    [ "npc_anubisath_guardian", "d3/d66/a15243.html", "d3/d66/a15243" ],
-    [ "spell_crystal_weakness", "d6/d28/a15247.html", "d6/d28/a15247" ],
-    [ "spell_aq_shadow_storm", "d0/d2d/a15251.html", "d0/d2d/a15251" ],
+    [ "boss_ossirian", "da/dd6/a15239.html", "da/dd6/a15239" ],
+    [ "go_ossirian_crystal", "d3/d66/a15243.html", "d3/d66/a15243" ],
+    [ "go_ossirian_crystal::go_ossirian_crystalAI", "d6/d28/a15247.html", "d6/d28/a15247" ],
+    [ "npc_anubisath_guardian", "d0/d2d/a15251.html", "d0/d2d/a15251" ],
+    [ "spell_crystal_weakness", "df/d27/a15255.html", "df/d27/a15255" ],
+    [ "spell_aq_shadow_storm", "d6/dc4/a15259.html", "d6/dc4/a15259" ],
     [ "Actions", "d5/d95/a02267.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d4/def/a00359.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "d4/def/a00359.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],

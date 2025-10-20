@@ -1,6 +1,6 @@
 var a20595 =
 [
-    [ "HandleInstaKill", "d3/dc5/a20595.html#a593786eb89bf77e05dad4b502ffc1925", null ],
-    [ "PrepareSpellScript", "d3/dc5/a20595.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
-    [ "Register", "d3/dc5/a20595.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
+    [ "boss_mimironAI", "d4/d8c/a20599.html", "d4/d8c/a20599" ],
+    [ "boss_mimiron", "d3/dc5/a20595.html#a72904837bd85e9f711fcf3da04c459c3", null ],
+    [ "GetAI", "d3/dc5/a20595.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
 ];

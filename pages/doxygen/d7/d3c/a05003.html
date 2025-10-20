@@ -155,8 +155,8 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   48</span>: <a class="code hl_variable" href="../../d7/d3c/a05003.html#a786a4b43773e4402451bed82cf221f66">navMesh</a>(mesh) { }</div>
-<div class="ttc" id="aa05003_html_a786a4b43773e4402451bed82cf221f66"><div class="ttname"><a href="../../d7/d3c/a05003.html#a786a4b43773e4402451bed82cf221f66">MMAP::MMapData::navMesh</a></div><div class="ttdeci">dtNavMesh * navMesh</div><div class="ttdef"><b>Definition:</b> MMapMgr.h:65</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   51</span>: <a class="code hl_variable" href="../../d7/d3c/a05003.html#a786a4b43773e4402451bed82cf221f66">navMesh</a>(mesh) { }</div>
+<div class="ttc" id="aa05003_html_a786a4b43773e4402451bed82cf221f66"><div class="ttname"><a href="../../d7/d3c/a05003.html#a786a4b43773e4402451bed82cf221f66">MMAP::MMapData::navMesh</a></div><div class="ttdeci">dtNavMesh * navMesh</div><div class="ttdef"><b>Definition:</b> MMapMgr.h:68</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -182,20 +182,20 @@ Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   51</span>        {</div>
-<div class="line"><span class="lineno">   52</span>            <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; navMeshQuerie : <a class="code hl_variable" href="../../d7/d3c/a05003.html#abb7a9f9131b3657eff54ed17fc329b43">navMeshQueries</a>)</div>
-<div class="line"><span class="lineno">   53</span>            {</div>
-<div class="line"><span class="lineno">   54</span>                dtFreeNavMeshQuery(navMeshQuerie.second);</div>
-<div class="line"><span class="lineno">   55</span>            }</div>
-<div class="line"><span class="lineno">   56</span> </div>
-<div class="line"><span class="lineno">   57</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d3c/a05003.html#a786a4b43773e4402451bed82cf221f66">navMesh</a>)</div>
-<div class="line"><span class="lineno">   58</span>            {</div>
-<div class="line"><span class="lineno">   59</span>                dtFreeNavMesh(<a class="code hl_variable" href="../../d7/d3c/a05003.html#a786a4b43773e4402451bed82cf221f66">navMesh</a>);</div>
-<div class="line"><span class="lineno">   60</span>            }</div>
-<div class="line"><span class="lineno">   61</span>        }</div>
-<div class="ttc" id="aa05003_html_abb7a9f9131b3657eff54ed17fc329b43"><div class="ttname"><a href="../../d7/d3c/a05003.html#abb7a9f9131b3657eff54ed17fc329b43">MMAP::MMapData::navMeshQueries</a></div><div class="ttdeci">NavMeshQuerySet navMeshQueries</div><div class="ttdef"><b>Definition:</b> MMapMgr.h:64</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   54</span>        {</div>
+<div class="line"><span class="lineno">   55</span>            <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; navMeshQuerie : <a class="code hl_variable" href="../../d7/d3c/a05003.html#abb7a9f9131b3657eff54ed17fc329b43">navMeshQueries</a>)</div>
+<div class="line"><span class="lineno">   56</span>            {</div>
+<div class="line"><span class="lineno">   57</span>                dtFreeNavMeshQuery(navMeshQuerie.second);</div>
+<div class="line"><span class="lineno">   58</span>            }</div>
+<div class="line"><span class="lineno">   59</span> </div>
+<div class="line"><span class="lineno">   60</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d3c/a05003.html#a786a4b43773e4402451bed82cf221f66">navMesh</a>)</div>
+<div class="line"><span class="lineno">   61</span>            {</div>
+<div class="line"><span class="lineno">   62</span>                dtFreeNavMesh(<a class="code hl_variable" href="../../d7/d3c/a05003.html#a786a4b43773e4402451bed82cf221f66">navMesh</a>);</div>
+<div class="line"><span class="lineno">   63</span>            }</div>
+<div class="line"><span class="lineno">   64</span>        }</div>
+<div class="ttc" id="aa05003_html_abb7a9f9131b3657eff54ed17fc329b43"><div class="ttname"><a href="../../d7/d3c/a05003.html#abb7a9f9131b3657eff54ed17fc329b43">MMAP::MMapData::navMeshQueries</a></div><div class="ttdeci">NavMeshQuerySet navMeshQueries</div><div class="ttdef"><b>Definition:</b> MMapMgr.h:67</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00065">navMesh</a>, and <a class="el" href="../../#l00064">navMeshQueries</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">navMesh</a>, and <a class="el" href="../../#l00067">navMeshQueries</a>.</p>
 
 </div>
 </div>
@@ -212,7 +212,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00128">MMAP::MMapMgr::loadMap()</a>, and <a class="el" href="../../#l00204">MMAP::MMapMgr::unloadMap()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00125">MMAP::MMapMgr::loadMap()</a>, and <a class="el" href="../../#l00201">MMAP::MMapMgr::unloadMap()</a>.</p>
 
 </div>
 </div>
@@ -228,7 +228,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00317">MMAP::MMapMgr::GetNavMeshQuery()</a>, <a class="el" href="../../#l00128">MMAP::MMapMgr::loadMap()</a>, <a class="el" href="../../#l00204">MMAP::MMapMgr::unloadMap()</a>, and <a class="el" href="../../#l00050">~MMapData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00314">MMAP::MMapMgr::GetNavMeshQuery()</a>, <a class="el" href="../../#l00125">MMAP::MMapMgr::loadMap()</a>, <a class="el" href="../../#l00201">MMAP::MMapMgr::unloadMap()</a>, and <a class="el" href="../../#l00053">~MMapData()</a>.</p>
 
 </div>
 </div>
@@ -244,7 +244,7 @@ Public Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00317">MMAP::MMapMgr::GetNavMeshQuery()</a>, <a class="el" href="../../#l00279">MMAP::MMapMgr::unloadMapInstance()</a>, and <a class="el" href="../../#l00050">~MMapData()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00314">MMAP::MMapMgr::GetNavMeshQuery()</a>, <a class="el" href="../../#l00276">MMAP::MMapMgr::unloadMapInstance()</a>, and <a class="el" href="../../#l00053">~MMapData()</a>.</p>
 
 </div>
 </div>
@@ -254,7 +254,7 @@ Public Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d8/d95/a04811.html">MMAP</a></li><li class="navelem"><a class="el" href="../../d7/d3c/a05003.html">MMapData</a></li>
-    <li class="footer">Generated on Mon Oct 13 2025 20:46:11 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Oct 20 2025 20:48:40 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

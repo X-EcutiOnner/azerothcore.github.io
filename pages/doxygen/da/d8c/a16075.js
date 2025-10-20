@@ -1,6 +1,6 @@
 var a16075 =
 [
-    [ "HandlePeriodic", "da/d8c/a16075.html#ad22b433005b2678bde3516a01eaaaa60", null ],
-    [ "PrepareAuraScript", "da/d8c/a16075.html#a3711004edaef7242d9cae1f23f9b7467", null ],
-    [ "Register", "da/d8c/a16075.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
+    [ "instance_ahnkahet_InstanceScript", "de/dbb/a16079.html", "de/dbb/a16079" ],
+    [ "instance_ahnkahet", "da/d8c/a16075.html#afbe11bc040019231878cf31cc357830b", null ],
+    [ "GetInstanceScript", "da/d8c/a16075.html#a8847099c88f11de363c45e27998f10b7", null ]
 ];

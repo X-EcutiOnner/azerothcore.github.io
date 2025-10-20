@@ -1,12 +1,12 @@
 var a18691 =
 [
-    [ "npc_risen_archmageAI", "d3/dc5/a18691.html#a4dd62e51fc75fc5e4a44859437549f29", null ],
-    [ "CanAIAttack", "d3/dc5/a18691.html#a063a28cd36dbc709699e6d1d4e4ca9e3", null ],
-    [ "DoAction", "d3/dc5/a18691.html#accc43068aa0a7f62d6fabfb85acb1498", null ],
-    [ "JustEngagedWith", "d3/dc5/a18691.html#aef3a1631b4bb8d28d4056036981b0192", null ],
-    [ "JustSummoned", "d3/dc5/a18691.html#aff6e86057086db1319bb680e52e41634", null ],
-    [ "Reset", "d3/dc5/a18691.html#a522d30cb60cf6af2cd8cc943a7e2f5e3", null ],
-    [ "UpdateAI", "d3/dc5/a18691.html#ae78dc64f858573b234210ca175e5bdd9", null ],
-    [ "_events", "d3/dc5/a18691.html#a6dff9ff5332c0bc337840882689f47ed", null ],
-    [ "_instance", "d3/dc5/a18691.html#a1b4e12b199bf3ada517c895c5f387c4a", null ]
+    [ "npc_the_lich_king_controllerAI", "d3/dc5/a18691.html#a211c370e9c370e00fba3c83e51738886", null ],
+    [ "AttackStart", "d3/dc5/a18691.html#a58e11746c14f6bbb1b5c56c1d0136d9f", null ],
+    [ "DoAction", "d3/dc5/a18691.html#aaf940a0ca812d84dbde81fc7e41feaca", null ],
+    [ "JustSummoned", "d3/dc5/a18691.html#aa610e24316505165cbb826ff5bece5c5", null ],
+    [ "MoveInLineOfSight", "d3/dc5/a18691.html#a0ee33ab5733c12163e92213376e893e4", null ],
+    [ "Reset", "d3/dc5/a18691.html#a2c4410cc2ad995452f742f79e8e4af8b", null ],
+    [ "UpdateAI", "d3/dc5/a18691.html#a34a0295ad1a45a9bc060ff8595c22e14", null ],
+    [ "_events", "d3/dc5/a18691.html#a90c3d818318004c7c21ec66d4d080615", null ],
+    [ "_instance", "d3/dc5/a18691.html#a480a284881ba5f56bc6222607bd01a76", null ]
 ];

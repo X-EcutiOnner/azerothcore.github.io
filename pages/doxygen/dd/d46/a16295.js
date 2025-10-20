@@ -1,13 +1,17 @@
 var a16295 =
 [
-    [ "boss_twilight_halionAI", "dd/d46/a16295.html#aab05bab963d603c3cb70edfd62a84b49", null ],
-    [ "DamageTaken", "dd/d46/a16295.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
-    [ "EnterEvadeMode", "dd/d46/a16295.html#af7076251fc1fad1dc259d747934910e2", null ],
-    [ "JustDied", "dd/d46/a16295.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
-    [ "JustEngagedWith", "dd/d46/a16295.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
-    [ "KilledUnit", "dd/d46/a16295.html#ada770d51f63c841c500ffc3197a7a89f", null ],
-    [ "Reset", "dd/d46/a16295.html#a9c945841926d5b08f37c6a720dd25a14", null ],
-    [ "UpdateAI", "dd/d46/a16295.html#a6ab1d215ed077883781b0c0188282c5e", null ],
-    [ "_events", "dd/d46/a16295.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
-    [ "_instance", "dd/d46/a16295.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
+    [ "boss_halionAI", "dd/d46/a16295.html#a24d41b904ec24029887869622fbce0eb", null ],
+    [ "AttackStart", "dd/d46/a16295.html#acad91c2b1e7e02f9662cc3342f272ae7", null ],
+    [ "CanAIAttack", "dd/d46/a16295.html#ad15cd8d44cd1779f45cacb38caa08fe2", null ],
+    [ "DamageTaken", "dd/d46/a16295.html#a911c636113639690bb6304e2f6d55499", null ],
+    [ "EnterEvadeMode", "dd/d46/a16295.html#a20e451a26914adcee83e5fb77155c59d", null ],
+    [ "IsAnyPlayerValid", "dd/d46/a16295.html#a6681f94156a46c75960038ed1ed80543", null ],
+    [ "JustDied", "dd/d46/a16295.html#a483fbaf88780d0714ffaa47bea00cc5f", null ],
+    [ "JustEngagedWith", "dd/d46/a16295.html#a16f121b5c7f3f924dc0c11adb53ff79a", null ],
+    [ "JustSummoned", "dd/d46/a16295.html#a4fdf03de55fdd35ff849a82704ce7a3c", null ],
+    [ "KilledUnit", "dd/d46/a16295.html#ac45ac7ceb0b761e90deeffcea364ceea", null ],
+    [ "Reset", "dd/d46/a16295.html#aa8c06f8a1642534efb14941d9c0d9f14", null ],
+    [ "UpdateAI", "dd/d46/a16295.html#abe0faa976bb1b14102b940fac9526e5b", null ],
+    [ "_events2", "dd/d46/a16295.html#a677448e015db869b718e15b6809586cc", null ],
+    [ "_livingEmberCount", "dd/d46/a16295.html#af6af6482467f3a08fbe1c65f3b2b1552", null ]
 ];

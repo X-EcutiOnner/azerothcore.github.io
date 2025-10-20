@@ -1,7 +1,9 @@
 var a22163 =
 [
-    [ "npc_tallhorn_stagAI", "da/d6e/a22163.html#a50947c450eece979193b45728e5e1f82", null ],
-    [ "Reset", "da/d6e/a22163.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
-    [ "UpdateAI", "da/d6e/a22163.html#adf60f62fa92238cb315c42e0179c3f17", null ],
-    [ "_phase", "da/d6e/a22163.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
+    [ "npc_venture_co_stragglerAI", "da/d6e/a22163.html#abc3cc04b89b95fd45969ba5859bf810c", null ],
+    [ "Reset", "da/d6e/a22163.html#acfeaad9db95d0b391a64cc65ca3a1cee", null ],
+    [ "SpellHit", "da/d6e/a22163.html#ae1919454c270d10342079b60a727a306", null ],
+    [ "UpdateAI", "da/d6e/a22163.html#a0846336d8d1333e2c2f50731a722c3b7", null ],
+    [ "_events", "da/d6e/a22163.html#a9cd6e6b549e10900f35838f04e10e0f5", null ],
+    [ "_playerGUID", "da/d6e/a22163.html#a649493944b143782d995b5bdda3714b4", null ]
 ];

@@ -1,6 +1,8 @@
 var a18415 =
 [
-    [ "boss_the_lich_kingAI", "d1/d33/a18419.html", "d1/d33/a18419" ],
-    [ "boss_the_lich_king", "d9/d8f/a18415.html#a10e2789a98a85907d24eabae6d7655f4", null ],
-    [ "GetAI", "d9/d8f/a18415.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
+    [ "NecroticPlagueTargetCheck", "d9/d8f/a18415.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
+    [ "operator()", "d9/d8f/a18415.html#a801a176e367a9f4446fe080845477654", null ],
+    [ "_notAura1", "d9/d8f/a18415.html#a4f52417f233e1ab06210726670f719f3", null ],
+    [ "_notAura2", "d9/d8f/a18415.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
+    [ "_sourceObj", "d9/d8f/a18415.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
 ];

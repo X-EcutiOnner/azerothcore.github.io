@@ -1,7 +1,9 @@
 var a17667 =
 [
-    [ "HandleDummy", "d9/d09/a17667.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "d9/d09/a17667.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "d9/d09/a17667.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "d9/d09/a17667.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "CheckProc", "d9/d09/a17667.html#a13426f7a45e9434f980b42f174b22da8", null ],
+    [ "HandlePeriodicTick", "d9/d09/a17667.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
+    [ "HandleProc", "d9/d09/a17667.html#abf744d64dae5835bff3877eeaa919af3", null ],
+    [ "PrepareAuraScript", "d9/d09/a17667.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
+    [ "Register", "d9/d09/a17667.html#a1b72c10256365de71b8f9fadf5886338", null ],
+    [ "Validate", "d9/d09/a17667.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
 ];

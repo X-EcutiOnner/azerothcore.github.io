@@ -1,5 +1,6 @@
 var a21387 =
 [
-    [ "go_harpoon_canon", "d1/d1b/a21387.html#aa7651e111cade00bbbdb9d0feced03e6", null ],
-    [ "OnGossipHello", "d1/d1b/a21387.html#ad0098bafd1233636bde181312126e65f", null ]
+    [ "CalculateAmount", "d1/d1b/a21387.html#a79019ef395c9b66f6a88759b0517005d", null ],
+    [ "PrepareAuraScript", "d1/d1b/a21387.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
+    [ "Register", "d1/d1b/a21387.html#a9bce52699983fe798c903385faa42462", null ]
 ];

@@ -1,16 +1,6 @@
 var a22283 =
 [
-    [ "npc_battle_at_valhalasAI", "d2/de2/a22283.html#a2118bb3a502d2082297631e3dab298da", null ],
-    [ "CheckSummons", "d2/de2/a22283.html#a6ec21ce185cba4756dc4a00d1f65140c", null ],
-    [ "JustSummoned", "d2/de2/a22283.html#ac2c766dd298bf074f20968006a361036", null ],
-    [ "PrepareSummons", "d2/de2/a22283.html#a80e97ceef22290d241fa3f5894331c08", null ],
-    [ "Reset", "d2/de2/a22283.html#a303f268cbcc0e2c731c505c721c55da6", null ],
-    [ "ResetData", "d2/de2/a22283.html#a3bc670704f0e235ae4022ba796a333b9", null ],
-    [ "StartBattle", "d2/de2/a22283.html#a01dff1aba876527951d3c83ae8b240ff", null ],
-    [ "UpdateAI", "d2/de2/a22283.html#a3294ef4eb601df5156db0ba416d3aabe", null ],
-    [ "currentQuest", "d2/de2/a22283.html#a7c8a2c0710f68d617bd7edd71632c744", null ],
-    [ "events", "d2/de2/a22283.html#a74ac913100bb6ecd904f0b2f0e590271", null ],
-    [ "playerGUID", "d2/de2/a22283.html#aac5d72cbc9f07d43dc6d9b722d0626b8", null ],
-    [ "playerGUID2", "d2/de2/a22283.html#af29a4ea9c3c9c62364eb997258e5fa70", null ],
-    [ "summons", "d2/de2/a22283.html#a3e894857fd5e3f4ccc5fc40c47a8cabe", null ]
+    [ "npc_boneguard_footmanAI", "d2/de2/a22283.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "d2/de2/a22283.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "d2/de2/a22283.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

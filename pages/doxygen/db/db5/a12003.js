@@ -1,6 +1,6 @@
 var a12003 =
 [
-    [ "boss_galvangarAI", "d5/da7/a12007.html", "d5/da7/a12007" ],
-    [ "boss_galvangar", "db/db5/a12003.html#a3949cfd3c987bdf52d313568de9379ba", null ],
-    [ "GetAI", "db/db5/a12003.html#a9fd978eb38ae3e2d8d65cf4214e673e3", null ]
+    [ "boss_drektharAI", "d5/da7/a12007.html", "d5/da7/a12007" ],
+    [ "boss_drekthar", "db/db5/a12003.html#ac9296654b10191ac9d58219ba36f57b3", null ],
+    [ "GetAI", "db/db5/a12003.html#adeacbbc81ab675260c2cac1a6c76d3fe", null ]
 ];

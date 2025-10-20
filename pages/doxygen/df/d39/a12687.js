@@ -1,6 +1,8 @@
 var a12687 =
 [
-    [ "boss_sulfuronAI", "df/d39/a12687.html#a63c76fb94131830924e2bf77477261ba", null ],
-    [ "ExecuteEvent", "df/d39/a12687.html#ae038aa8140f5b4128c39c592966321f1", null ],
-    [ "JustEngagedWith", "df/d39/a12687.html#a35394690b8d25529c91c147025f6ad92", null ]
+    [ "FilterTargets", "df/d39/a12687.html#ac47cfe2bf2782202ac69ea7a91290c2f", null ],
+    [ "HandleScript", "df/d39/a12687.html#a47dcb727b8e467044602b2a3d54ec1de", null ],
+    [ "PrepareSpellScript", "df/d39/a12687.html#a2319460465cefa69b1b81ce50b1d7b85", null ],
+    [ "Register", "df/d39/a12687.html#a72b3bbddf931fee1a12700c867b47f3d", null ],
+    [ "Validate", "df/d39/a12687.html#a66d0a1ab1a3dae5242a7396a750e73ad", null ]
 ];

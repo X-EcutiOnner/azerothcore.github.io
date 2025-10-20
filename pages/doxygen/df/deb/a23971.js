@@ -1,7 +1,6 @@
 var a23971 =
 [
-    [ "HandleCast", "df/deb/a23971.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
-    [ "PrepareSpellScript", "df/deb/a23971.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
-    [ "Register", "df/deb/a23971.html#a6ae0573ea69573df64cd57ba84f99918", null ],
-    [ "Validate", "df/deb/a23971.html#ab5794ca5c0863ce40194ed40e156279a", null ]
+    [ "instance_the_botanica_InstanceMapScript", "d3/d38/a23975.html", "d3/d38/a23975" ],
+    [ "instance_the_botanica", "df/deb/a23971.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
+    [ "GetInstanceScript", "df/deb/a23971.html#a335f671443ca0fb9db5956cefdf37182", null ]
 ];

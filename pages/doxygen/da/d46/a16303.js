@@ -1,14 +1,13 @@
 var a16303 =
 [
-    [ "npc_halion_controllerAI", "da/d46/a16303.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
-    [ "DoAction", "da/d46/a16303.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
-    [ "Reset", "da/d46/a16303.html#a3004aecb50815287d5f832f2a8a0d250", null ],
-    [ "SetData", "da/d46/a16303.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
-    [ "UpdateAI", "da/d46/a16303.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
-    [ "UpdateCorporeality", "da/d46/a16303.html#ac82987f2b2b069b90c509c477004bae6", null ],
-    [ "_corporeality", "da/d46/a16303.html#a4c23df1bb774ac724bdf537453592671", null ],
-    [ "_events", "da/d46/a16303.html#a92e3f116260265a2d0dbeef769eee03e", null ],
-    [ "_instance", "da/d46/a16303.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
-    [ "_materialDamage", "da/d46/a16303.html#afcc510b0d4be10ed057d1a304b803b69", null ],
-    [ "_twilightDamage", "da/d46/a16303.html#a13a9efcb11ed31725c45011508407287", null ]
+    [ "boss_twilight_halionAI", "da/d46/a16303.html#aab05bab963d603c3cb70edfd62a84b49", null ],
+    [ "DamageTaken", "da/d46/a16303.html#a0c62ac244e57b1b90101e1ba89a60d27", null ],
+    [ "EnterEvadeMode", "da/d46/a16303.html#af7076251fc1fad1dc259d747934910e2", null ],
+    [ "JustDied", "da/d46/a16303.html#a2874474a1dbc9b30a4ff77d2d7bfd8fd", null ],
+    [ "JustEngagedWith", "da/d46/a16303.html#a136b51ede30d63d87228d35e8b6f2c7a", null ],
+    [ "KilledUnit", "da/d46/a16303.html#ada770d51f63c841c500ffc3197a7a89f", null ],
+    [ "Reset", "da/d46/a16303.html#a9c945841926d5b08f37c6a720dd25a14", null ],
+    [ "UpdateAI", "da/d46/a16303.html#a6ab1d215ed077883781b0c0188282c5e", null ],
+    [ "_events", "da/d46/a16303.html#a22a8a7696fb23b9eab01d42cd45644de", null ],
+    [ "_instance", "da/d46/a16303.html#a033f10bba4ba89aa0111d4cb520540e6", null ]
 ];

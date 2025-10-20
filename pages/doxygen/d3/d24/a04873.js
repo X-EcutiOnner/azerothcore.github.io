@@ -2,6 +2,8 @@ var a04873 =
 [
     [ "DismissCritter", "db/df1/a11039.html", "db/df1/a11039" ],
     [ "PetAbandon", "d1/d0c/a11043.html", "d1/d0c/a11043" ],
+    [ "PetActionSound", "d8/d6e/a11067.html", "d8/d6e/a11067" ],
+    [ "PetDismissSound", "d3/d6e/a11071.html", "d3/d6e/a11071" ],
     [ "PetLearnedSpell", "d2/d03/a11055.html", "d2/d03/a11055" ],
     [ "PetSpellAutocast", "d0/d76/a11051.html", "d0/d76/a11051" ],
     [ "PetStopAttack", "de/d4f/a11047.html", "de/d4f/a11047" ],

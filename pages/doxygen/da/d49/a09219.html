@@ -284,7 +284,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00104">MapGrid&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::GetCreatedCellsCount()</a>, and <a class="el" href="../../#l00080">GetGrid()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l03175">Map::GetCreatedCellsInGridCount()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03173">Map::GetCreatedCellsInGridCount()</a>.</p>
 
 </div>
 </div>
@@ -319,7 +319,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00080">GetGrid()</a>, and <a class="el" href="../../#l00024">MAX_NUMBER_OF_GRIDS</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l03180">Map::GetCreatedCellsInMapCount()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03178">Map::GetCreatedCellsInMapCount()</a>.</p>
 
 </div>
 </div>
@@ -343,7 +343,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00055">_createdGridsCount</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l03165">Map::GetCreatedGridsCount()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03163">Map::GetCreatedGridsCount()</a>.</p>
 
 </div>
 </div>
@@ -382,7 +382,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00059">_mapGrid</a>, and <a class="el" href="../../#l00042">IsValidGridCoordinates()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00098">GetCreatedCellsInGridCount()</a>, <a class="el" href="../../#l00107">GetCreatedCellsInMapCount()</a>, <a class="el" href="../../#l01079">Map::GetGridTerrainData()</a>, <a class="el" href="../../#l01072">Map::GetGridTerrainDataSharedPtr()</a>, <a class="el" href="../../#l00195">Map::GetMapGrid()</a>, <a class="el" href="../../#l00022">LoadGrid()</a>, and <a class="el" href="../../#l00038">UnloadGrid()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00098">GetCreatedCellsInGridCount()</a>, <a class="el" href="../../#l00107">GetCreatedCellsInMapCount()</a>, <a class="el" href="../../#l01077">Map::GetGridTerrainData()</a>, <a class="el" href="../../#l01070">Map::GetGridTerrainDataSharedPtr()</a>, <a class="el" href="../../#l00195">Map::GetMapGrid()</a>, <a class="el" href="../../#l00022">LoadGrid()</a>, and <a class="el" href="../../#l00038">UnloadGrid()</a>.</p>
 
 </div>
 </div>
@@ -406,7 +406,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00056">_loadedGridsCount</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l03170">Map::GetLoadedGridsCount()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l03168">Map::GetLoadedGridsCount()</a>.</p>
 
 </div>
 </div>
@@ -569,7 +569,7 @@ Private Attributes</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00024">MAX_NUMBER_OF_GRIDS</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00080">GetGrid()</a>, <a class="el" href="../../#l01079">Map::GetGridTerrainData()</a>, <a class="el" href="../../#l00064">IsGridCreated()</a>, and <a class="el" href="../../#l00072">IsGridLoaded()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00080">GetGrid()</a>, <a class="el" href="../../#l01077">Map::GetGridTerrainData()</a>, <a class="el" href="../../#l00064">IsGridCreated()</a>, and <a class="el" href="../../#l00072">IsGridLoaded()</a>.</p>
 
 </div>
 </div>
@@ -654,7 +654,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   43</span> </div>
 <div class="line"><span class="lineno">   44</span>    {</div>
 <div class="line"><span class="lineno">   45</span>        <a class="code hl_class" href="../../de/de7/a09135.html">GridObjectCleaner</a> worker;</div>
-<div class="line"><span class="lineno">   46</span>        <a class="code hl_class" href="../../dd/dd5/a05343.html">TypeContainerVisitor&lt;GridObjectCleaner, GridTypeMapContainer&gt;</a> visitor(worker);</div>
+<div class="line"><span class="lineno">   46</span>        <a class="code hl_class" href="../../d3/d04/a05347.html">TypeContainerVisitor&lt;GridObjectCleaner, GridTypeMapContainer&gt;</a> visitor(worker);</div>
 <div class="line"><span class="lineno">   47</span>        grid-&gt;<a class="code hl_function" href="../../d5/d0b/a09215.html#a87e9c4690a1ffee11a8d6a6fee264e7b">VisitAllCells</a>(visitor);</div>
 <div class="line"><span class="lineno">   48</span>    }</div>
 <div class="line"><span class="lineno">   49</span> </div>
@@ -662,7 +662,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   51</span> </div>
 <div class="line"><span class="lineno">   52</span>    {</div>
 <div class="line"><span class="lineno">   53</span>        <a class="code hl_class" href="../../dc/d3e/a09139.html">GridObjectUnloader</a> worker;</div>
-<div class="line"><span class="lineno">   54</span>        <a class="code hl_class" href="../../dd/dd5/a05343.html">TypeContainerVisitor&lt;GridObjectUnloader, GridTypeMapContainer&gt;</a> visitor(worker);</div>
+<div class="line"><span class="lineno">   54</span>        <a class="code hl_class" href="../../d3/d04/a05347.html">TypeContainerVisitor&lt;GridObjectUnloader, GridTypeMapContainer&gt;</a> visitor(worker);</div>
 <div class="line"><span class="lineno">   55</span>        grid-&gt;<a class="code hl_function" href="../../d5/d0b/a09215.html#a87e9c4690a1ffee11a8d6a6fee264e7b">VisitAllCells</a>(visitor);</div>
 <div class="line"><span class="lineno">   56</span>    }</div>
 <div class="line"><span class="lineno">   57</span> </div>
@@ -671,16 +671,16 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   60</span> </div>
 <div class="line"><span class="lineno">   61</span>    <a class="code hl_variable" href="../../da/d49/a09219.html#acfac0df3926498e8a9aa581581f84e2c">_mapGrid</a>[x][y] = <span class="keyword">nullptr</span>;</div>
 <div class="line"><span class="lineno">   62</span>}</div>
-<div class="ttc" id="aa05343_html"><div class="ttname"><a href="../../dd/dd5/a05343.html">TypeContainerVisitor</a></div><div class="ttdef"><b>Definition:</b> TypeContainerVisitor.h:105</div></div>
+<div class="ttc" id="aa05347_html"><div class="ttname"><a href="../../d3/d04/a05347.html">TypeContainerVisitor</a></div><div class="ttdef"><b>Definition:</b> TypeContainerVisitor.h:105</div></div>
 <div class="ttc" id="aa09135_html"><div class="ttname"><a href="../../de/de7/a09135.html">GridObjectCleaner</a></div><div class="ttdef"><b>Definition:</b> GridObjectLoader.h:47</div></div>
 <div class="ttc" id="aa09139_html"><div class="ttname"><a href="../../dc/d3e/a09139.html">GridObjectUnloader</a></div><div class="ttdef"><b>Definition:</b> GridObjectLoader.h:55</div></div>
 <div class="ttc" id="aa09211_html"><div class="ttname"><a href="../../d8/de9/a09211.html">GridTerrainUnloader</a></div><div class="ttdef"><b>Definition:</b> GridTerrainLoader.h:44</div></div>
 <div class="ttc" id="aa09215_html_a87e9c4690a1ffee11a8d6a6fee264e7b"><div class="ttname"><a href="../../d5/d0b/a09215.html#a87e9c4690a1ffee11a8d6a6fee264e7b">MapGrid::VisitAllCells</a></div><div class="ttdeci">void VisitAllCells(TypeContainerVisitor&lt; T, TT &gt; &amp;visitor)</div><div class="ttdef"><b>Definition:</b> MapGrid.h:70</div></div>
-<div class="ttc" id="aa09867_html_acc6e018eedcd4943734d153dc4a8cb89"><div class="ttname"><a href="../../dc/d66/a09867.html#acc6e018eedcd4943734d153dc4a8cb89">Map::RemoveAllObjectsInRemoveList</a></div><div class="ttdeci">void RemoveAllObjectsInRemoveList()</div><div class="ttdef"><b>Definition:</b> Map.cpp:1802</div></div>
+<div class="ttc" id="aa09867_html_acc6e018eedcd4943734d153dc4a8cb89"><div class="ttname"><a href="../../dc/d66/a09867.html#acc6e018eedcd4943734d153dc4a8cb89">Map::RemoveAllObjectsInRemoveList</a></div><div class="ttdeci">void RemoveAllObjectsInRemoveList()</div><div class="ttdef"><b>Definition:</b> Map.cpp:1800</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00053">_map</a>, <a class="el" href="../../#l00059">_mapGrid</a>, <a class="el" href="../../#l00080">GetGrid()</a>, <a class="el" href="../../#l01802">Map::RemoveAllObjectsInRemoveList()</a>, <a class="el" href="../../#l00149">GridTerrainUnloader::UnloadTerrain()</a>, and <a class="el" href="../../#l00070">MapGrid&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::VisitAllCells()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00053">_map</a>, <a class="el" href="../../#l00059">_mapGrid</a>, <a class="el" href="../../#l00080">GetGrid()</a>, <a class="el" href="../../#l01800">Map::RemoveAllObjectsInRemoveList()</a>, <a class="el" href="../../#l00149">GridTerrainUnloader::UnloadTerrain()</a>, and <a class="el" href="../../#l00070">MapGrid&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::VisitAllCells()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01004">Map::UnloadGrid()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01002">Map::UnloadGrid()</a>.</p>
 
 </div>
 </div>
@@ -811,7 +811,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../da/d49/a09219.html">MapGridManager</a></li>
-    <li class="footer">Generated on Mon Oct 13 2025 20:45:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Oct 20 2025 20:47:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

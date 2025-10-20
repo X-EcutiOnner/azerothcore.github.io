@@ -1,7 +1,7 @@
 var a28367 =
 [
-    [ "bit_index", "d9/da1/a28367.html#a1e5cb3fc001169a204507a084435a211", null ],
-    [ "ID", "d9/da1/a28367.html#a63fe7a87e019780d20e86e48efb02eac", null ],
-    [ "nameFemale", "d9/da1/a28367.html#ad0380caf2526715faaddc9330062d90a", null ],
-    [ "nameMale", "d9/da1/a28367.html#a74a767731c96d3d815ddde5a06f68599", null ]
+    [ "Displayid", "d9/da1/a28367.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
+    [ "ExtendedDisplayInfoID", "d9/da1/a28367.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
+    [ "ModelId", "d9/da1/a28367.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
+    [ "scale", "d9/da1/a28367.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
 ];

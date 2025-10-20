@@ -1,6 +1,6 @@
 var a14943 =
 [
-    [ "boss_mal_ganisAI", "db/d9d/a14947.html", "db/d9d/a14947" ],
-    [ "boss_mal_ganis", "de/da1/a14943.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
-    [ "GetAI", "de/da1/a14943.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
+    [ "boss_infinite_corruptorAI", "db/d9d/a14947.html", "db/d9d/a14947" ],
+    [ "boss_infinite_corruptor", "de/da1/a14943.html#a78a939073ab44b818cefdb25419f92be", null ],
+    [ "GetAI", "de/da1/a14943.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
 ];

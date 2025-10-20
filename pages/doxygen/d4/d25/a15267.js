@@ -1,6 +1,6 @@
 var a15267 =
 [
-    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "db/d5e/a15271.html", "db/d5e/a15271" ],
-    [ "instance_ruins_of_ahnqiraj", "d4/d25/a15267.html#adeacb1c68e4b12995a335d1bedde075a", null ],
-    [ "GetInstanceScript", "d4/d25/a15267.html#a6a661e961c2599498de0ccd41c0763b4", null ]
+    [ "HandleDamageCalc", "d4/d25/a15267.html#a03eb92eff300872cd5fca452a99375ab", null ],
+    [ "PrepareSpellScript", "d4/d25/a15267.html#ac07421b62bb6044dad89431839a70bd8", null ],
+    [ "Register", "d4/d25/a15267.html#a70cbf764ab475e2358fa6630798cab9d", null ]
 ];

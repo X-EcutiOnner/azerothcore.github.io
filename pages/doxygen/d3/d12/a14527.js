@@ -1,5 +1,5 @@
 var a14527 =
 [
-    [ "npc_cw_area_triggerAI", "d3/d12/a14527.html#aede21e01dfe762922562b6f5d57bc406", null ],
-    [ "MoveInLineOfSight", "d3/d12/a14527.html#a1fb90760dac1ae429429d84ed033aa7a", null ]
+    [ "at_bring_your_orphan_to", "d3/d12/a14527.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
+    [ "OnTrigger", "d3/d12/a14527.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
 ];

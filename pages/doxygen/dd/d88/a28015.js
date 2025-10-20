@@ -1,6 +1,5 @@
 var a28015 =
 [
-    [ "CheckCast", "dd/d88/a28015.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
-    [ "PrepareSpellScript", "dd/d88/a28015.html#aa3c18907c79309a8924a98bce41e27f1", null ],
-    [ "Register", "dd/d88/a28015.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
+    [ "go_transport_the_purple_princess", "dd/d88/a28015.html#ab0c79197964857d578036693a2c18e8a", null ],
+    [ "EventInform", "dd/d88/a28015.html#ac5b73f1bea180797169138f8e9228783", null ]
 ];

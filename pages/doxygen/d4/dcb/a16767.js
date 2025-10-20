@@ -1,17 +1,14 @@
 var a16767 =
 [
-    [ "boss_gormokAI", "d4/dcb/a16767.html#aff3dab2b81e39198ca84330e6094aa8e", null ],
-    [ "DoAction", "d4/dcb/a16767.html#ac335bc89ad58f80a2e8db2dd8a31e2c9", null ],
-    [ "EnterEvadeMode", "d4/dcb/a16767.html#a244f37a3c6a1037100de20a074c74a63", null ],
-    [ "JustDied", "d4/dcb/a16767.html#a3fa8eb85ce94273b30f1f3d2de3527bd", null ],
-    [ "JustEngagedWith", "d4/dcb/a16767.html#a7310e20839a7a57f65d97c5d0b8fa796", null ],
-    [ "JustReachedHome", "d4/dcb/a16767.html#a3cec01072fe761e4b5141255eed08d9e", null ],
-    [ "JustSummoned", "d4/dcb/a16767.html#a5e2efeace2d5f6b58f023b4ff23d93cf", null ],
-    [ "MoveInLineOfSight", "d4/dcb/a16767.html#a278b8ce2e656a2e6e7882de87ec2ff9c", null ],
-    [ "Reset", "d4/dcb/a16767.html#a277293d51fbaa54f9deea49af7602ae2", null ],
-    [ "UpdateAI", "d4/dcb/a16767.html#adf5d8f5a9e275f12da122701f0606083", null ],
-    [ "events", "d4/dcb/a16767.html#ad74b771ba3f84e7dc5b038559c4e7bbb", null ],
-    [ "pInstance", "d4/dcb/a16767.html#a0421082f444bc4234012362b92cac132", null ],
-    [ "PlayerGUID", "d4/dcb/a16767.html#ac3cddf6197c638289f6841740b78bd88", null ],
-    [ "summons", "d4/dcb/a16767.html#a84c1fa0cc33bee6747fa9b4f0517cdc8", null ]
+    [ "npc_snobold_vassalAI", "d4/dcb/a16767.html#a2ecc5e8289252b2936f36de9921294e0", null ],
+    [ "AttackStart", "d4/dcb/a16767.html#a50afc82c80cede8dcf3240a116463411", null ],
+    [ "DoAction", "d4/dcb/a16767.html#a8beac97ea5f7c797d2ae52e2f3c3be50", null ],
+    [ "JustDied", "d4/dcb/a16767.html#aef408460584a17f15a84e8a6435c6348", null ],
+    [ "JustEngagedWith", "d4/dcb/a16767.html#a60c1704617e99239d60d24d6b7513c1a", null ],
+    [ "MoveInLineOfSight", "d4/dcb/a16767.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
+    [ "Reset", "d4/dcb/a16767.html#af794f46b1a7af97b52683954b556c27d", null ],
+    [ "UpdateAI", "d4/dcb/a16767.html#ac1d282da6f2d9133619a212a349c777f", null ],
+    [ "events", "d4/dcb/a16767.html#adfb6df0ee8ab19b58de24da8d4e6d9df", null ],
+    [ "pInstance", "d4/dcb/a16767.html#afc140e6f9fc1ec78914aecc5150345b0", null ],
+    [ "TargetGUID", "d4/dcb/a16767.html#a0d36e4903448c5a03115df0dff3480c8", null ]
 ];

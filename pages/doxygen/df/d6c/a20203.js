@@ -1,7 +1,6 @@
 var a20203 =
 [
-    [ "HandleScript", "df/d6c/a20203.html#a9580f04e1543262026818f0944bb96c3", null ],
-    [ "PrepareSpellScript", "df/d6c/a20203.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
-    [ "Register", "df/d6c/a20203.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
-    [ "Validate", "df/d6c/a20203.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
+    [ "CheckCast", "df/d6c/a20203.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "df/d6c/a20203.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "df/d6c/a20203.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

@@ -1,7 +1,6 @@
 var a23231 =
 [
-    [ "CalculateAmount", "d1/d0c/a23231.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
-    [ "PrepareAuraScript", "d1/d0c/a23231.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
-    [ "Register", "d1/d0c/a23231.html#a6d0d47536e6ef74a88c97019843d478c", null ],
-    [ "Update", "d1/d0c/a23231.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
+    [ "HandleSchoolDamage", "d1/d0c/a23231.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
+    [ "PrepareSpellScript", "d1/d0c/a23231.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
+    [ "Register", "d1/d0c/a23231.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
 ];

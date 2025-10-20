@@ -1,6 +1,7 @@
 var a28539 =
 [
-    [ "Enchantment", "d6/d88/a28539.html#a480ab806214bb138d56dfd5e9e43936f", null ],
-    [ "ID", "d6/d88/a28539.html#acb673be771124b84dd3fdd5deb300de7", null ],
-    [ "Name", "d6/d88/a28539.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
+    [ "ID", "d6/d88/a28539.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
+    [ "Index", "d6/d88/a28539.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
+    [ "Skill", "d6/d88/a28539.html#aed5e58cf605d3c28cd0d26015722be03", null ],
+    [ "Type", "d6/d88/a28539.html#a39b0b548efd795c162926bddcdd301b5", null ]
 ];

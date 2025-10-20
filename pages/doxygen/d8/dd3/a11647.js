@@ -1,9 +1,7 @@
 var a11647 =
 [
-    [ "bytes", "d8/dd3/a11647.html#a3a2997d203c186bc3cd54a9ba4235319", null ],
-    [ "bytes", "d8/dd3/a11647.html#a8484412ccb13cf396a4dc28b86f65b4e", null ],
-    [ "bytes", "d8/dd3/a11647.html#ac019bab7aac3013567d8fe979f30bf5d", null ],
-    [ "ints", "d8/dd3/a11647.html#a0518eb4b0a91697500a5a370068425a8", null ],
-    [ "ints", "d8/dd3/a11647.html#a08efba5e78b64fef020453f689bcc5f0", null ],
-    [ "ints", "d8/dd3/a11647.html#a4b24d33d1c7fc4eecb32b0bde85a5f2e", null ]
+    [ "PlayerDumpReader", "d8/dd3/a11647.html#ad630b61e298fb1ddf165481c9a14e077", null ],
+    [ "LoadDump", "d8/dd3/a11647.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
+    [ "LoadDumpFromFile", "d8/dd3/a11647.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
+    [ "LoadDumpFromString", "d8/dd3/a11647.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
 ];

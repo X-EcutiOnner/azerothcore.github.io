@@ -1,6 +1,11 @@
 var a12307 =
 [
-    [ "OrcDeathEvent", "d0/d0c/a12307.html#ae4088ee95c3c0de9ae524a82803b0ea2", null ],
-    [ "Execute", "d0/d0c/a12307.html#a293ec6667da669a27fe75965f919cd68", null ],
-    [ "_me", "d0/d0c/a12307.html#a56cdf23ed08cbb800ba6fe7fb5e284b7", null ]
+    [ "boss_solakar_flamewreathAI", "d0/d0c/a12307.html#ada12a91bedec9be8923f9dc74fce07d0", null ],
+    [ "ExecuteEvent", "d0/d0c/a12307.html#aa1fca22d30b15ee93cc02084ebab0c2c", null ],
+    [ "InitializeAI", "d0/d0c/a12307.html#a7a8a5d3c453e29ec746422e1ba8e4d34", null ],
+    [ "JustDied", "d0/d0c/a12307.html#aceb580afa2329ada3236dc759f3a3c20", null ],
+    [ "JustEngagedWith", "d0/d0c/a12307.html#a47f8a133b6f8c0de11a66b712bb8e266", null ],
+    [ "Reset", "d0/d0c/a12307.html#a25ae2943a7ce9a1f459cfd1313c84c49", null ],
+    [ "UpdateAI", "d0/d0c/a12307.html#ac5f908584251455c720ce3f25ed07dae", null ],
+    [ "resetTimer", "d0/d0c/a12307.html#acd7fdd30767a7863f265eb96e29c221e", null ]
 ];

@@ -1,6 +1,8 @@
 var a15091 =
 [
-    [ "instance_dire_maul_InstanceMapScript", "db/d14/a15095.html", "db/d14/a15095" ],
-    [ "instance_dire_maul", "d5/da7/a15091.html#a54ac2c7095a99481c7efbe4237533fac", null ],
-    [ "GetInstanceScript", "d5/da7/a15091.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
+    [ "Load", "d5/da7/a15091.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
+    [ "PeriodicTick", "d5/da7/a15091.html#ae4761ac3bce02903a7266511d80503f9", null ],
+    [ "PrepareAuraScript", "d5/da7/a15091.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
+    [ "Register", "d5/da7/a15091.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
+    [ "_ticks", "d5/da7/a15091.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
 ];

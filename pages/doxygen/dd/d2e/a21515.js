@@ -1,22 +1,10 @@
 var a21515 =
 [
-    [ "instance_vault_of_archavon_InstanceMapScript", "dd/d2e/a21515.html#ab0f9e62a516c2a572d438ee6b33ffe89", null ],
-    [ "CheckAchievementCriteriaMeet", "dd/d2e/a21515.html#afafb4c0c0e79b58094ea09068ebdf724", null ],
-    [ "GetData", "dd/d2e/a21515.html#aa3f41b9c79c7bcdd9ad330fa58376799", null ],
-    [ "GetGuidData", "dd/d2e/a21515.html#a371a688192e9c7c239fc4c1de8e45877", null ],
-    [ "Initialize", "dd/d2e/a21515.html#acc0816a05728b59ddf7aeb4077a7329d", null ],
-    [ "IsEncounterInProgress", "dd/d2e/a21515.html#ae2607badcd241cf6b0d4b3a224acc802", null ],
-    [ "OnCreatureCreate", "dd/d2e/a21515.html#ae16d97e5a2cfe7fce6ede12874cb9243", null ],
-    [ "OnPlayerEnter", "dd/d2e/a21515.html#a82fdae36261fa7d845e8d7fdf2428637", null ],
-    [ "ReadSaveDataMore", "dd/d2e/a21515.html#a07a9861d018a35cd295f65b7e68a5bd1", null ],
-    [ "SetData", "dd/d2e/a21515.html#a336bd80e5118d6b5cfa0f76f5d207fc5", null ],
-    [ "Update", "dd/d2e/a21515.html#ac22e9b215c1351f543289af2875491b4", null ],
-    [ "WriteSaveDataMore", "dd/d2e/a21515.html#a22e3c4bb29159588a96f13644218c427", null ],
-    [ "ArchavonDeath", "dd/d2e/a21515.html#a1259cf1ed03095fb3e93f6aab203aa99", null ],
-    [ "bossGUIDs", "dd/d2e/a21515.html#a6dc53f3e4385f09869d91f59520b79d4", null ],
-    [ "checkTimer", "dd/d2e/a21515.html#aabf39e7d3cef7951c861c194dfff9ecd", null ],
-    [ "EmalonDeath", "dd/d2e/a21515.html#ac9235ec40c6648bb2a7d252b0053bc47", null ],
-    [ "KoralonDeath", "dd/d2e/a21515.html#a544c022446c0ddb39797417271ec1259", null ],
-    [ "m_auiEncounter", "dd/d2e/a21515.html#a708d88ed26d8c00cd9fc8f1601c9358e", null ],
-    [ "stoned", "dd/d2e/a21515.html#acde4794f2e980d523e873c0e610f726a", null ]
+    [ "npc_erekem_guardAI", "dd/d2e/a21515.html#a1ce40b70a35fc76e6ac0af449b7f4ded", null ],
+    [ "JustEngagedWith", "dd/d2e/a21515.html#a93819c5c76821b1c9559be55359d677e", null ],
+    [ "MoveInLineOfSight", "dd/d2e/a21515.html#aa1140892c13f4c070b1f3f1bf2230bb5", null ],
+    [ "Reset", "dd/d2e/a21515.html#a079be6dd45e96184d66e95f031dc9c5f", null ],
+    [ "UpdateAI", "dd/d2e/a21515.html#ab2c55e384f624b0f671e42e381aa3a37", null ],
+    [ "events", "dd/d2e/a21515.html#a15afc8dd6d6e15fcd1a632728ad8d16e", null ],
+    [ "pInstance", "dd/d2e/a21515.html#a81985b8522111f2aae540353cd5641fe", null ]
 ];

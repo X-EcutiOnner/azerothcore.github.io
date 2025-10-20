@@ -1,6 +1,6 @@
 var a25143 =
 [
-    [ "CheckLevel", "d5/d56/a25143.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
-    [ "PrepareSpellScript", "d5/d56/a25143.html#abc2bcce83810661ab462f56594066df3", null ],
-    [ "Register", "d5/d56/a25143.html#add6731563bd9a26d8f286bd29ffc8709", null ]
+    [ "ModDest", "d5/d56/a25143.html#a99d08536d2555390a7399a6d2fc199e6", null ],
+    [ "PrepareSpellScript", "d5/d56/a25143.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
+    [ "Register", "d5/d56/a25143.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
 ];

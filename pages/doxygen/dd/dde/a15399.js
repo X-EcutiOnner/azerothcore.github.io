@@ -1,14 +1,15 @@
 var a15399 =
 [
-    [ "boss_twinemperorsAI", "dd/dde/a15399.html#ae0857b191dbbf086533062aee5885237", null ],
-    [ "DamageTaken", "dd/dde/a15399.html#a118151851f36de9dfc22971a965cb047", null ],
-    [ "DoAction", "dd/dde/a15399.html#a2b5e585749b7a59663813c7a9d56c223", null ],
-    [ "EnterEvadeMode", "dd/dde/a15399.html#ab5a1b28405c38ece65f5ee145e472de8", null ],
-    [ "GetTwin", "dd/dde/a15399.html#af23aa54bca9752c242e80331862ace4d", null ],
-    [ "IAmVeklor", "dd/dde/a15399.html#acdccdde2ee573f51e1783ea493577258", null ],
-    [ "JustDied", "dd/dde/a15399.html#a9cc74619908c2aa9f8deda2689616735", null ],
-    [ "JustEngagedWith", "dd/dde/a15399.html#ab9a279e9ba3bb057268602be7368ffe4", null ],
-    [ "KilledUnit", "dd/dde/a15399.html#aaa52e01bfeff824345f7b9c7346e8aef", null ],
-    [ "UpdateAI", "dd/dde/a15399.html#a4d9e07fd3f682a24332d0aabe6c55f8f", null ],
-    [ "_introDone", "dd/dde/a15399.html#a1b4689b0c403f7246ae100e4f716b138", null ]
+    [ "boss_skeram", "dd/dde/a15399.html#a293710a88c91a181ee1000939386e176", null ],
+    [ "DoTeleport", "dd/dde/a15399.html#a96166ddebd5906868b872c39a6755a70", null ],
+    [ "EnterEvadeMode", "dd/dde/a15399.html#ab050e31d661c8c089d175de231b0eeb2", null ],
+    [ "JustDied", "dd/dde/a15399.html#a6b30a6ca5167aae41ad70bd502265d2b", null ],
+    [ "JustEngagedWith", "dd/dde/a15399.html#a07bba9a1a62ad9ad15b9cd42b5d5b3d3", null ],
+    [ "JustSummoned", "dd/dde/a15399.html#a3e3d74bc646a96e20a88d3541f806c62", null ],
+    [ "KilledUnit", "dd/dde/a15399.html#a185cb6686d37e064278260ebe5fae13a", null ],
+    [ "Reset", "dd/dde/a15399.html#a08c9c2c577ef4b713594ca67f4c87a68", null ],
+    [ "UpdateAI", "dd/dde/a15399.html#aaf29331e0fac71479747d62fd9f1e301", null ],
+    [ "_copiesGUIDs", "dd/dde/a15399.html#a28f1465938dc2141779d5171ea09ecd0", null ],
+    [ "_flag", "dd/dde/a15399.html#a0abcf1e8721aa972be70774d5be7b53b", null ],
+    [ "_hpct", "dd/dde/a15399.html#a5c8760788264a9a04a28c05a0247676c", null ]
 ];

@@ -1,6 +1,7 @@
 var a23927 =
 [
-    [ "npc_warden_mellicharAI", "d3/d36/a23931.html", "d3/d36/a23931" ],
-    [ "npc_warden_mellichar", "d9/d20/a23927.html#aba5c3d005097430941bd40bbbb0d3562", null ],
-    [ "GetAI", "d9/d20/a23927.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
+    [ "boss_zereketh_the_unbound", "d9/d20/a23927.html#abb2fc5cbe7514142160818016fda1936", null ],
+    [ "JustDied", "d9/d20/a23927.html#ac5d96da9a33a536f2002cce11453ded3", null ],
+    [ "JustEngagedWith", "d9/d20/a23927.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
+    [ "KilledUnit", "d9/d20/a23927.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
 ];

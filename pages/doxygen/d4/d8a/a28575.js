@@ -1,8 +1,10 @@
 var a28575 =
 [
-    [ "areaTriggerText", "d4/d8a/a28575.html#a32bb8c4a4defce661d108627e25b645a", null ],
-    [ "Difficulty", "d4/d8a/a28575.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
-    [ "MapId", "d4/d8a/a28575.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
-    [ "maxPlayers", "d4/d8a/a28575.html#a7ab33229ffee11a27861439053c79831", null ],
-    [ "resetTime", "d4/d8a/a28575.html#a891a741efb049b51996e1a6110efc52d", null ]
+    [ "PvPDifficultyEntry", "d4/d8a/a28575.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
+    [ "GetBracketId", "d4/d8a/a28575.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
+    [ "bracketId", "d4/d8a/a28575.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
+    [ "difficulty", "d4/d8a/a28575.html#a33ac017d785a4586a78e715d97836720", null ],
+    [ "mapId", "d4/d8a/a28575.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
+    [ "maxLevel", "d4/d8a/a28575.html#a1385166568239f2118b65377df8b4b55", null ],
+    [ "minLevel", "d4/d8a/a28575.html#acd07e8d759af1b73ec7543f6e70df242", null ]
 ];

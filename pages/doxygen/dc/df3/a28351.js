@@ -1,5 +1,9 @@
 var a28351 =
 [
-    [ "ID", "dc/df3/a28351.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
-    [ "price", "dc/df3/a28351.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
+    [ "CinematicSequence", "dc/df3/a28351.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
+    [ "ClassID", "dc/df3/a28351.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
+    [ "expansion", "dc/df3/a28351.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
+    [ "name", "dc/df3/a28351.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
+    [ "powerType", "dc/df3/a28351.html#a74aec35dc161a7e830453b9365a6f107", null ],
+    [ "spellfamily", "dc/df3/a28351.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
 ];

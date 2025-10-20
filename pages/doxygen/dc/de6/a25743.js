@@ -1,6 +1,9 @@
 var a25743 =
 [
-    [ "HandleItemRemove", "dc/de6/a25743.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
-    [ "PrepareSpellScript", "dc/de6/a25743.html#a8b43e146724a2c8b3c495e886a79d021", null ],
-    [ "Register", "dc/de6/a25743.html#af8b02c31b81dce516ea47d6a1235d683", null ]
+    [ "getMountSpellId", "dc/de6/a25743.html#afe306ed6057050baf342ee717723764d", null ],
+    [ "OnApply", "dc/de6/a25743.html#aa8bee986d413be60d00ac1d2111ef719", null ],
+    [ "OnRemove", "dc/de6/a25743.html#a162d466a1dcd2cb710abf12c06f7c2de", null ],
+    [ "PrepareAuraScript", "dc/de6/a25743.html#a7070cc7aeec4a88fbde960cebf1aef56", null ],
+    [ "Register", "dc/de6/a25743.html#a481e5295da3d789d9b3c1ed30fdaf0bd", null ],
+    [ "Validate", "dc/de6/a25743.html#a6868f6e88c9179efd921b266c83f6daf", null ]
 ];

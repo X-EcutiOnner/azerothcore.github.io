@@ -1,8 +1,9 @@
 var a24623 =
 [
-    [ "npc_pet_gen_valkyr_guardian", "dc/d39/a24623.html#a546f0b0b4273de8216e9f688c2d68209", null ],
-    [ "InitializeAI", "dc/d39/a24623.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
-    [ "OwnerAttacked", "dc/d39/a24623.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
-    [ "UpdateAI", "dc/d39/a24623.html#a9a5a233763365c6cca5618459a23a816", null ],
-    [ "targetCheck", "dc/d39/a24623.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
+    [ "npc_pet_gen_fetch_ball", "dc/d39/a24623.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
+    [ "IsSummonedBy", "dc/d39/a24623.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
+    [ "SpellHitTarget", "dc/d39/a24623.html#a87bdded236f6584d9b71507a1253f7d0", null ],
+    [ "UpdateAI", "dc/d39/a24623.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
+    [ "checkTimer", "dc/d39/a24623.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
+    [ "targetGUID", "dc/d39/a24623.html#ae474374af7c2270e218ed236d90c789c", null ]
 ];

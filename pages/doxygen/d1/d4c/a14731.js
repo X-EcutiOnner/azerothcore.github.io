@@ -1,8 +1,7 @@
 var a14731 =
 [
-    [ "CheckCast", "d1/d4c/a14731.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
-    [ "HandleDummy", "d1/d4c/a14731.html#ad39da0510c21855dd74abd93f33621c9", null ],
-    [ "PrepareSpellScript", "d1/d4c/a14731.html#a727093fec8cc8422cbbaa79d821338c8", null ],
-    [ "Register", "d1/d4c/a14731.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
-    [ "Validate", "d1/d4c/a14731.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
+    [ "HandleDummy", "d1/d4c/a14731.html#a05c3589ee04eed87449f652db065f0e9", null ],
+    [ "PrepareSpellScript", "d1/d4c/a14731.html#afb79a2cf5359e7ec69746cd89d8cd727", null ],
+    [ "Register", "d1/d4c/a14731.html#a51207fcd4f272e120fe1af2ac78c1f80", null ],
+    [ "Validate", "d1/d4c/a14731.html#a5fc6dae87ffb634cc0de389196751b22", null ]
 ];

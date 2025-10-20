@@ -1,11 +1,10 @@
 var a20823 =
 [
-    [ "boss_thorim_sifAI", "da/d58/a20823.html#af63f344d3a5650baaa9b96204abc39a9", null ],
-    [ "AttackStart", "da/d58/a20823.html#ae9354f2e97c88cd1af86fae050e810d6", null ],
-    [ "DoAction", "da/d58/a20823.html#a8aac66a64c5ca6491595c2b3b6cbbd95", null ],
-    [ "MoveInLineOfSight", "da/d58/a20823.html#a3e7d07ca6fc8f4619173f3fd74d63ccb", null ],
-    [ "Reset", "da/d58/a20823.html#ab30d73613bafac5b92021677d69b3aae", null ],
-    [ "UpdateAI", "da/d58/a20823.html#a09ee3373177e84a5e4e51ebb48c68525", null ],
-    [ "_allowCast", "da/d58/a20823.html#ade272764f09375d8e5fda937d42aad90", null ],
-    [ "events", "da/d58/a20823.html#a8fd3c7073a250d054e3edc73d5867fbd", null ]
+    [ "boss_thorim_sif_blizzardAI", "da/d58/a20823.html#a99d1c529126452e580ebc7e3e513b367", null ],
+    [ "AttackStart", "da/d58/a20823.html#a1f05551f323fa410a699497f3875b21f", null ],
+    [ "InitWaypoint", "da/d58/a20823.html#a1e0a384081750bdf38cc8e0065070ec8", null ],
+    [ "JustEngagedWith", "da/d58/a20823.html#a9fea5617dccb493c7af435c485462ff3", null ],
+    [ "MoveInLineOfSight", "da/d58/a20823.html#ab91a2a71ff00e38d2eca50ccc654d9f3", null ],
+    [ "Reset", "da/d58/a20823.html#a193ba575c4f3f16d850e56f12f190c77", null ],
+    [ "WaypointReached", "da/d58/a20823.html#a961f90068f25d81f55159763fe2677f8", null ]
 ];

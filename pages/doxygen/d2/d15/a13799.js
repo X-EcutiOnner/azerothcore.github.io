@@ -1,10 +1,9 @@
 var a13799 =
 [
-    [ "npc_sentinel_leader", "d2/d15/a13799.html#a583c43b047dd5c172938d60ef647ecd5", null ],
-    [ "JustEngagedWith", "d2/d15/a13799.html#a92c83a7fcc04df1db3be1d16f4a461d0", null ],
-    [ "MovementInform", "d2/d15/a13799.html#a6d51ada16fac1f5eda8b09aede746a4b", null ],
-    [ "Reset", "d2/d15/a13799.html#ad638ba6ce33753af6a0165c053a90d78", null ],
-    [ "UpdateAI", "d2/d15/a13799.html#aa689bb8189eb8cf842a0aa63bb9f1a73", null ],
-    [ "_events", "d2/d15/a13799.html#ada65bdf153ae9b3262b0f55fb540be17", null ],
-    [ "_helpCalled", "d2/d15/a13799.html#a803c324e790cd74e90ff6c2adde37ba3", null ]
+    [ "npc_partygoer", "d2/d15/a13799.html#af053caedfd1fa8173b875f521d279418", null ],
+    [ "Initialize", "d2/d15/a13799.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
+    [ "Reset", "d2/d15/a13799.html#ad1936099ec5696a2a593e5041b0360c6", null ],
+    [ "UpdateAI", "d2/d15/a13799.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
+    [ "_events", "d2/d15/a13799.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
+    [ "_facing", "d2/d15/a13799.html#a9e934091894987ec091b03090bf733e5", null ]
 ];

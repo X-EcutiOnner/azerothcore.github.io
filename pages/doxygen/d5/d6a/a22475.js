@@ -1,6 +1,6 @@
 var a22475 =
 [
-    [ "HandleScriptEffect", "d5/d6a/a22475.html#a1dac2806b74471332aec0595118005a3", null ],
-    [ "PrepareSpellScript", "d5/d6a/a22475.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
-    [ "Register", "d5/d6a/a22475.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
+    [ "npc_wild_wyrmAI", "d0/dfe/a22479.html", "d0/dfe/a22479" ],
+    [ "npc_wild_wyrm", "d5/d6a/a22475.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
+    [ "GetAI", "d5/d6a/a22475.html#aedba91446fe12997047070f123d925d2", null ]
 ];

@@ -1,9 +1,8 @@
 var a05335 =
 [
-    [ "Count", "d5/d15/a05335.html#a05f606f459c905632d1452727bc93a0d", null ],
-    [ "GetElements", "d5/d15/a05335.html#a260f2bd14ae022a5810539ba87cec51e", null ],
-    [ "GetElements", "d5/d15/a05335.html#ae04b24e63268c7b60bea36beec148a8a", null ],
-    [ "Insert", "d5/d15/a05335.html#a791a9c0d1c878323960e529e0c7b66c8", null ],
-    [ "Remove", "d5/d15/a05335.html#abfb5e987b1c711d259896708887ca6d7", null ],
-    [ "i_elements", "d5/d15/a05335.html#a095f3a1caf74ca4e9e12ecca538a0cc4", null ]
+    [ "Count", "d5/d15/a05335.html#a4ab8f061208d7733ee65ba768f85f513", null ],
+    [ "GetElements", "d5/d15/a05335.html#af75467b56830b1447bebbf974b2747b6", null ],
+    [ "GetElements", "d5/d15/a05335.html#abbdfddc576af5f2d49dddf5e49ad2864", null ],
+    [ "insert", "d5/d15/a05335.html#a026880bb3378687143ed19fa7b99b41b", null ],
+    [ "i_elements", "d5/d15/a05335.html#a8ef4a180d448dcba2141fc389621433d", null ]
 ];

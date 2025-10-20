@@ -1,6 +1,6 @@
 var a12335 =
 [
-    [ "boss_warmastervooneAI", "df/de3/a12339.html", "df/de3/a12339" ],
-    [ "boss_warmaster_voone", "d0/d34/a12335.html#ac363118e4201adccd4be0028a558442f", null ],
-    [ "GetAI", "d0/d34/a12335.html#a560469e60fda04b2c7d8fd3994493868", null ]
+    [ "boss_urok_doomhowlAI", "df/de3/a12339.html", "df/de3/a12339" ],
+    [ "boss_urok_doomhowl", "d0/d34/a12335.html#a0ca9cea9919648baa5ff7db2d5a5b530", null ],
+    [ "GetAI", "d0/d34/a12335.html#ac77756af77191e02df49161da0ace268", null ]
 ];

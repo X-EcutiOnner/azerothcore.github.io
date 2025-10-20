@@ -1,6 +1,7 @@
 var a16591 =
 [
-    [ "npc_toc_druidAI", "d0/d19/a16595.html", "d0/d19/a16595" ],
-    [ "npc_toc_druid", "d6/da5/a16591.html#a07321d5ee164b8e47f652f9bad65216b", null ],
-    [ "GetAI", "d6/da5/a16591.html#a4f33e8f3649c0b398448cd01666cf92b", null ]
+    [ "HandleAfterHit", "d6/da5/a16591.html#a6fc446385881ddb4c94de73199649816", null ],
+    [ "PrepareSpellScript", "d6/da5/a16591.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
+    [ "Register", "d6/da5/a16591.html#aaae368b2f647aa6a56827550e50dafe1", null ],
+    [ "Validate", "d6/da5/a16591.html#ad4c84071b538b657fa1302982f8799b4", null ]
 ];

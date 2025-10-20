@@ -1,9 +1,15 @@
 var a24471 =
 [
-    [ "npc_enraged_spiritAI", "d0/daf/a24471.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
-    [ "JustDied", "d0/daf/a24471.html#a9322622f679dbc311bd8983f5037bd2e", null ],
-    [ "JustEngagedWith", "d0/daf/a24471.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
-    [ "Reset", "d0/daf/a24471.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
-    [ "UpdateAI", "d0/daf/a24471.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
-    [ "_scheduler", "d0/daf/a24471.html#afa6825696b0622849f877b392df4b326", null ]
+    [ "dragonmaw_race_npc", "d0/daf/a24471.html#ad93bcd14a4fd05c9e8a1aee4dd53d4aa", null ],
+    [ "FailQuest", "d0/daf/a24471.html#a15a1223f9dc5d3979485a753687f169e", null ],
+    [ "FinishRace", "d0/daf/a24471.html#a2439f54aca4ff28c23d351245099a4fc", null ],
+    [ "MovementInform", "d0/daf/a24471.html#ad0b4ef357605a44a4188c29292303dcf", null ],
+    [ "PathEndReached", "d0/daf/a24471.html#a6b93a5fb6beb8e8b886f6bf8bb58d3d2", null ],
+    [ "Reset", "d0/daf/a24471.html#a0edde2bdb8d4d2204551ebc7a7c41fe9", null ],
+    [ "sQuestAccept", "d0/daf/a24471.html#a539fcaf1dc25a34531d032032c19182e", null ],
+    [ "StartRace", "d0/daf/a24471.html#ac7d20cb0f2a997d2306195da5c9004e8", null ],
+    [ "StartRaceAttacks", "d0/daf/a24471.html#a341528843b89a29711f60a1b932da616", null ],
+    [ "TakeOff", "d0/daf/a24471.html#a8b14aeb1e67059a159f42aad578ccbfb", null ],
+    [ "UpdateAI", "d0/daf/a24471.html#a5d84467b3fa0c3eefcf7054d0dde472c", null ],
+    [ "_playerGUID", "d0/daf/a24471.html#a8a172511afed700d5c0fa1d5de4cb379", null ]
 ];

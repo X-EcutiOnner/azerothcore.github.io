@@ -1,7 +1,6 @@
 var a27007 =
 [
-    [ "AfterRemove", "d9/d0b/a27007.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
-    [ "PrepareAuraScript", "d9/d0b/a27007.html#af338af238305f1872275e1e5e9fdee16", null ],
-    [ "Register", "d9/d0b/a27007.html#aa266e794be35b51a399b13ee2d06199d", null ],
-    [ "Validate", "d9/d0b/a27007.html#af58098eb7a904e20846cf728f5adc18b", null ]
+    [ "HandleAuraApply", "d9/d0b/a27007.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
+    [ "PrepareAuraScript", "d9/d0b/a27007.html#a7596065e5ffcacf099a5984f5d940c11", null ],
+    [ "Register", "d9/d0b/a27007.html#a8efa76b28dddad68fee132f37791f231", null ]
 ];

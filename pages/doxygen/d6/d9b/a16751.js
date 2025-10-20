@@ -1,7 +1,10 @@
 var a16751 =
 [
-    [ "FilterTargets", "d6/d9b/a16751.html#a304da18e36ff67c34b80ab39583f8c96", null ],
-    [ "HandleScript", "d6/d9b/a16751.html#adf99670bcf862288f513d2a26cbc256a", null ],
-    [ "PrepareSpellScript", "d6/d9b/a16751.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
-    [ "Register", "d6/d9b/a16751.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
+    [ "npc_mistress_of_painAI", "d6/d9b/a16751.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
+    [ "EnterEvadeMode", "d6/d9b/a16751.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
+    [ "JustDied", "d6/d9b/a16751.html#ae60f294f902a2f687446f7599d071e42", null ],
+    [ "Reset", "d6/d9b/a16751.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
+    [ "SpellHit", "d6/d9b/a16751.html#a077843a7ead2034da695be816de42f9e", null ],
+    [ "UpdateAI", "d6/d9b/a16751.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
+    [ "events", "d6/d9b/a16751.html#a941ae1faab010551db6a8e6749993357", null ]
 ];

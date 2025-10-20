@@ -1,6 +1,6 @@
 var a16439 =
 [
-    [ "npc_memoryAI", "d0/ded/a16443.html", "d0/ded/a16443" ],
-    [ "npc_memory", "dd/d30/a16439.html#acebf31813025d323f9486d6575a60483", null ],
-    [ "GetAI", "dd/d30/a16439.html#ad8e532d029217a06d11ae39810498976", null ]
+    [ "boss_paletressAI", "d0/ded/a16443.html", "d0/ded/a16443" ],
+    [ "boss_paletress", "dd/d30/a16439.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
+    [ "GetAI", "dd/d30/a16439.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
 ];

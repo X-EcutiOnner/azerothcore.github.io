@@ -1,17 +1,14 @@
 var a22783 =
 [
-    [ "OutdoorPvPSI", "d1/dec/a22783.html#a89bf2d913b7d68ee921ef4b9aeea61e1", null ],
-    [ "FillInitialWorldStates", "d1/dec/a22783.html#a7392eed60ec3307bdea4ed35cd859077", null ],
-    [ "HandleAreaTrigger", "d1/dec/a22783.html#a7c6d70d7a611752456c55d13420ff840", null ],
-    [ "HandleCustomSpell", "d1/dec/a22783.html#a10853a2f5766b6fc75044a20b281a198", null ],
-    [ "HandleDropFlag", "d1/dec/a22783.html#a9238a5007253d84d66192bd340d8311a", null ],
-    [ "HandlePlayerEnterZone", "d1/dec/a22783.html#ad2cabd461406a61e40411850b3d31c0c", null ],
-    [ "HandlePlayerLeaveZone", "d1/dec/a22783.html#aa06088b1d80072577e6fc7653a214512", null ],
-    [ "SendRemoveWorldStates", "d1/dec/a22783.html#aae7deda0662b28f6fc0e16115a65304b", null ],
-    [ "SetupOutdoorPvP", "d1/dec/a22783.html#a401da5bef2350c4eb21b249b4f8b3e40", null ],
-    [ "Update", "d1/dec/a22783.html#a56bda08a795a4b0cd1c52ec448920fac", null ],
-    [ "UpdateWorldState", "d1/dec/a22783.html#a81f4362ece83f37f14471926e9a85fb3", null ],
-    [ "m_Gathered_A", "d1/dec/a22783.html#ab532337ab7e66e1489221e3189e48bac", null ],
-    [ "m_Gathered_H", "d1/dec/a22783.html#abcd36fe918edbbea387573bd5fab89e7", null ],
-    [ "m_LastController", "d1/dec/a22783.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c", null ]
+    [ "event_enter", "d1/dec/a22783.html#ac80d575f14dca1c901be55e34cc690e1", null ],
+    [ "event_leave", "d1/dec/a22783.html#a3dc0a11a5c06079026d27852e7561b74", null ],
+    [ "map_tower_a", "d1/dec/a22783.html#a9a65209caac3791b835c1920f5a667cf", null ],
+    [ "map_tower_h", "d1/dec/a22783.html#aa30ae484db7c69137abb13adb1b3c505", null ],
+    [ "map_tower_n", "d1/dec/a22783.html#a0453edceab2132e900bec183e360e210", null ],
+    [ "slider_disp", "d1/dec/a22783.html#aec3c8dde769675e3f436515c7a3bcf24", null ],
+    [ "slider_n", "d1/dec/a22783.html#a65015a3a24a5554643ecb5da47e24eea", null ],
+    [ "slider_pos", "d1/dec/a22783.html#acc63481f7613242ac06c6bee6c136a30", null ],
+    [ "ui_tower_a", "d1/dec/a22783.html#a0107bfd3b1df99568e02d6ca80042c86", null ],
+    [ "ui_tower_h", "d1/dec/a22783.html#a94a5fa0517fd0713b74f50a3d1d627cc", null ],
+    [ "ui_tower_n", "d1/dec/a22783.html#ae0fd99db88e6c60b829a18ff8e4be9a0", null ]
 ];

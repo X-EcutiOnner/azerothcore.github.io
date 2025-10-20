@@ -147,7 +147,7 @@ Private Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:afba30ac2a8ce0540b73f034b73ce5956"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d83/a05443.html">ProducerConsumerQueue</a>&lt; <a class="el" href="../../d7/dd7/a09895.html">UpdateRequest</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d14/a09911.html#afba30ac2a8ce0540b73f034b73ce5956">_queue</a></td></tr>
+<tr class="memitem:afba30ac2a8ce0540b73f034b73ce5956"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/db0/a05447.html">ProducerConsumerQueue</a>&lt; <a class="el" href="../../d7/dd7/a09895.html">UpdateRequest</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d14/a09911.html#afba30ac2a8ce0540b73f034b73ce5956">_queue</a></td></tr>
 <tr class="separator:afba30ac2a8ce0540b73f034b73ce5956"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa5243a9d4d3753060570cecde9a3a6e7"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d14/a09911.html#aa5243a9d4d3753060570cecde9a3a6e7">pending_requests</a></td></tr>
 <tr class="separator:aa5243a9d4d3753060570cecde9a3a6e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -284,7 +284,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  109</span> </div>
 <div class="line"><span class="lineno">  110</span>    <a class="code hl_function" href="../../d5/d14/a09911.html#a608eb61de2bacf082422562b049e8652">wait</a>();  <span class="comment">// This is where we wait for tasks to complete</span></div>
 <div class="line"><span class="lineno">  111</span> </div>
-<div class="line"><span class="lineno">  112</span>    <a class="code hl_variable" href="../../d5/d14/a09911.html#afba30ac2a8ce0540b73f034b73ce5956">_queue</a>.<a class="code hl_function" href="../../dd/d83/a05443.html#a7e9de516e77945411ad4f8bfa161489d">Cancel</a>();  <span class="comment">// Cancel the queue to prevent further task processing</span></div>
+<div class="line"><span class="lineno">  112</span>    <a class="code hl_variable" href="../../d5/d14/a09911.html#afba30ac2a8ce0540b73f034b73ce5956">_queue</a>.<a class="code hl_function" href="../../d1/db0/a05447.html#a7e9de516e77945411ad4f8bfa161489d">Cancel</a>();  <span class="comment">// Cancel the queue to prevent further task processing</span></div>
 <div class="line"><span class="lineno">  113</span> </div>
 <div class="line"><span class="lineno">  114</span>    <span class="comment">// Join all worker threads</span></div>
 <div class="line"><span class="lineno">  115</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; thread : <a class="code hl_variable" href="../../d5/d14/a09911.html#a06a1943fe78ea8a5da2d4b0453748d90">_workerThreads</a>)</div>
@@ -295,7 +295,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  120</span>        }</div>
 <div class="line"><span class="lineno">  121</span>    }</div>
 <div class="line"><span class="lineno">  122</span>}</div>
-<div class="ttc" id="aa05443_html_a7e9de516e77945411ad4f8bfa161489d"><div class="ttname"><a href="../../dd/d83/a05443.html#a7e9de516e77945411ad4f8bfa161489d">ProducerConsumerQueue::Cancel</a></div><div class="ttdeci">void Cancel()</div><div class="ttdef"><b>Definition:</b> PCQueue.h:86</div></div>
+<div class="ttc" id="aa05447_html_a7e9de516e77945411ad4f8bfa161489d"><div class="ttname"><a href="../../d1/db0/a05447.html#a7e9de516e77945411ad4f8bfa161489d">ProducerConsumerQueue::Cancel</a></div><div class="ttdeci">void Cancel()</div><div class="ttdef"><b>Definition:</b> PCQueue.h:86</div></div>
 <div class="ttc" id="aa09911_html_a608eb61de2bacf082422562b049e8652"><div class="ttname"><a href="../../d5/d14/a09911.html#a608eb61de2bacf082422562b049e8652">MapUpdater::wait</a></div><div class="ttdeci">void wait()</div><div class="ttdef"><b>Definition:</b> MapUpdater.cpp:124</div></div>
 <div class="ttc" id="aa09911_html_afba30ac2a8ce0540b73f034b73ce5956"><div class="ttname"><a href="../../d5/d14/a09911.html#afba30ac2a8ce0540b73f034b73ce5956">MapUpdater::_queue</a></div><div class="ttdeci">ProducerConsumerQueue&lt; UpdateRequest * &gt; _queue</div><div class="ttdef"><b>Definition:</b> MapUpdater.h:48</div></div>
 </div><!-- fragment -->
@@ -374,9 +374,9 @@ Private Attributes</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">  135</span>{</div>
 <div class="line"><span class="lineno">  136</span>    <span class="comment">// Atomic increment for pending_requests</span></div>
 <div class="line"><span class="lineno">  137</span>    <a class="code hl_variable" href="../../d5/d14/a09911.html#aa5243a9d4d3753060570cecde9a3a6e7">pending_requests</a>.fetch_add(1, std::memory_order_release);</div>
-<div class="line"><span class="lineno">  138</span>    <a class="code hl_variable" href="../../d5/d14/a09911.html#afba30ac2a8ce0540b73f034b73ce5956">_queue</a>.<a class="code hl_function" href="../../dd/d83/a05443.html#abd3bd3c88fbd7d8edb721fc5f89da5ed">Push</a>(request);</div>
+<div class="line"><span class="lineno">  138</span>    <a class="code hl_variable" href="../../d5/d14/a09911.html#afba30ac2a8ce0540b73f034b73ce5956">_queue</a>.<a class="code hl_function" href="../../d1/db0/a05447.html#abd3bd3c88fbd7d8edb721fc5f89da5ed">Push</a>(request);</div>
 <div class="line"><span class="lineno">  139</span>}</div>
-<div class="ttc" id="aa05443_html_abd3bd3c88fbd7d8edb721fc5f89da5ed"><div class="ttname"><a href="../../dd/d83/a05443.html#abd3bd3c88fbd7d8edb721fc5f89da5ed">ProducerConsumerQueue::Push</a></div><div class="ttdeci">void Push(const T &amp;value)</div><div class="ttdef"><b>Definition:</b> PCQueue.h:39</div></div>
+<div class="ttc" id="aa05447_html_abd3bd3c88fbd7d8edb721fc5f89da5ed"><div class="ttname"><a href="../../d1/db0/a05447.html#abd3bd3c88fbd7d8edb721fc5f89da5ed">ProducerConsumerQueue::Push</a></div><div class="ttdeci">void Push(const T &amp;value)</div><div class="ttdef"><b>Definition:</b> PCQueue.h:39</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00048">_queue</a>, <a class="el" href="../../#l00049">pending_requests</a>, and <a class="el" href="../../#l00039">ProducerConsumerQueue&lt; T &gt;::Push()</a>.</p>
 
@@ -518,7 +518,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  179</span>    {</div>
 <div class="line"><span class="lineno">  180</span>        <a class="code hl_class" href="../../d7/dd7/a09895.html">UpdateRequest</a>* request = <span class="keyword">nullptr</span>;</div>
 <div class="line"><span class="lineno">  181</span> </div>
-<div class="line"><span class="lineno">  182</span>        <a class="code hl_variable" href="../../d5/d14/a09911.html#afba30ac2a8ce0540b73f034b73ce5956">_queue</a>.<a class="code hl_function" href="../../dd/d83/a05443.html#a172ef4211bcb237478ec57531c8dcc4d">WaitAndPop</a>(request);  <span class="comment">// Wait for and pop a request from the queue</span></div>
+<div class="line"><span class="lineno">  182</span>        <a class="code hl_variable" href="../../d5/d14/a09911.html#afba30ac2a8ce0540b73f034b73ce5956">_queue</a>.<a class="code hl_function" href="../../d1/db0/a05447.html#a172ef4211bcb237478ec57531c8dcc4d">WaitAndPop</a>(request);  <span class="comment">// Wait for and pop a request from the queue</span></div>
 <div class="line"><span class="lineno">  183</span> </div>
 <div class="line"><span class="lineno">  184</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d5/d14/a09911.html#a96c38c13ce5a71ce63ee0b83e83d5cfd">_cancelationToken</a> &amp;&amp; request)</div>
 <div class="line"><span class="lineno">  185</span>        {</div>
@@ -530,7 +530,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa03968_html_a2cf25eafe7f2f73b61ccde11d55daf0c"><div class="ttname"><a href="../../db/de8/a03968.html#a2cf25eafe7f2f73b61ccde11d55daf0c">LoginDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; LoginDatabaseConnection &gt; LoginDatabase</div><div class="ttdoc">Accessor to the realm/login database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:22</div></div>
 <div class="ttc" id="aa03968_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../db/de8/a03968.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
 <div class="ttc" id="aa03968_html_afa9a6509f9913c9c7dd3081523badd7c"><div class="ttname"><a href="../../db/de8/a03968.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; WorldDatabaseConnection &gt; WorldDatabase</div><div class="ttdoc">Accessor to the world database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:20</div></div>
-<div class="ttc" id="aa05443_html_a172ef4211bcb237478ec57531c8dcc4d"><div class="ttname"><a href="../../dd/d83/a05443.html#a172ef4211bcb237478ec57531c8dcc4d">ProducerConsumerQueue::WaitAndPop</a></div><div class="ttdeci">void WaitAndPop(T &amp;value)</div><div class="ttdef"><b>Definition:</b> PCQueue.h:71</div></div>
+<div class="ttc" id="aa05447_html_a172ef4211bcb237478ec57531c8dcc4d"><div class="ttname"><a href="../../d1/db0/a05447.html#a172ef4211bcb237478ec57531c8dcc4d">ProducerConsumerQueue::WaitAndPop</a></div><div class="ttdeci">void WaitAndPop(T &amp;value)</div><div class="ttdef"><b>Definition:</b> PCQueue.h:71</div></div>
 <div class="ttc" id="aa09895_html"><div class="ttname"><a href="../../d7/dd7/a09895.html">UpdateRequest</a></div><div class="ttdef"><b>Definition:</b> MapUpdater.cpp:27</div></div>
 <div class="ttc" id="aa09895_html_a8221fa415f828a4866f85f3983f7dab9"><div class="ttname"><a href="../../d7/dd7/a09895.html#a8221fa415f828a4866f85f3983f7dab9">UpdateRequest::call</a></div><div class="ttdeci">virtual void call()=0</div></div>
 </div><!-- fragment -->
@@ -623,7 +623,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dd/d83/a05443.html">ProducerConsumerQueue</a>&lt;<a class="el" href="../../d7/dd7/a09895.html">UpdateRequest</a>*&gt; MapUpdater::_queue</td>
+          <td class="memname"><a class="el" href="../../d1/db0/a05447.html">ProducerConsumerQueue</a>&lt;<a class="el" href="../../d7/dd7/a09895.html">UpdateRequest</a>*&gt; MapUpdater::_queue</td>
         </tr>
       </table>
   </td>
@@ -691,7 +691,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d5/d14/a09911.html">MapUpdater</a></li>
-    <li class="footer">Generated on Mon Oct 13 2025 20:45:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Oct 20 2025 20:47:45 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

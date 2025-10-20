@@ -1,6 +1,7 @@
 var a18319 =
 [
-    [ "npc_spinestalkerAI", "db/d8c/a18323.html", "db/d8c/a18323" ],
-    [ "npc_spinestalker", "d8/d29/a18319.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
-    [ "GetAI", "d8/d29/a18319.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
+    [ "PeriodicTick", "d8/d29/a18319.html#a0c365bbb4ae9b77bb9e00a1eb41b96e4", null ],
+    [ "PrepareAuraScript", "d8/d29/a18319.html#afcadfbdd84608e827b89c64bf03c8501", null ],
+    [ "Register", "d8/d29/a18319.html#a0e8e8685ce8c1eea2b60e8bf6aeed782", null ],
+    [ "Validate", "d8/d29/a18319.html#a879b657d94c1faf6225fe64f907cdf82", null ]
 ];

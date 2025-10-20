@@ -1,11 +1,11 @@
 var a03755 =
 [
-    [ "boss_garr", "d4/db5/a12563.html", "d4/db5/a12563" ],
-    [ "boss_garr::boss_garrAI", "de/d35/a12567.html", "de/d35/a12567" ],
-    [ "npc_garr_firesworn", "d1/d6e/a12571.html", "d1/d6e/a12571" ],
-    [ "npc_garr_firesworn::npc_garr_fireswornAI", "da/d90/a12575.html", "da/d90/a12575" ],
-    [ "spell_garr_separation_anxiety_aura", "d3/dc2/a12579.html", "d3/dc2/a12579" ],
-    [ "spell_garr_frenzy", "d1/d08/a12583.html", "d1/d08/a12583" ],
+    [ "boss_garr", "d1/d6e/a12571.html", "d1/d6e/a12571" ],
+    [ "boss_garr::boss_garrAI", "da/d90/a12575.html", "da/d90/a12575" ],
+    [ "npc_garr_firesworn", "d3/dc2/a12579.html", "d3/dc2/a12579" ],
+    [ "npc_garr_firesworn::npc_garr_fireswornAI", "d1/d08/a12583.html", "d1/d08/a12583" ],
+    [ "spell_garr_separation_anxiety_aura", "da/d19/a12587.html", "da/d19/a12587" ],
+    [ "spell_garr_frenzy", "d6/dcb/a12591.html", "d6/dcb/a12591" ],
     [ "Events", "dc/dd8/a03755.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

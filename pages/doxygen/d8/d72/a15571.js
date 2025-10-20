@@ -1,7 +1,7 @@
 var a15571 =
 [
-    [ "npc_webbed_creatureAI", "d8/d72/a15571.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
-    [ "JustDied", "d8/d72/a15571.html#a153d461124ec9266ffcac147a217f6d9", null ],
-    [ "JustEngagedWith", "d8/d72/a15571.html#ac52ad6512bcaee35932f856abdac80d4", null ],
-    [ "Reset", "d8/d72/a15571.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
+    [ "HandleEffectRemove", "d8/d72/a15571.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
+    [ "PrepareAuraScript", "d8/d72/a15571.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
+    [ "Register", "d8/d72/a15571.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
+    [ "AuraEffectHandleModes", "d8/d72/a15571.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
 ];

@@ -1,6 +1,7 @@
 var a24107 =
 [
-    [ "HandleScriptEffect", "d2/d5b/a24107.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
-    [ "PrepareSpellScript", "d2/d5b/a24107.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
-    [ "Register", "d2/d5b/a24107.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
+    [ "boss_gatewatcher_gyrokill", "d2/d5b/a24107.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "d2/d5b/a24107.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "d2/d5b/a24107.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "d2/d5b/a24107.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

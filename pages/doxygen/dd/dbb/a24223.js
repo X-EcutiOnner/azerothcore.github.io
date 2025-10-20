@@ -1,5 +1,6 @@
 var a24223 =
 [
-    [ "go_simon_cluster", "dd/dbb/a24223.html#adac53a8451abd6ace227a66afc7e61e8", null ],
-    [ "OnGossipHello", "dd/dbb/a24223.html#a9fd9799604de44c91803511c45b67786", null ]
+    [ "npc_aeranasAI", "de/d90/a24227.html", "de/d90/a24227" ],
+    [ "npc_aeranas", "dd/dbb/a24223.html#a6ea71481ef6a223a329b805081122537", null ],
+    [ "GetAI", "dd/dbb/a24223.html#a81167df6665bdca81ee13468dec19643", null ]
 ];

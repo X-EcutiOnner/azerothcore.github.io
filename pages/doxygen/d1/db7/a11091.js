@@ -1,9 +1,6 @@
 var a11091 =
 [
-    [ "TotemCreated", "d1/db7/a11091.html#a24c9e483d1edb526330311c719d750df", null ],
-    [ "Write", "d1/db7/a11091.html#a554900ae7442f00a63c983ea7ea74510", null ],
-    [ "Duration", "d1/db7/a11091.html#aff6335b86ac051bccb623124905c7180", null ],
-    [ "Slot", "d1/db7/a11091.html#a0889c816fbef728f1a0a6c530c801eac", null ],
-    [ "SpellID", "d1/db7/a11091.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
-    [ "Totem", "d1/db7/a11091.html#a684d15c5368e8065c78e9320eebb676b", null ]
+    [ "CorpseMapPositionQuery", "d1/db7/a11091.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
+    [ "Read", "d1/db7/a11091.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
+    [ "unk", "d1/db7/a11091.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
 ];

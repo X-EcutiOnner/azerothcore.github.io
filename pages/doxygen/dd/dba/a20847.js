@@ -1,10 +1,9 @@
 var a20847 =
 [
-    [ "boss_thorim_sif_blizzardAI", "dd/dba/a20847.html#a99d1c529126452e580ebc7e3e513b367", null ],
-    [ "AttackStart", "dd/dba/a20847.html#a1f05551f323fa410a699497f3875b21f", null ],
-    [ "InitWaypoint", "dd/dba/a20847.html#a1e0a384081750bdf38cc8e0065070ec8", null ],
-    [ "JustEngagedWith", "dd/dba/a20847.html#a9fea5617dccb493c7af435c485462ff3", null ],
-    [ "MoveInLineOfSight", "dd/dba/a20847.html#ab91a2a71ff00e38d2eca50ccc654d9f3", null ],
-    [ "Reset", "dd/dba/a20847.html#a193ba575c4f3f16d850e56f12f190c77", null ],
-    [ "WaypointReached", "dd/dba/a20847.html#a961f90068f25d81f55159763fe2677f8", null ]
+    [ "boss_thorim_gauntlet_npcsAI", "dd/dba/a20847.html#aaa7e94f653a1db001cd0c962fb855098", null ],
+    [ "JustEngagedWith", "dd/dba/a20847.html#afaf0a05b1fd2fc2187b52328340b65bb", null ],
+    [ "Reset", "dd/dba/a20847.html#a9e4c25742785809d788f2e910f7840bc", null ],
+    [ "UpdateAI", "dd/dba/a20847.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29", null ],
+    [ "_isCaster", "dd/dba/a20847.html#a104f447cc52c285d59653a8ebff20fef", null ],
+    [ "events", "dd/dba/a20847.html#a650508e05b6fa1af538a0b34e04c8bf5", null ]
 ];

@@ -1,9 +1,6 @@
 var a14851 =
 [
-    [ "boss_azgalor", "d3/d9c/a14851.html#ac794e0eacc2d543fa62e4b521089f080", null ],
-    [ "DoAction", "d3/d9c/a14851.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
-    [ "JustDied", "d3/d9c/a14851.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
-    [ "JustEngagedWith", "d3/d9c/a14851.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
-    [ "KilledUnit", "d3/d9c/a14851.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
-    [ "_recentlySpoken", "d3/d9c/a14851.html#abea34396ddde0aa02a073b2f3119fec9", null ]
+    [ "HandleHit", "d3/d9c/a14851.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
+    [ "PrepareSpellScript", "d3/d9c/a14851.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
+    [ "Register", "d3/d9c/a14851.html#a64a861b5c25df5780390aa55899393d7", null ]
 ];

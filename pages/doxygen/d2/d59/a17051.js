@@ -1,7 +1,6 @@
 var a17051 =
 [
-    [ "OnRemove", "d2/d59/a17051.html#a4b95717cb19116b81f3eec798089abad", null ],
-    [ "PrepareAuraScript", "d2/d59/a17051.html#a581645fa151531aaf7b562a8739d5616", null ],
-    [ "Register", "d2/d59/a17051.html#a01304c556d79001e290707551bee7622", null ],
-    [ "Validate", "d2/d59/a17051.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
+    [ "boss_marwynAI", "d4/de2/a17055.html", "d4/de2/a17055" ],
+    [ "boss_marwyn", "d2/d59/a17051.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
+    [ "GetAI", "d2/d59/a17051.html#af1c83878d2121163994bc327ae8e04f7", null ]
 ];

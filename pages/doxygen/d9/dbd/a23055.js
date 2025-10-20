@@ -1,11 +1,7 @@
 var a23055 =
 [
-    [ "boss_high_nethermancer_zerevor", "d9/dbd/a23055.html#a2d3ce1a6d972c0b58efe5aad31014c09", null ],
-    [ "AttackStart", "d9/dbd/a23055.html#a270961bd3af6ce65eebc79130f4e3d47", null ],
-    [ "CastDampenMagicIfPossible", "d9/dbd/a23055.html#ab0af23baf43d377935811c52a346c566", null ],
-    [ "JustEngagedWith", "d9/dbd/a23055.html#a390f939ba01ee189fc55670eb4ff1a7e", null ],
-    [ "OnAuraRemove", "d9/dbd/a23055.html#a7dd31808dbf00f77b59fce84249778fe", null ],
-    [ "Reset", "d9/dbd/a23055.html#afd7a419de217b3d129f783ddc87780af", null ],
-    [ "UpdateAI", "d9/dbd/a23055.html#ae1ec04a655525cbb2a6a3c7e382cf078", null ],
-    [ "_canCastDampenMagic", "d9/dbd/a23055.html#a72c89454c2b0754690ae72fd7aacb0e8", null ]
+    [ "PrepareAuraScript", "d9/dbd/a23055.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
+    [ "ReflectDamage", "d9/dbd/a23055.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
+    [ "Register", "d9/dbd/a23055.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
+    [ "Validate", "d9/dbd/a23055.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
 ];

@@ -1,7 +1,5 @@
 var a13175 =
 [
-    [ "HandleEffectApply", "d3/d33/a13175.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "d3/d33/a13175.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "d3/d33/a13175.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "d3/d33/a13175.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "go_inconspicuous_mine_car", "d3/d33/a13175.html#a34e941a813079b55f66bea15cffe8f42", null ],
+    [ "OnGossipHello", "d3/d33/a13175.html#a256a8f766dd045613c0c7159db9f74e0", null ]
 ];

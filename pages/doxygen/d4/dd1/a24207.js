@@ -1,6 +1,6 @@
 var a24207 =
 [
-    [ "npc_daranelleAI", "d4/dc3/a24211.html", "d4/dc3/a24211" ],
-    [ "npc_daranelle", "d4/dd1/a24207.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
-    [ "GetAI", "d4/dd1/a24207.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
+    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d4/dc3/a24211.html", "d4/dc3/a24211" ],
+    [ "npc_oscillating_frequency_scanner_master_bunny", "d4/dd1/a24207.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
+    [ "GetAI", "d4/dd1/a24207.html#a60d55e2eda4484ceea4e475ac8653977", null ]
 ];

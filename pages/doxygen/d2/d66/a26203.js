@@ -1,6 +1,6 @@
 var a26203 =
 [
-    [ "OnPeriodic", "d2/d66/a26203.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
-    [ "PrepareAuraScript", "d2/d66/a26203.html#ad3d091510685ebc2d87aadb658cacf58", null ],
-    [ "Register", "d2/d66/a26203.html#a9552ba0f4c18623b6b00ababa034942c", null ]
+    [ "OnRemove", "d2/d66/a26203.html#a3803e6bbdb17e9a848376481581c993d", null ],
+    [ "PrepareAuraScript", "d2/d66/a26203.html#a6f1340b824af4604e310666e89d05b7a", null ],
+    [ "Register", "d2/d66/a26203.html#a3b361a478f1c035b706ac2e17499fb37", null ]
 ];

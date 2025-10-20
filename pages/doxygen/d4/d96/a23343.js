@@ -1,12 +1,6 @@
 var a23343 =
 [
-    [ "boss_fathomlord_karathress", "d4/d96/a23343.html#a05c483ea61011926c260b43f6c01cac3", null ],
-    [ "DoAction", "d4/d96/a23343.html#adc5685244341e353c6dac67b0191d877", null ],
-    [ "JustDied", "d4/d96/a23343.html#a4c356359be50b626a28fab4a803386f8", null ],
-    [ "JustEngagedWith", "d4/d96/a23343.html#ae221d994f2ebb0a298288233727ea1ba", null ],
-    [ "JustReachedHome", "d4/d96/a23343.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
-    [ "JustSummoned", "d4/d96/a23343.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
-    [ "KilledUnit", "d4/d96/a23343.html#a02812a3cc7de22348058dedd107bb6d0", null ],
-    [ "Reset", "d4/d96/a23343.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
-    [ "_recentlySpoken", "d4/d96/a23343.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
+    [ "OnPeriodic", "d4/d96/a23343.html#a4d3d6350a06b6c7382792670c04e38e1", null ],
+    [ "PrepareAuraScript", "d4/d96/a23343.html#ac9231c238adf7e733d55bc6098daddc0", null ],
+    [ "Register", "d4/d96/a23343.html#aa6aa32b3adc89ac405f071fa9b804778", null ]
 ];

@@ -1,36 +1,7 @@
 var a02894 =
 [
-    [ "boss_volkhan", "dc/d1b/a19743.html", "dc/d1b/a19743" ],
-    [ "boss_volkhan::boss_volkhanAI", "d9/d3c/a19747.html", "d9/d3c/a19747" ],
-    [ "npc_molten_golem", "d2/def/a19751.html", "d2/def/a19751" ],
-    [ "npc_molten_golem::npc_molten_golemAI", "d8/de6/a19755.html", "d8/de6/a19755" ],
-    [ "npc_hol_monument", "d2/d97/a19759.html", "d2/d97/a19759" ],
-    [ "npc_hol_monument::npc_hol_monumentAI", "d3/dea/a19763.html", "d3/dea/a19763" ],
-    [ "monumentEvents", "dc/d38/a02894.html#a0e84888e4867ffbf0dc32bd8666f0bc0", [
-      [ "EVENT_PIERCING_HOWL", "dc/d38/a02894.html#a0e84888e4867ffbf0dc32bd8666f0bc0a89b86fe98dee6056077272582a710ef0", null ],
-      [ "EVENT_PENETRATING_STRIKE", "dc/d38/a02894.html#a0e84888e4867ffbf0dc32bd8666f0bc0a36bc0710106e0e0bcd38677fe87a4522", null ],
-      [ "EVENT_FRIGHTENING_SHOUT", "dc/d38/a02894.html#a0e84888e4867ffbf0dc32bd8666f0bc0a514a4e3ec4111bd86552e0a733f4e018", null ],
-      [ "EVENT_BLADE_TURNING", "dc/d38/a02894.html#a0e84888e4867ffbf0dc32bd8666f0bc0ab7c070de13e74aae25660bc25fea326d", null ],
-      [ "EVENT_DEADLY_THROW", "dc/d38/a02894.html#a0e84888e4867ffbf0dc32bd8666f0bc0abd9e286853bdf34ce162f1fc697e23e1", null ],
-      [ "EVENT_DEFLECTION", "dc/d38/a02894.html#a0e84888e4867ffbf0dc32bd8666f0bc0af4f9d42e3f74e7343e2825e56eb16584", null ],
-      [ "EVENT_THROW", "dc/d38/a02894.html#a0e84888e4867ffbf0dc32bd8666f0bc0a92ec9e94af510c50fc2bac49edef7d16", null ],
-      [ "EVENT_UNFREEZE", "dc/d38/a02894.html#a0e84888e4867ffbf0dc32bd8666f0bc0a53f60773c28b2d12da1e7b8427e0cb62", null ]
-    ] ],
-    [ "monumentSpells", "dc/d38/a02894.html#a721f969ffc4f82103edfdd6ba2f1a306", [
-      [ "SPELL_FREEZE_ANIM", "dc/d38/a02894.html#a721f969ffc4f82103edfdd6ba2f1a306a09463e66b152e3f856401806af0a4823", null ],
-      [ "SPELL_AWAKEN", "dc/d38/a02894.html#a721f969ffc4f82103edfdd6ba2f1a306a76e1fd225869c359917096a4030f4799", null ],
-      [ "SPELL_PIERCING_HOWL", "dc/d38/a02894.html#a721f969ffc4f82103edfdd6ba2f1a306ab1652f7d20e6d16563cefff05fa08615", null ],
-      [ "SPELL_PENETRATING_STRIKE", "dc/d38/a02894.html#a721f969ffc4f82103edfdd6ba2f1a306a65c6ed36eeb9e775eed679dc7f4a8226", null ],
-      [ "SPELL_FRIGHTENING_SHOUT", "dc/d38/a02894.html#a721f969ffc4f82103edfdd6ba2f1a306a99346d181da7e06bc6c08427a2b39880", null ],
-      [ "SPELL_BLADE_TURNING_N", "dc/d38/a02894.html#a721f969ffc4f82103edfdd6ba2f1a306a8ae2f848139898f4ae4aca495ecac080", null ],
-      [ "SPELL_BLADE_TURNING_H", "dc/d38/a02894.html#a721f969ffc4f82103edfdd6ba2f1a306a640c8e3420c0863dd28db2af2eca894f", null ],
-      [ "SPELL_DEADLY_THROW_N", "dc/d38/a02894.html#a721f969ffc4f82103edfdd6ba2f1a306a9cc13235d85f8f8fb51f5cfaa0359451", null ],
-      [ "SPELL_DEADLY_THROW_H", "dc/d38/a02894.html#a721f969ffc4f82103edfdd6ba2f1a306a2a066556b5eb037018eec92aaf6eaed4", null ],
-      [ "SPELL_DEFLECTION_N", "dc/d38/a02894.html#a721f969ffc4f82103edfdd6ba2f1a306aa26b6020fb9b3716813370ea7fb5fe86", null ],
-      [ "SPELL_DEFLECTION_H", "dc/d38/a02894.html#a721f969ffc4f82103edfdd6ba2f1a306a18f40a88a70618f663d5702909fad46f", null ],
-      [ "SPELL_THROW_N", "dc/d38/a02894.html#a721f969ffc4f82103edfdd6ba2f1a306a4f3a1d6f436b1fd8e642a5c7a7f27222", null ],
-      [ "SPELL_THROW_H", "dc/d38/a02894.html#a721f969ffc4f82103edfdd6ba2f1a306a5f60b1582f0b71eb0fe2bdc2bac615d6", null ]
-    ] ],
+    [ "boss_volkhan", "d9/d6d/a19731.html", "d9/d6d/a19731" ],
+    [ "npc_molten_golem", "d8/db2/a19735.html", "d8/db2/a19735" ],
     [ "VolkahnSpells", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72d", [
       [ "SPELL_HEAT_N", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72da52721b165a1d661959027f08e7e77802", null ],
       [ "SPELL_HEAT_H", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72da4d03f31e8cd9c24f8c4d3190c2ea5c48", null ],

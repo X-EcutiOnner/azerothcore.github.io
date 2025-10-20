@@ -1,6 +1,7 @@
 var a27419 =
 [
-    [ "boss_emerissAI", "d9/d2d/a27423.html", "d9/d2d/a27423" ],
-    [ "boss_emeriss", "d9/d33/a27419.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "d9/d33/a27419.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "HandlePeriodic", "d9/d33/a27419.html#a3da4cc5322f2e34244729fe3b3876482", null ],
+    [ "PrepareAuraScript", "d9/d33/a27419.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
+    [ "Register", "d9/d33/a27419.html#a53b6067f46912648413fc6d6f107b0d8", null ],
+    [ "Validate", "d9/d33/a27419.html#aa03222717b3c06316b232a6ac0270ec0", null ]
 ];

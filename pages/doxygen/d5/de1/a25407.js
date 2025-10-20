@@ -1,7 +1,6 @@
 var a25407 =
 [
-    [ "HandleStun", "d5/de1/a25407.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
-    [ "PrepareAuraScript", "d5/de1/a25407.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
-    [ "Register", "d5/de1/a25407.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
-    [ "Validate", "d5/de1/a25407.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
+    [ "HandleScript", "d5/de1/a25407.html#a1055ce8e5cbcc9d475bd9dab1f99cf92", null ],
+    [ "PrepareSpellScript", "d5/de1/a25407.html#a460823e5ad006c08d5b6378b7df279f0", null ],
+    [ "Register", "d5/de1/a25407.html#a7099938c5f14238b5afdadb6d040f931", null ]
 ];

@@ -1,9 +1,12 @@
 var a11271 =
 [
-    [ "SpellEvent", "d2/d2e/a11271.html#abca64eb7d39df9788cef9df7e8634368", null ],
-    [ "~SpellEvent", "d2/d2e/a11271.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
-    [ "Abort", "d2/d2e/a11271.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
-    [ "Execute", "d2/d2e/a11271.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
-    [ "IsDeletable", "d2/d2e/a11271.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
-    [ "m_Spell", "d2/d2e/a11271.html#a22cce1d722f5086932ae3e97c58d2921", null ]
+    [ "UnitAura", "d2/d2e/a11271.html#ada4033955271dfb21d16a95b316087f5", null ],
+    [ "_ApplyForTarget", "d2/d2e/a11271.html#a920549cf55c8def37149b00ae971127d", null ],
+    [ "_UnapplyForTarget", "d2/d2e/a11271.html#af4d453cee6758e633bdcae0049581898", null ],
+    [ "FillTargetMap", "d2/d2e/a11271.html#add5ce04446338e078c5986420abfd16e", null ],
+    [ "GetDiminishGroup", "d2/d2e/a11271.html#a8ebf7b01e7f324938f68ad4ce74d56b5", null ],
+    [ "Remove", "d2/d2e/a11271.html#a28f714404942bb5c614ac844cf937546", null ],
+    [ "SetDiminishGroup", "d2/d2e/a11271.html#a6d858a153c5d3046574f3387ab852050", null ],
+    [ "Aura::Create", "d2/d2e/a11271.html#ae2c0fdfb409846fec5e861de60797112", null ],
+    [ "m_AuraDRGroup", "d2/d2e/a11271.html#a4b413c5e62eee76875a22345059e6124", null ]
 ];

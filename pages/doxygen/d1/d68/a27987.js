@@ -1,8 +1,7 @@
 var a27987 =
 [
-    [ "npc_minion_spawner", "d1/d68/a27987.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
-    [ "CanSpawnRareMinion", "d1/d68/a27987.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
-    [ "JustSummoned", "d1/d68/a27987.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
-    [ "Reset", "d1/d68/a27987.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
-    [ "UpdateAI", "d1/d68/a27987.html#a24f93f1314bb73edb369e188eda83104", null ]
+    [ "HandleDummy", "d1/d68/a27987.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "d1/d68/a27987.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "d1/d68/a27987.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "d1/d68/a27987.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

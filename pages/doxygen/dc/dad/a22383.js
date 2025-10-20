@@ -1,9 +1,5 @@
 var a22383 =
 [
-    [ "npc_frostbrood_skytalonAI", "dc/dad/a22383.html#afc14c60466f9f0f1b20062758f18c00d", null ],
-    [ "IsSummonedBy", "dc/dad/a22383.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
-    [ "MovementInform", "dc/dad/a22383.html#ae763333503176eb7e8ce407868243958", null ],
-    [ "SpellHit", "dc/dad/a22383.html#a24bb49f47dcf85c95039d0495a89e126", null ],
-    [ "UpdateAI", "dc/dad/a22383.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
-    [ "events", "dc/dad/a22383.html#a8575d258d63e28626cffd7fc2160bee6", null ]
+    [ "go_pressure_valve", "dc/dad/a22383.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
+    [ "OnGossipHello", "dc/dad/a22383.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
 ];

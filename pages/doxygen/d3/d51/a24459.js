@@ -1,13 +1,9 @@
 var a24459 =
 [
-    [ "npc_illidari_spawnAI", "d3/d51/a24459.html#a704c1d3e07d028b04e2bddee37039941", null ],
-    [ "JustDied", "d3/d51/a24459.html#a27277d90d4a58a89386a39f4affbaee8", null ],
-    [ "JustEngagedWith", "d3/d51/a24459.html#add4ea6366614e9fb86e85613bfb910ba", null ],
-    [ "Reset", "d3/d51/a24459.html#a5347858d5da4f0718479b1d702125366", null ],
-    [ "UpdateAI", "d3/d51/a24459.html#af392a545b3dccb7a7c89780d2818a7a7", null ],
-    [ "LordIllidanGUID", "d3/d51/a24459.html#a11b411dd0b5a32a7bdd0c44242a42372", null ],
-    [ "SpellTimer1", "d3/d51/a24459.html#afbf1b352275c0fd16fdf252eac9e0c4a", null ],
-    [ "SpellTimer2", "d3/d51/a24459.html#a644616bab96e1bd9bbe2500bf1b14988", null ],
-    [ "SpellTimer3", "d3/d51/a24459.html#a9889f9673292613dc46387862f3e8849", null ],
-    [ "Timers", "d3/d51/a24459.html#a1e48e4dea7bc1ba0f3d6be2f03b6813e", null ]
+    [ "npc_korkron_or_wildhammer", "d3/d51/a24459.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
+    [ "IsSummonedBy", "d3/d51/a24459.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
+    [ "JustDied", "d3/d51/a24459.html#a2b216f372b3681b4c96a711568c2a93b", null ],
+    [ "MovementInform", "d3/d51/a24459.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
+    [ "Reset", "d3/d51/a24459.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
+    [ "_playerGUID", "d3/d51/a24459.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
 ];

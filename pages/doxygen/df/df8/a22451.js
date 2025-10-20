@@ -1,4 +1,6 @@
 var a22451 =
 [
-    [ "npc_adventurous_dwarfAI", "df/df8/a22451.html#af953c5fef2ea8abbf7835b0bc5cf1b23", null ]
+    [ "HandleScriptEffect", "df/df8/a22451.html#a1dac2806b74471332aec0595118005a3", null ],
+    [ "PrepareSpellScript", "df/df8/a22451.html#adb1efd90b7ffa23887ca4aa3afb6d99e", null ],
+    [ "Register", "df/df8/a22451.html#a2ff0986c88dcbd9aac263f62b772c992", null ]
 ];

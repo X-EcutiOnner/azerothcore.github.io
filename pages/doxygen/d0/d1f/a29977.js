@@ -1,5 +1,7 @@
 var a29977 =
 [
-    [ "id", "d0/d1f/a29977.html#a22e48015dd880199e131089e35b1ce05", null ],
-    [ "spellId", "d0/d1f/a29977.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
+    [ "MPQArchive", "d4/d22/a28971.html", "d4/d22/a28971" ],
+    [ "MPQFile", "d9/d2e/a28975.html", "d9/d2e/a28975" ],
+    [ "ArchiveSet", "d0/d1f/a29977.html#a8d76af4bfff910da40b4f93a1c465744", null ],
+    [ "flipcc", "d0/d1f/a29977.html#aff3add09c98fece7ace91b0e7c90435e", null ]
 ];

@@ -1,6 +1,6 @@
 var a13723 =
 [
-    [ "HandleSendEvent", "d9/dbe/a13723.html#a1be975f4440b823c34cc3e790fcff608", null ],
-    [ "PrepareSpellScript", "d9/dbe/a13723.html#a91ac4a392fcf5b6e833fb3f5103d8e06", null ],
-    [ "Register", "d9/dbe/a13723.html#a217fb7cb47b08999d49ec04b345b77fe", null ]
+    [ "HandleSendEvent", "d9/dbe/a13723.html#af62c176d53589228d5e0077c9fc268a3", null ],
+    [ "PrepareSpellScript", "d9/dbe/a13723.html#acea8e256f267dd496e5f573e982dba5f", null ],
+    [ "Register", "d9/dbe/a13723.html#a0827e177a8268994bb4e63f07993a354", null ]
 ];

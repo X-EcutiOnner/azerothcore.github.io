@@ -1,6 +1,5 @@
 var a24491 =
 [
-    [ "CheckRequirement", "df/dca/a24491.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
-    [ "PrepareSpellScript", "df/dca/a24491.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
-    [ "Register", "df/dca/a24491.html#aa4f62292b32347179a5534e4bc0417f8", null ]
+    [ "npc_shattrath_daily_quest", "df/dca/a24491.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "df/dca/a24491.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

@@ -1,10 +1,11 @@
 var a21103 =
 [
-    [ "boss_yoggsaron_immortal_guardianAI", "d6/d10/a21103.html#a84a3ffe43a4ce49cd543f770594cd683", null ],
-    [ "DamageTaken", "d6/d10/a21103.html#aec157bcf0628a7301bcb91dd62bcc484", null ],
-    [ "Reset", "d6/d10/a21103.html#a763f772414f00c0f83402e1a635b6bd0", null ],
-    [ "SpellHit", "d6/d10/a21103.html#a60721961f2eb5e91c15890252166b872", null ],
-    [ "UpdateAI", "d6/d10/a21103.html#a7fa550f683fcf16f5bd70a307bffcb2b", null ],
-    [ "_spellTimer", "d6/d10/a21103.html#a4ed360380707195e10753436020b67eb", null ],
-    [ "_visualTimer", "d6/d10/a21103.html#a8c382c37aaa3d20cfc0fe604af52bef4", null ]
+    [ "boss_yoggsaron_neltharionAI", "d6/d10/a21103.html#aacefe32de32513bdf46c0dd526768e25", null ],
+    [ "NextStep", "d6/d10/a21103.html#a4770948240ac56ec151c262c8996e4e4", null ],
+    [ "Reset", "d6/d10/a21103.html#a03841acfd21e920bc6589203448709a0", null ],
+    [ "Say", "d6/d10/a21103.html#ae45f051ab64ce1f96f32e5b8d073356e", null ],
+    [ "UpdateAI", "d6/d10/a21103.html#a80c174a8ffa15550627ed27ab0d8925d", null ],
+    [ "_checkTimer", "d6/d10/a21103.html#a7eef651198e09cf25c2f039bcb4a1876", null ],
+    [ "_running", "d6/d10/a21103.html#a6b2f01ed2ffe8113cbddd4a033886059", null ],
+    [ "_step", "d6/d10/a21103.html#a0ac37717e940b094d322a7e492202718", null ]
 ];

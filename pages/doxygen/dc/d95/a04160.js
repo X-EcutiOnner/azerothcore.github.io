@@ -1,6 +1,6 @@
 var a04160 =
 [
-    [ "DBCPosition3D", "d8/d1c/a28047.html", "d8/d1c/a28047" ],
+    [ "DBCPosition3D", "d2/dd9/a28023.html", "d2/dd9/a28023" ],
     [ "DEFAULT_MAX_LEVEL", "dc/d95/a04160.html#af0724337c52ef108a88542412eb75d00", null ],
     [ "MAX_BATTLEGROUND_BRACKETS", "dc/d95/a04160.html#a5201a522ecfb21f8b94bcab8b2ba2f8c", null ],
     [ "MAX_CRITERIA_REQUIREMENTS", "dc/d95/a04160.html#aac939a6398e92f385f4dbd9f118d8583", null ],

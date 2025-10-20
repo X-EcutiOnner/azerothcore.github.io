@@ -1,6 +1,7 @@
 var a14855 =
 [
-    [ "FilterTargets", "d6/d85/a14855.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
-    [ "PrepareSpellScript", "d6/d85/a14855.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
-    [ "Register", "d6/d85/a14855.html#a164b8b946dc801db878603488c978adb", null ]
+    [ "PeriodicTick", "d6/d85/a14855.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
+    [ "PrepareAuraScript", "d6/d85/a14855.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
+    [ "Register", "d6/d85/a14855.html#a24058b120f4fa06b89f6d582c53a365a", null ],
+    [ "Validate", "d6/d85/a14855.html#a093b09be5abde91a1487d67a7a554d30", null ]
 ];

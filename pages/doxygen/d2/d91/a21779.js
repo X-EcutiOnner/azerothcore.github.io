@@ -1,10 +1,7 @@
 var a21779 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "d2/d91/a21779.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
-    [ "GotStinged", "d2/d91/a21779.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
-    [ "JustEngagedWith", "d2/d91/a21779.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
-    [ "Reset", "d2/d91/a21779.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
-    [ "SpellHit", "d2/d91/a21779.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
-    [ "UpdateAI", "d2/d91/a21779.html#a21def23073eeec051c1c97a813e0ea84", null ],
-    [ "rebuff", "d2/d91/a21779.html#ac83c25091fdd3c7876a88927b758261f", null ]
+    [ "npc_valiance_keep_cannoneerAI", "d2/d91/a21779.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
+    [ "Reset", "d2/d91/a21779.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
+    [ "UpdateAI", "d2/d91/a21779.html#a75f16f2b028ca341db6e08536be06bfa", null ],
+    [ "uiTimer", "d2/d91/a21779.html#a0cf5f0413b1cded835252a38e272f835", null ]
 ];

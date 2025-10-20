@@ -1,6 +1,7 @@
 var a20135 =
 [
-    [ "npc_pool_of_tarAI", "dd/dc1/a20135.html#a6141addc9b1cf2c0028d98ef4f4d9d37", null ],
-    [ "DamageTaken", "dd/dc1/a20135.html#a4ea55aa08123f724268238e0def5b595", null ],
-    [ "SpellHit", "dd/dc1/a20135.html#acb63166b396c079d5b4bb9db67a1448a", null ]
+    [ "boss_flame_leviathan_safety_containerAI", "dd/dc1/a20135.html#ab9191e20df488df184c468ca1ac41084", null ],
+    [ "MovementInform", "dd/dc1/a20135.html#a1b472a233ebebbb4c1fbf639aeb4bed6", null ],
+    [ "UpdateAI", "dd/dc1/a20135.html#a77b3a493c5650d91c903879db324651d", null ],
+    [ "_allowTimer", "dd/dc1/a20135.html#a2185c9fe04fa7288fab452c5c1de3819", null ]
 ];

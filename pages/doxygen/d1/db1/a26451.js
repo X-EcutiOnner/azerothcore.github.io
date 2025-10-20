@@ -1,6 +1,7 @@
 var a26451 =
 [
-    [ "FilterTargets", "d1/db1/a26451.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
-    [ "PrepareSpellScript", "d1/db1/a26451.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
-    [ "Register", "d1/db1/a26451.html#a4db02c58be57a797c26b07656d1b5409", null ]
+    [ "CalculateAmount", "d1/db1/a26451.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
+    [ "HandleUpdateSpellclick", "d1/db1/a26451.html#a89956d7f3a6404d5b60e46034867c82c", null ],
+    [ "PrepareAuraScript", "d1/db1/a26451.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
+    [ "Register", "d1/db1/a26451.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ]
 ];

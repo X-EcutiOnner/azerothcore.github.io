@@ -1,6 +1,6 @@
 var a21827 =
 [
-    [ "npc_bloodmage_laurithAI", "d0/dcd/a21831.html", "d0/dcd/a21831" ],
-    [ "npc_bloodmage_laurith", "d9/dbe/a21827.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
-    [ "GetAI", "d9/dbe/a21827.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
+    [ "npc_leryssaAI", "d0/dcd/a21831.html", "d0/dcd/a21831" ],
+    [ "npc_leryssa", "d9/dbe/a21827.html#a549bed4476f88c313e6b42c0fe1fffb8", null ],
+    [ "GetAI", "d9/dbe/a21827.html#a4725831580b206d91dbd8c21a703893f", null ]
 ];

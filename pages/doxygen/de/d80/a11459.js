@@ -1,6 +1,8 @@
 var a11459 =
 [
-    [ "HitHandler", "de/d80/a11459.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
-    [ "Call", "de/d80/a11459.html#a157baaa3ceba62a9910cba5377bd7699", null ],
-    [ "pHitHandlerScript", "de/d80/a11459.html#ac24144e49930a01a3049740a4072f626", null ]
+    [ "EffectHandler", "de/d80/a11459.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
+    [ "Call", "de/d80/a11459.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
+    [ "CheckEffect", "de/d80/a11459.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
+    [ "ToString", "de/d80/a11459.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
+    [ "pEffectHandlerScript", "de/d80/a11459.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
 ];

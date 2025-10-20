@@ -1,8 +1,6 @@
 var a24259 =
 [
-    [ "npc_ancestral_wolfAI", "d1/d69/a24259.html#a59ccca7093575f4bcac57a4751d977d4", null ],
-    [ "MoveInLineOfSight", "d1/d69/a24259.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
-    [ "Reset", "d1/d69/a24259.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
-    [ "WaypointReached", "d1/d69/a24259.html#a2b553c29823e5ef888ee02a3ed413386", null ],
-    [ "ryga", "d1/d69/a24259.html#ac238214604720e298124b58c35d58e05", null ]
+    [ "go_beaconAI", "dc/dff/a24263.html", "dc/dff/a24263" ],
+    [ "go_beacon", "d1/d69/a24259.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
+    [ "GetAI", "d1/d69/a24259.html#abd168f0c1ac9a64cece280758f3120d4", null ]
 ];

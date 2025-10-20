@@ -1,6 +1,6 @@
 var a14763 =
 [
-    [ "PrepareAuraScript", "d8/d3c/a14763.html#a80660b1417ab33edaf2c4cd517e10e30", null ],
-    [ "RecalculateHook", "d8/d3c/a14763.html#af3952993947dfb24381083d21a9e64cb", null ],
-    [ "Register", "d8/d3c/a14763.html#ab7f0aa924dfe8043e44cd794f72e4555", null ]
+    [ "HandleScriptEffect", "d8/d3c/a14763.html#a074f54a4b022adc6ea34b3716dec745f", null ],
+    [ "PrepareSpellScript", "d8/d3c/a14763.html#a725d5bc1f76614778b140f3061aa2e03", null ],
+    [ "Register", "d8/d3c/a14763.html#a339df7ae9553fbae68ce791baef1df5e", null ]
 ];

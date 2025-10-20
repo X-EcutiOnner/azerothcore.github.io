@@ -1,6 +1,9 @@
 var a20767 =
 [
-    [ "npc_ulduar_expedition_engineerAI", "d0/d6d/a20771.html", "d0/d6d/a20771" ],
-    [ "npc_ulduar_expedition_engineer", "d6/daf/a20767.html#a1ff99e62b9c2222d8c08e71bfda600ea", null ],
-    [ "GetAI", "d6/daf/a20767.html#a6f1beaab42e42981e152db920e516616", null ]
+    [ "npc_ulduar_dark_rune_watcherAI", "d6/daf/a20767.html#a2239253c2c4760b130ace4a07ef1e8c4", null ],
+    [ "CanAIAttack", "d6/daf/a20767.html#a891e354dc27f0d53e06a0cf2eea46970", null ],
+    [ "Reset", "d6/daf/a20767.html#a79a1081a50ded7afc5f81ed4234be59d", null ],
+    [ "UpdateAI", "d6/daf/a20767.html#a58c5f53f74055b89c11ed27ffe908732", null ],
+    [ "timer1", "d6/daf/a20767.html#aab38ff79ca8fc867a3d6c6512d0376c8", null ],
+    [ "timer2", "d6/daf/a20767.html#a7b4eb188939c15f11a6b2532853ad798", null ]
 ];

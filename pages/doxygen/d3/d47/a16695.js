@@ -1,6 +1,6 @@
 var a16695 =
 [
-    [ "npc_toc_retro_paladinAI", "d9/d1b/a16699.html", "d9/d1b/a16699" ],
-    [ "npc_toc_retro_paladin", "d3/d47/a16695.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
-    [ "GetAI", "d3/d47/a16695.html#a1213c99792aa4362275bc827aa2f037e", null ]
+    [ "npc_toc_enh_shamanAI", "d9/d1b/a16699.html", "d9/d1b/a16699" ],
+    [ "npc_toc_enh_shaman", "d3/d47/a16695.html#ac328b63a988d2cd8640237b250c338a8", null ],
+    [ "GetAI", "d3/d47/a16695.html#a4501c9289a06750d8f153f89565b12f3", null ]
 ];

@@ -1,6 +1,10 @@
 var a25627 =
 [
-    [ "CalculateAmount", "da/dab/a25627.html#a83bf0327aade6f6a33293a442ad10911", null ],
-    [ "PrepareAuraScript", "da/dab/a25627.html#aa964f4eb7391dab54ff744fc94306de1", null ],
-    [ "Register", "da/dab/a25627.html#a37d29d87bec2fe2908b7d3e47f5e1caa", null ]
+    [ "CheckProc", "da/dab/a25627.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
+    [ "HandleProc", "da/dab/a25627.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
+    [ "OnApply", "da/dab/a25627.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
+    [ "OnRemove", "da/dab/a25627.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
+    [ "PrepareAuraScript", "da/dab/a25627.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
+    [ "Register", "da/dab/a25627.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
+    [ "Validate", "da/dab/a25627.html#a91c5a0e10c308332e18dc40033049996", null ]
 ];

@@ -1,10 +1,11 @@
 var a14395 =
 [
-    [ "npc_brewfest_super_brew_trigger", "d7/de1/a14395.html#a3d2189978683150b1c431fa0fd637358", null ],
-    [ "AttackStart", "d7/de1/a14395.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
-    [ "JustEngagedWith", "d7/de1/a14395.html#a61be52cb8ba0cc10285820ad5324816e", null ],
-    [ "MoveInLineOfSight", "d7/de1/a14395.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
-    [ "Reset", "d7/de1/a14395.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
-    [ "UpdateAI", "d7/de1/a14395.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
-    [ "timer", "d7/de1/a14395.html#a2ebb06175e3142cca156e57e8386fe02", null ]
+    [ "npc_dark_iron_attack_mole_machine", "d7/de1/a14395.html#a473a8fb4905e5d1333196797d7d0f371", null ],
+    [ "AttackStart", "d7/de1/a14395.html#a999dd932fbaf22a8275dfdba150c3291", null ],
+    [ "JustEngagedWith", "d7/de1/a14395.html#a50e0657f33f15bf2ffe83ca4041eb483", null ],
+    [ "MoveInLineOfSight", "d7/de1/a14395.html#a2be5de913ca9d472a31cd44c07bcde57", null ],
+    [ "Reset", "d7/de1/a14395.html#a0727aab751ddfbd94ae070e60e47e768", null ],
+    [ "UpdateAI", "d7/de1/a14395.html#a1217ed510a846d011143ae0a386c6236", null ],
+    [ "goTimer", "d7/de1/a14395.html#a8686845ebef564c9fcaa115866c99749", null ],
+    [ "summonTimer", "d7/de1/a14395.html#a4713da02f4a86547a0f796167e24d8bb", null ]
 ];

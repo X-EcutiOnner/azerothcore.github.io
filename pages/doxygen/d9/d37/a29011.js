@@ -1,17 +1,15 @@
 var a29011 =
 [
-    [ "TileBuilder", "d9/d37/a29011.html#acf61f0eada3f4cc5e88ef7d36c6d0c36", null ],
-    [ "TileBuilder", "d9/d37/a29011.html#ac7ed1b1c9fdff7fc933fa6029fa9ff9d", null ],
-    [ "~TileBuilder", "d9/d37/a29011.html#a7fabcd86a5679f19ad69e9c69f1d5885", null ],
-    [ "buildMoveMapTile", "d9/d37/a29011.html#add45abc9c1f79f95dae9d7616b100dc0", null ],
-    [ "buildTile", "d9/d37/a29011.html#ab7eca8778fd61ecbfe5f07bba0b38857", null ],
-    [ "shouldSkipTile", "d9/d37/a29011.html#a77ecbab0c34dfe69c414304768b20ea3", null ],
-    [ "WaitCompletion", "d9/d37/a29011.html#ae386f742fed7d2b66bcf3750abf91daf", null ],
-    [ "WorkerThread", "d9/d37/a29011.html#a4c0497cde74883557ec841233376f95c", null ],
-    [ "m_bigBaseUnit", "d9/d37/a29011.html#a5b5313e24c00e58940067d53be93a3de", null ],
-    [ "m_debugOutput", "d9/d37/a29011.html#a4c881a6e6ec66b315f72f84da5c534c2", null ],
-    [ "m_mapBuilder", "d9/d37/a29011.html#aa83fbc484835a6d1a4c7bf6201b46639", null ],
-    [ "m_rcContext", "d9/d37/a29011.html#a160c3ad76146488175c6ae228ad4ef83", null ],
-    [ "m_terrainBuilder", "d9/d37/a29011.html#ade1605fb1b68693516c9fb27f94b278d", null ],
-    [ "m_workerThread", "d9/d37/a29011.html#a4e03cb818b108400737e3a54df24945d", null ]
+    [ "toMMAPTileRecastConfig", "d9/d37/a29011.html#ad46c79822cfc2af7b0fbcab1f4c617fa", null ],
+    [ "baseUnitDim", "d9/d37/a29011.html#a9e09d86e08925e501f9f9a5d73f9119c", null ],
+    [ "cellSizeHorizontal", "d9/d37/a29011.html#a4dfcfc16d4c854bc210d8c6827d27ba7", null ],
+    [ "cellSizeVertical", "d9/d37/a29011.html#a0b49e8a9b40c7bed81a28fb5b284c735", null ],
+    [ "maxSimplificationError", "d9/d37/a29011.html#a37fbb64246708db0e7c9788d8f06c04b", null ],
+    [ "tilesPerMapEdge", "d9/d37/a29011.html#a14a858b17d96f6d5945ecfa77bc0fb00", null ],
+    [ "vertexPerMapEdge", "d9/d37/a29011.html#adba40fb00d24af999a1970e3a5fed198", null ],
+    [ "vertexPerTileEdge", "d9/d37/a29011.html#ae7421270c917171607ff972483df0ba1", null ],
+    [ "walkableClimb", "d9/d37/a29011.html#a5501534adbc4018b5047599c12a2e582", null ],
+    [ "walkableHeight", "d9/d37/a29011.html#a3513a1b33d8682303eae1eaa30615a07", null ],
+    [ "walkableRadius", "d9/d37/a29011.html#a0fd92998a753ea4ae76fac8c649645ac", null ],
+    [ "walkableSlopeAngle", "d9/d37/a29011.html#afa96a254067d2173288479cc60a6c97c", null ]
 ];

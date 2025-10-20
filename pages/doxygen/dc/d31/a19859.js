@@ -1,6 +1,6 @@
 var a19859 =
 [
-    [ "iron_golem_custodianAI", "d0/db3/a19863.html", "d0/db3/a19863" ],
-    [ "iron_golem_custodian", "dc/d31/a19859.html#adc11b755e193adbad757c21e5b15e063", null ],
-    [ "GetAI", "dc/d31/a19859.html#a272e0c9fe475a665aa80a95f1e1d8629", null ]
+    [ "CosmicSmashDamageEvent", "dc/d31/a19859.html#a5c9606791b560d8be1825a9c73f2393e", null ],
+    [ "Execute", "dc/d31/a19859.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
+    [ "_caster", "dc/d31/a19859.html#ab7af2459d3962831812ee2362ee9de2b", null ]
 ];

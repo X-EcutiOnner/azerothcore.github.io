@@ -1,11 +1,11 @@
 var a03800 =
 [
-    [ "boss_brutallus", "d1/d36/a13439.html", "d1/d36/a13439" ],
-    [ "npc_madrigosa", "dd/d6c/a13443.html", "dd/d6c/a13443" ],
-    [ "spell_madrigosa_activate_barrier", "d4/daf/a13447.html", "d4/daf/a13447" ],
-    [ "spell_madrigosa_deactivate_barrier", "df/da6/a13451.html", "df/da6/a13451" ],
-    [ "spell_brutallus_burn", "d0/df8/a13455.html", "d0/df8/a13455" ],
-    [ "at_sunwell_madrigosa", "db/d08/a13459.html", "db/d08/a13459" ],
+    [ "boss_brutallus", "d4/daf/a13447.html", "d4/daf/a13447" ],
+    [ "npc_madrigosa", "df/da6/a13451.html", "df/da6/a13451" ],
+    [ "spell_madrigosa_activate_barrier", "d0/df8/a13455.html", "d0/df8/a13455" ],
+    [ "spell_madrigosa_deactivate_barrier", "db/d08/a13459.html", "db/d08/a13459" ],
+    [ "spell_brutallus_burn", "dd/d11/a13463.html", "dd/d11/a13463" ],
+    [ "at_sunwell_madrigosa", "d2/d9f/a13467.html", "d2/d9f/a13467" ],
     [ "eMadrigosa", "dd/dbc/a03800.html#a9c013fd339fb1c6ec76dc9784b1fd77c", [
       [ "EVENT_MAD_1", "dd/dbc/a03800.html#a9c013fd339fb1c6ec76dc9784b1fd77ca8adbf4ce28357322d3e36e80ac8abe2b", null ],
       [ "EVENT_MAD_2", "dd/dbc/a03800.html#a9c013fd339fb1c6ec76dc9784b1fd77ca0f9096979814eadf4a111ed1d7e4fc5f", null ],

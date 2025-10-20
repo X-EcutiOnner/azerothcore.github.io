@@ -1,6 +1,6 @@
 var a24395 =
 [
-    [ "npc_mature_netherwing_drakeAI", "da/dea/a24399.html", "da/dea/a24399" ],
-    [ "npc_mature_netherwing_drake", "d5/d4a/a24395.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
-    [ "GetAI", "d5/d4a/a24395.html#ac5a1dad24920396156f22ab02bfab84b", null ]
+    [ "npcs_flanis_swiftwing_and_kagrosh", "d5/d4a/a24395.html#aa95eceea94521947bd443805c8ddb52d", null ],
+    [ "OnGossipHello", "d5/d4a/a24395.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
+    [ "OnGossipSelect", "d5/d4a/a24395.html#aff34165955ba93e1fcd2b9731894d871", null ]
 ];

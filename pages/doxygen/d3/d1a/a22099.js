@@ -1,6 +1,7 @@
 var a22099 =
 [
-    [ "npc_torturer_lecraftAI", "da/d60/a22103.html", "da/d60/a22103" ],
-    [ "npc_torturer_lecraft", "d3/d1a/a22099.html#a789f8bdafe96d5cb01225b940a80c651", null ],
-    [ "GetAI", "d3/d1a/a22099.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
+    [ "OnRemove", "d3/d1a/a22099.html#a335bc64860227122e0536f61144e2003", null ],
+    [ "PrepareAuraScript", "d3/d1a/a22099.html#ae38bdeb74493f73bed1246c011bb2076", null ],
+    [ "Register", "d3/d1a/a22099.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
+    [ "Validate", "d3/d1a/a22099.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
 ];

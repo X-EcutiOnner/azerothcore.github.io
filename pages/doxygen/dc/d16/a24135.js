@@ -1,7 +1,10 @@
 var a24135 =
 [
-    [ "boss_gatewatcher_iron_hand", "dc/d16/a24135.html#aef70e713007af38b510f0a3b8c082b24", null ],
-    [ "JustDied", "dc/d16/a24135.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
-    [ "JustEngagedWith", "dc/d16/a24135.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
-    [ "KilledUnit", "dc/d16/a24135.html#a1973142412b4094dbd9fa51600741148", null ]
+    [ "npc_raging_flames", "dc/d16/a24135.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
+    [ "EnterEvadeMode", "dc/d16/a24135.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
+    [ "FixateRandomTarget", "dc/d16/a24135.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
+    [ "InitializeAI", "dc/d16/a24135.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
+    [ "IsSummonedBy", "dc/d16/a24135.html#ae42c4329be355807af92c1c803e61500", null ],
+    [ "Reset", "dc/d16/a24135.html#a34ac2249e507784d81c4040e87a646e0", null ],
+    [ "UpdateAI", "dc/d16/a24135.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
 ];

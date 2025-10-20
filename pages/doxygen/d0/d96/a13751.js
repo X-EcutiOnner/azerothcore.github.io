@@ -1,5 +1,6 @@
 var a13751 =
 [
-    [ "at_twilight_grove", "d0/d96/a13751.html#a2ef32dbac0a35aa7dc6ebbafe926125f", null ],
-    [ "OnTrigger", "d0/d96/a13751.html#a8ee7239b8429df38a237926a7252322b", null ]
+    [ "npc_maredis_firestarAI", "d0/d96/a13751.html#ac2d4ed4b205146524dcf11585d65ae12", null ],
+    [ "sGossipHello", "d0/d96/a13751.html#a72790dc9525249a4b558c37c4a0bd03f", null ],
+    [ "sGossipSelect", "d0/d96/a13751.html#acefb2bc09fe8f7ad77d53ee6eb8bbb71", null ]
 ];

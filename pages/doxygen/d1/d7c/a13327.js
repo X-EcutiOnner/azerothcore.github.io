@@ -1,6 +1,7 @@
 var a13327 =
 [
-    [ "npc_scholomance_occultistAI", "df/dba/a13331.html", "df/dba/a13331" ],
-    [ "npc_scholomance_occultist", "d1/d7c/a13327.html#adf100912a15ff8edf056efa7eebd13ff", null ],
-    [ "GetAI", "d1/d7c/a13327.html#a5da2b011ec4859523c1f713dc18e4d5b", null ]
+    [ "HandleEffectApply", "d1/d7c/a13327.html#a710536e0a3bacf173d037041e755bd82", null ],
+    [ "HandleEffectRemove", "d1/d7c/a13327.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
+    [ "PrepareAuraScript", "d1/d7c/a13327.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
+    [ "Register", "d1/d7c/a13327.html#a9092818bdb15a12163aae633049cb7f6", null ]
 ];

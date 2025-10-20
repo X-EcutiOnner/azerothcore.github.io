@@ -1,6 +1,6 @@
 var a11467 =
 [
-    [ "ObjectAreaTargetSelectHandler", "d5/d79/a11467.html#a89b86436bb1de38223165e7ef60f2b61", null ],
-    [ "Call", "d5/d79/a11467.html#a11d2070610d178006231bac274d1f311", null ],
-    [ "pObjectAreaTargetSelectHandlerScript", "d5/d79/a11467.html#a118ca963c6319802806913762c4d1fec", null ]
+    [ "HitHandler", "d5/d79/a11467.html#a41c5a6853bf72c113388995dc3ebaba7", null ],
+    [ "Call", "d5/d79/a11467.html#a157baaa3ceba62a9910cba5377bd7699", null ],
+    [ "pHitHandlerScript", "d5/d79/a11467.html#ac24144e49930a01a3049740a4072f626", null ]
 ];

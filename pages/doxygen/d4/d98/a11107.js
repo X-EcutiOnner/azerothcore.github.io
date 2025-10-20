@@ -1,5 +1,6 @@
 var a11107 =
 [
-    [ "PacketHandler", "d4/d98/a11107.html#ae28d6ea18799c4dc90be8225fd2fad66", null ],
-    [ "Call", "d4/d98/a11107.html#a9468be560aba807419fb7e28bf0d6a41", null ]
+    [ "WorldStateInfo", "d4/d98/a11107.html#a64fd2e4da7035ea6c01b8ab0819d2f86", null ],
+    [ "Value", "d4/d98/a11107.html#afe5a0e98713c986a17f431795c488c6c", null ],
+    [ "VariableID", "d4/d98/a11107.html#a627bba237bce23aff74fd2bf7a274657", null ]
 ];

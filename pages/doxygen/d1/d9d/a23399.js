@@ -1,6 +1,6 @@
 var a23399 =
 [
-    [ "HandleScriptEffect", "d1/d9d/a23399.html#a62ed9bff154c5aab74e044f8f9982263", null ],
-    [ "PrepareSpellScript", "d1/d9d/a23399.html#a0e87265cf22ef8b4e302b8e216123395", null ],
-    [ "Register", "d1/d9d/a23399.html#a0d722447d91991462245e8b392d20e10", null ]
+    [ "HandleDummy", "d1/d9d/a23399.html#a3347413822ce083085bcf1418fbdbae2", null ],
+    [ "PrepareSpellScript", "d1/d9d/a23399.html#ad7b15a8c5cf3e2d38a1ce54afb24b3e5", null ],
+    [ "Register", "d1/d9d/a23399.html#af0c8bf6a5076a4171a9d70f6872a21d5", null ]
 ];

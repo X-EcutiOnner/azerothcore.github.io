@@ -1,6 +1,7 @@
 var a24715 =
 [
-    [ "HandlePeriodic", "d8/da5/a24715.html#adc387a1b001119b95179856c030853ad", null ],
-    [ "PrepareAuraScript", "d8/da5/a24715.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
-    [ "Register", "d8/da5/a24715.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
+    [ "HandleProc", "d8/da5/a24715.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
+    [ "PrepareAuraScript", "d8/da5/a24715.html#a2840931b939b95e6a476c07f08ca66b5", null ],
+    [ "Register", "d8/da5/a24715.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
+    [ "lastChargeUsedTime", "d8/da5/a24715.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
 ];

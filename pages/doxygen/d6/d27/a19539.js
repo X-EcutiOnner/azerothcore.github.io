@@ -1,15 +1,14 @@
 var a19539 =
 [
-    [ "boss_magus_telestra", "d6/d27/a19539.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
-    [ "AttackStart", "d6/d27/a19539.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
-    [ "GetData", "d6/d27/a19539.html#a713f93edc709edabe003c305efdd709c", null ],
-    [ "JustDied", "d6/d27/a19539.html#ac69759755637749a58f712b86d3bf9ac", null ],
-    [ "JustEngagedWith", "d6/d27/a19539.html#a91b4569027b3414814bf1f2e86441fc6", null ],
-    [ "JustSummoned", "d6/d27/a19539.html#a1fc0f30287916d6606829987d29d9387", null ],
-    [ "KilledUnit", "d6/d27/a19539.html#a85b333905e5dcd34dbe001306924529a", null ],
-    [ "Reset", "d6/d27/a19539.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
-    [ "SpellHit", "d6/d27/a19539.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
-    [ "UpdateAI", "d6/d27/a19539.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
-    [ "achievement", "d6/d27/a19539.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ],
-    [ "copiesDied", "d6/d27/a19539.html#a5738bf62869f9958448213b28c1bf771", null ]
+    [ "boss_keristrasza", "d6/d27/a19539.html#a5f83fee9a5616751601f0c1155afab36", null ],
+    [ "CanRemovePrison", "d6/d27/a19539.html#a900a4a8428a04b880462b20196e94858", null ],
+    [ "GetData", "d6/d27/a19539.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
+    [ "JustDied", "d6/d27/a19539.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
+    [ "JustEngagedWith", "d6/d27/a19539.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
+    [ "KilledUnit", "d6/d27/a19539.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
+    [ "RemovePrison", "d6/d27/a19539.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
+    [ "Reset", "d6/d27/a19539.html#a13dce974fa83577397a80ff52de5d835", null ],
+    [ "SetData", "d6/d27/a19539.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
+    [ "UpdateAI", "d6/d27/a19539.html#a46a2e61e27cc72710c7aa14212673eae", null ],
+    [ "aGuids", "d6/d27/a19539.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
 ];

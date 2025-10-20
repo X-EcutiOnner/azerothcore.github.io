@@ -1,7 +1,6 @@
 var a22119 =
 [
-    [ "HandleScriptEffect", "d6/dbb/a22119.html#a8df8d5addea956e80ad0a30ff8f73050", null ],
-    [ "PrepareSpellScript", "d6/dbb/a22119.html#adf6593e47a5766c40e7e3859fce00f81", null ],
-    [ "Register", "d6/dbb/a22119.html#a6e3bbfb11816f72ae85efb4defb23ad7", null ],
-    [ "Validate", "d6/dbb/a22119.html#afdabca016ed5eae85a0bdb3fd9d695ec", null ]
+    [ "npc_ravenous_worgAI", "d9/d5e/a22123.html", "d9/d5e/a22123" ],
+    [ "npc_ravenous_worg", "d6/dbb/a22119.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
+    [ "GetAI", "d6/dbb/a22119.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
 ];

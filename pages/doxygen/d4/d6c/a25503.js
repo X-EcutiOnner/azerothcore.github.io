@@ -1,7 +1,7 @@
 var a25503 =
 [
-    [ "ModDest", "d4/d6c/a25503.html#afe0fb68de61a657ce6900e71973e4d77", null ],
-    [ "ModifyCookingSkill", "d4/d6c/a25503.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
-    [ "PrepareSpellScript", "d4/d6c/a25503.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
-    [ "Register", "d4/d6c/a25503.html#a6919079b43a816eb601a68c51ad39794", null ]
+    [ "HandleScript", "d4/d6c/a25503.html#a12f4c4a85f19ceb55d274428cf2b25a4", null ],
+    [ "PrepareSpellScript", "d4/d6c/a25503.html#acf1173670c35c84ae7aba29be00d31cf", null ],
+    [ "Register", "d4/d6c/a25503.html#a5a2c59463a0546b6f5cd375b3671b86b", null ],
+    [ "Validate", "d4/d6c/a25503.html#a437a018fd6917bee51bdbba7cf29e53d", null ]
 ];

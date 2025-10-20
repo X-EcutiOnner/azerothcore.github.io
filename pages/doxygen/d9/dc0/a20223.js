@@ -1,9 +1,6 @@
 var a20223 =
 [
-    [ "Absorb", "d9/dc0/a20223.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
-    [ "CalculateAmount", "d9/dc0/a20223.html#a9166627cbaa536405975444c4ef601de", null ],
-    [ "Load", "d9/dc0/a20223.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
-    [ "PrepareAuraScript", "d9/dc0/a20223.html#aa5793741c2f8179db68a9fb1222a9085", null ],
-    [ "Register", "d9/dc0/a20223.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
-    [ "_absorbPct", "d9/dc0/a20223.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
+    [ "boss_freyaAI", "de/d39/a20227.html", "de/d39/a20227" ],
+    [ "boss_freya", "d9/dc0/a20223.html#ae366f60526e7c948dee148cdd12f0752", null ],
+    [ "GetAI", "d9/dc0/a20223.html#a6a2f5b402e99208a535fc3f23c2a0eb3", null ]
 ];

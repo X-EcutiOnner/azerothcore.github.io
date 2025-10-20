@@ -1,6 +1,5 @@
 var a20295 =
 [
-    [ "boss_freya_healthy_sporeAI", "d6/d89/a20299.html", "d6/d89/a20299" ],
-    [ "boss_freya_healthy_spore", "d8/de0/a20295.html#a16633136393061aa98c7a98f535d421e", null ],
-    [ "GetAI", "d8/de0/a20295.html#ae76eb3b334f82c536f71fdcfc86e4382", null ]
+    [ "achievement_freya_getting_back_to_nature", "d8/de0/a20295.html#aa4078b573a9335fc52c9b9609590b12f", null ],
+    [ "OnCheck", "d8/de0/a20295.html#a850a32450379284784f019a5eb5ff0ff", null ]
 ];

@@ -1,6 +1,8 @@
 var a20323 =
 [
-    [ "achievement_freya_knock_on_wood", "de/dba/a20323.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
-    [ "OnCheck", "de/dba/a20323.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
-    [ "_elderCount", "de/dba/a20323.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
+    [ "npc_ulduar_saronite_animusAI", "de/dba/a20323.html#a2b94427feb24a7bda075b6a8f403433a", null ],
+    [ "JustDied", "de/dba/a20323.html#a30abcab01de3732bc5525864576615b0", null ],
+    [ "UpdateAI", "de/dba/a20323.html#a1490961adc8fc03ab28a992aff55b43b", null ],
+    [ "pInstance", "de/dba/a20323.html#a5d3b297355f286b0ad08ed38dbd5b0d2", null ],
+    [ "timer", "de/dba/a20323.html#a3d0345d4c503eb3f0e4acbe346f1c5e5", null ]
 ];

@@ -1,10 +1,8 @@
 var a05783 =
 [
-    [ "MySQLConnectionInfo", "d6/d37/a05783.html#ae60c54053d71eb9325df10701b1f42d3", null ],
-    [ "database", "d6/d37/a05783.html#a7e65a418ad668772e4ce1b298d92f10a", null ],
-    [ "host", "d6/d37/a05783.html#a2659372561aae5feb8da121984354ef3", null ],
-    [ "password", "d6/d37/a05783.html#af5a51bd38ce1d58f65444d69b0283966", null ],
-    [ "port_or_socket", "d6/d37/a05783.html#a37b89660afb3ee085e817836e9d1d01f", null ],
-    [ "ssl", "d6/d37/a05783.html#a90e5a934b4ec46e5783248a1a80a4830", null ],
-    [ "user", "d6/d37/a05783.html#a6bf4166ebb99ea30a3894e3d8833bde6", null ]
+    [ "Statements", "d6/d37/a05783.html#adaf49f7cb45d90cb041f979b1821e4a1", null ],
+    [ "WorldDatabaseConnection", "d6/d37/a05783.html#a0c03387d2c019c86d1fe4933eca6aae5", null ],
+    [ "WorldDatabaseConnection", "d6/d37/a05783.html#a015f79a049d37f742232bc5ac10e9551", null ],
+    [ "~WorldDatabaseConnection", "d6/d37/a05783.html#a2feafa80fe8e838587d8f7b641c0ab09", null ],
+    [ "DoPrepareStatements", "d6/d37/a05783.html#a280aa4a4571581c5cef8f9967631b484", null ]
 ];

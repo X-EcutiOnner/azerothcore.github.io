@@ -1,6 +1,7 @@
 var a12547 =
 [
-    [ "boss_baron_geddonAI", "da/ded/a12551.html", "da/ded/a12551" ],
-    [ "boss_baron_geddon", "d9/d5b/a12547.html#ad72caf30219b4295c0be4289b9d25498", null ],
-    [ "GetAI", "d9/d5b/a12547.html#a8f328680a5f99fb275cb0b3e8adf9c63", null ]
+    [ "HandleEffectScriptEffect", "d9/d5b/a12547.html#a8157c4b213b3b4e260222976e283e2ae", null ],
+    [ "PrepareSpellScript", "d9/d5b/a12547.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
+    [ "Register", "d9/d5b/a12547.html#aeda056b568b4956ba35b32a3f20c053e", null ],
+    [ "Validate", "d9/d5b/a12547.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
 ];

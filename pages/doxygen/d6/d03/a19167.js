@@ -1,6 +1,7 @@
 var a19167 =
 [
-    [ "boss_anubrekhanAI", "d1/d17/a19171.html", "d1/d17/a19171" ],
-    [ "boss_anubrekhan", "d6/d03/a19167.html#a6ff866300f8b0b58d4b7467def9747c0", null ],
-    [ "GetAI", "d6/d03/a19167.html#aba5c31f182d6f600302f84ed21e9f7e9", null ]
+    [ "HandleTriggerSpell", "d6/d03/a19167.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
+    [ "PrepareAuraScript", "d6/d03/a19167.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
+    [ "Register", "d6/d03/a19167.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
+    [ "Validate", "d6/d03/a19167.html#a813bad39641956fff697580f271416d2", null ]
 ];

@@ -1,6 +1,5 @@
 var a12375 =
 [
-    [ "npc_vaelastrasz_the_redAI", "d9/d86/a12379.html", "d9/d86/a12379" ],
-    [ "npc_vaelastrasz_the_red", "d8/d9e/a12375.html#af39fcaa29b200e3b7933f97de277df6b", null ],
-    [ "GetAI", "d8/d9e/a12375.html#a59e7630d5060986dc4209d2d2b5ef42b", null ]
+    [ "at_scarshield_infiltrator", "d8/d9e/a12375.html#a2d1df47353c9a7e0d506b7c54e7be58e", null ],
+    [ "OnTrigger", "d8/d9e/a12375.html#a607c3ee2bd4716cf1e0499e202d379fc", null ]
 ];

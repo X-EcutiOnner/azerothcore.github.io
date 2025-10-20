@@ -1,8 +1,10 @@
 var a14891 =
 [
-    [ "hyjalThrallAI", "de/dc7/a14891.html#a5bc01b52edeaac62e3a9c3e48f90feb2", null ],
-    [ "JustDied", "de/dc7/a14891.html#aa13cb18c91802ad402e5fd97ec78572a", null ],
-    [ "JustEngagedWith", "de/dc7/a14891.html#a96706138634275ae7639c14f53cdd842", null ],
-    [ "Reset", "de/dc7/a14891.html#a6a341bfcc9d697dde64584a5a0231d73", null ],
-    [ "UpdateAI", "de/dc7/a14891.html#a57046716d7c45a5fa4e203d73c4a7b87", null ]
+    [ "hyjalJainaAI", "de/dc7/a14891.html#aa7532b691e85fd9bd467e20db39c59da", null ],
+    [ "IsSummonedBy", "de/dc7/a14891.html#a5003e3a1ccb955b209c1ab91a49d217f", null ],
+    [ "JustDied", "de/dc7/a14891.html#a605687080e5149b3f08ce8349ba9b336", null ],
+    [ "JustEngagedWith", "de/dc7/a14891.html#a187efe775b1e2a35637638507e77352e", null ],
+    [ "PathEndReached", "de/dc7/a14891.html#a0f7dd1512694d284c1f83b3403c421e6", null ],
+    [ "Reset", "de/dc7/a14891.html#a585baff53f5d57ca0dc9002181e8d2bc", null ],
+    [ "UpdateAI", "de/dc7/a14891.html#ac86fb8a5a55654ff7697abd9162135c1", null ]
 ];

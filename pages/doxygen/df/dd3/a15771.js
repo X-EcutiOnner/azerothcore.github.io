@@ -1,6 +1,6 @@
 var a15771 =
 [
-    [ "npc_anachronos_quest_triggerAI", "df/d47/a15775.html", "df/d47/a15775" ],
-    [ "npc_anachronos_quest_trigger", "df/dd3/a15771.html#ad39871952acd3152b51820fe360f4ebd", null ],
-    [ "GetAI", "df/dd3/a15771.html#a2e0e6a69ed1cbed76db9c4bd64d51330", null ]
+    [ "npc_qiraj_war_spawnAI", "df/d47/a15775.html", "df/d47/a15775" ],
+    [ "npc_qiraj_war_spawn", "df/dd3/a15771.html#a2afba33e9fd879ac3fea206768b14334", null ],
+    [ "GetAI", "df/dd3/a15771.html#a32339f20251c188b895c02b6cc9217e9", null ]
 ];

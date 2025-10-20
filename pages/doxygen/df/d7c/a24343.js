@@ -1,7 +1,7 @@
 var a24343 =
 [
-    [ "npc_bessyAI", "d0/db6/a24347.html", "d0/db6/a24347" ],
-    [ "npc_bessy", "df/d7c/a24343.html#a08278c1524445054ca158433044a0824", null ],
-    [ "GetAI", "df/d7c/a24343.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
-    [ "OnQuestAccept", "df/d7c/a24343.html#a98b8e816195b81bab12cc9906df79807", null ]
+    [ "CheckRequirement", "df/d7c/a24343.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
+    [ "PrepareSpellScript", "df/d7c/a24343.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
+    [ "Register", "df/d7c/a24343.html#a25f275e84570f674071bfae03aeb0ddc", null ],
+    [ "Validate", "df/d7c/a24343.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
 ];

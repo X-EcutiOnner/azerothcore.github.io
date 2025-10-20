@@ -1,6 +1,8 @@
 var a13099 =
 [
-    [ "CheckRequirement", "de/d1c/a13099.html#a31d69034f463d552afa4063bf89271da", null ],
-    [ "PrepareSpellScript", "de/d1c/a13099.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
-    [ "Register", "de/d1c/a13099.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
+    [ "npc_death_knight_initiateAI", "d8/d77/a13103.html", "d8/d77/a13103" ],
+    [ "npc_death_knight_initiate", "de/d1c/a13099.html#a0c1b552035bed7be9af1fbdf8205b4b6", null ],
+    [ "GetAI", "de/d1c/a13099.html#ac38e0ed0ea1eac8e0de6f08664cb095a", null ],
+    [ "OnGossipHello", "de/d1c/a13099.html#a24f1b91ad0a69e4468e812747225d303", null ],
+    [ "OnGossipSelect", "de/d1c/a13099.html#ab0712bc84003b5eb72f11b49ef6e57a7", null ]
 ];

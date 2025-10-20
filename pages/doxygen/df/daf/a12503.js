@@ -1,6 +1,7 @@
 var a12503 =
 [
-    [ "boss_razorgoreAI", "df/d1b/a12507.html", "df/d1b/a12507" ],
-    [ "boss_razorgore", "df/daf/a12503.html#aee534a04797c5938e6da00f2ab119943", null ],
-    [ "GetAI", "df/daf/a12503.html#a4683a5deefdb9d3219638189e9a99c2a", null ]
+    [ "HandleDummy", "df/daf/a12503.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
+    [ "PrepareSpellScript", "df/daf/a12503.html#ad07165f81a7f407c716f90691ecb9817", null ],
+    [ "Register", "df/daf/a12503.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
+    [ "Validate", "df/daf/a12503.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
 ];

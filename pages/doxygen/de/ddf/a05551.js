@@ -1,7 +1,7 @@
 var a05551 =
 [
-    [ "EnumText", "de/ddf/a05551.html#a8eaf5ce52dcc9fd44476f9add1140e0d", null ],
-    [ "Constant", "de/ddf/a05551.html#a020a7ebf3b1ee476d5f7ee605f43525d", null ],
-    [ "Description", "de/ddf/a05551.html#ab08504e4ec70c5495f5a45856f2e6976", null ],
-    [ "Title", "de/ddf/a05551.html#a7326575ea4083e28ac62556526a092a4", null ]
+    [ "~SignalHandler", "de/ddf/a05551.html#a9c515cb60b156629c43d1a6fce81d58e", null ],
+    [ "handle_signal", "de/ddf/a05551.html#a56782d1718cb243bb5b0c6dc2d100042", null ],
+    [ "_handled", "de/ddf/a05551.html#a21b208a696ed4a320a7cf312006a787f", null ],
+    [ "_mutex", "de/ddf/a05551.html#a0c4d6ba642dd3877c3333b067db22db6", null ]
 ];

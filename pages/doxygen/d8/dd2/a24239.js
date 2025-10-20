@@ -1,7 +1,6 @@
 var a24239 =
 [
-    [ "HandleEffect", "d8/dd2/a24239.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
-    [ "PrepareSpellScript", "d8/dd2/a24239.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
-    [ "Register", "d8/dd2/a24239.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
-    [ "Validate", "d8/dd2/a24239.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
+    [ "npc_wounded_blood_elfAI", "d7/d3b/a24243.html", "d7/d3b/a24243" ],
+    [ "npc_wounded_blood_elf", "d8/dd2/a24239.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
+    [ "GetAI", "d8/dd2/a24239.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
 ];

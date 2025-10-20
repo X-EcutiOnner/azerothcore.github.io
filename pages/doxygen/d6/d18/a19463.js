@@ -1,6 +1,6 @@
 var a19463 =
 [
-    [ "npc_scion_of_eternityAI", "df/de7/a19467.html", "df/de7/a19467" ],
-    [ "npc_scion_of_eternity", "d6/d18/a19463.html#ac1d66d65b5d4468b908443a64dc2de1c", null ],
-    [ "GetAI", "d6/d18/a19463.html#a7c27a55f177fb9e31f73fa1cb227fa27", null ]
+    [ "npc_nexus_lordAI", "df/de7/a19467.html", "df/de7/a19467" ],
+    [ "npc_nexus_lord", "d6/d18/a19463.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
+    [ "GetAI", "d6/d18/a19463.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
 ];

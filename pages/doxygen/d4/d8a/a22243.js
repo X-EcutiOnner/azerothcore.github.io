@@ -1,7 +1,7 @@
 var a22243 =
 [
-    [ "npc_Apothecary_HanesAI", "de/d08/a22247.html", "de/d08/a22247" ],
-    [ "npc_apothecary_hanes", "d4/d8a/a22243.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
-    [ "GetAI", "d4/d8a/a22243.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
-    [ "OnQuestAccept", "d4/d8a/a22243.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
+    [ "HandleScriptEffect", "d4/d8a/a22243.html#a7b0fca053f225beda41942d8fee86383", null ],
+    [ "PrepareSpellScript", "d4/d8a/a22243.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
+    [ "Register", "d4/d8a/a22243.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
+    [ "Validate", "d4/d8a/a22243.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
 ];

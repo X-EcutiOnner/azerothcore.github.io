@@ -1,6 +1,5 @@
 var a25583 =
 [
-    [ "HandleScript", "d8/ddf/a25583.html#a5a30dc1dad5b51af02043bd85c486a68", null ],
-    [ "PrepareSpellScript", "d8/ddf/a25583.html#a16c358062cee300e4c54f046a6c1accf", null ],
-    [ "Register", "d8/ddf/a25583.html#a1f53f1345c418f82c6d140cf6cf80b3c", null ]
+    [ "PrepareSpellScript", "d8/ddf/a25583.html#a939db3d626f3451edd605ced6d9b2ebe", null ],
+    [ "Register", "d8/ddf/a25583.html#a5b356ca08e33c8eb127bec763f105792", null ]
 ];

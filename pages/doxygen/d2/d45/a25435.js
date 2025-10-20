@@ -1,7 +1,7 @@
 var a25435 =
 [
-    [ "HandleScript", "d2/d45/a25435.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
-    [ "PrepareSpellScript", "d2/d45/a25435.html#a7909f23da8385abdabb62e5196d88d38", null ],
-    [ "Register", "d2/d45/a25435.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
-    [ "Validate", "d2/d45/a25435.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
+    [ "HandleEffectPeriodic", "d2/d45/a25435.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
+    [ "PrepareAuraScript", "d2/d45/a25435.html#affc698127fe0656df25bd094c02a7e50", null ],
+    [ "Register", "d2/d45/a25435.html#a4707bfaeb86b3540920a6772e1726e26", null ],
+    [ "Validate", "d2/d45/a25435.html#aef839f163d7e623a54b163e1c27542cd", null ]
 ];

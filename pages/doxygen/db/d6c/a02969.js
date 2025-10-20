@@ -1,11 +1,11 @@
 var a02969 =
 [
-    [ "boss_toravon", "d2/dbe/a21487.html", "d2/dbe/a21487" ],
-    [ "boss_toravon::boss_toravonAI", "d0/d11/a21491.html", "d0/d11/a21491" ],
-    [ "npc_frozen_orb", "dd/d4b/a21495.html", "dd/d4b/a21495" ],
-    [ "npc_frozen_orb::npc_frozen_orbAI", "d5/d08/a21499.html", "d5/d08/a21499" ],
-    [ "npc_frozen_orb_stalker", "da/d84/a21503.html", "da/d84/a21503" ],
-    [ "npc_frozen_orb_stalker::npc_frozen_orb_stalkerAI", "d4/d14/a21507.html", "d4/d14/a21507" ],
+    [ "boss_toravon", "d2/dbb/a21463.html", "d2/dbb/a21463" ],
+    [ "boss_toravon::boss_toravonAI", "d5/d01/a21467.html", "d5/d01/a21467" ],
+    [ "npc_frozen_orb", "d3/d8f/a21471.html", "d3/d8f/a21471" ],
+    [ "npc_frozen_orb::npc_frozen_orbAI", "d9/d6f/a21475.html", "d9/d6f/a21475" ],
+    [ "npc_frozen_orb_stalker", "d7/d0f/a21479.html", "d7/d0f/a21479" ],
+    [ "npc_frozen_orb_stalker::npc_frozen_orb_stalkerAI", "d5/d36/a21483.html", "d5/d36/a21483" ],
     [ "Events", "db/d6c/a02969.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

@@ -121,6 +121,7 @@ var a09867 =
     [ "GetOrGenerateZoneDefaultWeather", "dc/d66/a09867.html#a3f3a641105363e3a4d65c1cd58fc723a", null ],
     [ "GetParent", "dc/d66/a09867.html#a60889ddef0f3a883ec1542b5e43d6e46", null ],
     [ "GetPet", "dc/d66/a09867.html#a1b9c114a6c729559925a9703391b8859", null ],
+    [ "GetPlayerCountInZone", "dc/d66/a09867.html#ac5220af343d506037b56fbc5861ae027", null ],
     [ "GetPlayers", "dc/d66/a09867.html#ae37764185b1adf2c6438025e4fa9091a", null ],
     [ "GetPlayersCountExceptGMs", "dc/d66/a09867.html#abdac644dc3c8b30989d16efe624c8894", null ],
     [ "GetSpawnMode", "dc/d66/a09867.html#a43b5bdb50f8e3d9b9305475f62872d6c", null ],

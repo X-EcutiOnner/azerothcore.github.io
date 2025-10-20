@@ -1,6 +1,6 @@
 var a16543 =
 [
-    [ "npc_swarm_scarabAI", "d7/d8e/a16547.html", "d7/d8e/a16547" ],
-    [ "npc_swarm_scarab", "d3/d1c/a16543.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
-    [ "GetAI", "d3/d1c/a16543.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
+    [ "boss_anubarak_trialAI", "d7/d8e/a16547.html", "d7/d8e/a16547" ],
+    [ "boss_anubarak_trial", "d3/d1c/a16543.html#a5204e33a412608b53cc155a043356d58", null ],
+    [ "GetAI", "d3/d1c/a16543.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
 ];

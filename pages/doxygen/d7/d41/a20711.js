@@ -1,6 +1,5 @@
 var a20711 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "d5/d12/a20715.html", "d5/d12/a20715" ],
-    [ "npc_ulduar_emergency_fire_bot", "d7/d41/a20711.html#a1adc05ac4602ab2b297b18f605bfd2cd", null ],
-    [ "GetAI", "d7/d41/a20711.html#afb3ab952495175c5f571d4e39a5acea4", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_12", "d7/d41/a20711.html#adc7f5769894c59710fa70604878b1e2c", null ],
+    [ "OnCheck", "d7/d41/a20711.html#ad604fa41b8c8d34b996dbdc709faac66", null ]
 ];

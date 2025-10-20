@@ -1,5 +1,5 @@
 var a14199 =
 [
-    [ "at_zulgurub_temple_speech", "d3/ddc/a14199.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
-    [ "_OnTrigger", "d3/ddc/a14199.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
+    [ "at_zulgurub_entrance_speech", "d3/ddc/a14199.html#afef11c6a7e97befd07072826fa13be55", null ],
+    [ "_OnTrigger", "d3/ddc/a14199.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
 ];

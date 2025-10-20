@@ -1,4 +1,4 @@
 var a04682 =
 [
-    [ "EventEmitter< Signature >", "d0/d2f/a05507.html", "d0/d2f/a05507" ]
+    [ "EventEmitter< Signature >", "d4/da8/a05511.html", "d4/da8/a05511" ]
 ];

@@ -1,11 +1,5 @@
 var a05915 =
 [
-    [ "SQLOperation", "d1/d77/a05915.html#a0f69657715b7d24458227b22a3b40b1a", null ],
-    [ "~SQLOperation", "d1/d77/a05915.html#afa21cafba57dd35ed2b132ef3d18c71b", null ],
-    [ "SQLOperation", "d1/d77/a05915.html#a91b34b81ed99ca0da54d825fec98ab6e", null ],
-    [ "call", "d1/d77/a05915.html#ae56c06a313c4be5d0e45f5481996f1d1", null ],
-    [ "Execute", "d1/d77/a05915.html#aff1090554bc4a6fe7a33270e63416e19", null ],
-    [ "operator=", "d1/d77/a05915.html#ac31349ed45ea051540ac345bd4b814d5", null ],
-    [ "SetConnection", "d1/d77/a05915.html#a52cbd1d9b8a298ab3eade0010b5e3166", null ],
-    [ "m_conn", "d1/d77/a05915.html#adf322db48064fcf4528f713f857f1b40", null ]
+    [ "element", "d1/d77/a05915.html#ae5400b2932fe1a8c514c38fb6bab392f", null ],
+    [ "type", "d1/d77/a05915.html#afb3f8dc82da740b1aaae165cb6a5b218", null ]
 ];

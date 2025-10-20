@@ -1,12 +1,9 @@
 var a20655 =
 [
-    [ "npc_ulduar_proximity_mineAI", "d5/df7/a20655.html#aa3001a71c8a298be688631d618745495", null ],
-    [ "AttackStart", "d5/df7/a20655.html#afe5572c8fd1f8acc64ca57304d8be254", null ],
-    [ "CanAIAttack", "d5/df7/a20655.html#a0216f41bf596eb43a9b9eea13152d262", null ],
-    [ "MoveInLineOfSight", "d5/df7/a20655.html#afe07e3cd341d6a84592ab9b33e02d6d5", null ],
-    [ "SpellHitTarget", "d5/df7/a20655.html#aaf6c9c8843a61d29326ab6c662b174f9", null ],
-    [ "UpdateAI", "d5/df7/a20655.html#adadc4c33ff356bd5eed6d82115dc888a", null ],
-    [ "exploded", "d5/df7/a20655.html#a1706ff0cfd7192040c32f13a37610c43", null ],
-    [ "timer", "d5/df7/a20655.html#a4c743646055b4c95bf379a751eb5892e", null ],
-    [ "timer2", "d5/df7/a20655.html#a446b7658fa4c165f43947a05562827b2", null ]
+    [ "npc_ulduar_bot_summon_triggerAI", "d5/df7/a20655.html#a60e0706b9285cdf4b25b6f399cad18e9", null ],
+    [ "DoAction", "d5/df7/a20655.html#ac5d0e28ee330741da3b287d965537f39", null ],
+    [ "Reset", "d5/df7/a20655.html#a91207c04ecee6fc0e906133e054bf51b", null ],
+    [ "UpdateAI", "d5/df7/a20655.html#aebec433e806d4f63f5593db0301612b4", null ],
+    [ "option", "d5/df7/a20655.html#a98bb19fea19a05127b4b32df039acf05", null ],
+    [ "timer", "d5/df7/a20655.html#a118d048557b0ed314180299c3cd2bcbc", null ]
 ];

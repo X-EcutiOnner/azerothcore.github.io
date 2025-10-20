@@ -1,7 +1,8 @@
 var a18767 =
 [
-    [ "PeriodicTick", "d1/d90/a18767.html#ac1bace4fc66349364c84b5784967e9bf", null ],
-    [ "PrepareAuraScript", "d1/d90/a18767.html#a358193e3340112c04f79c043548c3de0", null ],
-    [ "Register", "d1/d90/a18767.html#a28f52bc253899aa407e67f9a089c815c", null ],
-    [ "Validate", "d1/d90/a18767.html#a0dde3447e38e45cea94df44449a19a01", null ]
+    [ "DecayPeriodicTimer", "d1/d90/a18767.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "d1/d90/a18767.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "d1/d90/a18767.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "d1/d90/a18767.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "d1/d90/a18767.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

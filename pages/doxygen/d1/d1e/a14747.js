@@ -1,7 +1,16 @@
 var a14747 =
 [
-    [ "GetVisualThrow", "d1/d1e/a14747.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
-    [ "HandleDummy", "d1/d1e/a14747.html#adca1aacf89dcf452f1c98cae97f09690", null ],
-    [ "PrepareSpellScript", "d1/d1e/a14747.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
-    [ "Register", "d1/d1e/a14747.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
+    [ "npc_pilgrims_bounty_chair", "d1/d1e/a14747.html#a896c9efee388d7cb5d6dc82e7c537021", null ],
+    [ "AttackStart", "d1/d1e/a14747.html#ad2ed9436e8c6d3afa4ac747b925e66a4", null ],
+    [ "DamageTaken", "d1/d1e/a14747.html#a29b012b8fc4e7cb30072b2c4a935dd3a", null ],
+    [ "DoAction", "d1/d1e/a14747.html#a8a7c49f28df937e90dbaa83be85b595e", null ],
+    [ "GetPlate", "d1/d1e/a14747.html#ad3cbb85577ca0f7b596d1882c71f2371", null ],
+    [ "MoveInLineOfSight", "d1/d1e/a14747.html#aa44fc14f98ac00cfe098516963cc3c8b", null ],
+    [ "PassengerBoarded", "d1/d1e/a14747.html#a9a43ccc98f2e184f709b1af6992acea8", null ],
+    [ "SpellHit", "d1/d1e/a14747.html#a681323ae3100f46dd0aba595159d7daf", null ],
+    [ "SpellHitTarget", "d1/d1e/a14747.html#affd51da83859b962977ed6b51c74d01e", null ],
+    [ "UpdateAI", "d1/d1e/a14747.html#aebe6eb7aca62faece6dfb6dff27d775e", null ],
+    [ "plateGUID", "d1/d1e/a14747.html#a23b35fee8255073c7b94d7bac54d9b22", null ],
+    [ "timerRotateChair", "d1/d1e/a14747.html#a2b9c9bc4d9f4abc53dc717ab3aa9865e", null ],
+    [ "timerSpawnPlate", "d1/d1e/a14747.html#a907cb3d22f4e0daf92dada09fdc16b94", null ]
 ];

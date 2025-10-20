@@ -1,10 +1,5 @@
 var a23167 =
 [
-    [ "CalculateAmount", "d4/dc6/a23167.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
-    [ "CheckProc", "d4/dc6/a23167.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
-    [ "HandleProc", "d4/dc6/a23167.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
-    [ "PrepareAuraScript", "d4/dc6/a23167.html#a6e066884663276dbba82e46ca5f66e59", null ],
-    [ "Register", "d4/dc6/a23167.html#ac4154f0746e77229e8d349021d5b9c30", null ],
-    [ "Update", "d4/dc6/a23167.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
-    [ "Validate", "d4/dc6/a23167.html#a4f10d23f63c47b408b70373623b877a8", null ]
+    [ "npc_ashtongue_sorcerer", "d4/dc6/a23167.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
+    [ "MovementInform", "d4/dc6/a23167.html#a56fa93f83e8a536b13667c8f780961b7", null ]
 ];

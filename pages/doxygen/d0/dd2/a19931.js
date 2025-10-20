@@ -1,8 +1,9 @@
 var a19931 =
 [
-    [ "go_celestial_planetarium_accessAI", "d0/dd2/a19931.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
-    [ "GossipHello", "d0/dd2/a19931.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
-    [ "UpdateAI", "d0/dd2/a19931.html#a9b2bfb74a12e3258476387fc78cde574", null ],
-    [ "_locked", "d0/dd2/a19931.html#a37f83dbbb05e461d613a4c38001f785c", null ],
-    [ "events", "d0/dd2/a19931.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
+    [ "CheckTargets", "d0/dd2/a19931.html#a9340c167ef70508635092e273c23dcde", null ],
+    [ "CountTargets", "d0/dd2/a19931.html#a996db37b678143fbc0a392032d29fff5", null ],
+    [ "Load", "d0/dd2/a19931.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
+    [ "PrepareSpellScript", "d0/dd2/a19931.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
+    [ "Register", "d0/dd2/a19931.html#aed312a4408134589fd02bbcb844fd1b7", null ],
+    [ "_targetCount", "d0/dd2/a19931.html#ac780614674e748274081f9f99a5165fe", null ]
 ];

@@ -1,7 +1,6 @@
 var a25071 =
 [
-    [ "CheckRequirement", "dd/d72/a25071.html#a6be5f335a15226db87a04548490f488d", null ],
-    [ "PrepareSpellScript", "dd/d72/a25071.html#a25463eda0ce51a124e8715baf305c8f6", null ],
-    [ "Register", "dd/d72/a25071.html#a8db5a5597d8f6fe4064799766fb61502", null ],
-    [ "_level", "dd/d72/a25071.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
+    [ "CheckAreaTarget", "dd/d72/a25071.html#a545323b9964ee4cb3c8d054fac4e2d55", null ],
+    [ "PrepareAuraScript", "dd/d72/a25071.html#a2b6dbd33e34357917f662000a1cd932f", null ],
+    [ "Register", "dd/d72/a25071.html#a7b4a2301b3a608ea5b2dd2504e02741d", null ]
 ];

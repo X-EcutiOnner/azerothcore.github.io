@@ -1,8 +1,12 @@
 var a26891 =
 [
-    [ "HandleRootRemove", "d1/daf/a26891.html#a9678ce2254825b67eb7a16312e960ba9", null ],
-    [ "HandleSnareRemove", "d1/daf/a26891.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
-    [ "PrepareSpellScript", "d1/daf/a26891.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
-    [ "Register", "d1/daf/a26891.html#a119675dccea898932ca090577022b6ba", null ],
-    [ "Validate", "d1/daf/a26891.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
+    [ "CalcPeriodic", "d1/daf/a26891.html#a35d58947074659d2692877dfcf13e4bd", null ],
+    [ "CalculateAPAmount", "d1/daf/a26891.html#ac72434a046c28a4887971cf83d574a6e", null ],
+    [ "CalculateResistanceAmount", "d1/daf/a26891.html#a82067899470366c2cbf21bba08061ce1", null ],
+    [ "CalculateSPAmount", "d1/daf/a26891.html#a527213b389be9b1953f423ae84eb16ee", null ],
+    [ "CalculateStatAmount", "d1/daf/a26891.html#ad7185292820feb168565648133c9e2cc", null ],
+    [ "HandleEffectApply", "d1/daf/a26891.html#aa333430da4cf3303822d5f048cb9d5a4", null ],
+    [ "HandlePeriodic", "d1/daf/a26891.html#ae2bca6c841d1ba02a8a39b1a2179ac97", null ],
+    [ "PrepareAuraScript", "d1/daf/a26891.html#a671a588ae36323c11b33a45d652290de", null ],
+    [ "Register", "d1/daf/a26891.html#a8aae94d6d6a9ec1fa7d47f88874cce4f", null ]
 ];

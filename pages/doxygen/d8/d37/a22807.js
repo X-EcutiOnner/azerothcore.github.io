@@ -1,14 +1,12 @@
 var a22807 =
 [
-    [ "event_enter", "d8/d37/a22807.html#ac80d575f14dca1c901be55e34cc690e1", null ],
-    [ "event_leave", "d8/d37/a22807.html#a3dc0a11a5c06079026d27852e7561b74", null ],
-    [ "map_tower_a", "d8/d37/a22807.html#a9a65209caac3791b835c1920f5a667cf", null ],
-    [ "map_tower_h", "d8/d37/a22807.html#aa30ae484db7c69137abb13adb1b3c505", null ],
-    [ "map_tower_n", "d8/d37/a22807.html#a0453edceab2132e900bec183e360e210", null ],
-    [ "slider_disp", "d8/d37/a22807.html#aec3c8dde769675e3f436515c7a3bcf24", null ],
-    [ "slider_n", "d8/d37/a22807.html#a65015a3a24a5554643ecb5da47e24eea", null ],
-    [ "slider_pos", "d8/d37/a22807.html#acc63481f7613242ac06c6bee6c136a30", null ],
-    [ "ui_tower_a", "d8/d37/a22807.html#a0107bfd3b1df99568e02d6ca80042c86", null ],
-    [ "ui_tower_h", "d8/d37/a22807.html#a94a5fa0517fd0713b74f50a3d1d627cc", null ],
-    [ "ui_tower_n", "d8/d37/a22807.html#ae0fd99db88e6c60b829a18ff8e4be9a0", null ]
+    [ "boss_shirrak_the_dead_watcher", "d8/d37/a22807.html#aaa6826de3b6563342b89544b38386d93", null ],
+    [ "EnterEvadeMode", "d8/d37/a22807.html#a23768629c4ab48954880c3c29099f432", null ],
+    [ "getStackCount", "d8/d37/a22807.html#aabca8240dfdc6603f0c244286a4d2cfe", null ],
+    [ "JustEngagedWith", "d8/d37/a22807.html#a095ce3401bf0e40255e3104c01ce5fb0", null ],
+    [ "JustSummoned", "d8/d37/a22807.html#a0a8e0d5126d14bd6d15004320b311f36", null ],
+    [ "Reset", "d8/d37/a22807.html#aa16810aeadfac21c53a28ffbca3babdc", null ],
+    [ "SpellHitTarget", "d8/d37/a22807.html#a7cb51a74e53dd6a22a3dbfe4e2220d37", null ],
+    [ "UpdateAI", "d8/d37/a22807.html#a855505f949f53f979187abcb5b2f617f", null ],
+    [ "focusGUID", "d8/d37/a22807.html#a81a7eade42ef595c173d7828ce59ef88", null ]
 ];

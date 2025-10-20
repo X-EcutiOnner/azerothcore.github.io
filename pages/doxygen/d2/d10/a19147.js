@@ -1,7 +1,6 @@
 var a19147 =
 [
-    [ "OnRemove", "d2/d10/a19147.html#a4e6a66934a01d01c50208459f6771353", null ],
-    [ "PrepareAuraScript", "d2/d10/a19147.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
-    [ "Register", "d2/d10/a19147.html#a4890d35f2b0889156a437c95e49f528c", null ],
-    [ "Validate", "d2/d10/a19147.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
+    [ "boss_isle_of_conquestAI", "d4/d11/a19151.html", "d4/d11/a19151" ],
+    [ "boss_isle_of_conquest", "d2/d10/a19147.html#ad4052d1b6865585d32016e1240449659", null ],
+    [ "GetAI", "d2/d10/a19147.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
 ];

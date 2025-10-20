@@ -1,5 +1,6 @@
 var a15291 =
 [
-    [ "boss_kri", "db/d98/a15291.html#a0a95f8d2a380ab48ffd5a034e012cc2c", null ],
-    [ "JustEngagedWith", "db/d98/a15291.html#ab2169ec49ecbff2ee1460e38bd1a163e", null ]
+    [ "HandleScript", "db/d98/a15291.html#a88551ffd3dbe4fb9cc122a68813234f0", null ],
+    [ "PrepareSpellScript", "db/d98/a15291.html#ae4d8cad1b5de248a30085142fcc2cc7b", null ],
+    [ "Register", "db/d98/a15291.html#a434f0aef7f32edb6990efb992e4d57af", null ]
 ];

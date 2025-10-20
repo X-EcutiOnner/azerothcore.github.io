@@ -1,13 +1,13 @@
 var a19579 =
 [
-    [ "boss_drakosAI", "d7/db6/a19579.html#a75d771095897081457353be898b332c3", null ],
-    [ "JustDied", "d7/db6/a19579.html#a7235760bd407f49802bc9e26e8f3f22c", null ],
-    [ "JustEngagedWith", "d7/db6/a19579.html#a4bc15075d9e9a913783da482a7a167c7", null ],
-    [ "JustSummoned", "d7/db6/a19579.html#a06e21c4e5bd1a882ada074b9595d4088", null ],
-    [ "KilledUnit", "d7/db6/a19579.html#a4bd3e45b45660311d7510f58a1850648", null ],
-    [ "MoveInLineOfSight", "d7/db6/a19579.html#a10b2ca39887e906e6e1e33df82afc1da", null ],
-    [ "Reset", "d7/db6/a19579.html#a6fd78f4f45b9f2104acc481fb0f2763f", null ],
-    [ "UpdateAI", "d7/db6/a19579.html#abf761c7cda4031c31354d8c8d42963e0", null ],
-    [ "events", "d7/db6/a19579.html#ae86ad4fcc57cc1137411c881355f2f51", null ],
-    [ "pInstance", "d7/db6/a19579.html#adc9461ae5334634a9140f338547688b4", null ]
+    [ "npc_crystalline_frayer", "d7/db6/a19579.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
+    [ "DamageTaken", "d7/db6/a19579.html#a2580575a58353e8cb94561bafd74f502", null ],
+    [ "EnterEvadeMode", "d7/db6/a19579.html#a9240adcfe966f11c925db82add432aa5", null ],
+    [ "JustEngagedWith", "d7/db6/a19579.html#a91e8c4015b9b238fd2144999bcef9362", null ],
+    [ "Reset", "d7/db6/a19579.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
+    [ "UpdateAI", "d7/db6/a19579.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
+    [ "_allowDeath", "d7/db6/a19579.html#adc85054030146067d2cff47db2886a07", null ],
+    [ "abilityTimer1", "d7/db6/a19579.html#ae4a140cd9fccecea24982d7aa90c6bf0", null ],
+    [ "abilityTimer2", "d7/db6/a19579.html#a6d2bf3e1cc05860eb6a7706102438f32", null ],
+    [ "restoreTimer", "d7/db6/a19579.html#a5ab2990b41f485417af6272194035fc3", null ]
 ];

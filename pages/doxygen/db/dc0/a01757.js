@@ -6,5 +6,7 @@ var a01757 =
     [ "WorldPackets::Pet::PetSpellAutocast", "d0/d76/a11051.html", "d0/d76/a11051" ],
     [ "WorldPackets::Pet::PetLearnedSpell", "d2/d03/a11055.html", "d2/d03/a11055" ],
     [ "WorldPackets::Pet::PetUnlearnedSpell", "dd/d2f/a11059.html", "dd/d2f/a11059" ],
-    [ "WorldPackets::Pet::RequestPetInfo", "d7/d42/a11063.html", "d7/d42/a11063" ]
+    [ "WorldPackets::Pet::RequestPetInfo", "d7/d42/a11063.html", "d7/d42/a11063" ],
+    [ "WorldPackets::Pet::PetActionSound", "d8/d6e/a11067.html", "d8/d6e/a11067" ],
+    [ "WorldPackets::Pet::PetDismissSound", "d3/d6e/a11071.html", "d3/d6e/a11071" ]
 ];

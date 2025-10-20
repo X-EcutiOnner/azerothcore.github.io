@@ -1,8 +1,10 @@
 var a23019 =
 [
-    [ "Load", "db/d93/a23019.html#a038301fbb547469574efff88455be663", null ],
-    [ "OnPeriodic", "db/d93/a23019.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
-    [ "PrepareAuraScript", "db/d93/a23019.html#a386df1300e6a99b02efd13ef4968e99a", null ],
-    [ "Register", "db/d93/a23019.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
-    [ "Validate", "db/d93/a23019.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
+    [ "boss_illidari_council", "db/d93/a23019.html#a078c36be39b377f6d1cdbf061d70270d", null ],
+    [ "AttackStart", "db/d93/a23019.html#a260b15ec58164f17543aa044a89875a8", null ],
+    [ "DamageTaken", "db/d93/a23019.html#af8e88c307efaba392cc2a1d2f3862078", null ],
+    [ "DoAction", "db/d93/a23019.html#a6c3c57523ed2775ba553af1171b46463", null ],
+    [ "EnterEvadeMode", "db/d93/a23019.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
+    [ "MoveInLineOfSight", "db/d93/a23019.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
+    [ "UpdateAI", "db/d93/a23019.html#a8b30df956aa4ce1727756f1d19e151be", null ]
 ];

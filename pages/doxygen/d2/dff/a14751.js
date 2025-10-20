@@ -1,6 +1,5 @@
 var a14751 =
 [
-    [ "HandleDummy", "d2/dff/a14751.html#aa75140309e66c28590a64e10676356da", null ],
-    [ "PrepareSpellScript", "d2/dff/a14751.html#a21c4872e16c18c2918dfbea366e61df3", null ],
-    [ "Register", "d2/dff/a14751.html#a841c9277224cbae878946deb288b87a1", null ]
+    [ "npc_pilgrims_bounty_plate", "d2/dff/a14751.html#ac0217b8fb3a0fbf418ce2d3ca286f2eb", null ],
+    [ "SpellHit", "d2/dff/a14751.html#a7797b7a532336542ef37f0643df8dec0", null ]
 ];

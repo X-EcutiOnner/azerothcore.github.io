@@ -1,6 +1,8 @@
 var a22683 =
 [
-    [ "npc_captured_rageclawAI", "df/d3b/a22683.html#a5bb483a323330b0895f87c5381d73314", null ],
-    [ "Reset", "df/d3b/a22683.html#a9cde0a0e5015334ec8dcd277fcd99dc3", null ],
-    [ "SpellHit", "df/d3b/a22683.html#a2c63911d27435a2271a7c89d9d88318c", null ]
+    [ "HandleApply", "df/d3b/a22683.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
+    [ "HandleRemove", "df/d3b/a22683.html#a06c7c65d973fcf348f5c929503902520", null ],
+    [ "PrepareAuraScript", "df/d3b/a22683.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
+    [ "Register", "df/d3b/a22683.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
+    [ "Validate", "df/d3b/a22683.html#a8135c492638557eec71189282e7f78a2", null ]
 ];

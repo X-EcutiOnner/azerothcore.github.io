@@ -1,5 +1,6 @@
 var a12351 =
 [
-    [ "at_dragonspire_hall", "da/d2c/a12351.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
-    [ "OnTrigger", "da/d2c/a12351.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
+    [ "instance_blackrock_spireMapScript", "d1/dc9/a12355.html", "d1/dc9/a12355" ],
+    [ "instance_blackrock_spire", "da/d2c/a12351.html#a3238be88efcdc9669e7e6a1d725649b3", null ],
+    [ "GetInstanceScript", "da/d2c/a12351.html#a5ee2cc38a36ce2cd8c1196ce9f687e2a", null ]
 ];

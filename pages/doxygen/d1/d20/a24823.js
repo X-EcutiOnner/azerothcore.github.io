@@ -1,7 +1,6 @@
 var a24823 =
 [
-    [ "CalculateAmount", "d1/d20/a24823.html#ad99a4176d27864280a79ac548a57a4c8", null ],
-    [ "Load", "d1/d20/a24823.html#aeafec50b06b5dd2f69ca6ab4096aea4d", null ],
-    [ "PrepareAuraScript", "d1/d20/a24823.html#a76528513f0f6728e73085a3d403c3e59", null ],
-    [ "Register", "d1/d20/a24823.html#a4d09be7d33755ae719138d079884e281", null ]
+    [ "RaiseDeadCheck", "d1/d20/a24823.html#abc6439e5b457f2f6e832f504167a392d", null ],
+    [ "operator()", "d1/d20/a24823.html#a9647e6afd21e7397f05349e66bea4326", null ],
+    [ "_caster", "d1/d20/a24823.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
 ];

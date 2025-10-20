@@ -1,8 +1,13 @@
 var a28355 =
 [
-    [ "gender", "d0/d5f/a28355.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
-    [ "hair_id", "d0/d5f/a28355.html#af4646a9adb0a1dc18b34158de2116b84", null ],
-    [ "Id", "d0/d5f/a28355.html#a05de87081cf628e806d6518eef1424e4", null ],
-    [ "race", "d0/d5f/a28355.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
-    [ "type", "d0/d5f/a28355.html#a289bb362ba13235c754647ba67be1e56", null ]
+    [ "HasFlag", "d0/d5f/a28355.html#a5d13e1af17cddf3acdbfc5387869e43f", null ],
+    [ "CinematicSequence", "d0/d5f/a28355.html#a33a01b1c26b21706d9898af246f2a0df", null ],
+    [ "expansion", "d0/d5f/a28355.html#ab6547f8b08d4d1bf57a37f9574b71e43", null ],
+    [ "FactionID", "d0/d5f/a28355.html#a5c66801f2f89aeb847699a2dd87486c7", null ],
+    [ "Flags", "d0/d5f/a28355.html#a8c2d30fb87284806a93d4c1da4a6edb0", null ],
+    [ "model_f", "d0/d5f/a28355.html#a4807227fd863e247b18d29db0ea8236a", null ],
+    [ "model_m", "d0/d5f/a28355.html#a50b5409352d7fe3e6f5919d83c9a0eae", null ],
+    [ "name", "d0/d5f/a28355.html#a4970323e45feb3f74b47420648371ab6", null ],
+    [ "RaceID", "d0/d5f/a28355.html#a853f3262af3408cf2791e7cd08ec8d32", null ],
+    [ "TeamID", "d0/d5f/a28355.html#addd21f5fbf6868e7cf2cd3c54c7172a1", null ]
 ];

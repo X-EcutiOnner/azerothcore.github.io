@@ -1,7 +1,8 @@
 var a22995 =
 [
-    [ "HandleEffectRemove", "df/db2/a22995.html#a09124a4351930a35e33359e95ca88580", null ],
-    [ "PrepareAuraScript", "df/db2/a22995.html#a6ac4aa40f00e7ca03a3a5cf36d6e5d33", null ],
-    [ "Register", "df/db2/a22995.html#a8b59d3d74816b41a65f9c5bd07226c4e", null ],
-    [ "Validate", "df/db2/a22995.html#a5bf3ac4b8ff19bdbde604c4d8931d1bc", null ]
+    [ "Load", "df/db2/a22995.html#a038301fbb547469574efff88455be663", null ],
+    [ "OnPeriodic", "df/db2/a22995.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
+    [ "PrepareAuraScript", "df/db2/a22995.html#a386df1300e6a99b02efd13ef4968e99a", null ],
+    [ "Register", "df/db2/a22995.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
+    [ "Validate", "df/db2/a22995.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
 ];

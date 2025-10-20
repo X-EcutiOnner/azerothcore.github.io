@@ -1,6 +1,8 @@
 var a28331 =
 [
-    [ "ChannelID", "da/d03/a28331.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
-    [ "flags", "da/d03/a28331.html#aa77db644555e336ccbb8dd138c192425", null ],
-    [ "pattern", "da/d03/a28331.html#ad8b550cf444d66eede00abcf2cefec22", null ]
+    [ "gender", "da/d03/a28331.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
+    [ "hair_id", "da/d03/a28331.html#af4646a9adb0a1dc18b34158de2116b84", null ],
+    [ "Id", "da/d03/a28331.html#a05de87081cf628e806d6518eef1424e4", null ],
+    [ "race", "da/d03/a28331.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
+    [ "type", "da/d03/a28331.html#a289bb362ba13235c754647ba67be1e56", null ]
 ];

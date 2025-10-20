@@ -1,7 +1,6 @@
 var a27123 =
 [
-    [ "HandleDispel", "dc/d18/a27123.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
-    [ "PrepareAuraScript", "dc/d18/a27123.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
-    [ "Register", "dc/d18/a27123.html#a2c67e4327fdd034978d4822311632980", null ],
-    [ "Validate", "dc/d18/a27123.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
+    [ "PrepareAuraScript", "dc/d18/a27123.html#a65fa925d99065d028e328a92f2a13805", null ],
+    [ "Register", "dc/d18/a27123.html#a95dc732286adf4327f68e23015d58c21", null ],
+    [ "RemoveEffect", "dc/d18/a27123.html#a3f474c143f64739187b6049cac5e4b38", null ]
 ];

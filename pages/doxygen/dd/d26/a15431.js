@@ -1,6 +1,7 @@
 var a15431 =
 [
-    [ "HandleOnHit", "dd/d26/a15431.html#abf5a21f1c88241024e6d3b3c5bffe449", null ],
-    [ "PrepareSpellScript", "dd/d26/a15431.html#aa78fc03dacb373c5108e6a5d92e035c6", null ],
-    [ "Register", "dd/d26/a15431.html#a1e608d67914c0071a913d96d70c625d6", null ]
+    [ "boss_glob_of_viscidus", "dd/d26/a15431.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
+    [ "InitializeAI", "dd/d26/a15431.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
+    [ "MovementInform", "dd/d26/a15431.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
+    [ "UpdateAI", "dd/d26/a15431.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
 ];

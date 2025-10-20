@@ -1,9 +1,9 @@
 var a14431 =
 [
-    [ "npc_brew_bubble", "d0/df5/a14431.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
-    [ "DoAction", "d0/df5/a14431.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
-    [ "MoveInLineOfSight", "d0/df5/a14431.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
-    [ "Reset", "d0/df5/a14431.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
-    [ "UpdateAI", "d0/df5/a14431.html#a25018deaa206620f6e98ba722f689b8d", null ],
-    [ "timer", "d0/df5/a14431.html#a4bee73add756ba4b3137818b2dacd27f", null ]
+    [ "CheckCast", "d0/df5/a14431.html#a02965b55e8efadbd21e5afdd824f1dec", null ],
+    [ "FilterTargets", "d0/df5/a14431.html#a9638048b4107db116474abf8e18d7760", null ],
+    [ "HandleBeforeHit", "d0/df5/a14431.html#a3567c72e999ad6ca9db15b4d6ddadafb", null ],
+    [ "HandleScriptEffect", "d0/df5/a14431.html#a47d6a6c1fcb2b04782e54d3797c1f42c", null ],
+    [ "PrepareSpellScript", "d0/df5/a14431.html#aab9211291bd9dab8255d94e4eb07bf8e", null ],
+    [ "Register", "d0/df5/a14431.html#a73e6c9c91dccb309207fa3aeb6bd9d6f", null ]
 ];

@@ -1,6 +1,6 @@
 var a23251 =
 [
-    [ "HandleDummy", "d9/d75/a23251.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
-    [ "PrepareSpellScript", "d9/d75/a23251.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
-    [ "Register", "d9/d75/a23251.html#a972574075c86c32593982add71dc893f", null ]
+    [ "HandleScriptEffect", "d9/d75/a23251.html#a0810dd4ad4d324c1a53e192fc99d1d35", null ],
+    [ "PrepareSpellScript", "d9/d75/a23251.html#a0ece61d7bed3e19ee6f6175a55c0733d", null ],
+    [ "Register", "d9/d75/a23251.html#a827cefe322562f0e8ea7cfa58b9a776b", null ]
 ];

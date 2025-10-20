@@ -1,7 +1,6 @@
 var a17539 =
 [
-    [ "HandleScript", "d5/d08/a17539.html#a4b1e392acea30a9259e65a75667704c5", null ],
-    [ "Load", "d5/d08/a17539.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
-    [ "PrepareSpellScript", "d5/d08/a17539.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
-    [ "Register", "d5/d08/a17539.html#a77632d11a172e5552c0c49de830a1639", null ]
+    [ "AddExtraDamage", "d5/d08/a17539.html#adeedfdd7555dfd009c99db6f002f7488", null ],
+    [ "PrepareSpellScript", "d5/d08/a17539.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
+    [ "Register", "d5/d08/a17539.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
 ];

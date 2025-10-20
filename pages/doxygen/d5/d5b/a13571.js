@@ -1,18 +1,6 @@
 var a13571 =
 [
-    [ "boss_kiljaeden", "d5/d5b/a13571.html#a573b32098eac346f3f9485eb46792b1b", null ],
-    [ "AttackStart", "d5/d5b/a13571.html#a9ad882dda480a564406628bfde386e57", null ],
-    [ "DamageTaken", "d5/d5b/a13571.html#afd668a9d98182d7e05ca38040e55e908", null ],
-    [ "DoAction", "d5/d5b/a13571.html#a53f78e51932d98886fadd9422adf96ce", null ],
-    [ "EmpowerOrb", "d5/d5b/a13571.html#ade10c2e693f41d5d0240bce37d5c1168", null ],
-    [ "EnterEvadeMode", "d5/d5b/a13571.html#a8e765740602b4f9efddafa5f2bdc8909", null ],
-    [ "InitializeAI", "d5/d5b/a13571.html#ac72d5d9615040c981e8e4e932be8c362", null ],
-    [ "JustDied", "d5/d5b/a13571.html#a82376e807061529bfd8fb4e52d409acf", null ],
-    [ "JustEngagedWith", "d5/d5b/a13571.html#aac01e1f8b7b7dfb80a62f3eb0105ed10", null ],
-    [ "JustSummoned", "d5/d5b/a13571.html#a3b983a903618b5bfebf7b45819207fde", null ],
-    [ "KilledUnit", "d5/d5b/a13571.html#a220cf460466c44a82ce3933d2c5f27f8", null ],
-    [ "Reset", "d5/d5b/a13571.html#aa45b8e5f598f68183b390e3239f0f75c", null ],
-    [ "ScheduleBasicAbilities", "d5/d5b/a13571.html#a345f52703c9d72be2a67ff46ac1a0472", null ],
-    [ "UpdateAI", "d5/d5b/a13571.html#aedcd604a535ce354881d7e59a05a79b9", null ],
-    [ "_phase", "d5/d5b/a13571.html#a6878b5b88a45f1a5d70d866e9850041d", null ]
+    [ "CastArmageddon", "d5/d5b/a13571.html#a2e90929b63e6151252aa01a55dbd801f", null ],
+    [ "Execute", "d5/d5b/a13571.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
+    [ "_caster", "d5/d5b/a13571.html#a1e70887099a7a47b7c26517d4363ad93", null ]
 ];

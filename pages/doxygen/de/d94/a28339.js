@@ -1,6 +1,7 @@
 var a28339 =
 [
-    [ "AreaGroupId", "de/d94/a28339.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "de/d94/a28339.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "de/d94/a28339.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "Class", "de/d94/a28339.html#abaaa0cd4d1b7f3ef5b297c5afdbc99fe", null ],
+    [ "Gender", "de/d94/a28339.html#aba6251a7020c6e66b9fc7a21859df271", null ],
+    [ "ItemId", "de/d94/a28339.html#a7d17ef6151f6b746223e44164ab5c20d", null ],
+    [ "Race", "de/d94/a28339.html#aee768679c4b8ee7cd28ea3fa899206e3", null ]
 ];

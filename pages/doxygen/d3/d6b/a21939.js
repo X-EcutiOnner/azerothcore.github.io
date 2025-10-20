@@ -1,12 +1,20 @@
 var a21939 =
 [
-    [ "npc_dalaran_warriorAI", "d3/d6b/a21939.html#a0c96d8b0797a1388f9fe725753ea91bc", null ],
-    [ "Initialize", "d3/d6b/a21939.html#aa04ecd7a8f988e94ab663a7994e83dd9", null ],
-    [ "JustEngagedWith", "d3/d6b/a21939.html#ae6690f0681363784e457fbd653f5b3f9", null ],
-    [ "Reset", "d3/d6b/a21939.html#a074d116ba39d87fa85c17fbc1764c79b", null ],
-    [ "UpdateAI", "d3/d6b/a21939.html#ae2a740ecd35694b4d04c6aea7ae567fa", null ],
-    [ "Battleshout_timer", "d3/d6b/a21939.html#ae36f30f816164b60232bd849e74c3da1", null ],
-    [ "disarm_timer", "d3/d6b/a21939.html#a54f7ceb37d7e3456166f5af761c95e9e", null ],
-    [ "hamstring_timer", "d3/d6b/a21939.html#ae0e660b8c3faf70a6061260a4b90a4af", null ],
-    [ "shout_timer", "d3/d6b/a21939.html#ac91770c1e9eb31d687247450898a48ae", null ]
+    [ "npc_hourglass_of_eternityAI", "d3/d6b/a21939.html#a51c68ff78150b7351dc34edf7a51e1a7", null ],
+    [ "GetCopy", "d3/d6b/a21939.html#addacaa0e3ba686d9cb343689c56fc4b5", null ],
+    [ "GetPlayer", "d3/d6b/a21939.html#a1216634009d635f5a1658cae62f92133", null ],
+    [ "HideNozdormu", "d3/d6b/a21939.html#acbcf4d9602bf87b2c4c4f898c8a6f6b0", null ],
+    [ "InitializeAI", "d3/d6b/a21939.html#af592003f019ace3e78ff7a19ada3e8f6", null ],
+    [ "IsFuture", "d3/d6b/a21939.html#a19527a426055c689a36f5b02e2978307", null ],
+    [ "randEntry", "d3/d6b/a21939.html#af581d3a7697fdb0f257d72568c342df8", null ],
+    [ "randomWhisper", "d3/d6b/a21939.html#a235353e41ee463f43f3d18a7b4f5a75d", null ],
+    [ "ShowNozdormu", "d3/d6b/a21939.html#a483e2a5a89b3dc4cfd51bb78732a6af2", null ],
+    [ "UpdateAI", "d3/d6b/a21939.html#a66a80c2c36a5fa7a89b30a7c872007d8", null ],
+    [ "copyGUID", "d3/d6b/a21939.html#add68894964681b8345c3751510f7e48c", null ],
+    [ "count", "d3/d6b/a21939.html#a126b67aacdfd0d96ad443944e9244f3b", null ],
+    [ "events", "d3/d6b/a21939.html#ae2d5690e0dc5205d68bd1ddb1b0ca3a9", null ],
+    [ "lastRandomTalk", "d3/d6b/a21939.html#aa00ff56a5a906e97ddf4d10d300c85c4", null ],
+    [ "pGUID", "d3/d6b/a21939.html#a6ad97b2c11057f936dce4aad04894177", null ],
+    [ "phase", "d3/d6b/a21939.html#ad7d3755e7b13c4b37d56f14746acc1e1", null ],
+    [ "randomTalk", "d3/d6b/a21939.html#a19042362c0dc7da80b81d284d2fa7e4b", null ]
 ];

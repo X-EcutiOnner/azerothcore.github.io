@@ -1,9 +1,7 @@
 var a27099 =
 [
-    [ "CheckCast", "df/d93/a27099.html#a846862b62f5750801cd804133f290d5d", null ],
-    [ "HandleDummy", "df/d93/a27099.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
-    [ "Load", "df/d93/a27099.html#acec7437ba80e4ae491020448a36e4559", null ],
-    [ "PrepareSpellScript", "df/d93/a27099.html#ab5e281028c009a4b317111de9a0a17e3", null ],
-    [ "Register", "df/d93/a27099.html#a865fa526f2131703a668e113ba0d7849", null ],
-    [ "Validate", "df/d93/a27099.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
+    [ "HandleDispel", "df/d93/a27099.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
+    [ "PrepareAuraScript", "df/d93/a27099.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
+    [ "Register", "df/d93/a27099.html#a2c67e4327fdd034978d4822311632980", null ],
+    [ "Validate", "df/d93/a27099.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
 ];

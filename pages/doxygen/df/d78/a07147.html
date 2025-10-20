@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: AuctionSearchListRequest Struct Reference</title>
+<title>AzerothCore: AuctionSearcherRequest Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,63 +105,57 @@ $(document).ready(function(){initNavTree('df/d78/a07147.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
+<a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../db/d15/a07144.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">AuctionSearchListRequest Struct Reference</div></div>
+  <div class="headertitle"><div class="title">AuctionSearcherRequest Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
 <p><code>#include &quot;<a class="el" href="../../">AuctionHouseSearcher.h</a>&quot;</code></p>
 <div class="dynheader">
-Inheritance diagram for AuctionSearchListRequest:</div>
+Inheritance diagram for AuctionSearcherRequest:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../df/d78/a07147.png" usemap="#AuctionSearchListRequest_map" alt=""/>
-  <map id="AuctionSearchListRequest_map" name="AuctionSearchListRequest_map">
-<area href="../../d3/d1d/a07143.html" alt="AuctionSearcherRequest" shape="rect" coords="0,0,159,24"/>
+  <img src="../../df/d78/a07147.png" usemap="#AuctionSearcherRequest_map" alt=""/>
+  <map id="AuctionSearcherRequest_map" name="AuctionSearcherRequest_map">
+<area href="../../d8/ddd/a07159.html" alt="AuctionSearchBidderListRequest" shape="rect" coords="0,56,197,80"/>
+<area href="../../de/dd6/a07151.html" alt="AuctionSearchListRequest" shape="rect" coords="207,56,404,80"/>
+<area href="../../d3/db9/a07155.html" alt="AuctionSearchOwnerListRequest" shape="rect" coords="414,56,611,80"/>
   </map>
 </div></div>
 <table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
+Public Types</h2></td></tr>
+<tr class="memitem:abfb75b18c4a43f1818cd78212c668109"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d78/a07147.html#abfb75b18c4a43f1818cd78212c668109">Type</a> : uint8 { <br />
+&#160;&#160;<a class="el" href="../../df/d78/a07147.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a">LIST</a>
+, <br />
+&#160;&#160;<a class="el" href="../../df/d78/a07147.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e">OWNER_LIST</a>
+, <br />
+&#160;&#160;<a class="el" href="../../df/d78/a07147.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab">BIDDER_LIST</a>
+<br />
+ }</td></tr>
+<tr class="separator:abfb75b18c4a43f1818cd78212c668109"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ac619da4568504e2d25a0f90a4f8d1f0a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d78/a07147.html#ac619da4568504e2d25a0f90a4f8d1f0a">AuctionSearchListRequest</a> (<a class="el" href="../../da/d17/a01046.html#af4f47e9bbd0faf17478c06dd0660bb84">AuctionHouseFaction</a> _listFaction, <a class="el" href="../../dd/d0b/a07131.html">AuctionHouseSearchInfo</a> const &amp;&amp;_searchInfo, <a class="el" href="../../d3/db2/a07139.html">AuctionHousePlayerInfo</a> const &amp;&amp;_playerInfo)</td></tr>
-<tr class="separator:ac619da4568504e2d25a0f90a4f8d1f0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a07143"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a07143')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d3/d1d/a07143.html">AuctionSearcherRequest</a></td></tr>
-<tr class="memitem:afadcce053f82ae124263a501671f35e3 inherit pub_methods_a07143"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d1d/a07143.html#afadcce053f82ae124263a501671f35e3">AuctionSearcherRequest</a> (<a class="el" href="../../d3/d1d/a07143.html#abfb75b18c4a43f1818cd78212c668109">Type</a> const _requestType, <a class="el" href="../../da/d17/a01046.html#af4f47e9bbd0faf17478c06dd0660bb84">AuctionHouseFaction</a> _listFaction)</td></tr>
-<tr class="separator:afadcce053f82ae124263a501671f35e3 inherit pub_methods_a07143"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8122177f0ca9b5c2393e87998a15e950 inherit pub_methods_a07143"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d1d/a07143.html#a8122177f0ca9b5c2393e87998a15e950">~AuctionSearcherRequest</a> ()=default</td></tr>
-<tr class="separator:a8122177f0ca9b5c2393e87998a15e950 inherit pub_methods_a07143"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afadcce053f82ae124263a501671f35e3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d78/a07147.html#afadcce053f82ae124263a501671f35e3">AuctionSearcherRequest</a> (<a class="el" href="../../df/d78/a07147.html#abfb75b18c4a43f1818cd78212c668109">Type</a> const _requestType, <a class="el" href="../../da/d17/a01046.html#af4f47e9bbd0faf17478c06dd0660bb84">AuctionHouseFaction</a> _listFaction)</td></tr>
+<tr class="separator:afadcce053f82ae124263a501671f35e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8122177f0ca9b5c2393e87998a15e950"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d78/a07147.html#a8122177f0ca9b5c2393e87998a15e950">~AuctionSearcherRequest</a> ()=default</td></tr>
+<tr class="separator:a8122177f0ca9b5c2393e87998a15e950"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a1e9d71ab67e1a9eb50333d620c4b170c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d0b/a07131.html">AuctionHouseSearchInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d78/a07147.html#a1e9d71ab67e1a9eb50333d620c4b170c">searchInfo</a></td></tr>
-<tr class="separator:a1e9d71ab67e1a9eb50333d620c4b170c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a73178eac3df25fd103b20b5894e8c4d8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/db2/a07139.html">AuctionHousePlayerInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d78/a07147.html#a73178eac3df25fd103b20b5894e8c4d8">playerInfo</a></td></tr>
-<tr class="separator:a73178eac3df25fd103b20b5894e8c4d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_attribs_a07143"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a07143')"><img src="../../closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="../../d3/d1d/a07143.html">AuctionSearcherRequest</a></td></tr>
-<tr class="memitem:ad7006f42aafadfa07024e1d2a278be3d inherit pub_attribs_a07143"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d1d/a07143.html#abfb75b18c4a43f1818cd78212c668109">Type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d1d/a07143.html#ad7006f42aafadfa07024e1d2a278be3d">requestType</a></td></tr>
-<tr class="separator:ad7006f42aafadfa07024e1d2a278be3d inherit pub_attribs_a07143"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1847f75715da2de1098d0f767163f62d inherit pub_attribs_a07143"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d17/a01046.html#af4f47e9bbd0faf17478c06dd0660bb84">AuctionHouseFaction</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d1d/a07143.html#a1847f75715da2de1098d0f767163f62d">listFaction</a></td></tr>
-<tr class="separator:a1847f75715da2de1098d0f767163f62d inherit pub_attribs_a07143"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
-Additional Inherited Members</h2></td></tr>
-<tr class="inherit_header pub_types_a07143"><td colspan="2" onclick="javascript:toggleInherit('pub_types_a07143')"><img src="../../closed.png" alt="-"/>&#160;Public Types inherited from <a class="el" href="../../d3/d1d/a07143.html">AuctionSearcherRequest</a></td></tr>
-<tr class="memitem:abfb75b18c4a43f1818cd78212c668109 inherit pub_types_a07143"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d1d/a07143.html#abfb75b18c4a43f1818cd78212c668109">Type</a> : uint8 { <br />
-&#160;&#160;<a class="el" href="../../d3/d1d/a07143.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a">LIST</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d3/d1d/a07143.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e">OWNER_LIST</a>
-, <br />
-&#160;&#160;<a class="el" href="../../d3/d1d/a07143.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab">BIDDER_LIST</a>
-<br />
- }</td></tr>
-<tr class="separator:abfb75b18c4a43f1818cd78212c668109 inherit pub_types_a07143"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad7006f42aafadfa07024e1d2a278be3d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/d78/a07147.html#abfb75b18c4a43f1818cd78212c668109">Type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d78/a07147.html#ad7006f42aafadfa07024e1d2a278be3d">requestType</a></td></tr>
+<tr class="separator:ad7006f42aafadfa07024e1d2a278be3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1847f75715da2de1098d0f767163f62d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../da/d17/a01046.html#af4f47e9bbd0faf17478c06dd0660bb84">AuctionHouseFaction</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d78/a07147.html#a1847f75715da2de1098d0f767163f62d">listFaction</a></td></tr>
+<tr class="separator:a1847f75715da2de1098d0f767163f62d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ac619da4568504e2d25a0f90a4f8d1f0a" name="ac619da4568504e2d25a0f90a4f8d1f0a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac619da4568504e2d25a0f90a4f8d1f0a">&#9670;&#160;</a></span>AuctionSearchListRequest()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Enumeration Documentation</h2>
+<a id="abfb75b18c4a43f1818cd78212c668109" name="abfb75b18c4a43f1818cd78212c668109"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abfb75b18c4a43f1818cd78212c668109">&#9670;&#160;</a></span>Type</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -170,22 +164,52 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">AuctionSearchListRequest::AuctionSearchListRequest </td>
+          <td class="memname">enum class <a class="el" href="../../df/d78/a07147.html#abfb75b18c4a43f1818cd78212c668109">AuctionSearcherRequest::Type</a> : <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a" name="abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a"></a>LIST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e" name="abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e"></a>OWNER_LIST&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab" name="abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab"></a>BIDDER_LIST&#160;</td><td class="fielddoc"></td></tr>
+</table>
+<div class="fragment"><div class="line"><span class="lineno">  142</span>    {</div>
+<div class="line"><span class="lineno">  143</span>        <a class="code hl_enumvalue" href="../../df/d78/a07147.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a">LIST</a>,</div>
+<div class="line"><span class="lineno">  144</span>        <a class="code hl_enumvalue" href="../../df/d78/a07147.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e">OWNER_LIST</a>,</div>
+<div class="line"><span class="lineno">  145</span>        <a class="code hl_enumvalue" href="../../df/d78/a07147.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab">BIDDER_LIST</a></div>
+<div class="line"><span class="lineno">  146</span>    };</div>
+<div class="ttc" id="aa07147_html_abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a"><div class="ttname"><a href="../../df/d78/a07147.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a">AuctionSearcherRequest::Type::LIST</a></div><div class="ttdeci">@ LIST</div></div>
+<div class="ttc" id="aa07147_html_abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab"><div class="ttname"><a href="../../df/d78/a07147.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab">AuctionSearcherRequest::Type::BIDDER_LIST</a></div><div class="ttdeci">@ BIDDER_LIST</div></div>
+<div class="ttc" id="aa07147_html_abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e"><div class="ttname"><a href="../../df/d78/a07147.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e">AuctionSearcherRequest::Type::OWNER_LIST</a></div><div class="ttdeci">@ OWNER_LIST</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="afadcce053f82ae124263a501671f35e3" name="afadcce053f82ae124263a501671f35e3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afadcce053f82ae124263a501671f35e3">&#9670;&#160;</a></span>AuctionSearcherRequest()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">AuctionSearcherRequest::AuctionSearcherRequest </td>
           <td>(</td>
+          <td class="paramtype"><a class="el" href="../../df/d78/a07147.html#abfb75b18c4a43f1818cd78212c668109">Type</a> const&#160;</td>
+          <td class="paramname"><em>_requestType</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
           <td class="paramtype"><a class="el" href="../../da/d17/a01046.html#af4f47e9bbd0faf17478c06dd0660bb84">AuctionHouseFaction</a>&#160;</td>
-          <td class="paramname"><em>_listFaction</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../dd/d0b/a07131.html">AuctionHouseSearchInfo</a> const &amp;&amp;&#160;</td>
-          <td class="paramname"><em>_searchInfo</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d3/db2/a07139.html">AuctionHousePlayerInfo</a> const &amp;&amp;&#160;</td>
-          <td class="paramname"><em>_playerInfo</em>&#160;</td>
+          <td class="paramname"><em>_listFaction</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -199,44 +223,67 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  158</span>        : <a class="code hl_struct" href="../../d3/d1d/a07143.html">AuctionSearcherRequest</a>(<a class="code hl_enumvalue" href="../../d3/d1d/a07143.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a">AuctionSearcherRequest::Type::LIST</a>, _listFaction), <a class="code hl_variable" href="../../df/d78/a07147.html#a1e9d71ab67e1a9eb50333d620c4b170c">searchInfo</a>(_searchInfo), <a class="code hl_variable" href="../../df/d78/a07147.html#a73178eac3df25fd103b20b5894e8c4d8">playerInfo</a>(_playerInfo) { }</div>
-<div class="ttc" id="aa07143_html"><div class="ttname"><a href="../../d3/d1d/a07143.html">AuctionSearcherRequest</a></div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:140</div></div>
-<div class="ttc" id="aa07143_html_abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a"><div class="ttname"><a href="../../d3/d1d/a07143.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a">AuctionSearcherRequest::Type::LIST</a></div><div class="ttdeci">@ LIST</div></div>
-<div class="ttc" id="aa07147_html_a1e9d71ab67e1a9eb50333d620c4b170c"><div class="ttname"><a href="../../df/d78/a07147.html#a1e9d71ab67e1a9eb50333d620c4b170c">AuctionSearchListRequest::searchInfo</a></div><div class="ttdeci">AuctionHouseSearchInfo searchInfo</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:160</div></div>
-<div class="ttc" id="aa07147_html_a73178eac3df25fd103b20b5894e8c4d8"><div class="ttname"><a href="../../df/d78/a07147.html#a73178eac3df25fd103b20b5894e8c4d8">AuctionSearchListRequest::playerInfo</a></div><div class="ttdeci">AuctionHousePlayerInfo playerInfo</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:161</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  148</span>: <a class="code hl_variable" href="../../df/d78/a07147.html#ad7006f42aafadfa07024e1d2a278be3d">requestType</a>(_requestType), <a class="code hl_variable" href="../../df/d78/a07147.html#a1847f75715da2de1098d0f767163f62d">listFaction</a>(_listFaction) { }</div>
+<div class="ttc" id="aa07147_html_a1847f75715da2de1098d0f767163f62d"><div class="ttname"><a href="../../df/d78/a07147.html#a1847f75715da2de1098d0f767163f62d">AuctionSearcherRequest::listFaction</a></div><div class="ttdeci">AuctionHouseFaction listFaction</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:152</div></div>
+<div class="ttc" id="aa07147_html_ad7006f42aafadfa07024e1d2a278be3d"><div class="ttname"><a href="../../df/d78/a07147.html#ad7006f42aafadfa07024e1d2a278be3d">AuctionSearcherRequest::requestType</a></div><div class="ttdeci">Type requestType</div><div class="ttdef"><b>Definition:</b> AuctionHouseSearcher.h:151</div></div>
 </div><!-- fragment -->
 </div>
 </div>
+<a id="a8122177f0ca9b5c2393e87998a15e950" name="a8122177f0ca9b5c2393e87998a15e950"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8122177f0ca9b5c2393e87998a15e950">&#9670;&#160;</a></span>~AuctionSearcherRequest()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual AuctionSearcherRequest::~AuctionSearcherRequest </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a73178eac3df25fd103b20b5894e8c4d8" name="a73178eac3df25fd103b20b5894e8c4d8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a73178eac3df25fd103b20b5894e8c4d8">&#9670;&#160;</a></span>playerInfo</h2>
+<a id="a1847f75715da2de1098d0f767163f62d" name="a1847f75715da2de1098d0f767163f62d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1847f75715da2de1098d0f767163f62d">&#9670;&#160;</a></span>listFaction</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/db2/a07139.html">AuctionHousePlayerInfo</a> AuctionSearchListRequest::playerInfo</td>
+          <td class="memname"><a class="el" href="../../da/d17/a01046.html#af4f47e9bbd0faf17478c06dd0660bb84">AuctionHouseFaction</a> AuctionSearcherRequest::listFaction</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00277">AuctionHouseWorkerThread::BuildListAuctionItems()</a>, and <a class="el" href="../../#l00142">AuctionHouseWorkerThread::SearchListRequest()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00235">AuctionHouseWorkerThread::SearchBidderListRequest()</a>, <a class="el" href="../../#l00142">AuctionHouseWorkerThread::SearchListRequest()</a>, and <a class="el" href="../../#l00205">AuctionHouseWorkerThread::SearchOwnerListRequest()</a>.</p>
 
 </div>
 </div>
-<a id="a1e9d71ab67e1a9eb50333d620c4b170c" name="a1e9d71ab67e1a9eb50333d620c4b170c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1e9d71ab67e1a9eb50333d620c4b170c">&#9670;&#160;</a></span>searchInfo</h2>
+<a id="ad7006f42aafadfa07024e1d2a278be3d" name="ad7006f42aafadfa07024e1d2a278be3d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad7006f42aafadfa07024e1d2a278be3d">&#9670;&#160;</a></span>requestType</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dd/d0b/a07131.html">AuctionHouseSearchInfo</a> AuctionSearchListRequest::searchInfo</td>
+          <td class="memname"><a class="el" href="../../df/d78/a07147.html#abfb75b18c4a43f1818cd78212c668109">Type</a> AuctionSearcherRequest::requestType</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00277">AuctionHouseWorkerThread::BuildListAuctionItems()</a>, and <a class="el" href="../../#l00142">AuctionHouseWorkerThread::SearchListRequest()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00109">AuctionHouseWorkerThread::ProcessSearchRequests()</a>.</p>
 
 </div>
 </div>
@@ -245,8 +292,8 @@ Additional Inherited Members</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/d78/a07147.html">AuctionSearchListRequest</a></li>
-    <li class="footer">Generated on Mon Oct 13 2025 20:44:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/d78/a07147.html">AuctionSearcherRequest</a></li>
+    <li class="footer">Generated on Mon Oct 20 2025 20:47:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

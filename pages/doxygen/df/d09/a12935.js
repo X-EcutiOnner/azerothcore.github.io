@@ -1,15 +1,13 @@
 var a12935 =
 [
-    [ "boss_tinhead", "df/d09/a12935.html#aa56375e9b031db15bee833375b7a4405", null ],
-    [ "DoAction", "df/d09/a12935.html#ab27d93fd2b58e3f1c9e14d5bc6c788ff", null ],
-    [ "EnterEvadeMode", "df/d09/a12935.html#ae83464d571103a67980b413325988921", null ],
-    [ "JustDied", "df/d09/a12935.html#a5a641c0e96f271540e4642b5bb4e4c9e", null ],
-    [ "JustEngagedWith", "df/d09/a12935.html#a74f51f155fdfb9ecc70245380b740d9c", null ],
-    [ "JustReachedHome", "df/d09/a12935.html#a6c930c6cb2116cf16f3e4002e333f585", null ],
-    [ "KilledUnit", "df/d09/a12935.html#ac0f281f1e4b985174f4c5c9b7fcf278d", null ],
-    [ "Reset", "df/d09/a12935.html#ac22d86f58d59c81429e45fba9393fd37", null ],
-    [ "UpdateAI", "df/d09/a12935.html#aec0d558cf82eb6bbf0d5626126b10233", null ],
-    [ "_rustCount", "df/d09/a12935.html#a48901503085fd3d4ee5624626a526ce2", null ],
-    [ "_scheduler", "df/d09/a12935.html#ababc9f32611a9ea35ef41725bce22df5", null ],
-    [ "instance", "df/d09/a12935.html#a00b2ebbb009c700e38bbffbb035b4bfa", null ]
+    [ "boss_roar", "df/d09/a12935.html#a93e1d81bcff8b31841ae65628759ee7e", null ],
+    [ "DoAction", "df/d09/a12935.html#a9a2778a803d6d41b256759b29452cc51", null ],
+    [ "EnterEvadeMode", "df/d09/a12935.html#a198044653632b93838c0f79c06cb7640", null ],
+    [ "JustDied", "df/d09/a12935.html#a3c79bea69740601ad89f0765f3af99f2", null ],
+    [ "JustEngagedWith", "df/d09/a12935.html#a1db42b2b1a19ac4a959a51ce17c8ae32", null ],
+    [ "JustReachedHome", "df/d09/a12935.html#a632929b026815a524bd79748e768e3fc", null ],
+    [ "KilledUnit", "df/d09/a12935.html#aaaa0d33697fe1abc0df5bf9ecb249ffc", null ],
+    [ "UpdateAI", "df/d09/a12935.html#a255d406f8bab62593a3eeda0e4e3d646", null ],
+    [ "_scheduler", "df/d09/a12935.html#a54b45b1fdacc2b3982e21580b9b4d26a", null ],
+    [ "instance", "df/d09/a12935.html#a67df04e89c877d565753ac077aa923c7", null ]
 ];

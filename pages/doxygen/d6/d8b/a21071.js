@@ -1,6 +1,6 @@
 var a21071 =
 [
-    [ "boss_yoggsaron_constrictor_tentacleAI", "d3/de3/a21075.html", "d3/de3/a21075" ],
-    [ "boss_yoggsaron_constrictor_tentacle", "d6/d8b/a21071.html#a131809f1c691e55a33863caf6fe0c5dc", null ],
-    [ "GetAI", "d6/d8b/a21071.html#ac469d5661eb664c73bf5ab38084cb03e", null ]
+    [ "boss_yoggsaron_influence_tentacleAI", "d6/d8b/a21071.html#ae7457ed8084888b1074a44dd9a7ed0c7", null ],
+    [ "DamageTaken", "d6/d8b/a21071.html#ad46e93ffb89c9c3ee9bfbe0f27c7117c", null ],
+    [ "JustDied", "d6/d8b/a21071.html#ab09c96d167b9502098b9a7a2fa1b82ec", null ]
 ];

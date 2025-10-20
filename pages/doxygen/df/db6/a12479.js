@@ -1,7 +1,9 @@
 var a12479 =
 [
-    [ "HandlePeriodic", "df/db6/a12479.html#a72e043202c587e6c12d0b36d679cd071", null ],
-    [ "PrepareAuraScript", "df/db6/a12479.html#a7ca007283e34855ee825ae160653f4a3", null ],
-    [ "Register", "df/db6/a12479.html#aebad39c65167042be8db3c3a1811a235", null ],
-    [ "Validate", "df/db6/a12479.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
+    [ "npc_drakonid_spawner", "df/db6/a12479.html#a2b657e800dc5cc30c618391413ded116", null ],
+    [ "DoAction", "df/db6/a12479.html#ab013cff0430c09fe1045fdc735e45182", null ],
+    [ "IsSummonedBy", "df/db6/a12479.html#a6a2170e0f20736d69006ce6d6c769476", null ],
+    [ "SummonedCreatureDies", "df/db6/a12479.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
+    [ "UpdateAI", "df/db6/a12479.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
+    [ "_owner", "df/db6/a12479.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
 ];

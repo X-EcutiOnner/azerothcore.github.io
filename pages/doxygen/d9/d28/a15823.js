@@ -1,7 +1,6 @@
 var a15823 =
 [
-    [ "npc_steward_of_time", "d9/d28/a15823.html#ad49973464c96f44506033b73a85f6360", null ],
-    [ "OnGossipHello", "d9/d28/a15823.html#a3b61038393c3addbbfa6643438164db3", null ],
-    [ "OnGossipSelect", "d9/d28/a15823.html#af4fe13e266a98129b92e5a25188d947c", null ],
-    [ "OnQuestAccept", "d9/d28/a15823.html#a53d552282da49e8246089b2799fff9ca", null ]
+    [ "npc_custodian_of_timeAI", "d8/d4c/a15827.html", "d8/d4c/a15827" ],
+    [ "npc_custodian_of_time", "d9/d28/a15823.html#a6018b30119ce819853a3c662b3d5347e", null ],
+    [ "GetAI", "d9/d28/a15823.html#a57217b2dab1cab110f1c59526ca13c86", null ]
 ];

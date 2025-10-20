@@ -1,6 +1,8 @@
 var a15491 =
 [
-    [ "HandleApply", "d1/dc2/a15491.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
-    [ "PrepareAuraScript", "d1/dc2/a15491.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
-    [ "Register", "d1/dc2/a15491.html#ade5c710416516760cc69f77750aa2a1f", null ]
+    [ "npc_ahnqiraji_critter", "d1/dc2/a15491.html#a60e2dc1c52579a410d3435126bf39684", null ],
+    [ "JustDied", "d1/dc2/a15491.html#a71d3d5262bde847a18932fea89cb6648", null ],
+    [ "JustEngagedWith", "d1/dc2/a15491.html#aca1df706306f9181db26cd77e5b66452", null ],
+    [ "Reset", "d1/dc2/a15491.html#a645e16e9da29f6579320394201d0ada7", null ],
+    [ "UpdateAI", "d1/dc2/a15491.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
 ];

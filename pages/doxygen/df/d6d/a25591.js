@@ -1,5 +1,5 @@
 var a25591 =
 [
-    [ "PrepareSpellScript", "df/d6d/a25591.html#a53fe40a7d280c5fcc733d2647ef09b41", null ],
-    [ "Register", "df/d6d/a25591.html#ae2d3eb8ff055aa66a00567af75c65138", null ]
+    [ "PrepareSpellScript", "df/d6d/a25591.html#a5dcaeafcb11c79f7f2171a5a0c47e6f5", null ],
+    [ "Register", "df/d6d/a25591.html#a0ca6ec06108f964432f1cafc00b96313", null ]
 ];

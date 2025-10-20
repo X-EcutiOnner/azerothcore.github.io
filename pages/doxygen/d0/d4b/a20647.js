@@ -1,22 +1,8 @@
 var a20647 =
 [
-    [ "npc_ulduar_aerial_command_unitAI", "d0/d4b/a20647.html#ac5b7a4cffa1db22c540be9893d15c2f8", null ],
-    [ "AttackStart", "d0/d4b/a20647.html#ab04bb1f0ae10ef6caedde13dce26b4ff", null ],
-    [ "DamageTaken", "d0/d4b/a20647.html#a7a4553548b94631c19e0f63bd4f04935", null ],
-    [ "DoAction", "d0/d4b/a20647.html#a363186d09cc27fcf73e5df71765c5785", null ],
-    [ "EnterEvadeMode", "d0/d4b/a20647.html#a41ff385b9260c48c200c81e2965e4ad9", null ],
-    [ "JustSummoned", "d0/d4b/a20647.html#a4da89e69cd1bad30c051997862035ec0", null ],
-    [ "KilledUnit", "d0/d4b/a20647.html#a172ce62da0c7554a3dfc9a9a8ff7f119", null ],
-    [ "MoveInLineOfSight", "d0/d4b/a20647.html#a1625ea42db1aebe26d7d52a3e1ac3e04", null ],
-    [ "Reset", "d0/d4b/a20647.html#a1bdf61f436acd06c389f7e0355488eaa", null ],
-    [ "SetData", "d0/d4b/a20647.html#a9d2572ed6864acf7be5b277c22e89573", null ],
-    [ "SpellHit", "d0/d4b/a20647.html#af567b17cb39e433899eac0c44e2f065d", null ],
-    [ "SummonedCreatureDespawn", "d0/d4b/a20647.html#a7040c7ce5f0243b392eec91fa734213c", null ],
-    [ "UpdateAI", "d0/d4b/a20647.html#ac76777bdd7ac6da1166d98c7a091aba4", null ],
-    [ "bIsEvading", "d0/d4b/a20647.html#a04cffd153f3298595cd1b7da706d14bb", null ],
-    [ "events", "d0/d4b/a20647.html#acb7898e896f6e217b97961ef3fa4828a", null ],
-    [ "immobilized", "d0/d4b/a20647.html#a3ed685c94d7dd9d15e44ba3c313e48e4", null ],
-    [ "Phase", "d0/d4b/a20647.html#af4cb9c060dcf3d2577182e2e0d3711c4", null ],
-    [ "pInstance", "d0/d4b/a20647.html#a5c410a35047f835473871bd7538de1f2", null ],
-    [ "summons", "d0/d4b/a20647.html#a37d8c57b1d3e5628954d19fda62f1122", null ]
+    [ "npc_ulduar_magnetic_coreAI", "d0/d4b/a20647.html#a585437dff0c49ac1a6bf7929ab266ff5", null ],
+    [ "SetData", "d0/d4b/a20647.html#a27c31856d2bfe3228ae3b0b361064d7a", null ],
+    [ "UpdateAI", "d0/d4b/a20647.html#ab9113a021844aa7ea8ac46df9c50b205", null ],
+    [ "despawnTimer", "d0/d4b/a20647.html#ad244ccbaeda814b9e56fad93f06f12fe", null ],
+    [ "pInstance", "d0/d4b/a20647.html#a3e01c612a689d89bdbe3529c429a413d", null ]
 ];

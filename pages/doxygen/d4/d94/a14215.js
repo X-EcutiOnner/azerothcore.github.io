@@ -1,7 +1,5 @@
 var a14215 =
 [
-    [ "OnRemove", "d4/d94/a14215.html#ab909660f32a77e86fde5da35e2f69302", null ],
-    [ "PrepareAuraScript", "d4/d94/a14215.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
-    [ "Register", "d4/d94/a14215.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
-    [ "Validate", "d4/d94/a14215.html#abd1254c53c04f72f848d8641affc729d", null ]
+    [ "at_zulgurub_edge_of_madness_speech", "d4/d94/a14215.html#a7d4007716e3ed634ac7e3d3dba26e6f7", null ],
+    [ "_OnTrigger", "d4/d94/a14215.html#a725de49be12116f2f7e77edd31a096ae", null ]
 ];

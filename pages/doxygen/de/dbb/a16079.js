@@ -1,6 +1,8 @@
 var a16079 =
 [
-    [ "boss_anub_arakAI", "d3/d35/a16083.html", "d3/d35/a16083" ],
-    [ "boss_anub_arak", "de/dbb/a16079.html#ac2594f561b07069a312ed38c01d9c7da", null ],
-    [ "GetAI", "de/dbb/a16079.html#a8687594354d514b99e026797ee71c70d", null ]
+    [ "instance_ahnkahet_InstanceScript", "de/dbb/a16079.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
+    [ "IsAllSpheresActivated", "de/dbb/a16079.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
+    [ "OnGameObjectCreate", "de/dbb/a16079.html#ad00fdc90a61e1c927323daa2149f8466", null ],
+    [ "SetData", "de/dbb/a16079.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
+    [ "taldaramPlatform_GUID", "de/dbb/a16079.html#a840ce69595c384be321c1167513d151e", null ]
 ];

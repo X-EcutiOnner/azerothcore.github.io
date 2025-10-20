@@ -1,6 +1,14 @@
 var a13035 =
 [
-    [ "boss_kagani_nightstrike", "d7/d77/a13035.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
-    [ "JustEngagedWith", "d7/d77/a13035.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
-    [ "MovementInform", "d7/d77/a13035.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
+    [ "boss_priestess_delrissa", "d7/d77/a13035.html#afcbf1aa400ec44b709fd194daab91d3d", null ],
+    [ "CheckInRoom", "d7/d77/a13035.html#afa963761e44412915a6d89f097f33b5d", null ],
+    [ "InitializeAI", "d7/d77/a13035.html#ae5105868d704b6ca91b27dcfbeaef3a9", null ],
+    [ "JustDied", "d7/d77/a13035.html#a82d8c198f38c2aa881386e739dea6a08", null ],
+    [ "JustEngagedWith", "d7/d77/a13035.html#a40c9852f9a1ea24b61edf0f7c00193a6", null ],
+    [ "JustSummoned", "d7/d77/a13035.html#ac0a2c4346c6222380d7bda9a274f78e0", null ],
+    [ "KilledUnit", "d7/d77/a13035.html#af0b41306f53c42745cce39069f446704", null ],
+    [ "Reset", "d7/d77/a13035.html#a60e39157aa3043284b2e1e032c0d9241", null ],
+    [ "SummonedCreatureDies", "d7/d77/a13035.html#a14757692ab4af5c1b5b311f059be9091", null ],
+    [ "HelpersKilled", "d7/d77/a13035.html#a26764cdd42721c9276ccecaa97fc9a6e", null ],
+    [ "PlayersKilled", "d7/d77/a13035.html#a9bde16a69ed9e950ce0dfb91805280cc", null ]
 ];

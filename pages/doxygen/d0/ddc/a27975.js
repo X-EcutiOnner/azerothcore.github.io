@@ -1,6 +1,14 @@
 var a27975 =
 [
-    [ "npc_necropolis_proxy", "d0/ddc/a27975.html#a73f92ee73673172989d48064e5984db0", null ],
-    [ "SpellHit", "d0/ddc/a27975.html#a90d1ab55683a6409403e24291643cca5", null ],
-    [ "SpellHitTarget", "d0/ddc/a27975.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
+    [ "FlameshockerCheck", "dd/db8/a27979.html", "dd/db8/a27979" ],
+    [ "npc_pallid_horror", "d0/ddc/a27975.html#ae43fa737cdc303d68f34ac2fbb356814", null ],
+    [ "CorpseRemoved", "d0/ddc/a27975.html#a700af3062528a6c41f7f0985f1820b36", null ],
+    [ "InitializeAI", "d0/ddc/a27975.html#a2711bdb05ad74a4d0425b4f61dcddab4", null ],
+    [ "JustDied", "d0/ddc/a27975.html#a6145be6ed4a56ec8f8e923187ceea47c", null ],
+    [ "JustSummoned", "d0/ddc/a27975.html#a801e04d47de8d86dcfbfa552de54cd0f", null ],
+    [ "ScheduleTasks", "d0/ddc/a27975.html#aa9e851cb55238bb4cf6c1e7a9d309c20", null ],
+    [ "SummonFlameshockers", "d0/ddc/a27975.html#afc2625ef0ddae00fd14d3dbf7952b0cf", null ],
+    [ "UpdateAI", "d0/ddc/a27975.html#a701b52b2977017c692368a5d363dd6bd", null ],
+    [ "UpdateWeather", "d0/ddc/a27975.html#ac9c5b8d4274e443f4c74b2b40aa5830f", null ],
+    [ "_summons", "d0/ddc/a27975.html#a0948ef0c5971a8b6ffee2269d8bca3a6", null ]
 ];

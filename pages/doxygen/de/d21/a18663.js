@@ -1,6 +1,7 @@
 var a18663 =
 [
-    [ "boss_valithria_dreamwalkerAI", "de/da4/a18667.html", "de/da4/a18667" ],
-    [ "boss_valithria_dreamwalker", "de/d21/a18663.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
-    [ "GetAI", "de/d21/a18663.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
+    [ "AuraRemoveEvent", "de/d21/a18663.html#a094b9437c7cadb465738daf5684c9725", null ],
+    [ "Execute", "de/d21/a18663.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
+    [ "_spellId", "de/d21/a18663.html#a6fad41839e07e9545859be7c3afcfc36", null ],
+    [ "_trigger", "de/d21/a18663.html#aad8c27befc102dae6823d5d74fed50b4", null ]
 ];

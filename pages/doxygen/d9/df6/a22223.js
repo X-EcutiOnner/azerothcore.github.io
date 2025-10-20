@@ -1,7 +1,9 @@
 var a22223 =
 [
-    [ "HandleScript", "d9/df6/a22223.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "d9/df6/a22223.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "d9/df6/a22223.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "d9/df6/a22223.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "npc_Apothecary_HanesAI", "d9/df6/a22223.html#a8e209b142a58b3b3c0d84c430a086ade", null ],
+    [ "JustDied", "d9/df6/a22223.html#a4c681936d8e7053ace5cdeeaa1ee5ca9", null ],
+    [ "Reset", "d9/df6/a22223.html#a23d54542e6debf39798c2a2d6e2a255d", null ],
+    [ "UpdateEscortAI", "d9/df6/a22223.html#ab54eb5115b9c41b39f0de0f8f4412ef9", null ],
+    [ "WaypointReached", "d9/df6/a22223.html#a7105ea4c83ddd0fd08c96a0b0ff40bd2", null ],
+    [ "PotTimer", "d9/df6/a22223.html#a252858818b61cf15e2e031ceaaadc6b8", null ]
 ];

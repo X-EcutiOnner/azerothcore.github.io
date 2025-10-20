@@ -1,6 +1,6 @@
 var a24703 =
 [
-    [ "HandlePeriodic", "de/d93/a24703.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
-    [ "PrepareAuraScript", "de/d93/a24703.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
-    [ "Register", "de/d93/a24703.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
+    [ "CheckProc", "de/d93/a24703.html#a451ceeda18638f88d2e0a24ac445f5e2", null ],
+    [ "PrepareAuraScript", "de/d93/a24703.html#a0a6d4617ff3351411f4e13f53876db31", null ],
+    [ "Register", "de/d93/a24703.html#a0e5d974111eeca075f38910223f5eaf4", null ]
 ];

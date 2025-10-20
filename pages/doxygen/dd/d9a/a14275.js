@@ -1,6 +1,6 @@
 var a14275 =
 [
-    [ "npc_ohganAI", "dc/d78/a14279.html", "dc/d78/a14279" ],
-    [ "npc_ohgan", "dd/d9a/a14275.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
-    [ "GetAI", "dd/d9a/a14275.html#a129dc2fcd449850403e0dcb99725da90", null ]
+    [ "boss_mandokirAI", "dc/d78/a14279.html", "dc/d78/a14279" ],
+    [ "boss_mandokir", "dd/d9a/a14275.html#aad13c8302cef7fb4981f0d2178630def", null ],
+    [ "GetAI", "dd/d9a/a14275.html#a215842d5ab23824ec20db64e2fa4407e", null ]
 ];

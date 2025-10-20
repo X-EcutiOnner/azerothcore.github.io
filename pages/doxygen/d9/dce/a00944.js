@@ -1,7 +1,7 @@
 var a00944 =
 [
-    [ "PetStable", "d1/ddc/a08535.html", "d1/ddc/a08535" ],
-    [ "PetStable::PetInfo", "d2/d4c/a08539.html", "d2/d4c/a08539" ],
+    [ "PetStable", "d2/d4c/a08539.html", "d2/d4c/a08539" ],
+    [ "PetStable::PetInfo", "d8/dc0/a08543.html", "d8/dc0/a08543" ],
     [ "ActionFeedback", "d9/dce/a00944.html#aeb5551b3f37a2573e008d2d5d865359d", [
       [ "FEEDBACK_NONE", "d9/dce/a00944.html#aeb5551b3f37a2573e008d2d5d865359dac70a05f4ef81ef0dd1eb55ab74779fba", null ],
       [ "FEEDBACK_PET_DEAD", "d9/dce/a00944.html#aeb5551b3f37a2573e008d2d5d865359da482a5e311921dbd1dfab7521309f18c1", null ],
@@ -38,6 +38,10 @@ var a00944 =
       [ "NPC_VIPER", "d9/dce/a00944.html#a639089e6e6026ab7c06fbbe23f857444a97c8939d68493bb1cb2fc16ed28203b6", null ],
       [ "NPC_GENERIC_IMP", "d9/dce/a00944.html#a639089e6e6026ab7c06fbbe23f857444afca2c65aa34112502cc617b12374e988", null ],
       [ "NPC_GENERIC_VOIDWALKER", "d9/dce/a00944.html#a639089e6e6026ab7c06fbbe23f857444accb660cc28729ef2eae9139f280e09b1", null ]
+    ] ],
+    [ "PetAction", "d9/dce/a00944.html#a8f1e333f5ef88551b058036c187c1200", [
+      [ "PET_ACTION_SPECIAL_SPELL", "d9/dce/a00944.html#a8f1e333f5ef88551b058036c187c1200aeb884ae019d02b41d359a6fcd13c0725", null ],
+      [ "PET_ACTION_ATTACK", "d9/dce/a00944.html#a8f1e333f5ef88551b058036c187c1200a111c922202fb690b727738b6344ec766", null ]
     ] ],
     [ "PetLoadState", "d9/dce/a00944.html#a80290db1e4b163e172e9bd2cf5cb6d6b", [
       [ "PET_LOAD_OK", "d9/dce/a00944.html#a80290db1e4b163e172e9bd2cf5cb6d6ba398819a3c83d6ad80812d1dca2039d64", null ],
@@ -116,10 +120,6 @@ var a00944 =
       [ "PETSPELL_NORMAL", "d9/dce/a00944.html#ac12b13d4da0688112812b2c7976550ceabb53c3a4462fa50e5c8ad926465f63bb", null ],
       [ "PETSPELL_FAMILY", "d9/dce/a00944.html#ac12b13d4da0688112812b2c7976550cead8f157e9e157c6042ec5fa09e17edafb", null ],
       [ "PETSPELL_TALENT", "d9/dce/a00944.html#ac12b13d4da0688112812b2c7976550ceab009e82a28fb4f233fba32a0d71782ea", null ]
-    ] ],
-    [ "PetTalk", "d9/dce/a00944.html#aa01f2535df94effa749383327aaea2b7", [
-      [ "PET_TALK_SPECIAL_SPELL", "d9/dce/a00944.html#aa01f2535df94effa749383327aaea2b7a44499e435b353774d3ec3ce0bdfea28d", null ],
-      [ "PET_TALK_ATTACK", "d9/dce/a00944.html#aa01f2535df94effa749383327aaea2b7a803c3c41784bfcad6b7dd2b15f4db7f7", null ]
     ] ],
     [ "PetType", "d9/dce/a00944.html#a9c56f6096d84d7e4e38d3e3f4e5af97c", [
       [ "SUMMON_PET", "d9/dce/a00944.html#a9c56f6096d84d7e4e38d3e3f4e5af97ca3167e28bcafa6bb3b3e2b2dc72557ecd", null ],

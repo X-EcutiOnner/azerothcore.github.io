@@ -1,6 +1,12 @@
 var a14163 =
 [
-    [ "boss_gahzranka", "de/d13/a14163.html#a82cc1a44a967f859039957e41f38dd77", null ],
-    [ "IsSummonedBy", "de/d13/a14163.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
-    [ "JustEngagedWith", "de/d13/a14163.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
+    [ "npc_zulian_prowlerAI", "de/d13/a14163.html#a367613efead335b060173011267ddcff", null ],
+    [ "JustDied", "de/d13/a14163.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
+    [ "JustEngagedWith", "de/d13/a14163.html#a207504b15ecd22b78088593b80433581", null ],
+    [ "Reset", "de/d13/a14163.html#a62d14bae970d8a70a997c683e0e94259", null ],
+    [ "SpellHit", "de/d13/a14163.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
+    [ "UpdateAI", "de/d13/a14163.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
+    [ "_events", "de/d13/a14163.html#a994ae5b4e72429141155d1342830e5ad", null ],
+    [ "_instance", "de/d13/a14163.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
+    [ "_sideData", "de/d13/a14163.html#afa44e09c5677c2fc567be6a67b766bde", null ]
 ];

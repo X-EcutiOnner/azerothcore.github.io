@@ -1,6 +1,6 @@
 var a19175 =
 [
-    [ "boss_faerlinaAI", "d0/d1e/a19179.html", "d0/d1e/a19179" ],
-    [ "boss_faerlina", "d4/dd5/a19175.html#a86543ac855287e3de2e3ffcde66fb1cb", null ],
-    [ "GetAI", "d4/dd5/a19175.html#aed8214323ff5b792d9bd6aae478e7848", null ]
+    [ "boss_anubrekhanAI", "d0/d1e/a19179.html", "d0/d1e/a19179" ],
+    [ "boss_anubrekhan", "d4/dd5/a19175.html#a6ff866300f8b0b58d4b7467def9747c0", null ],
+    [ "GetAI", "d4/dd5/a19175.html#aba5c31f182d6f600302f84ed21e9f7e9", null ]
 ];

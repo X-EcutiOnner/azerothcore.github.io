@@ -1,6 +1,9 @@
 var a21807 =
 [
-    [ "npc_warmage_coldarraAI", "db/dd4/a21811.html", "db/dd4/a21811" ],
-    [ "npc_warmage_coldarra", "db/d53/a21807.html#a358f8ab26991798ff076ac764cd7abe2", null ],
-    [ "GetAI", "db/d53/a21807.html#aa29181e0ad61b44eff685267f3231382", null ]
+    [ "npc_bloodmage_laurithAI", "db/d53/a21807.html#a75dca4f2e90318f334e7e6385d4f7a6f", null ],
+    [ "Reset", "db/d53/a21807.html#afe9b10dfcee3b241a48e6f2e40eec657", null ],
+    [ "SetGUID", "db/d53/a21807.html#a6fa0d042dda8b709925aa04a3d0a17c8", null ],
+    [ "UpdateAI", "db/d53/a21807.html#a9752f518441071dd4a60cd63423bf9a3", null ],
+    [ "_events", "db/d53/a21807.html#a35facab84094071d952792a4c3e5015d", null ],
+    [ "_playerGUID", "db/d53/a21807.html#a6aab8db1d55d4fe3251b544c292711e8", null ]
 ];

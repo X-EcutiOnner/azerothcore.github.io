@@ -1,12 +1,5 @@
 var a11367 =
 [
-    [ "cooldown", "d1/db9/a11367.html#a0cd88c27979ccc5284aa46846db32a7c", null ],
-    [ "customChance", "d1/db9/a11367.html#adf6742b70f0b00abddf1da6f45da3d16", null ],
-    [ "ppmRate", "d1/db9/a11367.html#a931b2df4a187482e32ef252c3320080a", null ],
-    [ "procEx", "d1/db9/a11367.html#a911770f28fe36243593b12fe92d6fbec", null ],
-    [ "procFlags", "d1/db9/a11367.html#af253ef32b9de49fe85d0fe6f06855a60", null ],
-    [ "procPhase", "d1/db9/a11367.html#a179d83770a02e4ab13f809ed3943a399", null ],
-    [ "schoolMask", "d1/db9/a11367.html#a9a6d38ee4e4a35066780ef924c63f92f", null ],
-    [ "spellFamilyMask", "d1/db9/a11367.html#a2aa57bf419ab51129fe7240750ee8910", null ],
-    [ "spellFamilyName", "d1/db9/a11367.html#a5ffa91b3f66ebb0ac34f30e1c532fb3a", null ]
+    [ "ImplicitTargetType", "d1/db9/a11367.html#adc4268d74a3f0b47902e16eea2fc854a", null ],
+    [ "UsedTargetObjectType", "d1/db9/a11367.html#a7bbc11d4a7a68f9441d393c7b48f5231", null ]
 ];

@@ -1,9 +1,11 @@
 var a20799 =
 [
-    [ "npc_ulduar_dark_rune_sentinelAI", "d7/dd4/a20799.html#a533ae31e0507f12f7d94e347b6b7ebf2", null ],
-    [ "CanAIAttack", "d7/dd4/a20799.html#a12b2e5c621a8b04a4d80dde706a4bb2b", null ],
-    [ "Reset", "d7/dd4/a20799.html#ada2897f48effedd5d5baa5a260497b5a", null ],
-    [ "UpdateAI", "d7/dd4/a20799.html#aa9b319928a9b23cf4d47a07c1eaeb0cd", null ],
-    [ "timer1", "d7/dd4/a20799.html#a383a2ee113822b7eff52466f0cc0e137", null ],
-    [ "timer2", "d7/dd4/a20799.html#ad5c4698c5d12ff42179d62c47d9f7719", null ]
+    [ "boss_thorim_sifAI", "d7/dd4/a20799.html#af63f344d3a5650baaa9b96204abc39a9", null ],
+    [ "AttackStart", "d7/dd4/a20799.html#ae9354f2e97c88cd1af86fae050e810d6", null ],
+    [ "DoAction", "d7/dd4/a20799.html#a8aac66a64c5ca6491595c2b3b6cbbd95", null ],
+    [ "MoveInLineOfSight", "d7/dd4/a20799.html#a3e7d07ca6fc8f4619173f3fd74d63ccb", null ],
+    [ "Reset", "d7/dd4/a20799.html#ab30d73613bafac5b92021677d69b3aae", null ],
+    [ "UpdateAI", "d7/dd4/a20799.html#a09ee3373177e84a5e4e51ebb48c68525", null ],
+    [ "_allowCast", "d7/dd4/a20799.html#ade272764f09375d8e5fda937d42aad90", null ],
+    [ "events", "d7/dd4/a20799.html#a8fd3c7073a250d054e3edc73d5867fbd", null ]
 ];

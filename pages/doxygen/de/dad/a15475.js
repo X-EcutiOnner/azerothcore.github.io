@@ -1,7 +1,7 @@
 var a15475 =
 [
-    [ "npc_anubisath_warder", "de/dad/a15475.html#aebe14673e5c31000a9626e39d87c6775", null ],
-    [ "JustEngagedWith", "de/dad/a15475.html#a579318fa519eb669573b2cea78c2fee3", null ],
-    [ "Reset", "de/dad/a15475.html#aea0fac8f1eb28591b141ace55c49beeb", null ],
-    [ "UpdateAI", "de/dad/a15475.html#aba428f1f1a016191aa4f168c616c3a29", null ]
+    [ "npc_vekniss_stinger", "de/dad/a15475.html#ad48098961715a924270cb8bbbe77e4b0", null ],
+    [ "JustEngagedWith", "de/dad/a15475.html#ae7c758687c81cfb223066f0a9348eab8", null ],
+    [ "Reset", "de/dad/a15475.html#a2a79f3775aad83410ff2670aa438e811", null ],
+    [ "UpdateAI", "de/dad/a15475.html#a1ff479e8f45710f6aa36473933bb87e0", null ]
 ];

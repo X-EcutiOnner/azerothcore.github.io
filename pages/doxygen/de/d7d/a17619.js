@@ -1,6 +1,9 @@
 var a17619 =
 [
-    [ "HandleScript", "de/d7d/a17619.html#acd11d50f398857dc2a24bd2d63e52222", null ],
-    [ "PrepareSpellScript", "de/d7d/a17619.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
-    [ "Register", "de/d7d/a17619.html#ad7f12515dc21ab6b19148370fd491629", null ]
+    [ "CheckTarget", "de/d7d/a17619.html#a43fc6a16aca217ef043fa34a58391357", null ],
+    [ "HandlePresence", "de/d7d/a17619.html#a52ea6041c5fe004c1e996a974cc59d5d", null ],
+    [ "OnCast", "de/d7d/a17619.html#a96cec6f1b51a2c0c03f89447c5306b5a", null ],
+    [ "PrepareSpellScript", "de/d7d/a17619.html#abe559b32aa82f19abb0a6d664b75c748", null ],
+    [ "Register", "de/d7d/a17619.html#ad8c7a9935e85c06f837e694ebcaffba1", null ],
+    [ "Validate", "de/d7d/a17619.html#a2301414a88dcbf4bdc8a486ec4be994e", null ]
 ];

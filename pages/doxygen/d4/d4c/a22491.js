@@ -1,6 +1,6 @@
 var a22491 =
 [
-    [ "npc_time_lost_proto_drakeAI", "dd/d1e/a22495.html", "dd/d1e/a22495" ],
-    [ "npc_time_lost_proto_drake", "d4/d4c/a22491.html#a6fda9f8b0d4e61e88e2a82d101d9c69e", null ],
-    [ "GetAI", "d4/d4c/a22491.html#a8b463fe7a85b0b1526c2f99ed7aeefa2", null ]
+    [ "npc_roxi_ramrocket", "d4/d4c/a22491.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
+    [ "OnGossipHello", "d4/d4c/a22491.html#adec28f778921246c56f11d09753e566e", null ],
+    [ "OnGossipSelect", "d4/d4c/a22491.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
 ];

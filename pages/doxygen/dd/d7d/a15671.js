@@ -1,7 +1,7 @@
 var a15671 =
 [
-    [ "HandleDummy", "dd/d7d/a15671.html#a30a87266b89021caf7d05c45397f70d1", null ],
-    [ "PrepareSpellScript", "dd/d7d/a15671.html#a43a92b346088d710719722e8feed9634", null ],
-    [ "Register", "dd/d7d/a15671.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
-    [ "Validate", "dd/d7d/a15671.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
+    [ "HandleDummy", "dd/d7d/a15671.html#a38dafff805471b19ca3cca4ff5273a87", null ],
+    [ "PrepareSpellScript", "dd/d7d/a15671.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
+    [ "Register", "dd/d7d/a15671.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
+    [ "Validate", "dd/d7d/a15671.html#abb7946f53e6271ae69d34caacef61f47", null ]
 ];

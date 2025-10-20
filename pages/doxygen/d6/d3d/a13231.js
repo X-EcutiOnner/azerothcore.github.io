@@ -1,7 +1,7 @@
 var a13231 =
 [
-    [ "CheckCast", "d6/d3d/a13231.html#a3fe12c32e49232c2ea80095e62b4f981", null ],
-    [ "HandleScriptEffect", "d6/d3d/a13231.html#af265f0bba7028f45763a7f9afea2d051", null ],
-    [ "PrepareSpellScript", "d6/d3d/a13231.html#a27518fd5482e65e0324100057e747d68", null ],
-    [ "Register", "d6/d3d/a13231.html#a07789d7d092eb1b6633200442466c52b", null ]
+    [ "HandleHit", "d6/d3d/a13231.html#aa06c722fbd75f11fa3ba43c77e68f15f", null ],
+    [ "Load", "d6/d3d/a13231.html#affe2cd261752db89b1b418eb18a3370c", null ],
+    [ "PrepareSpellScript", "d6/d3d/a13231.html#a90a11fb3309325c93e7c052e172a0d0b", null ],
+    [ "Register", "d6/d3d/a13231.html#aaadaf49a3757e78d69ffc32768945d16", null ]
 ];

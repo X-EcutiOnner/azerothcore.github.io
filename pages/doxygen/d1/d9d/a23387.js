@@ -1,19 +1,12 @@
 var a23387 =
 [
-    [ "boss_lady_vashj", "d1/d9d/a23387.html#a3934fc6c6363f7c2ee235a58a262135f", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d1/d9d/a23387.html#ad424f1c23cc893e7e48c3e854bf20936", null ],
-    [ "JustDied", "d1/d9d/a23387.html#a8f0074b650b6e0a245726ebdeb8651b6", null ],
-    [ "JustEngagedWith", "d1/d9d/a23387.html#a2b3b3a3bacd8042eb64a49cc9ca8847f", null ],
-    [ "JustSummoned", "d1/d9d/a23387.html#ac577c4f0d0c3e9d1635a1ca9a0954095", null ],
-    [ "KilledUnit", "d1/d9d/a23387.html#a0418ead0213eeea16a531baca96db704", null ],
-    [ "MoveInLineOfSight", "d1/d9d/a23387.html#a4780e7cbcb7984c5742a5c072acfe252", null ],
-    [ "MovementInform", "d1/d9d/a23387.html#ad2d58872d657b3a81c6be0e69d8bff1f", null ],
-    [ "Reset", "d1/d9d/a23387.html#a114729e5a3caa70c89d8c8b53eba5af3", null ],
-    [ "ScheduleSpells", "d1/d9d/a23387.html#ac4821984e5b5310877204fdb93810029", null ],
-    [ "UpdateAI", "d1/d9d/a23387.html#a6ec56730a2735b1d9d35c63242c310b2", null ],
-    [ "_batTimer", "d1/d9d/a23387.html#a0ccfbf23e8f47b77496d35cdeae5e3ac", null ],
-    [ "_count", "d1/d9d/a23387.html#a2c4c2ecaa4b3ad859f46e36be34b1076", null ],
-    [ "_intro", "d1/d9d/a23387.html#a2aafb94d956182723ccc9374854c7fb0", null ],
-    [ "_playerAngle", "d1/d9d/a23387.html#a005515a4f2ad0661d5faff9107ea068b", null ],
-    [ "_recentlySpoken", "d1/d9d/a23387.html#ac7dd5e6962e72a0eb56c89d417bda37a", null ]
+    [ "boss_leotheras_the_blind", "d1/d9d/a23387.html#a9229850f996812366a20508931965a87", null ],
+    [ "AttackStart", "d1/d9d/a23387.html#a678ed3eba7d53976fd6efa9051d11124", null ],
+    [ "DemonTime", "d1/d9d/a23387.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
+    [ "DoAction", "d1/d9d/a23387.html#a4f3fd791f12b3f176ce109237c516889", null ],
+    [ "ElfTime", "d1/d9d/a23387.html#a52f101530de8883231faa7f5fe689691", null ],
+    [ "MoveToTargetIfOutOfRange", "d1/d9d/a23387.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
+    [ "Reset", "d1/d9d/a23387.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
+    [ "UpdateAI", "d1/d9d/a23387.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
+    [ "_recentlySpoken", "d1/d9d/a23387.html#ad5231f13a247247dd7095b16c381fc7c", null ]
 ];

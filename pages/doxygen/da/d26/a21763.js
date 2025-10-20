@@ -1,6 +1,7 @@
 var a21763 =
 [
-    [ "npc_captured_beryl_sorcererAI", "d6/d6a/a21767.html", "d6/d6a/a21767" ],
-    [ "npc_captured_beryl_sorcerer", "da/d26/a21763.html#ace67e76e96e3be9fa5976dc4c90041e6", null ],
-    [ "GetAI", "da/d26/a21763.html#aa5a31390ff3c6277ebff2a5eebe72b3d", null ]
+    [ "npc_mootoo_the_youngerAI", "da/d26/a21763.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "da/d26/a21763.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "da/d26/a21763.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "da/d26/a21763.html#ac758a992ed0d62a272930c84d617b348", null ]
 ];

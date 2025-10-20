@@ -1,7 +1,7 @@
 var a23011 =
 [
-    [ "HandleOnEffectApply", "d5/d2b/a23011.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
-    [ "HandleOnEffectRemove", "d5/d2b/a23011.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
-    [ "PrepareAuraScript", "d5/d2b/a23011.html#a45df29f911b1232e306e04a182648904", null ],
-    [ "Register", "d5/d2b/a23011.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
+    [ "OnPeriodic", "d5/d2b/a23011.html#a165d47b116b0a53e37b05f664960e6ec", null ],
+    [ "PrepareAuraScript", "d5/d2b/a23011.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
+    [ "Register", "d5/d2b/a23011.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
+    [ "Validate", "d5/d2b/a23011.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
 ];

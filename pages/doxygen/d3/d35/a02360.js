@@ -1,11 +1,11 @@
 var a02360 =
 [
-    [ "boss_bug_trio", "d2/dc1/a15287.html", "d2/dc1/a15287" ],
-    [ "boss_kri", "db/d98/a15291.html", "db/d98/a15291" ],
-    [ "boss_vem", "d1/db2/a15295.html", "d1/db2/a15295" ],
-    [ "boss_yauj", "db/d8e/a15299.html", "db/d8e/a15299" ],
-    [ "spell_vem_knockback", "d6/d79/a15303.html", "d6/d79/a15303" ],
-    [ "spell_vem_vengeance", "d5/d60/a15307.html", "d5/d60/a15307" ],
+    [ "boss_bug_trio", "d1/db2/a15295.html", "d1/db2/a15295" ],
+    [ "boss_kri", "db/d8e/a15299.html", "db/d8e/a15299" ],
+    [ "boss_vem", "d6/d79/a15303.html", "d6/d79/a15303" ],
+    [ "boss_yauj", "d5/d60/a15307.html", "d5/d60/a15307" ],
+    [ "spell_vem_knockback", "d8/d92/a15311.html", "d8/d92/a15311" ],
+    [ "spell_vem_vengeance", "d1/d9f/a15315.html", "d1/d9f/a15315" ],
     [ "Misc", "d3/d35/a02360.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d2/db4/a03695.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "db/d49/a03737.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

@@ -1,6 +1,6 @@
 var a13871 =
 [
-    [ "npc_lord_gregor_lescovarAI", "db/de7/a13875.html", "db/de7/a13875" ],
-    [ "npc_lord_gregor_lescovar", "d5/d48/a13871.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
-    [ "GetAI", "d5/d48/a13871.html#a4cf39729bb687c7db3538575a799283e", null ]
+    [ "npc_ravenclaw_apparitionAI", "db/de7/a13875.html", "db/de7/a13875" ],
+    [ "npc_ravenclaw_apparition", "d5/d48/a13871.html#a961044571250519e62d7d33633974038", null ],
+    [ "GetAI", "d5/d48/a13871.html#a9de4a85f8318ff8b1ad30aa4c8f15765", null ]
 ];

@@ -1,8 +1,6 @@
 var a22459 =
 [
-    [ "CheckCast", "db/d6c/a22459.html#ab1584c391ac81b8338387acc6187001f", null ],
-    [ "HandleDummy", "db/d6c/a22459.html#abe856e2c3b986eeac0c1a62aa301eb6d", null ],
-    [ "PrepareSpellScript", "db/d6c/a22459.html#a08d9ffb7dcbe786071979166e0489336", null ],
-    [ "Register", "db/d6c/a22459.html#a5f0bbd57f3cbc0d0de3d8830dd4e6f2b", null ],
-    [ "Validate", "db/d6c/a22459.html#a82d931b4a15f6a60c27d932e8188ef78", null ]
+    [ "npc_iron_watcherAI", "db/d05/a22463.html", "db/d05/a22463" ],
+    [ "npc_iron_watcher", "db/d6c/a22459.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
+    [ "GetAI", "db/d6c/a22459.html#af3b80b838e192737762ceed599b0be9a", null ]
 ];

@@ -1,14 +1,9 @@
 var a13295 =
 [
-    [ "boss_kirtonos_the_heraldAI", "d2/d69/a13295.html#af68c553db0889c22b7b4b76c868d38e7", null ],
-    [ "DoAction", "d2/d69/a13295.html#ade11c2ff67c93f09f34b7b0e59766cc3", null ],
-    [ "EnterEvadeMode", "d2/d69/a13295.html#a92ee25d349cc1ae3e46e4696a01697c3", null ],
-    [ "JustDied", "d2/d69/a13295.html#a7ecf7396ebcb6f541586435996094f56", null ],
-    [ "JustEngagedWith", "d2/d69/a13295.html#abcf09a75bed393e5fc03ef184e5c2918", null ],
-    [ "MovementInform", "d2/d69/a13295.html#a16379320eebb8223a79cf3927bdc507e", null ],
-    [ "UpdateAI", "d2/d69/a13295.html#a7eedcb1416d05b95f6110751119aea02", null ],
-    [ "events", "d2/d69/a13295.html#a5dd38f68ce8745484cbc00dadde439dc", null ],
-    [ "events2", "d2/d69/a13295.html#aaf9216da4f5394953d0316be8d8e8c4f", null ],
-    [ "instance", "d2/d69/a13295.html#acae39cf7bc9a6d68834d3916fa75a006", null ],
-    [ "TransformsCount", "d2/d69/a13295.html#aa0834b23d00463ae36bb0ec6a2067257", null ]
+    [ "npc_risen_guardianAI", "d2/d69/a13295.html#a50eb3de52205fc1bbc6936f0708c68a6", null ],
+    [ "IsSummonedBy", "d2/d69/a13295.html#ad9f45b9007c1ff74d0f725fbf7f00abe", null ],
+    [ "KilledUnit", "d2/d69/a13295.html#abc7afaa685a436b34ff76edcc6c25e54", null ],
+    [ "Gandling", "d2/d69/a13295.html#a93013b905260aa51341b22d1627cc986", null ],
+    [ "instance", "d2/d69/a13295.html#a96f1835989f646c708b8ef0cc9999e63", null ],
+    [ "room", "d2/d69/a13295.html#a5862a184b6daa92da133cc6c360a993d", null ]
 ];

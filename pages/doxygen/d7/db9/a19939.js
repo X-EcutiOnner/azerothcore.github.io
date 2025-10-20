@@ -1,6 +1,6 @@
 var a19939 =
 [
-    [ "HandlePeriodic", "d7/db9/a19939.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
-    [ "PrepareAuraScript", "d7/db9/a19939.html#a7c6b6839da4a93f656800c9ae174c832", null ],
-    [ "Register", "d7/db9/a19939.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
+    [ "PrepareSpellScript", "d7/db9/a19939.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
+    [ "RecalculateDamage", "d7/db9/a19939.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
+    [ "Register", "d7/db9/a19939.html#aac131aa2d2e5342cf0303b918a077b45", null ]
 ];

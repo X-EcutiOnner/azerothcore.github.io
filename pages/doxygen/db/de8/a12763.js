@@ -1,12 +1,8 @@
 var a12763 =
 [
-    [ "BoardCell", "db/de8/a12763.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
-    [ "Reset", "db/de8/a12763.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
-    [ "SetData", "db/de8/a12763.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
-    [ "SetPiece", "db/de8/a12763.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
-    [ "col", "db/de8/a12763.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
-    [ "pieceEntry", "db/de8/a12763.html#a7697506ccc800d38968e457c44bfa019", null ],
-    [ "pieceGUID", "db/de8/a12763.html#a74f494e406c56d4c61d79539acea684c", null ],
-    [ "row", "db/de8/a12763.html#a195c187e134be546f224cbb0eef8c844", null ],
-    [ "triggerGUID", "db/de8/a12763.html#a9cafdea50739b014a97e60611adcd3f1", null ]
+    [ "npc_kernobeeAI", "db/de8/a12763.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
+    [ "SetGUID", "db/de8/a12763.html#ab704b138670279f6d731a6bb58ac6d10", null ],
+    [ "UpdateAI", "db/de8/a12763.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
+    [ "checkTimer", "db/de8/a12763.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
+    [ "playerGUID", "db/de8/a12763.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
 ];

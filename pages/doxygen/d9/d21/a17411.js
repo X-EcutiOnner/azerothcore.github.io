@@ -1,7 +1,6 @@
 var a17411 =
 [
-    [ "HandleApplyAura", "d9/d21/a17411.html#ac71784d7d135df4828ddcf5c85c4301c", null ],
-    [ "PrepareSpellScript", "d9/d21/a17411.html#a097bf3b27e4b2d9ceddea07b9c0b8ce9", null ],
-    [ "Register", "d9/d21/a17411.html#a80638966202cb9e27d204ea621e379ef", null ],
-    [ "Validate", "d9/d21/a17411.html#aaa3505a74905b91f52e37b0ded0ba7fd", null ]
+    [ "boss_gal_darahAI", "d9/df5/a17415.html", "d9/df5/a17415" ],
+    [ "boss_gal_darah", "d9/d21/a17411.html#a687bb98f9de9cd838c57511dc6b3d086", null ],
+    [ "GetAI", "d9/d21/a17411.html#a8f709568f5a06265056571061ff3a26b", null ]
 ];

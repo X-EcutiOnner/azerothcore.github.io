@@ -1,7 +1,6 @@
 var a17915 =
 [
-    [ "DamageGunship", "db/dbc/a17915.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
-    [ "PrepareSpellScript", "db/dbc/a17915.html#aa698d016ae58d665c081976f20ec0385", null ],
-    [ "Register", "db/dbc/a17915.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
-    [ "Validate", "db/dbc/a17915.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
+    [ "IgbArtilleryCheck", "db/dbc/a17915.html#a78b65928551ed799cf3f446f0603c50e", null ],
+    [ "operator()", "db/dbc/a17915.html#ac083bfb9a5fa2b9888c4e31254baada6", null ],
+    [ "_entry", "db/dbc/a17915.html#a98a6a0836414da82c288e372e982f69f", null ]
 ];

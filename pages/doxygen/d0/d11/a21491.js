@@ -1,13 +1,22 @@
 var a21491 =
 [
-    [ "boss_toravonAI", "d0/d11/a21491.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
-    [ "AttackStart", "d0/d11/a21491.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
-    [ "JustDied", "d0/d11/a21491.html#ad501bb34a0014be0abc965aae5383e21", null ],
-    [ "JustEngagedWith", "d0/d11/a21491.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
-    [ "JustSummoned", "d0/d11/a21491.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
-    [ "Reset", "d0/d11/a21491.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
-    [ "UpdateAI", "d0/d11/a21491.html#a97c16b1689cfdb7fa680381964cb272a", null ],
-    [ "events", "d0/d11/a21491.html#ae2a3b691f1580275228204ea8ccaf846", null ],
-    [ "pInstance", "d0/d11/a21491.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
-    [ "summons", "d0/d11/a21491.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
+    [ "instance_vault_of_archavon_InstanceMapScript", "d0/d11/a21491.html#ab0f9e62a516c2a572d438ee6b33ffe89", null ],
+    [ "CheckAchievementCriteriaMeet", "d0/d11/a21491.html#afafb4c0c0e79b58094ea09068ebdf724", null ],
+    [ "GetData", "d0/d11/a21491.html#aa3f41b9c79c7bcdd9ad330fa58376799", null ],
+    [ "GetGuidData", "d0/d11/a21491.html#a371a688192e9c7c239fc4c1de8e45877", null ],
+    [ "Initialize", "d0/d11/a21491.html#acc0816a05728b59ddf7aeb4077a7329d", null ],
+    [ "IsEncounterInProgress", "d0/d11/a21491.html#ae2607badcd241cf6b0d4b3a224acc802", null ],
+    [ "OnCreatureCreate", "d0/d11/a21491.html#ae16d97e5a2cfe7fce6ede12874cb9243", null ],
+    [ "OnPlayerEnter", "d0/d11/a21491.html#a82fdae36261fa7d845e8d7fdf2428637", null ],
+    [ "ReadSaveDataMore", "d0/d11/a21491.html#a07a9861d018a35cd295f65b7e68a5bd1", null ],
+    [ "SetData", "d0/d11/a21491.html#a336bd80e5118d6b5cfa0f76f5d207fc5", null ],
+    [ "Update", "d0/d11/a21491.html#ac22e9b215c1351f543289af2875491b4", null ],
+    [ "WriteSaveDataMore", "d0/d11/a21491.html#a22e3c4bb29159588a96f13644218c427", null ],
+    [ "ArchavonDeath", "d0/d11/a21491.html#a1259cf1ed03095fb3e93f6aab203aa99", null ],
+    [ "bossGUIDs", "d0/d11/a21491.html#a6dc53f3e4385f09869d91f59520b79d4", null ],
+    [ "checkTimer", "d0/d11/a21491.html#aabf39e7d3cef7951c861c194dfff9ecd", null ],
+    [ "EmalonDeath", "d0/d11/a21491.html#ac9235ec40c6648bb2a7d252b0053bc47", null ],
+    [ "KoralonDeath", "d0/d11/a21491.html#a544c022446c0ddb39797417271ec1259", null ],
+    [ "m_auiEncounter", "d0/d11/a21491.html#a708d88ed26d8c00cd9fc8f1601c9358e", null ],
+    [ "stoned", "d0/d11/a21491.html#acde4794f2e980d523e873c0e610f726a", null ]
 ];

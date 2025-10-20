@@ -1,6 +1,6 @@
 var a22111 =
 [
-    [ "HandleScriptEffect", "dd/d0f/a22111.html#aab68c7fac277f4da5a6cf8bf8e6256ea", null ],
-    [ "PrepareSpellScript", "dd/d0f/a22111.html#a6b7f628a138ac395a8cc122902ec38b4", null ],
-    [ "Register", "dd/d0f/a22111.html#aacf2bbf7b8396fd7cfbfaf34a66f9b61", null ]
+    [ "npc_mrfloppyAI", "dc/dd6/a22115.html", "dc/dd6/a22115" ],
+    [ "npc_mrfloppy", "dd/d0f/a22111.html#a0515ca75aba9b7f6f5577b53e7520f6e", null ],
+    [ "GetAI", "dd/d0f/a22111.html#a88590566309f3fc155eb6dc26055a161", null ]
 ];

@@ -1,15 +1,15 @@
 var a17259 =
 [
-    [ "npc_pos_deathwhisper_necrolyteAI", "d3/d26/a17259.html#ae03f3fef42fcbcecedaf38692d1e9131", null ],
-    [ "DamageTaken", "d3/d26/a17259.html#aad000cc1310f22325a29131fad169cbc", null ],
-    [ "DoAction", "d3/d26/a17259.html#a5d7a324073cfdbd01ae267964959f15b", null ],
-    [ "InitializeAI", "d3/d26/a17259.html#ad84905d1385bce0e431c2baf1158a343", null ],
-    [ "JustEngagedWith", "d3/d26/a17259.html#ae095fa3ceb484cc289a086be8c2f2552", null ],
-    [ "MoveInLineOfSight", "d3/d26/a17259.html#a1d43b002628080d5faf2fd59347a7f79", null ],
-    [ "MovementInform", "d3/d26/a17259.html#a849b06a045de5529706e83b03febe135", null ],
-    [ "Reset", "d3/d26/a17259.html#a0e6b326b3c8102dd711c002537f2c339", null ],
-    [ "UpdateAI", "d3/d26/a17259.html#ade1c91217b6c6e33bfca60a69a51bbc0", null ],
-    [ "events", "d3/d26/a17259.html#a30d65bc3625ed22e11ed7e040451643c", null ],
-    [ "isInvincible", "d3/d26/a17259.html#a0216b301112656fb75907ff1f0d50d0f", null ],
-    [ "pInstance", "d3/d26/a17259.html#afb71e537115d36795c2568360b2d58ce", null ]
+    [ "npc_pos_leaderAI", "d3/d26/a17259.html#a21973bccde394785f8619df7cae5270b", null ],
+    [ "AttackStart", "d3/d26/a17259.html#a6dc4161441752b8ea9baab642d6a0684", null ],
+    [ "JustSummoned", "d3/d26/a17259.html#a03bfcd0ea38073ff8481188d1b570553", null ],
+    [ "MoveInLineOfSight", "d3/d26/a17259.html#ad28f607b313f7729649261969912eba5", null ],
+    [ "Reset", "d3/d26/a17259.html#aee23a2835b84ac060a29b41c10116904", null ],
+    [ "SetData", "d3/d26/a17259.html#a2b49d5045e0d1e25e7a05b1e3ce65b4f", null ],
+    [ "SummonedCreatureDespawn", "d3/d26/a17259.html#a9a35459cf7b83c9f0afc557d1b0b40e7", null ],
+    [ "UpdateAI", "d3/d26/a17259.html#a1507ab4bdade501cf92f843cec20842d", null ],
+    [ "counter", "d3/d26/a17259.html#a7012a08c6409a40646dcd91a47eb6886", null ],
+    [ "events", "d3/d26/a17259.html#a7ea570e98c7a70ae604861c2166eb429", null ],
+    [ "pInstance", "d3/d26/a17259.html#a1ba3692738d6bd474d54fe8910a7f316", null ],
+    [ "summons", "d3/d26/a17259.html#a44b5ee694d96644da91167c7d793eeb3", null ]
 ];

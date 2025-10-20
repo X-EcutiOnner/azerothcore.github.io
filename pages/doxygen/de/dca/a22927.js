@@ -1,6 +1,6 @@
 var a22927 =
 [
-    [ "PrepareSpellScript", "de/dca/a22927.html#abd6b61e7efbed1427b7603640ac7d474", null ],
-    [ "RecalculateDamage", "de/dca/a22927.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
-    [ "Register", "de/dca/a22927.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
+    [ "HandleScriptEffect", "de/dca/a22927.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
+    [ "PrepareSpellScript", "de/dca/a22927.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
+    [ "Register", "de/dca/a22927.html#aad6959f74932db219e991efd3b3af44a", null ]
 ];

@@ -1,6 +1,6 @@
 var a15975 =
 [
-    [ "go_troll_cageAI", "db/da5/a15979.html", "db/da5/a15979" ],
-    [ "go_troll_cage", "d9/d13/a15975.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
-    [ "GetAI", "d9/d13/a15975.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
+    [ "npc_sergeant_blyAI", "db/da5/a15979.html", "db/da5/a15979" ],
+    [ "npc_sergeant_bly", "d9/d13/a15975.html#afd5c6129098e4939e2b9f3d12b8c7058", null ],
+    [ "GetAI", "d9/d13/a15975.html#ad54ff5aabbc30de759c8f31b7ef9f46e", null ]
 ];

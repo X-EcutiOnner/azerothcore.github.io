@@ -1,5 +1,6 @@
 var a15539 =
 [
-    [ "go_ravager_cage", "dc/d06/a15539.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
-    [ "OnGossipHello", "dc/d06/a15539.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
+    [ "npc_magwinAI", "d9/df2/a15543.html", "d9/df2/a15543" ],
+    [ "npc_magwin", "dc/d06/a15539.html#a1a45602fd312a4c436b09fb7b90ac1d4", null ],
+    [ "GetAI", "dc/d06/a15539.html#a83bee0fd5c1494f2bb732fe9e0ed1594", null ]
 ];

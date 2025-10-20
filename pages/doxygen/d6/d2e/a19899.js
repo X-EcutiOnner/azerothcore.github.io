@@ -1,9 +1,8 @@
 var a19899 =
 [
-    [ "npc_brann_bronzebeard_algalonAI", "d6/d2e/a19899.html#a5ab0ff088866cf9d6af99ee3f42e897a", null ],
-    [ "DoAction", "d6/d2e/a19899.html#a9de9e9b19b8a635ec4bc0a4f8c8d13c6", null ],
-    [ "MovementInform", "d6/d2e/a19899.html#a7f8d3efed49f0d43a5e9e73ee8bd36e0", null ],
-    [ "UpdateAI", "d6/d2e/a19899.html#a16e3fcd7f082e04f648d2341a7e83cba", null ],
-    [ "_currentPoint", "d6/d2e/a19899.html#ae9da41b5b4cae16e1ed4709ab41b8964", null ],
-    [ "events", "d6/d2e/a19899.html#ab71b71ac63517349cb8702bb29d76334", null ]
+    [ "npc_algalon_worm_holeAI", "d6/d2e/a19899.html#a07b36b40972bebea6b17890aa8fee50c", null ],
+    [ "JustSummoned", "d6/d2e/a19899.html#a148de5da4502813e369ec6c52b1671a0", null ],
+    [ "Reset", "d6/d2e/a19899.html#a915a8e5e23062cb10da9a3dbe387cf51", null ],
+    [ "UpdateAI", "d6/d2e/a19899.html#a9df88d81aa4f4dd7e1dcdf6209832c32", null ],
+    [ "_summonTimer", "d6/d2e/a19899.html#a73a55560e5ff7957d883f732bc0d2a82", null ]
 ];

@@ -1,7 +1,6 @@
 var a22059 =
 [
-    [ "FilterTargets", "d7/de1/a22059.html#af62588a225f0b701a0f9321677ae22b8", null ],
-    [ "HandleScript", "d7/de1/a22059.html#ad68fad08b2613de096e504bb7dea61cd", null ],
-    [ "PrepareSpellScript", "d7/de1/a22059.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
-    [ "Register", "d7/de1/a22059.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
+    [ "npc_spiritual_insightAI", "d7/de1/a22059.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "d7/de1/a22059.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "d7/de1/a22059.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

@@ -1,5 +1,8 @@
 var a23627 =
 [
-    [ "at_underbog_ghazan", "d3/d8d/a23627.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
-    [ "_OnTrigger", "d3/d8d/a23627.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
+    [ "boss_the_black_stalker", "d3/d8d/a23627.html#ac33519b374509cefe43b8e97701719ee", null ],
+    [ "JustEngagedWith", "d3/d8d/a23627.html#ad118347103ec463a09492e81dbd61418", null ],
+    [ "JustSummoned", "d3/d8d/a23627.html#a9e0299a99df83abb7de476a765b667b9", null ],
+    [ "SummonedCreatureDies", "d3/d8d/a23627.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
+    [ "UpdateAI", "d3/d8d/a23627.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
 ];

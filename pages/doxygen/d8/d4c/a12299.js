@@ -1,11 +1,11 @@
 var a12299 =
 [
-    [ "boss_solakar_flamewreathAI", "d8/d4c/a12299.html#ada12a91bedec9be8923f9dc74fce07d0", null ],
-    [ "ExecuteEvent", "d8/d4c/a12299.html#aa1fca22d30b15ee93cc02084ebab0c2c", null ],
-    [ "InitializeAI", "d8/d4c/a12299.html#a7a8a5d3c453e29ec746422e1ba8e4d34", null ],
-    [ "JustDied", "d8/d4c/a12299.html#aceb580afa2329ada3236dc759f3a3c20", null ],
-    [ "JustEngagedWith", "d8/d4c/a12299.html#a47f8a133b6f8c0de11a66b712bb8e266", null ],
-    [ "Reset", "d8/d4c/a12299.html#a25ae2943a7ce9a1f459cfd1313c84c49", null ],
-    [ "UpdateAI", "d8/d4c/a12299.html#ac5f908584251455c720ce3f25ed07dae", null ],
-    [ "resetTimer", "d8/d4c/a12299.html#acd7fdd30767a7863f265eb96e29c221e", null ]
+    [ "npc_rookery_hatcherAI", "d8/d4c/a12299.html#a3154429437a108edf77de7ec1f0b2cda", null ],
+    [ "InitializeAI", "d8/d4c/a12299.html#af144dc2cbe632038057f931fd71da29d", null ],
+    [ "JustEngagedWith", "d8/d4c/a12299.html#a7b7ecaa42bdd35f4ee9fe7fad4cd25a9", null ],
+    [ "UpdateAI", "d8/d4c/a12299.html#a0f867aa346a2f829067466fbfe6c5335", null ],
+    [ "events", "d8/d4c/a12299.html#a220e6f9869d0ea53a593a6ac8e0e28bd", null ],
+    [ "nearbyEggs", "d8/d4c/a12299.html#a2cf183745cdf699af7bd273e0ee4d697", null ],
+    [ "targetEgg", "d8/d4c/a12299.html#a877af9948503688944e49503a6293574", null ],
+    [ "targetPosition", "d8/d4c/a12299.html#a2e94b3d12ef3d8f80546db6c9a9e9e95", null ]
 ];

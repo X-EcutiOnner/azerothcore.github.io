@@ -1,17 +1,11 @@
 var a12071 =
 [
-    [ "boss_ambassador_flamelashAI", "d8/dcc/a12071.html#a33afad6262abe2a0c9224a4b5bb3ce28", null ],
-    [ "DoAction", "d8/dcc/a12071.html#a6466b6b4a275849a813a362ef6b1d518", null ],
-    [ "getValidRandomPosition", "d8/dcc/a12071.html#ae9faa36cdc7a0d6faf0b7d4ec5b380e9", null ],
-    [ "JustDied", "d8/dcc/a12071.html#a2d2a162132b7f4c0a5faf1f86a476002", null ],
-    [ "JustEngagedWith", "d8/dcc/a12071.html#a79138cf6c886c843544b948778f91145", null ],
-    [ "JustSummoned", "d8/dcc/a12071.html#a9ec61ccf9984a9a68091ca9fba7582df", null ],
-    [ "Reset", "d8/dcc/a12071.html#ae2dd71a0edfc489645de130a8b731392", null ],
-    [ "SummonSpirits", "d8/dcc/a12071.html#a6c88f2f38d3072f5192fc0b9bd2c6e04", null ],
-    [ "TurnRunes", "d8/dcc/a12071.html#aefcdf4c5b663671fb96395e280141bbb", null ],
-    [ "UpdateAI", "d8/dcc/a12071.html#a528436b7e4e55910d1eb6e00831e7e41", null ],
-    [ "_events", "d8/dcc/a12071.html#a80aaeb0ce3a5fe101aedbdfc2489bafe", null ],
-    [ "foundValidPosition", "d8/dcc/a12071.html#a4b3a75fa687361efc85ebc0da7bf2b75", null ],
-    [ "summons", "d8/dcc/a12071.html#a6c1a07a1a59b46d65683436f32f76bf9", null ],
-    [ "validPosition", "d8/dcc/a12071.html#af11a0cddced13c34a012c8df964ab68a", null ]
+    [ "npc_rocknotAI", "d8/dcc/a12071.html#a4daa5104eabb6d38c22274b48a8514be", null ],
+    [ "DoGo", "d8/dcc/a12071.html#a7591520e06782feddb98a86107fbcb27", null ],
+    [ "Reset", "d8/dcc/a12071.html#a4d855a23c638e835de6f1c4644350166", null ],
+    [ "UpdateAI", "d8/dcc/a12071.html#a1d3bce3248766393be5f84c5ca5030b1", null ],
+    [ "WaypointReached", "d8/dcc/a12071.html#ae7d6f0b1e52767c61ad014accb1cec7a", null ],
+    [ "BreakDoor_Timer", "d8/dcc/a12071.html#a3ae6edef4812fd3161c3b8ad5aa5cac2", null ],
+    [ "BreakKeg_Timer", "d8/dcc/a12071.html#a6f380ad58cf55fe2ea9fc1f56118b454", null ],
+    [ "instance", "d8/dcc/a12071.html#a4328c25f12f562cfdf41740e908cb3bd", null ]
 ];

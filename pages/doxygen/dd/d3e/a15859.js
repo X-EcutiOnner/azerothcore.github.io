@@ -1,20 +1,14 @@
 var a15859 =
 [
-    [ "npc_twiggy_flatheadAI", "dd/d3e/a15859.html#a03aee9619eafa0f497390c520cbfaf24", null ],
-    [ "CleanUp", "dd/d3e/a15859.html#adfe48ed23633691608b289c4751c788a", null ],
-    [ "EnterEvadeMode", "dd/d3e/a15859.html#a9fd1519e6196ba4db30740b16904964b", null ],
-    [ "JustEngagedWith", "dd/d3e/a15859.html#aa601e079ed93d4d21f2ea2decf6cdab3", null ],
-    [ "MoveInLineOfSight", "dd/d3e/a15859.html#a95188ce1d3abba7dfeef5a9cbd6d3306", null ],
-    [ "Reset", "dd/d3e/a15859.html#ab98c38a9d8c3cb3e1ac67f321cfe90fb", null ],
-    [ "UpdateAI", "dd/d3e/a15859.html#a0a9cefdaf419143eed6e6aa89489e8dd", null ],
-    [ "AffrayChallenger", "dd/d3e/a15859.html#a42354987ab877f7c113ac44b50d4a660", null ],
-    [ "BigWill", "dd/d3e/a15859.html#a4a017e9153c04e34b2c9c3ae30583856", null ],
-    [ "ChallengerChecker", "dd/d3e/a15859.html#a9908c43715426b75c06c1e2032f4fcca", null ],
-    [ "ChallengerDown", "dd/d3e/a15859.html#a8777dbc5bd40e29a46d1195414a3f754", null ],
-    [ "EventBigWill", "dd/d3e/a15859.html#a32d931e4aabbabedd05ae243038cca8e", null ],
-    [ "EventGrate", "dd/d3e/a15859.html#a8bc3907272941dbf2218cc0dbafb205f", null ],
-    [ "EventInProgress", "dd/d3e/a15859.html#a4dd84ae18a7f79238f110659db03b984", null ],
-    [ "PlayerGUID", "dd/d3e/a15859.html#aa510117962fc5294113f2f88a1f2a652", null ],
-    [ "Wave", "dd/d3e/a15859.html#a5a38a9a8da1b9cd03e800fcd90e38d1a", null ],
-    [ "WaveTimer", "dd/d3e/a15859.html#a8a0d2b9db7f49cdb367dcf6f68bc1633", null ]
+    [ "npc_taskmaster_fizzuleAI", "dd/d3e/a15859.html#ac792f91930c869ce919f8fd96b3fb076", null ],
+    [ "DoFriend", "dd/d3e/a15859.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
+    [ "JustEngagedWith", "dd/d3e/a15859.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
+    [ "ReceiveEmote", "dd/d3e/a15859.html#a21d0d70086f085b715a12d05fbe5d611", null ],
+    [ "Reset", "dd/d3e/a15859.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
+    [ "SpellHit", "dd/d3e/a15859.html#a4c35104935a3a6264c853a657dc42244", null ],
+    [ "UpdateAI", "dd/d3e/a15859.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
+    [ "factionNorm", "dd/d3e/a15859.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
+    [ "FlareCount", "dd/d3e/a15859.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
+    [ "IsFriend", "dd/d3e/a15859.html#ab7e6bd2e023545c73fba758267551eee", null ],
+    [ "ResetTimer", "dd/d3e/a15859.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
 ];

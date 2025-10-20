@@ -1,8 +1,14 @@
 var a11803 =
 [
-    [ "accountId", "d6/db1/a11803.html#ad146b84be01ec07a5fee8184f0cc2da9", null ],
-    [ "accountName", "d6/db1/a11803.html#a4849bd1f43fd15eea1991948abdc576d", null ],
-    [ "deleteDate", "d6/db1/a11803.html#a65a101727094841d34e8775bb7504cba", null ],
-    [ "lowGuid", "d6/db1/a11803.html#a11fd07e662184f750ac0a5e547a22437", null ],
-    [ "name", "d6/db1/a11803.html#a0e85dce38305e222c5654315ed68bfc1", null ]
+    [ "cast_commandscript", "d6/db1/a11803.html#a9c657d2c5404149a45a2db748d23fc2f", null ],
+    [ "CheckSpellCastResult", "d6/db1/a11803.html#a244b2d11a07fdcbb72f3207ab1e46ea5", null ],
+    [ "CheckSpellExistsAndIsValid", "d6/db1/a11803.html#a14da4e4674b065c8e8f3d1946a037bda", null ],
+    [ "GetCommands", "d6/db1/a11803.html#ab0890c036a8d301b382fdd1b6371f671", null ],
+    [ "GetTriggerFlags", "d6/db1/a11803.html#a26e6986c45a99e6a94d7ba2d9a810aa3", null ],
+    [ "HandleCastBackCommand", "d6/db1/a11803.html#a964a40278f609a5c5a0bae651484c726", null ],
+    [ "HandleCastCommand", "d6/db1/a11803.html#ac28430cc0623209b891bacbb4845509b", null ],
+    [ "HandleCastDestCommand", "d6/db1/a11803.html#a156ca81fba7155205dae106aa4c221d6", null ],
+    [ "HandleCastDistCommand", "d6/db1/a11803.html#aabbcac8e85c6a64a647d71bb22bebede", null ],
+    [ "HandleCastSelfCommand", "d6/db1/a11803.html#a69e88bb174c2518584a9ae622e2850bf", null ],
+    [ "HandleCastTargetCommad", "d6/db1/a11803.html#aa72bd317a3498ef07007c1a9e81e2796", null ]
 ];

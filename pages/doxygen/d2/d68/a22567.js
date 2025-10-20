@@ -1,6 +1,7 @@
 var a22567 =
 [
-    [ "CheckCast", "d2/d68/a22567.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
-    [ "PrepareSpellScript", "d2/d68/a22567.html#ab4025d8a4acee4723dcca972bce01f45", null ],
-    [ "Register", "d2/d68/a22567.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
+    [ "npc_wg_quest_giver", "d2/d68/a22567.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "d2/d68/a22567.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "d2/d68/a22567.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "d2/d68/a22567.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

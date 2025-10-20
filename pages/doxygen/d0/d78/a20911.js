@@ -1,5 +1,6 @@
 var a20911 =
 [
-    [ "achievement_thorim_stand_in_the_lightning", "d0/d78/a20911.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
-    [ "OnCheck", "d0/d78/a20911.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
+    [ "npc_xt002_scrapbotAI", "d8/d63/a20915.html", "d8/d63/a20915" ],
+    [ "npc_xt002_scrapbot", "d0/d78/a20911.html#accfd75266d058af3856bdb625728c18d", null ],
+    [ "GetAI", "d0/d78/a20911.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
 ];

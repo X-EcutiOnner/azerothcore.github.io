@@ -1,5 +1,7 @@
 var a24051 =
 [
-    [ "npc_lord_sanguinar", "d0/d5c/a24051.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
-    [ "ScheduleEvents", "d0/d5c/a24051.html#af9231da98547875527a519c5884cbec0", null ]
+    [ "HandleEffect", "d0/d5c/a24051.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
+    [ "PrepareSpellScript", "d0/d5c/a24051.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
+    [ "Register", "d0/d5c/a24051.html#ac406946bb793125d49006e3a877c9638", null ],
+    [ "SelectTarget", "d0/d5c/a24051.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
 ];

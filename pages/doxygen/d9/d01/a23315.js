@@ -1,7 +1,11 @@
 var a23315 =
 [
-    [ "OnPeriodic", "d9/d01/a23315.html#ad64b9ba13ef7d77cd778afb8e412ad04", null ],
-    [ "PrepareAuraScript", "d9/d01/a23315.html#a40faff90cb247203d3afafad9c44bfd7", null ],
-    [ "Register", "d9/d01/a23315.html#a8b2d4235784396b8c29b8e7de51e5708", null ],
-    [ "Validate", "d9/d01/a23315.html#a57b481cf462f53ec76f2db326b48c9b6", null ]
+    [ "boss_doomwalker", "d9/d01/a23315.html#a47811086ff98b1a09af5300af94b6c0e", null ],
+    [ "JustDied", "d9/d01/a23315.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
+    [ "JustEngagedWith", "d9/d01/a23315.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
+    [ "KilledUnit", "d9/d01/a23315.html#a2335eb642940397f73ee2a8051624e8e", null ],
+    [ "MoveInLineOfSight", "d9/d01/a23315.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
+    [ "Reset", "d9/d01/a23315.html#aba08b227d629c9f35e59f465e29c267b", null ],
+    [ "UpdateAI", "d9/d01/a23315.html#a3105c50e512c6f709985cece619b131f", null ],
+    [ "_inEnrage", "d9/d01/a23315.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
 ];

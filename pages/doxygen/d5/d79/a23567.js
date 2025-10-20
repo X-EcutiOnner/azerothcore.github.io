@@ -1,7 +1,5 @@
 var a23567 =
 [
-    [ "HandleScriptEffect", "d5/d79/a23567.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
-    [ "PrepareSpellScript", "d5/d79/a23567.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
-    [ "Register", "d5/d79/a23567.html#a14772c25b70078c0034b8de17de5b77a", null ],
-    [ "Validate", "d5/d79/a23567.html#a8318385367bf6c6b09e0978c461f5d59", null ]
+    [ "at_quagmirran_lair", "d5/d79/a23567.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
+    [ "OnTrigger", "d5/d79/a23567.html#aa0aab42516efaf842923b8a820942ac4", null ]
 ];

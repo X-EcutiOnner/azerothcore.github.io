@@ -1,14 +1,7 @@
 var a23443 =
 [
-    [ "boss_the_lurker_below", "dd/d1e/a23443.html#ac76c71b6a47e1a936256d9c5901c27ab", null ],
-    [ "AttackStart", "dd/d1e/a23443.html#af0f6fbe31dbcd6df4e8f1b57730e093b", null ],
-    [ "DamageTaken", "dd/d1e/a23443.html#ae7c05744013753b29072ec1b5d9f2570", null ],
-    [ "DoAction", "dd/d1e/a23443.html#a30e07055aa632066a75ad48f3e8109e2", null ],
-    [ "EnterEvadeMode", "dd/d1e/a23443.html#a522164e819db5062225f7d5704cdaa36", null ],
-    [ "JustEngagedWith", "dd/d1e/a23443.html#aa31e26b77e0c2403a338f781bf14c94b", null ],
-    [ "Reset", "dd/d1e/a23443.html#ae592707182d64689e6578813b3617ee3", null ],
-    [ "SchedulerPhaseOne", "dd/d1e/a23443.html#a42dd2ed36209e7be61788d054e2754b5", null ],
-    [ "SchedulerPhaseTwo", "dd/d1e/a23443.html#aa910c20d3ee26d6d2e71818008eb3b5c", null ],
-    [ "SummonedCreatureDies", "dd/d1e/a23443.html#a5ec68a1bc5b22e03fe485448257ad7df", null ],
-    [ "UpdateAI", "dd/d1e/a23443.html#a92d854cb21b272bd09674c724b1aa862", null ]
+    [ "FilterTargets", "dd/d1e/a23443.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
+    [ "HandleDummy", "dd/d1e/a23443.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
+    [ "PrepareSpellScript", "dd/d1e/a23443.html#ae7714acbe0a08781e3bc297847c47870", null ],
+    [ "Register", "dd/d1e/a23443.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
 ];

@@ -1,9 +1,6 @@
 var a27915 =
 [
-    [ "npc_fireworkAI", "d2/da1/a27915.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
-    [ "FindNearestLauncher", "d2/da1/a27915.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
-    [ "GetFireworkGameObjectId", "d2/da1/a27915.html#ae17b4abbbb2088799cec188457677d44", null ],
-    [ "GetFireworkSpell", "d2/da1/a27915.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
-    [ "isCluster", "d2/da1/a27915.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
-    [ "Reset", "d2/da1/a27915.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
+    [ "npc_venomhide_hatchlingAI", "d2/da1/a27915.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "d2/da1/a27915.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "d2/da1/a27915.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

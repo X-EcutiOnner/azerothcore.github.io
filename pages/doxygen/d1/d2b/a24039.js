@@ -1,7 +1,5 @@
 var a24039 =
 [
-    [ "OnApply", "d1/d2b/a24039.html#abab02b8307b762d070ba12358f59916d", null ],
-    [ "OnRemove", "d1/d2b/a24039.html#a5ac45a5cfa17689d241c44241216ff38", null ],
-    [ "PrepareAuraScript", "d1/d2b/a24039.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
-    [ "Register", "d1/d2b/a24039.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
+    [ "npc_thaladred", "d1/d2b/a24039.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
+    [ "ScheduleEvents", "d1/d2b/a24039.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
 ];

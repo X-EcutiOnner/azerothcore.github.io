@@ -1,8 +1,14 @@
 var a25403 =
 [
-    [ "CheckCast", "d1/dde/a25403.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
-    [ "HandleScript", "d1/dde/a25403.html#a2c1702398e4cbdcc106679d534a27743", null ],
-    [ "PrepareSpellScript", "d1/dde/a25403.html#a613bdf7841744632c1e6de147e0352b9", null ],
-    [ "Register", "d1/dde/a25403.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
-    [ "Validate", "d1/dde/a25403.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
+    [ "spell_gen_mount", "d1/dde/a25403.html#aae8c5c328dda0668bf8cdabc2c9cd29f", null ],
+    [ "HandleMount", "d1/dde/a25403.html#a81085b5efd8d9bd7c82ebb1cf6604793", null ],
+    [ "PrepareSpellScript", "d1/dde/a25403.html#a49e2046d30352a6e22dab2530e909fa7", null ],
+    [ "Register", "d1/dde/a25403.html#a8175ecc0c407d5c4646f038d7b62e92b", null ],
+    [ "Validate", "d1/dde/a25403.html#accef27fc13ff34af52860ad6ac62e7f3", null ],
+    [ "_mount0", "d1/dde/a25403.html#abd6347074186b7c47ac5a2c760f4db33", null ],
+    [ "_mount100", "d1/dde/a25403.html#a5e56853140f188ff1babc61c507f8300", null ],
+    [ "_mount150", "d1/dde/a25403.html#a1237697623e4831c25efcde1ab370031", null ],
+    [ "_mount280", "d1/dde/a25403.html#aa9d0a936795d06dd78ef3c4d5aaf0320", null ],
+    [ "_mount310", "d1/dde/a25403.html#ac06b80d14cc106281c3e6bf3f6a5c727", null ],
+    [ "_mount60", "d1/dde/a25403.html#a53ce7d1b5a39cce2bede77aad647dc7e", null ]
 ];

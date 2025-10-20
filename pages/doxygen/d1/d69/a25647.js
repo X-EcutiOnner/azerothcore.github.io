@@ -1,10 +1,9 @@
 var a25647 =
 [
-    [ "Load", "d1/d69/a25647.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
-    [ "OnApply", "d1/d69/a25647.html#a83d922c434442e22482410d61aa0198f", null ],
-    [ "OnPetApply", "d1/d69/a25647.html#a6df5e59e29cb89310a1c78bf93029545", null ],
-    [ "OnRemove", "d1/d69/a25647.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
-    [ "PrepareAuraScript", "d1/d69/a25647.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
-    [ "Register", "d1/d69/a25647.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
-    [ "Validate", "d1/d69/a25647.html#ab318472ea9f4aaa79e45f18783586eed", null ]
+    [ "DoCheckCast", "d1/d69/a25647.html#a09c7bd66988c38cb019656842ed87366", null ],
+    [ "HandleDummy", "d1/d69/a25647.html#a183e2ac37a432ea2902b31e24a474cea", null ],
+    [ "HandleScriptEffect", "d1/d69/a25647.html#a396b1129f15056d0b22c7887f56bea99", null ],
+    [ "PrepareSpellScript", "d1/d69/a25647.html#aad4de93de822a742e02ac8d5d395d482", null ],
+    [ "Register", "d1/d69/a25647.html#a84fc18d6a2d92aefa2cc4d8095780314", null ],
+    [ "Validate", "d1/d69/a25647.html#a2565f0ad3bb988ad37dd6a60f08c995c", null ]
 ];

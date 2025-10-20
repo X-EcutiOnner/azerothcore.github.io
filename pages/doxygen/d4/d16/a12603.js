@@ -1,6 +1,6 @@
 var a12603 =
 [
-    [ "npc_core_ragerAI", "d2/d85/a12607.html", "d2/d85/a12607" ],
-    [ "npc_core_rager", "d4/d16/a12603.html#ada4acfa2a1934d1609a8f9c78da6377d", null ],
-    [ "GetAI", "d4/d16/a12603.html#a0ace94ecc1ebfb0e880c50d9b68087db", null ]
+    [ "boss_golemaggAI", "d2/d85/a12607.html", "d2/d85/a12607" ],
+    [ "boss_golemagg", "d4/d16/a12603.html#a66720a143f8987dfa5d6e2acb7cd73cd", null ],
+    [ "GetAI", "d4/d16/a12603.html#a6899f30975e0984306feabe47bbc8317", null ]
 ];

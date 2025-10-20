@@ -1,7 +1,6 @@
 var a12579 =
 [
-    [ "HandlePeriodic", "d3/dc2/a12579.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
-    [ "PrepareAuraScript", "d3/dc2/a12579.html#aae9d31049889eea5c5f09dd5437de950", null ],
-    [ "Register", "d3/dc2/a12579.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
-    [ "Validate", "d3/dc2/a12579.html#a462b882e41932f99e3501f32368cf4de", null ]
+    [ "npc_garr_fireswornAI", "d1/d08/a12583.html", "d1/d08/a12583" ],
+    [ "npc_garr_firesworn", "d3/dc2/a12579.html#a54c8f5daab9b8c4e1e7ff5d7777fcddf", null ],
+    [ "GetAI", "d3/dc2/a12579.html#a07e47767a44d3613f8cba2c3dfb1d14e", null ]
 ];

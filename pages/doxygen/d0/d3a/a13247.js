@@ -1,25 +1,8 @@
 var a13247 =
 [
-    [ "npc_highlord_darion_mograineAI", "d0/d3a/a13247.html#a04be4c12a255c082b2a00daf40e86d96", null ],
-    [ "DoAction", "d0/d3a/a13247.html#a7103aa11bc2dff6942f4a4de5cd8d759", null ],
-    [ "FinishFight", "d0/d3a/a13247.html#ab3fef458ca3180f49d78579f7485e76c", null ],
-    [ "GetData", "d0/d3a/a13247.html#aa3eae106cf85eb7cb163f9780bf16b9f", null ],
-    [ "GetEntryFromSummons", "d0/d3a/a13247.html#a2c9e336d14667aabc3e1a8f3a99fc1e7", null ],
-    [ "JustDied", "d0/d3a/a13247.html#a2875789a251381677106f74e61efaa77", null ],
-    [ "JustEngagedWith", "d0/d3a/a13247.html#ac6ca07a76351dfc5a82b0a57fdfa08d8", null ],
-    [ "JustRespawned", "d0/d3a/a13247.html#a3116088116fe6b4a6b42014f7f5fb3a8", null ],
-    [ "JustSummoned", "d0/d3a/a13247.html#a9ddc2350ffbbf6e3ae91410da55bd326", null ],
-    [ "MovementInform", "d0/d3a/a13247.html#a205b7ebb74ca3be7a6a11fb2d8670288", null ],
-    [ "Reset", "d0/d3a/a13247.html#a7dde645763bab79e34fa7421dbec518e", null ],
-    [ "SendInitialWorldStates", "d0/d3a/a13247.html#ab49e38e481fcb263337f5224c1db7383", null ],
-    [ "SendUpdateWorldState", "d0/d3a/a13247.html#a32fed806170c3664eeb1dd2a1bfdf278", null ],
-    [ "SummonedCreatureDies", "d0/d3a/a13247.html#aa0935ab5c5a8a3ad41719e520703ff92", null ],
-    [ "UpdateAI", "d0/d3a/a13247.html#a086efd646a7298ce17f7ead4688fa022", null ],
-    [ "battleStarted", "d0/d3a/a13247.html#aecb7e1bdebf943e1793656f8a9c39917", null ],
-    [ "defendersRemaining", "d0/d3a/a13247.html#a49b41a9719548bffd2020caea7a94a3d", null ],
-    [ "events", "d0/d3a/a13247.html#a2155cbea373225904a3645a77738dea4", null ],
-    [ "resetExecuted", "d0/d3a/a13247.html#ae1431b2f46cf2ae096e7ddfb22e54a28", null ],
-    [ "scourgeRemaining", "d0/d3a/a13247.html#aabaa1fb49467d4dc5abf2a14ec833d15", null ],
-    [ "startTimeRemaining", "d0/d3a/a13247.html#a503f8e5166ec08664085ae032611de61", null ],
-    [ "summons", "d0/d3a/a13247.html#ae592eef844350ca8fa8415f343d8dffc", null ]
+    [ "DelayedSummonEvent", "d0/d3a/a13247.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
+    [ "Execute", "d0/d3a/a13247.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
+    [ "_entry", "d0/d3a/a13247.html#a24d72110a070eb0bd03af081ef616de4", null ],
+    [ "_owner", "d0/d3a/a13247.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
+    [ "_pos", "d0/d3a/a13247.html#aef19987803a1cce47cbd8d9005a288ac", null ]
 ];

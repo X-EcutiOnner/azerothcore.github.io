@@ -1,9 +1,9 @@
 var a24251 =
 [
-    [ "npc_aeranasAI", "de/d15/a24251.html#a2142cebc84e64919fa5c2ef630453282", null ],
-    [ "Reset", "de/d15/a24251.html#a2c1bbe079c065745782adfa13b030515", null ],
-    [ "UpdateAI", "de/d15/a24251.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
-    [ "envelopingWinds_Timer", "de/d15/a24251.html#a566b5d648abe630efc191f9d6d4938a2", null ],
-    [ "faction_Timer", "de/d15/a24251.html#aac071887c100f91cc7ffc545ea6439d9", null ],
-    [ "shock_Timer", "de/d15/a24251.html#aba8ad016f0e470b07163fef07b603380", null ]
+    [ "npc_fel_guard_houndAI", "de/d15/a24251.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "de/d15/a24251.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "de/d15/a24251.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "de/d15/a24251.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "de/d15/a24251.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "de/d15/a24251.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

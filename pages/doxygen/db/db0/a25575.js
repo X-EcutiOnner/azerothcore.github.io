@@ -1,6 +1,5 @@
 var a25575 =
 [
-    [ "OnProc", "db/db0/a25575.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
-    [ "PrepareAuraScript", "db/db0/a25575.html#a6a7b011f151ff81672221b84eb4456b8", null ],
-    [ "Register", "db/db0/a25575.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
+    [ "PrepareSpellScript", "db/db0/a25575.html#af2a8cfb5f732691622b4c633f4dde253", null ],
+    [ "Register", "db/db0/a25575.html#ae171d4b40e72498a5dbb4ac65ee1619d", null ]
 ];

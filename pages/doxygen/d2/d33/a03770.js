@@ -1,8 +1,8 @@
 var a03770 =
 [
-    [ "boss_magmadar", "df/dd9/a12619.html", "df/dd9/a12619" ],
-    [ "boss_magmadar::boss_magmadarAI", "d7/d15/a12623.html", "d7/d15/a12623" ],
-    [ "spell_magmadar_lava_bomb", "d3/d23/a12627.html", "d3/d23/a12627" ],
+    [ "boss_magmadar", "d3/d23/a12627.html", "d3/d23/a12627" ],
+    [ "boss_magmadar::boss_magmadarAI", "dc/d20/a12631.html", "dc/d20/a12631" ],
+    [ "spell_magmadar_lava_bomb", "d0/d11/a12635.html", "d0/d11/a12635" ],
     [ "Events", "d2/d33/a03770.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

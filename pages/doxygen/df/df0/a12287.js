@@ -1,6 +1,6 @@
 var a12287 =
 [
-    [ "npc_rookery_hatcherAI", "d4/df7/a12291.html", "d4/df7/a12291" ],
-    [ "npc_rookery_hatcher", "df/df0/a12287.html#aa385f8a93384d4db9b92eecd1b152ce0", null ],
-    [ "GetAI", "df/df0/a12287.html#a76e27f10dd58ec15a8e8f9d579f1c176", null ]
+    [ "boss_rend_blackhandAI", "d4/df7/a12291.html", "d4/df7/a12291" ],
+    [ "boss_rend_blackhand", "df/df0/a12287.html#afd12818c33de25332bf207f30c8490a1", null ],
+    [ "GetAI", "df/df0/a12287.html#aed65d31a5a841af8aed015555bf811cb", null ]
 ];

@@ -1,6 +1,6 @@
 var a18151 =
 [
-    [ "ExtraEffect", "d6/dcd/a18151.html#a10dfb36a835589208482e1c8833d8f46", null ],
-    [ "PrepareSpellScript", "d6/dcd/a18151.html#a972ff2bdc7d3660820e05326600be6f6", null ],
-    [ "Register", "d6/dcd/a18151.html#ae337e67a220b72b44878d02be33e3888", null ]
+    [ "FilterTargetsInitial", "d6/dcd/a18151.html#a92cc71f268793c616bed66d9a489a145", null ],
+    [ "PrepareSpellScript", "d6/dcd/a18151.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
+    [ "Register", "d6/dcd/a18151.html#a91b96940a9e72e632989b49f7e475dba", null ]
 ];

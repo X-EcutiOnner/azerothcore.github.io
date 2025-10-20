@@ -1,7 +1,6 @@
 var a27019 =
 [
-    [ "HandleProc", "d1/d51/a27019.html#a85df8d4086a980d2b0a441097a909143", null ],
-    [ "PrepareAuraScript", "d1/d51/a27019.html#a4576f3d5af2d9265fa173f66d68ed512", null ],
-    [ "Register", "d1/d51/a27019.html#ab5308a36bc3b878a2913a89a84051ad7", null ],
-    [ "Validate", "d1/d51/a27019.html#a760a018b8410233e09065d94abeeb1ff", null ]
+    [ "HandleAuraApply", "d1/d51/a27019.html#a0c17d42095cac3d4cf304df1fc83acbf", null ],
+    [ "PrepareAuraScript", "d1/d51/a27019.html#a6eedadacba366104fdca2791862be216", null ],
+    [ "Register", "d1/d51/a27019.html#a5869dc6372d479d85da1118d0c9ec8e6", null ]
 ];

@@ -1,5 +1,7 @@
 var a22035 =
 [
-    [ "at_q24545_frostmourne_cavern", "d5/dfa/a22035.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
-    [ "OnTrigger", "d5/dfa/a22035.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
+    [ "FilterTargets", "d5/dfa/a22035.html#af62588a225f0b701a0f9321677ae22b8", null ],
+    [ "HandleScript", "d5/dfa/a22035.html#ad68fad08b2613de096e504bb7dea61cd", null ],
+    [ "PrepareSpellScript", "d5/dfa/a22035.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
+    [ "Register", "d5/dfa/a22035.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
 ];

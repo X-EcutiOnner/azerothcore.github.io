@@ -1,6 +1,10 @@
 var a12615 =
 [
-    [ "boss_lucifronAI", "df/d3a/a12615.html#ab93792bd7798b9ee9cf869fa20190554", null ],
-    [ "ExecuteEvent", "df/d3a/a12615.html#a0ba286f037c07032488d6763daeaf130", null ],
-    [ "JustEngagedWith", "df/d3a/a12615.html#aba3256ec99e56e3051045391fceedc7f", null ]
+    [ "npc_core_ragerAI", "df/d3a/a12615.html#a3c5125e0a10043f6181c10ba749fa579", null ],
+    [ "DamageTaken", "df/d3a/a12615.html#a758eb158eb9d232d74514281028efcb3", null ],
+    [ "Reset", "df/d3a/a12615.html#acf83e469d3d8108276227a942fda28b3", null ],
+    [ "UpdateAI", "df/d3a/a12615.html#a2183cf5ab22b737413b86a657fde6d3c", null ],
+    [ "instance", "df/d3a/a12615.html#a7cfddba62f737214b8cfc7fbffa8c2e2", null ],
+    [ "mangleTimer", "df/d3a/a12615.html#a081333b967abb3812b9ddae2f933a324", null ],
+    [ "rangeCheckTimer", "df/d3a/a12615.html#ade427bdd9ec99807b6f190c890136414", null ]
 ];

@@ -1,5 +1,6 @@
 var a14775 =
 [
-    [ "achievement_pb_terokkar_turkey_time", "d1/d2c/a14775.html#a68e536379b04e060f44819c9831766c2", null ],
-    [ "OnCheck", "d1/d2c/a14775.html#a8e6b82b95974ec27fd578481a1a23ae0", null ]
+    [ "HandleScriptEffect", "d1/d2c/a14775.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
+    [ "PrepareSpellScript", "d1/d2c/a14775.html#a55115ca986d5226588d168ced7ab1f55", null ],
+    [ "Register", "d1/d2c/a14775.html#ad8811bf48dfb564afcd82cf51b860255", null ]
 ];

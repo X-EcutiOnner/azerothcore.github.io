@@ -1,7 +1,6 @@
 var a17447 =
 [
-    [ "HandlePeriodic", "dc/dfe/a17447.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
-    [ "PrepareAuraScript", "dc/dfe/a17447.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
-    [ "Register", "dc/dfe/a17447.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
-    [ "Validate", "dc/dfe/a17447.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
+    [ "boss_slad_ranAI", "d0/db7/a17451.html", "d0/db7/a17451" ],
+    [ "boss_slad_ran", "dc/dfe/a17447.html#a9b960242e2f186d334d7ce04b999e274", null ],
+    [ "GetAI", "dc/dfe/a17447.html#a26651b7ca111bd64549283c37e34db11", null ]
 ];

@@ -1,6 +1,6 @@
 var a21891 =
 [
-    [ "npc_mei_francis_mountAI", "de/d25/a21895.html", "de/d25/a21895" ],
-    [ "npc_mei_francis_mount", "d5/dfc/a21891.html#ab34facb1d4d9a542710340493488eaa8", null ],
-    [ "GetAI", "d5/dfc/a21891.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
+    [ "npc_mageguard_dalaranAI", "de/d25/a21895.html", "de/d25/a21895" ],
+    [ "npc_mageguard_dalaran", "d5/dfc/a21891.html#a0cec4f232b665325c421cecb5839885f", null ],
+    [ "GetAI", "d5/dfc/a21891.html#a10cbddceb53a2d432da2224128c59b28", null ]
 ];

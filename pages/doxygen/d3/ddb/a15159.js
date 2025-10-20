@@ -1,6 +1,6 @@
 var a15159 =
 [
-    [ "instance_razorfen_kraul_InstanceMapScript", "df/de0/a15163.html", "df/de0/a15163" ],
-    [ "instance_razorfen_kraul", "d3/ddb/a15159.html#aedd65b901c8131a7ac21e8576734f76f", null ],
-    [ "GetInstanceScript", "d3/ddb/a15159.html#a78e77010ebb055b9530733ca25533110", null ]
+    [ "npc_idol_room_spawnerAI", "df/de0/a15163.html", "df/de0/a15163" ],
+    [ "npc_idol_room_spawner", "d3/ddb/a15159.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
+    [ "GetAI", "d3/ddb/a15159.html#a3017caa645e98a7647ec42a43c025624", null ]
 ];

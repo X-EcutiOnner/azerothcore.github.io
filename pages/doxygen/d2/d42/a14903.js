@@ -1,6 +1,7 @@
 var a14903 =
 [
-    [ "HandleHeal", "d2/d42/a14903.html#a953536a9a393af9472bdd89018449df0", null ],
-    [ "PrepareSpellScript", "d2/d42/a14903.html#a70503fc6042001a860d361f2597b7153", null ],
-    [ "Register", "d2/d42/a14903.html#a383479896e6deb96e50b827370ccfd4d", null ]
+    [ "hyjalTyrandeAI", "d3/d8d/a14907.html", "d3/d8d/a14907" ],
+    [ "npc_hyjal_tyrande", "d2/d42/a14903.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
+    [ "GetAI", "d2/d42/a14903.html#a2f863e616352a98763eef9a717d73388", null ],
+    [ "OnGossipSelect", "d2/d42/a14903.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
 ];

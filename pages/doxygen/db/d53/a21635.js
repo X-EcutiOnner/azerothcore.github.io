@@ -1,10 +1,8 @@
 var a21635 =
 [
-    [ "npc_azure_invaderAI", "db/d53/a21635.html#a85f164a6ba24d7a14d77264441a78f46", null ],
-    [ "Reset", "db/d53/a21635.html#ada44600272b19d9416d957bc52bc3be4", null ],
-    [ "UpdateAI", "db/d53/a21635.html#a7dfdcb2a88930c6b4150f7f7c825a2df", null ],
-    [ "uiBrutalStrikeTimer", "db/d53/a21635.html#a4b88a85f3344edbdadde0104668509aa", null ],
-    [ "uiCleaveTimer", "db/d53/a21635.html#a8b1792a8a405651d602d9ed634f52689", null ],
-    [ "uiImpaleTimer", "db/d53/a21635.html#aa709ee8919a2d0317d563259c7630c99", null ],
-    [ "uiSunderArmorTimer", "db/d53/a21635.html#ab2e6d01df033985ac29e963cf2895466", null ]
+    [ "npc_azure_raiderAI", "db/d53/a21635.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
+    [ "Reset", "db/d53/a21635.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
+    [ "UpdateAI", "db/d53/a21635.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
+    [ "uiConcussionBlowTimer", "db/d53/a21635.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
+    [ "uiMagicReflectionTimer", "db/d53/a21635.html#acb262ab506ea58201abfe2057525c548", null ]
 ];

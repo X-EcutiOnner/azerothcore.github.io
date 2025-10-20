@@ -1,10 +1,9 @@
 var a21643 =
 [
-    [ "npc_azure_binderAI", "d9/da5/a21643.html#ad532d350493a35804660f90a9f00f3cf", null ],
-    [ "Reset", "d9/da5/a21643.html#aa317ce32f3439286e9a4ac0928d48b3a", null ],
-    [ "UpdateAI", "d9/da5/a21643.html#a322ae0210ccb24206aee49c4fa7fe2bc", null ],
-    [ "uiArcainBarrageTimer", "d9/da5/a21643.html#a0e577611e3e11209cc175cd71cd86bc9", null ],
-    [ "uiArcaneExplosionTimer", "d9/da5/a21643.html#aa5cc777f777166e88a21e98a4ce2b8d3", null ],
-    [ "uiFrostboltTimer", "d9/da5/a21643.html#a405ec0f2d92e4a1f5f7901e725465604", null ],
-    [ "uiFrostNovaTimer", "d9/da5/a21643.html#a0f6396376e14711f87f1a046728ce386", null ]
+    [ "npc_azure_stalkerAI", "d9/da5/a21643.html#a1499e734f0d95d491bcd23c2e858a1ee", null ],
+    [ "Reset", "d9/da5/a21643.html#a9bd36e95ce7c3157a2ac53400da51d23", null ],
+    [ "UpdateAI", "d9/da5/a21643.html#a8c4ea046d69b269e886960ba9562fd0c", null ],
+    [ "TacticalBlinkCasted", "d9/da5/a21643.html#a875a272380251fcc7f98e5c0f84bb41a", null ],
+    [ "uiBackstabTimer", "d9/da5/a21643.html#ad03ba957706a62e3d8091d025ddd50dc", null ],
+    [ "uiTacticalBlinkTimer", "d9/da5/a21643.html#ab817fb9f2f06715f0a08a99e12693697", null ]
 ];

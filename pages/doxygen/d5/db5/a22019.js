@@ -1,7 +1,6 @@
 var a22019 =
 [
-    [ "HandleApplyEffect", "d5/db5/a22019.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
-    [ "HandleRemoveEffect", "d5/db5/a22019.html#a243933fec9ccd650303ea5badbea725b", null ],
-    [ "PrepareAuraScript", "d5/db5/a22019.html#ac0e1fc0694dd51e245340d3658592447", null ],
-    [ "Register", "d5/db5/a22019.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
+    [ "SACDeactivateEvent", "d5/db5/a22019.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
+    [ "Execute", "d5/db5/a22019.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
+    [ "_owner", "d5/db5/a22019.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
 ];

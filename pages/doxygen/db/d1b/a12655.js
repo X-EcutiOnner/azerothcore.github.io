@@ -1,6 +1,7 @@
 var a12655 =
 [
-    [ "boss_ragnarosAI", "da/de0/a12659.html", "da/de0/a12659" ],
-    [ "boss_ragnaros", "db/d1b/a12655.html#a47bd4dc50a0d05e8cbb75c1a5a52c9b5", null ],
-    [ "GetAI", "db/d1b/a12655.html#af54e36608e160811ca06952fd2c63f6e", null ]
+    [ "HandlePeriodic", "db/d1b/a12655.html#a5651e7ecab22d2286f85e56b8eccc003", null ],
+    [ "PrepareAuraScript", "db/d1b/a12655.html#a5dca8e116c05d11961cbd7995314441e", null ],
+    [ "Register", "db/d1b/a12655.html#a5972e66a8c05c5ae64e6666d0f35cb6e", null ],
+    [ "Validate", "db/d1b/a12655.html#a689b93dcf39828f507ef2b7f72d1ca01", null ]
 ];

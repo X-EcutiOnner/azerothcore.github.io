@@ -1,7 +1,6 @@
 var a16155 =
 [
-    [ "HandleScriptEffect", "d8/d95/a16155.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
-    [ "PrepareSpellScript", "d8/d95/a16155.html#a392c40d469c3c1e816d5dc364fde824c", null ],
-    [ "Register", "d8/d95/a16155.html#aa59c26b25ca0f440de36e450adf050a5", null ],
-    [ "Validate", "d8/d95/a16155.html#a370f83112d901f9565734b11d12858f4", null ]
+    [ "HandleScriptEffect", "d8/d95/a16155.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "d8/d95/a16155.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "d8/d95/a16155.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

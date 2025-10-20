@@ -1,7 +1,6 @@
 var a25539 =
 [
-    [ "HandleScript", "df/d23/a25539.html#a27e2575e538732ac76add53f2f8f6832", null ],
-    [ "PrepareSpellScript", "df/d23/a25539.html#ad7c98be6cca23fb1484a6b77bcc7bc9d", null ],
-    [ "Register", "df/d23/a25539.html#a4ee74f6d8a61a8ba38ece33176c18f84", null ],
-    [ "Validate", "df/d23/a25539.html#aef9eef1819652e0fce1cd4b3ba9c387c", null ]
+    [ "HandleScript", "df/d23/a25539.html#a3f63c080d2a74def0920cceaea18e1e2", null ],
+    [ "PrepareSpellScript", "df/d23/a25539.html#a438c4c1763688210384b24305aeebe52", null ],
+    [ "Register", "df/d23/a25539.html#a27b25fbbdd912505738728414b79380c", null ]
 ];

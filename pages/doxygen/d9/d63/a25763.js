@@ -1,7 +1,7 @@
 var a25763 =
 [
-    [ "CalcPeriodic", "d9/d63/a25763.html#a5847ba4daad49dca2527513055fa4429", null ],
-    [ "PrepareAuraScript", "d9/d63/a25763.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
-    [ "Register", "d9/d63/a25763.html#a08f851e5582831d5dd05878c4a55db67", null ],
-    [ "Update", "d9/d63/a25763.html#a3ab2716cbccc1311992de44e6591d966", null ]
+    [ "CheckProc", "d9/d63/a25763.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
+    [ "HandleProc", "d9/d63/a25763.html#a5cf9cea911ead2f261522e55e94c745a", null ],
+    [ "PrepareAuraScript", "d9/d63/a25763.html#a3f2b20607f90ad641769eb284ddfab85", null ],
+    [ "Register", "d9/d63/a25763.html#a55557026689613e91aeabce1af442237", null ]
 ];

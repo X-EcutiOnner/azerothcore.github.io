@@ -1,12 +1,7 @@
 var a13803 =
 [
-    [ "npc_sentinel_infiltrator", "d6/d77/a13803.html#a40ce6808a4d0622eb88a669485335020", null ],
-    [ "Initialize", "d6/d77/a13803.html#acc94269a3ede4c897f457a270e9a9c12", null ],
-    [ "JustEngagedWith", "d6/d77/a13803.html#a2c9927468b92d00b60efac851eacfef1", null ],
-    [ "MovementInform", "d6/d77/a13803.html#a57aef1c4ce7a491408c2c6b19d4d4cf2", null ],
-    [ "Reset", "d6/d77/a13803.html#a0f26dbe23efdf572f81723dff1d3eeaf", null ],
-    [ "UpdateAI", "d6/d77/a13803.html#ac676246948689c891c0f9cca7f8bc8b6", null ],
-    [ "_events", "d6/d77/a13803.html#a296d6c70b6c439319cc69a9d39005e62", null ],
-    [ "_fleedForAssistance", "d6/d77/a13803.html#a948c9d2081b33e18aa927fb18598c8ad", null ],
-    [ "_path", "d6/d77/a13803.html#a32d531478df327ccb0bb85e262420813", null ]
+    [ "npc_ranger_lilatha", "d6/d77/a13803.html#abd13a89b41a289edefb9bc21588f8d29", null ],
+    [ "Reset", "d6/d77/a13803.html#a3e804e483b51961193ee1079caba40be", null ],
+    [ "sQuestAccept", "d6/d77/a13803.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
+    [ "WaypointReached", "d6/d77/a13803.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
 ];

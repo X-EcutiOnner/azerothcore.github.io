@@ -1,11 +1,9 @@
 var a12911 =
 [
-    [ "npc_demon_chain", "de/dee/a12911.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
-    [ "AttackStart", "de/dee/a12911.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
-    [ "IsSummonedBy", "de/dee/a12911.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
-    [ "JustDied", "de/dee/a12911.html#a35d1b7de8612f11cdf61b9d663990686", null ],
-    [ "JustEngagedWith", "de/dee/a12911.html#a9743ebc31c5159a03889bfd40b09d749", null ],
-    [ "MoveInLineOfSight", "de/dee/a12911.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
-    [ "Reset", "de/dee/a12911.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
-    [ "sacrificeGUID", "de/dee/a12911.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
+    [ "go_blood_drenched_doorAI", "de/dee/a12911.html#af431fff2778278cbd3e27b3906201373", null ],
+    [ "GossipHello", "de/dee/a12911.html#aa3d9c4ee80d6fb42103a3f02abdd8d20", null ],
+    [ "UpdateAI", "de/dee/a12911.html#a644ac9ce05242714d1b87150852539f3", null ],
+    [ "events", "de/dee/a12911.html#a2c51ffa6a3992fe55c2e22cb783409c9", null ],
+    [ "mirkblood", "de/dee/a12911.html#a07e1b098c31efe45e2df4f85f71109e4", null ],
+    [ "opener", "de/dee/a12911.html#aa70272eb79e875ba7d7767a1bf82afe9", null ]
 ];

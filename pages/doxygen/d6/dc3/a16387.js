@@ -1,6 +1,7 @@
 var a16387 =
 [
-    [ "npc_living_infernoAI", "dd/d57/a16391.html", "dd/d57/a16391" ],
-    [ "npc_living_inferno", "d6/dc3/a16387.html#a7df2bb522e67b6f1864604c7b0182078", null ],
-    [ "GetAI", "d6/dc3/a16387.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
+    [ "HandleDummy", "d6/dc3/a16387.html#a96b430cb0546fb599da22cd675660187", null ],
+    [ "PrepareSpellScript", "d6/dc3/a16387.html#ad0330cb78a330f05c18f33375f231fbc", null ],
+    [ "Register", "d6/dc3/a16387.html#a70a36683a235dec6044a8a32f20c606c", null ],
+    [ "Validate", "d6/dc3/a16387.html#affa7ccf869e98eacd3a153cc645d704e", null ]
 ];
