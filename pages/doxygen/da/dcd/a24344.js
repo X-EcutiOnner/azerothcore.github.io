@@ -1,6 +1,7 @@
 var a24344 =
 [
-    [ "HandleSendEvent", "da/dcd/a24344.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
-    [ "PrepareSpellScript", "da/dcd/a24344.html#aed8815b1d068ba04f12c7714a64af769", null ],
-    [ "Register", "da/dcd/a24344.html#aa55fa06e76b1f34e319e16984405ed20", null ]
+    [ "HandleScriptEffect", "da/dcd/a24344.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
+    [ "PrepareSpellScript", "da/dcd/a24344.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
+    [ "Register", "da/dcd/a24344.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
+    [ "Validate", "da/dcd/a24344.html#a5209de3456c374010502a94f67ff4544", null ]
 ];

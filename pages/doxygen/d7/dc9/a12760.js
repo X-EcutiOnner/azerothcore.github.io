@@ -1,8 +1,7 @@
 var a12760 =
 [
-    [ "npc_cyclone", "d7/dc9/a12760.html#afdc4f98b031f832702929c6a7f192ab5", null ],
-    [ "JustEngagedWith", "d7/dc9/a12760.html#a61d0710868c91f707643a436c0d79485", null ],
-    [ "Reset", "d7/dc9/a12760.html#a60b74a96fccc12333b9dc3ed67a54637", null ],
-    [ "UpdateAI", "d7/dc9/a12760.html#a224795b4ea46fc2c9346e361410f0c0f", null ],
-    [ "_scheduler", "d7/dc9/a12760.html#a77f4d42ff45e0565f2d9ee5b27787ffd", null ]
+    [ "npc_kernobeeAI", "d7/dd7/a12764.html", "d7/dd7/a12764" ],
+    [ "npc_kernobee", "d7/dc9/a12760.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
+    [ "GetAI", "d7/dc9/a12760.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
+    [ "OnQuestAccept", "d7/dc9/a12760.html#aa830285cf19211b8233620257735ab62", null ]
 ];

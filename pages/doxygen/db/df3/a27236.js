@@ -1,6 +1,6 @@
 var a27236 =
 [
-    [ "go_witherbark_totem_bundleAI", "db/df3/a27236.html#a955625e2315008a2e36936d44f825060", null ],
-    [ "UpdateAI", "db/df3/a27236.html#af688bab2dc3d938951adb303e8b8d88b", null ],
-    [ "_timer", "db/df3/a27236.html#a509e6d8401380c326a0f565a6b903d7a", null ]
+    [ "HandleOnHit", "db/df3/a27236.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "db/df3/a27236.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "db/df3/a27236.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

@@ -1,9 +1,6 @@
 var a12712 =
 [
-    [ "FilterTargets", "d0/d6c/a12712.html#a88b91e40b330d39bd04a7873128fb858", null ],
-    [ "HandleFinish", "d0/d6c/a12712.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
-    [ "PrepareSpellScript", "d0/d6c/a12712.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
-    [ "Register", "d0/d6c/a12712.html#ab2008e585589cbf313170064d37c4aa9", null ],
-    [ "Validate", "d0/d6c/a12712.html#af4963be6c544a1706a6dc30dcbf18309", null ],
-    [ "_targets", "d0/d6c/a12712.html#a2f75199a90e52cff770f46bce76d5149", null ]
+    [ "instance_molten_core_InstanceMapScript", "d9/de6/a12716.html", "d9/de6/a12716" ],
+    [ "instance_molten_core", "d0/d6c/a12712.html#ad83dac834feb2fcae872dfe09b833950", null ],
+    [ "GetInstanceScript", "d0/d6c/a12712.html#ab7c794f1503f0ecad8d41ace72737a5d", null ]
 ];

@@ -1,9 +1,7 @@
 var a27984 =
 [
-    [ "HolidayWorldStateId", "da/d35/a27984.html#a3f70ffbb1abb5a96fe91c2eec3682c8b", null ],
-    [ "id", "da/d35/a27984.html#a52f7840f9247d2af63062dd280b37341", null ],
-    [ "mapid", "da/d35/a27984.html#a11e1326eeb24b436b10db53acc323c13", null ],
-    [ "maxGroupSize", "da/d35/a27984.html#adbdae47b424c3b61b76b48ea5798f52d", null ],
-    [ "name", "da/d35/a27984.html#a9a56ca930ff8425d4b77066e47a1e09f", null ],
-    [ "type", "da/d35/a27984.html#a647669b97599d7edf02b5a38dd1d5116", null ]
+    [ "HandleDummy", "da/d35/a27984.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
+    [ "PrepareSpellScript", "da/d35/a27984.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
+    [ "Register", "da/d35/a27984.html#a66c530b497e4952b457bbfa50a036c07", null ],
+    [ "Validate", "da/d35/a27984.html#a968333dcfe0553ad73879f3042db5511", null ]
 ];

@@ -1,6 +1,6 @@
 var a23928 =
 [
-    [ "instance_the_eye_InstanceMapScript", "dc/d50/a23932.html", "dc/d50/a23932" ],
-    [ "instance_the_eye", "d8/d6e/a23928.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
-    [ "GetInstanceScript", "d8/d6e/a23928.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
+    [ "instance_arcatraz_InstanceMapScript", "dc/d50/a23932.html", "dc/d50/a23932" ],
+    [ "instance_arcatraz", "d8/d6e/a23928.html#a6fc8860651573353b54fd26bddea32aa", null ],
+    [ "GetInstanceScript", "d8/d6e/a23928.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
 ];

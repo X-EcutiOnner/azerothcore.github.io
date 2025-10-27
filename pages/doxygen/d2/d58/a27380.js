@@ -1,5 +1,9 @@
 var a27380 =
 [
-    [ "go_table_theka", "d2/d58/a27380.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
-    [ "OnGossipHello", "d2/d58/a27380.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
+    [ "boss_lethonAI", "d2/d58/a27380.html#ac5d53a746f5286776b2e510f1de86790", null ],
+    [ "DamageTaken", "d2/d58/a27380.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
+    [ "JustEngagedWith", "d2/d58/a27380.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
+    [ "Reset", "d2/d58/a27380.html#a0e53d139f64d104557e157a91176a47a", null ],
+    [ "SpellHitTarget", "d2/d58/a27380.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
+    [ "_stage", "d2/d58/a27380.html#aa267296ee60efc7d39a20dc05afec081", null ]
 ];

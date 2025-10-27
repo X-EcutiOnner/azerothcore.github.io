@@ -1,6 +1,8 @@
 var a10272 =
 [
-    [ "BattlegroundScript", "df/d2d/a10272.html#a306231f1c7346a00a3f877c7cef3897b", null ],
-    [ "GetBattleground", "df/d2d/a10272.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
-    [ "IsDatabaseBound", "df/d2d/a10272.html#a35b571d570c85a861af6f949b51453cb", null ]
+    [ "AllCommandScript", "df/d2d/a10272.html#a7ff235b904eecdd4d02d2025c4078980", null ],
+    [ "IsDatabaseBound", "df/d2d/a10272.html#a89430678d5c88c562f1b0ac2b294fea4", null ],
+    [ "OnBeforeIsInvokerVisible", "df/d2d/a10272.html#a6f85dc271c1b61244978aa4474e708b0", null ],
+    [ "OnHandleDevCommand", "df/d2d/a10272.html#aba983f0e052ece230617573f04a35c92", null ],
+    [ "OnTryExecuteCommand", "df/d2d/a10272.html#a3a116836453073e77bbd8ab974f36f47", null ]
 ];

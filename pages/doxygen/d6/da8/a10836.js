@@ -1,6 +1,7 @@
 var a10836 =
 [
-    [ "InvalidStringValueException", "d6/da8/a10836.html#a4b5442d97f2bc8005cb20eefa6c13dc8", null ],
-    [ "GetInvalidValue", "d6/da8/a10836.html#a5ef59243610de6d0a9db22ddb9cd7bdd", null ],
-    [ "_value", "d6/da8/a10836.html#a8a8c86a63c34789ab7cce999455eb4bb", null ]
+    [ "AutoEquipItemSlot", "d6/da8/a10836.html#aa51f40a4172ac41548ec6199bc84375d", null ],
+    [ "Read", "d6/da8/a10836.html#ade6a15026e9c461b38301edf79f367be", null ],
+    [ "DestinationSlot", "d6/da8/a10836.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
+    [ "ItemGuid", "d6/da8/a10836.html#a9d4da587061833262acff66674d3ac41", null ]
 ];

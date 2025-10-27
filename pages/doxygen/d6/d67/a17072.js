@@ -1,13 +1,6 @@
 var a17072 =
 [
-    [ "boss_tyrannusAI", "d6/d67/a17072.html#a753de14d2cecaaed2c7b24e09397b008", null ],
-    [ "CanAIAttack", "d6/d67/a17072.html#a0cb60f308637cbd152faf274b3e5f636", null ],
-    [ "DoAction", "d6/d67/a17072.html#ab4d899ab5da283c8d256df8cb0d4e312", null ],
-    [ "EnterEvadeMode", "d6/d67/a17072.html#a9d18bab323c676020dede77a498a5b77", null ],
-    [ "JustDied", "d6/d67/a17072.html#a249b7dc28dfc40c2a782ef32b88dbb48", null ],
-    [ "KilledUnit", "d6/d67/a17072.html#abf7c8909143dac641c00cca160bef964", null ],
-    [ "Reset", "d6/d67/a17072.html#aec686cffccd8d95a341e320ffc7d5b7e", null ],
-    [ "UpdateAI", "d6/d67/a17072.html#a4357dc2e9b1d714d780db6ce3f60728b", null ],
-    [ "events", "d6/d67/a17072.html#a2168a2e1b36607b76614bdef54b02bc3", null ],
-    [ "pInstance", "d6/d67/a17072.html#ad4a8282849aaa1ce8b4702b5af55d35b", null ]
+    [ "npc_ghostly_priestAI", "d5/d29/a17076.html", "d5/d29/a17076" ],
+    [ "npc_ghostly_priest", "d6/d67/a17072.html#a7c03bb327cfc65f4df515969da482ddb", null ],
+    [ "GetAI", "d6/d67/a17072.html#a0fab76345c5459efcedff02123e4fc8d", null ]
 ];

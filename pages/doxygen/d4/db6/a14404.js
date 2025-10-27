@@ -1,7 +1,10 @@
 var a14404 =
 [
-    [ "HandleEffectApply", "d4/db6/a14404.html#a22f3143b10155635194abe22994a397c", null ],
-    [ "HandleEffectRemove", "d4/db6/a14404.html#a2ecc50fa3c14918b6eace63eac75eb96", null ],
-    [ "PrepareAuraScript", "d4/db6/a14404.html#abb4f53a42e701323b2fc66598ec3503c", null ],
-    [ "Register", "d4/db6/a14404.html#ad1ff6d29459d9a38fcdef3f6c7007f6b", null ]
+    [ "npc_brewfest_super_brew_trigger", "d4/db6/a14404.html#a3d2189978683150b1c431fa0fd637358", null ],
+    [ "AttackStart", "d4/db6/a14404.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
+    [ "JustEngagedWith", "d4/db6/a14404.html#a61be52cb8ba0cc10285820ad5324816e", null ],
+    [ "MoveInLineOfSight", "d4/db6/a14404.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
+    [ "Reset", "d4/db6/a14404.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
+    [ "UpdateAI", "d4/db6/a14404.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
+    [ "timer", "d4/db6/a14404.html#a2ebb06175e3142cca156e57e8386fe02", null ]
 ];

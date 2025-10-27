@@ -1,6 +1,6 @@
 var a10532 =
 [
-    [ "EmoteClient", "db/d67/a10532.html#af98c098cb1019057d8027f39c168e1a9", null ],
-    [ "Read", "db/d67/a10532.html#abad5fca865b7b99e595ce95137e8105c", null ],
-    [ "EmoteID", "db/d67/a10532.html#a24503de36535106220984ffbf6ba0338", null ]
+    [ "GetEvent", "db/d67/a10532.html#aabf338a9824038abbd0934a3bef0a269", null ],
+    [ "Read", "db/d67/a10532.html#a344db9b28e7247dc0285a3468a789721", null ],
+    [ "EventId", "db/d67/a10532.html#a31de21c2af87d174d139eef870cbb5fd", null ]
 ];

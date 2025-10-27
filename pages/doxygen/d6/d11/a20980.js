@@ -1,6 +1,6 @@
 var a20980 =
 [
-    [ "FilterTargets", "d6/d11/a20980.html#adaeee235184ddc36e90e532091183056", null ],
-    [ "PrepareSpellScript", "d6/d11/a20980.html#a599f604e872d3a5a4ed2b155caefdc9f", null ],
-    [ "Register", "d6/d11/a20980.html#ab79041a2536878498744555475bce5c8", null ]
+    [ "boss_yoggsaron_saraAI", "d1/d1b/a20984.html", "d1/d1b/a20984" ],
+    [ "boss_yoggsaron_sara", "d6/d11/a20980.html#aaf5bd5440122f6c97315b0e3b9d47586", null ],
+    [ "GetAI", "d6/d11/a20980.html#abc83e0f3a7d12a84ea283e5b2a69826d", null ]
 ];

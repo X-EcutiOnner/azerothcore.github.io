@@ -1,7 +1,8 @@
 var a26420 =
 [
-    [ "HandleDummy", "db/dea/a26420.html#abc630a0c8274f5f85901b2505ff2ae04", null ],
-    [ "PrepareSpellScript", "db/dea/a26420.html#af79cd7c2f6ed47a93dbbe17aaca6834f", null ],
-    [ "Register", "db/dea/a26420.html#a3f1808538acca2742c19f68af9a6fd56", null ],
-    [ "Validate", "db/dea/a26420.html#a475e1d5d8c70e0edd5957a1e493fd43e", null ]
+    [ "CheckProc", "db/dea/a26420.html#a9e7b83ffd7e8d5ff4cf3b59cfbc40b0e", null ],
+    [ "HandleProc", "db/dea/a26420.html#a772385aab5f9917d0d3fb456e0ed55e1", null ],
+    [ "PrepareAuraScript", "db/dea/a26420.html#a876c1bda52c99c52249444414196b1d4", null ],
+    [ "Register", "db/dea/a26420.html#a1409e9c24827ee51a83d732bb99dd27b", null ],
+    [ "Validate", "db/dea/a26420.html#a8e36353d5296c609cbe0ce63db4e7dcb", null ]
 ];

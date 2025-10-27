@@ -1,6 +1,7 @@
 var a17452 =
 [
-    [ "FilterTargets", "d2/d4c/a17452.html#a59255a2cee0f9d8a75ca183647851779", null ],
-    [ "PrepareSpellScript", "d2/d4c/a17452.html#af8d1cc9c709aeb3a68d1f452bb605c71", null ],
-    [ "Register", "d2/d4c/a17452.html#a6b6dbeaa8feb8eac4441a87cdf371a36", null ]
+    [ "HandlePeriodic", "d2/d4c/a17452.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
+    [ "PrepareAuraScript", "d2/d4c/a17452.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
+    [ "Register", "d2/d4c/a17452.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
+    [ "Validate", "d2/d4c/a17452.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
 ];

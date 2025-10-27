@@ -1,5 +1,5 @@
 var a24032 =
 [
-    [ "go_simon_cluster", "db/d4b/a24032.html#adac53a8451abd6ace227a66afc7e61e8", null ],
-    [ "OnGossipHello", "db/d4b/a24032.html#a9fd9799604de44c91803511c45b67786", null ]
+    [ "npc_telonicus", "db/d4b/a24032.html#af8ba6be2d39463725bbbaf7770319a93", null ],
+    [ "ScheduleEvents", "db/d4b/a24032.html#a49501a607aeb901aa99e94d9dd0e161b", null ]
 ];

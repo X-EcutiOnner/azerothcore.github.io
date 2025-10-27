@@ -1,26 +1,9 @@
 var a10880 =
 [
-    [ "const_iterator", "d7/db8/a10880.html#addf94a15196be64e78daef56971456f3", null ],
-    [ "const_reference", "d7/db8/a10880.html#af7498377cf931f643d8322d3a28c06f1", null ],
-    [ "iterator", "d7/db8/a10880.html#a48c70221dedd1b6cbc570389e9584bf1", null ],
-    [ "reference", "d7/db8/a10880.html#a03f40f93fb06fb760db6c33e10a3b32e", null ],
-    [ "size_type", "d7/db8/a10880.html#a5ba1ac83b8b2f62042c08f60c46b04fd", null ],
-    [ "storage_type", "d7/db8/a10880.html#afce3457c601054a23960e7ee1b74bcbe", null ],
-    [ "value_type", "d7/db8/a10880.html#aca1087c268cece397033692f38ef5993", null ],
-    [ "Array", "d7/db8/a10880.html#a26ca423c917ee3a5f1a6b6833db60c9a", null ],
-    [ "Array", "d7/db8/a10880.html#a3af6a02c02b1fc0b73280bce76d5a0f2", null ],
-    [ "begin", "d7/db8/a10880.html#aa48bde3281324c7dc98f43f37ba96266", null ],
-    [ "begin", "d7/db8/a10880.html#ac7e8d02a6aa7eca56b8bc2d2ede66b51", null ],
-    [ "empty", "d7/db8/a10880.html#abd548ee195aee9f14bd62264024d93a3", null ],
-    [ "end", "d7/db8/a10880.html#af11a3a13899d1d06ac8acd54f49dfc6e", null ],
-    [ "end", "d7/db8/a10880.html#a39bad8cfbd854b3767fed0621f96c37c", null ],
-    [ "operator[]", "d7/db8/a10880.html#ac3e76af8d640fc9c0255968a17c26ada", null ],
-    [ "operator[]", "d7/db8/a10880.html#a7e2dab59358e8f5301cab932b9b43894", null ],
-    [ "push_back", "d7/db8/a10880.html#a8cf213a45cc881f9486a730dd18d0a92", null ],
-    [ "push_back", "d7/db8/a10880.html#a3708388e67428fe0ebefb4e71c069939", null ],
-    [ "reserve", "d7/db8/a10880.html#a5f23ed7c6bd7462e013c8ef3a5b78ba5", null ],
-    [ "resize", "d7/db8/a10880.html#aee31c094fadba01a43e7eba0294a9275", null ],
-    [ "size", "d7/db8/a10880.html#a974cea46868d70d22b04745d92a1860f", null ],
-    [ "_limit", "d7/db8/a10880.html#ad54cf12a2a831141edc38754443c0f2b", null ],
-    [ "_storage", "d7/db8/a10880.html#a8ac6afe40e5b86c27ac01fa8f872a832", null ]
+    [ "EnchantmentLog", "d7/db8/a10880.html#a4427184d166b18e984dc301a6786aac3", null ],
+    [ "Write", "d7/db8/a10880.html#a17752d3e862c1915f8479058a4be1eb7", null ],
+    [ "Caster", "d7/db8/a10880.html#ae35a0c689357cf4b5a031f40314a7045", null ],
+    [ "EnchantId", "d7/db8/a10880.html#a72a85b9f0d40c9406d64a9bf0b06581e", null ],
+    [ "ItemId", "d7/db8/a10880.html#ad393d5f227bb81738582572bd2601650", null ],
+    [ "Target", "d7/db8/a10880.html#a9ef981f750bee2101c1f886fa2514913", null ]
 ];

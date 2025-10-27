@@ -1,9 +1,12 @@
 var a08568 =
 [
-    [ "areaFlag", "d8/db5/a08568.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
-    [ "areaID", "d8/db5/a08568.html#a455a890a1d82d31873873ac497cb83b7", null ],
-    [ "x1", "d8/db5/a08568.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
-    [ "x2", "d8/db5/a08568.html#aebdb021c0b9c40d624d5115b24616a12", null ],
-    [ "y1", "d8/db5/a08568.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
-    [ "y2", "d8/db5/a08568.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
+    [ "SpellModifier", "d8/db5/a08568.html#adba5fad6b904d09a43be7302e7eb62bd", null ],
+    [ "charges", "d8/db5/a08568.html#a1aaf71299c2dd27b58a049d252efdee8", null ],
+    [ "mask", "d8/db5/a08568.html#aba1b01bf3486d61cc1876b03078a35ee", null ],
+    [ "op", "d8/db5/a08568.html#a21d017f0c8d3108a0eb5f48798103356", null ],
+    [ "ownerAura", "d8/db5/a08568.html#a5e180553fb4739eb7f947da70fbe7ef8", null ],
+    [ "priority", "d8/db5/a08568.html#a163a81b49cfdeb73236ee930d6f24673", null ],
+    [ "spellId", "d8/db5/a08568.html#a465803efab27b2ba0a49c6571b65b908", null ],
+    [ "type", "d8/db5/a08568.html#a22f64b9c021f5a87f30f01ef117ebb0b", null ],
+    [ "value", "d8/db5/a08568.html#a31742662ba8112c9e9b972897a928e57", null ]
 ];

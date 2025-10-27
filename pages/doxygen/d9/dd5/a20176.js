@@ -1,7 +1,7 @@
 var a20176 =
 [
-    [ "npc_ulduar_saronite_vaporsAI", "d9/dd5/a20176.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
-    [ "IsSummonedBy", "d9/dd5/a20176.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
-    [ "JustDied", "d9/dd5/a20176.html#a5be637500e7b5735d90e19fa40fde467", null ],
-    [ "pInstance", "d9/dd5/a20176.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
+    [ "HandleScript", "d9/dd5/a20176.html#a9580f04e1543262026818f0944bb96c3", null ],
+    [ "PrepareSpellScript", "d9/dd5/a20176.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
+    [ "Register", "d9/dd5/a20176.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
+    [ "Validate", "d9/dd5/a20176.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
 ];

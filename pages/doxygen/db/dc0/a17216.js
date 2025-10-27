@@ -1,10 +1,6 @@
 var a17216 =
 [
-    [ "npc_living_mojoAI", "db/dc0/a17216.html#ab0e6dd5db0c358ff4fefc4797a622b8c", null ],
-    [ "AttackStart", "db/dc0/a17216.html#ad3f73a040176cd804f9715141063d176", null ],
-    [ "DoAction", "db/dc0/a17216.html#a9d942e99f358a7488d473969ab461d6f", null ],
-    [ "MoveInLineOfSight", "db/dc0/a17216.html#a7981568666269e25580ae839f1f97f09", null ],
-    [ "Reset", "db/dc0/a17216.html#a139df1207438dbd3793a2fbc58c2396c", null ],
-    [ "UpdateAI", "db/dc0/a17216.html#a418d7eee72f0a8506357eee3f1fbaf6c", null ],
-    [ "events", "db/dc0/a17216.html#acc7fd42cf4ea4b0203ad7ba4f775e3f2", null ]
+    [ "boss_ickAI", "d1/d3f/a17220.html", "d1/d3f/a17220" ],
+    [ "boss_ick", "db/dc0/a17216.html#af97d7f96bc48ba245e28c18614b9369e", null ],
+    [ "GetAI", "db/dc0/a17216.html#a355285766712a31b704c23fe85d19e5f", null ]
 ];

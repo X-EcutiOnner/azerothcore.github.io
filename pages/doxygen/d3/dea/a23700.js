@@ -1,7 +1,11 @@
 var a23700 =
 [
-    [ "HandleOnApply", "d3/dea/a23700.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
-    [ "HandleOnRemove", "d3/dea/a23700.html#aed5f87523c58d94c8f98b76c06abb140", null ],
-    [ "PrepareAuraScript", "d3/dea/a23700.html#ab32413873bec92540f9e85e8013b7ea2", null ],
-    [ "Register", "d3/dea/a23700.html#a0653d8688f98822580a3243a0d47c17a", null ]
+    [ "boss_kiggler_the_crazed", "d3/dea/a23700.html#a6f6cd74a8d2b12809f2710f784340fda", null ],
+    [ "AttackStart", "d3/dea/a23700.html#a47c18487637dcb911852573e3aec85a2", null ],
+    [ "JustDied", "d3/dea/a23700.html#acf82f68ccfeabd33bc387dbe7ea0e997", null ],
+    [ "JustEngagedWith", "d3/dea/a23700.html#acd10951a5b148579d0bd4196cc2e686e", null ],
+    [ "Reset", "d3/dea/a23700.html#a3bd8ca2488b2db298a198038a849189e", null ],
+    [ "UpdateAI", "d3/dea/a23700.html#a16e2b767ca4b05eba79726ccb6e11204", null ],
+    [ "_scheduler", "d3/dea/a23700.html#af041c254910df663a03fcc815db635da", null ],
+    [ "instance", "d3/dea/a23700.html#aa78db443f19814c66b977fe008de74fa", null ]
 ];

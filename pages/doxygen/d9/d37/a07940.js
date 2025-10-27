@@ -1,8 +1,6 @@
 var a07940 =
 [
-    [ "LfgPlayerRewardData", "d9/d37/a07940.html#afe99288f8d7028a5a54317e73e3f2c01", null ],
-    [ "done", "d9/d37/a07940.html#a91ba12acf66d631af2de45513f20b702", null ],
-    [ "quest", "d9/d37/a07940.html#abd051091fec6835f63bafa98a045142b", null ],
-    [ "rdungeonEntry", "d9/d37/a07940.html#a87623ce14ef1d123d226e37e227a566d", null ],
-    [ "sdungeonEntry", "d9/d37/a07940.html#abe9c93ab7f3a421dd3c44414a0987277", null ]
+    [ "p0", "d9/d37/a07940.html#aaf1df5d479ef12c6bfa9b02c8d9a54ad", null ],
+    [ "p1", "d9/d37/a07940.html#a8c5a9c6371f264469203575be48684fa", null ],
+    [ "p2", "d9/d37/a07940.html#a40d46738768d6c2037e5978ce32a9fb8", null ]
 ];

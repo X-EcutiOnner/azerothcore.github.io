@@ -1,6 +1,7 @@
 var a16628 =
 [
-    [ "boss_icehowlAI", "d6/d39/a16632.html", "d6/d39/a16632" ],
-    [ "boss_icehowl", "d6/d41/a16628.html#ab3c9711fa6af17be9dc7331b42c408be", null ],
-    [ "GetAI", "d6/d41/a16628.html#ac77bf3b9d954b8c6be01d0209a80cc6a", null ]
+    [ "npc_toc_priestAI", "d6/d41/a16628.html#aa362d2136193a8738e311bba18b87c90", null ],
+    [ "myCanCast", "d6/d41/a16628.html#ad2d4286d8f51a2d5a4901487e56506dc", null ],
+    [ "UpdateAI", "d6/d41/a16628.html#ae51d2ac95320909150c673b76c9856c7", null ],
+    [ "events", "d6/d41/a16628.html#aa5be20e87351424e0e4698540fc1fef4", null ]
 ];

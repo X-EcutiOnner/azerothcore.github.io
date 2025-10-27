@@ -1,5 +1,5 @@
 var a17188 =
 [
-    [ "entry", "dc/ddd/a17188.html#a44c7a625896d6fddc15da39988e0b042", null ],
-    [ "pathId", "dc/ddd/a17188.html#accd6af0ddfa248a972612d802a1e641e", null ]
+    [ "at_hor_battered_hilt_throw", "dc/ddd/a17188.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
+    [ "OnTrigger", "dc/ddd/a17188.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
 ];

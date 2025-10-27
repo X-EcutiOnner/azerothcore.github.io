@@ -1,5 +1,6 @@
 var a11872 =
 [
-    [ "go_shadowforge_brazier", "df/d59/a11872.html#aafc1d2e865294bb102c918d6016aab4b", null ],
-    [ "OnGossipHello", "df/d59/a11872.html#a83b188cd2ee68e1ebfe75060465f8f38", null ]
+    [ "inventory_commandscript", "df/d59/a11872.html#a765d3606093dd3e15bb59c058333dca7", null ],
+    [ "GetCommands", "df/d59/a11872.html#ac002b65cbe2e5dafc7614c7afa4a20e6", null ],
+    [ "HandleInventoryCountCommand", "df/d59/a11872.html#a60d05e2fd4e23fdb6bc6513a1dc67ba3", null ]
 ];

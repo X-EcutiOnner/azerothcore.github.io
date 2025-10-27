@@ -1,6 +1,11 @@
 var a08688 =
 [
-    [ "SplineHandler", "d0/d01/a08688.html#a7c5aac2d12e13bad1c38c4e8860ed27f", null ],
-    [ "operator()", "d0/d01/a08688.html#aa5d1bddc2435eee76f493229740ecf9e", null ],
-    [ "_unit", "d0/d01/a08688.html#aaafb07271736d8bc89d07aafbbae7f25", null ]
+    [ "FriendInfo", "d0/d01/a08688.html#a31272eeef0d6b9c98821f8ee7f379977", null ],
+    [ "FriendInfo", "d0/d01/a08688.html#a04f34a681d62e3dc1013f840ac04f3ec", null ],
+    [ "Area", "d0/d01/a08688.html#adf16884b55545ed9302dbb54d653867b", null ],
+    [ "Class", "d0/d01/a08688.html#a8b797fcfda05d52d4297f32e458be519", null ],
+    [ "Flags", "d0/d01/a08688.html#ab74652d747c8baa8df7fdbcfd5c68636", null ],
+    [ "Level", "d0/d01/a08688.html#a70d9a74f4587f648db5bf49b61091213", null ],
+    [ "Note", "d0/d01/a08688.html#aa9aea70eba08de460ff9cc5c622ca75f", null ],
+    [ "Status", "d0/d01/a08688.html#a380f11d65b34e1e598b7861987cecfe6", null ]
 ];

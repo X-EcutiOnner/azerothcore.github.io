@@ -1,5 +1,5 @@
 var a27340 =
 [
-    [ "go_jump_a_tron", "df/d65/a27340.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
-    [ "OnGossipHello", "df/d65/a27340.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
+    [ "AreaTrigger_at_nats_landing", "df/d65/a27340.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
+    [ "OnTrigger", "df/d65/a27340.html#a67434f74300fa3463e679afb7d344467", null ]
 ];

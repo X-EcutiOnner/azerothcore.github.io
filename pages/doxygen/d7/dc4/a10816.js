@@ -1,8 +1,6 @@
 var a10816 =
 [
-    [ "PauseMirrorTimer", "d7/dc4/a10816.html#a05ccc52cb56d38cadb27fbde2563df45", null ],
-    [ "PauseMirrorTimer", "d7/dc4/a10816.html#ad6e7a6eb3edadc235dc5bb97802381ac", null ],
-    [ "Write", "d7/dc4/a10816.html#aea61f9e668173b65eac3b9f42ddd68a1", null ],
-    [ "Paused", "d7/dc4/a10816.html#a7adf6dcd7e712792ea94bad77f8be232", null ],
-    [ "Timer", "d7/dc4/a10816.html#a4a041bf772ef3f145bde6be9f8ecdc13", null ]
+    [ "GuildSetGuildMaster", "d7/dc4/a10816.html#ae6ca07252de719cc506042c8d3e8285e", null ],
+    [ "Read", "d7/dc4/a10816.html#a94f16e55a840c7cba991a119af5d8263", null ],
+    [ "NewMasterName", "d7/dc4/a10816.html#a02f37610492c75373266bb93000adcbf", null ]
 ];

@@ -1,6 +1,6 @@
 var a16812 =
 [
-    [ "PrepareSpellScript", "d1/d02/a16812.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
-    [ "RecalculateDamage", "d1/d02/a16812.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
-    [ "Register", "d1/d02/a16812.html#a1a740e697fc84f5f035f2ec251872009", null ]
+    [ "boss_eydisAI", "da/d42/a16816.html", "da/d42/a16816" ],
+    [ "boss_eydis", "d1/d02/a16812.html#aa555f80882499bc4627e622fbb48b2a4", null ],
+    [ "GetAI", "d1/d02/a16812.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
 ];

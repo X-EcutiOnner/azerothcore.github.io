@@ -1,6 +1,7 @@
 var a25936 =
 [
-    [ "CheckCast", "d4/dfc/a25936.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
-    [ "PrepareSpellScript", "d4/dfc/a25936.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
-    [ "Register", "d4/dfc/a25936.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
+    [ "HandleDummy", "d4/dfc/a25936.html#a7a8016e1403caa0432242c5c3240f107", null ],
+    [ "PrepareSpellScript", "d4/dfc/a25936.html#ae2d2de36cceb037006eb4126f8e1778c", null ],
+    [ "Register", "d4/dfc/a25936.html#abd09f5df3f31af619f24214f90791a53", null ],
+    [ "Validate", "d4/dfc/a25936.html#ab14aedfdb61d54334f60e57968fcf081", null ]
 ];

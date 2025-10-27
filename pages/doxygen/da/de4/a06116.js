@@ -1,10 +1,8 @@
 var a06116 =
 [
-    [ "NullCreatureAI", "da/de4/a06116.html#aa9969eeb9a79559c9f2d3bd907b3fd85", null ],
-    [ "AttackStart", "da/de4/a06116.html#a94d4594e1f39143ea41ce00aeecec4b4", null ],
-    [ "EnterEvadeMode", "da/de4/a06116.html#a726edd296c16ed2414fcc1827f88238f", null ],
-    [ "MoveInLineOfSight", "da/de4/a06116.html#a12c54c92a08e81751563ec9522236b28", null ],
-    [ "OnCharmed", "da/de4/a06116.html#a77b274955dcfdf2d10bbc43b64330f8d", null ],
-    [ "Permissible", "da/de4/a06116.html#a77595426da50819a0ff0744930d19b23", null ],
-    [ "UpdateAI", "da/de4/a06116.html#ab200fcf78dee74a2ec808c01f5855236", null ]
+    [ "BannedAddon", "da/de4/a06116.html#aadd8cb8602ec03455a91b4f49767fdc8", null ],
+    [ "Id", "da/de4/a06116.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
+    [ "NameMD5", "da/de4/a06116.html#a67c4437044d747ff9867a71967697767", null ],
+    [ "Timestamp", "da/de4/a06116.html#af62257c39a4ae1eba959086e981b0d19", null ],
+    [ "VersionMD5", "da/de4/a06116.html#acb8dbe824f71363eb81504f43a126d96", null ]
 ];

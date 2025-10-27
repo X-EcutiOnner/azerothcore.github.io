@@ -1,7 +1,10 @@
 var a26432 =
 [
-    [ "HandleDummy", "de/d2c/a26432.html#aa9b579a8a7a23b94d9a2c8c7f932ff78", null ],
-    [ "PrepareSpellScript", "de/d2c/a26432.html#ae1dfa086c89a4180d42d231064d88602", null ],
-    [ "Register", "de/d2c/a26432.html#a256c152beadbfce6bf245779295b8758", null ],
-    [ "Validate", "de/d2c/a26432.html#acb4144be3326bcaae9c559d8e7b9d7ec", null ]
+    [ "Absorb", "de/d2c/a26432.html#ab4006b00d415a94e6a49856cee7e272b", null ],
+    [ "CalculateAmount", "de/d2c/a26432.html#a57bfd4e7178e9e7c3df12c025d0c7d9e", null ],
+    [ "Load", "de/d2c/a26432.html#a88aa9623f587bb7b5e91da83c76f562a", null ],
+    [ "PrepareAuraScript", "de/d2c/a26432.html#a456c1bd5b284f642d1e040de52eee24b", null ],
+    [ "Register", "de/d2c/a26432.html#a905994099dcc4ac9512d5f27b78a778c", null ],
+    [ "Validate", "de/d2c/a26432.html#ad99966111a1919c610a942a8eb133ea1", null ],
+    [ "healPct", "de/d2c/a26432.html#a3b0527ce7f1fd6afaa57f942275ec81b", null ]
 ];

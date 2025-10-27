@@ -1,12 +1,16 @@
 var a13280 =
 [
-    [ "boss_sacrolash", "d5/d73/a13280.html#a6e251340b2ba8a8300611cf229b93095", null ],
-    [ "CheckInRoom", "d5/d73/a13280.html#ae650b6019d2f9191e1b532176159804d", null ],
-    [ "DoAction", "d5/d73/a13280.html#adbcbd24a90549978032d31d1beeaa4e6", null ],
-    [ "JustDied", "d5/d73/a13280.html#a17c995220572cf803c36470ca80840e2", null ],
-    [ "JustEngagedWith", "d5/d73/a13280.html#a822576bf8588d4e45f1532e1980cc7c7", null ],
-    [ "JustSummoned", "d5/d73/a13280.html#a94214bc45414f61ff53102d6136b7b5c", null ],
-    [ "KilledUnit", "d5/d73/a13280.html#a4d99da498db0e5a60c7c25fcb91e5270", null ],
-    [ "Reset", "d5/d73/a13280.html#aa3128dae87d181e7ab93cf3a13723982", null ],
-    [ "_isSisterDead", "d5/d73/a13280.html#a248d37df91c82069321fc5ea8b1e885d", null ]
+    [ "instance_scarlet_monastery_InstanceMapScript", "d5/d73/a13280.html#a4abdd53f735be815cb2d43497d1531e0", null ],
+    [ "GetData", "d5/d73/a13280.html#a07d9bcc1b1daa29f31be146aaa85993c", null ],
+    [ "GetGuidData", "d5/d73/a13280.html#a49ac1088399ef71b1fcd7c90c6a34fac", null ],
+    [ "OnCreatureCreate", "d5/d73/a13280.html#a71fcfc166f945325a4ee149645a9ccef", null ],
+    [ "OnGameObjectCreate", "d5/d73/a13280.html#a5e90e8cadff18b19c9a1d451dbe675c9", null ],
+    [ "SetData", "d5/d73/a13280.html#aaf498d563d070d6250a182f583651777", null ],
+    [ "_ashbringerNpcGUID", "d5/d73/a13280.html#a1abdafc284def7ab4069a17c0aeda535", null ],
+    [ "_ashencounter", "d5/d73/a13280.html#ac6f544cf00bb6d987c9128cce9c1aa10", null ],
+    [ "_doorChapelGUID", "d5/d73/a13280.html#a9f5070bfd7326ccaa1ebe697524a814b", null ],
+    [ "_doorHighInquisitorGUID", "d5/d73/a13280.html#a1c9c74f06b2e1db77d5e6c75e720290c", null ],
+    [ "_encounter", "d5/d73/a13280.html#a9d025f0d9740eaec42fe4f45971a6cf9", null ],
+    [ "_mograineGUID", "d5/d73/a13280.html#ad34fc11ed5bd36a8f3a84f183627deb1", null ],
+    [ "_whitemaneGUID", "d5/d73/a13280.html#af6c6214f8d506815afeeb2af4ad4a71b", null ]
 ];

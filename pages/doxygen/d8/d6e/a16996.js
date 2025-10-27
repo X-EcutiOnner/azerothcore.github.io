@@ -1,9 +1,6 @@
 var a16996 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "d8/d6e/a16996.html#acd33d4811521f6d41bce21270198db45", null ],
-    [ "JustDied", "d8/d6e/a16996.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
-    [ "JustEngagedWith", "d8/d6e/a16996.html#a54378daf294fcbee4ba1abf14927cc52", null ],
-    [ "Reset", "d8/d6e/a16996.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
-    [ "UpdateAI", "d8/d6e/a16996.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
-    [ "events", "d8/d6e/a16996.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
+    [ "FilterTargets", "d8/d6e/a16996.html#a36879a2920f43562bb0ff89c76d758e4", null ],
+    [ "PrepareSpellScript", "d8/d6e/a16996.html#afeb95c5fe970ebc147d509981b026e98", null ],
+    [ "Register", "d8/d6e/a16996.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
 ];

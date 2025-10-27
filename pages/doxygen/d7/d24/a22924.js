@@ -1,8 +1,6 @@
 var a22924 =
 [
-    [ "FilterTargets", "d7/d24/a22924.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
-    [ "HandleDummy", "d7/d24/a22924.html#ab89ab441f022ee017548ba49d128b92e", null ],
-    [ "PrepareSpellScript", "d7/d24/a22924.html#aa8578390d7d9379328c02ceb209e94ed", null ],
-    [ "Register", "d7/d24/a22924.html#a486387d707b7ad66ecb443ab2bb60778", null ],
-    [ "Validate", "d7/d24/a22924.html#ad5d695978794d796eb7139fce1530d57", null ]
+    [ "HandleScriptEffect", "d7/d24/a22924.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
+    [ "PrepareSpellScript", "d7/d24/a22924.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
+    [ "Register", "d7/d24/a22924.html#aad6959f74932db219e991efd3b3af44a", null ]
 ];

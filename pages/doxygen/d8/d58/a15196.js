@@ -1,8 +1,7 @@
 var a15196 =
 [
-    [ "npc_ouro_spawner", "d8/d58/a15196.html#acb18739e5a1734312ffdda35321e5f34", null ],
-    [ "JustSummoned", "d8/d58/a15196.html#a722dada5bf97c730462a0de2b082d5ff", null ],
-    [ "MoveInLineOfSight", "d8/d58/a15196.html#a83c0972db4435ccf1af069574e4056f4", null ],
-    [ "Reset", "d8/d58/a15196.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
-    [ "hasSummoned", "d8/d58/a15196.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
+    [ "HandleScript", "d8/d58/a15196.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
+    [ "Load", "d8/d58/a15196.html#a2dc1edf537f58133fb4daabde9f43843", null ],
+    [ "PrepareSpellScript", "d8/d58/a15196.html#ae856c6e70ededa95c0308596a9f980af", null ],
+    [ "Register", "d8/d58/a15196.html#ac2e82c7e626658faa968f75c26688b43", null ]
 ];

@@ -1,8 +1,6 @@
 var a20864 =
 [
-    [ "boss_yoggsaron_guardian_of_ysAI", "d0/dad/a20864.html#a5542a4fd68a012049a79047f47dccc68", null ],
-    [ "JustDied", "d0/dad/a20864.html#ad75f0baeef73a79cdb9bf62463bc8e50", null ],
-    [ "Reset", "d0/dad/a20864.html#a43d12c19425f3caa56a9732774b6f943", null ],
-    [ "UpdateAI", "d0/dad/a20864.html#a8e1d0b14747db6ce06b882f3f9d61963", null ],
-    [ "_spellTimer", "d0/dad/a20864.html#a45dec8609328d65413ae6c88f693ba15", null ]
+    [ "boss_thorim_arena_npcsAI", "dc/d62/a20868.html", "dc/d62/a20868" ],
+    [ "boss_thorim_arena_npcs", "d0/dad/a20864.html#a60d22280bb1eb3c9da92deb08e887942", null ],
+    [ "GetAI", "d0/dad/a20864.html#a3709e1c9df32755f5932398ba3535f2f", null ]
 ];

@@ -1,10 +1,16 @@
 var a28660 =
 [
-    [ "plane", "d5/d71/a28668.html", "d5/d71/a28668" ],
-    [ "prepareLoadedData", "da/df5/a28660.html#a29dc30be1cb7f5439e023865ff5a4853", null ],
-    [ "fcc", "da/df5/a28660.html#a8c64958fb4e18bc3bcfaf7dbfde9f178", null ],
-    [ "fcc_txt", "da/df5/a28660.html#ab768fb1ba27812060cf2edeb5f4b876c", null ],
-    [ "max", "da/df5/a28660.html#afadebfc1361985b6f5d45c27e22cb303", null ],
-    [ "min", "da/df5/a28660.html#ac3ebf1557841088ef8912b68fe6df908", null ],
-    [ "size", "da/df5/a28660.html#af92420cfd862486c73c35ac8a9f9fdee", null ]
+    [ "amount", "da/df5/a28660.html#a3086819447f7ae23bf5697a45cbc6f93", null ],
+    [ "aura_id", "da/df5/a28660.html#a5866d4e8ce373b6eb9af1d27e2db2c1b", null ],
+    [ "charges", "da/df5/a28660.html#ade74be0906ef080347ac81ed48379cd1", null ],
+    [ "description", "da/df5/a28660.html#a7dc66c82551a59750d6294f3503a3dbc", null ],
+    [ "EnchantmentCondition", "da/df5/a28660.html#a2416afe9ae8371b9d284dd3c176c98d1", null ],
+    [ "GemID", "da/df5/a28660.html#a324fd42b7184f5c626c33323a4d72b07", null ],
+    [ "ID", "da/df5/a28660.html#af46fa8808024e75705b812b695bd1590", null ],
+    [ "requiredLevel", "da/df5/a28660.html#a53bf562ea4dfccb14bfb627c831b477e", null ],
+    [ "requiredSkill", "da/df5/a28660.html#a6ca7dac0e1f497b3c96887a6c09097bc", null ],
+    [ "requiredSkillValue", "da/df5/a28660.html#a7a57764dad60c9369826638c1355127e", null ],
+    [ "slot", "da/df5/a28660.html#af64b13ce2e81d5be7e73763cd5c5e4b8", null ],
+    [ "spellid", "da/df5/a28660.html#a694edc79cf8ba571338bff2a3aad512d", null ],
+    [ "type", "da/df5/a28660.html#adb693b7ada8d1a65c1d8091d1055c7bf", null ]
 ];

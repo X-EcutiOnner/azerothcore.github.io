@@ -1,8 +1,8 @@
 var a24788 =
 [
-    [ "AfterApply", "dd/d9f/a24788.html#a4d2941ebb326d603ac08f428f811c29b", null ],
-    [ "AfterRemove", "dd/d9f/a24788.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
-    [ "PrepareAuraScript", "dd/d9f/a24788.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
-    [ "Register", "dd/d9f/a24788.html#a78e30a950b9fc08dff5072028816b8b4", null ],
-    [ "Validate", "dd/d9f/a24788.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
+    [ "HandleDamage", "dd/d9f/a24788.html#a2c5149eb0b6698240c25b63e71af0854", null ],
+    [ "PrepareSpellScript", "dd/d9f/a24788.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
+    [ "Register", "dd/d9f/a24788.html#ad29179d9159700b52b0c21a779cd060b", null ],
+    [ "Suicide", "dd/d9f/a24788.html#a981f8547eae9b317111bf9a7016510ab", null ],
+    [ "Validate", "dd/d9f/a24788.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
 ];

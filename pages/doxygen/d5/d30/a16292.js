@@ -1,6 +1,6 @@
 var a16292 =
 [
-    [ "FilterTargets", "d5/d30/a16292.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
-    [ "PrepareSpellScript", "d5/d30/a16292.html#a5ede43deece629a38f5482280983b59a", null ],
-    [ "Register", "d5/d30/a16292.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
+    [ "boss_halionAI", "d8/df4/a16296.html", "d8/df4/a16296" ],
+    [ "boss_halion", "d5/d30/a16292.html#a94b35248cedbf08b0a1f219c4c28c269", null ],
+    [ "GetAI", "d5/d30/a16292.html#a142314efb4f45ec146ab0225271d29b1", null ]
 ];

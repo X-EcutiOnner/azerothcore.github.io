@@ -1,6 +1,6 @@
 var a22328 =
 [
-    [ "npc_roxi_ramrocket", "d8/dd7/a22328.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
-    [ "OnGossipHello", "d8/dd7/a22328.html#adec28f778921246c56f11d09753e566e", null ],
-    [ "OnGossipSelect", "d8/dd7/a22328.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
+    [ "npc_guardian_pavilionAI", "d7/dbd/a22332.html", "d7/dbd/a22332" ],
+    [ "npc_guardian_pavilion", "d8/dd7/a22328.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "d8/dd7/a22328.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

@@ -1,7 +1,9 @@
 var a15212 =
 [
-    [ "npc_sartura_royal_guard", "dd/dc4/a15212.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
-    [ "JustEngagedWith", "dd/dc4/a15212.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
-    [ "Reset", "dd/dc4/a15212.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
-    [ "UpdateAI", "dd/dc4/a15212.html#a2ed50f65847133c897facecbaa4711d8", null ]
+    [ "npc_buru_egg", "dd/dc4/a15212.html#a6aa2896342b802caecde1c1dffcf4907", null ],
+    [ "JustDied", "dd/dc4/a15212.html#a3de169b252374f0b2daed3ecb5a11502", null ],
+    [ "JustEngagedWith", "dd/dc4/a15212.html#a8cde6848569671876a17b00d75228ebe", null ],
+    [ "JustSummoned", "dd/dc4/a15212.html#abebb96dcb3d653bddd4210da6567fb87", null ],
+    [ "UpdateAI", "dd/dc4/a15212.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
+    [ "_instance", "dd/dc4/a15212.html#a5b168226755a57368f17827e3457a0ca", null ]
 ];

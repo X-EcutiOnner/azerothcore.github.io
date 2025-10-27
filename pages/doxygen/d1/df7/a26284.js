@@ -1,6 +1,10 @@
 var a26284 =
 [
-    [ "HandleDamage", "d1/df7/a26284.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
-    [ "PrepareSpellScript", "d1/df7/a26284.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
-    [ "Register", "d1/df7/a26284.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
+    [ "AfterCheckProc", "d1/df7/a26284.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb", null ],
+    [ "HandleProc", "d1/df7/a26284.html#a613182c741769d0983206bdfa89242f6", null ],
+    [ "PrepareAuraScript", "d1/df7/a26284.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
+    [ "Register", "d1/df7/a26284.html#acd807de02a83a97a78572d672fb16027", null ],
+    [ "Validate", "d1/df7/a26284.html#a3d2d6f1a00825ac66f507a790f468198", null ],
+    [ "_spellInfo", "d1/df7/a26284.html#a66a5eb4caa7b43c34b2830d9a3d2f994", null ],
+    [ "_ticksModifier", "d1/df7/a26284.html#ae23b54499fff879a096bd459e264c4f0", null ]
 ];

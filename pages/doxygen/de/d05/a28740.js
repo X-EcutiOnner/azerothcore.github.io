@@ -1,5 +1,7 @@
 var a28740 =
 [
-    [ "fcc", "de/d05/a28740.html#a828a2845e666d6eb47d6d4705a663a3d", null ],
-    [ "fcc_txt", "de/d05/a28740.html#acf0f4449ab5a64822833b86b41e2487c", null ]
+    [ "TalentSpellPos", "de/d05/a28740.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
+    [ "TalentSpellPos", "de/d05/a28740.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
+    [ "rank", "de/d05/a28740.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
+    [ "talent_id", "de/d05/a28740.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
 ];

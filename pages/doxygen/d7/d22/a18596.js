@@ -1,8 +1,9 @@
 var a18596 =
 [
-    [ "DecayPeriodicTimer", "d7/d22/a18596.html#a314ac33692cc352c490ec3d87177d67a", null ],
-    [ "Load", "d7/d22/a18596.html#af5a498253c4c382df3b2462a30448a64", null ],
-    [ "PrepareAuraScript", "d7/d22/a18596.html#ac5d4ee199b49e04499997355ac054554", null ],
-    [ "Register", "d7/d22/a18596.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
-    [ "_decayRate", "d7/d22/a18596.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
+    [ "npc_spirit_wardenAI", "d7/d22/a18596.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "d7/d22/a18596.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "d7/d22/a18596.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "d7/d22/a18596.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "d7/d22/a18596.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "d7/d22/a18596.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

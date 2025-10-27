@@ -1,9 +1,7 @@
 var a24760 =
 [
-    [ "Absorb", "d1/dce/a24760.html#a5d4b54569b16175ae84d3c94a1a6fcff", null ],
-    [ "CalculateAmount", "d1/dce/a24760.html#a3800ed0d14eacf39a3930c1b5e139f85", null ],
-    [ "Load", "d1/dce/a24760.html#a79e3012cb5c78851809d9f4c4d6c4487", null ],
-    [ "PrepareAuraScript", "d1/dce/a24760.html#a1bdab939c229c466ce6b71a7e00dedf9", null ],
-    [ "Register", "d1/dce/a24760.html#a47bd5ef93255a2d926874d6d70861374", null ],
-    [ "absorbPct", "d1/dce/a24760.html#a0c067ba7bbfd5cde53f1323b5c2f47cb", null ]
+    [ "CorpseExplosionCheck", "d1/dce/a24760.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
+    [ "operator()", "d1/dce/a24760.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
+    [ "_allowGhoul", "d1/dce/a24760.html#abd42a0731af969ceccdfceae722ba276", null ],
+    [ "_casterGUID", "d1/dce/a24760.html#a497df87745f452716c652e9b1be6d46f", null ]
 ];

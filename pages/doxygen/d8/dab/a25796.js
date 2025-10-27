@@ -1,7 +1,6 @@
 var a25796 =
 [
-    [ "HandleDummy", "d8/dab/a25796.html#a02bb860f6d077d4c295ad8b82179174d", null ],
-    [ "PrepareSpellScript", "d8/dab/a25796.html#ad9eeff5aa428dabff7f2181d2819681d", null ],
-    [ "Register", "d8/dab/a25796.html#a2c699d4d848a01a80143d6fcc01b64a8", null ],
-    [ "Validate", "d8/dab/a25796.html#a9fd765b2c48f11837dbeb4caeedc0ae1", null ]
+    [ "HandleDummy", "d8/dab/a25796.html#aafc9efb0f8070566579724853a88ab03", null ],
+    [ "PrepareSpellScript", "d8/dab/a25796.html#a248c1203a4f15b2cd60afed9fa33cb59", null ],
+    [ "Register", "d8/dab/a25796.html#a362e2ab6921aaa0c10b70795a5eda0de", null ]
 ];

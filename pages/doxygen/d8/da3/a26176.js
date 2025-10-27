@@ -1,8 +1,6 @@
 var a26176 =
 [
-    [ "CheckCast", "d8/da3/a26176.html#a0d7910cd2b9d9f4174575532502d40f9", null ],
-    [ "HandleDummy", "d8/da3/a26176.html#a1eac1eb5f39093ff48942e82728478dd", null ],
-    [ "PrepareSpellScript", "d8/da3/a26176.html#adbb58b75232560d101b291c0d99a2a20", null ],
-    [ "Register", "d8/da3/a26176.html#a6acb46e81171e13f50ac1f01bf83013b", null ],
-    [ "Validate", "d8/da3/a26176.html#a4b67c348685a8094668e4ed2f0c78446", null ]
+    [ "OnPeriodic", "d8/da3/a26176.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
+    [ "PrepareAuraScript", "d8/da3/a26176.html#ad3d091510685ebc2d87aadb658cacf58", null ],
+    [ "Register", "d8/da3/a26176.html#a9552ba0f4c18623b6b00ababa034942c", null ]
 ];

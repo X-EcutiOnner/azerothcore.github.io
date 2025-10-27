@@ -1,8 +1,9 @@
 var a20016 =
 [
-    [ "FilterTargets", "d2/db4/a20016.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
-    [ "HandleScript", "d2/db4/a20016.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
-    [ "PrepareSpellScript", "d2/db4/a20016.html#aea46762f43b31923617f740e0545fe98", null ],
-    [ "Register", "d2/db4/a20016.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
-    [ "Validate", "d2/db4/a20016.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
+    [ "npc_auriaya_sanctum_sentryAI", "d2/db4/a20016.html#afffb62c4db56bb4e7baa095ae75cd7e3", null ],
+    [ "JustEngagedWith", "d2/db4/a20016.html#aeeb0aa4667a110dabcc70d422ebd6de5", null ],
+    [ "Reset", "d2/db4/a20016.html#a5ab87ac858782cd7f05d9778ca3a6214", null ],
+    [ "UpdateAI", "d2/db4/a20016.html#ab1862b4bd4b4fdfaeac8ad9c52cc5ed6", null ],
+    [ "_ripFleshTimer", "d2/db4/a20016.html#a83920afb7f6930d780abd2d6fba2aa4c", null ],
+    [ "_savagePounceTimer", "d2/db4/a20016.html#a9a6b14ece9a0bf812a04ea765b546735", null ]
 ];

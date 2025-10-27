@@ -1,7 +1,12 @@
 var a11284 =
 [
-    [ "EffectNameCheck", "d9/da9/a11284.html#aa82307388bdda7864bb085a349b63f29", null ],
-    [ "Check", "d9/da9/a11284.html#a729d7f07669dedec50f009a87b8f32a4", null ],
-    [ "ToString", "d9/da9/a11284.html#a31e545b0ae22cad4be815ea9e3b44377", null ],
-    [ "effName", "d9/da9/a11284.html#a905224fb028ea0eab350773b7230f871", null ]
+    [ "SpellDestination", "d9/da9/a11284.html#aa91f31101de3139b2e2d2976dac94686", null ],
+    [ "SpellDestination", "d9/da9/a11284.html#aa27cefe3e93fedd557174a3cc8f49fe1", null ],
+    [ "SpellDestination", "d9/da9/a11284.html#a12f65757f20436b02b7aa00bb1682c8e", null ],
+    [ "SpellDestination", "d9/da9/a11284.html#a7b8949fa80249aee8bebc56620ec746c", null ],
+    [ "Relocate", "d9/da9/a11284.html#ab565861d5013130639013e3c4d22d712", null ],
+    [ "RelocateOffset", "d9/da9/a11284.html#a0bf1d731787bfed47b593d8cb4943f2a", null ],
+    [ "_position", "d9/da9/a11284.html#a6c4587b85e295d86f3479e4feeb662e5", null ],
+    [ "_transportGUID", "d9/da9/a11284.html#ad3456cf591eb32a5dd390ffbb7b27387", null ],
+    [ "_transportOffset", "d9/da9/a11284.html#a52f0f9f741985bb4d78289145fe66ba0", null ]
 ];

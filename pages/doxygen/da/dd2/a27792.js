@@ -1,5 +1,6 @@
 var a27792 =
 [
-    [ "ServerMailReward", "da/dd2/a27792.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
-    [ "OnPlayerLogin", "da/dd2/a27792.html#ada945e805278d54746b6fabaf48b4546", null ]
+    [ "npc_air_force_botsAI", "db/dd0/a27796.html", "db/dd0/a27796" ],
+    [ "npc_air_force_bots", "da/dd2/a27792.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
+    [ "GetAI", "da/dd2/a27792.html#ae971e34d61b0f960d8f5940f9015523d", null ]
 ];

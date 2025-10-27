@@ -1,16 +1,10 @@
 var a21292 =
 [
-    [ "boss_emalonAI", "d0/d64/a21292.html#ac87b3ea34e9781f3843321ef874321fe", null ],
-    [ "AttackStart", "d0/d64/a21292.html#ab08f49aabe76b623496da2fc0198a6c1", null ],
-    [ "JustDied", "d0/d64/a21292.html#a79a05156b690140e955a6e850ac41e5b", null ],
-    [ "JustEngagedWith", "d0/d64/a21292.html#a9a3b4e6df73586125c0369aa2d3666df", null ],
-    [ "JustSummoned", "d0/d64/a21292.html#a895f302d336faa0c3f93854314d3b427", null ],
-    [ "Reset", "d0/d64/a21292.html#ae5d33f728077d5bbc3b7d74db8015f5d", null ],
-    [ "ResetSummons", "d0/d64/a21292.html#a7df4da85c40ba1c34063df9b2df5874b", null ],
-    [ "SpellHitTarget", "d0/d64/a21292.html#a2c60642848b73bc00d1a8244d4fb4733", null ],
-    [ "SummonedCreatureDies", "d0/d64/a21292.html#a25a18c4d110b407c5fcf09c14444e8b0", null ],
-    [ "UpdateAI", "d0/d64/a21292.html#a4701d5a77b6ae7ce3432c81b7b6d14cf", null ],
-    [ "events", "d0/d64/a21292.html#a78312371e28b4be3c072dc870370b577", null ],
-    [ "pInstance", "d0/d64/a21292.html#af4cc6489905f9702999cc23fd6a920c2", null ],
-    [ "summons", "d0/d64/a21292.html#a1b6ccd418114e57a0c843cc980a56243", null ]
+    [ "npc_enslaved_proto_drake", "d0/d64/a21292.html#aec835fdc8b1beb270176d5341d26c265", null ],
+    [ "MovementInform", "d0/d64/a21292.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
+    [ "Reset", "d0/d64/a21292.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
+    [ "SetData", "d0/d64/a21292.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
+    [ "UpdateAI", "d0/d64/a21292.html#a252f84198df610bac44b6bd9cd80602e", null ],
+    [ "_events", "d0/d64/a21292.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
+    [ "_setData", "d0/d64/a21292.html#adb997badd8831dea7763eaecc93b7773", null ]
 ];

@@ -1,7 +1,6 @@
 var a15984 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "d1/d0c/a15984.html#a886ed4c1485fdedcc176341210eee31a", null ],
-    [ "OnCreatureCreate", "d1/d0c/a15984.html#a7a99d985a4b465ae87c04211a7a83a77", null ],
-    [ "OnGameObjectCreate", "d1/d0c/a15984.html#a1ef3dc88400345998d03f3c993b9a181", null ],
-    [ "OnGameObjectRemove", "d1/d0c/a15984.html#a3a2776b83272d81de9ddcb0c90ac881c", null ]
+    [ "go_troll_cageAI", "d8/de5/a15988.html", "d8/de5/a15988" ],
+    [ "go_troll_cage", "d1/d0c/a15984.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
+    [ "GetAI", "d1/d0c/a15984.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
 ];

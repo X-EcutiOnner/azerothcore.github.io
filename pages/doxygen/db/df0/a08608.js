@@ -1,13 +1,10 @@
 var a08608 =
 [
-    [ "BGData", "db/df0/a08608.html#a91ccfa5183ef5996fb4bdf78567c09ba", null ],
-    [ "bgAfkReportedCount", "db/df0/a08608.html#ab7374e7b8fc6607dd6b4f04385e80ca3", null ],
-    [ "bgAfkReportedTimer", "db/df0/a08608.html#a51f8f4e05dc0224982af9a61d2dfae36", null ],
-    [ "bgAfkReporter", "db/df0/a08608.html#a94047ac71676b7914e058aac8a8cb0ea", null ],
-    [ "bgInstanceID", "db/df0/a08608.html#a8eff26fd78b5763501a3f5460de4e551", null ],
-    [ "bgIsRandom", "db/df0/a08608.html#a6f25dd5c9dc6afcc7964a5d0b7d1444c", null ],
-    [ "bgQueueSlot", "db/df0/a08608.html#a1c77bcf4135d994f0801558adca02f40", null ],
-    [ "bgTeamId", "db/df0/a08608.html#ac97f7cafb6ae69a12588e40328cdc0cb", null ],
-    [ "bgTypeID", "db/df0/a08608.html#a3398da6a15fd66cdd8dc172997d3786b", null ],
-    [ "isInvited", "db/df0/a08608.html#a8e23a1664eedf33b2195d2d8d5b01b82", null ]
+    [ "PvPInfo", "db/df0/a08608.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
+    [ "EndTimer", "db/df0/a08608.html#ae06b5030552c02f30fe8386633a753df", null ],
+    [ "FFAPvPEndTimer", "db/df0/a08608.html#a739dfc63dfe39429a44ea682d9120522", null ],
+    [ "IsHostile", "db/df0/a08608.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
+    [ "IsInFFAPvPArea", "db/df0/a08608.html#a8a654926248b3974587af1eb9c064d15", null ],
+    [ "IsInHostileArea", "db/df0/a08608.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
+    [ "IsInNoPvPArea", "db/df0/a08608.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
 ];

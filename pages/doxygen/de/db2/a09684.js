@@ -1,7 +1,6 @@
 var a09684 =
 [
-    [ "LootGroupInvalidSelector", "de/db2/a09684.html#abea815e8ee0d31cc64b3fd7f46033cca", null ],
-    [ "operator()", "de/db2/a09684.html#a2ea426fdeced03324c4a63184c2c1fc4", null ],
-    [ "_loot", "de/db2/a09684.html#a67b9d223426512af79bbf5b035c18a6d", null ],
-    [ "_lootMode", "de/db2/a09684.html#a10e307846a0731aa812388c29c0d4bc8", null ]
+    [ "bossId", "de/db2/a09684.html#ac7ce1fcc568ad1fe6bc8a20957357ed8", null ],
+    [ "entry", "de/db2/a09684.html#a1a199d022692efe54e29a7cb90e73dee", null ],
+    [ "type", "de/db2/a09684.html#ab5654860b5c27654fa0346e9e92a71fc", null ]
 ];

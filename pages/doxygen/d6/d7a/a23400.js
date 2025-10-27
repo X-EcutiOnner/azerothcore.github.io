@@ -1,5 +1,6 @@
 var a23400 =
 [
-    [ "at_quagmirran_lair", "d6/d7a/a23400.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
-    [ "OnTrigger", "d6/d7a/a23400.html#aa0aab42516efaf842923b8a820942ac4", null ]
+    [ "FilterTargets", "d6/d7a/a23400.html#ac20676c292d87276e444bad56d71960d", null ],
+    [ "PrepareSpellScript", "d6/d7a/a23400.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
+    [ "Register", "d6/d7a/a23400.html#ae356b768872de3e87806c19bf8cccb08", null ]
 ];

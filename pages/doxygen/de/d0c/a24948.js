@@ -1,6 +1,6 @@
 var a24948 =
 [
-    [ "PrepareAuraScript", "de/d0c/a24948.html#a8a60db6939ba71ddcf723fb4e48b3146", null ],
-    [ "Register", "de/d0c/a24948.html#a8ab913cf84f55428d2b0615172f3da3b", null ],
-    [ "AuraEffectHandleModes", "de/d0c/a24948.html#aed1cfe63d82450b526e154678fb97ac4", null ]
+    [ "CheckCast", "de/d0c/a24948.html#a8ab8394c56201264ac4f2d859dd52092", null ],
+    [ "PrepareSpellScript", "de/d0c/a24948.html#acc6d27c8d869ec80ee5794405f6c238a", null ],
+    [ "Register", "de/d0c/a24948.html#a191085bc21ce6f5ce1d5b43d6d70f069", null ]
 ];

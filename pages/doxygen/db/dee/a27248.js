@@ -1,5 +1,5 @@
 var a27248 =
 [
-    [ "go_ethereum_stasis", "db/dee/a27248.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
-    [ "OnGossipHello", "db/dee/a27248.html#ac36da8dccbebcaee605a878df3904c60", null ]
+    [ "achievement_bg_control_all_nodes", "db/dee/a27248.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
+    [ "OnCheck", "db/dee/a27248.html#a69609eb5488519fa5a1f43b13a80e280", null ]
 ];

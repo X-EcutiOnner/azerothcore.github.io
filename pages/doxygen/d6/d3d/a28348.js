@@ -1,8 +1,9 @@
 var a28348 =
 [
-    [ "areaTriggerText", "d6/d3d/a28348.html#a32bb8c4a4defce661d108627e25b645a", null ],
-    [ "Difficulty", "d6/d3d/a28348.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
-    [ "MapId", "d6/d3d/a28348.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
-    [ "maxPlayers", "d6/d3d/a28348.html#a7ab33229ffee11a27861439053c79831", null ],
-    [ "resetTime", "d6/d3d/a28348.html#a891a741efb049b51996e1a6110efc52d", null ]
+    [ "CinematicSequence", "d6/d3d/a28348.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
+    [ "ClassID", "d6/d3d/a28348.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
+    [ "expansion", "d6/d3d/a28348.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
+    [ "name", "d6/d3d/a28348.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
+    [ "powerType", "d6/d3d/a28348.html#a74aec35dc161a7e830453b9365a6f107", null ],
+    [ "spellfamily", "d6/d3d/a28348.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
 ];

@@ -1,8 +1,10 @@
 var a13204 =
 [
-    [ "CalcPeriodic", "dd/d2d/a13204.html#a9aaca3bb1d762c9bddf3b91205f48d00", null ],
-    [ "HandleDummyTick", "dd/d2d/a13204.html#acd3616df94f888ad5fb1c5b0607f6f25", null ],
-    [ "HandleUpdatePeriodic", "dd/d2d/a13204.html#a70ef86fd58eec1422bac6b61a4123842", null ],
-    [ "PrepareAuraScript", "dd/d2d/a13204.html#a9a97a6ab249728dbad4d3603640a7963", null ],
-    [ "Register", "dd/d2d/a13204.html#ab6b223ed68a521ea9a3cbc2a6e21ac49", null ]
+    [ "npc_scarlet_courierAI", "dd/d2d/a13204.html#a83c5e32659d38a513790322e46dcc283", null ],
+    [ "JustEngagedWith", "dd/d2d/a13204.html#aa470197f0949a413c421bda8c7c09279", null ],
+    [ "MovementInform", "dd/d2d/a13204.html#add19812d92d62b602f96ffc5fb513d6c", null ],
+    [ "Reset", "dd/d2d/a13204.html#ab642188631b67ae5ff5fd312eaf37ff0", null ],
+    [ "UpdateAI", "dd/d2d/a13204.html#ac37287a77e37785b606c742ff8d6eeeb", null ],
+    [ "uiStage", "dd/d2d/a13204.html#a2f920922f8c6f1a878d0e4978e081257", null ],
+    [ "uiStage_timer", "dd/d2d/a13204.html#a8ee22a276535a3a9c2f12a62e984d55b", null ]
 ];

@@ -1,7 +1,7 @@
 var a13316 =
 [
-    [ "CorruptTriggers", "db/d45/a13316.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
-    [ "Execute", "db/d45/a13316.html#a9929f3518f307e0b753782967f06c6c1", null ],
-    [ "_caster", "db/d45/a13316.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
-    [ "_currentLane", "db/d45/a13316.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
+    [ "HandleScript", "db/d45/a13316.html#a03f8c24445ee4ac82a4cf2caece38f90", null ],
+    [ "PrepareSpellScript", "db/d45/a13316.html#a034195e58f02225c172b70c3967fe3ad", null ],
+    [ "Register", "db/d45/a13316.html#afaf3a6fd54f499982bd1cfd6e4c6c1a2", null ],
+    [ "Validate", "db/d45/a13316.html#a8ac78c00c49b1eb2fade4100a810d367", null ]
 ];

@@ -1,7 +1,6 @@
 var a21020 =
 [
-    [ "HandleEffectCalcPeriodic", "d5/dfd/a21020.html#af01eb94174952de52615734055b17c1a", null ],
-    [ "HandleEffectPeriodic", "d5/dfd/a21020.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
-    [ "PrepareAuraScript", "d5/dfd/a21020.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
-    [ "Register", "d5/dfd/a21020.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
+    [ "boss_yoggsaron_death_orbAI", "d1/d91/a21024.html", "d1/d91/a21024" ],
+    [ "boss_yoggsaron_death_orb", "d5/dfd/a21020.html#a862d01f012cee832b41bc7c584816b93", null ],
+    [ "GetAI", "d5/dfd/a21020.html#a3169cd0e78642503f394a6cb74307871", null ]
 ];

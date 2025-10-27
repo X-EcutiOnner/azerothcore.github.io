@@ -1,6 +1,7 @@
 var a16320 =
 [
-    [ "npc_black_knight_ghoulAI", "d7/ded/a16324.html", "d7/ded/a16324" ],
-    [ "npc_black_knight_ghoul", "d2/d36/a16320.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
-    [ "GetAI", "d2/d36/a16320.html#a52308f8d168e1ccea22de653813b7f6f", null ]
+    [ "npc_orb_carrierAI", "d2/d36/a16320.html#a2011c247d2157f5f2a06db6e149743e0", null ],
+    [ "DoAction", "d2/d36/a16320.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
+    [ "TriggerCutter", "d2/d36/a16320.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
+    [ "UpdateAI", "d2/d36/a16320.html#a99a08390fcf2b0a058aee161932392d0", null ]
 ];

@@ -1,7 +1,10 @@
 var a09460 =
 [
-    [ "PlayerAtMinimumRangeAway", "d5/d2d/a09460.html#a12eb5ff486232f88c7303741ebd8e65e", null ],
-    [ "operator()", "d5/d2d/a09460.html#a1cfda97a0590e033f9b6043c8de2d0a0", null ],
-    [ "fRange", "d5/d2d/a09460.html#a0c58929de429694f24877525287f15a6", null ],
-    [ "unit", "d5/d2d/a09460.html#a4ea0f83c3287079cff40fac15272fa94", null ]
+    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d5/d2d/a09460.html#aa9f15d071efe7ca7bb975489fec2afbd", null ],
+    [ "NearestCreatureEntryWithLiveStateInObjectRangeCheck", "d5/d2d/a09460.html#a1e25384d08beeee84d83e401f5a5a565", null ],
+    [ "operator()", "d5/d2d/a09460.html#abc2ab6f33a6a58a6e692cc32e8139839", null ],
+    [ "i_alive", "d5/d2d/a09460.html#a7a01388f86d25fa0728d94c6e1a7f752", null ],
+    [ "i_entry", "d5/d2d/a09460.html#ae2bf2c0a0f431f5de445fbee26b60a57", null ],
+    [ "i_obj", "d5/d2d/a09460.html#aa0340c79c37f3494b01c52f034705aa4", null ],
+    [ "i_range", "d5/d2d/a09460.html#a695af00612b17e0182ad76a5c3be2356", null ]
 ];

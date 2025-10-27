@@ -1,6 +1,7 @@
 var a10588 =
 [
-    [ "GuildUpdateMotdText", "d1/d6c/a10588.html#ab3b248450b0dcdde6b51e381e910b15d", null ],
-    [ "Read", "d1/d6c/a10588.html#a55cfd6f4797e61ca01ee7aa5c65d9a69", null ],
-    [ "MotdText", "d1/d6c/a10588.html#a5b2ee458a919be7f912d49cf984490ac", null ]
+    [ "Emote", "d1/d6c/a10588.html#acb1620d125ffb11fe43caf4ebf27d1be", null ],
+    [ "Write", "d1/d6c/a10588.html#a3f5532f40b59f47423d2b4e3749da88e", null ],
+    [ "EmoteID", "d1/d6c/a10588.html#a7f4d3ee4353b408f8c795e6fdc552e76", null ],
+    [ "Guid", "d1/d6c/a10588.html#ab96a1c0933e90872f54eb0995098274a", null ]
 ];

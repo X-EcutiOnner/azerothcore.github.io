@@ -1,7 +1,9 @@
 var a10748 =
 [
-    [ "GuildBankTextQueryResult", "d9/dab/a10748.html#aa1e25895e246c3a688d7850e517858d3", null ],
-    [ "Write", "d9/dab/a10748.html#acb6b28dcf56b821e3c0d5b58f6baa2dd", null ],
-    [ "Tab", "d9/dab/a10748.html#abfc5522a0f94086474493db85ed1ef73", null ],
-    [ "Text", "d9/dab/a10748.html#ae78c1d1b802e12efd058987117158ec3", null ]
+    [ "GuildBankUpdateTab", "d9/dab/a10748.html#a2950da8bfc40df57a3f5a66eee47a7ef", null ],
+    [ "Read", "d9/dab/a10748.html#ac261ff0102489efb4d69bd866ffc9283", null ],
+    [ "Banker", "d9/dab/a10748.html#a7ab950cee095221f9114224a624d46db", null ],
+    [ "BankTab", "d9/dab/a10748.html#a66284a4d9cb40b025ef265d443e6e62f", null ],
+    [ "Icon", "d9/dab/a10748.html#a75a219a9e2ab677a41920f39a1613a1b", null ],
+    [ "Name", "d9/dab/a10748.html#a44261fbc379b3137548922faf4b5cbda", null ]
 ];

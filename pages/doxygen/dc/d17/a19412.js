@@ -1,6 +1,6 @@
 var a19412 =
 [
-    [ "boss_drakosAI", "db/d88/a19416.html", "db/d88/a19416" ],
-    [ "boss_drakos", "dc/d17/a19412.html#aa70ae2809af4f24eea0b83b42d695448", null ],
-    [ "GetAI", "dc/d17/a19412.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
+    [ "DespawnTime", "dc/d17/a19412.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
+    [ "End", "dc/d17/a19412.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
+    [ "Start", "dc/d17/a19412.html#a985271de503fa704a58abe3e64c3b268", null ]
 ];

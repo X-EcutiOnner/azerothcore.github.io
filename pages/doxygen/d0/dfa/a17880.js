@@ -1,6 +1,7 @@
 var a17880 =
 [
-    [ "MalleableGooSelector", "d0/dfa/a17880.html#a5adb1e89ab7d5733514a8fefc5de6a35", null ],
-    [ "operator()", "d0/dfa/a17880.html#adf73957539fdcc604f849944473e0015", null ],
-    [ "me", "d0/dfa/a17880.html#a6cd991b360895b4b3405f0cd9e63879f", null ]
+    [ "FilterTargets", "d0/dfa/a17880.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
+    [ "Load", "d0/dfa/a17880.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
+    [ "PrepareSpellScript", "d0/dfa/a17880.html#a7526a6df4c25136f4be78e753c6abf62", null ],
+    [ "Register", "d0/dfa/a17880.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
 ];

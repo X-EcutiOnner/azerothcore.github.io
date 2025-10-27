@@ -1,6 +1,5 @@
 var a19100 =
 [
-    [ "boss_heiganAI", "de/d15/a19104.html", "de/d15/a19104" ],
-    [ "boss_heigan", "d2/d0c/a19100.html#aefa3a6d870bde0d33504c5f2b56572be", null ],
-    [ "GetAI", "d2/d0c/a19100.html#ad9edf8eade874c1ecc2cecdac17700a1", null ]
+    [ "creatureEntry", "d2/d0c/a19100.html#afab12c40af70303dff2a9553d47dbb7d", null ],
+    [ "questId", "d2/d0c/a19100.html#ace2a7dd58d442b6afb2173311c89593b", null ]
 ];

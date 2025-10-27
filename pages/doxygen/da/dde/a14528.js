@@ -1,6 +1,5 @@
 var a14528 =
 [
-    [ "HandleAfterEffectApply", "da/dde/a14528.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
-    [ "PrepareAuraScript", "da/dde/a14528.html#a917379c33352721b5b76c1d9dac0c025", null ],
-    [ "Register", "da/dde/a14528.html#a846d79564d76d6000c2276045775d7da", null ]
+    [ "at_bring_your_orphan_to", "da/dde/a14528.html#a160aae23dd3423dbc1afc8e3f8dbec7c", null ],
+    [ "OnTrigger", "da/dde/a14528.html#af5cb73f6ba0657eff8809711a5dba84c", null ]
 ];

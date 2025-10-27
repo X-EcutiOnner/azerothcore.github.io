@@ -1,6 +1,6 @@
 var a17884 =
 [
-    [ "boss_professor_putricideAI", "d5/de4/a17888.html", "d5/de4/a17888" ],
-    [ "boss_professor_putricide", "d6/dc8/a17884.html#a80776dad5c0205aa6a98752f43e85e32", null ],
-    [ "GetAI", "d6/dc8/a17884.html#a7c84089d24bb0c77a5203884254e0925", null ]
+    [ "HandlePeriodicTick", "d6/dc8/a17884.html#accfe8a0cea8af9c9474d25fc3e7c7e22", null ],
+    [ "PrepareAuraScript", "d6/dc8/a17884.html#a9962029ce4a5223d7aa05068e8d83326", null ],
+    [ "Register", "d6/dc8/a17884.html#a64cf56299c8ab5292dbc9cddcee5f841", null ]
 ];

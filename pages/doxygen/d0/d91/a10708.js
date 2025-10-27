@@ -1,7 +1,5 @@
 var a10708 =
 [
-    [ "GuildBankWithdrawMoney", "d0/d91/a10708.html#a7bd310d1fa4fb332cd815a259de3ef2d", null ],
-    [ "Read", "d0/d91/a10708.html#a420aac24befdc5ac26171faa15c3c350", null ],
-    [ "Banker", "d0/d91/a10708.html#a68f9a4191c349702881774bff4069f03", null ],
-    [ "Money", "d0/d91/a10708.html#a349f8608d589ac3a5697c7c1cf73723e", null ]
+    [ "GuildDeleteRank", "d0/d91/a10708.html#ae21057ea5cc30ed07deaa736149617b3", null ],
+    [ "Read", "d0/d91/a10708.html#a91a7883299fe09e08c247c96987a8333", null ]
 ];

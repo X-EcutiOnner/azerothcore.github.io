@@ -1,7 +1,6 @@
 var a19028 =
 [
-    [ "OnApply", "da/d13/a19028.html#a72a01dea703436b2a220a9976da60fa6", null ],
-    [ "PrepareAuraScript", "da/d13/a19028.html#adb17425258d4fb2c0c464236e15f32d7", null ],
-    [ "Register", "da/d13/a19028.html#af026c126029c68ed8b7c6c1886720e4c", null ],
-    [ "Validate", "da/d13/a19028.html#a5674396828adf4e80102ed2277f1e08a", null ]
+    [ "npc_icc_severed_essenceAI", "d8/d2c/a19032.html", "d8/d2c/a19032" ],
+    [ "npc_icc_severed_essence", "da/d13/a19028.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
+    [ "GetAI", "da/d13/a19028.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
 ];

@@ -1,8 +1,14 @@
 var a24156 =
 [
-    [ "npc_bessyAI", "de/df2/a24156.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "de/df2/a24156.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "de/df2/a24156.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "de/df2/a24156.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "de/df2/a24156.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "de/df2/a24156.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
+    [ "Initialize", "de/df2/a24156.html#a187340b00067f2f65a7e48845a6edaba", null ],
+    [ "JustSummoned", "de/df2/a24156.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
+    [ "Reset", "de/df2/a24156.html#a92a6cbe0515752440284d18bae0adf66", null ],
+    [ "SpellHit", "de/df2/a24156.html#a517f7412208de83604d0d6806fbc0b34", null ],
+    [ "UpdateAI", "de/df2/a24156.html#ab4fb75f1b84c2722f936387a6942028b", null ],
+    [ "CannonGUID", "de/df2/a24156.html#a220e111467cfb6f02e996f012123e09b", null ],
+    [ "count", "de/df2/a24156.html#ac78f94033239dcf247be9a48d0535081", null ],
+    [ "events", "de/df2/a24156.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
+    [ "PartyTime", "de/df2/a24156.html#a1780c656fb539be6dcd74e271cea4c53", null ],
+    [ "PlayerGUID", "de/df2/a24156.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
 ];

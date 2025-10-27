@@ -1,6 +1,6 @@
 var a15824 =
 [
-    [ "npc_weegli_blastfuseAI", "d5/db8/a15828.html", "d5/db8/a15828" ],
-    [ "npc_weegli_blastfuse", "dd/d6b/a15824.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
-    [ "GetAI", "dd/d6b/a15824.html#a701681d8771756dac20d30c2e03a1349", null ]
+    [ "npc_custodian_of_timeAI", "d5/db8/a15828.html", "d5/db8/a15828" ],
+    [ "npc_custodian_of_time", "dd/d6b/a15824.html#a6018b30119ce819853a3c662b3d5347e", null ],
+    [ "GetAI", "dd/d6b/a15824.html#a57217b2dab1cab110f1c59526ca13c86", null ]
 ];

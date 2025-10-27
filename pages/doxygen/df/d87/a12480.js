@@ -1,7 +1,9 @@
 var a12480 =
 [
-    [ "HandleDummy", "df/d87/a12480.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
-    [ "PrepareSpellScript", "df/d87/a12480.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
-    [ "Register", "df/d87/a12480.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
-    [ "Validate", "df/d87/a12480.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
+    [ "npc_drakonid_spawner", "df/d87/a12480.html#a2b657e800dc5cc30c618391413ded116", null ],
+    [ "DoAction", "df/d87/a12480.html#ab013cff0430c09fe1045fdc735e45182", null ],
+    [ "IsSummonedBy", "df/d87/a12480.html#a6a2170e0f20736d69006ce6d6c769476", null ],
+    [ "SummonedCreatureDies", "df/d87/a12480.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
+    [ "UpdateAI", "df/d87/a12480.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
+    [ "_owner", "df/d87/a12480.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
 ];

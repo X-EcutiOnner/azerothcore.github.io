@@ -1,4 +1,4 @@
 var a01295 =
 [
-    [ "WorldMapScript", "d3/d8a/a10459.html", "d3/d8a/a10459" ]
+    [ "WorldMapScript", "d1/d2a/a10460.html", "d1/d2a/a10460" ]
 ];

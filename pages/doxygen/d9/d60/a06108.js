@@ -1,8 +1,9 @@
 var a06108 =
 [
-    [ "PassiveAI", "d9/d60/a06108.html#ad1ae1c9e8a101dabd89aeed5c71eb453", null ],
-    [ "AttackStart", "d9/d60/a06108.html#ac2aeba8cb148659de1ef97733fbb0651", null ],
-    [ "MoveInLineOfSight", "d9/d60/a06108.html#a3a54c7d7268b8c2f4e081a99b4b0cd11", null ],
-    [ "Permissible", "d9/d60/a06108.html#a2960223799a5b3baedbdd7e664604865", null ],
-    [ "UpdateAI", "d9/d60/a06108.html#ae8aa0cf612d23e5b9438e3f2b443f3d9", null ]
+    [ "AddonInfo", "d9/d60/a06108.html#a60ea66ed93b64c9e182226954a514f53", null ],
+    [ "CRC", "d9/d60/a06108.html#a7f0f2d817a2189b3acee5999f154ba60", null ],
+    [ "Enabled", "d9/d60/a06108.html#ace9f109c395ed84cc01ca4381222c25b", null ],
+    [ "Name", "d9/d60/a06108.html#a45692257c72286e670ab8c9c50014335", null ],
+    [ "State", "d9/d60/a06108.html#a5301b19e44d68540434574f023e62f46", null ],
+    [ "UsePublicKeyOrCRC", "d9/d60/a06108.html#a75e016fa7abee24757c89b97330a6192", null ]
 ];

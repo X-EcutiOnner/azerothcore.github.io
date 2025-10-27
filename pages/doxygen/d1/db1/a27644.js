@@ -1,7 +1,5 @@
 var a27644 =
 [
-    [ "npc_sayge", "d1/db1/a27644.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
-    [ "OnGossipHello", "d1/db1/a27644.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
-    [ "OnGossipSelect", "d1/db1/a27644.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
-    [ "SendAction", "d1/db1/a27644.html#aed1988335672423d024546654aa95298", null ]
+    [ "item_only_for_flight", "d1/db1/a27644.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
+    [ "OnUse", "d1/db1/a27644.html#a88cdf17a85630aef703f93143ba41d4d", null ]
 ];

@@ -1,5 +1,6 @@
 var a20384 =
 [
-    [ "achievement_ignis_shattered", "db/dbc/a20384.html#adbe893b0dd409eb3f10768f81f182f61", null ],
-    [ "OnCheck", "db/dbc/a20384.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
+    [ "npc_ulduar_toasty_fireAI", "d9/dfc/a20388.html", "d9/dfc/a20388" ],
+    [ "npc_ulduar_toasty_fire", "db/dbc/a20384.html#a5a5b77088b24f1c5743c58034190d5ab", null ],
+    [ "GetAI", "db/dbc/a20384.html#a2518ec39c3cea2f3efc5000e0a7779d0", null ]
 ];

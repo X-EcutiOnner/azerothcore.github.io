@@ -1,10 +1,10 @@
 var a27008 =
 [
-    [ "CheckProc", "d0/dc0/a27008.html#a68a559c46266fc7337f7d56bb66af542", null ],
-    [ "HandleProc", "d0/dc0/a27008.html#a69cdd92cea54ec5bf11f6011578b2338", null ],
-    [ "Load", "d0/dc0/a27008.html#ad571b0d2f47cff037030d7a8184f60fd", null ],
-    [ "PrepareAuraScript", "d0/dc0/a27008.html#aa20e2911e60f3ae7a9dcceee8f96b6ef", null ],
-    [ "Register", "d0/dc0/a27008.html#a8af18925b317c717fcd6b2fae14a16e4", null ],
-    [ "Validate", "d0/dc0/a27008.html#ac0cf25901d70e37bb887b3baa38790b5", null ],
-    [ "_procTarget", "d0/dc0/a27008.html#ad48f21d3a45e97857265e6047f253910", null ]
+    [ "CalcPeriodic", "d0/dc0/a27008.html#abd23b7e24d9688dd4b9cbe70cdd45d75", null ],
+    [ "CalculateAmount", "d0/dc0/a27008.html#a55aa6c6a23e4db0f407b86bcf95d3761", null ],
+    [ "HandleEffectCalcSpellMod", "d0/dc0/a27008.html#a8c888218fde2176a3c3b5cb97fdce5de", null ],
+    [ "HandlePeriodic", "d0/dc0/a27008.html#ae2c4de235fc727039a50f1b6ba729422", null ],
+    [ "Load", "d0/dc0/a27008.html#a9e1a5a07db18f6ff238276f9e1c44321", null ],
+    [ "PrepareAuraScript", "d0/dc0/a27008.html#a847c1db1bf92baeba47260ffbacbcdd9", null ],
+    [ "Register", "d0/dc0/a27008.html#a9241ab85d616f4f17c52b3730c5434e1", null ]
 ];

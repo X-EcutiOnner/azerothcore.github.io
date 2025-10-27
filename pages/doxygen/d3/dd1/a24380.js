@@ -1,8 +1,6 @@
 var a24380 =
 [
-    [ "go_skull_pile", "d3/dd1/a24380.html#a9cf8dfef432c4967c60f66e645585770", null ],
-    [ "OnGossipHello", "d3/dd1/a24380.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
-    [ "OnGossipSelect", "d3/dd1/a24380.html#afb8e8db2705355e975fa48c98e09f20b", null ],
-    [ "SendActionMenu", "d3/dd1/a24380.html#a048dd224b46ead864958ad524d76167f", null ],
-    [ "_result", "d3/dd1/a24380.html#af74fcd75404c0886128401d661067394", null ]
+    [ "npc_dragonmaw_peonAI", "d1/d9a/a24384.html", "d1/d9a/a24384" ],
+    [ "npc_dragonmaw_peon", "d3/dd1/a24380.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
+    [ "GetAI", "d3/dd1/a24380.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
 ];

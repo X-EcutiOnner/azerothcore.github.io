@@ -1,11 +1,7 @@
 var a13020 =
 [
-    [ "npc_a_special_surpriseAI", "d5/d4b/a13020.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
-    [ "MeetQuestCondition", "d5/d4b/a13020.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
-    [ "MoveInLineOfSight", "d5/d4b/a13020.html#af0b183b951f1eba8114da1f7a1284d09", null ],
-    [ "Reset", "d5/d4b/a13020.html#a9526f6b257eade275b828d2b30328533", null ],
-    [ "UpdateAI", "d5/d4b/a13020.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
-    [ "ExecuteSpeech_Counter", "d5/d4b/a13020.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
-    [ "ExecuteSpeech_Timer", "d5/d4b/a13020.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
-    [ "PlayerGUID", "d5/d4b/a13020.html#a683cdbd0ef9d0562842aace5b440594f", null ]
+    [ "HandleDummy", "d5/d4b/a13020.html#ac2889b1744117f8c0bffcce04952d7c2", null ],
+    [ "PrepareSpellScript", "d5/d4b/a13020.html#a5738144c85424e11f33aada38273e24e", null ],
+    [ "Register", "d5/d4b/a13020.html#a206a4d40e082246193ba36c9080cdac1", null ],
+    [ "Validate", "d5/d4b/a13020.html#a0718461731d563d2c948848f60101d49", null ]
 ];

@@ -1,8 +1,7 @@
 var a19156 =
 [
-    [ "boss_maexxna_webwrapAI", "d2/d94/a19156.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
-    [ "IsSummonedBy", "d2/d94/a19156.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
-    [ "JustDied", "d2/d94/a19156.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
-    [ "UpdateAI", "d2/d94/a19156.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
-    [ "victimGUID", "d2/d94/a19156.html#a54081ebfc0df639b7e18b5f079802c92", null ]
+    [ "HandleGameObjectDamage", "d2/d94/a19156.html#a811edfe01c1784664b5b4253d2305b4e", null ],
+    [ "PrepareSpellScript", "d2/d94/a19156.html#a0cfedeba2a747777de292b8f30b6752b", null ],
+    [ "Register", "d2/d94/a19156.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
+    [ "Validate", "d2/d94/a19156.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
 ];

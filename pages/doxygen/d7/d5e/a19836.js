@@ -1,12 +1,8 @@
 var a19836 =
 [
-    [ "npc_assembly_lightningAI", "d7/d5e/a19836.html#a4b778b6545e7c93e66a07160db793651", null ],
-    [ "AttackStart", "d7/d5e/a19836.html#afd4657e8c6a2eb39346e99cb54a7ab1a", null ],
-    [ "EnterEvadeMode", "d7/d5e/a19836.html#a4c0bb838053412a3945648ed1a5a13b9", null ],
-    [ "MoveInLineOfSight", "d7/d5e/a19836.html#a077f788e67cdb67683ac13f3a3d1322b", null ],
-    [ "MovementInform", "d7/d5e/a19836.html#a95227f93c5ac6871bfcea603ebb2188d", null ],
-    [ "OnCharmed", "d7/d5e/a19836.html#aa08e4c286723c76251bd75aa54b24f5f", null ],
-    [ "Reset", "d7/d5e/a19836.html#a1f03885bfd91d9b9cdde1d90b51d2c96", null ],
-    [ "UpdateAI", "d7/d5e/a19836.html#a94edd1ea5278bd5ca8d5d64619e9c8b4", null ],
-    [ "_boomed", "d7/d5e/a19836.html#aa6b4a46674a7d4106a49ef308ec27b9e", null ]
+    [ "iron_golem_custodianAI", "d7/d5e/a19836.html#aeeeed1383f5d221eb7b5cd5d3a6ea4fb", null ],
+    [ "JustEngagedWith", "d7/d5e/a19836.html#acd67b8d4df95eb8b0d0365184e47a29c", null ],
+    [ "Reset", "d7/d5e/a19836.html#af3193696d665746eecd9c62128d8684d", null ],
+    [ "UpdateAI", "d7/d5e/a19836.html#ab1d3910b07a6c5c53f5388a10dc48775", null ],
+    [ "events", "d7/d5e/a19836.html#a9e0bcc9ae6918f9fa40cbf8085d4ec42", null ]
 ];

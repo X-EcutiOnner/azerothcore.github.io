@@ -1,9 +1,7 @@
 var a24876 =
 [
-    [ "PrepareAuraScript", "d4/d6f/a24876.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
-    [ "Register", "d4/d6f/a24876.html#a04efbc64bfa0312bc1f372e403803c32", null ],
-    [ "Update", "d4/d6f/a24876.html#aa463442b994b6275b2e12fe06ae7805c", null ],
-    [ "amplitude", "d4/d6f/a24876.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
-    [ "amplitude", "d4/d6f/a24876.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
-    [ "isPeriodic", "d4/d6f/a24876.html#a0732bf60822bbb547be014566d0e092c", null ]
+    [ "CalculateAmount", "d4/d6f/a24876.html#af51a8e22ddfe0648f08a4190d730fbda", null ],
+    [ "CheckProc", "d4/d6f/a24876.html#a2f80dcd9e5922af55dee096c95079062", null ],
+    [ "PrepareAuraScript", "d4/d6f/a24876.html#af54ef254d0897140255960146507e986", null ],
+    [ "Register", "d4/d6f/a24876.html#ad6e4bd4390f6f88494984af792a11b90", null ]
 ];

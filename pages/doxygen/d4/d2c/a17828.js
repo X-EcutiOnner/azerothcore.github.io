@@ -1,6 +1,6 @@
 var a17828 =
 [
-    [ "BoneStormMoveTargetSelector", "d4/d2c/a17828.html#acd13e67fbbc29137ca2b77aaf9dc0e77", null ],
-    [ "operator()", "d4/d2c/a17828.html#a5b53c140d38db0df8faef3dfaf5c458d", null ],
-    [ "_source", "d4/d2c/a17828.html#a03d8b1ec5f18398fe2963418bb319973", null ]
+    [ "npc_gunship_gunnerAI", "d5/db8/a17832.html", "d5/db8/a17832" ],
+    [ "npc_gunship_gunner", "d4/d2c/a17828.html#a409711f22b35eae0c0d48bc23545e592", null ],
+    [ "GetAI", "d4/d2c/a17828.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
 ];

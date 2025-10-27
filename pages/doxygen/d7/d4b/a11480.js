@@ -1,7 +1,6 @@
 var a11480 =
 [
-    [ "FieldIndices", "d7/d4b/a11480.html#a06a366c804088e6fbb170881004a5cff", null ],
-    [ "TableFields", "d7/d4b/a11480.html#ad5d909c6b4b062f3c4aac3f559c5eaec", null ],
-    [ "TableName", "d7/d4b/a11480.html#ab00ee028c72660db98e8108583701471", null ],
-    [ "WhereFieldName", "d7/d4b/a11480.html#af1be82a21f6172504e310ae27b899e5b", null ]
+    [ "ObjectTargetSelectHandler", "d7/d4b/a11480.html#abe96c3e266375ab64f8dec54a047a5b8", null ],
+    [ "Call", "d7/d4b/a11480.html#a7e18103fb5c68b2cf85f54bf7caf4b3b", null ],
+    [ "pObjectTargetSelectHandlerScript", "d7/d4b/a11480.html#a6982985537c0ddb8dd79647766c9ae70", null ]
 ];

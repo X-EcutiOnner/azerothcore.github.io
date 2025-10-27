@@ -1,6 +1,9 @@
 var a26828 =
 [
-    [ "HandleBanish", "d3/d39/a26828.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
-    [ "PrepareSpellScript", "d3/d39/a26828.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
-    [ "Register", "d3/d39/a26828.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
+    [ "CheckCast", "d3/d39/a26828.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
+    [ "FilterTargets", "d3/d39/a26828.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
+    [ "HandleDummy", "d3/d39/a26828.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
+    [ "PrepareSpellScript", "d3/d39/a26828.html#a9c992e732b525e29f684947398d20efb", null ],
+    [ "Register", "d3/d39/a26828.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
+    [ "Validate", "d3/d39/a26828.html#abca1e5aa46e7753588c8120090775195", null ]
 ];

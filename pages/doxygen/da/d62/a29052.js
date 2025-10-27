@@ -1,12 +1,13 @@
 var a29052 =
 [
-    [ "npc_dream_fogAI", "da/d62/a29052.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
-    [ "GetRandomUnitFromDragonThreatList", "da/d62/a29052.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
-    [ "Reset", "da/d62/a29052.html#a595eeeae54d4bf323287fc408f706ac6", null ],
-    [ "ScheduleEvents", "da/d62/a29052.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
-    [ "SetGUID", "da/d62/a29052.html#aa223fc3eaa1096d0bad578a88b81ab7e", null ],
-    [ "UpdateAI", "da/d62/a29052.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
-    [ "_dragonGUID", "da/d62/a29052.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
-    [ "_scheduler", "da/d62/a29052.html#a0076affc559d4999e44a4be3e131062a", null ],
-    [ "_targetGUID", "da/d62/a29052.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
+    [ "liquidTris", "da/d62/a29052.html#ad166656bfa449d3093cb23e7bef2cc76", null ],
+    [ "liquidType", "da/d62/a29052.html#afbbb20fcb4e597c2addcc47893a33f92", null ],
+    [ "liquidVerts", "da/d62/a29052.html#a52796933ab018f27d12f625673f7f8a9", null ],
+    [ "offMeshConnectionDirs", "da/d62/a29052.html#a58350c36d5b88fe255880f6c217d4ef9", null ],
+    [ "offMeshConnectionRads", "da/d62/a29052.html#a56bbdeb5028302de0c5eb5a02cffa44c", null ],
+    [ "offMeshConnections", "da/d62/a29052.html#a706feac90bb398da61296bac9d0b7176", null ],
+    [ "offMeshConnectionsAreas", "da/d62/a29052.html#af5af113433bb2776e6735195e57ab6f7", null ],
+    [ "offMeshConnectionsFlags", "da/d62/a29052.html#a8c819b625f1bb0b21bb756144b2e1266", null ],
+    [ "solidTris", "da/d62/a29052.html#adb04d376bfa182cf9666689e6c5a7c68", null ],
+    [ "solidVerts", "da/d62/a29052.html#a915387c2cfa7111de4a957646a2aace4", null ]
 ];

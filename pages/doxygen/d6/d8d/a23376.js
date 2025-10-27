@@ -1,7 +1,6 @@
 var a23376 =
 [
-    [ "HandleScriptEffect", "d6/d8d/a23376.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
-    [ "PrepareSpellScript", "d6/d8d/a23376.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
-    [ "Register", "d6/d8d/a23376.html#a14772c25b70078c0034b8de17de5b77a", null ],
-    [ "Validate", "d6/d8d/a23376.html#a8318385367bf6c6b09e0978c461f5d59", null ]
+    [ "HandleScriptEffect", "d6/d8d/a23376.html#a766edc5924124c869b04ec82cd2bc693", null ],
+    [ "PrepareSpellScript", "d6/d8d/a23376.html#a1eac10c673b8f43ae08f8bbdf949f82f", null ],
+    [ "Register", "d6/d8d/a23376.html#a60d4e21bf31c997ef4105ad72c8b4e85", null ]
 ];

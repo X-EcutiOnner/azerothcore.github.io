@@ -1,15 +1,13 @@
 var a19448 =
 [
-    [ "boss_varosAI", "d2/d9e/a19448.html#a3e6815b80a3f9f5e8c53bb762e9058f2", null ],
-    [ "EnterEvadeMode", "d2/d9e/a19448.html#a0b7eeef4529b47357d729852cdeab002", null ],
-    [ "JustDied", "d2/d9e/a19448.html#a2724167a66a059e1c0ca1612d8405d68", null ],
-    [ "JustEngagedWith", "d2/d9e/a19448.html#a2f25555ca2884f6bffb289d209e87740", null ],
-    [ "JustSummoned", "d2/d9e/a19448.html#a24b2a1e438b02c67e64b79adb0cfeafe", null ],
-    [ "MoveInLineOfSight", "d2/d9e/a19448.html#a87f743f03dc19659d0e77ee23cd2c327", null ],
-    [ "Reset", "d2/d9e/a19448.html#aef24d04954a26bb6381c860403e84288", null ],
-    [ "UpdateAI", "d2/d9e/a19448.html#acc1ac3c2bf5cb1a7732f375285467423", null ],
-    [ "events", "d2/d9e/a19448.html#a36746118770c936e7606962365e102d8", null ],
-    [ "pInstance", "d2/d9e/a19448.html#a9cf7c0159753512ae7dea8a2f6a9da74", null ],
-    [ "step", "d2/d9e/a19448.html#af4c8e11f0aad369f09902eb1ccc48059", null ],
-    [ "ZapAngle", "d2/d9e/a19448.html#aef225fcf580c5e500d3242ac4be24260", null ]
+    [ "npc_vortex_rideAI", "d2/d9e/a19448.html#ae827bdfdef36419e33b37aecde1a2cc4", null ],
+    [ "AttackStart", "d2/d9e/a19448.html#a810c0c03317672d5a4a904a1e96cbba9", null ],
+    [ "DamageTaken", "d2/d9e/a19448.html#a39e33812041877296c11c9bace6a4667", null ],
+    [ "MoveInLineOfSight", "d2/d9e/a19448.html#a2c810e2fe14e4681a0092a0c6bb3eadc", null ],
+    [ "PassengerBoarded", "d2/d9e/a19448.html#a77234a8f4ec9c687b194a8c332820609", null ],
+    [ "UpdateAI", "d2/d9e/a19448.html#ad450120965f9e85bdb69ffc4c092c901", null ],
+    [ "bUpdatedFlying", "d2/d9e/a19448.html#a56f2753ef630b76882cc1dce6b5a8fb9", null ],
+    [ "despawnTimer", "d2/d9e/a19448.html#acd7a8c972db52077f8b02317f5398ff0", null ],
+    [ "timer", "d2/d9e/a19448.html#acd72c6ae18b84cee94a295e51fae9ac3", null ],
+    [ "VORTEX_RADIUS", "d2/d9e/a19448.html#adec384ccbdc5f2b90a1d09c67b47d24f", null ]
 ];

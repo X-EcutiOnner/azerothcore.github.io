@@ -1,7 +1,7 @@
 var a20312 =
 [
-    [ "HandleEffectPeriodic", "df/dab/a20312.html#af6c50396e9b47cd909184aea80244728", null ],
-    [ "PrepareAuraScript", "df/dab/a20312.html#aeb41825334049c8e3a39b48cbf271477", null ],
-    [ "Register", "df/dab/a20312.html#aaa44ceb54aa928c4436120f435bcdc4b", null ],
-    [ "Validate", "df/dab/a20312.html#a0098e4949fc75b1a2464128f4df869aa", null ]
+    [ "npc_ulduar_saronite_vaporsAI", "df/dab/a20312.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
+    [ "IsSummonedBy", "df/dab/a20312.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
+    [ "JustDied", "df/dab/a20312.html#a5be637500e7b5735d90e19fa40fde467", null ],
+    [ "pInstance", "df/dab/a20312.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
 ];

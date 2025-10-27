@@ -1,7 +1,6 @@
 var a27780 =
 [
-    [ "HandleDummy", "de/d29/a27780.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
-    [ "PrepareSpellScript", "de/d29/a27780.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
-    [ "Register", "de/d29/a27780.html#a3fda4d652c1264b3cfababdd98297c61", null ],
-    [ "Validate", "de/d29/a27780.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
+    [ "npc_target_dummyAI", "db/dc3/a27784.html", "db/dc3/a27784" ],
+    [ "npc_target_dummy", "de/d29/a27780.html#a04847f9893a40c0f1c1879f448cc228d", null ],
+    [ "GetAI", "de/d29/a27780.html#a1aff9199c160e20f9e92ee9f90178d63", null ]
 ];

@@ -1,22 +1,12 @@
 var a09888 =
 [
-    [ "TransportMgr", "db/d25/a09888.html#a864650522d61689f4915228165849d38", null ],
-    [ "~TransportMgr", "db/d25/a09888.html#a3804895a34944bf7971b27f6069e4e33", null ],
-    [ "TransportMgr", "db/d25/a09888.html#a6aff0c119db7cd54732955f684acfab4", null ],
-    [ "AddPathNodeToTransport", "db/d25/a09888.html#aac45c48421abd6a85bddf4b2570807dc", null ],
-    [ "AddPathRotationToTransport", "db/d25/a09888.html#ab2fc9ffddd2c6acb4f6b8db4629a11d8", null ],
-    [ "CreateInstanceTransports", "db/d25/a09888.html#a818028f54e44fd23ca0afecccf44ccba", null ],
-    [ "CreateTransport", "db/d25/a09888.html#a7e0ba6cf10e10a6aeca1f683bbf7e755", null ],
-    [ "GeneratePath", "db/d25/a09888.html#afd703e2da6667f5499e75eb6c85c4fec", null ],
-    [ "GetTransportAnimInfo", "db/d25/a09888.html#a205be05963bc790f64ed5bfac58a87e2", null ],
-    [ "GetTransportTemplate", "db/d25/a09888.html#a93ea26ec255ff5be114b3c0779ae894f", null ],
-    [ "instance", "db/d25/a09888.html#a843726202931931587280fefd703cff8", null ],
-    [ "LoadTransportTemplates", "db/d25/a09888.html#a0b3e4e63bc4194c40f5dba6ced1ed205", null ],
-    [ "operator=", "db/d25/a09888.html#accb329967e8129ddcf857ecb6269c4d5", null ],
-    [ "SpawnContinentTransports", "db/d25/a09888.html#afff76c3893f5a76d83d48f0074e77349", null ],
-    [ "Unload", "db/d25/a09888.html#a99b8ff087e7d32428b8463f3ff229dee", null ],
-    [ "LoadDBCStores", "db/d25/a09888.html#a0bbf145faec5eed353431235243dbcbf", null ],
-    [ "_instanceTransports", "db/d25/a09888.html#a97799b68a08a24beb14abd4fae1468d1", null ],
-    [ "_transportAnimations", "db/d25/a09888.html#a4dc2def28c51bfa78fdf01aaa25e40ae", null ],
-    [ "_transportTemplates", "db/d25/a09888.html#a0b89cc26375f14eb4bb5f8b0d1722f8f", null ]
+    [ "MapReference", "db/d25/a09888.html#abfbeb2ab5831f1f2a52bcb506318d85e", null ],
+    [ "~MapReference", "db/d25/a09888.html#a1e93b44871737991140718322fd1cd69", null ],
+    [ "next", "db/d25/a09888.html#a352ef695a8968a17e921861b7d6242c1", null ],
+    [ "next", "db/d25/a09888.html#ae0383c7748749a344bb2395fd6e8baa4", null ],
+    [ "nocheck_prev", "db/d25/a09888.html#a6cfff18295cf049ff554b0f140680890", null ],
+    [ "nockeck_prev", "db/d25/a09888.html#adcb903a8a67951fe3da8e99e270b5c91", null ],
+    [ "sourceObjectDestroyLink", "db/d25/a09888.html#ade5aa7b9b67ab49e523e4885460c3917", null ],
+    [ "targetObjectBuildLink", "db/d25/a09888.html#acc64fa182a97583a2d9b78d54ec07ca0", null ],
+    [ "targetObjectDestroyLink", "db/d25/a09888.html#aaa51bc8d8b47e0bbe5cfa828e4ae6604", null ]
 ];

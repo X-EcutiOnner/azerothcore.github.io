@@ -1,7 +1,6 @@
 var a17120 =
 [
-    [ "npc_pos_icicle_triggerAI", "db/dd5/a17120.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
-    [ "UpdateAI", "db/dd5/a17120.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
-    [ "pInstance", "db/dd5/a17120.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
-    [ "timer", "db/dd5/a17120.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
+    [ "boss_frostsworn_generalAI", "de/da4/a17124.html", "de/da4/a17124" ],
+    [ "boss_frostsworn_general", "db/dd5/a17120.html#a33023712cf056eedfed1cb38e18af5dd", null ],
+    [ "GetAI", "db/dd5/a17120.html#a8e958e13999f23a81a7230fa9ece276b", null ]
 ];

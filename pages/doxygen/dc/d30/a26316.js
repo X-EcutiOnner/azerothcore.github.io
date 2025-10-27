@@ -1,6 +1,6 @@
 var a26316 =
 [
-    [ "HandleFinish", "dc/d30/a26316.html#a53263ce51581f36c2df80b49c93fa9d3", null ],
-    [ "PrepareSpellScript", "dc/d30/a26316.html#a8113f61816473399f0ceab18b104d058", null ],
-    [ "Register", "dc/d30/a26316.html#a36bf50cdb7be7ba03eafd4848c6ceced", null ]
+    [ "CheckProc", "dc/d30/a26316.html#a0f1461140b08deac3f044142067368e7", null ],
+    [ "PrepareAuraScript", "dc/d30/a26316.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
+    [ "Register", "dc/d30/a26316.html#a05e31c2252c9054a18b4267be84895b9", null ]
 ];

@@ -1,6 +1,7 @@
 var a26996 =
 [
-    [ "FilterTargets", "df/d39/a26996.html#a6224b3193474f569d09edaf29b40c2fb", null ],
-    [ "PrepareSpellScript", "df/d39/a26996.html#ad7478a1a70ebc52eda1c57dd4f143b67", null ],
-    [ "Register", "df/d39/a26996.html#a2fab1592d19331239b1ef63045389886", null ]
+    [ "HandleAuraApply", "df/d39/a26996.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
+    [ "HandleAuraRemove", "df/d39/a26996.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
+    [ "PrepareAuraScript", "df/d39/a26996.html#a5c7d7c0b8880128121d66d39094f1965", null ],
+    [ "Register", "df/d39/a26996.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
 ];

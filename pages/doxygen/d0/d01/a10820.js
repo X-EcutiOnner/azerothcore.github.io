@@ -1,7 +1,11 @@
 var a10820 =
 [
-    [ "StopMirrorTimer", "d0/d01/a10820.html#aabd646c82f3dcdff2eef2158c6724dff", null ],
-    [ "StopMirrorTimer", "d0/d01/a10820.html#a25f930852c7124cdfbf73687e62a26d1", null ],
-    [ "Write", "d0/d01/a10820.html#ae99dab4406316eac99a6e0e0146d879e", null ],
-    [ "Timer", "d0/d01/a10820.html#a5e5cf56b83aca514cff34c1a17f2d3b1", null ]
+    [ "SaveGuildEmblem", "d0/d01/a10820.html#ae3e507a567dfbead91c84629008539d2", null ],
+    [ "Read", "d0/d01/a10820.html#aeea281ed99165947de4b5d1b4449ea5d", null ],
+    [ "BColor", "d0/d01/a10820.html#a48cfbac2214bfc406d8bc80c175dac8f", null ],
+    [ "Bg", "d0/d01/a10820.html#a53e3f146f6a925bbe1fdae2105b79952", null ],
+    [ "BStyle", "d0/d01/a10820.html#a44fdd025f87e13db6d83afca6c49f5f8", null ],
+    [ "EColor", "d0/d01/a10820.html#ad3775c0839dd9aeb5a708a26ea4ec640", null ],
+    [ "EStyle", "d0/d01/a10820.html#a60c52a080284fabe96c579f39fb0834f", null ],
+    [ "Vendor", "d0/d01/a10820.html#a4bd53f7f5a5f2e7759d6df8a9de0b3f0", null ]
 ];

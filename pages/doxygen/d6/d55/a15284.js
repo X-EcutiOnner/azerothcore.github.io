@@ -1,6 +1,7 @@
 var a15284 =
 [
-    [ "HandleDummy", "d6/d55/a15284.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
-    [ "PrepareSpellScript", "d6/d55/a15284.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
-    [ "Register", "d6/d55/a15284.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
+    [ "npc_hivezara_stinger", "d6/d55/a15284.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
+    [ "JustEngagedWith", "d6/d55/a15284.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
+    [ "Reset", "d6/d55/a15284.html#ae8e893c90942a469628c393d5b5380cc", null ],
+    [ "UpdateAI", "d6/d55/a15284.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
 ];

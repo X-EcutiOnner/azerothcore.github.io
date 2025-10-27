@@ -1,7 +1,7 @@
 var a25884 =
 [
-    [ "HandleEnergize", "de/db1/a25884.html#a283e713252166a863aa96530d6e7608b", null ],
-    [ "Load", "de/db1/a25884.html#a89847e0e9435a708c5722ff928f7033f", null ],
-    [ "PrepareSpellScript", "de/db1/a25884.html#a8847e05e6eeafd801fca5423d0689432", null ],
-    [ "Register", "de/db1/a25884.html#ae0778ffd8cf203e22510ee91b0394303", null ]
+    [ "HandleProc", "de/db1/a25884.html#a9d23a4c0986f56e08c5e687ddae621f9", null ],
+    [ "PrepareAuraScript", "de/db1/a25884.html#a37d8d2e9c4618ecbbf314b98286e28b9", null ],
+    [ "Register", "de/db1/a25884.html#a2e1b7aed322de7023075fdd69660f2f6", null ],
+    [ "Validate", "de/db1/a25884.html#a6e807b19f98f8237e5d6f254cb0987a6", null ]
 ];

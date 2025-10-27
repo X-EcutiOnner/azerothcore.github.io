@@ -1,6 +1,9 @@
 var a21836 =
 [
-    [ "npc_heated_battleAI", "db/d4b/a21840.html", "db/d4b/a21840" ],
-    [ "npc_heated_battle", "d4/d24/a21836.html#aceafde04a60940c1027a6e838ffdc137", null ],
-    [ "GetAI", "d4/d24/a21836.html#af73fc1f330bf2fd224e53be39da1c9d3", null ]
+    [ "npc_counselor_talbotAI", "d4/d24/a21836.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
+    [ "JustDied", "d4/d24/a21836.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
+    [ "JustEngagedWith", "d4/d24/a21836.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
+    [ "Reset", "d4/d24/a21836.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
+    [ "UpdateAI", "d4/d24/a21836.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
+    [ "_events", "d4/d24/a21836.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
 ];

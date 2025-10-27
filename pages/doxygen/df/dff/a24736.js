@@ -1,7 +1,11 @@
 var a24736 =
 [
-    [ "HandleScriptEffect", "df/dff/a24736.html#a3a33f0ec477ff3b4b19fc98760a2dae7", null ],
-    [ "PrepareSpellScript", "df/dff/a24736.html#ae29c4f69a34e71011192df12509e2935", null ],
-    [ "Register", "df/dff/a24736.html#ae37da44bde25f6bdb5b4a382ab66b7be", null ],
-    [ "Validate", "df/dff/a24736.html#af9056c179b8089cf0b304b3ce61ea92f", null ]
+    [ "CalcPeriodic", "df/dff/a24736.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
+    [ "CalculateHasteAmount", "df/dff/a24736.html#a75d428e0b3619d53bd9436712d2e394e", null ],
+    [ "CalculateSPAmount", "df/dff/a24736.html#a81805b43a47065281f83889d8be95c54", null ],
+    [ "CalculateStatAmount", "df/dff/a24736.html#a763276aaa00bb6953e0b52118662e7a8", null ],
+    [ "HandleEffectApply", "df/dff/a24736.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
+    [ "HandlePeriodic", "df/dff/a24736.html#ab3c7d479eae88ab4a59b06610af19429", null ],
+    [ "PrepareAuraScript", "df/dff/a24736.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
+    [ "Register", "df/dff/a24736.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
 ];

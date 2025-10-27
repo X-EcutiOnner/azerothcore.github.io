@@ -1,12 +1,9 @@
 var a18304 =
 [
-    [ "AfterDispel", "db/d16/a18304.html#a1c7b15cf6adbe78be1c17a78596dee55", null ],
-    [ "Load", "db/d16/a18304.html#a490251d9afd2ab5a075f254603170d4d", null ],
-    [ "OnApply", "db/d16/a18304.html#af78da685e156bebea9f0a4881ebdfc9d", null ],
-    [ "OnDispel", "db/d16/a18304.html#adf24ec3793a34e8bed38aa87d0c3c60b", null ],
-    [ "OnRemove", "db/d16/a18304.html#a33b586de90e3ff698bb0efbb4b8d4d30", null ],
-    [ "PrepareAuraScript", "db/d16/a18304.html#acd4f8d3c98147c22124e64ccf7d9a6d0", null ],
-    [ "Register", "db/d16/a18304.html#a68a909d9510761295bf7b6dfe44a1d26", null ],
-    [ "Validate", "db/d16/a18304.html#a2de18da71b68275d8d55f859df3ca74c", null ],
-    [ "_lastAmount", "db/d16/a18304.html#a64610d30731f6aa5f3f155ca5c5e8d61", null ]
+    [ "AfterApply", "db/d16/a18304.html#a0ee1a701f75e9f0a70dc21528ffea683", null ],
+    [ "ExtraRemoveEffect", "db/d16/a18304.html#a9f427761fcca9029eb75d586e5876fcd", null ],
+    [ "PeriodicTick", "db/d16/a18304.html#a82430399e44001343f322b2c3b7769a5", null ],
+    [ "PrepareAuraScript", "db/d16/a18304.html#a9c8e0ed8fde28588e11ebf5e8abd02dc", null ],
+    [ "Register", "db/d16/a18304.html#a68be7f7edecd1bae8c962aaa9d556c3e", null ],
+    [ "Validate", "db/d16/a18304.html#ae20873e93fbace6272a793993fb45349", null ]
 ];

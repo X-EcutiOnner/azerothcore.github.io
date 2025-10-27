@@ -1,12 +1,10 @@
 var a09132 =
 [
-    [ "FloatHeightData", "d8/d72/a09144.html", "d8/d72/a09144" ],
-    [ "Uint16HeightData", "da/deb/a09136.html", "da/deb/a09136" ],
-    [ "Uint8HeightData", "dc/dee/a09140.html", "dc/dee/a09140" ],
-    [ "HeightPlanesType", "d6/d4b/a09132.html#ab64c3cfcd01805f43ec4ef41fb3bc48d", null ],
-    [ "floatHeightData", "d6/d4b/a09132.html#abd47b99dfa1f23b0741b66cfd4837eaa", null ],
-    [ "gridHeight", "d6/d4b/a09132.html#a1f989ab0921de350dc2410129028201f", null ],
-    [ "minHeightPlanes", "d6/d4b/a09132.html#aa04f68f079e1f488cf69acd24dcd7899", null ],
-    [ "uint16HeightData", "d6/d4b/a09132.html#aec022a29ba14a18fdd33e8f65e1cd977", null ],
-    [ "uint8HeightData", "d6/d4b/a09132.html#a60a4a267b4164347e9f3ead6b5abfe14", null ]
+    [ "GridObjectLoader", "d6/d4b/a09132.html#a57cd46fee6f747221761aa3114c40ba6", null ],
+    [ "AddObjectHelper", "d6/d4b/a09132.html#a4e857363f544e91918b22df7fb6b1fe8", null ],
+    [ "LoadAllCellsInGrid", "d6/d4b/a09132.html#a2f4aac240f93354a4a1cd22a7144fb91", null ],
+    [ "LoadCreatures", "d6/d4b/a09132.html#a000e7ba83cc08e6c5b34a9bff222a809", null ],
+    [ "LoadGameObjects", "d6/d4b/a09132.html#ad577dbb6544e806d25b496796651ba5b", null ],
+    [ "_grid", "d6/d4b/a09132.html#abe551354634514fa3998eccb10fcbefe", null ],
+    [ "_map", "d6/d4b/a09132.html#a1d3ca2b103b23a95fb208ee64fe4037b", null ]
 ];

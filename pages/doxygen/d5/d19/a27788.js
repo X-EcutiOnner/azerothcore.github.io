@@ -1,6 +1,6 @@
 var a27788 =
 [
-    [ "CheckCast", "d5/d19/a27788.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
-    [ "PrepareSpellScript", "d5/d19/a27788.html#aa3c18907c79309a8924a98bce41e27f1", null ],
-    [ "Register", "d5/d19/a27788.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
+    [ "spawnedCreatureEntry", "d5/d19/a27788.html#a32b390dfff99d5fd3c49359779718af4", null ],
+    [ "spawnType", "d5/d19/a27788.html#a056dabf4092da4ef3155a661607ca772", null ],
+    [ "thisCreatureEntry", "d5/d19/a27788.html#a97d3cd7c2751fe85d9724ff1f808ba98", null ]
 ];

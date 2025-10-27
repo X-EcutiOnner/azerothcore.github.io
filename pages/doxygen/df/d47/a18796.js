@@ -1,6 +1,6 @@
 var a18796 =
 [
-    [ "HandleScript", "df/d47/a18796.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
-    [ "PrepareSpellScript", "df/d47/a18796.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
-    [ "Register", "df/d47/a18796.html#ad0c6d34103244cded41481c745dafe58", null ]
+    [ "CaptainSurviveTalk", "df/d47/a18796.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
+    [ "Execute", "df/d47/a18796.html#a871cf08e8c7fced2971cae8abbc20454", null ],
+    [ "_owner", "df/d47/a18796.html#ac8de506afb4688560ea637918d07b01e", null ]
 ];

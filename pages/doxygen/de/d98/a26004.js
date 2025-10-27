@@ -1,7 +1,8 @@
 var a26004 =
 [
-    [ "CheckProc", "de/d98/a26004.html#a325336c96dad74ec221c07817222fee1", null ],
-    [ "HandleProc", "de/d98/a26004.html#a35a1ce56b84b2d8017dbaba626660d70", null ],
-    [ "PrepareAuraScript", "de/d98/a26004.html#a30f6dd531d4316b4bbb3297af2c17e2e", null ],
-    [ "Register", "de/d98/a26004.html#a6c86a4cf273d90086c4ebdbcaa6b6632", null ]
+    [ "HandleDummy", "de/d98/a26004.html#a3db6982f1162ac6b03771a0e7e432e6d", null ],
+    [ "Load", "de/d98/a26004.html#a9671be7920dfd3bde2033f0ae43259b0", null ],
+    [ "PrepareSpellScript", "de/d98/a26004.html#ad50c9141d40b7089fd24a8657d496a8d", null ],
+    [ "Register", "de/d98/a26004.html#a249a857b1cf5b0c3be6018cb233c75d1", null ],
+    [ "Validate", "de/d98/a26004.html#ac209048bd5688417c391c2c9b8a72d8b", null ]
 ];

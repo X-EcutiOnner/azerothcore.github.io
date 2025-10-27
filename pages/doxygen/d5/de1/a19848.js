@@ -1,7 +1,6 @@
 var a19848 =
 [
-    [ "OnRemove", "d5/de1/a19848.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
-    [ "PrepareAuraScript", "d5/de1/a19848.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
-    [ "Register", "d5/de1/a19848.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
-    [ "Validate", "d5/de1/a19848.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "dd/d72/a19852.html", "dd/d72/a19852" ],
+    [ "instance_halls_of_stone", "d5/de1/a19848.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "d5/de1/a19848.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

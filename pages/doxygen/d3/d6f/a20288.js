@@ -1,6 +1,9 @@
 var a20288 =
 [
-    [ "DestroyWinterCache", "d3/d6f/a20288.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
-    [ "PrepareSpellScript", "d3/d6f/a20288.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
-    [ "Register", "d3/d6f/a20288.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
+    [ "boss_freya_nature_bombAI", "d3/d6f/a20288.html#acbf4d330bb5bf4a032732895e8f7e35b", null ],
+    [ "Reset", "d3/d6f/a20288.html#a60738702870e2cacbcdf600e9e7073b5", null ],
+    [ "UpdateAI", "d3/d6f/a20288.html#a4bfa9df3e3151743485f59c4d318d7f9", null ],
+    [ "_explodeTimer", "d3/d6f/a20288.html#a2af9ed2067097eec2a647f17f8b1ef71", null ],
+    [ "_goGUID", "d3/d6f/a20288.html#a1a7579cc6957a52d65a1d302d5ba1da0", null ],
+    [ "Timer", "d3/d6f/a20288.html#a714a582c6ec552b969624244d709d14d", null ]
 ];

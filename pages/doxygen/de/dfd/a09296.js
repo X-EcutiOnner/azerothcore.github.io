@@ -1,10 +1,9 @@
 var a09296 =
 [
-    [ "AnyDeadUnitObjectInRangeCheck", "de/dfd/a09296.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
-    [ "operator()", "de/dfd/a09296.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
-    [ "operator()", "de/dfd/a09296.html#ae885f49537043421a92b44c201bec358", null ],
-    [ "operator()", "de/dfd/a09296.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
-    [ "operator()", "de/dfd/a09296.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
-    [ "i_range", "de/dfd/a09296.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
-    [ "i_searchObj", "de/dfd/a09296.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
+    [ "UnitListSearcher", "de/dfd/a09296.html#a24c0de32dc3baa927962626421a343ae", null ],
+    [ "Visit", "de/dfd/a09296.html#a83d86364ef2f9f9ed55b9bf9aa9bea0d", null ],
+    [ "Visit", "de/dfd/a09296.html#a92f9b0407e609b6c61f10d93aa49912f", null ],
+    [ "Visit", "de/dfd/a09296.html#a5fddd281a9f9cd10cf3948d4bf7b626f", null ],
+    [ "i_check", "de/dfd/a09296.html#a508a47e6261e7ae6e5669aee853ff99e", null ],
+    [ "i_phaseMask", "de/dfd/a09296.html#a43c863350bea423cf4a720c4c680fd4c", null ]
 ];

@@ -1,7 +1,10 @@
 var a26412 =
 [
-    [ "HandleDummy", "df/d85/a26412.html#a123ddc812fb358b7517eba60d1f90eba", null ],
-    [ "Load", "df/d85/a26412.html#a64ca188f58b4f34827f03ae2878deef0", null ],
-    [ "PrepareSpellScript", "df/d85/a26412.html#a7068dd9e6f7838d9ad7023c2d61482cc", null ],
-    [ "Register", "df/d85/a26412.html#aff7ea1c5c569022ece56ecdb3f434723", null ]
+    [ "CalculateAPAmount", "df/d85/a26412.html#a611247fcbdaeeb416a8cfbaf1a0fc415", null ],
+    [ "CalculateResistanceAmount", "df/d85/a26412.html#aa3fd9aa18ea2afa20c7c2298a8699812", null ],
+    [ "CalculateSPAmount", "df/d85/a26412.html#a9ae59870127884029a938684786e67a9", null ],
+    [ "CalculateStatAmount", "df/d85/a26412.html#a4ac5ffabf820d73d4a92a4a0628370e9", null ],
+    [ "HandleEffectApply", "df/d85/a26412.html#aaca0801f75839ebd9568c4cd31011a1e", null ],
+    [ "PrepareAuraScript", "df/d85/a26412.html#aa90952337607986eaf7485200a32c353", null ],
+    [ "Register", "df/d85/a26412.html#a88520214bd87511b615965593f1b927f", null ]
 ];

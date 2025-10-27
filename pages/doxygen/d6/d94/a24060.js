@@ -1,9 +1,6 @@
 var a24060 =
 [
-    [ "npc_aeranasAI", "d6/d94/a24060.html#a2142cebc84e64919fa5c2ef630453282", null ],
-    [ "Reset", "d6/d94/a24060.html#a2c1bbe079c065745782adfa13b030515", null ],
-    [ "UpdateAI", "d6/d94/a24060.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
-    [ "envelopingWinds_Timer", "d6/d94/a24060.html#a566b5d648abe630efc191f9d6d4938a2", null ],
-    [ "faction_Timer", "d6/d94/a24060.html#aac071887c100f91cc7ffc545ea6439d9", null ],
-    [ "shock_Timer", "d6/d94/a24060.html#aba8ad016f0e470b07163fef07b603380", null ]
+    [ "lapseTeleport", "d6/d94/a24060.html#a55c4330397214bf3a43628b3067d4634", null ],
+    [ "Execute", "d6/d94/a24060.html#a122023ed13fce2f5bb3721e459964443", null ],
+    [ "_owner", "d6/d94/a24060.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
 ];

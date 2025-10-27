@@ -1,7 +1,8 @@
 var a23240 =
 [
-    [ "HandleEffectApply", "df/d94/a23240.html#a3893fffea480b47d06c4903deb051aa9", null ],
-    [ "HandleEffectRemove", "df/d94/a23240.html#a8f120ed0d8cbce6dd0640f02ea488669", null ],
-    [ "PrepareAuraScript", "df/d94/a23240.html#a246c20ab26d1490fe38afd558a7ae406", null ],
-    [ "Register", "df/d94/a23240.html#aea639a3ae0f003c6213143427f3b1d23", null ]
+    [ "instance_black_temple_InstanceMapScript", "df/d94/a23240.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
+    [ "OnCreatureCreate", "df/d94/a23240.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
+    [ "OnGameObjectCreate", "df/d94/a23240.html#a564a49814ceb3b3161a6476335ab653a", null ],
+    [ "SetBossState", "df/d94/a23240.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
+    [ "ashtongueGUIDs", "df/d94/a23240.html#a85fa9c5231f13529a0741b0f92266c90", null ]
 ];

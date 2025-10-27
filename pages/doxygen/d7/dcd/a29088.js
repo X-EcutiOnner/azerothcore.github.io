@@ -1,6 +1,5 @@
 var a29088 =
 [
-    [ "boss_taerarAI", "df/d22/a29092.html", "df/d22/a29092" ],
-    [ "boss_taerar", "d7/dcd/a29088.html#a100c1b80a50faf93088db870faa21b58", null ],
-    [ "GetAI", "d7/dcd/a29088.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
+    [ "max", "d7/dcd/a29088.html#a3d87d5fa5e887282fa76a4a4b77eb097", null ],
+    [ "min", "d7/dcd/a29088.html#a7277258d8bdc471a007814fadf91780a", null ]
 ];

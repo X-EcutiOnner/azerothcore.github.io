@@ -1,6 +1,6 @@
 var a24828 =
 [
-    [ "HandleAfterCast", "d2/d86/a24828.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
-    [ "PrepareSpellScript", "d2/d86/a24828.html#a602d7c920aa73a9c3c69222854093036", null ],
-    [ "Register", "d2/d86/a24828.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
+    [ "CheckTargets", "d2/d86/a24828.html#abb6ffb41731b05b868f82498b373d8b9", null ],
+    [ "PrepareSpellScript", "d2/d86/a24828.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
+    [ "Register", "d2/d86/a24828.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
 ];

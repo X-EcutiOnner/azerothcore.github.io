@@ -1,8 +1,9 @@
 var a08572 =
 [
-    [ "BaseRune", "d2/d57/a08572.html#ad5a4b3afd246f5a4c071e3c4f350f132", null ],
-    [ "ConvertAura", "d2/d57/a08572.html#a41c55cb4c1b3f69c6a424359f60e34e1", null ],
-    [ "Cooldown", "d2/d57/a08572.html#a8eeb0f5208c29d43ab493a22f73eb0a6", null ],
-    [ "CurrentRune", "d2/d57/a08572.html#a2cebb551231f0364a1751e5d1a37fcda", null ],
-    [ "GracePeriod", "d2/d57/a08572.html#a3fa13f205dbaaca5bdcc7406f73b4e6a", null ]
+    [ "category", "d2/d57/a08572.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
+    [ "end", "d2/d57/a08572.html#a8cc857ef51745900398765164a450a50", null ],
+    [ "itemid", "d2/d57/a08572.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
+    [ "maxduration", "d2/d57/a08572.html#a94b98afb7651e2c6b99ee79f85702259", null ],
+    [ "needSendToClient", "d2/d57/a08572.html#a678f56b6723567f984a0188b85a6f9df", null ],
+    [ "sendToSpectator", "d2/d57/a08572.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
 ];

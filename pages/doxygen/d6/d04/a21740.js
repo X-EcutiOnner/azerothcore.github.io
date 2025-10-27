@@ -1,9 +1,9 @@
 var a21740 =
 [
-    [ "npc_archmage_landalockAI", "d6/d04/a21740.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
-    [ "GetImageEntry", "d6/d04/a21740.html#ae09841969253c0baf72cc235b6fa058e", null ],
-    [ "JustSummoned", "d6/d04/a21740.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
-    [ "UpdateAI", "d6/d04/a21740.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
-    [ "_summonGUID", "d6/d04/a21740.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
-    [ "_switchImageTimer", "d6/d04/a21740.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
+    [ "npc_captured_beryl_sorcererAI", "d6/d04/a21740.html#a3c3f47022aee418f228803a2504470a3", null ],
+    [ "Initialize", "d6/d04/a21740.html#a98b2ff2f0e152a41106eaace5273aa69", null ],
+    [ "MoveInLineOfSight", "d6/d04/a21740.html#a4f7edf7bc7480bf0c9f6aec113b2e058", null ],
+    [ "Reset", "d6/d04/a21740.html#ac96af1fd018e88950d1c58562dffdb83", null ],
+    [ "UpdateAI", "d6/d04/a21740.html#a1bbefa59abce0c7b3d7b343ddc467c98", null ],
+    [ "_events", "d6/d04/a21740.html#a0ba1f7ffa792c93ccd4df8ec2c80fb42", null ]
 ];

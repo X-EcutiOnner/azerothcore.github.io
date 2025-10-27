@@ -1,10 +1,9 @@
 var a26080 =
 [
-    [ "AfterCheckProc", "d3/dfb/a26080.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb", null ],
-    [ "HandleProc", "d3/dfb/a26080.html#a613182c741769d0983206bdfa89242f6", null ],
-    [ "PrepareAuraScript", "d3/dfb/a26080.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
-    [ "Register", "d3/dfb/a26080.html#acd807de02a83a97a78572d672fb16027", null ],
-    [ "Validate", "d3/dfb/a26080.html#a3d2d6f1a00825ac66f507a790f468198", null ],
-    [ "_spellInfo", "d3/dfb/a26080.html#a66a5eb4caa7b43c34b2830d9a3d2f994", null ],
-    [ "_ticksModifier", "d3/dfb/a26080.html#ae23b54499fff879a096bd459e264c4f0", null ]
+    [ "CheckCast", "d3/dfb/a26080.html#af92fe276563a8ca0d939d881dba8adda", null ],
+    [ "HandleDummy", "d3/dfb/a26080.html#a86b4413dd25f96fb197604007171a8d1", null ],
+    [ "Load", "d3/dfb/a26080.html#ab1800d2550b944dcfa9967cc0e79c5ee", null ],
+    [ "PrepareSpellScript", "d3/dfb/a26080.html#a47aa868fbabee8a3988bcc93402b8cfb", null ],
+    [ "Register", "d3/dfb/a26080.html#a1b4ff1b3b518a2e4bad1836de6793561", null ],
+    [ "Validate", "d3/dfb/a26080.html#a8d0c2f18927e811f3d3cdee94e3623c0", null ]
 ];

@@ -1,6 +1,7 @@
 var a23200 =
 [
-    [ "HandleEffectRemove", "df/dab/a23200.html#adfbbb75ace34ab5c0fec35e6aa88505a", null ],
-    [ "PrepareAuraScript", "df/dab/a23200.html#a94b91d27b9a218b5fdce91d6a6e72f62", null ],
-    [ "Register", "df/dab/a23200.html#a2b7fb2d6d0f92a970a45e0b9c409408d", null ]
+    [ "Absorb", "df/dab/a23200.html#a227cf7329d7dee564c3f8f9f67378ffe", null ],
+    [ "HandleEffectRemove", "df/dab/a23200.html#a3d4026e5208acb948c089a4bedba0de8", null ],
+    [ "PrepareAuraScript", "df/dab/a23200.html#af66dc1cba6aa7511c11a071ea9a381bb", null ],
+    [ "Register", "df/dab/a23200.html#a983cf678001efcbccc4b34a9ad919881", null ]
 ];

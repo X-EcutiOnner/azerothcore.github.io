@@ -1,15 +1,6 @@
 var a15216 =
 [
-    [ "boss_skeram", "da/deb/a15216.html#a293710a88c91a181ee1000939386e176", null ],
-    [ "DoTeleport", "da/deb/a15216.html#a96166ddebd5906868b872c39a6755a70", null ],
-    [ "EnterEvadeMode", "da/deb/a15216.html#ab050e31d661c8c089d175de231b0eeb2", null ],
-    [ "JustDied", "da/deb/a15216.html#a6b30a6ca5167aae41ad70bd502265d2b", null ],
-    [ "JustEngagedWith", "da/deb/a15216.html#a07bba9a1a62ad9ad15b9cd42b5d5b3d3", null ],
-    [ "JustSummoned", "da/deb/a15216.html#a3e3d74bc646a96e20a88d3541f806c62", null ],
-    [ "KilledUnit", "da/deb/a15216.html#a185cb6686d37e064278260ebe5fae13a", null ],
-    [ "Reset", "da/deb/a15216.html#a08c9c2c577ef4b713594ca67f4c87a68", null ],
-    [ "UpdateAI", "da/deb/a15216.html#aaf29331e0fac71479747d62fd9f1e301", null ],
-    [ "_copiesGUIDs", "da/deb/a15216.html#a28f1465938dc2141779d5171ea09ecd0", null ],
-    [ "_flag", "da/deb/a15216.html#a0abcf1e8721aa972be70774d5be7b53b", null ],
-    [ "_hpct", "da/deb/a15216.html#a5c8760788264a9a04a28c05a0247676c", null ]
+    [ "HandleDummyHitTarget", "da/deb/a15216.html#ae773d73496578170061baedd8f7daec1", null ],
+    [ "PrepareSpellScript", "da/deb/a15216.html#a822fe6d19c2ee0d02dc5561b4f910cf9", null ],
+    [ "Register", "da/deb/a15216.html#a651cc94581130224ba23e864f8ad7060", null ]
 ];

@@ -1,13 +1,10 @@
 var a16264 =
 [
-    [ "boss_eadricAI", "d0/d02/a16264.html#a461043fe1bff0f5478e2a57504e7477c", null ],
-    [ "DamageTaken", "d0/d02/a16264.html#a440899ffdeda7794ef4fa5530638eecc", null ],
-    [ "JustEngagedWith", "d0/d02/a16264.html#a09a0cebcdffb00e37e9d60111c582669", null ],
-    [ "KilledUnit", "d0/d02/a16264.html#a0bc5d9ba3f45460e62eebdad4e68b8bd", null ],
-    [ "MovementInform", "d0/d02/a16264.html#aa20253b3f0aec2678b2e3b1c3a9d1a47", null ],
-    [ "Reset", "d0/d02/a16264.html#a8776bc2937ed9dc4decd1e71929edf65", null ],
-    [ "SpellHit", "d0/d02/a16264.html#aef7c66b9ff0a728c140899940a2d7e85", null ],
-    [ "UpdateAI", "d0/d02/a16264.html#a38e8052f3e5d8d81bb4b79fb41717efb", null ],
-    [ "events", "d0/d02/a16264.html#a5804ea238fd1c32201c3be943d2fe5ca", null ],
-    [ "pInstance", "d0/d02/a16264.html#a43a8f2beebae9bb27ff03e0e9af2d36b", null ]
+    [ "npc_xerestraszaAI", "d0/d02/a16264.html#a768ae45296e16b8fcada6359dfd6c7e5", null ],
+    [ "DoAction", "d0/d02/a16264.html#af696ecee315892b2bf0233113d2f89f9", null ],
+    [ "Reset", "d0/d02/a16264.html#a0eceae8fb9bf5071bc8d9cddf783507b", null ],
+    [ "UpdateAI", "d0/d02/a16264.html#a6389ab58f4b44c668590113ec75f2adf", null ],
+    [ "_events", "d0/d02/a16264.html#ae998fc6aaee14bc313ff38bb76d79e43", null ],
+    [ "_introDone", "d0/d02/a16264.html#a9d01014297290dafbb7ed25bffbe6fe6", null ],
+    [ "_isIntro", "d0/d02/a16264.html#a71ffbf3fedb77bd693beabb4ee52f57a", null ]
 ];

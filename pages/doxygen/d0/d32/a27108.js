@@ -1,7 +1,6 @@
 var a27108 =
 [
-    [ "CharacterDeleteActionIpLogger", "d0/d32/a27108.html#a37481de65409cf375dcff45615463949", null ],
-    [ "DeleteIPLogAction", "d0/d32/a27108.html#a73a5ddacd8892d2300be313cfc12f534", null ],
-    [ "OnPlayerDelete", "d0/d32/a27108.html#adb16e45e425fa816b2572692349d0005", null ],
-    [ "OnPlayerFailedDelete", "d0/d32/a27108.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
+    [ "CalculateAmount", "d0/d32/a27108.html#aa27de1a2fc517a4b796a10e780239880", null ],
+    [ "PrepareAuraScript", "d0/d32/a27108.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
+    [ "Register", "d0/d32/a27108.html#a5ee969ad0916a9337849c75c18f13c29", null ]
 ];

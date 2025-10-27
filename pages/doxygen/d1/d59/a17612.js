@@ -1,6 +1,7 @@
 var a17612 =
 [
-    [ "npc_zafod_boomboxAI", "d9/d4d/a17616.html", "d9/d4d/a17616" ],
-    [ "npc_zafod_boombox", "d1/d59/a17612.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
-    [ "GetAI", "d1/d59/a17612.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
+    [ "OnProc", "d1/d59/a17612.html#a5b6e96abb900da33657cdbbd137138e3", null ],
+    [ "PrepareAuraScript", "d1/d59/a17612.html#a5502476536a923e77af67c4bbcf005e3", null ],
+    [ "Register", "d1/d59/a17612.html#aca08edf219504156d6157c95702bb815", null ],
+    [ "Validate", "d1/d59/a17612.html#a52b1231f37e8b3d810614365659a98b6", null ]
 ];

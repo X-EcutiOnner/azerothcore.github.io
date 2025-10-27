@@ -1,7 +1,7 @@
 var a14816 =
 [
-    [ "npc_cos_chromie_middle", "d1/d99/a14816.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "d1/d99/a14816.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "d1/d99/a14816.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "d1/d99/a14816.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "boss_azuregosAI", "d8/db1/a14820.html", "d8/db1/a14820" ],
+    [ "boss_azuregos", "d1/d99/a14816.html#a48590db0037870ca5c9425a468e5ea3a", null ],
+    [ "GetAI", "d1/d99/a14816.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
+    [ "OnGossipSelect", "d1/d99/a14816.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
 ];

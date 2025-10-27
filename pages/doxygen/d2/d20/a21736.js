@@ -1,6 +1,6 @@
 var a21736 =
 [
-    [ "npc_archmage_landalockAI", "d6/d04/a21740.html", "d6/d04/a21740" ],
-    [ "npc_archmage_landalock", "d2/d20/a21736.html#ac7379ff07740123312af66ead64df4c6", null ],
-    [ "GetAI", "d2/d20/a21736.html#a92cfa8c2660413681297bfe12815c938", null ]
+    [ "npc_captured_beryl_sorcererAI", "d6/d04/a21740.html", "d6/d04/a21740" ],
+    [ "npc_captured_beryl_sorcerer", "d2/d20/a21736.html#ace67e76e96e3be9fa5976dc4c90041e6", null ],
+    [ "GetAI", "d2/d20/a21736.html#aa5a31390ff3c6277ebff2a5eebe72b3d", null ]
 ];

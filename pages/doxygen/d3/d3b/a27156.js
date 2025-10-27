@@ -1,6 +1,6 @@
 var a27156 =
 [
-    [ "npc_dream_fogAI", "db/d1b/a27160.html", "db/d1b/a27160" ],
-    [ "npc_dream_fog", "d3/d3b/a27156.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
-    [ "GetAI", "d3/d3b/a27156.html#a48c45fec086e3a50462deed44734ba38", null ]
+    [ "HandleRemove", "d3/d3b/a27156.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
+    [ "PrepareAuraScript", "d3/d3b/a27156.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
+    [ "Register", "d3/d3b/a27156.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
 ];

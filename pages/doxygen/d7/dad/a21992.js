@@ -1,9 +1,7 @@
 var a21992 =
 [
-    [ "npc_wounded_skirmisher", "d7/dad/a21992.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
-    [ "Initialize", "d7/dad/a21992.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
-    [ "JustEngagedWith", "d7/dad/a21992.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
-    [ "Reset", "d7/dad/a21992.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
-    [ "SpellHit", "d7/dad/a21992.html#a891e879af5da1f181c94e528c59a81f1", null ],
-    [ "UpdateAI", "d7/dad/a21992.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
+    [ "HandleApplyEffect", "d7/dad/a21992.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
+    [ "HandleRemoveEffect", "d7/dad/a21992.html#a243933fec9ccd650303ea5badbea725b", null ],
+    [ "PrepareAuraScript", "d7/dad/a21992.html#ac0e1fc0694dd51e245340d3658592447", null ],
+    [ "Register", "d7/dad/a21992.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
 ];

@@ -1,7 +1,6 @@
 var a20316 =
 [
-    [ "HandleAfterEffectApply", "d7/de2/a20316.html#adab765d78094eec673abce5140145267", null ],
-    [ "OnApply", "d7/de2/a20316.html#aab4331a7a55dc6f713db02726ec22e3a", null ],
-    [ "PrepareAuraScript", "d7/de2/a20316.html#acb827ae4299ae482d9b7f3fb09bbcc52", null ],
-    [ "Register", "d7/de2/a20316.html#ac1007ce2ee5e046639829558855f0188", null ]
+    [ "npc_ulduar_saronite_animusAI", "d8/d0d/a20320.html", "d8/d0d/a20320" ],
+    [ "npc_ulduar_saronite_animus", "d7/de2/a20316.html#a22d552adc9db3f7d2a533ab7f58a2470", null ],
+    [ "GetAI", "d7/de2/a20316.html#a1fdd851e9d6e399f8f57d063a7dbd6d9", null ]
 ];

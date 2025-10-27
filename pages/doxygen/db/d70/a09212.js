@@ -1,14 +1,7 @@
 var a09212 =
 [
-    [ "WorldObjectSearcher", "db/d70/a09212.html#a4c8b6202710f1539e55eb8d30031ce62", null ],
-    [ "Visit", "db/d70/a09212.html#ace0642ee6949a06f9b94e350b49e64c1", null ],
-    [ "Visit", "db/d70/a09212.html#ac484deeb43ead6b9ea73182da97ff3ba", null ],
-    [ "Visit", "db/d70/a09212.html#a28a30052c55b2ffad85e8d2f4f008ff3", null ],
-    [ "Visit", "db/d70/a09212.html#a42fce9834443194e090e022f3f7618b0", null ],
-    [ "Visit", "db/d70/a09212.html#aae2b654236e3a85d9ba0b5ce48d5c315", null ],
-    [ "Visit", "db/d70/a09212.html#aa2742bc25a4773a487e9e8ff760644ea", null ],
-    [ "i_check", "db/d70/a09212.html#aa8af931f3d562aa1c31e774347db2e24", null ],
-    [ "i_mapTypeMask", "db/d70/a09212.html#a2910a3c0a932f2d3ea7d10d4541cbb39", null ],
-    [ "i_object", "db/d70/a09212.html#a8f705e476d2a32ca90d589d9b58b2c8d", null ],
-    [ "i_phaseMask", "db/d70/a09212.html#a5688db61fc9d297252987830eadb0ee5", null ]
+    [ "GridTerrainUnloader", "db/d70/a09212.html#a2cae372520a8e6d6a54ad79381a844e9", null ],
+    [ "UnloadTerrain", "db/d70/a09212.html#ad6648cf97602141fcc64bbb6c688f6a0", null ],
+    [ "_grid", "db/d70/a09212.html#a94d346bc8d44f285d8cdb97736859201", null ],
+    [ "_map", "db/d70/a09212.html#aac1ea80c5210b25ad26f52558336c20d", null ]
 ];

@@ -1,9 +1,9 @@
 var a26344 =
 [
-    [ "HandleAfterCast", "dc/dc7/a26344.html#ac08e632064c407346649f525d030d335", null ],
-    [ "HandleDummy", "dc/dc7/a26344.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
-    [ "Load", "dc/dc7/a26344.html#a177525c755b036a79263c0fa6fa4082e", null ],
-    [ "PrepareSpellScript", "dc/dc7/a26344.html#aed99b07a53068b19bddb4daff3449a52", null ],
-    [ "Register", "dc/dc7/a26344.html#a946e56a325d83656d9b43af80d065e45", null ],
-    [ "_triggerSpellId", "dc/dc7/a26344.html#a6697a22b684784853cb1999d41fcaaa7", null ]
+    [ "Load", "dc/dc7/a26344.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
+    [ "PrepareSpellScript", "dc/dc7/a26344.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
+    [ "Register", "dc/dc7/a26344.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
+    [ "TriggerHeal", "dc/dc7/a26344.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
+    [ "Validate", "dc/dc7/a26344.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
+    [ "healPct", "dc/dc7/a26344.html#a33b4d26c34903e45b7274e369f096ce1", null ]
 ];

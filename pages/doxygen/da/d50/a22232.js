@@ -1,6 +1,6 @@
 var a22232 =
 [
-    [ "npc_bushwhackerAI", "de/de1/a22236.html", "de/de1/a22236" ],
-    [ "npc_bushwhacker", "da/d50/a22232.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
-    [ "GetAI", "da/d50/a22232.html#ab3190b66069e820abf3637bb877066a0", null ]
+    [ "npc_razael_and_lyana", "da/d50/a22232.html#aec7257a1136a3580e2b4542e032429d6", null ],
+    [ "OnGossipHello", "da/d50/a22232.html#a9c9085db92853d5275c12e804a68b0fc", null ],
+    [ "OnGossipSelect", "da/d50/a22232.html#a407d8344280e8e38efb3991fda1d52cd", null ]
 ];

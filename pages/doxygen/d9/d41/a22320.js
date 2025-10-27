@@ -1,8 +1,6 @@
 var a22320 =
 [
-    [ "AfterRemove", "d9/d41/a22320.html#a06fd72c7754f34dbc62a99a9ed839302", null ],
-    [ "HandlePeriodic", "d9/d41/a22320.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9", null ],
-    [ "OnApply", "d9/d41/a22320.html#a6617555d302923e5e95e7b1c6d8d74d6", null ],
-    [ "PrepareAuraScript", "d9/d41/a22320.html#a47a6281c42dc9368357cc86912331c77", null ],
-    [ "Register", "d9/d41/a22320.html#a868c79cda98b97b27b74d46f86cb980a", null ]
+    [ "ChangeSummonPos", "d9/d41/a22320.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "d9/d41/a22320.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "d9/d41/a22320.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

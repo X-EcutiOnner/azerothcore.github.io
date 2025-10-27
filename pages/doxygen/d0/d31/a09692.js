@@ -1,15 +1,10 @@
 var a09692 =
 [
-    [ "LootStoreItem", "d0/d31/a09692.html#a10250dce57b2b8103c6ac11aa1ac2f0f", null ],
-    [ "IsValid", "d0/d31/a09692.html#ae5fc113c31d96bc7ca31a5bc36ab2fcf", null ],
-    [ "Roll", "d0/d31/a09692.html#a87cc7956b131a16aee7bd5d4808193df", null ],
-    [ "chance", "d0/d31/a09692.html#a20411103b449a9176b3bc665f909f06f", null ],
-    [ "conditions", "d0/d31/a09692.html#a88812a51fb467a189f2824ad8b3198e8", null ],
-    [ "groupid", "d0/d31/a09692.html#abc6df381782d25490dff0e54bec63b3a", null ],
-    [ "itemid", "d0/d31/a09692.html#a5df1d4fde5f3358470bd16f7ad9154c1", null ],
-    [ "lootmode", "d0/d31/a09692.html#ab5f7b258bd5cfe4263acd9e0b253b166", null ],
-    [ "maxcount", "d0/d31/a09692.html#a96012059cc6affa8120ef544682781d2", null ],
-    [ "mincount", "d0/d31/a09692.html#ada6a4d427187361c6bc33bdde789e809", null ],
-    [ "needs_quest", "d0/d31/a09692.html#a5a2fe7ae48508b88bbdfc70fc4035f31", null ],
-    [ "reference", "d0/d31/a09692.html#a374a94e34095a1beb38abca43069d0b6", null ]
+    [ "const_iterator", "d0/d31/a09692.html#ac52d3ebfa7eaeb9d6fd08f0089b13918", null ],
+    [ "StorageType", "d0/d31/a09692.html#a6825a379d1af4254b920c14ab0068e7b", null ],
+    [ "BossBoundaryData", "d0/d31/a09692.html#a3f80cd89e43eae1a74e2b0a6a674d0cb", null ],
+    [ "~BossBoundaryData", "d0/d31/a09692.html#a446a3ec16cdce76058761fce972f1e57", null ],
+    [ "begin", "d0/d31/a09692.html#a326930360d22d5fdf9a895991f2c4e49", null ],
+    [ "end", "d0/d31/a09692.html#ab3dc9905d861b62c4551f45ee8b08ba5", null ],
+    [ "_data", "d0/d31/a09692.html#af60e90664c434a8d36115ca5dec889b5", null ]
 ];

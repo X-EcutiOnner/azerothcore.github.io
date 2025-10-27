@@ -1,9 +1,14 @@
 var a07356 =
 [
-    [ "CapturePointInfo", "d7/d63/a07356.html#a47ba3bbadd15909726e87dc5adc67686", null ],
-    [ "_captured", "d7/d63/a07356.html#aac26833d9951853183095b3985254e03", null ],
-    [ "_iconCapture", "d7/d63/a07356.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
-    [ "_iconNone", "d7/d63/a07356.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
-    [ "_ownerTeamId", "d7/d63/a07356.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
-    [ "_state", "d7/d63/a07356.html#a98cb154218423e295b8007c62222831c", null ]
+    [ "IsArena", "d7/d63/a07356.html#a8a99bf73debf5835e58537bee33fe2ad", null ],
+    [ "BattlemasterEntry", "d7/d63/a07356.html#a51ce3b9fdb2f51f439fee7c8b48e3918", null ],
+    [ "Id", "d7/d63/a07356.html#a0fca37318585903f68695452a95011a9", null ],
+    [ "MaxLevel", "d7/d63/a07356.html#a790f55d480d1454a5f6e5713c04314b7", null ],
+    [ "MaxPlayersPerTeam", "d7/d63/a07356.html#a324a4e557ce66089ec1111a9dae6e1de", null ],
+    [ "MaxStartDistSq", "d7/d63/a07356.html#a5fbb1a76221e9d15bd7cca13581f7b14", null ],
+    [ "MinLevel", "d7/d63/a07356.html#a49fdf96a08376830a06956fd501cfa78", null ],
+    [ "MinPlayersPerTeam", "d7/d63/a07356.html#ac1bea263b53de8573cdb8eb890175495", null ],
+    [ "ScriptId", "d7/d63/a07356.html#a968dd626dba22925be3d8f1a3bdc51aa", null ],
+    [ "StartLocation", "d7/d63/a07356.html#a8477d2156c8aa5bb89da038d1a779698", null ],
+    [ "Weight", "d7/d63/a07356.html#aa7a051e8453599a7e82da763a6f91da2", null ]
 ];

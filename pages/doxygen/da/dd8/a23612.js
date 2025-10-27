@@ -1,6 +1,6 @@
 var a23612 =
 [
-    [ "CheckProc", "da/dd8/a23612.html#add583b34b9052fbb37c43c558f0f8b96", null ],
-    [ "PrepareAuraScript", "da/dd8/a23612.html#a3d7ed0fa175daffcf11fc3ee04b189bf", null ],
-    [ "Register", "da/dd8/a23612.html#ab91f611f59e83d4f1b7c71b1595db667", null ]
+    [ "HandlePeriodic", "da/dd8/a23612.html#af6c30bb292a69d5eaaaf75c8a76111ea", null ],
+    [ "PrepareAuraScript", "da/dd8/a23612.html#a75515896f3d94d227963a3c5258e2d0d", null ],
+    [ "Register", "da/dd8/a23612.html#aeacb1ffc287cc7128366ee0484c2994b", null ]
 ];

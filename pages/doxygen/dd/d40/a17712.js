@@ -1,7 +1,7 @@
 var a17712 =
 [
-    [ "FilterTargets", "dd/d40/a17712.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
-    [ "Load", "dd/d40/a17712.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
-    [ "PrepareSpellScript", "dd/d40/a17712.html#a7526a6df4c25136f4be78e753c6abf62", null ],
-    [ "Register", "dd/d40/a17712.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
+    [ "HandleScript", "dd/d40/a17712.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
+    [ "Load", "dd/d40/a17712.html#ab1d81386ae3ccd332c01864d7f456017", null ],
+    [ "PrepareSpellScript", "dd/d40/a17712.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
+    [ "Register", "dd/d40/a17712.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
 ];

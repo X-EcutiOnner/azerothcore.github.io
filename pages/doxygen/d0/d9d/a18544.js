@@ -1,11 +1,7 @@
 var a18544 =
 [
-    [ "npc_valithria_cloudAI", "d0/d9d/a18544.html#a5b550d0154f302cecc509fbd868a53bb", null ],
-    [ "AttackStart", "d0/d9d/a18544.html#a5835d5ba19e1480016e585c1e49489c9", null ],
-    [ "EnterEvadeMode", "d0/d9d/a18544.html#a346fd998d41451d7d1e605afdb13b65c", null ],
-    [ "MoveInLineOfSight", "d0/d9d/a18544.html#a8d4c8d082f12b96b2b77447d0b942c2c", null ],
-    [ "Reset", "d0/d9d/a18544.html#abca34d7285ef23c062006df8f8ae6d53", null ],
-    [ "UpdateAI", "d0/d9d/a18544.html#a6908f5731915bf7d15bb4921c960aa30", null ],
-    [ "_events", "d0/d9d/a18544.html#afc5c9299d7f1f73c087a19dcfb19e096", null ],
-    [ "_instance", "d0/d9d/a18544.html#a20cc2bba9d1005cc93b55dfba8bfbcf3", null ]
+    [ "PrepareSpellScript", "d0/d9d/a18544.html#a3283e829757b50bb52f66ee1e64033ae", null ],
+    [ "Register", "d0/d9d/a18544.html#a0162c92c32210f2873686610f4f00b87", null ],
+    [ "TriggerHeal", "d0/d9d/a18544.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
+    [ "Validate", "d0/d9d/a18544.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
 ];

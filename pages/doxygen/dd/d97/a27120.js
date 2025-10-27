@@ -1,5 +1,6 @@
 var a27120 =
 [
-    [ "AreaTrigger_at_legion_teleporter", "dd/d97/a27120.html#a2b648bd038f41025c19338367c696d25", null ],
-    [ "OnTrigger", "dd/d97/a27120.html#ae8239e5ad56d93627102dbd02989353d", null ]
+    [ "PrepareAuraScript", "dd/d97/a27120.html#a65fa925d99065d028e328a92f2a13805", null ],
+    [ "Register", "dd/d97/a27120.html#a95dc732286adf4327f68e23015d58c21", null ],
+    [ "RemoveEffect", "dd/d97/a27120.html#a3f474c143f64739187b6049cac5e4b38", null ]
 ];

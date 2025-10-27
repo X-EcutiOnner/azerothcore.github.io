@@ -1,23 +1,7 @@
 var a14428 =
 [
-    [ "npc_hallows_end_soh", "d9/de1/a14428.html#a291005972dccc45b8b1885becbd97adf", null ],
-    [ "CastFires", "d9/de1/a14428.html#a157d0c0488577fd623326acd1152f329", null ],
-    [ "CompleteQuest", "d9/de1/a14428.html#aa0b3e5d278155c0d4cf9941121641a8a", null ],
-    [ "DoAction", "d9/de1/a14428.html#a064251bc68153949092a7df18551255a", null ],
-    [ "EnterEvadeMode", "d9/de1/a14428.html#a3fca0f42de5ba24f88088e6a102f3a5a", null ],
-    [ "FinishEvent", "d9/de1/a14428.html#a1472396f47ff9c3e23d966ef6ffffc30", null ],
-    [ "GetData", "d9/de1/a14428.html#a89329316209863f2ad64a412a9beb2fe", null ],
-    [ "GetPosToLand", "d9/de1/a14428.html#ac4eb58476c010c12319ea4b1f9e36b93", null ],
-    [ "JustDied", "d9/de1/a14428.html#aff85bf850780501aa7edaa0c20a5e057", null ],
-    [ "JustEngagedWith", "d9/de1/a14428.html#a3e767dccaeb84d817b6ec042c8dd1c37", null ],
-    [ "MoveInLineOfSight", "d9/de1/a14428.html#a60746ec45aa7b9e9f44ab5e66cf9ccf7", null ],
-    [ "MovementInform", "d9/de1/a14428.html#a744608f27f7493b99777c5e88aa704e1", null ],
-    [ "Reset", "d9/de1/a14428.html#a8fad4e97f40653e0b439622e422d4845", null ],
-    [ "UpdateAI", "d9/de1/a14428.html#a4df3a15e266ee421affe4e908ec589ba", null ],
-    [ "counter", "d9/de1/a14428.html#ac199d3270e68f559359d6bc60c5d02f2", null ],
-    [ "events", "d9/de1/a14428.html#a3f8866d8ed4587841a5fcf347ca73973", null ],
-    [ "playerCount", "d9/de1/a14428.html#a81bbd839f8470b2b2aea7b8a6afd339e", null ],
-    [ "pos", "d9/de1/a14428.html#af35a68aacae1fe735befbab087ffdfaf", null ],
-    [ "scheduler", "d9/de1/a14428.html#a92d81c8a47ba6039dfc5a8759b30060b", null ],
-    [ "unitList", "d9/de1/a14428.html#aaf7522e9948401e2e747f43e80e9b38f", null ]
+    [ "GetEmptyEntry", "d9/de1/a14428.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
+    [ "HandleAfterHit", "d9/de1/a14428.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
+    [ "PrepareSpellScript", "d9/de1/a14428.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
+    [ "Register", "d9/de1/a14428.html#a25e1858e1f81891443f4b7de50a5d495", null ]
 ];

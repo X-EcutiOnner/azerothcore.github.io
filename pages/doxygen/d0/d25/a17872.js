@@ -1,6 +1,6 @@
 var a17872 =
 [
-    [ "AbominationDespawner", "d0/d25/a17872.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
-    [ "operator()", "d0/d25/a17872.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
-    [ "_owner", "d0/d25/a17872.html#af9089e566905b885887a5714ad5b0741", null ]
+    [ "PrepareSpellScript", "d0/d25/a17872.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
+    [ "Register", "d0/d25/a17872.html#a651f52f7d242251ff69d100fd69376e4", null ],
+    [ "SelectTarget", "d0/d25/a17872.html#aede083ebebe38deb5898ff028564ef95", null ]
 ];

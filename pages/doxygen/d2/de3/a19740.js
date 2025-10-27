@@ -1,6 +1,8 @@
 var a19740 =
 [
-    [ "npc_collapsing_starAI", "d2/d18/a19744.html", "d2/d18/a19744" ],
-    [ "npc_collapsing_star", "d2/de3/a19740.html#a8d57987c9b4622746d4f42a2b4845b9e", null ],
-    [ "GetAI", "d2/de3/a19740.html#a346af96d122e64c68defdeccb9183cd4", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "d2/de3/a19740.html#a9c82cd25354abaf7707c1dabd62c9fe3", null ],
+    [ "CheckAchievementCriteriaMeet", "d2/de3/a19740.html#ad6db51b0ae7de338264d07a61daf21cc", null ],
+    [ "SetData", "d2/de3/a19740.html#a26bd9da74d0d29e50b61df62b205f5e6", null ],
+    [ "_bjarngrimAchievement", "d2/de3/a19740.html#aba06463eb70c68716f571951395c6e2a", null ],
+    [ "_volkhanAchievement", "d2/de3/a19740.html#a52db8081961566ef2002424f00b60189", null ]
 ];

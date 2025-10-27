@@ -1,6 +1,7 @@
 var a13484 =
 [
-    [ "ChangeSummonPos", "d8/d3c/a13484.html#ae24a7c8279a92f1018748a0e930736ac", null ],
-    [ "PrepareSpellScript", "d8/d3c/a13484.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
-    [ "Register", "d8/d3c/a13484.html#a03a1a1e5501452eacaceadd9725f2287", null ]
+    [ "CheckCast", "d8/d3c/a13484.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
+    [ "PrepareSpellScript", "d8/d3c/a13484.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
+    [ "Register", "d8/d3c/a13484.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
+    [ "Validate", "d8/d3c/a13484.html#a9208b9c010bb9cc379c195939351aa45", null ]
 ];

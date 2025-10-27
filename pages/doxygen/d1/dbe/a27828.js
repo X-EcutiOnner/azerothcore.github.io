@@ -1,18 +1,11 @@
 var a27828 =
 [
-    [ "DBCStorageBase", "d1/dbe/a27828.html#ad688053187f77a4a016274f7e46a76a3", null ],
-    [ "~DBCStorageBase", "d1/dbe/a27828.html#a39d4e4f05a50b952c2f952a452beb010", null ],
-    [ "GetFieldCount", "d1/dbe/a27828.html#a867375a50bcf7ec8c40b6ff7305a5e81", null ],
-    [ "GetFormat", "d1/dbe/a27828.html#ab333cdbf4cb7c6f527045902256fdf2f", null ],
-    [ "Load", "d1/dbe/a27828.html#a779bd666cbdc6587eab6a81e51e894d8", null ],
-    [ "Load", "d1/dbe/a27828.html#a14dfcde7f1c9c63a293638009b6ce16b", null ],
-    [ "LoadFromDB", "d1/dbe/a27828.html#abea56cf48880a3ae02d322b6283032b4", null ],
-    [ "LoadFromDB", "d1/dbe/a27828.html#a7156af21138d19a978b9551a2ca24708", null ],
-    [ "LoadStringsFrom", "d1/dbe/a27828.html#a912b4793ddc3e3ff3bc9279693373b79", null ],
-    [ "LoadStringsFrom", "d1/dbe/a27828.html#a0e3e3be24e2404fad11c322190e0e337", null ],
-    [ "_dataTable", "d1/dbe/a27828.html#ab13a1018e69345a3665f50d696bc7236", null ],
-    [ "_fieldCount", "d1/dbe/a27828.html#aa9bebefe18610016bef2c7d087d20abe", null ],
-    [ "_fileFormat", "d1/dbe/a27828.html#a3ac1c70817c9b7a351ea0e0d2e602351", null ],
-    [ "_indexTableSize", "d1/dbe/a27828.html#aa17bb429de3b9df9bb6ffcbc9bf9010b", null ],
-    [ "_stringPool", "d1/dbe/a27828.html#a8d571b107344a2dbde0b2cbcfa3c9b52", null ]
+    [ "npc_injured_patientAI", "d1/dbe/a27828.html#a0973487623f1771c598648bc06a6d9a3", null ],
+    [ "JustEngagedWith", "d1/dbe/a27828.html#a621a8cc3f6b9655760431d52766ca589", null ],
+    [ "Reset", "d1/dbe/a27828.html#a007c9c7a4047374574cad17e9309d7c1", null ],
+    [ "SpellHit", "d1/dbe/a27828.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
+    [ "UpdateAI", "d1/dbe/a27828.html#a54d0a5574175747779878dce0ebfd44f", null ],
+    [ "_scheduler", "d1/dbe/a27828.html#a60428fa97c8f6520338d53ed368c4c35", null ],
+    [ "Coord", "d1/dbe/a27828.html#af5a6f87c0379edd07a8756018b0c8661", null ],
+    [ "DoctorGUID", "d1/dbe/a27828.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
 ];

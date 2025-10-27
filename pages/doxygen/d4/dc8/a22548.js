@@ -1,6 +1,8 @@
 var a22548 =
 [
-    [ "OutdoorPvPGH", "d4/dc8/a22548.html#a619492e0a1fdf75f37554a2f19268660", null ],
-    [ "SendRemoveWorldStates", "d4/dc8/a22548.html#a92c7e489717072ddc34f707fbe462cb2", null ],
-    [ "SetupOutdoorPvP", "d4/dc8/a22548.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
+    [ "npc_wg_spirit_guideAI", "d3/d3a/a22552.html", "d3/d3a/a22552" ],
+    [ "npc_wg_spirit_guide", "d4/dc8/a22548.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
+    [ "GetAI", "d4/dc8/a22548.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
+    [ "OnGossipHello", "d4/dc8/a22548.html#a2d46078cb47f817239685d168f7f2e35", null ],
+    [ "OnGossipSelect", "d4/dc8/a22548.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
 ];

@@ -1,7 +1,7 @@
 var a15680 =
 [
-    [ "npc_giltharesAI", "d8/d2a/a15684.html", "d8/d2a/a15684" ],
-    [ "npc_gilthares", "de/d35/a15680.html#af1e0746350b32b68825710e1c3ed91a5", null ],
-    [ "GetAI", "de/d35/a15680.html#a96293e28237a092c64f6a91d91bc7ff3", null ],
-    [ "OnQuestAccept", "de/d35/a15680.html#a018cc6240a79216acb371241f63e3234", null ]
+    [ "HandleDummy", "de/d35/a15680.html#a30a87266b89021caf7d05c45397f70d1", null ],
+    [ "PrepareSpellScript", "de/d35/a15680.html#a43a92b346088d710719722e8feed9634", null ],
+    [ "Register", "de/d35/a15680.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
+    [ "Validate", "de/d35/a15680.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
 ];

@@ -1,6 +1,6 @@
 var a16052 =
 [
-    [ "instance_obsidian_sanctum_InstanceMapScript", "dc/d2d/a16056.html", "dc/d2d/a16056" ],
-    [ "instance_obsidian_sanctum", "db/db7/a16052.html#a6cf2121c4167156f5748c144372b3c0b", null ],
-    [ "GetInstanceScript", "db/db7/a16052.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
+    [ "ModDestHeight", "db/db7/a16052.html#a8bda9327c4244af41c513528ad5c818c", null ],
+    [ "PrepareSpellScript", "db/db7/a16052.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
+    [ "Register", "db/db7/a16052.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
 ];

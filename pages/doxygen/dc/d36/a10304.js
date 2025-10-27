@@ -1,6 +1,10 @@
 var a10304 =
 [
-    [ "ElunaScript", "dc/d36/a10304.html#a1b4a815f484b4048f7e1fa7ec5282eef", null ],
-    [ "CanAreaTrigger", "dc/d36/a10304.html#a47f8793586dd27dd4eb42eb5379828b0", null ],
-    [ "OnWeatherChange", "dc/d36/a10304.html#af09f40df2d02a57c92d7e05d19f35549", null ]
+    [ "ArenaScript", "dc/d36/a10304.html#acba88d9008e08873f3f20b92d69e8912", null ],
+    [ "CanAddMember", "dc/d36/a10304.html#aa85728dd471c2f4d58ed1794e741d060", null ],
+    [ "CanSaveToDB", "dc/d36/a10304.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
+    [ "IsDatabaseBound", "dc/d36/a10304.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
+    [ "OnArenaStart", "dc/d36/a10304.html#ae67b000b16f56309da56f672a9f2b423", null ],
+    [ "OnBeforeArenaCheckWinConditions", "dc/d36/a10304.html#a2b46190a3243f2306a74295975dca317", null ],
+    [ "OnGetPoints", "dc/d36/a10304.html#a13b22ad00d3742589532e6e522258834", null ]
 ];

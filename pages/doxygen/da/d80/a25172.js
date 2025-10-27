@@ -1,7 +1,8 @@
 var a25172 =
 [
-    [ "HandleChargeEffect", "da/d80/a25172.html#ad8d2871e6277dd982653fa864010d084", null ],
-    [ "HandleScriptEffect", "da/d80/a25172.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc", null ],
-    [ "PrepareSpellScript", "da/d80/a25172.html#a1f8722308e1a5bef546dcb939d73dca7", null ],
-    [ "Register", "da/d80/a25172.html#a2cdda449ab11438347e7dd32fd058e6d", null ]
+    [ "CheckProc", "da/d80/a25172.html#a88cdab428be20027d939fe4765afc9e0", null ],
+    [ "HandleProc", "da/d80/a25172.html#a8e49a1bc11fdfc1b7d3f8225c890206f", null ],
+    [ "PrepareAuraScript", "da/d80/a25172.html#a33f53dc5834a3be78e24a1a58bdfd15a", null ],
+    [ "Register", "da/d80/a25172.html#aacb126d871c0df43f5096124b8cda376", null ],
+    [ "Validate", "da/d80/a25172.html#aa81adc61bd1149d9c43c4670f02a91ba", null ]
 ];

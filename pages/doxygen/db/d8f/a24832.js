@@ -1,6 +1,7 @@
 var a24832 =
 [
-    [ "CheckProc", "db/d8f/a24832.html#a67f31710f6a3e843b9d3539710100898", null ],
-    [ "PrepareAuraScript", "db/d8f/a24832.html#ad59ef816bd24f6215cc853386859dbb4", null ],
-    [ "Register", "db/d8f/a24832.html#af499437b1af535488792f44c18ad9bf7", null ]
+    [ "HandleProc", "db/d8f/a24832.html#a6bfa44b7adfff5aebbfe96bd7b983744", null ],
+    [ "PrepareAuraScript", "db/d8f/a24832.html#adf8a9d15a105bb639ae240d6062a7041", null ],
+    [ "Register", "db/d8f/a24832.html#a7e63aa6af08411ad8e75fc69bdb84de5", null ],
+    [ "Validate", "db/d8f/a24832.html#a6a70833aaae84cbb512d3ebaa79fe301", null ]
 ];

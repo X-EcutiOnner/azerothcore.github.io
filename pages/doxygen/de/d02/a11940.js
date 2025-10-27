@@ -1,6 +1,6 @@
 var a11940 =
 [
-    [ "boss_anubshiahAI", "de/d02/a11940.html#ae5bdb5509aad0d386bf73e5aad728744", null ],
-    [ "JustEngagedWith", "de/d02/a11940.html#ae83c1def323828814b5db6b032002438", null ],
-    [ "UpdateAI", "de/d02/a11940.html#a3acd88f97e2f1e3386c9b5dfa4f15d15", null ]
+    [ "player_settings_commandscript", "de/d02/a11940.html#ab8585064d4d358d7d48eed97379a3a78", null ],
+    [ "GetCommands", "de/d02/a11940.html#ae545918310d22b4e66e4a668bbb7ba58", null ],
+    [ "HandleSettingsAnnouncerFlags", "de/d02/a11940.html#af505117caa66ed4222e52ff91c486b6e", null ]
 ];

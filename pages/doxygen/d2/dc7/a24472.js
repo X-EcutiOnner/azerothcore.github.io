@@ -1,6 +1,6 @@
 var a24472 =
 [
-    [ "DeathEvent", "d2/dc7/a24472.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "d2/dc7/a24472.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "d2/dc7/a24472.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "npc_shattrathflaskvendors", "d2/dc7/a24472.html#ab74b234406c2022bf519242a7842458a", null ],
+    [ "OnGossipHello", "d2/dc7/a24472.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
+    [ "OnGossipSelect", "d2/dc7/a24472.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
 ];

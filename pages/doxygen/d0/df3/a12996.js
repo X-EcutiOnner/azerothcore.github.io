@@ -1,8 +1,8 @@
 var a12996 =
 [
-    [ "HandleDummy", "d0/df3/a12996.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "d0/df3/a12996.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "d0/df3/a12996.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "d0/df3/a12996.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "d0/df3/a12996.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "npc_barnesAI", "d4/d6f/a13000.html", "d4/d6f/a13000" ],
+    [ "npc_barnes", "d0/df3/a12996.html#aacdc737a94397a90b48b635293fe9c80", null ],
+    [ "GetAI", "d0/df3/a12996.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
+    [ "OnGossipHello", "d0/df3/a12996.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
+    [ "OnGossipSelect", "d0/df3/a12996.html#aa04d577e318f16f581f82761b6014eb5", null ]
 ];

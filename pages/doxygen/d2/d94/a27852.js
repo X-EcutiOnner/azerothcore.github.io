@@ -1,6 +1,6 @@
 var a27852 =
 [
-    [ "AreaGroupId", "d2/d94/a27852.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "d2/d94/a27852.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "d2/d94/a27852.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "npc_steam_tonkAI", "d3/dd1/a27856.html", "d3/dd1/a27856" ],
+    [ "npc_steam_tonk", "d2/d94/a27852.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
+    [ "GetAI", "d2/d94/a27852.html#a38e51485a3610a204a45677fce15c943", null ]
 ];

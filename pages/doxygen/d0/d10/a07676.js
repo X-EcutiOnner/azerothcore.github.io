@@ -1,4 +1,4 @@
 var a07676 =
 [
-    [ "type", "d0/d10/a07676.html#a20bf3321a2bb91eead362115f5c9bcc7", null ]
+    [ "TryConsume", "d0/d10/a07676.html#a0fa36d8fd2dc6a74e2b2a15787a33969", null ]
 ];

@@ -1,7 +1,5 @@
 var a26924 =
 [
-    [ "HandleApply", "d0/dcd/a26924.html#aa35fa107aee605a8583150901a75ad72", null ],
-    [ "HandleRemove", "d0/dcd/a26924.html#a60b6e438ff67d9db41d160020b54da40", null ],
-    [ "PrepareAuraScript", "d0/dcd/a26924.html#a1da44046f2cb9fb68b18f712111c38ea", null ],
-    [ "Register", "d0/dcd/a26924.html#ac7c9e15a796e91e0ac68791d24e3d4bf", null ]
+    [ "EarthenPowerTargetSelector", "d0/dcd/a26924.html#a61290afcc621c73682160a4e6a6e0f5d", null ],
+    [ "operator()", "d0/dcd/a26924.html#a9f3d7e7bdb3a3affa72da57903f28940", null ]
 ];

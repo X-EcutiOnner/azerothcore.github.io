@@ -1,6 +1,5 @@
 var a20968 =
 [
-    [ "boss_yoggsaron_voiceAI", "d6/da0/a20972.html", "d6/da0/a20972" ],
-    [ "boss_yoggsaron_voice", "db/d4d/a20968.html#ae5d10416bb83e57c0e9d3ef5d6f5adc6", null ],
-    [ "GetAI", "db/d4d/a20968.html#a50abcde0313df06a114a2f5f44a1d481", null ]
+    [ "achievement_xt002_nerf_engineering", "db/d4d/a20968.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
+    [ "OnCheck", "db/d4d/a20968.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
 ];

@@ -1,9 +1,7 @@
 var a23080 =
 [
-    [ "HandleEffectApply", "d3/d5d/a23080.html#aca8ff864832d30e45bccfca12256560a", null ],
-    [ "HandleEffectRemove", "d3/d5d/a23080.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7", null ],
-    [ "Load", "d3/d5d/a23080.html#a3b9838f26673ce344ca40f9f487ef878", null ],
-    [ "PrepareAuraScript", "d3/d5d/a23080.html#a79b93c86a01d31d08cba15436856b794", null ],
-    [ "Register", "d3/d5d/a23080.html#aa6c04279944abd31c42bb5dc4319aaf2", null ],
-    [ "_turtleSet", "d3/d5d/a23080.html#a308b9e032576ae058e9f2469dcc8ff23", null ]
+    [ "CheckProc", "d3/d5d/a23080.html#a0968b7b32f2d2bef6035e030f544088a", null ],
+    [ "PrepareAuraScript", "d3/d5d/a23080.html#ac424e41948196a6e60b790ebcf40783f", null ],
+    [ "Register", "d3/d5d/a23080.html#a06bdac68e36b43ee534e937ffd974086", null ],
+    [ "Update", "d3/d5d/a23080.html#af6c228840f6af96e353ba964fdd01e54", null ]
 ];

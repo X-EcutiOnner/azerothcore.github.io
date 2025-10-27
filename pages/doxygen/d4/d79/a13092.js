@@ -1,6 +1,7 @@
 var a13092 =
 [
-    [ "boss_darkmaster_gandlingAI", "d1/d15/a13096.html", "d1/d15/a13096" ],
-    [ "boss_darkmaster_gandling", "d4/d79/a13092.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
-    [ "GetAI", "d4/d79/a13092.html#a21ea53862614303af31a517a53d1fbf6", null ]
+    [ "HandleScriptEffect", "d4/d79/a13092.html#a1b196f3817c16fac48392981b58c1a05", null ],
+    [ "PrepareSpellScript", "d4/d79/a13092.html#ad44566ff9a44057679e7ce8e1959776d", null ],
+    [ "Register", "d4/d79/a13092.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
+    [ "Validate", "d4/d79/a13092.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
 ];

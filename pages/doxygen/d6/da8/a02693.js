@@ -1,7 +1,7 @@
 var a02693 =
 [
-    [ "boss_anubrekhan", "d4/dd5/a19175.html", "d4/dd5/a19175" ],
-    [ "boss_anubrekhan::boss_anubrekhanAI", "d0/d1e/a19179.html", "d0/d1e/a19179" ],
+    [ "boss_anubrekhan", "d5/d97/a19172.html", "d5/d97/a19172" ],
+    [ "boss_anubrekhan::boss_anubrekhanAI", "de/d5a/a19176.html", "de/d5a/a19176" ],
     [ "GuardSays", "d6/da8/a02693.html#a36f4d95de326f7b4132b469869110c12", [
       [ "EMOTE_SPAWN", "d6/da8/a02693.html#a36f4d95de326f7b4132b469869110c12ade276b5b81b86907f260bb442ccf97ed", null ],
       [ "EMOTE_SCARAB", "d6/da8/a02693.html#a36f4d95de326f7b4132b469869110c12a268b84956ae24cf9c5237ba0a2850f8f", null ]

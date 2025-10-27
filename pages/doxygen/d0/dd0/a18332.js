@@ -1,6 +1,6 @@
 var a18332 =
 [
-    [ "npc_raging_spiritAI", "df/dbe/a18336.html", "df/dbe/a18336" ],
-    [ "npc_raging_spirit", "d0/dd0/a18332.html#ad1a580bd394adc8c58575b600c16f9db", null ],
-    [ "GetAI", "d0/dd0/a18332.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
+    [ "npc_rimefangAI", "df/dbe/a18336.html", "df/dbe/a18336" ],
+    [ "npc_rimefang", "d0/dd0/a18332.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
+    [ "GetAI", "d0/dd0/a18332.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
 ];

@@ -1,6 +1,6 @@
 var a26452 =
 [
-    [ "HandleEffectApply", "d5/def/a26452.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
-    [ "PrepareAuraScript", "d5/def/a26452.html#a707504eccf42af77f6e6e927d208bc8c", null ],
-    [ "Register", "d5/def/a26452.html#a7aeaa28997bbe966274a738cf45323ed", null ]
+    [ "HandleAfterHit", "d5/def/a26452.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
+    [ "PrepareSpellScript", "d5/def/a26452.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
+    [ "Register", "d5/def/a26452.html#a2a780069022e62b14992a7b69626ac3d", null ]
 ];

@@ -1,7 +1,6 @@
 var a25028 =
 [
-    [ "HandleScript", "df/d02/a25028.html#a628fbc7ef23ce8f93d132f7bf518d4d8", null ],
-    [ "PrepareSpellScript", "df/d02/a25028.html#a8e5aa0a33907c5216299734a928de2fd", null ],
-    [ "Register", "df/d02/a25028.html#a9e25da03bbbea35f13420c14c6fab0d5", null ],
-    [ "Validate", "df/d02/a25028.html#a30cc03ed0c19074dc1fde4951a061815", null ]
+    [ "CalculateAmount", "df/d02/a25028.html#af913c896771e238ef62898f67af61cc4", null ],
+    [ "PrepareAuraScript", "df/d02/a25028.html#a4be139ae22c20468be1930195097d98a", null ],
+    [ "Register", "df/d02/a25028.html#a90d6446ed05f9dfedb43d689e8de0614", null ]
 ];

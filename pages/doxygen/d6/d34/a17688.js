@@ -1,11 +1,7 @@
 var a17688 =
 [
-    [ "CountTargets", "d6/d34/a17688.html#a54f6526359fba124a988ba35c2876fd1", null ],
-    [ "Load", "d6/d34/a17688.html#a32a76ca53528bbfabfcefd2dc6aef4cc", null ],
-    [ "PrepareSpellScript", "d6/d34/a17688.html#a4991d88429ea951c55ef08a90f364d31", null ],
-    [ "Register", "d6/d34/a17688.html#a8bac27d885c8ea0c659c22599c4e97b4", null ],
-    [ "TeleportPlayer", "d6/d34/a17688.html#ac886eae598b55ed4aa9ddbf9ce3a01bd", null ],
-    [ "TriggerWipe", "d6/d34/a17688.html#a0f79722e00e6255d1ed1bf5846d5c839", null ],
-    [ "Validate", "d6/d34/a17688.html#ad2e586d688b413f9ef9a5688d203106a", null ],
-    [ "_playerCount", "d6/d34/a17688.html#a7c116e74c485ca44e5e6e710cfeb5bba", null ]
+    [ "FilterTargets", "d6/d34/a17688.html#aeae290d20ade37eb839c1bf3c9ae59bf", null ],
+    [ "Load", "d6/d34/a17688.html#a38bf6d96c6a78e5105d0369eb993e58c", null ],
+    [ "PrepareSpellScript", "d6/d34/a17688.html#a815c99e9ef570287af5d45c32bdc5b8c", null ],
+    [ "Register", "d6/d34/a17688.html#a33342cc676adaabe5e3896fa559631b7", null ]
 ];

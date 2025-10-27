@@ -1,9 +1,9 @@
 var a14560 =
 [
-    [ "HandlePeriodic", "d2/d4d/a14560.html#ae5f611f0643cdfc3d403cee89667b0f6", null ],
-    [ "Load", "d2/d4d/a14560.html#aa90cfb5fdb96e8670fa35dd3c16350c0", null ],
-    [ "PrepareAuraScript", "d2/d4d/a14560.html#afeb65196cbafc813bb02eb3907e59fc2", null ],
-    [ "Register", "d2/d4d/a14560.html#ac331de3219ae7da9e35e962011540bdf", null ],
-    [ "Validate", "d2/d4d/a14560.html#a7de36e3ee777b02ab6fc4671e4e9f5ab", null ],
-    [ "_buffGiven", "d2/d4d/a14560.html#aec2476ad5e046213b90af04ad91f0230", null ]
+    [ "entries", "d2/d4d/a14560.html#a8c55bbd253d6bea01e83c0aa7380dee5", null ],
+    [ "entries", "d2/d4d/a14560.html#a953850b267eb6f599bb49d82080bdf64", null ],
+    [ "revelerId", "d2/d4d/a14560.html#a9e4069ef00c8b4e31d8af06f34e12ad5", null ],
+    [ "schedule", "d2/d4d/a14560.html#a2bff12ebc291831ad63e4f35f51e7adc", null ],
+    [ "size", "d2/d4d/a14560.html#ae6a3fa59e1eb384255c247abadc962d5", null ],
+    [ "spawns", "d2/d4d/a14560.html#ade7548688493912ae1f880e89eb46053", null ]
 ];

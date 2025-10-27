@@ -1,6 +1,6 @@
 var a26652 =
 [
-    [ "HandleRemove", "d1/d8f/a26652.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
-    [ "PrepareAuraScript", "d1/d8f/a26652.html#a132193c0c13a2f89b9b29391d524023a", null ],
-    [ "Register", "d1/d8f/a26652.html#a246294a7b9a128a9ec464562846332fc", null ]
+    [ "HandleDummy", "d1/d8f/a26652.html#aee5967205738ebaef70e1105e8d91b2c", null ],
+    [ "PrepareSpellScript", "d1/d8f/a26652.html#a1ef5914adfd2c951a68f50658852e095", null ],
+    [ "Register", "d1/d8f/a26652.html#af42b6d5a5fbb5eb84773818594813afc", null ]
 ];

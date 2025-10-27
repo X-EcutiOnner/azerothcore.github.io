@@ -1,6 +1,6 @@
 var a24524 =
 [
-    [ "HandlePeriodic", "d9/d0f/a24524.html#adc387a1b001119b95179856c030853ad", null ],
-    [ "PrepareAuraScript", "d9/d0f/a24524.html#a64eb2c68651171f1cbda3aa98d58e68e", null ],
-    [ "Register", "d9/d0f/a24524.html#a1234c3e7b32d5bed67c8e9c2afc1fdc5", null ]
+    [ "PrepareSpellScript", "d9/d0f/a24524.html#ac781a5ff389268d1f18867ff5585ca71", null ],
+    [ "Register", "d9/d0f/a24524.html#a5cb9e02774ea6c307e76183253ffb472", null ],
+    [ "SetDest", "d9/d0f/a24524.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
 ];

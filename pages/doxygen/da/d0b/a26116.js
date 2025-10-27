@@ -1,8 +1,7 @@
 var a26116 =
 [
-    [ "CalculateAmount", "da/d0b/a26116.html#a8751483423726ffa8a33c70b7e55db23", null ],
-    [ "CheckProc", "da/d0b/a26116.html#a046cd1087342cdcbd2e6b0f8ded7c03a", null ],
-    [ "HandleProc", "da/d0b/a26116.html#abda070e7dfbb4ddc8d18cb3d180edc2e", null ],
-    [ "PrepareAuraScript", "da/d0b/a26116.html#a6bb54cea419145875c4086a69e1e55e8", null ],
-    [ "Register", "da/d0b/a26116.html#a8e92638bbdd786ef77b17f00dcf0f643", null ]
+    [ "HandleScript", "da/d0b/a26116.html#aad0be226a2d294d3361c1afbf644c5e4", null ],
+    [ "PrepareSpellScript", "da/d0b/a26116.html#a85dee311aab08d796a3a0c1bc9e9390d", null ],
+    [ "Register", "da/d0b/a26116.html#a2b22be9826db241ecf3f99ff16c309c0", null ],
+    [ "Validate", "da/d0b/a26116.html#a98df659504307fc0666fe2b1001eaa00", null ]
 ];

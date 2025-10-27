@@ -1,6 +1,6 @@
 var a22368 =
 [
-    [ "HandleScriptEffect", "dd/da0/a22368.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
-    [ "PrepareSpellScript", "dd/da0/a22368.html#afa4ad1b205bf963b4230881738baf938", null ],
-    [ "Register", "dd/da0/a22368.html#a0d8925effced854471e2fbec9c631b91", null ]
+    [ "npc_still_at_it_triggerAI", "de/d72/a22372.html", "de/d72/a22372" ],
+    [ "npc_still_at_it_trigger", "dd/da0/a22368.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
+    [ "GetAI", "dd/da0/a22368.html#ae273ea6295f50248d303983d4b4137df", null ]
 ];

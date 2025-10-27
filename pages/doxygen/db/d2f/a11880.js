@@ -1,8 +1,17 @@
 var a11880 =
 [
-    [ "ironhand_guardianAI", "db/d2f/a11880.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
-    [ "SetData", "db/d2f/a11880.html#ab4e6402951bf45910fb3399ea107b207", null ],
-    [ "UpdateAI", "db/d2f/a11880.html#a095b11f44935c8ddb43a20c095495507", null ],
-    [ "events", "db/d2f/a11880.html#a13ed887285809d2fcad0d23fdf37face", null ],
-    [ "flames_enabled", "db/d2f/a11880.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
+    [ "learn_commandscript", "db/d2f/a11880.html#a7ef51367ab7ab1c360390ff5552c0f51", null ],
+    [ "GetCommands", "db/d2f/a11880.html#a8c8f73f3c1d5dbddd5a3d2e89ea326d8", null ],
+    [ "HandleLearnAllCraftsCommand", "db/d2f/a11880.html#ae25064fa03d022277a368f52a17e5b70", null ],
+    [ "HandleLearnAllDefaultCommand", "db/d2f/a11880.html#a985d2a10f01808c4bff2922b1530e911", null ],
+    [ "HandleLearnAllGMCommand", "db/d2f/a11880.html#a88e28ec43968c5a8b0bfd1f190d89a98", null ],
+    [ "HandleLearnAllLangCommand", "db/d2f/a11880.html#aaf4d779b47511db72727fe44fb1bbd2d", null ],
+    [ "HandleLearnAllMyClassCommand", "db/d2f/a11880.html#a956716b7743dfc6de922b0badf40aeda", null ],
+    [ "HandleLearnAllMyPetTalentsCommand", "db/d2f/a11880.html#a2a7cc02eb4417907b50d49bab39110cf", null ],
+    [ "HandleLearnAllMySpellsCommand", "db/d2f/a11880.html#af95e27d3bfb3cd421a0fd13f9f655755", null ],
+    [ "HandleLearnAllMyTalentsCommand", "db/d2f/a11880.html#aaa19e92798ac56355a95e625ead56556", null ],
+    [ "HandleLearnAllRecipesCommand", "db/d2f/a11880.html#a44b538a1031ad69bec762f1a791cf11f", null ],
+    [ "HandleLearnCommand", "db/d2f/a11880.html#ab59da6873596596ee84509cb0060e760", null ],
+    [ "HandleLearnSkillRecipesHelper", "db/d2f/a11880.html#ae8bd0389415fdeb70d369b694b953619", null ],
+    [ "HandleUnLearnCommand", "db/d2f/a11880.html#a2dc980af9662b3b1c783e3603732ca01", null ]
 ];

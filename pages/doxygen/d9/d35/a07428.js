@@ -1,10 +1,7 @@
 var a07428 =
 [
-    [ "BattlegroundNA", "d9/d35/a07428.html#abf646e63e474ac5bb381078ffd0f286e", null ],
-    [ "FillInitialWorldStates", "d9/d35/a07428.html#af0932b648d2a4a4288409d8da360e06b", null ],
-    [ "HandleAreaTrigger", "d9/d35/a07428.html#a6a70ff3655c516d45ac1acf959ad8f73", null ],
-    [ "HandlePlayerUnderMap", "d9/d35/a07428.html#a098c01b5da65350b2af9ff53dc9f750c", null ],
-    [ "SetupBattleground", "d9/d35/a07428.html#addc3350a283fdac24e7aa88c23a7945a", null ],
-    [ "StartingEventCloseDoors", "d9/d35/a07428.html#a316492a374884822045971f6dc3db1e2", null ],
-    [ "StartingEventOpenDoors", "d9/d35/a07428.html#a72a953c5047a434d28b98e6185173140", null ]
+    [ "BattlegroundEYPointIconsStruct", "d9/d35/a07428.html#a322379024d155d293d1c0083c510d232", null ],
+    [ "WorldStateAllianceControlledIndex", "d9/d35/a07428.html#a449932bc2357e26c79520fcf01a71a2a", null ],
+    [ "WorldStateControlIndex", "d9/d35/a07428.html#a82e87048f934b67821bc8ba308ed101d", null ],
+    [ "WorldStateHordeControlledIndex", "d9/d35/a07428.html#a1118c998cf9a319f9c81c100d23c25d3", null ]
 ];

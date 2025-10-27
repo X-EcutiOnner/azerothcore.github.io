@@ -1,7 +1,8 @@
 var a18764 =
 [
-    [ "HandleScript", "dc/d76/a18764.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
-    [ "PrepareSpellScript", "dc/d76/a18764.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
-    [ "Register", "dc/d76/a18764.html#afb0289c9906d0383a22dfd0e848573f8", null ],
-    [ "Validate", "dc/d76/a18764.html#a69344370af56f033e1c1ba16f4dee174", null ]
+    [ "DecayPeriodicTimer", "dc/d76/a18764.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "dc/d76/a18764.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "dc/d76/a18764.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "dc/d76/a18764.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "dc/d76/a18764.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

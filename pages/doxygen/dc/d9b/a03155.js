@@ -1,9 +1,9 @@
 var a03155 =
 [
-    [ "boss_drakos", "d1/d7b/a19583.html", "d1/d7b/a19583" ],
-    [ "boss_drakos::boss_drakosAI", "d5/da4/a19587.html", "d5/da4/a19587" ],
-    [ "npc_oculus_unstable_sphere", "d5/d9c/a19591.html", "d5/d9c/a19591" ],
-    [ "npc_oculus_unstable_sphere::npc_oculus_unstable_sphereAI", "da/d1e/a19595.html", "da/d1e/a19595" ],
+    [ "boss_drakos", "de/ddf/a19580.html", "de/ddf/a19580" ],
+    [ "boss_drakos::boss_drakosAI", "de/df9/a19584.html", "de/df9/a19584" ],
+    [ "npc_oculus_unstable_sphere", "df/dbd/a19588.html", "df/dbd/a19588" ],
+    [ "npc_oculus_unstable_sphere::npc_oculus_unstable_sphereAI", "d9/d9b/a19592.html", "d9/d9b/a19592" ],
     [ "SPELL_THUNDERING_STOMP", "dc/d9b/a03155.html#a49700fd50259585cfac2c788de5e00a8", null ],
     [ "DrakosNPCs", "dc/d9b/a03155.html#a9b6e942098b05e96df3467d6c45f057c", [
       [ "NPC_UNSTABLE_SPHERE", "dc/d9b/a03155.html#a9b6e942098b05e96df3467d6c45f057ca6fbda431676e3cb2a0fe335145f2d815", null ]
@@ -694,13 +694,6 @@ var a03155 =
       [ "EVENT_SPELL_OVERLORDS_BRAND", "d6/d2a/a03062.html#af60e00b78607064c5be6aa9397ea49c1a90e7e657e3719415de493255c309f46c", null ],
       [ "EVENT_RIMEFANG_SPELL_ICY_BLAST", "d6/d2a/a03062.html#af60e00b78607064c5be6aa9397ea49c1a56fde88b675883e881d730c66896bec3", null ],
       [ "EVENT_SPELL_MARK_OF_RIMEFANG", "d6/d2a/a03062.html#af60e00b78607064c5be6aa9397ea49c1a931043d3365a4d3bc84a0b42e30b34b7", null ],
-      [ "EVENT_STAMPEDE", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1a6c317e21c23e8613a9ec817362fca5be", null ],
-      [ "EVENT_WHIRLING_SLASH", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1a905a7756eb363d7bd116031a675850a0", null ],
-      [ "EVENT_PUNCTURE", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1ad2c427fae9c0d0b409540447a31c880b", null ],
-      [ "EVENT_ENRAGE", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1a470d03afa22c989a62d65ba1ce60863b", null ],
-      [ "EVENT_IMPALING_CHARGE", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1ab4a16b4f7f621394553bf00e93c988bb", null ],
-      [ "EVENT_UNSUMMON_RHINO", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1ac3d73946b0f9d0a85fd9647edb90b4d5", null ],
-      [ "EVENT_STOMP", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1aae6a7bd26e8ee17a505a5f6c6f720316", null ],
       [ "EVENT_KILL_TALK", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b", null ],
       [ "EVENT_GROUND_TREMOR", "d4/d32/a02951.html#af60e00b78607064c5be6aa9397ea49c1a4df0ca8644c1277d7130ed603604f8aa", null ],
       [ "EVENT_NUMBLING_SHOUT", "d4/d32/a02951.html#af60e00b78607064c5be6aa9397ea49c1af5353089febe114399d211db842a9a0a", null ],

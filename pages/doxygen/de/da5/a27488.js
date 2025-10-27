@@ -1,7 +1,7 @@
 var a27488 =
 [
-    [ "npc_engineering_tele_trinket", "de/da5/a27488.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
-    [ "CanLearn", "de/da5/a27488.html#a8a35f1c09a9df609561e76f4ed578647", null ],
-    [ "OnGossipHello", "de/da5/a27488.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
-    [ "OnGossipSelect", "de/da5/a27488.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
+    [ "go_bear_trapAI", "de/da5/a27488.html#ad97484d73bcea6a84909004c099eec34", null ],
+    [ "Initialize", "de/da5/a27488.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
+    [ "UpdateAI", "de/da5/a27488.html#a8901922d736bb0391da5618593ced5c5", null ],
+    [ "_events", "de/da5/a27488.html#a59f37a130326818dd922763ae9058fe7", null ]
 ];

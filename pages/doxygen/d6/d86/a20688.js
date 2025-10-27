@@ -1,6 +1,9 @@
 var a20688 =
 [
-    [ "boss_thorim_pillarAI", "db/de0/a20692.html", "db/de0/a20692" ],
-    [ "boss_thorim_pillar", "d6/d86/a20688.html#a7a2cbafc1d359d7b33bb735342cdfe2d", null ],
-    [ "GetAI", "d6/d86/a20688.html#af95d5e819292af9b54a022674b74af70", null ]
+    [ "npc_ulduar_emergency_fire_botAI", "d6/d86/a20688.html#a98ad3308b0fa56847ce6f5583bdfaba9", null ],
+    [ "AttackStart", "d6/d86/a20688.html#aa18e89f63e98112efeb69328f8fdc296", null ],
+    [ "MoveInLineOfSight", "d6/d86/a20688.html#a6384437fff9349df0cfa5053b37313ea", null ],
+    [ "MovementInform", "d6/d86/a20688.html#a2f7d5b821ea4bf80bd01d469859f6fb6", null ],
+    [ "UpdateAI", "d6/d86/a20688.html#a71d24eb5cea764011249b8ff78c3ed6c", null ],
+    [ "events", "d6/d86/a20688.html#a5099c03b3ab1eb437ea11a0c4e8650f1", null ]
 ];

@@ -1,6 +1,6 @@
 var a22036 =
 [
-    [ "HandleOnEffectRemove", "d7/dbe/a22036.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "d7/dbe/a22036.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "d7/dbe/a22036.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "npc_q24545_vegard_dummyAI", "d6/d77/a22040.html", "d6/d77/a22040" ],
+    [ "npc_q24545_vegard_dummy", "d7/dbe/a22036.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "d7/dbe/a22036.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

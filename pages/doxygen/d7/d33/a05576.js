@@ -1,13 +1,8 @@
 var a05576 =
 [
-    [ "IntervalTimer", "d7/d33/a05576.html#a2538976b639e25e63a8ab5927663ade1", null ],
-    [ "GetCurrent", "d7/d33/a05576.html#a93a456d6ff6d74cc889517fc585626e8", null ],
-    [ "GetInterval", "d7/d33/a05576.html#a986bec1dcb7325088517f6721636abcc", null ],
-    [ "Passed", "d7/d33/a05576.html#a9b3ac2407baf9763fa899e35a5c55fbe", null ],
-    [ "Reset", "d7/d33/a05576.html#ae243f18c4c3174b91fa01f6d08b04d4d", null ],
-    [ "SetCurrent", "d7/d33/a05576.html#ab315f686c2777dc21c824d8674479f9f", null ],
-    [ "SetInterval", "d7/d33/a05576.html#a28d95330f971d3a37aaf53e4f16aad4a", null ],
-    [ "Update", "d7/d33/a05576.html#aa1f5b922ea2d95c49924a506ca37a676", null ],
-    [ "_current", "d7/d33/a05576.html#a99c5aec27af00ffbbd83c5adbd2e2016", null ],
-    [ "_interval", "d7/d33/a05576.html#a179584ce91f62ba5e74ae3f34ee32fbc", null ]
+    [ "category", "d7/d33/a05576.html#a6a53b4b68647fdde65e3c2363127fc4f", null ],
+    [ "char_type", "d7/d33/a05576.html#aaecf7407fc4cff91008168377114d7cd", null ],
+    [ "ACLogSink", "d7/d33/a05576.html#a070880d742fd84b44c4614a76952e589", null ],
+    [ "write", "d7/d33/a05576.html#adad5e421ed10b296eae8b9c52f5e76f5", null ],
+    [ "callback_", "d7/d33/a05576.html#a360b91b740efaa05309725f6678eb22a", null ]
 ];

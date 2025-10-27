@@ -1,7 +1,5 @@
 var a18940 =
 [
-    [ "DelayedCastMincharEvent", "da/d83/a18940.html#a76d8a08ca273eec5b2e083d136336a15", null ],
-    [ "Execute", "da/d83/a18940.html#a12aeff246d07e541ed192974320842cb", null ],
-    [ "_spellId", "da/d83/a18940.html#af4ea90407b2c8a283f137d213ffe97be", null ],
-    [ "_trigger", "da/d83/a18940.html#a9f3cd02e77ad35b98a6753b792383548", null ]
+    [ "at_icc_saurfang_portal", "da/d83/a18940.html#a7f30058251c520634a0b7bad08380e5d", null ],
+    [ "OnTrigger", "da/d83/a18940.html#a8980fe0e67aa33335f0fdb947a294213", null ]
 ];

@@ -1,10 +1,18 @@
 var a17208 =
 [
-    [ "boss_drakkari_elementalAI", "d3/daf/a17208.html#aad8f28b7e45a7897cb758dff90aa46d8", null ],
-    [ "DoAction", "d3/daf/a17208.html#afc16e2da1f40ec0c0257e3bedc04c8a7", null ],
-    [ "JustDied", "d3/daf/a17208.html#aec2878e51a12749914e3a30c0ddea900", null ],
-    [ "JustEngagedWith", "d3/daf/a17208.html#a75cbf6a164ab4337f86b600541c563f2", null ],
-    [ "Reset", "d3/daf/a17208.html#a3a0cd44c30eacac26bcfd1bbe2a18086", null ],
-    [ "UpdateAI", "d3/daf/a17208.html#adb9ad99bc784a76da238ed2ee694d4f2", null ],
-    [ "events", "d3/daf/a17208.html#abd9bef8fd2bd10a520d9569351bd925b", null ]
+    [ "boss_garfrostAI", "d3/daf/a17208.html#af9f0a6bc8b982b025312d6b2c1f91549", null ],
+    [ "DamageTaken", "d3/daf/a17208.html#a7a033f54f2c994c74b7125fb549af513", null ],
+    [ "EnterEvadeMode", "d3/daf/a17208.html#acca25c3bf34760ed1f0e451d8d304ab6", null ],
+    [ "JustDied", "d3/daf/a17208.html#a6439d3163c49973b36ae10c85b9dd11e", null ],
+    [ "JustEngagedWith", "d3/daf/a17208.html#a06e1b8d8e0b1f0fd5fac0b2a4bad4ad6", null ],
+    [ "KilledUnit", "d3/daf/a17208.html#af3751410e925a20c21b282d1b2de3bf3", null ],
+    [ "MovementInform", "d3/daf/a17208.html#aadebdb2dd4402be150711f98dfab3f5f", null ],
+    [ "Reset", "d3/daf/a17208.html#a916fd78cf3fd309ab8b13c96325002f2", null ],
+    [ "SetData", "d3/daf/a17208.html#a3563e70e731836857837b1d4ac135130", null ],
+    [ "SpellHitTarget", "d3/daf/a17208.html#ab7a4941d3d4565215ab3ac200ee1d534", null ],
+    [ "UpdateAI", "d3/daf/a17208.html#a27cf76c48504dfb21f1a4a0caf9dd4cb", null ],
+    [ "bCanSayBoulderHit", "d3/daf/a17208.html#a587196314c341334418ea19c7f9ea597", null ],
+    [ "events", "d3/daf/a17208.html#addafeb61c54f95e71d9c45de3bddd25b", null ],
+    [ "phase", "d3/daf/a17208.html#a917a6a57e8c55b9be92f01e2e7422508", null ],
+    [ "pInstance", "d3/daf/a17208.html#a57ded0b0c7085ea978c01efa28e7d096", null ]
 ];

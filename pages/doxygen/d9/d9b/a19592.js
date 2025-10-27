@@ -1,10 +1,13 @@
 var a19592 =
 [
-    [ "npc_molten_golemAI", "d9/d9b/a19592.html#a5172d70649be5030fd91e1adbcad4f06", null ],
-    [ "DamageTaken", "d9/d9b/a19592.html#a0dd2ca5b83f5d75c51dfa358544c018a", null ],
-    [ "DoAction", "d9/d9b/a19592.html#ada2e9c39ce16f00b47df2f52971d99b1", null ],
-    [ "Reset", "d9/d9b/a19592.html#a9f90e791c77377c02c66e5d809c555cc", null ],
-    [ "UpdateAI", "d9/d9b/a19592.html#ade3cfd0deb27508f5f084b1b49caf13f", null ],
-    [ "events", "d9/d9b/a19592.html#ad97142df8344df59eddfb92471d1a737", null ],
-    [ "m_pInstance", "d9/d9b/a19592.html#ad1a300c13e98965b935c1e3fc26b9606", null ]
+    [ "npc_oculus_unstable_sphereAI", "d9/d9b/a19592.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
+    [ "AttackStart", "d9/d9b/a19592.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
+    [ "MoveInLineOfSight", "d9/d9b/a19592.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
+    [ "MovementInform", "d9/d9b/a19592.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
+    [ "PickNewLocation", "d9/d9b/a19592.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
+    [ "Reset", "d9/d9b/a19592.html#ac2e391d0149b62823ac9074d45c694cf", null ],
+    [ "UpdateAI", "d9/d9b/a19592.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
+    [ "gonext", "d9/d9b/a19592.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
+    [ "located", "d9/d9b/a19592.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
+    [ "timer", "d9/d9b/a19592.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
 ];

@@ -1,8 +1,7 @@
 var a15872 =
 [
-    [ "HandleScriptEffect", "d9/d47/a15872.html#af3e18fa5befc7124f2a3dbcd36259e6b", null ],
-    [ "Load", "d9/d47/a15872.html#ab293f8b536957558fa8886e1f4a23e74", null ],
-    [ "PrepareSpellScript", "d9/d47/a15872.html#ae4a1abf2e39c6806d804dea9ce5808ef", null ],
-    [ "Register", "d9/d47/a15872.html#a9fb54f0662982dec90c2e6f8568421ed", null ],
-    [ "Validate", "d9/d47/a15872.html#a2bee81d684c4739bb6247bfbdb74a21b", null ]
+    [ "npc_wizzlecrank_shredderAI", "d1/d97/a15876.html", "d1/d97/a15876" ],
+    [ "npc_wizzlecrank_shredder", "d9/d47/a15872.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
+    [ "GetAI", "d9/d47/a15872.html#a5c42cc6d8cf2642333731138077af66e", null ],
+    [ "OnQuestAccept", "d9/d47/a15872.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
 ];

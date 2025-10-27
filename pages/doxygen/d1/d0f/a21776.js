@@ -1,6 +1,7 @@
 var a21776 =
 [
-    [ "npc_conversing_with_the_depths_triggerAI", "da/deb/a21780.html", "da/deb/a21780" ],
-    [ "npc_conversing_with_the_depths_trigger", "d1/d0f/a21776.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
-    [ "GetAI", "d1/d0f/a21776.html#a61c337bfe1efb3589cf0df91d9082236", null ]
+    [ "npc_valiance_keep_cannoneerAI", "d1/d0f/a21776.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
+    [ "Reset", "d1/d0f/a21776.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
+    [ "UpdateAI", "d1/d0f/a21776.html#a75f16f2b028ca341db6e08536be06bfa", null ],
+    [ "uiTimer", "d1/d0f/a21776.html#a0cf5f0413b1cded835252a38e272f835", null ]
 ];

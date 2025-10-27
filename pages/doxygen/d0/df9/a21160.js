@@ -1,7 +1,6 @@
 var a21160 =
 [
-    [ "HandleOnEffectRemove", "d0/df9/a21160.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
-    [ "PrepareAuraScript", "d0/df9/a21160.html#a72e6468602d40eb479a80c611d60eb2e", null ],
-    [ "Register", "d0/df9/a21160.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
-    [ "Validate", "d0/df9/a21160.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
+    [ "OnEffect", "d0/df9/a21160.html#aa24cfd6feec65f466e74c68484815c1e", null ],
+    [ "PrepareSpellScript", "d0/df9/a21160.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
+    [ "Register", "d0/df9/a21160.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
 ];

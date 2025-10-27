@@ -1,12 +1,10 @@
 var a12616 =
 [
-    [ "BoardCell", "d4/dcd/a12616.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
-    [ "Reset", "d4/dcd/a12616.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
-    [ "SetData", "d4/dcd/a12616.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
-    [ "SetPiece", "d4/dcd/a12616.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
-    [ "col", "d4/dcd/a12616.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
-    [ "pieceEntry", "d4/dcd/a12616.html#a7697506ccc800d38968e457c44bfa019", null ],
-    [ "pieceGUID", "d4/dcd/a12616.html#a74f494e406c56d4c61d79539acea684c", null ],
-    [ "row", "d4/dcd/a12616.html#a195c187e134be546f224cbb0eef8c844", null ],
-    [ "triggerGUID", "d4/dcd/a12616.html#a9cafdea50739b014a97e60611adcd3f1", null ]
+    [ "npc_core_ragerAI", "d4/dcd/a12616.html#a3c5125e0a10043f6181c10ba749fa579", null ],
+    [ "DamageTaken", "d4/dcd/a12616.html#a758eb158eb9d232d74514281028efcb3", null ],
+    [ "Reset", "d4/dcd/a12616.html#acf83e469d3d8108276227a942fda28b3", null ],
+    [ "UpdateAI", "d4/dcd/a12616.html#a2183cf5ab22b737413b86a657fde6d3c", null ],
+    [ "instance", "d4/dcd/a12616.html#a7cfddba62f737214b8cfc7fbffa8c2e2", null ],
+    [ "mangleTimer", "d4/dcd/a12616.html#a081333b967abb3812b9ddae2f933a324", null ],
+    [ "rangeCheckTimer", "d4/dcd/a12616.html#ade427bdd9ec99807b6f190c890136414", null ]
 ];

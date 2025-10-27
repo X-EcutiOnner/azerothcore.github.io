@@ -1,6 +1,7 @@
 var a19840 =
 [
-    [ "boss_stormcaller_brundirAI", "dc/dfd/a19844.html", "dc/dfd/a19844" ],
-    [ "boss_stormcaller_brundir", "da/d68/a19840.html#aa966d1534a58e3832c46772043956533", null ],
-    [ "GetAI", "da/d68/a19840.html#a399b1b7cf2ee74c1e672231e922ff4fa", null ]
+    [ "HandleEffectRemove", "da/d68/a19840.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
+    [ "PrepareAuraScript", "da/d68/a19840.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
+    [ "Register", "da/d68/a19840.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
+    [ "Validate", "da/d68/a19840.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
 ];

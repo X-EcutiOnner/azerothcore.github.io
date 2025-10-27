@@ -1,6 +1,8 @@
 var a20324 =
 [
-    [ "HandleAfterEffectApply", "d9/dd1/a20324.html#ac8b5cddcf66c1f43c4ab0461354e97f1", null ],
-    [ "PrepareAuraScript", "d9/dd1/a20324.html#a439799df0d6ca43e6a81930e3e4b5334", null ],
-    [ "Register", "d9/dd1/a20324.html#adce13201dd11c6ba83883b12ad32d1f6", null ]
+    [ "OnApply", "d9/dd1/a20324.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
+    [ "OnRemove", "d9/dd1/a20324.html#a4709f570f9014eb36bc8c65269470373", null ],
+    [ "PrepareAuraScript", "d9/dd1/a20324.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
+    [ "Register", "d9/dd1/a20324.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
+    [ "Validate", "d9/dd1/a20324.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
 ];

@@ -1,6 +1,6 @@
 var a15316 =
 [
-    [ "HandleApply", "d3/d42/a15316.html#aefef61bc68c13b20e9b41a6f148a9599", null ],
-    [ "PrepareAuraScript", "d3/d42/a15316.html#aabe8dc8b99dc455dfcfaf58b64fa3f18", null ],
-    [ "Register", "d3/d42/a15316.html#ade5c710416516760cc69f77750aa2a1f", null ]
+    [ "FilterTargets", "d3/d42/a15316.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
+    [ "PrepareSpellScript", "d3/d42/a15316.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
+    [ "Register", "d3/d42/a15316.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
 ];

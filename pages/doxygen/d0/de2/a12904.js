@@ -1,7 +1,5 @@
 var a12904 =
 [
-    [ "HandleScriptEffect", "d0/de2/a12904.html#a1cdba27f7311021407307bcd35235fed", null ],
-    [ "PrepareSpellScript", "d0/de2/a12904.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
-    [ "Register", "d0/de2/a12904.html#a9794991aa1710ce37112888eeb572796", null ],
-    [ "Validate", "d0/de2/a12904.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
+    [ "at_karazhan_mirkblood_entrance", "d0/de2/a12904.html#aa5537dc8616c1f748b6be4b1e2870ca7", null ],
+    [ "OnTrigger", "d0/de2/a12904.html#ad99c85de36a369752fa61bab761a402e", null ]
 ];

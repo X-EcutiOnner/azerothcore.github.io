@@ -1,6 +1,5 @@
 var a27996 =
 [
-    [ "ChannelID", "d7/d3a/a27996.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
-    [ "flags", "d7/d3a/a27996.html#aa77db644555e336ccbb8dd138c192425", null ],
-    [ "pattern", "d7/d3a/a27996.html#ad8b550cf444d66eede00abcf2cefec22", null ]
+    [ "npc_suns_reach_reclamation", "d7/d3a/a27996.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
+    [ "OnQuestReward", "d7/d3a/a27996.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
 ];

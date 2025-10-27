@@ -1,7 +1,6 @@
 var a13676 =
 [
-    [ "npc_deathstalker_erlandAI", "db/d20/a13680.html", "db/d20/a13680" ],
-    [ "npc_deathstalker_erland", "d1/d53/a13676.html#ad49faf068e982f245f0d1e21f0700c40", null ],
-    [ "GetAI", "d1/d53/a13676.html#ab59235f212ddb985056cb8e32719b723", null ],
-    [ "OnQuestAccept", "d1/d53/a13676.html#a81b20bc8c7249a59d69ba63ab32a5f06", null ]
+    [ "ChangeSummonPos", "d1/d53/a13676.html#ae24a7c8279a92f1018748a0e930736ac", null ],
+    [ "PrepareSpellScript", "d1/d53/a13676.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
+    [ "Register", "d1/d53/a13676.html#a03a1a1e5501452eacaceadd9725f2287", null ]
 ];

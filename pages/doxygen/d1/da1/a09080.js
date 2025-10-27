@@ -1,7 +1,13 @@
 var a09080 =
 [
-    [ "~GridCell", "d1/da1/a09080.html#ae04041bc575ef654cc46c3f2e6542e2a", null ],
-    [ "AddGridObject", "d1/da1/a09080.html#adf5a3ece25efc945f7ae85d588da1d15", null ],
-    [ "Visit", "d1/da1/a09080.html#a76c36b854de74a8e54b94c1a4e563299", null ],
-    [ "_gridObjects", "d1/da1/a09080.html#a32d576cdb5d1d6f02fdba73d2606314c", null ]
+    [ "QuestPOI", "d1/da1/a09080.html#af4ce75549d1fff2042e98683119214a6", null ],
+    [ "QuestPOI", "d1/da1/a09080.html#a4cf252fabc68cf11df5d44f192955a0b", null ],
+    [ "AreaId", "d1/da1/a09080.html#ad81f08fa2bc5fd0ccd81d0efc42ce804", null ],
+    [ "FloorId", "d1/da1/a09080.html#a1af6ed9fdb9ff429e18fb5d98a42ce45", null ],
+    [ "Id", "d1/da1/a09080.html#aace0de15249c756ba3cbd5763cbb3f98", null ],
+    [ "MapId", "d1/da1/a09080.html#a851f8e6e62373d2592173534754d757b", null ],
+    [ "ObjectiveIndex", "d1/da1/a09080.html#ad80f65110beacd44e667008387e6bb70", null ],
+    [ "points", "d1/da1/a09080.html#aeb505cb061a00ecaa2acc749e391f207", null ],
+    [ "Unk3", "d1/da1/a09080.html#a1f1d8fa843c856b54ec1ca85b08d78e1", null ],
+    [ "Unk4", "d1/da1/a09080.html#aa8089160bb8e93ea79df96b956050b70", null ]
 ];

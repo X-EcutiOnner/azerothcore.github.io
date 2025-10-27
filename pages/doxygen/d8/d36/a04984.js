@@ -1,8 +1,8 @@
 var a04984 =
 [
-    [ "MMapData", "d8/d36/a04984.html#ab6aa577df2b8bc749e68515b7b5ef96c", null ],
-    [ "~MMapData", "d8/d36/a04984.html#a28ad87f05014c49373557369e9177df5", null ],
-    [ "loadedTileRefs", "d8/d36/a04984.html#afa8799db33459dd5e36b7a43eae7d16b", null ],
-    [ "navMesh", "d8/d36/a04984.html#a786a4b43773e4402451bed82cf221f66", null ],
-    [ "navMeshQueries", "d8/d36/a04984.html#abb7a9f9131b3657eff54ed17fc329b43", null ]
+    [ "AreaInfo", "d5/d6e/a04988.html", "d5/d6e/a04988" ],
+    [ "LiquidInfo", "db/d04/a04992.html", "db/d04/a04992" ],
+    [ "areaInfo", "d8/d36/a04984.html#a0d30ac3fa0cefd6eafc1690c75f46f0f", null ],
+    [ "floorZ", "d8/d36/a04984.html#af7c8710b5d296c1d792b4fc34302278f", null ],
+    [ "liquidInfo", "d8/d36/a04984.html#ae59e1e7fdf4913c48a0d82e1d19366a7", null ]
 ];

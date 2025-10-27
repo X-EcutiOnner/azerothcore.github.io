@@ -1,6 +1,6 @@
 var a27884 =
 [
-    [ "ChannelID", "d7/d40/a27884.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
-    [ "flags", "d7/d40/a27884.html#aa77db644555e336ccbb8dd138c192425", null ],
-    [ "pattern", "d7/d40/a27884.html#ad8b550cf444d66eede00abcf2cefec22", null ]
+    [ "npc_fireworkAI", "d0/d4b/a27888.html", "d0/d4b/a27888" ],
+    [ "npc_firework", "d7/d40/a27884.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
+    [ "GetAI", "d7/d40/a27884.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
 ];

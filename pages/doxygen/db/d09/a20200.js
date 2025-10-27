@@ -1,7 +1,6 @@
 var a20200 =
 [
-    [ "HandleAfterEffectApply", "db/d09/a20200.html#a672526de2c71dcae79bacef88f34dc26", null ],
-    [ "PrepareAuraScript", "db/d09/a20200.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
-    [ "Register", "db/d09/a20200.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
-    [ "Validate", "db/d09/a20200.html#ab5833f6218760a7d9829b5d453436302", null ]
+    [ "CheckCast", "db/d09/a20200.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "db/d09/a20200.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "db/d09/a20200.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

@@ -1,7 +1,7 @@
 var a23496 =
 [
-    [ "CalcPeriodic", "da/de5/a23496.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
-    [ "PrepareAuraScript", "da/de5/a23496.html#a290913502dfe3dfb42b44a964468b97c", null ],
-    [ "Register", "da/de5/a23496.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
-    [ "Update", "da/de5/a23496.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
+    [ "npc_ahune_ice_spear_bunny", "da/de5/a23496.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "da/de5/a23496.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "da/de5/a23496.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "da/de5/a23496.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

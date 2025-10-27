@@ -1,6 +1,7 @@
 var a14976 =
 [
-    [ "npc_idol_room_spawnerAI", "da/d7d/a14980.html", "da/d7d/a14980" ],
-    [ "npc_idol_room_spawner", "da/d70/a14976.html#ac51fed89c27ebf6ae3cf65ca8909eab1", null ],
-    [ "GetAI", "da/d70/a14976.html#a3017caa645e98a7647ec42a43c025624", null ]
+    [ "OnRemove", "da/d70/a14976.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
+    [ "PrepareAuraScript", "da/d70/a14976.html#ab082adc51983f124d0467cbff63cffb7", null ],
+    [ "Register", "da/d70/a14976.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
+    [ "Validate", "da/d70/a14976.html#a73421b82f483e73314dbb862fb0a11c7", null ]
 ];

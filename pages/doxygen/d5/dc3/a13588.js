@@ -1,6 +1,6 @@
 var a13588 =
 [
-    [ "npc_augustus_the_touched", "d5/dc3/a13588.html#abc84c884345f44cf780410569cdee10c", null ],
-    [ "OnGossipHello", "d5/dc3/a13588.html#a81e0d4f2aaa685cd5231ea430c86e7b4", null ],
-    [ "OnGossipSelect", "d5/dc3/a13588.html#a992da9b22693c1fac1148b4ba545b819", null ]
+    [ "FixOrientation", "d5/dc3/a13588.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
+    [ "Execute", "d5/dc3/a13588.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
+    [ "_owner", "d5/dc3/a13588.html#a5f12db3774bdeef25a300780c00db1fb", null ]
 ];

@@ -1,6 +1,10 @@
 var a16752 =
 [
-    [ "HandleScript", "db/d38/a16752.html#a4786e0c38f03f7e671174d0641526681", null ],
-    [ "PrepareSpellScript", "db/d38/a16752.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
-    [ "Register", "db/d38/a16752.html#a943117bfb56b846e99d04bd9a348af8d", null ]
+    [ "npc_mistress_of_painAI", "db/d38/a16752.html#ae5fd3c974a3f32540b2dee6b92cd4f7c", null ],
+    [ "EnterEvadeMode", "db/d38/a16752.html#a31ea8955ad44ea2db0a5a208fd2efc61", null ],
+    [ "JustDied", "db/d38/a16752.html#ae60f294f902a2f687446f7599d071e42", null ],
+    [ "Reset", "db/d38/a16752.html#ab3c1c19817576cc4348fd2020a6aad14", null ],
+    [ "SpellHit", "db/d38/a16752.html#a077843a7ead2034da695be816de42f9e", null ],
+    [ "UpdateAI", "db/d38/a16752.html#a1976a80f37a0935926508f9ad6cc7bbb", null ],
+    [ "events", "db/d38/a16752.html#a941ae1faab010551db6a8e6749993357", null ]
 ];

@@ -1,6 +1,10 @@
 var a28504 =
 [
-    [ "categoryMask", "df/db6/a28504.html#abd8816e5dda7bda455ccd6932647c4be", null ],
-    [ "categoryType", "df/db6/a28504.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
-    [ "ID", "df/db6/a28504.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
+    [ "ID", "df/db6/a28504.html#a906c42770a619884f08b67e2870bff93", null ],
+    [ "reqarenapoints", "df/db6/a28504.html#a5d45007a832d6120e29c7821c07646de", null ],
+    [ "reqarenaslot", "df/db6/a28504.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
+    [ "reqhonorpoints", "df/db6/a28504.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
+    [ "reqitem", "df/db6/a28504.html#a9cba8872c909260a55dcfdf7f4726899", null ],
+    [ "reqitemcount", "df/db6/a28504.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
+    [ "reqpersonalarenarating", "df/db6/a28504.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
 ];

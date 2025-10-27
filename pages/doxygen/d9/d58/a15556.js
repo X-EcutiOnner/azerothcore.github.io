@@ -1,10 +1,8 @@
 var a15556 =
 [
-    [ "npc_omenAI", "d9/d58/a15556.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
-    [ "JustDied", "d9/d58/a15556.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
-    [ "JustEngagedWith", "d9/d58/a15556.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
-    [ "MovementInform", "d9/d58/a15556.html#a92e59bde1f0da2ee537a836304a3c385", null ],
-    [ "SpellHit", "d9/d58/a15556.html#a4e3960d506fd0435de055a365906a9c9", null ],
-    [ "UpdateAI", "d9/d58/a15556.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
-    [ "events", "d9/d58/a15556.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
+    [ "npc_death_ravagerAI", "d9/d58/a15556.html#ad18242b078db0883029537562a41cc20", null ],
+    [ "Reset", "d9/d58/a15556.html#ac0fdbfe2f324785569fa742e0b244b83", null ],
+    [ "UpdateAI", "d9/d58/a15556.html#ac3dce7d79e67f20d7a8fe161da9d5279", null ],
+    [ "EnragingBiteTimer", "d9/d58/a15556.html#af33898ebd9bea6b1a58b673373de3c64", null ],
+    [ "RendTimer", "d9/d58/a15556.html#ad7ff02fe6e11a0fb0d8a3ae869ed5f6d", null ]
 ];

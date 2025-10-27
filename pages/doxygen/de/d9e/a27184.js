@@ -1,7 +1,6 @@
 var a27184 =
 [
-    [ "npc_spirit_shadeAI", "de/d9e/a27184.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
-    [ "IsSummonedBy", "de/d9e/a27184.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
-    [ "MovementInform", "de/d9e/a27184.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
-    [ "_summonerGuid", "de/d9e/a27184.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
+    [ "HandleDummy", "de/d9e/a27184.html#a68a86f7f86324336dc837622e01fa6af", null ],
+    [ "PrepareSpellScript", "de/d9e/a27184.html#a8c0a4b3b96a93b6977c2d3077fdfff1d", null ],
+    [ "Register", "de/d9e/a27184.html#ad168c9164d1edd23abfbf05141b96de4", null ]
 ];

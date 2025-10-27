@@ -1,12 +1,7 @@
 var a11416 =
 [
-    [ "CreatureTextBuilder", "d3/def/a11416.html#a582eed3ab284675e72261a1db9808925", null ],
-    [ "operator()", "d3/def/a11416.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
-    [ "_gender", "d3/def/a11416.html#a615c3046f749bf44b036958fb1a50128", null ],
-    [ "_language", "d3/def/a11416.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
-    [ "_msgType", "d3/def/a11416.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
-    [ "_source", "d3/def/a11416.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
-    [ "_target", "d3/def/a11416.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
-    [ "_textGroup", "d3/def/a11416.html#afcd842c1482980c6232f3f19d21a1481", null ],
-    [ "_textId", "d3/def/a11416.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
+    [ "maxvalue", "d3/def/a11416.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
+    [ "skill", "d3/def/a11416.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
+    [ "step", "d3/def/a11416.html#a1c882f7d43c65954cb99566225660312", null ],
+    [ "value", "d3/def/a11416.html#a064fece53cdaf07b072510b14200a968", null ]
 ];

@@ -1,7 +1,7 @@
 var a26776 =
 [
-    [ "AfterRemove", "d9/d31/a26776.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
-    [ "PrepareAuraScript", "d9/d31/a26776.html#af338af238305f1872275e1e5e9fdee16", null ],
-    [ "Register", "d9/d31/a26776.html#aa266e794be35b51a399b13ee2d06199d", null ],
-    [ "Validate", "d9/d31/a26776.html#af58098eb7a904e20846cf728f5adc18b", null ]
+    [ "HandleScript", "d9/d31/a26776.html#ad22b87be8f47886650d7bf9e98eee495", null ],
+    [ "PrepareSpellScript", "d9/d31/a26776.html#a806f934cd684039425ce3fca037b0e8c", null ],
+    [ "Register", "d9/d31/a26776.html#a9bd3ea5aa5fb16aac87f6097db31e113", null ],
+    [ "Validate", "d9/d31/a26776.html#a96d189c452a969850121323faef1d9c1", null ]
 ];

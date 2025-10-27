@@ -1,6 +1,8 @@
 var a17844 =
 [
-    [ "npc_bone_spikeAI", "dd/d3f/a17848.html", "dd/d3f/a17848" ],
-    [ "npc_bone_spike", "df/dd9/a17844.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
-    [ "GetAI", "df/dd9/a17844.html#a887a9156f550ca55047fa501e1709d95", null ]
+    [ "HandlePeriodic", "df/dd9/a17844.html#a5ff571c616b69bb50c736622feb9ed96", null ],
+    [ "HandleRemove", "df/dd9/a17844.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
+    [ "PrepareAuraScript", "df/dd9/a17844.html#a1b140274e283dd95e28fcb773e30f965", null ],
+    [ "Register", "df/dd9/a17844.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
+    [ "Validate", "df/dd9/a17844.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
 ];

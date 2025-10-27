@@ -1,19 +1,13 @@
 var a16004 =
 [
-    [ "boss_sartharion_dragonAI", "d3/d9b/a16004.html#afffee05f402a1960232c7920beb9beb9", null ],
-    [ "ClearInstance", "d3/d9b/a16004.html#a9e1fb29994441dd2d41aeb2c04205d7b", null ],
-    [ "DoAction", "d3/d9b/a16004.html#aeb49e63300a317f0e969159266fd8ea1", null ],
-    [ "HandleExtraEvent", "d3/d9b/a16004.html#a406b4d5957efb872de3bff5c8012de2a", null ],
-    [ "JustDied", "d3/d9b/a16004.html#a9c664ff661a3e83b98e1a28c81d662b0", null ],
-    [ "JustEngagedWith", "d3/d9b/a16004.html#a2988e9a5a8edd9aa807d8b13867fe6d7", null ],
-    [ "JustSummoned", "d3/d9b/a16004.html#a16582179f25ddc130f97bb70fe80316f", null ],
-    [ "KilledUnit", "d3/d9b/a16004.html#a09428ec63c8589a527accf8b024f6666", null ],
-    [ "MoveInLineOfSight", "d3/d9b/a16004.html#a75cd7f27019e4013adde104e7663e5bc", null ],
-    [ "MovementInform", "d3/d9b/a16004.html#a6870b91b1d36c79add8bd86a8e1fac4d", null ],
-    [ "RemoveTwilightPortal", "d3/d9b/a16004.html#a26aff742f99b04bfaf56fa46158ce306", null ],
-    [ "Reset", "d3/d9b/a16004.html#a86acfe30f898bd6b709c4743ae808867", null ],
-    [ "UpdateAI", "d3/d9b/a16004.html#a0e9382d8dce8251336d81539b7d82e15", null ],
-    [ "extraEvents", "d3/d9b/a16004.html#a0018fdf6e4567a74e5b16e4e09a00836", null ],
-    [ "isCalledBySartharion", "d3/d9b/a16004.html#a45a92a0754572b8d619fddbd1bdb234f", null ],
-    [ "portalGUID", "d3/d9b/a16004.html#a852ab0dabe5b6d8e6b0a53e6425ff085", null ]
+    [ "npc_shadowpriest_sezzizAI", "d3/d9b/a16004.html#a14c5cee1c3032b8df4ad902eb273e9b0", null ],
+    [ "AttackStart", "d3/d9b/a16004.html#a8278a73501ea33164cbdef8599144f4a", null ],
+    [ "Reset", "d3/d9b/a16004.html#ab08cc327c4206e4526e77eea3bf17e0b", null ],
+    [ "UpdateAI", "d3/d9b/a16004.html#a1c0236b52d4cd87634659991e0dfc728", null ],
+    [ "_missingHPForHealTimer", "d3/d9b/a16004.html#a1171f0cd40bd3d7198bab15b12edc131", null ],
+    [ "_missingHPForRenewTimer", "d3/d9b/a16004.html#a8df4e1046348599cd5d1e31e3dc4eb0c", null ],
+    [ "_physicScreemTimer", "d3/d9b/a16004.html#a43de246b93f3380d5b79ffba6434aa5a", null ],
+    [ "_shadowBoltTimer", "d3/d9b/a16004.html#a34a18991ff2c0aafac15694ed9667193", null ],
+    [ "_summmonAddsCount", "d3/d9b/a16004.html#a8ce2b172757d1f7d188152ecc0fe30f5", null ],
+    [ "_summonAddsTimer", "d3/d9b/a16004.html#aff413ce6f4106d212f35fb7abbfa047e", null ]
 ];

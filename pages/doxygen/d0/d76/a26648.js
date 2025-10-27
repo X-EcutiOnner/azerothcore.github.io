@@ -1,11 +1,7 @@
 var a26648 =
 [
-    [ "CheckProc", "d0/d76/a26648.html#a7a6eea8debb09c4c9086a92d8e6ee59c", null ],
-    [ "HandleProc", "d0/d76/a26648.html#af29b1d6d8553003514918a383cb08b4a", null ],
-    [ "Load", "d0/d76/a26648.html#a8861c2415c0f705cb4a06c02eabb54d2", null ],
-    [ "OnRemove", "d0/d76/a26648.html#a9227147dd6e621deddd0088b95e9db2f", null ],
-    [ "PrepareAuraScript", "d0/d76/a26648.html#a149881d517edbb15032452554fc64948", null ],
-    [ "Register", "d0/d76/a26648.html#ac81d60d54a87a23bd9481934f5753de0", null ],
-    [ "Validate", "d0/d76/a26648.html#a7a4d1bddd1dbeb41e0f6f8fe272b4ad6", null ],
-    [ "_redirectTarget", "d0/d76/a26648.html#af3ee2a283d8942ab3652a6386c26f737", null ]
+    [ "HandleDummy", "d0/d76/a26648.html#ad2367c1fd551187b6f19f795abb15ea6", null ],
+    [ "PrepareSpellScript", "d0/d76/a26648.html#a125f7550ce826f74ac14902bc82d5021", null ],
+    [ "Register", "d0/d76/a26648.html#a35e9132e2414383caafbde699de6061d", null ],
+    [ "Validate", "d0/d76/a26648.html#a530489a10287a6dd281d518683b1a3f3", null ]
 ];

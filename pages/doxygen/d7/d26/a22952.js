@@ -1,12 +1,9 @@
 var a22952 =
 [
-    [ "boss_essence_of_desireAI", "d7/d26/a22952.html#a02f6dec07038297c15c264fb501b01ab", null ],
-    [ "DamageTaken", "d7/d26/a22952.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
-    [ "DoAction", "d7/d26/a22952.html#ad55459d8e75f34783c1516be05cbb97f", null ],
-    [ "JustEngagedWith", "d7/d26/a22952.html#a0976078399b2190cca25aa2ae5c3c201", null ],
-    [ "KilledUnit", "d7/d26/a22952.html#a07509843bd658e3fc0b02cb817da37e9", null ],
-    [ "MovementInform", "d7/d26/a22952.html#ad65068c5f56db269b4dc711745f96cfb", null ],
-    [ "Reset", "d7/d26/a22952.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
-    [ "UpdateAI", "d7/d26/a22952.html#af348a1b996a8e7704ba55185ef79fe7d", null ],
-    [ "_recentlySpoken", "d7/d26/a22952.html#a6507c0da056a74d961d28e96120cd676", null ]
+    [ "npc_flame_of_azzinoth", "d7/d26/a22952.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
+    [ "IsSummonedBy", "d7/d26/a22952.html#a5254057af0371a08ea01fe91502c2a20", null ],
+    [ "JustEngagedWith", "d7/d26/a22952.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
+    [ "JustSummoned", "d7/d26/a22952.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
+    [ "UpdateAI", "d7/d26/a22952.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
+    [ "_bladeGUID", "d7/d26/a22952.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
 ];

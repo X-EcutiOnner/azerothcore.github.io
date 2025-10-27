@@ -1,10 +1,9 @@
 var a14112 =
 [
-    [ "npc_vilebranch_speaker", "dd/d3b/a14112.html#acd8dfc95c5969fe67e1386d5dbd5884b", null ],
-    [ "JustDied", "dd/d3b/a14112.html#aa7708f176879db3acd50399b74e4a90c", null ],
-    [ "JustEngagedWith", "dd/d3b/a14112.html#a236afb8512c2d941479f8a7c18f688a6", null ],
-    [ "Reset", "dd/d3b/a14112.html#a248195a137cb91f10a882ec12974c7c5", null ],
-    [ "UpdateAI", "dd/d3b/a14112.html#a75f263fa9241319b58bf77cbf1b75088", null ],
-    [ "_scheduler", "dd/d3b/a14112.html#abd52bbd2ce88b011176d93ae92b851d0", null ],
-    [ "instance", "dd/d3b/a14112.html#a88fb28d2c39f0da967ab6706872e68b2", null ]
+    [ "npc_zulaman_hostageAI", "dd/d3b/a14112.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
+    [ "JustDied", "dd/d3b/a14112.html#af87bdebb039f1da5736408cf3aad6487", null ],
+    [ "JustEngagedWith", "dd/d3b/a14112.html#af0aa229973da1a6230a854439658e9ed", null ],
+    [ "UpdateAI", "dd/d3b/a14112.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
+    [ "IsLoot", "dd/d3b/a14112.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
+    [ "PlayerGUID", "dd/d3b/a14112.html#a49f15c5a94d005c56218d00ac6732b82", null ]
 ];

@@ -1,6 +1,6 @@
 var a17772 =
 [
-    [ "DaranavanMoveEvent", "de/d8d/a17772.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
-    [ "Execute", "de/d8d/a17772.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
-    [ "_darnavan", "de/d8d/a17772.html#a7585edb957755efbc6064f232d50ea4e", null ]
+    [ "npc_muradin_bronzebeard_igbAI", "d3/dad/a17776.html", "d3/dad/a17776" ],
+    [ "npc_muradin_bronzebeard_igb", "de/d8d/a17772.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
+    [ "GetAI", "de/d8d/a17772.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
 ];

@@ -1,6 +1,8 @@
 var a23716 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "d6/dea/a23720.html", "d6/dea/a23720" ],
-    [ "instance_shattered_halls", "dc/d52/a23716.html#a9d0d3b6baec34c679151791610cff3a7", null ],
-    [ "GetInstanceScript", "dc/d52/a23716.html#a82388466811b022a725ba721845cadf3", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "dc/d52/a23716.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
+    [ "GetData", "dc/d52/a23716.html#a410630dbbe00acf0b69603cfc357d503", null ],
+    [ "SetBossState", "dc/d52/a23716.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
+    [ "SetData", "dc/d52/a23716.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
+    [ "_addsKilled", "dc/d52/a23716.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
 ];

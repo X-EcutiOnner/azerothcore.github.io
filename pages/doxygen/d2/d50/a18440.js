@@ -1,6 +1,7 @@
 var a18440 =
 [
-    [ "npc_icc_lk_checktargetAI", "d7/d66/a18444.html", "d7/d66/a18444" ],
-    [ "npc_icc_lk_checktarget", "d2/d50/a18440.html#a3a2cc943e731e472694dcb13417090da", null ],
-    [ "GetAI", "d2/d50/a18440.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
+    [ "HandleScript", "d2/d50/a18440.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
+    [ "PrepareSpellScript", "d2/d50/a18440.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
+    [ "Register", "d2/d50/a18440.html#ad83d563da98ad189f2198a061b1cd50f", null ],
+    [ "Validate", "d2/d50/a18440.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
 ];

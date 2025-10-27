@@ -1,9 +1,12 @@
 var a15148 =
 [
-    [ "npc_eye_tentacle", "d0/d8a/a15148.html#a106deeb95d74597377d32e81695dc3c9", null ],
-    [ "JustDied", "d0/d8a/a15148.html#aac965d97034f4f623172297e4f82647e", null ],
-    [ "JustEngagedWith", "d0/d8a/a15148.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
-    [ "Reset", "d0/d8a/a15148.html#a715439dfa31b4cf9df7ddd678d912108", null ],
-    [ "UpdateAI", "d0/d8a/a15148.html#a48f9067f27d61e609a014669c1daedb9", null ],
-    [ "_portalGUID", "d0/d8a/a15148.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "d0/d8a/a15148.html#a04d36b66a5570d03bb95ef2225a5c902", null ],
+    [ "GetData", "d0/d8a/a15148.html#a3d1611870945cd0c8cd7d4e7728cfd84", null ],
+    [ "Initialize", "d0/d8a/a15148.html#aed9ab9542badb0296ca0660c39541cb8", null ],
+    [ "OnGameObjectCreate", "d0/d8a/a15148.html#a567ac5d9a17514ede5b84c5d78204072", null ],
+    [ "ReadSaveDataMore", "d0/d8a/a15148.html#a7d6fefed563b0b9763b9c63136c65952", null ],
+    [ "SetData", "d0/d8a/a15148.html#a1dfd39d65b16bb6e1373fe83ba4053c5", null ],
+    [ "WriteSaveDataMore", "d0/d8a/a15148.html#ae5cd5cf84e8db976f3006dc52bb5fab4", null ],
+    [ "_firesState", "d0/d8a/a15148.html#a74809429d3d2b1db5374dacf34d8a1b7", null ],
+    [ "_gongPhase", "d0/d8a/a15148.html#a23485a35f0aa2f2ffad53398882d163a", null ]
 ];

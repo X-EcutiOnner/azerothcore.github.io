@@ -1,10 +1,10 @@
 var a05792 =
 [
-    [ "PreparedStatementTask", "d8/dde/a05792.html#a332f6ddad1ee338da3fa4bd2461a9c29", null ],
-    [ "~PreparedStatementTask", "d8/dde/a05792.html#a4ca96ab46d5015b2c673164652146886", null ],
-    [ "Execute", "d8/dde/a05792.html#ad4058410f5eba4f0f935696d38ba85ab", null ],
-    [ "GetFuture", "d8/dde/a05792.html#a07031e5cff28553e33d98140847b9e0d", null ],
-    [ "m_has_result", "d8/dde/a05792.html#a7c2841b7638c42caa4e8c1116110f8a3", null ],
-    [ "m_result", "d8/dde/a05792.html#a841a7aefd9ea58a76cead1da65a786b2", null ],
-    [ "m_stmt", "d8/dde/a05792.html#aba9082a717729915a4e4d640220a49d2", null ]
+    [ "MySQLConnectionInfo", "d8/dde/a05792.html#ae60c54053d71eb9325df10701b1f42d3", null ],
+    [ "database", "d8/dde/a05792.html#a7e65a418ad668772e4ce1b298d92f10a", null ],
+    [ "host", "d8/dde/a05792.html#a2659372561aae5feb8da121984354ef3", null ],
+    [ "password", "d8/dde/a05792.html#af5a51bd38ce1d58f65444d69b0283966", null ],
+    [ "port_or_socket", "d8/dde/a05792.html#a37b89660afb3ee085e817836e9d1d01f", null ],
+    [ "ssl", "d8/dde/a05792.html#a90e5a934b4ec46e5783248a1a80a4830", null ],
+    [ "user", "d8/dde/a05792.html#a6bf4166ebb99ea30a3894e3d8833bde6", null ]
 ];

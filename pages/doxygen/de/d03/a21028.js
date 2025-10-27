@@ -1,7 +1,6 @@
 var a21028 =
 [
-    [ "HandleScriptEffect", "de/d03/a21028.html#aae469190c1edc1fe45914bad1dac4e93", null ],
-    [ "PrepareSpellScript", "de/d03/a21028.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
-    [ "Register", "de/d03/a21028.html#a97265071f226fbd17c37d432cf9e2350", null ],
-    [ "Validate", "de/d03/a21028.html#aeec0bdd2e39db2da657247376ddcd195", null ]
+    [ "boss_yoggsaron_crusher_tentacleAI", "d9/dd4/a21032.html", "d9/dd4/a21032" ],
+    [ "boss_yoggsaron_crusher_tentacle", "de/d03/a21028.html#a9bb0c5535bf98e186d39f235f5786ff0", null ],
+    [ "GetAI", "de/d03/a21028.html#a82b6a328197ec81223c1d00dabb79a66", null ]
 ];

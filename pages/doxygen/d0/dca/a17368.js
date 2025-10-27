@@ -1,6 +1,6 @@
 var a17368 =
 [
-    [ "AddExtraDamage", "d0/dca/a17368.html#adeedfdd7555dfd009c99db6f002f7488", null ],
-    [ "PrepareSpellScript", "d0/dca/a17368.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
-    [ "Register", "d0/dca/a17368.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
+    [ "boss_drakkari_colossusAI", "df/dc5/a17372.html", "df/dc5/a17372" ],
+    [ "boss_drakkari_colossus", "d0/dca/a17368.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
+    [ "GetAI", "d0/dca/a17368.html#a75c6c9c56fe11342dd8aece031059e77", null ]
 ];

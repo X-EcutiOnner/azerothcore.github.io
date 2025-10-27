@@ -1,7 +1,7 @@
 var a24796 =
 [
-    [ "FilterTargets", "df/dc4/a24796.html#af6daf7022fc4cd18909056089c249c8a", null ],
-    [ "HandleDummy", "df/dc4/a24796.html#ab8f8fec8c95f471a04d642fa0dcbe3e6", null ],
-    [ "PrepareSpellScript", "df/dc4/a24796.html#a3ec1d43d3eb6ecca128ddda3c0f81efc", null ],
-    [ "Register", "df/dc4/a24796.html#ae662a050ce4cac47b6bd0d0b0c5b1e16", null ]
+    [ "CalculateAmount", "df/dc4/a24796.html#ad99a4176d27864280a79ac548a57a4c8", null ],
+    [ "Load", "df/dc4/a24796.html#aeafec50b06b5dd2f69ca6ab4096aea4d", null ],
+    [ "PrepareAuraScript", "df/dc4/a24796.html#a76528513f0f6728e73085a3d403c3e59", null ],
+    [ "Register", "df/dc4/a24796.html#a4d09be7d33755ae719138d079884e281", null ]
 ];

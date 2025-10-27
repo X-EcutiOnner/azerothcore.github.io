@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Position::PositionXYZOStreamer Struct Reference</title>
+<title>AzerothCore: GameObjectValue Union Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,69 +105,196 @@ $(document).ready(function(){initNavTree('d3/d6d/a08204.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d8/dcd/a08201.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Position::PositionXYZOStreamer Struct Reference</div></div>
+  <div class="headertitle"><div class="title">GameObjectValue Union Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Position.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">GameObject.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:afddf48b02eea5399d818468cdf8795c5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6d/a08204.html#afddf48b02eea5399d818468cdf8795c5">PositionXYZOStreamer</a> (<a class="el" href="../../dc/d3b/a08192.html">Position</a> &amp;pos)</td></tr>
-<tr class="separator:afddf48b02eea5399d818468cdf8795c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a6c2be4021912b753ed7da07f1c6a7464"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d3b/a08192.html">Position</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6d/a08204.html#a6c2be4021912b753ed7da07f1c6a7464">m_pos</a></td></tr>
-<tr class="separator:a6c2be4021912b753ed7da07f1c6a7464"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7fcf7bf357ba769b28bf031beff95507"><td class="memItemLeft" >struct {</td></tr>
+<tr class="memitem:a5197ddb4b564eb4be92fdfa50938a510"><td class="memItemLeft" >&#160;&#160;&#160;<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d3/d6d/a08204.html#a9e07a147b2be08a78f052e0cdb817111">PathProgress</a></td></tr>
+<tr class="separator:a5197ddb4b564eb4be92fdfa50938a510"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0c4b06e6e416bc9c40da59bade9095b3"><td class="memItemLeft" >&#160;&#160;&#160;<a class="el" href="../../dd/d9c/a09928.html">TransportAnimation</a> const  *&#160;&#160;&#160;<a class="el" href="../../d3/d6d/a08204.html#aa443028e95ae416e09f1acfef0575803">AnimationInfo</a></td></tr>
+<tr class="separator:a0c4b06e6e416bc9c40da59bade9095b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7fcf7bf357ba769b28bf031beff95507"><td class="memItemLeft" valign="top">}&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6d/a08204.html#a7fcf7bf357ba769b28bf031beff95507">Transport</a></td></tr>
+<tr class="separator:a7fcf7bf357ba769b28bf031beff95507"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7189213e185263aea30075db9816c1c8"><td class="memItemLeft" >struct {</td></tr>
+<tr class="memitem:a4a6ecd02d22b05c5fb792ff3067f357d"><td class="memItemLeft" >&#160;&#160;&#160;<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d3/d6d/a08204.html#a07ed76d692ae0af008e2373f3f9fd3e9">MaxOpens</a></td></tr>
+<tr class="separator:a4a6ecd02d22b05c5fb792ff3067f357d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7189213e185263aea30075db9816c1c8"><td class="memItemLeft" valign="top">}&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6d/a08204.html#a7189213e185263aea30075db9816c1c8">FishingHole</a></td></tr>
+<tr class="separator:a7189213e185263aea30075db9816c1c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2e3c013200ddb2d1ed715cbe782f3f34"><td class="memItemLeft" >struct {</td></tr>
+<tr class="memitem:afcf07e236aeef6435380da9b4eb3f052"><td class="memItemLeft" >&#160;&#160;&#160;<a class="el" href="../../db/d67/a10172.html">OPvPCapturePoint</a> *&#160;&#160;&#160;<a class="el" href="../../d3/d6d/a08204.html#a565624b690fa7fabf21b175548765652">OPvPObj</a></td></tr>
+<tr class="separator:afcf07e236aeef6435380da9b4eb3f052"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2e3c013200ddb2d1ed715cbe782f3f34"><td class="memItemLeft" valign="top">}&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6d/a08204.html#a2e3c013200ddb2d1ed715cbe782f3f34">CapturePoint</a></td></tr>
+<tr class="separator:a2e3c013200ddb2d1ed715cbe782f3f34"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4e0db5725de95765e8eb9e4c7b612f52"><td class="memItemLeft" >struct {</td></tr>
+<tr class="memitem:a9a09bfc7d3b9dcdfe3eacd66bf6c570a"><td class="memItemLeft" >&#160;&#160;&#160;<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d3/d6d/a08204.html#af70b72663064c9c4b88c93a824f1e14b">Health</a></td></tr>
+<tr class="separator:a9a09bfc7d3b9dcdfe3eacd66bf6c570a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa831c7c13d34e95b46ea2f2e0946efc3"><td class="memItemLeft" >&#160;&#160;&#160;<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;&#160;&#160;<a class="el" href="../../d3/d6d/a08204.html#ab606f11596c1dd3d1cf7588346338721">MaxHealth</a></td></tr>
+<tr class="separator:aa831c7c13d34e95b46ea2f2e0946efc3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4e0db5725de95765e8eb9e4c7b612f52"><td class="memItemLeft" valign="top">}&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d6d/a08204.html#a4e0db5725de95765e8eb9e4c7b612f52">Building</a></td></tr>
+<tr class="separator:a4e0db5725de95765e8eb9e4c7b612f52"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="afddf48b02eea5399d818468cdf8795c5" name="afddf48b02eea5399d818468cdf8795c5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afddf48b02eea5399d818468cdf8795c5">&#9670;&#160;</a></span>PositionXYZOStreamer()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">Position::PositionXYZOStreamer::PositionXYZOStreamer </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/d3b/a08192.html">Position</a> &amp;&#160;</td>
-          <td class="paramname"><em>pos</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   52</span>: <a class="code hl_variable" href="../../d3/d6d/a08204.html#a6c2be4021912b753ed7da07f1c6a7464">m_pos</a>(&amp;pos) {}</div>
-<div class="ttc" id="aa08204_html_a6c2be4021912b753ed7da07f1c6a7464"><div class="ttname"><a href="../../d3/d6d/a08204.html#a6c2be4021912b753ed7da07f1c6a7464">Position::PositionXYZOStreamer::m_pos</a></div><div class="ttdeci">Position * m_pos</div><div class="ttdef"><b>Definition:</b> Position.h:53</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="a6c2be4021912b753ed7da07f1c6a7464" name="a6c2be4021912b753ed7da07f1c6a7464"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6c2be4021912b753ed7da07f1c6a7464">&#9670;&#160;</a></span>m_pos</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="aa443028e95ae416e09f1acfef0575803" name="aa443028e95ae416e09f1acfef0575803"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa443028e95ae416e09f1acfef0575803">&#9670;&#160;</a></span>AnimationInfo</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../dc/d3b/a08192.html">Position</a>* Position::PositionXYZOStreamer::m_pos</td>
+          <td class="memname"><a class="el" href="../../dd/d9c/a09928.html">TransportAnimation</a> const* GameObjectValue::AnimationInfo</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00204">operator&lt;&lt;()</a>, and <a class="el" href="../../#l00180">operator&gt;&gt;()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00727">StaticTransport::Create()</a>, <a class="el" href="../../#l00136">StaticTransport::GetPeriod()</a>, <a class="el" href="../../#l00913">StaticTransport::RelocateToProgress()</a>, and <a class="el" href="../../#l00860">StaticTransport::Update()</a>.</p>
+
+</div>
+</div>
+<a id="a4e0db5725de95765e8eb9e4c7b612f52" name="a4e0db5725de95765e8eb9e4c7b612f52"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4e0db5725de95765e8eb9e4c7b612f52">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  GameObjectValue::Building</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00254">GameObject::Create()</a>, <a class="el" href="../../#l02269">GameObject::ModifyHealth()</a>, and <a class="el" href="../../#l02332">GameObject::SetDestructibleState()</a>.</p>
+
+</div>
+</div>
+<a id="a2e3c013200ddb2d1ed715cbe782f3f34" name="a2e3c013200ddb2d1ed715cbe782f3f34"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2e3c013200ddb2d1ed715cbe782f3f34">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  GameObjectValue::CapturePoint</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a7189213e185263aea30075db9816c1c8" name="a7189213e185263aea30075db9816c1c8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7189213e185263aea30075db9816c1c8">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  GameObjectValue::FishingHole</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00254">GameObject::Create()</a>, <a class="el" href="../../#l00270">WorldSession::DoLootRelease()</a>, and <a class="el" href="../../#l00443">GameObject::Update()</a>.</p>
+
+</div>
+</div>
+<a id="af70b72663064c9c4b88c93a824f1e14b" name="af70b72663064c9c4b88c93a824f1e14b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af70b72663064c9c4b88c93a824f1e14b">&#9670;&#160;</a></span>Health</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GameObjectValue::Health</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00254">GameObject::Create()</a>, <a class="el" href="../../#l02269">GameObject::ModifyHealth()</a>, and <a class="el" href="../../#l02332">GameObject::SetDestructibleState()</a>.</p>
+
+</div>
+</div>
+<a id="ab606f11596c1dd3d1cf7588346338721" name="ab606f11596c1dd3d1cf7588346338721"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab606f11596c1dd3d1cf7588346338721">&#9670;&#160;</a></span>MaxHealth</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GameObjectValue::MaxHealth</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00254">GameObject::Create()</a>, <a class="el" href="../../#l02269">GameObject::ModifyHealth()</a>, and <a class="el" href="../../#l02332">GameObject::SetDestructibleState()</a>.</p>
+
+</div>
+</div>
+<a id="a07ed76d692ae0af008e2373f3f9fd3e9" name="a07ed76d692ae0af008e2373f3f9fd3e9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a07ed76d692ae0af008e2373f3f9fd3e9">&#9670;&#160;</a></span>MaxOpens</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GameObjectValue::MaxOpens</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00254">GameObject::Create()</a>, <a class="el" href="../../#l00270">WorldSession::DoLootRelease()</a>, and <a class="el" href="../../#l00443">GameObject::Update()</a>.</p>
+
+</div>
+</div>
+<a id="a565624b690fa7fabf21b175548765652" name="a565624b690fa7fabf21b175548765652"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a565624b690fa7fabf21b175548765652">&#9670;&#160;</a></span>OPvPObj</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../db/d67/a10172.html">OPvPCapturePoint</a>* GameObjectValue::OPvPObj</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a9e07a147b2be08a78f052e0cdb817111" name="a9e07a147b2be08a78f052e0cdb817111"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9e07a147b2be08a78f052e0cdb817111">&#9670;&#160;</a></span>PathProgress</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> GameObjectValue::PathProgress</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00043">Transport::GetPathProgress()</a>, and <a class="el" href="../../#l00044">Transport::SetPathProgress()</a>.</p>
+
+</div>
+</div>
+<a id="a7fcf7bf357ba769b28bf031beff95507" name="a7fcf7bf357ba769b28bf031beff95507"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7fcf7bf357ba769b28bf031beff95507">&#9670;&#160;</a></span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct  { ... }  GameObjectValue::Transport</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00727">StaticTransport::Create()</a>, <a class="el" href="../../#l00043">Transport::GetPathProgress()</a>, <a class="el" href="../../#l00136">StaticTransport::GetPeriod()</a>, <a class="el" href="../../#l00913">StaticTransport::RelocateToProgress()</a>, <a class="el" href="../../#l00044">Transport::SetPathProgress()</a>, and <a class="el" href="../../#l00860">StaticTransport::Update()</a>.</p>
 
 </div>
 </div>
@@ -176,8 +303,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../dc/d3b/a08192.html">Position</a></li><li class="navelem"><a class="el" href="../../d3/d6d/a08204.html">PositionXYZOStreamer</a></li>
-    <li class="footer">Generated on Mon Sep 23 2024 20:44:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d6d/a08204.html">GameObjectValue</a></li>
+    <li class="footer">Generated on Mon Oct 27 2025 21:15:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

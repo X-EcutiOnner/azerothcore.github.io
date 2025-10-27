@@ -1,6 +1,6 @@
 var a20532 =
 [
-    [ "npc_ulduar_flames_initialAI", "df/dd6/a20536.html", "df/dd6/a20536" ],
-    [ "npc_ulduar_flames_initial", "d4/d3d/a20532.html#aee0c62a38e3e0958e015faef2c434273", null ],
-    [ "GetAI", "d4/d3d/a20532.html#ac0db78c361324a594220ad644001f4eb", null ]
+    [ "boss_kologarn_armsAI", "df/dd6/a20536.html", "df/dd6/a20536" ],
+    [ "boss_kologarn_arms", "d4/d3d/a20532.html#ad540d28bb4b8a2be0ca0769f114c3eda", null ],
+    [ "GetAI", "d4/d3d/a20532.html#a9ffe4db97d937e01c5ab2008a011f67d", null ]
 ];

@@ -1,7 +1,6 @@
 var a18608 =
 [
-    [ "HandleForceCast", "d6/d71/a18608.html#accc757e0a23103242865f0ce3085f9d9", null ],
-    [ "Load", "d6/d71/a18608.html#a7206571378a0196a8648659628bdeece", null ],
-    [ "PrepareSpellScript", "d6/d71/a18608.html#a8bb6db3eaebab00d3166b24ad1e41158", null ],
-    [ "Register", "d6/d71/a18608.html#ace665321732f59f13b2ef831c71c2f18", null ]
+    [ "npc_icc_lk_checktargetAI", "d4/de5/a18612.html", "d4/de5/a18612" ],
+    [ "npc_icc_lk_checktarget", "d6/d71/a18608.html#a3a2cc943e731e472694dcb13417090da", null ],
+    [ "GetAI", "d6/d71/a18608.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
 ];

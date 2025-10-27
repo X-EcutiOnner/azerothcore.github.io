@@ -1,12 +1,13 @@
 var a11844 =
 [
-    [ "boss_balinda", "d6/d5e/a11844.html#a2f3ce696dbc66843cddc13196800866b", null ],
-    [ "DamageTaken", "d6/d5e/a11844.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
-    [ "JustDied", "d6/d5e/a11844.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
-    [ "JustEngagedWith", "d6/d5e/a11844.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
-    [ "JustSummoned", "d6/d5e/a11844.html#a3c2306326d2f85fbb6766352117a1f91", null ],
-    [ "Reset", "d6/d5e/a11844.html#a1ecfa5d743682997076a47cce44b19f5", null ],
-    [ "UpdateAI", "d6/d5e/a11844.html#af3506dd75baef12fd0328aed21636978", null ],
-    [ "_hasCastIceBlock", "d6/d5e/a11844.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
-    [ "summons", "d6/d5e/a11844.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
+    [ "gm_commandscript", "d6/d5e/a11844.html#a1b24112b70818778755ef9b5b062b2e8", null ],
+    [ "GetCommands", "d6/d5e/a11844.html#a17c725e18324de7aadff260c77d75c45", null ],
+    [ "HandleGMChatCommand", "d6/d5e/a11844.html#a15a18b1179a602da3eeba7e8247fbbac", null ],
+    [ "HandleGMFlyCommand", "d6/d5e/a11844.html#a29829660f39c9bfa4190bbb118f482ba", null ],
+    [ "HandleGMListFullCommand", "d6/d5e/a11844.html#add9bd1e64f98964e68cd1be3df6295e7", null ],
+    [ "HandleGMListIngameCommand", "d6/d5e/a11844.html#ab6d59a1c29bd66b699ae597351b969d9", null ],
+    [ "HandleGMOffCommand", "d6/d5e/a11844.html#a66de9b1d6abaad56419a43d65861b5b3", null ],
+    [ "HandleGMOnCommand", "d6/d5e/a11844.html#afb0f18226aac1f581d09f3b7fe9d0ce7", null ],
+    [ "HandleGMSpectatorCommand", "d6/d5e/a11844.html#ab05933bfefd1f5727bef430eeac2cee9", null ],
+    [ "HandleGMVisibleCommand", "d6/d5e/a11844.html#a7af08caf6d3fba1b6ee29ea90b20fef8", null ]
 ];

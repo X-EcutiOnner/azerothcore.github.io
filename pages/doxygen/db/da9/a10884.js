@@ -1,17 +1,9 @@
 var a10884 =
 [
-    [ "CompactArray", "db/da9/a10884.html#a167096f1966862ec92556b6f5d3aa3b8", null ],
-    [ "CompactArray", "db/da9/a10884.html#a70adda7a73d5c54b1d29668f23778c9f", null ],
-    [ "CompactArray", "db/da9/a10884.html#a757f7d94e52fa821dc1fdb03877574f3", null ],
-    [ "Clear", "db/da9/a10884.html#ae213ad313a4b0688763e882a2010c494", null ],
-    [ "GetMask", "db/da9/a10884.html#a3a421d4ee2e7459cbc945c6c70c1993f", null ],
-    [ "GetSize", "db/da9/a10884.html#a656c3568cd73d10dd6f9cda1809ff509", null ],
-    [ "Insert", "db/da9/a10884.html#a313aedf5c623505860a227149cb64b5a", null ],
-    [ "operator!=", "db/da9/a10884.html#adaade1e09d979a6e98b90253f442a9e5", null ],
-    [ "operator=", "db/da9/a10884.html#a75f0995b55269fc2d0bca87a0294fcb3", null ],
-    [ "operator=", "db/da9/a10884.html#a14d76ffa09769e341dea769424ac586c", null ],
-    [ "operator==", "db/da9/a10884.html#a24c7c9794991ec3bf4ecefa93f8ee23e", null ],
-    [ "operator[]", "db/da9/a10884.html#af146d3e880ec34358ff6a07247f741d8", null ],
-    [ "_contents", "db/da9/a10884.html#a1e0ff07a4905517dc6e92a3615bc36d0", null ],
-    [ "_mask", "db/da9/a10884.html#a85ef9a03e561e385f41de88e6e0f98c0", null ]
+    [ "ItemEnchantTimeUpdate", "db/da9/a10884.html#ade76f6fcc5a2f4032ba1f6a10022de53", null ],
+    [ "Write", "db/da9/a10884.html#ade148bd152f0708ed90d549d8f9feb0a", null ],
+    [ "Duration", "db/da9/a10884.html#ad576ce6011716519a70c6e00e0753a49", null ],
+    [ "ItemGuid", "db/da9/a10884.html#aeff05f6bb1235655b81d21a2f7aecdc8", null ],
+    [ "PlayerGuid", "db/da9/a10884.html#a4623875e38909d8b7300e7d9c703b216", null ],
+    [ "Slot", "db/da9/a10884.html#ad8ddb0dfbe2c07385cc2c95a456086b5", null ]
 ];

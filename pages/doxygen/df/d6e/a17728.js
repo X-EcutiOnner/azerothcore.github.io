@@ -1,9 +1,6 @@
 var a17728 =
 [
-    [ "CalculateDamage", "df/d6e/a17728.html#a6a9e90d9463825b38b69afc234b35b39", null ],
-    [ "PrepareSpellScript", "df/d6e/a17728.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
-    [ "Register", "df/d6e/a17728.html#a2722814a55469e5bae572766ed36309b", null ],
-    [ "RemoveEnergy", "df/d6e/a17728.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
-    [ "StoreEnergy", "df/d6e/a17728.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
-    [ "_energyLeft", "df/d6e/a17728.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
+    [ "npc_stinky_iccAI", "d8/d93/a17732.html", "d8/d93/a17732" ],
+    [ "npc_stinky_icc", "df/d6e/a17728.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
+    [ "GetAI", "df/d6e/a17728.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
 ];

@@ -1,7 +1,6 @@
 var a18032 =
 [
-    [ "HandleScript", "d4/d95/a18032.html#a802f667b20bccd3395c233482aa2485b", null ],
-    [ "PrepareSpellScript", "d4/d95/a18032.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
-    [ "Register", "d4/d95/a18032.html#a730fded490df68f501010f952ceea40b", null ],
-    [ "Validate", "d4/d95/a18032.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
+    [ "PrepareSpellScript", "d4/d95/a18032.html#a9041ce6139de9a48621d6898ddcca673", null ],
+    [ "RecalculateDamage", "d4/d95/a18032.html#abfb7c002577a59864fb2aa069b713c0a", null ],
+    [ "Register", "d4/d95/a18032.html#a4308449e8cbe7ed59598a837024141cb", null ]
 ];

@@ -1,9 +1,8 @@
 var a09396 =
 [
-    [ "NearestHostileUnitCheck", "df/d28/a09396.html#aa1d706a1eb1de6168b568e70008e2d3b", null ],
-    [ "NearestHostileUnitCheck", "df/d28/a09396.html#a2fe620370289850eb0362823de2072d1", null ],
-    [ "operator()", "df/d28/a09396.html#a04c85a77d660bbc74279d1062dabc375", null ],
-    [ "i_playerOnly", "df/d28/a09396.html#a64c5fce466521a6d6d78eeda0708d65e", null ],
-    [ "m_range", "df/d28/a09396.html#a801d56a180e196943cfc2cefb6c5dda5", null ],
-    [ "me", "df/d28/a09396.html#a67cef25e6f725ea42f0377df34d48495", null ]
+    [ "NearestAttackableNoTotemUnitInObjectRangeCheck", "df/d28/a09396.html#a1f0bf90a7b9c57d05c54e3db6827aec1", null ],
+    [ "operator()", "df/d28/a09396.html#a08f8e473914c8a7bddbf26568294c18b", null ],
+    [ "i_obj", "df/d28/a09396.html#a949ff3bcc3530206d83512d293647a2b", null ],
+    [ "i_owner", "df/d28/a09396.html#a64f58427bbab3276bdc53450b33eca12", null ],
+    [ "i_range", "df/d28/a09396.html#af52388830cec17e32b1d368739b4555a", null ]
 ];

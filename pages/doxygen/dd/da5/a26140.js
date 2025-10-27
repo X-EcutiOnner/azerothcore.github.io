@@ -1,9 +1,6 @@
 var a26140 =
 [
-    [ "Load", "dd/da5/a26140.html#ae8329a18e94b3830e19bcbcbdf055dd2", null ],
-    [ "PrepareSpellScript", "dd/da5/a26140.html#a7a082f577937bf9f794bfb21bbc416f1", null ],
-    [ "Register", "dd/da5/a26140.html#a7b8f209bff9c2f1dff96f3d90c66cad4", null ],
-    [ "TriggerHeal", "dd/da5/a26140.html#acad9295c5c6b46bd969a4fb528a8ec25", null ],
-    [ "Validate", "dd/da5/a26140.html#a5f53a97e97f7959c51e1b5947f7c4418", null ],
-    [ "healPct", "dd/da5/a26140.html#a33b4d26c34903e45b7274e369f096ce1", null ]
+    [ "CheckCast", "dd/da5/a26140.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
+    [ "PrepareSpellScript", "dd/da5/a26140.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
+    [ "Register", "dd/da5/a26140.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
 ];

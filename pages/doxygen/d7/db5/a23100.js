@@ -1,6 +1,15 @@
 var a23100 =
 [
-    [ "PrepareAuraScript", "d7/db5/a23100.html#a0dca39c324a5431d4861c1f20a34355e", null ],
-    [ "Register", "d7/db5/a23100.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
-    [ "Update", "d7/db5/a23100.html#a6201eaa3b961e838a535b80679996ada", null ]
+    [ "boss_reliquary_of_soulsAI", "d7/db5/a23100.html#abee29aab1d28a168be3b381d0765a804", null ],
+    [ "AttackStart", "d7/db5/a23100.html#af59a9972dfdb264248e78206ea0d834c", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d7/db5/a23100.html#a67343cecd292c2dc40f8c5a275d95fdf", null ],
+    [ "DoAction", "d7/db5/a23100.html#aa281dd9c7dc0c6f15c2bfcbf60384006", null ],
+    [ "JustDied", "d7/db5/a23100.html#a6e19cb7d94579a70ac11f7173cf930c6", null ],
+    [ "JustEngagedWith", "d7/db5/a23100.html#a88eef17a5f475b38a37b0e1adcc0cbbc", null ],
+    [ "JustSummoned", "d7/db5/a23100.html#ad3c7679c2341951bbeb49aafad7196cd", null ],
+    [ "MoveInLineOfSight", "d7/db5/a23100.html#a315a0ad69f566ff63b06fd0d47ce32d8", null ],
+    [ "PhaseTransitionSpawns", "d7/db5/a23100.html#a96235ed84a30458eb5f76d87ed47dc89", null ],
+    [ "Reset", "d7/db5/a23100.html#a5dc6ec0521e2ddfb63a6818ad2de0d8b", null ],
+    [ "SummonedCreatureDies", "d7/db5/a23100.html#a51ac7df8689bf899eaaf4cde566d8202", null ],
+    [ "UpdateAI", "d7/db5/a23100.html#a4289e678a69e35db5e4ea75fddd7e8e4", null ]
 ];

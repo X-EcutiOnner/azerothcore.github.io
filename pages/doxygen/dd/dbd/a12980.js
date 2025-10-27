@@ -1,12 +1,8 @@
 var a12980 =
 [
-    [ "npc_scarlet_minerAI", "dd/dbd/a12980.html#a7f5ca173103eb4498ce41912bda5da66", null ],
-    [ "InitCartQuest", "dd/dbd/a12980.html#a5d3ece8f2f02a2bae4550a41f55348b0", null ],
-    [ "InitWaypoint", "dd/dbd/a12980.html#a7fe048368b6e0a43b5be501a24773b8c", null ],
-    [ "Reset", "dd/dbd/a12980.html#a2a8660173dc32c38de917049eb33fff8", null ],
-    [ "UpdateAI", "dd/dbd/a12980.html#a48d2c92a4d45d5e59252f9455b82cbbd", null ],
-    [ "WaypointReached", "dd/dbd/a12980.html#a31f4363e269b51d3a002a132b5516dd0", null ],
-    [ "carGUID", "dd/dbd/a12980.html#a963f9c0ca58ce160b43f36f5a9f7dee7", null ],
-    [ "IntroPhase", "dd/dbd/a12980.html#a094c2ee20d13c88805c3de7f9f94b86e", null ],
-    [ "IntroTimer", "dd/dbd/a12980.html#adae2103753dd62699359ff01ac3ba865", null ]
+    [ "CalcPeriodic", "dd/dbd/a12980.html#a493609298c152df8216641ba2e5861cd", null ],
+    [ "PrepareAuraScript", "dd/dbd/a12980.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
+    [ "Register", "dd/dbd/a12980.html#a44002db5980dfc1db816cf61fd446491", null ],
+    [ "Update", "dd/dbd/a12980.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
+    [ "Validate", "dd/dbd/a12980.html#a060e189aaa4396681d42906b65c9196f", null ]
 ];

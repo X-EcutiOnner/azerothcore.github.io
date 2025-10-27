@@ -1,6 +1,6 @@
 var a21104 =
 [
-    [ "HandleEffectPeriodic", "d3/dea/a21104.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
-    [ "PrepareAuraScript", "d3/dea/a21104.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
-    [ "Register", "d3/dea/a21104.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
+    [ "boss_yoggsaron_voiceAI", "dd/d87/a21108.html", "dd/d87/a21108" ],
+    [ "boss_yoggsaron_voice", "d3/dea/a21104.html#ae5d10416bb83e57c0e9d3ef5d6f5adc6", null ],
+    [ "GetAI", "d3/dea/a21104.html#a50abcde0313df06a114a2f5f44a1d481", null ]
 ];

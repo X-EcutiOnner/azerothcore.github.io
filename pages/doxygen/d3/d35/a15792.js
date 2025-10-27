@@ -1,6 +1,7 @@
 var a15792 =
 [
-    [ "instance_zulfarrak_InstanceMapScript", "dc/d3d/a15796.html", "dc/d3d/a15796" ],
-    [ "instance_zulfarrak", "d3/d35/a15792.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
-    [ "GetInstanceScript", "d3/d35/a15792.html#a5f092341e49848c9d321452be2193d56", null ]
+    [ "DelayedWindstoneSummonEvent", "d3/d35/a15792.html#aa97daf8cf3479395ffd6558b6699436a", null ],
+    [ "Execute", "d3/d35/a15792.html#aa413bc8709bc543b89ffb3df42185475", null ],
+    [ "_playerGUID", "d3/d35/a15792.html#ad83bb6d87b569f59e99abcc16517745b", null ],
+    [ "_summon", "d3/d35/a15792.html#af9804d276da5daebab3a37f2c75301ea", null ]
 ];

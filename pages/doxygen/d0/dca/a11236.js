@@ -1,5 +1,5 @@
 var a11236 =
 [
-    [ "groupId", "d0/dca/a11236.html#a71a218d1ea3241f0c72205f7e2f34125", null ],
-    [ "specialFlags", "d0/dca/a11236.html#a2232afb6a6b05e5ea33f40992a09621d", null ]
+    [ "SocketAdded", "d0/dca/a11236.html#a89b23aa46aca3772ad0c0f36f41db537", null ],
+    [ "SocketRemoved", "d0/dca/a11236.html#a4f4ec084812a4191a477f7fa9223fa6e", null ]
 ];

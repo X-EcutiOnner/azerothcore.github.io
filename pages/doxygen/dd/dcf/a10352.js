@@ -1,6 +1,13 @@
 var a10352 =
 [
-    [ "LootScript", "dd/dcf/a10352.html#a57fd5dffc97f62a595f0ff4c2856dbd4", null ],
-    [ "IsDatabaseBound", "dd/dcf/a10352.html#ad60b605eac89be48efd339127e9cb9cd", null ],
-    [ "OnLootMoney", "dd/dcf/a10352.html#a56a57baead49f6815a9979b181a55375", null ]
+    [ "FormulaScript", "dd/dcf/a10352.html#a0c850c1a09bc78a4ceee5f27615d50d7", null ],
+    [ "OnAfterArenaRatingCalculation", "dd/dcf/a10352.html#aa3510b1cfb4661cf6028e1b9f443c865", null ],
+    [ "OnBaseGainCalculation", "dd/dcf/a10352.html#ab154eaf469d5fe3e86c364940816270a", null ],
+    [ "OnBeforeUpdatingPersonalRating", "dd/dcf/a10352.html#a2208a5684c95b936aa9ca1ae863d9682", null ],
+    [ "OnColorCodeCalculation", "dd/dcf/a10352.html#a83893099062d1fb7ce69fe38bf8c4699", null ],
+    [ "OnGainCalculation", "dd/dcf/a10352.html#aa83fab65cc89bd03021da2805e935ffb", null ],
+    [ "OnGrayLevelCalculation", "dd/dcf/a10352.html#affeb57234f961b9e01f5898c7738f38f", null ],
+    [ "OnGroupRateCalculation", "dd/dcf/a10352.html#a1098d29595b4f9206cccf3c3c1dad5f3", null ],
+    [ "OnHonorCalculation", "dd/dcf/a10352.html#a54a5e523ad5a9d3eb2dd061ced2d209f", null ],
+    [ "OnZeroDifferenceCalculation", "dd/dcf/a10352.html#a7755c35bc56e6645e36de08c12a4847d", null ]
 ];

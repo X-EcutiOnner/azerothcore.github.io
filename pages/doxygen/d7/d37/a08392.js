@@ -1,13 +1,10 @@
 var a08392 =
 [
-    [ "FlaggedValuesArray32", "d7/d37/a08392.html#a0680f7b67001783f20d89989a49cbead", null ],
-    [ "AddFlag", "d7/d37/a08392.html#a273ab3607b23881628eb0c5d6a4da288", null ],
-    [ "AddValue", "d7/d37/a08392.html#aacca1261b2a22525e5fd40e5f479aa06", null ],
-    [ "DelFlag", "d7/d37/a08392.html#a3a674b2a7b8d5874f7210372b3e92123", null ],
-    [ "GetFlags", "d7/d37/a08392.html#a314a315eb1c1a76116fe3a31f7be9c68", null ],
-    [ "GetValue", "d7/d37/a08392.html#a87e5949bc041f15449331aceb277e8c4", null ],
-    [ "HasFlag", "d7/d37/a08392.html#a0ea5d977caef5152c71c515259a91f06", null ],
-    [ "SetValue", "d7/d37/a08392.html#ad0d385589befe52103f077723fa2463c", null ],
-    [ "m_flags", "d7/d37/a08392.html#abab31b77efb46fa796275c36964eab91", null ],
-    [ "m_values", "d7/d37/a08392.html#aabd025f47ad522e574f603eb559500f0", null ]
+    [ "SpellCategory", "d7/d37/a08392.html#ad170ffceb499879a4b0d638e9c922703", null ],
+    [ "SpellCategoryCooldown", "d7/d37/a08392.html#a8a33274d71b410f24f110e9a5921ff18", null ],
+    [ "SpellCharges", "d7/d37/a08392.html#a16909465a3a20dbab6e3ca2e3c807f17", null ],
+    [ "SpellCooldown", "d7/d37/a08392.html#a8ef7106595ed25ce23ca2163258d769a", null ],
+    [ "SpellId", "d7/d37/a08392.html#af6973a8a9a258a87a916bcd431c33d8d", null ],
+    [ "SpellPPMRate", "d7/d37/a08392.html#a5b208a667802e4c3766619c96d267287", null ],
+    [ "SpellTrigger", "d7/d37/a08392.html#a39657ff9e561a3c86a671f7b3c78ef98", null ]
 ];

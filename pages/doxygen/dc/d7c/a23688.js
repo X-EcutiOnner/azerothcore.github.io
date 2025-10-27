@@ -1,15 +1,6 @@
 var a23688 =
 [
-    [ "npc_shattered_hand_scout", "dc/d7c/a23688.html#a51a57eaaad75817a9b5a81210e01ed51", null ],
-    [ "DamageTaken", "dc/d7c/a23688.html#ad37c34ae2dee082f1b4eed90bc4a3618", null ],
-    [ "FireArrows", "dc/d7c/a23688.html#aa3043011d7d9e7b7c5826b9afc7581d1", null ],
-    [ "GetPorung", "dc/d7c/a23688.html#a575b12c40aeccd6d0cdd63f71a3b93d6", null ],
-    [ "MoveInLineOfSight", "dc/d7c/a23688.html#a2ddb6fd6aa6221768ff71257f4bdd81b", null ],
-    [ "MovementInform", "dc/d7c/a23688.html#a6f6198c2faf68823b1d4c8237044784b", null ],
-    [ "Reset", "dc/d7c/a23688.html#a1fcf0da2cc4a0554f04b3624b68de598", null ],
-    [ "SetData", "dc/d7c/a23688.html#a9416dd89c4728538971abc5975c7080f", null ],
-    [ "UpdateAI", "dc/d7c/a23688.html#a91c2c7eca064d6eaafe5ecaeca4344b4", null ],
-    [ "_firstZealots", "dc/d7c/a23688.html#a2b5fd63b01e4ecb96b006e3870b37609", null ],
-    [ "_scheduler", "dc/d7c/a23688.html#a376f6eab11f8399493d5d33b5c4ea35a", null ],
-    [ "_zealotGUIDs", "dc/d7c/a23688.html#a26381a05bb007fdb4b7da97a19a878da", null ]
+    [ "CalculateDamage", "dc/d7c/a23688.html#a170fb61e3a7358d42cc6506067fb978a", null ],
+    [ "PrepareSpellScript", "dc/d7c/a23688.html#a197fce87e22a3e4055cabbb925b13aa1", null ],
+    [ "Register", "dc/d7c/a23688.html#aac3c6a6b34af795cb08fc299e763f6a8", null ]
 ];

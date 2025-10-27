@@ -1,5 +1,7 @@
 var a10508 =
 [
-    [ "LogoutCancel", "df/d2f/a10508.html#a179fccf74fa969e6a32492f35d6f28c8", null ],
-    [ "Read", "df/d2f/a10508.html#a9ed27bc4472b7e4e225793b4f2e5a34d", null ]
+    [ "ClientPacket", "df/d2f/a10508.html#aa1d1946c07e248bae5927e83fdad9500", null ],
+    [ "ClientPacket", "df/d2f/a10508.html#a1cdaaacca2695c4366647c7611073ff0", null ],
+    [ "GetOpcode", "df/d2f/a10508.html#aa51558bb8faa96a665fe40b1bddf9d14", null ],
+    [ "Write", "df/d2f/a10508.html#a16e5b9fa05e35fa1e32e33bef2688487", null ]
 ];

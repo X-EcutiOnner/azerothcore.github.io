@@ -1,8 +1,6 @@
 var a17676 =
 [
-    [ "HandlePeriodic", "d7/d8b/a17676.html#a5ff571c616b69bb50c736622feb9ed96", null ],
-    [ "HandleRemove", "d7/d8b/a17676.html#a624887bb5e6d8b72d6c0591661d6ba38", null ],
-    [ "PrepareAuraScript", "d7/d8b/a17676.html#a1b140274e283dd95e28fcb773e30f965", null ],
-    [ "Register", "d7/d8b/a17676.html#abcce83ef6ecbe539a3d8eaef83fb2d33", null ],
-    [ "Validate", "d7/d8b/a17676.html#a94c644e730c51c8edb6a74d68d6228a8", null ]
+    [ "ModAuraValue", "d7/d8b/a17676.html#a359453c6253beb6f729209c6d3d79af7", null ],
+    [ "PrepareSpellScript", "d7/d8b/a17676.html#a4f916abef69782be10cc6be9ba0124f5", null ],
+    [ "Register", "d7/d8b/a17676.html#a4a387df07c88144288c4327ce86b730a", null ]
 ];

@@ -1,6 +1,8 @@
 var a17668 =
 [
-    [ "npc_gunship_rocketeerAI", "d0/d17/a17672.html", "d0/d17/a17672" ],
-    [ "npc_gunship_rocketeer", "da/d40/a17668.html#a7ed2cf258269f239bb73f2f06411db07", null ],
-    [ "GetAI", "da/d40/a17668.html#a4f9c1b09e9e5b9dd337fe9210ab7038c", null ]
+    [ "CheckProc", "da/d40/a17668.html#a11620e4d645b3bfd35924700b5dad289", null ],
+    [ "HandleProc", "da/d40/a17668.html#aa80a032f2ec80aba36f6fe0208412587", null ],
+    [ "PrepareAuraScript", "da/d40/a17668.html#afe04f0cb6539238412253b63dd3c82b9", null ],
+    [ "Register", "da/d40/a17668.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
+    [ "Validate", "da/d40/a17668.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
 ];

@@ -1,14 +1,6 @@
 var a20284 =
 [
-    [ "npc_ulduar_hodir_mageAI", "db/d90/a20284.html#a118059c877151a9f6b2b15a4070e2704", null ],
-    [ "AttackStart", "db/d90/a20284.html#a3217617eb3312c1da34dc7dce590fe0d", null ],
-    [ "CanAIAttack", "db/d90/a20284.html#a66ea56e856fcc706e4f938512def1590", null ],
-    [ "EnterEvadeMode", "db/d90/a20284.html#a6d4cd626dcd58f825a6c88b804bb38a7", null ],
-    [ "JustDied", "db/d90/a20284.html#a0176f8b45c20af1552e1a8b70e307442", null ],
-    [ "MoveInLineOfSight", "db/d90/a20284.html#aaf35c04462b1698e85df64190f4e2c8a", null ],
-    [ "ScheduleAbilities", "db/d90/a20284.html#a7927f399ef1c89b3eb83804fde9b2700", null ],
-    [ "SpellHit", "db/d90/a20284.html#aa814a46a45ce5eb9696c8f6c6de8c521", null ],
-    [ "UpdateAI", "db/d90/a20284.html#acbbe6667360e5bb7576c1ea741c2e2f1", null ],
-    [ "events", "db/d90/a20284.html#a556453c557df0be6a57255e400d98a87", null ],
-    [ "pInstance", "db/d90/a20284.html#ac4677898f5612c01d98ab242c7628e8f", null ]
+    [ "boss_freya_nature_bombAI", "d3/d6f/a20288.html", "d3/d6f/a20288" ],
+    [ "boss_freya_nature_bomb", "db/d90/a20284.html#a18fa6ff862a1b367ac23eb1b7bda0ed4", null ],
+    [ "GetAI", "db/d90/a20284.html#a73e24282c6bb29cf3f6a7da14a4de582", null ]
 ];

@@ -1,7 +1,5 @@
 var a13904 =
 [
-    [ "HandleScript", "d9/d90/a13904.html#ac45614416a710794b3e3a5cee239e28a", null ],
-    [ "PrepareSpellScript", "d9/d90/a13904.html#a832aee6557e27bfa418957297a05bea3", null ],
-    [ "Register", "d9/d90/a13904.html#a2f5d255de09818203e498c0090bdd3fb", null ],
-    [ "Validate", "d9/d90/a13904.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
+    [ "npc_tyrion", "d9/d90/a13904.html#a85b1abd4910729c17099174def6507b1", null ],
+    [ "OnQuestAccept", "d9/d90/a13904.html#af8388a07e52a8c5708434a70d0d28cbb", null ]
 ];

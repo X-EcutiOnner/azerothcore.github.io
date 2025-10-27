@@ -1,6 +1,5 @@
 var a20888 =
 [
-    [ "boss_yoggsaron_death_orbAI", "da/deb/a20888.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
-    [ "UpdateAI", "da/deb/a20888.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
-    [ "_startTimer", "da/deb/a20888.html#aebc8edef5f84219e1c50f2394d129443", null ]
+    [ "achievement_thorim_lose_your_illusion", "da/deb/a20888.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
+    [ "OnCheck", "da/deb/a20888.html#a322df4f30445a84085615925f74a8a6b", null ]
 ];

@@ -1,9 +1,7 @@
 var a11068 =
 [
-    [ "EncryptableAndCompressiblePacket", "df/d8e/a11068.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
-    [ "CompressIfNeeded", "df/d8e/a11068.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
-    [ "NeedsCompression", "df/d8e/a11068.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
-    [ "NeedsEncryption", "df/d8e/a11068.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
-    [ "_encrypt", "df/d8e/a11068.html#a37a68eddad23001a85a4a2f77e237810", null ],
-    [ "SocketQueueLink", "df/d8e/a11068.html#a88f11ce75f439fd290bdc09156d559c2", null ]
+    [ "PetActionSound", "df/d8e/a11068.html#ae20a837d2b3f647d2a1d7c5e398b7b56", null ],
+    [ "Write", "df/d8e/a11068.html#a8627631f2eb7d93cda52ce09a749fb0c", null ],
+    [ "Action", "df/d8e/a11068.html#a25b3a4b44bcda9bec898aca1a88b90ed", null ],
+    [ "UnitGUID", "df/d8e/a11068.html#a32b15c490da02bc5020653a9e9bfbd68", null ]
 ];

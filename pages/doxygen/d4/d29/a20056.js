@@ -1,8 +1,6 @@
 var a20056 =
 [
-    [ "HandleOnEffectApply", "d4/d29/a20056.html#a83ff54727e886161c5568a60833932d1", null ],
-    [ "HandleOnEffectRemove", "d4/d29/a20056.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
-    [ "PrepareAuraScript", "d4/d29/a20056.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
-    [ "Register", "d4/d29/a20056.html#ae07af138c6f9c565799574b4f8343492", null ],
-    [ "Validate", "d4/d29/a20056.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
+    [ "boss_flame_leviathan_defense_turretAI", "da/d14/a20060.html", "da/d14/a20060" ],
+    [ "boss_flame_leviathan_defense_turret", "d4/d29/a20056.html#a939c66ff6c1eb6dfdb3d93b3d0292e40", null ],
+    [ "GetAI", "d4/d29/a20056.html#a1c3726e2b753cda18bd11d8f4ff154db", null ]
 ];

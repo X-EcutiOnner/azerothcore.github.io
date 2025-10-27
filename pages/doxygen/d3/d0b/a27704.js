@@ -1,7 +1,10 @@
 var a27704 =
 [
-    [ "npc_venomhide_hatchlingAI", "db/df4/a27708.html", "db/df4/a27708" ],
-    [ "npc_venomhide_hatchling", "d3/d0b/a27704.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
-    [ "GetAI", "d3/d0b/a27704.html#a96110b752965d751ab7b466c4f67e333", null ],
-    [ "OnGossipHello", "d3/d0b/a27704.html#a404d875592b847ddb9f3250c9d954bfc", null ]
+    [ "go_evil_book_for_dummies", "d3/d0b/a27704.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "d3/d0b/a27704.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "d3/d0b/a27704.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "d3/d0b/a27704.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "d3/d0b/a27704.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "d3/d0b/a27704.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "d3/d0b/a27704.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

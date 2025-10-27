@@ -1,7 +1,7 @@
 var a26044 =
 [
-    [ "HandleKnockBack", "df/da2/a26044.html#a860fb74000a42a7d6f22d17dde93cdf6", null ],
-    [ "PrepareSpellScript", "df/da2/a26044.html#ab951d6403188f178f79311cead8a0a8f", null ],
-    [ "Register", "df/da2/a26044.html#ac62f4fdf003cdd53650fe632b3ed3ef1", null ],
-    [ "Validate", "df/da2/a26044.html#add1bd8f583772d4dfeb20f01b9fac8ed", null ]
+    [ "HandleDummy", "df/da2/a26044.html#a630b3359dcecdb65992df67fbc4b197b", null ],
+    [ "PrepareSpellScript", "df/da2/a26044.html#a9960211eda513e642a386e0ff3bcd4c5", null ],
+    [ "Register", "df/da2/a26044.html#aaa1c9db89ddd7a7590b3b41b377d4cec", null ],
+    [ "Validate", "df/da2/a26044.html#a9af89aba8006d93b8c0ae2ce7143255e", null ]
 ];

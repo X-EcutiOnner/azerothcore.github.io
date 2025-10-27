@@ -1,7 +1,8 @@
 var a21624 =
 [
-    [ "npc_mootoo_the_youngerAI", "df/dc7/a21624.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "df/dc7/a21624.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "df/dc7/a21624.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "df/dc7/a21624.html#ac758a992ed0d62a272930c84d617b348", null ]
+    [ "npc_azure_mage_slayerAI", "df/dc7/a21624.html#af1a57574d70a48b16d70d8a056f54018", null ],
+    [ "Reset", "df/dc7/a21624.html#aabe921f0d4fd147c457779791a7af619", null ],
+    [ "UpdateAI", "df/dc7/a21624.html#a7cc5ea88be6c9cf767a0cd433db7dd73", null ],
+    [ "uiArcaneEmpowermentTimer", "df/dc7/a21624.html#ace0fdd5e4b57e7ce603d2355bfc838dd", null ],
+    [ "uiSpellLockTimer", "df/dc7/a21624.html#ac3c4d2be0dd9ba42e40adccda7100947", null ]
 ];

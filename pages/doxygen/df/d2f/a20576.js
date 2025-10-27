@@ -1,5 +1,6 @@
 var a20576 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_13", "df/d2f/a20576.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
-    [ "OnCheck", "df/d2f/a20576.html#ac91196d094f159932ad871ffa9c0f405", null ]
+    [ "OnPeriodic", "df/d2f/a20576.html#a8a12342f694499043e8ed4446fd92d36", null ],
+    [ "PrepareAuraScript", "df/d2f/a20576.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
+    [ "Register", "df/d2f/a20576.html#a381709d53101832de6b2161c4a33a0d4", null ]
 ];

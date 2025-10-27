@@ -1,7 +1,6 @@
 var a15100 =
 [
-    [ "npc_hivezara_stinger", "dc/d85/a15100.html#ac9438c9dd260a41d6248f2adcc14b555", null ],
-    [ "JustEngagedWith", "dc/d85/a15100.html#a433d31057f1732ef7ef15d2023e18b8a", null ],
-    [ "Reset", "dc/d85/a15100.html#ae8e893c90942a469628c393d5b5380cc", null ],
-    [ "UpdateAI", "dc/d85/a15100.html#a35a6511ebc0301ae0bb22aafc91c8524", null ]
+    [ "instance_dire_maul_InstanceMapScript", "d7/db5/a15104.html", "d7/db5/a15104" ],
+    [ "instance_dire_maul", "dc/d85/a15100.html#a54ac2c7095a99481c7efbe4237533fac", null ],
+    [ "GetInstanceScript", "dc/d85/a15100.html#a7fc2511e0c9475512286006f0bbaed0b", null ]
 ];

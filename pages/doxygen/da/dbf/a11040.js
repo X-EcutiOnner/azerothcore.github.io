@@ -1,6 +1,6 @@
 var a11040 =
 [
-    [ "WorldSession", "da/dbf/a11040.html#a65b5c30bf4f5f118a199e378d903aaf6", null ],
-    [ "Guid", "da/dbf/a11040.html#a46a89b6904e59f39f4e1460a9bb45765", null ],
-    [ "Name", "da/dbf/a11040.html#a4e747a555bde74f97a5fc78287e5e29d", null ]
+    [ "DismissCritter", "da/dbf/a11040.html#a87e35583063b340f014d21cd02c54cab", null ],
+    [ "Read", "da/dbf/a11040.html#a411b65505e8a332ecf9291a670dc38c4", null ],
+    [ "CritterGUID", "da/dbf/a11040.html#a89c071e81c9d39c099c32c4976f15304", null ]
 ];

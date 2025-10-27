@@ -1,6 +1,7 @@
 var a12588 =
 [
-    [ "instance_deadmines_InstanceMapScript", "db/d68/a12592.html", "db/d68/a12592" ],
-    [ "instance_deadmines", "d8/d29/a12588.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
-    [ "GetInstanceScript", "d8/d29/a12588.html#ac5cb65972d52324cedf662cc44dca626", null ]
+    [ "HandlePeriodic", "d8/d29/a12588.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
+    [ "PrepareAuraScript", "d8/d29/a12588.html#aae9d31049889eea5c5f09dd5437de950", null ],
+    [ "Register", "d8/d29/a12588.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
+    [ "Validate", "d8/d29/a12588.html#a462b882e41932f99e3501f32368cf4de", null ]
 ];

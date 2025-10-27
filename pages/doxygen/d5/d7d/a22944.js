@@ -1,12 +1,8 @@
 var a22944 =
 [
-    [ "boss_essence_of_sufferingAI", "d5/d7d/a22944.html#a98de7f0b7d12d0981854129cbeab0d0d", null ],
-    [ "DamageTaken", "d5/d7d/a22944.html#a347ef26e4ecdc83ca80c9fd9a93bd97d", null ],
-    [ "DoAction", "d5/d7d/a22944.html#a08724d74523866969b12d13846eb4c1e", null ],
-    [ "JustEngagedWith", "d5/d7d/a22944.html#aa2fce36768ad6e23a955cd215ca759db", null ],
-    [ "KilledUnit", "d5/d7d/a22944.html#a3699b19f23cf15115ff8c92691a6d334", null ],
-    [ "MovementInform", "d5/d7d/a22944.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
-    [ "Reset", "d5/d7d/a22944.html#affa55b69784d8f881598189c361c986e", null ],
-    [ "UpdateAI", "d5/d7d/a22944.html#abb60432720b3720832ccc83d454a3808", null ],
-    [ "_recentlySpoken", "d5/d7d/a22944.html#a71a28a61e97f6278836649411493484f", null ]
+    [ "npc_parasitic_shadowfiend", "d5/d7d/a22944.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
+    [ "CanAIAttack", "d5/d7d/a22944.html#ac7600aed313f1413cb9b522d60d30329", null ],
+    [ "EnterEvadeMode", "d5/d7d/a22944.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
+    [ "IsSummonedBy", "d5/d7d/a22944.html#a306c696d4243c4525d0a3908a212135d", null ],
+    [ "UpdateAI", "d5/d7d/a22944.html#a2706a4ba7876f299b02d2e720f512af2", null ]
 ];

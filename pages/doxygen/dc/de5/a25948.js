@@ -1,6 +1,7 @@
 var a25948 =
 [
-    [ "HandleEffect", "dc/de5/a25948.html#a41b46d8918b59a1617f383b3eedfe343", null ],
-    [ "PrepareSpellScript", "dc/de5/a25948.html#acfc69e6323292e6c64fbe8d2e10efcdc", null ],
-    [ "Register", "dc/de5/a25948.html#a78f1476ed28eb1e80356dbf3d32918f5", null ]
+    [ "HandleDummy", "dc/de5/a25948.html#ae1321cc7d119e1f2c8c2029f8ada60a3", null ],
+    [ "PrepareSpellScript", "dc/de5/a25948.html#a527f606fd6e583eab56146a689f73e69", null ],
+    [ "Register", "dc/de5/a25948.html#ac34b3d95ea2888a164deaa3db6671e8b", null ],
+    [ "Validate", "dc/de5/a25948.html#a2a414ce6309b0bbbdb3fb4612215ca03", null ]
 ];

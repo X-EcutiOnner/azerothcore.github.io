@@ -1,9 +1,6 @@
 var a15152 =
 [
-    [ "npc_claw_tentacle", "d1/d3d/a15152.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
-    [ "JustDied", "d1/d3d/a15152.html#aa566b417d1b766668133dd1d6a58293f", null ],
-    [ "JustEngagedWith", "d1/d3d/a15152.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
-    [ "Reset", "d1/d3d/a15152.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
-    [ "UpdateAI", "d1/d3d/a15152.html#ae7d521445680167add653717c7ae4c86", null ],
-    [ "_portalGUID", "d1/d3d/a15152.html#ab979781a8f77267348595cfa17341bae", null ]
+    [ "npc_belnistraszAI", "d0/dea/a15156.html", "d0/dea/a15156" ],
+    [ "npc_belnistrasz", "d1/d3d/a15152.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
+    [ "GetAI", "d1/d3d/a15152.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
 ];

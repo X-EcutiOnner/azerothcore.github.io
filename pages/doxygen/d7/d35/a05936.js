@@ -1,6 +1,7 @@
 var a05936 =
 [
-    [ "changed", "d7/d35/a05936.html#af0cf916cd514f64f53f98c108ff63591", null ],
-    [ "counter", "d7/d35/a05936.html#a5ba0b1002e0bfd61ad17b2130a207cb1", null ],
-    [ "date", "d7/d35/a05936.html#a9a6769cf4ca7ba55752adc8cdeba71f5", null ]
+    [ "TransactionWithResultTask", "d7/d35/a05936.html#a98dfb255e7be9d5cf9ed9215b0d5e0e4", null ],
+    [ "Execute", "d7/d35/a05936.html#a2a05fb2aa69032797f2065cb46fe7dc4", null ],
+    [ "GetFuture", "d7/d35/a05936.html#a5bc976207b1d695c8e8c052b0eacc7a6", null ],
+    [ "m_result", "d7/d35/a05936.html#aaf4d587b83977e65089bdbf92fa09ae1", null ]
 ];

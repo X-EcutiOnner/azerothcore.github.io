@@ -1,7 +1,8 @@
 var a17752 =
 [
-    [ "DamageGunship", "dd/d2b/a17752.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
-    [ "PrepareSpellScript", "dd/d2b/a17752.html#aa698d016ae58d665c081976f20ec0385", null ],
-    [ "Register", "dd/d2b/a17752.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
-    [ "Validate", "dd/d2b/a17752.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
+    [ "ResetEncounterEvent", "dd/d2b/a17752.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "dd/d2b/a17752.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "dd/d2b/a17752.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "dd/d2b/a17752.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "dd/d2b/a17752.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

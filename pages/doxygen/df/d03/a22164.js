@@ -1,6 +1,6 @@
 var a22164 =
 [
-    [ "npc_guardian_pavilionAI", "db/d02/a22168.html", "db/d02/a22168" ],
-    [ "npc_guardian_pavilion", "df/d03/a22164.html#aecc7e93f2b50351584049f031362e0f0", null ],
-    [ "GetAI", "df/d03/a22164.html#a89e55b3267cd93ae688573678851c7b9", null ]
+    [ "npc_lake_frogAI", "db/d02/a22168.html", "db/d02/a22168" ],
+    [ "npc_lake_frog", "df/d03/a22164.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "df/d03/a22164.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

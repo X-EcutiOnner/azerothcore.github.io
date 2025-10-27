@@ -1,10 +1,12 @@
 var a01406 =
 [
-    [ "GameEventScript", "df/db8/a10355.html", "df/db8/a10355" ],
-    [ "GameEventHook", "dc/d25/a01406.html#a6f634b591917b5ff2ab57f9739afa44b", [
-      [ "GAMEEVENTHOOK_ON_START", "dc/d25/a01406.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6", null ],
-      [ "GAMEEVENTHOOK_ON_STOP", "dc/d25/a01406.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d", null ],
-      [ "GAMEEVENTHOOK_ON_EVENT_CHECK", "dc/d25/a01406.html#a6f634b591917b5ff2ab57f9739afa44ba584cbf2008c774dd76adfd51e416663f", null ],
-      [ "GAMEEVENTHOOK_END", "dc/d25/a01406.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395", null ]
+    [ "TicketScript", "dd/d72/a10440.html", "dd/d72/a10440" ],
+    [ "TicketHook", "dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72", [
+      [ "TICKETHOOK_ON_TICKET_CREATE", "dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72a048895a23d18ef1c7901256655315a61", null ],
+      [ "TICKETHOOK_ON_TICKET_UPDATE_LAST_CHANGE", "dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72a1777cc276841ae965f3636dc48161374", null ],
+      [ "TICKETHOOK_ON_TICKET_CLOSE", "dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72ac65b75869b3e3fb1dec5db5eb5701f38", null ],
+      [ "TICKETHOOK_ON_TICKET_STATUS_UPDATE", "dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72ad50ae60643438ce57485d63d8492a825", null ],
+      [ "TICKETHOOK_ON_TICKET_RESOLVE", "dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72a77a1b9c3448bbffacadaaa5c542086df", null ],
+      [ "TICKETHOOK_END", "dc/d25/a01406.html#af2de2d4afd6c8a1968e6e4b055620b72a12665f6e053ad59e5e6cb0ca56d92222", null ]
     ] ]
 ];

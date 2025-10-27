@@ -1,7 +1,6 @@
 var a12344 =
 [
-    [ "HandleDummy", "dc/da0/a12344.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
-    [ "PrepareSpellScript", "dc/da0/a12344.html#a6ec124990f202af0c6063c285bf04d88", null ],
-    [ "Register", "dc/da0/a12344.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
-    [ "Validate", "dc/da0/a12344.html#ae35efa08f507aac5b72166a216d01870", null ]
+    [ "boss_warmastervooneAI", "d0/d6b/a12348.html", "d0/d6b/a12348" ],
+    [ "boss_warmaster_voone", "dc/da0/a12344.html#ac363118e4201adccd4be0028a558442f", null ],
+    [ "GetAI", "dc/da0/a12344.html#a560469e60fda04b2c7d8fd3994493868", null ]
 ];

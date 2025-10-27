@@ -1,10 +1,10 @@
 var a15588 =
 [
-    [ "CreatureId", "d5/d69/a15588.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
-    [ "DespTimer", "d5/d69/a15588.html#a0dfec745982b346ac1cd0af672be31fb", null ],
-    [ "SpawnCount", "d5/d69/a15588.html#ad5347ee83eaa00fe0721279099c48433", null ],
-    [ "SpawnTimer", "d5/d69/a15588.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
-    [ "UsedSpawnPoint", "d5/d69/a15588.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
-    [ "WaveTextId", "d5/d69/a15588.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
-    [ "YellTimer", "d5/d69/a15588.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
+    [ "npc_murkdeepAI", "d5/d69/a15588.html#abe78235ecb94e4735a6f8eaad7fe6adc", null ],
+    [ "JustEngagedWith", "d5/d69/a15588.html#ad33de7cb0caffcd255db38204ecfbb1c", null ],
+    [ "Reset", "d5/d69/a15588.html#aa89316a0fe4f99630a4a129aed305e24", null ],
+    [ "UpdateAI", "d5/d69/a15588.html#aeca85a1324791d18ac825401fb8a31e8", null ],
+    [ "events", "d5/d69/a15588.html#ae3d344829aeba22ef0c5947863720390", null ],
+    [ "phase", "d5/d69/a15588.html#a74a3a16cb3f2993aea9c5d6736a6914e", null ],
+    [ "spawnTimer", "d5/d69/a15588.html#a6b139fb5cc0776103934f14be15c34d1", null ]
 ];

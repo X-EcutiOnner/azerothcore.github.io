@@ -1,13 +1,18 @@
 var a21252 =
 [
-    [ "MoveX", "d7/da5/a21252.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
-    [ "MoveY", "d7/da5/a21252.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
-    [ "MoveZ", "d7/da5/a21252.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
-    [ "npc", "d7/da5/a21252.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
-    [ "say", "d7/da5/a21252.html#adcd8647fc0ee9799e24173780209f2d9", null ],
-    [ "SpawnO", "d7/da5/a21252.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
-    [ "SpawnX", "d7/da5/a21252.html#af3ae27adaecafe9a09802bc202973d68", null ],
-    [ "SpawnY", "d7/da5/a21252.html#a749e9c6edcc87f258f250344d652145c", null ],
-    [ "SpawnZ", "d7/da5/a21252.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
-    [ "trigger", "d7/da5/a21252.html#ad2291d89a874c79859b3140754594ed7", null ]
+    [ "boss_ingvar_the_plunderer", "d7/da5/a21252.html#af37159882b0faabe46e6f7c26ea84913", null ],
+    [ "DamageTaken", "d7/da5/a21252.html#a14ec746bb57e77373e4c3f924dd9f952", null ],
+    [ "EnterEvadeMode", "d7/da5/a21252.html#a5bd8e575292b487a3381854f5ae87306", null ],
+    [ "FeignDeath", "d7/da5/a21252.html#afb732c1e7c74e88f63b2c3eee5ba3dd3", null ],
+    [ "JustDied", "d7/da5/a21252.html#ab3b0ea55dfb6bb90f7d60fec7f2ff8ff", null ],
+    [ "JustEngagedWith", "d7/da5/a21252.html#aedd8ccb3ab3b89cae9d80443ffa3edaa", null ],
+    [ "JustSummoned", "d7/da5/a21252.html#a9101d4c988585f221b503971df87621b", null ],
+    [ "KilledUnit", "d7/da5/a21252.html#ae8d5a148c7089f644db8ee686a04a2a8", null ],
+    [ "Reset", "d7/da5/a21252.html#a57ecf5f8008714c3f067afe5a2ec2ffe", null ],
+    [ "UpdateAI", "d7/da5/a21252.html#a59ee4cc1cf9cfe95ac77bdb637d01f71", null ],
+    [ "events", "d7/da5/a21252.html#ae2155e079dc748bfa1026a05916a8534", null ],
+    [ "pInstance", "d7/da5/a21252.html#ad4855d14fe94168f454a6b77a1ce5fde", null ],
+    [ "summons", "d7/da5/a21252.html#a687b5cd37794ff530180f6ba5c208162", null ],
+    [ "ThrowGUID", "d7/da5/a21252.html#af3b3c0ff36d28a3a7151a27a13879fe2", null ],
+    [ "ValkyrGUID", "d7/da5/a21252.html#a556e9720346ba84a858170bfd8e9f358", null ]
 ];

@@ -1,9 +1,6 @@
 var a16664 =
 [
-    [ "npc_concentrated_ballAI", "d5/da9/a16664.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
-    [ "DoAction", "d5/da9/a16664.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
-    [ "MovementInform", "d5/da9/a16664.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
-    [ "MoveToNextPoint", "d5/da9/a16664.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
-    [ "UpdateAI", "d5/da9/a16664.html#a6509ff14639bca29b6877db54102d004", null ],
-    [ "despawning", "d5/da9/a16664.html#a24145c6c4c38b5a1853647d24871090d", null ]
+    [ "npc_toc_boomkinAI", "d7/dd9/a16668.html", "d7/dd9/a16668" ],
+    [ "npc_toc_boomkin", "d5/da9/a16664.html#a17274ff748cd364592a551ad2c547eac", null ],
+    [ "GetAI", "d5/da9/a16664.html#a626fe854faade9bd96cd60b9e6e970bd", null ]
 ];

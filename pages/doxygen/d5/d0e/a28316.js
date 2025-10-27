@@ -1,7 +1,11 @@
 var a28316 =
 [
-    [ "AllocationPct", "d5/d0e/a28316.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
-    [ "Enchantment", "d5/d0e/a28316.html#a45e694082c1dbdeef5229561f617d584", null ],
-    [ "ID", "d5/d0e/a28316.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
-    [ "Name", "d5/d0e/a28316.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
+    [ "icon", "d5/d0e/a28316.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
+    [ "id", "d5/d0e/a28316.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
+    [ "mapId", "d5/d0e/a28316.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
+    [ "worldState", "d5/d0e/a28316.html#a9d745d26316726c861cc5a242f6a4f57", null ],
+    [ "x", "d5/d0e/a28316.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
+    [ "y", "d5/d0e/a28316.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
+    [ "z", "d5/d0e/a28316.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
+    [ "zoneId", "d5/d0e/a28316.html#a0cc33089981237694ca550cba6793a3e", null ]
 ];

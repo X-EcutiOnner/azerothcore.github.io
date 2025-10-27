@@ -1,5 +1,6 @@
 var a26720 =
 [
-    [ "EarthenPowerTargetSelector", "df/db3/a26720.html#a61290afcc621c73682160a4e6a6e0f5d", null ],
-    [ "operator()", "df/db3/a26720.html#a9f3d7e7bdb3a3affa72da57903f28940", null ]
+    [ "HandleEffectPeriodic", "df/db3/a26720.html#ab283b40ceb6dcd0a835550531321ce92", null ],
+    [ "PrepareAuraScript", "df/db3/a26720.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
+    [ "Register", "df/db3/a26720.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
 ];

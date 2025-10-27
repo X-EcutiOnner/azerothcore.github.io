@@ -1,8 +1,6 @@
 var a20692 =
 [
-    [ "boss_thorim_pillarAI", "db/de0/a20692.html#ae00c9e72f14e3f2c94da118a1fe27130", null ],
-    [ "Reset", "db/de0/a20692.html#ae9043ed9b72cc0eda6fb7c859355da57", null ],
-    [ "SpellHit", "db/de0/a20692.html#a1cb3ef9fdfc9e375d15e14b9230dd51e", null ],
-    [ "UpdateAI", "db/de0/a20692.html#afd8e05444eeea620a7ef21e97c345d41", null ],
-    [ "_resetTimer", "db/de0/a20692.html#a6ef7c9e23280564aec1b82eb670bc4f9", null ]
+    [ "npc_ulduar_rocket_strike_triggerAI", "d5/d29/a20696.html", "d5/d29/a20696" ],
+    [ "npc_ulduar_rocket_strike_trigger", "db/de0/a20692.html#a41cc84b04124bb47c24b39a48c9023b1", null ],
+    [ "GetAI", "db/de0/a20692.html#a7715ce6646efa3728c28c4e11b25c2ed", null ]
 ];

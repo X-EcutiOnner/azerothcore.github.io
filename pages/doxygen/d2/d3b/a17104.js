@@ -1,9 +1,6 @@
 var a17104 =
 [
-    [ "npc_pos_after_first_bossAI", "d2/d3b/a17104.html#a622df71849da1e10e2b73068f0adea98", null ],
-    [ "MovementInform", "d2/d3b/a17104.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
-    [ "Reset", "d2/d3b/a17104.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
-    [ "UpdateAI", "d2/d3b/a17104.html#ac45111887fd7833a041355658dd26158", null ],
-    [ "events", "d2/d3b/a17104.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
-    [ "pInstance", "d2/d3b/a17104.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
+    [ "npc_spectral_footmanAI", "d7/d0d/a17108.html", "d7/d0d/a17108" ],
+    [ "npc_spectral_footman", "d2/d3b/a17104.html#a300fb06b896d2d08f9e3671422232ad2", null ],
+    [ "GetAI", "d2/d3b/a17104.html#adbc1b961aba6cefb97dfff3014248735", null ]
 ];

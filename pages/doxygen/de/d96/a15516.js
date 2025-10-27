@@ -1,8 +1,6 @@
 var a15516 =
 [
-    [ "FilterTargets", "de/d96/a15516.html#a47b8055fa1b28968e8323ca98613aa83", null ],
-    [ "HandleScript", "de/d96/a15516.html#a8f7984e510d8947a2ae4b0734409866b", null ],
-    [ "PrepareSpellScript", "de/d96/a15516.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
-    [ "Register", "de/d96/a15516.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
-    [ "Validate", "de/d96/a15516.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
+    [ "npc_muglashAI", "d7/d93/a15520.html", "d7/d93/a15520" ],
+    [ "npc_muglash", "de/d96/a15516.html#a5df1b1cff0acf8be4db77b66f8a0b5f4", null ],
+    [ "GetAI", "de/d96/a15516.html#a7cfeaf756de85b1bd2fff9163e4bd5e3", null ]
 ];

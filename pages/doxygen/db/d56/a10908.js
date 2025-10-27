@@ -1,6 +1,11 @@
 var a10908 =
 [
-    [ "PetLearnedSpell", "db/d56/a10908.html#a5d105cca08515b9550998f2c86b13a1a", null ],
-    [ "Write", "db/d56/a10908.html#a6fd7d4bc907b0bb78c438e6a9159dc69", null ],
-    [ "SpellID", "db/d56/a10908.html#a6ab11b614f13d518a2a007adfbe00ab7", null ]
+    [ "LFGJoin", "db/d56/a10908.html#a50c79bdef7393907673a328bc36ff8ae", null ],
+    [ "Read", "db/d56/a10908.html#a5eca5c5a528cf00f1e6aad99ce5386ed", null ],
+    [ "Achievements", "db/d56/a10908.html#a587e98d4a1c8ff0cacd459298a4193c8", null ],
+    [ "Comment", "db/d56/a10908.html#a3e12e650a1fa573aafd7c03abd970aff", null ],
+    [ "Needs", "db/d56/a10908.html#a313c16e84e2cd0b55551d16273e95917", null ],
+    [ "NoPartialClear", "db/d56/a10908.html#aad54be871d0978034fb69a464fd5b9df", null ],
+    [ "Roles", "db/d56/a10908.html#a5eaccbeb4fc8b21f5398e216589cb99b", null ],
+    [ "Slots", "db/d56/a10908.html#aa14a07716504723283ad80c6357cf53f", null ]
 ];

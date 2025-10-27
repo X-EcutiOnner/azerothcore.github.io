@@ -1,6 +1,8 @@
 var a23604 =
 [
-    [ "HandleScriptEffect", "d0/d81/a23604.html#afae95a49843aa956d627e9bd92f8820f", null ],
-    [ "PrepareSpellScript", "d0/d81/a23604.html#a434945da0a6b64db79cab0e09cbbb286", null ],
-    [ "Register", "d0/d81/a23604.html#a396acb663b8c9151196b8fedea3660c7", null ]
+    [ "boss_hungarfen", "d0/d81/a23604.html#a009b8d34731d2310a53195024b434935", null ],
+    [ "JustEngagedWith", "d0/d81/a23604.html#a3612bb373ecdba4245587fd94257ba62", null ],
+    [ "Reset", "d0/d81/a23604.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
+    [ "UpdateAI", "d0/d81/a23604.html#a1765bd54c04a3479e837b3d0e241300e", null ],
+    [ "_scheduler", "d0/d81/a23604.html#a702185681abb6cfc4add7078ff5bbb52", null ]
 ];

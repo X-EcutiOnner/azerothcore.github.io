@@ -1,9 +1,9 @@
 var a20516 =
 [
-    [ "npc_ulduar_bot_summon_triggerAI", "d7/ddf/a20516.html#a60e0706b9285cdf4b25b6f399cad18e9", null ],
-    [ "DoAction", "d7/ddf/a20516.html#ac5d0e28ee330741da3b287d965537f39", null ],
-    [ "Reset", "d7/ddf/a20516.html#a91207c04ecee6fc0e906133e054bf51b", null ],
-    [ "UpdateAI", "d7/ddf/a20516.html#aebec433e806d4f63f5593db0301612b4", null ],
-    [ "option", "d7/ddf/a20516.html#a98bb19fea19a05127b4b32df039acf05", null ],
-    [ "timer", "d7/ddf/a20516.html#a118d048557b0ed314180299c3cd2bcbc", null ]
+    [ "HandleEffectPeriodic", "d7/ddf/a20516.html#adc6e83abb52a21528c07a1d989818dcf", null ],
+    [ "OnApply", "d7/ddf/a20516.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
+    [ "OnRemove", "d7/ddf/a20516.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
+    [ "PrepareAuraScript", "d7/ddf/a20516.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
+    [ "Register", "d7/ddf/a20516.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
+    [ "Validate", "d7/ddf/a20516.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
 ];

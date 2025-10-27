@@ -1,6 +1,6 @@
 var a18684 =
 [
-    [ "npc_captain_brandonAI", "d3/d43/a18688.html", "d3/d43/a18688" ],
-    [ "npc_captain_brandon", "d9/d5a/a18684.html#ad522dd280882d894b5d32e7c888f2360", null ],
-    [ "GetAI", "d9/d5a/a18684.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
+    [ "npc_the_lich_king_controllerAI", "d3/d43/a18688.html", "d3/d43/a18688" ],
+    [ "npc_the_lich_king_controller", "d9/d5a/a18684.html#a32b14d699737497ba7c90d8ef17557d7", null ],
+    [ "GetAI", "d9/d5a/a18684.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
 ];

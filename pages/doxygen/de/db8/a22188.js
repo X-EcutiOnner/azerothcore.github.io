@@ -1,6 +1,8 @@
 var a22188 =
 [
-    [ "npc_frostbrood_skytalonAI", "db/db7/a22192.html", "db/db7/a22192" ],
-    [ "npc_frostbrood_skytalon", "de/db8/a22188.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "de/db8/a22188.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "HandleEffectApply", "de/db8/a22188.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
+    [ "HandleEffectPeriodic", "de/db8/a22188.html#a183976530ebf604656db12e41449427e", null ],
+    [ "PrepareAuraScript", "de/db8/a22188.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
+    [ "Register", "de/db8/a22188.html#a76be53d506933d4b3c758578b7c33d5f", null ],
+    [ "_posZ", "de/db8/a22188.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
 ];

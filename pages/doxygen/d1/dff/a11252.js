@@ -1,14 +1,8 @@
 var a11252 =
 [
-    [ "IsFitToRequirements", "d1/dff/a11252.html#af1585273701356a591bf9d9483e996a3", null ],
-    [ "areaId", "d1/dff/a11252.html#af7e6f7b027388447a1f99e759975ca09", null ],
-    [ "auraSpell", "d1/dff/a11252.html#adaf2f6f7c56701fe42a2674aca74fba0", null ],
-    [ "autocast", "d1/dff/a11252.html#a38b42b82e4a588e102eb393cc907cd27", null ],
-    [ "gender", "d1/dff/a11252.html#af4314cba9c91fd1e2c09905c17c67d22", null ],
-    [ "questEnd", "d1/dff/a11252.html#a075cc2bc4d8c9663b2bdb2cf8ba77f5f", null ],
-    [ "questEndStatus", "d1/dff/a11252.html#ac6c7ed326628642da138bb3835db9a1d", null ],
-    [ "questStart", "d1/dff/a11252.html#afc99b14a3724fef7c5dd70e976a479a8", null ],
-    [ "questStartStatus", "d1/dff/a11252.html#a7f4466dfd9ab56850a36d0d09ff84798", null ],
-    [ "raceMask", "d1/dff/a11252.html#a402373ff841bd2aa47b4b36a581624cc", null ],
-    [ "spellId", "d1/dff/a11252.html#a8a299d901e2c13cdc3c00d6cf0a856d3", null ]
+    [ "SkillExtraItemEntry", "d1/dff/a11252.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
+    [ "SkillExtraItemEntry", "d1/dff/a11252.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
+    [ "additionalCreateChance", "d1/dff/a11252.html#a299d886468e9caf22f9d6ce80a64c247", null ],
+    [ "newMaxOrEntry", "d1/dff/a11252.html#adfda967d36154b039495f0b289a5c9d1", null ],
+    [ "requiredSpecialization", "d1/dff/a11252.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
 ];

@@ -1,7 +1,10 @@
 var a26892 =
 [
-    [ "HandleDispel", "d5/d5b/a26892.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
-    [ "PrepareAuraScript", "d5/d5b/a26892.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
-    [ "Register", "d5/d5b/a26892.html#a2c67e4327fdd034978d4822311632980", null ],
-    [ "Validate", "d5/d5b/a26892.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
+    [ "CalculateAPAmount", "d5/d5b/a26892.html#abba0772c18bf98696dc1f236da79401e", null ],
+    [ "CalculateResistanceAmount", "d5/d5b/a26892.html#a2db04d2d4af16e34cb69b71dbcd0c066", null ],
+    [ "CalculateSPAmount", "d5/d5b/a26892.html#a4ecc412bb7d5e89a886c9ad4cc562187", null ],
+    [ "CalculateStatAmount", "d5/d5b/a26892.html#a9269eee5ef676c466e662305389988f0", null ],
+    [ "HandleEffectApply", "d5/d5b/a26892.html#aa818ca9c4e7b1320f97931525faff1c4", null ],
+    [ "PrepareAuraScript", "d5/d5b/a26892.html#a5b35686a2ddd761343d811a8472c1c3b", null ],
+    [ "Register", "d5/d5b/a26892.html#a9bf7cd6309b4724462b03c1080324f83", null ]
 ];

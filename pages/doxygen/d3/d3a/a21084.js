@@ -1,10 +1,11 @@
 var a21084 =
 [
-    [ "npc_ulduar_snow_mound", "d3/d3a/a21084.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
-    [ "MoveInLineOfSight", "d3/d3a/a21084.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
-    [ "UpdateAI", "d3/d3a/a21084.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
-    [ "_activated", "d3/d3a/a21084.html#ac48f6985d857276e0e59c2a429f5b359", null ],
-    [ "_count", "d3/d3a/a21084.html#a1856c3bba24842f33720a83e1de40421", null ],
-    [ "_counter", "d3/d3a/a21084.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
-    [ "_scheduler", "d3/d3a/a21084.html#aafe42af9ba1402cad91326eb1037e476", null ]
+    [ "boss_yoggsaron_lich_kingAI", "d3/d3a/a21084.html#a4fcf1be1bc20327ff8daf9c79baabde7", null ],
+    [ "NextStep", "d3/d3a/a21084.html#a4f99e511d6296b56df8ab8fbe53620e6", null ],
+    [ "Reset", "d3/d3a/a21084.html#a4c8f098f245e90685f0f3660028500a8", null ],
+    [ "Say", "d3/d3a/a21084.html#a01217dd4c33b0ccae448aa137e83dd9b", null ],
+    [ "UpdateAI", "d3/d3a/a21084.html#a3cbe18164c993fd034242b3f19d27e31", null ],
+    [ "_checkTimer", "d3/d3a/a21084.html#a8f0234b32612ff56ac6a7429f6e4da09", null ],
+    [ "_running", "d3/d3a/a21084.html#a9d7f0f2a8cf4f421253c8c5a6ec98111", null ],
+    [ "_step", "d3/d3a/a21084.html#a6af98b3daace7852a485983167538f85", null ]
 ];

@@ -1,13 +1,10 @@
 var a26392 =
 [
-    [ "spell_generic_quest_update_entry_SpellScript", "d9/d8b/a26392.html#ac4308aa1d8701e79888046e1c19137a7", null ],
-    [ "HandleDummy", "d9/d8b/a26392.html#a891c357279ecee2e7fce323761607285", null ],
-    [ "PrepareSpellScript", "d9/d8b/a26392.html#a3bf2605d8aa31e694b479f0de9f1703e", null ],
-    [ "Register", "d9/d8b/a26392.html#af04e51cff5344f1acef7607080501736", null ],
-    [ "_despawnTime", "d9/d8b/a26392.html#a0495a98565cd8292c252745956206743", null ],
-    [ "_effIndex", "d9/d8b/a26392.html#a46dd459dc324dfea871c93a0b3b5d8f1", null ],
-    [ "_newEntry", "d9/d8b/a26392.html#ad76d907c9200985e9aa1e2c5006d0c46", null ],
-    [ "_originalEntry", "d9/d8b/a26392.html#ad7d8ddda30c4b9f322ddaee8b014c233", null ],
-    [ "_shouldAttack", "d9/d8b/a26392.html#acf0c48dd134c5e8bb207983e8f520f22", null ],
-    [ "_spellEffect", "d9/d8b/a26392.html#af02e04bbac8a4ad1d84c72b7f337249e", null ]
+    [ "CheckCast", "d9/d8b/a26392.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
+    [ "HandleScript", "d9/d8b/a26392.html#a35b9d69b8147ef06527b8533ef376e72", null ],
+    [ "Load", "d9/d8b/a26392.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
+    [ "PrepareSpellScript", "d9/d8b/a26392.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
+    [ "Register", "d9/d8b/a26392.html#afd716f555ac73287bd268c6124b15b1c", null ],
+    [ "Validate", "d9/d8b/a26392.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
+    [ "_manaAmount", "d9/d8b/a26392.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
 ];

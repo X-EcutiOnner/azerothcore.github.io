@@ -1,9 +1,7 @@
 var a27176 =
 [
-    [ "boss_lethonAI", "da/de1/a27176.html#ac5d53a746f5286776b2e510f1de86790", null ],
-    [ "DamageTaken", "da/de1/a27176.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
-    [ "JustEngagedWith", "da/de1/a27176.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
-    [ "Reset", "da/de1/a27176.html#a0e53d139f64d104557e157a91176a47a", null ],
-    [ "SpellHitTarget", "da/de1/a27176.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
-    [ "_stage", "da/de1/a27176.html#aa267296ee60efc7d39a20dc05afec081", null ]
+    [ "OnProc", "da/de1/a27176.html#a7ab183d734c543be2866c57f1e5cc508", null ],
+    [ "PrepareAuraScript", "da/de1/a27176.html#a31118cda9f29318f4620caf38c09522a", null ],
+    [ "Register", "da/de1/a27176.html#ac27f99aafa92ae85a247c6f25ece8c7b", null ],
+    [ "Validate", "da/de1/a27176.html#aa193bddd2ba9efe70343c5501d737fa4", null ]
 ];

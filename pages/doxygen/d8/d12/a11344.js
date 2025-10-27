@@ -1,6 +1,8 @@
 var a11344 =
 [
-    [ "EffectBase", "d8/d12/a11344.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
-    [ "CheckEffect", "d8/d12/a11344.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
-    [ "ToString", "d8/d12/a11344.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
+    [ "ReflectEvent", "d8/d12/a11344.html#a1669aec08a3a09143c57e4889c8fad08", null ],
+    [ "Execute", "d8/d12/a11344.html#a37fb766d70932e8a431dba363c603531", null ],
+    [ "_caster", "d8/d12/a11344.html#a67ec85597bb887e7b8cb31b818910d1a", null ],
+    [ "_spellInfo", "d8/d12/a11344.html#ae05fc2092226695fa22dd1e72d58bc7b", null ],
+    [ "_targetGUID", "d8/d12/a11344.html#aa9f8c7bf1e22c74f3d134df2cfc014b5", null ]
 ];

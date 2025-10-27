@@ -1,6 +1,7 @@
 var a20428 =
 [
-    [ "OnRemoveStun", "d5/dc8/a20428.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
-    [ "PrepareAuraScript", "d5/dc8/a20428.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
-    [ "Register", "d5/dc8/a20428.html#a3166cfcd2acdcd4460217503d4008367", null ]
+    [ "HandleEffectPeriodic", "d5/dc8/a20428.html#a428d1251465cc9947e7474eab83494e3", null ],
+    [ "PrepareAuraScript", "d5/dc8/a20428.html#aa6bfb37f305531f67fa5fad67c83acb9", null ],
+    [ "Register", "d5/dc8/a20428.html#a3ccee6d2c8ac244f5370d11b6a4492b6", null ],
+    [ "Validate", "d5/dc8/a20428.html#a7d4ede9af946be71bbc5531164ed3f17", null ]
 ];

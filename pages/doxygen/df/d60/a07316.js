@@ -1,20 +1,15 @@
 var a07316 =
 [
-    [ "ArenaMatchmakerRating", "df/d60/a07316.html#aebaba68d0d75e08eb909975d70ab7084", null ],
-    [ "ArenaTeamId", "df/d60/a07316.html#a62d4963600711b2476d6de964fc51f5e", null ],
-    [ "ArenaTeamRating", "df/d60/a07316.html#a167a97bcd0ee298dfc49cabc4193fd3e", null ],
-    [ "ArenaType", "df/d60/a07316.html#a607a585ca374dc2cf9e8f5e460465f22", null ],
-    [ "BgTypeId", "df/d60/a07316.html#aad98458292aca41fc7feb2e63ba5125f", null ],
-    [ "BracketId", "df/d60/a07316.html#a99ed2f2dc9510c77cbe1fdf1497ce5d4", null ],
-    [ "GroupType", "df/d60/a07316.html#af4ad41d00ee448097eb4b7e468f336f8", null ],
-    [ "IsInvitedToBGInstanceGUID", "df/d60/a07316.html#a0261df1066e01602f475e9a08e142883", null ],
-    [ "IsRated", "df/d60/a07316.html#af6bac7c32a8e3e7faf647a4f6b6722a0", null ],
-    [ "JoinTime", "df/d60/a07316.html#a44939a98ff1ec940e42e79faf31a2e9a", null ],
-    [ "OpponentsMatchmakerRating", "df/d60/a07316.html#a558a2febf6dcc2aed2ddedfd1f5d342a", null ],
-    [ "OpponentsTeamRating", "df/d60/a07316.html#adf219cc12cebeaddebf8c04c5004c30a", null ],
-    [ "Players", "df/d60/a07316.html#ae5912a881a5ecaa761ea28c87e6c45ad", null ],
-    [ "PreviousOpponentsTeamId", "df/d60/a07316.html#a2fac6fffa7bec4507fdde7632e2b4df0", null ],
-    [ "RealTeamID", "df/d60/a07316.html#a972df7095f38b6f2617bc12a67ac30f7", null ],
-    [ "RemoveInviteTime", "df/d60/a07316.html#aefe5994744194e7db9110fb36fa9c4bb", null ],
-    [ "teamId", "df/d60/a07316.html#a2303f13880bbac9faf4b1fd4fc6334d5", null ]
+    [ "ModifyMatchmakerRating", "df/d60/a07316.html#aaa6de888c3f85ef8cbe9baa2f997aba1", null ],
+    [ "ModifyPersonalRating", "df/d60/a07316.html#a34401ea82507df97e540c698fa549b5f", null ],
+    [ "Class", "df/d60/a07316.html#a5f6519e8ad3281a09608f8740927fbd3", null ],
+    [ "Guid", "df/d60/a07316.html#ac0dc6765247a0f36b3d3ff527a678010", null ],
+    [ "MatchMakerRating", "df/d60/a07316.html#ac91a344c7aecb72d17841413f5d935da", null ],
+    [ "MaxMMR", "df/d60/a07316.html#afc86e111a1c699254c5ea761d0dda088", null ],
+    [ "Name", "df/d60/a07316.html#a7917e705d8c15bbe2731c32375c34d16", null ],
+    [ "PersonalRating", "df/d60/a07316.html#a03168b1bdc8e6dac30d3b63e692ce854", null ],
+    [ "SeasonGames", "df/d60/a07316.html#ae3724b7268c161d5553b8cc1fae2cf75", null ],
+    [ "SeasonWins", "df/d60/a07316.html#a7239187cef3a02839fe27577ad022ec9", null ],
+    [ "WeekGames", "df/d60/a07316.html#a97906127f7eb1babe2bf2ebcda7c0a88", null ],
+    [ "WeekWins", "df/d60/a07316.html#a5b9e5e02d59569080d34abd9b9728693", null ]
 ];

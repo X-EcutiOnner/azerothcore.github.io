@@ -1,8 +1,7 @@
 var a14416 =
 [
-    [ "CalcPeriodic", "db/d5b/a14416.html#ae2ce9c161a25385c6de1f4b7607c9935", null ],
-    [ "HandleEffectApply", "db/d5b/a14416.html#a4321da69ee59416bd50e621b804e5423", null ],
-    [ "HandleEffectPeriodicUpdate", "db/d5b/a14416.html#a3f23e4a8fecf83ba580c904f15e1e98b", null ],
-    [ "PrepareAuraScript", "db/d5b/a14416.html#a956136be8cb484efc9af2429d8779a03", null ],
-    [ "Register", "db/d5b/a14416.html#a1d4b1c43305b3133e4ac7f8b6ce70727", null ]
+    [ "FilterTargets", "db/d5b/a14416.html#a3498c9eb96bf1a6a85ded114e995850c", null ],
+    [ "HandleDummyEffect", "db/d5b/a14416.html#a3985ca8b79a234e44d9f46ffe6d5b232", null ],
+    [ "PrepareSpellScript", "db/d5b/a14416.html#a03f752d4d4762698e5777a4ae0e395cf", null ],
+    [ "Register", "db/d5b/a14416.html#a9af46e5f2fdb4719d65bb96f2b68a7f8", null ]
 ];

@@ -1,7 +1,7 @@
 var a13136 =
 [
-    [ "HandleEffectApply", "dd/d81/a13136.html#a710536e0a3bacf173d037041e755bd82", null ],
-    [ "HandleEffectRemove", "dd/d81/a13136.html#a16623b3187e98fc50f5a3b8e0297b0ea", null ],
-    [ "PrepareAuraScript", "dd/d81/a13136.html#ab1d5eb39b503f7e08a404cf172b8de96", null ],
-    [ "Register", "dd/d81/a13136.html#a9092818bdb15a12163aae633049cb7f6", null ]
+    [ "npc_scarlet_cannonAI", "dd/d81/a13136.html#a26720b34088b8063544f8c5db3b8d67c", null ],
+    [ "PassengerBoarded", "dd/d81/a13136.html#a71241dfc9b3ebe1f664d0adf03439c41", null ],
+    [ "UpdateAI", "dd/d81/a13136.html#a18ebb585e9b83f3781d3c49de5dc73b5", null ],
+    [ "summonAttackers", "dd/d81/a13136.html#a9e8eeb6995dae9a9d9ec3cb0ca6a07f5", null ]
 ];

@@ -1,6 +1,8 @@
 var a15416 =
 [
-    [ "npc_murkdeepAI", "db/d9f/a15420.html", "db/d9f/a15420" ],
-    [ "npc_murkdeep", "de/d8b/a15416.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
-    [ "GetAI", "de/d8b/a15416.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
+    [ "boss_veklor", "de/d8b/a15416.html#acbbe1a2e6ffcb00a28f7ae5413cd02c1", null ],
+    [ "AttackStart", "de/d8b/a15416.html#a7ecfff13457bf177c1ec250bbee75cbf", null ],
+    [ "IAmVeklor", "de/d8b/a15416.html#a4c43713c24b5537f292be1e0fcaee703", null ],
+    [ "JustEngagedWith", "de/d8b/a15416.html#a05913da666b1715eac68441195dd9df4", null ],
+    [ "SpellHit", "de/d8b/a15416.html#ab5d9ec12c18e360ce2c8749dd97f2ab0", null ]
 ];

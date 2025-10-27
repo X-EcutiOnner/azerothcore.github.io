@@ -1,6 +1,9 @@
 var a27424 =
 [
-    [ "guard_shattrath_scryerAI", "d5/db2/a27428.html", "d5/db2/a27428" ],
-    [ "guard_shattrath_scryer", "df/d9e/a27424.html#a2ee4d6881d7c24cd848c590b84207663", null ],
-    [ "GetAI", "df/d9e/a27424.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
+    [ "ChatLogScript", "df/d9e/a27424.html#ade8c407083cf094f0767412e7b6d7730", null ],
+    [ "OnPlayerChat", "df/d9e/a27424.html#a9dc39835aac01da34c57c420fc82790e", null ],
+    [ "OnPlayerChat", "df/d9e/a27424.html#a64e047261c3d3de22614950c6b6f6f79", null ],
+    [ "OnPlayerChat", "df/d9e/a27424.html#ac9a4dc6a35325a87c69f08f50a26750c", null ],
+    [ "OnPlayerChat", "df/d9e/a27424.html#af6e61405ba6642fa451465e27c4b47d8", null ],
+    [ "OnPlayerChat", "df/d9e/a27424.html#a9962307a0e073ee3f5e7139f059e01b8", null ]
 ];

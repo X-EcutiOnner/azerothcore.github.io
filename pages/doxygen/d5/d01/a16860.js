@@ -1,6 +1,6 @@
 var a16860 =
 [
-    [ "entry", "d5/d01/a16860.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "d5/d01/a16860.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "d5/d01/a16860.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "npc_announcer_toc10", "d5/d01/a16860.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
+    [ "OnGossipHello", "d5/d01/a16860.html#afcc5262e7c49b7456af146de14805a06", null ],
+    [ "OnGossipSelect", "d5/d01/a16860.html#a9a2bf1d3a215332744ca473041cc0520", null ]
 ];

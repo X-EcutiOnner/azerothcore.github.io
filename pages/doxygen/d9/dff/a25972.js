@@ -1,6 +1,7 @@
 var a25972 =
 [
-    [ "OnPeriodic", "d9/dff/a25972.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
-    [ "PrepareAuraScript", "d9/dff/a25972.html#ad3d091510685ebc2d87aadb658cacf58", null ],
-    [ "Register", "d9/dff/a25972.html#a9552ba0f4c18623b6b00ababa034942c", null ]
+    [ "HandleScript", "d9/dff/a25972.html#a5b35bbac405dc2b03f195cb29786d5a6", null ],
+    [ "Load", "d9/dff/a25972.html#a61f1a4514e9900e4e14fded3c0b05593", null ],
+    [ "PrepareSpellScript", "d9/dff/a25972.html#abfac1629b7724a3b17b94480c31867af", null ],
+    [ "Register", "d9/dff/a25972.html#a62b9c194106e261245496441176c8d53", null ]
 ];

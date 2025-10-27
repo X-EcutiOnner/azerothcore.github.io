@@ -1,5 +1,6 @@
 var a15236 =
 [
-    [ "at_twin_emperors", "da/dd8/a15236.html#a343d482857fa0a45c42f593e591f7754", null ],
-    [ "_OnTrigger", "da/dd8/a15236.html#adf3120b7bf611e0246abb2970711ada3", null ]
+    [ "HandleScript", "da/dd8/a15236.html#a7e6ec873a252106ba865bdef05f757f5", null ],
+    [ "PrepareSpellScript", "da/dd8/a15236.html#a98e80c8726c350aca850b6c87c5861da", null ],
+    [ "Register", "da/dd8/a15236.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
 ];

@@ -1,6 +1,6 @@
 var a16772 =
 [
-    [ "HandleScriptEffect", "d0/dde/a16772.html#a90b13b2a093fdd430a383d7ea4126290", null ],
-    [ "PrepareSpellScript", "d0/dde/a16772.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
-    [ "Register", "d0/dde/a16772.html#a53c8d47ee21637055ad901946be1e2c2", null ]
+    [ "boss_gormokAI", "d9/df6/a16776.html", "d9/df6/a16776" ],
+    [ "boss_gormok", "d0/dde/a16772.html#a86ce0681be4370198c44dde5aa98a593", null ],
+    [ "GetAI", "d0/dde/a16772.html#a45cff2e7ee0525de37382cf09b116a32", null ]
 ];

@@ -1,15 +1,9 @@
 var a07268 =
 [
-    [ "ModifyMatchmakerRating", "d1/d58/a07268.html#aaa6de888c3f85ef8cbe9baa2f997aba1", null ],
-    [ "ModifyPersonalRating", "d1/d58/a07268.html#a34401ea82507df97e540c698fa549b5f", null ],
-    [ "Class", "d1/d58/a07268.html#a5f6519e8ad3281a09608f8740927fbd3", null ],
-    [ "Guid", "d1/d58/a07268.html#ac0dc6765247a0f36b3d3ff527a678010", null ],
-    [ "MatchMakerRating", "d1/d58/a07268.html#ac91a344c7aecb72d17841413f5d935da", null ],
-    [ "MaxMMR", "d1/d58/a07268.html#afc86e111a1c699254c5ea761d0dda088", null ],
-    [ "Name", "d1/d58/a07268.html#a7917e705d8c15bbe2731c32375c34d16", null ],
-    [ "PersonalRating", "d1/d58/a07268.html#a03168b1bdc8e6dac30d3b63e692ce854", null ],
-    [ "SeasonGames", "d1/d58/a07268.html#ae3724b7268c161d5553b8cc1fae2cf75", null ],
-    [ "SeasonWins", "d1/d58/a07268.html#a7239187cef3a02839fe27577ad022ec9", null ],
-    [ "WeekGames", "d1/d58/a07268.html#a97906127f7eb1babe2bf2ebcda7c0a88", null ],
-    [ "WeekWins", "d1/d58/a07268.html#a5b9e5e02d59569080d34abd9b9728693", null ]
+    [ "ArenaScore", "d1/d58/a07268.html#a58f1391de4e67750dad211b10704499f", null ],
+    [ "AppendToPacket", "d1/d58/a07268.html#a3fe2ab34a9abc4d8c4ff863334cf2c84", null ],
+    [ "BuildObjectivesBlock", "d1/d58/a07268.html#ac96461b865fc7a9ba0cdfad6ae3fa96f", null ],
+    [ "ToString", "d1/d58/a07268.html#ab04b30f4bfa6b1aa89e08e3195ad3b0b", null ],
+    [ "Arena", "d1/d58/a07268.html#a5f488c25aa439166d145713c67e7d085", null ],
+    [ "PvPTeamId", "d1/d58/a07268.html#a486ee0e05ac5160f0fb174e2a1e061bb", null ]
 ];

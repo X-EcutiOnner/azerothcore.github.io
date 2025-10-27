@@ -1,9 +1,7 @@
 var a22884 =
 [
-    [ "HandleAfterCast", "d8/d0d/a22884.html#a32928b579ef42f377e911ef27197ed61", null ],
-    [ "HandleDummy", "d8/d0d/a22884.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
-    [ "Load", "d8/d0d/a22884.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
-    [ "PrepareSpellScript", "d8/d0d/a22884.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
-    [ "Register", "d8/d0d/a22884.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
-    [ "_targetCount", "d8/d0d/a22884.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
+    [ "npc_voidtraveler", "d8/d0d/a22884.html#a07e473c14836a0612acd52078a93f2d8", null ],
+    [ "Reset", "d8/d0d/a22884.html#a6efe0725917c92657220de2b60579289", null ],
+    [ "UpdateAI", "d8/d0d/a22884.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
+    [ "_scheduler", "d8/d0d/a22884.html#a1809494e7803103f6bc1698e780dcfbc", null ]
 ];

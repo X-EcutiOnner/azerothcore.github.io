@@ -1,8 +1,6 @@
 var a17492 =
 [
-    [ "npc_saurfang_eventAI", "d4/d25/a17492.html#a8436a87576c92ecc0b45106683d20e93", null ],
-    [ "DoAction", "d4/d25/a17492.html#a45201c4a5b94fad948efe1d08e63e262", null ],
-    [ "SetData", "d4/d25/a17492.html#a7f012a54ebce5307940eb7957f028d52", null ],
-    [ "SpellHit", "d4/d25/a17492.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
-    [ "_index", "d4/d25/a17492.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
+    [ "boss_prince_valanarAI", "df/d9d/a17496.html", "df/d9d/a17496" ],
+    [ "boss_prince_valanar_icc", "d4/d25/a17492.html#a7bfa4e13fa5cc19313c7ce9877d1c631", null ],
+    [ "GetAI", "d4/d25/a17492.html#a2f7f58d57f5ed107d1f972d061105fd4", null ]
 ];

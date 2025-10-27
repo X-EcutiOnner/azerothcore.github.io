@@ -1,7 +1,10 @@
 var a28908 =
 [
-    [ "HandleScript", "d9/dac/a28908.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
-    [ "PrepareSpellScript", "d9/dac/a28908.html#ab363d596d2d1e030f0cc07126b40e921", null ],
-    [ "Register", "d9/dac/a28908.html#ab9041b811e80e220828d5db59b724682", null ],
-    [ "Validate", "d9/dac/a28908.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
+    [ "plane", "d4/da2/a28916.html", "d4/da2/a28916" ],
+    [ "prepareLoadedData", "d9/dac/a28908.html#a29dc30be1cb7f5439e023865ff5a4853", null ],
+    [ "fcc", "d9/dac/a28908.html#a8c64958fb4e18bc3bcfaf7dbfde9f178", null ],
+    [ "fcc_txt", "d9/dac/a28908.html#ab768fb1ba27812060cf2edeb5f4b876c", null ],
+    [ "max", "d9/dac/a28908.html#afadebfc1361985b6f5d45c27e22cb303", null ],
+    [ "min", "d9/dac/a28908.html#ac3ebf1557841088ef8912b68fe6df908", null ],
+    [ "size", "d9/dac/a28908.html#af92420cfd862486c73c35ac8a9f9fdee", null ]
 ];

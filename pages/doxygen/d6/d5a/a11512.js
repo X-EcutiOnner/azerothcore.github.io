@@ -1,5 +1,6 @@
 var a11512 =
 [
-    [ "Command", "d6/d5a/a11512.html#af0e8f46d4352430d12f932b5a9e4c44e", null ],
-    [ "Seed", "d6/d5a/a11512.html#a8770c7de1b983d75214d1de39d0c02ab", null ]
+    [ "EffectCalcAmountHandler", "d6/d5a/a11512.html#a4fe66bbf0433e80b602683a278e3a709", null ],
+    [ "Call", "d6/d5a/a11512.html#a4b5af2593dcb80930c6a45b7035767ca", null ],
+    [ "pEffectHandlerScript", "d6/d5a/a11512.html#aa52c8c780dcc157e16d11f8222706f7a", null ]
 ];

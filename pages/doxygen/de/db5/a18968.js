@@ -1,6 +1,7 @@
 var a18968 =
 [
-    [ "npc_ioc_gunship_captainAI", "d6/d10/a18972.html", "d6/d10/a18972" ],
-    [ "npc_ioc_gunship_captain", "de/db5/a18968.html#a6463d7bc12d5fe4fc8921ba5916ec906", null ],
-    [ "GetAI", "de/db5/a18968.html#a43f3ce178df31fbf693acbfa8c32a339", null ]
+    [ "HandleEffectPeriodic", "de/db5/a18968.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
+    [ "PrepareAuraScript", "de/db5/a18968.html#af1d284c4686f739b02b350a6c0a166c2", null ],
+    [ "Register", "de/db5/a18968.html#a006a97823ac07346771ec4ab61bd0763", null ],
+    [ "Validate", "de/db5/a18968.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
 ];

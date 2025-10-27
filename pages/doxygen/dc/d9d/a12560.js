@@ -1,24 +1,9 @@
 var a12560 =
 [
-    [ "instance_molten_core_InstanceMapScript", "dc/d9d/a12560.html#aac834ca3723fbe4cdba2d2813feb0451", null ],
-    [ "CheckMajordomoExecutus", "dc/d9d/a12560.html#ae1a8863f382d142b1d8722065f20949e", null ],
-    [ "DoAction", "dc/d9d/a12560.html#a0849a6d1a98b6c49cca7341f6341179c", null ],
-    [ "GetGuidData", "dc/d9d/a12560.html#a644bfe3309b765ba8df750acdb81d496", null ],
-    [ "OnCreatureCreate", "dc/d9d/a12560.html#ace732c2df084275ae3af76b612c1a098", null ],
-    [ "OnCreatureRemove", "dc/d9d/a12560.html#af45a1eb74e5e59f98808d2a54ea00b0f", null ],
-    [ "OnGameObjectCreate", "dc/d9d/a12560.html#aee70a5df7498eba0bba840870c0b5cf3", null ],
-    [ "OnPlayerEnter", "dc/d9d/a12560.html#aaadc39f4b4032cc59105525ce6a7b6a8", null ],
-    [ "SetBossState", "dc/d9d/a12560.html#a38a20534aeb08f52fbf6e57f49763bdd", null ],
-    [ "SummonMajordomoExecutus", "dc/d9d/a12560.html#abee5c9c60893401fb5df17dbe2ccead9", null ],
-    [ "_cacheOfTheFirelordGUID", "dc/d9d/a12560.html#a080decfc444d3d89f0334a76bfb5e757", null ],
-    [ "_circlesGUIDs", "dc/d9d/a12560.html#ac87977d4b94ceccad965c00cab772cbe", null ],
-    [ "_garrGUID", "dc/d9d/a12560.html#a44a6c18c9e1d279cfb16a087d1313845", null ],
-    [ "_golemaggGUID", "dc/d9d/a12560.html#a42ba68922c644e8a3c752bdaefbadb57", null ],
-    [ "_golemaggMinionsGUIDS", "dc/d9d/a12560.html#afe5ea95bd9fc8fa7e1d3d737bad8923c", null ],
-    [ "_lavaSplashGUID", "dc/d9d/a12560.html#a7bdd42ce9cf698f6d78fde784ac0b32f", null ],
-    [ "_lavaSteamGUID", "dc/d9d/a12560.html#aaa5552c50b504a3a3e2d5534840a52cf", null ],
-    [ "_magmadarGUID", "dc/d9d/a12560.html#a2a46b6d841d988dce9c5e54b19a1967a", null ],
-    [ "_majordomoExecutusGUID", "dc/d9d/a12560.html#a88215e741eec8be55882290de22f5c69", null ],
-    [ "_ragnarosGUID", "dc/d9d/a12560.html#a8d512fa12205db57c322b0734b344717", null ],
-    [ "_runesGUIDs", "dc/d9d/a12560.html#ae259af00a4f2a349795d08d969f93fe2", null ]
+    [ "boss_baron_geddonAI", "dc/d9d/a12560.html#a3a85b2a6e958a965e52a9fde87c08177", null ],
+    [ "DamageTaken", "dc/d9d/a12560.html#ad339cb7149b50cf5accc24b5a2d0bf82", null ],
+    [ "ExecuteEvent", "dc/d9d/a12560.html#a2c3ed57dd0336ce8ac1a85c957da9e4a", null ],
+    [ "JustEngagedWith", "dc/d9d/a12560.html#a8c5e43b4b4e0583db7dcc93694202bd8", null ],
+    [ "Reset", "dc/d9d/a12560.html#aaf47fc993e672877f51b5095f682906c", null ],
+    [ "armageddonCasted", "dc/d9d/a12560.html#a1a034601a7dda94becbf1801bda63d55", null ]
 ];

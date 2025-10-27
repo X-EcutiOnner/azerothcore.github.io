@@ -1,6 +1,6 @@
 var a21484 =
 [
-    [ "npc_azure_mage_slayerAI", "db/d54/a21488.html", "db/d54/a21488" ],
-    [ "npc_azure_mage_slayer", "d0/deb/a21484.html#ad5e5453235c224f4fac40244516dd1ad", null ],
-    [ "GetAI", "d0/deb/a21484.html#a9b795915100f47b11a65abdfdcbf39f4", null ]
+    [ "instance_vault_of_archavon_InstanceMapScript", "db/d54/a21488.html", "db/d54/a21488" ],
+    [ "instance_vault_of_archavon", "d0/deb/a21484.html#a0be8d95ff0f3b751e6f833689e436310", null ],
+    [ "GetInstanceScript", "d0/deb/a21484.html#abb955a8873a3a3021e164225dd1f857a", null ]
 ];

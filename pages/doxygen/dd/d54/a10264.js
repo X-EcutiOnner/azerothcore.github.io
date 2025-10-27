@@ -1,15 +1,6 @@
 var a10264 =
 [
-    [ "AuctionHouseScript", "dd/d54/a10264.html#af3e9ec3b9834f9d72106430af40e8727", null ],
-    [ "OnAuctionAdd", "dd/d54/a10264.html#a39d172304de882d87f87e14d1df107da", null ],
-    [ "OnAuctionExpire", "dd/d54/a10264.html#a32e9d0decc7d341198accc84dbc4e1ab", null ],
-    [ "OnAuctionRemove", "dd/d54/a10264.html#aed67026e34ef7e8dd4d975d0b0620463", null ],
-    [ "OnAuctionSuccessful", "dd/d54/a10264.html#a57f1ea958e80a30031eded088dd3c8af", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionCancelledToBidderMail", "dd/d54/a10264.html#a067633221bf8e745c9ae7c4abee13fba", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionExpiredMail", "dd/d54/a10264.html#a622ac5271fb3a5ecf6444fb7fde17ed9", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionOutbiddedMail", "dd/d54/a10264.html#acfc00998027675d76436d4d05f578f8c", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionSalePendingMail", "dd/d54/a10264.html#a3bb999a955b7b8670264c859094fe9a0", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionSuccessfulMail", "dd/d54/a10264.html#a0ae714b1349e20e4303523fd551874b3", null ],
-    [ "OnBeforeAuctionHouseMgrSendAuctionWonMail", "dd/d54/a10264.html#a050a47e57df42faa26c8d500b7848ecf", null ],
-    [ "OnBeforeAuctionHouseMgrUpdate", "dd/d54/a10264.html#a6b7ee2a551424c5a8442ce089d0fd1fc", null ]
+    [ "ALEScript", "dd/d54/a10264.html#a3949e8bd9d83297871c60778f3fe9f9e", null ],
+    [ "CanAreaTrigger", "dd/d54/a10264.html#ad5d8f66949b0f7638dd85ccba4c569d0", null ],
+    [ "OnWeatherChange", "dd/d54/a10264.html#a109b1cb14f602065ce4346d0370407a7", null ]
 ];

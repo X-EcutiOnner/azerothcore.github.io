@@ -1,10 +1,6 @@
 var a14160 =
 [
-    [ "npc_zealot_lorkhan", "dc/dbc/a14160.html#a7df2ab658c1fda0d130815581ffbae4e", null ],
-    [ "JustDied", "dc/dbc/a14160.html#abda06af9ccc78763e70ebf98f0a9dc03", null ],
-    [ "JustEngagedWith", "dc/dbc/a14160.html#a7cb7da94799fa1689a5f16ef33d4d874", null ],
-    [ "Reset", "dc/dbc/a14160.html#abecbd4a2ea2cf3281244933fe7484239", null ],
-    [ "UpdateAI", "dc/dbc/a14160.html#a68c35734f8886b2c241dcbc178899206", null ],
-    [ "_scheduler", "dc/dbc/a14160.html#a50ded84f7cdb698118b406c9cfab7e5c", null ],
-    [ "instance", "dc/dbc/a14160.html#aa677f42d562fa6dc90a4913eed3763c8", null ]
+    [ "npc_zulian_prowlerAI", "da/d18/a14164.html", "da/d18/a14164" ],
+    [ "npc_zulian_prowler", "dc/dbc/a14160.html#a27ae990985976d02bb221b6d669fa849", null ],
+    [ "GetAI", "dc/dbc/a14160.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
 ];

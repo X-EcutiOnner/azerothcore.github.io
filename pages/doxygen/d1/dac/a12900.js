@@ -1,7 +1,5 @@
 var a12900 =
 [
-    [ "HandleScriptEffect", "d1/dac/a12900.html#a1b196f3817c16fac48392981b58c1a05", null ],
-    [ "PrepareSpellScript", "d1/dac/a12900.html#ad44566ff9a44057679e7ce8e1959776d", null ],
-    [ "Register", "d1/dac/a12900.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
-    [ "Validate", "d1/dac/a12900.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
+    [ "at_karazhan_mirkblood_approach", "d1/dac/a12900.html#a032600991e9fc1aaf026adf2e63314e5", null ],
+    [ "OnTrigger", "d1/dac/a12900.html#aaece848faa4f1086ac0b16802a1e765e", null ]
 ];

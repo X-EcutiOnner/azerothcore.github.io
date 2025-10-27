@@ -1,6 +1,6 @@
 var a24520 =
 [
-    [ "HandleAfterCast", "de/d6b/a24520.html#aaa65e67362ded5318e89272acf073bf3", null ],
-    [ "PrepareSpellScript", "de/d6b/a24520.html#a7d0dd936965845c14e7b54846facdb89", null ],
-    [ "Register", "de/d6b/a24520.html#ab7b767743d62d9763bea710b7552a8cf", null ]
+    [ "PrepareSpellScript", "de/d6b/a24520.html#a190f6dc3d9b336324da29f627a743fe9", null ],
+    [ "Register", "de/d6b/a24520.html#a3afc8035b852bc31abd3228e88d59819", null ],
+    [ "SetDest", "de/d6b/a24520.html#a85d66a58597954501305ad5b674cc8a2", null ]
 ];

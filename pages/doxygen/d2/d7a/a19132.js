@@ -1,6 +1,6 @@
 var a19132 =
 [
-    [ "boss_loathebAI", "d2/d5e/a19136.html", "d2/d5e/a19136" ],
-    [ "boss_loatheb", "d2/d7a/a19132.html#a93bf8055a9ed900c880ef8b81b87bafd", null ],
-    [ "GetAI", "d2/d7a/a19132.html#aca9b3a2515777f81b354c01a9727276e", null ]
+    [ "npc_four_car_garageAI", "d2/d7a/a19132.html#a2eedf5934e12d33cda0ac173d82220d5", null ],
+    [ "JustDied", "d2/d7a/a19132.html#a1fba9f03dca2db37b5cb969079b25d22", null ],
+    [ "PassengerBoarded", "d2/d7a/a19132.html#a144bc36a5c4ff227c8a7dc146d4167b6", null ]
 ];

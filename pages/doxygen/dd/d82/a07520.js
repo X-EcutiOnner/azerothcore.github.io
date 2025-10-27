@@ -1,17 +1,13 @@
 var a07520 =
 [
-    [ "ChatHandler", "dd/d82/a07520.html#aae585fad45749fd46fa28d36fdad9760", null ],
-    [ "ChatHandler", "dd/d82/a07520.html#a7ab2c0deb500bef6654274630815bb75", null ],
-    [ "IsHumanReadable", "dd/d82/a07520.html#acd17995bc95b6e449d5e185bfe523b84", null ],
-    [ "ParseCommands", "dd/d82/a07520.html#abd1bb7d3ca143479bd50d908dc1f4136", null ],
-    [ "Send", "dd/d82/a07520.html#a2961b609065a68245d1556d3b32af013", null ],
-    [ "SendAck", "dd/d82/a07520.html#a0e886c68796eb6a2a529186279dd778d", null ],
-    [ "SendFailed", "dd/d82/a07520.html#aa3a06fffce2472b941163d062f1b3569", null ],
-    [ "SendOK", "dd/d82/a07520.html#a8ece640cb81b50ed8e0b90c40ff71f47", null ],
-    [ "SendSysMessage", "dd/d82/a07520.html#a289a9806b8a083e063b8c83ea7016718", null ],
-    [ "SendSysMessage", "dd/d82/a07520.html#ac1ed346507097817b3f8e00f0ae657a0", null ],
-    [ "SendSysMessage", "dd/d82/a07520.html#a1f915beeda589704808dc727c3edcb63", null ],
-    [ "echo", "dd/d82/a07520.html#a9c87777b4249795b41163b2294f44746", null ],
-    [ "hadAck", "dd/d82/a07520.html#a8262279e3e11d7abc952b2ab3b67a99f", null ],
-    [ "humanReadable", "dd/d82/a07520.html#a85407d3478890e8f4c43377de7eb0993", null ]
+    [ "WhoListCacheMgr", "dd/d82/a07520.html#a2190c113c3d38bd316b17a4400c113e6", null ],
+    [ "~WhoListCacheMgr", "dd/d82/a07520.html#ae32706d7786014e142dc1cb9ccd29d70", null ],
+    [ "WhoListCacheMgr", "dd/d82/a07520.html#a366e452317179d647042c24c56faafa1", null ],
+    [ "WhoListCacheMgr", "dd/d82/a07520.html#ae0358ae9260f929410f6518f89135161", null ],
+    [ "GetWhoList", "dd/d82/a07520.html#a4dec6544342fdc5052b69dcc61148453", null ],
+    [ "instance", "dd/d82/a07520.html#a1e8ce970e3213cd0361af303df98b387", null ],
+    [ "operator=", "dd/d82/a07520.html#a80615aa0a66ac29765f27598e605c712", null ],
+    [ "operator=", "dd/d82/a07520.html#ab8aff37f9e66aef40ccb794928bc001c", null ],
+    [ "Update", "dd/d82/a07520.html#a3db2ef832cf1413fb2e565ca0d922a80", null ],
+    [ "_whoListStorage", "dd/d82/a07520.html#a75495cb910c6de65d60a5080248e1e25", null ]
 ];

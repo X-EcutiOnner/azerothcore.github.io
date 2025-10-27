@@ -1,5 +1,5 @@
 var a17184 =
 [
-    [ "endPosition", "d9/d06/a17184.html#a8a88b0191d28ef6af8f41db627552602", null ],
-    [ "entry", "d9/d06/a17184.html#ac4e55af666e269440953ced038c1a8de", null ]
+    [ "at_hor_battered_hilt_start", "d9/d06/a17184.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
+    [ "OnTrigger", "d9/d06/a17184.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
 ];

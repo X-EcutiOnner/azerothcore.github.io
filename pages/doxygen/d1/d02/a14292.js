@@ -1,7 +1,12 @@
 var a14292 =
 [
-    [ "HandleScriptEffect", "d1/d02/a14292.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
-    [ "PrepareSpellScript", "d1/d02/a14292.html#a3d906994c11e52e89c842189be73ddfd", null ],
-    [ "Register", "d1/d02/a14292.html#a4cdab36e2265c696207a39e16549ab13", null ],
-    [ "Validate", "d1/d02/a14292.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
+    [ "npc_chained_spirit", "d1/d02/a14292.html#a5f407e700a2086f971bed0e8c0def0db", null ],
+    [ "DoAction", "d1/d02/a14292.html#a7205ef13ca0d164a9222c049bc582254", null ],
+    [ "JustDied", "d1/d02/a14292.html#a3b405503231173e7ff7aa52e34f63da5", null ],
+    [ "MovementInform", "d1/d02/a14292.html#a469a8fdc4a40857ff1dc0af9ead74d3c", null ],
+    [ "Reset", "d1/d02/a14292.html#a2a8a8a429492511aac697878b5dc4cc3", null ],
+    [ "SetGUID", "d1/d02/a14292.html#a794cf63fabc0c3f7ab9214750fa232a9", null ],
+    [ "UpdateAI", "d1/d02/a14292.html#a38d14b69c71bf2902a916028580fbfad", null ],
+    [ "instance", "d1/d02/a14292.html#ad5dd92208d6a23954fef6348f4abbd23", null ],
+    [ "revivePlayerGUID", "d1/d02/a14292.html#a193fddae1d3eb84bc36842adbb1fe86a", null ]
 ];

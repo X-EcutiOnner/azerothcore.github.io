@@ -1,7 +1,6 @@
 var a19384 =
 [
-    [ "HandlePull", "da/d29/a19384.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "da/d29/a19384.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "da/d29/a19384.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "da/d29/a19384.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "boss_thaddius_summonAI", "df/d6a/a19388.html", "df/d6a/a19388" ],
+    [ "boss_thaddius_summon", "da/d29/a19384.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
+    [ "GetAI", "da/d29/a19384.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
 ];

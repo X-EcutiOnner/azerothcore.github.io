@@ -1,9 +1,6 @@
 var a08372 =
 [
-    [ "Reset", "d5/d95/a08372.html#a9c210ff536b49481f71bc6c3f60ee864", null ],
-    [ "guid", "d5/d95/a08372.html#ac115013e34f67bc1444fef4fc96c843e", null ],
-    [ "pos", "d5/d95/a08372.html#adff317cbf0c2d159d8ffddf52b4751b3", null ],
-    [ "seat", "d5/d95/a08372.html#ad57bea2ae3beb6a086a116989b0d528f", null ],
-    [ "time", "d5/d95/a08372.html#acec3991f0d19fd9f72e9837eef516057", null ],
-    [ "time2", "d5/d95/a08372.html#a426c651d2f359847b033a4d7f278a191", null ]
+    [ "item_count", "d5/d95/a08372.html#a437fe00f34ad414e3c9f81d01a153d13", null ],
+    [ "setid", "d5/d95/a08372.html#ab8c24b76b1c0eb92c0fe52ca9baf293a", null ],
+    [ "spells", "d5/d95/a08372.html#af8156bad9771ed816fd861d3eb992aaa", null ]
 ];

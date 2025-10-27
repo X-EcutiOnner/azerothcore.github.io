@@ -1,6 +1,7 @@
 var a18200 =
 [
-    [ "PeriodicTick", "d4/db8/a18200.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
-    [ "PrepareAuraScript", "d4/db8/a18200.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
-    [ "Register", "d4/db8/a18200.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
+    [ "HandleScript", "d4/db8/a18200.html#a802f667b20bccd3395c233482aa2485b", null ],
+    [ "PrepareSpellScript", "d4/db8/a18200.html#ad371e6387d5df422eaa05acc9efe2f46", null ],
+    [ "Register", "d4/db8/a18200.html#a730fded490df68f501010f952ceea40b", null ],
+    [ "Validate", "d4/db8/a18200.html#a8ec4a10d4d3c348029256fec28a19ed6", null ]
 ];

@@ -1,8 +1,7 @@
 var a25096 =
 [
-    [ "CheckRequirement", "db/dab/a25096.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
-    [ "HandleScript", "db/dab/a25096.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
-    [ "Load", "db/dab/a25096.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
-    [ "PrepareSpellScript", "db/dab/a25096.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
-    [ "Register", "db/dab/a25096.html#a89d053e0ee793017c74188aac32d99d5", null ]
+    [ "CheckProc", "db/dab/a25096.html#ab376febda606dba5e9f7f5639f867859", null ],
+    [ "HandleProc", "db/dab/a25096.html#aa8dac7f0a238f6f131553cbc7a142594", null ],
+    [ "PrepareAuraScript", "db/dab/a25096.html#a7693a86824050ff5615996d0d03d0292", null ],
+    [ "Register", "db/dab/a25096.html#a458745913288889f687bb19a147cb0fb", null ]
 ];

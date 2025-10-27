@@ -1,5 +1,6 @@
 var a20120 =
 [
-    [ "boss_freya_iron_rootAI", "d6/db4/a20120.html#a5e982f5f41433f43a7a0e1d18e009b7b", null ],
-    [ "JustDied", "d6/db4/a20120.html#ad35297f0fa2039749b89d38c2b4f08b9", null ]
+    [ "npc_storm_beacon_spawnAI", "d3/d05/a20124.html", "d3/d05/a20124" ],
+    [ "npc_storm_beacon_spawn", "d6/db4/a20120.html#a0316646f43fd0ed6fe4576bf691116a0", null ],
+    [ "GetAI", "d6/db4/a20120.html#a780dd823962e259dbeda7089224aa23e", null ]
 ];

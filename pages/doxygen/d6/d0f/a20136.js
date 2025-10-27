@@ -1,7 +1,6 @@
 var a20136 =
 [
-    [ "boss_freya_healthy_sporeAI", "d6/d0f/a20136.html#a1f72bc2b113f3b909d44fd54fff87e31", null ],
-    [ "Reset", "d6/d0f/a20136.html#ad6d6562b5cc9f8232bdda99ec2204052", null ],
-    [ "UpdateAI", "d6/d0f/a20136.html#ace79c59d62e597ae31425b4006e1363f", null ],
-    [ "_despawnTimer", "d6/d0f/a20136.html#aaf65ef07480e5c634cc42dac0c7c734c", null ]
+    [ "npc_mechanoliftAI", "da/d2f/a20140.html", "da/d2f/a20140" ],
+    [ "npc_mechanolift", "d6/d0f/a20136.html#a7b753a3426213706c899745a6d0d989b", null ],
+    [ "GetAI", "d6/d0f/a20136.html#a823a929bf65f32cdbe9b56df5d33c66d", null ]
 ];

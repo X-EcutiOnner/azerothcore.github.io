@@ -1,5 +1,5 @@
 var a16096 =
 [
-    [ "at_baltharus_plateau", "d1/d43/a16096.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
-    [ "OnTrigger", "d1/d43/a16096.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
+    [ "PrepareAuraScript", "d1/d43/a16096.html#a94b3a8e0a610afa69c3a9771f8f22b13", null ],
+    [ "Register", "d1/d43/a16096.html#a1203cbec26f64aa97d10783b567c2d62", null ]
 ];

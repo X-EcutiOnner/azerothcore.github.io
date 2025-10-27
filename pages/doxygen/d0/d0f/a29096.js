@@ -1,6 +1,7 @@
 var a29096 =
 [
-    [ "spell_dream_fog_sleep_SpellScript", "db/dad/a29100.html", "db/dad/a29100" ],
-    [ "spell_dream_fog_sleep", "d0/d0f/a29096.html#a679dadd5a280cf4e30f6ff611aaff7d7", null ],
-    [ "GetSpellScript", "d0/d0f/a29096.html#aab87f1f4819623d2837970fab7f7a824", null ]
+    [ "W", "d0/d0f/a29096.html#adc2e55b935dcc2daefd60739bdb31cec", null ],
+    [ "X", "d0/d0f/a29096.html#a2676f1a5ec3a2f69ebb953e4b5741c4b", null ],
+    [ "Y", "d0/d0f/a29096.html#aa3353a9f5afdf3614e37f9681441ae05", null ],
+    [ "Z", "d0/d0f/a29096.html#a533b5e90b6333d89190828f28721e61d", null ]
 ];

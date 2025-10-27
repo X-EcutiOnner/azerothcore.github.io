@@ -1,6 +1,6 @@
 var a14308 =
 [
-    [ "PeriodicTick", "d5/dfd/a14308.html#a0832c36a9497674374b2998398bfc3a4", null ],
-    [ "PrepareAuraScript", "d5/dfd/a14308.html#a89acb64235da1ff59da90a509fbeec9d", null ],
-    [ "Register", "d5/dfd/a14308.html#aab689a2cb84dcd064736171035640584", null ]
+    [ "LaunchHit", "d5/dfd/a14308.html#a10bb54a1a0cd992e9e944870684f3a21", null ],
+    [ "PrepareSpellScript", "d5/dfd/a14308.html#a95e85ecfcc5b72c250a0bc184b1d32a7", null ],
+    [ "Register", "d5/dfd/a14308.html#a19c6111ea0c3506ddc2d8459c192f04f", null ]
 ];

@@ -1,8 +1,13 @@
 var a09800 =
 [
-    [ "BoundaryIntersectBoundary", "d1/d2a/a09800.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
-    [ "~BoundaryIntersectBoundary", "d1/d2a/a09800.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
-    [ "IsWithinBoundaryArea", "d1/d2a/a09800.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
-    [ "_b1", "d1/d2a/a09800.html#ab0239437fa92e39d144bf3856eb347c7", null ],
-    [ "_b2", "d1/d2a/a09800.html#a41e100c17db99990981293399660824c", null ]
+    [ "ServerMail", "d1/d2a/a09800.html#a50cf3e6929e397a3c1de83b9fcf83416", null ],
+    [ "active", "d1/d2a/a09800.html#a24a12fcafd0b0f4a7c0558737d8fd71f", null ],
+    [ "body", "d1/d2a/a09800.html#a58d352611dcb35126f6ec93622ddc4b9", null ],
+    [ "conditions", "d1/d2a/a09800.html#a818b993f72f82a022277e1c8d9160011", null ],
+    [ "id", "d1/d2a/a09800.html#a6b47994eff9201a6a75f8c621b64716c", null ],
+    [ "itemsA", "d1/d2a/a09800.html#a0992466672427c1d24c686bd8fa39378", null ],
+    [ "itemsH", "d1/d2a/a09800.html#ad120200ba47bf8ea8511a46d56f0daec", null ],
+    [ "moneyA", "d1/d2a/a09800.html#a6a84ca583beef891422f67bef7919c47", null ],
+    [ "moneyH", "d1/d2a/a09800.html#a0e899ce54283bc000cc6afb96e6a3244", null ],
+    [ "subject", "d1/d2a/a09800.html#a246e499c69c57a436aac4c039ea37d31", null ]
 ];

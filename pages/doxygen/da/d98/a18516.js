@@ -1,6 +1,7 @@
 var a18516 =
 [
-    [ "npc_the_lich_king_controllerAI", "d7/db1/a18520.html", "d7/db1/a18520" ],
-    [ "npc_the_lich_king_controller", "da/d98/a18516.html#a32b14d699737497ba7c90d8ef17557d7", null ],
-    [ "GetAI", "da/d98/a18516.html#ae9b6dacb0f4e8e6f12f187ab0dfd2165", null ]
+    [ "OnPeriodic", "da/d98/a18516.html#a9635bf496ee3098e412ba7de633250b3", null ],
+    [ "PrepareAuraScript", "da/d98/a18516.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
+    [ "Register", "da/d98/a18516.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
+    [ "Validate", "da/d98/a18516.html#a5675fef373315edd34d096bb91c733b0", null ]
 ];

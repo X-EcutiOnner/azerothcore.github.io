@@ -1,6 +1,10 @@
 var a25620 =
 [
-    [ "HandleActivateObject", "db/d99/a25620.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "db/d99/a25620.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "db/d99/a25620.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "Load", "db/d99/a25620.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
+    [ "OnApply", "db/d99/a25620.html#a83d922c434442e22482410d61aa0198f", null ],
+    [ "OnPetApply", "db/d99/a25620.html#a6df5e59e29cb89310a1c78bf93029545", null ],
+    [ "OnRemove", "db/d99/a25620.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
+    [ "PrepareAuraScript", "db/d99/a25620.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
+    [ "Register", "db/d99/a25620.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
+    [ "Validate", "db/d99/a25620.html#ab318472ea9f4aaa79e45f18783586eed", null ]
 ];

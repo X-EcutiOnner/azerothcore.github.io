@@ -1,7 +1,7 @@
 var a13864 =
 [
-    [ "HandleDispel", "d7/d81/a13864.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "d7/d81/a13864.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "d7/d81/a13864.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "d7/d81/a13864.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "npc_deathstalker_erlandAI", "d7/d81/a13864.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
+    [ "JustEngagedWith", "d7/d81/a13864.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
+    [ "Reset", "d7/d81/a13864.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
+    [ "WaypointReached", "d7/d81/a13864.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ]
 ];

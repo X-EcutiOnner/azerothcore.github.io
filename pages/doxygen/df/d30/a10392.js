@@ -1,10 +1,12 @@
 var a10392 =
 [
-    [ "ArgsType", "df/d30/a10392.html#a4ea4d3b165a196482ebe96af9c462658", null ],
-    [ "AuraScriptType", "df/d30/a10392.html#a7b2a19d6c7c75c0df22eae17b0c8e90a", null ],
-    [ "SpellScriptType", "df/d30/a10392.html#a790a8ef2b59bfe6298486648858506ed", null ],
-    [ "GenericSpellAndAuraScriptLoader", "df/d30/a10392.html#ab1bd69d57c6e2322044b8f7cf46cedb6", null ],
-    [ "GetAuraScript", "df/d30/a10392.html#a5f3c898a0dc6d9085589b88eb5571528", null ],
-    [ "GetSpellScript", "df/d30/a10392.html#a913fa28d2a2cf100ce73cf641e333e01", null ],
-    [ "_args", "df/d30/a10392.html#aad6527f64ede0d896880ffa90d05a378", null ]
+    [ "ItemScript", "df/d30/a10392.html#a0ad18538a834261190356eab549ff192", null ],
+    [ "IsDatabaseBound", "df/d30/a10392.html#ae0ae6754a17b88deaf3648b74a58bb9d", null ],
+    [ "OnCastItemCombatSpell", "df/d30/a10392.html#a08a73378706fdfb0cee5e6214060ad1b", null ],
+    [ "OnExpire", "df/d30/a10392.html#a2ac915f9f966df87a963a328363deb77", null ],
+    [ "OnGossipSelect", "df/d30/a10392.html#a78b540902816ee3b3f9a6b108aa155ab", null ],
+    [ "OnGossipSelectCode", "df/d30/a10392.html#a924268357fec1a667f1184c91ebcef33", null ],
+    [ "OnQuestAccept", "df/d30/a10392.html#a87ab2f706bbb4e71921852d1ae6d78c7", null ],
+    [ "OnRemove", "df/d30/a10392.html#a1c8d706593fce54b1e4627493c38a6d3", null ],
+    [ "OnUse", "df/d30/a10392.html#a0e45d02f07def65de2eb94735189e7f5", null ]
 ];

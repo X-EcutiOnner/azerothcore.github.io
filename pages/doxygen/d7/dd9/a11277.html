@@ -104,25 +104,36 @@ $(document).ready(function(){initNavTree('d2/d50/a11280.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">_SpellScript::EffectHook Member List</div></div>
+  <div class="headertitle"><div class="title">SpellEvent Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../d2/d50/a11280.html">_SpellScript::EffectHook</a>, including all inherited members.</p>
+<p>This is the complete list of members for <a class="el" href="../../d2/d50/a11280.html">SpellEvent</a>, including all inherited members.</p>
 <table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/d50/a11280.html#ae8823c5d649d182f572818bf3db72902">CheckEffect</a>(SpellInfo const *spellInfo, uint8 effIndex)=0</td><td class="entry"><a class="el" href="../../d2/d50/a11280.html">_SpellScript::EffectHook</a></td><td class="entry"><span class="mlabel">pure virtual</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/d50/a11280.html#a4a197e061d918dfba2bc486f3393b00d">EffectHook</a>(uint8 _effIndex)</td><td class="entry"><a class="el" href="../../d2/d50/a11280.html">_SpellScript::EffectHook</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/d50/a11280.html#ab5eb48ef7ac903938f92db0e856e0295">effIndex</a></td><td class="entry"><a class="el" href="../../d2/d50/a11280.html">_SpellScript::EffectHook</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/d50/a11280.html#ab818ed274cfd66ecc565b8535b751517">EffIndexToString</a>()</td><td class="entry"><a class="el" href="../../d2/d50/a11280.html">_SpellScript::EffectHook</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/d50/a11280.html#a31faa86590e22f5ab3ca518f4df02840">GetAffectedEffectsMask</a>(SpellInfo const *spellInfo)</td><td class="entry"><a class="el" href="../../d2/d50/a11280.html">_SpellScript::EffectHook</a></td><td class="entry"></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/d50/a11280.html#a697041ffa562bb6fff792beb159c7af2">IsEffectAffected</a>(SpellInfo const *spellInfo, uint8 effIndex)</td><td class="entry"><a class="el" href="../../d2/d50/a11280.html">_SpellScript::EffectHook</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/d50/a11280.html#aa234f63b530764d12064acbe3f5c9299">~EffectHook</a>()</td><td class="entry"><a class="el" href="../../d2/d50/a11280.html">_SpellScript::EffectHook</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d2/d50/a11280.html#ac21656467ae71def45fd78b9d1fa1c30">Abort</a>(uint64 e_time)</td><td class="entry"><a class="el" href="../../d2/d50/a11280.html">SpellEvent</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/d63/a05528.html#a3f26f839ff35d80af2a8f885ca1a1554">AbortState</a> enum name</td><td class="entry"><a class="el" href="../../df/d63/a05528.html">BasicEvent</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d63/a05528.html#a9c3cd17edab7fc410f88bb680d756975">BasicEvent</a>()=default</td><td class="entry"><a class="el" href="../../df/d63/a05528.html">BasicEvent</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d2/d50/a11280.html#ac8158bfbe916ff6207b2f6608308ae24">Execute</a>(uint64 e_time, uint32 p_time)</td><td class="entry"><a class="el" href="../../d2/d50/a11280.html">SpellEvent</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d63/a05528.html#a4b05df0749b6a18ef0e0b4137e727d7d">IsAborted</a>() const</td><td class="entry"><a class="el" href="../../df/d63/a05528.html">BasicEvent</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/d63/a05528.html#a1ee71d72964b7124e8e137b02c81eac2">IsAbortScheduled</a>() const</td><td class="entry"><a class="el" href="../../df/d63/a05528.html">BasicEvent</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d2/d50/a11280.html#a2ecd9b31bacc717cc509eb9bb69c3cb3">IsDeletable</a>() const</td><td class="entry"><a class="el" href="../../d2/d50/a11280.html">SpellEvent</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/d63/a05528.html#aeb6eb1bb1c54f70d5e0f88cf4e462fc2">IsRunning</a>() const</td><td class="entry"><a class="el" href="../../df/d63/a05528.html">BasicEvent</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d63/a05528.html#afd9cf18b8a00c6195b9120f3fcf7ca69">m_abortState</a></td><td class="entry"><a class="el" href="../../df/d63/a05528.html">BasicEvent</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/d63/a05528.html#ac236835e6298588e834cde7a8c2bfece">m_addTime</a></td><td class="entry"><a class="el" href="../../df/d63/a05528.html">BasicEvent</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d63/a05528.html#a2ee03f01e03347d04eb38a215d10f036">m_eventGroup</a></td><td class="entry"><a class="el" href="../../df/d63/a05528.html">BasicEvent</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/d63/a05528.html#afbd8d5728992e7676fde628fc03dc588">m_execTime</a></td><td class="entry"><a class="el" href="../../df/d63/a05528.html">BasicEvent</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../d2/d50/a11280.html#a22cce1d722f5086932ae3e97c58d2921">m_Spell</a></td><td class="entry"><a class="el" href="../../d2/d50/a11280.html">SpellEvent</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../df/d63/a05528.html#afafade0729f08b8f1193a66f50c18348">ScheduleAbort</a>()</td><td class="entry"><a class="el" href="../../df/d63/a05528.html">BasicEvent</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d63/a05528.html#a9224c2878bff4f6df28bedb973be2d27">SetAborted</a>()</td><td class="entry"><a class="el" href="../../df/d63/a05528.html">BasicEvent</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d2/d50/a11280.html#abca64eb7d39df9788cef9df7e8634368">SpellEvent</a>(Spell *spell)</td><td class="entry"><a class="el" href="../../d2/d50/a11280.html">SpellEvent</a></td><td class="entry"></td></tr>
+  <tr class="even"><td class="entry"><a class="el" href="../../df/d63/a05528.html#a0c3860e1c8854c2db20a225944792afd">~BasicEvent</a>()=default</td><td class="entry"><a class="el" href="../../df/d63/a05528.html">BasicEvent</a></td><td class="entry"><span class="mlabel">virtual</span></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d2/d50/a11280.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e">~SpellEvent</a>()</td><td class="entry"><a class="el" href="../../d2/d50/a11280.html">SpellEvent</a></td><td class="entry"></td></tr>
 </table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Aug 25 2025 20:46:09 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Oct 27 2025 21:16:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

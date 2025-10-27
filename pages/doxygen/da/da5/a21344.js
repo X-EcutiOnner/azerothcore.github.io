@@ -1,6 +1,6 @@
 var a21344 =
 [
-    [ "npc_frozen_orb_stalkerAI", "da/da5/a21344.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
-    [ "JustSummoned", "da/da5/a21344.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
-    [ "Reset", "da/da5/a21344.html#a064ccb90afeb9b36d501850482c60bc4", null ]
+    [ "boss_skadiAI", "d2/d10/a21348.html", "d2/d10/a21348" ],
+    [ "boss_skadi", "da/da5/a21344.html#a124c1c1de7ba232b3256a65547370464", null ],
+    [ "GetAI", "da/da5/a21344.html#a4b66199169442af5ec6542be71c19033", null ]
 ];

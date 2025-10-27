@@ -1,5 +1,6 @@
 var a19372 =
 [
-    [ "achievement_intense_cold", "d7/dc7/a19372.html#a2377357d6bfc03e5b91354428d3da3de", null ],
-    [ "OnCheck", "d7/dc7/a19372.html#ab8a774af80a7fb1764df97c9eea57ffc", null ]
+    [ "FilterTargets", "d7/dc7/a19372.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
+    [ "PrepareSpellScript", "d7/dc7/a19372.html#a452937a4e95b40366f915213ec475a84", null ],
+    [ "Register", "d7/dc7/a19372.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
 ];

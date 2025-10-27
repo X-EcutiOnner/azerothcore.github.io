@@ -1,6 +1,7 @@
 var a10544 =
 [
-    [ "SetSheathed", "db/d25/a10544.html#a0c6ff5057d2ee0c424c8539c0bf99857", null ],
-    [ "Read", "db/d25/a10544.html#ae2158689450e3a9207b6992ea5223106", null ],
-    [ "CurrentSheathState", "db/d25/a10544.html#a8363787ac7959f19234def2707ef0b32", null ]
+    [ "CalendarComplain", "db/d25/a10544.html#a35252d9ee72257a0771f3faa274f8029", null ],
+    [ "Read", "db/d25/a10544.html#ae955f181fe7b36ba360d5b8e9a53db45", null ],
+    [ "ComplainGuid", "db/d25/a10544.html#a3a8ba139be8eef32193658fa235fc4c5", null ],
+    [ "EventId", "db/d25/a10544.html#a3cc5c6b822a697df900826b64b5b9759", null ]
 ];

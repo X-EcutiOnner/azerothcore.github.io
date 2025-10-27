@@ -1,17 +1,8 @@
 var a05152 =
 [
-    [ "Reloadable", "d5/d9c/a05152.html#a5ce3ea201b2a7f6bc16e5594e001680b", [
-      [ "No", "d5/d9c/a05152.html#a5ce3ea201b2a7f6bc16e5594e001680babafd7322c6e97d25b6299b5d6fe8920b", null ],
-      [ "Yes", "d5/d9c/a05152.html#a5ce3ea201b2a7f6bc16e5594e001680ba93cba07454f06a4a960172bbd6e2a435", null ]
-    ] ],
-    [ "ConfigValueCache", "d5/d9c/a05152.html#afc10aa10787175aac1155ab576c44868", null ],
-    [ "BuildConfigCache", "d5/d9c/a05152.html#a8e49c987c471c98f707ffc8c697d959d", null ],
-    [ "GetConfigValue", "d5/d9c/a05152.html#a274d23acbfb0b10d6b1482bf37b41b0c", null ],
-    [ "GetConfigValue", "d5/d9c/a05152.html#a9a3a6bb71fd3c695625d5dc64525fb51", null ],
-    [ "Initialize", "d5/d9c/a05152.html#a3645d00d7d88bac526ab2da095e2893e", null ],
-    [ "OverwriteConfigValue", "d5/d9c/a05152.html#a38f4fd18a5b1bcf1a87736b6e7bf52cf", null ],
-    [ "SetConfigValue", "d5/d9c/a05152.html#a2fd376bdf015db27133e636c3051410f", null ],
-    [ "VerifyAllConfigsLoaded", "d5/d9c/a05152.html#a69bceb7d8f714b478dfe6e6aea29c65a", null ],
-    [ "_configs", "d5/d9c/a05152.html#aaca9aa5722cca588ed3149dc5b5098f3", null ],
-    [ "_reloading", "d5/d9c/a05152.html#a70b2a229ff1caa9924f404f5b98cf801", null ]
+    [ "ComputeCell", "d5/d9c/a05152.html#a32a8b5ab15a28fb06672fcf62ac63d1e", null ],
+    [ "isValid", "d5/d9c/a05152.html#afe64d87e738675f1c8cb0fa6d440029c", null ],
+    [ "operator==", "d5/d9c/a05152.html#a13e8b2fcda561f185777e4d8b48da3f5", null ],
+    [ "x", "d5/d9c/a05152.html#a8435f7d7b8f529dfe397ada59e3405a1", null ],
+    [ "y", "d5/d9c/a05152.html#af3d5ae020727d58286ef7725958063a9", null ]
 ];

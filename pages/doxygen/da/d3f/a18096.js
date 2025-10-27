@@ -1,6 +1,6 @@
 var a18096 =
 [
-    [ "UnchainedMagicTargetSelector", "da/d3f/a18096.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
-    [ "operator()", "da/d3f/a18096.html#af28ce8f46154ae6152e9025775a7f84f", null ],
-    [ "_removeHealers", "da/d3f/a18096.html#a35a7981ce5495cba8b3a5391e4031431", null ]
+    [ "FilterTargets", "da/d3f/a18096.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
+    [ "PrepareSpellScript", "da/d3f/a18096.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
+    [ "Register", "da/d3f/a18096.html#a32e04a1110d651701b8eab1648c69a57", null ]
 ];

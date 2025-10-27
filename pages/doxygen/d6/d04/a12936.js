@@ -1,8 +1,13 @@
 var a12936 =
 [
-    [ "npc_dkc1_gothikAI", "d6/d04/a12936.html#a35e65bd943f86ba3a1d6841569289df6", null ],
-    [ "DoAction", "d6/d04/a12936.html#a3193c562973bbf995ab5e0173a93d01f", null ],
-    [ "MoveInLineOfSight", "d6/d04/a12936.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
-    [ "UpdateAI", "d6/d04/a12936.html#a346d32c9831babe6fb5f675b70b7a897", null ],
-    [ "spoken", "d6/d04/a12936.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
+    [ "boss_roar", "d6/d04/a12936.html#a93e1d81bcff8b31841ae65628759ee7e", null ],
+    [ "DoAction", "d6/d04/a12936.html#a9a2778a803d6d41b256759b29452cc51", null ],
+    [ "EnterEvadeMode", "d6/d04/a12936.html#a198044653632b93838c0f79c06cb7640", null ],
+    [ "JustDied", "d6/d04/a12936.html#a3c79bea69740601ad89f0765f3af99f2", null ],
+    [ "JustEngagedWith", "d6/d04/a12936.html#a1db42b2b1a19ac4a959a51ce17c8ae32", null ],
+    [ "JustReachedHome", "d6/d04/a12936.html#a632929b026815a524bd79748e768e3fc", null ],
+    [ "KilledUnit", "d6/d04/a12936.html#aaaa0d33697fe1abc0df5bf9ecb249ffc", null ],
+    [ "UpdateAI", "d6/d04/a12936.html#a255d406f8bab62593a3eeda0e4e3d646", null ],
+    [ "_scheduler", "d6/d04/a12936.html#a54b45b1fdacc2b3982e21580b9b4d26a", null ],
+    [ "instance", "d6/d04/a12936.html#a67df04e89c877d565753ac077aa923c7", null ]
 ];

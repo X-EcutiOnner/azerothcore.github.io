@@ -1,6 +1,5 @@
 var a22008 =
 [
-    [ "npc_lake_frogAI", "d1/d55/a22012.html", "d1/d55/a22012" ],
-    [ "npc_lake_frog", "d2/dc1/a22008.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
-    [ "GetAI", "d2/dc1/a22008.html#a9730da684a81fced304f10b2806c10e5", null ]
+    [ "at_q24545_frostmourne_cavern", "d2/dc1/a22008.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
+    [ "OnTrigger", "d2/dc1/a22008.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
 ];

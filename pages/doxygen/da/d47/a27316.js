@@ -1,7 +1,7 @@
 var a27316 =
 [
-    [ "go_darkmoon_faire_musicAI", "da/d47/a27316.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
-    [ "UpdateAI", "da/d47/a27316.html#af3d802bd852fc0483f72781edb13b5d5", null ],
-    [ "_events", "da/d47/a27316.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
-    [ "rnd", "da/d47/a27316.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
+    [ "CharacterDeleteActionIpLogger", "da/d47/a27316.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "da/d47/a27316.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "da/d47/a27316.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "da/d47/a27316.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

@@ -1,11 +1,11 @@
 var a19560 =
 [
-    [ "npc_spark_of_ionarAI", "d2/db3/a19560.html#a738ceaa68f13c084fedee2add6fba99e", null ],
-    [ "AttackStart", "d2/db3/a19560.html#a7616d68c090aece19389b4c4842e30a3", null ],
-    [ "DamageTaken", "d2/db3/a19560.html#a42466b7c6af30727b8872bd2ddfddb6f", null ],
-    [ "DoAction", "d2/db3/a19560.html#a995efdb87fdd72eccfdce11d2af0201b", null ],
-    [ "MoveInLineOfSight", "d2/db3/a19560.html#ac87193fba7975147731ca3c92946c308", null ],
-    [ "Reset", "d2/db3/a19560.html#a4b4511ac7258c1182e428bddb2db6519", null ],
-    [ "UpdateAI", "d2/db3/a19560.html#ae4e881e4e66e49c124c0cf540e1d59b7", null ],
-    [ "returning", "d2/db3/a19560.html#a5f6ef34741a6d726c3fecd66d768bd67", null ]
+    [ "boss_ormorok", "d2/db3/a19560.html#aa4862339ed41d5c593a93ef605d85a39", null ],
+    [ "JustDied", "d2/db3/a19560.html#af84a958b2f16b082fe3b2e1dc70dd8fa", null ],
+    [ "JustEngagedWith", "d2/db3/a19560.html#a22ac203db7c3b445e653798743e48764", null ],
+    [ "JustSummoned", "d2/db3/a19560.html#acc149b49e6658454610a7871e3c82b5e", null ],
+    [ "KilledUnit", "d2/db3/a19560.html#a65a1512bad7c773a0aede6ba2cb9700e", null ],
+    [ "Reset", "d2/db3/a19560.html#a88a1c308790e45a6fa09f0d740116f4e", null ],
+    [ "UpdateAI", "d2/db3/a19560.html#a15f2e30fa1780aadba6673f6537fc16f", null ],
+    [ "_spikesCount", "d2/db3/a19560.html#a29cc8c3db5ba3d528ea873d66be619cd", null ]
 ];

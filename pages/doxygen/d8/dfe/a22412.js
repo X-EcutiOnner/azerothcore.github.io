@@ -1,6 +1,6 @@
 var a22412 =
 [
-    [ "go_wg_vehicle_teleporterAI", "d0/d0b/a22416.html", "d0/d0b/a22416" ],
-    [ "go_wg_vehicle_teleporter", "d8/dfe/a22412.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
-    [ "GetAI", "d8/dfe/a22412.html#a113aaf42c095000c1a016bfe60df11e7", null ]
+    [ "npc_jungle_punch_targetAI", "d0/d0b/a22416.html", "d0/d0b/a22416" ],
+    [ "npc_jungle_punch_target", "d8/dfe/a22412.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
+    [ "GetAI", "d8/dfe/a22412.html#abb38ccb55abfe0f48f360469031c6902", null ]
 ];

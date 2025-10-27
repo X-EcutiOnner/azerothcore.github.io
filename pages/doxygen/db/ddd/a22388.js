@@ -1,5 +1,6 @@
 var a22388 =
 [
-    [ "npc_wg_spirit_guideAI", "db/ddd/a22388.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
-    [ "UpdateAI", "db/ddd/a22388.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
+    [ "npc_vekjik", "db/ddd/a22388.html#a7439c6038237b77ba8623ae92d6cf708", null ],
+    [ "OnGossipHello", "db/ddd/a22388.html#acdbba5b4970049e72477eccf6672b0e8", null ],
+    [ "OnGossipSelect", "db/ddd/a22388.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
 ];

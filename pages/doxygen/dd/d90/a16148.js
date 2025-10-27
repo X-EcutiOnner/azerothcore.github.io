@@ -1,7 +1,6 @@
 var a16148 =
 [
-    [ "npc_orb_carrierAI", "dd/d90/a16148.html#a2011c247d2157f5f2a06db6e149743e0", null ],
-    [ "DoAction", "dd/d90/a16148.html#a501d0bdb9d77be1229dadf60d5f8af8c", null ],
-    [ "TriggerCutter", "dd/d90/a16148.html#a6b6b127db878ca3b79ac8d7aeff4156e", null ],
-    [ "UpdateAI", "dd/d90/a16148.html#a99a08390fcf2b0a058aee161932392d0", null ]
+    [ "instance_azjol_nerub_InstanceScript", "db/de3/a16152.html", "db/de3/a16152" ],
+    [ "instance_azjol_nerub", "dd/d90/a16148.html#a61476a0d15136d2bdb3a65eca72963da", null ],
+    [ "GetInstanceScript", "dd/d90/a16148.html#a8bb8477669c6369afe508a400bd4d489", null ]
 ];

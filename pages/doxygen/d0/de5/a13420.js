@@ -1,7 +1,6 @@
 var a13420 =
 [
-    [ "HandleRemove", "d0/de5/a13420.html#a4484cf33e423f23cad9559a6a16ed9b4", null ],
-    [ "PrepareAuraScript", "d0/de5/a13420.html#a6fa407996b59d98d0eeef877ee89784d", null ],
-    [ "Register", "d0/de5/a13420.html#a7dc81b47954ee8c10b99f389740de0be", null ],
-    [ "Validate", "d0/de5/a13420.html#afd94a159c0f429f2a63ffbd0a38d32e3", null ]
+    [ "instance_stratholme_InstanceMapScript", "d5/d12/a13424.html", "d5/d12/a13424" ],
+    [ "instance_stratholme", "d0/de5/a13420.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
+    [ "GetInstanceScript", "d0/de5/a13420.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
 ];

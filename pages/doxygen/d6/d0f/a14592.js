@@ -1,6 +1,6 @@
 var a14592 =
 [
-    [ "HandleScriptEffect", "d6/d0f/a14592.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
-    [ "PrepareSpellScript", "d6/d0f/a14592.html#a55115ca986d5226588d168ced7ab1f55", null ],
-    [ "Register", "d6/d0f/a14592.html#ad8811bf48dfb564afcd82cf51b860255", null ]
+    [ "HandleScript", "d6/d0f/a14592.html#a4077b809530d28bed0a9419b5a745f42", null ],
+    [ "PrepareSpellScript", "d6/d0f/a14592.html#a97eb6d1fcdcf0628433e5bec68785932", null ],
+    [ "Register", "d6/d0f/a14592.html#ac09b1c86655eef0febaccff86533b28f", null ]
 ];

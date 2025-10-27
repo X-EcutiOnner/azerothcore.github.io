@@ -1,6 +1,6 @@
 var a25284 =
 [
-    [ "OnApply", "d3/db9/a25284.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
-    [ "PrepareAuraScript", "d3/db9/a25284.html#a159ee8a9b0af729ed01f7632adb58863", null ],
-    [ "Register", "d3/db9/a25284.html#a0f33043317402119aa14e50a1eb6c227", null ]
+    [ "CalculateAmount", "d3/db9/a25284.html#a66b009487462241e573ea23f081a140a", null ],
+    [ "PrepareAuraScript", "d3/db9/a25284.html#a0eee16c77a3c3cea882b67c78826a140", null ],
+    [ "Register", "d3/db9/a25284.html#afeafc6922b0a0389fec969e3c7191dda", null ]
 ];

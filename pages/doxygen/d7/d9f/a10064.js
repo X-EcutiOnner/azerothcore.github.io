@@ -1,7 +1,6 @@
 var a10064 =
 [
-    [ "CommonInitializer", "d7/d9f/a10064.html#ab472ff63e0178a3414630f743d4de906", null ],
-    [ "operator()", "d7/d9f/a10064.html#aba4cce84b89416f54a0a25b1702a322c", null ],
-    [ "_time", "d7/d9f/a10064.html#a483d83836ccbe90a842c09f7d4906436", null ],
-    [ "velocityInv", "d7/d9f/a10064.html#ac2f731afc2aae338bb8b1b616b0a39c1", null ]
+    [ "TargetedMovementGeneratorBase", "d7/d9f/a10064.html#a670b36c578b32b7d582e8f4b6ef656c3", null ],
+    [ "stopFollowing", "d7/d9f/a10064.html#adb0a6f1a63ce265fc63bf362e2f60488", null ],
+    [ "i_target", "d7/d9f/a10064.html#a427d8512cbd0ccbaca65dcf48bbe39f6", null ]
 ];

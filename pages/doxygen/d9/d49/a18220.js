@@ -1,5 +1,6 @@
 var a18220 =
 [
-    [ "FrozenThroneResetWorker", "d9/d49/a18220.html#afd21e9c1449d4e391713256e197bc92b", null ],
-    [ "operator()", "d9/d49/a18220.html#a7119548d30d760ae817a87cacf712cf6", null ]
+    [ "npc_precious_iccAI", "d0/daf/a18224.html", "d0/daf/a18224" ],
+    [ "npc_precious_icc", "d9/d49/a18220.html#a463eb0df1edb17e154658dac131f0898", null ],
+    [ "GetAI", "d9/d49/a18220.html#aa63840c5968a089bff41dcd9c86d5849", null ]
 ];

@@ -1,6 +1,7 @@
 var a26496 =
 [
-    [ "HandleDummy", "d5/de2/a26496.html#abac8aa528d6d83748cf4cdbdaa8313f6", null ],
-    [ "PrepareSpellScript", "d5/de2/a26496.html#ae80dda98f66c1fbaa37741ffd52a1108", null ],
-    [ "Register", "d5/de2/a26496.html#a90fbc5d1b22cbc59550a430a63c08032", null ]
+    [ "HandleApplyEffect", "d5/de2/a26496.html#af95120b26a165196e0310956c245f36f", null ],
+    [ "HandleRemoveEffect", "d5/de2/a26496.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
+    [ "PrepareAuraScript", "d5/de2/a26496.html#ae19e002407db1466f0655db3d14fe0d7", null ],
+    [ "Register", "d5/de2/a26496.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
 ];

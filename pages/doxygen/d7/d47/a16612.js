@@ -1,6 +1,7 @@
 var a16612 =
 [
-    [ "boss_acidmawAI", "d0/d29/a16616.html", "d0/d29/a16616" ],
-    [ "boss_acidmaw", "d7/d47/a16612.html#a86e71bf9ae950a4f8efa58d6f679e8bf", null ],
-    [ "GetAI", "d7/d47/a16612.html#aacbd4c83e6e9c9790e6cf9a87e3aa9a0", null ]
+    [ "npc_toc_shamanAI", "d7/d47/a16612.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
+    [ "myCanCast", "d7/d47/a16612.html#a993739662d2687c27219853669b8a485", null ],
+    [ "UpdateAI", "d7/d47/a16612.html#a2ad17245685feb3f085ef9a669459c61", null ],
+    [ "events", "d7/d47/a16612.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
 ];

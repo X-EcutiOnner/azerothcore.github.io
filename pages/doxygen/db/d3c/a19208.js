@@ -1,6 +1,7 @@
 var a19208 =
 [
-    [ "boss_thaddiusAI", "d2/df2/a19212.html", "d2/df2/a19212" ],
-    [ "boss_thaddius", "db/d3c/a19208.html#aff97b030b861feb646e1b22f60ee3605", null ],
-    [ "GetAI", "db/d3c/a19208.html#acf841c6897396f517a74932fc3480e69", null ]
+    [ "HandleScriptEffect", "db/d3c/a19208.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
+    [ "PrepareSpellScript", "db/d3c/a19208.html#a21a3175346c9b12c02205f2d33da3b86", null ],
+    [ "Register", "db/d3c/a19208.html#af5f279ad20e9153f201262eaa7615978", null ],
+    [ "Validate", "db/d3c/a19208.html#a635ff34619767f657778016e1eb901aa", null ]
 ];

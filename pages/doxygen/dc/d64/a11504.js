@@ -1,7 +1,6 @@
 var a11504 =
 [
-    [ "Command", "dc/d64/a11504.html#a6042a93c52d18e3a74d3cd46ac3d940f", null ],
-    [ "ModuleId", "dc/d64/a11504.html#aa2e1c1cee71fc1eb887511c655de0516", null ],
-    [ "ModuleKey", "dc/d64/a11504.html#aba0f236c39186022816bd86f8e8e9093", null ],
-    [ "Size", "dc/d64/a11504.html#a6912224c1ef6fd117a5ed02d394254d9", null ]
+    [ "EffectPeriodicHandler", "dc/d64/a11504.html#aad44956783e9c044eb92065cc62e97f6", null ],
+    [ "Call", "dc/d64/a11504.html#a938e987363972fbd58e42f19880016d8", null ],
+    [ "pEffectHandlerScript", "dc/d64/a11504.html#a803108e6a515d2d210d8e79a9fb6ce18", null ]
 ];

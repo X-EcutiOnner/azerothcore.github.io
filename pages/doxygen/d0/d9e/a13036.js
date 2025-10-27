@@ -1,25 +1,14 @@
 var a13036 =
 [
-    [ "Events", "d0/d9e/a13036.html#a5cfaa8e01186ddc0077c088124825407", [
-      [ "EVENT_START_RITUAL", "d0/d9e/a13036.html#a5cfaa8e01186ddc0077c088124825407afc564d8d20a38aebccc53438aea776ee", null ],
-      [ "EVENT_GHOULPLOSION", "d0/d9e/a13036.html#a5cfaa8e01186ddc0077c088124825407a9d567173dec6df2f9aa02824cc5bc1ac", null ],
-      [ "EVENT_RAISE_DEAD", "d0/d9e/a13036.html#a5cfaa8e01186ddc0077c088124825407a7366f5f9e45ffab6e46ec661bcd21256", null ],
-      [ "EVENT_RESUME_WP", "d0/d9e/a13036.html#a5cfaa8e01186ddc0077c088124825407adefda2d5f3072d19d2347388327166be", null ]
-    ] ],
-    [ "Points", "d0/d9e/a13036.html#add8fd9a6f63482df9f45b3bfd766ab8d", [
-      [ "POINT_CORPSE_REACHED", "d0/d9e/a13036.html#add8fd9a6f63482df9f45b3bfd766ab8da9e753f89ab9b6e361811f315e05cd86d", null ]
-    ] ],
-    [ "Says", "d0/d9e/a13036.html#ae8b39c5bb662dcd75f77afadabe479e0", [
-      [ "SAY_GRYPHON", "d0/d9e/a13036.html#ae8b39c5bb662dcd75f77afadabe479e0aa8758b509f2342c32be1e28329ec0397", null ],
-      [ "SAY_GHOUL", "d0/d9e/a13036.html#ae8b39c5bb662dcd75f77afadabe479e0acf87a9a0c9d87d1874eb0d8aeca450db", null ],
-      [ "SAY_GEIST", "d0/d9e/a13036.html#ae8b39c5bb662dcd75f77afadabe479e0a813bb4a12b95a86434f4e82fecaeade2", null ]
-    ] ],
-    [ "npc_gothik_the_harvesterAI", "d0/d9e/a13036.html#adc37477ffc344ba02de99ceacee6f81b", null ],
-    [ "MovementInform", "d0/d9e/a13036.html#a94d937d44f1b843ddfe75983d3a2477a", null ],
-    [ "Reset", "d0/d9e/a13036.html#a3670ab9f63fff9ce55f64bba5018cef8", null ],
-    [ "UpdateAI", "d0/d9e/a13036.html#af2a9927516a41e3d8c35edb993a4aef5", null ],
-    [ "events", "d0/d9e/a13036.html#a1627517ce67ba5a5e454bc69e89d2e13", null ],
-    [ "geistGUID", "d0/d9e/a13036.html#a4c9b7d672451b45a4454f6fba7057b59", null ],
-    [ "isOnRitual", "d0/d9e/a13036.html#a88f5a2c50bcc65a3cd6e9856a85fbce2", null ],
-    [ "targetCorpseGUID", "d0/d9e/a13036.html#a4499cbb3c415a7ca494c6193aa956ce3", null ]
+    [ "boss_priestess_delrissa", "d0/d9e/a13036.html#afcbf1aa400ec44b709fd194daab91d3d", null ],
+    [ "CheckInRoom", "d0/d9e/a13036.html#afa963761e44412915a6d89f097f33b5d", null ],
+    [ "InitializeAI", "d0/d9e/a13036.html#ae5105868d704b6ca91b27dcfbeaef3a9", null ],
+    [ "JustDied", "d0/d9e/a13036.html#a82d8c198f38c2aa881386e739dea6a08", null ],
+    [ "JustEngagedWith", "d0/d9e/a13036.html#a40c9852f9a1ea24b61edf0f7c00193a6", null ],
+    [ "JustSummoned", "d0/d9e/a13036.html#ac0a2c4346c6222380d7bda9a274f78e0", null ],
+    [ "KilledUnit", "d0/d9e/a13036.html#af0b41306f53c42745cce39069f446704", null ],
+    [ "Reset", "d0/d9e/a13036.html#a60e39157aa3043284b2e1e032c0d9241", null ],
+    [ "SummonedCreatureDies", "d0/d9e/a13036.html#a14757692ab4af5c1b5b311f059be9091", null ],
+    [ "HelpersKilled", "d0/d9e/a13036.html#a26764cdd42721c9276ccecaa97fc9a6e", null ],
+    [ "PlayersKilled", "d0/d9e/a13036.html#a9bde16a69ed9e950ce0dfb91805280cc", null ]
 ];

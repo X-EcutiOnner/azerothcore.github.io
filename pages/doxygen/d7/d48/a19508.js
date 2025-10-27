@@ -1,6 +1,7 @@
 var a19508 =
 [
-    [ "PrepareSpellScript", "d7/d48/a19508.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
-    [ "Register", "d7/d48/a19508.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
-    [ "SetDest", "d7/d48/a19508.html#a24341aae14ed77101d4c31f2fbe11463", null ]
+    [ "EoEDrakeEnterVehicleEvent", "d7/d48/a19508.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
+    [ "Execute", "d7/d48/a19508.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
+    [ "_owner", "d7/d48/a19508.html#ab48302fdff800afddfeec2c0d756873c", null ],
+    [ "_playerGUID", "d7/d48/a19508.html#add56bff0695453e01f300e0434a39ec8", null ]
 ];

@@ -1,6 +1,6 @@
 var a13488 =
 [
-    [ "instance_sunwell_plateau_InstanceMapScript", "d4/d37/a13492.html", "d4/d37/a13492" ],
-    [ "instance_sunwell_plateau", "d9/dd0/a13488.html#a31d2245a9237c8dc4480b9d26ff3557c", null ],
-    [ "GetInstanceScript", "d9/dd0/a13488.html#a5960785a845c87e2e1730cfd865b44b4", null ]
+    [ "FilterTargets", "d9/dd0/a13488.html#a78675c3421e0243de9e136b646c56be1", null ],
+    [ "PrepareSpellScript", "d9/dd0/a13488.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
+    [ "Register", "d9/dd0/a13488.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
 ];

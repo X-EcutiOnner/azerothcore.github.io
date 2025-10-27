@@ -1,14 +1,15 @@
 var a16112 =
 [
-    [ "npc_onyx_flamecallerAI", "de/d06/a16112.html#aa0633855e57f6681cfc68a8dfee9a733", null ],
-    [ "AddWaypoints", "de/d06/a16112.html#a308b99ee4d07ed1de0cabd94dafd5dd8", null ],
-    [ "EnterEvadeMode", "de/d06/a16112.html#ac29163e2e69cffbf21249eb3828b5b72", null ],
-    [ "IsSummonedBy", "de/d06/a16112.html#afc6c4faffd83b2fa4ddbb4ae78b622d9", null ],
-    [ "JustEngagedWith", "de/d06/a16112.html#a3cba2cd9a920816bee993ae2986639a0", null ],
-    [ "Reset", "de/d06/a16112.html#a756a44feb79eb56f443ee16995a2566d", null ],
-    [ "UpdateEscortAI", "de/d06/a16112.html#aab57193b332fdde2dd237a9cb15a06c1", null ],
-    [ "WaypointReached", "de/d06/a16112.html#a8b510bce47929e85741f5debd857de8d", null ],
-    [ "_events", "de/d06/a16112.html#a9280b604135308078860c20667da9819", null ],
-    [ "_instance", "de/d06/a16112.html#a3fb01e6a8df3b8205f494f03faf8ace8", null ],
-    [ "_lavaGoutCount", "de/d06/a16112.html#a1f46c988316c1870f506a66f2390e79b", null ]
+    [ "boss_hadronoxAI", "de/d06/a16112.html#a75430465e2329252581c2522ff14d82b", null ],
+    [ "AnyPlayerValid", "de/d06/a16112.html#a5b4dc381ff6df8a4badc61196e2687bd", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "de/d06/a16112.html#aa5c858b2702744f24ac1d22078df1d7b", null ],
+    [ "DamageTaken", "de/d06/a16112.html#a31ddd8521366da9cb862334c659288b3", null ],
+    [ "DoAction", "de/d06/a16112.html#ab3bf3ca6a2adcf4c50a9bf1ddc8bac0e", null ],
+    [ "GetData", "de/d06/a16112.html#a6fdb9b9650382600086f5646a627af52", null ],
+    [ "JustDied", "de/d06/a16112.html#a42ffdf5a3d2ee43ddf0fc0d29f580491", null ],
+    [ "JustEngagedWith", "de/d06/a16112.html#af8bcc00fbf757e0a0129111cca0a0a5c", null ],
+    [ "JustSummoned", "de/d06/a16112.html#a65b93a213a69edf864ca123b6560b0a8", null ],
+    [ "KilledUnit", "de/d06/a16112.html#ac4b6a589939bdc8a23f182ebf955e242", null ],
+    [ "Reset", "de/d06/a16112.html#a1063db2596a0d57381011c2a6ceeb34e", null ],
+    [ "UpdateAI", "de/d06/a16112.html#a10aa0f67aeb12d3d9a34f6213fe3d28f", null ]
 ];

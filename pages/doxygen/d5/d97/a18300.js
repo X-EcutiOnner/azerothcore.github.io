@@ -1,11 +1,9 @@
 var a18300 =
 [
-    [ "AddMissingStack", "d5/d97/a18300.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
-    [ "CheckAura", "d5/d97/a18300.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
-    [ "FilterTargets", "d5/d97/a18300.html#ab6c86c3680823329d5f3aad985aa316a", null ],
-    [ "Load", "d5/d97/a18300.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
-    [ "PrepareSpellScript", "d5/d97/a18300.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
-    [ "Register", "d5/d97/a18300.html#af0e6f1fc6687de1abcc1689116150088", null ],
-    [ "_hadInitialAura", "d5/d97/a18300.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
-    [ "_hadJumpingAura", "d5/d97/a18300.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
+    [ "FilterTargets", "d5/d97/a18300.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
+    [ "FilterTargetsSubseq", "d5/d97/a18300.html#a88a53a855e01b550fbd106ac318a891e", null ],
+    [ "PrepareSpellScript", "d5/d97/a18300.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
+    [ "Register", "d5/d97/a18300.html#a27e8768422b311f6db16757e167f4102", null ],
+    [ "Validate", "d5/d97/a18300.html#a96ef76527449a138685830b52fa95146", null ],
+    [ "_targetList", "d5/d97/a18300.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
 ];

@@ -1,21 +1,10 @@
 var a10244 =
 [
-    [ "AllSpellScript", "da/dd7/a10244.html#a95e37ac5e1e253fb6d759103ec55ac7a", null ],
-    [ "CanModAuraEffectDamageDone", "da/dd7/a10244.html#a95cc4310fb4bc275c7f467a4d71d790c", null ],
-    [ "CanModAuraEffectModDamagePercentDone", "da/dd7/a10244.html#a05230c0a96e7096b64f1bb03acedb337", null ],
-    [ "CanPrepare", "da/dd7/a10244.html#aeb2d438fdd7ca823ce670a94941bafff", null ],
-    [ "CanScalingEverything", "da/dd7/a10244.html#a026842dcd2d8c0e0c3f99718b04e86b0", null ],
-    [ "CanSelectSpecTalent", "da/dd7/a10244.html#a3cf7b45d8e9f5b23e2753d1624c4af78", null ],
-    [ "IsDatabaseBound", "da/dd7/a10244.html#a0854a57b62e310575a3e5cd8d35e8532", null ],
-    [ "OnBeforeAuraRankForLevel", "da/dd7/a10244.html#ae5a4590e4fb49d4cfe73c5ce307773ca", null ],
-    [ "OnCalcMaxDuration", "da/dd7/a10244.html#a5d02de785a4e1cf5103110828fac5e75", null ],
-    [ "OnDummyEffect", "da/dd7/a10244.html#a54e0b823c538c41507c541db025d5295", null ],
-    [ "OnDummyEffect", "da/dd7/a10244.html#a36061e5bcec2ef4dea35d1b5c9e703b4", null ],
-    [ "OnDummyEffect", "da/dd7/a10244.html#afe06aa2578b89fbc5ed5784aed38912a", null ],
-    [ "OnRemoveAuraScaleTargets", "da/dd7/a10244.html#aa055f00fe76ba2768f97e23ecf379a18", null ],
-    [ "OnScaleAuraUnitAdd", "da/dd7/a10244.html#abf3758ff33e5be1492ed4e45979a7a8d", null ],
-    [ "OnSpellCast", "da/dd7/a10244.html#aac6481ca905c3f44f85c55aaf694afca", null ],
-    [ "OnSpellCastCancel", "da/dd7/a10244.html#ad5dd3e0f697edb93df6ee764fe2a1d99", null ],
-    [ "OnSpellCheckCast", "da/dd7/a10244.html#aae718678bb7d9a7ed1e0cbbc59db3049", null ],
-    [ "OnSpellPrepare", "da/dd7/a10244.html#addb78dc29f771ec376922a4a2bff558b", null ]
+    [ "Flags", "da/dd7/a10244.html#abf9c2701e766951e5a211bf6bf85b175", null ],
+    [ "ID", "da/dd7/a10244.html#a946b8f7244fd22c4afcb26373ee61a13", null ],
+    [ "needSave", "da/dd7/a10244.html#aae888b1bf10f654ee212f3d687c111e9", null ],
+    [ "needSend", "da/dd7/a10244.html#ab8692e4433db81f9d3e0f96f8f930a8f", null ],
+    [ "ReputationListID", "da/dd7/a10244.html#a052caeeae1ecdca831097591e0fddaf6", null ],
+    [ "roundedUp", "da/dd7/a10244.html#a287fe9e8ec5da58ae3f5096045eebf31", null ],
+    [ "Standing", "da/dd7/a10244.html#ae87da6cada559e11a9607e194013d671", null ]
 ];

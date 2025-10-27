@@ -1,7 +1,7 @@
 var a14084 =
 [
-    [ "HandleOnHit", "df/d3e/a14084.html#a561799e6241b1fe17cd09f17c447107b", null ],
-    [ "PrepareSpellScript", "df/d3e/a14084.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
-    [ "Register", "df/d3e/a14084.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
-    [ "Validate", "df/d3e/a14084.html#adb339686c5e9dcb298712455dc8435bf", null ]
+    [ "OnPeriodic", "df/d3e/a14084.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
+    [ "PrepareAuraScript", "df/d3e/a14084.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
+    [ "Register", "df/d3e/a14084.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
+    [ "Validate", "df/d3e/a14084.html#a7ed214de6769314a45540e9afdb82949", null ]
 ];

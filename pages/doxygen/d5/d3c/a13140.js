@@ -1,7 +1,6 @@
 var a13140 =
 [
-    [ "OnApply", "d5/d3c/a13140.html#a278a1eb6d5f856a620f5a33de294b0ec", null ],
-    [ "OnRemove", "d5/d3c/a13140.html#a8300f726a41882e3d3f54adc0e5bfb29", null ],
-    [ "PrepareAuraScript", "d5/d3c/a13140.html#a46ba800f3a3512951b83e428bc5373b9", null ],
-    [ "Register", "d5/d3c/a13140.html#a4a59d431c7d7607e614c4ec035e3acf7", null ]
+    [ "npc_unworthy_initiateAI", "dc/d4a/a13144.html", "dc/d4a/a13144" ],
+    [ "npc_unworthy_initiate", "d5/d3c/a13140.html#aaa04626b783eadc0b14bd89aa715e694", null ],
+    [ "GetAI", "d5/d3c/a13140.html#a0912cc56cb2082b2de086cbd9b914b4a", null ]
 ];

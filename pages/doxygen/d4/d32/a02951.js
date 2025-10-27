@@ -1,9 +1,9 @@
 var a02951 =
 [
-    [ "boss_moorabi", "d4/d43/a17431.html", "d4/d43/a17431" ],
-    [ "boss_moorabi::boss_moorabiAI", "df/da9/a17435.html", "df/da9/a17435" ],
-    [ "spell_moorabi_mojo_frenzy_aura", "da/d06/a17439.html", "da/d06/a17439" ],
-    [ "achievement_less_rabi", "d6/d4b/a17443.html", "d6/d4b/a17443" ],
+    [ "boss_moorabi", "db/dca/a17428.html", "db/dca/a17428" ],
+    [ "boss_moorabi::boss_moorabiAI", "d0/dff/a17432.html", "d0/dff/a17432" ],
+    [ "spell_moorabi_mojo_frenzy_aura", "dc/dc8/a17436.html", "dc/dc8/a17436" ],
+    [ "achievement_less_rabi", "df/d7d/a17440.html", "df/d7d/a17440" ],
     [ "eSays", "d4/d32/a02951.html#a488e6db208f9fcca6f7a9b61d4ffad11", [
       [ "SAY_AGGRO", "d4/d32/a02951.html#a488e6db208f9fcca6f7a9b61d4ffad11a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_SLAY", "d4/d32/a02951.html#a488e6db208f9fcca6f7a9b61d4ffad11a9e64f6e600dd42567d18006912811f75", null ],
@@ -824,13 +824,6 @@ var a02951 =
       [ "EVENT_SPELL_OVERLORDS_BRAND", "d6/d2a/a03062.html#af60e00b78607064c5be6aa9397ea49c1a90e7e657e3719415de493255c309f46c", null ],
       [ "EVENT_RIMEFANG_SPELL_ICY_BLAST", "d6/d2a/a03062.html#af60e00b78607064c5be6aa9397ea49c1a56fde88b675883e881d730c66896bec3", null ],
       [ "EVENT_SPELL_MARK_OF_RIMEFANG", "d6/d2a/a03062.html#af60e00b78607064c5be6aa9397ea49c1a931043d3365a4d3bc84a0b42e30b34b7", null ],
-      [ "EVENT_STAMPEDE", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1a6c317e21c23e8613a9ec817362fca5be", null ],
-      [ "EVENT_WHIRLING_SLASH", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1a905a7756eb363d7bd116031a675850a0", null ],
-      [ "EVENT_PUNCTURE", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1ad2c427fae9c0d0b409540447a31c880b", null ],
-      [ "EVENT_ENRAGE", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1a470d03afa22c989a62d65ba1ce60863b", null ],
-      [ "EVENT_IMPALING_CHARGE", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1ab4a16b4f7f621394553bf00e93c988bb", null ],
-      [ "EVENT_UNSUMMON_RHINO", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1ac3d73946b0f9d0a85fd9647edb90b4d5", null ],
-      [ "EVENT_STOMP", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1aae6a7bd26e8ee17a505a5f6c6f720316", null ],
       [ "EVENT_KILL_TALK", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b", null ],
       [ "EVENT_GROUND_TREMOR", "d4/d32/a02951.html#af60e00b78607064c5be6aa9397ea49c1a4df0ca8644c1277d7130ed603604f8aa", null ],
       [ "EVENT_NUMBLING_SHOUT", "d4/d32/a02951.html#af60e00b78607064c5be6aa9397ea49c1af5353089febe114399d211db842a9a0a", null ],

@@ -1,7 +1,9 @@
 var a17740 =
 [
-    [ "HandleDummy", "d0/dcd/a17740.html#a6e5d70c35420384305d7faf991072b38", null ],
-    [ "PrepareSpellScript", "d0/dcd/a17740.html#a64f912555853aab5693692b22eba52c4", null ],
-    [ "Register", "d0/dcd/a17740.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
-    [ "Validate", "d0/dcd/a17740.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
+    [ "BattleExperienceEvent", "d0/dcd/a17740.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
+    [ "Execute", "d0/dcd/a17740.html#a3971962ec90f682baeae96fe6098fa97", null ],
+    [ "_creature", "d0/dcd/a17740.html#a0155536d5c2be329a1f3b57c4d852098", null ],
+    [ "_level", "d0/dcd/a17740.html#a22f0d7e59f579362be4576180d0977b8", null ],
+    [ "ExperiencedSpells", "d0/dcd/a17740.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
+    [ "ExperiencedTimes", "d0/dcd/a17740.html#af682cc246c7fdae39cc2a1e57110badc", null ]
 ];

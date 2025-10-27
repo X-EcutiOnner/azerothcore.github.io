@@ -1,9 +1,6 @@
 var a26000 =
 [
-    [ "HandleAfterCast", "d6/d85/a26000.html#afd2fbc51ac1e99789994021af36688f3", null ],
-    [ "HandleTriggerSpell", "d6/d85/a26000.html#ae140ab00101f081454b55e12a7c54440", null ],
-    [ "Load", "d6/d85/a26000.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
-    [ "PrepareSpellScript", "d6/d85/a26000.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
-    [ "Register", "d6/d85/a26000.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
-    [ "_triggerSpellId", "d6/d85/a26000.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
+    [ "CalculateAmount", "d6/d85/a26000.html#a6faee23ed5947a904e58bfb38cf01d05", null ],
+    [ "PrepareAuraScript", "d6/d85/a26000.html#a5e7d089dd117b6b3a605ea2e8aea0b04", null ],
+    [ "Register", "d6/d85/a26000.html#a37e277143b2ae6cd88260776941b59bf", null ]
 ];

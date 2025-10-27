@@ -1,11 +1,10 @@
 var a13584 =
 [
-    [ "npc_balance_of_light_and_shadowAI", "df/db2/a13584.html#a00cc1f78fa8fe26bf472d99a490d05ad", null ],
-    [ "CanBeSeen", "df/db2/a13584.html#af336c2afbf6c2850679fd7d8d1f0d5e9", null ],
-    [ "JustDied", "df/db2/a13584.html#ae862f8763614a98dae6b982414caf30a", null ],
-    [ "MovementInform", "df/db2/a13584.html#ad426816ae3c4d5a95587787d28f57ed8", null ],
-    [ "SpellHit", "df/db2/a13584.html#abfddfff72b63fd05673584915d647958", null ],
-    [ "UpdateAI", "df/db2/a13584.html#a540e3c28cc36917cde0153dd372d0287", null ],
-    [ "_targetGUID", "df/db2/a13584.html#adaf2340aa5fe7b96c8f5cacc1c8d5545", null ],
-    [ "timer", "df/db2/a13584.html#a204e0a809e9c392f20ec900e9a90a075", null ]
+    [ "MoveDelayed", "df/db2/a13584.html#a3bf695ce31bb531b134c6c7018f4f197", null ],
+    [ "Execute", "df/db2/a13584.html#aa0db97475196b58bbed1f6bff1440fc6", null ],
+    [ "_o", "df/db2/a13584.html#ad0d76a04b7e85ea8667b05ec438316a0", null ],
+    [ "_owner", "df/db2/a13584.html#a2f7baa4bc22adeac8136df7269eb2895", null ],
+    [ "_x", "df/db2/a13584.html#aa490d19022c27932e76af38281fe158b", null ],
+    [ "_y", "df/db2/a13584.html#a195fc5719683ad645f36b06fd4f60d9f", null ],
+    [ "_z", "df/db2/a13584.html#a6aafdee829472bf22102645e1ff5e7a6", null ]
 ];

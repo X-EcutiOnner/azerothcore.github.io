@@ -1,6 +1,8 @@
 var a24544 =
 [
-    [ "PrepareSpellScript", "d5/d8a/a24544.html#a6c49fad4dc5d080b9a5550f8f30cae4d", null ],
-    [ "RecalculateDamage", "d5/d8a/a24544.html#ab6a781160532d7cbb3bb3304eb412514", null ],
-    [ "Register", "d5/d8a/a24544.html#a82395d00066e90abc58103b18a5ef4dc", null ]
+    [ "go_skull_pile", "d5/d8a/a24544.html#a9cf8dfef432c4967c60f66e645585770", null ],
+    [ "OnGossipHello", "d5/d8a/a24544.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
+    [ "OnGossipSelect", "d5/d8a/a24544.html#afb8e8db2705355e975fa48c98e09f20b", null ],
+    [ "SendActionMenu", "d5/d8a/a24544.html#a048dd224b46ead864958ad524d76167f", null ],
+    [ "_result", "d5/d8a/a24544.html#af74fcd75404c0886128401d661067394", null ]
 ];

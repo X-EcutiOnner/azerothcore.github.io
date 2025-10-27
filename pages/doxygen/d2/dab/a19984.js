@@ -1,6 +1,7 @@
 var a19984 =
 [
-    [ "npc_storm_beacon_spawnAI", "d7/d22/a19988.html", "d7/d22/a19988" ],
-    [ "npc_storm_beacon_spawn", "d2/dab/a19984.html#a0316646f43fd0ed6fe4576bf691116a0", null ],
-    [ "GetAI", "d2/dab/a19984.html#a780dd823962e259dbeda7089224aa23e", null ]
+    [ "OnRemove", "d2/dab/a19984.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
+    [ "PrepareAuraScript", "d2/dab/a19984.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
+    [ "Register", "d2/dab/a19984.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
+    [ "Validate", "d2/dab/a19984.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
 ];

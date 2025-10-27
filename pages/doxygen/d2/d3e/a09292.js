@@ -1,9 +1,10 @@
 var a09292 =
 [
-    [ "PlayerDistWorker", "d2/d3e/a09292.html#a53c207607485724ba7c3aa5e9fd02b51", null ],
-    [ "Visit", "d2/d3e/a09292.html#a6cb5d9bdf26bc96a24e5660ca3b3758b", null ],
-    [ "Visit", "d2/d3e/a09292.html#a2658f12f90953f1057a9377b21824879", null ],
-    [ "i_dist", "d2/d3e/a09292.html#aad16511b6a9aaa3eb561f636475ffe97", null ],
-    [ "i_do", "d2/d3e/a09292.html#a0e1738a71d7feda9f607ee964ff1fff2", null ],
-    [ "i_searcher", "d2/d3e/a09292.html#a3a3bf9b1a4bd06c54c99ceb7ba39941f", null ]
+    [ "UnitLastSearcher", "d2/d3e/a09292.html#a7924240df139cf0814282eaff8a898b6", null ],
+    [ "Visit", "d2/d3e/a09292.html#a95a5148e040daf44ed19e3118621a4ca", null ],
+    [ "Visit", "d2/d3e/a09292.html#ae9992afc09771d4f1e1517642075f17e", null ],
+    [ "Visit", "d2/d3e/a09292.html#aadfcfdd95a9f2b61cb9ff4c7db43a014", null ],
+    [ "i_check", "d2/d3e/a09292.html#a6cf23e7ed9198798da03e6ec3526ee97", null ],
+    [ "i_object", "d2/d3e/a09292.html#a7bd2407800c461de70b217a4b48f9921", null ],
+    [ "i_phaseMask", "d2/d3e/a09292.html#aee39e2b567813e1e7420de07b3fe9b08", null ]
 ];

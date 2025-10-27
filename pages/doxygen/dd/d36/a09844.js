@@ -1,12 +1,8 @@
 var a09844 =
 [
-    [ "MapReference", "dd/d36/a09844.html#abfbeb2ab5831f1f2a52bcb506318d85e", null ],
-    [ "~MapReference", "dd/d36/a09844.html#a1e93b44871737991140718322fd1cd69", null ],
-    [ "next", "dd/d36/a09844.html#a352ef695a8968a17e921861b7d6242c1", null ],
-    [ "next", "dd/d36/a09844.html#ae0383c7748749a344bb2395fd6e8baa4", null ],
-    [ "nocheck_prev", "dd/d36/a09844.html#a6cfff18295cf049ff554b0f140680890", null ],
-    [ "nockeck_prev", "dd/d36/a09844.html#adcb903a8a67951fe3da8e99e270b5c91", null ],
-    [ "sourceObjectDestroyLink", "dd/d36/a09844.html#ade5aa7b9b67ab49e523e4885460c3917", null ],
-    [ "targetObjectBuildLink", "dd/d36/a09844.html#acc64fa182a97583a2d9b78d54ec07ca0", null ],
-    [ "targetObjectDestroyLink", "dd/d36/a09844.html#aaa51bc8d8b47e0bbe5cfa828e4ae6604", null ]
+    [ "BoundaryIntersectBoundary", "dd/d36/a09844.html#ad92d938418434a1cb6a0eb68c88d281c", null ],
+    [ "~BoundaryIntersectBoundary", "dd/d36/a09844.html#ad8bbf96e48d18ef87ac31dea8bcb023b", null ],
+    [ "IsWithinBoundaryArea", "dd/d36/a09844.html#a09c8440d1ddb8264bff4065910b7e0a5", null ],
+    [ "_b1", "dd/d36/a09844.html#ab0239437fa92e39d144bf3856eb347c7", null ],
+    [ "_b2", "dd/d36/a09844.html#a41e100c17db99990981293399660824c", null ]
 ];

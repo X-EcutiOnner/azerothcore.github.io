@@ -1,12 +1,6 @@
 var a19312 =
 [
-    [ "npc_hover_diskAI", "da/dae/a19312.html#a1ee618b8e6393437f0e4193fc57725f3", null ],
-    [ "AttackStart", "da/dae/a19312.html#aec7920845132af74ecf83bbbcf221f06", null ],
-    [ "DoAction", "da/dae/a19312.html#a802681ba91854eec0a5d9ac1c2df761c", null ],
-    [ "MoveInLineOfSight", "da/dae/a19312.html#a770bbfc63a3aef7801b6ba9a542c459c", null ],
-    [ "MovementInform", "da/dae/a19312.html#a97c5039553d267fc3d955cb6e5eafb47", null ],
-    [ "PassengerBoarded", "da/dae/a19312.html#a130a40916bb42945531b02d2f3385ece", null ],
-    [ "UpdateAI", "da/dae/a19312.html#a5213e9b9a750e53b83621cd981741773", null ],
-    [ "events", "da/dae/a19312.html#adeed5599c5416f3a5d171f70b53d0023", null ],
-    [ "pInstance", "da/dae/a19312.html#a5141cd8297bf3dc67ce9195867a4152c", null ]
+    [ "boss_maexxnaAI", "d0/dcf/a19316.html", "d0/dcf/a19316" ],
+    [ "boss_maexxna", "da/dae/a19312.html#ae47a789ac8abe50932b9e000c83b02b2", null ],
+    [ "GetAI", "da/dae/a19312.html#ab438df4cb61625da35552ca7c867dc64", null ]
 ];

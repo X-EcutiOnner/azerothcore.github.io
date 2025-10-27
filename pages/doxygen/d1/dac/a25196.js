@@ -1,7 +1,7 @@
 var a25196 =
 [
-    [ "HandleApplyEffect", "d1/dac/a25196.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
-    [ "Load", "d1/dac/a25196.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
-    [ "PrepareAuraScript", "d1/dac/a25196.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
-    [ "Register", "d1/dac/a25196.html#aed57fbbf473b8f15fa177261e4678e96", null ]
+    [ "HandleProc", "d1/dac/a25196.html#af768269d315e998fc2042794c3a03b58", null ],
+    [ "PrepareAuraScript", "d1/dac/a25196.html#ae3da67d626ee11c57a85a3af99ff07a5", null ],
+    [ "Register", "d1/dac/a25196.html#a2df1cff47861cbf3198e573c6031b54e", null ],
+    [ "Validate", "d1/dac/a25196.html#a84f40eec148c55108085db5e7b05cb0e", null ]
 ];

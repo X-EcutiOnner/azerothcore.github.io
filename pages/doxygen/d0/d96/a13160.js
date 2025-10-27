@@ -1,7 +1,6 @@
 var a13160 =
 [
-    [ "npc_apothecary_genericAI", "d0/d96/a13160.html#afb2b04b51e28d0795e7781effa68dffd", null ],
-    [ "DoAction", "d0/d96/a13160.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
-    [ "MovementInform", "d0/d96/a13160.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
-    [ "_movePos", "d0/d96/a13160.html#a53d10ab64df212b043cc21e054f6528c", null ]
+    [ "npc_scarlet_miner_cartAI", "dd/d19/a13164.html", "dd/d19/a13164" ],
+    [ "npc_scarlet_miner_cart", "d0/d96/a13160.html#a987247939c6fd576d4b8d541175ecb6b", null ],
+    [ "GetAI", "d0/d96/a13160.html#a0f1436f0f6784af5ab62bf91df355731", null ]
 ];

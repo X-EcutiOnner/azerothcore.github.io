@@ -1,6 +1,6 @@
 var a21324 =
 [
-    [ "boss_toravonAI", "d9/d14/a21328.html", "d9/d14/a21328" ],
-    [ "boss_toravon", "db/dcf/a21324.html#abd30a86924bd7dd9474b5df16f3a8d8d", null ],
-    [ "GetAI", "db/dcf/a21324.html#a6db140b1d232312300e20155830cb249", null ]
+    [ "npc_ravenous_furbolgAI", "d9/d14/a21328.html", "d9/d14/a21328" ],
+    [ "npc_ravenous_furbolg", "db/dcf/a21324.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "db/dcf/a21324.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

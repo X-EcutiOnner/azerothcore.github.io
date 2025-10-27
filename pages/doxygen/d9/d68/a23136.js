@@ -1,6 +1,6 @@
 var a23136 =
 [
-    [ "boss_doomlordkazzakAI", "df/d6d/a23140.html", "df/d6d/a23140" ],
-    [ "boss_doomlord_kazzak", "d9/d68/a23136.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
-    [ "GetAI", "d9/d68/a23136.html#a460a32ce37aae852b48f1990406da9a4", null ]
+    [ "HandleEffectRemove", "d9/d68/a23136.html#ae9baf688d8ac42c4ccbbf13f3b79e831", null ],
+    [ "PrepareAuraScript", "d9/d68/a23136.html#a2e2668f0b5bf369ec859627e0bd8d980", null ],
+    [ "Register", "d9/d68/a23136.html#acd7e22159d262a9888c744eecb978c09", null ]
 ];

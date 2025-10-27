@@ -1,10 +1,12 @@
 var a13792 =
 [
-    [ "npc_lady_sylvanas_windrunner_bfuAI", "d4/d86/a13792.html#af7d495f489979690615d091bbd9d539b", null ],
-    [ "CanAIAttack", "d4/d86/a13792.html#af332a66852c9499912d8ef4959f394f5", null ],
-    [ "InitializeAI", "d4/d86/a13792.html#a66fcb4b5130ff03f1926eec3b4d9ff6a", null ],
-    [ "JustRespawned", "d4/d86/a13792.html#a70b83dd31e8a8214b5d09f9a4ca7347a", null ],
-    [ "Reset", "d4/d86/a13792.html#a2c5e519bd2a1699b74811c92bb217d20", null ],
-    [ "UpdateAI", "d4/d86/a13792.html#ae1e9308f730ac948f96d4fceba914cdb", null ],
-    [ "_events", "d4/d86/a13792.html#a7078f4c552f741afdc8ecbd1746e31c4", null ]
+    [ "npc_eastvale_peasent", "d4/d86/a13792.html#a5282dac41228569d4431d84c1f160f05", null ],
+    [ "Initialize", "d4/d86/a13792.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
+    [ "PathEndReached", "d4/d86/a13792.html#a002ec21e0715b020aa19cd0839408033", null ],
+    [ "Reset", "d4/d86/a13792.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
+    [ "SetData", "d4/d86/a13792.html#add14d9505880727e208e7ef9428f5acd", null ],
+    [ "UpdateAI", "d4/d86/a13792.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
+    [ "_events", "d4/d86/a13792.html#a1b310b07481366042dc45f7a27ce6408", null ],
+    [ "_path", "d4/d86/a13792.html#a907db8e6148947248b5bcfdb35023e16", null ],
+    [ "_realenGUID", "d4/d86/a13792.html#aad06364be8698b5ba69cd229e2a5085b", null ]
 ];

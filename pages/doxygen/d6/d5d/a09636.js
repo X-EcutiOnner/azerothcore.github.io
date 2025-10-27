@@ -1,8 +1,9 @@
 var a09636 =
 [
-    [ "InstResetEvent", "d6/d5d/a09636.html#aefa8f2b1b2cf29ad3472712278741fa4", null ],
-    [ "InstResetEvent", "d6/d5d/a09636.html#af6f80b924e52cd5296d21f4a5d1374c2", null ],
-    [ "difficulty", "d6/d5d/a09636.html#a67afe513dd42370ac4bb385a7128a324", null ],
-    [ "mapid", "d6/d5d/a09636.html#ad02e00b2782304fbd75973fe58eefd33", null ],
-    [ "type", "d6/d5d/a09636.html#ad211513c7ed39269d464190398dabaed", null ]
+    [ "LoginQueryHolder", "d6/d5d/a09636.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
+    [ "GetAccountId", "d6/d5d/a09636.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
+    [ "GetGuid", "d6/d5d/a09636.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
+    [ "Initialize", "d6/d5d/a09636.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
+    [ "m_accountId", "d6/d5d/a09636.html#abc8056182803af44a062fe6153fdd009", null ],
+    [ "m_guid", "d6/d5d/a09636.html#ab4696408b2e649dcdaae0bc4330c0b9e", null ]
 ];

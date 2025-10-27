@@ -1,11 +1,9 @@
 var a08744 =
 [
-    [ "SpellPeriodicAuraLogInfo", "d1/d74/a08744.html#a3c3c5908556cf765c5cbba3ca7034ae9", null ],
-    [ "absorb", "d1/d74/a08744.html#af69ed83578024b979dc9d65ff5ddc83b", null ],
-    [ "auraEff", "d1/d74/a08744.html#ae69913fad91a8e5b140c206d2c5733e0", null ],
-    [ "critical", "d1/d74/a08744.html#a51041b901727b4f595d2a886520626ff", null ],
-    [ "damage", "d1/d74/a08744.html#aa3839fed2e3de0f7a01ad209eec2bdcd", null ],
-    [ "multiplier", "d1/d74/a08744.html#a26b18592b0aebbdc6a00e8f91fd2a75a", null ],
-    [ "overDamage", "d1/d74/a08744.html#a51904be3790c99bded697b2cf7c8db23", null ],
-    [ "resist", "d1/d74/a08744.html#a5cb7dbeeb9d28037771a2f235a95e0fe", null ]
+    [ "ProcTriggeredData", "d1/d74/a08744.html#a37c5cbfd0b916b950a0e638223394de4", null ],
+    [ "operator==", "d1/d74/a08744.html#a787760cbd8a6ee5192975bc514886159", null ],
+    [ "aura", "d1/d74/a08744.html#a5138144d49900690bb15a5f66b763eac", null ],
+    [ "effMask", "d1/d74/a08744.html#a1c2bfb3e0016ba823e12b3defe373790", null ],
+    [ "spellProcEvent", "d1/d74/a08744.html#ac6e491a7ef478d271d3c74d7b9df577e", null ],
+    [ "triggerSpelId", "d1/d74/a08744.html#abfd99a1e3beb871a3cbf83d7578ec98a", null ]
 ];

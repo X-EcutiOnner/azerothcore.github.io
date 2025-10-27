@@ -1,7 +1,9 @@
 var a18036 =
 [
-    [ "HandleScript", "d3/d16/a18036.html#aa579f99f704f4db50b38b5f9b87259d7", null ],
-    [ "PrepareSpellScript", "d3/d16/a18036.html#a92a6f2b0d5a0845e35c07d0b5cefe053", null ],
-    [ "Register", "d3/d16/a18036.html#a2278ecef3dc60082ccb8964a34e55587", null ],
-    [ "Validate", "d3/d16/a18036.html#aeee94330ee7ea9b4fd7447e642404119", null ]
+    [ "CountTargets", "d3/d16/a18036.html#aa72b762d802c27047d485a8a314c6c6d", null ],
+    [ "Load", "d3/d16/a18036.html#a80a5d0f997f5d68a4fb438a81295fa52", null ],
+    [ "PrepareSpellScript", "d3/d16/a18036.html#acfd2927786a5bcefa0889d7e8aa40f72", null ],
+    [ "Register", "d3/d16/a18036.html#a86cad92c07fa31c730a3b560d33ed824", null ],
+    [ "SplitDamage", "d3/d16/a18036.html#a501a46b3e3988ae8cb8af1ff87eeac65", null ],
+    [ "_targetCount", "d3/d16/a18036.html#a39b8e5443250777594e3b4417d5ea1ec", null ]
 ];

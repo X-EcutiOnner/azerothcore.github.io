@@ -1,7 +1,6 @@
 var a18312 =
 [
-    [ "CheckTargetCount", "df/d0c/a18312.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
-    [ "PrepareSpellScript", "df/d0c/a18312.html#abd32198867e7f01b21b7de6224a597d4", null ],
-    [ "Register", "df/d0c/a18312.html#a671bede7fbc68085cd6075f412822869", null ],
-    [ "Validate", "df/d0c/a18312.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
+    [ "FilterTargets", "df/d0c/a18312.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
+    [ "PrepareSpellScript", "df/d0c/a18312.html#a24466e7a04722cc7559b086f89d2edc8", null ],
+    [ "Register", "df/d0c/a18312.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
 ];

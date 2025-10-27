@@ -1,7 +1,6 @@
 var a13460 =
 [
-    [ "npc_singularity", "da/d6b/a13460.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
-    [ "FindAndFollowTarget", "da/d6b/a13460.html#a76c21129756dec05f6f2d88cebe948c5", null ],
-    [ "Reset", "da/d6b/a13460.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
-    [ "UpdateAI", "da/d6b/a13460.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
+    [ "HandleActivateObject", "da/d6b/a13460.html#aedcb4513b7c53b9a9e972b9051da0e0f", null ],
+    [ "PrepareSpellScript", "da/d6b/a13460.html#afc844250ea7ba48330edfda305fa856c", null ],
+    [ "Register", "da/d6b/a13460.html#a6d77f6848397724e61c1db7a80de7139", null ]
 ];

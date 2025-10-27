@@ -1,7 +1,7 @@
 var a05948 =
 [
-    [ "Id", "de/db2/a05948.html#aa7d9dbd83fd1ef10fb125c798e293606", null ],
-    [ "NameMD5", "de/db2/a05948.html#a67c4437044d747ff9867a71967697767", null ],
-    [ "Timestamp", "de/db2/a05948.html#af62257c39a4ae1eba959086e981b0d19", null ],
-    [ "VersionMD5", "de/db2/a05948.html#acb8dbe824f71363eb81504f43a126d96", null ]
+    [ "UpdateException", "de/db2/a05948.html#ace39ae1801ac7dcd055bcdce2411866e", null ],
+    [ "~UpdateException", "de/db2/a05948.html#a38e016e210bf287d2adc21811497c95c", null ],
+    [ "what", "de/db2/a05948.html#ab7bc552819bf9620dd670fb5a627b2dd", null ],
+    [ "_msg", "de/db2/a05948.html#a7b4ba1e0d2829249afb2922f385016b3", null ]
 ];

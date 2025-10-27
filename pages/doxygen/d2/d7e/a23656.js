@@ -1,6 +1,7 @@
 var a23656 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "dc/dbf/a23660.html", "dc/dbf/a23660" ],
-    [ "instance_magtheridons_lair", "d2/d7e/a23656.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
-    [ "GetInstanceScript", "d2/d7e/a23656.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
+    [ "OnApply", "d2/d7e/a23656.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "d2/d7e/a23656.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "d2/d7e/a23656.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "d2/d7e/a23656.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

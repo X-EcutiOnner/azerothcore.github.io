@@ -1,12 +1,9 @@
 var a23220 =
 [
-    [ "boss_leotheras_the_blind", "d7/d97/a23220.html#a9229850f996812366a20508931965a87", null ],
-    [ "AttackStart", "d7/d97/a23220.html#a678ed3eba7d53976fd6efa9051d11124", null ],
-    [ "DemonTime", "d7/d97/a23220.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
-    [ "DoAction", "d7/d97/a23220.html#a4f3fd791f12b3f176ce109237c516889", null ],
-    [ "ElfTime", "d7/d97/a23220.html#a52f101530de8883231faa7f5fe689691", null ],
-    [ "MoveToTargetIfOutOfRange", "d7/d97/a23220.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
-    [ "Reset", "d7/d97/a23220.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
-    [ "UpdateAI", "d7/d97/a23220.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
-    [ "_recentlySpoken", "d7/d97/a23220.html#ad5231f13a247247dd7095b16c381fc7c", null ]
+    [ "boss_najentus", "d7/d97/a23220.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "d7/d97/a23220.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "d7/d97/a23220.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "d7/d97/a23220.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "d7/d97/a23220.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
+    [ "_canTalk", "d7/d97/a23220.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
 ];

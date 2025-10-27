@@ -1,8 +1,9 @@
 var a13800 =
 [
-    [ "npc_the_scourge_cauldronAI", "d8/dd2/a13800.html#aa8b221cfe49b09efbfe5943489c844b8", null ],
-    [ "DoDie", "d8/dd2/a13800.html#a9f720a27db2943a66b11ad6355690bf5", null ],
-    [ "JustEngagedWith", "d8/dd2/a13800.html#a89954dec2f7d57d933c18822333243ac", null ],
-    [ "MoveInLineOfSight", "d8/dd2/a13800.html#a256195dbe75859d72afcd0defb9ff76e", null ],
-    [ "Reset", "d8/dd2/a13800.html#ab18bb2eb344f45827685786c665b1750", null ]
+    [ "npc_partygoer", "d8/dd2/a13800.html#af053caedfd1fa8173b875f521d279418", null ],
+    [ "Initialize", "d8/dd2/a13800.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
+    [ "Reset", "d8/dd2/a13800.html#ad1936099ec5696a2a593e5041b0360c6", null ],
+    [ "UpdateAI", "d8/dd2/a13800.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
+    [ "_events", "d8/dd2/a13800.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
+    [ "_facing", "d8/dd2/a13800.html#a9e934091894987ec091b03090bf733e5", null ]
 ];

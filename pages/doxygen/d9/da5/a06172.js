@@ -1,5 +1,6 @@
 var a06172 =
 [
-    [ "SimpleCharmedAI", "d9/da5/a06172.html#ada8d12d7df75dca5c87c633348d1b27b", null ],
-    [ "UpdateAI", "d9/da5/a06172.html#a5e2c8ae6b601b7fcc36f8c2c49bcd9a6", null ]
+    [ "TriggerAI", "d9/da5/a06172.html#ad8cc7eae28b11af049db88e0d8ff149b", null ],
+    [ "IsSummonedBy", "d9/da5/a06172.html#a0bcffd9eab068e35d71e3176c33359f1", null ],
+    [ "Permissible", "d9/da5/a06172.html#aa979e7a4774b35bf83ed137543d517b1", null ]
 ];

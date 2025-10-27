@@ -1,9 +1,6 @@
 var a13456 =
 [
-    [ "npc_dark_fiend", "db/dba/a13456.html#a8c4ebf7ba2f991df7053d40108330609", null ],
-    [ "DamageTaken", "db/dba/a13456.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
-    [ "Reset", "db/dba/a13456.html#a5622d14f84ad8e47da773852f1778d56", null ],
-    [ "UpdateAI", "db/dba/a13456.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
-    [ "_lastVictimGUID", "db/dba/a13456.html#abcccb35701f21d417e3c13709cc24281", null ],
-    [ "_spellCast", "db/dba/a13456.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
+    [ "HandleActivateObject", "db/dba/a13456.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
+    [ "PrepareSpellScript", "db/dba/a13456.html#ad55914fdc6771e09a508572d59ad30ed", null ],
+    [ "Register", "db/dba/a13456.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
 ];

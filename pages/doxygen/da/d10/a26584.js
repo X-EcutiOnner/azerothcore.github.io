@@ -1,6 +1,5 @@
 var a26584 =
 [
-    [ "HandleFinish", "da/d10/a26584.html#ac4c50220d86f809644e339fc578d9b4a", null ],
-    [ "PrepareSpellScript", "da/d10/a26584.html#a5a14594ed93150e34626a7e0edb8171b", null ],
-    [ "Register", "da/d10/a26584.html#a9d28a3b88d57e2f89921d59f56148f74", null ]
+    [ "PrepareSpellScript", "da/d10/a26584.html#aa2d9d885e55c1685c2ce9cbc5b4d4279", null ],
+    [ "Register", "da/d10/a26584.html#a721430db1738b255f114483bdddef5e2", null ]
 ];

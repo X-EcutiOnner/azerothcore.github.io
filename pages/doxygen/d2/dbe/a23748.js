@@ -1,9 +1,12 @@
 var a23748 =
 [
-    [ "boss_dalliah_the_doomsayer", "d2/dbe/a23748.html#ad6edf9623942297b28bc7420ec0cc733", null ],
-    [ "InitializeAI", "d2/dbe/a23748.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
-    [ "JustDied", "d2/dbe/a23748.html#a431edc9c25fb125d7d267073eb1c1423", null ],
-    [ "JustEngagedWith", "d2/dbe/a23748.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
-    [ "KilledUnit", "d2/dbe/a23748.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
-    [ "Reset", "d2/dbe/a23748.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
+    [ "boss_omor_the_unscarred", "d2/dbe/a23748.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
+    [ "JustDied", "d2/dbe/a23748.html#a9ddae483a0f8cefd8a19975b60002660", null ],
+    [ "JustEngagedWith", "d2/dbe/a23748.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
+    [ "JustSummoned", "d2/dbe/a23748.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
+    [ "KilledUnit", "d2/dbe/a23748.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
+    [ "Reset", "d2/dbe/a23748.html#a0ec22c50cd096677a20299ab45a3c344", null ],
+    [ "UpdateAI", "d2/dbe/a23748.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
+    [ "_hasSpoken", "d2/dbe/a23748.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
+    [ "_targetGUID", "d2/dbe/a23748.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
 ];

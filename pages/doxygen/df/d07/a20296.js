@@ -1,10 +1,6 @@
 var a20296 =
 [
-    [ "HandleEffectPeriodic", "df/d07/a20296.html#aa62be73e00d9cb512806787eaf1c4144", null ],
-    [ "Load", "df/d07/a20296.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
-    [ "PrepareAuraScript", "df/d07/a20296.html#ad9664bff267b330565d3c706e1752e9d", null ],
-    [ "Register", "df/d07/a20296.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
-    [ "Validate", "df/d07/a20296.html#a3f6653b4ca202d9b0971189930e8b463", null ],
-    [ "_counter", "df/d07/a20296.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
-    [ "_prev", "df/d07/a20296.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
+    [ "achievement_freya_knock_on_wood", "df/d07/a20296.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "df/d07/a20296.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "df/d07/a20296.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

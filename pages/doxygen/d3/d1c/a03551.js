@@ -1,7 +1,7 @@
 var a03551 =
 [
-    [ "spell_q12779_an_end_to_all_things", "d3/dbf/a13239.html", "d3/dbf/a13239" ],
-    [ "spell_q12779_an_end_to_all_things_devour_aura", "d7/d9f/a13243.html", "d7/d9f/a13243" ],
+    [ "spell_q12779_an_end_to_all_things", "d4/d45/a13240.html", "d4/d45/a13240" ],
+    [ "spell_q12779_an_end_to_all_things_devour_aura", "db/d49/a13244.html", "db/d49/a13244" ],
     [ "DevourHumanoid", "d3/d1c/a03551.html#a4a9cc76e41bd77e034f57ac5663bfbe8", [
       [ "NPC_HEARTHGLEN_CRUSADER", "d3/d1c/a03551.html#a4a9cc76e41bd77e034f57ac5663bfbe8a5bcd1929ca343fde7380dbf2f02650d7", null ],
       [ "NPC_TIRISFAL_CRUSADER", "d3/d1c/a03551.html#a4a9cc76e41bd77e034f57ac5663bfbe8a1808abd83c367810e3ca5ac70b35dcd8", null ]

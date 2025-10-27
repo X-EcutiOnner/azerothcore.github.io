@@ -1,7 +1,5 @@
 var a15504 =
 [
-    [ "HandleDummy", "de/d22/a15504.html#a38dafff805471b19ca3cca4ff5273a87", null ],
-    [ "PrepareSpellScript", "de/d22/a15504.html#a40db5a46491aa22b5347f99b0251f1b8", null ],
-    [ "Register", "de/d22/a15504.html#a2f297ab67d5e2e990658706f7c508bd4", null ],
-    [ "Validate", "de/d22/a15504.html#abb7946f53e6271ae69d34caacef61f47", null ]
+    [ "at_battleguard_sartura", "de/d22/a15504.html#a9247cdebeb57d2ddbfa75f60da125d36", null ],
+    [ "OnTrigger", "de/d22/a15504.html#a6a7b9f210ce0c2844b4f2412c0fe440e", null ]
 ];

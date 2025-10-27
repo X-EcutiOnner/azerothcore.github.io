@@ -1,6 +1,7 @@
 var a19164 =
 [
-    [ "boss_nothAI", "d7/df6/a19168.html", "d7/df6/a19168" ],
-    [ "boss_noth", "db/dc4/a19164.html#a2760f1ec46a21f22de0e57527cbe9768", null ],
-    [ "GetAI", "db/dc4/a19164.html#a534f30792c051ab44c6c07c9347893e5", null ]
+    [ "HandleTriggerSpell", "db/dc4/a19164.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
+    [ "PrepareAuraScript", "db/dc4/a19164.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
+    [ "Register", "db/dc4/a19164.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
+    [ "Validate", "db/dc4/a19164.html#a813bad39641956fff697580f271416d2", null ]
 ];

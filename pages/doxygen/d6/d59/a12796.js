@@ -1,7 +1,7 @@
 var a12796 =
 [
-    [ "HandleDummy", "d6/d59/a12796.html#a02b89ff0a3ea53bb2740c7deb51279c2", null ],
-    [ "PrepareSpellScript", "d6/d59/a12796.html#a55a794dbaf76a549bd11fbe2a2432609", null ],
-    [ "Register", "d6/d59/a12796.html#a17784359e300e9d66c0c22bc5e7b6f6c", null ],
-    [ "Validate", "d6/d59/a12796.html#af12eb55064f7f1f1063ec0ce2863bc57", null ]
+    [ "boss_maiden_of_virtue", "d6/d59/a12796.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
+    [ "JustDied", "d6/d59/a12796.html#a6eded246318f6b47b46f45168e4a8069", null ],
+    [ "JustEngagedWith", "d6/d59/a12796.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
+    [ "KilledUnit", "d6/d59/a12796.html#a32dd66a297d11f5ffac1841bae15727a", null ]
 ];

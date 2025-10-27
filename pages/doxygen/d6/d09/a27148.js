@@ -1,6 +1,8 @@
 var a27148 =
 [
-    [ "AreaTrigger_at_area_52_entrance", "d6/d09/a27148.html#a5b7e21903bca1c04bad1394c6965d032", null ],
-    [ "OnTrigger", "d6/d09/a27148.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
-    [ "_triggerTimes", "d6/d09/a27148.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
+    [ "CheckProc", "d6/d09/a27148.html#a8a61fbd855294e6218cfc0e2dd3706c9", null ],
+    [ "OnProc", "d6/d09/a27148.html#a9217135a55d6612bf1d36b63ac09e7fb", null ],
+    [ "PrepareAuraScript", "d6/d09/a27148.html#a8bf573bb900773d4669708536b0b8011", null ],
+    [ "Register", "d6/d09/a27148.html#ae8ddcb6329088f904cbae3292ff92023", null ],
+    [ "Validate", "d6/d09/a27148.html#a918c9334b7f20710c0d6448a33c94601", null ]
 ];

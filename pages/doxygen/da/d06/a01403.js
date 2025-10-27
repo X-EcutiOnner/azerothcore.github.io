@@ -1,8 +1,10 @@
 var a01403 =
 [
-    [ "GameObjectScript", "d8/de0/a10359.html", "d8/de0/a10359" ],
-    [ "GenericGameObjectScript< AI >", "d2/d98/a10363.html", "d2/d98/a10363" ],
-    [ "FactoryGameObjectScript< AI, AIFactory >", "da/da4/a10367.html", "da/da4/a10367" ],
-    [ "RegisterGameObjectAI", "da/d06/a01403.html#a87397a2ba2a1acd88f62793eae9aa30e", null ],
-    [ "RegisterGameObjectAIWithFactory", "da/d06/a01403.html#a1614f98721d8a94351c4be15a72e499f", null ]
+    [ "GameEventScript", "db/d5f/a10356.html", "db/d5f/a10356" ],
+    [ "GameEventHook", "da/d06/a01403.html#a6f634b591917b5ff2ab57f9739afa44b", [
+      [ "GAMEEVENTHOOK_ON_START", "da/d06/a01403.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6", null ],
+      [ "GAMEEVENTHOOK_ON_STOP", "da/d06/a01403.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d", null ],
+      [ "GAMEEVENTHOOK_ON_EVENT_CHECK", "da/d06/a01403.html#a6f634b591917b5ff2ab57f9739afa44ba584cbf2008c774dd76adfd51e416663f", null ],
+      [ "GAMEEVENTHOOK_END", "da/d06/a01403.html#a6f634b591917b5ff2ab57f9739afa44baef9ad9e7c26fbfcea336dddf0e16d395", null ]
+    ] ]
 ];

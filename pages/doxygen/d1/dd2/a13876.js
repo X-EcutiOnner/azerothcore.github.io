@@ -1,8 +1,13 @@
 var a13876 =
 [
-    [ "FilterTargets", "d1/dd2/a13876.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
-    [ "OnHit", "d1/dd2/a13876.html#ac25886536c353f09838188362fb8ae84", null ],
-    [ "PrepareSpellScript", "d1/dd2/a13876.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
-    [ "Register", "d1/dd2/a13876.html#afa419365236c09914f758846978e2cbb", null ],
-    [ "Validate", "d1/dd2/a13876.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
+    [ "npc_ravenclaw_apparitionAI", "d1/dd2/a13876.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
+    [ "EmoteCrowd", "d1/dd2/a13876.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
+    [ "JustDied", "d1/dd2/a13876.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
+    [ "JustSummoned", "d1/dd2/a13876.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
+    [ "SummonCrowd", "d1/dd2/a13876.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
+    [ "UpdateAI", "d1/dd2/a13876.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
+    [ "events", "d1/dd2/a13876.html#a27522107b5e1f54909294f800f26663f", null ],
+    [ "HasEnded", "d1/dd2/a13876.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
+    [ "summons", "d1/dd2/a13876.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
+    [ "TalkRNG", "d1/dd2/a13876.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
 ];

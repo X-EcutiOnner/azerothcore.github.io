@@ -1,11 +1,9 @@
 var a23544 =
 [
-    [ "boss_krosh_firehand", "d2/d1d/a23544.html#a1ef3618844f086de7875f26e7e6190f9", null ],
-    [ "AttackStart", "d2/d1d/a23544.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
-    [ "JustDied", "d2/d1d/a23544.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
-    [ "JustEngagedWith", "d2/d1d/a23544.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
-    [ "Reset", "d2/d1d/a23544.html#a989c4b762a7cdb228b245e91881d97a2", null ],
-    [ "UpdateAI", "d2/d1d/a23544.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
-    [ "_scheduler", "d2/d1d/a23544.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
-    [ "instance", "d2/d1d/a23544.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
+    [ "boss_mennu_the_betrayer", "d2/d1d/a23544.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
+    [ "JustDied", "d2/d1d/a23544.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
+    [ "JustEngagedWith", "d2/d1d/a23544.html#a535b9af1677b8af50515818a18e88d27", null ],
+    [ "JustSummoned", "d2/d1d/a23544.html#a59949872270890ef794a77029074210b", null ],
+    [ "KilledUnit", "d2/d1d/a23544.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
+    [ "Reset", "d2/d1d/a23544.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
 ];

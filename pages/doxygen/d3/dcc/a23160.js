@@ -1,12 +1,12 @@
 var a23160 =
 [
-    [ "boss_fathomguard_sharkkis", "d3/dcc/a23160.html#affc3a4422ce62311879bef6df104c9b9", null ],
-    [ "EnterEvadeMode", "d3/dcc/a23160.html#a344072e382566575168cdcf57d0f6481", null ],
-    [ "JustDied", "d3/dcc/a23160.html#a1a4fdf91f6d8d0e3e0672e174152a59d", null ],
-    [ "JustEngagedWith", "d3/dcc/a23160.html#a5724db6f55f1c5ed2e351603a1b26943", null ],
-    [ "JustSummoned", "d3/dcc/a23160.html#a31098d1e91412b797663fe677114af20", null ],
-    [ "Reset", "d3/dcc/a23160.html#a5d8b89e2d4a203df5ec574b96df0d489", null ],
-    [ "UpdateAI", "d3/dcc/a23160.html#ab71689fda10d6d31dd2bfc72026bd755", null ],
-    [ "_instance", "d3/dcc/a23160.html#ad3dc90987a8b01fcd55799f66d18906c", null ],
-    [ "_summons", "d3/dcc/a23160.html#a73f887b3f829027fc336a8e4a9c5b963", null ]
+    [ "npc_creature_generator_akama", "d3/dcc/a23160.html#a8e91cadea7f135ff692635e4d39923e0", null ],
+    [ "DoAction", "d3/dcc/a23160.html#a01efeecd374056da287e4a1e468472b6", null ],
+    [ "JustSummoned", "d3/dcc/a23160.html#af58d7b130ed3b6c209c08ae14444bfe3", null ],
+    [ "Reset", "d3/dcc/a23160.html#a23cf08661802f247147bb23cff30eeab", null ],
+    [ "SummonedCreatureDies", "d3/dcc/a23160.html#a35b7ecfa659d80a869868b9a2732d92b", null ],
+    [ "UpdateAI", "d3/dcc/a23160.html#a8c6e3ca67691e7625700f22c5b1c09c5", null ],
+    [ "instance", "d3/dcc/a23160.html#a109aea7bb0747f8572c1d46e9df2d2a5", null ],
+    [ "spawnCounter", "d3/dcc/a23160.html#a02d8acace195438fe6e8d4705a043078", null ],
+    [ "summons", "d3/dcc/a23160.html#a3d532e607c48298ca0464ee630dd27b3", null ]
 ];

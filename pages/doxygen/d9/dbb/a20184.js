@@ -1,8 +1,6 @@
 var a20184 =
 [
-    [ "npc_ulduar_saronite_animusAI", "d9/dbb/a20184.html#a2b94427feb24a7bda075b6a8f403433a", null ],
-    [ "JustDied", "d9/dbb/a20184.html#a30abcab01de3732bc5525864576615b0", null ],
-    [ "UpdateAI", "d9/dbb/a20184.html#a1490961adc8fc03ab28a992aff55b43b", null ],
-    [ "pInstance", "d9/dbb/a20184.html#a5d3b297355f286b0ad08ed38dbd5b0d2", null ],
-    [ "timer", "d9/dbb/a20184.html#a3d0345d4c503eb3f0e4acbe346f1c5e5", null ]
+    [ "CheckAreaTarget", "d9/dbb/a20184.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
+    [ "PrepareAuraScript", "d9/dbb/a20184.html#a921b2f67c417244310398bd93061d61c", null ],
+    [ "Register", "d9/dbb/a20184.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
 ];

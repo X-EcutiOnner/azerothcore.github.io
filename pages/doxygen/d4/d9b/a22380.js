@@ -1,7 +1,5 @@
 var a22380 =
 [
-    [ "npc_wg_demolisher_engineer", "d4/d9b/a22380.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "d4/d9b/a22380.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "d4/d9b/a22380.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "d4/d9b/a22380.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "go_pressure_valve", "d4/d9b/a22380.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
+    [ "OnGossipHello", "d4/d9b/a22380.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
 ];

@@ -1,6 +1,6 @@
 var a25608 =
 [
-    [ "HandleDummy", "de/da6/a25608.html#a7b56d07d46647a2790553d40e75da79d", null ],
-    [ "PrepareSpellScript", "de/da6/a25608.html#aad36c108f4531c19ba552064ba0d3248", null ],
-    [ "Register", "de/da6/a25608.html#a754fcf618f53b4b17c2bcae4740e561f", null ]
+    [ "CalculateAmount", "de/da6/a25608.html#ac0018b57967a3d3ae71aa81745032f15", null ],
+    [ "PrepareAuraScript", "de/da6/a25608.html#ab249a493050c5527eeec8913e94cfc64", null ],
+    [ "Register", "de/da6/a25608.html#a8f078f8370eacba197ceb2068b6a538d", null ]
 ];

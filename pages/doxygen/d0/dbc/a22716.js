@@ -1,15 +1,9 @@
 var a22716 =
 [
-    [ "boss_grandmaster_vorpil", "d0/dbc/a22716.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
-    [ "counterVoidSpawns", "d0/dbc/a22716.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
-    [ "JustDied", "d0/dbc/a22716.html#ab492fff8a9a275c662b44eeff3300b90", null ],
-    [ "JustEngagedWith", "d0/dbc/a22716.html#af1e6da02cd33742efad568424cf32c4f", null ],
-    [ "JustSummoned", "d0/dbc/a22716.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
-    [ "KilledUnit", "d0/dbc/a22716.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
-    [ "MoveInLineOfSight", "d0/dbc/a22716.html#adb24a3d337b64f37759a3a39802d7e27", null ],
-    [ "Reset", "d0/dbc/a22716.html#a6471121ee02a834591b36d03fae28672", null ],
-    [ "spawnVoidTraveler", "d0/dbc/a22716.html#aa842bc3d88d0a3a411dcba3711809956", null ],
-    [ "summonPortals", "d0/dbc/a22716.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
-    [ "sayHelp", "d0/dbc/a22716.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
-    [ "sayIntro", "d0/dbc/a22716.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
+    [ "OPvPCapturePointGH", "d0/dbc/a22716.html#a6e46100e50212310af4301c492d5773e", null ],
+    [ "ChangeState", "d0/dbc/a22716.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
+    [ "FillInitialWorldStates", "d0/dbc/a22716.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
+    [ "HandlePlayerEnter", "d0/dbc/a22716.html#afea733c44d129d9a5af78a8337d9e04a", null ],
+    [ "HandlePlayerLeave", "d0/dbc/a22716.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
+    [ "SendChangePhase", "d0/dbc/a22716.html#aec741b9102829bf77850dc06a49bb8da", null ]
 ];

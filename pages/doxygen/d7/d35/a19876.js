@@ -1,6 +1,6 @@
 var a19876 =
 [
-    [ "npc_auriaya_sanctum_sentryAI", "de/dd1/a19880.html", "de/dd1/a19880" ],
-    [ "npc_auriaya_sanctum_sentry", "d7/d35/a19876.html#aa275374ba3a19a2e6a8768d4f01752b2", null ],
-    [ "GetAI", "d7/d35/a19876.html#a6a8843d3f24378a2fd334e773618ab72", null ]
+    [ "npc_collapsing_starAI", "de/dd1/a19880.html", "de/dd1/a19880" ],
+    [ "npc_collapsing_star", "d7/d35/a19876.html#a8d57987c9b4622746d4f42a2b4845b9e", null ],
+    [ "GetAI", "d7/d35/a19876.html#a346af96d122e64c68defdeccb9183cd4", null ]
 ];

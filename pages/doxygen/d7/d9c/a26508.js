@@ -1,6 +1,6 @@
 var a26508 =
 [
-    [ "HandleTriggerSpell", "d7/d9c/a26508.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
-    [ "PrepareAuraScript", "d7/d9c/a26508.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
-    [ "Register", "d7/d9c/a26508.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
+    [ "CheckCast", "d7/d9c/a26508.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
+    [ "PrepareSpellScript", "d7/d9c/a26508.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
+    [ "Register", "d7/d9c/a26508.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
 ];

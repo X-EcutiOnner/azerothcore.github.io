@@ -1,6 +1,6 @@
 var a02423 =
 [
-    [ "boss_captain_skarloc", "d9/d72/a15019.html", "d9/d72/a15019" ],
+    [ "boss_captain_skarloc", "dd/d8d/a15020.html", "dd/d8d/a15020" ],
     [ "Misc", "d5/d73/a02423.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d2/db4/a03695.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "db/d49/a03737.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

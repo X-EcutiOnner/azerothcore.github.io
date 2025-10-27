@@ -1,6 +1,6 @@
 var a23112 =
 [
-    [ "HandleScriptEffect", "d1/d2b/a23112.html#a2b46490b70bf93effb7379686e648618", null ],
-    [ "PrepareSpellScript", "d1/d2b/a23112.html#a5030d071372ef12663f6a75be637476e", null ],
-    [ "Register", "d1/d2b/a23112.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
+    [ "boss_essence_of_desireAI", "d9/d12/a23116.html", "d9/d12/a23116" ],
+    [ "boss_essence_of_desire", "d1/d2b/a23112.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
+    [ "GetAI", "d1/d2b/a23112.html#a14b66470c508fa24e214062aeec0aae6", null ]
 ];

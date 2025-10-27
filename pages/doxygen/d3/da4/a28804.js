@@ -1,8 +1,11 @@
 var a28804 =
 [
-    [ "TileConfig", "d3/da4/a28804.html#a67b10c747fb0d2bc2a263e5009d42e1b", null ],
-    [ "BASE_UNIT_DIM", "d3/da4/a28804.html#a5a882b0595456ab3fcca85c80af3b6f8", null ],
-    [ "TILES_PER_MAP", "d3/da4/a28804.html#ae3443f89a8a698823c91096abe51a6a9", null ],
-    [ "VERTEX_PER_MAP", "d3/da4/a28804.html#a46640a80428b1ab93d65d593c03d13ed", null ],
-    [ "VERTEX_PER_TILE", "d3/da4/a28804.html#ae0331739074e5546818e13527a76524a", null ]
+    [ "IsAvailable", "d3/da4/a28804.html#adfebd7a162ebae8396669de031c768a6", null ],
+    [ "operator bool", "d3/da4/a28804.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
+    [ "operator*", "d3/da4/a28804.html#a24733bf06b4a91abcf4945aa5303a275", null ],
+    [ "operator->", "d3/da4/a28804.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
+    [ "SecretMgr", "d3/da4/a28804.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
+    [ "lock", "d3/da4/a28804.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
+    [ "state", "d3/da4/a28804.html#ad5c4eb66bfdb78d40bc8cdacd34a257b", null ],
+    [ "value", "d3/da4/a28804.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
 ];

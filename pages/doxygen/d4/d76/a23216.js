@@ -1,14 +1,7 @@
 var a23216 =
 [
-    [ "SpellIds", "d4/d76/a23216.html#a2d0e9022edc8a9f6fc0e34330fda114a", [
-      [ "SPELL_SUMMON_WAVE_A_MOB", "d4/d76/a23216.html#a2d0e9022edc8a9f6fc0e34330fda114aa19ea6e555692392677c74fccd206380b", null ],
-      [ "SPELL_SUMMON_WAVE_B_MOB", "d4/d76/a23216.html#a2d0e9022edc8a9f6fc0e34330fda114aa938130293fb55c96d06462e407a24a89", null ],
-      [ "SPELL_SUMMON_WAVE_C_MOB", "d4/d76/a23216.html#a2d0e9022edc8a9f6fc0e34330fda114aadc855654104e4ec0a09540e9b51cb098", null ],
-      [ "SPELL_SUMMON_WAVE_D_MOB", "d4/d76/a23216.html#a2d0e9022edc8a9f6fc0e34330fda114aa3bbb32a8c4da3b06e9bf5da83f39970d", null ]
-    ] ],
-    [ "FilterTargets", "d4/d76/a23216.html#a2a1a2e5069587f52ae968c84cd702eaf", null ],
-    [ "HandleHit", "d4/d76/a23216.html#aa670812f42c3082f42e0f232ee6bee16", null ],
-    [ "PrepareSpellScript", "d4/d76/a23216.html#a7fe65229c64c27909868f02439c1ef66", null ],
-    [ "Register", "d4/d76/a23216.html#a0a8f29b524391ff257aba5cbdc355115", null ],
-    [ "Validate", "d4/d76/a23216.html#ab8bcdcfcad2a9998d95567006817711e", null ]
+    [ "HandleOnHit", "d4/d76/a23216.html#a9f368396cef39ba3bd70480f11c44700", null ],
+    [ "PrepareSpellScript", "d4/d76/a23216.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
+    [ "Register", "d4/d76/a23216.html#a99f80adcebdd9726a8df51f99d415651", null ],
+    [ "Validate", "d4/d76/a23216.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
 ];

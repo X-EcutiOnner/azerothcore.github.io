@@ -1,13 +1,12 @@
 var a21732 =
 [
-    [ "npc_shandy_dalaranAI", "d3/d4b/a21732.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
-    [ "Reset", "d3/d4b/a21732.html#a38f0630d4e18cea01de343afdcb96db3", null ],
-    [ "RollTask", "d3/d4b/a21732.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
-    [ "SetData", "d3/d4b/a21732.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
-    [ "UpdateAI", "d3/d4b/a21732.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
-    [ "_aquanosGUID", "d3/d4b/a21732.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
-    [ "_canWash", "d3/d4b/a21732.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
-    [ "_events", "d3/d4b/a21732.html#a3fbae63669c8382097b0bcb936301945", null ],
-    [ "_lCount", "d3/d4b/a21732.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
-    [ "_lSource", "d3/d4b/a21732.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
+    [ "npc_beryl_sorcererAI", "d3/d4b/a21732.html#a8f99f5f2ad6ccb1b068a86904bb1b864", null ],
+    [ "Initialize", "d3/d4b/a21732.html#a40400e4e993d20d9bbe4faf063102521", null ],
+    [ "JustEngagedWith", "d3/d4b/a21732.html#afae877e8dac583c9420d214f77c2b438", null ],
+    [ "Reset", "d3/d4b/a21732.html#a17a16337c09013483c58cae38576d969", null ],
+    [ "SpellHit", "d3/d4b/a21732.html#a762ee3ae8df3757279821af13101e0be", null ],
+    [ "UpdateAI", "d3/d4b/a21732.html#a42ec665b06988d13be6cbee646afc898", null ],
+    [ "_chainsCast", "d3/d4b/a21732.html#ab6238d539b10a7db9191bdc685ea67eb", null ],
+    [ "_events", "d3/d4b/a21732.html#ac640099ca01ae2183b84ae9ee3407cc1", null ],
+    [ "_playerGUID", "d3/d4b/a21732.html#a96f9b39c09b7a5fb484ae9069412751f", null ]
 ];

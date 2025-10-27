@@ -1,5 +1,7 @@
 var a27844 =
 [
-    [ "ID", "d0/d30/a27844.html#a4a79da5825cf01d38d6ab9d98e033964", null ],
-    [ "parentCategory", "d0/d30/a27844.html#a705e301dff461a8d7aefdc6fb29d39cc", null ]
+    [ "npc_guardianAI", "d0/d30/a27844.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
+    [ "JustEngagedWith", "d0/d30/a27844.html#a50257f80245bc59437e53083badcb056", null ],
+    [ "Reset", "d0/d30/a27844.html#a217df9bae079f56ffd70d27958fb2756", null ],
+    [ "UpdateAI", "d0/d30/a27844.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
 ];

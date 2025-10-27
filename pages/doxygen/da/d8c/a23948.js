@@ -1,8 +1,9 @@
 var a23948 =
 [
-    [ "boss_mechano_lord_capacitus", "da/d8c/a23948.html#ab5867184d4e50a89a1afe25eb40e6bc3", null ],
-    [ "JustDied", "da/d8c/a23948.html#a596314e7aebcc9e2e7311b4e0850b817", null ],
-    [ "JustEngagedWith", "da/d8c/a23948.html#a4aa9ee50a942fe123acfdeee0350fa2d", null ],
-    [ "JustSummoned", "da/d8c/a23948.html#a9a0b2cac08002db63162f95b9476c251", null ],
-    [ "KilledUnit", "da/d8c/a23948.html#a6a408c654f91a44a40b3df52c0f2b093", null ]
+    [ "boss_high_botanist_freywinn", "da/d8c/a23948.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
+    [ "JustDied", "da/d8c/a23948.html#a7b370482ea195d0305cba339ce0cbab3", null ],
+    [ "JustEngagedWith", "da/d8c/a23948.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
+    [ "KilledUnit", "da/d8c/a23948.html#a80a997e0d12c175da0a46d7362890b9c", null ],
+    [ "ResumeEncounter", "da/d8c/a23948.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
+    [ "SummonedCreatureDies", "da/d8c/a23948.html#a7f1a02d4b944191471f59ba728b6372e", null ]
 ];

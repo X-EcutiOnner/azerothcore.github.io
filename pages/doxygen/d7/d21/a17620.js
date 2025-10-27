@@ -1,6 +1,6 @@
 var a17620 =
 [
-    [ "npc_igb_ship_crewAI", "d5/d42/a17624.html", "d5/d42/a17624" ],
-    [ "npc_igb_ship_crew", "d7/d21/a17620.html#a5f4380aba94766a6a75b97026998b881", null ],
-    [ "GetAI", "d7/d21/a17620.html#a48955817e21a01a726b50685b467c229", null ]
+    [ "FilterTargets", "d7/d21/a17620.html#a59255a2cee0f9d8a75ca183647851779", null ],
+    [ "PrepareSpellScript", "d7/d21/a17620.html#af8d1cc9c709aeb3a68d1f452bb605c71", null ],
+    [ "Register", "d7/d21/a17620.html#a6b6dbeaa8feb8eac4441a87cdf371a36", null ]
 ];

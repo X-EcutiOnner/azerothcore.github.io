@@ -1,7 +1,7 @@
 var a23052 =
 [
-    [ "HandleOnHit", "d4/ddd/a23052.html#a9f368396cef39ba3bd70480f11c44700", null ],
-    [ "PrepareSpellScript", "d4/ddd/a23052.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
-    [ "Register", "d4/ddd/a23052.html#a99f80adcebdd9726a8df51f99d415651", null ],
-    [ "Validate", "d4/ddd/a23052.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
+    [ "PrepareAuraScript", "d4/ddd/a23052.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
+    [ "ReflectDamage", "d4/ddd/a23052.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
+    [ "Register", "d4/ddd/a23052.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
+    [ "Validate", "d4/ddd/a23052.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
 ];

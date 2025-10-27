@@ -1,8 +1,6 @@
 var a14036 =
 [
-    [ "FilterTargets", "de/d7b/a14036.html#a28450a72f3d8510bdf35390f56a67f71", null ],
-    [ "HandleScriptEffect", "de/d7b/a14036.html#af97c3c43da4b099bc37e2cf4f2733dce", null ],
-    [ "PrepareSpellScript", "de/d7b/a14036.html#ac9298a59bc8b9735c210b630c68a536e", null ],
-    [ "Register", "de/d7b/a14036.html#a3bfc71bb504a0eb0f63ff307c943c23e", null ],
-    [ "Validate", "de/d7b/a14036.html#a41b2f12ebf919b781fdefab3a42bdb84", null ]
+    [ "cooldown", "de/d7b/a14036.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
+    [ "spell", "de/d7b/a14036.html#a00ee3238030686e1cc66562f7cefb27a", null ],
+    [ "target", "de/d7b/a14036.html#a16e54dbd059baac1b6e7229621339d83", null ]
 ];

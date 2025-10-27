@@ -1,19 +1,9 @@
 var a19872 =
 [
-    [ "boss_auriayaAI", "dc/da7/a19872.html#a1bbc9ffd506dcd3a19925a860f94418f", null ],
-    [ "DoAction", "dc/da7/a19872.html#ac48a5399c13ccda015338649f319621b", null ],
-    [ "GetData", "dc/da7/a19872.html#afda379773808c3974679037828d00b9e", null ],
-    [ "JustDied", "dc/da7/a19872.html#af2316d1c62623c9915cecb1308310856", null ],
-    [ "JustEngagedWith", "dc/da7/a19872.html#a4b939a5e446aeac12fe6dc006a21fe3b", null ],
-    [ "JustReachedHome", "dc/da7/a19872.html#a94f4f2d836042c24e2b26b4664783570", null ],
-    [ "JustSummoned", "dc/da7/a19872.html#a61c3887481f8f7119357ef3402ed82be", null ],
-    [ "KilledUnit", "dc/da7/a19872.html#a0610a140c5b9687f345b60365badd629", null ],
-    [ "Reset", "dc/da7/a19872.html#a8e554328a8179802c3f35326b059d173", null ],
-    [ "SummonedCreatureDies", "dc/da7/a19872.html#a9b3ea0af39d0b391ef181e2846f437cd", null ],
-    [ "UpdateAI", "dc/da7/a19872.html#a9da5d29f33e9e84fdf42c03c72b2ea8a", null ],
-    [ "_feralDied", "dc/da7/a19872.html#a6bd69d474df1db36bd020fad50fbcee4", null ],
-    [ "_nineLives", "dc/da7/a19872.html#a1cfc503178c3c59ee87d2ffb9372636d", null ],
-    [ "events", "dc/da7/a19872.html#afdccfdf0d44d08d9d8ebb6cb235a7503", null ],
-    [ "m_pInstance", "dc/da7/a19872.html#a0984d626105f95a97c8c4469cd2fad8f", null ],
-    [ "summons", "dc/da7/a19872.html#a23b5c1258b56f0eb752abc77e622cc8a", null ]
+    [ "npc_brann_bronzebeard_algalonAI", "dc/da7/a19872.html#a5ab0ff088866cf9d6af99ee3f42e897a", null ],
+    [ "DoAction", "dc/da7/a19872.html#a9de9e9b19b8a635ec4bc0a4f8c8d13c6", null ],
+    [ "MovementInform", "dc/da7/a19872.html#a7f8d3efed49f0d43a5e9e73ee8bd36e0", null ],
+    [ "UpdateAI", "dc/da7/a19872.html#a16e3fcd7f082e04f648d2341a7e83cba", null ],
+    [ "_currentPoint", "dc/da7/a19872.html#ae9da41b5b4cae16e1ed4709ab41b8964", null ],
+    [ "events", "dc/da7/a19872.html#ab71b71ac63517349cb8702bb29d76334", null ]
 ];

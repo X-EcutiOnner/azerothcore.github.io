@@ -1,7 +1,8 @@
 var a25560 =
 [
-    [ "CheckProc", "df/dae/a25560.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
-    [ "HandleProc", "df/dae/a25560.html#a5cf9cea911ead2f261522e55e94c745a", null ],
-    [ "PrepareAuraScript", "df/dae/a25560.html#a3f2b20607f90ad641769eb284ddfab85", null ],
-    [ "Register", "df/dae/a25560.html#a55557026689613e91aeabce1af442237", null ]
+    [ "CalcPeriodic", "df/dae/a25560.html#ab11cad89fe213256353c88c351a8743b", null ],
+    [ "HandleUpdatePeriodic", "df/dae/a25560.html#a096bc5640e42232f7754251daf5b6a8a", null ],
+    [ "OnApply", "df/dae/a25560.html#ae00430a1418a0c3e91ae340f1a33f157", null ],
+    [ "PrepareAuraScript", "df/dae/a25560.html#a85b849676d1c4c08921edff8d472da04", null ],
+    [ "Register", "df/dae/a25560.html#a75a4f12269c7684335c3c09cd5002586", null ]
 ];

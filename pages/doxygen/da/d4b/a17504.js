@@ -1,7 +1,11 @@
 var a17504 =
 [
-    [ "HandleDummy", "da/d4b/a17504.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "da/d4b/a17504.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "da/d4b/a17504.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "da/d4b/a17504.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "npc_blood_queen_lana_thelAI", "da/d4b/a17504.html#a7b099b90600e433e304dee1f356a9909", null ],
+    [ "MoveInLineOfSight", "da/d4b/a17504.html#af1aafdc45abcdfbdbea7f5b67f3bc620", null ],
+    [ "MovementInform", "da/d4b/a17504.html#a004a878ccb5fe68b249342f6a0fce31d", null ],
+    [ "Reset", "da/d4b/a17504.html#a539b0e158c800e1aade54f37aa99751e", null ],
+    [ "UpdateAI", "da/d4b/a17504.html#ae9d2f6b53898db04da58efe0deeceea5", null ],
+    [ "_events", "da/d4b/a17504.html#a8ec7641bab991fc584b066fae55690bf", null ],
+    [ "_instance", "da/d4b/a17504.html#a9058ce72bb956d7e90eff740c0f9633a", null ],
+    [ "_introDone", "da/d4b/a17504.html#a40c642758a751e072e41343bb75ad306", null ]
 ];

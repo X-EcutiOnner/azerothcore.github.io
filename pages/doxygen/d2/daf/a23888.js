@@ -1,6 +1,5 @@
 var a23888 =
 [
-    [ "HandlePeriodic", "d2/daf/a23888.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
-    [ "PrepareAuraScript", "d2/daf/a23888.html#a75d72d196ded2ee109d0231d4342890a", null ],
-    [ "Register", "d2/daf/a23888.html#a148013ea68bbc573bddc1c3639dba019", null ]
+    [ "at_shattered_halls_execution", "d2/daf/a23888.html#a73f1d1f03960acd070b7996257f7a526", null ],
+    [ "OnTrigger", "d2/daf/a23888.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
 ];

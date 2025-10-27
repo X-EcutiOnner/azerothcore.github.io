@@ -1,6 +1,6 @@
 var a26376 =
 [
-    [ "CheckRequirement", "da/d26/a26376.html#acaae3858de4d56028e3cb4581a57450c", null ],
-    [ "PrepareSpellScript", "da/d26/a26376.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
-    [ "Register", "da/d26/a26376.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
+    [ "CalculateAmount", "da/d26/a26376.html#a9c4a38bb60cc61156da5bd1b89b3e116", null ],
+    [ "PrepareAuraScript", "da/d26/a26376.html#a5bd55cb8b992f7ceb52f7193bcdbf210", null ],
+    [ "Register", "da/d26/a26376.html#a1f717d941f8d100eb73d7e2a3b638bad", null ]
 ];

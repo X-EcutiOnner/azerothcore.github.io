@@ -1,10 +1,9 @@
 var a08428 =
 [
-    [ "ObjectGuidGeneratorBase", "d1/d54/a08428.html#a8af6741cc884915ee86b489fc970fed1", null ],
-    [ "~ObjectGuidGeneratorBase", "d1/d54/a08428.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
-    [ "Generate", "d1/d54/a08428.html#a7a6d9e5a78eef31007a46c10805c3fbe", null ],
-    [ "GetNextAfterMaxUsed", "d1/d54/a08428.html#abf1f20b97af8071459bd850e7106a442", null ],
-    [ "HandleCounterOverflow", "d1/d54/a08428.html#ada7a44ac47b112491c575c38465740fc", null ],
-    [ "Set", "d1/d54/a08428.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
-    [ "_nextGuid", "d1/d54/a08428.html#a4a14102e019aa10f41b050054cacca22", null ]
+    [ "Reset", "d1/d54/a08428.html#a9c210ff536b49481f71bc6c3f60ee864", null ],
+    [ "guid", "d1/d54/a08428.html#ac115013e34f67bc1444fef4fc96c843e", null ],
+    [ "pos", "d1/d54/a08428.html#adff317cbf0c2d159d8ffddf52b4751b3", null ],
+    [ "seat", "d1/d54/a08428.html#ad57bea2ae3beb6a086a116989b0d528f", null ],
+    [ "time", "d1/d54/a08428.html#acec3991f0d19fd9f72e9837eef516057", null ],
+    [ "time2", "d1/d54/a08428.html#a426c651d2f359847b033a4d7f278a191", null ]
 ];

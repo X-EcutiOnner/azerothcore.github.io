@@ -1,6 +1,7 @@
 var a24284 =
 [
-    [ "npc_shadowmoon_tuber_nodeAI", "d4/d40/a24288.html", "d4/d40/a24288" ],
-    [ "npc_shadowmoon_tuber_node", "d7/de0/a24284.html#a98e8c7a84789457900fa342cca209d41", null ],
-    [ "GetAI", "d7/de0/a24284.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
+    [ "npc_kurenai_captiveAI", "d4/d40/a24288.html", "d4/d40/a24288" ],
+    [ "npc_kurenai_captive", "d7/de0/a24284.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "d7/de0/a24284.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "d7/de0/a24284.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
 ];

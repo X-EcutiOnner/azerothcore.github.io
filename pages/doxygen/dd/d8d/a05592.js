@@ -1,4 +1,5 @@
 var a05592 =
 [
-    [ "type", "dd/d8d/a05592.html#a64a76023297787362eb6aae9746eee66", null ]
+    [ "FromString", "dd/d8d/a05592.html#a6992aa92f56607d9546dae7ab5d1af74", null ],
+    [ "ToString", "dd/d8d/a05592.html#abf8940ea78f2f947274a2653da04b0a3", null ]
 ];

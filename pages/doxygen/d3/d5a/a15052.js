@@ -1,6 +1,10 @@
 var a15052 =
 [
-    [ "HandleScript", "d3/d5a/a15052.html#a7e6ec873a252106ba865bdef05f757f5", null ],
-    [ "PrepareSpellScript", "d3/d5a/a15052.html#a98e80c8726c350aca850b6c87c5861da", null ],
-    [ "Register", "d3/d5a/a15052.html#a994bb1f4670d16f6797b9e0df1d8c36c", null ]
+    [ "npc_tarethaAI", "d3/d5a/a15052.html#ad403cdcdc2648bb23687e3a3a7bdbb03", null ],
+    [ "AttackStart", "d3/d5a/a15052.html#a09d91ea8e5923ebc3c0ad01f09f93408", null ],
+    [ "DoAction", "d3/d5a/a15052.html#adbb40db0b70532a20731cf5039e44d0b", null ],
+    [ "MoveInLineOfSight", "d3/d5a/a15052.html#afa0427372e43316851018bf78274707f", null ],
+    [ "Reset", "d3/d5a/a15052.html#ae4d9f3d5751e8a8e0468a80d46f4a4c4", null ],
+    [ "WaypointReached", "d3/d5a/a15052.html#a6946bc02ec686c8af943c9e913c8aee6", null ],
+    [ "instance", "d3/d5a/a15052.html#a3c0f4a61cf5b8da6b885ef7bf9813205", null ]
 ];

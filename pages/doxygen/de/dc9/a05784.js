@@ -1,7 +1,8 @@
 var a05784 =
 [
-    [ "ToString", "de/dc9/a05784.html#a252569604d54dedfbe28b320911aa7b7", null ],
-    [ "ToString", "de/dc9/a05784.html#ab114258f0dc260983aceea6ca63c1a5c", null ],
-    [ "ToString", "de/dc9/a05784.html#a61c3f0b723ff92ab388b5cd27cea3151", null ],
-    [ "data", "de/dc9/a05784.html#ac0fb35a34d9ef399f00ab0bb146afd18", null ]
+    [ "Statements", "de/dc9/a05784.html#a6dc31cb64a22e90cc5275bf6fcaaf000", null ],
+    [ "LoginDatabaseConnection", "de/dc9/a05784.html#aed22866380f9331ff73d4437a779206c", null ],
+    [ "LoginDatabaseConnection", "de/dc9/a05784.html#a27fa1397706cf8b986fe0a05a82a910b", null ],
+    [ "~LoginDatabaseConnection", "de/dc9/a05784.html#a7514a6e42889d5d75dcce2e804fff7b8", null ],
+    [ "DoPrepareStatements", "de/dc9/a05784.html#a3f826d59e4efa55d7825f90f434ae889", null ]
 ];

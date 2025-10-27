@@ -1,11 +1,6 @@
 var a17936 =
 [
-    [ "Load", "d9/d2c/a17936.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
-    [ "PrepareSpellScript", "d9/d2c/a17936.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
-    [ "Register", "d9/d2c/a17936.html#a9adbad7cc2185b22fb16135e78114548", null ],
-    [ "SelectTarget", "d9/d2c/a17936.html#a296ec09cec9661123ea5c86f3f262f32", null ],
-    [ "SetTarget", "d9/d2c/a17936.html#a15373dc2a0767e011faf504f6377e24d", null ],
-    [ "StartAttack", "d9/d2c/a17936.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
-    [ "Validate", "d9/d2c/a17936.html#a7619f7ec6dc0ce14293414729731ed00", null ],
-    [ "_target", "d9/d2c/a17936.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
+    [ "CheckProc", "d9/d2c/a17936.html#a86e62fa26606a77284c80583e7b35d27", null ],
+    [ "PrepareAuraScript", "d9/d2c/a17936.html#a2c10a09e9e5015eb4f3c66d5086dbe1a", null ],
+    [ "Register", "d9/d2c/a17936.html#a6214f78c5c7eb3f60371fa12530d5991", null ]
 ];

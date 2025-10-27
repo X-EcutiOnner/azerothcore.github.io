@@ -1,6 +1,8 @@
 var a22440 =
 [
-    [ "HandlePeriodicDummy", "d9/dfc/a22440.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "d9/dfc/a22440.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "d9/dfc/a22440.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "npc_vics_flying_machineAI", "d9/dfc/a22440.html#a4464e0b1433c4ffb24ae7809b1a0eec5", null ],
+    [ "MovementInform", "d9/dfc/a22440.html#ac4bbe0a3cccb6878d050b717b9efb320", null ],
+    [ "PassengerBoarded", "d9/dfc/a22440.html#aa67dcbb4b43b047398fec2619ad61829", null ],
+    [ "SpellHit", "d9/dfc/a22440.html#aa81229a104e1521d570abec4b6f7bca7", null ],
+    [ "pointId", "d9/dfc/a22440.html#aa1412c23f0c3b964262e145c51aea974", null ]
 ];

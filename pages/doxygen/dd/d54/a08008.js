@@ -1,10 +1,8 @@
 var a08008 =
 [
-    [ "AssistDelayEvent", "dd/d54/a08008.html#a022b9cf38b8e059df2dceca38e366b7d", null ],
-    [ "AssistDelayEvent", "dd/d54/a08008.html#a5371fc2a2f9334b821058b96d0c6bc13", null ],
-    [ "AddAssistant", "dd/d54/a08008.html#a987303ec41927528e9a5abfd9ab75512", null ],
-    [ "Execute", "dd/d54/a08008.html#a5afd295abeb1295e43f48b8951b24c35", null ],
-    [ "m_assistants", "dd/d54/a08008.html#ac6de6befda582bd38f92afda01204e94", null ],
-    [ "m_owner", "dd/d54/a08008.html#aabcce364c8009e8172b9d090059ce48c", null ],
-    [ "m_victim", "dd/d54/a08008.html#a47aff9ce39f5fec3718d6564e53b799e", null ]
+    [ "cancelTime", "dd/d54/a08008.html#a5fe6d6ede54a1f1228e29fc7ef55a413", null ],
+    [ "inProgress", "dd/d54/a08008.html#a8f3eddc8fbca950f184b6fb8b400344e", null ],
+    [ "reason", "dd/d54/a08008.html#a279a5575ca0956266ae81b7a165874cf", null ],
+    [ "victim", "dd/d54/a08008.html#a949262b4b3cbe0f813aae4fab704e7d2", null ],
+    [ "votes", "dd/d54/a08008.html#a7619305fea30cc7fdc47f0a7ee365304", null ]
 ];

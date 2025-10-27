@@ -1,7 +1,6 @@
 var a07620 =
 [
-    [ "V", "d1/d36/a07620.html#aab662b1ba92ab8eb76558f97191142cc", null ],
-    [ "TryAtIndex", "d1/d36/a07620.html#aeff1865d7499b0b112cc39c44fd07112", null ],
-    [ "TryConsume", "d1/d36/a07620.html#ae2a889829917ed0dd76194194efc9b13", null ],
-    [ "N", "d1/d36/a07620.html#aa2c2048ce2e64b2398eeea3f0d789245", null ]
+    [ "value_type", "d1/d36/a07620.html#aa9f15f4c6028776b59bf56cbd63587d9", null ],
+    [ "operator()", "d1/d36/a07620.html#a3042bf741c31893eb607817093239f1a", null ],
+    [ "operator()", "d1/d36/a07620.html#a83fddb5675f63d4535fac9e62cf9638d", null ]
 ];

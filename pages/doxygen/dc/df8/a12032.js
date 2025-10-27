@@ -1,6 +1,6 @@
 var a12032 =
 [
-    [ "boss_gloomrel", "dc/df8/a12032.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
-    [ "OnGossipHello", "dc/df8/a12032.html#a6ce6898142d767a130ec09769f2be488", null ],
-    [ "OnGossipSelect", "dc/df8/a12032.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
+    [ "ironhand_guardianAI", "d2/d7b/a12036.html", "d2/d7b/a12036" ],
+    [ "ironhand_guardian", "dc/df8/a12032.html#a2363002ce096937ecbb4b62af806ee42", null ],
+    [ "GetAI", "dc/df8/a12032.html#a0bf140618a45a6a4398cfe51b8a03488", null ]
 ];

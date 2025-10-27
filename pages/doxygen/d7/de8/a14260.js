@@ -1,6 +1,9 @@
 var a14260 =
 [
-    [ "OnApply", "d7/de8/a14260.html#a4a276b00d4912c210598057620368934", null ],
-    [ "PrepareAuraScript", "d7/de8/a14260.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
-    [ "Register", "d7/de8/a14260.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
+    [ "npc_shade_of_jindo", "d7/de8/a14260.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
+    [ "IsSummonedBy", "d7/de8/a14260.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
+    [ "JustEngagedWith", "d7/de8/a14260.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
+    [ "Reset", "d7/de8/a14260.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
+    [ "UpdateAI", "d7/de8/a14260.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
+    [ "_scheduler", "d7/de8/a14260.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
 ];

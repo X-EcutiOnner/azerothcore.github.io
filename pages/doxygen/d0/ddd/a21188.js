@@ -1,6 +1,6 @@
 var a21188 =
 [
-    [ "npc_ravenous_furbolgAI", "d9/de0/a21192.html", "d9/de0/a21192" ],
-    [ "npc_ravenous_furbolg", "d0/ddd/a21188.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
-    [ "GetAI", "d0/ddd/a21188.html#a284c366e6f5bd024d9627a83dd966669", null ]
+    [ "achievement_yogg_saron_darkness", "d0/ddd/a21188.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
+    [ "OnCheck", "d0/ddd/a21188.html#a809902fca87abaeb4334132763624ed6", null ],
+    [ "_keepersCount", "d0/ddd/a21188.html#a765ec4606bb489760ed1e15db10de1dc", null ]
 ];

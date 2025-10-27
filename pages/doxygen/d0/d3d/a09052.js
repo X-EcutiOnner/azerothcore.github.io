@@ -1,6 +1,12 @@
 var a09052 =
 [
-    [ "m_guid", "d0/d3d/a09052.html#afa8383c81a2d75f9ead2e8f3daa29086", null ],
-    [ "m_instance", "d0/d3d/a09052.html#a8bc0c5e1cf45073f054c5154c21b3d72", null ],
-    [ "m_state", "d0/d3d/a09052.html#a3ac18fb8f5d386e3245a2435e31e45e1", null ]
+    [ "IsTeamAward1", "d0/d3d/a09052.html#a25f928a8f8c3a19b1aa9a5c41b0ba612", null ],
+    [ "IsTeamAward2", "d0/d3d/a09052.html#a053bd7825d0464ac322b449f3d243722", null ],
+    [ "RepFaction1", "d0/d3d/a09052.html#a4e75bb4149f8bb0b83a5aacba47800dd", null ],
+    [ "RepFaction2", "d0/d3d/a09052.html#a5934590811c666d06b68216428574d8a", null ],
+    [ "ReputationMaxCap1", "d0/d3d/a09052.html#a292b78f629723c3993a796eb256dd9b8", null ],
+    [ "ReputationMaxCap2", "d0/d3d/a09052.html#ac90d17e82d6c8a763d3ea868250b44a7", null ],
+    [ "RepValue1", "d0/d3d/a09052.html#a4c5f965e028c45d6ad4d5875f76b2458", null ],
+    [ "RepValue2", "d0/d3d/a09052.html#a74f46afc59593d7ae71ab65aa9e1f1c2", null ],
+    [ "TeamDependent", "d0/d3d/a09052.html#a66e60a90f166e5fc12ea4dbe615c998f", null ]
 ];

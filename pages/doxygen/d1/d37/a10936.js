@@ -1,6 +1,7 @@
 var a10936 =
 [
-    [ "CorpseMapPositionQuery", "d1/d37/a10936.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
-    [ "Read", "d1/d37/a10936.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
-    [ "unk", "d1/d37/a10936.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
+    [ "MinimapPingClient", "d1/d37/a10936.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
+    [ "Read", "d1/d37/a10936.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
+    [ "MapX", "d1/d37/a10936.html#ad4ff3977c260035145d6acd00429d81e", null ],
+    [ "MapY", "d1/d37/a10936.html#abd8640cb98238f339218c3b945885c97", null ]
 ];

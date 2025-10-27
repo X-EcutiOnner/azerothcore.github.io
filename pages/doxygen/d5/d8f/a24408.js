@@ -1,6 +1,8 @@
 var a24408 =
 [
-    [ "HandleDamageCalc", "d5/d8f/a24408.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
-    [ "PrepareSpellScript", "d5/d8f/a24408.html#a183477b6269dbc705a10e60ab36c13b1", null ],
-    [ "Register", "d5/d8f/a24408.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
+    [ "CreatureId", "d5/d8f/a24408.html#a127341c70f8785ceb556b1c11b23f477", null ],
+    [ "SpawnCount", "d5/d8f/a24408.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
+    [ "SpawnTimer", "d5/d8f/a24408.html#aa57ff686c5fde12269e231333d8a8bef", null ],
+    [ "UsedSpawnPoint", "d5/d8f/a24408.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
+    [ "YellTimer", "d5/d8f/a24408.html#a6346259269af7f2936f959f87288dd69", null ]
 ];

@@ -1,8 +1,6 @@
 var a13168 =
 [
-    [ "npc_apothecary_baxter", "d5/dcb/a13168.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
-    [ "JustDied", "d5/dcb/a13168.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
-    [ "Reset", "d5/dcb/a13168.html#afee5103029bd761c48cbf6a11655c44a", null ],
-    [ "UpdateAI", "d5/dcb/a13168.html#ad06090f599d0fda3a88f3182c990a49f", null ],
-    [ "_scheduler", "d5/dcb/a13168.html#a6d813041e055f3c2b28be7cba3acde13", null ]
+    [ "npc_scarlet_minerAI", "d3/d07/a13172.html", "d3/d07/a13172" ],
+    [ "npc_scarlet_miner", "d5/dcb/a13168.html#a8948afd8a41c23ab3afbda9949d9019d", null ],
+    [ "GetAI", "d5/dcb/a13168.html#abd2973972788ce9b39572aaa819d0690", null ]
 ];

@@ -1,11 +1,5 @@
 var a27540 =
 [
-    [ "npc_franklinAI", "de/d6d/a27540.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
-    [ "DamageTaken", "de/d6d/a27540.html#afa494098126ce3291e234cfc2b36336f", null ],
-    [ "JustEngagedWith", "de/d6d/a27540.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
-    [ "Reset", "de/d6d/a27540.html#a51a260460facf06ec6bb1486f434d885", null ],
-    [ "ScheduleEncounterStart", "de/d6d/a27540.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
-    [ "SpellHit", "de/d6d/a27540.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
-    [ "UpdateAI", "de/d6d/a27540.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
-    [ "events", "de/d6d/a27540.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
+    [ "go_tablet_of_the_seven", "de/d6d/a27540.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
+    [ "OnGossipHello", "de/d6d/a27540.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
 ];

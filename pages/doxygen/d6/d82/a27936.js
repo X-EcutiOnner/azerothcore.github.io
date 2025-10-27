@@ -1,9 +1,9 @@
 var a27936 =
 [
-    [ "HolidayWorldStateId", "d6/d82/a27936.html#a3f70ffbb1abb5a96fe91c2eec3682c8b", null ],
-    [ "id", "d6/d82/a27936.html#a52f7840f9247d2af63062dd280b37341", null ],
-    [ "mapid", "d6/d82/a27936.html#a11e1326eeb24b436b10db53acc323c13", null ],
-    [ "maxGroupSize", "d6/d82/a27936.html#adbdae47b424c3b61b76b48ea5798f52d", null ],
-    [ "name", "d6/d82/a27936.html#a9a56ca930ff8425d4b77066e47a1e09f", null ],
-    [ "type", "d6/d82/a27936.html#a647669b97599d7edf02b5a38dd1d5116", null ]
+    [ "npc_herald_of_the_lich_king", "d6/d82/a27936.html#a62e373796ce4e6509692e6837cdb561f", null ],
+    [ "ChangeZoneEventStatus", "d6/d82/a27936.html#a30c44f2f62badd27b105a55527d40670", null ],
+    [ "DoAction", "d6/d82/a27936.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
+    [ "InitializeAI", "d6/d82/a27936.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
+    [ "UpdateAI", "d6/d82/a27936.html#a21a5093a46959f4b69777b63de12c557", null ],
+    [ "UpdateWeather", "d6/d82/a27936.html#a3c6d076171596c9ce472cddda18a42be", null ]
 ];

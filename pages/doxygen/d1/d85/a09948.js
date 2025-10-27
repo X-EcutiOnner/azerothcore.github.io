@@ -1,7 +1,8 @@
 var a09948 =
 [
-    [ "Finalize", "d1/d85/a09948.html#a90c8b42ef67968bf58acae5678dc7496", null ],
-    [ "Initialize", "d1/d85/a09948.html#ad6b97c3e2884dfbe3f17e2579b31ac66", null ],
-    [ "Reset", "d1/d85/a09948.html#a6db99ea9863dc60d032bacda37afa078", null ],
-    [ "Update", "d1/d85/a09948.html#af044c8725ef11e8a152987225521ef8b", null ]
+    [ "GetAINotifyDelay", "d1/d85/a09948.html#a9efd4acfe2ff5e4dfe0cc9e8fe802cc6", null ],
+    [ "GetReqMoveDistSq", "d1/d85/a09948.html#a58687646bbf83723e8ad2925ee50452c", null ],
+    [ "GetVisibilityNotifyDelay", "d1/d85/a09948.html#ac402ec0cb86192ce264d7909e09da5ac", null ],
+    [ "Update", "d1/d85/a09948.html#aa95443d7050249a44cad2f16fa0026e5", null ],
+    [ "visibilitySettingsIndex", "d1/d85/a09948.html#a35ebd0fcbdec8a3287f714cbe9becbcc", null ]
 ];

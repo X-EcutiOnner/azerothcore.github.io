@@ -1,13 +1,13 @@
 var a15452 =
 [
-    [ "npc_tharnarianAI", "d8/d69/a15452.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
-    [ "Initialize", "d8/d69/a15452.html#ad1d89491b42a56406273a04045e7e91d", null ],
-    [ "Reset", "d8/d69/a15452.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
-    [ "SetGUID", "d8/d69/a15452.html#a7ac84aac946afc312d8ce27f04127dfd", null ],
-    [ "sGossipSelect", "d8/d69/a15452.html#a33b5898def48e17ba27363b98f51849b", null ],
-    [ "UpdateAI", "d8/d69/a15452.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
-    [ "_bearGUID", "d8/d69/a15452.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
-    [ "_events", "d8/d69/a15452.html#aff73052a4b7407d760af3dde09fa8a07", null ],
-    [ "_facing", "d8/d69/a15452.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
-    [ "_scriptRunning", "d8/d69/a15452.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d8/d69/a15452.html#a454f677dddce956534d6f5a253ed587b", null ],
+    [ "GetData", "d8/d69/a15452.html#ad34ee1e43d05826c1b4e80e2df6ac5f6", null ],
+    [ "Initialize", "d8/d69/a15452.html#a8d46d9aa082d306aa2c9cd8fde3eea1d", null ],
+    [ "OnCreatureCreate", "d8/d69/a15452.html#affc7045f944251fb27683133f511029f", null ],
+    [ "OnGameObjectCreate", "d8/d69/a15452.html#a36f22cb12a5d59b377627f7cacbffecb", null ],
+    [ "OnUnitDeath", "d8/d69/a15452.html#a921a58152e075b9a64bf3c73aabdf1f2", null ],
+    [ "SetBossState", "d8/d69/a15452.html#abb9fc9c7901d0c830d498f3fbdaebbe6", null ],
+    [ "SetData", "d8/d69/a15452.html#a25f4e12aad6325e87b31770c1243d746", null ],
+    [ "BugTrioDeathCount", "d8/d69/a15452.html#aab0191f5b31264f0632a24df0607d05b", null ],
+    [ "CThunGraspGUIDs", "d8/d69/a15452.html#aea180c0b623e919f56f9210ce15724e8", null ]
 ];

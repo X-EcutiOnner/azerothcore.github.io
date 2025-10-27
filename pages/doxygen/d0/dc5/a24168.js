@@ -1,6 +1,7 @@
 var a24168 =
 [
-    [ "CheckCast", "d0/dc5/a24168.html#ae13cc2d3da1c9911c88402d05679d447", null ],
-    [ "PrepareSpellScript", "d0/dc5/a24168.html#afbed81273aa23d355c64579c71e9761d", null ],
-    [ "Register", "d0/dc5/a24168.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
+    [ "OnPeriodic", "d0/dc5/a24168.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "d0/dc5/a24168.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "d0/dc5/a24168.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "d0/dc5/a24168.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

@@ -1,7 +1,10 @@
 var a09060 =
 [
-    [ "GetAntiDosPolicyForOpcode", "d4/df7/a09060.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
-    [ "instance", "d4/df7/a09060.html#a859596f153aa470fa503f67092e26160", null ],
-    [ "LoadAntiDosOpcodePolicies", "d4/df7/a09060.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
-    [ "_antiDosOpcodePolicies", "d4/df7/a09060.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
+    [ "Flags", "d4/df7/a09060.html#a5292a64de662f608915844d58199542f", null ],
+    [ "Icon", "d4/df7/a09060.html#ab7460f125e05509baf9331e424b8bacf", null ],
+    [ "ID", "d4/df7/a09060.html#a94b184ecd7c82419fa6d59a59c1d95da", null ],
+    [ "Importance", "d4/df7/a09060.html#a623d8bdc2bf5eea161466340ae8e3cd1", null ],
+    [ "Name", "d4/df7/a09060.html#a45c6eb50f0d56bbdabd6c3b3469c607c", null ],
+    [ "PositionX", "d4/df7/a09060.html#a561763556f1ac77e988c350c37a3a0a1", null ],
+    [ "PositionY", "d4/df7/a09060.html#abec7b2b3e649263f0b963f3fedef60fe", null ]
 ];

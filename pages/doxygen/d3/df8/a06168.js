@@ -1,6 +1,9 @@
 var a06168 =
 [
-    [ "PlayerAI", "d3/df8/a06168.html#a880c670caddc1f24e42f229457039c67", null ],
-    [ "OnCharmed", "d3/df8/a06168.html#adf7ab64ed2a81c932730e39d885e4c67", null ],
-    [ "me", "d3/df8/a06168.html#a70a995521c55fb3d73d14e6be883eccc", null ]
+    [ "CritterAI", "d3/df8/a06168.html#aa211359ea8b80ac0ed27e9b337e333f1", null ],
+    [ "EnterEvadeMode", "d3/df8/a06168.html#a989d1fc00af900320dcf27cce7f247dc", null ],
+    [ "JustEngagedWith", "d3/df8/a06168.html#a2f52eb5c527895168f18ed5ddcc560a9", null ],
+    [ "MovementInform", "d3/df8/a06168.html#a54c44d28e4b2b3231afeb8de343dee43", null ],
+    [ "Permissible", "d3/df8/a06168.html#ae43183a24398fe3af1cb8275b9b4c6c6", null ],
+    [ "UpdateAI", "d3/df8/a06168.html#af860be127a671f5448cb731aa2f701b0", null ]
 ];

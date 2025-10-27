@@ -1,9 +1,10 @@
 var a25540 =
 [
-    [ "getMountSpellId", "d7/d67/a25540.html#afe306ed6057050baf342ee717723764d", null ],
-    [ "OnApply", "d7/d67/a25540.html#aa8bee986d413be60d00ac1d2111ef719", null ],
-    [ "OnRemove", "d7/d67/a25540.html#a162d466a1dcd2cb710abf12c06f7c2de", null ],
-    [ "PrepareAuraScript", "d7/d67/a25540.html#a7070cc7aeec4a88fbde960cebf1aef56", null ],
-    [ "Register", "d7/d67/a25540.html#a481e5295da3d789d9b3c1ed30fdaf0bd", null ],
-    [ "Validate", "d7/d67/a25540.html#a6868f6e88c9179efd921b266c83f6daf", null ]
+    [ "CalcPeriodic", "d7/d67/a25540.html#a4c5793639ad7715b0dc52a803546e7cf", null ],
+    [ "CalculateSpiritAmount", "d7/d67/a25540.html#a5749d91e27de05f67110178f57c214e4", null ],
+    [ "HandleEffectApply", "d7/d67/a25540.html#a0de0ba95c09c87054d63974943750805", null ],
+    [ "HandlePeriodic", "d7/d67/a25540.html#a2ff4241cf4535a6cb8361b9f54d7a23c", null ],
+    [ "PrepareAuraScript", "d7/d67/a25540.html#aaa2c2fea4310cdba1739f02afa48a318", null ],
+    [ "Register", "d7/d67/a25540.html#ae9df15062a8bd776e9a5a4a5a53fac8f", null ],
+    [ "amount", "d7/d67/a25540.html#af07c7c4a2f6a4d59bee8d44b46be5552", null ]
 ];

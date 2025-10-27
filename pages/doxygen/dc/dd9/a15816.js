@@ -1,6 +1,6 @@
 var a15816 =
 [
-    [ "go_troll_cageAI", "d5/d7f/a15820.html", "d5/d7f/a15820" ],
-    [ "go_troll_cage", "dc/dd9/a15816.html#ac571df719edabd9e9ecf5c8bb0e153c2", null ],
-    [ "GetAI", "dc/dd9/a15816.html#a807f526225dc9a6b27ac64a7f4a3d9b8", null ]
+    [ "npc_aquementasAI", "d5/d7f/a15820.html", "d5/d7f/a15820" ],
+    [ "npc_aquementas", "dc/dd9/a15816.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
+    [ "GetAI", "dc/dd9/a15816.html#a8a071b3073d69306feb84aca347a22c8", null ]
 ];

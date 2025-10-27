@@ -1,10 +1,18 @@
 var a05688 =
 [
-    [ "BasicStatementTask", "db/daf/a05688.html#a11c6f1259d1d6d9c50211784636e45c4", null ],
-    [ "~BasicStatementTask", "db/daf/a05688.html#a0db608b5bae77e5f83b0e1bf5850719f", null ],
-    [ "Execute", "db/daf/a05688.html#a7f500736cc0ec4cddf94510927989d4d", null ],
-    [ "GetFuture", "db/daf/a05688.html#aa574f8cc00ac956d23f93c7e96864fc9", null ],
-    [ "m_has_result", "db/daf/a05688.html#a8bfae5e5695a6bf6bf796d95efa21e7e", null ],
-    [ "m_result", "db/daf/a05688.html#af70bc95cbf0df481dacf034ff78d2eb8", null ],
-    [ "m_sql", "db/daf/a05688.html#a9320235413d1c4736301070e1faeb161", null ]
+    [ "build", "db/daf/a05688.html#a4c2989e284a86a7257c3f4a7b507265c", null ],
+    [ "cmd", "db/daf/a05688.html#a296fd5746ea3ad8f5b341cd92ecb92a6", null ],
+    [ "country", "db/daf/a05688.html#a5391c693d5aee76e67001f648b108792", null ],
+    [ "error", "db/daf/a05688.html#a36a4e2114203cbec036c7f6c6ba1f11b", null ],
+    [ "gamename", "db/daf/a05688.html#ae6f5a1b7c4684bb96deaa51cb9cfc7bc", null ],
+    [ "I", "db/daf/a05688.html#a48ed2eb4f17a62d033320b981fe9d07c", null ],
+    [ "I_len", "db/daf/a05688.html#a589c5dadf3e694ba5e3d9f1e5732426e", null ],
+    [ "ip", "db/daf/a05688.html#a5993cfad4be8f9e457bd6067ced6bd2a", null ],
+    [ "os", "db/daf/a05688.html#ad8c71a1e514e6b8f6d6a4681ba1db0c1", null ],
+    [ "platform", "db/daf/a05688.html#afc0d27e7213846988c0ee7ccc5e54ee0", null ],
+    [ "size", "db/daf/a05688.html#aae293343b590c23405a32d2809887020", null ],
+    [ "timezone_bias", "db/daf/a05688.html#a44cdd2733fb678966bc3252b6bef9d16", null ],
+    [ "version1", "db/daf/a05688.html#aa7a794d75e11e98aa9f88cb8e82be9e9", null ],
+    [ "version2", "db/daf/a05688.html#abe9218ee7ebdffa48dd404a2ad465ca4", null ],
+    [ "version3", "db/daf/a05688.html#a6a9e5088baf8c568916891a55e035db3", null ]
 ];

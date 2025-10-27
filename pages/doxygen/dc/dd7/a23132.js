@@ -1,5 +1,6 @@
 var a23132 =
 [
-    [ "PrepareSpellScript", "dc/dd7/a23132.html#a0482d714ce0b4cfd81b2fc7fa8c87f0d", null ],
-    [ "Register", "dc/dd7/a23132.html#a7aa83bfd512ee0ff839f61bafe6dd27b", null ]
+    [ "FilterTargets", "dc/dd7/a23132.html#a04973145ed594b88afe2acc0cacb10c6", null ],
+    [ "PrepareSpellScript", "dc/dd7/a23132.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
+    [ "Register", "dc/dd7/a23132.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
 ];

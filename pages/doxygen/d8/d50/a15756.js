@@ -1,7 +1,10 @@
 var a15756 =
 [
-    [ "npc_ringoAI", "dc/d88/a15760.html", "dc/d88/a15760" ],
-    [ "npc_ringo", "d8/d50/a15756.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
-    [ "GetAI", "d8/d50/a15756.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
-    [ "OnQuestAccept", "d8/d50/a15756.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
+    [ "CreatureId", "d8/d50/a15756.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
+    [ "DespTimer", "d8/d50/a15756.html#a0dfec745982b346ac1cd0af672be31fb", null ],
+    [ "SpawnCount", "d8/d50/a15756.html#ad5347ee83eaa00fe0721279099c48433", null ],
+    [ "SpawnTimer", "d8/d50/a15756.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
+    [ "UsedSpawnPoint", "d8/d50/a15756.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
+    [ "WaveTextId", "d8/d50/a15756.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
+    [ "YellTimer", "d8/d50/a15756.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
 ];

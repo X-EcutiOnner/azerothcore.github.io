@@ -1,7 +1,7 @@
 var a13352 =
 [
-    [ "boss_kalec", "d6/df6/a13352.html#a9c36e31c750e93840f30f001cdaca0da", null ],
-    [ "JustDied", "d6/df6/a13352.html#a46f35b35c1d17abc2ffaf909c53a4039", null ],
-    [ "JustEngagedWith", "d6/df6/a13352.html#a4813ca02ed5ffc35add5279cc1ec277f", null ],
-    [ "UpdateAI", "d6/df6/a13352.html#ab55da7584fa7f545761a5bd547245747", null ]
+    [ "npc_apothecary_genericAI", "d6/df6/a13352.html#afb2b04b51e28d0795e7781effa68dffd", null ],
+    [ "DoAction", "d6/df6/a13352.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
+    [ "MovementInform", "d6/df6/a13352.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
+    [ "_movePos", "d6/df6/a13352.html#a53d10ab64df212b043cc21e054f6528c", null ]
 ];

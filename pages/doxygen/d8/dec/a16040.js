@@ -1,10 +1,8 @@
 var a16040 =
 [
-    [ "HandleDummy", "d8/dec/a16040.html#aebbcaa1df9a6379998bb2069089f45bd", null ],
-    [ "HandleSchoolDamage", "d8/dec/a16040.html#a8372b7d176c94689b1b7fe99add7812e", null ],
-    [ "Load", "d8/dec/a16040.html#ae47e8a9c4223fd65b81c842687e19f44", null ],
-    [ "PrepareSpellScript", "d8/dec/a16040.html#a3fd71e2a93f99f19443640a2147b1663", null ],
-    [ "Register", "d8/dec/a16040.html#a8278d362a4354ccf81665ce0067c9a06", null ],
-    [ "Validate", "d8/dec/a16040.html#a414b1e1396910b87a671305ce9dcab09", null ],
-    [ "_spawned", "d8/dec/a16040.html#aa657a9869f04a1d1d2ce71f6d8464b17", null ]
+    [ "HandleScriptEffect", "d8/dec/a16040.html#af3e18fa5befc7124f2a3dbcd36259e6b", null ],
+    [ "Load", "d8/dec/a16040.html#ab293f8b536957558fa8886e1f4a23e74", null ],
+    [ "PrepareSpellScript", "d8/dec/a16040.html#ae4a1abf2e39c6806d804dea9ce5808ef", null ],
+    [ "Register", "d8/dec/a16040.html#a9fb54f0662982dec90c2e6f8568421ed", null ],
+    [ "Validate", "d8/dec/a16040.html#a2bee81d684c4739bb6247bfbdb74a21b", null ]
 ];

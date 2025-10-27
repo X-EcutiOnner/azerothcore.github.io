@@ -1,13 +1,6 @@
 var a10724 =
 [
-    [ "GuildBankQueryResults", "d5/d35/a10724.html#a8203a35b76fdc674794c5bd3c1acb9ed", null ],
-    [ "SetWithdrawalsRemaining", "d5/d35/a10724.html#a52af0d2b4e092daf0719bdf325c51652", null ],
-    [ "Write", "d5/d35/a10724.html#a4598c0c9d1f94c5aa0671f210e1597d4", null ],
-    [ "_withdrawalsRemainingPos", "d5/d35/a10724.html#abe711cd2da225fdc73eabe2ad6bd3f5d", null ],
-    [ "FullUpdate", "d5/d35/a10724.html#a42ca9b48981d7d338aecb7840c248f0f", null ],
-    [ "ItemInfo", "d5/d35/a10724.html#ad799195b259f92aa4e71e1ee8fd99741", null ],
-    [ "Money", "d5/d35/a10724.html#ad401eb3444f5ae50781e634e1f55eba1", null ],
-    [ "Tab", "d5/d35/a10724.html#a72ac06ace5e7974d666e3fc3d626e3c0", null ],
-    [ "TabInfo", "d5/d35/a10724.html#ad36f0ae1d897ef504ad9761c00db77ca", null ],
-    [ "WithdrawalsRemaining", "d5/d35/a10724.html#a211288bde5a15f2d21df65acf087c7d0", null ]
+    [ "GuildDemoteMember", "d5/d35/a10724.html#aa3d68021828c516d7b1995811e8df7d7", null ],
+    [ "Read", "d5/d35/a10724.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
+    [ "Demotee", "d5/d35/a10724.html#a60c7e56c201d794fb473a62fccc160bb", null ]
 ];

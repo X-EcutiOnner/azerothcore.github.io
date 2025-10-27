@@ -1,6 +1,6 @@
 var a21984 =
 [
-    [ "npc_amberpine_woodsmanAI", "dd/d20/a21988.html", "dd/d20/a21988" ],
-    [ "npc_amberpine_woodsman", "d1/ded/a21984.html#a33bbec50a360b724bfe9cb8612cbb47d", null ],
-    [ "GetAI", "d1/ded/a21984.html#a9c1df6c01c163ca68712d72b14c46139", null ]
+    [ "npc_heated_battleAI", "d1/ded/a21984.html#a2b73957d7890549f4b02488c5527fcef", null ],
+    [ "DamageTaken", "d1/ded/a21984.html#a8422c157214195d7166ede35c9c05d19", null ],
+    [ "Reset", "d1/ded/a21984.html#a11a4f3270ff260e30da89017dad38433", null ]
 ];

@@ -1,12 +1,9 @@
 var a01361 =
 [
-    [ "ArenaScript", "d7/d8f/a10299.html", "d7/d8f/a10299" ],
-    [ "ArenaHook", "d2/d1f/a01361.html#a93515f145fed15b3645f2240f39214ba", [
-      [ "ARENAHOOK_CAN_ADD_MEMBER", "d2/d1f/a01361.html#a93515f145fed15b3645f2240f39214baa0eec08769f1e2848ef510ae5bc1980d0", null ],
-      [ "ARENAHOOK_ON_GET_POINTS", "d2/d1f/a01361.html#a93515f145fed15b3645f2240f39214baab3934eeceaededbb59ec277bc4275588", null ],
-      [ "ARENAHOOK_CAN_SAVE_TO_DB", "d2/d1f/a01361.html#a93515f145fed15b3645f2240f39214baa707580e05d247690d89335a46d576657", null ],
-      [ "ARENAHOOK_ON_BEFORE_CHECK_WIN_CONDITION", "d2/d1f/a01361.html#a93515f145fed15b3645f2240f39214baa8f35d3e6970c95df27f631f3f5558a5e", null ],
-      [ "ARENAHOOK_ON_ARENA_START", "d2/d1f/a01361.html#a93515f145fed15b3645f2240f39214baac02079e51af3fd7c3507a8a6f88fee09", null ],
-      [ "ARENAHOOK_END", "d2/d1f/a01361.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58", null ]
+    [ "DatabaseScript", "d2/dc2/a10344.html", "d2/dc2/a10344" ],
+    [ "DatabaseHook", "d2/d1f/a01361.html#a5f7dd71299279ad5a845d4d4030e707e", [
+      [ "DATABASEHOOK_ON_AFTER_DATABASES_LOADED", "d2/d1f/a01361.html#a5f7dd71299279ad5a845d4d4030e707ea669793dd5bb736daf7bf4e7a57422171", null ],
+      [ "DATABASEHOOK_ON_AFTER_DATABASE_LOAD_CREATURETEMPLATES", "d2/d1f/a01361.html#a5f7dd71299279ad5a845d4d4030e707ea5da0ac4b05308347ca9a69286153d974", null ],
+      [ "DATABASEHOOK_END", "d2/d1f/a01361.html#a5f7dd71299279ad5a845d4d4030e707eaf2e5c468c0dfdec9fc3dea4359a93d04", null ]
     ] ]
 ];

@@ -1,7 +1,14 @@
 var a18060 =
 [
-    [ "FrostwyrmLandEvent", "d2/d88/a18060.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
-    [ "Execute", "d2/d88/a18060.html#a4da77796a223e6233ac6d908f7700623", null ],
-    [ "_dest", "d2/d88/a18060.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
-    [ "_owner", "d2/d88/a18060.html#a6336050092606ebb27a180abff55dfa2", null ]
+    [ "npc_putricide_oozeAI", "d2/d88/a18060.html#a5b3200110d6cd8ac1311220ab2ee3385", null ],
+    [ "CastMainSpell", "d2/d88/a18060.html#a62c9027b6d8a7812fcf5c0023621ef70", null ],
+    [ "IsSummonedBy", "d2/d88/a18060.html#a8e96a50b9a35f6220bf6c824c1acce58", null ],
+    [ "SelectNewTarget", "d2/d88/a18060.html#a0a4167a73249967fcf268683f936647d", null ],
+    [ "SetGUID", "d2/d88/a18060.html#af8abd6581901df51a3757f4a19443045", null ],
+    [ "SpellHit", "d2/d88/a18060.html#ab9d288f8eded19720a0aee3bd91920d2", null ],
+    [ "SpellHitTarget", "d2/d88/a18060.html#a501e0f46abdb1bcc0d99ab9792f738fe", null ],
+    [ "UpdateAI", "d2/d88/a18060.html#a508fe1a9974f2ffa36c72575c2d4b252", null ],
+    [ "_hitTargetSpellId", "d2/d88/a18060.html#a728b62580e7a84e9947a45b460ab140c", null ],
+    [ "_newTargetSelectTimer", "d2/d88/a18060.html#a9615a0e6c73c155330c1791c2a205553", null ],
+    [ "targetGUID", "d2/d88/a18060.html#ae01b7ffe31548aa15d913cc28fa32422", null ]
 ];

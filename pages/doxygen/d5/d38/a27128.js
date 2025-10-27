@@ -1,5 +1,7 @@
 var a27128 =
 [
-    [ "AreaTrigger_at_scent_larkorwi", "d5/d38/a27128.html#a967a43eae4cc986754eed9ee8291c17e", null ],
-    [ "OnTrigger", "d5/d38/a27128.html#aeeb339afa5a7dd4b028aea800026998e", null ]
+    [ "HandleApply", "d5/d38/a27128.html#aa35fa107aee605a8583150901a75ad72", null ],
+    [ "HandleRemove", "d5/d38/a27128.html#a60b6e438ff67d9db41d160020b54da40", null ],
+    [ "PrepareAuraScript", "d5/d38/a27128.html#a1da44046f2cb9fb68b18f712111c38ea", null ],
+    [ "Register", "d5/d38/a27128.html#ac7c9e15a796e91e0ac68791d24e3d4bf", null ]
 ];

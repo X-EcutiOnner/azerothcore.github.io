@@ -1,6 +1,8 @@
 var a15480 =
 [
-    [ "npc_tiger_matriarchAI", "d7/d34/a15484.html", "d7/d34/a15484" ],
-    [ "npc_tiger_matriarch", "d4/d3b/a15480.html#a05a08bfa64c428213a4b534a982afb71", null ],
-    [ "GetAI", "d4/d3b/a15480.html#a6d5664ca125a775c2d71f322f5a57655", null ]
+    [ "npc_obsidian_eradicator", "d4/d3b/a15480.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "d4/d3b/a15480.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "d4/d3b/a15480.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "d4/d3b/a15480.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "d4/d3b/a15480.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

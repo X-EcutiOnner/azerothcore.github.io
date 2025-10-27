@@ -1,7 +1,5 @@
 var a11120 =
 [
-    [ "DynObjAura", "d7/d26/a11120.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
-    [ "FillTargetMap", "d7/d26/a11120.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
-    [ "Remove", "d7/d26/a11120.html#ada3f65b4a817e2337da43da437b93a3b", null ],
-    [ "Aura::Create", "d7/d26/a11120.html#ae2c0fdfb409846fec5e861de60797112", null ]
+    [ "PacketHandler", "d7/d26/a11120.html#a7ca20eda3de42ab35ef45c56f1d6d73e", null ],
+    [ "Call", "d7/d26/a11120.html#a42ac77b81d5280c7f1c54991649ab501", null ]
 ];

@@ -1,8 +1,8 @@
 var a03437 =
 [
-    [ "SpellPair", "d5/d50/a11987.html", "d5/d50/a11987" ],
-    [ "npc_av_marshal_or_warmaster", "d7/d9d/a11991.html", "d7/d9d/a11991" ],
-    [ "npc_av_marshal_or_warmaster::npc_av_marshal_or_warmasterAI", "dd/d78/a11995.html", "dd/d78/a11995" ],
+    [ "SpellPair", "d5/d2a/a11988.html", "d5/d2a/a11988" ],
+    [ "npc_av_marshal_or_warmaster", "df/d0e/a11992.html", "df/d0e/a11992" ],
+    [ "npc_av_marshal_or_warmaster::npc_av_marshal_or_warmasterAI", "d7/d7c/a11996.html", "d7/d7c/a11996" ],
     [ "Creatures", "d5/d56/a03437.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "d5/d56/a03437.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "d5/d56/a03437.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],
@@ -928,13 +928,6 @@ var a03437 =
       [ "EVENT_SPELL_OVERLORDS_BRAND", "d6/d2a/a03062.html#af60e00b78607064c5be6aa9397ea49c1a90e7e657e3719415de493255c309f46c", null ],
       [ "EVENT_RIMEFANG_SPELL_ICY_BLAST", "d6/d2a/a03062.html#af60e00b78607064c5be6aa9397ea49c1a56fde88b675883e881d730c66896bec3", null ],
       [ "EVENT_SPELL_MARK_OF_RIMEFANG", "d6/d2a/a03062.html#af60e00b78607064c5be6aa9397ea49c1a931043d3365a4d3bc84a0b42e30b34b7", null ],
-      [ "EVENT_STAMPEDE", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1a6c317e21c23e8613a9ec817362fca5be", null ],
-      [ "EVENT_WHIRLING_SLASH", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1a905a7756eb363d7bd116031a675850a0", null ],
-      [ "EVENT_PUNCTURE", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1ad2c427fae9c0d0b409540447a31c880b", null ],
-      [ "EVENT_ENRAGE", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1a470d03afa22c989a62d65ba1ce60863b", null ],
-      [ "EVENT_IMPALING_CHARGE", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1ab4a16b4f7f621394553bf00e93c988bb", null ],
-      [ "EVENT_UNSUMMON_RHINO", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1ac3d73946b0f9d0a85fd9647edb90b4d5", null ],
-      [ "EVENT_STOMP", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1aae6a7bd26e8ee17a505a5f6c6f720316", null ],
       [ "EVENT_KILL_TALK", "d7/d6b/a02945.html#af60e00b78607064c5be6aa9397ea49c1a19e2d7e7feeb728214e70da2b689c36b", null ],
       [ "EVENT_GROUND_TREMOR", "d4/d32/a02951.html#af60e00b78607064c5be6aa9397ea49c1a4df0ca8644c1277d7130ed603604f8aa", null ],
       [ "EVENT_NUMBLING_SHOUT", "d4/d32/a02951.html#af60e00b78607064c5be6aa9397ea49c1af5353089febe114399d211db842a9a0a", null ],

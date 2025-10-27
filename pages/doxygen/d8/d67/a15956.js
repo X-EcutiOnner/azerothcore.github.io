@@ -1,11 +1,6 @@
 var a15956 =
 [
-    [ "spell_hadronox_summon_periodic_aura", "d8/d67/a15956.html#afcca15cddf71c0d46bd811eab9174f1a", null ],
-    [ "HandlePeriodic", "d8/d67/a15956.html#a048695baf71d307e5aaa00e54586c9f7", null ],
-    [ "OnApply", "d8/d67/a15956.html#a4466547bc1a5259a33354f2008d6cce7", null ],
-    [ "PrepareAuraScript", "d8/d67/a15956.html#a4205560054e5baed86aecba3b98fc202", null ],
-    [ "Register", "d8/d67/a15956.html#a09efdcddaed4af2833139ca20ef94376", null ],
-    [ "Validate", "d8/d67/a15956.html#a20827683249c17625242e205bb51f9e8", null ],
-    [ "_delay", "d8/d67/a15956.html#a191d7eec948e0753835bd41eef66f1ec", null ],
-    [ "_spellEntry", "d8/d67/a15956.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
+    [ "creatureID", "d8/d67/a15956.html#a44a9f5e58bfa58e2e2325e116e988f07", null ],
+    [ "pos", "d8/d67/a15956.html#a9705a858cc2c3867e104514d3a0a1866", null ],
+    [ "waveID", "d8/d67/a15956.html#a09b48f7f6da7e203ed50a8abc7f24e56", null ]
 ];

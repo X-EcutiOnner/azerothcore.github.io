@@ -1,10 +1,8 @@
 var a28528 =
 [
-    [ "area_id", "d9/d5b/a28528.html#acbd77950bf9548d266e568640cf38458", null ],
-    [ "map_id", "d9/d5b/a28528.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
-    [ "virtual_map_id", "d9/d5b/a28528.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
-    [ "x1", "d9/d5b/a28528.html#a78967fef40841f705c2564a177cb36f3", null ],
-    [ "x2", "d9/d5b/a28528.html#a037dca812715df0b4f2551f8684b537c", null ],
-    [ "y1", "d9/d5b/a28528.html#a7f90073656e1cd00a88add9f8d881d11", null ],
-    [ "y2", "d9/d5b/a28528.html#ad8e0164952e5565488d5443f269ec79e", null ]
+    [ "Id", "d9/d5b/a28528.html#a6943bf760d15b3f8af4109d131652d72", null ],
+    [ "MapId", "d9/d5b/a28528.html#ab0cccd760636a3b42af693d6c483bed9", null ],
+    [ "X", "d9/d5b/a28528.html#a91183890254546efeb3162173cc60dad", null ],
+    [ "Y", "d9/d5b/a28528.html#a19ab4d026b45d74f006479641afbc4d3", null ],
+    [ "Z", "d9/d5b/a28528.html#aaa23c59f20fc96aec148b82516f30036", null ]
 ];

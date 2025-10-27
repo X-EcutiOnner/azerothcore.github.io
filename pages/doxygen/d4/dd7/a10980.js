@@ -1,6 +1,6 @@
 var a10980 =
 [
-    [ "ClientOpcodeHandler", "db/da6/a04782.html#ga975b7c1e941b9ad11164cc5b0cf3f557", null ],
-    [ "Call", "db/da6/a04782.html#gae6c5104e6c75c2e88a3d8dfcf9e63678", null ],
-    [ "ProcessingPlace", "db/da6/a04782.html#gaccb7f451536a1a56ba072a82202e5a53", null ]
+    [ "ComplainResult", "d4/dd7/a10980.html#a9c0f7cf8600887fdbc5283fa23f77857", null ],
+    [ "Write", "d4/dd7/a10980.html#a1b74c82acbfae8d62c7b1d6ef59caa1e", null ],
+    [ "Unk", "d4/dd7/a10980.html#a88445c8e01e64f89176dd6c1ebb1a986", null ]
 ];

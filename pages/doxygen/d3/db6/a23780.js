@@ -1,7 +1,6 @@
 var a23780 =
 [
-    [ "HandleCast", "d3/db6/a23780.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
-    [ "PrepareSpellScript", "d3/db6/a23780.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
-    [ "Register", "d3/db6/a23780.html#a6ae0573ea69573df64cd57ba84f99918", null ],
-    [ "Validate", "d3/db6/a23780.html#ab5794ca5c0863ce40194ed40e156279a", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "d9/d3f/a23784.html", "d9/d3f/a23784" ],
+    [ "instance_hellfire_ramparts", "d3/db6/a23780.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "d3/db6/a23780.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

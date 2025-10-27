@@ -1,12 +1,19 @@
 var a14340 =
 [
-    [ "npc_alexstraza_the_lifebinder", "da/d36/a14340.html#a7c30258540803bde75843cb070b6a288", null ],
-    [ "MoveInLineOfSight", "da/d36/a14340.html#af5960eb1cf63fb0b5b8dc2bfd86b8e47", null ],
-    [ "Reset", "da/d36/a14340.html#a8144ed8ada8cd4fb11d74393ed0c525a", null ],
-    [ "SetData", "da/d36/a14340.html#aead5ae4ffda9732829e39b8c485a3c3e", null ],
-    [ "UpdateAI", "da/d36/a14340.html#ad13b21d571833210b1c069b7ea8bea05", null ],
-    [ "orphanGUID", "da/d36/a14340.html#a7c2901f01e4fcafaea9c00ff58dbeaf3", null ],
-    [ "phase", "da/d36/a14340.html#a98216e43888854ac93f22169a0e253e5", null ],
-    [ "playerGUID", "da/d36/a14340.html#a063fc935bc8f46f5487e9c338e497ec4", null ],
-    [ "timer", "da/d36/a14340.html#a41791aaa24102383fe4d3f43c714c3bb", null ]
+    [ "boss_thekal", "da/d36/a14340.html#a91e8fd9ba169d5096fd06471f8bd16e9", null ],
+    [ "CheckPhaseTransition", "da/d36/a14340.html#a95aeb81565f5863eec67106ae1118ac4", null ],
+    [ "DamageTaken", "da/d36/a14340.html#a98be9a4d815f6fdc01acbfaa916b721c", null ],
+    [ "DoAction", "da/d36/a14340.html#aa3d81738fbb42d5575dd8e5b30d84563", null ],
+    [ "Initialize", "da/d36/a14340.html#aec365f330eed69513e988f895ec780e7", null ],
+    [ "JustDied", "da/d36/a14340.html#a79bc19df134cbeb17f0941865461bd0d", null ],
+    [ "JustEngagedWith", "da/d36/a14340.html#af5e2b2b5665270f29243921e51280190", null ],
+    [ "Reset", "da/d36/a14340.html#a684bf1fc087970a41cf79959ba57b31b", null ],
+    [ "ReviveZealot", "da/d36/a14340.html#aab84b3390cf8cc95dc8a2067ed38b4ab", null ],
+    [ "SetData", "da/d36/a14340.html#a586805c5f8d20a35055cf12a3c9f673f", null ],
+    [ "UpdateAI", "da/d36/a14340.html#a4b5e7dae10900a197d047b6ea32c33ed", null ],
+    [ "UpdateZealotStatus", "da/d36/a14340.html#ac69068240dfc1ecf30f37e36c3e51353", null ],
+    [ "_enraged", "da/d36/a14340.html#aba5ac2c4cdac1d4a0e37e9d6cd3b1422", null ],
+    [ "_lorkhanDied", "da/d36/a14340.html#a0f84ad2f224fe29fc4ddde3258200e10", null ],
+    [ "_wasDead", "da/d36/a14340.html#aec4eea1f0d8ebffb1bbc2646e986f300", null ],
+    [ "_zathDied", "da/d36/a14340.html#ae3df1561ee3dcb3887f6e646b6277b29", null ]
 ];

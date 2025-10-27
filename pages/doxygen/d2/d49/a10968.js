@@ -1,12 +1,8 @@
 var a10968 =
 [
-    [ "PacketLog", "d2/d49/a10968.html#a75215d454393ecd3fce0ea07b5d673ee", null ],
-    [ "~PacketLog", "d2/d49/a10968.html#a595a42f9aaa94d6c46d185955df801e0", null ],
-    [ "CanLogPacket", "d2/d49/a10968.html#a322cf3a0d8707becb9dcc64548d4cce5", null ],
-    [ "Initialize", "d2/d49/a10968.html#aea6ccfd41bc147557b7c5066fe18afa6", null ],
-    [ "instance", "d2/d49/a10968.html#a484418a51ca0bf150d17b23d97979bf4", null ],
-    [ "LogPacket", "d2/d49/a10968.html#ac0323a6ac3856412b765d0b31dbbb37e", null ],
-    [ "_file", "d2/d49/a10968.html#a03346a709f7586f6445e03b9a3b6af04", null ],
-    [ "_initializeFlag", "d2/d49/a10968.html#a490cafe009f7b2ecb303a76c781f8960", null ],
-    [ "_logPacketLock", "d2/d49/a10968.html#aeffb6309ef859cbb346b15dc1fca5cbe", null ]
+    [ "CrossedInebriationThreshold", "d2/d49/a10968.html#a8983b7b88a76955d9a0e2241ffb1e472", null ],
+    [ "Write", "d2/d49/a10968.html#a127dcfcc7e960d24e56d1b17bf9be992", null ],
+    [ "Guid", "d2/d49/a10968.html#a422afb45b6c5e9c4fef58fb1801bd0ad", null ],
+    [ "ItemID", "d2/d49/a10968.html#a9e48a650bf21872099cdb0626e875fd7", null ],
+    [ "Threshold", "d2/d49/a10968.html#a87b756b64cbfb8f292f46cce38308095", null ]
 ];

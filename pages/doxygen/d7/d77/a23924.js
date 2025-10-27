@@ -1,9 +1,7 @@
 var a23924 =
 [
-    [ "boss_void_reaver", "d7/d77/a23924.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
-    [ "JustDied", "d7/d77/a23924.html#a49e6f52b11177bdac07adff92c2675f5", null ],
-    [ "JustEngagedWith", "d7/d77/a23924.html#a9260d05e11f4dec6fc25432a0524706b", null ],
-    [ "KilledUnit", "d7/d77/a23924.html#adc234fc43308771a42d99049876cad1b", null ],
-    [ "Reset", "d7/d77/a23924.html#a02c36ea960de24991f879943991a93c6", null ],
-    [ "_recentlySpoken", "d7/d77/a23924.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac", null ]
+    [ "boss_zereketh_the_unbound", "d7/d77/a23924.html#abb2fc5cbe7514142160818016fda1936", null ],
+    [ "JustDied", "d7/d77/a23924.html#ac5d96da9a33a536f2002cce11453ded3", null ],
+    [ "JustEngagedWith", "d7/d77/a23924.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
+    [ "KilledUnit", "d7/d77/a23924.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
 ];

@@ -1,6 +1,7 @@
 var a18960 =
 [
-    [ "npc_four_car_garageAI", "dc/de4/a18964.html", "dc/de4/a18964" ],
-    [ "npc_four_car_garage", "dc/dde/a18960.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
-    [ "GetAI", "dc/dde/a18960.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
+    [ "OnPeriodic", "dc/dde/a18960.html#a32c4b856d6248062fbdc1dea13d876ac", null ],
+    [ "PrepareAuraScript", "dc/dde/a18960.html#a87260a1cd06190f5412f3cab0f448a01", null ],
+    [ "Register", "dc/dde/a18960.html#a00827210671b959a030655f6be5edac6", null ],
+    [ "Validate", "dc/dde/a18960.html#a7163fb09fd8568a7ef5a5c37147ed5b0", null ]
 ];

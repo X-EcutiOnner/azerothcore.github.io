@@ -1,13 +1,10 @@
 var a12756 =
 [
-    [ "boss_crone", "d6/df4/a12756.html#a710bdf6fac05be54cf10e40cd661c837", null ],
-    [ "EnterEvadeMode", "d6/df4/a12756.html#a4dcdde0b699f445cfa6be7e0c7dbb8d0", null ],
-    [ "JustDied", "d6/df4/a12756.html#a545de2a25b48590d11896c41b6e94df0", null ],
-    [ "JustEngagedWith", "d6/df4/a12756.html#a9801cd39667d1a08770820bd17beac00", null ],
-    [ "JustReachedHome", "d6/df4/a12756.html#a59d40cda923cb8b72413b9d5f267f52a", null ],
-    [ "KilledUnit", "d6/df4/a12756.html#ae4d343636955589d740d1df4e21fba99", null ],
-    [ "Reset", "d6/df4/a12756.html#a247db7fc1329ef00e48fd9bd09fb27a1", null ],
-    [ "UpdateAI", "d6/df4/a12756.html#a8bd505acd55ca5292d29c96916a461e5", null ],
-    [ "_scheduler", "d6/df4/a12756.html#a7f9e2e45c0bbb60fc19dd54bc380f814", null ],
-    [ "instance", "d6/df4/a12756.html#a3795fe3185005693ed9bba49177bb35a", null ]
+    [ "instance_gnomeregan_InstanceMapScript", "d6/df4/a12756.html#a0080fdf557ad8159a8934dce5b39a535", null ],
+    [ "OnCreatureCreate", "d6/df4/a12756.html#ac607601becc7fbf4ea9c64d87c93287c", null ],
+    [ "OnGameObjectCreate", "d6/df4/a12756.html#a0c2f4d615394ef1d6e1b930ed6aff82f", null ],
+    [ "ReadSaveDataMore", "d6/df4/a12756.html#a85d3db22430a4bac7e01dcfa1a1efb5b", null ],
+    [ "SetData", "d6/df4/a12756.html#af800a1906c532f61f0299f8aa9359a66", null ],
+    [ "WriteSaveDataMore", "d6/df4/a12756.html#a1b30829b3c782bb2c52e5da4fa388d5c", null ],
+    [ "_encounters", "d6/df4/a12756.html#ae19a56e7fdcb2d0204d444cba11b7441", null ]
 ];

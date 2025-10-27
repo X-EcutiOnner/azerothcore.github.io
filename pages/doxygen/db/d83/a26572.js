@@ -1,7 +1,10 @@
 var a26572 =
 [
-    [ "HandleScript", "db/d83/a26572.html#ad22b87be8f47886650d7bf9e98eee495", null ],
-    [ "PrepareSpellScript", "db/d83/a26572.html#a806f934cd684039425ce3fca037b0e8c", null ],
-    [ "Register", "db/d83/a26572.html#a9bd3ea5aa5fb16aac87f6097db31e113", null ],
-    [ "Validate", "db/d83/a26572.html#a96d189c452a969850121323faef1d9c1", null ]
+    [ "GetTarget", "db/d83/a26572.html#a1bfcb90731a93e4897c9d4fbf46d2a01", null ],
+    [ "HandleEffectPeriodicPlatform", "db/d83/a26572.html#ac499c8adcd74206ad60a7fc24d32cc3c", null ],
+    [ "HandleEffectPeriodicSelf", "db/d83/a26572.html#a2272a970ca5edca6f7353beb2279c29c", null ],
+    [ "PerformKick", "db/d83/a26572.html#aa192aa92cc5c55f8bf2306c4463a3efc", null ],
+    [ "PrepareAuraScript", "db/d83/a26572.html#a489f1da8f8008db8f096470f28455ef9", null ],
+    [ "Register", "db/d83/a26572.html#a164c94c63cf03b98ee085b18a0a8af9a", null ],
+    [ "AuraEffectHandleModes", "db/d83/a26572.html#a91d53900d8c6d0dd2a7519a4836aa05b", null ]
 ];

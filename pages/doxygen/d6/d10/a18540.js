@@ -1,6 +1,6 @@
 var a18540 =
 [
-    [ "npc_valithria_cloudAI", "d0/d9d/a18544.html", "d0/d9d/a18544" ],
-    [ "npc_valithria_cloud", "d6/d10/a18540.html#a11d1bdc4c6e8210e2d0706f33d369dde", null ],
-    [ "GetAI", "d6/d10/a18540.html#afeff905cec1245dbac6fa59673aef015", null ]
+    [ "HandleScript", "d6/d10/a18540.html#a9489c3454830d3826cb077c95947bf2d", null ],
+    [ "PrepareSpellScript", "d6/d10/a18540.html#a19492e616ac6e69187bca4499175071e", null ],
+    [ "Register", "d6/d10/a18540.html#a3446174d3308f535c27581b63ade9e8a", null ]
 ];

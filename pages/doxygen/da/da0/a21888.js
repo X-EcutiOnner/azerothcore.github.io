@@ -1,7 +1,6 @@
 var a21888 =
 [
-    [ "FilterTargets", "da/da0/a21888.html#af62588a225f0b701a0f9321677ae22b8", null ],
-    [ "HandleScript", "da/da0/a21888.html#ad68fad08b2613de096e504bb7dea61cd", null ],
-    [ "PrepareSpellScript", "da/da0/a21888.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
-    [ "Register", "da/da0/a21888.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
+    [ "npc_mageguard_dalaranAI", "db/d70/a21892.html", "db/d70/a21892" ],
+    [ "npc_mageguard_dalaran", "da/da0/a21888.html#a0cec4f232b665325c421cecb5839885f", null ],
+    [ "GetAI", "da/da0/a21888.html#a10cbddceb53a2d432da2224128c59b28", null ]
 ];

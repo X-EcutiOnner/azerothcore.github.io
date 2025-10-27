@@ -1,7 +1,6 @@
 var a25144 =
 [
-    [ "HandleDummy", "d6/d42/a25144.html#a582208e608c9fdca7464b817c76c13b3", null ],
-    [ "PrepareSpellScript", "d6/d42/a25144.html#ac7abb7e01362a3333c0d73cd19dcee30", null ],
-    [ "Register", "d6/d42/a25144.html#a3882606b9e9201163cf76cb20b8e6364", null ],
-    [ "Validate", "d6/d42/a25144.html#a12a1cb4b6131d5959f6f541da5e8fc00", null ]
+    [ "HandleDummy", "d6/d42/a25144.html#a9f9c27bdfed0a457f7e851c8598f3625", null ],
+    [ "PrepareSpellScript", "d6/d42/a25144.html#ab666b72cd7cb0ef92ba6c417be5ac7cc", null ],
+    [ "Register", "d6/d42/a25144.html#a7b78161fda34b3dc3c844c392ce7e30e", null ]
 ];

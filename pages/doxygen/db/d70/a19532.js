@@ -1,6 +1,7 @@
 var a19532 =
 [
-    [ "boss_bjarngrimAI", "d2/d78/a19536.html", "d2/d78/a19536" ],
-    [ "boss_bjarngrim", "db/d70/a19532.html#ab509688547d41ec1fd094fdc45291959", null ],
-    [ "GetAI", "db/d70/a19532.html#aff6455d2a327bbf3426d10a07f7b0e44", null ]
+    [ "boss_commander_stoutbeard", "db/d70/a19532.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
+    [ "JustDied", "db/d70/a19532.html#a2fd835408045715058ba476aa56cb4f7", null ],
+    [ "JustEngagedWith", "db/d70/a19532.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
+    [ "KilledUnit", "db/d70/a19532.html#acf7016c65f020dca9228bd2d2fd89299", null ]
 ];

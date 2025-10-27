@@ -1,6 +1,6 @@
 var a27948 =
 [
-    [ "AreaGroupId", "d3/d06/a27948.html#a2868a59574e635d5f5859cfa01811151", null ],
-    [ "AreaId", "d3/d06/a27948.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
-    [ "nextGroup", "d3/d06/a27948.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
+    [ "npc_necropolis_proxy", "d3/d06/a27948.html#a73f92ee73673172989d48064e5984db0", null ],
+    [ "SpellHit", "d3/d06/a27948.html#a90d1ab55683a6409403e24291643cca5", null ],
+    [ "SpellHitTarget", "d3/d06/a27948.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
 ];

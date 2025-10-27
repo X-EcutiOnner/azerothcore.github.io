@@ -1,9 +1,10 @@
 var a21076 =
 [
-    [ "npc_ulduar_keeperAI", "d0/d95/a21076.html#ac69d21f3820f2c01a80ff664c317d111", null ],
-    [ "DoAction", "d0/d95/a21076.html#a03011d04761926d67e43c0bea5a0901f", null ],
-    [ "Reset", "d0/d95/a21076.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
-    [ "SpellHit", "d0/d95/a21076.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
-    [ "UpdateAI", "d0/d95/a21076.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
-    [ "_keeper", "d0/d95/a21076.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
+    [ "boss_yoggsaron_immortal_guardianAI", "d0/d95/a21076.html#a84a3ffe43a4ce49cd543f770594cd683", null ],
+    [ "DamageTaken", "d0/d95/a21076.html#aec157bcf0628a7301bcb91dd62bcc484", null ],
+    [ "Reset", "d0/d95/a21076.html#a763f772414f00c0f83402e1a635b6bd0", null ],
+    [ "SpellHit", "d0/d95/a21076.html#a60721961f2eb5e91c15890252166b872", null ],
+    [ "UpdateAI", "d0/d95/a21076.html#a7fa550f683fcf16f5bd70a307bffcb2b", null ],
+    [ "_spellTimer", "d0/d95/a21076.html#a4ed360380707195e10753436020b67eb", null ],
+    [ "_visualTimer", "d0/d95/a21076.html#a8c382c37aaa3d20cfc0fe604af52bef4", null ]
 ];

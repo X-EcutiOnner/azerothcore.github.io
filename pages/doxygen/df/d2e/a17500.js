@@ -1,8 +1,6 @@
 var a17500 =
 [
-    [ "CheckProc", "df/d2e/a17500.html#a11620e4d645b3bfd35924700b5dad289", null ],
-    [ "HandleProc", "df/d2e/a17500.html#aa80a032f2ec80aba36f6fe0208412587", null ],
-    [ "PrepareAuraScript", "df/d2e/a17500.html#afe04f0cb6539238412253b63dd3c82b9", null ],
-    [ "Register", "df/d2e/a17500.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
-    [ "Validate", "df/d2e/a17500.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
+    [ "npc_blood_queen_lana_thelAI", "da/d4b/a17504.html", "da/d4b/a17504" ],
+    [ "npc_blood_queen_lana_thel", "df/d2e/a17500.html#a39adef3ae54efd4433805bd8ad4719be", null ],
+    [ "GetAI", "df/d2e/a17500.html#a02d928ac4ef1704cee2498ebe6533561", null ]
 ];

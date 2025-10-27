@@ -1,5 +1,6 @@
 var a21060 =
 [
-    [ "achievement_yogg_saron_kiss_and_make_up", "d6/d2b/a21060.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
-    [ "OnCheck", "d6/d2b/a21060.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
+    [ "boss_yoggsaron_descend_portalAI", "d6/d2b/a21060.html#a50ddd1d7b1d4a2e729657e53dfee43f2", null ],
+    [ "OnSpellClick", "d6/d2b/a21060.html#aba032a7347230db028d1e939944d3f46", null ],
+    [ "_instance", "d6/d2b/a21060.html#a477abf19a0b5bf9865550541877a29d7", null ]
 ];

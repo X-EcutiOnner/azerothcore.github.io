@@ -1,7 +1,6 @@
 var a13772 =
 [
-    [ "boss_blight_wormAI", "d2/d12/a13772.html#af267e395fbd539f871e498dc6745c610", null ],
-    [ "Reset", "d2/d12/a13772.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
-    [ "UpdateAI", "d2/d12/a13772.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
-    [ "_events", "d2/d12/a13772.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
+    [ "npc_balance_of_light_and_shadowAI", "df/d36/a13776.html", "df/d36/a13776" ],
+    [ "npc_balance_of_light_and_shadow", "d2/d12/a13772.html#a55229e3ea8dd9c52972185b36c08908b", null ],
+    [ "GetAI", "d2/d12/a13772.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
 ];

@@ -1,7 +1,8 @@
 var a19160 =
 [
-    [ "OnPeriodic", "da/d78/a19160.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
-    [ "PrepareAuraScript", "da/d78/a19160.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
-    [ "Register", "da/d78/a19160.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
-    [ "Validate", "da/d78/a19160.html#a54cfed486827216817adb740efa6646e", null ]
+    [ "HandleScript", "da/d78/a19160.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
+    [ "HandleScript2", "da/d78/a19160.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
+    [ "Load", "da/d78/a19160.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
+    [ "PrepareSpellScript", "da/d78/a19160.html#a2d1dbae570206b358878020879708000", null ],
+    [ "Register", "da/d78/a19160.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
 ];

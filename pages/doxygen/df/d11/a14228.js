@@ -1,6 +1,6 @@
 var a14228 =
 [
-    [ "HandleEffectRemove", "df/d11/a14228.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
-    [ "PrepareAuraScript", "df/d11/a14228.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
-    [ "Register", "df/d11/a14228.html#aa436788f638fedacb217ca508da5f426", null ]
+    [ "HandleOnHit", "df/d11/a14228.html#a1f133ab9e85f80c225276bf744da6898", null ],
+    [ "PrepareSpellScript", "df/d11/a14228.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
+    [ "Register", "df/d11/a14228.html#a1063358ed71ded8454f35f43442354ab", null ]
 ];

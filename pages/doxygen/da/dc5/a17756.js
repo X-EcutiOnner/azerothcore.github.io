@@ -1,7 +1,6 @@
 var a17756 =
 [
-    [ "PrepareSpellScript", "da/dc5/a17756.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
-    [ "Register", "da/dc5/a17756.html#aff4f05a5a4742a408646000b7cece38c", null ],
-    [ "RemovePassengers", "da/dc5/a17756.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
-    [ "Validate", "da/dc5/a17756.html#a2a8da9d150804f979f2313f623ad7760", null ]
+    [ "npc_gunshipAI", "d3/d05/a17760.html", "d3/d05/a17760" ],
+    [ "npc_gunship", "da/dc5/a17756.html#a86b3ba622bd6e606cd21f7c7d8dddd1b", null ],
+    [ "GetAI", "da/dc5/a17756.html#adcd37802a2850f4ec8892f3495d5dc16", null ]
 ];

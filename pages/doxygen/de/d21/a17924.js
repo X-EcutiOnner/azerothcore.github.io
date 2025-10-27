@@ -1,6 +1,7 @@
 var a17924 =
 [
-    [ "HandleScript", "de/d21/a17924.html#aefdd306b81b44a0a5564eab5a0491e09", null ],
-    [ "PrepareSpellScript", "de/d21/a17924.html#a68c0462bd108b04621f8288328f78b18", null ],
-    [ "Register", "de/d21/a17924.html#aedaec0afc414800bc481a434592ffb5d", null ]
+    [ "PrepareSpellScript", "de/d21/a17924.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
+    [ "Register", "de/d21/a17924.html#aff4f05a5a4742a408646000b7cece38c", null ],
+    [ "RemovePassengers", "de/d21/a17924.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
+    [ "Validate", "de/d21/a17924.html#a2a8da9d150804f979f2313f623ad7760", null ]
 ];

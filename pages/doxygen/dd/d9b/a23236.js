@@ -1,6 +1,6 @@
 var a23236 =
 [
-    [ "FilterTargets", "dd/d9b/a23236.html#ac20676c292d87276e444bad56d71960d", null ],
-    [ "PrepareSpellScript", "dd/d9b/a23236.html#a8622bc4d61c5c236349d4b12c2a6b10d", null ],
-    [ "Register", "dd/d9b/a23236.html#ae356b768872de3e87806c19bf8cccb08", null ]
+    [ "instance_black_temple_InstanceMapScript", "df/d94/a23240.html", "df/d94/a23240" ],
+    [ "instance_black_temple", "dd/d9b/a23236.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "dd/d9b/a23236.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

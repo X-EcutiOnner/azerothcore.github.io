@@ -1,6 +1,6 @@
 var a22204 =
 [
-    [ "npc_still_at_it_triggerAI", "d4/d19/a22208.html", "d4/d19/a22208" ],
-    [ "npc_still_at_it_trigger", "d2/d4c/a22204.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
-    [ "GetAI", "d2/d4c/a22204.html#ae273ea6295f50248d303983d4b4137df", null ]
+    [ "npc_attracted_reef_bullAI", "d2/d4c/a22204.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "d2/d4c/a22204.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "d2/d4c/a22204.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];

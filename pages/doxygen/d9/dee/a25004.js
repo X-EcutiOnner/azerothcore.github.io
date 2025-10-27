@@ -1,8 +1,6 @@
 var a25004 =
 [
-    [ "Absorb", "d9/dee/a25004.html#aecfcbafe098adddba0a73965c447558c", null ],
-    [ "Load", "d9/dee/a25004.html#a1883cb4c86478359dd1ff8df25e2ec65", null ],
-    [ "PrepareAuraScript", "d9/dee/a25004.html#a3a65787dd5b7c1c796b98ce79f180d4d", null ],
-    [ "Register", "d9/dee/a25004.html#ab6bea7d62539841fa21fa8f3c8122707", null ],
-    [ "_limit", "d9/dee/a25004.html#a5985a97749e318e3ccba4c96724d8704", null ]
+    [ "HandleScript", "d9/dee/a25004.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
+    [ "PrepareSpellScript", "d9/dee/a25004.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
+    [ "Register", "d9/dee/a25004.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
 ];

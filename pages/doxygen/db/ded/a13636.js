@@ -1,6 +1,6 @@
 var a13636 =
 [
-    [ "npc_bh_thalorien_dawnseekerAI", "d5/d25/a13640.html", "d5/d25/a13640" ],
-    [ "npc_bh_thalorien_dawnseeker", "db/ded/a13636.html#a1fbee838cbbf1ada476f3dd7a82fc6e6", null ],
-    [ "GetAI", "db/ded/a13636.html#ac5d551d5d4d05ee1006d074908599a3a", null ]
+    [ "HandleEffectApply", "db/ded/a13636.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
+    [ "PrepareAuraScript", "db/ded/a13636.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
+    [ "Register", "db/ded/a13636.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
 ];

@@ -1,6 +1,9 @@
 var a24988 =
 [
-    [ "OnPeriodic", "dc/d9c/a24988.html#a5fdf44f34765d0386d5c5490620c944a", null ],
-    [ "PrepareAuraScript", "dc/d9c/a24988.html#a3c3044795e183eef2c801781100b11c7", null ],
-    [ "Register", "dc/d9c/a24988.html#a1221c3287c3fd7add356e84430508684", null ]
+    [ "FilterTargets", "dc/d9c/a24988.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
+    [ "PrepareSpellScript", "dc/d9c/a24988.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
+    [ "Register", "dc/d9c/a24988.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
+    [ "SetTargets", "dc/d9c/a24988.html#ac77e95af9b08118e87e3329eab5515ea", null ],
+    [ "Validate", "dc/d9c/a24988.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
+    [ "_targets", "dc/d9c/a24988.html#acc66768f54c514552f0ab01274c24f17", null ]
 ];

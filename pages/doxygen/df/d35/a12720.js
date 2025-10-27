@@ -1,5 +1,6 @@
 var a12720 =
 [
-    [ "at_karazhan_atiesh_aran", "df/d35/a12720.html#ac84f5848b8a26cbfdd2544108567a6cc", null ],
-    [ "OnTrigger", "df/d35/a12720.html#a5a6646c573b6e0bab0cbc288e594979e", null ]
+    [ "npc_mc_core_houndAI", "da/d4a/a12724.html", "da/d4a/a12724" ],
+    [ "npc_mc_core_hound", "df/d35/a12720.html#aee1ef71447dbd1494de5e0065bd5ae78", null ],
+    [ "GetAI", "df/d35/a12720.html#a3aa8c5332b509b4d5498cd726ab47e40", null ]
 ];

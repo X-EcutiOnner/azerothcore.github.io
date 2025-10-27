@@ -1,13 +1,11 @@
 var a22856 =
 [
-    [ "boss_illidari_council_memberAI", "dc/d8c/a22856.html#ac32366dfad13cd37ced2428d041e25c9", null ],
-    [ "DamageTaken", "dc/d8c/a22856.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
-    [ "DoAction", "dc/d8c/a22856.html#a203310b84d71a24145b1c39e7faff182", null ],
-    [ "EnterEvadeMode", "dc/d8c/a22856.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
-    [ "JustDied", "dc/d8c/a22856.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
-    [ "JustEngagedWith", "dc/d8c/a22856.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
-    [ "KilledUnit", "dc/d8c/a22856.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
-    [ "Reset", "dc/d8c/a22856.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
-    [ "events", "dc/d8c/a22856.html#ad47a350f5ed066e04816e72961a80bd0", null ],
-    [ "instance", "dc/d8c/a22856.html#adb11720cd0fd87a42b9a78490a70251e", null ]
+    [ "boss_talon_king_ikiss", "dc/d8c/a22856.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "CanAIAttack", "dc/d8c/a22856.html#ab4858d845f149b6333941d8f8ab59afb", null ],
+    [ "JustDied", "dc/d8c/a22856.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "dc/d8c/a22856.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "dc/d8c/a22856.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "dc/d8c/a22856.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "dc/d8c/a22856.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "dc/d8c/a22856.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

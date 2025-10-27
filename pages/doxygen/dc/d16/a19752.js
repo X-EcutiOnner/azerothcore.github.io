@@ -1,11 +1,12 @@
 var a19752 =
 [
-    [ "npc_living_constellationAI", "dc/d16/a19752.html#a54f4e946fad895bca07a59f4e00d10a5", null ],
-    [ "DoAction", "dc/d16/a19752.html#acdc93a7dc3019940d730fa20d115a929", null ],
-    [ "GetData", "dc/d16/a19752.html#acb5cc31d7a084e82d8bde3852f9668dd", null ],
-    [ "Reset", "dc/d16/a19752.html#a664b03bdaea184ab8dd8298ed9952790", null ],
-    [ "SpellHit", "dc/d16/a19752.html#a4c83ef2d5fe161a90d465a8fbd7eb4f8", null ],
-    [ "UpdateAI", "dc/d16/a19752.html#ad5b23c3db46b455c9321e7fb29b88572", null ],
-    [ "_isActive", "dc/d16/a19752.html#a786d2d05f83e59dd0da34f44037bdd35", null ],
-    [ "events", "dc/d16/a19752.html#a679c9fe1ed357b7c7e1ed1fac01ef8d3", null ]
+    [ "boss_krystallusAI", "dc/d16/a19752.html#adfa2ab8498279937bf497292d6e7cba5", null ],
+    [ "JustDied", "dc/d16/a19752.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
+    [ "JustEngagedWith", "dc/d16/a19752.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
+    [ "KilledUnit", "dc/d16/a19752.html#acf9101c5b776820039fd80e5d6e0c138", null ],
+    [ "RemoveStonedEffect", "dc/d16/a19752.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
+    [ "Reset", "dc/d16/a19752.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
+    [ "UpdateAI", "dc/d16/a19752.html#a79095e25f1d9dac927f63cef67db60ec", null ],
+    [ "events", "dc/d16/a19752.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
+    [ "pInstance", "dc/d16/a19752.html#aec9cf7053476298f72dccf3bd1579c63", null ]
 ];

@@ -1,7 +1,8 @@
 var a12640 =
 [
-    [ "boss_maiden_of_virtue", "dc/d48/a12640.html#a4cd0c7a566e23e5c3a43466214f35dd3", null ],
-    [ "JustDied", "dc/d48/a12640.html#a6eded246318f6b47b46f45168e4a8069", null ],
-    [ "JustEngagedWith", "dc/d48/a12640.html#a6ff1b9e0a17218ad4871bc5fc3748671", null ],
-    [ "KilledUnit", "dc/d48/a12640.html#a32dd66a297d11f5ffac1841bae15727a", null ]
+    [ "MajordomoAddData", "dc/d48/a12640.html#aa068ada34e1275cbf97b21f74dfd2881", null ],
+    [ "MajordomoAddData", "dc/d48/a12640.html#a9b8cc2b43ffbf268e470169e00e66671", null ],
+    [ "creatureEntry", "dc/d48/a12640.html#ae3a0444e88158123f4d6359328e89a1d", null ],
+    [ "guid", "dc/d48/a12640.html#a2f2b0aaace557361a21d1072f36933dc", null ],
+    [ "spawnPos", "dc/d48/a12640.html#a31f8d24efb19c2d0e697f35b911e3237", null ]
 ];

@@ -1,6 +1,7 @@
 var a11936 =
 [
-    [ "boss_anubshiahAI", "de/d02/a11940.html", "de/d02/a11940" ],
-    [ "boss_anubshiah", "de/dfd/a11936.html#a7176d98f966dac62f7ac1a10d3f2afa1", null ],
-    [ "GetAI", "de/dfd/a11936.html#a157420b5f0c4c05e7dc2ee327ef81cb9", null ]
+    [ "player_commandscript", "de/dfd/a11936.html#a1565aa67743cfd3e5fe5179b4100bd20", null ],
+    [ "GetCommands", "de/dfd/a11936.html#a0e1e8eec0fe449c95c5cf9dd06a0fced", null ],
+    [ "HandlePlayerLearnCommand", "de/dfd/a11936.html#a6ca511bcecf73049665772cb80dbcf40", null ],
+    [ "HandlePlayerUnLearnCommand", "de/dfd/a11936.html#a22fddb5da1278fe794a78a899c423bfd", null ]
 ];

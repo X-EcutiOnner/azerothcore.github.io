@@ -1,9 +1,7 @@
 var a27152 =
 [
-    [ "emerald_dragonAI", "d9/d14/a27152.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
-    [ "ExecuteEvent", "d9/d14/a27152.html#a6e60f146c7b86a119f269bf755831ac6", null ],
-    [ "JustSummoned", "d9/d14/a27152.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
-    [ "KilledUnit", "d9/d14/a27152.html#a69b24bf865ecd38822d5602314cddf11", null ],
-    [ "Reset", "d9/d14/a27152.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
-    [ "UpdateAI", "d9/d14/a27152.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
+    [ "FilterTargets", "d9/d14/a27152.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
+    [ "PrepareSpellScript", "d9/d14/a27152.html#a954f00317eab544dd57e657368aab7fb", null ],
+    [ "Register", "d9/d14/a27152.html#a1804684c8685372faf2e88e56b48f5be", null ],
+    [ "Validate", "d9/d14/a27152.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
 ];

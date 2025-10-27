@@ -1,17 +1,12 @@
 var a19640 =
 [
-    [ "boss_sjonnirAI", "d2/dc7/a19640.html#a53127766553d1bee4d7331e6f4fcda05", null ],
-    [ "ActivatePipe", "d2/dc7/a19640.html#aa3a3e765284cd29cef1d54a9390c3986", null ],
-    [ "DoAction", "d2/dc7/a19640.html#afb2f73908bc17c763a8028af4b499481", null ],
-    [ "JustDied", "d2/dc7/a19640.html#aac572b45c50d0e9c0e7fb3a036053859", null ],
-    [ "JustEngagedWith", "d2/dc7/a19640.html#aade776baf55155bb3814129ddc2f9632", null ],
-    [ "KilledUnit", "d2/dc7/a19640.html#ac79740a8c5e4263f2917647c74e995aa", null ],
-    [ "Reset", "d2/dc7/a19640.html#a8a5f0c22eb6c1d3501c2abdabfc5a77c", null ],
-    [ "SummonDwarfes", "d2/dc7/a19640.html#a0f0472fbd8be38501cedef6c9d0553ee", null ],
-    [ "UpdateAI", "d2/dc7/a19640.html#ad357741fbf486671790f6e619f330460", null ],
-    [ "events", "d2/dc7/a19640.html#ae40bf2206d0e6af3f15727fa5dfef5e7", null ],
-    [ "pInstance", "d2/dc7/a19640.html#aa9aba0a76bfc58031c3f8133eb07c134", null ],
-    [ "SlugeCount", "d2/dc7/a19640.html#ad1e05c8b4dbba7a73a368dc07ad94aaf", null ],
-    [ "SummonPhase", "d2/dc7/a19640.html#ab409b352a20824dd1b274763aeab2c39", null ],
-    [ "summons", "d2/dc7/a19640.html#a4888090a1b02403c80b83b7089eb0dfa", null ]
+    [ "npc_oculus_drakeAI", "d2/dc7/a19640.html#a214d9b77a5653f1a5f60106081eaf683", null ],
+    [ "IsSummonedBy", "d2/dc7/a19640.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
+    [ "MovementInform", "d2/dc7/a19640.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
+    [ "PassengerBoarded", "d2/dc7/a19640.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
+    [ "SpellHitTarget", "d2/dc7/a19640.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
+    [ "UpdateAI", "d2/dc7/a19640.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
+    [ "despawnTimer", "d2/dc7/a19640.html#a560dc0936a78267a4036b209c6718732", null ],
+    [ "JustSummoned", "d2/dc7/a19640.html#a8b656a464525e881944e72e9486b0eb9", null ],
+    [ "m_pInstance", "d2/dc7/a19640.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
 ];

@@ -1,13 +1,10 @@
 var a27632 =
 [
-    [ "npc_garments_of_questsAI", "d6/d8b/a27632.html#a079f719ca488ed6fde2783b5db4f328b", null ],
-    [ "JustEngagedWith", "d6/d8b/a27632.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
-    [ "Reset", "d6/d8b/a27632.html#aaaaa3e41deae0057bd659be5c579d226", null ],
-    [ "SpellHit", "d6/d8b/a27632.html#ad22195dba70ced744b319bc1ad83c083", null ],
-    [ "UpdateAI", "d6/d8b/a27632.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
-    [ "WaypointReached", "d6/d8b/a27632.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
-    [ "CanRun", "d6/d8b/a27632.html#a93c41781e4cb037b56773bbbf36181b7", null ],
-    [ "CasterGUID", "d6/d8b/a27632.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
-    [ "IsHealed", "d6/d8b/a27632.html#a96db66704eabf028362d5f8b5c424712", null ],
-    [ "RunAwayTimer", "d6/d8b/a27632.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
+    [ "guard_shattrath_scryerAI", "d6/d8b/a27632.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "d6/d8b/a27632.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "d6/d8b/a27632.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "d6/d8b/a27632.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "d6/d8b/a27632.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "d6/d8b/a27632.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "d6/d8b/a27632.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

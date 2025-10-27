@@ -1,10 +1,25 @@
 var a16172 =
 [
-    [ "spell_halion_marks_aura", "df/dc2/a16172.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
-    [ "BeforeDispel", "df/dc2/a16172.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
-    [ "OnRemove", "df/dc2/a16172.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
-    [ "PrepareAuraScript", "df/dc2/a16172.html#acd5285ea5c378b31526440d263c54770", null ],
-    [ "Register", "df/dc2/a16172.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
-    [ "_removeSpellId", "df/dc2/a16172.html#aeef9d928c6a8739337251e144558b169", null ],
-    [ "_summonSpellId", "df/dc2/a16172.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
+    [ "boss_sartharionAI", "df/dc2/a16172.html#aea51fa7b0e55c9ae635a95f7a1aea161", null ],
+    [ "DamageTaken", "df/dc2/a16172.html#a0f16f9865159338c46e140c01650a728", null ],
+    [ "DoAction", "df/dc2/a16172.html#af3c28d7eff6df494bbca6156df5fb014", null ],
+    [ "GetData", "df/dc2/a16172.html#a6d45699d2efacdc0aca88dba3f67d20a", null ],
+    [ "IsTargetInBounds", "df/dc2/a16172.html#a5ed942da2e53ecc63ec15fa8cf8c3325", null ],
+    [ "JustDied", "df/dc2/a16172.html#ac0a2915976f7dfb21786c161d5e43d3f", null ],
+    [ "JustEngagedWith", "df/dc2/a16172.html#a15c50a40ae2a6caa873993c6e330600c", null ],
+    [ "JustSummoned", "df/dc2/a16172.html#ac5dc745f044bdf673b7f92b194063d94", null ],
+    [ "KilledUnit", "df/dc2/a16172.html#a8502d5c79b7baac2f9a68349e99b7b16", null ],
+    [ "Reset", "df/dc2/a16172.html#ab72889e00eb1fad659f807620e81e23e", null ],
+    [ "RespawnDragons", "df/dc2/a16172.html#a5014e6aebdda3b84cd22fd2f66ed691b", null ],
+    [ "SendLavaWaves", "df/dc2/a16172.html#a14384c3853570d0f7580d72d0008b986", null ],
+    [ "SetData", "df/dc2/a16172.html#ad992cf36966069dc00d5509a54445213", null ],
+    [ "SummonLavaWaves", "df/dc2/a16172.html#aadd3b8f29b49b67685d67036c5f2775f", null ],
+    [ "SummonStartingTriggers", "df/dc2/a16172.html#a17f64c07e9c83c7e25bf9fba5b9f3ba4", null ],
+    [ "UpdateAI", "df/dc2/a16172.html#a7aaca15038bf53ff3baaeb39c7713bff", null ],
+    [ "below11PctReached", "df/dc2/a16172.html#ae838ffe0fdee72f4d4b1c02a9cbde949", null ],
+    [ "dragonsCount", "df/dc2/a16172.html#a3bb9defa2a2a3acc6caadaaa361027ee", null ],
+    [ "extraEvents", "df/dc2/a16172.html#a4d2e7a5aae63664e437c1e9ac22846cb", null ],
+    [ "lastLavaSide", "df/dc2/a16172.html#ab9c3a5d19c966e547328ce2a28674069", null ],
+    [ "usedBerserk", "df/dc2/a16172.html#a4790e98b3e8d02021b00e14aafec3aff", null ],
+    [ "volcanoBlows", "df/dc2/a16172.html#a1d6e306084fb64742d28beb1f65ef338", null ]
 ];

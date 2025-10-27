@@ -1,9 +1,8 @@
 var a11932 =
 [
-    [ "npc_burning_spiritAI", "da/d1e/a11932.html#a52f63423d09794446b0c01da2feb325d", null ],
-    [ "EnterEvadeMode", "da/d1e/a11932.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
-    [ "IsSummonedBy", "da/d1e/a11932.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
-    [ "MovementInform", "da/d1e/a11932.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
-    [ "_events", "da/d1e/a11932.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
-    [ "_flamelasherGUID", "da/d1e/a11932.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
+    [ "pet_commandscript", "da/d1e/a11932.html#a84595dcb908398e80deee0b0aa47e335", null ],
+    [ "GetCommands", "da/d1e/a11932.html#a01026a4936774d2225d10e0f6e27b08c", null ],
+    [ "HandlePetCreateCommand", "da/d1e/a11932.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
+    [ "HandlePetLearnCommand", "da/d1e/a11932.html#a59a2a6bd9af23fe3a775319216337bda", null ],
+    [ "HandlePetUnlearnCommand", "da/d1e/a11932.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
 ];

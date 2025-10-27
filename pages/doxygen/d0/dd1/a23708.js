@@ -1,8 +1,11 @@
 var a23708 =
 [
-    [ "npc_warchief_portal", "d0/dd1/a23708.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
-    [ "JustSummoned", "d0/dd1/a23708.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
-    [ "SetData", "d0/dd1/a23708.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
-    [ "UpdateAI", "d0/dd1/a23708.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
-    [ "_scheduler", "d0/dd1/a23708.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
+    [ "boss_krosh_firehand", "d0/dd1/a23708.html#a1ef3618844f086de7875f26e7e6190f9", null ],
+    [ "AttackStart", "d0/dd1/a23708.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
+    [ "JustDied", "d0/dd1/a23708.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
+    [ "JustEngagedWith", "d0/dd1/a23708.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
+    [ "Reset", "d0/dd1/a23708.html#a989c4b762a7cdb228b245e91881d97a2", null ],
+    [ "UpdateAI", "d0/dd1/a23708.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
+    [ "_scheduler", "d0/dd1/a23708.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
+    [ "instance", "d0/dd1/a23708.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
 ];

@@ -1,7 +1,6 @@
 var a21980 =
 [
-    [ "npc_tallhorn_stagAI", "d2/d65/a21980.html#a50947c450eece979193b45728e5e1f82", null ],
-    [ "Reset", "d2/d65/a21980.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
-    [ "UpdateAI", "d2/d65/a21980.html#adf60f62fa92238cb315c42e0179c3f17", null ],
-    [ "_phase", "d2/d65/a21980.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
+    [ "npc_heated_battleAI", "d1/ded/a21984.html", "d1/ded/a21984" ],
+    [ "npc_heated_battle", "d2/d65/a21980.html#aceafde04a60940c1027a6e838ffdc137", null ],
+    [ "GetAI", "d2/d65/a21980.html#af73fc1f330bf2fd224e53be39da1c9d3", null ]
 ];

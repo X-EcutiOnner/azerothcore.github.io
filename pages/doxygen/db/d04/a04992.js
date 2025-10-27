@@ -1,5 +1,6 @@
 var a04992 =
 [
-    [ "clear", "db/d04/a04992.html#a69bc508845bc35319a6d8c51e562a5f9", null ],
-    [ "createOrGetVMapMgr", "db/d04/a04992.html#a80f01f24b27dd7a5a795c193d0816624", null ]
+    [ "LiquidInfo", "db/d04/a04992.html#abfae4e75223a93b5b71840f60710afb9", null ],
+    [ "level", "db/d04/a04992.html#a4c3731c1d0dd78e7a018e2379c42488b", null ],
+    [ "type", "db/d04/a04992.html#ae766c58994cf635c8e0bdfdb15bd4246", null ]
 ];

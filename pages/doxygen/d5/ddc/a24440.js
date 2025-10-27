@@ -1,10 +1,6 @@
 var a24440 =
 [
-    [ "npc_pet_gen_imp_in_a_bottle", "d5/ddc/a24440.html#aa32b7770c2719d77d46fcf6d22989284", null ],
-    [ "InitializeAI", "d5/ddc/a24440.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
-    [ "UpdateAI", "d5/ddc/a24440.html#a453ec855bb21a30cb72b540ff8f77035", null ],
-    [ "_data", "d5/ddc/a24440.html#a982ec923536c2c33353a3673aa425b6a", null ],
-    [ "_hasParty", "d5/ddc/a24440.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
-    [ "_ownerGUID", "d5/ddc/a24440.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
-    [ "_talkTimer", "d5/ddc/a24440.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
+    [ "npc_enraged_spiritAI", "d2/dcd/a24444.html", "d2/dcd/a24444" ],
+    [ "npc_enraged_spirit", "d5/ddc/a24440.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "d5/ddc/a24440.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

@@ -1,5 +1,6 @@
 var a27224 =
 [
-    [ "go_seer_of_zebhalak", "d8/d28/a27224.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
-    [ "OnGossipHello", "d8/d28/a27224.html#a84009789ce8e8d0d7c42996fde161135", null ]
+    [ "HandleEffectCalcSpellMod", "d8/d28/a27224.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
+    [ "PrepareAuraScript", "d8/d28/a27224.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
+    [ "Register", "d8/d28/a27224.html#af60592a9f1e595f31814eae405d03d5a", null ]
 ];

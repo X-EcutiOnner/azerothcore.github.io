@@ -1,6 +1,7 @@
 var a15916 =
 [
-    [ "HandlePeriodic", "dc/d5d/a15916.html#ad22b433005b2678bde3516a01eaaaa60", null ],
-    [ "PrepareAuraScript", "dc/d5d/a15916.html#a3711004edaef7242d9cae1f23f9b7467", null ],
-    [ "Register", "dc/d5d/a15916.html#ad570e51a3d2dd5d3cc4b91aebeefd9ef", null ]
+    [ "npc_ameAI", "d2/d30/a15920.html", "d2/d30/a15920" ],
+    [ "npc_ame", "dc/d5d/a15916.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
+    [ "GetAI", "dc/d5d/a15916.html#a09f7688c38d56319791f7543eb32f317", null ],
+    [ "OnQuestAccept", "dc/d5d/a15916.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
 ];

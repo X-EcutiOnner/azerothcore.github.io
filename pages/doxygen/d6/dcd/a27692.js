@@ -1,13 +1,7 @@
 var a27692 =
 [
-    [ "npc_spring_rabbitAI", "d6/dcd/a27692.html#a1211ab47dee4844b90a010c284c4f1a5", null ],
-    [ "DoAction", "d6/dcd/a27692.html#a288ddb2f1ee0ab7113f1a1f34dc545c5", null ],
-    [ "JustEngagedWith", "d6/dcd/a27692.html#a0c36f1dfc094007990f067544a940538", null ],
-    [ "Reset", "d6/dcd/a27692.html#ac0f6b47044099016dd6453674b75b2c8", null ],
-    [ "UpdateAI", "d6/dcd/a27692.html#af9da118068234755fa9219b84050d2a3", null ],
-    [ "bunnyTimer", "d6/dcd/a27692.html#a99c2923194cf6a07bee8924abf98f470", null ],
-    [ "inLove", "d6/dcd/a27692.html#aec8887aedf32fb4ebcc68c48f0ee0ea5", null ],
-    [ "jumpTimer", "d6/dcd/a27692.html#a5c17e00187ac87b23482dfbabb89809b", null ],
-    [ "rabbitGUID", "d6/dcd/a27692.html#af838b25c8442767aaef16e95022cb062", null ],
-    [ "searchTimer", "d6/dcd/a27692.html#af1b82227dadf30c6c796e7b8c2abbe82", null ]
+    [ "npc_engineering_tele_trinket", "d6/dcd/a27692.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
+    [ "CanLearn", "d6/dcd/a27692.html#a8a35f1c09a9df609561e76f4ed578647", null ],
+    [ "OnGossipHello", "d6/dcd/a27692.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
+    [ "OnGossipSelect", "d6/dcd/a27692.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
 ];

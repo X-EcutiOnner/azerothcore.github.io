@@ -1,6 +1,9 @@
 var a13648 =
 [
-    [ "npc_grand_magister_rommathAI", "dd/d57/a13652.html", "dd/d57/a13652" ],
-    [ "npc_grand_magister_rommath", "d8/d1b/a13648.html#a63b9786bfbd9c7b462b0549e2f6941ea", null ],
-    [ "GetAI", "d8/d1b/a13648.html#abd64eff4712e8209e39e938b1813250c", null ]
+    [ "npc_dark_fiend", "d8/d1b/a13648.html#a8c4ebf7ba2f991df7053d40108330609", null ],
+    [ "DamageTaken", "d8/d1b/a13648.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
+    [ "Reset", "d8/d1b/a13648.html#a5622d14f84ad8e47da773852f1778d56", null ],
+    [ "UpdateAI", "d8/d1b/a13648.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
+    [ "_lastVictimGUID", "d8/d1b/a13648.html#abcccb35701f21d417e3c13709cc24281", null ],
+    [ "_spellCast", "d8/d1b/a13648.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
 ];

@@ -1,7 +1,6 @@
 var a18752 =
 [
-    [ "HandleQuestComplete", "d5/de4/a18752.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
-    [ "HandleScript", "d5/de4/a18752.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
-    [ "PrepareSpellScript", "d5/de4/a18752.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
-    [ "Register", "d5/de4/a18752.html#a3258d4517cfc758080691bab429624d7", null ]
+    [ "HandleScript", "d5/de4/a18752.html#a930b8a515b5d156c16925dc218cf8172", null ],
+    [ "PrepareSpellScript", "d5/de4/a18752.html#a892b0ba0f6541b3557a0200be5028479", null ],
+    [ "Register", "d5/de4/a18752.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
 ];

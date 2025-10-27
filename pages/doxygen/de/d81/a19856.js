@@ -1,8 +1,6 @@
 var a19856 =
 [
-    [ "OnPeriodic", "de/d81/a19856.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
-    [ "OnRemove", "de/d81/a19856.html#ac6d961793ddb6423540da9d97e016b82", null ],
-    [ "PrepareAuraScript", "de/d81/a19856.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
-    [ "Register", "de/d81/a19856.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
-    [ "Validate", "de/d81/a19856.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
+    [ "CosmicSmashDamageEvent", "de/d81/a19856.html#a5c9606791b560d8be1825a9c73f2393e", null ],
+    [ "Execute", "de/d81/a19856.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
+    [ "_caster", "de/d81/a19856.html#ab7af2459d3962831812ee2362ee9de2b", null ]
 ];

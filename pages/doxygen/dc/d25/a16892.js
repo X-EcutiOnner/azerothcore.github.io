@@ -1,8 +1,7 @@
 var a16892 =
 [
-    [ "npc_hor_leaderAI", "d6/da1/a16896.html", "d6/da1/a16896" ],
-    [ "npc_hor_leader", "dc/d25/a16892.html#a5c8d6cce242d144755fb14879f7f17d3", null ],
-    [ "GetAI", "dc/d25/a16892.html#a55e7357aa6dff1efdff08541e88413e9", null ],
-    [ "OnGossipHello", "dc/d25/a16892.html#afb46ea0b6926ad5d9b87b1d6a5e04591", null ],
-    [ "OnGossipSelect", "dc/d25/a16892.html#ab5d01ae2803bab43b2c701d0cb1d4280", null ]
+    [ "HandleScriptEffect", "dc/d25/a16892.html#a51064b3a11f453724ae0879c80eaf8df", null ],
+    [ "PrepareSpellScript", "dc/d25/a16892.html#aac26002ff107e609fb7258306b430f1b", null ],
+    [ "Register", "dc/d25/a16892.html#a0efef7644706940e3929ce99cd162c91", null ],
+    [ "Validate", "dc/d25/a16892.html#a7110d4136337d44aa0300ec82e5a6511", null ]
 ];

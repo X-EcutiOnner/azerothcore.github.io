@@ -1,7 +1,6 @@
 var a20236 =
 [
-    [ "npc_ulduar_icicleAI", "db/d25/a20236.html#a258376e257fbe3c8a6c70b2585d44df1", null ],
-    [ "UpdateAI", "db/d25/a20236.html#a0edf734ae2dac7a5378b21b73e3714c8", null ],
-    [ "timer1", "db/d25/a20236.html#aa912acbe225d9056e44bc22b8d9f7473", null ],
-    [ "timer2", "db/d25/a20236.html#a82e034fc4ccb8eb92abeb72a222764c7", null ]
+    [ "boss_freya_elder_brightleafAI", "d2/dcf/a20240.html", "d2/dcf/a20240" ],
+    [ "boss_freya_elder_brightleaf", "db/d25/a20236.html#a9b1539b37912ef5ae46d5926bf2e0f40", null ],
+    [ "GetAI", "db/d25/a20236.html#a3c39424ecf97ced8c2a962baff5ae342", null ]
 ];

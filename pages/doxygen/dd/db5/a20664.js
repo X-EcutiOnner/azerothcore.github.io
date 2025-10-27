@@ -1,6 +1,5 @@
 var a20664 =
 [
-    [ "boss_thorim_lightning_orbAI", "df/d4a/a20668.html", "df/d4a/a20668" ],
-    [ "boss_thorim_lightning_orb", "dd/db5/a20664.html#a2aa29e8d2b3fb10e8be39d8fc3112ac2", null ],
-    [ "GetAI", "dd/db5/a20664.html#ad24d28866145c4fccf7a3971856fa87f", null ]
+    [ "go_ulduar_do_not_push_this_button", "dd/db5/a20664.html#aa204af213a643c001161e0c2f173ee6b", null ],
+    [ "OnGossipHello", "dd/db5/a20664.html#ae11efa54b496ab21600a9c62e50b5fbe", null ]
 ];

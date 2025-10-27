@@ -1,6 +1,5 @@
 var a27648 =
 [
-    [ "npc_steam_tonkAI", "da/da9/a27652.html", "da/da9/a27652" ],
-    [ "npc_steam_tonk", "d6/d56/a27648.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
-    [ "GetAI", "d6/d56/a27648.html#a38e51485a3610a204a45677fce15c943", null ]
+    [ "item_incendiary_explosives", "d6/d56/a27648.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
+    [ "OnUse", "d6/d56/a27648.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
 ];

@@ -1,5 +1,5 @@
 var a10572 =
 [
-    [ "GuildGetRoster", "d3/da5/a10572.html#a9beccc6ee2416633c57d2da31fdc021a", null ],
-    [ "Read", "d3/da5/a10572.html#af795ad992ec1b55d741227bd2d4a62d1", null ]
+    [ "LogoutCancelAck", "d3/da5/a10572.html#a2c261c1cdd4c29658c5160e8fe44ac58", null ],
+    [ "Write", "d3/da5/a10572.html#a12f9e56c2ee59f5a084e8aef3fdfad97", null ]
 ];

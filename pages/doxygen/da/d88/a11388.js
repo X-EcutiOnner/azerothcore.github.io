@@ -1,6 +1,7 @@
 var a11388 =
 [
-    [ "AfterCheckProcHandler", "da/d88/a11388.html#ac0a14950e90d064ffd7adc224b25f9d8", null ],
-    [ "Call", "da/d88/a11388.html#ab2da0d87413dd7317eeaf73df17f1aaf", null ],
-    [ "_HandlerScript", "da/d88/a11388.html#af5a393efc729e8588c0fc425fdfead99", null ]
+    [ "ap_bonus", "da/d88/a11388.html#a98410b8bb89434cd7e1747462f8039dc", null ],
+    [ "ap_dot_bonus", "da/d88/a11388.html#a09caeec47b138d9eff3539795416a09a", null ],
+    [ "direct_damage", "da/d88/a11388.html#abab1af227a6c8e592b8a9bd15589535d", null ],
+    [ "dot_damage", "da/d88/a11388.html#a92491d8d1e61612d88c7c830d7912be5", null ]
 ];

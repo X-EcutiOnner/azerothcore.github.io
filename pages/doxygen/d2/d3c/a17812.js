@@ -1,12 +1,6 @@
 var a17812 =
 [
-    [ "npc_darnavanAI", "d2/d3c/a17812.html#ae06019c24910c873877398f29f5a1737", null ],
-    [ "JustDied", "d2/d3c/a17812.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
-    [ "JustEngagedWith", "d2/d3c/a17812.html#acbaedacea5ad19d82002c25b68623a27", null ],
-    [ "MovementInform", "d2/d3c/a17812.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
-    [ "Reset", "d2/d3c/a17812.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
-    [ "UpdateAI", "d2/d3c/a17812.html#a2b3b5e168989db21fc047acaf01413d9", null ],
-    [ "_canCharge", "d2/d3c/a17812.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
-    [ "_canShatter", "d2/d3c/a17812.html#aa7750edc8051c8ee453143491dccf122", null ],
-    [ "events", "d2/d3c/a17812.html#aa8a022ccb1367432480f72d305c752ac", null ]
+    [ "npc_gunship_boarding_add_realAI", "d9/d4c/a17816.html", "d9/d4c/a17816" ],
+    [ "npc_gunship_boarding_add", "d2/d3c/a17812.html#aa80871f80bae7186d3665f73d757e108", null ],
+    [ "GetAI", "d2/d3c/a17812.html#ad7e173bffccca6d852ba545427235447", null ]
 ];

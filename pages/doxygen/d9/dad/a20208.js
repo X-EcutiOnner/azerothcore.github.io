@@ -1,5 +1,5 @@
 var a20208 =
 [
-    [ "achievement_smell_saronite", "d9/dad/a20208.html#a42dce2aefa2561952dcf5289126035a8", null ],
-    [ "OnCheck", "d9/dad/a20208.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
+    [ "achievement_flame_leviathan_shutout", "d9/dad/a20208.html#a555e0d206b7f730665d301c7e03b23e6", null ],
+    [ "OnCheck", "d9/dad/a20208.html#af548232f563fd387bc8ee25b696a2f99", null ]
 ];

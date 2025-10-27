@@ -1,7 +1,7 @@
 var a23940 =
 [
-    [ "boss_gatewatcher_gyrokill", "d5/d91/a23940.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
-    [ "JustDied", "d5/d91/a23940.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
-    [ "JustEngagedWith", "d5/d91/a23940.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
-    [ "KilledUnit", "d5/d91/a23940.html#a274355d0303d9bf5761758f175826bd1", null ]
+    [ "AfterApply", "d5/d91/a23940.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
+    [ "PrepareAuraScript", "d5/d91/a23940.html#aa98346e5f5b23fe016148426a19a719f", null ],
+    [ "Register", "d5/d91/a23940.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
+    [ "Validate", "d5/d91/a23940.html#a616d1758aa257140f4941fe12ef21e87", null ]
 ];

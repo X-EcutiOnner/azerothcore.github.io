@@ -1,6 +1,8 @@
 var a19504 =
 [
-    [ "HandleEffectCalcAmount", "d7/d23/a19504.html#afa50ce616d36dd59c7195209074d6182", null ],
-    [ "PrepareAuraScript", "d7/d23/a19504.html#a4638b99dac7653f13d59c3928a78b3b9", null ],
-    [ "Register", "d7/d23/a19504.html#a691d5a99eec9e367c518d0244f25bd41", null ]
+    [ "FilterTargets", "d7/d23/a19504.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "d7/d23/a19504.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "d7/d23/a19504.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "d7/d23/a19504.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
+    [ "DrakeGUID", "d7/d23/a19504.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
 ];

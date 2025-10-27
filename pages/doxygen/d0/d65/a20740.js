@@ -1,6 +1,6 @@
 var a20740 =
 [
-    [ "OnPeriodic", "d0/d65/a20740.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
-    [ "PrepareAuraScript", "d0/d65/a20740.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
-    [ "Register", "d0/d65/a20740.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
+    [ "npc_ulduar_expedition_engineerAI", "d0/dd1/a20744.html", "d0/dd1/a20744" ],
+    [ "npc_ulduar_expedition_engineer", "d0/d65/a20740.html#a1ff99e62b9c2222d8c08e71bfda600ea", null ],
+    [ "GetAI", "d0/d65/a20740.html#a6f1beaab42e42981e152db920e516616", null ]
 ];

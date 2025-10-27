@@ -1,7 +1,7 @@
 var a23516 =
 [
-    [ "OnApply", "dc/dd5/a23516.html#a301e47da9be4b4a449701c59c19bc62b", null ],
-    [ "PrepareAuraScript", "dc/dd5/a23516.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
-    [ "Register", "dc/dd5/a23516.html#aaf38547f7fa233b03429734dbe374f13", null ],
-    [ "Validate", "dc/dd5/a23516.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
+    [ "PeriodicTick", "dc/dd5/a23516.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
+    [ "PrepareAuraScript", "dc/dd5/a23516.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
+    [ "Register", "dc/dd5/a23516.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
+    [ "Validate", "dc/dd5/a23516.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
 ];

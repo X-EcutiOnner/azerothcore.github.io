@@ -1,10 +1,7 @@
 var a08560 =
 [
-    [ "PvPInfo", "d0/dc2/a08560.html#ad956667bc89b49e5a520ee5a4f19f22e", null ],
-    [ "EndTimer", "d0/dc2/a08560.html#ae06b5030552c02f30fe8386633a753df", null ],
-    [ "FFAPvPEndTimer", "d0/dc2/a08560.html#a739dfc63dfe39429a44ea682d9120522", null ],
-    [ "IsHostile", "d0/dc2/a08560.html#a22a1c8f0e8c51f4a27cb8ab362028d61", null ],
-    [ "IsInFFAPvPArea", "d0/dc2/a08560.html#a8a654926248b3974587af1eb9c064d15", null ],
-    [ "IsInHostileArea", "d0/dc2/a08560.html#a92d3c8991f7e3c5d683b414d18cbbd64", null ],
-    [ "IsInNoPvPArea", "d0/dc2/a08560.html#a6858b8db9a441bf950f7d9fdca1587b5", null ]
+    [ "IsInSpec", "d0/dc2/a08560.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
+    [ "Active", "d0/dc2/a08560.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
+    [ "specMask", "d0/dc2/a08560.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
+    [ "State", "d0/dc2/a08560.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
 ];

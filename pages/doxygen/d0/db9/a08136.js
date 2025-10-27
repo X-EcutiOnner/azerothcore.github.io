@@ -1,15 +1,11 @@
 var a08136 =
 [
-    [ "Guardian", "d0/db9/a08136.html#a14bd59fddfc552c4a25c6bc4ad714508", null ],
-    [ "GetDebugInfo", "d0/db9/a08136.html#ace47e7d3fb3162786329cbcf1c6cab46", null ],
-    [ "InitStats", "d0/db9/a08136.html#a698ac009e39a2e8461b40135b75609ef", null ],
-    [ "InitStatsForLevel", "d0/db9/a08136.html#a7d0ae55d55f4c3ea35de601c2c6c6e6b", null ],
-    [ "InitSummon", "d0/db9/a08136.html#a1d5ebfa5ac5754293172041dc3a2c47d", null ],
-    [ "UpdateAllStats", "d0/db9/a08136.html#ae2f3d68429afb154f790d65dae6406b3", null ],
-    [ "UpdateArmor", "d0/db9/a08136.html#adc8ed8497f8450ccad92f79322d9f452", null ],
-    [ "UpdateAttackPowerAndDamage", "d0/db9/a08136.html#af40269c3c63fc12b21f18c67ef067a0f", null ],
-    [ "UpdateDamagePhysical", "d0/db9/a08136.html#aa45ffb532a2a8075d8e4acb818c08d70", null ],
-    [ "UpdateMaxHealth", "d0/db9/a08136.html#a62c41f7922bc1c2e1697a1eea65cdb72", null ],
-    [ "UpdateMaxPower", "d0/db9/a08136.html#a620010832de5fc7d6d1a8545321f9dea", null ],
-    [ "UpdateStats", "d0/db9/a08136.html#a6b615ed2f01623991fa45907a09cc642", null ]
+    [ "FormationInfo", "d0/db9/a08136.html#ad00d7dd0ac811a3805a8ba2c9c1e73df", null ],
+    [ "HasGroupFlag", "d0/db9/a08136.html#afc612acf30e8d0a047aac5b0fc2dc07b", null ],
+    [ "follow_angle", "d0/db9/a08136.html#a928ce7047d511c316a5367faf7f96673", null ],
+    [ "follow_dist", "d0/db9/a08136.html#a3b59ee5129e208cc3df407a921362393", null ],
+    [ "groupAI", "d0/db9/a08136.html#af9f6dc52999efef6f0819bb8d1670fec", null ],
+    [ "leaderGUID", "d0/db9/a08136.html#ad5af23397ae1ae835a72ce125d102ef0", null ],
+    [ "point_1", "d0/db9/a08136.html#a84298ff533bebc633689742c7f9299ae", null ],
+    [ "point_2", "d0/db9/a08136.html#acc308b497de18211b99eec4311b256a4", null ]
 ];

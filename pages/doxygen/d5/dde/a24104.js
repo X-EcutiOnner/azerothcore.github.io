@@ -1,7 +1,7 @@
 var a24104 =
 [
-    [ "npc_maghar_captiveAI", "da/d64/a24108.html", "da/d64/a24108" ],
-    [ "npc_maghar_captive", "d5/dde/a24104.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
-    [ "GetAI", "d5/dde/a24104.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
-    [ "OnQuestAccept", "d5/dde/a24104.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
+    [ "boss_gatewatcher_gyrokill", "d5/dde/a24104.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "d5/dde/a24104.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "d5/dde/a24104.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "d5/dde/a24104.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

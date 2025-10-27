@@ -1,8 +1,6 @@
 var a13752 =
 [
-    [ "npc_varian_wrynnAI", "da/d96/a13756.html", "da/d96/a13756" ],
-    [ "npc_varian_wrynn", "dd/d37/a13752.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
-    [ "GetAI", "dd/d37/a13752.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
-    [ "OnGossipHello", "dd/d37/a13752.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
-    [ "OnGossipSelect", "dd/d37/a13752.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
+    [ "npc_maredis_firestarAI", "dd/d37/a13752.html#ac2d4ed4b205146524dcf11585d65ae12", null ],
+    [ "sGossipHello", "dd/d37/a13752.html#a72790dc9525249a4b558c37c4a0bd03f", null ],
+    [ "sGossipSelect", "dd/d37/a13752.html#acefb2bc09fe8f7ad77d53ee6eb8bbb71", null ]
 ];

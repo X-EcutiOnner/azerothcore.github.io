@@ -1,6 +1,5 @@
 var a22248 =
 [
-    [ "npc_jungle_punch_targetAI", "dd/dbc/a22252.html", "dd/dbc/a22252" ],
-    [ "npc_jungle_punch_target", "dd/d40/a22248.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
-    [ "GetAI", "dd/d40/a22248.html#abb38ccb55abfe0f48f360469031c6902", null ]
+    [ "npc_black_knight_graveyardAI", "dd/d40/a22248.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
+    [ "MoveInLineOfSight", "dd/d40/a22248.html#aa5c80b5759656e3865d6721161f9f005", null ]
 ];

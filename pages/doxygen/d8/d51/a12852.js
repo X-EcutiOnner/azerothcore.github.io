@@ -1,6 +1,7 @@
 var a12852 =
 [
-    [ "boss_kagani_nightstrike", "d8/d51/a12852.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
-    [ "JustEngagedWith", "d8/d51/a12852.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
-    [ "MovementInform", "d8/d51/a12852.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
+    [ "npc_malchezaar_axe", "d8/d51/a12852.html#a1a5615f2def10add30e7917b770ebc74", null ],
+    [ "Initialize", "d8/d51/a12852.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
+    [ "JustEngagedWith", "d8/d51/a12852.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
+    [ "UpdateAI", "d8/d51/a12852.html#a202ba6922a426f87909eefbccd070175", null ]
 ];

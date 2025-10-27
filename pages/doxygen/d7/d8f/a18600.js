@@ -1,8 +1,7 @@
 var a18600 =
 [
-    [ "FilterTargets", "d7/d8f/a18600.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
-    [ "HandleForceCast", "d7/d8f/a18600.html#ae783cf255be823bf7c9125f288479e97", null ],
-    [ "Load", "d7/d8f/a18600.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
-    [ "PrepareSpellScript", "d7/d8f/a18600.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
-    [ "Register", "d7/d8f/a18600.html#a454a8909be4bb85f255ea696041ea447", null ]
+    [ "HandleProc", "d7/d8f/a18600.html#af06730a865009127c7d3e5423afd4d44", null ],
+    [ "PrepareAuraScript", "d7/d8f/a18600.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
+    [ "Register", "d7/d8f/a18600.html#a6c97b787ce00491a259c575d26189f8c", null ],
+    [ "Validate", "d7/d8f/a18600.html#aed9c98e20d916359629e119d6dd2a94f", null ]
 ];

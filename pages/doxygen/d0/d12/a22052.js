@@ -1,6 +1,6 @@
 var a22052 =
 [
-    [ "npc_your_inner_turmoilAI", "d8/d7b/a22056.html", "d8/d7b/a22056" ],
-    [ "npc_your_inner_turmoil", "d0/d12/a22052.html#a72856ef469bb8f6ff4a89a16159479af", null ],
-    [ "GetAI", "d0/d12/a22052.html#a29c8f76b072e891face1225770688ca6", null ]
+    [ "npc_spiritual_insightAI", "d8/d7b/a22056.html", "d8/d7b/a22056" ],
+    [ "npc_spiritual_insight", "d0/d12/a22052.html#afe7b9d5953462719407f03b33b8de564", null ],
+    [ "GetAI", "d0/d12/a22052.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
 ];

@@ -1,9 +1,7 @@
 var a28320 =
 [
-    [ "itemId", "dd/de2/a28320.html#ae125712e5569c9699b4748b6a15fbc12", null ],
-    [ "items_to_triggerspell", "dd/de2/a28320.html#a8496a2f3fa3e230def04b996fc585760", null ],
-    [ "name", "dd/de2/a28320.html#a9b62f843833d524f200782d44151503d", null ],
-    [ "required_skill_id", "dd/de2/a28320.html#ab3058ac725fb8f105b9359d5a5147942", null ],
-    [ "required_skill_value", "dd/de2/a28320.html#a58d0997a73cf48061545edbc0201f544", null ],
-    [ "spells", "dd/de2/a28320.html#a8aac032992efe1bfbba0e49693562c7f", null ]
+    [ "cutPercent", "dd/de2/a28320.html#a8581a6a5198dab10680f477a477a7c80", null ],
+    [ "depositPercent", "dd/de2/a28320.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
+    [ "faction", "dd/de2/a28320.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
+    [ "houseId", "dd/de2/a28320.html#a1bf77c1b14731def0e3de44143df2eed", null ]
 ];

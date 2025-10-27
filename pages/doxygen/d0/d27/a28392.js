@@ -1,7 +1,8 @@
 var a28392 =
 [
-    [ "Id", "d0/d27/a28392.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
-    [ "MaxLevel", "d0/d27/a28392.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
-    [ "Modifier", "d0/d27/a28392.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
-    [ "StatMod", "d0/d27/a28392.html#ab639dd94c53707ca160e13f71342730d", null ]
+    [ "DamagedDisplayId", "d0/d27/a28392.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
+    [ "DestroyedDisplayId", "d0/d27/a28392.html#afc891df0c9491a34f784e8f141434be5", null ],
+    [ "Id", "d0/d27/a28392.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
+    [ "RebuildingDisplayId", "d0/d27/a28392.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
+    [ "SmokeDisplayId", "d0/d27/a28392.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
 ];

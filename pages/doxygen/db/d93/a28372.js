@@ -1,10 +1,12 @@
 var a28372 =
 [
-    [ "PvPDifficultyEntry", "db/d93/a28372.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
-    [ "GetBracketId", "db/d93/a28372.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
-    [ "bracketId", "db/d93/a28372.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
-    [ "difficulty", "db/d93/a28372.html#a33ac017d785a4586a78e715d97836720", null ],
-    [ "mapId", "db/d93/a28372.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
-    [ "maxLevel", "db/d93/a28372.html#a1385166568239f2118b65377df8b4b55", null ],
-    [ "minLevel", "db/d93/a28372.html#acd07e8d759af1b73ec7543f6e70df242", null ]
+    [ "ID", "db/d93/a28372.html#a84ba697182123cb3e7dd3ba07241e971", null ],
+    [ "maxScale", "db/d93/a28372.html#a23ca0ae7c45790a24f58546970194abf", null ],
+    [ "maxScaleLevel", "db/d93/a28372.html#ad5d722d74bc08d4de3edd54c2f24addb", null ],
+    [ "minScale", "db/d93/a28372.html#a3eacdd8639c6dd25dbd3205a58860cf9", null ],
+    [ "minScaleLevel", "db/d93/a28372.html#a49d9d7847cc4d54891d83166eb277740", null ],
+    [ "Name", "db/d93/a28372.html#a937fc579ab2790f4a972f07d3453a762", null ],
+    [ "petFoodMask", "db/d93/a28372.html#a4d9dd8baa3f7981633248513bb25f4ca", null ],
+    [ "petTalentType", "db/d93/a28372.html#a802000cefb6c4d357edfc45cc291e21e", null ],
+    [ "skillLine", "db/d93/a28372.html#ad4498d40b31d18742ee4ac235cb58a2e", null ]
 ];

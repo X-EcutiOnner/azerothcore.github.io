@@ -1,6 +1,6 @@
 var a26516 =
 [
-    [ "HandleEffectPeriodic", "df/d41/a26516.html#ab283b40ceb6dcd0a835550531321ce92", null ],
-    [ "PrepareAuraScript", "df/d41/a26516.html#a6d6efe0be7cefeb20c386c83dee561d4", null ],
-    [ "Register", "df/d41/a26516.html#a4c69f350a68c1f4dd429ab52a791f3cd", null ]
+    [ "HandleDummyEffect", "df/d41/a26516.html#ad5421ca3dd5bf802952f98e6d1170003", null ],
+    [ "PrepareSpellScript", "df/d41/a26516.html#a9489556e1e16cd2e0d5c43b38d7ea5ee", null ],
+    [ "Register", "df/d41/a26516.html#a2ad2c00807d07aeb55a8fd848a69f9d1", null ]
 ];

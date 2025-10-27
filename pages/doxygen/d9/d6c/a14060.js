@@ -1,10 +1,8 @@
 var a14060 =
 [
-    [ "npc_batrider", "d9/d6c/a14060.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
-    [ "DamageTaken", "d9/d6c/a14060.html#ad4818b1363082a91223526908c38777c", null ],
-    [ "JustEngagedWith", "d9/d6c/a14060.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
-    [ "Reset", "d9/d6c/a14060.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
-    [ "UpdateAI", "d9/d6c/a14060.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
-    [ "_mode", "d9/d6c/a14060.html#acd53ec78a754219511af1ad2f11422a9", null ],
-    [ "_scheduler", "d9/d6c/a14060.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
+    [ "FilterTargets", "d9/d6c/a14060.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
+    [ "OnHit", "d9/d6c/a14060.html#ac25886536c353f09838188362fb8ae84", null ],
+    [ "PrepareSpellScript", "d9/d6c/a14060.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
+    [ "Register", "d9/d6c/a14060.html#afa419365236c09914f758846978e2cbb", null ],
+    [ "Validate", "d9/d6c/a14060.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
 ];

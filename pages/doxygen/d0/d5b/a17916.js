@@ -1,6 +1,7 @@
 var a17916 =
 [
-    [ "PrepareSpellScript", "d0/d5b/a17916.html#a16eadb50b6038f16ea28464d00df3381", null ],
-    [ "Register", "d0/d5b/a17916.html#ac6e304d391011863b8eff8105fab5191", null ],
-    [ "SelectDest", "d0/d5b/a17916.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
+    [ "HandleScript", "d0/d5b/a17916.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
+    [ "PrepareSpellScript", "d0/d5b/a17916.html#ab69926839f72ee76eba2b225aba9690c", null ],
+    [ "Register", "d0/d5b/a17916.html#aad8925e891d7537993f02f3bc2552fea", null ],
+    [ "SelectRandomTarget", "d0/d5b/a17916.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
 ];

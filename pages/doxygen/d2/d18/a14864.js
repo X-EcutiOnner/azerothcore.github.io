@@ -1,7 +1,6 @@
 var a14864 =
 [
-    [ "npc_tarethaAI", "d9/dfc/a14868.html", "d9/dfc/a14868" ],
-    [ "npc_taretha", "d2/d18/a14864.html#a54379e06518ff972e91e25e295731f5a", null ],
-    [ "GetAI", "d2/d18/a14864.html#a5045bb7119b12800ee0053818fcae5fe", null ],
-    [ "OnGossipHello", "d2/d18/a14864.html#ac689e97b3fd54e9c9e40ed5b9aeca099", null ]
+    [ "FilterTargets", "d2/d18/a14864.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
+    [ "PrepareSpellScript", "d2/d18/a14864.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
+    [ "Register", "d2/d18/a14864.html#a164b8b946dc801db878603488c978adb", null ]
 ];

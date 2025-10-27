@@ -1,8 +1,8 @@
 var a23792 =
 [
-    [ "boss_laj", "d3/ded/a23792.html#a3c9323ab4b5530504588ea62aed2edff", null ],
-    [ "Reset", "d3/ded/a23792.html#ace690a0662376addaa40093f3f119c31", null ],
-    [ "ScheduleTasks", "d3/ded/a23792.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
-    [ "_lastTransform", "d3/ded/a23792.html#a097eacaaf77a09bec087530bad587b11", null ],
-    [ "_transformContainer", "d3/ded/a23792.html#a313e66ceeb4e359251dad65383e7f568", null ]
+    [ "npc_target_trigger", "d3/ded/a23792.html#a238058ba80130c6239b7267db3247196", null ],
+    [ "Reset", "d3/ded/a23792.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
+    [ "UpdateAI", "d3/ded/a23792.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
+    [ "_cast", "d3/ded/a23792.html#a4ec89ca960323f7ad135d5a425a82416", null ],
+    [ "_scheduler", "d3/ded/a23792.html#a9b418b09e25c8f96692b4e2626339c96", null ]
 ];

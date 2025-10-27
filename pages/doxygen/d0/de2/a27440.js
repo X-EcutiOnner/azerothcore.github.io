@@ -1,5 +1,6 @@
 var a27440 =
 [
-    [ "item_only_for_flight", "d0/de2/a27440.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
-    [ "OnUse", "d0/de2/a27440.html#a88cdf17a85630aef703f93143ba41d4d", null ]
+    [ "go_witherbark_totem_bundleAI", "d0/de2/a27440.html#a955625e2315008a2e36936d44f825060", null ],
+    [ "UpdateAI", "d0/de2/a27440.html#af688bab2dc3d938951adb303e8b8d88b", null ],
+    [ "_timer", "d0/de2/a27440.html#a509e6d8401380c326a0f565a6b903d7a", null ]
 ];

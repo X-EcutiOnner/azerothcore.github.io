@@ -1,6 +1,10 @@
 var a15472 =
 [
-    [ "npc_tiger_matriarch_creditAI", "d0/d43/a15476.html", "d0/d43/a15476" ],
-    [ "npc_tiger_matriarch_credit", "d8/dcc/a15472.html#a9d76e8e808c828da501551025eecd8ea", null ],
-    [ "GetAI", "d8/dcc/a15472.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
+    [ "npc_anubisath_defender", "d8/dcc/a15472.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
+    [ "DamageTaken", "d8/dcc/a15472.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
+    [ "JustDied", "d8/dcc/a15472.html#a225ca1b3144953bcc5890caf0d32b606", null ],
+    [ "JustEngagedWith", "d8/dcc/a15472.html#a6505fcae0e99cae44750f16daddc3309", null ],
+    [ "Reset", "d8/dcc/a15472.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
+    [ "UpdateAI", "d8/dcc/a15472.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
+    [ "_enraged", "d8/dcc/a15472.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
 ];

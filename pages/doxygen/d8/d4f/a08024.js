@@ -1,10 +1,13 @@
 var a08024 =
 [
-    [ "CreatureModel", "d8/d4f/a08024.html#afd3bf8cb5ff39b862a946eab9731b251", null ],
-    [ "CreatureModel", "d8/d4f/a08024.html#a02b05bf92c3341b90173b4aa998087ba", null ],
-    [ "CreatureDisplayID", "d8/d4f/a08024.html#a0f48fde2c8438ecf411d7f80d3bca1a9", null ],
-    [ "DefaultInvisibleModel", "d8/d4f/a08024.html#a4b729e5730c1fa0e5e4995f5dd65e9b3", null ],
-    [ "DefaultVisibleModel", "d8/d4f/a08024.html#a49bec3e0996adfb6ec5bd5a9b6e38448", null ],
-    [ "DisplayScale", "d8/d4f/a08024.html#ad842b73233b84c451710767f5e58f10a", null ],
-    [ "Probability", "d8/d4f/a08024.html#a7736d6480dca65a68afb82a830b35874", null ]
+    [ "LfgQueueData", "d8/d4f/a08024.html#a1d0b74e82f50dc6baaf6b5a79b0af0cd", null ],
+    [ "LfgQueueData", "d8/d4f/a08024.html#a363aa2cc53bce304893335ca93755103", null ],
+    [ "bestCompatible", "d8/d4f/a08024.html#a10fe592a7d0b3fc53701d1946d55f0af", null ],
+    [ "dps", "d8/d4f/a08024.html#ab78711eaf7285a5d4821e52354124646", null ],
+    [ "dungeons", "d8/d4f/a08024.html#a6b115f3a5e0ff996279db044f47f5823", null ],
+    [ "healers", "d8/d4f/a08024.html#a8b2049474102332ddca53f0892565216", null ],
+    [ "joinTime", "d8/d4f/a08024.html#a240fcc11f3fd9d27fa913f80828522f2", null ],
+    [ "lastRefreshTime", "d8/d4f/a08024.html#a727d35760b716270c5f326f343106d0c", null ],
+    [ "roles", "d8/d4f/a08024.html#a20218584ba5c3dbaf9ff7ae520eba9a3", null ],
+    [ "tanks", "d8/d4f/a08024.html#a500f93175d7a25f7c2e0dc0f3943e639", null ]
 ];

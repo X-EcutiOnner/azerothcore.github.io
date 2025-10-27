@@ -1,6 +1,6 @@
 var a17164 =
 [
-    [ "HandleDummy", "dd/dbc/a17164.html#aef592aafe931351186edf98f7aba7e22", null ],
-    [ "PrepareSpellScript", "dd/dbc/a17164.html#ab79a160e0d5b0c6e0ecfa842a4da2819", null ],
-    [ "Register", "dd/dbc/a17164.html#a7594952f23cba22b886c2c3b10f363d4", null ]
+    [ "npc_hor_risen_witch_doctorAI", "d9/d79/a17168.html", "d9/d79/a17168" ],
+    [ "npc_hor_risen_witch_doctor", "dd/dbc/a17164.html#add06a10c9b4342b136b5cab49338b095", null ],
+    [ "GetAI", "dd/dbc/a17164.html#a055a8d29d8e6a58b92968ed1c39c1b1d", null ]
 ];

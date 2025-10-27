@@ -1,9 +1,11 @@
 var a20060 =
 [
-    [ "Absorb", "da/d14/a20060.html#a16c2e931950102fc0ae5c88ef14587c1", null ],
-    [ "CalculateAmount", "da/d14/a20060.html#a9166627cbaa536405975444c4ef601de", null ],
-    [ "Load", "da/d14/a20060.html#abe7c08d2f26cef3603cf1b1f243f9e38", null ],
-    [ "PrepareAuraScript", "da/d14/a20060.html#aa5793741c2f8179db68a9fb1222a9085", null ],
-    [ "Register", "da/d14/a20060.html#a17fed57aed8953c7a7e401d1ac925e67", null ],
-    [ "_absorbPct", "da/d14/a20060.html#ad9e1dcfd8ce7038173ac5b71d448d80a", null ]
+    [ "boss_flame_leviathan_defense_turretAI", "da/d14/a20060.html#aedf30f06fe89c805019f7cc254646ff1", null ],
+    [ "CanAIAttack", "da/d14/a20060.html#a76efa1d88ce029775809abb3ec88efb3", null ],
+    [ "DamageTaken", "da/d14/a20060.html#adedbbeeb01da20843bc85ac2daaed12a", null ],
+    [ "JustDied", "da/d14/a20060.html#af261cc1f0458984719ab1bb4518bdc64", null ],
+    [ "KilledUnit", "da/d14/a20060.html#aed3f2a4bac3391683989eec94697ef16", null ],
+    [ "UpdateAI", "da/d14/a20060.html#a575eb381d1aa31af60484271ae6e4627", null ],
+    [ "_instance", "da/d14/a20060.html#a8c0658a5d32355607cb16f6e1c83f83e", null ],
+    [ "_setHealth", "da/d14/a20060.html#aeb220ded0a6515674a428716a8be9f48", null ]
 ];

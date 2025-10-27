@@ -1,9 +1,14 @@
 var a19524 =
 [
-    [ "HandleOnEffectApply", "d4/df8/a19524.html#a6ab047004cc901331d747641f218cf6a", null ],
-    [ "HandleOnEffectRemove", "d4/df8/a19524.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
-    [ "PrepareAuraScript", "d4/df8/a19524.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
-    [ "Register", "d4/df8/a19524.html#a83b0d414a6e97b434f82492fa01ac385", null ],
-    [ "Validate", "d4/df8/a19524.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
-    [ "_drakeGUID", "d4/df8/a19524.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
+    [ "boss_anomalus", "d4/df8/a19524.html#aa4dd8fac7c360beb834382f624ed2246", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d4/df8/a19524.html#ada0735330bff29a8c04706c980e6bbfc", null ],
+    [ "GetData", "d4/df8/a19524.html#ad48aebb50cda7ee621f71803669f04c2", null ],
+    [ "JustDied", "d4/df8/a19524.html#a41e257481921a122dba30348559e05fb", null ],
+    [ "JustEngagedWith", "d4/df8/a19524.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
+    [ "JustSummoned", "d4/df8/a19524.html#a3c0413f30d96268cab724856334e61ee", null ],
+    [ "Reset", "d4/df8/a19524.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
+    [ "SetData", "d4/df8/a19524.html#aa79ec9829862b573cd0f38f965d737e8", null ],
+    [ "UpdateAI", "d4/df8/a19524.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
+    [ "achievement", "d4/df8/a19524.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
+    [ "activeRifts", "d4/df8/a19524.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
 ];

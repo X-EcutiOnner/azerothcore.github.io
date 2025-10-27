@@ -1,6 +1,8 @@
 var a22480 =
 [
-    [ "npc_drakuru_shacklesAI", "dd/d18/a22484.html", "dd/d18/a22484" ],
-    [ "npc_drakuru_shackles", "d8/d88/a22480.html#a2b15a214b34d86597cba09b17654e4ff", null ],
-    [ "GetAI", "d8/d88/a22480.html#a90ce98de4630771858cd3b79264a28f9", null ]
+    [ "AfterRemove", "d8/d88/a22480.html#a06fd72c7754f34dbc62a99a9ed839302", null ],
+    [ "HandlePeriodic", "d8/d88/a22480.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9", null ],
+    [ "OnApply", "d8/d88/a22480.html#a6617555d302923e5e95e7b1c6d8d74d6", null ],
+    [ "PrepareAuraScript", "d8/d88/a22480.html#a47a6281c42dc9368357cc86912331c77", null ],
+    [ "Register", "d8/d88/a22480.html#a868c79cda98b97b27b74d46f86cb980a", null ]
 ];

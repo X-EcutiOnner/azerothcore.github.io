@@ -1,7 +1,6 @@
 var a20676 =
 [
-    [ "boss_thorim_trapAI", "d5/dc4/a20676.html#aaab278dc6557a49624099b0064b8d6f3", null ],
-    [ "Reset", "d5/dc4/a20676.html#ab0715e75a475409ffb6c623bf363a65d", null ],
-    [ "UpdateAI", "d5/dc4/a20676.html#a40078609a67aa029f71df7971449b056", null ],
-    [ "_checkTimer", "d5/dc4/a20676.html#ad3ed8edb4d06e5b98a5afc82170f3233", null ]
+    [ "npc_ulduar_flames_spreadAI", "d2/da6/a20680.html", "d2/da6/a20680" ],
+    [ "npc_ulduar_flames_spread", "d5/dc4/a20676.html#aca9713b28d6d0c7b13b85a00c8a53ab0", null ],
+    [ "GetAI", "d5/dc4/a20676.html#af492a5bc9304a05f8475a39458c6abdb", null ]
 ];

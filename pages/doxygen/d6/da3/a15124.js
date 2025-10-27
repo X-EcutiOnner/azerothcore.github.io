@@ -1,5 +1,7 @@
 var a15124 =
 [
-    [ "boss_yauj", "d6/da3/a15124.html#a15ab7b6b35d29fb1552b11586163320e", null ],
-    [ "JustEngagedWith", "d6/da3/a15124.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
+    [ "npc_onyxian_lair_guard", "d6/da3/a15124.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
+    [ "JustEngagedWith", "d6/da3/a15124.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
+    [ "UpdateAI", "d6/da3/a15124.html#ac8649636d5847813e49d2ada05f78645", null ],
+    [ "events", "d6/da3/a15124.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
 ];

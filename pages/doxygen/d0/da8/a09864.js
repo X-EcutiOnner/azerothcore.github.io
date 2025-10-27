@@ -1,7 +1,10 @@
 var a09864 =
 [
-    [ "LFGUpdateRequest", "d0/da8/a09864.html#a85900fc44d5dfb5595fbe7dc3422dfaa", null ],
-    [ "call", "d0/da8/a09864.html#a15258001db5870a0f52bb0c72cba3587", null ],
-    [ "m_diff", "d0/da8/a09864.html#a27e818e5d985ac91be6eca14a1ebd73f", null ],
-    [ "m_updater", "d0/da8/a09864.html#a1bb4423241495aebab83ebc1acf66510", null ]
+    [ "ZoneDynamicInfo", "d0/da8/a09864.html#a0542940fdcc273a4ff8a8e8bb6a40b1f", null ],
+    [ "DefaultWeather", "d0/da8/a09864.html#a8c2c7772596ec58413bee2077e46790f", null ],
+    [ "LightFadeInTime", "d0/da8/a09864.html#a0be8cff9a7e74add7bba8af3be993e48", null ],
+    [ "MusicId", "d0/da8/a09864.html#a3ab0244b34c30cc7d929b418da31d7d3", null ],
+    [ "OverrideLightId", "d0/da8/a09864.html#a0d43acd5539d3449b7c36ee88518346e", null ],
+    [ "WeatherGrade", "d0/da8/a09864.html#a923c3231c49554addd1522f0ccc50e2d", null ],
+    [ "WeatherId", "d0/da8/a09864.html#a4df1e694992a3c2638460601e4c4d7c9", null ]
 ];

@@ -1,12 +1,10 @@
 var a07332 =
 [
-    [ "BGQueueRemoveEvent", "d0/d72/a07332.html#ab751b728f64b2928eefb21f756539d81", null ],
-    [ "~BGQueueRemoveEvent", "d0/d72/a07332.html#aab9ea24041888975439aafb246c571c3", null ],
-    [ "Abort", "d0/d72/a07332.html#a7d1dc829e56398ad421cb53dd51e952e", null ],
-    [ "Execute", "d0/d72/a07332.html#a42482ff784da4b23b568888a74a0b531", null ],
-    [ "m_BgInstanceGUID", "d0/d72/a07332.html#a4732918e6d7c42dd068f5cb147a188fc", null ],
-    [ "m_BgQueueTypeId", "d0/d72/a07332.html#ac059a823ae49bd0250eec15845bf153b", null ],
-    [ "m_BgTypeId", "d0/d72/a07332.html#a8bc484087ef76d627d5ae912bc5de22c", null ],
-    [ "m_PlayerGuid", "d0/d72/a07332.html#a9a1e2c09896b4d7521954d810e7193cc", null ],
-    [ "m_RemoveTime", "d0/d72/a07332.html#a0c40a46749bff9caaf1a462d7bef701e", null ]
+    [ "BattlegroundChatBuilder", "d0/d72/a07332.html#ad5ae3b91e81f816ca49f9358222c8b06", null ],
+    [ "do_helper", "d0/d72/a07332.html#aaeb91b7fa2efe1dd36802851e204c9c8", null ],
+    [ "operator()", "d0/d72/a07332.html#ab84296c320b09a387de6e6e6a2326b83", null ],
+    [ "_args", "d0/d72/a07332.html#a32a72bf1110179cc58dcf2df914c7389", null ],
+    [ "_msgtype", "d0/d72/a07332.html#ae73b69d72ddee4e05bb8b634a91e13b7", null ],
+    [ "_source", "d0/d72/a07332.html#aaed8a84ac72a01824d7d7fc2ea17c9af", null ],
+    [ "_textId", "d0/d72/a07332.html#a218d6cc2e99a6170b1a548fc1531e2e7", null ]
 ];

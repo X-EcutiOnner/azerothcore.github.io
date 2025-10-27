@@ -1,5 +1,6 @@
 var a19252 =
 [
-    [ "npc_mr_bigglesworth", "dd/d59/a19252.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
-    [ "JustDied", "dd/d59/a19252.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
+    [ "boss_grobbulus_poison_cloudAI", "d1/dfe/a19256.html", "d1/dfe/a19256" ],
+    [ "boss_grobbulus_poison_cloud", "dd/d59/a19252.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
+    [ "GetAI", "dd/d59/a19252.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
 ];

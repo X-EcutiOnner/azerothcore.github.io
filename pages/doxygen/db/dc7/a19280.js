@@ -1,13 +1,17 @@
 var a19280 =
 [
-    [ "npc_vortex_rideAI", "db/dc7/a19280.html#ae827bdfdef36419e33b37aecde1a2cc4", null ],
-    [ "AttackStart", "db/dc7/a19280.html#a810c0c03317672d5a4a904a1e96cbba9", null ],
-    [ "DamageTaken", "db/dc7/a19280.html#a39e33812041877296c11c9bace6a4667", null ],
-    [ "MoveInLineOfSight", "db/dc7/a19280.html#a2c810e2fe14e4681a0092a0c6bb3eadc", null ],
-    [ "PassengerBoarded", "db/dc7/a19280.html#a77234a8f4ec9c687b194a8c332820609", null ],
-    [ "UpdateAI", "db/dc7/a19280.html#ad450120965f9e85bdb69ffc4c092c901", null ],
-    [ "bUpdatedFlying", "db/dc7/a19280.html#a56f2753ef630b76882cc1dce6b5a8fb9", null ],
-    [ "despawnTimer", "db/dc7/a19280.html#acd7a8c972db52077f8b02317f5398ff0", null ],
-    [ "timer", "db/dc7/a19280.html#acd72c6ae18b84cee94a295e51fae9ac3", null ],
-    [ "VORTEX_RADIUS", "db/dc7/a19280.html#adec384ccbdc5f2b90a1d09c67b47d24f", null ]
+    [ "boss_kelthuzadAI", "db/dc7/a19280.html#a3fa1e67bf942824cd40c5591f4e63a08", null ],
+    [ "EnterEvadeMode", "db/dc7/a19280.html#ac99064d95afff73680df1fe96749665a", null ],
+    [ "JustDied", "db/dc7/a19280.html#a49066a2fa1dc424a27262706c8af046a", null ],
+    [ "JustEngagedWith", "db/dc7/a19280.html#a8fd3938c0e91a0773eacba9fbdb4a60e", null ],
+    [ "JustSummoned", "db/dc7/a19280.html#a0b305ec3029d149c3ca273cb7ba52e1b", null ],
+    [ "KilledUnit", "db/dc7/a19280.html#ad2fa9b4d11b158e3fadf0c304be6b431", null ],
+    [ "MoveInLineOfSight", "db/dc7/a19280.html#a440b758486cd95b7884fe2ce9bdfb28f", null ],
+    [ "NormalizeOrientation", "db/dc7/a19280.html#a21ac290b79119d47b7509b04b34ea16e", null ],
+    [ "Reset", "db/dc7/a19280.html#a5df92ebc5bd4ee8d06b17e31381be8c4", null ],
+    [ "SpawnHelpers", "db/dc7/a19280.html#ad81fa9c3449ba347de09b1519be6d408", null ],
+    [ "SummonHelper", "db/dc7/a19280.html#a3a21a45072144b6f0421733466770267", null ],
+    [ "UpdateAI", "db/dc7/a19280.html#a3004d23e6eaa3f2ef5942e96e0c17308", null ],
+    [ "events", "db/dc7/a19280.html#a1ac1341c022c65f46b30a9c70b3f37ba", null ],
+    [ "summons", "db/dc7/a19280.html#a4b8a2fcda2e9f4e3944c3527dd6afb1e", null ]
 ];

@@ -1,8 +1,7 @@
 var a13508 =
 [
-    [ "npc_sunblade_arch_mage", "db/de7/a13508.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
-    [ "JustEngagedWith", "db/de7/a13508.html#aadeae32d691229b7b7b531175b8a5018", null ],
-    [ "Reset", "db/de7/a13508.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
-    [ "UpdateAI", "db/de7/a13508.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
-    [ "scheduler", "db/de7/a13508.html#aa6680f06651316996868907b1d28126c", null ]
+    [ "CorruptTriggers", "db/de7/a13508.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
+    [ "Execute", "db/de7/a13508.html#a9929f3518f307e0b753782967f06c6c1", null ],
+    [ "_caster", "db/de7/a13508.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
+    [ "_currentLane", "db/de7/a13508.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
 ];

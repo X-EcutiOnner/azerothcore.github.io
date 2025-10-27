@@ -1,19 +1,12 @@
 var a19184 =
 [
-    [ "boss_razuviousAI", "d7/d93/a19184.html#a6c5b5a7bc419b30a8814ada3f95f0c3a", null ],
-    [ "DamageTaken", "d7/d93/a19184.html#a4d20aa2066110c45ea06024dda04bb32", null ],
-    [ "JustDied", "d7/d93/a19184.html#addd5c34675473b78e1785a8122a6ccd2", null ],
-    [ "JustEngagedWith", "d7/d93/a19184.html#a9e9137c0c730435f2b2b3e8a731878e8", null ],
-    [ "JustSummoned", "d7/d93/a19184.html#a3126cc2c35dc81a76b43d615bfa1bc4f", null ],
-    [ "KilledUnit", "d7/d93/a19184.html#ab49711d40ea8ecbbf3a1fbab96569cc4", null ],
-    [ "MovementInform", "d7/d93/a19184.html#a40a022ee337caaf0bb59f4beb8d9d3e8", null ],
-    [ "Reset", "d7/d93/a19184.html#ae5b2e00b170a57b194b21445484c10bc", null ],
-    [ "ScheduleInteractWithDeathKnight", "d7/d93/a19184.html#a5cdc692e17c3d331f1f1b12c8160408e", null ],
-    [ "ScheduleRP", "d7/d93/a19184.html#a298fca0637eb5191e39f6010adc78c43", null ],
-    [ "SpawnHelpers", "d7/d93/a19184.html#af2ec0fb6a5d5fe0c165f309a5ca22ff3", null ],
-    [ "SpellHit", "d7/d93/a19184.html#a1c80a6d94af3ed794c25351484ae08ac", null ],
-    [ "UpdateAI", "d7/d93/a19184.html#a4ea0982f190aa21077b6237cac4e4368", null ],
-    [ "_rpBuddyGUID", "d7/d93/a19184.html#a06f80f3eac58b1cdc800bd4174244af5", null ],
-    [ "events", "d7/d93/a19184.html#a5b73fdcb503cef89e87a1e50cc11e825", null ],
-    [ "summons", "d7/d93/a19184.html#a6d3bb24f1b0475a04182d959f2f41b5d", null ]
+    [ "boss_faerlinaAI", "d7/d93/a19184.html#a3a97178599b9053c23a079ed1a2ed163", null ],
+    [ "JustDied", "d7/d93/a19184.html#a7ac2e510568a9dad710beaad42db0544", null ],
+    [ "JustEngagedWith", "d7/d93/a19184.html#a830dfa4fed62b4588ea8866174d3653a", null ],
+    [ "KilledUnit", "d7/d93/a19184.html#a6f7a6e66abcf4f4dd685bbb805920900", null ],
+    [ "MoveInLineOfSight", "d7/d93/a19184.html#aa5cd735c22d46e1b756f87f3952033a1", null ],
+    [ "Reset", "d7/d93/a19184.html#acee81492b9b751df587a3a2cdd691ab3", null ],
+    [ "SpellHit", "d7/d93/a19184.html#aa4fac163e31dcd9353238f993259d5ec", null ],
+    [ "SummonHelpers", "d7/d93/a19184.html#af2fbf866f87d568ee6028f0931d3b74e", null ],
+    [ "_introDone", "d7/d93/a19184.html#a9febd1d69c27140ddd2ac018181c67ec", null ]
 ];

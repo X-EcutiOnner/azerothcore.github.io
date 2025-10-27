@@ -1,18 +1,12 @@
 var a11572 =
 [
-    [ "Weather", "d0/d9d/a04783.html#gaf4ec787c400c0e90101f00d022c2c9fd", null ],
-    [ "~Weather", "d0/d9d/a04783.html#ga8db480edb9459ebf73a1363c6fea0b27", null ],
-    [ "GetScriptId", "d0/d9d/a04783.html#ga07ff1c03b6fb225388d418496c18d3be", null ],
-    [ "GetWeatherState", "d0/d9d/a04783.html#gaed38cecb6af95222638b2177fa48757c", null ],
-    [ "GetZone", "d0/d9d/a04783.html#ga5cf53e440c7da53eb6524ea1d658b0e6", null ],
-    [ "ReGenerate", "d0/d9d/a04783.html#gaea61d86d9a64dd5dbc8ea843aad97eb6", null ],
-    [ "SendWeatherUpdateToPlayer", "d0/d9d/a04783.html#gaf9ff2442cc875af4b6ca4bec7f41c965", null ],
-    [ "SetWeather", "d0/d9d/a04783.html#ga32e650a32fc1e01bdb6fbfd960fd022f", null ],
-    [ "Update", "d0/d9d/a04783.html#gaf7a3484daa8221287a4c325fb3a8080c", null ],
-    [ "UpdateWeather", "d0/d9d/a04783.html#gad4885daeab81309a42c2c1fdebcf33ad", null ],
-    [ "m_grade", "d0/d9d/a04783.html#ga5638d204d5986f64eed9d343d086895e", null ],
-    [ "m_timer", "d0/d9d/a04783.html#gadba1100bafe6db8a242bdad35663e909", null ],
-    [ "m_type", "d0/d9d/a04783.html#ga19d9ed53043ba2b9eb3bdc27921501eb", null ],
-    [ "m_weatherChances", "d0/d9d/a04783.html#gaeb74bbd4568c726a2443318aea6313d0", null ],
-    [ "m_zone", "d0/d9d/a04783.html#ga1fd12588331e8f86399378b7bb12317b", null ]
+    [ "CreatureTextBuilder", "d8/dff/a11572.html#a582eed3ab284675e72261a1db9808925", null ],
+    [ "operator()", "d8/dff/a11572.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
+    [ "_gender", "d8/dff/a11572.html#a615c3046f749bf44b036958fb1a50128", null ],
+    [ "_language", "d8/dff/a11572.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
+    [ "_msgType", "d8/dff/a11572.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
+    [ "_source", "d8/dff/a11572.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
+    [ "_target", "d8/dff/a11572.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
+    [ "_textGroup", "d8/dff/a11572.html#afcd842c1482980c6232f3f19d21a1481", null ],
+    [ "_textId", "d8/dff/a11572.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
 ];

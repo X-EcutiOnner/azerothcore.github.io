@@ -1,6 +1,6 @@
 var a24564 =
 [
-    [ "HandleEffectApply", "de/d13/a24564.html#a4bc121ecc9357709ec2f1ea395d0b6b1", null ],
-    [ "PrepareAuraScript", "de/d13/a24564.html#ac7f16aed55aedba6da0672c3102a5fae", null ],
-    [ "Register", "de/d13/a24564.html#a83e15d7db1b9aa4ce4fbc8a359795091", null ]
+    [ "npc_pet_dk_army_of_the_dead", "de/d13/a24564.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
+    [ "InitializeAI", "de/d13/a24564.html#add16c667f3e614f9d6ceebbe17cf0515", null ],
+    [ "IsSummonedBy", "de/d13/a24564.html#a4f1acbbccd68c83a7c3ea14b26a56305", null ]
 ];

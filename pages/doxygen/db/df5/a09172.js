@@ -1,28 +1,6 @@
 var a09172 =
 [
-    [ "GridCellType", "db/df5/a09172.html#a6ced2887358290f2692b8db27dc41fb8", null ],
-    [ "MapGrid", "db/df5/a09172.html#a5a5527e45f5cc524239acb698dfe0ff7", null ],
-    [ "AddGridObject", "db/df5/a09172.html#abfea9e8bec580dac11237d6bcf6ec46e", null ],
-    [ "GetCell", "db/df5/a09172.html#a30c7f339b38eba7a77d6fb34d5395411", null ],
-    [ "GetCell", "db/df5/a09172.html#a378b23eccae84332c069c549133bc03c", null ],
-    [ "GetCreatedCellsCount", "db/df5/a09172.html#aded0cc17a54db0321be745f9cc95dc4e", null ],
-    [ "GetId", "db/df5/a09172.html#a8a8807a8f90c9694f554af6717f4286d", null ],
-    [ "GetOrCreateCell", "db/df5/a09172.html#a774391ed70044178fc03206fea734f90", null ],
-    [ "GetTerrainData", "db/df5/a09172.html#a9cfa711f304248c1985cde543f83bdad", null ],
-    [ "GetTerrainDataSharedPtr", "db/df5/a09172.html#a975fa6b75e233afcc81147e8cc1e53bf", null ],
-    [ "GetX", "db/df5/a09172.html#a420df2970102922ab072a71ad89957f3", null ],
-    [ "GetY", "db/df5/a09172.html#ae38f53c8d5a2198790e633b603a0efe4", null ],
-    [ "IsObjectDataLoaded", "db/df5/a09172.html#a824577c333b59aebfc157443e8da3fa9", null ],
-    [ "link", "db/df5/a09172.html#abebb5ce3cfb117458f4f2661ade5aa15", null ],
-    [ "RemoveGridObject", "db/df5/a09172.html#a0bae3e5f1cf87a79f83d6204f9ad696e", null ],
-    [ "SetObjectDataLoaded", "db/df5/a09172.html#aae2eb655a0f6ed87d6196337efa27c82", null ],
-    [ "SetTerrainData", "db/df5/a09172.html#a4445ba094cd6681df7b07fef51fd1ab2", null ],
-    [ "VisitAllCells", "db/df5/a09172.html#a25496dddb5597d97fb70dfce8df9e77f", null ],
-    [ "VisitCell", "db/df5/a09172.html#a60901382f4cff8186a680e87edf483ea", null ],
-    [ "_cells", "db/df5/a09172.html#ae376cc135fa8cca2db88a6f37ce2e7bb", null ],
-    [ "_gridReference", "db/df5/a09172.html#a104d3a9e3c74020d8399135a1799c982", null ],
-    [ "_objectDataLoaded", "db/df5/a09172.html#ac4260f267d6c81fae4ce35936e49ef17", null ],
-    [ "_terrainData", "db/df5/a09172.html#a7e60b5410badcf791a1976e14f68327b", null ],
-    [ "_x", "db/df5/a09172.html#a581ecc3257ea512918e128a4be0c91e2", null ],
-    [ "_y", "db/df5/a09172.html#a2371c93b5dc5255a78498f4595fca3db", null ]
+    [ "AreaMapType", "db/df5/a09172.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
+    [ "areaMap", "db/df5/a09172.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
+    [ "gridArea", "db/df5/a09172.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
 ];

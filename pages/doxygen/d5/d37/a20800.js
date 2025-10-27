@@ -1,6 +1,6 @@
 var a20800 =
 [
-    [ "npc_xt002_life_sparkAI", "d5/dba/a20804.html", "d5/dba/a20804" ],
-    [ "npc_xt002_life_spark", "d5/d37/a20800.html#a9644718d192708e391b833468a0ff21e", null ],
-    [ "GetAI", "d5/d37/a20800.html#a09a1ce332d55fad146947c94bb53f564", null ]
+    [ "boss_thorim_lightning_orbAI", "d5/dba/a20804.html", "d5/dba/a20804" ],
+    [ "boss_thorim_lightning_orb", "d5/d37/a20800.html#a2aa29e8d2b3fb10e8be39d8fc3112ac2", null ],
+    [ "GetAI", "d5/d37/a20800.html#ad24d28866145c4fccf7a3971856fa87f", null ]
 ];

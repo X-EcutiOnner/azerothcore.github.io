@@ -1,7 +1,8 @@
 var a25276 =
 [
-    [ "EjectPassenger", "df/ddd/a25276.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
-    [ "PrepareSpellScript", "df/ddd/a25276.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
-    [ "Register", "df/ddd/a25276.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
-    [ "Validate", "df/ddd/a25276.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
+    [ "AchievementCredit", "df/ddd/a25276.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "df/ddd/a25276.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "df/ddd/a25276.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "df/ddd/a25276.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "df/ddd/a25276.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

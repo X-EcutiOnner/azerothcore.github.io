@@ -1,7 +1,6 @@
 var a22016 =
 [
-    [ "HandleScript", "d2/ddd/a22016.html#a95de3ae27cfd764380ab1648b49af38d", null ],
-    [ "Load", "d2/ddd/a22016.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
-    [ "PrepareSpellScript", "d2/ddd/a22016.html#a442138710213b9b120d8ce57b733205a", null ],
-    [ "Register", "d2/ddd/a22016.html#af9d8f764a6a02737f8b559f067156df6", null ]
+    [ "SACDeactivateEvent", "d2/ddd/a22016.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
+    [ "Execute", "d2/ddd/a22016.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
+    [ "_owner", "d2/ddd/a22016.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
 ];

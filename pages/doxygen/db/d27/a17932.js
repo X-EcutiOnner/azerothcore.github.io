@@ -1,7 +1,5 @@
 var a17932 =
 [
-    [ "HandleExtraEffect", "db/d27/a17932.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
-    [ "PrepareAuraScript", "db/d27/a17932.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
-    [ "Register", "db/d27/a17932.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
-    [ "Validate", "db/d27/a17932.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
+    [ "achievement_im_on_a_boat", "db/d27/a17932.html#aa25d330534aab023ec798e86976a6d50", null ],
+    [ "OnCheck", "db/d27/a17932.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
 ];

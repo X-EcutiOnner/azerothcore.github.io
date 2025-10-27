@@ -1,8 +1,6 @@
 var a17656 =
 [
-    [ "npc_gunship_mageAI", "da/d8a/a17656.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
-    [ "AttackStart", "da/d8a/a17656.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
-    [ "CanAIAttack", "da/d8a/a17656.html#aadcb217a9df96bee02287d75a23e32c2", null ],
-    [ "MovementInform", "da/d8a/a17656.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
-    [ "UpdateAI", "da/d8a/a17656.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
+    [ "npc_saurfang_eventAI", "d6/d17/a17660.html", "d6/d17/a17660" ],
+    [ "npc_saurfang_event", "da/d8a/a17656.html#a3bfce5457466360458498833098d660c", null ],
+    [ "GetAI", "da/d8a/a17656.html#a953842d2fa3380a8331faf3a42cb3177", null ]
 ];

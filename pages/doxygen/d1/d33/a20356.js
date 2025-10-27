@@ -1,6 +1,6 @@
 var a20356 =
 [
-    [ "npc_ulduar_iron_constructAI", "df/d2b/a20360.html", "df/d2b/a20360" ],
-    [ "npc_ulduar_iron_construct", "d1/d33/a20356.html#a56ddf4d4d290dbb15303419c1dab18da", null ],
-    [ "GetAI", "d1/d33/a20356.html#a7d46ba96b6f1968e35721d45c17b1a49", null ]
+    [ "id", "d1/d33/a20356.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
+    [ "x", "d1/d33/a20356.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
+    [ "y", "d1/d33/a20356.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
 ];

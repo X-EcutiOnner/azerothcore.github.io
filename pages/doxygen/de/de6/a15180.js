@@ -1,9 +1,7 @@
 var a15180 =
 [
-    [ "boss_fankriss", "de/de6/a15180.html#ab6b0ee6c1605aaf148dddd6a6f4788b9", null ],
-    [ "JustEngagedWith", "de/de6/a15180.html#a9eaae719a271a95f64ac8076fe807c13", null ],
-    [ "Reset", "de/de6/a15180.html#af84010ee103eb81c1e269b03fc640f81", null ],
-    [ "SummonHatchlingWaves", "de/de6/a15180.html#a91420e51be346e1b9cfa4efbdec00d76", null ],
-    [ "SummonWorms", "de/de6/a15180.html#ada23537921c3a11195450db89eb8fcfe", null ],
-    [ "summonWormSpells", "de/de6/a15180.html#a4f9722f1c6aa27be798d4bacbdb5fac6", null ]
+    [ "npc_hive_zara_larva", "de/de6/a15180.html#a50fb5738d7b0818689216fee0915a0de", null ],
+    [ "JustSummoned", "de/de6/a15180.html#a2a1d80f70ae265b1db50e3a7165fa099", null ],
+    [ "MovementInform", "de/de6/a15180.html#a6890c58106450d654062f548a80cb42f", null ],
+    [ "_instance", "de/de6/a15180.html#aa8333a25c0e184dd75db580b03ef9cb2", null ]
 ];

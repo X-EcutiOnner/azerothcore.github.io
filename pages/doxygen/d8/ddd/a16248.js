@@ -1,6 +1,6 @@
 var a16248 =
 [
-    [ "instance_ruby_sanctum_InstanceMapScript", "d9/df6/a16252.html", "d9/df6/a16252" ],
-    [ "instance_ruby_sanctum", "d8/ddd/a16248.html#a9fc9d56cfcd7d0163f25f49e1ed0baeb", null ],
-    [ "GetInstanceScript", "d8/ddd/a16248.html#ad0329f328d4be2c475d8bcd5ccefd4e1", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "d9/df6/a16252.html", "d9/df6/a16252" ],
+    [ "npc_baltharus_the_warborn_clone", "d8/ddd/a16248.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
+    [ "GetAI", "d8/ddd/a16248.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
 ];

@@ -1,8 +1,12 @@
 var a23772 =
 [
-    [ "boss_commander_sarannis", "dc/d74/a23772.html#ace0957feb37f864798008849be25f607", null ],
-    [ "JustDied", "dc/d74/a23772.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
-    [ "JustEngagedWith", "dc/d74/a23772.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
-    [ "KilledUnit", "dc/d74/a23772.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
-    [ "ScheduleReinforcements", "dc/d74/a23772.html#a293f0b860a66396a30c6d255eef85309", null ]
+    [ "boss_watchkeeper_gargolmar", "dc/d74/a23772.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
+    [ "JustDied", "dc/d74/a23772.html#a39be5796b39bea913105fc48dda0d186", null ],
+    [ "JustEngagedWith", "dc/d74/a23772.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
+    [ "KilledUnit", "dc/d74/a23772.html#a22736c2680f41cfd3443a76cd4de9352", null ],
+    [ "MoveInLineOfSight", "dc/d74/a23772.html#adec9837fdb2595ce57acffb279a7d011", null ],
+    [ "Reset", "dc/d74/a23772.html#a356b7fe9071b073b74b21913e35e7408", null ],
+    [ "UpdateAI", "dc/d74/a23772.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
+    [ "_hasSpoken", "dc/d74/a23772.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
+    [ "_taunted", "dc/d74/a23772.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
 ];

@@ -1,6 +1,6 @@
 var a22436 =
 [
-    [ "CheckCast", "d0/d66/a22436.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
-    [ "PrepareSpellScript", "d0/d66/a22436.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
-    [ "Register", "d0/d66/a22436.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
+    [ "npc_vics_flying_machineAI", "d9/dfc/a22440.html", "d9/dfc/a22440" ],
+    [ "npc_vics_flying_machine", "d0/d66/a22436.html#ac0f1e83a9f53f1e38e81804f0332e3fd", null ],
+    [ "GetAI", "d0/d66/a22436.html#aac2a7cabd2e87705e9a1b3bfebb89eae", null ]
 ];

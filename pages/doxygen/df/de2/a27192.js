@@ -1,10 +1,6 @@
 var a27192 =
 [
-    [ "boss_emerissAI", "df/de2/a27192.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
-    [ "DamageTaken", "df/de2/a27192.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
-    [ "ExecuteEvent", "df/de2/a27192.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
-    [ "JustEngagedWith", "df/de2/a27192.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
-    [ "KilledUnit", "df/de2/a27192.html#ad851169bc09a362137e211dd10d30a1b", null ],
-    [ "Reset", "df/de2/a27192.html#a44dfb325c4e8413662052137edc710ef", null ],
-    [ "_stage", "df/de2/a27192.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
+    [ "HandleHeal", "df/de2/a27192.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
+    [ "PrepareSpellScript", "df/de2/a27192.html#a61a601108cd59e5d87634c02b002e20d", null ],
+    [ "Register", "df/de2/a27192.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
 ];

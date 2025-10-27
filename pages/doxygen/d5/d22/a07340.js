@@ -1,5 +1,7 @@
 var a07340 =
 [
-    [ "CanAnnounce", "d5/d22/a07340.html#ab791cf85fc2e08330d3f777e1797c01c", null ],
-    [ "instance", "d5/d22/a07340.html#ad76f570ce82ffcde5484e612c10c6f59", null ]
+    [ "BattlegroundObjectInfo", "d5/d22/a07340.html#a848f2b15f47ceeb91c40e916d5659486", null ],
+    [ "object", "d5/d22/a07340.html#a6722b83d6969c1a34b4846f19865075a", null ],
+    [ "spellid", "d5/d22/a07340.html#ae0233a1078bc735e40855ea7608f5f11", null ],
+    [ "timer", "d5/d22/a07340.html#a7eaf1fbe40f3a7918965da8d5ac81a50", null ]
 ];

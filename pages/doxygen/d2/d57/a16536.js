@@ -1,7 +1,8 @@
 var a16536 =
 [
-    [ "npc_toc_retro_paladinAI", "d2/d57/a16536.html#afe933281cea61c9a4f3ded76290a3b72", null ],
-    [ "myCanCast", "d2/d57/a16536.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
-    [ "UpdateAI", "d2/d57/a16536.html#a105d6b9c133c1147b310826d7be416f5", null ],
-    [ "events", "d2/d57/a16536.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
+    [ "npc_announcer_toc5AI", "d2/d57/a16536.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
+    [ "DamageTaken", "d2/d57/a16536.html#a53458483699ac026ff2cd36b5f061571", null ],
+    [ "MovementInform", "d2/d57/a16536.html#acdcf4110b3815635ad173a70e7a1e603", null ],
+    [ "Reset", "d2/d57/a16536.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
+    [ "UpdateAI", "d2/d57/a16536.html#ad2c596253d67d051f497a8d77859846d", null ]
 ];

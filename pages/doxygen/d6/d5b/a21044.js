@@ -1,7 +1,6 @@
 var a21044 =
 [
-    [ "HandleProc", "d6/d5b/a21044.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "d6/d5b/a21044.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "d6/d5b/a21044.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "d6/d5b/a21044.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "boss_yoggsaron_constrictor_tentacleAI", "d8/dbc/a21048.html", "d8/dbc/a21048" ],
+    [ "boss_yoggsaron_constrictor_tentacle", "d6/d5b/a21044.html#a131809f1c691e55a33863caf6fe0c5dc", null ],
+    [ "GetAI", "d6/d5b/a21044.html#ac469d5661eb664c73bf5ab38084cb03e", null ]
 ];

@@ -1,12 +1,11 @@
 var a20796 =
 [
-    [ "npc_xt002_boombotAI", "d6/d29/a20796.html#a9be3f9270a828946e2934aea24aa5549", null ],
-    [ "DamageTaken", "d6/d29/a20796.html#ad581fd228701d851c8d3bf0f3a1f854c", null ],
-    [ "Explode", "d6/d29/a20796.html#afe8c0408887b8cd0cb533475c221035b", null ],
-    [ "JustDied", "d6/d29/a20796.html#ad6d240b16aa8f7f297b1ad0982a8827e", null ],
-    [ "MovementInform", "d6/d29/a20796.html#a2cb53c683de44347b0448d8a1611300e", null ],
-    [ "Reset", "d6/d29/a20796.html#a5d4f4a4c6c098f440064caa37438a7ed", null ],
-    [ "UpdateAI", "d6/d29/a20796.html#a2bebdd97339b3b545331a494a51246eb", null ],
-    [ "_boomed", "d6/d29/a20796.html#acd75eb57db0043fbae633a2f63924c05", null ],
-    [ "_locked", "d6/d29/a20796.html#ada468c62b133ec1a9c043eec1c52c0d1", null ]
+    [ "boss_thorim_sifAI", "d6/d29/a20796.html#af63f344d3a5650baaa9b96204abc39a9", null ],
+    [ "AttackStart", "d6/d29/a20796.html#ae9354f2e97c88cd1af86fae050e810d6", null ],
+    [ "DoAction", "d6/d29/a20796.html#a8aac66a64c5ca6491595c2b3b6cbbd95", null ],
+    [ "MoveInLineOfSight", "d6/d29/a20796.html#a3e7d07ca6fc8f4619173f3fd74d63ccb", null ],
+    [ "Reset", "d6/d29/a20796.html#ab30d73613bafac5b92021677d69b3aae", null ],
+    [ "UpdateAI", "d6/d29/a20796.html#a09ee3373177e84a5e4e51ebb48c68525", null ],
+    [ "_allowCast", "d6/d29/a20796.html#ade272764f09375d8e5fda937d42aad90", null ],
+    [ "events", "d6/d29/a20796.html#a8fd3c7073a250d054e3edc73d5867fbd", null ]
 ];

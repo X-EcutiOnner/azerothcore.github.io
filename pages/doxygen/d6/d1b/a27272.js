@@ -1,6 +1,6 @@
 var a27272 =
 [
-    [ "go_heatAI", "d2/d7a/a27276.html", "d2/d7a/a27276" ],
-    [ "go_heat", "d6/d1b/a27272.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
-    [ "GetAI", "d6/d1b/a27272.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
+    [ "achievement_arena_by_type", "d6/d1b/a27272.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "d6/d1b/a27272.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "d6/d1b/a27272.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

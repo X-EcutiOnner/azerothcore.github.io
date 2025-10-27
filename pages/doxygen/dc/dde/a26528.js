@@ -1,6 +1,6 @@
 var a26528 =
 [
-    [ "PrepareSpellScript", "dc/dde/a26528.html#a882d87de64d0e2c64b17c26d9e40d616", null ],
-    [ "Register", "dc/dde/a26528.html#ab58938808e460e843e42f2b6fa644e8a", null ],
-    [ "SetDest", "dc/dde/a26528.html#ab87932c73a2e53647bda584aeb58f789", null ]
+    [ "HandleScriptEffect", "dc/dde/a26528.html#a8b60ae77f13045a582548fe5d1186d54", null ],
+    [ "PrepareSpellScript", "dc/dde/a26528.html#ad68619783c4a1aad5a24826bf5d89858", null ],
+    [ "Register", "dc/dde/a26528.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
 ];

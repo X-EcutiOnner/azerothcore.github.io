@@ -1,6 +1,12 @@
 var a11324 =
 [
-    [ "ObjectTargetSelectHandler", "d3/d54/a11324.html#abe96c3e266375ab64f8dec54a047a5b8", null ],
-    [ "Call", "d3/d54/a11324.html#a7e18103fb5c68b2cf85f54bf7caf4b3b", null ],
-    [ "pObjectTargetSelectHandlerScript", "d3/d54/a11324.html#a6982985537c0ddb8dd79647766c9ae70", null ]
+    [ "WorldObjectSpellTargetCheck", "d3/d54/a11324.html#a370a66c484d486ac6d2d3419a019c7cd", null ],
+    [ "~WorldObjectSpellTargetCheck", "d3/d54/a11324.html#a1d519b04f171d230b21da3cc637497cf", null ],
+    [ "operator()", "d3/d54/a11324.html#a2ae263977948d2195b22a737c36bad20", null ],
+    [ "_caster", "d3/d54/a11324.html#ac090f8e47bcdfccb85fb791856355827", null ],
+    [ "_condList", "d3/d54/a11324.html#a70b9331b5871e2e4d92d642715c8192a", null ],
+    [ "_condSrcInfo", "d3/d54/a11324.html#a288c53998aa7b744f6e3eaeba68fe6d8", null ],
+    [ "_referer", "d3/d54/a11324.html#a1a24eaafdf716de984a5943e049d10f7", null ],
+    [ "_spellInfo", "d3/d54/a11324.html#a66bd07338943ee307be19f22326b29b7", null ],
+    [ "_targetSelectionType", "d3/d54/a11324.html#a0e629a6fd0da179ea0c98c93d2337603", null ]
 ];

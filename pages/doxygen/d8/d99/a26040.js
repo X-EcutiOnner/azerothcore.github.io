@@ -1,5 +1,7 @@
 var a26040 =
 [
-    [ "Trigger", "d8/d99/a26040.html#aa16aba75a066e83cb56660a0e29e7453", null ],
-    [ "Validate", "d8/d99/a26040.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
+    [ "HandleDummy", "d8/d99/a26040.html#a4e78ce5b1275860304eba414f8e66442", null ],
+    [ "PrepareSpellScript", "d8/d99/a26040.html#a155fa844714aadadd0a6c31dc86748f3", null ],
+    [ "Register", "d8/d99/a26040.html#a3ea6786e2fa76917bcb4baa42d2be1f1", null ],
+    [ "Validate", "d8/d99/a26040.html#a08838d940e413d83f4c48854260c3e1b", null ]
 ];

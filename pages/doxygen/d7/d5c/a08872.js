@@ -1,13 +1,18 @@
 var a08872 =
 [
-    [ "WorldObjectListSearcher", "d7/d5c/a08872.html#aad6ee62da3f21c7838767dd3af871ad7", null ],
-    [ "Visit", "d7/d5c/a08872.html#a154998e616ba17d66cf4899debc92ca1", null ],
-    [ "Visit", "d7/d5c/a08872.html#a64e8d7854baa93e4390703fe986f6777", null ],
-    [ "Visit", "d7/d5c/a08872.html#a28ded6ec2d69f1a1bd298a9aa11206e1", null ],
-    [ "Visit", "d7/d5c/a08872.html#a18572bc1f4cfde19476ac9df393296b2", null ],
-    [ "Visit", "d7/d5c/a08872.html#a2a8a0d1f3fd10e5254a47ed99e7e9ce7", null ],
-    [ "Visit", "d7/d5c/a08872.html#a8cebd0149bfccc4fdeb30dda9505f0c0", null ],
-    [ "i_check", "d7/d5c/a08872.html#a6ae05d2ed15201356600cda7d0d5a6c3", null ],
-    [ "i_mapTypeMask", "d7/d5c/a08872.html#a1d6dc64937ae790d7414456e4644c13b", null ],
-    [ "i_phaseMask", "d7/d5c/a08872.html#a6b29bb94ed2ec6f508b25d45c11f72fd", null ]
+    [ "GameEventData", "d7/d5c/a08872.html#ab7963b01d9e138d79f06274ea57b9590", null ],
+    [ "isValid", "d7/d5c/a08872.html#a7a91c9c9cc68593812b13f6efd2ea4ff", null ],
+    [ "Announce", "d7/d5c/a08872.html#ae055378db69064ad4338ec2ddf6c7c75", null ],
+    [ "Conditions", "d7/d5c/a08872.html#a0915a0321c4c26bfb61824587a309cde", null ],
+    [ "Description", "d7/d5c/a08872.html#a5ab9afbc209e319839fd68de0cbc2207", null ],
+    [ "End", "d7/d5c/a08872.html#a4bae1cf480ee64f190e2f09640e8a8cd", null ],
+    [ "EventId", "d7/d5c/a08872.html#a6fe6513946fc98803fb816d2aabd8dcc", null ],
+    [ "HolidayId", "d7/d5c/a08872.html#a9c9979bdece8534af216b693a2a58a80", null ],
+    [ "HolidayStage", "d7/d5c/a08872.html#a44c52795eed59abdff72cdebdccc50ca", null ],
+    [ "Length", "d7/d5c/a08872.html#a72bff4c3a62db350460993d804a461ea", null ],
+    [ "NextStart", "d7/d5c/a08872.html#aafe5f4d5b9122f26442266c651ebd77e", null ],
+    [ "Occurence", "d7/d5c/a08872.html#ab4e80a88f30560a3af0c6381e974687d", null ],
+    [ "PrerequisiteEvents", "d7/d5c/a08872.html#aa4ecb9c9ce012aad0c1cb0d90a3eb4e0", null ],
+    [ "Start", "d7/d5c/a08872.html#a3be91b7e00641ca6cb853104190845dc", null ],
+    [ "State", "d7/d5c/a08872.html#a6288a7c28aba2927c3e91f5d2f517a60", null ]
 ];

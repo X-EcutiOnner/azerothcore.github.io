@@ -1,5 +1,5 @@
 var a04818 =
 [
-    [ "Base32", "d1/dab/a05359.html", "d1/dab/a05359" ],
-    [ "Base64", "db/da4/a05367.html", "db/da4/a05367" ]
+    [ "Base32", "d7/ded/a05364.html", "d7/ded/a05364" ],
+    [ "Base64", "db/d40/a05372.html", "db/d40/a05372" ]
 ];

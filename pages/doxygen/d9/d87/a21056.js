@@ -1,6 +1,6 @@
 var a21056 =
 [
-    [ "achievement_yogg_saron_he_waits_dreaming", "d9/d87/a21056.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
-    [ "OnCheck", "d9/d87/a21056.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
-    [ "_requiredIllusion", "d9/d87/a21056.html#aa3e107cb3be6fa02687709e07466a094", null ]
+    [ "boss_yoggsaron_descend_portalAI", "d6/d2b/a21060.html", "d6/d2b/a21060" ],
+    [ "boss_yoggsaron_descend_portal", "d9/d87/a21056.html#aaf546e4e546d87818bd501b4934e8ab2", null ],
+    [ "GetAI", "d9/d87/a21056.html#aceb50c808eed17ca468a80b823af1907", null ]
 ];

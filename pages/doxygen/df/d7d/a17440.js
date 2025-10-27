@@ -1,8 +1,5 @@
 var a17440 =
 [
-    [ "OnApply", "df/d7d/a17440.html#a4741bfaaea8bc956fd1020aca13a51c2", null ],
-    [ "OnRemove", "df/d7d/a17440.html#a21aad38fe91580d3b8e0cc71dce7b1ad", null ],
-    [ "PrepareAuraScript", "df/d7d/a17440.html#a54b2ab23915e84b9c9728eb624dae47b", null ],
-    [ "Register", "df/d7d/a17440.html#a6d552ff58f7bb267cf4d20f2f5aedc7a", null ],
-    [ "Validate", "df/d7d/a17440.html#a5542dca73b5cc2ec1c724fe536e8a15f", null ]
+    [ "achievement_less_rabi", "df/d7d/a17440.html#aee43dd7623f7fecc20a0acb15f342a99", null ],
+    [ "OnCheck", "df/d7d/a17440.html#a16b200bf93fa2571c8b31359ad7ca151", null ]
 ];

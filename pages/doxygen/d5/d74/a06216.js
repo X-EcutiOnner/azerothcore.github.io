@@ -1,4 +1,6 @@
 var a06216 =
 [
-    [ "operator()", "d5/d74/a06216.html#a0df1b4334b4be5fabe6bf0061b24e8f6", null ]
+    [ "PlayerAI", "d5/d74/a06216.html#a880c670caddc1f24e42f229457039c67", null ],
+    [ "OnCharmed", "d5/d74/a06216.html#adf7ab64ed2a81c932730e39d885e4c67", null ],
+    [ "me", "d5/d74/a06216.html#a70a995521c55fb3d73d14e6be883eccc", null ]
 ];

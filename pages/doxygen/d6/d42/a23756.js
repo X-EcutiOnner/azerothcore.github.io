@@ -1,13 +1,12 @@
 var a23756 =
 [
-    [ "boss_wrath_scryer_soccothrates", "d6/d42/a23756.html#a771980c1022e7699c3eb02baccb68a93", null ],
-    [ "InitializeAI", "d6/d42/a23756.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
-    [ "JustDied", "d6/d42/a23756.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
-    [ "JustEngagedWith", "d6/d42/a23756.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
-    [ "KilledUnit", "d6/d42/a23756.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
-    [ "MoveInLineOfSight", "d6/d42/a23756.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
-    [ "Reset", "d6/d42/a23756.html#a85435a23d36f13e348112348a26e7d12", null ],
-    [ "UpdateAI", "d6/d42/a23756.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
-    [ "events2", "d6/d42/a23756.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
-    [ "preFight", "d6/d42/a23756.html#a193889ee2815b93a1c9aeee394170fc4", null ]
+    [ "boss_nazan", "d6/d42/a23756.html#a4390d3e181c4db46e364df3302612763", null ],
+    [ "AttackStart", "d6/d42/a23756.html#a7acea69f908e7a004c2a78c103528975", null ],
+    [ "DoAction", "d6/d42/a23756.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
+    [ "EnterEvadeMode", "d6/d42/a23756.html#ab6338a7d240014e548b22044b788ce8f", null ],
+    [ "JustEngagedWith", "d6/d42/a23756.html#a4d44b759530f32207a46a608fb7d6209", null ],
+    [ "MovementInform", "d6/d42/a23756.html#ad35866322ff55263b1f8b105d2cad952", null ],
+    [ "Reset", "d6/d42/a23756.html#a5c10e932075130399a9127869f45ce1d", null ],
+    [ "UpdateAI", "d6/d42/a23756.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
+    [ "_scheduler", "d6/d42/a23756.html#a8915d84ec4ffb8dade18041d5e910018", null ]
 ];

@@ -1,6 +1,6 @@
 var a25404 =
 [
-    [ "PrepareAuraScript", "d2/d79/a25404.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
-    [ "Register", "d2/d79/a25404.html#abb54f08b1932e3638537656360d3aad8", null ],
-    [ "AuraEffectHandleModes", "d2/d79/a25404.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
+    [ "HandleScript", "d2/d79/a25404.html#a1055ce8e5cbcc9d475bd9dab1f99cf92", null ],
+    [ "PrepareSpellScript", "d2/d79/a25404.html#a460823e5ad006c08d5b6378b7df279f0", null ],
+    [ "Register", "d2/d79/a25404.html#a7099938c5f14238b5afdadb6d040f931", null ]
 ];

@@ -1,6 +1,6 @@
 var a24956 =
 [
-    [ "OnPeriodic", "db/d2e/a24956.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
-    [ "PrepareAuraScript", "db/d2e/a24956.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
-    [ "Register", "db/d2e/a24956.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
+    [ "FilterTargets", "db/d2e/a24956.html#ac01bb4bac4f041318937cfc09ed603cd", null ],
+    [ "PrepareSpellScript", "db/d2e/a24956.html#a3eb1d8c26653477bed5b7ae0c69b34e9", null ],
+    [ "Register", "db/d2e/a24956.html#a658a476f5c2229715a8949aa6ba4f99c", null ]
 ];

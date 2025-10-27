@@ -1,7 +1,12 @@
 var a26888 =
 [
-    [ "HandleRemove", "d5/dfe/a26888.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
-    [ "PrepareAuraScript", "d5/dfe/a26888.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
-    [ "Register", "d5/dfe/a26888.html#a338ee9c0eddd309ce2a791160059bad6", null ],
-    [ "Validate", "d5/dfe/a26888.html#ae8272b65a070fc959af003f701567c3c", null ]
+    [ "CalcPeriodic", "d5/dfe/a26888.html#a35d58947074659d2692877dfcf13e4bd", null ],
+    [ "CalculateAPAmount", "d5/dfe/a26888.html#ac72434a046c28a4887971cf83d574a6e", null ],
+    [ "CalculateResistanceAmount", "d5/dfe/a26888.html#a82067899470366c2cbf21bba08061ce1", null ],
+    [ "CalculateSPAmount", "d5/dfe/a26888.html#a527213b389be9b1953f423ae84eb16ee", null ],
+    [ "CalculateStatAmount", "d5/dfe/a26888.html#ad7185292820feb168565648133c9e2cc", null ],
+    [ "HandleEffectApply", "d5/dfe/a26888.html#aa333430da4cf3303822d5f048cb9d5a4", null ],
+    [ "HandlePeriodic", "d5/dfe/a26888.html#ae2bca6c841d1ba02a8a39b1a2179ac97", null ],
+    [ "PrepareAuraScript", "d5/dfe/a26888.html#a671a588ae36323c11b33a45d652290de", null ],
+    [ "Register", "d5/dfe/a26888.html#a8aae94d6d6a9ec1fa7d47f88874cce4f", null ]
 ];

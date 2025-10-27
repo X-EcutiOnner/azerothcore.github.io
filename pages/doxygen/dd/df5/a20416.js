@@ -1,7 +1,6 @@
 var a20416 =
 [
-    [ "boss_kologarn_pit_kill_bunny", "dd/df5/a20416.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
-    [ "Reset", "dd/df5/a20416.html#afd7482896b66f040b8d57b9b6ac37059", null ],
-    [ "UpdateAI", "dd/df5/a20416.html#ad863666aec3db81f73165148ffc98033", null ],
-    [ "_boundaryIntersect", "dd/df5/a20416.html#abc0560637830e70d54ce1fb6b6881ca6", null ]
+    [ "npc_ulduar_hodir_mageAI", "d6/dcb/a20420.html", "d6/dcb/a20420" ],
+    [ "npc_ulduar_hodir_mage", "dd/df5/a20416.html#afebdd0f99f0c7eaaf0a2d5731335105d", null ],
+    [ "GetAI", "dd/df5/a20416.html#abcbe0337b2a83b6eb0a64f7465d7f79a", null ]
 ];

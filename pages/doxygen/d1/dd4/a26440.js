@@ -1,6 +1,8 @@
 var a26440 =
 [
-    [ "HandleDummy", "d1/dd4/a26440.html#a39c913c3e3225a9b27d17d4ceadd3c70", null ],
-    [ "PrepareSpellScript", "d1/dd4/a26440.html#a7936186af106ae3ddeec3bc9b39ff127", null ],
-    [ "Register", "d1/dd4/a26440.html#aa8ce1f0413e19d8f6d403b220fc6749c", null ]
+    [ "CheckProc", "d1/dd4/a26440.html#ac6b3ce1ff227a140b77e177198675dbf", null ],
+    [ "HandleProc", "d1/dd4/a26440.html#ae5ed8237f49454279db6348dbde653ad", null ],
+    [ "PrepareAuraScript", "d1/dd4/a26440.html#a1ee84242579d4cd81d6313f78354729b", null ],
+    [ "Register", "d1/dd4/a26440.html#a8f16147f2dfc433458ad32529f7d25d1", null ],
+    [ "Validate", "d1/dd4/a26440.html#a787639c45505da58aeb2174148ef4f83", null ]
 ];

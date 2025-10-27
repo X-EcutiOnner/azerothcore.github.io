@@ -1,9 +1,7 @@
 var a14072 =
 [
-    [ "npc_healing_ward", "da/d98/a14072.html#a3d3c35f61502d3a83cb2581119e08903", null ],
-    [ "JustEngagedWith", "da/d98/a14072.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
-    [ "Reset", "da/d98/a14072.html#a756d27a43d86c7ecde859df255c6bd62", null ],
-    [ "UpdateAI", "da/d98/a14072.html#a8b8635af33ce814602206064e0815520", null ],
-    [ "_instance", "da/d98/a14072.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
-    [ "_scheduler", "da/d98/a14072.html#a0c62fe945b491cab76175217a7d10c06", null ]
+    [ "spell", "da/d98/a14072.html#a55423d09b2f1775dc386a36168ad764d", null ],
+    [ "spiritEntry", "da/d98/a14072.html#a987f010c8577c193898fbfcc4a55c0ee", null ],
+    [ "text", "da/d98/a14072.html#ab604ad9429083f2e94f6a8d026bc46a5", null ],
+    [ "unaura", "da/d98/a14072.html#a1b71fc628793ccb9027687b31d9ebcb0", null ]
 ];

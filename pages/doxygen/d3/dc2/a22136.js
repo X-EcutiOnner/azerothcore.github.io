@@ -1,7 +1,7 @@
 var a22136 =
 [
-    [ "Absorb", "d3/dc2/a22136.html#a784b48553696734abac77545df2fc045", null ],
-    [ "CalculateAmount", "d3/dc2/a22136.html#a456ee99a71062f6217bda7561e4e7766", null ],
-    [ "PrepareAuraScript", "d3/dc2/a22136.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
-    [ "Register", "d3/dc2/a22136.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
+    [ "npc_tallhorn_stagAI", "d3/dc2/a22136.html#a50947c450eece979193b45728e5e1f82", null ],
+    [ "Reset", "d3/dc2/a22136.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
+    [ "UpdateAI", "d3/dc2/a22136.html#adf60f62fa92238cb315c42e0179c3f17", null ],
+    [ "_phase", "d3/dc2/a22136.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
 ];

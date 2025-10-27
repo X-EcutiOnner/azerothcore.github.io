@@ -1,9 +1,7 @@
 var a22428 =
 [
-    [ "HandleFinish", "dc/d62/a22428.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
-    [ "Load", "dc/d62/a22428.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
-    [ "PrepareSpellScript", "dc/d62/a22428.html#a8326b3f9f78aab65225e81d274cc37df", null ],
-    [ "Register", "dc/d62/a22428.html#a749858f56e15a0bb6074d15ba166625d", null ],
-    [ "Validate", "dc/d62/a22428.html#a64005c52e7112c466f6206b7f6c847c0", null ],
-    [ "handled", "dc/d62/a22428.html#a7afe3007a016cb553f437544f8fd6f89", null ]
+    [ "HandleSendEvent", "dc/d62/a22428.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
+    [ "PrepareSpellScript", "dc/d62/a22428.html#af698a946e07235c18c8b785a1f775ec9", null ],
+    [ "Register", "dc/d62/a22428.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
+    [ "Validate", "dc/d62/a22428.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
 ];

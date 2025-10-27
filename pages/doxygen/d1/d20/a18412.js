@@ -1,11 +1,8 @@
 var a18412 =
 [
-    [ "npc_terenas_menethilAI", "d1/d20/a18412.html#aa2e95b96928b033ef374843ad1fb9f3c", null ],
-    [ "CanAIAttack", "d1/d20/a18412.html#a1414da7f20e0f93486eb77c9b9450fa9", null ],
-    [ "DamageTaken", "d1/d20/a18412.html#ae62a6f965ffb11d633190f1ca4122bc9", null ],
-    [ "DoAction", "d1/d20/a18412.html#a4f261b19a7a8676dfd6d76d428a4f1b1", null ],
-    [ "EnterEvadeMode", "d1/d20/a18412.html#ada5313b34e8c20c82ac97396e54e27df", null ],
-    [ "UpdateAI", "d1/d20/a18412.html#a6210ca6e5e954d5c66d2108359efc888", null ],
-    [ "_events", "d1/d20/a18412.html#ae61e4919b99a2b9195a389992947a125", null ],
-    [ "_instance", "d1/d20/a18412.html#a60aae54e5e54526ba12a9468a3f45c88", null ]
+    [ "NecroticPlagueTargetCheck", "d1/d20/a18412.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
+    [ "operator()", "d1/d20/a18412.html#a801a176e367a9f4446fe080845477654", null ],
+    [ "_notAura1", "d1/d20/a18412.html#a4f52417f233e1ab06210726670f719f3", null ],
+    [ "_notAura2", "d1/d20/a18412.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
+    [ "_sourceObj", "d1/d20/a18412.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
 ];

@@ -1,6 +1,7 @@
 var a15736 =
 [
-    [ "HandleDummy", "d3/d0f/a15736.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "d3/d0f/a15736.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "d3/d0f/a15736.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "npc_shenthulAI", "da/d6b/a15740.html", "da/d6b/a15740" ],
+    [ "npc_shenthul", "d3/d0f/a15736.html#a77815503c7d9c811fe3821232e308714", null ],
+    [ "GetAI", "d3/d0f/a15736.html#a1683f8c89add6270277c59951c74027e", null ],
+    [ "OnQuestAccept", "d3/d0f/a15736.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
 ];

@@ -1,12 +1,12 @@
 var a05396 =
 [
-    [ "Node", "dd/dc9/a05400.html", "dd/dc9/a05400" ],
-    [ "MPSCQueueNonIntrusive", "db/d21/a05396.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
-    [ "~MPSCQueueNonIntrusive", "db/d21/a05396.html#a599e2093215f70dc4f2f7db08965d816", null ],
-    [ "MPSCQueueNonIntrusive", "db/d21/a05396.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
-    [ "Dequeue", "db/d21/a05396.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
-    [ "Enqueue", "db/d21/a05396.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
-    [ "operator=", "db/d21/a05396.html#a75063e89049903fb5305d67ea1a02034", null ],
-    [ "_head", "db/d21/a05396.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
-    [ "_tail", "db/d21/a05396.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
+    [ "AppenderConsole", "db/d21/a05396.html#aaf770a87f2151a7e6f92087751528c68", null ],
+    [ "_write", "db/d21/a05396.html#a94e529229bd707fa2bad0a0206a386d5", null ],
+    [ "getType", "db/d21/a05396.html#a4ae7f47c76b19eb269b26fdf13f14e48", null ],
+    [ "InitColors", "db/d21/a05396.html#a1a4deceeafc9a111a519ea55dc646266", null ],
+    [ "ResetColor", "db/d21/a05396.html#a4a3e55c9229947a25d4191bbfa348bf5", null ],
+    [ "SetColor", "db/d21/a05396.html#a9303f9408e1cbfc086fba15bf9a4ce59", null ],
+    [ "_colored", "db/d21/a05396.html#a172563f34a7277f7afb05354c8fbeb1f", null ],
+    [ "_colors", "db/d21/a05396.html#acdf277241cd25715e48500a15ab6bd30", null ],
+    [ "type", "db/d21/a05396.html#ab5cbc074f7d9306838974863913c8a5b", null ]
 ];

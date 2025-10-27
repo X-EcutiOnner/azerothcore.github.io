@@ -1,12 +1,8 @@
 var a21408 =
 [
-    [ "boss_moraggAI", "d4/d70/a21408.html#a3ae881c9adca20a2cb894af85297d53e", null ],
-    [ "EnterEvadeMode", "d4/d70/a21408.html#a4e70e42407f452c4685c732949fd2b52", null ],
-    [ "JustDied", "d4/d70/a21408.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
-    [ "JustEngagedWith", "d4/d70/a21408.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
-    [ "MoveInLineOfSight", "d4/d70/a21408.html#a52a99d72dfa017baacb76717e6db931b", null ],
-    [ "Reset", "d4/d70/a21408.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
-    [ "UpdateAI", "d4/d70/a21408.html#aec7645eaae190d1e7982aae181ff9224", null ],
-    [ "events", "d4/d70/a21408.html#acd021e4216e3920f0534da95d69ba5eb", null ],
-    [ "pInstance", "d4/d70/a21408.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
+    [ "CheckProc", "d4/d70/a21408.html#ac955cc78dd3206816906dd06b3e006f6", null ],
+    [ "HandleProc", "d4/d70/a21408.html#a966d23cc5714fe35d80b2964dddda536", null ],
+    [ "PrepareAuraScript", "d4/d70/a21408.html#a5c8464dcf2f8b62a624f38dec2f4a0a5", null ],
+    [ "Register", "d4/d70/a21408.html#a3e7479f97e4105f2c12536d9c66284aa", null ],
+    [ "Validate", "d4/d70/a21408.html#a5d8e764dafd26548af8588593bf27990", null ]
 ];

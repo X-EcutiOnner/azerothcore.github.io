@@ -1,5 +1,6 @@
 var a20564 =
 [
-    [ "achievement_mimiron_firefighter", "df/d1c/a20564.html#ae26c3b2572bc9e3e75fb25537fe46a6c", null ],
-    [ "OnCheck", "df/d1c/a20564.html#a1ebd287ef20c6d367f30b1c30ba68728", null ]
+    [ "OnRemoveStun", "df/d1c/a20564.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
+    [ "PrepareAuraScript", "df/d1c/a20564.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
+    [ "Register", "df/d1c/a20564.html#a3166cfcd2acdcd4460217503d4008367", null ]
 ];

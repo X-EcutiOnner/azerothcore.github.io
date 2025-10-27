@@ -1,7 +1,9 @@
 var a18492 =
 [
-    [ "AuraRemoveEvent", "d6/d50/a18492.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "d6/d50/a18492.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "d6/d50/a18492.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "d6/d50/a18492.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "npc_icc_ice_sphereAI", "d6/d50/a18492.html#a685f45e5cd15b005646e596ff61088e8", null ],
+    [ "DoAction", "d6/d50/a18492.html#ac056ecdd93bc716964054f38ab81014e", null ],
+    [ "SelectNewTarget", "d6/d50/a18492.html#a9274e05e45c07d14c7df5c623e2769d4", null ],
+    [ "UpdateAI", "d6/d50/a18492.html#a5a4117de9e45cea9e9086b3b4daed404", null ],
+    [ "targetGUID", "d6/d50/a18492.html#a3e202f9bde2a202d329066f7aab8897c", null ],
+    [ "timer", "d6/d50/a18492.html#a42842e92926e18ef2589687d81a7d0d4", null ]
 ];

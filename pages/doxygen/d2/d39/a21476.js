@@ -1,6 +1,6 @@
 var a21476 =
 [
-    [ "npc_azure_binderAI", "de/d00/a21480.html", "de/d00/a21480" ],
-    [ "npc_azure_binder", "d2/d39/a21476.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
-    [ "GetAI", "d2/d39/a21476.html#aad091206a8bd06a1064b68b81510eb56", null ]
+    [ "npc_frozen_orb_stalkerAI", "de/d00/a21480.html", "de/d00/a21480" ],
+    [ "npc_frozen_orb_stalker", "d2/d39/a21476.html#a7f025c829106aa6668427f913d07a722", null ],
+    [ "GetAI", "d2/d39/a21476.html#af33e27138a70286bac561113ed09f350", null ]
 ];

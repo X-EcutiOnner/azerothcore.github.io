@@ -1,6 +1,8 @@
 var a25692 =
 [
-    [ "CheckProc", "d7/d25/a25692.html#acac962ba1cb72615772fe8bc81d24f9d", null ],
-    [ "PrepareAuraScript", "d7/d25/a25692.html#aebe1c8083ba09c21125c47843b2949da", null ],
-    [ "Register", "d7/d25/a25692.html#adde6dada6b3012c2650ba9173c6616a0", null ]
+    [ "HandleFinish", "d7/d25/a25692.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
+    [ "PrepareSpellScript", "d7/d25/a25692.html#a73865997890d4f58cc09d54c2c4e5243", null ],
+    [ "Register", "d7/d25/a25692.html#a106cf5d53956b66f8f548caceda41dc8", null ],
+    [ "SelectTarget", "d7/d25/a25692.html#ab33513df20e942ba354932df5082efa8", null ],
+    [ "_target", "d7/d25/a25692.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
 ];

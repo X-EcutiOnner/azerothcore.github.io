@@ -1,8 +1,6 @@
 var a20500 =
 [
-    [ "npc_ulduar_mimiron_rocketAI", "dd/dd9/a20500.html#ad758070aaeadc4d7b2b7ff4108b76c89", null ],
-    [ "InitializeAI", "dd/dd9/a20500.html#aba3bf48434dca79f56f4b9aac707d48c", null ],
-    [ "Reset", "dd/dd9/a20500.html#a60fbcbae9205bfd1c63b5bef7924b3ee", null ],
-    [ "SetData", "dd/dd9/a20500.html#a8e547ba872c9bc2ec95ae2f60b011fce", null ],
-    [ "UpdateAI", "dd/dd9/a20500.html#a28106e303d5e7c1bce9ceaa571129dca", null ]
+    [ "boss_ignisAI", "df/dcd/a20504.html", "df/dcd/a20504" ],
+    [ "boss_ignis", "dd/dd9/a20500.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
+    [ "GetAI", "dd/dd9/a20500.html#ac11ff148e9cbc985875f859268a3de01", null ]
 ];

@@ -1,6 +1,9 @@
 var a17732 =
 [
-    [ "BurningPitchFilterCheck", "d8/d93/a17732.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
-    [ "operator()", "d8/d93/a17732.html#a24be987c8471d8a7096025debf6e60b1", null ],
-    [ "_entry", "d8/d93/a17732.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
+    [ "npc_stinky_iccAI", "d8/d93/a17732.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
+    [ "JustDied", "d8/d93/a17732.html#a7fa392980e2d30c935b79377df8dc694", null ],
+    [ "JustEngagedWith", "d8/d93/a17732.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
+    [ "Reset", "d8/d93/a17732.html#ac66e3398598576fdc889a7b56646eecf", null ],
+    [ "UpdateAI", "d8/d93/a17732.html#af6e04824ea1682c529e8579a306d34ca", null ],
+    [ "events", "d8/d93/a17732.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
 ];

@@ -1,6 +1,6 @@
 var a19860 =
 [
-    [ "achievement_assembly_of_iron", "d2/d19/a19860.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
-    [ "OnCheck", "d2/d19/a19860.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
-    [ "_targetEntry", "d2/d19/a19860.html#a20e8938ff30b18737fb96cf0277b5680", null ]
+    [ "boss_algalon_the_observerAI", "db/d62/a19864.html", "db/d62/a19864" ],
+    [ "boss_algalon_the_observer", "d2/d19/a19860.html#a0691b47a116401da58b246203ecba2cb", null ],
+    [ "GetAI", "d2/d19/a19860.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
 ];

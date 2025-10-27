@@ -1,6 +1,7 @@
 var a26680 =
 [
-    [ "HandlePeriodic", "d8/de4/a26680.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
-    [ "PrepareAuraScript", "d8/de4/a26680.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
-    [ "Register", "d8/de4/a26680.html#ac90afe9f5d9d55faba2282a875469311", null ]
+    [ "HandleScript", "d8/de4/a26680.html#aa00117e677af1e236962c59b688d8a98", null ],
+    [ "Load", "d8/de4/a26680.html#ad05b65848e35d87fb9ef1ae413de6256", null ],
+    [ "PrepareSpellScript", "d8/de4/a26680.html#afbffeadede1cc7f08a0a52f4a7bee680", null ],
+    [ "Register", "d8/de4/a26680.html#a52d4828ccd5430a622a32b1279943f9b", null ]
 ];

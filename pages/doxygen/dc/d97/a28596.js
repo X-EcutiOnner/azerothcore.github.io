@@ -1,9 +1,18 @@
 var a28596 =
 [
-    [ "flags", "dc/d97/a28596.html#a064de2e88c563121bbb78549a7bab868", null ],
-    [ "_flags", "dc/d97/a28596.html#a16f1b30a57eb6703e8073ef55d988391", null ],
-    [ "bits", "dc/d97/a28596.html#a529f1856635132646457c57f3546f4ec", null ],
-    [ "configKey", "dc/d97/a28596.html#af14d118016b9e01612769c00f13aa2d6", null ],
-    [ "oldKey", "dc/d97/a28596.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
-    [ "owner", "dc/d97/a28596.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
+    [ "getArmorMod", "dc/d97/a28596.html#a0e56e757faf660cabe0ba4316ee17f12", null ],
+    [ "getDPSMod", "dc/d97/a28596.html#aa0718862ebfeea92ad299e04c9c622c8", null ],
+    [ "getFeralBonus", "dc/d97/a28596.html#aa54c3d1add4a1b982c05138f876fd138", null ],
+    [ "getSpellBonus", "dc/d97/a28596.html#aba240e0c9f81ca7d5f17d3631410a7b3", null ],
+    [ "getssdMultiplier", "dc/d97/a28596.html#ab0fbc14e59c3a387b21d3f4a825d3b36", null ],
+    [ "IsTwoHand", "dc/d97/a28596.html#ac83356dba956bfb0aa0a0fb0d976b60e", null ],
+    [ "armorMod", "dc/d97/a28596.html#a742f8447dca5961fb39e50de8233fa86", null ],
+    [ "armorMod2", "dc/d97/a28596.html#a36dba32ea7febb8dab627fa992de878b", null ],
+    [ "dpsMod", "dc/d97/a28596.html#ace956cab0056bcf0e116ac0884ad3575", null ],
+    [ "Id", "dc/d97/a28596.html#aebc75b8f80cb210b6af081077bd88e85", null ],
+    [ "Level", "dc/d97/a28596.html#a5758f5152401efde26edf3110c0d11e2", null ],
+    [ "spellPower", "dc/d97/a28596.html#a03804cca02fd1146dffb762bcd1274f8", null ],
+    [ "ssdMultiplier", "dc/d97/a28596.html#a7559b9045268d8050372153c8c976946", null ],
+    [ "ssdMultiplier2", "dc/d97/a28596.html#a57cdfb5465ced673edeb8c35bd7a3535", null ],
+    [ "ssdMultiplier3", "dc/d97/a28596.html#ae78f00d5ed42704a4093b5df939498d7", null ]
 ];

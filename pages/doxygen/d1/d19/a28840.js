@@ -1,8 +1,6 @@
 var a28840 =
 [
-    [ "Color", "d1/d19/a28840.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
-    [ "NameIndex", "d1/d19/a28840.html#add893e045d13a3633fd7346457a10477", null ],
-    [ "Position", "d1/d19/a28840.html#afae9056582e71160c151de2c172bc60a", null ],
-    [ "Rotation", "d1/d19/a28840.html#a48d372bc1371fa5f94db9aa39669942a", null ],
-    [ "Scale", "d1/d19/a28840.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
+    [ "ForceInitValues", "d1/d19/a28840.html#a51bcb2ec0bf6b92a0ed7a29abd675bf5", null ],
+    [ "Player", "d1/d19/a28840.html#ad56f27531abb9267f144b2b22d61a5bf", null ],
+    [ "UpdateObjectVisibility", "d1/d19/a28840.html#a2b00c7bea40d5cbd4343d859555060a3", null ]
 ];

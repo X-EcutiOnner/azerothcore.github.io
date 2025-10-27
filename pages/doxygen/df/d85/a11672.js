@@ -1,14 +1,7 @@
 var a11672 =
 [
-    [ "deserter_commandscript", "df/d85/a11672.html#aebaaf99b9c5959f3f3418e13e252fb95", null ],
-    [ "GetCommands", "df/d85/a11672.html#ab5b48b9dde89c9215c51560f26324649", null ],
-    [ "HandleDeserterAdd", "df/d85/a11672.html#abe8c428ec09d341bb9f49882b7c071e2", null ],
-    [ "HandleDeserterBGAdd", "df/d85/a11672.html#a11fba09d369e7244244887947a91369e", null ],
-    [ "HandleDeserterBGRemove", "df/d85/a11672.html#a9bf4e146ef0f4f0cb2508c4953f8a647", null ],
-    [ "HandleDeserterBGRemoveAll", "df/d85/a11672.html#a419d404315e91b6cac1bfd3ac225a8fd", null ],
-    [ "HandleDeserterInstanceAdd", "df/d85/a11672.html#aabd2b23e2dc61fac10890077b41d8179", null ],
-    [ "HandleDeserterInstanceRemove", "df/d85/a11672.html#a3197e5228284ba50da7f3a31b3e76060", null ],
-    [ "HandleDeserterInstanceRemoveAll", "df/d85/a11672.html#adc6ad2f406fcb58ba64d2b6fd47281e2", null ],
-    [ "HandleDeserterRemove", "df/d85/a11672.html#a210dc9a7eddede6fe976157d6b22b683", null ],
-    [ "HandleDeserterRemoveAll", "df/d85/a11672.html#a6274f79b9884586069f94137b44d89e9", null ]
+    [ "CompressedData", "df/d85/a11672.html#a22e1d740e6c3094fea83eb1a44e40944", null ],
+    [ "CompressedSize", "df/d85/a11672.html#ab57879b41c825623a989db13a53f2f4e", null ],
+    [ "Id", "df/d85/a11672.html#af1e6a5cc01ee05432be5c41c88d84794", null ],
+    [ "Key", "df/d85/a11672.html#ad100540b5c6722a19c938b134a985aed", null ]
 ];

@@ -1,5 +1,7 @@
 var a12984 =
 [
-    [ "go_inconspicuous_mine_car", "df/dba/a12984.html#a34e941a813079b55f66bea15cffe8f42", null ],
-    [ "OnGossipHello", "df/dba/a12984.html#a256a8f766dd045613c0c7159db9f74e0", null ]
+    [ "PeriodicTick", "df/dba/a12984.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
+    [ "PrepareAuraScript", "df/dba/a12984.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
+    [ "Register", "df/dba/a12984.html#a2681d44b149e9f1d797df4147e20e686", null ],
+    [ "Validate", "df/dba/a12984.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
 ];

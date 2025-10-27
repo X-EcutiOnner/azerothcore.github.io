@@ -1,6 +1,8 @@
 var a16328 =
 [
-    [ "npc_toc5_player_vehicleAI", "d9/d4c/a16332.html", "d9/d4c/a16332" ],
-    [ "npc_toc5_player_vehicle", "db/dd9/a16328.html#a8786627999d3d1681d9de58cd8c46744", null ],
-    [ "GetAI", "db/dd9/a16328.html#af89c559eff828130df821c0c30c61f7a", null ]
+    [ "OnApply", "db/dd9/a16328.html#a96321003a002be0e4838901f03f8a5d8", null ],
+    [ "OnRemove", "db/dd9/a16328.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
+    [ "PrepareAuraScript", "db/dd9/a16328.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
+    [ "Register", "db/dd9/a16328.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
+    [ "Validate", "db/dd9/a16328.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
 ];

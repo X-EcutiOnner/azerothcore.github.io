@@ -1,10 +1,8 @@
 var a19404 =
 [
-    [ "instance_nexus_InstanceMapScript", "da/d89/a19404.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
-    [ "Initialize", "da/d89/a19404.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
-    [ "OnCreatureCreate", "da/d89/a19404.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
-    [ "OnGameObjectCreate", "da/d89/a19404.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
-    [ "OnGameObjectRemove", "da/d89/a19404.html#ac148c67823484eee38ab6646dfb68530", null ],
-    [ "SetBossState", "da/d89/a19404.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
-    [ "SetData", "da/d89/a19404.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ]
+    [ "npc_teslaAI", "da/d89/a19404.html#a7281220648af1357b1377d6f7874d663", null ],
+    [ "DamageTaken", "da/d89/a19404.html#aa3ab570e86261bc3178e17109d76af12", null ],
+    [ "EnterEvadeMode", "da/d89/a19404.html#acc8115216989b34593a9435eeb051eda", null ],
+    [ "JustEngagedWith", "da/d89/a19404.html#add93f68bc96b3c93dc0a3271543711e6", null ],
+    [ "UpdateAI", "da/d89/a19404.html#a962745569b07e368067ee483d2379840", null ]
 ];

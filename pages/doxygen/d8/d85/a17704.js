@@ -1,6 +1,6 @@
 var a17704 =
 [
-    [ "PrepareSpellScript", "d8/d85/a17704.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
-    [ "Register", "d8/d85/a17704.html#a651f52f7d242251ff69d100fd69376e4", null ],
-    [ "SelectTarget", "d8/d85/a17704.html#aede083ebebe38deb5898ff028564ef95", null ]
+    [ "boss_festergutAI", "d7/d81/a17708.html", "d7/d81/a17708" ],
+    [ "boss_festergut", "d8/d85/a17704.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
+    [ "GetAI", "d8/d85/a17704.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
 ];

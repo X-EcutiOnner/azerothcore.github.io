@@ -1,6 +1,5 @@
 var a25580 =
 [
-    [ "HandleHeal", "db/d27/a25580.html#a3d315ab6d76d45f3d0f5de4a312377ff", null ],
-    [ "PrepareSpellScript", "db/d27/a25580.html#ad77d816c82714fe2cafb4dbf48691937", null ],
-    [ "Register", "db/d27/a25580.html#a313abe6367e5494bd81a557ab42f9f50", null ]
+    [ "PrepareSpellScript", "db/d27/a25580.html#a939db3d626f3451edd605ced6d9b2ebe", null ],
+    [ "Register", "db/d27/a25580.html#a5b356ca08e33c8eb127bec763f105792", null ]
 ];

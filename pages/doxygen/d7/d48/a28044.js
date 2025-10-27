@@ -1,8 +1,5 @@
 var a28044 =
 [
-    [ "DamagedDisplayId", "d7/d48/a28044.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
-    [ "DestroyedDisplayId", "d7/d48/a28044.html#afc891df0c9491a34f784e8f141434be5", null ],
-    [ "Id", "d7/d48/a28044.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
-    [ "RebuildingDisplayId", "d7/d48/a28044.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
-    [ "SmokeDisplayId", "d7/d48/a28044.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
+    [ "ID", "d7/d48/a28044.html#a4a79da5825cf01d38d6ab9d98e033964", null ],
+    [ "parentCategory", "d7/d48/a28044.html#a705e301dff461a8d7aefdc6fb29d39cc", null ]
 ];

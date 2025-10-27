@@ -1,7 +1,6 @@
 var a22020 =
 [
-    [ "HandleAfterEffectApply", "d1/dd9/a22020.html#ab54795dc49ca453db40494a694158a98", null ],
-    [ "PrepareAuraScript", "d1/dd9/a22020.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
-    [ "Register", "d1/dd9/a22020.html#addd4fac4cc8a93d800abacb144e3303c", null ],
-    [ "Validate", "d1/dd9/a22020.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
+    [ "npc_q24545_wretched_ghoulAI", "da/dab/a22024.html", "da/dab/a22024" ],
+    [ "npc_q24545_wretched_ghoul", "d1/dd9/a22020.html#a3842b5bd89c911d29d561307113fb032", null ],
+    [ "GetAI", "d1/dd9/a22020.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
 ];

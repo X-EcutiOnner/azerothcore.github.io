@@ -1,14 +1,9 @@
 var a17892 =
 [
-    [ "npc_putricide_oozeAI", "dd/d30/a17892.html#a5b3200110d6cd8ac1311220ab2ee3385", null ],
-    [ "CastMainSpell", "dd/d30/a17892.html#a62c9027b6d8a7812fcf5c0023621ef70", null ],
-    [ "IsSummonedBy", "dd/d30/a17892.html#a8e96a50b9a35f6220bf6c824c1acce58", null ],
-    [ "SelectNewTarget", "dd/d30/a17892.html#a0a4167a73249967fcf268683f936647d", null ],
-    [ "SetGUID", "dd/d30/a17892.html#a4820e07300bfd50980e42faac3327fec", null ],
-    [ "SpellHit", "dd/d30/a17892.html#ab9d288f8eded19720a0aee3bd91920d2", null ],
-    [ "SpellHitTarget", "dd/d30/a17892.html#a501e0f46abdb1bcc0d99ab9792f738fe", null ],
-    [ "UpdateAI", "dd/d30/a17892.html#a508fe1a9974f2ffa36c72575c2d4b252", null ],
-    [ "_hitTargetSpellId", "dd/d30/a17892.html#a728b62580e7a84e9947a45b460ab140c", null ],
-    [ "_newTargetSelectTimer", "dd/d30/a17892.html#a9615a0e6c73c155330c1791c2a205553", null ],
-    [ "targetGUID", "dd/d30/a17892.html#ae01b7ffe31548aa15d913cc28fa32422", null ]
+    [ "CalculatePower", "dd/d30/a17892.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
+    [ "Load", "dd/d30/a17892.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
+    [ "PrepareSpellScript", "dd/d30/a17892.html#a49489a8e4e39735efa560f53236dfc2c", null ],
+    [ "PreventPowerGainOnHit", "dd/d30/a17892.html#a5eebe6f82a6d7306d6e232b755531939", null ],
+    [ "Register", "dd/d30/a17892.html#a67b59c096848adaad5566cbc2140da59", null ],
+    [ "Validate", "dd/d30/a17892.html#a355500a6f3bfed084030738041d0e3b9", null ]
 ];

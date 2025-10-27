@@ -1,6 +1,8 @@
 var a13656 =
 [
-    [ "npc_greengill_slaveAI", "d9/d54/a13660.html", "d9/d54/a13660" ],
-    [ "npc_greengill_slave", "d3/ddf/a13656.html#a46fb36fadb5ed5fc94a563473edd8732", null ],
-    [ "GetAI", "d3/ddf/a13656.html#ab2cb9adfeef75384becfbb3c5188b8d7", null ]
+    [ "HandleApply", "d3/ddf/a13656.html#a9dce02909356193476e66586aee87f1d", null ],
+    [ "OnPeriodic", "d3/ddf/a13656.html#add4f000f81d5d4112719c6dd7464163c", null ],
+    [ "PrepareAuraScript", "d3/ddf/a13656.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
+    [ "Register", "d3/ddf/a13656.html#abc349f12f375b1f284eb78a363e8172a", null ],
+    [ "Validate", "d3/ddf/a13656.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
 ];

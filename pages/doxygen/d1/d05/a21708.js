@@ -1,7 +1,6 @@
 var a21708 =
 [
-    [ "npc_warmage_violetstand", "d1/d05/a21708.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "d1/d05/a21708.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "d1/d05/a21708.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "d1/d05/a21708.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_nerubar_victimAI", "d0/dae/a21712.html", "d0/dae/a21712" ],
+    [ "npc_nerubar_victim", "d1/d05/a21708.html#a4fe80597d3e56776f0f04965fc706097", null ],
+    [ "GetAI", "d1/d05/a21708.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
 ];

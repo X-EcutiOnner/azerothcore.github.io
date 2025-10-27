@@ -1,6 +1,6 @@
 var a12684 =
 [
-    [ "FilterTargets", "d5/dc8/a12684.html#adae7a812a222a60f9c89cac4ea327011", null ],
-    [ "PrepareSpellScript", "d5/dc8/a12684.html#a9576a48a3aa761c103f72586cd93970c", null ],
-    [ "Register", "d5/dc8/a12684.html#aaadad68c322eac268ea7a45f9c369c59", null ]
+    [ "boss_shazzrahAI", "d5/dc8/a12684.html#a984b3d32d5f231a019f2c0f1bb027907", null ],
+    [ "ExecuteEvent", "d5/dc8/a12684.html#a0f6e3e6876b9b769ea53db5c9028c6ff", null ],
+    [ "JustEngagedWith", "d5/dc8/a12684.html#aaa8111d42cacd58f767513026976668c", null ]
 ];

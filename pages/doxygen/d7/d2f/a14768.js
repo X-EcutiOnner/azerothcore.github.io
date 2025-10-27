@@ -1,6 +1,6 @@
 var a14768 =
 [
-    [ "boss_mal_ganisAI", "d9/d0d/a14772.html", "d9/d0d/a14772" ],
-    [ "boss_mal_ganis", "d7/d2f/a14768.html#a604becb65e766f4fb71d2ae168d1be4e", null ],
-    [ "GetAI", "d7/d2f/a14768.html#aa747abd11310c3535ea2ea37e4aac28b", null ]
+    [ "OnAuraRemove", "d7/d2f/a14768.html#ad16e8b64999771154360afad71454c07", null ],
+    [ "PrepareAuraScript", "d7/d2f/a14768.html#a70963be80861e10ecd093e40b77e7078", null ],
+    [ "Register", "d7/d2f/a14768.html#a7381cbea873fb57485e4539aa478d236", null ]
 ];

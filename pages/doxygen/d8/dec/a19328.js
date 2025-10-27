@@ -1,6 +1,7 @@
 var a19328 =
 [
-    [ "npc_eoe_wyrmrest_skytalonAI", "d8/dec/a19328.html#a0878695bc4179e3b6e92dde9f2b5cf19", null ],
-    [ "JustDied", "d8/dec/a19328.html#aaa88ff236fd49a9c672ab29feb7377b8", null ],
-    [ "PassengerBoarded", "d8/dec/a19328.html#aa3352276e87d805cc8722eb97d10ca46", null ]
+    [ "OnPeriodic", "d8/dec/a19328.html#ae685e9d36b85af8a7e33cefbd439a2f4", null ],
+    [ "PrepareAuraScript", "d8/dec/a19328.html#a1362103840db4b3c40ef7d6b0aa5226c", null ],
+    [ "Register", "d8/dec/a19328.html#a39b03ebd7f6233f373f52e34f18dad10", null ],
+    [ "Validate", "d8/dec/a19328.html#a54cfed486827216817adb740efa6646e", null ]
 ];

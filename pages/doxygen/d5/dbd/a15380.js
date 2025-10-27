@@ -1,5 +1,8 @@
 var a15380 =
 [
-    [ "go_ravager_cage", "d5/dbd/a15380.html#a632c767a4ab0075ee40d40e977fe7c18", null ],
-    [ "OnGossipHello", "d5/dbd/a15380.html#a83c9086cefea0d6d11a5de7a781d84db", null ]
+    [ "npc_ouro_spawner", "d5/dbd/a15380.html#acb18739e5a1734312ffdda35321e5f34", null ],
+    [ "JustSummoned", "d5/dbd/a15380.html#a722dada5bf97c730462a0de2b082d5ff", null ],
+    [ "MoveInLineOfSight", "d5/dbd/a15380.html#a83c0972db4435ccf1af069574e4056f4", null ],
+    [ "Reset", "d5/dbd/a15380.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
+    [ "hasSummoned", "d5/dbd/a15380.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
 ];

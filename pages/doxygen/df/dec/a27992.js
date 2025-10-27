@@ -1,7 +1,5 @@
 var a27992 =
 [
-    [ "bit_index", "df/dec/a27992.html#a1e5cb3fc001169a204507a084435a211", null ],
-    [ "ID", "df/dec/a27992.html#a63fe7a87e019780d20e86e48efb02eac", null ],
-    [ "nameFemale", "df/dec/a27992.html#ad0380caf2526715faaddc9330062d90a", null ],
-    [ "nameMale", "df/dec/a27992.html#a74a767731c96d3d815ddde5a06f68599", null ]
+    [ "ServerMailReward", "df/dec/a27992.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
+    [ "OnPlayerLogin", "df/dec/a27992.html#ada945e805278d54746b6fabaf48b4546", null ]
 ];

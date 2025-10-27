@@ -1,8 +1,9 @@
 var a24444 =
 [
-    [ "npc_pet_gen_wind_rider_cub", "d2/dcd/a24444.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
-    [ "UpdateAI", "d2/dcd/a24444.html#a534d122522d553e106e6c7729d6c55db", null ],
-    [ "checkTimer", "d2/dcd/a24444.html#a39fcfc5f5d9a630180713512db778b32", null ],
-    [ "checkTimer2", "d2/dcd/a24444.html#aabeaf7a9b5b77df540e1111950860e98", null ],
-    [ "isFlying", "d2/dcd/a24444.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
+    [ "npc_enraged_spiritAI", "d2/dcd/a24444.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
+    [ "JustDied", "d2/dcd/a24444.html#a9322622f679dbc311bd8983f5037bd2e", null ],
+    [ "JustEngagedWith", "d2/dcd/a24444.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
+    [ "Reset", "d2/dcd/a24444.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
+    [ "UpdateAI", "d2/dcd/a24444.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
+    [ "_scheduler", "d2/dcd/a24444.html#afa6825696b0622849f877b392df4b326", null ]
 ];

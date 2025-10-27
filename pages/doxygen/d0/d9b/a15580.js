@@ -1,10 +1,7 @@
 var a15580 =
 [
-    [ "npc_thrall_warchiefAI", "d0/d9b/a15580.html#ada9c79c1591a8bd28c66329dc7c5d3dc", null ],
-    [ "DoAction", "d0/d9b/a15580.html#a511da19703e30f6e82e59c5223bf2770", null ],
-    [ "JustEngagedWith", "d0/d9b/a15580.html#a994a9030e2d8c5afaa66c21897e54f82", null ],
-    [ "Reset", "d0/d9b/a15580.html#a920a29258228c9c2e7e0791d38b648e1", null ],
-    [ "UpdateAI", "d0/d9b/a15580.html#a537ed9f2d0a638d01e877d9ca1e7fdf0", null ],
-    [ "ChainLightningTimer", "d0/d9b/a15580.html#ab30df9277fc84f098e0bdd70a2ab3795", null ],
-    [ "ShockTimer", "d0/d9b/a15580.html#aa8609f8824f68ce7259465284c01dd35", null ]
+    [ "npc_webbed_creatureAI", "d0/d9b/a15580.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
+    [ "JustDied", "d0/d9b/a15580.html#a153d461124ec9266ffcac147a217f6d9", null ],
+    [ "JustEngagedWith", "d0/d9b/a15580.html#ac52ad6512bcaee35932f856abdac80d4", null ],
+    [ "Reset", "d0/d9b/a15580.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
 ];

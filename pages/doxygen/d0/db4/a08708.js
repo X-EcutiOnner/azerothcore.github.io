@@ -1,8 +1,14 @@
 var a08708 =
 [
-    [ "DiminishingReturn", "d0/db4/a08708.html#acd4828637710636d0164fced285c854d", null ],
-    [ "DRGroup", "d0/db4/a08708.html#add3ab95d65e283a326e1922129941ae4", null ],
-    [ "hitCount", "d0/db4/a08708.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
-    [ "hitTime", "d0/db4/a08708.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
-    [ "stack", "d0/db4/a08708.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
+    [ "PassengerSet", "d0/db4/a08708.html#aa6421ebd51e84c819604e18e93729d27", null ],
+    [ "Transport", "d0/db4/a08708.html#a36928c178aa490c02aa25b4b12e2bf63", null ],
+    [ "AddPassenger", "d0/db4/a08708.html#ac5c328f816b0358a68265322219357c1", null ],
+    [ "CalculatePassengerOffset", "d0/db4/a08708.html#a327d37eef797c4197b8bba503bd8a3f8", null ],
+    [ "CalculatePassengerPosition", "d0/db4/a08708.html#ae4e716194ce5e9c466a8fe5c53ee0980", null ],
+    [ "DelayedUpdate", "d0/db4/a08708.html#aabc885fccc7a4a4d6a98f9ed8b39cd43", null ],
+    [ "GetPassengers", "d0/db4/a08708.html#a3f70c977ba2450d4244e54e4260f6ea1", null ],
+    [ "GetPathProgress", "d0/db4/a08708.html#a4ecab9f8617918aea3a26cc0feb9c021", null ],
+    [ "RemovePassenger", "d0/db4/a08708.html#a1d70745a16a1cbf3307a25ff4a53c75d", null ],
+    [ "SetPathProgress", "d0/db4/a08708.html#acb68e75a78fa196a4b514abd24c0e322", null ],
+    [ "_passengers", "d0/db4/a08708.html#adc2089495aadaab23414ecae3b2df180", null ]
 ];

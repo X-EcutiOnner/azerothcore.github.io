@@ -1,6 +1,7 @@
 var a27196 =
 [
-    [ "boss_taerarAI", "df/d7e/a27200.html", "df/d7e/a27200" ],
-    [ "boss_taerar", "d5/d0e/a27196.html#a100c1b80a50faf93088db870faa21b58", null ],
-    [ "GetAI", "d5/d0e/a27196.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
+    [ "HandleEffect", "d5/d0e/a27196.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
+    [ "PrepareSpellScript", "d5/d0e/a27196.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
+    [ "Register", "d5/d0e/a27196.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
+    [ "Validate", "d5/d0e/a27196.html#ab6d78ecb650f13df3376baced8c40a63", null ]
 ];

@@ -1,6 +1,6 @@
 var a12064 =
 [
-    [ "boss_gythAI", "d5/d09/a12068.html", "d5/d09/a12068" ],
-    [ "boss_gyth", "db/da6/a12064.html#a286d19b0a6e317cb7e69343982b71062", null ],
-    [ "GetAI", "db/da6/a12064.html#a3706cbdd1bfb16112653d31cfa971b30", null ]
+    [ "npc_lokhtos_darkbargainer", "db/da6/a12064.html#af91685ecf0f63313968b3d82373668d2", null ],
+    [ "OnGossipHello", "db/da6/a12064.html#a39547487ef7db8a3942556665099893f", null ],
+    [ "OnGossipSelect", "db/da6/a12064.html#a5a4640678a5669c75b1fa5d787999c02", null ]
 ];

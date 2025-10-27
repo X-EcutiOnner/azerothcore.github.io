@@ -1,7 +1,7 @@
 var a14460 =
 [
-    [ "npc_love_in_air_supply_sentry", "df/d14/a14460.html#ab2742c3be0ed661a509b9eb32326bee5", null ],
-    [ "MoveInLineOfSight", "df/d14/a14460.html#a9df110324c74277e07183c7db231bbda", null ],
-    [ "UpdateAI", "df/d14/a14460.html#aaa658222954f96d45b75daf83555f6f8", null ],
-    [ "lock", "df/d14/a14460.html#a59bf67b114014542538165c21aa109a6", null ]
+    [ "npc_direbrew_minion", "df/d14/a14460.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
+    [ "IsSummonedBy", "df/d14/a14460.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
+    [ "Reset", "df/d14/a14460.html#a21fb7a778e9025ca4185951460a96d08", null ],
+    [ "_instance", "df/d14/a14460.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
 ];

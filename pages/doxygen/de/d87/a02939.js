@@ -2,6 +2,7 @@ var a02939 =
 [
     [ "DataHeader", "de/d87/a02939.html#a042491ef36459046f3866e90f15aae0d", null ],
     [ "GundrakScriptName", "de/d87/a02939.html#a3212386787be4354697162a8be43d3e9", null ],
+    [ "RegisterGundrakCreatureAI", "de/d87/a02939.html#a822a443943e1cb69d769edfaaf231eba", null ],
     [ "Creatures", "de/d87/a02939.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "d5/d56/a03437.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "d5/d56/a03437.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],

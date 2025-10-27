@@ -1,6 +1,5 @@
 var a20480 =
 [
-    [ "npc_ulduar_aerial_command_unitAI", "d4/ddc/a20484.html", "d4/ddc/a20484" ],
-    [ "npc_ulduar_aerial_command_unit", "d6/dfe/a20480.html#ac0c1ecef78b92dd4ae072f6eeca9f733", null ],
-    [ "GetAI", "d6/dfe/a20480.html#a406e828a902d75bb1946fd8f5090044f", null ]
+    [ "achievement_i_have_the_coolest_friends", "d6/dfe/a20480.html#a87fd2d5702fe33ee8b09042c66897636", null ],
+    [ "OnCheck", "d6/dfe/a20480.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
 ];

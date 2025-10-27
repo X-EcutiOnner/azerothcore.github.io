@@ -1,6 +1,9 @@
 var a17928 =
 [
-    [ "FilterTargets", "dc/d1e/a17928.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
-    [ "PrepareSpellScript", "dc/d1e/a17928.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
-    [ "Register", "dc/d1e/a17928.html#a32e04a1110d651701b8eab1648c69a57", null ]
+    [ "CheckAreaTarget", "dc/d1e/a17928.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
+    [ "HandleApply", "dc/d1e/a17928.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
+    [ "Load", "dc/d1e/a17928.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
+    [ "PrepareAuraScript", "dc/d1e/a17928.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
+    [ "Register", "dc/d1e/a17928.html#a8f476129e0678149463c4b16232f6cb6", null ],
+    [ "_teamIdInInstance", "dc/d1e/a17928.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
 ];

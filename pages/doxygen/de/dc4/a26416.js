@@ -1,7 +1,7 @@
 var a26416 =
 [
-    [ "HandleEffectApply", "de/dc4/a26416.html#a475d0bab96e226853368be3b68c5a2d3", null ],
-    [ "HandleEffectRemove", "de/dc4/a26416.html#aa22a095e40789ac562a64c20d7eadb28", null ],
-    [ "PrepareAuraScript", "de/dc4/a26416.html#a2b06b0dc1a4c2f5b5e4657e11a097660", null ],
-    [ "Register", "de/dc4/a26416.html#a91e75a059828a30d509fd22be19048f8", null ]
+    [ "FilterTargets", "de/dc4/a26416.html#ad679149423fda97ad5744318520022b1", null ],
+    [ "PrepareSpellScript", "de/dc4/a26416.html#ac57c48690c5ad1b907f56287aee949a4", null ],
+    [ "Register", "de/dc4/a26416.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
+    [ "Validate", "de/dc4/a26416.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
 ];

@@ -1,7 +1,6 @@
 var a28440 =
 [
-    [ "ID", "d4/dfb/a28440.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
-    [ "RadiusMax", "d4/dfb/a28440.html#ab82c1acb9309b17104958182d80b01d1", null ],
-    [ "RadiusMin", "d4/dfb/a28440.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
-    [ "RadiusPerLevel", "d4/dfb/a28440.html#a74bb59afb808af45ceff6367468fca1e", null ]
+    [ "Id", "d4/dfb/a28440.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
+    [ "Order", "d4/dfb/a28440.html#a16fca42d9a0a98e034a93984c4362b53", null ],
+    [ "TypeFlags", "d4/dfb/a28440.html#ac7246adc7c6c3217de8ac093983b7553", null ]
 ];

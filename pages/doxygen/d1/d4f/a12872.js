@@ -1,6 +1,7 @@
 var a12872 =
 [
-    [ "boss_garaxxas", "d1/d4f/a12872.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
-    [ "JustEngagedWith", "d1/d4f/a12872.html#aebfd7b63d714468ed69e920fb89c345d", null ],
-    [ "Reset", "d1/d4f/a12872.html#a56e6489ce49971cb066444888355626e", null ]
+    [ "OnRemove", "d1/d4f/a12872.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
+    [ "PrepareAuraScript", "d1/d4f/a12872.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
+    [ "Register", "d1/d4f/a12872.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
+    [ "Validate", "d1/d4f/a12872.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
 ];

@@ -1,6 +1,4 @@
 var a16796 =
 [
-    [ "boss_bronjahmAI", "d1/dee/a16800.html", "d1/dee/a16800" ],
-    [ "boss_bronjahm", "df/da4/a16796.html#a699e1be5273979c76cd5d06b60f0ee05", null ],
-    [ "GetAI", "df/da4/a16796.html#a04676028f1f324b6eecea625122794ed", null ]
+    [ "boss_dreadscaleAI", "df/da4/a16796.html#ab0d0f8a7ec6567e8811d09721f6fa9ed", null ]
 ];

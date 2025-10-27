@@ -1,9 +1,7 @@
 var a26624 =
 [
-    [ "CheckCast", "d9/dba/a26624.html#a9af89d5ffaa73747acb55e7dee681d03", null ],
-    [ "FilterTargets", "d9/dba/a26624.html#aa33f9d87325271bb264ba190ebb5cfa0", null ],
-    [ "HandleDummy", "d9/dba/a26624.html#a3c076ab3ccf1f0be81a7ab067327a589", null ],
-    [ "PrepareSpellScript", "d9/dba/a26624.html#a9c992e732b525e29f684947398d20efb", null ],
-    [ "Register", "d9/dba/a26624.html#abbea3ee39cbdf91518031c088e2e2ed9", null ],
-    [ "Validate", "d9/dba/a26624.html#abca1e5aa46e7753588c8120090775195", null ]
+    [ "HandleDummy", "d9/dba/a26624.html#abc630a0c8274f5f85901b2505ff2ae04", null ],
+    [ "PrepareSpellScript", "d9/dba/a26624.html#af79cd7c2f6ed47a93dbbe17aaca6834f", null ],
+    [ "Register", "d9/dba/a26624.html#a3f1808538acca2742c19f68af9a6fd56", null ],
+    [ "Validate", "d9/dba/a26624.html#a475e1d5d8c70e0edd5957a1e493fd43e", null ]
 ];

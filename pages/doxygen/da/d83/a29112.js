@@ -1,6 +1,7 @@
 var a29112 =
 [
-    [ "spell_mark_of_nature_SpellScript", "d7/d81/a29116.html", "d7/d81/a29116" ],
-    [ "spell_mark_of_nature", "da/d83/a29112.html#a0fc98a87180d1f752c9c768016f720fb", null ],
-    [ "GetSpellScript", "da/d83/a29112.html#a7835fbe76cd684c222538c93b10c5ef9", null ]
+    [ "Paths", "da/d83/a29112.html#aff167c694a55441bcf5504f5d1933f41", null ],
+    [ "References", "da/d83/a29112.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
+    [ "Sets", "da/d83/a29112.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
+    [ "Spawns", "da/d83/a29112.html#a51f24c059516683f0744b81819186c0e", null ]
 ];

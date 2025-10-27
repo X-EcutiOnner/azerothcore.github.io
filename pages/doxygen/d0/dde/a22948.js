@@ -1,6 +1,7 @@
 var a22948 =
 [
-    [ "boss_essence_of_desireAI", "d7/d26/a22952.html", "d7/d26/a22952" ],
-    [ "boss_essence_of_desire", "d0/dde/a22948.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "d0/dde/a22948.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "npc_blade_of_azzinoth", "d0/dde/a22948.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "d0/dde/a22948.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "d0/dde/a22948.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "d0/dde/a22948.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

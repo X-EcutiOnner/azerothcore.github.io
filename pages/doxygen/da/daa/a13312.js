@@ -1,5 +1,7 @@
 var a13312 =
 [
-    [ "go_eredar_twins_blaze", "da/daa/a13312.html#a19d28875d3506d337e0ecbd93169f140", null ],
-    [ "InitializeAI", "da/daa/a13312.html#a8769ad96e4c4a2396cf4c294d8d982eb", null ]
+    [ "HandleScript", "da/daa/a13312.html#a6ce169d6c1b106195f787b52ea433311", null ],
+    [ "PrepareSpellScript", "da/daa/a13312.html#a4f71583df2193274365944e6d228247c", null ],
+    [ "Register", "da/daa/a13312.html#aad8978dc0505d1fb80e2416f5525cbc7", null ],
+    [ "Validate", "da/daa/a13312.html#a51025308f88001f1f66d7f68f174f325", null ]
 ];

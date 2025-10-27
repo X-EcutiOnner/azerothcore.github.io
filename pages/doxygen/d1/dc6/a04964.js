@@ -1,8 +1,9 @@
 var a04964 =
 [
-    [ "AreaInfo", "d5/d64/a04968.html", "d5/d64/a04968" ],
-    [ "LiquidInfo", "d3/d49/a04972.html", "d3/d49/a04972" ],
-    [ "areaInfo", "d1/dc6/a04964.html#a0d30ac3fa0cefd6eafc1690c75f46f0f", null ],
-    [ "floorZ", "d1/dc6/a04964.html#af7c8710b5d296c1d792b4fc34302278f", null ],
-    [ "liquidInfo", "d1/dc6/a04964.html#ae59e1e7fdf4913c48a0d82e1d19366a7", null ]
+    [ "DynamicTreeIntersectionCallback", "d1/dc6/a04964.html#a77d71c68e20f4d19059317b307c27441", null ],
+    [ "didHit", "d1/dc6/a04964.html#a616d15c3cce00574d604591bc8af4140", null ],
+    [ "operator()", "d1/dc6/a04964.html#a9927d15de557ef58b7e4046e830f8dad", null ],
+    [ "_didHit", "d1/dc6/a04964.html#a1805d508be79660d90f991e4453c2c9a", null ],
+    [ "_ignoreFlags", "d1/dc6/a04964.html#a6559c66c8451c32078187a1c43b3a85e", null ],
+    [ "_phaseMask", "d1/dc6/a04964.html#a52e7470145db9cc4c2369024fbf7bbb8", null ]
 ];

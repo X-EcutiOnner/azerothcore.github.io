@@ -1,12 +1,6 @@
 var a12768 =
 [
-    [ "boss_bigbadwolf", "df/d0f/a12768.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
-    [ "EnterEvadeMode", "df/d0f/a12768.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
-    [ "JustDied", "df/d0f/a12768.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
-    [ "JustEngagedWith", "df/d0f/a12768.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
-    [ "JustReachedHome", "df/d0f/a12768.html#a7755bf925d919c73075a41f8774280c0", null ],
-    [ "KilledUnit", "df/d0f/a12768.html#a8e004a1feac796ed467eba744f211827", null ],
-    [ "UpdateAI", "df/d0f/a12768.html#ab788a0155a3ffe6535d58263eea16dee", null ],
-    [ "_scheduler", "df/d0f/a12768.html#a661d9b619be30764ba5b89d71de870e9", null ],
-    [ "instance", "df/d0f/a12768.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
+    [ "HandleTriggerSpell", "df/d0f/a12768.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
+    [ "PrepareSpellScript", "df/d0f/a12768.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
+    [ "Register", "df/d0f/a12768.html#a7e9c140aecea892ee6971bc97d385640", null ]
 ];

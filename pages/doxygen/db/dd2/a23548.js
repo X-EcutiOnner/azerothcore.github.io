@@ -1,6 +1,5 @@
 var a23548 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "d0/dff/a23552.html", "d0/dff/a23552" ],
-    [ "instance_gruuls_lair", "db/dd2/a23548.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
-    [ "GetInstanceScript", "db/dd2/a23548.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
+    [ "boss_quagmirran", "db/dd2/a23548.html#a7f6289b86216b052f434a1417023e22c", null ],
+    [ "JustEngagedWith", "db/dd2/a23548.html#a28253b6653bd2e26e7f246c71a88b625", null ]
 ];

@@ -1,6 +1,6 @@
 var a24980 =
 [
-    [ "HandleDummy", "d9/de2/a24980.html#a9f9c27bdfed0a457f7e851c8598f3625", null ],
-    [ "PrepareSpellScript", "d9/de2/a24980.html#ab666b72cd7cb0ef92ba6c417be5ac7cc", null ],
-    [ "Register", "d9/de2/a24980.html#a7b78161fda34b3dc3c844c392ce7e30e", null ]
+    [ "HandleKnockBack", "d9/de2/a24980.html#ae50d143953074b83183482770046e131", null ],
+    [ "PrepareSpellScript", "d9/de2/a24980.html#a73666b297ef8bbfd490fee6075b06b3a", null ],
+    [ "Register", "d9/de2/a24980.html#a035df6b2e29aa0d2b5558e1cfef96ead", null ]
 ];

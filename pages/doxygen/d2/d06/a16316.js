@@ -1,8 +1,6 @@
 var a16316 =
 [
-    [ "npc_black_knight_skeletal_gryphonAI", "d2/d06/a16316.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
-    [ "DoAction", "d2/d06/a16316.html#af38e129cdf4af99e99c41b6a98448e56", null ],
-    [ "Reset", "d2/d06/a16316.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
-    [ "UpdateAI", "d2/d06/a16316.html#a851008790128831c5c10710b4cccb196", null ],
-    [ "WaypointReached", "d2/d06/a16316.html#a74b5fb1d3631c404e7797085e45e6159", null ]
+    [ "npc_orb_carrierAI", "d2/d36/a16320.html", "d2/d36/a16320" ],
+    [ "npc_orb_carrier", "d2/d06/a16316.html#a69fdd8cb2f0cdf7cf6cf0bdabbc0cd03", null ],
+    [ "GetAI", "d2/d06/a16316.html#ab5b7bbffc43b840c686dc889805ea401", null ]
 ];

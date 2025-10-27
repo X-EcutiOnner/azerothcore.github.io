@@ -1,6 +1,14 @@
 var a11968 =
 [
-    [ "boss_gorosh_the_dervishAI", "d3/d0a/a11972.html", "d3/d0a/a11972" ],
-    [ "boss_gorosh_the_dervish", "d2/d1c/a11968.html#a18c39f21ebf6a9d43d37eb92857083a3", null ],
-    [ "GetAI", "d2/d1c/a11968.html#abae1fa2a7e959d1b7b02e0850aff4fb9", null ]
+    [ "tele_commandscript", "d2/d1c/a11968.html#a13d522c3480c5b82071d5f77bd41f942", null ],
+    [ "DoNameTeleport", "d2/d1c/a11968.html#aeab9bf62f33fd1d55055ba2ae7925f82", null ],
+    [ "GetCommands", "d2/d1c/a11968.html#a296b26e39d5d575ebe68728ff1b49f68", null ],
+    [ "HandleTeleAddCommand", "d2/d1c/a11968.html#a8d429a38c01a19f8c89c87937ef24248", null ],
+    [ "HandleTeleCommand", "d2/d1c/a11968.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa", null ],
+    [ "HandleTeleDelCommand", "d2/d1c/a11968.html#ad3d85b0057797de2aceeb620cf62efc0", null ],
+    [ "HandleTeleGroupCommand", "d2/d1c/a11968.html#af83e529b482654851a7a1ee77beb107e", null ],
+    [ "HandleTeleNameCommand", "d2/d1c/a11968.html#a70fcde1c7c5a9e5297035862adca55c4", null ],
+    [ "HandleTeleNameNpcIdCommand", "d2/d1c/a11968.html#a52852b7f3d7a6bbf68164e6918b9a141", null ],
+    [ "HandleTeleNameNpcNameCommand", "d2/d1c/a11968.html#a2f68bad0f1af5d40fcefb8c394472b65", null ],
+    [ "HandleTeleNameNpcSpawnIdCommand", "d2/d1c/a11968.html#a7a45fa39afa6bae2359a68b11a504bc5", null ]
 ];

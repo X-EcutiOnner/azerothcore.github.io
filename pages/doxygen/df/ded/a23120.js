@@ -1,6 +1,6 @@
 var a23120 =
 [
-    [ "OnPeriodic", "df/ded/a23120.html#aef6afe014ce90711cd7628563aada2a4", null ],
-    [ "PrepareAuraScript", "df/ded/a23120.html#a40a98b79b445d3cebe3f195cb9c03a80", null ],
-    [ "Register", "df/ded/a23120.html#a44c261ff549ddf0b1dad5ae6d0ff2432", null ]
+    [ "boss_essence_of_angerAI", "d1/d37/a23124.html", "d1/d37/a23124" ],
+    [ "boss_essence_of_anger", "df/ded/a23120.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
+    [ "GetAI", "df/ded/a23120.html#a70a460f31b7f878e532b695ca822ab5d", null ]
 ];

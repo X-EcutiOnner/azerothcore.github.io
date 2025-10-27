@@ -1,9 +1,9 @@
 var a06088 =
 [
-    [ "TurretAI", "db/d46/a06088.html#a0aaa1ee5eb1b2e83657ef24479d9a91e", null ],
-    [ "AttackStart", "db/d46/a06088.html#ab6eb7cf777595a4b196373123da19bea", null ],
-    [ "CanAIAttack", "db/d46/a06088.html#a47c1c38ddcc1f473104fb698fe338684", null ],
-    [ "Permissible", "db/d46/a06088.html#aac81fb574d70369fb006fb7ba22a0784", null ],
-    [ "UpdateAI", "db/d46/a06088.html#aa2d308443a31d8a06bbc63517695dfef", null ],
-    [ "m_minRange", "db/d46/a06088.html#a4cffbf9bcb29468dad6a6583c905b99a", null ]
+    [ "itemId", "db/d46/a06088.html#adc6041f4426ca3d377644b18a0ba22f9", null ],
+    [ "mailTemplate", "db/d46/a06088.html#adc59ba563519ed9e673b734c4e40e7b8", null ],
+    [ "sender", "db/d46/a06088.html#a9a4e0b2063f2c03f8783681cca41b5d7", null ],
+    [ "subject", "db/d46/a06088.html#a45644f308278529f822080f8274180d8", null ],
+    [ "text", "db/d46/a06088.html#a4d57dcb4d130552f5bf756308d79307c", null ],
+    [ "titleId", "db/d46/a06088.html#a94440f7e5c023d929e0e7f7d821bb309", null ]
 ];

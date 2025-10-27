@@ -1,6 +1,7 @@
 var a21144 =
 [
-    [ "instance_utgarde_keep_InstanceMapScript", "d1/dbe/a21148.html", "d1/dbe/a21148" ],
-    [ "instance_utgarde_keep", "da/d9c/a21144.html#abe013e4f086f63722a6398b2b7928c80", null ],
-    [ "GetInstanceScript", "da/d9c/a21144.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
+    [ "OnPeriodic", "da/d9c/a21144.html#a529e89c1ae0074370da174defc086719", null ],
+    [ "PrepareAuraScript", "da/d9c/a21144.html#a587652095a5dfae229787a0c0ceacfbe", null ],
+    [ "Register", "da/d9c/a21144.html#acd5551b09882d720608bdec6036dee9a", null ],
+    [ "Validate", "da/d9c/a21144.html#aaed6604e39dd977f4e7c671052d718e8", null ]
 ];

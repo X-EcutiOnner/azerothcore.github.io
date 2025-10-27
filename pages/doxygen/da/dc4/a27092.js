@@ -1,5 +1,7 @@
 var a27092 =
 [
-    [ "achievement_killed_exp_or_honor_target", "da/dc4/a27092.html#aad432878c97af698dd1cc4019d716281", null ],
-    [ "OnCheck", "da/dc4/a27092.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
+    [ "HandleRemove", "da/dc4/a27092.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
+    [ "PrepareAuraScript", "da/dc4/a27092.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
+    [ "Register", "da/dc4/a27092.html#a338ee9c0eddd309ce2a791160059bad6", null ],
+    [ "Validate", "da/dc4/a27092.html#ae8272b65a070fc959af003f701567c3c", null ]
 ];

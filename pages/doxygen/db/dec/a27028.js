@@ -1,8 +1,10 @@
 var a27028 =
 [
-    [ "CheckProc", "db/dec/a27028.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
-    [ "HandleEffectProc", "db/dec/a27028.html#af01d160cb2a55124361a2dd113acd0a7", null ],
-    [ "PrepareAuraScript", "db/dec/a27028.html#aeffb8490a7208ae6e32a505283afbc03", null ],
-    [ "Register", "db/dec/a27028.html#a5436413d098dde4b0fa1ed2259a47779", null ],
-    [ "Validate", "db/dec/a27028.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
+    [ "CalculateAPAmount", "db/dec/a27028.html#ae76d10c68df1f149f83d4247122b47a7", null ],
+    [ "CalculateResistanceAmount", "db/dec/a27028.html#ab21a4b135dfd70963f75eff7bffbf476", null ],
+    [ "CalculateSPAmount", "db/dec/a27028.html#a421996ca946d5b04c264718e6dd63fa9", null ],
+    [ "CalculateStatAmount", "db/dec/a27028.html#ae695515c915f2452dccb71aeb018f3a3", null ],
+    [ "HandleEffectApply", "db/dec/a27028.html#a207864c73e485e0db0fe47bde97d87a2", null ],
+    [ "PrepareAuraScript", "db/dec/a27028.html#a4179be48195872410bda69cac3454812", null ],
+    [ "Register", "db/dec/a27028.html#a94b34a7e4c36bf1336b5611e82e2dd58", null ]
 ];

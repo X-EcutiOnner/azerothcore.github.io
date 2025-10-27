@@ -1,9 +1,9 @@
 var a14256 =
 [
-    [ "npc_brew_bubble", "d2/d5a/a14256.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
-    [ "DoAction", "d2/d5a/a14256.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
-    [ "MoveInLineOfSight", "d2/d5a/a14256.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
-    [ "Reset", "d2/d5a/a14256.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
-    [ "UpdateAI", "d2/d5a/a14256.html#a25018deaa206620f6e98ba722f689b8d", null ],
-    [ "timer", "d2/d5a/a14256.html#a4bee73add756ba4b3137818b2dacd27f", null ]
+    [ "npc_healing_ward", "d2/d5a/a14256.html#a3d3c35f61502d3a83cb2581119e08903", null ],
+    [ "JustEngagedWith", "d2/d5a/a14256.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
+    [ "Reset", "d2/d5a/a14256.html#a756d27a43d86c7ecde859df255c6bd62", null ],
+    [ "UpdateAI", "d2/d5a/a14256.html#a8b8635af33ce814602206064e0815520", null ],
+    [ "_instance", "d2/d5a/a14256.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
+    [ "_scheduler", "d2/d5a/a14256.html#a0c62fe945b491cab76175217a7d10c06", null ]
 ];

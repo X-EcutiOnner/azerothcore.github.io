@@ -1,6 +1,7 @@
 var a24216 =
 [
-    [ "npc_dragonmaw_peonAI", "d8/d4b/a24220.html", "d8/d4b/a24220" ],
-    [ "npc_dragonmaw_peon", "d3/d51/a24216.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
-    [ "GetAI", "d3/d51/a24216.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
+    [ "HandleDummy", "d3/d51/a24216.html#a08f2f0aef00ce075572ff84643905a0a", null ],
+    [ "PrepareSpellScript", "d3/d51/a24216.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
+    [ "Register", "d3/d51/a24216.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
+    [ "Validate", "d3/d51/a24216.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
 ];

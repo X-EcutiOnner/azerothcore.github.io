@@ -1,11 +1,10 @@
 var a10240 =
 [
-    [ "AllMapScript", "df/d3d/a10240.html#aea5284ac6b227dd44b83dc944e220f00", null ],
-    [ "OnBeforeCreateInstanceScript", "df/d3d/a10240.html#a1a4b75a1845923bcf68481ecc0d6b77c", null ],
-    [ "OnCreateMap", "df/d3d/a10240.html#a56aa53bfb0a1cb7ad7cb677771739b46", null ],
-    [ "OnDestroyInstance", "df/d3d/a10240.html#a990130b4cd594c1cd04368aea300a49e", null ],
-    [ "OnDestroyMap", "df/d3d/a10240.html#a6bebd1e6e36b5714598439a6c6dfaad6", null ],
-    [ "OnMapUpdate", "df/d3d/a10240.html#a6edbb719d998c57caba09eef7ad559e0", null ],
-    [ "OnPlayerEnterAll", "df/d3d/a10240.html#a42e4af596effb07a00b353164f32cec9", null ],
-    [ "OnPlayerLeaveAll", "df/d3d/a10240.html#adcfd501bee055317bff2a63ef28c3eab", null ]
+    [ "QuestStatusData", "df/d3d/a10240.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
+    [ "CreatureOrGOCount", "df/d3d/a10240.html#aa5892dc0744a41ac565568307f12ad35", null ],
+    [ "Explored", "df/d3d/a10240.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
+    [ "ItemCount", "df/d3d/a10240.html#a466999cea52f65bf58916bc34750bf95", null ],
+    [ "PlayerCount", "df/d3d/a10240.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
+    [ "Status", "df/d3d/a10240.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
+    [ "Timer", "df/d3d/a10240.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
 ];

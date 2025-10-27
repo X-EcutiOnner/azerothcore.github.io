@@ -1,6 +1,6 @@
 var a22600 =
 [
-    [ "a", "d7/d40/a22600.html#af01321c0fa24acf26086f7dccb326640", null ],
-    [ "h", "d7/d40/a22600.html#a0b9b712fc851286077ee5bbd8136a413", null ],
-    [ "n", "d7/d40/a22600.html#aad82b0a6ff47c6997a6b8d5492748b63", null ]
+    [ "CheckCast", "d7/d40/a22600.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
+    [ "PrepareSpellScript", "d7/d40/a22600.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
+    [ "Register", "d7/d40/a22600.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
 ];

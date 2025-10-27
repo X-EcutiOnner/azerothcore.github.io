@@ -1,8 +1,5 @@
 var a27656 =
 [
-    [ "npc_wormholeAI", "db/d1a/a27660.html", "db/d1a/a27660" ],
-    [ "npc_wormhole", "dd/dcc/a27656.html#aeace4cbf665409786b86140709191cb0", null ],
-    [ "GetAI", "dd/dcc/a27656.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
-    [ "OnGossipHello", "dd/dcc/a27656.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
-    [ "OnGossipSelect", "dd/dcc/a27656.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
+    [ "item_disgusting_jar", "dd/dcc/a27656.html#add658cf7d026ac12d3eacc0c1dc8d7fb", null ],
+    [ "OnExpire", "dd/dcc/a27656.html#a4f6967035a4d247914a6034fcebac5c5", null ]
 ];

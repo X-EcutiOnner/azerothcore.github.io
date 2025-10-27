@@ -1,6 +1,6 @@
 var a25924 =
 [
-    [ "PrepareSpellScript", "dc/d4a/a25924.html#a738e105a48f6c603f3d9a690f44b8745", null ],
-    [ "Register", "dc/d4a/a25924.html#a6bc9791d0f08440e19b89daa9b65892c", null ],
-    [ "SetDest", "dc/d4a/a25924.html#a59641895cead08de4a4503262505ee73", null ]
+    [ "FilterTargets", "dc/d4a/a25924.html#abe299fbad07f800e90b1614ec661c185", null ],
+    [ "PrepareSpellScript", "dc/d4a/a25924.html#a53bae2b6575436705adff74caf9225b7", null ],
+    [ "Register", "dc/d4a/a25924.html#a35fd5a1c8ab2400940da2d9f8f3ce9c2", null ]
 ];

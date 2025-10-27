@@ -1,21 +1,12 @@
 var a11896 =
 [
-    [ "npc_grimstoneAI", "d0/d38/a11896.html#af5a78c00f2df9a6e7f810821e478b334", null ],
-    [ "HandleGameObject", "d0/d38/a11896.html#aeb8bb46e75506889ddb1f32c7846618d", null ],
-    [ "JustSummoned", "d0/d38/a11896.html#a152416e33edf5117ecb11946bae31059", null ],
-    [ "Reset", "d0/d38/a11896.html#ad7b769ce27c4cd22a2383762426a5792", null ],
-    [ "SpawnWave", "d0/d38/a11896.html#ad83bf99a15a8a80fe572e8927f533921", null ],
-    [ "SummonBoss", "d0/d38/a11896.html#ac019b66c330d228a4baa4c81b14f825a", null ],
-    [ "SummonedCreatureDies", "d0/d38/a11896.html#a6cf74375a89074ebfdaef1f189f58f57", null ],
-    [ "UpdateEscortAI", "d0/d38/a11896.html#a1442439a8e8ea38fc46e65160f2fbe40", null ],
-    [ "updateReset", "d0/d38/a11896.html#a7c28d3cca183390116a7f6e3c094aa6b", null ],
-    [ "WaypointReached", "d0/d38/a11896.html#a73452b365d3095ce584d7a2bcd38d275", null ],
-    [ "BossSpawnId", "d0/d38/a11896.html#a31f7ff1c08dd33abdae1414f385e5d9e", null ],
-    [ "eventPhase", "d0/d38/a11896.html#a2e68549ad81f51bf596a7727a32c6e03", null ],
-    [ "eventTimer", "d0/d38/a11896.html#a48a153973c4a5d8b911a5f89d3c968eb", null ],
-    [ "instance", "d0/d38/a11896.html#ae9c1e204ed846b77a118bae352a16a0a", null ],
-    [ "MobSpawnId", "d0/d38/a11896.html#ab17115539c7778849eb7a5d7b3c14955", null ],
-    [ "resetTimer", "d0/d38/a11896.html#ac22a90e5fcf04dae8cbf5aea715a5412", null ],
-    [ "summons", "d0/d38/a11896.html#acc981f16561558187a4f73f30477087e", null ],
-    [ "theldrenEvent", "d0/d38/a11896.html#ad3811c9392c8849770d60398f5c9ed5b", null ]
+    [ "message_commandscript", "d0/d38/a11896.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
+    [ "GetCommands", "d0/d38/a11896.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
+    [ "HandleAnnounceCommand", "d0/d38/a11896.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
+    [ "HandleGMAnnounceCommand", "d0/d38/a11896.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
+    [ "HandleGMNameAnnounceCommand", "d0/d38/a11896.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
+    [ "HandleGMNotifyCommand", "d0/d38/a11896.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
+    [ "HandleNameAnnounceCommand", "d0/d38/a11896.html#a786902b70345712c6dba9f638695dd9e", null ],
+    [ "HandleNotifyCommand", "d0/d38/a11896.html#a0d53b2414931451b30abd2fe5acee1af", null ],
+    [ "HandleWhispersCommand", "d0/d38/a11896.html#a9a02c97677250136f9717968a9f47b73", null ]
 ];

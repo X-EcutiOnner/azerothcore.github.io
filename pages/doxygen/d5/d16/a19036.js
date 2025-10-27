@@ -1,15 +1,13 @@
 var a19036 =
 [
-    [ "boss_gluthAI", "d5/d16/a19036.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d", null ],
-    [ "JustDied", "d5/d16/a19036.html#ada2c5f6b7025f5f2fb67b8ebe3b2d56c", null ],
-    [ "JustEngagedWith", "d5/d16/a19036.html#a25cf670d7254cc8331752987a854c63b", null ],
-    [ "JustSummoned", "d5/d16/a19036.html#acc09328210fbf1a6e81999d548676ae4", null ],
-    [ "KilledUnit", "d5/d16/a19036.html#a691d46055b922efc9d1ec93a8b0fb842", null ],
-    [ "MoveInLineOfSight", "d5/d16/a19036.html#a2aaf43f7d1555a005ef263ceaad8304c", null ],
-    [ "Reset", "d5/d16/a19036.html#acb9f68205a2a210737d43893a414ca52", null ],
-    [ "SelectPlayerInRoom", "d5/d16/a19036.html#a1f8f87b00291d8164f607ac6262506cf", null ],
-    [ "SummonedCreatureDies", "d5/d16/a19036.html#a115a1f1327a931067223734dbf414675", null ],
-    [ "UpdateAI", "d5/d16/a19036.html#a2505f7ebda7b623edfedf96979a4a920", null ],
-    [ "events", "d5/d16/a19036.html#adaf9581259a774087ce02725b42b6b47", null ],
-    [ "summons", "d5/d16/a19036.html#a18f6aa3d949e68e9b38398780c017082", null ]
+    [ "npc_icc_spire_frostwyrm", "d5/d16/a19036.html#a8fdfc70108e3294e0fcc3c7ed895074e", null ],
+    [ "CanAIAttack", "d5/d16/a19036.html#ab3364130aacf675602317651a244ae2c", null ],
+    [ "DoAction", "d5/d16/a19036.html#a44edf33b25bdfce3b2bd3a8ec487fd9e", null ],
+    [ "JustEngagedWith", "d5/d16/a19036.html#abfc762cea6b7e40aaaff50b933410127", null ],
+    [ "JustReachedHome", "d5/d16/a19036.html#a144e8cafc020f5c43aae1fdc4a38a10d", null ],
+    [ "MovementInform", "d5/d16/a19036.html#a8e7f148580d91d42959e972ef18b271b", null ],
+    [ "Reset", "d5/d16/a19036.html#a572add30e78af15a8d5d6918169802da", null ],
+    [ "UpdateAI", "d5/d16/a19036.html#ad193a9355e11ea25792e6285d375a488", null ],
+    [ "_canResetFlyingEffects", "d5/d16/a19036.html#a262d843fcb13a444ae377729135ca14d", null ],
+    [ "_scheduler", "d5/d16/a19036.html#a822096df7b1803d92e05ca27d544bd26", null ]
 ];

@@ -1,6 +1,6 @@
 var a20064 =
 [
-    [ "CheckCast", "de/ddf/a20064.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
-    [ "PrepareSpellScript", "de/ddf/a20064.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
-    [ "Register", "de/ddf/a20064.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
+    [ "boss_flame_leviathan_overload_deviceAI", "dd/daf/a20068.html", "dd/daf/a20068" ],
+    [ "boss_flame_leviathan_overload_device", "de/ddf/a20064.html#ad00f601170c1af833aadb17eab5d19a8", null ],
+    [ "GetAI", "de/ddf/a20064.html#a73988d2b1cfe61d0356ec1f317d90162", null ]
 ];

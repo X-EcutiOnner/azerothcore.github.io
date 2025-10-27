@@ -1,7 +1,9 @@
 var a27784 =
 [
-    [ "HandleDummy", "db/dc3/a27784.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
-    [ "PrepareSpellScript", "db/dc3/a27784.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
-    [ "Register", "db/dc3/a27784.html#a66c530b497e4952b457bbfa50a036c07", null ],
-    [ "Validate", "db/dc3/a27784.html#a968333dcfe0553ad73879f3042db5511", null ]
+    [ "npc_target_dummyAI", "db/dc3/a27784.html#a117e45559ea721877d73df4b3c18a259", null ],
+    [ "EnterEvadeMode", "db/dc3/a27784.html#a8f7f2e4decc676e378b4929516f8a147", null ],
+    [ "MoveInLineOfSight", "db/dc3/a27784.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
+    [ "Reset", "db/dc3/a27784.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
+    [ "UpdateAI", "db/dc3/a27784.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
+    [ "deathTimer", "db/dc3/a27784.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
 ];

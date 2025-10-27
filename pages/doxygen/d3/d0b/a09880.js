@@ -1,12 +1,19 @@
 var a09880 =
 [
-    [ "TransportTemplate", "d3/d0b/a09880.html#aef4781a37808827e3ceaffc782c3af1e", null ],
-    [ "~TransportTemplate", "d3/d0b/a09880.html#afc385d824c171d13a184bc0a16121110", null ],
-    [ "accelDist", "d3/d0b/a09880.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
-    [ "accelTime", "d3/d0b/a09880.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
-    [ "entry", "d3/d0b/a09880.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
-    [ "inInstance", "d3/d0b/a09880.html#a971c84762c229b01cab656945f0c16de", null ],
-    [ "keyFrames", "d3/d0b/a09880.html#ac714531f226ca06c3586cf3f6cc06808", null ],
-    [ "mapsUsed", "d3/d0b/a09880.html#a93899b0648871ed8ca32dfe8394347c1", null ],
-    [ "pathTime", "d3/d0b/a09880.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
+    [ "InstancedMaps", "d3/d0b/a09880.html#a2d08c599bf826c4c98aaa9109e3b7a57", null ],
+    [ "MapInstanced", "d3/d0b/a09880.html#af30e91e40c171ddbf7400f310283c43c", null ],
+    [ "~MapInstanced", "d3/d0b/a09880.html#aa27d6f90288f23d34117c7d68160e04c", null ],
+    [ "CannotEnter", "d3/d0b/a09880.html#a29f973e3e4bdfcfb0ea9bf6639b38108", null ],
+    [ "CreateBattleground", "d3/d0b/a09880.html#ad57ef8f1654b494b8c20f6af461653f4", null ],
+    [ "CreateInstance", "d3/d0b/a09880.html#a6d04039bbbde5717e50606d48c3ea954", null ],
+    [ "CreateInstanceForPlayer", "d3/d0b/a09880.html#a9151fb7f7438abddf7aa17d015c600ab", null ],
+    [ "DelayedUpdate", "d3/d0b/a09880.html#a8f58a4c872089f8fce60ddc31623611e", null ],
+    [ "DestroyInstance", "d3/d0b/a09880.html#aaff2d76ae18bb7416e0cc8c16e0375d7", null ],
+    [ "FindInstanceMap", "d3/d0b/a09880.html#a6ec8d0547ce589613f53a2c8d0f4a7fa", null ],
+    [ "GetInstancedMaps", "d3/d0b/a09880.html#aff2cc0a1f57f06ead9a3e999c1c7dba0", null ],
+    [ "InitVisibilityDistance", "d3/d0b/a09880.html#a29380bc11b3e33278338bcff32b3cbec", null ],
+    [ "UnloadAll", "d3/d0b/a09880.html#a7fb86dd2f4b60721aabf3923c461f1fc", null ],
+    [ "Update", "d3/d0b/a09880.html#a0fce5af3a96e35e9cbe44d73bac8b2df", null ],
+    [ "MapMgr", "d3/d0b/a09880.html#ae6ac74470769d45e3c75291134ab77df", null ],
+    [ "m_InstancedMaps", "d3/d0b/a09880.html#a655e624aad00ec0345aa17ce635666bf", null ]
 ];

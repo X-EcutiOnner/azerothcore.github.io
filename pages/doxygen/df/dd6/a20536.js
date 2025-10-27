@@ -1,12 +1,14 @@
 var a20536 =
 [
-    [ "npc_ulduar_flames_initialAI", "df/dd6/a20536.html#a5d7202463d12fbdfcc5efdfba786ca19", null ],
-    [ "DoAction", "df/dd6/a20536.html#a6169d12043e73e7991064decccf0926a", null ],
-    [ "RemoveAll", "df/dd6/a20536.html#a2c39dd0d4d8040db5b18af1c1b27071a", null ],
-    [ "RemoveFlame", "df/dd6/a20536.html#ab992d2df928b9ca2699ca48e64fb2606", null ],
-    [ "SpreadFlame", "df/dd6/a20536.html#ae801181472a8e29208a4f305fb0307f9", null ],
-    [ "UpdateAI", "df/dd6/a20536.html#a9d628d32d3519d0e7152c772e540b7ef", null ],
-    [ "CreateTime", "df/dd6/a20536.html#ae50820bb38d0ed61b8687b4023aac5b9", null ],
-    [ "events", "df/dd6/a20536.html#a89217e11f9930b336665969791fc84b9", null ],
-    [ "FlameList", "df/dd6/a20536.html#a75b218699a42ece4959d0a1fe40713d7", null ]
+    [ "boss_kologarn_armsAI", "df/dd6/a20536.html#aa647b59e1bb0abb8f71e81700063624d", null ],
+    [ "AttackStart", "df/dd6/a20536.html#ad8e25495a6559b0c4f63f0c81a4af044", null ],
+    [ "DamageTaken", "df/dd6/a20536.html#aebc4f20f398a884d5cf911746048066e", null ],
+    [ "EnterEvadeMode", "df/dd6/a20536.html#a1d39d05719d6e7730bd3d247ec1f56a7", null ],
+    [ "JustDied", "df/dd6/a20536.html#a224f30aa4703f82e1ff9439b5247398a", null ],
+    [ "MoveInLineOfSight", "df/dd6/a20536.html#a7f8167fe8edc85fc93143a8e8945bed4", null ],
+    [ "PassengerBoarded", "df/dd6/a20536.html#a105880e1f201db0d4130611f5b99d730", null ],
+    [ "Reset", "df/dd6/a20536.html#a8eec8810cdb52bacdd0c9165993dd3c2", null ],
+    [ "UpdateAI", "df/dd6/a20536.html#ad4f392b7aa918d7f038749db4ffd72b8", null ],
+    [ "_combatStarted", "df/dd6/a20536.html#a016c5497988d7ddd9f0744e83f7bf1d3", null ],
+    [ "_damageDone", "df/dd6/a20536.html#af0ad823bc5b02282d5d525d135ee3118", null ]
 ];

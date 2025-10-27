@@ -1,6 +1,9 @@
 var a23084 =
 [
-    [ "HandleScriptEffect", "d4/d3b/a23084.html#a0810dd4ad4d324c1a53e192fc99d1d35", null ],
-    [ "PrepareSpellScript", "d4/d3b/a23084.html#a0ece61d7bed3e19ee6f6175a55c0733d", null ],
-    [ "Register", "d4/d3b/a23084.html#a827cefe322562f0e8ea7cfa58b9a776b", null ]
+    [ "FilterTargets", "d4/d3b/a23084.html#aa8f0401dd004e816b8071381289116fa", null ],
+    [ "HandleTeleportUnits", "d4/d3b/a23084.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
+    [ "PrepareSpellScript", "d4/d3b/a23084.html#a47898c213cdd125714c80d327bf42d8c", null ],
+    [ "Register", "d4/d3b/a23084.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
+    [ "SetDest", "d4/d3b/a23084.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
+    [ "Validate", "d4/d3b/a23084.html#a814083360970284a325621f45e109b5b", null ]
 ];

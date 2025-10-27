@@ -1,8 +1,8 @@
 var a28328 =
 [
-    [ "Id", "d5/d76/a28328.html#a6943bf760d15b3f8af4109d131652d72", null ],
-    [ "MapId", "d5/d76/a28328.html#ab0cccd760636a3b42af693d6c483bed9", null ],
-    [ "X", "d5/d76/a28328.html#a91183890254546efeb3162173cc60dad", null ],
-    [ "Y", "d5/d76/a28328.html#a19ab4d026b45d74f006479641afbc4d3", null ],
-    [ "Z", "d5/d76/a28328.html#aaa23c59f20fc96aec148b82516f30036", null ]
+    [ "gender", "d5/d76/a28328.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
+    [ "hair_id", "d5/d76/a28328.html#af4646a9adb0a1dc18b34158de2116b84", null ],
+    [ "Id", "d5/d76/a28328.html#a05de87081cf628e806d6518eef1424e4", null ],
+    [ "race", "d5/d76/a28328.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
+    [ "type", "d5/d76/a28328.html#a289bb362ba13235c754647ba67be1e56", null ]
 ];

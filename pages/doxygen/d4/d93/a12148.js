@@ -1,6 +1,6 @@
 var a12148 =
 [
-    [ "boss_solakar_flamewreathAI", "d8/d50/a12152.html", "d8/d50/a12152" ],
-    [ "boss_solakar_flamewreath", "d4/d93/a12148.html#a0d5a9f9525303014e72cd98d45bf302f", null ],
-    [ "GetAI", "d4/d93/a12148.html#a0bd7971406392f15f68828ed217f4d06", null ]
+    [ "boss_high_interrogator_gerstahnAI", "d8/d50/a12152.html", "d8/d50/a12152" ],
+    [ "boss_high_interrogator_gerstahn", "d4/d93/a12148.html#a700eb542c041e9ca540f2676fc42aff9", null ],
+    [ "GetAI", "d4/d93/a12148.html#ab4e92847a1ce6bf50f0ae460c1a7108f", null ]
 ];

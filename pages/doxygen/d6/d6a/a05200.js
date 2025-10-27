@@ -1,9 +1,27 @@
 var a05200 =
 [
-    [ "SessionKeyGenerator", "d6/d6a/a05200.html#a8fa39e01cd3ed24e13735343ad658cbb", null ],
-    [ "Generate", "d6/d6a/a05200.html#a2162fde8dbb84fc165faedaafed706b5", null ],
-    [ "o0", "d6/d6a/a05200.html#a1eb1aafb255ccf771b0a49dcab869297", null ],
-    [ "o0it", "d6/d6a/a05200.html#a7ea5a4a796da94a2dc14570d4336c27b", null ],
-    [ "o1", "d6/d6a/a05200.html#a462354aed63797a90fc228e6399cb740", null ],
-    [ "o2", "d6/d6a/a05200.html#a617205c872f2163026d511809776a775", null ]
+    [ "EphemeralKey", "d6/d6a/a05200.html#afae4839b42283dc258817a0d300b4bca", null ],
+    [ "Salt", "d6/d6a/a05200.html#a757f8fd19ebecda921e4e42f65586f9f", null ],
+    [ "Verifier", "d6/d6a/a05200.html#ab771d05cb201bbdc3c20a5cb087a023e", null ],
+    [ "SRP6", "d6/d6a/a05200.html#a75a70b4828e40146e59263a18527a77c", null ],
+    [ "_B", "d6/d6a/a05200.html#ac55fb807e4eeb5b2d0262618901125ad", null ],
+    [ "CalculateVerifier", "d6/d6a/a05200.html#a1d61f6a3ef4605658a6f01b2f2b9a733", null ],
+    [ "CheckLogin", "d6/d6a/a05200.html#a790d7883ae0685bf2135d83edeb29121", null ],
+    [ "GetSessionVerifier", "d6/d6a/a05200.html#aa44e4e9c88fcfff3fb6f8c4b24c10ab6", null ],
+    [ "MakeRegistrationData", "d6/d6a/a05200.html#a7b6fd9e89b01f65dcc8ff4a2bef189f5", null ],
+    [ "SHA1Interleave", "d6/d6a/a05200.html#a4bea2cb781fcda13809e79165f5c9821", null ],
+    [ "VerifyChallengeResponse", "d6/d6a/a05200.html#a2270520850359c1e401ba883ef19bc66", null ],
+    [ "_b", "d6/d6a/a05200.html#ae10b48d44b72d117fdc0a8ad7b4d026f", null ],
+    [ "_g", "d6/d6a/a05200.html#ad2e325ecdd9cad99008b2663600e6180", null ],
+    [ "_I", "d6/d6a/a05200.html#adf160be38247f3335e2790c13011e8eb", null ],
+    [ "_N", "d6/d6a/a05200.html#a6467d93d9b2c57d6676c2351eb5a4e0a", null ],
+    [ "_used", "d6/d6a/a05200.html#a440a76a05a5847a081fbe35e582ee643", null ],
+    [ "_v", "d6/d6a/a05200.html#aca8df898648a196d62d0d7c2f7f9769d", null ],
+    [ "B", "d6/d6a/a05200.html#a508a8478810de9c7515ecd9311053010", null ],
+    [ "EPHEMERAL_KEY_LENGTH", "d6/d6a/a05200.html#afa40dc69a75bfd7c16f3d884c400aebb", null ],
+    [ "g", "d6/d6a/a05200.html#a99e0339e5372c12d0a68e13c892d2b8b", null ],
+    [ "N", "d6/d6a/a05200.html#a5e1619df2fd1dd9fa5ebba195c7adf2a", null ],
+    [ "s", "d6/d6a/a05200.html#adddd53dfcb2d933c6fa7fd7956f6c7c3", null ],
+    [ "SALT_LENGTH", "d6/d6a/a05200.html#add5273640d1504c69395c71d495a3deb", null ],
+    [ "VERIFIER_LENGTH", "d6/d6a/a05200.html#a3a7f44395bcbc849665897c3d7db59d5", null ]
 ];

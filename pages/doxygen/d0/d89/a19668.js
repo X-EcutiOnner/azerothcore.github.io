@@ -1,7 +1,6 @@
 var a19668 =
 [
-    [ "creature", "d0/d89/a19668.html#a55a6ee677ab51120867f542e5a5745b0", null ],
-    [ "sound", "d0/d89/a19668.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
-    [ "text", "d0/d89/a19668.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
-    [ "timer", "d0/d89/a19668.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
+    [ "HandleDamageCalc", "d0/d89/a19668.html#a71b88fbad5acbba47028dd1ff82b4836", null ],
+    [ "PrepareSpellScript", "d0/d89/a19668.html#a754da297cd5801616e24bf2d802d0b38", null ],
+    [ "Register", "d0/d89/a19668.html#a231f29ea69a354ddb2963cb4ef9a3f4e", null ]
 ];

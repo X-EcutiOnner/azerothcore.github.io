@@ -1,7 +1,8 @@
 var a11164 =
 [
-    [ "chance", "d8/da5/a11164.html#a3326edd1fa36b85b9ab7a84a6f6f9d1b", null ],
-    [ "triggeredByAura", "d8/da5/a11164.html#abb48d6093570ba9c5488f200544a1e83", null ],
-    [ "triggeredByEffIdx", "d8/da5/a11164.html#a82d752dedab39f417af225add6af1403", null ],
-    [ "triggeredSpell", "d8/da5/a11164.html#a02ac12119655f9ab82347d21cc68803a", null ]
+    [ "ServerPktHeader", "d8/da5/a11164.html#a761e294fccc02055a46bfc46656da706", null ],
+    [ "getHeaderLength", "d8/da5/a11164.html#a75ff3550b7794fed0e69bfc4d1418dee", null ],
+    [ "isLargePacket", "d8/da5/a11164.html#a4f4e13fc8e2a6ec6de70f4432f25ffe2", null ],
+    [ "header", "d8/da5/a11164.html#adc69128832b16124c284c584e7540b11", null ],
+    [ "size", "d8/da5/a11164.html#a5d5cf573cebe47a10e3f17b840c7a4e1", null ]
 ];

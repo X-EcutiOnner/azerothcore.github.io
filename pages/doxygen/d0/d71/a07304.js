@@ -1,6 +1,6 @@
 var a07304 =
 [
-    [ "_Battlegrounds", "d0/d71/a07304.html#aa48f3a9d4a51e357055a0bc60ca41d7c", null ],
-    [ "_ClientBattlegroundIds", "d0/d71/a07304.html#a0526fab23b40ac1b33ce18243ad41132", null ],
-    [ "BGFreeSlotQueue", "d0/d71/a07304.html#a49fd7eb3a472894f233d309d35d509be", null ]
+    [ "ArenaTeamFilterByTypes", "d0/d71/a07304.html#ac28ee86767c48219dbe141620c87e129", null ],
+    [ "Filter", "d0/d71/a07304.html#a7c04437788359b40db1c0d4492d51497", null ],
+    [ "_validTypes", "d0/d71/a07304.html#aa3b5ce8932b00b092813af239d83b7d1", null ]
 ];

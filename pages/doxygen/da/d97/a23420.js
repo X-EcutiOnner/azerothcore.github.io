@@ -1,5 +1,5 @@
 var a23420 =
 [
-    [ "go_main_chambers_access_panel", "da/d97/a23420.html#a30c3c20be1892b5107ef53683d593b75", null ],
-    [ "OnGossipHello", "da/d97/a23420.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
+    [ "go_strange_pool", "da/d97/a23420.html#aa44feb353ad1cb440e5b6707112af680", null ],
+    [ "OnGossipHello", "da/d97/a23420.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
 ];

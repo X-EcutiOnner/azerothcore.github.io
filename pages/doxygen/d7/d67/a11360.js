@@ -1,6 +1,8 @@
 var a11360 =
 [
-    [ "EffectCalcPeriodicHandler", "d7/d67/a11360.html#a17288ee3b2951f1f2a8dc36a598b9a27", null ],
-    [ "Call", "d7/d67/a11360.html#a6a7eeb9599a10aa4ab918a2c2456a186", null ],
-    [ "pEffectHandlerScript", "d7/d67/a11360.html#a57673f457c08edfbf7fc1877aa071721", null ]
+    [ "DirectionType", "d7/d67/a11360.html#a8491033c0286895c2d4d3280cfd529f0", null ],
+    [ "ObjectType", "d7/d67/a11360.html#a20c29be1005aa52993d4ec0a13c36f4d", null ],
+    [ "ReferenceType", "d7/d67/a11360.html#a44e310a789c4c5a288f07c9254ad389a", null ],
+    [ "SelectionCategory", "d7/d67/a11360.html#a4a42ef329b6cfcfcd7fd4ce59e8f597c", null ],
+    [ "SelectionCheckType", "d7/d67/a11360.html#a35c8d221b47de13408a0256598fa9d63", null ]
 ];

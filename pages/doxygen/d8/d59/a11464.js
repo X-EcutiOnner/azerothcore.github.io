@@ -1,7 +1,6 @@
 var a11464 =
 [
-    [ "PlayerGuid", "d8/d59/a11464.html#a629a600c48376d04293c225390f747ff", null ],
-    [ "PrimaryKey", "d8/d59/a11464.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
-    [ "StoredType", "d8/d59/a11464.html#a9bea7cf549813010b55c23417d65edc6", null ],
-    [ "TableName", "d8/d59/a11464.html#a0f308af88812c110c490c94368bda482", null ]
+    [ "BeforeHitHandler", "d8/d59/a11464.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
+    [ "Call", "d8/d59/a11464.html#a393057cca72c41e193508bf150ed0b1f", null ],
+    [ "_pBeforeHitHandlerScript", "d8/d59/a11464.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
 ];

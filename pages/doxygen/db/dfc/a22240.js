@@ -1,7 +1,7 @@
 var a22240 =
 [
-    [ "npc_engineer_heliceAI", "d2/d6f/a22244.html", "d2/d6f/a22244" ],
-    [ "npc_engineer_helice", "db/dfc/a22240.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
-    [ "GetAI", "db/dfc/a22240.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
-    [ "OnQuestAccept", "db/dfc/a22240.html#ae0979d68744372d5d4669b6f014eb123", null ]
+    [ "HandleScriptEffect", "db/dfc/a22240.html#a7b0fca053f225beda41942d8fee86383", null ],
+    [ "PrepareSpellScript", "db/dfc/a22240.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
+    [ "Register", "db/dfc/a22240.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
+    [ "Validate", "db/dfc/a22240.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
 ];

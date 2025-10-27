@@ -1,7 +1,7 @@
 var a13152 =
 [
-    [ "boss_apothecary_hummelAI", "d5/d2c/a13156.html", "d5/d2c/a13156" ],
-    [ "boss_apothecary_hummel", "d0/de7/a13152.html#af1672c0b7f67d9013e3769a7009c2ee9", null ],
-    [ "GetAI", "d0/de7/a13152.html#a87a01f4d6eaac7c5e1795133e8aa1ccd", null ],
-    [ "OnQuestReward", "d0/de7/a13152.html#a86d23ff3569e5e86b8787bb3ea7816c7", null ]
+    [ "npc_unworthy_initiate_anchorAI", "d0/de7/a13152.html#a2d1a90c4f3c5047a41c7e9f80db13a99", null ],
+    [ "GetGUID", "d0/de7/a13152.html#a83cca82e7d75231a6aa586f67dad766e", null ],
+    [ "SetGUID", "d0/de7/a13152.html#ad5cb7d502138bc067a63a32a583ee99a", null ],
+    [ "prisonerGUID", "d0/de7/a13152.html#a38a3e7e7207bb6d809d03c90e67f7742", null ]
 ];

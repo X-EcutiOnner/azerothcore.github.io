@@ -1,5 +1,5 @@
 var a27336 =
 [
-    [ "go_tablet_of_the_seven", "db/dbd/a27336.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
-    [ "OnGossipHello", "db/dbd/a27336.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
+    [ "AreaTrigger_at_last_rites", "db/dbd/a27336.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
+    [ "OnTrigger", "db/dbd/a27336.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
 ];

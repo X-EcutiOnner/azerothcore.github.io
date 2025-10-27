@@ -1,6 +1,5 @@
 var a10912 =
 [
-    [ "PetUnlearnedSpell", "d0/d00/a10912.html#aa2b125a271228aee0d942a207de170b7", null ],
-    [ "Write", "d0/d00/a10912.html#a11cf7780eba530026a0898bfafd27109", null ],
-    [ "SpellID", "d0/d00/a10912.html#adfca5feb5be2408e489edc44e9cd215b", null ]
+    [ "LFGLeave", "d0/d00/a10912.html#aba31f53e0e13c13fd96f1b6ea1d42310", null ],
+    [ "Read", "d0/d00/a10912.html#abae9c55efce73edf5edf1940cb8b61eb", null ]
 ];

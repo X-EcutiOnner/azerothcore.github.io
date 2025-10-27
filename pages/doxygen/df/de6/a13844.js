@@ -1,7 +1,10 @@
 var a13844 =
 [
-    [ "FilterTargets", "df/de6/a13844.html#aebe9055301495dd3a21736b9a2a35f31", null ],
-    [ "HandleDamageCalc", "df/de6/a13844.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
-    [ "PrepareSpellScript", "df/de6/a13844.html#a03b8e21e58988d9fc774205263c0817f", null ],
-    [ "Register", "df/de6/a13844.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
+    [ "npc_grand_magister_rommathAI", "df/de6/a13844.html#a5e9404dd8bf4b513e05daac53c076314", null ],
+    [ "DoAction", "df/de6/a13844.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
+    [ "MoveInLineOfSight", "df/de6/a13844.html#ad35b64b37915484b133bcd185a832011", null ],
+    [ "UpdateAI", "df/de6/a13844.html#ac687bd20f0ae66b21ce52c21561af417", null ],
+    [ "announced", "df/de6/a13844.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
+    [ "events", "df/de6/a13844.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
+    [ "playerGUID", "df/de6/a13844.html#ad0ac0647feb998e837a44b0a688694e9", null ]
 ];

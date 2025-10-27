@@ -1,10 +1,10 @@
 var a10260 =
 [
-    [ "ArenaTeamScript", "df/d6f/a10260.html#ab86543c6ce76ff21e4306c799b99c896", null ],
-    [ "IsDatabaseBound", "df/d6f/a10260.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
-    [ "OnGetArenaPoints", "df/d6f/a10260.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
-    [ "OnGetSlotByType", "df/d6f/a10260.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
-    [ "OnQueueIdToArenaType", "df/d6f/a10260.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
-    [ "OnSetArenaMaxPlayersPerTeam", "df/d6f/a10260.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
-    [ "OnTypeIDToQueueID", "df/d6f/a10260.html#abcdd905b695f926e503db610d80ada3c", null ]
+    [ "AchievementScript", "df/d6f/a10260.html#a85f0d7a676e7e31bc87ca64040b29489", null ],
+    [ "CanCheckCriteria", "df/d6f/a10260.html#aca4cb16b55f7990c676267b8f10b4e57", null ],
+    [ "IsCompletedCriteria", "df/d6f/a10260.html#a33d7ba1a6bf82da8e2de367553c0fb52", null ],
+    [ "IsDatabaseBound", "df/d6f/a10260.html#a9ea2ed91c281e881404c31a948de0fc9", null ],
+    [ "IsRealmCompleted", "df/d6f/a10260.html#abc54c295c1bcad45e21aed99e43a3713", null ],
+    [ "OnBeforeCheckCriteria", "df/d6f/a10260.html#afac6fc03c2ba91165fbdf2ccc5422063", null ],
+    [ "SetRealmCompleted", "df/d6f/a10260.html#acf6a63ba96da7b33a92d48a95a549d4e", null ]
 ];

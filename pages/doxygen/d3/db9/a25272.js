@@ -1,6 +1,10 @@
 var a25272 =
 [
-    [ "PrepareSpellScript", "d3/db9/a25272.html#abb178100d4e5fa4032118f86aa34127d", null ],
-    [ "Register", "d3/db9/a25272.html#a50e902cc281b909259097a8bed5651f2", null ],
-    [ "RemoveVehicleAuras", "d3/db9/a25272.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
+    [ "Load", "d3/db9/a25272.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
+    [ "OnApply", "d3/db9/a25272.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
+    [ "OnRemove", "d3/db9/a25272.html#a29834c598d6ef8299d54e48a3461e603", null ],
+    [ "PrepareAuraScript", "d3/db9/a25272.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
+    [ "Register", "d3/db9/a25272.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
+    [ "Validate", "d3/db9/a25272.html#aeaf16594f569af671d221234a4aa2c8b", null ],
+    [ "prevItem", "d3/db9/a25272.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
 ];

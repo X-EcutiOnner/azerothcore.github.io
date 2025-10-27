@@ -1,7 +1,9 @@
 var a05900 =
 [
-    [ "UpdateException", "d3/d9b/a05900.html#ace39ae1801ac7dcd055bcdce2411866e", null ],
-    [ "~UpdateException", "d3/d9b/a05900.html#a38e016e210bf287d2adc21811497c95c", null ],
-    [ "what", "d3/d9b/a05900.html#ab7bc552819bf9620dd670fb5a627b2dd", null ],
-    [ "_msg", "d3/d9b/a05900.html#a7b4ba1e0d2829249afb2922f385016b3", null ]
+    [ "SQLQueryHolderTask", "d3/d9b/a05900.html#a017ab0275ea42132bb1e4ece7111572e", null ],
+    [ "~SQLQueryHolderTask", "d3/d9b/a05900.html#a0d1122160565c8f20f9a48390352c770", null ],
+    [ "Execute", "d3/d9b/a05900.html#a1dc2cdfee574ecbb8fd7bc595ca2f170", null ],
+    [ "GetFuture", "d3/d9b/a05900.html#a73199c4e5805933c9f79091797dedc5d", null ],
+    [ "m_holder", "d3/d9b/a05900.html#a64b624b8e77c819f5b47d592edc0979d", null ],
+    [ "m_result", "d3/d9b/a05900.html#ab27ce22bdb505509662d862e92fe7e77", null ]
 ];

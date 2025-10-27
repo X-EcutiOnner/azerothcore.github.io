@@ -1,6 +1,7 @@
 var a18228 =
 [
-    [ "VileSpiritActivateEvent", "dc/d3f/a18228.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
-    [ "Execute", "dc/d3f/a18228.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
-    [ "_owner", "dc/d3f/a18228.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
+    [ "FrostwyrmLandEvent", "dc/d3f/a18228.html#a6b6a467c474a5b03be40e4d9a86eddc8", null ],
+    [ "Execute", "dc/d3f/a18228.html#a4da77796a223e6233ac6d908f7700623", null ],
+    [ "_dest", "dc/d3f/a18228.html#a7f5b4c41c459b65e30dea66f7459a7e9", null ],
+    [ "_owner", "dc/d3f/a18228.html#a6336050092606ebb27a180abff55dfa2", null ]
 ];

@@ -1,6 +1,6 @@
 var a24228 =
 [
-    [ "npcs_flanis_swiftwing_and_kagrosh", "d7/d18/a24228.html#aa95eceea94521947bd443805c8ddb52d", null ],
-    [ "OnGossipHello", "d7/d18/a24228.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
-    [ "OnGossipSelect", "d7/d18/a24228.html#aff34165955ba93e1fcd2b9731894d871", null ]
+    [ "npc_ancestral_wolfAI", "d2/ddd/a24232.html", "d2/ddd/a24232" ],
+    [ "npc_ancestral_wolf", "d7/d18/a24228.html#a7cadf2848a086db63792f8068ee9463d", null ],
+    [ "GetAI", "d7/d18/a24228.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
 ];

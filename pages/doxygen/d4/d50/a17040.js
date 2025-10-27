@@ -1,9 +1,22 @@
 var a17040 =
 [
-    [ "FilterTargets", "d4/d50/a17040.html#aefebf504286394cf3caffa566543e4a4", null ],
-    [ "FilterTargetsNext", "d4/d50/a17040.html#a356b6ace97d07df22a232d2287072b5e", null ],
-    [ "PrepareSpellScript", "d4/d50/a17040.html#a893e0eb620e19909b2f2a715ea946f6b", null ],
-    [ "Register", "d4/d50/a17040.html#a962651920a94190f4864a3b1c7fcd1d3", null ],
-    [ "Unload", "d4/d50/a17040.html#a6adc9b6ca86da6cd9465fa0da150dcca", null ],
-    [ "targetList", "d4/d50/a17040.html#a3c839185938e0b67b97f652d1d15e213", null ]
+    [ "instance_forge_of_souls_InstanceScript", "d4/d50/a17040.html#ae39e116a01c17592037e12185a03201a", null ],
+    [ "CheckAchievementCriteriaMeet", "d4/d50/a17040.html#a534c7f97e7425160f9a2b1e555d0aa29", null ],
+    [ "GetGuidData", "d4/d50/a17040.html#aa2e295b46c826d701dafb2e6635ce723", null ],
+    [ "HandleOutro", "d4/d50/a17040.html#aadf4a99e89f354901ff63c600725b07f", null ],
+    [ "Initialize", "d4/d50/a17040.html#af0f6d3b0a9a5659affc9812de90fc8ae", null ],
+    [ "IsEncounterInProgress", "d4/d50/a17040.html#a698bfce6741edaccdbd32b1215def039", null ],
+    [ "OnCreatureCreate", "d4/d50/a17040.html#a7570ef3ca74178fec80c5018cbecf42a", null ],
+    [ "OnPlayerEnter", "d4/d50/a17040.html#aac223f0ae25071d3323052c52c887636", null ],
+    [ "ReadSaveDataMore", "d4/d50/a17040.html#a590164fab67dd90d63045671d22143c5", null ],
+    [ "SetData", "d4/d50/a17040.html#a7187a50cebadcf77d74c62b053830efb", null ],
+    [ "WriteSaveDataMore", "d4/d50/a17040.html#a1a3006add0aed0572d8b784a449fc75e", null ],
+    [ "m_auiEncounter", "d4/d50/a17040.html#ad5c847c647e45d23fa6df4ca66264c57", null ],
+    [ "NPC_BronjahmGUID", "d4/d50/a17040.html#affae42118c88fee6e7a300a45d74e63a", null ],
+    [ "NPC_DevourerGUID", "d4/d50/a17040.html#ae1da7da294210fd77199f98b23d3b665", null ],
+    [ "NPC_GuardFirstGUID", "d4/d50/a17040.html#acf04c40ff5c4b09fcafc5b5b8328eaab", null ],
+    [ "NPC_GuardSecondGUID", "d4/d50/a17040.html#aa2d81eabe8cf50f3c42b075581e4d6dd", null ],
+    [ "NPC_LeaderFirstGUID", "d4/d50/a17040.html#a10b3c39fb3c038932ddcff1ddfc4ab85", null ],
+    [ "NPC_LeaderSecondGUID", "d4/d50/a17040.html#a252639143b34c38ef106192cb2399b30", null ],
+    [ "str_data", "d4/d50/a17040.html#ad540fbbabef46015fb1730c5b6477b92", null ]
 ];

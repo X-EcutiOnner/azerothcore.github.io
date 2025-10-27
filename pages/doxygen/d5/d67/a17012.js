@@ -1,5 +1,8 @@
 var a17012 =
 [
-    [ "at_hor_battered_hilt_start", "d5/d67/a17012.html#a1b9e6d892525cf28d71757f7861e1d1a", null ],
-    [ "OnTrigger", "d5/d67/a17012.html#a5d2d0a05b17dafe7ebb5447cfd168f69", null ]
+    [ "npc_fos_leaderAI", "d1/d7f/a17016.html", "d1/d7f/a17016" ],
+    [ "npc_fos_leader", "d5/d67/a17012.html#a4223072bc180e990ff9e01bf772def5b", null ],
+    [ "GetAI", "d5/d67/a17012.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
+    [ "OnGossipHello", "d5/d67/a17012.html#a3858054505d439902624378b9355f40d", null ],
+    [ "OnGossipSelect", "d5/d67/a17012.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
 ];

@@ -1,6 +1,8 @@
 var a26540 =
 [
-    [ "PrepareSpellScript", "db/d33/a26540.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
-    [ "Register", "db/d33/a26540.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
-    [ "SetDest", "db/d33/a26540.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
+    [ "HandleDummy", "db/d33/a26540.html#ae396c96647e36da357bdc70e11e3145f", null ],
+    [ "Load", "db/d33/a26540.html#a2b4811bf7e60361e13bc382e62173cee", null ],
+    [ "PrepareSpellScript", "db/d33/a26540.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
+    [ "Register", "db/d33/a26540.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
+    [ "count", "db/d33/a26540.html#a73358b2272ad12faef006b1ef633cac0", null ]
 ];

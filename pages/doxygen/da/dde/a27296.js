@@ -1,6 +1,5 @@
 var a27296 =
 [
-    [ "go_brewfest_musicAI", "dd/d0f/a27300.html", "dd/d0f/a27300" ],
-    [ "go_brewfest_music", "da/dde/a27296.html#a787963a5ee591933d62fdb52911f9a77", null ],
-    [ "GetAI", "da/dde/a27296.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
+    [ "achievement_not_even_a_scratch", "da/dde/a27296.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "da/dde/a27296.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

@@ -1,7 +1,8 @@
 var a22120 =
 [
-    [ "npc_tirions_gambit_tirionAI", "dd/dc4/a22124.html", "dd/dc4/a22124" ],
-    [ "npc_tirions_gambit_tirion", "d6/d2b/a22120.html#ad52abd46ccdd3b4409671679434c193c", null ],
-    [ "GetAI", "d6/d2b/a22120.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
-    [ "OnGossipSelect", "d6/d2b/a22120.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
+    [ "npc_ravenous_worgAI", "d6/d2b/a22120.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "d6/d2b/a22120.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "d6/d2b/a22120.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "d6/d2b/a22120.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "d6/d2b/a22120.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

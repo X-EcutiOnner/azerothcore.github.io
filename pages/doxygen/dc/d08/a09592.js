@@ -1,9 +1,12 @@
 var a09592 =
 [
-    [ "LoginQueryHolder", "dc/d08/a09592.html#a0e1a9e1b505ba40d08daee432eaa40c1", null ],
-    [ "GetAccountId", "dc/d08/a09592.html#ac44ea5d53fa90dae955bfaa3f472ecea", null ],
-    [ "GetGuid", "dc/d08/a09592.html#a8cdce5befc3b7f8727eef78ab1f768a2", null ],
-    [ "Initialize", "dc/d08/a09592.html#ae21aca0c9ccc627e084b4a535b3f5774", null ],
-    [ "m_accountId", "dc/d08/a09592.html#abc8056182803af44a062fe6153fdd009", null ],
-    [ "m_guid", "dc/d08/a09592.html#ab4696408b2e649dcdaae0bc4330c0b9e", null ]
+    [ "LogEntry", "dc/d08/a09592.html#af61604a7dc0cc4da315a09fa5b207f37", null ],
+    [ "LogEntry", "dc/d08/a09592.html#aba3f6f501c59e356166abe71082c421b", null ],
+    [ "~LogEntry", "dc/d08/a09592.html#a3c66b8a7be1800c5a9e1dc15aab6d3e9", null ],
+    [ "GetGUID", "dc/d08/a09592.html#a7af4eac577f8da07540f81e185b2ad49", null ],
+    [ "GetTimestamp", "dc/d08/a09592.html#a643c92439463707671bb08b72bf3a447", null ],
+    [ "SaveToDB", "dc/d08/a09592.html#a1c00aa88973423a1c112c2776a14e78f", null ],
+    [ "m_guid", "dc/d08/a09592.html#a75754f42f8a202a9a319c86515a3f0dd", null ],
+    [ "m_guildId", "dc/d08/a09592.html#a89e0192732a43dc44aff3730bc5ad445", null ],
+    [ "m_timestamp", "dc/d08/a09592.html#ad19e7364e1beba61c9b7a4383b6d42c6", null ]
 ];

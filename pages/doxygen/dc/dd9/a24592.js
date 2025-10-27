@@ -1,10 +1,8 @@
 var a24592 =
 [
-    [ "CheckProc", "dc/dd9/a24592.html#a7bab1f02db05ce2c7b52ad9a2f5f6f02", null ],
-    [ "HandleProc", "dc/dd9/a24592.html#ac90b54e946baa80589cab2f66aca1f5f", null ],
-    [ "Load", "dc/dd9/a24592.html#ada85014de8a3602e83912d5e1a0165c5", null ],
-    [ "PrepareAuraScript", "dc/dd9/a24592.html#a769f2b77b2972c40e3e43e70d2ff5820", null ],
-    [ "Register", "dc/dd9/a24592.html#ab8a35292c0d4d392d9dd9db438d59cc4", null ],
-    [ "Validate", "dc/dd9/a24592.html#aba8bd9ae5ec9e92eccb04163114c4802", null ],
-    [ "_procTarget", "dc/dd9/a24592.html#a0c3ba33c7117195dac4c1df3a6e8529a", null ]
+    [ "npc_pet_gen_gnomish_flame_turret", "dc/dd9/a24592.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
+    [ "AttackStart", "dc/dd9/a24592.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
+    [ "Reset", "dc/dd9/a24592.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
+    [ "UpdateAI", "dc/dd9/a24592.html#ae3db08323af4b82009ffd660b3e78474", null ],
+    [ "checkTimer", "dc/dd9/a24592.html#ac6705f4980ca561a5fd33c2917488439", null ]
 ];

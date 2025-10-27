@@ -1,10 +1,9 @@
 var a17664 =
 [
-    [ "npc_gunship_gunnerAI", "d9/dea/a17664.html#a3001e77b4a20feb0eee5a9605f13ba81", null ],
-    [ "AttackStart", "d9/dea/a17664.html#ac21b90c1892c15882794384517ef9fd2", null ],
-    [ "CanAIAttack", "d9/dea/a17664.html#aef351305ef34fa316809697125a3bc9a", null ],
-    [ "MovementInform", "d9/dea/a17664.html#a94d81b882dd59dd00b0952b45d61a7cb", null ],
-    [ "UpdateAI", "d9/dea/a17664.html#a8fbb601c3accdf3b0494d317bc0d5733", null ],
-    [ "anyValid", "d9/dea/a17664.html#a00c7dc23618c60826241133a0067c1c4", null ],
-    [ "checkTimer", "d9/dea/a17664.html#af80cee9c2c86fa8b4c643d262042ba3c", null ]
+    [ "CheckProc", "d9/dea/a17664.html#a13426f7a45e9434f980b42f174b22da8", null ],
+    [ "HandlePeriodicTick", "d9/dea/a17664.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
+    [ "HandleProc", "d9/dea/a17664.html#abf744d64dae5835bff3877eeaa919af3", null ],
+    [ "PrepareAuraScript", "d9/dea/a17664.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
+    [ "Register", "d9/dea/a17664.html#a1b72c10256365de71b8f9fadf5886338", null ],
+    [ "Validate", "d9/dea/a17664.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
 ];

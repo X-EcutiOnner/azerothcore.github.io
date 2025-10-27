@@ -1,6 +1,6 @@
 var a15648 =
 [
-    [ "npc_aquementasAI", "de/dbd/a15652.html", "de/dbd/a15652" ],
-    [ "npc_aquementas", "db/d71/a15648.html#a81d0b010c2aef0ea329ff7656b76cbe5", null ],
-    [ "GetAI", "db/d71/a15648.html#a8a071b3073d69306feb84aca347a22c8", null ]
+    [ "npc_tiger_matriarchAI", "de/dbd/a15652.html", "de/dbd/a15652" ],
+    [ "npc_tiger_matriarch", "db/d71/a15648.html#a05a08bfa64c428213a4b534a982afb71", null ],
+    [ "GetAI", "db/d71/a15648.html#a6d5664ca125a775c2d71f322f5a57655", null ]
 ];

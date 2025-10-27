@@ -1,9 +1,20 @@
 var a05580 =
 [
-    [ "TimeTracker", "d4/d33/a05580.html#a2b9f585de223c1051136b10b03a27684", null ],
-    [ "GetExpiry", "d4/d33/a05580.html#acfc0d5503c1f5ec4d0bdc103d70dfbb3", null ],
-    [ "Passed", "d4/d33/a05580.html#a9a13002766153882150b1985a84013ad", null ],
-    [ "Reset", "d4/d33/a05580.html#a798cf19378c4de243fac01d7d51a3572", null ],
-    [ "Update", "d4/d33/a05580.html#a2009e98647f04c20cb3064e1e9e9a611", null ],
-    [ "i_expiryTime", "d4/d33/a05580.html#adf2e301fdefb32008f14ced5f1c37f33", null ]
+    [ "AsyncProcessResultImplementation", "d4/d33/a05580.html#a1af6678b7ebf6402df0961cac5ba9ffe", null ],
+    [ "AsyncProcessResultImplementation", "d4/d33/a05580.html#a6b2ff159a1bfcaf531d0345dbc93c2bd", null ],
+    [ "AsyncProcessResultImplementation", "d4/d33/a05580.html#acde599a3b98f50b0432b0a067a00ecf8", null ],
+    [ "GetFutureResult", "d4/d33/a05580.html#a202ec00d726449fea26b3ee0d5bd7025", null ],
+    [ "operator=", "d4/d33/a05580.html#a4fb3bbb8c65e0baee35fc94cb17b1f3f", null ],
+    [ "operator=", "d4/d33/a05580.html#a82f3834506db5ed9eda323390bbdf36a", null ],
+    [ "SetFuture", "d4/d33/a05580.html#a1619a398624976e15c7926b57c9484bc", null ],
+    [ "StartProcess", "d4/d33/a05580.html#a908c5a545ab501f93a8a2525bbad6317", null ],
+    [ "Terminate", "d4/d33/a05580.html#a3ddce3d7de8eda350636f0ea8ddfde53", null ],
+    [ "args", "d4/d33/a05580.html#a2fe2cc9a0a02e6fc8ba383ecccf18060", null ],
+    [ "executable", "d4/d33/a05580.html#a7fbbe1d2ede5eac4f7bd814d4bfe8983", null ],
+    [ "input_file", "d4/d33/a05580.html#a30ac6b4cb91d8f4e63f8ff0ba47f7c9c", null ],
+    [ "is_secure", "d4/d33/a05580.html#a4a8891a13f997d26b6daf9eead76f219", null ],
+    [ "logger", "d4/d33/a05580.html#a5d60fa7b6e4277f2dfc8d743ea756ff2", null ],
+    [ "my_child", "d4/d33/a05580.html#a7aaa7f31e23947aca109871572875f4d", null ],
+    [ "result", "d4/d33/a05580.html#a9a8efa6f7ad48797c28691c08b4ede9b", null ],
+    [ "was_terminated", "d4/d33/a05580.html#a9868b0110f4db8a1d099243003c83753", null ]
 ];

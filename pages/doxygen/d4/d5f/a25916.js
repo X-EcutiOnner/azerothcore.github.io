@@ -1,7 +1,6 @@
 var a25916 =
 [
-    [ "HandleDummy", "d4/d5f/a25916.html#a884ab3487725dbdd5b069f3a45b7164b", null ],
-    [ "PrepareSpellScript", "d4/d5f/a25916.html#a6ad225a1bcd7bdad7ee1751766e7c129", null ],
-    [ "Register", "d4/d5f/a25916.html#a0877a96dde66adb988628ebb93fe15b6", null ],
-    [ "Validate", "d4/d5f/a25916.html#ad784bb6b5d3588965492b102f2b2898e", null ]
+    [ "PartyTimeEmoteEvent", "d4/d5f/a25916.html#a525efd58fc8465658208058e6dc5d31c", null ],
+    [ "Execute", "d4/d5f/a25916.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
+    [ "_player", "d4/d5f/a25916.html#a61ecb44828c6e4c868def8899791feb3", null ]
 ];

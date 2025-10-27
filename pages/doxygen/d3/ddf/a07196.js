@@ -1,10 +1,14 @@
 var a07196 =
 [
-    [ "CreatureBottom", "d3/ddf/a07196.html#aaa8fe59aa58bf02934bf87f636582637", null ],
-    [ "CreatureTop", "d3/ddf/a07196.html#a98a71fcf0d3a1f98ba4dab56d1a3c64b", null ],
-    [ "GameObject", "d3/ddf/a07196.html#abc26a328692fc048d9040c44f360f4c4", null ],
-    [ "nbCreatureBottom", "d3/ddf/a07196.html#ade8af6bff39a72f7052b7b0db14b207d", null ],
-    [ "nbCreatureTop", "d3/ddf/a07196.html#a38ab7536e0682efd7080b823569d504b", null ],
-    [ "nbObject", "d3/ddf/a07196.html#ad1e431e7205aee7fa7f8f0dd9a155c97", null ],
-    [ "towerEntry", "d3/ddf/a07196.html#a1c0edf97a599773b688954f2e966e794", null ]
+    [ "AutobroadcastsMap", "d3/ddf/a07196.html#a9064ad588e8a02d9b60974af4da1c7cf", null ],
+    [ "AutobroadcastsWeightMap", "d3/ddf/a07196.html#a75e5b978794a7010c8d9d3390d8690f9", null ],
+    [ "instance", "d3/ddf/a07196.html#aead196df7f590d43c89f179ca0bd4a68", null ],
+    [ "LoadAutobroadcasts", "d3/ddf/a07196.html#a48748969b122aee47d03697b6e9a2ee1", null ],
+    [ "LoadAutobroadcastsLocalized", "d3/ddf/a07196.html#a105fa2c33da0662785551027430d40c6", null ],
+    [ "SendAutobroadcasts", "d3/ddf/a07196.html#a225907be4944713af11c312185c8aea7", null ],
+    [ "SendNotificationAnnouncement", "d3/ddf/a07196.html#ace584bb6b66c8944e1405ec0af686d3a", null ],
+    [ "SendWorldAnnouncement", "d3/ddf/a07196.html#a8be8fd36f843ffd435989c99ce0f9229", null ],
+    [ "_announceType", "d3/ddf/a07196.html#a3889edc4001e26519d9df042a8b477fc", null ],
+    [ "_autobroadcasts", "d3/ddf/a07196.html#a06d42010fea307a03aac0ca4e6886f1d", null ],
+    [ "_autobroadcastsWeights", "d3/ddf/a07196.html#aadbd8ca926a64be4fbbe832fd633ee88", null ]
 ];

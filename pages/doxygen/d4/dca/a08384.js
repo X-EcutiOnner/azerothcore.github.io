@@ -1,8 +1,6 @@
 var a08384 =
 [
-    [ "Reset", "d4/dca/a08384.html#a28a5bd110553457c86d7f77e78041713", null ],
-    [ "cosAngle", "d4/dca/a08384.html#a37f49fc816f37dff8c1947f4de7f04d5", null ],
-    [ "sinAngle", "d4/dca/a08384.html#af2a184b7c8e7f324607a0b7468bcb8f6", null ],
-    [ "xyspeed", "d4/dca/a08384.html#a6fada60d677d89580c3a718d42a75d17", null ],
-    [ "zspeed", "d4/dca/a08384.html#ad0a5a36aeabc9b8d8ea27cecae30ae31", null ]
+    [ "DamageMax", "d4/dca/a08384.html#afc0bd7960848f6434c182a3fadc1e256", null ],
+    [ "DamageMin", "d4/dca/a08384.html#acbab962cbc25ad032c97216feac281bb", null ],
+    [ "DamageType", "d4/dca/a08384.html#aecdcc73f2cb30ef5cc149607e01bbe34", null ]
 ];

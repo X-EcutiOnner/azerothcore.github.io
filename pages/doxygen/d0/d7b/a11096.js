@@ -1,8 +1,6 @@
 var a11096 =
 [
-    [ "SkillExtraItemEntry", "d0/d7b/a11096.html#a3f7a8bc0b81407e7d5567c7da3e65ec5", null ],
-    [ "SkillExtraItemEntry", "d0/d7b/a11096.html#a39a44cb09912cb0a15a5dd3b18787d16", null ],
-    [ "additionalCreateChance", "d0/d7b/a11096.html#a299d886468e9caf22f9d6ce80a64c247", null ],
-    [ "newMaxOrEntry", "d0/d7b/a11096.html#adfda967d36154b039495f0b289a5c9d1", null ],
-    [ "requiredSpecialization", "d0/d7b/a11096.html#a0ba0ba6f012a10b717ca4e6c2f46cf26", null ]
+    [ "TotemDestroyed", "d0/d7b/a11096.html#a3bcaa030b2c15d54617564cf0f5e4c36", null ],
+    [ "Read", "d0/d7b/a11096.html#a0bc6b5a33024d4fd8bc8dd4cfa25d3e2", null ],
+    [ "Slot", "d0/d7b/a11096.html#a41eebde65aa696c2dec812da0aeab633", null ]
 ];

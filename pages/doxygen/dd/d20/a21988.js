@@ -1,7 +1,6 @@
 var a21988 =
 [
-    [ "npc_amberpine_woodsmanAI", "dd/d20/a21988.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
-    [ "Reset", "dd/d20/a21988.html#a8da613c7bbaadf331c95667e7a361702", null ],
-    [ "UpdateAI", "dd/d20/a21988.html#a64dbf41424a710c400d51507f6457b41", null ],
-    [ "_events", "dd/d20/a21988.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
+    [ "HandleSendEvent", "dd/d20/a21988.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
+    [ "PrepareSpellScript", "dd/d20/a21988.html#aa632d381ac415feaf226f55fc2cd8520", null ],
+    [ "Register", "dd/d20/a21988.html#a72673f5054cf269cc8da511441f7bd66", null ]
 ];

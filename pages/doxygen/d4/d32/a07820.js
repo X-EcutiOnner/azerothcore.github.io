@@ -1,7 +1,8 @@
 var a07820 =
 [
-    [ "HyperlinkDataTokenizer", "d4/d32/a07820.html#a1fb14152c61205ce31fcf2bfeaeceeaf", null ],
-    [ "IsEmpty", "d4/d32/a07820.html#a4f74f1647780c9f2769443dbfeba6a7e", null ],
-    [ "TryConsumeTo", "d4/d32/a07820.html#a42e18263129c27149bf9a91b3dc42418", null ],
-    [ "_str", "d4/d32/a07820.html#ab497f7f0b3cab4b8c4813ba443ff1c91", null ]
+    [ "CurValue", "d4/d32/a07820.html#a110169c51e3dac271b4ba6d10bbbadac", null ],
+    [ "KnownRecipes", "d4/d32/a07820.html#a1a44c7eb6dbf3a16e8d2db47821bb39a", null ],
+    [ "MaxValue", "d4/d32/a07820.html#a6c48d3a6afddf895b97ec9b964dfd86c", null ],
+    [ "Owner", "d4/d32/a07820.html#a085e0aa9f79129920af96046c4fc29b1", null ],
+    [ "Spell", "d4/d32/a07820.html#a2b0ca4fecc7ba965a329afa6a184cf07", null ]
 ];

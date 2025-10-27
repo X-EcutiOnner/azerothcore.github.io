@@ -1,12 +1,7 @@
 var a13672 =
 [
-    [ "npc_corporal_keeshanAI", "dd/dc9/a13672.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
-    [ "Reset", "dd/dc9/a13672.html#a311488932a3de9153490d41e3fae92fb", null ],
-    [ "sQuestAccept", "dd/dc9/a13672.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
-    [ "UpdateAI", "dd/dc9/a13672.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
-    [ "WaypointReached", "dd/dc9/a13672.html#a3edc9ab54068e47f955116db70454f6c", null ],
-    [ "mockingBlowTimer", "dd/dc9/a13672.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
-    [ "phase", "dd/dc9/a13672.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
-    [ "shieldBashTimer", "dd/dc9/a13672.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
-    [ "timer", "dd/dc9/a13672.html#a3107368f175aa7f4e8c405248ef917df", null ]
+    [ "PeriodicTick", "dd/dc9/a13672.html#acca46d585d06d461f735cddb6075b3b1", null ],
+    [ "PrepareAuraScript", "dd/dc9/a13672.html#abd7382ab22efd3d82c4f00745255d024", null ],
+    [ "Register", "dd/dc9/a13672.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
+    [ "Validate", "dd/dc9/a13672.html#acb31ba162452a30ff0c208829560f9fd", null ]
 ];

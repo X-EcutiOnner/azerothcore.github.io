@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: SQLElementData Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('d2/dde/a05923.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('db/dbf/a05920.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,30 +104,63 @@ $(document).ready(function(){initNavTree('d2/dde/a05923.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">TransactionBase Member List</div></div>
+  <div class="summary">
+<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="../../de/d82/a05917.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">SQLElementData Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p>This is the complete list of members for <a class="el" href="../../d2/dde/a05923.html">TransactionBase</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/dde/a05923.html#aa82af96128bfcee997423a54396d40d4">_cleanedUp</a></td><td class="entry"><a class="el" href="../../d2/dde/a05923.html">TransactionBase</a></td><td class="entry"><span class="mlabel">private</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/dde/a05923.html#a867b7a92080104278aef5fb4975a4a52">Append</a>(std::string_view sql)</td><td class="entry"><a class="el" href="../../d2/dde/a05923.html">TransactionBase</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/dde/a05923.html#aa0a81814abe26d456018c3bc9153cd4d">Append</a>(std::string_view sql, Args &amp;&amp;... args)</td><td class="entry"><a class="el" href="../../d2/dde/a05923.html">TransactionBase</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/dde/a05923.html#a8e099a4f8775b5e5e3b95ad0273a716f">AppendPreparedStatement</a>(PreparedStatementBase *statement)</td><td class="entry"><a class="el" href="../../d2/dde/a05923.html">TransactionBase</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/dde/a05923.html#a35e0ce11de325a1b286d90a2936d4aa3">Cleanup</a>()</td><td class="entry"><a class="el" href="../../d2/dde/a05923.html">TransactionBase</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/dde/a05923.html#a5d89109a06fa4fca3057b99bbfa84e58">DatabaseWorkerPool</a></td><td class="entry"><a class="el" href="../../d2/dde/a05923.html">TransactionBase</a></td><td class="entry"><span class="mlabel">friend</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/dde/a05923.html#a261ad9d7423562ccbe2cac6d75c203bd">GetSize</a>() const</td><td class="entry"><a class="el" href="../../d2/dde/a05923.html">TransactionBase</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/dde/a05923.html#a156f1a8316358c05285778e5734eade1">m_queries</a></td><td class="entry"><a class="el" href="../../d2/dde/a05923.html">TransactionBase</a></td><td class="entry"><span class="mlabel">protected</span></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/dde/a05923.html#a06fa417f69e0a67da8f249333b1d189d">MySQLConnection</a></td><td class="entry"><a class="el" href="../../d2/dde/a05923.html">TransactionBase</a></td><td class="entry"><span class="mlabel">friend</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/dde/a05923.html#a663d13ba0b22e0711d135073ff80ee47">TransactionBase</a>()=default</td><td class="entry"><a class="el" href="../../d2/dde/a05923.html">TransactionBase</a></td><td class="entry"></td></tr>
-  <tr class="even"><td class="entry"><a class="el" href="../../d2/dde/a05923.html#a377add6d6b5e34e774d2497d58f4a180">TransactionTask</a></td><td class="entry"><a class="el" href="../../d2/dde/a05923.html">TransactionBase</a></td><td class="entry"><span class="mlabel">friend</span></td></tr>
-  <tr class="odd"><td class="entry"><a class="el" href="../../d2/dde/a05923.html#a6ce7e6ef81bb466463bace35cdd49476">~TransactionBase</a>()</td><td class="entry"><a class="el" href="../../d2/dde/a05923.html">TransactionBase</a></td><td class="entry"><span class="mlabel">inline</span><span class="mlabel">virtual</span></td></tr>
-</table></div><!-- contents -->
+<p><code>#include &quot;<a class="el" href="../../">SQLOperation.h</a>&quot;</code></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:ae5400b2932fe1a8c514c38fb6bab392f"><td class="memItemLeft" align="right" valign="top">std::variant&lt; <a class="el" href="../../d8/d73/a05872.html">PreparedStatementBase</a> *, std::string &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbf/a05920.html#ae5400b2932fe1a8c514c38fb6bab392f">element</a></td></tr>
+<tr class="separator:ae5400b2932fe1a8c514c38fb6bab392f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afb3f8dc82da740b1aaae165cb6a5b218"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/df2/a03986.html#abb4a6cfcce013f18b29779f1f435e627">SQLElementDataType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dbf/a05920.html#afb3f8dc82da740b1aaae165cb6a5b218">type</a></td></tr>
+<tr class="separator:afb3f8dc82da740b1aaae165cb6a5b218"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="ae5400b2932fe1a8c514c38fb6bab392f" name="ae5400b2932fe1a8c514c38fb6bab392f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae5400b2932fe1a8c514c38fb6bab392f">&#9670;&#160;</a></span>element</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::variant&lt;<a class="el" href="../../d8/d73/a05872.html">PreparedStatementBase</a>*, std::string&gt; SQLElementData::element</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00033">TransactionBase::Append()</a>, and <a class="el" href="../../#l00033">Transaction&lt; T &gt;::Append()</a>.</p>
+
+</div>
+</div>
+<a id="afb3f8dc82da740b1aaae165cb6a5b218" name="afb3f8dc82da740b1aaae165cb6a5b218"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afb3f8dc82da740b1aaae165cb6a5b218">&#9670;&#160;</a></span>type</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d7/df2/a03986.html#abb4a6cfcce013f18b29779f1f435e627">SQLElementDataType</a> SQLElementData::type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00033">TransactionBase::Append()</a>, and <a class="el" href="../../#l00033">Transaction&lt; T &gt;::Append()</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Oct 20 2025 20:48:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../db/dbf/a05920.html">SQLElementData</a></li>
+    <li class="footer">Generated on Mon Oct 27 2025 21:16:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

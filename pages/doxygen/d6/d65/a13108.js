@@ -1,6 +1,6 @@
 var a13108 =
 [
-    [ "boss_kirtonos_the_heraldAI", "da/d52/a13112.html", "da/d52/a13112" ],
-    [ "boss_kirtonos_the_herald", "d6/d65/a13108.html#a0e81153a0da7910cda4c9b6d32544318", null ],
-    [ "GetAI", "d6/d65/a13108.html#aa5e0fe2386aae52fd53ff309282db652", null ]
+    [ "CheckRequirement", "d6/d65/a13108.html#a31d69034f463d552afa4063bf89271da", null ],
+    [ "PrepareSpellScript", "d6/d65/a13108.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
+    [ "Register", "d6/d65/a13108.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
 ];

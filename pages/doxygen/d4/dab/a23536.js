@@ -1,11 +1,6 @@
 var a23536 =
 [
-    [ "boss_kiggler_the_crazed", "d4/dab/a23536.html#a6f6cd74a8d2b12809f2710f784340fda", null ],
-    [ "AttackStart", "d4/dab/a23536.html#a47c18487637dcb911852573e3aec85a2", null ],
-    [ "JustDied", "d4/dab/a23536.html#acf82f68ccfeabd33bc387dbe7ea0e997", null ],
-    [ "JustEngagedWith", "d4/dab/a23536.html#acd10951a5b148579d0bd4196cc2e686e", null ],
-    [ "Reset", "d4/dab/a23536.html#a3bd8ca2488b2db298a198038a849189e", null ],
-    [ "UpdateAI", "d4/dab/a23536.html#a16e2b767ca4b05eba79726ccb6e11204", null ],
-    [ "_scheduler", "d4/dab/a23536.html#af041c254910df663a03fcc815db635da", null ],
-    [ "instance", "d4/dab/a23536.html#aa78db443f19814c66b977fe008de74fa", null ]
+    [ "HandleScript", "d4/dab/a23536.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
+    [ "PrepareSpellScript", "d4/dab/a23536.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
+    [ "Register", "d4/dab/a23536.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
 ];

@@ -1,8 +1,8 @@
 var a02441 =
 [
-    [ "boss_kazrogal", "d4/dc7/a14871.html", "d4/dc7/a14871" ],
-    [ "spell_mark_of_kazrogal", "d3/dca/a14875.html", "d3/dca/a14875" ],
-    [ "spell_mark_of_kazrogal_aura", "d9/db4/a14879.html", "d9/db4/a14879" ],
+    [ "boss_kazrogal", "d0/d97/a14872.html", "d0/d97/a14872" ],
+    [ "spell_mark_of_kazrogal", "da/d40/a14876.html", "da/d40/a14876" ],
+    [ "spell_mark_of_kazrogal_aura", "dc/dda/a14880.html", "dc/dda/a14880" ],
     [ "Sounds", "d9/dd6/a02441.html#a378d5c1c6cef9f24f253a041e207663c", [
       [ "SOUND_ONDEATH", "d9/dd6/a02441.html#a378d5c1c6cef9f24f253a041e207663ca58cd7625c6ee6018ac12a602b0cdbc9c", null ],
       [ "SOUND_VK_AGGRO", "d3/d9c/a02336.html#a378d5c1c6cef9f24f253a041e207663ca0edcc266fe5c93b2c8928b48e4e6743e", null ],

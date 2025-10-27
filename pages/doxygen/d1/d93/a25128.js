@@ -1,6 +1,5 @@
 var a25128 =
 [
-    [ "CheckSeat", "d1/d93/a25128.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
-    [ "PrepareSpellScript", "d1/d93/a25128.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
-    [ "Register", "d1/d93/a25128.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
+    [ "PrepareSpellScript", "d1/d93/a25128.html#a054677572d74a740f1c14715608f7b1b", null ],
+    [ "Register", "d1/d93/a25128.html#ae6556b58f0a4e6d3762bc3dc4c1643b3", null ]
 ];

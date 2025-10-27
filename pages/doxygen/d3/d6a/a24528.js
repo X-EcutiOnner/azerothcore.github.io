@@ -1,6 +1,6 @@
 var a24528 =
 [
-    [ "HandleSummon", "d3/d6a/a24528.html#a00e265d830ea3e8a0a1952984c438071", null ],
-    [ "PrepareSpellScript", "d3/d6a/a24528.html#a96df13b19964b6e89babb312465b90bc", null ],
-    [ "Register", "d3/d6a/a24528.html#a5341e4ddf1b1ef94099c337114164ba8", null ]
+    [ "npc_unkor_the_ruthlessAI", "dc/d7b/a24532.html", "dc/d7b/a24532" ],
+    [ "npc_unkor_the_ruthless", "d3/d6a/a24528.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
+    [ "GetAI", "d3/d6a/a24528.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
 ];

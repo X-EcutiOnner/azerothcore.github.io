@@ -1,6 +1,7 @@
 var a16592 =
 [
-    [ "npc_snobold_vassalAI", "de/dcc/a16596.html", "de/dcc/a16596" ],
-    [ "npc_snobold_vassal", "da/d67/a16592.html#a243cefbc15931ebbb555936d54583314", null ],
-    [ "GetAI", "da/d67/a16592.html#a77976a59f600591454fac197ded613ef", null ]
+    [ "HandleAfterHit", "da/d67/a16592.html#a6fc446385881ddb4c94de73199649816", null ],
+    [ "PrepareSpellScript", "da/d67/a16592.html#acaed5d5902194f8ba9d2b286cd47d8d0", null ],
+    [ "Register", "da/d67/a16592.html#aaae368b2f647aa6a56827550e50dafe1", null ],
+    [ "Validate", "da/d67/a16592.html#ad4c84071b538b657fa1302982f8799b4", null ]
 ];

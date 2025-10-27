@@ -1,7 +1,7 @@
 var a17532 =
 [
-    [ "npc_icc_blood_beastAI", "d0/d5e/a17532.html#af52eff9f66451444c5acba6930c1bff6", null ],
-    [ "DoAction", "d0/d5e/a17532.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
-    [ "UpdateAI", "d0/d5e/a17532.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
-    [ "timer1", "d0/d5e/a17532.html#a1074059162f818088808795119f081be", null ]
+    [ "HandleDummyTick", "d0/d5e/a17532.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
+    [ "PrepareAuraScript", "d0/d5e/a17532.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
+    [ "Register", "d0/d5e/a17532.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
+    [ "Validate", "d0/d5e/a17532.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
 ];

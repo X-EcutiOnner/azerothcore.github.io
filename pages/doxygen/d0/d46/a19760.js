@@ -1,8 +1,6 @@
 var a19760 =
 [
-    [ "npc_algalon_worm_holeAI", "d0/d46/a19760.html#a07b36b40972bebea6b17890aa8fee50c", null ],
-    [ "JustSummoned", "d0/d46/a19760.html#a148de5da4502813e369ec6c52b1671a0", null ],
-    [ "Reset", "d0/d46/a19760.html#a915a8e5e23062cb10da9a3dbe387cf51", null ],
-    [ "UpdateAI", "d0/d46/a19760.html#a9df88d81aa4f4dd7e1dcdf6209832c32", null ],
-    [ "_summonTimer", "d0/d46/a19760.html#a73a55560e5ff7957d883f732bc0d2a82", null ]
+    [ "CalculateDamage", "d0/d46/a19760.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
+    [ "PrepareSpellScript", "d0/d46/a19760.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
+    [ "Register", "d0/d46/a19760.html#a02851f0b94687512a8e016bfb9b826e3", null ]
 ];

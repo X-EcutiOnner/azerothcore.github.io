@@ -1,11 +1,8 @@
 var a28604 =
 [
-    [ "IsAvailable", "d7/d4d/a28604.html#adfebd7a162ebae8396669de031c768a6", null ],
-    [ "operator bool", "d7/d4d/a28604.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
-    [ "operator*", "d7/d4d/a28604.html#a24733bf06b4a91abcf4945aa5303a275", null ],
-    [ "operator->", "d7/d4d/a28604.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
-    [ "SecretMgr", "d7/d4d/a28604.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
-    [ "lock", "d7/d4d/a28604.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
-    [ "state", "d7/d4d/a28604.html#a01563e00123d442b82bd6389d838c23d", null ],
-    [ "value", "d7/d4d/a28604.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
+    [ "canLink", "d7/d4d/a28604.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
+    [ "categoryId", "d7/d4d/a28604.html#abf285e69e8e2a90626a157cb0c50d158", null ],
+    [ "id", "d7/d4d/a28604.html#a7740b26f1bde19a05b002c00eded25e3", null ],
+    [ "name", "d7/d4d/a28604.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
+    [ "spellIcon", "d7/d4d/a28604.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
 ];

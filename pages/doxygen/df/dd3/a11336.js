@@ -1,6 +1,6 @@
 var a11336 =
 [
-    [ "CheckAreaTargetHandler", "df/dd3/a11336.html#a641b633e37079949c8b1b71a32f4222e", null ],
-    [ "Call", "df/dd3/a11336.html#ab434cb7ba8927c16e2b63c2ad8ae9a25", null ],
-    [ "pHandlerScript", "df/dd3/a11336.html#a7c1e677d10a89ea7f1ea06f8de10e0f9", null ]
+    [ "WorldObjectSpellConeTargetCheck", "df/dd3/a11336.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
+    [ "operator()", "df/dd3/a11336.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
+    [ "_coneAngle", "df/dd3/a11336.html#a8f946789292320ea8b205dec5d1e1975", null ]
 ];

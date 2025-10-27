@@ -1,9 +1,7 @@
 var a20552 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "d8/d92/a20552.html#a98ad3308b0fa56847ce6f5583bdfaba9", null ],
-    [ "AttackStart", "d8/d92/a20552.html#aa18e89f63e98112efeb69328f8fdc296", null ],
-    [ "MoveInLineOfSight", "d8/d92/a20552.html#a6384437fff9349df0cfa5053b37313ea", null ],
-    [ "MovementInform", "d8/d92/a20552.html#a2f7d5b821ea4bf80bd01d469859f6fb6", null ],
-    [ "UpdateAI", "d8/d92/a20552.html#a71d24eb5cea764011249b8ff78c3ed6c", null ],
-    [ "events", "d8/d92/a20552.html#a5099c03b3ab1eb437ea11a0c4e8650f1", null ]
+    [ "boss_kologarn_pit_kill_bunny", "d8/d92/a20552.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
+    [ "Reset", "d8/d92/a20552.html#afd7482896b66f040b8d57b9b6ac37059", null ],
+    [ "UpdateAI", "d8/d92/a20552.html#ad863666aec3db81f73165148ffc98033", null ],
+    [ "_boundaryIntersect", "d8/d92/a20552.html#abc0560637830e70d54ce1fb6b6881ca6", null ]
 ];

@@ -1,6 +1,6 @@
 var a10664 =
 [
-    [ "GuildDemoteMember", "de/dbc/a10664.html#aa3d68021828c516d7b1995811e8df7d7", null ],
-    [ "Read", "de/dbc/a10664.html#aca46670c89e3d15df6a3f6694ab3dcb6", null ],
-    [ "Demotee", "de/dbc/a10664.html#a60c7e56c201d794fb473a62fccc160bb", null ]
+    [ "GuildInviteByName", "de/dbc/a10664.html#a5e0bab98d87000ad796ebb2753cd566b", null ],
+    [ "Read", "de/dbc/a10664.html#a91f3fba33e265cbb119f1d3e69d4a8ca", null ],
+    [ "Name", "de/dbc/a10664.html#a048c7ed9de19bcb57c0cdb10e2cf3bef", null ]
 ];

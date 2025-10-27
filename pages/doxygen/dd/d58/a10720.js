@@ -1,5 +1,5 @@
 var a10720 =
 [
-    [ "Icon", "dd/d58/a10720.html#ae47c09144b18e42aa48499de3e3fe276", null ],
-    [ "Name", "dd/d58/a10720.html#a19c79529bbfe25701c9f8253f3e0f9d8", null ]
+    [ "GuildDelete", "dd/d58/a10720.html#a86733335c7b60d5b9eb8616692da3a7f", null ],
+    [ "Read", "dd/d58/a10720.html#ae5ca379b187902323638f4c10be0a4d0", null ]
 ];

@@ -1,13 +1,8 @@
 var a13700 =
 [
-    [ "npc_lord_gregor_lescovarAI", "d7/d83/a13700.html#ab3ed8a9536fc6be948f280e319d4fec7", null ],
-    [ "DoGuardsDisappearAndDie", "d7/d83/a13700.html#a8588cae3dc8aa3dd46c55439d355df9b", null ],
-    [ "EnterEvadeMode", "d7/d83/a13700.html#a95e60614808191e4c1f909f5e38e4741", null ],
-    [ "JustEngagedWith", "d7/d83/a13700.html#ad0ca7d80d68b9623b99c644daa8f4c57", null ],
-    [ "Reset", "d7/d83/a13700.html#a06df695e9acd96b07f4e58c9461a708c", null ],
-    [ "UpdateAI", "d7/d83/a13700.html#ab8cc7d7d56550e66497116e5b4233a02", null ],
-    [ "WaypointReached", "d7/d83/a13700.html#ad91850dc72d0307e28b881717bfba6db", null ],
-    [ "MarzonGUID", "d7/d83/a13700.html#a68779dfa5643ffbf0065964d72ba5ddc", null ],
-    [ "uiPhase", "d7/d83/a13700.html#a3eaf47541cabaac9ce12f830d7d3ef41", null ],
-    [ "uiTimer", "d7/d83/a13700.html#a70e6be2f5c0f88664c6bbe3f29e1d184", null ]
+    [ "npc_sunblade_arch_mage", "d7/d83/a13700.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
+    [ "JustEngagedWith", "d7/d83/a13700.html#aadeae32d691229b7b7b531175b8a5018", null ],
+    [ "Reset", "d7/d83/a13700.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
+    [ "UpdateAI", "d7/d83/a13700.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
+    [ "scheduler", "d7/d83/a13700.html#aa6680f06651316996868907b1d28126c", null ]
 ];

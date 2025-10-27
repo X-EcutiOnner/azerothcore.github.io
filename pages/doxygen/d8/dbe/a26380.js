@@ -1,5 +1,8 @@
 var a26380 =
 [
-    [ "PrepareSpellScript", "d8/dbe/a26380.html#aa2d9d885e55c1685c2ce9cbc5b4d4279", null ],
-    [ "Register", "d8/dbe/a26380.html#a721430db1738b255f114483bdddef5e2", null ]
+    [ "CheckCast", "d8/dbe/a26380.html#a0d7910cd2b9d9f4174575532502d40f9", null ],
+    [ "HandleDummy", "d8/dbe/a26380.html#a1eac1eb5f39093ff48942e82728478dd", null ],
+    [ "PrepareSpellScript", "d8/dbe/a26380.html#adbb58b75232560d101b291c0d99a2a20", null ],
+    [ "Register", "d8/dbe/a26380.html#a6acb46e81171e13f50ac1f01bf83013b", null ],
+    [ "Validate", "d8/dbe/a26380.html#a4b67c348685a8094668e4ed2f0c78446", null ]
 ];

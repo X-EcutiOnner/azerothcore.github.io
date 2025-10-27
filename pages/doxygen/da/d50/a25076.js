@@ -1,7 +1,9 @@
 var a25076 =
 [
-    [ "HandleScript", "da/d50/a25076.html#a8ec57aed0788f58e2c50fc08793a5749", null ],
-    [ "PrepareSpellScript", "da/d50/a25076.html#a56c9ab120239252982cab8b96ac8c5fe", null ],
-    [ "Register", "da/d50/a25076.html#a8c727b2b00858abcce058b16d66ca62a", null ],
-    [ "Validate", "da/d50/a25076.html#af3ffb9930eaba8703065719bbcf02f56", null ]
+    [ "spell_gen_select_target_count", "da/d50/a25076.html#a65507c155a8746ff49c58c051b7868e4", null ],
+    [ "FilterTargets", "da/d50/a25076.html#a5de89be9ce321a0f4ac49853a700b502", null ],
+    [ "PrepareSpellScript", "da/d50/a25076.html#a42ddce15414dcdf495b572e0f75e9486", null ],
+    [ "Register", "da/d50/a25076.html#a94f86992275123e2e3989655cf077efd", null ],
+    [ "_count", "da/d50/a25076.html#acdf5daa848ae185b859c45a1271df68c", null ],
+    [ "_effTarget", "da/d50/a25076.html#a9c54508790062277c8275d2466e93fb3", null ]
 ];

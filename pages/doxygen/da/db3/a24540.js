@@ -1,7 +1,10 @@
 var a24540 =
 [
-    [ "CheckProc", "da/db3/a24540.html#abd74252153fc4fc9a4e561005ea58b3f", null ],
-    [ "HandleProc", "da/db3/a24540.html#a911b81552e7193dbf1cfc11037b44d84", null ],
-    [ "PrepareAuraScript", "da/db3/a24540.html#ae169eb2c0e194f8f34ee2a0d5fd973d3", null ],
-    [ "Register", "da/db3/a24540.html#a72d89db31c1fbd5c3b49b4c05a2d90f4", null ]
+    [ "npc_isla_starmaneAI", "da/db3/a24540.html#a0cb655d324ddde173dcfdee069c0f694", null ],
+    [ "JustDied", "da/db3/a24540.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
+    [ "JustEngagedWith", "da/db3/a24540.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
+    [ "JustRespawned", "da/db3/a24540.html#a69b395a9b9504737109870c5e8db74c8", null ],
+    [ "UpdateEscortAI", "da/db3/a24540.html#af4b8c80e7443bb671be253238b124910", null ],
+    [ "WaypointReached", "da/db3/a24540.html#a5d00583afa4e811e4f3cb8400787a990", null ],
+    [ "events", "da/db3/a24540.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
 ];

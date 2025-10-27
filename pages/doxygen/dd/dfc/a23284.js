@@ -1,12 +1,6 @@
 var a23284 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "dd/dfc/a23284.html#a3e83985648f2951ee33d440c9c98bf72", null ],
-    [ "GetData", "dd/dfc/a23284.html#a9ea722d45efe2ee4eff041e480ff1c79", null ],
-    [ "Initialize", "dd/dfc/a23284.html#a8a2214e169acace8578c1863daf0a04c", null ],
-    [ "OnCreatureCreate", "dd/dfc/a23284.html#ae5f77169c337420852962fe7ddba3006", null ],
-    [ "OnGameObjectCreate", "dd/dfc/a23284.html#a9aeb7b25aa1446fff655b4c8fd6c47ad", null ],
-    [ "SetBossState", "dd/dfc/a23284.html#ad2863bc954ae25a5d96d06db0250cda3", null ],
-    [ "SetData", "dd/dfc/a23284.html#af3ca65eef9902a029f5b836d0b6fd58a", null ],
-    [ "_aliveKeepersCount", "dd/dfc/a23284.html#a85b7cbeab4149b0a379f27bdb459cfd7", null ],
-    [ "_shieldGeneratorGUID", "dd/dfc/a23284.html#a570b73c8ecd0e1ab6ac2889405be6ef0", null ]
+    [ "OnPeriodic", "dd/dfc/a23284.html#aef6afe014ce90711cd7628563aada2a4", null ],
+    [ "PrepareAuraScript", "dd/dfc/a23284.html#a40a98b79b445d3cebe3f195cb9c03a80", null ],
+    [ "Register", "dd/dfc/a23284.html#a44c261ff549ddf0b1dad5ae6d0ff2432", null ]
 ];

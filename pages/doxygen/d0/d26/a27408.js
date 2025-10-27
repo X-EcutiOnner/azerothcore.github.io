@@ -1,5 +1,7 @@
 var a27408 =
 [
-    [ "go_veil_skith_cage", "d0/d26/a27408.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
-    [ "OnGossipHello", "d0/d26/a27408.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
+    [ "FilterTargets", "d0/d26/a27408.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
+    [ "HandleEffect", "d0/d26/a27408.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
+    [ "PrepareSpellScript", "d0/d26/a27408.html#a53b5772c87574beb5b295c26fe983b76", null ],
+    [ "Register", "d0/d26/a27408.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
 ];

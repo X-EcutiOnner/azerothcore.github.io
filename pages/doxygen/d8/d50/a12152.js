@@ -1,11 +1,11 @@
 var a12152 =
 [
-    [ "boss_solakar_flamewreathAI", "d8/d50/a12152.html#ada12a91bedec9be8923f9dc74fce07d0", null ],
-    [ "ExecuteEvent", "d8/d50/a12152.html#aa1fca22d30b15ee93cc02084ebab0c2c", null ],
-    [ "InitializeAI", "d8/d50/a12152.html#a7a8a5d3c453e29ec746422e1ba8e4d34", null ],
-    [ "JustDied", "d8/d50/a12152.html#aceb580afa2329ada3236dc759f3a3c20", null ],
-    [ "JustEngagedWith", "d8/d50/a12152.html#a47f8a133b6f8c0de11a66b712bb8e266", null ],
-    [ "Reset", "d8/d50/a12152.html#a25ae2943a7ce9a1f459cfd1313c84c49", null ],
-    [ "UpdateAI", "d8/d50/a12152.html#ac5f908584251455c720ce3f25ed07dae", null ],
-    [ "resetTimer", "d8/d50/a12152.html#acd7fdd30767a7863f265eb96e29c221e", null ]
+    [ "boss_high_interrogator_gerstahnAI", "d8/d50/a12152.html#a557fda67d1d1de268ba661350ba915dc", null ],
+    [ "JustEngagedWith", "d8/d50/a12152.html#a80e01faa471f9e83e85c3c47fd815dea", null ],
+    [ "Reset", "d8/d50/a12152.html#ab63099f83037b3716d1e2b9c21d7d607", null ],
+    [ "UpdateAI", "d8/d50/a12152.html#a67b34f7cf4c62a57bc9fb556f5fb0b81", null ],
+    [ "ManaBurn_Timer", "d8/d50/a12152.html#aede307f972942c15c4b2bfa90e75856d", null ],
+    [ "PsychicScream_Timer", "d8/d50/a12152.html#a291f3484e4d125fefe437d96b12153f1", null ],
+    [ "ShadowShield_Timer", "d8/d50/a12152.html#a7ba151c46b097825dca9b8e3ac2cdee9", null ],
+    [ "ShadowWordPain_Timer", "d8/d50/a12152.html#aec0eab93e8494bc1abc87d81460fac31", null ]
 ];

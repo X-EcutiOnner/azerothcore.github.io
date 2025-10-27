@@ -1,24 +1,11 @@
 var a05196 =
 [
-    [ "Digest", "d9/dff/a05196.html#a4d7f68dcd7fdc00ae2df6451b5d7b2cd", null ],
-    [ "GenericHMAC", "d9/dff/a05196.html#a45adf5614c182e03eea750fd336e926a", null ],
-    [ "GenericHMAC", "d9/dff/a05196.html#aa08e4ea008f4642f01cddb895c7713af", null ],
-    [ "GenericHMAC", "d9/dff/a05196.html#ab443d5ecc1c5ce6c3cafae724e7d2d3e", null ],
-    [ "GenericHMAC", "d9/dff/a05196.html#a976861745d69b282bf15b0f3ea215937", null ],
-    [ "~GenericHMAC", "d9/dff/a05196.html#a57f8cfd9da10c9a2c1e97045c0792e72", null ],
-    [ "Finalize", "d9/dff/a05196.html#aedfd7b158be9825a58db629e5253422e", null ],
-    [ "GetDigest", "d9/dff/a05196.html#a8a261b6c1f1c131674ad93d606abe321", null ],
-    [ "GetDigestOf", "d9/dff/a05196.html#abbbfe21337c9f222da3a21bae43e541a", null ],
-    [ "GetDigestOf", "d9/dff/a05196.html#a8e703b2867d33ef241032b7b74cc86ce", null ],
-    [ "operator=", "d9/dff/a05196.html#ab26cb7c7dfaf765aee2c91c629d528db", null ],
-    [ "operator=", "d9/dff/a05196.html#a51d42e0933431c28579f61714dc1316b", null ],
-    [ "UpdateData", "d9/dff/a05196.html#a9c73a9275615d3cfda283ec910af759d", null ],
-    [ "UpdateData", "d9/dff/a05196.html#ac693bf817c41351bbf4c1c4c625940fd", null ],
-    [ "UpdateData", "d9/dff/a05196.html#a70ead2f037579bbc088c560114f902c6", null ],
-    [ "UpdateData", "d9/dff/a05196.html#ab2132d901023ee70ddcf647438e81e8d", null ],
-    [ "UpdateData", "d9/dff/a05196.html#a8793a29e20d9ad3a8214dfd83d0c60fd", null ],
-    [ "_ctx", "d9/dff/a05196.html#ae96a0500880d30109c61efd6450453de", null ],
-    [ "_digest", "d9/dff/a05196.html#a9c8bb5aa9eb4e206b77b6556022391d9", null ],
-    [ "_key", "d9/dff/a05196.html#a86c8c6b7d776042053e7ba5ae95b7be5", null ],
-    [ "DIGEST_LENGTH", "d9/dff/a05196.html#ab2115b35bccc49517eec5d59b0950de4", null ]
+    [ "AuthCrypt", "d9/dff/a05196.html#a8c5239631bd6cf700059af31f04126a3", null ],
+    [ "DecryptRecv", "d9/dff/a05196.html#a552bd409afb5fcda8a11627ccb20e4b0", null ],
+    [ "EncryptSend", "d9/dff/a05196.html#a385fe62742cdbbf62725ace616a06b37", null ],
+    [ "Init", "d9/dff/a05196.html#ac76e9a59dc6bcef074e3213cecb4c7b8", null ],
+    [ "IsInitialized", "d9/dff/a05196.html#a911330ec40c0ca881af2f0c6fd6b0fef", null ],
+    [ "_clientDecrypt", "d9/dff/a05196.html#ae67fcb84288ebd120ad71bedc52086c2", null ],
+    [ "_initialized", "d9/dff/a05196.html#a99de2f8dd625cef94d70eeddefc9ac5c", null ],
+    [ "_serverEncrypt", "d9/dff/a05196.html#af30b0691f7089d52c2fbd9c5b9f52e68", null ]
 ];

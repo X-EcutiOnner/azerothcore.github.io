@@ -1,9 +1,10 @@
 var a29068 =
 [
-    [ "boss_lethonAI", "db/d9f/a29068.html#ac5d53a746f5286776b2e510f1de86790", null ],
-    [ "DamageTaken", "db/d9f/a29068.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
-    [ "JustEngagedWith", "db/d9f/a29068.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
-    [ "Reset", "db/d9f/a29068.html#a0e53d139f64d104557e157a91176a47a", null ],
-    [ "SpellHitTarget", "db/d9f/a29068.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
-    [ "_stage", "db/d9f/a29068.html#aa267296ee60efc7d39a20dc05afec081", null ]
+    [ "ADTFile", "db/d9f/a29068.html#a763f0f9c1106700987797864b2fdb006", null ],
+    [ "~ADTFile", "db/d9f/a29068.html#ad1533f5b630a70b6ff95861e64960de0", null ],
+    [ "init", "db/d9f/a29068.html#ab9ba3b1a2aac611bec5bfe4a454e4042", null ],
+    [ "_file", "db/d9f/a29068.html#a7f3071e63be08fe3288d5ab03b5b8acf", null ],
+    [ "Adtfilename", "db/d9f/a29068.html#a07c82112e26b96a87e22f1c7bec9c72e", null ],
+    [ "ModelInstanceNames", "db/d9f/a29068.html#a6601e20fed78c54bb281ad3bd0ce7800", null ],
+    [ "WmoInstanceNames", "db/d9f/a29068.html#acd96c287a01828bf3e49fb599a3b5d81", null ]
 ];

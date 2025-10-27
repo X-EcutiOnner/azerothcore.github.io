@@ -1,6 +1,8 @@
 var a10672 =
 [
-    [ "GuildOfficerRemoveMember", "d6/d3d/a10672.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
-    [ "Read", "d6/d3d/a10672.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
-    [ "Removee", "d6/d3d/a10672.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
+    [ "GuildEvent", "d6/d3d/a10672.html#a78be16122c01d4c68d67e050ede92006", null ],
+    [ "Write", "d6/d3d/a10672.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
+    [ "Guid", "d6/d3d/a10672.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
+    [ "Params", "d6/d3d/a10672.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
+    [ "Type", "d6/d3d/a10672.html#a961ae90991fa23bfc94a054dba357392", null ]
 ];

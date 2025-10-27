@@ -1,7 +1,6 @@
 var a12604 =
 [
-    [ "npc_kernobeeAI", "d3/da7/a12608.html", "d3/da7/a12608" ],
-    [ "npc_kernobee", "db/dd8/a12604.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
-    [ "GetAI", "db/dd8/a12604.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
-    [ "OnQuestAccept", "db/dd8/a12604.html#aa830285cf19211b8233620257735ab62", null ]
+    [ "boss_golemaggAI", "d3/da7/a12608.html", "d3/da7/a12608" ],
+    [ "boss_golemagg", "db/dd8/a12604.html#a66720a143f8987dfa5d6e2acb7cd73cd", null ],
+    [ "GetAI", "db/dd8/a12604.html#a6899f30975e0984306feabe47bbc8317", null ]
 ];

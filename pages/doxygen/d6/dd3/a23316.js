@@ -1,11 +1,12 @@
 var a23316 =
 [
-    [ "boss_ahune", "d6/dd3/a23316.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
-    [ "DoAction", "d6/dd3/a23316.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
-    [ "Emerge", "d6/dd3/a23316.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
-    [ "EnterEvadeMode", "d6/dd3/a23316.html#a2b906881621e59143a916c588beb70e7", null ],
-    [ "ExecuteEvent", "d6/dd3/a23316.html#a46b477aef635de1d3ec88baa2465089f", null ],
-    [ "JustDied", "d6/dd3/a23316.html#af2fc7c071321653a644ee569ead67d63", null ],
-    [ "JustEngagedWith", "d6/dd3/a23316.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
-    [ "Submerge", "d6/dd3/a23316.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
+    [ "boss_fathomlord_karathress", "d6/dd3/a23316.html#a05c483ea61011926c260b43f6c01cac3", null ],
+    [ "DoAction", "d6/dd3/a23316.html#adc5685244341e353c6dac67b0191d877", null ],
+    [ "JustDied", "d6/dd3/a23316.html#a4c356359be50b626a28fab4a803386f8", null ],
+    [ "JustEngagedWith", "d6/dd3/a23316.html#ae221d994f2ebb0a298288233727ea1ba", null ],
+    [ "JustReachedHome", "d6/dd3/a23316.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
+    [ "JustSummoned", "d6/dd3/a23316.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
+    [ "KilledUnit", "d6/dd3/a23316.html#a02812a3cc7de22348058dedd107bb6d0", null ],
+    [ "Reset", "d6/dd3/a23316.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
+    [ "_recentlySpoken", "d6/dd3/a23316.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
 ];

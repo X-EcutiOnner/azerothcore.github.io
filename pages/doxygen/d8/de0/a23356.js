@@ -1,7 +1,6 @@
 var a23356 =
 [
-    [ "PeriodicTick", "d8/de0/a23356.html#a94bee50f214d0a61fa81c4cca1b38fb2", null ],
-    [ "PrepareAuraScript", "d8/de0/a23356.html#a2c34fbc5c12be43b1c054cf4b23542cb", null ],
-    [ "Register", "d8/de0/a23356.html#ae1479b53d8c0575947a7ce7cae4747c4", null ],
-    [ "Validate", "d8/de0/a23356.html#ade8d57db324f02734e1752f49976dc9d", null ]
+    [ "HandleEffectApply", "d8/de0/a23356.html#adbfce9b247a8a36d143243955372dc91", null ],
+    [ "PrepareAuraScript", "d8/de0/a23356.html#a7a04c4f4c9cb1070d02d58bfa3d0c8e6", null ],
+    [ "Register", "d8/de0/a23356.html#afb919ed484440d382b9d1ac7cf6f3f14", null ]
 ];

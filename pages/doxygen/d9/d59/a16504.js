@@ -1,7 +1,8 @@
 var a16504 =
 [
-    [ "npc_toc_warriorAI", "d9/d59/a16504.html#a6eee7e4fc83ed56a0f775b6892dc8dcb", null ],
-    [ "myCanCast", "d9/d59/a16504.html#ac815e13cbbe9a8833330e15213420c65", null ],
-    [ "UpdateAI", "d9/d59/a16504.html#aa787deda09d9bbf2c54d51e618eb2a82", null ],
-    [ "events", "d9/d59/a16504.html#ae8f9d3f5f2c9172442c7ba4a83275cc1", null ]
+    [ "npc_toc5_player_vehicleAI", "d9/d59/a16504.html#afa00a6254b482aae5397be04860ac8ba", null ],
+    [ "BeforeSpellClick", "d9/d59/a16504.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
+    [ "OnCharmed", "d9/d59/a16504.html#ace805882a25a9d075d811714e607fa2b", null ],
+    [ "PassengerBoarded", "d9/d59/a16504.html#aca35804df751185193ff5865255d3687", null ],
+    [ "Reset", "d9/d59/a16504.html#a5439b98d544124836d2cf9762f764cea", null ]
 ];

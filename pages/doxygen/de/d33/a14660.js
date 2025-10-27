@@ -1,8 +1,7 @@
 var a14660 =
 [
-    [ "npc_doomfire_spirit", "de/d33/a14660.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
-    [ "Reset", "de/d33/a14660.html#a0600718fad91723eba74b903583c5942", null ],
-    [ "TryTeleportInDirection", "de/d33/a14660.html#a7fc48df636df66a006a8179fd63e2a65", null ],
-    [ "UpdateAI", "de/d33/a14660.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
-    [ "turnConstant", "de/d33/a14660.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
+    [ "HandleScript", "de/d33/a14660.html#a78899a874a645d531dd4d89f2bd5478a", null ],
+    [ "PrepareSpellScript", "de/d33/a14660.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
+    [ "Register", "de/d33/a14660.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
+    [ "Validate", "de/d33/a14660.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
 ];

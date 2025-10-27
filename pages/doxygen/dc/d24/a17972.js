@@ -1,7 +1,12 @@
 var a17972 =
 [
-    [ "HandleSummon", "dc/d24/a17972.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "dc/d24/a17972.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "dc/d24/a17972.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "dc/d24/a17972.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "npc_vengeful_shadeAI", "dc/d24/a17972.html#acd3961c7c81f88a341cb71888c55c882", null ],
+    [ "AttackStart", "dc/d24/a17972.html#afbd441c5ebf2207d37da1a905be1a247", null ],
+    [ "EnterEvadeMode", "dc/d24/a17972.html#a37bffb02c4ebf6acab8c3474581056a6", null ],
+    [ "MoveInLineOfSight", "dc/d24/a17972.html#a1e8e28e76f27edc5e07574e6050d7e5f", null ],
+    [ "Reset", "dc/d24/a17972.html#acf85448a221a37be819b7ab82f4f9fdc", null ],
+    [ "SpellHitTarget", "dc/d24/a17972.html#af9b40af943ee8a7c9bd8866f116871fc", null ],
+    [ "UpdateAI", "dc/d24/a17972.html#a3a353d677b469d750474a7497c5224a7", null ],
+    [ "targetGUID", "dc/d24/a17972.html#a75c3f61506fe42e41b10a2e67f5b091d", null ],
+    [ "unroot_timer", "dc/d24/a17972.html#a49ea66a0fb6e3c09730d92308bd1cac7", null ]
 ];

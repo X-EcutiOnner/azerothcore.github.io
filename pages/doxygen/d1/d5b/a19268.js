@@ -1,6 +1,6 @@
 var a19268 =
 [
-    [ "boss_malygosAI", "d5/db9/a19272.html", "d5/db9/a19272" ],
-    [ "boss_malygos", "d1/d5b/a19268.html#aeac3c63d4ccd2947a6f7e4c007dc6aa1", null ],
-    [ "GetAI", "d1/d5b/a19268.html#a9e1d821311fa8b92318a99ea79ddb1e3", null ]
+    [ "boss_heiganAI", "d5/db9/a19272.html", "d5/db9/a19272" ],
+    [ "boss_heigan", "d1/d5b/a19268.html#aefa3a6d870bde0d33504c5f2b56572be", null ],
+    [ "GetAI", "d1/d5b/a19268.html#ad9edf8eade874c1ecc2cecdac17700a1", null ]
 ];

@@ -1,8 +1,12 @@
 var a19236 =
 [
-    [ "npc_teslaAI", "d8/d26/a19236.html#a7281220648af1357b1377d6f7874d663", null ],
-    [ "DamageTaken", "d8/d26/a19236.html#aa3ab570e86261bc3178e17109d76af12", null ],
-    [ "EnterEvadeMode", "d8/d26/a19236.html#acc8115216989b34593a9435eeb051eda", null ],
-    [ "JustEngagedWith", "d8/d26/a19236.html#add93f68bc96b3c93dc0a3271543711e6", null ],
-    [ "UpdateAI", "d8/d26/a19236.html#a962745569b07e368067ee483d2379840", null ]
+    [ "npc_gothik_triggerAI", "d8/d26/a19236.html#ae45c6de238755eb069e0c182943da58c", null ],
+    [ "DamageTaken", "d8/d26/a19236.html#ada8e501edfadbb55162532f081a4b48b", null ],
+    [ "EnterEvadeMode", "d8/d26/a19236.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
+    [ "JustEngagedWith", "d8/d26/a19236.html#ab5403383f1fcd539cacf975dffbe2817", null ],
+    [ "JustSummoned", "d8/d26/a19236.html#a35be0135b77a3e62ac8d421910cf0674", null ],
+    [ "SelectRandomSkullPile", "d8/d26/a19236.html#aeafc63047c9059afdf668b8c22d2937f", null ],
+    [ "SpellHit", "d8/d26/a19236.html#a18a8135ab0395991afc4896950783ae5", null ],
+    [ "SummonedCreatureDespawn", "d8/d26/a19236.html#ad7ed092509dd41fddd44a4024c011364", null ],
+    [ "UpdateAI", "d8/d26/a19236.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
 ];

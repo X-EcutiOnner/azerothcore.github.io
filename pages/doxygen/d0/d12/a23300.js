@@ -1,6 +1,6 @@
 var a23300 =
 [
-    [ "HandleEffectRemove", "d0/d12/a23300.html#a4000209ccbcbc62a51db3e7b672ea69d", null ],
-    [ "PrepareAuraScript", "d0/d12/a23300.html#adc6f982b0e3cc56039746f425cb09113", null ],
-    [ "Register", "d0/d12/a23300.html#a5ceecc2f9a9664755b5e492fda54a560", null ]
+    [ "boss_doomlordkazzakAI", "d2/d2d/a23304.html", "d2/d2d/a23304" ],
+    [ "boss_doomlord_kazzak", "d0/d12/a23300.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
+    [ "GetAI", "d0/d12/a23300.html#a460a32ce37aae852b48f1990406da9a4", null ]
 ];

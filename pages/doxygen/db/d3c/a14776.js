@@ -1,6 +1,6 @@
 var a14776 =
 [
-    [ "boss_meathookAI", "d6/d8c/a14780.html", "d6/d8c/a14780" ],
-    [ "boss_meathook", "db/d3c/a14776.html#a044c8ec4a419e5c5a8b290df9c0ad169", null ],
-    [ "GetAI", "db/d3c/a14776.html#ae8ee3631ff1f80f4fad99e4eca042ad8", null ]
+    [ "HandleScriptEffect", "db/d3c/a14776.html#a07ac70b6e91c61dcb59c368381a877dd", null ],
+    [ "PrepareSpellScript", "db/d3c/a14776.html#a55115ca986d5226588d168ced7ab1f55", null ],
+    [ "Register", "db/d3c/a14776.html#ad8811bf48dfb564afcd82cf51b860255", null ]
 ];

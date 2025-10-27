@@ -1,9 +1,6 @@
 var a17680 =
 [
-    [ "CheckAreaTarget", "d2/d80/a17680.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
-    [ "HandleApply", "d2/d80/a17680.html#a9ce86d32957af07313af379b4176d0b3", null ],
-    [ "HandleRemove", "d2/d80/a17680.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
-    [ "Load", "d2/d80/a17680.html#aa10821981f3e80262850e5c46449d5d0", null ],
-    [ "PrepareAuraScript", "d2/d80/a17680.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
-    [ "Register", "d2/d80/a17680.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
+    [ "PrepareAuraScript", "d2/d80/a17680.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
+    [ "RecalculateHook", "d2/d80/a17680.html#a829e96cabbb565922f7183adb3edf13c", null ],
+    [ "Register", "d2/d80/a17680.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
 ];

@@ -1,13 +1,11 @@
 var a21100 =
 [
-    [ "npc_ulduar_arachnopod_destroyerAI", "d6/d6d/a21100.html#a52bbedf267aaa3cea68e8a5960cbc34b", null ],
-    [ "AttackStart", "d6/d6d/a21100.html#aed91dafbc50a785875b8b41c5e328d73", null ],
-    [ "DamageTaken", "d6/d6d/a21100.html#a4c2ec3cf0c5561b1b9f309bb8f180f8c", null ],
-    [ "EnterEvadeMode", "d6/d6d/a21100.html#a671a27f00e279e0a4c0827999ce26d8b", null ],
-    [ "OnCharmed", "d6/d6d/a21100.html#ae268a425326efbea1282ce116ff76e3f", null ],
-    [ "PassengerBoarded", "d6/d6d/a21100.html#a83409607638100fddd229829ee2bea40", null ],
-    [ "Reset", "d6/d6d/a21100.html#a2a7bda0ee585a7aa652081ce7ede3fa6", null ],
-    [ "UpdateAI", "d6/d6d/a21100.html#ac10669fddd193d583ecead8ed37879b3", null ],
-    [ "_spawnedMechanic", "d6/d6d/a21100.html#a2db3016e32b4e77724fea98d605eaa59", null ],
-    [ "events", "d6/d6d/a21100.html#ac61064ee3e22b476a35dce4564f65882", null ]
+    [ "boss_yoggsaron_neltharionAI", "d6/d6d/a21100.html#aacefe32de32513bdf46c0dd526768e25", null ],
+    [ "NextStep", "d6/d6d/a21100.html#a4770948240ac56ec151c262c8996e4e4", null ],
+    [ "Reset", "d6/d6d/a21100.html#a03841acfd21e920bc6589203448709a0", null ],
+    [ "Say", "d6/d6d/a21100.html#ae45f051ab64ce1f96f32e5b8d073356e", null ],
+    [ "UpdateAI", "d6/d6d/a21100.html#a80c174a8ffa15550627ed27ab0d8925d", null ],
+    [ "_checkTimer", "d6/d6d/a21100.html#a7eef651198e09cf25c2f039bcb4a1876", null ],
+    [ "_running", "d6/d6d/a21100.html#a6b2f01ed2ffe8113cbddd4a033886059", null ],
+    [ "_step", "d6/d6d/a21100.html#a0ac37717e940b094d322a7e492202718", null ]
 ];

@@ -1,5 +1,8 @@
 var a18152 =
 [
-    [ "achievement_all_you_can_eat", "df/dab/a18152.html#a0995024862a445ea1f0ff5c82475fc64", null ],
-    [ "OnCheck", "df/dab/a18152.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
+    [ "HandleScript", "df/dab/a18152.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
+    [ "PrepareSpellScript", "df/dab/a18152.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
+    [ "Register", "df/dab/a18152.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
+    [ "SelectTarget", "df/dab/a18152.html#a36d575c6a63e94905bf435bc9d39e588", null ],
+    [ "Validate", "df/dab/a18152.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
 ];

@@ -1,6 +1,8 @@
 var a23936 =
 [
-    [ "PrepareAuraScript", "d3/d01/a23936.html#a14d4d1a75130a77e7e59e41720491bec", null ],
-    [ "PrepareProc", "d3/d01/a23936.html#abea217f4bfdffc70007fbc29849e9a49", null ],
-    [ "Register", "d3/d01/a23936.html#a9dbcd4c940f5941472bebb64829125e3", null ]
+    [ "boss_commander_sarannis", "d3/d01/a23936.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "d3/d01/a23936.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "d3/d01/a23936.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "d3/d01/a23936.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "d3/d01/a23936.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

@@ -1,9 +1,9 @@
 var a27888 =
 [
-    [ "CinematicSequence", "d0/d4b/a27888.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
-    [ "ClassID", "d0/d4b/a27888.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
-    [ "expansion", "d0/d4b/a27888.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
-    [ "name", "d0/d4b/a27888.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
-    [ "powerType", "d0/d4b/a27888.html#a74aec35dc161a7e830453b9365a6f107", null ],
-    [ "spellfamily", "d0/d4b/a27888.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
+    [ "npc_fireworkAI", "d0/d4b/a27888.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
+    [ "FindNearestLauncher", "d0/d4b/a27888.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
+    [ "GetFireworkGameObjectId", "d0/d4b/a27888.html#ae17b4abbbb2088799cec188457677d44", null ],
+    [ "GetFireworkSpell", "d0/d4b/a27888.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
+    [ "isCluster", "d0/d4b/a27888.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
+    [ "Reset", "d0/d4b/a27888.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
 ];

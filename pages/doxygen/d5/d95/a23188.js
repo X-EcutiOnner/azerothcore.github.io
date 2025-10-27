@@ -1,6 +1,6 @@
 var a23188 =
 [
-    [ "HandleEffectRemove", "d5/d95/a23188.html#a9e578e576d8fa4198cf1f0e9f03ba47a", null ],
-    [ "PrepareAuraScript", "d5/d95/a23188.html#a5fa56f4d61c63487919bb2080795e391", null ],
-    [ "Register", "d5/d95/a23188.html#a2d0bbef8b32c688b7409837b426d9cd1", null ]
+    [ "ShadowOfDeathSelector", "d5/d95/a23188.html#a1190094fbde74ccffd954fea742ab0ae", null ],
+    [ "operator()", "d5/d95/a23188.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
+    [ "_tank", "d5/d95/a23188.html#adc238645eec306e00918dbab05549fc8", null ]
 ];

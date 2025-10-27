@@ -1,7 +1,7 @@
 var a25336 =
 [
-    [ "HandleScript", "df/db5/a25336.html#a12f4c4a85f19ceb55d274428cf2b25a4", null ],
-    [ "PrepareSpellScript", "df/db5/a25336.html#acf1173670c35c84ae7aba29be00d31cf", null ],
-    [ "Register", "df/db5/a25336.html#a5a2c59463a0546b6f5cd375b3671b86b", null ],
-    [ "Validate", "df/db5/a25336.html#a437a018fd6917bee51bdbba7cf29e53d", null ]
+    [ "HandleChargeEffect", "df/db5/a25336.html#ad8d2871e6277dd982653fa864010d084", null ],
+    [ "HandleScriptEffect", "df/db5/a25336.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc", null ],
+    [ "PrepareSpellScript", "df/db5/a25336.html#a1f8722308e1a5bef546dcb939d73dca7", null ],
+    [ "Register", "df/db5/a25336.html#a2cdda449ab11438347e7dd32fd058e6d", null ]
 ];

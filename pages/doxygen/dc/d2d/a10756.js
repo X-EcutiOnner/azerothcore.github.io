@@ -1,6 +1,8 @@
 var a10756 =
 [
-    [ "GuildSetGuildMaster", "dc/d2d/a10756.html#ae6ca07252de719cc506042c8d3e8285e", null ],
-    [ "Read", "dc/d2d/a10756.html#a94f16e55a840c7cba991a119af5d8263", null ],
-    [ "NewMasterName", "dc/d2d/a10756.html#a02f37610492c75373266bb93000adcbf", null ]
+    [ "GuildBankQueryTab", "dc/d2d/a10756.html#a29fc27016b597f051898db7bb30214c8", null ],
+    [ "Read", "dc/d2d/a10756.html#ab4e17c592b05ce041f5f52f2bc711d41", null ],
+    [ "Banker", "dc/d2d/a10756.html#af21ec3aa4cf912fd5b82e6ae16459e06", null ],
+    [ "FullUpdate", "dc/d2d/a10756.html#a4f9758c10f7c7294dffaa01b8e0b723f", null ],
+    [ "Tab", "dc/d2d/a10756.html#a949488c1696f92cb0a081cf28bffb48f", null ]
 ];

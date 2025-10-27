@@ -1,22 +1,11 @@
 var a05240 =
 [
-    [ "LinkedListElement", "d5/d47/a05240.html#ac1194068a8be3b5633aee45147bdcdc3", null ],
-    [ "~LinkedListElement", "d5/d47/a05240.html#a3c4918a1ef71822c094efab28cd18c33", null ],
-    [ "delink", "d5/d47/a05240.html#a56583d2ad1e6e3b9b37d1dcbf55d2a10", null ],
-    [ "hasNext", "d5/d47/a05240.html#a6a31a6cb9b48a00ceeb0c05506020fad", null ],
-    [ "hasPrev", "d5/d47/a05240.html#a9aa9698ff9aab072a12bb38fab4533b5", null ],
-    [ "insertAfter", "d5/d47/a05240.html#a5815d1c7015ca4671993137703dc3fc1", null ],
-    [ "insertBefore", "d5/d47/a05240.html#ac1a009d1d2f1c782d7882e5990854bf9", null ],
-    [ "isInList", "d5/d47/a05240.html#ac1f61be0f1b485899870ddafec4f0daf", null ],
-    [ "next", "d5/d47/a05240.html#acbcdd7cb06a928d4d3c23b017abd715d", null ],
-    [ "next", "d5/d47/a05240.html#a7e17b9a27128db95781737096401ae6f", null ],
-    [ "nocheck_next", "d5/d47/a05240.html#a36ba2530546c52b5ef3ea91bb45f7c9c", null ],
-    [ "nocheck_next", "d5/d47/a05240.html#aa5de440f42d0df69d021d1fdbde96dee", null ],
-    [ "nocheck_prev", "d5/d47/a05240.html#abe1be90c1bf7b22096e611ef46b5dfb4", null ],
-    [ "nocheck_prev", "d5/d47/a05240.html#ae8c8580dfa196cc39385d8d171375545", null ],
-    [ "prev", "d5/d47/a05240.html#a78fb6e3984ca951c45fb48781f2a6861", null ],
-    [ "prev", "d5/d47/a05240.html#aad9ba71b4169621a6be2881c5883d147", null ],
-    [ "LinkedListHead", "d5/d47/a05240.html#a3e79720cb367ba3c26eeeee4536473e7", null ],
-    [ "iNext", "d5/d47/a05240.html#adbad5e71eaae55ad05b8fd836e1da809", null ],
-    [ "iPrev", "d5/d47/a05240.html#a3d763a3685504dab0940d2201052b990", null ]
+    [ "Record", "d5/d47/a05240.html#a3303a6b7ba364777e368158052dbe1db", null ],
+    [ "getFloat", "d5/d47/a05240.html#a1647694079553a20a7c6621aa6d4ecf6", null ],
+    [ "getString", "d5/d47/a05240.html#a833c7017749b6b3109ebdee2ff0d3517", null ],
+    [ "getUInt", "d5/d47/a05240.html#a6f22775adc36b8955009f3f0bd51f355", null ],
+    [ "getUInt8", "d5/d47/a05240.html#af6a95de37b34f0204f57323d9a39d110", null ],
+    [ "DBCFileLoader", "d5/d47/a05240.html#aa9814b507b472e781e08c803e025cc72", null ],
+    [ "file", "d5/d47/a05240.html#a146dc23a5f24a0d8a1a34f29375b9bcd", null ],
+    [ "offset", "d5/d47/a05240.html#a06e2c90771be91d9ca948840a07125e8", null ]
 ];

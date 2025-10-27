@@ -1,6 +1,8 @@
 var a12112 =
 [
-    [ "boss_pyroguard_emberseerAI", "de/dfe/a12116.html", "de/dfe/a12116" ],
-    [ "boss_pyroguard_emberseer", "d5/da9/a12112.html#af9f55c012880404e2e6f8278763af194", null ],
-    [ "GetAI", "d5/da9/a12112.html#a060c52f53760e60a022a7034dd785b1d", null ]
+    [ "boss_evisceratorAI", "d5/da9/a12112.html#a26bfcd3390e987a9fe13dd1a2bc2a7a4", null ],
+    [ "DamageTaken", "d5/da9/a12112.html#aab3e8290963ca6c312715f18727d3e82", null ],
+    [ "JustEngagedWith", "d5/da9/a12112.html#a60f3942b352206888569f60776041a28", null ],
+    [ "UpdateAI", "d5/da9/a12112.html#aa201d35455f2e6eb41df27e264c2c03c", null ],
+    [ "SpellShieldReady", "d5/da9/a12112.html#a3e5d8a40bfca16cc811f35b1293c19aa", null ]
 ];

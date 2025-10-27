@@ -1,8 +1,8 @@
 var a16488 =
 [
-    [ "npc_toc_hunterAI", "d6/d62/a16488.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
-    [ "JustSummoned", "d6/d62/a16488.html#aa270248ad9e0c319234ff0741270b465", null ],
-    [ "myCanCast", "d6/d62/a16488.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
-    [ "UpdateAI", "d6/d62/a16488.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
-    [ "events", "d6/d62/a16488.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
+    [ "npc_black_knight_skeletal_gryphonAI", "d6/d62/a16488.html#ada99dced1e560aebc908a0efb6c23d0a", null ],
+    [ "DoAction", "d6/d62/a16488.html#af38e129cdf4af99e99c41b6a98448e56", null ],
+    [ "Reset", "d6/d62/a16488.html#a5e20d5e17baaac92a560a5b2fe15fe7b", null ],
+    [ "UpdateAI", "d6/d62/a16488.html#a851008790128831c5c10710b4cccb196", null ],
+    [ "WaypointReached", "d6/d62/a16488.html#a74b5fb1d3631c404e7797085e45e6159", null ]
 ];

@@ -1,6 +1,6 @@
 var a12956 =
 [
-    [ "npc_unworthy_initiate_anchorAI", "d0/d81/a12960.html", "d0/d81/a12960" ],
-    [ "npc_unworthy_initiate_anchor", "de/daa/a12956.html#a3d4c6d9e5ffa66d3424297b27e5ac4a1", null ],
-    [ "GetAI", "de/daa/a12956.html#ab012983661d20a3ffa4f58136bd2d808", null ]
+    [ "npc_grandmother", "de/daa/a12956.html#a6cffe8c574859779f6561dde0aef9666", null ],
+    [ "OnGossipHello", "de/daa/a12956.html#ae39335d22b5fd1fc4c0f9d34e8977124", null ],
+    [ "OnGossipSelect", "de/daa/a12956.html#a0e2b684377ed593abfbb49b730cfe9b2", null ]
 ];

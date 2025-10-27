@@ -1,7 +1,7 @@
 var a17920 =
 [
-    [ "HandleTriggerSpell", "d0/d49/a17920.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
-    [ "PrepareAuraScript", "d0/d49/a17920.html#afff0c81696ddcb427ce105d510ef93b1", null ],
-    [ "Register", "d0/d49/a17920.html#aa50c6066115d7b60704eff48e77d10bd", null ],
-    [ "Validate", "d0/d49/a17920.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
+    [ "DamageGunship", "d0/d49/a17920.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
+    [ "PrepareSpellScript", "d0/d49/a17920.html#aa698d016ae58d665c081976f20ec0385", null ],
+    [ "Register", "d0/d49/a17920.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
+    [ "Validate", "d0/d49/a17920.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
 ];

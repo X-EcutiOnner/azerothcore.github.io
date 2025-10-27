@@ -1,8 +1,6 @@
 var a11092 =
 [
-    [ "SkillPerfectItemEntry", "db/d20/a11092.html#a683f3c6f5e9c5ef2a0f0fa09d546d2a3", null ],
-    [ "SkillPerfectItemEntry", "db/d20/a11092.html#a678f9908440187faad38c0e1ffaf82de", null ],
-    [ "perfectCreateChance", "db/d20/a11092.html#a750d5ab6bc3df0026e640f1c84de8547", null ],
-    [ "perfectItemType", "db/d20/a11092.html#a057605f8867d4df5cb290318598a2908", null ],
-    [ "requiredSpecialization", "db/d20/a11092.html#aa7ad968ab1b8804ee8f0f8f40bc6f762", null ]
+    [ "CorpseMapPositionQuery", "db/d20/a11092.html#a14bfe5f386800785ae3f4f39aea9ea83", null ],
+    [ "Read", "db/d20/a11092.html#a0adb3889b6bc53646cb54163f7b04a6b", null ],
+    [ "unk", "db/d20/a11092.html#ab7edc2e1ef196f05aef9ea1c8427f877", null ]
 ];

@@ -1,7 +1,6 @@
 var a24052 =
 [
-    [ "HandleDummy", "dc/dfb/a24052.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "dc/dfb/a24052.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "dc/dfb/a24052.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "dc/dfb/a24052.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "HandlePeriodic", "dc/dfb/a24052.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
+    [ "PrepareAuraScript", "dc/dfb/a24052.html#a75d72d196ded2ee109d0231d4342890a", null ],
+    [ "Register", "dc/dfb/a24052.html#a148013ea68bbc573bddc1c3639dba019", null ]
 ];

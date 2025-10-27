@@ -1,7 +1,6 @@
 var a18064 =
 [
-    [ "FrostBombExplosion", "d6/d6c/a18064.html#ac7d318e241e6442e8aa084b27ea50236", null ],
-    [ "Execute", "d6/d6c/a18064.html#a0b6521266f18b621260286c530ff3f36", null ],
-    [ "_owner", "d6/d6c/a18064.html#aa9ff39ce43c351e8815f895896fa759b", null ],
-    [ "_sindragosaGUID", "d6/d6c/a18064.html#a5afc3d543c8fa457c90735f841aa161c", null ]
+    [ "npc_volatile_oozeAI", "d9/d53/a18068.html", "d9/d53/a18068" ],
+    [ "npc_volatile_ooze", "d6/d6c/a18064.html#a22847e44812a0b13b92cfcca3a70204e", null ],
+    [ "GetAI", "d6/d6c/a18064.html#a66b4918c14d90d5550ddc8dbe90c2e01", null ]
 ];

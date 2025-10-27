@@ -1,6 +1,7 @@
 var a25100 =
 [
-    [ "HandleScriptEffect", "dd/d6e/a25100.html#a514697f3fdcbf9274453d6d71c0c4816", null ],
-    [ "PrepareSpellScript", "dd/d6e/a25100.html#a5bcff624e9a396a2f90115dc99d93ae9", null ],
-    [ "Register", "dd/d6e/a25100.html#aebcc23e4f4a1c5ab90fb06a47755ec2b", null ]
+    [ "HandleApply", "dd/d6e/a25100.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
+    [ "HandlePeriodicTimer", "dd/d6e/a25100.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
+    [ "PrepareAuraScript", "dd/d6e/a25100.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
+    [ "Register", "dd/d6e/a25100.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
 ];

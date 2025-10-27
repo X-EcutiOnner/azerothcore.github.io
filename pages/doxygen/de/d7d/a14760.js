@@ -1,6 +1,6 @@
 var a14760 =
 [
-    [ "boss_infinite_corruptorAI", "df/d1f/a14764.html", "df/d1f/a14764" ],
-    [ "boss_infinite_corruptor", "de/d7d/a14760.html#a78a939073ab44b818cefdb25419f92be", null ],
-    [ "GetAI", "de/d7d/a14760.html#ab6eaf2f9d1928817e45b092a3a87bda4", null ]
+    [ "HandleDummy", "de/d7d/a14760.html#aa75140309e66c28590a64e10676356da", null ],
+    [ "PrepareSpellScript", "de/d7d/a14760.html#a21c4872e16c18c2918dfbea366e61df3", null ],
+    [ "Register", "de/d7d/a14760.html#a841c9277224cbae878946deb288b87a1", null ]
 ];

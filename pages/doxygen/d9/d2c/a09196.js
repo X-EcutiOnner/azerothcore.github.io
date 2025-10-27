@@ -1,8 +1,5 @@
 var a09196 =
 [
-    [ "AIRelocationNotifier", "d9/d2c/a09196.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
-    [ "Visit", "d9/d2c/a09196.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
-    [ "Visit", "d9/d2c/a09196.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
-    [ "i_unit", "d9/d2c/a09196.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
-    [ "isCreature", "d9/d2c/a09196.html#a199f4b91d00dd4db90855e5521d87a95", null ]
+    [ "HolesType", "d9/d2c/a09196.html#a72531c15631ba45fe0c0ed962557e993", null ],
+    [ "holes", "d9/d2c/a09196.html#a496f77513e47d89adfcc2f32d4bc1242", null ]
 ];

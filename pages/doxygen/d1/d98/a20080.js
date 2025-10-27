@@ -1,5 +1,6 @@
 var a20080 =
 [
-    [ "achievement_flame_leviathan_unbroken", "d1/d98/a20080.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
-    [ "OnCheck", "d1/d98/a20080.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
+    [ "npc_hodirs_furyAI", "d8/def/a20084.html", "d8/def/a20084" ],
+    [ "npc_hodirs_fury", "d1/d98/a20080.html#af5e0f1cb4c478bd4fc9ec246aa7d7e08", null ],
+    [ "GetAI", "d1/d98/a20080.html#ad8856a6da86a8f4ce744d57614ee16e6", null ]
 ];

@@ -1,6 +1,5 @@
 var a27264 =
 [
-    [ "go_flamesAI", "d5/dfd/a27268.html", "d5/dfd/a27268" ],
-    [ "go_flames", "d2/ddf/a27264.html#a75d49202eaf2078b8276e59944d1ec89", null ],
-    [ "GetAI", "d2/ddf/a27264.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
+    [ "achievement_bg_ic_mowed_down", "d2/ddf/a27264.html#ab05387d1e14958e87123bd0fc2188445", null ],
+    [ "OnCheck", "d2/ddf/a27264.html#a385e09c605084900f374090e5e19c24f", null ]
 ];

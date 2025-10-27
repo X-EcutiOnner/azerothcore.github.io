@@ -1,5 +1,5 @@
 var a28380 =
 [
-    [ "Exp", "d2/d20/a28380.html#aa34490babd6ccdc45857947db3f36d60", null ],
-    [ "id", "d2/d20/a28380.html#abe177efe7ea9d1d1ae8e7d09655c7193", null ]
+    [ "ID", "d2/d20/a28380.html#a01bcdc3543d3ff250354acf5e0724c14", null ],
+    [ "spellId", "d2/d20/a28380.html#aabbb95c091e0b0946bcb05746b1c23f3", null ]
 ];

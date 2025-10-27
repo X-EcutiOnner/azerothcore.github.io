@@ -1,6 +1,6 @@
 var a20960 =
 [
-    [ "boss_yoggsaron_neltharionAI", "de/dfd/a20964.html", "de/dfd/a20964" ],
-    [ "boss_yoggsaron_neltharion", "dd/d0f/a20960.html#a9910e0d6043e7738cba0fe9ae7e92898", null ],
-    [ "GetAI", "dd/d0f/a20960.html#abce5f59c35f7af3e1d5b30cc55ff48e6", null ]
+    [ "PrepareSpellScript", "dd/d0f/a20960.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
+    [ "Register", "dd/d0f/a20960.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
+    [ "SelectTarget", "dd/d0f/a20960.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
 ];

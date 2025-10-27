@@ -1,7 +1,6 @@
 var a20996 =
 [
-    [ "FilterTargets", "d2/d88/a20996.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
-    [ "HandleDummyEffect", "d2/d88/a20996.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
-    [ "PrepareSpellScript", "d2/d88/a20996.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
-    [ "Register", "d2/d88/a20996.html#a337cdb940a2001ac370768b02126d3c0", null ]
+    [ "boss_yoggsaron_guardian_of_ysAI", "d3/dfd/a21000.html", "d3/dfd/a21000" ],
+    [ "boss_yoggsaron_guardian_of_ys", "d2/d88/a20996.html#a299b346a4e9ac5190d554702dcf00faf", null ],
+    [ "GetAI", "d2/d88/a20996.html#a86380b3ad87e0070541d22d3fb74058f", null ]
 ];

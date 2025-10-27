@@ -1,8 +1,7 @@
 var a26976 =
 [
-    [ "HandleEffect", "df/d16/a26976.html#a1c1a06362742abcf83e1817c468de3d3", null ],
-    [ "PrepareSpellScript", "df/d16/a26976.html#a0e2cce13a3b2c8b8e9ace8876def8b9c", null ],
-    [ "Register", "df/d16/a26976.html#a56108b37bc69809ce80d424e2bcb3f55", null ],
-    [ "SendMiss", "df/d16/a26976.html#afda727460aebc8fe97d5c18d0195ea2c", null ],
-    [ "Validate", "df/d16/a26976.html#ab9533351a176f4e0d641a6e36a75d6b9", null ]
+    [ "HandleDummy", "df/d16/a26976.html#abd35c974f5ebec4c8845c05ab4f6d309", null ],
+    [ "PrepareSpellScript", "df/d16/a26976.html#a99deca1c5c8631342be400cb863eefb2", null ],
+    [ "Register", "df/d16/a26976.html#aa5ecc51b030fe7280e824ade641216d3", null ],
+    [ "Validate", "df/d16/a26976.html#a731503d3769718695d109ad71160e67a", null ]
 ];

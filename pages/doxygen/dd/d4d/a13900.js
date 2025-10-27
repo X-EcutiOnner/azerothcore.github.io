@@ -1,7 +1,9 @@
 var a13900 =
 [
-    [ "OnPeriodic", "dd/d4d/a13900.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
-    [ "PrepareAuraScript", "dd/d4d/a13900.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
-    [ "Register", "dd/d4d/a13900.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
-    [ "Validate", "dd/d4d/a13900.html#a7ed214de6769314a45540e9afdb82949", null ]
+    [ "npc_tyrion_spybotAI", "dd/d4d/a13900.html#aedad685279012266637d29069ead9063", null ],
+    [ "Reset", "dd/d4d/a13900.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
+    [ "UpdateAI", "dd/d4d/a13900.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
+    [ "WaypointReached", "dd/d4d/a13900.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
+    [ "uiPhase", "dd/d4d/a13900.html#af5dbb99fe18d96665efd04bd53294636", null ],
+    [ "uiTimer", "dd/d4d/a13900.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
 ];

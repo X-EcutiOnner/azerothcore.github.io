@@ -1,6 +1,6 @@
 var a19568 =
 [
-    [ "boss_lokenAI", "dc/d47/a19572.html", "dc/d47/a19572" ],
-    [ "boss_loken", "dc/d77/a19568.html#a44ba0ee009dcdfca6ff8739e297ec786", null ],
-    [ "GetAI", "dc/d77/a19568.html#affb73db8ecdc2d035f8076ecca0c9a99", null ]
+    [ "instance_nexus_InstanceMapScript", "dc/d47/a19572.html", "dc/d47/a19572" ],
+    [ "instance_nexus", "dc/d77/a19568.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
+    [ "GetInstanceScript", "dc/d77/a19568.html#a156210ba08caa0572c775dbd5851b250", null ]
 ];

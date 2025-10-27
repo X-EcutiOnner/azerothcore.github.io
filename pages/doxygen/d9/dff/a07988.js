@@ -1,9 +1,8 @@
 var a07988 =
 [
-    [ "LFGPlayerScript", "d9/dff/a07988.html#ad27ca48d9e573ad0ba155a3f7eb1ae88", null ],
-    [ "OnPlayerBindToInstance", "d9/dff/a07988.html#aeb3fd4e39ed8ba345cf3c76a232f241d", null ],
-    [ "OnPlayerLevelChanged", "d9/dff/a07988.html#afd530a2823a7187b49645c9d0625c8ba", null ],
-    [ "OnPlayerLogin", "d9/dff/a07988.html#a3b4e8775787feb8266edc52fddc7ab3a", null ],
-    [ "OnPlayerLogout", "d9/dff/a07988.html#a13c365770c90d1a44f72ab4cb8c7f903", null ],
-    [ "OnPlayerMapChanged", "d9/dff/a07988.html#ab3022d19b8d32bf0f269b2e991150a1c", null ]
+    [ "LfgPlayerRewardData", "d9/dff/a07988.html#afe99288f8d7028a5a54317e73e3f2c01", null ],
+    [ "done", "d9/dff/a07988.html#a91ba12acf66d631af2de45513f20b702", null ],
+    [ "quest", "d9/dff/a07988.html#abd051091fec6835f63bafa98a045142b", null ],
+    [ "rdungeonEntry", "d9/dff/a07988.html#a87623ce14ef1d123d226e37e227a566d", null ],
+    [ "sdungeonEntry", "d9/dff/a07988.html#abe9c93ab7f3a421dd3c44414a0987277", null ]
 ];

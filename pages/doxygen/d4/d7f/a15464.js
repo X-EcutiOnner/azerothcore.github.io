@@ -1,7 +1,6 @@
 var a15464 =
 [
-    [ "npc_aged_dying_ancient_kodoAI", "d9/d42/a15468.html", "d9/d42/a15468" ],
-    [ "npc_aged_dying_ancient_kodo", "d4/d7f/a15464.html#a676170a319d3a8e46c9d017e61396c28", null ],
-    [ "GetAI", "d4/d7f/a15464.html#a886bc82764e4ca6d98dc94ea73415375", null ],
-    [ "OnGossipHello", "d4/d7f/a15464.html#a8489b3f23d8eca39f2750711512672e4", null ]
+    [ "OnPeriodic", "d4/d7f/a15464.html#a5945e24db52c6bacae7221b085dc877b", null ],
+    [ "PrepareAuraScript", "d4/d7f/a15464.html#acc987aa864a8333de7bd0b770eb9018d", null ],
+    [ "Register", "d4/d7f/a15464.html#a3c5a192302ec6d531037f8b5da1565f2", null ]
 ];

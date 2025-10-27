@@ -1,18 +1,6 @@
 var a08828 =
 [
-    [ "GameEventData", "d3/d6e/a08828.html#ab7963b01d9e138d79f06274ea57b9590", null ],
-    [ "isValid", "d3/d6e/a08828.html#a7a91c9c9cc68593812b13f6efd2ea4ff", null ],
-    [ "Announce", "d3/d6e/a08828.html#ae055378db69064ad4338ec2ddf6c7c75", null ],
-    [ "Conditions", "d3/d6e/a08828.html#a0915a0321c4c26bfb61824587a309cde", null ],
-    [ "Description", "d3/d6e/a08828.html#a5ab9afbc209e319839fd68de0cbc2207", null ],
-    [ "End", "d3/d6e/a08828.html#a4bae1cf480ee64f190e2f09640e8a8cd", null ],
-    [ "EventId", "d3/d6e/a08828.html#a6fe6513946fc98803fb816d2aabd8dcc", null ],
-    [ "HolidayId", "d3/d6e/a08828.html#a9c9979bdece8534af216b693a2a58a80", null ],
-    [ "HolidayStage", "d3/d6e/a08828.html#a44c52795eed59abdff72cdebdccc50ca", null ],
-    [ "Length", "d3/d6e/a08828.html#a72bff4c3a62db350460993d804a461ea", null ],
-    [ "NextStart", "d3/d6e/a08828.html#aafe5f4d5b9122f26442266c651ebd77e", null ],
-    [ "Occurence", "d3/d6e/a08828.html#ab4e80a88f30560a3af0c6381e974687d", null ],
-    [ "PrerequisiteEvents", "d3/d6e/a08828.html#aa4ecb9c9ce012aad0c1cb0d90a3eb4e0", null ],
-    [ "Start", "d3/d6e/a08828.html#a3be91b7e00641ca6cb853104190845dc", null ],
-    [ "State", "d3/d6e/a08828.html#a6288a7c28aba2927c3e91f5d2f517a60", null ]
+    [ "BuildValuesCachedBuffer", "d3/d6e/a08828.html#a87a3167ae060c8556700e4a137294053", null ],
+    [ "buffer", "d3/d6e/a08828.html#add7150533a48434b0e606add9cff04d2", null ],
+    [ "posPointers", "d3/d6e/a08828.html#affa098684782f15383a7df063b178cf1", null ]
 ];

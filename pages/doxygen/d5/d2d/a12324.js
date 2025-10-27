@@ -1,9 +1,12 @@
 var a12324 =
 [
-    [ "npc_drakonid_spawner", "d5/d2d/a12324.html#a2b657e800dc5cc30c618391413ded116", null ],
-    [ "DoAction", "d5/d2d/a12324.html#ab013cff0430c09fe1045fdc735e45182", null ],
-    [ "IsSummonedBy", "d5/d2d/a12324.html#a6a2170e0f20736d69006ce6d6c769476", null ],
-    [ "SummonedCreatureDies", "d5/d2d/a12324.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
-    [ "UpdateAI", "d5/d2d/a12324.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
-    [ "_owner", "d5/d2d/a12324.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
+    [ "boss_thebeastAI", "d5/d2d/a12324.html#a51b7d4ec10d2616d99fb21e680ff17b4", null ],
+    [ "FindNearbyOrcs", "d5/d2d/a12324.html#ad832a878880ac32e05d360262546422a", null ],
+    [ "JustEngagedWith", "d5/d2d/a12324.html#ab107354f10d0af4b840ab5ff8d3d0eaf", null ],
+    [ "Reset", "d5/d2d/a12324.html#abfa1bca308a02ef0e80d2baf11670305", null ],
+    [ "SetData", "d5/d2d/a12324.html#a6f30ed7c0451613998660b258145f801", null ],
+    [ "UpdateAI", "d5/d2d/a12324.html#a0f490e907ce632e1fb921a6eb46b49c0", null ],
+    [ "_beastReached", "d5/d2d/a12324.html#a01271598b4b3c85a7066e66d8150e522", null ],
+    [ "_nearbyOrcsGUIDs", "d5/d2d/a12324.html#af32fb34f4c76cfe292da9bc84a5d6372", null ],
+    [ "_orcYelled", "d5/d2d/a12324.html#a16df847475ea220b8ac4ea944e8d1ca4", null ]
 ];

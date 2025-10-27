@@ -1,6 +1,9 @@
 var a15800 =
 [
-    [ "HandleSummon", "d0/d14/a15800.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
-    [ "PrepareSpellScript", "d0/d14/a15800.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
-    [ "Register", "d0/d14/a15800.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
+    [ "go_wind_stoneAI", "d0/d14/a15800.html#a4370be2b59ea50bf5ea2285bfbf4e242", null ],
+    [ "GossipHello", "d0/d14/a15800.html#a73f129b7b636a1178fe3402cf1e6c50d", null ],
+    [ "GossipSelect", "d0/d14/a15800.html#aff4dedbf3a6fea405722f7064633edb1", null ],
+    [ "InitializeAI", "d0/d14/a15800.html#a33f98d1de05b539a66c4103b4c61de1f", null ],
+    [ "SummonNPC", "d0/d14/a15800.html#ab44f563b8f117a19ac78508c3cba72e9", null ],
+    [ "_creatureGuid", "d0/d14/a15800.html#a50ad8b248381a6d9fac7a291796966d6", null ]
 ];

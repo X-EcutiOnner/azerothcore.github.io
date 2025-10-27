@@ -1,5 +1,7 @@
 var a27864 =
 [
-    [ "ID", "d7/d20/a27864.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
-    [ "price", "d7/d20/a27864.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
+    [ "npc_wormholeAI", "d7/d20/a27864.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
+    [ "GetData", "d7/d20/a27864.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
+    [ "InitializeAI", "d7/d20/a27864.html#aa0a903014ec7243036604ffcc67e0a36", null ],
+    [ "_showUnderground", "d7/d20/a27864.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
 ];

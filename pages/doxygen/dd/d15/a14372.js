@@ -1,6 +1,5 @@
 var a14372 =
 [
-    [ "gameobjectId", "dd/d15/a14372.html#a5cebf652fccc66cb5f98968036405d14", null ],
-    [ "spawnIndex", "dd/d15/a14372.html#a5e8b95d6ecf69db8736941b67e2478d8", null ],
-    [ "timestamp", "dd/d15/a14372.html#a0c49f62b35e906637890fee896c74951", null ]
+    [ "go_brazier_of_madness", "dd/d15/a14372.html#aeb900e575be02244e62c6e5e4153c855", null ],
+    [ "GossipHello", "dd/d15/a14372.html#aba3af326b01cd045523434aec189fd47", null ]
 ];

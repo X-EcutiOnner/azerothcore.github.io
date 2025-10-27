@@ -1,9 +1,8 @@
 var a13452 =
 [
-    [ "boss_entropius", "d9/d20/a13452.html#a458deaa80c9694cd2608150bc5519c76", null ],
-    [ "EnterEvadeMode", "d9/d20/a13452.html#a01889b192525af082471d092bff28c88", null ],
-    [ "JustDied", "d9/d20/a13452.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
-    [ "JustEngagedWith", "d9/d20/a13452.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
-    [ "Reset", "d9/d20/a13452.html#ad9da990a540703d38cb45dd2da72c179", null ],
-    [ "UpdateAI", "d9/d20/a13452.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
+    [ "npc_madrigosa", "d9/d20/a13452.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
+    [ "DoAction", "d9/d20/a13452.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
+    [ "UpdateAI", "d9/d20/a13452.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
+    [ "events", "d9/d20/a13452.html#a5859e4c8454371eb71740616d4763c0e", null ],
+    [ "instance", "d9/d20/a13452.html#a09525d3bb35d1da4246bd84bbadea304", null ]
 ];

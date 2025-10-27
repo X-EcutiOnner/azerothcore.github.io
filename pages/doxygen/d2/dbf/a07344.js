@@ -1,12 +1,10 @@
 var a07344 =
 [
-    [ "NodeId", "d2/dbf/a07344.html#a039c468fa0b6110809f0617496c0146c", null ],
-    [ "TextAllianceAssaulted", "d2/dbf/a07344.html#a345b2ce7c48e9d10d03ff484a0108389", null ],
-    [ "TextAllianceClaims", "d2/dbf/a07344.html#a0671602a29f33e353a8a339540beae18", null ],
-    [ "TextAllianceDefended", "d2/dbf/a07344.html#ac87cbc9c4ec307bd2f3b09f6cdcd0250", null ],
-    [ "TextAllianceTaken", "d2/dbf/a07344.html#a281a0378999ed5966f5d28cc4310fbcd", null ],
-    [ "TextHordeAssaulted", "d2/dbf/a07344.html#a7fb668b0b9563bb0779bf4a5daefded8", null ],
-    [ "TextHordeClaims", "d2/dbf/a07344.html#acddac09017717cf5b2893ab83e1d10c8", null ],
-    [ "TextHordeDefended", "d2/dbf/a07344.html#a00cea010cfe6fb9702e5cb00003e5bef", null ],
-    [ "TextHordeTaken", "d2/dbf/a07344.html#a2bbd1b49b9b72784d07be9db2a27fe77", null ]
+    [ "ArenaLogEntryData", "d2/dbf/a07344.html#a8f3ec057dd930d2f2acd7961e0cf4e5e", null ],
+    [ "Fill", "d2/dbf/a07344.html#aa3cca4521431bf152550611549bf4bbe", null ],
+    [ "Acc", "d2/dbf/a07344.html#aa8983930063298c86f4635d2ae3078fe", null ],
+    [ "ArenaTeamId", "d2/dbf/a07344.html#ac764620c3c8a986286fd74062dac4645", null ],
+    [ "Guid", "d2/dbf/a07344.html#a03b32cd44c655dcc9104aead3b76454e", null ],
+    [ "IP", "d2/dbf/a07344.html#ab9f80eacfe24025a2d4947085d3f6dd7", null ],
+    [ "Name", "d2/dbf/a07344.html#a5c18d554adb9e38ab10baf36c9b3fdd7", null ]
 ];

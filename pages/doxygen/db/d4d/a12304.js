@@ -1,7 +1,6 @@
 var a12304 =
 [
-    [ "ClassCallSelector", "db/d4d/a12304.html#a223895c97121b0727aac258c12c89e0b", null ],
-    [ "operator()", "db/d4d/a12304.html#ab0d2ab1d94d72c6a202ed0cb2900dd2e", null ],
-    [ "_me", "db/d4d/a12304.html#a5347a24609a21ae0a342682104b1dc14", null ],
-    [ "_targetClass", "db/d4d/a12304.html#a7ce861956ec8d216d2f8cba82c69ea50", null ]
+    [ "boss_solakar_flamewreathAI", "d7/d68/a12308.html", "d7/d68/a12308" ],
+    [ "boss_solakar_flamewreath", "db/d4d/a12304.html#a0d5a9f9525303014e72cd98d45bf302f", null ],
+    [ "GetAI", "db/d4d/a12304.html#a0bd7971406392f15f68828ed217f4d06", null ]
 ];

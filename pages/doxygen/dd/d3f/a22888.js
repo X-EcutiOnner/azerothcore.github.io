@@ -1,7 +1,11 @@
 var a22888 =
 [
-    [ "PrepareAuraScript", "dd/d3f/a22888.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "dd/d3f/a22888.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "dd/d3f/a22888.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "dd/d3f/a22888.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "boss_murmur", "dd/d3f/a22888.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
+    [ "CanAIAttack", "dd/d3f/a22888.html#a6b89c95747c0a37c0b37527cd360e524", null ],
+    [ "CastSuppressionOOC", "dd/d3f/a22888.html#aab66339a7436c3c483297b25f6859558", null ],
+    [ "EnterEvadeMode", "dd/d3f/a22888.html#aa0f549c83a92302ece2323c75dd29acc", null ],
+    [ "JustEngagedWith", "dd/d3f/a22888.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
+    [ "Reset", "dd/d3f/a22888.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
+    [ "SetGUID", "dd/d3f/a22888.html#a33ef5951ded28d26fbad832ec8c222e3", null ],
+    [ "ShouldCastResonance", "dd/d3f/a22888.html#ade07217a85655a513d7a472d24589691", null ]
 ];

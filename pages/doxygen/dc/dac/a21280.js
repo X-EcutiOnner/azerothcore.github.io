@@ -1,11 +1,6 @@
 var a21280 =
 [
-    [ "boss_archavonAI", "dc/dac/a21280.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
-    [ "AttackStart", "dc/dac/a21280.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
-    [ "JustDied", "dc/dac/a21280.html#a3974065a80dedf3e673452e7f6f8e449", null ],
-    [ "JustEngagedWith", "dc/dac/a21280.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
-    [ "Reset", "dc/dac/a21280.html#a7d101626f39947dd54b574491a5e6d72", null ],
-    [ "UpdateAI", "dc/dac/a21280.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
-    [ "events", "dc/dac/a21280.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
-    [ "pInstance", "dc/dac/a21280.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
+    [ "instance_utgarde_keep_InstanceMapScript", "db/d4d/a21284.html", "db/d4d/a21284" ],
+    [ "instance_utgarde_keep", "dc/dac/a21280.html#abe013e4f086f63722a6398b2b7928c80", null ],
+    [ "GetInstanceScript", "dc/dac/a21280.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
 ];

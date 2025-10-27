@@ -1,20 +1,20 @@
 var a00884 =
 [
-    [ "DiminishingReturn", "d0/d6a/a08751.html", "d0/d6a/a08751" ],
-    [ "DispelInfo", "d0/dbd/a08755.html", "d0/dbd/a08755" ],
-    [ "CleanDamage", "d1/dfc/a08759.html", "d1/dfc/a08759" ],
-    [ "DamageInfo", "dd/d1e/a08763.html", "dd/d1e/a08763" ],
-    [ "HealInfo", "d2/d3b/a08767.html", "d2/d3b/a08767" ],
-    [ "ProcEventInfo", "df/d20/a08771.html", "df/d20/a08771" ],
-    [ "CalcDamageInfo", "d9/db6/a08775.html", "d9/db6/a08775" ],
-    [ "SpellNonMeleeDamage", "d0/db3/a08783.html", "d0/db3/a08783" ],
-    [ "SpellPeriodicAuraLogInfo", "dc/d09/a08787.html", "dc/d09/a08787" ],
-    [ "DeclinedName", "de/d8e/a08791.html", "de/d8e/a08791" ],
-    [ "AttackPosition", "d6/d72/a08795.html", "d6/d72/a08795" ],
-    [ "Unit", "d6/d41/a08799.html", "d6/d41/a08799" ],
-    [ "Acore::PowerPctOrderPred", "d1/d39/a08803.html", "d1/d39/a08803" ],
-    [ "Acore::HealthPctOrderPred", "d4/d1d/a08807.html", "d4/d1d/a08807" ],
-    [ "RedirectSpellEvent", "d3/d1a/a08811.html", "d3/d1a/a08811" ],
+    [ "DiminishingReturn", "df/d50/a08752.html", "df/d50/a08752" ],
+    [ "DispelInfo", "d3/dd2/a08756.html", "d3/dd2/a08756" ],
+    [ "CleanDamage", "dc/d3f/a08760.html", "dc/d3f/a08760" ],
+    [ "DamageInfo", "dc/d44/a08764.html", "dc/d44/a08764" ],
+    [ "HealInfo", "da/d0d/a08768.html", "da/d0d/a08768" ],
+    [ "ProcEventInfo", "df/ddb/a08772.html", "df/ddb/a08772" ],
+    [ "CalcDamageInfo", "d4/d7a/a08776.html", "d4/d7a/a08776" ],
+    [ "SpellNonMeleeDamage", "d4/ddc/a08784.html", "d4/ddc/a08784" ],
+    [ "SpellPeriodicAuraLogInfo", "d8/d88/a08788.html", "d8/d88/a08788" ],
+    [ "DeclinedName", "de/d2b/a08792.html", "de/d2b/a08792" ],
+    [ "AttackPosition", "d8/d88/a08796.html", "d8/d88/a08796" ],
+    [ "Unit", "db/dbe/a08800.html", "db/dbe/a08800" ],
+    [ "Acore::PowerPctOrderPred", "db/dbe/a08804.html", "db/dbe/a08804" ],
+    [ "Acore::HealthPctOrderPred", "da/d9f/a08808.html", "da/d9f/a08808" ],
+    [ "RedirectSpellEvent", "da/d72/a08812.html", "da/d72/a08812" ],
     [ "ATTACK_DISPLAY_DELAY", "dd/d08/a00884.html#aa02d6a93a0021b2c52a47f8bb09a173a", null ],
     [ "BASE_ATTACK_TIME", "dd/d08/a00884.html#a6e75af6bfeb72695535b30f4523d119a", null ],
     [ "BASE_MAXDAMAGE", "dd/d08/a00884.html#ab29c54715d6bd3adbe462b0a9773530c", null ],
@@ -31,6 +31,7 @@ var a00884 =
     [ "DispelChargesList", "dd/d08/a00884.html#ac60ae645aa0b9216de7dac56c3ed8c37", null ],
     [ "PacketCooldowns", "dd/d08/a00884.html#acd1c012e0d368edde1e17c9ed84836f2", null ],
     [ "SharedVisionList", "dd/d08/a00884.html#a7987df2bda81f8939c39418ea78d20a5", null ],
+    [ "SpeedOpcodePair", "dd/d08/a00884.html#ab52bc855c0c581574dfd53d868dc587f", null ],
     [ "UnitList", "dd/d08/a00884.html#abbe331960980fa852a0be15ccebef947", null ],
     [ "BaseModGroup", "dd/d08/a00884.html#a938646605f1e70b8f1613bf9bdb78b4f", [
       [ "CRIT_PERCENTAGE", "dd/d08/a00884.html#a938646605f1e70b8f1613bf9bdb78b4fa75a0f4d4487127ec7c34e7f0f547efb4", null ],
@@ -169,6 +170,12 @@ var a00884 =
       [ "MatchAll", "dd/d08/a00884.html#abd60910b52e9fd2a0b8f4b030183f02ca9f0b169d4598df6b4325177393e01b9c", null ],
       [ "MatchAny", "dd/d08/a00884.html#abd60910b52e9fd2a0b8f4b030183f02cae0760d67b3b4ae87e8f3f00540ed5fc5", null ]
     ] ],
+    [ "SpeedOpcodeIndex", "dd/d08/a00884.html#ab9a3e815ba8c7b902bb137e2dd93b452", [
+      [ "PC", "dd/d08/a00884.html#ab9a3e815ba8c7b902bb137e2dd93b452a88dba0c4e2af76447df43d1e31331a3d", null ],
+      [ "NPC", "dd/d08/a00884.html#ab9a3e815ba8c7b902bb137e2dd93b452a2bda99597da06a11feafd8760b68aec6", null ],
+      [ "ACK_RESPONSE", "dd/d08/a00884.html#ab9a3e815ba8c7b902bb137e2dd93b452a16b840e80041585cf4d1cf617018b804", null ],
+      [ "MAX", "dd/d08/a00884.html#ab9a3e815ba8c7b902bb137e2dd93b452a26a4b44a837bf97b972628509912b4a5", null ]
+    ] ],
     [ "SpellCooldownFlags", "dd/d08/a00884.html#a7cf8dcf8ef7984bd27584b93d9fac4e3", [
       [ "SPELL_COOLDOWN_FLAG_NONE", "dd/d08/a00884.html#a7cf8dcf8ef7984bd27584b93d9fac4e3a91b5375b6d01dcf322150126fb2018ae", null ],
       [ "SPELL_COOLDOWN_FLAG_INCLUDE_GCD", "dd/d08/a00884.html#a7cf8dcf8ef7984bd27584b93d9fac4e3a663e093617d37a13962555e10c530187", null ],
@@ -243,5 +250,6 @@ var a00884 =
     [ "infinityCooldownDelay", "dd/d08/a00884.html#a76b85ce9200f098d29159574458e921e", null ],
     [ "infinityCooldownDelayCheck", "dd/d08/a00884.html#a12cb62c744887f9c3df04b223bb04080", null ],
     [ "MAX_CREATURE_SPELLS", "dd/d08/a00884.html#ac6af0816f1cdb55cd57c5975ff99ad18", null ],
-    [ "playerBaseMoveSpeed", "dd/d08/a00884.html#afef08589b9944f10d66bdc1de74d0270", null ]
+    [ "playerBaseMoveSpeed", "dd/d08/a00884.html#afef08589b9944f10d66bdc1de74d0270", null ],
+    [ "SetSpeed2Opc_table", "dd/d08/a00884.html#ab8425e2a6602134c64c3a54919e49c32", null ]
 ];

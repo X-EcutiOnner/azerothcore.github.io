@@ -1,7 +1,7 @@
 var a27768 =
 [
-    [ "npc_flameshocker", "dd/db1/a27768.html#ac1631ee1802a4014d71bd86567f5d5dd", null ],
-    [ "JustDied", "dd/db1/a27768.html#aba94a5bcec75c649049d5816a53ace58", null ],
-    [ "Reset", "dd/db1/a27768.html#a13cb88e2b33df2d910fb73053684b420", null ],
-    [ "UpdateAI", "dd/db1/a27768.html#adca7cd4e6ac78c0425d4377d66669f40", null ]
+    [ "npc_riggle_bassbaitAI", "dd/db1/a27768.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "dd/db1/a27768.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "dd/db1/a27768.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "dd/db1/a27768.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

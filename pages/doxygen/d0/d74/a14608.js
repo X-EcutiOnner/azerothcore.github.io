@@ -1,6 +1,6 @@
 var a14608 =
 [
-    [ "HandleScriptEffect", "d0/d74/a14608.html#aebd700897688157ca62405c92fe58680", null ],
-    [ "PrepareSpellScript", "d0/d74/a14608.html#a09e11d1938279a2302fb8805e71c6c36", null ],
-    [ "Register", "d0/d74/a14608.html#aa0679665ba2c496e0a5aa5f6864d7230", null ]
+    [ "npc_soh_fire_trigger", "d0/d74/a14608.html#a8bddde264f4848c9a8ed83dcad190223", null ],
+    [ "Reset", "d0/d74/a14608.html#acbec442907a8b40ae04496c53f210aa2", null ],
+    [ "SpellHit", "d0/d74/a14608.html#a6b96cc998d38c9fbf0ce93e0529c0f4c", null ]
 ];

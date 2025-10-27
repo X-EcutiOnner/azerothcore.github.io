@@ -1,16 +1,16 @@
 var a21428 =
 [
-    [ "boss_zuramatAI", "d6/d6c/a21428.html#ab4c04fec01023295946d170a466d1c48", null ],
-    [ "EnterEvadeMode", "d6/d6c/a21428.html#a991437ea0d9fd1ce7807ef9937c4cb0a", null ],
-    [ "JustDied", "d6/d6c/a21428.html#a060df9b36f2f62f3fc7afb80386d51c5", null ],
-    [ "JustEngagedWith", "d6/d6c/a21428.html#a85cc0f20b51e84ff1c5c16a3b2b004b9", null ],
-    [ "JustSummoned", "d6/d6c/a21428.html#a6e925207ddc112f7dd7044c08023f90e", null ],
-    [ "KilledUnit", "d6/d6c/a21428.html#adb79f8c244f57b88848dd44b592faf41", null ],
-    [ "MoveInLineOfSight", "d6/d6c/a21428.html#aa3ef3256d203d264dee12eff4491a28c", null ],
-    [ "Reset", "d6/d6c/a21428.html#a18498e4bc4bfac33ff2c591f5bf28d7d", null ],
-    [ "SummonedCreatureDespawn", "d6/d6c/a21428.html#a242f814bfec2e937e1338097e78080e3", null ],
-    [ "UpdateAI", "d6/d6c/a21428.html#adb591699b7d8ece0b1775afd40a4181b", null ],
-    [ "events", "d6/d6c/a21428.html#a4406b42618f3e40fa90e0a34ec3ad09f", null ],
-    [ "pInstance", "d6/d6c/a21428.html#a8ebb5ca6f9f18b0205e8b6a54492c06a", null ],
-    [ "summons", "d6/d6c/a21428.html#a42cb09654095c8a157720f99e7957102", null ]
+    [ "boss_emalonAI", "d6/d6c/a21428.html#ac87b3ea34e9781f3843321ef874321fe", null ],
+    [ "AttackStart", "d6/d6c/a21428.html#ab08f49aabe76b623496da2fc0198a6c1", null ],
+    [ "JustDied", "d6/d6c/a21428.html#a79a05156b690140e955a6e850ac41e5b", null ],
+    [ "JustEngagedWith", "d6/d6c/a21428.html#a9a3b4e6df73586125c0369aa2d3666df", null ],
+    [ "JustSummoned", "d6/d6c/a21428.html#a895f302d336faa0c3f93854314d3b427", null ],
+    [ "Reset", "d6/d6c/a21428.html#ae5d33f728077d5bbc3b7d74db8015f5d", null ],
+    [ "ResetSummons", "d6/d6c/a21428.html#a7df4da85c40ba1c34063df9b2df5874b", null ],
+    [ "SpellHitTarget", "d6/d6c/a21428.html#a2c60642848b73bc00d1a8244d4fb4733", null ],
+    [ "SummonedCreatureDies", "d6/d6c/a21428.html#a25a18c4d110b407c5fcf09c14444e8b0", null ],
+    [ "UpdateAI", "d6/d6c/a21428.html#a4701d5a77b6ae7ce3432c81b7b6d14cf", null ],
+    [ "events", "d6/d6c/a21428.html#a78312371e28b4be3c072dc870370b577", null ],
+    [ "pInstance", "d6/d6c/a21428.html#af4cc6489905f9702999cc23fd6a920c2", null ],
+    [ "summons", "d6/d6c/a21428.html#a1b6ccd418114e57a0c843cc980a56243", null ]
 ];

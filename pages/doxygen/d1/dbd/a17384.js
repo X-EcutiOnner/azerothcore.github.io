@@ -1,6 +1,6 @@
 var a17384 =
 [
-    [ "ChangeSummonPos", "d1/dbd/a17384.html#a2c3d69419762c7f78688a22017a8c535", null ],
-    [ "PrepareSpellScript", "d1/dbd/a17384.html#a97c48254a0d7a0bd4bcf40f614bc5373", null ],
-    [ "Register", "d1/dbd/a17384.html#a9c1aad0131ebe9635c9fdbb3d71c9cdd", null ]
+    [ "npc_living_mojoAI", "dc/d26/a17388.html", "dc/d26/a17388" ],
+    [ "npc_living_mojo", "d1/dbd/a17384.html#af24190023549b4ec5fa47b5959618a8a", null ],
+    [ "GetAI", "d1/dbd/a17384.html#a2b8ca6e1b26debfafd74e022825c889e", null ]
 ];

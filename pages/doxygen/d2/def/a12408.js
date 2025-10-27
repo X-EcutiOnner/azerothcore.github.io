@@ -1,9 +1,6 @@
 var a12408 =
 [
-    [ "HandleAfterApply", "d2/def/a12408.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
-    [ "HandleAfterRemove", "d2/def/a12408.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
-    [ "PeriodicTick", "d2/def/a12408.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
-    [ "PrepareAuraScript", "d2/def/a12408.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
-    [ "Register", "d2/def/a12408.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
-    [ "Validate", "d2/def/a12408.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
+    [ "FilterTargets", "d2/def/a12408.html#ac630fb5f068e4d26adb078b118994c45", null ],
+    [ "PrepareSpellScript", "d2/def/a12408.html#a5f4986bfad79573e65d56ff276c49914", null ],
+    [ "Register", "d2/def/a12408.html#aa1f5838d43871fd7908ea3b914666000", null ]
 ];

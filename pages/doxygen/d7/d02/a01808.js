@@ -1,7 +1,7 @@
 var a01808 =
 [
-    [ "WorldPackets::Calendar::GetEvent", "d4/d0a/a10531.html", "d4/d0a/a10531" ],
-    [ "WorldPackets::Calendar::GuildFilter", "de/dea/a10535.html", "de/dea/a10535" ],
-    [ "WorldPackets::Calendar::ArenaTeam", "da/d0d/a10539.html", "da/d0d/a10539" ],
-    [ "WorldPackets::Calendar::CalendarComplain", "dd/d19/a10543.html", "dd/d19/a10543" ]
+    [ "WorldPackets::Calendar::GetEvent", "db/d67/a10532.html", "db/d67/a10532" ],
+    [ "WorldPackets::Calendar::GuildFilter", "d8/d22/a10536.html", "d8/d22/a10536" ],
+    [ "WorldPackets::Calendar::ArenaTeam", "d4/d24/a10540.html", "d4/d24/a10540" ],
+    [ "WorldPackets::Calendar::CalendarComplain", "db/d25/a10544.html", "db/d25/a10544" ]
 ];

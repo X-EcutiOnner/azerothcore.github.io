@@ -1,7 +1,6 @@
 var a18296 =
 [
-    [ "OnRemove", "d0/d0a/a18296.html#ac1a58d605156c03d05eb99605287e762", null ],
-    [ "PrepareAuraScript", "d0/d0a/a18296.html#a2db820022631647e942b5ec84e63717e", null ],
-    [ "Register", "d0/d0a/a18296.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
-    [ "Validate", "d0/d0a/a18296.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
+    [ "FilterTargets", "d0/d0a/a18296.html#aae21b2d9ecc5bfd317f065f1da46b696", null ],
+    [ "PrepareSpellScript", "d0/d0a/a18296.html#a2a7e37db10a6f8a6c86af92d7b492a29", null ],
+    [ "Register", "d0/d0a/a18296.html#a6e541cad4c831ee2eaf19d72324ec38c", null ]
 ];

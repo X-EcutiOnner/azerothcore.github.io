@@ -1,10 +1,12 @@
 var a17796 =
 [
-    [ "npc_cult_adherentAI", "d0/d53/a17796.html#a1ea249a25b188a949213788614f4049e", null ],
-    [ "JustEngagedWith", "d0/d53/a17796.html#ab97e0177fbc9fc7135dc7a7de0e6e31a", null ],
-    [ "Reset", "d0/d53/a17796.html#ab0b54e45468b5ebed0194c441cce434e", null ],
-    [ "SpellHit", "d0/d53/a17796.html#ab0d83d53a7f0d14cb15e133e426f2f02", null ],
-    [ "UpdateAI", "d0/d53/a17796.html#ad89638cf5859615ba2e3a0deb6701751", null ],
-    [ "_instance", "d0/d53/a17796.html#a970e99fba28d6e3e0cb759c87a866273", null ],
-    [ "events", "d0/d53/a17796.html#aa53025d3fe95086dc0c23d5d563df7c4", null ]
+    [ "gunship_npc_AI", "d0/d53/a17796.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
+    [ "EnterEvadeMode", "d0/d53/a17796.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
+    [ "JustDied", "d0/d53/a17796.html#ad40c976be4decd9054dad031a4caab78", null ],
+    [ "MovementInform", "d0/d53/a17796.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
+    [ "SetData", "d0/d53/a17796.html#acfd5e331155d7787ada33acbca73fece", null ],
+    [ "SetSlotInfo", "d0/d53/a17796.html#afdfc3f9add2952f90baf24d55425670f", null ],
+    [ "Index", "d0/d53/a17796.html#ae120874514cf5921136821b820a04da7", null ],
+    [ "Instance", "d0/d53/a17796.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
+    [ "Slot", "d0/d53/a17796.html#a59d237475ae309755d429cfac77d6630", null ]
 ];

@@ -1,6 +1,6 @@
 var a24892 =
 [
-    [ "PrepareSpellScript", "d7/dd2/a24892.html#acfa320b33c00883a78c3696bbbeb7eb0", null ],
-    [ "Register", "d7/dd2/a24892.html#a6d251ba1e88d4349dcffa96978389a7f", null ],
-    [ "SelectTarget", "d7/dd2/a24892.html#a0d95f8ad8d05d2c0b100dc10988d00c9", null ]
+    [ "CalculateAmount", "d7/dd2/a24892.html#a8deb31d3b6244f4d8de6050c99b3192e", null ],
+    [ "PrepareAuraScript", "d7/dd2/a24892.html#a4090baaee0e4330d3776b5774c5c923a", null ],
+    [ "Register", "d7/dd2/a24892.html#a4db48f3a549a04caf746a9459b1c5640", null ]
 ];

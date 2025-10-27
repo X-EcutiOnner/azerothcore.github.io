@@ -1,7 +1,7 @@
 var a24712 =
 [
-    [ "CalculateAmount", "d6/d1f/a24712.html#af51a8e22ddfe0648f08a4190d730fbda", null ],
-    [ "CheckProc", "d6/d1f/a24712.html#a2f80dcd9e5922af55dee096c95079062", null ],
-    [ "PrepareAuraScript", "d6/d1f/a24712.html#af54ef254d0897140255960146507e986", null ],
-    [ "Register", "d6/d1f/a24712.html#ad6e4bd4390f6f88494984af792a11b90", null ]
+    [ "HandleProc", "d6/d1f/a24712.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
+    [ "PrepareAuraScript", "d6/d1f/a24712.html#a2840931b939b95e6a476c07f08ca66b5", null ],
+    [ "Register", "d6/d1f/a24712.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
+    [ "lastChargeUsedTime", "d6/d1f/a24712.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
 ];

@@ -1,9 +1,9 @@
 var a07404 =
 [
-    [ "entry", "d5/d1c/a07404.html#a2238cabe763a588a5572611e0aefe6ba", null ],
-    [ "o", "d5/d1c/a07404.html#a0ebd9ea966eb66cf80b8f3c003db60c0", null ],
-    [ "type", "d5/d1c/a07404.html#a561ac93f5c1bcc26dacbd0212b602eac", null ],
-    [ "x", "d5/d1c/a07404.html#a616d422b4e8c99ec3285a87f553d4091", null ],
-    [ "y", "d5/d1c/a07404.html#a34de8c83a7bc8b33ac0cabdfb1bd3459", null ],
-    [ "z", "d5/d1c/a07404.html#a78cff0661e6d9440574306ec01389d42", null ]
+    [ "CapturePointInfo", "d5/d1c/a07404.html#a47ba3bbadd15909726e87dc5adc67686", null ],
+    [ "_captured", "d5/d1c/a07404.html#aac26833d9951853183095b3985254e03", null ],
+    [ "_iconCapture", "d5/d1c/a07404.html#a58adc22a7246dd7362efcf9d9a1891ad", null ],
+    [ "_iconNone", "d5/d1c/a07404.html#a43228afe59b8fa004d2c740dd6262f8e", null ],
+    [ "_ownerTeamId", "d5/d1c/a07404.html#aad378d1b07f1ef8c45b0bb1bcce7a028", null ],
+    [ "_state", "d5/d1c/a07404.html#a98cb154218423e295b8007c62222831c", null ]
 ];

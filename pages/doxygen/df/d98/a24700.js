@@ -1,7 +1,6 @@
 var a24700 =
 [
-    [ "AfterApply", "df/d98/a24700.html#aee69eceead7e31cce2638ff252f6653d", null ],
-    [ "AfterRemove", "df/d98/a24700.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
-    [ "PrepareAuraScript", "df/d98/a24700.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
-    [ "Register", "df/d98/a24700.html#ab5f8afbfa688ebd548a5508543498b55", null ]
+    [ "CheckProc", "df/d98/a24700.html#a451ceeda18638f88d2e0a24ac445f5e2", null ],
+    [ "PrepareAuraScript", "df/d98/a24700.html#a0a6d4617ff3351411f4e13f53876db31", null ],
+    [ "Register", "df/d98/a24700.html#a0e5d974111eeca075f38910223f5eaf4", null ]
 ];

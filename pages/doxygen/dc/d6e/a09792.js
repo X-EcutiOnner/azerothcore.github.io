@@ -1,7 +1,8 @@
 var a09792 =
 [
-    [ "ZRangeBoundary", "dc/d6e/a09792.html#ab9c77783e059de4478625f7c97713c49", null ],
-    [ "IsWithinBoundaryArea", "dc/d6e/a09792.html#af1410b3eeb9e7096b1cc53caa7edd68f", null ],
-    [ "_maxZ", "dc/d6e/a09792.html#a7226d6a69b9fb922a2ac06300ab060d8", null ],
-    [ "_minZ", "dc/d6e/a09792.html#aee142d5bc4cfae80584b84ae451da05c", null ]
+    [ "ServerMailCondition", "dc/d6e/a09792.html#a2ee7d2f3587159c95883fe32674cb586", null ],
+    [ "CheckCondition", "dc/d6e/a09792.html#a3c223658629357f05d8879555717f624", null ],
+    [ "state", "dc/d6e/a09792.html#a309f739872afaf644331335b27649561", null ],
+    [ "type", "dc/d6e/a09792.html#a3b318e7743ca48fcf8ba849398a06968", null ],
+    [ "value", "dc/d6e/a09792.html#af709199aed99633cc70d9118ee4fd4fc", null ]
 ];

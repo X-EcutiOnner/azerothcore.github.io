@@ -1,6 +1,5 @@
 var a27276 =
 [
-    [ "go_heatAI", "d2/d7a/a27276.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
-    [ "UpdateAI", "d2/d7a/a27276.html#a2332206ee47b2cea9e4707d16ea79325", null ],
-    [ "timer", "d2/d7a/a27276.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
+    [ "achievement_sickly_gazelle", "d2/d7a/a27276.html#abb613cb222c727923c4c5ce843db3a5f", null ],
+    [ "OnCheck", "d2/d7a/a27276.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
 ];

@@ -1,7 +1,6 @@
 var a18800 =
 [
-    [ "HandleEffectPeriodic", "d6/d76/a18800.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
-    [ "PrepareAuraScript", "d6/d76/a18800.html#af1d284c4686f739b02b350a6c0a166c2", null ],
-    [ "Register", "d6/d76/a18800.html#a006a97823ac07346771ec4ab61bd0763", null ],
-    [ "Validate", "d6/d76/a18800.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
+    [ "npc_highlord_tirion_fordringAI", "da/d5f/a18804.html", "da/d5f/a18804" ],
+    [ "npc_highlord_tirion_fordring_lh", "d6/d76/a18800.html#a96102a488330c54a3e3654c767e8e1a5", null ],
+    [ "GetAI", "d6/d76/a18800.html#aea42394c04c1763cffe10eb5eba09854", null ]
 ];

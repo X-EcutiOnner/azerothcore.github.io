@@ -1,6 +1,7 @@
 var a09188 =
 [
-    [ "PlayerRelocationNotifier", "db/d9f/a09188.html#a01cbecc2a9727d822b94a90b0c3035aa", null ],
-    [ "Visit", "db/d9f/a09188.html#ab9b3ad469216db3a7a49176b41b0b1ea", null ],
-    [ "Visit", "db/d9f/a09188.html#acffc7490cb9b0cf171a1cfc6e1dbdc79", null ]
+    [ "V8Type", "db/d9f/a09188.html#a385ac15640b76e43eda077c451dcd745", null ],
+    [ "V9Type", "db/d9f/a09188.html#a9b7daa2ba0e72e137243ac061efaa2a5", null ],
+    [ "v8", "db/d9f/a09188.html#a55d7b001e047c31686b110cc4b1aa295", null ],
+    [ "v9", "db/d9f/a09188.html#ab4f6ec9aefc2721bd216582d7a882aa3", null ]
 ];

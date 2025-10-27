@@ -1,14 +1,12 @@
 var a07148 =
 [
-    [ "AutobroadcastsMap", "d0/de2/a07148.html#a9064ad588e8a02d9b60974af4da1c7cf", null ],
-    [ "AutobroadcastsWeightMap", "d0/de2/a07148.html#a75e5b978794a7010c8d9d3390d8690f9", null ],
-    [ "instance", "d0/de2/a07148.html#aead196df7f590d43c89f179ca0bd4a68", null ],
-    [ "LoadAutobroadcasts", "d0/de2/a07148.html#a48748969b122aee47d03697b6e9a2ee1", null ],
-    [ "LoadAutobroadcastsLocalized", "d0/de2/a07148.html#a105fa2c33da0662785551027430d40c6", null ],
-    [ "SendAutobroadcasts", "d0/de2/a07148.html#a225907be4944713af11c312185c8aea7", null ],
-    [ "SendNotificationAnnouncement", "d0/de2/a07148.html#ace584bb6b66c8944e1405ec0af686d3a", null ],
-    [ "SendWorldAnnouncement", "d0/de2/a07148.html#a8be8fd36f843ffd435989c99ce0f9229", null ],
-    [ "_announceType", "d0/de2/a07148.html#a3889edc4001e26519d9df042a8b477fc", null ],
-    [ "_autobroadcasts", "d0/de2/a07148.html#a06d42010fea307a03aac0ca4e6886f1d", null ],
-    [ "_autobroadcastsWeights", "d0/de2/a07148.html#aadbd8ca926a64be4fbbe832fd633ee88", null ]
+    [ "Type", "d0/de2/a07148.html#abfb75b18c4a43f1818cd78212c668109", [
+      [ "LIST", "d0/de2/a07148.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a", null ],
+      [ "OWNER_LIST", "d0/de2/a07148.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e", null ],
+      [ "BIDDER_LIST", "d0/de2/a07148.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab", null ]
+    ] ],
+    [ "AuctionSearcherRequest", "d0/de2/a07148.html#afadcce053f82ae124263a501671f35e3", null ],
+    [ "~AuctionSearcherRequest", "d0/de2/a07148.html#a8122177f0ca9b5c2393e87998a15e950", null ],
+    [ "listFaction", "d0/de2/a07148.html#a1847f75715da2de1098d0f767163f62d", null ],
+    [ "requestType", "d0/de2/a07148.html#ad7006f42aafadfa07024e1d2a278be3d", null ]
 ];

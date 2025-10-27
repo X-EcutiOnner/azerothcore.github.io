@@ -1,6 +1,6 @@
 var a21300 =
 [
-    [ "HandleOnHit", "df/dec/a21300.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "df/dec/a21300.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "df/dec/a21300.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "boss_palehoofAI", "db/d5c/a21304.html", "db/d5c/a21304" ],
+    [ "boss_palehoof", "df/dec/a21300.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
+    [ "GetAI", "df/dec/a21300.html#ae33ca6e71b251214be50168a5940d058", null ]
 ];

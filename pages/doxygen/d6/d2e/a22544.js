@@ -1,5 +1,7 @@
 var a22544 =
 [
-    [ "OutdoorPvP_grizzly_hills", "d6/d2e/a22544.html#aa020d8120c62874fb15b4623bbb714d9", null ],
-    [ "GetOutdoorPvP", "d6/d2e/a22544.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
+    [ "npc_wg_demolisher_engineer", "d6/d2e/a22544.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "d6/d2e/a22544.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "d6/d2e/a22544.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "d6/d2e/a22544.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

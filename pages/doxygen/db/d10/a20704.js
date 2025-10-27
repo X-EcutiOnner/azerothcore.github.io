@@ -1,6 +1,5 @@
 var a20704 =
 [
-    [ "boss_thorim_gauntlet_npcsAI", "d4/dca/a20708.html", "d4/dca/a20708" ],
-    [ "boss_thorim_gauntlet_npcs", "db/d10/a20704.html#abdf2e90c5b86d3724fac46bff5e15d97", null ],
-    [ "GetAI", "db/d10/a20704.html#a2a71153ed2a9091de6668ab0b6f7674f", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_11", "db/d10/a20704.html#a5d8980111e029b4c9311737f3985ab61", null ],
+    [ "OnCheck", "db/d10/a20704.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
 ];

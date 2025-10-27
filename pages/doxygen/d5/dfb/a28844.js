@@ -1,12 +1,12 @@
 var a28844 =
 [
-    [ "Model", "d5/dfb/a28844.html#ae102b5fc584185113e89fb7b39a72bd1", null ],
-    [ "~Model", "d5/dfb/a28844.html#ad6ebd2062a0b823db841a0b88baac4c0", null ],
-    [ "_unload", "d5/dfb/a28844.html#a9b02ed73fa006bc057157b636029ab6f", null ],
-    [ "ConvertToVMAPModel", "d5/dfb/a28844.html#ae6fd5d754d9a880359b8afaf50c5753e", null ],
-    [ "open", "d5/dfb/a28844.html#a6ed3a71ff468f5acaccc61f5c2c87a0e", null ],
-    [ "filename", "d5/dfb/a28844.html#a4c43746e9c460e29cabd1ba2db6ba222", null ],
-    [ "header", "d5/dfb/a28844.html#a2f6e66bbf4acc662d73e8fe8e5a0e085", null ],
-    [ "indices", "d5/dfb/a28844.html#a3b61d3316481e7b9c38bf50806ebded6", null ],
-    [ "vertices", "d5/dfb/a28844.html#a1af9857df4d0e16ab9940846300fa8fe", null ]
+    [ "ApplyGmVisibleState", "d5/dfb/a28844.html#a3deb6c8e282913959275b537bb748860", null ],
+    [ "EnsureScriptRegistriesInitialized", "d5/dfb/a28844.html#a4238366c75dd8889993888e4e8bce5a2", null ],
+    [ "ExecuteCommand", "d5/dfb/a28844.html#ad6c2132a8f827fd0ff6bad1868bf34c2", null ],
+    [ "SetUp", "d5/dfb/a28844.html#a236c5547ff9855b39315642ec2e79c4e", null ],
+    [ "TearDown", "d5/dfb/a28844.html#a8fe66b3b0b3ba0d6f3393eb9a4fef3f2", null ],
+    [ "originalWorld", "d5/dfb/a28844.html#a8f7396466d2b20742f66e14462de96a4", null ],
+    [ "player", "d5/dfb/a28844.html#a97049ae029c9354fdf3194be77f36dfa", null ],
+    [ "session", "d5/dfb/a28844.html#a2f87ec522777defa8b023274b1d78c35", null ],
+    [ "worldMock", "d5/dfb/a28844.html#ae4caf6ccdfce680cce07d4759b2a4b54", null ]
 ];

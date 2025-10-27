@@ -1,7 +1,7 @@
 var a18604 =
 [
-    [ "PeriodicTick", "de/de5/a18604.html#ac1bace4fc66349364c84b5784967e9bf", null ],
-    [ "PrepareAuraScript", "de/de5/a18604.html#a358193e3340112c04f79c043548c3de0", null ],
-    [ "Register", "de/de5/a18604.html#a28f52bc253899aa407e67f9a089c815c", null ],
-    [ "Validate", "de/de5/a18604.html#a0dde3447e38e45cea94df44449a19a01", null ]
+    [ "OnPeriodic", "de/de5/a18604.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
+    [ "PrepareAuraScript", "de/de5/a18604.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
+    [ "Register", "de/de5/a18604.html#a0fc7ca43a0d82058fc04277742231388", null ],
+    [ "Validate", "de/de5/a18604.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
 ];

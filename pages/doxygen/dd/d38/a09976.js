@@ -1,8 +1,10 @@
 var a09976 =
 [
-    [ "Finalize", "dd/d38/a09976.html#abf4c6547449605e703b424d8aa7f46b5", null ],
-    [ "GetMovementGeneratorType", "dd/d38/a09976.html#aa1eb3228e14c5b145f7074e97ccdab5f", null ],
-    [ "Initialize", "dd/d38/a09976.html#a68c249f25ef86f2e50d69698e190ed03", null ],
-    [ "Reset", "dd/d38/a09976.html#a124e4f9506ef6f31e991e905ce38dc43", null ],
-    [ "Update", "dd/d38/a09976.html#a4d96b744fa55fa11764873a2c4a891c5", null ]
+    [ "ChaseRange", "dd/d38/a09976.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
+    [ "ChaseRange", "dd/d38/a09976.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
+    [ "ChaseRange", "dd/d38/a09976.html#a397b3789449b1c178f11f64313498c4d", null ],
+    [ "MaxRange", "dd/d38/a09976.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
+    [ "MaxTolerance", "dd/d38/a09976.html#a7909b18028d43c84eca5feee3e41469c", null ],
+    [ "MinRange", "dd/d38/a09976.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
+    [ "MinTolerance", "dd/d38/a09976.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
 ];

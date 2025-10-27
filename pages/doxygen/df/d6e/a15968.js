@@ -1,6 +1,6 @@
 var a15968 =
 [
-    [ "boss_krik_thirAI", "db/d21/a15972.html", "db/d21/a15972" ],
-    [ "boss_krik_thir", "df/d6e/a15968.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
-    [ "GetAI", "df/d6e/a15968.html#a10e582440092d5c6558c2a11d60907aa", null ]
+    [ "HandleSummon", "df/d6e/a15968.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
+    [ "PrepareSpellScript", "df/d6e/a15968.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
+    [ "Register", "df/d6e/a15968.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
 ];

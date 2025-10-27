@@ -1,7 +1,8 @@
 var a26792 =
 [
-    [ "HandleAuraApply", "d1/d82/a26792.html#afb8eb7fcc0797c3e19a9bfc5eebb5fb2", null ],
-    [ "HandleAuraRemove", "d1/d82/a26792.html#a9029865b5e06c4a9aa7f155f371c9125", null ],
-    [ "PrepareAuraScript", "d1/d82/a26792.html#a5c7d7c0b8880128121d66d39094f1965", null ],
-    [ "Register", "d1/d82/a26792.html#ae15d5175671c60a55e4a77848bc9fe1b", null ]
+    [ "CheckCast", "d1/d82/a26792.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
+    [ "CheckQuest", "d1/d82/a26792.html#abc927d932c1d5e05eab1918364d68ed5", null ],
+    [ "HandleActiveObject", "d1/d82/a26792.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
+    [ "PrepareSpellScript", "d1/d82/a26792.html#a96e69476965cc2466213a5371a57093a", null ],
+    [ "Register", "d1/d82/a26792.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
 ];

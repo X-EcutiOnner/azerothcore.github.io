@@ -1,6 +1,6 @@
 var a17196 =
 [
-    [ "boss_drakkari_colossusAI", "da/d73/a17200.html", "da/d73/a17200" ],
-    [ "boss_drakkari_colossus", "dc/d62/a17196.html#abe1bf28b9147b72c81e5c5efcdeeaf84", null ],
-    [ "GetAI", "dc/d62/a17196.html#a75c6c9c56fe11342dd8aece031059e77", null ]
+    [ "instance_halls_of_reflection_InstanceMapScript", "da/d73/a17200.html", "da/d73/a17200" ],
+    [ "instance_halls_of_reflection", "dc/d62/a17196.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
+    [ "GetInstanceScript", "dc/d62/a17196.html#aca27a4f654f41fe6f238c905b48285b7", null ]
 ];

@@ -1,6 +1,8 @@
 var a17660 =
 [
-    [ "npc_gunship_gunnerAI", "d9/dea/a17664.html", "d9/dea/a17664" ],
-    [ "npc_gunship_gunner", "d6/d17/a17660.html#a409711f22b35eae0c0d48bc23545e592", null ],
-    [ "GetAI", "d6/d17/a17660.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
+    [ "npc_saurfang_eventAI", "d6/d17/a17660.html#a8436a87576c92ecc0b45106683d20e93", null ],
+    [ "DoAction", "d6/d17/a17660.html#a45201c4a5b94fad948efe1d08e63e262", null ],
+    [ "SetData", "d6/d17/a17660.html#a7f012a54ebce5307940eb7957f028d52", null ],
+    [ "SpellHit", "d6/d17/a17660.html#a2ed920f949c4d8dbc6d6ff5b9149e749", null ],
+    [ "_index", "d6/d17/a17660.html#a793d72078bd68b34fcdb7cd6587295dd", null ]
 ];

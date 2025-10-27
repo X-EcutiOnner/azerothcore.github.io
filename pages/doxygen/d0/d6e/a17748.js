@@ -1,7 +1,7 @@
 var a17748 =
 [
-    [ "HandleScript", "d0/d6e/a17748.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
-    [ "PrepareSpellScript", "d0/d6e/a17748.html#ab69926839f72ee76eba2b225aba9690c", null ],
-    [ "Register", "d0/d6e/a17748.html#aad8925e891d7537993f02f3bc2552fea", null ],
-    [ "SelectRandomTarget", "d0/d6e/a17748.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
+    [ "DelayedMovementEvent", "d0/d6e/a17748.html#a21241cde30f66ae42edb311542f7405c", null ],
+    [ "Execute", "d0/d6e/a17748.html#a8287761226ee671905151891779b6efb", null ],
+    [ "_dest", "d0/d6e/a17748.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
+    [ "_owner", "d0/d6e/a17748.html#a046942728282a997068de447271f3cbe", null ]
 ];

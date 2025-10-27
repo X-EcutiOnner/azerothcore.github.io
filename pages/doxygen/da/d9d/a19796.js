@@ -1,7 +1,6 @@
 var a19796 =
 [
-    [ "HandlePeriodic", "da/d9d/a19796.html#a14fd25f78c9e2bfbdaeb07f3233628b6", null ],
-    [ "PrepareAuraScript", "da/d9d/a19796.html#ad78b06733a8609dd39e885db2f23edba", null ],
-    [ "Register", "da/d9d/a19796.html#ac9ae9be546964752869163896c4045dd", null ],
-    [ "Validate", "da/d9d/a19796.html#afcca84d03b29ef7569c03f973a6c191b", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "d2/da0/a19800.html", "d2/da0/a19800" ],
+    [ "boss_sjonnir_malformed_ooze", "da/d9d/a19796.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "da/d9d/a19796.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

@@ -1,9 +1,6 @@
 var a20916 =
 [
-    [ "boss_yoggsaron_keeper", "d4/d85/a20916.html#ad2098933656371b1bf80ec3ea859c418", null ],
-    [ "DoAction", "d4/d85/a20916.html#a9e3d251810b55072458003356213ae15", null ],
-    [ "JustEngagedWith", "d4/d85/a20916.html#a36bac93a46710f0cd3f51958b4e4223b", null ],
-    [ "JustSummoned", "d4/d85/a20916.html#a272a77cb6f147f38825cd68d54f56a9a", null ],
-    [ "UpdateAI", "d4/d85/a20916.html#afe9c18d91443f2ba3b2fd2a2fdd7dca5", null ],
-    [ "_summons", "d4/d85/a20916.html#aa840eff5f3d8b24225046113737936b4", null ]
+    [ "npc_xt002_pummellerAI", "d4/dc8/a20920.html", "d4/dc8/a20920" ],
+    [ "npc_xt002_pummeller", "d4/d85/a20916.html#af620e31a231ca8fb812324521bad4673", null ],
+    [ "GetAI", "d4/d85/a20916.html#a9ec4e452a3763c3d03e581a17e5d7efe", null ]
 ];

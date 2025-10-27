@@ -1,6 +1,6 @@
 var a18500 =
 [
-    [ "boss_valithria_dreamwalkerAI", "dd/d3e/a18504.html", "dd/d3e/a18504" ],
-    [ "boss_valithria_dreamwalker", "d0/d75/a18500.html#afcc6dc92d94330d3aed67f71452f9cd2", null ],
-    [ "GetAI", "d0/d75/a18500.html#a0f0bacefa7e3d682a5db81a14f2ff947", null ]
+    [ "npc_raging_spiritAI", "dd/d3e/a18504.html", "dd/d3e/a18504" ],
+    [ "npc_raging_spirit", "d0/d75/a18500.html#ad1a580bd394adc8c58575b600c16f9db", null ],
+    [ "GetAI", "d0/d75/a18500.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
 ];

@@ -1,23 +1,8 @@
 var a05788 =
 [
-    [ "PreparedStatementBase", "d0/d9e/a05788.html#af804ff958eb51e96c0deccb59e6c79a6", null ],
-    [ "~PreparedStatementBase", "d0/d9e/a05788.html#a96323eed4643ae8016b32215d6a902d4", null ],
-    [ "PreparedStatementBase", "d0/d9e/a05788.html#aa7703fa7b7cf7cf033a45cccf4701f48", null ],
-    [ "GetIndex", "d0/d9e/a05788.html#ac5e94130932a8975a95cd830051cbeab", null ],
-    [ "GetParameters", "d0/d9e/a05788.html#add343f1f2017791df2434463f6114c68", null ],
-    [ "operator=", "d0/d9e/a05788.html#abbf3c9d0f2d066bc40a53d53f45fcb79", null ],
-    [ "SetArguments", "d0/d9e/a05788.html#a4b2ca4e3c01a4a26a42dc3a9a8d03660", null ],
-    [ "SetData", "d0/d9e/a05788.html#abbd81f270eb6504ed04a661dc6da3139", null ],
-    [ "SetData", "d0/d9e/a05788.html#ac44341575f53ed539f6ca471d27db9e1", null ],
-    [ "SetData", "d0/d9e/a05788.html#ab05be7534a37abc4a7d38edd454ffb05", null ],
-    [ "SetData", "d0/d9e/a05788.html#aa71863fdcace3c2fc666a0cf456d9e59", null ],
-    [ "SetData", "d0/d9e/a05788.html#a52fc2e65042c1db51f0923725a0f0ed0", null ],
-    [ "SetData", "d0/d9e/a05788.html#add697e08fa53fa173da40d48fd96fe28", null ],
-    [ "SetDataTuple", "d0/d9e/a05788.html#aa4ff9aa53e042d424954b553d6912fa8", null ],
-    [ "SetValidData", "d0/d9e/a05788.html#ae206b57c5ba8b621ab2e769089eb8045", null ],
-    [ "SetValidData", "d0/d9e/a05788.html#a9dcba27137454af96729a7e3e897f86c", null ],
-    [ "SetValidData", "d0/d9e/a05788.html#aa450d6784414246752c84556f6960fc9", null ],
-    [ "PreparedStatementTask", "d0/d9e/a05788.html#a4c1bf9847756076bf3bba7b1178f0f99", null ],
-    [ "m_index", "d0/d9e/a05788.html#a9af41817061c82bc5498c463b2f0fdf0", null ],
-    [ "statement_data", "d0/d9e/a05788.html#ad5e60af68205c6a922b21f52ca3d9109", null ]
+    [ "Statements", "d0/d9e/a05788.html#adaf49f7cb45d90cb041f979b1821e4a1", null ],
+    [ "WorldDatabaseConnection", "d0/d9e/a05788.html#a0c03387d2c019c86d1fe4933eca6aae5", null ],
+    [ "WorldDatabaseConnection", "d0/d9e/a05788.html#a015f79a049d37f742232bc5ac10e9551", null ],
+    [ "~WorldDatabaseConnection", "d0/d9e/a05788.html#a2feafa80fe8e838587d8f7b641c0ab09", null ],
+    [ "DoPrepareStatements", "d0/d9e/a05788.html#a280aa4a4571581c5cef8f9967631b484", null ]
 ];

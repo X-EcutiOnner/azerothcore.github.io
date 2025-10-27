@@ -1,8 +1,7 @@
 var a28536 =
 [
-    [ "MapDifficulty", "de/d77/a28536.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
-    [ "MapDifficulty", "de/d77/a28536.html#a227aec55b5b774076882ea34f70d5d88", null ],
-    [ "hasErrorMessage", "de/d77/a28536.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
-    [ "maxPlayers", "de/d77/a28536.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
-    [ "resetTime", "de/d77/a28536.html#a7190131620b9eee0897ac7b4dd62949e", null ]
+    [ "ID", "de/d77/a28536.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
+    [ "Index", "de/d77/a28536.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
+    [ "Skill", "de/d77/a28536.html#aed5e58cf605d3c28cd0d26015722be03", null ],
+    [ "Type", "de/d77/a28536.html#a39b0b548efd795c162926bddcdd301b5", null ]
 ];

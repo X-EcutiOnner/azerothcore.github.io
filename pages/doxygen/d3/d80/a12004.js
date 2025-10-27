@@ -1,7 +1,6 @@
 var a12004 =
 [
-    [ "boss_magmusAI", "d3/d80/a12004.html#a8a3e5361bda492007013af9228899b8f", null ],
-    [ "JustEngagedWith", "d3/d80/a12004.html#a11e4868628564078997694373315a9d6", null ],
-    [ "Reset", "d3/d80/a12004.html#a5fe304cec86831b7e64f83caee1392d0", null ],
-    [ "UpdateAI", "d3/d80/a12004.html#aa8bb8282c794ea02fe7bd95b3d32e5ea", null ]
+    [ "boss_drektharAI", "d5/dcf/a12008.html", "d5/dcf/a12008" ],
+    [ "boss_drekthar", "d3/d80/a12004.html#ac9296654b10191ac9d58219ba36f57b3", null ],
+    [ "GetAI", "d3/d80/a12004.html#adeacbbc81ab675260c2cac1a6c76d3fe", null ]
 ];

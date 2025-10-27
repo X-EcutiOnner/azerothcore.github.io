@@ -1,12 +1,8 @@
 var a15676 =
 [
-    [ "npc_toogaAI", "d3/ddc/a15676.html#a4db363c7e787f5fbbd61b418cfa87367", null ],
-    [ "MoveInLineOfSight", "d3/ddc/a15676.html#aff15508b97bce5f5fad9cf9750e89ff1", null ],
-    [ "MovementInform", "d3/ddc/a15676.html#a9315e8ba2688903aaf5b871a7490a700", null ],
-    [ "Reset", "d3/ddc/a15676.html#acfedaf5cc989451a4259a65661685f66", null ],
-    [ "UpdateFollowerAI", "d3/ddc/a15676.html#a742791e714be1ff713ab87e7d515bd9e", null ],
-    [ "CheckSpeechTimer", "d3/ddc/a15676.html#a938852d834c5eb8ba4abceaf49e9a5da", null ],
-    [ "PhasePostEvent", "d3/ddc/a15676.html#a4996291afa64e35f3604b2a85ea03dda", null ],
-    [ "PostEventTimer", "d3/ddc/a15676.html#abea9fa4d2623dab4f14978a7f94b595f", null ],
-    [ "TortaGUID", "d3/ddc/a15676.html#a4531aa0e2c7fe7f3207e56fc2ed67c25", null ]
+    [ "CheckRequirement", "d3/ddc/a15676.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
+    [ "HandleDummy", "d3/ddc/a15676.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
+    [ "PrepareSpellScript", "d3/ddc/a15676.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
+    [ "Register", "d3/ddc/a15676.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
+    [ "Validate", "d3/ddc/a15676.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
 ];

@@ -1,5 +1,6 @@
 var a21864 =
 [
-    [ "at_q24545_frostmourne_cavern", "d3/dbd/a21864.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
-    [ "OnTrigger", "d3/dbd/a21864.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
+    [ "npc_mei_francis_mountAI", "da/ddb/a21868.html", "da/ddb/a21868" ],
+    [ "npc_mei_francis_mount", "d3/dbd/a21864.html#ab34facb1d4d9a542710340493488eaa8", null ],
+    [ "GetAI", "d3/dbd/a21864.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
 ];

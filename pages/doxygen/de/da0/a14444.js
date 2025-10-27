@@ -1,10 +1,6 @@
 var a14444 =
 [
-    [ "boss_headless_horseman_pumpkin", "de/da0/a14444.html#a62191ae523401ac57a947db96a245f7a", null ],
-    [ "AttackStart", "de/da0/a14444.html#a2d7cb1bc5f25f87b1452d6c1267958c4", null ],
-    [ "MoveInLineOfSight", "de/da0/a14444.html#a212f9803f66d297cd276ef842247776a", null ],
-    [ "Reset", "de/da0/a14444.html#a9d5f6922a52146b61168f1c50b378294", null ],
-    [ "SpellHit", "de/da0/a14444.html#a401db237c45efde3a30cdca6cb4f95c0", null ],
-    [ "UpdateAI", "de/da0/a14444.html#aca53b8839bce5e180ba8583490d694c3", null ],
-    [ "timer", "de/da0/a14444.html#a1f236cdfeec366f0d830e0fceafa6d25", null ]
+    [ "OnApply", "de/da0/a14444.html#a4a276b00d4912c210598057620368934", null ],
+    [ "PrepareAuraScript", "de/da0/a14444.html#a20cb3aec994ffc0a06d9b4ba4f575844", null ],
+    [ "Register", "de/da0/a14444.html#adf9962252dec76f324b8cdbf8f6b9155", null ]
 ];

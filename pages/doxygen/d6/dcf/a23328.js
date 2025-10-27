@@ -1,13 +1,19 @@
 var a23328 =
 [
-    [ "npc_earthen_ring_flamecaller", "d6/dcf/a23328.html#ab402dd321fa0df641b674324386d7591", null ],
-    [ "DoAction", "d6/dcf/a23328.html#af745c83529a34a89c430d6113703fff5", null ],
-    [ "LookOpening", "d6/dcf/a23328.html#adfc752e7700a816b66b639007a1a90fa", null ],
-    [ "MovementInform", "d6/dcf/a23328.html#a2e6337402c07413ed9aa39c2de58e0d9", null ],
-    [ "Reset", "d6/dcf/a23328.html#ac7be4763e09cb9ce1a4a0774f4c02237", null ],
-    [ "SpellHit", "d6/dcf/a23328.html#ab9c5ad7e56033997042031566748ee2b", null ],
-    [ "UpdateAI", "d6/dcf/a23328.html#aa9aaf58b67108a934a756afdfc2bc734", null ],
-    [ "_events", "d6/dcf/a23328.html#a79829a993048f8678b5f7c1dfe55eafb", null ],
-    [ "_instance", "d6/dcf/a23328.html#a79aa6e628a50ed485cc55513c28362dc", null ],
-    [ "_mySpot", "d6/dcf/a23328.html#a18b476dfdf65ca7e84856b31027b11f1", null ]
+    [ "boss_fathomguard_tidalvess", "d6/dcf/a23328.html#aa4c3ac27c72e659bd87ad83bbadfb04c", null ],
+    [ "DoAction", "d6/dcf/a23328.html#a909601091c25285e0a6c9773b61ff049", null ],
+    [ "EnterEvadeMode", "d6/dcf/a23328.html#a8fe1a7a13b0d3d806edcfe8e9bf4ff33", null ],
+    [ "JustDied", "d6/dcf/a23328.html#a7f79a16e0c186e97aeb7f16f3b7d45ea", null ],
+    [ "JustEngagedWith", "d6/dcf/a23328.html#aa524d5c047b50df8d83b5faa3fd791fc", null ],
+    [ "JustSummoned", "d6/dcf/a23328.html#a1dc16180610c742e98a93f87653e93e9", null ],
+    [ "Reset", "d6/dcf/a23328.html#af218abccb0b61e483dcc6d7a3313d99d", null ],
+    [ "ScheduleRemoval", "d6/dcf/a23328.html#a07c887552c8705b52caf9e102788a781", null ],
+    [ "SummonTotem", "d6/dcf/a23328.html#adb4d877f50ba5653d699a0a123f5961c", null ],
+    [ "UpdateAI", "d6/dcf/a23328.html#abce5d58fced89ecaac1d1f34989f0d9e", null ],
+    [ "_choice", "d6/dcf/a23328.html#a0ced209c6f22a0bf435a0249a25b15c4", null ],
+    [ "_entryList", "d6/dcf/a23328.html#a9eaeaf02dbe143d38ca857e5ae478aca", null ],
+    [ "_instance", "d6/dcf/a23328.html#a958c76b6ad9d9713625b10baa0d6d992", null ],
+    [ "_scheduler", "d6/dcf/a23328.html#ae1652d83938dc820255e383870b957a7", null ],
+    [ "_summons", "d6/dcf/a23328.html#aea75646687854c08eaee75c55718376d", null ],
+    [ "_totemScheduler", "d6/dcf/a23328.html#a1b4ace7575946c585cc63057e81a1529", null ]
 ];

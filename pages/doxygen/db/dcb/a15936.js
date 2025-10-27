@@ -1,6 +1,6 @@
 var a15936 =
 [
-    [ "PrepareSpellScript", "db/dcb/a15936.html#a2a3602af522bb8658c1bfdede1234efd", null ],
-    [ "Register", "db/dcb/a15936.html#aba235111ea4e186064a85295466f2a3f", null ],
-    [ "SetDest", "db/dcb/a15936.html#a89827e4db37bea4847c79265d95386c6", null ]
+    [ "SayerEntry", "db/dcb/a15936.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
+    [ "SayTimer", "db/dcb/a15936.html#a942073f24fd12da712184243d9f098f2", null ],
+    [ "TextEntry", "db/dcb/a15936.html#a360822e4c069be6019c0a465cb2499cf", null ]
 ];

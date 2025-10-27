@@ -1,6 +1,7 @@
 var a17908 =
 [
-    [ "npc_gas_cloudAI", "d3/df6/a17908.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
-    [ "CastMainSpell", "d3/df6/a17908.html#a61681f6f9616fe33274302d4160c709b", null ],
-    [ "_newTargetSelectTimer", "d3/df6/a17908.html#a6989b904abaa5b71362e43664f4b084d", null ]
+    [ "HandleDummy", "d3/df6/a17908.html#a6e5d70c35420384305d7faf991072b38", null ],
+    [ "PrepareSpellScript", "d3/df6/a17908.html#a64f912555853aab5693692b22eba52c4", null ],
+    [ "Register", "d3/df6/a17908.html#a797ec701f2e3f2949680eb935a9c5c3f", null ],
+    [ "Validate", "d3/df6/a17908.html#afda7fd86e2fc2c40870904065ffcfe50", null ]
 ];

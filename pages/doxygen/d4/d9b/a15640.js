@@ -1,7 +1,6 @@
 var a15640 =
 [
-    [ "npc_kaya_flathoofAI", "da/db5/a15644.html", "da/db5/a15644" ],
-    [ "npc_kaya_flathoof", "d4/d9b/a15640.html#a588f88b1c00927a4ad6b7cd25fc1b065", null ],
-    [ "GetAI", "d4/d9b/a15640.html#ad7cce0c1a30abe5bc0bffa777c40c79a", null ],
-    [ "OnQuestAccept", "d4/d9b/a15640.html#acdb20ecb1ffee4417c9b39f3aebb0591", null ]
+    [ "npc_tiger_matriarch_creditAI", "da/db5/a15644.html", "da/db5/a15644" ],
+    [ "npc_tiger_matriarch_credit", "d4/d9b/a15640.html#a9d76e8e808c828da501551025eecd8ea", null ],
+    [ "GetAI", "d4/d9b/a15640.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
 ];

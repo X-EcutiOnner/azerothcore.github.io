@@ -1,11 +1,10 @@
 var a08680 =
 [
-    [ "UnitActionBarEntry", "de/dcc/a08680.html#a41f9020c4811b14fc543ddece6af86d7", null ],
-    [ "GetAction", "de/dcc/a08680.html#afd77e2f64ec856059759d05ddf77876e", null ],
-    [ "GetType", "de/dcc/a08680.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
-    [ "IsActionBarForSpell", "de/dcc/a08680.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
-    [ "SetAction", "de/dcc/a08680.html#aa00953783b0b3de3beb755a054c77730", null ],
-    [ "SetActionAndType", "de/dcc/a08680.html#a110840d38445795957ee0425175b4fb6", null ],
-    [ "SetType", "de/dcc/a08680.html#a38e0dcad391d09e475f90be5a5382f78", null ],
-    [ "packedData", "de/dcc/a08680.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
+    [ "PlayerSetting", "de/dcc/a08680.html#a77d1fb11aa0039bbdae3ccc523f391ea", null ],
+    [ "PlayerSetting", "de/dcc/a08680.html#a93a30a0d6104bdda8fd9b5778179a353", null ],
+    [ "AddFlag", "de/dcc/a08680.html#a1e81343732cd86cdf9974a1d96b73ba7", null ],
+    [ "HasFlag", "de/dcc/a08680.html#af6e3149ff40b6b4ea2310b5c3254fce0", null ],
+    [ "IsEnabled", "de/dcc/a08680.html#a3621021d9c0c41c08b6300cd5dfcaf71", null ],
+    [ "RemoveFlag", "de/dcc/a08680.html#a4ca3645233a466345d6be217d7a0df2b", null ],
+    [ "value", "de/dcc/a08680.html#a74592e45f8ae4c5f411a982227f809f3", null ]
 ];

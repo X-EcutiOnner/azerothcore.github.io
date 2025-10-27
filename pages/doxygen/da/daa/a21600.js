@@ -1,6 +1,18 @@
 var a21600 =
 [
-    [ "npc_captured_beryl_sorcererAI", "de/d8f/a21604.html", "de/d8f/a21604" ],
-    [ "npc_captured_beryl_sorcerer", "da/daa/a21600.html#ace67e76e96e3be9fa5976dc4c90041e6", null ],
-    [ "GetAI", "da/daa/a21600.html#aa5a31390ff3c6277ebff2a5eebe72b3d", null ]
+    [ "violet_hold_trashAI", "da/daa/a21600.html#a87011739810f39291655bc835f9995bd", null ],
+    [ "AttackStart", "da/daa/a21600.html#ab2d2157977ae2482217fa8ac344b30af", null ],
+    [ "ClearDoorSealAura", "da/daa/a21600.html#ad0c756eb5bef8036cb47ebcc9e6915df", null ],
+    [ "CreatureStartAttackDoor", "da/daa/a21600.html#a1e64a9f7c82275969e099b5012a32924", null ],
+    [ "EnterEvadeMode", "da/daa/a21600.html#ab189607a468514d6c472ac40e6f3d85b", null ],
+    [ "JustDied", "da/daa/a21600.html#acd512cd3722a2edf0ca539272ded3c79", null ],
+    [ "JustEngagedWith", "da/daa/a21600.html#a16e7677aa9597dda938a67c51febde6c", null ],
+    [ "JustReachedHome", "da/daa/a21600.html#ae98d0cd977d59cbfe567fa6e294cde7e", null ],
+    [ "MoveInLineOfSight", "da/daa/a21600.html#ab0e73a03d6e36a35eb393127bce3dad3", null ],
+    [ "UpdateAI", "da/daa/a21600.html#a8647797343650fcd4f6304bce3742883", null ],
+    [ "WaypointReached", "da/daa/a21600.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
+    [ "bAddedWP", "da/daa/a21600.html#ad2e8841054cece73bdc7c2e7782c96a8", null ],
+    [ "bAlt", "da/daa/a21600.html#ad84ecad1a57f0af44af2795a252d2214", null ],
+    [ "pInstance", "da/daa/a21600.html#a0a5f5b86cd54c28a828db2ac3e83126b", null ],
+    [ "PLoc", "da/daa/a21600.html#a9e9ca535b9d2fa1b246975f984c96998", null ]
 ];

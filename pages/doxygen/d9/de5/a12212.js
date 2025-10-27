@@ -1,5 +1,6 @@
 var a12212 =
 [
-    [ "go_father_flame", "d9/de5/a12212.html#aa992bd7029a56faca4b92637688fe845", null ],
-    [ "OnLootStateChanged", "d9/de5/a12212.html#a84c7055e791a3dac66b75d327c7662c3", null ]
+    [ "boss_drakkisathAI", "d1/d96/a12216.html", "d1/d96/a12216" ],
+    [ "boss_drakkisath", "d9/de5/a12212.html#a73f21cbd7b81fc045ae129d7d650b455", null ],
+    [ "GetAI", "d9/de5/a12212.html#ad27999ba129b2e3617c1aba1c4b9772b", null ]
 ];

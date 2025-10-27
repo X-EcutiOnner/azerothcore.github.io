@@ -1,11 +1,6 @@
 var a20956 =
 [
-    [ "boss_yoggsaron_llaneAI", "d0/d35/a20956.html#a8524834b7dff49844d96b7dc49fd265d", null ],
-    [ "NextStep", "d0/d35/a20956.html#a6587e7873455950bda97b2a7d78e6fc5", null ],
-    [ "Reset", "d0/d35/a20956.html#a86f9d594562f842d478b63de18e52455", null ],
-    [ "Say", "d0/d35/a20956.html#ab619684f15f5325383a413dced7c930e", null ],
-    [ "UpdateAI", "d0/d35/a20956.html#a545378189f85968ac925baa06ad608b5", null ],
-    [ "_checkTimer", "d0/d35/a20956.html#aa4956f6943adce94a9ed4fec951317d6", null ],
-    [ "_running", "d0/d35/a20956.html#a6d6d186febc408ecb830bf7eea3c72bd", null ],
-    [ "_step", "d0/d35/a20956.html#a718c0bf307934b9ee9cbb933899c6324", null ]
+    [ "HandleScript", "d0/d35/a20956.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
+    [ "PrepareSpellScript", "d0/d35/a20956.html#a4fd05478a145157dbd8377532033ab95", null ],
+    [ "Register", "d0/d35/a20956.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
 ];

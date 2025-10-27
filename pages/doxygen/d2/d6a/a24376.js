@@ -1,10 +1,12 @@
 var a24376 =
 [
-    [ "npc_isla_starmaneAI", "d2/d6a/a24376.html#a0cb655d324ddde173dcfdee069c0f694", null ],
-    [ "JustDied", "d2/d6a/a24376.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
-    [ "JustEngagedWith", "d2/d6a/a24376.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
-    [ "JustRespawned", "d2/d6a/a24376.html#a69b395a9b9504737109870c5e8db74c8", null ],
-    [ "UpdateEscortAI", "d2/d6a/a24376.html#af4b8c80e7443bb671be253238b124910", null ],
-    [ "WaypointReached", "d2/d6a/a24376.html#a5d00583afa4e811e4f3cb8400787a990", null ],
-    [ "events", "d2/d6a/a24376.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
+    [ "npc_enslaved_netherwing_drake", "d2/d6a/a24376.html#a9f848fa3c68b8a269f0b6016058ec364", null ],
+    [ "_GetPlayer", "d2/d6a/a24376.html#af02a965e98f35134a3c40ed9cdfb723e", null ],
+    [ "JustDied", "d2/d6a/a24376.html#acde70c9d8c675a9a9dd14695dc752184", null ],
+    [ "MovementInform", "d2/d6a/a24376.html#afa030a380365daa33c156a0d6be6a6d9", null ],
+    [ "Reset", "d2/d6a/a24376.html#aec02b19d27a09f16ef06adb694c2e65e", null ],
+    [ "SpellHit", "d2/d6a/a24376.html#a195794e88870a0b1ca35473f5f0378a7", null ],
+    [ "UpdateAI", "d2/d6a/a24376.html#aa7ac2dd17bdf4939d74fe5af85c649b9", null ],
+    [ "_playerGUID", "d2/d6a/a24376.html#a2f9a6a6cbaa9cab0e6014f6fd1c54346", null ],
+    [ "_tapped", "d2/d6a/a24376.html#a9cbafd9536ff7eca33b0b44295aaec92", null ]
 ];

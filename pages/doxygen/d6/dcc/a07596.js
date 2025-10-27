@@ -1,4 +1,7 @@
 var a07596 =
 [
-    [ "TryConsume", "d6/dcc/a07596.html#afb6bc0250c190a2b52c031e3540ddf78", null ]
+    [ "CommandPermissions", "d6/dcc/a07596.html#ad1242d9067778298c44501b5d5a962f8", null ],
+    [ "CommandPermissions", "d6/dcc/a07596.html#a47f284c63f10b6c3479624845b696aa6", null ],
+    [ "AllowConsole", "d6/dcc/a07596.html#a8b419033e8dff0307a22a32bc57a1dc8", null ],
+    [ "RequiredLevel", "d6/dcc/a07596.html#a4918f2c3b1913eb76d09d859479ebbae", null ]
 ];

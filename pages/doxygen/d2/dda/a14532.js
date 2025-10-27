@@ -1,5 +1,6 @@
 var a14532 =
 [
-    [ "PrepareSpellScript", "d2/dda/a14532.html#a3e1c670bbc7efb86b95a34ee3c8ba059", null ],
-    [ "Register", "d2/dda/a14532.html#a06111bf70ee53fee6e90284f8d92642e", null ]
+    [ "npc_cw_area_triggerAI", "d6/d62/a14536.html", "d6/d62/a14536" ],
+    [ "npc_cw_area_trigger", "d2/dda/a14532.html#a11af64ac4ab078566bf8f68a36781939", null ],
+    [ "GetAI", "d2/dda/a14532.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
 ];

@@ -1,12 +1,11 @@
 var a09124 =
 [
-    [ "flags", "d8/d42/a09124.html#ab1c2612a57fcfce78e10de45dfc1c28d", null ],
-    [ "fourcc", "d8/d42/a09124.html#a5e7b1d32e42afbeb6898ee02014847cd", null ],
-    [ "height", "d8/d42/a09124.html#ab064dde684394c3aa84f9b151749d524", null ],
-    [ "liquidFlags", "d8/d42/a09124.html#a90f22c454f03ecee6aa1b9f9392e10a0", null ],
-    [ "liquidLevel", "d8/d42/a09124.html#ae4f34f9b8139b18416862bcd413f4aaa", null ],
-    [ "liquidType", "d8/d42/a09124.html#ab2ce1920efaec0a4fc0a81df9d6539e3", null ],
-    [ "offsetX", "d8/d42/a09124.html#a2ddee980eda8b7321b55ba44697688b5", null ],
-    [ "offsetY", "d8/d42/a09124.html#abc57f9e6c2f9fae58f575d8e1309f420", null ],
-    [ "width", "d8/d42/a09124.html#aabcbad9f4c0cae9d2e1b015a93f2a0ed", null ]
+    [ "~GridCell", "d8/d42/a09124.html#a042be8f85e83068d4bb39a0de0618146", null ],
+    [ "AddFarVisibleObject", "d8/d42/a09124.html#a9a81bdbf151463b4687227df0fa39ece", null ],
+    [ "AddGridObject", "d8/d42/a09124.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
+    [ "RemoveFarVisibleObject", "d8/d42/a09124.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
+    [ "Visit", "d8/d42/a09124.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
+    [ "Visit", "d8/d42/a09124.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
+    [ "_farVisibleObjects", "d8/d42/a09124.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
+    [ "_gridObjects", "d8/d42/a09124.html#ac5a741aebc11124aa228e5107e664335", null ]
 ];

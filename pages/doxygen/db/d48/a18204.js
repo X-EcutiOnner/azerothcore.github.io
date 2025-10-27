@@ -1,7 +1,7 @@
 var a18204 =
 [
-    [ "HandleInfusion", "db/d48/a18204.html#a9f77330d81fef646dd5d5399800cba66", null ],
-    [ "PrepareSpellScript", "db/d48/a18204.html#ae0a272902b0a9f74058c1dbe62974358", null ],
-    [ "Register", "db/d48/a18204.html#ad759f6215e722f799156b4bdddcb7af1", null ],
-    [ "Validate", "db/d48/a18204.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
+    [ "HandleScript", "db/d48/a18204.html#aa579f99f704f4db50b38b5f9b87259d7", null ],
+    [ "PrepareSpellScript", "db/d48/a18204.html#a92a6f2b0d5a0845e35c07d0b5cefe053", null ],
+    [ "Register", "db/d48/a18204.html#a2278ecef3dc60082ccb8964a34e55587", null ],
+    [ "Validate", "db/d48/a18204.html#aeee94330ee7ea9b4fd7447e642404119", null ]
 ];

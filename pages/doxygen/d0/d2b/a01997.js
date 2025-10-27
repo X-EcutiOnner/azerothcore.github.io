@@ -1,6 +1,6 @@
 var a01997 =
 [
-    [ "boss_the_maker", "db/d32/a23739.html", "db/d32/a23739" ],
+    [ "boss_the_maker", "dc/da1/a23736.html", "dc/da1/a23736" ],
     [ "Says", "d0/d2b/a01997.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_START_FIGHT", "d2/db4/a03695.html#a16774215bba3b38580ea51987d64cff1a8faddecee02adff0c6fb321d27621e1e", null ],
       [ "EMOTE_DEATH", "dd/d2e/a03734.html#a16774215bba3b38580ea51987d64cff1a532dda2af249d6245366a455505ac407", null ],

@@ -1,7 +1,7 @@
 var a16216 =
 [
-    [ "HandleDummy", "de/d9f/a16216.html#a96b430cb0546fb599da22cd675660187", null ],
-    [ "PrepareSpellScript", "de/d9f/a16216.html#ad0330cb78a330f05c18f33375f231fbc", null ],
-    [ "Register", "de/d9f/a16216.html#a70a36683a235dec6044a8a32f20c606c", null ],
-    [ "Validate", "de/d9f/a16216.html#affa7ccf869e98eacd3a153cc645d704e", null ]
+    [ "HandleHit", "de/d9f/a16216.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
+    [ "PrepareSpellScript", "de/d9f/a16216.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
+    [ "Register", "de/d9f/a16216.html#af132eee38064c5123f4e01d52efb9314", null ],
+    [ "Validate", "de/d9f/a16216.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
 ];

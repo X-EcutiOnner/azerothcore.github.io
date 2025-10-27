@@ -1,11 +1,7 @@
 var a15840 =
 [
-    [ "boss_amanitar", "da/d7c/a15840.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
-    [ "EnterEvadeMode", "da/d7c/a15840.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
-    [ "JustDied", "da/d7c/a15840.html#a138049712649ff414950d9d0ca05d712", null ],
-    [ "JustEngagedWith", "da/d7c/a15840.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
-    [ "Reset", "da/d7c/a15840.html#aab3faca4526947a72d8ca049a605f5be", null ],
-    [ "SummonedCreatureDespawn", "da/d7c/a15840.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
-    [ "SummonMushroom", "da/d7c/a15840.html#afc5b4942931f6020b2894b901650fc35", null ],
-    [ "_mushroomsDeque", "da/d7c/a15840.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
+    [ "npc_toogaAI", "d5/d15/a15844.html", "d5/d15/a15844" ],
+    [ "npc_tooga", "da/d7c/a15840.html#a6ea6a9e4dea1ab98475dae13680ceeaf", null ],
+    [ "GetAI", "da/d7c/a15840.html#a7847577589f3bdc1c3ea5ee0f1f9232f", null ],
+    [ "OnQuestAccept", "da/d7c/a15840.html#ac0fdcb3959c239d614b1cc7c66623c5d", null ]
 ];

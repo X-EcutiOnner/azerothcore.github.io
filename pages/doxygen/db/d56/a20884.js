@@ -1,6 +1,5 @@
 var a20884 =
 [
-    [ "boss_yoggsaron_death_orbAI", "da/deb/a20888.html", "da/deb/a20888" ],
-    [ "boss_yoggsaron_death_orb", "db/d56/a20884.html#a862d01f012cee832b41bc7c584816b93", null ],
-    [ "GetAI", "db/d56/a20884.html#a3169cd0e78642503f394a6cb74307871", null ]
+    [ "achievement_thorim_stand_in_the_lightning", "db/d56/a20884.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
+    [ "OnCheck", "db/d56/a20884.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
 ];

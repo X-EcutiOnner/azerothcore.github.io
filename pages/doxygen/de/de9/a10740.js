@@ -1,7 +1,7 @@
 var a10740 =
 [
-    [ "GuildBankLogQueryResults", "de/de9/a10740.html#a878f9545b3141a327de85771de4f1779", null ],
-    [ "Write", "de/de9/a10740.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
-    [ "Entry", "de/de9/a10740.html#a5f3704df5311f06833c3243201d35930", null ],
-    [ "Tab", "de/de9/a10740.html#a214db612bb08e557dd41d3962c827dca", null ]
+    [ "GuildBankActivate", "de/de9/a10740.html#a5b27541a26ada694d9635f6d6873ef20", null ],
+    [ "Read", "de/de9/a10740.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
+    [ "Banker", "de/de9/a10740.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
+    [ "FullUpdate", "de/de9/a10740.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
 ];

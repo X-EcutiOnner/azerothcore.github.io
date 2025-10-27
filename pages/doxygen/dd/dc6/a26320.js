@@ -1,7 +1,8 @@
 var a26320 =
 [
-    [ "if", "dd/dc6/a26320.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
-    [ "PrepareAuraScript", "dd/dc6/a26320.html#aa31810077c241e77193e378cb297b7de", null ],
-    [ "Register", "dd/dc6/a26320.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
-    [ "AuraEffectHandleModes", "dd/dc6/a26320.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
+    [ "CalculateAmount", "dd/dc6/a26320.html#a8751483423726ffa8a33c70b7e55db23", null ],
+    [ "CheckProc", "dd/dc6/a26320.html#a046cd1087342cdcbd2e6b0f8ded7c03a", null ],
+    [ "HandleProc", "dd/dc6/a26320.html#abda070e7dfbb4ddc8d18cb3d180edc2e", null ],
+    [ "PrepareAuraScript", "dd/dc6/a26320.html#a6bb54cea419145875c4086a69e1e55e8", null ],
+    [ "Register", "dd/dc6/a26320.html#a8e92638bbdd786ef77b17f00dcf0f643", null ]
 ];

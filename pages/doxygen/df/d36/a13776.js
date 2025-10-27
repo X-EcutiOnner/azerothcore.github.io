@@ -1,7 +1,11 @@
 var a13776 =
 [
-    [ "HandleScript", "df/d36/a13776.html#acd4373ab762d00d262984c36190d6f93", null ],
-    [ "PrepareSpellScript", "df/d36/a13776.html#a113216b272d0386f248a75bfcf30c6a3", null ],
-    [ "Register", "df/d36/a13776.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
-    [ "Validate", "df/d36/a13776.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
+    [ "npc_balance_of_light_and_shadowAI", "df/d36/a13776.html#a00cc1f78fa8fe26bf472d99a490d05ad", null ],
+    [ "CanBeSeen", "df/d36/a13776.html#af336c2afbf6c2850679fd7d8d1f0d5e9", null ],
+    [ "JustDied", "df/d36/a13776.html#ae862f8763614a98dae6b982414caf30a", null ],
+    [ "MovementInform", "df/d36/a13776.html#ad426816ae3c4d5a95587787d28f57ed8", null ],
+    [ "SpellHit", "df/d36/a13776.html#abfddfff72b63fd05673584915d647958", null ],
+    [ "UpdateAI", "df/d36/a13776.html#a540e3c28cc36917cde0153dd372d0287", null ],
+    [ "_targetGUID", "df/d36/a13776.html#adaf2340aa5fe7b96c8f5cacc1c8d5545", null ],
+    [ "timer", "df/d36/a13776.html#a204e0a809e9c392f20ec900e9a90a075", null ]
 ];

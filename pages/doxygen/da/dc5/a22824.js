@@ -1,8 +1,8 @@
 var a22824 =
 [
-    [ "Load", "da/dc5/a22824.html#a4ff26763f05b07d882cd8d209464910e", null ],
-    [ "OnPeriodic", "da/dc5/a22824.html#a3e3bb503a6b5f90741a4df668851accf", null ],
-    [ "PrepareAuraScript", "da/dc5/a22824.html#a4126d35669859963f10ed1425a054298", null ],
-    [ "Register", "da/dc5/a22824.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
-    [ "Validate", "da/dc5/a22824.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
+    [ "npc_yor", "da/dc5/a22824.html#a43ed8720d06c035085d481dbe6539dca", null ],
+    [ "JustEngagedWith", "da/dc5/a22824.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
+    [ "Reset", "da/dc5/a22824.html#aa698540b646fd870b33afbaf19ddbe07", null ],
+    [ "UpdateAI", "da/dc5/a22824.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
+    [ "_scheduler", "da/dc5/a22824.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
 ];

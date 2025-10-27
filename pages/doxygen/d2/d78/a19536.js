@@ -1,16 +1,14 @@
 var a19536 =
 [
-    [ "boss_bjarngrimAI", "d2/d78/a19536.html#ab599d5f62638d622c560f5b63e645b50", null ],
-    [ "JustDied", "d2/d78/a19536.html#adcad5667168768d8f3c8235735f357b1", null ],
-    [ "JustEngagedWith", "d2/d78/a19536.html#a2e99538fdc107bc7e91c23898c178047", null ],
-    [ "KilledUnit", "d2/d78/a19536.html#ad3cbbdc77909515e1573a2fb49cc1e30", null ],
-    [ "RemoveStanceAura", "d2/d78/a19536.html#ac2bca5cebc4847af71272de0ffa3d91a", null ],
-    [ "Reset", "d2/d78/a19536.html#a138d14f9666b03dda50f6adeea609046", null ],
-    [ "RollStance", "d2/d78/a19536.html#a70791697fde5c6194226fd42c893385a", null ],
-    [ "UpdateEscortAI", "d2/d78/a19536.html#a9db8e85b47e8ebb4760f99ec04a36fcb", null ],
-    [ "WaypointReached", "d2/d78/a19536.html#a31e1bceb7b944b3db9d7e881be4246bf", null ],
-    [ "events", "d2/d78/a19536.html#a5314bce83c4c7e80ecea99a8d5559fd8", null ],
-    [ "m_pInstance", "d2/d78/a19536.html#af6dbef6bb9565b5ee1738e188b08748f", null ],
-    [ "m_uiStance", "d2/d78/a19536.html#abd4d058fad17b56bc29a165d74062dd0", null ],
-    [ "summons", "d2/d78/a19536.html#a02bd445d2c969ea186a48f68585e640c", null ]
+    [ "boss_keristrasza", "d2/d78/a19536.html#a5f83fee9a5616751601f0c1155afab36", null ],
+    [ "CanRemovePrison", "d2/d78/a19536.html#a900a4a8428a04b880462b20196e94858", null ],
+    [ "GetData", "d2/d78/a19536.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
+    [ "JustDied", "d2/d78/a19536.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
+    [ "JustEngagedWith", "d2/d78/a19536.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
+    [ "KilledUnit", "d2/d78/a19536.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
+    [ "RemovePrison", "d2/d78/a19536.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
+    [ "Reset", "d2/d78/a19536.html#a13dce974fa83577397a80ff52de5d835", null ],
+    [ "SetData", "d2/d78/a19536.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
+    [ "UpdateAI", "d2/d78/a19536.html#a46a2e61e27cc72710c7aa14212673eae", null ],
+    [ "aGuids", "d2/d78/a19536.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
 ];

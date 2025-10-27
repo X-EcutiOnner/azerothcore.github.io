@@ -1,12 +1,9 @@
 var a07100 =
 [
-    [ "Type", "da/d52/a07100.html#abfb75b18c4a43f1818cd78212c668109", [
-      [ "LIST", "da/d52/a07100.html#abfb75b18c4a43f1818cd78212c668109a298cb25408234de02baf2085803a464a", null ],
-      [ "OWNER_LIST", "da/d52/a07100.html#abfb75b18c4a43f1818cd78212c668109a425771069bf1ccc5efbffddcdd382f5e", null ],
-      [ "BIDDER_LIST", "da/d52/a07100.html#abfb75b18c4a43f1818cd78212c668109a3db79062131239cf3a1812bf18377fab", null ]
-    ] ],
-    [ "AuctionSearcherRequest", "da/d52/a07100.html#afadcce053f82ae124263a501671f35e3", null ],
-    [ "~AuctionSearcherRequest", "da/d52/a07100.html#a8122177f0ca9b5c2393e87998a15e950", null ],
-    [ "listFaction", "da/d52/a07100.html#a1847f75715da2de1098d0f767163f62d", null ],
-    [ "requestType", "da/d52/a07100.html#ad7006f42aafadfa07024e1d2a278be3d", null ]
+    [ "SmartWaypointMgr", "da/d52/a07100.html#ad9168edcc4fd16260178d4a9277f71ba", null ],
+    [ "~SmartWaypointMgr", "da/d52/a07100.html#a300be22ad39e320833297c3f05cdcecc", null ],
+    [ "GetPath", "da/d52/a07100.html#ac833faad34e77a7b9e5a7b0c46fe8394", null ],
+    [ "instance", "da/d52/a07100.html#a7ae477d4d210d938e167453d9085e520", null ],
+    [ "LoadFromDB", "da/d52/a07100.html#a9b5cdb29d31e7de0a407f600aef482af", null ],
+    [ "waypoint_map", "da/d52/a07100.html#ac22c9bc98be18bb4ffa051387dd844e1", null ]
 ];

@@ -1,6 +1,10 @@
 var a14348 =
 [
-    [ "npc_cw_area_triggerAI", "d4/dce/a14352.html", "d4/dce/a14352" ],
-    [ "npc_cw_area_trigger", "d1/df4/a14348.html#a11af64ac4ab078566bf8f68a36781939", null ],
-    [ "GetAI", "d1/df4/a14348.html#a66c55b2984bab71be89ad7b6b96e3784", null ]
+    [ "npc_zealot_zath", "d1/df4/a14348.html#a845840d0a45dd6c4b6368ee4ecf6917b", null ],
+    [ "JustDied", "d1/df4/a14348.html#ae56e2e89a6ba623200e9ee36977cee13", null ],
+    [ "JustEngagedWith", "d1/df4/a14348.html#a25e059f40de51d880f4ec209ff4dd924", null ],
+    [ "Reset", "d1/df4/a14348.html#abc4e40afd644f2c89444f3fe475817c0", null ],
+    [ "UpdateAI", "d1/df4/a14348.html#a467ce2437ec112b42f864ef412c0c976", null ],
+    [ "_scheduler", "d1/df4/a14348.html#a146679c4eb3eec444ff1dcd9a780110a", null ],
+    [ "instance", "d1/df4/a14348.html#a66dfe3182b45e984b4d81d40051e5ecc", null ]
 ];

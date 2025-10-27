@@ -1,8 +1,6 @@
 var a18732 =
 [
-    [ "npc_arthas_teleport_visualAI", "dc/d3e/a18732.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
-    [ "Reset", "dc/d3e/a18732.html#a27155b8880a2a86b733bcd074e977b59", null ],
-    [ "UpdateAI", "dc/d3e/a18732.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
-    [ "_events", "dc/d3e/a18732.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
-    [ "_instance", "dc/d3e/a18732.html#a25bc023e061a0845421a652b571a6e1e", null ]
+    [ "npc_blistering_zombieAI", "dd/d00/a18736.html", "dd/d00/a18736" ],
+    [ "npc_blistering_zombie", "dc/d3e/a18732.html#aade4afec51e5ee77df8a39cff83e1f44", null ],
+    [ "GetAI", "dc/d3e/a18732.html#a08ef7c13b1755ac665507cd8397a2f93", null ]
 ];

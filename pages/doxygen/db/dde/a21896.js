@@ -1,6 +1,9 @@
 var a21896 =
 [
-    [ "npc_q24545_vegard_dummyAI", "db/dde/a21896.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
-    [ "UpdateAI", "db/dde/a21896.html#aa31baac9ce3c4c951f93917b88390797", null ],
-    [ "done", "db/dde/a21896.html#a0208fbae8e6c46d0671107530279c50c", null ]
+    [ "npc_minigob_manabonk", "db/dde/a21896.html#aade5e005b68b25ede4e653629390ceb9", null ],
+    [ "Reset", "db/dde/a21896.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
+    [ "SelectTargetInDalaran", "db/dde/a21896.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
+    [ "SendMailToPlayer", "db/dde/a21896.html#a1973b7885c9fce15aab9843722bf112e", null ],
+    [ "UpdateAI", "db/dde/a21896.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
+    [ "playerGUID", "db/dde/a21896.html#ac8dccd333691f717fdbffe22126330d5", null ]
 ];

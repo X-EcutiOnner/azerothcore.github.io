@@ -1,7 +1,6 @@
 var a13572 =
 [
-    [ "npc_eris_hevenfireAI", "d9/dbb/a13576.html", "d9/dbb/a13576" ],
-    [ "npc_eris_hevenfire", "dc/d65/a13572.html#a77f0836dc0b19114316b8b67839d8033", null ],
-    [ "GetAI", "dc/d65/a13572.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
-    [ "OnQuestAccept", "dc/d65/a13572.html#a1e0baec5706cfddd678b58eb9359997e", null ]
+    [ "CastArmageddon", "dc/d65/a13572.html#a2e90929b63e6151252aa01a55dbd801f", null ],
+    [ "Execute", "dc/d65/a13572.html#a4f0651a38eaf03a07bcd73d0f88dda16", null ],
+    [ "_caster", "dc/d65/a13572.html#a1e70887099a7a47b7c26517d4363ad93", null ]
 ];

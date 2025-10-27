@@ -1,6 +1,13 @@
 var a04866 =
 [
-    [ "ChatServerMessage", "d8/d3a/a10595.html", "d8/d3a/a10595" ],
-    [ "Emote", "d6/d5d/a10587.html", "d6/d5d/a10587" ],
-    [ "EmoteClient", "dc/d98/a10591.html", "dc/d98/a10591" ]
+    [ "LogoutCancel", "d7/d9f/a10568.html", "d7/d9f/a10568" ],
+    [ "LogoutCancelAck", "d3/da5/a10572.html", "d3/da5/a10572" ],
+    [ "LogoutComplete", "d3/d2d/a10564.html", "d3/d2d/a10564" ],
+    [ "LogoutRequest", "d5/dc7/a10556.html", "d5/dc7/a10556" ],
+    [ "LogoutResponse", "d1/d46/a10560.html", "d1/d46/a10560" ],
+    [ "PlayedTime", "d7/d9e/a10584.html", "d7/d9e/a10584" ],
+    [ "PlayedTimeClient", "d9/d97/a10580.html", "d9/d97/a10580" ],
+    [ "PlayerLogout", "db/d03/a10576.html", "db/d03/a10576" ],
+    [ "ShowingCloak", "dd/d06/a10548.html", "dd/d06/a10548" ],
+    [ "ShowingHelm", "d4/d05/a10552.html", "d4/d05/a10552" ]
 ];

@@ -1,8 +1,6 @@
 var a24244 =
 [
-    [ "CreatureId", "d2/d0b/a24244.html#a127341c70f8785ceb556b1c11b23f477", null ],
-    [ "SpawnCount", "d2/d0b/a24244.html#ad51fb68e41e04490f658a4c4f62612bd", null ],
-    [ "SpawnTimer", "d2/d0b/a24244.html#aa57ff686c5fde12269e231333d8a8bef", null ],
-    [ "UsedSpawnPoint", "d2/d0b/a24244.html#a2d5f42a6b1a309c8db74febcedf457eb", null ],
-    [ "YellTimer", "d2/d0b/a24244.html#a6346259269af7f2936f959f87288dd69", null ]
+    [ "npc_fel_guard_houndAI", "df/d74/a24248.html", "df/d74/a24248" ],
+    [ "npc_fel_guard_hound", "d2/d0b/a24244.html#a324179695f04a31b233b0ce94a46634c", null ],
+    [ "GetAI", "d2/d0b/a24244.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
 ];

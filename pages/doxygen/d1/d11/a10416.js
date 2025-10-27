@@ -1,6 +1,6 @@
 var a10416 =
 [
-    [ "WorldMapScript", "d1/d11/a10416.html#a49300e796ceb6ab1a40ed9cbb89a9e4d", null ],
-    [ "checkValidity", "d1/d11/a10416.html#aa212e582764d2cfbc5e7e600a54f2cb4", null ],
-    [ "isAfterLoadScript", "d1/d11/a10416.html#a6aeda6e4c8328d7334527cbe69311ddc", null ]
+    [ "OutdoorPvPScript", "d1/d11/a10416.html#ad7882db48419888c7968007e30c2f3f7", null ],
+    [ "GetOutdoorPvP", "d1/d11/a10416.html#aa213974f384c88ab65f7b7308dadb026", null ],
+    [ "IsDatabaseBound", "d1/d11/a10416.html#ac22c6a9945738270452848f997d2818f", null ]
 ];

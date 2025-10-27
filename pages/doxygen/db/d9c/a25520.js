@@ -1,5 +1,7 @@
 var a25520 =
 [
-    [ "PrepareSpellScript", "db/d9c/a25520.html#a9137654c01f41c735f477b85e4ec6d73", null ],
-    [ "Register", "db/d9c/a25520.html#af1002e90bc0801c0759393d2d4af8778", null ]
+    [ "OnApply", "db/d9c/a25520.html#a455a885611978a390cd4bfa76b05f82b", null ],
+    [ "PrepareAuraScript", "db/d9c/a25520.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
+    [ "Register", "db/d9c/a25520.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
+    [ "Validate", "db/d9c/a25520.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
 ];

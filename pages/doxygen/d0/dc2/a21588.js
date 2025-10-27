@@ -1,10 +1,6 @@
 var a21588 =
 [
-    [ "npc_jenny", "d0/dc2/a21588.html#ab845ba4551900a03c5a995d348a1be55", null ],
-    [ "DamageTaken", "d0/dc2/a21588.html#a8700091c82bfff473f3d5563deb69e0b", null ],
-    [ "Initialize", "d0/dc2/a21588.html#aab8c540ebb90ebbaef961b1feb3013a3", null ],
-    [ "MoveInLineOfSight", "d0/dc2/a21588.html#acd0939cee3ecb9d961d09815d9c50f71", null ],
-    [ "UpdateFollowerAI", "d0/dc2/a21588.html#afbd142855602bcf7a8cd8e4cc4760cf0", null ],
-    [ "_events", "d0/dc2/a21588.html#aa98caf8b706551470c943b4b722a85ae", null ],
-    [ "_fezzix", "d0/dc2/a21588.html#ac2115c122c2eac2d5a36d1795d1e6bf0", null ]
+    [ "npc_vh_sinclari", "d0/dc2/a21588.html#ad0235f207a3031420532174c04e0c348", null ],
+    [ "OnGossipHello", "d0/dc2/a21588.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
+    [ "OnGossipSelect", "d0/dc2/a21588.html#af0a260d7868f601ae239c226b10d4de3", null ]
 ];

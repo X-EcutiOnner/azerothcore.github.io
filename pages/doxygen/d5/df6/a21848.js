@@ -1,7 +1,10 @@
 var a21848 =
 [
-    [ "HandleApplyEffect", "d5/df6/a21848.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
-    [ "HandleRemoveEffect", "d5/df6/a21848.html#a243933fec9ccd650303ea5badbea725b", null ],
-    [ "PrepareAuraScript", "d5/df6/a21848.html#ac0e1fc0694dd51e245340d3658592447", null ],
-    [ "Register", "d5/df6/a21848.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
+    [ "npc_preparations_for_war_vehicle", "d5/df6/a21848.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
+    [ "InitializeAI", "d5/df6/a21848.html#a85eaba9e51498313f8498eaaf0e7d0d1", null ],
+    [ "MovementInform", "d5/df6/a21848.html#ac78c5675b42563f46cc2af0f0c97bee0", null ],
+    [ "UpdateAI", "d5/df6/a21848.html#ae40a23070d96ecf122e9de5571a845ef", null ],
+    [ "pointId", "d5/df6/a21848.html#ae75d286eb6116b41adb346861b3c1365", null ],
+    [ "searchForShipTimer", "d5/df6/a21848.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
+    [ "transportEntry", "d5/df6/a21848.html#aa0083566387cd42750aaa56b1fa23fed", null ]
 ];

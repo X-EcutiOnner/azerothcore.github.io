@@ -1,6 +1,12 @@
 var a23116 =
 [
-    [ "HandleProc", "d9/d12/a23116.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
-    [ "PrepareAuraScript", "d9/d12/a23116.html#a94b244ef26355d53c874aec6d26f3a53", null ],
-    [ "Register", "d9/d12/a23116.html#a9499d88802213ceb877e19d1651324f2", null ]
+    [ "boss_essence_of_desireAI", "d9/d12/a23116.html#a02f6dec07038297c15c264fb501b01ab", null ],
+    [ "DamageTaken", "d9/d12/a23116.html#abc2d334c185f519230e5ee4d1fc8ff39", null ],
+    [ "DoAction", "d9/d12/a23116.html#ad55459d8e75f34783c1516be05cbb97f", null ],
+    [ "JustEngagedWith", "d9/d12/a23116.html#a0976078399b2190cca25aa2ae5c3c201", null ],
+    [ "KilledUnit", "d9/d12/a23116.html#a07509843bd658e3fc0b02cb817da37e9", null ],
+    [ "MovementInform", "d9/d12/a23116.html#ad65068c5f56db269b4dc711745f96cfb", null ],
+    [ "Reset", "d9/d12/a23116.html#a5c785c728d201a1a4f8f1e01d7000166", null ],
+    [ "UpdateAI", "d9/d12/a23116.html#af348a1b996a8e7704ba55185ef79fe7d", null ],
+    [ "_recentlySpoken", "d9/d12/a23116.html#a6507c0da056a74d961d28e96120cd676", null ]
 ];

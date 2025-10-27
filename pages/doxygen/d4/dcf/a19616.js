@@ -1,12 +1,15 @@
 var a19616 =
 [
-    [ "boss_krystallusAI", "d4/dcf/a19616.html#adfa2ab8498279937bf497292d6e7cba5", null ],
-    [ "JustDied", "d4/dcf/a19616.html#a5b77186f7c0920142a64a03c508dcc3e", null ],
-    [ "JustEngagedWith", "d4/dcf/a19616.html#aaba17094bfe43c9ad63076f84d10a83a", null ],
-    [ "KilledUnit", "d4/dcf/a19616.html#acf9101c5b776820039fd80e5d6e0c138", null ],
-    [ "RemoveStonedEffect", "d4/dcf/a19616.html#ae8bdb2bca7c01c564adab93f1dd67720", null ],
-    [ "Reset", "d4/dcf/a19616.html#ae163fbd682f09f2a49fa71309284ed3b", null ],
-    [ "UpdateAI", "d4/dcf/a19616.html#a79095e25f1d9dac927f63cef67db60ec", null ],
-    [ "events", "d4/dcf/a19616.html#afcd06280f8c7640ff9a56223f5bf3555", null ],
-    [ "pInstance", "d4/dcf/a19616.html#aec9cf7053476298f72dccf3bd1579c63", null ]
+    [ "boss_varosAI", "d4/dcf/a19616.html#a3e6815b80a3f9f5e8c53bb762e9058f2", null ],
+    [ "EnterEvadeMode", "d4/dcf/a19616.html#a0b7eeef4529b47357d729852cdeab002", null ],
+    [ "JustDied", "d4/dcf/a19616.html#a2724167a66a059e1c0ca1612d8405d68", null ],
+    [ "JustEngagedWith", "d4/dcf/a19616.html#a2f25555ca2884f6bffb289d209e87740", null ],
+    [ "JustSummoned", "d4/dcf/a19616.html#a24b2a1e438b02c67e64b79adb0cfeafe", null ],
+    [ "MoveInLineOfSight", "d4/dcf/a19616.html#a87f743f03dc19659d0e77ee23cd2c327", null ],
+    [ "Reset", "d4/dcf/a19616.html#aef24d04954a26bb6381c860403e84288", null ],
+    [ "UpdateAI", "d4/dcf/a19616.html#acc1ac3c2bf5cb1a7732f375285467423", null ],
+    [ "events", "d4/dcf/a19616.html#a36746118770c936e7606962365e102d8", null ],
+    [ "pInstance", "d4/dcf/a19616.html#a9cf7c0159753512ae7dea8a2f6a9da74", null ],
+    [ "step", "d4/dcf/a19616.html#af4c8e11f0aad369f09902eb1ccc48059", null ],
+    [ "ZapAngle", "d4/dcf/a19616.html#aef225fcf580c5e500d3242ac4be24260", null ]
 ];

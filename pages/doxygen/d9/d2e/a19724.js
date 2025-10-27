@@ -1,6 +1,6 @@
 var a19724 =
 [
-    [ "boss_algalon_the_observerAI", "d9/dea/a19728.html", "d9/dea/a19728" ],
-    [ "boss_algalon_the_observer", "d9/d2e/a19724.html#a0691b47a116401da58b246203ecba2cb", null ],
-    [ "GetAI", "d9/d2e/a19724.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
+    [ "CalculateDamage", "d9/d2e/a19724.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "d9/d2e/a19724.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "d9/d2e/a19724.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

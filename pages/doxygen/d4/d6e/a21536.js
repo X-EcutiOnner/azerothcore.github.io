@@ -1,14 +1,12 @@
 var a21536 =
 [
-    [ "npc_azure_saboteurAI", "d4/d6e/a21536.html#a09fc1e8f171209471c5403af33b05a58", null ],
-    [ "FinishPointReached", "d4/d6e/a21536.html#a322380edef5dbefe5ac4ab0040183010", null ],
-    [ "MoveInLineOfSight", "d4/d6e/a21536.html#a21868549892cdd0e67d6403dece9efce", null ],
-    [ "UpdateAI", "d4/d6e/a21536.html#a9ccbb54a41aef3a252a46545649c2c91", null ],
-    [ "WaypointReached", "d4/d6e/a21536.html#ac17dc46bfe75582a789a2056978218fb", null ],
-    [ "bAddedWPs", "d4/d6e/a21536.html#a9cabb9053b3c6b51be184b2144e5ec54", null ],
-    [ "bOpening", "d4/d6e/a21536.html#a924ceb13552f0f01d55375af0324bf5a", null ],
-    [ "count", "d4/d6e/a21536.html#a38bf10a96c8eae45b4aa0bd095924f85", null ],
-    [ "pInstance", "d4/d6e/a21536.html#a1375420fe4bf16f122aa93f5c847a464", null ],
-    [ "timer", "d4/d6e/a21536.html#a30745320b9cc64fb690fa7bd6d7525f2", null ],
-    [ "uiBoss", "d4/d6e/a21536.html#a36f60e44bd8f1de85429a75f3e928d77", null ]
+    [ "boss_lavanthorAI", "d4/d6e/a21536.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
+    [ "EnterEvadeMode", "d4/d6e/a21536.html#a0334d92f1ddf30235efe298df622535b", null ],
+    [ "JustDied", "d4/d6e/a21536.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
+    [ "JustEngagedWith", "d4/d6e/a21536.html#a9820ec47af72af19f00b172ee138f908", null ],
+    [ "MoveInLineOfSight", "d4/d6e/a21536.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
+    [ "Reset", "d4/d6e/a21536.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
+    [ "UpdateAI", "d4/d6e/a21536.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
+    [ "events", "d4/d6e/a21536.html#a273adc56adefe9810013bc80950f2624", null ],
+    [ "pInstance", "d4/d6e/a21536.html#ad6059577c5e131523f39316c2291b421", null ]
 ];

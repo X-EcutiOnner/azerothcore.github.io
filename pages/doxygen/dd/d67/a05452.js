@@ -1,17 +1,18 @@
 var a05452 =
 [
-    [ "CircularBuffer", "dd/d67/a05452.html#a169d3975fbe8eda83c02f62b34347bc9", null ],
-    [ "capacity", "dd/d67/a05452.html#aed04549e911fb6ecebbac1cbd01e9dcd", null ],
-    [ "content", "dd/d67/a05452.html#ad364f8ee7c9176b912ea053e2f3c928f", null ],
-    [ "empty", "dd/d67/a05452.html#a7509cc5ef0dd0a9f731c47b05929580c", null ],
-    [ "full", "dd/d67/a05452.html#a2a2f13f00dca028142c250b5f2183097", null ],
-    [ "peak_back", "dd/d67/a05452.html#ad4bb17889033526da4605ebddd60f3c7", null ],
-    [ "put", "dd/d67/a05452.html#a2a5e093804731b69969c18e49a206572", null ],
-    [ "size", "dd/d67/a05452.html#af429f831da3fd31618d1c1612cd94ce7", null ],
-    [ "buf_", "dd/d67/a05452.html#aa2b9389da6cd912b4dd54d89ca1d69ee", null ],
-    [ "full_", "dd/d67/a05452.html#a1dfcbf9f9d2760d7d82144c57ff8a60e", null ],
-    [ "head_", "dd/d67/a05452.html#a43ba1c722307cdbbf38f8ba1ec7f64c6", null ],
-    [ "max_size_", "dd/d67/a05452.html#a4ad34b67dc4924addf79905732203d2a", null ],
-    [ "mutex_", "dd/d67/a05452.html#aa4762ba2167d8b9560ff39328b4b3afa", null ],
-    [ "tail_", "dd/d67/a05452.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f", null ]
+    [ "ProducerConsumerQueue", "dd/d67/a05452.html#a79b3575e4e25204841ad6b2ca43b0b38", null ],
+    [ "Cancel", "dd/d67/a05452.html#a7e9de516e77945411ad4f8bfa161489d", null ],
+    [ "DeleteQueuedObject", "dd/d67/a05452.html#af375e232b14a288b4e514f4e1e726f06", null ],
+    [ "DeleteQueuedObject", "dd/d67/a05452.html#a10e893856377f7f7a4be62c224a2aef3", null ],
+    [ "Empty", "dd/d67/a05452.html#a1ad8d5d17442d0148b2d8d99e8c798b4", null ],
+    [ "Pop", "dd/d67/a05452.html#afe8119f67dd7d95bbcd749d7ac9404d4", null ],
+    [ "Push", "dd/d67/a05452.html#abd3bd3c88fbd7d8edb721fc5f89da5ed", null ],
+    [ "Shutdown", "dd/d67/a05452.html#aff2060f9ae351caf2da543a5379911ca", null ],
+    [ "Size", "dd/d67/a05452.html#adeefabd0da1df47a9ef3ec2fc6a78b80", null ],
+    [ "WaitAndPop", "dd/d67/a05452.html#a172ef4211bcb237478ec57531c8dcc4d", null ],
+    [ "_cancel", "dd/d67/a05452.html#a54223137936cfa679327d01313adfa01", null ],
+    [ "_condition", "dd/d67/a05452.html#ace83931f4236e97f32c58067b05d35e9", null ],
+    [ "_queue", "dd/d67/a05452.html#a5fc3a20c094041e2da999c4b37d735f0", null ],
+    [ "_queueLock", "dd/d67/a05452.html#a18c7223e356b338f9ddbc17eadc6a21e", null ],
+    [ "_shutdown", "dd/d67/a05452.html#a994ad012dfe4e9cd4d76d8eb9270f0d2", null ]
 ];

@@ -1,13 +1,10 @@
 var a23432 =
 [
-    [ "boss_ghazan", "da/d1e/a23432.html#ae730362fcf3606c67b6b85147de98fb6", null ],
-    [ "DoAction", "da/d1e/a23432.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
-    [ "InitializeAI", "da/d1e/a23432.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
-    [ "JustEngagedWith", "da/d1e/a23432.html#ad4136f0f63d267284f36756793c0efa7", null ],
-    [ "JustReachedHome", "da/d1e/a23432.html#af9f2dd854036d5c8b9c6703499836199", null ],
-    [ "MovementInform", "da/d1e/a23432.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
-    [ "Reset", "da/d1e/a23432.html#afc9522a26060643f2f9d25a8a98691b7", null ],
-    [ "UpdateAI", "da/d1e/a23432.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
-    [ "_movedToPlatform", "da/d1e/a23432.html#aa6c0c391355ac0b698d67796efd63062", null ],
-    [ "_reachedPlatform", "da/d1e/a23432.html#af3476318b4721bd52facaf735eabb1f9", null ]
+    [ "boss_morogrim_tidewalker", "da/d1e/a23432.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "da/d1e/a23432.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "da/d1e/a23432.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "da/d1e/a23432.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "da/d1e/a23432.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "da/d1e/a23432.html#a78ed1d1f8c55407497a4fb679587975d", null ],
+    [ "_recentlySpoken", "da/d1e/a23432.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
 ];

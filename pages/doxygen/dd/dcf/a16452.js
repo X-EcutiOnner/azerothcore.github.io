@@ -1,6 +1,9 @@
 var a16452 =
 [
-    [ "npc_toc_priestAI", "d4/d4b/a16456.html", "d4/d4b/a16456" ],
-    [ "npc_toc_priest", "dd/dcf/a16452.html#a0e360a2cc053434d2f76826683da8eee", null ],
-    [ "GetAI", "dd/dcf/a16452.html#a6056a81bef962a02537d525f07d1c302", null ]
+    [ "npc_memoryAI", "dd/dcf/a16452.html#ad927d377d60b44f43808469042f5feb9", null ],
+    [ "JustDied", "dd/dcf/a16452.html#a7b0484919d671877f29dfa05ca1265d9", null ],
+    [ "Reset", "dd/dcf/a16452.html#a985c51bbfa2cceeb7601432491253aaf", null ],
+    [ "UpdateAI", "dd/dcf/a16452.html#a6cb74389f5aea91d2062e007ea08acd7", null ],
+    [ "events", "dd/dcf/a16452.html#a2ed2993e89728a3723456a67e13581f7", null ],
+    [ "pInstance", "dd/dcf/a16452.html#a31bcb5041844ea5e3a076ad1366897e1", null ]
 ];

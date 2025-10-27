@@ -1,9 +1,13 @@
 var a08816 =
 [
-    [ "GameEventAIHookWorker", "d2/d1d/a08816.html#ad72640a18d2d32a9201c965089ee49cf", null ],
-    [ "Visit", "d2/d1d/a08816.html#a23d979ee43838e7d58e9123e36474a5a", null ],
-    [ "Visit", "d2/d1d/a08816.html#a79106ec550d072d690bbf3496d76cb0a", null ],
-    [ "Visit", "d2/d1d/a08816.html#a165476edd8b252bbb90b8b78fae963a6", null ],
-    [ "_activate", "d2/d1d/a08816.html#a756665eafa08f3c8c51ccef69bdd619f", null ],
-    [ "_eventId", "d2/d1d/a08816.html#ab1ee68bb7134e84780772eba2cfac766", null ]
+    [ "MMapTargetData", "d2/d1d/a08816.html#a33cc430ea3c4b5dd4012a16914dc8aeb", null ],
+    [ "MMapTargetData", "d2/d1d/a08816.html#a8312ea3187617e78b28aab842a8284cc", null ],
+    [ "MMapTargetData", "d2/d1d/a08816.html#a4108ff5fbbf7c468ff7d90ac7beea4fa", null ],
+    [ "MMapTargetData", "d2/d1d/a08816.html#a3547f93af46826a051f1164ac1fc9ccc", null ],
+    [ "operator=", "d2/d1d/a08816.html#a4053689f5f675cf1a621dfb39211b3cc", null ],
+    [ "operator=", "d2/d1d/a08816.html#a130fe2b359f583acab99c51eb9d0b1ad", null ],
+    [ "PosChanged", "d2/d1d/a08816.html#ade55876b7781b47a72dac9fea1f2e420", null ],
+    [ "_endTime", "d2/d1d/a08816.html#a5506c303d668bbead180fe2a8c2ed48e", null ],
+    [ "_posOwner", "d2/d1d/a08816.html#aeaf1e739388ab834e8c845fa366bbfd3", null ],
+    [ "_posTarget", "d2/d1d/a08816.html#a7f089d873690e8ea549f6345b6598fc4", null ]
 ];

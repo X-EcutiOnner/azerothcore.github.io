@@ -1,14 +1,7 @@
 var a14824 =
 [
-    [ "npc_cos_stratholme_citizienAI", "df/d7e/a14824.html#a591aaf16ef5befada12378acfbef9465", null ],
-    [ "DoAction", "df/d7e/a14824.html#af9d6fa1dfa83a75194797e99ee80ae0e", null ],
-    [ "InfectMe", "df/d7e/a14824.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b", null ],
-    [ "MoveInLineOfSight", "df/d7e/a14824.html#ab7a8f6423e12ca0ea9bcb085594013a2", null ],
-    [ "Reset", "df/d7e/a14824.html#a0dbb5f295aa9061fa3457c9590ea9b10", null ],
-    [ "SpellHit", "df/d7e/a14824.html#aa8b9a05d3c7d89aa054af919672a69ec", null ],
-    [ "UpdateAI", "df/d7e/a14824.html#a81a1382493091a99cae1c2bb580a7f32", null ],
-    [ "allowTimer", "df/d7e/a14824.html#ae92384763b3cfe4a4bc4180d1c404456", null ],
-    [ "changeTimer", "df/d7e/a14824.html#aa757ab2eef813dceaaad65d84681099b", null ],
-    [ "locked", "df/d7e/a14824.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
-    [ "pInstance", "df/d7e/a14824.html#aadae06c487a7755114f856a835d48c7e", null ]
+    [ "HandleOnHit", "df/d7e/a14824.html#ae3241486a612293b5421a523f6d854d9", null ],
+    [ "PrepareSpellScript", "df/d7e/a14824.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
+    [ "Register", "df/d7e/a14824.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
+    [ "Validate", "df/d7e/a14824.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
 ];

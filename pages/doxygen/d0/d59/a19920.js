@@ -1,6 +1,7 @@
 var a19920 =
 [
-    [ "boss_flame_leviathan_defense_turretAI", "d4/d90/a19924.html", "d4/d90/a19924" ],
-    [ "boss_flame_leviathan_defense_turret", "d0/d59/a19920.html#a939c66ff6c1eb6dfdb3d93b3d0292e40", null ],
-    [ "GetAI", "d0/d59/a19920.html#a1c3726e2b753cda18bd11d8f4ff154db", null ]
+    [ "HandleDummyEffect", "d0/d59/a19920.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
+    [ "PrepareSpellScript", "d0/d59/a19920.html#a84a4f52928873e58b1fc49e783c5083a", null ],
+    [ "Register", "d0/d59/a19920.html#a90c00bcb1768d696addab407425e406a", null ],
+    [ "SelectTarget", "d0/d59/a19920.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
 ];

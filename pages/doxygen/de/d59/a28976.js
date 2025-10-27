@@ -1,5 +1,6 @@
 var a28976 =
 [
-    [ "achievement_not_even_a_scratch", "de/d59/a28976.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "de/d59/a28976.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "id", "de/d59/a28976.html#a5acc1b246a76073e1c97513251a4143d", null ],
+    [ "id", "de/d59/a28976.html#aaf844f570afdf7439ae7fbe0bbdc39e7", null ],
+    [ "name", "de/d59/a28976.html#ae5d1244981224aed1b7477caedd70175", null ]
 ];

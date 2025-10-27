@@ -1,8 +1,13 @@
 var a22688 =
 [
-    [ "boss_darkweaver_syth", "d3/db4/a22688.html#a4f719165e07206c5a378412b3f82ff86", null ],
-    [ "JustDied", "d3/db4/a22688.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
-    [ "JustEngagedWith", "d3/db4/a22688.html#aaf6dab75e66734e930c5732749f3d69a", null ],
-    [ "KilledUnit", "d3/db4/a22688.html#a1904c2596dd455f84625974beec4a2c8", null ],
-    [ "Reset", "d3/db4/a22688.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
+    [ "OPvPCapturePointEP_EWT", "d3/db4/a22688.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
+    [ "ChangeState", "d3/db4/a22688.html#ac00c50b89e1218f87506778096a9d7cd", null ],
+    [ "FillInitialWorldStates", "d3/db4/a22688.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
+    [ "HandlePlayerEnter", "d3/db4/a22688.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
+    [ "HandlePlayerLeave", "d3/db4/a22688.html#a2638b24dca375420778845963e307db3", null ],
+    [ "SendChangePhase", "d3/db4/a22688.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
+    [ "SummonSupportUnitAtNorthpassTower", "d3/db4/a22688.html#ad70a8cc485072cd9af892290584062d8", null ],
+    [ "UpdateTowerState", "d3/db4/a22688.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
+    [ "m_TowerState", "d3/db4/a22688.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
+    [ "m_UnitsSummonedSideId", "d3/db4/a22688.html#a0319f0d51624df44419976e7abd1b813", null ]
 ];

@@ -1,5 +1,5 @@
 var a01790 =
 [
-    [ "WorldPackets::LFG::LFGJoin", "d9/d6d/a10907.html", "d9/d6d/a10907" ],
-    [ "WorldPackets::LFG::LFGLeave", "df/d82/a10911.html", "df/d82/a10911" ]
+    [ "WorldPackets::LFG::LFGJoin", "db/d56/a10908.html", "db/d56/a10908" ],
+    [ "WorldPackets::LFG::LFGLeave", "d0/d00/a10912.html", "d0/d00/a10912" ]
 ];

@@ -1,11 +1,9 @@
 var a26820 =
 [
-    [ "CalcPeriodic", "d9/dbd/a26820.html#aeb804ef41ec5600c18b5b1c9fcf37479", null ],
-    [ "CalculateAPAmount", "d9/dbd/a26820.html#a72bd308dbeaa7eca5685f3e5055d7fad", null ],
-    [ "CalculateResistanceAmount", "d9/dbd/a26820.html#a12a0f547198d150b0c51e481dd0ff6aa", null ],
-    [ "CalculateSPAmount", "d9/dbd/a26820.html#a114c868f0dc31f3370588b1bd1f18894", null ],
-    [ "CalculateStatAmount", "d9/dbd/a26820.html#ae7ba2e3eca6c93325ede8b100e32bd3c", null ],
-    [ "HandlePeriodic", "d9/dbd/a26820.html#af5076795e8bf6abd45590a060f9e5b52", null ],
-    [ "PrepareAuraScript", "d9/dbd/a26820.html#aa512873852c0eea9947472fcb60fbfc2", null ],
-    [ "Register", "d9/dbd/a26820.html#a40ed4ca839b9783d9a8e9930f87a2eb8", null ]
+    [ "HandleAfterHit", "d9/dbd/a26820.html#a05341e7a67f50c6ced4bf4bd3892f39a", null ],
+    [ "HandleBeforeHit", "d9/dbd/a26820.html#a7ca0fe15f6679c73aa77818ef3d94eed", null ],
+    [ "Load", "d9/dbd/a26820.html#a6b2a1f378c0f5a2762ce1d34740d310e", null ],
+    [ "PrepareSpellScript", "d9/dbd/a26820.html#a496c27472579be3b8989868765ec19ef", null ],
+    [ "Register", "d9/dbd/a26820.html#a133e338413e960c442446a2a4a13b85b", null ],
+    [ "_stackAmount", "d9/dbd/a26820.html#a3aa304a5386f6c0ee4aa428bf4ed12bb", null ]
 ];

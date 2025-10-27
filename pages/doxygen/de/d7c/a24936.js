@@ -1,7 +1,9 @@
 var a24936 =
 [
-    [ "HandleApply", "de/d7c/a24936.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
-    [ "HandlePeriodicTimer", "de/d7c/a24936.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
-    [ "PrepareAuraScript", "de/d7c/a24936.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
-    [ "Register", "de/d7c/a24936.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
+    [ "Absorb", "de/d7c/a24936.html#af7df70d0bd68d12032b5b57faa789a87", null ],
+    [ "CalculateAmount", "de/d7c/a24936.html#a40f7cfe30b7bf2237d61665b167476fb", null ],
+    [ "Load", "de/d7c/a24936.html#a1b3e5da38a6aba7cc163bf34848ed950", null ],
+    [ "PrepareAuraScript", "de/d7c/a24936.html#ae63ad15db90ebe73d73e77e232f4d695", null ],
+    [ "Register", "de/d7c/a24936.html#ac7316995b7682a6fafe47ff2547956b0", null ],
+    [ "absorbPct", "de/d7c/a24936.html#ab5b59d975e71e0e12bf41e8d173b9491", null ]
 ];

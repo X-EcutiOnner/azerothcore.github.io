@@ -1,6 +1,6 @@
 var a15584 =
 [
-    [ "Creature", "db/d1d/a15584.html#a77b33f8998f85808b58052079b1cab54", null ],
-    [ "TextId", "db/d1d/a15584.html#ad691f3cd40035e96547adf7528229119", null ],
-    [ "Timer", "db/d1d/a15584.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
+    [ "npc_murkdeepAI", "d5/d69/a15588.html", "d5/d69/a15588" ],
+    [ "npc_murkdeep", "db/d1d/a15584.html#a72d44d786bcba4dea5ccedd33e7dbd3c", null ],
+    [ "GetAI", "db/d1d/a15584.html#ab9f8faa3adaf1f251e1248fbe0f46468", null ]
 ];

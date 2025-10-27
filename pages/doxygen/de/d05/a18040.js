@@ -1,7 +1,6 @@
 var a18040 =
 [
-    [ "HandleCast", "de/d05/a18040.html#aaa3262bc782e342825d4caba2954e95d", null ],
-    [ "PrepareSpellScript", "de/d05/a18040.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
-    [ "Register", "de/d05/a18040.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
-    [ "Validate", "de/d05/a18040.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
+    [ "AbominationDespawner", "de/d05/a18040.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "de/d05/a18040.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "de/d05/a18040.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

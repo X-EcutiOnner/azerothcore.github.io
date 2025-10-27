@@ -1,5 +1,6 @@
 var a22084 =
 [
-    [ "npc_black_knight_graveyardAI", "da/db8/a22084.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
-    [ "MoveInLineOfSight", "da/db8/a22084.html#aa5c80b5759656e3865d6721161f9f005", null ]
+    [ "HandleScriptEffect", "da/db8/a22084.html#aab68c7fac277f4da5a6cf8bf8e6256ea", null ],
+    [ "PrepareSpellScript", "da/db8/a22084.html#a6b7f628a138ac395a8cc122902ec38b4", null ],
+    [ "Register", "da/db8/a22084.html#aacf2bbf7b8396fd7cfbfaf34a66f9b61", null ]
 ];

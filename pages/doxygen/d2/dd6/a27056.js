@@ -1,5 +1,10 @@
 var a27056 =
 [
-    [ "achievement_bg_ic_mowed_down", "d2/dd6/a27056.html#ab05387d1e14958e87123bd0fc2188445", null ],
-    [ "OnCheck", "d2/dd6/a27056.html#a385e09c605084900f374090e5e19c24f", null ]
+    [ "CalculateAmount", "d2/dd6/a27056.html#a9e0e28d871f9d3c89cf2dc862971321d", null ],
+    [ "Detonate", "d2/dd6/a27056.html#adc622aae157984546dfe3d8373c0c413", null ],
+    [ "HandleProc", "d2/dd6/a27056.html#a3b5812649b67830d8dc6d10b5dd1c937", null ],
+    [ "OnRemove", "d2/dd6/a27056.html#a5067cef0afc99d487f995f8d6edea21f", null ],
+    [ "PrepareAuraScript", "d2/dd6/a27056.html#abc23ebb3761e3505486ac578bdeaeeed", null ],
+    [ "Register", "d2/dd6/a27056.html#acc4819698e175889a0491d7f7cc680fd", null ],
+    [ "Validate", "d2/dd6/a27056.html#a0649826ce0d66c9f21be8d47c76f4941", null ]
 ];

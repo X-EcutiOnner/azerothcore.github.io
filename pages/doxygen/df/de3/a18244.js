@@ -1,8 +1,6 @@
 var a18244 =
 [
-    [ "NecroticPlagueTargetCheck", "df/de3/a18244.html#abf9c21cc0041e5981a91abce8fb0a58f", null ],
-    [ "operator()", "df/de3/a18244.html#a801a176e367a9f4446fe080845477654", null ],
-    [ "_notAura1", "df/de3/a18244.html#a4f52417f233e1ab06210726670f719f3", null ],
-    [ "_notAura2", "df/de3/a18244.html#affa9b300cd7a7469b0bdf2a72d380dd6", null ],
-    [ "_sourceObj", "df/de3/a18244.html#a7cf2e485e65f2396cfdbfe8e646e4d53", null ]
+    [ "boss_sindragosaAI", "d5/d29/a18248.html", "d5/d29/a18248" ],
+    [ "boss_sindragosa", "df/de3/a18244.html#af5cdf4798b8b87467fa45dbda7fcbee1", null ],
+    [ "GetAI", "df/de3/a18244.html#a005a6da9f4f9690416a108872b3c2b36", null ]
 ];

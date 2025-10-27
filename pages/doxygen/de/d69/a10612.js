@@ -1,8 +1,11 @@
 var a10612 =
 [
-    [ "GuildEvent", "de/d69/a10612.html#a78be16122c01d4c68d67e050ede92006", null ],
-    [ "Write", "de/d69/a10612.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
-    [ "Guid", "de/d69/a10612.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
-    [ "Params", "de/d69/a10612.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
-    [ "Type", "de/d69/a10612.html#a961ae90991fa23bfc94a054dba357392", null ]
+    [ "BackgroundColor", "de/d69/a10612.html#abab86dd497de86088873178bf1d54b5b", null ],
+    [ "BorderColor", "de/d69/a10612.html#abb2489b9be8a0d4a20d209d6293d7d46", null ],
+    [ "BorderStyle", "de/d69/a10612.html#acd5105c31e0f56e680f3384e86186872", null ],
+    [ "EmblemColor", "de/d69/a10612.html#a2e8a4768292d3566bb61009056a8a230", null ],
+    [ "EmblemStyle", "de/d69/a10612.html#aa6309467f9f09725a8698de864b4e63c", null ],
+    [ "GuildName", "de/d69/a10612.html#a74d4e1690c07a647c97ca2225e8488dd", null ],
+    [ "RankCount", "de/d69/a10612.html#acddb77850a86348df197afc724c4eaa0", null ],
+    [ "Ranks", "de/d69/a10612.html#aec9fd9a1a3bfa040375193027b32cf24", null ]
 ];

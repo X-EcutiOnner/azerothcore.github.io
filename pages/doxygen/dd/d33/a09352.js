@@ -1,8 +1,7 @@
 var a09352 =
 [
-    [ "NearestAttackableNoTotemUnitInObjectRangeCheck", "dd/d33/a09352.html#a1f0bf90a7b9c57d05c54e3db6827aec1", null ],
-    [ "operator()", "dd/d33/a09352.html#a08f8e473914c8a7bddbf26568294c18b", null ],
-    [ "i_obj", "dd/d33/a09352.html#a949ff3bcc3530206d83512d293647a2b", null ],
-    [ "i_owner", "dd/d33/a09352.html#a64f58427bbab3276bdc53450b33eca12", null ],
-    [ "i_range", "dd/d33/a09352.html#af52388830cec17e32b1d368739b4555a", null ]
+    [ "GameObjectFocusCheck", "dd/d33/a09352.html#a06607ffa0ebf51c230f4584632a7444a", null ],
+    [ "operator()", "dd/d33/a09352.html#af5c0b63b8bfe112c9a8a43d7e49e1f7b", null ],
+    [ "i_focusId", "dd/d33/a09352.html#ace009546c2dcc6dac5de98b3c34152a5", null ],
+    [ "i_unit", "dd/d33/a09352.html#a0afc07e086f5aa3301c2b46a0004213e", null ]
 ];

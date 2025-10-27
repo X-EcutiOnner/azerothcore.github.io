@@ -1,9 +1,9 @@
 var a22356 =
 [
-    [ "npc_hyldsmeet_protodrakeAI", "dd/df8/a22360.html", "dd/df8/a22360" ],
-    [ "NPCs", "d0/d28/a22356.html#a8f2ea95c836ba6bab370301fbf3e6822", [
-      [ "NPC_HYLDSMEET_DRAKERIDER", "d0/d28/a22356.html#a8f2ea95c836ba6bab370301fbf3e6822a1b77c38a75142cff5392a89db3e765df", null ]
-    ] ],
-    [ "npc_hyldsmeet_protodrake", "d0/d28/a22356.html#a2471f1d858d7ae8f801208e35860a95e", null ],
-    [ "GetAI", "d0/d28/a22356.html#a791e5cff3901f9a3ec365d4049b82d25", null ]
+    [ "npc_frostbrood_skytalonAI", "d0/d28/a22356.html#afc14c60466f9f0f1b20062758f18c00d", null ],
+    [ "IsSummonedBy", "d0/d28/a22356.html#a2c5729ee3371e562869878ff3a7b84bd", null ],
+    [ "MovementInform", "d0/d28/a22356.html#ae763333503176eb7e8ce407868243958", null ],
+    [ "SpellHit", "d0/d28/a22356.html#a24bb49f47dcf85c95039d0495a89e126", null ],
+    [ "UpdateAI", "d0/d28/a22356.html#a0ffc4cd2e9b61ad17c516f062d161feb", null ],
+    [ "events", "d0/d28/a22356.html#a8575d258d63e28626cffd7fc2160bee6", null ]
 ];

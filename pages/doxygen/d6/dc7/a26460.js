@@ -1,7 +1,6 @@
 var a26460 =
 [
-    [ "HandleScript", "d6/dc7/a26460.html#a1b20a7fb4487876f305aa3a8d493ed17", null ],
-    [ "PrepareSpellScript", "d6/dc7/a26460.html#a5ac848029ef03f6779cf094f4b80dd24", null ],
-    [ "Register", "d6/dc7/a26460.html#a3d378e0eac09b00792b293b2cd7f3192", null ],
-    [ "Validate", "d6/dc7/a26460.html#a36963610ad939ec36848ff70185f47a2", null ]
+    [ "FilterTargets", "d6/dc7/a26460.html#a23c7b977f7e213322b3702367d6a28c7", null ],
+    [ "PrepareSpellScript", "d6/dc7/a26460.html#a7000b2fd940c914933c486e847932b62", null ],
+    [ "Register", "d6/dc7/a26460.html#a870ee08d0341f6640710a87c97a6b98b", null ]
 ];

@@ -1,6 +1,6 @@
 var a12892 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "d1/ddb/a12896.html", "d1/ddb/a12896" ],
-    [ "instance_magisters_terrace", "d5/df0/a12892.html#a81e23ce04c4d765193d2d2763ef78987", null ],
-    [ "GetInstanceScript", "d5/df0/a12892.html#a465cbaebb13535cdb7f6a2108e026fc5", null ]
+    [ "HandleCast", "d5/df0/a12892.html#aefe0621647cd9e25f19063eb5ce4dd69", null ],
+    [ "PrepareSpellScript", "d5/df0/a12892.html#afb4d3414a0da5e2701ee114349cf64ce", null ],
+    [ "Register", "d5/df0/a12892.html#a261a63e366c22c6bf2d1d7dfec97c6e2", null ]
 ];

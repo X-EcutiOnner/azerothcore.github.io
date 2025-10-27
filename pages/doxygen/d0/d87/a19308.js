@@ -1,6 +1,6 @@
 var a19308 =
 [
-    [ "npc_hover_diskAI", "da/dae/a19312.html", "da/dae/a19312" ],
-    [ "npc_hover_disk", "d0/d87/a19308.html#af0ab534387a2af4e168915801ee855e5", null ],
-    [ "GetAI", "d0/d87/a19308.html#adbe9285126089ca998e9b6360f42c553", null ]
+    [ "WebTargetSelector", "d0/d87/a19308.html#a2f19cffab18fd6f2f5a1d296aa1db47d", null ],
+    [ "operator()", "d0/d87/a19308.html#a289821eaae114ba384a9ee9b8c19325f", null ],
+    [ "_maexxna", "d0/d87/a19308.html#ad21c9ac380f7b97aacc06f08f1c45974", null ]
 ];

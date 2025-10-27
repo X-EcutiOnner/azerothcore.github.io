@@ -1,5 +1,7 @@
 var a12856 =
 [
-    [ "boss_ellris_duskhallow", "d4/dde/a12856.html#a85dc1f923c8211180cc5b250fb509ba7", null ],
-    [ "JustEngagedWith", "d4/dde/a12856.html#a5bb5bc51b62ad371bf086c6ced2eee89", null ]
+    [ "FilterTargets", "d4/dde/a12856.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
+    [ "Load", "d4/dde/a12856.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
+    [ "PrepareSpellScript", "d4/dde/a12856.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
+    [ "Register", "d4/dde/a12856.html#ae366530ddacf45a92eaa36be7e706a84", null ]
 ];

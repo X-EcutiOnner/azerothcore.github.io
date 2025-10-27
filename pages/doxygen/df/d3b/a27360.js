@@ -1,6 +1,6 @@
 var a27360 =
 [
-    [ "go_fel_crystalforge", "df/d3b/a27360.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "df/d3b/a27360.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "df/d3b/a27360.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "npc_dream_fogAI", "d4/da8/a27364.html", "d4/da8/a27364" ],
+    [ "npc_dream_fog", "df/d3b/a27360.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "df/d3b/a27360.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

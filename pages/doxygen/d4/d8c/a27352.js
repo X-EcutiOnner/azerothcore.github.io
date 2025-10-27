@@ -1,5 +1,6 @@
 var a27352 =
 [
-    [ "go_tele_to_dalaran_crystal", "d4/d8c/a27352.html#ab41268b7d568e8f189338f27cd90a62c", null ],
-    [ "OnGossipHello", "d4/d8c/a27352.html#a7f754a29249653ca7848494310ef1a8d", null ]
+    [ "AreaTrigger_at_area_52_entrance", "d4/d8c/a27352.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "d4/d8c/a27352.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "d4/d8c/a27352.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

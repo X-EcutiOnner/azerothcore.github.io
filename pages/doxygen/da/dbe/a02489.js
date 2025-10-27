@@ -1,8 +1,8 @@
 var a02489 =
 [
-    [ "spell_ooze_zap", "d1/d2c/a15675.html", "d1/d2c/a15675" ],
-    [ "spell_ooze_zap_channel_end", "de/d11/a15679.html", "de/d11/a15679" ],
-    [ "spell_energize_aoe", "d6/dad/a15683.html", "d6/dad/a15683" ],
+    [ "spell_ooze_zap", "d3/ddc/a15676.html", "d3/ddc/a15676" ],
+    [ "spell_ooze_zap_channel_end", "de/d35/a15680.html", "de/d35/a15680" ],
+    [ "spell_energize_aoe", "d8/d2a/a15684.html", "d8/d2a/a15684" ],
     [ "SpellScripts", "da/dbe/a02489.html#a7da1350130e8c0e2dbb048bb6d532048", [
       [ "SPELL_OOZE_ZAP", "da/dbe/a02489.html#a7da1350130e8c0e2dbb048bb6d532048a1b2971d13842ea79dee4215970f1b0f8", null ],
       [ "SPELL_OOZE_ZAP_CHANNEL_END", "da/dbe/a02489.html#a7da1350130e8c0e2dbb048bb6d532048a02f7e373b9176afcf3033085c6cc4a1d", null ],

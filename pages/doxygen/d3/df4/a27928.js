@@ -1,5 +1,5 @@
 var a27928 =
 [
-    [ "ID", "d3/df4/a27928.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
-    [ "price", "d3/df4/a27928.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
+    [ "QuestApprenticeAnglerPlayerScript", "d3/df4/a27928.html#afaa929276f8b131005c9b94daa9a09f9", null ],
+    [ "OnPlayerCompleteQuest", "d3/df4/a27928.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
 ];

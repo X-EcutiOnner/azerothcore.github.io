@@ -1,6 +1,8 @@
 var a22504 =
 [
-    [ "npc_crusade_recruitAI", "d1/d5b/a22508.html", "d1/d5b/a22508" ],
-    [ "npc_crusade_recruit", "d8/d5c/a22504.html#a6e130f153c506255ef5ece1baf006028", null ],
-    [ "GetAI", "d8/d5c/a22504.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
+    [ "npc_freed_protodrakeAI", "d8/d5c/a22504.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "d8/d5c/a22504.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "d8/d5c/a22504.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "d8/d5c/a22504.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "d8/d5c/a22504.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

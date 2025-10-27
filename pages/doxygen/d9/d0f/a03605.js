@@ -1,7 +1,7 @@
 var a03605 =
 [
-    [ "boss_felblood_kaelthas", "dc/d17/a13027.html", "dc/d17/a13027" ],
-    [ "spell_mt_phoenix_burn", "d1/dc5/a13031.html", "d1/dc5/a13031" ],
+    [ "boss_felblood_kaelthas", "df/d85/a13028.html", "df/d85/a13028" ],
+    [ "spell_mt_phoenix_burn", "dc/d1f/a13032.html", "dc/d1f/a13032" ],
     [ "Misc", "d9/d0f/a03605.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d2/db4/a03695.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "db/d49/a03737.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

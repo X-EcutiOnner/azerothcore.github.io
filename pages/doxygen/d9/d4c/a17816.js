@@ -1,6 +1,6 @@
 var a17816 =
 [
-    [ "HandlePeriodicTick", "d9/d4c/a17816.html#a29bf443cdb53b10032ba382b8ae44828", null ],
-    [ "PrepareAuraScript", "d9/d4c/a17816.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
-    [ "Register", "d9/d4c/a17816.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
+    [ "npc_gunship_boarding_add_realAI", "d9/d4c/a17816.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
+    [ "UpdateAI", "d9/d4c/a17816.html#a33ac355c8f61907574a0736a24cbee82", null ],
+    [ "_events", "d9/d4c/a17816.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
 ];

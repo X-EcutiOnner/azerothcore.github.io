@@ -1,6 +1,6 @@
 var a22200 =
 [
-    [ "HandleHealPct", "da/dc1/a22200.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "da/dc1/a22200.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "da/dc1/a22200.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "npc_attracted_reef_bullAI", "d2/d4c/a22204.html", "d2/d4c/a22204" ],
+    [ "npc_attracted_reef_bull", "da/dc1/a22200.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
+    [ "GetAI", "da/dc1/a22200.html#af705e2768cd41c955af7f944c670ac85", null ]
 ];

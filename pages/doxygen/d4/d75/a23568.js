@@ -1,10 +1,7 @@
 var a23568 =
 [
-    [ "boss_kelidan_the_breaker", "d4/d75/a23568.html#a6774e4a0315b30266f6c55da608cd193", null ],
-    [ "ApplyImmunities", "d4/d75/a23568.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
-    [ "DoAction", "d4/d75/a23568.html#a3fa0117ce1079f651025116684f5e2f4", null ],
-    [ "JustDied", "d4/d75/a23568.html#a4d3f0171b7889a96f19999b28e549866", null ],
-    [ "JustEngagedWith", "d4/d75/a23568.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
-    [ "KilledUnit", "d4/d75/a23568.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
-    [ "Reset", "d4/d75/a23568.html#a46c592f6c46ea568ad368702e1640e06", null ]
+    [ "boss_hydromancer_thespia", "d4/d75/a23568.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "d4/d75/a23568.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "d4/d75/a23568.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "d4/d75/a23568.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

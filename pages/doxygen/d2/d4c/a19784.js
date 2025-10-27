@@ -1,7 +1,5 @@
 var a19784 =
 [
-    [ "HandleDummyEffect", "d2/d4c/a19784.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
-    [ "PrepareSpellScript", "d2/d4c/a19784.html#a84a4f52928873e58b1fc49e783c5083a", null ],
-    [ "Register", "d2/d4c/a19784.html#a90c00bcb1768d696addab407425e406a", null ],
-    [ "SelectTarget", "d2/d4c/a19784.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
+    [ "boss_sjonnir_dwarfAI", "d2/d4c/a19784.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
+    [ "UpdateAI", "d2/d4c/a19784.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
 ];

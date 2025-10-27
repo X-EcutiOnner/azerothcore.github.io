@@ -1,6 +1,5 @@
 var a11392 =
 [
-    [ "AuraProcHandler", "d4/dc2/a11392.html#a1c0ad4a28c98d89a0afc2f8eeda9a421", null ],
-    [ "Call", "d4/dc2/a11392.html#abc0c3be9dee08e995c282f20900f3c46", null ],
-    [ "_HandlerScript", "d4/dc2/a11392.html#ada8d7a5659598b0092739a91ba2653bd", null ]
+    [ "groupId", "d4/dc2/a11392.html#a71a218d1ea3241f0c72205f7e2f34125", null ],
+    [ "specialFlags", "d4/dc2/a11392.html#a2232afb6a6b05e5ea33f40992a09621d", null ]
 ];

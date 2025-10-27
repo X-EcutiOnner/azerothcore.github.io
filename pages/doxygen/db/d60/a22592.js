@@ -1,17 +1,9 @@
 var a22592 =
 [
-    [ "OutdoorPvPSI", "db/d60/a22592.html#a89bf2d913b7d68ee921ef4b9aeea61e1", null ],
-    [ "FillInitialWorldStates", "db/d60/a22592.html#a7392eed60ec3307bdea4ed35cd859077", null ],
-    [ "HandleAreaTrigger", "db/d60/a22592.html#a7c6d70d7a611752456c55d13420ff840", null ],
-    [ "HandleCustomSpell", "db/d60/a22592.html#a10853a2f5766b6fc75044a20b281a198", null ],
-    [ "HandleDropFlag", "db/d60/a22592.html#a9238a5007253d84d66192bd340d8311a", null ],
-    [ "HandlePlayerEnterZone", "db/d60/a22592.html#ad2cabd461406a61e40411850b3d31c0c", null ],
-    [ "HandlePlayerLeaveZone", "db/d60/a22592.html#aa06088b1d80072577e6fc7653a214512", null ],
-    [ "SendRemoveWorldStates", "db/d60/a22592.html#aae7deda0662b28f6fc0e16115a65304b", null ],
-    [ "SetupOutdoorPvP", "db/d60/a22592.html#a401da5bef2350c4eb21b249b4f8b3e40", null ],
-    [ "Update", "db/d60/a22592.html#a56bda08a795a4b0cd1c52ec448920fac", null ],
-    [ "UpdateWorldState", "db/d60/a22592.html#a81f4362ece83f37f14471926e9a85fb3", null ],
-    [ "m_Gathered_A", "db/d60/a22592.html#ab532337ab7e66e1489221e3189e48bac", null ],
-    [ "m_Gathered_H", "db/d60/a22592.html#abcd36fe918edbbea387573bd5fab89e7", null ],
-    [ "m_LastController", "db/d60/a22592.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c", null ]
+    [ "HandleFinish", "db/d60/a22592.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
+    [ "Load", "db/d60/a22592.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
+    [ "PrepareSpellScript", "db/d60/a22592.html#a8326b3f9f78aab65225e81d274cc37df", null ],
+    [ "Register", "db/d60/a22592.html#a749858f56e15a0bb6074d15ba166625d", null ],
+    [ "Validate", "db/d60/a22592.html#a64005c52e7112c466f6206b7f6c847c0", null ],
+    [ "handled", "db/d60/a22592.html#a7afe3007a016cb553f437544f8fd6f89", null ]
 ];

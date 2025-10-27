@@ -1,10 +1,15 @@
 var a24468 =
 [
-    [ "npc_pet_hunter_snake_trap", "d9/d4a/a24468.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
-    [ "EnterEvadeMode", "d9/d4a/a24468.html#a819add0c7b968063403d10275fdc289f", null ],
-    [ "MoveInLineOfSight", "d9/d4a/a24468.html#a32d5ed7f4d436f2678b34f4a1d572721", null ],
-    [ "Reset", "d9/d4a/a24468.html#a831cf6eea8bd03247cd9877d3be6e1ee", null ],
-    [ "UpdateAI", "d9/d4a/a24468.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
-    [ "_init", "d9/d4a/a24468.html#a1b5c1301389749f82667c35f3daff847", null ],
-    [ "_spellTimer", "d9/d4a/a24468.html#ab9397451e2e8320ca77560a19baeee3f", null ]
+    [ "dragonmaw_race_npc", "d9/d4a/a24468.html#ad93bcd14a4fd05c9e8a1aee4dd53d4aa", null ],
+    [ "FailQuest", "d9/d4a/a24468.html#a15a1223f9dc5d3979485a753687f169e", null ],
+    [ "FinishRace", "d9/d4a/a24468.html#a2439f54aca4ff28c23d351245099a4fc", null ],
+    [ "MovementInform", "d9/d4a/a24468.html#ad0b4ef357605a44a4188c29292303dcf", null ],
+    [ "PathEndReached", "d9/d4a/a24468.html#a6b93a5fb6beb8e8b886f6bf8bb58d3d2", null ],
+    [ "Reset", "d9/d4a/a24468.html#a0edde2bdb8d4d2204551ebc7a7c41fe9", null ],
+    [ "sQuestAccept", "d9/d4a/a24468.html#a539fcaf1dc25a34531d032032c19182e", null ],
+    [ "StartRace", "d9/d4a/a24468.html#ac7d20cb0f2a997d2306195da5c9004e8", null ],
+    [ "StartRaceAttacks", "d9/d4a/a24468.html#a341528843b89a29711f60a1b932da616", null ],
+    [ "TakeOff", "d9/d4a/a24468.html#a8b14aeb1e67059a159f42aad578ccbfb", null ],
+    [ "UpdateAI", "d9/d4a/a24468.html#a5d84467b3fa0c3eefcf7054d0dde472c", null ],
+    [ "_playerGUID", "d9/d4a/a24468.html#a8a172511afed700d5c0fa1d5de4cb379", null ]
 ];

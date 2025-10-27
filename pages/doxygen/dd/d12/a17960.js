@@ -1,6 +1,6 @@
 var a17960 =
 [
-    [ "HandleScript", "dd/d12/a17960.html#abd766c298f8aa363d28198b6a5d7e374", null ],
-    [ "PrepareSpellScript", "dd/d12/a17960.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
-    [ "Register", "dd/d12/a17960.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
+    [ "npc_cult_adherentAI", "de/dbb/a17964.html", "de/dbb/a17964" ],
+    [ "npc_cult_adherent", "dd/d12/a17960.html#a74496518cf30674044a4a8a166e4c345", null ],
+    [ "GetAI", "dd/d12/a17960.html#a2bfe464c738c983b9539f9216cabd63a", null ]
 ];

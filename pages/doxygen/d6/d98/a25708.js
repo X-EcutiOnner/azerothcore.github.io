@@ -1,8 +1,7 @@
 var a25708 =
 [
-    [ "HandleProc", "d6/d98/a25708.html#ad92c7804b26bd29d135e55c8adad9093", null ],
-    [ "OnRemove", "d6/d98/a25708.html#afa8e065ed835243f3ebb95c10792adf8", null ],
-    [ "PrepareAuraScript", "d6/d98/a25708.html#a5e986f77b23fd0402089ea36f0360c79", null ],
-    [ "Register", "d6/d98/a25708.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
-    [ "Validate", "d6/d98/a25708.html#a51f81afec6ff0918530208d9de9dae24", null ]
+    [ "FilterTargets", "d6/d98/a25708.html#affede599b86e05e6475fd64a60268e8e", null ],
+    [ "Load", "d6/d98/a25708.html#a1343407ca8b571140ed2ecf5501bf378", null ],
+    [ "PrepareSpellScript", "d6/d98/a25708.html#a12ff05520225209b476b3ba8422de1c6", null ],
+    [ "Register", "d6/d98/a25708.html#ac99786385187e21fb02e65e9b9719400", null ]
 ];

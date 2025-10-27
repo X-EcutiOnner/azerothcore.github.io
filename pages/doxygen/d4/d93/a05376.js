@@ -1,10 +1,11 @@
 var a05376 =
 [
-    [ "Category", "d4/d93/a05376.html#a6a7956fedac99271428968ba339f464f", null ],
-    [ "Tags", "d4/d93/a05376.html#ac22787b2dadd4d3991f72f6ccab5c225", null ],
-    [ "Text", "d4/d93/a05376.html#ab63598f64896186fde81048550767b28", null ],
-    [ "Timestamp", "d4/d93/a05376.html#a8248a27d920ca431493750e3f2dec48b", null ],
-    [ "Title", "d4/d93/a05376.html#a857d2d4843480b9967334f079351292a", null ],
-    [ "Type", "d4/d93/a05376.html#af9962592650ba24fd9b3c0ee9ce06f7f", null ],
-    [ "Value", "d4/d93/a05376.html#a09832a09e989c3851e72f4ec198f0e20", null ]
+    [ "Decode", "d4/d93/a05376.html#a1017c0ca9db8f38832271dbe04a6c22c", null ],
+    [ "DecodedSize", "d4/d93/a05376.html#ae7f09527200686c22611e59e995a17ef", null ],
+    [ "Encode", "d4/d93/a05376.html#a9132df0434948b03df8f79b6cc48252c", null ],
+    [ "EncodedSize", "d4/d93/a05376.html#ab6808fd4c674e10ce28153394189abf5", null ],
+    [ "BITS_PER_CHAR", "d4/d93/a05376.html#a04facbd14c7d876af5154cb200d74e6b", null ],
+    [ "DECODE_ERROR", "d4/d93/a05376.html#ab52b675a0956909cdac9413443551086", null ],
+    [ "PAD_TO", "d4/d93/a05376.html#a8cec4e14ca170842d1eadf8b7b42b12b", null ],
+    [ "PADDING", "d4/d93/a05376.html#a328b2cd9dc377fb8d5b6740cde162b92", null ]
 ];

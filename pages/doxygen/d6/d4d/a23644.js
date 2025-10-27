@@ -1,6 +1,6 @@
 var a23644 =
 [
-    [ "HandleHit", "d6/d4d/a23644.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
-    [ "PrepareSpellScript", "d6/d4d/a23644.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
-    [ "Register", "d6/d4d/a23644.html#acb1b681f587817614c2b3684585369db", null ]
+    [ "instance_the_underbog_InstanceMapScript", "d6/d0b/a23648.html", "d6/d0b/a23648" ],
+    [ "instance_the_underbog", "d6/d4d/a23644.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
+    [ "GetInstanceScript", "d6/d4d/a23644.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
 ];

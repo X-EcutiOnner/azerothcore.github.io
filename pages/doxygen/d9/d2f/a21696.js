@@ -1,6 +1,6 @@
 var a21696 =
 [
-    [ "npc_counselor_talbotAI", "d7/df8/a21700.html", "d7/df8/a21700" ],
-    [ "npc_counselor_talbot", "d9/d2f/a21696.html#a9223380bb78afeda617482bea0a3110c", null ],
-    [ "GetAI", "d9/d2f/a21696.html#a3debd13352146a247d635042ecbfa155", null ]
+    [ "npc_khunok_the_behemothAI", "d7/df8/a21700.html", "d7/df8/a21700" ],
+    [ "npc_khunok_the_behemoth", "d9/d2f/a21696.html#a0370959631c00581495dbd7c37263236", null ],
+    [ "GetAI", "d9/d2f/a21696.html#a201aa35dd119d23126b192a1e3786c09", null ]
 ];

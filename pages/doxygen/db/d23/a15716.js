@@ -1,7 +1,17 @@
 var a15716 =
 [
-    [ "npc_lakota_windsongAI", "db/d23/a15716.html#a922172a38ca75adef66a2653eda7fa98", null ],
-    [ "DoSpawnBandits", "db/d23/a15716.html#aa63601ac87b674cb5d0594213d1e7ea9", null ],
-    [ "Reset", "db/d23/a15716.html#aee7a86275f93021e0e5db249b636bcd4", null ],
-    [ "WaypointReached", "db/d23/a15716.html#a6435c8b1521206789131889e5fa527a6", null ]
+    [ "npc_clintar_spiritAI", "db/d23/a15716.html#ab64c9da6af7246e1665a5264a26d75ab", null ],
+    [ "EnterEvadeMode", "db/d23/a15716.html#a2ccffe81e2bd7cddcab10746bc9311bf", null ],
+    [ "IsSummonedBy", "db/d23/a15716.html#af55bc32b17bfd45968e668c5591325ae", null ],
+    [ "JustDied", "db/d23/a15716.html#a4e90511d9daf0545f0fee471f3ab0d5e", null ],
+    [ "Reset", "db/d23/a15716.html#afd59b5e50deb65f7175138272f439740", null ],
+    [ "StartEvent", "db/d23/a15716.html#ae3bbfd8374bf667d4eeb26e047ee2186", null ],
+    [ "UpdateAI", "db/d23/a15716.html#a4b780f14cb2aa08c06e39a58501a21fe", null ],
+    [ "WaypointReached", "db/d23/a15716.html#a98315f3202daaac261a1e7f0222b01c5", null ],
+    [ "checkPlayerTimer", "db/d23/a15716.html#a10165a369bb8a7775050ae425cb94123", null ],
+    [ "CurrWP", "db/d23/a15716.html#ae3b4588a2dfd337ffc71456652fa136f", null ],
+    [ "EventOnWait", "db/d23/a15716.html#a7473dff3417d3e7510bc4fb7acbeb494", null ],
+    [ "EventTimer", "db/d23/a15716.html#a27b0a90757df63df276b1e26bfbaba83", null ],
+    [ "PlayerGUID", "db/d23/a15716.html#ad721852353215d46bc623efca358981f", null ],
+    [ "Step", "db/d23/a15716.html#af9b65e2de0dcce5844fbc642b32f5a3f", null ]
 ];

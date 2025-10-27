@@ -1,6 +1,7 @@
 var a15988 =
 [
-    [ "HandleScriptEffect", "d8/de5/a15988.html#aaa650972803d14e4d74be977430b04f6", null ],
-    [ "PrepareSpellScript", "d8/de5/a15988.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
-    [ "Register", "d8/de5/a15988.html#a3405c1b04f2e623662c7acaa6810278c", null ]
+    [ "go_troll_cageAI", "d8/de5/a15988.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
+    [ "GossipHello", "d8/de5/a15988.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
+    [ "initBlyCrewMember", "d8/de5/a15988.html#a6bfb77ec97367d8704885acfef801b74", null ],
+    [ "instance", "d8/de5/a15988.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
 ];

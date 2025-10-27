@@ -1,8 +1,6 @@
 var a19520 =
 [
-    [ "HandleEffectPeriodic", "dd/d08/a19520.html#abb453e3d38677be7082f2cd4e43134cc", null ],
-    [ "HandleOnEffectApply", "dd/d08/a19520.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
-    [ "PrepareAuraScript", "dd/d08/a19520.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
-    [ "Register", "dd/d08/a19520.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
-    [ "Validate", "dd/d08/a19520.html#a09481646f8ec90b0135d93d83cc18929", null ]
+    [ "ChargeRifts", "dd/d08/a19520.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
+    [ "Execute", "dd/d08/a19520.html#a8d01bf861d37c25413dc14eee16a2939", null ],
+    [ "_caster", "dd/d08/a19520.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
 ];

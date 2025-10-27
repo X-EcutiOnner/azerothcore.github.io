@@ -1,6 +1,5 @@
 var a19744 =
 [
-    [ "npc_collapsing_starAI", "d2/d18/a19744.html#ac389b380a8f315ae50a8cd809393a773", null ],
-    [ "DamageTaken", "d2/d18/a19744.html#a424fac98093eb9d02cda5027523ad06a", null ],
-    [ "JustSummoned", "d2/d18/a19744.html#ae70fcb66171fe5f87d96aaf2f52e35bc", null ]
+    [ "at_hol_hall_of_watchers", "d2/d18/a19744.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
+    [ "_OnTrigger", "d2/d18/a19744.html#a45e1cd4bce8c22a8c3da9b162c0eef4c", null ]
 ];

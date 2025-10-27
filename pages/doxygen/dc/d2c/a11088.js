@@ -1,8 +1,7 @@
 var a11088 =
 [
-    [ "SkillDiscoveryEntry", "dc/d2c/a11088.html#a54c0f12153c6e63a37e5da44d233b271", null ],
-    [ "SkillDiscoveryEntry", "dc/d2c/a11088.html#a301cae078fe1943cae045e94dc3d38ad", null ],
-    [ "chance", "dc/d2c/a11088.html#a71cf2c48937e5a2a3c6dd8c499a860a7", null ],
-    [ "reqSkillValue", "dc/d2c/a11088.html#a61e0edc8fee1fa4045d846668d08449c", null ],
-    [ "spellId", "dc/d2c/a11088.html#a75ca40729917317173b2953c8f47f833", null ]
+    [ "TimeQueryResponse", "dc/d2c/a11088.html#abefcc15670a85ae023d24bfa5dc26a11", null ],
+    [ "Write", "dc/d2c/a11088.html#a5fbfca11889684a0ab6b437eb30527cc", null ],
+    [ "ServerTime", "dc/d2c/a11088.html#a9dfc03a60bb8a1f20eb850e3f8a00b88", null ],
+    [ "TimeResponse", "dc/d2c/a11088.html#a4f528e5c08dc67a2c6f7826b21a771ed", null ]
 ];

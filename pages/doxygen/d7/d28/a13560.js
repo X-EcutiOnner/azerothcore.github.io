@@ -1,6 +1,8 @@
 var a13560 =
 [
-    [ "npc_maredis_firestarAI", "d7/d28/a13560.html#ac2d4ed4b205146524dcf11585d65ae12", null ],
-    [ "sGossipHello", "d7/d28/a13560.html#a72790dc9525249a4b558c37c4a0bd03f", null ],
-    [ "sGossipSelect", "d7/d28/a13560.html#acefb2bc09fe8f7ad77d53ee6eb8bbb71", null ]
+    [ "OnPeriodic", "d7/d28/a13560.html#acd400b0a061d1814591e33d16bf4180a", null ],
+    [ "OnRemove", "d7/d28/a13560.html#a3da85c726007690220e9b4f81d30f185", null ],
+    [ "PrepareAuraScript", "d7/d28/a13560.html#a216d723f309ffa46df4bba7af79752c8", null ],
+    [ "Register", "d7/d28/a13560.html#a43fe84c2717d73e20a2562f596a84f36", null ],
+    [ "Validate", "d7/d28/a13560.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
 ];

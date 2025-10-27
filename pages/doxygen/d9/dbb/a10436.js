@@ -1,13 +1,10 @@
 var a10436 =
 [
-    [ "ScriptObject", "d9/dbb/a10436.html#ae4ca97cf587379c94354e4889ff8c0c2", null ],
-    [ "~ScriptObject", "d9/dbb/a10436.html#a80c704c939f54eee6655d68509598c42", null ],
-    [ "checkValidity", "d9/dbb/a10436.html#a585e75e34aed7aa32205daad85f8fe08", null ],
-    [ "GetName", "d9/dbb/a10436.html#a79588d839860d2f5caab60c5f1368f10", null ],
-    [ "GetTotalAvailableHooks", "d9/dbb/a10436.html#a69ee35ec7d54226264efef558022c1c0", null ],
-    [ "isAfterLoadScript", "d9/dbb/a10436.html#a2f66339b1cdf1fde795c61cd24c8b0a2", null ],
-    [ "IsDatabaseBound", "d9/dbb/a10436.html#a37da453729d5c8fbe2d06f905563f47c", null ],
-    [ "ScriptMgr", "d9/dbb/a10436.html#a7a753f61d57353451e90f3f23fec4851", null ],
-    [ "_name", "d9/dbb/a10436.html#a90b63e382cac17922ae57fe22b84718c", null ],
-    [ "_totalAvailableHooks", "d9/dbb/a10436.html#ab9ecac7620b4319c634d7e5f30c30f49", null ]
+    [ "ArgsType", "d9/dbb/a10436.html#a4ea4d3b165a196482ebe96af9c462658", null ],
+    [ "AuraScriptType", "d9/dbb/a10436.html#a7b2a19d6c7c75c0df22eae17b0c8e90a", null ],
+    [ "SpellScriptType", "d9/dbb/a10436.html#a790a8ef2b59bfe6298486648858506ed", null ],
+    [ "GenericSpellAndAuraScriptLoader", "d9/dbb/a10436.html#ab1bd69d57c6e2322044b8f7cf46cedb6", null ],
+    [ "GetAuraScript", "d9/dbb/a10436.html#a5f3c898a0dc6d9085589b88eb5571528", null ],
+    [ "GetSpellScript", "d9/dbb/a10436.html#a913fa28d2a2cf100ce73cf641e333e01", null ],
+    [ "_args", "d9/dbb/a10436.html#aad6527f64ede0d896880ffa90d05a378", null ]
 ];

@@ -1,7 +1,6 @@
 var a27492 =
 [
-    [ "npc_prof_leather", "d4/d79/a27492.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
-    [ "HasLeatherSpecialty", "d4/d79/a27492.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
-    [ "OnGossipHello", "d4/d79/a27492.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
-    [ "OnGossipSelect", "d4/d79/a27492.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
+    [ "go_l70_etc_musicAI", "d0/d1b/a27496.html", "d0/d1b/a27496" ],
+    [ "go_l70_etc_music", "d4/d79/a27492.html#a766dccca12fc7959273ba1e3a278564f", null ],
+    [ "GetAI", "d4/d79/a27492.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
 ];

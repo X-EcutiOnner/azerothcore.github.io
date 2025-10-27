@@ -1,6 +1,8 @@
 var a27180 =
 [
-    [ "npc_spirit_shadeAI", "de/d9e/a27184.html", "de/d9e/a27184" ],
-    [ "npc_spirit_shade", "d2/d84/a27180.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "d2/d84/a27180.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "HandleEffect", "d2/d84/a27180.html#a1c1a06362742abcf83e1817c468de3d3", null ],
+    [ "PrepareSpellScript", "d2/d84/a27180.html#a0e2cce13a3b2c8b8e9ace8876def8b9c", null ],
+    [ "Register", "d2/d84/a27180.html#a56108b37bc69809ce80d424e2bcb3f55", null ],
+    [ "SendMiss", "d2/d84/a27180.html#afda727460aebc8fe97d5c18d0195ea2c", null ],
+    [ "Validate", "d2/d84/a27180.html#ab9533351a176f4e0d641a6e36a75d6b9", null ]
 ];

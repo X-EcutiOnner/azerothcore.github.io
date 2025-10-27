@@ -1,6 +1,6 @@
 var a26884 =
 [
-    [ "HandleAfterHit", "d0/d10/a26884.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
-    [ "PrepareSpellScript", "d0/d10/a26884.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
-    [ "Register", "d0/d10/a26884.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
+    [ "HandlePeriodic", "d0/d10/a26884.html#af875d62dd47650c9f2e9c3a4508ed05b", null ],
+    [ "PrepareAuraScript", "d0/d10/a26884.html#a2efdcd0902e9cb5c47e285492dd93789", null ],
+    [ "Register", "d0/d10/a26884.html#ac90afe9f5d9d55faba2282a875469311", null ]
 ];

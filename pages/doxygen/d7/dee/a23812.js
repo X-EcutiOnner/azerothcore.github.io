@@ -1,9 +1,7 @@
 var a23812 =
 [
-    [ "HandleEffectApply", "d7/dee/a23812.html#ac9e030810cc1ffb3927943353bcbb764", null ],
-    [ "HandleEffectRemove", "d7/dee/a23812.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
-    [ "Load", "d7/dee/a23812.html#a60f41c19f5104eef82048fd1e3416abd", null ],
-    [ "PrepareAuraScript", "d7/dee/a23812.html#a277d9865108acafac4b1a42bc5b5714b", null ],
-    [ "Register", "d7/dee/a23812.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
-    [ "_falconSet", "d7/dee/a23812.html#a1a20f75d251936bff7a0777831d79140", null ]
+    [ "FilterTargets", "d7/dee/a23812.html#a921450a09e51585beb9dd2ce9b00bac9", null ],
+    [ "HandleHit", "d7/dee/a23812.html#adb30857a5a320bb24b8cc0bcb9d60040", null ],
+    [ "PrepareSpellScript", "d7/dee/a23812.html#a376618b9811b2e1ec18697431094e22f", null ],
+    [ "Register", "d7/dee/a23812.html#ae7f4f54446d5a1ebb20d49ab9deaed81", null ]
 ];

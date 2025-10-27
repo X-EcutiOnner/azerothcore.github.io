@@ -1,6 +1,10 @@
 var a20432 =
 [
-    [ "HandleInstaKill", "df/d76/a20432.html#a593786eb89bf77e05dad4b502ffc1925", null ],
-    [ "PrepareSpellScript", "df/d76/a20432.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
-    [ "Register", "df/d76/a20432.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
+    [ "HandleEffectPeriodic", "df/d76/a20432.html#aa62be73e00d9cb512806787eaf1c4144", null ],
+    [ "Load", "df/d76/a20432.html#ab31989a4abd6b5cb08818b0e082c7d9f", null ],
+    [ "PrepareAuraScript", "df/d76/a20432.html#ad9664bff267b330565d3c706e1752e9d", null ],
+    [ "Register", "df/d76/a20432.html#ad971837f4f0da07b21271fb2b5ac1715", null ],
+    [ "Validate", "df/d76/a20432.html#a3f6653b4ca202d9b0971189930e8b463", null ],
+    [ "_counter", "df/d76/a20432.html#a3e7343f124b66a55d9a6cbf0ab085309", null ],
+    [ "_prev", "df/d76/a20432.html#a9dd8f32c8ec709a14be15b46745b692b", null ]
 ];

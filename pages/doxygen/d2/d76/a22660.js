@@ -1,8 +1,6 @@
 var a22660 =
 [
-    [ "npc_yor", "d2/d76/a22660.html#a43ed8720d06c035085d481dbe6539dca", null ],
-    [ "JustEngagedWith", "d2/d76/a22660.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
-    [ "Reset", "d2/d76/a22660.html#aa698540b646fd870b33afbaf19ddbe07", null ],
-    [ "UpdateAI", "d2/d76/a22660.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
-    [ "_scheduler", "d2/d76/a22660.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
+    [ "npc_released_offspring_harkoaAI", "de/dc6/a22664.html", "de/dc6/a22664" ],
+    [ "npc_released_offspring_harkoa", "d2/d76/a22660.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
+    [ "GetAI", "d2/d76/a22660.html#ae3d2a02c496be1b2606fce596625d12e", null ]
 ];

@@ -1,8 +1,6 @@
 var a26280 =
 [
-    [ "HandleApplyEffect", "dd/dac/a26280.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
-    [ "Load", "dd/dac/a26280.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
-    [ "PrepareAuraScript", "dd/dac/a26280.html#a6e212284f72320356cfa2f0c2a59999d", null ],
-    [ "Register", "dd/dac/a26280.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
-    [ "Validate", "dd/dac/a26280.html#a985a52f71371443454d6dd36f7fe83b2", null ]
+    [ "CalculateAmount", "dd/dac/a26280.html#a3491a0a1d2f00f76730ddc53a66c8179", null ],
+    [ "PrepareAuraScript", "dd/dac/a26280.html#a667883298cee173af941cfc07022f318", null ],
+    [ "Register", "dd/dac/a26280.html#a22514461b79f736e3ab595fa7fb48b68", null ]
 ];

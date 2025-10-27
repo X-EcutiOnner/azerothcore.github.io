@@ -1,7 +1,7 @@
 var a18316 =
 [
-    [ "CheckTargetCount", "df/dad/a18316.html#a637ba0717ae0f6f736f5532ed65ca301", null ],
-    [ "PrepareSpellScript", "df/dad/a18316.html#af560e5c4e985e9b139999f5ef618fe3c", null ],
-    [ "Register", "df/dad/a18316.html#a86e7512496fd38201d458c03a7a60296", null ],
-    [ "Validate", "df/dad/a18316.html#a744c4aa76387be4aa76a69fbcaa7932e", null ]
+    [ "PeriodicTick", "df/dad/a18316.html#a0c365bbb4ae9b77bb9e00a1eb41b96e4", null ],
+    [ "PrepareAuraScript", "df/dad/a18316.html#afcadfbdd84608e827b89c64bf03c8501", null ],
+    [ "Register", "df/dad/a18316.html#a0e8e8685ce8c1eea2b60e8bf6aeed782", null ],
+    [ "Validate", "df/dad/a18316.html#a879b657d94c1faf6225fe64f907cdf82", null ]
 ];

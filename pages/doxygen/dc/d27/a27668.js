@@ -1,5 +1,5 @@
 var a27668 =
 [
-    [ "npc_pet_trainerAI", "dc/d27/a27668.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
-    [ "sGossipSelect", "dc/d27/a27668.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
+    [ "item_generic_limit_chance_above_60", "dc/d27/a27668.html#abc18809810f0a7668020d01c482be84b", null ],
+    [ "OnCastItemCombatSpell", "dc/d27/a27668.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
 ];

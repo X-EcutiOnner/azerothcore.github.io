@@ -1,9 +1,7 @@
 var a12548 =
 [
-    [ "npc_flamewaker_priestAI", "dd/d28/a12548.html#aa0508dda5bc365896128f088b6de30f4", null ],
-    [ "JustDied", "dd/d28/a12548.html#ad1f51c4589abe6ef5bcf513d70e34a4c", null ],
-    [ "JustEngagedWith", "dd/d28/a12548.html#a15fefb756ad1ae20257d4ed9cb1d3eca", null ],
-    [ "Reset", "dd/d28/a12548.html#a3c3629a6c6987e861e40a893363d2508", null ],
-    [ "UpdateAI", "dd/d28/a12548.html#a28c0ed65521f3d2150874ddc1b913933", null ],
-    [ "events", "dd/d28/a12548.html#a7d769cc852a69fdf719cb7958c3d890c", null ]
+    [ "HandleEffectScriptEffect", "dd/d28/a12548.html#a8157c4b213b3b4e260222976e283e2ae", null ],
+    [ "PrepareSpellScript", "dd/d28/a12548.html#aa8a4fdd0dc5c06a836ac05cec0dccd75", null ],
+    [ "Register", "dd/d28/a12548.html#aeda056b568b4956ba35b32a3f20c053e", null ],
+    [ "Validate", "dd/d28/a12548.html#a29a7f51f01e1ccf71dcc53ad68f032ae", null ]
 ];

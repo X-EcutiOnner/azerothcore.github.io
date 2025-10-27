@@ -1,17 +1,7 @@
 var a22564 =
 [
-    [ "OutdoorPvPHP", "d3/d57/a22564.html#a19118d7facc4a745e391491fb7d95421", null ],
-    [ "FillInitialWorldStates", "d3/d57/a22564.html#a4ecc55395f1f792075e07026e1ccd171", null ],
-    [ "GetAllianceTowersControlled", "d3/d57/a22564.html#ae6d3a1561b94d92539a5dd8b5ac56689", null ],
-    [ "GetHordeTowersControlled", "d3/d57/a22564.html#a9395b6966bcdd36b448ca1c403f17873", null ],
-    [ "HandleKillImpl", "d3/d57/a22564.html#aad7804f10c42f6643397d673ba4e9bee", null ],
-    [ "HandlePlayerEnterZone", "d3/d57/a22564.html#a117149e3db7fa02fdcfab05a6ff6de18", null ],
-    [ "HandlePlayerLeaveZone", "d3/d57/a22564.html#abf21499824ad64aa7a26a4b33090783e", null ],
-    [ "SendRemoveWorldStates", "d3/d57/a22564.html#ac94c44783b2141c751d5c16a24bce8d4", null ],
-    [ "SetAllianceTowersControlled", "d3/d57/a22564.html#a1f9bbc083ae0bb7c00a303909ab043f5", null ],
-    [ "SetHordeTowersControlled", "d3/d57/a22564.html#ae5de375e1ec88dc5ce0059490596a935", null ],
-    [ "SetupOutdoorPvP", "d3/d57/a22564.html#aee60f1d1da4d6eecd0e66cf975272979", null ],
-    [ "Update", "d3/d57/a22564.html#aeec44f41e6d6fe7c768bb738a3eafb47", null ],
-    [ "m_AllianceTowersControlled", "d3/d57/a22564.html#a90c41df874abfee0a4861cf923de9ab5", null ],
-    [ "m_HordeTowersControlled", "d3/d57/a22564.html#ada8244f57fe3a693d167689d3f921025", null ]
+    [ "npc_wg_quest_giver", "d3/d57/a22564.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "d3/d57/a22564.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "d3/d57/a22564.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "d3/d57/a22564.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

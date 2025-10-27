@@ -1,14 +1,12 @@
 var a11860 =
 [
-    [ "boss_galvangarAI", "d0/d1f/a11860.html#a34a0cacc52749bd1146fcb779d006b3b", null ],
-    [ "JustEngagedWith", "d0/d1f/a11860.html#ac1898cea6887fcfa182aa8a7a535c462", null ],
-    [ "JustRespawned", "d0/d1f/a11860.html#a92139ad3720ba662f87c0b55ac77dbeb", null ],
-    [ "Reset", "d0/d1f/a11860.html#a96e1a262f368ab0f6885e955133b7ae8", null ],
-    [ "UpdateAI", "d0/d1f/a11860.html#a2e5c7511cce7dd0ff27e13cda9807928", null ],
-    [ "CleaveTimer", "d0/d1f/a11860.html#ae2f943d7e08b5ca508518cd19c675be9", null ],
-    [ "FrighteningShoutTimer", "d0/d1f/a11860.html#a6f62f62ffa1c06baa2649901f02d13dc", null ],
-    [ "MortalStrikeTimer", "d0/d1f/a11860.html#acbfa384508002ba9505d280c448f1f0e", null ],
-    [ "ResetTimer", "d0/d1f/a11860.html#aaeff7d8bffb2ddcef5591c2c9be22ae2", null ],
-    [ "Whirlwind1Timer", "d0/d1f/a11860.html#a1e1b3d242ad06e6b8b2e48fbc135b3c5", null ],
-    [ "Whirlwind2Timer", "d0/d1f/a11860.html#adb5a2609f1f065fe7a737b8da2d4aef4", null ]
+    [ "guild_commandscript", "d0/d1f/a11860.html#a4394d242740505ad128e4cebf4b617f0", null ],
+    [ "GetCommands", "d0/d1f/a11860.html#a6b0a700e7fa3251373c1405d245f6931", null ],
+    [ "HandleGuildCreateCommand", "d0/d1f/a11860.html#a2d2c2414b9b08a5d510fccd223b34a36", null ],
+    [ "HandleGuildDeleteCommand", "d0/d1f/a11860.html#a4bbef641c86de37611e7ff1c906b4048", null ],
+    [ "HandleGuildInfoCommand", "d0/d1f/a11860.html#adbe43a3a362608e37dd7d6652a83adfc", null ],
+    [ "HandleGuildInviteCommand", "d0/d1f/a11860.html#a67210b9845ca4475e6ab3d0d7cc0dbab", null ],
+    [ "HandleGuildRankCommand", "d0/d1f/a11860.html#adbea3b610c98354866fec52a43fedda0", null ],
+    [ "HandleGuildRenameCommand", "d0/d1f/a11860.html#ac946b4284c85e43b1ca29f69df9a8f27", null ],
+    [ "HandleGuildUninviteCommand", "d0/d1f/a11860.html#aa7b134de9c3632cc1e147064c9ffcb5f", null ]
 ];

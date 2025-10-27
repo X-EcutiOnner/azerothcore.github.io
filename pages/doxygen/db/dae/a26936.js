@@ -1,6 +1,8 @@
 var a26936 =
 [
-    [ "HandleCast", "db/dae/a26936.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
-    [ "PrepareSpellScript", "db/dae/a26936.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
-    [ "Register", "db/dae/a26936.html#a81bc86c83ffc70602410912870e61700", null ]
+    [ "CheckFireTotem", "db/dae/a26936.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "db/dae/a26936.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "db/dae/a26936.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "db/dae/a26936.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "db/dae/a26936.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

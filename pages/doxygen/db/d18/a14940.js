@@ -1,7 +1,12 @@
 var a14940 =
 [
-    [ "npc_onyxian_lair_guard", "db/d18/a14940.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
-    [ "JustEngagedWith", "db/d18/a14940.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
-    [ "UpdateAI", "db/d18/a14940.html#ac8649636d5847813e49d2ada05f78645", null ],
-    [ "events", "db/d18/a14940.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
+    [ "boss_epochAI", "db/d18/a14940.html#a2986db39b7db92b1fa9d64cef5f8c08b", null ],
+    [ "JustDied", "db/d18/a14940.html#a780aa5bc86c80aaeeffad441b2873121", null ],
+    [ "JustEngagedWith", "db/d18/a14940.html#ae742dceac5979faebb58a133e9bd91f0", null ],
+    [ "KilledUnit", "db/d18/a14940.html#af41946feab7b86d812f706bd7abbf1bd", null ],
+    [ "Reset", "db/d18/a14940.html#a98cf5d8aded78694117af64ccdb6cd83", null ],
+    [ "SpellHitTarget", "db/d18/a14940.html#ab87dfcf635a65b02be29186d2990fef3", null ],
+    [ "UpdateAI", "db/d18/a14940.html#a651b11c4cc5f92881b4dd5b7f22c9d85", null ],
+    [ "events", "db/d18/a14940.html#af0c1477b3d9fb48cfcf55f32e21591f4", null ],
+    [ "warps", "db/d18/a14940.html#a478113af1ce565c729604c6039f55551", null ]
 ];

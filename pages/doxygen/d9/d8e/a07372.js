@@ -1,10 +1,10 @@
 var a07372 =
 [
-    [ "BattlegroundBE", "d9/d8e/a07372.html#a4b29ebe897de3109b165607de957fae2", null ],
-    [ "FillInitialWorldStates", "d9/d8e/a07372.html#a15f4e4a79c5a1ee594811aa1cd1786f7", null ],
-    [ "HandleAreaTrigger", "d9/d8e/a07372.html#a6216e25edd0057b9599efc787045505e", null ],
-    [ "HandlePlayerUnderMap", "d9/d8e/a07372.html#ab004984d4b882e72471b0b5a8fca9632", null ],
-    [ "SetupBattleground", "d9/d8e/a07372.html#a2eed1be4672539674e092edb6a6a9627", null ],
-    [ "StartingEventCloseDoors", "d9/d8e/a07372.html#a2379fda6296fcdbde68fad362e858621", null ],
-    [ "StartingEventOpenDoors", "d9/d8e/a07372.html#a09be55b7b6a1559a657bdfbd672021f0", null ]
+    [ "SelectionPool", "d9/d8e/a07372.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
+    [ "AddGroup", "d9/d8e/a07372.html#a87fe4747536355ad7affda76640a082e", null ],
+    [ "GetPlayerCount", "d9/d8e/a07372.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
+    [ "Init", "d9/d8e/a07372.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
+    [ "KickGroup", "d9/d8e/a07372.html#a74fb708546a8612ca52b24b8472b71ef", null ],
+    [ "PlayerCount", "d9/d8e/a07372.html#a0c08c47f68dbb45175efc524f4553e16", null ],
+    [ "SelectedGroups", "d9/d8e/a07372.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
 ];

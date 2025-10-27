@@ -1,8 +1,8 @@
 var a19684 =
 [
-    [ "dark_rune_protectorsAI", "d1/d19/a19684.html#ae2f3cfd19e565ede132e38f439a930ba", null ],
-    [ "JustEngagedWith", "d1/d19/a19684.html#aa71514efa488ff8f9276cb2a4c166759", null ],
-    [ "Reset", "d1/d19/a19684.html#a88305b8ac016175d61a0387d1888671f", null ],
-    [ "UpdateAI", "d1/d19/a19684.html#a0e27fc91a01362ee58a0eb10fb9a5176", null ],
-    [ "events", "d1/d19/a19684.html#a2836d6f142a322dae0aed9ff6a4888e2", null ]
+    [ "HandleOnEffectApply", "d1/d19/a19684.html#ac852d761940494f78b50ba3b060057a2", null ],
+    [ "HandleOnEffectRemove", "d1/d19/a19684.html#a6764750586be8b57d52a2dba87d89e76", null ],
+    [ "PrepareAuraScript", "d1/d19/a19684.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
+    [ "Register", "d1/d19/a19684.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
+    [ "Validate", "d1/d19/a19684.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
 ];

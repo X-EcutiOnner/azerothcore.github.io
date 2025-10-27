@@ -1,7 +1,5 @@
 var a07948 =
 [
-    [ "LfgProposalPlayer", "d1/d89/a07948.html#a80f7d0f3597201dc7fca4d08dd3b7a38", null ],
-    [ "accept", "d1/d89/a07948.html#acbf0ce1e12307569487096dc5ca544a6", null ],
-    [ "group", "d1/d89/a07948.html#a900f24e9caaa1569eeea93b4284139a1", null ],
-    [ "role", "d1/d89/a07948.html#a54ab4a0f32cc3abc7489fc9c3655fe99", null ]
+    [ "number", "d1/d89/a07948.html#af111e542d7a276e27d2b14757293bc42", null ],
+    [ "offset_elements", "d1/d89/a07948.html#ad633b2e9afc82762c6b43675844f8fea", null ]
 ];

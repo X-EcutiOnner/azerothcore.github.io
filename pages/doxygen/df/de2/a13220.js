@@ -1,14 +1,20 @@
 var a13220 =
 [
-    [ "boss_jarien", "df/de2/a13220.html#a19e07a3da93e487b5984a8de0c7f26c9", null ],
-    [ "DoAction", "df/de2/a13220.html#a8b9f1f2e7e45adf8df436b5c71555272", null ],
-    [ "IsSummonedBy", "df/de2/a13220.html#a2e54c5ae404be944eeff3a57c96aa8ca", null ],
-    [ "JustDied", "df/de2/a13220.html#a418380b56f3432b5aec84737012f4693", null ],
-    [ "JustEngagedWith", "df/de2/a13220.html#ab6590cf6626a12e804520b2cde84a93e", null ],
-    [ "Reset", "df/de2/a13220.html#ac85ca96b42aa5115500bd24454f84209", null ],
-    [ "UpdateAI", "df/de2/a13220.html#acf7157ec7af7356beddc8a2429177b95", null ],
-    [ "_phase", "df/de2/a13220.html#aa88435f313dc2b7880bca8f4cdb7a537", null ],
-    [ "_scheduler", "df/de2/a13220.html#abce9540798dbae1026d1c74bfeb111a6", null ],
-    [ "_sothosDied", "df/de2/a13220.html#a06b02c7f7dff885a86609e0116f2fd96", null ],
-    [ "_talked", "df/de2/a13220.html#ae0c943c970990b055ebc8c31d81a7198", null ]
+    [ "Events", "df/de2/a13220.html#ac42a71db175efdf9b2ab4c2bbb899428", [
+      [ "EVENT_START_RITUAL", "df/de2/a13220.html#ac42a71db175efdf9b2ab4c2bbb899428a5c1cf14a3bf0dfd786daa93ac0a8b043", null ],
+      [ "EVENT_GHOULPLOSION", "df/de2/a13220.html#ac42a71db175efdf9b2ab4c2bbb899428a2fcb5b116ac91e1ae11dfb820a2c8e58", null ],
+      [ "EVENT_RAISE_GHOUL", "df/de2/a13220.html#ac42a71db175efdf9b2ab4c2bbb899428a77051c0b97f18ea906fd85d954ec6184", null ],
+      [ "EVENT_RESUME_WP", "df/de2/a13220.html#ac42a71db175efdf9b2ab4c2bbb899428a1db9eee6c0d33c1cf8b8107810a10ab0", null ]
+    ] ],
+    [ "Points", "df/de2/a13220.html#aaa928de603fc54bbfec990160bce55e9", [
+      [ "POINT_CORPSE_REACHED", "df/de2/a13220.html#aaa928de603fc54bbfec990160bce55e9a8f666ca441d6b3c527fe55f20534c389", null ]
+    ] ],
+    [ "npc_acherus_necromancerAI", "df/de2/a13220.html#a6cec770b61952cd8df720ac783ea46e5", null ],
+    [ "MovementInform", "df/de2/a13220.html#ad446b9b5bbd6f27ac9d3c71d0fe48518", null ],
+    [ "Reset", "df/de2/a13220.html#a3fece0dc9ec211be3e4130240428ad57", null ],
+    [ "UpdateAI", "df/de2/a13220.html#a5bddb39afcb84311536b621679619305", null ],
+    [ "events", "df/de2/a13220.html#a1c119e9719fe139d30b7d2cfd1822ad1", null ],
+    [ "geistGUID", "df/de2/a13220.html#af8d7f13d1b58a01311637d004bf14f2c", null ],
+    [ "isOnRitual", "df/de2/a13220.html#ab04499369c51994457e6aec2d635a5cf", null ],
+    [ "targetCorpseGUID", "df/de2/a13220.html#adf1d8777507658f264c951c88623ce9e", null ]
 ];

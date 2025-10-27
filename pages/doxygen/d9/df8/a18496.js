@@ -1,7 +1,6 @@
 var a18496 =
 [
-    [ "ValithriaDespawner", "d9/df8/a18496.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
-    [ "Execute", "d9/df8/a18496.html#a4f8c63f52996da14078a7196cae3a00d", null ],
-    [ "operator()", "d9/df8/a18496.html#a05bae39d642f294f2ef98151d66ba382", null ],
-    [ "_creature", "d9/df8/a18496.html#a64bf6181ad867efd987edec141ca3bf0", null ]
+    [ "HandleScript", "d9/df8/a18496.html#aa05c6e510e933a71a6bce8d653632ebd", null ],
+    [ "PrepareSpellScript", "d9/df8/a18496.html#add6b78f0396a34c36e0dff1928889e43", null ],
+    [ "Register", "d9/df8/a18496.html#a587247f7417cefa2b8aa5a8edb8e2616", null ]
 ];

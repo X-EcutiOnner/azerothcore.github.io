@@ -1,6 +1,8 @@
 var a23876 =
 [
-    [ "HandlePeriodic", "d7/d7d/a23876.html#aec3f36e2c5fedddd84478b9e3a59e6f4", null ],
-    [ "PrepareAuraScript", "d7/d7d/a23876.html#a2b809a60626119f6bcf595bd3581c2be", null ],
-    [ "Register", "d7/d7d/a23876.html#a299f84e9c12406c79a56999a13de5c1c", null ]
+    [ "FilterTargets", "d7/d7d/a23876.html#ae366594b668331a19f384ceb48654c0c", null ],
+    [ "HandleOnHit", "d7/d7d/a23876.html#abe5665fde7f01fafdfb55c58d8edbcf1", null ],
+    [ "PrepareSpellScript", "d7/d7d/a23876.html#a71aa4018d293391a73d3317c1e80951d", null ],
+    [ "Register", "d7/d7d/a23876.html#a3da162fd2cafc2e1236db0c6d4f65440", null ],
+    [ "Validate", "d7/d7d/a23876.html#a3747ad271dc659436ae7a8203b964554", null ]
 ];

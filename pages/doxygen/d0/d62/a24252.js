@@ -1,17 +1,11 @@
 var a24252 =
 [
-    [ "npc_torloth_the_magnificentAI", "d0/d62/a24252.html#ad34b85c80ebfb2332709c7ee21c053b7", null ],
-    [ "HandleAnimation", "d0/d62/a24252.html#ab69f481e3871e5ce803ab1f389a2385c", null ],
-    [ "JustDied", "d0/d62/a24252.html#aef9d2bcc04b8c1a54bf59f4744eba3ae", null ],
-    [ "JustEngagedWith", "d0/d62/a24252.html#abf3fc3538e82fceaa916d4e217d6f9fd", null ],
-    [ "Reset", "d0/d62/a24252.html#aa7944f80bb6718a65a07128be830ed94", null ],
-    [ "UpdateAI", "d0/d62/a24252.html#ad5f7769462aa39fabb7ec5e79670cda1", null ],
-    [ "AggroTargetGUID", "d0/d62/a24252.html#a826ecad9e9a06050a3ebc0861bf52c1e", null ],
-    [ "AnimationCount", "d0/d62/a24252.html#afbe712b9e3dfe97417e1e621f4eff113", null ],
-    [ "AnimationTimer", "d0/d62/a24252.html#a2485ad15002946c0c5b2ebce65221629", null ],
-    [ "LordIllidanGUID", "d0/d62/a24252.html#ad135529fe083af2ce3e79823213d2735", null ],
-    [ "SpellTimer1", "d0/d62/a24252.html#a991868074e39e2a4d06c37afc642a756", null ],
-    [ "SpellTimer2", "d0/d62/a24252.html#a7da30509a017de1392cc3ba181a0dc53", null ],
-    [ "SpellTimer3", "d0/d62/a24252.html#a0caf2b2d48c78b2eb032ff73168e2556", null ],
-    [ "Timers", "d0/d62/a24252.html#a0eb0c24aff4cdab76d234ba17dbc4b5b", null ]
+    [ "npc_magister_aledis", "d0/d62/a24252.html#a0e30c5d4f9fe023537a1b29258967630", null ],
+    [ "DamageTaken", "d0/d62/a24252.html#a3c3b72de2dc3e2a1e2bdeab908f0691f", null ],
+    [ "Reset", "d0/d62/a24252.html#ae0a701eeaacc5188b382c59ecef14518", null ],
+    [ "sGossipSelect", "d0/d62/a24252.html#a9960de0b5be8b75e8b7bcc8f12c4f187", null ],
+    [ "StartFight", "d0/d62/a24252.html#a9149ce0a1df781043a5590fe4612511a", null ],
+    [ "UpdateAI", "d0/d62/a24252.html#aef885088193e2597e6990e3051a31ef7", null ],
+    [ "_events", "d0/d62/a24252.html#a5b4cd0ab4d214547dca28b8b384f83df", null ],
+    [ "_playerGUID", "d0/d62/a24252.html#a0954d3d1c9ad4eaff387bc2cf4f52aeb", null ]
 ];

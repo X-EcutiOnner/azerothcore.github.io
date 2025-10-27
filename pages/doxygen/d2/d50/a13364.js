@@ -1,8 +1,7 @@
 var a13364 =
 [
-    [ "FilterTargets", "d2/d50/a13364.html#a3aac5e364d04a4a086aaa911051417d5", null ],
-    [ "HandleDummy", "d2/d50/a13364.html#aa0705dee3edeca7b61f82581f367e94a", null ],
-    [ "PrepareSpellScript", "d2/d50/a13364.html#a1efa036eac25d789850849dc1b209379", null ],
-    [ "Register", "d2/d50/a13364.html#a656b512d5bef657004a72acbf7875760", null ],
-    [ "Validate", "d2/d50/a13364.html#a33534d9fd70af99bbde1e4a908d22084", null ]
+    [ "HandleAfterCast", "d2/d50/a13364.html#afa662fbe1b777047259ac6212961f7a5", null ],
+    [ "HandleScript", "d2/d50/a13364.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
+    [ "PrepareSpellScript", "d2/d50/a13364.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
+    [ "Register", "d2/d50/a13364.html#a4a898b0b096583af33f1f691a252b2ed", null ]
 ];

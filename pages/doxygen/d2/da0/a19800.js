@@ -1,6 +1,9 @@
 var a19800 =
 [
-    [ "PrepareSpellScript", "d2/da0/a19800.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
-    [ "RecalculateDamage", "d2/da0/a19800.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
-    [ "Register", "d2/da0/a19800.html#aac131aa2d2e5342cf0303b918a077b45", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "d2/da0/a19800.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
+    [ "JustEngagedWith", "d2/da0/a19800.html#a9e6527bc46d7b685d938833d18796cee", null ],
+    [ "MoveInLineOfSight", "d2/da0/a19800.html#a7449e135f088a2d4b22a423c71118093", null ],
+    [ "MovementInform", "d2/da0/a19800.html#ac04d90e974f85282737bb5081a123106", null ],
+    [ "UpdateAI", "d2/da0/a19800.html#afccd77c8e90d129fb3a347205a2102db", null ],
+    [ "events", "d2/da0/a19800.html#a73c135ec94b41a752fc203c5e20128d0", null ]
 ];

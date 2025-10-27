@@ -1,7 +1,7 @@
 var a13660 =
 [
-    [ "npc_greengill_slaveAI", "d9/d54/a13660.html#a1a4268b745e63992f4d0fc2028b717aa", null ],
-    [ "JustEngagedWith", "d9/d54/a13660.html#ad7fcb8c711782d3a76e9e4566334fc21", null ],
-    [ "SpellHit", "d9/d54/a13660.html#a0e75a3e8eb3503fdb3aea12e65ccc6e4", null ],
-    [ "UpdateAI", "d9/d54/a13660.html#a6fa27328cf47bef81c3465b8a3e2ace1", null ]
+    [ "OnPeriodic", "d9/d54/a13660.html#a25e7a59384f262a36c74696a1befa01d", null ],
+    [ "PrepareAuraScript", "d9/d54/a13660.html#a9b82fde3e38054b686f9b2a110cfaa1e", null ],
+    [ "Register", "d9/d54/a13660.html#a65e469ba04d8cd2aa23d934bf2915721", null ],
+    [ "Validate", "d9/d54/a13660.html#a6843deda5be8b684c06a86920714f255", null ]
 ];

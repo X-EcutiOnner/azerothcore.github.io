@@ -1,7 +1,5 @@
 var a22732 =
 [
-    [ "HandleOnHit", "de/d32/a22732.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
-    [ "PrepareSpellScript", "de/d32/a22732.html#a734b735c7e87938bff185be91f9de6e8", null ],
-    [ "Register", "de/d32/a22732.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
-    [ "Validate", "de/d32/a22732.html#a162f60784fdec6b748151e5c2a7ed257", null ]
+    [ "OutdoorPvP_nagrand", "de/d32/a22732.html#ac6e0f41eafb915604bd1b1d84e915f87", null ],
+    [ "GetOutdoorPvP", "de/d32/a22732.html#ae8ce0bf210e2be8229b9ac4d8615b058", null ]
 ];

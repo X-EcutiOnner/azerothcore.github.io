@@ -1,8 +1,9 @@
 var a27536 =
 [
-    [ "npc_franklinAI", "de/d6d/a27540.html", "de/d6d/a27540" ],
-    [ "npc_franklin", "d5/d87/a27536.html#aab059dfa69e52083892e3170c8838e0a", null ],
-    [ "GetAI", "d5/d87/a27536.html#a10933878afe9d0cc78fa1113341fd522", null ],
-    [ "OnGossipHello", "d5/d87/a27536.html#a318d512914b135800caabe0efbb1c467", null ],
-    [ "OnGossipSelect", "d5/d87/a27536.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
+    [ "go_gilded_brazierAI", "d5/d87/a27536.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
+    [ "GossipHello", "d5/d87/a27536.html#afac9e217c294e72ff5f2526422e6321e", null ],
+    [ "Initialize", "d5/d87/a27536.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
+    [ "UpdateAI", "d5/d87/a27536.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
+    [ "_events", "d5/d87/a27536.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
+    [ "_playerGUID", "d5/d87/a27536.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
 ];

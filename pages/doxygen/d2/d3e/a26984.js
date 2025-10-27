@@ -1,8 +1,6 @@
 var a26984 =
 [
-    [ "HandleDamage", "d2/d3e/a26984.html#a371d3112e619453b7c92933a145bf4d2", null ],
-    [ "HandleDummy", "d2/d3e/a26984.html#a051f68946f3c246b410bbaa2ac14e4b1", null ],
-    [ "PrepareSpellScript", "d2/d3e/a26984.html#a41d69ed3f8372c4e157aefbec6ad525c", null ],
-    [ "Register", "d2/d3e/a26984.html#aaa1e53f38a2ba835c12fa726c030ab08", null ],
-    [ "Validate", "d2/d3e/a26984.html#a180ab99bc257b841e0bbbfc0ddb83814", null ]
+    [ "HandleKnockBack", "d2/d3e/a26984.html#abad9f9293260a3e99be98b43aabb321b", null ],
+    [ "PrepareSpellScript", "d2/d3e/a26984.html#a65787b78165631898458264e6ee310f4", null ],
+    [ "Register", "d2/d3e/a26984.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
 ];

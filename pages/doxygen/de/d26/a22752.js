@@ -1,12 +1,5 @@
 var a22752 =
 [
-    [ "boss_gurtogg_bloodboil", "de/d26/a22752.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
-    [ "CanAIAttack", "de/d26/a22752.html#a60e6439bab689eb88a18612b6b46c713", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "de/d26/a22752.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
-    [ "JustDied", "de/d26/a22752.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
-    [ "JustEngagedWith", "de/d26/a22752.html#a0847173efbae252c2fbbaf1be17097cb", null ],
-    [ "JustSummoned", "de/d26/a22752.html#ae718666a1da0e93cb0965c42c40b51df", null ],
-    [ "KilledUnit", "de/d26/a22752.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
-    [ "Reset", "de/d26/a22752.html#add25677d422b8bddcb753465451f0584", null ],
-    [ "_recentlySpoken", "de/d26/a22752.html#a74af813b84f7787a5b764cfe574c087b", null ]
+    [ "OutdoorPvP_silithus", "de/d26/a22752.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
+    [ "GetOutdoorPvP", "de/d26/a22752.html#a126d6acc77218addd10072199ccd2470", null ]
 ];

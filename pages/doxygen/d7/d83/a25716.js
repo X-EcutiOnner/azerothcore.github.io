@@ -1,6 +1,6 @@
 var a25716 =
 [
-    [ "PartyTimeEmoteEvent", "d7/d83/a25716.html#a525efd58fc8465658208058e6dc5d31c", null ],
-    [ "Execute", "d7/d83/a25716.html#a65a796ff4efece46c519f7bdf1524bb8", null ],
-    [ "_player", "d7/d83/a25716.html#a61ecb44828c6e4c868def8899791feb3", null ]
+    [ "HandleItemRemove", "d7/d83/a25716.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
+    [ "PrepareSpellScript", "d7/d83/a25716.html#a8b43e146724a2c8b3c495e886a79d021", null ],
+    [ "Register", "d7/d83/a25716.html#af8b02c31b81dce516ea47d6a1235d683", null ]
 ];

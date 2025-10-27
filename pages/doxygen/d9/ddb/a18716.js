@@ -1,6 +1,6 @@
 var a18716 =
 [
-    [ "npc_impaling_spearAI", "d0/d28/a18720.html", "d0/d28/a18720" ],
-    [ "npc_impaling_spear", "d9/ddb/a18716.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
-    [ "GetAI", "d9/ddb/a18716.html#aad49164a3e7541b755c1c622b996bb9a", null ]
+    [ "npc_blazing_skeletonAI", "d0/d28/a18720.html", "d0/d28/a18720" ],
+    [ "npc_blazing_skeleton", "d9/ddb/a18716.html#a158720704479946048472ffe0beec492", null ],
+    [ "GetAI", "d9/ddb/a18716.html#af29ea4620ebafaa4d47ec9f37758af77", null ]
 ];

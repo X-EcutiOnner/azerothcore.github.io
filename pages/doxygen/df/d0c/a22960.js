@@ -1,12 +1,7 @@
 var a22960 =
 [
-    [ "boss_essence_of_angerAI", "df/d0c/a22960.html#a25eed717395b4e1ca5504d2d473e2500", null ],
-    [ "DoAction", "df/d0c/a22960.html#a81576aaf465dfc99d199aaf6a182df52", null ],
-    [ "JustDied", "df/d0c/a22960.html#a997d75ad388e790f9863e1b15fa1c899", null ],
-    [ "JustEngagedWith", "df/d0c/a22960.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
-    [ "KilledUnit", "df/d0c/a22960.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
-    [ "Reset", "df/d0c/a22960.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
-    [ "UpdateAI", "df/d0c/a22960.html#a67e9f5a361894aa227f2a74f9222740d", null ],
-    [ "_recentlySpoken", "df/d0c/a22960.html#a056aa8fd704d832e83735cf2a1a22888", null ],
-    [ "targetGUID", "df/d0c/a22960.html#adc3867a4446375f1217809299f3dd9bb", null ]
+    [ "HandleEffectRemove", "df/d0c/a22960.html#a0d8d042e6e9bf8fd26b6f283f6da6194", null ],
+    [ "PrepareAuraScript", "df/d0c/a22960.html#a84ec7db2aab055bc4328a4d8862bd3f5", null ],
+    [ "Register", "df/d0c/a22960.html#a9ee8e71020c17f593472de5a9c130753", null ],
+    [ "Validate", "df/d0c/a22960.html#a08be3cb2bef2f4697b7e258b231bd35b", null ]
 ];

@@ -1,6 +1,6 @@
 var a21024 =
 [
-    [ "OnEffect", "d1/d91/a21024.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "d1/d91/a21024.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "d1/d91/a21024.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "boss_yoggsaron_death_orbAI", "d1/d91/a21024.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
+    [ "UpdateAI", "d1/d91/a21024.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
+    [ "_startTimer", "d1/d91/a21024.html#aebc8edef5f84219e1c50f2394d129443", null ]
 ];

@@ -1,6 +1,6 @@
 var a16372 =
 [
-    [ "boss_anubarak_trialAI", "df/dae/a16376.html", "df/dae/a16376" ],
-    [ "boss_anubarak_trial", "d8/d80/a16372.html#a5204e33a412608b53cc155a043356d58", null ],
-    [ "GetAI", "d8/d80/a16372.html#a9b8fe9ed3370434612cbd46e7649213d", null ]
+    [ "HandlePeriodic", "d8/d80/a16372.html#a7753587518171689f86f3f76269c1b8a", null ],
+    [ "PrepareAuraScript", "d8/d80/a16372.html#aa73351e7200bee94b0068fb8dabfada5", null ],
+    [ "Register", "d8/d80/a16372.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
 ];

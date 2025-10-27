@@ -1,6 +1,8 @@
 var a14668 =
 [
-    [ "HandleHit", "df/d5a/a14668.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
-    [ "PrepareSpellScript", "df/d5a/a14668.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
-    [ "Register", "df/d5a/a14668.html#a64a861b5c25df5780390aa55899393d7", null ]
+    [ "OnApply", "df/d5a/a14668.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
+    [ "OnRemove", "df/d5a/a14668.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
+    [ "PrepareAuraScript", "df/d5a/a14668.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
+    [ "Register", "df/d5a/a14668.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
+    [ "Validate", "df/d5a/a14668.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
 ];

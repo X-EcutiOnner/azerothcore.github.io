@@ -1,5 +1,4 @@
 var a07720 =
 [
-    [ "IsColorValid", "d6/dea/a07720.html#ab291dc8bdb852a8386c2a3d1bd18cfad", null ],
-    [ "IsTextValid", "d6/dea/a07720.html#ab9c8e4926f593058bf247f33b6089bc3", null ]
+    [ "ChatCommandResult", "d6/dea/a07720.html#a6150ebd46977676b2ddeebfb818e86a9", null ]
 ];

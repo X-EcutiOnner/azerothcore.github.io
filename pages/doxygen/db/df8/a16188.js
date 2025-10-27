@@ -1,7 +1,6 @@
 var a16188 =
 [
-    [ "OnApply", "db/df8/a16188.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
-    [ "OnRemove", "db/df8/a16188.html#a781994b0be4588f4df29399fc900ec69", null ],
-    [ "PrepareAuraScript", "db/df8/a16188.html#aee648b80e7352edffb20fd60697e1d88", null ],
-    [ "Register", "db/df8/a16188.html#a53c56711e31500f827123c08f44072cb", null ]
+    [ "boss_sartharion_shadronAI", "de/d8e/a16192.html", "de/d8e/a16192" ],
+    [ "boss_sartharion_shadron", "db/df8/a16188.html#ac297719abff8c795af10973492fc6fbe", null ],
+    [ "GetAI", "db/df8/a16188.html#a95c7184ee7589f01920adc57a7df963b", null ]
 ];

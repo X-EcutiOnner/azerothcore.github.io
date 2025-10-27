@@ -1,8 +1,8 @@
 var a08804 =
 [
-    [ "VehicleSeat", "db/dbe/a08804.html#ad2d19e3fc73c06cd7c8e339bd2b45a0c", null ],
-    [ "IsEmpty", "db/dbe/a08804.html#a9f68076857cb85ee7679f04043acdedc", null ],
-    [ "Passenger", "db/dbe/a08804.html#ac334f2f573bf52f164d570f8b83fc197", null ],
-    [ "SeatAddon", "db/dbe/a08804.html#a3c46401aa5859287e4bcb24141c848cc", null ],
-    [ "SeatInfo", "db/dbe/a08804.html#add0cf92d445f6ea0cf910b0bc0d80b62", null ]
+    [ "PowerPctOrderPred", "db/dbe/a08804.html#a4e765952cfbc1c83413a8f1c148b1fe4", null ],
+    [ "operator()", "db/dbe/a08804.html#a215b641a9364c7fcb82778c98f214271", null ],
+    [ "operator()", "db/dbe/a08804.html#a42cec64c5eaf01f8b6b7e334f57b1d4a", null ],
+    [ "_ascending", "db/dbe/a08804.html#aed7be288f876fdd35c1cdba53626b03c", null ],
+    [ "_power", "db/dbe/a08804.html#ad3d61a7c5c84d91bc26c99e778105b7c", null ]
 ];

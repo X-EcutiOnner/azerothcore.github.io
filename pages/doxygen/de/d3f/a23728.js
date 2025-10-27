@@ -1,6 +1,7 @@
 var a23728 =
 [
-    [ "npc_millhouse_manastormAI", "dc/da3/a23732.html", "dc/da3/a23732" ],
-    [ "npc_millhouse_manastorm", "de/d3f/a23728.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
-    [ "GetAI", "de/d3f/a23728.html#ac4516785f7daf544718fc201197ba977", null ]
+    [ "PeriodicTick", "de/d3f/a23728.html#a53541105e40202e4a73ecc38d84e9eca", null ],
+    [ "PrepareAuraScript", "de/d3f/a23728.html#a79c8829a86db535e254db009d5286430", null ],
+    [ "Register", "de/d3f/a23728.html#a58cd762eb10d224bb188aaf167c816b9", null ],
+    [ "Validate", "de/d3f/a23728.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
 ];

@@ -1,6 +1,6 @@
 var a24992 =
 [
-    [ "HandleScriptEffect", "df/ddb/a24992.html#af8f2f4c4459204aa766a41dc4003581c", null ],
-    [ "PrepareSpellScript", "df/ddb/a24992.html#a687f10fa34894cb497a2ce3369fd83ef", null ],
-    [ "Register", "df/ddb/a24992.html#a034e52b435b6f4586084cb831e162c40", null ]
+    [ "HandleAfterCast", "df/ddb/a24992.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
+    [ "PrepareSpellScript", "df/ddb/a24992.html#a602d7c920aa73a9c3c69222854093036", null ],
+    [ "Register", "df/ddb/a24992.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
 ];

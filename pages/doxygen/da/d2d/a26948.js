@@ -1,7 +1,8 @@
 var a26948 =
 [
-    [ "FilterTargets", "da/d2d/a26948.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
-    [ "PrepareSpellScript", "da/d2d/a26948.html#a954f00317eab544dd57e657368aab7fb", null ],
-    [ "Register", "da/d2d/a26948.html#a1804684c8685372faf2e88e56b48f5be", null ],
-    [ "Validate", "da/d2d/a26948.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
+    [ "ApplyDebuff", "da/d2d/a26948.html#a76ecb96d27c54b18f3628476dae4cc73", null ],
+    [ "PrepareSpellScript", "da/d2d/a26948.html#aeff4dce89b0d893b90571e0ff63e1aaa", null ],
+    [ "Register", "da/d2d/a26948.html#ae53dfd7f60a1c4132c441f7cd1595b95", null ],
+    [ "RemoveInvalidTargets", "da/d2d/a26948.html#a1374c764b20b95febbca44c593bde218", null ],
+    [ "Validate", "da/d2d/a26948.html#a2eb14ea281b41b08acd4514c01aa938f", null ]
 ];

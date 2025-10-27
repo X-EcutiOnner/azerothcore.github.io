@@ -1,5 +1,6 @@
 var a16732 =
 [
-    [ "achievement_oh_novos", "dd/db3/a16732.html#a31ca1f458c384401af107cb8f709ef61", null ],
-    [ "OnCheck", "dd/db3/a16732.html#a3b922d9ed709ed46edca794f5ccf858f", null ]
+    [ "boss_jaraxxusAI", "dd/d4b/a16736.html", "dd/d4b/a16736" ],
+    [ "boss_jaraxxus", "dd/db3/a16732.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
+    [ "GetAI", "dd/db3/a16732.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
 ];

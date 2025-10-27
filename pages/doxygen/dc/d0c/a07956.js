@@ -1,9 +1,12 @@
 var a07956 =
 [
-    [ "cancelTime", "dc/d0c/a07956.html#ac1d5edf075556c488aff36799ee6cb96", null ],
-    [ "dungeons", "dc/d0c/a07956.html#a1e6c1deaf47dc835bbab7a1741a57fe2", null ],
-    [ "leader", "dc/d0c/a07956.html#ad92b0bd391dae5f934b7d6f8a39351d8", null ],
-    [ "rDungeonId", "dc/d0c/a07956.html#af07fdfed0b56211af723db06959013f6", null ],
-    [ "roles", "dc/d0c/a07956.html#a3759dc8140194b09be842365dc0053d7", null ],
-    [ "state", "dc/d0c/a07956.html#aa70ef2d83084359af7bcc9e2de60ce77", null ]
+    [ "far_clip", "dc/d0c/a07956.html#af70a06bda2dffbf2d3c49cb696beea2f", null ],
+    [ "fov", "dc/d0c/a07956.html#ae553ef5e28cc3af3acd45b9efd309fbe", null ],
+    [ "near_clip", "dc/d0c/a07956.html#a9426497de885b901d364c0b3ddd487d9", null ],
+    [ "position_base", "dc/d0c/a07956.html#abf0892be5ecf6d1e1021e101832396f3", null ],
+    [ "positions", "dc/d0c/a07956.html#a5d23816339fea0ac1e2c6fdad5fe58d8", null ],
+    [ "rolldata", "dc/d0c/a07956.html#ad3428dcc0b93e509c9225fa86ea2d691", null ],
+    [ "target_position_base", "dc/d0c/a07956.html#a2515ee6fa2fc41f7fca531b55cf0dc61", null ],
+    [ "target_positions", "dc/d0c/a07956.html#a12132e4bcc881cab134851938c45e05a", null ],
+    [ "type", "dc/d0c/a07956.html#afd67c926b538e189b036d88a9a277a2f", null ]
 ];

@@ -1,9 +1,7 @@
 var a19656 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "df/deb/a19656.html#aac57ae32188c47ca97b7331d62986e66", null ],
-    [ "JustDied", "df/deb/a19656.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
-    [ "JustEngagedWith", "df/deb/a19656.html#a772d279407d724477560898559710433", null ],
-    [ "Reset", "df/deb/a19656.html#a5b4a726aa496923d81c41b038e5f7449", null ],
-    [ "UpdateAI", "df/deb/a19656.html#a2745ff26c165851c367e080d28652984", null ],
-    [ "events", "df/deb/a19656.html#a468d45f9b9c2172f326068d59a74121a", null ]
+    [ "HandleProc", "df/deb/a19656.html#adb7714eca4c317ab76db0ecbc813669e", null ],
+    [ "PrepareAuraScript", "df/deb/a19656.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
+    [ "Register", "df/deb/a19656.html#a445ce7331c36e507aa24466ff9a67781", null ],
+    [ "Validate", "df/deb/a19656.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
 ];

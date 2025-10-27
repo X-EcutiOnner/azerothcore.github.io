@@ -1,6 +1,6 @@
 var a16688 =
 [
-    [ "npc_announcer_toc10", "df/dd9/a16688.html#ae495b19328c6a743dfd8f1cbf37a0bd6", null ],
-    [ "OnGossipHello", "df/dd9/a16688.html#afcc5262e7c49b7456af146de14805a06", null ],
-    [ "OnGossipSelect", "df/dd9/a16688.html#a9a2bf1d3a215332744ca473041cc0520", null ]
+    [ "npc_toc_rogueAI", "dc/da9/a16692.html", "dc/da9/a16692" ],
+    [ "npc_toc_rogue", "df/dd9/a16688.html#a925840be9698e381358235a827c20b8a", null ],
+    [ "GetAI", "df/dd9/a16688.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
 ];

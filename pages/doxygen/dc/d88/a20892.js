@@ -1,6 +1,6 @@
 var a20892 =
 [
-    [ "boss_yoggsaron_crusher_tentacleAI", "d8/d69/a20896.html", "d8/d69/a20896" ],
-    [ "boss_yoggsaron_crusher_tentacle", "dc/d88/a20892.html#a9bb0c5535bf98e186d39f235f5786ff0", null ],
-    [ "GetAI", "dc/d88/a20892.html#a82b6a328197ec81223c1d00dabb79a66", null ]
+    [ "boss_xt002AI", "d8/d69/a20896.html", "d8/d69/a20896" ],
+    [ "boss_xt002", "dc/d88/a20892.html#aebd7e513b3bef6a25ad0f9766d18174e", null ],
+    [ "GetAI", "dc/d88/a20892.html#a146e4a10da7d81213e7f63d6e86c79f2", null ]
 ];

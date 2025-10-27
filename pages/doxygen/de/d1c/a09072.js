@@ -1,7 +1,6 @@
 var a09072 =
 [
-    [ "~GridCell", "de/d1c/a09072.html#ae04041bc575ef654cc46c3f2e6542e2a", null ],
-    [ "AddGridObject", "de/d1c/a09072.html#adf5a3ece25efc945f7ae85d588da1d15", null ],
-    [ "Visit", "de/d1c/a09072.html#a76c36b854de74a8e54b94c1a4e563299", null ],
-    [ "_gridObjects", "de/d1c/a09072.html#a32d576cdb5d1d6f02fdba73d2606314c", null ]
+    [ "Conditions", "de/d1c/a09072.html#a93edc2f0d71164b683c844b713befa85", null ],
+    [ "MenuID", "de/d1c/a09072.html#a732aa82f621c312745ddbd6fe2e3e906", null ],
+    [ "TextID", "de/d1c/a09072.html#a6ec8df5fcc5126bdee656ca08c0a5edc", null ]
 ];

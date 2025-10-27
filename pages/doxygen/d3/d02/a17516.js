@@ -1,9 +1,6 @@
 var a17516 =
 [
-    [ "FilterTargetsInitial", "d3/d02/a17516.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
-    [ "FilterTargetsSubsequent", "d3/d02/a17516.html#a11732039155235c287757980129d5a8e", null ],
-    [ "Load", "d3/d02/a17516.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
-    [ "PrepareSpellScript", "d3/d02/a17516.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
-    [ "Register", "d3/d02/a17516.html#a56a4e65df08a95fddde75162358155c2", null ],
-    [ "_target", "d3/d02/a17516.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
+    [ "npc_ball_of_flameAI", "df/dcc/a17520.html", "df/dcc/a17520" ],
+    [ "npc_ball_of_flame", "d3/d02/a17516.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
+    [ "GetAI", "d3/d02/a17516.html#ac0309668f9f0ca85a644d4928966e577", null ]
 ];

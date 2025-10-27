@@ -1,7 +1,6 @@
 var a15856 =
 [
-    [ "HandleDummy", "df/d55/a15856.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
-    [ "PrepareSpellScript", "df/d55/a15856.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
-    [ "Register", "df/d55/a15856.html#a4359ad73b513a368509a066a039ddf53", null ],
-    [ "_targetCount", "df/d55/a15856.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
+    [ "npc_taskmaster_fizzuleAI", "da/d76/a15860.html", "da/d76/a15860" ],
+    [ "npc_taskmaster_fizzule", "df/d55/a15856.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
+    [ "GetAI", "df/d55/a15856.html#a6281de7424932fe6580ffefa199498d9", null ]
 ];

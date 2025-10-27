@@ -1,6 +1,7 @@
 var a13492 =
 [
-    [ "instance_sunwell_plateau_InstanceMapScript", "d4/d37/a13492.html#aae99b35ff990fd7486d5b70693b6729a", null ],
-    [ "Load", "d4/d37/a13492.html#a5398f0aa153f7c4eaea390e33c400b02", null ],
-    [ "OnPlayerEnter", "d4/d37/a13492.html#ab45827eaa92aea4746378b3c11fda219", null ]
+    [ "HandleScript", "d4/d37/a13492.html#aae2f572a523431f6764f08e4719adbcf", null ],
+    [ "PrepareSpellScript", "d4/d37/a13492.html#a20fdb423d5db4f1fa629a0f0480e2a9f", null ],
+    [ "Register", "d4/d37/a13492.html#ae3b002197564318cc92242bd925d35af", null ],
+    [ "Validate", "d4/d37/a13492.html#a98d9d84fd26d110efbbbaba9a19ef423", null ]
 ];

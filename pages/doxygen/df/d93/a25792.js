@@ -1,8 +1,6 @@
 var a25792 =
 [
-    [ "OnRemove", "df/d93/a25792.html#a645e869079e711a87f1a957b42a35e98", null ],
-    [ "OnStackChange", "df/d93/a25792.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
-    [ "PrepareAuraScript", "df/d93/a25792.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
-    [ "Register", "df/d93/a25792.html#ac86068a892255e38244c487a7456cd9f", null ],
-    [ "Validate", "df/d93/a25792.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
+    [ "HandleDummy", "df/d93/a25792.html#a8b9510efa5af25ef698fc6eb49b19b69", null ],
+    [ "PrepareSpellScript", "df/d93/a25792.html#a80b89fbd2506191b897dcf367ff11500", null ],
+    [ "Register", "df/d93/a25792.html#a522730e5ba844728c0b3d6f423cd123a", null ]
 ];

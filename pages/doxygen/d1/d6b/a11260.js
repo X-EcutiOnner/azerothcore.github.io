@@ -1,7 +1,5 @@
 var a11260 =
 [
-    [ "maxvalue", "d1/d6b/a11260.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
-    [ "skill", "d1/d6b/a11260.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
-    [ "step", "d1/d6b/a11260.html#a1c882f7d43c65954cb99566225660312", null ],
-    [ "value", "d1/d6b/a11260.html#a064fece53cdaf07b072510b14200a968", null ]
+    [ "AbsorbAuraOrderPred", "d1/d6b/a11260.html#a30283854715c90496e14d260f913f5fa", null ],
+    [ "operator()", "d1/d6b/a11260.html#a8f705a8b053ef6ff2e2827b4c7f9c643", null ]
 ];

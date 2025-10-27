@@ -1,7 +1,6 @@
 var a15468 =
 [
-    [ "npc_aged_dying_ancient_kodoAI", "d9/d42/a15468.html#aaed19d0c915891d8afecda7df75a8a75", null ],
-    [ "JustRespawned", "d9/d42/a15468.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
-    [ "MoveInLineOfSight", "d9/d42/a15468.html#a295d4bef97b97c7deb31a81274f0818d", null ],
-    [ "SpellHit", "d9/d42/a15468.html#a021b82aa6bd2e118fe810f18349fda42", null ]
+    [ "HandleDummy", "d9/d42/a15468.html#ac06b2b8e07ebc51a281c70663796dcc3", null ],
+    [ "PrepareSpellScript", "d9/d42/a15468.html#aa60cc00f33e329fe8d010c0e1c00989a", null ],
+    [ "Register", "d9/d42/a15468.html#aee9d14b3f45cb43478f970e9e6e173fd", null ]
 ];

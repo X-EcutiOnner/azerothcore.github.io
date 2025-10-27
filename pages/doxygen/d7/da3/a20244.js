@@ -1,8 +1,6 @@
 var a20244 =
 [
-    [ "npc_ulduar_flash_freezeAI", "d7/da3/a20244.html#a478e7bc76a7b7ffeb25a0df731cb5ed8", null ],
-    [ "DamageTaken", "d7/da3/a20244.html#af0c18460b4cc331f51c44a3306f516b8", null ],
-    [ "UpdateAI", "d7/da3/a20244.html#ab2efa0a8d06297bff05502c40079efe9", null ],
-    [ "pInstance", "d7/da3/a20244.html#a28be7874fee6dcaea6f205cb75f1450f", null ],
-    [ "timer", "d7/da3/a20244.html#a590117afe9e9943d8dc8a44af9386066", null ]
+    [ "boss_freya_elder_ironbranchAI", "da/dc8/a20248.html", "da/dc8/a20248" ],
+    [ "boss_freya_elder_ironbranch", "d7/da3/a20244.html#a066083e4d6fde6439f7dce80be209075", null ],
+    [ "GetAI", "d7/da3/a20244.html#a67f483d12fe801c1d840dd0f74396564", null ]
 ];

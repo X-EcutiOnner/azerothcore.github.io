@@ -1,6 +1,6 @@
 var a22228 =
 [
-    [ "npc_avatar_of_freya", "d6/dbc/a22228.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
-    [ "OnGossipHello", "d6/dbc/a22228.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
-    [ "OnGossipSelect", "d6/dbc/a22228.html#aba1b13e922873e939b2510b4bc77f49d", null ]
+    [ "npc_plaguehound_trackerAI", "d6/dbc/a22228.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "d6/dbc/a22228.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "d6/dbc/a22228.html#a67c345f49572cde76d9109a1baff6788", null ]
 ];

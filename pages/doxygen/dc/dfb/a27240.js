@@ -1,5 +1,6 @@
 var a27240 =
 [
-    [ "go_arena_ready_marker", "dc/dfb/a27240.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
-    [ "OnGossipHello", "dc/dfb/a27240.html#a9f51ead2b56d51427ff23be9688388d8", null ]
+    [ "AfterCheckProc", "dc/dfb/a27240.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
+    [ "PrepareAuraScript", "dc/dfb/a27240.html#aa184faf59edbad97ec361e66169137b9", null ],
+    [ "Register", "dc/dfb/a27240.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
 ];

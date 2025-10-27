@@ -1,7 +1,12 @@
 var a20076 =
 [
-    [ "achievement_flame_leviathan_garage", "d0/d4f/a20076.html#a1893b4059d7212d023c45bb828bb1905", null ],
-    [ "OnCheck", "d0/d4f/a20076.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
-    [ "_entry1", "d0/d4f/a20076.html#af482d6c1b2681b9fec572281620a86b7", null ],
-    [ "_entry2", "d0/d4f/a20076.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
+    [ "npc_freya_wardAI", "d0/d4f/a20076.html#afbc2f3d88173e240b87915cf0520b3cf", null ],
+    [ "DoAction", "d0/d4f/a20076.html#a4c9418b5474eb572a76168d4a460159a", null ],
+    [ "JustSummoned", "d0/d4f/a20076.html#a9075d763014ca50b4e0d2c815e1c23b7", null ],
+    [ "Reset", "d0/d4f/a20076.html#a65d304edd3b00b4a45c58bf36b926900", null ],
+    [ "SummonedCreatureDespawn", "d0/d4f/a20076.html#a6273b024ebde2fb36ed79eb122f7ac68", null ],
+    [ "UpdateAI", "d0/d4f/a20076.html#a11dd073b70e5126f580ec5122dce7bbd", null ],
+    [ "_castTimer", "d0/d4f/a20076.html#a6308aadc8ebf41cf045b04ac58e2244b", null ],
+    [ "_summoned", "d0/d4f/a20076.html#a5df6604055c5f3936a95f8d0ca5be8c1", null ],
+    [ "summons", "d0/d4f/a20076.html#a82932e9f2d570fa6d8394bfd3954c41e", null ]
 ];

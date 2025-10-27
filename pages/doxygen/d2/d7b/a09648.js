@@ -1,10 +1,9 @@
 var a09648 =
 [
-    [ "const_iterator", "d2/d7b/a09648.html#ac52d3ebfa7eaeb9d6fd08f0089b13918", null ],
-    [ "StorageType", "d2/d7b/a09648.html#a6825a379d1af4254b920c14ab0068e7b", null ],
-    [ "BossBoundaryData", "d2/d7b/a09648.html#a3f80cd89e43eae1a74e2b0a6a674d0cb", null ],
-    [ "~BossBoundaryData", "d2/d7b/a09648.html#a446a3ec16cdce76058761fce972f1e57", null ],
-    [ "begin", "d2/d7b/a09648.html#a326930360d22d5fdf9a895991f2c4e49", null ],
-    [ "end", "d2/d7b/a09648.html#ab3dc9905d861b62c4551f45ee8b08ba5", null ],
-    [ "_data", "d2/d7b/a09648.html#af60e90664c434a8d36115ca5dec889b5", null ]
+    [ "BroadcastTextID", "d2/d7b/a09648.html#a756f24dbee852a7fbe152c0cb082c412", null ],
+    [ "Emotes", "d2/d7b/a09648.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
+    [ "Language", "d2/d7b/a09648.html#a33bc5a0c156918b00380710aeb275d3d", null ],
+    [ "Probability", "d2/d7b/a09648.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
+    [ "Text_0", "d2/d7b/a09648.html#a046d637b91807db067c6e7050184322d", null ],
+    [ "Text_1", "d2/d7b/a09648.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
 ];

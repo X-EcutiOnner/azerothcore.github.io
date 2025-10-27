@@ -1,6 +1,6 @@
 var a12840 =
 [
-    [ "HandleAfterCast", "de/d49/a12840.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
-    [ "PrepareSpellScript", "de/d49/a12840.html#aa0956db2d03405a54893bc30516f5839", null ],
-    [ "Register", "de/d49/a12840.html#a45726adacf1d30b5488df54f57447c0c", null ]
+    [ "FilterTargets", "de/d49/a12840.html#adae7a812a222a60f9c89cac4ea327011", null ],
+    [ "PrepareSpellScript", "de/d49/a12840.html#a9576a48a3aa761c103f72586cd93970c", null ],
+    [ "Register", "de/d49/a12840.html#aaadad68c322eac268ea7a45f9c369c59", null ]
 ];

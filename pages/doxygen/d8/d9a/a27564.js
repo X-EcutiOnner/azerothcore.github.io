@@ -1,7 +1,6 @@
 var a27564 =
 [
-    [ "npc_riggle_bassbaitAI", "d8/d9a/a27564.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "d8/d9a/a27564.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "d8/d9a/a27564.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "d8/d9a/a27564.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "go_fel_crystalforge", "d8/d9a/a27564.html#aa44708a617edd51651da49918ab776e5", null ],
+    [ "OnGossipHello", "d8/d9a/a27564.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
+    [ "OnGossipSelect", "d8/d9a/a27564.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
 ];

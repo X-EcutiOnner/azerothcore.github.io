@@ -1,10 +1,20 @@
 var a09920 =
 [
-    [ "CreateWorldPacket", "d6/dc0/a09920.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
-    [ "GetMotd", "d6/dc0/a09920.html#ab589dd8bfad950e02ee716ea9005253f", null ],
-    [ "GetMotdPacket", "d6/dc0/a09920.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
-    [ "instance", "d6/dc0/a09920.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
-    [ "LoadMotd", "d6/dc0/a09920.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
-    [ "LoadMotdLocale", "d6/dc0/a09920.html#a21aa89787d5b0bbf69158f799122edd5", null ],
-    [ "SetMotd", "d6/dc0/a09920.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
+    [ "KeyFrame", "d6/dc0/a09920.html#a29de8ef0d2ba8671a00557782b5b3ba0", null ],
+    [ "IsStopFrame", "d6/dc0/a09920.html#a5e5b3e61a5734a8cfcba1c8e9cfb6e33", null ],
+    [ "IsTeleportFrame", "d6/dc0/a09920.html#a4197d8450563a6abd2826be37a2d0c0e", null ],
+    [ "ArriveTime", "d6/dc0/a09920.html#afc5d26078e42a2170d43c864542f676f", null ],
+    [ "DepartureTime", "d6/dc0/a09920.html#ac243e42c49063db26557d96b5fdf8a8f", null ],
+    [ "DistFromPrev", "d6/dc0/a09920.html#a4271d37fac21d8c41758fc5edbf793e2", null ],
+    [ "DistSinceStop", "d6/dc0/a09920.html#a60502cefa4387ffd815ba88530123ac6", null ],
+    [ "DistUntilStop", "d6/dc0/a09920.html#a03f76647aa0c383bcd4b26ae93abe465", null ],
+    [ "Index", "d6/dc0/a09920.html#a1176b2e4067a4e330db280514ca66d43", null ],
+    [ "InitialOrientation", "d6/dc0/a09920.html#a9af26b07943f22473526463f7a0f7c6b", null ],
+    [ "NextArriveTime", "d6/dc0/a09920.html#a51fb15713126d4890bfe99dc00e421f7", null ],
+    [ "NextDistFromPrev", "d6/dc0/a09920.html#a23823648385abc72ffd8372468b98915", null ],
+    [ "Node", "d6/dc0/a09920.html#ac628c537d5854ddf54d516eaf4471d7f", null ],
+    [ "Spline", "d6/dc0/a09920.html#aee298cdd32a7593baf6ad00234120781", null ],
+    [ "Teleport", "d6/dc0/a09920.html#ad57abe67a7e4771a35621b4204bfe347", null ],
+    [ "TimeFrom", "d6/dc0/a09920.html#ae12ac1910a4aa13557e69bd5e066214b", null ],
+    [ "TimeTo", "d6/dc0/a09920.html#ae4e0c37d26edb99017bf0042b3e0bad4", null ]
 ];

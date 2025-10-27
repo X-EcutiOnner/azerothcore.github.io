@@ -1,5 +1,6 @@
 var a17288 =
 [
-    [ "achievement_snakes_whyd_it_have_to_be_snakes", "d7/d8d/a17288.html#a4245e53260b83f77f9b4313e13f1f7d3", null ],
-    [ "OnCheck", "d7/d8d/a17288.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0", null ]
+    [ "npc_pos_icicle_triggerAI", "d5/db3/a17292.html", "d5/db3/a17292" ],
+    [ "npc_pos_icicle_trigger", "d7/d8d/a17288.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
+    [ "GetAI", "d7/d8d/a17288.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
 ];

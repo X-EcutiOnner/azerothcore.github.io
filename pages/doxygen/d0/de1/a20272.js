@@ -1,6 +1,7 @@
 var a20272 =
 [
-    [ "npc_ulduar_hodir_shamanAI", "d7/d49/a20276.html", "d7/d49/a20276" ],
-    [ "npc_ulduar_hodir_shaman", "d0/de1/a20272.html#ae73a416c72441ab531d8a5db88183d47", null ],
-    [ "GetAI", "d0/de1/a20272.html#ab06a67b72a3954c65792a478ac90672c", null ]
+    [ "boss_freya_healthy_sporeAI", "d0/de1/a20272.html#a1f72bc2b113f3b909d44fd54fff87e31", null ],
+    [ "Reset", "d0/de1/a20272.html#ad6d6562b5cc9f8232bdda99ec2204052", null ],
+    [ "UpdateAI", "d0/de1/a20272.html#ace79c59d62e597ae31425b4006e1363f", null ],
+    [ "_despawnTimer", "d0/de1/a20272.html#aaf65ef07480e5c634cc42dac0c7c734c", null ]
 ];

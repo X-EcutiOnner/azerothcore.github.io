@@ -1,5 +1,5 @@
 var a10564 =
 [
-    [ "GuildGetInfo", "d3/d2d/a10564.html#a585a6a49fe9747d5044ac185f1236cf5", null ],
-    [ "Read", "d3/d2d/a10564.html#aa2b107f35fcf348fb7f84c2971c5fa00", null ]
+    [ "LogoutComplete", "d3/d2d/a10564.html#a94f3ea0cd30d1eb44733c1c5aef05ec7", null ],
+    [ "Write", "d3/d2d/a10564.html#a0d958bc07b674ed3339833351fec7d3a", null ]
 ];

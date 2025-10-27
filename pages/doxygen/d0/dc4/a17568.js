@@ -1,6 +1,6 @@
 var a17568 =
 [
-    [ "Cooldown", "d0/dc4/a17568.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
-    [ "Entry", "d0/dc4/a17568.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
-    [ "TargetPosition", "d0/dc4/a17568.html#ac47af49622012b4ad40357cadc5214b3", null ]
+    [ "PrepareSpellScript", "d0/dc4/a17568.html#a37899f12707930d038de38bae92c9aff", null ],
+    [ "Register", "d0/dc4/a17568.html#a3677d2e7db842f899e6e2d2c8c9a3d42", null ],
+    [ "SelectDest", "d0/dc4/a17568.html#a4caabf8afac621ef70bbbac1a2b5177e", null ]
 ];

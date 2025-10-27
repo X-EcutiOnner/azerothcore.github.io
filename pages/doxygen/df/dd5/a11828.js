@@ -1,12 +1,14 @@
 var a11828 =
 [
-    [ "wp_commandscript", "df/dd5/a11828.html#a152610b5faf3ee05bb830bbf820b7162", null ],
-    [ "GetCommands", "df/dd5/a11828.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
-    [ "HandleWpAddCommand", "df/dd5/a11828.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
-    [ "HandleWpEventCommand", "df/dd5/a11828.html#a16fdb79724677307198ccf2fd6aa670d", null ],
-    [ "HandleWpLoadCommand", "df/dd5/a11828.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
-    [ "HandleWpModifyCommand", "df/dd5/a11828.html#a83677a6b64c3e5f6e44345026775721a", null ],
-    [ "HandleWpReloadCommand", "df/dd5/a11828.html#a671598d3727fa7e9358391008c690cb6", null ],
-    [ "HandleWpShowCommand", "df/dd5/a11828.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
-    [ "HandleWpUnLoadCommand", "df/dd5/a11828.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
+    [ "deserter_commandscript", "df/dd5/a11828.html#aebaaf99b9c5959f3f3418e13e252fb95", null ],
+    [ "GetCommands", "df/dd5/a11828.html#ab5b48b9dde89c9215c51560f26324649", null ],
+    [ "HandleDeserterAdd", "df/dd5/a11828.html#abe8c428ec09d341bb9f49882b7c071e2", null ],
+    [ "HandleDeserterBGAdd", "df/dd5/a11828.html#a11fba09d369e7244244887947a91369e", null ],
+    [ "HandleDeserterBGRemove", "df/dd5/a11828.html#a9bf4e146ef0f4f0cb2508c4953f8a647", null ],
+    [ "HandleDeserterBGRemoveAll", "df/dd5/a11828.html#a419d404315e91b6cac1bfd3ac225a8fd", null ],
+    [ "HandleDeserterInstanceAdd", "df/dd5/a11828.html#aabd2b23e2dc61fac10890077b41d8179", null ],
+    [ "HandleDeserterInstanceRemove", "df/dd5/a11828.html#a3197e5228284ba50da7f3a31b3e76060", null ],
+    [ "HandleDeserterInstanceRemoveAll", "df/dd5/a11828.html#adc6ad2f406fcb58ba64d2b6fd47281e2", null ],
+    [ "HandleDeserterRemove", "df/dd5/a11828.html#a210dc9a7eddede6fe976157d6b22b683", null ],
+    [ "HandleDeserterRemoveAll", "df/dd5/a11828.html#a6274f79b9884586069f94137b44d89e9", null ]
 ];

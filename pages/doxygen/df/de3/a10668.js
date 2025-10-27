@@ -1,6 +1,7 @@
 var a10668 =
 [
-    [ "GuildPromoteMember", "df/de3/a10668.html#af623a381aa80e827c2c29987501626ae", null ],
-    [ "Read", "df/de3/a10668.html#a3350c1a8c81aa1368a254288849b462b", null ],
-    [ "Promotee", "df/de3/a10668.html#af8addf6e9bc45364f595582e8f285cde", null ]
+    [ "GuildInvite", "df/de3/a10668.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
+    [ "Write", "df/de3/a10668.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
+    [ "GuildName", "df/de3/a10668.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
+    [ "InviterName", "df/de3/a10668.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
 ];

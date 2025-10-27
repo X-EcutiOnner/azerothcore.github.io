@@ -1,5 +1,7 @@
 var a21716 =
 [
-    [ "npc_steam_powered_auctioneerAI", "d9/d57/a21716.html#a5ef3dfd385ee3e5a49bd5c0e165103fc", null ],
-    [ "CanBeSeen", "d9/d57/a21716.html#a3352588abda326f7c72d0764a3f53370", null ]
+    [ "npc_lurgglbrAI", "d4/d58/a21720.html", "d4/d58/a21720" ],
+    [ "npc_lurgglbr", "d9/d57/a21716.html#a7df52667e4d789391820a4c2182db8d2", null ],
+    [ "GetAI", "d9/d57/a21716.html#a2795346371e7b474c53dcacb9daf2001", null ],
+    [ "OnQuestAccept", "d9/d57/a21716.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
 ];

@@ -1,6 +1,7 @@
 var a12164 =
 [
-    [ "boss_thebeastAI", "d8/dff/a12168.html", "d8/dff/a12168" ],
-    [ "boss_the_beast", "d3/d06/a12164.html#a131344b5fada63f4a8f0b3692ecba9eb", null ],
-    [ "GetAI", "d3/d06/a12164.html#a0b40497c665c571247cb8ad8b85ac63f", null ]
+    [ "boss_moira_bronzebeardAI", "d3/d06/a12164.html#a11265b6aad76574c2c76253128c79165", null ],
+    [ "CastOnEmperorIfPossible", "d3/d06/a12164.html#a0df43e5c605783312291bd4ba1921f8c", null ],
+    [ "JustEngagedWith", "d3/d06/a12164.html#a40ae00eb86e2bec048a9394d4deef106", null ],
+    [ "UpdateAI", "d3/d06/a12164.html#ae3f22a059330fb564cd30e581fc0198d", null ]
 ];

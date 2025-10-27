@@ -1,9 +1,7 @@
 var a12568 =
 [
-    [ "npc_mc_core_houndAI", "d3/de1/a12568.html#a9b07d662e32a342419a848ecd59d6391", null ],
-    [ "DamageTaken", "d3/de1/a12568.html#aaf2b0ac9b723bb16bfaf8481165e6b4f", null ],
-    [ "Reset", "d3/de1/a12568.html#a9f4b06230ae2e4fc2fe150eb9e9d1f12", null ],
-    [ "UpdateAI", "d3/de1/a12568.html#aaba8ef0b33b9bb9acf74223ef0e9aaad", null ],
-    [ "instance", "d3/de1/a12568.html#ab47451dfeff84c8467be2b76554df897", null ],
-    [ "serratedBiteTimer", "d3/de1/a12568.html#a3a49df32c788497d3e82912d423683b7", null ]
+    [ "HandleAfterApply", "d3/de1/a12568.html#a8f55616f861cccf7126f7e1a7c88f3c1", null ],
+    [ "HandleAfterRemove", "d3/de1/a12568.html#a7970613f1668294f29f61c1f10a9ba37", null ],
+    [ "PrepareAuraScript", "d3/de1/a12568.html#aea2f52682e723f8dacfffa20cd0f41a5", null ],
+    [ "Register", "d3/de1/a12568.html#ae38b71adaff3b36f5d7b3007e84e620f", null ]
 ];

@@ -1,9 +1,9 @@
 var a28796 =
 [
-    [ "MapTiles", "d6/df6/a28796.html#abc58d7154eab45ae26df27e2e82dac63", null ],
-    [ "MapTiles", "d6/df6/a28796.html#a406efc53593b5bceb0a491c0b7553350", null ],
-    [ "~MapTiles", "d6/df6/a28796.html#aec1baac21c06380ba71ff5e610152519", null ],
-    [ "operator==", "d6/df6/a28796.html#a3e7a87f421e8eb23926afe1d0978c3b4", null ],
-    [ "m_mapId", "d6/df6/a28796.html#a2fc10edf226a6f4548c2175e1013c1b9", null ],
-    [ "m_tiles", "d6/df6/a28796.html#ab80305bb73234e35a528701d775954b5", null ]
+    [ "flags", "d6/df6/a28796.html#a064de2e88c563121bbb78549a7bab868", null ],
+    [ "_flags", "d6/df6/a28796.html#a16f1b30a57eb6703e8073ef55d988391", null ],
+    [ "bits", "d6/df6/a28796.html#a529f1856635132646457c57f3546f4ec", null ],
+    [ "configKey", "d6/df6/a28796.html#af14d118016b9e01612769c00f13aa2d6", null ],
+    [ "oldKey", "d6/df6/a28796.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
+    [ "owner", "d6/df6/a28796.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
 ];

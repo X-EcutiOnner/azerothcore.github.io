@@ -1,10 +1,10 @@
 var a02645 =
 [
-    [ "boss_anub_arak", "d0/dd6/a16087.html", "d0/dd6/a16087" ],
-    [ "boss_anub_arak::boss_anub_arakAI", "d5/da2/a16091.html", "d5/da2/a16091" ],
-    [ "spell_azjol_nerub_carrion_beetels", "df/d8d/a16095.html", "df/d8d/a16095" ],
-    [ "spell_azjol_nerub_pound", "d8/d75/a16099.html", "d8/d75/a16099" ],
-    [ "spell_azjol_nerub_impale_summon", "d7/dc7/a16103.html", "d7/dc7/a16103" ],
+    [ "boss_anub_arak", "de/d4d/a16088.html", "de/d4d/a16088" ],
+    [ "boss_anub_arak::boss_anub_arakAI", "d4/d8c/a16092.html", "d4/d8c/a16092" ],
+    [ "spell_azjol_nerub_carrion_beetels", "d1/d43/a16096.html", "d1/d43/a16096" ],
+    [ "spell_azjol_nerub_pound", "d5/d86/a16100.html", "d5/d86/a16100" ],
+    [ "spell_azjol_nerub_impale_summon", "dc/d36/a16104.html", "dc/d36/a16104" ],
     [ "ANAnubarakNpcs", "d2/d80/a02645.html#af7c163562872221128fbc5364ab691d3", [
       [ "NPC_ANUBAR_GUARDIAN", "d2/d80/a02645.html#af7c163562872221128fbc5364ab691d3aee43e0ed66739f4855b4349c08825044", null ],
       [ "NPC_ANUBAR_VENOMANCER", "d2/d80/a02645.html#af7c163562872221128fbc5364ab691d3aad29ef5dde44c6706ec77ef755dd8333", null ]

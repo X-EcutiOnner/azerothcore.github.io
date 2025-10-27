@@ -1,5 +1,5 @@
 var a27444 =
 [
-    [ "item_incendiary_explosives", "d4/d72/a27444.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "d4/d72/a27444.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "go_arena_ready_marker", "d4/d72/a27444.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
+    [ "OnGossipHello", "d4/d72/a27444.html#a9f51ead2b56d51427ff23be9688388d8", null ]
 ];

@@ -1,9 +1,9 @@
 var a19792 =
 [
-    [ "CheckTargets", "d8/da4/a19792.html#a9340c167ef70508635092e273c23dcde", null ],
-    [ "CountTargets", "d8/da4/a19792.html#a996db37b678143fbc0a392032d29fff5", null ],
-    [ "Load", "d8/da4/a19792.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
-    [ "PrepareSpellScript", "d8/da4/a19792.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
-    [ "Register", "d8/da4/a19792.html#aed312a4408134589fd02bbcb844fd1b7", null ],
-    [ "_targetCount", "d8/da4/a19792.html#ac780614674e748274081f9f99a5165fe", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "d8/da4/a19792.html#aac57ae32188c47ca97b7331d62986e66", null ],
+    [ "JustDied", "d8/da4/a19792.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
+    [ "JustEngagedWith", "d8/da4/a19792.html#a772d279407d724477560898559710433", null ],
+    [ "Reset", "d8/da4/a19792.html#a5b4a726aa496923d81c41b038e5f7449", null ],
+    [ "UpdateAI", "d8/da4/a19792.html#a2745ff26c165851c367e080d28652984", null ],
+    [ "events", "d8/da4/a19792.html#a468d45f9b9c2172f326068d59a74121a", null ]
 ];

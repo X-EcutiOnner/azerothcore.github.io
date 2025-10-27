@@ -1,8 +1,10 @@
 var a05420 =
 [
-    [ "GeneralLock", "dd/d1f/a05420.html#ad0fac66b181e166108c871274bce7a93", null ],
-    [ "~GeneralLock", "dd/d1f/a05420.html#a455c73434c26cac8bf9761900d648589", null ],
-    [ "GeneralLock", "dd/d1f/a05420.html#aecc7bf4d8ac0c4bc16a89a16e196330c", null ],
-    [ "operator=", "dd/d1f/a05420.html#a876a9be3c642991811028892bcae42c4", null ],
-    [ "i_mutex", "dd/d1f/a05420.html#a80b98e278d3afb1867ff5f159eda5055", null ]
+    [ "Category", "dd/d1f/a05420.html#a6a7956fedac99271428968ba339f464f", null ],
+    [ "Tags", "dd/d1f/a05420.html#ac22787b2dadd4d3991f72f6ccab5c225", null ],
+    [ "Text", "dd/d1f/a05420.html#ab63598f64896186fde81048550767b28", null ],
+    [ "Timestamp", "dd/d1f/a05420.html#a8248a27d920ca431493750e3f2dec48b", null ],
+    [ "Title", "dd/d1f/a05420.html#a857d2d4843480b9967334f079351292a", null ],
+    [ "Type", "dd/d1f/a05420.html#af9962592650ba24fd9b3c0ee9ce06f7f", null ],
+    [ "Value", "dd/d1f/a05420.html#a09832a09e989c3851e72f4ec198f0e20", null ]
 ];

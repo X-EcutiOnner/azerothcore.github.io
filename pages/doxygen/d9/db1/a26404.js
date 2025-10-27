@@ -1,7 +1,7 @@
 var a26404 =
 [
-    [ "HandleEffectPeriodic", "d9/db1/a26404.html#a9347200565cb858cf0cc9cdb897fe1dc", null ],
-    [ "PrepareAuraScript", "d9/db1/a26404.html#a5fc89b09fb226d0d9315081d64f4103e", null ],
-    [ "Register", "d9/db1/a26404.html#ac3741617faacf83a707f1359aab1886e", null ],
-    [ "Validate", "d9/db1/a26404.html#a9378252b6711cc0bec3e63efce026495", null ]
+    [ "HandleScriptEffect", "d9/db1/a26404.html#a8c7ede10a8f7d0c1ea04c21166807995", null ],
+    [ "PrepareSpellScript", "d9/db1/a26404.html#af52663b01774372d3e6f695d2f395cb5", null ],
+    [ "Register", "d9/db1/a26404.html#abcefab06ff481fad88be4d7ad9289808", null ],
+    [ "Validate", "d9/db1/a26404.html#af269a7085412b5a889dfb802d1dc7fbe", null ]
 ];

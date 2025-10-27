@@ -1,8 +1,10 @@
 var a26068 =
 [
-    [ "CheckProc", "d5/dbf/a26068.html#a801610a9f9fae5cb711850254b291268", null ],
-    [ "HandleProc", "d5/dbf/a26068.html#a3f6a53421c7c4b9346d98aa51c4ccd6d", null ],
-    [ "PrepareAuraScript", "d5/dbf/a26068.html#ad08915b0c7f35bef76ddd05a62add43c", null ],
-    [ "Register", "d5/dbf/a26068.html#a8626318b6f9b35a8b1c116062618b3c0", null ],
-    [ "Validate", "d5/dbf/a26068.html#a8a3abd528fda4aab149fb7f6e5eae00d", null ]
+    [ "CalcPeriodic", "d5/dbf/a26068.html#a6ec300503503fa6f12a48a8494d41edd", null ],
+    [ "Load", "d5/dbf/a26068.html#a349827fe659ff3bee0a5dfc677c04825", null ],
+    [ "PrepareAuraScript", "d5/dbf/a26068.html#a8c12c4ae3835322602347b654d96a8b7", null ],
+    [ "Register", "d5/dbf/a26068.html#aeba6dda1114bc738cddff4d40d48ccd7", null ],
+    [ "Update", "d5/dbf/a26068.html#afa9e6eec798c354231b5f95e260c7111", null ],
+    [ "Validate", "d5/dbf/a26068.html#adb891e80c5bf15b4a0798aa01a45c9e0", null ],
+    [ "_spell_id", "d5/dbf/a26068.html#a2836863ea4bafc73f2adbb9176cbec60", null ]
 ];

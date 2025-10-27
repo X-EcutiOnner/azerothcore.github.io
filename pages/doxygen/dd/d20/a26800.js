@@ -1,6 +1,6 @@
 var a26800 =
 [
-    [ "HandleAuraApply", "dd/d20/a26800.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
-    [ "PrepareAuraScript", "dd/d20/a26800.html#a7596065e5ffcacf099a5984f5d940c11", null ],
-    [ "Register", "dd/d20/a26800.html#a8efa76b28dddad68fee132f37791f231", null ]
+    [ "HandleSendEvent", "dd/d20/a26800.html#a8126102215aa6eedd638b89d1a6b7110", null ],
+    [ "PrepareSpellScript", "dd/d20/a26800.html#abc57ba05637e2c51bf2d1fb918a93667", null ],
+    [ "Register", "dd/d20/a26800.html#ac37abad48c398bdb22529c1a44327d34", null ]
 ];

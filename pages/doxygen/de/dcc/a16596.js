@@ -1,14 +1,21 @@
 var a16596 =
 [
-    [ "npc_snobold_vassalAI", "de/dcc/a16596.html#a2ecc5e8289252b2936f36de9921294e0", null ],
-    [ "AttackStart", "de/dcc/a16596.html#a50afc82c80cede8dcf3240a116463411", null ],
-    [ "DoAction", "de/dcc/a16596.html#a8beac97ea5f7c797d2ae52e2f3c3be50", null ],
-    [ "JustDied", "de/dcc/a16596.html#aef408460584a17f15a84e8a6435c6348", null ],
-    [ "JustEngagedWith", "de/dcc/a16596.html#a60c1704617e99239d60d24d6b7513c1a", null ],
-    [ "MoveInLineOfSight", "de/dcc/a16596.html#aae75a4e69e27c1e4778a7f76caff04ba", null ],
-    [ "Reset", "de/dcc/a16596.html#af794f46b1a7af97b52683954b556c27d", null ],
-    [ "UpdateAI", "de/dcc/a16596.html#ac1d282da6f2d9133619a212a349c777f", null ],
-    [ "events", "de/dcc/a16596.html#adfb6df0ee8ab19b58de24da8d4e6d9df", null ],
-    [ "pInstance", "de/dcc/a16596.html#afc140e6f9fc1ec78914aecc5150345b0", null ],
-    [ "TargetGUID", "de/dcc/a16596.html#a0d36e4903448c5a03115df0dff3480c8", null ]
+    [ "boss_faction_championsAI", "de/dcc/a16596.html#aec4455c8bdd8d0629b9c3f17178818b6", null ],
+    [ "AttackStart", "de/dcc/a16596.html#a465492574894303cbce6df2107b87252", null ],
+    [ "EnemiesInRange", "de/dcc/a16596.html#acbb166d6ac50f11eae591ddf1dbba917", null ],
+    [ "EnterEvadeMode", "de/dcc/a16596.html#a81f01bf15e7d7d647fa01da165ee0896", null ],
+    [ "EventMapGCD", "de/dcc/a16596.html#ad5d17a7895d0c92f8c63fe5689564569", null ],
+    [ "GetThreatMod", "de/dcc/a16596.html#aae5bc496f0f17c2167dd8a47c8ae40cd", null ],
+    [ "IsCCed", "de/dcc/a16596.html#a6df04b369e7a85e6779228f8a7657ba7", null ],
+    [ "JustDied", "de/dcc/a16596.html#aa8976d148ac4882063787f144ebeeea8", null ],
+    [ "JustEngagedWith", "de/dcc/a16596.html#a3c8e2e446e6325597f1687201698a2c6", null ],
+    [ "KilledUnit", "de/dcc/a16596.html#ac49f6c9994484a6d905362fd66ccf81e", null ],
+    [ "RecalculateThreat", "de/dcc/a16596.html#a435b28bf38824d8b36bc6cf105d2dcf2", null ],
+    [ "SelectEnemyCaster", "de/dcc/a16596.html#a81a318b636472e15624d01ecf3be65fb", null ],
+    [ "SelectTarget_MostHPLostFriendlyMissingBuff", "de/dcc/a16596.html#aea6f9e045fb3866cef15d890f63766d8", null ],
+    [ "UpdateAI", "de/dcc/a16596.html#a6c93329b33c0fa469b04622cff1aa517", null ],
+    [ "mAIType", "de/dcc/a16596.html#acff880f98ff81d25d02224931fe8ff93", null ],
+    [ "pInstance", "de/dcc/a16596.html#a546bff05f2ca0e8e4c8371bfd4d6ed79", null ],
+    [ "powerTimer", "de/dcc/a16596.html#a38394cc3ee369fb5bb580d3702792604", null ],
+    [ "threatTimer", "de/dcc/a16596.html#a6aa684c94874d3a3bcd7150b0d7cd04b", null ]
 ];

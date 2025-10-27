@@ -1,4 +1,5 @@
 var a22676 =
 [
-    [ "instance_mana_tombs_InstanceMapScript", "de/d72/a22676.html#a1523ad04993ce4ddf5b503355f7c856a", null ]
+    [ "go_scourge_enclosure", "de/d72/a22676.html#a3611232cb735f336087d4d3c90f66b8d", null ],
+    [ "OnGossipHello", "de/d72/a22676.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
 ];

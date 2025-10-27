@@ -1,7 +1,7 @@
 var a14476 =
 [
-    [ "HandleScript", "db/d07/a14476.html#a78899a874a645d531dd4d89f2bd5478a", null ],
-    [ "PrepareSpellScript", "db/d07/a14476.html#adc96c1dbf0b561a72d26dca57d5bfcec", null ],
-    [ "Register", "db/d07/a14476.html#a76942c06492a48ce16bb85cf55d1e58d", null ],
-    [ "Validate", "db/d07/a14476.html#a727f7c6ab1a2b5635e0b8fbd071d863d", null ]
+    [ "HandleScriptEffect", "db/d07/a14476.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
+    [ "PrepareSpellScript", "db/d07/a14476.html#a3d906994c11e52e89c842189be73ddfd", null ],
+    [ "Register", "db/d07/a14476.html#a4cdab36e2265c696207a39e16549ab13", null ],
+    [ "Validate", "db/d07/a14476.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
 ];

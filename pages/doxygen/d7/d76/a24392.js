@@ -1,6 +1,6 @@
 var a24392 =
 [
-    [ "npc_pet_dk_ghoul", "d7/d76/a24392.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
-    [ "IsSummonedBy", "d7/d76/a24392.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
-    [ "JustDied", "d7/d76/a24392.html#a6095e3619b470283b9875b90e2805b54", null ]
+    [ "npcs_flanis_swiftwing_and_kagrosh", "d7/d76/a24392.html#aa95eceea94521947bd443805c8ddb52d", null ],
+    [ "OnGossipHello", "d7/d76/a24392.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
+    [ "OnGossipSelect", "d7/d76/a24392.html#aff34165955ba93e1fcd2b9731894d871", null ]
 ];

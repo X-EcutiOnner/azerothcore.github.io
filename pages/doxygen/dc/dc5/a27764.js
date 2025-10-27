@@ -1,10 +1,8 @@
 var a27764 =
 [
-    [ "npc_shadow_of_doom", "dc/dc5/a27764.html#a3b28f532f7565f0771bed039137d16e2", null ],
-    [ "IsSummonedBy", "dc/dc5/a27764.html#a4a4691d8206eb39f9350588feda6a08c", null ],
-    [ "JustDied", "dc/dc5/a27764.html#a99fb578fe102e22dcf4bb11911f6a5e9", null ],
-    [ "JustEngagedWith", "dc/dc5/a27764.html#a7c338e5d4f3b2500656cf40cfc221210", null ],
-    [ "Reset", "dc/dc5/a27764.html#aecfe82e99408f10705c9286a9e97e592", null ],
-    [ "SpellHit", "dc/dc5/a27764.html#abe23f7a07705f75c789f415d646d8428", null ],
-    [ "UpdateAI", "dc/dc5/a27764.html#ac01f10aed6c755744f2e8c5918340163", null ]
+    [ "npc_riggle_bassbaitAI", "dd/db1/a27768.html", "dd/db1/a27768" ],
+    [ "npc_riggle_bassbait", "dc/dc5/a27764.html#afc4280099cda3c28c4634d649e636839", null ],
+    [ "GetAI", "dc/dc5/a27764.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
+    [ "OnGossipHello", "dc/dc5/a27764.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
+    [ "OnQuestReward", "dc/dc5/a27764.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
 ];

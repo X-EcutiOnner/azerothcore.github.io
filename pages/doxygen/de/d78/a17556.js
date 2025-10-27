@@ -1,5 +1,7 @@
 var a17556 =
 [
-    [ "achievement_flu_shot_shortage", "de/d78/a17556.html#af448c773bcdf31cec7ae9d7c85e9e595", null ],
-    [ "OnCheck", "de/d78/a17556.html#a3195af1d4504ffc200c99bef84eaaa5a", null ]
+    [ "HandleDummyTick", "de/d78/a17556.html#a9aa9a7a6c2e09c840cfca3253c2ac7c0", null ],
+    [ "PrepareAuraScript", "de/d78/a17556.html#a577523701b5a4ea2def4999e634c8862", null ],
+    [ "Register", "de/d78/a17556.html#aaad9185c62333de4d6704b22780edd28", null ],
+    [ "Validate", "de/d78/a17556.html#a9cfabcbbb9805a902fdd2d1b327dc4c7", null ]
 ];

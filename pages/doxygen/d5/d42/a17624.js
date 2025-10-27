@@ -1,6 +1,6 @@
 var a17624 =
 [
-    [ "npc_igb_ship_crewAI", "d5/d42/a17624.html#a3ca741b305e3235b0521f094d7abe732", null ],
-    [ "CanAIAttack", "d5/d42/a17624.html#a2c834dc151493957fc116865699ae7f5", null ],
-    [ "_instance", "d5/d42/a17624.html#a288bd5f8b4eaed7b1a960ed738330ae4", null ]
+    [ "HandleScript", "d5/d42/a17624.html#acd11d50f398857dc2a24bd2d63e52222", null ],
+    [ "PrepareSpellScript", "d5/d42/a17624.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
+    [ "Register", "d5/d42/a17624.html#ad7f12515dc21ab6b19148370fd491629", null ]
 ];

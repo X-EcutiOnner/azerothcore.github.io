@@ -1,6 +1,13 @@
 var a21876 =
 [
-    [ "npc_q24545_wretched_ghoulAI", "de/d37/a21880.html", "de/d37/a21880" ],
-    [ "npc_q24545_wretched_ghoul", "d4/d07/a21876.html#a3842b5bd89c911d29d561307113fb032", null ],
-    [ "GetAI", "d4/d07/a21876.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
+    [ "npc_shandy_dalaranAI", "d4/d07/a21876.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
+    [ "Reset", "d4/d07/a21876.html#a38f0630d4e18cea01de343afdcb96db3", null ],
+    [ "RollTask", "d4/d07/a21876.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
+    [ "SetData", "d4/d07/a21876.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
+    [ "UpdateAI", "d4/d07/a21876.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
+    [ "_aquanosGUID", "d4/d07/a21876.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
+    [ "_canWash", "d4/d07/a21876.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
+    [ "_events", "d4/d07/a21876.html#a3fbae63669c8382097b0bcb936301945", null ],
+    [ "_lCount", "d4/d07/a21876.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
+    [ "_lSource", "d4/d07/a21876.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
 ];

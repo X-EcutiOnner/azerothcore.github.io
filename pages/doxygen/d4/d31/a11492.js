@@ -1,7 +1,6 @@
 var a11492 =
 [
-    [ "PlayerDumpReader", "d4/d31/a11492.html#ad630b61e298fb1ddf165481c9a14e077", null ],
-    [ "LoadDump", "d4/d31/a11492.html#a62ca90cbcb0d03ec0da52651d8c5f783", null ],
-    [ "LoadDumpFromFile", "d4/d31/a11492.html#ae1ed88a6f181cf6ad952edb1285e192e", null ],
-    [ "LoadDumpFromString", "d4/d31/a11492.html#abd4ce2c50a74922792a7b00d803f03b2", null ]
+    [ "CheckAreaTargetHandler", "d4/d31/a11492.html#a641b633e37079949c8b1b71a32f4222e", null ],
+    [ "Call", "d4/d31/a11492.html#ab434cb7ba8927c16e2b63c2ad8ae9a25", null ],
+    [ "pHandlerScript", "d4/d31/a11492.html#a7c1e677d10a89ea7f1ea06f8de10e0f9", null ]
 ];

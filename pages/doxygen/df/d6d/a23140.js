@@ -1,11 +1,10 @@
 var a23140 =
 [
-    [ "boss_doomlordkazzakAI", "df/d6d/a23140.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
-    [ "JustDied", "df/d6d/a23140.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
-    [ "JustEngagedWith", "df/d6d/a23140.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
-    [ "JustRespawned", "df/d6d/a23140.html#a174912c149657f4d88446f4ac0631598", null ],
-    [ "KilledUnit", "df/d6d/a23140.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
-    [ "Reset", "df/d6d/a23140.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
-    [ "UpdateAI", "df/d6d/a23140.html#a28a0a8345fcd5411491409854acef729", null ],
-    [ "_inBerserk", "df/d6d/a23140.html#a996d17128aca96c00c8416957ebc24d0", null ]
+    [ "CalculateAmount", "df/d6d/a23140.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
+    [ "CheckProc", "df/d6d/a23140.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
+    [ "HandleProc", "df/d6d/a23140.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
+    [ "PrepareAuraScript", "df/d6d/a23140.html#a6e066884663276dbba82e46ca5f66e59", null ],
+    [ "Register", "df/d6d/a23140.html#ac4154f0746e77229e8d349021d5b9c30", null ],
+    [ "Update", "df/d6d/a23140.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
+    [ "Validate", "df/d6d/a23140.html#a4f10d23f63c47b408b70373623b877a8", null ]
 ];

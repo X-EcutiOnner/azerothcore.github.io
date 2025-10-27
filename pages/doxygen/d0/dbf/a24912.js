@@ -1,9 +1,8 @@
 var a24912 =
 [
-    [ "spell_gen_select_target_count", "d0/dbf/a24912.html#a65507c155a8746ff49c58c051b7868e4", null ],
-    [ "FilterTargets", "d0/dbf/a24912.html#a5de89be9ce321a0f4ac49853a700b502", null ],
-    [ "PrepareSpellScript", "d0/dbf/a24912.html#a42ddce15414dcdf495b572e0f75e9486", null ],
-    [ "Register", "d0/dbf/a24912.html#a94f86992275123e2e3989655cf077efd", null ],
-    [ "_count", "d0/dbf/a24912.html#acdf5daa848ae185b859c45a1271df68c", null ],
-    [ "_effTarget", "d0/dbf/a24912.html#a9c54508790062277c8275d2466e93fb3", null ]
+    [ "AfterRemove", "d0/dbf/a24912.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
+    [ "HandleDispel", "d0/dbf/a24912.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
+    [ "PrepareAuraScript", "d0/dbf/a24912.html#a44e66753516d693c31dba27c9d1ad250", null ],
+    [ "Register", "d0/dbf/a24912.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
+    [ "Validate", "d0/dbf/a24912.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
 ];

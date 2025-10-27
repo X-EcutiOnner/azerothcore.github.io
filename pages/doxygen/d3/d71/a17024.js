@@ -1,6 +1,5 @@
 var a17024 =
 [
-    [ "instance_halls_of_reflection_InstanceMapScript", "da/d81/a17028.html", "da/d81/a17028" ],
-    [ "instance_halls_of_reflection", "d3/d71/a17024.html#a8872b51ceec25dbf4831f45b27206ed1", null ],
-    [ "GetInstanceScript", "d3/d71/a17024.html#aca27a4f654f41fe6f238c905b48285b7", null ]
+    [ "npc_fos_leader_secondAI", "d3/d71/a17024.html#a25df0b8760e9eb7d330779e10e3ac548", null ],
+    [ "MovementInform", "d3/d71/a17024.html#a9cc0b500f1289dc8b764b3755468e639", null ]
 ];

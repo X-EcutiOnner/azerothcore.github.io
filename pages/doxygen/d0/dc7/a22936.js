@@ -1,15 +1,18 @@
 var a22936 =
 [
-    [ "boss_reliquary_of_soulsAI", "d0/dc7/a22936.html#abee29aab1d28a168be3b381d0765a804", null ],
-    [ "AttackStart", "d0/dc7/a22936.html#af59a9972dfdb264248e78206ea0d834c", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d0/dc7/a22936.html#a67343cecd292c2dc40f8c5a275d95fdf", null ],
-    [ "DoAction", "d0/dc7/a22936.html#aa281dd9c7dc0c6f15c2bfcbf60384006", null ],
-    [ "JustDied", "d0/dc7/a22936.html#a6e19cb7d94579a70ac11f7173cf930c6", null ],
-    [ "JustEngagedWith", "d0/dc7/a22936.html#a88eef17a5f475b38a37b0e1adcc0cbbc", null ],
-    [ "JustSummoned", "d0/dc7/a22936.html#ad3c7679c2341951bbeb49aafad7196cd", null ],
-    [ "MoveInLineOfSight", "d0/dc7/a22936.html#a315a0ad69f566ff63b06fd0d47ce32d8", null ],
-    [ "PhaseTransitionSpawns", "d0/dc7/a22936.html#a96235ed84a30458eb5f76d87ed47dc89", null ],
-    [ "Reset", "d0/dc7/a22936.html#a5dc6ec0521e2ddfb63a6818ad2de0d8b", null ],
-    [ "SummonedCreatureDies", "d0/dc7/a22936.html#a51ac7df8689bf899eaaf4cde566d8202", null ],
-    [ "UpdateAI", "d0/dc7/a22936.html#a4289e678a69e35db5e4ea75fddd7e8e4", null ]
+    [ "npc_akama_illidan", "d0/dc7/a22936.html#ae300c0493c788863d69a7d9f5ab40ff5", null ],
+    [ "DamageTaken", "d0/dc7/a22936.html#a4b95cb3a3502805a915f7c6751ecf70c", null ],
+    [ "DoAction", "d0/dc7/a22936.html#af68f04faaf8a1893a82674cf1f2dd453", null ],
+    [ "JustEngagedWith", "d0/dc7/a22936.html#a8c78b3586673ee9e330272494ee74eab", null ],
+    [ "JustReachedHome", "d0/dc7/a22936.html#a8804c0e0b77673fee6beb3c0cd58be59", null ],
+    [ "JustSummoned", "d0/dc7/a22936.html#a54b185a813a4271eef06173b8109d6cf", null ],
+    [ "KilledUnit", "d0/dc7/a22936.html#a7838b6161a2ea9e0231f142a534de767", null ],
+    [ "MovementInform", "d0/dc7/a22936.html#a32116d23bd508d9791f31fbc257398d0", null ],
+    [ "PathEndReached", "d0/dc7/a22936.html#abd9dd31fe80a96d656c7dafd77564ad0", null ],
+    [ "Reset", "d0/dc7/a22936.html#ac3af6f0ddb0f07a6a254e2c0b3bd3ef0", null ],
+    [ "sGossipSelect", "d0/dc7/a22936.html#a6ab4ddfeaa2448e79577936d87d66398", null ],
+    [ "SummonedCreatureDies", "d0/dc7/a22936.html#a1b4a1bfec1034feccba676b35a3caf93", null ],
+    [ "UpdateAI", "d0/dc7/a22936.html#a3531d35b6d996bde197447e69e50a6fb", null ],
+    [ "instance", "d0/dc7/a22936.html#a752a22acf6eab1d1045cac099b22fe57", null ],
+    [ "summons", "d0/dc7/a22936.html#ab63791d4fd316a47af93a6f93118d331", null ]
 ];

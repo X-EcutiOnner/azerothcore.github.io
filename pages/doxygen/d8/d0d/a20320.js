@@ -1,7 +1,8 @@
 var a20320 =
 [
-    [ "HandleEffectPeriodic", "d8/d0d/a20320.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
-    [ "PrepareAuraScript", "d8/d0d/a20320.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
-    [ "Register", "d8/d0d/a20320.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
-    [ "Validate", "d8/d0d/a20320.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
+    [ "npc_ulduar_saronite_animusAI", "d8/d0d/a20320.html#a2b94427feb24a7bda075b6a8f403433a", null ],
+    [ "JustDied", "d8/d0d/a20320.html#a30abcab01de3732bc5525864576615b0", null ],
+    [ "UpdateAI", "d8/d0d/a20320.html#a1490961adc8fc03ab28a992aff55b43b", null ],
+    [ "pInstance", "d8/d0d/a20320.html#a5d3b297355f286b0ad08ed38dbd5b0d2", null ],
+    [ "timer", "d8/d0d/a20320.html#a3d0345d4c503eb3f0e4acbe346f1c5e5", null ]
 ];

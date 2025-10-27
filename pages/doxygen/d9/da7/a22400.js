@@ -1,7 +1,6 @@
 var a22400 =
 [
-    [ "npc_wg_quest_giver", "d9/da7/a22400.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "d9/da7/a22400.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "d9/da7/a22400.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "d9/da7/a22400.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "npc_bushwhackerAI", "d9/da7/a22400.html#a0cf480b75aa45a9f3572c4a65df2daee", null ],
+    [ "InitializeAI", "d9/da7/a22400.html#a18db5870e62378ff49472f7a5881861c", null ],
+    [ "UpdateAI", "d9/da7/a22400.html#aadc3384626d728942897fe93750f0c02", null ]
 ];

@@ -1,11 +1,8 @@
 var a14316 =
 [
-    [ "npc_winterfin_playmate", "dc/d6c/a14316.html#a9c07fb9115c21ba5c3ef7459662e8f38", null ],
-    [ "MoveInLineOfSight", "dc/d6c/a14316.html#a7e8640e3bfe0a8f960ce22a2daf136a4", null ],
-    [ "Reset", "dc/d6c/a14316.html#aae6b51c22dc0448608c1cf9412565e25", null ],
-    [ "UpdateAI", "dc/d6c/a14316.html#a8e04dc18ee8a6d9412cd574994908eb6", null ],
-    [ "orphanGUID", "dc/d6c/a14316.html#a9189bf7b93e7c46e559c22f3504f919f", null ],
-    [ "phase", "dc/d6c/a14316.html#a0a1051dc971ef393843bd1ba655a2e1b", null ],
-    [ "playerGUID", "dc/d6c/a14316.html#a142fe7a438ee22384f682f26ff4a9f9c", null ],
-    [ "timer", "dc/d6c/a14316.html#abf4b5f3e16f32a3385b71ef002c5ee64", null ]
+    [ "npc_spawn_of_marli", "dc/d6c/a14316.html#a1dcd5066de108203903f5767c4b375ea", null ],
+    [ "JustEngagedWith", "dc/d6c/a14316.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
+    [ "Reset", "dc/d6c/a14316.html#a79ef192d41af75e0dad0494776c75189", null ],
+    [ "UpdateAI", "dc/d6c/a14316.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
+    [ "_scheduler", "dc/d6c/a14316.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
 ];

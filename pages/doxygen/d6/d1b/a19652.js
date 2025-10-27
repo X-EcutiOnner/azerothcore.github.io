@@ -1,6 +1,7 @@
 var a19652 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "df/deb/a19656.html", "df/deb/a19656" ],
-    [ "boss_sjonnir_iron_sludge", "d6/d1b/a19652.html#ae1c523266aab3e8e2c337dede7390c7b", null ],
-    [ "GetAI", "d6/d1b/a19652.html#a2d077bfeac6479d83240ee00ca5aa0e0", null ]
+    [ "Apply", "d6/d1b/a19652.html#add8e95d38b0c437833c11cded72fe2a7", null ],
+    [ "PrepareAuraScript", "d6/d1b/a19652.html#ad2112b571d97e537983b4d11207015e6", null ],
+    [ "Register", "d6/d1b/a19652.html#accf85a0d8b2fad19bb0709013caa9f1b", null ],
+    [ "Validate", "d6/d1b/a19652.html#a0b89b10ee22d02655ad08a348ab91ecd", null ]
 ];

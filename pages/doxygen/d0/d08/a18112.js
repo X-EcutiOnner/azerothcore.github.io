@@ -1,7 +1,7 @@
 var a18112 =
 [
-    [ "HandleScript", "d0/d08/a18112.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
-    [ "PrepareSpellScript", "d0/d08/a18112.html#a7e6b56f426be7925255da3ebc239f909", null ],
-    [ "Register", "d0/d08/a18112.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
-    [ "Validate", "d0/d08/a18112.html#a86b4296eab73fc63b38558871f16a889", null ]
+    [ "HandleTriggerSpell", "d0/d08/a18112.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
+    [ "OnRemove", "d0/d08/a18112.html#a238adc96e80c1890934b23dd4a2685b4", null ],
+    [ "PrepareAuraScript", "d0/d08/a18112.html#af9ce7433b620fdf1dea570561c514b3b", null ],
+    [ "Register", "d0/d08/a18112.html#ab36a001ea8cd87703e2694e0765635c0", null ]
 ];

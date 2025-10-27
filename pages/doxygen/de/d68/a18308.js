@@ -1,7 +1,6 @@
 var a18308 =
 [
-    [ "OnRemove", "de/d68/a18308.html#a106935d92ef6ba7909c57264e26b5522", null ],
-    [ "PrepareAuraScript", "de/d68/a18308.html#a8ce8f5d4ebd4279fdfd192ba3b01b894", null ],
-    [ "Register", "de/d68/a18308.html#a095e7530a0f2e7a76dc8bd3f75759089", null ],
-    [ "Validate", "de/d68/a18308.html#a0b4283bdb19a4ceef505aab41c99abe8", null ]
+    [ "MysticBuffetTargetFilter", "de/d68/a18308.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
+    [ "operator()", "de/d68/a18308.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
+    [ "_caster", "de/d68/a18308.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
 ];

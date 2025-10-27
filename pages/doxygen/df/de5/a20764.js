@@ -1,6 +1,9 @@
 var a20764 =
 [
-    [ "npc_xt002_heartAI", "dc/d4a/a20768.html", "dc/d4a/a20768" ],
-    [ "npc_xt002_heart", "df/de5/a20764.html#ab914ce1e945080b873cf6f93e3a6a32c", null ],
-    [ "GetAI", "df/de5/a20764.html#af59c6623b97d1adff765e8ba4958d482", null ]
+    [ "npc_ulduar_dark_rune_watcherAI", "df/de5/a20764.html#a2239253c2c4760b130ace4a07ef1e8c4", null ],
+    [ "CanAIAttack", "df/de5/a20764.html#a891e354dc27f0d53e06a0cf2eea46970", null ],
+    [ "Reset", "df/de5/a20764.html#a79a1081a50ded7afc5f81ed4234be59d", null ],
+    [ "UpdateAI", "df/de5/a20764.html#a58c5f53f74055b89c11ed27ffe908732", null ],
+    [ "timer1", "df/de5/a20764.html#aab38ff79ca8fc867a3d6c6512d0376c8", null ],
+    [ "timer2", "df/de5/a20764.html#a7b4eb188939c15f11a6b2532853ad798", null ]
 ];

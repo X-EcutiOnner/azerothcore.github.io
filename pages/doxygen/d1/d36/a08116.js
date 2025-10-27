@@ -1,12 +1,11 @@
 var a08116 =
 [
-    [ "QuestMenu", "d1/d36/a08116.html#a60ba5b35499c6a9ed510300d3300421e", null ],
-    [ "~QuestMenu", "d1/d36/a08116.html#a14df9b6699c327853121ae032704db8d", null ],
-    [ "AddMenuItem", "d1/d36/a08116.html#ac8735756bbf9f2fa799c505bd740e070", null ],
-    [ "ClearMenu", "d1/d36/a08116.html#ab3d3881aabe000694acab37a3774507e", null ],
-    [ "Empty", "d1/d36/a08116.html#a1a850cb70956f299ea91cb0d732ad202", null ],
-    [ "GetItem", "d1/d36/a08116.html#a08240a8d18dce0cb96db19f54c67dd2c", null ],
-    [ "GetMenuItemCount", "d1/d36/a08116.html#a2338a6fb88c32bfb66fe524a8ffaa0d7", null ],
-    [ "HasItem", "d1/d36/a08116.html#a7fe36e4a4acfc66a00f08034c470b5e3", null ],
-    [ "_questMenuItems", "d1/d36/a08116.html#a49279a3943009f2d1475d792c2c3d21a", null ]
+    [ "AddItem", "d1/d36/a08116.html#a46f6533323fd15632c3f9a8b96ef6f3f", null ],
+    [ "Clear", "d1/d36/a08116.html#a70c7400c4bc60923fd538890774445de", null ],
+    [ "Empty", "d1/d36/a08116.html#ab55fa73ab327294de2c5f6906fc1fbdb", null ],
+    [ "FindItemCostPair", "d1/d36/a08116.html#a61dc4394afdd3a360559ffec1655c343", null ],
+    [ "GetItem", "d1/d36/a08116.html#aa764da5b4647c84813e3aa6b46de7593", null ],
+    [ "GetItemCount", "d1/d36/a08116.html#ae80634592ce705c77c5aa53960f89c24", null ],
+    [ "RemoveItem", "d1/d36/a08116.html#a974925f2979910348a0af795893b310b", null ],
+    [ "m_items", "d1/d36/a08116.html#aa16668e54fce8fffe8651644cdef4335", null ]
 ];

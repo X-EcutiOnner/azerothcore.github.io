@@ -1,6 +1,6 @@
 var a24100 =
 [
-    [ "go_magtheridons_head", "d2/ddf/a24100.html#af5816b083f1856196bec7a75f0a995f3", null ],
-    [ "InitializeAI", "d2/ddf/a24100.html#a84fd97c0dfc2826a0b7795a9fbd70cd5", null ],
-    [ "OnStateChanged", "d2/ddf/a24100.html#a28682d161074b71e1f2d70236ff2b897", null ]
+    [ "PrepareAuraScript", "d2/ddf/a24100.html#a14d4d1a75130a77e7e59e41720491bec", null ],
+    [ "PrepareProc", "d2/ddf/a24100.html#abea217f4bfdffc70007fbc29849e9a49", null ],
+    [ "Register", "d2/ddf/a24100.html#a9dbcd4c940f5941472bebb64829125e3", null ]
 ];

@@ -1,6 +1,11 @@
 var a05188 =
 [
-    [ "HashCreator", "d6/d8c/a05188.html#a03a4f6e31f0cb838b857997a0272f90b", null ],
-    [ "DestroyCTX", "d6/d8c/a05188.html#a7e607b03e0758d10156e201e8d601db4", null ],
-    [ "MakeCTX", "d6/d8c/a05188.html#a59487cdc54d416f8b2a88eb54ae21c8d", null ]
+    [ "ARC4", "d6/d8c/a05188.html#ac05d4f85233abfc5cbcb87cd2a87bc5a", null ],
+    [ "~ARC4", "d6/d8c/a05188.html#af3a8b63c2073120026c262a685eef8f2", null ],
+    [ "Init", "d6/d8c/a05188.html#a68993c30cafb864abd5ae0c49ee8296e", null ],
+    [ "Init", "d6/d8c/a05188.html#aaa9c89da159b57a897898bc31e10ecd4", null ],
+    [ "UpdateData", "d6/d8c/a05188.html#ae350945f2713305e977e4a3e4fc3d5b5", null ],
+    [ "UpdateData", "d6/d8c/a05188.html#a4023480221891e0d1ccd7a92aabd173c", null ],
+    [ "_cipher", "d6/d8c/a05188.html#ab017c87cd73a9b5fade745799724c333", null ],
+    [ "_ctx", "d6/d8c/a05188.html#a8539413b1e0344abe9545f742cc8e6df", null ]
 ];

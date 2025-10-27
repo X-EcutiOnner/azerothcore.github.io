@@ -1,5 +1,5 @@
 var a28564 =
 [
-    [ "ByteBufferPositionException", "d9/da3/a28564.html#a6c2e31012a8ccf20d52c6431e024a576", null ],
-    [ "~ByteBufferPositionException", "d9/da3/a28564.html#aba8b7764a5517fa3e4a26d7ced1ad38f", null ]
+    [ "id", "d9/da3/a28564.html#a22e48015dd880199e131089e35b1ce05", null ],
+    [ "spellId", "d9/da3/a28564.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
 ];

@@ -1,6 +1,6 @@
 var a17876 =
 [
-    [ "UnboundPlagueTargetSelector", "df/d0c/a17876.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "df/d0c/a17876.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "df/d0c/a17876.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "IgbTeleportOnVictoryCheck", "df/d0c/a17876.html#a29ee8cac93b9920e598da9205406e608", null ],
+    [ "operator()", "df/d0c/a17876.html#acf85943e238179e911434358f1593be2", null ],
+    [ "_inst", "df/d0c/a17876.html#a015353ecb66da16c697152b7ad3c527e", null ]
 ];

@@ -1,13 +1,12 @@
 var a14104 =
 [
-    [ "npc_ohganAI", "da/d31/a14104.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
-    [ "JustDied", "da/d31/a14104.html#a89e506868e3191362545e34d21528b8f", null ],
-    [ "JustEngagedWith", "da/d31/a14104.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
-    [ "KilledUnit", "da/d31/a14104.html#a4e202eef928e54bd52160705bba5cc35", null ],
-    [ "Reset", "da/d31/a14104.html#ac3e1bc9dc819138741eb3b4448051547", null ],
-    [ "SetGUID", "da/d31/a14104.html#a5baf8e15902d4d8ff06c8410314327f6", null ],
-    [ "UpdateAI", "da/d31/a14104.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
-    [ "_scheduler", "da/d31/a14104.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
-    [ "instance", "da/d31/a14104.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
-    [ "reviveGUID", "da/d31/a14104.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
+    [ "npc_forest_frog", "da/d31/a14104.html#a6a5e24a11f8d2add6a3e9d71e2e647bb", null ],
+    [ "DoSpawnRandom", "da/d31/a14104.html#aac140826b8c4b7ce55925b5abeee936e", null ],
+    [ "JustEngagedWith", "da/d31/a14104.html#aa22c4eb7eb3a84db94ce8eb38afd18f5", null ],
+    [ "MovementInform", "da/d31/a14104.html#a8260157062b3e4ef48ad47b4f9bf66ac", null ],
+    [ "SpellHit", "da/d31/a14104.html#a9501955507e1f236bb48384928fd6a32", null ],
+    [ "UpdateAI", "da/d31/a14104.html#a5e6785d71bfb7f1d7b915723898a99fc", null ],
+    [ "eventTimer", "da/d31/a14104.html#ac6bf7433f79a9c2803072e7b5370a1c7", null ],
+    [ "instance", "da/d31/a14104.html#a6294f89eccdb9e5f9edbe8bccb164690", null ],
+    [ "PlayerGUID", "da/d31/a14104.html#a3544a83bb22e12d247e562ef32e378c0", null ]
 ];

@@ -1,6 +1,7 @@
 var a26020 =
 [
-    [ "HandleDummy", "dd/d62/a26020.html#a4fde3142b38989cb37db76da6eada03c", null ],
-    [ "PrepareSpellScript", "dd/d62/a26020.html#aa694a1a7cbbe0f20226d7e616e19cefb", null ],
-    [ "Register", "dd/d62/a26020.html#a1f83fae2fb3dc0904ed56101e1254f5f", null ]
+    [ "Load", "dd/d62/a26020.html#a8be944ae201f4f8406948aff78f982d9", null ],
+    [ "OnDummyEffect", "dd/d62/a26020.html#adcb707400963e549a295e115d6f3583b", null ],
+    [ "PrepareSpellScript", "dd/d62/a26020.html#a5b2175a933df10d775bc3381f515aa96", null ],
+    [ "Register", "dd/d62/a26020.html#a6e41bf15401c540887dd321e4b2cc7d3", null ]
 ];

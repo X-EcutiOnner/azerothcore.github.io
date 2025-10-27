@@ -1,8 +1,8 @@
 var a00458 =
 [
-    [ "ChaseRange", "d7/d52/a09975.html", "d7/d52/a09975" ],
-    [ "ChaseAngle", "df/df3/a09979.html", "df/df3/a09979" ],
-    [ "MotionMaster", "dc/ddc/a09983.html", "dc/ddc/a09983" ],
+    [ "ChaseRange", "dd/d38/a09976.html", "dd/d38/a09976" ],
+    [ "ChaseAngle", "dd/dee/a09980.html", "dd/dee/a09980" ],
+    [ "MotionMaster", "dc/d12/a09984.html", "dc/d12/a09984" ],
     [ "SPEED_CHARGE", "da/d65/a00458.html#a6386d0a4b64b17a25a60627bb55b360c", null ],
     [ "VISUAL_WAYPOINT", "da/d65/a00458.html#af0544189c7fc748059c3075861102b40", null ],
     [ "ForcedMovement", "da/d65/a00458.html#a7dcdc8a65ab93a3b1cb065bc34ce75d0", [
@@ -44,6 +44,10 @@ var a00458 =
       [ "MOTION_SLOT_ACTIVE", "da/d65/a00458.html#a42f80f4e5d95e3ba656adbee43cfc3f5a89ae2a485a626fc8f0ba275f61cc5fcc", null ],
       [ "MOTION_SLOT_CONTROLLED", "da/d65/a00458.html#a42f80f4e5d95e3ba656adbee43cfc3f5a4b14f4870ac324393280d0d554f9c41e", null ],
       [ "MAX_MOTION_SLOT", "da/d65/a00458.html#a42f80f4e5d95e3ba656adbee43cfc3f5a99e3f1c482d8a964a3613986a34658b5", null ]
+    ] ],
+    [ "PathSource", "da/d65/a00458.html#a7c48b62afc7f5aeede09278c110acbac", [
+      [ "WAYPOINT_MGR", "da/d65/a00458.html#a7c48b62afc7f5aeede09278c110acbaca0d6ed3fb744700ecd75c60dbb7e67bb7", null ],
+      [ "SMART_WAYPOINT_MGR", "da/d65/a00458.html#a7c48b62afc7f5aeede09278c110acbacaa9717883c14a449d4650b322fa5b7a0f", null ]
     ] ],
     [ "RotateDirection", "da/d65/a00458.html#a1978c8aa3f81d04079c45fe56aa51233", [
       [ "ROTATE_DIRECTION_LEFT", "da/d65/a00458.html#a1978c8aa3f81d04079c45fe56aa51233af0378f46d4f9f1521d769f7c1c046d6a", null ],

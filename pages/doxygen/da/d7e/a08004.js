@@ -1,7 +1,9 @@
 var a08004 =
 [
-    [ "ForcedDespawnDelayEvent", "da/d7e/a08004.html#ad3cf785f62ec0d7069493fee39227bc3", null ],
-    [ "Execute", "da/d7e/a08004.html#a735c709b269458911bd93da1902cbe25", null ],
-    [ "m_owner", "da/d7e/a08004.html#aa4fa09703f39ae8bbe0b7483a27d9cc3", null ],
-    [ "m_respawnTimer", "da/d7e/a08004.html#a5db78930a1fda07f2020b23158ebb93d", null ]
+    [ "cancelTime", "da/d7e/a08004.html#ac1d5edf075556c488aff36799ee6cb96", null ],
+    [ "dungeons", "da/d7e/a08004.html#a1e6c1deaf47dc835bbab7a1741a57fe2", null ],
+    [ "leader", "da/d7e/a08004.html#ad92b0bd391dae5f934b7d6f8a39351d8", null ],
+    [ "rDungeonId", "da/d7e/a08004.html#af07fdfed0b56211af723db06959013f6", null ],
+    [ "roles", "da/d7e/a08004.html#a3759dc8140194b09be842365dc0053d7", null ],
+    [ "state", "da/d7e/a08004.html#aa70ef2d83084359af7bcc9e2de60ce77", null ]
 ];

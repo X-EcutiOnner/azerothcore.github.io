@@ -1,6 +1,6 @@
 var a15688 =
 [
-    [ "npc_taskmaster_fizzuleAI", "d8/d7d/a15692.html", "d8/d7d/a15692" ],
-    [ "npc_taskmaster_fizzule", "d7/ddd/a15688.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
-    [ "GetAI", "d7/ddd/a15688.html#a6281de7424932fe6580ffefa199498d9", null ]
+    [ "npcs_riverbreeze_and_silversky", "d7/ddd/a15688.html#a9f012d5bbaa8b9f9822ddfbd86e7c4b2", null ],
+    [ "OnGossipHello", "d7/ddd/a15688.html#a7de032322a37f929c316aadfdadda768", null ],
+    [ "OnGossipSelect", "d7/ddd/a15688.html#a93c7b159dda733da5030de747bad30b5", null ]
 ];

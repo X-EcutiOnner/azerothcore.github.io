@@ -1,7 +1,6 @@
 var a19040 =
 [
-    [ "HandleScriptEffect", "df/d5b/a19040.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
-    [ "PrepareSpellScript", "df/d5b/a19040.html#a21a3175346c9b12c02205f2d33da3b86", null ],
-    [ "Register", "df/d5b/a19040.html#af5f279ad20e9153f201262eaa7615978", null ],
-    [ "Validate", "df/d5b/a19040.html#a635ff34619767f657778016e1eb901aa", null ]
+    [ "npc_icc_vengeful_fleshreaperAI", "da/dbd/a19044.html", "da/dbd/a19044" ],
+    [ "npc_icc_vengeful_fleshreaper", "df/d5b/a19040.html#aa95ec1e021f3d123e5a95c356765ac36", null ],
+    [ "GetAI", "df/d5b/a19040.html#abf1903616dbf52718313c8b404b504a5", null ]
 ];

@@ -1,8 +1,10 @@
 var a12608 =
 [
-    [ "npc_kernobeeAI", "d3/da7/a12608.html#a9dfc478b7da1bf33463e3653aea3c4da", null ],
-    [ "SetGUID", "d3/da7/a12608.html#a34999b470697ba0a27701facd63625f8", null ],
-    [ "UpdateAI", "d3/da7/a12608.html#ae99836a836234ad441d6ac97c60d7fc6", null ],
-    [ "checkTimer", "d3/da7/a12608.html#ae4731b5dd7b92d6989b0960d88e1dc35", null ],
-    [ "playerGUID", "d3/da7/a12608.html#aca1009b03ee24200f5dbad788ec5c5c8", null ]
+    [ "boss_golemaggAI", "d3/da7/a12608.html#a79e2416a55a1531316d891ebff4e5575", null ],
+    [ "DamageTaken", "d3/da7/a12608.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
+    [ "Reset", "d3/da7/a12608.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
+    [ "UpdateAI", "d3/da7/a12608.html#af7b322731241dbb08041a92cd355f273", null ],
+    [ "earthquakeTimer", "d3/da7/a12608.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
+    [ "enraged", "d3/da7/a12608.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
+    [ "pyroblastTimer", "d3/da7/a12608.html#a142ededff85d517c08744bdafd644c34", null ]
 ];

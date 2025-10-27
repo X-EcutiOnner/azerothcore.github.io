@@ -1,6 +1,6 @@
 var a25124 =
 [
-    [ "CheckRequirement", "db/dc3/a25124.html#a8a1367ad6c51a74e7cefbc2440eab697", null ],
-    [ "PrepareSpellScript", "db/dc3/a25124.html#a859ac50e6774471c232113e5c007f602", null ],
-    [ "Register", "db/dc3/a25124.html#aceafb7d6cfa300011935026f4d7ac491", null ]
+    [ "HandleScriptEffect", "db/dc3/a25124.html#a142d6a512ba6e937985a9c21725d8d33", null ],
+    [ "PrepareSpellScript", "db/dc3/a25124.html#af46fd8adaf8fef92984376ad6aa4f9a2", null ],
+    [ "Register", "db/dc3/a25124.html#a9cbf1c0678bd0775a452aa3270dff6a0", null ]
 ];

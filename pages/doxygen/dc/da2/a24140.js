@@ -1,6 +1,11 @@
 var a24140 =
 [
-    [ "npc_commander_dawnforgeAI", "d0/db3/a24144.html", "d0/db3/a24144" ],
-    [ "npc_commander_dawnforge", "dc/da2/a24140.html#ab4d430725f68f906e9c8def66b1d6646", null ],
-    [ "GetAI", "dc/da2/a24140.html#a6089b087b7c3b18659e23c677814318b", null ]
+    [ "boss_pathaleon_the_calculator", "dc/da2/a24140.html#a679dc3ccc23c6def44e0f0669822e146", null ],
+    [ "CanAIAttack", "dc/da2/a24140.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
+    [ "DoAction", "dc/da2/a24140.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
+    [ "JustDied", "dc/da2/a24140.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
+    [ "JustEngagedWith", "dc/da2/a24140.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
+    [ "KilledUnit", "dc/da2/a24140.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
+    [ "Reset", "dc/da2/a24140.html#adc48067c3656bf768c3013ff266565c0", null ],
+    [ "_isEnraged", "dc/da2/a24140.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
 ];

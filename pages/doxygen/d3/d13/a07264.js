@@ -1,5 +1,12 @@
 var a07264 =
 [
-    [ "CreateFilterByUserInput", "d3/d13/a07264.html#ae35ff456f56290032c4c62d252a83690", null ],
-    [ "ParseTypes", "d3/d13/a07264.html#a79a78392d31f1fbf3d8475572d570c1c", null ]
+    [ "Arena", "d3/d13/a07264.html#a74f105bc709d4728fb07f1984abfd345", null ],
+    [ "AddPlayer", "d3/d13/a07264.html#ae24fe304d35c0c09379203135e936450", null ],
+    [ "CheckWinConditions", "d3/d13/a07264.html#a886b586f7ab6fc89d76e86cb811989b8", null ],
+    [ "EndBattleground", "d3/d13/a07264.html#a2be61602189b530a16a9ca954d180914", null ],
+    [ "FillInitialWorldStates", "d3/d13/a07264.html#a592100d0f0ed492a5cdf941e57db787f", null ],
+    [ "HandleKillPlayer", "d3/d13/a07264.html#ae0a56f524bfc9eec6753874ce35d0466", null ],
+    [ "RemovePlayer", "d3/d13/a07264.html#ab5348b8bd4bfd58c01cdf61f16f72db1", null ],
+    [ "RemovePlayerAtLeave", "d3/d13/a07264.html#acae21233e11b21b612e5c051bfa7720e", null ],
+    [ "UpdateArenaWorldState", "d3/d13/a07264.html#a422925ee29e9a5f64aeb4264169ff2d6", null ]
 ];

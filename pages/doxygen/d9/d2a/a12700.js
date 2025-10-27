@@ -1,7 +1,6 @@
 var a12700 =
 [
-    [ "FilterTargets", "d9/d2a/a12700.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
-    [ "Load", "d9/d2a/a12700.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
-    [ "PrepareSpellScript", "d9/d2a/a12700.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
-    [ "Register", "d9/d2a/a12700.html#ae366530ddacf45a92eaa36be7e706a84", null ]
+    [ "npc_flamewaker_priestAI", "d0/dd4/a12704.html", "d0/dd4/a12704" ],
+    [ "npc_flamewaker_priest", "d9/d2a/a12700.html#a2ae4d75192f8ddc60d092b9a129e636e", null ],
+    [ "GetAI", "d9/d2a/a12700.html#a8a38c2c54ae8366496eb58145f75eac9", null ]
 ];

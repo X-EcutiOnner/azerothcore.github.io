@@ -1,8 +1,6 @@
 var a22344 =
 [
-    [ "npc_freed_protodrakeAI", "d6/d20/a22344.html#a9e80808035be749c87a1170f37ac3daf", null ],
-    [ "MovementInform", "d6/d20/a22344.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
-    [ "Reset", "d6/d20/a22344.html#ab5781438300442bb7bcb4510aec9d233", null ],
-    [ "UpdateAI", "d6/d20/a22344.html#a9e83b133444e977c35e90b700149472c", null ],
-    [ "events", "d6/d20/a22344.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
+    [ "npc_blessed_bannerAI", "d4/da8/a22348.html", "d4/da8/a22348" ],
+    [ "npc_blessed_banner", "d6/d20/a22344.html#a779a0c653088b2d206226e146a19101f", null ],
+    [ "GetAI", "d6/d20/a22344.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
 ];

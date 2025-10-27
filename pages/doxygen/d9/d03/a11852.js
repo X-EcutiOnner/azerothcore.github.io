@@ -1,17 +1,17 @@
 var a11852 =
 [
-    [ "boss_drektharAI", "d9/d03/a11852.html#a4cd7f817b3dfe457cb330e73316e18d1", null ],
-    [ "AttackStart", "d9/d03/a11852.html#a058d9683179756e49aa4e243d270105c", null ],
-    [ "EnterEvadeMode", "d9/d03/a11852.html#a7f8677796d1b9dbe7021c056252278d3", null ],
-    [ "JustEngagedWith", "d9/d03/a11852.html#aea7fad4bfdc14e5526a6620ee5d3ba2e", null ],
-    [ "JustRespawned", "d9/d03/a11852.html#aef244c80a915eaf4c1e0ff1c1080b18a", null ],
-    [ "Reset", "d9/d03/a11852.html#a87e1f67ae379360bc0843d7bb3cd0acb", null ],
-    [ "UpdateAI", "d9/d03/a11852.html#a79f1f0430496d2a1759ded7cca5cdef3", null ],
-    [ "Attacked", "d9/d03/a11852.html#a6a6b5b2b00e85231441f5a8a0213e5ec", null ],
-    [ "FrenzyTimer", "d9/d03/a11852.html#afd2d5fc6b7091fb019048d32a8b3631e", null ],
-    [ "KnockdownTimer", "d9/d03/a11852.html#a235912a2cb78bd10b6b3a45c51ee0cff", null ],
-    [ "ResetTimer", "d9/d03/a11852.html#a7d7b0a8d19d540e998db3b6e189cc16d", null ],
-    [ "Whirlwind2Timer", "d9/d03/a11852.html#a788359b7f2df1794dbff643d75b2c561", null ],
-    [ "WhirlwindTimer", "d9/d03/a11852.html#aef399775e552d7e80224fbb0c2f62aff", null ],
-    [ "YellTimer", "d9/d03/a11852.html#ad45ea624603c427fa5b3e40cd6ba7f5d", null ]
+    [ "gobject_commandscript", "d9/d03/a11852.html#a664ffe7aa07b1e08156545675ae5dc69", null ],
+    [ "GetCommands", "d9/d03/a11852.html#a75124102670615a7b3a0ecd457ab631a", null ],
+    [ "HandleGameObjectActivateCommand", "d9/d03/a11852.html#a2512dfca6b1ae8a2476551a02caa202a", null ],
+    [ "HandleGameObjectAddCommand", "d9/d03/a11852.html#a23717867956cc0da99e3640d2b790346", null ],
+    [ "HandleGameObjectAddTempCommand", "d9/d03/a11852.html#a49908d7c180d778c43702563add17d2d", null ],
+    [ "HandleGameObjectDeleteCommand", "d9/d03/a11852.html#a06ef45827cefcc19f748c5940dfb4b1d", null ],
+    [ "HandleGameObjectInfoCommand", "d9/d03/a11852.html#a1d6e3c850b0bc2772d3f1f09877d8a40", null ],
+    [ "HandleGameObjectMoveCommand", "d9/d03/a11852.html#a7098a5b0c94cb09b8c6fe08eba261d93", null ],
+    [ "HandleGameObjectNearCommand", "d9/d03/a11852.html#a156f293b3bf9c7439b62814ee8f27650", null ],
+    [ "HandleGameObjectRespawn", "d9/d03/a11852.html#aafed57aa556c8cdc0c380185b056d705", null ],
+    [ "HandleGameObjectSetPhaseCommand", "d9/d03/a11852.html#af2ac49c9fdd408be62dd4ee179c1142c", null ],
+    [ "HandleGameObjectSetStateCommand", "d9/d03/a11852.html#ae6d100f51d8b08e1576092eedc4db15f", null ],
+    [ "HandleGameObjectTargetCommand", "d9/d03/a11852.html#a11d33046310495c0a6d883a307c95632", null ],
+    [ "HandleGameObjectTurnCommand", "d9/d03/a11852.html#a75883394613b2c3501cd48f5334199b7", null ]
 ];

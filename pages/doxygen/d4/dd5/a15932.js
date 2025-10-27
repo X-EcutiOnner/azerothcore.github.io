@@ -1,6 +1,6 @@
 var a15932 =
 [
-    [ "HandleApplyAura", "d4/dd5/a15932.html#aeddfd61eab5aa077ca07a924ec491285", null ],
-    [ "PrepareSpellScript", "d4/dd5/a15932.html#ad53341842455d98722c03318dd80fb94", null ],
-    [ "Register", "d4/dd5/a15932.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
+    [ "npc_rivern_frostwind", "d4/dd5/a15932.html#a0675c120fc28b26c7ea3c35f8d3f2a64", null ],
+    [ "OnGossipHello", "d4/dd5/a15932.html#a90a6582633336de422c9f98973562b32", null ],
+    [ "OnGossipSelect", "d4/dd5/a15932.html#a067ff91179f551633594d488eda269ed", null ]
 ];

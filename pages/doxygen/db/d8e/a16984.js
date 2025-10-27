@@ -1,6 +1,6 @@
 var a16984 =
 [
-    [ "npc_hor_raging_ghoulAI", "d8/d79/a16988.html", "d8/d79/a16988" ],
-    [ "npc_hor_raging_ghoul", "db/d8e/a16984.html#ad2130edf27295719c46dde14deefe5a4", null ],
-    [ "GetAI", "db/d8e/a16984.html#ab29cebad1d54d14ecf21bbd215dc2f2d", null ]
+    [ "PrepareSpellScript", "db/d8e/a16984.html#a5ed268ac2642b2df3c5eb1dc93a675fc", null ],
+    [ "RecalculateDamage", "db/d8e/a16984.html#a3fae6ceaa67716004c664dd40a4679ed", null ],
+    [ "Register", "db/d8e/a16984.html#a1a740e697fc84f5f035f2ec251872009", null ]
 ];

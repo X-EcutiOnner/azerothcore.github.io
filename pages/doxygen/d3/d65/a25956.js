@@ -1,6 +1,7 @@
 var a25956 =
 [
-    [ "PrepareSpellScript", "d3/d65/a25956.html#a7099b8d28128cfea49288792ea02606c", null ],
-    [ "Register", "d3/d65/a25956.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
-    [ "UpdateTarget", "d3/d65/a25956.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
+    [ "HandleDummy", "d3/d65/a25956.html#ae1f9429b4e5b8965c65f246e03efbaf0", null ],
+    [ "PrepareSpellScript", "d3/d65/a25956.html#abde4e8528f1af9a595fb32741e397397", null ],
+    [ "Register", "d3/d65/a25956.html#a3f10fa7accb675d36560ef5bb6ccb84e", null ],
+    [ "Validate", "d3/d65/a25956.html#af1658e856195d22042de5beab1eec212", null ]
 ];

@@ -1,9 +1,8 @@
 var a20152 =
 [
-    [ "boss_freya_nature_bombAI", "dd/d4f/a20152.html#acbf4d330bb5bf4a032732895e8f7e35b", null ],
-    [ "Reset", "dd/d4f/a20152.html#a60738702870e2cacbcdf600e9e7073b5", null ],
-    [ "UpdateAI", "dd/d4f/a20152.html#a4bfa9df3e3151743485f59c4d318d7f9", null ],
-    [ "_explodeTimer", "dd/d4f/a20152.html#a2af9ed2067097eec2a647f17f8b1ef71", null ],
-    [ "_goGUID", "dd/d4f/a20152.html#a1a7579cc6957a52d65a1d302d5ba1da0", null ],
-    [ "Timer", "dd/d4f/a20152.html#a714a582c6ec552b969624244d709d14d", null ]
+    [ "FilterTargets", "dd/d4f/a20152.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
+    [ "HandleScript", "dd/d4f/a20152.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
+    [ "PrepareSpellScript", "dd/d4f/a20152.html#aea46762f43b31923617f740e0545fe98", null ],
+    [ "Register", "dd/d4f/a20152.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
+    [ "Validate", "dd/d4f/a20152.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
 ];

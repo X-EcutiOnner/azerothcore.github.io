@@ -1,6 +1,5 @@
 var a22760 =
 [
-    [ "HandleScriptEffect", "d2/d9c/a22760.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
-    [ "PrepareSpellScript", "d2/d9c/a22760.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
-    [ "Register", "d2/d9c/a22760.html#aad6959f74932db219e991efd3b3af44a", null ]
+    [ "OutdoorPvP_terokkar_forest", "d2/d9c/a22760.html#ac98a2b4c1dae9a8b75249eedeb7d8cb8", null ],
+    [ "GetOutdoorPvP", "d2/d9c/a22760.html#acf268293812d7a1a233e7f1fcba1e733", null ]
 ];

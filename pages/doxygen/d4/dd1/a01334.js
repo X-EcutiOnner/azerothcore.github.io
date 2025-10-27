@@ -1,4 +1,5 @@
 var a01334 =
 [
-    [ "ElunaScript", "d2/dc1/a10347.html", "d2/dc1/a10347" ]
+    [ "AreaTriggerScript", "db/def/a10296.html", "db/def/a10296" ],
+    [ "OnlyOnceAreaTriggerScript", "df/d24/a10300.html", "df/d24/a10300" ]
 ];

@@ -1,7 +1,5 @@
 var a12992 =
 [
-    [ "HandleEffectApply", "d9/da5/a12992.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "d9/da5/a12992.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "d9/da5/a12992.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "d9/da5/a12992.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "textid", "d9/da5/a12992.html#a7dac5c31d7df501f28eee3e1dec0523a", null ],
+    [ "timer", "d9/da5/a12992.html#ab7851f383e7221c6ff2700ee345d9504", null ]
 ];

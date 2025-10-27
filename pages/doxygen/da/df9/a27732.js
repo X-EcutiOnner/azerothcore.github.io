@@ -1,9 +1,8 @@
 var a27732 =
 [
-    [ "npc_herald_of_the_lich_king", "da/df9/a27732.html#a62e373796ce4e6509692e6837cdb561f", null ],
-    [ "ChangeZoneEventStatus", "da/df9/a27732.html#a30c44f2f62badd27b105a55527d40670", null ],
-    [ "DoAction", "da/df9/a27732.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
-    [ "InitializeAI", "da/df9/a27732.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
-    [ "UpdateAI", "da/df9/a27732.html#a21a5093a46959f4b69777b63de12c557", null ],
-    [ "UpdateWeather", "da/df9/a27732.html#a3c6d076171596c9ce472cddda18a42be", null ]
+    [ "npc_nelsonAI", "d4/df4/a27736.html", "d4/df4/a27736" ],
+    [ "npc_nelson", "da/df9/a27732.html#ada597926a6db1aa7823ddabc19945b11", null ],
+    [ "GetAI", "da/df9/a27732.html#a75fea281fb49249345c48236bf44b1c8", null ],
+    [ "OnGossipHello", "da/df9/a27732.html#aa693b365a15d4617f214f9c3c229bf89", null ],
+    [ "OnGossipSelect", "da/df9/a27732.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
 ];

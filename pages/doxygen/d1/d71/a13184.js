@@ -1,7 +1,7 @@
 var a13184 =
 [
-    [ "HandleScript", "d1/d71/a13184.html#ab705220b48be16090107135f9e2272cf", null ],
-    [ "PrepareSpellScript", "d1/d71/a13184.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
-    [ "Register", "d1/d71/a13184.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
-    [ "Validate", "d1/d71/a13184.html#ad1d90693a427a52fa728e5ae455932a3", null ]
+    [ "HandleEffectApply", "d1/d71/a13184.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
+    [ "PrepareAuraScript", "d1/d71/a13184.html#a9829789fe5544429454e29d228ce0daf", null ],
+    [ "Register", "d1/d71/a13184.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
+    [ "Validate", "d1/d71/a13184.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
 ];

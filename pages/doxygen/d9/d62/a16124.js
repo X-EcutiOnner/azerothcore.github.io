@@ -1,17 +1,11 @@
 var a16124 =
 [
-    [ "boss_halionAI", "d9/d62/a16124.html#a24d41b904ec24029887869622fbce0eb", null ],
-    [ "AttackStart", "d9/d62/a16124.html#acad91c2b1e7e02f9662cc3342f272ae7", null ],
-    [ "CanAIAttack", "d9/d62/a16124.html#ad15cd8d44cd1779f45cacb38caa08fe2", null ],
-    [ "DamageTaken", "d9/d62/a16124.html#a911c636113639690bb6304e2f6d55499", null ],
-    [ "EnterEvadeMode", "d9/d62/a16124.html#a20e451a26914adcee83e5fb77155c59d", null ],
-    [ "IsAnyPlayerValid", "d9/d62/a16124.html#a6681f94156a46c75960038ed1ed80543", null ],
-    [ "JustDied", "d9/d62/a16124.html#a483fbaf88780d0714ffaa47bea00cc5f", null ],
-    [ "JustEngagedWith", "d9/d62/a16124.html#a16f121b5c7f3f924dc0c11adb53ff79a", null ],
-    [ "JustSummoned", "d9/d62/a16124.html#a4fdf03de55fdd35ff849a82704ce7a3c", null ],
-    [ "KilledUnit", "d9/d62/a16124.html#ac45ac7ceb0b761e90deeffcea364ceea", null ],
-    [ "Reset", "d9/d62/a16124.html#aa8c06f8a1642534efb14941d9c0d9f14", null ],
-    [ "UpdateAI", "d9/d62/a16124.html#abe0faa976bb1b14102b940fac9526e5b", null ],
-    [ "_events2", "d9/d62/a16124.html#a677448e015db869b718e15b6809586cc", null ],
-    [ "_livingEmberCount", "d9/d62/a16124.html#af6af6482467f3a08fbe1c65f3b2b1552", null ]
+    [ "spell_hadronox_summon_periodic_aura", "d9/d62/a16124.html#afcca15cddf71c0d46bd811eab9174f1a", null ],
+    [ "HandlePeriodic", "d9/d62/a16124.html#a048695baf71d307e5aaa00e54586c9f7", null ],
+    [ "OnApply", "d9/d62/a16124.html#a4466547bc1a5259a33354f2008d6cce7", null ],
+    [ "PrepareAuraScript", "d9/d62/a16124.html#a4205560054e5baed86aecba3b98fc202", null ],
+    [ "Register", "d9/d62/a16124.html#a09efdcddaed4af2833139ca20ef94376", null ],
+    [ "Validate", "d9/d62/a16124.html#a20827683249c17625242e205bb51f9e8", null ],
+    [ "_delay", "d9/d62/a16124.html#a191d7eec948e0753835bd41eef66f1ec", null ],
+    [ "_spellEntry", "d9/d62/a16124.html#a52e45512e2bbe34b0bdbfaa273aeb997", null ]
 ];

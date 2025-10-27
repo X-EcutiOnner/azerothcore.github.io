@@ -1,13 +1,13 @@
 var a15328 =
 [
-    [ "instance_wailing_caverns_InstanceMapScript", "d5/db2/a15328.html#a47e596ca151268b9c3419ff2a2fffc1c", null ],
-    [ "GetData", "d5/db2/a15328.html#a17e62e8fe06617868baf85caedc3a0fc", null ],
-    [ "Initialize", "d5/db2/a15328.html#a870ab2322971767fa37986743b31d20c", null ],
-    [ "OnCreatureCreate", "d5/db2/a15328.html#aed3807432711105589d0b060a21836cc", null ],
-    [ "ReadSaveDataMore", "d5/db2/a15328.html#ad348102f71e070e7ef12da62238c7b0f", null ],
-    [ "SetData", "d5/db2/a15328.html#a0333b4728e9288937711174743f19f60", null ],
-    [ "WriteSaveDataMore", "d5/db2/a15328.html#a78bece51279e3f9e62800e4d80b00f64", null ],
-    [ "_encounters", "d5/db2/a15328.html#a0f049806007e59363418d4e39f9e389b", null ],
-    [ "DiscipleOfNaralexGUID", "d5/db2/a15328.html#affed3fb16f4e578fe86ae171e5b641d6", null ],
-    [ "SerpentisGUID", "d5/db2/a15328.html#a7ba205e4988a20404f5e597331dd5d56", null ]
+    [ "boss_cthun", "d5/db2/a15328.html#a287ee7b65708971e4fdfa7b814486935", null ],
+    [ "DoAction", "d5/db2/a15328.html#a04ae38b67d358f1d34820b855aab3869", null ],
+    [ "JustDied", "d5/db2/a15328.html#a3c6478e7de0e5a6f20f693a788bf8c86", null ],
+    [ "JustEngagedWith", "d5/db2/a15328.html#a56fe3347ac41b67fb6912f372a5879ba", null ],
+    [ "Reset", "d5/db2/a15328.html#a05bab8427cd4b4bfa50aee450e423f98", null ],
+    [ "ScheduleTasks", "d5/db2/a15328.html#a5a0514e56217bb3b30b22b2681542adb", null ],
+    [ "SummonedCreatureDies", "d5/db2/a15328.html#a49d76bb4cf30ee66fae6114313394961", null ],
+    [ "UpdateAI", "d5/db2/a15328.html#a7d2685597f1eec2459fe509e5b97681f", null ],
+    [ "_fleshTentaclesKilled", "d5/db2/a15328.html#a139de83ae488c40d40a4587509cd197d", null ],
+    [ "WisperTimer", "d5/db2/a15328.html#abad23f1df9c6989e7a6d3d62143adb05", null ]
 ];

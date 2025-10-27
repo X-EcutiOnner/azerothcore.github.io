@@ -1,6 +1,5 @@
 var a23844 =
 [
-    [ "AfterRemove", "da/d34/a23844.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "da/d34/a23844.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "da/d34/a23844.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "at_rp_nethekurse", "da/d34/a23844.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
+    [ "_OnTrigger", "da/d34/a23844.html#a93001d6dda7b2711f1efe100ffab5879", null ]
 ];

@@ -1,8 +1,7 @@
 var a16840 =
 [
-    [ "npc_fos_leaderAI", "d5/d88/a16844.html", "d5/d88/a16844" ],
-    [ "npc_fos_leader", "d0/d7a/a16840.html#a4223072bc180e990ff9e01bf772def5b", null ],
-    [ "GetAI", "d0/d7a/a16840.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
-    [ "OnGossipHello", "d0/d7a/a16840.html#a3858054505d439902624378b9355f40d", null ],
-    [ "OnGossipSelect", "d0/d7a/a16840.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
+    [ "HandleAfterEffectAbsorb", "d0/d7a/a16840.html#a6999f9cade8d00da15073c1e1b37d07b", null ],
+    [ "PrepareAuraScript", "d0/d7a/a16840.html#a2374af6552e5aca9dd01681d5ad06a83", null ],
+    [ "Register", "d0/d7a/a16840.html#a7478b0448cafc10d2b2498d2fdbd5afc", null ],
+    [ "Validate", "d0/d7a/a16840.html#a52154be21f31d69e7e9b10e57f8eeb05", null ]
 ];

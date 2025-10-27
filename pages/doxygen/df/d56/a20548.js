@@ -1,6 +1,7 @@
 var a20548 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "d8/d92/a20552.html", "d8/d92/a20552" ],
-    [ "npc_ulduar_emergency_fire_bot", "df/d56/a20548.html#a1adc05ac4602ab2b297b18f605bfd2cd", null ],
-    [ "GetAI", "df/d56/a20548.html#afb3ab952495175c5f571d4e39a5acea4", null ]
+    [ "FilterTargetsInitial", "df/d56/a20548.html#a5632307d9a1a89d530a63e71c8abad1c", null ],
+    [ "Load", "df/d56/a20548.html#a5467818535c6c7239e185d7c6c3bbd27", null ],
+    [ "PrepareSpellScript", "df/d56/a20548.html#a4d1e588557fa3fa432d4015fda930877", null ],
+    [ "Register", "df/d56/a20548.html#a0428375ddb89907e7f1728757d55d052", null ]
 ];

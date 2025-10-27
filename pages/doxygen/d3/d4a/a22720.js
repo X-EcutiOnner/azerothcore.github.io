@@ -1,7 +1,5 @@
 var a22720 =
 [
-    [ "npc_voidtraveler", "d3/d4a/a22720.html#a07e473c14836a0612acd52078a93f2d8", null ],
-    [ "Reset", "d3/d4a/a22720.html#a6efe0725917c92657220de2b60579289", null ],
-    [ "UpdateAI", "d3/d4a/a22720.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
-    [ "_scheduler", "d3/d4a/a22720.html#a1809494e7803103f6bc1698e780dcfbc", null ]
+    [ "OutdoorPvP_hellfire_peninsula", "d3/d4a/a22720.html#a8ef74076d03225c889c6f027fbbfe25d", null ],
+    [ "GetOutdoorPvP", "d3/d4a/a22720.html#aee93a8191457d7a264053809a5c082e8", null ]
 ];

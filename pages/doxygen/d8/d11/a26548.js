@@ -1,9 +1,9 @@
 var a26548 =
 [
-    [ "HandleKnockBack", "d8/d11/a26548.html#acaa8f445874270f34ea5b42a506671db", null ],
-    [ "HandleScript", "d8/d11/a26548.html#a29e47298601cb55c5442a3fa59bb3646", null ],
-    [ "Load", "d8/d11/a26548.html#a45700aba665b601b2c860af5a869d1af", null ],
-    [ "PrepareSpellScript", "d8/d11/a26548.html#aad1c175a2611152278d847ac59f93090", null ],
-    [ "Register", "d8/d11/a26548.html#ad790d435f422fabd128e601fb2dff103", null ],
-    [ "Validate", "d8/d11/a26548.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
+    [ "HandleAfterCast", "d8/d11/a26548.html#ac08e632064c407346649f525d030d335", null ],
+    [ "HandleDummy", "d8/d11/a26548.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
+    [ "Load", "d8/d11/a26548.html#a177525c755b036a79263c0fa6fa4082e", null ],
+    [ "PrepareSpellScript", "d8/d11/a26548.html#aed99b07a53068b19bddb4daff3449a52", null ],
+    [ "Register", "d8/d11/a26548.html#a946e56a325d83656d9b43af80d065e45", null ],
+    [ "_triggerSpellId", "d8/d11/a26548.html#a6697a22b684784853cb1999d41fcaaa7", null ]
 ];

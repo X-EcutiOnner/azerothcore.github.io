@@ -1,6 +1,5 @@
 var a25828 =
 [
-    [ "HandleDummy", "db/d61/a25828.html#ab146c4026bc8ad129bb3d421891d344b", null ],
-    [ "PrepareSpellScript", "db/d61/a25828.html#aa9743f357b9800ab2990fb584011b0a6", null ],
-    [ "Register", "db/d61/a25828.html#a3ca7b1dd1187fd39e362b3451b246a4c", null ]
+    [ "PrepareSpellScript", "db/d61/a25828.html#a64c8a9156181a78dfcb413eedc47f0ed", null ],
+    [ "Register", "db/d61/a25828.html#af8f8b5901a068bef3e2663809180b3e2", null ]
 ];

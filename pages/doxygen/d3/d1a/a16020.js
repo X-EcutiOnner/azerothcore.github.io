@@ -1,8 +1,7 @@
 var a16020 =
 [
-    [ "boss_sartharion_shadronAI", "d3/d1a/a16020.html#a02e2e657ac74ab37a4568589511de664", null ],
-    [ "ExecuteEvent", "d3/d1a/a16020.html#a6a26f1f777988be6eaf8b1a675bbbabb", null ],
-    [ "HandleExtraEvent", "d3/d1a/a16020.html#a3db5e816f6253f9c4251690bfbbe1912", null ],
-    [ "Reset", "d3/d1a/a16020.html#a7054cde1de2166c2b06489187115cb3f", null ],
-    [ "SummonedCreatureDies", "d3/d1a/a16020.html#a8b70b3b7287108ad13caeb85a83cf26f", null ]
+    [ "npc_ahnkahar_nerubian", "d3/d1a/a16020.html#ae18cdf09bae50751e266e95caf165f8e", null ],
+    [ "Reset", "d3/d1a/a16020.html#a387831015ec8e4bc65cff8c8550bb176", null ],
+    [ "UpdateAI", "d3/d1a/a16020.html#a9a773127e4f94bcdf142718355eae0e8", null ],
+    [ "uiSprintTimer", "d3/d1a/a16020.html#a27a6f57a6b145cc595896d1ad453064f", null ]
 ];

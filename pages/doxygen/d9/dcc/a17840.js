@@ -1,7 +1,7 @@
 var a17840 =
 [
-    [ "npc_coldflameAI", "d9/dcc/a17840.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
-    [ "IsSummonedBy", "d9/dcc/a17840.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
-    [ "UpdateAI", "d9/dcc/a17840.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
-    [ "events", "d9/dcc/a17840.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
+    [ "npc_gunship_rocketeerAI", "d9/dcc/a17840.html#aa9e722f32cd95fff8c72db5a41d0e84c", null ],
+    [ "CanAIAttack", "d9/dcc/a17840.html#a4b4e2839e426bdb752beea09394f13dc", null ],
+    [ "MovementInform", "d9/dcc/a17840.html#a7dd7f3625b177a96bcfdc5e46d944562", null ],
+    [ "UpdateAI", "d9/dcc/a17840.html#af73d71750f116fb90be1c2acba75ca70", null ]
 ];

@@ -1,5 +1,6 @@
 var a20640 =
 [
-    [ "achievement_quick_shave", "da/d89/a20640.html#a6c2f1e60d2311922abbaf7e22e1e9e4b", null ],
-    [ "OnCheck", "da/d89/a20640.html#a151c479da3d4cec05999ad8a249b100c", null ]
+    [ "npc_ulduar_magnetic_coreAI", "db/d97/a20644.html", "db/d97/a20644" ],
+    [ "npc_ulduar_magnetic_core", "da/d89/a20640.html#a788a1a6d3ec28c866d6b8cb112fe8071", null ],
+    [ "GetAI", "da/d89/a20640.html#a3adcc5c7650e2b016f02a1160c3fa6ab", null ]
 ];

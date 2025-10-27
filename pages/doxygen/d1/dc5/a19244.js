@@ -1,6 +1,6 @@
 var a19244 =
 [
-    [ "DespawnTime", "d1/dc5/a19244.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "d1/dc5/a19244.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "d1/dc5/a19244.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "boss_grobbulusAI", "dc/d1b/a19248.html", "dc/d1b/a19248" ],
+    [ "boss_grobbulus", "d1/dc5/a19244.html#acf1b781e86e33a363b68354d34d3c015", null ],
+    [ "GetAI", "d1/dc5/a19244.html#ae918614566a0b9979aef4e1aeaac394c", null ]
 ];

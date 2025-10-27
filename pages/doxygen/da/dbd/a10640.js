@@ -1,11 +1,7 @@
 var a10640 =
 [
-    [ "GuildSetRankPermissions", "da/dbd/a10640.html#a8b3fd3e4da77c6fb70db28721ec46714", null ],
-    [ "Read", "da/dbd/a10640.html#a534550862a3c634697e8277f31ad4c25", null ],
-    [ "Flags", "da/dbd/a10640.html#adea48131efa7c05b84c4de596933bfbe", null ],
-    [ "RankID", "da/dbd/a10640.html#a0c4a8b29918d69580c749e3b48485515", null ],
-    [ "RankName", "da/dbd/a10640.html#a24dde2aa8dd0ae1b9e8b37317334e0d4", null ],
-    [ "TabFlags", "da/dbd/a10640.html#af19e6fd8ddfe980f8c1f1110e9332bad", null ],
-    [ "TabWithdrawItemLimit", "da/dbd/a10640.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c", null ],
-    [ "WithdrawGoldLimit", "da/dbd/a10640.html#a1c02002facce05010028ac8dcae7fa3f", null ]
+    [ "Flags", "da/dbd/a10640.html#a46bfcae3e4788d6ea4e6ee71b8a16edd", null ],
+    [ "TabFlags", "da/dbd/a10640.html#af9c7b68d1bd48da88f65fa40a01ccc72", null ],
+    [ "TabWithdrawItemLimit", "da/dbd/a10640.html#af16392abbddf27a8b21fd21d998501e6", null ],
+    [ "WithdrawGoldLimit", "da/dbd/a10640.html#a3dc50115a24b686d3a2fa9e28a7042af", null ]
 ];

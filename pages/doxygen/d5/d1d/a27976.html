@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Member List</title>
+<title>AzerothCore: npc_pallid_horror::FlameshockerCheck Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('dd/db8/a27979.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('d5/d1d/a27976.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,19 +104,61 @@ $(document).ready(function(){initNavTree('dd/db8/a27979.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">npc_pallid_horror::FlameshockerCheck Member List</div></div>
+  <div class="summary">
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="../../dd/d55/a27973.html">List of all members</a>  </div>
+  <div class="headertitle"><div class="title">npc_pallid_horror::FlameshockerCheck Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:a76ede7ef27a41a284821e690c88375c9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d1d/a27976.html#a76ede7ef27a41a284821e690c88375c9">operator()</a> (<a class="el" href="../../d4/dfb/a08048.html">Creature</a> *creature)</td></tr>
+<tr class="separator:a76ede7ef27a41a284821e690c88375c9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a76ede7ef27a41a284821e690c88375c9" name="a76ede7ef27a41a284821e690c88375c9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a76ede7ef27a41a284821e690c88375c9">&#9670;&#160;</a></span>operator()()</h2>
 
-<p>This is the complete list of members for <a class="el" href="../../dd/db8/a27979.html">npc_pallid_horror::FlameshockerCheck</a>, including all inherited members.</p>
-<table class="directory">
-  <tr class="even"><td class="entry"><a class="el" href="../../dd/db8/a27979.html#a76ede7ef27a41a284821e690c88375c9">operator()</a>(Creature *creature)</td><td class="entry"><a class="el" href="../../dd/db8/a27979.html">npc_pallid_horror::FlameshockerCheck</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
-</table></div><!-- contents -->
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool npc_pallid_horror::FlameshockerCheck::operator() </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/dfb/a08048.html">Creature</a> *&#160;</td>
+          <td class="paramname"><em>creature</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  967</span>        {</div>
+<div class="line"><span class="lineno">  968</span>            <span class="keywordflow">return</span> !creature-&gt;<a class="code hl_function" href="../../d4/dfb/a08048.html#a32635b706d7ca7c3a97ef09f62635a52">IsCivilian</a>() &amp;&amp; creature-&gt;<a class="code hl_function" href="../../db/db6/a08416.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() != <a class="code hl_enumvalue" href="../../d6/d9d/a03917.html#ae7873ccf201443d53796a2237da26e1fa7ab11d72868a3375d471cec33a023fb2">NPC_FLAMESHOCKER</a>;</div>
+<div class="line"><span class="lineno">  969</span>        }</div>
+<div class="ttc" id="aa03917_html_ae7873ccf201443d53796a2237da26e1fa7ab11d72868a3375d471cec33a023fb2"><div class="ttname"><a href="../../d6/d9d/a03917.html#ae7873ccf201443d53796a2237da26e1fa7ab11d72868a3375d471cec33a023fb2">NPC_FLAMESHOCKER</a></div><div class="ttdeci">@ NPC_FLAMESHOCKER</div><div class="ttdef"><b>Definition:</b> scourge_invasion.h:221</div></div>
+<div class="ttc" id="aa08048_html_a32635b706d7ca7c3a97ef09f62635a52"><div class="ttname"><a href="../../d4/dfb/a08048.html#a32635b706d7ca7c3a97ef09f62635a52">Creature::IsCivilian</a></div><div class="ttdeci">bool IsCivilian() const</div><div class="ttdef"><b>Definition:</b> Creature.h:79</div></div>
+<div class="ttc" id="aa08416_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../db/db6/a08416.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition:</b> Object.h:116</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00116">Object::GetEntry()</a>, <a class="el" href="../../#l00079">Creature::IsCivilian()</a>, and <a class="el" href="../../#l00221">NPC_FLAMESHOCKER</a>.</p>
+
+</div>
+</div>
+</div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Oct 20 2025 20:47:58 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d6/dc5/a27972.html">npc_pallid_horror</a></li><li class="navelem"><a class="el" href="../../d5/d1d/a27976.html">FlameshockerCheck</a></li>
+    <li class="footer">Generated on Mon Oct 27 2025 21:15:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

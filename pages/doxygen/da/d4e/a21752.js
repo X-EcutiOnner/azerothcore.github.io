@@ -1,9 +1,10 @@
 var a21752 =
 [
-    [ "npc_minigob_manabonk", "da/d4e/a21752.html#aade5e005b68b25ede4e653629390ceb9", null ],
-    [ "Reset", "da/d4e/a21752.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
-    [ "SelectTargetInDalaran", "da/d4e/a21752.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
-    [ "SendMailToPlayer", "da/d4e/a21752.html#a1973b7885c9fce15aab9843722bf112e", null ],
-    [ "UpdateAI", "da/d4e/a21752.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
-    [ "playerGUID", "da/d4e/a21752.html#ac8dccd333691f717fdbffe22126330d5", null ]
+    [ "npc_imprisoned_beryl_sorcererAI", "da/d4e/a21752.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
+    [ "GotStinged", "da/d4e/a21752.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
+    [ "JustEngagedWith", "da/d4e/a21752.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
+    [ "Reset", "da/d4e/a21752.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
+    [ "SpellHit", "da/d4e/a21752.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
+    [ "UpdateAI", "da/d4e/a21752.html#a21def23073eeec051c1c97a813e0ea84", null ],
+    [ "rebuff", "da/d4e/a21752.html#ac83c25091fdd3c7876a88927b758261f", null ]
 ];

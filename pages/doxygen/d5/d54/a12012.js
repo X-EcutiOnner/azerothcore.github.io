@@ -1,6 +1,6 @@
 var a12012 =
 [
-    [ "boss_high_priestess_thaurissanAI", "d5/d54/a12012.html#acbc89b59865a5fda5a4143dd8c690b37", null ],
-    [ "JustEngagedWith", "d5/d54/a12012.html#a6602682950aab4e9932bf6cdfac9886b", null ],
-    [ "UpdateAI", "d5/d54/a12012.html#a216a5bc7a38aa5e13f9d025f44e04779", null ]
+    [ "boss_galvangarAI", "da/de8/a12016.html", "da/de8/a12016" ],
+    [ "boss_galvangar", "d5/d54/a12012.html#a3949cfd3c987bdf52d313568de9379ba", null ],
+    [ "GetAI", "d5/d54/a12012.html#a9fd978eb38ae3e2d8d65cf4214e673e3", null ]
 ];

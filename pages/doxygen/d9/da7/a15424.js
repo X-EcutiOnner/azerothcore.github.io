@@ -1,7 +1,7 @@
 var a15424 =
 [
-    [ "npc_kerlonianAI", "d5/dd1/a15428.html", "d5/dd1/a15428" ],
-    [ "npc_kerlonian", "d9/da7/a15424.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
-    [ "GetAI", "d9/da7/a15424.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
-    [ "OnQuestAccept", "d9/da7/a15424.html#a257d24295318605ac2fd5554315dfd63", null ]
+    [ "FilterTargets", "d9/da7/a15424.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
+    [ "HandleOnHit", "d9/da7/a15424.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
+    [ "PrepareSpellScript", "d9/da7/a15424.html#ad7372e543391a23c003b4121e0dd8a09", null ],
+    [ "Register", "d9/da7/a15424.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
 ];

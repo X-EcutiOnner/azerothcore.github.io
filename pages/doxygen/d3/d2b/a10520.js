@@ -1,6 +1,6 @@
 var a10520 =
 [
-    [ "PlayedTimeClient", "d3/d2b/a10520.html#a1c82d4d153606da9887d64599f319883", null ],
-    [ "Read", "d3/d2b/a10520.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3", null ],
-    [ "TriggerScriptEvent", "d3/d2b/a10520.html#a092b32f76df529a4f1284d7231b8fc6b", null ]
+    [ "BuyBankSlot", "d3/d2b/a10520.html#a0bc11087e9359c6ac762f915b11287d8", null ],
+    [ "Read", "d3/d2b/a10520.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
+    [ "Banker", "d3/d2b/a10520.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
 ];

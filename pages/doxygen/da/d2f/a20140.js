@@ -1,6 +1,8 @@
 var a20140 =
 [
-    [ "boss_freya_summonsAI", "d6/d35/a20144.html", "d6/d35/a20144" ],
-    [ "boss_freya_summons", "da/d2f/a20140.html#a3445ed89967cc9a610472f18e862ecd4", null ],
-    [ "GetAI", "da/d2f/a20140.html#ac68f231c37c61d262d6c16bc87a0f1c7", null ]
+    [ "npc_mechanoliftAI", "da/d2f/a20140.html#ad772427e03c2bd2c3a51556b6e5968b5", null ],
+    [ "Reset", "da/d2f/a20140.html#a8198e7db2c6f4f2ceec984cfd53982b1", null ],
+    [ "UpdateAI", "da/d2f/a20140.html#a3f8634abde6b3aa00acf03c77df433be", null ],
+    [ "_evadeTimer", "da/d2f/a20140.html#a53da6899ad0dcea569ca29f57e45bf61", null ],
+    [ "_startTimer", "da/d2f/a20140.html#a9b1587bbadd8f0044e1d404d55b8ba1f", null ]
 ];

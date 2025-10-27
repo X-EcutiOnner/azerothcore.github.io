@@ -1,8 +1,7 @@
 var a21124 =
 [
-    [ "boss_keleseth", "de/d5d/a21124.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
-    [ "AttackStart", "de/d5d/a21124.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
-    [ "JustDied", "de/d5d/a21124.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
-    [ "JustEngagedWith", "de/d5d/a21124.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
-    [ "KilledUnit", "de/d5d/a21124.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
+    [ "OnApply", "de/d5d/a21124.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
+    [ "OnRemove", "de/d5d/a21124.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
+    [ "PrepareAuraScript", "de/d5d/a21124.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
+    [ "Register", "de/d5d/a21124.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
 ];

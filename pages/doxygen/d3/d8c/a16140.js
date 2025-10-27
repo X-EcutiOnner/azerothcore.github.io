@@ -1,14 +1,17 @@
 var a16140 =
 [
-    [ "npc_halion_controllerAI", "d3/d8c/a16140.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
-    [ "DoAction", "d3/d8c/a16140.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
-    [ "Reset", "d3/d8c/a16140.html#a3004aecb50815287d5f832f2a8a0d250", null ],
-    [ "SetData", "d3/d8c/a16140.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
-    [ "UpdateAI", "d3/d8c/a16140.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
-    [ "UpdateCorporeality", "d3/d8c/a16140.html#ac82987f2b2b069b90c509c477004bae6", null ],
-    [ "_corporeality", "d3/d8c/a16140.html#a4c23df1bb774ac724bdf537453592671", null ],
-    [ "_events", "d3/d8c/a16140.html#a92e3f116260265a2d0dbeef769eee03e", null ],
-    [ "_instance", "d3/d8c/a16140.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
-    [ "_materialDamage", "d3/d8c/a16140.html#afcc510b0d4be10ed057d1a304b803b69", null ],
-    [ "_twilightDamage", "d3/d8c/a16140.html#a13a9efcb11ed31725c45011508407287", null ]
+    [ "boss_krik_thirAI", "d3/d8c/a16140.html#a92a2b2089c890901cd438c8d8ea432c7", null ],
+    [ "DoAction", "d3/d8c/a16140.html#af62b22ef531ee79805e80f2ee54af473", null ],
+    [ "GetData", "d3/d8c/a16140.html#adcca5f21a596ffae3c50f102c4698c4e", null ],
+    [ "IsInFrenzy", "d3/d8c/a16140.html#a9b8453fcfe57b9a87749529002d3879a", null ],
+    [ "JustDied", "d3/d8c/a16140.html#ab4a576f9746f7ade8f6b8f8c08795433", null ],
+    [ "JustEngagedWith", "d3/d8c/a16140.html#aa99c241641fc7e94412d08bebed07475", null ],
+    [ "JustSummoned", "d3/d8c/a16140.html#afff556f4bc00b87b3d2a37ffbf54c919", null ],
+    [ "KilledUnit", "d3/d8c/a16140.html#aad554ec61a0c6ad9cedf6d7d1b33ed1d", null ],
+    [ "MoveInLineOfSight", "d3/d8c/a16140.html#a6c72cebac0e09f66bf0a60cdc328aa4d", null ],
+    [ "Reset", "d3/d8c/a16140.html#a613441fcb7bd851a03729be84d27650c", null ],
+    [ "SummonedCreatureDies", "d3/d8c/a16140.html#acb7b45fbe3a736ad65b0a2556ead40ae", null ],
+    [ "_canTalk", "d3/d8c/a16140.html#a6031d8dd33d1f1a312bf5212b34d2bd0", null ],
+    [ "_initTalk", "d3/d8c/a16140.html#a68a4994c750979b91e46160b0cba77b4", null ],
+    [ "_minionInCombat", "d3/d8c/a16140.html#ac07e8e45693b3239bc061e5500880833", null ]
 ];

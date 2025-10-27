@@ -1,6 +1,6 @@
 var a27384 =
 [
-    [ "go_soulwellAI", "dc/da9/a27388.html", "dc/da9/a27388" ],
-    [ "go_soulwell", "d5/db6/a27384.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
-    [ "GetAI", "d5/db6/a27384.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
+    [ "npc_spirit_shadeAI", "dc/da9/a27388.html", "dc/da9/a27388" ],
+    [ "npc_spirit_shade", "d5/db6/a27384.html#a891ede5651789274496d6426daf9937d", null ],
+    [ "GetAI", "d5/db6/a27384.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
 ];

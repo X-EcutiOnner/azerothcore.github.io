@@ -1,10 +1,12 @@
 var a28836 =
 [
-    [ "ADTFile", "dc/d09/a28836.html#a763f0f9c1106700987797864b2fdb006", null ],
-    [ "~ADTFile", "dc/d09/a28836.html#ad1533f5b630a70b6ff95861e64960de0", null ],
-    [ "init", "dc/d09/a28836.html#ab9ba3b1a2aac611bec5bfe4a454e4042", null ],
-    [ "_file", "dc/d09/a28836.html#a7f3071e63be08fe3288d5ab03b5b8acf", null ],
-    [ "Adtfilename", "dc/d09/a28836.html#a07c82112e26b96a87e22f1c7bec9c72e", null ],
-    [ "ModelInstanceNames", "dc/d09/a28836.html#a6601e20fed78c54bb281ad3bd0ce7800", null ],
-    [ "WmoInstanceNames", "dc/d09/a28836.html#acd96c287a01828bf3e49fb599a3b5d81", null ]
+    [ "TestVisibilityScript", "dc/d09/a28836.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
+    [ "EnsureRegistered", "dc/d09/a28836.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
+    [ "OnPlayerSetServerSideVisibility", "dc/d09/a28836.html#a6b3701188303b644b28a52ec42bec846", null ],
+    [ "Reset", "dc/d09/a28836.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
+    [ "CallCount", "dc/d09/a28836.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
+    [ "Instance", "dc/d09/a28836.html#adcf0326aa1e32db109ec920857868138", null ],
+    [ "LastPlayer", "dc/d09/a28836.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
+    [ "LastSecurity", "dc/d09/a28836.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
+    [ "LastType", "dc/d09/a28836.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
 ];

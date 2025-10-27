@@ -1,20 +1,12 @@
 var a12772 =
 [
-    [ "boss_julianne", "de/d3a/a12772.html#a6433d08be0d5562e876e00225ebf7398", null ],
-    [ "DamageTaken", "de/d3a/a12772.html#a8ff7675405322c2d55bd01cec340f6b8", null ],
-    [ "DoAction", "de/d3a/a12772.html#a985c9c1f77b2769461bf42ddaab302d3", null ],
-    [ "EnterEvadeMode", "de/d3a/a12772.html#af2499ba9d9c25555c82d8d7ae95c7249", null ],
-    [ "JustDied", "de/d3a/a12772.html#abdfaf6fa147c6b35bed28bb2e3ed3c14", null ],
-    [ "JustEngagedWith", "de/d3a/a12772.html#a6c5bd97ad402cc5f5dcda421c5d2bad1", null ],
-    [ "JustReachedHome", "de/d3a/a12772.html#a6bda02d5534b9087741ee7146ec314b5", null ],
-    [ "KilledUnit", "de/d3a/a12772.html#a7430fb4f315ee5dcf5f9c49b2daa66b0", null ],
-    [ "Reset", "de/d3a/a12772.html#a1047e28950098b35bd8a8fc5bec4ed26", null ],
-    [ "ScheduleCombat", "de/d3a/a12772.html#ab0939f8fe0fc34cafbe2dab4ef449895", null ],
-    [ "SpellHit", "de/d3a/a12772.html#a1e142c56a514640dab0d5d7711085f9d", null ],
-    [ "UpdateAI", "de/d3a/a12772.html#ad1e1d5bb27fed12a203c8b10f6ea92a6", null ],
-    [ "_scheduler", "de/d3a/a12772.html#aae4be9b1035626ecc9ad2f3e5b918cbe", null ],
-    [ "instance", "de/d3a/a12772.html#acdc787ba6908e716517683a8536ecf3e", null ],
-    [ "isFakingDeath", "de/d3a/a12772.html#a7a1b3b2ead47a49e80f9ba2b49144a91", null ],
-    [ "phase", "de/d3a/a12772.html#a5b0b680916cd38b2e20a6a1b1a530362", null ],
-    [ "summonedRomulo", "de/d3a/a12772.html#a6938adccd5c781df04dabe6d860f9357", null ]
+    [ "BoardCell", "de/d3a/a12772.html#a1ecd0d14c1b4896f70caaee83e1c864d", null ],
+    [ "Reset", "de/d3a/a12772.html#a22a71e9bd4a4dd9601aa0fffe978009c", null ],
+    [ "SetData", "de/d3a/a12772.html#a0e57e888290cbe15b5dafa9788c3f86b", null ],
+    [ "SetPiece", "de/d3a/a12772.html#ac919854a2e9d5fc2d1b68960e16cf79d", null ],
+    [ "col", "de/d3a/a12772.html#a49707efa5b356ad0dc6f6ff16a652430", null ],
+    [ "pieceEntry", "de/d3a/a12772.html#a7697506ccc800d38968e457c44bfa019", null ],
+    [ "pieceGUID", "de/d3a/a12772.html#a74f494e406c56d4c61d79539acea684c", null ],
+    [ "row", "de/d3a/a12772.html#a195c187e134be546f224cbb0eef8c844", null ],
+    [ "triggerGUID", "de/d3a/a12772.html#a9cafdea50739b014a97e60611adcd3f1", null ]
 ];

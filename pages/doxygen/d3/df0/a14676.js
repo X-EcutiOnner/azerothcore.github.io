@@ -1,9 +1,15 @@
 var a14676 =
 [
-    [ "boss_azgalor", "d3/df0/a14676.html#ac794e0eacc2d543fa62e4b521089f080", null ],
-    [ "DoAction", "d3/df0/a14676.html#a43d7afa9da1375f431df871e2a1dfff2", null ],
-    [ "JustDied", "d3/df0/a14676.html#a49cc8abf458f82ad7d46c9c1563f0e98", null ],
-    [ "JustEngagedWith", "d3/df0/a14676.html#a4b067c3bccbd5f9c96c50d009250d3d0", null ],
-    [ "KilledUnit", "d3/df0/a14676.html#a04df1058e89ccc6e7ef2d1dff38d47e7", null ],
-    [ "_recentlySpoken", "d3/df0/a14676.html#abea34396ddde0aa02a073b2f3119fec9", null ]
+    [ "npc_midsummer_bonfire", "d3/df0/a14676.html#a07c8b1add555697fdb29fda89f42c4af", null ],
+    [ "Ignite", "d3/df0/a14676.html#a2a398299b3584e3a871b1b6e83b4ff5f", null ],
+    [ "InitBonfire", "d3/df0/a14676.html#a9210a0a472d609f66895bfa0a8e324b0", null ],
+    [ "SpellHit", "d3/df0/a14676.html#a9ad2102b2dea60fbb81c1578b97f34dc", null ],
+    [ "StampOut", "d3/df0/a14676.html#a1f8bd11d0f49c0a44764a2f34e6ee147", null ],
+    [ "UpdateAI", "d3/df0/a14676.html#a46733a171006e4693a32391cfe954050", null ],
+    [ "UpdateBonfireBlessingBuffs", "d3/df0/a14676.html#a1236b61f21ff1a1b85bbc7058ca8e17c", null ],
+    [ "_bonfire", "d3/df0/a14676.html#aaa2f2822cb5c104ec2d90c2a344b409d", null ],
+    [ "_isStampedOut", "d3/df0/a14676.html#aa21c9f7a5d7ac29663d94da55ef34373", null ],
+    [ "_spellFocus", "d3/df0/a14676.html#abef815568f7d39bbda20f9611e3abc52", null ],
+    [ "_teamId", "d3/df0/a14676.html#a5c0894721d13dd49961c0687c100d7a5", null ],
+    [ "_type", "d3/df0/a14676.html#a7c26b81f24dc2fc0ed9fc53d1d5935f5", null ]
 ];

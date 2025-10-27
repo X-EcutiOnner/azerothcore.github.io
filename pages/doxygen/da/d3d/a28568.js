@@ -1,5 +1,5 @@
 var a28568 =
 [
-    [ "ByteBufferSourceException", "da/d3d/a28568.html#ad021dff8a62dfc170ef0233294b707f6", null ],
-    [ "~ByteBufferSourceException", "da/d3d/a28568.html#afaf57c545141703ffbe696cfbee6de0f", null ]
+    [ "Id", "da/d3d/a28568.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
+    [ "PowerType", "da/d3d/a28568.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
 ];

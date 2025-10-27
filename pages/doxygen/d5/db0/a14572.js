@@ -1,7 +1,6 @@
 var a14572 =
 [
-    [ "GetVisualThrow", "d5/db0/a14572.html#afe59e0c21eaa06e2b1d614613b1d2f73", null ],
-    [ "HandleDummy", "d5/db0/a14572.html#adca1aacf89dcf452f1c98cae97f09690", null ],
-    [ "PrepareSpellScript", "d5/db0/a14572.html#a642f2d3992e7e3a4393d2b0c6b521597", null ],
-    [ "Register", "d5/db0/a14572.html#a68a6e9b307500a56e66bc19c41daf9dc", null ]
+    [ "HandleScript", "d5/db0/a14572.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
+    [ "PrepareSpellScript", "d5/db0/a14572.html#aab4303fff660c68db100e07a4423c39b", null ],
+    [ "Register", "d5/db0/a14572.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
 ];

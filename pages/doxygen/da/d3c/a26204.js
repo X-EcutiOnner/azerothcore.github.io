@@ -1,6 +1,9 @@
 var a26204 =
 [
-    [ "CheckCast", "da/d3c/a26204.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
-    [ "PrepareSpellScript", "da/d3c/a26204.html#a33e86d770e926247c58c00143b55c418", null ],
-    [ "Register", "da/d3c/a26204.html#a453c7fa25baf458c9a319053ca726621", null ]
+    [ "HandleAfterCast", "da/d3c/a26204.html#afd2fbc51ac1e99789994021af36688f3", null ],
+    [ "HandleTriggerSpell", "da/d3c/a26204.html#ae140ab00101f081454b55e12a7c54440", null ],
+    [ "Load", "da/d3c/a26204.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
+    [ "PrepareSpellScript", "da/d3c/a26204.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
+    [ "Register", "da/d3c/a26204.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
+    [ "_triggerSpellId", "da/d3c/a26204.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
 ];

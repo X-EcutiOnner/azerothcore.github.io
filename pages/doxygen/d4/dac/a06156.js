@@ -1,10 +1,8 @@
 var a06156 =
 [
-    [ "PowerUsersSelector", "d4/dac/a06156.html#aa13229f12601a551a34628b92c0eddf3", null ],
-    [ "operator()", "d4/dac/a06156.html#ac93e678f198787fd6691e0bb8d63d6e3", null ],
-    [ "_dist", "d4/dac/a06156.html#a1c63646bffb486c51ca07e0f8a70dd59", null ],
-    [ "_me", "d4/dac/a06156.html#a7f6dda10c26982d9633fae57b64af7ef", null ],
-    [ "_playerOnly", "d4/dac/a06156.html#aea809984a6dd46c22f414e44c9794309", null ],
-    [ "_power", "d4/dac/a06156.html#a9a518903606768e505e7230fe9344bbf", null ],
-    [ "_withTank", "d4/dac/a06156.html#a0b682b6d926ced8eecff642a4bb51756", null ]
+    [ "PassiveAI", "d4/dac/a06156.html#ad1ae1c9e8a101dabd89aeed5c71eb453", null ],
+    [ "AttackStart", "d4/dac/a06156.html#ac2aeba8cb148659de1ef97733fbb0651", null ],
+    [ "MoveInLineOfSight", "d4/dac/a06156.html#a3a54c7d7268b8c2f4e081a99b4b0cd11", null ],
+    [ "Permissible", "d4/dac/a06156.html#a2960223799a5b3baedbdd7e664604865", null ],
+    [ "UpdateAI", "d4/dac/a06156.html#ae8aa0cf612d23e5b9438e3f2b443f3d9", null ]
 ];

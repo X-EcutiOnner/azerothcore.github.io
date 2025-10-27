@@ -1,8 +1,5 @@
 var a05372 =
 [
-    [ "LogOperation", "db/d40/a05372.html#a19e5e4731bd71697876110348f86d737", null ],
-    [ "~LogOperation", "db/d40/a05372.html#aae305e293044badac1a628edd501ed35", null ],
-    [ "call", "db/d40/a05372.html#a966a4bfb45430860fa5be56fe8b48f79", null ],
-    [ "logger", "db/d40/a05372.html#af1d8611d116a3575e59a99e8cba5fc84", null ],
-    [ "msg", "db/d40/a05372.html#a665effc48367f396f3e714f5d3d56d75", null ]
+    [ "Decode", "db/d40/a05372.html#a9c18a834b227a8f60104100bd5c47df5", null ],
+    [ "Encode", "db/d40/a05372.html#a2b0f76655d4e56d8a7aa9a98de87f6cf", null ]
 ];

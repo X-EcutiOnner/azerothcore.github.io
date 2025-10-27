@@ -1,6 +1,5 @@
 var a20440 =
 [
-    [ "OnPeriodic", "d8/d26/a20440.html#a8a12342f694499043e8ed4446fd92d36", null ],
-    [ "PrepareAuraScript", "d8/d26/a20440.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
-    [ "Register", "d8/d26/a20440.html#a381709d53101832de6b2161c4a33a0d4", null ]
+    [ "FlashFreezeCheck", "d8/d26/a20440.html#a47d07a686a7c74dc8914a98762b16fe3", null ],
+    [ "operator()", "d8/d26/a20440.html#a87475dc9e2f1b0eb508e9f56aa5c1e2f", null ]
 ];

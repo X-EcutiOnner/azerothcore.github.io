@@ -1,6 +1,8 @@
 var a25248 =
 [
-    [ "CalculateAmount", "df/de0/a25248.html#a0522f4bf54b4a71df4e09f97a28fda45", null ],
-    [ "PrepareAuraScript", "df/de0/a25248.html#acf699e467734499dd992f401da38cf88", null ],
-    [ "Register", "df/de0/a25248.html#a6e6396a162a532ff25b9bd7c551f05d8", null ]
+    [ "OnApply", "df/de0/a25248.html#a6aa83e925a93dc7ff89c0357debc75d1", null ],
+    [ "OnRemove", "df/de0/a25248.html#a3ced5941c25fce087699aa095cd487c9", null ],
+    [ "PrepareAuraScript", "df/de0/a25248.html#a497776c6ffdda8670fa255b76057bf2c", null ],
+    [ "Register", "df/de0/a25248.html#ac05f2898ebbb78bf55d70d8a660fb22d", null ],
+    [ "Validate", "df/de0/a25248.html#a44fc9ff07b9db5b2a1263d244916c79f", null ]
 ];

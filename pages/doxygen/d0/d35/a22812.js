@@ -1,7 +1,6 @@
 var a22812 =
 [
-    [ "OnPeriodic", "d0/d35/a22812.html#aa5d2f7530277a6a4d4a85ec5d244b9bc", null ],
-    [ "PrepareAuraScript", "d0/d35/a22812.html#a973ccf17f6499bc84306a18b07fcef7b", null ],
-    [ "Register", "d0/d35/a22812.html#a07b3b1df6626a9fb657270eb1d9f386a", null ],
-    [ "Validate", "d0/d35/a22812.html#a006d67e9e82cce68930b90b00d3555a4", null ]
+    [ "instance_auchenai_crypts_InstanceMapScript", "d4/dea/a22816.html", "d4/dea/a22816" ],
+    [ "instance_auchenai_crypts", "d0/d35/a22812.html#a8b16924167c54a9d8120bac67bc10fed", null ],
+    [ "GetInstanceScript", "d0/d35/a22812.html#a99e47df95fde07d4a6e7687634805b93", null ]
 ];

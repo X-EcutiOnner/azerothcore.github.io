@@ -1,12 +1,15 @@
 var a21596 =
 [
-    [ "npc_beryl_sorcererAI", "dc/ddf/a21596.html#a8f99f5f2ad6ccb1b068a86904bb1b864", null ],
-    [ "Initialize", "dc/ddf/a21596.html#a40400e4e993d20d9bbe4faf063102521", null ],
-    [ "JustEngagedWith", "dc/ddf/a21596.html#afae877e8dac583c9420d214f77c2b438", null ],
-    [ "Reset", "dc/ddf/a21596.html#a17a16337c09013483c58cae38576d969", null ],
-    [ "SpellHit", "dc/ddf/a21596.html#a762ee3ae8df3757279821af13101e0be", null ],
-    [ "UpdateAI", "dc/ddf/a21596.html#a42ec665b06988d13be6cbee646afc898", null ],
-    [ "_chainsCast", "dc/ddf/a21596.html#ab6238d539b10a7db9191bdc685ea67eb", null ],
-    [ "_events", "dc/ddf/a21596.html#ac640099ca01ae2183b84ae9ee3407cc1", null ],
-    [ "_playerGUID", "dc/ddf/a21596.html#a96f9b39c09b7a5fb484ae9069412751f", null ]
+    [ "npc_vh_teleportation_portalAI", "dc/ddf/a21596.html#a9d062de34e4fbc8ccc487a633efa038d", null ],
+    [ "JustDied", "dc/ddf/a21596.html#aab2cc259d78492c54e21b4279697f909", null ],
+    [ "JustSummoned", "dc/ddf/a21596.html#a029b105ef6f92455c41e064aeb0fd5f6", null ],
+    [ "SummonedMobDied", "dc/ddf/a21596.html#ae6b5b15aeee2f7b02d5c54dd8d09aa51", null ],
+    [ "UpdateAI", "dc/ddf/a21596.html#a812e330e20924cc34262363ecc0a3fc1", null ],
+    [ "addValue", "dc/ddf/a21596.html#aa52f29a41d12320516737b437af62fc3", null ],
+    [ "bKorG", "dc/ddf/a21596.html#ad96efd06ebb1902cc30deb22e62d7873", null ],
+    [ "events", "dc/ddf/a21596.html#a329635246e80e7264cad6749ee70be40", null ],
+    [ "listOfMobs", "dc/ddf/a21596.html#a470a61cf7d424711b07770fd56c74b29", null ],
+    [ "pInstance", "dc/ddf/a21596.html#a10ebe705c55d898bfea2af104ce7f86e", null ],
+    [ "spawned", "dc/ddf/a21596.html#a8921c314c2f4b958e11136504971f427", null ],
+    [ "wave", "dc/ddf/a21596.html#a4dd689e6445e18c3e9883bc471fecdde", null ]
 ];

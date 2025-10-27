@@ -1,5 +1,5 @@
 var a12364 =
 [
-    [ "go_orb_of_domination", "d5/d57/a12364.html#a1d4659e21344a12ec6084ef7ef5df7d0", null ],
-    [ "OnGossipHello", "d5/d57/a12364.html#aa88cebf1bd539b55cf63f10a25cc1bbb", null ]
+    [ "at_blackrock_stadium", "d5/d57/a12364.html#a9f577437f231a189c02e50e71ffcb85a", null ],
+    [ "OnTrigger", "d5/d57/a12364.html#a26e43099d9253ea44060194e3b38c656", null ]
 ];

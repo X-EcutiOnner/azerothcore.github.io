@@ -1,10 +1,14 @@
 var a11408 =
 [
-    [ "CustomChatTextBuilder", "d8/d5e/a11408.html#a47b3e24f7100d13180ad1946647999ae", null ],
-    [ "operator()", "d8/d5e/a11408.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
-    [ "_language", "d8/d5e/a11408.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
-    [ "_msgType", "d8/d5e/a11408.html#a0db1501da33fde77ab3c50943666b1fd", null ],
-    [ "_source", "d8/d5e/a11408.html#ad75f22d7eb6a62d59730918f4336768c", null ],
-    [ "_target", "d8/d5e/a11408.html#aa45be322836be588d8df2b253a22ee5c", null ],
-    [ "_text", "d8/d5e/a11408.html#ab59c9b938b564329483e38466169a92c", null ]
+    [ "IsFitToRequirements", "d8/d5e/a11408.html#af1585273701356a591bf9d9483e996a3", null ],
+    [ "areaId", "d8/d5e/a11408.html#af7e6f7b027388447a1f99e759975ca09", null ],
+    [ "auraSpell", "d8/d5e/a11408.html#adaf2f6f7c56701fe42a2674aca74fba0", null ],
+    [ "autocast", "d8/d5e/a11408.html#a38b42b82e4a588e102eb393cc907cd27", null ],
+    [ "gender", "d8/d5e/a11408.html#af4314cba9c91fd1e2c09905c17c67d22", null ],
+    [ "questEnd", "d8/d5e/a11408.html#a075cc2bc4d8c9663b2bdb2cf8ba77f5f", null ],
+    [ "questEndStatus", "d8/d5e/a11408.html#ac6c7ed326628642da138bb3835db9a1d", null ],
+    [ "questStart", "d8/d5e/a11408.html#afc99b14a3724fef7c5dd70e976a479a8", null ],
+    [ "questStartStatus", "d8/d5e/a11408.html#a7f4466dfd9ab56850a36d0d09ff84798", null ],
+    [ "raceMask", "d8/d5e/a11408.html#a402373ff841bd2aa47b4b36a581624cc", null ],
+    [ "spellId", "d8/d5e/a11408.html#a8a299d901e2c13cdc3c00d6cf0a856d3", null ]
 ];

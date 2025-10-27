@@ -1,7 +1,7 @@
 var a13956 =
 [
-    [ "HandleTriggerSpell", "d8/dc9/a13956.html#a66b366f4989d99a58b331e56024e4520", null ],
-    [ "PrepareAuraScript", "d8/dc9/a13956.html#a4b00497e095b5c43571b543252b31e58", null ],
-    [ "Register", "d8/dc9/a13956.html#abacee7689888bf8c5d21b534a6d71b40", null ],
-    [ "Validate", "d8/dc9/a13956.html#a6bef0ac760a319deed6f71fee213e885", null ]
+    [ "boss_blight_wormAI", "d8/dc9/a13956.html#af267e395fbd539f871e498dc6745c610", null ],
+    [ "Reset", "d8/dc9/a13956.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
+    [ "UpdateAI", "d8/dc9/a13956.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
+    [ "_events", "d8/dc9/a13956.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
 ];

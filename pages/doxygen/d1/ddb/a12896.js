@@ -1,5 +1,5 @@
 var a12896 =
 [
-    [ "instance_magisters_terrace_InstanceMapScript", "d1/ddb/a12896.html#ad083ab5aa00902987e18f4e9423a705a", null ],
-    [ "ProcessEvent", "d1/ddb/a12896.html#a8dbe1537ea00412a6fa366891204d645", null ]
+    [ "PrepareSpellScript", "d1/ddb/a12896.html#a50d6ebe961a0841e10537a434a741072", null ],
+    [ "Register", "d1/ddb/a12896.html#abc2f73133448278e0bf1bc589917dfd1", null ]
 ];

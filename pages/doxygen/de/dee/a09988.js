@@ -1,12 +1,14 @@
 var a09988 =
 [
-    [ "RotateMovementGenerator", "de/dee/a09988.html#a89a6559b4380210972e82c6ca6d5a9db", null ],
-    [ "Finalize", "de/dee/a09988.html#afd7588c7877b116cc9626a774b89d584", null ],
-    [ "GetMovementGeneratorType", "de/dee/a09988.html#a20677803edf5d93ceae3bf76ef426a81", null ],
-    [ "Initialize", "de/dee/a09988.html#a18fea8760bb24912af9349a06ff7b596", null ],
-    [ "Reset", "de/dee/a09988.html#a3e177762fcfc11ac47aa820b46b93ed0", null ],
-    [ "Update", "de/dee/a09988.html#a0dc8600e3aa862a81735dfb927232e53", null ],
-    [ "m_direction", "de/dee/a09988.html#a8717e890670d9f4e2ff66c0981d14aa6", null ],
-    [ "m_duration", "de/dee/a09988.html#a2cb8d5fc3d26c24e62c7373f1ce49b13", null ],
-    [ "m_maxDuration", "de/dee/a09988.html#a7cf10886bdd50ccbc5900b9229958e01", null ]
+    [ "~MovementGenerator", "de/dee/a09988.html#a13c3c432ac2a91dd4d07b090ec06b903", null ],
+    [ "Finalize", "de/dee/a09988.html#aef4cf800aa06dddac4efd36e3c058d2b", null ],
+    [ "GetMovementGeneratorType", "de/dee/a09988.html#a60bac341b438ea7258986f234a952324", null ],
+    [ "GetResetPosition", "de/dee/a09988.html#a60ac9e99f41d1f5c320441cf78b4b46a", null ],
+    [ "GetSplineId", "de/dee/a09988.html#a99865a1b7cf84b02784bfa8df958585f", null ],
+    [ "Initialize", "de/dee/a09988.html#a0040e427ac4a09273641a96a13fd4c1f", null ],
+    [ "Pause", "de/dee/a09988.html#a37530e5cd743faecabd21eba08dce939", null ],
+    [ "Reset", "de/dee/a09988.html#aa6641fa1182551421fc8572afad8e083", null ],
+    [ "Resume", "de/dee/a09988.html#a51988a8b0a45459242467e38ca46303c", null ],
+    [ "unitSpeedChanged", "de/dee/a09988.html#a0f9c4fd52947688dcda1161924e829bb", null ],
+    [ "Update", "de/dee/a09988.html#ae3014d8c6e728799c86134ef64737ed5", null ]
 ];

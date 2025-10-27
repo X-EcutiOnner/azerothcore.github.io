@@ -1,5 +1,6 @@
 var a21240 =
 [
-    [ "npc_ritual_channelerAI", "de/db5/a21240.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
-    [ "AttackStart", "de/db5/a21240.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
+    [ "HandleEffectPeriodic", "de/db5/a21240.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
+    [ "PrepareAuraScript", "de/db5/a21240.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
+    [ "Register", "de/db5/a21240.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
 ];

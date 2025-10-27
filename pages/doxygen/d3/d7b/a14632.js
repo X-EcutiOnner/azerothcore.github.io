@@ -1,7 +1,7 @@
 var a14632 =
 [
-    [ "boss_azuregosAI", "dd/d35/a14636.html", "dd/d35/a14636" ],
-    [ "boss_azuregos", "d3/d7b/a14632.html#a48590db0037870ca5c9425a468e5ea3a", null ],
-    [ "GetAI", "d3/d7b/a14632.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
-    [ "OnGossipSelect", "d3/d7b/a14632.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
+    [ "go_loosely_turned_soilAI", "dd/d35/a14636.html", "dd/d35/a14636" ],
+    [ "go_loosely_turned_soil", "d3/d7b/a14632.html#a3b4d51e2b3a604e030962127269236f1", null ],
+    [ "GetAI", "d3/d7b/a14632.html#acead5810a848f8837fa65af1f2ac00bd", null ],
+    [ "OnQuestReward", "d3/d7b/a14632.html#a1ac57b34c5b3e21c033330eaeefaa6a8", null ]
 ];

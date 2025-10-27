@@ -1,6 +1,7 @@
 var a25784 =
 [
-    [ "HandleProc", "d8/d1a/a25784.html#aa333d52d905e722554d8d61c4b9cb656", null ],
-    [ "PrepareAuraScript", "d8/d1a/a25784.html#aac4320b061d627e4ffef737d2e858ef3", null ],
-    [ "Register", "d8/d1a/a25784.html#ad58fea9afa6a3596437a324ec525982e", null ]
+    [ "CalculateDamageAmount", "d8/d1a/a25784.html#a2f608e8391e61434ef1b164c023854fe", null ],
+    [ "CalculateManaLeechAmount", "d8/d1a/a25784.html#a8a4946d1718d8045a72c92355ff38ecb", null ],
+    [ "PrepareAuraScript", "d8/d1a/a25784.html#a63d24d3ca4b2de1aa7f67376ded7bc59", null ],
+    [ "Register", "d8/d1a/a25784.html#aa6e74e89930fd3cc564c3cba86e3687e", null ]
 ];

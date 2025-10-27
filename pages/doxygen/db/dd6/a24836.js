@@ -1,10 +1,11 @@
 var a24836 =
 [
-    [ "Load", "db/dd6/a24836.html#a2c4e408e45995098b01a05815fffb34c", null ],
-    [ "OnApply", "db/dd6/a24836.html#acae1047046bb8f555d1798ca024a2650", null ],
-    [ "OnRemove", "db/dd6/a24836.html#aa01df2b86cf69508866f6e7d063c735a", null ],
-    [ "PrepareAuraScript", "db/dd6/a24836.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
-    [ "Register", "db/dd6/a24836.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
-    [ "Validate", "db/dd6/a24836.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
-    [ "_casterGUID", "db/dd6/a24836.html#a8047fb4309487c7a529047ec5148a2e3", null ]
+    [ "HandleAfterHit", "db/dd6/a24836.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
+    [ "HandleDummy", "db/dd6/a24836.html#abb3f92850fa6fff94c682b990c361fe6", null ],
+    [ "Load", "db/dd6/a24836.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
+    [ "PrepareSpellScript", "db/dd6/a24836.html#adea0e24654cd87b3aee07ce2183b9517", null ],
+    [ "Register", "db/dd6/a24836.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
+    [ "Validate", "db/dd6/a24836.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
+    [ "guid", "db/dd6/a24836.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
+    [ "multiplier", "db/dd6/a24836.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
 ];

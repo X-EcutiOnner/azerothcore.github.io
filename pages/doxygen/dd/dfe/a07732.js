@@ -1,5 +1,5 @@
 var a07732 =
 [
-    [ "IsColorValid", "dd/dfe/a07732.html#a816b3afba97af88a04cd5a724e9b663c", null ],
-    [ "IsTextValid", "dd/dfe/a07732.html#a54af0b68fa7891adbc3001c74e251ea1", null ]
+    [ "value_type", "dd/dfe/a07732.html#a72f92e01d1f385cf8d6ba7c31faa77e2", null ],
+    [ "TryConsume", "dd/dfe/a07732.html#a7320475f165952ef8ebf69407b533248", null ]
 ];

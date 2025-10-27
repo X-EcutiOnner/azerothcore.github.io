@@ -1,6 +1,9 @@
 var a23424 =
 [
-    [ "instance_steam_vault_InstanceMapScript", "d4/d34/a23428.html", "d4/d34/a23428" ],
-    [ "instance_steam_vault", "d4/d84/a23424.html#aa3417083841ccb50c8a2f29ba343e115", null ],
-    [ "GetInstanceScript", "d4/d84/a23424.html#a3a2edb84cc7067d3c8fa2151b4763c5a", null ]
+    [ "CalcPeriodic", "d4/d84/a23424.html#a5cd39919a088cab2fd160ea6e16ee7c8", null ],
+    [ "HandleEffectApply", "d4/d84/a23424.html#adb983cc531fa666648bbdb432684ff1d", null ],
+    [ "HandleEffectRemove", "d4/d84/a23424.html#a99c1bfc5aa4b67318bb3572589a42b1a", null ],
+    [ "OnPeriodic", "d4/d84/a23424.html#aecefab535157dbe8e42aff3b23cd685b", null ],
+    [ "PrepareAuraScript", "d4/d84/a23424.html#ad9ecc1fd4bcf1a2ecb5e2d1ec2ea37f7", null ],
+    [ "Register", "d4/d84/a23424.html#a3771abcc829883ba0cbae9587adbe751", null ]
 ];

@@ -1,10 +1,18 @@
 var a28028 =
 [
-    [ "HasFlag", "da/d43/a28028.html#abe23ca5437589a38ea57bc93a6197911", null ],
-    [ "CollisionHeight", "da/d43/a28028.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
-    [ "CollisionWidth", "da/d43/a28028.html#ab79497759cf169348b8922301fc43b2f", null ],
-    [ "Flags", "da/d43/a28028.html#a3bb96e232124771e78f8b5db53405106", null ],
-    [ "Id", "da/d43/a28028.html#aa19fec147703c7542be260c8ec5a0446", null ],
-    [ "MountHeight", "da/d43/a28028.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
-    [ "Scale", "da/d43/a28028.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
+    [ "DBCStorageBase", "da/d43/a28028.html#ad688053187f77a4a016274f7e46a76a3", null ],
+    [ "~DBCStorageBase", "da/d43/a28028.html#a39d4e4f05a50b952c2f952a452beb010", null ],
+    [ "GetFieldCount", "da/d43/a28028.html#a867375a50bcf7ec8c40b6ff7305a5e81", null ],
+    [ "GetFormat", "da/d43/a28028.html#ab333cdbf4cb7c6f527045902256fdf2f", null ],
+    [ "Load", "da/d43/a28028.html#a779bd666cbdc6587eab6a81e51e894d8", null ],
+    [ "Load", "da/d43/a28028.html#a14dfcde7f1c9c63a293638009b6ce16b", null ],
+    [ "LoadFromDB", "da/d43/a28028.html#abea56cf48880a3ae02d322b6283032b4", null ],
+    [ "LoadFromDB", "da/d43/a28028.html#a7156af21138d19a978b9551a2ca24708", null ],
+    [ "LoadStringsFrom", "da/d43/a28028.html#a912b4793ddc3e3ff3bc9279693373b79", null ],
+    [ "LoadStringsFrom", "da/d43/a28028.html#a0e3e3be24e2404fad11c322190e0e337", null ],
+    [ "_dataTable", "da/d43/a28028.html#ab13a1018e69345a3665f50d696bc7236", null ],
+    [ "_fieldCount", "da/d43/a28028.html#aa9bebefe18610016bef2c7d087d20abe", null ],
+    [ "_fileFormat", "da/d43/a28028.html#a3ac1c70817c9b7a351ea0e0d2e602351", null ],
+    [ "_indexTableSize", "da/d43/a28028.html#aa17bb429de3b9df9bb6ffcbc9bf9010b", null ],
+    [ "_stringPool", "da/d43/a28028.html#a8d571b107344a2dbde0b2cbcfa3c9b52", null ]
 ];

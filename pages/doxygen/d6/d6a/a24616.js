@@ -1,7 +1,9 @@
 var a24616 =
 [
-    [ "CheckCast", "d6/d6a/a24616.html#ab215bbeea333d250ecbff0482f4f0966", null ],
-    [ "FilterTargets", "d6/d6a/a24616.html#a6ee8387c7fed3fd3042852a2f542c5bd", null ],
-    [ "PrepareSpellScript", "d6/d6a/a24616.html#a83447d184bb2299987d0c54d5af4c910", null ],
-    [ "Register", "d6/d6a/a24616.html#a6107ba00471dd346c363db80fe81b698", null ]
+    [ "npc_pet_gen_toxic_wasteling", "d6/d6a/a24616.html#a550a1a9324f605b1a9fd715571f819b7", null ],
+    [ "EnterEvadeMode", "d6/d6a/a24616.html#abe25deca7fd1c319085995657d62f22a", null ],
+    [ "MovementInform", "d6/d6a/a24616.html#aec73d567c3bd178ffee3bdece83a409e", null ],
+    [ "Reset", "d6/d6a/a24616.html#a06a8be653c8685aaf28aee1d1d3ae114", null ],
+    [ "UpdateAI", "d6/d6a/a24616.html#a22f96d995fcc722c0e95c4f5692cc128", null ],
+    [ "checkTimer", "d6/d6a/a24616.html#aafe402e0443bd39a1b7aa274d95edad6", null ]
 ];

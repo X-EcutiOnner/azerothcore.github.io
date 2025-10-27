@@ -1,7 +1,9 @@
 var a19704 =
 [
-    [ "HandleEffectRemove", "d7/dd7/a19704.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
-    [ "PrepareAuraScript", "d7/dd7/a19704.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
-    [ "Register", "d7/dd7/a19704.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
-    [ "Validate", "d7/dd7/a19704.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
+    [ "npc_stormforged_lieutenant", "d7/dd7/a19704.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
+    [ "JustEngagedWith", "d7/dd7/a19704.html#a262ac995279b1a936534c858e21122a9", null ],
+    [ "Reset", "d7/dd7/a19704.html#abc359564370152b28a002a801ba1ab3d", null ],
+    [ "UpdateAI", "d7/dd7/a19704.html#a4c207f0ef172585b97695b63e119d1bc", null ],
+    [ "BjarngrimGUID", "d7/dd7/a19704.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
+    [ "events", "d7/dd7/a19704.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
 ];

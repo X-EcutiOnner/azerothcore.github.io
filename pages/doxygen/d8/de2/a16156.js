@@ -1,8 +1,6 @@
 var a16156 =
 [
-    [ "OnApply", "d8/de2/a16156.html#a96321003a002be0e4838901f03f8a5d8", null ],
-    [ "OnRemove", "d8/de2/a16156.html#af616afe7bf87eb7fdb44bf15e9ad85d4", null ],
-    [ "PrepareAuraScript", "d8/de2/a16156.html#ae5c880210cb50cf5320ee3595791eaa8", null ],
-    [ "Register", "d8/de2/a16156.html#aaa2a16cff2e9aae77cdc1bb75c38f26a", null ],
-    [ "Validate", "d8/de2/a16156.html#ad09a31813a7a03f8abf6dc9c151bb002", null ]
+    [ "HandleScriptEffect", "d8/de2/a16156.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "d8/de2/a16156.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "d8/de2/a16156.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

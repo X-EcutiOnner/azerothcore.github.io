@@ -1,7 +1,6 @@
 var a23104 =
 [
-    [ "PrepareAuraScript", "d6/d9d/a23104.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
-    [ "Register", "d6/d9d/a23104.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
-    [ "Update", "d6/d9d/a23104.html#a3f98767367564734c9877d1870aac31b", null ],
-    [ "Validate", "d6/d9d/a23104.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
+    [ "boss_essence_of_sufferingAI", "d0/da7/a23108.html", "d0/da7/a23108" ],
+    [ "boss_essence_of_suffering", "d6/d9d/a23104.html#a1237f428657f0e9a0218695264358384", null ],
+    [ "GetAI", "d6/d9d/a23104.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
 ];

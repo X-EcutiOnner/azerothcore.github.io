@@ -1,6 +1,6 @@
 var a28312 =
 [
-    [ "Enchantment", "d3/d70/a28312.html#a480ab806214bb138d56dfd5e9e43936f", null ],
-    [ "ID", "d3/d70/a28312.html#acb673be771124b84dd3fdd5deb300de7", null ],
-    [ "Name", "d3/d70/a28312.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
+    [ "AreaGroupId", "d3/d70/a28312.html#a2868a59574e635d5f5859cfa01811151", null ],
+    [ "AreaId", "d3/d70/a28312.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
+    [ "nextGroup", "d3/d70/a28312.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
 ];

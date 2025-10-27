@@ -1,6 +1,6 @@
 var a18592 =
 [
-    [ "PeriodicTick", "da/d46/a18592.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
-    [ "PrepareAuraScript", "da/d46/a18592.html#a0767ac60151517b803e871a0fcb25967", null ],
-    [ "Register", "da/d46/a18592.html#afd1e28b224035aef5ac109f38d7e118d", null ]
+    [ "npc_spirit_wardenAI", "d7/d22/a18596.html", "d7/d22/a18596" ],
+    [ "npc_spirit_warden", "da/d46/a18592.html#ab585d20eadb7876752d731702db44293", null ],
+    [ "GetAI", "da/d46/a18592.html#ab33ab494d7fee64eed7c75464ce60489", null ]
 ];

@@ -1,7 +1,6 @@
 var a18808 =
 [
-    [ "HandleDummyLaunch", "df/de2/a18808.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
-    [ "PrepareSpellScript", "df/de2/a18808.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
-    [ "Register", "df/de2/a18808.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
-    [ "Validate", "df/de2/a18808.html#a577166695c1479e3730a70637bc18cf1", null ]
+    [ "npc_rotting_frost_giantAI", "de/d0b/a18812.html", "de/d0b/a18812" ],
+    [ "npc_rotting_frost_giant", "df/de2/a18808.html#ad4440216e11a00d97af43dc5f3957e95", null ],
+    [ "GetAI", "df/de2/a18808.html#aabc388b3690f2d03e903c7f480d52842", null ]
 ];

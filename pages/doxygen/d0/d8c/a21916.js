@@ -1,6 +1,7 @@
 var a21916 =
 [
-    [ "npc_commander_eligor_dawnbringerAI", "d7/d0b/a21920.html", "d7/d0b/a21920" ],
-    [ "npc_commander_eligor_dawnbringer", "d0/d8c/a21916.html#a71d919af98464d6d63f948507f3ff08c", null ],
-    [ "GetAI", "d0/d8c/a21916.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
+    [ "npc_cosmetic_toy_plane", "d0/d8c/a21916.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
+    [ "Reset", "d0/d8c/a21916.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
+    [ "UpdateAI", "d0/d8c/a21916.html#a41d62b314510fbd6637d8eddbea16f96", null ],
+    [ "_movementArray", "d0/d8c/a21916.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
 ];

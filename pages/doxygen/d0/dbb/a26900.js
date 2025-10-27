@@ -1,8 +1,9 @@
 var a26900 =
 [
-    [ "ApplyEffect", "d0/dbb/a26900.html#a0c303c58064236969e17d1f2df3e0556", null ],
-    [ "PrepareAuraScript", "d0/dbb/a26900.html#a716a483282946f840ac15d73c6e21a94", null ],
-    [ "Register", "d0/dbb/a26900.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
-    [ "RemoveEffect", "d0/dbb/a26900.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
-    [ "Validate", "d0/dbb/a26900.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
+    [ "Absorb", "d0/dbb/a26900.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
+    [ "CalculateAmount", "d0/dbb/a26900.html#a820c27c2161063307a10903cbbc5c0fa", null ],
+    [ "Load", "d0/dbb/a26900.html#a7b71990051faaa083110408c13b8401f", null ],
+    [ "PrepareAuraScript", "d0/dbb/a26900.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
+    [ "Register", "d0/dbb/a26900.html#aa443ab0eed74229883884fbced0426d7", null ],
+    [ "absorbPct", "d0/dbb/a26900.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
 ];

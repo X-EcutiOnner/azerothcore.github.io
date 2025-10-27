@@ -1,6 +1,5 @@
 var a22736 =
 [
-    [ "PrepareSpellScript", "de/d7c/a22736.html#abd6b61e7efbed1427b7603640ac7d474", null ],
-    [ "RecalculateDamage", "de/d7c/a22736.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
-    [ "Register", "de/d7c/a22736.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
+    [ "outdoorpvp_na_halaa_creatures", "de/d7c/a22736.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
+    [ "UpdateAI", "de/d7c/a22736.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
 ];

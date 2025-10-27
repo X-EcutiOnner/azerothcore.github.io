@@ -1,10 +1,6 @@
 var a14736 =
 [
-    [ "npc_hyjal_gargoyle", "d2/de9/a14736.html#a35b17d008d96116b2e3cf09cceacd6fb", null ],
-    [ "AttackStart", "d2/de9/a14736.html#a0301be4d3e34f1248708fdcd3f0d5ea8", null ],
-    [ "DoAction", "d2/de9/a14736.html#ae213c71426f438dd2b27699d7de23664", null ],
-    [ "JustEngagedWith", "d2/de9/a14736.html#ae10a90c817a7df8d0d6ed18c9cdf6387", null ],
-    [ "PathEndReached", "d2/de9/a14736.html#a9ae52d3f7176045ef28713f3e1a16153", null ],
-    [ "Reset", "d2/de9/a14736.html#af314bb183bde44680eeb136d2a08c142", null ],
-    [ "UpdateAI", "d2/de9/a14736.html#ac1ca0648b08430a8bcbf99980222b684", null ]
+    [ "HandleDummy", "d2/de9/a14736.html#a5e0797e5af760b618b1498f405766de8", null ],
+    [ "PrepareSpellScript", "d2/de9/a14736.html#a3be664b18a2474857e8a2b199ea93aaf", null ],
+    [ "Register", "d2/de9/a14736.html#a2254e486bda73e07f8327c3412c7852b", null ]
 ];

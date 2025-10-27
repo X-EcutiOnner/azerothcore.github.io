@@ -1,7 +1,8 @@
 var a11588 =
 [
-    [ "achievement_commandscript", "d6/daa/a11588.html#ac1c40d7b3b628cc206c44eae18592292", null ],
-    [ "GetCommands", "d6/daa/a11588.html#adeac4e6f74f006daa76b0ebb8ea1469c", null ],
-    [ "HandleAchievementAddCommand", "d6/daa/a11588.html#ac4f6addfb0c52d584bf8081436aa3d7a", null ],
-    [ "HandleAchievementCheckAllCommand", "d6/daa/a11588.html#a0e3b83961ff20899a8492c8d8b7c13be", null ]
+    [ "CreatureTextId", "d6/daa/a11588.html#ae8058e922bafc69b718ca4be1be39688", null ],
+    [ "operator<", "d6/daa/a11588.html#ae0c693f6cf1959c79e1b3773a2f54db9", null ],
+    [ "entry", "d6/daa/a11588.html#ad69afcf7be87d1f96611fe925b68f26a", null ],
+    [ "textGroup", "d6/daa/a11588.html#af1d1f3f310c219c32ca9b8917d8fb67d", null ],
+    [ "textId", "d6/daa/a11588.html#a5d45808a0b84ca11c8d05c25d26341a2", null ]
 ];

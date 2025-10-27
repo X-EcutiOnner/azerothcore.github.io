@@ -1,5 +1,8 @@
 var a19648 =
 [
-    [ "boss_sjonnir_dwarfAI", "de/dab/a19648.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
-    [ "UpdateAI", "de/dab/a19648.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
+    [ "npc_centrifuge_constructAI", "de/dab/a19648.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
+    [ "DamageTaken", "de/dab/a19648.html#aa568418de267a99108698e79baa1b3f4", null ],
+    [ "JustEngagedWith", "de/dab/a19648.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
+    [ "Reset", "de/dab/a19648.html#a2f7750cea2f59d794c85e20b703370af", null ],
+    [ "UpdateAI", "de/dab/a19648.html#a28316416ad6c56d83c9e878511256445", null ]
 ];

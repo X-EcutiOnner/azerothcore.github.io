@@ -1,5 +1,7 @@
 var a08456 =
 [
-    [ "PositionXYStreamer", "db/d32/a08456.html#a6f165ea30ccb7cdeba0c4e197b3a0e5b", null ],
-    [ "Pos", "db/d32/a08456.html#afb17e60540233b8861b6e967d0e44e07", null ]
+    [ "ObjectDistanceOrderPred", "db/d32/a08456.html#adced3fdc6d99b7506361eb7700fa4cec", null ],
+    [ "operator()", "db/d32/a08456.html#aaa5023735568f6df28a177fbd9ed866e", null ],
+    [ "m_ascending", "db/d32/a08456.html#a313cd0450096e49716bfb52f8f238bfc", null ],
+    [ "m_refObj", "db/d32/a08456.html#aec421fd45a60545bf92b7236e0d0b360", null ]
 ];

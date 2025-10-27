@@ -1,5 +1,7 @@
 var a14028 =
 [
-    [ "at_zulgurub_bloodfire_pit_speech", "d7/d9c/a14028.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
-    [ "_OnTrigger", "d7/d9c/a14028.html#a8f1e477942ba9a5f653077632a98930f", null ]
+    [ "FilterTargets", "d7/d9c/a14028.html#aebe9055301495dd3a21736b9a2a35f31", null ],
+    [ "HandleDamageCalc", "d7/d9c/a14028.html#aa28bc0b1824d3d0825135fcd88057dfe", null ],
+    [ "PrepareSpellScript", "d7/d9c/a14028.html#a03b8e21e58988d9fc774205263c0817f", null ],
+    [ "Register", "d7/d9c/a14028.html#aeba1ceddd5b6fcd951e6ac789b50c5a5", null ]
 ];

@@ -1,6 +1,5 @@
 var a18944 =
 [
-    [ "instance_icecrown_citadel_InstanceMapScript", "d7/de0/a18948.html", "d7/de0/a18948" ],
-    [ "instance_icecrown_citadel", "dd/dfe/a18944.html#a0901e23025cff08d1a7516bbef099ffa", null ],
-    [ "GetInstanceScript", "dd/dfe/a18944.html#a787c32626681f15f5515385a9ba6b848", null ]
+    [ "at_icc_shutdown_traps", "dd/dfe/a18944.html#aa13f5d78d3032e8114e9978f42468f64", null ],
+    [ "OnTrigger", "dd/dfe/a18944.html#abb31b3f6d0b159b625d731ac47127005", null ]
 ];

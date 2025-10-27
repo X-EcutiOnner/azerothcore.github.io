@@ -1,8 +1,7 @@
 var a22032 =
 [
-    [ "HandleEffectApply", "d0/dd9/a22032.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
-    [ "HandleEffectPeriodic", "d0/dd9/a22032.html#a183976530ebf604656db12e41449427e", null ],
-    [ "PrepareAuraScript", "d0/dd9/a22032.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
-    [ "Register", "d0/dd9/a22032.html#a76be53d506933d4b3c758578b7c33d5f", null ],
-    [ "_posZ", "d0/dd9/a22032.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
+    [ "FilterTargets", "d0/dd9/a22032.html#af62588a225f0b701a0f9321677ae22b8", null ],
+    [ "HandleScript", "d0/dd9/a22032.html#ad68fad08b2613de096e504bb7dea61cd", null ],
+    [ "PrepareSpellScript", "d0/dd9/a22032.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
+    [ "Register", "d0/dd9/a22032.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
 ];

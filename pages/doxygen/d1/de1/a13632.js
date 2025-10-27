@@ -1,16 +1,7 @@
 var a13632 =
 [
-    [ "npc_rinjiAI", "d1/de1/a13632.html#ab613818b92530269f0802077eccc92d0", null ],
-    [ "DoSpawnAmbush", "d1/de1/a13632.html#af2535d7364641fadc98bca91ace9c906", null ],
-    [ "JustEngagedWith", "d1/de1/a13632.html#ae5ca00ee9baead3392a9239dfb68d377", null ],
-    [ "JustRespawned", "d1/de1/a13632.html#a471f2e8da91639d4e68ad64a11d7b950", null ],
-    [ "JustSummoned", "d1/de1/a13632.html#a09d65e7bd5a76552208eee920cfcb4f9", null ],
-    [ "Reset", "d1/de1/a13632.html#ada230a1b7b0f3c8b2b41c706856681b8", null ],
-    [ "sQuestAccept", "d1/de1/a13632.html#a15b9a0756ae6cebac690c8bb997e99d2", null ],
-    [ "UpdateEscortAI", "d1/de1/a13632.html#a60f05b58b115f3f2ea11206778893547", null ],
-    [ "WaypointReached", "d1/de1/a13632.html#a9463060a57b85113b71482c8a0974f60", null ],
-    [ "_IsByOutrunner", "d1/de1/a13632.html#adecc4eb9f90969621b52b97ff594558d", null ],
-    [ "postEventCount", "d1/de1/a13632.html#a601f142bd2a04ed303611044bac91035", null ],
-    [ "postEventTimer", "d1/de1/a13632.html#a5154e551143e81d431f706ad07b78ca0", null ],
-    [ "spawnId", "d1/de1/a13632.html#a3fc84d1e0f5243c6e8f292ddcac15ace", null ]
+    [ "FilterTargets", "d1/de1/a13632.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
+    [ "HandleHit", "d1/de1/a13632.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
+    [ "PrepareSpellScript", "d1/de1/a13632.html#a905e1f979284a368463ad4829891b6ee", null ],
+    [ "Register", "d1/de1/a13632.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
 ];

@@ -1,7 +1,6 @@
 var a19496 =
 [
-    [ "HandleProc", "d4/dc8/a19496.html#a84255cd31ebaa7c70de93d569258c709", null ],
-    [ "PrepareAuraScript", "d4/dc8/a19496.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
-    [ "Register", "d4/dc8/a19496.html#a6bc166d2e1455537fa78c4223da17746", null ],
-    [ "Validate", "d4/dc8/a19496.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
+    [ "npc_eoe_wyrmrest_skytalonAI", "d4/dc8/a19496.html#a0878695bc4179e3b6e92dde9f2b5cf19", null ],
+    [ "JustDied", "d4/dc8/a19496.html#aaa88ff236fd49a9c672ab29feb7377b8", null ],
+    [ "PassengerBoarded", "d4/dc8/a19496.html#aa3352276e87d805cc8722eb97d10ca46", null ]
 ];

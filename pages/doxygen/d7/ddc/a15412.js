@@ -1,7 +1,6 @@
 var a15412 =
 [
-    [ "npc_webbed_creatureAI", "d7/ddc/a15412.html#a6b7507eda84c29d6bd557b1b424ee10a", null ],
-    [ "JustDied", "d7/ddc/a15412.html#a153d461124ec9266ffcac147a217f6d9", null ],
-    [ "JustEngagedWith", "d7/ddc/a15412.html#ac52ad6512bcaee35932f856abdac80d4", null ],
-    [ "Reset", "d7/ddc/a15412.html#a459eaadd7f0145b7a1a6caf99d1e8a5d", null ]
+    [ "boss_veknilash", "d7/ddc/a15412.html#a73a4095c3dd0ffbd9d7ef5a8a837f13f", null ],
+    [ "IAmVeklor", "d7/ddc/a15412.html#a454027d829b962ee0feebb6fd5687714", null ],
+    [ "JustEngagedWith", "d7/ddc/a15412.html#ace8de3d9a397d0571da1f5bdd2ba84d5", null ]
 ];

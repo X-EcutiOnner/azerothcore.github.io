@@ -1,5 +1,6 @@
 var a23504 =
 [
-    [ "npc_invisible_tractor_beam_source", "df/d29/a23504.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
-    [ "IsSummonedBy", "df/d29/a23504.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
+    [ "go_ahune_ice_stone", "df/d29/a23504.html#ab7b665f01da80751ea97705c5113bde7", null ],
+    [ "GossipSelect", "df/d29/a23504.html#aadb4db41ed84922c0a2d0463b8616876", null ],
+    [ "_instance", "df/d29/a23504.html#a43651f471ac777b59fb8ba67b830cd35", null ]
 ];

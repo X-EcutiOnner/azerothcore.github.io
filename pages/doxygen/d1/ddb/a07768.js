@@ -1,6 +1,5 @@
 var a07768 =
 [
-    [ "Rank", "d1/ddb/a07768.html#abd26e25c76d5344dfdd94547b2f310d4", null ],
-    [ "Spell", "d1/ddb/a07768.html#a0cb15c7c1e640b5a6acc8f8d94e6c719", null ],
-    [ "Talent", "d1/ddb/a07768.html#ae39546dc8db233709131b388a3868c1a", null ]
+    [ "IsColorValid", "d1/ddb/a07768.html#ab291dc8bdb852a8386c2a3d1bd18cfad", null ],
+    [ "IsTextValid", "d1/ddb/a07768.html#ab9c8e4926f593058bf247f33b6089bc3", null ]
 ];

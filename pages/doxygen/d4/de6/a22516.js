@@ -1,8 +1,9 @@
 var a22516 =
 [
-    [ "HandleApply", "d4/de6/a22516.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
-    [ "HandleRemove", "d4/de6/a22516.html#a06c7c65d973fcf348f5c929503902520", null ],
-    [ "PrepareAuraScript", "d4/de6/a22516.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
-    [ "Register", "d4/de6/a22516.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
-    [ "Validate", "d4/de6/a22516.html#a8135c492638557eec71189282e7f78a2", null ]
+    [ "npc_hyldsmeet_protodrakeAI", "d1/d1a/a22520.html", "d1/d1a/a22520" ],
+    [ "NPCs", "d4/de6/a22516.html#a8f2ea95c836ba6bab370301fbf3e6822", [
+      [ "NPC_HYLDSMEET_DRAKERIDER", "d4/de6/a22516.html#a8f2ea95c836ba6bab370301fbf3e6822a1b77c38a75142cff5392a89db3e765df", null ]
+    ] ],
+    [ "npc_hyldsmeet_protodrake", "d4/de6/a22516.html#a2471f1d858d7ae8f801208e35860a95e", null ],
+    [ "GetAI", "d4/de6/a22516.html#a791e5cff3901f9a3ec365d4049b82d25", null ]
 ];

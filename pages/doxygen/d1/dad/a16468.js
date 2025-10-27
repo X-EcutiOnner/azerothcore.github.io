@@ -1,6 +1,6 @@
 var a16468 =
 [
-    [ "npc_toc_warlockAI", "da/d85/a16472.html", "da/d85/a16472" ],
-    [ "npc_toc_warlock", "d1/dad/a16468.html#a75ac1d6f6835860fed8a9197fa1cf3c2", null ],
-    [ "GetAI", "d1/dad/a16468.html#ad3162c9414be83d53d9513c7aa6b75d7", null ]
+    [ "FilterTargets", "d1/dad/a16468.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
+    [ "PrepareSpellScript", "d1/dad/a16468.html#a697a52cbc50eafd2b0377621afb01557", null ],
+    [ "Register", "d1/dad/a16468.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
 ];

@@ -1,6 +1,6 @@
 var a19976 =
 [
-    [ "npc_brann_radioAI", "df/d0c/a19980.html", "df/d0c/a19980" ],
-    [ "npc_brann_radio", "d6/dec/a19976.html#a22b5231f643c287d8e32d88a3b0728b2", null ],
-    [ "GetAI", "d6/dec/a19976.html#aa2ea91337262fb886e7535ba013f4b10", null ]
+    [ "boss_stormcaller_brundirAI", "df/d0c/a19980.html", "df/d0c/a19980" ],
+    [ "boss_stormcaller_brundir", "d6/dec/a19976.html#aa966d1534a58e3832c46772043956533", null ],
+    [ "GetAI", "d6/dec/a19976.html#a399b1b7cf2ee74c1e672231e922ff4fa", null ]
 ];

@@ -1,8 +1,6 @@
 var a09796 =
 [
-    [ "BoundaryUnionBoundary", "d7/dd1/a09796.html#a074536112fffc805dec44bd9cd602642", null ],
-    [ "~BoundaryUnionBoundary", "d7/dd1/a09796.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
-    [ "IsWithinBoundaryArea", "d7/dd1/a09796.html#a8dc91861fa6641008236e5a83030e0d1", null ],
-    [ "_b1", "d7/dd1/a09796.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
-    [ "_b2", "d7/dd1/a09796.html#ae70530673803bd2ee85bf722fe42718b", null ]
+    [ "ServerMailItems", "d7/dd1/a09796.html#a95cb2278da300c6b0385241f5a3950c1", null ],
+    [ "item", "d7/dd1/a09796.html#ae03738595a87a47e831bcbeea6f97d34", null ],
+    [ "itemCount", "d7/dd1/a09796.html#a4475d65dd5721d4af323ae93d15f4170", null ]
 ];

@@ -1,7 +1,6 @@
 var a21832 =
 [
-    [ "CheckRequirement", "d4/db8/a21832.html#a41beb2c890137328734d6adb14e08302", null ],
-    [ "PrepareSpellScript", "d4/db8/a21832.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
-    [ "Register", "d4/db8/a21832.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
-    [ "SetDest", "d4/db8/a21832.html#a431a556ab73f91ed63f5983e537834a5", null ]
+    [ "npc_counselor_talbotAI", "d4/d24/a21836.html", "d4/d24/a21836" ],
+    [ "npc_counselor_talbot", "d4/db8/a21832.html#a9223380bb78afeda617482bea0a3110c", null ],
+    [ "GetAI", "d4/db8/a21832.html#a3debd13352146a247d635042ecbfa155", null ]
 ];

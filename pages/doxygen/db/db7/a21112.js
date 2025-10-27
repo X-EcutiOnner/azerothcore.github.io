@@ -1,5 +1,8 @@
 var a21112 =
 [
-    [ "npc_salvaged_siege_engine", "db/db7/a21112.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
-    [ "BeforeSpellClick", "db/db7/a21112.html#aed2500b2315b5e508ea3d06a2355d023", null ]
+    [ "OnApply", "db/db7/a21112.html#a3046fa845b6763c5602ca7b50aefd68f", null ],
+    [ "OnRemove", "db/db7/a21112.html#ad3f482f9fff9798cc6e7a06183344742", null ],
+    [ "PrepareAuraScript", "db/db7/a21112.html#ab830a7a6c5ed432f8718071345c99b57", null ],
+    [ "Register", "db/db7/a21112.html#ac83a8d085d02feec64b6012cacb60dce", null ],
+    [ "Validate", "db/db7/a21112.html#a69a3e0a6c06e3c4085bf0ad25e40edf9", null ]
 ];

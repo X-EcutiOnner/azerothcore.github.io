@@ -1,12 +1,6 @@
 var a19068 =
 [
-    [ "npc_gothik_triggerAI", "d5/dad/a19068.html#ae45c6de238755eb069e0c182943da58c", null ],
-    [ "DamageTaken", "d5/dad/a19068.html#ada8e501edfadbb55162532f081a4b48b", null ],
-    [ "EnterEvadeMode", "d5/dad/a19068.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
-    [ "JustEngagedWith", "d5/dad/a19068.html#ab5403383f1fcd539cacf975dffbe2817", null ],
-    [ "JustSummoned", "d5/dad/a19068.html#a35be0135b77a3e62ac8d421910cf0674", null ],
-    [ "SelectRandomSkullPile", "d5/dad/a19068.html#aeafc63047c9059afdf668b8c22d2937f", null ],
-    [ "SpellHit", "d5/dad/a19068.html#a18a8135ab0395991afc4896950783ae5", null ],
-    [ "SummonedCreatureDespawn", "d5/dad/a19068.html#ad7ed092509dd41fddd44a4024c011364", null ],
-    [ "UpdateAI", "d5/dad/a19068.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
+    [ "npc_icc_putricades_trapAI", "dd/d78/a19072.html", "dd/d78/a19072" ],
+    [ "npc_icc_putricades_trap", "d5/dad/a19068.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
+    [ "GetAI", "d5/dad/a19068.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
 ];

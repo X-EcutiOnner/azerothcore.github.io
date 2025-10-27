@@ -1,12 +1,10 @@
 var a14964 =
 [
-    [ "instance_razorfen_downs_InstanceMapScript", "d3/d00/a14964.html#a04d36b66a5570d03bb95ef2225a5c902", null ],
-    [ "GetData", "d3/d00/a14964.html#a3d1611870945cd0c8cd7d4e7728cfd84", null ],
-    [ "Initialize", "d3/d00/a14964.html#aed9ab9542badb0296ca0660c39541cb8", null ],
-    [ "OnGameObjectCreate", "d3/d00/a14964.html#a567ac5d9a17514ede5b84c5d78204072", null ],
-    [ "ReadSaveDataMore", "d3/d00/a14964.html#a7d6fefed563b0b9763b9c63136c65952", null ],
-    [ "SetData", "d3/d00/a14964.html#a1dfd39d65b16bb6e1373fe83ba4053c5", null ],
-    [ "WriteSaveDataMore", "d3/d00/a14964.html#ae5cd5cf84e8db976f3006dc52bb5fab4", null ],
-    [ "_firesState", "d3/d00/a14964.html#a74809429d3d2b1db5374dacf34d8a1b7", null ],
-    [ "_gongPhase", "d3/d00/a14964.html#a23485a35f0aa2f2ffad53398882d163a", null ]
+    [ "boss_meathookAI", "d3/d00/a14964.html#abb35c98da760db634545b81d740cd51a", null ],
+    [ "JustDied", "d3/d00/a14964.html#a44ebee45de335ff6f653e9d60a364458", null ],
+    [ "JustEngagedWith", "d3/d00/a14964.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
+    [ "KilledUnit", "d3/d00/a14964.html#a54deac512294bb0901d072faef3166b1", null ],
+    [ "Reset", "d3/d00/a14964.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
+    [ "UpdateAI", "d3/d00/a14964.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
+    [ "events", "d3/d00/a14964.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
 ];

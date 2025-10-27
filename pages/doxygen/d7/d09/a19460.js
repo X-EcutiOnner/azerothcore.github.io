@@ -1,11 +1,6 @@
 var a19460 =
 [
-    [ "npc_oculus_drakegiverAI", "da/df2/a19464.html", "da/df2/a19464" ],
-    [ "npc_oculus_drakegiver", "d7/d09/a19460.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
-    [ "GetAI", "d7/d09/a19460.html#aa26a2b82c5e4076ce704d5884895d903", null ],
-    [ "OnGossipHello", "d7/d09/a19460.html#ac00d09d2d81121d562e3303704229c18", null ],
-    [ "OnGossipSelect", "d7/d09/a19460.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
-    [ "RemoveEssence", "d7/d09/a19460.html#a70513d873111c590ca4e33cb446a4438", null ],
-    [ "StoreEssence", "d7/d09/a19460.html#ac8bbe890722aa924a7f0dee161d342c4", null ],
-    [ "openedMenu", "d7/d09/a19460.html#a650d1cd18700e29328e0fc97b1709f38", null ]
+    [ "npc_nexus_lordAI", "da/df2/a19464.html", "da/df2/a19464" ],
+    [ "npc_nexus_lord", "d7/d09/a19460.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
+    [ "GetAI", "d7/d09/a19460.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
 ];

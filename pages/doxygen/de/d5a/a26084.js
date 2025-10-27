@@ -1,8 +1,7 @@
 var a26084 =
 [
-    [ "HandleDummy", "de/d5a/a26084.html#a04ff6beb930b65395ebc3df99bc53dfa", null ],
-    [ "PrepareSpellScript", "de/d5a/a26084.html#a73eabf1e68c966f31fe8d83c2fd925c1", null ],
-    [ "Register", "de/d5a/a26084.html#a6b03fbcf18612d9bb7361c3e4f022dc0", null ],
-    [ "Validate", "de/d5a/a26084.html#a9df13e3e8895854bc086fbfaccfb1b2c", null ],
-    [ "PolymorhForms", "de/d5a/a26084.html#a1443d2532a060514e697a8d5e0c21b20", null ]
+    [ "HandleHeal", "de/d5a/a26084.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
+    [ "Load", "de/d5a/a26084.html#a4dd5016439e8798083fe3d4fa5458731", null ],
+    [ "PrepareSpellScript", "de/d5a/a26084.html#a248ae6d2c8f8d6c014a0164105773836", null ],
+    [ "Register", "de/d5a/a26084.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
 ];

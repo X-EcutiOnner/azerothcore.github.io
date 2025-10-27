@@ -1,7 +1,7 @@
 var a15432 =
 [
-    [ "npc_prospector_remtravelAI", "dc/d8f/a15436.html", "dc/d8f/a15436" ],
-    [ "npc_prospector_remtravel", "d6/d10/a15432.html#aa213161fc60e615682252125f6c58f7f", null ],
-    [ "GetAI", "d6/d10/a15432.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
-    [ "OnQuestAccept", "d6/d10/a15432.html#a5e11149b6359927a71c98242d979e65b", null ]
+    [ "boss_glob_of_viscidus", "d6/d10/a15432.html#a1ba72393766110382dc4ce4122dfd1ee", null ],
+    [ "InitializeAI", "d6/d10/a15432.html#a0247055fc4f3a60c880ffb78e96edcb9", null ],
+    [ "MovementInform", "d6/d10/a15432.html#abe0cd95930fe52fdb5a40c704d092b90", null ],
+    [ "UpdateAI", "d6/d10/a15432.html#a2e8e38ccdf4ab5e32bd750d73daf1605", null ]
 ];

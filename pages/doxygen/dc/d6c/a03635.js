@@ -1,9 +1,9 @@
 var a03635 =
 [
-    [ "boss_razorgore", "d9/d53/a12511.html", "d9/d53/a12511" ],
-    [ "boss_razorgore::boss_razorgoreAI", "d4/d6a/a12515.html", "d4/d6a/a12515" ],
-    [ "go_orb_of_domination", "da/d16/a12519.html", "da/d16/a12519" ],
-    [ "spell_egg_event", "d3/d3a/a12523.html", "d3/d3a/a12523" ],
+    [ "boss_razorgore", "d6/d5a/a12512.html", "d6/d5a/a12512" ],
+    [ "boss_razorgore::boss_razorgoreAI", "df/d4f/a12516.html", "df/d4f/a12516" ],
+    [ "go_orb_of_domination", "d1/da6/a12520.html", "d1/da6/a12520" ],
+    [ "spell_egg_event", "db/d64/a12524.html", "db/d64/a12524" ],
     [ "EVENTS", "dc/d6c/a03635.html#a0383e5bf22653a832beeabda82c1eeb3", [
       [ "EVENT_CLEAVE", "dc/d6c/a03635.html#a0383e5bf22653a832beeabda82c1eeb3ad4266671217cc53e473a6844d92ef36a", null ],
       [ "EVENT_STOMP", "dc/d6c/a03635.html#a0383e5bf22653a832beeabda82c1eeb3aae6a7bd26e8ee17a505a5f6c6f720316", null ],

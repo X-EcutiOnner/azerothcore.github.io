@@ -1,7 +1,6 @@
 var a19988 =
 [
-    [ "npc_storm_beacon_spawnAI", "d7/d22/a19988.html#a031c1941f177a18af58efcf4a1270654", null ],
-    [ "UpdateAI", "d7/d22/a19988.html#a249bf56b905ef0c8b34c737d95518c91", null ],
-    [ "_amount", "d7/d22/a19988.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
-    [ "_checkTimer", "d7/d22/a19988.html#a7fd6d449b6a20ba9463896244c513a67", null ]
+    [ "HandleInstaKill", "d7/d22/a19988.html#a9371a2cc86616fd04e47939d45f01cae", null ],
+    [ "PrepareSpellScript", "d7/d22/a19988.html#a38eed301f1db3ea7ac15b626e5927500", null ],
+    [ "Register", "d7/d22/a19988.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
 ];

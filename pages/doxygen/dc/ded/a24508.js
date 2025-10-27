@@ -1,6 +1,6 @@
 var a24508 =
 [
-    [ "PrepareSpellScript", "dc/ded/a24508.html#a2585b06bbebf291d170df58daf6fdd4e", null ],
-    [ "RecalculateDamage", "dc/ded/a24508.html#a1fe9f9d4892b0ca8cb6699b555fb9268", null ],
-    [ "Register", "dc/ded/a24508.html#a834484683d2d782b4f4c027091108172", null ]
+    [ "HandleSendEvent", "dc/ded/a24508.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
+    [ "PrepareSpellScript", "dc/ded/a24508.html#aed8815b1d068ba04f12c7714a64af769", null ],
+    [ "Register", "dc/ded/a24508.html#aa55fa06e76b1f34e319e16984405ed20", null ]
 ];

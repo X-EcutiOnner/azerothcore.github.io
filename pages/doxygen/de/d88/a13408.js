@@ -1,8 +1,11 @@
 var a13408 =
 [
-    [ "FilterTargets", "de/d88/a13408.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
-    [ "HandleScriptEffect", "de/d88/a13408.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
-    [ "PrepareSpellScript", "de/d88/a13408.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
-    [ "Register", "de/d88/a13408.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
-    [ "Validate", "de/d88/a13408.html#a5493864b068de82015bc157f3d0899b3", null ]
+    [ "boss_baroness_anastariAI", "de/d88/a13408.html#acf180bbe881ba1f6e49c075254759c00", null ],
+    [ "JustDied", "de/d88/a13408.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
+    [ "JustEngagedWith", "de/d88/a13408.html#a7329455d99045e7002abffe09112a4ea", null ],
+    [ "Reset", "de/d88/a13408.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
+    [ "SchedulePossession", "de/d88/a13408.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
+    [ "UpdateAI", "de/d88/a13408.html#a962e4e3091d126682825c326af5f6922", null ],
+    [ "_possessedTargetGuid", "de/d88/a13408.html#a36e386b847c7032b5ce95a01070518ad", null ],
+    [ "_scheduler", "de/d88/a13408.html#aa59518627a5e64e371dbbb45cfced75f", null ]
 ];

@@ -1,7 +1,7 @@
 var a16160 =
 [
-    [ "HandlePeriodic", "d2/d83/a16160.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
-    [ "PrepareAuraScript", "d2/d83/a16160.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
-    [ "Register", "d2/d83/a16160.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
-    [ "Validate", "d2/d83/a16160.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
+    [ "OnRemove", "d2/d83/a16160.html#afb0821bc8774e634eefdd87efe6af945", null ],
+    [ "PrepareAuraScript", "d2/d83/a16160.html#a54b1de501bdf3193cdb89125bc1ceb0e", null ],
+    [ "Register", "d2/d83/a16160.html#a985ad6d7eca06fbaf869e591136f46a3", null ],
+    [ "Validate", "d2/d83/a16160.html#aa794b76c4d9590b867dda57f02724d95", null ]
 ];

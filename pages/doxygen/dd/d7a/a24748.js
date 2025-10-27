@@ -1,8 +1,10 @@
 var a24748 =
 [
-    [ "AfterRemove", "dd/d7a/a24748.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
-    [ "HandleDispel", "dd/d7a/a24748.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
-    [ "PrepareAuraScript", "dd/d7a/a24748.html#a44e66753516d693c31dba27c9d1ad250", null ],
-    [ "Register", "dd/d7a/a24748.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
-    [ "Validate", "dd/d7a/a24748.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
+    [ "Absorb", "dd/d7a/a24748.html#a99db0d1254ddcfa9e7afb241e73b3235", null ],
+    [ "CalculateAmount", "dd/d7a/a24748.html#a279a025cac490ee3647f47584b59179f", null ],
+    [ "Load", "dd/d7a/a24748.html#a3fededdbfca9d12e6dbd097620e104be", null ],
+    [ "PrepareAuraScript", "dd/d7a/a24748.html#a818875a8073491eab2508182bd941e25", null ],
+    [ "Register", "dd/d7a/a24748.html#a2419bff95bad81a0f63c4988f14eb3f9", null ],
+    [ "Validate", "dd/d7a/a24748.html#a60eb14be1b3108b7b896a27eab35569b", null ],
+    [ "absorbPct", "dd/d7a/a24748.html#ac51bad58076a6dfa520fd3e9ea0c76b5", null ]
 ];

@@ -1,6 +1,6 @@
 var a00980 =
 [
-    [ "SpellModPredicate", "d4/dfe/a08555.html", "d4/dfe/a08555" ],
+    [ "SpellModPredicate", "db/de2/a08556.html", "db/de2/a08556" ],
     [ "CharacterCustomizeFlags", "db/d20/a00980.html#a3a8c2696b2e9a6bf9d90ce80438aa578", [
       [ "CHAR_CUSTOMIZE_FLAG_NONE", "db/d20/a00980.html#a3a8c2696b2e9a6bf9d90ce80438aa578a6f6dac768618381b22f3ab44ba494533", null ],
       [ "CHAR_CUSTOMIZE_FLAG_CUSTOMIZE", "db/d20/a00980.html#a3a8c2696b2e9a6bf9d90ce80438aa578aadb876a16cbe9fa5facd96601b6a4626", null ],

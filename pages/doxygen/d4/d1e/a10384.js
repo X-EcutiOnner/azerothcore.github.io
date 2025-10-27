@@ -1,10 +1,7 @@
 var a10384 =
 [
-    [ "ServerScript", "d4/d1e/a10384.html#a164286c210360b97b9efb48aed33b0d8", null ],
-    [ "CanPacketReceive", "d4/d1e/a10384.html#a9c817a6f922029c9c58f783c4ebc18ff", null ],
-    [ "CanPacketSend", "d4/d1e/a10384.html#a6682dfb556d137feb5fc95a66ccd6917", null ],
-    [ "OnNetworkStart", "d4/d1e/a10384.html#ab51ce520816236687820d1f72bae0ed6", null ],
-    [ "OnNetworkStop", "d4/d1e/a10384.html#a1f2e87caed202bbcde98e2cb0c8f19c6", null ],
-    [ "OnSocketClose", "d4/d1e/a10384.html#a27ecdfc9c6d737d02705adcd13be9d13", null ],
-    [ "OnSocketOpen", "d4/d1e/a10384.html#a656f1c0dc191b8f91e0705748d286454", null ]
+    [ "InstanceMapScript", "d4/d1e/a10384.html#a350d328f82cc5e7ea43f3c8779d25a67", null ],
+    [ "checkValidity", "d4/d1e/a10384.html#a221dd91e2d2f761e66d990a6cae42306", null ],
+    [ "GetInstanceScript", "d4/d1e/a10384.html#aa5a9acfc5a7c81a4953fe0e296f9bcc8", null ],
+    [ "IsDatabaseBound", "d4/d1e/a10384.html#ab77651bb427813a7e119057c3dc53ca8", null ]
 ];

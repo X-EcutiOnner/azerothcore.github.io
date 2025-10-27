@@ -1,22 +1,10 @@
 var a22316 =
 [
-    [ "npc_wild_wyrmAI", "d3/d6b/a22316.html#a2540d13f92341c615e3998d14c13bdeb", null ],
-    [ "AttackStart", "d3/d6b/a22316.html#a59dd8724a6e7225950c5354784a4940b", null ],
-    [ "DamageTaken", "d3/d6b/a22316.html#a9ed22adf4f9f5fad611dfbfe60cbe75d", null ],
-    [ "EnterEvadeMode", "d3/d6b/a22316.html#ae9794e6d7720813df191180ee9ff8b82", null ],
-    [ "GetValidPlayer", "d3/d6b/a22316.html#a73b6b1e855253665861d2c6304f17a38", null ],
-    [ "MoveInLineOfSight", "d3/d6b/a22316.html#a8bfc44c2a69ddcf15304a2f32acea652", null ],
-    [ "MovementInform", "d3/d6b/a22316.html#aa8c1d051996c4093ac71a60a08be2775", null ],
-    [ "OnCharmed", "d3/d6b/a22316.html#add4d5e7c089831a63bf7b4d44b7110f9", null ],
-    [ "PassengerBoarded", "d3/d6b/a22316.html#a5c836960f7449608904116dc67f09fd4", null ],
-    [ "Reset", "d3/d6b/a22316.html#ae3229b737fba56e69fe75d92cc188ebe", null ],
-    [ "SpellHit", "d3/d6b/a22316.html#a9e1a027515f7c90900acacc7d102a267", null ],
-    [ "UpdateAI", "d3/d6b/a22316.html#aeeb7705770ed09ed97baf4d61d697ffc", null ],
-    [ "announceAttackTimer", "d3/d6b/a22316.html#a0e6fcddaeda1877376161310301770ad", null ],
-    [ "attackTimer", "d3/d6b/a22316.html#ac0657362e8e4c70af6976ec771612642", null ],
-    [ "checkTimer", "d3/d6b/a22316.html#a72f98db7ff7cf048eb1c9772bf99e46d", null ],
-    [ "playerGUID", "d3/d6b/a22316.html#ad321e939986dec9506b85f30e93cb54a", null ],
-    [ "setCharm", "d3/d6b/a22316.html#a3b8875f47f5e383b97ebda4d214e7eb2", null ],
-    [ "startPath", "d3/d6b/a22316.html#a35b4a0958c53d745700b859636c091bc", null ],
-    [ "switching", "d3/d6b/a22316.html#a9e6d01f8034382b318f008229be8e25f", null ]
+    [ "npc_infra_green_bomber_genericAI", "d3/d6b/a22316.html#aed712ea3625971e059e2ecd158227287", null ],
+    [ "DamageTaken", "d3/d6b/a22316.html#a8f860368df96e430b441c8316db99c93", null ],
+    [ "GetSummoner", "d3/d6b/a22316.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
+    [ "IsSummonedBy", "d3/d6b/a22316.html#a79676717b7c6219ea74ebe5a580eab28", null ],
+    [ "SpreadFire", "d3/d6b/a22316.html#a5727c839b7dd02ea64eccce3606688d1", null ],
+    [ "UpdateAI", "d3/d6b/a22316.html#a252875777655e963965676a24c15e766", null ],
+    [ "events", "d3/d6b/a22316.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
 ];

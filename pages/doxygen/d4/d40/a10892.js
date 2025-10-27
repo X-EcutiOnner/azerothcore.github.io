@@ -1,6 +1,7 @@
 var a10892 =
 [
-    [ "DismissCritter", "d4/d40/a10892.html#a87e35583063b340f014d21cd02c54cab", null ],
-    [ "Read", "d4/d40/a10892.html#a411b65505e8a332ecf9291a670dc38c4", null ],
-    [ "CritterGUID", "d4/d40/a10892.html#a89c071e81c9d39c099c32c4976f15304", null ]
+    [ "SocketGems", "d4/d40/a10892.html#a29700bfeaee0bbfec3700d48c3d37dfd", null ],
+    [ "Read", "d4/d40/a10892.html#a0e3a56488604a59a8da0bb77a1b26681", null ],
+    [ "GemGuids", "d4/d40/a10892.html#acd8001a74aa4e2b4b7614c20e4ddfd5a", null ],
+    [ "ItemGuid", "d4/d40/a10892.html#a2be27cf0fdd4ed6e6b7a9618eebe8914", null ]
 ];

@@ -1,6 +1,7 @@
 var a18584 =
 [
-    [ "HandleScript", "d8/d28/a18584.html#a930b8a515b5d156c16925dc218cf8172", null ],
-    [ "PrepareSpellScript", "d8/d28/a18584.html#a892b0ba0f6541b3557a0200be5028479", null ],
-    [ "Register", "d8/d28/a18584.html#a1eb85bc675a89ef9679e673c1fea9a08", null ]
+    [ "CalculateBonus", "d8/d28/a18584.html#ae149a739150cb7eb9fb67f19130c0510", null ],
+    [ "OnPeriodic", "d8/d28/a18584.html#a19697bd65a325870becc1c30d7deff36", null ],
+    [ "PrepareAuraScript", "d8/d28/a18584.html#a77c272d4a26323c421e4b264f79d5b66", null ],
+    [ "Register", "d8/d28/a18584.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
 ];

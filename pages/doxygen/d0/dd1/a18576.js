@@ -1,9 +1,6 @@
 var a18576 =
 [
-    [ "npc_gluttonous_abominationAI", "d0/dd1/a18576.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
-    [ "JustDied", "d0/dd1/a18576.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
-    [ "JustSummoned", "d0/dd1/a18576.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
-    [ "Reset", "d0/dd1/a18576.html#a45588181429a74ac024e0390c76fa57a", null ],
-    [ "UpdateAI", "d0/dd1/a18576.html#a33ef03a9f005ff187493275a9c2683a7", null ],
-    [ "_events", "d0/dd1/a18576.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
+    [ "npc_terenas_menethilAI", "d0/d7b/a18580.html", "d0/d7b/a18580" ],
+    [ "npc_terenas_menethil", "d0/dd1/a18576.html#a6b6850598c582e3d44c13275302fd32d", null ],
+    [ "GetAI", "d0/dd1/a18576.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
 ];

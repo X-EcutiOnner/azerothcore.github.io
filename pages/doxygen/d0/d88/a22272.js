@@ -1,6 +1,9 @@
 var a22272 =
 [
-    [ "npc_vics_flying_machineAI", "d3/de9/a22276.html", "d3/de9/a22276" ],
-    [ "npc_vics_flying_machine", "d0/d88/a22272.html#ac0f1e83a9f53f1e38e81804f0332e3fd", null ],
-    [ "GetAI", "d0/d88/a22272.html#aac2a7cabd2e87705e9a1b3bfebb89eae", null ]
+    [ "npc_lord_areteAI", "d0/d88/a22272.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
+    [ "InitializeAI", "d0/d88/a22272.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
+    [ "UpdateAI", "d0/d88/a22272.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
+    [ "_landgrenGUID", "d0/d88/a22272.html#ac0e3753096dfe779024acc8400791171", null ],
+    [ "_landgrenSoulGUID", "d0/d88/a22272.html#aaa28c67691610136f0b418b30892f3cd", null ],
+    [ "events", "d0/d88/a22272.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
 ];

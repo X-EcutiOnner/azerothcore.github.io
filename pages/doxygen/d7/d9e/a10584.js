@@ -1,9 +1,8 @@
 var a10584 =
 [
-    [ "GuildRoster", "d7/d9e/a10584.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
-    [ "Write", "d7/d9e/a10584.html#a544a539999827d4eb8923cbbcdf42bac", null ],
-    [ "InfoText", "d7/d9e/a10584.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
-    [ "MemberData", "d7/d9e/a10584.html#a964fc72bf3ada77c171fd1f691449241", null ],
-    [ "RankData", "d7/d9e/a10584.html#a67b0a12fae93c5807030c1062f328abb", null ],
-    [ "WelcomeText", "d7/d9e/a10584.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
+    [ "PlayedTime", "d7/d9e/a10584.html#abc477d90a27dc41a7c643448302464cf", null ],
+    [ "Write", "d7/d9e/a10584.html#a147071f2545cd91213d6c92dab7438c7", null ],
+    [ "LevelTime", "d7/d9e/a10584.html#a2bf832827f9497a59bbfac714799b4b5", null ],
+    [ "TotalTime", "d7/d9e/a10584.html#ae762fe00339a8f4ca6f9e14bb8515251", null ],
+    [ "TriggerScriptEvent", "d7/d9e/a10584.html#a434b33c61ba5e2d91f084cbfe425c964", null ]
 ];

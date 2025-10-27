@@ -1,12 +1,7 @@
 var a10812 =
 [
-    [ "StartMirrorTimer", "d9/d32/a10812.html#a86039d4a721636477f266712682883f0", null ],
-    [ "StartMirrorTimer", "d9/d32/a10812.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
-    [ "Write", "d9/d32/a10812.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
-    [ "MaxValue", "d9/d32/a10812.html#a3f26c682d547be40d2800eff2189348d", null ],
-    [ "Paused", "d9/d32/a10812.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
-    [ "Scale", "d9/d32/a10812.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
-    [ "SpellID", "d9/d32/a10812.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
-    [ "Timer", "d9/d32/a10812.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
-    [ "Value", "d9/d32/a10812.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
+    [ "GuildBankSetTabText", "d9/d32/a10812.html#aba353d3f94a88b71f49b9c0dc096be2c", null ],
+    [ "Read", "d9/d32/a10812.html#a24f580f6addcd08945c05016b3f0e544", null ],
+    [ "Tab", "d9/d32/a10812.html#ada6707c2105410d78d4335dbf4747141", null ],
+    [ "TabText", "d9/d32/a10812.html#a9bb8c3f539fdcf389caf57ed818c6164", null ]
 ];

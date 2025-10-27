@@ -1,12 +1,7 @@
 var a15892 =
 [
-    [ "npc_taldaram_flamesphere", "d4/de5/a15892.html#aad7d6696b54e39c6abd27a7252353360", null ],
-    [ "DoAction", "d4/de5/a15892.html#aa79e370c1c30eccb44a46b622e2d5f2a", null ],
-    [ "IsSummonedBy", "d4/de5/a15892.html#acb232931bc181eedf4b39d5519dd45e2", null ],
-    [ "JustDied", "d4/de5/a15892.html#ae6dfff3df39257c55495707934d5d38b", null ],
-    [ "SetVictimPos", "d4/de5/a15892.html#a51f1683806095c760d4accff9e23f8b6", null ],
-    [ "UpdateAI", "d4/de5/a15892.html#a163341c0ff0f56986e2486e06e21b4b2", null ],
-    [ "instance", "d4/de5/a15892.html#afd0ff83cb5fba1fbeb85b7d600f1b1de", null ],
-    [ "moveTimer", "d4/de5/a15892.html#afe50ac59ec441ab11745ca9461158a00", null ],
-    [ "victimPos", "d4/de5/a15892.html#ae681d84f2324faf22296dcb6e08484b0", null ]
+    [ "npc_paoka_swiftmountainAI", "d4/de5/a15892.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "d4/de5/a15892.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "d4/de5/a15892.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "d4/de5/a15892.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
 ];

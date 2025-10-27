@@ -1,6 +1,8 @@
 var a20116 =
 [
-    [ "boss_freya_iron_rootAI", "d6/db4/a20120.html", "d6/db4/a20120" ],
-    [ "boss_freya_iron_root", "d2/d0a/a20116.html#a9478144d6cb72d08698cbfc50893935b", null ],
-    [ "GetAI", "d2/d0a/a20116.html#acdda736e9259d59a30a40d989e70f95c", null ]
+    [ "npc_brann_radioAI", "d2/d0a/a20116.html#a329ca0310efe109f7fb364045f6eccbb", null ],
+    [ "MoveInLineOfSight", "d2/d0a/a20116.html#ad119431edd6f632b4c44fc4e8708d375", null ],
+    [ "Reset", "d2/d0a/a20116.html#a89183942dcb38f48de1867bfbce15721", null ],
+    [ "_helpLock", "d2/d0a/a20116.html#ae927b6c8143cfb029ab6574d10dde60e", null ],
+    [ "_lock", "d2/d0a/a20116.html#a421cfd2b8b149a0f3ea5bc2262ba6bac", null ]
 ];

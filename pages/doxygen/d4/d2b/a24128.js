@@ -1,5 +1,9 @@
 var a24128 =
 [
-    [ "go_warmaul_prison", "d4/d2b/a24128.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
-    [ "OnGossipHello", "d4/d2b/a24128.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
+    [ "boss_nethermancer_sepethrea", "d4/d2b/a24128.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
+    [ "EnterEvadeMode", "d4/d2b/a24128.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
+    [ "JustDied", "d4/d2b/a24128.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
+    [ "JustEngagedWith", "d4/d2b/a24128.html#a89851b9f6eb94270fe22151d3a968bec", null ],
+    [ "JustSummoned", "d4/d2b/a24128.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
+    [ "KilledUnit", "d4/d2b/a24128.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
 ];

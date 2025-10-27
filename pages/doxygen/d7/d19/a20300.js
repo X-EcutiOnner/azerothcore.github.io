@@ -1,6 +1,6 @@
 var a20300 =
 [
-    [ "FilterTargets", "d7/d19/a20300.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
-    [ "PrepareSpellScript", "d7/d19/a20300.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
-    [ "Register", "d7/d19/a20300.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
+    [ "boss_vezaxAI", "dc/d1f/a20304.html", "dc/d1f/a20304" ],
+    [ "boss_vezax", "d7/d19/a20300.html#af778f9ef3070598f8ca5109b2f6f0f82", null ],
+    [ "GetAI", "d7/d19/a20300.html#a55c7f1ee93252768ba02e8d0d4634eb9", null ]
 ];

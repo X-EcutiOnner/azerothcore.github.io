@@ -1,8 +1,16 @@
 var a05500 =
 [
-    [ "result_type", "da/de2/a05500.html#a20f96383bade76c6185d8f20f458784e", null ],
-    [ "Instance", "da/de2/a05500.html#a5ff7fcb1f8d34861b0c210eddc450681", null ],
-    [ "max", "da/de2/a05500.html#ad5dcf280f768ebd79210caf6ecff4290", null ],
-    [ "min", "da/de2/a05500.html#ab153ffca65139db4084745302dd4db7f", null ],
-    [ "operator()", "da/de2/a05500.html#afe5f6dd94cbc6add3fd13fa3fe37b60d", null ]
+    [ "difference_type", "da/de2/a05500.html#aeb2086c6034a734b92b3cb8d0382a293", null ],
+    [ "iterator_category", "da/de2/a05500.html#a60f6936503d386c555d012e8763611ca", null ],
+    [ "pointer", "da/de2/a05500.html#aa25ef6456bed8f4e599a48c7c1448363", null ],
+    [ "reference", "da/de2/a05500.html#a95fa5b0dac0017e43bc5683fb040836d", null ],
+    [ "value_type", "da/de2/a05500.html#ab19bfdfea57f6de2bbef93aff14481ec", null ],
+    [ "CheckedBufferOutputIterator", "da/de2/a05500.html#a49de38fe9f4e296bcd229d486864c65e", null ],
+    [ "check", "da/de2/a05500.html#ab8414d5a971d77718de7f610bb000443", null ],
+    [ "operator*", "da/de2/a05500.html#a2d4635aa952b03df738046667197b6f9", null ],
+    [ "operator++", "da/de2/a05500.html#a1bdbf99823ee46a88094480b5040211b", null ],
+    [ "operator++", "da/de2/a05500.html#a8a72bd229fb92e389ec311142ca2a139", null ],
+    [ "remaining", "da/de2/a05500.html#ae804b558c6912a00405070e170572407", null ],
+    [ "_buf", "da/de2/a05500.html#abee1c6def8872acea5f34f0ae22aa467", null ],
+    [ "_end", "da/de2/a05500.html#a83a86f648edeeaf34b01581b972b2f1d", null ]
 ];

@@ -1,7 +1,6 @@
 var a24352 =
 [
-    [ "HandlePeriodic", "d2/d1e/a24352.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
-    [ "PrepareAuraScript", "d2/d1e/a24352.html#a58dc6668172d046cef3046649928c124", null ],
-    [ "Register", "d2/d1e/a24352.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
-    [ "Validate", "d2/d1e/a24352.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
+    [ "npc_invis_infernal_casterAI", "d6/d89/a24356.html", "d6/d89/a24356" ],
+    [ "npc_invis_infernal_caster", "d2/d1e/a24352.html#a9aed081ef904075830428bbc76f53874", null ],
+    [ "GetAI", "d2/d1e/a24352.html#aede0c5cc390ea423169b1cba66d929cd", null ]
 ];

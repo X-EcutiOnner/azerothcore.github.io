@@ -1,8 +1,6 @@
 var a18992 =
 [
-    [ "HandleScript", "d2/d28/a18992.html#ae0d16607f9eb3ff233513233bfb573ea", null ],
-    [ "HandleScript2", "d2/d28/a18992.html#a3ff7d46323da70df6ad11ddfcaf6cfbb", null ],
-    [ "Load", "d2/d28/a18992.html#ad41decc0a264104ca2232aef4e71cdaf", null ],
-    [ "PrepareSpellScript", "d2/d28/a18992.html#a2d1dbae570206b358878020879708000", null ],
-    [ "Register", "d2/d28/a18992.html#a7cf32445caa09f2a2b3c52f68f315ba5", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "d4/d11/a18996.html", "d4/d11/a18996" ],
+    [ "npc_icc_skybreaker_marksman", "d2/d28/a18992.html#a1d870b78e1acf2d17782265e28698d1c", null ],
+    [ "GetAI", "d2/d28/a18992.html#a374017d37da15705d51ab8edc75683ff", null ]
 ];

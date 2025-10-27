@@ -1,7 +1,8 @@
 var a19488 =
 [
-    [ "HandleProc", "d6/de1/a19488.html#adb7714eca4c317ab76db0ecbc813669e", null ],
-    [ "PrepareAuraScript", "d6/de1/a19488.html#a70f2c5c4656abb4798ad39b015fc2a9a", null ],
-    [ "Register", "d6/de1/a19488.html#a445ce7331c36e507aa24466ff9a67781", null ],
-    [ "Validate", "d6/de1/a19488.html#ad0e44f34d7bd1671ef7dcc2165abaa66", null ]
+    [ "npc_alexstraszaAI", "d6/de1/a19488.html#a36cf63109e379fa4a9e3f3426d70e50c", null ],
+    [ "AttackStart", "d6/de1/a19488.html#a120931695bf3ea649289ee4f6df9a3fd", null ],
+    [ "MoveInLineOfSight", "d6/de1/a19488.html#af93fc8e8877cc5730db7a9386ac3d815", null ],
+    [ "UpdateAI", "d6/de1/a19488.html#aa8cc3ee1a2a4702349b39708cc172594", null ],
+    [ "events", "d6/de1/a19488.html#aade88413d2f2998be6dcb9d15bf85ce0", null ]
 ];

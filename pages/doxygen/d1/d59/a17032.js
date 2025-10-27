@@ -1,6 +1,6 @@
 var a17032 =
 [
-    [ "boss_garfrostAI", "df/d5a/a17036.html", "df/d5a/a17036" ],
-    [ "boss_garfrost", "d1/d59/a17032.html#ac116491cf252ee476cedee55ea292827", null ],
-    [ "GetAI", "d1/d59/a17032.html#a8a67bb09249655a8706868bb26b5124d", null ]
+    [ "entry", "d1/d59/a17032.html#a80e1510436336f4ed17748a06b27178d", null ],
+    [ "pathId", "d1/d59/a17032.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
+    [ "startPosition", "d1/d59/a17032.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
 ];

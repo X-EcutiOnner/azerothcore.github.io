@@ -1,6 +1,5 @@
 var a27288 =
 [
-    [ "go_l70_etc_musicAI", "df/dde/a27292.html", "df/dde/a27292" ],
-    [ "go_l70_etc_music", "df/da0/a27288.html#a766dccca12fc7959273ba1e3a278564f", null ],
-    [ "GetAI", "df/da0/a27288.html#a5231ffc778830f8a49ae85a8c1173deb", null ]
+    [ "achievement_sa_defense_of_the_ancients", "df/da0/a27288.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "df/da0/a27288.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

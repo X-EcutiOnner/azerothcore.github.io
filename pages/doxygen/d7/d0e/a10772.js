@@ -1,5 +1,5 @@
 var a10772 =
 [
-    [ "LFGLeave", "d7/d0e/a10772.html#aba31f53e0e13c13fd96f1b6ea1d42310", null ],
-    [ "Read", "d7/d0e/a10772.html#abae9c55efce73edf5edf1940cb8b61eb", null ]
+    [ "SocketEnchantID", "d7/d0e/a10772.html#ae682a8405a5fa1c70033d190dde25d99", null ],
+    [ "SocketIndex", "d7/d0e/a10772.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
 ];

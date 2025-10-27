@@ -1,7 +1,7 @@
 var a15852 =
 [
-    [ "npc_ahnkahar_nerubian", "d3/db1/a15852.html#ae18cdf09bae50751e266e95caf165f8e", null ],
-    [ "Reset", "d3/db1/a15852.html#a387831015ec8e4bc65cff8c8550bb176", null ],
-    [ "UpdateAI", "d3/db1/a15852.html#a9a773127e4f94bcdf142718355eae0e8", null ],
-    [ "uiSprintTimer", "d3/db1/a15852.html#a27a6f57a6b145cc595896d1ad453064f", null ]
+    [ "npc_giltharesAI", "d3/db1/a15852.html#af22e42b2180987febd964784b6d49b5e", null ],
+    [ "JustEngagedWith", "d3/db1/a15852.html#ae9ba65652db3d2d32920d1a98594727a", null ],
+    [ "Reset", "d3/db1/a15852.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
+    [ "WaypointReached", "d3/db1/a15852.html#a9308c73760e50e0f3d04031b508526d1", null ]
 ];

@@ -1,6 +1,7 @@
 var a13524 =
 [
-    [ "instance_uldaman_InstanceMapScript", "dc/deb/a13528.html", "dc/deb/a13528" ],
-    [ "instance_uldaman", "d4/d16/a13524.html#a854807db729d15aa4a09aad051fe3bda", null ],
-    [ "GetInstanceScript", "d4/d16/a13524.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
+    [ "HandleScriptEffect", "d4/d16/a13524.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
+    [ "PrepareSpellScript", "d4/d16/a13524.html#af9deee89e837e07486a7555632008eb2", null ],
+    [ "Register", "d4/d16/a13524.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
+    [ "Validate", "d4/d16/a13524.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
 ];

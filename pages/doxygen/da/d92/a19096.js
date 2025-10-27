@@ -1,7 +1,5 @@
 var a19096 =
 [
-    [ "HandleRemove", "da/d92/a19096.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
-    [ "PrepareAuraScript", "da/d92/a19096.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
-    [ "Register", "da/d92/a19096.html#ad7ba015a7878adad0820cf378d2632ca", null ],
-    [ "Validate", "da/d92/a19096.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
+    [ "at_frozen_throne_teleport", "da/d92/a19096.html#a8065b9f9b55b267be1757775f84de349", null ],
+    [ "OnTrigger", "da/d92/a19096.html#ae1f9476b7f47320f545e702e9317bd03", null ]
 ];

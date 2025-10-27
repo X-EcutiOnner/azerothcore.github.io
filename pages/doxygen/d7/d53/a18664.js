@@ -1,6 +1,7 @@
 var a18664 =
 [
-    [ "boss_sister_svalnaAI", "d0/de3/a18668.html", "d0/de3/a18668" ],
-    [ "boss_sister_svalna", "d7/d53/a18664.html#a233a9606db61f6ab945350e98a0929ff", null ],
-    [ "GetAI", "d7/d53/a18664.html#a5eb89badd75104dfe1dc3e03d372adc0", null ]
+    [ "ValithriaDespawner", "d7/d53/a18664.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
+    [ "Execute", "d7/d53/a18664.html#a4f8c63f52996da14078a7196cae3a00d", null ],
+    [ "operator()", "d7/d53/a18664.html#a05bae39d642f294f2ef98151d66ba382", null ],
+    [ "_creature", "d7/d53/a18664.html#a64bf6181ad867efd987edec141ca3bf0", null ]
 ];

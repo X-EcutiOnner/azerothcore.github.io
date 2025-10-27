@@ -1,15 +1,17 @@
 var a05880 =
 [
-    [ "TransactionBase", "d6/d45/a05880.html#a663d13ba0b22e0711d135073ff80ee47", null ],
-    [ "~TransactionBase", "d6/d45/a05880.html#a6ce7e6ef81bb466463bace35cdd49476", null ],
-    [ "Append", "d6/d45/a05880.html#a867b7a92080104278aef5fb4975a4a52", null ],
-    [ "Append", "d6/d45/a05880.html#aa0a81814abe26d456018c3bc9153cd4d", null ],
-    [ "AppendPreparedStatement", "d6/d45/a05880.html#a8e099a4f8775b5e5e3b95ad0273a716f", null ],
-    [ "Cleanup", "d6/d45/a05880.html#a35e0ce11de325a1b286d90a2936d4aa3", null ],
-    [ "GetSize", "d6/d45/a05880.html#a261ad9d7423562ccbe2cac6d75c203bd", null ],
-    [ "DatabaseWorkerPool", "d6/d45/a05880.html#a5d89109a06fa4fca3057b99bbfa84e58", null ],
-    [ "MySQLConnection", "d6/d45/a05880.html#a06fa417f69e0a67da8f249333b1d189d", null ],
-    [ "TransactionTask", "d6/d45/a05880.html#a377add6d6b5e34e774d2497d58f4a180", null ],
-    [ "_cleanedUp", "d6/d45/a05880.html#aa82af96128bfcee997423a54396d40d4", null ],
-    [ "m_queries", "d6/d45/a05880.html#a156f1a8316358c05285778e5734eade1", null ]
+    [ "QueryCallbackData", "d6/d45/a05880.html#a43aa5b63c21480a9a02e5b1705f5e46a", null ],
+    [ "QueryCallbackData", "d6/d45/a05880.html#af3d8b55a1a392e1f471bcf7ce16d8f45", null ],
+    [ "QueryCallbackData", "d6/d45/a05880.html#a81f06a2940c72077d0f8bbe0d6292c5e", null ],
+    [ "~QueryCallbackData", "d6/d45/a05880.html#a7a748ec0f04555caf696be1792701134", null ],
+    [ "QueryCallbackData", "d6/d45/a05880.html#aea307606758c54a99e020421acaa5697", null ],
+    [ "operator=", "d6/d45/a05880.html#a135161ac21cd4f11f2178acc8316afea", null ],
+    [ "operator=", "d6/d45/a05880.html#a5b4baade8dd78ab3dc00e1003f679fb3", null ],
+    [ "ConstructActiveMember", "d6/d45/a05880.html#a63276ee687270e668e7c51876ced5fb1", null ],
+    [ "DestroyActiveMember", "d6/d45/a05880.html#aac0ba6a0017441eb25c4b294fde99186", null ],
+    [ "MoveFrom", "d6/d45/a05880.html#a4ef783bc4f06f2cbaec3f4b6ca2c49aa", null ],
+    [ "QueryCallback", "d6/d45/a05880.html#a3bf0675bb0e337d06f1e7ef31d7622fe", null ],
+    [ "_isPrepared", "d6/d45/a05880.html#ad4e5dcd8f5648dfa36116b9944813ec6", null ],
+    [ "_prepared", "d6/d45/a05880.html#ab87a39965f1ca9d48d6e5a88fde51976", null ],
+    [ "_string", "d6/d45/a05880.html#a384db60c65e7823fdbc0ff430ac8dfe1", null ]
 ];

@@ -1,9 +1,10 @@
 var a07408 =
 [
-    [ "entry", "d5/dbe/a07408.html#a4c6980a035279ca45e88a2ddc0beb0b5", null ],
-    [ "o", "d5/dbe/a07408.html#a785703f50dcafda5888fb76af82a09da", null ],
-    [ "type", "d5/dbe/a07408.html#aa21624a51b1fbfc474d0c64f4996cb9b", null ],
-    [ "x", "d5/dbe/a07408.html#a55bd18cb9ea27748a07dd91f6783de23", null ],
-    [ "y", "d5/dbe/a07408.html#a908fbf198d908963e77630b42deea147", null ],
-    [ "z", "d5/dbe/a07408.html#a4a49f5cbb58764ea9c137fc010e898c6", null ]
+    [ "OwnerId", "d5/dbe/a07408.html#ae6203d7a867838b279825925841a99df", null ],
+    [ "PrevOwnerId", "d5/dbe/a07408.html#a8357cc41fe125545d473c1f14c3ffa05", null ],
+    [ "PrevState", "d5/dbe/a07408.html#ab97cde6dcd3c3e91bb94bf39d104bf77", null ],
+    [ "State", "d5/dbe/a07408.html#a6e2b1f8c232c27ab24e3ca8bca8f6b03", null ],
+    [ "Timer", "d5/dbe/a07408.html#a945afa538fc0dd1a4be11f5b5ac74bcb", null ],
+    [ "TotalOwnerId", "d5/dbe/a07408.html#aec31f39eb98a3686ead3b1b99c7abfde", null ],
+    [ "Tower", "d5/dbe/a07408.html#a222db96ad937e31986c0c39a5a371dd7", null ]
 ];

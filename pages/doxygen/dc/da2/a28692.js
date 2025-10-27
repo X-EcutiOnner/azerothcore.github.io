@@ -1,6 +1,7 @@
 var a28692 =
 [
-    [ "OffsetAttributes", "dc/da2/a28692.html#a072918c298b316823e784c2e5779be2a", null ],
-    [ "OffsetInstances", "dc/da2/a28692.html#abb618c81b9ee9de03c3d4cf8689f5cd4", null ],
-    [ "used", "dc/da2/a28692.html#a20a458e613639ea26255dd772824a642", null ]
+    [ "from", "dc/da2/a28692.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
+    [ "ID", "dc/da2/a28692.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
+    [ "price", "dc/da2/a28692.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
+    [ "to", "dc/da2/a28692.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
 ];

@@ -1,6 +1,5 @@
 var a25720 =
 [
-    [ "HandleEffectApply", "d5/dc3/a25720.html#a9e8b226f3ebb33c47de584850643994f", null ],
-    [ "PrepareAuraScript", "d5/dc3/a25720.html#a30b74d44bb81a04ea1cfe1b6d5f926c7", null ],
-    [ "Register", "d5/dc3/a25720.html#a1d3d32c057877b5cf00f5970e583c25e", null ]
+    [ "PrepareSpellScript", "d5/dc3/a25720.html#a9137654c01f41c735f477b85e4ec6d73", null ],
+    [ "Register", "d5/dc3/a25720.html#af1002e90bc0801c0759393d2d4af8778", null ]
 ];

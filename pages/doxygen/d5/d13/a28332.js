@@ -1,7 +1,9 @@
 var a28332 =
 [
-    [ "Id", "d5/d13/a28332.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
-    [ "SoundBank", "d5/d13/a28332.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
-    [ "SpellId", "d5/d13/a28332.html#aa010947f5fbec6867b005b25728e720b", null ],
-    [ "Type", "d5/d13/a28332.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
+    [ "HolidayWorldStateId", "d5/d13/a28332.html#a3f70ffbb1abb5a96fe91c2eec3682c8b", null ],
+    [ "id", "d5/d13/a28332.html#a52f7840f9247d2af63062dd280b37341", null ],
+    [ "mapid", "d5/d13/a28332.html#a11e1326eeb24b436b10db53acc323c13", null ],
+    [ "maxGroupSize", "d5/d13/a28332.html#adbdae47b424c3b61b76b48ea5798f52d", null ],
+    [ "name", "d5/d13/a28332.html#a9a56ca930ff8425d4b77066e47a1e09f", null ],
+    [ "type", "d5/d13/a28332.html#a647669b97599d7edf02b5a38dd1d5116", null ]
 ];

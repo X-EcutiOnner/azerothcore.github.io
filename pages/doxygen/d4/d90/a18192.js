@@ -1,8 +1,6 @@
 var a18192 =
 [
-    [ "FilterTargets", "d4/d90/a18192.html#a14e392760361b95578bc95de10cdd8aa", null ],
-    [ "HandleForcedCast", "d4/d90/a18192.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
-    [ "PrepareSpellScript", "d4/d90/a18192.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
-    [ "Register", "d4/d90/a18192.html#ac2105e66f692c6a991ac9190b1901505", null ],
-    [ "Validate", "d4/d90/a18192.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
+    [ "ExtraRemoveEffect", "d4/d90/a18192.html#a49b1087d66606ddeebe6918ad05d4b37", null ],
+    [ "PrepareAuraScript", "d4/d90/a18192.html#a41992ed6c23275d3a910915755b682f9", null ],
+    [ "Register", "d4/d90/a18192.html#ab956cb95473cf0c5fc9fb2af14fc945e", null ]
 ];

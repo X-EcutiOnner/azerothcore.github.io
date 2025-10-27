@@ -1,7 +1,12 @@
 var a07168 =
 [
-    [ "BfGraveyardWG", "dd/dbc/a07168.html#a040af569e6633e4ed4c7513b55d034ac", null ],
-    [ "GetTextId", "dd/dbc/a07168.html#ae1dfdc2d5a36f10f1a116d56b27545ed", null ],
-    [ "SetTextId", "dd/dbc/a07168.html#a367d525e84d8634f47fb6679c2ee3d42", null ],
-    [ "m_GossipTextId", "dd/dbc/a07168.html#ab85d716c0b93f8a17d7bf0dccabc21c6", null ]
+    [ "Type", "dd/dbc/a07168.html#a758c9729d907d872a5e5365539486408", [
+      [ "ADD", "dd/dbc/a07168.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d", null ],
+      [ "REMOVE", "dd/dbc/a07168.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538", null ],
+      [ "UPDATE_BID", "dd/dbc/a07168.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5", null ]
+    ] ],
+    [ "AuctionSearcherUpdate", "dd/dbc/a07168.html#acfc9c3749967b90c2b8633c40f1aa2bd", null ],
+    [ "~AuctionSearcherUpdate", "dd/dbc/a07168.html#a34cb7ede5d2108065a51a80396d6fc55", null ],
+    [ "listFaction", "dd/dbc/a07168.html#a3f61acebd3d594e3a23d682d2d5292bc", null ],
+    [ "updateType", "dd/dbc/a07168.html#af6ee8672029884bdbec327242ce5d5d2", null ]
 ];

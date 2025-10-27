@@ -1,10 +1,9 @@
 var a09300 =
 [
-    [ "AnyDeadUnitSpellTargetInRangeCheck", "df/ded/a09300.html#a212c308a02716ff382e820e86e233ed3", null ],
-    [ "operator()", "df/ded/a09300.html#af328df880d17a62e2dbed0ff4231fc39", null ],
-    [ "operator()", "df/ded/a09300.html#adcc69b9ef03a68aa235e40449a80b701", null ],
-    [ "operator()", "df/ded/a09300.html#a2f2483cf7078681cb3acf28560e61184", null ],
-    [ "operator()", "df/ded/a09300.html#aba0bf4c320a684b68743a06e724a369e", null ],
-    [ "i_check", "df/ded/a09300.html#aa2223ad31acf47a1608ded6b5cbc2f03", null ],
-    [ "i_spellInfo", "df/ded/a09300.html#afeb889f6cee596b2c2229f86e0a8a3f1", null ]
+    [ "CreatureSearcher", "df/ded/a09300.html#ac6fc899c41c2a93f530fa53c693f0df8", null ],
+    [ "Visit", "df/ded/a09300.html#a50630891bfb459c6c526b3e4e7e29136", null ],
+    [ "Visit", "df/ded/a09300.html#a503aab809be6f5d60c020e89c64dce7b", null ],
+    [ "i_check", "df/ded/a09300.html#abc72e56d9453d798fcb457aff023d3ac", null ],
+    [ "i_object", "df/ded/a09300.html#af31c7a1cf3f03a42d7fe66836e306b85", null ],
+    [ "i_phaseMask", "df/ded/a09300.html#a5fa5777da405c57700a7e1ea7d5f94cf", null ]
 ];

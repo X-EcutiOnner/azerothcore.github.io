@@ -1,5 +1,5 @@
 var a12876 =
 [
-    [ "boss_apoko", "d1/d26/a12876.html#a3ae4752839f47bbfce5f7df03c427cd2", null ],
-    [ "JustEngagedWith", "d1/d26/a12876.html#a7ad52b258863bd818b3e5d1143de7629", null ]
+    [ "at_karazhan_atiesh_aran", "d1/d26/a12876.html#ac84f5848b8a26cbfdd2544108567a6cc", null ],
+    [ "OnTrigger", "d1/d26/a12876.html#a5a6646c573b6e0bab0cbc288e594979e", null ]
 ];

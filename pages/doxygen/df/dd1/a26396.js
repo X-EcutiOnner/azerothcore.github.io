@@ -1,5 +1,9 @@
 var a26396 =
 [
-    [ "spell_q55_sacred_cleansing", "df/dd1/a26396.html#a4aa8a16350a7a55706841471fd985ca2", null ],
-    [ "GetSpellScript", "df/dd1/a26396.html#a50a8f2d777169aaeef88533b66b88fb2", null ]
+    [ "CheckCast", "df/dd1/a26396.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
+    [ "HandleTriggerSpellHit", "df/dd1/a26396.html#aca027bb2995456bfcedd33c06966eb88", null ],
+    [ "HandleTriggerSpellLaunch", "df/dd1/a26396.html#aa67bf9f81086a3837037d67306979072", null ],
+    [ "PrepareSpellScript", "df/dd1/a26396.html#a9247b5f3a376bebdcf857565b5049944", null ],
+    [ "Register", "df/dd1/a26396.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
+    [ "Validate", "df/dd1/a26396.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
 ];

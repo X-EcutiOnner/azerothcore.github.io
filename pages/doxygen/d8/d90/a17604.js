@@ -1,6 +1,9 @@
 var a17604 =
 [
-    [ "npc_muradin_bronzebeard_igbAI", "d3/d40/a17608.html", "d3/d40/a17608" ],
-    [ "npc_muradin_bronzebeard_igb", "d8/d90/a17604.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
-    [ "GetAI", "d8/d90/a17604.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
+    [ "FilterTargets", "d8/d90/a17604.html#a7b490400378893a19cdaf52af25f3a51", null ],
+    [ "HandleScript", "d8/d90/a17604.html#acee46fb0af45364478a92db59fcc3f24", null ],
+    [ "Load", "d8/d90/a17604.html#a46a43b9a8dec2f61aee3dccad4178a78", null ],
+    [ "PrepareSpellScript", "d8/d90/a17604.html#abb8fac43566f92b19e644edc38ab5d73", null ],
+    [ "Register", "d8/d90/a17604.html#a1add221102b7067ffc130969f5172eae", null ],
+    [ "Validate", "d8/d90/a17604.html#a4d2b60161f5aed31132f0fc554aab7b6", null ]
 ];

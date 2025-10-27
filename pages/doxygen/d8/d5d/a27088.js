@@ -1,5 +1,6 @@
 var a27088 =
 [
-    [ "achievement_not_even_a_scratch", "d8/d5d/a27088.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "d8/d5d/a27088.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "HandleAfterHit", "d8/d5d/a27088.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
+    [ "PrepareSpellScript", "d8/d5d/a27088.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
+    [ "Register", "d8/d5d/a27088.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
 ];

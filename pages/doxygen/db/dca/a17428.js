@@ -1,6 +1,6 @@
 var a17428 =
 [
-    [ "FilterTargets", "db/dca/a17428.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
-    [ "PrepareSpellScript", "db/dca/a17428.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
-    [ "Register", "db/dca/a17428.html#add40d7731b07b30b595f76f7d4e983f4", null ]
+    [ "boss_moorabiAI", "d0/dff/a17432.html", "d0/dff/a17432" ],
+    [ "boss_moorabi", "db/dca/a17428.html#a94e14b2a9b06143985f785e781d1c302", null ],
+    [ "GetAI", "db/dca/a17428.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
 ];

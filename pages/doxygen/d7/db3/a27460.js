@@ -1,5 +1,6 @@
 var a27460 =
 [
-    [ "item_captured_frog", "d7/db3/a27460.html#ad41b743c98c9534453eca8cf1f367366", null ],
-    [ "OnUse", "d7/db3/a27460.html#a1156467ca046a077ea494f92c488bf54", null ]
+    [ "go_tadpole_cageAI", "d9/dfe/a27464.html", "d9/dfe/a27464" ],
+    [ "go_tadpole_cage", "d7/db3/a27460.html#a1a9acacd0ebff33d402018d4205e415b", null ],
+    [ "GetAI", "d7/db3/a27460.html#a38990dc5edd725623b6c35dba7802612", null ]
 ];

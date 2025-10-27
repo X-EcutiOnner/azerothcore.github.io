@@ -1,6 +1,5 @@
 var a24568 =
 [
-    [ "CheckProc", "db/d76/a24568.html#ace3662e092d02de975929741c470230d", null ],
-    [ "PrepareAuraScript", "db/d76/a24568.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
-    [ "Register", "db/d76/a24568.html#ae6432106538261827c3eac3dde1450f2", null ]
+    [ "npc_pet_dk_dancing_rune_weapon", "db/d76/a24568.html#ac838b907d56c97a911d7c7454c65e180", null ],
+    [ "InitializeAI", "db/d76/a24568.html#aafeac4a22f366591d6d66b6150e099e2", null ]
 ];

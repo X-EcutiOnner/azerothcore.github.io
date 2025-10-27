@@ -1,7 +1,6 @@
 var a22040 =
 [
-    [ "HandleScript", "d6/d77/a22040.html#a7fec959237546201ea94d5f87068e1c5", null ],
-    [ "PrepareSpellScript", "d6/d77/a22040.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
-    [ "Register", "d6/d77/a22040.html#a0aab07a4950f60a290491aa13103b332", null ],
-    [ "Validate", "d6/d77/a22040.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
+    [ "npc_q24545_vegard_dummyAI", "d6/d77/a22040.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
+    [ "UpdateAI", "d6/d77/a22040.html#aa31baac9ce3c4c951f93917b88390797", null ],
+    [ "done", "d6/d77/a22040.html#a0208fbae8e6c46d0671107530279c50c", null ]
 ];

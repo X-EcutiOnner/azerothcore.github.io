@@ -1,6 +1,6 @@
 var a25812 =
 [
-    [ "CheckSinkholes", "df/db3/a25812.html#a5c363144cde9e809d97730f54873fe85", null ],
-    [ "PrepareSpellScript", "df/db3/a25812.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
-    [ "Register", "df/db3/a25812.html#a6694fbf58b776b74df0a54cd96141688", null ]
+    [ "HandleScriptEffect", "df/db3/a25812.html#a94bbfc928beab8c8f27d84d1c9ab1558", null ],
+    [ "PrepareSpellScript", "df/db3/a25812.html#a479832175a4c77ce0c0a2f3d3f98f08c", null ],
+    [ "Register", "df/db3/a25812.html#aff9efad03d94958c29c84ea3c0d19fdb", null ]
 ];

@@ -1,7 +1,6 @@
 var a17376 =
 [
-    [ "HandleScript", "db/d58/a17376.html#a4b1e392acea30a9259e65a75667704c5", null ],
-    [ "Load", "db/d58/a17376.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
-    [ "PrepareSpellScript", "db/d58/a17376.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
-    [ "Register", "db/d58/a17376.html#a77632d11a172e5552c0c49de830a1639", null ]
+    [ "boss_drakkari_elementalAI", "d8/d8c/a17380.html", "d8/d8c/a17380" ],
+    [ "boss_drakkari_elemental", "db/d58/a17376.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
+    [ "GetAI", "db/d58/a17376.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
 ];

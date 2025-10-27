@@ -1,5 +1,5 @@
 var a28412 =
 [
-    [ "ID", "df/de9/a28412.html#a142c8a5e22234e6317ff113618559b8b", null ],
-    [ "Value", "df/de9/a28412.html#a693631ac3ce915a1c4adf565517eacf9", null ]
+    [ "Id", "df/de9/a28412.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
+    [ "textid", "df/de9/a28412.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
 ];

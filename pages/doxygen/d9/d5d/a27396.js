@@ -1,6 +1,10 @@
 var a27396 =
 [
-    [ "go_amberpine_outhouse", "d9/d5d/a27396.html#a953ea72b3954c89b6c391de5aca3b6ce", null ],
-    [ "OnGossipHello", "d9/d5d/a27396.html#a7cbfc3a091ad2332fd46140a24ac4e37", null ],
-    [ "OnGossipSelect", "d9/d5d/a27396.html#aa55fe049ba43dbd548ba55d982d89d51", null ]
+    [ "boss_emerissAI", "d9/d5d/a27396.html#ad94b3b097d9987e365f91b7e57d0f208", null ],
+    [ "DamageTaken", "d9/d5d/a27396.html#abb80c49c166f31cd7e2d24392fbf60e1", null ],
+    [ "ExecuteEvent", "d9/d5d/a27396.html#ad3839ad4b0a930bc96154b5b0aab17fe", null ],
+    [ "JustEngagedWith", "d9/d5d/a27396.html#a5a51b97216a27637f6bd3020ba05e0f7", null ],
+    [ "KilledUnit", "d9/d5d/a27396.html#ad851169bc09a362137e211dd10d30a1b", null ],
+    [ "Reset", "d9/d5d/a27396.html#a44dfb325c4e8413662052137edc710ef", null ],
+    [ "_stage", "d9/d5d/a27396.html#ae2c8c5c2d2054af41c5dbe938b3eb79a", null ]
 ];

@@ -1,8 +1,6 @@
 var a13428 =
 [
-    [ "HandleApply", "d3/d47/a13428.html#a2c64240e8675fc76598600ae2632570f", null ],
-    [ "HandleRemove", "d3/d47/a13428.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
-    [ "PrepareAuraScript", "d3/d47/a13428.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
-    [ "Register", "d3/d47/a13428.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
-    [ "Validate", "d3/d47/a13428.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
+    [ "instance_sunken_temple_InstanceMapScript", "df/d95/a13432.html", "df/d95/a13432" ],
+    [ "instance_sunken_temple", "d3/d47/a13428.html#a123b052c1cd1487588c88bf2611bc53b", null ],
+    [ "GetInstanceScript", "d3/d47/a13428.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
 ];

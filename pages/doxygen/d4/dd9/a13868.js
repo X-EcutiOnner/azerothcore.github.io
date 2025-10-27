@@ -1,20 +1,15 @@
 var a13868 =
 [
-    [ "boss_janalai", "d4/dd9/a13868.html#a6a049cb60b475b6c496862205d91c39f", null ],
-    [ "Boom", "d4/dd9/a13868.html#a902814fa472af7dde6096e6e1901bfd4", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d4/dd9/a13868.html#a9320a91d93f1fc82ec863ecf767c0a8a", null ],
-    [ "DamageDealt", "d4/dd9/a13868.html#af29b99a31b38516815390087d76c9408", null ],
-    [ "FireWall", "d4/dd9/a13868.html#ac3cd768db0abbbe4b03a08f214afc5ba", null ],
-    [ "HatchAllEggs", "d4/dd9/a13868.html#a7caee2554fe4f6211589e3346d1865fd", null ],
-    [ "JustDied", "d4/dd9/a13868.html#a1dd381dbf7bdc25e6a5fc519b132c5e4", null ],
-    [ "JustEngagedWith", "d4/dd9/a13868.html#af16f7db848ff2ddcf060ba770d0df836", null ],
-    [ "JustSummoned", "d4/dd9/a13868.html#a37aacd788ee8206a8ffbaad7ba702736", null ],
-    [ "Reset", "d4/dd9/a13868.html#a8f42138403eb2ef6d1737539dd352e80", null ],
-    [ "SetData", "d4/dd9/a13868.html#a48636a0186d7a09e4e98d960bab5530e", null ],
-    [ "SpawnBombs", "d4/dd9/a13868.html#ab352cc1bb7f2fc04505de30fe041c9bd", null ],
-    [ "StartBombing", "d4/dd9/a13868.html#a9a32cbc9bb1c1542a19aea32f9a9addf", null ],
-    [ "ThrowBombs", "d4/dd9/a13868.html#a9a927462879c6c81b2c919c62336a08c", null ],
-    [ "_isBombing", "d4/dd9/a13868.html#a881f564fe75051c1c10e645d3f0b243b", null ],
-    [ "_isFlameBreathing", "d4/dd9/a13868.html#a0fc79fcdfdd27baa047d22b86135a653", null ],
-    [ "_sideHatched", "d4/dd9/a13868.html#ae5cb2bcdfd54a66f62dc807946249528", null ]
+    [ "npc_deathstalker_fearleia", "d4/dd9/a13868.html#a92c6d31e801164dc0c4ddc8c47f134b6", null ],
+    [ "JustDied", "d4/dd9/a13868.html#a378f59a926e1be299b6e5ddf0cc83d30", null ],
+    [ "JustEngagedWith", "d4/dd9/a13868.html#a248f13c2fff27a9ec8075d5b1429fec8", null ],
+    [ "JustSummoned", "d4/dd9/a13868.html#a8ef363de7292d366eea128b55b1acaeb", null ],
+    [ "Reset", "d4/dd9/a13868.html#a5f7f40e2d702fae5242cfc347d44a1fe", null ],
+    [ "sQuestAccept", "d4/dd9/a13868.html#a5da116182685dfac72139b40266f2884", null ],
+    [ "SummonCreatureWithRandomTarget", "d4/dd9/a13868.html#a884be2e1aa730c310de24cb865fc7aa5", null ],
+    [ "SummonedCreatureDespawn", "d4/dd9/a13868.html#a36415976d5ae2034578581bdec183f33", null ],
+    [ "UpdateAI", "d4/dd9/a13868.html#a45f4823e2a131fda3c4e03de13ec0c5e", null ],
+    [ "_playerGUID", "d4/dd9/a13868.html#a7135b977e1d7ef47c62f4dace25908fd", null ],
+    [ "_questInProgress", "d4/dd9/a13868.html#a899a4a0c3c70236be66ee2028f3423c7", null ],
+    [ "_summons", "d4/dd9/a13868.html#a79dc171af9ef5057039f9a6b87c49bd1", null ]
 ];

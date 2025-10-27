@@ -1,6 +1,9 @@
 var a19004 =
 [
-    [ "boss_anubrekhanAI", "da/da6/a19008.html", "da/da6/a19008" ],
-    [ "boss_anubrekhan", "d9/ddd/a19004.html#a6ff866300f8b0b58d4b7467def9747c0", null ],
-    [ "GetAI", "d9/ddd/a19004.html#aba5c31f182d6f600302f84ed21e9f7e9", null ]
+    [ "npc_icc_skybreaker_vicarAI", "d9/ddd/a19004.html#ae74a306850b328f536b55e5c24c040ab", null ],
+    [ "AttackStart", "d9/ddd/a19004.html#a52b753e1f599eb02385d980a78cd3c78", null ],
+    [ "JustEngagedWith", "d9/ddd/a19004.html#afdb4215cd0578de7342b152783666ed6", null ],
+    [ "Reset", "d9/ddd/a19004.html#aeb11687534fa7c1e76ea22cc07deb73d", null ],
+    [ "UpdateAI", "d9/ddd/a19004.html#af1726169fe63eb3ff1ed95eb0e10d2f0", null ],
+    [ "events", "d9/ddd/a19004.html#a711d9571b4edb87f77eeebbd12e248b3", null ]
 ];

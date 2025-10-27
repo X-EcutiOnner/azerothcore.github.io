@@ -1,6 +1,9 @@
 var a24840 =
 [
-    [ "HandleScript", "d1/d2a/a24840.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
-    [ "PrepareSpellScript", "d1/d2a/a24840.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
-    [ "Register", "d1/d2a/a24840.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
+    [ "Absorb", "d1/d2a/a24840.html#ae5101c9adc7b9d09daf9c78d5e6d9d14", null ],
+    [ "CalculateAmount", "d1/d2a/a24840.html#a0e88abc0dfc1f0aa5c52f3602f99d45a", null ],
+    [ "Load", "d1/d2a/a24840.html#ab7eae0747736dea5633ef51eb0945fae", null ],
+    [ "PrepareAuraScript", "d1/d2a/a24840.html#a760b72149ee11ad88e290c9537b3094b", null ],
+    [ "Register", "d1/d2a/a24840.html#a0d25efee128ee95f9ad268b53358f376", null ],
+    [ "absorbPct", "d1/d2a/a24840.html#a31091ef6a0d39e1d498420a85f6c84fa", null ]
 ];

@@ -1,7 +1,11 @@
 var a12284 =
 [
-    [ "boss_ebonrocAI", "d5/d4f/a12284.html#a73be20fda4e3f8cb7623796f3c32d741", null ],
-    [ "JustEngagedWith", "d5/d4f/a12284.html#a2c74e0030b1093d79245978939043d53", null ],
-    [ "MovementInform", "d5/d4f/a12284.html#ac1e16bb5ac18b55fbfb8af5078df270f", null ],
-    [ "UpdateAI", "d5/d4f/a12284.html#aa2059c3834fbcfda3c8da5743bd2501f", null ]
+    [ "boss_quartermaster_zigris", "d5/d4f/a12284.html#a1d2f68327cc9b88fdd82d44ac8446d57", null ],
+    [ "DamageTaken", "d5/d4f/a12284.html#a61d7f1c4e5a2901812f1175ccce69ab2", null ],
+    [ "JustDied", "d5/d4f/a12284.html#a9295bbcffd7968051a789e8dfb634e23", null ],
+    [ "JustEngagedWith", "d5/d4f/a12284.html#af482c06e00e7f6c15b290115998a27a9", null ],
+    [ "Reset", "d5/d4f/a12284.html#a71e911bb91b7447e8aed28cdccfda8db", null ],
+    [ "SpellHitTarget", "d5/d4f/a12284.html#a38197746cc73ada1378e6e1a5555ef79", null ],
+    [ "UpdateAI", "d5/d4f/a12284.html#a400f7ace05cd5c4d127aecf5d771c616", null ],
+    [ "_hasDrunkPotion", "d5/d4f/a12284.html#a25335533bc43171687e03f1ed22d4fb3", null ]
 ];

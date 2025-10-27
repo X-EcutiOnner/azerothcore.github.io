@@ -1,6 +1,6 @@
 var a00308 =
 [
-    [ "BattlegroundScore", "d1/d80/a07383.html", "d1/d80/a07383" ],
+    [ "BattlegroundScore", "d7/d50/a07384.html", "d7/d50/a07384" ],
     [ "ScoreType", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18", [
       [ "SCORE_KILLING_BLOWS", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a22caa690e4e043a997818fdf5a449046", null ],
       [ "SCORE_DEATHS", "d5/d0f/a00308.html#aa5c51730b458b3ddc7b23ce42f320f18a4ba4987db8c69483e0652a21dace8412", null ],

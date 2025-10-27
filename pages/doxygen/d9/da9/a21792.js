@@ -1,20 +1,14 @@
 var a21792 =
 [
-    [ "npc_hourglass_of_eternityAI", "d9/da9/a21792.html#a51c68ff78150b7351dc34edf7a51e1a7", null ],
-    [ "GetCopy", "d9/da9/a21792.html#addacaa0e3ba686d9cb343689c56fc4b5", null ],
-    [ "GetPlayer", "d9/da9/a21792.html#a1216634009d635f5a1658cae62f92133", null ],
-    [ "HideNozdormu", "d9/da9/a21792.html#acbcf4d9602bf87b2c4c4f898c8a6f6b0", null ],
-    [ "InitializeAI", "d9/da9/a21792.html#af592003f019ace3e78ff7a19ada3e8f6", null ],
-    [ "IsFuture", "d9/da9/a21792.html#a19527a426055c689a36f5b02e2978307", null ],
-    [ "randEntry", "d9/da9/a21792.html#af581d3a7697fdb0f257d72568c342df8", null ],
-    [ "randomWhisper", "d9/da9/a21792.html#a235353e41ee463f43f3d18a7b4f5a75d", null ],
-    [ "ShowNozdormu", "d9/da9/a21792.html#a483e2a5a89b3dc4cfd51bb78732a6af2", null ],
-    [ "UpdateAI", "d9/da9/a21792.html#a66a80c2c36a5fa7a89b30a7c872007d8", null ],
-    [ "copyGUID", "d9/da9/a21792.html#add68894964681b8345c3751510f7e48c", null ],
-    [ "count", "d9/da9/a21792.html#a126b67aacdfd0d96ad443944e9244f3b", null ],
-    [ "events", "d9/da9/a21792.html#ae2d5690e0dc5205d68bd1ddb1b0ca3a9", null ],
-    [ "lastRandomTalk", "d9/da9/a21792.html#aa00ff56a5a906e97ddf4d10d300c85c4", null ],
-    [ "pGUID", "d9/da9/a21792.html#a6ad97b2c11057f936dce4aad04894177", null ],
-    [ "phase", "d9/da9/a21792.html#ad7d3755e7b13c4b37d56f14746acc1e1", null ],
-    [ "randomTalk", "d9/da9/a21792.html#a19042362c0dc7da80b81d284d2fa7e4b", null ]
+    [ "npc_hidden_cultistAI", "d9/da9/a21792.html#a970aaa2401664337147696624cc8cac4", null ],
+    [ "AttackPlayer", "d9/da9/a21792.html#a55e3b02d05f35d134fc605a13efe9018", null ],
+    [ "Initialize", "d9/da9/a21792.html#ab9199126a5a19cc3c6dc612bc428d79c", null ],
+    [ "PreScript", "d9/da9/a21792.html#a92be5361e2b28152adcca0629b286bb8", null ],
+    [ "Reset", "d9/da9/a21792.html#afe38e448d86cdf910870d72a3890ae1f", null ],
+    [ "sGossipSelect", "d9/da9/a21792.html#adf6d85bc5a32c8bd7c125d24f67411d9", null ],
+    [ "UpdateAI", "d9/da9/a21792.html#a0bba4d10439d47d44ff856c7fec18595", null ],
+    [ "_emoteState", "d9/da9/a21792.html#adb4e884787dc480358c5be22d276ec49", null ],
+    [ "_events", "d9/da9/a21792.html#ab0494e33d16a43aa1426784d1882e41c", null ],
+    [ "_npcFlags", "d9/da9/a21792.html#aea867d06cb737e2a44445c2c8c7d6e45", null ],
+    [ "_playerGUID", "d9/da9/a21792.html#ac7ecf525ed8c0d2a3d00b34f7afdbf18", null ]
 ];

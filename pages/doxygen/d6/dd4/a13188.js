@@ -1,7 +1,8 @@
 var a13188 =
 [
-    [ "OnPeriodic", "d6/dd4/a13188.html#aa48b6f35302a8857465c6567f811dec6", null ],
-    [ "PrepareAuraScript", "d6/dd4/a13188.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
-    [ "Register", "d6/dd4/a13188.html#aa7708067531131738b86077638eda7ac", null ],
-    [ "Validate", "d6/dd4/a13188.html#a665698b54201184185d96bd33f53e584", null ]
+    [ "HandleDummy", "d6/dd4/a13188.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
+    [ "HandleScript", "d6/dd4/a13188.html#a528ce741ebde0fb6b796431da800e439", null ],
+    [ "PrepareSpellScript", "d6/dd4/a13188.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
+    [ "Register", "d6/dd4/a13188.html#a8dea4b47777324b88c7e022f11741b25", null ],
+    [ "Validate", "d6/dd4/a13188.html#a6f49345b2beea56b4eaad390a6062118", null ]
 ];

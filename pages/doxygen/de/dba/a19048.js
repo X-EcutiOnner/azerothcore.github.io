@@ -1,6 +1,5 @@
 var a19048 =
 [
-    [ "boss_gothikAI", "d6/d98/a19052.html", "d6/d98/a19052" ],
-    [ "boss_gothik", "de/dba/a19048.html#a0c3ee990a1caf020e9a4be000f0b77e0", null ],
-    [ "GetAI", "de/dba/a19048.html#aea7aec86c4132521fb7b9b6e87baf289", null ]
+    [ "npc_icc_buff_switcher", "de/dba/a19048.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
+    [ "OnGossipSelect", "de/dba/a19048.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
 ];

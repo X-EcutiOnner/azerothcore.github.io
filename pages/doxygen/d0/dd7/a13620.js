@@ -1,12 +1,8 @@
 var a13620 =
 [
-    [ "npc_sentinel_infiltrator", "d0/dd7/a13620.html#a40ce6808a4d0622eb88a669485335020", null ],
-    [ "Initialize", "d0/dd7/a13620.html#acc94269a3ede4c897f457a270e9a9c12", null ],
-    [ "JustEngagedWith", "d0/dd7/a13620.html#a2c9927468b92d00b60efac851eacfef1", null ],
-    [ "MovementInform", "d0/dd7/a13620.html#a57aef1c4ce7a491408c2c6b19d4d4cf2", null ],
-    [ "Reset", "d0/dd7/a13620.html#a0f26dbe23efdf572f81723dff1d3eeaf", null ],
-    [ "UpdateAI", "d0/dd7/a13620.html#ac676246948689c891c0f9cca7f8bc8b6", null ],
-    [ "_events", "d0/dd7/a13620.html#a296d6c70b6c439319cc69a9d39005e62", null ],
-    [ "_fleedForAssistance", "d0/dd7/a13620.html#a948c9d2081b33e18aa927fb18598c8ad", null ],
-    [ "_path", "d0/dd7/a13620.html#a32d531478df327ccb0bb85e262420813", null ]
+    [ "HandleApply", "d0/dd7/a13620.html#a2c64240e8675fc76598600ae2632570f", null ],
+    [ "HandleRemove", "d0/dd7/a13620.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
+    [ "PrepareAuraScript", "d0/dd7/a13620.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
+    [ "Register", "d0/dd7/a13620.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
+    [ "Validate", "d0/dd7/a13620.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
 ];

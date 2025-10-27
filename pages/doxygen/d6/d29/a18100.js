@@ -1,6 +1,7 @@
 var a18100 =
 [
-    [ "FilterTargets", "d6/d29/a18100.html#aa7e731de9e5ab1078b8ff7022393c9a7", null ],
-    [ "PrepareSpellScript", "d6/d29/a18100.html#ae92968db6e5a1384f89e6aff9ab2d1f3", null ],
-    [ "Register", "d6/d29/a18100.html#ae6ab0b56688bfc07262cc83e84102ccb", null ]
+    [ "HandleExtraEffect", "d6/d29/a18100.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "d6/d29/a18100.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "d6/d29/a18100.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "d6/d29/a18100.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

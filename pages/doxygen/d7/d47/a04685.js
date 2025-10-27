@@ -1,4 +1,4 @@
 var a04685 =
 [
-    [ "SFMTRand", "da/dfb/a05547.html", "da/dfb/a05547" ]
+    [ "SFMTRand", "d6/dfa/a05552.html", "d6/dfa/a05552" ]
 ];

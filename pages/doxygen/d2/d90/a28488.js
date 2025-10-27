@@ -1,10 +1,12 @@
 var a28488 =
 [
-    [ "ID", "d2/d90/a28488.html#a090069d13cbbcc5762ecca600c506492", null ],
-    [ "map_id", "d2/d90/a28488.html#a685931e2a361f9e0fc81c004c7467d19", null ],
-    [ "MountCreatureID", "d2/d90/a28488.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
-    [ "name", "d2/d90/a28488.html#ae00db3ea736c3a470f6f0690c178e758", null ],
-    [ "x", "d2/d90/a28488.html#a7cbd40848094fa367862d653b0f7170d", null ],
-    [ "y", "d2/d90/a28488.html#a9380befd45cab3104003b2487464bd71", null ],
-    [ "z", "d2/d90/a28488.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
+    [ "CalendarFilterType", "d2/d90/a28488.html#a082b59a0ead8223e590cbb371f3ad122", null ],
+    [ "CalendarFlags", "d2/d90/a28488.html#a6f9cf483200ac982bab7a66ff8bef33d", null ],
+    [ "Date", "d2/d90/a28488.html#ac5b08b086ef0668508ea9da48642e95b", null ],
+    [ "Duration", "d2/d90/a28488.html#a10cae1b1fbb91930209a714c545b129b", null ],
+    [ "Id", "d2/d90/a28488.html#a1119824959b87fb312209a998a5869b1", null ],
+    [ "Looping", "d2/d90/a28488.html#afa2d93998650f88e62bfa76807961274", null ],
+    [ "Priority", "d2/d90/a28488.html#a6d82bc7a66d227f61c3be2260a3d03f5", null ],
+    [ "Region", "d2/d90/a28488.html#a96a8e5ceae0f4b0d8cc6cf3aa59802a0", null ],
+    [ "TextureFilename", "d2/d90/a28488.html#a2209ecbb78f1f467491506cc97df57e4", null ]
 ];

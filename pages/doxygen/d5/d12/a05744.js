@@ -1,10 +1,6 @@
 var a05744 =
 [
-    [ "MySQLConnectionInfo", "d5/d12/a05744.html#ae60c54053d71eb9325df10701b1f42d3", null ],
-    [ "database", "d5/d12/a05744.html#a7e65a418ad668772e4ce1b298d92f10a", null ],
-    [ "host", "d5/d12/a05744.html#a2659372561aae5feb8da121984354ef3", null ],
-    [ "password", "d5/d12/a05744.html#af5a51bd38ce1d58f65444d69b0283966", null ],
-    [ "port_or_socket", "d5/d12/a05744.html#a37b89660afb3ee085e817836e9d1d01f", null ],
-    [ "ssl", "d5/d12/a05744.html#a90e5a934b4ec46e5783248a1a80a4830", null ],
-    [ "user", "d5/d12/a05744.html#a6bf4166ebb99ea30a3894e3d8833bde6", null ]
+    [ "Append", "d5/d12/a05744.html#a290b052f7cbd321c646e9e5e19484444", null ],
+    [ "Append", "d5/d12/a05744.html#a867b7a92080104278aef5fb4975a4a52", null ],
+    [ "Append", "d5/d12/a05744.html#aa0a81814abe26d456018c3bc9153cd4d", null ]
 ];

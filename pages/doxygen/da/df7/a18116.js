@@ -1,6 +1,8 @@
 var a18116 =
 [
-    [ "HandleSpecial", "da/df7/a18116.html#afa540e8c748ca3083667528e2449bc65", null ],
-    [ "PrepareSpellScript", "da/df7/a18116.html#a9472211ffdaa33802099b22b2a721645", null ],
-    [ "Register", "da/df7/a18116.html#ab868b10372ff2ef401d19b126acf00c6", null ]
+    [ "FilterTargets", "da/df7/a18116.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
+    [ "HandleScript", "da/df7/a18116.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
+    [ "PrepareSpellScript", "da/df7/a18116.html#ae6b30b8da52141c385f985435cac99a1", null ],
+    [ "Register", "da/df7/a18116.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
+    [ "Validate", "da/df7/a18116.html#accff1f03fb7c0d56cb197bb18348635c", null ]
 ];

@@ -1,8 +1,10 @@
 var a09340 =
 [
-    [ "FriendlyMissingBuffInRange", "d3/d98/a09340.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
-    [ "operator()", "d3/d98/a09340.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
-    [ "i_obj", "d3/d98/a09340.html#aba43edf48b2b0184b52143707c3531f4", null ],
-    [ "i_range", "d3/d98/a09340.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
-    [ "i_spell", "d3/d98/a09340.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
+    [ "AnyDeadUnitObjectInRangeCheck", "d3/d98/a09340.html#ad51c7d9c256d8d769e7e5df2a618f233", null ],
+    [ "operator()", "d3/d98/a09340.html#a71355418a935e1e4c4f5294c0e6a244f", null ],
+    [ "operator()", "d3/d98/a09340.html#ae885f49537043421a92b44c201bec358", null ],
+    [ "operator()", "d3/d98/a09340.html#a92b2dcfedf97677e84f46ee0e3affb91", null ],
+    [ "operator()", "d3/d98/a09340.html#ae7a76a9bcc28c6e4705a2885b02be20d", null ],
+    [ "i_range", "d3/d98/a09340.html#a1a95cfd469f27284e6ff35e9856bddcb", null ],
+    [ "i_searchObj", "d3/d98/a09340.html#acf10f61f95961ff4b9fd4a8c162fa029", null ]
 ];

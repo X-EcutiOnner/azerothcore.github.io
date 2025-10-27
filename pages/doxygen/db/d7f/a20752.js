@@ -1,5 +1,6 @@
 var a20752 =
 [
-    [ "achievement_thorim_lose_your_illusion", "db/d7f/a20752.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
-    [ "OnCheck", "db/d7f/a20752.html#a322df4f30445a84085615925f74a8a6b", null ]
+    [ "npc_ulduar_dark_rune_guardianAI", "de/def/a20756.html", "de/def/a20756" ],
+    [ "npc_ulduar_dark_rune_guardian", "db/d7f/a20752.html#a6266dd5c096402b5383af09ac361a634", null ],
+    [ "GetAI", "db/d7f/a20752.html#a9ed188491483548658ce682bf36e6fd2", null ]
 ];

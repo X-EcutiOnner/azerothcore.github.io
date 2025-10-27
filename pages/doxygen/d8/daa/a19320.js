@@ -1,8 +1,6 @@
 var a19320 =
 [
-    [ "npc_alexstraszaAI", "d8/daa/a19320.html#a36cf63109e379fa4a9e3f3426d70e50c", null ],
-    [ "AttackStart", "d8/daa/a19320.html#a120931695bf3ea649289ee4f6df9a3fd", null ],
-    [ "MoveInLineOfSight", "d8/daa/a19320.html#af93fc8e8877cc5730db7a9386ac3d815", null ],
-    [ "UpdateAI", "d8/daa/a19320.html#aa8cc3ee1a2a4702349b39708cc172594", null ],
-    [ "events", "d8/daa/a19320.html#aade88413d2f2998be6dcb9d15bf85ce0", null ]
+    [ "boss_maexxna_webwrapAI", "da/d3c/a19324.html", "da/d3c/a19324" ],
+    [ "boss_maexxna_webwrap", "d8/daa/a19320.html#afebd8c00234fe6cdd93af8ae443bb637", null ],
+    [ "GetAI", "d8/daa/a19320.html#a6d86d58a86b831a219ecc598044be4f3", null ]
 ];

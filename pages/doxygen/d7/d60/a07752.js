@@ -1,10 +1,10 @@
 var a07752 =
 [
-    [ "Achievement", "d7/d60/a07752.html#a03caf33cfc9f75dfdbba2dedc747e0ce", null ],
-    [ "CharacterId", "d7/d60/a07752.html#a0ec541a4e11d9e19f7cced7e839b1ebb", null ],
-    [ "Criteria", "d7/d60/a07752.html#a4eae1ba9b211d8c8307000ddae428348", null ],
-    [ "Day", "d7/d60/a07752.html#a216aaf4eed90eeb05662631e8f89b4ab", null ],
-    [ "IsFinished", "d7/d60/a07752.html#a1aff3d0a28a12f0e4ee10bca376f335c", null ],
-    [ "Month", "d7/d60/a07752.html#a9be9cfb6a40c527e8f6b6ad381ed5b42", null ],
-    [ "Year", "d7/d60/a07752.html#a85612eac22d3233e620eb11e6e1b48b0", null ]
+    [ "storage_type", "d7/d60/a07752.html#a054c554d9d812e571455bce39655a9ac", null ],
+    [ "value_type", "d7/d60/a07752.html#a5c55c97d4dd08c5e71563596e0c59111", null ],
+    [ "operator value_type", "d7/d60/a07752.html#a2d439c3664d398cebfc503b2769bfa9c", null ],
+    [ "operator*", "d7/d60/a07752.html#a9d4cf547beb996e5945acb84f5305200", null ],
+    [ "operator->", "d7/d60/a07752.html#afb5bb4e6e4a32db89e3b8a68e9c0d901", null ],
+    [ "TryConsume", "d7/d60/a07752.html#a57892ca7457ca93bdcdbbb8309311c8f", null ],
+    [ "val", "d7/d60/a07752.html#aef50fdfc79df3ca784eb90a69bd43076", null ]
 ];

@@ -1,7 +1,9 @@
 var a24240 =
 [
-    [ "o", "d9/dce/a24240.html#a3785e9b55ea3a7140086ce1f86232109", null ],
-    [ "x", "d9/dce/a24240.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
-    [ "y", "d9/dce/a24240.html#a10fbad67977d8dd3911eb629c1797684", null ],
-    [ "z", "d9/dce/a24240.html#a69fc2438e52f6c0de3af13900ff38166", null ]
+    [ "npc_wounded_blood_elfAI", "d9/dce/a24240.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "d9/dce/a24240.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "d9/dce/a24240.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "d9/dce/a24240.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "d9/dce/a24240.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "d9/dce/a24240.html#a5affcb00e28a582f8926ab2226001cd0", null ]
 ];

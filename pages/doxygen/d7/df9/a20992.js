@@ -1,8 +1,14 @@
 var a20992 =
 [
-    [ "FilterTargets", "d7/df9/a20992.html#a3d92ca79a15efaff3c4dd28f0c7ede2c", null ],
-    [ "HandleDummyEffect", "d7/df9/a20992.html#afbf3aab6724d12426ab0197fb9459562", null ],
-    [ "PrepareSpellScript", "d7/df9/a20992.html#a7ec441904bc100c6b15ee219617489ff", null ],
-    [ "Register", "d7/df9/a20992.html#a2796cc02d7c029f3f99264162a19e1d2", null ],
-    [ "Validate", "d7/df9/a20992.html#a85388adbc15d449e687f9f463cce3833", null ]
+    [ "boss_yoggsaron_cloudAI", "d7/df9/a20992.html#a6a13c31fb0649387ac411ed7ec2fb66a", null ],
+    [ "AttackStart", "d7/df9/a20992.html#a3ecf6a1c74780aa250be3f4e2dd04ea1", null ],
+    [ "DoAction", "d7/df9/a20992.html#a68caf08c015a0048be7858e435bbc84d", null ],
+    [ "InitWaypoint", "d7/df9/a20992.html#ae68d5d5f5c1edb74596761dccecb614d", null ],
+    [ "JustSummoned", "d7/df9/a20992.html#a70e74c2a1c19468e25edcc3d0e41df06", null ],
+    [ "MoveInLineOfSight", "d7/df9/a20992.html#a48fb6de45d47ab4fbe02da835056f4ce", null ],
+    [ "Reset", "d7/df9/a20992.html#adffbc99bb2fff0ce2082cd9e2d3608d7", null ],
+    [ "UpdateEscortAI", "d7/df9/a20992.html#a3661ecf52a93c7d769eaa9dcfa2ac202", null ],
+    [ "WaypointReached", "d7/df9/a20992.html#a3933d6c39c060db0da18d174e5b2e01a", null ],
+    [ "_checkTimer", "d7/df9/a20992.html#a883307a4134b269fb2bbe6efa371b945", null ],
+    [ "_isSummoning", "d7/df9/a20992.html#a118ccef4158c49bddf2b503f3a3090d0", null ]
 ];

@@ -1,12 +1,6 @@
 var a21400 =
 [
-    [ "boss_lavanthorAI", "dd/d7c/a21400.html#aa562ad1ee029a35adebf8eac8f8249f3", null ],
-    [ "EnterEvadeMode", "dd/d7c/a21400.html#a0334d92f1ddf30235efe298df622535b", null ],
-    [ "JustDied", "dd/d7c/a21400.html#a300dbedf5514998e7065a2ef44a65f1f", null ],
-    [ "JustEngagedWith", "dd/d7c/a21400.html#a9820ec47af72af19f00b172ee138f908", null ],
-    [ "MoveInLineOfSight", "dd/d7c/a21400.html#aa613f70d93be479aa701675dfdb2d3e3", null ],
-    [ "Reset", "dd/d7c/a21400.html#a55d5cc6906033b5c56daa3ed15fabf0f", null ],
-    [ "UpdateAI", "dd/d7c/a21400.html#ab77ac2c78e94fed437e8ccefba4e363c", null ],
-    [ "events", "dd/d7c/a21400.html#a273adc56adefe9810013bc80950f2624", null ],
-    [ "pInstance", "dd/d7c/a21400.html#ad6059577c5e131523f39316c2291b421", null ]
+    [ "instance_utgarde_pinnacle_InstanceMapScript", "d2/dbf/a21404.html", "d2/dbf/a21404" ],
+    [ "instance_utgarde_pinnacle", "dd/d7c/a21400.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
+    [ "GetInstanceScript", "dd/d7c/a21400.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
 ];

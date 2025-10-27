@@ -1,8 +1,7 @@
 var a22100 =
 [
-    [ "npc_llod_genericAI", "d8/da7/a22100.html#ac75d85ae4b59416952788102cd1db132", null ],
-    [ "Reset", "d8/da7/a22100.html#a15bd7442fef36a551cc8797f7919f57c", null ],
-    [ "UpdateAI", "d8/da7/a22100.html#aa7dce553fb699127f63281b2c47a2f02", null ],
-    [ "attackTimer", "d8/da7/a22100.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
-    [ "summonTimer", "d8/da7/a22100.html#aeeeef545aee565c14d86d8587923c677", null ]
+    [ "npc_emilyAI", "d7/dea/a22104.html", "d7/dea/a22104" ],
+    [ "npc_emily", "d8/da7/a22100.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "d8/da7/a22100.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "d8/da7/a22100.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

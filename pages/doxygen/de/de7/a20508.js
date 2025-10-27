@@ -1,8 +1,7 @@
 var a20508 =
 [
-    [ "npc_ulduar_magnetic_coreAI", "de/de7/a20508.html#a585437dff0c49ac1a6bf7929ab266ff5", null ],
-    [ "SetData", "de/de7/a20508.html#a27c31856d2bfe3228ae3b0b361064d7a", null ],
-    [ "UpdateAI", "de/de7/a20508.html#ab9113a021844aa7ea8ac46df9c50b205", null ],
-    [ "despawnTimer", "de/de7/a20508.html#ad244ccbaeda814b9e56fad93f06f12fe", null ],
-    [ "pInstance", "de/de7/a20508.html#a3e01c612a689d89bdbe3529c429a413d", null ]
+    [ "HandleEffectPeriodic", "de/de7/a20508.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
+    [ "PrepareAuraScript", "de/de7/a20508.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
+    [ "Register", "de/de7/a20508.html#aed86a298340cc05fbe2a8a68396423bb", null ],
+    [ "Validate", "de/de7/a20508.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
 ];

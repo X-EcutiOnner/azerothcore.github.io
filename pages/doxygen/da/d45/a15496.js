@@ -1,7 +1,6 @@
 var a15496 =
 [
-    [ "HandleEffectPeriodic", "da/d45/a15496.html#ac47c157dbd193bc131d281666ae2097f", null ],
-    [ "PrepareAuraScript", "da/d45/a15496.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
-    [ "Register", "da/d45/a15496.html#ac3c158fdddd007d1d7986470032bfc25", null ],
-    [ "Validate", "da/d45/a15496.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
+    [ "HandleDummy", "da/d45/a15496.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
+    [ "PrepareSpellScript", "da/d45/a15496.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
+    [ "Register", "da/d45/a15496.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
 ];

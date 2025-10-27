@@ -1,7 +1,6 @@
 var a23848 =
 [
-    [ "OnApply", "d3/d00/a23848.html#abab02b8307b762d070ba12358f59916d", null ],
-    [ "OnRemove", "d3/d00/a23848.html#a5ac45a5cfa17689d241c44241216ff38", null ],
-    [ "PrepareAuraScript", "d3/d00/a23848.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
-    [ "Register", "d3/d00/a23848.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
+    [ "boss_porung", "d3/d00/a23848.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "d3/d00/a23848.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "d3/d00/a23848.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

@@ -1,6 +1,6 @@
 var a26580 =
 [
-    [ "PrepareAuraScript", "d8/d21/a26580.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
-    [ "Register", "d8/d21/a26580.html#a91f4b2b8796c7efab2f622893a393619", null ],
-    [ "AuraEffectHandleModes", "d8/d21/a26580.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
+    [ "CheckRequirement", "d8/d21/a26580.html#acaae3858de4d56028e3cb4581a57450c", null ],
+    [ "PrepareSpellScript", "d8/d21/a26580.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
+    [ "Register", "d8/d21/a26580.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
 ];

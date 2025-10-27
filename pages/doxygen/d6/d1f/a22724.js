@@ -1,11 +1,10 @@
 var a22724 =
 [
-    [ "boss_murmur", "d6/d1f/a22724.html#ad89ea433764c3017a3d33b37eb9e5602", null ],
-    [ "CanAIAttack", "d6/d1f/a22724.html#a6b89c95747c0a37c0b37527cd360e524", null ],
-    [ "CastSuppressionOOC", "d6/d1f/a22724.html#aab66339a7436c3c483297b25f6859558", null ],
-    [ "EnterEvadeMode", "d6/d1f/a22724.html#aa0f549c83a92302ece2323c75dd29acc", null ],
-    [ "JustEngagedWith", "d6/d1f/a22724.html#a3d872beeee7bf6ecd0c4aeaa3f8c603d", null ],
-    [ "Reset", "d6/d1f/a22724.html#a1f40ead1b2269b97c69bd4db808d6bae", null ],
-    [ "SetGUID", "d6/d1f/a22724.html#a88e18fd646a807ee92f1b24b43d500a6", null ],
-    [ "ShouldCastResonance", "d6/d1f/a22724.html#ade07217a85655a513d7a472d24589691", null ]
+    [ "OPvPCapturePointHP", "d6/d1f/a22724.html#a7f5fa3e3bd28924965cc08f41b5d6bd8", null ],
+    [ "ChangeState", "d6/d1f/a22724.html#aa0dc544ad3d53255dbfdab7461efcaa1", null ],
+    [ "FillInitialWorldStates", "d6/d1f/a22724.html#aa8d725422951485970d9106450fb6a38", null ],
+    [ "HandlePlayerEnter", "d6/d1f/a22724.html#ad9738c621df084d5a3f0070c80403642", null ],
+    [ "HandlePlayerLeave", "d6/d1f/a22724.html#a86e849e5387383a6c751e69350ffa07c", null ],
+    [ "SendChangePhase", "d6/d1f/a22724.html#a42528a90eda9ec28dd00df3f0ec78a15", null ],
+    [ "m_TowerType", "d6/d1f/a22724.html#a0191bec2d9492e21957ed9b4e0fed484", null ]
 ];

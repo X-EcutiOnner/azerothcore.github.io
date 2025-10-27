@@ -1,27 +1,8 @@
 var a09704 =
 [
-    [ "LootStore", "d3/d96/a09704.html#a99896ddfc04c20e2f7088a2ad8403e35", null ],
-    [ "~LootStore", "d3/d96/a09704.html#a5ed3ef2d00fdcb8edc3c4ddb9cb5a9ca", null ],
-    [ "CheckLootRefs", "d3/d96/a09704.html#a6506931ec5ce351687bc0c44ef74b435", null ],
-    [ "Clear", "d3/d96/a09704.html#abd9b51ff3aa4452ff5f5cc82267bac48", null ],
-    [ "GetEntryName", "d3/d96/a09704.html#a6adbdbba33f3c6d55d02f8f94de2e3ab", null ],
-    [ "GetLootFor", "d3/d96/a09704.html#a541edad9042f950ba2545c6e1126c419", null ],
-    [ "GetLootForConditionFill", "d3/d96/a09704.html#a46e8a8ed43a1e885ade1d5b74d79bb4b", null ],
-    [ "GetName", "d3/d96/a09704.html#acecb88522c97b74f87e0ed40fa009a04", null ],
-    [ "HaveLootFor", "d3/d96/a09704.html#abd45358d22bbb44f54743792a7fd0039", null ],
-    [ "HaveQuestLootFor", "d3/d96/a09704.html#a82a84ddb5051cf3e9ee508c2f0642d1e", null ],
-    [ "HaveQuestLootForPlayer", "d3/d96/a09704.html#ad800486cf5afb5842073b8ca1a43aad8", null ],
-    [ "IsRatesAllowed", "d3/d96/a09704.html#aa64da1c4756d94e30c552b17795b1da0", null ],
-    [ "LoadAndCollectLootIds", "d3/d96/a09704.html#a172a485f55b00f97248779c3f9f996dd", null ],
-    [ "LoadLootTable", "d3/d96/a09704.html#a131a846a8bce5b792a06a130bb1d1599", null ],
-    [ "ReportInvalidCount", "d3/d96/a09704.html#aa03234f502990184089e66778674c474", null ],
-    [ "ReportNonExistingId", "d3/d96/a09704.html#ab34193850f17f42ec65a466eefe4ff76", null ],
-    [ "ReportNonExistingId", "d3/d96/a09704.html#a85d0955deaa4332a977a131fbb93eb87", null ],
-    [ "ReportUnusedIds", "d3/d96/a09704.html#af0fe6608310a123d70cc8221e65e4556", null ],
-    [ "ResetConditions", "d3/d96/a09704.html#a4f258b3698a2a0a77a28b3b8a885e579", null ],
-    [ "Verify", "d3/d96/a09704.html#afd0762a7391f530009b44bf6b4a3a3be", null ],
-    [ "m_entryName", "d3/d96/a09704.html#a2dc4594b3aa9d4737a785a3b47c559c5", null ],
-    [ "m_LootTemplates", "d3/d96/a09704.html#a58cf63357ad373aaf5866f5f2dcb23a8", null ],
-    [ "m_name", "d3/d96/a09704.html#aaae57f6cacb66f1024fa572cd6ba8003", null ],
-    [ "m_ratesAllowed", "d3/d96/a09704.html#a9edc9a356084a1395ca5367db91981bd", null ]
+    [ "BossInfo", "d3/d96/a09704.html#a455f533d647927d182176c3cceb21f42", null ],
+    [ "boundary", "d3/d96/a09704.html#aa4fb2bc78efb3393004c0f827000e4f1", null ],
+    [ "door", "d3/d96/a09704.html#a858af8825ed4fe183ee19b6f10239304", null ],
+    [ "minion", "d3/d96/a09704.html#abec1469d41f286d02c34223171373cd3", null ],
+    [ "state", "d3/d96/a09704.html#a1e4413b3a8bac20ed9e7ac878e3066f7", null ]
 ];

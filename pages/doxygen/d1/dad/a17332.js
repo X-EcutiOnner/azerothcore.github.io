@@ -1,6 +1,6 @@
 var a17332 =
 [
-    [ "npc_blood_queen_lana_thelAI", "d3/d36/a17336.html", "d3/d36/a17336" ],
-    [ "npc_blood_queen_lana_thel", "d1/dad/a17332.html#a39adef3ae54efd4433805bd8ad4719be", null ],
-    [ "GetAI", "d1/dad/a17332.html#a02d928ac4ef1704cee2498ebe6533561", null ]
+    [ "SlaveRunEvent", "d1/dad/a17332.html#a4560b275b0870cdbd192b2610893b47c", null ],
+    [ "Execute", "d1/dad/a17332.html#a81db67be136525dea5a9cd84180be165", null ],
+    [ "_owner", "d1/dad/a17332.html#a33e2ce4cea1edf2e0967696c41667f15", null ]
 ];

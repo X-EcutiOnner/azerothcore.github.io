@@ -1,6 +1,10 @@
 var a08672 =
 [
-    [ "GlobalCooldown", "da/d3d/a08672.html#a5859ccec9d1fdf0a8f11f5ab77c135a9", null ],
-    [ "cast_time", "da/d3d/a08672.html#a7e2fe46367bad59669b0f2fd33736b30", null ],
-    [ "duration", "da/d3d/a08672.html#a7fbf3127e4a2cc93171934148275ae1d", null ]
+    [ "Index", "da/d3d/a08672.html#a28b25d822326a1b7d5ec7f95ce084bac", [
+      [ "REGULAR", "da/d3d/a08672.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
+      [ "ADDON", "da/d3d/a08672.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
+      [ "MAX", "da/d3d/a08672.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
+    ] ],
+    [ "Count", "da/d3d/a08672.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
+    [ "Time", "da/d3d/a08672.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
 ];

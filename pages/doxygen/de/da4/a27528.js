@@ -1,8 +1,6 @@
 var a27528 =
 [
-    [ "npc_nelsonAI", "df/daa/a27532.html", "df/daa/a27532" ],
-    [ "npc_nelson", "de/da4/a27528.html#ada597926a6db1aa7823ddabc19945b11", null ],
-    [ "GetAI", "de/da4/a27528.html#a75fea281fb49249345c48236bf44b1c8", null ],
-    [ "OnGossipHello", "de/da4/a27528.html#aa693b365a15d4617f214f9c3c229bf89", null ],
-    [ "OnGossipSelect", "de/da4/a27528.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
+    [ "go_midsummer_musicAI", "de/da4/a27528.html#a8cbadc16a9588c469ff48dbaf51ac71c", null ],
+    [ "UpdateAI", "de/da4/a27528.html#adf185ee702e9e74f65204b90786f9eb4", null ],
+    [ "_events", "de/da4/a27528.html#a31e45a754930cdc3206fe2b7f754d234", null ]
 ];

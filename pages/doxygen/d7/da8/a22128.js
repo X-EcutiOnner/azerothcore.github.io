@@ -1,7 +1,7 @@
 var a22128 =
 [
-    [ "GetSeatNumber", "d7/da8/a22128.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
-    [ "HandleDummy", "d7/da8/a22128.html#ac5945381452559e1d5655f5345bdeff3", null ],
-    [ "PrepareSpellScript", "d7/da8/a22128.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
-    [ "Register", "d7/da8/a22128.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
+    [ "HandleScriptEffect", "d7/da8/a22128.html#a2d39a073c351860db735301b4cf9c79f", null ],
+    [ "PrepareSpellScript", "d7/da8/a22128.html#a3674adaef23f1531af360a65c14efadd", null ],
+    [ "Register", "d7/da8/a22128.html#a11b217c0066217f2da5ff42ce35c9a0a", null ],
+    [ "Validate", "d7/da8/a22128.html#a3dadb61ca7dd8195ba5fdac5bf49583c", null ]
 ];

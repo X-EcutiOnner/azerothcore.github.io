@@ -1,7 +1,6 @@
 var a20128 =
 [
-    [ "boss_freya_lifebinderAI", "de/d8f/a20128.html#ae421aa209690e4a2908995b6b7d322cd", null ],
-    [ "Reset", "de/d8f/a20128.html#a972bd7d390d444e0ea2bc513d5d3816a", null ],
-    [ "UpdateAI", "de/d8f/a20128.html#afb06c217c1012d6463e44689359eada9", null ],
-    [ "_healTimer", "de/d8f/a20128.html#a7021d13dceb9af343f0e820cf086046e", null ]
+    [ "boss_flame_leviathan_safety_containerAI", "d5/de2/a20132.html", "d5/de2/a20132" ],
+    [ "boss_flame_leviathan_safety_container", "de/d8f/a20128.html#ae14b2e13bd6358ad03d568f2bef042b7", null ],
+    [ "GetAI", "de/d8f/a20128.html#a6bcbc4e65214a0c667875271ff9aa0dd", null ]
 ];

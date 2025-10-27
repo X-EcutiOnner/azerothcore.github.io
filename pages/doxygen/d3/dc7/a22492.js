@@ -1,6 +1,6 @@
 var a22492 =
 [
-    [ "npc_captured_rageclawAI", "d3/dc7/a22492.html#a5bb483a323330b0895f87c5381d73314", null ],
-    [ "Reset", "d3/dc7/a22492.html#a9cde0a0e5015334ec8dcd277fcd99dc3", null ],
-    [ "SpellHit", "d3/dc7/a22492.html#a2c63911d27435a2271a7c89d9d88318c", null ]
+    [ "npc_brunnhildar_prisonerAI", "d8/de8/a22496.html", "d8/de8/a22496" ],
+    [ "npc_brunnhildar_prisoner", "d3/dc7/a22492.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
+    [ "GetAI", "d3/dc7/a22492.html#aa2a1787849c74a5163a39137c9d03d57", null ]
 ];

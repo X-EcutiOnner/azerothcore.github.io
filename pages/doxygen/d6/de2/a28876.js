@@ -1,8 +1,10 @@
 var a28876 =
 [
-    [ "Color", "d6/de2/a28876.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
-    [ "NameIndex", "d6/de2/a28876.html#add893e045d13a3633fd7346457a10477", null ],
-    [ "Position", "d6/de2/a28876.html#afae9056582e71160c151de2c172bc60a", null ],
-    [ "Rotation", "d6/de2/a28876.html#a48d372bc1371fa5f94db9aa39669942a", null ],
-    [ "Scale", "d6/de2/a28876.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
+    [ "adt_CELLS", "d8/d86/a28884.html", "d8/d86/a28884" ],
+    [ "getMCNK", "d6/de2/a28876.html#a8330b7cb405146399d3d20e6952a8b40", null ],
+    [ "prepareLoadedData", "d6/de2/a28876.html#adc7346499aa51f4422c810b7e757f835", null ],
+    [ "cells", "d6/de2/a28876.html#a434ed0ca354ec27d5334cc63e5650038", null ],
+    [ "fcc", "d6/de2/a28876.html#ae7d4acf20e102b6b8f19ded3fe219a7d", null ],
+    [ "fcc_txt", "d6/de2/a28876.html#a514bae36851623daf76b26a9d63f1ae0", null ],
+    [ "size", "d6/de2/a28876.html#a1a40f52ea9eef3add8207da89cb71210", null ]
 ];

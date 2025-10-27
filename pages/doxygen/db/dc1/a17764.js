@@ -1,5 +1,6 @@
 var a17764 =
 [
-    [ "achievement_im_on_a_boat", "db/dc1/a17764.html#aa25d330534aab023ec798e86976a6d50", null ],
-    [ "OnCheck", "db/dc1/a17764.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
+    [ "npc_high_overlord_saurfang_igbAI", "d5/ded/a17768.html", "d5/ded/a17768" ],
+    [ "npc_high_overlord_saurfang_igb", "db/dc1/a17764.html#ae68d42f65851a753874705511bb83330", null ],
+    [ "GetAI", "db/dc1/a17764.html#a54b6da97a40665232d28a20bac9b7ef3", null ]
 ];

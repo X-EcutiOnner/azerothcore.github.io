@@ -1,6 +1,7 @@
 var a17232 =
 [
-    [ "boss_eckAI", "d8/dc3/a17236.html", "d8/dc3/a17236" ],
-    [ "boss_eck", "dd/dd4/a17232.html#aa445927936d7759a8c3289e2899181e5", null ],
-    [ "GetAI", "dd/dd4/a17232.html#a335755ec7416d3e00a4070e03569293a", null ]
+    [ "HandlePeriodicTick", "dd/dd4/a17232.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
+    [ "PrepareAuraScript", "dd/dd4/a17232.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
+    [ "Register", "dd/dd4/a17232.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
+    [ "Validate", "dd/dd4/a17232.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
 ];

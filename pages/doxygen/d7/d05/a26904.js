@@ -1,6 +1,8 @@
 var a26904 =
 [
-    [ "CalculateAmount", "d7/d05/a26904.html#aa27de1a2fc517a4b796a10e780239880", null ],
-    [ "PrepareAuraScript", "d7/d05/a26904.html#a72e68ff46f2049809f3e3b2c1814bd87", null ],
-    [ "Register", "d7/d05/a26904.html#a5ee969ad0916a9337849c75c18f13c29", null ]
+    [ "ApplyDebuff", "d7/d05/a26904.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
+    [ "PrepareSpellScript", "d7/d05/a26904.html#aa37525d089348f58e3d871830caa3417", null ],
+    [ "Register", "d7/d05/a26904.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
+    [ "RemoveInvalidTargets", "d7/d05/a26904.html#a0451b75aa962065a01a5806992e01b16", null ],
+    [ "Validate", "d7/d05/a26904.html#ac69d777fdf7a2d3c527621dee256690c", null ]
 ];

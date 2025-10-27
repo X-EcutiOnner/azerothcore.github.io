@@ -1,6 +1,11 @@
 var a23480 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d5/d16/a23484.html", "d5/d16/a23484" ],
-    [ "instance_the_underbog", "d5/d56/a23480.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
-    [ "GetInstanceScript", "d5/d56/a23480.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
+    [ "boss_ahune", "d5/d56/a23480.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
+    [ "DoAction", "d5/d56/a23480.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
+    [ "Emerge", "d5/d56/a23480.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
+    [ "EnterEvadeMode", "d5/d56/a23480.html#a2b906881621e59143a916c588beb70e7", null ],
+    [ "ExecuteEvent", "d5/d56/a23480.html#a46b477aef635de1d3ec88baa2465089f", null ],
+    [ "JustDied", "d5/d56/a23480.html#af2fc7c071321653a644ee569ead67d63", null ],
+    [ "JustEngagedWith", "d5/d56/a23480.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
+    [ "Submerge", "d5/d56/a23480.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
 ];

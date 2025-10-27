@@ -1,5 +1,5 @@
 var a07740 =
 [
-    [ "IsColorValid", "dc/d00/a07740.html#a4e2a1ab20d086987429174f41887bc45", null ],
-    [ "IsTextValid", "dc/d00/a07740.html#a4704555f7e926f8facce237de6772a3d", null ]
+    [ "value_type", "dc/d00/a07740.html#ab102122dc913801a43be2fc6e4d5b2b4", null ],
+    [ "TryConsume", "dc/d00/a07740.html#a4916376e89113eea20071f4f584c6a75", null ]
 ];

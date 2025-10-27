@@ -1,4 +1,5 @@
 var a28500 =
 [
-    [ "value", "d1/d4d/a28500.html#a30d3b489f743df8aa828b6e5bb847ea2", null ]
+    [ "ID", "d1/d4d/a28500.html#a65acb5af9a688346cbb7dc144710c768", null ],
+    [ "inventoryIcon", "d1/d4d/a28500.html#a26b43ee179bd546c6e956dd797fc0842", null ]
 ];

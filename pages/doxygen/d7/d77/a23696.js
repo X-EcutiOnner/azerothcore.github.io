@@ -1,13 +1,13 @@
 var a23696 =
 [
-    [ "boss_warbringer_omrogg", "d7/d77/a23696.html#a20f790595640cd41d636ad43c8837cda", null ],
-    [ "HandleHeadTalk", "d7/d77/a23696.html#aaa324c065f6c2bbf75688f5910be09d1", null ],
-    [ "JustDied", "d7/d77/a23696.html#a8a2abaceda580ac2ed4f1c736281828f", null ],
-    [ "JustEngagedWith", "d7/d77/a23696.html#ae1710f22f8a72f661498c4fbc6d108a5", null ],
-    [ "KilledUnit", "d7/d77/a23696.html#add6b54c4744be120b6b5fd53912ce1fd", null ],
-    [ "ScheduleBurningPhase", "d7/d77/a23696.html#afd20a8bd1f6f083e0725d962ec747e26", null ],
-    [ "ScheduleNonBurningPhase", "d7/d77/a23696.html#a176217a0767e8153d07996461ac68f60", null ],
-    [ "SetData", "d7/d77/a23696.html#a4d1154d64c999316f9ae02ab76cbc870", null ],
-    [ "UpdateAI", "d7/d77/a23696.html#a90369760ed0e52f1ffc6d3e7c4e39ec2", null ],
-    [ "_headTalk", "d7/d77/a23696.html#ae657addceb26f4d02d734fa0790a1ae2", null ]
+    [ "boss_olm_the_summoner", "d7/d77/a23696.html#aa8fe3804d4e2a1a1150975f5e9832ce6", null ],
+    [ "AttackStart", "d7/d77/a23696.html#a334ab95cfc3320db1a568bcb5a1d9542", null ],
+    [ "JustDied", "d7/d77/a23696.html#a07cde4fc7bc882db40b51426dc40ab93", null ],
+    [ "JustEngagedWith", "d7/d77/a23696.html#a68db779bb7ffffa7621caedd7f52d93f", null ],
+    [ "JustSummoned", "d7/d77/a23696.html#a546bede780b7d67b98ec251ae2e1b812", null ],
+    [ "Reset", "d7/d77/a23696.html#a8dcdc816276a1932612d554cff703a45", null ],
+    [ "UpdateAI", "d7/d77/a23696.html#a967f330966fdb29f26ab24e8f40d2152", null ],
+    [ "_scheduler", "d7/d77/a23696.html#a448ba3a88156e80eebad44585791ab21", null ],
+    [ "instance", "d7/d77/a23696.html#a8caabc31bb7a8548eb936c34c655df68", null ],
+    [ "summons", "d7/d77/a23696.html#ae9187928c74fa1cfafaea4df25a55e41", null ]
 ];

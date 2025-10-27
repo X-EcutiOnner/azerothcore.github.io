@@ -1,6 +1,5 @@
 var a27548 =
 [
-    [ "npc_taxi", "d6/d76/a27548.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
-    [ "OnGossipHello", "d6/d76/a27548.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
-    [ "OnGossipSelect", "d6/d76/a27548.html#a5a7443abba8cf98a3073195177981edc", null ]
+    [ "go_sacred_fire_of_life", "d6/d76/a27548.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
+    [ "OnGossipHello", "d6/d76/a27548.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
 ];

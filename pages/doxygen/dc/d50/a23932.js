@@ -1,16 +1,10 @@
 var a23932 =
 [
-    [ "instance_the_eye_InstanceMapScript", "dc/d50/a23932.html#a0c2b90c0f155e279aece7cd36d9de6d7", null ],
-    [ "GetGuidData", "dc/d50/a23932.html#a882432d126cc9e90322eaa16f5ef15c8", null ],
-    [ "OnCreatureCreate", "dc/d50/a23932.html#a8a89f56945022e34cc5d9ead06a58b63", null ],
-    [ "OnGameObjectCreate", "dc/d50/a23932.html#a56c6933c2c231c228ca147107fbfc930", null ],
-    [ "AlarGUID", "dc/d50/a23932.html#a2a5323d92963da3b4b99ef1f7debaa4d", null ],
-    [ "BridgeWindowGUID", "dc/d50/a23932.html#a1fa987352d6c4c5f11d5415d4b886aaa", null ],
-    [ "GrandAstromancerCapernianGUID", "dc/d50/a23932.html#aa8e267617231a7816a43e9957c745c58", null ],
-    [ "KaelStateLeftGUID", "dc/d50/a23932.html#ab2ca710f119fbfc1a7b57a88462d145b", null ],
-    [ "KaelStateRightGUID", "dc/d50/a23932.html#a25ba703325800d2976eff860437f3d57", null ],
-    [ "KaelthasGUID", "dc/d50/a23932.html#a547528fbfe31974759b0e6fbdf12df31", null ],
-    [ "LordSanguinarGUID", "dc/d50/a23932.html#a5794e1c326ad2eb4fee2bdfab8261257", null ],
-    [ "MasterEngineerTelonicusGUID", "dc/d50/a23932.html#abded7dc13c226ccad53c151d75ced243", null ],
-    [ "ThaladredTheDarkenerGUID", "dc/d50/a23932.html#ada64ef9f71d61ea19144cec596ba06e2", null ]
+    [ "instance_arcatraz_InstanceMapScript", "dc/d50/a23932.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
+    [ "GetGuidData", "dc/d50/a23932.html#aa4bedf168359eaf5332476a6de99c830", null ],
+    [ "OnGameObjectCreate", "dc/d50/a23932.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
+    [ "SetBossState", "dc/d50/a23932.html#a2937e4ea47af542a476bd3399ecc7233", null ],
+    [ "SetData", "dc/d50/a23932.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
+    [ "StasisPodGUIDs", "dc/d50/a23932.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
+    [ "WardensShieldGUID", "dc/d50/a23932.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
 ];

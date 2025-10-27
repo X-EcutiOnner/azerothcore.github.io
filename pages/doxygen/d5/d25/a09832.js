@@ -1,14 +1,13 @@
 var a09832 =
 [
-    [ "BattlegroundMap", "d5/d25/a09832.html#a3a9af8a69ac8d188d7fb86f2a9dda2c3", null ],
-    [ "~BattlegroundMap", "d5/d25/a09832.html#a327d241fd7930e9b3a98ba50014d5131", null ],
-    [ "AddPlayerToMap", "d5/d25/a09832.html#a0325279a2affc7b20a415a3b90a32fc0", null ],
-    [ "CannotEnter", "d5/d25/a09832.html#a493a1932eee44c346d9cfb7d13789bb6", null ],
-    [ "GetBG", "d5/d25/a09832.html#a2fcb965981bb03571f12c11cdbac54a4", null ],
-    [ "InitVisibilityDistance", "d5/d25/a09832.html#af2d6847765d10fab527d77b26dd770ad", null ],
-    [ "RemoveAllPlayers", "d5/d25/a09832.html#a5093cbf8005d06452eeb202513323c1e", null ],
-    [ "RemovePlayerFromMap", "d5/d25/a09832.html#aeddb9dfae8601e95b0a93cefc12c2612", null ],
-    [ "SetBG", "d5/d25/a09832.html#aaa9e5f830953b1a37a684ac566e9b768", null ],
-    [ "SetUnload", "d5/d25/a09832.html#a4c03b1aa9c4c53697ad6284825a1b9c1", null ],
-    [ "m_bg", "d5/d25/a09832.html#aa38fff695728ddedc94dd6eb6bd7bf3b", null ]
+    [ "ParallelogramBoundary", "d5/d25/a09832.html#ace1e1ffbcb84343ca2641541fe000691", null ],
+    [ "IsWithinBoundaryArea", "d5/d25/a09832.html#af29e70a9febaa9d80d0ce7223e2c6fc3", null ],
+    [ "_a", "d5/d25/a09832.html#ad81a1a1f4e82de0e7a31bf13a87bac2b", null ],
+    [ "_abx", "d5/d25/a09832.html#a855c7ea39698f7dac80d72ea6962e9c7", null ],
+    [ "_aby", "d5/d25/a09832.html#ad81b9baeb70d5856ea8cdd3f787abf29", null ],
+    [ "_b", "d5/d25/a09832.html#a9d5d06cc3673f89644e45e62f96510db", null ],
+    [ "_c", "d5/d25/a09832.html#a6c19d4ed0a1c1b6ff042c4bbd64f0a8a", null ],
+    [ "_d", "d5/d25/a09832.html#a5214ac0f79f1d90492a77fbd251d1361", null ],
+    [ "_dax", "d5/d25/a09832.html#aab72030dfa3dd4e4bef03180bd0a306c", null ],
+    [ "_day", "d5/d25/a09832.html#a3b3e3993d09af62bae7fbfe65f6d641a", null ]
 ];

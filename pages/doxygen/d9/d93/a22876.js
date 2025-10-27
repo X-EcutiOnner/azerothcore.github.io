@@ -1,6 +1,11 @@
 var a22876 =
 [
-    [ "CalculateAmount", "d9/d93/a22876.html#aeeabfef0accc4e0d1f78f7422dc30a99", null ],
-    [ "PrepareAuraScript", "d9/d93/a22876.html#a5cf70fe73d01e08e78a2d00e5bc95e8e", null ],
-    [ "Register", "d9/d93/a22876.html#a0d2e97463f268892965e307628aaa931", null ]
+    [ "boss_blackheart_the_inciter", "d9/d93/a22876.html#a772b2b4574fa6ccd445924193985859b", null ],
+    [ "EnterEvadeMode", "d9/d93/a22876.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
+    [ "JustDied", "d9/d93/a22876.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
+    [ "JustEngagedWith", "d9/d93/a22876.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
+    [ "KilledUnit", "d9/d93/a22876.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
+    [ "Reset", "d9/d93/a22876.html#add75633d1c04d0be91e7e80f28213917", null ],
+    [ "UpdateAI", "d9/d93/a22876.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
+    [ "InciteChaos", "d9/d93/a22876.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
 ];

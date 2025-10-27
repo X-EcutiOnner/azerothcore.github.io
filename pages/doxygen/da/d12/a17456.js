@@ -1,6 +1,5 @@
 var a17456 =
 [
-    [ "HandleScript", "da/d12/a17456.html#acd11d50f398857dc2a24bd2d63e52222", null ],
-    [ "PrepareSpellScript", "da/d12/a17456.html#a3d218b009c195b6e0fab5152a95da8ad", null ],
-    [ "Register", "da/d12/a17456.html#ad7f12515dc21ab6b19148370fd491629", null ]
+    [ "achievement_snakes_whyd_it_have_to_be_snakes", "da/d12/a17456.html#a4245e53260b83f77f9b4313e13f1f7d3", null ],
+    [ "OnCheck", "da/d12/a17456.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0", null ]
 ];

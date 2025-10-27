@@ -1,6 +1,6 @@
 var a17952 =
 [
-    [ "HandlePeriodic", "dd/d20/a17952.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
-    [ "PrepareAuraScript", "dd/d20/a17952.html#a5d855d79247dff6f949a5e099abb9352", null ],
-    [ "Register", "dd/d20/a17952.html#ae797de0ed29b3ca179c07d759b469228", null ]
+    [ "npc_cult_fanaticAI", "d0/d92/a17956.html", "d0/d92/a17956" ],
+    [ "npc_cult_fanatic", "dd/d20/a17952.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
+    [ "GetAI", "dd/d20/a17952.html#ae4d22bac12d17d79669d3fccd4029952", null ]
 ];

@@ -1,7 +1,9 @@
 var a05384 =
 [
-    [ "MetricStopWatch", "d3/dec/a05384.html#a2007207e0985949f478fdeee300ea0d5", null ],
-    [ "~MetricStopWatch", "d3/dec/a05384.html#a712b660e090531e69455096afeb60c4c", null ],
-    [ "_logger", "d3/dec/a05384.html#a3af6d8a1a621f5e39b2d691ffbe2375c", null ],
-    [ "_startTime", "d3/dec/a05384.html#a74ad62e26a4f6598c76ca5c2d928d3a2", null ]
+    [ "IpLocationStore", "d3/dec/a05384.html#a1b3a38bbd932ae50d55ff15374aa2f37", null ],
+    [ "~IpLocationStore", "d3/dec/a05384.html#a82360c1ce130670fde23d42135f91324", null ],
+    [ "GetLocationRecord", "d3/dec/a05384.html#a06384169031d2417a7f6bac54d3187a9", null ],
+    [ "instance", "d3/dec/a05384.html#ad740adf9b81b37cf147dc00e220b29db", null ],
+    [ "Load", "d3/dec/a05384.html#a411302e6bf5e5e82e5cd59e78e66bd0b", null ],
+    [ "_ipLocationStore", "d3/dec/a05384.html#af7b7a5a4fc65c6af966be27f7bf7e07d", null ]
 ];

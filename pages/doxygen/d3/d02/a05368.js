@@ -1,16 +1,8 @@
 var a05368 =
 [
-    [ "LogMessage", "d3/d02/a05368.html#a563286e5cd6518e04b3069a86cf6e972", null ],
-    [ "LogMessage", "d3/d02/a05368.html#a0a5626d481fe047437f213f1fa48a3aa", null ],
-    [ "LogMessage", "d3/d02/a05368.html#a727fa3a719c50572711ada4e257102ab", null ],
-    [ "getTimeStr", "d3/d02/a05368.html#aaeca452ae2fe32e7412f4abc30642da2", null ],
-    [ "getTimeStr", "d3/d02/a05368.html#af40f502e57bf12f31fc7a2fe60584fc8", null ],
-    [ "operator=", "d3/d02/a05368.html#af35b8fc183cb1848e965117497f50ab4", null ],
-    [ "Size", "d3/d02/a05368.html#ad2947063f8263da27acc82ce0bba6bc2", null ],
-    [ "level", "d3/d02/a05368.html#a44096654072d07e506ef6414a8ce4970", null ],
-    [ "mtime", "d3/d02/a05368.html#a2dab9ed7c1aa8b784e74247667295e29", null ],
-    [ "param1", "d3/d02/a05368.html#afcf2119e7c084339bd70e2ffb4c88d0e", null ],
-    [ "prefix", "d3/d02/a05368.html#afe279a591acc9740457c3cd58d43a263", null ],
-    [ "text", "d3/d02/a05368.html#a4ad799611980177ae87f3acbf2af8ff7", null ],
-    [ "type", "d3/d02/a05368.html#a77105c721645df5654e3c48ce00c2b5a", null ]
+    [ "Decode", "d3/d02/a05368.html#aba5ab7c59ce77414bca38bfcde32d1c0", null ],
+    [ "Encode", "d3/d02/a05368.html#ad6cde2310ca52940df1bbf93deff6b91", null ],
+    [ "BITS_PER_CHAR", "d3/d02/a05368.html#a5efb6c842ab7733dc26fd67f1a00ccdf", null ],
+    [ "DECODE_ERROR", "d3/d02/a05368.html#a8fccf3d4b22e835fc4dca6b942771a2a", null ],
+    [ "PADDING", "d3/d02/a05368.html#a2e5699431f24ca6b745294b935b99240", null ]
 ];

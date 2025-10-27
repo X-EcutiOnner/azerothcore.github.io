@@ -1,7 +1,6 @@
 var a14712 =
 [
-    [ "hyjalThrallAI", "d5/dd8/a14716.html", "d5/dd8/a14716" ],
-    [ "npc_hyjal_thrall", "d0/d9d/a14712.html#a232f085f208a47f7fae08128de1d06b8", null ],
-    [ "GetAI", "d0/d9d/a14712.html#a699b5df19e4e84166348ecfba2dd0172", null ],
-    [ "OnGossipSelect", "d0/d9d/a14712.html#af833f26d79d34655c010aa04f984a94a", null ]
+    [ "HandleAfterEffectApply", "d0/d9d/a14712.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
+    [ "PrepareAuraScript", "d0/d9d/a14712.html#a917379c33352721b5b76c1d9dac0c025", null ],
+    [ "Register", "d0/d9d/a14712.html#a846d79564d76d6000c2276045775d7da", null ]
 ];

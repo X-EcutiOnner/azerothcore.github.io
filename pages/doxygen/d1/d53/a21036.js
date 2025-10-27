@@ -1,6 +1,6 @@
 var a21036 =
 [
-    [ "CheckCast", "d1/d53/a21036.html#a715a58956db4253c8adfed039833debd", null ],
-    [ "PrepareSpellScript", "d1/d53/a21036.html#a3b03178d8ab54db36a19ba5a27444917", null ],
-    [ "Register", "d1/d53/a21036.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
+    [ "boss_yoggsaron_corruptor_tentacleAI", "d4/d7a/a21040.html", "d4/d7a/a21040" ],
+    [ "boss_yoggsaron_corruptor_tentacle", "d1/d53/a21036.html#a86fbf881f0a861124dda085347bb03bd", null ],
+    [ "GetAI", "d1/d53/a21036.html#a7325d6feaa12d74c030152ba3a0ab756", null ]
 ];

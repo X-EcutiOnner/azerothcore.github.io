@@ -1,6 +1,5 @@
 var a16880 =
 [
-    [ "boss_marwynAI", "de/d2f/a16884.html", "de/d2f/a16884" ],
-    [ "boss_marwyn", "d6/d5c/a16880.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
-    [ "GetAI", "d6/d5c/a16880.html#af1c83878d2121163994bc327ae8e04f7", null ]
+    [ "achievement_better_off_dred", "d6/d5c/a16880.html#a1ff3442ab3e166a4001c4c10777bdf8a", null ],
+    [ "OnCheck", "d6/d5c/a16880.html#a9aab68b43fbf9f3c71c237b149f23b2d", null ]
 ];

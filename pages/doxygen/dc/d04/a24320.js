@@ -1,7 +1,8 @@
 var a24320 =
 [
-    [ "npc_kservantAI", "dc/d04/a24320.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "dc/d04/a24320.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "dc/d04/a24320.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "WaypointReached", "dc/d04/a24320.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
+    [ "npc_bessyAI", "dc/d04/a24320.html#ad1300a563888b34689bedf97c387707c", null ],
+    [ "JustDied", "dc/d04/a24320.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
+    [ "JustSummoned", "dc/d04/a24320.html#a4197fb122299fd152e5da335bb832ae5", null ],
+    [ "Reset", "dc/d04/a24320.html#aed64386629e52c3b65abadde54a63cc4", null ],
+    [ "WaypointReached", "dc/d04/a24320.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
 ];

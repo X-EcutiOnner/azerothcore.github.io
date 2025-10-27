@@ -1,9 +1,7 @@
 var a09104 =
 [
-    [ "GridReference", "d7/ded/a09104.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
-    [ "~GridReference", "d7/ded/a09104.html#afd6a4f88eb066818afde1b752600bb12", null ],
-    [ "next", "d7/ded/a09104.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
-    [ "sourceObjectDestroyLink", "d7/ded/a09104.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
-    [ "targetObjectBuildLink", "d7/ded/a09104.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
-    [ "targetObjectDestroyLink", "d7/ded/a09104.html#ac4c863d059b5c826e9597056dc7c887a", null ]
+    [ "GetAntiDosPolicyForOpcode", "d7/ded/a09104.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
+    [ "instance", "d7/ded/a09104.html#a859596f153aa470fa503f67092e26160", null ],
+    [ "LoadAntiDosOpcodePolicies", "d7/ded/a09104.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
+    [ "_antiDosOpcodePolicies", "d7/ded/a09104.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
 ];

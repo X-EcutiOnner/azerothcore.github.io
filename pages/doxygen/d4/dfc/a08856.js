@@ -1,10 +1,9 @@
 var a08856 =
 [
-    [ "mapId", "d4/dfc/a08856.html#a828d8b93918ea8ba695e0c5e597c855d", null ],
-    [ "name", "d4/dfc/a08856.html#a9dd0dacb5825cf3afd117c22ac5ebf21", null ],
-    [ "orientation", "d4/dfc/a08856.html#a49b4a83290dbe39ab0be79a8ae2f03a6", null ],
-    [ "position_x", "d4/dfc/a08856.html#a65e7390a1dbb615a155c4f163b830e11", null ],
-    [ "position_y", "d4/dfc/a08856.html#a3d3f398cd23566dce721fefeae7af33c", null ],
-    [ "position_z", "d4/dfc/a08856.html#a9ff9a74b00016df6df7c27ebce8ff3fb", null ],
-    [ "wnameLow", "d4/dfc/a08856.html#ac63cbb609eadc584fe61d33fb709c4d6", null ]
+    [ "TransportBase", "d4/dfc/a08856.html#a6dba8e37217dae4e5da8f52780e63f70", null ],
+    [ "~TransportBase", "d4/dfc/a08856.html#a81dca3435a1a1666a90acd8e154e3287", null ],
+    [ "CalculatePassengerOffset", "d4/dfc/a08856.html#ae8c9eb64027f8e7c781f0af192e3f6c1", null ],
+    [ "CalculatePassengerOffset", "d4/dfc/a08856.html#aa4d00f15dc0e6c53b4a175b0ca53021b", null ],
+    [ "CalculatePassengerPosition", "d4/dfc/a08856.html#a7cb7586a6935ca4e08aa3e658982abec", null ],
+    [ "CalculatePassengerPosition", "d4/dfc/a08856.html#a328fbc464c56eca89138380182a0108c", null ]
 ];

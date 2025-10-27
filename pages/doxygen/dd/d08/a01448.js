@@ -1,7 +1,7 @@
 var a01448 =
 [
-    [ "SpellScriptLoader", "d6/d51/a10431.html", "d6/d51/a10431" ],
-    [ "GenericSpellAndAuraScriptLoader< Ts >", "d3/dd8/a10435.html", "d3/dd8/a10435" ],
+    [ "SpellScriptLoader", "d5/d61/a10432.html", "d5/d61/a10432" ],
+    [ "GenericSpellAndAuraScriptLoader< Ts >", "d9/dbb/a10436.html", "d9/dbb/a10436" ],
     [ "RegisterSpellAndAuraScriptPair", "dd/d08/a01448.html#a69b21d1b83cecaba944f4e9379bc866c", null ],
     [ "RegisterSpellAndAuraScriptPairWithArgs", "dd/d08/a01448.html#aeffc3c8d08a35d5969c33508488e9051", null ],
     [ "RegisterSpellScript", "dd/d08/a01448.html#ae221e5976ab29ba14fec3b073a03670f", null ],

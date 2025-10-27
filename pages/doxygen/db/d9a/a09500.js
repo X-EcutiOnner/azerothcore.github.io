@@ -1,8 +1,8 @@
 var a09500 =
 [
-    [ "LocalizedPacketDo", "db/d9a/a09500.html#a9b7700f2a4958b91a67375ec9a40072c", null ],
-    [ "~LocalizedPacketDo", "db/d9a/a09500.html#a4296260b2011e1f7c300987073863ca9", null ],
-    [ "operator()", "db/d9a/a09500.html#a43449bdf0302e426b8cb4341326196b1", null ],
-    [ "i_builder", "db/d9a/a09500.html#a2c794905898feb502bfc5d3760f962b8", null ],
-    [ "i_data_cache", "db/d9a/a09500.html#a2bbff655e1a5268981c48e3ee028b104", null ]
+    [ "AllDeadCreaturesInRange", "db/d9a/a09500.html#a31b4976c3ea6203b9a1e7f7970a97977", null ],
+    [ "operator()", "db/d9a/a09500.html#a3638a8d3c5791b590ec717e4f1ba9cef", null ],
+    [ "_obj", "db/d9a/a09500.html#a4ca7fcf9945e698a790d01d3fadae98e", null ],
+    [ "_range", "db/d9a/a09500.html#a431ada86a2b864d53773a85b05d8da4f", null ],
+    [ "_reqAlive", "db/d9a/a09500.html#aefd0d77b69b5df9b99c148e0254fda09", null ]
 ];

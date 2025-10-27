@@ -1,6 +1,6 @@
 var a24172 =
 [
-    [ "HandleEffectRemove", "d3/da6/a24172.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
-    [ "PrepareAuraScript", "d3/da6/a24172.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
-    [ "Register", "d3/da6/a24172.html#ac02217c103db141d75377e233e1e4242", null ]
+    [ "npc_nether_drakeAI", "d3/ddb/a24176.html", "d3/ddb/a24176" ],
+    [ "npc_nether_drake", "d3/da6/a24172.html#a253ec3c91857b899ea9e2c824870b760", null ],
+    [ "GetAI", "d3/da6/a24172.html#a58d269e2c73cae07bb507162b742fe8f", null ]
 ];

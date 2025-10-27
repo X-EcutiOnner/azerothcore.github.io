@@ -1,6 +1,6 @@
 var a24000 =
 [
-    [ "npc_deaths_fel_cannonAI", "d8/dd2/a24000.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
-    [ "Reset", "d8/dd2/a24000.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
-    [ "UpdateAI", "d8/dd2/a24000.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
+    [ "OnApply", "d8/dd2/a24000.html#a472220f22165c6d21eab5f4b5f75921e", null ],
+    [ "PrepareAuraScript", "d8/dd2/a24000.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
+    [ "Register", "d8/dd2/a24000.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
 ];

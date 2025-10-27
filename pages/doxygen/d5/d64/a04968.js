@@ -1,8 +1,8 @@
 var a04968 =
 [
-    [ "AreaInfo", "d5/d64/a04968.html#a5cff768781236ef358e8864269d739e4", null ],
-    [ "adtId", "d5/d64/a04968.html#a6e13cfcbd4aa9c36fb80be7913640730", null ],
-    [ "groupId", "d5/d64/a04968.html#ae0e0518b31f3a16121bf3abd0770eb57", null ],
-    [ "mogpFlags", "d5/d64/a04968.html#ace485f0168c41ce50c78c782dd6301fd", null ],
-    [ "rootId", "d5/d64/a04968.html#a225d78ba13f20c147b92c6dfac1b37ad", null ]
+    [ "DynamicTreeAreaInfoCallback", "d5/d64/a04968.html#ad3f3d57e011439d9900afffa8d9c6ed7", null ],
+    [ "GetAreaInfo", "d5/d64/a04968.html#a22cc8c47b3c93bd9ba396861a5bbea99", null ],
+    [ "operator()", "d5/d64/a04968.html#adf7f147bb4b4f3a5252ac15ffd1b80ea", null ],
+    [ "_areaInfo", "d5/d64/a04968.html#a59781066b5b1a7e970f4dcf6f05a7dcb", null ],
+    [ "_phaseMask", "d5/d64/a04968.html#a9ad7b4de03c8baa6190a5ef57f2eecf2", null ]
 ];

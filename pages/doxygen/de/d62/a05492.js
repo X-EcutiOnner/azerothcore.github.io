@@ -1,9 +1,10 @@
 var a05492 =
 [
-    [ "IteratorPair", "de/d62/a05492.html#ad2e586dfd291c34c82ec71d66e59f36c", null ],
-    [ "IteratorPair", "de/d62/a05492.html#a446d4e8dd1146b053987d48d0dcef59d", null ],
-    [ "IteratorPair", "de/d62/a05492.html#ae8b79501762f0c0ba6e2d769c56e9f8f", null ],
-    [ "begin", "de/d62/a05492.html#a59ff07f1663a3f98f2e10a895ab37ae4", null ],
-    [ "end", "de/d62/a05492.html#aa515ca48852213fb51a4d83e9d5c91d2", null ],
-    [ "_iterators", "de/d62/a05492.html#a9b08728bc90076dd1db392982840c31e", null ]
+    [ "AsyncCallbackProcessor", "de/d62/a05492.html#aee6f273ab86fad749de85cd12ea32a98", null ],
+    [ "~AsyncCallbackProcessor", "de/d62/a05492.html#a0a1b8fb7112485c9461387b6effcd56b", null ],
+    [ "AsyncCallbackProcessor", "de/d62/a05492.html#af575ef04d5b2440ad3a787348e5baf9a", null ],
+    [ "AddCallback", "de/d62/a05492.html#a47ef165fe4c31f46998f69e8e16625f1", null ],
+    [ "operator=", "de/d62/a05492.html#ae95508c8bd67d6246279f37cbe6ca8d3", null ],
+    [ "ProcessReadyCallbacks", "de/d62/a05492.html#a4fce127f587a9da913a9e9061ba538e7", null ],
+    [ "_callbacks", "de/d62/a05492.html#a372d9496b9a1b3e3f718cefe50164209", null ]
 ];

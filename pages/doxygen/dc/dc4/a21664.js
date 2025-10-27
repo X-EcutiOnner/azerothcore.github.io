@@ -1,6 +1,9 @@
 var a21664 =
 [
-    [ "npc_bloodmage_laurithAI", "d0/d2d/a21668.html", "d0/d2d/a21668" ],
-    [ "npc_bloodmage_laurith", "dc/dc4/a21664.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
-    [ "GetAI", "dc/dc4/a21664.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
+    [ "npc_azure_sorcerorAI", "dc/dc4/a21664.html#a474a7144908d4820341dc56f77436b90", null ],
+    [ "Reset", "dc/dc4/a21664.html#a4c637288f79e1da4bdace6516cd887b1", null ],
+    [ "UpdateAI", "dc/dc4/a21664.html#a928d789e2cbd35b228857a23c4204ea1", null ],
+    [ "uiArcaneStreamTimer", "dc/dc4/a21664.html#ad238fe8fed4dcefd923d901e4f73ed05", null ],
+    [ "uiArcaneStreamTimerStartingValueHolder", "dc/dc4/a21664.html#af044879e8e064e28a491c87d0c6cde74", null ],
+    [ "uiManaDetonationTimer", "dc/dc4/a21664.html#a3ebe4eb452296f3c45db5c1b6cdaa243", null ]
 ];

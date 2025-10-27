@@ -1,13 +1,11 @@
 var a23028 =
 [
-    [ "boss_teron_gorefiend", "dc/d84/a23028.html#a81845f22aa383cdc57912ee9655b7bf9", null ],
-    [ "JustDied", "dc/d84/a23028.html#aa080c8d17bc51142c1cecadf7a0376a2", null ],
-    [ "JustEngagedWith", "dc/d84/a23028.html#a9f658d42cf27a54c62a71e28b5dfadee", null ],
-    [ "JustSummoned", "dc/d84/a23028.html#a71db567c5be7396add349e2f1b455a50", null ],
-    [ "KilledUnit", "dc/d84/a23028.html#a70dbf2b2a08cf915866afd51f8a74018", null ],
-    [ "Reset", "dc/d84/a23028.html#af32df2d958c618dc08d3da40b92bf3aa", null ],
-    [ "SetData", "dc/d84/a23028.html#a139c351471a3f19c7e59cf8e40913820", null ],
-    [ "UpdateAI", "dc/d84/a23028.html#a0bdd92c94adf066fdbf8ba9bcb1a1ba1", null ],
-    [ "_intro", "dc/d84/a23028.html#a99c62157084373e8eddd4497360cc047", null ],
-    [ "_recentlySpoken", "dc/d84/a23028.html#adef80b4509a6a72e7021fd3cc11de697", null ]
+    [ "boss_high_nethermancer_zerevor", "dc/d84/a23028.html#a2d3ce1a6d972c0b58efe5aad31014c09", null ],
+    [ "AttackStart", "dc/d84/a23028.html#a270961bd3af6ce65eebc79130f4e3d47", null ],
+    [ "CastDampenMagicIfPossible", "dc/d84/a23028.html#ab0af23baf43d377935811c52a346c566", null ],
+    [ "JustEngagedWith", "dc/d84/a23028.html#a390f939ba01ee189fc55670eb4ff1a7e", null ],
+    [ "OnAuraRemove", "dc/d84/a23028.html#a7dd31808dbf00f77b59fce84249778fe", null ],
+    [ "Reset", "dc/d84/a23028.html#afd7a419de217b3d129f783ddc87780af", null ],
+    [ "UpdateAI", "dc/d84/a23028.html#ae1ec04a655525cbb2a6a3c7e382cf078", null ],
+    [ "_canCastDampenMagic", "dc/d84/a23028.html#a72c89454c2b0754690ae72fd7aacb0e8", null ]
 ];

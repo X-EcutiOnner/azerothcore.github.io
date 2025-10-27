@@ -1,7 +1,8 @@
 var a21944 =
 [
-    [ "npc_emilyAI", "d4/d82/a21948.html", "d4/d82/a21948" ],
-    [ "npc_emily", "d9/dcf/a21944.html#ab40f581fad087b3d32a7724fca97895d", null ],
-    [ "GetAI", "d9/dcf/a21944.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
-    [ "OnQuestAccept", "d9/dcf/a21944.html#ad434e7bf2427b3575a8459021e792152", null ]
+    [ "npc_future_youAI", "d9/dcf/a21944.html#a7608c050dd198e3133050e222b42f62b", null ],
+    [ "EnterEvadeMode", "d9/dcf/a21944.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
+    [ "MoveInLineOfSight", "d9/dcf/a21944.html#a35b67f9e948f5ffbde8a423190ece603", null ],
+    [ "Reset", "d9/dcf/a21944.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
+    [ "UpdateAI", "d9/dcf/a21944.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
 ];

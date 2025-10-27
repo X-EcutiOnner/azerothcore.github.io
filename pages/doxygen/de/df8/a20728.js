@@ -1,6 +1,7 @@
 var a20728 =
 [
-    [ "boss_thorim_arena_npcsAI", "d6/dac/a20732.html", "d6/dac/a20732" ],
-    [ "boss_thorim_arena_npcs", "de/df8/a20728.html#a60d22280bb1eb3c9da92deb08e887942", null ],
-    [ "GetAI", "de/df8/a20728.html#a3709e1c9df32755f5932398ba3535f2f", null ]
+    [ "npc_ulduar_expedition_commanderAI", "de/df8/a20728.html#a100678bddd6a0e859c72035d4642d8e2", null ],
+    [ "MoveInLineOfSight", "de/df8/a20728.html#a870bdc842d8d7078302a36a20ef661e4", null ],
+    [ "_instance", "de/df8/a20728.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
+    [ "_introSpoken", "de/df8/a20728.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
 ];

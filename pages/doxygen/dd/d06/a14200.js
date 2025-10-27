@@ -1,6 +1,5 @@
 var a14200 =
 [
-    [ "npc_brewfest_keg_reciver", "dd/d06/a14200.html#af12e7608f3f715650e6c265ac18920e4", null ],
-    [ "MoveInLineOfSight", "dd/d06/a14200.html#ae719a770598c6347d4ee6b9e77d30eae", null ],
-    [ "sGossipSelect", "dd/d06/a14200.html#ad56ba9921e94cbd4ba1d6c1ddd1efe24", null ]
+    [ "at_zulgurub_entrance_speech", "dd/d06/a14200.html#afef11c6a7e97befd07072826fa13be55", null ],
+    [ "_OnTrigger", "dd/d06/a14200.html#a55cda55ed70c63f2a0b2ce39b2ffc0a5", null ]
 ];

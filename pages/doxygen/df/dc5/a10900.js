@@ -1,6 +1,6 @@
 var a10900 =
 [
-    [ "PetStopAttack", "df/dc5/a10900.html#a4a68127f3290d4f2e288600757dd3282", null ],
-    [ "Read", "df/dc5/a10900.html#a22dd8d9fcbadbec5ba046812f5cdac51", null ],
-    [ "PetGUID", "df/dc5/a10900.html#af7b95e5b976af2fa7bb4c61319f7eb97", null ]
+    [ "ItemRefundInfo", "df/dc5/a10900.html#ab43208228bc0c6d1dc9dcc3154589b49", null ],
+    [ "Read", "df/dc5/a10900.html#a9aaf7ecb1f757708c541e4957a72c610", null ],
+    [ "ItemGuid", "df/dc5/a10900.html#a23cce0e086b7c640fd744403f3cfe45e", null ]
 ];

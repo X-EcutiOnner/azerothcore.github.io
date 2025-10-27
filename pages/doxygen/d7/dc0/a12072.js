@@ -1,8 +1,11 @@
 var a12072 =
 [
-    [ "CheckProc", "d7/dc0/a12072.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "d7/dc0/a12072.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "d7/dc0/a12072.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "d7/dc0/a12072.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "d7/dc0/a12072.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "npc_rocknotAI", "d7/dc0/a12072.html#a4daa5104eabb6d38c22274b48a8514be", null ],
+    [ "DoGo", "d7/dc0/a12072.html#a7591520e06782feddb98a86107fbcb27", null ],
+    [ "Reset", "d7/dc0/a12072.html#a4d855a23c638e835de6f1c4644350166", null ],
+    [ "UpdateAI", "d7/dc0/a12072.html#a1d3bce3248766393be5f84c5ca5030b1", null ],
+    [ "WaypointReached", "d7/dc0/a12072.html#ae7d6f0b1e52767c61ad014accb1cec7a", null ],
+    [ "BreakDoor_Timer", "d7/dc0/a12072.html#a3ae6edef4812fd3161c3b8ad5aa5cac2", null ],
+    [ "BreakKeg_Timer", "d7/dc0/a12072.html#a6f380ad58cf55fe2ea9fc1f56118b454", null ],
+    [ "instance", "d7/dc0/a12072.html#a4328c25f12f562cfdf41740e908cb3bd", null ]
 ];

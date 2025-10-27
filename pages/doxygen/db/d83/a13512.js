@@ -1,6 +1,16 @@
 var a13512 =
 [
-    [ "OnApply", "db/d83/a13512.html#a53fceaa5187f6dbc93f4d0d589086ca9", null ],
-    [ "PrepareAuraScript", "db/d83/a13512.html#a236892b4fd6cf081a907becab6187069", null ],
-    [ "Register", "db/d83/a13512.html#aa37819b82692df8a21cbbda8833ad492", null ]
+    [ "boss_felmyst", "db/d83/a13512.html#a96aa8f038e3f93aa7628ce3f28ef39ff", null ],
+    [ "InitializeAI", "db/d83/a13512.html#af29021c428a9c7ffcea517d91b1d4b39", null ],
+    [ "JustDied", "db/d83/a13512.html#a2269784b565f6a9d18bd9124cf4b8472", null ],
+    [ "JustEngagedWith", "db/d83/a13512.html#a6fc19cd8b8c7891a912a50fcd673d96f", null ],
+    [ "KilledUnit", "db/d83/a13512.html#a0233ebbcbb21d100425ac76223e839be", null ],
+    [ "MovementInform", "db/d83/a13512.html#adf8cd17c20be6acbe381777e8c0efdba", null ],
+    [ "Reset", "db/d83/a13512.html#ae5181c789809a859edb40488e206c0d3", null ],
+    [ "ScheduleGroundAbilities", "db/d83/a13512.html#a2d77aab0f9c403e130f0513a0b3013ce", null ],
+    [ "SpellHitTarget", "db/d83/a13512.html#a9b603cd704126cc6a6bbd65e2bb702e5", null ],
+    [ "StartIntro", "db/d83/a13512.html#a55e6defd1bc7f8f1dfd2376cb4589356", null ],
+    [ "UpdateAI", "db/d83/a13512.html#a0e429d8cf49946c0232b9c405c340356", null ],
+    [ "_currentLane", "db/d83/a13512.html#a7b4230a28ad7d8136ae16ada9d471a39", null ],
+    [ "_strafeCount", "db/d83/a13512.html#adc58c6e8aef0debe6689e42cebff5aa2", null ]
 ];

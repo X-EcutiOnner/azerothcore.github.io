@@ -1,6 +1,6 @@
 var a21440 =
 [
-    [ "instance_violet_hold_InstanceMapScript", "dc/dd7/a21444.html", "dc/dd7/a21444" ],
-    [ "instance_violet_hold", "dc/d6b/a21440.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
-    [ "GetInstanceScript", "dc/d6b/a21440.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
+    [ "boss_koralonAI", "dc/dd7/a21444.html", "dc/dd7/a21444" ],
+    [ "boss_koralon", "dc/d6b/a21440.html#a43b9fb1224abeba44080fb02062451b0", null ],
+    [ "GetAI", "dc/d6b/a21440.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
 ];

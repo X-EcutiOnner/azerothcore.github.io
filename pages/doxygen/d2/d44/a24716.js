@@ -1,7 +1,6 @@
 var a24716 =
 [
-    [ "AfterApply", "d2/d44/a24716.html#a1849f49a9682627753b8bd39b3ff827e", null ],
-    [ "AfterRemove", "d2/d44/a24716.html#a7c08bea735cd36840463aa942e7529b4", null ],
-    [ "PrepareAuraScript", "d2/d44/a24716.html#ad27880f797137cae09381e860727e2f7", null ],
-    [ "Register", "d2/d44/a24716.html#a6c105609c1ee61a8f845018550b2e3ba", null ]
+    [ "HandleProc", "d2/d44/a24716.html#a8fb0e7e5e50fcb201e8e55ee9621034e", null ],
+    [ "PrepareAuraScript", "d2/d44/a24716.html#a2f42e70482f71a4c275f70897b90ed72", null ],
+    [ "Register", "d2/d44/a24716.html#a048f59b6b0d52232e3a953f173324fc2", null ]
 ];

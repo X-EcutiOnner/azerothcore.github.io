@@ -1,14 +1,8 @@
 var a18512 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "de/dae/a18512.html#a4d4bd899a40ff44f8ee517b2a0328538", null ],
-    [ "AttackStart", "de/dae/a18512.html#a5457c18c60a8301ea60ef34d810a14c9", null ],
-    [ "CanAIAttack", "de/dae/a18512.html#aaf12ae21dddfa6b47ffa7880f65487a4", null ],
-    [ "DoAction", "de/dae/a18512.html#abbd08537ed245084ca7d4cf852a749a2", null ],
-    [ "EnterEvadeMode", "de/dae/a18512.html#a32bd4ed61bc62206ccedcf4acaeb8df8", null ],
-    [ "JustEngagedWith", "de/dae/a18512.html#ad7385306f8058699ee004b7bc5f1b538", null ],
-    [ "JustReachedHome", "de/dae/a18512.html#a2ae1c178a84c6d6899cf6400cb963e44", null ],
-    [ "MoveInLineOfSight", "de/dae/a18512.html#ab2465cf3e5950d827eb0a30e9fc2ea47", null ],
-    [ "Reset", "de/dae/a18512.html#a3dfe1f28c9301c30186beb27ab76f9a9", null ],
-    [ "UpdateAI", "de/dae/a18512.html#a89ce158e08b3da1e54b0be6caa3950b8", null ],
-    [ "checkTimer", "de/dae/a18512.html#ae5c238e2e201c431ceccc59a3a26078b", null ]
+    [ "ChangeDamageAndGrow", "de/dae/a18512.html#a017ade08eca93f326d2e5115c4d88c33", null ],
+    [ "CorrectRange", "de/dae/a18512.html#a9022b9efab89bc562428520b3551ff37", null ],
+    [ "PrepareSpellScript", "de/dae/a18512.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
+    [ "Register", "de/dae/a18512.html#a998b810cdbecbca2bf65f18cee14d286", null ],
+    [ "Validate", "de/dae/a18512.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
 ];

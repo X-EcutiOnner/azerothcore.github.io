@@ -1,9 +1,9 @@
 var a16836 =
 [
-    [ "HandlePeriodicTick", "d7/d71/a16836.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
-    [ "Load", "d7/d71/a16836.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
-    [ "PrepareAuraScript", "d7/d71/a16836.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
-    [ "Register", "d7/d71/a16836.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
-    [ "Validate", "d7/d71/a16836.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
-    [ "dir", "d7/d71/a16836.html#a7dd1959596e8ad1628498215249eb7a2", null ]
+    [ "npc_concentrated_ballAI", "d7/d71/a16836.html#a5aae1554934d8e2aaa59d420a13517b6", null ],
+    [ "DoAction", "d7/d71/a16836.html#ad3284ed37cdc503a688aa6fb2537387e", null ],
+    [ "MovementInform", "d7/d71/a16836.html#a07845a436ded9c799b742ac9e27cc1bd", null ],
+    [ "MoveToNextPoint", "d7/d71/a16836.html#a89d2697d5ccf6d783e973efc3b4669aa", null ],
+    [ "UpdateAI", "d7/d71/a16836.html#a6509ff14639bca29b6877db54102d004", null ],
+    [ "despawning", "d7/d71/a16836.html#a24145c6c4c38b5a1853647d24871090d", null ]
 ];

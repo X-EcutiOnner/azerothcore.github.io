@@ -1,5 +1,16 @@
 var a10636 =
 [
-    [ "Flags", "de/da0/a10636.html#af1d25fa760cdbfa907a1b6e0002f0e70", null ],
-    [ "WithdrawItemLimit", "de/da0/a10636.html#aa7bb5355ee174f3b9dd32c659e0f7806", null ]
+    [ "AreaID", "de/da0/a10636.html#a7bd695ba9365b53703204e45c930b254", null ],
+    [ "ClassID", "de/da0/a10636.html#a794961a2e9f4773254b2439837150b50", null ],
+    [ "Gender", "de/da0/a10636.html#aadb29895c835e820168ad7d3f608d3b8", null ],
+    [ "Guid", "de/da0/a10636.html#a9dad860d61da34048ab2d52ada0cb43f", null ],
+    [ "LastSave", "de/da0/a10636.html#acb553637ff289603411fa5795a361deb", null ],
+    [ "Level", "de/da0/a10636.html#a585acb139537e8def9e4ba076a332b6b", null ],
+    [ "Name", "de/da0/a10636.html#ad50c43162525d8ad2ea33e48c01e838e", null ],
+    [ "Note", "de/da0/a10636.html#aa351a270de4cba2faddc5179cb854b94", null ],
+    [ "OfficerNote", "de/da0/a10636.html#aedaee0b4511ddd82cc75e91cb04e175a", null ],
+    [ "RankID", "de/da0/a10636.html#a02f6f0dcf1be3a6befe959388d9aedd8", null ],
+    [ "Status", "de/da0/a10636.html#aa6342565a23693718b5ef84f90b83350", null ],
+    [ "TotalXP", "de/da0/a10636.html#ad3ee1ba956ea725db8588e3be3c57b18", null ],
+    [ "WeeklyXP", "de/da0/a10636.html#a7fb40a5bce99fcf70176ebe344424ed2", null ]
 ];

@@ -1,12 +1,10 @@
 var a18016 =
 [
-    [ "npc_big_oozeAI", "db/d34/a18016.html#a3564ffec1ac0ac2c7e29b3c7a6b60958", null ],
-    [ "DoAction", "db/d34/a18016.html#a6d39eb1f177e8670169f18fcfa2e3c4e", null ],
-    [ "EnterEvadeMode", "db/d34/a18016.html#ad7251cda20f3e2821077d2327528fd2d", null ],
-    [ "IsSummonedBy", "db/d34/a18016.html#a85d27ac9fb0b9dbb92b2b17a99eaa612", null ],
-    [ "JustDied", "db/d34/a18016.html#a2372053a84715990fc7fce3d8e269265", null ],
-    [ "UpdateAI", "db/d34/a18016.html#a2e1f52ca84363703d95da99ca93d3503", null ],
-    [ "events", "db/d34/a18016.html#a54f3baa4767f8336ff4699de426aae61", null ],
-    [ "firstUpdate", "db/d34/a18016.html#af5c34c976137e456d1779ca944f88639", null ],
-    [ "instance", "db/d34/a18016.html#a788141bf9be03161741d01d0aa4fe227", null ]
+    [ "npc_bone_spikeAI", "db/d34/a18016.html#a1b54aaa7b5ed142561fbc02e9593e87c", null ],
+    [ "DoAction", "db/d34/a18016.html#a38b2944fb4e9d7fcc7205423faa8a994", null ],
+    [ "IsSummonedBy", "db/d34/a18016.html#af2794484ee3ebf0579ce7357d222240d", null ],
+    [ "JustDied", "db/d34/a18016.html#ae9c8fa649ba9fac74187913d29be9dd6", null ],
+    [ "UpdateAI", "db/d34/a18016.html#a8eff2bcc6507c65e563ed272977f224e", null ],
+    [ "events", "db/d34/a18016.html#a6a35900435d41d0603919f29415667a5", null ],
+    [ "hasTrappedUnit", "db/d34/a18016.html#aeb7236ef0d313fd3799458f3d50276f7", null ]
 ];

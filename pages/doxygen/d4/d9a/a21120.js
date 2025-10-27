@@ -1,7 +1,9 @@
 var a21120 =
 [
-    [ "npc_frost_tomb", "d4/d9a/a21120.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "d4/d9a/a21120.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "d4/d9a/a21120.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "d4/d9a/a21120.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "HandleOnEffectApply", "d4/d9a/a21120.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
+    [ "OnPeriodic", "d4/d9a/a21120.html#a49ad44eba19416743bd26252d1b40d71", null ],
+    [ "PrepareAuraScript", "d4/d9a/a21120.html#ae0c475babb67cebb245d6d85b50cd694", null ],
+    [ "Register", "d4/d9a/a21120.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
+    [ "Validate", "d4/d9a/a21120.html#ab383a0a207aa78b7efcd400765ad0838", null ],
+    [ "_targetGUID", "d4/d9a/a21120.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
 ];

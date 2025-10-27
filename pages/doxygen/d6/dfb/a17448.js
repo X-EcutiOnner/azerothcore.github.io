@@ -1,9 +1,11 @@
 var a17448 =
 [
-    [ "CheckTarget", "d6/dfb/a17448.html#a43fc6a16aca217ef043fa34a58391357", null ],
-    [ "HandlePresence", "d6/dfb/a17448.html#a52ea6041c5fe004c1e996a974cc59d5d", null ],
-    [ "OnCast", "d6/dfb/a17448.html#a96cec6f1b51a2c0c03f89447c5306b5a", null ],
-    [ "PrepareSpellScript", "d6/dfb/a17448.html#abe559b32aa82f19abb0a6d664b75c748", null ],
-    [ "Register", "d6/dfb/a17448.html#ad8c7a9935e85c06f837e694ebcaffba1", null ],
-    [ "Validate", "d6/dfb/a17448.html#a2301414a88dcbf4bdc8a486ec4be994e", null ]
+    [ "boss_slad_ranAI", "d6/dfb/a17448.html#ad85e2fd51d67739026a96bc757bc7801", null ],
+    [ "GetData", "d6/dfb/a17448.html#a58e1188a418acdc1f327e7df90c5c122", null ],
+    [ "JustDied", "d6/dfb/a17448.html#a636ca76497c33a5175986e80bbcda44a", null ],
+    [ "JustEngagedWith", "d6/dfb/a17448.html#ac30b38805d0421b1be509c7d5609c648", null ],
+    [ "KilledUnit", "d6/dfb/a17448.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
+    [ "Reset", "d6/dfb/a17448.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
+    [ "SetData", "d6/dfb/a17448.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
+    [ "_achievement", "d6/dfb/a17448.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
 ];

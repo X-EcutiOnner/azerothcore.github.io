@@ -1,8 +1,9 @@
 var a09304 =
 [
-    [ "RespawnDo", "d4/dd9/a09304.html#a79f6424f2849c4c05998fe29a8510aeb", null ],
-    [ "operator()", "d4/dd9/a09304.html#ac15ff63f29e313556b8f66e0cd80514f", null ],
-    [ "operator()", "d4/dd9/a09304.html#a23408bf4da497d1007e4e88e0d9c0e19", null ],
-    [ "operator()", "d4/dd9/a09304.html#a66335f45bb1f3c770887b263e9d84236", null ],
-    [ "operator()", "d4/dd9/a09304.html#a4551ca2e0fdb6540a724c9c2b43484c6", null ]
+    [ "CreatureLastSearcher", "d4/dd9/a09304.html#a422c7a5a2cd4e93f7b0ad31cc4c6555d", null ],
+    [ "Visit", "d4/dd9/a09304.html#ae6774df4ffff18cd4f3b4c07724db4f4", null ],
+    [ "Visit", "d4/dd9/a09304.html#a08635cefbba5dca34734569816d2edb8", null ],
+    [ "i_check", "d4/dd9/a09304.html#a2b9afe2c43af6e68f7fa5ba661790ef9", null ],
+    [ "i_object", "d4/dd9/a09304.html#ab8a14acb8d0fc9835d1325430fa1a367", null ],
+    [ "i_phaseMask", "d4/dd9/a09304.html#a9dd25e3437e1c1e5e4c8d68ab3548500", null ]
 ];

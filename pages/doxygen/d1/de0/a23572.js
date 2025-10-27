@@ -1,7 +1,8 @@
 var a23572 =
 [
-    [ "boss_the_maker", "d1/de0/a23572.html#a478c48f225e8fdf14cde5b1f144cb6c4", null ],
-    [ "JustDied", "d1/de0/a23572.html#a564abd0a8f52c8c58a305f9c47d8475c", null ],
-    [ "JustEngagedWith", "d1/de0/a23572.html#a6b0a4442dbabde69ca9352017ee23675", null ],
-    [ "KilledUnit", "d1/de0/a23572.html#a40643ca00fe7d7029a291335e47c722a", null ]
+    [ "boss_mekgineer_steamrigger", "d1/de0/a23572.html#a930dcbade7135d0c689bcc0718815547", null ],
+    [ "JustDied", "d1/de0/a23572.html#a79272c233bc0256cca62700fc7a01421", null ],
+    [ "JustEngagedWith", "d1/de0/a23572.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
+    [ "JustSummoned", "d1/de0/a23572.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
+    [ "KilledUnit", "d1/de0/a23572.html#a84374438458cb7e034f91d4b65cd22f1", null ]
 ];

@@ -1,9 +1,7 @@
 var a25388 =
 [
-    [ "spell_gen_translocate", "da/dc8/a25388.html#a56a3df0eba3e1521aa2898194c39e919", null ],
-    [ "HandleScript", "da/dc8/a25388.html#a67684fb76da60fdc13dbece055dae157", null ],
-    [ "PrepareSpellScript", "da/dc8/a25388.html#a6f0986e54ad410c2f42a7935645485ed", null ],
-    [ "Register", "da/dc8/a25388.html#abbbcd1fdefbbd1778667ee69d449d63b", null ],
-    [ "Validate", "da/dc8/a25388.html#a0ae40ad6153a98dcd98cdfebeb515faf", null ],
-    [ "_spellId", "da/dc8/a25388.html#a01e4c84404734b7da1bf5f31cb097e58", null ]
+    [ "HandleProc", "da/dc8/a25388.html#ac88c41bcfcedd9194d9d3f958d605d37", null ],
+    [ "PrepareAuraScript", "da/dc8/a25388.html#a66c3458e88ab5802e10445df3aeb52f6", null ],
+    [ "Register", "da/dc8/a25388.html#af02b0af51a1fece0780414ab45c8d31e", null ],
+    [ "Validate", "da/dc8/a25388.html#a9f955b53e5905cfb3742a58c8bedab96", null ]
 ];

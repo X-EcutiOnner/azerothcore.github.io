@@ -1,6 +1,6 @@
 var a14804 =
 [
-    [ "npc_crate_helperAI", "d4/d0a/a14808.html", "d4/d0a/a14808" ],
-    [ "npc_crate_helper", "d6/d09/a14804.html#ae08751928234656dcda84dd5c7e4cc37", null ],
-    [ "GetAI", "d6/d09/a14804.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
+    [ "HandleScriptEffect", "d6/d09/a14804.html#a2acaaf3716237f147429cb07779ae49e", null ],
+    [ "PrepareSpellScript", "d6/d09/a14804.html#a55df717ede47b17a32ae33ecd64617cd", null ],
+    [ "Register", "d6/d09/a14804.html#ac515af62f7e42cafecc4afdf7ba15ddf", null ]
 ];

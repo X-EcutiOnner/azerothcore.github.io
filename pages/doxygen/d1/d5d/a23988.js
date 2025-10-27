@@ -1,6 +1,7 @@
 var a23988 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d9/dac/a23992.html", "d9/dac/a23992" ],
-    [ "npc_deaths_door_fell_cannon_target_bunny", "d1/d5d/a23988.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
-    [ "GetAI", "d1/d5d/a23988.html#a250707096229da28024960beeb7725bf", null ]
+    [ "CastQuill", "d1/d5d/a23988.html#a923234809186bcbdf02457f4be095519", null ],
+    [ "Execute", "d1/d5d/a23988.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
+    [ "_caster", "d1/d5d/a23988.html#af809b9279aff141ce4007c8d1fbcc331", null ],
+    [ "_spellId", "d1/d5d/a23988.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
 ];

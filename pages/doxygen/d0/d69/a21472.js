@@ -1,10 +1,8 @@
 var a21472 =
 [
-    [ "npc_azure_invaderAI", "d0/d69/a21472.html#a85f164a6ba24d7a14d77264441a78f46", null ],
-    [ "Reset", "d0/d69/a21472.html#ada44600272b19d9416d957bc52bc3be4", null ],
-    [ "UpdateAI", "d0/d69/a21472.html#a7dfdcb2a88930c6b4150f7f7c825a2df", null ],
-    [ "uiBrutalStrikeTimer", "d0/d69/a21472.html#a4b88a85f3344edbdadde0104668509aa", null ],
-    [ "uiCleaveTimer", "d0/d69/a21472.html#a8b1792a8a405651d602d9ed634f52689", null ],
-    [ "uiImpaleTimer", "d0/d69/a21472.html#aa709ee8919a2d0317d563259c7630c99", null ],
-    [ "uiSunderArmorTimer", "d0/d69/a21472.html#ab2e6d01df033985ac29e963cf2895466", null ]
+    [ "npc_frozen_orbAI", "d0/d69/a21472.html#aa7456d1d876690e3723ee0a36866348b", null ],
+    [ "JustEngagedWith", "d0/d69/a21472.html#afd9686dbb8503d7f756b670269aed33d", null ],
+    [ "Reset", "d0/d69/a21472.html#a376dc1fcef9752e235008c4ba66e2463", null ],
+    [ "UpdateAI", "d0/d69/a21472.html#a37d7cf81197fe4344c8b847753997e93", null ],
+    [ "switchTimer", "d0/d69/a21472.html#afc63a3cf6b814df81a35b53278d722c9", null ]
 ];

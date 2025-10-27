@@ -1,7 +1,5 @@
 var a25584 =
 [
-    [ "CalculateDamageAmount", "d4/dc6/a25584.html#a2f608e8391e61434ef1b164c023854fe", null ],
-    [ "CalculateManaLeechAmount", "d4/dc6/a25584.html#a8a4946d1718d8045a72c92355ff38ecb", null ],
-    [ "PrepareAuraScript", "d4/dc6/a25584.html#a63d24d3ca4b2de1aa7f67376ded7bc59", null ],
-    [ "Register", "d4/dc6/a25584.html#aa6e74e89930fd3cc564c3cba86e3687e", null ]
+    [ "PrepareSpellScript", "d4/dc6/a25584.html#ac83289482a8f83a2af80e2f9f35b6716", null ],
+    [ "Register", "d4/dc6/a25584.html#a5e2cdc942b9972f79ff0a4fac2f0d77d", null ]
 ];

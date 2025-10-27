@@ -1,7 +1,7 @@
 var a02678 =
 [
-    [ "boss_faerlina", "de/d20/a19183.html", "de/d20/a19183" ],
-    [ "boss_faerlina::boss_faerlinaAI", "db/dc4/a19187.html", "db/dc4/a19187" ],
+    [ "boss_faerlina", "d7/d06/a19180.html", "d7/d06/a19180" ],
+    [ "boss_faerlina::boss_faerlinaAI", "d7/d93/a19184.html", "d7/d93/a19184" ],
     [ "Groups", "dc/d64/a02678.html#aab072245ab577ff0e12efe20a536b99a", [
       [ "GROUP_PRECOMBAT_TALK", "d1/dfd/a03536.html#aab072245ab577ff0e12efe20a536b99aa3e7953992f23b2eba8d8498bfc66e01d", null ],
       [ "PORTAL_PHASE", "dd/d25/a03512.html#aab072245ab577ff0e12efe20a536b99aa8f7d8b62b79ce76fc356b355521db829", null ],

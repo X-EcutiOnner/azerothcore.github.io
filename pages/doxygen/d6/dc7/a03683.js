@@ -1,7 +1,7 @@
 var a03683 =
 [
-    [ "boss_general_angerforge", "d0/d71/a12115.html", "d0/d71/a12115" ],
-    [ "boss_general_angerforge::boss_general_angerforgeAI", "d8/d4f/a12119.html", "d8/d4f/a12119" ],
+    [ "boss_general_angerforge", "de/dfe/a12116.html", "de/dfe/a12116" ],
+    [ "boss_general_angerforge::boss_general_angerforgeAI", "db/db7/a12120.html", "db/db7/a12120" ],
     [ "Spells", "d6/dc7/a03683.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d4/def/a00359.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d4/def/a00359.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

@@ -1,5 +1,6 @@
 var a12020 =
 [
-    [ "boss_high_priestess_thaurissan", "d3/d6d/a12020.html#a53d3fd78f6a1a3b5028c6fc2940dfbd0", null ],
-    [ "GetAI", "d3/d6d/a12020.html#a7d2bb83a766b8eaa9bdbbb0f45a4fe62", null ]
+    [ "boss_vanndarAI", "d2/de0/a12024.html", "d2/de0/a12024" ],
+    [ "boss_vanndar", "d3/d6d/a12020.html#a66d190d1b48fd2259a95d88235ffb7d2", null ],
+    [ "GetAI", "d3/d6d/a12020.html#ad1879cc6123a323ada04c49a2c691349", null ]
 ];

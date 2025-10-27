@@ -1,6 +1,7 @@
 var a26356 =
 [
-    [ "HandleScriptEffect", "db/d31/a26356.html#a7dc7cb2dcdd6518a253a459e2e711c89", null ],
-    [ "PrepareSpellScript", "db/d31/a26356.html#a9c41ae2e7ef1947c11c16d8abb48ec56", null ],
-    [ "Register", "db/d31/a26356.html#a5b2a218cca68177209ca42be9dfbc8ea", null ]
+    [ "OnProc", "db/d31/a26356.html#a304fd48cc79d3e7371212632d276b2ff", null ],
+    [ "PrepareAuraScript", "db/d31/a26356.html#a239f9448d36bee4cfb46d95bf20c0148", null ],
+    [ "Register", "db/d31/a26356.html#a28be437c5f3e8bca0f54be97cb5c5a1f", null ],
+    [ "Validate", "db/d31/a26356.html#adc217147d7c150d66dad4d3e922cff96", null ]
 ];

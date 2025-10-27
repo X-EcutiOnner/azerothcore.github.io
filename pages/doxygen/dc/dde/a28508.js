@@ -1,8 +1,6 @@
 var a28508 =
 [
-    [ "TimeSeg", "dc/dde/a28508.html#ab94639ba8e26b215ebd31163967574d3", null ],
-    [ "TransportEntry", "dc/dde/a28508.html#a859d25b3c11839ad7e37facd40dc79df", null ],
-    [ "X", "dc/dde/a28508.html#a8fbd166503396e33a4ad77448bf307ea", null ],
-    [ "Y", "dc/dde/a28508.html#a67c279b26cebd8e5c81c36576b145af6", null ],
-    [ "Z", "dc/dde/a28508.html#a680689c57479a2cc1ec72ab97204d3e7", null ]
+    [ "ID", "dc/dde/a28508.html#a7d40e334785d96a2e57d28f87a59778a", null ],
+    [ "maxCount", "dc/dde/a28508.html#a5edc6442e026b12dae654fa86440a11a", null ],
+    [ "mode", "dc/dde/a28508.html#a76553ecf9f880a5e5967f818123742fd", null ]
 ];

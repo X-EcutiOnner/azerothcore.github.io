@@ -1,8 +1,13 @@
 var a23488 =
 [
-    [ "npc_underbat", "dc/d2b/a23488.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
-    [ "JustEngagedWith", "dc/d2b/a23488.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
-    [ "Reset", "dc/d2b/a23488.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
-    [ "UpdateAI", "dc/d2b/a23488.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
-    [ "_scheduler", "dc/d2b/a23488.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
+    [ "npc_ahune_bunny", "dc/d2b/a23488.html#ae28e0d2dbaab082488d5582b75cd8482", null ],
+    [ "DoAction", "dc/d2b/a23488.html#ad071787c47254f603ba7692889733202", null ],
+    [ "JustDied", "dc/d2b/a23488.html#a8733a3e495ebf69df4f9d1213df50170", null ],
+    [ "JustSummoned", "dc/d2b/a23488.html#a2c5c97b497cd15a1453bbd21d279a29b", null ],
+    [ "ResetFlameCallers", "dc/d2b/a23488.html#a60a74aabbf42116079081134a332a100", null ],
+    [ "UpdateAI", "dc/d2b/a23488.html#aa8dff40dde7820b1ce4e06c8d27e4ecb", null ],
+    [ "_events", "dc/d2b/a23488.html#af84154fff16cbdb15586b3b07223e010", null ],
+    [ "_instance", "dc/d2b/a23488.html#a9be0d062379e5a3dfa19af1eb1a4243e", null ],
+    [ "_submerged", "dc/d2b/a23488.html#a15fdcc2fda18e118f398ccc055f52942", null ],
+    [ "_summons", "dc/d2b/a23488.html#a8f9e25f0d8a66b18e887b061592c6950", null ]
 ];

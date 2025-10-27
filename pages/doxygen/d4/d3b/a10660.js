@@ -1,5 +1,5 @@
 var a10660 =
 [
-    [ "GuildDelete", "d4/d3b/a10660.html#a86733335c7b60d5b9eb8616692da3a7f", null ],
-    [ "Read", "d4/d3b/a10660.html#ae5ca379b187902323638f4c10be0a4d0", null ]
+    [ "GuildDeclineInvitation", "d4/d3b/a10660.html#a11a70a9974bb139e53f76c8b78944fe7", null ],
+    [ "Read", "d4/d3b/a10660.html#ad034438e18a7feddbac376a599c1e01a", null ]
 ];

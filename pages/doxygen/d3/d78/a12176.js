@@ -1,5 +1,5 @@
 var a12176 =
 [
-    [ "at_the_beast_room", "d3/d78/a12176.html#aed5c4aae45ee2b256eb078875c5a2c47", null ],
-    [ "OnTrigger", "d3/d78/a12176.html#a366c5e35c4030f998404886f1526ae37", null ]
+    [ "boss_high_priestess_thaurissan", "d3/d78/a12176.html#a53d3fd78f6a1a3b5028c6fc2940dfbd0", null ],
+    [ "GetAI", "d3/d78/a12176.html#a7d2bb83a766b8eaa9bdbbb0f45a4fe62", null ]
 ];

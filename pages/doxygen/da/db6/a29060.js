@@ -1,9 +1,9 @@
 var a29060 =
 [
-    [ "boss_ysondreAI", "da/db6/a29060.html#a7c5c6a9484aa035a5bda6a6d4a4cc0bc", null ],
-    [ "DamageTaken", "da/db6/a29060.html#a99ee250e776001bb142815fc711ae75d", null ],
-    [ "ExecuteEvent", "da/db6/a29060.html#a88e3caa536a71730c757590be1bd3de1", null ],
-    [ "JustEngagedWith", "da/db6/a29060.html#af96597cf06d2ed71f85c7b4055793dcf", null ],
-    [ "Reset", "da/db6/a29060.html#ac2ea95a5f8c032d7d9166d92bce51ba1", null ],
-    [ "_stage", "da/db6/a29060.html#a5c96faa6b5e6cc350e9c53f34fe17eb1", null ]
+    [ "Flags", "da/db6/a29060.html#a4471edebd870d3dfaaf34292341e5f60", null ],
+    [ "Id", "da/db6/a29060.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
+    [ "Position", "da/db6/a29060.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
+    [ "Rotation", "da/db6/a29060.html#a986c3ea05d510db03ec969f0d116fb34", null ],
+    [ "Scale", "da/db6/a29060.html#af8bcb02c541b9261dbf879353ba6893a", null ],
+    [ "UniqueId", "da/db6/a29060.html#a374c9893af515badc54b22b2a4d5e024", null ]
 ];

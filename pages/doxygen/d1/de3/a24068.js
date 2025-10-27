@@ -1,8 +1,6 @@
 var a24068 =
 [
-    [ "npc_ancestral_wolfAI", "d1/de3/a24068.html#a59ccca7093575f4bcac57a4751d977d4", null ],
-    [ "MoveInLineOfSight", "d1/de3/a24068.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
-    [ "Reset", "d1/de3/a24068.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
-    [ "WaypointReached", "d1/de3/a24068.html#a2b553c29823e5ef888ee02a3ed413386", null ],
-    [ "ryga", "d1/de3/a24068.html#ac238214604720e298124b58c35d58e05", null ]
+    [ "HandleScriptEffect", "d1/de3/a24068.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
+    [ "PrepareSpellScript", "d1/de3/a24068.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
+    [ "Register", "d1/de3/a24068.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
 ];

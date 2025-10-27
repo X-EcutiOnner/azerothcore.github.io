@@ -1,7 +1,6 @@
 var a25148 =
 [
-    [ "HandleDummy", "d1/db7/a25148.html#ab00358dc50fa943685fdd87e5a8ac224", null ],
-    [ "Load", "d1/db7/a25148.html#a31075533c24011797bd0f99dce5e8330", null ],
-    [ "PrepareSpellScript", "d1/db7/a25148.html#abf0acc8765f6e02674b8e93aca575a98", null ],
-    [ "Register", "d1/db7/a25148.html#ad1bd05a154b506424954ef879e5b9fba", null ]
+    [ "HandleDummy", "d1/db7/a25148.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
+    [ "PrepareSpellScript", "d1/db7/a25148.html#af310c2b28ed816b9fbe494f81c42043c", null ],
+    [ "Register", "d1/db7/a25148.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
 ];

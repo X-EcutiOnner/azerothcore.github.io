@@ -1,7 +1,5 @@
 var a07776 =
 [
-    [ "StoreTo", "d8/dd2/a07776.html#a1f368b832f95ce4acc6ed47ad4ca2e8d", null ],
-    [ "StoreTo", "d8/dd2/a07776.html#a3d9382dd50447477f9f04bc0f055e55c", null ],
-    [ "StoreTo", "d8/dd2/a07776.html#a071922c9c431637de3cb2d6b52def7bd", null ],
-    [ "StoreTo", "d8/dd2/a07776.html#a45556cc3ac64a6692ef08d6d93d48a4d", null ]
+    [ "IsColorValid", "d8/dd2/a07776.html#a6fca3f0ea620fbef8ed532ddb26875a0", null ],
+    [ "IsTextValid", "d8/dd2/a07776.html#aef8ebbb11dc11311ba7152732a1ace58", null ]
 ];

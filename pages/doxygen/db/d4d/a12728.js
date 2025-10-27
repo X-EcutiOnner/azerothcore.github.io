@@ -1,11 +1,9 @@
 var a12728 =
 [
-    [ "npc_demon_chain", "db/d4d/a12728.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
-    [ "AttackStart", "db/d4d/a12728.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
-    [ "IsSummonedBy", "db/d4d/a12728.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
-    [ "JustDied", "db/d4d/a12728.html#a35d1b7de8612f11cdf61b9d663990686", null ],
-    [ "JustEngagedWith", "db/d4d/a12728.html#a9743ebc31c5159a03889bfd40b09d749", null ],
-    [ "MoveInLineOfSight", "db/d4d/a12728.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
-    [ "Reset", "db/d4d/a12728.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
-    [ "sacrificeGUID", "db/d4d/a12728.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
+    [ "HandleEffectApply", "db/d4d/a12728.html#ab1f4879fd9bd3982b9695bda886b0b99", null ],
+    [ "HandleEffectRemove", "db/d4d/a12728.html#a8e38bc0ebf6b62982eee84e4c2722413", null ],
+    [ "Load", "db/d4d/a12728.html#a8259745e21c561e4eedabc87ca8bdf73", null ],
+    [ "PrepareAuraScript", "db/d4d/a12728.html#abec6d69d331e9952c129dc4cc24f0f13", null ],
+    [ "Register", "db/d4d/a12728.html#a201bafab6c483b08a6ae27054392dea9", null ],
+    [ "Validate", "db/d4d/a12728.html#a94aa1bd618035323b1fd4817fa7f9687", null ]
 ];

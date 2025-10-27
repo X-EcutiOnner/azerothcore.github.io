@@ -1,7 +1,5 @@
 var a18068 =
 [
-    [ "IceTombSummonEvent", "d9/d53/a18068.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
-    [ "Execute", "d9/d53/a18068.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
-    [ "_owner", "d9/d53/a18068.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
-    [ "_sindragosaGUID", "d9/d53/a18068.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
+    [ "npc_volatile_oozeAI", "d9/d53/a18068.html#af042d4c22482aabcdad6fa867dfe093f", null ],
+    [ "CastMainSpell", "d9/d53/a18068.html#a91890785174ecc60c9553a0aedf1961b", null ]
 ];

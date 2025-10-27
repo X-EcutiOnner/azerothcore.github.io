@@ -1,14 +1,9 @@
 var a08660 =
 [
-    [ "PassengerSet", "d9/dcd/a08660.html#aa6421ebd51e84c819604e18e93729d27", null ],
-    [ "Transport", "d9/dcd/a08660.html#a36928c178aa490c02aa25b4b12e2bf63", null ],
-    [ "AddPassenger", "d9/dcd/a08660.html#ac5c328f816b0358a68265322219357c1", null ],
-    [ "CalculatePassengerOffset", "d9/dcd/a08660.html#a327d37eef797c4197b8bba503bd8a3f8", null ],
-    [ "CalculatePassengerPosition", "d9/dcd/a08660.html#ae4e716194ce5e9c466a8fe5c53ee0980", null ],
-    [ "DelayedUpdate", "d9/dcd/a08660.html#aabc885fccc7a4a4d6a98f9ed8b39cd43", null ],
-    [ "GetPassengers", "d9/dcd/a08660.html#a3f70c977ba2450d4244e54e4260f6ea1", null ],
-    [ "GetPathProgress", "d9/dcd/a08660.html#a4ecab9f8617918aea3a26cc0feb9c021", null ],
-    [ "RemovePassenger", "d9/dcd/a08660.html#a1d70745a16a1cbf3307a25ff4a53c75d", null ],
-    [ "SetPathProgress", "d9/dcd/a08660.html#acb68e75a78fa196a4b514abd24c0e322", null ],
-    [ "_passengers", "d9/dcd/a08660.html#adc2089495aadaab23414ecae3b2df180", null ]
+    [ "EntryPointData", "d9/dcd/a08660.html#a1852523ba9ca889cdd6731c63de759e2", null ],
+    [ "ClearTaxiPath", "d9/dcd/a08660.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
+    [ "HasTaxiPath", "d9/dcd/a08660.html#afd310b2f367ec7df76f01689ea120e6e", null ],
+    [ "joinPos", "d9/dcd/a08660.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
+    [ "mountSpell", "d9/dcd/a08660.html#a06e1cadac24a2ab90e57373692f829dc", null ],
+    [ "taxiPath", "d9/dcd/a08660.html#a5af670fa420b250c22e0f3237e753a6f", null ]
 ];

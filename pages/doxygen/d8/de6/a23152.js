@@ -1,12 +1,12 @@
 var a23152 =
 [
-    [ "boss_fathomlord_karathress", "d8/de6/a23152.html#a05c483ea61011926c260b43f6c01cac3", null ],
-    [ "DoAction", "d8/de6/a23152.html#adc5685244341e353c6dac67b0191d877", null ],
-    [ "JustDied", "d8/de6/a23152.html#a4c356359be50b626a28fab4a803386f8", null ],
-    [ "JustEngagedWith", "d8/de6/a23152.html#ae221d994f2ebb0a298288233727ea1ba", null ],
-    [ "JustReachedHome", "d8/de6/a23152.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
-    [ "JustSummoned", "d8/de6/a23152.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
-    [ "KilledUnit", "d8/de6/a23152.html#a02812a3cc7de22348058dedd107bb6d0", null ],
-    [ "Reset", "d8/de6/a23152.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
-    [ "_recentlySpoken", "d8/de6/a23152.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
+    [ "boss_shade_of_akama", "d8/de6/a23152.html#a385bf995d19652254d6ae8a447c23c37", null ],
+    [ "EnterEvadeMode", "d8/de6/a23152.html#a690f8058fb4358b98960177d76864275", null ],
+    [ "JustDied", "d8/de6/a23152.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
+    [ "MovementInform", "d8/de6/a23152.html#a345707efebd5027c01a25a563d1e6f43", null ],
+    [ "Reset", "d8/de6/a23152.html#a19a1aca1a599704612ac845001895b4f", null ],
+    [ "SpellHit", "d8/de6/a23152.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
+    [ "UpdateAI", "d8/de6/a23152.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
+    [ "channelers", "d8/de6/a23152.html#a63372527172d3f96f533b5776221c2e7", null ],
+    [ "generators", "d8/de6/a23152.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
 ];

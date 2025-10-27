@@ -1,11 +1,7 @@
 var a27856 =
 [
-    [ "icon", "d3/dd1/a27856.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
-    [ "id", "d3/dd1/a27856.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
-    [ "mapId", "d3/dd1/a27856.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
-    [ "worldState", "d3/dd1/a27856.html#a9d745d26316726c861cc5a242f6a4f57", null ],
-    [ "x", "d3/dd1/a27856.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
-    [ "y", "d3/dd1/a27856.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
-    [ "z", "d3/dd1/a27856.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
-    [ "zoneId", "d3/dd1/a27856.html#a0cc33089981237694ca550cba6793a3e", null ]
+    [ "npc_steam_tonkAI", "d3/dd1/a27856.html#a64bc74af412304d50526e5c93e01a333", null ],
+    [ "JustEngagedWith", "d3/dd1/a27856.html#a95b023adf0a2e62788e0d5646b17b319", null ],
+    [ "OnPossess", "d3/dd1/a27856.html#a954208c1a9826ae84a7402f59e1d7055", null ],
+    [ "Reset", "d3/dd1/a27856.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
 ];

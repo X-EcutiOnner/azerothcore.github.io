@@ -1,6 +1,6 @@
 var a21064 =
 [
-    [ "instance_ulduar_InstanceMapScript", "de/da4/a21068.html", "de/da4/a21068" ],
-    [ "instance_ulduar", "de/d62/a21064.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
-    [ "GetInstanceScript", "de/d62/a21064.html#ad15f003a90e656910fc32d661ca9baba", null ]
+    [ "boss_yoggsaron_influence_tentacleAI", "de/da4/a21068.html", "de/da4/a21068" ],
+    [ "boss_yoggsaron_influence_tentacle", "de/d62/a21064.html#a44155d82364bdde7e00131be3b6edfb6", null ],
+    [ "GetAI", "de/d62/a21064.html#afb691fae90c0add07cfc8c02b9d2b975", null ]
 ];

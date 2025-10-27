@@ -1,9 +1,8 @@
 var a27740 =
 [
-    [ "npc_necropolis_health", "dc/d74/a27740.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
-    [ "DespawnNecropolis", "dc/d74/a27740.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
-    [ "JustDied", "dc/d74/a27740.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
-    [ "SpellHit", "dc/d74/a27740.html#ad4a9f9b166ab8107a16da918082c6625", null ],
-    [ "SpellHitTarget", "dc/d74/a27740.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
-    [ "_zapCount", "dc/d74/a27740.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
+    [ "npc_franklinAI", "d0/d8b/a27744.html", "d0/d8b/a27744" ],
+    [ "npc_franklin", "dc/d74/a27740.html#aab059dfa69e52083892e3170c8838e0a", null ],
+    [ "GetAI", "dc/d74/a27740.html#a10933878afe9d0cc78fa1113341fd522", null ],
+    [ "OnGossipHello", "dc/d74/a27740.html#a318d512914b135800caabe0efbb1c467", null ],
+    [ "OnGossipSelect", "dc/d74/a27740.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
 ];

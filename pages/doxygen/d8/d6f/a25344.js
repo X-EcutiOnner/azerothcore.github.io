@@ -1,5 +1,6 @@
 var a25344 =
 [
-    [ "PrepareSpellScript", "d8/d6f/a25344.html#a5e100554f868649d4edea011fe767b8b", null ],
-    [ "Register", "d8/d6f/a25344.html#a0ffb1cb313060770227621edb16c3a0d", null ]
+    [ "HandleScriptEffect", "d8/d6f/a25344.html#a422a77760004d6d6fac6bacdb1d436ff", null ],
+    [ "PrepareSpellScript", "d8/d6f/a25344.html#a1d7e2beafb55464f928ea5904441d698", null ],
+    [ "Register", "d8/d6f/a25344.html#aeaa8321255f377b85884df25a455554f", null ]
 ];

@@ -1,5 +1,6 @@
 var a22456 =
 [
-    [ "achievement_wg_within_our_grasp", "d0/d98/a22456.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "d0/d98/a22456.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "npc_iron_watcherAI", "d5/d5e/a22460.html", "d5/d5e/a22460" ],
+    [ "npc_iron_watcher", "d0/d98/a22456.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
+    [ "GetAI", "d0/d98/a22456.html#af3b80b838e192737762ceed599b0be9a", null ]
 ];

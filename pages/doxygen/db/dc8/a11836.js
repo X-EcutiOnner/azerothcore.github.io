@@ -1,6 +1,9 @@
 var a11836 =
 [
-    [ "npc_av_marshal_or_warmasterAI", "df/d7d/a11840.html", "df/d7d/a11840" ],
-    [ "npc_av_marshal_or_warmaster", "db/dc8/a11836.html#a7ffc93248d66d50d5d75d1fcf1f907ee", null ],
-    [ "GetAI", "db/dc8/a11836.html#a295eee4baef6a53cf291fdf155cfdf4a", null ]
+    [ "event_commandscript", "db/dc8/a11836.html#a160db0ad8874b0834ef863043b1796ae", null ],
+    [ "GetCommands", "db/dc8/a11836.html#aac32a7f3d2d11dc73dfa3e9f8224560e", null ],
+    [ "HandleEventActiveListCommand", "db/dc8/a11836.html#a6752be35103bb585984083a449c85714", null ],
+    [ "HandleEventInfoCommand", "db/dc8/a11836.html#a1f0815bccd6cef61826ada4e349708d9", null ],
+    [ "HandleEventStartCommand", "db/dc8/a11836.html#ad46dbd8892db3548d889d4127461c8e3", null ],
+    [ "HandleEventStopCommand", "db/dc8/a11836.html#a1322b3206a1846dc0404a3fb5c74e025", null ]
 ];

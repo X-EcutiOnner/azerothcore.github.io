@@ -1,7 +1,6 @@
 var a06148 =
 [
-    [ "SpellTargetSelector", "d1/d3c/a06148.html#a9f1f441e542500dc43c58b97729f7f51", null ],
-    [ "operator()", "d1/d3c/a06148.html#a53c27c23f2d9846903e1ff9b479a36b1", null ],
-    [ "_caster", "d1/d3c/a06148.html#ac5b0844c975a6b3ff3c14a843fd28fba", null ],
-    [ "_spellInfo", "d1/d3c/a06148.html#a309ed04630cfb92810b7f51376b3917c", null ]
+    [ "NullGameObjectAI", "d1/d3c/a06148.html#a54f6ae6e03fbe423d895ec306fe091db", null ],
+    [ "Permissible", "d1/d3c/a06148.html#a850b58bfcc5e613f31fc95e556ed7f91", null ],
+    [ "UpdateAI", "d1/d3c/a06148.html#a01b2b14306c75fafe58295a30e5d01e0", null ]
 ];

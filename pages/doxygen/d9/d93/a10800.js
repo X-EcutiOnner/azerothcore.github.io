@@ -1,8 +1,7 @@
 var a10800 =
 [
-    [ "MinimapPing", "d9/d93/a10800.html#a846074f55e6224bf322b96c7bfe9e008", null ],
-    [ "Write", "d9/d93/a10800.html#a94eb49e309ce83b04ccaf8f7e3e8bde7", null ],
-    [ "MapX", "d9/d93/a10800.html#ab747a36a7dfefb0692e8c6abb1d161e2", null ],
-    [ "MapY", "d9/d93/a10800.html#a2f8504ddba41dd09f69763d66331373b", null ],
-    [ "SourceGuid", "d9/d93/a10800.html#abf5d5980b360cbf9332460b01d5816f5", null ]
+    [ "GuildBankLogQueryResults", "d9/d93/a10800.html#a878f9545b3141a327de85771de4f1779", null ],
+    [ "Write", "d9/d93/a10800.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
+    [ "Entry", "d9/d93/a10800.html#a5f3704df5311f06833c3243201d35930", null ],
+    [ "Tab", "d9/d93/a10800.html#a214db612bb08e557dd41d3962c827dca", null ]
 ];

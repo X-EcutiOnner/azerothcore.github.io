@@ -1,8 +1,9 @@
 var a08852 =
 [
-    [ "TempSummonGroupKey", "de/d49/a08852.html#ae1bd752c8fc7d037d6942b32859ce1ad", null ],
-    [ "operator<", "de/d49/a08852.html#ae92c7712bd58b9b773ddaac3d2b8a345", null ],
-    [ "_summonerEntry", "de/d49/a08852.html#a0ecac0e82ce63c9e64f2e17d941df447", null ],
-    [ "_summonerType", "de/d49/a08852.html#ac6bf8fb36092134f63409f3cddc5f810", null ],
-    [ "_summonGroup", "de/d49/a08852.html#a1a90f3bf90363f88828cc217dd7ceda6", null ]
+    [ "VehicleAccessory", "de/d49/a08852.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
+    [ "AccessoryEntry", "de/d49/a08852.html#a6e3cd6b20680974235c146d34b16295a", null ],
+    [ "IsMinion", "de/d49/a08852.html#ace3fd27311370e4db4103f2c3ac70410", null ],
+    [ "SeatId", "de/d49/a08852.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
+    [ "SummonedType", "de/d49/a08852.html#afc843c62c580c860471b0e49f5901363", null ],
+    [ "SummonTime", "de/d49/a08852.html#a13a024b3ceacf38ce4907b079d732420", null ]
 ];

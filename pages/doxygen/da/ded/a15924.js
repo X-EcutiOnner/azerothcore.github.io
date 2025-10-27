@@ -1,14 +1,7 @@
 var a15924 =
 [
-    [ "boss_anub_arakAI", "da/ded/a15924.html#a9b9dc11d78456efd9c6ad69e0c12e022", null ],
-    [ "EnterEvadeMode", "da/ded/a15924.html#a016f17a11be149cbb6cc1343f2916a4f", null ],
-    [ "JustDied", "da/ded/a15924.html#abc93931e7698ffd717199a598e16c917", null ],
-    [ "JustEngagedWith", "da/ded/a15924.html#a589c252516b738a8f38f9d89da11912c", null ],
-    [ "JustSummoned", "da/ded/a15924.html#a8624e9dc8af370579bd7ef72063acbf8", null ],
-    [ "KilledUnit", "da/ded/a15924.html#a33e26ae3907e84ecc02514e4133e3002", null ],
-    [ "MoveInLineOfSight", "da/ded/a15924.html#ab89570d2d0ddb494fa20f24d95cac41b", null ],
-    [ "Reset", "da/ded/a15924.html#a254a51a901c0e82da6cb87ade5eba6fa", null ],
-    [ "SummonHelpers", "da/ded/a15924.html#a709ef4602ace41c9b9ccebe8795badec", null ],
-    [ "UpdateAI", "da/ded/a15924.html#acf3ddec273ded62c768631be2b3299fa", null ],
-    [ "intro", "da/ded/a15924.html#a4916d6a1ed06330e94698a13c404ee52", null ]
+    [ "npc_ringoAI", "d4/dc7/a15928.html", "d4/dc7/a15928" ],
+    [ "npc_ringo", "da/ded/a15924.html#aabccd10a446986487bbb09fc2d33cfd9", null ],
+    [ "GetAI", "da/ded/a15924.html#aee6c9988f0c038c74b0deb3d44617ef1", null ],
+    [ "OnQuestAccept", "da/ded/a15924.html#abdf4e5e1b26c1b1a288047e24188ad10", null ]
 ];

@@ -1,20 +1,14 @@
 var a22768 =
 [
-    [ "boss_illidan_stormrage", "d0/d25/a22768.html#a87e74bda2af623ba5c70911a033c6d6f", null ],
-    [ "CanAIAttack", "d0/d25/a22768.html#a9607a9a09df9d07ebae0513458435b4d", null ],
-    [ "CycleBeamPos", "d0/d25/a22768.html#a2044514c049262328022ac22a651fb92", null ],
-    [ "DamageTaken", "d0/d25/a22768.html#ad568e3993f74ad0dd0b2f4e630fcb7f1", null ],
-    [ "DoAction", "d0/d25/a22768.html#aad32a8fab5f1ca21824790d2da4d086b", null ],
-    [ "EnterEvadeMode", "d0/d25/a22768.html#ab07e90f48ee9e84298b24b8e7cdb192f", null ],
-    [ "JustDied", "d0/d25/a22768.html#a4d38abd8885862e31a88da4de754e35d", null ],
-    [ "JustEngagedWith", "d0/d25/a22768.html#aa2d516aea252d55307c9f98212e7ee5e", null ],
-    [ "JustSummoned", "d0/d25/a22768.html#a2c642790b16d864ae100b5e8f30e4e61", null ],
-    [ "KilledUnit", "d0/d25/a22768.html#abf29f9607351d35953d8d0e97779c3f9", null ],
-    [ "MovementInform", "d0/d25/a22768.html#acdd75f289288b3e6de4136267d490519", null ],
-    [ "Reset", "d0/d25/a22768.html#aa5eb94712f886e821630535cb2970dfe", null ],
-    [ "ScheduleAbilities", "d0/d25/a22768.html#af230387ddbd1b270e1be69133f4bae38", null ],
-    [ "_canTalk", "d0/d25/a22768.html#abaf0cca3f159aae572203254c41444a3", null ],
-    [ "_dying", "d0/d25/a22768.html#af312452020938736624496d9f6a76d28", null ],
-    [ "_inCutscene", "d0/d25/a22768.html#a715525706b44dbc53847e639f3b15d3a", null ],
-    [ "beamPosId", "d0/d25/a22768.html#a6168b84bfb49781736fa2accf5225808", null ]
+    [ "OPvPCapturePointTF", "d0/d25/a22768.html#af71fd9e2b7cdfa8c4a352bb5f4ce3d33", null ],
+    [ "ChangeState", "d0/d25/a22768.html#aa1e2611ef1b260ab363fd2645de142b0", null ],
+    [ "FillInitialWorldStates", "d0/d25/a22768.html#a8f8588000b515e0c33449f9d7c1357a3", null ],
+    [ "HandlePlayerEnter", "d0/d25/a22768.html#ae73763b63f5c1522c9b9c5950a6e5dfe", null ],
+    [ "HandlePlayerLeave", "d0/d25/a22768.html#ace20d19311478a136ae0b75016c36ea8", null ],
+    [ "ResetToTeamControlled", "d0/d25/a22768.html#a7ad637f6a4005da3166601dafda52d1b", null ],
+    [ "SendChangePhase", "d0/d25/a22768.html#a16efee78249e510e211b18694ea868f2", null ],
+    [ "Update", "d0/d25/a22768.html#a15b0758d901bf98f65fa2ee87bb4b401", null ],
+    [ "UpdateTowerState", "d0/d25/a22768.html#a3f6cbfddd3322e3d948a1330cfa0e4d8", null ],
+    [ "m_TowerState", "d0/d25/a22768.html#a74e1c07d3186fb6ba54b65efa9700989", null ],
+    [ "m_TowerType", "d0/d25/a22768.html#ace7e183b6dd438b9649e9ee60c6d00e2", null ]
 ];

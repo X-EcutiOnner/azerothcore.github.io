@@ -1,6 +1,7 @@
 var a27064 =
 [
-    [ "achievement_arena_by_type", "d1/d4f/a27064.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "d1/d4f/a27064.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "d1/d4f/a27064.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "HandleDummy", "d1/d4f/a27064.html#ab8916b5c232d7b55f4a6bb3e9f9ab122", null ],
+    [ "PrepareSpellScript", "d1/d4f/a27064.html#ac8cfa0b54c585f12682602a678d7bf2d", null ],
+    [ "Register", "d1/d4f/a27064.html#aee02661fa8845afd666ca27163b4a761", null ],
+    [ "Validate", "d1/d4f/a27064.html#aba9079e2418281315029c839b22df1c5", null ]
 ];

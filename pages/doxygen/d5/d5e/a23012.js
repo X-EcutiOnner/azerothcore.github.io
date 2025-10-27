@@ -1,6 +1,7 @@
 var a23012 =
 [
-    [ "PrepareSpellScript", "d5/d5e/a23012.html#ad786920d6180b8e2829f3a56ec50c488", null ],
-    [ "Register", "d5/d5e/a23012.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
-    [ "SetDest", "d5/d5e/a23012.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
+    [ "VerasEnvenom", "d5/d5e/a23012.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "d5/d5e/a23012.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "d5/d5e/a23012.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "d5/d5e/a23012.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

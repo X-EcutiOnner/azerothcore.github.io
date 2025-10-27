@@ -1,8 +1,9 @@
 var a26692 =
 [
-    [ "FilterTargets", "d1/d64/a26692.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
-    [ "HandleDummy", "d1/d64/a26692.html#a2214b10da042a3af2fd3311872cc5286", null ],
-    [ "PrepareSpellScript", "d1/d64/a26692.html#a9959966856601f79a83931a7a7ecff91", null ],
-    [ "Register", "d1/d64/a26692.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
-    [ "Validate", "d1/d64/a26692.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
+    [ "CheckCast", "d1/d64/a26692.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
+    [ "HandleActiveObject", "d1/d64/a26692.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
+    [ "HandleDummy", "d1/d64/a26692.html#a39dd06ae92d04060ee41897318a701fd", null ],
+    [ "Load", "d1/d64/a26692.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
+    [ "PrepareSpellScript", "d1/d64/a26692.html#a016e480d7b2267c9bf824c9cb029f134", null ],
+    [ "Register", "d1/d64/a26692.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
 ];

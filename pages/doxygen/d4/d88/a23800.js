@@ -1,7 +1,8 @@
 var a23800 =
 [
-    [ "boss_warp_splinter", "d4/d88/a23800.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
-    [ "JustDied", "d4/d88/a23800.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
-    [ "JustEngagedWith", "d4/d88/a23800.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
-    [ "KilledUnit", "d4/d88/a23800.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
+    [ "HandleDummyApply", "d4/d88/a23800.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
+    [ "HandleDummyRemove", "d4/d88/a23800.html#a368376fe4262815b9b9a9811178cec6d", null ],
+    [ "HandlePeriodicRemove", "d4/d88/a23800.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
+    [ "PrepareAuraScript", "d4/d88/a23800.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
+    [ "Register", "d4/d88/a23800.html#afeb47a40cfea3d958fee7a410e83857f", null ]
 ];

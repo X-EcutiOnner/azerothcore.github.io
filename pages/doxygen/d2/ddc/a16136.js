@@ -1,6 +1,6 @@
 var a16136 =
 [
-    [ "npc_halion_controllerAI", "d3/d8c/a16140.html", "d3/d8c/a16140" ],
-    [ "npc_halion_controller", "d2/ddc/a16136.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
-    [ "GetAI", "d2/ddc/a16136.html#a3c5ea3f0597c070005744ea788a05383", null ]
+    [ "boss_krik_thirAI", "d3/d8c/a16140.html", "d3/d8c/a16140" ],
+    [ "boss_krik_thir", "d2/ddc/a16136.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
+    [ "GetAI", "d2/ddc/a16136.html#a10e582440092d5c6558c2a11d60907aa", null ]
 ];

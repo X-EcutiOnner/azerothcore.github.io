@@ -1,5 +1,6 @@
 var a24964 =
 [
-    [ "PrepareSpellScript", "df/dff/a24964.html#a054677572d74a740f1c14715608f7b1b", null ],
-    [ "Register", "df/dff/a24964.html#ae6556b58f0a4e6d3762bc3dc4c1643b3", null ]
+    [ "CheckCast", "df/dff/a24964.html#aefa91f15300520de7cffad4f4ca82ccf", null ],
+    [ "PrepareSpellScript", "df/dff/a24964.html#a605e7b8849186c3c2df731cac743a208", null ],
+    [ "Register", "df/dff/a24964.html#a62533bff915db8323b53352f17c4825f", null ]
 ];

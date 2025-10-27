@@ -1,6 +1,7 @@
 var a24792 =
 [
-    [ "FilterTargets", "df/de2/a24792.html#ac01bb4bac4f041318937cfc09ed603cd", null ],
-    [ "PrepareSpellScript", "df/de2/a24792.html#a3eb1d8c26653477bed5b7ae0c69b34e9", null ],
-    [ "Register", "df/de2/a24792.html#a658a476f5c2229715a8949aa6ba4f99c", null ]
+    [ "CalcDamage", "df/de2/a24792.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
+    [ "PrepareSpellScript", "df/de2/a24792.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
+    [ "Register", "df/de2/a24792.html#a857a010e6426e931ca872f66803b99b9", null ],
+    [ "Validate", "df/de2/a24792.html#ab64625ce305efb9dc92780c945b4fd62", null ]
 ];

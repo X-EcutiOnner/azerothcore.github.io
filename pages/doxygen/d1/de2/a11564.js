@@ -1,6 +1,10 @@
 var a11564 =
 [
-    [ "rainChance", "d0/d9d/a04783.html#ga8c3d9f1d251a9b167c9adc99101e5612", null ],
-    [ "snowChance", "d0/d9d/a04783.html#ga474650c5237c4a7428e858775fea7b86", null ],
-    [ "stormChance", "d0/d9d/a04783.html#gaa50e5243877e8283f30ee9376b2d519e", null ]
+    [ "CustomChatTextBuilder", "d1/de2/a11564.html#a47b3e24f7100d13180ad1946647999ae", null ],
+    [ "operator()", "d1/de2/a11564.html#ad80555f063e7de15df3c434bc90d2ca9", null ],
+    [ "_language", "d1/de2/a11564.html#a92d1c58d76d5d450892338d0e1856dc0", null ],
+    [ "_msgType", "d1/de2/a11564.html#a0db1501da33fde77ab3c50943666b1fd", null ],
+    [ "_source", "d1/de2/a11564.html#ad75f22d7eb6a62d59730918f4336768c", null ],
+    [ "_target", "d1/de2/a11564.html#aa45be322836be588d8df2b253a22ee5c", null ],
+    [ "_text", "d1/de2/a11564.html#ab59c9b938b564329483e38466169a92c", null ]
 ];

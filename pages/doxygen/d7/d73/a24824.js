@@ -1,9 +1,16 @@
 var a24824 =
 [
-    [ "FilterTargets", "d7/d73/a24824.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
-    [ "PrepareSpellScript", "d7/d73/a24824.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
-    [ "Register", "d7/d73/a24824.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
-    [ "SetTargets", "d7/d73/a24824.html#ac77e95af9b08118e87e3329eab5515ea", null ],
-    [ "Validate", "d7/d73/a24824.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
-    [ "_targets", "d7/d73/a24824.html#acc66768f54c514552f0ab01274c24f17", null ]
+    [ "CheckCast", "d7/d73/a24824.html#a28e769267a83e4c499dca83a3f5708eb", null ],
+    [ "CheckReagents", "d7/d73/a24824.html#aa8a2efb4807c29aeb5bf786e05113b61", null ],
+    [ "CheckTarget", "d7/d73/a24824.html#ae339cf884f1d2f877e988ef6f6b555bf", null ],
+    [ "CheckTargets", "d7/d73/a24824.html#af1013668080685cd86ae6abb52258fb1", null ],
+    [ "ConsumeReagents", "d7/d73/a24824.html#aa5df00ed970db696b92b51566e098f3f", null ],
+    [ "GetGhoulSpellId", "d7/d73/a24824.html#a9f94b3d279c036fb4b1c5b69934e63f2", null ],
+    [ "HandleRaiseDead", "d7/d73/a24824.html#a3d1e0191d99e970f42d825632fe0f7e2", null ],
+    [ "Load", "d7/d73/a24824.html#a05ea44a20f08f9010faca13a0f4d0f39", null ],
+    [ "PrepareSpellScript", "d7/d73/a24824.html#a9565c8459a6d8cfed85c9120aca9715f", null ],
+    [ "Register", "d7/d73/a24824.html#a0ebef363de4a802b242c806517ad0fb5", null ],
+    [ "Validate", "d7/d73/a24824.html#a0ab8ee639fa83e954e964994c75451c8", null ],
+    [ "_corpse", "d7/d73/a24824.html#adbc699b3bfd33f595ea287ca833ea2d4", null ],
+    [ "_result", "d7/d73/a24824.html#aefebf79fa61b9f4d12929d54bd48389f", null ]
 ];

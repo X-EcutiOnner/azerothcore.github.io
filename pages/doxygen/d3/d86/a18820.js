@@ -1,9 +1,7 @@
 var a18820 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "d3/d86/a18820.html#a18330d49e510f83af7ee0120df14e633", null ],
-    [ "AttackStart", "d3/d86/a18820.html#a9838b3edb758f6f8d0bcbb242862d5da", null ],
-    [ "JustEngagedWith", "d3/d86/a18820.html#adddd56260b41738d69fcdfe31b677c51", null ],
-    [ "Reset", "d3/d86/a18820.html#a2291e4a6bbf917a810b31776dee9dd24", null ],
-    [ "UpdateAI", "d3/d86/a18820.html#a971fa0e468d9d58ffdda7c7b8aa53485", null ],
-    [ "events", "d3/d86/a18820.html#a1c8a527d217f9b810f87da0fc020528a", null ]
+    [ "npc_frost_freeze_trapAI", "d3/d86/a18820.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
+    [ "DoAction", "d3/d86/a18820.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
+    [ "UpdateAI", "d3/d86/a18820.html#ae8efccb090f38968f3c0ca51f022013b", null ],
+    [ "_events", "d3/d86/a18820.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
 ];

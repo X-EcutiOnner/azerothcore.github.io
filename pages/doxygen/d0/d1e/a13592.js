@@ -1,12 +1,11 @@
 var a13592 =
 [
-    [ "npc_cameron", "d0/d1e/a13592.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
-    [ "MoveTheChildren", "d0/d1e/a13592.html#a85ae436f19f69ffb853330f01ee152a0", null ],
-    [ "PathEndReached", "d0/d1e/a13592.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
-    [ "sOnGameEvent", "d0/d1e/a13592.html#ab22841871cfcdc926b28296a5b4e440c", null ],
-    [ "SoundPicker", "d0/d1e/a13592.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
-    [ "UpdateAI", "d0/d1e/a13592.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
-    [ "_childrenGUIDs", "d0/d1e/a13592.html#ad260466902e8fb1a2e02998cc4549695", null ],
-    [ "_events", "d0/d1e/a13592.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
-    [ "_started", "d0/d1e/a13592.html#a985d0590eedde340a3923e299d4dffd8", null ]
+    [ "npc_kalecgos_kj", "d0/d1e/a13592.html#aae30bdf82ff333ef02a1981717c54ea4", null ],
+    [ "DoAction", "d0/d1e/a13592.html#a6b2743b9b6bfb4d687e54412fe66c17f", null ],
+    [ "JustSummoned", "d0/d1e/a13592.html#acf92559a2b06b8c9cce5c4887dd1316b", null ],
+    [ "Reset", "d0/d1e/a13592.html#ab3cd4229999bddc16fe8152acb187111", null ],
+    [ "UpdateAI", "d0/d1e/a13592.html#a8a029eb2cf7fd96ed324d93f4d66a30d", null ],
+    [ "events", "d0/d1e/a13592.html#ab5cc58e293e20172558e15fa28670633", null ],
+    [ "instance", "d0/d1e/a13592.html#a5a6f22c34578ccb7a5c1696d8ed342d6", null ],
+    [ "summons", "d0/d1e/a13592.html#a57af12b97c6e250a50283b224bc5cb6f", null ]
 ];

@@ -1,6 +1,6 @@
 var a19512 =
 [
-    [ "HandlePeriodic", "d4/d2d/a19512.html#a08717e9e8e974fcd7051c45fd1d26893", null ],
-    [ "PrepareAuraScript", "d4/d2d/a19512.html#abf7b2d81ee81ff27388678e9a5433eac", null ],
-    [ "Register", "d4/d2d/a19512.html#ac98109fe8d9192ae97e4aa5dc10463cf", null ]
+    [ "instance_eye_of_eternity_InstanceMapScript", "df/d94/a19516.html", "df/d94/a19516" ],
+    [ "instance_eye_of_eternity", "d4/d2d/a19512.html#afcab4ba969d0423871a4e398627a323d", null ],
+    [ "GetInstanceScript", "d4/d2d/a19512.html#af51319609d355fe87a77a87eb697f434", null ]
 ];

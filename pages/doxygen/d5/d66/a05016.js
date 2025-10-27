@@ -1,8 +1,9 @@
 var a05016 =
 [
-    [ "LocationInfoCallback", "d5/d66/a05016.html#a81b8c00fcc0a1780445ffbdf85decfdf", null ],
-    [ "operator()", "d5/d66/a05016.html#ac2ccfe87fa33cae7d2513c24ba8bfbeb", null ],
-    [ "locInfo", "d5/d66/a05016.html#a9a8b8529a571b3652cd898b2888d8027", null ],
-    [ "prims", "d5/d66/a05016.html#a19c87ad1c9665c3ddfbfa89ccdee5c10", null ],
-    [ "result", "d5/d66/a05016.html#a1ada8b8a1742f02b2d1f28ee82903246", null ]
+    [ "ManagedModel", "d5/d66/a05016.html#ab641724be7e7791c2c95982acc13f3b0", null ],
+    [ "decRefCount", "d5/d66/a05016.html#a5a104acbc0661b19ba2a662dc669b73d", null ],
+    [ "getModel", "d5/d66/a05016.html#a053fc6647a16746fba19a0795610fea2", null ],
+    [ "setModel", "d5/d66/a05016.html#aa450ae6be22d507c36a746850629831d", null ],
+    [ "iModel", "d5/d66/a05016.html#a5e20d0157691bd6036247a83eea8d19b", null ],
+    [ "iRefCount", "d5/d66/a05016.html#afb30ad900a5979f98276324a1ab1c328", null ]
 ];

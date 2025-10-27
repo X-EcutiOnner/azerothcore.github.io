@@ -1,7 +1,7 @@
 var a21132 =
 [
-    [ "HandleEffectPeriodic", "d7/dd9/a21132.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
-    [ "PrepareAuraScript", "d7/dd9/a21132.html#a748cd347867557b5048d9ba0c112cd80", null ],
-    [ "Register", "d7/dd9/a21132.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
-    [ "Validate", "d7/dd9/a21132.html#afa86789ef14b1d06094705ba6cfb9205", null ]
+    [ "FilterTargets", "d7/dd9/a21132.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
+    [ "HandleDummyEffect", "d7/dd9/a21132.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
+    [ "PrepareSpellScript", "d7/dd9/a21132.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
+    [ "Register", "d7/dd9/a21132.html#a337cdb940a2001ac370768b02126d3c0", null ]
 ];

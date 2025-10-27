@@ -1,7 +1,12 @@
 var a12272 =
 [
-    [ "HandleScript", "d1/da9/a12272.html#a0d244cc1785b136bae0960d697dc761d", null ],
-    [ "PrepareSpellScript", "d1/da9/a12272.html#a13f3ebef30c315c02090ee3a19a156e4", null ],
-    [ "Register", "d1/da9/a12272.html#a3871fb036ec6e0ea006f869c21e88c8f", null ],
-    [ "Validate", "d1/da9/a12272.html#a1413754f3a79caf8ec57d394c68f3499", null ]
+    [ "boss_pyroguard_emberseerAI", "d1/da9/a12272.html#ac08deea0d151d109f36bb3cf66a34f29", null ],
+    [ "JustDied", "d1/da9/a12272.html#aa35fc50d327c0bf7506bfd166d098522", null ],
+    [ "JustEngagedWith", "d1/da9/a12272.html#a9eff335ff04e3da1e4488e00b55ecbaa", null ],
+    [ "OpenDoors", "d1/da9/a12272.html#a8002f8d7b6b06b970d38d9824d57d737", null ],
+    [ "Reset", "d1/da9/a12272.html#ab82a2bc6e9596d14dd2fd65b859af74d", null ],
+    [ "SetData", "d1/da9/a12272.html#a5892ccaf9107e2da47c22c21bf5b2ed9", null ],
+    [ "SpellHit", "d1/da9/a12272.html#a236f20c40eb1c37a25b04b5cf83e2488", null ],
+    [ "UpdateAI", "d1/da9/a12272.html#a075147c4409174652e732293426b732d", null ],
+    [ "UpdateRunes", "d1/da9/a12272.html#a87d7d63893a9feb6bb6c44adf1c637eb", null ]
 ];

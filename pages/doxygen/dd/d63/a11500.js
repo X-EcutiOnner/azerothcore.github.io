@@ -1,9 +1,6 @@
 var a11500 =
 [
-    [ "bytes", "dd/d63/a11500.html#a3a2997d203c186bc3cd54a9ba4235319", null ],
-    [ "bytes", "dd/d63/a11500.html#a8484412ccb13cf396a4dc28b86f65b4e", null ],
-    [ "bytes", "dd/d63/a11500.html#ad0213e5de805b0decb4730efa2d412e0", null ],
-    [ "ints", "dd/d63/a11500.html#a0518eb4b0a91697500a5a370068425a8", null ],
-    [ "ints", "dd/d63/a11500.html#a08efba5e78b64fef020453f689bcc5f0", null ],
-    [ "ints", "dd/d63/a11500.html#a36edc530bfb803c2f122e6758d20193a", null ]
+    [ "EffectBase", "dd/d63/a11500.html#ab02f9f344e2f32ad59b35993d5c8f819", null ],
+    [ "CheckEffect", "dd/d63/a11500.html#a8c300ca68c3ff6f74b230835c566fd60", null ],
+    [ "ToString", "dd/d63/a11500.html#ab6f5b2a7ec1183206110eac9a21a7de5", null ]
 ];

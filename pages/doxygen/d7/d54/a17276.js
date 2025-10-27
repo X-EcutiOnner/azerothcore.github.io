@@ -1,6 +1,9 @@
 var a17276 =
 [
-    [ "boss_slad_ranAI", "d7/dcd/a17280.html", "d7/dcd/a17280" ],
-    [ "boss_slad_ran", "d7/d54/a17276.html#a9b960242e2f186d334d7ce04b999e274", null ],
-    [ "GetAI", "d7/d54/a17276.html#a26651b7ca111bd64549283c37e34db11", null ]
+    [ "npc_pos_after_first_bossAI", "d7/d54/a17276.html#a622df71849da1e10e2b73068f0adea98", null ],
+    [ "MovementInform", "d7/d54/a17276.html#a1751506f27d4b2fc9ddb2f8a6a82dc9e", null ],
+    [ "Reset", "d7/d54/a17276.html#ad248aa4cbfbd24e4fe47b99b38c4dd8c", null ],
+    [ "UpdateAI", "d7/d54/a17276.html#ac45111887fd7833a041355658dd26158", null ],
+    [ "events", "d7/d54/a17276.html#a3aaf303ee389a10edc4feeec7c38a2a6", null ],
+    [ "pInstance", "d7/d54/a17276.html#a17a0e1e7a35f608a9ec86ce4e959b52e", null ]
 ];

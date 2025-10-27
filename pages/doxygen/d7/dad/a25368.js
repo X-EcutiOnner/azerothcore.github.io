@@ -1,8 +1,7 @@
 var a25368 =
 [
-    [ "OnApply", "d7/dad/a25368.html#acf25199409ab6f991db15a784749aaf1", null ],
-    [ "OnRemove", "d7/dad/a25368.html#a700513c27a2ae22581bbc61c8c4b523a", null ],
-    [ "PrepareAuraScript", "d7/dad/a25368.html#ae6f93ab542d8f05a95745d7b10d1856a", null ],
-    [ "Register", "d7/dad/a25368.html#a9332cb72f66e83f648b4ed02c8c074eb", null ],
-    [ "Validate", "d7/dad/a25368.html#a09017d12ecf0ae0c3091cea17640782c", null ]
+    [ "PrepareSpellScript", "d7/dad/a25368.html#aad8061898087fbf5eb6527cbaa70927d", null ],
+    [ "RecalculateDamage", "d7/dad/a25368.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
+    [ "Register", "d7/dad/a25368.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
+    [ "_damagePct", "d7/dad/a25368.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
 ];

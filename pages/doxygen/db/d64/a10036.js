@@ -1,25 +1,10 @@
 var a10036 =
 [
-    [ "TaxiNodeChangeInfo", "d6/dca/a10040.html", "d6/dca/a10040" ],
-    [ "FlightPathMovementGenerator", "db/d64/a10036.html#a2f30b03536f0f88a4b9b541f08019af0", null ],
-    [ "DoEventIfAny", "db/d64/a10036.html#af7f2a72e9cf20bf105204b8de08400de", null ],
-    [ "DoFinalize", "db/d64/a10036.html#af4017ff6e47601f667587fb7dd6a721c", null ],
-    [ "DoInitialize", "db/d64/a10036.html#a4b0ab8a2be27b3640ff2155d734b467c", null ],
-    [ "DoReset", "db/d64/a10036.html#abd78eb2841908da8c3c18936d80f18e9", null ],
-    [ "DoUpdate", "db/d64/a10036.html#a1e4b3d248c0021a3e2a1c1446f6b7073", null ],
-    [ "GetMovementGeneratorType", "db/d64/a10036.html#a8ef0966524b238a617487bde185de6f7", null ],
-    [ "GetPath", "db/d64/a10036.html#a931a91b2e689d58098898f7b9533d632", null ],
-    [ "GetPathAtMapEnd", "db/d64/a10036.html#a0493824ba23608abcf98a156cf89bb5a", null ],
-    [ "GetResetPos", "db/d64/a10036.html#ae2cc924b7dd5252c1cb8fcf8679b7786", null ],
-    [ "HasArrived", "db/d64/a10036.html#ad4a14cf3b7497cf30e6305d52d94ecdb", null ],
-    [ "InitEndGridInfo", "db/d64/a10036.html#a6cf74faed9b8609fa74932148b6b4948", null ],
-    [ "LoadPath", "db/d64/a10036.html#ae21613bcea0003b186b08761aaf525aa", null ],
-    [ "PreloadEndGrid", "db/d64/a10036.html#ac7bb92b99dc57a2b53b0a55e0a797678", null ],
-    [ "SetCurrentNodeAfterTeleport", "db/d64/a10036.html#a7ed3028aa5d9d71cf0d889d4063fae2a", null ],
-    [ "SkipCurrentNode", "db/d64/a10036.html#a080a68e435698a14288f62ea6576a730", null ],
-    [ "_endGridX", "db/d64/a10036.html#a8dd2719a015fca9fe46c8b3586b0434c", null ],
-    [ "_endGridY", "db/d64/a10036.html#a1b0c069bcbcf3b13691b9ea80ac4c3a6", null ],
-    [ "_endMapId", "db/d64/a10036.html#aa83bc85f1b6cd6d5367d745ae31cc6fc", null ],
-    [ "_pointsForPathSwitch", "db/d64/a10036.html#a975eddf086fbd811fdebae405a62f2ea", null ],
-    [ "_preloadTargetNode", "db/d64/a10036.html#a3192e87bc06fa21ea01f99ba23fe6eb1", null ]
+    [ "DistractMovementGenerator", "db/d64/a10036.html#a55879290b06f4fc86a1da791c07b7afb", null ],
+    [ "Finalize", "db/d64/a10036.html#aa4a2b943ecde8750bd764290d65872df", null ],
+    [ "GetMovementGeneratorType", "db/d64/a10036.html#a0b30745bf1cd7b5a264e970273595592", null ],
+    [ "Initialize", "db/d64/a10036.html#a71410ddbda2be6b34bb2276a83fea5c9", null ],
+    [ "Reset", "db/d64/a10036.html#ad544709b2873b63b28d27ab414c280ba", null ],
+    [ "Update", "db/d64/a10036.html#ad5a15c1507b8ab315b658351077629b3", null ],
+    [ "m_timer", "db/d64/a10036.html#a8b520d8e97704ac39ce28c2256557b42", null ]
 ];

@@ -1,7 +1,6 @@
 var a16464 =
 [
-    [ "npc_toc_shadow_priestAI", "d9/dcf/a16464.html#af13a18be542fb314c19af52f89d216b8", null ],
-    [ "myCanCast", "d9/dcf/a16464.html#a83422ff3e140b57a484d98876a9a8070", null ],
-    [ "UpdateAI", "d9/dcf/a16464.html#afc23ba15d3ee925212e77b5211504c2b", null ],
-    [ "events", "d9/dcf/a16464.html#a31665a22920b416d7423958a3e2928ec", null ]
+    [ "FilterTargets", "d9/dcf/a16464.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
+    [ "PrepareSpellScript", "d9/dcf/a16464.html#a5ede43deece629a38f5482280983b59a", null ],
+    [ "Register", "d9/dcf/a16464.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
 ];

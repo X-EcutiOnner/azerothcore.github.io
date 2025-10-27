@@ -1,9 +1,12 @@
 var a10776 =
 [
-    [ "Weather", "d2/df2/a10776.html#aa404c94fec05b825454a7309827767c6", null ],
-    [ "Weather", "d2/df2/a10776.html#a28f45d81441d2dde6917380978dfb4d0", null ],
-    [ "Write", "d2/df2/a10776.html#a641c7de3e527dcdff07b3f602880b5c8", null ],
-    [ "Abrupt", "d2/df2/a10776.html#a0abe1fcb36d21ac246174cdc98c0e261", null ],
-    [ "Intensity", "d2/df2/a10776.html#ac37cee2364921a50e2b1ec1b19ed69b7", null ],
-    [ "WeatherID", "d2/df2/a10776.html#a32e56458b1e562c124cfc0288a578134", null ]
+    [ "Charges", "d2/df2/a10776.html#ada45d7e00efb3bf27afcf9db1ad4d813", null ],
+    [ "Count", "d2/df2/a10776.html#a6f31a3d750d5c5f1b316f05e7ad9dbe9", null ],
+    [ "EnchantmentID", "d2/df2/a10776.html#a249a204f5d72d42f562c989b1cb92fc9", null ],
+    [ "Flags", "d2/df2/a10776.html#a3ca816132a756d3dc939877c57f6045d", null ],
+    [ "ItemID", "d2/df2/a10776.html#a5dc7e8b40834dba07c63322d80ed73ae", null ],
+    [ "RandomPropertiesID", "d2/df2/a10776.html#ad98a20548478fe99f9d6d345c5a3b732", null ],
+    [ "RandomPropertiesSeed", "d2/df2/a10776.html#ae5d493dd4798e11f02d8f02a57ba4274", null ],
+    [ "Slot", "d2/df2/a10776.html#afcc0a78c2f9a3061830679fece476a64", null ],
+    [ "SocketEnchant", "d2/df2/a10776.html#a55545d4d1b752e4f08bd05350b22892c", null ]
 ];

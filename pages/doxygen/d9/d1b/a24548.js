@@ -1,7 +1,6 @@
 var a24548 =
 [
-    [ "HandleProc", "d9/d1b/a24548.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
-    [ "PrepareAuraScript", "d9/d1b/a24548.html#a2840931b939b95e6a476c07f08ca66b5", null ],
-    [ "Register", "d9/d1b/a24548.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
-    [ "lastChargeUsedTime", "d9/d1b/a24548.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
+    [ "npc_slim", "d9/d1b/a24548.html#aa227fbe22126bed821939873973e6a20", null ],
+    [ "OnGossipHello", "d9/d1b/a24548.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
+    [ "OnGossipSelect", "d9/d1b/a24548.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
 ];

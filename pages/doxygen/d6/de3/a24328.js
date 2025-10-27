@@ -1,6 +1,10 @@
 var a24328 =
 [
-    [ "PrepareSpellScript", "d6/de3/a24328.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
-    [ "Register", "d6/de3/a24328.html#ac57aee08a131bcf7db11bc105f32242c", null ],
-    [ "SetDest", "d6/de3/a24328.html#a26362c4873890bb60c2526bf07058746", null ]
+    [ "npc_maxx_a_million_escortAI", "d6/de3/a24328.html#ab827933527ed7b4a04b162034876ced8", null ],
+    [ "JustDied", "d6/de3/a24328.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
+    [ "Reset", "d6/de3/a24328.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
+    [ "UpdateAI", "d6/de3/a24328.html#a3b022feb2303875d32ad981e84f66854", null ],
+    [ "WaypointReached", "d6/de3/a24328.html#acd6f45abb93f3f043cd85647405a50f6", null ],
+    [ "bTake", "d6/de3/a24328.html#ac697fc6cbc20c7f316845ed26436049b", null ],
+    [ "uiTakeTimer", "d6/de3/a24328.html#a5d4826dcf893f444a42dedba57460110", null ]
 ];

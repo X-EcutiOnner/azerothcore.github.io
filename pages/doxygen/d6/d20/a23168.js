@@ -1,13 +1,7 @@
 var a23168 =
 [
-    [ "boss_fathomguard_caribdis", "d6/d20/a23168.html#a9172b9717e5137ddde7df38bb237478c", null ],
-    [ "EnterEvadeMode", "d6/d20/a23168.html#aa666a491a776b12a042ee140aedc95eb", null ],
-    [ "JustDied", "d6/d20/a23168.html#ab821365b35a48f70a11c6033fe2ca714", null ],
-    [ "JustEngagedWith", "d6/d20/a23168.html#a5503519998f51f475420ada2210f32f0", null ],
-    [ "JustSummoned", "d6/d20/a23168.html#a39ca45ec0de50b7d7a5ec866c4017a8a", null ],
-    [ "Reset", "d6/d20/a23168.html#a0d2a3403d5934e86a897b3417ed2214a", null ],
-    [ "UpdateAI", "d6/d20/a23168.html#af4a544f37d178de21d84f2544f24431e", null ],
-    [ "_instance", "d6/d20/a23168.html#a73f567f2269aeca1435af82e1c6880e9", null ],
-    [ "_scheduler", "d6/d20/a23168.html#a08b01e9735e421d8d5bbc2b552217762", null ],
-    [ "_summons", "d6/d20/a23168.html#ac8b53cb81547a2423a13c997badb77e3", null ]
+    [ "npc_ashtongue_channeler", "d6/d20/a23168.html#af7217d00f87e56e5cdb411fcad161b51", null ],
+    [ "Reset", "d6/d20/a23168.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
+    [ "UpdateAI", "d6/d20/a23168.html#af855dfa521404c4e6127a9bf12a75604", null ],
+    [ "scheduler", "d6/d20/a23168.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
 ];

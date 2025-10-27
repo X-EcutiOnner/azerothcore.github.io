@@ -1,13 +1,7 @@
 var a08876 =
 [
-    [ "WorldObjectWorker", "db/d89/a08876.html#a15dd68579f1a92f015cfac8577db7422", null ],
-    [ "Visit", "db/d89/a08876.html#ae264461e49602fd0b8a17e30ed554c64", null ],
-    [ "Visit", "db/d89/a08876.html#a3021825347d132f1368a77d29a8318df", null ],
-    [ "Visit", "db/d89/a08876.html#a7b7869c7d151e8abc924f517ecfdef82", null ],
-    [ "Visit", "db/d89/a08876.html#a7de6ea339a8113d242dd099ca4d36927", null ],
-    [ "Visit", "db/d89/a08876.html#a29196fa36ce32a0cec68d0d67372a400", null ],
-    [ "Visit", "db/d89/a08876.html#a17097541c49264c15ebfe474f54aeca2", null ],
-    [ "i_do", "db/d89/a08876.html#aa16ce8cce21d4590ef6612e14fb48919", null ],
-    [ "i_mapTypeMask", "db/d89/a08876.html#a6f8e447b9693154f56ce010869acadb9", null ],
-    [ "i_phaseMask", "db/d89/a08876.html#affa6245985c5d271900be12104ab6bb6", null ]
+    [ "EquipementIdPrev", "db/d89/a08876.html#a719c716f8914a200bfde4f5bb3275f26", null ],
+    [ "EquipmentId", "db/d89/a08876.html#af7f6e5bbb8327e5abf4e17a8a164cc4d", null ],
+    [ "ModelId", "db/d89/a08876.html#ade2b2413020be410428b9fee9aa284d6", null ],
+    [ "ModelIdPrev", "db/d89/a08876.html#a9de7aa11788b22692738b72718193057", null ]
 ];

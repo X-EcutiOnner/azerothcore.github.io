@@ -1,6 +1,6 @@
 var a20220 =
 [
-    [ "id", "d8/d56/a20220.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
-    [ "x", "d8/d56/a20220.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
-    [ "y", "d8/d56/a20220.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
+    [ "boss_freyaAI", "d9/d42/a20224.html", "d9/d42/a20224" ],
+    [ "boss_freya", "d8/d56/a20220.html#ae366f60526e7c948dee148cdd12f0752", null ],
+    [ "GetAI", "d8/d56/a20220.html#a6a2f5b402e99208a535fc3f23c2a0eb3", null ]
 ];

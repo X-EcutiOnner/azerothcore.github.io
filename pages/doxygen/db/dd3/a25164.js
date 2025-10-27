@@ -1,7 +1,8 @@
 var a25164 =
 [
-    [ "HandleScript", "db/dd3/a25164.html#a8b20e2ffed94ec9438dc9b756ba76693", null ],
-    [ "PrepareSpellScript", "db/dd3/a25164.html#a9e29ea947d5415471d991a4e1cd699ac", null ],
-    [ "Register", "db/dd3/a25164.html#aa4bc27415893009581b317637599a85a", null ],
-    [ "Validate", "db/dd3/a25164.html#a77ed10819633ae2bc381023da0feb31b", null ]
+    [ "HandleEffectCalcPeriodic", "db/dd3/a25164.html#a78c46695cab8da2280686ea49d88f036", null ],
+    [ "HandleEffectPeriodic", "db/dd3/a25164.html#a65b8a9dcd836cb538d5d2bec3d03d4a2", null ],
+    [ "HandleOnEffectRemove", "db/dd3/a25164.html#af722cf30e478802784178a9346bd1bdd", null ],
+    [ "PrepareAuraScript", "db/dd3/a25164.html#a6352d1ab3dd67efd9be171f7db20a62d", null ],
+    [ "Register", "db/dd3/a25164.html#ae6c2b365463345c71ed1a4acdee04a15", null ]
 ];

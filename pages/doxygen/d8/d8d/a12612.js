@@ -1,6 +1,6 @@
 var a12612 =
 [
-    [ "HandleTriggerSpell", "d8/d8d/a12612.html#a5f30f2af73eae022b9596939b2f88c0b", null ],
-    [ "PrepareSpellScript", "d8/d8d/a12612.html#a4fa2709a456e9e75f5c11b7f2e04912b", null ],
-    [ "Register", "d8/d8d/a12612.html#a7e9c140aecea892ee6971bc97d385640", null ]
+    [ "npc_core_ragerAI", "d4/dcd/a12616.html", "d4/dcd/a12616" ],
+    [ "npc_core_rager", "d8/d8d/a12612.html#ada4acfa2a1934d1609a8f9c78da6377d", null ],
+    [ "GetAI", "d8/d8d/a12612.html#a0ace94ecc1ebfb0e880c50d9b68087db", null ]
 ];

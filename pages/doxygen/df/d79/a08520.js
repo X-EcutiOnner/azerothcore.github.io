@@ -1,12 +1,13 @@
 var a08520 =
 [
-    [ "SpellModifier", "df/d79/a08520.html#adba5fad6b904d09a43be7302e7eb62bd", null ],
-    [ "charges", "df/d79/a08520.html#a1aaf71299c2dd27b58a049d252efdee8", null ],
-    [ "mask", "df/d79/a08520.html#aba1b01bf3486d61cc1876b03078a35ee", null ],
-    [ "op", "df/d79/a08520.html#a21d017f0c8d3108a0eb5f48798103356", null ],
-    [ "ownerAura", "df/d79/a08520.html#a5e180553fb4739eb7f947da70fbe7ef8", null ],
-    [ "priority", "df/d79/a08520.html#a163a81b49cfdeb73236ee930d6f24673", null ],
-    [ "spellId", "df/d79/a08520.html#a465803efab27b2ba0a49c6571b65b908", null ],
-    [ "type", "df/d79/a08520.html#a22f64b9c021f5a87f30f01ef117ebb0b", null ],
-    [ "value", "df/d79/a08520.html#a31742662ba8112c9e9b972897a928e57", null ]
+    [ "UpdateData", "df/d79/a08520.html#a7164bb9338d6362f427d75025c9026b6", null ],
+    [ "AddOutOfRangeGUID", "df/d79/a08520.html#a4c68f187e2f6e65da3bdb6a443ebcacf", null ],
+    [ "AddUpdateBlock", "df/d79/a08520.html#a620f0036078833a3b5ce1245274595f8", null ],
+    [ "AddUpdateBlock", "df/d79/a08520.html#af770dbf9bc4e4da1b97aba73b152b23b", null ],
+    [ "BuildPacket", "df/d79/a08520.html#a3bea592b01b6c9e41b863c26fd602d45", null ],
+    [ "Clear", "df/d79/a08520.html#adc0750db190d94fed3bfef72da75066c", null ],
+    [ "HasData", "df/d79/a08520.html#a067577372028ad59aea7942f0cd4a5c2", null ],
+    [ "m_blockCount", "df/d79/a08520.html#a791f9606867a40d018f67600e338a08e", null ],
+    [ "m_data", "df/d79/a08520.html#ac21a3bda51f8d1d2b71be6d00d760e38", null ],
+    [ "m_outOfRangeGUIDs", "df/d79/a08520.html#a60f7b1745f84b24b25c94625145dd5a2", null ]
 ];

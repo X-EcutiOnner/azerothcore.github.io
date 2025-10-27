@@ -1,6 +1,7 @@
 var a20656 =
 [
-    [ "boss_thorim_sifAI", "df/df3/a20660.html", "df/df3/a20660" ],
-    [ "boss_thorim_sif", "dd/da2/a20656.html#a71ef8a92f648cbea6553ed1cc657f13d", null ],
-    [ "GetAI", "dd/da2/a20656.html#ae4eadf2bf83c41a8f05b853267b5fcf9", null ]
+    [ "HandleEffectPeriodic", "dd/da2/a20656.html#a0fc0cf6cd635249a10aefd284d9ae789", null ],
+    [ "PrepareAuraScript", "dd/da2/a20656.html#af432e810a46e35f95bb0b3b2eaada132", null ],
+    [ "Register", "dd/da2/a20656.html#a41c3846c03ce1e37fc6858a676f61c48", null ],
+    [ "Validate", "dd/da2/a20656.html#ac8e9521a6b8ab9a4642361085dbe517d", null ]
 ];

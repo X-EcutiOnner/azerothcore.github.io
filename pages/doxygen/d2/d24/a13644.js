@@ -1,6 +1,9 @@
 var a13644 =
 [
-    [ "OnEffect", "d2/d24/a13644.html#a41903586310ec274dd10537ccb8655f3", null ],
-    [ "PrepareSpellScript", "d2/d24/a13644.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
-    [ "Register", "d2/d24/a13644.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
+    [ "boss_entropius", "d2/d24/a13644.html#a458deaa80c9694cd2608150bc5519c76", null ],
+    [ "EnterEvadeMode", "d2/d24/a13644.html#a01889b192525af082471d092bff28c88", null ],
+    [ "JustDied", "d2/d24/a13644.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
+    [ "JustEngagedWith", "d2/d24/a13644.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
+    [ "Reset", "d2/d24/a13644.html#ad9da990a540703d38cb45dd2da72c179", null ],
+    [ "UpdateAI", "d2/d24/a13644.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
 ];

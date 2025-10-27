@@ -1,7 +1,7 @@
 var a13612 =
 [
-    [ "npc_ranger_lilatha", "d8/d49/a13612.html#abd13a89b41a289edefb9bc21588f8d29", null ],
-    [ "Reset", "d8/d49/a13612.html#a3e804e483b51961193ee1079caba40be", null ],
-    [ "sQuestAccept", "d8/d49/a13612.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
-    [ "WaypointReached", "d8/d49/a13612.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
+    [ "HandleRemove", "d8/d49/a13612.html#a4484cf33e423f23cad9559a6a16ed9b4", null ],
+    [ "PrepareAuraScript", "d8/d49/a13612.html#a6fa407996b59d98d0eeef877ee89784d", null ],
+    [ "Register", "d8/d49/a13612.html#a7dc81b47954ee8c10b99f389740de0be", null ],
+    [ "Validate", "d8/d49/a13612.html#afd94a159c0f429f2a63ffbd0a38d32e3", null ]
 ];

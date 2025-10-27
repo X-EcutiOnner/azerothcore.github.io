@@ -1,10 +1,13 @@
 var a19176 =
 [
-    [ "boss_patchwerkAI", "de/d5a/a19176.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
-    [ "JustDied", "de/d5a/a19176.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
-    [ "JustEngagedWith", "de/d5a/a19176.html#a1317cb819d6247f62e0c6c725157db30", null ],
-    [ "KilledUnit", "de/d5a/a19176.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
-    [ "Reset", "de/d5a/a19176.html#a1d03058bf53e670f4fe9384e9f047891", null ],
-    [ "UpdateAI", "de/d5a/a19176.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
-    [ "events", "de/d5a/a19176.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
+    [ "boss_anubrekhanAI", "de/d5a/a19176.html#a6ff658a5aab3b13c4594f5bc44a62818", null ],
+    [ "JustDied", "de/d5a/a19176.html#a8a32a256b39558e802d45ae5f4038b79", null ],
+    [ "JustEngagedWith", "de/d5a/a19176.html#a0cd5bd7a04b52abcc23a2131d5cbfd2e", null ],
+    [ "JustSummoned", "de/d5a/a19176.html#a9fa11bc9192f0b75220383b3ef876219", null ],
+    [ "KilledUnit", "de/d5a/a19176.html#a9070ebcd6ca976fc89af88b3de177bcc", null ],
+    [ "MoveInLineOfSight", "de/d5a/a19176.html#a75dd903dd059a0fe20e291713e880bc3", null ],
+    [ "Reset", "de/d5a/a19176.html#acd6ae267a6848e146128d56196d1af79", null ],
+    [ "SummonCryptGuards", "de/d5a/a19176.html#a1dbf747694350bdc835f19ed0b22741c", null ],
+    [ "SummonedCreatureDies", "de/d5a/a19176.html#a4889de03a80cc4c3bc0fd41042d1d905", null ],
+    [ "sayGreet", "de/d5a/a19176.html#ab2210c62a9a21f426f0ef0b1b1d27162", null ]
 ];

@@ -1,5 +1,7 @@
 var a27388 =
 [
-    [ "go_soulwellAI", "dc/da9/a27388.html#af8c28f9d3ddf5fa3591433268d14fc98", null ],
-    [ "GossipHello", "dc/da9/a27388.html#a3df147478af8930d9b6108a183e9478f", null ]
+    [ "npc_spirit_shadeAI", "dc/da9/a27388.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "dc/da9/a27388.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "dc/da9/a27388.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "dc/da9/a27388.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

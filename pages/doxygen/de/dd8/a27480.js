@@ -1,10 +1,6 @@
 var a27480 =
 [
-    [ "npc_prof_alchemy", "de/dd8/a27480.html#a43ea842214fc507c34586d12df8f7fea", null ],
-    [ "HasAlchemySpell", "de/dd8/a27480.html#ac9df824e0923ca86189a53ae391b43c0", null ],
-    [ "OnGossipHello", "de/dd8/a27480.html#add760c538c7882e1ad8331b8ded74f5c", null ],
-    [ "OnGossipSelect", "de/dd8/a27480.html#a2377df97a293fb3fcbe7f70d4d815b75", null ],
-    [ "SendActionMenu", "de/dd8/a27480.html#a2d4c7337b40be323a384a9e755fc3145", null ],
-    [ "SendConfirmLearn", "de/dd8/a27480.html#a548224b30494636b9ee292a533fc7b39", null ],
-    [ "SendConfirmUnlearn", "de/dd8/a27480.html#ae4c861cf383f39d2e5ceebc9be4b568c", null ]
+    [ "go_heatAI", "de/dd8/a27480.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
+    [ "UpdateAI", "de/dd8/a27480.html#a2332206ee47b2cea9e4707d16ea79325", null ],
+    [ "timer", "de/dd8/a27480.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
 ];

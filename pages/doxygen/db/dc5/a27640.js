@@ -1,7 +1,10 @@
 var a27640 =
 [
-    [ "npc_guardianAI", "db/dc5/a27640.html#acc5d29a79e57fc023369c0dcd4b0d2a3", null ],
-    [ "JustEngagedWith", "db/dc5/a27640.html#a50257f80245bc59437e53083badcb056", null ],
-    [ "Reset", "db/dc5/a27640.html#a217df9bae079f56ffd70d27958fb2756", null ],
-    [ "UpdateAI", "db/dc5/a27640.html#ab42c39f088ef819a5ffb5f9f4ba2c3a3", null ]
+    [ "guard_shattrath_aldorAI", "db/dc5/a27640.html#a88961dfe4100dfe207af693a1eed86ad", null ],
+    [ "Reset", "db/dc5/a27640.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
+    [ "UpdateAI", "db/dc5/a27640.html#ac87ee12d4487971b68c70f06f63eb410", null ],
+    [ "banishTimer", "db/dc5/a27640.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
+    [ "canTeleport", "db/dc5/a27640.html#af4d933b56431d2f2755d87fb05922458", null ],
+    [ "exileTimer", "db/dc5/a27640.html#a8d56205206f3e14184922f96873456ad", null ],
+    [ "playerGUID", "db/dc5/a27640.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
 ];

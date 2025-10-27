@@ -1,9 +1,7 @@
 var a24484 =
 [
-    [ "npc_pet_shaman_earth_elemental", "da/d92/a24484.html#a07f3792cb3b5264d209f1b4726867773", null ],
-    [ "InitializeAI", "da/d92/a24484.html#a8bbca6686ae324a50cd1598125280446", null ],
-    [ "JustEngagedWith", "da/d92/a24484.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
-    [ "UpdateAI", "da/d92/a24484.html#ab28951b483cab31bf5672fc74e7323e1", null ],
-    [ "_events", "da/d92/a24484.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
-    [ "_initAttack", "da/d92/a24484.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
+    [ "npc_kservantAI", "da/d92/a24484.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "da/d92/a24484.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "da/d92/a24484.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "WaypointReached", "da/d92/a24484.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
 ];

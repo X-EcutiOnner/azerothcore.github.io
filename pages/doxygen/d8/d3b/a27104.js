@@ -1,8 +1,8 @@
 var a27104 =
 [
-    [ "CharacterActionIpLogger", "d8/d3b/a27104.html#a39861f7348a79031a8215b435ba81059", null ],
-    [ "CharacterIPLogAction", "d8/d3b/a27104.html#abf461fe7e7d89057aeb122abbd27e30e", null ],
-    [ "OnPlayerCreate", "d8/d3b/a27104.html#a48844efac9d9af9c6415ad49d2473688", null ],
-    [ "OnPlayerLogin", "d8/d3b/a27104.html#a753ed387ea50eaf4c56846eab33cdfc0", null ],
-    [ "OnPlayerLogout", "d8/d3b/a27104.html#a3a4bcaf033e71e2dbeddc2ee6528494e", null ]
+    [ "ApplyEffect", "d8/d3b/a27104.html#a0c303c58064236969e17d1f2df3e0556", null ],
+    [ "PrepareAuraScript", "d8/d3b/a27104.html#a716a483282946f840ac15d73c6e21a94", null ],
+    [ "Register", "d8/d3b/a27104.html#ad72816bc73bdb1cf578f3c4599ec1682", null ],
+    [ "RemoveEffect", "d8/d3b/a27104.html#a571b1b19f4d5b13e54288aa89ab1e9b6", null ],
+    [ "Validate", "d8/d3b/a27104.html#a99eb27ead6f5c8c8f569626600f2daf9", null ]
 ];

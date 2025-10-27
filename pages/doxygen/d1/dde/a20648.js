@@ -1,6 +1,6 @@
 var a20648 =
 [
-    [ "boss_thorimAI", "d9/d02/a20652.html", "d9/d02/a20652" ],
-    [ "boss_thorim", "d1/dde/a20648.html#a23a52a05aea5092cef8fe47be28b4bfb", null ],
-    [ "GetAI", "d1/dde/a20648.html#a70895451317569f50adc11474e653515", null ]
+    [ "npc_ulduar_bot_summon_triggerAI", "d9/d02/a20652.html", "d9/d02/a20652" ],
+    [ "npc_ulduar_bot_summon_trigger", "d1/dde/a20648.html#a7a369b4826c6c2a86704088f5dcf1ce7", null ],
+    [ "GetAI", "d1/dde/a20648.html#a0d7f74fc910c5adcaaa46a9d2ea10ea3", null ]
 ];

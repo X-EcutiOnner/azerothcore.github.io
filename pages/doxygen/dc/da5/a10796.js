@@ -1,7 +1,10 @@
 var a10796 =
 [
-    [ "MinimapPingClient", "dc/da5/a10796.html#a23500c61c0653f39c8c8a96ab34d0bf0", null ],
-    [ "Read", "dc/da5/a10796.html#a7ee57120fc5221ccf1e18d877d5bccff", null ],
-    [ "MapX", "dc/da5/a10796.html#ad4ff3977c260035145d6acd00429d81e", null ],
-    [ "MapY", "dc/da5/a10796.html#abd8640cb98238f339218c3b945885c97", null ]
+    [ "Count", "dc/da5/a10796.html#a97b56650a40ff3d39c6281d43261f06f", null ],
+    [ "EntryType", "dc/da5/a10796.html#a7c4db5da5d5e501172b8581e4e7bb865", null ],
+    [ "ItemID", "dc/da5/a10796.html#a1daad03864355f94d90315fea68892d4", null ],
+    [ "Money", "dc/da5/a10796.html#a856d32f52e85b2b7329f85b8e04ad0ee", null ],
+    [ "OtherTab", "dc/da5/a10796.html#a359c633cc0034dc8ae8b7db69d3dd739", null ],
+    [ "PlayerGUID", "dc/da5/a10796.html#a90e01e455d373204617b2747ca95fe04", null ],
+    [ "TimeOffset", "dc/da5/a10796.html#a11cf13b65aafbd4dc70399362f4f87fe", null ]
 ];

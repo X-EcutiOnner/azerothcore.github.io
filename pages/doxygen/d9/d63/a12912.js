@@ -1,14 +1,9 @@
 var a12912 =
 [
-    [ "npc_death_knight_initiateAI", "d9/d63/a12912.html#aa03a128068072b85bf0926cdececaaf2", null ],
-    [ "DamageTaken", "d9/d63/a12912.html#ac83f7d28886eaf5fb44c3c6ce44a7acd", null ],
-    [ "GetData", "d9/d63/a12912.html#ac3216c0cf7284fd7a8d5ece153467b41", null ],
-    [ "Reset", "d9/d63/a12912.html#ad152856d614c8f4c900f77749ac55dd9", null ],
-    [ "SpellHit", "d9/d63/a12912.html#a308f2f29ec7f9277d102564ff6d39e32", null ],
-    [ "UpdateAI", "d9/d63/a12912.html#a6e67cda0b83578818a5e3b34ed9517cf", null ],
-    [ "_duelGUID", "d9/d63/a12912.html#a32dd4a91841f2e75c8bca109015fc56a", null ],
-    [ "_duelInProgress", "d9/d63/a12912.html#a3fdcf062b22c08b1dd616dad591a1021", null ],
-    [ "events", "d9/d63/a12912.html#aa1c6d513e04253d0b83522c9c1cc2ac8", null ],
-    [ "playerGUIDs", "d9/d63/a12912.html#ac12adec2cb751e2e41008954bbe20248", null ],
-    [ "timer", "d9/d63/a12912.html#ad22e8bc9e0d22a5ba164a60e438d98a7", null ]
+    [ "go_blood_drenched_doorAI", "d9/d63/a12912.html#af431fff2778278cbd3e27b3906201373", null ],
+    [ "GossipHello", "d9/d63/a12912.html#aa3d9c4ee80d6fb42103a3f02abdd8d20", null ],
+    [ "UpdateAI", "d9/d63/a12912.html#a644ac9ce05242714d1b87150852539f3", null ],
+    [ "events", "d9/d63/a12912.html#a2c51ffa6a3992fe55c2e22cb783409c9", null ],
+    [ "mirkblood", "d9/d63/a12912.html#a07e1b098c31efe45e2df4f85f71109e4", null ],
+    [ "opener", "d9/d63/a12912.html#aa70272eb79e875ba7d7767a1bf82afe9", null ]
 ];

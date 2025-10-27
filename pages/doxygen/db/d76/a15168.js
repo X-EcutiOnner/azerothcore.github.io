@@ -1,6 +1,6 @@
 var a15168 =
 [
-    [ "OnPeriodic", "db/d76/a15168.html#a08dce8b98afadc134166a615b4496151", null ],
-    [ "PrepareAuraScript", "db/d76/a15168.html#a9ebb34665b176e4e60f085da65183d8e", null ],
-    [ "Register", "db/d76/a15168.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
+    [ "instance_razorfen_kraul_InstanceMapScript", "db/dbf/a15172.html", "db/dbf/a15172" ],
+    [ "instance_razorfen_kraul", "db/d76/a15168.html#aedd65b901c8131a7ac21e8576734f76f", null ],
+    [ "GetInstanceScript", "db/d76/a15168.html#a78e77010ebb055b9530733ca25533110", null ]
 ];

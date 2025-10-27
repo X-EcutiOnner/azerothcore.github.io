@@ -1,8 +1,7 @@
 var a27504 =
 [
-    [ "npc_artoriusAI", "db/df7/a27508.html", "db/df7/a27508" ],
-    [ "npc_artorius", "da/d8b/a27504.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
-    [ "GetAI", "da/d8b/a27504.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
-    [ "OnGossipHello", "da/d8b/a27504.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
-    [ "OnGossipSelect", "da/d8b/a27504.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
+    [ "go_brewfest_musicAI", "da/d8b/a27504.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
+    [ "UpdateAI", "da/d8b/a27504.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
+    [ "_currentMusicEvent", "da/d8b/a27504.html#ad26a0309bdd4eafce4dfa310db929357", null ],
+    [ "_events", "da/d8b/a27504.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
 ];

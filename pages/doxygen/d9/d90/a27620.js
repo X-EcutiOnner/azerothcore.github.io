@@ -1,6 +1,8 @@
 var a27620 =
 [
-    [ "npc_injured_patientAI", "d4/d99/a27624.html", "d4/d99/a27624" ],
-    [ "npc_injured_patient", "d9/d90/a27620.html#a0b7ef214aa1b20df088dee0976c73783", null ],
-    [ "GetAI", "d9/d90/a27620.html#a0c042bb81e684f903d28d7879af99d4a", null ]
+    [ "go_bellsAI", "d9/d90/a27620.html#a6f22847c66a3b5faded35da799359846", null ],
+    [ "UpdateAI", "d9/d90/a27620.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
+    [ "_events", "d9/d90/a27620.html#a46c66442078cee28a76fc412746ca026", null ],
+    [ "_soundId", "d9/d90/a27620.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
+    [ "once", "d9/d90/a27620.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
 ];

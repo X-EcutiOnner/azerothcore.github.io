@@ -1,7 +1,6 @@
 var a20204 =
 [
-    [ "HandleAfterHit", "db/d20/a20204.html#a75953cbb3a288fd373e602ed07d84441", null ],
-    [ "PrepareSpellScript", "db/d20/a20204.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
-    [ "Register", "db/d20/a20204.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
-    [ "Validate", "db/d20/a20204.html#aea2b951dd2353800958f654df58d8fd8", null ]
+    [ "achievement_flame_leviathan_towers", "db/d20/a20204.html#a491d66bdd373b6044e406126719ef910", null ],
+    [ "OnCheck", "db/d20/a20204.html#ad6e9dee3f05afaca0a355b714bf75ea6", null ],
+    [ "_towerCount", "db/d20/a20204.html#a1099385340b30a1a75655e2e7d2ba3cc", null ]
 ];

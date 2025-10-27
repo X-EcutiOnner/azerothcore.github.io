@@ -1,8 +1,6 @@
 var a18856 =
 [
-    [ "Class", "de/db7/a18856.html#a095390e9023609f5836c4481ed79e1af", null ],
-    [ "cooldown_ms", "de/db7/a18856.html#a6f1fdab250e8557d16066c03a54fb2a4", null ],
-    [ "id", "de/db7/a18856.html#ae9fdf89271339b93f306c4aa0871f844", null ],
-    [ "range", "de/db7/a18856.html#aad126da206abceb6a66dcda1cbd3b28b", null ],
-    [ "targetType", "de/db7/a18856.html#ae5fc8cb423536f631591d3b72bfd06dd", null ]
+    [ "npc_captain_brandonAI", "de/db7/a18856.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "de/db7/a18856.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "de/db7/a18856.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

@@ -1,9 +1,11 @@
 var a21528 =
 [
-    [ "npc_azure_sorcerorAI", "d6/d83/a21528.html#a474a7144908d4820341dc56f77436b90", null ],
-    [ "Reset", "d6/d83/a21528.html#a4c637288f79e1da4bdace6516cd887b1", null ],
-    [ "UpdateAI", "d6/d83/a21528.html#a928d789e2cbd35b228857a23c4204ea1", null ],
-    [ "uiArcaneStreamTimer", "d6/d83/a21528.html#ad238fe8fed4dcefd923d901e4f73ed05", null ],
-    [ "uiArcaneStreamTimerStartingValueHolder", "d6/d83/a21528.html#af044879e8e064e28a491c87d0c6cde74", null ],
-    [ "uiManaDetonationTimer", "d6/d83/a21528.html#a3ebe4eb452296f3c45db5c1b6cdaa243", null ]
+    [ "npc_ichor_globuleAI", "d6/d83/a21528.html#a4d581f89c8385276fd407c000af9e569", null ],
+    [ "AttackStart", "d6/d83/a21528.html#aa4e1fc88a26d6ef41f1ca96c93abbc1a", null ],
+    [ "JustDied", "d6/d83/a21528.html#ad29c7659590933b0749e8e1c2c2e4c46", null ],
+    [ "MoveInLineOfSight", "d6/d83/a21528.html#af8ef8296512d57d934a171f1a5060e73", null ],
+    [ "SpellHit", "d6/d83/a21528.html#a1396538a446545408e3c304f3e56400f", null ],
+    [ "UpdateAI", "d6/d83/a21528.html#a6ff13c853583e5178fb3a690e17303de", null ],
+    [ "pInstance", "d6/d83/a21528.html#a94cbe93a69a28171fc3d91d71b6ec419", null ],
+    [ "uiRangeCheck_Timer", "d6/d83/a21528.html#a99914a55d2dc0b36a623dc7d6248e953", null ]
 ];

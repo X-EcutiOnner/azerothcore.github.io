@@ -1,6 +1,7 @@
 var a19428 =
 [
-    [ "boss_eregosAI", "d2/da2/a19432.html", "d2/da2/a19432" ],
-    [ "boss_eregos", "d2/da8/a19428.html#a105820f29aa1391d77a56e024c4b5637", null ],
-    [ "GetAI", "d2/da8/a19428.html#aee43f0dfee70ab9618c560a27504cb02", null ]
+    [ "npc_naxxramas_trigger", "d2/da8/a19428.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
+    [ "Reset", "d2/da8/a19428.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
+    [ "UpdateAI", "d2/da8/a19428.html#acd051dd7790aa37cd2375479433509cb", null ],
+    [ "_events", "d2/da8/a19428.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
 ];

@@ -1,8 +1,7 @@
 var a18560 =
 [
-    [ "npc_suppresserAI", "d5/d56/a18560.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
-    [ "AttackStart", "d5/d56/a18560.html#ae36105de1df1dd9841332d9a8e7799be", null ],
-    [ "IsSummonedBy", "d5/d56/a18560.html#a35ec340b2d02a14707fc353428b1298d", null ],
-    [ "UpdateAI", "d5/d56/a18560.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
-    [ "_instance", "d5/d56/a18560.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
+    [ "CheckTargetCount", "d5/d56/a18560.html#a44f558248f944464c773105728cffbca", null ],
+    [ "PrepareSpellScript", "d5/d56/a18560.html#a2ae927358c2480aecd18c1f3c2e6c1c7", null ],
+    [ "Register", "d5/d56/a18560.html#aeda833ca8483d337311086b9d0a14081", null ],
+    [ "Validate", "d5/d56/a18560.html#aee84751e352dbfc12472fc15924c48fa", null ]
 ];

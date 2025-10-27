@@ -1,7 +1,7 @@
 var a10752 =
 [
-    [ "GuildBankSetTabText", "d4/d84/a10752.html#aba353d3f94a88b71f49b9c0dc096be2c", null ],
-    [ "Read", "d4/d84/a10752.html#a24f580f6addcd08945c05016b3f0e544", null ],
-    [ "Tab", "d4/d84/a10752.html#ada6707c2105410d78d4335dbf4747141", null ],
-    [ "TabText", "d4/d84/a10752.html#a9bb8c3f539fdcf389caf57ed818c6164", null ]
+    [ "GuildBankDepositMoney", "d4/d84/a10752.html#a967628850b85038d917be69dc71e6a0e", null ],
+    [ "Read", "d4/d84/a10752.html#aa1d4274b057cc4ecec6b078ac4925a94", null ],
+    [ "Banker", "d4/d84/a10752.html#afdeb7ea381853078d515d8a0f157533b", null ],
+    [ "Money", "d4/d84/a10752.html#a41258345b9f83dcf8e374145f517251e", null ]
 ];

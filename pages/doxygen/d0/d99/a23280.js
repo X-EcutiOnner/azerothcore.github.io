@@ -1,6 +1,6 @@
 var a23280 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "dd/dfc/a23284.html", "dd/dfc/a23284" ],
-    [ "instance_serpent_shrine", "d0/d99/a23280.html#aac4fc7113307805138ba4ce4a9adff09", null ],
-    [ "GetInstanceScript", "d0/d99/a23280.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
+    [ "HandleProc", "d0/d99/a23280.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
+    [ "PrepareAuraScript", "d0/d99/a23280.html#a94b244ef26355d53c874aec6d26f3a53", null ],
+    [ "Register", "d0/d99/a23280.html#a9499d88802213ceb877e19d1651324f2", null ]
 ];

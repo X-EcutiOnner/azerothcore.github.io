@@ -1,6 +1,8 @@
 var a18360 =
 [
-    [ "ModDestHeight", "d6/d8c/a18360.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
-    [ "PrepareSpellScript", "d6/d8c/a18360.html#a288f8917d73be30234e465778b1f6544", null ],
-    [ "Register", "d6/d8c/a18360.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
+    [ "FilterTargets", "d6/d8c/a18360.html#a14e392760361b95578bc95de10cdd8aa", null ],
+    [ "HandleForcedCast", "d6/d8c/a18360.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
+    [ "PrepareSpellScript", "d6/d8c/a18360.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
+    [ "Register", "d6/d8c/a18360.html#ac2105e66f692c6a991ac9190b1901505", null ],
+    [ "Validate", "d6/d8c/a18360.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
 ];

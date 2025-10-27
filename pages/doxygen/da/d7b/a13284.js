@@ -1,11 +1,6 @@
 var a13284 =
 [
-    [ "boss_alythess", "da/d7b/a13284.html#a707fbd0f310005a60d5ed4c05c9fc176", null ],
-    [ "AttackStart", "da/d7b/a13284.html#ac860cef30a96d020a7c729f63ac5ca4e", null ],
-    [ "DoAction", "da/d7b/a13284.html#aa2dc7ab74fa5bdb753475b2de1515855", null ],
-    [ "JustDied", "da/d7b/a13284.html#a5509c9f0d979a2d9d70a8f4f9e7971a0", null ],
-    [ "JustEngagedWith", "da/d7b/a13284.html#ac5047ee0124864304284c1142e885158", null ],
-    [ "KilledUnit", "da/d7b/a13284.html#a611d8c0a8fb9061e596ef0ac8f1fda88", null ],
-    [ "Reset", "da/d7b/a13284.html#ab5f990d305f42a2d00e182f617175672", null ],
-    [ "_isSisterDead", "da/d7b/a13284.html#a9f9fa0823685066b4990a17880782b9a", null ]
+    [ "boss_darkmaster_gandlingAI", "da/d7e/a13288.html", "da/d7e/a13288" ],
+    [ "boss_darkmaster_gandling", "da/d7b/a13284.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
+    [ "GetAI", "da/d7b/a13284.html#a21ea53862614303af31a517a53d1fbf6", null ]
 ];

@@ -1,7 +1,7 @@
 var a15624 =
 [
-    [ "DelayedWindstoneSummonEvent", "d0/d0a/a15624.html#aa97daf8cf3479395ffd6558b6699436a", null ],
-    [ "Execute", "d0/d0a/a15624.html#aa413bc8709bc543b89ffb3df42185475", null ],
-    [ "_playerGUID", "d0/d0a/a15624.html#ad83bb6d87b569f59e99abcc16517745b", null ],
-    [ "_summon", "d0/d0a/a15624.html#af9804d276da5daebab3a37f2c75301ea", null ]
+    [ "npc_cork_gizeltonAI", "db/d4e/a15628.html", "db/d4e/a15628" ],
+    [ "npc_cork_gizelton", "d0/d0a/a15624.html#a915aa2abc18109e7d0197863f59536f2", null ],
+    [ "GetAI", "d0/d0a/a15624.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
+    [ "OnQuestAccept", "d0/d0a/a15624.html#a11dc1fea0a24add451272b537298fc13", null ]
 ];

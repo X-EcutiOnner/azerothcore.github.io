@@ -1,9 +1,9 @@
 var a24456 =
 [
-    [ "npc_pet_gen_fetch_ball", "df/d2c/a24456.html#a4cd4dabd5df72ad1e64bdc8d6efb2f1b", null ],
-    [ "IsSummonedBy", "df/d2c/a24456.html#abaf6308f7c47fd05acb86055bec0aea8", null ],
-    [ "SpellHitTarget", "df/d2c/a24456.html#a87bdded236f6584d9b71507a1253f7d0", null ],
-    [ "UpdateAI", "df/d2c/a24456.html#a1e0f75d5cd438d500ad94c5024bf83ae", null ],
-    [ "checkTimer", "df/d2c/a24456.html#ab8d0a3a9ba2a8e0d6f58b3867f20974e", null ],
-    [ "targetGUID", "df/d2c/a24456.html#ae474374af7c2270e218ed236d90c789c", null ]
+    [ "npc_korkron_or_wildhammer", "df/d2c/a24456.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
+    [ "IsSummonedBy", "df/d2c/a24456.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
+    [ "JustDied", "df/d2c/a24456.html#a2b216f372b3681b4c96a711568c2a93b", null ],
+    [ "MovementInform", "df/d2c/a24456.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
+    [ "Reset", "df/d2c/a24456.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
+    [ "_playerGUID", "df/d2c/a24456.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
 ];

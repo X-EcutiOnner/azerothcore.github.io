@@ -1,7 +1,7 @@
 var a26364 =
 [
-    [ "CheckTarget", "de/d09/a26364.html#abaef73201d2e0bd1d6789309442019e0", null ],
-    [ "HandleScriptEffect", "de/d09/a26364.html#a545196cd976bfabbd85ba48942012e1e", null ],
-    [ "PrepareSpellScript", "de/d09/a26364.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
-    [ "Register", "de/d09/a26364.html#a36563a197b7377660b7c3f9e85d478bd", null ]
+    [ "HandleScriptEffect", "de/d09/a26364.html#a6c1ac025fa93caa08737387a18003612", null ],
+    [ "PrepareSpellScript", "de/d09/a26364.html#acb5ad05212399b06ed9bb64bb9203069", null ],
+    [ "Register", "de/d09/a26364.html#afbf989d514c308f466ecfd9957d2d177", null ],
+    [ "Validate", "de/d09/a26364.html#a2f48b1903edef1a5bb8beeddc8879aa4", null ]
 ];
