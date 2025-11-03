@@ -1,9 +1,7 @@
 var a17928 =
 [
-    [ "CheckAreaTarget", "dc/d1e/a17928.html#a770ca8aa441a7c5ddc3e26968d7861a4", null ],
-    [ "HandleApply", "dc/d1e/a17928.html#a2aaf88ee6fee8aff23f8ee99b30e369f", null ],
-    [ "Load", "dc/d1e/a17928.html#aac27c3377b48bc8c602fa7f12dec491a", null ],
-    [ "PrepareAuraScript", "dc/d1e/a17928.html#a105c93dea246a84b73e13bdf3d04f8f4", null ],
-    [ "Register", "dc/d1e/a17928.html#a8f476129e0678149463c4b16232f6cb6", null ],
-    [ "_teamIdInInstance", "dc/d1e/a17928.html#a78b8e04586e328f89a44f41eb8c478c9", null ]
+    [ "DamageGunship", "dc/d1e/a17928.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
+    [ "PrepareSpellScript", "dc/d1e/a17928.html#aa698d016ae58d665c081976f20ec0385", null ],
+    [ "Register", "dc/d1e/a17928.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
+    [ "Validate", "dc/d1e/a17928.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
 ];

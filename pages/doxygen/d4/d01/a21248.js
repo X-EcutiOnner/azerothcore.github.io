@@ -1,5 +1,6 @@
 var a21248 =
 [
-    [ "npc_salvaged_siege_engine", "d4/d01/a21248.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
-    [ "BeforeSpellClick", "d4/d01/a21248.html#aed2500b2315b5e508ea3d06a2355d023", null ]
+    [ "npc_ulduar_arachnopod_destroyerAI", "d7/da5/a21252.html", "d7/da5/a21252" ],
+    [ "npc_ulduar_arachnopod_destroyer", "d4/d01/a21248.html#aec69c3c143ec27734dd3f2d8db0da9fd", null ],
+    [ "GetAI", "d4/d01/a21248.html#ad667e7bacc181e79cb002181c71aac7c", null ]
 ];

@@ -1,6 +1,11 @@
 var a16116 =
 [
-    [ "npc_anub_ar_crusherAI", "df/d4a/a16120.html", "df/d4a/a16120" ],
-    [ "npc_anub_ar_crusher", "dd/db6/a16116.html#a3397fab6358ce8c19aecaad734e0ef78", null ],
-    [ "GetAI", "dd/db6/a16116.html#aeb8eb3e39612d0f7059f1910033cbbcc", null ]
+    [ "npc_anub_ar_crusherAI", "dd/db6/a16116.html#a35866e3cad208bb70bbc5a146301c28d", null ],
+    [ "DoAction", "dd/db6/a16116.html#ac11795153811d2465b106bc1fdea508a", null ],
+    [ "JustEngagedWith", "dd/db6/a16116.html#a02d3b78427bc247cde28620470c43331", null ],
+    [ "JustSummoned", "dd/db6/a16116.html#a6d484f8d3f54bb7c7ad572027501f2ab", null ],
+    [ "Reset", "dd/db6/a16116.html#a85f60e0733ac4ccd8f7941e8df0f88d9", null ],
+    [ "UpdateAI", "dd/db6/a16116.html#aaeda7e00410766857ee4bd73a8e15b89", null ],
+    [ "events", "dd/db6/a16116.html#ad4a2111d4301f0b928fbd01b6783fb6c", null ],
+    [ "summons", "dd/db6/a16116.html#a3136ecd40bf228fade0e40d3c5d22e5d", null ]
 ];

@@ -1,6 +1,6 @@
 var a24160 =
 [
-    [ "npc_deaths_fel_cannonAI", "da/d3c/a24164.html", "da/d3c/a24164" ],
-    [ "npc_deaths_fel_cannon", "d9/d32/a24160.html#a87ecaca75061928600b5114d3913dd26", null ],
-    [ "GetAI", "d9/d32/a24160.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
+    [ "instance_mechanar_InstanceMapScript", "da/d3c/a24164.html", "da/d3c/a24164" ],
+    [ "instance_mechanar", "d9/d32/a24160.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
+    [ "GetInstanceScript", "d9/d32/a24160.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
 ];

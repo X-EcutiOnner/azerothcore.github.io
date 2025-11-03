@@ -1,6 +1,6 @@
 var a27516 =
 [
-    [ "go_darkmoon_faire_musicAI", "d4/d2f/a27520.html", "d4/d2f/a27520" ],
-    [ "go_darkmoon_faire_music", "db/df8/a27516.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
-    [ "GetAI", "db/df8/a27516.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
+    [ "go_brewfest_musicAI", "d4/d2f/a27520.html", "d4/d2f/a27520" ],
+    [ "go_brewfest_music", "db/df8/a27516.html#a787963a5ee591933d62fdb52911f9a77", null ],
+    [ "GetAI", "db/df8/a27516.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
 ];

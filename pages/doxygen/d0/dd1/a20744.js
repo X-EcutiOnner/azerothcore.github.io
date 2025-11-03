@@ -1,11 +1,7 @@
 var a20744 =
 [
-    [ "npc_ulduar_expedition_engineerAI", "d0/dd1/a20744.html#a48e29edad38f8ecbab54579203c93044", null ],
-    [ "Reset", "d0/dd1/a20744.html#a8a68e3a58133913d0eb0bf9fd2532db2", null ],
-    [ "SetData", "d0/dd1/a20744.html#a31db1ae61777b8f1a38d381e785ce158", null ],
-    [ "UpdateAI", "d0/dd1/a20744.html#ab6d29aaae95038282fece78479448459", null ],
-    [ "fixingGUID", "d0/dd1/a20744.html#ae0ba3ddbff054a948709e70f0bf9961a", null ],
-    [ "pInstance", "d0/dd1/a20744.html#a6b858d46eda05493ec0cac22e174854c", null ],
-    [ "timer", "d0/dd1/a20744.html#a926b343da3d3953d386b18f24bc72867", null ],
-    [ "working", "d0/dd1/a20744.html#ab8e436472efd91f2d400c02c1b500746", null ]
+    [ "npc_ulduar_expedition_commanderAI", "d0/dd1/a20744.html#a100678bddd6a0e859c72035d4642d8e2", null ],
+    [ "MoveInLineOfSight", "d0/dd1/a20744.html#a870bdc842d8d7078302a36a20ef661e4", null ],
+    [ "_instance", "d0/dd1/a20744.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
+    [ "_introSpoken", "d0/dd1/a20744.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
 ];

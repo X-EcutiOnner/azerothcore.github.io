@@ -1,10 +1,6 @@
 var a25280 =
 [
-    [ "Load", "d8/d04/a25280.html#a6ae104e97dc9c0aa50e115fe1f17e161", null ],
-    [ "OnPeriodic", "d8/d04/a25280.html#ab1dc8acb8072f70625375480742fee5e", null ],
-    [ "PrepareAuraScript", "d8/d04/a25280.html#a2e81d03893b23aa8dc9c615683206f75", null ],
-    [ "Register", "d8/d04/a25280.html#ac2f2c8359487ad8c619e9faf8535b927", null ],
-    [ "Validate", "d8/d04/a25280.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d", null ],
-    [ "_applyTimes", "d8/d04/a25280.html#a1bf9f3a1eb52bb64df59b381c412552f", null ],
-    [ "stackAmount", "d8/d04/a25280.html#ac8d762bdb40366c93602497e9aaa42eb", null ]
+    [ "HandleScriptEffect", "d8/d04/a25280.html#a514697f3fdcbf9274453d6d71c0c4816", null ],
+    [ "PrepareSpellScript", "d8/d04/a25280.html#a5bcff624e9a396a2f90115dc99d93ae9", null ],
+    [ "Register", "d8/d04/a25280.html#aebcc23e4f4a1c5ab90fb06a47755ec2b", null ]
 ];

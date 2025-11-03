@@ -1,6 +1,10 @@
 var a19484 =
 [
-    [ "npc_alexstraszaAI", "d6/de1/a19488.html", "d6/de1/a19488" ],
-    [ "npc_alexstrasza", "d3/d8d/a19484.html#aa28858e8368031c2882e7e3c1c5968dd", null ],
-    [ "GetAI", "d3/d8d/a19484.html#ad155ccc4f7bca786229ee015d365e3ce", null ]
+    [ "npc_scion_of_eternityAI", "d3/d8d/a19484.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
+    [ "AttackStart", "d3/d8d/a19484.html#a1335f9e34ff73d5501455062be025ada", null ],
+    [ "JustDied", "d3/d8d/a19484.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
+    [ "MoveInLineOfSight", "d3/d8d/a19484.html#a74a69fa532f0921285ef678bbd2fa761", null ],
+    [ "UpdateAI", "d3/d8d/a19484.html#adb16afb6ea1583a7156b80a8d833951a", null ],
+    [ "events", "d3/d8d/a19484.html#ae0e194a24a14033a499e68524da1699d", null ],
+    [ "pInstance", "d3/d8d/a19484.html#aa828ca4a75696645d7aa350f1f981f40", null ]
 ];

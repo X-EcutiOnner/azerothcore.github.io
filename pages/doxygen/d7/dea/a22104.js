@@ -1,10 +1,8 @@
 var a22104 =
 [
-    [ "npc_emilyAI", "d7/dea/a22104.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
-    [ "JustEngagedWith", "d7/dea/a22104.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
-    [ "JustSummoned", "d7/dea/a22104.html#a4730c94b54d2ee5160011557704b35f2", null ],
-    [ "Reset", "d7/dea/a22104.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
-    [ "WaypointReached", "d7/dea/a22104.html#a0a68676a6eac8fbe2b634098268eb516", null ],
-    [ "_mrfloppyGUID", "d7/dea/a22104.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
-    [ "_RavenousworgGUID", "d7/dea/a22104.html#aa2a5e45366be9f89221453e00179e1a3", null ]
+    [ "OnRemove", "d7/dea/a22104.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
+    [ "PrepareAuraScript", "d7/dea/a22104.html#a183b5a3b1332695e3c047bb63435389a", null ],
+    [ "Register", "d7/dea/a22104.html#aad41ab76cc0a882f272e8f79867a7015", null ],
+    [ "Validate", "d7/dea/a22104.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
+    [ "spellIds", "d7/dea/a22104.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
 ];

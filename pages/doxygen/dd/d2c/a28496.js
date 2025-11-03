@@ -1,4 +1,4 @@
 var a28496 =
 [
-    [ "ID", "dd/d2c/a28496.html#a11f792510d9749f99371234b15a45beb", null ]
+    [ "ratio", "dd/d2c/a28496.html#ad3cdf9a27817d39d05b8b785f5ba5ac7", null ]
 ];

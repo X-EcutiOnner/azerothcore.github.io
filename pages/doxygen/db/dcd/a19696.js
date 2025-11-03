@@ -1,7 +1,8 @@
 var a19696 =
 [
-    [ "HandleOnEffectApply", "db/dcd/a19696.html#a4841f7a44f5df964c4eb9965383fd747", null ],
-    [ "PrepareAuraScript", "db/dcd/a19696.html#a4cf9cf2aadb43920384ec745f6be484f", null ],
-    [ "Register", "db/dcd/a19696.html#a68fba646552678744f49d10b59704a35", null ],
-    [ "Validate", "db/dcd/a19696.html#a01169ee095aa2f0051eac1b253a5daf5", null ]
+    [ "HandleOnEffectApply", "db/dcd/a19696.html#ac852d761940494f78b50ba3b060057a2", null ],
+    [ "HandleOnEffectRemove", "db/dcd/a19696.html#a6764750586be8b57d52a2dba87d89e76", null ],
+    [ "PrepareAuraScript", "db/dcd/a19696.html#acc93a6d463501a23b73bd1ac1f99854e", null ],
+    [ "Register", "db/dcd/a19696.html#a2cb77175d7341752bdd8733cfcfe8ed3", null ],
+    [ "Validate", "db/dcd/a19696.html#a4de69fb4aa8e1506581ed01c42dc8f76", null ]
 ];

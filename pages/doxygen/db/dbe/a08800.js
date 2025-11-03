@@ -113,7 +113,7 @@ var a08800 =
     [ "CanRestoreMana", "db/dbe/a08800.html#a4afb0189ee402bb90fa39cecf3d304cc", null ],
     [ "CanSparringWith", "db/dbe/a08800.html#ae86065c1dbcbc5f52a76189ae57c8377", null ],
     [ "CanSwim", "db/dbe/a08800.html#ac1f2634272d3507e2da0b2fc972901aa", null ],
-    [ "CanUseAttackType", "db/dbe/a08800.html#a2b2c033c2df168977ab5b72644e75daf", null ],
+    [ "CanUseAttackType", "db/dbe/a08800.html#a7ef16b294240088d862f202197390cd6", null ],
     [ "CastCustomSpell", "db/dbe/a08800.html#aff4b0ca639163338639c4460b516c1bd", null ],
     [ "CastCustomSpell", "db/dbe/a08800.html#acb4079c53b6b1969e3cab1f58412d5ec", null ],
     [ "CastCustomSpell", "db/dbe/a08800.html#add1638b7cdab94876f38cb33c3874812", null ],

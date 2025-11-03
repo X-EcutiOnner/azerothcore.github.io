@@ -1,7 +1,6 @@
 var a16164 =
 [
-    [ "HandleScriptEffect", "df/dac/a16164.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
-    [ "PrepareSpellScript", "df/dac/a16164.html#a392c40d469c3c1e816d5dc364fde824c", null ],
-    [ "Register", "df/dac/a16164.html#aa59c26b25ca0f440de36e450adf050a5", null ],
-    [ "Validate", "df/dac/a16164.html#a370f83112d901f9565734b11d12858f4", null ]
+    [ "boss_sartharionAI", "d3/d1a/a16168.html", "d3/d1a/a16168" ],
+    [ "boss_sartharion", "df/dac/a16164.html#a6605aee69372d08fba8f4b4523896588", null ],
+    [ "GetAI", "df/dac/a16164.html#aca5d66e0f5cdcafd6f9cd2c173f43839", null ]
 ];

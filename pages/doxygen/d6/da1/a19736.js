@@ -1,6 +1,6 @@
 var a19736 =
 [
-    [ "instance_halls_of_lightning_InstanceMapScript", "d2/de3/a19740.html", "d2/de3/a19740" ],
-    [ "instance_halls_of_lightning", "d6/da1/a19736.html#a24395866efe2c7d1f7727be2557a8b46", null ],
-    [ "GetInstanceScript", "d6/da1/a19736.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
+    [ "CalculateDamage", "d6/da1/a19736.html#ae38f8cfb44de2798d7a284c942617678", null ],
+    [ "PrepareSpellScript", "d6/da1/a19736.html#a043955d56e0ae4c54d70e8fe6e417dd1", null ],
+    [ "Register", "d6/da1/a19736.html#ab4b32d2db39c8d9079a83c89d63ccd93", null ]
 ];

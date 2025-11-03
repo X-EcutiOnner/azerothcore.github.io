@@ -1,8 +1,7 @@
 var a21140 =
 [
-    [ "Absorb", "d6/d25/a21140.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
-    [ "CalculateAmount", "d6/d25/a21140.html#afe50bf22d07e68757caffb056ad55811", null ],
-    [ "PrepareAuraScript", "d6/d25/a21140.html#afa4ef1f7faa36a521c208dde10d09437", null ],
-    [ "Register", "d6/d25/a21140.html#aae020936d42da81c445f7d296660987b", null ],
-    [ "Validate", "d6/d25/a21140.html#a5852135c5214ee3938603632b0f21917", null ]
+    [ "OnApply", "d6/d25/a21140.html#a7dd5b6217db77373dfba5958a2376ff1", null ],
+    [ "OnRemove", "d6/d25/a21140.html#a39510971a0e1dbd800efc37c2e09c74f", null ],
+    [ "PrepareAuraScript", "d6/d25/a21140.html#a35c1e8f81229565e5d333ec42aa2e92c", null ],
+    [ "Register", "d6/d25/a21140.html#a27fdfe00e5201b6472a282f4589a66cc", null ]
 ];

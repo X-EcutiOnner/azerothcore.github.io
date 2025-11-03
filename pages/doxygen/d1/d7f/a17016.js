@@ -1,8 +1,8 @@
 var a17016 =
 [
-    [ "npc_fos_leaderAI", "d1/d7f/a17016.html#ae6a80f77558e0f5a62efc3b5ef1f61d6", null ],
-    [ "DoAction", "d1/d7f/a17016.html#a1fd8cea6f8a6d8f76ba3c484b15c4054", null ],
-    [ "Reset", "d1/d7f/a17016.html#a33364da3af4681de9f9e21b9dcf7f16c", null ],
-    [ "UpdateAI", "d1/d7f/a17016.html#ac6f2aedc40e415ac0f7e8c212d4deae5", null ],
-    [ "events", "d1/d7f/a17016.html#ac02a0c34096086e7baf1dc004811f4c1", null ]
+    [ "npc_fos_leaderAI", "d2/d39/a17020.html", "d2/d39/a17020" ],
+    [ "npc_fos_leader", "d1/d7f/a17016.html#a4223072bc180e990ff9e01bf772def5b", null ],
+    [ "GetAI", "d1/d7f/a17016.html#a6eca5c95aa3a8498790d8bf52f0741f8", null ],
+    [ "OnGossipHello", "d1/d7f/a17016.html#a3858054505d439902624378b9355f40d", null ],
+    [ "OnGossipSelect", "d1/d7f/a17016.html#a1b743c6f270a2bdbd09940a414a1b437", null ]
 ];

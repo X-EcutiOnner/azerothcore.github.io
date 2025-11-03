@@ -381,7 +381,7 @@ Static Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  150</span>        {</div>
 <div class="line"><span class="lineno">  151</span>            <a class="code hl_class" href="../../db/d3e/a11168.html">WorldPacket</a> data;</div>
 <div class="line"><span class="lineno">  152</span>            <a class="code hl_function" href="../../d4/d81/a07548.html#ae85b95eac40037d5066efa17fb484bc5">MakeNotOnPacket</a>(&amp;data, name);</div>
-<div class="line"><span class="lineno">  153</span>            player-&gt;GetSession()-&gt;SendPacket(&amp;data);</div>
+<div class="line"><span class="lineno">  153</span>            player-&gt;SendDirectMessage(&amp;data);</div>
 <div class="line"><span class="lineno">  154</span>        }</div>
 <div class="line"><span class="lineno">  155</span> </div>
 <div class="line"><span class="lineno">  156</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
@@ -394,7 +394,7 @@ Static Private Attributes</h2></td></tr>
 <div class="ttc" id="aa07548_html_ae85b95eac40037d5066efa17fb484bc5"><div class="ttname"><a href="../../d4/d81/a07548.html#ae85b95eac40037d5066efa17fb484bc5">ChannelMgr::MakeNotOnPacket</a></div><div class="ttdeci">void MakeNotOnPacket(WorldPacket *data, std::string const &amp;name)</div><div class="ttdef"><b>Definition:</b> ChannelMgr.cpp:225</div></div>
 <div class="ttc" id="aa11168_html"><div class="ttname"><a href="../../db/d3e/a11168.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">channels</a>, <a class="el" href="../../#l01998">Player::GetSession()</a>, <a class="el" href="../../#l00225">MakeNotOnPacket()</a>, <a class="el" href="../../#l00252">WorldSession::SendPacket()</a>, <a class="el" href="../../#l00281">Utf8toWStr()</a>, and <a class="el" href="../../#l00382">wstrToLower()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00051">channels</a>, <a class="el" href="../../#l00225">MakeNotOnPacket()</a>, <a class="el" href="../../#l05711">Player::SendDirectMessage()</a>, <a class="el" href="../../#l00281">Utf8toWStr()</a>, and <a class="el" href="../../#l00382">wstrToLower()</a>.</p>
 
 </div>
 </div>
@@ -919,7 +919,7 @@ Static Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d4/d81/a07548.html">ChannelMgr</a></li>
-    <li class="footer">Generated on Mon Oct 27 2025 21:15:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Nov 3 2025 20:47:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

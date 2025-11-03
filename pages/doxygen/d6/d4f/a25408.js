@@ -1,7 +1,9 @@
 var a25408 =
 [
-    [ "HandleScript", "d6/d4f/a25408.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
-    [ "PrepareSpellScript", "d6/d4f/a25408.html#a7909f23da8385abdabb62e5196d88d38", null ],
-    [ "Register", "d6/d4f/a25408.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
-    [ "Validate", "d6/d4f/a25408.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
+    [ "spell_gen_lifebloom", "d6/d4f/a25408.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
+    [ "AfterRemove", "d6/d4f/a25408.html#aea962f603e56c1bd33fccaef0c89d917", null ],
+    [ "PrepareAuraScript", "d6/d4f/a25408.html#ac11134bdc3588795ce6e256c5b02055f", null ],
+    [ "Register", "d6/d4f/a25408.html#ab4a552402ee9f90834320d6fc668cff3", null ],
+    [ "Validate", "d6/d4f/a25408.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
+    [ "_spellId", "d6/d4f/a25408.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
 ];

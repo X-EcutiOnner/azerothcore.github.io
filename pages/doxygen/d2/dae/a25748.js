@@ -1,5 +1,5 @@
 var a25748 =
 [
-    [ "PrepareSpellScript", "d2/dae/a25748.html#adaaa520c889970d91f3f38c958efdad4", null ],
-    [ "Register", "d2/dae/a25748.html#a80fe694c669aa86494bd73bfa7b8ffc8", null ]
+    [ "PrepareSpellScript", "d2/dae/a25748.html#acb39fd85035670fb98dcea66c29b2ff7", null ],
+    [ "Register", "d2/dae/a25748.html#a7fe416070962ba582d59ddff70c13590", null ]
 ];

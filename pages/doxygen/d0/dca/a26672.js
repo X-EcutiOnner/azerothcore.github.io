@@ -1,7 +1,6 @@
 var a26672 =
 [
-    [ "HandleDummy", "d0/dca/a26672.html#aef93741620dcf29179502f88891ad0b5", null ],
-    [ "Load", "d0/dca/a26672.html#ab8e5dcd009cca538c9921dcb9c5fe109", null ],
-    [ "PrepareSpellScript", "d0/dca/a26672.html#ac92fd133395705e4cb3730bc96e1f787", null ],
-    [ "Register", "d0/dca/a26672.html#a69336bea35240c0014693ae167d4124b", null ]
+    [ "HandleEffectApply", "d0/dca/a26672.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
+    [ "PrepareAuraScript", "d0/dca/a26672.html#a707504eccf42af77f6e6e927d208bc8c", null ],
+    [ "Register", "d0/dca/a26672.html#a7aeaa28997bbe966274a738cf45323ed", null ]
 ];

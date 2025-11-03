@@ -1,6 +1,7 @@
 var a22152 =
 [
-    [ "CheckRequirement", "dd/d1c/a22152.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "dd/d1c/a22152.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "dd/d1c/a22152.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "npc_tallhorn_stagAI", "dd/d1c/a22152.html#a50947c450eece979193b45728e5e1f82", null ],
+    [ "Reset", "dd/d1c/a22152.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
+    [ "UpdateAI", "dd/d1c/a22152.html#adf60f62fa92238cb315c42e0179c3f17", null ],
+    [ "_phase", "dd/d1c/a22152.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
 ];

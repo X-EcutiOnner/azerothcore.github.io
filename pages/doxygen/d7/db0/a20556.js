@@ -1,7 +1,10 @@
 var a20556 =
 [
-    [ "StoneGripTargetSelector", "d7/db0/a20556.html#a74fc772e2bc0694dee05fe82de4463e2", null ],
-    [ "operator()", "d7/db0/a20556.html#ae40653def55e656f2347029a97605395", null ],
-    [ "_me", "d7/db0/a20556.html#ae5781d6b553491a1e3e8bfde2b965c3a", null ],
-    [ "_victim", "d7/db0/a20556.html#a09c3c6f832c20776f11b72a468a4b0bb", null ]
+    [ "boss_kologarn_eyebeamAI", "d7/db0/a20556.html#add083b2a9067753458de1eeb6bdca4c0", null ],
+    [ "DamageDealt", "d7/db0/a20556.html#a6c1d27cc208bdaf260d6c90a2b7bca45", null ],
+    [ "IsSummonedBy", "d7/db0/a20556.html#affd177dc20c800777142208fa97207fa", null ],
+    [ "UpdateAI", "d7/db0/a20556.html#add60a709a1edf1684bd21358769590b4", null ],
+    [ "_damaged", "d7/db0/a20556.html#a7b49d9826efcf492c6e7ee003f481ccb", null ],
+    [ "_timer", "d7/db0/a20556.html#a766ad3e10016d97235499d1512c4da27", null ],
+    [ "m_pInstance", "d7/db0/a20556.html#a4145bd7e5c80c4e62144b437d38624a4", null ]
 ];

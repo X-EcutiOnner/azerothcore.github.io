@@ -1,6 +1,6 @@
 var a19060 =
 [
-    [ "npc_icc_gauntlet_controllerAI", "d1/dab/a19064.html", "d1/dab/a19064" ],
-    [ "npc_icc_gauntlet_controller", "df/d4b/a19060.html#a5fc4c941842e25bc3da93686e588627b", null ],
-    [ "GetAI", "df/d4b/a19060.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
+    [ "npc_icc_nerubar_broodkeeperAI", "d1/dab/a19064.html", "d1/dab/a19064" ],
+    [ "npc_icc_nerubar_broodkeeper", "df/d4b/a19060.html#adf9c3bfb444fed50420c2e780b373f34", null ],
+    [ "GetAI", "df/d4b/a19060.html#ad12186da36f7bbf99275a746bc874bfc", null ]
 ];

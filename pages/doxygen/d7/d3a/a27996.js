@@ -1,5 +1,7 @@
 var a27996 =
 [
-    [ "npc_suns_reach_reclamation", "d7/d3a/a27996.html#aa66b75aa1a4a96a97c4d2c4e42e3d6bb", null ],
-    [ "OnQuestReward", "d7/d3a/a27996.html#a459e53b21778cf901cbbb15c9f6e5cdd", null ]
+    [ "HandleDummy", "d7/d3a/a27996.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
+    [ "PrepareSpellScript", "d7/d3a/a27996.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
+    [ "Register", "d7/d3a/a27996.html#a3fda4d652c1264b3cfababdd98297c61", null ],
+    [ "Validate", "d7/d3a/a27996.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
 ];

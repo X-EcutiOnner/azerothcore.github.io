@@ -1,9 +1,7 @@
 var a23068 =
 [
-    [ "boss_mother_shahraz", "df/dbc/a23068.html#adba94363f74975301472d79f24894df8", null ],
-    [ "JustDied", "df/dbc/a23068.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
-    [ "JustEngagedWith", "df/dbc/a23068.html#a021c702e7eff266308fee8a4220a6ec7", null ],
-    [ "KilledUnit", "df/dbc/a23068.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
-    [ "Reset", "df/dbc/a23068.html#ab9e4162ac92e786b84b6497c37251386", null ],
-    [ "_canTalk", "df/dbc/a23068.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
+    [ "PrepareAuraScript", "df/dbc/a23068.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
+    [ "ReflectDamage", "df/dbc/a23068.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
+    [ "Register", "df/dbc/a23068.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
+    [ "Validate", "df/dbc/a23068.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
 ];

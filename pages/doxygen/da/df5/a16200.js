@@ -1,9 +1,6 @@
 var a16200 =
 [
-    [ "boss_sartharion_vesperonAI", "da/df5/a16200.html#afd67bf2c7a479771976673b05b0fc29e", null ],
-    [ "ClearInstance", "da/df5/a16200.html#aad9556374e26cbea7641461510fef9ba", null ],
-    [ "ExecuteEvent", "da/df5/a16200.html#aaf88a9e57c0d35f9e5d3fbcd4e2f5d09", null ],
-    [ "HandleExtraEvent", "da/df5/a16200.html#ab2080a14c105aeb6a9c155cf6f4ec17d", null ],
-    [ "Reset", "da/df5/a16200.html#aacf26c52f77ef4eb084814934f00aab1", null ],
-    [ "SummonedCreatureDies", "da/df5/a16200.html#a1e6fc9b1c734e73e5e27f6a17cf65d0b", null ]
+    [ "npc_twilight_summonAI", "d0/ddc/a16204.html", "d0/ddc/a16204" ],
+    [ "npc_twilight_summon", "da/df5/a16200.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
+    [ "GetAI", "da/df5/a16200.html#a98bf5ce96c25bc252acd46163644bf33", null ]
 ];

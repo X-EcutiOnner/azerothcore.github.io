@@ -1,5 +1,6 @@
 var a21584 =
 [
-    [ "go_vh_activation_crystal", "df/db2/a21584.html#a4af485ac7ab6144282f3204a6d045cea", null ],
-    [ "OnGossipHello", "df/db2/a21584.html#a47a61ba67086580135559332931e9c6e", null ]
+    [ "npc_vh_void_sentryAI", "d0/dc2/a21588.html", "d0/dc2/a21588" ],
+    [ "npc_vh_void_sentry", "df/db2/a21584.html#a6d4995d112a3fe6b59c3c3c417d98c45", null ],
+    [ "GetAI", "df/db2/a21584.html#ab3bcb8f8e9084e2ab588f80929a5d5ce", null ]
 ];

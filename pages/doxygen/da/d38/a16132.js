@@ -1,5 +1,6 @@
 var a16132 =
 [
-    [ "achievement_hadronox_denied", "da/d38/a16132.html#aeb1dcb0cee9cfe1bd149aa070a9ab7a0", null ],
-    [ "OnCheck", "da/d38/a16132.html#a0ee9c8fb90a43bc011c75026d6bcc2e5", null ]
+    [ "boss_krik_thirAI", "d2/ddc/a16136.html", "d2/ddc/a16136" ],
+    [ "boss_krik_thir", "da/d38/a16132.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
+    [ "GetAI", "da/d38/a16132.html#a10e582440092d5c6558c2a11d60907aa", null ]
 ];

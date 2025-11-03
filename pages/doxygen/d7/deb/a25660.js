@@ -1,9 +1,9 @@
 var a25660 =
 [
-    [ "CheckCast", "d7/deb/a25660.html#a005565dd77de97b5aa04553a1d6a0185", null ],
-    [ "HandleScript", "d7/deb/a25660.html#a7313a3d9840d7dc81e5a894e83cb6347", null ],
-    [ "Load", "d7/deb/a25660.html#aadfc8a873c72e31d65001ce00518ca45", null ],
-    [ "PrepareSpellScript", "d7/deb/a25660.html#a169b60644259855f0614271e4769f6b9", null ],
-    [ "Register", "d7/deb/a25660.html#a9e7f8cbc7ec3de507069b69678005da3", null ],
-    [ "Validate", "d7/deb/a25660.html#a9e69eb36c1a2640ff616ae5744c04f4f", null ]
+    [ "DoCheckCast", "d7/deb/a25660.html#a09c7bd66988c38cb019656842ed87366", null ],
+    [ "HandleDummy", "d7/deb/a25660.html#a183e2ac37a432ea2902b31e24a474cea", null ],
+    [ "HandleScriptEffect", "d7/deb/a25660.html#a396b1129f15056d0b22c7887f56bea99", null ],
+    [ "PrepareSpellScript", "d7/deb/a25660.html#aad4de93de822a742e02ac8d5d395d482", null ],
+    [ "Register", "d7/deb/a25660.html#a84fc18d6a2d92aefa2cc4d8095780314", null ],
+    [ "Validate", "d7/deb/a25660.html#a2565f0ad3bb988ad37dd6a60f08c995c", null ]
 ];

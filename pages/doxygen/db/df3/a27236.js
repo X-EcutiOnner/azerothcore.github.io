@@ -1,6 +1,7 @@
 var a27236 =
 [
-    [ "HandleOnHit", "db/df3/a27236.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
-    [ "PrepareSpellScript", "db/df3/a27236.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
-    [ "Register", "db/df3/a27236.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
+    [ "HandleScript", "db/df3/a27236.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
+    [ "PrepareSpellScript", "db/df3/a27236.html#ab363d596d2d1e030f0cc07126b40e921", null ],
+    [ "Register", "db/df3/a27236.html#ab9041b811e80e220828d5db59b724682", null ],
+    [ "Validate", "db/df3/a27236.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
 ];

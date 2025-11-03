@@ -1,7 +1,6 @@
 var a16604 =
 [
-    [ "npc_toc_druidAI", "da/dfa/a16604.html#adb456f1f93be5329174a3199c9092825", null ],
-    [ "myCanCast", "da/dfa/a16604.html#af82baa22ae49ba268f494cb07287845e", null ],
-    [ "UpdateAI", "da/dfa/a16604.html#a82a22a557db647f73690d8838a635eaf", null ],
-    [ "events", "da/dfa/a16604.html#a6bb27baf17f0286db3222287a8073bd7", null ]
+    [ "npc_toc_druidAI", "db/dc0/a16608.html", "db/dc0/a16608" ],
+    [ "npc_toc_druid", "da/dfa/a16604.html#a07321d5ee164b8e47f652f9bad65216b", null ],
+    [ "GetAI", "da/dfa/a16604.html#a4f33e8f3649c0b398448cd01666cf92b", null ]
 ];

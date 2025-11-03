@@ -853,9 +853,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="line"><span class="lineno">   53</span>        }</div>
 <div class="line"><span class="lineno">   54</span>    }</div>
 <div class="ttc" id="aa02408_html_a5bd342133be8c2137b831460acc9298ca049bbaf1577a59d4557a62d59fac7070"><div class="ttname"><a href="../../d4/d2d/a02408.html#a5bd342133be8c2137b831460acc9298ca049bbaf1577a59d4557a62d59fac7070">SPELL_CORRUPT_MEDIVH</a></div><div class="ttdeci">@ SPELL_CORRUPT_MEDIVH</div><div class="ttdef"><b>Definition:</b> boss_aeonus.cpp:37</div></div>
-<div class="ttc" id="aa08452_html_a73f3c7fa817faebff6b2752ba3bb1a50"><div class="ttname"><a href="../../de/d33/a08452.html#a73f3c7fa817faebff6b2752ba3bb1a50">WorldObject::GetDistance2d</a></div><div class="ttdeci">float GetDistance2d(WorldObject const *obj) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1292</div></div>
+<div class="ttc" id="aa08452_html_a73f3c7fa817faebff6b2752ba3bb1a50"><div class="ttname"><a href="../../de/d33/a08452.html#a73f3c7fa817faebff6b2752ba3bb1a50">WorldObject::GetDistance2d</a></div><div class="ttdeci">float GetDistance2d(WorldObject const *obj) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1296</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00036">DATA_MEDIVH</a>, <a class="el" href="../../#l00284">UnitAI::DoCastAOE()</a>, <a class="el" href="../../#l00115">InstanceScript::GetCreature()</a>, <a class="el" href="../../#l01292">WorldObject::GetDistance2d()</a>, <a class="el" href="../../#l00488">BossAI::instance</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00037">SPELL_CORRUPT_MEDIVH</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00036">DATA_MEDIVH</a>, <a class="el" href="../../#l00284">UnitAI::DoCastAOE()</a>, <a class="el" href="../../#l00115">InstanceScript::GetCreature()</a>, <a class="el" href="../../#l01296">WorldObject::GetDistance2d()</a>, <a class="el" href="../../#l00488">BossAI::instance</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, and <a class="el" href="../../#l00037">SPELL_CORRUPT_MEDIVH</a>.</p>
 
 </div>
 </div>
@@ -925,7 +925,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="fragment"><div class="line"><span class="lineno">   92</span>    {</div>
 <div class="line"><span class="lineno">   93</span>        <span class="keywordflow">if</span> (who-&gt;<a class="code hl_function" href="../../db/db6/a08416.html#aacc8ee332f66effdc0d77c126dae1961">IsCreature</a>() &amp;&amp; who-&gt;<a class="code hl_function" href="../../db/db6/a08416.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == <a class="code hl_enumvalue" href="../../dd/d31/a02405.html#a92f6fd626e1834a4cc509efc1186963ea1c1483d23171361876616fe9c598e71f">NPC_TIME_KEEPER</a>)</div>
 <div class="line"><span class="lineno">   94</span>        {</div>
-<div class="line"><span class="lineno">   95</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#ab73407bcdf13a30519a953d24773ed02">IsWithinDistInMap</a>(who, 20.0f))</div>
+<div class="line"><span class="lineno">   95</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(who, 20.0f))</div>
 <div class="line"><span class="lineno">   96</span>            {</div>
 <div class="line"><span class="lineno">   97</span>                <a class="code hl_enumeration" href="../../d8/db7/a02450.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d4/d2d/a02408.html#ab54cabecd48a4eb41ddb3c17c26eb6fba24b88fffa83116640b9dcfd4596553da">SAY_BANISH</a>);</div>
 <div class="line"><span class="lineno">   98</span>                <a class="code hl_function" href="../../d8/dae/a06212.html#a1e37cbb75f91c247b04131afc7ce35f5">DoCastAOE</a>(<a class="code hl_enumvalue" href="../../d4/d2d/a02408.html#a5bd342133be8c2137b831460acc9298cabb3f48efd68961d9bcc19f9b6008023c">SPELL_BANISH_DRAGON_HELPER</a>, <span class="keyword">true</span>);</div>
@@ -941,9 +941,9 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa06224_html_a1280f8bcf72254ad31c453b810615f87"><div class="ttname"><a href="../../d0/d64/a06224.html#a1280f8bcf72254ad31c453b810615f87">CreatureAI::MoveInLineOfSight</a></div><div class="ttdeci">virtual void MoveInLineOfSight(Unit *)</div><div class="ttdef"><b>Definition:</b> CreatureAI.cpp:176</div></div>
 <div class="ttc" id="aa08416_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../db/db6/a08416.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition:</b> Object.h:116</div></div>
 <div class="ttc" id="aa08416_html_aacc8ee332f66effdc0d77c126dae1961"><div class="ttname"><a href="../../db/db6/a08416.html#aacc8ee332f66effdc0d77c126dae1961">Object::IsCreature</a></div><div class="ttdeci">bool IsCreature() const</div><div class="ttdef"><b>Definition:</b> Object.h:205</div></div>
-<div class="ttc" id="aa08452_html_ab73407bcdf13a30519a953d24773ed02"><div class="ttname"><a href="../../de/d33/a08452.html#ab73407bcdf13a30519a953d24773ed02">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool useBoundingRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1350</div></div>
+<div class="ttc" id="aa08452_html_aaeea293a6966a717f17113370d364168"><div class="ttname"><a href="../../de/d33/a08452.html#aaeea293a6966a717f17113370d364168">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1354</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00284">UnitAI::DoCastAOE()</a>, <a class="el" href="../../#l00116">Object::GetEntry()</a>, <a class="el" href="../../#l00205">Object::IsCreature()</a>, <a class="el" href="../../#l01350">WorldObject::IsWithinDistInMap()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00176">CreatureAI::MoveInLineOfSight()</a>, <a class="el" href="../../#l00059">NPC_TIME_KEEPER</a>, <a class="el" href="../../#l00025">SAY_BANISH</a>, and <a class="el" href="../../#l00038">SPELL_BANISH_DRAGON_HELPER</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00284">UnitAI::DoCastAOE()</a>, <a class="el" href="../../#l00116">Object::GetEntry()</a>, <a class="el" href="../../#l00205">Object::IsCreature()</a>, <a class="el" href="../../#l01354">WorldObject::IsWithinDistInMap()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00176">CreatureAI::MoveInLineOfSight()</a>, <a class="el" href="../../#l00059">NPC_TIME_KEEPER</a>, <a class="el" href="../../#l00025">SAY_BANISH</a>, and <a class="el" href="../../#l00038">SPELL_BANISH_DRAGON_HELPER</a>.</p>
 
 </div>
 </div>
@@ -953,7 +953,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../df/d5c/a15056.html">boss_aeonus</a></li>
-    <li class="footer">Generated on Mon Oct 27 2025 21:15:02 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Nov 3 2025 20:46:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,7 +1,6 @@
 var a20124 =
 [
-    [ "npc_storm_beacon_spawnAI", "d3/d05/a20124.html#a031c1941f177a18af58efcf4a1270654", null ],
-    [ "UpdateAI", "d3/d05/a20124.html#a249bf56b905ef0c8b34c737d95518c91", null ],
-    [ "_amount", "d3/d05/a20124.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
-    [ "_checkTimer", "d3/d05/a20124.html#a7fd6d449b6a20ba9463896244c513a67", null ]
+    [ "npc_brann_radioAI", "de/d8f/a20128.html", "de/d8f/a20128" ],
+    [ "npc_brann_radio", "d3/d05/a20124.html#a22b5231f643c287d8e32d88a3b0728b2", null ],
+    [ "GetAI", "d3/d05/a20124.html#aa2ea91337262fb886e7535ba013f4b10", null ]
 ];

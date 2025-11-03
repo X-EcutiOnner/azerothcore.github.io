@@ -1,9 +1,8 @@
 var a26396 =
 [
-    [ "CheckCast", "df/dd1/a26396.html#ad7bfc65b26013ad259679ae8b4a5dd9a", null ],
-    [ "HandleTriggerSpellHit", "df/dd1/a26396.html#aca027bb2995456bfcedd33c06966eb88", null ],
-    [ "HandleTriggerSpellLaunch", "df/dd1/a26396.html#aa67bf9f81086a3837037d67306979072", null ],
-    [ "PrepareSpellScript", "df/dd1/a26396.html#a9247b5f3a376bebdcf857565b5049944", null ],
-    [ "Register", "df/dd1/a26396.html#aaf056806d72da6aa2e3e6e70d46d6933", null ],
-    [ "Validate", "df/dd1/a26396.html#a4fc8f6a7ecd041dcfca4fd51d71e725c", null ]
+    [ "CheckCast", "df/dd1/a26396.html#a0d7910cd2b9d9f4174575532502d40f9", null ],
+    [ "HandleDummy", "df/dd1/a26396.html#a1eac1eb5f39093ff48942e82728478dd", null ],
+    [ "PrepareSpellScript", "df/dd1/a26396.html#adbb58b75232560d101b291c0d99a2a20", null ],
+    [ "Register", "df/dd1/a26396.html#a6acb46e81171e13f50ac1f01bf83013b", null ],
+    [ "Validate", "df/dd1/a26396.html#a4b67c348685a8094668e4ed2f0c78446", null ]
 ];

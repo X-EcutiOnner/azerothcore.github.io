@@ -1,9 +1,12 @@
 var a20688 =
 [
-    [ "npc_ulduar_emergency_fire_botAI", "d6/d86/a20688.html#a98ad3308b0fa56847ce6f5583bdfaba9", null ],
-    [ "AttackStart", "d6/d86/a20688.html#aa18e89f63e98112efeb69328f8fdc296", null ],
-    [ "MoveInLineOfSight", "d6/d86/a20688.html#a6384437fff9349df0cfa5053b37313ea", null ],
-    [ "MovementInform", "d6/d86/a20688.html#a2f7d5b821ea4bf80bd01d469859f6fb6", null ],
-    [ "UpdateAI", "d6/d86/a20688.html#a71d24eb5cea764011249b8ff78c3ed6c", null ],
-    [ "events", "d6/d86/a20688.html#a5099c03b3ab1eb437ea11a0c4e8650f1", null ]
+    [ "npc_ulduar_flames_initialAI", "d6/d86/a20688.html#a5d7202463d12fbdfcc5efdfba786ca19", null ],
+    [ "DoAction", "d6/d86/a20688.html#a6169d12043e73e7991064decccf0926a", null ],
+    [ "RemoveAll", "d6/d86/a20688.html#a2c39dd0d4d8040db5b18af1c1b27071a", null ],
+    [ "RemoveFlame", "d6/d86/a20688.html#ab992d2df928b9ca2699ca48e64fb2606", null ],
+    [ "SpreadFlame", "d6/d86/a20688.html#ae801181472a8e29208a4f305fb0307f9", null ],
+    [ "UpdateAI", "d6/d86/a20688.html#a9d628d32d3519d0e7152c772e540b7ef", null ],
+    [ "CreateTime", "d6/d86/a20688.html#ae50820bb38d0ed61b8687b4023aac5b9", null ],
+    [ "events", "d6/d86/a20688.html#a89217e11f9930b336665969791fc84b9", null ],
+    [ "FlameList", "d6/d86/a20688.html#a75b218699a42ece4959d0a1fe40713d7", null ]
 ];

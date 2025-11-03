@@ -1,6 +1,7 @@
 var a22312 =
 [
-    [ "npc_infra_green_bomber_genericAI", "d3/d6b/a22316.html", "d3/d6b/a22316" ],
-    [ "npc_infra_green_bomber_generic", "de/d84/a22312.html#a39134a09376c35f15e99377cd28ac6ff", null ],
-    [ "GetAI", "de/d84/a22312.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
+    [ "HandleDummy", "de/d84/a22312.html#abfb58e49821e6a563940e8ba518db850", null ],
+    [ "PrepareSpellScript", "de/d84/a22312.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
+    [ "Register", "de/d84/a22312.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
+    [ "Validate", "de/d84/a22312.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
 ];

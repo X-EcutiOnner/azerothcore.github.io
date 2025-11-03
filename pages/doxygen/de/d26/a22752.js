@@ -1,5 +1,5 @@
 var a22752 =
 [
-    [ "OutdoorPvP_silithus", "de/d26/a22752.html#a8b53dd86c265d277ad1cb49bd6a795bc", null ],
-    [ "GetOutdoorPvP", "de/d26/a22752.html#a126d6acc77218addd10072199ccd2470", null ]
+    [ "outdoorpvp_na_halaa_creatures", "de/d26/a22752.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
+    [ "UpdateAI", "de/d26/a22752.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
 ];

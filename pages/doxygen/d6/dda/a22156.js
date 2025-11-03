@@ -1,6 +1,6 @@
 var a22156 =
 [
-    [ "npc_venture_co_stragglerAI", "d4/dbe/a22160.html", "d4/dbe/a22160" ],
-    [ "npc_venture_co_straggler", "d6/dda/a22156.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
-    [ "GetAI", "d6/dda/a22156.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
+    [ "npc_amberpine_woodsmanAI", "d4/dbe/a22160.html", "d4/dbe/a22160" ],
+    [ "npc_amberpine_woodsman", "d6/dda/a22156.html#a33bbec50a360b724bfe9cb8612cbb47d", null ],
+    [ "GetAI", "d6/dda/a22156.html#a9c1df6c01c163ca68712d72b14c46139", null ]
 ];

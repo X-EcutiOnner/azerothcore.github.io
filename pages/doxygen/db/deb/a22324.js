@@ -1,7 +1,6 @@
 var a22324 =
 [
-    [ "HandleScriptEffect", "db/deb/a22324.html#ad20cf97a7dd442d5670a22095b487a01", null ],
-    [ "PrepareSpellScript", "db/deb/a22324.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
-    [ "Register", "db/deb/a22324.html#a996ea344ea2a3312cb8886565b80972d", null ],
-    [ "Validate", "db/deb/a22324.html#a29bf5a9615e02281f426bf521a045567", null ]
+    [ "HandleDummy", "db/deb/a22324.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
+    [ "PrepareSpellScript", "db/deb/a22324.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
+    [ "Register", "db/deb/a22324.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
 ];

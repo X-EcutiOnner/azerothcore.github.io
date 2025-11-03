@@ -1,19 +1,11 @@
 var a23328 =
 [
-    [ "boss_fathomguard_tidalvess", "d6/dcf/a23328.html#aa4c3ac27c72e659bd87ad83bbadfb04c", null ],
-    [ "DoAction", "d6/dcf/a23328.html#a909601091c25285e0a6c9773b61ff049", null ],
-    [ "EnterEvadeMode", "d6/dcf/a23328.html#a8fe1a7a13b0d3d806edcfe8e9bf4ff33", null ],
-    [ "JustDied", "d6/dcf/a23328.html#a7f79a16e0c186e97aeb7f16f3b7d45ea", null ],
-    [ "JustEngagedWith", "d6/dcf/a23328.html#aa524d5c047b50df8d83b5faa3fd791fc", null ],
-    [ "JustSummoned", "d6/dcf/a23328.html#a1dc16180610c742e98a93f87653e93e9", null ],
-    [ "Reset", "d6/dcf/a23328.html#af218abccb0b61e483dcc6d7a3313d99d", null ],
-    [ "ScheduleRemoval", "d6/dcf/a23328.html#a07c887552c8705b52caf9e102788a781", null ],
-    [ "SummonTotem", "d6/dcf/a23328.html#adb4d877f50ba5653d699a0a123f5961c", null ],
-    [ "UpdateAI", "d6/dcf/a23328.html#abce5d58fced89ecaac1d1f34989f0d9e", null ],
-    [ "_choice", "d6/dcf/a23328.html#a0ced209c6f22a0bf435a0249a25b15c4", null ],
-    [ "_entryList", "d6/dcf/a23328.html#a9eaeaf02dbe143d38ca857e5ae478aca", null ],
-    [ "_instance", "d6/dcf/a23328.html#a958c76b6ad9d9713625b10baa0d6d992", null ],
-    [ "_scheduler", "d6/dcf/a23328.html#ae1652d83938dc820255e383870b957a7", null ],
-    [ "_summons", "d6/dcf/a23328.html#aea75646687854c08eaee75c55718376d", null ],
-    [ "_totemScheduler", "d6/dcf/a23328.html#a1b4ace7575946c585cc63057e81a1529", null ]
+    [ "boss_doomwalker", "d6/dcf/a23328.html#a47811086ff98b1a09af5300af94b6c0e", null ],
+    [ "JustDied", "d6/dcf/a23328.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
+    [ "JustEngagedWith", "d6/dcf/a23328.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
+    [ "KilledUnit", "d6/dcf/a23328.html#a2335eb642940397f73ee2a8051624e8e", null ],
+    [ "MoveInLineOfSight", "d6/dcf/a23328.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
+    [ "Reset", "d6/dcf/a23328.html#aba08b227d629c9f35e59f465e29c267b", null ],
+    [ "UpdateAI", "d6/dcf/a23328.html#a3105c50e512c6f709985cece619b131f", null ],
+    [ "_inEnrage", "d6/dcf/a23328.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
 ];

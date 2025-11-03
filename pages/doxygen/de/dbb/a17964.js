@@ -1,10 +1,10 @@
 var a17964 =
 [
-    [ "npc_cult_adherentAI", "de/dbb/a17964.html#a1ea249a25b188a949213788614f4049e", null ],
-    [ "JustEngagedWith", "de/dbb/a17964.html#ab97e0177fbc9fc7135dc7a7de0e6e31a", null ],
-    [ "Reset", "de/dbb/a17964.html#ab0b54e45468b5ebed0194c441cce434e", null ],
-    [ "SpellHit", "de/dbb/a17964.html#ab0d83d53a7f0d14cb15e133e426f2f02", null ],
-    [ "UpdateAI", "de/dbb/a17964.html#ad89638cf5859615ba2e3a0deb6701751", null ],
-    [ "_instance", "de/dbb/a17964.html#a970e99fba28d6e3e0cb759c87a866273", null ],
-    [ "events", "de/dbb/a17964.html#aa53025d3fe95086dc0c23d5d563df7c4", null ]
+    [ "npc_cult_fanaticAI", "de/dbb/a17964.html#a766e536288b84110f88a8bd282e97932", null ],
+    [ "JustEngagedWith", "de/dbb/a17964.html#a709b75f4b1519bc7c6988985a22d076f", null ],
+    [ "Reset", "de/dbb/a17964.html#a772830df1d16d0463c8c00f14c337db0", null ],
+    [ "SpellHit", "de/dbb/a17964.html#a17c02a83b522c9717de3d89517104e42", null ],
+    [ "UpdateAI", "de/dbb/a17964.html#ac79afdab3721d78d2b7e5da360083cea", null ],
+    [ "_instance", "de/dbb/a17964.html#a7448fdf85cccfcb12509b0274205bff4", null ],
+    [ "events", "de/dbb/a17964.html#a9576978141062fa1babbbc5ed42483c4", null ]
 ];

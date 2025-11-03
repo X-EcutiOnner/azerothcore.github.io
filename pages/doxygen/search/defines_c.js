@@ -231,6 +231,5 @@ var searchData=
   ['mod_5fend_228',['MOD_END',['../dd/d08/a00884.html#a1dc9cc1719eb57a6058fc9bc2d7b4024',1,'Unit.h']]],
   ['movement_5fpacket_5ftime_5fdelay_229',['MOVEMENT_PACKET_TIME_DELAY',['../d2/d94/a00716.html#a69e254ae3a119a96053add6b9732296c',1,'MovementHandler.cpp']]],
   ['mpq_5fblock_5fsize_230',['MPQ_BLOCK_SIZE',['../d1/dcc/a04250.html#a402d9c2814f85cee14f9bc8dbc999de8',1,'vmapexport.cpp']]],
-  ['mtscriptname_231',['MTScriptName',['../d3/dce/a03608.html#a772413d8818d681e2261c99f58e1268c',1,'MTScriptName():&#160;magisters_terrace.h'],['../d4/d93/a01955.html#a772413d8818d681e2261c99f58e1268c',1,'MTScriptName():&#160;mana_tombs.h']]],
-  ['mutated_5finfection_232',['MUTATED_INFECTION',['../d0/dcd/a03113.html#a607dc3b0f396a5fe6d6bed1fecf54cc8',1,'boss_rotface.cpp']]]
+  ['mtscriptname_231',['MTScriptName',['../d3/dce/a03608.html#a772413d8818d681e2261c99f58e1268c',1,'MTScriptName():&#160;magisters_terrace.h'],['../d4/d93/a01955.html#a772413d8818d681e2261c99f58e1268c',1,'MTScriptName():&#160;mana_tombs.h']]]
 ];

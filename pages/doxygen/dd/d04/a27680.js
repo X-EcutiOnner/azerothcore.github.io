@@ -1,6 +1,5 @@
 var a27680 =
 [
-    [ "npc_innkeeper", "dd/d04/a27680.html#a006f27d898ead8827d8b98d8b93d430d", null ],
-    [ "OnGossipHello", "dd/d04/a27680.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
-    [ "OnGossipSelect", "dd/d04/a27680.html#ab6cf511f5b032050336a77d1e4598dda", null ]
+    [ "item_captured_frog", "dd/d04/a27680.html#ad41b743c98c9534453eca8cf1f367366", null ],
+    [ "OnUse", "dd/d04/a27680.html#a1156467ca046a077ea494f92c488bf54", null ]
 ];

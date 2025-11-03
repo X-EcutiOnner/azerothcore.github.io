@@ -1,17 +1,14 @@
 var a21008 =
 [
-    [ "boss_yoggsaronAI", "d2/d12/a21008.html#a33b1adb7406bc206107f8fe53a574c65", null ],
-    [ "AttackStart", "d2/d12/a21008.html#a17139da5a358f2850d65cbe8ea7b21bf", null ],
-    [ "DoAction", "d2/d12/a21008.html#ab280a3b876c273f6e2422de6bc843e56", null ],
-    [ "GetData", "d2/d12/a21008.html#ae7b88f2024b2c4c47aac8a481d82cdd5", null ],
-    [ "JustDied", "d2/d12/a21008.html#a5a6a6b5fd95c8ed6371ede88d2c319a0", null ],
-    [ "JustSummoned", "d2/d12/a21008.html#a2880edc8ea9d6b2ca75b0fd5c2f8d997", null ],
-    [ "SpellHit", "d2/d12/a21008.html#a49baf8ff585806d29cce501a62f23109", null ],
-    [ "SummonImmortalGuardian", "d2/d12/a21008.html#a2cef1e6993460afd7be4807acf156847", null ],
-    [ "UpdateAI", "d2/d12/a21008.html#a0dddae6f83e53c4dba0588d5a2b1b156", null ],
-    [ "_thirdPhase", "d2/d12/a21008.html#aac7f67610b00039f251e3e216a3d935b", null ],
-    [ "_usedInsane", "d2/d12/a21008.html#a3b6b2f48a12ab281d578c405c0b60041", null ],
-    [ "events", "d2/d12/a21008.html#a3a8ea308064aa7eb118c076c0bf42b44", null ],
-    [ "m_pInstance", "d2/d12/a21008.html#a9cb3c01fca86f65171d51d08017edee8", null ],
-    [ "summons", "d2/d12/a21008.html#a6cc648c553bd2fc75e5371bcd5199c1a", null ]
+    [ "boss_yoggsaron_cloudAI", "d2/d12/a21008.html#a6a13c31fb0649387ac411ed7ec2fb66a", null ],
+    [ "AttackStart", "d2/d12/a21008.html#a3ecf6a1c74780aa250be3f4e2dd04ea1", null ],
+    [ "DoAction", "d2/d12/a21008.html#a68caf08c015a0048be7858e435bbc84d", null ],
+    [ "InitWaypoint", "d2/d12/a21008.html#ae68d5d5f5c1edb74596761dccecb614d", null ],
+    [ "JustSummoned", "d2/d12/a21008.html#a70e74c2a1c19468e25edcc3d0e41df06", null ],
+    [ "MoveInLineOfSight", "d2/d12/a21008.html#a48fb6de45d47ab4fbe02da835056f4ce", null ],
+    [ "Reset", "d2/d12/a21008.html#adffbc99bb2fff0ce2082cd9e2d3608d7", null ],
+    [ "UpdateEscortAI", "d2/d12/a21008.html#a3661ecf52a93c7d769eaa9dcfa2ac202", null ],
+    [ "WaypointReached", "d2/d12/a21008.html#a3933d6c39c060db0da18d174e5b2e01a", null ],
+    [ "_checkTimer", "d2/d12/a21008.html#a883307a4134b269fb2bbe6efa371b945", null ],
+    [ "_isSummoning", "d2/d12/a21008.html#a118ccef4158c49bddf2b503f3a3090d0", null ]
 ];

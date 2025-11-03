@@ -1,7 +1,10 @@
 var a24900 =
 [
-    [ "HandleScriptEffect", "df/df1/a24900.html#a3a33f0ec477ff3b4b19fc98760a2dae7", null ],
-    [ "PrepareSpellScript", "df/df1/a24900.html#ae29c4f69a34e71011192df12509e2935", null ],
-    [ "Register", "df/df1/a24900.html#ae37da44bde25f6bdb5b4a382ab66b7be", null ],
-    [ "Validate", "df/df1/a24900.html#af9056c179b8089cf0b304b3ce61ea92f", null ]
+    [ "CalculateAPAmount", "df/df1/a24900.html#af1d4558f6132d3c2abc71ec1dabee2e8", null ],
+    [ "CalculateResistanceAmount", "df/df1/a24900.html#a5d6e7b92f4335176388a877e72c0e92c", null ],
+    [ "CalculateSPAmount", "df/df1/a24900.html#a40c96996d19b9f7eeed3fda4271b9f87", null ],
+    [ "CalculateStatAmount", "df/df1/a24900.html#ae4f96de2c558a4b0fd7659442aa3d92b", null ],
+    [ "HandleEffectApply", "df/df1/a24900.html#aeebb14424a6ae336edd4b66d824d648a", null ],
+    [ "PrepareAuraScript", "df/df1/a24900.html#a7e3dc351574f6d6ad3424eb7df7092df", null ],
+    [ "Register", "df/df1/a24900.html#ab5713a34ced4d2e2a67b43e98d7a55c0", null ]
 ];

@@ -1,10 +1,10 @@
 var a02174 =
 [
-    [ "npc_millhouse_manastorm", "da/de4/a23892.html", "da/de4/a23892" ],
-    [ "npc_millhouse_manastorm::npc_millhouse_manastormAI", "d6/d90/a23896.html", "d6/d90/a23896" ],
-    [ "npc_warden_mellichar", "d6/d77/a23900.html", "d6/d77/a23900" ],
-    [ "npc_warden_mellichar::npc_warden_mellicharAI", "d0/d7c/a23904.html", "d0/d7c/a23904" ],
-    [ "spell_arcatraz_soul_steal_aura", "d7/d76/a23908.html", "d7/d76/a23908" ],
+    [ "npc_millhouse_manastorm", "d7/d76/a23908.html", "d7/d76/a23908" ],
+    [ "npc_millhouse_manastorm::npc_millhouse_manastormAI", "d2/d3b/a23912.html", "d2/d3b/a23912" ],
+    [ "npc_warden_mellichar", "dc/dc8/a23916.html", "dc/dc8/a23916" ],
+    [ "npc_warden_mellichar::npc_warden_mellicharAI", "d4/da7/a23920.html", "d4/da7/a23920" ],
+    [ "spell_arcatraz_soul_steal_aura", "d7/d77/a23924.html", "d7/d77/a23924" ],
     [ "MillhouseEvents", "d6/d6e/a02174.html#a8fdf239f7a28850cf0153061c034311a", [
       [ "EVENT_MILLHOUSE_INTRO1", "d6/d6e/a02174.html#a8fdf239f7a28850cf0153061c034311aae819616d567d52df58f2b36f403e70e6", null ],
       [ "EVENT_MILLHOUSE_INTRO2", "d6/d6e/a02174.html#a8fdf239f7a28850cf0153061c034311aaad93d0f29eb1ee1e6c1c617169b04dc6", null ],

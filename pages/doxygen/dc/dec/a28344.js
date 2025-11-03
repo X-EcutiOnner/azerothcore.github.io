@@ -1,6 +1,8 @@
 var a28344 =
 [
-    [ "ChannelID", "dc/dec/a28344.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
-    [ "flags", "dc/dec/a28344.html#aa77db644555e336ccbb8dd138c192425", null ],
-    [ "pattern", "dc/dec/a28344.html#ad8b550cf444d66eede00abcf2cefec22", null ]
+    [ "gender", "dc/dec/a28344.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
+    [ "hair_id", "dc/dec/a28344.html#af4646a9adb0a1dc18b34158de2116b84", null ],
+    [ "Id", "dc/dec/a28344.html#a05de87081cf628e806d6518eef1424e4", null ],
+    [ "race", "dc/dec/a28344.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
+    [ "type", "dc/dec/a28344.html#a289bb362ba13235c754647ba67be1e56", null ]
 ];

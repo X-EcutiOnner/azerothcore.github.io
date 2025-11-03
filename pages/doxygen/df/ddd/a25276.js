@@ -1,8 +1,8 @@
 var a25276 =
 [
-    [ "AchievementCredit", "df/ddd/a25276.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "df/ddd/a25276.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "df/ddd/a25276.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "df/ddd/a25276.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "df/ddd/a25276.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "CheckRequirement", "df/ddd/a25276.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
+    [ "HandleScript", "df/ddd/a25276.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
+    [ "Load", "df/ddd/a25276.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
+    [ "PrepareSpellScript", "df/ddd/a25276.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
+    [ "Register", "df/ddd/a25276.html#a89d053e0ee793017c74188aac32d99d5", null ]
 ];

@@ -1,10 +1,6 @@
 var a27688 =
 [
-    [ "npc_prof_blacksmith", "d6/d3a/a27688.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
-    [ "HasWeaponSub", "d6/d3a/a27688.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
-    [ "OnGossipHello", "d6/d3a/a27688.html#a9a432c1ec33578949110c877fc6a686d", null ],
-    [ "OnGossipSelect", "d6/d3a/a27688.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
-    [ "SendActionMenu", "d6/d3a/a27688.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
-    [ "SendConfirmLearn", "d6/d3a/a27688.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
-    [ "SendConfirmUnlearn", "d6/d3a/a27688.html#a851dc241d944bc888a00df85bff17e3a", null ]
+    [ "trigger_periodicAI", "d6/dcd/a27692.html", "d6/dcd/a27692" ],
+    [ "trigger_periodic", "d6/d3a/a27688.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
+    [ "GetAI", "d6/d3a/a27688.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
 ];

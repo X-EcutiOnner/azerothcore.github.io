@@ -1,6 +1,6 @@
 var a22044 =
 [
-    [ "npc_q24545_vegardAI", "d0/d40/a22048.html", "d0/d40/a22048" ],
-    [ "npc_q24545_vegard", "dd/db4/a22044.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
-    [ "GetAI", "dd/db4/a22044.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
+    [ "GhoulTargetCheck", "dd/db4/a22044.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
+    [ "operator()", "dd/db4/a22044.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
+    [ "_alive", "dd/db4/a22044.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
 ];

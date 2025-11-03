@@ -1,6 +1,5 @@
 var a16832 =
 [
-    [ "npc_concentrated_ballAI", "d7/d71/a16836.html", "d7/d71/a16836" ],
-    [ "npc_concentrated_ball", "db/de4/a16832.html#a1f3a873baf61157e704bcb7e524b1d46", null ],
-    [ "GetAI", "db/de4/a16832.html#add43f8cb27a699ba732d62fedd9d2f02", null ]
+    [ "npc_essence_of_twin", "db/de4/a16832.html#a019de64e5e01e611acfda5db4c279b19", null ],
+    [ "OnGossipHello", "db/de4/a16832.html#a6f37b7f1152098b41b07ddbae3613c63", null ]
 ];

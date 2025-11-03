@@ -1,7 +1,6 @@
 var a25100 =
 [
-    [ "HandleApply", "dd/d6e/a25100.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
-    [ "HandlePeriodicTimer", "dd/d6e/a25100.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
-    [ "PrepareAuraScript", "dd/d6e/a25100.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
-    [ "Register", "dd/d6e/a25100.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
+    [ "CheckProc", "dd/d6e/a25100.html#af742bdfd97c9202d50ed7aa1cf8e7d49", null ],
+    [ "PrepareAuraScript", "dd/d6e/a25100.html#a255a58ad99059ba28ab09a94e7cc683a", null ],
+    [ "Register", "dd/d6e/a25100.html#a4ec4dd2342a5b75c975dc6ffe0b02b79", null ]
 ];

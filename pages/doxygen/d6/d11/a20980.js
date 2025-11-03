@@ -1,6 +1,6 @@
 var a20980 =
 [
-    [ "boss_yoggsaron_saraAI", "d1/d1b/a20984.html", "d1/d1b/a20984" ],
-    [ "boss_yoggsaron_sara", "d6/d11/a20980.html#aaf5bd5440122f6c97315b0e3b9d47586", null ],
-    [ "GetAI", "d6/d11/a20980.html#abc83e0f3a7d12a84ea283e5b2a69826d", null ]
+    [ "OnRemove", "d6/d11/a20980.html#a492bd9e9c82937e00897e19362b40901", null ],
+    [ "PrepareAuraScript", "d6/d11/a20980.html#a1ae24bb18b5570ebe9b4b0698d3cc2f2", null ],
+    [ "Register", "d6/d11/a20980.html#adfcaf82ff48225ea0e0314d421795644", null ]
 ];

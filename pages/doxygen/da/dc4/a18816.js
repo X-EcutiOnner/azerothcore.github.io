@@ -1,6 +1,6 @@
 var a18816 =
 [
-    [ "npc_frost_freeze_trapAI", "d3/d86/a18820.html", "d3/d86/a18820" ],
-    [ "npc_frost_freeze_trap", "da/dc4/a18816.html#ac58ed2598fd4250f220208a91343f9b8", null ],
-    [ "GetAI", "da/dc4/a18816.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
+    [ "npc_rotting_frost_giantAI", "d3/d86/a18820.html", "d3/d86/a18820" ],
+    [ "npc_rotting_frost_giant", "da/dc4/a18816.html#ad4440216e11a00d97af43dc5f3957e95", null ],
+    [ "GetAI", "da/dc4/a18816.html#aabc388b3690f2d03e903c7f480d52842", null ]
 ];

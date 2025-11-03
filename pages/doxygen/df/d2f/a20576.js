@@ -1,6 +1,6 @@
 var a20576 =
 [
-    [ "OnPeriodic", "df/d2f/a20576.html#a8a12342f694499043e8ed4446fd92d36", null ],
-    [ "PrepareAuraScript", "df/d2f/a20576.html#a9294210ece0c3bcda0639d1fc486cc9a", null ],
-    [ "Register", "df/d2f/a20576.html#a381709d53101832de6b2161c4a33a0d4", null ]
+    [ "OnRemoveStun", "df/d2f/a20576.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
+    [ "PrepareAuraScript", "df/d2f/a20576.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
+    [ "Register", "df/d2f/a20576.html#a3166cfcd2acdcd4460217503d4008367", null ]
 ];

@@ -1,6 +1,6 @@
 var a04127 =
 [
-    [ "Socket< T >", "d7/de0/a28752.html", "d7/de0/a28752" ],
+    [ "Socket< T >", "d8/d0d/a28768.html", "d8/d0d/a28768" ],
     [ "READ_BLOCK_SIZE", "dd/d90/a04127.html#a16ba013af02b9d4400b5e47d8daa022b", null ],
     [ "ProxyHeaderAddressFamilyAndProtocol", "dd/d90/a04127.html#a7ddce6d0420753babeb6258ada50eec1", [
       [ "PROXY_HEADER_ADDRESS_FAMILY_AND_PROTOCOL_TCP_V4", "dd/d90/a04127.html#a7ddce6d0420753babeb6258ada50eec1a9d87d0a8da10465b32fd9a322c2a8575", null ],

@@ -1,5 +1,6 @@
 var a16816 =
 [
-    [ "boss_eydisAI", "da/d42/a16816.html#a0e97e184b2a2f610730cd3d455702955", null ],
-    [ "JustSummoned", "da/d42/a16816.html#aa5ae64cfe003a25859364a12cb871199", null ]
+    [ "boss_eydisAI", "d1/dfc/a16820.html", "d1/dfc/a16820" ],
+    [ "boss_eydis", "da/d42/a16816.html#aa555f80882499bc4627e622fbb48b2a4", null ],
+    [ "GetAI", "da/d42/a16816.html#ad49a673431c479fa2f5d9b6da42bbf55", null ]
 ];

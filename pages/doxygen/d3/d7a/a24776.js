@@ -1,9 +1,7 @@
 var a24776 =
 [
-    [ "CheckCast", "d3/d7a/a24776.html#ad68a099d3167534be3d9978d1fc2b4fe", null ],
-    [ "EntryCheck", "d3/d7a/a24776.html#a8e8578447aafeea4a62e028dbe6c7419", null ],
-    [ "HandleBaseDummy", "d3/d7a/a24776.html#a8534cc52f42f0598088bf8500dd5e0e5", null ],
-    [ "HandleDummy", "d3/d7a/a24776.html#a34d9f5699f306b27830ced2129be506c", null ],
-    [ "PrepareSpellScript", "d3/d7a/a24776.html#af7aff878540dd34138aa479f532611b6", null ],
-    [ "Register", "d3/d7a/a24776.html#a78321d1589e8d7f7fe8957a4939b6197", null ]
+    [ "CorpseExplosionCheck", "d3/d7a/a24776.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
+    [ "operator()", "d3/d7a/a24776.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
+    [ "_allowGhoul", "d3/d7a/a24776.html#abd42a0731af969ceccdfceae722ba276", null ],
+    [ "_casterGUID", "d3/d7a/a24776.html#a497df87745f452716c652e9b1be6d46f", null ]
 ];

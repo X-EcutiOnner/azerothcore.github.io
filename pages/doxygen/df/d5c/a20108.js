@@ -1,6 +1,6 @@
 var a20108 =
 [
-    [ "npc_pool_of_tarAI", "df/d5c/a20108.html#a6141addc9b1cf2c0028d98ef4f4d9d37", null ],
-    [ "DamageTaken", "df/d5c/a20108.html#a4ea55aa08123f724268238e0def5b595", null ],
-    [ "SpellHit", "df/d5c/a20108.html#acb63166b396c079d5b4bb9db67a1448a", null ]
+    [ "npc_thorims_hammerAI", "da/d80/a20112.html", "da/d80/a20112" ],
+    [ "npc_thorims_hammer", "df/d5c/a20108.html#a97cbcda73931e6119f8ab30fa4bb0806", null ],
+    [ "GetAI", "df/d5c/a20108.html#aaee92d115d112ebf590cf690de8c6667", null ]
 ];

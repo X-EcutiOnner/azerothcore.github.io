@@ -1,5 +1,7 @@
 var a25508 =
 [
-    [ "PrepareSpellScript", "d8/d7f/a25508.html#a5e100554f868649d4edea011fe767b8b", null ],
-    [ "Register", "d8/d7f/a25508.html#a0ffb1cb313060770227621edb16c3a0d", null ]
+    [ "OnPeriodic", "d8/d7f/a25508.html#a58f13f947b4daac98651f7fa46d7d674", null ],
+    [ "PrepareAuraScript", "d8/d7f/a25508.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
+    [ "Register", "d8/d7f/a25508.html#ad0c688255e340c428624de7071b5df56", null ],
+    [ "Validate", "d8/d7f/a25508.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
 ];

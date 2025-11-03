@@ -1,6 +1,7 @@
 var a24228 =
 [
-    [ "npc_ancestral_wolfAI", "d2/ddd/a24232.html", "d2/ddd/a24232" ],
-    [ "npc_ancestral_wolf", "d7/d18/a24228.html#a7cadf2848a086db63792f8068ee9463d", null ],
-    [ "GetAI", "d7/d18/a24228.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
+    [ "HandleEffect", "d7/d18/a24228.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
+    [ "PrepareSpellScript", "d7/d18/a24228.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
+    [ "Register", "d7/d18/a24228.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
+    [ "Validate", "d7/d18/a24228.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
 ];

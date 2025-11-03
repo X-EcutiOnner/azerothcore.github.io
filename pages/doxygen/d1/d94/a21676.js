@@ -1,6 +1,6 @@
 var a21676 =
 [
-    [ "HandleEffectPeriodic", "d1/d94/a21676.html#affa7fb949d4b1a05813df0da17fef3bb", null ],
-    [ "PrepareAuraScript", "d1/d94/a21676.html#a79dbb866c06cd1c031cae2f1370146d5", null ],
-    [ "Register", "d1/d94/a21676.html#a1fb46036f0860440f3a9201e0d86cdc4", null ]
+    [ "npc_azure_sorcerorAI", "df/d6f/a21680.html", "df/d6f/a21680" ],
+    [ "npc_azure_sorceror", "d1/d94/a21676.html#ab81ec144680a37312b0a5e0110365a1a", null ],
+    [ "GetAI", "d1/d94/a21676.html#a647ac2853586e380fdf0e0ffa43abaca", null ]
 ];

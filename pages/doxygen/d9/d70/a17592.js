@@ -1,6 +1,7 @@
 var a17592 =
 [
-    [ "FilterTargets", "d9/d70/a17592.html#a7abb4397b5fcf956bf31fa4dc9960ece", null ],
-    [ "PrepareSpellScript", "d9/d70/a17592.html#a8e9d81b34e05506569f4b910c1958de3", null ],
-    [ "Register", "d9/d70/a17592.html#aa80980c3f68abcb0fac7a41172f70012", null ]
+    [ "PeriodicTick", "d9/d70/a17592.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
+    [ "PrepareAuraScript", "d9/d70/a17592.html#ac1abcbe62887678adad0194fdf27825a", null ],
+    [ "Register", "d9/d70/a17592.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
+    [ "Validate", "d9/d70/a17592.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
 ];

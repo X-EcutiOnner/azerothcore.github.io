@@ -1,10 +1,12 @@
 var a27776 =
 [
-    [ "npc_training_dummyAI", "d1/dfd/a27776.html#a2f10fd0b4365e99446f728883a47eb6a", null ],
-    [ "DamageTaken", "d1/dfd/a27776.html#a641c40906a6365f068ccbdba9d033923", null ],
-    [ "EnterEvadeMode", "d1/dfd/a27776.html#adb1de124bdb2a986efcfcfc287b6d824", null ],
-    [ "MoveInLineOfSight", "d1/dfd/a27776.html#a52f3516e9da6895eeddcdef7a198a6b1", null ],
-    [ "Reset", "d1/dfd/a27776.html#af63f500cb3179964c90afab0d4a2c9b7", null ],
-    [ "UpdateAI", "d1/dfd/a27776.html#a5e7892a64cd1a5cf678b401b62497bfb", null ],
-    [ "resetTimer", "d1/dfd/a27776.html#a443f2f7de257af473d6e9793f34a2071", null ]
+    [ "npc_elder_clearwaterAI", "d1/dfd/a27776.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
+    [ "DoAction", "d1/dfd/a27776.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
+    [ "GetData", "d1/dfd/a27776.html#a077c02bf06b16439225a5cf8d83babf2", null ],
+    [ "UpdateAI", "d1/dfd/a27776.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
+    [ "events", "d1/dfd/a27776.html#a267fec22dc3d7272cae74267d0567618", null ],
+    [ "finished", "d1/dfd/a27776.html#af51d6abb8fc8b59d068156a4859a377e", null ],
+    [ "finishWarning", "d1/dfd/a27776.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
+    [ "preWarning", "d1/dfd/a27776.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
+    [ "startWarning", "d1/dfd/a27776.html#a01545211dec4338ac44304ebc7f18a97", null ]
 ];

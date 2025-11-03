@@ -1,6 +1,11 @@
 var a28508 =
 [
-    [ "ID", "dc/dde/a28508.html#a7d40e334785d96a2e57d28f87a59778a", null ],
-    [ "maxCount", "dc/dde/a28508.html#a5edc6442e026b12dae654fa86440a11a", null ],
-    [ "mode", "dc/dde/a28508.html#a76553ecf9f880a5e5967f818123742fd", null ]
+    [ "ClassID", "dc/dde/a28508.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
+    [ "DisplayInfoID", "dc/dde/a28508.html#a87657df2ad024245ccb2192303f76b7a", null ],
+    [ "ID", "dc/dde/a28508.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
+    [ "InventoryType", "dc/dde/a28508.html#a6dc33fc40a299b010c18a7009aff648b", null ],
+    [ "Material", "dc/dde/a28508.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
+    [ "SheatheType", "dc/dde/a28508.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
+    [ "SoundOverrideSubclassID", "dc/dde/a28508.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
+    [ "SubclassID", "dc/dde/a28508.html#ac39254716573e335caf312f635353a2e", null ]
 ];

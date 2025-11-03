@@ -1,6 +1,12 @@
 var a21560 =
 [
-    [ "boss_zuramatAI", "d7/d41/a21564.html", "d7/d41/a21564" ],
-    [ "boss_zuramat", "dc/d82/a21560.html#a1d169e786dcf846026b48d9be389f9ab", null ],
-    [ "GetAI", "dc/d82/a21560.html#a1008c053a2c9ad14cf9ce994db931670", null ]
+    [ "boss_moraggAI", "dc/d82/a21560.html#a3ae881c9adca20a2cb894af85297d53e", null ],
+    [ "EnterEvadeMode", "dc/d82/a21560.html#a4e70e42407f452c4685c732949fd2b52", null ],
+    [ "JustDied", "dc/d82/a21560.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
+    [ "JustEngagedWith", "dc/d82/a21560.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
+    [ "MoveInLineOfSight", "dc/d82/a21560.html#a52a99d72dfa017baacb76717e6db931b", null ],
+    [ "Reset", "dc/d82/a21560.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
+    [ "UpdateAI", "dc/d82/a21560.html#aec7645eaae190d1e7982aae181ff9224", null ],
+    [ "events", "dc/d82/a21560.html#acd021e4216e3920f0534da95d69ba5eb", null ],
+    [ "pInstance", "dc/d82/a21560.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
 ];

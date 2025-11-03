@@ -1,6 +1,8 @@
 var a23104 =
 [
-    [ "boss_essence_of_sufferingAI", "d0/da7/a23108.html", "d0/da7/a23108" ],
-    [ "boss_essence_of_suffering", "d6/d9d/a23104.html#a1237f428657f0e9a0218695264358384", null ],
-    [ "GetAI", "d6/d9d/a23104.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
+    [ "FilterTargets", "d6/d9d/a23104.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
+    [ "HandleDummy", "d6/d9d/a23104.html#ab89ab441f022ee017548ba49d128b92e", null ],
+    [ "PrepareSpellScript", "d6/d9d/a23104.html#aa8578390d7d9379328c02ceb209e94ed", null ],
+    [ "Register", "d6/d9d/a23104.html#a486387d707b7ad66ecb443ab2bb60778", null ],
+    [ "Validate", "d6/d9d/a23104.html#ad5d695978794d796eb7139fce1530d57", null ]
 ];

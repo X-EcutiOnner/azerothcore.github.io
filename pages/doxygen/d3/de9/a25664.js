@@ -1,9 +1,7 @@
 var a25664 =
 [
-    [ "CheckIfCorpseNear", "d3/de9/a25664.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
-    [ "HandleDummy", "d3/de9/a25664.html#a913c0137d2a13c810bbae869cc6cf734", null ],
-    [ "Load", "d3/de9/a25664.html#a3f36968d10bde12c7e2eda8db4145252", null ],
-    [ "PrepareSpellScript", "d3/de9/a25664.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
-    [ "Register", "d3/de9/a25664.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
-    [ "Validate", "d3/de9/a25664.html#a51b075f95211025b2a7719a3ee70a6be", null ]
+    [ "HandleDummy", "d3/de9/a25664.html#a4b23e39151d0bced8bb729435a56352d", null ],
+    [ "Load", "d3/de9/a25664.html#aaa341815d71652a13f3ca449af6ac14f", null ],
+    [ "PrepareSpellScript", "d3/de9/a25664.html#ac0e7d279312a59dd62d7d91eb3ef82b7", null ],
+    [ "Register", "d3/de9/a25664.html#a19a2247cebd2af38a1bd30af213ad633", null ]
 ];

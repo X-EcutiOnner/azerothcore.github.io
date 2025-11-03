@@ -1,8 +1,6 @@
 var a18768 =
 [
-    [ "FilterTargets", "d5/d63/a18768.html#aed8b741160cbf50dde84cf059c8b52cb", null ],
-    [ "HandleForceCast", "d5/d63/a18768.html#ae783cf255be823bf7c9125f288479e97", null ],
-    [ "Load", "d5/d63/a18768.html#ac8f92e9284abc56d55ecf3aa73d350f8", null ],
-    [ "PrepareSpellScript", "d5/d63/a18768.html#a68074978fe2c1b137c6ddfd7b9082bfc", null ],
-    [ "Register", "d5/d63/a18768.html#a454a8909be4bb85f255ea696041ea447", null ]
+    [ "PeriodicTick", "d5/d63/a18768.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
+    [ "PrepareAuraScript", "d5/d63/a18768.html#a0767ac60151517b803e871a0fcb25967", null ],
+    [ "Register", "d5/d63/a18768.html#afd1e28b224035aef5ac109f38d7e118d", null ]
 ];

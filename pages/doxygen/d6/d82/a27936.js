@@ -1,9 +1,7 @@
 var a27936 =
 [
-    [ "npc_herald_of_the_lich_king", "d6/d82/a27936.html#a62e373796ce4e6509692e6837cdb561f", null ],
-    [ "ChangeZoneEventStatus", "d6/d82/a27936.html#a30c44f2f62badd27b105a55527d40670", null ],
-    [ "DoAction", "d6/d82/a27936.html#a0ae389e7c2b5d380cb58df1cb9453f94", null ],
-    [ "InitializeAI", "d6/d82/a27936.html#a17e1ad9a9107a71697cd9816e5694e40", null ],
-    [ "UpdateAI", "d6/d82/a27936.html#a21a5093a46959f4b69777b63de12c557", null ],
-    [ "UpdateWeather", "d6/d82/a27936.html#a3c6d076171596c9ce472cddda18a42be", null ]
+    [ "npc_crashin_thrashin_robot", "d6/d82/a27936.html#ad21336d212498b1c9ef5d46979d147ab", null ],
+    [ "IsSummonedBy", "d6/d82/a27936.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
+    [ "UpdateAI", "d6/d82/a27936.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
+    [ "_scheduler", "d6/d82/a27936.html#a55778501d154d0a9e77f76054e926f85", null ]
 ];

@@ -1,6 +1,8 @@
 var a16188 =
 [
-    [ "boss_sartharion_shadronAI", "de/d8e/a16192.html", "de/d8e/a16192" ],
-    [ "boss_sartharion_shadron", "db/df8/a16188.html#ac297719abff8c795af10973492fc6fbe", null ],
-    [ "GetAI", "db/df8/a16188.html#a95c7184ee7589f01920adc57a7df963b", null ]
+    [ "boss_sartharion_shadronAI", "db/df8/a16188.html#a02e2e657ac74ab37a4568589511de664", null ],
+    [ "ExecuteEvent", "db/df8/a16188.html#a6a26f1f777988be6eaf8b1a675bbbabb", null ],
+    [ "HandleExtraEvent", "db/df8/a16188.html#a3db5e816f6253f9c4251690bfbbe1912", null ],
+    [ "Reset", "db/df8/a16188.html#a7054cde1de2166c2b06489187115cb3f", null ],
+    [ "SummonedCreatureDies", "db/df8/a16188.html#a8b70b3b7287108ad13caeb85a83cf26f", null ]
 ];

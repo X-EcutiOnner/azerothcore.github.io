@@ -1,6 +1,6 @@
 var a20908 =
 [
-    [ "npc_xt002_scrapbotAI", "df/dea/a20912.html", "df/dea/a20912" ],
-    [ "npc_xt002_scrapbot", "d1/d03/a20908.html#accfd75266d058af3856bdb625728c18d", null ],
-    [ "GetAI", "d1/d03/a20908.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
+    [ "boss_xt002AI", "df/dea/a20912.html", "df/dea/a20912" ],
+    [ "boss_xt002", "d1/d03/a20908.html#aebd7e513b3bef6a25ad0f9766d18174e", null ],
+    [ "GetAI", "d1/d03/a20908.html#a146e4a10da7d81213e7f63d6e86c79f2", null ]
 ];

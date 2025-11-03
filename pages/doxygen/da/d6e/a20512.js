@@ -1,7 +1,6 @@
 var a20512 =
 [
-    [ "HandleScript", "da/d6e/a20512.html#a760bb60198017605111d02af98c827b1", null ],
-    [ "PrepareSpellScript", "da/d6e/a20512.html#a6128956f1037b62fff2e6f10ec22d956", null ],
-    [ "Register", "da/d6e/a20512.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
-    [ "Validate", "da/d6e/a20512.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
+    [ "boss_ignisAI", "d7/ddf/a20516.html", "d7/ddf/a20516" ],
+    [ "boss_ignis", "da/d6e/a20512.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
+    [ "GetAI", "da/d6e/a20512.html#ac11ff148e9cbc985875f859268a3de01", null ]
 ];

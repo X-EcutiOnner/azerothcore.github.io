@@ -1,15 +1,6 @@
 var a23852 =
 [
-    [ "npc_shattered_hand_scout", "dc/dae/a23852.html#a51a57eaaad75817a9b5a81210e01ed51", null ],
-    [ "DamageTaken", "dc/dae/a23852.html#ad37c34ae2dee082f1b4eed90bc4a3618", null ],
-    [ "FireArrows", "dc/dae/a23852.html#aa3043011d7d9e7b7c5826b9afc7581d1", null ],
-    [ "GetPorung", "dc/dae/a23852.html#a575b12c40aeccd6d0cdd63f71a3b93d6", null ],
-    [ "MoveInLineOfSight", "dc/dae/a23852.html#a2ddb6fd6aa6221768ff71257f4bdd81b", null ],
-    [ "MovementInform", "dc/dae/a23852.html#a6f6198c2faf68823b1d4c8237044784b", null ],
-    [ "Reset", "dc/dae/a23852.html#a1fcf0da2cc4a0554f04b3624b68de598", null ],
-    [ "SetData", "dc/dae/a23852.html#a9416dd89c4728538971abc5975c7080f", null ],
-    [ "UpdateAI", "dc/dae/a23852.html#a91c2c7eca064d6eaafe5ecaeca4344b4", null ],
-    [ "_firstZealots", "dc/dae/a23852.html#a2b5fd63b01e4ecb96b006e3870b37609", null ],
-    [ "_scheduler", "dc/dae/a23852.html#a376f6eab11f8399493d5d33b5c4ea35a", null ],
-    [ "_zealotGUIDs", "dc/dae/a23852.html#a26381a05bb007fdb4b7da97a19a878da", null ]
+    [ "PrepareSpellScript", "dc/dae/a23852.html#a5b17110b189b7134939aea9dbf2d724b", null ],
+    [ "Register", "dc/dae/a23852.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
+    [ "SelectRandomPlayer", "dc/dae/a23852.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
 ];

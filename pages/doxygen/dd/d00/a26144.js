@@ -1,6 +1,6 @@
 var a26144 =
 [
-    [ "HandleOpenObject", "dd/d00/a26144.html#ab658c13615fac1861470bb4b853e76a4", null ],
-    [ "PrepareSpellScript", "dd/d00/a26144.html#a0fd0a3dc06fc2140add9e3d86e544bef", null ],
-    [ "Register", "dd/d00/a26144.html#a40ff1e10d366ca7183e4e8d027c92d1b", null ]
+    [ "PrepareSpellScript", "dd/d00/a26144.html#a738e105a48f6c603f3d9a690f44b8745", null ],
+    [ "Register", "dd/d00/a26144.html#a6bc9791d0f08440e19b89daa9b65892c", null ],
+    [ "SetDest", "dd/d00/a26144.html#a59641895cead08de4a4503262505ee73", null ]
 ];

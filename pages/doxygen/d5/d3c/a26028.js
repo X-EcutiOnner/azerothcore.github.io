@@ -1,6 +1,6 @@
 var a26028 =
 [
-    [ "HandleDummy", "d5/d3c/a26028.html#ab146c4026bc8ad129bb3d421891d344b", null ],
-    [ "PrepareSpellScript", "d5/d3c/a26028.html#aa9743f357b9800ab2990fb584011b0a6", null ],
-    [ "Register", "d5/d3c/a26028.html#a3ca7b1dd1187fd39e362b3451b246a4c", null ]
+    [ "CheckSinkholes", "d5/d3c/a26028.html#a5c363144cde9e809d97730f54873fe85", null ],
+    [ "PrepareSpellScript", "d5/d3c/a26028.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
+    [ "Register", "d5/d3c/a26028.html#a6694fbf58b776b74df0a54cd96141688", null ]
 ];

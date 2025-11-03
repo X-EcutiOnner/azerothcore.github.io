@@ -1,6 +1,6 @@
 var a26424 =
 [
-    [ "FilterTargets", "dd/d51/a26424.html#a81212064e51b7dfd148a1b18b69aafe0", null ],
-    [ "PrepareSpellScript", "dd/d51/a26424.html#a10d26377442d7a5d0c2986a65fcb57d6", null ],
-    [ "Register", "dd/d51/a26424.html#a4db02c58be57a797c26b07656d1b5409", null ]
+    [ "CheckCast", "dd/d51/a26424.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
+    [ "PrepareSpellScript", "dd/d51/a26424.html#a33e86d770e926247c58c00143b55c418", null ],
+    [ "Register", "dd/d51/a26424.html#a453c7fa25baf458c9a319053ca726621", null ]
 ];

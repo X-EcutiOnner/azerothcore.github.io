@@ -1,5 +1,6 @@
 var a27928 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "d3/df4/a27928.html#afaa929276f8b131005c9b94daa9a09f9", null ],
-    [ "OnPlayerCompleteQuest", "d3/df4/a27928.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
+    [ "npc_venomhide_hatchlingAI", "d3/df4/a27928.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "d3/df4/a27928.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "d3/df4/a27928.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

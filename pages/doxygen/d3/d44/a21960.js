@@ -1,6 +1,8 @@
 var a21960 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "d3/d44/a21960.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
-    [ "MovementInform", "d3/d44/a21960.html#a999bc868db485578fcc70ae7e056b778", null ],
-    [ "Reset", "d3/d44/a21960.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
+    [ "npc_future_youAI", "d3/d44/a21960.html#a7608c050dd198e3133050e222b42f62b", null ],
+    [ "EnterEvadeMode", "d3/d44/a21960.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
+    [ "MoveInLineOfSight", "d3/d44/a21960.html#a35b67f9e948f5ffbde8a423190ece603", null ],
+    [ "Reset", "d3/d44/a21960.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
+    [ "UpdateAI", "d3/d44/a21960.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
 ];

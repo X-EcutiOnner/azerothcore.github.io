@@ -1,5 +1,5 @@
 var a28584 =
 [
-    [ "id", "d4/d60/a28584.html#a4667f55651f20c85f5b3da9384bac078", null ],
-    [ "QuestRewFactionValue", "d4/d60/a28584.html#a9a42feddeef8e054cd52b72cfc812867", null ]
+    [ "Id", "d4/d60/a28584.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
+    [ "PowerType", "d4/d60/a28584.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
 ];

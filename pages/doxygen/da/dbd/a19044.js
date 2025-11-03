@@ -1,14 +1,13 @@
 var a19044 =
 [
-    [ "npc_icc_vengeful_fleshreaperAI", "da/dbd/a19044.html#a4a459289a55871990abc0adc4ba8278c", null ],
-    [ "AttackStart", "da/dbd/a19044.html#a3412c5664c1c1354b615e8f798824b91", null ],
-    [ "JustReachedHome", "da/dbd/a19044.html#a161fd53eca71cb0a3b8fb8d483b7e49b", null ],
-    [ "MoveInLineOfSight", "da/dbd/a19044.html#acfbaa73491940a916f8d0a0b852bcc61", null ],
-    [ "MovementInform", "da/dbd/a19044.html#ad14a1d8cfe749d54a801a3902aa49e1d", null ],
-    [ "Reset", "da/dbd/a19044.html#aa60d5d2d534aa6e9fe7c77703bab5fce", null ],
-    [ "UpdateAI", "da/dbd/a19044.html#a8946357cad01050641bcdf51edce192f", null ],
-    [ "currPipeWP", "da/dbd/a19044.html#af8a298ccbd6f22a0a4416ed6cb082e67", null ],
-    [ "events", "da/dbd/a19044.html#aa39171910383c74583f24663d6c23f3b", null ],
-    [ "forward", "da/dbd/a19044.html#a28eb6d3f007f45b9db4eafafe71b779c", null ],
-    [ "needMove", "da/dbd/a19044.html#ae08f9c54d08b0eae5ad71d69f06a6544", null ]
+    [ "npc_icc_spire_frostwyrm", "da/dbd/a19044.html#a8fdfc70108e3294e0fcc3c7ed895074e", null ],
+    [ "CanAIAttack", "da/dbd/a19044.html#ab3364130aacf675602317651a244ae2c", null ],
+    [ "DoAction", "da/dbd/a19044.html#a44edf33b25bdfce3b2bd3a8ec487fd9e", null ],
+    [ "JustEngagedWith", "da/dbd/a19044.html#abfc762cea6b7e40aaaff50b933410127", null ],
+    [ "JustReachedHome", "da/dbd/a19044.html#a144e8cafc020f5c43aae1fdc4a38a10d", null ],
+    [ "MovementInform", "da/dbd/a19044.html#a8e7f148580d91d42959e972ef18b271b", null ],
+    [ "Reset", "da/dbd/a19044.html#a572add30e78af15a8d5d6918169802da", null ],
+    [ "UpdateAI", "da/dbd/a19044.html#ad193a9355e11ea25792e6285d375a488", null ],
+    [ "_canResetFlyingEffects", "da/dbd/a19044.html#a262d843fcb13a444ae377729135ca14d", null ],
+    [ "_scheduler", "da/dbd/a19044.html#a822096df7b1803d92e05ca27d544bd26", null ]
 ];

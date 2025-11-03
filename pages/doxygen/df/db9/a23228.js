@@ -1,6 +1,7 @@
 var a23228 =
 [
-    [ "HandleSchoolDamage", "df/db9/a23228.html#ab105ff1efd0fe20585ac3dc6c60f81a2", null ],
-    [ "PrepareSpellScript", "df/db9/a23228.html#a0296aa3d00d0d12e213d95b8520c50dc", null ],
-    [ "Register", "df/db9/a23228.html#a4cd7135ff9e4ef605635f1eccc01ba65", null ]
+    [ "HandleEffectApply", "df/db9/a23228.html#aff0dbed165d0e751db725f7eaaf76a11", null ],
+    [ "Load", "df/db9/a23228.html#a1dfb5b2004041e7165cc9f5deb4b1e82", null ],
+    [ "PrepareAuraScript", "df/db9/a23228.html#a3dbd01e52ed2a630f0c014f941fc1b5e", null ],
+    [ "Register", "df/db9/a23228.html#a647f21e79e3fef72cf84439fc84e708f", null ]
 ];

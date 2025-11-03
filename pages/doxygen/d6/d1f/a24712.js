@@ -1,7 +1,6 @@
 var a24712 =
 [
-    [ "HandleProc", "d6/d1f/a24712.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
-    [ "PrepareAuraScript", "d6/d1f/a24712.html#a2840931b939b95e6a476c07f08ca66b5", null ],
-    [ "Register", "d6/d1f/a24712.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
-    [ "lastChargeUsedTime", "d6/d1f/a24712.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
+    [ "PrepareSpellScript", "d6/d1f/a24712.html#ad6190cf9ab80ebfd982c1b166d950656", null ],
+    [ "Register", "d6/d1f/a24712.html#a4b349a325759517c35d04202e5df9cec", null ],
+    [ "SetDest", "d6/d1f/a24712.html#a951f733ab2452655a3b579f8ed190fb0", null ]
 ];

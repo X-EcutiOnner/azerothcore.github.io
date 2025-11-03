@@ -1,12 +1,16 @@
 var a21444 =
 [
-    [ "boss_koralonAI", "dc/dd7/a21444.html#a3f5bc42a141011e543d1215eac09dc74", null ],
-    [ "AttackStart", "dc/dd7/a21444.html#aa84e6e9a302172e134163cd07ca57864", null ],
-    [ "JustDied", "dc/dd7/a21444.html#a102c10792d9e7df61d920b5a43f58e51", null ],
-    [ "JustEngagedWith", "dc/dd7/a21444.html#aa7503618dd09e0aebac44394595f4715", null ],
-    [ "Reset", "dc/dd7/a21444.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
-    [ "UpdateAI", "dc/dd7/a21444.html#aa944aad2eb68adc917cba743d1e530c7", null ],
-    [ "events", "dc/dd7/a21444.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
-    [ "pInstance", "dc/dd7/a21444.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
-    [ "rotateTimer", "dc/dd7/a21444.html#ad4b766094f28e940b0b7971d6dadc277", null ]
+    [ "boss_emalonAI", "dc/dd7/a21444.html#ac87b3ea34e9781f3843321ef874321fe", null ],
+    [ "AttackStart", "dc/dd7/a21444.html#ab08f49aabe76b623496da2fc0198a6c1", null ],
+    [ "JustDied", "dc/dd7/a21444.html#a79a05156b690140e955a6e850ac41e5b", null ],
+    [ "JustEngagedWith", "dc/dd7/a21444.html#a9a3b4e6df73586125c0369aa2d3666df", null ],
+    [ "JustSummoned", "dc/dd7/a21444.html#a895f302d336faa0c3f93854314d3b427", null ],
+    [ "Reset", "dc/dd7/a21444.html#ae5d33f728077d5bbc3b7d74db8015f5d", null ],
+    [ "ResetSummons", "dc/dd7/a21444.html#a7df4da85c40ba1c34063df9b2df5874b", null ],
+    [ "SpellHitTarget", "dc/dd7/a21444.html#a2c60642848b73bc00d1a8244d4fb4733", null ],
+    [ "SummonedCreatureDies", "dc/dd7/a21444.html#a25a18c4d110b407c5fcf09c14444e8b0", null ],
+    [ "UpdateAI", "dc/dd7/a21444.html#a4701d5a77b6ae7ce3432c81b7b6d14cf", null ],
+    [ "events", "dc/dd7/a21444.html#a78312371e28b4be3c072dc870370b577", null ],
+    [ "pInstance", "dc/dd7/a21444.html#af4cc6489905f9702999cc23fd6a920c2", null ],
+    [ "summons", "dc/dd7/a21444.html#a1b6ccd418114e57a0c843cc980a56243", null ]
 ];

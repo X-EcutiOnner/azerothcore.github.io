@@ -1,6 +1,6 @@
 var a17472 =
 [
-    [ "ShockVortexExplodeEvent", "df/dca/a17472.html#ad972aed372822e10a476d1592192f3ea", null ],
-    [ "Execute", "df/dca/a17472.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
-    [ "_owner", "df/dca/a17472.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
+    [ "StandUpEvent", "df/dca/a17472.html#a2f68b19898c65b9229159d9133b3d7cf", null ],
+    [ "Execute", "df/dca/a17472.html#a56bc1071300ff8f81e62839685e8f53a", null ],
+    [ "_owner", "df/dca/a17472.html#a456a494140657d81b203834f7b88d5d1", null ]
 ];

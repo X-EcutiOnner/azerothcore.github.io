@@ -1,7 +1,6 @@
 var a16472 =
 [
-    [ "HandleAfterEffectAbsorb", "da/d85/a16472.html#ab3d9f3679931b4b3b29713602d08701d", null ],
-    [ "PrepareAuraScript", "da/d85/a16472.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
-    [ "Register", "da/d85/a16472.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
-    [ "Validate", "da/d85/a16472.html#a87750183d2b2d6adb67bba4a1f767029", null ]
+    [ "boss_black_knightAI", "d9/dc9/a16476.html", "d9/dc9/a16476" ],
+    [ "boss_black_knight", "da/d85/a16472.html#af55a307f282a68bc83e45c6de647ebf4", null ],
+    [ "GetAI", "da/d85/a16472.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
 ];

@@ -1,6 +1,6 @@
 var a19772 =
 [
-    [ "boss_sjonnirAI", "da/d2a/a19776.html", "da/d2a/a19776" ],
-    [ "boss_sjonnir", "d9/df3/a19772.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "d9/df3/a19772.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "CalculateDamage", "d9/df3/a19772.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
+    [ "PrepareSpellScript", "d9/df3/a19772.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
+    [ "Register", "d9/df3/a19772.html#a02851f0b94687512a8e016bfb9b826e3", null ]
 ];

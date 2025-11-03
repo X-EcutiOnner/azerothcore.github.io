@@ -1,6 +1,7 @@
 var a21468 =
 [
-    [ "npc_frozen_orbAI", "d0/d69/a21472.html", "d0/d69/a21472" ],
-    [ "npc_frozen_orb", "db/d00/a21468.html#ac14966722e39b2b6b3a907756701ed98", null ],
-    [ "GetAI", "db/d00/a21468.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
+    [ "PrepareAuraScript", "db/d00/a21468.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
+    [ "Register", "db/d00/a21468.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
+    [ "TriggerFists", "db/d00/a21468.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
+    [ "Validate", "db/d00/a21468.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
 ];

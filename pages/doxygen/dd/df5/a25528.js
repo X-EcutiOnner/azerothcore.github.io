@@ -1,7 +1,7 @@
 var a25528 =
 [
-    [ "OnRemove", "dd/df5/a25528.html#ab6371347f0dc4ffc8bab6c75ca1cdf59", null ],
-    [ "PrepareAuraScript", "dd/df5/a25528.html#ac2b1a2311f97ab427439b45fb0770063", null ],
-    [ "Register", "dd/df5/a25528.html#a39e4914aa01769e14f61e2369ad8eda5", null ],
-    [ "Validate", "dd/df5/a25528.html#a71e47e70fd18affe1bd563f68fcb2efe", null ]
+    [ "HandleScript", "dd/df5/a25528.html#a27e2575e538732ac76add53f2f8f6832", null ],
+    [ "PrepareSpellScript", "dd/df5/a25528.html#ad7c98be6cca23fb1484a6b77bcc7bc9d", null ],
+    [ "Register", "dd/df5/a25528.html#a4ee74f6d8a61a8ba38ece33176c18f84", null ],
+    [ "Validate", "dd/df5/a25528.html#aef9eef1819652e0fce1cd4b3ba9c387c", null ]
 ];

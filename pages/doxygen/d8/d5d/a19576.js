@@ -1,13 +1,8 @@
 var a19576 =
 [
-    [ "npc_crystalline_frayer", "d8/d5d/a19576.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
-    [ "DamageTaken", "d8/d5d/a19576.html#a2580575a58353e8cb94561bafd74f502", null ],
-    [ "EnterEvadeMode", "d8/d5d/a19576.html#a9240adcfe966f11c925db82add432aa5", null ],
-    [ "JustEngagedWith", "d8/d5d/a19576.html#a91e8c4015b9b238fd2144999bcef9362", null ],
-    [ "Reset", "d8/d5d/a19576.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
-    [ "UpdateAI", "d8/d5d/a19576.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
-    [ "_allowDeath", "d8/d5d/a19576.html#adc85054030146067d2cff47db2886a07", null ],
-    [ "abilityTimer1", "d8/d5d/a19576.html#ae4a140cd9fccecea24982d7aa90c6bf0", null ],
-    [ "abilityTimer2", "d8/d5d/a19576.html#a6d2bf3e1cc05860eb6a7706102438f32", null ],
-    [ "restoreTimer", "d8/d5d/a19576.html#a5ab2990b41f485417af6272194035fc3", null ]
+    [ "npc_crystal_spike", "d8/d5d/a19576.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
+    [ "Reset", "d8/d5d/a19576.html#a8cdca606ce482147d87ad5248665099e", null ],
+    [ "UpdateAI", "d8/d5d/a19576.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
+    [ "_damageTimer", "d8/d5d/a19576.html#a36c70729a0c0281d467f870bfcde80ae", null ],
+    [ "_gameObjectGUID", "d8/d5d/a19576.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
 ];

@@ -1,5 +1,6 @@
 var a16096 =
 [
-    [ "PrepareAuraScript", "d1/d43/a16096.html#a94b3a8e0a610afa69c3a9771f8f22b13", null ],
-    [ "Register", "d1/d43/a16096.html#a1203cbec26f64aa97d10783b567c2d62", null ]
+    [ "HandleApplyAura", "d1/d43/a16096.html#aeddfd61eab5aa077ca07a924ec491285", null ],
+    [ "PrepareSpellScript", "d1/d43/a16096.html#ad53341842455d98722c03318dd80fb94", null ],
+    [ "Register", "d1/d43/a16096.html#a10cb03ba6175f48b0ccaf69ec90e8f50", null ]
 ];

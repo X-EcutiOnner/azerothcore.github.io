@@ -1,6 +1,6 @@
 var a18864 =
 [
-    [ "npc_captain_grondelAI", "df/d4f/a18864.html#afbc971fc03584b87229318309d51a2f5", null ],
-    [ "Reset", "df/d4f/a18864.html#a7d3878822e77fba66891e87e23bd3740", null ],
-    [ "UpdateAI", "df/d4f/a18864.html#a4af8548092b49653805224bd4c0ac0a2", null ]
+    [ "npc_captain_brandonAI", "df/d4f/a18864.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
+    [ "Reset", "df/d4f/a18864.html#a13226b321707eee9faf5f073c81403e4", null ],
+    [ "UpdateAI", "df/d4f/a18864.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
 ];

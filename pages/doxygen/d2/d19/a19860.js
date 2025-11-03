@@ -1,6 +1,6 @@
 var a19860 =
 [
-    [ "boss_algalon_the_observerAI", "db/d62/a19864.html", "db/d62/a19864" ],
-    [ "boss_algalon_the_observer", "d2/d19/a19860.html#a0691b47a116401da58b246203ecba2cb", null ],
-    [ "GetAI", "d2/d19/a19860.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "db/d62/a19864.html", "db/d62/a19864" ],
+    [ "instance_halls_of_stone", "d2/d19/a19860.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "d2/d19/a19860.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

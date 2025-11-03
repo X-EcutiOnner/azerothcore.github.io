@@ -1,6 +1,7 @@
 var a24120 =
 [
-    [ "HandleAfterRemove", "d3/d81/a24120.html#ac9756a8f206c114ff6443331ca266184", null ],
-    [ "PrepareAuraScript", "d3/d81/a24120.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
-    [ "Register", "d3/d81/a24120.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
+    [ "boss_gatewatcher_gyrokill", "d3/d81/a24120.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
+    [ "JustDied", "d3/d81/a24120.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
+    [ "JustEngagedWith", "d3/d81/a24120.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
+    [ "KilledUnit", "d3/d81/a24120.html#a274355d0303d9bf5761758f175826bd1", null ]
 ];

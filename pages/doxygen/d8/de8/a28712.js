@@ -1,9 +1,13 @@
 var a28712 =
 [
-    [ "TimeSeg", "d8/de8/a28712.html#a16782e722a5bada41691841fe594b7a6", null ],
-    [ "TransportEntry", "d8/de8/a28712.html#afcdb94a38d68d2ff8af225dc599db8a4", null ],
-    [ "W", "d8/de8/a28712.html#a4158a2babefbf4e148a64fe16bf113f6", null ],
-    [ "X", "d8/de8/a28712.html#a9c7cb1fd0463d1158d971db6f15431ff", null ],
-    [ "Y", "d8/de8/a28712.html#a7f0ff898e752e2e904ebee1412643df6", null ],
-    [ "Z", "d8/de8/a28712.html#a87647d71a965e80154ca36dc05421585", null ]
+    [ "actionFlag", "d8/de8/a28712.html#a6257ae486eff937cf12be64f0e850ca6", null ],
+    [ "arrivalEventID", "d8/de8/a28712.html#a1ffe17f529066091b18451a1121ce6ac", null ],
+    [ "delay", "d8/de8/a28712.html#aef005db912b0a57ecc5d62c66d838826", null ],
+    [ "departureEventID", "d8/de8/a28712.html#a670a033aaf0ff48676373baf9235d670", null ],
+    [ "index", "d8/de8/a28712.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
+    [ "mapid", "d8/de8/a28712.html#aa2c6fb8a785e297c72384043698dd401", null ],
+    [ "path", "d8/de8/a28712.html#aa0692acbae0d4639c89ece77265d7858", null ],
+    [ "x", "d8/de8/a28712.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
+    [ "y", "d8/de8/a28712.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
+    [ "z", "d8/de8/a28712.html#af48d85940d7f204091e8438427a72e2d", null ]
 ];

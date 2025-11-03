@@ -1,10 +1,10 @@
 var a27704 =
 [
-    [ "go_evil_book_for_dummies", "d3/d0b/a27704.html#a69f599910bce0070c6b1af547c459b72", null ],
-    [ "HasLeatherSpecialty", "d3/d0b/a27704.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
-    [ "OnGossipHello", "d3/d0b/a27704.html#aeb29351e2faf135298419488eb16cc7e", null ],
-    [ "OnGossipSelect", "d3/d0b/a27704.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
-    [ "SendActionMenu", "d3/d0b/a27704.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
-    [ "SendConfirmLearn", "d3/d0b/a27704.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
-    [ "SendConfirmUnlearn", "d3/d0b/a27704.html#af9c10b0423327d8644020e8f5e26a603", null ]
+    [ "npc_prof_blacksmith", "d3/d0b/a27704.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
+    [ "HasWeaponSub", "d3/d0b/a27704.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
+    [ "OnGossipHello", "d3/d0b/a27704.html#a9a432c1ec33578949110c877fc6a686d", null ],
+    [ "OnGossipSelect", "d3/d0b/a27704.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
+    [ "SendActionMenu", "d3/d0b/a27704.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
+    [ "SendConfirmLearn", "d3/d0b/a27704.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
+    [ "SendConfirmUnlearn", "d3/d0b/a27704.html#a851dc241d944bc888a00df85bff17e3a", null ]
 ];

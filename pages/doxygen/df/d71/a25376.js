@@ -1,8 +1,7 @@
 var a25376 =
 [
-    [ "CheckCast", "df/d71/a25376.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
-    [ "HandleScript", "df/d71/a25376.html#a2c1702398e4cbdcc106679d534a27743", null ],
-    [ "PrepareSpellScript", "df/d71/a25376.html#a613bdf7841744632c1e6de147e0352b9", null ],
-    [ "Register", "df/d71/a25376.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
-    [ "Validate", "df/d71/a25376.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
+    [ "HandleApplyEffect", "df/d71/a25376.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
+    [ "Load", "df/d71/a25376.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
+    [ "PrepareAuraScript", "df/d71/a25376.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
+    [ "Register", "df/d71/a25376.html#aed57fbbf473b8f15fa177261e4678e96", null ]
 ];

@@ -1,5 +1,5 @@
 var a27292 =
 [
-    [ "achievement_tilted", "df/dde/a27292.html#a868d7b8a437434d6dc34b5000c429e66", null ],
-    [ "OnCheck", "df/dde/a27292.html#a61d3eb78450383485699532d96f79d93", null ]
+    [ "achievement_sickly_gazelle", "df/dde/a27292.html#abb613cb222c727923c4c5ce843db3a5f", null ],
+    [ "OnCheck", "df/dde/a27292.html#a5a4fcd30c92c10a9c0fb8fc1372f3857", null ]
 ];

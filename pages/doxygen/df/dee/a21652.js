@@ -1,6 +1,6 @@
 var a21652 =
 [
-    [ "npc_azure_captainAI", "d7/d49/a21656.html", "d7/d49/a21656" ],
-    [ "npc_azure_captain", "df/dee/a21652.html#aeced2dbbfb23c161fd2bbc22859886a4", null ],
-    [ "GetAI", "df/dee/a21652.html#a0d1bd80fc38c61e05d3f31ffe587350f", null ]
+    [ "npc_azure_stalkerAI", "d7/d49/a21656.html", "d7/d49/a21656" ],
+    [ "npc_azure_stalker", "df/dee/a21652.html#ad069edc43b4f489e0b2c7aa4952eeb63", null ],
+    [ "GetAI", "df/dee/a21652.html#a1c067809f98a4d7845d2fb4269742274", null ]
 ];

@@ -1,8 +1,10 @@
 var a28392 =
 [
-    [ "DamagedDisplayId", "d0/d27/a28392.html#a84d606d69c51f5e1fdecf9bc0f5705be", null ],
-    [ "DestroyedDisplayId", "d0/d27/a28392.html#afc891df0c9491a34f784e8f141434be5", null ],
-    [ "Id", "d0/d27/a28392.html#a65d7e0933cb53864413781cdeb56b6c2", null ],
-    [ "RebuildingDisplayId", "d0/d27/a28392.html#aa4e1e6be7b5b1d15872fb310c1c299af", null ],
-    [ "SmokeDisplayId", "d0/d27/a28392.html#a1a06c3e04bc2bb7d5bc29592d40b9239", null ]
+    [ "HasFlag", "d0/d27/a28392.html#abe23ca5437589a38ea57bc93a6197911", null ],
+    [ "CollisionHeight", "d0/d27/a28392.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
+    [ "CollisionWidth", "d0/d27/a28392.html#ab79497759cf169348b8922301fc43b2f", null ],
+    [ "Flags", "d0/d27/a28392.html#a3bb96e232124771e78f8b5db53405106", null ],
+    [ "Id", "d0/d27/a28392.html#aa19fec147703c7542be260c8ec5a0446", null ],
+    [ "MountHeight", "d0/d27/a28392.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
+    [ "Scale", "d0/d27/a28392.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
 ];

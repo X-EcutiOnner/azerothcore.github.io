@@ -1,6 +1,7 @@
 var a18096 =
 [
-    [ "FilterTargets", "da/d3f/a18096.html#ac2396cbd000a8d58ff22dbb08c81dfb4", null ],
-    [ "PrepareSpellScript", "da/d3f/a18096.html#abcdfe528430e299c2eb64b24f7ff8eb0", null ],
-    [ "Register", "da/d3f/a18096.html#a32e04a1110d651701b8eab1648c69a57", null ]
+    [ "HandleTriggerSpell", "da/d3f/a18096.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "da/d3f/a18096.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "da/d3f/a18096.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "da/d3f/a18096.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

@@ -1,6 +1,5 @@
 var a19512 =
 [
-    [ "instance_eye_of_eternity_InstanceMapScript", "df/d94/a19516.html", "df/d94/a19516" ],
-    [ "instance_eye_of_eternity", "d4/d2d/a19512.html#afcab4ba969d0423871a4e398627a323d", null ],
-    [ "GetInstanceScript", "d4/d2d/a19512.html#af51319609d355fe87a77a87eb697f434", null ]
+    [ "go_the_focusing_iris", "d4/d2d/a19512.html#a9c2fa1e739ff98ebdd9b9fdcc2ab5ece", null ],
+    [ "OnGossipHello", "d4/d2d/a19512.html#a7f3f1170713d63f912ca5732453a7e33", null ]
 ];

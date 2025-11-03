@@ -1,9 +1,9 @@
 var a17740 =
 [
-    [ "BattleExperienceEvent", "d0/dcd/a17740.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
-    [ "Execute", "d0/dcd/a17740.html#a3971962ec90f682baeae96fe6098fa97", null ],
-    [ "_creature", "d0/dcd/a17740.html#a0155536d5c2be329a1f3b57c4d852098", null ],
-    [ "_level", "d0/dcd/a17740.html#a22f0d7e59f579362be4576180d0977b8", null ],
-    [ "ExperiencedSpells", "d0/dcd/a17740.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
-    [ "ExperiencedTimes", "d0/dcd/a17740.html#af682cc246c7fdae39cc2a1e57110badc", null ]
+    [ "npc_stinky_iccAI", "d0/dcd/a17740.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
+    [ "JustDied", "d0/dcd/a17740.html#a7fa392980e2d30c935b79377df8dc694", null ],
+    [ "JustEngagedWith", "d0/dcd/a17740.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
+    [ "Reset", "d0/dcd/a17740.html#ac66e3398598576fdc889a7b56646eecf", null ],
+    [ "UpdateAI", "d0/dcd/a17740.html#af6e04824ea1682c529e8579a306d34ca", null ],
+    [ "events", "d0/dcd/a17740.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
 ];

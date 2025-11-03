@@ -1,6 +1,7 @@
 var a19816 =
 [
-    [ "dark_rune_protectorsAI", "d2/d39/a19820.html", "d2/d39/a19820" ],
-    [ "dark_rune_protectors", "d7/d6b/a19816.html#a14225a2369a8deea416fc640a2d7b075", null ],
-    [ "GetAI", "d7/d6b/a19816.html#a359e4049b7ec828177d9a36d23e9b4ef", null ]
+    [ "creature", "d7/d6b/a19816.html#a55a6ee677ab51120867f542e5a5745b0", null ],
+    [ "sound", "d7/d6b/a19816.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
+    [ "text", "d7/d6b/a19816.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
+    [ "timer", "d7/d6b/a19816.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
 ];

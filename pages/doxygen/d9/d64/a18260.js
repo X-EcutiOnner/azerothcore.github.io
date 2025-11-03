@@ -1,10 +1,6 @@
 var a18260 =
 [
-    [ "CountTargets", "d9/d64/a18260.html#a042c3f2ee73533b397a2d697d1da6563", null ],
-    [ "HandleDummy", "d9/d64/a18260.html#ab314680d5349c0c3e449694b92ab7311", null ],
-    [ "Load", "d9/d64/a18260.html#a534e9f5ee9aa29603cfc205c2c2d580f", null ],
-    [ "PrepareSpellScript", "d9/d64/a18260.html#a8b831c01cd9fd997279f6a81170786de", null ],
-    [ "Register", "d9/d64/a18260.html#ab0d87ba23eb252075cb0779b06813a31", null ],
-    [ "SelectDest", "d9/d64/a18260.html#a6061486d0067af51c8ef079224ea63f1", null ],
-    [ "_targetCount", "d9/d64/a18260.html#a58f839370a885c450e6742cbb3116784", null ]
+    [ "npc_ice_tombAI", "df/dfa/a18264.html", "df/dfa/a18264" ],
+    [ "npc_ice_tomb", "d9/d64/a18260.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
+    [ "GetAI", "d9/d64/a18260.html#ac99b7c9887e54a1764310bd3e079811a", null ]
 ];

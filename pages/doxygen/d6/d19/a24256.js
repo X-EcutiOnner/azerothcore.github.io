@@ -1,6 +1,9 @@
 var a24256 =
 [
-    [ "go_beaconAI", "d2/df8/a24260.html", "d2/df8/a24260" ],
-    [ "go_beacon", "d6/d19/a24256.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
-    [ "GetAI", "d6/d19/a24256.html#abd168f0c1ac9a64cece280758f3120d4", null ]
+    [ "npc_wounded_blood_elfAI", "d6/d19/a24256.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "d6/d19/a24256.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "d6/d19/a24256.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "d6/d19/a24256.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "d6/d19/a24256.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "d6/d19/a24256.html#a5affcb00e28a582f8926ab2226001cd0", null ]
 ];

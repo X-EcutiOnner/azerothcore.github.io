@@ -1,7 +1,6 @@
 var a27856 =
 [
-    [ "npc_steam_tonkAI", "d3/dd1/a27856.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "d3/dd1/a27856.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "d3/dd1/a27856.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "d3/dd1/a27856.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "npc_guardianAI", "d1/dbd/a27860.html", "d1/dbd/a27860" ],
+    [ "npc_guardian", "d3/dd1/a27856.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
+    [ "GetAI", "d3/dd1/a27856.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
 ];

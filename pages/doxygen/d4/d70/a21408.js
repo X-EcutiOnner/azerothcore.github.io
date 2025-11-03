@@ -1,8 +1,6 @@
 var a21408 =
 [
-    [ "CheckProc", "d4/d70/a21408.html#ac955cc78dd3206816906dd06b3e006f6", null ],
-    [ "HandleProc", "d4/d70/a21408.html#a966d23cc5714fe35d80b2964dddda536", null ],
-    [ "PrepareAuraScript", "d4/d70/a21408.html#a5c8464dcf2f8b62a624f38dec2f4a0a5", null ],
-    [ "Register", "d4/d70/a21408.html#a3e7479f97e4105f2c12536d9c66284aa", null ],
-    [ "Validate", "d4/d70/a21408.html#a5d8e764dafd26548af8588593bf27990", null ]
+    [ "boss_ymironAI", "d7/d7c/a21412.html", "d7/d7c/a21412" ],
+    [ "boss_ymiron", "d4/d70/a21408.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
+    [ "GetAI", "d4/d70/a21408.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
 ];

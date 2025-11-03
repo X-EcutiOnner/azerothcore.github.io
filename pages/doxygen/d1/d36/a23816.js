@@ -1,5 +1,8 @@
 var a23816 =
 [
-    [ "go_manticron_cube", "d1/d36/a23816.html#a87d9571aea57f16d38067ebd9e22200d", null ],
-    [ "OnGossipHello", "d1/d36/a23816.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
+    [ "HandleDummyApply", "d1/d36/a23816.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
+    [ "HandleDummyRemove", "d1/d36/a23816.html#a368376fe4262815b9b9a9811178cec6d", null ],
+    [ "HandlePeriodicRemove", "d1/d36/a23816.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
+    [ "PrepareAuraScript", "d1/d36/a23816.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
+    [ "Register", "d1/d36/a23816.html#afeb47a40cfea3d958fee7a410e83857f", null ]
 ];

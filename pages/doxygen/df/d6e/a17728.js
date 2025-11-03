@@ -1,6 +1,7 @@
 var a17728 =
 [
-    [ "npc_stinky_iccAI", "d8/d93/a17732.html", "d8/d93/a17732" ],
-    [ "npc_stinky_icc", "df/d6e/a17728.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
-    [ "GetAI", "df/d6e/a17728.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
+    [ "HandleScript", "df/d6e/a17728.html#a276018baa590b942d90c457faea10040", null ],
+    [ "PrepareSpellScript", "df/d6e/a17728.html#a0bdef74dbd65d938eb5eac32f6612fe1", null ],
+    [ "Register", "df/d6e/a17728.html#a7afc131b5dd31ec6b225fdd38f0edf34", null ],
+    [ "Validate", "df/d6e/a17728.html#a4d16e1aec2b24cd70366308f25619cf2", null ]
 ];

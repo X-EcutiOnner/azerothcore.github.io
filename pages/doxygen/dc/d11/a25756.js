@@ -1,7 +1,9 @@
 var a25756 =
 [
-    [ "HandleScriptEffect", "dc/d11/a25756.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
-    [ "PrepareSpellScript", "dc/d11/a25756.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
-    [ "Register", "dc/d11/a25756.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
-    [ "SelectTarget", "dc/d11/a25756.html#a6a59b7ce696f959b2026cf8088079e89", null ]
+    [ "getMountSpellId", "dc/d11/a25756.html#afe306ed6057050baf342ee717723764d", null ],
+    [ "OnApply", "dc/d11/a25756.html#aa8bee986d413be60d00ac1d2111ef719", null ],
+    [ "OnRemove", "dc/d11/a25756.html#a162d466a1dcd2cb710abf12c06f7c2de", null ],
+    [ "PrepareAuraScript", "dc/d11/a25756.html#a7070cc7aeec4a88fbde960cebf1aef56", null ],
+    [ "Register", "dc/d11/a25756.html#a481e5295da3d789d9b3c1ed30fdaf0bd", null ],
+    [ "Validate", "dc/d11/a25756.html#a6868f6e88c9179efd921b266c83f6daf", null ]
 ];

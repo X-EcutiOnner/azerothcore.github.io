@@ -1,6 +1,6 @@
 var a26872 =
 [
-    [ "HandleAfterCast", "d4/d91/a26872.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "d4/d91/a26872.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "d4/d91/a26872.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "HandleRemove", "d4/d91/a26872.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
+    [ "PrepareAuraScript", "d4/d91/a26872.html#a132193c0c13a2f89b9b29391d524023a", null ],
+    [ "Register", "d4/d91/a26872.html#a246294a7b9a128a9ec464562846332fc", null ]
 ];

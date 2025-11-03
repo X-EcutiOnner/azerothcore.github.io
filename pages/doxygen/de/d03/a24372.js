@@ -1,14 +1,11 @@
 var a24372 =
 [
-    [ "npc_mature_netherwing_drakeAI", "de/d03/a24372.html#a32281f8dfa1c8af8fe6bcac2a8be4220", null ],
-    [ "JustReachedHome", "de/d03/a24372.html#a0de69b5fda6342217697ad264d64d4e6", null ],
-    [ "MovementInform", "de/d03/a24372.html#a456b5de60672120f82506d177faf6b47", null ],
-    [ "Reset", "de/d03/a24372.html#a72eb39e259aed0ab230d4d43722cba13", null ],
-    [ "SpellHit", "de/d03/a24372.html#a749690b386c0c726d11b77bc705b9b01", null ],
-    [ "UpdateAI", "de/d03/a24372.html#a624c256f29d3cefed0bb909da3841853", null ],
-    [ "bCanEat", "de/d03/a24372.html#ad4c671be4f16f23ddf2f2f84b0bd4c94", null ],
-    [ "bIsEating", "de/d03/a24372.html#a0519438fda724a06a0c6f8ed2d7d533d", null ],
-    [ "CastTimer", "de/d03/a24372.html#a630312f70a2f22683311a66e5a4f9ec6", null ],
-    [ "EatTimer", "de/d03/a24372.html#aa50d3a21103dc769d162b1c917100630", null ],
-    [ "uiPlayerGUID", "de/d03/a24372.html#a6b9a435245ddce156d0657aa9e35175b", null ]
+    [ "npc_invis_infernal_casterAI", "de/d03/a24372.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
+    [ "Reset", "de/d03/a24372.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
+    [ "SetData", "de/d03/a24372.html#aee88dc141757384f96da969fcdc20671", null ],
+    [ "SummonInfernal", "de/d03/a24372.html#a78d53d09e5544b3fe8301da4415d297b", null ],
+    [ "UpdateAI", "de/d03/a24372.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
+    [ "events", "de/d03/a24372.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
+    [ "ground", "de/d03/a24372.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
+    [ "infernalGUID", "de/d03/a24372.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
 ];

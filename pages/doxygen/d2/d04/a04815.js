@@ -5,7 +5,7 @@ var a04815 =
     [ "StringConvertImpl", "d2/d68/a04825.html", "d2/d68/a04825" ],
     [ "CastToVisitor", "dc/d65/a07756.html", "dc/d65/a07756" ],
     [ "CryptoGenericsImpl", "d4/d61/a05212.html", "d4/d61/a05212" ],
-    [ "CurrentServerProcessHolder", "d2/d01/a28808.html", "d2/d01/a28808" ],
+    [ "CurrentServerProcessHolder", "de/d95/a28824.html", "de/d95/a28824" ],
     [ "GenericBaseEncoding", "d4/d93/a05376.html", "d4/d93/a05376" ],
     [ "GenericHash", "dd/d2d/a05220.html", "dd/d2d/a05220" ],
     [ "GenericHashImpl", "df/d2e/a05216.html", "df/d2e/a05216" ],

@@ -1,7 +1,9 @@
 var a28536 =
 [
-    [ "ID", "de/d77/a28536.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
-    [ "Index", "de/d77/a28536.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
-    [ "Skill", "de/d77/a28536.html#aed5e58cf605d3c28cd0d26015722be03", null ],
-    [ "Type", "de/d77/a28536.html#a39b0b548efd795c162926bddcdd301b5", null ]
+    [ "itemId", "de/d77/a28536.html#ae125712e5569c9699b4748b6a15fbc12", null ],
+    [ "items_to_triggerspell", "de/d77/a28536.html#a8496a2f3fa3e230def04b996fc585760", null ],
+    [ "name", "de/d77/a28536.html#a9b62f843833d524f200782d44151503d", null ],
+    [ "required_skill_id", "de/d77/a28536.html#ab3058ac725fb8f105b9359d5a5147942", null ],
+    [ "required_skill_value", "de/d77/a28536.html#a58d0997a73cf48061545edbc0201f544", null ],
+    [ "spells", "de/d77/a28536.html#a8aac032992efe1bfbba0e49693562c7f", null ]
 ];

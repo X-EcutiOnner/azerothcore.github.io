@@ -1,6 +1,6 @@
 var a20308 =
 [
-    [ "npc_ulduar_saronite_vaporsAI", "df/dab/a20312.html", "df/dab/a20312" ],
-    [ "npc_ulduar_saronite_vapors", "da/d79/a20308.html#a567c3aca8c381167ca278c2c3562e6f6", null ],
-    [ "GetAI", "da/d79/a20308.html#a3c2e7b6263f8935da9291c736b14d139", null ]
+    [ "achievement_freya_knock_on_wood", "da/d79/a20308.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "da/d79/a20308.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "da/d79/a20308.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

@@ -1,6 +1,10 @@
 var a19644 =
 [
-    [ "npc_centrifuge_constructAI", "de/dab/a19648.html", "de/dab/a19648" ],
-    [ "npc_centrifuge_construct", "d7/dd6/a19644.html#a3822eca10ab4a96126e0b4685751f4d3", null ],
-    [ "GetAI", "d7/dd6/a19644.html#a7356047de8a6d7bc6e903e982db2bc00", null ]
+    [ "npc_oculus_drakegiverAI", "d7/dd6/a19644.html#a4bba380256a0ede70b8d90611249b444", null ],
+    [ "MovementInform", "d7/dd6/a19644.html#adc86ecd4ed7b4b7b42968a0e09fa29a0", null ],
+    [ "UpdateAI", "d7/dd6/a19644.html#a652a8c364687d51de62356964f6f33f9", null ],
+    [ "m_pInstance", "d7/dd6/a19644.html#a04e43a623d16b4cf8d80552d649d90ca", null ],
+    [ "moved", "d7/dd6/a19644.html#a069e202a84d99cd757862bd1a43b5562", null ],
+    [ "resetPosition", "d7/dd6/a19644.html#a8ef6c480846d08d8a6225a7124320cbf", null ],
+    [ "timer", "d7/dd6/a19644.html#a461b45ab959e71699cf1543ecbcbd91f", null ]
 ];

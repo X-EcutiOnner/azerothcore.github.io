@@ -1,6 +1,6 @@
 var a21516 =
 [
-    [ "boss_ichoronAI", "d8/d68/a21520.html", "d8/d68/a21520" ],
-    [ "boss_ichoron", "df/de2/a21516.html#ad4390da77a130edaf050d0bef3926882", null ],
-    [ "GetAI", "df/de2/a21516.html#a68051088dc2d2c738b042e2df0436b28", null ]
+    [ "boss_erekemAI", "d8/d68/a21520.html", "d8/d68/a21520" ],
+    [ "boss_erekem", "df/de2/a21516.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
+    [ "GetAI", "df/de2/a21516.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
 ];

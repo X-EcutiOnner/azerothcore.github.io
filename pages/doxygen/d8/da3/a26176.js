@@ -1,6 +1,6 @@
 var a26176 =
 [
-    [ "OnPeriodic", "d8/da3/a26176.html#a3368e8fad4a5ecd242056da38ad8f23a", null ],
-    [ "PrepareAuraScript", "d8/da3/a26176.html#ad3d091510685ebc2d87aadb658cacf58", null ],
-    [ "Register", "d8/da3/a26176.html#a9552ba0f4c18623b6b00ababa034942c", null ]
+    [ "PrepareSpellScript", "d8/da3/a26176.html#a7099b8d28128cfea49288792ea02606c", null ],
+    [ "Register", "d8/da3/a26176.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
+    [ "UpdateTarget", "d8/da3/a26176.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
 ];

@@ -1,6 +1,13 @@
 var a27852 =
 [
-    [ "npc_steam_tonkAI", "d3/dd1/a27856.html", "d3/dd1/a27856" ],
-    [ "npc_steam_tonk", "d2/d94/a27852.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
-    [ "GetAI", "d2/d94/a27852.html#a38e51485a3610a204a45677fce15c943", null ]
+    [ "npc_garments_of_questsAI", "d2/d94/a27852.html#a079f719ca488ed6fde2783b5db4f328b", null ],
+    [ "JustEngagedWith", "d2/d94/a27852.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
+    [ "Reset", "d2/d94/a27852.html#aaaaa3e41deae0057bd659be5c579d226", null ],
+    [ "SpellHit", "d2/d94/a27852.html#ad22195dba70ced744b319bc1ad83c083", null ],
+    [ "UpdateAI", "d2/d94/a27852.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
+    [ "WaypointReached", "d2/d94/a27852.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
+    [ "CanRun", "d2/d94/a27852.html#a93c41781e4cb037b56773bbbf36181b7", null ],
+    [ "CasterGUID", "d2/d94/a27852.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
+    [ "IsHealed", "d2/d94/a27852.html#a96db66704eabf028362d5f8b5c424712", null ],
+    [ "RunAwayTimer", "d2/d94/a27852.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
 ];

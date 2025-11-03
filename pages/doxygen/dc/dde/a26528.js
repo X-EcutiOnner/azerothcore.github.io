@@ -1,6 +1,8 @@
 var a26528 =
 [
-    [ "HandleScriptEffect", "dc/dde/a26528.html#a8b60ae77f13045a582548fe5d1186d54", null ],
-    [ "PrepareSpellScript", "dc/dde/a26528.html#ad68619783c4a1aad5a24826bf5d89858", null ],
-    [ "Register", "dc/dde/a26528.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
+    [ "HandleEffectApply", "dc/dde/a26528.html#aed959961fcd07649cd4914fcd38a3214", null ],
+    [ "if", "dc/dde/a26528.html#a1518c08cb3b5cb716b8bd01692a5160d", null ],
+    [ "PrepareAuraScript", "dc/dde/a26528.html#a42167bc6bf7992debea8582680251da4", null ],
+    [ "Register", "dc/dde/a26528.html#aa2c23abd2b90a276bd7980cadc0397a4", null ],
+    [ "AuraEffectHandleModes", "dc/dde/a26528.html#ac886dec8a2ce55af4ec58ab068c589fa", null ]
 ];

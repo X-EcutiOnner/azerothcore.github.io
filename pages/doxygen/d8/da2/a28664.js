@@ -1,8 +1,8 @@
 var a28664 =
 [
-    [ "Color", "d8/da2/a28664.html#a670fb4e2a31958f81d46047f74d9916f", null ],
-    [ "Comparator", "d8/da2/a28664.html#ace0bdad11edd9db12e45d374da623793", null ],
-    [ "CompareColor", "d8/da2/a28664.html#a801e2221bbb1b6aab67a57381901cf08", null ],
-    [ "ID", "d8/da2/a28664.html#aae73769db40326d298bb1d04eef38871", null ],
-    [ "Value", "d8/da2/a28664.html#ac314a9a6b447d386e31a286811f66538", null ]
+    [ "NoRuneCost", "d8/da2/a28664.html#a599b2089d52bf4a009c5fbac3b0d3279", null ],
+    [ "NoRunicPowerGain", "d8/da2/a28664.html#a97da075ecd116ef27fd4265bb8380667", null ],
+    [ "ID", "d8/da2/a28664.html#aed245962cf1830cfa66e369b22a7ba6f", null ],
+    [ "RuneCost", "d8/da2/a28664.html#a18c2e6daaaefe1c8be4a83c55a3670ff", null ],
+    [ "runePowerGain", "d8/da2/a28664.html#ac5f9c69d83ff9cf230124b9dad10008b", null ]
 ];

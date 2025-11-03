@@ -1,5 +1,5 @@
 var a27624 =
 [
-    [ "go_duskwither_spire_power_source", "d4/d99/a27624.html#aab69de16e8b744af2671e2ed882ee94a", null ],
-    [ "OnGossipHello", "d4/d99/a27624.html#a2c7fd017e7985b99bff187119157a041", null ]
+    [ "go_massive_seaforium_charge", "d4/d99/a27624.html#adae43b764f237932923cd18207e4d23c", null ],
+    [ "OnGossipHello", "d4/d99/a27624.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
 ];

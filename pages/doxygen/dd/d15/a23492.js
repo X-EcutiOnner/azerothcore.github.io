@@ -1,13 +1,6 @@
 var a23492 =
 [
-    [ "npc_earthen_ring_flamecaller", "dd/d15/a23492.html#ab402dd321fa0df641b674324386d7591", null ],
-    [ "DoAction", "dd/d15/a23492.html#af745c83529a34a89c430d6113703fff5", null ],
-    [ "LookOpening", "dd/d15/a23492.html#adfc752e7700a816b66b639007a1a90fa", null ],
-    [ "MovementInform", "dd/d15/a23492.html#a2e6337402c07413ed9aa39c2de58e0d9", null ],
-    [ "Reset", "dd/d15/a23492.html#ac7be4763e09cb9ce1a4a0774f4c02237", null ],
-    [ "SpellHit", "dd/d15/a23492.html#ab9c5ad7e56033997042031566748ee2b", null ],
-    [ "UpdateAI", "dd/d15/a23492.html#aa9aaf58b67108a934a756afdfc2bc734", null ],
-    [ "_events", "dd/d15/a23492.html#a79829a993048f8678b5f7c1dfe55eafb", null ],
-    [ "_instance", "dd/d15/a23492.html#a79aa6e628a50ed485cc55513c28362dc", null ],
-    [ "_mySpot", "dd/d15/a23492.html#a18b476dfdf65ca7e84856b31027b11f1", null ]
+    [ "HandlePeriodic", "dd/d15/a23492.html#a25c698e911ec02d9cd7f757ba87281df", null ],
+    [ "PrepareAuraScript", "dd/d15/a23492.html#a7bf79bc5e5f509b52965f03e998db399", null ],
+    [ "Register", "dd/d15/a23492.html#ab3eec9f591384c7c1c684651c38aa614", null ]
 ];

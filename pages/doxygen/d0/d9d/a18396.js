@@ -1,6 +1,5 @@
 var a18396 =
 [
-    [ "VileSpiritActivateEvent", "d0/d9d/a18396.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
-    [ "Execute", "d0/d9d/a18396.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
-    [ "_owner", "d0/d9d/a18396.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
+    [ "FrozenThroneResetWorker", "d0/d9d/a18396.html#afd21e9c1449d4e391713256e197bc92b", null ],
+    [ "operator()", "d0/d9d/a18396.html#a7119548d30d760ae817a87cacf712cf6", null ]
 ];

@@ -1,11 +1,6 @@
 var a26824 =
 [
-    [ "AddTarget", "d5/d20/a26824.html#a18875ef707271a77c0c5867fa8de7ff7", null ],
-    [ "HandleApply", "d5/d20/a26824.html#afad10ab0f64e688a18ed749c294a2fbe", null ],
-    [ "HandleEffectPeriodic", "d5/d20/a26824.html#a339b71689056a61e4eebf77f1abcb3dd", null ],
-    [ "HandleRemove", "d5/d20/a26824.html#a1bd9806323ad6b26a0c1fb8773596c98", null ],
-    [ "PrepareAuraScript", "d5/d20/a26824.html#abd535f756fae06c9fae613d69ef4e353", null ],
-    [ "Register", "d5/d20/a26824.html#a0f41f9287f5eb5046e6679d22c65416a", null ],
-    [ "Validate", "d5/d20/a26824.html#a47351141df5e5e15a2d454cc653a9cf5", null ],
-    [ "_targets", "d5/d20/a26824.html#ad2467bc150cb08766c57cca23d4d9843", null ]
+    [ "CheckProc", "d5/d20/a26824.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
+    [ "PrepareAuraScript", "d5/d20/a26824.html#af15109e926eb717c3f3cb2f7f617428c", null ],
+    [ "Register", "d5/d20/a26824.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
 ];

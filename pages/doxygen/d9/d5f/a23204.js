@@ -1,7 +1,6 @@
 var a23204 =
 [
-    [ "CalculateAmount", "d9/d5f/a23204.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
-    [ "PrepareAuraScript", "d9/d5f/a23204.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
-    [ "Register", "d9/d5f/a23204.html#a6d0d47536e6ef74a88c97019843d478c", null ],
-    [ "Update", "d9/d5f/a23204.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
+    [ "ShadowOfDeathSelector", "d9/d5f/a23204.html#a1190094fbde74ccffd954fea742ab0ae", null ],
+    [ "operator()", "d9/d5f/a23204.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
+    [ "_tank", "d9/d5f/a23204.html#adc238645eec306e00918dbab05549fc8", null ]
 ];

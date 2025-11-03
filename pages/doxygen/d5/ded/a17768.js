@@ -1,20 +1,14 @@
 var a17768 =
 [
-    [ "npc_high_overlord_saurfang_igbAI", "d5/ded/a17768.html#a1fce8cbcb5259774c0019c19bae334d0", null ],
-    [ "AttackStart", "d5/ded/a17768.html#a7c04475d2de487a26aa3e7f58ad219e5", null ],
-    [ "CanAIAttack", "d5/ded/a17768.html#a58b5476b42ea1d249cb3795da86509db", null ],
-    [ "DamageTaken", "d5/ded/a17768.html#ae2715e5410ddf25734469594f72c7373", null ],
-    [ "DoAction", "d5/ded/a17768.html#acf222bf3f1204215918e339d57e6ee37", null ],
-    [ "EnterEvadeMode", "d5/ded/a17768.html#a8c66bcf54ba7d2c5a8d89a792e89fc8f", null ],
-    [ "JustEngagedWith", "d5/ded/a17768.html#aa98690c2c7002915c72e68f9136a9ace", null ],
-    [ "SetData", "d5/ded/a17768.html#ae3f9c7ef83cb3841f3081a5c8391ad85", null ],
-    [ "sGossipSelect", "d5/ded/a17768.html#af3f71dfd8888a9d7eccdaff50315bea1", null ],
-    [ "UpdateAI", "d5/ded/a17768.html#adf12312ee9a037b7cdbf384137a8ceb4", null ],
-    [ "_axethrowersYellCooldown", "d5/ded/a17768.html#ad98e613c8d4625687f9ab16979d21707", null ],
-    [ "_controller", "d5/ded/a17768.html#a259a8e82ed7a58f09d546fbcb317ea33", null ],
-    [ "_events", "d5/ded/a17768.html#a132fc1f697d32c76c10766c71948fe01", null ],
-    [ "_firstMageCooldown", "d5/ded/a17768.html#a984e2f3d3cf2b254717e2b4d1418216d", null ],
-    [ "_instance", "d5/ded/a17768.html#aecb488fb2e2682c107072ea66d02ea8f", null ],
-    [ "_rocketeersYellCooldown", "d5/ded/a17768.html#a0435dba6aff5287b1d10420a54a72d28", null ],
-    [ "checkTimer", "d5/ded/a17768.html#a1c610a1cf0ba5a27aeb98d51dff916fa", null ]
+    [ "npc_gunshipAI", "d5/ded/a17768.html#a75444497ffd6b7365827eea57fd946f9", null ],
+    [ "DamageTaken", "d5/ded/a17768.html#a9c1825ec51aaecedd1035ae9a1ded6a0", null ],
+    [ "GetData", "d5/ded/a17768.html#a0142bec2427c1256431e55d3f74b8948", null ],
+    [ "JustDied", "d5/ded/a17768.html#aa19c815ad64f81fb5240c5e0667bccc9", null ],
+    [ "SetGUID", "d5/ded/a17768.html#a7f336843c54de072cf58bc87ff08b068", null ],
+    [ "UpdateAI", "d5/ded/a17768.html#a8bab1a755c2262e9f36f295781d30909", null ],
+    [ "_died", "d5/ded/a17768.html#af4480427460748bccae214737469ddb7", null ],
+    [ "_instance", "d5/ded/a17768.html#a21f9c24e80145db0c6847c81261d0e8d", null ],
+    [ "_shipVisits", "d5/ded/a17768.html#a6f9730b746e195a99dc11357fd0387ba", null ],
+    [ "_summonedFirstMage", "d5/ded/a17768.html#a721cc96cc76a27574a1a4eb1996b100e", null ],
+    [ "_teamIdInInstance", "d5/ded/a17768.html#a195ff7ab2c2e96ab0bcd0a96c1e21512", null ]
 ];

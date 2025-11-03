@@ -1,6 +1,5 @@
 var a23616 =
 [
-    [ "HandleScript", "d0/ddc/a23616.html#ae45f8a366c1594d3723b83ee6e006957", null ],
-    [ "PrepareSpellScript", "d0/ddc/a23616.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
-    [ "Register", "d0/ddc/a23616.html#a6b9e449a64747f0a5715424295b1c30f", null ]
+    [ "at_underbog_ghazan", "d0/ddc/a23616.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
+    [ "_OnTrigger", "d0/ddc/a23616.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
 ];

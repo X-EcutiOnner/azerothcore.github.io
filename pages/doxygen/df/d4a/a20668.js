@@ -1,6 +1,9 @@
 var a20668 =
 [
-    [ "npc_ulduar_flames_initialAI", "d6/dfa/a20672.html", "d6/dfa/a20672" ],
-    [ "npc_ulduar_flames_initial", "df/d4a/a20668.html#aee0c62a38e3e0958e015faef2c434273", null ],
-    [ "GetAI", "df/d4a/a20668.html#ac0db78c361324a594220ad644001f4eb", null ]
+    [ "npc_ulduar_bot_summon_triggerAI", "df/d4a/a20668.html#a60e0706b9285cdf4b25b6f399cad18e9", null ],
+    [ "DoAction", "df/d4a/a20668.html#ac5d0e28ee330741da3b287d965537f39", null ],
+    [ "Reset", "df/d4a/a20668.html#a91207c04ecee6fc0e906133e054bf51b", null ],
+    [ "UpdateAI", "df/d4a/a20668.html#aebec433e806d4f63f5593db0301612b4", null ],
+    [ "option", "df/d4a/a20668.html#a98bb19fea19a05127b4b32df039acf05", null ],
+    [ "timer", "df/d4a/a20668.html#a118d048557b0ed314180299c3cd2bcbc", null ]
 ];

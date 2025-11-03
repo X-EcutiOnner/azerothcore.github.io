@@ -1,7 +1,7 @@
 var a24340 =
 [
-    [ "CheckRequirement", "d5/d5d/a24340.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "d5/d5d/a24340.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "d5/d5d/a24340.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "d5/d5d/a24340.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "npc_maxx_a_million_escortAI", "da/dcd/a24344.html", "da/dcd/a24344" ],
+    [ "npc_maxx_a_million_escort", "d5/d5d/a24340.html#a958a88b495594dd8e14919d950ac917a", null ],
+    [ "GetAI", "d5/d5d/a24340.html#af79619087908d442f503e0b0d633937d", null ],
+    [ "OnQuestAccept", "d5/d5d/a24340.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
 ];

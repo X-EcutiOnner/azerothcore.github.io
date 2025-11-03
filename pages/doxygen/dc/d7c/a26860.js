@@ -1,6 +1,7 @@
 var a26860 =
 [
-    [ "CheckCast", "dc/d7c/a26860.html#a97f479cccecc6f37c75b47122b47e333", null ],
-    [ "PrepareSpellScript", "dc/d7c/a26860.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
-    [ "Register", "dc/d7c/a26860.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
+    [ "CalculateAmount", "dc/d7c/a26860.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
+    [ "Load", "dc/d7c/a26860.html#ae2ef0eae77137c120ec61af8698677db", null ],
+    [ "PrepareAuraScript", "dc/d7c/a26860.html#acaecc78c031aa436f432fd7145478de4", null ],
+    [ "Register", "dc/d7c/a26860.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
 ];

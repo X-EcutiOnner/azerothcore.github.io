@@ -1,4 +1,4 @@
 var a29966 =
 [
-    [ "ratio", "d8/df0/a29966.html#abd6f48f1ad2826ae1c3c782337bac618", null ]
+    [ "_CRT_SECURE_NO_DEPRECATE", "d8/df0/a29966.html#a411c46599e926f8cdf49c63957255359", null ]
 ];

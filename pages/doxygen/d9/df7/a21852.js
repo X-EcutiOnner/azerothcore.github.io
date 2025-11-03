@@ -1,7 +1,9 @@
 var a21852 =
 [
-    [ "npc_warmage_violetstand", "d9/df7/a21852.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "d9/df7/a21852.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "d9/df7/a21852.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "d9/df7/a21852.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_counselor_talbotAI", "d9/df7/a21852.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
+    [ "JustDied", "d9/df7/a21852.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
+    [ "JustEngagedWith", "d9/df7/a21852.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
+    [ "Reset", "d9/df7/a21852.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
+    [ "UpdateAI", "d9/df7/a21852.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
+    [ "_events", "d9/df7/a21852.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
 ];

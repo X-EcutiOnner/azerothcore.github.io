@@ -1,8 +1,6 @@
 var a23908 =
 [
-    [ "HandleEffectApply", "d7/d76/a23908.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
-    [ "HandleEffectRemove", "d7/d76/a23908.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
-    [ "PrepareAuraScript", "d7/d76/a23908.html#a438a8ba3688e0832853bae4183695494", null ],
-    [ "Register", "d7/d76/a23908.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
-    [ "Validate", "d7/d76/a23908.html#ab07b244e53b397bc9e9842655617a80d", null ]
+    [ "npc_millhouse_manastormAI", "d2/d3b/a23912.html", "d2/d3b/a23912" ],
+    [ "npc_millhouse_manastorm", "d7/d76/a23908.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
+    [ "GetAI", "d7/d76/a23908.html#ac4516785f7daf544718fc201197ba977", null ]
 ];

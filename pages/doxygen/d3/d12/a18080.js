@@ -1,7 +1,6 @@
 var a18080 =
 [
-    [ "HandleScript", "d3/d12/a18080.html#afc76149cb44a4d2aab48350fb4392036", null ],
-    [ "PrepareSpellScript", "d3/d12/a18080.html#a8598de219c2402596fe97b5dd32c534e", null ],
-    [ "Register", "d3/d12/a18080.html#ac9d4842632431e52932f66d09042ea70", null ],
-    [ "ScaleRange", "d3/d12/a18080.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
+    [ "npc_gas_cloudAI", "d6/da1/a18084.html", "d6/da1/a18084" ],
+    [ "npc_gas_cloud", "d3/d12/a18080.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
+    [ "GetAI", "d3/d12/a18080.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
 ];

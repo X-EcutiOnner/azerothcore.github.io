@@ -1,9 +1,9 @@
 var a19012 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "d5/d06/a19012.html#a91868021309239f5582bb7ee89baec13", null ],
-    [ "AttackStart", "d5/d06/a19012.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
-    [ "JustEngagedWith", "d5/d06/a19012.html#a12927240144022174e3d190be6b34976", null ],
-    [ "Reset", "d5/d06/a19012.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
-    [ "UpdateAI", "d5/d06/a19012.html#a969a36e147006971a93711349f90c193", null ],
-    [ "events", "d5/d06/a19012.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
+    [ "npc_icc_skybreaker_vicarAI", "d5/d06/a19012.html#ae74a306850b328f536b55e5c24c040ab", null ],
+    [ "AttackStart", "d5/d06/a19012.html#a52b753e1f599eb02385d980a78cd3c78", null ],
+    [ "JustEngagedWith", "d5/d06/a19012.html#afdb4215cd0578de7342b152783666ed6", null ],
+    [ "Reset", "d5/d06/a19012.html#aeb11687534fa7c1e76ea22cc07deb73d", null ],
+    [ "UpdateAI", "d5/d06/a19012.html#af1726169fe63eb3ff1ed95eb0e10d2f0", null ],
+    [ "events", "d5/d06/a19012.html#a711d9571b4edb87f77eeebbd12e248b3", null ]
 ];

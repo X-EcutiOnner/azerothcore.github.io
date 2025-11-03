@@ -1,5 +1,6 @@
 var a25564 =
 [
-    [ "PrepareSpellScript", "dd/d5c/a25564.html#a53fe40a7d280c5fcc733d2647ef09b41", null ],
-    [ "Register", "dd/d5c/a25564.html#ae2d3eb8ff055aa66a00567af75c65138", null ]
+    [ "OnProc", "dd/d5c/a25564.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
+    [ "PrepareAuraScript", "dd/d5c/a25564.html#a6a7b011f151ff81672221b84eb4456b8", null ],
+    [ "Register", "dd/d5c/a25564.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
 ];

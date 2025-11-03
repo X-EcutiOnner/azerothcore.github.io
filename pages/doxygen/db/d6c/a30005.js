@@ -1,7 +1,13 @@
 var a30005 =
 [
-    [ "Id", "db/d6c/a30005.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
-    [ "MaxLevel", "db/d6c/a30005.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
-    [ "Modifier", "db/d6c/a30005.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
-    [ "StatMod", "db/d6c/a30005.html#ab639dd94c53707ca160e13f71342730d", null ]
+    [ "ConfigPolicy", "df/d18/a05168.html", "df/d18/a05168" ],
+    [ "ConfigMgr", "d8/de4/a05172.html", "d8/de4/a05172" ],
+    [ "ConfigException", "d3/dd2/a05176.html", "d3/dd2/a05176" ],
+    [ "sConfigMgr", "db/d6c/a30005.html#a7236988e98bdd405bf435a029b70a26f", null ],
+    [ "ConfigSeverity", "db/d6c/a30005.html#a05eaca858744a1f9f0e309e7867383e3", [
+      [ "Skip", "db/d6c/a30005.html#a05eaca858744a1f9f0e309e7867383e3a72ef2b9b6965d078e3c7f95487a82d1c", null ],
+      [ "Warn", "db/d6c/a30005.html#a05eaca858744a1f9f0e309e7867383e3a56525ae64d370c0b448ac0d60710ef17", null ],
+      [ "Error", "db/d6c/a30005.html#a05eaca858744a1f9f0e309e7867383e3a902b0d55fddef6f8d651fe1035b7d4bd", null ],
+      [ "Fatal", "db/d6c/a30005.html#a05eaca858744a1f9f0e309e7867383e3a882384ec38ce8d9582b57e70861730e4", null ]
+    ] ]
 ];

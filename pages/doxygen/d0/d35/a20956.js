@@ -1,6 +1,7 @@
 var a20956 =
 [
-    [ "HandleScript", "d0/d35/a20956.html#a8ebd18095bd826d4bf843961e4e8dc81", null ],
-    [ "PrepareSpellScript", "d0/d35/a20956.html#a4fd05478a145157dbd8377532033ab95", null ],
-    [ "Register", "d0/d35/a20956.html#a9b30f89493d5b8c8d1097dde5d017a93", null ]
+    [ "npc_xt002_life_sparkAI", "d0/d35/a20956.html#a763ec1834d3b71c88bfa80bc0e34966a", null ],
+    [ "Reset", "d0/d35/a20956.html#a596e2ed45b9221915781b03bf2d18e5b", null ],
+    [ "UpdateAI", "d0/d35/a20956.html#af0a1e717b08b2fa35dd4ff83778a87c1", null ],
+    [ "_attackTimer", "d0/d35/a20956.html#a79bf005de95aa1fee60dfc73b8920dad", null ]
 ];

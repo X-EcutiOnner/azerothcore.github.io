@@ -1,6 +1,5 @@
 var a19568 =
 [
-    [ "instance_nexus_InstanceMapScript", "dc/d47/a19572.html", "dc/d47/a19572" ],
-    [ "instance_nexus", "dc/d77/a19568.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
-    [ "GetInstanceScript", "dc/d77/a19568.html#a156210ba08caa0572c775dbd5851b250", null ]
+    [ "achievement_split_personality", "dc/d77/a19568.html#aac29ae7c321306a663e55493987af45d", null ],
+    [ "OnCheck", "dc/d77/a19568.html#ab5379f3c1191eeb747cb6762fc42ce01", null ]
 ];

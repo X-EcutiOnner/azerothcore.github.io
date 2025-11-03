@@ -1,6 +1,6 @@
 var a19748 =
 [
-    [ "boss_krystallusAI", "dc/d16/a19752.html", "dc/d16/a19752" ],
-    [ "boss_krystallus", "d3/dd7/a19748.html#a1d7453c9d67594bfdbd650fea897666a", null ],
-    [ "GetAI", "d3/dd7/a19748.html#aba14bcfa00a5d997959abd94af647bf4", null ]
+    [ "instance_halls_of_lightning_InstanceMapScript", "dc/d16/a19752.html", "dc/d16/a19752" ],
+    [ "instance_halls_of_lightning", "d3/dd7/a19748.html#a24395866efe2c7d1f7727be2557a8b46", null ],
+    [ "GetInstanceScript", "d3/dd7/a19748.html#a5ce157aeaf2ed78e98e864059a599b36", null ]
 ];

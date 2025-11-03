@@ -1,5 +1,7 @@
 var a25516 =
 [
-    [ "PrepareSpellScript", "d9/db1/a25516.html#a7478d96ac24bc4b70a10bc83335c9b76", null ],
-    [ "Register", "d9/db1/a25516.html#ab3ab9557cd1969fd977a3df6f2c59d7c", null ]
+    [ "HandleScript", "d9/db1/a25516.html#a12f4c4a85f19ceb55d274428cf2b25a4", null ],
+    [ "PrepareSpellScript", "d9/db1/a25516.html#acf1173670c35c84ae7aba29be00d31cf", null ],
+    [ "Register", "d9/db1/a25516.html#a5a2c59463a0546b6f5cd375b3671b86b", null ],
+    [ "Validate", "d9/db1/a25516.html#a437a018fd6917bee51bdbba7cf29e53d", null ]
 ];

@@ -1,6 +1,16 @@
 var a28912 =
 [
-    [ "HandleEffectCalcSpellMod", "da/d20/a28912.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
-    [ "PrepareAuraScript", "da/d20/a28912.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
-    [ "Register", "da/d20/a28912.html#af60592a9f1e595f31814eae405d03d5a", null ]
+    [ "adt_LIQUID", "d3/d7e/a28920.html", "d3/d7e/a28920" ],
+    [ "GetLiquidAttributes", "da/d20/a28912.html#a343859f1c04059988ca0e4050ffac22f", null ],
+    [ "GetLiquidDepth", "da/d20/a28912.html#a6f620512f4feb239bc732efcfe53ae7c", null ],
+    [ "GetLiquidExistsBitmap", "da/d20/a28912.html#aaa9e70d67222ddcfbd890e8e3262f8e0", null ],
+    [ "GetLiquidHeight", "da/d20/a28912.html#a73ad976bf67c8adba2443190e6db533f", null ],
+    [ "GetLiquidInstance", "da/d20/a28912.html#a65b3323ff560d26302f86dcfc79eb4c3", null ],
+    [ "GetLiquidTextureCoordMap", "da/d20/a28912.html#a1d0cfd669f16b346e9199f6ade39cbce", null ],
+    [ "GetLiquidType", "da/d20/a28912.html#acd96d3f82d0ad8c3cb601097e52427b5", null ],
+    [ "prepareLoadedData", "da/d20/a28912.html#a05b77a8778e3d85dae8437d96a4aae8a", null ],
+    [ "fcc", "da/d20/a28912.html#a6c09458d5788c58dbd2f9b96448a1ff4", null ],
+    [ "fcc_txt", "da/d20/a28912.html#a5abe0d5184d096f87c2c0ff1f9a115dc", null ],
+    [ "liquid", "da/d20/a28912.html#aaaff4b98a34d81985b552fd671411450", null ],
+    [ "size", "da/d20/a28912.html#a2110a26debb714695e38e5ec159131f2", null ]
 ];

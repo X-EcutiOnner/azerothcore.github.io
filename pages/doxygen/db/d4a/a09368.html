@@ -235,7 +235,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  746</span>        {</div>
-<div class="line"><span class="lineno">  747</span>            <span class="keywordflow">if</span> (go-&gt;<a class="code hl_function" href="../../d7/d3b/a08224.html#a7a8cef98e188ac088c48db167d1f46ac">GetGoType</a>() == <a class="code hl_variable" href="../../db/d4a/a09368.html#a68965425169b93053eadad91403855e0">i_type</a> &amp;&amp; <a class="code hl_variable" href="../../db/d4a/a09368.html#aca71a09421fdf412489f7f54cf4bc379">i_obj</a>.<a class="code hl_function" href="../../de/d33/a08452.html#ab73407bcdf13a30519a953d24773ed02">IsWithinDistInMap</a>(go, <a class="code hl_variable" href="../../db/d4a/a09368.html#a37f212d5cb1ef2b8d55e19b749861a17">i_range</a>))</div>
+<div class="line"><span class="lineno">  747</span>            <span class="keywordflow">if</span> (go-&gt;<a class="code hl_function" href="../../d7/d3b/a08224.html#a7a8cef98e188ac088c48db167d1f46ac">GetGoType</a>() == <a class="code hl_variable" href="../../db/d4a/a09368.html#a68965425169b93053eadad91403855e0">i_type</a> &amp;&amp; <a class="code hl_variable" href="../../db/d4a/a09368.html#aca71a09421fdf412489f7f54cf4bc379">i_obj</a>.<a class="code hl_function" href="../../de/d33/a08452.html#aaeea293a6966a717f17113370d364168">IsWithinDistInMap</a>(go, <a class="code hl_variable" href="../../db/d4a/a09368.html#a37f212d5cb1ef2b8d55e19b749861a17">i_range</a>))</div>
 <div class="line"><span class="lineno">  748</span>            {</div>
 <div class="line"><span class="lineno">  749</span>                <a class="code hl_variable" href="../../db/d4a/a09368.html#a37f212d5cb1ef2b8d55e19b749861a17">i_range</a> = <a class="code hl_variable" href="../../db/d4a/a09368.html#aca71a09421fdf412489f7f54cf4bc379">i_obj</a>.<a class="code hl_function" href="../../de/d33/a08452.html#acaa0cccbbb9cac74080c8279a571a68c">GetDistance</a>(go);        <span class="comment">// use found GO range as new range limit for next check</span></div>
 <div class="line"><span class="lineno">  750</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
@@ -243,10 +243,10 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  752</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  753</span>        }</div>
 <div class="ttc" id="aa08224_html_a7a8cef98e188ac088c48db167d1f46ac"><div class="ttname"><a href="../../d7/d3b/a08224.html#a7a8cef98e188ac088c48db167d1f46ac">GameObject::GetGoType</a></div><div class="ttdeci">GameobjectTypes GetGoType() const</div><div class="ttdef"><b>Definition:</b> GameObject.h:202</div></div>
-<div class="ttc" id="aa08452_html_ab73407bcdf13a30519a953d24773ed02"><div class="ttname"><a href="../../de/d33/a08452.html#ab73407bcdf13a30519a953d24773ed02">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool useBoundingRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1350</div></div>
-<div class="ttc" id="aa08452_html_acaa0cccbbb9cac74080c8279a571a68c"><div class="ttname"><a href="../../de/d33/a08452.html#acaa0cccbbb9cac74080c8279a571a68c">WorldObject::GetDistance</a></div><div class="ttdeci">float GetDistance(WorldObject const *obj) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1274</div></div>
+<div class="ttc" id="aa08452_html_aaeea293a6966a717f17113370d364168"><div class="ttname"><a href="../../de/d33/a08452.html#aaeea293a6966a717f17113370d364168">WorldObject::IsWithinDistInMap</a></div><div class="ttdeci">bool IsWithinDistInMap(WorldObject const *obj, float dist2compare, bool is3D=true, bool incOwnRadius=true, bool incTargetRadius=true) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1354</div></div>
+<div class="ttc" id="aa08452_html_acaa0cccbbb9cac74080c8279a571a68c"><div class="ttname"><a href="../../de/d33/a08452.html#acaa0cccbbb9cac74080c8279a571a68c">WorldObject::GetDistance</a></div><div class="ttdeci">float GetDistance(WorldObject const *obj) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1278</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l01274">WorldObject::GetDistance()</a>, <a class="el" href="../../#l00202">GameObject::GetGoType()</a>, <a class="el" href="../../#l00755">i_obj</a>, <a class="el" href="../../#l00757">i_range</a>, <a class="el" href="../../#l00756">i_type</a>, and <a class="el" href="../../#l01350">WorldObject::IsWithinDistInMap()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l01278">WorldObject::GetDistance()</a>, <a class="el" href="../../#l00202">GameObject::GetGoType()</a>, <a class="el" href="../../#l00755">i_obj</a>, <a class="el" href="../../#l00757">i_range</a>, <a class="el" href="../../#l00756">i_type</a>, and <a class="el" href="../../#l01354">WorldObject::IsWithinDistInMap()</a>.</p>
 
 </div>
 </div>
@@ -329,7 +329,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d9/d62/a04803.html">Acore</a></li><li class="navelem"><a class="el" href="../../db/d4a/a09368.html">NearestGameObjectTypeInObjectRangeCheck</a></li>
-    <li class="footer">Generated on Mon Oct 27 2025 21:16:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Nov 3 2025 20:48:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

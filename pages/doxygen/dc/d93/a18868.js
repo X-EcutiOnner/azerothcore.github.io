@@ -1,6 +1,6 @@
 var a18868 =
 [
-    [ "npc_captain_rupertAI", "d3/da2/a18872.html", "d3/da2/a18872" ],
-    [ "npc_captain_rupert", "dc/d93/a18868.html#a7a4535a6b784b460c79722e9a50c3ff6", null ],
-    [ "GetAI", "dc/d93/a18868.html#a20afc31fc1a8bb09692ab0cc47af3c1b", null ]
+    [ "npc_captain_grondelAI", "d3/da2/a18872.html", "d3/da2/a18872" ],
+    [ "npc_captain_grondel", "dc/d93/a18868.html#a54a53f8e3cde87405219c815a56d523c", null ],
+    [ "GetAI", "dc/d93/a18868.html#a2a7725e81294e80701b7742d2605ec00", null ]
 ];

@@ -1,6 +1,6 @@
 var a18824 =
 [
-    [ "npc_crok_scourgebaneAI", "df/d75/a18828.html", "df/d75/a18828" ],
-    [ "npc_crok_scourgebane", "d8/dae/a18824.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
-    [ "GetAI", "d8/dae/a18824.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
+    [ "npc_frost_freeze_trapAI", "df/d75/a18828.html", "df/d75/a18828" ],
+    [ "npc_frost_freeze_trap", "d8/dae/a18824.html#ac58ed2598fd4250f220208a91343f9b8", null ],
+    [ "GetAI", "d8/dae/a18824.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
 ];

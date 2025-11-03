@@ -1,6 +1,5 @@
 var a18076 =
 [
-    [ "npc_gas_cloudAI", "df/d82/a18076.html#a44e6f92ed3731beb8a36db66da9fbdef", null ],
-    [ "CastMainSpell", "df/d82/a18076.html#a61681f6f9616fe33274302d4160c709b", null ],
-    [ "_newTargetSelectTimer", "df/d82/a18076.html#a6989b904abaa5b71362e43664f4b084d", null ]
+    [ "npc_volatile_oozeAI", "df/d82/a18076.html#af042d4c22482aabcdad6fa867dfe093f", null ],
+    [ "CastMainSpell", "df/d82/a18076.html#a91890785174ecc60c9553a0aedf1961b", null ]
 ];

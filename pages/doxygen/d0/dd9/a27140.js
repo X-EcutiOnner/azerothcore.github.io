@@ -1,6 +1,7 @@
 var a27140 =
 [
-    [ "HandleCast", "d0/dd9/a27140.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
-    [ "PrepareSpellScript", "d0/dd9/a27140.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
-    [ "Register", "d0/dd9/a27140.html#a81bc86c83ffc70602410912870e61700", null ]
+    [ "HandleApply", "d0/dd9/a27140.html#a046abc4b8afd26d13bcb7140165aed80", null ],
+    [ "HandleRemove", "d0/dd9/a27140.html#ad35716d4210572057fe67d426849931a", null ],
+    [ "PrepareAuraScript", "d0/dd9/a27140.html#a9af96871b8b7ac19de01e316f4350ebf", null ],
+    [ "Register", "d0/dd9/a27140.html#a37c4c881c563882fb72693babe545fc4", null ]
 ];

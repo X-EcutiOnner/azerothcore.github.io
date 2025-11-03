@@ -1,19 +1,16 @@
 var a02894 =
 [
-    [ "boss_volkhan", "d9/dea/a19728.html", "d9/dea/a19728" ],
-    [ "npc_molten_golem", "d7/d35/a19732.html", "d7/d35/a19732" ],
+    [ "boss_volkhan", "d2/de3/a19740.html", "d2/de3/a19740" ],
+    [ "npc_molten_golem", "d2/d18/a19744.html", "d2/d18/a19744" ],
     [ "VolkahnSpells", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72d", [
-      [ "SPELL_HEAT_N", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72da52721b165a1d661959027f08e7e77802", null ],
-      [ "SPELL_HEAT_H", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72da4d03f31e8cd9c24f8c4d3190c2ea5c48", null ],
-      [ "SPELL_SHATTERING_STOMP_N", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72dacf236c056526e7d334d0f4923020c11d", null ],
-      [ "SPELL_SHATTERING_STOMP_H", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72da8e20bc8eef892e867e1b5e12cc6701ee", null ],
+      [ "SPELL_HEAT", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72da9329da13a5cbfa0d7dad14d7aeceeac7", null ],
+      [ "SPELL_SHATTERING_STOMP", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72daec9ae5b4353163fe5840d94c9371bd80", null ],
       [ "SPELL_TEMPER", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72dafb60338c8bf2cdf173bbec1399302590", null ],
       [ "SPELL_SUMMON_MOLTEN_GOLEM", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72da11a51774907ec5203062a42d966c0dd0", null ],
       [ "SPELL_BLAST_WAVE", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72da70309c041527816c73053b7d9b387f88", null ],
-      [ "SPELL_IMMOLATION_STRIKE_N", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72da7f56b593c8a5036f3bbf31b42c0ae10a", null ],
-      [ "SPELL_IMMOLATION_STRIKE_H", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72dafd682468d586d2a3eb295e604f418fff", null ],
-      [ "SPELL_SHATTER_N", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72dacf4e44beedee8c8707805224fa72dade", null ],
-      [ "SPELL_SHATTER_H", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72dad938a16355e71dde7dcb1dba7ca3332c", null ]
+      [ "SPELL_COOL_DOWN", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72da5b119756e7a925c1c23cfc53883506a7", null ],
+      [ "SPELL_IMMOLATION_STRIKE", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72dae0d54d2b9eee50737d9c219de77387e2", null ],
+      [ "SPELL_SHATTER", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72dad483afa5a0a6d798cf66d74f164639f0", null ]
     ] ],
     [ "VolkhanEvents", "dc/d38/a02894.html#ab7ca99e4345fc4056cdb5108fc327b53", [
       [ "EVENT_HEAT", "dc/d38/a02894.html#ab7ca99e4345fc4056cdb5108fc327b53a6b25adec4b8568323b4ee0586db4429f", null ],
@@ -21,8 +18,8 @@ var a02894 =
       [ "EVENT_SHATTER", "dc/d38/a02894.html#ab7ca99e4345fc4056cdb5108fc327b53a67fb1e75418e5f4394f0dea3f005a0bf", null ],
       [ "EVENT_POSITION", "dc/d38/a02894.html#ab7ca99e4345fc4056cdb5108fc327b53aee71bfe8eed55c4485ea1c65ca84c557", null ],
       [ "EVENT_MOVE_TO_ANVIL", "dc/d38/a02894.html#ab7ca99e4345fc4056cdb5108fc327b53a1c755cdad7beeae1a2ef721eba24fa99", null ],
-      [ "EVENT_BLAST", "dc/d38/a02894.html#ab7ca99e4345fc4056cdb5108fc327b53a1d1fc465151b3431ace03005b0061ee6", null ],
-      [ "EVENT_IMMOLATION", "dc/d38/a02894.html#ab7ca99e4345fc4056cdb5108fc327b53a5bb92cdf1fba9c89fd9145d415bc7ceb", null ]
+      [ "EVENT_IMMOLATION_STRIKE", "dc/d38/a02894.html#ab7ca99e4345fc4056cdb5108fc327b53a6acd40cf44ed8481fe099524007d0632", null ],
+      [ "EVENT_CHANGE_TARGET", "dc/d38/a02894.html#ab7ca99e4345fc4056cdb5108fc327b53aecc2f7d81ce1fd43bc3c75f6fa49b4cf", null ]
     ] ],
     [ "VolkhanOther", "dc/d38/a02894.html#aba5aeb4270d242e810be81cb7d9b34ec", [
       [ "NPC_VOLKHAN_ANVIL", "dc/d38/a02894.html#aba5aeb4270d242e810be81cb7d9b34ecaf5e4a6ad1daf4ea241ba78eab16c418d", null ],

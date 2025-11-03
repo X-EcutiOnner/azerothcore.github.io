@@ -1,5 +1,5 @@
 var a27268 =
 [
-    [ "achievement_bg_sa_artillery", "d5/dfd/a27268.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
-    [ "OnCheck", "d5/dfd/a27268.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
+    [ "achievement_save_the_day", "d5/dfd/a27268.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
+    [ "OnCheck", "d5/dfd/a27268.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
 ];

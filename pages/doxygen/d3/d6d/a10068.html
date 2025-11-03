@@ -404,7 +404,7 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  113</span>        }</div>
 <div class="line"><span class="lineno">  114</span> </div>
 <div class="line"><span class="lineno">  115</span>        owner-&gt;StopMoving();</div>
-<div class="line"><span class="lineno">  116</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  116</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  117</span>    }</div>
 <div class="line"><span class="lineno">  118</span> </div>
 <div class="line"><span class="lineno">  119</span>    <span class="keywordflow">if</span> (cutPath)</div>
@@ -425,7 +425,7 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  134</span>    init.SetWalk(walk);</div>
 <div class="line"><span class="lineno">  135</span>    init.Launch();</div>
 <div class="line"><span class="lineno">  136</span> </div>
-<div class="line"><span class="lineno">  137</span>    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  137</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  138</span>}</div>
 <div class="ttc" id="aa00482_html_ae093c9a96eda0463cdd2501ba83f10c3a5ab66bcba6eb689d881b4ebc85188984"><div class="ttname"><a href="../../db/d8e/a00482.html#ae093c9a96eda0463cdd2501ba83f10c3a5ab66bcba6eb689d881b4ebc85188984">PATHFIND_NOPATH</a></div><div class="ttdeci">@ PATHFIND_NOPATH</div><div class="ttdef"><b>Definition:</b> PathGenerator.h:50</div></div>
 <div class="ttc" id="aa00875_html_ae51d2ecb71f7a5cb3882982a622c9544a78d86f1a39cc7b566c2b93c7c644255a"><div class="ttname"><a href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a78d86f1a39cc7b566c2b93c7c644255a">UNIT_STATE_CHASE_MOVE</a></div><div class="ttdeci">@ UNIT_STATE_CHASE_MOVE</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:195</div></div>
@@ -434,11 +434,11 @@ template&lt;class T &gt; </div>
 <div class="ttc" id="aa08048_html_a3e6c1326418dabc00f77e1efea7f4012"><div class="ttname"><a href="../../d4/dfb/a08048.html#a3e6c1326418dabc00f77e1efea7f4012">Creature::SetCannotReachTarget</a></div><div class="ttdeci">void SetCannotReachTarget(ObjectGuid const &amp;target=ObjectGuid::Empty)</div><div class="ttdef"><b>Definition:</b> Creature.cpp:3554</div></div>
 <div class="ttc" id="aa08416_html_ab0e2ef1ac1daa91476f749e0ec6ad3c6"><div class="ttname"><a href="../../db/db6/a08416.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">Object::ToCreature</a></div><div class="ttdeci">Creature * ToCreature()</div><div class="ttdef"><b>Definition:</b> Object.h:206</div></div>
 <div class="ttc" id="aa08416_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../db/db6/a08416.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:113</div></div>
-<div class="ttc" id="aa08452_html_a1789853fc4dad288f626d8ca60ee9e07"><div class="ttname"><a href="../../de/d33/a08452.html#a1789853fc4dad288f626d8ca60ee9e07">WorldObject::UpdateAllowedPositionZ</a></div><div class="ttdeci">void UpdateAllowedPositionZ(float x, float y, float &amp;z, float *groundZ=nullptr) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1583</div></div>
+<div class="ttc" id="aa08452_html_a1789853fc4dad288f626d8ca60ee9e07"><div class="ttname"><a href="../../de/d33/a08452.html#a1789853fc4dad288f626d8ca60ee9e07">WorldObject::UpdateAllowedPositionZ</a></div><div class="ttdeci">void UpdateAllowedPositionZ(float x, float y, float &amp;z, float *groundZ=nullptr) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:1587</div></div>
 <div class="ttc" id="aa10064_html_a427d8512cbd0ccbaca65dcf48bbe39f6"><div class="ttname"><a href="../../d7/d9f/a10064.html#a427d8512cbd0ccbaca65dcf48bbe39f6">TargetedMovementGeneratorBase::i_target</a></div><div class="ttdeci">FollowerReference i_target</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.h:34</div></div>
 <div class="ttc" id="aa10132_html"><div class="ttname"><a href="../../d7/d25/a10132.html">Movement::MoveSplineInit</a></div><div class="ttdef"><b>Definition:</b> MoveSplineInit.h:71</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00059">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l00175">Movement::MoveSplineInit::MovebyPath()</a>, <a class="el" href="../../#l00050">PATHFIND_NOPATH</a>, <a class="el" href="../../#l03554">Creature::SetCannotReachTarget()</a>, <a class="el" href="../../#l00212">Movement::MoveSplineInit::SetFacing()</a>, <a class="el" href="../../#l00165">Movement::MoveSplineInit::SetWalk()</a>, <a class="el" href="../../#l00206">Object::ToCreature()</a>, <a class="el" href="../../#l00195">UNIT_STATE_CHASE_MOVE</a>, and <a class="el" href="../../#l01583">WorldObject::UpdateAllowedPositionZ()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00059">Movement::MoveSplineInit::Launch()</a>, <a class="el" href="../../#l00175">Movement::MoveSplineInit::MovebyPath()</a>, <a class="el" href="../../#l00050">PATHFIND_NOPATH</a>, <a class="el" href="../../#l03554">Creature::SetCannotReachTarget()</a>, <a class="el" href="../../#l00212">Movement::MoveSplineInit::SetFacing()</a>, <a class="el" href="../../#l00165">Movement::MoveSplineInit::SetWalk()</a>, <a class="el" href="../../#l00206">Object::ToCreature()</a>, <a class="el" href="../../#l00195">UNIT_STATE_CHASE_MOVE</a>, and <a class="el" href="../../#l01587">WorldObject::UpdateAllowedPositionZ()</a>.</p>
 
 </div>
 </div>
@@ -511,13 +511,13 @@ template&lt;class T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  373</span>{</div>
-<div class="line"><span class="lineno">  374</span>    owner-&gt;ClearUnitState(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a28facaa792b3d48c1e102e046447aca9">UNIT_STATE_CHASE</a> | <a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a78d86f1a39cc7b566c2b93c7c644255a">UNIT_STATE_CHASE_MOVE</a>);</div>
-<div class="line"><span class="lineno">  375</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d4/dfb/a08048.html">Creature</a>* cOwner = owner-&gt;<a class="code hl_function" href="../../db/db6/a08416.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>())</div>
-<div class="line"><span class="lineno">  376</span>    {</div>
-<div class="line"><span class="lineno">  377</span>        cOwner-&gt;SetCannotReachTarget();</div>
-<div class="line"><span class="lineno">  378</span>    }</div>
-<div class="line"><span class="lineno">  379</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  379</span>{</div>
+<div class="line"><span class="lineno">  380</span>    owner-&gt;ClearUnitState(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a28facaa792b3d48c1e102e046447aca9">UNIT_STATE_CHASE</a> | <a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a78d86f1a39cc7b566c2b93c7c644255a">UNIT_STATE_CHASE_MOVE</a>);</div>
+<div class="line"><span class="lineno">  381</span>    <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d4/dfb/a08048.html">Creature</a>* cOwner = owner-&gt;<a class="code hl_function" href="../../db/db6/a08416.html#ab0e2ef1ac1daa91476f749e0ec6ad3c6">ToCreature</a>())</div>
+<div class="line"><span class="lineno">  382</span>    {</div>
+<div class="line"><span class="lineno">  383</span>        cOwner-&gt;SetCannotReachTarget();</div>
+<div class="line"><span class="lineno">  384</span>    }</div>
+<div class="line"><span class="lineno">  385</span>}</div>
 <div class="ttc" id="aa00875_html_ae51d2ecb71f7a5cb3882982a622c9544a28facaa792b3d48c1e102e046447aca9"><div class="ttname"><a href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a28facaa792b3d48c1e102e046447aca9">UNIT_STATE_CHASE</a></div><div class="ttdeci">@ UNIT_STATE_CHASE</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:175</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00206">Object::ToCreature()</a>, <a class="el" href="../../#l00175">UNIT_STATE_CHASE</a>, and <a class="el" href="../../#l00195">UNIT_STATE_CHASE_MOVE</a>.</p>
@@ -539,13 +539,13 @@ template&lt;class T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  363</span>{</div>
-<div class="line"><span class="lineno">  364</span>    <a class="code hl_variable" href="../../d3/d6d/a10068.html#a8eae21b6df1513ecd17407d59bf52fb2">i_path</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  365</span>    <a class="code hl_variable" href="../../d3/d6d/a10068.html#a80f2f31af93c87371208f2febd03f698">_lastTargetPosition</a>.reset();</div>
-<div class="line"><span class="lineno">  366</span>    <a class="code hl_variable" href="../../d3/d6d/a10068.html#ab8db38136708c7032eaba9149b8dc4e0">i_recheckDistance</a>.<a class="code hl_function" href="../../dd/da7/a05632.html#ab8a3c45ffe0e83132e708b5e87625c02">Reset</a>(0);</div>
-<div class="line"><span class="lineno">  367</span>    <a class="code hl_variable" href="../../d3/d6d/a10068.html#ae525659d62dc022ffcc03566ad23a01f">i_leashExtensionTimer</a>.<a class="code hl_function" href="../../dd/da7/a05632.html#ab8a3c45ffe0e83132e708b5e87625c02">Reset</a>(owner-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#aa4192d3622a4c41d4c5a46a60209e62e">GetAttackTime</a>(<a class="code hl_enumvalue" href="../../dd/d08/a00884.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a>));</div>
-<div class="line"><span class="lineno">  368</span>    owner-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a752f5f516257bfdf139098c29a55c466">AddUnitState</a>(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a28facaa792b3d48c1e102e046447aca9">UNIT_STATE_CHASE</a>);</div>
-<div class="line"><span class="lineno">  369</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  369</span>{</div>
+<div class="line"><span class="lineno">  370</span>    <a class="code hl_variable" href="../../d3/d6d/a10068.html#a8eae21b6df1513ecd17407d59bf52fb2">i_path</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  371</span>    <a class="code hl_variable" href="../../d3/d6d/a10068.html#a80f2f31af93c87371208f2febd03f698">_lastTargetPosition</a>.reset();</div>
+<div class="line"><span class="lineno">  372</span>    <a class="code hl_variable" href="../../d3/d6d/a10068.html#ab8db38136708c7032eaba9149b8dc4e0">i_recheckDistance</a>.<a class="code hl_function" href="../../dd/da7/a05632.html#ab8a3c45ffe0e83132e708b5e87625c02">Reset</a>(0);</div>
+<div class="line"><span class="lineno">  373</span>    <a class="code hl_variable" href="../../d3/d6d/a10068.html#ae525659d62dc022ffcc03566ad23a01f">i_leashExtensionTimer</a>.<a class="code hl_function" href="../../dd/da7/a05632.html#ab8a3c45ffe0e83132e708b5e87625c02">Reset</a>(owner-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#aa4192d3622a4c41d4c5a46a60209e62e">GetAttackTime</a>(<a class="code hl_enumvalue" href="../../dd/d08/a00884.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a>));</div>
+<div class="line"><span class="lineno">  374</span>    owner-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a752f5f516257bfdf139098c29a55c466">AddUnitState</a>(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a28facaa792b3d48c1e102e046447aca9">UNIT_STATE_CHASE</a>);</div>
+<div class="line"><span class="lineno">  375</span>}</div>
 <div class="ttc" id="aa00884_html_a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae"><div class="ttname"><a href="../../dd/d08/a00884.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a></div><div class="ttdeci">@ BASE_ATTACK</div><div class="ttdef"><b>Definition:</b> Unit.h:211</div></div>
 <div class="ttc" id="aa05632_html_ab8a3c45ffe0e83132e708b5e87625c02"><div class="ttname"><a href="../../dd/da7/a05632.html#ab8a3c45ffe0e83132e708b5e87625c02">TimeTrackerSmall::Reset</a></div><div class="ttdeci">void Reset(int32 interval)</div><div class="ttdef"><b>Definition:</b> Timer.h:249</div></div>
 <div class="ttc" id="aa08800_html_a752f5f516257bfdf139098c29a55c466"><div class="ttname"><a href="../../db/dbe/a08800.html#a752f5f516257bfdf139098c29a55c466">Unit::AddUnitState</a></div><div class="ttdeci">void AddUnitState(uint32 f)</div><div class="ttdef"><b>Definition:</b> Unit.h:720</div></div>
@@ -571,12 +571,12 @@ template&lt;class T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  354</span>{</div>
-<div class="line"><span class="lineno">  355</span>    <a class="code hl_variable" href="../../d3/d6d/a10068.html#a8eae21b6df1513ecd17407d59bf52fb2">i_path</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  356</span>    <a class="code hl_variable" href="../../d3/d6d/a10068.html#a80f2f31af93c87371208f2febd03f698">_lastTargetPosition</a>.reset();</div>
-<div class="line"><span class="lineno">  357</span>    owner-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a61edf6ab694fa8f7ed6ef194fd4dd103">StopMoving</a>();</div>
-<div class="line"><span class="lineno">  358</span>    owner-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a752f5f516257bfdf139098c29a55c466">AddUnitState</a>(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a28facaa792b3d48c1e102e046447aca9">UNIT_STATE_CHASE</a>);</div>
-<div class="line"><span class="lineno">  359</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  360</span>{</div>
+<div class="line"><span class="lineno">  361</span>    <a class="code hl_variable" href="../../d3/d6d/a10068.html#a8eae21b6df1513ecd17407d59bf52fb2">i_path</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  362</span>    <a class="code hl_variable" href="../../d3/d6d/a10068.html#a80f2f31af93c87371208f2febd03f698">_lastTargetPosition</a>.reset();</div>
+<div class="line"><span class="lineno">  363</span>    owner-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a61edf6ab694fa8f7ed6ef194fd4dd103">StopMoving</a>();</div>
+<div class="line"><span class="lineno">  364</span>    owner-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a752f5f516257bfdf139098c29a55c466">AddUnitState</a>(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a28facaa792b3d48c1e102e046447aca9">UNIT_STATE_CHASE</a>);</div>
+<div class="line"><span class="lineno">  365</span>}</div>
 <div class="ttc" id="aa08800_html_a61edf6ab694fa8f7ed6ef194fd4dd103"><div class="ttname"><a href="../../db/dbe/a08800.html#a61edf6ab694fa8f7ed6ef194fd4dd103">Unit::StopMoving</a></div><div class="ttdeci">void StopMoving()</div><div class="ttdef"><b>Definition:</b> Unit.cpp:16656</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00720">Unit::AddUnitState()</a>, <a class="el" href="../../#l16656">Unit::StopMoving()</a>, and <a class="el" href="../../#l00175">UNIT_STATE_CHASE</a>.</p>
@@ -620,9 +620,9 @@ template&lt;class T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  383</span>{</div>
-<div class="line"><span class="lineno">  384</span>    <a class="code hl_function" href="../../d3/d6d/a10068.html#a54e73981951bb609a81ab261e22a316e">DoInitialize</a>(owner);</div>
-<div class="line"><span class="lineno">  385</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  389</span>{</div>
+<div class="line"><span class="lineno">  390</span>    <a class="code hl_function" href="../../d3/d6d/a10068.html#a54e73981951bb609a81ab261e22a316e">DoInitialize</a>(owner);</div>
+<div class="line"><span class="lineno">  391</span>}</div>
 <div class="ttc" id="aa10068_html_a54e73981951bb609a81ab261e22a316e"><div class="ttname"><a href="../../d3/d6d/a10068.html#a54e73981951bb609a81ab261e22a316e">ChaseMovementGenerator::DoInitialize</a></div><div class="ttdeci">void DoInitialize(T *)</div></div>
 </div><!-- fragment -->
 </div>
@@ -734,134 +734,140 @@ template&lt;class T &gt; </div>
 <div class="line"><span class="lineno">  219</span>    {</div>
 <div class="line"><span class="lineno">  220</span>        <a class="code hl_variable" href="../../d3/d6d/a10068.html#ab8db38136708c7032eaba9149b8dc4e0">i_recheckDistance</a>.<a class="code hl_function" href="../../dd/da7/a05632.html#ab8a3c45ffe0e83132e708b5e87625c02">Reset</a>(400); <span class="comment">// Sniffed value</span></div>
 <div class="line"><span class="lineno">  221</span> </div>
-<div class="line"><span class="lineno">  222</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d6d/a10068.html#ab80b5a4575f9b484764a36634dd6faf2">i_recalculateTravel</a> &amp;&amp; <a class="code hl_function" href="../../d3/d6d/a10068.html#a11b7bbb07819ac4cbe6c9268429047ea">PositionOkay</a>(owner, target, <a class="code hl_variable" href="../../d3/d6d/a10068.html#ae8b22a656504e59f45bb1fcf80f9a9b6">_movingTowards</a> ? maxTarget : <a class="code hl_typedef" href="../../d0/dae/a04721.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;float&gt;</a>(), angle))</div>
+<div class="line"><span class="lineno">  222</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d6d/a10068.html#a1fb849d253927d30f7f88de68341d621">m_currentMode</a> != <a class="code hl_enumvalue" href="../../d4/de5/a00503.html#af39517224af91107d618ec9d8131101da216aafcb8ec8951233b472fa74108337">CHASE_MODE_DISTANCING</a>)</div>
 <div class="line"><span class="lineno">  223</span>        {</div>
-<div class="line"><span class="lineno">  224</span>            <span class="keywordflow">if</span> ((owner-&gt;HasUnitState(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a78d86f1a39cc7b566c2b93c7c644255a">UNIT_STATE_CHASE_MOVE</a>) &amp;&amp; !target-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a9e2fb8e42363a9f0ae2ede9f2c0b7760">isMoving</a>() &amp;&amp; !mutualChase) || <a class="code hl_variable" href="../../d3/d6d/a10068.html#aad69ac268be888468f5952344c1be090">_range</a>)</div>
+<div class="line"><span class="lineno">  224</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d6d/a10068.html#ab80b5a4575f9b484764a36634dd6faf2">i_recalculateTravel</a> &amp;&amp; <a class="code hl_function" href="../../d3/d6d/a10068.html#a11b7bbb07819ac4cbe6c9268429047ea">PositionOkay</a>(owner, target, <a class="code hl_variable" href="../../d3/d6d/a10068.html#ae8b22a656504e59f45bb1fcf80f9a9b6">_movingTowards</a> ? maxTarget : <a class="code hl_typedef" href="../../d0/dae/a04721.html#aaf8f4d77efd311ec7818ab421294ef82">Optional&lt;float&gt;</a>(), angle))</div>
 <div class="line"><span class="lineno">  225</span>            {</div>
-<div class="line"><span class="lineno">  226</span>                <a class="code hl_variable" href="../../d3/d6d/a10068.html#ab80b5a4575f9b484764a36634dd6faf2">i_recalculateTravel</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  227</span>                <a class="code hl_variable" href="../../d3/d6d/a10068.html#a8eae21b6df1513ecd17407d59bf52fb2">i_path</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  228</span>                <span class="keywordflow">if</span> (cOwner)</div>
-<div class="line"><span class="lineno">  229</span>                    cOwner-&gt;<a class="code hl_function" href="../../d4/dfb/a08048.html#a3e6c1326418dabc00f77e1efea7f4012">SetCannotReachTarget</a>();</div>
-<div class="line"><span class="lineno">  230</span>                owner-&gt;StopMoving();</div>
-<div class="line"><span class="lineno">  231</span>                owner-&gt;SetInFront(target);</div>
-<div class="line"><span class="lineno">  232</span>                <a class="code hl_function" href="../../d3/d6d/a10068.html#ac325e618f8dd0376a7c726df993e2e3d">MovementInform</a>(owner);</div>
-<div class="line"><span class="lineno">  233</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  234</span>            }</div>
-<div class="line"><span class="lineno">  235</span>        }</div>
-<div class="line"><span class="lineno">  236</span>    }</div>
-<div class="line"><span class="lineno">  237</span> </div>
-<div class="line"><span class="lineno">  238</span>    <span class="comment">// if we&#39;re done moving, we want to clean up</span></div>
-<div class="line"><span class="lineno">  239</span>    <span class="keywordflow">if</span> (owner-&gt;HasUnitState(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a78d86f1a39cc7b566c2b93c7c644255a">UNIT_STATE_CHASE_MOVE</a>) &amp;&amp; owner-&gt;movespline-&gt;Finalized())</div>
-<div class="line"><span class="lineno">  240</span>    {</div>
-<div class="line"><span class="lineno">  241</span>        <a class="code hl_variable" href="../../d3/d6d/a10068.html#ab80b5a4575f9b484764a36634dd6faf2">i_recalculateTravel</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  242</span>        <a class="code hl_variable" href="../../d3/d6d/a10068.html#a8eae21b6df1513ecd17407d59bf52fb2">i_path</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  243</span>        <span class="keywordflow">if</span> (cOwner)</div>
-<div class="line"><span class="lineno">  244</span>            cOwner-&gt;<a class="code hl_function" href="../../d4/dfb/a08048.html#a3e6c1326418dabc00f77e1efea7f4012">SetCannotReachTarget</a>();</div>
-<div class="line"><span class="lineno">  245</span>        owner-&gt;ClearUnitState(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a78d86f1a39cc7b566c2b93c7c644255a">UNIT_STATE_CHASE_MOVE</a>);</div>
-<div class="line"><span class="lineno">  246</span>        owner-&gt;SetInFront(target);</div>
-<div class="line"><span class="lineno">  247</span>        <a class="code hl_function" href="../../d3/d6d/a10068.html#ac325e618f8dd0376a7c726df993e2e3d">MovementInform</a>(owner);</div>
-<div class="line"><span class="lineno">  248</span>    }</div>
-<div class="line"><span class="lineno">  249</span> </div>
-<div class="line"><span class="lineno">  250</span>    <span class="keywordflow">if</span> (cOwner)</div>
-<div class="line"><span class="lineno">  251</span>    {</div>
-<div class="line"><span class="lineno">  252</span>        <span class="keywordflow">if</span> (owner-&gt;movespline-&gt;Finalized() &amp;&amp; cOwner-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a748fa068a1b1b9850141f91ff17fc65d">IsWithinMeleeRange</a>(target))</div>
-<div class="line"><span class="lineno">  253</span>        { <span class="comment">// Mobs should chase you infinitely if you stop and wait every few seconds.</span></div>
-<div class="line"><span class="lineno">  254</span>            <a class="code hl_variable" href="../../d3/d6d/a10068.html#ae525659d62dc022ffcc03566ad23a01f">i_leashExtensionTimer</a>.<a class="code hl_function" href="../../dd/da7/a05632.html#a6c10a37051caf7c16f1aa057bf2bf7da">Update</a>(time_diff);</div>
-<div class="line"><span class="lineno">  255</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d6d/a10068.html#ae525659d62dc022ffcc03566ad23a01f">i_leashExtensionTimer</a>.<a class="code hl_function" href="../../dd/da7/a05632.html#af4455d0ebb784497e9fd1a08cc915062">Passed</a>())</div>
-<div class="line"><span class="lineno">  256</span>            {</div>
-<div class="line"><span class="lineno">  257</span>                <a class="code hl_variable" href="../../d3/d6d/a10068.html#ae525659d62dc022ffcc03566ad23a01f">i_leashExtensionTimer</a>.<a class="code hl_function" href="../../dd/da7/a05632.html#ab8a3c45ffe0e83132e708b5e87625c02">Reset</a>(cOwner-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#aa4192d3622a4c41d4c5a46a60209e62e">GetAttackTime</a>(<a class="code hl_enumvalue" href="../../dd/d08/a00884.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a>));</div>
-<div class="line"><span class="lineno">  258</span>                cOwner-&gt;<a class="code hl_function" href="../../d4/dfb/a08048.html#ac9335d688ff6d857c475b40589c1c916">UpdateLeashExtensionTime</a>();</div>
-<div class="line"><span class="lineno">  259</span>            }</div>
-<div class="line"><span class="lineno">  260</span>        }</div>
-<div class="line"><span class="lineno">  261</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d6d/a10068.html#ab80b5a4575f9b484764a36634dd6faf2">i_recalculateTravel</a>)</div>
-<div class="line"><span class="lineno">  262</span>            <a class="code hl_variable" href="../../d3/d6d/a10068.html#ae525659d62dc022ffcc03566ad23a01f">i_leashExtensionTimer</a>.<a class="code hl_function" href="../../dd/da7/a05632.html#ab8a3c45ffe0e83132e708b5e87625c02">Reset</a>(cOwner-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#aa4192d3622a4c41d4c5a46a60209e62e">GetAttackTime</a>(<a class="code hl_enumvalue" href="../../dd/d08/a00884.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a>));</div>
-<div class="line"><span class="lineno">  263</span>    }</div>
-<div class="line"><span class="lineno">  264</span> </div>
-<div class="line"><span class="lineno">  265</span>    <span class="comment">// if the target moved, we have to consider whether to adjust</span></div>
-<div class="line"><span class="lineno">  266</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d6d/a10068.html#a80f2f31af93c87371208f2febd03f698">_lastTargetPosition</a> || target-&gt;<a class="code hl_function" href="../../db/d2c/a08500.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>() != <a class="code hl_variable" href="../../d3/d6d/a10068.html#a80f2f31af93c87371208f2febd03f698">_lastTargetPosition</a>.value() || mutualChase != <a class="code hl_variable" href="../../d3/d6d/a10068.html#a023e40670b8265260c4e3460bd1bf60c">_mutualChase</a> || !owner-&gt;IsWithinLOSInMap(target))</div>
-<div class="line"><span class="lineno">  267</span>    {</div>
-<div class="line"><span class="lineno">  268</span>        <a class="code hl_variable" href="../../d3/d6d/a10068.html#a80f2f31af93c87371208f2febd03f698">_lastTargetPosition</a> = target-&gt;<a class="code hl_function" href="../../db/d2c/a08500.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>();</div>
-<div class="line"><span class="lineno">  269</span>        <a class="code hl_variable" href="../../d3/d6d/a10068.html#a023e40670b8265260c4e3460bd1bf60c">_mutualChase</a> = mutualChase;</div>
-<div class="line"><span class="lineno">  270</span>        <span class="keywordflow">if</span> (owner-&gt;HasUnitState(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a78d86f1a39cc7b566c2b93c7c644255a">UNIT_STATE_CHASE_MOVE</a>) || !<a class="code hl_function" href="../../d3/d6d/a10068.html#a11b7bbb07819ac4cbe6c9268429047ea">PositionOkay</a>(owner, target, maxTarget, angle))</div>
-<div class="line"><span class="lineno">  271</span>        {</div>
-<div class="line"><span class="lineno">  272</span>            <span class="comment">// can we get to the target?</span></div>
-<div class="line"><span class="lineno">  273</span>            <span class="keywordflow">if</span> (cOwner &amp;&amp; !target-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a78937fd5a75e3a800d44dcaf919a92a9">isInAccessiblePlaceFor</a>(cOwner))</div>
-<div class="line"><span class="lineno">  274</span>            {</div>
-<div class="line"><span class="lineno">  275</span>                cOwner-&gt;<a class="code hl_function" href="../../d4/dfb/a08048.html#a3e6c1326418dabc00f77e1efea7f4012">SetCannotReachTarget</a>(target-&gt;<a class="code hl_function" href="../../db/db6/a08416.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
-<div class="line"><span class="lineno">  276</span>                cOwner-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a61edf6ab694fa8f7ed6ef194fd4dd103">StopMoving</a>();</div>
-<div class="line"><span class="lineno">  277</span>                <a class="code hl_variable" href="../../d3/d6d/a10068.html#a8eae21b6df1513ecd17407d59bf52fb2">i_path</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  278</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  279</span>            }</div>
-<div class="line"><span class="lineno">  280</span> </div>
-<div class="line"><span class="lineno">  281</span>            <span class="comment">// figure out which way we want to move</span></div>
-<div class="line"><span class="lineno">  282</span>            <span class="keywordtype">float</span> x, y, z;</div>
-<div class="line"><span class="lineno">  283</span>            target-&gt;<a class="code hl_function" href="../../db/d2c/a08500.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>(x, y, z);</div>
-<div class="line"><span class="lineno">  284</span>            <span class="keywordtype">bool</span> withinRange = owner-&gt;IsInDist(target, maxRange);</div>
-<div class="line"><span class="lineno">  285</span>            <span class="keywordtype">bool</span> withinLOS = owner-&gt;IsWithinLOS(x, y, z);</div>
-<div class="line"><span class="lineno">  286</span>            <span class="keywordtype">bool</span> moveToward = !(withinRange &amp;&amp; withinLOS);</div>
-<div class="line"><span class="lineno">  287</span> </div>
-<div class="line"><span class="lineno">  288</span>            <span class="comment">// make a new path if we have to...</span></div>
-<div class="line"><span class="lineno">  289</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d6d/a10068.html#a8eae21b6df1513ecd17407d59bf52fb2">i_path</a> || moveToward != <a class="code hl_variable" href="../../d3/d6d/a10068.html#ae8b22a656504e59f45bb1fcf80f9a9b6">_movingTowards</a>)</div>
-<div class="line"><span class="lineno">  290</span>                <a class="code hl_variable" href="../../d3/d6d/a10068.html#a8eae21b6df1513ecd17407d59bf52fb2">i_path</a> = std::make_unique&lt;PathGenerator&gt;(owner);</div>
-<div class="line"><span class="lineno">  291</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  292</span>                <a class="code hl_variable" href="../../d3/d6d/a10068.html#a8eae21b6df1513ecd17407d59bf52fb2">i_path</a>-&gt;Clear();</div>
+<div class="line"><span class="lineno">  226</span>                <span class="keywordflow">if</span> ((owner-&gt;HasUnitState(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a78d86f1a39cc7b566c2b93c7c644255a">UNIT_STATE_CHASE_MOVE</a>) &amp;&amp; !target-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a9e2fb8e42363a9f0ae2ede9f2c0b7760">isMoving</a>() &amp;&amp; !mutualChase) || <a class="code hl_variable" href="../../d3/d6d/a10068.html#aad69ac268be888468f5952344c1be090">_range</a>)</div>
+<div class="line"><span class="lineno">  227</span>                {</div>
+<div class="line"><span class="lineno">  228</span>                    <a class="code hl_variable" href="../../d3/d6d/a10068.html#ab80b5a4575f9b484764a36634dd6faf2">i_recalculateTravel</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  229</span>                    <a class="code hl_variable" href="../../d3/d6d/a10068.html#a8eae21b6df1513ecd17407d59bf52fb2">i_path</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  230</span>                    <span class="keywordflow">if</span> (cOwner)</div>
+<div class="line"><span class="lineno">  231</span>                        cOwner-&gt;<a class="code hl_function" href="../../d4/dfb/a08048.html#a3e6c1326418dabc00f77e1efea7f4012">SetCannotReachTarget</a>();</div>
+<div class="line"><span class="lineno">  232</span>                    owner-&gt;StopMoving();</div>
+<div class="line"><span class="lineno">  233</span>                    owner-&gt;SetInFront(target);</div>
+<div class="line"><span class="lineno">  234</span>                    <a class="code hl_function" href="../../d3/d6d/a10068.html#ac325e618f8dd0376a7c726df993e2e3d">MovementInform</a>(owner);</div>
+<div class="line"><span class="lineno">  235</span>                    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  236</span>                }</div>
+<div class="line"><span class="lineno">  237</span>            }</div>
+<div class="line"><span class="lineno">  238</span>        }</div>
+<div class="line"><span class="lineno">  239</span>    }</div>
+<div class="line"><span class="lineno">  240</span> </div>
+<div class="line"><span class="lineno">  241</span>    <span class="comment">// if we&#39;re done moving, we want to clean up</span></div>
+<div class="line"><span class="lineno">  242</span>    <span class="keywordflow">if</span> (owner-&gt;HasUnitState(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a78d86f1a39cc7b566c2b93c7c644255a">UNIT_STATE_CHASE_MOVE</a>) &amp;&amp; owner-&gt;movespline-&gt;Finalized())</div>
+<div class="line"><span class="lineno">  243</span>    {</div>
+<div class="line"><span class="lineno">  244</span>        <a class="code hl_variable" href="../../d3/d6d/a10068.html#ab80b5a4575f9b484764a36634dd6faf2">i_recalculateTravel</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  245</span>        <a class="code hl_variable" href="../../d3/d6d/a10068.html#a8eae21b6df1513ecd17407d59bf52fb2">i_path</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  246</span>        <span class="keywordflow">if</span> (cOwner)</div>
+<div class="line"><span class="lineno">  247</span>            cOwner-&gt;<a class="code hl_function" href="../../d4/dfb/a08048.html#a3e6c1326418dabc00f77e1efea7f4012">SetCannotReachTarget</a>();</div>
+<div class="line"><span class="lineno">  248</span>        owner-&gt;ClearUnitState(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a78d86f1a39cc7b566c2b93c7c644255a">UNIT_STATE_CHASE_MOVE</a>);</div>
+<div class="line"><span class="lineno">  249</span>        owner-&gt;SetInFront(target);</div>
+<div class="line"><span class="lineno">  250</span>        <a class="code hl_function" href="../../d3/d6d/a10068.html#ac325e618f8dd0376a7c726df993e2e3d">MovementInform</a>(owner);</div>
+<div class="line"><span class="lineno">  251</span>    }</div>
+<div class="line"><span class="lineno">  252</span> </div>
+<div class="line"><span class="lineno">  253</span>    <span class="keywordflow">if</span> (cOwner)</div>
+<div class="line"><span class="lineno">  254</span>    {</div>
+<div class="line"><span class="lineno">  255</span>        <span class="keywordflow">if</span> (owner-&gt;movespline-&gt;Finalized() &amp;&amp; cOwner-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a748fa068a1b1b9850141f91ff17fc65d">IsWithinMeleeRange</a>(target))</div>
+<div class="line"><span class="lineno">  256</span>        { <span class="comment">// Mobs should chase you infinitely if you stop and wait every few seconds.</span></div>
+<div class="line"><span class="lineno">  257</span>            <a class="code hl_variable" href="../../d3/d6d/a10068.html#ae525659d62dc022ffcc03566ad23a01f">i_leashExtensionTimer</a>.<a class="code hl_function" href="../../dd/da7/a05632.html#a6c10a37051caf7c16f1aa057bf2bf7da">Update</a>(time_diff);</div>
+<div class="line"><span class="lineno">  258</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d6d/a10068.html#ae525659d62dc022ffcc03566ad23a01f">i_leashExtensionTimer</a>.<a class="code hl_function" href="../../dd/da7/a05632.html#af4455d0ebb784497e9fd1a08cc915062">Passed</a>())</div>
+<div class="line"><span class="lineno">  259</span>            {</div>
+<div class="line"><span class="lineno">  260</span>                <a class="code hl_variable" href="../../d3/d6d/a10068.html#ae525659d62dc022ffcc03566ad23a01f">i_leashExtensionTimer</a>.<a class="code hl_function" href="../../dd/da7/a05632.html#ab8a3c45ffe0e83132e708b5e87625c02">Reset</a>(cOwner-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#aa4192d3622a4c41d4c5a46a60209e62e">GetAttackTime</a>(<a class="code hl_enumvalue" href="../../dd/d08/a00884.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a>));</div>
+<div class="line"><span class="lineno">  261</span>                cOwner-&gt;<a class="code hl_function" href="../../d4/dfb/a08048.html#ac9335d688ff6d857c475b40589c1c916">UpdateLeashExtensionTime</a>();</div>
+<div class="line"><span class="lineno">  262</span>            }</div>
+<div class="line"><span class="lineno">  263</span>        }</div>
+<div class="line"><span class="lineno">  264</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d6d/a10068.html#ab80b5a4575f9b484764a36634dd6faf2">i_recalculateTravel</a>)</div>
+<div class="line"><span class="lineno">  265</span>            <a class="code hl_variable" href="../../d3/d6d/a10068.html#ae525659d62dc022ffcc03566ad23a01f">i_leashExtensionTimer</a>.<a class="code hl_function" href="../../dd/da7/a05632.html#ab8a3c45ffe0e83132e708b5e87625c02">Reset</a>(cOwner-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#aa4192d3622a4c41d4c5a46a60209e62e">GetAttackTime</a>(<a class="code hl_enumvalue" href="../../dd/d08/a00884.html#a85524ab4e1fb005ed500bd190f79c352a5145c1138a6f21d47061e9015e07a3ae">BASE_ATTACK</a>));</div>
+<div class="line"><span class="lineno">  266</span>    }</div>
+<div class="line"><span class="lineno">  267</span> </div>
+<div class="line"><span class="lineno">  268</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d6d/a10068.html#a1fb849d253927d30f7f88de68341d621">m_currentMode</a> == <a class="code hl_enumvalue" href="../../d4/de5/a00503.html#af39517224af91107d618ec9d8131101da216aafcb8ec8951233b472fa74108337">CHASE_MODE_DISTANCING</a>)</div>
+<div class="line"><span class="lineno">  269</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  270</span> </div>
+<div class="line"><span class="lineno">  271</span>    <span class="comment">// if the target moved, we have to consider whether to adjust</span></div>
+<div class="line"><span class="lineno">  272</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d6d/a10068.html#a80f2f31af93c87371208f2febd03f698">_lastTargetPosition</a> || target-&gt;<a class="code hl_function" href="../../db/d2c/a08500.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>() != <a class="code hl_variable" href="../../d3/d6d/a10068.html#a80f2f31af93c87371208f2febd03f698">_lastTargetPosition</a>.value() || mutualChase != <a class="code hl_variable" href="../../d3/d6d/a10068.html#a023e40670b8265260c4e3460bd1bf60c">_mutualChase</a> || !owner-&gt;IsWithinLOSInMap(target))</div>
+<div class="line"><span class="lineno">  273</span>    {</div>
+<div class="line"><span class="lineno">  274</span>        <a class="code hl_variable" href="../../d3/d6d/a10068.html#a80f2f31af93c87371208f2febd03f698">_lastTargetPosition</a> = target-&gt;<a class="code hl_function" href="../../db/d2c/a08500.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>();</div>
+<div class="line"><span class="lineno">  275</span>        <a class="code hl_variable" href="../../d3/d6d/a10068.html#a023e40670b8265260c4e3460bd1bf60c">_mutualChase</a> = mutualChase;</div>
+<div class="line"><span class="lineno">  276</span>        <span class="keywordflow">if</span> (owner-&gt;HasUnitState(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544a78d86f1a39cc7b566c2b93c7c644255a">UNIT_STATE_CHASE_MOVE</a>) || !<a class="code hl_function" href="../../d3/d6d/a10068.html#a11b7bbb07819ac4cbe6c9268429047ea">PositionOkay</a>(owner, target, maxTarget, angle))</div>
+<div class="line"><span class="lineno">  277</span>        {</div>
+<div class="line"><span class="lineno">  278</span>            <span class="comment">// can we get to the target?</span></div>
+<div class="line"><span class="lineno">  279</span>            <span class="keywordflow">if</span> (cOwner &amp;&amp; !target-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a78937fd5a75e3a800d44dcaf919a92a9">isInAccessiblePlaceFor</a>(cOwner))</div>
+<div class="line"><span class="lineno">  280</span>            {</div>
+<div class="line"><span class="lineno">  281</span>                cOwner-&gt;<a class="code hl_function" href="../../d4/dfb/a08048.html#a3e6c1326418dabc00f77e1efea7f4012">SetCannotReachTarget</a>(target-&gt;<a class="code hl_function" href="../../db/db6/a08416.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  282</span>                cOwner-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a61edf6ab694fa8f7ed6ef194fd4dd103">StopMoving</a>();</div>
+<div class="line"><span class="lineno">  283</span>                <a class="code hl_variable" href="../../d3/d6d/a10068.html#a8eae21b6df1513ecd17407d59bf52fb2">i_path</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  284</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  285</span>            }</div>
+<div class="line"><span class="lineno">  286</span> </div>
+<div class="line"><span class="lineno">  287</span>            <span class="comment">// figure out which way we want to move</span></div>
+<div class="line"><span class="lineno">  288</span>            <span class="keywordtype">float</span> x, y, z;</div>
+<div class="line"><span class="lineno">  289</span>            target-&gt;<a class="code hl_function" href="../../db/d2c/a08500.html#ad8e55f9b39618093aa625abe3a06e1ed">GetPosition</a>(x, y, z);</div>
+<div class="line"><span class="lineno">  290</span>            <span class="keywordtype">bool</span> withinRange = owner-&gt;IsInDist(target, maxRange);</div>
+<div class="line"><span class="lineno">  291</span>            <span class="keywordtype">bool</span> withinLOS = owner-&gt;IsWithinLOS(x, y, z);</div>
+<div class="line"><span class="lineno">  292</span>            <span class="keywordtype">bool</span> moveToward = !(withinRange &amp;&amp; withinLOS);</div>
 <div class="line"><span class="lineno">  293</span> </div>
-<div class="line"><span class="lineno">  294</span>            <span class="comment">// Predict chase destination to keep up with chase target</span></div>
-<div class="line"><span class="lineno">  295</span>            <span class="keywordtype">float</span> additionalRange = 0;</div>
-<div class="line"><span class="lineno">  296</span>            <span class="keywordtype">bool</span> predictDestination = !mutualChase &amp;&amp; target-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a9e2fb8e42363a9f0ae2ede9f2c0b7760">isMoving</a>();</div>
-<div class="line"><span class="lineno">  297</span>            <span class="keywordflow">if</span> (predictDestination)</div>
-<div class="line"><span class="lineno">  298</span>            {</div>
-<div class="line"><span class="lineno">  299</span>                <a class="code hl_enumeration" href="../../d1/d93/a00875.html#af91f7580a89722b7dc45a018bb46fce4">UnitMoveType</a> moveType = <a class="code hl_enumvalue" href="../../d1/d93/a00875.html#af91f7580a89722b7dc45a018bb46fce4ad231571a48b7742c2a432eb7a8a849de">MOVE_RUN</a>;</div>
-<div class="line"><span class="lineno">  300</span>                <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a49246ababd3b6facff07866b27a1d062">CanFly</a>())</div>
-<div class="line"><span class="lineno">  301</span>                    moveType = target-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a924b296aeb24186da0b821b8b47bb712">HasUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#a083358a25d084fb928e170c453128f9da4f594eeed0c7872fe36c885b032a4d00">MOVEMENTFLAG_BACKWARD</a>) ? <a class="code hl_enumvalue" href="../../d1/d93/a00875.html#af91f7580a89722b7dc45a018bb46fce4aace23680916adc6b61fe44054c841e57">MOVE_FLIGHT_BACK</a> : <a class="code hl_enumvalue" href="../../d1/d93/a00875.html#af91f7580a89722b7dc45a018bb46fce4a2461b4a7be489c54989eff2c87ae1961">MOVE_FLIGHT</a>;</div>
-<div class="line"><span class="lineno">  302</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  303</span>                {</div>
-<div class="line"><span class="lineno">  304</span>                    <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#af5f118a391194216cdd0ab4dcd2f48c3">IsWalking</a>())</div>
-<div class="line"><span class="lineno">  305</span>                        moveType = <a class="code hl_enumvalue" href="../../d1/d93/a00875.html#af91f7580a89722b7dc45a018bb46fce4af13a74f1c064b7481beaace4e25531f1">MOVE_WALK</a>;</div>
-<div class="line"><span class="lineno">  306</span>                    <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  307</span>                        moveType = target-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a924b296aeb24186da0b821b8b47bb712">HasUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#a083358a25d084fb928e170c453128f9da4f594eeed0c7872fe36c885b032a4d00">MOVEMENTFLAG_BACKWARD</a>) ? <a class="code hl_enumvalue" href="../../d1/d93/a00875.html#af91f7580a89722b7dc45a018bb46fce4ae5032445bbfb822102cc813971fbb6e2">MOVE_RUN_BACK</a> : <a class="code hl_enumvalue" href="../../d1/d93/a00875.html#af91f7580a89722b7dc45a018bb46fce4ad231571a48b7742c2a432eb7a8a849de">MOVE_RUN</a>;</div>
-<div class="line"><span class="lineno">  308</span>                }</div>
-<div class="line"><span class="lineno">  309</span>                <span class="keywordtype">float</span> speed = target-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a1aa013dc05741dbd3bc5a13aca1f54df">GetSpeed</a>(moveType) * 0.5f;</div>
-<div class="line"><span class="lineno">  310</span>                additionalRange = owner-&gt;GetExactDistSq(target) &lt; G3D::square(speed) ? 0 : speed;</div>
-<div class="line"><span class="lineno">  311</span>            }</div>
-<div class="line"><span class="lineno">  312</span> </div>
-<div class="line"><span class="lineno">  313</span>            <span class="keywordtype">bool</span> shortenPath;</div>
-<div class="line"><span class="lineno">  314</span> </div>
-<div class="line"><span class="lineno">  315</span>            <span class="comment">// if we want to move toward the target and there&#39;s no fixed angle...</span></div>
-<div class="line"><span class="lineno">  316</span>            <span class="keywordflow">if</span> (moveToward &amp;&amp; !angle)</div>
-<div class="line"><span class="lineno">  317</span>            {</div>
-<div class="line"><span class="lineno">  318</span>                <span class="comment">// ...we&#39;ll pathfind to the center, then shorten the path</span></div>
-<div class="line"><span class="lineno">  319</span>                shortenPath = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  320</span>            }</div>
-<div class="line"><span class="lineno">  321</span>            <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  322</span>            {</div>
-<div class="line"><span class="lineno">  323</span>                <span class="comment">// otherwise, we fall back to nearpoint finding</span></div>
-<div class="line"><span class="lineno">  324</span>                target-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#a71b8159f80f25ef3913369abe7086d92">GetNearPoint</a>(owner, x, y, z, (moveToward ? maxTarget : minTarget) - chaseRange - additionalRange, 0, angle ? target-&gt;<a class="code hl_function" href="../../db/d2c/a08500.html#a47bfc5f7d4f115e748123f13fc1ad0fb">ToAbsoluteAngle</a>(angle-&gt;RelativeAngle) : target-&gt;<a class="code hl_function" href="../../db/d2c/a08500.html#aee80751b631ac7287aafe8f6df5891b4">GetAngle</a>(owner));</div>
-<div class="line"><span class="lineno">  325</span>                shortenPath = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  294</span>            <span class="comment">// make a new path if we have to...</span></div>
+<div class="line"><span class="lineno">  295</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d6d/a10068.html#a8eae21b6df1513ecd17407d59bf52fb2">i_path</a> || moveToward != <a class="code hl_variable" href="../../d3/d6d/a10068.html#ae8b22a656504e59f45bb1fcf80f9a9b6">_movingTowards</a>)</div>
+<div class="line"><span class="lineno">  296</span>                <a class="code hl_variable" href="../../d3/d6d/a10068.html#a8eae21b6df1513ecd17407d59bf52fb2">i_path</a> = std::make_unique&lt;PathGenerator&gt;(owner);</div>
+<div class="line"><span class="lineno">  297</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  298</span>                <a class="code hl_variable" href="../../d3/d6d/a10068.html#a8eae21b6df1513ecd17407d59bf52fb2">i_path</a>-&gt;Clear();</div>
+<div class="line"><span class="lineno">  299</span> </div>
+<div class="line"><span class="lineno">  300</span>            <span class="comment">// Predict chase destination to keep up with chase target</span></div>
+<div class="line"><span class="lineno">  301</span>            <span class="keywordtype">float</span> additionalRange = 0;</div>
+<div class="line"><span class="lineno">  302</span>            <span class="keywordtype">bool</span> predictDestination = !mutualChase &amp;&amp; target-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a9e2fb8e42363a9f0ae2ede9f2c0b7760">isMoving</a>();</div>
+<div class="line"><span class="lineno">  303</span>            <span class="keywordflow">if</span> (predictDestination)</div>
+<div class="line"><span class="lineno">  304</span>            {</div>
+<div class="line"><span class="lineno">  305</span>                <a class="code hl_enumeration" href="../../d1/d93/a00875.html#af91f7580a89722b7dc45a018bb46fce4">UnitMoveType</a> moveType = <a class="code hl_enumvalue" href="../../d1/d93/a00875.html#af91f7580a89722b7dc45a018bb46fce4ad231571a48b7742c2a432eb7a8a849de">MOVE_RUN</a>;</div>
+<div class="line"><span class="lineno">  306</span>                <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a49246ababd3b6facff07866b27a1d062">CanFly</a>())</div>
+<div class="line"><span class="lineno">  307</span>                    moveType = target-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a924b296aeb24186da0b821b8b47bb712">HasUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#a083358a25d084fb928e170c453128f9da4f594eeed0c7872fe36c885b032a4d00">MOVEMENTFLAG_BACKWARD</a>) ? <a class="code hl_enumvalue" href="../../d1/d93/a00875.html#af91f7580a89722b7dc45a018bb46fce4aace23680916adc6b61fe44054c841e57">MOVE_FLIGHT_BACK</a> : <a class="code hl_enumvalue" href="../../d1/d93/a00875.html#af91f7580a89722b7dc45a018bb46fce4a2461b4a7be489c54989eff2c87ae1961">MOVE_FLIGHT</a>;</div>
+<div class="line"><span class="lineno">  308</span>                <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  309</span>                {</div>
+<div class="line"><span class="lineno">  310</span>                    <span class="keywordflow">if</span> (target-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#af5f118a391194216cdd0ab4dcd2f48c3">IsWalking</a>())</div>
+<div class="line"><span class="lineno">  311</span>                        moveType = <a class="code hl_enumvalue" href="../../d1/d93/a00875.html#af91f7580a89722b7dc45a018bb46fce4af13a74f1c064b7481beaace4e25531f1">MOVE_WALK</a>;</div>
+<div class="line"><span class="lineno">  312</span>                    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  313</span>                        moveType = target-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a924b296aeb24186da0b821b8b47bb712">HasUnitMovementFlag</a>(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#a083358a25d084fb928e170c453128f9da4f594eeed0c7872fe36c885b032a4d00">MOVEMENTFLAG_BACKWARD</a>) ? <a class="code hl_enumvalue" href="../../d1/d93/a00875.html#af91f7580a89722b7dc45a018bb46fce4ae5032445bbfb822102cc813971fbb6e2">MOVE_RUN_BACK</a> : <a class="code hl_enumvalue" href="../../d1/d93/a00875.html#af91f7580a89722b7dc45a018bb46fce4ad231571a48b7742c2a432eb7a8a849de">MOVE_RUN</a>;</div>
+<div class="line"><span class="lineno">  314</span>                }</div>
+<div class="line"><span class="lineno">  315</span>                <span class="keywordtype">float</span> speed = target-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a1aa013dc05741dbd3bc5a13aca1f54df">GetSpeed</a>(moveType) * 0.5f;</div>
+<div class="line"><span class="lineno">  316</span>                additionalRange = owner-&gt;GetExactDistSq(target) &lt; G3D::square(speed) ? 0 : speed;</div>
+<div class="line"><span class="lineno">  317</span>            }</div>
+<div class="line"><span class="lineno">  318</span> </div>
+<div class="line"><span class="lineno">  319</span>            <span class="keywordtype">bool</span> shortenPath;</div>
+<div class="line"><span class="lineno">  320</span> </div>
+<div class="line"><span class="lineno">  321</span>            <span class="comment">// if we want to move toward the target and there&#39;s no fixed angle...</span></div>
+<div class="line"><span class="lineno">  322</span>            <span class="keywordflow">if</span> (moveToward &amp;&amp; !angle)</div>
+<div class="line"><span class="lineno">  323</span>            {</div>
+<div class="line"><span class="lineno">  324</span>                <span class="comment">// ...we&#39;ll pathfind to the center, then shorten the path</span></div>
+<div class="line"><span class="lineno">  325</span>                shortenPath = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  326</span>            }</div>
-<div class="line"><span class="lineno">  327</span> </div>
-<div class="line"><span class="lineno">  328</span>            <span class="keywordtype">bool</span> walk = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  329</span>            <span class="keywordflow">if</span> (cOwner &amp;&amp; !cOwner-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a4ad2fdcc45e2c3c85ad59ff49268b58c">IsPet</a>())</div>
-<div class="line"><span class="lineno">  330</span>            {</div>
-<div class="line"><span class="lineno">  331</span>                <span class="keywordflow">switch</span> (cOwner-&gt;<a class="code hl_function" href="../../d4/dfb/a08048.html#add32bb97aeb2ae61ed296007696e6fce">GetMovementTemplate</a>().<a class="code hl_function" href="../../dd/db6/a08068.html#aa9e0267e4c73ec837653113394841fcf">GetChase</a>())</div>
-<div class="line"><span class="lineno">  332</span>                {</div>
-<div class="line"><span class="lineno">  333</span>                    <span class="keywordflow">case</span> CreatureChaseMovementType::CanWalk:</div>
-<div class="line"><span class="lineno">  334</span>                        walk = owner-&gt;IsWalking();</div>
-<div class="line"><span class="lineno">  335</span>                        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  336</span>                    <span class="keywordflow">case</span> CreatureChaseMovementType::AlwaysWalk:</div>
-<div class="line"><span class="lineno">  337</span>                        walk = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  338</span>                        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  339</span>                    <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  340</span>                        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  341</span>                }</div>
-<div class="line"><span class="lineno">  342</span>            }</div>
-<div class="line"><span class="lineno">  343</span> </div>
-<div class="line"><span class="lineno">  344</span>            <a class="code hl_function" href="../../d3/d6d/a10068.html#af9d77d78ac8771e18fbaa463ce6ab29b">DispatchSplineToPosition</a>(owner, x, y, z, walk, shortenPath, maxTarget, forceDest, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  345</span>        }</div>
-<div class="line"><span class="lineno">  346</span>    }</div>
-<div class="line"><span class="lineno">  347</span> </div>
-<div class="line"><span class="lineno">  348</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  349</span>}</div>
+<div class="line"><span class="lineno">  327</span>            <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  328</span>            {</div>
+<div class="line"><span class="lineno">  329</span>                <span class="comment">// otherwise, we fall back to nearpoint finding</span></div>
+<div class="line"><span class="lineno">  330</span>                target-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#a71b8159f80f25ef3913369abe7086d92">GetNearPoint</a>(owner, x, y, z, (moveToward ? maxTarget : minTarget) - chaseRange - additionalRange, 0, angle ? target-&gt;<a class="code hl_function" href="../../db/d2c/a08500.html#a47bfc5f7d4f115e748123f13fc1ad0fb">ToAbsoluteAngle</a>(angle-&gt;RelativeAngle) : target-&gt;<a class="code hl_function" href="../../db/d2c/a08500.html#aee80751b631ac7287aafe8f6df5891b4">GetAngle</a>(owner));</div>
+<div class="line"><span class="lineno">  331</span>                shortenPath = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  332</span>            }</div>
+<div class="line"><span class="lineno">  333</span> </div>
+<div class="line"><span class="lineno">  334</span>            <span class="keywordtype">bool</span> walk = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  335</span>            <span class="keywordflow">if</span> (cOwner &amp;&amp; !cOwner-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a4ad2fdcc45e2c3c85ad59ff49268b58c">IsPet</a>())</div>
+<div class="line"><span class="lineno">  336</span>            {</div>
+<div class="line"><span class="lineno">  337</span>                <span class="keywordflow">switch</span> (cOwner-&gt;<a class="code hl_function" href="../../d4/dfb/a08048.html#add32bb97aeb2ae61ed296007696e6fce">GetMovementTemplate</a>().<a class="code hl_function" href="../../dd/db6/a08068.html#aa9e0267e4c73ec837653113394841fcf">GetChase</a>())</div>
+<div class="line"><span class="lineno">  338</span>                {</div>
+<div class="line"><span class="lineno">  339</span>                    <span class="keywordflow">case</span> CreatureChaseMovementType::CanWalk:</div>
+<div class="line"><span class="lineno">  340</span>                        walk = owner-&gt;IsWalking();</div>
+<div class="line"><span class="lineno">  341</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  342</span>                    <span class="keywordflow">case</span> CreatureChaseMovementType::AlwaysWalk:</div>
+<div class="line"><span class="lineno">  343</span>                        walk = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  344</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  345</span>                    <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  346</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  347</span>                }</div>
+<div class="line"><span class="lineno">  348</span>            }</div>
+<div class="line"><span class="lineno">  349</span> </div>
+<div class="line"><span class="lineno">  350</span>            <a class="code hl_function" href="../../d3/d6d/a10068.html#af9d77d78ac8771e18fbaa463ce6ab29b">DispatchSplineToPosition</a>(owner, x, y, z, walk, shortenPath, maxTarget, forceDest, <span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  351</span>        }</div>
+<div class="line"><span class="lineno">  352</span>    }</div>
+<div class="line"><span class="lineno">  353</span> </div>
+<div class="line"><span class="lineno">  354</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  355</span>}</div>
 <div class="ttc" id="aa00491_html_a24fd9652d12d1ba9d62b8d6273664c55"><div class="ttname"><a href="../../d6/d60/a00491.html#a24fd9652d12d1ba9d62b8d6273664c55">GetChaseRange</a></div><div class="ttdeci">float GetChaseRange(Unit const *owner, Unit const *target)</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.cpp:35</div></div>
 <div class="ttc" id="aa00491_html_a53d496abdea10dead20c7e6a9cb09cd6"><div class="ttname"><a href="../../d6/d60/a00491.html#a53d496abdea10dead20c7e6a9cb09cd6">IsMutualChase</a></div><div class="ttdeci">static bool IsMutualChase(Unit *owner, Unit *target)</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.cpp:27</div></div>
 <div class="ttc" id="aa00803_html_a76b2057afb6996f8080d661890a01c6f"><div class="ttname"><a href="../../d5/d72/a00803.html#a76b2057afb6996f8080d661890a01c6f">CONTACT_DISTANCE</a></div><div class="ttdeci">#define CONTACT_DISTANCE</div><div class="ttdef"><b>Definition:</b> ObjectDefines.h:23</div></div>
@@ -883,7 +889,7 @@ template&lt;class T &gt; </div>
 <div class="ttc" id="aa08048_html_add32bb97aeb2ae61ed296007696e6fce"><div class="ttname"><a href="../../d4/dfb/a08048.html#add32bb97aeb2ae61ed296007696e6fce">Creature::GetMovementTemplate</a></div><div class="ttdeci">CreatureMovementData const &amp; GetMovementTemplate() const</div><div class="ttdef"><b>Definition:</b> Creature.cpp:2998</div></div>
 <div class="ttc" id="aa08048_html_af90aacd784c2059ec078510bd58bdb23"><div class="ttname"><a href="../../d4/dfb/a08048.html#af90aacd784c2059ec078510bd58bdb23">Creature::IsMovementPreventedByCasting</a></div><div class="ttdeci">bool IsMovementPreventedByCasting() const override</div><div class="ttdef"><b>Definition:</b> Creature.cpp:3532</div></div>
 <div class="ttc" id="aa08068_html_aa9e0267e4c73ec837653113394841fcf"><div class="ttname"><a href="../../dd/db6/a08068.html#aa9e0267e4c73ec837653113394841fcf">CreatureMovementData::GetChase</a></div><div class="ttdeci">CreatureChaseMovementType GetChase() const</div><div class="ttdef"><b>Definition:</b> CreatureData.h:150</div></div>
-<div class="ttc" id="aa08452_html_a71b8159f80f25ef3913369abe7086d92"><div class="ttname"><a href="../../de/d33/a08452.html#a71b8159f80f25ef3913369abe7086d92">WorldObject::GetNearPoint</a></div><div class="ttdeci">void GetNearPoint(WorldObject const *searcher, float &amp;x, float &amp;y, float &amp;z, float searcher_size, float distance2d, float absAngle, float controlZ=0, Position const *startPos=nullptr) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2640</div></div>
+<div class="ttc" id="aa08452_html_a71b8159f80f25ef3913369abe7086d92"><div class="ttname"><a href="../../de/d33/a08452.html#a71b8159f80f25ef3913369abe7086d92">WorldObject::GetNearPoint</a></div><div class="ttdeci">void GetNearPoint(WorldObject const *searcher, float &amp;x, float &amp;y, float &amp;z, float searcher_size, float distance2d, float absAngle, float controlZ=0, Position const *startPos=nullptr) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2644</div></div>
 <div class="ttc" id="aa08500_html_a47bfc5f7d4f115e748123f13fc1ad0fb"><div class="ttname"><a href="../../db/d2c/a08500.html#a47bfc5f7d4f115e748123f13fc1ad0fb">Position::ToAbsoluteAngle</a></div><div class="ttdeci">float ToAbsoluteAngle(float relAngle) const</div><div class="ttdef"><b>Definition:</b> Position.h:207</div></div>
 <div class="ttc" id="aa08500_html_ad8e55f9b39618093aa625abe3a06e1ed"><div class="ttname"><a href="../../db/d2c/a08500.html#ad8e55f9b39618093aa625abe3a06e1ed">Position::GetPosition</a></div><div class="ttdeci">void GetPosition(float &amp;x, float &amp;y) const</div><div class="ttdef"><b>Definition:</b> Position.h:126</div></div>
 <div class="ttc" id="aa08500_html_aee80751b631ac7287aafe8f6df5891b4"><div class="ttname"><a href="../../db/d2c/a08500.html#aee80751b631ac7287aafe8f6df5891b4">Position::GetAngle</a></div><div class="ttdeci">float GetAngle(const Position *pos) const</div><div class="ttdef"><b>Definition:</b> Position.cpp:85</div></div>
@@ -900,13 +906,13 @@ template&lt;class T &gt; </div>
 <div class="ttc" id="aa08800_html_af5f118a391194216cdd0ab4dcd2f48c3"><div class="ttname"><a href="../../db/dbe/a08800.html#af5f118a391194216cdd0ab4dcd2f48c3">Unit::IsWalking</a></div><div class="ttdeci">bool IsWalking() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1662</div></div>
 <div class="ttc" id="aa10068_html_a023e40670b8265260c4e3460bd1bf60c"><div class="ttname"><a href="../../d3/d6d/a10068.html#a023e40670b8265260c4e3460bd1bf60c">ChaseMovementGenerator::_mutualChase</a></div><div class="ttdeci">bool _mutualChase</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.h:84</div></div>
 <div class="ttc" id="aa10068_html_a11b7bbb07819ac4cbe6c9268429047ea"><div class="ttname"><a href="../../d3/d6d/a10068.html#a11b7bbb07819ac4cbe6c9268429047ea">ChaseMovementGenerator::PositionOkay</a></div><div class="ttdeci">bool PositionOkay(T *owner, Unit *target, Optional&lt; float &gt; maxDistance, Optional&lt; ChaseAngle &gt; angle)</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.cpp:47</div></div>
-<div class="ttc" id="aa10068_html_ac325e618f8dd0376a7c726df993e2e3d"><div class="ttname"><a href="../../d3/d6d/a10068.html#ac325e618f8dd0376a7c726df993e2e3d">ChaseMovementGenerator::MovementInform</a></div><div class="ttdeci">void MovementInform(T *)</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.cpp:388</div></div>
+<div class="ttc" id="aa10068_html_ac325e618f8dd0376a7c726df993e2e3d"><div class="ttname"><a href="../../d3/d6d/a10068.html#ac325e618f8dd0376a7c726df993e2e3d">ChaseMovementGenerator::MovementInform</a></div><div class="ttdeci">void MovementInform(T *)</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.cpp:394</div></div>
 <div class="ttc" id="aa10068_html_ad3100749f673d40913020f0d1df1e692"><div class="ttname"><a href="../../d3/d6d/a10068.html#ad3100749f673d40913020f0d1df1e692">ChaseMovementGenerator::HasLostTarget</a></div><div class="ttdeci">bool HasLostTarget(Unit *unit) const</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.h:67</div></div>
 <div class="ttc" id="aa10068_html_ae8b22a656504e59f45bb1fcf80f9a9b6"><div class="ttname"><a href="../../d3/d6d/a10068.html#ae8b22a656504e59f45bb1fcf80f9a9b6">ChaseMovementGenerator::_movingTowards</a></div><div class="ttdeci">bool _movingTowards</div><div class="ttdef"><b>Definition:</b> TargetedMovementGenerator.h:83</div></div>
 <div class="ttc" id="aa11308_html"><div class="ttname"><a href="../../d6/d96/a11308.html">Spell</a></div><div class="ttdef"><b>Definition:</b> Spell.h:295</div></div>
 <div class="ttc" id="aa11308_html_a5fd7b2fa3f7559c425c367852e187846"><div class="ttname"><a href="../../d6/d96/a11308.html#a5fd7b2fa3f7559c425c367852e187846">Spell::GetCastTime</a></div><div class="ttdeci">int32 GetCastTime() const</div><div class="ttdef"><b>Definition:</b> Spell.h:558</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../d4/ddc/a00917.html#a3686a5cf358c5282e94cd850b1173bc9a1bc5e61a482c5dd7de8dfaaab7270c21">AlwaysWalk</a>, <a class="el" href="../../#l00211">BASE_ATTACK</a>, <a class="el" href="../../db/dbe/a08800.html#a49246ababd3b6facff07866b27a1d062">Unit::CanFly()</a>, <a class="el" href="../../d4/ddc/a00917.html#a3686a5cf358c5282e94cd850b1173bc9a69045874015beb7513aa025b16a386bb">CanWalk</a>, <a class="el" href="../../#l00023">CONTACT_DISTANCE</a>, <a class="el" href="../../#l00085">Position::GetAngle()</a>, <a class="el" href="../../#l00897">Unit::GetAttackTime()</a>, <a class="el" href="../../#l00558">Spell::GetCastTime()</a>, <a class="el" href="../../#l00150">CreatureMovementData::GetChase()</a>, <a class="el" href="../../#l00035">GetChaseRange()</a>, <a class="el" href="../../#l04203">Unit::GetFirstCurrentCastingSpell()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l02998">Creature::GetMovementTemplate()</a>, <a class="el" href="../../#l02640">WorldObject::GetNearPoint()</a>, <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l14508">Unit::GetSpeed()</a>, <a class="el" href="../../#l00886">Unit::GetVictim()</a>, <a class="el" href="../../#l00759">Unit::HasUnitMovementFlag()</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l04261">Unit::isInAccessiblePlaceFor()</a>, <a class="el" href="../../#l03532">Creature::IsMovementPreventedByCasting()</a>, <a class="el" href="../../#l01663">Unit::isMoving()</a>, <a class="el" href="../../#l00027">IsMutualChase()</a>, <a class="el" href="../../#l00780">Unit::IsPet()</a>, <a class="el" href="../../#l01662">Unit::IsWalking()</a>, <a class="el" href="../../#l00665">Unit::IsWithinMeleeRange()</a>, <a class="el" href="../../#l00359">MOVE_FLIGHT</a>, <a class="el" href="../../#l00360">MOVE_FLIGHT_BACK</a>, <a class="el" href="../../#l00354">MOVE_RUN</a>, <a class="el" href="../../#l00355">MOVE_RUN_BACK</a>, <a class="el" href="../../#l00353">MOVE_WALK</a>, <a class="el" href="../../#l00370">MOVEMENTFLAG_BACKWARD</a>, <a class="el" href="../../#l00046">SECOND</a>, <a class="el" href="../../#l03554">Creature::SetCannotReachTarget()</a>, <a class="el" href="../../#l16656">Unit::StopMoving()</a>, <a class="el" href="../../#l00207">Position::ToAbsoluteAngle()</a>, <a class="el" href="../../#l00206">Object::ToCreature()</a>, <a class="el" href="../../#l00195">UNIT_STATE_CHASE_MOVE</a>, <a class="el" href="../../#l00201">UNIT_STATE_NO_COMBAT_MOVEMENT</a>, <a class="el" href="../../#l00222">UNIT_STATE_NOT_MOVE</a>, and <a class="el" href="../../#l03607">Creature::UpdateLeashExtensionTime()</a>.</p>
+<p class="reference">References <a class="el" href="../../d4/ddc/a00917.html#a3686a5cf358c5282e94cd850b1173bc9a1bc5e61a482c5dd7de8dfaaab7270c21">AlwaysWalk</a>, <a class="el" href="../../#l00211">BASE_ATTACK</a>, <a class="el" href="../../db/dbe/a08800.html#a49246ababd3b6facff07866b27a1d062">Unit::CanFly()</a>, <a class="el" href="../../d4/ddc/a00917.html#a3686a5cf358c5282e94cd850b1173bc9a69045874015beb7513aa025b16a386bb">CanWalk</a>, <a class="el" href="../../#l00041">CHASE_MODE_DISTANCING</a>, <a class="el" href="../../#l00023">CONTACT_DISTANCE</a>, <a class="el" href="../../#l00085">Position::GetAngle()</a>, <a class="el" href="../../#l00897">Unit::GetAttackTime()</a>, <a class="el" href="../../#l00558">Spell::GetCastTime()</a>, <a class="el" href="../../#l00150">CreatureMovementData::GetChase()</a>, <a class="el" href="../../#l00035">GetChaseRange()</a>, <a class="el" href="../../#l04203">Unit::GetFirstCurrentCastingSpell()</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l02998">Creature::GetMovementTemplate()</a>, <a class="el" href="../../#l02644">WorldObject::GetNearPoint()</a>, <a class="el" href="../../#l00126">Position::GetPosition()</a>, <a class="el" href="../../#l14508">Unit::GetSpeed()</a>, <a class="el" href="../../#l00886">Unit::GetVictim()</a>, <a class="el" href="../../#l00759">Unit::HasUnitMovementFlag()</a>, <a class="el" href="../../#l00053">IN_MILLISECONDS</a>, <a class="el" href="../../#l04261">Unit::isInAccessiblePlaceFor()</a>, <a class="el" href="../../#l03532">Creature::IsMovementPreventedByCasting()</a>, <a class="el" href="../../#l01663">Unit::isMoving()</a>, <a class="el" href="../../#l00027">IsMutualChase()</a>, <a class="el" href="../../#l00780">Unit::IsPet()</a>, <a class="el" href="../../#l01662">Unit::IsWalking()</a>, <a class="el" href="../../#l00665">Unit::IsWithinMeleeRange()</a>, <a class="el" href="../../#l00359">MOVE_FLIGHT</a>, <a class="el" href="../../#l00360">MOVE_FLIGHT_BACK</a>, <a class="el" href="../../#l00354">MOVE_RUN</a>, <a class="el" href="../../#l00355">MOVE_RUN_BACK</a>, <a class="el" href="../../#l00353">MOVE_WALK</a>, <a class="el" href="../../#l00370">MOVEMENTFLAG_BACKWARD</a>, <a class="el" href="../../#l00046">SECOND</a>, <a class="el" href="../../#l03554">Creature::SetCannotReachTarget()</a>, <a class="el" href="../../#l16656">Unit::StopMoving()</a>, <a class="el" href="../../#l00207">Position::ToAbsoluteAngle()</a>, <a class="el" href="../../#l00206">Object::ToCreature()</a>, <a class="el" href="../../#l00195">UNIT_STATE_CHASE_MOVE</a>, <a class="el" href="../../#l00201">UNIT_STATE_NO_COMBAT_MOVEMENT</a>, <a class="el" href="../../#l00222">UNIT_STATE_NOT_MOVE</a>, and <a class="el" href="../../#l03607">Creature::UpdateLeashExtensionTime()</a>.</p>
 
 </div>
 </div>
@@ -1052,29 +1058,29 @@ template&lt;class T &gt; </div>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  389</span>{</div>
-<div class="line"><span class="lineno">  390</span>    <span class="keywordflow">if</span> (!owner-&gt;IsCreature())</div>
-<div class="line"><span class="lineno">  391</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  392</span> </div>
-<div class="line"><span class="lineno">  393</span>    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d3/d6d/a10068.html#a1fb849d253927d30f7f88de68341d621">m_currentMode</a>)</div>
-<div class="line"><span class="lineno">  394</span>    {</div>
-<div class="line"><span class="lineno">  395</span>        <span class="keywordflow">default</span>:</div>
-<div class="line"><span class="lineno">  396</span>        {</div>
-<div class="line"><span class="lineno">  397</span>            <span class="comment">// Pass back the GUIDLow of the target. If it is pet&#39;s owner then PetAI will handle</span></div>
-<div class="line"><span class="lineno">  398</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d64/a06224.html">CreatureAI</a>* AI = owner-&gt;ToCreature()-&gt;AI())</div>
-<div class="line"><span class="lineno">  399</span>                AI-&gt;MovementInform(<a class="code hl_enumvalue" href="../../da/d65/a00458.html#a4f12806b915efea564eae942207002f9a4a7484b1c685865cef43981b61d3a881">CHASE_MOTION_TYPE</a>, <a class="code hl_variable" href="../../d7/d9f/a10064.html#a427d8512cbd0ccbaca65dcf48bbe39f6">i_target</a>.<a class="code hl_function" href="../../d5/de0/a05280.html#a0c80169399d27b402ff3ad97305cd337">getTarget</a>()-&gt;<a class="code hl_function" href="../../db/db6/a08416.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d1/dbc/a08468.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
-<div class="line"><span class="lineno">  400</span>            <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  401</span>        }</div>
-<div class="line"><span class="lineno">  402</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d4/de5/a00503.html#af39517224af91107d618ec9d8131101da216aafcb8ec8951233b472fa74108337">CHASE_MODE_DISTANCING</a>:</div>
-<div class="line"><span class="lineno">  403</span>        {</div>
+<div class="fragment"><div class="line"><span class="lineno">  395</span>{</div>
+<div class="line"><span class="lineno">  396</span>    <span class="keywordflow">if</span> (!owner-&gt;IsCreature())</div>
+<div class="line"><span class="lineno">  397</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  398</span> </div>
+<div class="line"><span class="lineno">  399</span>    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d3/d6d/a10068.html#a1fb849d253927d30f7f88de68341d621">m_currentMode</a>)</div>
+<div class="line"><span class="lineno">  400</span>    {</div>
+<div class="line"><span class="lineno">  401</span>        <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  402</span>        {</div>
+<div class="line"><span class="lineno">  403</span>            <span class="comment">// Pass back the GUIDLow of the target. If it is pet&#39;s owner then PetAI will handle</span></div>
 <div class="line"><span class="lineno">  404</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d64/a06224.html">CreatureAI</a>* AI = owner-&gt;ToCreature()-&gt;AI())</div>
-<div class="line"><span class="lineno">  405</span>                AI-&gt;DistancingEnded();</div>
+<div class="line"><span class="lineno">  405</span>                AI-&gt;MovementInform(<a class="code hl_enumvalue" href="../../da/d65/a00458.html#a4f12806b915efea564eae942207002f9a4a7484b1c685865cef43981b61d3a881">CHASE_MOTION_TYPE</a>, <a class="code hl_variable" href="../../d7/d9f/a10064.html#a427d8512cbd0ccbaca65dcf48bbe39f6">i_target</a>.<a class="code hl_function" href="../../d5/de0/a05280.html#a0c80169399d27b402ff3ad97305cd337">getTarget</a>()-&gt;<a class="code hl_function" href="../../db/db6/a08416.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>().<a class="code hl_function" href="../../d1/dbc/a08468.html#a0df27b85c91a2c619e8f1d9c2cb31677">GetCounter</a>());</div>
 <div class="line"><span class="lineno">  406</span>            <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno">  407</span>        }</div>
-<div class="line"><span class="lineno">  408</span>    }</div>
-<div class="line"><span class="lineno">  409</span> </div>
-<div class="line"><span class="lineno">  410</span>    <a class="code hl_variable" href="../../d3/d6d/a10068.html#a1fb849d253927d30f7f88de68341d621">m_currentMode</a> = <a class="code hl_enumvalue" href="../../d4/de5/a00503.html#af39517224af91107d618ec9d8131101dad82b9b74d55fa53dfd547c94f1a92cd3">CHASE_MODE_NORMAL</a>;</div>
-<div class="line"><span class="lineno">  411</span>}</div>
+<div class="line"><span class="lineno">  408</span>        <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../d4/de5/a00503.html#af39517224af91107d618ec9d8131101da216aafcb8ec8951233b472fa74108337">CHASE_MODE_DISTANCING</a>:</div>
+<div class="line"><span class="lineno">  409</span>        {</div>
+<div class="line"><span class="lineno">  410</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d0/d64/a06224.html">CreatureAI</a>* AI = owner-&gt;ToCreature()-&gt;AI())</div>
+<div class="line"><span class="lineno">  411</span>                AI-&gt;DistancingEnded();</div>
+<div class="line"><span class="lineno">  412</span>            <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  413</span>        }</div>
+<div class="line"><span class="lineno">  414</span>    }</div>
+<div class="line"><span class="lineno">  415</span> </div>
+<div class="line"><span class="lineno">  416</span>    <a class="code hl_variable" href="../../d3/d6d/a10068.html#a1fb849d253927d30f7f88de68341d621">m_currentMode</a> = <a class="code hl_enumvalue" href="../../d4/de5/a00503.html#af39517224af91107d618ec9d8131101dad82b9b74d55fa53dfd547c94f1a92cd3">CHASE_MODE_NORMAL</a>;</div>
+<div class="line"><span class="lineno">  417</span>}</div>
 <div class="ttc" id="aa06224_html"><div class="ttname"><a href="../../d0/d64/a06224.html">CreatureAI</a></div><div class="ttdef"><b>Definition:</b> CreatureAI.h:71</div></div>
 <div class="ttc" id="aa08468_html_a0df27b85c91a2c619e8f1d9c2cb31677"><div class="ttname"><a href="../../d1/dbc/a08468.html#a0df27b85c91a2c619e8f1d9c2cb31677">ObjectGuid::GetCounter</a></div><div class="ttdeci">LowType GetCounter() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:145</div></div>
 </div><!-- fragment -->
@@ -1488,7 +1494,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d6d/a10068.html">ChaseMovementGenerator</a></li>
-    <li class="footer">Generated on Mon Oct 27 2025 21:15:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Nov 3 2025 20:47:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

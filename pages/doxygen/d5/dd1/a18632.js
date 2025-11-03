@@ -1,6 +1,8 @@
 var a18632 =
 [
-    [ "npc_lk_wicked_spiritAI", "d2/d64/a18636.html", "d2/d64/a18636" ],
-    [ "npc_lk_wicked_spirit", "d5/dd1/a18632.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
-    [ "GetAI", "d5/dd1/a18632.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
+    [ "npc_lk_spirit_bombAI", "d5/dd1/a18632.html#a366fb54e68c0e603000183cd68daf6b7", null ],
+    [ "IsSummonedBy", "d5/dd1/a18632.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
+    [ "MovementInform", "d5/dd1/a18632.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
+    [ "UpdateAI", "d5/dd1/a18632.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
+    [ "timer", "d5/dd1/a18632.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
 ];

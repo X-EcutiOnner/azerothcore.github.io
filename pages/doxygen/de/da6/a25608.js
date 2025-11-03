@@ -1,6 +1,5 @@
 var a25608 =
 [
-    [ "CalculateAmount", "de/da6/a25608.html#ac0018b57967a3d3ae71aa81745032f15", null ],
-    [ "PrepareAuraScript", "de/da6/a25608.html#ab249a493050c5527eeec8913e94cfc64", null ],
-    [ "Register", "de/da6/a25608.html#a8f078f8370eacba197ceb2068b6a538d", null ]
+    [ "PrepareSpellScript", "de/da6/a25608.html#a800936a311c05236dbd0c9c2f0edd5d9", null ],
+    [ "Register", "de/da6/a25608.html#ae176a1f643797b5367a593bbb2acc506", null ]
 ];

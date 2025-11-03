@@ -1,7 +1,6 @@
 var a24056 =
 [
-    [ "Load", "d1/d69/a24056.html#aba7e1a0b87607386649bb842b5058c3e", null ],
-    [ "OnRemove", "d1/d69/a24056.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
-    [ "PrepareAuraScript", "d1/d69/a24056.html#ac62b18eedbadb0b3581d772909175e96", null ],
-    [ "Register", "d1/d69/a24056.html#a17e8be131f01b2434b18740b20a08d6e", null ]
+    [ "HandlePeriodic", "d1/d69/a24056.html#aec3f36e2c5fedddd84478b9e3a59e6f4", null ],
+    [ "PrepareAuraScript", "d1/d69/a24056.html#a2b809a60626119f6bcf595bd3581c2be", null ],
+    [ "Register", "d1/d69/a24056.html#a299f84e9c12406c79a56999a13de5c1c", null ]
 ];

@@ -1,5 +1,6 @@
 var a20032 =
 [
-    [ "achievement_auriaya_crazy_cat_lady", "da/ddb/a20032.html#a1eb5d931c7c520b7cd6f516bfcb819e4", null ],
-    [ "OnCheck", "da/ddb/a20032.html#a905b9a4389521fde6d26d3c19a0fe21c", null ]
+    [ "npc_auriaya_feral_defenderAI", "d0/d8f/a20036.html", "d0/d8f/a20036" ],
+    [ "npc_auriaya_feral_defender", "da/ddb/a20032.html#ae1afc396a1d9e6c9c2042ee0f58fb270", null ],
+    [ "GetAI", "da/ddb/a20032.html#abec35e280e42154af82f3e7e4fcec48d", null ]
 ];

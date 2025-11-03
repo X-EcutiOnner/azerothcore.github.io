@@ -1,7 +1,6 @@
 var a20940 =
 [
-    [ "npc_xt002_life_sparkAI", "d5/d7d/a20940.html#a763ec1834d3b71c88bfa80bc0e34966a", null ],
-    [ "Reset", "d5/d7d/a20940.html#a596e2ed45b9221915781b03bf2d18e5b", null ],
-    [ "UpdateAI", "d5/d7d/a20940.html#af0a1e717b08b2fa35dd4ff83778a87c1", null ],
-    [ "_attackTimer", "d5/d7d/a20940.html#a79bf005de95aa1fee60dfc73b8920dad", null ]
+    [ "BoomEvent", "d5/d7d/a20940.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
+    [ "Execute", "d5/d7d/a20940.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
+    [ "_me", "d5/d7d/a20940.html#a30de77ee751f1c10231088cb84942342", null ]
 ];

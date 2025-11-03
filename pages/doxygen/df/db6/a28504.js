@@ -1,10 +1,12 @@
 var a28504 =
 [
-    [ "ID", "df/db6/a28504.html#a906c42770a619884f08b67e2870bff93", null ],
-    [ "reqarenapoints", "df/db6/a28504.html#a5d45007a832d6120e29c7821c07646de", null ],
-    [ "reqarenaslot", "df/db6/a28504.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
-    [ "reqhonorpoints", "df/db6/a28504.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
-    [ "reqitem", "df/db6/a28504.html#a9cba8872c909260a55dcfdf7f4726899", null ],
-    [ "reqitemcount", "df/db6/a28504.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
-    [ "reqpersonalarenarating", "df/db6/a28504.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
+    [ "CalendarFilterType", "df/db6/a28504.html#a082b59a0ead8223e590cbb371f3ad122", null ],
+    [ "CalendarFlags", "df/db6/a28504.html#a6f9cf483200ac982bab7a66ff8bef33d", null ],
+    [ "Date", "df/db6/a28504.html#ac5b08b086ef0668508ea9da48642e95b", null ],
+    [ "Duration", "df/db6/a28504.html#a10cae1b1fbb91930209a714c545b129b", null ],
+    [ "Id", "df/db6/a28504.html#a1119824959b87fb312209a998a5869b1", null ],
+    [ "Looping", "df/db6/a28504.html#afa2d93998650f88e62bfa76807961274", null ],
+    [ "Priority", "df/db6/a28504.html#a6d82bc7a66d227f61c3be2260a3d03f5", null ],
+    [ "Region", "df/db6/a28504.html#a96a8e5ceae0f4b0d8cc6cf3aa59802a0", null ],
+    [ "TextureFilename", "df/db6/a28504.html#a2209ecbb78f1f467491506cc97df57e4", null ]
 ];

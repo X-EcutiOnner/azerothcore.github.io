@@ -1,19 +1,15 @@
 var a23360 =
 [
-    [ "boss_lady_vashj", "d0/df0/a23360.html#a3934fc6c6363f7c2ee235a58a262135f", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "d0/df0/a23360.html#ad424f1c23cc893e7e48c3e854bf20936", null ],
-    [ "JustDied", "d0/df0/a23360.html#a8f0074b650b6e0a245726ebdeb8651b6", null ],
-    [ "JustEngagedWith", "d0/df0/a23360.html#a2b3b3a3bacd8042eb64a49cc9ca8847f", null ],
-    [ "JustSummoned", "d0/df0/a23360.html#ac577c4f0d0c3e9d1635a1ca9a0954095", null ],
-    [ "KilledUnit", "d0/df0/a23360.html#a0418ead0213eeea16a531baca96db704", null ],
-    [ "MoveInLineOfSight", "d0/df0/a23360.html#a4780e7cbcb7984c5742a5c072acfe252", null ],
-    [ "MovementInform", "d0/df0/a23360.html#ad2d58872d657b3a81c6be0e69d8bff1f", null ],
-    [ "Reset", "d0/df0/a23360.html#a114729e5a3caa70c89d8c8b53eba5af3", null ],
-    [ "ScheduleSpells", "d0/df0/a23360.html#ac4821984e5b5310877204fdb93810029", null ],
-    [ "UpdateAI", "d0/df0/a23360.html#a6ec56730a2735b1d9d35c63242c310b2", null ],
-    [ "_batTimer", "d0/df0/a23360.html#a0ccfbf23e8f47b77496d35cdeae5e3ac", null ],
-    [ "_count", "d0/df0/a23360.html#a2c4c2ecaa4b3ad859f46e36be34b1076", null ],
-    [ "_intro", "d0/df0/a23360.html#a2aafb94d956182723ccc9374854c7fb0", null ],
-    [ "_playerAngle", "d0/df0/a23360.html#a005515a4f2ad0661d5faff9107ea068b", null ],
-    [ "_recentlySpoken", "d0/df0/a23360.html#ac7dd5e6962e72a0eb56c89d417bda37a", null ]
+    [ "boss_hydross_the_unstable", "d0/df0/a23360.html#a8e385f4f7f448033b00828540aa16cde", null ],
+    [ "JustDied", "d0/df0/a23360.html#ad05fa00eade9614ed54b03a9a4d5d348", null ],
+    [ "JustEngagedWith", "d0/df0/a23360.html#a4fd2138ce9962d89410b57702d7df33d", null ],
+    [ "JustReachedHome", "d0/df0/a23360.html#a03cbe48effc4cd3a2821312e60578ed4", null ],
+    [ "JustSummoned", "d0/df0/a23360.html#a3e9031d95c9e62cbd83eeba4af6c965a", null ],
+    [ "KilledUnit", "d0/df0/a23360.html#a252d3abdf24c06922c88823bc5e535f3", null ],
+    [ "Reset", "d0/df0/a23360.html#a0bcad41c74800ab58df8b5ea54d2ec8e", null ],
+    [ "SetForm", "d0/df0/a23360.html#ac80b0611533998d15406d45385d37629", null ],
+    [ "SummonedCreatureDespawn", "d0/df0/a23360.html#afe4b76f528045506586f8289eaee27aa", null ],
+    [ "SummonMovementInform", "d0/df0/a23360.html#af74b63bf239de38f8dd04e69a6ea2b54", null ],
+    [ "SummonTaintedElementalOOC", "d0/df0/a23360.html#a219094dc5a81acb7d7ae86d5d7945da8", null ],
+    [ "_recentlySpoken", "d0/df0/a23360.html#acfd0f1a6331b08659c5fffa7850d30b4", null ]
 ];

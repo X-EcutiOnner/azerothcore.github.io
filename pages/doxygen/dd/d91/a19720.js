@@ -1,11 +1,12 @@
 var a19720 =
 [
-    [ "boss_loken", "dd/d91/a19720.html#a50ba322cf0adb3030444bf8fde4dba0c", null ],
-    [ "JustDied", "dd/d91/a19720.html#a6bf8e999ebb5581dd1bd03ed6b96a1dc", null ],
-    [ "JustEngagedWith", "dd/d91/a19720.html#aca09a816f57dea1c7c132258a6d0e5ba", null ],
-    [ "KilledUnit", "dd/d91/a19720.html#a85ae3094927f7484216b44582f9a2bf6", null ],
-    [ "MoveInLineOfSight", "dd/d91/a19720.html#ac9f3115629e5595d06c213d3e04afa68", null ],
-    [ "Reset", "dd/d91/a19720.html#abe6a1192eb9e4d5afa65dcc01b4472ec", null ],
-    [ "UpdateAI", "dd/d91/a19720.html#a23537b8367d3685d7b479f4ac73c1c80", null ],
-    [ "_introDone", "dd/d91/a19720.html#a348b7ef60fb815fb160e7f348b8f7af4", null ]
+    [ "boss_ionar", "dd/d91/a19720.html#a323da67c3ff33d09d07cf0369600a473", null ],
+    [ "JustDied", "dd/d91/a19720.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
+    [ "JustEngagedWith", "dd/d91/a19720.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
+    [ "KilledUnit", "dd/d91/a19720.html#ae6b1225147bc146066185d4d21c19f14", null ],
+    [ "Reset", "dd/d91/a19720.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
+    [ "ScheduleEvents", "dd/d91/a19720.html#af74dda7ad9cd156036689694b3bb9986", null ],
+    [ "SpellHit", "dd/d91/a19720.html#a85c0ba28de5a684435246539d2106dcd", null ],
+    [ "Split", "dd/d91/a19720.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
+    [ "UpdateAI", "dd/d91/a19720.html#ad6fb218e743bad9fec357ea7d862744d", null ]
 ];

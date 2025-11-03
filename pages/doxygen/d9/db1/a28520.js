@@ -1,9 +1,10 @@
 var a28520 =
 [
-    [ "itemId", "d9/db1/a28520.html#ae125712e5569c9699b4748b6a15fbc12", null ],
-    [ "items_to_triggerspell", "d9/db1/a28520.html#a8496a2f3fa3e230def04b996fc585760", null ],
-    [ "name", "d9/db1/a28520.html#a9b62f843833d524f200782d44151503d", null ],
-    [ "required_skill_id", "d9/db1/a28520.html#ab3058ac725fb8f105b9359d5a5147942", null ],
-    [ "required_skill_value", "d9/db1/a28520.html#a58d0997a73cf48061545edbc0201f544", null ],
-    [ "spells", "d9/db1/a28520.html#a8aac032992efe1bfbba0e49693562c7f", null ]
+    [ "ID", "d9/db1/a28520.html#a906c42770a619884f08b67e2870bff93", null ],
+    [ "reqarenapoints", "d9/db1/a28520.html#a5d45007a832d6120e29c7821c07646de", null ],
+    [ "reqarenaslot", "d9/db1/a28520.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
+    [ "reqhonorpoints", "d9/db1/a28520.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
+    [ "reqitem", "d9/db1/a28520.html#a9cba8872c909260a55dcfdf7f4726899", null ],
+    [ "reqitemcount", "d9/db1/a28520.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
+    [ "reqpersonalarenarating", "d9/db1/a28520.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
 ];

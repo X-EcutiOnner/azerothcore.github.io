@@ -1,8 +1,6 @@
 var a27060 =
 [
-    [ "Detonate", "d4/dd5/a27060.html#a89f46334c78fc190afd7b03706fa2513", null ],
-    [ "HandleProc", "d4/dd5/a27060.html#a82ad88c757eed35f7e0f2af38ceb2273", null ],
-    [ "PrepareAuraScript", "d4/dd5/a27060.html#a7268602da6dc74d7c501fb90c8167226", null ],
-    [ "Register", "d4/dd5/a27060.html#ac1574e943840e5f15a808ed4d338cd5f", null ],
-    [ "Validate", "d4/dd5/a27060.html#abbc5c9d069e716d9356ec366713abb84", null ]
+    [ "HandleScriptEffect", "d4/dd5/a27060.html#a3f8988017d088d08df08ba8b696b552b", null ],
+    [ "PrepareSpellScript", "d4/dd5/a27060.html#a56f5c59c7dc8d4f8117dc64d5a5a3a0b", null ],
+    [ "Register", "d4/dd5/a27060.html#a4ebc3c83dd77134af2ee81a46b121d19", null ]
 ];

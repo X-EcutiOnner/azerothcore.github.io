@@ -1,14 +1,9 @@
 var a22288 =
 [
-    [ "npc_tirions_gambit_tirionAI", "d5/dab/a22288.html#a38959c7a5b502b5716a5c09b0f6ae8a4", null ],
-    [ "DoAction", "d5/dab/a22288.html#a495e0762614020ef6d7b741447099326", null ],
-    [ "DoSummonAction", "d5/dab/a22288.html#a891b31661705ed4df634059e6165d499", null ],
-    [ "JustSummoned", "d5/dab/a22288.html#ac62ec499aba734d36249f8c00b36e2d4", null ],
-    [ "Reset", "d5/dab/a22288.html#afb398bda1d6ee4d35527208e6c5bffee", null ],
-    [ "SetData", "d5/dab/a22288.html#a41f24de5f824d84edb69c6b2bdca6d4e", null ],
-    [ "SummonedCreatureDespawn", "d5/dab/a22288.html#aca05fee85997dffba6ec998b144b9495", null ],
-    [ "UpdateEscortAI", "d5/dab/a22288.html#a0b681d6cc1566e6193f7eb143ab2bd5e", null ],
-    [ "WaypointReached", "d5/dab/a22288.html#af5fd69b799c6227dba901f434e30c434", null ],
-    [ "events", "d5/dab/a22288.html#a711c55c26187ae695644b770a358766e", null ],
-    [ "summons", "d5/dab/a22288.html#af574a4b136ff42c597e30c83e4d463ca", null ]
+    [ "npc_lord_areteAI", "d5/dab/a22288.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
+    [ "InitializeAI", "d5/dab/a22288.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
+    [ "UpdateAI", "d5/dab/a22288.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
+    [ "_landgrenGUID", "d5/dab/a22288.html#ac0e3753096dfe779024acc8400791171", null ],
+    [ "_landgrenSoulGUID", "d5/dab/a22288.html#aaa28c67691610136f0b418b30892f3cd", null ],
+    [ "events", "d5/dab/a22288.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
 ];

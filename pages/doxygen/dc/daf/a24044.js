@@ -1,6 +1,6 @@
 var a24044 =
 [
-    [ "HandleScriptEffect", "dc/daf/a24044.html#acfe80e22e6c78dba50155f7f20c0678b", null ],
-    [ "PrepareSpellScript", "dc/daf/a24044.html#a17cb5f874343bd40c6aafaf9d627b047", null ],
-    [ "Register", "dc/daf/a24044.html#a4bb5cfd2cc8503b3a840fc68624a33c1", null ]
+    [ "npc_capernian", "dc/daf/a24044.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "dc/daf/a24044.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "dc/daf/a24044.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

@@ -1,12 +1,10 @@
 var a19640 =
 [
-    [ "npc_oculus_drakeAI", "d2/dc7/a19640.html#a214d9b77a5653f1a5f60106081eaf683", null ],
-    [ "IsSummonedBy", "d2/dc7/a19640.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
-    [ "MovementInform", "d2/dc7/a19640.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
-    [ "PassengerBoarded", "d2/dc7/a19640.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
-    [ "SpellHitTarget", "d2/dc7/a19640.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
-    [ "UpdateAI", "d2/dc7/a19640.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
-    [ "despawnTimer", "d2/dc7/a19640.html#a560dc0936a78267a4036b209c6718732", null ],
-    [ "JustSummoned", "d2/dc7/a19640.html#a8b656a464525e881944e72e9486b0eb9", null ],
-    [ "m_pInstance", "d2/dc7/a19640.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
+    [ "npc_oculus_drakegiverAI", "d7/dd6/a19644.html", "d7/dd6/a19644" ],
+    [ "npc_oculus_drakegiver", "d2/dc7/a19640.html#add34aba22fb2ca16f6f055dd77a2994b", null ],
+    [ "GetAI", "d2/dc7/a19640.html#aa26a2b82c5e4076ce704d5884895d903", null ],
+    [ "OnGossipHello", "d2/dc7/a19640.html#ac00d09d2d81121d562e3303704229c18", null ],
+    [ "OnGossipSelect", "d2/dc7/a19640.html#ad0fc46e306080ccfe9988d416ef71e77", null ],
+    [ "RemoveEssence", "d2/dc7/a19640.html#a70513d873111c590ca4e33cb446a4438", null ],
+    [ "StoreEssence", "d2/dc7/a19640.html#ac8bbe890722aa924a7f0dee161d342c4", null ]
 ];

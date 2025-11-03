@@ -1,6 +1,6 @@
 var a17960 =
 [
-    [ "npc_cult_adherentAI", "de/dbb/a17964.html", "de/dbb/a17964" ],
-    [ "npc_cult_adherent", "dd/d12/a17960.html#a74496518cf30674044a4a8a166e4c345", null ],
-    [ "GetAI", "dd/d12/a17960.html#a2bfe464c738c983b9539f9216cabd63a", null ]
+    [ "npc_cult_fanaticAI", "de/dbb/a17964.html", "de/dbb/a17964" ],
+    [ "npc_cult_fanatic", "dd/d12/a17960.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
+    [ "GetAI", "dd/d12/a17960.html#ae4d22bac12d17d79669d3fccd4029952", null ]
 ];

@@ -1,7 +1,5 @@
 var a26196 =
 [
-    [ "OnApply", "d2/df3/a26196.html#aa86d7b45f028773b8666c06d3a0e60b4", null ],
-    [ "OnRemove", "d2/df3/a26196.html#a0fdd3c926bb1b2846579102e64e8e18c", null ],
-    [ "PrepareAuraScript", "d2/df3/a26196.html#aa93b45e31c33caf3ea51a26846566b34", null ],
-    [ "Register", "d2/df3/a26196.html#a56d819c88a4e70a89cef5183e3c5b728", null ]
+    [ "PrepareSpellScript", "d2/df3/a26196.html#ad7b3235062959af1f28bb6c7b2f929c3", null ],
+    [ "Register", "d2/df3/a26196.html#ae35dad0d33ee0dd571a8f5fcccd2ce58", null ]
 ];

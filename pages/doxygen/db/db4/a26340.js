@@ -1,10 +1,16 @@
 var a26340 =
 [
-    [ "Load", "db/db4/a26340.html#a4330a13b4144aa0a2e299c5cb00b1aea", null ],
-    [ "PrepareAuraScript", "db/db4/a26340.html#ae04fa1b54e4b0219d1dcdf998e708c29", null ],
-    [ "Register", "db/db4/a26340.html#a3031d32b7366f7f707cbb69e3cb96fc8", null ],
-    [ "Split", "db/db4/a26340.html#aa28fe4ba6a8a501318b6d1d49a2fa9b9", null ],
-    [ "groupSize", "db/db4/a26340.html#aa1e61b128f63c802dc623be551657df1", null ],
-    [ "minHpPct", "db/db4/a26340.html#a279f1a2b232a7be981e4315c9e8595e4", null ],
-    [ "remainingAmount", "db/db4/a26340.html#ad00a550f82d6b3ae77c3112c753de60b", null ]
+    [ "Spell", "db/db4/a26340.html#ae62bcfdf7168a58818ffc8b302cffcb7", [
+      [ "PAL_SPELL_ARDENT_DEFENDER_DEBUFF", "db/db4/a26340.html#ae62bcfdf7168a58818ffc8b302cffcb7a85895054b57340dab995dc14f826314b", null ],
+      [ "PAL_SPELL_ARDENT_DEFENDER_HEAL", "db/db4/a26340.html#ae62bcfdf7168a58818ffc8b302cffcb7a717b484434bc8fda128b67bd90a123fe", null ]
+    ] ],
+    [ "spell_pal_ardent_defender", "db/db4/a26340.html#a9bc7f72089287dbac352b308489c7781", null ],
+    [ "Absorb", "db/db4/a26340.html#aee6b0b00078a880dc5ed6684991ee8c8", null ],
+    [ "CalculateAmount", "db/db4/a26340.html#a749742ceb8be20f5d327becbea7c64d5", null ],
+    [ "Load", "db/db4/a26340.html#a3718265890fad2a6c6d53b5f401d16dd", null ],
+    [ "PrepareAuraScript", "db/db4/a26340.html#a33dd57579e724aee0c6f2a8d767fc3c8", null ],
+    [ "Register", "db/db4/a26340.html#af405994d4be5f11ce63028d0dba1e1da", null ],
+    [ "Validate", "db/db4/a26340.html#a74fafd4bde88c2e581cac555a131b39d", null ],
+    [ "absorbPct", "db/db4/a26340.html#a408fe2ab57ae0adcf803c71b5f6cd724", null ],
+    [ "healPct", "db/db4/a26340.html#a325024973959856c000f380b0bfc3bda", null ]
 ];

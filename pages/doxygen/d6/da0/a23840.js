@@ -1,6 +1,15 @@
 var a23840 =
 [
-    [ "HandleEffect", "d6/da0/a23840.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
-    [ "PrepareSpellScript", "d6/da0/a23840.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
-    [ "Register", "d6/da0/a23840.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "d6/da0/a23840.html#a06f7e0f178d45a92f16dc06b68645fba", null ],
+    [ "Initialize", "d6/da0/a23840.html#afa054fb11fe777019baa70f46bfd8212", null ],
+    [ "OnCreatureCreate", "d6/da0/a23840.html#aa05f08785d9d62db41e8d29ef55db0d8", null ],
+    [ "OnCreatureRemove", "d6/da0/a23840.html#a727d4d3bfc52391a088e86fef013617c", null ],
+    [ "OnGameObjectCreate", "d6/da0/a23840.html#a020584d79926d170c02655c5e2841127", null ],
+    [ "OnGameObjectRemove", "d6/da0/a23840.html#a9a6ac60b68e2a515e771696c5c88b93d", null ],
+    [ "SetBossState", "d6/da0/a23840.html#a160269f8d4cde5297d5f70a5f8eec2b2", null ],
+    [ "SetData", "d6/da0/a23840.html#a847abafb7b00e9b2cab73a90a16b959e", null ],
+    [ "_columnSet", "d6/da0/a23840.html#a2593bf88b0aba019a831b3ca6a8e15b9", null ],
+    [ "_cubesSet", "d6/da0/a23840.html#ad59566c515cbea3274d17e483f3b4ef1", null ],
+    [ "_magtheridonGUID", "d6/da0/a23840.html#a03e70ccaf8c23d2c775051320c6c4636", null ],
+    [ "_wardersSet", "d6/da0/a23840.html#a37b2621d50e8a8f0bee3f089dbce88f9", null ]
 ];

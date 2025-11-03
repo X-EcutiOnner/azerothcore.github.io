@@ -1,7 +1,8 @@
 var a22564 =
 [
-    [ "npc_wg_quest_giver", "d3/d57/a22564.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "d3/d57/a22564.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "d3/d57/a22564.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "d3/d57/a22564.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "npc_wg_spirit_guideAI", "d9/d00/a22568.html", "d9/d00/a22568" ],
+    [ "npc_wg_spirit_guide", "d3/d57/a22564.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
+    [ "GetAI", "d3/d57/a22564.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
+    [ "OnGossipHello", "d3/d57/a22564.html#a2d46078cb47f817239685d168f7f2e35", null ],
+    [ "OnGossipSelect", "d3/d57/a22564.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
 ];

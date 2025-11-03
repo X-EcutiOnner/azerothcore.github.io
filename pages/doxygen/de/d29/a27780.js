@@ -1,6 +1,8 @@
 var a27780 =
 [
-    [ "npc_target_dummyAI", "db/dc3/a27784.html", "db/dc3/a27784" ],
-    [ "npc_target_dummy", "de/d29/a27780.html#a04847f9893a40c0f1c1879f448cc228d", null ],
-    [ "GetAI", "de/d29/a27780.html#a1aff9199c160e20f9e92ee9f90178d63", null ]
+    [ "npc_riggle_bassbaitAI", "db/dc3/a27784.html", "db/dc3/a27784" ],
+    [ "npc_riggle_bassbait", "de/d29/a27780.html#afc4280099cda3c28c4634d649e636839", null ],
+    [ "GetAI", "de/d29/a27780.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
+    [ "OnGossipHello", "de/d29/a27780.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
+    [ "OnQuestReward", "de/d29/a27780.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
 ];

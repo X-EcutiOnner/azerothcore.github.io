@@ -1,8 +1,6 @@
 var a16660 =
 [
-    [ "npc_toc_hunterAI", "d4/d9f/a16660.html#a80f80231bfe5b71bf415da3202c2e6fb", null ],
-    [ "JustSummoned", "d4/d9f/a16660.html#aa270248ad9e0c319234ff0741270b465", null ],
-    [ "myCanCast", "d4/d9f/a16660.html#a4e599ae2ee4e892795889bd57dd29e27", null ],
-    [ "UpdateAI", "d4/d9f/a16660.html#a81f384607ab7e8c4ed7385bdcddfd7a5", null ],
-    [ "events", "d4/d9f/a16660.html#a0cf5ecd9d7b3c92e2da836983323f378", null ]
+    [ "npc_toc_hunterAI", "d5/da9/a16664.html", "d5/da9/a16664" ],
+    [ "npc_toc_hunter", "d4/d9f/a16660.html#a73d4113df71626af7b8294e08373965e", null ],
+    [ "GetAI", "d4/d9f/a16660.html#a8b9d2a8186aefb3e411bd20c006207d4", null ]
 ];

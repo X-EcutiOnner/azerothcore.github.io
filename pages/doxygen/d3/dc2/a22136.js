@@ -1,7 +1,8 @@
 var a22136 =
 [
-    [ "npc_tallhorn_stagAI", "d3/dc2/a22136.html#a50947c450eece979193b45728e5e1f82", null ],
-    [ "Reset", "d3/dc2/a22136.html#a67dce7ad60ddea63fcba5e1e2079fa7c", null ],
-    [ "UpdateAI", "d3/dc2/a22136.html#adf60f62fa92238cb315c42e0179c3f17", null ],
-    [ "_phase", "d3/dc2/a22136.html#ace2ac6f418876393d2f6d3457b1bc4c0", null ]
+    [ "npc_ravenous_worgAI", "d3/dc2/a22136.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "d3/dc2/a22136.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "d3/dc2/a22136.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "d3/dc2/a22136.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "d3/dc2/a22136.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

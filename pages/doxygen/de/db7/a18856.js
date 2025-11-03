@@ -1,6 +1,7 @@
 var a18856 =
 [
-    [ "npc_captain_brandonAI", "de/db7/a18856.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
-    [ "Reset", "de/db7/a18856.html#a13226b321707eee9faf5f073c81403e4", null ],
-    [ "UpdateAI", "de/db7/a18856.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
+    [ "npc_captain_arnathAI", "de/db7/a18856.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
+    [ "FindFriendlyCreature", "de/db7/a18856.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
+    [ "Reset", "de/db7/a18856.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
+    [ "UpdateAI", "de/db7/a18856.html#a020efd7adc0d60152007906e3229988d", null ]
 ];

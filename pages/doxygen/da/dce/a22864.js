@@ -1,6 +1,8 @@
 var a22864 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "d4/ddb/a22868.html", "d4/ddb/a22868" ],
-    [ "instance_sethekk_halls", "da/dce/a22864.html#ab50d296266cf377bfb34750ec36963ef", null ],
-    [ "GetInstanceScript", "da/dce/a22864.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
+    [ "npc_anzu_spirit", "da/dce/a22864.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
+    [ "IsSummonedBy", "da/dce/a22864.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
+    [ "Reset", "da/dce/a22864.html#acef3f7093f93b6c227d145523cdc487a", null ],
+    [ "UpdateAI", "da/dce/a22864.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
+    [ "_scheduler", "da/dce/a22864.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
 ];

@@ -1,14 +1,14 @@
 var a19536 =
 [
-    [ "boss_keristrasza", "d2/d78/a19536.html#a5f83fee9a5616751601f0c1155afab36", null ],
-    [ "CanRemovePrison", "d2/d78/a19536.html#a900a4a8428a04b880462b20196e94858", null ],
-    [ "GetData", "d2/d78/a19536.html#aa1e7f5b0c0fe89d0e67ccfd198d235ba", null ],
-    [ "JustDied", "d2/d78/a19536.html#a3f962a6c7a65d458f1b05a15e6f53951", null ],
-    [ "JustEngagedWith", "d2/d78/a19536.html#a26d6559cc92841f8f76544cdbbf2cbaf", null ],
-    [ "KilledUnit", "d2/d78/a19536.html#a67b50805b9e01cd1d0fb7966b3288b9f", null ],
-    [ "RemovePrison", "d2/d78/a19536.html#a97b6fe26a5bbc4a7c528939e82cd0ca5", null ],
-    [ "Reset", "d2/d78/a19536.html#a13dce974fa83577397a80ff52de5d835", null ],
-    [ "SetData", "d2/d78/a19536.html#ac32f3e8f568535d4d197d383f9e51c5f", null ],
-    [ "UpdateAI", "d2/d78/a19536.html#a46a2e61e27cc72710c7aa14212673eae", null ],
-    [ "aGuids", "d2/d78/a19536.html#aa4c06ad8d599192c2f4ecb52f92e3a31", null ]
+    [ "boss_anomalus", "d2/d78/a19536.html#aa4dd8fac7c360beb834382f624ed2246", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d2/d78/a19536.html#ada0735330bff29a8c04706c980e6bbfc", null ],
+    [ "GetData", "d2/d78/a19536.html#ad48aebb50cda7ee621f71803669f04c2", null ],
+    [ "JustDied", "d2/d78/a19536.html#a41e257481921a122dba30348559e05fb", null ],
+    [ "JustEngagedWith", "d2/d78/a19536.html#a7224e8cf6e849d7115f88c7198fdb023", null ],
+    [ "JustSummoned", "d2/d78/a19536.html#a3c0413f30d96268cab724856334e61ee", null ],
+    [ "Reset", "d2/d78/a19536.html#a80bec5060c1b6747f2b418b90bcc18eb", null ],
+    [ "SetData", "d2/d78/a19536.html#aa79ec9829862b573cd0f38f965d737e8", null ],
+    [ "UpdateAI", "d2/d78/a19536.html#a5d3d77b49e256e09bbb613e810dfc60b", null ],
+    [ "achievement", "d2/d78/a19536.html#a2db4d6d2d6a19642607560e93ae8bd77", null ],
+    [ "activeRifts", "d2/d78/a19536.html#ac7632bd47c4d64ac032fd066138f22cf", null ]
 ];

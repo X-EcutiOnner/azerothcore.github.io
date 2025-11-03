@@ -1,6 +1,6 @@
 var a21324 =
 [
-    [ "npc_ravenous_furbolgAI", "d9/d14/a21328.html", "d9/d14/a21328" ],
-    [ "npc_ravenous_furbolg", "db/dcf/a21324.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
-    [ "GetAI", "db/dcf/a21324.html#a284c366e6f5bd024d9627a83dd966669", null ]
+    [ "npc_massive_jormungarAI", "d9/d14/a21328.html", "d9/d14/a21328" ],
+    [ "npc_massive_jormungar", "db/dcf/a21324.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
+    [ "GetAI", "db/dcf/a21324.html#a68e3557e967ef633ba59fa81e661b80c", null ]
 ];

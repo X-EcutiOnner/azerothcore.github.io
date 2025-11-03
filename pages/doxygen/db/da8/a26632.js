@@ -1,5 +1,7 @@
 var a26632 =
 [
-    [ "spell_q11515_fel_siphon_dummy", "db/da8/a26632.html#a80fa790a716d1ae950f43f9a298afd66", null ],
-    [ "GetSpellScript", "db/da8/a26632.html#a0d122972fc036d1f1e49c49acda58be3", null ]
+    [ "HandleDummy", "db/da8/a26632.html#a123ddc812fb358b7517eba60d1f90eba", null ],
+    [ "Load", "db/da8/a26632.html#a64ca188f58b4f34827f03ae2878deef0", null ],
+    [ "PrepareSpellScript", "db/da8/a26632.html#a7068dd9e6f7838d9ad7023c2d61482cc", null ],
+    [ "Register", "db/da8/a26632.html#aff7ea1c5c569022ece56ecdb3f434723", null ]
 ];

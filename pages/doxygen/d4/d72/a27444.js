@@ -1,5 +1,5 @@
 var a27444 =
 [
-    [ "go_arena_ready_marker", "d4/d72/a27444.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
-    [ "OnGossipHello", "d4/d72/a27444.html#a9f51ead2b56d51427ff23be9688388d8", null ]
+    [ "go_seer_of_zebhalak", "d4/d72/a27444.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
+    [ "OnGossipHello", "d4/d72/a27444.html#a84009789ce8e8d0d7c42996fde161135", null ]
 ];

@@ -1,8 +1,6 @@
 var a20140 =
 [
-    [ "npc_mechanoliftAI", "da/d2f/a20140.html#ad772427e03c2bd2c3a51556b6e5968b5", null ],
-    [ "Reset", "da/d2f/a20140.html#a8198e7db2c6f4f2ceec984cfd53982b1", null ],
-    [ "UpdateAI", "da/d2f/a20140.html#a3f8634abde6b3aa00acf03c77df433be", null ],
-    [ "_evadeTimer", "da/d2f/a20140.html#a53da6899ad0dcea569ca29f57e45bf61", null ],
-    [ "_startTimer", "da/d2f/a20140.html#a9b1587bbadd8f0044e1d404d55b8ba1f", null ]
+    [ "boss_flame_leviathan_safety_containerAI", "d6/d35/a20144.html", "d6/d35/a20144" ],
+    [ "boss_flame_leviathan_safety_container", "da/d2f/a20140.html#ae14b2e13bd6358ad03d568f2bef042b7", null ],
+    [ "GetAI", "da/d2f/a20140.html#a6bcbc4e65214a0c667875271ff9aa0dd", null ]
 ];

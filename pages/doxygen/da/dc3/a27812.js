@@ -1,10 +1,10 @@
 var a27812 =
 [
-    [ "npc_dancing_flamesAI", "da/dc3/a27812.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
-    [ "JustEngagedWith", "da/dc3/a27812.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
-    [ "ReceiveEmote", "da/dc3/a27812.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
-    [ "Reset", "da/dc3/a27812.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
-    [ "UpdateAI", "da/dc3/a27812.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
-    [ "Active", "da/dc3/a27812.html#aa79036bed206327847bf5ad2e768e8f6", null ],
-    [ "CanIteract", "da/dc3/a27812.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
+    [ "npc_air_force_botsAI", "da/dc3/a27812.html#a062eb272826d52ffd9b72054f970b761", null ],
+    [ "GetSummonedGuard", "da/dc3/a27812.html#ac4f39049ba15caf314939f12b82ccd05", null ],
+    [ "MoveInLineOfSight", "da/dc3/a27812.html#a474231c0ce93b4db0789bcc8f6767c19", null ],
+    [ "Reset", "da/dc3/a27812.html#a016911d354f3b00e2db3e4f3722cda7f", null ],
+    [ "SummonGuard", "da/dc3/a27812.html#a8da57471dfa875f55f52c3d2b068a0f3", null ],
+    [ "SpawnAssoc", "da/dc3/a27812.html#a6f2f7ffd24dd32780c441fd6ce29dfbf", null ],
+    [ "SpawnedGUID", "da/dc3/a27812.html#a3c8ae595a3b4a436c2f94aa84cb9ee56", null ]
 ];

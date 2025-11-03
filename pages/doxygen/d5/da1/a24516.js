@@ -1,7 +1,6 @@
 var a24516 =
 [
-    [ "HandlePeriodic", "d5/da1/a24516.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
-    [ "PrepareAuraScript", "d5/da1/a24516.html#a58dc6668172d046cef3046649928c124", null ],
-    [ "Register", "d5/da1/a24516.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
-    [ "Validate", "d5/da1/a24516.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
+    [ "PrepareSpellScript", "d5/da1/a24516.html#aba1979c98f7d0e162cb7aee36c57f568", null ],
+    [ "Register", "d5/da1/a24516.html#a07f75e1ad374118ab0195dd1a17376ed", null ],
+    [ "SetDest", "d5/da1/a24516.html#a23afed27143ca0b8e4cdc477d47ab6e0", null ]
 ];

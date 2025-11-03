@@ -1,6 +1,6 @@
 var a19068 =
 [
-    [ "npc_icc_putricades_trapAI", "dd/d78/a19072.html", "dd/d78/a19072" ],
-    [ "npc_icc_putricades_trap", "d5/dad/a19068.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
-    [ "GetAI", "d5/dad/a19068.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
+    [ "npc_icc_gauntlet_controllerAI", "dd/d78/a19072.html", "dd/d78/a19072" ],
+    [ "npc_icc_gauntlet_controller", "d5/dad/a19068.html#a5fc4c941842e25bc3da93686e588627b", null ],
+    [ "GetAI", "d5/dad/a19068.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
 ];

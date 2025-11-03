@@ -1,13 +1,6 @@
 var a19036 =
 [
-    [ "npc_icc_spire_frostwyrm", "d5/d16/a19036.html#a8fdfc70108e3294e0fcc3c7ed895074e", null ],
-    [ "CanAIAttack", "d5/d16/a19036.html#ab3364130aacf675602317651a244ae2c", null ],
-    [ "DoAction", "d5/d16/a19036.html#a44edf33b25bdfce3b2bd3a8ec487fd9e", null ],
-    [ "JustEngagedWith", "d5/d16/a19036.html#abfc762cea6b7e40aaaff50b933410127", null ],
-    [ "JustReachedHome", "d5/d16/a19036.html#a144e8cafc020f5c43aae1fdc4a38a10d", null ],
-    [ "MovementInform", "d5/d16/a19036.html#a8e7f148580d91d42959e972ef18b271b", null ],
-    [ "Reset", "d5/d16/a19036.html#a572add30e78af15a8d5d6918169802da", null ],
-    [ "UpdateAI", "d5/d16/a19036.html#ad193a9355e11ea25792e6285d375a488", null ],
-    [ "_canResetFlyingEffects", "d5/d16/a19036.html#a262d843fcb13a444ae377729135ca14d", null ],
-    [ "_scheduler", "d5/d16/a19036.html#a822096df7b1803d92e05ca27d544bd26", null ]
+    [ "npc_icc_severed_essenceAI", "df/d5b/a19040.html", "df/d5b/a19040" ],
+    [ "npc_icc_severed_essence", "d5/d16/a19036.html#ace5b55755ef1dff3bd08a67fe2f64f94", null ],
+    [ "GetAI", "d5/d16/a19036.html#a74b8dbb95f3dc31b514a2d7ac1f18190", null ]
 ];

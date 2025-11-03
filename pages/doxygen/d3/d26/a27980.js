@@ -1,7 +1,8 @@
 var a27980 =
 [
-    [ "HandleDummy", "d3/d26/a27980.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
-    [ "PrepareSpellScript", "d3/d26/a27980.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
-    [ "Register", "d3/d26/a27980.html#a3fda4d652c1264b3cfababdd98297c61", null ],
-    [ "Validate", "d3/d26/a27980.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
+    [ "npc_cultist_engineer", "d3/d26/a27980.html#a02675a96d20902d147b0370fa1715d81", null ],
+    [ "JustDied", "d3/d26/a27980.html#a4b4d561f827553998caa204e0e1b9e54", null ],
+    [ "Reset", "d3/d26/a27980.html#a6f84d224a959c06fbb7a48197dd4cbdd", null ],
+    [ "sGossipSelect", "d3/d26/a27980.html#ab26d124cbfdc4d649fef6058e9637845", null ],
+    [ "UpdateAI", "d3/d26/a27980.html#a47b1b08959b8cd02ba92fcf3a55e32d2", null ]
 ];

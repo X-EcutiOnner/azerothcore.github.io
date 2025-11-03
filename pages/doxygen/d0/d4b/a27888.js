@@ -1,9 +1,5 @@
 var a27888 =
 [
-    [ "npc_fireworkAI", "d0/d4b/a27888.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
-    [ "FindNearestLauncher", "d0/d4b/a27888.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
-    [ "GetFireworkGameObjectId", "d0/d4b/a27888.html#ae17b4abbbb2088799cec188457677d44", null ],
-    [ "GetFireworkSpell", "d0/d4b/a27888.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
-    [ "isCluster", "d0/d4b/a27888.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
-    [ "Reset", "d0/d4b/a27888.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
+    [ "npc_pet_trainerAI", "d0/d4b/a27888.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
+    [ "sGossipSelect", "d0/d4b/a27888.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
 ];

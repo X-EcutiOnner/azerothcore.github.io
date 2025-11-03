@@ -1,7 +1,7 @@
 var a27128 =
 [
-    [ "HandleApply", "d5/d38/a27128.html#aa35fa107aee605a8583150901a75ad72", null ],
-    [ "HandleRemove", "d5/d38/a27128.html#a60b6e438ff67d9db41d160020b54da40", null ],
-    [ "PrepareAuraScript", "d5/d38/a27128.html#a1da44046f2cb9fb68b18f712111c38ea", null ],
-    [ "Register", "d5/d38/a27128.html#ac7c9e15a796e91e0ac68791d24e3d4bf", null ]
+    [ "HandleProc", "d5/d38/a27128.html#a2a1d6c4a6fdcfbb0ab34769649dbe321", null ],
+    [ "PrepareAuraScript", "d5/d38/a27128.html#afa1f4cba7a02cb4a92a67c6e41d3349c", null ],
+    [ "Register", "d5/d38/a27128.html#ae3711d9dff0acd196b1fae8e2285fb2a", null ],
+    [ "Validate", "d5/d38/a27128.html#a77b31ab1d2952c5d77e8a1ca9cf18405", null ]
 ];

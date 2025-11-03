@@ -1,7 +1,7 @@
 var a23940 =
 [
-    [ "AfterApply", "d5/d91/a23940.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
-    [ "PrepareAuraScript", "d5/d91/a23940.html#aa98346e5f5b23fe016148426a19a719f", null ],
-    [ "Register", "d5/d91/a23940.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
-    [ "Validate", "d5/d91/a23940.html#a616d1758aa257140f4941fe12ef21e87", null ]
+    [ "boss_zereketh_the_unbound", "d5/d91/a23940.html#abb2fc5cbe7514142160818016fda1936", null ],
+    [ "JustDied", "d5/d91/a23940.html#ac5d96da9a33a536f2002cce11453ded3", null ],
+    [ "JustEngagedWith", "d5/d91/a23940.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
+    [ "KilledUnit", "d5/d91/a23940.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
 ];

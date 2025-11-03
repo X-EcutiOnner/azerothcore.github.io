@@ -1,6 +1,8 @@
 var a25320 =
 [
-    [ "HandleDummy", "d6/d9d/a25320.html#a0bcbef8a2d5978498556a217ac618fed", null ],
-    [ "PrepareSpellScript", "d6/d9d/a25320.html#a5901c22f3a10fdbd21d934f5cb8cd76d", null ],
-    [ "Register", "d6/d9d/a25320.html#a2c6d9c273a3d281dacefc20970912166", null ]
+    [ "OnApply", "d6/d9d/a25320.html#a9ea247d39fa51d9722c17e6ea83a0e55", null ],
+    [ "OnRemove", "d6/d9d/a25320.html#abd45d59ecd41274bd02c17fb066a521e", null ],
+    [ "PrepareAuraScript", "d6/d9d/a25320.html#af30811301599459bf2a99a68608a053f", null ],
+    [ "Register", "d6/d9d/a25320.html#a0eb56dc80c02932a0d7cf4cca7079c75", null ],
+    [ "Validate", "d6/d9d/a25320.html#a29c5049e4455737ff96596a18af118d0", null ]
 ];

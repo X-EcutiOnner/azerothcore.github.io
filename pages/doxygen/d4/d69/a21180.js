@@ -1,7 +1,7 @@
 var a21180 =
 [
-    [ "HandleProc", "d4/d69/a21180.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "d4/d69/a21180.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "d4/d69/a21180.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "d4/d69/a21180.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "HandleScriptEffect", "d4/d69/a21180.html#aae469190c1edc1fe45914bad1dac4e93", null ],
+    [ "PrepareSpellScript", "d4/d69/a21180.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
+    [ "Register", "d4/d69/a21180.html#a97265071f226fbd17c37d432cf9e2350", null ],
+    [ "Validate", "d4/d69/a21180.html#aeec0bdd2e39db2da657247376ddcd195", null ]
 ];

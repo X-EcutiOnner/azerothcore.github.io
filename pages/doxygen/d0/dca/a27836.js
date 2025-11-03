@@ -1,13 +1,18 @@
 var a27836 =
 [
-    [ "npc_garments_of_questsAI", "d0/dca/a27836.html#a079f719ca488ed6fde2783b5db4f328b", null ],
-    [ "JustEngagedWith", "d0/dca/a27836.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
-    [ "Reset", "d0/dca/a27836.html#aaaaa3e41deae0057bd659be5c579d226", null ],
-    [ "SpellHit", "d0/dca/a27836.html#ad22195dba70ced744b319bc1ad83c083", null ],
-    [ "UpdateAI", "d0/dca/a27836.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
-    [ "WaypointReached", "d0/dca/a27836.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
-    [ "CanRun", "d0/dca/a27836.html#a93c41781e4cb037b56773bbbf36181b7", null ],
-    [ "CasterGUID", "d0/dca/a27836.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
-    [ "IsHealed", "d0/dca/a27836.html#a96db66704eabf028362d5f8b5c424712", null ],
-    [ "RunAwayTimer", "d0/dca/a27836.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
+    [ "npc_doctorAI", "d0/dca/a27836.html#a8efc303041393347eaaf38aff05f7b9c", null ],
+    [ "BeginEvent", "d0/dca/a27836.html#a1439b4eb147700ca493dc5eaa1e2d5a4", null ],
+    [ "JustEngagedWith", "d0/dca/a27836.html#aca786ccf8cf99d7ba49a08046147f121", null ],
+    [ "PatientDied", "d0/dca/a27836.html#ad3e2a36e774d2dbd2a6779d8fb19ea88", null ],
+    [ "PatientSaved", "d0/dca/a27836.html#af8a61f187f6bd57b98d8bf4c8c45e494", null ],
+    [ "Reset", "d0/dca/a27836.html#af2d84b163d41b1b32e191200f54085c2", null ],
+    [ "UpdateAI", "d0/dca/a27836.html#abe156e2303a9c743fa66b4f82808c707", null ],
+    [ "Coordinates", "d0/dca/a27836.html#acda1ada9d7868bfd93ceaaa39f82731b", null ],
+    [ "Event", "d0/dca/a27836.html#ad558d5c0a5fe07904445e893c09be980", null ],
+    [ "PatientDiedCount", "d0/dca/a27836.html#a0774874d9d75feb8d8bf6ce201e719d9", null ],
+    [ "Patients", "d0/dca/a27836.html#a75cd1e01322c09204ffe54cd92ad9543", null ],
+    [ "PatientSavedCount", "d0/dca/a27836.html#abeda2ee514c6ed1544a7e27955fc86b8", null ],
+    [ "PlayerGUID", "d0/dca/a27836.html#a97e2b2bd8a750817f23c51d36c49ae1c", null ],
+    [ "SummonPatientCount", "d0/dca/a27836.html#a320c2e32c5003e880f7567c89db8ca8c", null ],
+    [ "SummonPatientTimer", "d0/dca/a27836.html#adb9cd2ed50dd02f88c4f375a0be8ee89", null ]
 ];

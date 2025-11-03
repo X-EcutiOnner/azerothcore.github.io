@@ -1,9 +1,10 @@
 var a24648 =
 [
-    [ "npc_pet_shaman_earth_elemental", "d9/dd2/a24648.html#a07f3792cb3b5264d209f1b4726867773", null ],
-    [ "InitializeAI", "d9/dd2/a24648.html#a8bbca6686ae324a50cd1598125280446", null ],
-    [ "JustEngagedWith", "d9/dd2/a24648.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
-    [ "UpdateAI", "d9/dd2/a24648.html#ab28951b483cab31bf5672fc74e7323e1", null ],
-    [ "_events", "d9/dd2/a24648.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
-    [ "_initAttack", "d9/dd2/a24648.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
+    [ "npc_pet_hunter_snake_trap", "d9/dd2/a24648.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
+    [ "EnterEvadeMode", "d9/dd2/a24648.html#a819add0c7b968063403d10275fdc289f", null ],
+    [ "MoveInLineOfSight", "d9/dd2/a24648.html#a32d5ed7f4d436f2678b34f4a1d572721", null ],
+    [ "Reset", "d9/dd2/a24648.html#a831cf6eea8bd03247cd9877d3be6e1ee", null ],
+    [ "UpdateAI", "d9/dd2/a24648.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
+    [ "_init", "d9/dd2/a24648.html#a1b5c1301389749f82667c35f3daff847", null ],
+    [ "_spellTimer", "d9/dd2/a24648.html#ab9397451e2e8320ca77560a19baeee3f", null ]
 ];

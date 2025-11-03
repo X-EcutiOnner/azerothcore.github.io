@@ -1,6 +1,6 @@
 var a19268 =
 [
-    [ "boss_heiganAI", "d5/db9/a19272.html", "d5/db9/a19272" ],
-    [ "boss_heigan", "d1/d5b/a19268.html#aefa3a6d870bde0d33504c5f2b56572be", null ],
-    [ "GetAI", "d1/d5b/a19268.html#ad9edf8eade874c1ecc2cecdac17700a1", null ]
+    [ "FilterTargets", "d1/d5b/a19268.html#a2df81e30554809a0d5b45d2f471bb71f", null ],
+    [ "PrepareSpellScript", "d1/d5b/a19268.html#aa51d9c578b782fbe0e7e3cf13789b702", null ],
+    [ "Register", "d1/d5b/a19268.html#a4c1eab348e54011f1a2f827fc251ca13", null ]
 ];

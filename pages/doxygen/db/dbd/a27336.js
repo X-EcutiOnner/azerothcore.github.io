@@ -1,5 +1,5 @@
 var a27336 =
 [
-    [ "AreaTrigger_at_last_rites", "db/dbd/a27336.html#a30d1930c76920ab12cf4f9b04fd5f0e4", null ],
-    [ "OnTrigger", "db/dbd/a27336.html#a48f6e2041cda24812a165fa0fb62f1b6", null ]
+    [ "AreaTrigger_at_coilfang_waterfall", "db/dbd/a27336.html#aa2e9a01adad7e195860bbc6c55131024", null ],
+    [ "OnTrigger", "db/dbd/a27336.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
 ];

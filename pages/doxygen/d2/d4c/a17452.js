@@ -1,7 +1,11 @@
 var a17452 =
 [
-    [ "HandlePeriodic", "d2/d4c/a17452.html#a2087e4de62f7aabb72315e92c28c7bd6", null ],
-    [ "PrepareAuraScript", "d2/d4c/a17452.html#ab71db011b1cc1f3a2e85cd6b6f115242", null ],
-    [ "Register", "d2/d4c/a17452.html#ad8a16d599a11fa4409d132f66e37e04e", null ],
-    [ "Validate", "d2/d4c/a17452.html#afe821a7eb4eaf959d803c7c846f3bdf0", null ]
+    [ "boss_slad_ranAI", "d2/d4c/a17452.html#ad85e2fd51d67739026a96bc757bc7801", null ],
+    [ "GetData", "d2/d4c/a17452.html#a58e1188a418acdc1f327e7df90c5c122", null ],
+    [ "JustDied", "d2/d4c/a17452.html#a636ca76497c33a5175986e80bbcda44a", null ],
+    [ "JustEngagedWith", "d2/d4c/a17452.html#ac30b38805d0421b1be509c7d5609c648", null ],
+    [ "KilledUnit", "d2/d4c/a17452.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
+    [ "Reset", "d2/d4c/a17452.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
+    [ "SetData", "d2/d4c/a17452.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
+    [ "_achievement", "d2/d4c/a17452.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
 ];

@@ -1,8 +1,6 @@
 var a28528 =
 [
-    [ "Id", "d9/d5b/a28528.html#a6943bf760d15b3f8af4109d131652d72", null ],
-    [ "MapId", "d9/d5b/a28528.html#ab0cccd760636a3b42af693d6c483bed9", null ],
-    [ "X", "d9/d5b/a28528.html#a91183890254546efeb3162173cc60dad", null ],
-    [ "Y", "d9/d5b/a28528.html#a19ab4d026b45d74f006479641afbc4d3", null ],
-    [ "Z", "d9/d5b/a28528.html#aaa23c59f20fc96aec148b82516f30036", null ]
+    [ "Enchantment", "d9/d5b/a28528.html#a480ab806214bb138d56dfd5e9e43936f", null ],
+    [ "ID", "d9/d5b/a28528.html#acb673be771124b84dd3fdd5deb300de7", null ],
+    [ "Name", "d9/d5b/a28528.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
 ];

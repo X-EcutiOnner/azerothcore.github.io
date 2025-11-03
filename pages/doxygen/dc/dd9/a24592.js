@@ -1,8 +1,9 @@
 var a24592 =
 [
-    [ "npc_pet_gen_gnomish_flame_turret", "dc/dd9/a24592.html#a6e79c0ad6219d0beb23cfb086e6d3eaf", null ],
-    [ "AttackStart", "dc/dd9/a24592.html#a2aab464c099e8e5e760a9ae4f28ac33f", null ],
-    [ "Reset", "dc/dd9/a24592.html#a46fe5703a5859d5583e7df3a57b3910a", null ],
-    [ "UpdateAI", "dc/dd9/a24592.html#ae3db08323af4b82009ffd660b3e78474", null ],
-    [ "checkTimer", "dc/dd9/a24592.html#ac6705f4980ca561a5fd33c2917488439", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "dc/dd9/a24592.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
+    [ "GetOwner", "dc/dd9/a24592.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
+    [ "SpellHitTarget", "dc/dd9/a24592.html#a6c0d3181b913c5022325f66586f66bfa", null ],
+    [ "UpdateAI", "dc/dd9/a24592.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
+    [ "events", "dc/dd9/a24592.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
+    [ "ownerGUID", "dc/dd9/a24592.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
 ];

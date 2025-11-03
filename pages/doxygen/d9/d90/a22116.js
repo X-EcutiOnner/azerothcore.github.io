@@ -1,6 +1,7 @@
 var a22116 =
 [
-    [ "npc_ravenous_worgAI", "d6/d2b/a22120.html", "d6/d2b/a22120" ],
-    [ "npc_ravenous_worg", "d9/d90/a22116.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
-    [ "GetAI", "d9/d90/a22116.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
+    [ "npc_emilyAI", "d6/d2b/a22120.html", "d6/d2b/a22120" ],
+    [ "npc_emily", "d9/d90/a22116.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "d9/d90/a22116.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "d9/d90/a22116.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

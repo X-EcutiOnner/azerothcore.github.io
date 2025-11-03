@@ -1,7 +1,4 @@
 var a29987 =
 [
-    [ "MPQArchive", "d6/d12/a28995.html", "d6/d12/a28995" ],
-    [ "MPQFile", "db/df4/a28999.html", "db/df4/a28999" ],
-    [ "ArchiveSet", "da/d8d/a29987.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "da/d8d/a29987.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "gOpenArchives", "da/d8d/a29987.html#a8ae40ebe73635e831bc65b70e7f97f3c", null ]
 ];

@@ -1,5 +1,6 @@
 var a16152 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "db/de3/a16152.html#a886ed4c1485fdedcc176341210eee31a", null ],
-    [ "OnCreatureEvade", "db/de3/a16152.html#af163238686bf22f11908f64ffb5cacca", null ]
+    [ "HandleScriptEffect", "db/de3/a16152.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "db/de3/a16152.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "db/de3/a16152.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

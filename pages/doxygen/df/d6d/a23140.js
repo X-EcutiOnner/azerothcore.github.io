@@ -1,10 +1,12 @@
 var a23140 =
 [
-    [ "CalculateAmount", "df/d6d/a23140.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
-    [ "CheckProc", "df/d6d/a23140.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
-    [ "HandleProc", "df/d6d/a23140.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
-    [ "PrepareAuraScript", "df/d6d/a23140.html#a6e066884663276dbba82e46ca5f66e59", null ],
-    [ "Register", "df/d6d/a23140.html#ac4154f0746e77229e8d349021d5b9c30", null ],
-    [ "Update", "df/d6d/a23140.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
-    [ "Validate", "df/d6d/a23140.html#a4f10d23f63c47b408b70373623b877a8", null ]
+    [ "boss_essence_of_angerAI", "df/d6d/a23140.html#a25eed717395b4e1ca5504d2d473e2500", null ],
+    [ "DoAction", "df/d6d/a23140.html#a81576aaf465dfc99d199aaf6a182df52", null ],
+    [ "JustDied", "df/d6d/a23140.html#a997d75ad388e790f9863e1b15fa1c899", null ],
+    [ "JustEngagedWith", "df/d6d/a23140.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
+    [ "KilledUnit", "df/d6d/a23140.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
+    [ "Reset", "df/d6d/a23140.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
+    [ "UpdateAI", "df/d6d/a23140.html#a67e9f5a361894aa227f2a74f9222740d", null ],
+    [ "_recentlySpoken", "df/d6d/a23140.html#a056aa8fd704d832e83735cf2a1a22888", null ],
+    [ "targetGUID", "df/d6d/a23140.html#adc3867a4446375f1217809299f3dd9bb", null ]
 ];

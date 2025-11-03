@@ -1,8 +1,9 @@
 var a27800 =
 [
-    [ "npc_chicken_cluckAI", "d5/d1c/a27804.html", "d5/d1c/a27804" ],
-    [ "npc_chicken_cluck", "de/d96/a27800.html#a7bc08c81fca730886c47e0f3a3d8062c", null ],
-    [ "GetAI", "de/d96/a27800.html#abf986f555672823477c3c17e0f59bdbe", null ],
-    [ "OnQuestAccept", "de/d96/a27800.html#acca62c027b5b0cdff107e04cf2c276ea", null ],
-    [ "OnQuestComplete", "de/d96/a27800.html#a8f22520166a557e066502eb16bdae774", null ]
+    [ "npc_target_dummyAI", "de/d96/a27800.html#a117e45559ea721877d73df4b3c18a259", null ],
+    [ "EnterEvadeMode", "de/d96/a27800.html#a8f7f2e4decc676e378b4929516f8a147", null ],
+    [ "MoveInLineOfSight", "de/d96/a27800.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
+    [ "Reset", "de/d96/a27800.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
+    [ "UpdateAI", "de/d96/a27800.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
+    [ "deathTimer", "de/d96/a27800.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
 ];

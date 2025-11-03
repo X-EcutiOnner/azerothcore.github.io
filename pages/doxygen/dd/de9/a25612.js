@@ -1,11 +1,6 @@
 var a25612 =
 [
-    [ "CalcPeriodic", "dd/de9/a25612.html#ab5feede17fa79c9d02fa459586eaca41", null ],
-    [ "CalculateAPAmount", "dd/de9/a25612.html#af2b1da799f1b3c0373dc6782dabbf89c", null ],
-    [ "CalculateResistanceAmount", "dd/de9/a25612.html#a51828f07b0e099c5931161f7aeebaab7", null ],
-    [ "CalculateSPAmount", "dd/de9/a25612.html#a255ed8f5158e715313e44b13f30b099f", null ],
-    [ "CalculateStatAmount", "dd/de9/a25612.html#ade1b7256d19b526a7f4b1520f6b2f663", null ],
-    [ "HandlePeriodic", "dd/de9/a25612.html#a136c8cedca7630543b8937e77571ead1", null ],
-    [ "PrepareAuraScript", "dd/de9/a25612.html#a638a2544d9216bec90c433100c0663a0", null ],
-    [ "Register", "dd/de9/a25612.html#a55605257006d8218250932357f325bb8", null ]
+    [ "CheckCast", "dd/de9/a25612.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
+    [ "PrepareSpellScript", "dd/de9/a25612.html#a0bc2de519e0c84688fad609444d28afa", null ],
+    [ "Register", "dd/de9/a25612.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
 ];

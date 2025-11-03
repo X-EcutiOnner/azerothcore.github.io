@@ -1,7 +1,6 @@
 var a26536 =
 [
-    [ "if", "d2/d55/a26536.html#aefedb14e99d2e60abfd58f7778deb39b", null ],
-    [ "PrepareAuraScript", "d2/d55/a26536.html#ad61e8c804e59ca0623748acde69aeddb", null ],
-    [ "Register", "d2/d55/a26536.html#af917d32bc0d7f825a52c0a916a3a2357", null ],
-    [ "AuraEffectHandleModes", "d2/d55/a26536.html#accfab0bada4faf21178e3f67a79c6dfe", null ]
+    [ "HandleFinish", "d2/d55/a26536.html#a53263ce51581f36c2df80b49c93fa9d3", null ],
+    [ "PrepareSpellScript", "d2/d55/a26536.html#a8113f61816473399f0ceab18b104d058", null ],
+    [ "Register", "d2/d55/a26536.html#a36bf50cdb7be7ba03eafd4848c6ceced", null ]
 ];

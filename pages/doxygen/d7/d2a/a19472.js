@@ -1,10 +1,6 @@
 var a19472 =
 [
-    [ "npc_scion_of_eternityAI", "d7/d2a/a19472.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
-    [ "AttackStart", "d7/d2a/a19472.html#a1335f9e34ff73d5501455062be025ada", null ],
-    [ "JustDied", "d7/d2a/a19472.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
-    [ "MoveInLineOfSight", "d7/d2a/a19472.html#a74a69fa532f0921285ef678bbd2fa761", null ],
-    [ "UpdateAI", "d7/d2a/a19472.html#adb16afb6ea1583a7156b80a8d833951a", null ],
-    [ "events", "d7/d2a/a19472.html#ae0e194a24a14033a499e68524da1699d", null ],
-    [ "pInstance", "d7/d2a/a19472.html#aa828ca4a75696645d7aa350f1f981f40", null ]
+    [ "npc_nexus_lordAI", "dd/d67/a19476.html", "dd/d67/a19476" ],
+    [ "npc_nexus_lord", "d7/d2a/a19472.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
+    [ "GetAI", "d7/d2a/a19472.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
 ];

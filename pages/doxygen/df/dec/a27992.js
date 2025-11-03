@@ -1,5 +1,4 @@
 var a27992 =
 [
-    [ "ServerMailReward", "df/dec/a27992.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
-    [ "OnPlayerLogin", "df/dec/a27992.html#ada945e805278d54746b6fabaf48b4546", null ]
+    [ "operator()", "df/dec/a27992.html#a76ede7ef27a41a284821e690c88375c9", null ]
 ];

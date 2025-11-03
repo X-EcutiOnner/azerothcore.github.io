@@ -1,5 +1,5 @@
 var a19420 =
 [
-    [ "npc_mr_bigglesworth", "d8/d00/a19420.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
-    [ "JustDied", "d8/d00/a19420.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
+    [ "at_thaddius_entrance", "d8/d00/a19420.html#ad81a60cac337baad82ea526de1d151d1", null ],
+    [ "OnTrigger", "d8/d00/a19420.html#af8635a58d4da0421b72b4451c1ebafc5", null ]
 ];

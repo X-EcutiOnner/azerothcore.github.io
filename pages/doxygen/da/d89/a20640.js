@@ -1,6 +1,11 @@
 var a20640 =
 [
-    [ "npc_ulduar_magnetic_coreAI", "db/d97/a20644.html", "db/d97/a20644" ],
-    [ "npc_ulduar_magnetic_core", "da/d89/a20640.html#a788a1a6d3ec28c866d6b8cb112fe8071", null ],
-    [ "GetAI", "da/d89/a20640.html#a3adcc5c7650e2b016f02a1160c3fa6ab", null ]
+    [ "npc_ulduar_proximity_mineAI", "da/d89/a20640.html#aa3001a71c8a298be688631d618745495", null ],
+    [ "AttackStart", "da/d89/a20640.html#afe5572c8fd1f8acc64ca57304d8be254", null ],
+    [ "CanAIAttack", "da/d89/a20640.html#a0216f41bf596eb43a9b9eea13152d262", null ],
+    [ "MoveInLineOfSight", "da/d89/a20640.html#afe07e3cd341d6a84592ab9b33e02d6d5", null ],
+    [ "UpdateAI", "da/d89/a20640.html#adadc4c33ff356bd5eed6d82115dc888a", null ],
+    [ "exploded", "da/d89/a20640.html#a1706ff0cfd7192040c32f13a37610c43", null ],
+    [ "timer", "da/d89/a20640.html#a4c743646055b4c95bf379a751eb5892e", null ],
+    [ "timer2", "da/d89/a20640.html#a446b7658fa4c165f43947a05562827b2", null ]
 ];

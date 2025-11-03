@@ -1,9 +1,7 @@
 var a25988 =
 [
-    [ "CheckProc", "df/dfe/a25988.html#a185159a5c83e8c65ef5b82f49a89dd8a", null ],
-    [ "HandleProc", "df/dfe/a25988.html#a67db21e0293f336a31bf518c0fac85d1", null ],
-    [ "OnRemove", "df/dfe/a25988.html#a1b51483738d5d3b73f50a78ef9fc1c57", null ],
-    [ "PrepareAuraScript", "df/dfe/a25988.html#a3e549b8764c0f8efc5d110543c9944c7", null ],
-    [ "Register", "df/dfe/a25988.html#abc4b88f104253b2b141ab0e3e22ee338", null ],
-    [ "Validate", "df/dfe/a25988.html#a0b5b97081b7c897d451ef70c810bd7f1", null ]
+    [ "HandleScript", "df/dfe/a25988.html#a5b35bbac405dc2b03f195cb29786d5a6", null ],
+    [ "Load", "df/dfe/a25988.html#a61f1a4514e9900e4e14fded3c0b05593", null ],
+    [ "PrepareSpellScript", "df/dfe/a25988.html#abfac1629b7724a3b17b94480c31867af", null ],
+    [ "Register", "df/dfe/a25988.html#a62b9c194106e261245496441176c8d53", null ]
 ];

@@ -1,6 +1,6 @@
 var a22660 =
 [
-    [ "npc_released_offspring_harkoaAI", "de/dc6/a22664.html", "de/dc6/a22664" ],
-    [ "npc_released_offspring_harkoa", "d2/d76/a22660.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
-    [ "GetAI", "d2/d76/a22660.html#ae3d2a02c496be1b2606fce596625d12e", null ]
+    [ "npc_drakuru_shacklesAI", "de/dc6/a22664.html", "de/dc6/a22664" ],
+    [ "npc_drakuru_shackles", "d2/d76/a22660.html#a2b15a214b34d86597cba09b17654e4ff", null ],
+    [ "GetAI", "d2/d76/a22660.html#a90ce98de4630771858cd3b79264a28f9", null ]
 ];

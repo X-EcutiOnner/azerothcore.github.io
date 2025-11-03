@@ -1,8 +1,7 @@
 var a27708 =
 [
-    [ "npc_artoriusAI", "d1/d6d/a27712.html", "d1/d6d/a27712" ],
-    [ "npc_artorius", "db/df4/a27708.html#a832831aa19ef3694eee5bbae4d1d39e1", null ],
-    [ "GetAI", "db/df4/a27708.html#a2563f90fe1fd35c6bcf3f2296652981d", null ],
-    [ "OnGossipHello", "db/df4/a27708.html#a2c91fcd777d0e0e7ab4927290ca04359", null ],
-    [ "OnGossipSelect", "db/df4/a27708.html#ae0d8b09e4f7ad830cac9d82ef2d2fe57", null ]
+    [ "npc_engineering_tele_trinket", "db/df4/a27708.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
+    [ "CanLearn", "db/df4/a27708.html#a8a35f1c09a9df609561e76f4ed578647", null ],
+    [ "OnGossipHello", "db/df4/a27708.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
+    [ "OnGossipSelect", "db/df4/a27708.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
 ];

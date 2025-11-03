@@ -1,6 +1,6 @@
 var a24684 =
 [
-    [ "HandleAfterCast", "d3/dff/a24684.html#aaa65e67362ded5318e89272acf073bf3", null ],
-    [ "PrepareSpellScript", "d3/dff/a24684.html#a7d0dd936965845c14e7b54846facdb89", null ],
-    [ "Register", "d3/dff/a24684.html#ab7b767743d62d9763bea710b7552a8cf", null ]
+    [ "FilterTargets", "d3/dff/a24684.html#a991a944f31680e4d53cc2a46d8c8b8bf", null ],
+    [ "PrepareSpellScript", "d3/dff/a24684.html#aea49df3f6b93223ed72c3a9875232b74", null ],
+    [ "Register", "d3/dff/a24684.html#a8f0e0b6363303def780d35415c88b4d6", null ]
 ];

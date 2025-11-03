@@ -1,10 +1,12 @@
 var a29036 =
 [
-    [ "Tile", "da/d02/a29036.html#aa68e7829d0a4109a5fca036afe725756", null ],
-    [ "~Tile", "da/d02/a29036.html#aa5be25df0d267368c90c8f790b218f7a", null ],
-    [ "chf", "da/d02/a29036.html#a9cd4f4be0393e1b40d1ea83dad189a35", null ],
-    [ "cset", "da/d02/a29036.html#a8263aa243c049daa70ed537f206c6a15", null ],
-    [ "dmesh", "da/d02/a29036.html#a23efb981de3dbc2ecdbe4dafdbaa8f58", null ],
-    [ "pmesh", "da/d02/a29036.html#a00dde7c2b62890f4d78697e669f2a810", null ],
-    [ "solid", "da/d02/a29036.html#a6c263578a352c75a21570a26439d6156", null ]
+    [ "cellSizeHorizontal", "da/d02/a29036.html#a5356c03dab90621b69de7a79ed4ab195", null ],
+    [ "cellSizeVertical", "da/d02/a29036.html#a47b5a920afa39ae27a80241d58f152a3", null ],
+    [ "tileOverrides", "da/d02/a29036.html#a129437291e75a919e4158bf1df0f7f0a", null ],
+    [ "vertexPerMapEdge", "da/d02/a29036.html#a9d32da8787f54a7dadb86458319e0238", null ],
+    [ "vertexPerTileEdge", "da/d02/a29036.html#a8dd6b0146358fcbbb6b7c56a96c467c9", null ],
+    [ "walkableClimb", "da/d02/a29036.html#a2bd854b374d67d53b03a7bacf0785726", null ],
+    [ "walkableHeight", "da/d02/a29036.html#a1de27edad5c45f8033ce74352c563f52", null ],
+    [ "walkableRadius", "da/d02/a29036.html#a232dd51ab056c5e836fe1bb84eeee90e", null ],
+    [ "walkableSlopeAngle", "da/d02/a29036.html#ad66e0a04ba9087304cf3909bb85b622a", null ]
 ];

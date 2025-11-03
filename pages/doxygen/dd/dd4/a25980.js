@@ -1,8 +1,6 @@
 var a25980 =
 [
-    [ "CheckProc", "dd/dd4/a25980.html#a8b3f8cf17dda2322d0e9f8f4211cbd20", null ],
-    [ "HandleProc", "dd/dd4/a25980.html#ae034bd626880858c9701ed963de993c9", null ],
-    [ "isException", "dd/dd4/a25980.html#aa5f4fcd1b9b710e2931460207cfc6dea", null ],
-    [ "PrepareAuraScript", "dd/dd4/a25980.html#a50348fd27947f67df03bf4ddbec89cca", null ],
-    [ "Register", "dd/dd4/a25980.html#aaa14b34ac54b4caee76ff72d07dd5c2d", null ]
+    [ "HandleScript", "dd/dd4/a25980.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d", null ],
+    [ "PrepareSpellScript", "dd/dd4/a25980.html#a4f0f4d29231ef1976d726b66f6277ca8", null ],
+    [ "Register", "dd/dd4/a25980.html#ad75843039e582b64da28b4818f48aeb3", null ]
 ];

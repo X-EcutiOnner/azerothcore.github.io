@@ -1,6 +1,6 @@
 var a27884 =
 [
-    [ "npc_fireworkAI", "d0/d4b/a27888.html", "d0/d4b/a27888" ],
-    [ "npc_firework", "d7/d40/a27884.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
-    [ "GetAI", "d7/d40/a27884.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
+    [ "npc_pet_trainerAI", "d0/d4b/a27888.html", "d0/d4b/a27888" ],
+    [ "npc_pet_trainer", "d7/d40/a27884.html#ac2279bce52e911b1c339da5e68aa2501", null ],
+    [ "GetAI", "d7/d40/a27884.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
 ];

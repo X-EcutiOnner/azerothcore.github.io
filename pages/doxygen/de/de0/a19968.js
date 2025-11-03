@@ -1,6 +1,6 @@
 var a19968 =
 [
-    [ "npc_assembly_lightningAI", "d3/d79/a19972.html", "d3/d79/a19972" ],
-    [ "npc_assembly_lightning", "de/de0/a19968.html#ac9776fc8cb3dd3f8bfecb1d367afefd2", null ],
-    [ "GetAI", "de/de0/a19968.html#a4054ea8bb68b2742847b359e19b477df", null ]
+    [ "CastRunesEvent", "de/de0/a19968.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "de/de0/a19968.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "de/de0/a19968.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

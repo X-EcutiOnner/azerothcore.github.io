@@ -1,9 +1,15 @@
 var a19256 =
 [
-    [ "boss_grobbulus_poison_cloudAI", "d1/dfe/a19256.html#ac26671336eec2d84b56a3552d50f8e0a", null ],
-    [ "KilledUnit", "d1/dfe/a19256.html#a9c6ce4ace426f2e7aba5a7bf9430bbe3", null ],
-    [ "Reset", "d1/dfe/a19256.html#a1715ab3f3f25b56517f6ded84acdbd9f", null ],
-    [ "UpdateAI", "d1/dfe/a19256.html#af1b8dafb0aa47ba22b3601d8bf639c22", null ],
-    [ "auraVisualTimer", "d1/dfe/a19256.html#a74aea4294c26414d3b60983d14d36e31", null ],
-    [ "sizeTimer", "d1/dfe/a19256.html#a73f775b30ad36a595e0d8532067ba042", null ]
+    [ "boss_grobbulusAI", "d1/dfe/a19256.html#ad9e7cd519e30eded06f76bcc69189117", null ],
+    [ "JustDied", "d1/dfe/a19256.html#aa717d51aa10c139473031072065064ce", null ],
+    [ "JustEngagedWith", "d1/dfe/a19256.html#a4c74d53fe029d02df9652dbb87a09242", null ],
+    [ "JustSummoned", "d1/dfe/a19256.html#af266d40889fbecd50a118a579b711757", null ],
+    [ "KilledUnit", "d1/dfe/a19256.html#a266ef5135e09ee6a0b0b9ae0aaac822b", null ],
+    [ "PullChamberAdds", "d1/dfe/a19256.html#ad215f20452cd48c2c2bca394410d739b", null ],
+    [ "Reset", "d1/dfe/a19256.html#a6bd34fcdcfa47b19f366ba85e7f420cb", null ],
+    [ "SummonedCreatureDespawn", "d1/dfe/a19256.html#ae939b029565ef9a075c0d9f0f94b76f3", null ],
+    [ "UpdateAI", "d1/dfe/a19256.html#aafd79debbe76b02a1478c03daf235b05", null ],
+    [ "dropSludgeTimer", "d1/dfe/a19256.html#a5fdcf157f498b8e47d6380b03fe819d6", null ],
+    [ "events", "d1/dfe/a19256.html#a810a91ffbcc3caa7c31e17afbd615392", null ],
+    [ "summons", "d1/dfe/a19256.html#a39ce39397f845a4fddf20da5f5812713", null ]
 ];

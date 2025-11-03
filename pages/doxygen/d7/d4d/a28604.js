@@ -1,8 +1,7 @@
 var a28604 =
 [
-    [ "canLink", "d7/d4d/a28604.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
-    [ "categoryId", "d7/d4d/a28604.html#abf285e69e8e2a90626a157cb0c50d158", null ],
-    [ "id", "d7/d4d/a28604.html#a7740b26f1bde19a05b002c00eded25e3", null ],
-    [ "name", "d7/d4d/a28604.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
-    [ "spellIcon", "d7/d4d/a28604.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
+    [ "EpicPropertiesPoints", "d7/d4d/a28604.html#a35dc60a15091357e03032226621340f7", null ],
+    [ "itemLevel", "d7/d4d/a28604.html#a35506e3235c2c24230058dc2fb9abc4f", null ],
+    [ "RarePropertiesPoints", "d7/d4d/a28604.html#a9359171635ef3e9a0029820fad286368", null ],
+    [ "UncommonPropertiesPoints", "d7/d4d/a28604.html#a74acb6861a84d5d193038eaa5ac9b12f", null ]
 ];

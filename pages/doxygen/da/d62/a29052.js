@@ -1,13 +1,10 @@
 var a29052 =
 [
-    [ "liquidTris", "da/d62/a29052.html#ad166656bfa449d3093cb23e7bef2cc76", null ],
-    [ "liquidType", "da/d62/a29052.html#afbbb20fcb4e597c2addcc47893a33f92", null ],
-    [ "liquidVerts", "da/d62/a29052.html#a52796933ab018f27d12f625673f7f8a9", null ],
-    [ "offMeshConnectionDirs", "da/d62/a29052.html#a58350c36d5b88fe255880f6c217d4ef9", null ],
-    [ "offMeshConnectionRads", "da/d62/a29052.html#a56bbdeb5028302de0c5eb5a02cffa44c", null ],
-    [ "offMeshConnections", "da/d62/a29052.html#a706feac90bb398da61296bac9d0b7176", null ],
-    [ "offMeshConnectionsAreas", "da/d62/a29052.html#af5af113433bb2776e6735195e57ab6f7", null ],
-    [ "offMeshConnectionsFlags", "da/d62/a29052.html#a8c819b625f1bb0b21bb756144b2e1266", null ],
-    [ "solidTris", "da/d62/a29052.html#adb04d376bfa182cf9666689e6c5a7c68", null ],
-    [ "solidVerts", "da/d62/a29052.html#a915387c2cfa7111de4a957646a2aace4", null ]
+    [ "Tile", "da/d62/a29052.html#aa68e7829d0a4109a5fca036afe725756", null ],
+    [ "~Tile", "da/d62/a29052.html#aa5be25df0d267368c90c8f790b218f7a", null ],
+    [ "chf", "da/d62/a29052.html#a9cd4f4be0393e1b40d1ea83dad189a35", null ],
+    [ "cset", "da/d62/a29052.html#a8263aa243c049daa70ed537f206c6a15", null ],
+    [ "dmesh", "da/d62/a29052.html#a23efb981de3dbc2ecdbe4dafdbaa8f58", null ],
+    [ "pmesh", "da/d62/a29052.html#a00dde7c2b62890f4d78697e669f2a810", null ],
+    [ "solid", "da/d62/a29052.html#a6c263578a352c75a21570a26439d6156", null ]
 ];

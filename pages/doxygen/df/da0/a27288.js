@@ -1,5 +1,6 @@
 var a27288 =
 [
-    [ "achievement_sa_defense_of_the_ancients", "df/da0/a27288.html#a678cffdece32710a42a92db0c092f3a5", null ],
-    [ "OnCheck", "df/da0/a27288.html#af23e346f9b022f490b84c8081f847a2f", null ]
+    [ "achievement_arena_by_type", "df/da0/a27288.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "df/da0/a27288.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "df/da0/a27288.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

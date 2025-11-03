@@ -1,6 +1,7 @@
 var a18984 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "d0/ddd/a18988.html", "d0/ddd/a18988" ],
-    [ "npc_icc_skybreaker_hierophant", "db/da3/a18984.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
-    [ "GetAI", "db/da3/a18984.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
+    [ "HandleDummyLaunch", "db/da3/a18984.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
+    [ "PrepareSpellScript", "db/da3/a18984.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
+    [ "Register", "db/da3/a18984.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
+    [ "Validate", "db/da3/a18984.html#a577166695c1479e3730a70637bc18cf1", null ]
 ];

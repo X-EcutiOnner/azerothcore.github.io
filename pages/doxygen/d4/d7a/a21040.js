@@ -1,7 +1,6 @@
 var a21040 =
 [
-    [ "boss_yoggsaron_corruptor_tentacleAI", "d4/d7a/a21040.html#a5f8fbd8ac772fad79f809de4d3128574", null ],
-    [ "DoAction", "d4/d7a/a21040.html#abac26b3be775eea734403be36cbed4d2", null ],
-    [ "SelectCorruptionTarget", "d4/d7a/a21040.html#a1d61b34d31794cd2bdcddfe91dc1103e", null ],
-    [ "UpdateAI", "d4/d7a/a21040.html#a0269d1dc655af5680d7074cb093740b8", null ]
+    [ "boss_yoggsaron_death_orbAI", "d4/d7a/a21040.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
+    [ "UpdateAI", "d4/d7a/a21040.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
+    [ "_startTimer", "d4/d7a/a21040.html#aebc8edef5f84219e1c50f2394d129443", null ]
 ];

@@ -1,9 +1,16 @@
 var a29060 =
 [
-    [ "Flags", "da/db6/a29060.html#a4471edebd870d3dfaaf34292341e5f60", null ],
-    [ "Id", "da/db6/a29060.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
-    [ "Position", "da/db6/a29060.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
-    [ "Rotation", "da/db6/a29060.html#a986c3ea05d510db03ec969f0d116fb34", null ],
-    [ "Scale", "da/db6/a29060.html#af8bcb02c541b9261dbf879353ba6893a", null ],
-    [ "UniqueId", "da/db6/a29060.html#a374c9893af515badc54b22b2a4d5e024", null ]
+    [ "TileBuilder", "da/db6/a29060.html#a11941bfac809a75cc1b523fe0ce25c55", null ],
+    [ "TileBuilder", "da/db6/a29060.html#ac7ed1b1c9fdff7fc933fa6029fa9ff9d", null ],
+    [ "~TileBuilder", "da/db6/a29060.html#a7fabcd86a5679f19ad69e9c69f1d5885", null ],
+    [ "buildMoveMapTile", "da/db6/a29060.html#add45abc9c1f79f95dae9d7616b100dc0", null ],
+    [ "buildTile", "da/db6/a29060.html#ab7eca8778fd61ecbfe5f07bba0b38857", null ],
+    [ "shouldSkipTile", "da/db6/a29060.html#a77ecbab0c34dfe69c414304768b20ea3", null ],
+    [ "WaitCompletion", "da/db6/a29060.html#ae386f742fed7d2b66bcf3750abf91daf", null ],
+    [ "WorkerThread", "da/db6/a29060.html#a4c0497cde74883557ec841233376f95c", null ],
+    [ "m_debugOutput", "da/db6/a29060.html#a4c881a6e6ec66b315f72f84da5c534c2", null ],
+    [ "m_mapBuilder", "da/db6/a29060.html#aa83fbc484835a6d1a4c7bf6201b46639", null ],
+    [ "m_rcContext", "da/db6/a29060.html#a160c3ad76146488175c6ae228ad4ef83", null ],
+    [ "m_terrainBuilder", "da/db6/a29060.html#ade1605fb1b68693516c9fb27f94b278d", null ],
+    [ "m_workerThread", "da/db6/a29060.html#a4e03cb818b108400737e3a54df24945d", null ]
 ];

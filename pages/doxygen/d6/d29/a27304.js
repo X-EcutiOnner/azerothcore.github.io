@@ -1,5 +1,5 @@
 var a27304 =
 [
-    [ "achievement_flirt_with_disaster_perf_check", "d6/d29/a27304.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
-    [ "OnCheck", "d6/d29/a27304.html#a15e620be2f37f930477ba94293dbaf63", null ]
+    [ "achievement_sa_defense_of_the_ancients", "d6/d29/a27304.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "d6/d29/a27304.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

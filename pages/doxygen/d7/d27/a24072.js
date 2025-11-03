@@ -1,6 +1,7 @@
 var a24072 =
 [
-    [ "HandleScriptEffect", "d7/d27/a24072.html#a724e857ad8604ef4546c8823bb7bd632", null ],
-    [ "PrepareSpellScript", "d7/d27/a24072.html#a7a67cdf9c3c8017fd065549a499831fc", null ],
-    [ "Register", "d7/d27/a24072.html#aadbf9ca8c4b5fa0f72b967f059ee22ab", null ]
+    [ "Load", "d7/d27/a24072.html#aba7e1a0b87607386649bb842b5058c3e", null ],
+    [ "OnRemove", "d7/d27/a24072.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
+    [ "PrepareAuraScript", "d7/d27/a24072.html#ac62b18eedbadb0b3581d772909175e96", null ],
+    [ "Register", "d7/d27/a24072.html#a17e8be131f01b2434b18740b20a08d6e", null ]
 ];

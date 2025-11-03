@@ -1,6 +1,6 @@
 var a19580 =
 [
-    [ "boss_drakosAI", "de/df9/a19584.html", "de/df9/a19584" ],
-    [ "boss_drakos", "de/ddf/a19580.html#aa70ae2809af4f24eea0b83b42d695448", null ],
-    [ "GetAI", "de/ddf/a19580.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
+    [ "instance_nexus_InstanceMapScript", "de/df9/a19584.html", "de/df9/a19584" ],
+    [ "instance_nexus", "de/ddf/a19580.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
+    [ "GetInstanceScript", "de/ddf/a19580.html#a156210ba08caa0572c775dbd5851b250", null ]
 ];

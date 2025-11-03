@@ -1,8 +1,6 @@
 var a19648 =
 [
-    [ "npc_centrifuge_constructAI", "de/dab/a19648.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
-    [ "DamageTaken", "de/dab/a19648.html#aa568418de267a99108698e79baa1b3f4", null ],
-    [ "JustEngagedWith", "de/dab/a19648.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
-    [ "Reset", "de/dab/a19648.html#a2f7750cea2f59d794c85e20b703370af", null ],
-    [ "UpdateAI", "de/dab/a19648.html#a28316416ad6c56d83c9e878511256445", null ]
+    [ "npc_oculus_drakeAI", "d6/d1b/a19652.html", "d6/d1b/a19652" ],
+    [ "npc_oculus_drake", "de/dab/a19648.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
+    [ "GetAI", "de/dab/a19648.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
 ];

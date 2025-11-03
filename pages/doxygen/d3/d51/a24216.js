@@ -1,7 +1,6 @@
 var a24216 =
 [
-    [ "HandleDummy", "d3/d51/a24216.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "d3/d51/a24216.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "d3/d51/a24216.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "d3/d51/a24216.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "go_apexis_relic", "d3/d51/a24216.html#a91ff5a986ee62b628456e9f5c75f6bc9", null ],
+    [ "OnGossipHello", "d3/d51/a24216.html#ae8f7167ba5b973881e32d604691dc15a", null ],
+    [ "OnGossipSelect", "d3/d51/a24216.html#a025cc7cc9c69f0eb461445170972ab52", null ]
 ];

@@ -1,14 +1,15 @@
 var a02906 =
 [
-    [ "boss_ionar", "d0/d14/a19708.html", "d0/d14/a19708" ],
-    [ "npc_spark_of_ionar", "d9/d67/a19712.html", "d9/d67/a19712" ],
-    [ "spell_ionar_static_overload", "db/d39/a19716.html", "db/d39/a19716" ],
+    [ "boss_ionar", "dd/d91/a19720.html", "dd/d91/a19720" ],
+    [ "npc_spark_of_ionar", "d9/d2e/a19724.html", "d9/d2e/a19724" ],
+    [ "spell_ionar_static_overload", "d9/dea/a19728.html", "d9/dea/a19728" ],
     [ "IonarEvents", "d6/d1d/a02906.html#a55c0c07978cfe70c0de268fffe25dc01", [
       [ "EVENT_BALL_LIGHTNING", "d6/d1d/a02906.html#a55c0c07978cfe70c0de268fffe25dc01a78c3786c67000c32de404a9427b52b06", null ],
       [ "EVENT_STATIC_OVERLOAD", "d6/d1d/a02906.html#a55c0c07978cfe70c0de268fffe25dc01ae3a111aaab2ee8146af4226e5480bd76", null ],
       [ "EVENT_CHECK_HEALTH", "d6/d1d/a02906.html#a55c0c07978cfe70c0de268fffe25dc01a5545d513600badfbae47148bc756ed64", null ],
       [ "EVENT_CALL_SPARKS", "d6/d1d/a02906.html#a55c0c07978cfe70c0de268fffe25dc01a3fc75f85681abc880dc451562f449186", null ],
-      [ "EVENT_RESTORE", "d6/d1d/a02906.html#a55c0c07978cfe70c0de268fffe25dc01a7525c00b2c7e38d5b3b1d300c33411dc", null ]
+      [ "EVENT_RESTORE", "d6/d1d/a02906.html#a55c0c07978cfe70c0de268fffe25dc01a7525c00b2c7e38d5b3b1d300c33411dc", null ],
+      [ "EVENT_CHANGE_TARGET", "d6/d1d/a02906.html#a55c0c07978cfe70c0de268fffe25dc01aecc2f7d81ce1fd43bc3c75f6fa49b4cf", null ]
     ] ],
     [ "IonarOther", "d6/d1d/a02906.html#ad24f90689dd5be1e46b422f4ddd65e45", [
       [ "NPC_SPARK_OF_IONAR", "d6/d1d/a02906.html#ad24f90689dd5be1e46b422f4ddd65e45abefb182d30a413bc95249cb4b78b187c", null ],

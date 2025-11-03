@@ -1,12 +1,17 @@
 var a22804 =
 [
-    [ "boss_shirrak_the_dead_watcher", "dc/d34/a22804.html#aaa6826de3b6563342b89544b38386d93", null ],
-    [ "EnterEvadeMode", "dc/d34/a22804.html#a23768629c4ab48954880c3c29099f432", null ],
-    [ "getStackCount", "dc/d34/a22804.html#aabca8240dfdc6603f0c244286a4d2cfe", null ],
-    [ "JustEngagedWith", "dc/d34/a22804.html#a095ce3401bf0e40255e3104c01ce5fb0", null ],
-    [ "JustSummoned", "dc/d34/a22804.html#a0a8e0d5126d14bd6d15004320b311f36", null ],
-    [ "Reset", "dc/d34/a22804.html#aa16810aeadfac21c53a28ffbca3babdc", null ],
-    [ "SpellHitTarget", "dc/d34/a22804.html#a7cb51a74e53dd6a22a3dbfe4e2220d37", null ],
-    [ "UpdateAI", "dc/d34/a22804.html#a855505f949f53f979187abcb5b2f617f", null ],
-    [ "focusGUID", "dc/d34/a22804.html#a81a7eade42ef595c173d7828ce59ef88", null ]
+    [ "OPvPCapturePointZM_Graveyard", "dc/d34/a22804.html#a78fe433ee7f86e42d9b9c24d4c47f870", null ],
+    [ "CanTalkTo", "dc/d34/a22804.html#ae16e1448e5c21daea0a56ede78b3174a", null ],
+    [ "ChangeState", "dc/d34/a22804.html#a6a066c902c6e8ac58950037e6c4934b6", null ],
+    [ "FillInitialWorldStates", "dc/d34/a22804.html#a8aea9e4a005f5c88e2c71cfd46d10058", null ],
+    [ "GetGraveyardState", "dc/d34/a22804.html#ac10fc817ba6d3c68310a6b0d68e52342", null ],
+    [ "HandleDropFlag", "dc/d34/a22804.html#a87fb109fcc88099406d9f189333aef7c", null ],
+    [ "HandleGossipOption", "dc/d34/a22804.html#a132a6beb8a265dc614763a5f8e510173", null ],
+    [ "HandleOpenGo", "dc/d34/a22804.html#abef3d9dfff4688e0c5a87cd7b2a847c4", null ],
+    [ "SetBeaconState", "dc/d34/a22804.html#a7d7fc3041c753918c6e13e49a691674a", null ],
+    [ "Update", "dc/d34/a22804.html#a19d09f296598b83079eb2545b3d2caff", null ],
+    [ "UpdateTowerState", "dc/d34/a22804.html#ae907325621c0c0a40fc1e7761b81e832", null ],
+    [ "m_BothControllingFactionId", "dc/d34/a22804.html#ad501fe77b1d678cb593be6a0a8afd0a8", null ],
+    [ "m_FlagCarrierGUID", "dc/d34/a22804.html#acb0c4738c28d48f2f0ccec090e4b96d4", null ],
+    [ "m_GraveyardState", "dc/d34/a22804.html#a20e5b236d87c0942d15a60d2eba1af83", null ]
 ];

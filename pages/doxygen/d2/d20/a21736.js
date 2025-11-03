@@ -1,6 +1,9 @@
 var a21736 =
 [
-    [ "npc_captured_beryl_sorcererAI", "d6/d04/a21740.html", "d6/d04/a21740" ],
-    [ "npc_captured_beryl_sorcerer", "d2/d20/a21736.html#ace67e76e96e3be9fa5976dc4c90041e6", null ],
-    [ "GetAI", "d2/d20/a21736.html#aa5a31390ff3c6277ebff2a5eebe72b3d", null ]
+    [ "npc_lurgglbrAI", "d2/d20/a21736.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "d2/d20/a21736.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "d2/d20/a21736.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "d2/d20/a21736.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "IntroPhase", "d2/d20/a21736.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "d2/d20/a21736.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

@@ -1,6 +1,7 @@
 var a17756 =
 [
-    [ "npc_gunshipAI", "d3/d05/a17760.html", "d3/d05/a17760" ],
-    [ "npc_gunship", "da/dc5/a17756.html#a86b3ba622bd6e606cd21f7c7d8dddd1b", null ],
-    [ "GetAI", "da/dc5/a17756.html#adcd37802a2850f4ec8892f3495d5dc16", null ]
+    [ "DelayedMovementEvent", "da/dc5/a17756.html#a21241cde30f66ae42edb311542f7405c", null ],
+    [ "Execute", "da/dc5/a17756.html#a8287761226ee671905151891779b6efb", null ],
+    [ "_dest", "da/dc5/a17756.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
+    [ "_owner", "da/dc5/a17756.html#a046942728282a997068de447271f3cbe", null ]
 ];

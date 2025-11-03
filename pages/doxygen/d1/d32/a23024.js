@@ -1,10 +1,7 @@
 var a23024 =
 [
-    [ "boss_gathios_the_shatterer", "d1/d32/a23024.html#a34708f52c610e567c5acf62962e90d4e", null ],
-    [ "JustEngagedWith", "d1/d32/a23024.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
-    [ "SelectCouncilMember", "d1/d32/a23024.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
-    [ "UpdateAI", "d1/d32/a23024.html#a1541f1efd3978a4c91b80e411aec6442", null ],
-    [ "_toggleAura", "d1/d32/a23024.html#aa983e2d9018a9e53ee29840781f47c33", null ],
-    [ "_toggleBlessing", "d1/d32/a23024.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
-    [ "_toggleSeal", "d1/d32/a23024.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
+    [ "OnPeriodic", "d1/d32/a23024.html#a165d47b116b0a53e37b05f664960e6ec", null ],
+    [ "PrepareAuraScript", "d1/d32/a23024.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
+    [ "Register", "d1/d32/a23024.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
+    [ "Validate", "d1/d32/a23024.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
 ];

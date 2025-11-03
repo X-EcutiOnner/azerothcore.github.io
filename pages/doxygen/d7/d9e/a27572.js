@@ -1,5 +1,5 @@
 var a27572 =
 [
-    [ "go_scourge_cage", "d7/d9e/a27572.html#a76dfa458a52c950fbc0a86412e1ad490", null ],
-    [ "OnGossipHello", "d7/d9e/a27572.html#ab4e97cd290342d623d212cc7cec227d5", null ]
+    [ "go_tele_to_dalaran_crystal", "d7/d9e/a27572.html#ab41268b7d568e8f189338f27cd90a62c", null ],
+    [ "OnGossipHello", "d7/d9e/a27572.html#a7f754a29249653ca7848494310ef1a8d", null ]
 ];

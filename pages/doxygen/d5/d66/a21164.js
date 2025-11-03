@@ -1,7 +1,8 @@
 var a21164 =
 [
-    [ "HandleScriptEffect", "d5/d66/a21164.html#aae469190c1edc1fe45914bad1dac4e93", null ],
-    [ "PrepareSpellScript", "d5/d66/a21164.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
-    [ "Register", "d5/d66/a21164.html#a97265071f226fbd17c37d432cf9e2350", null ],
-    [ "Validate", "d5/d66/a21164.html#aeec0bdd2e39db2da657247376ddcd195", null ]
+    [ "FilterTargets", "d5/d66/a21164.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
+    [ "HandleDummyEffect", "d5/d66/a21164.html#ab1f662fa107d176386067ffc6467d90f", null ],
+    [ "PrepareSpellScript", "d5/d66/a21164.html#a069cc54bf009830ad781c790b4fcedad", null ],
+    [ "Register", "d5/d66/a21164.html#ac91532151b689bde35d7120b1e9aec5b", null ],
+    [ "Validate", "d5/d66/a21164.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
 ];

@@ -1,6 +1,7 @@
 var a20960 =
 [
-    [ "PrepareSpellScript", "dd/d0f/a20960.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
-    [ "Register", "dd/d0f/a20960.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
-    [ "SelectTarget", "dd/d0f/a20960.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
+    [ "FilterTargets", "dd/d0f/a20960.html#a582691eca81b6db6d78ca925ad8fb084", null ],
+    [ "PrepareSpellScript", "dd/d0f/a20960.html#a28ce9d2750c79b2b0061b00df5ae9e8b", null ],
+    [ "RecalculateDamage", "dd/d0f/a20960.html#a02c1af0414de344056b2375488f23c01", null ],
+    [ "Register", "dd/d0f/a20960.html#a1e030067944878000b731edf456d6bc8", null ]
 ];

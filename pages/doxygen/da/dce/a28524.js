@@ -1,17 +1,6 @@
 var a28524 =
 [
-    [ "Entry", "da/dce/a28524.html#a4e8689fabe6b3ef5c495bf84fa1945b7", null ],
-    [ "Difficulty", "da/dce/a28524.html#aa85e97ced86b0d27c753ca924eba074b", null ],
-    [ "ExpansionLevel", "da/dce/a28524.html#a5bbacc248aa127b889d60b3a25b12b83", null ],
-    [ "Flags", "da/dce/a28524.html#a9481c296a064ec400b0f050097903557", null ],
-    [ "GroupID", "da/dce/a28524.html#a7a6c2971a61b171d00c885ce452601ce", null ],
-    [ "ID", "da/dce/a28524.html#ae0fdf0d9afd2f99e9b7e6094960e86e0", null ],
-    [ "MapID", "da/dce/a28524.html#a6c947b111d7d356ba02eb6fffc77f5cb", null ],
-    [ "MaxLevel", "da/dce/a28524.html#aa4fbfd45d4319c9e8319508821bf4a65", null ],
-    [ "MinLevel", "da/dce/a28524.html#a17ae5fe60486c54a3becb2b14d5953c9", null ],
-    [ "Name", "da/dce/a28524.html#a7cb21e4e996be24d531b03fea66ecd27", null ],
-    [ "TargetLevel", "da/dce/a28524.html#a2e6456d16cce98666b0ac63cebf0eb82", null ],
-    [ "TargetLevelMax", "da/dce/a28524.html#ae4a27f7bc0563f606f40d955a40fab1e", null ],
-    [ "TargetLevelMin", "da/dce/a28524.html#a7558f3dc7d695fb17bc3b64e0c381de7", null ],
-    [ "TypeID", "da/dce/a28524.html#a84a498b44063cc95ba1a3b565c44a81b", null ]
+    [ "ID", "da/dce/a28524.html#a7d40e334785d96a2e57d28f87a59778a", null ],
+    [ "maxCount", "da/dce/a28524.html#a5edc6442e026b12dae654fa86440a11a", null ],
+    [ "mode", "da/dce/a28524.html#a76553ecf9f880a5e5967f818123742fd", null ]
 ];

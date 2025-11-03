@@ -1,5 +1,5 @@
 var a28628 =
 [
-    [ "Flags", "d5/d51/a28628.html#a0cb97c73af91dcfdd151c38aa46828cc", null ],
-    [ "Id", "d5/d51/a28628.html#a85e0e36dbc79f309d7f50b087ebcd166", null ]
+    [ "ID", "d5/d51/a28628.html#a142c8a5e22234e6317ff113618559b8b", null ],
+    [ "Value", "d5/d51/a28628.html#a693631ac3ce915a1c4adf565517eacf9", null ]
 ];

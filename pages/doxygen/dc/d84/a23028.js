@@ -1,11 +1,7 @@
 var a23028 =
 [
-    [ "boss_high_nethermancer_zerevor", "dc/d84/a23028.html#a2d3ce1a6d972c0b58efe5aad31014c09", null ],
-    [ "AttackStart", "dc/d84/a23028.html#a270961bd3af6ce65eebc79130f4e3d47", null ],
-    [ "CastDampenMagicIfPossible", "dc/d84/a23028.html#ab0af23baf43d377935811c52a346c566", null ],
-    [ "JustEngagedWith", "dc/d84/a23028.html#a390f939ba01ee189fc55670eb4ff1a7e", null ],
-    [ "OnAuraRemove", "dc/d84/a23028.html#a7dd31808dbf00f77b59fce84249778fe", null ],
-    [ "Reset", "dc/d84/a23028.html#afd7a419de217b3d129f783ddc87780af", null ],
-    [ "UpdateAI", "dc/d84/a23028.html#ae1ec04a655525cbb2a6a3c7e382cf078", null ],
-    [ "_canCastDampenMagic", "dc/d84/a23028.html#a72c89454c2b0754690ae72fd7aacb0e8", null ]
+    [ "VerasEnvenom", "dc/d84/a23028.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "dc/d84/a23028.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "dc/d84/a23028.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "dc/d84/a23028.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

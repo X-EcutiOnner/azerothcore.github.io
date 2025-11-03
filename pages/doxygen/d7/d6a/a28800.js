@@ -1,13 +1,16 @@
 var a28800 =
 [
-    [ "Secret", "d3/da4/a28804.html", "d3/da4/a28804" ],
-    [ "SecretMgr", "d7/d6a/a28800.html#a28ee0858a14656d7fc464eb604b127b7", null ],
-    [ "~SecretMgr", "d7/d6a/a28800.html#ae6f15def262312b17456583b4e548d99", null ],
-    [ "SecretMgr", "d7/d6a/a28800.html#ab48b891b84f116dc5efffe0a10a82f79", null ],
-    [ "AttemptLoad", "d7/d6a/a28800.html#a65c2fd304c0f851f81cd80037deac8fb", null ],
-    [ "AttemptTransition", "d7/d6a/a28800.html#a4b6cbe75e50ec3e4765fdb9e965ee84f", null ],
-    [ "GetSecret", "d7/d6a/a28800.html#aff0b6ca546a62a3d6e7da52c3a2752bd", null ],
-    [ "Initialize", "d7/d6a/a28800.html#a929de7b687d7c6bb91ef35306134ebac", null ],
-    [ "instance", "d7/d6a/a28800.html#a27e237503dc523367fa94bd28a289d97", null ],
-    [ "_secrets", "d7/d6a/a28800.html#a143bb8b3855a9f28df72abc9cfc94f3c", null ]
+    [ "GetAddressForClient", "d7/d6a/a28800.html#a2a3f3db57bb7e6f69ca4f030b65c7331", null ],
+    [ "AllowedSecurityLevel", "d7/d6a/a28800.html#a25e953d80aa3c80e068afe6b57f67d99", null ],
+    [ "Build", "d7/d6a/a28800.html#a64533e919d8c3a37bd5668af77d09166", null ],
+    [ "ExternalAddress", "d7/d6a/a28800.html#a703504aaf54f1ecf934b9184e9737367", null ],
+    [ "Flags", "d7/d6a/a28800.html#a1984cc9564b01b6456f31f77fd65a6d6", null ],
+    [ "Id", "d7/d6a/a28800.html#ab0ccda7e7a58eee0965261767f3ee2ee", null ],
+    [ "LocalAddress", "d7/d6a/a28800.html#a61f429ddc92895e66dff2808e17cc322", null ],
+    [ "LocalSubnetMask", "d7/d6a/a28800.html#a52a4b2704e7f76d8ea296148cefb9482", null ],
+    [ "Name", "d7/d6a/a28800.html#a9381717fdc924158ecd61a8f00488fc0", null ],
+    [ "PopulationLevel", "d7/d6a/a28800.html#a63cdbd47c50f368974b43c3db2f32cee", null ],
+    [ "Port", "d7/d6a/a28800.html#a0131d758f10cbae0c610c2c088299feb", null ],
+    [ "Timezone", "d7/d6a/a28800.html#a377055c4729f21beecb8601cd79017db", null ],
+    [ "Type", "d7/d6a/a28800.html#af77452a4cf7f632d692079615af4737c", null ]
 ];

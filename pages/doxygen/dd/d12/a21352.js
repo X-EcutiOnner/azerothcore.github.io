@@ -1,6 +1,13 @@
 var a21352 =
 [
-    [ "boss_skadi_graufAI", "de/d93/a21356.html", "de/d93/a21356" ],
-    [ "boss_skadi_grauf", "dd/d12/a21352.html#a571db2d2ae21f38b7051319da0f042f6", null ],
-    [ "GetAI", "dd/d12/a21352.html#a9b637a93a572d21691b81b80ec45206d", null ]
+    [ "npc_frenzied_worgenAI", "dd/d12/a21352.html#a3a87e1285fb40a4fe31e7e9c2916f2a8", null ],
+    [ "DoAction", "dd/d12/a21352.html#a7b7b34c2206cd1003c2abff3fb839c34", null ],
+    [ "JustDied", "dd/d12/a21352.html#a33b723baef468ef79e67aaadba1b2691", null ],
+    [ "JustEngagedWith", "dd/d12/a21352.html#a902bb6f89a2a210f2e0d18ebad7613f9", null ],
+    [ "JustReachedHome", "dd/d12/a21352.html#a9b50182cd407811d0f0aeeba378a37ee", null ],
+    [ "MoveInLineOfSight", "dd/d12/a21352.html#a3c2b76ccb6e00a24619f769f0d44ba2b", null ],
+    [ "Reset", "dd/d12/a21352.html#adccac21b6eff18db096eb79dab4a27a0", null ],
+    [ "UpdateAI", "dd/d12/a21352.html#ad83478b5946fd93e1b4fe7916342b1ee", null ],
+    [ "events", "dd/d12/a21352.html#a8619650ae4396aafbdc1533f8b174ab8", null ],
+    [ "m_pInstance", "dd/d12/a21352.html#a425720ce11714b145685f6d9c78a3dc1", null ]
 ];

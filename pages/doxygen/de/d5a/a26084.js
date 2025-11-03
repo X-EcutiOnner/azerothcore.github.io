@@ -1,7 +1,10 @@
 var a26084 =
 [
-    [ "HandleHeal", "de/d5a/a26084.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
-    [ "Load", "de/d5a/a26084.html#a4dd5016439e8798083fe3d4fa5458731", null ],
-    [ "PrepareSpellScript", "de/d5a/a26084.html#a248ae6d2c8f8d6c014a0164105773836", null ],
-    [ "Register", "de/d5a/a26084.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
+    [ "CalcPeriodic", "de/d5a/a26084.html#a6ec300503503fa6f12a48a8494d41edd", null ],
+    [ "Load", "de/d5a/a26084.html#a349827fe659ff3bee0a5dfc677c04825", null ],
+    [ "PrepareAuraScript", "de/d5a/a26084.html#a8c12c4ae3835322602347b654d96a8b7", null ],
+    [ "Register", "de/d5a/a26084.html#aeba6dda1114bc738cddff4d40d48ccd7", null ],
+    [ "Update", "de/d5a/a26084.html#afa9e6eec798c354231b5f95e260c7111", null ],
+    [ "Validate", "de/d5a/a26084.html#adb891e80c5bf15b4a0798aa01a45c9e0", null ],
+    [ "_spell_id", "de/d5a/a26084.html#a2836863ea4bafc73f2adbb9176cbec60", null ]
 ];

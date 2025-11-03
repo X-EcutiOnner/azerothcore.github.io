@@ -1,6 +1,8 @@
 var a24820 =
 [
-    [ "RaiseDeadCheck", "df/d6e/a24820.html#abc6439e5b457f2f6e832f504167a392d", null ],
-    [ "operator()", "df/d6e/a24820.html#a9647e6afd21e7397f05349e66bea4326", null ],
-    [ "_caster", "df/d6e/a24820.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
+    [ "HandleEffectApply", "df/d6e/a24820.html#a9a93b47a1f24554a94e364b07f74ba55", null ],
+    [ "HandleEffectRemove", "df/d6e/a24820.html#abb7f01239b5a982ded0244d781c4d856", null ],
+    [ "PrepareAuraScript", "df/d6e/a24820.html#a9517667d1f79557b3ec2ef6fdfd1bc1b", null ],
+    [ "Register", "df/d6e/a24820.html#ae2847d4059ad2822be5703c4d0c79bdb", null ],
+    [ "Validate", "df/d6e/a24820.html#abc30fd53a7f9234755c292db533ba99c", null ]
 ];

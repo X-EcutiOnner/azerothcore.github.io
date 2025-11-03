@@ -1,7 +1,7 @@
 var a28532 =
 [
-    [ "Id", "dd/d4e/a28532.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
-    [ "SoundBank", "dd/d4e/a28532.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
-    [ "SpellId", "dd/d4e/a28532.html#aa010947f5fbec6867b005b25728e720b", null ],
-    [ "Type", "dd/d4e/a28532.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
+    [ "AllocationPct", "dd/d4e/a28532.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
+    [ "Enchantment", "dd/d4e/a28532.html#a45e694082c1dbdeef5229561f617d584", null ],
+    [ "ID", "dd/d4e/a28532.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
+    [ "Name", "dd/d4e/a28532.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
 ];

@@ -1,6 +1,6 @@
 var a27208 =
 [
-    [ "HandleScript", "d5/d05/a27208.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
-    [ "PrepareSpellScript", "d5/d05/a27208.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
-    [ "Register", "d5/d05/a27208.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
+    [ "HandleHeal", "d5/d05/a27208.html#a03afbdbdc8555fc2d558a5e48f7340a0", null ],
+    [ "PrepareSpellScript", "d5/d05/a27208.html#a61a601108cd59e5d87634c02b002e20d", null ],
+    [ "Register", "d5/d05/a27208.html#ae46c965fc77aa61aaa3c426c8ecc585c", null ]
 ];

@@ -1,6 +1,6 @@
 var a19844 =
 [
-    [ "HandleApplyTouch", "dc/dfd/a19844.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "dc/dfd/a19844.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "dc/dfd/a19844.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "iron_golem_custodianAI", "d5/de1/a19848.html", "d5/de1/a19848" ],
+    [ "iron_golem_custodian", "dc/dfd/a19844.html#adc11b755e193adbad757c21e5b15e063", null ],
+    [ "GetAI", "dc/dfd/a19844.html#a272e0c9fe475a665aa80a95f1e1d8629", null ]
 ];

@@ -1,7 +1,7 @@
 var a23512 =
 [
-    [ "PeriodicTick", "dc/d97/a23512.html#a789d2d4d2bc75e412abe80a33102fa06", null ],
-    [ "PrepareAuraScript", "dc/d97/a23512.html#a49db8ade3bc3a3da9e043e8b9ad1759d", null ],
-    [ "Register", "dc/d97/a23512.html#aec2d7f564107f5b294a5d5c3dd3f9b25", null ],
-    [ "Validate", "dc/d97/a23512.html#a7c2309d3192b2a18d8035c8067849d6d", null ]
+    [ "npc_ahune_ice_spear_bunny", "dc/d97/a23512.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "dc/d97/a23512.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "dc/d97/a23512.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "dc/d97/a23512.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

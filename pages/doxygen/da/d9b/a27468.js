@@ -1,6 +1,5 @@
 var a27468 =
 [
-    [ "go_flamesAI", "de/de4/a27472.html", "de/de4/a27472" ],
-    [ "go_flames", "da/d9b/a27468.html#a75d49202eaf2078b8276e59944d1ec89", null ],
-    [ "GetAI", "da/d9b/a27468.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
+    [ "go_ethereum_stasis", "da/d9b/a27468.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
+    [ "OnGossipHello", "da/d9b/a27468.html#ac36da8dccbebcaee605a878df3904c60", null ]
 ];

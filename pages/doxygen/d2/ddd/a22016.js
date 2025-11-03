@@ -1,6 +1,6 @@
 var a22016 =
 [
-    [ "SACDeactivateEvent", "d2/ddd/a22016.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
-    [ "Execute", "d2/ddd/a22016.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
-    [ "_owner", "d2/ddd/a22016.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
+    [ "npc_q24545_lich_kingAI", "d1/dd9/a22020.html", "d1/dd9/a22020" ],
+    [ "npc_q24545_lich_king", "d2/ddd/a22016.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
+    [ "GetAI", "d2/ddd/a22016.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
 ];

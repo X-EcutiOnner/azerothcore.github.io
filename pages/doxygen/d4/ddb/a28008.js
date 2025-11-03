@@ -1,5 +1,5 @@
 var a28008 =
 [
-    [ "go_transport_the_thundercaller", "d4/ddb/a28008.html#a79d5ed60a112c5f352f9f0b94f9f3a17", null ],
-    [ "EventInform", "d4/ddb/a28008.html#ad2e981ff6223ec2cbd8a897485a61204", null ]
+    [ "ServerMailReward", "d4/ddb/a28008.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
+    [ "OnPlayerLogin", "d4/ddb/a28008.html#ada945e805278d54746b6fabaf48b4546", null ]
 ];

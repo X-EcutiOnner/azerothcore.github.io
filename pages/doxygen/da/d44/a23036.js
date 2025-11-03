@@ -1,7 +1,13 @@
 var a23036 =
 [
-    [ "boss_veras_darkshadow", "da/d44/a23036.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
-    [ "JustEngagedWith", "da/d44/a23036.html#a5eec3e70a7950073eced60d680ff6298", null ],
-    [ "JustSummoned", "da/d44/a23036.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
-    [ "UpdateAI", "da/d44/a23036.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
+    [ "boss_illidari_council_memberAI", "da/d44/a23036.html#ac32366dfad13cd37ced2428d041e25c9", null ],
+    [ "DamageTaken", "da/d44/a23036.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
+    [ "DoAction", "da/d44/a23036.html#a203310b84d71a24145b1c39e7faff182", null ],
+    [ "EnterEvadeMode", "da/d44/a23036.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
+    [ "JustDied", "da/d44/a23036.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
+    [ "JustEngagedWith", "da/d44/a23036.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
+    [ "KilledUnit", "da/d44/a23036.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
+    [ "Reset", "da/d44/a23036.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
+    [ "events", "da/d44/a23036.html#ad47a350f5ed066e04816e72961a80bd0", null ],
+    [ "instance", "da/d44/a23036.html#adb11720cd0fd87a42b9a78490a70251e", null ]
 ];

@@ -1,7 +1,5 @@
 var a27920 =
 [
-    [ "npc_crashin_thrashin_robot", "d7/deb/a27920.html#ad21336d212498b1c9ef5d46979d147ab", null ],
-    [ "IsSummonedBy", "d7/deb/a27920.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
-    [ "UpdateAI", "d7/deb/a27920.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
-    [ "_scheduler", "d7/deb/a27920.html#a55778501d154d0a9e77f76054e926f85", null ]
+    [ "npc_stable_masterAI", "d7/deb/a27920.html#a5c6f9bca1004af163ddb074b606330be", null ],
+    [ "sGossipSelect", "d7/deb/a27920.html#a09205661674dd011ffe425deaadde053", null ]
 ];

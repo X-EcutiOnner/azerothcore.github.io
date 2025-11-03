@@ -1,5 +1,6 @@
 var a23296 =
 [
-    [ "PrepareSpellScript", "d7/df7/a23296.html#a0482d714ce0b4cfd81b2fc7fa8c87f0d", null ],
-    [ "Register", "d7/df7/a23296.html#a7aa83bfd512ee0ff839f61bafe6dd27b", null ]
+    [ "HandleProc", "d7/df7/a23296.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
+    [ "PrepareAuraScript", "d7/df7/a23296.html#a94b244ef26355d53c874aec6d26f3a53", null ],
+    [ "Register", "d7/df7/a23296.html#a9499d88802213ceb877e19d1651324f2", null ]
 ];

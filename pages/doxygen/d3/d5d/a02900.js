@@ -1,7 +1,7 @@
 var a02900 =
 [
-    [ "boss_loken", "dd/d91/a19720.html", "dd/d91/a19720" ],
-    [ "spell_loken_pulsing_shockwave", "d9/d2e/a19724.html", "d9/d2e/a19724" ],
+    [ "boss_loken", "d7/d35/a19732.html", "d7/d35/a19732" ],
+    [ "spell_loken_pulsing_shockwave", "d6/da1/a19736.html", "d6/da1/a19736" ],
     [ "LokenEvents", "d3/d5d/a02900.html#a77575461d3289e4cd9f6432f5f6e01c0", [
       [ "EVENT_LIGHTNING_NOVA", "d3/d5d/a02900.html#a77575461d3289e4cd9f6432f5f6e01c0a44944e59a1877f181fcd2a7b0255a74a", null ],
       [ "EVENT_SHOCKWAVE", "d3/d5d/a02900.html#a77575461d3289e4cd9f6432f5f6e01c0ade40d104ed3268809acfe5d537a6828d", null ],
@@ -11,12 +11,10 @@ var a02900 =
     ] ],
     [ "LokenSpells", "d3/d5d/a02900.html#ac8ac02e933ca6a1b9128844eed6d45a4", [
       [ "SPELL_ARC_LIGHTNING", "d3/d5d/a02900.html#ac8ac02e933ca6a1b9128844eed6d45a4a24f0fbfb98278e23cb4fffa403193d0a", null ],
-      [ "SPELL_LIGHTNING_NOVA_N", "d3/d5d/a02900.html#ac8ac02e933ca6a1b9128844eed6d45a4a0c463590f2f093c503a7df59fd1a75dd", null ],
-      [ "SPELL_LIGHTNING_NOVA_H", "d3/d5d/a02900.html#ac8ac02e933ca6a1b9128844eed6d45a4a01d8b31c5f186596cc3347202d644c06", null ],
+      [ "SPELL_LIGHTNING_NOVA", "d3/d5d/a02900.html#ac8ac02e933ca6a1b9128844eed6d45a4aac47796ae5355ebf558988c4c62b8e28", null ],
       [ "SPELL_LIGHTNING_NOVA_VISUAL", "d3/d5d/a02900.html#ac8ac02e933ca6a1b9128844eed6d45a4a8024eb79e038cae38744da203c25efe5", null ],
       [ "SPELL_LIGHTNING_NOVA_THUNDERS", "d3/d5d/a02900.html#ac8ac02e933ca6a1b9128844eed6d45a4acec3ec5817c71ea46a8e473d513a53ae", null ],
-      [ "SPELL_PULSING_SHOCKWAVE_N", "d3/d5d/a02900.html#ac8ac02e933ca6a1b9128844eed6d45a4a5322ddd3913b0dc03eec8f5b0d2c4f6a", null ],
-      [ "SPELL_PULSING_SHOCKWAVE_H", "d3/d5d/a02900.html#ac8ac02e933ca6a1b9128844eed6d45a4a570d50c978dbfa13ea77ad194a29c87b", null ],
+      [ "SPELL_PULSING_SHOCKWAVE", "d3/d5d/a02900.html#ac8ac02e933ca6a1b9128844eed6d45a4aa2be8956502fb5d27a92520a6e93fe3d", null ],
       [ "ACHIEVEMENT_TIMELY_DEATH", "d3/d5d/a02900.html#ac8ac02e933ca6a1b9128844eed6d45a4a0cae20f19460683fbf1db44ccdfaa880", null ]
     ] ],
     [ "Yells", "d3/d5d/a02900.html#a34a1b224b8db54cacd01d75b910f04e3", [

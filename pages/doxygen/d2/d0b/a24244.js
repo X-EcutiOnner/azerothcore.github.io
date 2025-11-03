@@ -1,6 +1,6 @@
 var a24244 =
 [
-    [ "npc_fel_guard_houndAI", "df/d74/a24248.html", "df/d74/a24248" ],
-    [ "npc_fel_guard_hound", "d2/d0b/a24244.html#a324179695f04a31b233b0ce94a46634c", null ],
-    [ "GetAI", "d2/d0b/a24244.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
+    [ "npc_ancestral_wolfAI", "df/d74/a24248.html", "df/d74/a24248" ],
+    [ "npc_ancestral_wolf", "d2/d0b/a24244.html#a7cadf2848a086db63792f8068ee9463d", null ],
+    [ "GetAI", "d2/d0b/a24244.html#a201255a64d4e742ba8b118b4f2ec5cd5", null ]
 ];

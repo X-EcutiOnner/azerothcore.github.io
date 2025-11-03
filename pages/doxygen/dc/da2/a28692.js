@@ -1,7 +1,9 @@
 var a28692 =
 [
-    [ "from", "dc/da2/a28692.html#a8e87b02059c2c1e4b1dd2760c99cb004", null ],
-    [ "ID", "dc/da2/a28692.html#a4375feed48ce5ac7291dced992c9bbf4", null ],
-    [ "price", "dc/da2/a28692.html#a44fc4c13d3426fcbc7b1108e513973de", null ],
-    [ "to", "dc/da2/a28692.html#a6b24cdac137b2b8d9472b5d1aca4178f", null ]
+    [ "Category", "dc/da2/a28692.html#acd933f251a1faa1f705420307136681d", null ],
+    [ "Faction", "dc/da2/a28692.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
+    [ "Flags", "dc/da2/a28692.html#a8b41ed573eae71196664a61bac83fe3e", null ],
+    [ "Id", "dc/da2/a28692.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
+    [ "Slot", "dc/da2/a28692.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
+    [ "Type", "dc/da2/a28692.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
 ];

@@ -1,6 +1,5 @@
 var a22396 =
 [
-    [ "npc_bushwhackerAI", "d9/da7/a22400.html", "d9/da7/a22400" ],
-    [ "npc_bushwhacker", "d7/d1c/a22396.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
-    [ "GetAI", "d7/d1c/a22396.html#ab3190b66069e820abf3637bb877066a0", null ]
+    [ "go_pressure_valve", "d7/d1c/a22396.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
+    [ "OnGossipHello", "d7/d1c/a22396.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
 ];

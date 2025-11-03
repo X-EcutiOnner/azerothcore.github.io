@@ -1,5 +1,5 @@
 var a17356 =
 [
-    [ "endPosition", "da/d02/a17356.html#a8a88b0191d28ef6af8f41db627552602", null ],
-    [ "entry", "da/d02/a17356.html#ac4e55af666e269440953ced038c1a8de", null ]
+    [ "at_tyrannus_event_starter", "da/d02/a17356.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
+    [ "OnTrigger", "da/d02/a17356.html#a8dcfce4cd24dbc45df987b4a9bfcbbc0", null ]
 ];

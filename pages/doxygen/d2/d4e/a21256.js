@@ -1,7 +1,6 @@
 var a21256 =
 [
-    [ "npc_frost_tomb", "d2/d4e/a21256.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "d2/d4e/a21256.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "d2/d4e/a21256.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "d2/d4e/a21256.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "HandleEffectPeriodic", "d2/d4e/a21256.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
+    [ "PrepareAuraScript", "d2/d4e/a21256.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
+    [ "Register", "d2/d4e/a21256.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
 ];

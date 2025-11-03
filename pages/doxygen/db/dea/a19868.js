@@ -1,6 +1,6 @@
 var a19868 =
 [
-    [ "npc_brann_bronzebeard_algalonAI", "dc/da7/a19872.html", "dc/da7/a19872" ],
-    [ "npc_brann_bronzebeard_algalon", "db/dea/a19868.html#a2760d42de8f78250ca5862bfcb23ed2e", null ],
-    [ "GetAI", "db/dea/a19868.html#ad8bc8bde865adcce1e9f6fd6234f1a0a", null ]
+    [ "CosmicSmashDamageEvent", "db/dea/a19868.html#a5c9606791b560d8be1825a9c73f2393e", null ],
+    [ "Execute", "db/dea/a19868.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
+    [ "_caster", "db/dea/a19868.html#ab7af2459d3962831812ee2362ee9de2b", null ]
 ];

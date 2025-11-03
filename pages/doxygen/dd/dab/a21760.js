@@ -1,7 +1,7 @@
 var a21760 =
 [
-    [ "npc_mootoo_the_youngerAI", "dd/dab/a21760.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
-    [ "JustDied", "dd/dab/a21760.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
-    [ "Reset", "dd/dab/a21760.html#a04624b9b4d552d6b27308edc3ad44644", null ],
-    [ "WaypointReached", "dd/dab/a21760.html#ac758a992ed0d62a272930c84d617b348", null ]
+    [ "HandleScriptEffect", "dd/dab/a21760.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
+    [ "PrepareSpellScript", "dd/dab/a21760.html#a73b5af95ee4f593337c3803574d190db", null ],
+    [ "Register", "dd/dab/a21760.html#a930de2343532feb50b86304f32269e4c", null ],
+    [ "Validate", "dd/dab/a21760.html#ae9bfedf7e89487217ad927459e259c04", null ]
 ];

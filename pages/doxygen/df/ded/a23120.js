@@ -1,6 +1,6 @@
 var a23120 =
 [
-    [ "boss_essence_of_angerAI", "d1/d37/a23124.html", "d1/d37/a23124" ],
-    [ "boss_essence_of_anger", "df/ded/a23120.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
-    [ "GetAI", "df/ded/a23120.html#a70a460f31b7f878e532b695ca822ab5d", null ]
+    [ "boss_essence_of_sufferingAI", "d1/d37/a23124.html", "d1/d37/a23124" ],
+    [ "boss_essence_of_suffering", "df/ded/a23120.html#a1237f428657f0e9a0218695264358384", null ],
+    [ "GetAI", "df/ded/a23120.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
 ];

@@ -1,5 +1,7 @@
 var a23420 =
 [
-    [ "go_strange_pool", "da/d97/a23420.html#aa44feb353ad1cb440e5b6707112af680", null ],
-    [ "OnGossipHello", "da/d97/a23420.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
+    [ "HandleEffectApply", "da/d97/a23420.html#a3893fffea480b47d06c4903deb051aa9", null ],
+    [ "HandleEffectRemove", "da/d97/a23420.html#a8f120ed0d8cbce6dd0640f02ea488669", null ],
+    [ "PrepareAuraScript", "da/d97/a23420.html#a246c20ab26d1490fe38afd558a7ae406", null ],
+    [ "Register", "da/d97/a23420.html#aea639a3ae0f003c6213143427f3b1d23", null ]
 ];

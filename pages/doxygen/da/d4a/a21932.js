@@ -1,6 +1,7 @@
 var a21932 =
 [
-    [ "npc_hourglass_of_eternityAI", "d9/d57/a21936.html", "d9/d57/a21936" ],
-    [ "npc_hourglass_of_eternity", "da/d4a/a21932.html#a40500ff582ead06bd646be86baad7d35", null ],
-    [ "GetAI", "da/d4a/a21932.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
+    [ "npc_cosmetic_toy_plane", "da/d4a/a21932.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
+    [ "Reset", "da/d4a/a21932.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
+    [ "UpdateAI", "da/d4a/a21932.html#a41d62b314510fbd6637d8eddbea16f96", null ],
+    [ "_movementArray", "da/d4a/a21932.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
 ];

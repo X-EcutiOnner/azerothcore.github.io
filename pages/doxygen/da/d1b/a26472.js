@@ -1,8 +1,10 @@
 var a26472 =
 [
-    [ "CalculateAmount", "da/d1b/a26472.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
-    [ "PrepareAuraScript", "da/d1b/a26472.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
-    [ "ReflectDamage", "da/d1b/a26472.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
-    [ "Register", "da/d1b/a26472.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
-    [ "Validate", "da/d1b/a26472.html#af2936ba4a29fc8735a3cabe805c77355", null ]
+    [ "CheckProc", "da/d1b/a26472.html#adce0da60782bcdadbb42ec1c73fddec1", null ],
+    [ "HandleProc", "da/d1b/a26472.html#a82218c6f6319c60c26a7d4ec01b64bf9", null ],
+    [ "Load", "da/d1b/a26472.html#ab9054a6d771022e4bf2b495c30ad8361", null ],
+    [ "PrepareAuraScript", "da/d1b/a26472.html#ab8f483be4d01aa2460c90b043d7a441b", null ],
+    [ "Register", "da/d1b/a26472.html#a4cb08499767ab58f0e525c382b662fbd", null ],
+    [ "Validate", "da/d1b/a26472.html#aa6165f28706d49940dd1f62065631119", null ],
+    [ "_procTarget", "da/d1b/a26472.html#a7b9426e18b454bf631992518c2bdbde0", null ]
 ];

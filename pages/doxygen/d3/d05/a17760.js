@@ -1,14 +1,8 @@
 var a17760 =
 [
-    [ "npc_gunshipAI", "d3/d05/a17760.html#a75444497ffd6b7365827eea57fd946f9", null ],
-    [ "DamageTaken", "d3/d05/a17760.html#a9c1825ec51aaecedd1035ae9a1ded6a0", null ],
-    [ "GetData", "d3/d05/a17760.html#a0142bec2427c1256431e55d3f74b8948", null ],
-    [ "JustDied", "d3/d05/a17760.html#aa19c815ad64f81fb5240c5e0667bccc9", null ],
-    [ "SetGUID", "d3/d05/a17760.html#a7f336843c54de072cf58bc87ff08b068", null ],
-    [ "UpdateAI", "d3/d05/a17760.html#a8bab1a755c2262e9f36f295781d30909", null ],
-    [ "_died", "d3/d05/a17760.html#af4480427460748bccae214737469ddb7", null ],
-    [ "_instance", "d3/d05/a17760.html#a21f9c24e80145db0c6847c81261d0e8d", null ],
-    [ "_shipVisits", "d3/d05/a17760.html#a6f9730b746e195a99dc11357fd0387ba", null ],
-    [ "_summonedFirstMage", "d3/d05/a17760.html#a721cc96cc76a27574a1a4eb1996b100e", null ],
-    [ "_teamIdInInstance", "d3/d05/a17760.html#a195ff7ab2c2e96ab0bcd0a96c1e21512", null ]
+    [ "ResetEncounterEvent", "d3/d05/a17760.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
+    [ "Execute", "d3/d05/a17760.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
+    [ "_caster", "d3/d05/a17760.html#abb37778222749b27791baa329e268c32", null ],
+    [ "_otherTransport", "d3/d05/a17760.html#a7f2d0aaade5833381e3e7624745fc504", null ],
+    [ "_spellId", "d3/d05/a17760.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
 ];

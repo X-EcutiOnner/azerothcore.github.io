@@ -1,6 +1,6 @@
 var a21576 =
 [
-    [ "instance_violet_hold_InstanceMapScript", "d2/da2/a21580.html", "d2/da2/a21580" ],
-    [ "instance_violet_hold", "df/d7b/a21576.html#ae66f018196cd90683506c3cc3d8c5d7a", null ],
-    [ "GetInstanceScript", "df/d7b/a21576.html#aeedcbb24b0709bd172ebbbc6d9851532", null ]
+    [ "boss_zuramatAI", "d2/da2/a21580.html", "d2/da2/a21580" ],
+    [ "boss_zuramat", "df/d7b/a21576.html#a1d169e786dcf846026b48d9be389f9ab", null ],
+    [ "GetAI", "df/d7b/a21576.html#a1008c053a2c9ad14cf9ce994db931670", null ]
 ];

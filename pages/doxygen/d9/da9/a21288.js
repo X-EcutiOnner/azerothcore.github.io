@@ -1,10 +1,12 @@
 var a21288 =
 [
-    [ "npc_dragonflayer_forge_master", "d9/da9/a21288.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
-    [ "JustDied", "d9/da9/a21288.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
-    [ "JustEngagedWith", "d9/da9/a21288.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
-    [ "Reset", "d9/da9/a21288.html#af2c844c926b94456df796b4252e899c2", null ],
-    [ "dataId", "d9/da9/a21288.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
-    [ "pInstance", "d9/da9/a21288.html#a27b5988d777347832795581b0186c09f", null ],
-    [ "prevDataId", "d9/da9/a21288.html#aa057cb5ae681b4b802031151ea1a3529", null ]
+    [ "boss_skarvald_the_constructor", "d9/da9/a21288.html#a32d092ecf17aaafc61cefb4c0efce639", null ],
+    [ "DoAction", "d9/da9/a21288.html#a63c9e981a198f6fefe8d1fa4d8ede20e", null ],
+    [ "JustDied", "d9/da9/a21288.html#a9180dcb3c22944c75e5e424dc1a78339", null ],
+    [ "JustEngagedWith", "d9/da9/a21288.html#a529439d257abf78f76db0043549964e6", null ],
+    [ "KilledUnit", "d9/da9/a21288.html#a9d65e24161dd1f7bac9fe991624c5c80", null ],
+    [ "Reset", "d9/da9/a21288.html#ada2068f8b5d125062ec0b7fde0d05c7f", null ],
+    [ "UpdateAI", "d9/da9/a21288.html#a9c1f74c20a5a9f47f9430450742938a2", null ],
+    [ "events", "d9/da9/a21288.html#a28837280e161f6971564a4725c97a154", null ],
+    [ "pInstance", "d9/da9/a21288.html#ab5b773a9960f611a6383578a607ba258", null ]
 ];

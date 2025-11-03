@@ -1,9 +1,7 @@
 var a28796 =
 [
-    [ "flags", "d6/df6/a28796.html#a064de2e88c563121bbb78549a7bab868", null ],
-    [ "_flags", "d6/df6/a28796.html#a16f1b30a57eb6703e8073ef55d988391", null ],
-    [ "bits", "d6/df6/a28796.html#a529f1856635132646457c57f3546f4ec", null ],
-    [ "configKey", "d6/df6/a28796.html#af14d118016b9e01612769c00f13aa2d6", null ],
-    [ "oldKey", "d6/df6/a28796.html#a29605b536523f6d022bbac0e12d1d8dc", null ],
-    [ "owner", "d6/df6/a28796.html#a24aaa1c473c3932c83dd49aad84f8361", null ]
+    [ "RealmHandle", "d6/df6/a28796.html#a120fb45f2301188a843ab2e712f768e4", null ],
+    [ "RealmHandle", "d6/df6/a28796.html#ac3e04e9790e1ae75b9701f1a84b9f6e2", null ],
+    [ "operator<", "d6/df6/a28796.html#ad414bab23a3ecfb3cabb146d5f43bf3e", null ],
+    [ "Realm", "d6/df6/a28796.html#a31af0d9064a295b1579fce3c80217bfd", null ]
 ];

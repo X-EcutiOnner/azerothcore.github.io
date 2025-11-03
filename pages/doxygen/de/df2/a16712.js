@@ -1,6 +1,7 @@
 var a16712 =
 [
-    [ "npc_toc_pet_warlockAI", "db/dcc/a16716.html", "db/dcc/a16716" ],
-    [ "npc_toc_pet_warlock", "de/df2/a16712.html#a4703f506d677d7e490c6813c6d9b060b", null ],
-    [ "GetAI", "de/df2/a16712.html#aebcaff82726508a14028cb22a1ef944b", null ]
+    [ "npc_toc_retro_paladinAI", "de/df2/a16712.html#afe933281cea61c9a4f3ded76290a3b72", null ],
+    [ "myCanCast", "de/df2/a16712.html#a271b1d0855dbd2e38ecb6ea62140012f", null ],
+    [ "UpdateAI", "de/df2/a16712.html#a105d6b9c133c1147b310826d7be416f5", null ],
+    [ "events", "de/df2/a16712.html#a7078c28d5392bc77d577fa7a6f96b9d7", null ]
 ];

@@ -1,7 +1,5 @@
 var a28880 =
 [
-    [ "Paths", "d9/d27/a28880.html#aff167c694a55441bcf5504f5d1933f41", null ],
-    [ "References", "d9/d27/a28880.html#a07f0d7daa9cd934768b8a603dc52bea3", null ],
-    [ "Sets", "d9/d27/a28880.html#a43774f8dd70e85e16aa8d49b5c6a25b6", null ],
-    [ "Spawns", "d9/d27/a28880.html#a51f24c059516683f0744b81819186c0e", null ]
+    [ "height", "d9/d27/a28880.html#a9ee8f132a89d37d9b202c7f49d2c3a49", null ],
+    [ "light", "d9/d27/a28880.html#a53c2edf09fb56334d1c3621d3630de5d", null ]
 ];

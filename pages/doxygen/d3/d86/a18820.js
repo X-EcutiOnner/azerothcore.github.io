@@ -1,7 +1,8 @@
 var a18820 =
 [
-    [ "npc_frost_freeze_trapAI", "d3/d86/a18820.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
-    [ "DoAction", "d3/d86/a18820.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
-    [ "UpdateAI", "d3/d86/a18820.html#ae8efccb090f38968f3c0ca51f022013b", null ],
-    [ "_events", "d3/d86/a18820.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
+    [ "npc_rotting_frost_giantAI", "d3/d86/a18820.html#a7b412075e17a81bf50aba63f96c16e53", null ],
+    [ "JustDied", "d3/d86/a18820.html#a68b4e823de82fdfd31ccf765192e8768", null ],
+    [ "Reset", "d3/d86/a18820.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
+    [ "UpdateAI", "d3/d86/a18820.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
+    [ "_events", "d3/d86/a18820.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
 ];

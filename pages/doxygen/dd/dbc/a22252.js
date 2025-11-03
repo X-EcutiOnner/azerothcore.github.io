@@ -1,7 +1,7 @@
 var a22252 =
 [
-    [ "npc_battle_at_valhalasAI", "da/da1/a22256.html", "da/da1/a22256" ],
-    [ "npc_battle_at_valhalas", "dd/dbc/a22252.html#aacec717b5b91ae55307c9642779c15ec", null ],
-    [ "GetAI", "dd/dbc/a22252.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
-    [ "OnQuestAccept", "dd/dbc/a22252.html#addd76fd9f4b4f8ce706693614b80966b", null ]
+    [ "npc_rodin_lightning_enabler", "dd/dbc/a22252.html#ae014b208af7664acd2147663d9338583", null ],
+    [ "Reset", "dd/dbc/a22252.html#ac3ff539380f8fdd5827c6868815b39cc", null ],
+    [ "UpdateAI", "dd/dbc/a22252.html#a5f900d97eec245bf3c27cde5c78b71e3", null ],
+    [ "_scheduler", "dd/dbc/a22252.html#a06434f538bd89d429a329bbd24e5fcdf", null ]
 ];

@@ -1,10 +1,7 @@
 var a26284 =
 [
-    [ "AfterCheckProc", "d1/df7/a26284.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb", null ],
-    [ "HandleProc", "d1/df7/a26284.html#a613182c741769d0983206bdfa89242f6", null ],
-    [ "PrepareAuraScript", "d1/df7/a26284.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
-    [ "Register", "d1/df7/a26284.html#acd807de02a83a97a78572d672fb16027", null ],
-    [ "Validate", "d1/df7/a26284.html#a3d2d6f1a00825ac66f507a790f468198", null ],
-    [ "_spellInfo", "d1/df7/a26284.html#a66a5eb4caa7b43c34b2830d9a3d2f994", null ],
-    [ "_ticksModifier", "d1/df7/a26284.html#ae23b54499fff879a096bd459e264c4f0", null ]
+    [ "CalculateSpellAmount", "d1/df7/a26284.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
+    [ "CheckCast", "d1/df7/a26284.html#af043f7ee0f80baf667e64225effd57d1", null ],
+    [ "PrepareSpellScript", "d1/df7/a26284.html#a233ac4020722078d865cf980d7fa76cf", null ],
+    [ "Register", "d1/df7/a26284.html#a3648ecd94430e21dd014795156c1eb98", null ]
 ];

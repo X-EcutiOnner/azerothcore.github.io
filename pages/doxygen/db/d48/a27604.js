@@ -1,5 +1,6 @@
 var a27604 =
 [
-    [ "go_hive_pod", "db/d48/a27604.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
-    [ "OnGossipHello", "db/d48/a27604.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
+    [ "go_soulwellAI", "d0/d60/a27608.html", "d0/d60/a27608" ],
+    [ "go_soulwell", "db/d48/a27604.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
+    [ "GetAI", "db/d48/a27604.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
 ];

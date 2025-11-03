@@ -1,7 +1,7 @@
 var a02897 =
 [
-    [ "boss_bjarngrim", "d3/dd7/a19700.html", "d3/dd7/a19700" ],
-    [ "npc_stormforged_lieutenant", "d7/dd7/a19704.html", "d7/dd7/a19704" ],
+    [ "boss_bjarngrim", "d9/d67/a19712.html", "d9/d67/a19712" ],
+    [ "npc_stormforged_lieutenant", "db/d39/a19716.html", "db/d39/a19716" ],
     [ "BjarngrimEvents", "d2/d4c/a02897.html#aa8c3e344bed87b5cb609d644244a84dc", [
       [ "EVENT_BJARNGRIM_CHANGE_STANCE", "d2/d4c/a02897.html#aa8c3e344bed87b5cb609d644244a84dca86c4301f1389fc68ef05ba6f2fcec688", null ],
       [ "EVENT_BJARNGRIM_REFLECTION", "d2/d4c/a02897.html#aa8c3e344bed87b5cb609d644244a84dca248b5d28ba71eaca7bebb2db0e87af8b", null ],
@@ -14,7 +14,8 @@ var a02897 =
       [ "EVENT_BJARNGRIM_CLEAVE", "d2/d4c/a02897.html#aa8c3e344bed87b5cb609d644244a84dca57bfe9818949e1d4da58a470d31fba8a", null ],
       [ "EVENT_BJARNGRIM_SLAM", "d2/d4c/a02897.html#aa8c3e344bed87b5cb609d644244a84dca6ef3d3176238bc6f7a078dd18b7a7d43", null ],
       [ "EVENT_ARC_WELD", "d2/d4c/a02897.html#aa8c3e344bed87b5cb609d644244a84dca8f1e729a2691ae197dd2e50093d7cef9", null ],
-      [ "EVENT_RENEW_STEEL", "d2/d4c/a02897.html#aa8c3e344bed87b5cb609d644244a84dca92fa70f34449aff6e5f446edfbf17db4", null ]
+      [ "EVENT_RENEW_STEEL", "d2/d4c/a02897.html#aa8c3e344bed87b5cb609d644244a84dca92fa70f34449aff6e5f446edfbf17db4", null ],
+      [ "EVENT_CHARGE_UP", "d2/d4c/a02897.html#aa8c3e344bed87b5cb609d644244a84dca8810dd09ce40935945293f7d0c4a7993", null ]
     ] ],
     [ "BjarngrimOther", "d2/d4c/a02897.html#aa75a1bce0a129dd575456252cf7c20e7", [
       [ "STANCE_DEFENSIVE", "d2/d4c/a02897.html#aa75a1bce0a129dd575456252cf7c20e7aac986ab2c07e75b57574a663f640bcb4", null ],
@@ -44,8 +45,7 @@ var a02897 =
       [ "SPELL_CHARGE_UP", "d2/d4c/a02897.html#ae8475905b6004061a8bb5371742fd9c2a8ae77f940b180dd102e8592e6981c947", null ],
       [ "SPELL_TEMPORARY_ELECTRICAL_CHARGE", "d2/d4c/a02897.html#ae8475905b6004061a8bb5371742fd9c2a5b02476a1ed7cf751a23a52c425e89bf", null ],
       [ "SPELL_ARC_WELD", "d2/d4c/a02897.html#ae8475905b6004061a8bb5371742fd9c2a8847aff455d18589d5c90f2e5e4a9636", null ],
-      [ "SPELL_RENEW_STEEL_N", "d2/d4c/a02897.html#ae8475905b6004061a8bb5371742fd9c2af77069207d384c5d9d004a1fb1d30240", null ],
-      [ "SPELL_RENEW_STEEL_H", "d2/d4c/a02897.html#ae8475905b6004061a8bb5371742fd9c2a70ff205c7e39f9990387b01f2ae85411", null ]
+      [ "SPELL_RENEW_STEEL", "d2/d4c/a02897.html#ae8475905b6004061a8bb5371742fd9c2a736a3648d8f424db19db6f22f30c8464", null ]
     ] ],
     [ "Yells", "d2/d4c/a02897.html#a34a1b224b8db54cacd01d75b910f04e3", [
       [ "SAY_AGGRO", "d8/df8/a03443.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe", null ],

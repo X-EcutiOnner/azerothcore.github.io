@@ -1,7 +1,6 @@
 var a25476 =
 [
-    [ "ModDest", "d4/d48/a25476.html#afe0fb68de61a657ce6900e71973e4d77", null ],
-    [ "ModifyCookingSkill", "d4/d48/a25476.html#a42dea7b58aed704a6aacd5d0aa0028d4", null ],
-    [ "PrepareSpellScript", "d4/d48/a25476.html#a7b0446133750fce7eda19dbde5abb3b1", null ],
-    [ "Register", "d4/d48/a25476.html#a6919079b43a816eb601a68c51ad39794", null ]
+    [ "CheckRequirement", "d4/d48/a25476.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
+    [ "PrepareSpellScript", "d4/d48/a25476.html#aebb88f5ea803a590a099e4e6427d8276", null ],
+    [ "Register", "d4/d48/a25476.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
 ];
