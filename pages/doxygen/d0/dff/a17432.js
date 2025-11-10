@@ -1,6 +1,5 @@
 var a17432 =
 [
-    [ "boss_moorabiAI", "dc/dc8/a17436.html", "dc/dc8/a17436" ],
-    [ "boss_moorabi", "d0/dff/a17432.html#a94e14b2a9b06143985f785e781d1c302", null ],
-    [ "GetAI", "d0/dff/a17432.html#ae90c7dd46fb1335a525c3c3e27040420", null ]
+    [ "achievement_snakes_whyd_it_have_to_be_snakes", "d0/dff/a17432.html#a4245e53260b83f77f9b4313e13f1f7d3", null ],
+    [ "OnCheck", "d0/dff/a17432.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0", null ]
 ];

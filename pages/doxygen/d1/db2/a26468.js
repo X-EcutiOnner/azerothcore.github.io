@@ -1,6 +1,7 @@
 var a26468 =
 [
-    [ "HandleAfterHit", "d1/db2/a26468.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
-    [ "PrepareSpellScript", "d1/db2/a26468.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
-    [ "Register", "d1/db2/a26468.html#a2a780069022e62b14992a7b69626ac3d", null ]
+    [ "HandleHeal", "d1/db2/a26468.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
+    [ "PrepareSpellScript", "d1/db2/a26468.html#a9de9260bc1e2582138c58a708e5d899c", null ],
+    [ "Register", "d1/db2/a26468.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
+    [ "Validate", "d1/db2/a26468.html#aa300822cf5455404482124a6853fb314", null ]
 ];

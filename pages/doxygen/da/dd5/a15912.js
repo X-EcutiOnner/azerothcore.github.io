@@ -1,12 +1,12 @@
 var a15912 =
 [
-    [ "npc_cairne_bloodhoofAI", "da/dd5/a15912.html#ac87f0d10b1886ffa24ae201fdb614441", null ],
-    [ "Reset", "da/dd5/a15912.html#ab58f32a6bd1659b1a54fb056526c121a", null ],
-    [ "sGossipSelect", "da/dd5/a15912.html#aa95b820eb4d3c6c5f1898a67c319b1a6", null ],
-    [ "UpdateAI", "da/dd5/a15912.html#aefcbb7b2da6d1039055c27feeb1f5f9e", null ],
-    [ "_berserkerChargeTimer", "da/dd5/a15912.html#a2efb1949abe83dadf62b5c868ae57fe2", null ],
-    [ "_cleaveTimer", "da/dd5/a15912.html#ab1ed741e998cd7ed088cab3af378b3ca", null ],
-    [ "_mortalStrikeTimer", "da/dd5/a15912.html#a9f33790662ce229669e5d1d6f2aac8b0", null ],
-    [ "_thunderclapTimer", "da/dd5/a15912.html#a6bdca667875353db2badc40fd95a1ce4", null ],
-    [ "_uppercutTimer", "da/dd5/a15912.html#a9f13acd7df900d9bdac64898b183c67d", null ]
+    [ "DialogueHelper", "da/dd5/a15912.html#a3566655e8781bf5f9dff514fcd659421", null ],
+    [ "DialogueUpdate", "da/dd5/a15912.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
+    [ "DoNextDialogueStep", "da/dd5/a15912.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
+    [ "GetSpeakerByEntry", "da/dd5/a15912.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
+    [ "JustDidDialogueStep", "da/dd5/a15912.html#a79e80634f1780895669f5c810958fd4f", null ],
+    [ "StartNextDialogueText", "da/dd5/a15912.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
+    [ "_actionTimer", "da/dd5/a15912.html#a33b8551c136bcbc896b29d935c155a75", null ],
+    [ "_currentEntry", "da/dd5/a15912.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
+    [ "_dialogueArray", "da/dd5/a15912.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
 ];

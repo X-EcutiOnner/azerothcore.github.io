@@ -1,6 +1,6 @@
 var a15836 =
 [
-    [ "npc_stone_watcher_of_norgannon", "d7/db2/a15836.html#aa838e060c8ef6d7d85981c718328d9ef", null ],
-    [ "OnGossipHello", "d7/db2/a15836.html#a00f526b1b17b68f31a86e892e0997856", null ],
-    [ "OnGossipSelect", "d7/db2/a15836.html#a5b79ebae097266ec4e1a0e3dfaa87da5", null ]
+    [ "npc_twiggy_flatheadAI", "da/d7c/a15840.html", "da/d7c/a15840" ],
+    [ "npc_twiggy_flathead", "d7/db2/a15836.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
+    [ "GetAI", "d7/db2/a15836.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
 ];

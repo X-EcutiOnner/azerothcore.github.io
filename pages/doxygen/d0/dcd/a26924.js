@@ -1,9 +1,8 @@
 var a26924 =
 [
-    [ "HandleHeal", "d0/dcd/a26924.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
-    [ "Load", "d0/dcd/a26924.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
-    [ "PrepareSpellScript", "d0/dcd/a26924.html#a91eb46af707897f228e5d1bbd199a833", null ],
-    [ "Register", "d0/dcd/a26924.html#ae28f1b0c23511153eafc037cae067bc0", null ],
-    [ "firstHeal", "d0/dcd/a26924.html#a405326e6e1cd82816aef1712fdf335a0", null ],
-    [ "riptide", "d0/dcd/a26924.html#acaec32f6730bc2e04e613aa982d285bf", null ]
+    [ "CheckFireTotem", "d0/dcd/a26924.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "d0/dcd/a26924.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "d0/dcd/a26924.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "d0/dcd/a26924.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "d0/dcd/a26924.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

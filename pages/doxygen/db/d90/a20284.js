@@ -1,7 +1,6 @@
 var a20284 =
 [
-    [ "boss_freya_healthy_sporeAI", "db/d90/a20284.html#a1f72bc2b113f3b909d44fd54fff87e31", null ],
-    [ "Reset", "db/d90/a20284.html#ad6d6562b5cc9f8232bdda99ec2204052", null ],
-    [ "UpdateAI", "db/d90/a20284.html#ace79c59d62e597ae31425b4006e1363f", null ],
-    [ "_despawnTimer", "db/d90/a20284.html#aaf65ef07480e5c634cc42dac0c7c734c", null ]
+    [ "boss_vezaxAI", "d3/d6f/a20288.html", "d3/d6f/a20288" ],
+    [ "boss_vezax", "db/d90/a20284.html#af778f9ef3070598f8ca5109b2f6f0f82", null ],
+    [ "GetAI", "db/d90/a20284.html#a55c7f1ee93252768ba02e8d0d4634eb9", null ]
 ];

@@ -1,8 +1,7 @@
 var a24336 =
 [
-    [ "npc_bessyAI", "d5/dea/a24336.html#ad1300a563888b34689bedf97c387707c", null ],
-    [ "JustDied", "d5/dea/a24336.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
-    [ "JustSummoned", "d5/dea/a24336.html#a4197fb122299fd152e5da335bb832ae5", null ],
-    [ "Reset", "d5/dea/a24336.html#aed64386629e52c3b65abadde54a63cc4", null ],
-    [ "WaypointReached", "d5/dea/a24336.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
+    [ "HandleEffectApply", "d5/dea/a24336.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
+    [ "HandleEffectRemove", "d5/dea/a24336.html#a96769390468dc132df62b5a0ec3a2da4", null ],
+    [ "PrepareAuraScript", "d5/dea/a24336.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
+    [ "Register", "d5/dea/a24336.html#a95905ec163c42463314a5f5bb023b4d6", null ]
 ];

@@ -1,7 +1,9 @@
 var a23532 =
 [
-    [ "PeriodicTick", "d7/d65/a23532.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
-    [ "PrepareAuraScript", "d7/d65/a23532.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
-    [ "Register", "d7/d65/a23532.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
-    [ "Validate", "d7/d65/a23532.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
+    [ "boss_mennu_the_betrayer", "d7/d65/a23532.html#a3f881a89d1da70d066ce9a3fe0b29a3e", null ],
+    [ "JustDied", "d7/d65/a23532.html#acf87c54cc2a3ee5c8378ef40553ab51c", null ],
+    [ "JustEngagedWith", "d7/d65/a23532.html#a535b9af1677b8af50515818a18e88d27", null ],
+    [ "JustSummoned", "d7/d65/a23532.html#a59949872270890ef794a77029074210b", null ],
+    [ "KilledUnit", "d7/d65/a23532.html#a1a55fb7f1dacc5e514e71901d66bd35e", null ],
+    [ "Reset", "d7/d65/a23532.html#a6f0043e73a55cd1cccae22a806d702ea", null ]
 ];

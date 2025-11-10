@@ -1,6 +1,6 @@
 var a02207 =
 [
-    [ "boss_high_botanist_freywinn", "d6/d6b/a23964.html", "d6/d6b/a23964" ],
+    [ "boss_high_botanist_freywinn", "d3/d01/a23936.html", "d3/d01/a23936" ],
     [ "Npcs", "dd/d6f/a02207.html#a213e9ce155baf17b6147afe6a069d54d", [
       [ "NPC_TM_GUARDSMAN", "d0/d1e/a02426.html#a213e9ce155baf17b6147afe6a069d54da21f261d22a0cd419e2febe6c2604502e", null ],
       [ "NPC_TM_PROTECTOR", "d0/d1e/a02426.html#a213e9ce155baf17b6147afe6a069d54da78f045556089f7be512b4bc38abc558f", null ],
@@ -2224,7 +2224,6 @@ var a02207 =
       [ "SPELL_FROSTBOLT", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e", null ],
       [ "SPELL_TOUCH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d", null ],
       [ "SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6", null ],
-      [ "SPELL_RAIN_OF_FIRE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca770475c37ddfbb0a8c98a0c8a7c98f0d", null ],
       [ "SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8", null ],
       [ "SPELL_EYE_BEAM", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc", null ],
       [ "SPELL_LIGHTNING_BREATH", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298caba0559b83dfa3b94464ac474a4b62e3e", null ],

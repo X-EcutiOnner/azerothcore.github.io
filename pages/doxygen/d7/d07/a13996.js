@@ -1,7 +1,7 @@
 var a13996 =
 [
-    [ "npc_daphne_stilwellAI", "de/d48/a14000.html", "de/d48/a14000" ],
-    [ "npc_daphne_stilwell", "d7/d07/a13996.html#ad844c5f0409936d7068ee55271506041", null ],
-    [ "GetAI", "d7/d07/a13996.html#af1872100f3eeb14e894277cfc8e1a74b", null ],
-    [ "OnQuestAccept", "d7/d07/a13996.html#ad7b293efc802506a825f202e34cb0f4d", null ]
+    [ "Load", "d7/d07/a13996.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
+    [ "OnRemove", "d7/d07/a13996.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
+    [ "PrepareAuraScript", "d7/d07/a13996.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
+    [ "Register", "d7/d07/a13996.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
 ];

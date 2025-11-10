@@ -1,6 +1,8 @@
 var a16620 =
 [
-    [ "npc_toc_paladinAI", "da/d26/a16624.html", "da/d26/a16624" ],
-    [ "npc_toc_paladin", "d9/d93/a16620.html#af11025a2a4be2b2c982ad31241d47180", null ],
-    [ "GetAI", "d9/d93/a16620.html#a15766ea4414701040c738251302177af", null ]
+    [ "npc_toc_warlockAI", "d9/d93/a16620.html#a4c4c2f502f00ca48bb7419434d88ea3a", null ],
+    [ "JustSummoned", "d9/d93/a16620.html#a203ef748afaa400aa1f8365b5d7bf6b1", null ],
+    [ "myCanCast", "d9/d93/a16620.html#a62b2df362bc07aa4a9c14cbc63a10e05", null ],
+    [ "UpdateAI", "d9/d93/a16620.html#a554849d02d923439bd810b7d8c242afa", null ],
+    [ "events", "d9/d93/a16620.html#a3b84c70d246bbf5b70ab4dec06c647b3", null ]
 ];

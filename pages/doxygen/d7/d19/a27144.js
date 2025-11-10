@@ -1,7 +1,6 @@
 var a27144 =
 [
-    [ "HandleApply", "d7/d19/a27144.html#aa35fa107aee605a8583150901a75ad72", null ],
-    [ "HandleRemove", "d7/d19/a27144.html#a60b6e438ff67d9db41d160020b54da40", null ],
-    [ "PrepareAuraScript", "d7/d19/a27144.html#a1da44046f2cb9fb68b18f712111c38ea", null ],
-    [ "Register", "d7/d19/a27144.html#ac7c9e15a796e91e0ac68791d24e3d4bf", null ]
+    [ "HandleRemove", "d7/d19/a27144.html#a0ac8fe6a39ae00e50f219bf02c26f1a4", null ],
+    [ "PrepareAuraScript", "d7/d19/a27144.html#a0517fe77f15e1b9cf6153ed2aaf9cee8", null ],
+    [ "Register", "d7/d19/a27144.html#ac968ede75fd5d98ba9a10dc9f6bdbb85", null ]
 ];

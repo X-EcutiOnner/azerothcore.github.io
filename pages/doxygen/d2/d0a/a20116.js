@@ -1,6 +1,7 @@
 var a20116 =
 [
-    [ "npc_pool_of_tarAI", "d6/db4/a20120.html", "d6/db4/a20120" ],
-    [ "npc_pool_of_tar", "d2/d0a/a20116.html#a9c585318b4507babe77b3ba758b06a87", null ],
-    [ "GetAI", "d2/d0a/a20116.html#ae77bf48a72ce49f821085f32127e91dc", null ]
+    [ "boss_flame_leviathan_safety_containerAI", "d2/d0a/a20116.html#ab9191e20df488df184c468ca1ac41084", null ],
+    [ "MovementInform", "d2/d0a/a20116.html#a1b472a233ebebbb4c1fbf639aeb4bed6", null ],
+    [ "UpdateAI", "d2/d0a/a20116.html#a77b3a493c5650d91c903879db324651d", null ],
+    [ "_allowTimer", "d2/d0a/a20116.html#a2185c9fe04fa7288fab452c5c1de3819", null ]
 ];

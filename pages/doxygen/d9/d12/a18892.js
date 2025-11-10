@@ -1,6 +1,6 @@
 var a18892 =
 [
-    [ "npc_impaling_spearAI", "d3/d7d/a18896.html", "d3/d7d/a18896" ],
-    [ "npc_impaling_spear", "d9/d12/a18892.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
-    [ "GetAI", "d9/d12/a18892.html#aad49164a3e7541b755c1c622b996bb9a", null ]
+    [ "HandleEvent", "d9/d12/a18892.html#a7936a64a1142a47b2addfd746dccfcef", null ],
+    [ "PrepareSpellScript", "d9/d12/a18892.html#a00e2be07131c674558d0364df98849ab", null ],
+    [ "Register", "d9/d12/a18892.html#a89364583504d2eaa75473586850bc3d5", null ]
 ];

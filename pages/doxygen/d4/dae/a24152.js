@@ -1,6 +1,6 @@
 var a24152 =
 [
-    [ "HandlePeriodic", "d4/dae/a24152.html#a0838d4449351f46a1f9f485abaf35c2b", null ],
-    [ "PrepareAuraScript", "d4/dae/a24152.html#a438425f3002028a0978e0dbab580ca03", null ],
-    [ "Register", "d4/dae/a24152.html#af4b26607e8838b7bbbe8777f57601341", null ]
+    [ "npc_deaths_fel_cannonAI", "d4/dae/a24152.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
+    [ "Reset", "d4/dae/a24152.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
+    [ "UpdateAI", "d4/dae/a24152.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
 ];

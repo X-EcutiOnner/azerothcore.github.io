@@ -1,11 +1,11 @@
 var a23680 =
 [
-    [ "boss_gruul", "d8/da2/a23680.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
-    [ "JustDied", "d8/da2/a23680.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
-    [ "JustEngagedWith", "d8/da2/a23680.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
-    [ "KilledUnit", "d8/da2/a23680.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
-    [ "Reset", "d8/da2/a23680.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
-    [ "UpdateAI", "d8/da2/a23680.html#a3503b84f4fb896d439ccd49a997e4087", null ],
-    [ "_caveInTimer", "d8/da2/a23680.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
-    [ "_recentlySpoken", "d8/da2/a23680.html#a411ec67153dd4715eb397a420c45bb12", null ]
+    [ "boss_high_king_maulgar", "d8/da2/a23680.html#a8a835570bd4ff5361b2025b2aaeec91f", null ],
+    [ "DoAction", "d8/da2/a23680.html#a210e9c3d42e9201b9fbee0d7776cbcc5", null ],
+    [ "JustDied", "d8/da2/a23680.html#ad235febd755745313b72394c633c3723", null ],
+    [ "JustEngagedWith", "d8/da2/a23680.html#a6ad48aba60a01df62c1ae62e6480a14d", null ],
+    [ "KilledUnit", "d8/da2/a23680.html#a2059016597039929103c053d6524ebf7", null ],
+    [ "Reset", "d8/da2/a23680.html#adf1bf1c8c75fc9bbed871af157c6663c", null ],
+    [ "UpdateAI", "d8/da2/a23680.html#ae540909dbbb3cf93e37503cd755c3001", null ],
+    [ "_recentlySpoken", "d8/da2/a23680.html#a306f8492d83703b339a8fbe044e0cbbd", null ]
 ];

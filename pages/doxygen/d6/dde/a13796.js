@@ -1,10 +1,16 @@
 var a13796 =
 [
-    [ "npc_partygoer_pather", "d6/dde/a13796.html#a15a0e517e8671afb9d636ebe781a4bcd", null ],
-    [ "Initialize", "d6/dde/a13796.html#afb114b0587c550e39c41e131364da663", null ],
-    [ "PathEndReached", "d6/dde/a13796.html#a55833d306716ba411f96ecd024cc7c72", null ],
-    [ "Reset", "d6/dde/a13796.html#ade2cc36ff49001138eee5b607ec83b12", null ],
-    [ "UpdateAI", "d6/dde/a13796.html#a4d222399b6b789e7a2a2faa4765116a6", null ],
-    [ "_events", "d6/dde/a13796.html#ac210dc0286ded980e78743237a08bb23", null ],
-    [ "_path", "d6/dde/a13796.html#a4da184c44858e99eca2b07193fd48f13", null ]
+    [ "npc_rinjiAI", "d6/dde/a13796.html#ab613818b92530269f0802077eccc92d0", null ],
+    [ "DoSpawnAmbush", "d6/dde/a13796.html#af2535d7364641fadc98bca91ace9c906", null ],
+    [ "JustEngagedWith", "d6/dde/a13796.html#ae5ca00ee9baead3392a9239dfb68d377", null ],
+    [ "JustRespawned", "d6/dde/a13796.html#a471f2e8da91639d4e68ad64a11d7b950", null ],
+    [ "JustSummoned", "d6/dde/a13796.html#a09d65e7bd5a76552208eee920cfcb4f9", null ],
+    [ "Reset", "d6/dde/a13796.html#ada230a1b7b0f3c8b2b41c706856681b8", null ],
+    [ "sQuestAccept", "d6/dde/a13796.html#a15b9a0756ae6cebac690c8bb997e99d2", null ],
+    [ "UpdateEscortAI", "d6/dde/a13796.html#a60f05b58b115f3f2ea11206778893547", null ],
+    [ "WaypointReached", "d6/dde/a13796.html#a9463060a57b85113b71482c8a0974f60", null ],
+    [ "_IsByOutrunner", "d6/dde/a13796.html#adecc4eb9f90969621b52b97ff594558d", null ],
+    [ "postEventCount", "d6/dde/a13796.html#a601f142bd2a04ed303611044bac91035", null ],
+    [ "postEventTimer", "d6/dde/a13796.html#a5154e551143e81d431f706ad07b78ca0", null ],
+    [ "spawnId", "d6/dde/a13796.html#a3fc84d1e0f5243c6e8f292ddcac15ace", null ]
 ];

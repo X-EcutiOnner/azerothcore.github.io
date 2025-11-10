@@ -1,7 +1,6 @@
 var a26280 =
 [
-    [ "CalculateAmount", "dd/dac/a26280.html#a0934aa8eaf442314aa6050d85304c15b", null ],
-    [ "CalculateSpellAmount", "dd/dac/a26280.html#ab765b87350bd3e73ac43879abef72d98", null ],
-    [ "PrepareAuraScript", "dd/dac/a26280.html#a627c6a88ed6ce051b0d6a06d94288498", null ],
-    [ "Register", "dd/dac/a26280.html#ae1b5265f817f1f4ec011d4e2607686eb", null ]
+    [ "HandleDummy", "dd/dac/a26280.html#acb433ef020fbd090259ac969a35842ea", null ],
+    [ "PrepareSpellScript", "dd/dac/a26280.html#a9440e067db7bc5c48c973dfd61f1a95e", null ],
+    [ "Register", "dd/dac/a26280.html#a349e674aa5e07f59dc0a0d78a25aa0cd", null ]
 ];

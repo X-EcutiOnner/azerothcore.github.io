@@ -1,7 +1,7 @@
 var a23068 =
 [
-    [ "PrepareAuraScript", "df/dbc/a23068.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "df/dbc/a23068.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "df/dbc/a23068.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "df/dbc/a23068.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "CheckProc", "df/dbc/a23068.html#a0968b7b32f2d2bef6035e030f544088a", null ],
+    [ "PrepareAuraScript", "df/dbc/a23068.html#ac424e41948196a6e60b790ebcf40783f", null ],
+    [ "Register", "df/dbc/a23068.html#a06bdac68e36b43ee534e937ffd974086", null ],
+    [ "Update", "df/dbc/a23068.html#af6c228840f6af96e353ba964fdd01e54", null ]
 ];

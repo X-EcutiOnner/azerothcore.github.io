@@ -1,7 +1,7 @@
 var a18216 =
 [
-    [ "HandleCast", "d0/d58/a18216.html#aaa3262bc782e342825d4caba2954e95d", null ],
-    [ "PrepareSpellScript", "d0/d58/a18216.html#ae4d1f05b978e2a46d7dc3410def73978", null ],
-    [ "Register", "d0/d58/a18216.html#ac59fb77c6a52d7a603dbb27e933a6814", null ],
-    [ "Validate", "d0/d58/a18216.html#a6ca80316fe7bcbb4ebda095d633bb1bc", null ]
+    [ "IceTombSummonEvent", "d0/d58/a18216.html#a2ead0e5f6eb0c32f5c11f38e667b65d3", null ],
+    [ "Execute", "d0/d58/a18216.html#aa708b67e60ba0b4fe2334c43aaaca5c7", null ],
+    [ "_owner", "d0/d58/a18216.html#a1b95617b511dfa7868c59dbdf7e6c4c7", null ],
+    [ "_sindragosaGUID", "d0/d58/a18216.html#abe61867b29cd4fe3d02268f18b3618ee", null ]
 ];

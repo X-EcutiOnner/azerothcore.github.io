@@ -1,7 +1,7 @@
 var a21732 =
 [
-    [ "npc_lurgglbrAI", "d2/d20/a21736.html", "d2/d20/a21736" ],
-    [ "npc_lurgglbr", "d3/d4b/a21732.html#a7df52667e4d789391820a4c2182db8d2", null ],
-    [ "GetAI", "d3/d4b/a21732.html#a2795346371e7b474c53dcacb9daf2001", null ],
-    [ "OnQuestAccept", "d3/d4b/a21732.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
+    [ "HandleScriptEffect", "d3/d4b/a21732.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
+    [ "PrepareSpellScript", "d3/d4b/a21732.html#a73b5af95ee4f593337c3803574d190db", null ],
+    [ "Register", "d3/d4b/a21732.html#a930de2343532feb50b86304f32269e4c", null ],
+    [ "Validate", "d3/d4b/a21732.html#ae9bfedf7e89487217ad927459e259c04", null ]
 ];

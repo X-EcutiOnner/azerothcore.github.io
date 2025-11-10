@@ -1,6 +1,8 @@
 var a22428 =
 [
-    [ "npc_jungle_punch_targetAI", "d1/dc0/a22432.html", "d1/dc0/a22432" ],
-    [ "npc_jungle_punch_target", "dc/d62/a22428.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
-    [ "GetAI", "dc/d62/a22428.html#abb38ccb55abfe0f48f360469031c6902", null ]
+    [ "npc_vics_flying_machineAI", "dc/d62/a22428.html#a4464e0b1433c4ffb24ae7809b1a0eec5", null ],
+    [ "MovementInform", "dc/d62/a22428.html#ac4bbe0a3cccb6878d050b717b9efb320", null ],
+    [ "PassengerBoarded", "dc/d62/a22428.html#aa67dcbb4b43b047398fec2619ad61829", null ],
+    [ "SpellHit", "dc/d62/a22428.html#aa81229a104e1521d570abec4b6f7bca7", null ],
+    [ "pointId", "dc/d62/a22428.html#aa1412c23f0c3b964262e145c51aea974", null ]
 ];

@@ -1,7 +1,6 @@
 var a18288 =
 [
-    [ "HandleScript", "de/df0/a18288.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
-    [ "PrepareSpellScript", "de/df0/a18288.html#a7e6b56f426be7925255da3ebc239f909", null ],
-    [ "Register", "de/df0/a18288.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
-    [ "Validate", "de/df0/a18288.html#a86b4296eab73fc63b38558871f16a889", null ]
+    [ "MysticBuffetTargetFilter", "de/df0/a18288.html#a5cc25dc0c6de036ec8fa3e7f10ffb2ea", null ],
+    [ "operator()", "de/df0/a18288.html#a76536b8960aa5e64fa8f7a02939d4295", null ],
+    [ "_caster", "de/df0/a18288.html#a60ef55fa8d6f511bba566ac3c8f8328a", null ]
 ];

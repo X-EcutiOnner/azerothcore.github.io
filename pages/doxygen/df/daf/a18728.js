@@ -1,7 +1,6 @@
 var a18728 =
 [
-    [ "npc_blazing_skeletonAI", "df/daf/a18728.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
-    [ "Reset", "df/daf/a18728.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
-    [ "UpdateAI", "df/daf/a18728.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
-    [ "_events", "df/daf/a18728.html#aab1b04989d5e3fc289f00bc121df193d", null ]
+    [ "HandleScript", "df/daf/a18728.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
+    [ "PrepareSpellScript", "df/daf/a18728.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
+    [ "Register", "df/daf/a18728.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
 ];

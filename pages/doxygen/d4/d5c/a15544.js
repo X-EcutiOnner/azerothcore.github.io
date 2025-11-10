@@ -1,11 +1,7 @@
 var a15544 =
 [
-    [ "npc_magwinAI", "d4/d5c/a15544.html#ad4a352dd0c7c6f76e74f110b00ec9053", null ],
-    [ "JustEngagedWith", "d4/d5c/a15544.html#aea2ab8bf79d6fcc3d2036d160274fab8", null ],
-    [ "Reset", "d4/d5c/a15544.html#a883ef3cd1b097847de148ccb9bd3e903", null ],
-    [ "sQuestAccept", "d4/d5c/a15544.html#aafef28bc7879e29d1fa79ec08f58da55", null ],
-    [ "UpdateEscortAI", "d4/d5c/a15544.html#a34236331be8842a9e2a98036ea382e18", null ],
-    [ "WaypointReached", "d4/d5c/a15544.html#a7278a3cff406af2ecb3d29c7bf90febc", null ],
-    [ "_events", "d4/d5c/a15544.html#a32dad2bde92efab7e0f0d16e809df665", null ],
-    [ "_player", "d4/d5c/a15544.html#ac3d7059ee67abcafa0586f0bed5df9cc", null ]
+    [ "HandleEffectRemove", "d4/d5c/a15544.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
+    [ "PrepareAuraScript", "d4/d5c/a15544.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
+    [ "Register", "d4/d5c/a15544.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
+    [ "AuraEffectHandleModes", "d4/d5c/a15544.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
 ];

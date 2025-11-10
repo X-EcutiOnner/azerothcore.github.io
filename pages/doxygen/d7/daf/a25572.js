@@ -1,6 +1,5 @@
 var a25572 =
 [
-    [ "HandleScript", "d7/daf/a25572.html#a5a30dc1dad5b51af02043bd85c486a68", null ],
-    [ "PrepareSpellScript", "d7/daf/a25572.html#a16c358062cee300e4c54f046a6c1accf", null ],
-    [ "Register", "d7/daf/a25572.html#a1f53f1345c418f82c6d140cf6cf80b3c", null ]
+    [ "PrepareSpellScript", "d7/daf/a25572.html#ac83289482a8f83a2af80e2f9f35b6716", null ],
+    [ "Register", "d7/daf/a25572.html#a5e2cdc942b9972f79ff0a4fac2f0d77d", null ]
 ];

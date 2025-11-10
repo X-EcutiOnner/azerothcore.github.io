@@ -1,6 +1,8 @@
 var a13636 =
 [
-    [ "HandleEffectApply", "db/ded/a13636.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
-    [ "PrepareAuraScript", "db/ded/a13636.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
-    [ "Register", "db/ded/a13636.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
+    [ "HandleApply", "db/ded/a13636.html#a717e3428afd59fa3a5e9916887d88273", null ],
+    [ "HandleRemove", "db/ded/a13636.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
+    [ "PrepareAuraScript", "db/ded/a13636.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
+    [ "Register", "db/ded/a13636.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
+    [ "Validate", "db/ded/a13636.html#a393a46618a4e1928b8149e04b4823726", null ]
 ];

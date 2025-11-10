@@ -1,7 +1,8 @@
 var a24956 =
 [
-    [ "CalculateAmount", "db/d2e/a24956.html#a2ed00d02a1685bc8b66e9cdfd430d1ad", null ],
-    [ "Load", "db/d2e/a24956.html#a7ba8da2fdc3bf18cd9925b280e60affa", null ],
-    [ "PrepareAuraScript", "db/d2e/a24956.html#a93df43072a344485c389160306b1fecd", null ],
-    [ "Register", "db/d2e/a24956.html#a6766b6ebbba04bc595373145e4eaaa7a", null ]
+    [ "AfterApply", "db/d2e/a24956.html#a9c2591beacd941893338109719c03e3f", null ],
+    [ "AfterRemove", "db/d2e/a24956.html#a0be2a66b615dd926de7073392a8e5062", null ],
+    [ "PrepareAuraScript", "db/d2e/a24956.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
+    [ "Register", "db/d2e/a24956.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
+    [ "Validate", "db/d2e/a24956.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
 ];

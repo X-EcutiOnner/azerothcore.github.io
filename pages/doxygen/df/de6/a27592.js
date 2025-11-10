@@ -1,5 +1,5 @@
 var a27592 =
 [
-    [ "go_arcane_prison", "df/de6/a27592.html#ad73ac33d843027de0e516de8f90c45a0", null ],
-    [ "OnGossipHello", "df/de6/a27592.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
+    [ "go_hive_pod", "df/de6/a27592.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
+    [ "OnGossipHello", "df/de6/a27592.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
 ];

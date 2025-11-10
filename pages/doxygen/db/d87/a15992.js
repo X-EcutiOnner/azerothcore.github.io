@@ -1,6 +1,7 @@
 var a15992 =
 [
-    [ "npc_weegli_blastfuseAI", "d8/ddf/a15996.html", "d8/ddf/a15996" ],
-    [ "npc_weegli_blastfuse", "db/d87/a15992.html#a2bf3b936e14c4cc0255f3109a35cb80f", null ],
-    [ "GetAI", "db/d87/a15992.html#a701681d8771756dac20d30c2e03a1349", null ]
+    [ "npc_ahnkahar_nerubian", "db/d87/a15992.html#ae18cdf09bae50751e266e95caf165f8e", null ],
+    [ "Reset", "db/d87/a15992.html#a387831015ec8e4bc65cff8c8550bb176", null ],
+    [ "UpdateAI", "db/d87/a15992.html#a9a773127e4f94bcdf142718355eae0e8", null ],
+    [ "uiSprintTimer", "db/d87/a15992.html#a27a6f57a6b145cc595896d1ad453064f", null ]
 ];

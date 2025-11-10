@@ -1,13 +1,19 @@
 var a23348 =
 [
-    [ "boss_fathomguard_caribdis", "d7/d57/a23348.html#a9172b9717e5137ddde7df38bb237478c", null ],
-    [ "EnterEvadeMode", "d7/d57/a23348.html#aa666a491a776b12a042ee140aedc95eb", null ],
-    [ "JustDied", "d7/d57/a23348.html#ab821365b35a48f70a11c6033fe2ca714", null ],
-    [ "JustEngagedWith", "d7/d57/a23348.html#a5503519998f51f475420ada2210f32f0", null ],
-    [ "JustSummoned", "d7/d57/a23348.html#a39ca45ec0de50b7d7a5ec866c4017a8a", null ],
-    [ "Reset", "d7/d57/a23348.html#a0d2a3403d5934e86a897b3417ed2214a", null ],
-    [ "UpdateAI", "d7/d57/a23348.html#af4a544f37d178de21d84f2544f24431e", null ],
-    [ "_instance", "d7/d57/a23348.html#a73f567f2269aeca1435af82e1c6880e9", null ],
-    [ "_scheduler", "d7/d57/a23348.html#a08b01e9735e421d8d5bbc2b552217762", null ],
-    [ "_summons", "d7/d57/a23348.html#ac8b53cb81547a2423a13c997badb77e3", null ]
+    [ "boss_lady_vashj", "d7/d57/a23348.html#a3934fc6c6363f7c2ee235a58a262135f", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d7/d57/a23348.html#ad424f1c23cc893e7e48c3e854bf20936", null ],
+    [ "JustDied", "d7/d57/a23348.html#a8f0074b650b6e0a245726ebdeb8651b6", null ],
+    [ "JustEngagedWith", "d7/d57/a23348.html#a2b3b3a3bacd8042eb64a49cc9ca8847f", null ],
+    [ "JustSummoned", "d7/d57/a23348.html#ac577c4f0d0c3e9d1635a1ca9a0954095", null ],
+    [ "KilledUnit", "d7/d57/a23348.html#a0418ead0213eeea16a531baca96db704", null ],
+    [ "MoveInLineOfSight", "d7/d57/a23348.html#a4780e7cbcb7984c5742a5c072acfe252", null ],
+    [ "MovementInform", "d7/d57/a23348.html#ad2d58872d657b3a81c6be0e69d8bff1f", null ],
+    [ "Reset", "d7/d57/a23348.html#a114729e5a3caa70c89d8c8b53eba5af3", null ],
+    [ "ScheduleSpells", "d7/d57/a23348.html#ac4821984e5b5310877204fdb93810029", null ],
+    [ "UpdateAI", "d7/d57/a23348.html#a6ec56730a2735b1d9d35c63242c310b2", null ],
+    [ "_batTimer", "d7/d57/a23348.html#a0ccfbf23e8f47b77496d35cdeae5e3ac", null ],
+    [ "_count", "d7/d57/a23348.html#a2c4c2ecaa4b3ad859f46e36be34b1076", null ],
+    [ "_intro", "d7/d57/a23348.html#a2aafb94d956182723ccc9374854c7fb0", null ],
+    [ "_playerAngle", "d7/d57/a23348.html#a005515a4f2ad0661d5faff9107ea068b", null ],
+    [ "_recentlySpoken", "d7/d57/a23348.html#ac7dd5e6962e72a0eb56c89d417bda37a", null ]
 ];

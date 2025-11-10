@@ -1,9 +1,9 @@
 var a03485 =
 [
-    [ "boss_darkmaster_gandling", "da/d7b/a13284.html", "da/d7b/a13284" ],
-    [ "boss_darkmaster_gandling::boss_darkmaster_gandlingAI", "da/d7e/a13288.html", "da/d7e/a13288" ],
-    [ "npc_risen_guardian", "d2/da0/a13292.html", "d2/da0/a13292" ],
-    [ "npc_risen_guardian::npc_risen_guardianAI", "d3/d1d/a13296.html", "d3/d1d/a13296" ],
+    [ "boss_darkmaster_gandling", "db/d4f/a13256.html", "db/d4f/a13256" ],
+    [ "boss_darkmaster_gandling::boss_darkmaster_gandlingAI", "d5/dac/a13260.html", "d5/dac/a13260" ],
+    [ "npc_risen_guardian", "dd/dda/a13264.html", "dd/dda/a13264" ],
+    [ "npc_risen_guardian::npc_risen_guardianAI", "dc/d46/a13268.html", "dc/d46/a13268" ],
     [ "BossData", "d0/dc1/a03485.html#aef437a440c77ebda3ee1ebf1099e168d", [
       [ "DATA_PLAYER_KILLED", "d0/dc1/a03485.html#aef437a440c77ebda3ee1ebf1099e168da16e75107231054f283248f12ae3887c0", null ],
       [ "GANDLING_ROOM_TO_USE", "d0/dc1/a03485.html#aef437a440c77ebda3ee1ebf1099e168da58b81c15b7763fb90a6a786fc0cb73d8", null ]
@@ -1664,7 +1664,6 @@ var a03485 =
       [ "SPELL_FROSTBOLT", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e", null ],
       [ "SPELL_TOUCH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d", null ],
       [ "SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6", null ],
-      [ "SPELL_RAIN_OF_FIRE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca770475c37ddfbb0a8c98a0c8a7c98f0d", null ],
       [ "SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8", null ],
       [ "SPELL_EYE_BEAM", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc", null ],
       [ "SPELL_LIGHTNING_BREATH", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298caba0559b83dfa3b94464ac474a4b62e3e", null ],

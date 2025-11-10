@@ -1,12 +1,7 @@
 var a19492 =
 [
-    [ "npc_hover_diskAI", "dd/d36/a19492.html#a1ee618b8e6393437f0e4193fc57725f3", null ],
-    [ "AttackStart", "dd/d36/a19492.html#aec7920845132af74ecf83bbbcf221f06", null ],
-    [ "DoAction", "dd/d36/a19492.html#a802681ba91854eec0a5d9ac1c2df761c", null ],
-    [ "MoveInLineOfSight", "dd/d36/a19492.html#a770bbfc63a3aef7801b6ba9a542c459c", null ],
-    [ "MovementInform", "dd/d36/a19492.html#a97c5039553d267fc3d955cb6e5eafb47", null ],
-    [ "PassengerBoarded", "dd/d36/a19492.html#a130a40916bb42945531b02d2f3385ece", null ],
-    [ "UpdateAI", "dd/d36/a19492.html#a5213e9b9a750e53b83621cd981741773", null ],
-    [ "events", "dd/d36/a19492.html#adeed5599c5416f3a5d171f70b53d0023", null ],
-    [ "pInstance", "dd/d36/a19492.html#a5141cd8297bf3dc67ce9195867a4152c", null ]
+    [ "EoEDrakeEnterVehicleEvent", "dd/d36/a19492.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
+    [ "Execute", "dd/d36/a19492.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
+    [ "_owner", "dd/d36/a19492.html#ab48302fdff800afddfeec2c0d756873c", null ],
+    [ "_playerGUID", "dd/d36/a19492.html#add56bff0695453e01f300e0434a39ec8", null ]
 ];

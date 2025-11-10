@@ -1,14 +1,7 @@
 var a20432 =
 [
-    [ "npc_ulduar_hodir_mageAI", "df/d76/a20432.html#a118059c877151a9f6b2b15a4070e2704", null ],
-    [ "AttackStart", "df/d76/a20432.html#a3217617eb3312c1da34dc7dce590fe0d", null ],
-    [ "CanAIAttack", "df/d76/a20432.html#a66ea56e856fcc706e4f938512def1590", null ],
-    [ "EnterEvadeMode", "df/d76/a20432.html#a6d4cd626dcd58f825a6c88b804bb38a7", null ],
-    [ "JustDied", "df/d76/a20432.html#a0176f8b45c20af1552e1a8b70e307442", null ],
-    [ "MoveInLineOfSight", "df/d76/a20432.html#aaf35c04462b1698e85df64190f4e2c8a", null ],
-    [ "ScheduleAbilities", "df/d76/a20432.html#a7927f399ef1c89b3eb83804fde9b2700", null ],
-    [ "SpellHit", "df/d76/a20432.html#aa814a46a45ce5eb9696c8f6c6de8c521", null ],
-    [ "UpdateAI", "df/d76/a20432.html#acbbe6667360e5bb7576c1ea741c2e2f1", null ],
-    [ "events", "df/d76/a20432.html#a556453c557df0be6a57255e400d98a87", null ],
-    [ "pInstance", "df/d76/a20432.html#ac4677898f5612c01d98ab242c7628e8f", null ]
+    [ "HandleEffectPeriodic", "df/d76/a20432.html#af6c50396e9b47cd909184aea80244728", null ],
+    [ "PrepareAuraScript", "df/d76/a20432.html#aeb41825334049c8e3a39b48cbf271477", null ],
+    [ "Register", "df/d76/a20432.html#aaa44ceb54aa928c4436120f435bcdc4b", null ],
+    [ "Validate", "df/d76/a20432.html#a0098e4949fc75b1a2464128f4df869aa", null ]
 ];

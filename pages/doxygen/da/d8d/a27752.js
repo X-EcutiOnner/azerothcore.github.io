@@ -1,13 +1,8 @@
 var a27752 =
 [
-    [ "npc_nelsonAI", "da/d8d/a27752.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
-    [ "DoAction", "da/d8d/a27752.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
-    [ "JustEngagedWith", "da/d8d/a27752.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
-    [ "JustSummoned", "da/d8d/a27752.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
-    [ "Reset", "da/d8d/a27752.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
-    [ "SpellHit", "da/d8d/a27752.html#afab81d8a6077c755c186bb619944d78d", null ],
-    [ "SummonedCreatureDies", "da/d8d/a27752.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
-    [ "UpdateAI", "da/d8d/a27752.html#ac68749942f37de5f9105556fe7b904b7", null ],
-    [ "events", "da/d8d/a27752.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
-    [ "shouldDespawn", "da/d8d/a27752.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
+    [ "npc_riggle_bassbaitAI", "d2/de6/a27756.html", "d2/de6/a27756" ],
+    [ "npc_riggle_bassbait", "da/d8d/a27752.html#afc4280099cda3c28c4634d649e636839", null ],
+    [ "GetAI", "da/d8d/a27752.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
+    [ "OnGossipHello", "da/d8d/a27752.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
+    [ "OnQuestReward", "da/d8d/a27752.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
 ];

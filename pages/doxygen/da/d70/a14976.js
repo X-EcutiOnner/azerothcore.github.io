@@ -1,7 +1,6 @@
 var a14976 =
 [
-    [ "OnRemove", "da/d70/a14976.html#a98bf88bd917b441d2ad81716dcd38ec1", null ],
-    [ "PrepareAuraScript", "da/d70/a14976.html#ab082adc51983f124d0467cbff63cffb7", null ],
-    [ "Register", "da/d70/a14976.html#a2feb8adaad212ee29d9ec6d9957575a4", null ],
-    [ "Validate", "da/d70/a14976.html#a73421b82f483e73314dbb862fb0a11c7", null ]
+    [ "npc_cos_stratholme_citizienAI", "da/d7d/a14980.html", "da/d7d/a14980" ],
+    [ "npc_cos_stratholme_citizien", "da/d70/a14976.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
+    [ "GetAI", "da/d70/a14976.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
 ];

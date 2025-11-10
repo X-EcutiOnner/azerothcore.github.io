@@ -1,12 +1,7 @@
 var a24780 =
 [
-    [ "CheckTarget", "d8/dd8/a24780.html#a731aa2c0a2b67b8a15cab72ea2cb961a", null ],
-    [ "CheckTargets", "d8/dd8/a24780.html#a3b5bbef0c43a600387235822f3c6dbc7", null ],
-    [ "HandleCorpseExplosion", "d8/dd8/a24780.html#a201de2ee86d0cf954117df0e5343ee69", null ],
-    [ "HandleDamage", "d8/dd8/a24780.html#a810fc65eb5d7160366d63210bad9caea", null ],
-    [ "Load", "d8/dd8/a24780.html#a00b45e2f466de39c95251c2a38f6c3bd", null ],
-    [ "PrepareSpellScript", "d8/dd8/a24780.html#a4cae1673a840d8ec0d727b881a3616cf", null ],
-    [ "Register", "d8/dd8/a24780.html#a9e67ea51300569a0e163cb3e427b086e", null ],
-    [ "Validate", "d8/dd8/a24780.html#a93984e8b831cb4c37ec2726d44532d43", null ],
-    [ "_target", "d8/dd8/a24780.html#a5028b9d3166270b2b0557943e962eade", null ]
+    [ "CalcDamage", "d8/dd8/a24780.html#a5e06d1aa2864c296b2680a83a9f2187f", null ],
+    [ "PrepareSpellScript", "d8/dd8/a24780.html#a80a748b6a18d26004b04a4486df1ebe3", null ],
+    [ "Register", "d8/dd8/a24780.html#a857a010e6426e931ca872f66803b99b9", null ],
+    [ "Validate", "d8/dd8/a24780.html#ab64625ce305efb9dc92780c945b4fd62", null ]
 ];

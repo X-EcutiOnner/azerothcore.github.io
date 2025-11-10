@@ -1,8 +1,5 @@
 var a19404 =
 [
-    [ "HandleDamage", "da/d89/a19404.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
-    [ "HandleTargets", "da/d89/a19404.html#ac36e689bad93aa17738f390680764a7e", null ],
-    [ "PrepareSpellScript", "da/d89/a19404.html#a149db071722ce12cded16087c8eec1df", null ],
-    [ "Register", "da/d89/a19404.html#abd073f34a414fab7ee23ee933863f1c7", null ],
-    [ "Validate", "da/d89/a19404.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
+    [ "npc_mr_bigglesworth", "da/d89/a19404.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
+    [ "JustDied", "da/d89/a19404.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
 ];

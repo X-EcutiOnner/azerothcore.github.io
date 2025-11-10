@@ -1,6 +1,6 @@
 var a14332 =
 [
-    [ "boss_renatakiAI", "d2/d4e/a14336.html", "d2/d4e/a14336" ],
-    [ "boss_renataki", "d0/d8e/a14332.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
-    [ "GetAI", "d0/d8e/a14332.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
+    [ "boss_wushoolayAI", "d0/d8e/a14332.html#a2ea62154c0932e5cd34bd4b858829ffe", null ],
+    [ "JustEngagedWith", "d0/d8e/a14332.html#af519da543fff63a39a6fbe48f90f2f22", null ],
+    [ "UpdateAI", "d0/d8e/a14332.html#acfaacee2a97212eb15056c1552b9e06b", null ]
 ];

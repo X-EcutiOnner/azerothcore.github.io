@@ -1,6 +1,6 @@
 var a24992 =
 [
-    [ "OnHit", "df/ddb/a24992.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
-    [ "PrepareSpellScript", "df/ddb/a24992.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
-    [ "Register", "df/ddb/a24992.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
+    [ "HandleScript", "df/ddb/a24992.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
+    [ "PrepareSpellScript", "df/ddb/a24992.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
+    [ "Register", "df/ddb/a24992.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
 ];

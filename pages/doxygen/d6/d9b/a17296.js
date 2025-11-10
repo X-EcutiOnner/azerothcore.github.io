@@ -1,7 +1,6 @@
 var a17296 =
 [
-    [ "npc_pos_icicle_triggerAI", "d6/d9b/a17296.html#a28477c5f88b5ec77dc3e021ec01401ce", null ],
-    [ "UpdateAI", "d6/d9b/a17296.html#a32d9b6bd2f0b994adb33e2bd99dd34ce", null ],
-    [ "pInstance", "d6/d9b/a17296.html#ad4ed0e2380c62cc6dd7d309edfd34ac1", null ],
-    [ "timer", "d6/d9b/a17296.html#a91277c41ddebffed7e9dac7098cd78bd", null ]
+    [ "npc_pos_leader_secondAI", "d9/d00/a17300.html", "d9/d00/a17300" ],
+    [ "npc_pos_leader_second", "d6/d9b/a17296.html#ac4758674cc97eae0937264fa028e6da5", null ],
+    [ "GetAI", "d6/d9b/a17296.html#ac403cfc86247990d78c9cf4179df8b87", null ]
 ];

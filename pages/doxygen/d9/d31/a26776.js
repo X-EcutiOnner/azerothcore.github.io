@@ -1,6 +1,6 @@
 var a26776 =
 [
-    [ "ModDest", "d9/d31/a26776.html#ab03387aec0a02a6b3bac1014443554b6", null ],
-    [ "PrepareSpellScript", "d9/d31/a26776.html#a53f7da301759fb18686bc73281c4a321", null ],
-    [ "Register", "d9/d31/a26776.html#a266198fbc6203517f9845ef6212ddf13", null ]
+    [ "HandleFinish", "d9/d31/a26776.html#ac4c50220d86f809644e339fc578d9b4a", null ],
+    [ "PrepareSpellScript", "d9/d31/a26776.html#a5a14594ed93150e34626a7e0edb8171b", null ],
+    [ "Register", "d9/d31/a26776.html#a9d28a3b88d57e2f89921d59f56148f74", null ]
 ];

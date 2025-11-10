@@ -1,10 +1,8 @@
 var a27072 =
 [
-    [ "CalculateAmount", "d3/dea/a27072.html#a9e0e28d871f9d3c89cf2dc862971321d", null ],
-    [ "Detonate", "d3/dea/a27072.html#adc622aae157984546dfe3d8373c0c413", null ],
-    [ "HandleProc", "d3/dea/a27072.html#a3b5812649b67830d8dc6d10b5dd1c937", null ],
-    [ "OnRemove", "d3/dea/a27072.html#a5067cef0afc99d487f995f8d6edea21f", null ],
-    [ "PrepareAuraScript", "d3/dea/a27072.html#abc23ebb3761e3505486ac578bdeaeeed", null ],
-    [ "Register", "d3/dea/a27072.html#acc4819698e175889a0491d7f7cc680fd", null ],
-    [ "Validate", "d3/dea/a27072.html#a0649826ce0d66c9f21be8d47c76f4941", null ]
+    [ "CheckProc", "d3/dea/a27072.html#a610313f5085c7c0109b5936e94de00fe", null ],
+    [ "OnProc", "d3/dea/a27072.html#ad87c4cbd332dc19be3bc8ec9982a385b", null ],
+    [ "PrepareAuraScript", "d3/dea/a27072.html#aae4d26e262f80681811c9b50c2a63642", null ],
+    [ "Register", "d3/dea/a27072.html#a8fdcd2b4489011294d9f58d5ff0beb3f", null ],
+    [ "Validate", "d3/dea/a27072.html#a00ef3cd4b2ee5739f5f7288ccbd6a1c6", null ]
 ];

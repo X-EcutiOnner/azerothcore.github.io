@@ -1,8 +1,8 @@
 var a23924 =
 [
-    [ "HandleEffectApply", "d7/d77/a23924.html#ad75c8c6279e606d6a557a61d97ee8f42", null ],
-    [ "HandleEffectRemove", "d7/d77/a23924.html#a7cd59f7ca82a6507024842ebcb1ba093", null ],
-    [ "PrepareAuraScript", "d7/d77/a23924.html#a438a8ba3688e0832853bae4183695494", null ],
-    [ "Register", "d7/d77/a23924.html#a52a86cce0afa66203cc5982ddbe5de4f", null ],
-    [ "Validate", "d7/d77/a23924.html#ab07b244e53b397bc9e9842655617a80d", null ]
+    [ "boss_commander_sarannis", "d7/d77/a23924.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "d7/d77/a23924.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "d7/d77/a23924.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "d7/d77/a23924.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "d7/d77/a23924.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

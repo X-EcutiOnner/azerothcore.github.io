@@ -1,6 +1,6 @@
 var a18804 =
 [
-    [ "CaptainSurviveTalk", "da/d5f/a18804.html#a43a1b1da17ed41ae765aabc47c858f80", null ],
-    [ "Execute", "da/d5f/a18804.html#a871cf08e8c7fced2971cae8abbc20454", null ],
-    [ "_owner", "da/d5f/a18804.html#ac8de506afb4688560ea637918d07b01e", null ]
+    [ "npc_crok_scourgebaneAI", "df/de2/a18808.html", "df/de2/a18808" ],
+    [ "npc_crok_scourgebane", "da/d5f/a18804.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
+    [ "GetAI", "da/d5f/a18804.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
 ];

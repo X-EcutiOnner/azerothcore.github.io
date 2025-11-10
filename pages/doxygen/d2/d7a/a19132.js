@@ -1,9 +1,7 @@
 var a19132 =
 [
-    [ "npc_isle_of_conquest_turretAI", "d2/d7a/a19132.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
-    [ "JustDied", "d2/d7a/a19132.html#a88390da94298bea9c445bb422a806d23", null ],
-    [ "SpellHit", "d2/d7a/a19132.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
-    [ "UpdateAI", "d2/d7a/a19132.html#a81c039a2a230b261967842161757b6f8", null ],
-    [ "events", "d2/d7a/a19132.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
-    [ "faction", "d2/d7a/a19132.html#aca941c070a97278c8ec27d7e6b4edede", null ]
+    [ "OnRemove", "d2/d7a/a19132.html#a4e6a66934a01d01c50208459f6771353", null ],
+    [ "PrepareAuraScript", "d2/d7a/a19132.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
+    [ "Register", "d2/d7a/a19132.html#a4890d35f2b0889156a437c95e49f528c", null ],
+    [ "Validate", "d2/d7a/a19132.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
 ];

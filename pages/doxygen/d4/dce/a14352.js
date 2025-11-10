@@ -1,8 +1,6 @@
 var a14352 =
 [
-    [ "boss_venoxis", "d4/dce/a14352.html#a3e91a9022163a726cbc077d38459a5f5", null ],
-    [ "InitializeAI", "d4/dce/a14352.html#a1373b5fc673fce6aea1de40d970ac00d", null ],
-    [ "JustDied", "d4/dce/a14352.html#a63ccc5a9520ee30b0ebaf8c4d31e59b8", null ],
-    [ "JustEngagedWith", "d4/dce/a14352.html#afaa68ffbd5fecae48a044009326bcaed", null ],
-    [ "Reset", "d4/dce/a14352.html#a40cbcd4d41ff85ff71d5d913d8e62368", null ]
+    [ "npc_brewfest_keg_thrower", "d4/dce/a14352.html#a29da1efd21fe6737684607e5b360ea84", null ],
+    [ "CanBeSeen", "d4/dce/a14352.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
+    [ "MoveInLineOfSight", "d4/dce/a14352.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
 ];

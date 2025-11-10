@@ -1,11 +1,11 @@
 var a02759 =
 [
-    [ "npc_toc5_player_vehicle", "d9/d59/a16504.html", "d9/d59/a16504" ],
-    [ "npc_toc5_player_vehicle::npc_toc5_player_vehicleAI", "d5/d35/a16508.html", "d5/d35/a16508" ],
-    [ "npc_toc5_grand_champion_minion", "d0/d3d/a16512.html", "d0/d3d/a16512" ],
-    [ "npc_toc5_grand_champion_minion::npc_toc5_grand_champion_minionAI", "dd/d68/a16516.html", "dd/d68/a16516" ],
-    [ "boss_grand_champion", "d3/d66/a16520.html", "d3/d66/a16520" ],
-    [ "boss_grand_champion::boss_grand_championAI", "de/d16/a16524.html", "de/d16/a16524" ],
+    [ "npc_toc5_player_vehicle", "d9/dc9/a16476.html", "d9/dc9/a16476" ],
+    [ "npc_toc5_player_vehicle::npc_toc5_player_vehicleAI", "d8/d4c/a16480.html", "d8/d4c/a16480" ],
+    [ "npc_toc5_grand_champion_minion", "d4/d37/a16484.html", "d4/d37/a16484" ],
+    [ "npc_toc5_grand_champion_minion::npc_toc5_grand_champion_minionAI", "d6/d62/a16488.html", "d6/d62/a16488" ],
+    [ "boss_grand_champion", "d4/d5d/a16492.html", "d4/d5d/a16492" ],
+    [ "boss_grand_champion::boss_grand_championAI", "d6/dc3/a16496.html", "d6/dc3/a16496" ],
     [ "ChampionEvents", "da/d8e/a02759.html#a8656bec4c02a7ad2b74c97d54cf9f0e9", [
       [ "EVEMT_MAGE_SPELL_FIREBALL", "da/d8e/a02759.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a42bdc4529f83b0925eee1ec9d91d834c", null ],
       [ "EVEMT_MAGE_SPELL_BLAST_WAVE", "da/d8e/a02759.html#a8656bec4c02a7ad2b74c97d54cf9f0e9a2f25d05b8a7a2a5b8ec276bed6588dec", null ],

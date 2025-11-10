@@ -1,6 +1,6 @@
 var a21976 =
 [
-    [ "npc_injured_7th_legion_soldierAI", "d6/d4c/a21976.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
-    [ "MovementInform", "d6/d4c/a21976.html#a999bc868db485578fcc70ae7e056b778", null ],
-    [ "Reset", "d6/d4c/a21976.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
+    [ "HandleSendEvent", "d6/d4c/a21976.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
+    [ "PrepareSpellScript", "d6/d4c/a21976.html#aa632d381ac415feaf226f55fc2cd8520", null ],
+    [ "Register", "d6/d4c/a21976.html#a72673f5054cf269cc8da511441f7bd66", null ]
 ];

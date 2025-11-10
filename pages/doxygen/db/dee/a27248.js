@@ -1,8 +1,5 @@
 var a27248 =
 [
-    [ "CheckProc", "db/dee/a27248.html#ab9b2a87dc91e2c6031a02043e6ce4f50", null ],
-    [ "HandleEffectProc", "db/dee/a27248.html#af01d160cb2a55124361a2dd113acd0a7", null ],
-    [ "PrepareAuraScript", "db/dee/a27248.html#aeffb8490a7208ae6e32a505283afbc03", null ],
-    [ "Register", "db/dee/a27248.html#a5436413d098dde4b0fa1ed2259a47779", null ],
-    [ "Validate", "db/dee/a27248.html#ae786a8c97e9f66152b8d0b55624a4eac", null ]
+    [ "achievement_bg_ic_glaive_grave", "db/dee/a27248.html#a97e1cead0102a120b3bd14592ea26034", null ],
+    [ "OnCheck", "db/dee/a27248.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
 ];

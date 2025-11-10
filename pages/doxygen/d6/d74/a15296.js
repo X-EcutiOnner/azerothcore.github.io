@@ -1,19 +1,17 @@
 var a15296 =
 [
-    [ "boss_bug_trio", "d6/d74/a15296.html#acfef187b77a745686cb64bec64398dd4", null ],
-    [ "CheckInRoom", "d6/d74/a15296.html#a9b78f1f7beee555460bd24338a25506d", null ],
-    [ "DamageTaken", "d6/d74/a15296.html#a41e1d62badcad8d360983f07b4101f7e", null ],
-    [ "DoAction", "d6/d74/a15296.html#a808939fbc1a9f2bc9e3a6dda5dce02f4", null ],
-    [ "DoFinalSpell", "d6/d74/a15296.html#a46b943e5d5f5b0972b42edc4134c1f98", null ],
-    [ "EnterCombatWithTrio", "d6/d74/a15296.html#af7d3159f505f5f3dd6e273d47fd9bc80", null ],
-    [ "EnterEvadeMode", "d6/d74/a15296.html#ae6809cc35969618ecfaf1767e8c9ae92", null ],
-    [ "EvadeAllBosses", "d6/d74/a15296.html#a09c60b117f2cb194eeb1a2b13b7e5d37", null ],
-    [ "JustDied", "d6/d74/a15296.html#a2d4d6a43de7ce16b6cf5b7603fbacd87", null ],
-    [ "MovementInform", "d6/d74/a15296.html#aa24ae95cbe50f24abef4ab4ac30278b8", null ],
-    [ "Reset", "d6/d74/a15296.html#a8f07a98ed21c3e362bec3c8d3bd5ea09", null ],
-    [ "UpdateAI", "d6/d74/a15296.html#a26896dd5f3f2e0ca6251bd96f8199e10", null ],
-    [ "_creatureDying", "d6/d74/a15296.html#a89dbaf8c1bba75369b978dd366806bb4", null ],
-    [ "_dying", "d6/d74/a15296.html#a4ad80d1c623a86396d180bc6a6f14bb5", null ],
-    [ "_isEating", "d6/d74/a15296.html#a331eb32e0713aee8d5a84ed32c72de12", null ],
-    [ "_scheduler", "d6/d74/a15296.html#a121d3abe2854c5b798ee1eebdaea699f", null ]
+    [ "boss_eye_of_cthun", "d6/d74/a15296.html#ac780d2e04a1fab6bd02db049bc6eaab2", null ],
+    [ "DamageTaken", "d6/d74/a15296.html#a1a28da1eefd61303201d1f3150fe405f", null ],
+    [ "DoAction", "d6/d74/a15296.html#a102aabe3ce6d89b6403760c11eac87ec", null ],
+    [ "JustDied", "d6/d74/a15296.html#a4dec255ac49195d835390772a8f1f517", null ],
+    [ "JustEngagedWith", "d6/d74/a15296.html#ae83ed5b888df95ad0b854f67192cbd4a", null ],
+    [ "JustSummoned", "d6/d74/a15296.html#a5c037c1fa7adb8355242bf36beb9c61d", null ],
+    [ "MoveInLineOfSight", "d6/d74/a15296.html#a4555b8c931f9d02b7bd3af1c1f569c6c", null ],
+    [ "Reset", "d6/d74/a15296.html#a66aec1afcbaa46ede6be2ffc32b67faa", null ],
+    [ "ScheduleTask", "d6/d74/a15296.html#a14e5b518f2c8534096b8a8059458636d", null ],
+    [ "_beamTarget", "d6/d74/a15296.html#a2c217290b988d06397c52e3485a7dae8", null ],
+    [ "_eyeTentacleCounter", "d6/d74/a15296.html#a559d6ba31ed626d8c42a00c230d647b8", null ],
+    [ "ClockWise", "d6/d74/a15296.html#a701a24f3a06657467b8665d2e4216710", null ],
+    [ "DarkGlareAngle", "d6/d74/a15296.html#ac71992a2cf223d65c0e06cd8bd440164", null ],
+    [ "DarkGlareTick", "d6/d74/a15296.html#af546d3325ad456d335148cd7284f7cad", null ]
 ];

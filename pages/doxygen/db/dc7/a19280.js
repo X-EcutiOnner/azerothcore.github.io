@@ -1,6 +1,7 @@
 var a19280 =
 [
-    [ "boss_heiganAI", "d7/d87/a19284.html", "d7/d87/a19284" ],
-    [ "boss_heigan", "db/dc7/a19280.html#aefa3a6d870bde0d33504c5f2b56572be", null ],
-    [ "GetAI", "db/dc7/a19280.html#ad9edf8eade874c1ecc2cecdac17700a1", null ]
+    [ "HandleScript", "db/dc7/a19280.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
+    [ "PrepareAuraScript", "db/dc7/a19280.html#aa3053519be0101f55450d76b1291f0f7", null ],
+    [ "Register", "db/dc7/a19280.html#ada596a7f19115c7178fd07fb9e956f58", null ],
+    [ "Validate", "db/dc7/a19280.html#a768dec18bc0e879c457a64135ec27ad9", null ]
 ];

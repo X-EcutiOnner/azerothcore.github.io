@@ -1,9 +1,11 @@
 var a24240 =
 [
-    [ "npc_aeranasAI", "d9/dce/a24240.html#a2142cebc84e64919fa5c2ef630453282", null ],
-    [ "Reset", "d9/dce/a24240.html#a2c1bbe079c065745782adfa13b030515", null ],
-    [ "UpdateAI", "d9/dce/a24240.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
-    [ "envelopingWinds_Timer", "d9/dce/a24240.html#a566b5d648abe630efc191f9d6d4938a2", null ],
-    [ "faction_Timer", "d9/dce/a24240.html#aac071887c100f91cc7ffc545ea6439d9", null ],
-    [ "shock_Timer", "d9/dce/a24240.html#aba8ad016f0e470b07163fef07b603380", null ]
+    [ "npc_magister_aledis", "d9/dce/a24240.html#a0e30c5d4f9fe023537a1b29258967630", null ],
+    [ "DamageTaken", "d9/dce/a24240.html#a3c3b72de2dc3e2a1e2bdeab908f0691f", null ],
+    [ "Reset", "d9/dce/a24240.html#ae0a701eeaacc5188b382c59ecef14518", null ],
+    [ "sGossipSelect", "d9/dce/a24240.html#a9960de0b5be8b75e8b7bcc8f12c4f187", null ],
+    [ "StartFight", "d9/dce/a24240.html#a9149ce0a1df781043a5590fe4612511a", null ],
+    [ "UpdateAI", "d9/dce/a24240.html#aef885088193e2597e6990e3051a31ef7", null ],
+    [ "_events", "d9/dce/a24240.html#a5b4cd0ab4d214547dca28b8b384f83df", null ],
+    [ "_playerGUID", "d9/dce/a24240.html#a0954d3d1c9ad4eaff387bc2cf4f52aeb", null ]
 ];

@@ -1,6 +1,6 @@
 var a15348 =
 [
-    [ "FilterTargets", "d1/dac/a15348.html#a3ec2840ab1d853a1546c64a2d158e75f", null ],
-    [ "PrepareSpellScript", "d1/dac/a15348.html#a511e54100036307aa5d37bc959405c73", null ],
-    [ "Register", "d1/dac/a15348.html#a31d1d590f0e6fc2e56322d606961828f", null ]
+    [ "FilterTargets", "d1/dac/a15348.html#a15ebe9125f5f4a8f66241ee4da1ac83e", null ],
+    [ "PrepareSpellScript", "d1/dac/a15348.html#a32b0be74a9127f920e22aa03c910a005", null ],
+    [ "Register", "d1/dac/a15348.html#a80efa2858d4270c497e49a1fe6a7472e", null ]
 ];

@@ -1,5 +1,6 @@
 var a18328 =
 [
-    [ "achievement_all_you_can_eat", "d7/dff/a18328.html#a0995024862a445ea1f0ff5c82475fc64", null ],
-    [ "OnCheck", "d7/dff/a18328.html#a0baa07a7cbd239e4a5fcfd3e687aedf6", null ]
+    [ "npc_sindragosa_trashAI", "d0/dd0/a18332.html", "d0/dd0/a18332" ],
+    [ "npc_sindragosa_trash", "d7/dff/a18328.html#a9634ea10e767b4d6e293fc3fdd491702", null ],
+    [ "GetAI", "d7/dff/a18328.html#ab1de715d98236a853a793d830bc601d7", null ]
 ];

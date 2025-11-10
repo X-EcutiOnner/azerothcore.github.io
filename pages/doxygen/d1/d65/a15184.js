@@ -1,5 +1,9 @@
 var a15184 =
 [
-    [ "npc_hive_zara_swarmer", "d1/d65/a15184.html#a374fa63e210e0be8a074af9199126a9e", null ],
-    [ "PathEndReached", "d1/d65/a15184.html#a3b3510bd00853395b756e1d83d96a474", null ]
+    [ "npc_buru_egg", "d1/d65/a15184.html#a6aa2896342b802caecde1c1dffcf4907", null ],
+    [ "JustDied", "d1/d65/a15184.html#a3de169b252374f0b2daed3ecb5a11502", null ],
+    [ "JustEngagedWith", "d1/d65/a15184.html#a8cde6848569671876a17b00d75228ebe", null ],
+    [ "JustSummoned", "d1/d65/a15184.html#abebb96dcb3d653bddd4210da6567fb87", null ],
+    [ "UpdateAI", "d1/d65/a15184.html#a4d77f8b40ea8e936c9388aeff4927420", null ],
+    [ "_instance", "d1/d65/a15184.html#a5b168226755a57368f17827e3457a0ca", null ]
 ];

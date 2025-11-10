@@ -1,7 +1,12 @@
 var a18552 =
 [
-    [ "PrepareSpellScript", "df/d02/a18552.html#a3283e829757b50bb52f66ee1e64033ae", null ],
-    [ "Register", "df/d02/a18552.html#a0162c92c32210f2873686610f4f00b87", null ],
-    [ "TriggerHeal", "df/d02/a18552.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
-    [ "Validate", "df/d02/a18552.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
+    [ "npc_strangulate_vehicleAI", "df/d02/a18552.html#a58e79834ed3f463ad51eca703d1c99ef", null ],
+    [ "DoAction", "df/d02/a18552.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb", null ],
+    [ "IsHeroic", "df/d02/a18552.html#adb6ae2cefeec245196d21dc1112b2d5c", null ],
+    [ "IsSummonedBy", "df/d02/a18552.html#a381aec40cdcdf546d70b57a43978dbe9", null ],
+    [ "OnCharmed", "df/d02/a18552.html#a40e5537897c452d35093920ddd3669b0", null ],
+    [ "PassengerBoarded", "df/d02/a18552.html#a819746e13af95fa964c6da3d765a7c21", null ],
+    [ "UpdateAI", "df/d02/a18552.html#a53f567b77b7dfd0ccb5a0d98c0f5ef26", null ],
+    [ "_events", "df/d02/a18552.html#a19b493e994d246128f63d9109e87737a", null ],
+    [ "_instance", "df/d02/a18552.html#a7a16fbe4723a95293db01d3a2d80b569", null ]
 ];

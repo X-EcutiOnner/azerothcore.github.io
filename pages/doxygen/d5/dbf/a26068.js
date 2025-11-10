@@ -1,9 +1,9 @@
 var a26068 =
 [
-    [ "CheckRequirement", "d5/dbf/a26068.html#adab261a5221ca54b15cc414d291908fe", null ],
-    [ "HandleDummy", "d5/dbf/a26068.html#abb7a734244bb18d75304a0510f9efb8d", null ],
-    [ "Load", "d5/dbf/a26068.html#a418eef16d1e3aeff67013f45409c092a", null ],
-    [ "PrepareSpellScript", "d5/dbf/a26068.html#ab3e73a456ec7384720827a4ff7f5abc7", null ],
-    [ "Register", "d5/dbf/a26068.html#a5dbf60e33f2cdca3921f623cd1098948", null ],
-    [ "Validate", "d5/dbf/a26068.html#a1dcba4f3c2874a952ca422b0a3cdafb1", null ]
+    [ "CheckCast", "d5/dbf/a26068.html#af92fe276563a8ca0d939d881dba8adda", null ],
+    [ "HandleDummy", "d5/dbf/a26068.html#a86b4413dd25f96fb197604007171a8d1", null ],
+    [ "Load", "d5/dbf/a26068.html#ab1800d2550b944dcfa9967cc0e79c5ee", null ],
+    [ "PrepareSpellScript", "d5/dbf/a26068.html#a47aa868fbabee8a3988bcc93402b8cfb", null ],
+    [ "Register", "d5/dbf/a26068.html#a1b4ff1b3b518a2e4bad1836de6793561", null ],
+    [ "Validate", "d5/dbf/a26068.html#a8d0c2f18927e811f3d3cdee94e3623c0", null ]
 ];

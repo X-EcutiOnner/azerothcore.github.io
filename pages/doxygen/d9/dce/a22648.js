@@ -1,5 +1,6 @@
 var a22648 =
 [
-    [ "go_finklestein_cauldron", "d9/dce/a22648.html#a8aa352319c54526069588dacd75ab883", null ],
-    [ "OnGossipHello", "d9/dce/a22648.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
+    [ "npc_released_offspring_harkoaAI", "d9/dce/a22648.html#ab1002f002987b6ea2366129afd48d65c", null ],
+    [ "MovementInform", "d9/dce/a22648.html#a56d52be3fdbc2e4176efe09ba58f55c7", null ],
+    [ "Reset", "d9/dce/a22648.html#a3ddc30ce39acef3bb5e6f8400a084393", null ]
 ];

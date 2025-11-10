@@ -1,6 +1,8 @@
 var a22508 =
 [
-    [ "npc_brunnhildar_prisonerAI", "d6/d60/a22512.html", "d6/d60/a22512" ],
-    [ "npc_brunnhildar_prisoner", "d1/d5b/a22508.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
-    [ "GetAI", "d1/d5b/a22508.html#aa2a1787849c74a5163a39137c9d03d57", null ]
+    [ "npc_hyldsmeet_protodrakeAI", "d1/d5b/a22508.html#a30794392a32b1323fb0a86615b341741", null ],
+    [ "PassengerBoarded", "d1/d5b/a22508.html#acb699d519bf79702a34b7d9910fe7c9e", null ],
+    [ "UpdateAI", "d1/d5b/a22508.html#afd2168f8dc7328898f5e769c31c6da5a", null ],
+    [ "_accessoryRespawnTimer", "d1/d5b/a22508.html#a4c6b4236bf35278d05c4b78f1eda6b75", null ],
+    [ "_vehicleKit", "d1/d5b/a22508.html#aba68a138ef44af7d012c8c7dd4c06c6d", null ]
 ];

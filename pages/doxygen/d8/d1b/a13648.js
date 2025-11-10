@@ -1,9 +1,6 @@
 var a13648 =
 [
-    [ "npc_dark_fiend", "d8/d1b/a13648.html#a8c4ebf7ba2f991df7053d40108330609", null ],
-    [ "DamageTaken", "d8/d1b/a13648.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
-    [ "Reset", "d8/d1b/a13648.html#a5622d14f84ad8e47da773852f1778d56", null ],
-    [ "UpdateAI", "d8/d1b/a13648.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
-    [ "_lastVictimGUID", "d8/d1b/a13648.html#abcccb35701f21d417e3c13709cc24281", null ],
-    [ "_spellCast", "d8/d1b/a13648.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
+    [ "ChangeSummonPos", "d8/d1b/a13648.html#ae24a7c8279a92f1018748a0e930736ac", null ],
+    [ "PrepareSpellScript", "d8/d1b/a13648.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
+    [ "Register", "d8/d1b/a13648.html#a03a1a1e5501452eacaceadd9725f2287", null ]
 ];

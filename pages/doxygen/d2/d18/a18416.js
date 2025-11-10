@@ -1,6 +1,8 @@
 var a18416 =
 [
-    [ "LichKingMovieEvent", "d2/d18/a18416.html#a3e48e13dc5166c73a9f379045988f86a", null ],
-    [ "Execute", "d2/d18/a18416.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
-    [ "_owner", "d2/d18/a18416.html#a7ed68f442a644d6bb7a036812351d89e", null ]
+    [ "FilterTargets", "d2/d18/a18416.html#a242fa53c2da9ac557623281bccf2af92", null ],
+    [ "HandleSendEvent", "d2/d18/a18416.html#a6120e057e2ee39d34eaeab79782add8d", null ],
+    [ "Load", "d2/d18/a18416.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
+    [ "PrepareSpellScript", "d2/d18/a18416.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
+    [ "Register", "d2/d18/a18416.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
 ];

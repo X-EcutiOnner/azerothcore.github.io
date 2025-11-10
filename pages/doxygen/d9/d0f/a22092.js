@@ -1,11 +1,10 @@
 var a22092 =
 [
-    [ "npc_torturer_lecraftAI", "d9/d0f/a22092.html#a0886d83c8ab8b7db728928ecf922031b", null ],
-    [ "JustEngagedWith", "d9/d0f/a22092.html#ac6fa83aa5673bd6c90e128f06e56049e", null ],
-    [ "Reset", "d9/d0f/a22092.html#a13177e318e7777ecb13ba71c4f10f425", null ],
-    [ "SpellHit", "d9/d0f/a22092.html#a837805efcb6c99de55646a232f151ae8", null ],
-    [ "UpdateAI", "d9/d0f/a22092.html#a45919da006b0e767ec38810a6fcbac5d", null ],
-    [ "_events", "d9/d0f/a22092.html#a7879e11a94c32266ed11dc352ae7e802", null ],
-    [ "_playerGUID", "d9/d0f/a22092.html#ab792ceb52fe5c04851f69b9c2922822d", null ],
-    [ "_textCounter", "d9/d0f/a22092.html#aa7560f419ca1486efb9d6c3bda3cedf1", null ]
+    [ "npc_emilyAI", "d9/d0f/a22092.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
+    [ "JustEngagedWith", "d9/d0f/a22092.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
+    [ "JustSummoned", "d9/d0f/a22092.html#a4730c94b54d2ee5160011557704b35f2", null ],
+    [ "Reset", "d9/d0f/a22092.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
+    [ "WaypointReached", "d9/d0f/a22092.html#a0a68676a6eac8fbe2b634098268eb516", null ],
+    [ "_mrfloppyGUID", "d9/d0f/a22092.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
+    [ "_RavenousworgGUID", "d9/d0f/a22092.html#aa2a5e45366be9f89221453e00179e1a3", null ]
 ];

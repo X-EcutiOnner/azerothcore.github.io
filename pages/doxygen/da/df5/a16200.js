@@ -1,6 +1,7 @@
 var a16200 =
 [
-    [ "npc_twilight_summonAI", "d0/ddc/a16204.html", "d0/ddc/a16204" ],
-    [ "npc_twilight_summon", "da/df5/a16200.html#a2406ee3b02d9f1b1ebef54623d9a3c11", null ],
-    [ "GetAI", "da/df5/a16200.html#a98bf5ce96c25bc252acd46163644bf33", null ]
+    [ "DelayedTalk", "da/df5/a16200.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
+    [ "Execute", "da/df5/a16200.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
+    [ "_owner", "da/df5/a16200.html#a9d13769bb3fbaed32919fc919da35006", null ],
+    [ "_talkId", "da/df5/a16200.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
 ];

@@ -1,12 +1,12 @@
 var a02588 =
 [
-    [ "npc_love_in_air_supply_sentry", "db/d1e/a14644.html", "db/d1e/a14644" ],
-    [ "npc_love_in_air_snivel", "d3/daa/a14648.html", "d3/daa/a14648" ],
-    [ "npc_love_in_air_snivel_real", "d7/d49/a14652.html", "d7/d49/a14652" ],
-    [ "spell_love_in_air_perfume_immune", "dd/d7b/a14656.html", "dd/d7b/a14656" ],
-    [ "spell_item_create_heart_candy", "de/d33/a14660.html", "de/d33/a14660" ],
-    [ "spell_love_is_in_the_air_romantic_picnic", "dd/dfc/a14664.html", "dd/dfc/a14664" ],
-    [ "spell_gen_aura_service_uniform", "df/d5a/a14668.html", "df/d5a/a14668" ],
+    [ "npc_love_in_air_supply_sentry", "d7/d98/a14616.html", "d7/d98/a14616" ],
+    [ "npc_love_in_air_snivel", "db/d22/a14620.html", "db/d22/a14620" ],
+    [ "npc_love_in_air_snivel_real", "d9/d22/a14624.html", "d9/d22/a14624" ],
+    [ "spell_love_in_air_perfume_immune", "dd/dfe/a14628.html", "dd/dfe/a14628" ],
+    [ "spell_item_create_heart_candy", "d3/d7b/a14632.html", "d3/d7b/a14632" ],
+    [ "spell_love_is_in_the_air_romantic_picnic", "dd/d35/a14636.html", "dd/d35/a14636" ],
+    [ "spell_gen_aura_service_uniform", "d5/dd0/a14640.html", "d5/dd0/a14640" ],
     [ "CreateHeartCandy", "d4/d61/a02588.html#a2b366c81ccbae806e6b8b58cd8ee079a", [
       [ "SPELL_CREATE_HEART_CANDY_1", "d4/d61/a02588.html#a2b366c81ccbae806e6b8b58cd8ee079aa31a214038bcf7d15ed56ca53ad12c8a4", null ],
       [ "SPELL_CREATE_HEART_CANDY_2", "d4/d61/a02588.html#a2b366c81ccbae806e6b8b58cd8ee079aacb451943546eb8cc10fe892cd4573edf", null ],
@@ -1713,7 +1713,6 @@ var a02588 =
       [ "SPELL_FROSTBOLT", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e", null ],
       [ "SPELL_TOUCH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d", null ],
       [ "SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6", null ],
-      [ "SPELL_RAIN_OF_FIRE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca770475c37ddfbb0a8c98a0c8a7c98f0d", null ],
       [ "SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8", null ],
       [ "SPELL_EYE_BEAM", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc", null ],
       [ "SPELL_LIGHTNING_BREATH", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298caba0559b83dfa3b94464ac474a4b62e3e", null ],

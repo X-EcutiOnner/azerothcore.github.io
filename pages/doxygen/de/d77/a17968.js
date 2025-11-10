@@ -1,6 +1,7 @@
 var a17968 =
 [
-    [ "npc_cult_adherentAI", "dc/d24/a17972.html", "dc/d24/a17972" ],
-    [ "npc_cult_adherent", "de/d77/a17968.html#a74496518cf30674044a4a8a166e4c345", null ],
-    [ "GetAI", "de/d77/a17968.html#a2bfe464c738c983b9539f9216cabd63a", null ]
+    [ "OnPeriodic", "de/d77/a17968.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
+    [ "PrepareAuraScript", "de/d77/a17968.html#a0e87dae1be4f69e6412129f14056eb79", null ],
+    [ "Register", "de/d77/a17968.html#a1b26d102252bf7e0fd480076820d343f", null ],
+    [ "Validate", "de/d77/a17968.html#a211d52aa385a874730abc43b083f2d22", null ]
 ];

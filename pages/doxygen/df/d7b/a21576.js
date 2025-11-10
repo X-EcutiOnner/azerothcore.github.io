@@ -1,6 +1,6 @@
 var a21576 =
 [
-    [ "boss_zuramatAI", "d2/da2/a21580.html", "d2/da2/a21580" ],
-    [ "boss_zuramat", "df/d7b/a21576.html#a1d169e786dcf846026b48d9be389f9ab", null ],
-    [ "GetAI", "df/d7b/a21576.html#a1008c053a2c9ad14cf9ce994db931670", null ]
+    [ "npc_vh_sinclari", "df/d7b/a21576.html#ad0235f207a3031420532174c04e0c348", null ],
+    [ "OnGossipHello", "df/d7b/a21576.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
+    [ "OnGossipSelect", "df/d7b/a21576.html#af0a260d7868f601ae239c226b10d4de3", null ]
 ];

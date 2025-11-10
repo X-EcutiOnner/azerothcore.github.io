@@ -1,6 +1,5 @@
 var a27928 =
 [
-    [ "npc_venomhide_hatchlingAI", "d3/df4/a27928.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "d3/df4/a27928.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "d3/df4/a27928.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "npc_necropolis", "d3/df4/a27928.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
+    [ "SpellHit", "d3/df4/a27928.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
 ];

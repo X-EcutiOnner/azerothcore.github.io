@@ -1,6 +1,7 @@
 var a18584 =
 [
-    [ "npc_terenas_menethilAI", "d7/d19/a18588.html", "d7/d19/a18588" ],
-    [ "npc_terenas_menethil", "d8/d28/a18584.html#a6b6850598c582e3d44c13275302fd32d", null ],
-    [ "GetAI", "d8/d28/a18584.html#ad5f29af90c3f40ce0dad019b5ec05cf2", null ]
+    [ "OnPeriodic", "d8/d28/a18584.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
+    [ "PrepareAuraScript", "d8/d28/a18584.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
+    [ "Register", "d8/d28/a18584.html#a0fc7ca43a0d82058fc04277742231388", null ],
+    [ "Validate", "d8/d28/a18584.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
 ];

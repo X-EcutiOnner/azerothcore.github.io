@@ -1,6 +1,7 @@
 var a22284 =
 [
-    [ "npc_lord_areteAI", "d5/dab/a22288.html", "d5/dab/a22288" ],
-    [ "npc_lord_arete", "d5/db6/a22284.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
-    [ "GetAI", "d5/db6/a22284.html#a212d003e9acb5f141197b5c4d10163a4", null ]
+    [ "HandleDummy", "d5/db6/a22284.html#abfb58e49821e6a563940e8ba518db850", null ],
+    [ "PrepareSpellScript", "d5/db6/a22284.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
+    [ "Register", "d5/db6/a22284.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
+    [ "Validate", "d5/db6/a22284.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
 ];

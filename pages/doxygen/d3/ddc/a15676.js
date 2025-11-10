@@ -1,8 +1,6 @@
 var a15676 =
 [
-    [ "CheckRequirement", "d3/ddc/a15676.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "d3/ddc/a15676.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "d3/ddc/a15676.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "d3/ddc/a15676.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "d3/ddc/a15676.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "npc_great_bear_spirit", "d3/ddc/a15676.html#a141470a3623aa1152d3505661f1532c8", null ],
+    [ "OnGossipHello", "d3/ddc/a15676.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
+    [ "OnGossipSelect", "d3/ddc/a15676.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
 ];

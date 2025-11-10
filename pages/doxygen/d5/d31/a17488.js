@@ -1,6 +1,10 @@
 var a17488 =
 [
-    [ "boss_prince_taldaramAI", "d4/d25/a17492.html", "d4/d25/a17492" ],
-    [ "boss_prince_taldaram_icc", "d5/d31/a17488.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
-    [ "GetAI", "d5/d31/a17488.html#a2a8c89206ab72afc68260f41a246da3b", null ]
+    [ "npc_dark_nucleusAI", "d5/d31/a17488.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
+    [ "AttackStart", "d5/d31/a17488.html#a3dec28dd13257b944df0c559d26a76e0", null ],
+    [ "DamageTaken", "d5/d31/a17488.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
+    [ "JustDied", "d5/d31/a17488.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
+    [ "Reset", "d5/d31/a17488.html#ac84f79f84e721ab1306c8eed8658b143", null ],
+    [ "UpdateAI", "d5/d31/a17488.html#a3a08457c34d4dd904a99a78875d6318c", null ],
+    [ "timer", "d5/d31/a17488.html#ac5f9824276987b81aef5cfee05158049", null ]
 ];

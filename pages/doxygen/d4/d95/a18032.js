@@ -1,7 +1,6 @@
 var a18032 =
 [
-    [ "HandleSpikes", "d4/d95/a18032.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
-    [ "PrepareSpellScript", "d4/d95/a18032.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
-    [ "Register", "d4/d95/a18032.html#a893345cf191d084a0f97a8464b7d381a", null ],
-    [ "Validate", "d4/d95/a18032.html#aa6545760706d8695aefd4064c3c71c6b", null ]
+    [ "boss_professor_putricideAI", "d3/d16/a18036.html", "d3/d16/a18036" ],
+    [ "boss_professor_putricide", "d4/d95/a18032.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "d4/d95/a18032.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

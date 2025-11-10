@@ -1,7 +1,6 @@
 var a23676 =
 [
-    [ "CalcPeriodic", "d3/dab/a23676.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
-    [ "PrepareAuraScript", "d3/dab/a23676.html#a290913502dfe3dfb42b44a964468b97c", null ],
-    [ "Register", "d3/dab/a23676.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
-    [ "Update", "d3/dab/a23676.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
+    [ "CalculateDamage", "d3/dab/a23676.html#a170fb61e3a7358d42cc6506067fb978a", null ],
+    [ "PrepareSpellScript", "d3/dab/a23676.html#a197fce87e22a3e4055cabbb925b13aa1", null ],
+    [ "Register", "d3/dab/a23676.html#aac3c6a6b34af795cb08fc299e763f6a8", null ]
 ];

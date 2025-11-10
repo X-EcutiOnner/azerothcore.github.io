@@ -1,7 +1,6 @@
 var a24132 =
 [
-    [ "HandleDamage", "d3/d9d/a24132.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "d3/d9d/a24132.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "d3/d9d/a24132.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "d3/d9d/a24132.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "instance_mechanar_InstanceMapScript", "d4/df6/a24136.html", "d4/df6/a24136" ],
+    [ "instance_mechanar", "d3/d9d/a24132.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
+    [ "GetInstanceScript", "d3/d9d/a24132.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
 ];

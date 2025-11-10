@@ -1,6 +1,6 @@
 var a24544 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d9/d1b/a24548.html", "d9/d1b/a24548" ],
-    [ "npc_unkor_the_ruthless", "d5/d8a/a24544.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
-    [ "GetAI", "d5/d8a/a24544.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
+    [ "npc_pet_dk_ghoul", "d5/d8a/a24544.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
+    [ "IsSummonedBy", "d5/d8a/a24544.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
+    [ "JustDied", "d5/d8a/a24544.html#a6095e3619b470283b9875b90e2805b54", null ]
 ];

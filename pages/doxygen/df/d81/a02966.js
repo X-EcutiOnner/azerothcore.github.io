@@ -1,8 +1,8 @@
 var a02966 =
 [
-    [ "boss_archavon", "d6/d6c/a21428.html", "d6/d6c/a21428" ],
-    [ "boss_archavon::boss_archavonAI", "dd/de7/a21432.html", "dd/de7/a21432" ],
-    [ "spell_archavon_rock_shards", "dc/dbe/a21436.html", "dc/dbe/a21436" ],
+    [ "boss_archavon", "dd/d7c/a21400.html", "dd/d7c/a21400" ],
+    [ "boss_archavon::boss_archavonAI", "d2/dbf/a21404.html", "d2/dbf/a21404" ],
+    [ "spell_archavon_rock_shards", "d4/d70/a21408.html", "d4/d70/a21408" ],
     [ "Archavon", "df/d81/a02966.html#a73a22ae082f1ae211db2530bf259e3c9", [
       [ "SPELL_ROCK_SHARDS", "df/d81/a02966.html#a73a22ae082f1ae211db2530bf259e3c9a089c4dd82ee20529deb635e435060907", null ],
       [ "SPELL_ROCK_SHARDS_LEFT_HAND_VISUAL", "df/d81/a02966.html#a73a22ae082f1ae211db2530bf259e3c9ac5948e58c536267987e0a82dcfba1ea7", null ],
@@ -443,9 +443,6 @@ var a02966 =
       [ "EVENT_PLAGUE", "d1/d0c/a02666.html#af60e00b78607064c5be6aa9397ea49c1a0a4b8ce68896891bba96c3f966085581", null ],
       [ "EVENT_BROOD_RAGE", "d1/d0c/a02666.html#af60e00b78607064c5be6aa9397ea49c1a8abdafa350f5cf94d31f1e0776ed0630", null ],
       [ "EVENT_SWARMER", "d1/d0c/a02666.html#af60e00b78607064c5be6aa9397ea49c1a9c4ab4022f522cfde283f24299aa58ce", null ],
-      [ "EVENT_HERALD_MIND_FLAY", "df/de4/a02651.html#af60e00b78607064c5be6aa9397ea49c1a7fc0a708d1fb35eda35aebc202624487", null ],
-      [ "EVENT_HERALD_SHADOW", "df/de4/a02651.html#af60e00b78607064c5be6aa9397ea49c1ae1bcd15a1bfa0fdfdf92a2dfcd8b04b0", null ],
-      [ "EVENT_HERALD_SHIVER", "df/de4/a02651.html#af60e00b78607064c5be6aa9397ea49c1afede975d97d911ee40656b1d8d7603fe", null ],
       [ "EVENT_JEDOGA_CYCLONE", "da/de8/a02657.html#af60e00b78607064c5be6aa9397ea49c1ab819793fd4ba82484eb3a05ccf1003dd", null ],
       [ "EVENT_JEDOGA_LIGHTNING_BOLT", "da/de8/a02657.html#af60e00b78607064c5be6aa9397ea49c1a158cb5e42f1855dcab32a80ffb54612d", null ],
       [ "EVENT_JEDOGA_THUNDERSHOCK", "da/de8/a02657.html#af60e00b78607064c5be6aa9397ea49c1a8b70aec5dc132e97774cf66bb02a3183", null ],

@@ -1,7 +1,10 @@
 var a14376 =
 [
-    [ "FilterTargets", "de/d10/a14376.html#a00adeba9ac3e631109308b1e4bf8f529", null ],
-    [ "HandleEffect", "de/d10/a14376.html#ab6dd7934cc6f10d327e80cd0b6bdfac9", null ],
-    [ "PrepareSpellScript", "de/d10/a14376.html#a08127992c96fb02e87e9ade65a5375d5", null ],
-    [ "Register", "de/d10/a14376.html#aeaf1955aece958a8e7d7773a33177e5d", null ]
+    [ "npc_brewfest_super_brew_trigger", "de/d10/a14376.html#a3d2189978683150b1c431fa0fd637358", null ],
+    [ "AttackStart", "de/d10/a14376.html#a9ca158a2317a599cd4af64dad6ef04cc", null ],
+    [ "JustEngagedWith", "de/d10/a14376.html#a61be52cb8ba0cc10285820ad5324816e", null ],
+    [ "MoveInLineOfSight", "de/d10/a14376.html#aedd26ea4a274df9eb27f9f4a22670f1e", null ],
+    [ "Reset", "de/d10/a14376.html#a5abf05543247a4f1209fe2a5bebb5d64", null ],
+    [ "UpdateAI", "de/d10/a14376.html#a46db84e1eab29e7f4bf99d377962ad12", null ],
+    [ "timer", "de/d10/a14376.html#a2ebb06175e3142cca156e57e8386fe02", null ]
 ];

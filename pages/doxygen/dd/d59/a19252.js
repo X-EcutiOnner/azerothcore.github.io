@@ -1,6 +1,6 @@
 var a19252 =
 [
-    [ "boss_grobbulusAI", "d1/dfe/a19256.html", "d1/dfe/a19256" ],
-    [ "boss_grobbulus", "dd/d59/a19252.html#acf1b781e86e33a363b68354d34d3c015", null ],
-    [ "GetAI", "dd/d59/a19252.html#ae918614566a0b9979aef4e1aeaac394c", null ]
+    [ "boss_heiganAI", "d1/dfe/a19256.html", "d1/dfe/a19256" ],
+    [ "boss_heigan", "dd/d59/a19252.html#aefa3a6d870bde0d33504c5f2b56572be", null ],
+    [ "GetAI", "dd/d59/a19252.html#ad9edf8eade874c1ecc2cecdac17700a1", null ]
 ];

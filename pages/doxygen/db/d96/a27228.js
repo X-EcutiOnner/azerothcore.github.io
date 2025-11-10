@@ -1,10 +1,6 @@
 var a27228 =
 [
-    [ "CheckProc", "db/d96/a27228.html#a68a559c46266fc7337f7d56bb66af542", null ],
-    [ "HandleProc", "db/d96/a27228.html#a69cdd92cea54ec5bf11f6011578b2338", null ],
-    [ "Load", "db/d96/a27228.html#ad571b0d2f47cff037030d7a8184f60fd", null ],
-    [ "PrepareAuraScript", "db/d96/a27228.html#aa20e2911e60f3ae7a9dcceee8f96b6ef", null ],
-    [ "Register", "db/d96/a27228.html#a8af18925b317c717fcd6b2fae14a16e4", null ],
-    [ "Validate", "db/d96/a27228.html#ac0cf25901d70e37bb887b3baa38790b5", null ],
-    [ "_procTarget", "db/d96/a27228.html#ad48f21d3a45e97857265e6047f253910", null ]
+    [ "AfterCheckProc", "db/d96/a27228.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
+    [ "PrepareAuraScript", "db/d96/a27228.html#aa184faf59edbad97ec361e66169137b9", null ],
+    [ "Register", "db/d96/a27228.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
 ];

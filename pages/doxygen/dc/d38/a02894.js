@@ -1,7 +1,7 @@
 var a02894 =
 [
-    [ "boss_volkhan", "d2/de3/a19740.html", "d2/de3/a19740" ],
-    [ "npc_molten_golem", "d2/d18/a19744.html", "d2/d18/a19744" ],
+    [ "boss_volkhan", "d9/d67/a19712.html", "d9/d67/a19712" ],
+    [ "npc_molten_golem", "db/d39/a19716.html", "db/d39/a19716" ],
     [ "VolkahnSpells", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72d", [
       [ "SPELL_HEAT", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72da9329da13a5cbfa0d7dad14d7aeceeac7", null ],
       [ "SPELL_SHATTERING_STOMP", "dc/d38/a02894.html#a3d8eeb9f7fe68b166b8a2f065a81d72daec9ae5b4353163fe5840d94c9371bd80", null ],
@@ -25,6 +25,7 @@ var a02894 =
       [ "NPC_VOLKHAN_ANVIL", "dc/d38/a02894.html#aba5aeb4270d242e810be81cb7d9b34ecaf5e4a6ad1daf4ea241ba78eab16c418d", null ],
       [ "NPC_MOLTEN_GOLEM", "dc/d38/a02894.html#aba5aeb4270d242e810be81cb7d9b34eca20e3ee16669c29eea1487c57e8cad11f", null ],
       [ "NPC_BRITTLE_GOLEM", "dc/d38/a02894.html#aba5aeb4270d242e810be81cb7d9b34ecaa7eba26f13cb62deb289afdbf2a512c4", null ],
+      [ "NPC_SLAG", "dc/d38/a02894.html#aba5aeb4270d242e810be81cb7d9b34eca4ae7e7987db5e1be9e547637ab65e753", null ],
       [ "ACTION_SHATTER", "dc/d38/a02894.html#aba5aeb4270d242e810be81cb7d9b34eca61e72c56ac632a7cead1c2ded4581569", null ],
       [ "ACTION_DESTROYED", "dc/d38/a02894.html#aba5aeb4270d242e810be81cb7d9b34eca6be9aaac2d0ece39335d70b587cf5e82", null ],
       [ "POINT_ANVIL", "dc/d38/a02894.html#aba5aeb4270d242e810be81cb7d9b34eca860fbfbef46f69ee9a0aa899e040991e", null ]

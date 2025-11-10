@@ -1,7 +1,9 @@
 var a24884 =
 [
-    [ "AfterApply", "dc/dff/a24884.html#adae232af9445638b3d54e81d414483b7", null ],
-    [ "AfterRemove", "dc/dff/a24884.html#abf458f1f1dd5abfbba88325cad044ab1", null ],
-    [ "PrepareAuraScript", "dc/dff/a24884.html#a305c532aa0e8740e8c8a87a6ba0abcff", null ],
-    [ "Register", "dc/dff/a24884.html#abff75ea597dcc017a359a5ef3ada4314", null ]
+    [ "HandleApply", "dc/dff/a24884.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
+    [ "HandleRemove", "dc/dff/a24884.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
+    [ "PrepareAuraScript", "dc/dff/a24884.html#af2b8e669737cd4282beb6a5035f496fc", null ],
+    [ "RecalculateBaseArmor", "dc/dff/a24884.html#a693720558c7b2b22c41a49a402522014", null ],
+    [ "Register", "dc/dff/a24884.html#aff9bc58342383afe5a08be696cddedf6", null ],
+    [ "Validate", "dc/dff/a24884.html#ad712e1e05d94372defdfa4fe67e65716", null ]
 ];

@@ -1,6 +1,7 @@
 var a22132 =
 [
-    [ "npc_ravenous_worgAI", "d3/dc2/a22136.html", "d3/dc2/a22136" ],
-    [ "npc_ravenous_worg", "de/da6/a22132.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
-    [ "GetAI", "de/da6/a22132.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
+    [ "npc_amberpine_woodsmanAI", "de/da6/a22132.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
+    [ "Reset", "de/da6/a22132.html#a8da613c7bbaadf331c95667e7a361702", null ],
+    [ "UpdateAI", "de/da6/a22132.html#a64dbf41424a710c400d51507f6457b41", null ],
+    [ "_events", "de/da6/a22132.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
 ];

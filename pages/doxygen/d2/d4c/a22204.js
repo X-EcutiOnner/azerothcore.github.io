@@ -1,8 +1,7 @@
 var a22204 =
 [
-    [ "HandleEffectApply", "d2/d4c/a22204.html#a8ebf9488a7eed99c3651424754cc95c5", null ],
-    [ "HandleEffectPeriodic", "d2/d4c/a22204.html#a183976530ebf604656db12e41449427e", null ],
-    [ "PrepareAuraScript", "d2/d4c/a22204.html#a03faa2eda84ac74dcff9a7a6a4e57440", null ],
-    [ "Register", "d2/d4c/a22204.html#a76be53d506933d4b3c758578b7c33d5f", null ],
-    [ "_posZ", "d2/d4c/a22204.html#a488ded8ff40240fe8fbef1567eb091b9", null ]
+    [ "npc_Apothecary_HanesAI", "d4/d19/a22208.html", "d4/d19/a22208" ],
+    [ "npc_apothecary_hanes", "d2/d4c/a22204.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
+    [ "GetAI", "d2/d4c/a22204.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
+    [ "OnQuestAccept", "d2/d4c/a22204.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
 ];

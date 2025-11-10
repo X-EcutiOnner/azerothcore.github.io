@@ -1,6 +1,8 @@
 var a22408 =
 [
-    [ "npc_avatar_of_freya", "d1/dfa/a22408.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
-    [ "OnGossipHello", "d1/dfa/a22408.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
-    [ "OnGossipSelect", "d1/dfa/a22408.html#aba1b13e922873e939b2510b4bc77f49d", null ]
+    [ "npc_adventurous_dwarfAI", "d8/dfe/a22412.html", "d8/dfe/a22412" ],
+    [ "npc_adventurous_dwarf", "d1/dfa/a22408.html#a15c39e217907189db9be7799e696f310", null ],
+    [ "GetAI", "d1/dfa/a22408.html#ac3f124fab8520a16ccd73e058a0383b1", null ],
+    [ "OnGossipHello", "d1/dfa/a22408.html#ab69e3e249f7075d5344ad79bf9c79b79", null ],
+    [ "OnGossipSelect", "d1/dfa/a22408.html#aebb2cd209f71d8ab56a29e5bfd668def", null ]
 ];

@@ -1,6 +1,7 @@
 var a16220 =
 [
-    [ "instance_obsidian_sanctum_InstanceMapScript", "d9/d67/a16224.html", "d9/d67/a16224" ],
-    [ "instance_obsidian_sanctum", "d1/d3c/a16220.html#a6cf2121c4167156f5748c144372b3c0b", null ],
-    [ "GetInstanceScript", "d1/d3c/a16220.html#a67acb36f65c1bc3d6eca59bf71a5c220", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "d1/d3c/a16220.html#aed531e61508d4d404827f47c6348a5e6", null ],
+    [ "JustEngagedWith", "d1/d3c/a16220.html#ad906b7602a34abcfaede92cba6f0a6d7", null ],
+    [ "UpdateAI", "d1/d3c/a16220.html#ab0c1cf041146a3e16a33986e3e824a2d", null ],
+    [ "_events", "d1/d3c/a16220.html#a6e2819f73f0fccd02b7188f0e6f1ffa9", null ]
 ];

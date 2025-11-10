@@ -1,7 +1,6 @@
 var a29974 =
 [
-    [ "MPQArchive", "d8/dcf/a28968.html", "d8/dcf/a28968" ],
-    [ "MPQFile", "d8/d4c/a28972.html", "d8/d4c/a28972" ],
-    [ "ArchiveSet", "de/df9/a29974.html#a8d76af4bfff910da40b4f93a1c465744", null ],
-    [ "flipcc", "de/df9/a29974.html#aff3add09c98fece7ace91b0e7c90435e", null ]
+    [ "ComputeBaseUnitDim", "de/df9/a29974.html#ac84de12da6296e2f505870fda60891b1", null ],
+    [ "isCurrentDirectory", "de/df9/a29974.html#aa116779ddd87038d6077a805710a7e4d", null ],
+    [ "MakeTileKey", "de/df9/a29974.html#a45540263b1795bfc48c91a117c239a6c", null ]
 ];

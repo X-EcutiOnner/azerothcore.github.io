@@ -1,7 +1,10 @@
 var a14896 =
 [
-    [ "hyjalThrallAI", "d4/dd6/a14900.html", "d4/dd6/a14900" ],
-    [ "npc_hyjal_thrall", "d1/d84/a14896.html#a232f085f208a47f7fae08128de1d06b8", null ],
-    [ "GetAI", "d1/d84/a14896.html#a699b5df19e4e84166348ecfba2dd0172", null ],
-    [ "OnGossipSelect", "d1/d84/a14896.html#af833f26d79d34655c010aa04f984a94a", null ]
+    [ "npc_hyjal_frost_wyrm", "d1/d84/a14896.html#a7cdc8ef87d5ccb88777fa823e199b9ce", null ],
+    [ "AttackStart", "d1/d84/a14896.html#abaaea3bcbb8806ed9d807742273eb06d", null ],
+    [ "DoAction", "d1/d84/a14896.html#adab2b42c582cee234aea37d187b66138", null ],
+    [ "JustEngagedWith", "d1/d84/a14896.html#a23dace13bb2811dea43b63f0b970a2ce", null ],
+    [ "PathEndReached", "d1/d84/a14896.html#a2ec3137dad743e4766ca402282d913c7", null ],
+    [ "Reset", "d1/d84/a14896.html#a550c20113f4ebe4015f9a8088888f99b", null ],
+    [ "UpdateAI", "d1/d84/a14896.html#a182c3b440f74a4ebe6dee64651bf701f", null ]
 ];

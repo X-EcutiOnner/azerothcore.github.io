@@ -1,8 +1,8 @@
 var a26500 =
 [
-    [ "HandleApplyEffect", "d6/d26/a26500.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
-    [ "Load", "d6/d26/a26500.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
-    [ "PrepareAuraScript", "d6/d26/a26500.html#a6e212284f72320356cfa2f0c2a59999d", null ],
-    [ "Register", "d6/d26/a26500.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
-    [ "Validate", "d6/d26/a26500.html#a985a52f71371443454d6dd36f7fe83b2", null ]
+    [ "HandleEffectApply", "d6/d26/a26500.html#aed959961fcd07649cd4914fcd38a3214", null ],
+    [ "if", "d6/d26/a26500.html#a1518c08cb3b5cb716b8bd01692a5160d", null ],
+    [ "PrepareAuraScript", "d6/d26/a26500.html#a42167bc6bf7992debea8582680251da4", null ],
+    [ "Register", "d6/d26/a26500.html#aa2c23abd2b90a276bd7980cadc0397a4", null ],
+    [ "AuraEffectHandleModes", "d6/d26/a26500.html#ac886dec8a2ce55af4ec58ab068c589fa", null ]
 ];

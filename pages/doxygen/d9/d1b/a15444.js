@@ -1,6 +1,10 @@
 var a15444 =
 [
-    [ "HandleOnHit", "d9/d1b/a15444.html#a65818c4421ea83869d36a116d1bc6d2c", null ],
-    [ "PrepareSpellScript", "d9/d1b/a15444.html#a9e568a1608715973fc438ff5e4356714", null ],
-    [ "Register", "d9/d1b/a15444.html#a752d697aada626440fdff2bd889f890f", null ]
+    [ "npc_anubisath_defender", "d9/d1b/a15444.html#ae24a21ad3ebcaa4b8312a1fea66131ba", null ],
+    [ "DamageTaken", "d9/d1b/a15444.html#a032714b16d3d77a19bec0f918d8ef8df", null ],
+    [ "JustDied", "d9/d1b/a15444.html#a225ca1b3144953bcc5890caf0d32b606", null ],
+    [ "JustEngagedWith", "d9/d1b/a15444.html#a6505fcae0e99cae44750f16daddc3309", null ],
+    [ "Reset", "d9/d1b/a15444.html#ab10d9ac93aab97172f630e1d7d8faca0", null ],
+    [ "UpdateAI", "d9/d1b/a15444.html#a1f190f45ffbaf20f5565221780dc5cc6", null ],
+    [ "_enraged", "d9/d1b/a15444.html#a4adef63a5093e3c0ecb8b57283e94ff8", null ]
 ];

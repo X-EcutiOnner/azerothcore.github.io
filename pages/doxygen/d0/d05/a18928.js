@@ -1,7 +1,5 @@
 var a18928 =
 [
-    [ "HandleQuestComplete", "d0/d05/a18928.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
-    [ "HandleScript", "d0/d05/a18928.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
-    [ "PrepareSpellScript", "d0/d05/a18928.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
-    [ "Register", "d0/d05/a18928.html#a3258d4517cfc758080691bab429624d7", null ]
+    [ "at_icc_start_blood_quickening", "d0/d05/a18928.html#a544b0591b19a62e5c8a6efcfffd98326", null ],
+    [ "OnTrigger", "d0/d05/a18928.html#a814670e127b1eace6068a553b23d00f7", null ]
 ];

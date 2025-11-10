@@ -1,6 +1,5 @@
 var a25720 =
 [
-    [ "CheckCast", "d5/dc3/a25720.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
-    [ "PrepareSpellScript", "d5/dc3/a25720.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
-    [ "Register", "d5/dc3/a25720.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
+    [ "PrepareSpellScript", "d5/dc3/a25720.html#acb39fd85035670fb98dcea66c29b2ff7", null ],
+    [ "Register", "d5/dc3/a25720.html#a7fe416070962ba582d59ddff70c13590", null ]
 ];

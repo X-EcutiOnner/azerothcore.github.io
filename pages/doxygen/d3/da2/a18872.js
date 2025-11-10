@@ -1,6 +1,5 @@
 var a18872 =
 [
-    [ "npc_captain_grondelAI", "d3/da2/a18872.html#afbc971fc03584b87229318309d51a2f5", null ],
-    [ "Reset", "d3/da2/a18872.html#a7d3878822e77fba66891e87e23bd3740", null ],
-    [ "UpdateAI", "d3/da2/a18872.html#a4af8548092b49653805224bd4c0ac0a2", null ]
+    [ "npc_alchemist_adrianna", "d3/da2/a18872.html#a310d375bc73c51e407580b063a6543fa", null ],
+    [ "OnGossipHello", "d3/da2/a18872.html#a02ec6a66037d72e30bbe821ceee38691", null ]
 ];

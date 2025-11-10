@@ -1,9 +1,9 @@
 var a22512 =
 [
-    [ "npc_brunnhildar_prisonerAI", "d6/d60/a22512.html#ad650885c7f615f8b27ba20203c9fbb6f", null ],
-    [ "JustRespawned", "d6/d60/a22512.html#a15843fcdc5d9eb34df7869b56a0b16ac", null ],
-    [ "Reset", "d6/d60/a22512.html#ac9ba0806b9702cebe9171d9ba8962b0f", null ],
-    [ "SpellHit", "d6/d60/a22512.html#af2835ec5b951e2f4bb176ebe6bb958fd", null ],
-    [ "UpdateAI", "d6/d60/a22512.html#a0702d4cf577ac00688a7b93bfe656952", null ],
-    [ "freed", "d6/d60/a22512.html#a46e03a19bac91a800154e3c873235800", null ]
+    [ "HandlePeriodic", "d6/d60/a22512.html#a3d9ef90ec1ddebe2b2f3dd3a8b9eb25a", null ],
+    [ "Load", "d6/d60/a22512.html#af5ed9dda3b2a2fd208fdc32de414c28a", null ],
+    [ "PrepareAuraScript", "d6/d60/a22512.html#a1057e5262d413149a023bc904a3c3751", null ],
+    [ "Register", "d6/d60/a22512.html#a47b9665b84742fd8cbb4e422d667b2ac", null ],
+    [ "Validate", "d6/d60/a22512.html#a85d7ac258d50f690574ad7656256cd05", null ],
+    [ "_counter", "d6/d60/a22512.html#a855bb93d5d9c5d8a9d06cfbb16d8d814", null ]
 ];

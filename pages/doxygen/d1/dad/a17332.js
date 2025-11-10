@@ -1,7 +1,5 @@
 var a17332 =
 [
-    [ "HandleEffectPeriodic", "d1/dad/a17332.html#a370e2cbf796c1bc0a891243b61c057e1", null ],
-    [ "PrepareAuraScript", "d1/dad/a17332.html#ac0cb90fe9bfa7f371cc5469626ce2467", null ],
-    [ "Register", "d1/dad/a17332.html#a5a44978cec95fef30c9ea4308bda2508", null ],
-    [ "Validate", "d1/dad/a17332.html#a8b9f7d76f86f1a5abffdead3ebee694a", null ]
+    [ "endPosition", "d1/dad/a17332.html#a8a88b0191d28ef6af8f41db627552602", null ],
+    [ "entry", "d1/dad/a17332.html#ac4e55af666e269440953ced038c1a8de", null ]
 ];

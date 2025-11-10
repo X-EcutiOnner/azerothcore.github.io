@@ -1,6 +1,9 @@
 var a21652 =
 [
-    [ "npc_azure_stalkerAI", "d7/d49/a21656.html", "d7/d49/a21656" ],
-    [ "npc_azure_stalker", "df/dee/a21652.html#ad069edc43b4f489e0b2c7aa4952eeb63", null ],
-    [ "GetAI", "df/dee/a21652.html#a1c067809f98a4d7845d2fb4269742274", null ]
+    [ "npc_azure_sorcerorAI", "df/dee/a21652.html#a474a7144908d4820341dc56f77436b90", null ],
+    [ "Reset", "df/dee/a21652.html#a4c637288f79e1da4bdace6516cd887b1", null ],
+    [ "UpdateAI", "df/dee/a21652.html#a928d789e2cbd35b228857a23c4204ea1", null ],
+    [ "uiArcaneStreamTimer", "df/dee/a21652.html#ad238fe8fed4dcefd923d901e4f73ed05", null ],
+    [ "uiArcaneStreamTimerStartingValueHolder", "df/dee/a21652.html#af044879e8e064e28a491c87d0c6cde74", null ],
+    [ "uiManaDetonationTimer", "df/dee/a21652.html#a3ebe4eb452296f3c45db5c1b6cdaa243", null ]
 ];

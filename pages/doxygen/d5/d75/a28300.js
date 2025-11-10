@@ -1,5 +1,6 @@
 var a28300 =
 [
-    [ "ID", "d5/d75/a28300.html#a65acb5af9a688346cbb7dc144710c768", null ],
-    [ "inventoryIcon", "d5/d75/a28300.html#a26b43ee179bd546c6e956dd797fc0842", null ]
+    [ "AreaGroupId", "d5/d75/a28300.html#a2868a59574e635d5f5859cfa01811151", null ],
+    [ "AreaId", "d5/d75/a28300.html#aabde46a6c77db2c7fb92ca211c86727a", null ],
+    [ "nextGroup", "d5/d75/a28300.html#a1f966f2d6848e8aba2ae3c6bd8120503", null ]
 ];

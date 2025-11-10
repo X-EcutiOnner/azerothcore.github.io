@@ -1,6 +1,8 @@
 var a19888 =
 [
-    [ "npc_collapsing_starAI", "da/dc0/a19892.html", "da/dc0/a19892" ],
-    [ "npc_collapsing_star", "de/dfd/a19888.html#a8d57987c9b4622746d4f42a2b4845b9e", null ],
-    [ "GetAI", "de/dfd/a19888.html#a346af96d122e64c68defdeccb9183cd4", null ]
+    [ "go_celestial_planetarium_accessAI", "de/dfd/a19888.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
+    [ "GossipHello", "de/dfd/a19888.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
+    [ "UpdateAI", "de/dfd/a19888.html#a9b2bfb74a12e3258476387fc78cde574", null ],
+    [ "_locked", "de/dfd/a19888.html#a37f83dbbb05e461d613a4c38001f785c", null ],
+    [ "events", "de/dfd/a19888.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
 ];

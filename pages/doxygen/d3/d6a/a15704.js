@@ -1,6 +1,7 @@
 var a15704 =
 [
-    [ "npc_great_bear_spirit", "d3/d6a/a15704.html#a141470a3623aa1152d3505661f1532c8", null ],
-    [ "OnGossipHello", "d3/d6a/a15704.html#a2307b8d56fc117d918adc9814fa86f8f", null ],
-    [ "OnGossipSelect", "d3/d6a/a15704.html#aae026f4cf8b0de61d36a841dcfdbd92e", null ]
+    [ "npc_giant_spotlightAI", "d3/d6a/a15704.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
+    [ "Reset", "d3/d6a/a15704.html#a79f6703107eed52a3aeae30393507c0f", null ],
+    [ "UpdateAI", "d3/d6a/a15704.html#a8567f936dd15933300497d5abe80a272", null ],
+    [ "events", "d3/d6a/a15704.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
 ];

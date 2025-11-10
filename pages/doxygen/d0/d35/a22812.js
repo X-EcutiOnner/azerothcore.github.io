@@ -1,12 +1,8 @@
 var a22812 =
 [
-    [ "boss_exarch_maladaar", "d0/d35/a22812.html#a5dac68e3dc6fc37736bf85b84eadd417", null ],
-    [ "JustDied", "d0/d35/a22812.html#ab1179a19af8948d430559db4074c41ed", null ],
-    [ "JustEngagedWith", "d0/d35/a22812.html#a69427e7a0ca70253ad8035b5e6b1e01e", null ],
-    [ "JustSummoned", "d0/d35/a22812.html#a8f59e1b093af8c85da8c2fd38e01ca1b", null ],
-    [ "KilledUnit", "d0/d35/a22812.html#adf35cb8b039676500d4040baa08b0d48", null ],
-    [ "MoveInLineOfSight", "d0/d35/a22812.html#a14baacd30b9186c7492c981313421d5b", null ],
-    [ "Reset", "d0/d35/a22812.html#accb21d3c4a6856d2de9641cf84c42ce9", null ],
-    [ "UpdateAI", "d0/d35/a22812.html#a7646c4477135d3d3b8580432902babd4", null ],
-    [ "_talked", "d0/d35/a22812.html#a15c4f122529b9f52823ea407c43433c5", null ]
+    [ "npc_yor", "d0/d35/a22812.html#a43ed8720d06c035085d481dbe6539dca", null ],
+    [ "JustEngagedWith", "d0/d35/a22812.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
+    [ "Reset", "d0/d35/a22812.html#aa698540b646fd870b33afbaf19ddbe07", null ],
+    [ "UpdateAI", "d0/d35/a22812.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
+    [ "_scheduler", "d0/d35/a22812.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
 ];

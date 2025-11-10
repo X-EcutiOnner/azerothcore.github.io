@@ -1,7 +1,9 @@
 var a26820 =
 [
-    [ "CalcPeriodic", "d9/dbd/a26820.html#af787d0c8738284e757f808e7d138bdc6", null ],
-    [ "PrepareAuraScript", "d9/dbd/a26820.html#a383db196133bbecee06fe443fdb1bc24", null ],
-    [ "Register", "d9/dbd/a26820.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
-    [ "Update", "d9/dbd/a26820.html#af3f4a7b82e099313d609df7f85f02d00", null ]
+    [ "Absorb", "d9/dbd/a26820.html#a22b175a7a07f950b5be1aad60e096e4f", null ],
+    [ "CalculateAmount", "d9/dbd/a26820.html#a9aa29ca1e77a2ef060d94d4d07a7c0e6", null ],
+    [ "Load", "d9/dbd/a26820.html#acf7851d34fa2368c9e711e8b3943c09b", null ],
+    [ "PrepareAuraScript", "d9/dbd/a26820.html#ac273b669dc396561d9ec8b523659363f", null ],
+    [ "Register", "d9/dbd/a26820.html#a656f4770b0f7099f5926a8063f7d740c", null ],
+    [ "absorbPct", "d9/dbd/a26820.html#a31d7ca52ace4e22652403292969baf55", null ]
 ];

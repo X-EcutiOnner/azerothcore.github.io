@@ -1,9 +1,9 @@
 var a02186 =
 [
-    [ "boss_mechano_lord_capacitus", "d4/d2b/a24128.html", "d4/d2b/a24128" ],
-    [ "spell_capacitus_polarity_charge", "d3/d9d/a24132.html", "d3/d9d/a24132" ],
-    [ "spell_capacitus_polarity_charge_aura", "d4/df6/a24136.html", "d4/df6/a24136" ],
-    [ "spell_capacitus_polarity_shift", "dc/da2/a24140.html", "dc/da2/a24140" ],
+    [ "boss_mechano_lord_capacitus", "d2/ddf/a24100.html", "d2/ddf/a24100" ],
+    [ "spell_capacitus_polarity_charge", "d5/dde/a24104.html", "d5/dde/a24104" ],
+    [ "spell_capacitus_polarity_charge_aura", "da/d64/a24108.html", "da/d64/a24108" ],
+    [ "spell_capacitus_polarity_shift", "dc/d79/a24112.html", "dc/d79/a24112" ],
     [ "polarityShift", "d5/d4d/a02186.html#adfcb85d87bd0304f358a9d2549e866aa", [
       [ "SPELL_POSITIVE_POLARITY", "d5/d4d/a02186.html#adfcb85d87bd0304f358a9d2549e866aaa795738ba63917afbc0763ca952c1acf2", null ],
       [ "SPELL_POSITIVE_CHARGE_STACK", "d5/d4d/a02186.html#adfcb85d87bd0304f358a9d2549e866aaa9a8ba6564944a1455aee4c76339e7ae5", null ],
@@ -1656,7 +1656,6 @@ var a02186 =
       [ "SPELL_FROSTBOLT", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e", null ],
       [ "SPELL_TOUCH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d", null ],
       [ "SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6", null ],
-      [ "SPELL_RAIN_OF_FIRE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca770475c37ddfbb0a8c98a0c8a7c98f0d", null ],
       [ "SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8", null ],
       [ "SPELL_EYE_BEAM", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc", null ],
       [ "SPELL_LIGHTNING_BREATH", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298caba0559b83dfa3b94464ac474a4b62e3e", null ],

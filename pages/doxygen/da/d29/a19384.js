@@ -1,6 +1,6 @@
 var a19384 =
 [
-    [ "FilterTargets", "da/d29/a19384.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
-    [ "PrepareSpellScript", "da/d29/a19384.html#a452937a4e95b40366f915213ec475a84", null ],
-    [ "Register", "da/d29/a19384.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
+    [ "npc_teslaAI", "df/d6a/a19388.html", "df/d6a/a19388" ],
+    [ "npc_tesla", "da/d29/a19384.html#ae74ad52adbf4a160ef0c7cf97e4faea0", null ],
+    [ "GetAI", "da/d29/a19384.html#a00d0e2ee0a8c20ed64dd2012f244a760", null ]
 ];

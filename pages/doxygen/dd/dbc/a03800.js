@@ -1,11 +1,11 @@
 var a03800 =
 [
-    [ "boss_brutallus", "de/d39/a13448.html", "de/d39/a13448" ],
-    [ "npc_madrigosa", "d9/d20/a13452.html", "d9/d20/a13452" ],
-    [ "spell_madrigosa_activate_barrier", "db/dba/a13456.html", "db/dba/a13456" ],
-    [ "spell_madrigosa_deactivate_barrier", "da/d6b/a13460.html", "da/d6b/a13460" ],
-    [ "spell_brutallus_burn", "dc/dd7/a13464.html", "dc/dd7/a13464" ],
-    [ "at_sunwell_madrigosa", "d3/d2b/a13468.html", "d3/d2b/a13468" ],
+    [ "boss_brutallus", "d0/de5/a13420.html", "d0/de5/a13420" ],
+    [ "npc_madrigosa", "d5/d12/a13424.html", "d5/d12/a13424" ],
+    [ "spell_madrigosa_activate_barrier", "d3/d47/a13428.html", "d3/d47/a13428" ],
+    [ "spell_madrigosa_deactivate_barrier", "df/d95/a13432.html", "df/d95/a13432" ],
+    [ "spell_brutallus_burn", "da/d04/a13436.html", "da/d04/a13436" ],
+    [ "at_sunwell_madrigosa", "d1/df9/a13440.html", "d1/df9/a13440" ],
     [ "eMadrigosa", "dd/dbc/a03800.html#a9c013fd339fb1c6ec76dc9784b1fd77c", [
       [ "EVENT_MAD_1", "dd/dbc/a03800.html#a9c013fd339fb1c6ec76dc9784b1fd77ca8adbf4ce28357322d3e36e80ac8abe2b", null ],
       [ "EVENT_MAD_2", "dd/dbc/a03800.html#a9c013fd339fb1c6ec76dc9784b1fd77ca0f9096979814eadf4a111ed1d7e4fc5f", null ],
@@ -283,7 +283,6 @@ var a03800 =
       [ "ROOM_STAIRS", "dd/da3/a03026.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae2375df4683a40c95e9d73dc07b67971", null ],
       [ "ACTION_TURN_BONES", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac4df9037e576791a0e8cd7a86df7ebf3", null ],
       [ "EVENT_SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6acc06d07ea4bf758d5b40d8d015dfc0cf", null ],
-      [ "EVENT_SPELL_RAIN_OF_FIRE", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae87b6da7fec02560956dd06ddc9c0e04", null ],
       [ "EVENT_SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa006a8f2aa2c4e55f6a86c52b9ecbfed", null ],
       [ "EVENT_SPELL_EYE_BEAM", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7cfb962f489a01f1d7146a2ab0a5cb24", null ],
       [ "EVENT_SPELL_LIGHTNING_BREATH", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abde294ddbf63fb2a3f09c41a0a9f8971", null ],
@@ -2432,7 +2431,6 @@ var a03800 =
       [ "SPELL_FROSTBOLT", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e", null ],
       [ "SPELL_TOUCH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d", null ],
       [ "SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6", null ],
-      [ "SPELL_RAIN_OF_FIRE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca770475c37ddfbb0a8c98a0c8a7c98f0d", null ],
       [ "SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8", null ],
       [ "SPELL_EYE_BEAM", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc", null ],
       [ "SPELL_LIGHTNING_BREATH", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298caba0559b83dfa3b94464ac474a4b62e3e", null ],

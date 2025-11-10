@@ -1,11 +1,6 @@
 var a23496 =
 [
-    [ "boss_ahune", "da/de5/a23496.html#aa3d15e1ab37843761d9f7c56d2e5a319", null ],
-    [ "DoAction", "da/de5/a23496.html#a9e197e8a5ecbad8487c7bad7647e6d2c", null ],
-    [ "Emerge", "da/de5/a23496.html#a6404a8255566f2eaa061a89025e2bdcd", null ],
-    [ "EnterEvadeMode", "da/de5/a23496.html#a2b906881621e59143a916c588beb70e7", null ],
-    [ "ExecuteEvent", "da/de5/a23496.html#a46b477aef635de1d3ec88baa2465089f", null ],
-    [ "JustDied", "da/de5/a23496.html#af2fc7c071321653a644ee569ead67d63", null ],
-    [ "JustEngagedWith", "da/de5/a23496.html#aaffc4f54544c8aa4529b249560ddeeec", null ],
-    [ "Submerge", "da/de5/a23496.html#aad68758720cc1cb703f8f2dc72c09af2", null ]
+    [ "HandleScript", "da/de5/a23496.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
+    [ "PrepareSpellScript", "da/de5/a23496.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
+    [ "Register", "da/de5/a23496.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
 ];

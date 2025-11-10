@@ -1,9 +1,7 @@
 var a25356 =
 [
-    [ "PrepareAuraScript", "d4/d39/a25356.html#aebfc1dfb1ff025b0ef4a8c0062a000f1", null ],
-    [ "RefreshVisualShields", "d4/d39/a25356.html#aeefbbdd391c347b350ec7738b9825f8c", null ],
-    [ "Register", "d4/d39/a25356.html#aacd9f12cddd0c698816916d9cdf5f0ea", null ],
-    [ "RemoveDummyFromDriver", "d4/d39/a25356.html#a399641ce72b74038a4517868267bd86a", null ],
-    [ "RemoveVisualShields", "d4/d39/a25356.html#aed4bb9ec815ac4e22b952a64c8bd3b51", null ],
-    [ "Validate", "d4/d39/a25356.html#ae5799f72b7fbce82799fd730f1525948", null ]
+    [ "PrepareSpellScript", "d4/d39/a25356.html#aad8061898087fbf5eb6527cbaa70927d", null ],
+    [ "RecalculateDamage", "d4/d39/a25356.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
+    [ "Register", "d4/d39/a25356.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
+    [ "_damagePct", "d4/d39/a25356.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
 ];

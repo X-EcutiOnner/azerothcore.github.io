@@ -1,7 +1,5 @@
 var a22600 =
 [
-    [ "HandleScript", "d7/d40/a22600.html#a26eb647b6c938df3aeff7981571dc475", null ],
-    [ "PrepareSpellScript", "d7/d40/a22600.html#a10114d8fa956aabff64aa0df7708f635", null ],
-    [ "Register", "d7/d40/a22600.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
-    [ "Validate", "d7/d40/a22600.html#adb477d34d8012c6fb45c5548fc49e127", null ]
+    [ "achievement_wg_didnt_stand_a_chance", "d7/d40/a22600.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
+    [ "OnCheck", "d7/d40/a22600.html#ae575bae454689e05c161e8480a13fa18", null ]
 ];

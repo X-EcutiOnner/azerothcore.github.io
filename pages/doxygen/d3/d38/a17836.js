@@ -1,6 +1,11 @@
 var a17836 =
 [
-    [ "npc_gunship_gunnerAI", "d9/dcc/a17840.html", "d9/dcc/a17840" ],
-    [ "npc_gunship_gunner", "d3/d38/a17836.html#a409711f22b35eae0c0d48bc23545e592", null ],
-    [ "GetAI", "d3/d38/a17836.html#a2b28f5edfddf7a8c94a2a5475ec575dc", null ]
+    [ "CountTargets", "d3/d38/a17836.html#a54f6526359fba124a988ba35c2876fd1", null ],
+    [ "Load", "d3/d38/a17836.html#a32a76ca53528bbfabfcefd2dc6aef4cc", null ],
+    [ "PrepareSpellScript", "d3/d38/a17836.html#a4991d88429ea951c55ef08a90f364d31", null ],
+    [ "Register", "d3/d38/a17836.html#a8bac27d885c8ea0c659c22599c4e97b4", null ],
+    [ "TeleportPlayer", "d3/d38/a17836.html#ac886eae598b55ed4aa9ddbf9ce3a01bd", null ],
+    [ "TriggerWipe", "d3/d38/a17836.html#a0f79722e00e6255d1ed1bf5846d5c839", null ],
+    [ "Validate", "d3/d38/a17836.html#ad2e586d688b413f9ef9a5688d203106a", null ],
+    [ "_playerCount", "d3/d38/a17836.html#a7c116e74c485ca44e5e6e710cfeb5bba", null ]
 ];

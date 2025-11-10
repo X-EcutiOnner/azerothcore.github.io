@@ -1,7 +1,6 @@
 var a17240 =
 [
-    [ "HandlePeriodicTick", "d2/dd5/a17240.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
-    [ "PrepareAuraScript", "d2/dd5/a17240.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
-    [ "Register", "d2/dd5/a17240.html#a4653ccb0d93d056adf3b14056865787c", null ],
-    [ "Validate", "d2/dd5/a17240.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
+    [ "npc_pos_deathwhisper_necrolyteAI", "d5/d9f/a17244.html", "d5/d9f/a17244" ],
+    [ "npc_pos_deathwhisper_necrolyte", "d2/dd5/a17240.html#a0dcdb5b1dfed44f74b04663758b531a0", null ],
+    [ "GetAI", "d2/dd5/a17240.html#ae765669f95f4f14b393b88bf7ecbbfd6", null ]
 ];

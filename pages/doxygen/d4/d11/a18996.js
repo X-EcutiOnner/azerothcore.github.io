@@ -1,9 +1,6 @@
 var a18996 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "d4/d11/a18996.html#a18330d49e510f83af7ee0120df14e633", null ],
-    [ "AttackStart", "d4/d11/a18996.html#a9838b3edb758f6f8d0bcbb242862d5da", null ],
-    [ "JustEngagedWith", "d4/d11/a18996.html#adddd56260b41738d69fcdfe31b677c51", null ],
-    [ "Reset", "d4/d11/a18996.html#a2291e4a6bbf917a810b31776dee9dd24", null ],
-    [ "UpdateAI", "d4/d11/a18996.html#a971fa0e468d9d58ffdda7c7b8aa53485", null ],
-    [ "events", "d4/d11/a18996.html#a1c8a527d217f9b810f87da0fc020528a", null ]
+    [ "npc_icc_valkyr_heraldAI", "d0/dd4/a19000.html", "d0/dd4/a19000" ],
+    [ "npc_icc_valkyr_herald", "d4/d11/a18996.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
+    [ "GetAI", "d4/d11/a18996.html#a7537269841d0380d2dc9e4641705acf9", null ]
 ];

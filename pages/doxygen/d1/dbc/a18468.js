@@ -1,7 +1,6 @@
 var a18468 =
 [
-    [ "OnPeriodic", "d1/dbc/a18468.html#accd12b06341f3168c74cb18926614f7f", null ],
-    [ "OnUpdate", "d1/dbc/a18468.html#abd725d08f2ef14cd375b6b94e9c1dcf0", null ],
-    [ "PrepareAuraScript", "d1/dbc/a18468.html#aa7dea3d079ae88aafd145ce949a6eb02", null ],
-    [ "Register", "d1/dbc/a18468.html#aa4a548a222dd79554e3e4e8f837c1d49", null ]
+    [ "npc_icc_ice_sphereAI", "d6/d7c/a18472.html", "d6/d7c/a18472" ],
+    [ "npc_icc_ice_sphere", "d1/dbc/a18468.html#a4ed169ba87e801bb83ca4f3c457534cf", null ],
+    [ "GetAI", "d1/dbc/a18468.html#aabb9ef14ea217f282173edf1600d3ecd", null ]
 ];

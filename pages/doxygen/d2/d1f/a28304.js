@@ -1,10 +1,11 @@
 var a28304 =
 [
-    [ "ID", "d2/d1f/a28304.html#a906c42770a619884f08b67e2870bff93", null ],
-    [ "reqarenapoints", "d2/d1f/a28304.html#a5d45007a832d6120e29c7821c07646de", null ],
-    [ "reqarenaslot", "d2/d1f/a28304.html#ad1e4b8f94a743bac02bbadbc8d62ad0b", null ],
-    [ "reqhonorpoints", "d2/d1f/a28304.html#aca509fb7e234bc54632ff988bf37e6ad", null ],
-    [ "reqitem", "d2/d1f/a28304.html#a9cba8872c909260a55dcfdf7f4726899", null ],
-    [ "reqitemcount", "d2/d1f/a28304.html#a615c5fe0966b5054303ebe1290adc9b6", null ],
-    [ "reqpersonalarenarating", "d2/d1f/a28304.html#af4ff8d55234b03637e4b2fbd10778e97", null ]
+    [ "icon", "d2/d1f/a28304.html#ad34c7f65fc077b39b6b71a1ff1a89cf5", null ],
+    [ "id", "d2/d1f/a28304.html#af9f4cd8b29daededd3d2b2f0cc53d213", null ],
+    [ "mapId", "d2/d1f/a28304.html#a4a8ba812b143b55e06d8dbd88e9e6fe3", null ],
+    [ "worldState", "d2/d1f/a28304.html#a9d745d26316726c861cc5a242f6a4f57", null ],
+    [ "x", "d2/d1f/a28304.html#a27fd46a0c6b00a297c345a14dfd781e5", null ],
+    [ "y", "d2/d1f/a28304.html#afcb7cc22d0ed260793b31f8893d13a0f", null ],
+    [ "z", "d2/d1f/a28304.html#a79ca5d6a2c4332dcc6d0a51ef40d0189", null ],
+    [ "zoneId", "d2/d1f/a28304.html#a0cc33089981237694ca550cba6793a3e", null ]
 ];

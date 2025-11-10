@@ -1,7 +1,6 @@
 var a23048 =
 [
-    [ "boss_lady_malande", "d0/ddb/a23048.html#a8cb693d203463dcba809e7ffc23c6868", null ],
-    [ "AttackStart", "d0/ddb/a23048.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
-    [ "JustEngagedWith", "d0/ddb/a23048.html#af4b5f376e387851e15517de03636acde", null ],
-    [ "UpdateAI", "d0/ddb/a23048.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
+    [ "HandleScriptEffect", "d0/ddb/a23048.html#aeafb2893534c8e188bbb519b6c7a0113", null ],
+    [ "PrepareSpellScript", "d0/ddb/a23048.html#a6caaa93244719d7fc8c3f28280a3c1c5", null ],
+    [ "Register", "d0/ddb/a23048.html#a99e2243ca4372eab1a742f8979d61334", null ]
 ];

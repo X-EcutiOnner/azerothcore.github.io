@@ -1,6 +1,8 @@
 var a24136 =
 [
-    [ "HandleAfterRemove", "d4/df6/a24136.html#ac9756a8f206c114ff6443331ca266184", null ],
-    [ "PrepareAuraScript", "d4/df6/a24136.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
-    [ "Register", "d4/df6/a24136.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
+    [ "instance_mechanar_InstanceMapScript", "d4/df6/a24136.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "d4/df6/a24136.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "d4/df6/a24136.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "d4/df6/a24136.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "d4/df6/a24136.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

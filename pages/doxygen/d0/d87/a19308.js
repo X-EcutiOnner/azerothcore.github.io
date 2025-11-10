@@ -1,7 +1,8 @@
 var a19308 =
 [
-    [ "HandleScript", "d0/d87/a19308.html#a66db3976fe6ec7ee8712c5788ce5f3ec", null ],
-    [ "PrepareAuraScript", "d0/d87/a19308.html#aa3053519be0101f55450d76b1291f0f7", null ],
-    [ "Register", "d0/d87/a19308.html#ada596a7f19115c7178fd07fb9e956f58", null ],
-    [ "Validate", "d0/d87/a19308.html#a768dec18bc0e879c457a64135ec27ad9", null ]
+    [ "boss_maexxna_webwrapAI", "d0/d87/a19308.html#a1423b619676f650f71c8e7215aa2a2b7", null ],
+    [ "IsSummonedBy", "d0/d87/a19308.html#a1d434373ccc7dd54c5de7bc99487170a", null ],
+    [ "JustDied", "d0/d87/a19308.html#a1ed18e791d2a5ae26cd1c2f3cdf37d82", null ],
+    [ "UpdateAI", "d0/d87/a19308.html#a05220fcded67e15bbd94d13d0b9581a2", null ],
+    [ "victimGUID", "d0/d87/a19308.html#a54081ebfc0df639b7e18b5f079802c92", null ]
 ];

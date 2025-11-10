@@ -1,5 +1,7 @@
 var a27304 =
 [
-    [ "achievement_sa_defense_of_the_ancients", "d6/d29/a27304.html#a678cffdece32710a42a92db0c092f3a5", null ],
-    [ "OnCheck", "d6/d29/a27304.html#af23e346f9b022f490b84c8081f847a2f", null ]
+    [ "CharacterDeleteActionIpLogger", "d6/d29/a27304.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "d6/d29/a27304.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "d6/d29/a27304.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "d6/d29/a27304.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

@@ -1,6 +1,7 @@
 var a24748 =
 [
-    [ "CheckProc", "dd/d7a/a24748.html#ace3662e092d02de975929741c470230d", null ],
-    [ "PrepareAuraScript", "dd/d7a/a24748.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
-    [ "Register", "dd/d7a/a24748.html#ae6432106538261827c3eac3dde1450f2", null ]
+    [ "CorpseExplosionCheck", "dd/d7a/a24748.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
+    [ "operator()", "dd/d7a/a24748.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
+    [ "_allowGhoul", "dd/d7a/a24748.html#abd42a0731af969ceccdfceae722ba276", null ],
+    [ "_casterGUID", "dd/d7a/a24748.html#a497df87745f452716c652e9b1be6d46f", null ]
 ];

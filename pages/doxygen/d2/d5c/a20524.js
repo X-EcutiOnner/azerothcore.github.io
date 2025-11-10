@@ -1,7 +1,6 @@
 var a20524 =
 [
-    [ "HandleScript", "d2/d5c/a20524.html#a760bb60198017605111d02af98c827b1", null ],
-    [ "PrepareSpellScript", "d2/d5c/a20524.html#a6128956f1037b62fff2e6f10ec22d956", null ],
-    [ "Register", "d2/d5c/a20524.html#ae445c98f5543df2f45b77b6cd54d58e7", null ],
-    [ "Validate", "d2/d5c/a20524.html#a3bb460d50928bd1b57566dd6a50fa5cd", null ]
+    [ "boss_kologarn_eyebeamAI", "d5/d30/a20528.html", "d5/d30/a20528" ],
+    [ "boss_kologarn_eyebeam", "d2/d5c/a20524.html#af28ff60e3b42f7316cc3d63624a91ee9", null ],
+    [ "GetAI", "d2/d5c/a20524.html#a34f5533a6bfe84c52fe0b0e854e694f8", null ]
 ];

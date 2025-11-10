@@ -1,8 +1,6 @@
 var a26200 =
 [
-    [ "CheckQuest", "dc/d7a/a26200.html#ab7ebff0894832ac009cda89b7c28e252", null ],
-    [ "HandleDummy", "dc/d7a/a26200.html#a365df14504a54e95e7d68d22a284e441", null ],
-    [ "HandleOpenObject", "dc/d7a/a26200.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
-    [ "PrepareSpellScript", "dc/d7a/a26200.html#a479e313031a2e71473238d8f645bf2d4", null ],
-    [ "Register", "dc/d7a/a26200.html#a70f1a91e611cc2092aad44a909cd53db", null ]
+    [ "CheckProc", "dc/d7a/a26200.html#aa8a8c89cf55ab6796a81671d0312a481", null ],
+    [ "PrepareAuraScript", "dc/d7a/a26200.html#a9c88f86a4edafda286725008ecfeab6c", null ],
+    [ "Register", "dc/d7a/a26200.html#ad75f33c72dff282e4a8976c92e0b4e76", null ]
 ];

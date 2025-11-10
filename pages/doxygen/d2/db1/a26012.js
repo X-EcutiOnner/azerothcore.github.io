@@ -1,7 +1,6 @@
 var a26012 =
 [
-    [ "HandleDummy", "d2/db1/a26012.html#a02bb860f6d077d4c295ad8b82179174d", null ],
-    [ "PrepareSpellScript", "d2/db1/a26012.html#ad9eeff5aa428dabff7f2181d2819681d", null ],
-    [ "Register", "d2/db1/a26012.html#a2c699d4d848a01a80143d6fcc01b64a8", null ],
-    [ "Validate", "d2/db1/a26012.html#a9fd765b2c48f11837dbeb4caeedc0ae1", null ]
+    [ "HandleTriggerSpell", "d2/db1/a26012.html#a2c9f565aec4c42900037dd387549df18", null ],
+    [ "PrepareAuraScript", "d2/db1/a26012.html#a5864bbba50001cdb84b0015d08134c56", null ],
+    [ "Register", "d2/db1/a26012.html#a5a41ac9e41201ec3defc05c324a792c9", null ]
 ];

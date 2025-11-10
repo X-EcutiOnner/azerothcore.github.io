@@ -1,15 +1,12 @@
 var a17052 =
 [
-    [ "boss_falricAI", "d2/def/a17052.html#a8b333fe1571f98b4e9f44152d130a22d", null ],
-    [ "DoAction", "d2/def/a17052.html#a2a7de8f939cd3cdc113c841da36e28c8", null ],
-    [ "EnterEvadeMode", "d2/def/a17052.html#aacb6a3b13fe5ea08ab2ff0e77ff841a4", null ],
-    [ "JustDied", "d2/def/a17052.html#a4ee3163afcda23102d639740fd628f39", null ],
-    [ "JustEngagedWith", "d2/def/a17052.html#ae5a8b14e1984dbd2866af7c442c02df2", null ],
-    [ "KilledUnit", "d2/def/a17052.html#a4a8b45eb85c1328af6beec69f2db1842", null ],
-    [ "Reset", "d2/def/a17052.html#a0af8ef161bc2a37a5c7f7fa880194251", null ],
-    [ "UpdateAI", "d2/def/a17052.html#a640036111dcd14e40016342ffdef7d63", null ],
-    [ "events", "d2/def/a17052.html#aa94ca00db157378071b78142b213de23", null ],
-    [ "pInstance", "d2/def/a17052.html#aebeae3541bbbf392c44fd52516bb2d98", null ],
-    [ "startFightTimer", "d2/def/a17052.html#addd560074b840aed36f41883f893340e", null ],
-    [ "uiHopelessnessCount", "d2/def/a17052.html#a0ad83fb57263116a59976834c6667ea9", null ]
+    [ "npc_ghostly_priestAI", "d2/def/a17052.html#abb6815d1395b68654eeb6ab8b4217388", null ],
+    [ "AttackStart", "d2/def/a17052.html#a9719d1ad6e58b727bc1720cb815be3e9", null ],
+    [ "DoAction", "d2/def/a17052.html#a89c991a1d4c07f1229436871f503c949", null ],
+    [ "EnterEvadeMode", "d2/def/a17052.html#ab8fd2df32ef12f5f648b8af9abcc3201", null ],
+    [ "JustDied", "d2/def/a17052.html#a004e8aec05741b9ee36b0695840e6c2a", null ],
+    [ "JustEngagedWith", "d2/def/a17052.html#a780d530e224ca1f72e26db17cd57f44a", null ],
+    [ "Reset", "d2/def/a17052.html#ab8f7559110be76633153842e0714554a", null ],
+    [ "UpdateAI", "d2/def/a17052.html#ab431f451963d0b608f11129934496700", null ],
+    [ "events", "d2/def/a17052.html#a9b49c143b5a29b4f9b4ce34ce0aecca7", null ]
 ];

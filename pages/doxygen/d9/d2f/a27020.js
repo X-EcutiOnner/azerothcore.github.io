@@ -1,6 +1,6 @@
 var a27020 =
 [
-    [ "HandleAuraApply", "d9/d2f/a27020.html#a19d8103126a6446fb5ade53d2b5d0ddb", null ],
-    [ "PrepareAuraScript", "d9/d2f/a27020.html#a7596065e5ffcacf099a5984f5d940c11", null ],
-    [ "Register", "d9/d2f/a27020.html#a8efa76b28dddad68fee132f37791f231", null ]
+    [ "HandleBanish", "d9/d2f/a27020.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
+    [ "PrepareSpellScript", "d9/d2f/a27020.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
+    [ "Register", "d9/d2f/a27020.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
 ];

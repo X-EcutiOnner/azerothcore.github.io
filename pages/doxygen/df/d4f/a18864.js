@@ -1,6 +1,6 @@
 var a18864 =
 [
-    [ "npc_captain_brandonAI", "df/d4f/a18864.html#a1fe09b93be658660ba3c127c142e2ee6", null ],
-    [ "Reset", "df/d4f/a18864.html#a13226b321707eee9faf5f073c81403e4", null ],
-    [ "UpdateAI", "df/d4f/a18864.html#a721f8f7395cd57d4dba74f66ae40169f", null ]
+    [ "npc_impaling_spearAI", "dc/d93/a18868.html", "dc/d93/a18868" ],
+    [ "npc_impaling_spear", "df/d4f/a18864.html#af546ed9684fc085ad651bf5bd93e5bf7", null ],
+    [ "GetAI", "df/d4f/a18864.html#aad49164a3e7541b755c1c622b996bb9a", null ]
 ];

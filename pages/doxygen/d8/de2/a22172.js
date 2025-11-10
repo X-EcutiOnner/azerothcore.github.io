@@ -1,6 +1,7 @@
 var a22172 =
 [
-    [ "npc_venture_co_stragglerAI", "d5/d70/a22176.html", "d5/d70/a22176" ],
-    [ "npc_venture_co_straggler", "d8/de2/a22172.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
-    [ "GetAI", "d8/de2/a22172.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
+    [ "HandleDummy", "d8/de2/a22172.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
+    [ "PrepareSpellScript", "d8/de2/a22172.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
+    [ "Register", "d8/de2/a22172.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
+    [ "Validate", "d8/de2/a22172.html#aeec15705a41ad2ac0e59d90086591d96", null ]
 ];

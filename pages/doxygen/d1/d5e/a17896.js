@@ -1,9 +1,7 @@
 var a17896 =
 [
-    [ "HandleApply", "d1/d5e/a17896.html#a5f23d41765ec949486094a0da45be7e8", null ],
-    [ "HandleRemove", "d1/d5e/a17896.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
-    [ "Load", "d1/d5e/a17896.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
-    [ "PrepareAuraScript", "d1/d5e/a17896.html#aabf5fdf4578935db11e041e638fba187", null ],
-    [ "Register", "d1/d5e/a17896.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
-    [ "SendClientControl", "d1/d5e/a17896.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
+    [ "HandleScript", "d1/d5e/a17896.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
+    [ "PrepareSpellScript", "d1/d5e/a17896.html#ab69926839f72ee76eba2b225aba9690c", null ],
+    [ "Register", "d1/d5e/a17896.html#aad8925e891d7537993f02f3bc2552fea", null ],
+    [ "SelectRandomTarget", "d1/d5e/a17896.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
 ];

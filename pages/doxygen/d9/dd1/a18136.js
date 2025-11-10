@@ -1,6 +1,6 @@
 var a18136 =
 [
-    [ "HandleScript", "d9/dd1/a18136.html#abd766c298f8aa363d28198b6a5d7e374", null ],
-    [ "PrepareSpellScript", "d9/dd1/a18136.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
-    [ "Register", "d9/dd1/a18136.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
+    [ "ExtraEffect", "d9/dd1/a18136.html#a10dfb36a835589208482e1c8833d8f46", null ],
+    [ "PrepareSpellScript", "d9/dd1/a18136.html#a972ff2bdc7d3660820e05326600be6f6", null ],
+    [ "Register", "d9/dd1/a18136.html#ae337e67a220b72b44878d02be33e3888", null ]
 ];

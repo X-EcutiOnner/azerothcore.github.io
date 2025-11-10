@@ -1,6 +1,5 @@
 var a13880 =
 [
-    [ "npc_lord_gregor_lescovarAI", "dc/dda/a13884.html", "dc/dda/a13884" ],
-    [ "npc_lord_gregor_lescovar", "de/d8d/a13880.html#a6164425b7bb6bc8aa95a6665b7d1c55c", null ],
-    [ "GetAI", "de/d8d/a13880.html#a4cf39729bb687c7db3538575a799283e", null ]
+    [ "npc_king_varian_wrynn", "de/d8d/a13880.html#a33b7c492a7435b3f80e508be9e3440e9", null ],
+    [ "OnQuestReward", "de/d8d/a13880.html#a1255cca95a7a2b039702b30db377a19f", null ]
 ];

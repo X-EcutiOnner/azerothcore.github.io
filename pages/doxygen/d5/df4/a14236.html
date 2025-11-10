@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: spell_chain_burn Class Reference</title>
+<title>AzerothCore: spell_random_aggro Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,28 +107,28 @@ $(document).ready(function(){initNavTree('d5/df4/a14236.html','../../'); initRes
   <div class="summary">
 <a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="../../d1/db6/a14233.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">spell_chain_burn Class Reference</div></div>
+  <div class="headertitle"><div class="title">spell_random_aggro Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="dynheader">
-Inheritance diagram for spell_chain_burn:</div>
+Inheritance diagram for spell_random_aggro:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../d5/df4/a14236.png" usemap="#spell_5Fchain_5Fburn_map" alt=""/>
-  <map id="spell_5Fchain_5Fburn_map" name="spell_5Fchain_5Fburn_map">
-<area href="../../d1/d7d/a11448.html" alt="SpellScript" shape="rect" coords="0,56,109,80"/>
-<area href="../../dd/d08/a11432.html" alt="_SpellScript" shape="rect" coords="0,0,109,24"/>
+  <img src="../../d5/df4/a14236.png" usemap="#spell_5Frandom_5Faggro_map" alt=""/>
+  <map id="spell_5Frandom_5Faggro_map" name="spell_5Frandom_5Faggro_map">
+<area href="../../d1/d7d/a11448.html" alt="SpellScript" shape="rect" coords="0,56,127,80"/>
+<area href="../../dd/d08/a11432.html" alt="_SpellScript" shape="rect" coords="0,0,127,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
-<tr class="memitem:a0a1cbde8aff10303d91a791276a865f4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df4/a14236.html#a0a1cbde8aff10303d91a791276a865f4">PrepareSpellScript</a> (<a class="el" href="../../d5/df4/a14236.html">spell_chain_burn</a>)</td></tr>
-<tr class="separator:a0a1cbde8aff10303d91a791276a865f4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac29f6792f36f1b5ef4a463754c725a2e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df4/a14236.html#ac29f6792f36f1b5ef4a463754c725a2e">FilterTargets</a> (std::list&lt; <a class="el" href="../../de/d33/a08452.html">WorldObject</a> * &gt; &amp;targets)</td></tr>
-<tr class="separator:ac29f6792f36f1b5ef4a463754c725a2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9f7d21ab52f581ad154a242ce84d8a5d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df4/a14236.html#a9f7d21ab52f581ad154a242ce84d8a5d">Register</a> () override</td></tr>
-<tr class="separator:a9f7d21ab52f581ad154a242ce84d8a5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2270ce546ae286ffa701d094df591aa2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df4/a14236.html#a2270ce546ae286ffa701d094df591aa2">PrepareSpellScript</a> (<a class="el" href="../../d5/df4/a14236.html">spell_random_aggro</a>)</td></tr>
+<tr class="separator:a2270ce546ae286ffa701d094df591aa2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a76b09288d14d399735250607e2105eb3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df4/a14236.html#a76b09288d14d399735250607e2105eb3">HandleOnHit</a> ()</td></tr>
+<tr class="separator:a76b09288d14d399735250607e2105eb3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a710f2a60bf6ae00909d279b98ac6b7d6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df4/a14236.html#a710f2a60bf6ae00909d279b98ac6b7d6">Register</a> () override</td></tr>
+<tr class="separator:a710f2a60bf6ae00909d279b98ac6b7d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
@@ -293,8 +293,8 @@ Additional Inherited Members</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="ac29f6792f36f1b5ef4a463754c725a2e" name="ac29f6792f36f1b5ef4a463754c725a2e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac29f6792f36f1b5ef4a463754c725a2e">&#9670;&#160;</a></span>FilterTargets()</h2>
+<a id="a76b09288d14d399735250607e2105eb3" name="a76b09288d14d399735250607e2105eb3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a76b09288d14d399735250607e2105eb3">&#9670;&#160;</a></span>HandleOnHit()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -303,10 +303,9 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void spell_chain_burn::FilterTargets </td>
+          <td class="memname">void spell_random_aggro::HandleOnHit </td>
           <td>(</td>
-          <td class="paramtype">std::list&lt; <a class="el" href="../../de/d33/a08452.html">WorldObject</a> * &gt; &amp;&#160;</td>
-          <td class="paramname"><em>targets</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -316,30 +315,28 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  152</span>    {</div>
-<div class="line"><span class="lineno">  153</span>        <a class="code hl_class" href="../../db/dbe/a08800.html">Unit</a>* caster = <a class="code hl_function" href="../../d1/d7d/a11448.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
-<div class="line"><span class="lineno">  154</span>        targets.remove_if([caster](<a class="code hl_class" href="../../de/d33/a08452.html">WorldObject</a>* target) -&gt; <span class="keywordtype">bool</span></div>
-<div class="line"><span class="lineno">  155</span>        {</div>
-<div class="line"><span class="lineno">  156</span>            <a class="code hl_class" href="../../db/dbe/a08800.html">Unit</a>* unit = target-&gt;<a class="code hl_function" href="../../db/db6/a08416.html#afd88f95deffad982ca0b5ef16b6244e8">ToUnit</a>();</div>
-<div class="line"><span class="lineno">  157</span>            <span class="keywordflow">return</span> !unit || unit-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#ad44d31430fab9282a79e8682822ccd9c">getPowerType</a>() != <a class="code hl_enumvalue" href="../../d1/da3/a04100.html#a17e15fab4b89f4840e745f31ca76a414ab3e4f73d6494c917b99431bae75a4d5f">POWER_MANA</a> || caster-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>() == unit;</div>
-<div class="line"><span class="lineno">  158</span>        });</div>
-<div class="line"><span class="lineno">  159</span>    }</div>
-<div class="ttc" id="aa04100_html_a17e15fab4b89f4840e745f31ca76a414ab3e4f73d6494c917b99431bae75a4d5f"><div class="ttname"><a href="../../d1/da3/a04100.html#a17e15fab4b89f4840e745f31ca76a414ab3e4f73d6494c917b99431bae75a4d5f">POWER_MANA</a></div><div class="ttdeci">@ POWER_MANA</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:280</div></div>
-<div class="ttc" id="aa08416_html_afd88f95deffad982ca0b5ef16b6244e8"><div class="ttname"><a href="../../db/db6/a08416.html#afd88f95deffad982ca0b5ef16b6244e8">Object::ToUnit</a></div><div class="ttdeci">Unit * ToUnit()</div><div class="ttdef"><b>Definition:</b> Object.h:210</div></div>
-<div class="ttc" id="aa08452_html"><div class="ttname"><a href="../../de/d33/a08452.html">WorldObject</a></div><div class="ttdef"><b>Definition:</b> Object.h:472</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  250</span>    {</div>
+<div class="line"><span class="lineno">  251</span>        <a class="code hl_class" href="../../db/dbe/a08800.html">Unit</a>* caster = <a class="code hl_function" href="../../d1/d7d/a11448.html#ae630e2d388177707e28cecd5fa5a2b48">GetCaster</a>();</div>
+<div class="line"><span class="lineno">  252</span>        <a class="code hl_class" href="../../db/dbe/a08800.html">Unit</a>* target = <a class="code hl_function" href="../../d1/d7d/a11448.html#a8435df1d0677fa5124515002da8e0860">GetHitUnit</a>();</div>
+<div class="line"><span class="lineno">  253</span>        <span class="keywordflow">if</span> (!caster || !target || !caster-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#ac53944779fa1544c06a3fc3dc74f5294">GetAI</a>())</div>
+<div class="line"><span class="lineno">  254</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  255</span> </div>
+<div class="line"><span class="lineno">  256</span>        caster-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#ac53944779fa1544c06a3fc3dc74f5294">GetAI</a>()-&gt;<a class="code hl_function" href="../../d8/dae/a06212.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(target);</div>
+<div class="line"><span class="lineno">  257</span>    }</div>
+<div class="ttc" id="aa06212_html_ae120634c255d365f1567e341e2cf1feb"><div class="ttname"><a href="../../d8/dae/a06212.html#ae120634c255d365f1567e341e2cf1feb">UnitAI::AttackStart</a></div><div class="ttdeci">virtual void AttackStart(Unit *)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:27</div></div>
 <div class="ttc" id="aa08800_html"><div class="ttname"><a href="../../db/dbe/a08800.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:650</div></div>
-<div class="ttc" id="aa08800_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../db/dbe/a08800.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition:</b> Unit.h:886</div></div>
-<div class="ttc" id="aa08800_html_ad44d31430fab9282a79e8682822ccd9c"><div class="ttname"><a href="../../db/dbe/a08800.html#ad44d31430fab9282a79e8682822ccd9c">Unit::getPowerType</a></div><div class="ttdeci">Powers getPowerType() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1093</div></div>
+<div class="ttc" id="aa08800_html_ac53944779fa1544c06a3fc3dc74f5294"><div class="ttname"><a href="../../db/dbe/a08800.html#ac53944779fa1544c06a3fc3dc74f5294">Unit::GetAI</a></div><div class="ttdeci">UnitAI * GetAI()</div><div class="ttdef"><b>Definition:</b> Unit.h:678</div></div>
+<div class="ttc" id="aa11448_html_a8435df1d0677fa5124515002da8e0860"><div class="ttname"><a href="../../d1/d7d/a11448.html#a8435df1d0677fa5124515002da8e0860">SpellScript::GetHitUnit</a></div><div class="ttdeci">Unit * GetHitUnit()</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:448</div></div>
 <div class="ttc" id="aa11448_html_ae630e2d388177707e28cecd5fa5a2b48"><div class="ttname"><a href="../../d1/d7d/a11448.html#ae630e2d388177707e28cecd5fa5a2b48">SpellScript::GetCaster</a></div><div class="ttdeci">Unit * GetCaster()</div><div class="ttdef"><b>Definition:</b> SpellScript.cpp:401</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, <a class="el" href="../../#l01093">Unit::getPowerType()</a>, <a class="el" href="../../#l00886">Unit::GetVictim()</a>, <a class="el" href="../../#l00280">POWER_MANA</a>, and <a class="el" href="../../#l00210">Object::ToUnit()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, <a class="el" href="../../#l00678">Unit::GetAI()</a>, <a class="el" href="../../#l00401">SpellScript::GetCaster()</a>, and <a class="el" href="../../#l00448">SpellScript::GetHitUnit()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00161">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00259">Register()</a>.</p>
 
 </div>
 </div>
-<a id="a0a1cbde8aff10303d91a791276a865f4" name="a0a1cbde8aff10303d91a791276a865f4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0a1cbde8aff10303d91a791276a865f4">&#9670;&#160;</a></span>PrepareSpellScript()</h2>
+<a id="a2270ce546ae286ffa701d094df591aa2" name="a2270ce546ae286ffa701d094df591aa2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2270ce546ae286ffa701d094df591aa2">&#9670;&#160;</a></span>PrepareSpellScript()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -348,9 +345,9 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">spell_chain_burn::PrepareSpellScript </td>
+          <td class="memname">spell_random_aggro::PrepareSpellScript </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/df4/a14236.html">spell_chain_burn</a>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d5/df4/a14236.html">spell_random_aggro</a>&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
@@ -364,8 +361,8 @@ Additional Inherited Members</h2></td></tr>
 
 </div>
 </div>
-<a id="a9f7d21ab52f581ad154a242ce84d8a5d" name="a9f7d21ab52f581ad154a242ce84d8a5d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9f7d21ab52f581ad154a242ce84d8a5d">&#9670;&#160;</a></span>Register()</h2>
+<a id="a710f2a60bf6ae00909d279b98ac6b7d6" name="a710f2a60bf6ae00909d279b98ac6b7d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a710f2a60bf6ae00909d279b98ac6b7d6">&#9670;&#160;</a></span>Register()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -374,7 +371,7 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void spell_chain_burn::Register </td>
+          <td class="memname">void spell_random_aggro::Register </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -388,16 +385,14 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../dd/d08/a11432.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  162</span>    {</div>
-<div class="line"><span class="lineno">  163</span>        <a class="code hl_variable" href="../../d1/d7d/a11448.html#af74f730c6dacd310a78036be6b7cc6b7">OnObjectAreaTargetSelect</a> += <a class="code hl_define" href="../../de/d76/a00134.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a>(<a class="code hl_function" href="../../d5/df4/a14236.html#ac29f6792f36f1b5ef4a463754c725a2e">spell_chain_burn::FilterTargets</a>, <a class="code hl_enumvalue" href="../../d1/da3/a04100.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d1/da3/a04100.html#a418aed4e4066eb09ab979b5d78dc9152a8b2344cd954d6b4c61d99cd3ec1599f3">TARGET_UNIT_TARGET_ENEMY</a>);</div>
-<div class="line"><span class="lineno">  164</span>    }</div>
-<div class="ttc" id="aa00134_html_a623f49512c3d12eceb55ca05cd53c4f2"><div class="ttname"><a href="../../de/d76/a00134.html#a623f49512c3d12eceb55ca05cd53c4f2">SpellObjectAreaTargetSelectFn</a></div><div class="ttdeci">#define SpellObjectAreaTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:354</div></div>
-<div class="ttc" id="aa04100_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../d1/da3/a04100.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
-<div class="ttc" id="aa04100_html_a418aed4e4066eb09ab979b5d78dc9152a8b2344cd954d6b4c61d99cd3ec1599f3"><div class="ttname"><a href="../../d1/da3/a04100.html#a418aed4e4066eb09ab979b5d78dc9152a8b2344cd954d6b4c61d99cd3ec1599f3">TARGET_UNIT_TARGET_ENEMY</a></div><div class="ttdeci">@ TARGET_UNIT_TARGET_ENEMY</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1426</div></div>
-<div class="ttc" id="aa11448_html_af74f730c6dacd310a78036be6b7cc6b7"><div class="ttname"><a href="../../d1/d7d/a11448.html#af74f730c6dacd310a78036be6b7cc6b7">SpellScript::OnObjectAreaTargetSelect</a></div><div class="ttdeci">HookList&lt; ObjectAreaTargetSelectHandler &gt; OnObjectAreaTargetSelect</div><div class="ttdef"><b>Definition:</b> SpellScript.h:353</div></div>
-<div class="ttc" id="aa14236_html_ac29f6792f36f1b5ef4a463754c725a2e"><div class="ttname"><a href="../../d5/df4/a14236.html#ac29f6792f36f1b5ef4a463754c725a2e">spell_chain_burn::FilterTargets</a></div><div class="ttdeci">void FilterTargets(std::list&lt; WorldObject * &gt; &amp;targets)</div><div class="ttdef"><b>Definition:</b> boss_hazzarah.cpp:151</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  260</span>    {</div>
+<div class="line"><span class="lineno">  261</span>        <a class="code hl_variable" href="../../d1/d7d/a11448.html#a4ad6c271f820ea8f949e286512912d52">OnHit</a> += <a class="code hl_define" href="../../de/d76/a00134.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a>(<a class="code hl_function" href="../../d5/df4/a14236.html#a76b09288d14d399735250607e2105eb3">spell_random_aggro::HandleOnHit</a>);</div>
+<div class="line"><span class="lineno">  262</span>    }</div>
+<div class="ttc" id="aa00134_html_ad33ae6ff74ef32eb5ec79707ff0ab5b1"><div class="ttname"><a href="../../de/d76/a00134.html#ad33ae6ff74ef32eb5ec79707ff0ab5b1">SpellHitFn</a></div><div class="ttdeci">#define SpellHitFn(F)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:349</div></div>
+<div class="ttc" id="aa11448_html_a4ad6c271f820ea8f949e286512912d52"><div class="ttname"><a href="../../d1/d7d/a11448.html#a4ad6c271f820ea8f949e286512912d52">SpellScript::OnHit</a></div><div class="ttdeci">HookList&lt; HitHandler &gt; OnHit</div><div class="ttdef"><b>Definition:</b> SpellScript.h:345</div></div>
+<div class="ttc" id="aa14236_html_a76b09288d14d399735250607e2105eb3"><div class="ttname"><a href="../../d5/df4/a14236.html#a76b09288d14d399735250607e2105eb3">spell_random_aggro::HandleOnHit</a></div><div class="ttdeci">void HandleOnHit()</div><div class="ttdef"><b>Definition:</b> boss_jindo.cpp:249</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00151">FilterTargets()</a>, <a class="el" href="../../#l00353">SpellScript::OnObjectAreaTargetSelect</a>, <a class="el" href="../../#l00354">SpellObjectAreaTargetSelectFn</a>, and <a class="el" href="../../#l01426">TARGET_UNIT_TARGET_ENEMY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00249">HandleOnHit()</a>, <a class="el" href="../../#l00345">SpellScript::OnHit</a>, and <a class="el" href="../../#l00349">SpellHitFn</a>.</p>
 
 </div>
 </div>
@@ -406,8 +401,8 @@ Additional Inherited Members</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d5/df4/a14236.html">spell_chain_burn</a></li>
-    <li class="footer">Generated on Mon Nov 3 2025 20:47:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d5/df4/a14236.html">spell_random_aggro</a></li>
+    <li class="footer">Generated on Mon Nov 10 2025 20:54:10 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

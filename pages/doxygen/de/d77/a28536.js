@@ -1,9 +1,8 @@
 var a28536 =
 [
-    [ "itemId", "de/d77/a28536.html#ae125712e5569c9699b4748b6a15fbc12", null ],
-    [ "items_to_triggerspell", "de/d77/a28536.html#a8496a2f3fa3e230def04b996fc585760", null ],
-    [ "name", "de/d77/a28536.html#a9b62f843833d524f200782d44151503d", null ],
-    [ "required_skill_id", "de/d77/a28536.html#ab3058ac725fb8f105b9359d5a5147942", null ],
-    [ "required_skill_value", "de/d77/a28536.html#a58d0997a73cf48061545edbc0201f544", null ],
-    [ "spells", "de/d77/a28536.html#a8aac032992efe1bfbba0e49693562c7f", null ]
+    [ "areaTriggerText", "de/d77/a28536.html#a32bb8c4a4defce661d108627e25b645a", null ],
+    [ "Difficulty", "de/d77/a28536.html#add8ed75cd6aaa3412e6222b869bb4113", null ],
+    [ "MapId", "de/d77/a28536.html#aa107ad302ec2aa3ce2289ba392e1c32e", null ],
+    [ "maxPlayers", "de/d77/a28536.html#a7ab33229ffee11a27861439053c79831", null ],
+    [ "resetTime", "de/d77/a28536.html#a891a741efb049b51996e1a6110efc52d", null ]
 ];

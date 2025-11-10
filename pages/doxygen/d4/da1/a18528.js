@@ -1,6 +1,8 @@
 var a18528 =
 [
-    [ "npc_valkyr_shadowguardAI", "d0/d12/a18532.html", "d0/d12/a18532" ],
-    [ "npc_valkyr_shadowguard", "d4/da1/a18528.html#a8ee90e21499eebf240c57419454c3829", null ],
-    [ "GetAI", "d4/da1/a18528.html#ad84cb094a17e4fb88d3e883c98ce7f5a", null ]
+    [ "Load", "d4/da1/a18528.html#add67e02f44e3658bff98faf7a9466ba3", null ],
+    [ "OnPeriodic", "d4/da1/a18528.html#a3e523e0bb23e4aba279ba6704206bfc4", null ],
+    [ "PrepareAuraScript", "d4/da1/a18528.html#a399fc30c23c03d3c4964ec23faed7c18", null ],
+    [ "Register", "d4/da1/a18528.html#a4ee6fe23e45481eea16f77d8de72742e", null ],
+    [ "_is25Man", "d4/da1/a18528.html#ab7776e2d8eff0de1176d5d5efa853c6d", null ]
 ];

@@ -1,7 +1,6 @@
 var a26224 =
 [
-    [ "CheckProc", "dc/dc5/a26224.html#a325336c96dad74ec221c07817222fee1", null ],
-    [ "HandleProc", "dc/dc5/a26224.html#a35a1ce56b84b2d8017dbaba626660d70", null ],
-    [ "PrepareAuraScript", "dc/dc5/a26224.html#a30f6dd531d4316b4bbb3297af2c17e2e", null ],
-    [ "Register", "dc/dc5/a26224.html#a6c86a4cf273d90086c4ebdbcaa6b6632", null ]
+    [ "OnRemove", "dc/dc5/a26224.html#ae1f257e43effcb396d57d42db3063afd", null ],
+    [ "PrepareAuraScript", "dc/dc5/a26224.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
+    [ "Register", "dc/dc5/a26224.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
 ];

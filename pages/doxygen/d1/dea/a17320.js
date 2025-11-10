@@ -1,6 +1,7 @@
 var a17320 =
 [
-    [ "npc_pos_freed_slaveAI", "d1/dea/a17320.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
-    [ "CanAIAttack", "d1/dea/a17320.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
-    [ "EnterEvadeMode", "d1/dea/a17320.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
+    [ "HandleEffectPeriodic", "d1/dea/a17320.html#a4802c810efd7dd8a9954845366398e7f", null ],
+    [ "PrepareAuraScript", "d1/dea/a17320.html#a008166d25e7a278507e953325f40ccd5", null ],
+    [ "Register", "d1/dea/a17320.html#ac239d0f42eea59b63c3d31ed275846ea", null ],
+    [ "Validate", "d1/dea/a17320.html#a3fc78060f881262c59151b6eb6a943f8", null ]
 ];

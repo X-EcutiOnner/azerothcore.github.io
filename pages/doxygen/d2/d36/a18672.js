@@ -1,7 +1,6 @@
 var a18672 =
 [
-    [ "ValithriaDespawner", "d2/d36/a18672.html#adf6f71ad9b97489f1e35781e491b28d8", null ],
-    [ "Execute", "d2/d36/a18672.html#a4f8c63f52996da14078a7196cae3a00d", null ],
-    [ "operator()", "d2/d36/a18672.html#a05bae39d642f294f2ef98151d66ba382", null ],
-    [ "_creature", "d2/d36/a18672.html#a64bf6181ad867efd987edec141ca3bf0", null ]
+    [ "npc_risen_archmageAI", "d4/d82/a18676.html", "d4/d82/a18676" ],
+    [ "npc_risen_archmage", "d2/d36/a18672.html#adf6dfe2a00325955939c84bcc1e4eb68", null ],
+    [ "GetAI", "d2/d36/a18672.html#a8e8c4913e163c5d649fa79c2eb424864", null ]
 ];

@@ -1,6 +1,14 @@
 var a19024 =
 [
-    [ "npc_icc_valkyr_heraldAI", "da/d13/a19028.html", "da/d13/a19028" ],
-    [ "npc_icc_valkyr_herald", "df/d10/a19024.html#a9d06e0dec8cb960d34c2089c1c0d8ccb", null ],
-    [ "GetAI", "df/d10/a19024.html#a7537269841d0380d2dc9e4641705acf9", null ]
+    [ "npc_icc_vengeful_fleshreaperAI", "df/d10/a19024.html#a4a459289a55871990abc0adc4ba8278c", null ],
+    [ "AttackStart", "df/d10/a19024.html#a3412c5664c1c1354b615e8f798824b91", null ],
+    [ "JustReachedHome", "df/d10/a19024.html#a161fd53eca71cb0a3b8fb8d483b7e49b", null ],
+    [ "MoveInLineOfSight", "df/d10/a19024.html#acfbaa73491940a916f8d0a0b852bcc61", null ],
+    [ "MovementInform", "df/d10/a19024.html#ad14a1d8cfe749d54a801a3902aa49e1d", null ],
+    [ "Reset", "df/d10/a19024.html#aa60d5d2d534aa6e9fe7c77703bab5fce", null ],
+    [ "UpdateAI", "df/d10/a19024.html#a8946357cad01050641bcdf51edce192f", null ],
+    [ "currPipeWP", "df/d10/a19024.html#af8a298ccbd6f22a0a4416ed6cb082e67", null ],
+    [ "events", "df/d10/a19024.html#aa39171910383c74583f24663d6c23f3b", null ],
+    [ "forward", "df/d10/a19024.html#a28eb6d3f007f45b9db4eafafe71b779c", null ],
+    [ "needMove", "df/d10/a19024.html#ae08f9c54d08b0eae5ad71d69f06a6544", null ]
 ];

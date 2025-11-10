@@ -1,5 +1,7 @@
 var a13904 =
 [
-    [ "npc_tyrion", "d9/d90/a13904.html#a85b1abd4910729c17099174def6507b1", null ],
-    [ "OnQuestAccept", "d9/d90/a13904.html#af8388a07e52a8c5708434a70d0d28cbb", null ]
+    [ "o", "d9/d90/a13904.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
+    [ "x", "d9/d90/a13904.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
+    [ "y", "d9/d90/a13904.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
+    [ "z", "d9/d90/a13904.html#abf42d988d416ebe409100c4b860d26db", null ]
 ];

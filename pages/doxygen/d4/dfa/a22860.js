@@ -1,12 +1,17 @@
 var a22860 =
 [
-    [ "boss_anzu", "d4/dfa/a22860.html#aef8c5c57afa95936d8c2809fa1257799", null ],
-    [ "JustEngagedWith", "d4/dfa/a22860.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
-    [ "Reset", "d4/dfa/a22860.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
-    [ "SummonBroods", "d4/dfa/a22860.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
-    [ "SummonedCreatureDies", "d4/dfa/a22860.html#a2e35df609db069c8d31afffabcfead34", null ],
-    [ "SummonSpirits", "d4/dfa/a22860.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
-    [ "UpdateAI", "d4/dfa/a22860.html#a06373460d454bfaf8db793e591cc0abd", null ],
-    [ "AnzuSpiritPos", "d4/dfa/a22860.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
-    [ "talkTimer", "d4/dfa/a22860.html#a2afae53534d9e777c90d09456f834b5d", null ]
+    [ "boss_ambassador_hellmaw", "d4/dfa/a22860.html#ae774dfa4379b7321ff194a796c9eb842", null ],
+    [ "AttackStart", "d4/dfa/a22860.html#aa072ff0e9ce6e68f3ba0b4e51fb92f04", null ],
+    [ "CanAIAttack", "d4/dfa/a22860.html#a35579b31dec1d0c110b459230ee129e4", null ],
+    [ "DoAction", "d4/dfa/a22860.html#a3cbd58fb11fe8d297907bb40d69e4ccb", null ],
+    [ "DoMeleeAttackIfReady", "d4/dfa/a22860.html#a8dd75d368f0f567561db45e1c53ad785", null ],
+    [ "InitializeAI", "d4/dfa/a22860.html#a9b0170a49751def614126265240bb87c", null ],
+    [ "JustDied", "d4/dfa/a22860.html#ae0e04500073a4c02c9656b4bcd63be9c", null ],
+    [ "JustEngagedWith", "d4/dfa/a22860.html#a9ea9d60b8fa90a228951a38fc2f59325", null ],
+    [ "KilledUnit", "d4/dfa/a22860.html#a5f7564ef25a36395cddf4e2c2dbc2dfc", null ],
+    [ "MoveInLineOfSight", "d4/dfa/a22860.html#af3949b46f82863af699396729e88928b", null ],
+    [ "PathEndReached", "d4/dfa/a22860.html#a46b9b96ec5e4c121d994560e85266dfe", null ],
+    [ "Reset", "d4/dfa/a22860.html#a4881f868ac11eb66f3d15b44c94938bf", null ],
+    [ "UpdateAI", "d4/dfa/a22860.html#a44dae5d6517e22dd2be399d08fa67a71", null ],
+    [ "isBanished", "d4/dfa/a22860.html#a4805244997c42f5791400c5b1f5e6204", null ]
 ];

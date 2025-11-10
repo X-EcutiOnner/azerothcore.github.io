@@ -1,10 +1,9 @@
 var a20752 =
 [
-    [ "npc_ulduar_harpoonfirestateAI", "db/d7f/a20752.html#acc6853671f37e35c746ffa3807ae10b2", null ],
-    [ "GetData", "db/d7f/a20752.html#ac23f2c901ef8c2160ceea43a0a15e185", null ],
-    [ "GetHarpoonGunIdForThisHFS", "db/d7f/a20752.html#af21c4d50febac02eb0572efe564a19b1", null ],
-    [ "Reset", "db/d7f/a20752.html#af300a8271762fe1b5582384114902ee8", null ],
-    [ "SetData", "db/d7f/a20752.html#abf485123f0a73aa84ad5178e23c4192e", null ],
-    [ "pInstance", "db/d7f/a20752.html#af576864ded6610daad973ac420d2fdb8", null ],
-    [ "repairPoints", "db/d7f/a20752.html#a5e9bcd384285b9046da93bd18804d07b", null ]
+    [ "npc_ulduar_dark_rune_watcherAI", "db/d7f/a20752.html#a2239253c2c4760b130ace4a07ef1e8c4", null ],
+    [ "CanAIAttack", "db/d7f/a20752.html#a891e354dc27f0d53e06a0cf2eea46970", null ],
+    [ "Reset", "db/d7f/a20752.html#a79a1081a50ded7afc5f81ed4234be59d", null ],
+    [ "UpdateAI", "db/d7f/a20752.html#a58c5f53f74055b89c11ed27ffe908732", null ],
+    [ "timer1", "db/d7f/a20752.html#aab38ff79ca8fc867a3d6c6512d0376c8", null ],
+    [ "timer2", "db/d7f/a20752.html#a7b4eb188939c15f11a6b2532853ad798", null ]
 ];

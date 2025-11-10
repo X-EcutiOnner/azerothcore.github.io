@@ -1,10 +1,16 @@
 var a19372 =
 [
-    [ "boss_razuvious_minionAI", "d7/dc7/a19372.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
-    [ "DoAction", "d7/dc7/a19372.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
-    [ "JustEngagedWith", "d7/dc7/a19372.html#ada2e7a5ac1f129572a0689afce49d310", null ],
-    [ "KilledUnit", "d7/dc7/a19372.html#ab1a6f582098c9d1218551af0aae1815d", null ],
-    [ "Reset", "d7/dc7/a19372.html#a170de8517a03a0e78b1e67652869fd9a", null ],
-    [ "ScheduleAttackDummy", "d7/dc7/a19372.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
-    [ "UpdateAI", "d7/dc7/a19372.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
+    [ "boss_thaddius_summonAI", "d7/dc7/a19372.html#aa5050ea97f0f92a39f3db856af5cd28e", null ],
+    [ "DoAction", "d7/dc7/a19372.html#a3b95513bd72806a928c0f57cf6ceb45a", null ],
+    [ "EnterEvadeMode", "d7/dc7/a19372.html#ad2258d2039a789f99ad4c0766726df85", null ],
+    [ "JustDied", "d7/dc7/a19372.html#a1629c28098312defb57611967adf34fe", null ],
+    [ "JustEngagedWith", "d7/dc7/a19372.html#af96f6054547e377f401972273e6e86aa", null ],
+    [ "KilledUnit", "d7/dc7/a19372.html#a16771a7a854f85dcc26e3510d31454af", null ],
+    [ "Reset", "d7/dc7/a19372.html#a762fb33bd8fe4ac457b9b7b9c44b5d4c", null ],
+    [ "UpdateAI", "d7/dc7/a19372.html#a6f99135eb20d77cca69ec20fe4fbd002", null ],
+    [ "events", "d7/dc7/a19372.html#a18dd6a61746effdf03cd0afbadd8a368", null ],
+    [ "myCoil", "d7/dc7/a19372.html#a2c21b7023f7396566f7486591a653079", null ],
+    [ "overload", "d7/dc7/a19372.html#a6d054ec2a0f26f9f3a5b142bacca0ae5", null ],
+    [ "pullTimer", "d7/dc7/a19372.html#a6080f32e1d90fa3e2e7bd9447abbad87", null ],
+    [ "visualTimer", "d7/dc7/a19372.html#a3587b09a23d7aad81effd14bbda03291", null ]
 ];

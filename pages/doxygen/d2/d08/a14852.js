@@ -1,6 +1,7 @@
 var a14852 =
 [
-    [ "HandleHit", "d2/d08/a14852.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
-    [ "PrepareSpellScript", "d2/d08/a14852.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
-    [ "Register", "d2/d08/a14852.html#a64a861b5c25df5780390aa55899393d7", null ]
+    [ "OnPeriodic", "d2/d08/a14852.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
+    [ "PrepareAuraScript", "d2/d08/a14852.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
+    [ "Register", "d2/d08/a14852.html#aeb388d608830aeb3b30f707304403b41", null ],
+    [ "Validate", "d2/d08/a14852.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
 ];

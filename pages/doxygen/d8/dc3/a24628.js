@@ -1,10 +1,14 @@
 var a24628 =
 [
-    [ "npc_pet_gen_plump_turkey", "d8/dc3/a24628.html#acd5a9cb122cbf5a773461ce1027f28a1", null ],
-    [ "MovementInform", "d8/dc3/a24628.html#af27c91388891add6d00e251bf3187743", null ],
-    [ "UpdateAI", "d8/dc3/a24628.html#a93d2719bcc6a657a9a32cce06f566b19", null ],
-    [ "checkTimer", "d8/dc3/a24628.html#af9e7339416ada0c3bb9829cbd8e1f5d3", null ],
-    [ "goGUID", "d8/dc3/a24628.html#a5fa88e045430adea9e72a3744bf72780", null ],
-    [ "jumping", "d8/dc3/a24628.html#a8486512b7594f2ce759fcb580f1baf34", null ],
-    [ "jumpTimer", "d8/dc3/a24628.html#ad53a9abad41ab6a792a55b854155135d", null ]
+    [ "npc_pet_mage_mirror_image", "d8/dc3/a24628.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
+    [ "EnterEvadeMode", "d8/dc3/a24628.html#a858b070fb53112dc78554f0b20cd876a", null ],
+    [ "InitializeAI", "d8/dc3/a24628.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
+    [ "MySelectNextTarget", "d8/dc3/a24628.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
+    [ "Reset", "d8/dc3/a24628.html#a79a8c153ab61c619d928ec5535e67077", null ],
+    [ "UpdateAI", "d8/dc3/a24628.html#aa219b3adc38b625c6885089895b941b4", null ],
+    [ "_delayAttack", "d8/dc3/a24628.html#ab65a74ef0f1e253bf9df4e4f7c6856a3", null ],
+    [ "_ebonGargoyleGUID", "d8/dc3/a24628.html#a8be57d06114f108e74b850ce66722bf3", null ],
+    [ "checktarget", "d8/dc3/a24628.html#a074611355768dc2072da69ed9d72242b", null ],
+    [ "dist", "d8/dc3/a24628.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
+    [ "selectionTimer", "d8/dc3/a24628.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
 ];

@@ -1,6 +1,6 @@
 var a22380 =
 [
-    [ "HandleHealPct", "d4/d9b/a22380.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "d4/d9b/a22380.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "d4/d9b/a22380.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "npc_avatar_of_freya", "d4/d9b/a22380.html#a3a6c4f6d8f05d606c6f545d91acdb2c1", null ],
+    [ "OnGossipHello", "d4/d9b/a22380.html#a020e8e41b32eb65ff906c9ca934a03fe", null ],
+    [ "OnGossipSelect", "d4/d9b/a22380.html#aba1b13e922873e939b2510b4bc77f49d", null ]
 ];

@@ -1,7 +1,6 @@
 var a21828 =
 [
-    [ "npc_thassarianAI", "d3/d09/a21828.html#a92e873dc3aa97f81919225ce75a5f894", null ],
-    [ "Reset", "d3/d09/a21828.html#a8611ef17700c739dbd5e7a70660f1379", null ],
-    [ "UpdateAI", "d3/d09/a21828.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
-    [ "_events", "d3/d09/a21828.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
+    [ "PrepareSpellScript", "d3/d09/a21828.html#a072a5228690b929af3b65d771bf5f485", null ],
+    [ "Register", "d3/d09/a21828.html#a87235eb9494edd94221f0380e815aa6b", null ],
+    [ "SetDest", "d3/d09/a21828.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
 ];

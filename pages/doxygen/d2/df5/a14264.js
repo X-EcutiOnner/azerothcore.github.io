@@ -1,6 +1,12 @@
 var a14264 =
 [
-    [ "HandleOnHit", "d2/df5/a14264.html#a76b09288d14d399735250607e2105eb3", null ],
-    [ "PrepareSpellScript", "d2/df5/a14264.html#a2270ce546ae286ffa701d094df591aa2", null ],
-    [ "Register", "d2/df5/a14264.html#a710f2a60bf6ae00909d279b98ac6b7d6", null ]
+    [ "npc_chained_spirit", "d2/df5/a14264.html#a5f407e700a2086f971bed0e8c0def0db", null ],
+    [ "DoAction", "d2/df5/a14264.html#a7205ef13ca0d164a9222c049bc582254", null ],
+    [ "JustDied", "d2/df5/a14264.html#a3b405503231173e7ff7aa52e34f63da5", null ],
+    [ "MovementInform", "d2/df5/a14264.html#a469a8fdc4a40857ff1dc0af9ead74d3c", null ],
+    [ "Reset", "d2/df5/a14264.html#a2a8a8a429492511aac697878b5dc4cc3", null ],
+    [ "SetGUID", "d2/df5/a14264.html#a794cf63fabc0c3f7ab9214750fa232a9", null ],
+    [ "UpdateAI", "d2/df5/a14264.html#a38d14b69c71bf2902a916028580fbfad", null ],
+    [ "instance", "d2/df5/a14264.html#ad5dd92208d6a23954fef6348f4abbd23", null ],
+    [ "revivePlayerGUID", "d2/df5/a14264.html#a193fddae1d3eb84bc36842adbb1fe86a", null ]
 ];

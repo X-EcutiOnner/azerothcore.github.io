@@ -1,6 +1,7 @@
 var a17884 =
 [
-    [ "IgbTeleportOnVictoryCheck", "d6/dc8/a17884.html#a29ee8cac93b9920e598da9205406e608", null ],
-    [ "operator()", "d6/dc8/a17884.html#acf85943e238179e911434358f1593be2", null ],
-    [ "_inst", "d6/dc8/a17884.html#a015353ecb66da16c697152b7ad3c527e", null ]
+    [ "FilterTargets", "d6/dc8/a17884.html#a77afd0b56c9bddd74999d5df30457b7f", null ],
+    [ "HandleDummy", "d6/dc8/a17884.html#a04166e4e5a4ba082755433555855cb30", null ],
+    [ "PrepareSpellScript", "d6/dc8/a17884.html#aaefa58014db12fb76e3416ae807c69e8", null ],
+    [ "Register", "d6/dc8/a17884.html#a497ee30669d45341023abe549c91ddaf", null ]
 ];

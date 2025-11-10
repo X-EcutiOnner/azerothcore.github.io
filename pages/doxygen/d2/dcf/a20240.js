@@ -1,6 +1,5 @@
 var a20240 =
 [
-    [ "boss_freya_elder_stonebarkAI", "d7/da3/a20244.html", "d7/da3/a20244" ],
-    [ "boss_freya_elder_stonebark", "d2/dcf/a20240.html#a9c90c504d78456580ae657a42fac4075", null ],
-    [ "GetAI", "d2/dcf/a20240.html#a0b529bb8755c56046c40b620ef4b7448", null ]
+    [ "boss_freya_iron_rootAI", "d2/dcf/a20240.html#a5e982f5f41433f43a7a0e1d18e009b7b", null ],
+    [ "JustDied", "d2/dcf/a20240.html#ad35297f0fa2039749b89d38c2b4f08b9", null ]
 ];

@@ -1,6 +1,6 @@
 var a17744 =
 [
-    [ "Cooldown", "d9/dbf/a17744.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
-    [ "Entry", "d9/dbf/a17744.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
-    [ "TargetPosition", "d9/dbf/a17744.html#ac47af49622012b4ad40357cadc5214b3", null ]
+    [ "npc_high_overlord_saurfang_igbAI", "d0/d6e/a17748.html", "d0/d6e/a17748" ],
+    [ "npc_high_overlord_saurfang_igb", "d9/dbf/a17744.html#ae68d42f65851a753874705511bb83330", null ],
+    [ "GetAI", "d9/dbf/a17744.html#a54b6da97a40665232d28a20bac9b7ef3", null ]
 ];

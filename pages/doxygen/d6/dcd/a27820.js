@@ -1,9 +1,6 @@
 var a27820 =
 [
-    [ "npc_chicken_cluckAI", "d6/dcd/a27820.html#a4f2eaa107e2a8b4900fac54780ac9693", null ],
-    [ "JustEngagedWith", "d6/dcd/a27820.html#a854eae196c68cb1e4dd1c1773870ef9a", null ],
-    [ "ReceiveEmote", "d6/dcd/a27820.html#aa5d6d3ea3ad4d0f81781581a39933fc8", null ],
-    [ "Reset", "d6/dcd/a27820.html#a5a32f458a7f09282e7ac53fa7d6255b4", null ],
-    [ "UpdateAI", "d6/dcd/a27820.html#a86c8f74d0a55b9a041a789f16de8189d", null ],
-    [ "ResetFlagTimer", "d6/dcd/a27820.html#a0d0507ae7a1eca369df288515856e1b5", null ]
+    [ "npc_garments_of_questsAI", "d5/d7f/a27824.html", "d5/d7f/a27824" ],
+    [ "npc_garments_of_quests", "d6/dcd/a27820.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
+    [ "GetAI", "d6/dcd/a27820.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
 ];

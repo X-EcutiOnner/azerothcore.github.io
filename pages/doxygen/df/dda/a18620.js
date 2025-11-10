@@ -1,5 +1,5 @@
 var a18620 =
 [
-    [ "npc_icc_lk_checktargetAI", "df/dda/a18620.html#a9a5953a9353be61a3fa96eaf7df7c489", null ],
-    [ "CanAIAttack", "df/dda/a18620.html#a4dfce75e23f1093c3de0ce75b049a20a", null ]
+    [ "achievement_been_waiting_long_time", "df/dda/a18620.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
+    [ "OnCheck", "df/dda/a18620.html#a5e72304220d3a649d2182cb287215da6", null ]
 ];

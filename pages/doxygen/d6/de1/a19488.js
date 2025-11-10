@@ -1,6 +1,8 @@
 var a19488 =
 [
-    [ "npc_hover_diskAI", "dd/d36/a19492.html", "dd/d36/a19492" ],
-    [ "npc_hover_disk", "d6/de1/a19488.html#af0ab534387a2af4e168915801ee855e5", null ],
-    [ "GetAI", "d6/de1/a19488.html#adbe9285126089ca998e9b6360f42c553", null ]
+    [ "FilterTargets", "d6/de1/a19488.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
+    [ "Load", "d6/de1/a19488.html#a639105c26214d9887b84a482ca93eb26", null ],
+    [ "PrepareSpellScript", "d6/de1/a19488.html#a354ae20be436528b16095d4cd8d37859", null ],
+    [ "Register", "d6/de1/a19488.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
+    [ "DrakeGUID", "d6/de1/a19488.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
 ];

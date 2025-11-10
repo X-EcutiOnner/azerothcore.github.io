@@ -1,6 +1,7 @@
 var a13716 =
 [
-    [ "instance_uldaman_InstanceMapScript", "d6/d48/a13720.html", "d6/d48/a13720" ],
-    [ "instance_uldaman", "df/d05/a13716.html#a854807db729d15aa4a09aad051fe3bda", null ],
-    [ "GetInstanceScript", "df/d05/a13716.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
+    [ "HandleScriptEffect", "df/d05/a13716.html#aa537704c2066df4f5b4c60a775026a83", null ],
+    [ "PrepareSpellScript", "df/d05/a13716.html#ac500902c22102ebfc6dcf6f78f0dd8c1", null ],
+    [ "Register", "df/d05/a13716.html#a1d9cfdc65bd5ae76376e709d0ac891c0", null ],
+    [ "Validate", "df/d05/a13716.html#a9ef5a491b5a06c31cdb0249dc086e32f", null ]
 ];

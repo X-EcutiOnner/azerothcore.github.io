@@ -1,6 +1,6 @@
 var a18152 =
 [
-    [ "OnRemove", "df/dab/a18152.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
-    [ "PrepareAuraScript", "df/dab/a18152.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
-    [ "Register", "df/dab/a18152.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
+    [ "npc_little_oozeAI", "d1/d64/a18156.html", "d1/d64/a18156" ],
+    [ "npc_little_ooze", "df/dab/a18152.html#a9b0849057c1d3dd9f6507b9c80e67a66", null ],
+    [ "GetAI", "df/dab/a18152.html#a3e56c6dbad6239485897655a4bfbbe07", null ]
 ];

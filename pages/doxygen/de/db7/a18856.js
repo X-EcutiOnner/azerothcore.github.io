@@ -1,7 +1,6 @@
 var a18856 =
 [
-    [ "npc_captain_arnathAI", "de/db7/a18856.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "de/db7/a18856.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "de/db7/a18856.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "de/db7/a18856.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "npc_frostwing_vrykulAI", "d0/db9/a18860.html", "d0/db9/a18860" ],
+    [ "npc_frostwing_vrykul", "de/db7/a18856.html#ab915aa094ddebd9201a1c626e6427409", null ],
+    [ "GetAI", "de/db7/a18856.html#a11678e59b6db9a41c7b6a575339995fd", null ]
 ];

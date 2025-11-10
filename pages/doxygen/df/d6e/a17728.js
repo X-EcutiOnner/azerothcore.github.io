@@ -1,7 +1,7 @@
 var a17728 =
 [
-    [ "HandleScript", "df/d6e/a17728.html#a276018baa590b942d90c457faea10040", null ],
-    [ "PrepareSpellScript", "df/d6e/a17728.html#a0bdef74dbd65d938eb5eac32f6612fe1", null ],
-    [ "Register", "df/d6e/a17728.html#a7afc131b5dd31ec6b225fdd38f0edf34", null ],
-    [ "Validate", "df/d6e/a17728.html#a4d16e1aec2b24cd70366308f25619cf2", null ]
+    [ "DelayedMovementEvent", "df/d6e/a17728.html#a21241cde30f66ae42edb311542f7405c", null ],
+    [ "Execute", "df/d6e/a17728.html#a8287761226ee671905151891779b6efb", null ],
+    [ "_dest", "df/d6e/a17728.html#a9a0cd9830509ffdecd98ac8231350d58", null ],
+    [ "_owner", "df/d6e/a17728.html#a046942728282a997068de447271f3cbe", null ]
 ];

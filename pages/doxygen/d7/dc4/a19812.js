@@ -1,9 +1,8 @@
 var a19812 =
 [
-    [ "boss_sjonnir_malformed_oozeAI", "d7/dc4/a19812.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
-    [ "JustEngagedWith", "d7/dc4/a19812.html#a9e6527bc46d7b685d938833d18796cee", null ],
-    [ "MoveInLineOfSight", "d7/dc4/a19812.html#a7449e135f088a2d4b22a423c71118093", null ],
-    [ "MovementInform", "d7/dc4/a19812.html#ac04d90e974f85282737bb5081a123106", null ],
-    [ "UpdateAI", "d7/dc4/a19812.html#afccd77c8e90d129fb3a347205a2102db", null ],
-    [ "events", "d7/dc4/a19812.html#a73c135ec94b41a752fc203c5e20128d0", null ]
+    [ "dark_rune_stormcallerAI", "d7/dc4/a19812.html#ad889fb0c50e879c958c9b8bb681e4bf7", null ],
+    [ "JustEngagedWith", "d7/dc4/a19812.html#a7ddfb8afac3ff28a84b26255628fab50", null ],
+    [ "Reset", "d7/dc4/a19812.html#afa9cc2e1a9f7d21cd885479e9afdcd12", null ],
+    [ "UpdateAI", "d7/dc4/a19812.html#adbd245fc5180dc7c78704595a9592864", null ],
+    [ "events", "d7/dc4/a19812.html#aa7d8d1d075eeb03952b47cc16846a3db", null ]
 ];

@@ -1,5 +1,6 @@
 var a17792 =
 [
-    [ "npc_zafod_boomboxAI", "dd/dd8/a17792.html#a6540d8f5787ce1da211123721ef659f3", null ],
-    [ "sGossipSelect", "dd/dd8/a17792.html#a6378748a168e4e668f696bd9c6dfbc31", null ]
+    [ "npc_gunship_boarding_add_realAI", "d0/d53/a17796.html", "d0/d53/a17796" ],
+    [ "npc_gunship_boarding_add", "dd/dd8/a17792.html#aa80871f80bae7186d3665f73d757e108", null ],
+    [ "GetAI", "dd/dd8/a17792.html#ad7e173bffccca6d852ba545427235447", null ]
 ];

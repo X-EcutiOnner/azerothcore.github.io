@@ -1,6 +1,8 @@
 var a19892 =
 [
-    [ "npc_collapsing_starAI", "da/dc0/a19892.html#ac389b380a8f315ae50a8cd809393a773", null ],
-    [ "DamageTaken", "da/dc0/a19892.html#a424fac98093eb9d02cda5027523ad06a", null ],
-    [ "JustSummoned", "da/dc0/a19892.html#ae70fcb66171fe5f87d96aaf2f52e35bc", null ]
+    [ "HandlePeriodic", "da/dc0/a19892.html#a2724a85983561a14db8b06ae492ead55", null ],
+    [ "OnRemove", "da/dc0/a19892.html#a6d0f941f30d8c850e48396fffd13768d", null ],
+    [ "PrepareAuraScript", "da/dc0/a19892.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
+    [ "Register", "da/dc0/a19892.html#a85270947972be9c299a642b31969ef68", null ],
+    [ "Validate", "da/dc0/a19892.html#a91ebb4e69d02deb5129965f543c474d1", null ]
 ];

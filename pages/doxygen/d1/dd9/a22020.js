@@ -1,15 +1,7 @@
 var a22020 =
 [
-    [ "npc_q24545_lich_kingAI", "d1/dd9/a22020.html#abebe71c6cfb705ce4409dd7fae3842e3", null ],
-    [ "CleanAll", "d1/dd9/a22020.html#a2720994f88a2706a2f0b4fb361f81f2c", null ],
-    [ "JustSummoned", "d1/dd9/a22020.html#a6049433795be30eb31e240a4939ad42f", null ],
-    [ "Reset", "d1/dd9/a22020.html#aebd396de51edef790cd0b599c94f78a0", null ],
-    [ "SetData", "d1/dd9/a22020.html#a8ee3a4f85aebe9b9a8e18858b76042a6", null ],
-    [ "SetGUID", "d1/dd9/a22020.html#ac7c41ebfa7979907aea246af20bcf368", null ],
-    [ "SpellHitTarget", "d1/dd9/a22020.html#adb8be583a14c8d0951b45dc027cf31d9", null ],
-    [ "SummonedCreatureDespawn", "d1/dd9/a22020.html#ae8049cc5b58c6647b37941fb98c51fe5", null ],
-    [ "UpdateAI", "d1/dd9/a22020.html#a24f17e0954e498e4a4b73b4cdffea6a3", null ],
-    [ "events", "d1/dd9/a22020.html#a3e89e187c08f45a51fb69b647dcc766d", null ],
-    [ "playerGUID", "d1/dd9/a22020.html#ac84b9efb3ee2eaa2160afe5d0217a884", null ],
-    [ "summons", "d1/dd9/a22020.html#a1de76ab7f3304f8373c633fa7d0aa533", null ]
+    [ "FilterTargets", "d1/dd9/a22020.html#af62588a225f0b701a0f9321677ae22b8", null ],
+    [ "HandleScript", "d1/dd9/a22020.html#ad68fad08b2613de096e504bb7dea61cd", null ],
+    [ "PrepareSpellScript", "d1/dd9/a22020.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
+    [ "Register", "d1/dd9/a22020.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
 ];

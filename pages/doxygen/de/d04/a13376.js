@@ -1,7 +1,6 @@
 var a13376 =
 [
-    [ "HandleScript", "de/d04/a13376.html#ab705220b48be16090107135f9e2272cf", null ],
-    [ "PrepareSpellScript", "de/d04/a13376.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
-    [ "Register", "de/d04/a13376.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
-    [ "Validate", "de/d04/a13376.html#ad1d90693a427a52fa728e5ae455932a3", null ]
+    [ "boss_baroness_anastariAI", "da/d4d/a13380.html", "da/d4d/a13380" ],
+    [ "boss_baroness_anastari", "de/d04/a13376.html#a60f04c10d9b942cacf74a1dc8364dbbe", null ],
+    [ "GetAI", "de/d04/a13376.html#a38073f80afbceb5535cc18ab524378a6", null ]
 ];

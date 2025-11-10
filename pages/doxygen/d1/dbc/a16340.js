@@ -1,10 +1,6 @@
 var a16340 =
 [
-    [ "spell_halion_marks_aura", "d1/dbc/a16340.html#a3351eb9a4b497e1d92bd0021c0fa01f8", null ],
-    [ "BeforeDispel", "d1/dbc/a16340.html#a48fb48567091c8fd9d365ea3ff8730cc", null ],
-    [ "OnRemove", "d1/dbc/a16340.html#a1c9fefecd33db13e06f267c41e6b0375", null ],
-    [ "PrepareAuraScript", "d1/dbc/a16340.html#acd5285ea5c378b31526440d263c54770", null ],
-    [ "Register", "d1/dbc/a16340.html#ac84d4ab83e56314ff15ee363cafd2feb", null ],
-    [ "_removeSpellId", "d1/dbc/a16340.html#aeef9d928c6a8739337251e144558b169", null ],
-    [ "_summonSpellId", "d1/dbc/a16340.html#a01e8677e4f55dbb55cca1bf16dec48b2", null ]
+    [ "HandlePeriodic", "d1/dbc/a16340.html#a7753587518171689f86f3f76269c1b8a", null ],
+    [ "PrepareAuraScript", "d1/dbc/a16340.html#aa73351e7200bee94b0068fb8dabfada5", null ],
+    [ "Register", "d1/dbc/a16340.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
 ];

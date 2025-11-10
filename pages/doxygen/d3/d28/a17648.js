@@ -1,12 +1,7 @@
 var a17648 =
 [
-    [ "npc_high_overlord_saurfangAI", "d3/d28/a17648.html#a5c31259d9eb26e09d2b645d826e75328", null ],
-    [ "DoAction", "d3/d28/a17648.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
-    [ "MovementInform", "d3/d28/a17648.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
-    [ "Reset", "d3/d28/a17648.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
-    [ "SpellHit", "d3/d28/a17648.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
-    [ "UpdateAI", "d3/d28/a17648.html#a92124e7490a066bf63836397a3bdc71b", null ],
-    [ "_events", "d3/d28/a17648.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
-    [ "_guardList", "d3/d28/a17648.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
-    [ "_instance", "d3/d28/a17648.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
+    [ "HandleDummy", "d3/d28/a17648.html#a89c0706f21fe92fd443c3638181044ec", null ],
+    [ "PrepareSpellScript", "d3/d28/a17648.html#a957e29d2458fd90228ef9c53e997c642", null ],
+    [ "Register", "d3/d28/a17648.html#a250c95310503cd59d73e45a9b9372268", null ],
+    [ "Validate", "d3/d28/a17648.html#a1c67a262eb95def51661919a3bad3437", null ]
 ];

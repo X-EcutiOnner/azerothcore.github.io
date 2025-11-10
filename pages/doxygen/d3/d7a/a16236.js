@@ -1,6 +1,5 @@
 var a16236 =
 [
-    [ "boss_baltharus_the_warbornAI", "da/de1/a16240.html", "da/de1/a16240" ],
-    [ "boss_baltharus_the_warborn", "d3/d7a/a16236.html#aababb8862273d60f140dce675131783d", null ],
-    [ "GetAI", "d3/d7a/a16236.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
+    [ "at_baltharus_plateau", "d3/d7a/a16236.html#ac7acc8816b298446ac9bb8d6b82f27b6", null ],
+    [ "OnTrigger", "d3/d7a/a16236.html#aea08e30eb57d5d84b78b8891c4a45afb", null ]
 ];

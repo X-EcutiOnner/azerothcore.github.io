@@ -1,20 +1,12 @@
 var a17776 =
 [
-    [ "npc_high_overlord_saurfang_igbAI", "d3/dad/a17776.html#a1fce8cbcb5259774c0019c19bae334d0", null ],
-    [ "AttackStart", "d3/dad/a17776.html#a7c04475d2de487a26aa3e7f58ad219e5", null ],
-    [ "CanAIAttack", "d3/dad/a17776.html#a58b5476b42ea1d249cb3795da86509db", null ],
-    [ "DamageTaken", "d3/dad/a17776.html#ae2715e5410ddf25734469594f72c7373", null ],
-    [ "DoAction", "d3/dad/a17776.html#acf222bf3f1204215918e339d57e6ee37", null ],
-    [ "EnterEvadeMode", "d3/dad/a17776.html#a8c66bcf54ba7d2c5a8d89a792e89fc8f", null ],
-    [ "JustEngagedWith", "d3/dad/a17776.html#aa98690c2c7002915c72e68f9136a9ace", null ],
-    [ "SetData", "d3/dad/a17776.html#ae3f9c7ef83cb3841f3081a5c8391ad85", null ],
-    [ "sGossipSelect", "d3/dad/a17776.html#af3f71dfd8888a9d7eccdaff50315bea1", null ],
-    [ "UpdateAI", "d3/dad/a17776.html#adf12312ee9a037b7cdbf384137a8ceb4", null ],
-    [ "_axethrowersYellCooldown", "d3/dad/a17776.html#ad98e613c8d4625687f9ab16979d21707", null ],
-    [ "_controller", "d3/dad/a17776.html#a259a8e82ed7a58f09d546fbcb317ea33", null ],
-    [ "_events", "d3/dad/a17776.html#a132fc1f697d32c76c10766c71948fe01", null ],
-    [ "_firstMageCooldown", "d3/dad/a17776.html#a984e2f3d3cf2b254717e2b4d1418216d", null ],
-    [ "_instance", "d3/dad/a17776.html#aecb488fb2e2682c107072ea66d02ea8f", null ],
-    [ "_rocketeersYellCooldown", "d3/dad/a17776.html#a0435dba6aff5287b1d10420a54a72d28", null ],
-    [ "checkTimer", "d3/dad/a17776.html#a1c610a1cf0ba5a27aeb98d51dff916fa", null ]
+    [ "gunship_npc_AI", "d3/dad/a17776.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
+    [ "EnterEvadeMode", "d3/dad/a17776.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
+    [ "JustDied", "d3/dad/a17776.html#ad40c976be4decd9054dad031a4caab78", null ],
+    [ "MovementInform", "d3/dad/a17776.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
+    [ "SetData", "d3/dad/a17776.html#acfd5e331155d7787ada33acbca73fece", null ],
+    [ "SetSlotInfo", "d3/dad/a17776.html#afdfc3f9add2952f90baf24d55425670f", null ],
+    [ "Index", "d3/dad/a17776.html#ae120874514cf5921136821b820a04da7", null ],
+    [ "Instance", "d3/dad/a17776.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
+    [ "Slot", "d3/dad/a17776.html#a59d237475ae309755d429cfac77d6630", null ]
 ];

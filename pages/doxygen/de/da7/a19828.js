@@ -1,6 +1,6 @@
 var a19828 =
 [
-    [ "dark_rune_protectorsAI", "de/da5/a19832.html", "de/da5/a19832" ],
-    [ "dark_rune_protectors", "de/da7/a19828.html#a14225a2369a8deea416fc640a2d7b075", null ],
-    [ "GetAI", "de/da7/a19828.html#a359e4049b7ec828177d9a36d23e9b4ef", null ]
+    [ "HandleApplyTouch", "de/da7/a19828.html#a0c46c506f78f46f17c0de6caae774316", null ],
+    [ "PrepareSpellScript", "de/da7/a19828.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
+    [ "Register", "de/da7/a19828.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
 ];

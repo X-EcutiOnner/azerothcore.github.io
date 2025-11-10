@@ -1,10 +1,8 @@
 var a26472 =
 [
-    [ "CheckProc", "da/d1b/a26472.html#adce0da60782bcdadbb42ec1c73fddec1", null ],
-    [ "HandleProc", "da/d1b/a26472.html#a82218c6f6319c60c26a7d4ec01b64bf9", null ],
-    [ "Load", "da/d1b/a26472.html#ab9054a6d771022e4bf2b495c30ad8361", null ],
-    [ "PrepareAuraScript", "da/d1b/a26472.html#ab8f483be4d01aa2460c90b043d7a441b", null ],
-    [ "Register", "da/d1b/a26472.html#a4cb08499767ab58f0e525c382b662fbd", null ],
-    [ "Validate", "da/d1b/a26472.html#aa6165f28706d49940dd1f62065631119", null ],
-    [ "_procTarget", "da/d1b/a26472.html#a7b9426e18b454bf631992518c2bdbde0", null ]
+    [ "HandleApplyEffect", "da/d1b/a26472.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
+    [ "Load", "da/d1b/a26472.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
+    [ "PrepareAuraScript", "da/d1b/a26472.html#a6e212284f72320356cfa2f0c2a59999d", null ],
+    [ "Register", "da/d1b/a26472.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
+    [ "Validate", "da/d1b/a26472.html#a985a52f71371443454d6dd36f7fe83b2", null ]
 ];

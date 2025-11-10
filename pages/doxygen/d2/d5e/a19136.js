@@ -1,6 +1,7 @@
 var a19136 =
 [
-    [ "npc_four_car_garageAI", "d9/da4/a19140.html", "d9/da4/a19140" ],
-    [ "npc_four_car_garage", "d2/d5e/a19136.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
-    [ "GetAI", "d2/d5e/a19136.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
+    [ "HandleGameObjectDamage", "d2/d5e/a19136.html#a811edfe01c1784664b5b4253d2305b4e", null ],
+    [ "PrepareSpellScript", "d2/d5e/a19136.html#a0cfedeba2a747777de292b8f30b6752b", null ],
+    [ "Register", "d2/d5e/a19136.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
+    [ "Validate", "d2/d5e/a19136.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
 ];

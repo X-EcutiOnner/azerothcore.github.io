@@ -1,6 +1,6 @@
 var a25100 =
 [
-    [ "CheckProc", "dd/d6e/a25100.html#af742bdfd97c9202d50ed7aa1cf8e7d49", null ],
-    [ "PrepareAuraScript", "dd/d6e/a25100.html#a255a58ad99059ba28ab09a94e7cc683a", null ],
-    [ "Register", "dd/d6e/a25100.html#a4ec4dd2342a5b75c975dc6ffe0b02b79", null ]
+    [ "PrepareAuraScript", "dd/d6e/a25100.html#a8a60db6939ba71ddcf723fb4e48b3146", null ],
+    [ "Register", "dd/d6e/a25100.html#a8ab913cf84f55428d2b0615172f3da3b", null ],
+    [ "AuraEffectHandleModes", "dd/d6e/a25100.html#aed1cfe63d82450b526e154678fb97ac4", null ]
 ];

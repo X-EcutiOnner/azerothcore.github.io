@@ -1,6 +1,7 @@
 var a16184 =
 [
-    [ "boss_sartharion_shadronAI", "db/df8/a16188.html", "db/df8/a16188" ],
-    [ "boss_sartharion_shadron", "d8/db6/a16184.html#ac297719abff8c795af10973492fc6fbe", null ],
-    [ "GetAI", "d8/db6/a16184.html#a95c7184ee7589f01920adc57a7df963b", null ]
+    [ "HandleHit", "d8/db6/a16184.html#abd59d91ab50eb8945a4a00157d9d5564", null ],
+    [ "PrepareSpellScript", "d8/db6/a16184.html#a27549f3cacc1732bbc1e61209e0f4905", null ],
+    [ "Register", "d8/db6/a16184.html#af132eee38064c5123f4e01d52efb9314", null ],
+    [ "Validate", "d8/db6/a16184.html#accad8dfdf29a1475b6f272259f1ed9bf", null ]
 ];

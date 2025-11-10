@@ -1,6 +1,6 @@
 var a15004 =
 [
-    [ "npc_cos_stratholme_citizienAI", "d0/d55/a15008.html", "d0/d55/a15008" ],
-    [ "npc_cos_stratholme_citizien", "df/d94/a15004.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
-    [ "GetAI", "df/d94/a15004.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
+    [ "instance_old_hillsbrad_InstanceMapScript", "d0/d55/a15008.html", "d0/d55/a15008" ],
+    [ "instance_old_hillsbrad", "df/d94/a15004.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
+    [ "GetInstanceScript", "df/d94/a15004.html#a1929c38b1c745b2df1ccaf462113e220", null ]
 ];

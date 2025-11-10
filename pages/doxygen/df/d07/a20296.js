@@ -1,6 +1,7 @@
 var a20296 =
 [
-    [ "boss_freya_nature_bombAI", "d7/d19/a20300.html", "d7/d19/a20300" ],
-    [ "boss_freya_nature_bomb", "df/d07/a20296.html#a18fa6ff862a1b367ac23eb1b7bda0ed4", null ],
-    [ "GetAI", "df/d07/a20296.html#a73e24282c6bb29cf3f6a7da14a4de582", null ]
+    [ "npc_ulduar_saronite_vaporsAI", "df/d07/a20296.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
+    [ "IsSummonedBy", "df/d07/a20296.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
+    [ "JustDied", "df/d07/a20296.html#a5be637500e7b5735d90e19fa40fde467", null ],
+    [ "pInstance", "df/d07/a20296.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
 ];

@@ -1,9 +1,8 @@
 var a19804 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "dd/d48/a19804.html#aac57ae32188c47ca97b7331d62986e66", null ],
-    [ "JustDied", "dd/d48/a19804.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
-    [ "JustEngagedWith", "dd/d48/a19804.html#a772d279407d724477560898559710433", null ],
-    [ "Reset", "dd/d48/a19804.html#a5b4a726aa496923d81c41b038e5f7449", null ],
-    [ "UpdateAI", "dd/d48/a19804.html#a2745ff26c165851c367e080d28652984", null ],
-    [ "events", "dd/d48/a19804.html#a468d45f9b9c2172f326068d59a74121a", null ]
+    [ "dark_rune_protectorsAI", "dd/d48/a19804.html#ae2f3cfd19e565ede132e38f439a930ba", null ],
+    [ "JustEngagedWith", "dd/d48/a19804.html#aa71514efa488ff8f9276cb2a4c166759", null ],
+    [ "Reset", "dd/d48/a19804.html#a88305b8ac016175d61a0387d1888671f", null ],
+    [ "UpdateAI", "dd/d48/a19804.html#a0e27fc91a01362ee58a0eb10fb9a5176", null ],
+    [ "events", "dd/d48/a19804.html#a2836d6f142a322dae0aed9ff6a4888e2", null ]
 ];

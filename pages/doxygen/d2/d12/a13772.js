@@ -1,6 +1,9 @@
 var a13772 =
 [
-    [ "npc_balance_of_light_and_shadowAI", "df/d36/a13776.html", "df/d36/a13776" ],
-    [ "npc_balance_of_light_and_shadow", "d2/d12/a13772.html#a55229e3ea8dd9c52972185b36c08908b", null ],
-    [ "GetAI", "d2/d12/a13772.html#a07e0547e6bf81cc7ff9fe0aa4a851388", null ]
+    [ "npc_partygoer", "d2/d12/a13772.html#af053caedfd1fa8173b875f521d279418", null ],
+    [ "Initialize", "d2/d12/a13772.html#a9012ff95e5cead3c02f9eeb30f29a9f6", null ],
+    [ "Reset", "d2/d12/a13772.html#ad1936099ec5696a2a593e5041b0360c6", null ],
+    [ "UpdateAI", "d2/d12/a13772.html#a423df8a3de7d23221ea4d62a0c65fefc", null ],
+    [ "_events", "d2/d12/a13772.html#ad5095ee005ecb89ca54b0663d41e20ac", null ],
+    [ "_facing", "d2/d12/a13772.html#a9e934091894987ec091b03090bf733e5", null ]
 ];

@@ -1,7 +1,6 @@
 var a21056 =
 [
-    [ "boss_yoggsaron_corruptor_tentacleAI", "d9/d87/a21056.html#a5f8fbd8ac772fad79f809de4d3128574", null ],
-    [ "DoAction", "d9/d87/a21056.html#abac26b3be775eea734403be36cbed4d2", null ],
-    [ "SelectCorruptionTarget", "d9/d87/a21056.html#a1d61b34d31794cd2bdcddfe91dc1103e", null ],
-    [ "UpdateAI", "d9/d87/a21056.html#a0269d1dc655af5680d7074cb093740b8", null ]
+    [ "boss_yoggsaron_influence_tentacleAI", "d9/d87/a21056.html#ae7457ed8084888b1074a44dd9a7ed0c7", null ],
+    [ "DamageTaken", "d9/d87/a21056.html#ad46e93ffb89c9c3ee9bfbe0f27c7117c", null ],
+    [ "JustDied", "d9/d87/a21056.html#ab09c96d167b9502098b9a7a2fa1b82ec", null ]
 ];

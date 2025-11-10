@@ -1,6 +1,6 @@
 var a16444 =
 [
-    [ "npc_memoryAI", "dc/de6/a16448.html", "dc/de6/a16448" ],
-    [ "npc_memory", "d5/d87/a16444.html#acebf31813025d323f9486d6575a60483", null ],
-    [ "GetAI", "d5/d87/a16444.html#ad8e532d029217a06d11ae39810498976", null ]
+    [ "boss_black_knightAI", "dc/de6/a16448.html", "dc/de6/a16448" ],
+    [ "boss_black_knight", "d5/d87/a16444.html#af55a307f282a68bc83e45c6de647ebf4", null ],
+    [ "GetAI", "d5/d87/a16444.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
 ];

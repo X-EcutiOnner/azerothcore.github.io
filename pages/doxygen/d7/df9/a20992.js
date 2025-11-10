@@ -1,6 +1,6 @@
 var a20992 =
 [
-    [ "x", "d7/df9/a20992.html#ae4223168378b602a0a96dbb424a22be4", null ],
-    [ "y", "d7/df9/a20992.html#a30f361d8104e4de44541d75945105963", null ],
-    [ "z", "d7/df9/a20992.html#ae68a79519c35302b89976ac29bb77e26", null ]
+    [ "boss_yoggsaronAI", "d2/d88/a20996.html", "d2/d88/a20996" ],
+    [ "boss_yoggsaron", "d7/df9/a20992.html#a3fa3ada3979b55100b8ca9e21ec655a1", null ],
+    [ "GetAI", "d7/df9/a20992.html#a113eb034acc46a2edd4a84598413a63e", null ]
 ];

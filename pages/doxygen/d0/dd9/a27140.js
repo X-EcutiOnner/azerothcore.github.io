@@ -1,7 +1,7 @@
 var a27140 =
 [
-    [ "HandleApply", "d0/dd9/a27140.html#a046abc4b8afd26d13bcb7140165aed80", null ],
-    [ "HandleRemove", "d0/dd9/a27140.html#ad35716d4210572057fe67d426849931a", null ],
-    [ "PrepareAuraScript", "d0/dd9/a27140.html#a9af96871b8b7ac19de01e316f4350ebf", null ],
-    [ "Register", "d0/dd9/a27140.html#a37c4c881c563882fb72693babe545fc4", null ]
+    [ "FilterTargets", "d0/dd9/a27140.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
+    [ "PrepareSpellScript", "d0/dd9/a27140.html#a954f00317eab544dd57e657368aab7fb", null ],
+    [ "Register", "d0/dd9/a27140.html#a1804684c8685372faf2e88e56b48f5be", null ],
+    [ "Validate", "d0/dd9/a27140.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
 ];

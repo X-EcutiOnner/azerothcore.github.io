@@ -1,5 +1,6 @@
 var a20984 =
 [
-    [ "achievement_xt002_nerf_engineering", "d1/d1b/a20984.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
-    [ "OnCheck", "d1/d1b/a20984.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
+    [ "boss_yoggsaron_guardian_of_ysAI", "d8/deb/a20988.html", "d8/deb/a20988" ],
+    [ "boss_yoggsaron_guardian_of_ys", "d1/d1b/a20984.html#a299b346a4e9ac5190d554702dcf00faf", null ],
+    [ "GetAI", "d1/d1b/a20984.html#a86380b3ad87e0070541d22d3fb74058f", null ]
 ];

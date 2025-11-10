@@ -1,6 +1,8 @@
 var a15352 =
 [
-    [ "OnPeriodic", "d0/d8f/a15352.html#a08dce8b98afadc134166a615b4496151", null ],
-    [ "PrepareAuraScript", "d0/d8f/a15352.html#a9ebb34665b176e4e60f085da65183d8e", null ],
-    [ "Register", "d0/d8f/a15352.html#a6a04dbb7c66324e701a8db0ee0334123", null ]
+    [ "npc_ouro_spawner", "d0/d8f/a15352.html#acb18739e5a1734312ffdda35321e5f34", null ],
+    [ "JustSummoned", "d0/d8f/a15352.html#a722dada5bf97c730462a0de2b082d5ff", null ],
+    [ "MoveInLineOfSight", "d0/d8f/a15352.html#a83c0972db4435ccf1af069574e4056f4", null ],
+    [ "Reset", "d0/d8f/a15352.html#ac1591f1c172bfdda25b020e00cd0835e", null ],
+    [ "hasSummoned", "d0/d8f/a15352.html#a6ac376861c1206cc1551d9fa86c0fc97", null ]
 ];

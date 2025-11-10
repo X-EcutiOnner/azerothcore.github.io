@@ -1,5 +1,5 @@
 var a27316 =
 [
-    [ "achievement_killed_exp_or_honor_target", "da/d47/a27316.html#aad432878c97af698dd1cc4019d716281", null ],
-    [ "OnCheck", "da/d47/a27316.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
+    [ "AreaTrigger_at_stormwright_shelf", "da/d47/a27316.html#a97cdf51a8992b3d9edc138351770fd75", null ],
+    [ "OnTrigger", "da/d47/a27316.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
 ];

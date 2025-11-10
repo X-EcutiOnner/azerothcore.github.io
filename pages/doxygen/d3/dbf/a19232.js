@@ -1,6 +1,6 @@
 var a19232 =
 [
-    [ "npc_boss_gothik_minionAI", "d8/d26/a19236.html", "d8/d26/a19236" ],
-    [ "npc_boss_gothik_minion", "d3/dbf/a19232.html#a6cabeae812639ac179133245d85a0e15", null ],
-    [ "GetAI", "d3/dbf/a19232.html#a8abb1ec265f9eeb646a858bee06cfb92", null ]
+    [ "boss_grobbulus_poison_cloudAI", "d8/d26/a19236.html", "d8/d26/a19236" ],
+    [ "boss_grobbulus_poison_cloud", "d3/dbf/a19232.html#a2bb8ebec0ae79f20602e551f654e0761", null ],
+    [ "GetAI", "d3/dbf/a19232.html#a34c68dd3e58b83c52f270eb1b194f2ed", null ]
 ];

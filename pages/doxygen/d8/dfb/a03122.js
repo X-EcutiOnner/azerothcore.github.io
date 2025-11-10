@@ -1,10 +1,10 @@
 var a03122 =
 [
-    [ "WeeklyQuest", "d6/de1/a19108.html", "d6/de1/a19108" ],
-    [ "RespawnEvent", "d6/d73/a19112.html", "d6/d73/a19112" ],
-    [ "DelayedCastMincharEvent", "d3/d3a/a19116.html", "d3/d3a/a19116" ],
-    [ "instance_icecrown_citadel", "d0/d15/a19120.html", "d0/d15/a19120" ],
-    [ "instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript", "d9/d68/a19124.html", "d9/d68/a19124" ],
+    [ "WeeklyQuest", "d4/d03/a19080.html", "d4/d03/a19080" ],
+    [ "RespawnEvent", "dd/de1/a19084.html", "dd/de1/a19084" ],
+    [ "DelayedCastMincharEvent", "d3/d2d/a19088.html", "d3/d2d/a19088" ],
+    [ "instance_icecrown_citadel", "d0/dbf/a19092.html", "d0/dbf/a19092" ],
+    [ "instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript", "da/d92/a19096.html", "da/d92/a19096" ],
     [ "EventIds", "d8/dfb/a03122.html#acb64662cd19d8282959c12081cb2b4b4", [
       [ "EVENT_DRAGONSPIRE_ROOM_STORE", "d5/d35/a03716.html#acb64662cd19d8282959c12081cb2b4b4ab5e1f4a5290781237c4337916b99a96a", null ],
       [ "EVENT_DRAGONSPIRE_ROOM_CHECK", "d5/d35/a03716.html#acb64662cd19d8282959c12081cb2b4b4adeb0aa4435158cf9a960477680a6cb50", null ],
@@ -1727,7 +1727,6 @@ var a03122 =
       [ "SPELL_FROSTBOLT", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e", null ],
       [ "SPELL_TOUCH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d", null ],
       [ "SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6", null ],
-      [ "SPELL_RAIN_OF_FIRE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca770475c37ddfbb0a8c98a0c8a7c98f0d", null ],
       [ "SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8", null ],
       [ "SPELL_EYE_BEAM", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc", null ],
       [ "SPELL_LIGHTNING_BREATH", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298caba0559b83dfa3b94464ac474a4b62e3e", null ],

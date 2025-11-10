@@ -1,8 +1,5 @@
 var a27636 =
 [
-    [ "go_bellsAI", "d7/da6/a27636.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "d7/da6/a27636.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "d7/da6/a27636.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "d7/da6/a27636.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "d7/da6/a27636.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "item_incendiary_explosives", "d7/da6/a27636.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
+    [ "OnUse", "d7/da6/a27636.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
 ];

@@ -1,8 +1,6 @@
 var a20204 =
 [
-    [ "HandleOnEffectApply", "db/d20/a20204.html#a83ff54727e886161c5568a60833932d1", null ],
-    [ "HandleOnEffectRemove", "db/d20/a20204.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
-    [ "PrepareAuraScript", "db/d20/a20204.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
-    [ "Register", "db/d20/a20204.html#ae07af138c6f9c565799574b4f8343492", null ],
-    [ "Validate", "db/d20/a20204.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
+    [ "boss_freyaAI", "d9/dad/a20208.html", "d9/dad/a20208" ],
+    [ "boss_freya", "db/d20/a20204.html#ae366f60526e7c948dee148cdd12f0752", null ],
+    [ "GetAI", "db/d20/a20204.html#a6a2f5b402e99208a535fc3f23c2a0eb3", null ]
 ];

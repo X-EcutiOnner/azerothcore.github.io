@@ -1,7 +1,5 @@
 var a21232 =
 [
-    [ "HandleEffectPeriodic", "d8/d8d/a21232.html#a2b9426d0a2ce9251632acebb30d0e2b5", null ],
-    [ "PrepareAuraScript", "d8/d8d/a21232.html#a7dca0398e78278c78dd80e9e6ca874e1", null ],
-    [ "Register", "d8/d8d/a21232.html#a74052d7da1523b3c4010465510e5fe04", null ],
-    [ "Validate", "d8/d8d/a21232.html#a587a469c649877f80e8fe80062e8b5d4", null ]
+    [ "AreaTrigger_at_celestial_planetarium_enterance", "d8/d8d/a21232.html#ae1503a754a05a77991d9955a2fb74265", null ],
+    [ "OnTrigger", "d8/d8d/a21232.html#aa7aa93e00170313de251af4e562c422c", null ]
 ];

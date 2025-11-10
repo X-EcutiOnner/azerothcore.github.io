@@ -1,5 +1,6 @@
 var a16820 =
 [
-    [ "boss_eydisAI", "d1/dfc/a16820.html#a0e97e184b2a2f610730cd3d455702955", null ],
-    [ "JustSummoned", "d1/dfc/a16820.html#aa5ae64cfe003a25859364a12cb871199", null ]
+    [ "HandleEffectPeriodic", "d1/dfc/a16820.html#a8775f4e2cb6be96f57596413d560206c", null ],
+    [ "PrepareAuraScript", "d1/dfc/a16820.html#a45118f9887d248a5eb840b945dee5b79", null ],
+    [ "Register", "d1/dfc/a16820.html#ad1b2b8e1dca62c31ec2b071ae4ca2f35", null ]
 ];

@@ -1,5 +1,5 @@
 var a28376 =
 [
-    [ "cinematicCamera", "dc/d68/a28376.html#a87e5f6de255dc0c75423eace2768a1dc", null ],
-    [ "Id", "dc/d68/a28376.html#a9c3dc0e60728c1c76594385d6860f265", null ]
+    [ "BitIndex", "dc/d68/a28376.html#a55fdf966aec0ca687cd6074683af6e7f", null ],
+    [ "ItemId", "dc/d68/a28376.html#a998c1f6dadb823fbba56bb2154396635", null ]
 ];

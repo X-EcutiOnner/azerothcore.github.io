@@ -1,7 +1,6 @@
 var a20352 =
 [
-    [ "HandleAfterHit", "d7/d46/a20352.html#a75953cbb3a288fd373e602ed07d84441", null ],
-    [ "PrepareSpellScript", "d7/d46/a20352.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
-    [ "Register", "d7/d46/a20352.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
-    [ "Validate", "d7/d46/a20352.html#aea2b951dd2353800958f654df58d8fd8", null ]
+    [ "npc_ulduar_icicleAI", "d1/d33/a20356.html", "d1/d33/a20356" ],
+    [ "npc_ulduar_icicle", "d7/d46/a20352.html#a1ab79b2fa3e64779f62b96c195222683", null ],
+    [ "GetAI", "d7/d46/a20352.html#a71dd83d544307b11bcde58f9aeea097c", null ]
 ];

@@ -1,7 +1,8 @@
 var a14880 =
 [
-    [ "OnPeriodic", "dc/dda/a14880.html#a4ed63f32afe3831d7fb08333ff1d379f", null ],
-    [ "PrepareAuraScript", "dc/dda/a14880.html#a74be4e2b0f9c6254a87a7cfb8159fc9b", null ],
-    [ "Register", "dc/dda/a14880.html#aeb388d608830aeb3b30f707304403b41", null ],
-    [ "Validate", "dc/dda/a14880.html#af27768000c5c3232a1264f4f1f2bd7b3", null ]
+    [ "hyjalTyrandeAI", "dc/dda/a14880.html#ac2f5449b60cd137dbc1f6ddc8afe5309", null ],
+    [ "JustDied", "dc/dda/a14880.html#af5c7b843b8e1a7c0864b55853bc62097", null ],
+    [ "JustEngagedWith", "dc/dda/a14880.html#a158589b567d22c8f6e0be462bad8299d", null ],
+    [ "Reset", "dc/dda/a14880.html#a5ea52a1ee3730630d1efbdac4ad24c80", null ],
+    [ "UpdateAI", "dc/dda/a14880.html#a9e825f9d87df6227b73eb965488eff8a", null ]
 ];

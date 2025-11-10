@@ -1,8 +1,7 @@
 var a23020 =
 [
-    [ "HandleScriptEffect", "d2/d9f/a23020.html#a8e5b81581fff787f691521d03fed66fc", null ],
-    [ "Load", "d2/d9f/a23020.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
-    [ "PrepareSpellScript", "d2/d9f/a23020.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
-    [ "Register", "d2/d9f/a23020.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
-    [ "Validate", "d2/d9f/a23020.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
+    [ "boss_lady_malande", "d2/d9f/a23020.html#a8cb693d203463dcba809e7ffc23c6868", null ],
+    [ "AttackStart", "d2/d9f/a23020.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
+    [ "JustEngagedWith", "d2/d9f/a23020.html#af4b5f376e387851e15517de03636acde", null ],
+    [ "UpdateAI", "d2/d9f/a23020.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
 ];

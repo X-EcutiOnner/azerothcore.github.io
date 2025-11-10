@@ -1,6 +1,6 @@
 var a22060 =
 [
-    [ "npc_q24545_vegardAI", "dd/d61/a22064.html", "dd/d61/a22064" ],
-    [ "npc_q24545_vegard", "dc/d59/a22060.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
-    [ "GetAI", "dc/d59/a22060.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
+    [ "npc_torturer_lecraftAI", "dd/d61/a22064.html", "dd/d61/a22064" ],
+    [ "npc_torturer_lecraft", "dc/d59/a22060.html#a789f8bdafe96d5cb01225b940a80c651", null ],
+    [ "GetAI", "dc/d59/a22060.html#abdc8b33cd820c5cd14c999e7407897fe", null ]
 ];

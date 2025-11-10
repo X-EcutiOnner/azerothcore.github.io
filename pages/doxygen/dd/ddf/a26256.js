@@ -1,7 +1,7 @@
 var a26256 =
 [
-    [ "OnRemove", "dd/ddf/a26256.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
-    [ "PrepareAuraScript", "dd/ddf/a26256.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
-    [ "Register", "dd/ddf/a26256.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
-    [ "Validate", "dd/ddf/a26256.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
+    [ "CalculateSpellAmount", "dd/ddf/a26256.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
+    [ "CheckCast", "dd/ddf/a26256.html#af043f7ee0f80baf667e64225effd57d1", null ],
+    [ "PrepareSpellScript", "dd/ddf/a26256.html#a233ac4020722078d865cf980d7fa76cf", null ],
+    [ "Register", "dd/ddf/a26256.html#a3648ecd94430e21dd014795156c1eb98", null ]
 ];

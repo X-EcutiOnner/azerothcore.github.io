@@ -1,13 +1,9 @@
 var a14548 =
 [
-    [ "go_firework_show", "da/dea/a14548.html#a42123490a9752f2187023f3f3ae56333", null ],
-    [ "InitShow", "da/dea/a14548.html#a27dc501894beaeb88b2ff0d940c7d129", null ],
-    [ "SpawnNextFirework", "da/dea/a14548.html#a6e9ce552bf040f2acce49c2e3eb70bab", null ],
-    [ "StartShow", "da/dea/a14548.html#af637d1436655e44738b55040196533d3", null ],
-    [ "StopShow", "da/dea/a14548.html#ad84f3dbb4692d03933d972ec7be6287d", null ],
-    [ "UpdateAI", "da/dea/a14548.html#ad1bcb7a47652d62ed8633abdafc56881", null ],
-    [ "_curIdx", "da/dea/a14548.html#a92613337cf2473e585b98b92bdcbce92", null ],
-    [ "_scheduler", "da/dea/a14548.html#a6248d36087d8fae9cfa47f473613f886", null ],
-    [ "_show", "da/dea/a14548.html#a4392d7e2cffa2342b53092cbd9ccea3f", null ],
-    [ "_showRunning", "da/dea/a14548.html#ae7e870de692c61630d0fd2f44d487aa4", null ]
+    [ "spell_hallows_end_put_costume", "da/dea/a14548.html#ac1fcd0a32142744f353cdc01bce740e3", null ],
+    [ "HandleScript", "da/dea/a14548.html#ac4be92e73c08c06c1c9954547bfe8013", null ],
+    [ "PrepareSpellScript", "da/dea/a14548.html#ac0e4692be1527f052a23ed52af32d042", null ],
+    [ "Register", "da/dea/a14548.html#ac38299892d02c497e3bbae3c73a095ab", null ],
+    [ "_femaleSpell", "da/dea/a14548.html#a5ccb30abd83ed1d0be104bffc91deca2", null ],
+    [ "_maleSpell", "da/dea/a14548.html#af9b285133389942bea6738e518d34e48", null ]
 ];

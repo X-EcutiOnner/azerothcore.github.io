@@ -1,8 +1,7 @@
 var a25924 =
 [
-    [ "HandleProc", "dc/d4a/a25924.html#ad92c7804b26bd29d135e55c8adad9093", null ],
-    [ "OnRemove", "dc/d4a/a25924.html#afa8e065ed835243f3ebb95c10792adf8", null ],
-    [ "PrepareAuraScript", "dc/d4a/a25924.html#a5e986f77b23fd0402089ea36f0360c79", null ],
-    [ "Register", "dc/d4a/a25924.html#a29d66b9790e3f7dfffb5dc398f26f9fb", null ],
-    [ "Validate", "dc/d4a/a25924.html#a51f81afec6ff0918530208d9de9dae24", null ]
+    [ "HandleDummy", "dc/d4a/a25924.html#a7a8016e1403caa0432242c5c3240f107", null ],
+    [ "PrepareSpellScript", "dc/d4a/a25924.html#ae2d2de36cceb037006eb4126f8e1778c", null ],
+    [ "Register", "dc/d4a/a25924.html#abd09f5df3f31af619f24214f90791a53", null ],
+    [ "Validate", "dc/d4a/a25924.html#ab14aedfdb61d54334f60e57968fcf081", null ]
 ];

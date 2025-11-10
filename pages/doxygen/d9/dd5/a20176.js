@@ -1,7 +1,8 @@
 var a20176 =
 [
-    [ "FilterTargets", "d9/dd5/a20176.html#a3d864f0428b7e53774d06069037ca5b2", null ],
-    [ "HandleScript", "d9/dd5/a20176.html#aef8bfe18b42bcc9ad70378c0d78354e7", null ],
-    [ "PrepareSpellScript", "d9/dd5/a20176.html#aafbd4751a01b4ce62dc94eee2e47f64f", null ],
-    [ "Register", "d9/dd5/a20176.html#afabe09f8d9a9a10855d6469e8a3db30f", null ]
+    [ "HandleOnEffectApply", "d9/dd5/a20176.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "d9/dd5/a20176.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "d9/dd5/a20176.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "d9/dd5/a20176.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "d9/dd5/a20176.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

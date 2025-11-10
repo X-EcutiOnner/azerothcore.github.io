@@ -1,5 +1,6 @@
 var a19420 =
 [
-    [ "at_thaddius_entrance", "d8/d00/a19420.html#ad81a60cac337baad82ea526de1d151d1", null ],
-    [ "OnTrigger", "d8/d00/a19420.html#af8635a58d4da0421b72b4451c1ebafc5", null ]
+    [ "boss_malygosAI", "d2/dc7/a19424.html", "d2/dc7/a19424" ],
+    [ "boss_malygos", "d8/d00/a19420.html#aeac3c63d4ccd2947a6f7e4c007dc6aa1", null ],
+    [ "GetAI", "d8/d00/a19420.html#a9e1d821311fa8b92318a99ea79ddb1e3", null ]
 ];

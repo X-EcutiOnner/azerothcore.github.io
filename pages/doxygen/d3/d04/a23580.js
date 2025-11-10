@@ -1,5 +1,6 @@
 var a23580 =
 [
-    [ "at_quagmirran_lair", "d3/d04/a23580.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
-    [ "OnTrigger", "d3/d04/a23580.html#aa0aab42516efaf842923b8a820942ac4", null ]
+    [ "instance_steam_vault_InstanceMapScript", "d3/d04/a23580.html#a1ca8d6b10fabe1a8b829dbf62b77ed51", null ],
+    [ "OnGameObjectCreate", "d3/d04/a23580.html#ace71fc6f1d7bc4b49bc2a2507f481fc2", null ],
+    [ "SetBossState", "d3/d04/a23580.html#ab1e344fbf169ee40f28741217f3dca14", null ]
 ];

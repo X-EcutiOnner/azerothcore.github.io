@@ -1,6 +1,6 @@
 var a17512 =
 [
-    [ "npc_dark_nucleusAI", "d3/d02/a17516.html", "d3/d02/a17516" ],
-    [ "npc_dark_nucleus", "d1/d80/a17512.html#a14459f4f41ef568decbc952fdcd4ffd5", null ],
-    [ "GetAI", "d1/d80/a17512.html#a1f59ae45c1a84a6faca5a8bb62fc16fc", null ]
+    [ "AddExtraDamage", "d1/d80/a17512.html#adeedfdd7555dfd009c99db6f002f7488", null ],
+    [ "PrepareSpellScript", "d1/d80/a17512.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
+    [ "Register", "d1/d80/a17512.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
 ];

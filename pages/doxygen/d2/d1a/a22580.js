@@ -1,7 +1,9 @@
 var a22580 =
 [
-    [ "npc_wg_quest_giver", "d2/d1a/a22580.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "d2/d1a/a22580.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "d2/d1a/a22580.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "d2/d1a/a22580.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "HandleFinish", "d2/d1a/a22580.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
+    [ "Load", "d2/d1a/a22580.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
+    [ "PrepareSpellScript", "d2/d1a/a22580.html#a8326b3f9f78aab65225e81d274cc37df", null ],
+    [ "Register", "d2/d1a/a22580.html#a749858f56e15a0bb6074d15ba166625d", null ],
+    [ "Validate", "d2/d1a/a22580.html#a64005c52e7112c466f6206b7f6c847c0", null ],
+    [ "handled", "d2/d1a/a22580.html#a7afe3007a016cb553f437544f8fd6f89", null ]
 ];

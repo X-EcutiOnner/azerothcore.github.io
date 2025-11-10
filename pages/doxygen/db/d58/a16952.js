@@ -1,5 +1,6 @@
 var a16952 =
 [
-    [ "achievement_consumption_junction", "db/d58/a16952.html#aab08732c13f41e0e8d27e9f482bd7351", null ],
-    [ "OnCheck", "db/d58/a16952.html#a14dae1bf9d4d7c79f11de40b372f353e", null ]
+    [ "npc_fos_corrupted_soul_fragmentAI", "d9/d12/a16956.html", "d9/d12/a16956" ],
+    [ "npc_fos_corrupted_soul_fragment", "db/d58/a16952.html#a4caefccfdfee2e906eb94e34bceb064c", null ],
+    [ "GetAI", "db/d58/a16952.html#aed663e0a313223fcaa988b89b1b02df3", null ]
 ];

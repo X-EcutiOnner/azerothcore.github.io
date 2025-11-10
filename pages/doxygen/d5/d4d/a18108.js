@@ -1,7 +1,6 @@
 var a18108 =
 [
-    [ "HandleExtraEffect", "d5/d4d/a18108.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
-    [ "PrepareAuraScript", "d5/d4d/a18108.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
-    [ "Register", "d5/d4d/a18108.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
-    [ "Validate", "d5/d4d/a18108.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
+    [ "HandleScript", "d5/d4d/a18108.html#abd766c298f8aa363d28198b6a5d7e374", null ],
+    [ "PrepareSpellScript", "d5/d4d/a18108.html#a5a4e7d674c09ebbbc9d918cf877418a3", null ],
+    [ "Register", "d5/d4d/a18108.html#ae9bd26c97b3dc9c1af96304e3c67d532", null ]
 ];

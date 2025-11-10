@@ -1,7 +1,10 @@
 var a17996 =
 [
-    [ "OnPeriodic", "d7/d91/a17996.html#a402e6c1a23070e3cef9b66ca0992d1af", null ],
-    [ "PrepareAuraScript", "d7/d91/a17996.html#a0e87dae1be4f69e6412129f14056eb79", null ],
-    [ "Register", "d7/d91/a17996.html#a1b26d102252bf7e0fd480076820d343f", null ],
-    [ "Validate", "d7/d91/a17996.html#a211d52aa385a874730abc43b083f2d22", null ]
+    [ "npc_bone_spikeAI", "d7/d91/a17996.html#a1b54aaa7b5ed142561fbc02e9593e87c", null ],
+    [ "DoAction", "d7/d91/a17996.html#a38b2944fb4e9d7fcc7205423faa8a994", null ],
+    [ "IsSummonedBy", "d7/d91/a17996.html#af2794484ee3ebf0579ce7357d222240d", null ],
+    [ "JustDied", "d7/d91/a17996.html#ae9c8fa649ba9fac74187913d29be9dd6", null ],
+    [ "UpdateAI", "d7/d91/a17996.html#a8eff2bcc6507c65e563ed272977f224e", null ],
+    [ "events", "d7/d91/a17996.html#a6a35900435d41d0603919f29415667a5", null ],
+    [ "hasTrappedUnit", "d7/d91/a17996.html#aeb7236ef0d313fd3799458f3d50276f7", null ]
 ];

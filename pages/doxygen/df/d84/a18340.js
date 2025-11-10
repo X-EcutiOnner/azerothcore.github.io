@@ -1,6 +1,8 @@
 var a18340 =
 [
-    [ "npc_rimefangAI", "df/ded/a18344.html", "df/ded/a18344" ],
-    [ "npc_rimefang", "df/d84/a18340.html#af8ab4e318726b5250de56e3c6d09fcd2", null ],
-    [ "GetAI", "df/d84/a18340.html#a2fce9c36b7ef1861c9dcb5db2cacf438", null ]
+    [ "FilterTargets", "df/d84/a18340.html#a14e392760361b95578bc95de10cdd8aa", null ],
+    [ "HandleForcedCast", "df/d84/a18340.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
+    [ "PrepareSpellScript", "df/d84/a18340.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
+    [ "Register", "df/d84/a18340.html#ac2105e66f692c6a991ac9190b1901505", null ],
+    [ "Validate", "df/d84/a18340.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
 ];

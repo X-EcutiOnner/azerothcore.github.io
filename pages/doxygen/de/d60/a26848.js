@@ -1,9 +1,6 @@
 var a26848 =
 [
-    [ "Absorb", "de/d60/a26848.html#a22b175a7a07f950b5be1aad60e096e4f", null ],
-    [ "CalculateAmount", "de/d60/a26848.html#a9aa29ca1e77a2ef060d94d4d07a7c0e6", null ],
-    [ "Load", "de/d60/a26848.html#acf7851d34fa2368c9e711e8b3943c09b", null ],
-    [ "PrepareAuraScript", "de/d60/a26848.html#ac273b669dc396561d9ec8b523659363f", null ],
-    [ "Register", "de/d60/a26848.html#a656f4770b0f7099f5926a8063f7d740c", null ],
-    [ "absorbPct", "de/d60/a26848.html#a31d7ca52ace4e22652403292969baf55", null ]
+    [ "CheckCast", "de/d60/a26848.html#a97f479cccecc6f37c75b47122b47e333", null ],
+    [ "PrepareSpellScript", "de/d60/a26848.html#a7033ad7dbdab5eec532ea6f860f97427", null ],
+    [ "Register", "de/d60/a26848.html#a4c8f84e1a2cc89064ec5963321fecce7", null ]
 ];

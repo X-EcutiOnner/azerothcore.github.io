@@ -1,14 +1,7 @@
 var a13348 =
 [
-    [ "boss_apothecary_hummelAI", "da/dcc/a13348.html#a75796eb8dc83729f2f726ff51317bd66", null ],
-    [ "DamageTaken", "da/dcc/a13348.html#a2af77fbe7f089b5da20d2ff693cfcedf", null ],
-    [ "DoAction", "da/dcc/a13348.html#a03fb543ba20f92d5528bf4667c457631", null ],
-    [ "JustDied", "da/dcc/a13348.html#a3c7bc5f9aa04f155debbdacafed6163d", null ],
-    [ "Reset", "da/dcc/a13348.html#a31381343d2533af670941baf872b3635", null ],
-    [ "sGossipSelect", "da/dcc/a13348.html#a1a9953c37286fd40c0aa0eebfec3eb86", null ],
-    [ "SummonedCreatureDies", "da/dcc/a13348.html#a8947cbd1c2856334a0d6529bc664f71b", null ],
-    [ "UpdateAI", "da/dcc/a13348.html#a61e4d85ecd592142ba07588512505990", null ],
-    [ "_deadCount", "da/dcc/a13348.html#aaac2018e16b80997f884745732605559", null ],
-    [ "_isDead", "da/dcc/a13348.html#aa3c37a38b95c6b3bec4e3b787d2155df", null ],
-    [ "_phase", "da/dcc/a13348.html#a951d68d4e645860cdb5c5e348bf1fff4", null ]
+    [ "HandleScript", "da/dcc/a13348.html#ab705220b48be16090107135f9e2272cf", null ],
+    [ "PrepareSpellScript", "da/dcc/a13348.html#a8bf22d62d6e7f50315e4c14714b8457f", null ],
+    [ "Register", "da/dcc/a13348.html#ac969bf9f37d02f2b3d78d31d7f8c4625", null ],
+    [ "Validate", "da/dcc/a13348.html#ad1d90693a427a52fa728e5ae455932a3", null ]
 ];

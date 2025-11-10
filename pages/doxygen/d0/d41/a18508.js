@@ -1,6 +1,6 @@
 var a18508 =
 [
-    [ "npc_raging_spiritAI", "de/dae/a18512.html", "de/dae/a18512" ],
-    [ "npc_raging_spirit", "d0/d41/a18508.html#ad1a580bd394adc8c58575b600c16f9db", null ],
-    [ "GetAI", "d0/d41/a18508.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
+    [ "ModDestHeight", "d0/d41/a18508.html#acd31e130e72cd93bee3544ecd2dc38ad", null ],
+    [ "PrepareSpellScript", "d0/d41/a18508.html#a288f8917d73be30234e465778b1f6544", null ],
+    [ "Register", "d0/d41/a18508.html#a69f9cdbfc33ec39f629f08f20484b29e", null ]
 ];

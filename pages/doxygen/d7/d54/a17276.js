@@ -1,6 +1,9 @@
 var a17276 =
 [
-    [ "npc_pos_after_first_bossAI", "d7/dcd/a17280.html", "d7/dcd/a17280" ],
-    [ "npc_pos_after_first_boss", "d7/d54/a17276.html#a76ae57195ceca454928245f2db12f68c", null ],
-    [ "GetAI", "d7/d54/a17276.html#a3f807335f79218ecc70c32f5496267a6", null ]
+    [ "npc_pos_collapsing_icicleAI", "d7/d54/a17276.html#a007e4bad6ef41729d3f7b7ade4285dfe", null ],
+    [ "SpellHitTarget", "d7/d54/a17276.html#aea107ede3b11726b3f7caae590edaf52", null ],
+    [ "UpdateAI", "d7/d54/a17276.html#ade416a422e67ce61e8874320cce7143b", null ],
+    [ "pInstance", "d7/d54/a17276.html#a8c7e2643c2d443b382a60f28ea74266c", null ],
+    [ "timer1", "d7/d54/a17276.html#a5757c27b8c8840cec6ad7282f0cbf51b", null ],
+    [ "timer2", "d7/d54/a17276.html#aee61de504cfb25d9a99651a58ea0b63c", null ]
 ];

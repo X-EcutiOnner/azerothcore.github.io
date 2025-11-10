@@ -1,6 +1,7 @@
 var a18460 =
 [
-    [ "npc_shambling_horror_iccAI", "d8/d54/a18464.html", "d8/d54/a18464" ],
-    [ "npc_shambling_horror_icc", "dc/d8d/a18460.html#a68219e0c6e79f5e7bed1f353d7bb5bcb", null ],
-    [ "GetAI", "dc/d8d/a18460.html#a96fd525fcb34e793b1fc3fc5179e92ec", null ]
+    [ "CheckTargetCount", "dc/d8d/a18460.html#a67a1cbbf74fe91a32a51d9ad5056f048", null ],
+    [ "PrepareSpellScript", "dc/d8d/a18460.html#abd32198867e7f01b21b7de6224a597d4", null ],
+    [ "Register", "dc/d8d/a18460.html#a671bede7fbc68085cd6075f412822869", null ],
+    [ "Validate", "dc/d8d/a18460.html#a2f64421bb71988f06a7e2cb71a097d75", null ]
 ];

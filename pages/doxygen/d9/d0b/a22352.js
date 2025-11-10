@@ -1,6 +1,6 @@
 var a22352 =
 [
-    [ "npc_tournament_training_dummyAI", "d0/d28/a22356.html", "d0/d28/a22356" ],
-    [ "npc_tournament_training_dummy", "d9/d0b/a22352.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
-    [ "GetAI", "d9/d0b/a22352.html#a31257c155c3a49c69771156800cf6340", null ]
+    [ "HandleHealPct", "d9/d0b/a22352.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
+    [ "PrepareSpellScript", "d9/d0b/a22352.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
+    [ "Register", "d9/d0b/a22352.html#a52f253d2a3b9b3890020107b7722ad96", null ]
 ];

@@ -1,9 +1,8 @@
 var a18604 =
 [
-    [ "npc_spirit_wardenAI", "de/de5/a18604.html#a3391168478345d8b5c1fee151f6e9f04", null ],
-    [ "JustDied", "de/de5/a18604.html#aa762c0bea6361107312e8231508dc655", null ],
-    [ "Reset", "de/de5/a18604.html#ad6076663f65f43874feb0ecfc57718a4", null ],
-    [ "UpdateAI", "de/de5/a18604.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
-    [ "_events", "de/de5/a18604.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
-    [ "_instance", "de/de5/a18604.html#a58ebb8e42e77add79fc888248013eb24", null ]
+    [ "npc_lk_spirit_bombAI", "de/de5/a18604.html#a366fb54e68c0e603000183cd68daf6b7", null ],
+    [ "IsSummonedBy", "de/de5/a18604.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
+    [ "MovementInform", "de/de5/a18604.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
+    [ "UpdateAI", "de/de5/a18604.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
+    [ "timer", "de/de5/a18604.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
 ];

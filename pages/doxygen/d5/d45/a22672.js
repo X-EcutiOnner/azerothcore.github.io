@@ -1,6 +1,5 @@
 var a22672 =
 [
-    [ "npc_captured_rageclawAI", "d5/d45/a22672.html#a5bb483a323330b0895f87c5381d73314", null ],
-    [ "Reset", "d5/d45/a22672.html#a9cde0a0e5015334ec8dcd277fcd99dc3", null ],
-    [ "SpellHit", "d5/d45/a22672.html#a2c63911d27435a2271a7c89d9d88318c", null ]
+    [ "OutdoorPvP_eastern_plaguelands", "d5/d45/a22672.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
+    [ "GetOutdoorPvP", "d5/d45/a22672.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
 ];

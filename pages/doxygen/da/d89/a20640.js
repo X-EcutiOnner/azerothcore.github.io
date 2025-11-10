@@ -1,11 +1,9 @@
 var a20640 =
 [
-    [ "npc_ulduar_proximity_mineAI", "da/d89/a20640.html#aa3001a71c8a298be688631d618745495", null ],
-    [ "AttackStart", "da/d89/a20640.html#afe5572c8fd1f8acc64ca57304d8be254", null ],
-    [ "CanAIAttack", "da/d89/a20640.html#a0216f41bf596eb43a9b9eea13152d262", null ],
-    [ "MoveInLineOfSight", "da/d89/a20640.html#afe07e3cd341d6a84592ab9b33e02d6d5", null ],
-    [ "UpdateAI", "da/d89/a20640.html#adadc4c33ff356bd5eed6d82115dc888a", null ],
-    [ "exploded", "da/d89/a20640.html#a1706ff0cfd7192040c32f13a37610c43", null ],
-    [ "timer", "da/d89/a20640.html#a4c743646055b4c95bf379a751eb5892e", null ],
-    [ "timer2", "da/d89/a20640.html#a446b7658fa4c165f43947a05562827b2", null ]
+    [ "npc_ulduar_bot_summon_triggerAI", "da/d89/a20640.html#a60e0706b9285cdf4b25b6f399cad18e9", null ],
+    [ "DoAction", "da/d89/a20640.html#ac5d0e28ee330741da3b287d965537f39", null ],
+    [ "Reset", "da/d89/a20640.html#a91207c04ecee6fc0e906133e054bf51b", null ],
+    [ "UpdateAI", "da/d89/a20640.html#aebec433e806d4f63f5593db0301612b4", null ],
+    [ "option", "da/d89/a20640.html#a98bb19fea19a05127b4b32df039acf05", null ],
+    [ "timer", "da/d89/a20640.html#a118d048557b0ed314180299c3cd2bcbc", null ]
 ];

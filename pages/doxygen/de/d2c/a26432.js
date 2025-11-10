@@ -1,7 +1,7 @@
 var a26432 =
 [
-    [ "FilterTargets", "de/d2c/a26432.html#ad679149423fda97ad5744318520022b1", null ],
-    [ "PrepareSpellScript", "de/d2c/a26432.html#ac57c48690c5ad1b907f56287aee949a4", null ],
-    [ "Register", "de/d2c/a26432.html#aea9b3a6cc4abae242bde76634bcbacd3", null ],
-    [ "Validate", "de/d2c/a26432.html#a2c755f4ce5c3736dd0b0dd79341a4570", null ]
+    [ "HandleScriptEffect", "de/d2c/a26432.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
+    [ "Load", "de/d2c/a26432.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
+    [ "PrepareSpellScript", "de/d2c/a26432.html#ade09cd376d00df8b5e709026e353f409", null ],
+    [ "Register", "de/d2c/a26432.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
 ];

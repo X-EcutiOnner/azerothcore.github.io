@@ -1,8 +1,6 @@
 var a19832 =
 [
-    [ "dark_rune_protectorsAI", "de/da5/a19832.html#ae2f3cfd19e565ede132e38f439a930ba", null ],
-    [ "JustEngagedWith", "de/da5/a19832.html#aa71514efa488ff8f9276cb2a4c166759", null ],
-    [ "Reset", "de/da5/a19832.html#a88305b8ac016175d61a0387d1888671f", null ],
-    [ "UpdateAI", "de/da5/a19832.html#a0e27fc91a01362ee58a0eb10fb9a5176", null ],
-    [ "events", "de/da5/a19832.html#a2836d6f142a322dae0aed9ff6a4888e2", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "d7/d5e/a19836.html", "d7/d5e/a19836" ],
+    [ "instance_halls_of_stone", "de/da5/a19832.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "de/da5/a19832.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

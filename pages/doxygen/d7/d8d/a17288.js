@@ -1,11 +1,6 @@
 var a17288 =
 [
-    [ "npc_pos_tyrannus_eventsAI", "d7/d8d/a17288.html#a51769d22a4cb448fae90d827e2494581", null ],
-    [ "MovementInform", "d7/d8d/a17288.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
-    [ "SetData", "d7/d8d/a17288.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
-    [ "UpdateAI", "d7/d8d/a17288.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
-    [ "deathbringerGUID", "d7/d8d/a17288.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
-    [ "events", "d7/d8d/a17288.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
-    [ "killsLeft", "d7/d8d/a17288.html#ac81d85e0ceb0b571373f44475baa36df", null ],
-    [ "pInstance", "d7/d8d/a17288.html#a44460335986bcedf35dc295c242df6da", null ]
+    [ "npc_pos_freed_slaveAI", "d5/db3/a17292.html", "d5/db3/a17292" ],
+    [ "npc_pos_freed_slave", "d7/d8d/a17288.html#a19fd79279646cb1c49c04056636615fc", null ],
+    [ "GetAI", "d7/d8d/a17288.html#ac798c2584d48892162cc2bc779701e16", null ]
 ];

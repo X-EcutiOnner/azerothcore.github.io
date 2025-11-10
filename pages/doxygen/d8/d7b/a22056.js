@@ -1,6 +1,7 @@
 var a22056 =
 [
-    [ "npc_q24545_vegard_dummyAI", "d8/d7b/a22056.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
-    [ "UpdateAI", "d8/d7b/a22056.html#aa31baac9ce3c4c951f93917b88390797", null ],
-    [ "done", "d8/d7b/a22056.html#a0208fbae8e6c46d0671107530279c50c", null ]
+    [ "HandleDummy", "d8/d7b/a22056.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
+    [ "PrepareSpellScript", "d8/d7b/a22056.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
+    [ "Register", "d8/d7b/a22056.html#a45f80e0436f93a597deb4653852df6a1", null ],
+    [ "Validate", "d8/d7b/a22056.html#ad13fdade1fb7455485bfd68687de53c5", null ]
 ];

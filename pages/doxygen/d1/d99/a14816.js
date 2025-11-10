@@ -1,7 +1,8 @@
 var a14816 =
 [
-    [ "boss_azuregosAI", "d8/db1/a14820.html", "d8/db1/a14820" ],
-    [ "boss_azuregos", "d1/d99/a14816.html#a48590db0037870ca5c9425a468e5ea3a", null ],
-    [ "GetAI", "d1/d99/a14816.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
-    [ "OnGossipSelect", "d1/d99/a14816.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
+    [ "npc_doomfire_spirit", "d1/d99/a14816.html#a3d16e8437c2e90ad1ab5de609f4fcff0", null ],
+    [ "Reset", "d1/d99/a14816.html#a0600718fad91723eba74b903583c5942", null ],
+    [ "TryTeleportInDirection", "d1/d99/a14816.html#a7fc48df636df66a006a8179fd63e2a65", null ],
+    [ "UpdateAI", "d1/d99/a14816.html#aa0d953c28f25e2838f3b24364b51f10b", null ],
+    [ "turnConstant", "d1/d99/a14816.html#afeab7c791c31457d86e98a0064fa6ad8", null ]
 ];

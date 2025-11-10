@@ -1,6 +1,6 @@
 var a21052 =
 [
-    [ "boss_yoggsaron_corruptor_tentacleAI", "d9/d87/a21056.html", "d9/d87/a21056" ],
-    [ "boss_yoggsaron_corruptor_tentacle", "dc/de3/a21052.html#a86fbf881f0a861124dda085347bb03bd", null ],
-    [ "GetAI", "dc/de3/a21052.html#a7325d6feaa12d74c030152ba3a0ab756", null ]
+    [ "boss_yoggsaron_influence_tentacleAI", "d9/d87/a21056.html", "d9/d87/a21056" ],
+    [ "boss_yoggsaron_influence_tentacle", "dc/de3/a21052.html#a44155d82364bdde7e00131be3b6edfb6", null ],
+    [ "GetAI", "dc/de3/a21052.html#afb691fae90c0add07cfc8c02b9d2b975", null ]
 ];

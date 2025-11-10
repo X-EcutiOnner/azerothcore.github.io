@@ -1,11 +1,18 @@
 var a21588 =
 [
-    [ "npc_vh_void_sentryAI", "d0/dc2/a21588.html#a312f4bbc07e6d786e85c2b4e89d36344", null ],
-    [ "DoAction", "d0/dc2/a21588.html#a0bc95eea54b5cdc16a4d3f588f3ff900", null ],
-    [ "JustDied", "d0/dc2/a21588.html#add5121ed38a74be9ae168df5f893f89e", null ],
-    [ "SummonedCreatureDespawn", "d0/dc2/a21588.html#a24ff36cdb049da7c67c1f041361e17e4", null ],
-    [ "UpdateAI", "d0/dc2/a21588.html#ae1f683d5ef920213c9c86da35c626381", null ],
-    [ "checkTimer", "d0/dc2/a21588.html#a675bcae4119e45490403013534c731ef", null ],
-    [ "pInstance", "d0/dc2/a21588.html#a7527473944681143bab89fd12b475645", null ],
-    [ "SummonedGUID", "d0/dc2/a21588.html#a4420eb2cf4d3b6d161355b0f4ad9516d", null ]
+    [ "violet_hold_trashAI", "d0/dc2/a21588.html#a87011739810f39291655bc835f9995bd", null ],
+    [ "AttackStart", "d0/dc2/a21588.html#ab2d2157977ae2482217fa8ac344b30af", null ],
+    [ "ClearDoorSealAura", "d0/dc2/a21588.html#ad0c756eb5bef8036cb47ebcc9e6915df", null ],
+    [ "CreatureStartAttackDoor", "d0/dc2/a21588.html#a1e64a9f7c82275969e099b5012a32924", null ],
+    [ "EnterEvadeMode", "d0/dc2/a21588.html#ab189607a468514d6c472ac40e6f3d85b", null ],
+    [ "JustDied", "d0/dc2/a21588.html#acd512cd3722a2edf0ca539272ded3c79", null ],
+    [ "JustEngagedWith", "d0/dc2/a21588.html#a16e7677aa9597dda938a67c51febde6c", null ],
+    [ "JustReachedHome", "d0/dc2/a21588.html#ae98d0cd977d59cbfe567fa6e294cde7e", null ],
+    [ "MoveInLineOfSight", "d0/dc2/a21588.html#ab0e73a03d6e36a35eb393127bce3dad3", null ],
+    [ "UpdateAI", "d0/dc2/a21588.html#a8647797343650fcd4f6304bce3742883", null ],
+    [ "WaypointReached", "d0/dc2/a21588.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
+    [ "bAddedWP", "d0/dc2/a21588.html#ad2e8841054cece73bdc7c2e7782c96a8", null ],
+    [ "bAlt", "d0/dc2/a21588.html#ad84ecad1a57f0af44af2795a252d2214", null ],
+    [ "pInstance", "d0/dc2/a21588.html#a0a5f5b86cd54c28a828db2ac3e83126b", null ],
+    [ "PLoc", "d0/dc2/a21588.html#a9e9ca535b9d2fa1b246975f984c96998", null ]
 ];

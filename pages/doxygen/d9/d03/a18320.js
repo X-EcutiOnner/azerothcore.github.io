@@ -1,6 +1,7 @@
 var a18320 =
 [
-    [ "FilterTargets", "d9/d03/a18320.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
-    [ "PrepareSpellScript", "d9/d03/a18320.html#a24466e7a04722cc7559b086f89d2edc8", null ],
-    [ "Register", "d9/d03/a18320.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
+    [ "HandleTriggerMissile", "d9/d03/a18320.html#af6370594be48d35a12009fa10a38d91d", null ],
+    [ "PrepareSpellScript", "d9/d03/a18320.html#aeeca4381273f382c3abb68f34d229213", null ],
+    [ "Register", "d9/d03/a18320.html#a0b79f5ee23e53c18277712f1b26e13f3", null ],
+    [ "Validate", "d9/d03/a18320.html#abe0b9290ddf9beaa60a583840d90d914", null ]
 ];

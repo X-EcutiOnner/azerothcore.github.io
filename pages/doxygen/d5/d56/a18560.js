@@ -1,6 +1,11 @@
 var a18560 =
 [
-    [ "ModDestHeight", "d5/d56/a18560.html#aafab48e58a2eb18c286f71fa907e9bc8", null ],
-    [ "PrepareSpellScript", "d5/d56/a18560.html#a3c84b7044f448a5596e18f72e7b2f11a", null ],
-    [ "Register", "d5/d56/a18560.html#ad3900c969dfb05a61ebc750eb3425bc0", null ]
+    [ "npc_terenas_menethilAI", "d5/d56/a18560.html#aa2e95b96928b033ef374843ad1fb9f3c", null ],
+    [ "CanAIAttack", "d5/d56/a18560.html#a1414da7f20e0f93486eb77c9b9450fa9", null ],
+    [ "DamageTaken", "d5/d56/a18560.html#ae62a6f965ffb11d633190f1ca4122bc9", null ],
+    [ "DoAction", "d5/d56/a18560.html#a4f261b19a7a8676dfd6d76d428a4f1b1", null ],
+    [ "EnterEvadeMode", "d5/d56/a18560.html#ada5313b34e8c20c82ac97396e54e27df", null ],
+    [ "UpdateAI", "d5/d56/a18560.html#a6210ca6e5e954d5c66d2108359efc888", null ],
+    [ "_events", "d5/d56/a18560.html#ae61e4919b99a2b9195a389992947a125", null ],
+    [ "_instance", "d5/d56/a18560.html#a60aae54e5e54526ba12a9468a3f45c88", null ]
 ];

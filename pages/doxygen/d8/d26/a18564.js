@@ -1,9 +1,7 @@
 var a18564 =
 [
-    [ "HandleScript", "d8/d26/a18564.html#adaab7b03edc6ff147e856dc0cdfc5ad0", null ],
-    [ "Load", "d8/d26/a18564.html#aa2a5488ff4706a44350bd969d57a99e1", null ],
-    [ "PrepareSpellScript", "d8/d26/a18564.html#a73931c9434114749b9db648665153083", null ],
-    [ "Register", "d8/d26/a18564.html#a16b01725a1b2a105df365e0b178a4f0f", null ],
-    [ "SelectTarget", "d8/d26/a18564.html#a95be527c43ceeb4801f4e494753c1b59", null ],
-    [ "_target", "d8/d26/a18564.html#a2e97dd4fd1fd2ea2ba8bf3d335711de8", null ]
+    [ "CalculateBonus", "d8/d26/a18564.html#ae149a739150cb7eb9fb67f19130c0510", null ],
+    [ "OnPeriodic", "d8/d26/a18564.html#a19697bd65a325870becc1c30d7deff36", null ],
+    [ "PrepareAuraScript", "d8/d26/a18564.html#a77c272d4a26323c421e4b264f79d5b66", null ],
+    [ "Register", "d8/d26/a18564.html#aecd8670e3a079c8460cddd5ce0b4f79b", null ]
 ];

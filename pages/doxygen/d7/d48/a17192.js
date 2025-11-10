@@ -1,5 +1,6 @@
 var a17192 =
 [
-    [ "at_hor_battered_hilt_throw", "d7/d48/a17192.html#a857812bd67ee2e62c5e450fae591cd9d", null ],
-    [ "OnTrigger", "d7/d48/a17192.html#a30c72b4dc7e48fc87374cbfc2cdf0f50", null ]
+    [ "boss_ickAI", "dc/d62/a17196.html", "dc/d62/a17196" ],
+    [ "boss_ick", "d7/d48/a17192.html#af97d7f96bc48ba245e28c18614b9369e", null ],
+    [ "GetAI", "d7/d48/a17192.html#a355285766712a31b704c23fe85d19e5f", null ]
 ];

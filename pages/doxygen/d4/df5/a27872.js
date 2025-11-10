@@ -1,7 +1,6 @@
 var a27872 =
 [
-    [ "npc_steam_tonkAI", "d4/df5/a27872.html#a64bc74af412304d50526e5c93e01a333", null ],
-    [ "JustEngagedWith", "d4/df5/a27872.html#a95b023adf0a2e62788e0d5646b17b319", null ],
-    [ "OnPossess", "d4/df5/a27872.html#a954208c1a9826ae84a7402f59e1d7055", null ],
-    [ "Reset", "d4/df5/a27872.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
+    [ "npc_fireworkAI", "d6/d38/a27876.html", "d6/d38/a27876" ],
+    [ "npc_firework", "d4/df5/a27872.html#a9efb6ed098e4eb3e24c30393cb5cb45d", null ],
+    [ "GetAI", "d4/df5/a27872.html#a9732f7b6eb8b3638bb6280ff7a71bcf7", null ]
 ];

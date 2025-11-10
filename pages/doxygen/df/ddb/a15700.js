@@ -1,6 +1,6 @@
 var a15700 =
 [
-    [ "npc_bunthen_plainswind", "df/ddb/a15700.html#ad9b789ad3e958dee4733b142813b6302", null ],
-    [ "OnGossipHello", "df/ddb/a15700.html#ae2fe8bfb957dd8ea84d2585293c3b6eb", null ],
-    [ "OnGossipSelect", "df/ddb/a15700.html#a117f28d513ac645b9d3d908d052d2146", null ]
+    [ "npc_giant_spotlightAI", "d3/d6a/a15704.html", "d3/d6a/a15704" ],
+    [ "npc_giant_spotlight", "df/ddb/a15700.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
+    [ "GetAI", "df/ddb/a15700.html#af002a3d0194c991c1f78c720de63cfea", null ]
 ];

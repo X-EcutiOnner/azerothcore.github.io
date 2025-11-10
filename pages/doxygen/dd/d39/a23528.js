@@ -1,7 +1,7 @@
 var a23528 =
 [
-    [ "PeriodicTick", "dd/d39/a23528.html#a789d2d4d2bc75e412abe80a33102fa06", null ],
-    [ "PrepareAuraScript", "dd/d39/a23528.html#a49db8ade3bc3a3da9e043e8b9ad1759d", null ],
-    [ "Register", "dd/d39/a23528.html#aec2d7f564107f5b294a5d5c3dd3f9b25", null ],
-    [ "Validate", "dd/d39/a23528.html#a7c2309d3192b2a18d8035c8067849d6d", null ]
+    [ "HandleScriptEffect", "dd/d39/a23528.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
+    [ "PrepareSpellScript", "dd/d39/a23528.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
+    [ "Register", "dd/d39/a23528.html#a14772c25b70078c0034b8de17de5b77a", null ],
+    [ "Validate", "dd/d39/a23528.html#a8318385367bf6c6b09e0978c461f5d59", null ]
 ];

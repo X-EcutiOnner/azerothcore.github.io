@@ -1,5 +1,5 @@
 var a19056 =
 [
-    [ "npc_icc_buff_switcher", "dd/d42/a19056.html#aeabc3d97c88bf12177b824524af3ae1d", null ],
-    [ "OnGossipSelect", "dd/d42/a19056.html#abb3310d3eb5cf4f1c2a0a3ac46ddd7ba", null ]
+    [ "at_icc_gauntlet_event", "dd/d42/a19056.html#ae8790bad655661aeda887f56b9393847", null ],
+    [ "OnTrigger", "dd/d42/a19056.html#a9329ec078db088b1c13144ac7ed7a13a", null ]
 ];

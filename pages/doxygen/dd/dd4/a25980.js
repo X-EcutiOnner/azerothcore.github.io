@@ -1,6 +1,8 @@
 var a25980 =
 [
-    [ "HandleScript", "dd/dd4/a25980.html#a382dd0eb5ebc2f5da70561eaaf1f8d3d", null ],
-    [ "PrepareSpellScript", "dd/dd4/a25980.html#a4f0f4d29231ef1976d726b66f6277ca8", null ],
-    [ "Register", "dd/dd4/a25980.html#ad75843039e582b64da28b4818f48aeb3", null ]
+    [ "OnRemove", "dd/dd4/a25980.html#a645e869079e711a87f1a957b42a35e98", null ],
+    [ "OnStackChange", "dd/dd4/a25980.html#adea8a4a7140e2f9fd4a44ef2a7b4d85b", null ],
+    [ "PrepareAuraScript", "dd/dd4/a25980.html#a5f9e9d07879705917e1cd261808f0a8f", null ],
+    [ "Register", "dd/dd4/a25980.html#ac86068a892255e38244c487a7456cd9f", null ],
+    [ "Validate", "dd/dd4/a25980.html#a74cb62725d939000a1c4ab32b4f4335f", null ]
 ];

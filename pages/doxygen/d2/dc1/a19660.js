@@ -1,8 +1,6 @@
 var a19660 =
 [
-    [ "npc_centrifuge_constructAI", "d2/dc1/a19660.html#a9219f4955ae82ca7f401ea1c63f66b09", null ],
-    [ "DamageTaken", "d2/dc1/a19660.html#aa568418de267a99108698e79baa1b3f4", null ],
-    [ "JustEngagedWith", "d2/dc1/a19660.html#ac6ecbb17624c2747253c68a50b93c40f", null ],
-    [ "Reset", "d2/dc1/a19660.html#a2f7750cea2f59d794c85e20b703370af", null ],
-    [ "UpdateAI", "d2/dc1/a19660.html#a28316416ad6c56d83c9e878511256445", null ]
+    [ "PrepareSpellScript", "d2/dc1/a19660.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
+    [ "Register", "d2/dc1/a19660.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
+    [ "SetDest", "d2/dc1/a19660.html#a24341aae14ed77101d4c31f2fbe11463", null ]
 ];

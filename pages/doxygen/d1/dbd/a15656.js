@@ -1,6 +1,8 @@
 var a15656 =
 [
-    [ "npc_troll_volunteerAI", "d0/db9/a15660.html", "d0/db9/a15660" ],
-    [ "npc_troll_volunteer", "d1/dbd/a15656.html#a3c5eb7108dc0480e07b77eceb01cd18a", null ],
-    [ "GetAI", "d1/dbd/a15656.html#aba0208b0910ace75686941c462ecca56", null ]
+    [ "FilterTargets", "d1/dbd/a15656.html#a47b8055fa1b28968e8323ca98613aa83", null ],
+    [ "HandleScript", "d1/dbd/a15656.html#a8f7984e510d8947a2ae4b0734409866b", null ],
+    [ "PrepareSpellScript", "d1/dbd/a15656.html#a5c12caf56e95a9f7960ed9f4a3945c7c", null ],
+    [ "Register", "d1/dbd/a15656.html#adf76a5d9145f88aad5b3dd164fa4fcc4", null ],
+    [ "Validate", "d1/dbd/a15656.html#aa3f9c6418eb804a2ddf235beb8491a19", null ]
 ];

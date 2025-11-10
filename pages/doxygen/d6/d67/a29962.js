@@ -1,7 +1,7 @@
 var a29962 =
 [
-    [ "u_map_fcc", "d5/d3b/a28952.html", "d5/d3b/a28952" ],
-    [ "file_MVER", "d5/dc2/a28956.html", "d5/dc2/a28956" ],
-    [ "FileLoader", "de/dff/a28964.html", "de/dff/a28964" ],
-    [ "FILE_FORMAT_VERSION", "d6/d67/a29962.html#a6fef47739ef9998b00a2523c98cb2315", null ]
+    [ "MPQArchive", "d5/dc2/a28956.html", "d5/dc2/a28956" ],
+    [ "MPQFile", "da/dad/a28960.html", "da/dad/a28960" ],
+    [ "ArchiveSet", "d6/d67/a29962.html#a8d76af4bfff910da40b4f93a1c465744", null ],
+    [ "flipcc", "d6/d67/a29962.html#aff3add09c98fece7ace91b0e7c90435e", null ]
 ];

@@ -1,6 +1,9 @@
 var a13872 =
 [
-    [ "npc_ravenclaw_apparitionAI", "d1/dd2/a13876.html", "d1/dd2/a13876" ],
-    [ "npc_ravenclaw_apparition", "d6/d74/a13872.html#a961044571250519e62d7d33633974038", null ],
-    [ "GetAI", "d6/d74/a13872.html#a9de4a85f8318ff8b1ad30aa4c8f15765", null ]
+    [ "npc_tyrion_spybotAI", "d6/d74/a13872.html#aedad685279012266637d29069ead9063", null ],
+    [ "Reset", "d6/d74/a13872.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
+    [ "UpdateAI", "d6/d74/a13872.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
+    [ "WaypointReached", "d6/d74/a13872.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
+    [ "uiPhase", "d6/d74/a13872.html#af5dbb99fe18d96665efd04bd53294636", null ],
+    [ "uiTimer", "d6/d74/a13872.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
 ];

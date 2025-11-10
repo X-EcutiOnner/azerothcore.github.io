@@ -1,6 +1,6 @@
 var a20964 =
 [
-    [ "PrepareSpellScript", "de/dfd/a20964.html#a525025d429743f9d606289ca1a660796", null ],
-    [ "Register", "de/dfd/a20964.html#a66f565c07d495f27aaba393fdcce9d24", null ],
-    [ "SelectTarget", "de/dfd/a20964.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
+    [ "x", "de/dfd/a20964.html#ae4223168378b602a0a96dbb424a22be4", null ],
+    [ "y", "de/dfd/a20964.html#a30f361d8104e4de44541d75945105963", null ],
+    [ "z", "de/dfd/a20964.html#ae68a79519c35302b89976ac29bb77e26", null ]
 ];

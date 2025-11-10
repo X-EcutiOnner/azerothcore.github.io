@@ -1,7 +1,6 @@
 var a24896 =
 [
-    [ "AfterApply", "df/d7b/a24896.html#a1849f49a9682627753b8bd39b3ff827e", null ],
-    [ "AfterRemove", "df/d7b/a24896.html#a7c08bea735cd36840463aa942e7529b4", null ],
-    [ "PrepareAuraScript", "df/d7b/a24896.html#ad27880f797137cae09381e860727e2f7", null ],
-    [ "Register", "df/d7b/a24896.html#a6c105609c1ee61a8f845018550b2e3ba", null ]
+    [ "CalculateAmount", "df/d7b/a24896.html#a66fd870eff0f2a225630e26047d36225", null ],
+    [ "PrepareAuraScript", "df/d7b/a24896.html#afde8a1734c57e01094077af3d3bdf757", null ],
+    [ "Register", "df/d7b/a24896.html#a8e5b9dd71dfccb224e92784725f2a8a9", null ]
 ];

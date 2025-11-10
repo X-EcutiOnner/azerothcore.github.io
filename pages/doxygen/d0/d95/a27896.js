@@ -1,6 +1,7 @@
 var a27896 =
 [
-    [ "npc_experience", "d0/d95/a27896.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
-    [ "OnGossipHello", "d0/d95/a27896.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
-    [ "OnGossipSelect", "d0/d95/a27896.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
+    [ "npc_venomhide_hatchlingAI", "db/d30/a27900.html", "db/d30/a27900" ],
+    [ "npc_venomhide_hatchling", "d0/d95/a27896.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
+    [ "GetAI", "d0/d95/a27896.html#a96110b752965d751ab7b466c4f67e333", null ],
+    [ "OnGossipHello", "d0/d95/a27896.html#a404d875592b847ddb9f3250c9d954bfc", null ]
 ];

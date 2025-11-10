@@ -1,10 +1,6 @@
 var a20836 =
 [
-    [ "boss_thorim_sif_blizzardAI", "d4/dfd/a20836.html#a99d1c529126452e580ebc7e3e513b367", null ],
-    [ "AttackStart", "d4/dfd/a20836.html#a1f05551f323fa410a699497f3875b21f", null ],
-    [ "InitWaypoint", "d4/dfd/a20836.html#a1e0a384081750bdf38cc8e0065070ec8", null ],
-    [ "JustEngagedWith", "d4/dfd/a20836.html#a9fea5617dccb493c7af435c485462ff3", null ],
-    [ "MoveInLineOfSight", "d4/dfd/a20836.html#ab91a2a71ff00e38d2eca50ccc654d9f3", null ],
-    [ "Reset", "d4/dfd/a20836.html#a193ba575c4f3f16d850e56f12f190c77", null ],
-    [ "WaypointReached", "d4/dfd/a20836.html#a961f90068f25d81f55159763fe2677f8", null ]
+    [ "boss_thorim_runic_colossusAI", "df/dcd/a20840.html", "df/dcd/a20840" ],
+    [ "boss_thorim_runic_colossus", "d4/dfd/a20836.html#a2ea1c08a98b689cd6c766578e98a3191", null ],
+    [ "GetAI", "d4/dfd/a20836.html#a6d64427ff427a1054e10c9d987b77f53", null ]
 ];

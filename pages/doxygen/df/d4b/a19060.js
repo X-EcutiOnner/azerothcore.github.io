@@ -1,6 +1,5 @@
 var a19060 =
 [
-    [ "npc_icc_nerubar_broodkeeperAI", "d1/dab/a19064.html", "d1/dab/a19064" ],
-    [ "npc_icc_nerubar_broodkeeper", "df/d4b/a19060.html#adf9c3bfb444fed50420c2e780b373f34", null ],
-    [ "GetAI", "df/d4b/a19060.html#ad12186da36f7bbf99275a746bc874bfc", null ]
+    [ "at_icc_putricide_trap", "df/d4b/a19060.html#a9d4183629deada9c22750b8a34e94583", null ],
+    [ "OnTrigger", "df/d4b/a19060.html#ad59c2f694c50fabf1946d2c7ae726413", null ]
 ];

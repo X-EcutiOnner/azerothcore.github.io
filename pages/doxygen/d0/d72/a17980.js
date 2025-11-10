@@ -1,12 +1,18 @@
 var a17980 =
 [
-    [ "npc_vengeful_shadeAI", "d0/d72/a17980.html#acd3961c7c81f88a341cb71888c55c882", null ],
-    [ "AttackStart", "d0/d72/a17980.html#afbd441c5ebf2207d37da1a905be1a247", null ],
-    [ "EnterEvadeMode", "d0/d72/a17980.html#a37bffb02c4ebf6acab8c3474581056a6", null ],
-    [ "MoveInLineOfSight", "d0/d72/a17980.html#a1e8e28e76f27edc5e07574e6050d7e5f", null ],
-    [ "Reset", "d0/d72/a17980.html#acf85448a221a37be819b7ab82f4f9fdc", null ],
-    [ "SpellHitTarget", "d0/d72/a17980.html#af9b40af943ee8a7c9bd8866f116871fc", null ],
-    [ "UpdateAI", "d0/d72/a17980.html#a3a353d677b469d750474a7497c5224a7", null ],
-    [ "targetGUID", "d0/d72/a17980.html#a75c3f61506fe42e41b10a2e67f5b091d", null ],
-    [ "unroot_timer", "d0/d72/a17980.html#a49ea66a0fb6e3c09730d92308bd1cac7", null ]
+    [ "boss_lord_marrowgar", "d0/d72/a17980.html#ab6a4afec9ed7153054b2d5ffb8f3b8ab", null ],
+    [ "CanAIAttack", "d0/d72/a17980.html#a019816e930781889f39c561577eaecc0", null ],
+    [ "GetGUID", "d0/d72/a17980.html#a0f3d27442ce651574ab66c2f94d27c88", null ],
+    [ "JustDied", "d0/d72/a17980.html#a8f1143de6695cf3fc2e54d5dc29ae9f2", null ],
+    [ "JustEngagedWith", "d0/d72/a17980.html#a3fa8b012f5e3ae94cecb537aa1952b63", null ],
+    [ "JustReachedHome", "d0/d72/a17980.html#ac59e0e13d5226fcdb4af08a1f9eff089", null ],
+    [ "KilledUnit", "d0/d72/a17980.html#acfe53ec83fa2056b37269608182fb25b", null ],
+    [ "MoveInLineOfSight", "d0/d72/a17980.html#ab3a7a37af22ab4dd7178f1cce2e2ab6a", null ],
+    [ "MovementInform", "d0/d72/a17980.html#abba7e15c065a80677fc88a6dafa8ecfd", null ],
+    [ "Reset", "d0/d72/a17980.html#a2692d00185ef27f50af01d125e39d549", null ],
+    [ "SpellHitTarget", "d0/d72/a17980.html#adf886210abbd492f897b39145748f78a", null ],
+    [ "UpdateAI", "d0/d72/a17980.html#aa19fdc486c0c9cca1033e0747d631a7e", null ],
+    [ "_boneSlice", "d0/d72/a17980.html#a50478639cd1f13732646fcc2349c5474", null ],
+    [ "_introDone", "d0/d72/a17980.html#a87f5036e8ba62e54ed7c502469cffe10", null ],
+    [ "_lastBoneSliceTargets", "d0/d72/a17980.html#aaf8ca2baf4c68ea64d4c163ede7813c8", null ]
 ];

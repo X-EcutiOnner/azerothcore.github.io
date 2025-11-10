@@ -1,5 +1,6 @@
 var a16828 =
 [
-    [ "boss_fjolaAI", "d9/df5/a16828.html#aa46fdff841d01f28ef50aa5363082f71", null ],
-    [ "JustSummoned", "d9/df5/a16828.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
+    [ "instance_trial_of_the_crusader_InstanceMapScript", "db/de4/a16832.html", "db/de4/a16832" ],
+    [ "instance_trial_of_the_crusader", "d9/df5/a16828.html#a764d871d02e4ff53b7cc3a8637dcddf9", null ],
+    [ "GetInstanceScript", "d9/df5/a16828.html#a792034e9e5687bf5fa543175692bed66", null ]
 ];

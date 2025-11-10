@@ -1,5 +1,6 @@
 var a27660 =
 [
-    [ "item_only_for_flight", "db/d1a/a27660.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
-    [ "OnUse", "db/d1a/a27660.html#a88cdf17a85630aef703f93143ba41d4d", null ]
+    [ "trigger_periodicAI", "de/df3/a27664.html", "de/df3/a27664" ],
+    [ "trigger_periodic", "db/d1a/a27660.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
+    [ "GetAI", "db/d1a/a27660.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
 ];

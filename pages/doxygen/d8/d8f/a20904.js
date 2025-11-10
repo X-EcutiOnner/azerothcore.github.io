@@ -1,5 +1,6 @@
 var a20904 =
 [
-    [ "achievement_thorim_lose_your_illusion", "d8/d8f/a20904.html#a449dda8a7a3f19d0aabaf9ca353d70bb", null ],
-    [ "OnCheck", "d8/d8f/a20904.html#a322df4f30445a84085615925f74a8a6b", null ]
+    [ "npc_xt002_pummellerAI", "d1/d03/a20908.html", "d1/d03/a20908" ],
+    [ "npc_xt002_pummeller", "d8/d8f/a20904.html#af620e31a231ca8fb812324521bad4673", null ],
+    [ "GetAI", "d8/d8f/a20904.html#a9ec4e452a3763c3d03e581a17e5d7efe", null ]
 ];

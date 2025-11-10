@@ -1,15 +1,15 @@
 var a19256 =
 [
-    [ "boss_grobbulusAI", "d1/dfe/a19256.html#ad9e7cd519e30eded06f76bcc69189117", null ],
-    [ "JustDied", "d1/dfe/a19256.html#aa717d51aa10c139473031072065064ce", null ],
-    [ "JustEngagedWith", "d1/dfe/a19256.html#a4c74d53fe029d02df9652dbb87a09242", null ],
-    [ "JustSummoned", "d1/dfe/a19256.html#af266d40889fbecd50a118a579b711757", null ],
-    [ "KilledUnit", "d1/dfe/a19256.html#a266ef5135e09ee6a0b0b9ae0aaac822b", null ],
-    [ "PullChamberAdds", "d1/dfe/a19256.html#ad215f20452cd48c2c2bca394410d739b", null ],
-    [ "Reset", "d1/dfe/a19256.html#a6bd34fcdcfa47b19f366ba85e7f420cb", null ],
-    [ "SummonedCreatureDespawn", "d1/dfe/a19256.html#ae939b029565ef9a075c0d9f0f94b76f3", null ],
-    [ "UpdateAI", "d1/dfe/a19256.html#aafd79debbe76b02a1478c03daf235b05", null ],
-    [ "dropSludgeTimer", "d1/dfe/a19256.html#a5fdcf157f498b8e47d6380b03fe819d6", null ],
-    [ "events", "d1/dfe/a19256.html#a810a91ffbcc3caa7c31e17afbd615392", null ],
-    [ "summons", "d1/dfe/a19256.html#a39ce39397f845a4fddf20da5f5812713", null ]
+    [ "boss_heiganAI", "d1/dfe/a19256.html#a7aab8f8d2c3ccb434c2290362d03f89e", null ],
+    [ "IsInRoom", "d1/dfe/a19256.html#a3aee27fdbb0ce9c60f2115b878112ea8", null ],
+    [ "JustDied", "d1/dfe/a19256.html#a4a7389a2f81677fa5c0e871bc996fe26", null ],
+    [ "JustEngagedWith", "d1/dfe/a19256.html#a72a2ae89b7abede9f8a4cb3ee9d76258", null ],
+    [ "KilledUnit", "d1/dfe/a19256.html#a58160aefd36208ad7f0fec161a3f8b85", null ],
+    [ "Reset", "d1/dfe/a19256.html#a515a86419bdd1f755943a371b3601795", null ],
+    [ "StartFightPhase", "d1/dfe/a19256.html#a211387ae4f89d54a22a4f8515239d1c3", null ],
+    [ "UpdateAI", "d1/dfe/a19256.html#a9009ae9392e183758a48ebe59b9c0cf0", null ],
+    [ "currentPhase", "d1/dfe/a19256.html#a7b0a9b9f53cded3bc24ed22c1b643a30", null ],
+    [ "currentSection", "d1/dfe/a19256.html#a848fbc5aa8a497ae01057c6f0ba59e7a", null ],
+    [ "events", "d1/dfe/a19256.html#a7cc35d445aadf1eb252482522b8cc26d", null ],
+    [ "moveRight", "d1/dfe/a19256.html#a12da8a2326f0ac72e6ee8733c55139c8", null ]
 ];

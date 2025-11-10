@@ -1,5 +1,6 @@
 var a24452 =
 [
-    [ "go_crystal_prison", "d8/d7d/a24452.html#a0faca8b76f9650ee5cc7825b90463365", null ],
-    [ "OnQuestAccept", "d8/d7d/a24452.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
+    [ "CheckRequirement", "d8/d7d/a24452.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
+    [ "PrepareSpellScript", "d8/d7d/a24452.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
+    [ "Register", "d8/d7d/a24452.html#aa4f62292b32347179a5534e4bc0417f8", null ]
 ];

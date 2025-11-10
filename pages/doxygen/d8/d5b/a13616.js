@@ -1,7 +1,9 @@
 var a13616 =
 [
-    [ "HandleScriptEffect", "d8/d5b/a13616.html#ae631c634c77cc207338e3549a664969b", null ],
-    [ "PrepareSpellScript", "d8/d5b/a13616.html#ac9f825f10512be5849c46460e9cdbec8", null ],
-    [ "Register", "d8/d5b/a13616.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
-    [ "Validate", "d8/d5b/a13616.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
+    [ "boss_entropius", "d8/d5b/a13616.html#a458deaa80c9694cd2608150bc5519c76", null ],
+    [ "EnterEvadeMode", "d8/d5b/a13616.html#a01889b192525af082471d092bff28c88", null ],
+    [ "JustDied", "d8/d5b/a13616.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
+    [ "JustEngagedWith", "d8/d5b/a13616.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
+    [ "Reset", "d8/d5b/a13616.html#ad9da990a540703d38cb45dd2da72c179", null ],
+    [ "UpdateAI", "d8/d5b/a13616.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
 ];

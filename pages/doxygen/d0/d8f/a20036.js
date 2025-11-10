@@ -1,12 +1,11 @@
 var a20036 =
 [
-    [ "npc_auriaya_feral_defenderAI", "d0/d8f/a20036.html#a32e6fa30e4c56fdd055a728ba7227beb", null ],
-    [ "DoAction", "d0/d8f/a20036.html#a2b0a176dba865e90bdc22727b2860509", null ],
-    [ "JustDied", "d0/d8f/a20036.html#a7e9c49d8dc47663e70c8fcbed68746e5", null ],
-    [ "Reset", "d0/d8f/a20036.html#ae127a88f18f3348a0bc388d79dcd13d4", null ],
-    [ "UpdateAI", "d0/d8f/a20036.html#a1edc249808e1ebdb88605c56e19c272a", null ],
-    [ "_feralEssenceStack", "d0/d8f/a20036.html#aab51096b8f57528a0a27e23a306d6762", null ],
-    [ "_feralPounceTimer", "d0/d8f/a20036.html#ab91df5ebee9c12d067ff83ee64effece", null ],
-    [ "_feralRushTimer", "d0/d8f/a20036.html#aa45e0baf1ad43cc4b2c223d1b9d1c3c6", null ],
-    [ "summons", "d0/d8f/a20036.html#a599679f93e4fc4b3b9aa00ea33dcb047", null ]
+    [ "boss_flame_leviathan_seatAI", "d0/d8f/a20036.html#ab830db7804ee9b9815e4ea3398a6d856", null ],
+    [ "AttackStart", "d0/d8f/a20036.html#a39efb927928e19a040144bab7dfa3ba2", null ],
+    [ "EnterEvadeMode", "d0/d8f/a20036.html#aeda2ad4d596c86aa5c19acb1c710cc9f", null ],
+    [ "PassengerBoarded", "d0/d8f/a20036.html#af4939f3daef8aae9a1eafe2020ab205e", null ],
+    [ "Reset", "d0/d8f/a20036.html#a1e134e9bb2b1048f69dc310a52be9473", null ],
+    [ "UpdateAI", "d0/d8f/a20036.html#a857b1e927ae6574e00e25a20a21d4427", null ],
+    [ "_despawnTimer", "d0/d8f/a20036.html#ac3d1d8f405a37d2344c5f4e34519e2cb", null ],
+    [ "vehicle", "d0/d8f/a20036.html#a9d0624a45613676a39def53b2a2fdce0", null ]
 ];

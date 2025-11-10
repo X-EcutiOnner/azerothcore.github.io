@@ -1,10 +1,6 @@
 var a17964 =
 [
-    [ "npc_cult_fanaticAI", "de/dbb/a17964.html#a766e536288b84110f88a8bd282e97932", null ],
-    [ "JustEngagedWith", "de/dbb/a17964.html#a709b75f4b1519bc7c6988985a22d076f", null ],
-    [ "Reset", "de/dbb/a17964.html#a772830df1d16d0463c8c00f14c337db0", null ],
-    [ "SpellHit", "de/dbb/a17964.html#a17c02a83b522c9717de3d89517104e42", null ],
-    [ "UpdateAI", "de/dbb/a17964.html#ac79afdab3721d78d2b7e5da360083cea", null ],
-    [ "_instance", "de/dbb/a17964.html#a7448fdf85cccfcb12509b0274205bff4", null ],
-    [ "events", "de/dbb/a17964.html#a9576978141062fa1babbbc5ed42483c4", null ]
+    [ "HandlePeriodicTick", "de/dbb/a17964.html#a29bf443cdb53b10032ba382b8ae44828", null ],
+    [ "PrepareAuraScript", "de/dbb/a17964.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
+    [ "Register", "de/dbb/a17964.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
 ];

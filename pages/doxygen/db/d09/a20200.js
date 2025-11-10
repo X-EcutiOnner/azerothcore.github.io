@@ -1,6 +1,5 @@
 var a20200 =
 [
-    [ "PrepareSpellScript", "db/d09/a20200.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
-    [ "RecalculateDamage", "db/d09/a20200.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
-    [ "Register", "db/d09/a20200.html#af2b5382122be41a6b1ee4ab721b417da", null ]
+    [ "achievement_flame_leviathan_unbroken", "db/d09/a20200.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
+    [ "OnCheck", "db/d09/a20200.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
 ];

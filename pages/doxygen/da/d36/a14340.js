@@ -1,19 +1,17 @@
 var a14340 =
 [
-    [ "boss_thekal", "da/d36/a14340.html#a91e8fd9ba169d5096fd06471f8bd16e9", null ],
-    [ "CheckPhaseTransition", "da/d36/a14340.html#a95aeb81565f5863eec67106ae1118ac4", null ],
-    [ "DamageTaken", "da/d36/a14340.html#a98be9a4d815f6fdc01acbfaa916b721c", null ],
-    [ "DoAction", "da/d36/a14340.html#aa3d81738fbb42d5575dd8e5b30d84563", null ],
-    [ "Initialize", "da/d36/a14340.html#aec365f330eed69513e988f895ec780e7", null ],
-    [ "JustDied", "da/d36/a14340.html#a79bc19df134cbeb17f0941865461bd0d", null ],
-    [ "JustEngagedWith", "da/d36/a14340.html#af5e2b2b5665270f29243921e51280190", null ],
-    [ "Reset", "da/d36/a14340.html#a684bf1fc087970a41cf79959ba57b31b", null ],
-    [ "ReviveZealot", "da/d36/a14340.html#aab84b3390cf8cc95dc8a2067ed38b4ab", null ],
-    [ "SetData", "da/d36/a14340.html#a586805c5f8d20a35055cf12a3c9f673f", null ],
-    [ "UpdateAI", "da/d36/a14340.html#a4b5e7dae10900a197d047b6ea32c33ed", null ],
-    [ "UpdateZealotStatus", "da/d36/a14340.html#ac69068240dfc1ecf30f37e36c3e51353", null ],
-    [ "_enraged", "da/d36/a14340.html#aba5ac2c4cdac1d4a0e37e9d6cd3b1422", null ],
-    [ "_lorkhanDied", "da/d36/a14340.html#a0f84ad2f224fe29fc4ddde3258200e10", null ],
-    [ "_wasDead", "da/d36/a14340.html#aec4eea1f0d8ebffb1bbc2646e986f300", null ],
-    [ "_zathDied", "da/d36/a14340.html#ae3df1561ee3dcb3887f6e646b6277b29", null ]
+    [ "instance_zulgurub_InstanceMapScript", "da/d36/a14340.html#aacbb3bb0d212ffafae475c74790d9c63", null ],
+    [ "GetData", "da/d36/a14340.html#ae8c0fa463d3e5b5dafb7b14b5d32a4b1", null ],
+    [ "GetGuidData", "da/d36/a14340.html#a0da827e64e90a1f97b75038621a195ff", null ],
+    [ "OnCreatureCreate", "da/d36/a14340.html#a951c6f5e1dc460cd820fba49add52898", null ],
+    [ "OnGameObjectCreate", "da/d36/a14340.html#a7649a9bcdfafd3c8d7001555e60910af", null ],
+    [ "RemoveHakkarPowerStack", "da/d36/a14340.html#a0234565dc9c87e32bcd0a7f19e2336b6", null ],
+    [ "SetBossState", "da/d36/a14340.html#aaf5d69e4993591e0f936e2109df1fb07", null ],
+    [ "_arlokkGUID", "da/d36/a14340.html#a92d30a8e0691e5bc6a58ff26cc06df36", null ],
+    [ "_edgeOfMadnessGUID", "da/d36/a14340.html#aa7bbbb942592651857f933503da0e808", null ],
+    [ "_gahzrankaGUID", "da/d36/a14340.html#af0e854382a2316363c50d60f03095097", null ],
+    [ "_goGongOfBethekkGUID", "da/d36/a14340.html#a1f33ff891c8289a49dd2b979a064c323", null ],
+    [ "_hakkarGUID", "da/d36/a14340.html#aeca34a55f3c378311ae1b46313cf22de", null ],
+    [ "_jindoTheHexxerGUID", "da/d36/a14340.html#a48ec95fa51ddf50aa0249a3798bbc898", null ],
+    [ "_vilebranchSpeakerGUID", "da/d36/a14340.html#a07cff6b252eb9b08855bc8bd7e5d7735", null ]
 ];

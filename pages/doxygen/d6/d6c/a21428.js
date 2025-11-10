@@ -1,6 +1,6 @@
 var a21428 =
 [
-    [ "boss_archavonAI", "dd/de7/a21432.html", "dd/de7/a21432" ],
-    [ "boss_archavon", "d6/d6c/a21428.html#a44e20480f8d86cf763afe67de49c6c33", null ],
-    [ "GetAI", "d6/d6c/a21428.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
+    [ "boss_koralonAI", "dd/de7/a21432.html", "dd/de7/a21432" ],
+    [ "boss_koralon", "d6/d6c/a21428.html#a43b9fb1224abeba44080fb02062451b0", null ],
+    [ "GetAI", "d6/d6c/a21428.html#a7afd462b2c43ee088c09fcb7ddcb141d", null ]
 ];

@@ -1,5 +1,5 @@
 var a27312 =
 [
-    [ "achievement_not_even_a_scratch", "db/d32/a27312.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "db/d32/a27312.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "AreaTrigger_at_legion_teleporter", "db/d32/a27312.html#a2b648bd038f41025c19338367c696d25", null ],
+    [ "OnTrigger", "db/d32/a27312.html#ae8239e5ad56d93627102dbd02989353d", null ]
 ];

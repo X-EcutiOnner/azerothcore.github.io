@@ -1,7 +1,7 @@
 var a18828 =
 [
-    [ "npc_frost_freeze_trapAI", "df/d75/a18828.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
-    [ "DoAction", "df/d75/a18828.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
-    [ "UpdateAI", "df/d75/a18828.html#ae8efccb090f38968f3c0ca51f022013b", null ],
-    [ "_events", "df/d75/a18828.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
+    [ "npc_captain_arnathAI", "df/d75/a18828.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
+    [ "FindFriendlyCreature", "df/d75/a18828.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
+    [ "Reset", "df/d75/a18828.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
+    [ "UpdateAI", "df/d75/a18828.html#a020efd7adc0d60152007906e3229988d", null ]
 ];

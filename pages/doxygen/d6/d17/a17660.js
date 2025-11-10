@@ -1,6 +1,9 @@
 var a17660 =
 [
-    [ "npc_saurfang_eventAI", "d9/dea/a17664.html", "d9/dea/a17664" ],
-    [ "npc_saurfang_event", "d6/d17/a17660.html#a3bfce5457466360458498833098d660c", null ],
-    [ "GetAI", "d6/d17/a17660.html#a953842d2fa3380a8331faf3a42cb3177", null ]
+    [ "FilterTargetsInitial", "d6/d17/a17660.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
+    [ "FilterTargetsSubsequent", "d6/d17/a17660.html#a11732039155235c287757980129d5a8e", null ],
+    [ "Load", "d6/d17/a17660.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
+    [ "PrepareSpellScript", "d6/d17/a17660.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
+    [ "Register", "d6/d17/a17660.html#a56a4e65df08a95fddde75162358155c2", null ],
+    [ "_target", "d6/d17/a17660.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
 ];

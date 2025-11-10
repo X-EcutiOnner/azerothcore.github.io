@@ -1,6 +1,7 @@
 var a23204 =
 [
-    [ "ShadowOfDeathSelector", "d9/d5f/a23204.html#a1190094fbde74ccffd954fea742ab0ae", null ],
-    [ "operator()", "d9/d5f/a23204.html#a3c91b315ce6d6c523d4bdb8a8206a3c8", null ],
-    [ "_tank", "d9/d5f/a23204.html#adc238645eec306e00918dbab05549fc8", null ]
+    [ "HandleOnHit", "d9/d5f/a23204.html#a9f368396cef39ba3bd70480f11c44700", null ],
+    [ "PrepareSpellScript", "d9/d5f/a23204.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
+    [ "Register", "d9/d5f/a23204.html#a99f80adcebdd9726a8df51f99d415651", null ],
+    [ "Validate", "d9/d5f/a23204.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
 ];

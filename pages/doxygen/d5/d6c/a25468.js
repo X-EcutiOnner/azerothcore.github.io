@@ -1,7 +1,7 @@
 var a25468 =
 [
-    [ "OnApply", "d5/d6c/a25468.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
-    [ "OnRemove", "d5/d6c/a25468.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
-    [ "PrepareAuraScript", "d5/d6c/a25468.html#a9a7b549e059b6bd2d22802f60e952658", null ],
-    [ "Register", "d5/d6c/a25468.html#aae603735281daf02ceca157e218d5c9f", null ]
+    [ "HandleDamage", "d5/d6c/a25468.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
+    [ "PrepareSpellScript", "d5/d6c/a25468.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
+    [ "Register", "d5/d6c/a25468.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
+    [ "Validate", "d5/d6c/a25468.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
 ];

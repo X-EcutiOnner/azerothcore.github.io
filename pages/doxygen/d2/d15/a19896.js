@@ -1,6 +1,6 @@
 var a19896 =
 [
-    [ "npc_living_constellationAI", "d4/dfa/a19900.html", "d4/dfa/a19900" ],
-    [ "npc_living_constellation", "d2/d15/a19896.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
-    [ "GetAI", "d2/d15/a19896.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
+    [ "HandlePeriodic", "d2/d15/a19896.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
+    [ "PrepareAuraScript", "d2/d15/a19896.html#a7c6b6839da4a93f656800c9ae174c832", null ],
+    [ "Register", "d2/d15/a19896.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
 ];

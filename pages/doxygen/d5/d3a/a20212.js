@@ -1,6 +1,6 @@
 var a20212 =
 [
-    [ "CheckCast", "d5/d3a/a20212.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
-    [ "PrepareSpellScript", "d5/d3a/a20212.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
-    [ "Register", "d5/d3a/a20212.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
+    [ "boss_freya_elder_stonebarkAI", "d7/d44/a20216.html", "d7/d44/a20216" ],
+    [ "boss_freya_elder_stonebark", "d5/d3a/a20212.html#a9c90c504d78456580ae657a42fac4075", null ],
+    [ "GetAI", "d5/d3a/a20212.html#a0b529bb8755c56046c40b620ef4b7448", null ]
 ];

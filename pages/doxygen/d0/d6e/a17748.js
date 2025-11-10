@@ -1,9 +1,20 @@
 var a17748 =
 [
-    [ "BattleExperienceEvent", "d0/d6e/a17748.html#a3091b403089533ce2ebbb40fa38f28c9", null ],
-    [ "Execute", "d0/d6e/a17748.html#a3971962ec90f682baeae96fe6098fa97", null ],
-    [ "_creature", "d0/d6e/a17748.html#a0155536d5c2be329a1f3b57c4d852098", null ],
-    [ "_level", "d0/d6e/a17748.html#a22f0d7e59f579362be4576180d0977b8", null ],
-    [ "ExperiencedSpells", "d0/d6e/a17748.html#a5e2e06a386059ba2d9aff676648fa56b", null ],
-    [ "ExperiencedTimes", "d0/d6e/a17748.html#af682cc246c7fdae39cc2a1e57110badc", null ]
+    [ "npc_high_overlord_saurfang_igbAI", "d0/d6e/a17748.html#a1fce8cbcb5259774c0019c19bae334d0", null ],
+    [ "AttackStart", "d0/d6e/a17748.html#a7c04475d2de487a26aa3e7f58ad219e5", null ],
+    [ "CanAIAttack", "d0/d6e/a17748.html#a58b5476b42ea1d249cb3795da86509db", null ],
+    [ "DamageTaken", "d0/d6e/a17748.html#ae2715e5410ddf25734469594f72c7373", null ],
+    [ "DoAction", "d0/d6e/a17748.html#acf222bf3f1204215918e339d57e6ee37", null ],
+    [ "EnterEvadeMode", "d0/d6e/a17748.html#a8c66bcf54ba7d2c5a8d89a792e89fc8f", null ],
+    [ "JustEngagedWith", "d0/d6e/a17748.html#aa98690c2c7002915c72e68f9136a9ace", null ],
+    [ "SetData", "d0/d6e/a17748.html#ae3f9c7ef83cb3841f3081a5c8391ad85", null ],
+    [ "sGossipSelect", "d0/d6e/a17748.html#af3f71dfd8888a9d7eccdaff50315bea1", null ],
+    [ "UpdateAI", "d0/d6e/a17748.html#adf12312ee9a037b7cdbf384137a8ceb4", null ],
+    [ "_axethrowersYellCooldown", "d0/d6e/a17748.html#ad98e613c8d4625687f9ab16979d21707", null ],
+    [ "_controller", "d0/d6e/a17748.html#a259a8e82ed7a58f09d546fbcb317ea33", null ],
+    [ "_events", "d0/d6e/a17748.html#a132fc1f697d32c76c10766c71948fe01", null ],
+    [ "_firstMageCooldown", "d0/d6e/a17748.html#a984e2f3d3cf2b254717e2b4d1418216d", null ],
+    [ "_instance", "d0/d6e/a17748.html#aecb488fb2e2682c107072ea66d02ea8f", null ],
+    [ "_rocketeersYellCooldown", "d0/d6e/a17748.html#a0435dba6aff5287b1d10420a54a72d28", null ],
+    [ "checkTimer", "d0/d6e/a17748.html#a1c610a1cf0ba5a27aeb98d51dff916fa", null ]
 ];

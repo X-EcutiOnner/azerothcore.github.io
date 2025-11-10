@@ -1,6 +1,7 @@
 var a27908 =
 [
-    [ "npc_spring_rabbitAI", "de/d3a/a27912.html", "de/d3a/a27912" ],
-    [ "npc_spring_rabbit", "da/df2/a27908.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
-    [ "GetAI", "da/df2/a27908.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
+    [ "npc_crashin_thrashin_robot", "da/df2/a27908.html#ad21336d212498b1c9ef5d46979d147ab", null ],
+    [ "IsSummonedBy", "da/df2/a27908.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
+    [ "UpdateAI", "da/df2/a27908.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
+    [ "_scheduler", "da/df2/a27908.html#a55778501d154d0a9e77f76054e926f85", null ]
 ];

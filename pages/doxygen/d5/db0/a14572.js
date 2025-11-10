@@ -1,6 +1,8 @@
 var a14572 =
 [
-    [ "HandleScript", "d5/db0/a14572.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
-    [ "PrepareSpellScript", "d5/db0/a14572.html#aab4303fff660c68db100e07a4423c39b", null ],
-    [ "Register", "d5/db0/a14572.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
+    [ "CalcPeriodic", "d5/db0/a14572.html#ae2ce9c161a25385c6de1f4b7607c9935", null ],
+    [ "HandleEffectApply", "d5/db0/a14572.html#a4321da69ee59416bd50e621b804e5423", null ],
+    [ "HandleEffectPeriodicUpdate", "d5/db0/a14572.html#a3f23e4a8fecf83ba580c904f15e1e98b", null ],
+    [ "PrepareAuraScript", "d5/db0/a14572.html#a956136be8cb484efc9af2429d8779a03", null ],
+    [ "Register", "d5/db0/a14572.html#a1d4b1c43305b3133e4ac7f8b6ce70727", null ]
 ];

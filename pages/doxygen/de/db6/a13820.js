@@ -1,6 +1,6 @@
 var a13820 =
 [
-    [ "npc_rinjiAI", "d7/d67/a13824.html", "d7/d67/a13824" ],
-    [ "npc_rinji", "de/db6/a13820.html#af89b9c77b1a57dc506de0398a0d4b957", null ],
-    [ "GetAI", "de/db6/a13820.html#a5457ac00ce0b195752640358b912af10", null ]
+    [ "CheckProc", "de/db6/a13820.html#af6d00234388ceb5d1c9acd8775c66788", null ],
+    [ "PrepareAuraScript", "de/db6/a13820.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
+    [ "Register", "de/db6/a13820.html#acad1e829a317d15e73549047ece67eda", null ]
 ];

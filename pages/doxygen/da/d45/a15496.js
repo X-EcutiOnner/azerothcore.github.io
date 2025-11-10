@@ -1,6 +1,6 @@
 var a15496 =
 [
-    [ "HandleDummy", "da/d45/a15496.html#a09b21b3e5357c49d85ef01d9a5d4694f", null ],
-    [ "PrepareSpellScript", "da/d45/a15496.html#ac221d3d128265d78acc72d41ebf0fd8a", null ],
-    [ "Register", "da/d45/a15496.html#a67be525bc07ef7091d9b8148c1a01fb9", null ]
+    [ "npc_draenei_survivorAI", "d8/d38/a15500.html", "d8/d38/a15500" ],
+    [ "npc_draenei_survivor", "da/d45/a15496.html#a1dca668a7c3f868677a9bf306288430c", null ],
+    [ "GetAI", "da/d45/a15496.html#aa8dde30279bb898a4412491faca79267", null ]
 ];

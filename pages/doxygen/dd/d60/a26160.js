@@ -1,6 +1,6 @@
 var a26160 =
 [
-    [ "HandleOpenObject", "dd/d60/a26160.html#ab658c13615fac1861470bb4b853e76a4", null ],
-    [ "PrepareSpellScript", "dd/d60/a26160.html#a0fd0a3dc06fc2140add9e3d86e544bef", null ],
-    [ "Register", "dd/d60/a26160.html#a40ff1e10d366ca7183e4e8d027c92d1b", null ]
+    [ "OnPeriodic", "dd/d60/a26160.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
+    [ "PrepareAuraScript", "dd/d60/a26160.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
+    [ "Register", "dd/d60/a26160.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
 ];

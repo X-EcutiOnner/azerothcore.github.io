@@ -1,7 +1,7 @@
 var a27112 =
 [
-    [ "HandleDispel", "db/dcd/a27112.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
-    [ "PrepareAuraScript", "db/dcd/a27112.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
-    [ "Register", "db/dcd/a27112.html#a2c67e4327fdd034978d4822311632980", null ],
-    [ "Validate", "db/dcd/a27112.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
+    [ "HandleApply", "db/dcd/a27112.html#a046abc4b8afd26d13bcb7140165aed80", null ],
+    [ "HandleRemove", "db/dcd/a27112.html#ad35716d4210572057fe67d426849931a", null ],
+    [ "PrepareAuraScript", "db/dcd/a27112.html#a9af96871b8b7ac19de01e316f4350ebf", null ],
+    [ "Register", "db/dcd/a27112.html#a37c4c881c563882fb72693babe545fc4", null ]
 ];

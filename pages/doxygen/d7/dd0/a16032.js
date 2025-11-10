@@ -1,17 +1,12 @@
 var a16032 =
 [
-    [ "boss_volazj", "d7/dd0/a16032.html#ac1f0bc7b55a554d29e55a376680bf747", null ],
-    [ "CheckPhaseMinions", "d7/dd0/a16032.html#aa79bf97b6772956795bd2f16b85e061f", null ],
-    [ "DamageTaken", "d7/dd0/a16032.html#a494d78875526d878421b995145b74a12", null ],
-    [ "GetPlrInsanityAuraId", "d7/dd0/a16032.html#a5b6936cedb3fc411ae58f3dc3f6b689a", null ],
-    [ "InitializeAI", "d7/dd0/a16032.html#a9480c4294b18c5417895e5070be9a455", null ],
-    [ "JustDied", "d7/dd0/a16032.html#a6c85c56c2483c3e8b4de67b94a45e0a6", null ],
-    [ "JustEngagedWith", "d7/dd0/a16032.html#a135c5606742474e77ffd0ee0a3c3ee69", null ],
-    [ "KilledUnit", "d7/dd0/a16032.html#abdf2cb95f0d3d7756584c338f2e2db25", null ],
-    [ "Reset", "d7/dd0/a16032.html#a0377375b89b02db3cae01390fdd13ee2", null ],
-    [ "ResetPlayersPhaseMask", "d7/dd0/a16032.html#afbfa62f2b72a95434348f74fdda46da6", null ],
-    [ "SetData", "d7/dd0/a16032.html#aa8b5ae6214f0c764f15b096876d614d7", null ],
-    [ "UpdateAI", "d7/dd0/a16032.html#aceac85fb06c81ccd171b024ad0d57ffe", null ],
-    [ "insanityPhase", "d7/dd0/a16032.html#ae90de1e956eb3653c8c2f0c04d89585b", null ],
-    [ "insanityTimes", "d7/dd0/a16032.html#a7d2693147f9cb20a45ff2e5b6a2ca209", null ]
+    [ "npc_taldaram_flamesphere", "d7/dd0/a16032.html#aad7d6696b54e39c6abd27a7252353360", null ],
+    [ "DoAction", "d7/dd0/a16032.html#aa79e370c1c30eccb44a46b622e2d5f2a", null ],
+    [ "IsSummonedBy", "d7/dd0/a16032.html#acb232931bc181eedf4b39d5519dd45e2", null ],
+    [ "JustDied", "d7/dd0/a16032.html#ae6dfff3df39257c55495707934d5d38b", null ],
+    [ "SetVictimPos", "d7/dd0/a16032.html#a51f1683806095c760d4accff9e23f8b6", null ],
+    [ "UpdateAI", "d7/dd0/a16032.html#a163341c0ff0f56986e2486e06e21b4b2", null ],
+    [ "instance", "d7/dd0/a16032.html#afd0ff83cb5fba1fbeb85b7d600f1b1de", null ],
+    [ "moveTimer", "d7/dd0/a16032.html#afe50ac59ec441ab11745ca9461158a00", null ],
+    [ "victimPos", "d7/dd0/a16032.html#ae681d84f2324faf22296dcb6e08484b0", null ]
 ];

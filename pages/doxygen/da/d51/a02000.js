@@ -1,8 +1,8 @@
 var a02000 =
 [
-    [ "boss_warchief_kargath_bladefist", "dd/d11/a23884.html", "dd/d11/a23884" ],
-    [ "npc_warchief_portal", "d2/daf/a23888.html", "d2/daf/a23888" ],
-    [ "spell_blade_dance_targeting", "da/de4/a23892.html", "da/de4/a23892" ],
+    [ "boss_warchief_kargath_bladefist", "da/d4e/a23856.html", "da/d4e/a23856" ],
+    [ "npc_warchief_portal", "de/d09/a23860.html", "de/d09/a23860" ],
+    [ "spell_blade_dance_targeting", "d9/df3/a23864.html", "d9/df3/a23864" ],
     [ "Creatures", "da/d51/a02000.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "d5/d56/a03437.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "d5/d56/a03437.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],
@@ -2427,7 +2427,6 @@ var a02000 =
       [ "SPELL_FROSTBOLT", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e", null ],
       [ "SPELL_TOUCH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d", null ],
       [ "SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6", null ],
-      [ "SPELL_RAIN_OF_FIRE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca770475c37ddfbb0a8c98a0c8a7c98f0d", null ],
       [ "SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8", null ],
       [ "SPELL_EYE_BEAM", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc", null ],
       [ "SPELL_LIGHTNING_BREATH", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298caba0559b83dfa3b94464ac474a4b62e3e", null ],

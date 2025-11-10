@@ -1,10 +1,6 @@
 var a16872 =
 [
-    [ "boss_dredAI", "d6/d86/a16872.html#a4ad04fe31990a37fd6d3a23329350248", null ],
-    [ "GetData", "d6/d86/a16872.html#a7a93506d77eaf40c6f7be9e433f211e1", null ],
-    [ "JustEngagedWith", "d6/d86/a16872.html#ae6e1181dcdea763460ca72148abfcb3f", null ],
-    [ "Reset", "d6/d86/a16872.html#a5fe153ab58b1feedce5afa6b10a0d3de", null ],
-    [ "SetData", "d6/d86/a16872.html#a884f48aabc26b054dcd303a91cb88301", null ],
-    [ "UpdateAI", "d6/d86/a16872.html#afc12ced9b5026fe3b297560c30e129ed", null ],
-    [ "_raptorCount", "d6/d86/a16872.html#a95aa63c18d7e1f2dec2491ac4649a378", null ]
+    [ "HandleEffectApply", "d6/d86/a16872.html#aaea2c3733dadc19072c81774468e345a", null ],
+    [ "PrepareAuraScript", "d6/d86/a16872.html#a3848997e9f775add50d40342b6211ff0", null ],
+    [ "Register", "d6/d86/a16872.html#a775b1cf494049ed13d149ca6318142c3", null ]
 ];

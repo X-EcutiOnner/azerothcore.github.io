@@ -1,7 +1,6 @@
 var a19564 =
 [
-    [ "HandlePull", "dc/d58/a19564.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "dc/d58/a19564.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "dc/d58/a19564.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "dc/d58/a19564.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "boss_drakosAI", "dc/d77/a19568.html", "dc/d77/a19568" ],
+    [ "boss_drakos", "dc/d58/a19564.html#aa70ae2809af4f24eea0b83b42d695448", null ],
+    [ "GetAI", "dc/d58/a19564.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
 ];

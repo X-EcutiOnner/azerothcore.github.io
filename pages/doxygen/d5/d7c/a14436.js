@@ -1,6 +1,6 @@
 var a14436 =
 [
-    [ "HandleDummyEffect", "d5/d7c/a14436.html#a3860ad8a34e37601f7a4cef395f7ab2a", null ],
-    [ "PrepareSpellScript", "d5/d7c/a14436.html#a1c69fb2fd3fa623d62647fca738d27d6", null ],
-    [ "Register", "d5/d7c/a14436.html#ad1cbf7ed8f7d119bb56d06fb62358458", null ]
+    [ "npc_direbrew_antagonist", "d5/d7c/a14436.html#a30fed4e6888d98af576dea8e13c510d3", null ],
+    [ "DoAction", "d5/d7c/a14436.html#a924891e5d4e3f30d78186bedf76cf7d1", null ],
+    [ "JustEngagedWith", "d5/d7c/a14436.html#aaf54b03d66d726901c289ff28d362787", null ]
 ];

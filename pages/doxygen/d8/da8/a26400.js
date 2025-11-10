@@ -1,10 +1,10 @@
 var a26400 =
 [
-    [ "spell_pal_judgement", "d8/da8/a26400.html#a497aed8c1d8c6a2af22e9e8daae96e14", null ],
-    [ "HandleScriptEffect", "d8/da8/a26400.html#add419a824dbebdc168d2b6dc49d07913", null ],
-    [ "PrepareSpellScript", "d8/da8/a26400.html#a2cffed69c16a1a6189048ed52af35152", null ],
-    [ "Register", "d8/da8/a26400.html#ad8e65beb41a1bb41a2dd307f3b1da839", null ],
-    [ "SealApplication", "d8/da8/a26400.html#a0bb55f122d560c70f416e448d03d2184", null ],
-    [ "Validate", "d8/da8/a26400.html#a3971c195a279338253771675131b4802", null ],
-    [ "_spellId", "d8/da8/a26400.html#ad49ea02800078c672747f4fdbbab1d20", null ]
+    [ "CalculateAPAmount", "d8/da8/a26400.html#a611247fcbdaeeb416a8cfbaf1a0fc415", null ],
+    [ "CalculateResistanceAmount", "d8/da8/a26400.html#aa3fd9aa18ea2afa20c7c2298a8699812", null ],
+    [ "CalculateSPAmount", "d8/da8/a26400.html#a9ae59870127884029a938684786e67a9", null ],
+    [ "CalculateStatAmount", "d8/da8/a26400.html#a4ac5ffabf820d73d4a92a4a0628370e9", null ],
+    [ "HandleEffectApply", "d8/da8/a26400.html#aaca0801f75839ebd9568c4cd31011a1e", null ],
+    [ "PrepareAuraScript", "d8/da8/a26400.html#aa90952337607986eaf7485200a32c353", null ],
+    [ "Register", "d8/da8/a26400.html#a88520214bd87511b615965593f1b927f", null ]
 ];

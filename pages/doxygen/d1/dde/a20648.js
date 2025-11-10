@@ -1,6 +1,9 @@
 var a20648 =
 [
-    [ "npc_ulduar_mimiron_rocketAI", "d9/d02/a20652.html", "d9/d02/a20652" ],
-    [ "npc_ulduar_mimiron_rocket", "d1/dde/a20648.html#afcd90dbd893ec5e8424eb4197e7dec6d", null ],
-    [ "GetAI", "d1/dde/a20648.html#ad1c6162db0f69a1a6b5016ae505e5535", null ]
+    [ "HandleEffectPeriodic", "d1/dde/a20648.html#ae3cb0f7a3da5a72eaa59350d7df13ffc", null ],
+    [ "Load", "d1/dde/a20648.html#a60deabce505dd3993dca0e71402dc190", null ],
+    [ "PrepareAuraScript", "d1/dde/a20648.html#a9a2fae625718f854ec5d2587a01a2da7", null ],
+    [ "Register", "d1/dde/a20648.html#a524c071390365b7dab59bc7a79b50f15", null ],
+    [ "_lastMSTime", "d1/dde/a20648.html#a013e9e0eef93583722f7d347c2ebbc49", null ],
+    [ "_lastOrientation", "d1/dde/a20648.html#a2537b325ff57b867092f3d9a1bd0fa8b", null ]
 ];

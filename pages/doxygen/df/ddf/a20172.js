@@ -1,5 +1,6 @@
 var a20172 =
 [
-    [ "FlameLeviathanPursuedTargetSelector", "df/ddf/a20172.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
-    [ "operator()", "df/ddf/a20172.html#aaa2a49366fb651f7486b463ce597f364", null ]
+    [ "PrepareSpellScript", "df/ddf/a20172.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
+    [ "RecalculateDamage", "df/ddf/a20172.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
+    [ "Register", "df/ddf/a20172.html#af2b5382122be41a6b1ee4ab721b417da", null ]
 ];

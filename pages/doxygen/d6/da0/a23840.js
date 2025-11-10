@@ -1,15 +1,15 @@
 var a23840 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "d6/da0/a23840.html#a06f7e0f178d45a92f16dc06b68645fba", null ],
-    [ "Initialize", "d6/da0/a23840.html#afa054fb11fe777019baa70f46bfd8212", null ],
-    [ "OnCreatureCreate", "d6/da0/a23840.html#aa05f08785d9d62db41e8d29ef55db0d8", null ],
-    [ "OnCreatureRemove", "d6/da0/a23840.html#a727d4d3bfc52391a088e86fef013617c", null ],
-    [ "OnGameObjectCreate", "d6/da0/a23840.html#a020584d79926d170c02655c5e2841127", null ],
-    [ "OnGameObjectRemove", "d6/da0/a23840.html#a9a6ac60b68e2a515e771696c5c88b93d", null ],
-    [ "SetBossState", "d6/da0/a23840.html#a160269f8d4cde5297d5f70a5f8eec2b2", null ],
-    [ "SetData", "d6/da0/a23840.html#a847abafb7b00e9b2cab73a90a16b959e", null ],
-    [ "_columnSet", "d6/da0/a23840.html#a2593bf88b0aba019a831b3ca6a8e15b9", null ],
-    [ "_cubesSet", "d6/da0/a23840.html#ad59566c515cbea3274d17e483f3b4ef1", null ],
-    [ "_magtheridonGUID", "d6/da0/a23840.html#a03e70ccaf8c23d2c775051320c6c4636", null ],
-    [ "_wardersSet", "d6/da0/a23840.html#a37b2621d50e8a8f0bee3f089dbce88f9", null ]
+    [ "npc_shattered_hand_scout", "d6/da0/a23840.html#a51a57eaaad75817a9b5a81210e01ed51", null ],
+    [ "DamageTaken", "d6/da0/a23840.html#ad37c34ae2dee082f1b4eed90bc4a3618", null ],
+    [ "FireArrows", "d6/da0/a23840.html#aa3043011d7d9e7b7c5826b9afc7581d1", null ],
+    [ "GetPorung", "d6/da0/a23840.html#a575b12c40aeccd6d0cdd63f71a3b93d6", null ],
+    [ "MoveInLineOfSight", "d6/da0/a23840.html#a2ddb6fd6aa6221768ff71257f4bdd81b", null ],
+    [ "MovementInform", "d6/da0/a23840.html#a6f6198c2faf68823b1d4c8237044784b", null ],
+    [ "Reset", "d6/da0/a23840.html#a1fcf0da2cc4a0554f04b3624b68de598", null ],
+    [ "SetData", "d6/da0/a23840.html#a9416dd89c4728538971abc5975c7080f", null ],
+    [ "UpdateAI", "d6/da0/a23840.html#a91c2c7eca064d6eaafe5ecaeca4344b4", null ],
+    [ "_firstZealots", "d6/da0/a23840.html#a2b5fd63b01e4ecb96b006e3870b37609", null ],
+    [ "_scheduler", "d6/da0/a23840.html#a376f6eab11f8399493d5d33b5c4ea35a", null ],
+    [ "_zealotGUIDs", "d6/da0/a23840.html#a26381a05bb007fdb4b7da97a19a878da", null ]
 ];

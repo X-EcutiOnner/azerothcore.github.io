@@ -1,6 +1,7 @@
 var a18092 =
 [
-    [ "PrepareSpellScript", "d8/d59/a18092.html#a16eadb50b6038f16ea28464d00df3381", null ],
-    [ "Register", "d8/d59/a18092.html#ac6e304d391011863b8eff8105fab5191", null ],
-    [ "SelectDest", "d8/d59/a18092.html#a8ff5d684c0b91d0f068d03698c1ee92c", null ]
+    [ "HandleTriggerSpell", "d8/d59/a18092.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
+    [ "OnRemove", "d8/d59/a18092.html#a238adc96e80c1890934b23dd4a2685b4", null ],
+    [ "PrepareAuraScript", "d8/d59/a18092.html#af9ce7433b620fdf1dea570561c514b3b", null ],
+    [ "Register", "d8/d59/a18092.html#ab36a001ea8cd87703e2694e0765635c0", null ]
 ];

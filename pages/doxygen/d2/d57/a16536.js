@@ -1,8 +1,6 @@
 var a16536 =
 [
-    [ "npc_announcer_toc5AI", "d6/d76/a16540.html", "d6/d76/a16540" ],
-    [ "npc_announcer_toc5", "d2/d57/a16536.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
-    [ "GetAI", "d2/d57/a16536.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
-    [ "OnGossipHello", "d2/d57/a16536.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
-    [ "OnGossipSelect", "d2/d57/a16536.html#a9017488c652fd75882db75914f4a2db2", null ]
+    [ "npc_frost_sphereAI", "d6/d76/a16540.html", "d6/d76/a16540" ],
+    [ "npc_frost_sphere", "d2/d57/a16536.html#a0256ba1c53853307f8b66e22b10bef24", null ],
+    [ "GetAI", "d2/d57/a16536.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
 ];

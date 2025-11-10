@@ -1,9 +1,6 @@
 var a13900 =
 [
-    [ "npc_tyrion_spybotAI", "dd/d4d/a13900.html#aedad685279012266637d29069ead9063", null ],
-    [ "Reset", "dd/d4d/a13900.html#a16f8f9fd368832aac7906c3fd8cb9698", null ],
-    [ "UpdateAI", "dd/d4d/a13900.html#ad8fc713bb9673e74bfd11bc653c71587", null ],
-    [ "WaypointReached", "dd/d4d/a13900.html#a819e987eeb8eb8d580a5ad22001a641d", null ],
-    [ "uiPhase", "dd/d4d/a13900.html#af5dbb99fe18d96665efd04bd53294636", null ],
-    [ "uiTimer", "dd/d4d/a13900.html#ab41fdff3612b29e7d0d94fb6aaa8c085", null ]
+    [ "npc_parqual_fintallas", "dd/d4d/a13900.html#a9edaf1f7cf4e81ce24c54faa4aed6cf6", null ],
+    [ "OnGossipHello", "dd/d4d/a13900.html#af7c1f119d91aa63ee96765f2092b0a6c", null ],
+    [ "OnGossipSelect", "dd/d4d/a13900.html#a39276ef82ec5214a1727ebd60235a506", null ]
 ];

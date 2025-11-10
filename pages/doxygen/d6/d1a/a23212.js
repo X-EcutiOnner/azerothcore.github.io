@@ -1,5 +1,6 @@
 var a23212 =
 [
-    [ "npc_vengeful_spirit", "d6/d1a/a23212.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
-    [ "OnCharmed", "d6/d1a/a23212.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
+    [ "HandleDummy", "d6/d1a/a23212.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
+    [ "PrepareSpellScript", "d6/d1a/a23212.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
+    [ "Register", "d6/d1a/a23212.html#a972574075c86c32593982add71dc893f", null ]
 ];

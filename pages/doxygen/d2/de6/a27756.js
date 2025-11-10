@@ -1,8 +1,7 @@
 var a27756 =
 [
-    [ "npc_franklinAI", "dd/d88/a27760.html", "dd/d88/a27760" ],
-    [ "npc_franklin", "d2/de6/a27756.html#aab059dfa69e52083892e3170c8838e0a", null ],
-    [ "GetAI", "d2/de6/a27756.html#a10933878afe9d0cc78fa1113341fd522", null ],
-    [ "OnGossipHello", "d2/de6/a27756.html#a318d512914b135800caabe0efbb1c467", null ],
-    [ "OnGossipSelect", "d2/de6/a27756.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
+    [ "npc_riggle_bassbaitAI", "d2/de6/a27756.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
+    [ "CheckTournamentState", "d2/de6/a27756.html#aa7b4393b93be92fbb595648cede832be", null ],
+    [ "UpdateAI", "d2/de6/a27756.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
+    [ "m_uiTimer", "d2/de6/a27756.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
 ];

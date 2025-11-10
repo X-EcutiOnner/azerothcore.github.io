@@ -1,7 +1,7 @@
 var a21284 =
 [
-    [ "HandleEffectPeriodic", "db/d4d/a21284.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
-    [ "PrepareAuraScript", "db/d4d/a21284.html#a748cd347867557b5048d9ba0c112cd80", null ],
-    [ "Register", "db/d4d/a21284.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
-    [ "Validate", "db/d4d/a21284.html#afa86789ef14b1d06094705ba6cfb9205", null ]
+    [ "HandleOnEffectRemove", "db/d4d/a21284.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
+    [ "PrepareAuraScript", "db/d4d/a21284.html#a72e6468602d40eb479a80c611d60eb2e", null ],
+    [ "Register", "db/d4d/a21284.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
+    [ "Validate", "db/d4d/a21284.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
 ];

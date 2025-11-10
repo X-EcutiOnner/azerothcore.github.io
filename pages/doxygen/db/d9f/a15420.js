@@ -1,5 +1,6 @@
 var a15420 =
 [
-    [ "at_twin_emperors", "db/d9f/a15420.html#a343d482857fa0a45c42f593e591f7754", null ],
-    [ "_OnTrigger", "db/d9f/a15420.html#adf3120b7bf611e0246abb2970711ada3", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d9/da7/a15424.html", "d9/da7/a15424" ],
+    [ "instance_temple_of_ahnqiraj", "db/d9f/a15420.html#a316c5e2cac59f2ee2520fba1b97407e3", null ],
+    [ "GetInstanceScript", "db/d9f/a15420.html#a9e3060d9f2188f410da8aa3e9526e79d", null ]
 ];

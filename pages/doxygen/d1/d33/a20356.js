@@ -1,5 +1,7 @@
 var a20356 =
 [
-    [ "achievement_smell_saronite", "d1/d33/a20356.html#a42dce2aefa2561952dcf5289126035a8", null ],
-    [ "OnCheck", "d1/d33/a20356.html#a5180e3e53fa0f4d32d2a305d315bc8b3", null ]
+    [ "npc_ulduar_icicleAI", "d1/d33/a20356.html#a258376e257fbe3c8a6c70b2585d44df1", null ],
+    [ "UpdateAI", "d1/d33/a20356.html#a0edf734ae2dac7a5378b21b73e3714c8", null ],
+    [ "timer1", "d1/d33/a20356.html#aa912acbe225d9056e44bc22b8d9f7473", null ],
+    [ "timer2", "d1/d33/a20356.html#a82e034fc4ccb8eb92abeb72a222764c7", null ]
 ];

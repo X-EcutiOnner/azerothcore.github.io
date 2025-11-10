@@ -1,6 +1,7 @@
 var a15804 =
 [
-    [ "npc_braug_dimspirit", "d2/daf/a15804.html#ade08e9ad549d80c2f7918dbfcfbf41dc", null ],
-    [ "OnGossipHello", "d2/daf/a15804.html#aeaed026edf5a1fa82c941f667c05815b", null ],
-    [ "OnGossipSelect", "d2/daf/a15804.html#a87ea1ba3e247c9b14c1f6c72b3addea0", null ]
+    [ "npc_steward_of_time", "d2/daf/a15804.html#ad49973464c96f44506033b73a85f6360", null ],
+    [ "OnGossipHello", "d2/daf/a15804.html#a3b61038393c3addbbfa6643438164db3", null ],
+    [ "OnGossipSelect", "d2/daf/a15804.html#af4fe13e266a98129b92e5a25188d947c", null ],
+    [ "OnQuestAccept", "d2/daf/a15804.html#a53d552282da49e8246089b2799fff9ca", null ]
 ];

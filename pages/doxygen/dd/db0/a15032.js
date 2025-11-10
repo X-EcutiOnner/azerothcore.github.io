@@ -1,6 +1,9 @@
 var a15032 =
 [
-    [ "instance_old_hillsbrad_InstanceMapScript", "d8/d1c/a15036.html", "d8/d1c/a15036" ],
-    [ "instance_old_hillsbrad", "dd/db0/a15032.html#a1ba2d39ae8f9209055de4b944cc535d8", null ],
-    [ "GetInstanceScript", "dd/db0/a15032.html#a1929c38b1c745b2df1ccaf462113e220", null ]
+    [ "boss_chrono_lord_deja", "dd/db0/a15032.html#a85f82d4bde99b7e1d05fba82177916e6", null ],
+    [ "JustDied", "dd/db0/a15032.html#a68eb4941364f9fac121aa3d610d45f48", null ],
+    [ "JustEngagedWith", "dd/db0/a15032.html#ab5324b2993f2fd1ec3290eb962ef6065", null ],
+    [ "KilledUnit", "dd/db0/a15032.html#a02c279fb1cfccd38dc60ba7c610cf859", null ],
+    [ "MoveInLineOfSight", "dd/db0/a15032.html#a535c0c157c60804188ad8c4413c277dd", null ],
+    [ "OwnTalk", "dd/db0/a15032.html#acdef53bd447c30d87bd15af3bf4200bc", null ]
 ];

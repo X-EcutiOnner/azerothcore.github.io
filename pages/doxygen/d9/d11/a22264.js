@@ -1,5 +1,6 @@
 var a22264 =
 [
-    [ "npc_black_knight_graveyardAI", "d9/d11/a22264.html#a908ccf6763240ba0c0ebdf2dec6e1b36", null ],
-    [ "MoveInLineOfSight", "d9/d11/a22264.html#aa5c80b5759656e3865d6721161f9f005", null ]
+    [ "npc_boneguard_footmanAI", "d1/df9/a22268.html", "d1/df9/a22268" ],
+    [ "npc_boneguard_footman", "d9/d11/a22264.html#aba17f89b9546deff5401ad33224b2b3e", null ],
+    [ "GetAI", "d9/d11/a22264.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
 ];

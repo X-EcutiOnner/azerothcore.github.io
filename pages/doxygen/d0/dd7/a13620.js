@@ -1,8 +1,9 @@
 var a13620 =
 [
-    [ "HandleApply", "d0/dd7/a13620.html#a2c64240e8675fc76598600ae2632570f", null ],
-    [ "HandleRemove", "d0/dd7/a13620.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
-    [ "PrepareAuraScript", "d0/dd7/a13620.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
-    [ "Register", "d0/dd7/a13620.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
-    [ "Validate", "d0/dd7/a13620.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
+    [ "npc_dark_fiend", "d0/dd7/a13620.html#a8c4ebf7ba2f991df7053d40108330609", null ],
+    [ "DamageTaken", "d0/dd7/a13620.html#a39daa01688ec4ddadf9f1d185faa3f48", null ],
+    [ "Reset", "d0/dd7/a13620.html#a5622d14f84ad8e47da773852f1778d56", null ],
+    [ "UpdateAI", "d0/dd7/a13620.html#ab4a7cbc09f4b830039cf4c6f59b2b30e", null ],
+    [ "_lastVictimGUID", "d0/dd7/a13620.html#abcccb35701f21d417e3c13709cc24281", null ],
+    [ "_spellCast", "d0/dd7/a13620.html#a4cde5fbbeedfc7ed2907a2b797f6aafa", null ]
 ];

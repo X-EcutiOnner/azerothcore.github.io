@@ -1,6 +1,6 @@
 var a27868 =
 [
-    [ "npc_steam_tonkAI", "d4/df5/a27872.html", "d4/df5/a27872" ],
-    [ "npc_steam_tonk", "d5/d57/a27868.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
-    [ "GetAI", "d5/d57/a27868.html#a38e51485a3610a204a45677fce15c943", null ]
+    [ "npc_experience", "d5/d57/a27868.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
+    [ "OnGossipHello", "d5/d57/a27868.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
+    [ "OnGossipSelect", "d5/d57/a27868.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
 ];

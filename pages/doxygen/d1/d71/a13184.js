@@ -1,7 +1,11 @@
 var a13184 =
 [
-    [ "HandleEffectApply", "d1/d71/a13184.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
-    [ "PrepareAuraScript", "d1/d71/a13184.html#a9829789fe5544429454e29d228ce0daf", null ],
-    [ "Register", "d1/d71/a13184.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
-    [ "Validate", "d1/d71/a13184.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
+    [ "npc_a_special_surpriseAI", "d1/d71/a13184.html#acf062337317d98e491e40cf6ae9bb3ea", null ],
+    [ "MeetQuestCondition", "d1/d71/a13184.html#a35f4db17e0301ceaaab49727d1ca8289", null ],
+    [ "MoveInLineOfSight", "d1/d71/a13184.html#af0b183b951f1eba8114da1f7a1284d09", null ],
+    [ "Reset", "d1/d71/a13184.html#a9526f6b257eade275b828d2b30328533", null ],
+    [ "UpdateAI", "d1/d71/a13184.html#a8572ec4b4fdcaab93666f581edf1c852", null ],
+    [ "ExecuteSpeech_Counter", "d1/d71/a13184.html#ae1ff67fb743b4125b015c1ecce4bc9db", null ],
+    [ "ExecuteSpeech_Timer", "d1/d71/a13184.html#a8761840d6abdc0b195b5860b95f59b1c", null ],
+    [ "PlayerGUID", "d1/d71/a13184.html#a683cdbd0ef9d0562842aace5b440594f", null ]
 ];

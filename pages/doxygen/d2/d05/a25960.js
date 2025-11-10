@@ -1,6 +1,7 @@
 var a25960 =
 [
-    [ "HandleScript", "d2/d05/a25960.html#ab923050ce4613538ee4837daba09dd33", null ],
-    [ "PrepareSpellScript", "d2/d05/a25960.html#a9fa37b95f9c3788764922f4414c383f5", null ],
-    [ "Register", "d2/d05/a25960.html#a4bacedda40b04934e7473f7a92f6a314", null ]
+    [ "HandleScript", "d2/d05/a25960.html#a5b35bbac405dc2b03f195cb29786d5a6", null ],
+    [ "Load", "d2/d05/a25960.html#a61f1a4514e9900e4e14fded3c0b05593", null ],
+    [ "PrepareSpellScript", "d2/d05/a25960.html#abfac1629b7724a3b17b94480c31867af", null ],
+    [ "Register", "d2/d05/a25960.html#a62b9c194106e261245496441176c8d53", null ]
 ];

@@ -1,6 +1,6 @@
 var a16972 =
 [
-    [ "boss_bronjahmAI", "d8/dd7/a16976.html", "d8/dd7/a16976" ],
-    [ "boss_bronjahm", "d7/d15/a16972.html#a699e1be5273979c76cd5d06b60f0ee05", null ],
-    [ "GetAI", "d7/d15/a16972.html#a04676028f1f324b6eecea625122794ed", null ]
+    [ "FilterTargets", "d7/d15/a16972.html#a36879a2920f43562bb0ff89c76d758e4", null ],
+    [ "PrepareSpellScript", "d7/d15/a16972.html#afeb95c5fe970ebc147d509981b026e98", null ],
+    [ "Register", "d7/d15/a16972.html#a800bd9ffab41ccf860844a129ec3b03c", null ]
 ];

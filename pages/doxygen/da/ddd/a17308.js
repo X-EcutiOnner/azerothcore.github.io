@@ -1,6 +1,6 @@
 var a17308 =
 [
-    [ "npc_pos_martin_or_gorkun_secondAI", "da/dc7/a17312.html", "da/dc7/a17312" ],
-    [ "npc_pos_martin_or_gorkun_second", "da/ddd/a17308.html#a3027c88a65aa523cc99f2fa79e1e376c", null ],
-    [ "GetAI", "da/ddd/a17308.html#a180936e3bb98eb55d29ebd51350906c0", null ]
+    [ "SlaveRunEvent", "da/ddd/a17308.html#a4560b275b0870cdbd192b2610893b47c", null ],
+    [ "Execute", "da/ddd/a17308.html#a81db67be136525dea5a9cd84180be165", null ],
+    [ "_owner", "da/ddd/a17308.html#a33e2ce4cea1edf2e0967696c41667f15", null ]
 ];

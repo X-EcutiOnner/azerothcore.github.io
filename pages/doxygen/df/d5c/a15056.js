@@ -1,10 +1,15 @@
 var a15056 =
 [
-    [ "boss_aeonus", "df/d5c/a15056.html#af823ef2187b852dc72d2f63020e1701b", null ],
-    [ "IsSummonedBy", "df/d5c/a15056.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
-    [ "JustDied", "df/d5c/a15056.html#a649275c31e61f542a13fd791ee85277b", null ],
-    [ "JustEngagedWith", "df/d5c/a15056.html#a5f193144e36a889630d5dbadb4aa665f", null ],
-    [ "JustReachedHome", "df/d5c/a15056.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
-    [ "KilledUnit", "df/d5c/a15056.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
-    [ "MoveInLineOfSight", "df/d5c/a15056.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
+    [ "npc_time_rift", "df/d5c/a15056.html#ab553bcc40699a63310feaaa7b1bd2604", null ],
+    [ "DoSelectSummon", "df/d5c/a15056.html#af2932c60efaea64d27d52b118b9a8095", null ],
+    [ "DoSummonAtRift", "df/d5c/a15056.html#a6cb4717848efe7e5e0b0113a9ff7dcb5", null ],
+    [ "JustSummoned", "df/d5c/a15056.html#a1d96b081db3cb2a9c40f5adb1c9b109d", null ],
+    [ "Reset", "df/d5c/a15056.html#ad08ca716f120a45ee1688e03d2049aba", null ],
+    [ "SummonedCreatureDies", "df/d5c/a15056.html#ae0ebd0268454ac0cac83235afd7f6363", null ],
+    [ "UpdateAI", "df/d5c/a15056.html#ab5924378c7978c6fae95f9861040c63d", null ],
+    [ "_events", "df/d5c/a15056.html#a12ffd459f8d63f299269da5b65f60128", null ],
+    [ "_instance", "df/d5c/a15056.html#a8eab9c3011c885321d59e2884318d0e8", null ],
+    [ "_riftKeeperGUID", "df/d5c/a15056.html#ad554d8266ded70cadd8c00a3ff5a3321", null ],
+    [ "waveMobIndex", "df/d5c/a15056.html#aa312223ece9f0f1c4ac2861aed3988a9", null ],
+    [ "waveMobs", "df/d5c/a15056.html#a7872706f9b5bdee7e6ca2d94e39e592f", null ]
 ];

@@ -1,7 +1,7 @@
 var a03179 =
 [
-    [ "boss_keristrasza", "db/db7/a19548.html", "db/db7/a19548" ],
-    [ "achievement_intense_cold", "d8/db1/a19552.html", "d8/db1/a19552" ],
+    [ "boss_keristrasza", "dd/d08/a19520.html", "dd/d08/a19520" ],
+    [ "achievement_intense_cold", "d4/df8/a19524.html", "d4/df8/a19524" ],
     [ "eEnums", "db/d65/a03179.html#a0ec08fe05ebfdddfa34c747c9c62a165", [
       [ "SPELL_FROZEN_PRISON", "db/d65/a03179.html#a0ec08fe05ebfdddfa34c747c9c62a165a874864078de8743889d364bbecadcee6", null ],
       [ "SPELL_TAIL_SWEEP", "db/d65/a03179.html#a0ec08fe05ebfdddfa34c747c9c62a165addcb3daa6cdc61ef04c65580e44ef823", null ],
@@ -466,9 +466,6 @@ var a03179 =
       [ "EVENT_PLAGUE", "d1/d0c/a02666.html#af60e00b78607064c5be6aa9397ea49c1a0a4b8ce68896891bba96c3f966085581", null ],
       [ "EVENT_BROOD_RAGE", "d1/d0c/a02666.html#af60e00b78607064c5be6aa9397ea49c1a8abdafa350f5cf94d31f1e0776ed0630", null ],
       [ "EVENT_SWARMER", "d1/d0c/a02666.html#af60e00b78607064c5be6aa9397ea49c1a9c4ab4022f522cfde283f24299aa58ce", null ],
-      [ "EVENT_HERALD_MIND_FLAY", "df/de4/a02651.html#af60e00b78607064c5be6aa9397ea49c1a7fc0a708d1fb35eda35aebc202624487", null ],
-      [ "EVENT_HERALD_SHADOW", "df/de4/a02651.html#af60e00b78607064c5be6aa9397ea49c1ae1bcd15a1bfa0fdfdf92a2dfcd8b04b0", null ],
-      [ "EVENT_HERALD_SHIVER", "df/de4/a02651.html#af60e00b78607064c5be6aa9397ea49c1afede975d97d911ee40656b1d8d7603fe", null ],
       [ "EVENT_JEDOGA_CYCLONE", "da/de8/a02657.html#af60e00b78607064c5be6aa9397ea49c1ab819793fd4ba82484eb3a05ccf1003dd", null ],
       [ "EVENT_JEDOGA_LIGHTNING_BOLT", "da/de8/a02657.html#af60e00b78607064c5be6aa9397ea49c1a158cb5e42f1855dcab32a80ffb54612d", null ],
       [ "EVENT_JEDOGA_THUNDERSHOCK", "da/de8/a02657.html#af60e00b78607064c5be6aa9397ea49c1a8b70aec5dc132e97774cf66bb02a3183", null ],

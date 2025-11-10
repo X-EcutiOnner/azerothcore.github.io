@@ -1,15 +1,15 @@
 var a28996 =
 [
-    [ "prepareLoadedData", "dc/de5/a28996.html#ace847b2eee40844bb3fa880e3c1d1aa5", null ],
-    [ "data1", "dc/de5/a28996.html#a9e2886eb133eb0e0bc8fa21a5b166d20", null ],
-    [ "data2", "dc/de5/a28996.html#a53f0a49fd2de7f29032556fe3a4e9110", null ],
-    [ "data3", "dc/de5/a28996.html#a2092bb81ccdea07c4752a2df49cba4c2", null ],
-    [ "data4", "dc/de5/a28996.html#a2bfc7b7268caaa684c6fece0d0769b9e", null ],
-    [ "data5", "dc/de5/a28996.html#a9536fcb98293d1c09a1975b753f02ae8", null ],
-    [ "data6", "dc/de5/a28996.html#ad43914a6df430c32a0c2f56bb8f1f4d7", null ],
-    [ "data7", "dc/de5/a28996.html#a7508e9fa38ab965ecf8e21b1f859a918", null ],
-    [ "data8", "dc/de5/a28996.html#ae926543e029695e268ed950edf625bdb", null ],
-    [ "fcc", "dc/de5/a28996.html#aa0ccc34e7e7a2de4e9866819dbe0c72a", null ],
-    [ "fcc_txt", "dc/de5/a28996.html#aaa61a13b39e23a3efba960645e3e14a9", null ],
-    [ "size", "dc/de5/a28996.html#a1af89d5193eff2f32cf37d131f9ef7b8", null ]
+    [ "toMMAPTileRecastConfig", "dc/de5/a28996.html#ad46c79822cfc2af7b0fbcab1f4c617fa", null ],
+    [ "baseUnitDim", "dc/de5/a28996.html#a9e09d86e08925e501f9f9a5d73f9119c", null ],
+    [ "cellSizeHorizontal", "dc/de5/a28996.html#a4dfcfc16d4c854bc210d8c6827d27ba7", null ],
+    [ "cellSizeVertical", "dc/de5/a28996.html#a0b49e8a9b40c7bed81a28fb5b284c735", null ],
+    [ "maxSimplificationError", "dc/de5/a28996.html#a37fbb64246708db0e7c9788d8f06c04b", null ],
+    [ "tilesPerMapEdge", "dc/de5/a28996.html#a14a858b17d96f6d5945ecfa77bc0fb00", null ],
+    [ "vertexPerMapEdge", "dc/de5/a28996.html#adba40fb00d24af999a1970e3a5fed198", null ],
+    [ "vertexPerTileEdge", "dc/de5/a28996.html#ae7421270c917171607ff972483df0ba1", null ],
+    [ "walkableClimb", "dc/de5/a28996.html#a5501534adbc4018b5047599c12a2e582", null ],
+    [ "walkableHeight", "dc/de5/a28996.html#a3513a1b33d8682303eae1eaa30615a07", null ],
+    [ "walkableRadius", "dc/de5/a28996.html#a0fd92998a753ea4ae76fac8c649645ac", null ],
+    [ "walkableSlopeAngle", "dc/de5/a28996.html#afa96a254067d2173288479cc60a6c97c", null ]
 ];

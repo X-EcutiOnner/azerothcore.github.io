@@ -1,6 +1,6 @@
 var a20344 =
 [
-    [ "FilterTargets", "de/d34/a20344.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
-    [ "PrepareSpellScript", "de/d34/a20344.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
-    [ "Register", "de/d34/a20344.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
+    [ "boss_hodirAI", "d3/dc3/a20348.html", "d3/dc3/a20348" ],
+    [ "boss_hodir", "de/d34/a20344.html#a5740f489f57380d2633a8ee5a18de339", null ],
+    [ "GetAI", "de/d34/a20344.html#a8d6ce019e9c383d2eb9ac0d211f4bc4c", null ]
 ];

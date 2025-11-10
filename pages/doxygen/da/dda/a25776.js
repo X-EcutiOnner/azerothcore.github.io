@@ -1,7 +1,7 @@
 var a25776 =
 [
-    [ "CheckProc", "da/dda/a25776.html#a41c451e31b84a72af3a17bfa29ca02fe", null ],
-    [ "HandleProc", "da/dda/a25776.html#a5cf9cea911ead2f261522e55e94c745a", null ],
-    [ "PrepareAuraScript", "da/dda/a25776.html#a3f2b20607f90ad641769eb284ddfab85", null ],
-    [ "Register", "da/dda/a25776.html#a55557026689613e91aeabce1af442237", null ]
+    [ "HandleScriptEffect", "da/dda/a25776.html#a3ad488a1b6115bb1ec8cfe6717d3b4cf", null ],
+    [ "Load", "da/dda/a25776.html#af89783564da25769be15e22291717f6a", null ],
+    [ "PrepareSpellScript", "da/dda/a25776.html#a1e7e4137712fcaa378d1ac7ff1b0a6c7", null ],
+    [ "Register", "da/dda/a25776.html#addbe722d9f3727578f817789e3010bab", null ]
 ];

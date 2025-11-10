@@ -1,6 +1,9 @@
 var a24116 =
 [
-    [ "PrepareAuraScript", "d6/d3e/a24116.html#a14d4d1a75130a77e7e59e41720491bec", null ],
-    [ "PrepareProc", "d6/d3e/a24116.html#abea217f4bfdffc70007fbc29849e9a49", null ],
-    [ "Register", "d6/d3e/a24116.html#a9dbcd4c940f5941472bebb64829125e3", null ]
+    [ "boss_nethermancer_sepethrea", "d6/d3e/a24116.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
+    [ "EnterEvadeMode", "d6/d3e/a24116.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
+    [ "JustDied", "d6/d3e/a24116.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
+    [ "JustEngagedWith", "d6/d3e/a24116.html#a89851b9f6eb94270fe22151d3a968bec", null ],
+    [ "JustSummoned", "d6/d3e/a24116.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
+    [ "KilledUnit", "d6/d3e/a24116.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
 ];

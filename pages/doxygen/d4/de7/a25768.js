@@ -1,6 +1,6 @@
 var a25768 =
 [
-    [ "HandleDummyTick", "d4/de7/a25768.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
-    [ "PrepareAuraScript", "d4/de7/a25768.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
-    [ "Register", "d4/de7/a25768.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
+    [ "HandleHeal", "d4/de7/a25768.html#a3d315ab6d76d45f3d0f5de4a312377ff", null ],
+    [ "PrepareSpellScript", "d4/de7/a25768.html#ad77d816c82714fe2cafb4dbf48691937", null ],
+    [ "Register", "d4/de7/a25768.html#a313abe6367e5494bd81a557ab42f9f50", null ]
 ];

@@ -1,5 +1,8 @@
 var a24308 =
 [
-    [ "go_warmaul_prison", "d2/dbf/a24308.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
-    [ "OnGossipHello", "d2/dbf/a24308.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
+    [ "npc_bessyAI", "d2/dbf/a24308.html#ad1300a563888b34689bedf97c387707c", null ],
+    [ "JustDied", "d2/dbf/a24308.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
+    [ "JustSummoned", "d2/dbf/a24308.html#a4197fb122299fd152e5da335bb832ae5", null ],
+    [ "Reset", "d2/dbf/a24308.html#aed64386629e52c3b65abadde54a63cc4", null ],
+    [ "WaypointReached", "d2/dbf/a24308.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
 ];

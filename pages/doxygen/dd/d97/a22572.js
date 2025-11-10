@@ -1,8 +1,7 @@
 var a22572 =
 [
-    [ "npc_wg_queueAI", "d3/dbf/a22576.html", "d3/dbf/a22576" ],
-    [ "npc_wg_queue", "dd/d97/a22572.html#a2cc9825e08e982ef195f117a4512c4ae", null ],
-    [ "GetAI", "dd/d97/a22572.html#ad2d7746a32b520d37ea826b03627de4e", null ],
-    [ "OnGossipHello", "dd/d97/a22572.html#a20fc6ae4e4377f237a620b7f5b1de8ee", null ],
-    [ "OnGossipSelect", "dd/d97/a22572.html#afb707da5d85affc65f7ab5a0fc018c93", null ]
+    [ "HandleScript", "dd/d97/a22572.html#a26eb647b6c938df3aeff7981571dc475", null ],
+    [ "PrepareSpellScript", "dd/d97/a22572.html#a10114d8fa956aabff64aa0df7708f635", null ],
+    [ "Register", "dd/d97/a22572.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
+    [ "Validate", "dd/d97/a22572.html#adb477d34d8012c6fb45c5548fc49e127", null ]
 ];

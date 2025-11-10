@@ -1,11 +1,16 @@
 var a24372 =
 [
-    [ "npc_invis_infernal_casterAI", "de/d03/a24372.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
-    [ "Reset", "de/d03/a24372.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
-    [ "SetData", "de/d03/a24372.html#aee88dc141757384f96da969fcdc20671", null ],
-    [ "SummonInfernal", "de/d03/a24372.html#a78d53d09e5544b3fe8301da4415d297b", null ],
-    [ "UpdateAI", "de/d03/a24372.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
-    [ "events", "de/d03/a24372.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
-    [ "ground", "de/d03/a24372.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
-    [ "infernalGUID", "de/d03/a24372.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
+    [ "npc_dragonmaw_peonAI", "de/d03/a24372.html#a6f1255fead5357001ec85fdaa6980249", null ],
+    [ "CreditPlayer", "de/d03/a24372.html#a5cf28e156cab2e2066bb94bc99233a2b", null ],
+    [ "JustEngagedWith", "de/d03/a24372.html#abd5b37793aa2fb150c808b7dc7270763", null ],
+    [ "MovementInform", "de/d03/a24372.html#a0ee4038f90d54c75c48b2448dacb5724", null ],
+    [ "Reset", "de/d03/a24372.html#a9d876ec76b51f743c71e67749c21d939", null ],
+    [ "SpellHit", "de/d03/a24372.html#abe5162608ba0acd7360a630562ff5935", null ],
+    [ "UpdateAI", "de/d03/a24372.html#a98a045606d9e689ef25a5068b81b1ebf", null ],
+    [ "events", "de/d03/a24372.html#a7d6fb37d1953630aa79f8665eca0db61", null ],
+    [ "PlayerGUID", "de/d03/a24372.html#ad6838d98e34a32cbed42c77cdf096070", null ],
+    [ "Tapped", "de/d03/a24372.html#ae393f8d3cb47f38a4c4314a262826d03", null ],
+    [ "x", "de/d03/a24372.html#acebbfa8da88d8d683ba5ea6463f6b5f7", null ],
+    [ "y", "de/d03/a24372.html#ae5a1d416c712803ec0b80ae7ccf29e2d", null ],
+    [ "z", "de/d03/a24372.html#a7722420716c030b5abe7b760199df14d", null ]
 ];

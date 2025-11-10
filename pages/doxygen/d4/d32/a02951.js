@@ -1,9 +1,9 @@
 var a02951 =
 [
-    [ "boss_moorabi", "d0/dff/a17432.html", "d0/dff/a17432" ],
-    [ "boss_moorabi::boss_moorabiAI", "dc/dc8/a17436.html", "dc/dc8/a17436" ],
-    [ "spell_moorabi_mojo_frenzy_aura", "df/d7d/a17440.html", "df/d7d/a17440" ],
-    [ "achievement_less_rabi", "d6/d4b/a17444.html", "d6/d4b/a17444" ],
+    [ "boss_moorabi", "d9/dea/a17404.html", "d9/dea/a17404" ],
+    [ "boss_moorabi::boss_moorabiAI", "da/dfe/a17408.html", "da/dfe/a17408" ],
+    [ "spell_moorabi_mojo_frenzy_aura", "d9/d1c/a17412.html", "d9/d1c/a17412" ],
+    [ "achievement_less_rabi", "d7/dbd/a17416.html", "d7/dbd/a17416" ],
     [ "eSays", "d4/d32/a02951.html#a488e6db208f9fcca6f7a9b61d4ffad11", [
       [ "SAY_AGGRO", "d4/d32/a02951.html#a488e6db208f9fcca6f7a9b61d4ffad11a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_SLAY", "d4/d32/a02951.html#a488e6db208f9fcca6f7a9b61d4ffad11a9e64f6e600dd42567d18006912811f75", null ],
@@ -560,9 +560,6 @@ var a02951 =
       [ "EVENT_PLAGUE", "d1/d0c/a02666.html#af60e00b78607064c5be6aa9397ea49c1a0a4b8ce68896891bba96c3f966085581", null ],
       [ "EVENT_BROOD_RAGE", "d1/d0c/a02666.html#af60e00b78607064c5be6aa9397ea49c1a8abdafa350f5cf94d31f1e0776ed0630", null ],
       [ "EVENT_SWARMER", "d1/d0c/a02666.html#af60e00b78607064c5be6aa9397ea49c1a9c4ab4022f522cfde283f24299aa58ce", null ],
-      [ "EVENT_HERALD_MIND_FLAY", "df/de4/a02651.html#af60e00b78607064c5be6aa9397ea49c1a7fc0a708d1fb35eda35aebc202624487", null ],
-      [ "EVENT_HERALD_SHADOW", "df/de4/a02651.html#af60e00b78607064c5be6aa9397ea49c1ae1bcd15a1bfa0fdfdf92a2dfcd8b04b0", null ],
-      [ "EVENT_HERALD_SHIVER", "df/de4/a02651.html#af60e00b78607064c5be6aa9397ea49c1afede975d97d911ee40656b1d8d7603fe", null ],
       [ "EVENT_JEDOGA_CYCLONE", "da/de8/a02657.html#af60e00b78607064c5be6aa9397ea49c1ab819793fd4ba82484eb3a05ccf1003dd", null ],
       [ "EVENT_JEDOGA_LIGHTNING_BOLT", "da/de8/a02657.html#af60e00b78607064c5be6aa9397ea49c1a158cb5e42f1855dcab32a80ffb54612d", null ],
       [ "EVENT_JEDOGA_THUNDERSHOCK", "da/de8/a02657.html#af60e00b78607064c5be6aa9397ea49c1a8b70aec5dc132e97774cf66bb02a3183", null ],

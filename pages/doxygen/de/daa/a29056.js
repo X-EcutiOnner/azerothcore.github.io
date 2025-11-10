@@ -1,8 +1,10 @@
 var a29056 =
 [
-    [ "TileInfo", "de/daa/a29056.html#af1a25ded4212f141ab4f32db95709210", null ],
-    [ "m_mapId", "de/daa/a29056.html#a41f4be7d3fce716754b9ac0310b9ecf9", null ],
-    [ "m_navMeshParams", "de/daa/a29056.html#a9d7c909370359edafa8a9b6a91cef354", null ],
-    [ "m_tileX", "de/daa/a29056.html#a54cc23d82dfe690e0d62b6156d440fc1", null ],
-    [ "m_tileY", "de/daa/a29056.html#ab7fba310dd471fddcf2e7d6fba3205ed", null ]
+    [ "ADTFile", "de/daa/a29056.html#a763f0f9c1106700987797864b2fdb006", null ],
+    [ "~ADTFile", "de/daa/a29056.html#ad1533f5b630a70b6ff95861e64960de0", null ],
+    [ "init", "de/daa/a29056.html#ab9ba3b1a2aac611bec5bfe4a454e4042", null ],
+    [ "_file", "de/daa/a29056.html#a7f3071e63be08fe3288d5ab03b5b8acf", null ],
+    [ "Adtfilename", "de/daa/a29056.html#a07c82112e26b96a87e22f1c7bec9c72e", null ],
+    [ "ModelInstanceNames", "de/daa/a29056.html#a6601e20fed78c54bb281ad3bd0ce7800", null ],
+    [ "WmoInstanceNames", "de/daa/a29056.html#acd96c287a01828bf3e49fb599a3b5d81", null ]
 ];

@@ -1,7 +1,6 @@
 var a19932 =
 [
-    [ "HandleDummyEffect", "dd/d61/a19932.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
-    [ "PrepareSpellScript", "dd/d61/a19932.html#a84a4f52928873e58b1fc49e783c5083a", null ],
-    [ "Register", "dd/d61/a19932.html#a90c00bcb1768d696addab407425e406a", null ],
-    [ "SelectTarget", "dd/d61/a19932.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
+    [ "boss_steelbreakerAI", "d5/d26/a19936.html", "d5/d26/a19936" ],
+    [ "boss_steelbreaker", "dd/d61/a19932.html#af6e4c3729874e59959b35ca67a46aa44", null ],
+    [ "GetAI", "dd/d61/a19932.html#ac4189ffbba997719fb36a10ecdabd26c", null ]
 ];

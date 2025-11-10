@@ -1,6 +1,7 @@
 var a22936 =
 [
-    [ "FilterTargets", "d0/dc7/a22936.html#abd3fafc2120b7069790dd9822cd62adc", null ],
-    [ "PrepareSpellScript", "d0/dc7/a22936.html#aebc0441481a2c458fc904175df931a9e", null ],
-    [ "Register", "d0/dc7/a22936.html#af1173988538ad44c27ea2ed9d49fe06d", null ]
+    [ "npc_blade_of_azzinoth", "d0/dc7/a22936.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "d0/dc7/a22936.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "d0/dc7/a22936.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "d0/dc7/a22936.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

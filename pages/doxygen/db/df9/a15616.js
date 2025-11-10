@@ -1,7 +1,6 @@
 var a15616 =
 [
-    [ "npc_tharnarianAI", "d2/df3/a15620.html", "d2/df3/a15620" ],
-    [ "npc_tharnarian", "db/df9/a15616.html#a39d9d9842a7a42c5381e38d10285aa15", null ],
-    [ "GetAI", "db/df9/a15616.html#aaff8dad5d2bdb1571ed2e7a14c64899f", null ],
-    [ "OnQuestReward", "db/df9/a15616.html#aedf88edfd99292a68b8e08f9f05d8f00", null ]
+    [ "npc_tiger_matriarch_creditAI", "db/df9/a15616.html#a628772971a9c2a190ffe2fae6b0b6865", null ],
+    [ "UpdateAI", "db/df9/a15616.html#a0fc7ca1313a21c5f74539ce2dbd7465d", null ],
+    [ "events", "db/df9/a15616.html#ae96e0de4a36dde3237520e8a0ddd9f5f", null ]
 ];

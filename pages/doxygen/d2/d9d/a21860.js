@@ -1,7 +1,8 @@
 var a21860 =
 [
-    [ "HandleProc", "d2/d9d/a21860.html#aeb5b70614b266bac0792906bf89a5b97", null ],
-    [ "PrepareAuraScript", "d2/d9d/a21860.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
-    [ "Register", "d2/d9d/a21860.html#a163e0099271f21362deeb1ba1f169f3f", null ],
-    [ "Validate", "d2/d9d/a21860.html#abdb889e4c6d19f756c143d7b36f82257", null ]
+    [ "npc_shandy_dalaranAI", "d3/dbd/a21864.html", "d3/dbd/a21864" ],
+    [ "npc_shandy_dalaran", "d2/d9d/a21860.html#a7077c769a252af8ba37b5ff5d524463e", null ],
+    [ "GetAI", "d2/d9d/a21860.html#a641551a2aef739e1679912ae27ddb888", null ],
+    [ "OnGossipHello", "d2/d9d/a21860.html#a91287aaba09fce091c9d826e75208f84", null ],
+    [ "OnGossipSelect", "d2/d9d/a21860.html#ad005a17da187e0cfd03d2faf0099c448", null ]
 ];

@@ -1,6 +1,6 @@
 var a18292 =
 [
-    [ "HandleSpecial", "d0/d77/a18292.html#afa540e8c748ca3083667528e2449bc65", null ],
-    [ "PrepareSpellScript", "d0/d77/a18292.html#a9472211ffdaa33802099b22b2a721645", null ],
-    [ "Register", "d0/d77/a18292.html#ab868b10372ff2ef401d19b126acf00c6", null ]
+    [ "FilterTargets", "d0/d77/a18292.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
+    [ "PrepareSpellScript", "d0/d77/a18292.html#a24466e7a04722cc7559b086f89d2edc8", null ],
+    [ "Register", "d0/d77/a18292.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
 ];

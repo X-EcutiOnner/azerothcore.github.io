@@ -1,8 +1,6 @@
 var a21048 =
 [
-    [ "boss_yoggsaron_crusher_tentacleAI", "d8/dbc/a21048.html#a63d63a0b981c278fcfadfdda1feb5a12", null ],
-    [ "DamageTaken", "d8/dbc/a21048.html#ac2458922b2530929ee1adbcc0da834a0", null ],
-    [ "DoAction", "d8/dbc/a21048.html#abcc42381f37256e5c5ab2a42f8ef2c29", null ],
-    [ "Reset", "d8/dbc/a21048.html#af33db4e2ce1bb85e38437db6ca7982f7", null ],
-    [ "UpdateAI", "d8/dbc/a21048.html#a8329bc78fc037655d48cb9bf0abd8447", null ]
+    [ "boss_yoggsaron_descend_portalAI", "d8/dbc/a21048.html#a50ddd1d7b1d4a2e729657e53dfee43f2", null ],
+    [ "OnSpellClick", "d8/dbc/a21048.html#aba032a7347230db028d1e939944d3f46", null ],
+    [ "_instance", "d8/dbc/a21048.html#a477abf19a0b5bf9865550541877a29d7", null ]
 ];

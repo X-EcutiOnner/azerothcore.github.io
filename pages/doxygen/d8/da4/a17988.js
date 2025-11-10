@@ -1,12 +1,7 @@
 var a17988 =
 [
-    [ "npc_darnavanAI", "d8/da4/a17988.html#ae06019c24910c873877398f29f5a1737", null ],
-    [ "JustDied", "d8/da4/a17988.html#a49250dcdaed6de534de7a1fe3c5aa72c", null ],
-    [ "JustEngagedWith", "d8/da4/a17988.html#acbaedacea5ad19d82002c25b68623a27", null ],
-    [ "MovementInform", "d8/da4/a17988.html#afcd3bfd190fcb99e38f32129fb2ce861", null ],
-    [ "Reset", "d8/da4/a17988.html#a926c39a6e30507d9f9927f4f142e5a45", null ],
-    [ "UpdateAI", "d8/da4/a17988.html#a2b3b5e168989db21fc047acaf01413d9", null ],
-    [ "_canCharge", "d8/da4/a17988.html#ac37dc2ddc1787b7bd83b7e64ccdc6af8", null ],
-    [ "_canShatter", "d8/da4/a17988.html#aa7750edc8051c8ee453143491dccf122", null ],
-    [ "events", "d8/da4/a17988.html#aa8a022ccb1367432480f72d305c752ac", null ]
+    [ "npc_coldflameAI", "d8/da4/a17988.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
+    [ "IsSummonedBy", "d8/da4/a17988.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
+    [ "UpdateAI", "d8/da4/a17988.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
+    [ "events", "d8/da4/a17988.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
 ];

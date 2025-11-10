@@ -1,6 +1,6 @@
 var a18832 =
 [
-    [ "npc_crok_scourgebaneAI", "de/d73/a18836.html", "de/d73/a18836" ],
-    [ "npc_crok_scourgebane", "db/d40/a18832.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
-    [ "GetAI", "db/d40/a18832.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
+    [ "npc_captain_brandonAI", "de/d73/a18836.html", "de/d73/a18836" ],
+    [ "npc_captain_brandon", "db/d40/a18832.html#ad522dd280882d894b5d32e7c888f2360", null ],
+    [ "GetAI", "db/d40/a18832.html#a3d77951d8d9dbc14fad2fd52d84118a3", null ]
 ];

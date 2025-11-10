@@ -1,5 +1,6 @@
 var a20048 =
 [
-    [ "achievement_auriaya_nine_lives", "d7/dd6/a20048.html#a750304bc946a7ecefec29dc18c429d3b", null ],
-    [ "OnCheck", "d7/dd6/a20048.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
+    [ "boss_flame_leviathan_overload_deviceAI", "d9/d09/a20052.html", "d9/d09/a20052" ],
+    [ "boss_flame_leviathan_overload_device", "d7/dd6/a20048.html#ad00f601170c1af833aadb17eab5d19a8", null ],
+    [ "GetAI", "d7/dd6/a20048.html#a73988d2b1cfe61d0356ec1f317d90162", null ]
 ];

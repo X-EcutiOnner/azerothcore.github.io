@@ -1,8 +1,6 @@
 var a21960 =
 [
-    [ "npc_future_youAI", "d3/d44/a21960.html#a7608c050dd198e3133050e222b42f62b", null ],
-    [ "EnterEvadeMode", "d3/d44/a21960.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
-    [ "MoveInLineOfSight", "d3/d44/a21960.html#a35b67f9e948f5ffbde8a423190ece603", null ],
-    [ "Reset", "d3/d44/a21960.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
-    [ "UpdateAI", "d3/d44/a21960.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
+    [ "CheckCast", "d3/d44/a21960.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
+    [ "PrepareSpellScript", "d3/d44/a21960.html#abff433d61c798d17882292b6b0956a58", null ],
+    [ "Register", "d3/d44/a21960.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
 ];

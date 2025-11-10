@@ -1,6 +1,6 @@
 var a19844 =
 [
-    [ "iron_golem_custodianAI", "d5/de1/a19848.html", "d5/de1/a19848" ],
-    [ "iron_golem_custodian", "dc/dfd/a19844.html#adc11b755e193adbad757c21e5b15e063", null ],
-    [ "GetAI", "dc/dfd/a19844.html#a272e0c9fe475a665aa80a95f1e1d8629", null ]
+    [ "boss_algalon_the_observerAI", "d5/de1/a19848.html", "d5/de1/a19848" ],
+    [ "boss_algalon_the_observer", "dc/dfd/a19844.html#a0691b47a116401da58b246203ecba2cb", null ],
+    [ "GetAI", "dc/dfd/a19844.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
 ];

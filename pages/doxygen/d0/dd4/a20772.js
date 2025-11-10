@@ -1,8 +1,6 @@
 var a20772 =
 [
-    [ "npc_ulduar_dark_rune_guardianAI", "d0/dd4/a20772.html#aedb43124c923621aadecb77511204fc6", null ],
-    [ "CanAIAttack", "d0/dd4/a20772.html#af23cb4a19d28f5aa57ba96de95f87c87", null ],
-    [ "Reset", "d0/dd4/a20772.html#a4c1f53fbbc6189ca9ee0420bc4198684", null ],
-    [ "UpdateAI", "d0/dd4/a20772.html#ad21127654d5511b6b1d9b22cdd77bd08", null ],
-    [ "timer2", "d0/dd4/a20772.html#aa66f1aa48cf928ac12751cb3ca2358f3", null ]
+    [ "boss_thorimAI", "d8/df3/a20776.html", "d8/df3/a20776" ],
+    [ "boss_thorim", "d0/dd4/a20772.html#a23a52a05aea5092cef8fe47be28b4bfb", null ],
+    [ "GetAI", "d0/dd4/a20772.html#a70895451317569f50adc11474e653515", null ]
 ];

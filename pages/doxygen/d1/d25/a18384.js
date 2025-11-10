@@ -1,9 +1,6 @@
 var a18384 =
 [
-    [ "ShadowTrapLKTargetSelector", "d1/d25/a18384.html#a33561775948e07ac6ade2037f237441d", null ],
-    [ "operator()", "d1/d25/a18384.html#a3770329509c6ab2f16ae369ea8d72645", null ],
-    [ "_maxDist", "d1/d25/a18384.html#a6ee78b1ca184a05d01aa053afe499a95", null ],
-    [ "_playerOnly", "d1/d25/a18384.html#acfb3a657e430bc2ca26680bef6cf0159", null ],
-    [ "_reqLOS", "d1/d25/a18384.html#a7911be23196f59d55028affc3be23c20", null ],
-    [ "_source", "d1/d25/a18384.html#af416013aabf3b217b07228072076603d", null ]
+    [ "LichKingDeathEvent", "d1/d25/a18384.html#a9aa328b60358034355b1eed5caacb9f8", null ],
+    [ "Execute", "d1/d25/a18384.html#a06b9a77d3c5efb228368a1e423a620ae", null ],
+    [ "_owner", "d1/d25/a18384.html#a75ccb1b2bd5a8149aff85404b5e0ce21", null ]
 ];

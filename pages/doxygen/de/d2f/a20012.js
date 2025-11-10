@@ -1,5 +1,6 @@
 var a20012 =
 [
-    [ "achievement_cant_do_that_while_stunned", "de/d2f/a20012.html#a4d474b36f61631688ea723d2e4033574", null ],
-    [ "OnCheck", "de/d2f/a20012.html#a0b108bdcab0bc412975e61247f226bf8", null ]
+    [ "FilterTargets", "de/d2f/a20012.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
+    [ "PrepareSpellScript", "de/d2f/a20012.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
+    [ "Register", "de/d2f/a20012.html#a4e803984a3eded2736825f631786c204", null ]
 ];

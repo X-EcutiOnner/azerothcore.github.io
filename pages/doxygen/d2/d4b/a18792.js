@@ -1,5 +1,8 @@
 var a18792 =
 [
-    [ "achievement_portal_jockey", "d2/d4b/a18792.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
-    [ "OnCheck", "d2/d4b/a18792.html#a2695b1fee353be7340f319c632a43efc", null ]
+    [ "npc_rotting_frost_giantAI", "d2/d4b/a18792.html#a7b412075e17a81bf50aba63f96c16e53", null ],
+    [ "JustDied", "d2/d4b/a18792.html#a68b4e823de82fdfd31ccf765192e8768", null ],
+    [ "Reset", "d2/d4b/a18792.html#ae96994e7c02a1fb8df8ef9fe80d7bc41", null ],
+    [ "UpdateAI", "d2/d4b/a18792.html#a7bb99a6ff894c085bf3fb2e2708f3914", null ],
+    [ "_events", "d2/d4b/a18792.html#ab061ea54c2b36f6f1c2ec7841202e684", null ]
 ];

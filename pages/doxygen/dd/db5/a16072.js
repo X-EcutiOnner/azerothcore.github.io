@@ -1,6 +1,6 @@
 var a16072 =
 [
-    [ "PrepareSpellScript", "dd/db5/a16072.html#a74a2601e2c160bb4a9b18d421775e6b3", null ],
-    [ "Register", "dd/db5/a16072.html#a17a07973a3c043683fc4fe0d1fc45156", null ],
-    [ "SetDest", "dd/db5/a16072.html#a3751a14d6e36140ee368d8ded6df03ee", null ]
+    [ "PrepareSpellScript", "dd/db5/a16072.html#a2a3602af522bb8658c1bfdede1234efd", null ],
+    [ "Register", "dd/db5/a16072.html#aba235111ea4e186064a85295466f2a3f", null ],
+    [ "SetDest", "dd/db5/a16072.html#a89827e4db37bea4847c79265d95386c6", null ]
 ];

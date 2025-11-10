@@ -1,9 +1,6 @@
 var a14256 =
 [
-    [ "npc_healing_ward", "d2/d5a/a14256.html#a3d3c35f61502d3a83cb2581119e08903", null ],
-    [ "JustEngagedWith", "d2/d5a/a14256.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
-    [ "Reset", "d2/d5a/a14256.html#a756d27a43d86c7ecde859df255c6bd62", null ],
-    [ "UpdateAI", "d2/d5a/a14256.html#a8b8635af33ce814602206064e0815520", null ],
-    [ "_instance", "d2/d5a/a14256.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
-    [ "_scheduler", "d2/d5a/a14256.html#a0c62fe945b491cab76175217a7d10c06", null ]
+    [ "npc_ohganAI", "d7/de8/a14260.html", "d7/de8/a14260" ],
+    [ "npc_ohgan", "d2/d5a/a14256.html#ae391f2b36c68952ca5eaf773c29cbcad", null ],
+    [ "GetAI", "d2/d5a/a14256.html#a129dc2fcd449850403e0dcb99725da90", null ]
 ];

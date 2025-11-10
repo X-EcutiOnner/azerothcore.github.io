@@ -1,6 +1,7 @@
 var a13336 =
 [
-    [ "npc_scholomance_occultistAI", "d9/d8d/a13340.html", "d9/d8d/a13340" ],
-    [ "npc_scholomance_occultist", "d3/d9a/a13336.html#adf100912a15ff8edf056efa7eebd13ff", null ],
-    [ "GetAI", "d3/d9a/a13336.html#a5da2b011ec4859523c1f713dc18e4d5b", null ]
+    [ "HandleAfterCast", "d3/d9a/a13336.html#afa662fbe1b777047259ac6212961f7a5", null ],
+    [ "HandleScript", "d3/d9a/a13336.html#acd21d059ce10a64a3fe648d104d75ec1", null ],
+    [ "PrepareSpellScript", "d3/d9a/a13336.html#aca33d0a7c792a6ac18deaaa945a28a26", null ],
+    [ "Register", "d3/d9a/a13336.html#a4a898b0b096583af33f1f691a252b2ed", null ]
 ];

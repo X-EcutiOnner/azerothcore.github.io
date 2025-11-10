@@ -1,9 +1,8 @@
 var a15064 =
 [
-    [ "boss_temporus", "d1/dfb/a15064.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "d1/dfb/a15064.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "d1/dfb/a15064.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "d1/dfb/a15064.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "d1/dfb/a15064.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "d1/dfb/a15064.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "Load", "d1/dfb/a15064.html#a59e8723d8b73f45075db47e1e09e15fb", null ],
+    [ "PeriodicTick", "d1/dfb/a15064.html#ae4761ac3bce02903a7266511d80503f9", null ],
+    [ "PrepareAuraScript", "d1/dfb/a15064.html#a7bacc1ebd4b98e5e43b74e13471b2063", null ],
+    [ "Register", "d1/dfb/a15064.html#acc4db638e0d858085dc3fb2d6b45f7ec", null ],
+    [ "_ticks", "d1/dfb/a15064.html#ab858e9f6505fa32cc7325087d29fee8b", null ]
 ];

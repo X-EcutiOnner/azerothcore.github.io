@@ -1,6 +1,8 @@
 var a23076 =
 [
-    [ "HandleScriptEffect", "d5/d64/a23076.html#aeafb2893534c8e188bbb519b6c7a0113", null ],
-    [ "PrepareSpellScript", "d5/d64/a23076.html#a6caaa93244719d7fc8c3f28280a3c1c5", null ],
-    [ "Register", "d5/d64/a23076.html#a99e2243ca4372eab1a742f8979d61334", null ]
+    [ "FilterTargets", "d5/d64/a23076.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
+    [ "HandleDummy", "d5/d64/a23076.html#ab89ab441f022ee017548ba49d128b92e", null ],
+    [ "PrepareSpellScript", "d5/d64/a23076.html#aa8578390d7d9379328c02ceb209e94ed", null ],
+    [ "Register", "d5/d64/a23076.html#a486387d707b7ad66ecb443ab2bb60778", null ],
+    [ "Validate", "d5/d64/a23076.html#ad5d695978794d796eb7139fce1530d57", null ]
 ];

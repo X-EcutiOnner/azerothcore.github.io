@@ -1,22 +1,11 @@
 var a15980 =
 [
-    [ "npc_sergeant_blyAI", "d0/de1/a15980.html#a216f8b75707e25698619786b87500461", null ],
-    [ "DoAction", "d0/de1/a15980.html#a4fb20172c48257aafe284b3934a9c357", null ],
-    [ "EnterEvadeMode", "d0/de1/a15980.html#a2844efbb2f213401f83ab042f974974a", null ],
-    [ "InitializeAI", "d0/de1/a15980.html#ae3abcf75a666c5bd722ca060fca4a12c", null ],
-    [ "MovementInform", "d0/de1/a15980.html#acf32d74b4f0454f01f7313df6b35c4d3", null ],
-    [ "Reset", "d0/de1/a15980.html#a2991ad4ecd6b236d7002c3dddd540b00", null ],
-    [ "sGossipHello", "d0/de1/a15980.html#a342c8b5bd49e8cfd94c41a58159e4f5c", null ],
-    [ "sGossipSelect", "d0/de1/a15980.html#a9df8eeb695736b2a182c38a69840e99f", null ],
-    [ "switchFactionIfAlive", "d0/de1/a15980.html#a89cbd29300ca07b3366a197a7549edab", null ],
-    [ "UpdateAI", "d0/de1/a15980.html#afdcbd6c79fb31d888c5b903deb04ad9d", null ],
-    [ "ableToPortHome", "d0/de1/a15980.html#aa223fcf402ed5d99ea88275b357f398c", null ],
-    [ "instance", "d0/de1/a15980.html#acf42a824739dd69d64c3b1e3eff6a944", null ],
-    [ "PlayerGUID", "d0/de1/a15980.html#a188e306a05afa5f25271d17b4385b623", null ],
-    [ "Porthome_Timer", "d0/de1/a15980.html#aeb17b772324aa2d985606659a2aee895", null ],
-    [ "postGossipStep", "d0/de1/a15980.html#aca6869f05555499b210c09889d3f6684", null ],
-    [ "Revenge_Timer", "d0/de1/a15980.html#af6263dbfa9e4cbc6f7812a10894f3dd2", null ],
-    [ "ShieldBash_Timer", "d0/de1/a15980.html#a5ed567ac16bef8f53a66a12fbaf4573e", null ],
-    [ "startedFight", "d0/de1/a15980.html#a7a037981d3d2a37abf0d3995283ac218", null ],
-    [ "Text_Timer", "d0/de1/a15980.html#a97edb216194b16d273fe6098fdaba51e", null ]
+    [ "boss_amanitar", "d0/de1/a15980.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
+    [ "EnterEvadeMode", "d0/de1/a15980.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
+    [ "JustDied", "d0/de1/a15980.html#a138049712649ff414950d9d0ca05d712", null ],
+    [ "JustEngagedWith", "d0/de1/a15980.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
+    [ "Reset", "d0/de1/a15980.html#aab3faca4526947a72d8ca049a605f5be", null ],
+    [ "SummonedCreatureDespawn", "d0/de1/a15980.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
+    [ "SummonMushroom", "d0/de1/a15980.html#afc5b4942931f6020b2894b901650fc35", null ],
+    [ "_mushroomsDeque", "d0/de1/a15980.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
 ];

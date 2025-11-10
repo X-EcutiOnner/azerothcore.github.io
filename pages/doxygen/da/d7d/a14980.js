@@ -1,8 +1,14 @@
 var a14980 =
 [
-    [ "npc_arthasAI", "dc/da3/a14984.html", "dc/da3/a14984" ],
-    [ "npc_arthas", "da/d7d/a14980.html#a87c280ff9861187b0a713f795e657266", null ],
-    [ "GetAI", "da/d7d/a14980.html#a4a613dd76cde27f7df834b9bb837ab6c", null ],
-    [ "OnGossipHello", "da/d7d/a14980.html#a4bd3d5dd8eebe48b525e2bd162787172", null ],
-    [ "OnGossipSelect", "da/d7d/a14980.html#aeca2f4baa3c943281c676c6498393165", null ]
+    [ "npc_cos_stratholme_citizienAI", "da/d7d/a14980.html#a591aaf16ef5befada12378acfbef9465", null ],
+    [ "DoAction", "da/d7d/a14980.html#af9d6fa1dfa83a75194797e99ee80ae0e", null ],
+    [ "InfectMe", "da/d7d/a14980.html#a9517132eeaf1a0ffd5cb8b5879ed5d5b", null ],
+    [ "MoveInLineOfSight", "da/d7d/a14980.html#ab7a8f6423e12ca0ea9bcb085594013a2", null ],
+    [ "Reset", "da/d7d/a14980.html#a0dbb5f295aa9061fa3457c9590ea9b10", null ],
+    [ "SpellHit", "da/d7d/a14980.html#aa8b9a05d3c7d89aa054af919672a69ec", null ],
+    [ "UpdateAI", "da/d7d/a14980.html#a81a1382493091a99cae1c2bb580a7f32", null ],
+    [ "allowTimer", "da/d7d/a14980.html#ae92384763b3cfe4a4bc4180d1c404456", null ],
+    [ "changeTimer", "da/d7d/a14980.html#aa757ab2eef813dceaaad65d84681099b", null ],
+    [ "locked", "da/d7d/a14980.html#aa644050a5fc0b3cd04573e8b3def87ee", null ],
+    [ "pInstance", "da/d7d/a14980.html#aadae06c487a7755114f856a835d48c7e", null ]
 ];

@@ -1,10 +1,6 @@
 var a21624 =
 [
-    [ "npc_azure_invaderAI", "df/dc7/a21624.html#a85f164a6ba24d7a14d77264441a78f46", null ],
-    [ "Reset", "df/dc7/a21624.html#ada44600272b19d9416d957bc52bc3be4", null ],
-    [ "UpdateAI", "df/dc7/a21624.html#a7dfdcb2a88930c6b4150f7f7c825a2df", null ],
-    [ "uiBrutalStrikeTimer", "df/dc7/a21624.html#a4b88a85f3344edbdadde0104668509aa", null ],
-    [ "uiCleaveTimer", "df/dc7/a21624.html#a8b1792a8a405651d602d9ed634f52689", null ],
-    [ "uiImpaleTimer", "df/dc7/a21624.html#aa709ee8919a2d0317d563259c7630c99", null ],
-    [ "uiSunderArmorTimer", "df/dc7/a21624.html#ab2e6d01df033985ac29e963cf2895466", null ]
+    [ "npc_azure_stalkerAI", "d3/df3/a21628.html", "d3/df3/a21628" ],
+    [ "npc_azure_stalker", "df/dc7/a21624.html#ad069edc43b4f489e0b2c7aa4952eeb63", null ],
+    [ "GetAI", "df/dc7/a21624.html#a1c067809f98a4d7845d2fb4269742274", null ]
 ];

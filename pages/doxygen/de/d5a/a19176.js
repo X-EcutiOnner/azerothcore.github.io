@@ -1,7 +1,7 @@
 var a19176 =
 [
-    [ "HandleScript", "de/d5a/a19176.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
-    [ "Launch", "de/d5a/a19176.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
-    [ "PrepareSpellScript", "de/d5a/a19176.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
-    [ "Register", "de/d5a/a19176.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
+    [ "OnApply", "de/d5a/a19176.html#a72a01dea703436b2a220a9976da60fa6", null ],
+    [ "PrepareAuraScript", "de/d5a/a19176.html#adb17425258d4fb2c0c464236e15f32d7", null ],
+    [ "Register", "de/d5a/a19176.html#af026c126029c68ed8b7c6c1886720e4c", null ],
+    [ "Validate", "de/d5a/a19176.html#a5674396828adf4e80102ed2277f1e08a", null ]
 ];

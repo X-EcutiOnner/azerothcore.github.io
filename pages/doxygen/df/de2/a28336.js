@@ -1,7 +1,9 @@
 var a28336 =
 [
-    [ "cutPercent", "df/de2/a28336.html#a8581a6a5198dab10680f477a477a7c80", null ],
-    [ "depositPercent", "df/de2/a28336.html#af7bb868f1a1e8d570ce7b6cb10ad87d9", null ],
-    [ "faction", "df/de2/a28336.html#a4b857e3c4c333b2a86f7f5d08bcc883d", null ],
-    [ "houseId", "df/de2/a28336.html#a1bf77c1b14731def0e3de44143df2eed", null ]
+    [ "CinematicSequence", "df/de2/a28336.html#a7a0a35bbb69320565d991f4a349dc01b", null ],
+    [ "ClassID", "df/de2/a28336.html#a9da8d8d20126e9dc161b1dd64a19fe59", null ],
+    [ "expansion", "df/de2/a28336.html#a7c57eabd8d94849cd8536b013a8d4138", null ],
+    [ "name", "df/de2/a28336.html#a2d0b7155b03af29bd982f31eba26ec24", null ],
+    [ "powerType", "df/de2/a28336.html#a74aec35dc161a7e830453b9365a6f107", null ],
+    [ "spellfamily", "df/de2/a28336.html#a43fbe48c99e297ea09e9e1f2edd6a4ea", null ]
 ];

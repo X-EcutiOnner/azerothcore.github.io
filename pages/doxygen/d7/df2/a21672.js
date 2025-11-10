@@ -1,8 +1,8 @@
 var a21672 =
 [
-    [ "npc_azure_captainAI", "d7/df2/a21672.html#a15b1acc73108c6802dbf3ac2ed0734c9", null ],
-    [ "Reset", "d7/df2/a21672.html#a13d25bf1612086cc4bb5bc2078105f18", null ],
-    [ "UpdateAI", "d7/df2/a21672.html#ae50ac21138e12be43caa93e37062051e", null ],
-    [ "uiMortalStrikeTimer", "d7/df2/a21672.html#a791a3ee9b67e72e1dcb392b9ebc2359a", null ],
-    [ "uiWhirlwindTimer", "d7/df2/a21672.html#a2e3439976a6e84a60be765cb0b929798", null ]
+    [ "HandleEffectRemove", "d7/df2/a21672.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "d7/df2/a21672.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "d7/df2/a21672.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "d7/df2/a21672.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "d7/df2/a21672.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

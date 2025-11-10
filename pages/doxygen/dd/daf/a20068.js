@@ -1,6 +1,9 @@
 var a20068 =
 [
-    [ "boss_flame_leviathan_defense_turretAI", "d7/d5a/a20072.html", "d7/d5a/a20072" ],
-    [ "boss_flame_leviathan_defense_turret", "dd/daf/a20068.html#a939c66ff6c1eb6dfdb3d93b3d0292e40", null ],
-    [ "GetAI", "dd/daf/a20068.html#a1c3726e2b753cda18bd11d8f4ff154db", null ]
+    [ "npc_hodirs_furyAI", "dd/daf/a20068.html#ae08a68a79a3fef952f6dfa50b4eaabca", null ],
+    [ "MovementInform", "dd/daf/a20068.html#a37b07ddee5403ee2de8f69904412ed42", null ],
+    [ "Reset", "dd/daf/a20068.html#a389f0f17fbc7860c5531f4859be561d3", null ],
+    [ "UpdateAI", "dd/daf/a20068.html#a5417d68891ad0f93c8130c9a14d57513", null ],
+    [ "_switchTargetTimer", "dd/daf/a20068.html#a8d15c1e290438c8a4aa50887cfffccba", null ],
+    [ "_timeToHit", "dd/daf/a20068.html#a594356602bd0068fba82bea64e284837", null ]
 ];

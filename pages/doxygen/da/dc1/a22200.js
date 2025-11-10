@@ -1,7 +1,12 @@
 var a22200 =
 [
-    [ "HandleDummy", "da/dc1/a22200.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
-    [ "PrepareSpellScript", "da/dc1/a22200.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
-    [ "Register", "da/dc1/a22200.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
-    [ "Validate", "da/dc1/a22200.html#aeec15705a41ad2ac0e59d90086591d96", null ]
+    [ "npc_your_inner_turmoilAI", "da/dc1/a22200.html#a95e8039b174f6db267197e04b6bd2dd2", null ],
+    [ "DamageTaken", "da/dc1/a22200.html#a0e14a306db46e817e6d8f7a358519f83", null ],
+    [ "JustDied", "da/dc1/a22200.html#a142359bf1661542d044a7d27b764832b", null ],
+    [ "Reset", "da/dc1/a22200.html#a4e17e9642ec11712652f41495974b716", null ],
+    [ "setphase", "da/dc1/a22200.html#a17c00619bcf5818e49f67d4d8b8b35b0", null ],
+    [ "UpdateAI", "da/dc1/a22200.html#a2a4b20fccb4b5ef0f590f0a7ee92e4d2", null ],
+    [ "health50", "da/dc1/a22200.html#af5a9e355c2a5a927d38ea22fe96d89f0", null ],
+    [ "phase", "da/dc1/a22200.html#a60212e1504bcb6f7db05ba5ed09df71f", null ],
+    [ "timer", "da/dc1/a22200.html#af2c272de51aa15a41af9837f99256a62", null ]
 ];

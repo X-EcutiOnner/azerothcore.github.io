@@ -1,12 +1,8 @@
 var a22932 =
 [
-    [ "boss_gurtogg_bloodboil", "da/da6/a22932.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
-    [ "CanAIAttack", "da/da6/a22932.html#a60e6439bab689eb88a18612b6b46c713", null ],
-    [ "CheckEvadeIfOutOfCombatArea", "da/da6/a22932.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
-    [ "JustDied", "da/da6/a22932.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
-    [ "JustEngagedWith", "da/da6/a22932.html#a0847173efbae252c2fbbaf1be17097cb", null ],
-    [ "JustSummoned", "da/da6/a22932.html#ae718666a1da0e93cb0965c42c40b51df", null ],
-    [ "KilledUnit", "da/da6/a22932.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
-    [ "Reset", "da/da6/a22932.html#add25677d422b8bddcb753465451f0584", null ],
-    [ "_recentlySpoken", "da/da6/a22932.html#a74af813b84f7787a5b764cfe574c087b", null ]
+    [ "npc_parasitic_shadowfiend", "da/da6/a22932.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
+    [ "CanAIAttack", "da/da6/a22932.html#ac7600aed313f1413cb9b522d60d30329", null ],
+    [ "EnterEvadeMode", "da/da6/a22932.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
+    [ "IsSummonedBy", "da/da6/a22932.html#a306c696d4243c4525d0a3908a212135d", null ],
+    [ "UpdateAI", "da/da6/a22932.html#a2706a4ba7876f299b02d2e720f512af2", null ]
 ];

@@ -1,6 +1,7 @@
 var a13604 =
 [
-    [ "FilterTargets", "d1/dc0/a13604.html#aa6c8db9ae3ffd14e0841c98633115a9b", null ],
-    [ "PrepareSpellScript", "d1/dc0/a13604.html#a502f57c8567bc7ed15035d89ea26f4a6", null ],
-    [ "Register", "d1/dc0/a13604.html#aa3f50e9c6d430d3a1bc83c382c08b189", null ]
+    [ "FilterTargets", "d1/dc0/a13604.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
+    [ "HandleHit", "d1/dc0/a13604.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
+    [ "PrepareSpellScript", "d1/dc0/a13604.html#a905e1f979284a368463ad4829891b6ee", null ],
+    [ "Register", "d1/dc0/a13604.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
 ];

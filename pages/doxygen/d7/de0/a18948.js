@@ -1,5 +1,7 @@
 var a18948 =
 [
-    [ "at_icc_saurfang_portal", "d7/de0/a18948.html#a7f30058251c520634a0b7bad08380e5d", null ],
-    [ "OnTrigger", "d7/de0/a18948.html#a8980fe0e67aa33335f0fdb947a294213", null ]
+    [ "HandleEffectPeriodic", "d7/de0/a18948.html#a208c4d59e20cd802cf2f4643fa0d6253", null ],
+    [ "PrepareAuraScript", "d7/de0/a18948.html#af1d284c4686f739b02b350a6c0a166c2", null ],
+    [ "Register", "d7/de0/a18948.html#a006a97823ac07346771ec4ab61bd0763", null ],
+    [ "Validate", "d7/de0/a18948.html#ae1f5555dcadb48ba59bf9571073f4a99", null ]
 ];

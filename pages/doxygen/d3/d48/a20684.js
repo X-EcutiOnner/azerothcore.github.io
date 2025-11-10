@@ -1,6 +1,5 @@
 var a20684 =
 [
-    [ "npc_ulduar_flames_initialAI", "d6/d86/a20688.html", "d6/d86/a20688" ],
-    [ "npc_ulduar_flames_initial", "d3/d48/a20684.html#aee0c62a38e3e0958e015faef2c434273", null ],
-    [ "GetAI", "d3/d48/a20684.html#ac0db78c361324a594220ad644001f4eb", null ]
+    [ "npc_ulduar_rocket_strike_triggerAI", "d3/d48/a20684.html#a6308129d11989dadf0a5948c4a268e4b", null ],
+    [ "SpellHitTarget", "d3/d48/a20684.html#a3c254e16f62e7d2414d81062c91c2468", null ]
 ];

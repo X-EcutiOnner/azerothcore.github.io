@@ -1,13 +1,9 @@
 var a23036 =
 [
-    [ "boss_illidari_council_memberAI", "da/d44/a23036.html#ac32366dfad13cd37ced2428d041e25c9", null ],
-    [ "DamageTaken", "da/d44/a23036.html#a1006bbdb6e39b6ceb52037e1b3cdb788", null ],
-    [ "DoAction", "da/d44/a23036.html#a203310b84d71a24145b1c39e7faff182", null ],
-    [ "EnterEvadeMode", "da/d44/a23036.html#a9bf2376cd75e0dc825de3839eda857eb", null ],
-    [ "JustDied", "da/d44/a23036.html#a135c8e8f4113b1c9c05e5b26e61e639c", null ],
-    [ "JustEngagedWith", "da/d44/a23036.html#a5c43bfb6e1781a83bfad36668ac724f2", null ],
-    [ "KilledUnit", "da/d44/a23036.html#aa0cb7a373d521038e8e41e354f6bc3f7", null ],
-    [ "Reset", "da/d44/a23036.html#a8e75d47f56d14d9b66d10b74c3479839", null ],
-    [ "events", "da/d44/a23036.html#ad47a350f5ed066e04816e72961a80bd0", null ],
-    [ "instance", "da/d44/a23036.html#adb11720cd0fd87a42b9a78490a70251e", null ]
+    [ "HandleAfterCast", "da/d44/a23036.html#a32928b579ef42f377e911ef27197ed61", null ],
+    [ "HandleDummy", "da/d44/a23036.html#a2adec08f0cc42cb21e97007b5f1214bc", null ],
+    [ "Load", "da/d44/a23036.html#ac870bd626367bdc704e63d2f3b061b1f", null ],
+    [ "PrepareSpellScript", "da/d44/a23036.html#a1f51d5562d5caac8d7d0f71de0051989", null ],
+    [ "Register", "da/d44/a23036.html#adf8c87e9f6a3fb36bf26ed1c8dbb722f", null ],
+    [ "_targetCount", "da/d44/a23036.html#a84d46608f7141d68b1a67fffc3493cbb", null ]
 ];

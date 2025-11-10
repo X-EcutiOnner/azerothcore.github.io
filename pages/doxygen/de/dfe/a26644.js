@@ -1,7 +1,6 @@
 var a26644 =
 [
-    [ "HandleDummy", "de/dfe/a26644.html#a367bd26543382ad71668fbe4f524d823", null ],
-    [ "PrepareSpellScript", "de/dfe/a26644.html#a71cde3f81fdb253d8e93a19be104e9db", null ],
-    [ "Register", "de/dfe/a26644.html#a7c73e3381592bef44d2265aff296b301", null ],
-    [ "Validate", "de/dfe/a26644.html#a03d59b6859286dbe460b348df6de63d7", null ]
+    [ "HandleEffectApply", "de/dfe/a26644.html#a111ce5c9e70ed563bc7b9c2ec8e79b76", null ],
+    [ "PrepareAuraScript", "de/dfe/a26644.html#a707504eccf42af77f6e6e927d208bc8c", null ],
+    [ "Register", "de/dfe/a26644.html#a7aeaa28997bbe966274a738cf45323ed", null ]
 ];

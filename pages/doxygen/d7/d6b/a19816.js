@@ -1,7 +1,6 @@
 var a19816 =
 [
-    [ "creature", "d7/d6b/a19816.html#a55a6ee677ab51120867f542e5a5745b0", null ],
-    [ "sound", "d7/d6b/a19816.html#a407acf5c908aa44a169adc1e88a70ab4", null ],
-    [ "text", "d7/d6b/a19816.html#a9ed157ddf2c274d021820723b1ebe00e", null ],
-    [ "timer", "d7/d6b/a19816.html#a198a3a5a4ad037b591fc3b85675bdfe1", null ]
+    [ "iron_golem_custodianAI", "d2/d39/a19820.html", "d2/d39/a19820" ],
+    [ "iron_golem_custodian", "d7/d6b/a19816.html#adc11b755e193adbad757c21e5b15e063", null ],
+    [ "GetAI", "d7/d6b/a19816.html#a272e0c9fe475a665aa80a95f1e1d8629", null ]
 ];

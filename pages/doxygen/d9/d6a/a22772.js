@@ -1,17 +1,12 @@
 var a22772 =
 [
-    [ "OutdoorPvPSI", "d9/d6a/a22772.html#a89bf2d913b7d68ee921ef4b9aeea61e1", null ],
-    [ "FillInitialWorldStates", "d9/d6a/a22772.html#a7392eed60ec3307bdea4ed35cd859077", null ],
-    [ "HandleAreaTrigger", "d9/d6a/a22772.html#a7c6d70d7a611752456c55d13420ff840", null ],
-    [ "HandleCustomSpell", "d9/d6a/a22772.html#a10853a2f5766b6fc75044a20b281a198", null ],
-    [ "HandleDropFlag", "d9/d6a/a22772.html#a9238a5007253d84d66192bd340d8311a", null ],
-    [ "HandlePlayerEnterZone", "d9/d6a/a22772.html#ad2cabd461406a61e40411850b3d31c0c", null ],
-    [ "HandlePlayerLeaveZone", "d9/d6a/a22772.html#aa06088b1d80072577e6fc7653a214512", null ],
-    [ "SendRemoveWorldStates", "d9/d6a/a22772.html#aae7deda0662b28f6fc0e16115a65304b", null ],
-    [ "SetupOutdoorPvP", "d9/d6a/a22772.html#a401da5bef2350c4eb21b249b4f8b3e40", null ],
-    [ "Update", "d9/d6a/a22772.html#a56bda08a795a4b0cd1c52ec448920fac", null ],
-    [ "UpdateWorldState", "d9/d6a/a22772.html#a81f4362ece83f37f14471926e9a85fb3", null ],
-    [ "m_Gathered_A", "d9/d6a/a22772.html#ab532337ab7e66e1489221e3189e48bac", null ],
-    [ "m_Gathered_H", "d9/d6a/a22772.html#abcd36fe918edbbea387573bd5fab89e7", null ],
-    [ "m_LastController", "d9/d6a/a22772.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c", null ]
+    [ "OPvPCapturePointZM_Beacon", "d9/d6a/a22772.html#a9efdfd232e9aa6dd390800bbf0373442", null ],
+    [ "ChangeState", "d9/d6a/a22772.html#a5bbe87c18c814358596a9648fd92b129", null ],
+    [ "FillInitialWorldStates", "d9/d6a/a22772.html#a94511cd0d2d1dccaa1ed8276b273a2fb", null ],
+    [ "HandlePlayerEnter", "d9/d6a/a22772.html#a7042cd6b4c3d57de89e3ae9e0b2cee2a", null ],
+    [ "HandlePlayerLeave", "d9/d6a/a22772.html#a6e5bfb2751f157fc4ebc8338b7cce802", null ],
+    [ "SendChangePhase", "d9/d6a/a22772.html#a0b5ad48fa0d6ddd6c768fb7454b5fb55", null ],
+    [ "UpdateTowerState", "d9/d6a/a22772.html#a9622620e5b969e19ea049ebd3cc4a3dc", null ],
+    [ "m_TowerState", "d9/d6a/a22772.html#a3a41cc34e7a8bd9f0d9d6f86f42a3312", null ],
+    [ "m_TowerType", "d9/d6a/a22772.html#a481e79d61fcdd011632f8f0d37f940bc", null ]
 ];

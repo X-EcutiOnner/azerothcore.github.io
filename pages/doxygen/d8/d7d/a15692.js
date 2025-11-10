@@ -1,5 +1,6 @@
 var a15692 =
 [
-    [ "at_ancient_leaf", "d8/d7d/a15692.html#a7c1913b5ac00659697d0b361f1a7a2fd", null ],
-    [ "OnTrigger", "d8/d7d/a15692.html#a6d3a2775216cb0c864dc21f5bb5dbc79", null ]
+    [ "npc_omenAI", "d6/d63/a15696.html", "d6/d63/a15696" ],
+    [ "npc_omen", "d8/d7d/a15692.html#aff955303a8b9741838779a59dd496f62", null ],
+    [ "GetAI", "d8/d7d/a15692.html#a8023ad3298000d9819c46f46a93166d4", null ]
 ];

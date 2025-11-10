@@ -1,7 +1,6 @@
 var a24232 =
 [
-    [ "HandleDummy", "d2/ddd/a24232.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "d2/ddd/a24232.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "d2/ddd/a24232.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "d2/ddd/a24232.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "npc_fel_guard_houndAI", "d3/d3e/a24236.html", "d3/d3e/a24236" ],
+    [ "npc_fel_guard_hound", "d2/ddd/a24232.html#a324179695f04a31b233b0ce94a46634c", null ],
+    [ "GetAI", "d2/ddd/a24232.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
 ];

@@ -1,6 +1,5 @@
 var a19924 =
 [
-    [ "HandlePeriodic", "d4/d90/a19924.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
-    [ "PrepareAuraScript", "d4/d90/a19924.html#a7c6b6839da4a93f656800c9ae174c832", null ],
-    [ "Register", "d4/d90/a19924.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
+    [ "achievement_algalon_he_feeds_on_your_tears", "d4/d90/a19924.html#a91f4ddbce55a50e563df701eb0bcfff7", null ],
+    [ "OnCheck", "d4/d90/a19924.html#affea33614581545c65513bfe533d7246", null ]
 ];

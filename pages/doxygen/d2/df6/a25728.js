@@ -1,6 +1,9 @@
 var a25728 =
 [
-    [ "HandleFinish", "d2/df6/a25728.html#a97cef2944f3fcc11aa6898bc8455ab21", null ],
-    [ "PrepareSpellScript", "d2/df6/a25728.html#a62920503172dc58ac864a23e90a98dd9", null ],
-    [ "Register", "d2/df6/a25728.html#ab40419508a1903869aa2b36a590301ba", null ]
+    [ "getMountSpellId", "d2/df6/a25728.html#afe306ed6057050baf342ee717723764d", null ],
+    [ "OnApply", "d2/df6/a25728.html#aa8bee986d413be60d00ac1d2111ef719", null ],
+    [ "OnRemove", "d2/df6/a25728.html#a162d466a1dcd2cb710abf12c06f7c2de", null ],
+    [ "PrepareAuraScript", "d2/df6/a25728.html#a7070cc7aeec4a88fbde960cebf1aef56", null ],
+    [ "Register", "d2/df6/a25728.html#a481e5295da3d789d9b3c1ed30fdaf0bd", null ],
+    [ "Validate", "d2/df6/a25728.html#a6868f6e88c9179efd921b266c83f6daf", null ]
 ];

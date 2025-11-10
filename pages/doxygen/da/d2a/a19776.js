@@ -1,6 +1,9 @@
 var a19776 =
 [
-    [ "boss_maiden_of_griefAI", "de/d70/a19780.html", "de/d70/a19780" ],
-    [ "boss_maiden_of_grief", "da/d2a/a19776.html#a8361e4961ac1da09b803ca9e7fc67f95", null ],
-    [ "GetAI", "da/d2a/a19776.html#af8d2e6392a0c73add801910945b2558e", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "da/d2a/a19776.html#aac57ae32188c47ca97b7331d62986e66", null ],
+    [ "JustDied", "da/d2a/a19776.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
+    [ "JustEngagedWith", "da/d2a/a19776.html#a772d279407d724477560898559710433", null ],
+    [ "Reset", "da/d2a/a19776.html#a5b4a726aa496923d81c41b038e5f7449", null ],
+    [ "UpdateAI", "da/d2a/a19776.html#a2745ff26c165851c367e080d28652984", null ],
+    [ "events", "da/d2a/a19776.html#a468d45f9b9c2172f326068d59a74121a", null ]
 ];

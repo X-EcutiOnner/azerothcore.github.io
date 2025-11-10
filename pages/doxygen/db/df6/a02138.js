@@ -1,8 +1,8 @@
 var a02138 =
 [
-    [ "boss_high_astromancer_solarian", "d1/de0/a24020.html", "d1/de0/a24020" ],
-    [ "spell_astromancer_wrath_of_the_astromancer", "df/da4/a24024.html", "df/da4/a24024" ],
-    [ "spell_astromancer_solarian_transform", "d4/d39/a24028.html", "d4/d39/a24028" ],
+    [ "boss_high_astromancer_solarian", "d9/dac/a23992.html", "d9/dac/a23992" ],
+    [ "spell_astromancer_wrath_of_the_astromancer", "d8/d14/a23996.html", "d8/d14/a23996" ],
+    [ "spell_astromancer_solarian_transform", "d8/dd2/a24000.html", "d8/dd2/a24000" ],
     [ "CENTER_O", "db/df6/a02138.html#a1b683ec7a35f03622bada41f50aac881", null ],
     [ "CENTER_X", "db/df6/a02138.html#affb36ca3a6519ca609cfa9a0d70a682a", null ],
     [ "CENTER_Y", "db/df6/a02138.html#a65dba9379097de8ea0bb4afd9d504b2b", null ],
@@ -250,7 +250,6 @@ var a02138 =
       [ "ROOM_STAIRS", "dd/da3/a03026.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae2375df4683a40c95e9d73dc07b67971", null ],
       [ "ACTION_TURN_BONES", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac4df9037e576791a0e8cd7a86df7ebf3", null ],
       [ "EVENT_SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6acc06d07ea4bf758d5b40d8d015dfc0cf", null ],
-      [ "EVENT_SPELL_RAIN_OF_FIRE", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae87b6da7fec02560956dd06ddc9c0e04", null ],
       [ "EVENT_SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa006a8f2aa2c4e55f6a86c52b9ecbfed", null ],
       [ "EVENT_SPELL_EYE_BEAM", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7cfb962f489a01f1d7146a2ab0a5cb24", null ],
       [ "EVENT_SPELL_LIGHTNING_BREATH", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abde294ddbf63fb2a3f09c41a0a9f8971", null ],
@@ -2373,7 +2372,6 @@ var a02138 =
       [ "SPELL_FROSTBOLT", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e", null ],
       [ "SPELL_TOUCH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d", null ],
       [ "SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6", null ],
-      [ "SPELL_RAIN_OF_FIRE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca770475c37ddfbb0a8c98a0c8a7c98f0d", null ],
       [ "SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8", null ],
       [ "SPELL_EYE_BEAM", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc", null ],
       [ "SPELL_LIGHTNING_BREATH", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298caba0559b83dfa3b94464ac474a4b62e3e", null ],

@@ -1,6 +1,5 @@
 var a27632 =
 [
-    [ "go_bellsAI", "d7/da6/a27636.html", "d7/da6/a27636" ],
-    [ "go_bells", "d6/d8b/a27632.html#a9f40a13aa1aaee28ebd1254d428c0519", null ],
-    [ "GetAI", "d6/d8b/a27632.html#a4f1272fb8856310d7924f8e7be1e39f8", null ]
+    [ "item_only_for_flight", "d6/d8b/a27632.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
+    [ "OnUse", "d6/d8b/a27632.html#a88cdf17a85630aef703f93143ba41d4d", null ]
 ];

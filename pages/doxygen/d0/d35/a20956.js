@@ -1,7 +1,5 @@
 var a20956 =
 [
-    [ "npc_xt002_life_sparkAI", "d0/d35/a20956.html#a763ec1834d3b71c88bfa80bc0e34966a", null ],
-    [ "Reset", "d0/d35/a20956.html#a596e2ed45b9221915781b03bf2d18e5b", null ],
-    [ "UpdateAI", "d0/d35/a20956.html#af0a1e717b08b2fa35dd4ff83778a87c1", null ],
-    [ "_attackTimer", "d0/d35/a20956.html#a79bf005de95aa1fee60dfc73b8920dad", null ]
+    [ "achievement_xt002_nerf_engineering", "d0/d35/a20956.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
+    [ "OnCheck", "d0/d35/a20956.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
 ];

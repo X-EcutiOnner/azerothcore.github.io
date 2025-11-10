@@ -1,8 +1,9 @@
 var a27772 =
 [
-    [ "npc_elder_clearwaterAI", "d1/dfd/a27776.html", "d1/dfd/a27776" ],
-    [ "npc_elder_clearwater", "d6/da6/a27772.html#abeee1650938a71762bb0c148ea9834d1", null ],
-    [ "GetAI", "d6/da6/a27772.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
-    [ "OnGossipHello", "d6/da6/a27772.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
-    [ "OnQuestReward", "d6/da6/a27772.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
+    [ "npc_target_dummyAI", "d6/da6/a27772.html#a117e45559ea721877d73df4b3c18a259", null ],
+    [ "EnterEvadeMode", "d6/da6/a27772.html#a8f7f2e4decc676e378b4929516f8a147", null ],
+    [ "MoveInLineOfSight", "d6/da6/a27772.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
+    [ "Reset", "d6/da6/a27772.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
+    [ "UpdateAI", "d6/da6/a27772.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
+    [ "deathTimer", "d6/da6/a27772.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
 ];

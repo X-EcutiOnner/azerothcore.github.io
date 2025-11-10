@@ -1,9 +1,6 @@
 var a17012 =
 [
-    [ "HandlePeriodicTick", "d5/d67/a17012.html#a8d3713d113cbcfd610938544e52fe6ec", null ],
-    [ "Load", "d5/d67/a17012.html#a6f2cb6a9dd83a887314cdd9f7741acae", null ],
-    [ "PrepareAuraScript", "d5/d67/a17012.html#a0d00fd1bbc8dfce6cbc3234865bab42b", null ],
-    [ "Register", "d5/d67/a17012.html#a75dbd486e1ccb8c12bbf8001434ae66a", null ],
-    [ "Validate", "d5/d67/a17012.html#aae7b42d8e7fa2dc76d2584534877625c", null ],
-    [ "dir", "d5/d67/a17012.html#a7dd1959596e8ad1628498215249eb7a2", null ]
+    [ "instance_forge_of_souls_InstanceScript", "d1/d7f/a17016.html", "d1/d7f/a17016" ],
+    [ "instance_forge_of_souls", "d5/d67/a17012.html#a504896f6e191c87ce77231c4ef267b27", null ],
+    [ "GetInstanceScript", "d5/d67/a17012.html#a64982b527cfa6057315b8e628549480b", null ]
 ];

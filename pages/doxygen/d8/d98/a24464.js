@@ -1,6 +1,6 @@
 var a24464 =
 [
-    [ "npc_shadowmoon_tuber_nodeAI", "d9/d4a/a24468.html", "d9/d4a/a24468" ],
-    [ "npc_shadowmoon_tuber_node", "d8/d98/a24464.html#a98e8c7a84789457900fa342cca209d41", null ],
-    [ "GetAI", "d8/d98/a24464.html#a5f641af77e2fd78fe67b34fa18bf6b73", null ]
+    [ "npc_zephyr", "d8/d98/a24464.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
+    [ "OnGossipHello", "d8/d98/a24464.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
+    [ "OnGossipSelect", "d8/d98/a24464.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
 ];

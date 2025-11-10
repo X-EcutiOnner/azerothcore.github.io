@@ -1,6 +1,8 @@
 var a16692 =
 [
-    [ "npc_toc_rogueAI", "d3/da2/a16696.html", "d3/da2/a16696" ],
-    [ "npc_toc_rogue", "dc/da9/a16692.html#a925840be9698e381358235a827c20b8a", null ],
-    [ "GetAI", "dc/da9/a16692.html#a6f0246b284ffd800e3870d70e9c52aac", null ]
+    [ "npc_toc_pet_warlockAI", "dc/da9/a16692.html#a0f4128d5fd7a855f1fb2870465bc1ce7", null ],
+    [ "EnterEvadeMode", "dc/da9/a16692.html#a62219f63e82fc67f63db2cbd713647a0", null ],
+    [ "myCanCast", "dc/da9/a16692.html#a81607ebd90d8f511bb18b03ff497d9eb", null ],
+    [ "UpdateAI", "dc/da9/a16692.html#a05a150e01f519675ac7b69d3c2a97ed4", null ],
+    [ "events", "dc/da9/a16692.html#a8edadebd7e6660041233a24fb07173bf", null ]
 ];

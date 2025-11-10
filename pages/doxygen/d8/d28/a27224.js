@@ -1,6 +1,6 @@
 var a27224 =
 [
-    [ "HandleScript", "d8/d28/a27224.html#ab2bad52272a5cd7167a7601fdfa02b1d", null ],
-    [ "PrepareSpellScript", "d8/d28/a27224.html#a60454f2c1ba8d1ea160350b5e02bf56d", null ],
-    [ "Register", "d8/d28/a27224.html#a22b9877e2cd27c925ae7b351d3d6f41b", null ]
+    [ "HandleOnHit", "d8/d28/a27224.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "d8/d28/a27224.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "d8/d28/a27224.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

@@ -1,6 +1,7 @@
 var a18060 =
 [
-    [ "boss_professor_putricideAI", "d6/d6c/a18064.html", "d6/d6c/a18064" ],
-    [ "boss_professor_putricide", "d2/d88/a18060.html#a80776dad5c0205aa6a98752f43e85e32", null ],
-    [ "GetAI", "d2/d88/a18060.html#a7c84089d24bb0c77a5203884254e0925", null ]
+    [ "HandleScript", "d2/d88/a18060.html#afc76149cb44a4d2aab48350fb4392036", null ],
+    [ "PrepareSpellScript", "d2/d88/a18060.html#a8598de219c2402596fe97b5dd32c534e", null ],
+    [ "Register", "d2/d88/a18060.html#ac9d4842632431e52932f66d09042ea70", null ],
+    [ "ScaleRange", "d2/d88/a18060.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
 ];

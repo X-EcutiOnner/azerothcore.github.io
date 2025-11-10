@@ -1,25 +1,9 @@
 var a14620 =
 [
-    [ "boss_headless_horseman", "db/d22/a14620.html#a4f791099607d7861cfa193f9b5fc265b", null ],
-    [ "DamageTaken", "db/d22/a14620.html#a76c6eddf1005774403498d0954571c19", null ],
-    [ "DoAction", "db/d22/a14620.html#ad5d8645b879a2c97c68e815463a97b49", null ],
-    [ "GetRhymePlayer", "db/d22/a14620.html#ad4bc4c5364d1c07c21f29747934efc01", null ],
-    [ "JustDied", "db/d22/a14620.html#aea5a5ee1fce56cefd84ebde29bcc5a1d", null ],
-    [ "JustEngagedWith", "db/d22/a14620.html#a149ae2b8c688c5b24d3db480b888e36e", null ],
-    [ "JustReachedHome", "db/d22/a14620.html#a888d573450a2b09d22def41884ed2d30", null ],
-    [ "JustSummoned", "db/d22/a14620.html#a06a654a822967c02dbab2c75f211e072", null ],
-    [ "KilledUnit", "db/d22/a14620.html#ad98d9d303815f538e194a55578ae909a", null ],
-    [ "MoveInLineOfSight", "db/d22/a14620.html#a57a5935e31ef5cc4df2657ddd358afdc", null ],
-    [ "MovementInform", "db/d22/a14620.html#abccf1fc3c5475e50d45bbd596ff98ce9", null ],
-    [ "Reset", "db/d22/a14620.html#ac52c6590f78c23149abfb062d5814ded", null ],
-    [ "SpellHit", "db/d22/a14620.html#ace502054c0e570655be9ea1990b48f9f", null ],
-    [ "SpellHitTarget", "db/d22/a14620.html#afa5e099de3899e41b3ee04f348c3d6a0", null ],
-    [ "UpdateAI", "db/d22/a14620.html#aa6741999e5a9a826efb279e014ea4ab8", null ],
-    [ "events", "db/d22/a14620.html#a2fe31482b5267bfc94d5d68062a46e0c", null ],
-    [ "health", "db/d22/a14620.html#a076037b8bad3648551997915d97fb9b2", null ],
-    [ "inFight", "db/d22/a14620.html#a8e33d87467086dc3eae778a579216256", null ],
-    [ "phase", "db/d22/a14620.html#a9dde0cfcc41ec7d8b9f53e55057adab9", null ],
-    [ "playerGUID", "db/d22/a14620.html#af0ee0c6da6398d6a84457aab942bb29c", null ],
-    [ "summons", "db/d22/a14620.html#a5de04d5c0da7c199ec89de9ef40a59fd", null ],
-    [ "talkCount", "db/d22/a14620.html#a091a925d7040e29efc54a4c5f123591d", null ]
+    [ "npc_love_in_air_snivel", "db/d22/a14620.html#ab04596fb96292f54cf2a10f662dc94a3", null ],
+    [ "AllowAction", "db/d22/a14620.html#af1097317f62bbb8f8456124001c73576", null ],
+    [ "MoveInLineOfSight", "db/d22/a14620.html#ae6537707109b95fad20e521d07867cdd", null ],
+    [ "Reset", "db/d22/a14620.html#a2385ea44d9f44735b193add4a0d0485b", null ],
+    [ "UpdateAI", "db/d22/a14620.html#a9e712994663e3442359d2f574ebc812c", null ],
+    [ "delay", "db/d22/a14620.html#a548db6245ef875ec47279246e437934c", null ]
 ];

@@ -1,10 +1,10 @@
 var a21064 =
 [
-    [ "boss_yoggsaron_constrictor_tentacleAI", "de/d62/a21064.html#a351df0050661628e3ab0be2f636f9c4e", null ],
-    [ "DoAction", "de/d62/a21064.html#ad84c2b479a2d7df7aec40f17287a2438", null ],
-    [ "JustDied", "de/d62/a21064.html#a832d1b1154b158c348f9d5883ad0fbd7", null ],
-    [ "SelectConstrictTarget", "de/d62/a21064.html#a174be8d1673e332f9dceb10d2917bb4a", null ],
-    [ "UpdateAI", "de/d62/a21064.html#a00c137429f2b565bf195dab4e9902a7c", null ],
-    [ "_checkTimer", "de/d62/a21064.html#ae5c189401dd04823449e7a16c197e65f", null ],
-    [ "_playerGUID", "de/d62/a21064.html#a01d889af8d8fe5712cde73cdc2bf3c95", null ]
+    [ "boss_yoggsaron_immortal_guardianAI", "de/d62/a21064.html#a84a3ffe43a4ce49cd543f770594cd683", null ],
+    [ "DamageTaken", "de/d62/a21064.html#aec157bcf0628a7301bcb91dd62bcc484", null ],
+    [ "Reset", "de/d62/a21064.html#a763f772414f00c0f83402e1a635b6bd0", null ],
+    [ "SpellHit", "de/d62/a21064.html#a60721961f2eb5e91c15890252166b872", null ],
+    [ "UpdateAI", "de/d62/a21064.html#a7fa550f683fcf16f5bd70a307bffcb2b", null ],
+    [ "_spellTimer", "de/d62/a21064.html#a4ed360380707195e10753436020b67eb", null ],
+    [ "_visualTimer", "de/d62/a21064.html#a8c382c37aaa3d20cfc0fe604af52bef4", null ]
 ];

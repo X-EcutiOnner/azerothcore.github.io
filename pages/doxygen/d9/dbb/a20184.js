@@ -1,6 +1,6 @@
 var a20184 =
 [
-    [ "OnPeriodic", "d9/dbb/a20184.html#a379c55df994c58932fef7e7a59fd8426", null ],
-    [ "PrepareAuraScript", "d9/dbb/a20184.html#ab180f54264f0c90376587d1b4c4dfd40", null ],
-    [ "Register", "d9/dbb/a20184.html#aacfaa385ca4cbe64217ef191a32936e2", null ]
+    [ "CheckCast", "d9/dbb/a20184.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
+    [ "PrepareSpellScript", "d9/dbb/a20184.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
+    [ "Register", "d9/dbb/a20184.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
 ];

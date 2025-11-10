@@ -1,10 +1,7 @@
 var a27132 =
 [
-    [ "CheckProc", "d1/d72/a27132.html#a257202ac9b80a67ce58d9e3491164d22", null ],
-    [ "HandleProc", "d1/d72/a27132.html#aa3c74b25fbe63ac77e10260159adb8ca", null ],
-    [ "HandleTick", "d1/d72/a27132.html#a5e436c530e5ef70bc4de4305676ed196", null ],
-    [ "PrepareAuraScript", "d1/d72/a27132.html#aef7d1a2bbd59af36cc130f07e1204081", null ],
-    [ "Register", "d1/d72/a27132.html#a11b0120ea8c8ccf1c96e5d1053d64895", null ],
-    [ "RemoveEffect", "d1/d72/a27132.html#a333ad80d8478f59713ee049f935d7885", null ],
-    [ "Validate", "d1/d72/a27132.html#aed3cb37f0230463978b210add84bd31d", null ]
+    [ "HandleApplyAura", "d1/d72/a27132.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
+    [ "PrepareSpellScript", "d1/d72/a27132.html#adf09900347264bc341884092ea0fee40", null ],
+    [ "Register", "d1/d72/a27132.html#ac56484d4048817a164963e519a97d137", null ],
+    [ "Validate", "d1/d72/a27132.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
 ];

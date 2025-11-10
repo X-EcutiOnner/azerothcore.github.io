@@ -1,10 +1,7 @@
 var a25640 =
 [
-    [ "CheckProc", "de/ddc/a25640.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
-    [ "HandleProc", "de/ddc/a25640.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
-    [ "OnApply", "de/ddc/a25640.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
-    [ "OnRemove", "de/ddc/a25640.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
-    [ "PrepareAuraScript", "de/ddc/a25640.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
-    [ "Register", "de/ddc/a25640.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
-    [ "Validate", "de/ddc/a25640.html#a91c5a0e10c308332e18dc40033049996", null ]
+    [ "HandleDummy", "de/ddc/a25640.html#a5b25d03bb22995e1ba9deb7eec4ee35a", null ],
+    [ "Load", "de/ddc/a25640.html#a833d9abe12cb4fff1700b97bc7215c1d", null ],
+    [ "PrepareSpellScript", "de/ddc/a25640.html#a547b3f71f9fc502dc589ad7b9b6f3cc2", null ],
+    [ "Register", "de/ddc/a25640.html#ae7d502253b0c47921e40da4aa87b0eef", null ]
 ];

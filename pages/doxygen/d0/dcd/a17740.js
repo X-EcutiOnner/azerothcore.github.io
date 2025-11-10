@@ -1,9 +1,14 @@
 var a17740 =
 [
-    [ "npc_stinky_iccAI", "d0/dcd/a17740.html#a545356eb2b77cfae7af3d470e95ea2d6", null ],
-    [ "JustDied", "d0/dcd/a17740.html#a7fa392980e2d30c935b79377df8dc694", null ],
-    [ "JustEngagedWith", "d0/dcd/a17740.html#afd1cd4fc387ff7cdad58c9db60841c7a", null ],
-    [ "Reset", "d0/dcd/a17740.html#ac66e3398598576fdc889a7b56646eecf", null ],
-    [ "UpdateAI", "d0/dcd/a17740.html#af6e04824ea1682c529e8579a306d34ca", null ],
-    [ "events", "d0/dcd/a17740.html#a3ab7ae11b7f5ef5877febbd384014ce2", null ]
+    [ "npc_gunshipAI", "d0/dcd/a17740.html#a75444497ffd6b7365827eea57fd946f9", null ],
+    [ "DamageTaken", "d0/dcd/a17740.html#a9c1825ec51aaecedd1035ae9a1ded6a0", null ],
+    [ "GetData", "d0/dcd/a17740.html#a0142bec2427c1256431e55d3f74b8948", null ],
+    [ "JustDied", "d0/dcd/a17740.html#aa19c815ad64f81fb5240c5e0667bccc9", null ],
+    [ "SetGUID", "d0/dcd/a17740.html#a7f336843c54de072cf58bc87ff08b068", null ],
+    [ "UpdateAI", "d0/dcd/a17740.html#a8bab1a755c2262e9f36f295781d30909", null ],
+    [ "_died", "d0/dcd/a17740.html#af4480427460748bccae214737469ddb7", null ],
+    [ "_instance", "d0/dcd/a17740.html#a21f9c24e80145db0c6847c81261d0e8d", null ],
+    [ "_shipVisits", "d0/dcd/a17740.html#a6f9730b746e195a99dc11357fd0387ba", null ],
+    [ "_summonedFirstMage", "d0/dcd/a17740.html#a721cc96cc76a27574a1a4eb1996b100e", null ],
+    [ "_teamIdInInstance", "d0/dcd/a17740.html#a195ff7ab2c2e96ab0bcd0a96c1e21512", null ]
 ];

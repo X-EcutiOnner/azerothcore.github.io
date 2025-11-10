@@ -1,7 +1,7 @@
 var a15888 =
 [
-    [ "npc_paoka_swiftmountainAI", "d4/de5/a15892.html", "d4/de5/a15892" ],
-    [ "npc_paoka_swiftmountain", "d5/de5/a15888.html#abb3f6fab7cca158c2e139159430f880a", null ],
-    [ "GetAI", "d5/de5/a15888.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
-    [ "OnQuestAccept", "d5/de5/a15888.html#a5bd4442350daf5a19bee1037a1b4d7b3", null ]
+    [ "npc_ameAI", "d4/de5/a15892.html", "d4/de5/a15892" ],
+    [ "npc_ame", "d5/de5/a15888.html#a6b4a20b06bc88393dd08b4eae83c1d50", null ],
+    [ "GetAI", "d5/de5/a15888.html#a09f7688c38d56319791f7543eb32f317", null ],
+    [ "OnQuestAccept", "d5/de5/a15888.html#a69b8ec6558e70e34f7e405b397b09f43", null ]
 ];

@@ -1,10 +1,6 @@
 var a17516 =
 [
-    [ "npc_dark_nucleusAI", "d3/d02/a17516.html#a9558da93ec684d5c4e79e686e6bfb142", null ],
-    [ "AttackStart", "d3/d02/a17516.html#a3dec28dd13257b944df0c559d26a76e0", null ],
-    [ "DamageTaken", "d3/d02/a17516.html#adfb2ad6f6b36fa122511a6ed10e22b99", null ],
-    [ "JustDied", "d3/d02/a17516.html#a464d479ad80d55e54c7ea2c8b8c03a81", null ],
-    [ "Reset", "d3/d02/a17516.html#ac84f79f84e721ab1306c8eed8658b143", null ],
-    [ "UpdateAI", "d3/d02/a17516.html#a3a08457c34d4dd904a99a78875d6318c", null ],
-    [ "timer", "d3/d02/a17516.html#ac5f9824276987b81aef5cfee05158049", null ]
+    [ "HandleScript", "d3/d02/a17516.html#ace45b0d9ce3815046e842d462fdcc9b6", null ],
+    [ "PrepareSpellScript", "d3/d02/a17516.html#a0257968b3a4d9ef3241420bbc5abb63a", null ],
+    [ "Register", "d3/d02/a17516.html#aed524436eacc6f1dddcc2f3cb6f502fc", null ]
 ];

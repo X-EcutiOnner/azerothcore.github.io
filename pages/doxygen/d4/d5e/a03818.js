@@ -1,9 +1,9 @@
 var a03818 =
 [
-    [ "instance_shadowfang_keep", "d4/d34/a13388.html", "d4/d34/a13388" ],
-    [ "instance_shadowfang_keep::instance_shadowfang_keep_InstanceMapScript", "d7/dfe/a13392.html", "d7/dfe/a13392" ],
-    [ "spell_shadowfang_keep_haunting_spirits_aura", "d8/dcd/a13396.html", "d8/dcd/a13396" ],
-    [ "spell_shadowfang_keep_forsaken_skills_aura", "d2/d94/a13400.html", "d2/d94/a13400" ],
+    [ "instance_shadowfang_keep", "d0/d19/a13360.html", "d0/d19/a13360" ],
+    [ "instance_shadowfang_keep::instance_shadowfang_keep_InstanceMapScript", "d2/d50/a13364.html", "d2/d50/a13364" ],
+    [ "spell_shadowfang_keep_haunting_spirits_aura", "d6/dbe/a13368.html", "d6/dbe/a13368" ],
+    [ "spell_shadowfang_keep_forsaken_skills_aura", "d2/d53/a13372.html", "d2/d53/a13372" ],
     [ "ForsakenSpells", "d4/d5e/a03818.html#a389d5779db9178608ade2fdc2e7a2d66", [
       [ "SPELL_FORSAKEN_SKILL_SWORD", "d4/d5e/a03818.html#a389d5779db9178608ade2fdc2e7a2d66a66434c0d78770abb5cb5e3a50074f5cb", null ],
       [ "SPELL_FORSAKEN_SKILL_SHADOW", "d4/d5e/a03818.html#a389d5779db9178608ade2fdc2e7a2d66ab350c0bad170d89027779476282a594c", null ]
@@ -1652,7 +1652,6 @@ var a03818 =
       [ "SPELL_FROSTBOLT", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e", null ],
       [ "SPELL_TOUCH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d", null ],
       [ "SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6", null ],
-      [ "SPELL_RAIN_OF_FIRE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca770475c37ddfbb0a8c98a0c8a7c98f0d", null ],
       [ "SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8", null ],
       [ "SPELL_EYE_BEAM", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc", null ],
       [ "SPELL_LIGHTNING_BREATH", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298caba0559b83dfa3b94464ac474a4b62e3e", null ],

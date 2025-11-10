@@ -1,5 +1,7 @@
 var a17696 =
 [
-    [ "achievement_ive_gone_and_made_a_mess", "d2/d27/a17696.html#a0e71ea3afae02176f81231e51155c038", null ],
-    [ "OnCheck", "d2/d27/a17696.html#a638cead986783523c7c35ecb9d885b11", null ]
+    [ "HandleScript", "d2/d27/a17696.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
+    [ "PrepareSpellScript", "d2/d27/a17696.html#a8f668b88a41585cabeace574b30b4f85", null ],
+    [ "Register", "d2/d27/a17696.html#a8fae161a91fae297b99079bde218ced8", null ],
+    [ "Validate", "d2/d27/a17696.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
 ];

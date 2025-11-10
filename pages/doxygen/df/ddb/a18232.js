@@ -1,12 +1,6 @@
 var a18232 =
 [
-    [ "npc_precious_iccAI", "df/ddb/a18232.html#a90dff89c652339ecf7479d2c9233962a", null ],
-    [ "JustDied", "df/ddb/a18232.html#a06671144929a3783f17397b818016032", null ],
-    [ "JustEngagedWith", "df/ddb/a18232.html#a05cd30f0bf149d16c75ad3f717cb9dcc", null ],
-    [ "JustSummoned", "df/ddb/a18232.html#adafed6974cbd70ccfc0f9ee83732d162", null ],
-    [ "Reset", "df/ddb/a18232.html#a9ecb9771140d1248c08c56886c8d4ca9", null ],
-    [ "SummonedCreatureDespawn", "df/ddb/a18232.html#af59e24c588861fe7d1bcd456780f571a", null ],
-    [ "UpdateAI", "df/ddb/a18232.html#a1fd3a4d7d16bb93be68d8b135546ab1e", null ],
-    [ "events", "df/ddb/a18232.html#a4ac57f4ffe0886f463378b42525e2e4d", null ],
-    [ "summons", "df/ddb/a18232.html#ab752e504c7cf463a4447a07fbb67211c", null ]
+    [ "npc_ice_tombAI", "d4/d20/a18236.html", "d4/d20/a18236" ],
+    [ "npc_ice_tomb", "df/ddb/a18232.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
+    [ "GetAI", "df/ddb/a18232.html#ac99b7c9887e54a1764310bd3e079811a", null ]
 ];

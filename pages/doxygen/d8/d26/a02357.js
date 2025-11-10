@@ -1,9 +1,9 @@
 var a02357 =
 [
-    [ "npc_anubisath_sentinel", "dc/dfc/a15456.html", "dc/dfc/a15456" ],
-    [ "npc_anubisath_sentinel::aqsentinelAI", "de/d39/a15460.html", "de/d39/a15460" ],
-    [ "spell_anubisath_mortal_strike", "d4/d7f/a15464.html", "d4/d7f/a15464" ],
-    [ "spell_mana_burn_area", "d9/d42/a15468.html", "d9/d42/a15468" ],
+    [ "npc_anubisath_sentinel", "d5/dd1/a15428.html", "d5/dd1/a15428" ],
+    [ "npc_anubisath_sentinel::aqsentinelAI", "d6/d10/a15432.html", "d6/d10/a15432" ],
+    [ "spell_anubisath_mortal_strike", "dc/d8f/a15436.html", "dc/d8f/a15436" ],
+    [ "spell_mana_burn_area", "db/dee/a15440.html", "db/dee/a15440" ],
     [ "Spells", "d8/d26/a02357.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d4/def/a00359.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d4/def/a00359.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],
@@ -1648,7 +1648,6 @@ var a02357 =
       [ "SPELL_FROSTBOLT", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e", null ],
       [ "SPELL_TOUCH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d", null ],
       [ "SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6", null ],
-      [ "SPELL_RAIN_OF_FIRE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca770475c37ddfbb0a8c98a0c8a7c98f0d", null ],
       [ "SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8", null ],
       [ "SPELL_EYE_BEAM", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc", null ],
       [ "SPELL_LIGHTNING_BREATH", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298caba0559b83dfa3b94464ac474a4b62e3e", null ],

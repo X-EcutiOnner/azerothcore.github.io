@@ -1,6 +1,7 @@
 var a14996 =
 [
-    [ "npc_cos_chromie_start", "df/d9f/a14996.html#ae8f810af1e593ad16958049f6ad19616", null ],
-    [ "OnGossipSelect", "df/d9f/a14996.html#a35cba5a1b7865b07a4e843648cea50c8", null ],
-    [ "OnQuestAccept", "df/d9f/a14996.html#aa730cb17e6cfe917bc32f7e7ae52e8ef", null ]
+    [ "boss_epoch_hunter", "df/d9f/a14996.html#a652d14ebfced39b8164687a713780600", null ],
+    [ "JustDied", "df/d9f/a14996.html#a38d3cbed2ce8f810fd169e0004fd91dc", null ],
+    [ "JustEngagedWith", "df/d9f/a14996.html#a2571f98f36d1271f3911617e0fdfba54", null ],
+    [ "KilledUnit", "df/d9f/a14996.html#a61456e680e9108dd841e83d97536ef1b", null ]
 ];

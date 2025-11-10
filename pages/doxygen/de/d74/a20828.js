@@ -1,7 +1,6 @@
 var a20828 =
 [
-    [ "boss_thorim_trapAI", "de/d74/a20828.html#aaab278dc6557a49624099b0064b8d6f3", null ],
-    [ "Reset", "de/d74/a20828.html#ab0715e75a475409ffb6c623bf363a65d", null ],
-    [ "UpdateAI", "de/d74/a20828.html#a40078609a67aa029f71df7971449b056", null ],
-    [ "_checkTimer", "de/d74/a20828.html#ad3ed8edb4d06e5b98a5afc82170f3233", null ]
+    [ "boss_thorim_gauntlet_npcsAI", "d3/d3d/a20832.html", "d3/d3d/a20832" ],
+    [ "boss_thorim_gauntlet_npcs", "de/d74/a20828.html#abdf2e90c5b86d3724fac46bff5e15d97", null ],
+    [ "GetAI", "de/d74/a20828.html#a2a71153ed2a9091de6668ab0b6f7674f", null ]
 ];

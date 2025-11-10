@@ -1,9 +1,9 @@
 var a24912 =
 [
-    [ "HandleApply", "d0/dbf/a24912.html#a1a612d0b35ed6e67042b4d038f8927ca", null ],
-    [ "HandleRemove", "d0/dbf/a24912.html#a54b5ffcf247f7385b50b401bc82f43ce", null ],
-    [ "PrepareAuraScript", "d0/dbf/a24912.html#af2b8e669737cd4282beb6a5035f496fc", null ],
-    [ "RecalculateBaseArmor", "d0/dbf/a24912.html#a693720558c7b2b22c41a49a402522014", null ],
-    [ "Register", "d0/dbf/a24912.html#aff9bc58342383afe5a08be696cddedf6", null ],
-    [ "Validate", "d0/dbf/a24912.html#ad712e1e05d94372defdfa4fe67e65716", null ]
+    [ "Absorb", "d0/dbf/a24912.html#a5d4b54569b16175ae84d3c94a1a6fcff", null ],
+    [ "CalculateAmount", "d0/dbf/a24912.html#a3800ed0d14eacf39a3930c1b5e139f85", null ],
+    [ "Load", "d0/dbf/a24912.html#a79e3012cb5c78851809d9f4c4d6c4487", null ],
+    [ "PrepareAuraScript", "d0/dbf/a24912.html#a1bdab939c229c466ce6b71a7e00dedf9", null ],
+    [ "Register", "d0/dbf/a24912.html#a47bd5ef93255a2d926874d6d70861374", null ],
+    [ "absorbPct", "d0/dbf/a24912.html#a0c067ba7bbfd5cde53f1323b5c2f47cb", null ]
 ];

@@ -1,6 +1,6 @@
 var a16304 =
 [
-    [ "npc_halion_controllerAI", "d6/d39/a16308.html", "d6/d39/a16308" ],
-    [ "npc_halion_controller", "d4/d5f/a16304.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
-    [ "GetAI", "d4/d5f/a16304.html#a3c5ea3f0597c070005744ea788a05383", null ]
+    [ "HandleForceCast", "d4/d5f/a16304.html#a975b69649aba9de341f4e52c82a3c111", null ],
+    [ "PrepareSpellScript", "d4/d5f/a16304.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
+    [ "Register", "d4/d5f/a16304.html#a794a59e5fd3bda75f30d559f422895b5", null ]
 ];

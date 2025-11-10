@@ -1,9 +1,7 @@
 var a18752 =
 [
-    [ "npc_gluttonous_abominationAI", "d5/de4/a18752.html#a8b9b632e2e26ef8d0e8c122d28530e81", null ],
-    [ "JustDied", "d5/de4/a18752.html#abc0dd71bbaf85786f34367acc3a849e9", null ],
-    [ "JustSummoned", "d5/de4/a18752.html#a49ff3db7845167b9e98feab2a01b1ed1", null ],
-    [ "Reset", "d5/de4/a18752.html#a45588181429a74ac024e0390c76fa57a", null ],
-    [ "UpdateAI", "d5/de4/a18752.html#a33ef03a9f005ff187493275a9c2683a7", null ],
-    [ "_events", "d5/de4/a18752.html#a4a841c7d2565f4797bc893a9c1ee7acd", null ]
+    [ "PeriodicTick", "d5/de4/a18752.html#ac1bace4fc66349364c84b5784967e9bf", null ],
+    [ "PrepareAuraScript", "d5/de4/a18752.html#a358193e3340112c04f79c043548c3de0", null ],
+    [ "Register", "d5/de4/a18752.html#a28f52bc253899aa407e67f9a089c815c", null ],
+    [ "Validate", "d5/de4/a18752.html#a0dde3447e38e45cea94df44449a19a01", null ]
 ];

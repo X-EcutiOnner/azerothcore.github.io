@@ -1,9 +1,6 @@
 var a19940 =
 [
-    [ "CheckTargets", "df/d78/a19940.html#a9340c167ef70508635092e273c23dcde", null ],
-    [ "CountTargets", "df/d78/a19940.html#a996db37b678143fbc0a392032d29fff5", null ],
-    [ "Load", "df/d78/a19940.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
-    [ "PrepareSpellScript", "df/d78/a19940.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
-    [ "Register", "df/d78/a19940.html#aed312a4408134589fd02bbcb844fd1b7", null ],
-    [ "_targetCount", "df/d78/a19940.html#ac780614674e748274081f9f99a5165fe", null ]
+    [ "CastRunesEvent", "df/d78/a19940.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "df/d78/a19940.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "df/d78/a19940.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

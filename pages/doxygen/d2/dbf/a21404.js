@@ -1,13 +1,11 @@
 var a21404 =
 [
-    [ "MoveX", "d2/dbf/a21404.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
-    [ "MoveY", "d2/dbf/a21404.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
-    [ "MoveZ", "d2/dbf/a21404.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
-    [ "npc", "d2/dbf/a21404.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
-    [ "say", "d2/dbf/a21404.html#adcd8647fc0ee9799e24173780209f2d9", null ],
-    [ "SpawnO", "d2/dbf/a21404.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
-    [ "SpawnX", "d2/dbf/a21404.html#af3ae27adaecafe9a09802bc202973d68", null ],
-    [ "SpawnY", "d2/dbf/a21404.html#a749e9c6edcc87f258f250344d652145c", null ],
-    [ "SpawnZ", "d2/dbf/a21404.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
-    [ "trigger", "d2/dbf/a21404.html#ad2291d89a874c79859b3140754594ed7", null ]
+    [ "boss_archavonAI", "d2/dbf/a21404.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
+    [ "AttackStart", "d2/dbf/a21404.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
+    [ "JustDied", "d2/dbf/a21404.html#a3974065a80dedf3e673452e7f6f8e449", null ],
+    [ "JustEngagedWith", "d2/dbf/a21404.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
+    [ "Reset", "d2/dbf/a21404.html#a7d101626f39947dd54b574491a5e6d72", null ],
+    [ "UpdateAI", "d2/dbf/a21404.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
+    [ "events", "d2/dbf/a21404.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
+    [ "pInstance", "d2/dbf/a21404.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
 ];

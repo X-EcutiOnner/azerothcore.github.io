@@ -1,7 +1,6 @@
 var a16024 =
 [
-    [ "HandleDummy", "d9/d26/a16024.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
-    [ "PrepareSpellScript", "d9/d26/a16024.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
-    [ "Register", "d9/d26/a16024.html#a4359ad73b513a368509a066a039ddf53", null ],
-    [ "_targetCount", "d9/d26/a16024.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
+    [ "ModDestHeight", "d9/d26/a16024.html#a8bda9327c4244af41c513528ad5c818c", null ],
+    [ "PrepareSpellScript", "d9/d26/a16024.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
+    [ "Register", "d9/d26/a16024.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
 ];

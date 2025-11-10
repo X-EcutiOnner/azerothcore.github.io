@@ -1,11 +1,8 @@
 var a13592 =
 [
-    [ "npc_kalecgos_kj", "d0/d1e/a13592.html#aae30bdf82ff333ef02a1981717c54ea4", null ],
-    [ "DoAction", "d0/d1e/a13592.html#a6b2743b9b6bfb4d687e54412fe66c17f", null ],
-    [ "JustSummoned", "d0/d1e/a13592.html#acf92559a2b06b8c9cce5c4887dd1316b", null ],
-    [ "Reset", "d0/d1e/a13592.html#ab3cd4229999bddc16fe8152acb187111", null ],
-    [ "UpdateAI", "d0/d1e/a13592.html#a8a029eb2cf7fd96ed324d93f4d66a30d", null ],
-    [ "events", "d0/d1e/a13592.html#ab5cc58e293e20172558e15fa28670633", null ],
-    [ "instance", "d0/d1e/a13592.html#a5a6f22c34578ccb7a5c1696d8ed342d6", null ],
-    [ "summons", "d0/d1e/a13592.html#a57af12b97c6e250a50283b224bc5cb6f", null ]
+    [ "HandleApply", "d0/d1e/a13592.html#a2c64240e8675fc76598600ae2632570f", null ],
+    [ "HandleRemove", "d0/d1e/a13592.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
+    [ "PrepareAuraScript", "d0/d1e/a13592.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
+    [ "Register", "d0/d1e/a13592.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
+    [ "Validate", "d0/d1e/a13592.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
 ];

@@ -1,6 +1,7 @@
 var a21168 =
 [
-    [ "OnRemove", "db/d54/a21168.html#a0e2113cd165f9f6ce88ba6eea9034806", null ],
-    [ "PrepareAuraScript", "db/d54/a21168.html#a5fb0837417b915676549370cc76c477d", null ],
-    [ "Register", "db/d54/a21168.html#a7f1844fded6ad112cc99d33f52e0799c", null ]
+    [ "HandleProc", "db/d54/a21168.html#a1b8782a4f22522cfe224073515abdf45", null ],
+    [ "PrepareAuraScript", "db/d54/a21168.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
+    [ "Register", "db/d54/a21168.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
+    [ "Validate", "db/d54/a21168.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
 ];

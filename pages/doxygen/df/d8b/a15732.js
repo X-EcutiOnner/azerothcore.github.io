@@ -1,7 +1,6 @@
 var a15732 =
 [
-    [ "npc_giant_spotlightAI", "df/d8b/a15732.html#ae0f6686aaeacafce193e0d4590cf8c09", null ],
-    [ "Reset", "df/d8b/a15732.html#a79f6703107eed52a3aeae30393507c0f", null ],
-    [ "UpdateAI", "df/d8b/a15732.html#a8567f936dd15933300497d5abe80a272", null ],
-    [ "events", "df/d8b/a15732.html#a20d1087e59daae9189d78f04ea2b2d05", null ]
+    [ "SpellId", "df/d8b/a15732.html#a2c430be201c1fd866ee96224f1803a20", null ],
+    [ "Timer1", "df/d8b/a15732.html#a9a35c148286e88f48b174be8b74fc5d0", null ],
+    [ "Timer2", "df/d8b/a15732.html#a108dee679b1f5d9fb8351f7b4b4f3a56", null ]
 ];

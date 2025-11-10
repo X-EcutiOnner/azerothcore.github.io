@@ -1,6 +1,6 @@
 var a22248 =
 [
-    [ "npc_razael_and_lyana", "dd/d40/a22248.html#aec7257a1136a3580e2b4542e032429d6", null ],
-    [ "OnGossipHello", "dd/d40/a22248.html#a9c9085db92853d5275c12e804a68b0fc", null ],
-    [ "OnGossipSelect", "dd/d40/a22248.html#a407d8344280e8e38efb3991fda1d52cd", null ]
+    [ "npc_llod_genericAI", "dd/dbc/a22252.html", "dd/dbc/a22252" ],
+    [ "npc_llod_generic", "dd/d40/a22248.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
+    [ "GetAI", "dd/d40/a22248.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
 ];

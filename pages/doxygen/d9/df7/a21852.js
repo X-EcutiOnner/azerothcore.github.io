@@ -1,9 +1,6 @@
 var a21852 =
 [
-    [ "npc_counselor_talbotAI", "d9/df7/a21852.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
-    [ "JustDied", "d9/df7/a21852.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
-    [ "JustEngagedWith", "d9/df7/a21852.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
-    [ "Reset", "d9/df7/a21852.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
-    [ "UpdateAI", "d9/df7/a21852.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
-    [ "_events", "d9/df7/a21852.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
+    [ "npc_mei_francis_mountAI", "d5/d8c/a21856.html", "d5/d8c/a21856" ],
+    [ "npc_mei_francis_mount", "d9/df7/a21852.html#ab34facb1d4d9a542710340493488eaa8", null ],
+    [ "GetAI", "d9/df7/a21852.html#ac1f14e0b94662432b399d6dfeb8a8107", null ]
 ];

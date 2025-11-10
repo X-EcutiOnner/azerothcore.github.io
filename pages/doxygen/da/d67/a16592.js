@@ -1,7 +1,6 @@
 var a16592 =
 [
-    [ "HandleEffectPeriodic", "da/d67/a16592.html#a58336f6a693d91b4fcb151b7eb5c1201", null ],
-    [ "PrepareAuraScript", "da/d67/a16592.html#a6dffb84e2c65f030e24a86e23f42c7e3", null ],
-    [ "Register", "da/d67/a16592.html#ad3485b1ab83d4a49713dfd3335b672fd", null ],
-    [ "Validate", "da/d67/a16592.html#a5f3c8e5ddcdcefc4e335e604416890d5", null ]
+    [ "npc_toc_paladinAI", "de/dcc/a16596.html", "de/dcc/a16596" ],
+    [ "npc_toc_paladin", "da/d67/a16592.html#af11025a2a4be2b2c982ad31241d47180", null ],
+    [ "GetAI", "da/d67/a16592.html#a15766ea4414701040c738251302177af", null ]
 ];

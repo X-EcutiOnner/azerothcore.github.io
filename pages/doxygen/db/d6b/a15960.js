@@ -1,6 +1,7 @@
 var a15960 =
 [
-    [ "instance_zulfarrak_InstanceMapScript", "dd/dba/a15964.html", "dd/dba/a15964" ],
-    [ "instance_zulfarrak", "db/d6b/a15960.html#a7c8594fe278dc9f6c3ab6f291cf9bad2", null ],
-    [ "GetInstanceScript", "db/d6b/a15960.html#a5f092341e49848c9d321452be2193d56", null ]
+    [ "go_troll_cageAI", "db/d6b/a15960.html#ae742afdb7a37d64bb852b7ecd076d007", null ],
+    [ "GossipHello", "db/d6b/a15960.html#a5c91cb491021b15ba70cc8ef5f07d037", null ],
+    [ "initBlyCrewMember", "db/d6b/a15960.html#a6bfb77ec97367d8704885acfef801b74", null ],
+    [ "instance", "db/d6b/a15960.html#ad5d736dd6cbe7a23d03f21004cae530d", null ]
 ];

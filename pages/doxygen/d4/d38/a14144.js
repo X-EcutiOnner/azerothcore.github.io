@@ -1,8 +1,6 @@
 var a14144 =
 [
-    [ "HandleScriptEffect", "d4/d38/a14144.html#af7f22d3b7ba136ec2af88656b9805168", null ],
-    [ "PrepareSpellScript", "d4/d38/a14144.html#aa7b7a3d099b95c9adeb3d9e2198ed8d3", null ],
-    [ "Register", "d4/d38/a14144.html#a6a6d95c6d33bc8d90a2022e1ce23c635", null ],
-    [ "Validate", "d4/d38/a14144.html#a94a5697e9d8a068fe6ae34b8aaf974fd", null ],
-    [ "spells", "d4/d38/a14144.html#a902fc17746af82a4c58fe599c9616ce2", null ]
+    [ "boss_gahzranka", "d4/d38/a14144.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "d4/d38/a14144.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "d4/d38/a14144.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

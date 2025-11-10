@@ -1,8 +1,6 @@
 var a13188 =
 [
-    [ "HandleDummy", "d6/dd4/a13188.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "d6/dd4/a13188.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "d6/dd4/a13188.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "d6/dd4/a13188.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "d6/dd4/a13188.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "npc_acherus_necromancerAI", "de/ddb/a13192.html", "de/ddb/a13192" ],
+    [ "npc_acherus_necromancer", "d6/dd4/a13188.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
+    [ "GetAI", "d6/dd4/a13188.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
 ];

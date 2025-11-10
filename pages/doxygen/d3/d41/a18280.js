@@ -1,6 +1,9 @@
 var a18280 =
 [
-    [ "CheckProc", "d3/d41/a18280.html#ad701d353f03eb5a1ccca28a6530555db", null ],
-    [ "PrepareAuraScript", "d3/d41/a18280.html#a51794aa0a42180d9a0f4e9f6d5febca4", null ],
-    [ "Register", "d3/d41/a18280.html#a4f787e29064c15f4dad9047ff618982a", null ]
+    [ "FilterTargets", "d3/d41/a18280.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
+    [ "FilterTargetsSubseq", "d3/d41/a18280.html#a88a53a855e01b550fbd106ac318a891e", null ],
+    [ "PrepareSpellScript", "d3/d41/a18280.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
+    [ "Register", "d3/d41/a18280.html#a27e8768422b311f6db16757e167f4102", null ],
+    [ "Validate", "d3/d41/a18280.html#a96ef76527449a138685830b52fa95146", null ],
+    [ "_targetList", "d3/d41/a18280.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
 ];

@@ -1,6 +1,6 @@
 var a17540 =
 [
-    [ "AddExtraDamage", "d0/d49/a17540.html#adeedfdd7555dfd009c99db6f002f7488", null ],
-    [ "PrepareSpellScript", "d0/d49/a17540.html#a5d5c32f102c525f6c25d12281a58f5f4", null ],
-    [ "Register", "d0/d49/a17540.html#affe1d9a5e9c4776d1651fdb95283caf4", null ]
+    [ "KnockIntoAir", "d0/d49/a17540.html#a1f9fb1f258613ca6657abba26969961f", null ],
+    [ "PrepareSpellScript", "d0/d49/a17540.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
+    [ "Register", "d0/d49/a17540.html#a35a7758630c1769228fedff84ad929e8", null ]
 ];

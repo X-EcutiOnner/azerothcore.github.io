@@ -1,8 +1,6 @@
 var a24560 =
 [
-    [ "go_skull_pile", "d8/d0a/a24560.html#a9cf8dfef432c4967c60f66e645585770", null ],
-    [ "OnGossipHello", "d8/d0a/a24560.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
-    [ "OnGossipSelect", "d8/d0a/a24560.html#afb8e8db2705355e975fa48c98e09f20b", null ],
-    [ "SendActionMenu", "d8/d0a/a24560.html#a048dd224b46ead864958ad524d76167f", null ],
-    [ "_result", "d8/d0a/a24560.html#af74fcd75404c0886128401d661067394", null ]
+    [ "HandleDamageCalc", "d8/d0a/a24560.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
+    [ "PrepareSpellScript", "d8/d0a/a24560.html#a183477b6269dbc705a10e60ab36c13b1", null ],
+    [ "Register", "d8/d0a/a24560.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
 ];

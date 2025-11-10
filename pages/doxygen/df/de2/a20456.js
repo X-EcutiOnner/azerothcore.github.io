@@ -1,6 +1,5 @@
 var a20456 =
 [
-    [ "FilterTargets", "df/de2/a20456.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
-    [ "PrepareSpellScript", "df/de2/a20456.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
-    [ "Register", "df/de2/a20456.html#af6704b0789566b2b385ac573eaa50f06", null ]
+    [ "achievement_getting_cold_in_here", "df/de2/a20456.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
+    [ "OnCheck", "df/de2/a20456.html#aeafd382d378381f754da6ee04d382276", null ]
 ];

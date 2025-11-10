@@ -1,18 +1,12 @@
 var a15104 =
 [
-    [ "instance_dire_maul_InstanceMapScript", "d7/db5/a15104.html#aacdc6a4029fceddfa56155b296012aa3", null ],
-    [ "GetData", "d7/db5/a15104.html#ad3eaa065114b6a0d2a38844df9289dc7", null ],
-    [ "Initialize", "d7/db5/a15104.html#a5b0977c0b20d6302ce6c5f8a14e78e90", null ],
-    [ "OnCreatureCreate", "d7/db5/a15104.html#aa903356acce9401a139e30fb6839f4df", null ],
-    [ "OnGameObjectCreate", "d7/db5/a15104.html#aad49d9f3f3c974e5c2f3a42b22759b9a", null ],
-    [ "ReadSaveDataMore", "d7/db5/a15104.html#ae8c49e7531b89074cc07ac0555650f05", null ],
-    [ "SetData", "d7/db5/a15104.html#a93e7b63eae8d1e21b7e5c57fa370e801", null ],
-    [ "WriteSaveDataMore", "d7/db5/a15104.html#ad6f52ef932cc09e377325e83482a3b5c", null ],
-    [ "_eastWingProgress", "d7/db5/a15104.html#a7f9d7f14c3223fa7bf7b7999d1f41105", null ],
-    [ "_immoltharGUID", "d7/db5/a15104.html#a4b63e6062765fc1df53c6a95b366e9f1", null ],
-    [ "_northWingBosses", "d7/db5/a15104.html#ab7130c806073258f4efae9e9177587be", null ],
-    [ "_northWingProgress", "d7/db5/a15104.html#a55e78ac91cf6073192594758e447cb19", null ],
-    [ "_pylonsState", "d7/db5/a15104.html#a5a16e7c47b42d1f8da9dde7b14f5c513", null ],
-    [ "_westWingProgress", "d7/db5/a15104.html#ab4d27deece6b8274300904571fb62e90", null ],
-    [ "HighborneSummoners", "d7/db5/a15104.html#af0e2c615ca136f4fffd1ed41e471f492", null ]
+    [ "instance_onyxias_lair_InstanceMapScript", "d7/db5/a15104.html#a15c6f3f16f9cfa1f9fc1b7a2c62bcc64", null ],
+    [ "CheckAchievementCriteriaMeet", "d7/db5/a15104.html#a20761aa41e0f70836c4525f17faf064f", null ],
+    [ "Initialize", "d7/db5/a15104.html#a5d109b5acfa2e21e3c50e35dcdf119dd", null ],
+    [ "OnGameObjectCreate", "d7/db5/a15104.html#a1e99600992673d165382d99236e0c59f", null ],
+    [ "SetBossState", "d7/db5/a15104.html#a2a28e42ec49fce2ef47288c1ad4b6e61", null ],
+    [ "SetData", "d7/db5/a15104.html#ac5df2ecb9f88dbedbb1f59ad2bdc8b96", null ],
+    [ "bDeepBreath", "d7/db5/a15104.html#a96211e4e0e033e16d4de57b6e40f2023", null ],
+    [ "ManyWhelpsCounter", "d7/db5/a15104.html#aea148b562a4f2cd752ac73240f902993", null ],
+    [ "str_data", "d7/db5/a15104.html#ad0b65a3cfccdf07d017757751f4e15fa", null ]
 ];

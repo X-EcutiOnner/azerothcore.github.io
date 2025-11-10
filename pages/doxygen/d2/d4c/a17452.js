@@ -1,11 +1,6 @@
 var a17452 =
 [
-    [ "boss_slad_ranAI", "d2/d4c/a17452.html#ad85e2fd51d67739026a96bc757bc7801", null ],
-    [ "GetData", "d2/d4c/a17452.html#a58e1188a418acdc1f327e7df90c5c122", null ],
-    [ "JustDied", "d2/d4c/a17452.html#a636ca76497c33a5175986e80bbcda44a", null ],
-    [ "JustEngagedWith", "d2/d4c/a17452.html#ac30b38805d0421b1be509c7d5609c648", null ],
-    [ "KilledUnit", "d2/d4c/a17452.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
-    [ "Reset", "d2/d4c/a17452.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
-    [ "SetData", "d2/d4c/a17452.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
-    [ "_achievement", "d2/d4c/a17452.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
+    [ "boss_prince_kelesethAI", "da/d12/a17456.html", "da/d12/a17456" ],
+    [ "boss_prince_keleseth_icc", "d2/d4c/a17452.html#a0df14bbfc96b1d6eff19633716cea9f9", null ],
+    [ "GetAI", "d2/d4c/a17452.html#ae5a03bbe1d85b9bc865026f05a99545e", null ]
 ];

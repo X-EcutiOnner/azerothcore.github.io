@@ -1,11 +1,11 @@
 var a03953 =
 [
-    [ "npc_pet_dk_ebon_gargoyle", "db/d76/a24568.html", "db/d76/a24568" ],
-    [ "npc_pet_dk_ghoul", "d2/d54/a24572.html", "d2/d54/a24572" ],
-    [ "npc_pet_dk_risen_ally", "d9/d7d/a24576.html", "d9/d7d/a24576" ],
-    [ "npc_pet_dk_army_of_the_dead", "d7/da8/a24580.html", "d7/da8/a24580" ],
-    [ "npc_pet_dk_dancing_rune_weapon", "d9/d8c/a24584.html", "d9/d8c/a24584" ],
-    [ "spell_pet_dk_gargoyle_strike", "d0/d2c/a24588.html", "d0/d2c/a24588" ],
+    [ "npc_pet_dk_ebon_gargoyle", "da/db3/a24540.html", "da/db3/a24540" ],
+    [ "npc_pet_dk_ghoul", "d5/d8a/a24544.html", "d5/d8a/a24544" ],
+    [ "npc_pet_dk_risen_ally", "d9/d1b/a24548.html", "d9/d1b/a24548" ],
+    [ "npc_pet_dk_army_of_the_dead", "db/da4/a24552.html", "db/da4/a24552" ],
+    [ "npc_pet_dk_dancing_rune_weapon", "d8/d60/a24556.html", "d8/d60/a24556" ],
+    [ "spell_pet_dk_gargoyle_strike", "d8/d0a/a24560.html", "d8/d0a/a24560" ],
     [ "DeathKnightSpells", "d7/d5e/a03953.html#a70990262974db7bc1730b177eb17a499", [
       [ "SPELL_DK_SUMMON_GARGOYLE_1", "d7/d5e/a03953.html#a70990262974db7bc1730b177eb17a499acaaba79b43118ab353ce223c75c97927", null ],
       [ "SPELL_DK_SUMMON_GARGOYLE_2", "d7/d5e/a03953.html#a70990262974db7bc1730b177eb17a499a5189df5fecf5b13ddd4039be46a59c4a", null ],

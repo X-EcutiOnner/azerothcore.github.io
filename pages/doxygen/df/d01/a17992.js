@@ -1,6 +1,6 @@
 var a17992 =
 [
-    [ "HandlePeriodicTick", "df/d01/a17992.html#a29bf443cdb53b10032ba382b8ae44828", null ],
-    [ "PrepareAuraScript", "df/d01/a17992.html#aa22f2997c77c25927f01d9fb1c6852b9", null ],
-    [ "Register", "df/d01/a17992.html#a01e31df6c6ec9f6ae5bffb4b435caf8e", null ]
+    [ "npc_bone_spikeAI", "d7/d91/a17996.html", "d7/d91/a17996" ],
+    [ "npc_bone_spike", "df/d01/a17992.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
+    [ "GetAI", "df/d01/a17992.html#a887a9156f550ca55047fa501e1709d95", null ]
 ];

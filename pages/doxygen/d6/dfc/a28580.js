@@ -1,5 +1,7 @@
 var a28580 =
 [
-    [ "id", "d6/dfc/a28580.html#a22e48015dd880199e131089e35b1ce05", null ],
-    [ "spellId", "d6/dfc/a28580.html#a956d683b42f34eae3a1ea3f8882716fd", null ]
+    [ "Id", "d6/dfc/a28580.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
+    [ "MaxLevel", "d6/dfc/a28580.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
+    [ "Modifier", "d6/dfc/a28580.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
+    [ "StatMod", "d6/dfc/a28580.html#ab639dd94c53707ca160e13f71342730d", null ]
 ];

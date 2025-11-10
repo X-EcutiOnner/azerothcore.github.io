@@ -1,6 +1,7 @@
 var a26176 =
 [
-    [ "PrepareSpellScript", "d8/da3/a26176.html#a7099b8d28128cfea49288792ea02606c", null ],
-    [ "Register", "d8/da3/a26176.html#a7622be3b736678ebeb3982a8d6a5b601", null ],
-    [ "UpdateTarget", "d8/da3/a26176.html#a4e808b026c89d080e309a0ca8b4f57d1", null ]
+    [ "CheckCast", "d8/da3/a26176.html#a02134ecbc1b1e0c8b6047ec13ef7e701", null ],
+    [ "HandleEffect", "d8/da3/a26176.html#a9f1be51fb58cde38cd643c6d1a5a6c15", null ],
+    [ "PrepareSpellScript", "d8/da3/a26176.html#aa63cb903e7c6037a6c08381334ccc126", null ],
+    [ "Register", "d8/da3/a26176.html#a670a8dbdadd988fe3220cc01b71114aa", null ]
 ];

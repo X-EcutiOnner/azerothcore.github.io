@@ -1,6 +1,5 @@
 var a22620 =
 [
-    [ "HandlePeriodicDummy", "da/d16/a22620.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "da/d16/a22620.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "da/d16/a22620.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "go_finklestein_cauldron", "da/d16/a22620.html#a8aa352319c54526069588dacd75ab883", null ],
+    [ "OnGossipHello", "da/d16/a22620.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
 ];

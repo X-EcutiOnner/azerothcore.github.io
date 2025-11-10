@@ -1,6 +1,7 @@
 var a26596 =
 [
-    [ "CheckRequirement", "db/d2e/a26596.html#acaae3858de4d56028e3cb4581a57450c", null ],
-    [ "PrepareSpellScript", "db/d2e/a26596.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
-    [ "Register", "db/d2e/a26596.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
+    [ "HandleEffectPeriodic", "db/d2e/a26596.html#a9347200565cb858cf0cc9cdb897fe1dc", null ],
+    [ "PrepareAuraScript", "db/d2e/a26596.html#a5fc89b09fb226d0d9315081d64f4103e", null ],
+    [ "Register", "db/d2e/a26596.html#ac3741617faacf83a707f1359aab1886e", null ],
+    [ "Validate", "db/d2e/a26596.html#a9378252b6711cc0bec3e63efce026495", null ]
 ];

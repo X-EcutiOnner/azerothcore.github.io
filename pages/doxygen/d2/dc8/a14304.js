@@ -1,6 +1,6 @@
 var a14304 =
 [
-    [ "LaunchHit", "d2/dc8/a14304.html#a715c86c4057fe8c60abf02d895ac3c5a", null ],
-    [ "PrepareSpellScript", "d2/dc8/a14304.html#a4ad316b68d84921255577aedabb5ad3f", null ],
-    [ "Register", "d2/dc8/a14304.html#a50fa3ede9bebb2b54c4ec10091017c07", null ]
+    [ "boss_renatakiAI", "d5/dfd/a14308.html", "d5/dfd/a14308" ],
+    [ "boss_renataki", "d2/dc8/a14304.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
+    [ "GetAI", "d2/dc8/a14304.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
 ];

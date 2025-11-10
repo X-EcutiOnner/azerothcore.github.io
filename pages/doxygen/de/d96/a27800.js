@@ -1,9 +1,10 @@
 var a27800 =
 [
-    [ "npc_target_dummyAI", "de/d96/a27800.html#a117e45559ea721877d73df4b3c18a259", null ],
-    [ "EnterEvadeMode", "de/d96/a27800.html#a8f7f2e4decc676e378b4929516f8a147", null ],
-    [ "MoveInLineOfSight", "de/d96/a27800.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
-    [ "Reset", "de/d96/a27800.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
-    [ "UpdateAI", "de/d96/a27800.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
-    [ "deathTimer", "de/d96/a27800.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
+    [ "npc_dancing_flamesAI", "de/d96/a27800.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "de/d96/a27800.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "de/d96/a27800.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "de/d96/a27800.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "de/d96/a27800.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "de/d96/a27800.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "de/d96/a27800.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

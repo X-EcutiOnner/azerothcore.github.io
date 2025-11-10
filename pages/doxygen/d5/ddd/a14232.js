@@ -1,9 +1,9 @@
 var a14232 =
 [
-    [ "boss_hazzarah", "d5/ddd/a14232.html#a73ba49b91addc9c03e1692587fe66a52", null ],
-    [ "CanAIAttack", "d5/ddd/a14232.html#a9038a5b4276fda8a6865217a7c494eec", null ],
-    [ "JustEngagedWith", "d5/ddd/a14232.html#a18e382c03ff923bb851a9cd8e2541788", null ],
-    [ "JustSummoned", "d5/ddd/a14232.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
-    [ "SummonedCreatureDies", "d5/ddd/a14232.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
-    [ "UpdateAI", "d5/ddd/a14232.html#a61d92f1650a84ed9684d33879e54bd09", null ]
+    [ "npc_shade_of_jindo", "d5/ddd/a14232.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
+    [ "IsSummonedBy", "d5/ddd/a14232.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
+    [ "JustEngagedWith", "d5/ddd/a14232.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
+    [ "Reset", "d5/ddd/a14232.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
+    [ "UpdateAI", "d5/ddd/a14232.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
+    [ "_scheduler", "d5/ddd/a14232.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
 ];

@@ -1,8 +1,7 @@
 var a21156 =
 [
-    [ "Absorb", "d3/d92/a21156.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
-    [ "CalculateAmount", "d3/d92/a21156.html#afe50bf22d07e68757caffb056ad55811", null ],
-    [ "PrepareAuraScript", "d3/d92/a21156.html#afa4ef1f7faa36a521c208dde10d09437", null ],
-    [ "Register", "d3/d92/a21156.html#aae020936d42da81c445f7d296660987b", null ],
-    [ "Validate", "d3/d92/a21156.html#a5852135c5214ee3938603632b0f21917", null ]
+    [ "HandleScriptEffect", "d3/d92/a21156.html#a173ee086127655cdfcca507fd5b15b2e", null ],
+    [ "PrepareSpellScript", "d3/d92/a21156.html#a005d47b18a820c35ec596b5539db94eb", null ],
+    [ "Register", "d3/d92/a21156.html#a20a0d554e80707c1517422cb747f38e8", null ],
+    [ "Validate", "d3/d92/a21156.html#a5ca44686e26def56adc2b98d88145235", null ]
 ];

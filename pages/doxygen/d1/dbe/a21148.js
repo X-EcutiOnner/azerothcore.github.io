@@ -1,7 +1,6 @@
 var a21148 =
 [
-    [ "FilterTargets", "d1/dbe/a21148.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
-    [ "HandleDummyEffect", "d1/dbe/a21148.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
-    [ "PrepareSpellScript", "d1/dbe/a21148.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
-    [ "Register", "d1/dbe/a21148.html#a337cdb940a2001ac370768b02126d3c0", null ]
+    [ "OnEffect", "d1/dbe/a21148.html#aa24cfd6feec65f466e74c68484815c1e", null ],
+    [ "PrepareSpellScript", "d1/dbe/a21148.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
+    [ "Register", "d1/dbe/a21148.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
 ];

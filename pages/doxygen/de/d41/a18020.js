@@ -1,6 +1,6 @@
 var a18020 =
 [
-    [ "npc_bone_spikeAI", "d0/d15/a18024.html", "d0/d15/a18024" ],
-    [ "npc_bone_spike", "de/d41/a18020.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
-    [ "GetAI", "de/d41/a18020.html#a887a9156f550ca55047fa501e1709d95", null ]
+    [ "AbominationDespawner", "de/d41/a18020.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
+    [ "operator()", "de/d41/a18020.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
+    [ "_owner", "de/d41/a18020.html#af9089e566905b885887a5714ad5b0741", null ]
 ];

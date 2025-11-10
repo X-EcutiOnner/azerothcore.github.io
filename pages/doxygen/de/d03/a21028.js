@@ -1,6 +1,7 @@
 var a21028 =
 [
-    [ "boss_yoggsaron_brainAI", "d9/dd4/a21032.html", "d9/dd4/a21032" ],
-    [ "boss_yoggsaron_brain", "de/d03/a21028.html#a8094e2a062f06c5a954c1d3401ca18d4", null ],
-    [ "GetAI", "de/d03/a21028.html#a02e6b07087765d75d0f49b864e2f323f", null ]
+    [ "boss_yoggsaron_corruptor_tentacleAI", "de/d03/a21028.html#a5f8fbd8ac772fad79f809de4d3128574", null ],
+    [ "DoAction", "de/d03/a21028.html#abac26b3be775eea734403be36cbed4d2", null ],
+    [ "SelectCorruptionTarget", "de/d03/a21028.html#a1d61b34d31794cd2bdcddfe91dc1103e", null ],
+    [ "UpdateAI", "de/d03/a21028.html#a0269d1dc655af5680d7074cb093740b8", null ]
 ];

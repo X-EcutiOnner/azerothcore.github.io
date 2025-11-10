@@ -1,6 +1,6 @@
 var a17880 =
 [
-    [ "PrepareSpellScript", "d0/dfa/a17880.html#a4878ffa30feb16e98d3945f8a6e3c863", null ],
-    [ "Register", "d0/dfa/a17880.html#a651f52f7d242251ff69d100fd69376e4", null ],
-    [ "SelectTarget", "d0/dfa/a17880.html#aede083ebebe38deb5898ff028564ef95", null ]
+    [ "BurningPitchFilterCheck", "d0/dfa/a17880.html#a11a4816f3d29cb1a6c4845cdaaeaa3cf", null ],
+    [ "operator()", "d0/dfa/a17880.html#a24be987c8471d8a7096025debf6e60b1", null ],
+    [ "_entry", "d0/dfa/a17880.html#a7bd20aed2db0e24ad34cbcc94d9a89d6", null ]
 ];

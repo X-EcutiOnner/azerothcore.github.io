@@ -1,13 +1,9 @@
 var a23936 =
 [
-    [ "boss_wrath_scryer_soccothrates", "d3/d01/a23936.html#a771980c1022e7699c3eb02baccb68a93", null ],
-    [ "InitializeAI", "d3/d01/a23936.html#ad29f9c200de2f25a74f548c918bb61ac", null ],
-    [ "JustDied", "d3/d01/a23936.html#a4954041d6a9cbc754d9fcd1d4ab3d38b", null ],
-    [ "JustEngagedWith", "d3/d01/a23936.html#a09302e6f5e1422232a3024dd24a38fd6", null ],
-    [ "KilledUnit", "d3/d01/a23936.html#a9b9237e0c8ad1b759c2402de79b3d0bd", null ],
-    [ "MoveInLineOfSight", "d3/d01/a23936.html#ab75e402ce24ca34c42f80116b8a0726d", null ],
-    [ "Reset", "d3/d01/a23936.html#a85435a23d36f13e348112348a26e7d12", null ],
-    [ "UpdateAI", "d3/d01/a23936.html#a41ad9124dec5432feb7ca823f0c8f87f", null ],
-    [ "events2", "d3/d01/a23936.html#afd4e9a0ab16406a4a452cd89d13d1fe0", null ],
-    [ "preFight", "d3/d01/a23936.html#a193889ee2815b93a1c9aeee394170fc4", null ]
+    [ "boss_high_botanist_freywinn", "d3/d01/a23936.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
+    [ "JustDied", "d3/d01/a23936.html#a7b370482ea195d0305cba339ce0cbab3", null ],
+    [ "JustEngagedWith", "d3/d01/a23936.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
+    [ "KilledUnit", "d3/d01/a23936.html#a80a997e0d12c175da0a46d7362890b9c", null ],
+    [ "ResumeEncounter", "d3/d01/a23936.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
+    [ "SummonedCreatureDies", "d3/d01/a23936.html#a7f1a02d4b944191471f59ba728b6372e", null ]
 ];

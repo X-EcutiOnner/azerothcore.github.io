@@ -1,7 +1,8 @@
 var a22252 =
 [
-    [ "npc_rodin_lightning_enabler", "dd/dbc/a22252.html#ae014b208af7664acd2147663d9338583", null ],
-    [ "Reset", "dd/dbc/a22252.html#ac3ff539380f8fdd5827c6868815b39cc", null ],
-    [ "UpdateAI", "dd/dbc/a22252.html#a5f900d97eec245bf3c27cde5c78b71e3", null ],
-    [ "_scheduler", "dd/dbc/a22252.html#a06434f538bd89d429a329bbd24e5fcdf", null ]
+    [ "npc_llod_genericAI", "dd/dbc/a22252.html#ac75d85ae4b59416952788102cd1db132", null ],
+    [ "Reset", "dd/dbc/a22252.html#a15bd7442fef36a551cc8797f7919f57c", null ],
+    [ "UpdateAI", "dd/dbc/a22252.html#aa7dce553fb699127f63281b2c47a2f02", null ],
+    [ "attackTimer", "dd/dbc/a22252.html#a28a6e700d24995e477e7e7c4cc8b5d68", null ],
+    [ "summonTimer", "dd/dbc/a22252.html#aeeeef545aee565c14d86d8587923c677", null ]
 ];

@@ -1,6 +1,6 @@
 var a19800 =
 [
-    [ "boss_sjonnir_iron_sludgeAI", "dd/d48/a19804.html", "dd/d48/a19804" ],
-    [ "boss_sjonnir_iron_sludge", "d2/da0/a19800.html#ae1c523266aab3e8e2c337dede7390c7b", null ],
-    [ "GetAI", "d2/da0/a19800.html#a2d077bfeac6479d83240ee00ca5aa0e0", null ]
+    [ "dark_rune_protectorsAI", "dd/d48/a19804.html", "dd/d48/a19804" ],
+    [ "dark_rune_protectors", "d2/da0/a19800.html#a14225a2369a8deea416fc640a2d7b075", null ],
+    [ "GetAI", "d2/da0/a19800.html#a359e4049b7ec828177d9a36d23e9b4ef", null ]
 ];

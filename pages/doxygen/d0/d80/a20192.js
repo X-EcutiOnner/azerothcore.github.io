@@ -1,7 +1,5 @@
 var a20192 =
 [
-    [ "OnPeriodic", "d0/d80/a20192.html#a9407d5477a40e36863e5fb5775dda122", null ],
-    [ "PrepareAuraScript", "d0/d80/a20192.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
-    [ "Register", "d0/d80/a20192.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
-    [ "Validate", "d0/d80/a20192.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
+    [ "achievement_flame_leviathan_shutout", "d0/d80/a20192.html#a555e0d206b7f730665d301c7e03b23e6", null ],
+    [ "OnCheck", "d0/d80/a20192.html#af548232f563fd387bc8ee25b696a2f99", null ]
 ];

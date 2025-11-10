@@ -1,7 +1,7 @@
 var a22560 =
 [
-    [ "npc_wg_demolisher_engineer", "db/d24/a22560.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
-    [ "canBuild", "db/d24/a22560.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
-    [ "OnGossipHello", "db/d24/a22560.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
-    [ "OnGossipSelect", "db/d24/a22560.html#a3ecf69f45918bef0cb51023327ac9693", null ]
+    [ "npc_wg_siege_machineAI", "db/d24/a22560.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
+    [ "CanControlVehicle", "db/d24/a22560.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
+    [ "UpdateAI", "db/d24/a22560.html#a8ddd21047a857facc767a9edc0ec5408", null ],
+    [ "checkTimer", "db/d24/a22560.html#abf4b06eae50adeefedba02e2186ea48a", null ]
 ];

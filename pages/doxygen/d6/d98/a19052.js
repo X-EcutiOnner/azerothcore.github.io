@@ -1,14 +1,13 @@
 var a19052 =
 [
-    [ "npc_icc_vengeful_fleshreaperAI", "d6/d98/a19052.html#a4a459289a55871990abc0adc4ba8278c", null ],
-    [ "AttackStart", "d6/d98/a19052.html#a3412c5664c1c1354b615e8f798824b91", null ],
-    [ "JustReachedHome", "d6/d98/a19052.html#a161fd53eca71cb0a3b8fb8d483b7e49b", null ],
-    [ "MoveInLineOfSight", "d6/d98/a19052.html#acfbaa73491940a916f8d0a0b852bcc61", null ],
-    [ "MovementInform", "d6/d98/a19052.html#ad14a1d8cfe749d54a801a3902aa49e1d", null ],
-    [ "Reset", "d6/d98/a19052.html#aa60d5d2d534aa6e9fe7c77703bab5fce", null ],
-    [ "UpdateAI", "d6/d98/a19052.html#a8946357cad01050641bcdf51edce192f", null ],
-    [ "currPipeWP", "d6/d98/a19052.html#af8a298ccbd6f22a0a4416ed6cb082e67", null ],
-    [ "events", "d6/d98/a19052.html#aa39171910383c74583f24663d6c23f3b", null ],
-    [ "forward", "d6/d98/a19052.html#a28eb6d3f007f45b9db4eafafe71b779c", null ],
-    [ "needMove", "d6/d98/a19052.html#ae08f9c54d08b0eae5ad71d69f06a6544", null ]
+    [ "npc_icc_putricades_trapAI", "d6/d98/a19052.html#a9252a83e3deee62d5796e9f283662771", null ],
+    [ "DoAction", "d6/d98/a19052.html#ac8a30d8eba315b967c4e0713b14dcba7", null ],
+    [ "JustReachedHome", "d6/d98/a19052.html#a98f908e89630b23584982e298193cc0e", null ],
+    [ "JustSummoned", "d6/d98/a19052.html#abc5776b08b4fd43a4bb430f160eb630a", null ],
+    [ "Reset", "d6/d98/a19052.html#a3430515c94fd419bd2c59113b3f4e625", null ],
+    [ "SummonedCreatureDies", "d6/d98/a19052.html#a2e49dc8924da5d5537c33f7306287963", null ],
+    [ "UpdateAI", "d6/d98/a19052.html#a724e133f2c4d8c9fe140b3b998c88f64", null ],
+    [ "events", "d6/d98/a19052.html#a3249114a5b208109ec2c2a23533ede82", null ],
+    [ "instance", "d6/d98/a19052.html#a9f6f342ffbf6a29c745de6ea6a5ec0dc", null ],
+    [ "summons", "d6/d98/a19052.html#aaa914f4c2b48bd24c2dd06bc3599f563", null ]
 ];

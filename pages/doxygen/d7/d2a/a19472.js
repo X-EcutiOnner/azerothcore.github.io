@@ -1,6 +1,8 @@
 var a19472 =
 [
-    [ "npc_nexus_lordAI", "dd/d67/a19476.html", "dd/d67/a19476" ],
-    [ "npc_nexus_lord", "d7/d2a/a19472.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
-    [ "GetAI", "d7/d2a/a19472.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
+    [ "npc_alexstraszaAI", "d7/d2a/a19472.html#a36cf63109e379fa4a9e3f3426d70e50c", null ],
+    [ "AttackStart", "d7/d2a/a19472.html#a120931695bf3ea649289ee4f6df9a3fd", null ],
+    [ "MoveInLineOfSight", "d7/d2a/a19472.html#af93fc8e8877cc5730db7a9386ac3d815", null ],
+    [ "UpdateAI", "d7/d2a/a19472.html#aa8cc3ee1a2a4702349b39708cc172594", null ],
+    [ "events", "d7/d2a/a19472.html#aade88413d2f2998be6dcb9d15bf85ce0", null ]
 ];

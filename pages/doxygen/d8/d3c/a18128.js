@@ -1,6 +1,6 @@
 var a18128 =
 [
-    [ "HandlePeriodic", "d8/d3c/a18128.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
-    [ "PrepareAuraScript", "d8/d3c/a18128.html#a5d855d79247dff6f949a5e099abb9352", null ],
-    [ "Register", "d8/d3c/a18128.html#ae797de0ed29b3ca179c07d759b469228", null ]
+    [ "FilterTargetsInitial", "d8/d3c/a18128.html#a92cc71f268793c616bed66d9a489a145", null ],
+    [ "PrepareSpellScript", "d8/d3c/a18128.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
+    [ "Register", "d8/d3c/a18128.html#a91b96940a9e72e632989b49f7e475dba", null ]
 ];

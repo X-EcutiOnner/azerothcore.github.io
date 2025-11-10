@@ -1,12 +1,5 @@
 var a20688 =
 [
-    [ "npc_ulduar_flames_initialAI", "d6/d86/a20688.html#a5d7202463d12fbdfcc5efdfba786ca19", null ],
-    [ "DoAction", "d6/d86/a20688.html#a6169d12043e73e7991064decccf0926a", null ],
-    [ "RemoveAll", "d6/d86/a20688.html#a2c39dd0d4d8040db5b18af1c1b27071a", null ],
-    [ "RemoveFlame", "d6/d86/a20688.html#ab992d2df928b9ca2699ca48e64fb2606", null ],
-    [ "SpreadFlame", "d6/d86/a20688.html#ae801181472a8e29208a4f305fb0307f9", null ],
-    [ "UpdateAI", "d6/d86/a20688.html#a9d628d32d3519d0e7152c772e540b7ef", null ],
-    [ "CreateTime", "d6/d86/a20688.html#ae50820bb38d0ed61b8687b4023aac5b9", null ],
-    [ "events", "d6/d86/a20688.html#a89217e11f9930b336665969791fc84b9", null ],
-    [ "FlameList", "d6/d86/a20688.html#a75b218699a42ece4959d0a1fe40713d7", null ]
+    [ "achievement_mimiron_firefighter", "d6/d86/a20688.html#ae26c3b2572bc9e3e75fb25537fe46a6c", null ],
+    [ "OnCheck", "d6/d86/a20688.html#a1ebd287ef20c6d367f30b1c30ba68728", null ]
 ];

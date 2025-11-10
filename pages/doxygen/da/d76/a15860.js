@@ -1,14 +1,7 @@
 var a15860 =
 [
-    [ "npc_taskmaster_fizzuleAI", "da/d76/a15860.html#ac792f91930c869ce919f8fd96b3fb076", null ],
-    [ "DoFriend", "da/d76/a15860.html#aacaeb3293bbb4b670cdc7031d22a50c2", null ],
-    [ "JustEngagedWith", "da/d76/a15860.html#ae7c14a4cf5af178525e5a41c0ba34d4b", null ],
-    [ "ReceiveEmote", "da/d76/a15860.html#a21d0d70086f085b715a12d05fbe5d611", null ],
-    [ "Reset", "da/d76/a15860.html#ac45352b8b3d2301dbaecceaa69bdb1cf", null ],
-    [ "SpellHit", "da/d76/a15860.html#a4c35104935a3a6264c853a657dc42244", null ],
-    [ "UpdateAI", "da/d76/a15860.html#a95ccf9a84231d64c87b9d88d85b4ec2e", null ],
-    [ "factionNorm", "da/d76/a15860.html#ac0794d9b1c04ec4fe6f8afd1556f1fbc", null ],
-    [ "FlareCount", "da/d76/a15860.html#a3a1128b7caa6ef4ba3697e1400aaed04", null ],
-    [ "IsFriend", "da/d76/a15860.html#ab7e6bd2e023545c73fba758267551eee", null ],
-    [ "ResetTimer", "da/d76/a15860.html#a376b3c7fbc9a81e82ece6840e8e9e7fc", null ]
+    [ "npc_paoka_swiftmountainAI", "d0/d94/a15864.html", "d0/d94/a15864" ],
+    [ "npc_paoka_swiftmountain", "da/d76/a15860.html#abb3f6fab7cca158c2e139159430f880a", null ],
+    [ "GetAI", "da/d76/a15860.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
+    [ "OnQuestAccept", "da/d76/a15860.html#a5bd4442350daf5a19bee1037a1b4d7b3", null ]
 ];

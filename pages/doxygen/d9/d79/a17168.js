@@ -1,6 +1,7 @@
 var a17168 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "d1/d27/a17172.html", "d1/d27/a17172" ],
-    [ "npc_hor_risen_witch_doctor", "d9/d79/a17168.html#add06a10c9b4342b136b5cab49338b095", null ],
-    [ "GetAI", "d9/d79/a17168.html#a055a8d29d8e6a58b92968ed1c39c1b1d", null ]
+    [ "UtherBatteredHiltEvent", "d9/d79/a17168.html#a7bb34b75a3e371260a231aea72f75b40", null ],
+    [ "Execute", "d9/d79/a17168.html#ad2eb37877155b6dbc9916338e30d0306", null ],
+    [ "_eventId", "d9/d79/a17168.html#a5045e057b2c5d468aa579751d2c799b8", null ],
+    [ "_owner", "d9/d79/a17168.html#a588974708f4a48f5a7b097a63a0c0899", null ]
 ];

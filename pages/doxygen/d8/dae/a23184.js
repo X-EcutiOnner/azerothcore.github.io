@@ -1,7 +1,5 @@
 var a23184 =
 [
-    [ "npc_ashtongue_channeler", "d8/dae/a23184.html#af7217d00f87e56e5cdb411fcad161b51", null ],
-    [ "Reset", "d8/dae/a23184.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
-    [ "UpdateAI", "d8/dae/a23184.html#af855dfa521404c4e6127a9bf12a75604", null ],
-    [ "scheduler", "d8/dae/a23184.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
+    [ "npc_vengeful_spirit", "d8/dae/a23184.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
+    [ "OnCharmed", "d8/dae/a23184.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
 ];

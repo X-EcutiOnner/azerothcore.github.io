@@ -1,7 +1,7 @@
 var a15572 =
 [
-    [ "HandleEffectRemove", "d7/d68/a15572.html#aa07e0bdaac9cad239bae1b24d16b433c", null ],
-    [ "PrepareAuraScript", "d7/d68/a15572.html#a8ab8433afb22bbca79e028e8f082da2b", null ],
-    [ "Register", "d7/d68/a15572.html#a2ee3afd6fdcb0991e419396ed65e6d4a", null ],
-    [ "AuraEffectHandleModes", "d7/d68/a15572.html#af8a46c99290ce700e765c7ad5e8c866c", null ]
+    [ "npc_prospector_remtravelAI", "d9/de6/a15576.html", "d9/de6/a15576" ],
+    [ "npc_prospector_remtravel", "d7/d68/a15572.html#aa213161fc60e615682252125f6c58f7f", null ],
+    [ "GetAI", "d7/d68/a15572.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
+    [ "OnQuestAccept", "d7/d68/a15572.html#a5e11149b6359927a71c98242d979e65b", null ]
 ];

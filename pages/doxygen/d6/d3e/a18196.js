@@ -1,10 +1,6 @@
 var a18196 =
 [
-    [ "FilterTargets", "d6/d3e/a18196.html#aefba5226671b6217549bd34059519179", null ],
-    [ "Load", "d6/d3e/a18196.html#af8a2b651782783dc29ac7266ed02c028", null ],
-    [ "NotifyTargets", "d6/d3e/a18196.html#a618e98fbd5c6ae21047cc4f911099730", null ],
-    [ "PrepareSpellScript", "d6/d3e/a18196.html#a0cd63fa27a1ee853c5d73c766d1c4de6", null ],
-    [ "Register", "d6/d3e/a18196.html#ae72a470c87f7d90e4bd635e239d09f9b", null ],
-    [ "ReplaceTargets", "d6/d3e/a18196.html#a5d3df9715d04ea4b663b061c7c02ae03", null ],
-    [ "_target", "d6/d3e/a18196.html#a10c85fd3909e56f457d73add8021c0b7", null ]
+    [ "DespawnSelf", "d6/d3e/a18196.html#a7009dd0e842898d03caa89e92447749d", null ],
+    [ "PrepareAuraScript", "d6/d3e/a18196.html#a00f0379b4e4fadf73bed7d483e406ac5", null ],
+    [ "Register", "d6/d3e/a18196.html#a8f21cb8ab1145fe32a78a682445cfc2d", null ]
 ];

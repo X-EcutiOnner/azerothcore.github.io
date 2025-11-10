@@ -1,5 +1,6 @@
 var a27576 =
 [
-    [ "go_tele_to_violet_stand", "d1/dc7/a27576.html#a63350db1dfd400c565e30775378d48cc", null ],
-    [ "OnGossipHello", "d1/dc7/a27576.html#a4d075584f065501a2c3be9ef82387f43", null ]
+    [ "go_soulwellAI", "dc/de8/a27580.html", "dc/de8/a27580" ],
+    [ "go_soulwell", "d1/dc7/a27576.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
+    [ "GetAI", "d1/dc7/a27576.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
 ];

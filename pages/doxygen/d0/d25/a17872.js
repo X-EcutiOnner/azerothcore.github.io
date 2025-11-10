@@ -1,8 +1,9 @@
 var a17872 =
 [
-    [ "Load", "d0/d25/a17872.html#ad1105149d5e42318382af6c07149d522", null ],
-    [ "PeriodicTick", "d0/d25/a17872.html#a8e675178256746d08af50a6b75ec582e", null ],
-    [ "PrepareAuraScript", "d0/d25/a17872.html#a88f4baca7ceac44e5d148b73386a10a7", null ],
-    [ "Register", "d0/d25/a17872.html#a0fa7d86214827711edd019dd3b40c667", null ],
-    [ "_tickNo", "d0/d25/a17872.html#a418212d2daa873d69a83b4c1341a8903", null ]
+    [ "CalculatePower", "d0/d25/a17872.html#a66acc23548f88c31e9fe45db76af2bcc", null ],
+    [ "Load", "d0/d25/a17872.html#a820032e169929fd9969ecf1ee2c7f1be", null ],
+    [ "PrepareSpellScript", "d0/d25/a17872.html#a49489a8e4e39735efa560f53236dfc2c", null ],
+    [ "PreventPowerGainOnHit", "d0/d25/a17872.html#a5eebe6f82a6d7306d6e232b755531939", null ],
+    [ "Register", "d0/d25/a17872.html#a67b59c096848adaad5566cbc2140da59", null ],
+    [ "Validate", "d0/d25/a17872.html#a355500a6f3bfed084030738041d0e3b9", null ]
 ];

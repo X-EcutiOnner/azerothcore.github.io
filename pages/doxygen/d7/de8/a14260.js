@@ -1,9 +1,13 @@
 var a14260 =
 [
-    [ "npc_shade_of_jindo", "d7/de8/a14260.html#a86fa95e806aea21fd6db332ea3f18a02", null ],
-    [ "IsSummonedBy", "d7/de8/a14260.html#aaf4eed2de98601844a32fec159f2f5fc", null ],
-    [ "JustEngagedWith", "d7/de8/a14260.html#a450f887c97cfa3ebce91ebd058ed9849", null ],
-    [ "Reset", "d7/de8/a14260.html#abc18dabb6f4f0b85a3b5b2e6f830804f", null ],
-    [ "UpdateAI", "d7/de8/a14260.html#a1aca8192c0655c0ab359f49448f8fafd", null ],
-    [ "_scheduler", "d7/de8/a14260.html#a1d74d8113f5ef117b2968f8f864fcaf4", null ]
+    [ "npc_ohganAI", "d7/de8/a14260.html#a43f7fa66ff39bca177d30fc1d0d78080", null ],
+    [ "JustDied", "d7/de8/a14260.html#a89e506868e3191362545e34d21528b8f", null ],
+    [ "JustEngagedWith", "d7/de8/a14260.html#a5b6171794c5b49e8ee439de7bdc51ba5", null ],
+    [ "KilledUnit", "d7/de8/a14260.html#a4e202eef928e54bd52160705bba5cc35", null ],
+    [ "Reset", "d7/de8/a14260.html#ac3e1bc9dc819138741eb3b4448051547", null ],
+    [ "SetGUID", "d7/de8/a14260.html#a575531a144c46ae3084e56e452125f16", null ],
+    [ "UpdateAI", "d7/de8/a14260.html#aea7c169bc2b7c52ff7d4d9a5dd7a6f0a", null ],
+    [ "_scheduler", "d7/de8/a14260.html#a838f1354e24c47e1c52e4b50e2b93c85", null ],
+    [ "instance", "d7/de8/a14260.html#aeb6f6bddf881edf818fdc31fc639d5d5", null ],
+    [ "reviveGUID", "d7/de8/a14260.html#afc066ae0c6d370f6632408b08de3c3bb", null ]
 ];

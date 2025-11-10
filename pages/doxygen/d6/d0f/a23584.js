@@ -1,7 +1,13 @@
 var a23584 =
 [
-    [ "boss_hydromancer_thespia", "d6/d0f/a23584.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "d6/d0f/a23584.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "d6/d0f/a23584.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "d6/d0f/a23584.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "boss_ghazan", "d6/d0f/a23584.html#ae730362fcf3606c67b6b85147de98fb6", null ],
+    [ "DoAction", "d6/d0f/a23584.html#ac016d5e06ca4f8f0bf2fa13ce2cd89e2", null ],
+    [ "InitializeAI", "d6/d0f/a23584.html#a6b8c975a109dc5eb8a3e3fba03fe806e", null ],
+    [ "JustEngagedWith", "d6/d0f/a23584.html#ad4136f0f63d267284f36756793c0efa7", null ],
+    [ "JustReachedHome", "d6/d0f/a23584.html#af9f2dd854036d5c8b9c6703499836199", null ],
+    [ "MovementInform", "d6/d0f/a23584.html#add9b2e60fb2ffc8a3905f063a2f3d0ae", null ],
+    [ "Reset", "d6/d0f/a23584.html#afc9522a26060643f2f9d25a8a98691b7", null ],
+    [ "UpdateAI", "d6/d0f/a23584.html#a40a6dd5ed2954be7df4612a7552e1bc0", null ],
+    [ "_movedToPlatform", "d6/d0f/a23584.html#aa6c0c391355ac0b698d67796efd63062", null ],
+    [ "_reachedPlatform", "d6/d0f/a23584.html#af3476318b4721bd52facaf735eabb1f9", null ]
 ];

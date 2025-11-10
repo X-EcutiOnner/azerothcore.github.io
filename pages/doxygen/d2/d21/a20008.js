@@ -1,6 +1,12 @@
 var a20008 =
 [
-    [ "achievement_assembly_of_iron", "d2/d21/a20008.html#ae90d193b039d88ce38108b6617b5b8e9", null ],
-    [ "OnCheck", "d2/d21/a20008.html#ae66b3e708b38bfe685f9d28c14c2d3f5", null ],
-    [ "_targetEntry", "d2/d21/a20008.html#a20e8938ff30b18737fb96cf0277b5680", null ]
+    [ "npc_auriaya_feral_defenderAI", "d2/d21/a20008.html#a32e6fa30e4c56fdd055a728ba7227beb", null ],
+    [ "DoAction", "d2/d21/a20008.html#a2b0a176dba865e90bdc22727b2860509", null ],
+    [ "JustDied", "d2/d21/a20008.html#a7e9c49d8dc47663e70c8fcbed68746e5", null ],
+    [ "Reset", "d2/d21/a20008.html#ae127a88f18f3348a0bc388d79dcd13d4", null ],
+    [ "UpdateAI", "d2/d21/a20008.html#a1edc249808e1ebdb88605c56e19c272a", null ],
+    [ "_feralEssenceStack", "d2/d21/a20008.html#aab51096b8f57528a0a27e23a306d6762", null ],
+    [ "_feralPounceTimer", "d2/d21/a20008.html#ab91df5ebee9c12d067ff83ee64effece", null ],
+    [ "_feralRushTimer", "d2/d21/a20008.html#aa45e0baf1ad43cc4b2c223d1b9d1c3c6", null ],
+    [ "summons", "d2/d21/a20008.html#a599679f93e4fc4b3b9aa00ea33dcb047", null ]
 ];

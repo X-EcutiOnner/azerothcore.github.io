@@ -1,6 +1,6 @@
 var a21812 =
 [
-    [ "HandleEffect", "d4/d8e/a21812.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
-    [ "PrepareSpellScript", "d4/d8e/a21812.html#aec199e9f9651267fac88bd86be326bb4", null ],
-    [ "Register", "d4/d8e/a21812.html#a14bd854db86750704c8377d457dea360", null ]
+    [ "npc_leryssaAI", "d0/df3/a21816.html", "d0/df3/a21816" ],
+    [ "npc_leryssa", "d4/d8e/a21812.html#a549bed4476f88c313e6b42c0fe1fffb8", null ],
+    [ "GetAI", "d4/d8e/a21812.html#a4725831580b206d91dbd8c21a703893f", null ]
 ];

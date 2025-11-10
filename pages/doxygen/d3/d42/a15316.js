@@ -1,6 +1,9 @@
 var a15316 =
 [
-    [ "FilterTargets", "d3/d42/a15316.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
-    [ "PrepareSpellScript", "d3/d42/a15316.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
-    [ "Register", "d3/d42/a15316.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
+    [ "npc_giant_eye_tentacle", "d3/d42/a15316.html#a1adebf586a8a4413bb048936b90ddd3c", null ],
+    [ "JustDied", "d3/d42/a15316.html#a72cac50a711868256a41c543d0cef3da", null ],
+    [ "JustEngagedWith", "d3/d42/a15316.html#ac26b16e709e62c429b7ca88815bbc4cd", null ],
+    [ "Reset", "d3/d42/a15316.html#a4e605a585099d136d8f6bd42b6450f1d", null ],
+    [ "UpdateAI", "d3/d42/a15316.html#aacae6ea2616af2ad9515167fc1bab61d", null ],
+    [ "_portalGUID", "d3/d42/a15316.html#af9784b6d00e50ec28ed27361aaf3442f", null ]
 ];

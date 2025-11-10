@@ -1,12 +1,6 @@
 var a15940 =
 [
-    [ "DialogueHelper", "dc/dcd/a15940.html#a3566655e8781bf5f9dff514fcd659421", null ],
-    [ "DialogueUpdate", "dc/dcd/a15940.html#aaac3463d91a0cdbe2622b4fd85b34ed0", null ],
-    [ "DoNextDialogueStep", "dc/dcd/a15940.html#a6e23a56ba5c5e4d4ab3b4c6be5cb09af", null ],
-    [ "GetSpeakerByEntry", "dc/dcd/a15940.html#a50e652ca2cff035d8c79517fdbcfc67a", null ],
-    [ "JustDidDialogueStep", "dc/dcd/a15940.html#a79e80634f1780895669f5c810958fd4f", null ],
-    [ "StartNextDialogueText", "dc/dcd/a15940.html#ac16b8b9b50e8b35980d21f161bf33340", null ],
-    [ "_actionTimer", "dc/dcd/a15940.html#a33b8551c136bcbc896b29d935c155a75", null ],
-    [ "_currentEntry", "dc/dcd/a15940.html#a89ca5e8d25372bd8ab32322a0a9999f2", null ],
-    [ "_dialogueArray", "dc/dcd/a15940.html#a489b8cd1c75ced0ec8e34b8051899dd7", null ]
+    [ "HandleSummon", "dc/dcd/a15940.html#a730e0c865f8c0c12544be951a48fe9ff", null ],
+    [ "PrepareSpellScript", "dc/dcd/a15940.html#a31271cd4668d3cbc4f4bdbeb693fe141", null ],
+    [ "Register", "dc/dcd/a15940.html#ae388ee1b08891f021ab1308ec7ffebaa", null ]
 ];

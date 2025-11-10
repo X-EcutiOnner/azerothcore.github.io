@@ -1,5 +1,6 @@
 var a20484 =
 [
-    [ "achievement_getting_cold_in_here", "d4/ddc/a20484.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
-    [ "OnCheck", "d4/ddc/a20484.html#aeafd382d378381f754da6ee04d382276", null ]
+    [ "boss_ignisAI", "de/dba/a20488.html", "de/dba/a20488" ],
+    [ "boss_ignis", "d4/ddc/a20484.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
+    [ "GetAI", "d4/ddc/a20484.html#ac11ff148e9cbc985875f859268a3de01", null ]
 ];

@@ -1,7 +1,12 @@
 var a13764 =
 [
-    [ "npc_eris_hevenfireAI", "d4/d6c/a13768.html", "d4/d6c/a13768" ],
-    [ "npc_eris_hevenfire", "d1/d1a/a13764.html#a77f0836dc0b19114316b8b67839d8033", null ],
-    [ "GetAI", "d1/d1a/a13764.html#ad67a81ad20fac785c199c16fea8fe6f8", null ],
-    [ "OnQuestAccept", "d1/d1a/a13764.html#a1e0baec5706cfddd678b58eb9359997e", null ]
+    [ "npc_eastvale_peasent", "d1/d1a/a13764.html#a5282dac41228569d4431d84c1f160f05", null ],
+    [ "Initialize", "d1/d1a/a13764.html#a8b73aa30b0b4a984d8644e6d9541461d", null ],
+    [ "PathEndReached", "d1/d1a/a13764.html#a002ec21e0715b020aa19cd0839408033", null ],
+    [ "Reset", "d1/d1a/a13764.html#a7eb6cf174a46fd31c8c5241649fcebdc", null ],
+    [ "SetData", "d1/d1a/a13764.html#add14d9505880727e208e7ef9428f5acd", null ],
+    [ "UpdateAI", "d1/d1a/a13764.html#a868eb38757bf7bc02d5b3ffa66feb375", null ],
+    [ "_events", "d1/d1a/a13764.html#a1b310b07481366042dc45f7a27ce6408", null ],
+    [ "_path", "d1/d1a/a13764.html#a907db8e6148947248b5bcfdb35023e16", null ],
+    [ "_realenGUID", "d1/d1a/a13764.html#aad06364be8698b5ba69cd229e2a5085b", null ]
 ];

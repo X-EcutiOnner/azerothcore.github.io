@@ -1,7 +1,9 @@
 var a14084 =
 [
-    [ "OnPeriodic", "df/d3e/a14084.html#aa541a8bc034517d1f5d034ac51bd8dac", null ],
-    [ "PrepareAuraScript", "df/d3e/a14084.html#abc166e4dc33e7bffd1d53c2ef8272efa", null ],
-    [ "Register", "df/d3e/a14084.html#a60313d4ba992b1dc81e7cdae942f1b3d", null ],
-    [ "Validate", "df/d3e/a14084.html#a7ed214de6769314a45540e9afdb82949", null ]
+    [ "npc_zulaman_hostageAI", "df/d3e/a14084.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
+    [ "JustDied", "df/d3e/a14084.html#af87bdebb039f1da5736408cf3aad6487", null ],
+    [ "JustEngagedWith", "df/d3e/a14084.html#af0aa229973da1a6230a854439658e9ed", null ],
+    [ "UpdateAI", "df/d3e/a14084.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
+    [ "IsLoot", "df/d3e/a14084.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
+    [ "PlayerGUID", "df/d3e/a14084.html#a49f15c5a94d005c56218d00ac6732b82", null ]
 ];

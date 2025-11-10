@@ -1,6 +1,6 @@
 var a21400 =
 [
-    [ "CalculateAmount", "dd/d7c/a21400.html#a79019ef395c9b66f6a88759b0517005d", null ],
-    [ "PrepareAuraScript", "dd/d7c/a21400.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
-    [ "Register", "dd/d7c/a21400.html#a9bce52699983fe798c903385faa42462", null ]
+    [ "boss_archavonAI", "d2/dbf/a21404.html", "d2/dbf/a21404" ],
+    [ "boss_archavon", "dd/d7c/a21400.html#a44e20480f8d86cf763afe67de49c6c33", null ],
+    [ "GetAI", "dd/d7c/a21400.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
 ];

@@ -1,9 +1,10 @@
 var a24592 =
 [
-    [ "npc_pet_gen_soul_trader_beacon", "dc/dd9/a24592.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
-    [ "GetOwner", "dc/dd9/a24592.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
-    [ "SpellHitTarget", "dc/dd9/a24592.html#a6c0d3181b913c5022325f66586f66bfa", null ],
-    [ "UpdateAI", "dc/dd9/a24592.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
-    [ "events", "dc/dd9/a24592.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
-    [ "ownerGUID", "dc/dd9/a24592.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
+    [ "npc_pet_gen_imp_in_a_bottle", "dc/dd9/a24592.html#aa32b7770c2719d77d46fcf6d22989284", null ],
+    [ "InitializeAI", "dc/dd9/a24592.html#a9fde3fd30d48068a3ad1a19f65c61bf2", null ],
+    [ "UpdateAI", "dc/dd9/a24592.html#a453ec855bb21a30cb72b540ff8f77035", null ],
+    [ "_data", "dc/dd9/a24592.html#a982ec923536c2c33353a3673aa425b6a", null ],
+    [ "_hasParty", "dc/dd9/a24592.html#a192d9e2ba340040cb6ba5c0f324ffb2d", null ],
+    [ "_ownerGUID", "dc/dd9/a24592.html#a5452226bbe4f65a9bd7ce103a7648a2f", null ],
+    [ "_talkTimer", "dc/dd9/a24592.html#a07eba859ad2d5db4f6d91734c04020cf", null ]
 ];

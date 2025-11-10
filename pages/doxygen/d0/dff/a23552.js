@@ -1,6 +1,5 @@
 var a23552 =
 [
-    [ "HandleScript", "d0/dff/a23552.html#a9451ed26358c77ab4d35781fd8fb4b55", null ],
-    [ "PrepareSpellScript", "d0/dff/a23552.html#ad24e7fa45f35f2cd6071328c60cb2732", null ],
-    [ "Register", "d0/dff/a23552.html#a1bd01e1103d4959a5b3116e178a16a8f", null ]
+    [ "at_quagmirran_lair", "d0/dff/a23552.html#a1f8cb1f59e7a179d9e4a987f716ab26f", null ],
+    [ "OnTrigger", "d0/dff/a23552.html#aa0aab42516efaf842923b8a820942ac4", null ]
 ];

@@ -1,9 +1,7 @@
 var a24472 =
 [
-    [ "npc_korkron_or_wildhammer", "d2/dc7/a24472.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
-    [ "IsSummonedBy", "d2/dc7/a24472.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
-    [ "JustDied", "d2/dc7/a24472.html#a2b216f372b3681b4c96a711568c2a93b", null ],
-    [ "MovementInform", "d2/dc7/a24472.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
-    [ "Reset", "d2/dc7/a24472.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
-    [ "_playerGUID", "d2/dc7/a24472.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
+    [ "npc_kservantAI", "d2/dc7/a24472.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "d2/dc7/a24472.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "d2/dc7/a24472.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "WaypointReached", "d2/dc7/a24472.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
 ];

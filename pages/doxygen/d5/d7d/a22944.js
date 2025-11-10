@@ -1,5 +1,7 @@
 var a22944 =
 [
-    [ "ChargeTargetSelector", "d5/d7d/a22944.html#a064e7d9008bfc85b7c636490c7aaf714", null ],
-    [ "operator()", "d5/d7d/a22944.html#a596223da822f5a08281fe709cca95909", null ]
+    [ "HandleScriptEffect", "d5/d7d/a22944.html#a6ec6e79849c618d009eae3551e16ff0a", null ],
+    [ "PrepareSpellScript", "d5/d7d/a22944.html#a4f00eca7c78a785780be4379c1a56a6b", null ],
+    [ "Register", "d5/d7d/a22944.html#adb676b9d6f36c30efbb8286b1e5edf6d", null ],
+    [ "Validate", "d5/d7d/a22944.html#a9ce122d497e72e3a46b1857d722af48d", null ]
 ];

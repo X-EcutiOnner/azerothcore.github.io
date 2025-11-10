@@ -1,6 +1,6 @@
 var a16216 =
 [
-    [ "HandleLeapBack", "de/d9f/a16216.html#a71a9b9967528c1153ad1215635bc7d01", null ],
-    [ "PrepareSpellScript", "de/d9f/a16216.html#a25a2db5c19e721b112b7bc84b3ac0968", null ],
-    [ "Register", "de/d9f/a16216.html#a6ef11d0538616315fa7cf098748aa01f", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "d1/d3c/a16220.html", "d1/d3c/a16220" ],
+    [ "npc_baltharus_the_warborn_clone", "de/d9f/a16216.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
+    [ "GetAI", "de/d9f/a16216.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
 ];

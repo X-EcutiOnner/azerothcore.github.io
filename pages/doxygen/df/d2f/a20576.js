@@ -1,6 +1,6 @@
 var a20576 =
 [
-    [ "OnRemoveStun", "df/d2f/a20576.html#a67aeca34d32c43ff647dc2dbe83cbb7f", null ],
-    [ "PrepareAuraScript", "df/d2f/a20576.html#a0be1d9a7dcba0bff75d59aed926efe55", null ],
-    [ "Register", "df/d2f/a20576.html#a3166cfcd2acdcd4460217503d4008367", null ]
+    [ "boss_mimironAI", "da/d1b/a20580.html", "da/d1b/a20580" ],
+    [ "boss_mimiron", "df/d2f/a20576.html#a72904837bd85e9f711fcf3da04c459c3", null ],
+    [ "GetAI", "df/d2f/a20576.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
 ];

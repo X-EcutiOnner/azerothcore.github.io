@@ -1,7 +1,5 @@
 var a21184 =
 [
-    [ "HandleScriptEffect", "d8/d6d/a21184.html#a173ee086127655cdfcca507fd5b15b2e", null ],
-    [ "PrepareSpellScript", "d8/d6d/a21184.html#a005d47b18a820c35ec596b5539db94eb", null ],
-    [ "Register", "d8/d6d/a21184.html#a20a0d554e80707c1517422cb747f38e8", null ],
-    [ "Validate", "d8/d6d/a21184.html#a5ca44686e26def56adc2b98d88145235", null ]
+    [ "achievement_yogg_saron_kiss_and_make_up", "d8/d6d/a21184.html#a9f2e5fe9de59a9b5a00c0e73e8f9b376", null ],
+    [ "OnCheck", "d8/d6d/a21184.html#a8ce7df713b804d5bdd5f6f47d77fc1b8", null ]
 ];

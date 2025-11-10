@@ -1,8 +1,7 @@
 var a26488 =
 [
-    [ "CalculateAmount", "df/d43/a26488.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
-    [ "PrepareAuraScript", "df/d43/a26488.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
-    [ "ReflectDamage", "df/d43/a26488.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
-    [ "Register", "df/d43/a26488.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
-    [ "Validate", "df/d43/a26488.html#af2936ba4a29fc8735a3cabe805c77355", null ]
+    [ "HandleProc", "df/d43/a26488.html#ad5bf7ab28ac2f359c65606a1772a40d2", null ],
+    [ "PrepareAuraScript", "df/d43/a26488.html#af4fec7fb65e1327b1a74d48453b9fddd", null ],
+    [ "Register", "df/d43/a26488.html#a44a82b94d509eeb04f3520ded1d62891", null ],
+    [ "Validate", "df/d43/a26488.html#a7b222bba8f0c4ced50bf4945bf0423ca", null ]
 ];

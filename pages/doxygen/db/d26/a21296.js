@@ -1,6 +1,6 @@
 var a21296 =
 [
-    [ "instance_utgarde_keep_InstanceMapScript", "df/dec/a21300.html", "df/dec/a21300" ],
-    [ "instance_utgarde_keep", "db/d26/a21296.html#abe013e4f086f63722a6398b2b7928c80", null ],
-    [ "GetInstanceScript", "db/d26/a21296.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
+    [ "npc_massive_jormungarAI", "df/dec/a21300.html", "df/dec/a21300" ],
+    [ "npc_massive_jormungar", "db/d26/a21296.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
+    [ "GetAI", "db/d26/a21296.html#a68e3557e967ef633ba59fa81e661b80c", null ]
 ];

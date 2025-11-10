@@ -1,7 +1,6 @@
 var a16228 =
 [
-    [ "DelayedTalk", "d6/d86/a16228.html#a8a7ea9e6ddebd73996cfe8d9723276bc", null ],
-    [ "Execute", "d6/d86/a16228.html#a88c1915e73bcbd8ec253a537c416caf7", null ],
-    [ "_owner", "d6/d86/a16228.html#a9d13769bb3fbaed32919fc919da35006", null ],
-    [ "_talkId", "d6/d86/a16228.html#a3f3a1688a36807c653a5d071dd2bb389", null ]
+    [ "npc_xerestraszaAI", "df/d80/a16232.html", "df/d80/a16232" ],
+    [ "npc_xerestrasza", "d6/d86/a16228.html#a49023756b5dab130e4ffd7e62fa80ce4", null ],
+    [ "GetAI", "d6/d86/a16228.html#a5e0ede0054969d4787db56781dc55846", null ]
 ];

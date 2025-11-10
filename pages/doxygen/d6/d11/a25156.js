@@ -1,6 +1,8 @@
 var a25156 =
 [
-    [ "ModDest", "d6/d11/a25156.html#a99d08536d2555390a7399a6d2fc199e6", null ],
-    [ "PrepareSpellScript", "d6/d11/a25156.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
-    [ "Register", "d6/d11/a25156.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
+    [ "Absorb", "d6/d11/a25156.html#aecfcbafe098adddba0a73965c447558c", null ],
+    [ "Load", "d6/d11/a25156.html#a1883cb4c86478359dd1ff8df25e2ec65", null ],
+    [ "PrepareAuraScript", "d6/d11/a25156.html#a3a65787dd5b7c1c796b98ce79f180d4d", null ],
+    [ "Register", "d6/d11/a25156.html#ab6bea7d62539841fa21fa8f3c8122707", null ],
+    [ "_limit", "d6/d11/a25156.html#a5985a97749e318e3ccba4c96724d8704", null ]
 ];

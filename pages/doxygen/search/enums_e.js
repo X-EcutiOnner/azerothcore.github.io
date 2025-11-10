@@ -27,6 +27,6 @@ var searchData=
   ['outdoorpvptypes_24',['OutdoorPvPTypes',['../de/d9e/a01061.html#a56e7764289940901c2a230103f78adee',1,'OutdoorPvP.h']]],
   ['outdoorpvpzmspells_25',['OutdoorPvPZMSpells',['../de/d6b/a03845.html#ac31cd7a23fe2f82e25ababd3a8b700a1',1,'OutdoorPvPZM.h']]],
   ['outhouse_26',['Outhouse',['../d7/d66/a03134.html#ae6a86a430917408e4ae1069c216df8ca',1,'zone_grizzly_hills.cpp']]],
-  ['overlorddrakuru_27',['overlordDrakuru',['../df/d1b/a03029.html#a42b0bda1e9a4c753058b169a54d61487',1,'zone_zuldrak.cpp']]],
+  ['overlorddrakuru_27',['OverlordDrakuru',['../df/d1b/a03029.html#a897271137fb114f6818b67b51fb7b225',1,'zone_zuldrak.cpp']]],
   ['ozactions_28',['OZActions',['../d0/de9/a03530.html#af534cecd033af7de9ca6298a5e19d0f8',1,'bosses_opera.cpp']]]
 ];

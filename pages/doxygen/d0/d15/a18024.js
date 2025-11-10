@@ -1,10 +1,6 @@
 var a18024 =
 [
-    [ "npc_bone_spikeAI", "d0/d15/a18024.html#a1b54aaa7b5ed142561fbc02e9593e87c", null ],
-    [ "DoAction", "d0/d15/a18024.html#a38b2944fb4e9d7fcc7205423faa8a994", null ],
-    [ "IsSummonedBy", "d0/d15/a18024.html#af2794484ee3ebf0579ce7357d222240d", null ],
-    [ "JustDied", "d0/d15/a18024.html#ae9c8fa649ba9fac74187913d29be9dd6", null ],
-    [ "UpdateAI", "d0/d15/a18024.html#a8eff2bcc6507c65e563ed272977f224e", null ],
-    [ "events", "d0/d15/a18024.html#a6a35900435d41d0603919f29415667a5", null ],
-    [ "hasTrappedUnit", "d0/d15/a18024.html#aeb7236ef0d313fd3799458f3d50276f7", null ]
+    [ "UnboundPlagueTargetSelector", "d0/d15/a18024.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
+    [ "operator()", "d0/d15/a18024.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
+    [ "_source", "d0/d15/a18024.html#a87eb77615e443ccec373d571708a156a", null ]
 ];

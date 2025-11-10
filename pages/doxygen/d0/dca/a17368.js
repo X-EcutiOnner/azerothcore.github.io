@@ -1,6 +1,7 @@
 var a17368 =
 [
-    [ "entry", "d0/dca/a17368.html#af2cf5df64adf9ac1575a8217b103e738", null ],
-    [ "x", "d0/dca/a17368.html#aad21475d521921ea30cc0ae5d260ce69", null ],
-    [ "y", "d0/dca/a17368.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
+    [ "HandleDummy", "d0/dca/a17368.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
+    [ "PrepareSpellScript", "d0/dca/a17368.html#a3ef0564565ea49265800422c835432b0", null ],
+    [ "Register", "d0/dca/a17368.html#a7b685926a8d511397889616e97bbd563", null ],
+    [ "Validate", "d0/dca/a17368.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
 ];

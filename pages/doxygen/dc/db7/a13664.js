@@ -1,8 +1,10 @@
 var a13664 =
 [
-    [ "HandleApply", "dc/db7/a13664.html#a717e3428afd59fa3a5e9916887d88273", null ],
-    [ "HandleRemove", "dc/db7/a13664.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
-    [ "PrepareAuraScript", "dc/db7/a13664.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
-    [ "Register", "dc/db7/a13664.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
-    [ "Validate", "dc/db7/a13664.html#a393a46618a4e1928b8149e04b4823726", null ]
+    [ "npc_sunblade_scout", "dc/db7/a13664.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
+    [ "JustEngagedWith", "dc/db7/a13664.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
+    [ "Reset", "dc/db7/a13664.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
+    [ "ScheduleCombat", "dc/db7/a13664.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
+    [ "ScheduleOOC", "dc/db7/a13664.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
+    [ "UpdateAI", "dc/db7/a13664.html#aca75482085b72070487c24feefa23fd6", null ],
+    [ "_protectorGUID", "dc/db7/a13664.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
 ];

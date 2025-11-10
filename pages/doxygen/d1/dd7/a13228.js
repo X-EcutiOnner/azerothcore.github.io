@@ -1,25 +1,25 @@
 var a13228 =
 [
-    [ "Events", "d1/dd7/a13228.html#a5cfaa8e01186ddc0077c088124825407", [
-      [ "EVENT_START_RITUAL", "d1/dd7/a13228.html#a5cfaa8e01186ddc0077c088124825407afc564d8d20a38aebccc53438aea776ee", null ],
-      [ "EVENT_GHOULPLOSION", "d1/dd7/a13228.html#a5cfaa8e01186ddc0077c088124825407a9d567173dec6df2f9aa02824cc5bc1ac", null ],
-      [ "EVENT_RAISE_DEAD", "d1/dd7/a13228.html#a5cfaa8e01186ddc0077c088124825407a7366f5f9e45ffab6e46ec661bcd21256", null ],
-      [ "EVENT_RESUME_WP", "d1/dd7/a13228.html#a5cfaa8e01186ddc0077c088124825407adefda2d5f3072d19d2347388327166be", null ]
-    ] ],
-    [ "Points", "d1/dd7/a13228.html#add8fd9a6f63482df9f45b3bfd766ab8d", [
-      [ "POINT_CORPSE_REACHED", "d1/dd7/a13228.html#add8fd9a6f63482df9f45b3bfd766ab8da9e753f89ab9b6e361811f315e05cd86d", null ]
-    ] ],
-    [ "Says", "d1/dd7/a13228.html#ae8b39c5bb662dcd75f77afadabe479e0", [
-      [ "SAY_GRYPHON", "d1/dd7/a13228.html#ae8b39c5bb662dcd75f77afadabe479e0aa8758b509f2342c32be1e28329ec0397", null ],
-      [ "SAY_GHOUL", "d1/dd7/a13228.html#ae8b39c5bb662dcd75f77afadabe479e0acf87a9a0c9d87d1874eb0d8aeca450db", null ],
-      [ "SAY_GEIST", "d1/dd7/a13228.html#ae8b39c5bb662dcd75f77afadabe479e0a813bb4a12b95a86434f4e82fecaeade2", null ]
-    ] ],
-    [ "npc_gothik_the_harvesterAI", "d1/dd7/a13228.html#adc37477ffc344ba02de99ceacee6f81b", null ],
-    [ "MovementInform", "d1/dd7/a13228.html#a94d937d44f1b843ddfe75983d3a2477a", null ],
-    [ "Reset", "d1/dd7/a13228.html#a3670ab9f63fff9ce55f64bba5018cef8", null ],
-    [ "UpdateAI", "d1/dd7/a13228.html#af2a9927516a41e3d8c35edb993a4aef5", null ],
-    [ "events", "d1/dd7/a13228.html#a1627517ce67ba5a5e454bc69e89d2e13", null ],
-    [ "geistGUID", "d1/dd7/a13228.html#a4c9b7d672451b45a4454f6fba7057b59", null ],
-    [ "isOnRitual", "d1/dd7/a13228.html#a88f5a2c50bcc65a3cd6e9856a85fbce2", null ],
-    [ "targetCorpseGUID", "d1/dd7/a13228.html#a4499cbb3c415a7ca494c6193aa956ce3", null ]
+    [ "npc_highlord_darion_mograineAI", "d1/dd7/a13228.html#a04be4c12a255c082b2a00daf40e86d96", null ],
+    [ "DoAction", "d1/dd7/a13228.html#a7103aa11bc2dff6942f4a4de5cd8d759", null ],
+    [ "FinishFight", "d1/dd7/a13228.html#ab3fef458ca3180f49d78579f7485e76c", null ],
+    [ "GetData", "d1/dd7/a13228.html#aa3eae106cf85eb7cb163f9780bf16b9f", null ],
+    [ "GetEntryFromSummons", "d1/dd7/a13228.html#a2c9e336d14667aabc3e1a8f3a99fc1e7", null ],
+    [ "JustDied", "d1/dd7/a13228.html#a2875789a251381677106f74e61efaa77", null ],
+    [ "JustEngagedWith", "d1/dd7/a13228.html#ac6ca07a76351dfc5a82b0a57fdfa08d8", null ],
+    [ "JustRespawned", "d1/dd7/a13228.html#a3116088116fe6b4a6b42014f7f5fb3a8", null ],
+    [ "JustSummoned", "d1/dd7/a13228.html#a9ddc2350ffbbf6e3ae91410da55bd326", null ],
+    [ "MovementInform", "d1/dd7/a13228.html#a205b7ebb74ca3be7a6a11fb2d8670288", null ],
+    [ "Reset", "d1/dd7/a13228.html#a7dde645763bab79e34fa7421dbec518e", null ],
+    [ "SendInitialWorldStates", "d1/dd7/a13228.html#ab49e38e481fcb263337f5224c1db7383", null ],
+    [ "SendUpdateWorldState", "d1/dd7/a13228.html#a32fed806170c3664eeb1dd2a1bfdf278", null ],
+    [ "SummonedCreatureDies", "d1/dd7/a13228.html#aa0935ab5c5a8a3ad41719e520703ff92", null ],
+    [ "UpdateAI", "d1/dd7/a13228.html#a086efd646a7298ce17f7ead4688fa022", null ],
+    [ "battleStarted", "d1/dd7/a13228.html#aecb7e1bdebf943e1793656f8a9c39917", null ],
+    [ "defendersRemaining", "d1/dd7/a13228.html#a49b41a9719548bffd2020caea7a94a3d", null ],
+    [ "events", "d1/dd7/a13228.html#a2155cbea373225904a3645a77738dea4", null ],
+    [ "resetExecuted", "d1/dd7/a13228.html#ae1431b2f46cf2ae096e7ddfb22e54a28", null ],
+    [ "scourgeRemaining", "d1/dd7/a13228.html#aabaa1fb49467d4dc5abf2a14ec833d15", null ],
+    [ "startTimeRemaining", "d1/dd7/a13228.html#a503f8e5166ec08664085ae032611de61", null ],
+    [ "summons", "d1/dd7/a13228.html#ae592eef844350ca8fa8415f343d8dffc", null ]
 ];

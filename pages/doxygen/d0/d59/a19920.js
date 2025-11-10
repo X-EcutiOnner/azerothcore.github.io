@@ -1,8 +1,6 @@
 var a19920 =
 [
-    [ "HandlePeriodic", "d0/d59/a19920.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "d0/d59/a19920.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "d0/d59/a19920.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "d0/d59/a19920.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "d0/d59/a19920.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "PrepareSpellScript", "d0/d59/a19920.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
+    [ "RecalculateDamage", "d0/d59/a19920.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
+    [ "Register", "d0/d59/a19920.html#aac131aa2d2e5342cf0303b918a077b45", null ]
 ];

@@ -1,6 +1,8 @@
 var a15576 =
 [
-    [ "npc_webbed_creatureAI", "d0/d9b/a15580.html", "d0/d9b/a15580" ],
-    [ "npc_webbed_creature", "d9/de6/a15576.html#ae52152939766c411e45e827e9ab52d4f", null ],
-    [ "GetAI", "d9/de6/a15576.html#a30fd53b81260b7fd6ca06881930b79e9", null ]
+    [ "npc_prospector_remtravelAI", "d9/de6/a15576.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d9/de6/a15576.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d9/de6/a15576.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d9/de6/a15576.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d9/de6/a15576.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
 ];

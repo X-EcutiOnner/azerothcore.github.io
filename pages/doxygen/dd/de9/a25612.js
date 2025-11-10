@@ -1,6 +1,10 @@
 var a25612 =
 [
-    [ "CheckCast", "dd/de9/a25612.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
-    [ "PrepareSpellScript", "dd/de9/a25612.html#a0bc2de519e0c84688fad609444d28afa", null ],
-    [ "Register", "dd/de9/a25612.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
+    [ "CheckProc", "dd/de9/a25612.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
+    [ "HandleProc", "dd/de9/a25612.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
+    [ "OnApply", "dd/de9/a25612.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
+    [ "OnRemove", "dd/de9/a25612.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
+    [ "PrepareAuraScript", "dd/de9/a25612.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
+    [ "Register", "dd/de9/a25612.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
+    [ "Validate", "dd/de9/a25612.html#a91c5a0e10c308332e18dc40033049996", null ]
 ];

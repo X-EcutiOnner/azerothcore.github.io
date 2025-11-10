@@ -1,7 +1,6 @@
 var a15124 =
 [
-    [ "npc_onyxian_lair_guard", "d6/da3/a15124.html#ae72d86cddafd8829fc9edd479a01ab1d", null ],
-    [ "JustEngagedWith", "d6/da3/a15124.html#a7b1d3bc68684202f9b4b95f6dc078be0", null ],
-    [ "UpdateAI", "d6/da3/a15124.html#ac8649636d5847813e49d2ada05f78645", null ],
-    [ "events", "d6/da3/a15124.html#a99acb2010853fcf9f7ac6f08143d06ed", null ]
+    [ "npc_belnistraszAI", "d9/df6/a15128.html", "d9/df6/a15128" ],
+    [ "npc_belnistrasz", "d6/da3/a15124.html#a7aa0e9bfcfaf74febe67cbcb94c01ddb", null ],
+    [ "GetAI", "d6/da3/a15124.html#aac9d4389ec1c88be9afb6b9a828da511", null ]
 ];

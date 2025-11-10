@@ -1,17 +1,17 @@
 var a22744 =
 [
-    [ "OutdoorPvPHP", "d2/da0/a22744.html#a19118d7facc4a745e391491fb7d95421", null ],
-    [ "FillInitialWorldStates", "d2/da0/a22744.html#a4ecc55395f1f792075e07026e1ccd171", null ],
-    [ "GetAllianceTowersControlled", "d2/da0/a22744.html#ae6d3a1561b94d92539a5dd8b5ac56689", null ],
-    [ "GetHordeTowersControlled", "d2/da0/a22744.html#a9395b6966bcdd36b448ca1c403f17873", null ],
-    [ "HandleKillImpl", "d2/da0/a22744.html#aad7804f10c42f6643397d673ba4e9bee", null ],
-    [ "HandlePlayerEnterZone", "d2/da0/a22744.html#a117149e3db7fa02fdcfab05a6ff6de18", null ],
-    [ "HandlePlayerLeaveZone", "d2/da0/a22744.html#abf21499824ad64aa7a26a4b33090783e", null ],
-    [ "SendRemoveWorldStates", "d2/da0/a22744.html#ac94c44783b2141c751d5c16a24bce8d4", null ],
-    [ "SetAllianceTowersControlled", "d2/da0/a22744.html#a1f9bbc083ae0bb7c00a303909ab043f5", null ],
-    [ "SetHordeTowersControlled", "d2/da0/a22744.html#ae5de375e1ec88dc5ce0059490596a935", null ],
-    [ "SetupOutdoorPvP", "d2/da0/a22744.html#aee60f1d1da4d6eecd0e66cf975272979", null ],
-    [ "Update", "d2/da0/a22744.html#aeec44f41e6d6fe7c768bb738a3eafb47", null ],
-    [ "m_AllianceTowersControlled", "d2/da0/a22744.html#a90c41df874abfee0a4861cf923de9ab5", null ],
-    [ "m_HordeTowersControlled", "d2/da0/a22744.html#ada8244f57fe3a693d167689d3f921025", null ]
+    [ "OutdoorPvPSI", "d2/da0/a22744.html#a89bf2d913b7d68ee921ef4b9aeea61e1", null ],
+    [ "FillInitialWorldStates", "d2/da0/a22744.html#a7392eed60ec3307bdea4ed35cd859077", null ],
+    [ "HandleAreaTrigger", "d2/da0/a22744.html#a7c6d70d7a611752456c55d13420ff840", null ],
+    [ "HandleCustomSpell", "d2/da0/a22744.html#a10853a2f5766b6fc75044a20b281a198", null ],
+    [ "HandleDropFlag", "d2/da0/a22744.html#a9238a5007253d84d66192bd340d8311a", null ],
+    [ "HandlePlayerEnterZone", "d2/da0/a22744.html#ad2cabd461406a61e40411850b3d31c0c", null ],
+    [ "HandlePlayerLeaveZone", "d2/da0/a22744.html#aa06088b1d80072577e6fc7653a214512", null ],
+    [ "SendRemoveWorldStates", "d2/da0/a22744.html#aae7deda0662b28f6fc0e16115a65304b", null ],
+    [ "SetupOutdoorPvP", "d2/da0/a22744.html#a401da5bef2350c4eb21b249b4f8b3e40", null ],
+    [ "Update", "d2/da0/a22744.html#a56bda08a795a4b0cd1c52ec448920fac", null ],
+    [ "UpdateWorldState", "d2/da0/a22744.html#a81f4362ece83f37f14471926e9a85fb3", null ],
+    [ "m_Gathered_A", "d2/da0/a22744.html#ab532337ab7e66e1489221e3189e48bac", null ],
+    [ "m_Gathered_H", "d2/da0/a22744.html#abcd36fe918edbbea387573bd5fab89e7", null ],
+    [ "m_LastController", "d2/da0/a22744.html#a05c33cec2d0c1a9fe31cb3d9ba3f3c1c", null ]
 ];

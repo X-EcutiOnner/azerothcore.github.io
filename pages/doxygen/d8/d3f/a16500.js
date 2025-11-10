@@ -1,6 +1,6 @@
 var a16500 =
 [
-    [ "HandleSpellHit", "d8/d3f/a16500.html#a11b9bb078e5c38b8db8b3e3fcd5114d8", null ],
-    [ "PrepareSpellScript", "d8/d3f/a16500.html#a75a2441ca6b4fb7928c4d14f44c08ba3", null ],
-    [ "Register", "d8/d3f/a16500.html#a9322b834fadc89b4fbc19dbbc762f205", null ]
+    [ "instance_trial_of_the_champion_InstanceMapScript", "d9/d59/a16504.html", "d9/d59/a16504" ],
+    [ "instance_trial_of_the_champion", "d8/d3f/a16500.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
+    [ "GetInstanceScript", "d8/d3f/a16500.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
 ];

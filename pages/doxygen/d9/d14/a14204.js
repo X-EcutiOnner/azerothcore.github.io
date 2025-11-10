@@ -1,5 +1,9 @@
 var a14204 =
 [
-    [ "at_zulgurub_bridge_speech", "d9/d14/a14204.html#a0ef9d44dc98ddee8fe5133862339808d", null ],
-    [ "_OnTrigger", "d9/d14/a14204.html#a67234a1f4c77888a8535d0ea52e16ba9", null ]
+    [ "boss_hazzarah", "d9/d14/a14204.html#a73ba49b91addc9c03e1692587fe66a52", null ],
+    [ "CanAIAttack", "d9/d14/a14204.html#a9038a5b4276fda8a6865217a7c494eec", null ],
+    [ "JustEngagedWith", "d9/d14/a14204.html#a18e382c03ff923bb851a9cd8e2541788", null ],
+    [ "JustSummoned", "d9/d14/a14204.html#a1c3969fbc027f054598ec4123abd6fa4", null ],
+    [ "SummonedCreatureDies", "d9/d14/a14204.html#aac0c990013edf1968d33aeb59d4f05b0", null ],
+    [ "UpdateAI", "d9/d14/a14204.html#a61d92f1650a84ed9684d33879e54bd09", null ]
 ];

@@ -1,13 +1,15 @@
 var a19184 =
 [
-    [ "boss_anubrekhanAI", "d7/d93/a19184.html#a6ff658a5aab3b13c4594f5bc44a62818", null ],
-    [ "JustDied", "d7/d93/a19184.html#a8a32a256b39558e802d45ae5f4038b79", null ],
-    [ "JustEngagedWith", "d7/d93/a19184.html#a0cd5bd7a04b52abcc23a2131d5cbfd2e", null ],
-    [ "JustSummoned", "d7/d93/a19184.html#a9fa11bc9192f0b75220383b3ef876219", null ],
-    [ "KilledUnit", "d7/d93/a19184.html#a9070ebcd6ca976fc89af88b3de177bcc", null ],
-    [ "MoveInLineOfSight", "d7/d93/a19184.html#a75dd903dd059a0fe20e291713e880bc3", null ],
-    [ "Reset", "d7/d93/a19184.html#acd6ae267a6848e146128d56196d1af79", null ],
-    [ "SummonCryptGuards", "d7/d93/a19184.html#a1dbf747694350bdc835f19ed0b22741c", null ],
-    [ "SummonedCreatureDies", "d7/d93/a19184.html#a4889de03a80cc4c3bc0fd41042d1d905", null ],
-    [ "sayGreet", "d7/d93/a19184.html#ab2210c62a9a21f426f0ef0b1b1d27162", null ]
+    [ "boss_gluthAI", "d7/d93/a19184.html#a3ae0608d19cbc7ce5a561e0ae3e66d0d", null ],
+    [ "JustDied", "d7/d93/a19184.html#ada2c5f6b7025f5f2fb67b8ebe3b2d56c", null ],
+    [ "JustEngagedWith", "d7/d93/a19184.html#a25cf670d7254cc8331752987a854c63b", null ],
+    [ "JustSummoned", "d7/d93/a19184.html#acc09328210fbf1a6e81999d548676ae4", null ],
+    [ "KilledUnit", "d7/d93/a19184.html#a691d46055b922efc9d1ec93a8b0fb842", null ],
+    [ "MoveInLineOfSight", "d7/d93/a19184.html#a2aaf43f7d1555a005ef263ceaad8304c", null ],
+    [ "Reset", "d7/d93/a19184.html#acb9f68205a2a210737d43893a414ca52", null ],
+    [ "SelectPlayerInRoom", "d7/d93/a19184.html#a1f8f87b00291d8164f607ac6262506cf", null ],
+    [ "SummonedCreatureDies", "d7/d93/a19184.html#a115a1f1327a931067223734dbf414675", null ],
+    [ "UpdateAI", "d7/d93/a19184.html#a2505f7ebda7b623edfedf96979a4a920", null ],
+    [ "events", "d7/d93/a19184.html#adaf9581259a774087ce02725b42b6b47", null ],
+    [ "summons", "d7/d93/a19184.html#a18f6aa3d949e68e9b38398780c017082", null ]
 ];

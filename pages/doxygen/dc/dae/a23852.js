@@ -1,6 +1,7 @@
 var a23852 =
 [
-    [ "PrepareSpellScript", "dc/dae/a23852.html#a5b17110b189b7134939aea9dbf2d724b", null ],
-    [ "Register", "dc/dae/a23852.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
-    [ "SelectRandomPlayer", "dc/dae/a23852.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
+    [ "HandleOnApply", "dc/dae/a23852.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
+    [ "HandleOnRemove", "dc/dae/a23852.html#aed5f87523c58d94c8f98b76c06abb140", null ],
+    [ "PrepareAuraScript", "dc/dae/a23852.html#ab32413873bec92540f9e85e8013b7ea2", null ],
+    [ "Register", "dc/dae/a23852.html#a0653d8688f98822580a3243a0d47c17a", null ]
 ];

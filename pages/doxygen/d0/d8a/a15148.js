@@ -1,12 +1,14 @@
 var a15148 =
 [
-    [ "instance_razorfen_downs_InstanceMapScript", "d0/d8a/a15148.html#a04d36b66a5570d03bb95ef2225a5c902", null ],
-    [ "GetData", "d0/d8a/a15148.html#a3d1611870945cd0c8cd7d4e7728cfd84", null ],
-    [ "Initialize", "d0/d8a/a15148.html#aed9ab9542badb0296ca0660c39541cb8", null ],
-    [ "OnGameObjectCreate", "d0/d8a/a15148.html#a567ac5d9a17514ede5b84c5d78204072", null ],
-    [ "ReadSaveDataMore", "d0/d8a/a15148.html#a7d6fefed563b0b9763b9c63136c65952", null ],
-    [ "SetData", "d0/d8a/a15148.html#a1dfd39d65b16bb6e1373fe83ba4053c5", null ],
-    [ "WriteSaveDataMore", "d0/d8a/a15148.html#ae5cd5cf84e8db976f3006dc52bb5fab4", null ],
-    [ "_firesState", "d0/d8a/a15148.html#a74809429d3d2b1db5374dacf34d8a1b7", null ],
-    [ "_gongPhase", "d0/d8a/a15148.html#a23485a35f0aa2f2ffad53398882d163a", null ]
+    [ "boss_ayamiss", "d0/d8a/a15148.html#a0e923d4fa8bd6623ec58d7f64b5ea261", null ],
+    [ "DoAction", "d0/d8a/a15148.html#a0114a79274c34fe3dfbc8a34f39920bc", null ],
+    [ "EnterEvadeMode", "d0/d8a/a15148.html#a52f584da6d3d1b87fe91528dc25b8c5e", null ],
+    [ "JustDied", "d0/d8a/a15148.html#acddcbb06b7d5980e199ef11103fabf7c", null ],
+    [ "JustEngagedWith", "d0/d8a/a15148.html#aaaf1b765256f4a6342d16bd7767f92cf", null ],
+    [ "JustSummoned", "d0/d8a/a15148.html#a4281f761256cd93c19aea0a76239512d", null ],
+    [ "MovementInform", "d0/d8a/a15148.html#a6bc1f0767785efb5a5fb005b49338032", null ],
+    [ "Reset", "d0/d8a/a15148.html#a10111f97236c2846181aa20f7d9b64fd", null ],
+    [ "ScheduleTasks", "d0/d8a/a15148.html#a166238b9395a426a7333cf71a38c6c5c", null ],
+    [ "_swarmers", "d0/d8a/a15148.html#aa6dd99f8085d1424acf07cc124ac210c", null ],
+    [ "homePos", "d0/d8a/a15148.html#ab098ee0f8872d1cf9d34993c01971921", null ]
 ];

@@ -1,7 +1,7 @@
 var a16732 =
 [
-    [ "HandleDispel", "dd/db3/a16732.html#a7b24f38bbb7813826520f928b22d30aa", null ],
-    [ "PrepareAuraScript", "dd/db3/a16732.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
-    [ "Register", "dd/db3/a16732.html#a2bf6921550da3c13730fd98bded2c927", null ],
-    [ "Validate", "dd/db3/a16732.html#ad8b0bb389d232c74acf106b711414fa1", null ]
+    [ "HandleEffectPeriodic", "dd/db3/a16732.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
+    [ "PrepareAuraScript", "dd/db3/a16732.html#a66dcb98f38ed6b040928543015f59c9b", null ],
+    [ "Register", "dd/db3/a16732.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
+    [ "Validate", "dd/db3/a16732.html#a1131f0014f298b87483412d960bc0221", null ]
 ];

@@ -1,6 +1,6 @@
 var a18852 =
 [
-    [ "npc_captain_arnathAI", "de/db7/a18856.html", "de/db7/a18856" ],
-    [ "npc_captain_arnath", "d4/dab/a18852.html#ab96afce64a7714ea84bab932f80c9302", null ],
-    [ "GetAI", "d4/dab/a18852.html#a302ec007389e677011334d78f410207b", null ]
+    [ "npc_captain_rupertAI", "d4/dab/a18852.html#ae91de64c440e71e612f34e37b90076d5", null ],
+    [ "Reset", "d4/dab/a18852.html#a8ebaca725aba2c3aed8856fb23228ae1", null ],
+    [ "UpdateAI", "d4/dab/a18852.html#a2edf4e51c9a5bde61a1875c067e963f2", null ]
 ];

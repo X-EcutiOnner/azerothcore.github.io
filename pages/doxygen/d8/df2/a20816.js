@@ -1,6 +1,8 @@
 var a20816 =
 [
-    [ "boss_thorim_lightning_orbAI", "d4/d81/a20820.html", "d4/d81/a20820" ],
-    [ "boss_thorim_lightning_orb", "d8/df2/a20816.html#a2aa29e8d2b3fb10e8be39d8fc3112ac2", null ],
-    [ "GetAI", "d8/df2/a20816.html#ad24d28866145c4fccf7a3971856fa87f", null ]
+    [ "boss_thorim_pillarAI", "d8/df2/a20816.html#ae00c9e72f14e3f2c94da118a1fe27130", null ],
+    [ "Reset", "d8/df2/a20816.html#ae9043ed9b72cc0eda6fb7c859355da57", null ],
+    [ "SpellHit", "d8/df2/a20816.html#a1cb3ef9fdfc9e375d15e14b9230dd51e", null ],
+    [ "UpdateAI", "d8/df2/a20816.html#afd8e05444eeea620a7ef21e97c345d41", null ],
+    [ "_resetTimer", "d8/df2/a20816.html#a6ef7c9e23280564aec1b82eb670bc4f9", null ]
 ];

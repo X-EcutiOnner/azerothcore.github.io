@@ -1,8 +1,8 @@
 var a03587 =
 [
-    [ "SHostageInfo", "d6/dd2/a14092.html", "d6/dd2/a14092" ],
-    [ "instance_zulaman", "d4/df9/a14096.html", "d4/df9/a14096" ],
-    [ "instance_zulaman::instance_zulaman_InstanceMapScript", "d6/d4d/a14100.html", "d6/d4d/a14100" ],
+    [ "SHostageInfo", "d0/d9c/a14064.html", "d0/d9c/a14064" ],
+    [ "instance_zulaman", "da/d50/a14068.html", "da/d50/a14068" ],
+    [ "instance_zulaman::instance_zulaman_InstanceMapScript", "da/d98/a14072.html", "da/d98/a14072" ],
     [ "Misc", "df/d38/a03587.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d2/db4/a03695.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "db/d49/a03737.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
@@ -240,7 +240,6 @@ var a03587 =
       [ "ROOM_STAIRS", "dd/da3/a03026.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae2375df4683a40c95e9d73dc07b67971", null ],
       [ "ACTION_TURN_BONES", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac4df9037e576791a0e8cd7a86df7ebf3", null ],
       [ "EVENT_SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6acc06d07ea4bf758d5b40d8d015dfc0cf", null ],
-      [ "EVENT_SPELL_RAIN_OF_FIRE", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae87b6da7fec02560956dd06ddc9c0e04", null ],
       [ "EVENT_SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa006a8f2aa2c4e55f6a86c52b9ecbfed", null ],
       [ "EVENT_SPELL_EYE_BEAM", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7cfb962f489a01f1d7146a2ab0a5cb24", null ],
       [ "EVENT_SPELL_LIGHTNING_BREATH", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abde294ddbf63fb2a3f09c41a0a9f8971", null ],

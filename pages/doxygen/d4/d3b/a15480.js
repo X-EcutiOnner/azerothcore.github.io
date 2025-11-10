@@ -1,8 +1,6 @@
 var a15480 =
 [
-    [ "npc_obsidian_eradicator", "d4/d3b/a15480.html#a84a6c414b3d74468143984e57f83e383", null ],
-    [ "JustEngagedWith", "d4/d3b/a15480.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
-    [ "Reset", "d4/d3b/a15480.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
-    [ "UpdateAI", "d4/d3b/a15480.html#a1697d83e89559f047d5bab652007bb61", null ],
-    [ "_targetGUIDs", "d4/d3b/a15480.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
+    [ "instance_wailing_caverns_InstanceMapScript", "d7/d34/a15484.html", "d7/d34/a15484" ],
+    [ "instance_wailing_caverns", "d4/d3b/a15480.html#a906f59c39f59237e9eedb479dfc7d825", null ],
+    [ "GetInstanceScript", "d4/d3b/a15480.html#a0f1020e86443d6902b3c4d8726f3e610", null ]
 ];

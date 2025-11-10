@@ -1,6 +1,6 @@
 var a20976 =
 [
-    [ "PrepareSpellScript", "d2/d62/a20976.html#ac84dedbb3343c15e32ae3c57d80a4561", null ],
-    [ "Register", "d2/d62/a20976.html#a27c5665b64c50df5d9c67d5136ab7567", null ],
-    [ "SelectTarget", "d2/d62/a20976.html#a0f9c85168ad0c0fda61f4bb1e97bd518", null ]
+    [ "boss_yoggsaron_cloudAI", "d6/d11/a20980.html", "d6/d11/a20980" ],
+    [ "boss_yoggsaron_cloud", "d2/d62/a20976.html#ab52cc1fa8b45b70dde340b9f463ef2f1", null ],
+    [ "GetAI", "d2/d62/a20976.html#a2005f062eb9d78c7b09b045eba570b98", null ]
 ];

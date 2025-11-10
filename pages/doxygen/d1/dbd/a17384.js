@@ -1,10 +1,11 @@
 var a17384 =
 [
-    [ "boss_drakkari_elementalAI", "d1/dbd/a17384.html#aad8f28b7e45a7897cb758dff90aa46d8", null ],
-    [ "DoAction", "d1/dbd/a17384.html#afc16e2da1f40ec0c0257e3bedc04c8a7", null ],
-    [ "JustDied", "d1/dbd/a17384.html#aec2878e51a12749914e3a30c0ddea900", null ],
-    [ "JustEngagedWith", "d1/dbd/a17384.html#a75cbf6a164ab4337f86b600541c563f2", null ],
-    [ "Reset", "d1/dbd/a17384.html#a3a0cd44c30eacac26bcfd1bbe2a18086", null ],
-    [ "UpdateAI", "d1/dbd/a17384.html#adb9ad99bc784a76da238ed2ee694d4f2", null ],
-    [ "events", "d1/dbd/a17384.html#abd9bef8fd2bd10a520d9569351bd925b", null ]
+    [ "boss_eckAI", "d1/dbd/a17384.html#a9de9ad13286c625241242a72c8c3ef2b", null ],
+    [ "InitializeAI", "d1/dbd/a17384.html#a37ed08383c43c53ea5a46ad8e03adb35", null ],
+    [ "JustDied", "d1/dbd/a17384.html#afa625b388a7495e7f83ea3149ad2020c", null ],
+    [ "JustEngagedWith", "d1/dbd/a17384.html#a393630157bb1b9d80a19b2da3bf0b377", null ],
+    [ "MovementInform", "d1/dbd/a17384.html#a4826dee262817fbdfa38bcf17f5723da", null ],
+    [ "Reset", "d1/dbd/a17384.html#afc33618907cb06591cc57751dfc14ca5", null ],
+    [ "SpellHitTarget", "d1/dbd/a17384.html#a9838782769779ed0750ba32ac77625d4", null ],
+    [ "UpdateAI", "d1/dbd/a17384.html#a697ceea1e138d484d80b39c80078de58", null ]
 ];

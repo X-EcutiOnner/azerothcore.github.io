@@ -1,8 +1,6 @@
 var a22104 =
 [
-    [ "OnRemove", "d7/dea/a22104.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
-    [ "PrepareAuraScript", "d7/dea/a22104.html#a183b5a3b1332695e3c047bb63435389a", null ],
-    [ "Register", "d7/dea/a22104.html#aad41ab76cc0a882f272e8f79867a7015", null ],
-    [ "Validate", "d7/dea/a22104.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
-    [ "spellIds", "d7/dea/a22104.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
+    [ "npc_ravenous_worgAI", "d2/d99/a22108.html", "d2/d99/a22108" ],
+    [ "npc_ravenous_worg", "d7/dea/a22104.html#ad7f8da1c82072367fe4a537620df9ac0", null ],
+    [ "GetAI", "d7/dea/a22104.html#ac966ae31d3a86c9435b14d9f50a5f4cb", null ]
 ];

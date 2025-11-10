@@ -1,7 +1,5 @@
 var a27528 =
 [
-    [ "go_pirate_day_musicAI", "de/da4/a27528.html#a1abe263949b7a07e5143779efcddc7eb", null ],
-    [ "UpdateAI", "de/da4/a27528.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
-    [ "_events", "de/da4/a27528.html#a233ae55a05876c665455b106ef50d57e", null ],
-    [ "rnd", "de/da4/a27528.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
+    [ "go_tablet_of_the_seven", "de/da4/a27528.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
+    [ "OnGossipHello", "de/da4/a27528.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
 ];

@@ -1,7 +1,6 @@
 var a18780 =
 [
-    [ "PeriodicTick", "db/dbc/a18780.html#ac1bace4fc66349364c84b5784967e9bf", null ],
-    [ "PrepareAuraScript", "db/dbc/a18780.html#a358193e3340112c04f79c043548c3de0", null ],
-    [ "Register", "db/dbc/a18780.html#a28f52bc253899aa407e67f9a089c815c", null ],
-    [ "Validate", "db/dbc/a18780.html#a0dde3447e38e45cea94df44449a19a01", null ]
+    [ "npc_highlord_tirion_fordringAI", "d3/d16/a18784.html", "d3/d16/a18784" ],
+    [ "npc_highlord_tirion_fordring_lh", "db/dbc/a18780.html#a96102a488330c54a3e3654c767e8e1a5", null ],
+    [ "GetAI", "db/dbc/a18780.html#aea42394c04c1763cffe10eb5eba09854", null ]
 ];

@@ -1,7 +1,8 @@
 var a25232 =
 [
-    [ "HandleScript", "d8/d0d/a25232.html#ad1ca4c264e1f89adf479254e6436dd55", null ],
-    [ "Load", "d8/d0d/a25232.html#a66db2b82a0f014e49bbfeeaade4d1731", null ],
-    [ "PrepareSpellScript", "d8/d0d/a25232.html#a7616d761e7a7a708c88918302b488bb9", null ],
-    [ "Register", "d8/d0d/a25232.html#a8ca351c9e0e254369328865eefa3ff91", null ]
+    [ "HandleScript", "d8/d0d/a25232.html#a2376d12f379f75f5decfdc133c18403e", null ],
+    [ "Load", "d8/d0d/a25232.html#aa70bfd2e614f9bf68ad2972990f0f7f5", null ],
+    [ "PrepareSpellScript", "d8/d0d/a25232.html#ae4ce8cf3670a85bbaedbfcdc6cacd5b1", null ],
+    [ "Register", "d8/d0d/a25232.html#a0b32bf9d565d7d6f606150f70fc244a0", null ],
+    [ "Validate", "d8/d0d/a25232.html#a1aee8ca0cc33f949371fa5cbb4745ccd", null ]
 ];

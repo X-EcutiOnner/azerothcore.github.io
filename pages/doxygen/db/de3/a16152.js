@@ -1,6 +1,11 @@
 var a16152 =
 [
-    [ "HandleScriptEffect", "db/de3/a16152.html#aaa650972803d14e4d74be977430b04f6", null ],
-    [ "PrepareSpellScript", "db/de3/a16152.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
-    [ "Register", "db/de3/a16152.html#a3405c1b04f2e623662c7acaa6810278c", null ]
+    [ "boss_sartharion_tenebronAI", "db/de3/a16152.html#a9996fce9320390ead967ad82bcef9554", null ],
+    [ "ClearInstance", "db/de3/a16152.html#af9e0459fff845bf4f6e53d06e4a9447f", null ],
+    [ "ExecuteEvent", "db/de3/a16152.html#a6a7f8255aa1dcbb979354467d0e6949d", null ],
+    [ "HandleExtraEvent", "db/de3/a16152.html#ad78a939f0584b775e29341ff08f0eee1", null ],
+    [ "JustDied", "db/de3/a16152.html#ac3e03263a174dd147854fa6d714ec003", null ],
+    [ "JustSummoned", "db/de3/a16152.html#a50d000b322e3d3a61cc02dea96c2979d", null ],
+    [ "Reset", "db/de3/a16152.html#a1aa8277ddc91989ed7480d4221a6e534", null ],
+    [ "summons2", "db/de3/a16152.html#a5060b01175ece5ad782e96bdf3d2c82d", null ]
 ];

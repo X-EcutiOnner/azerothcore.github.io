@@ -1,6 +1,7 @@
 var a27476 =
 [
-    [ "go_tadpole_cageAI", "de/dd8/a27480.html", "de/dd8/a27480" ],
-    [ "go_tadpole_cage", "d2/d71/a27476.html#a1a9acacd0ebff33d402018d4205e415b", null ],
-    [ "GetAI", "d2/d71/a27476.html#a38990dc5edd725623b6c35dba7802612", null ]
+    [ "go_bear_trapAI", "d2/d71/a27476.html#ad97484d73bcea6a84909004c099eec34", null ],
+    [ "Initialize", "d2/d71/a27476.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
+    [ "UpdateAI", "d2/d71/a27476.html#a8901922d736bb0391da5618593ced5c5", null ],
+    [ "_events", "d2/d71/a27476.html#a59f37a130326818dd922763ae9058fe7", null ]
 ];

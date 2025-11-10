@@ -1,7 +1,8 @@
 var a25752 =
 [
-    [ "CalcPeriodic", "db/df8/a25752.html#a5847ba4daad49dca2527513055fa4429", null ],
-    [ "PrepareAuraScript", "db/df8/a25752.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
-    [ "Register", "db/df8/a25752.html#a08f851e5582831d5dd05878c4a55db67", null ],
-    [ "Update", "db/df8/a25752.html#a3ab2716cbccc1311992de44e6591d966", null ]
+    [ "OnApply", "db/df8/a25752.html#a75b45732648d5ba90b49725a48609a89", null ],
+    [ "OnBaseRemove", "db/df8/a25752.html#aa6d10399bba721ff7a3651508fcdf449", null ],
+    [ "OnRemove", "db/df8/a25752.html#a0331b3860691db793c5a7bcf53550c6f", null ],
+    [ "PrepareAuraScript", "db/df8/a25752.html#a34ad4890c7ce30427537e36980057e57", null ],
+    [ "Register", "db/df8/a25752.html#a713e694cad6f1cf533d45f5d633da36e", null ]
 ];

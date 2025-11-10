@@ -1,5 +1,6 @@
 var a22024 =
 [
-    [ "at_q24545_frostmourne_cavern", "da/dab/a22024.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
-    [ "OnTrigger", "da/dab/a22024.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
+    [ "npc_q24545_vegard_dummyAI", "d6/d68/a22028.html", "d6/d68/a22028" ],
+    [ "npc_q24545_vegard_dummy", "da/dab/a22024.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "da/dab/a22024.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

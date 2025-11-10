@@ -1,6 +1,8 @@
 var a16700 =
 [
-    [ "npc_toc_enh_shamanAI", "da/d31/a16704.html", "da/d31/a16704" ],
-    [ "npc_toc_enh_shaman", "d3/d43/a16700.html#ac328b63a988d2cd8640237b250c338a8", null ],
-    [ "GetAI", "d3/d43/a16700.html#a4501c9289a06750d8f153f89565b12f3", null ]
+    [ "npc_toc_pet_hunterAI", "d3/d43/a16700.html#a751e37388df10abf4bf9df5d3f373fa3", null ],
+    [ "EnterEvadeMode", "d3/d43/a16700.html#a7f60ea2596fa4af2209333696dbe00e0", null ],
+    [ "myCanCast", "d3/d43/a16700.html#aefaa41a92000d8915853988ce3fd5bc4", null ],
+    [ "UpdateAI", "d3/d43/a16700.html#aec1d16cdcb7d86d7de4de10ca34f491d", null ],
+    [ "events", "d3/d43/a16700.html#ade038312363f976b34868ed2cbebb58d", null ]
 ];

@@ -1,7 +1,6 @@
 var a16640 =
 [
-    [ "npc_toc_shadow_priestAI", "d8/dce/a16640.html#af13a18be542fb314c19af52f89d216b8", null ],
-    [ "myCanCast", "d8/dce/a16640.html#a83422ff3e140b57a484d98876a9a8070", null ],
-    [ "UpdateAI", "d8/dce/a16640.html#afc23ba15d3ee925212e77b5211504c2b", null ],
-    [ "events", "d8/dce/a16640.html#a31665a22920b416d7423958a3e2928ec", null ]
+    [ "npc_toc_boomkinAI", "d7/d4e/a16644.html", "d7/d4e/a16644" ],
+    [ "npc_toc_boomkin", "d8/dce/a16640.html#a17274ff748cd364592a551ad2c547eac", null ],
+    [ "GetAI", "d8/dce/a16640.html#a626fe854faade9bd96cd60b9e6e970bd", null ]
 ];

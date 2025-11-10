@@ -1,7 +1,6 @@
 var a26348 =
 [
-    [ "HandleDummy", "d0/da1/a26348.html#a82ff05f6150750ecb6ef3b5f8c40f703", null ],
-    [ "PrepareSpellScript", "d0/da1/a26348.html#a6856f05f2cc25267f1d3023d3cb48dc2", null ],
-    [ "Register", "d0/da1/a26348.html#adadd0254d68281ac1063bcc57574ed77", null ],
-    [ "Validate", "d0/da1/a26348.html#a61923f636ad8b3d48eb2dbc6a1803527", null ]
+    [ "FilterTargets", "d0/da1/a26348.html#a9ee58cd4e7a0fa59bfb6ef1270d51f21", null ],
+    [ "PrepareSpellScript", "d0/da1/a26348.html#a5992d94317d3da7400d5a9ab115e621e", null ],
+    [ "Register", "d0/da1/a26348.html#a125ce6c8dfdc6419b4409c72f74fcf85", null ]
 ];

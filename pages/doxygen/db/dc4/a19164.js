@@ -1,7 +1,12 @@
 var a19164 =
 [
-    [ "HandleGameObjectDamage", "db/dc4/a19164.html#a811edfe01c1784664b5b4253d2305b4e", null ],
-    [ "PrepareSpellScript", "db/dc4/a19164.html#a0cfedeba2a747777de292b8f30b6752b", null ],
-    [ "Register", "db/dc4/a19164.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
-    [ "Validate", "db/dc4/a19164.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
+    [ "boss_faerlinaAI", "db/dc4/a19164.html#a3a97178599b9053c23a079ed1a2ed163", null ],
+    [ "JustDied", "db/dc4/a19164.html#a7ac2e510568a9dad710beaad42db0544", null ],
+    [ "JustEngagedWith", "db/dc4/a19164.html#a830dfa4fed62b4588ea8866174d3653a", null ],
+    [ "KilledUnit", "db/dc4/a19164.html#a6f7a6e66abcf4f4dd685bbb805920900", null ],
+    [ "MoveInLineOfSight", "db/dc4/a19164.html#aa5cd735c22d46e1b756f87f3952033a1", null ],
+    [ "Reset", "db/dc4/a19164.html#acee81492b9b751df587a3a2cdd691ab3", null ],
+    [ "SpellHit", "db/dc4/a19164.html#aa4fac163e31dcd9353238f993259d5ec", null ],
+    [ "SummonHelpers", "db/dc4/a19164.html#af2fbf866f87d568ee6028f0931d3b74e", null ],
+    [ "_introDone", "db/dc4/a19164.html#a9febd1d69c27140ddd2ac018181c67ec", null ]
 ];

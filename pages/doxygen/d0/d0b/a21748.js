@@ -1,12 +1,7 @@
 var a21748 =
 [
-    [ "npc_beryl_sorcererAI", "d0/d0b/a21748.html#a8f99f5f2ad6ccb1b068a86904bb1b864", null ],
-    [ "Initialize", "d0/d0b/a21748.html#a40400e4e993d20d9bbe4faf063102521", null ],
-    [ "JustEngagedWith", "d0/d0b/a21748.html#afae877e8dac583c9420d214f77c2b438", null ],
-    [ "Reset", "d0/d0b/a21748.html#a17a16337c09013483c58cae38576d969", null ],
-    [ "SpellHit", "d0/d0b/a21748.html#a762ee3ae8df3757279821af13101e0be", null ],
-    [ "UpdateAI", "d0/d0b/a21748.html#a42ec665b06988d13be6cbee646afc898", null ],
-    [ "_chainsCast", "d0/d0b/a21748.html#ab6238d539b10a7db9191bdc685ea67eb", null ],
-    [ "_events", "d0/d0b/a21748.html#ac640099ca01ae2183b84ae9ee3407cc1", null ],
-    [ "_playerGUID", "d0/d0b/a21748.html#a96f9b39c09b7a5fb484ae9069412751f", null ]
+    [ "npc_mootoo_the_youngerAI", "d0/d0b/a21748.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "d0/d0b/a21748.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "d0/d0b/a21748.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "d0/d0b/a21748.html#ac758a992ed0d62a272930c84d617b348", null ]
 ];

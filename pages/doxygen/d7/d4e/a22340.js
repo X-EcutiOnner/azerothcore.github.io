@@ -1,7 +1,6 @@
 var a22340 =
 [
-    [ "HandleScriptEffect", "d7/d4e/a22340.html#ad20cf97a7dd442d5670a22095b487a01", null ],
-    [ "PrepareSpellScript", "d7/d4e/a22340.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
-    [ "Register", "d7/d4e/a22340.html#a996ea344ea2a3312cb8886565b80972d", null ],
-    [ "Validate", "d7/d4e/a22340.html#a29bf5a9615e02281f426bf521a045567", null ]
+    [ "npc_frostbrood_skytalonAI", "d6/d20/a22344.html", "d6/d20/a22344" ],
+    [ "npc_frostbrood_skytalon", "d7/d4e/a22340.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
+    [ "GetAI", "d7/d4e/a22340.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
 ];

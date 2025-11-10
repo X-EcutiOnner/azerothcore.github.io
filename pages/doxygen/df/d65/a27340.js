@@ -1,5 +1,6 @@
 var a27340 =
 [
-    [ "AreaTrigger_at_legion_teleporter", "df/d65/a27340.html#a2b648bd038f41025c19338367c696d25", null ],
-    [ "OnTrigger", "df/d65/a27340.html#ae8239e5ad56d93627102dbd02989353d", null ]
+    [ "AreaTrigger_at_area_52_entrance", "df/d65/a27340.html#a5b7e21903bca1c04bad1394c6965d032", null ],
+    [ "OnTrigger", "df/d65/a27340.html#a1e537d133ee5e6ad1dbb0c732e23a128", null ],
+    [ "_triggerTimes", "df/d65/a27340.html#a6c3225f46ea71d06b81b25d5fb6e8f25", null ]
 ];

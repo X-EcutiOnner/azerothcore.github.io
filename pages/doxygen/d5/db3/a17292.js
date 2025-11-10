@@ -1,6 +1,6 @@
 var a17292 =
 [
-    [ "npc_pos_icicle_triggerAI", "d6/d9b/a17296.html", "d6/d9b/a17296" ],
-    [ "npc_pos_icicle_trigger", "d5/db3/a17292.html#ae38155ce579f50ff7de0fa5ca50a1c3e", null ],
-    [ "GetAI", "d5/db3/a17292.html#ad2f984f5b2b713b8307efdf4bcbcf8da", null ]
+    [ "npc_pos_freed_slaveAI", "d5/db3/a17292.html#ad5728e427f9f4a65cea13ec2c5a01453", null ],
+    [ "CanAIAttack", "d5/db3/a17292.html#a76818ee5fcfcc5678fa9d0957a424d9b", null ],
+    [ "EnterEvadeMode", "d5/db3/a17292.html#a234135e6bea0d91611fbdbae4dec2ea1", null ]
 ];

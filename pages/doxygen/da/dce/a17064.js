@@ -1,7 +1,6 @@
 var a17064 =
 [
-    [ "OnRemove", "da/dce/a17064.html#a4b95717cb19116b81f3eec798089abad", null ],
-    [ "PrepareAuraScript", "da/dce/a17064.html#a581645fa151531aaf7b562a8739d5616", null ],
-    [ "Register", "da/dce/a17064.html#a01304c556d79001e290707551bee7622", null ],
-    [ "Validate", "da/dce/a17064.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
+    [ "npc_phantom_hallucinationAI", "d4/d6e/a17068.html", "d4/d6e/a17068" ],
+    [ "npc_phantom_hallucination", "da/dce/a17064.html#a685889c090152a2562ee9adef7efbf71", null ],
+    [ "GetAI", "da/dce/a17064.html#a771ee338f87ca0a2e9a7d02d1322c5d5", null ]
 ];

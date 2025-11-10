@@ -1,6 +1,8 @@
 var a24596 =
 [
-    [ "achievement", "d2/dee/a24596.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "d2/dee/a24596.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "d2/dee/a24596.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "npc_pet_gen_wind_rider_cub", "d2/dee/a24596.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
+    [ "UpdateAI", "d2/dee/a24596.html#a534d122522d553e106e6c7729d6c55db", null ],
+    [ "checkTimer", "d2/dee/a24596.html#a39fcfc5f5d9a630180713512db778b32", null ],
+    [ "checkTimer2", "d2/dee/a24596.html#aabeaf7a9b5b77df540e1111950860e98", null ],
+    [ "isFlying", "d2/dee/a24596.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
 ];

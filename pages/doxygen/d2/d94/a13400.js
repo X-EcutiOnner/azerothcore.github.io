@@ -1,10 +1,6 @@
 var a13400 =
 [
-    [ "HandleDummyTick", "d2/d94/a13400.html#a036291aee8b08212ecead4afce01adf4", null ],
-    [ "Load", "d2/d94/a13400.html#aaecea41af42790dfe9aeba3c56480668", null ],
-    [ "OnApply", "d2/d94/a13400.html#a37b425f877e7415b245c119c29521c4b", null ],
-    [ "PrepareAuraScript", "d2/d94/a13400.html#ade7bfbc3400fb620956d1e8dff7d4a8a", null ],
-    [ "Register", "d2/d94/a13400.html#a9b32995b6e324a6c779bbd742de6cce2", null ],
-    [ "Validate", "d2/d94/a13400.html#a72595ee3cd995d7bed2bcf8c9f5199fb", null ],
-    [ "_forsakenSpell", "d2/d94/a13400.html#ae2aee05482e4854120fc581ecec41f95", null ]
+    [ "instance_sunken_temple_InstanceMapScript", "d6/dfc/a13404.html", "d6/dfc/a13404" ],
+    [ "instance_sunken_temple", "d2/d94/a13400.html#a123b052c1cd1487588c88bf2611bc53b", null ],
+    [ "GetInstanceScript", "d2/d94/a13400.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
 ];

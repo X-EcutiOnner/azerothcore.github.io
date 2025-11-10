@@ -1,7 +1,7 @@
 var a23624 =
 [
-    [ "npc_underbog_mushroom", "d3/dcc/a23624.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
-    [ "InitializeAI", "d3/dcc/a23624.html#a7c192010cc63715eaa3f38b1d1372936", null ],
-    [ "UpdateAI", "d3/dcc/a23624.html#a9a8ed51b12809152ebe78dda69944d77", null ],
-    [ "_scheduler", "d3/dcc/a23624.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
+    [ "HandleScript", "d3/dcc/a23624.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
+    [ "PrepareSpellScript", "d3/dcc/a23624.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
+    [ "Register", "d3/dcc/a23624.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
+    [ "Validate", "d3/dcc/a23624.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
 ];

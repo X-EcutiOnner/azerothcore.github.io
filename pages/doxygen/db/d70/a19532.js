@@ -1,6 +1,9 @@
 var a19532 =
 [
-    [ "ChargeRifts", "db/d70/a19532.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
-    [ "Execute", "db/d70/a19532.html#a8d01bf861d37c25413dc14eee16a2939", null ],
-    [ "_caster", "db/d70/a19532.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
+    [ "HandleApply", "db/d70/a19532.html#a29679ed64fc288dc0e85beed2971d4be", null ],
+    [ "HandleRemove", "db/d70/a19532.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
+    [ "Load", "db/d70/a19532.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
+    [ "PrepareAuraScript", "db/d70/a19532.html#a2804f25643e59f3922291abcb055b641", null ],
+    [ "Register", "db/d70/a19532.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
+    [ "Validate", "db/d70/a19532.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
 ];

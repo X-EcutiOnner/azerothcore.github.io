@@ -1,6 +1,6 @@
 var a15908 =
 [
-    [ "npc_cairne_bloodhoofAI", "da/dd5/a15912.html", "da/dd5/a15912" ],
-    [ "npc_cairne_bloodhoof", "d5/dc0/a15908.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
-    [ "GetAI", "d5/dc0/a15908.html#a1c34470c46ae9e98684de0e786be28b7", null ]
+    [ "SayerEntry", "d5/dc0/a15908.html#a3f9e374ec2a49823d942c29572ac2fa0", null ],
+    [ "SayTimer", "d5/dc0/a15908.html#a942073f24fd12da712184243d9f098f2", null ],
+    [ "TextEntry", "d5/dc0/a15908.html#a360822e4c069be6019c0a465cb2499cf", null ]
 ];

@@ -1,8 +1,5 @@
 var a22696 =
 [
-    [ "HandleApply", "df/de2/a22696.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
-    [ "HandleRemove", "df/de2/a22696.html#a06c7c65d973fcf348f5c929503902520", null ],
-    [ "PrepareAuraScript", "df/de2/a22696.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
-    [ "Register", "df/de2/a22696.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
-    [ "Validate", "df/de2/a22696.html#a8135c492638557eec71189282e7f78a2", null ]
+    [ "OutdoorPvP_grizzly_hills", "df/de2/a22696.html#aa020d8120c62874fb15b4623bbb714d9", null ],
+    [ "GetOutdoorPvP", "df/de2/a22696.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
 ];

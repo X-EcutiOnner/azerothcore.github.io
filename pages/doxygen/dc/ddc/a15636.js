@@ -1,7 +1,7 @@
 var a15636 =
 [
-    [ "npc_aged_dying_ancient_kodoAI", "dc/ddc/a15636.html#aaed19d0c915891d8afecda7df75a8a75", null ],
-    [ "JustRespawned", "dc/ddc/a15636.html#a9353ac81b0c209a56313b52f2257ddd2", null ],
-    [ "MoveInLineOfSight", "dc/ddc/a15636.html#a295d4bef97b97c7deb31a81274f0818d", null ],
-    [ "SpellHit", "dc/ddc/a15636.html#a021b82aa6bd2e118fe810f18349fda42", null ]
+    [ "HandleEffectPeriodic", "dc/ddc/a15636.html#ac47c157dbd193bc131d281666ae2097f", null ],
+    [ "PrepareAuraScript", "dc/ddc/a15636.html#ac650ece6e2d9e9e7ff9b863d77f84975", null ],
+    [ "Register", "dc/ddc/a15636.html#ac3c158fdddd007d1d7986470032bfc25", null ],
+    [ "Validate", "dc/ddc/a15636.html#a26b117dc8a3b104dec9de27597fbe55d", null ]
 ];

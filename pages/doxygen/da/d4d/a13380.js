@@ -1,7 +1,11 @@
 var a13380 =
 [
-    [ "OnPeriodic", "da/d4d/a13380.html#aa48b6f35302a8857465c6567f811dec6", null ],
-    [ "PrepareAuraScript", "da/d4d/a13380.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
-    [ "Register", "da/d4d/a13380.html#aa7708067531131738b86077638eda7ac", null ],
-    [ "Validate", "da/d4d/a13380.html#a665698b54201184185d96bd33f53e584", null ]
+    [ "boss_baroness_anastariAI", "da/d4d/a13380.html#acf180bbe881ba1f6e49c075254759c00", null ],
+    [ "JustDied", "da/d4d/a13380.html#a1a7bf1e6c39b0b61e95390e7ee1c5e6b", null ],
+    [ "JustEngagedWith", "da/d4d/a13380.html#a7329455d99045e7002abffe09112a4ea", null ],
+    [ "Reset", "da/d4d/a13380.html#a80c99c59486d2a7850a3a54ffebe998b", null ],
+    [ "SchedulePossession", "da/d4d/a13380.html#afbf2d4e9c3e8e50815c398b97afb3970", null ],
+    [ "UpdateAI", "da/d4d/a13380.html#a962e4e3091d126682825c326af5f6922", null ],
+    [ "_possessedTargetGuid", "da/d4d/a13380.html#a36e386b847c7032b5ce95a01070518ad", null ],
+    [ "_scheduler", "da/d4d/a13380.html#aa59518627a5e64e371dbbb45cfced75f", null ]
 ];

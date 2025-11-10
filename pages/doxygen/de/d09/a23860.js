@@ -1,5 +1,8 @@
 var a23860 =
 [
-    [ "at_rp_nethekurse", "de/d09/a23860.html#ac0a1891f90b674ad0ccbeb27f170e643", null ],
-    [ "_OnTrigger", "de/d09/a23860.html#a93001d6dda7b2711f1efe100ffab5879", null ]
+    [ "npc_warchief_portal", "de/d09/a23860.html#a1a52395a5ae66f5cc5f92c6d4ce81893", null ],
+    [ "JustSummoned", "de/d09/a23860.html#ad90c834dc059040f3922f58dc3bcf4a2", null ],
+    [ "SetData", "de/d09/a23860.html#a538ab8c6e7683aa02e8c75f9dd900be8", null ],
+    [ "UpdateAI", "de/d09/a23860.html#a8c400cf1b9f41696807e11f1f135c0ad", null ],
+    [ "_scheduler", "de/d09/a23860.html#a76bb6a89f0922ed0bc0289ee4e0f20d4", null ]
 ];

@@ -1,5 +1,7 @@
 var a23844 =
 [
-    [ "spellId", "da/d34/a23844.html#acc63d01d5095adef28b9746c520be973", null ],
-    [ "textId", "da/d34/a23844.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
+    [ "FilterTargets", "da/d34/a23844.html#a834163302ff10875227806d7d4945988", null ],
+    [ "HandleScriptEffect", "da/d34/a23844.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
+    [ "PrepareSpellScript", "da/d34/a23844.html#a079e72d57550e03956088b4be1d11422", null ],
+    [ "Register", "da/d34/a23844.html#abd4e0f268652652d3828ba8d350de849", null ]
 ];

@@ -1,5 +1,7 @@
 var a18352 =
 [
-    [ "at_sindragosa_lair", "d6/d26/a18352.html#a60ce46f248e66faa1f13a8b5c088bdc6", null ],
-    [ "OnTrigger", "d6/d26/a18352.html#a07074bff20272042ed05be83dd818ee9", null ]
+    [ "HandleInfusion", "d6/d26/a18352.html#a9f77330d81fef646dd5d5399800cba66", null ],
+    [ "PrepareSpellScript", "d6/d26/a18352.html#ae0a272902b0a9f74058c1dbe62974358", null ],
+    [ "Register", "d6/d26/a18352.html#ad759f6215e722f799156b4bdddcb7af1", null ],
+    [ "Validate", "d6/d26/a18352.html#a7b7254e7c6cb0d819dd003ffd19d0731", null ]
 ];

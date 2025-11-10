@@ -1,6 +1,8 @@
 var a23296 =
 [
-    [ "HandleProc", "d7/df7/a23296.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
-    [ "PrepareAuraScript", "d7/df7/a23296.html#a94b244ef26355d53c874aec6d26f3a53", null ],
-    [ "Register", "d7/df7/a23296.html#a9499d88802213ceb877e19d1651324f2", null ]
+    [ "CalculateAmount", "d7/df7/a23296.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
+    [ "OnPeriodic", "d7/df7/a23296.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
+    [ "PrepareAuraScript", "d7/df7/a23296.html#a1278420b279449c1c6a53b1a7b53f539", null ],
+    [ "Register", "d7/df7/a23296.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
+    [ "Validate", "d7/df7/a23296.html#a601c2db3a8e47d48b956ed102cbca104", null ]
 ];

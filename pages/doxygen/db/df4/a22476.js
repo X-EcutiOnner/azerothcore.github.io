@@ -1,11 +1,6 @@
 var a22476 =
 [
-    [ "npc_iron_watcherAI", "db/df4/a22476.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
-    [ "MovementInform", "db/df4/a22476.html#aaf329f0160efa778abdebf86b1cf230b", null ],
-    [ "Reset", "db/df4/a22476.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
-    [ "SpellHit", "db/df4/a22476.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
-    [ "UpdateAI", "db/df4/a22476.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
-    [ "charging", "db/df4/a22476.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
-    [ "hpTimer", "db/df4/a22476.html#afcbb113387345361baf0351a19e6eb1d", null ],
-    [ "spellTimer", "db/df4/a22476.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
+    [ "npc_roxi_ramrocket", "db/df4/a22476.html#af7f6bf6d5f8fc468abe62605f205571b", null ],
+    [ "OnGossipHello", "db/df4/a22476.html#adec28f778921246c56f11d09753e566e", null ],
+    [ "OnGossipSelect", "db/df4/a22476.html#a46a9898cb4b29808f9e911c03b5759cb", null ]
 ];

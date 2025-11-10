@@ -1,6 +1,7 @@
 var a24096 =
 [
-    [ "HandleScriptEffect", "d6/d45/a24096.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
-    [ "PrepareSpellScript", "d6/d45/a24096.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
-    [ "Register", "d6/d45/a24096.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
+    [ "boss_gatewatcher_iron_hand", "d6/d45/a24096.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "d6/d45/a24096.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "d6/d45/a24096.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "d6/d45/a24096.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

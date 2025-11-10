@@ -1,7 +1,6 @@
 var a26956 =
 [
-    [ "HandleDispel", "d3/d00/a26956.html#aeab02cfd37c20aaf57e70aca62c82d99", null ],
-    [ "PrepareAuraScript", "d3/d00/a26956.html#a9dc5d5dc34bc9aed6094c0c55533ad5e", null ],
-    [ "Register", "d3/d00/a26956.html#a9cfb0fe1465c55b97032ae528ce00bcb", null ],
-    [ "Validate", "d3/d00/a26956.html#ad29fdb4b99e9782cf8bace07384fa87c", null ]
+    [ "HandleDummy", "d3/d00/a26956.html#af5bccd5dfb9aa37215b083438b6749ea", null ],
+    [ "PrepareSpellScript", "d3/d00/a26956.html#a6c2b858c893ed215d1192073b06db81d", null ],
+    [ "Register", "d3/d00/a26956.html#a1b23dc4a7a04e4c910bb738d45a8df1f", null ]
 ];

@@ -1,9 +1,5 @@
 var a27440 =
 [
-    [ "ChatLogScript", "d0/de2/a27440.html#ade8c407083cf094f0767412e7b6d7730", null ],
-    [ "OnPlayerChat", "d0/de2/a27440.html#a9dc39835aac01da34c57c420fc82790e", null ],
-    [ "OnPlayerChat", "d0/de2/a27440.html#a64e047261c3d3de22614950c6b6f6f79", null ],
-    [ "OnPlayerChat", "d0/de2/a27440.html#ac9a4dc6a35325a87c69f08f50a26750c", null ],
-    [ "OnPlayerChat", "d0/de2/a27440.html#af6e61405ba6642fa451465e27c4b47d8", null ],
-    [ "OnPlayerChat", "d0/de2/a27440.html#a9962307a0e073ee3f5e7139f059e01b8", null ]
+    [ "go_ethereum_stasis", "d0/de2/a27440.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
+    [ "OnGossipHello", "d0/de2/a27440.html#ac36da8dccbebcaee605a878df3904c60", null ]
 ];

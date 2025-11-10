@@ -1,10 +1,6 @@
 var a14964 =
 [
-    [ "boss_meathookAI", "d3/d00/a14964.html#abb35c98da760db634545b81d740cd51a", null ],
-    [ "JustDied", "d3/d00/a14964.html#a44ebee45de335ff6f653e9d60a364458", null ],
-    [ "JustEngagedWith", "d3/d00/a14964.html#adf199bf96bbf342caaa74b7dd6b8013c", null ],
-    [ "KilledUnit", "d3/d00/a14964.html#a54deac512294bb0901d072faef3166b1", null ],
-    [ "Reset", "d3/d00/a14964.html#ab4dbdedb1ae114fe4aff1fbe0e8adec1", null ],
-    [ "UpdateAI", "d3/d00/a14964.html#afeaee24a9b6484e8a0e6509b973ed74d", null ],
-    [ "events", "d3/d00/a14964.html#a6cf32d8601a1d07a3a445fa7d9a1ccbc", null ]
+    [ "npc_crate_helperAI", "d3/d00/a14964.html#ad58a2f3746da7862658fb3b9e1580836", null ],
+    [ "SpellHit", "d3/d00/a14964.html#a785bb6fdb254a050a5c5e3e9df49a850", null ],
+    [ "_marked", "d3/d00/a14964.html#a0e718e519af661b73ed7bcd87ffbea32", null ]
 ];

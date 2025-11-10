@@ -1,7 +1,6 @@
 var a16904 =
 [
-    [ "HandleScript", "d3/df9/a16904.html#a927cc2ab0e5bba58a2b49e3e4e52ebaa", null ],
-    [ "PrepareSpellScript", "d3/df9/a16904.html#a71b28156c628aacbc6cb481038c0e76c", null ],
-    [ "Register", "d3/df9/a16904.html#a6f036bb2d42f248e0c252158a5ecedf1", null ],
-    [ "Validate", "d3/df9/a16904.html#a7c8a5a7c47bd7a9624028f92b1d9cf9c", null ]
+    [ "boss_trollgoreAI", "d9/d40/a16908.html", "d9/d40/a16908" ],
+    [ "boss_trollgore", "d3/df9/a16904.html#a95102f1fae6c667e0780b8b388fc156b", null ],
+    [ "GetAI", "d3/df9/a16904.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
 ];

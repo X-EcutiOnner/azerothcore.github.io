@@ -1,10 +1,8 @@
 var a26408 =
 [
-    [ "CheckCast", "d1/df2/a26408.html#a49676a65c99a9a2d99ad78fee54d2302", null ],
-    [ "HandleScript", "d1/df2/a26408.html#a35b9d69b8147ef06527b8533ef376e72", null ],
-    [ "Load", "d1/df2/a26408.html#a25c373762375f207e6c3ba0a18d4a6e7", null ],
-    [ "PrepareSpellScript", "d1/df2/a26408.html#a31d3339531f75dfa0ca3a339d34d3012", null ],
-    [ "Register", "d1/df2/a26408.html#afd716f555ac73287bd268c6124b15b1c", null ],
-    [ "Validate", "d1/df2/a26408.html#a0938262e1f45821b9fbef42f5c96cc56", null ],
-    [ "_manaAmount", "d1/df2/a26408.html#add7d1cdf3abca0ada57cd719ad22602a", null ]
+    [ "CheckProc", "d1/df2/a26408.html#a9e7b83ffd7e8d5ff4cf3b59cfbc40b0e", null ],
+    [ "HandleProc", "d1/df2/a26408.html#a772385aab5f9917d0d3fb456e0ed55e1", null ],
+    [ "PrepareAuraScript", "d1/df2/a26408.html#a876c1bda52c99c52249444414196b1d4", null ],
+    [ "Register", "d1/df2/a26408.html#a1409e9c24827ee51a83d732bb99dd27b", null ],
+    [ "Validate", "d1/df2/a26408.html#a8e36353d5296c609cbe0ce63db4e7dcb", null ]
 ];

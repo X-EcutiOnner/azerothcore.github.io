@@ -1,10 +1,5 @@
 var a21236 =
 [
-    [ "npc_ulduar_snow_mound", "da/dff/a21236.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
-    [ "MoveInLineOfSight", "da/dff/a21236.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
-    [ "UpdateAI", "da/dff/a21236.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
-    [ "_activated", "da/dff/a21236.html#ac48f6985d857276e0e59c2a429f5b359", null ],
-    [ "_count", "da/dff/a21236.html#a1856c3bba24842f33720a83e1de40421", null ],
-    [ "_counter", "da/dff/a21236.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
-    [ "_scheduler", "da/dff/a21236.html#aafe42af9ba1402cad91326eb1037e476", null ]
+    [ "npc_salvaged_siege_engine", "da/dff/a21236.html#aa8cde891a19ebb1e53be2a81a2432442", null ],
+    [ "BeforeSpellClick", "da/dff/a21236.html#aed2500b2315b5e508ea3d06a2355d023", null ]
 ];

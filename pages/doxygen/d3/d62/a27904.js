@@ -1,9 +1,9 @@
 var a27904 =
 [
-    [ "npc_fireworkAI", "d3/d62/a27904.html#a8fad089d1edc09edbaf215f07722e9e6", null ],
-    [ "FindNearestLauncher", "d3/d62/a27904.html#a156e63c90f9b64cfd71c0262d28f1383", null ],
-    [ "GetFireworkGameObjectId", "d3/d62/a27904.html#ae17b4abbbb2088799cec188457677d44", null ],
-    [ "GetFireworkSpell", "d3/d62/a27904.html#a6270e753ab81062a7c39ca6c6b46c993", null ],
-    [ "isCluster", "d3/d62/a27904.html#a4b3cdedaa2a57d23bf9f509cabdaff0c", null ],
-    [ "Reset", "d3/d62/a27904.html#a3e2ce8787cd08b8bb900c009bd7e8af0", null ]
+    [ "npc_arcanite_dragonling", "d3/d62/a27904.html#a9b7e4cefa312a16c90018d655ad94758", null ],
+    [ "CanAIAttack", "d3/d62/a27904.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
+    [ "IsSummonedBy", "d3/d62/a27904.html#a921b35a91c4f21258efdb41fd87413db", null ],
+    [ "JustEngagedWith", "d3/d62/a27904.html#a65f6d779681861117f750b70154b3e0d", null ],
+    [ "Reset", "d3/d62/a27904.html#a4468d91430add821bf7a7ab11d8063da", null ],
+    [ "UpdateAI", "d3/d62/a27904.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
 ];

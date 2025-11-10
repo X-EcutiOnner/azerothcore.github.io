@@ -1,6 +1,7 @@
 var a17788 =
 [
-    [ "npc_zafod_boomboxAI", "dd/dd8/a17792.html", "dd/dd8/a17792" ],
-    [ "npc_zafod_boombox", "d8/dba/a17788.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
-    [ "GetAI", "d8/dba/a17788.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
+    [ "npc_gunship_boarding_leaderAI", "d8/dba/a17788.html#ac20099905fd6fddda2561b88cf077b77", null ],
+    [ "JustEngagedWith", "d8/dba/a17788.html#a448ee30c01317a7e3c842a0043b15c2a", null ],
+    [ "UpdateAI", "d8/dba/a17788.html#ab7a105fbc49a365d609c7787b61fd75f", null ],
+    [ "_events", "d8/dba/a17788.html#affb899bbaa288e72a48d5518367b023d", null ]
 ];

@@ -1,6 +1,6 @@
 var a14152 =
 [
-    [ "boss_arlokkAI", "de/d8a/a14156.html", "de/d8a/a14156" ],
-    [ "boss_arlokk", "dc/d4d/a14152.html#a55bb21239e05acff18d2fb147449800e", null ],
-    [ "GetAI", "dc/d4d/a14152.html#a58b8cc7a198784b48faaab1b069d397c", null ]
+    [ "OnEffect", "dc/d4d/a14152.html#a50c7e1c65315b5d46749b335e85e15e4", null ],
+    [ "PrepareSpellScript", "dc/d4d/a14152.html#ab99c723bb71c5fdd844898eaf21cc520", null ],
+    [ "Register", "dc/d4d/a14152.html#a892faa83f748d36c9c8638a12ac7f2aa", null ]
 ];

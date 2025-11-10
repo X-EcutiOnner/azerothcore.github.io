@@ -1,8 +1,8 @@
 var a02909 =
 [
-    [ "instance_halls_of_lightning", "d3/dd7/a19748.html", "d3/dd7/a19748" ],
-    [ "instance_halls_of_lightning::instance_halls_of_lightning_InstanceMapScript", "dc/d16/a19752.html", "dc/d16/a19752" ],
-    [ "at_hol_hall_of_watchers", "d9/d40/a19756.html", "d9/d40/a19756" ],
+    [ "instance_halls_of_lightning", "dd/d91/a19720.html", "dd/d91/a19720" ],
+    [ "instance_halls_of_lightning::instance_halls_of_lightning_InstanceMapScript", "d9/d2e/a19724.html", "d9/d2e/a19724" ],
+    [ "at_hol_hall_of_watchers", "d9/dea/a19728.html", "d9/dea/a19728" ],
     [ "TitaniumHallwaySpells", "dc/d86/a02909.html#acb18ad00890035d01ae1c735f67fd0c8", [
       [ "SPELL_FREEZE_ANIM", "dc/d86/a02909.html#acb18ad00890035d01ae1c735f67fd0c8a09463e66b152e3f856401806af0a4823", null ],
       [ "SPELL_AWAKEN", "dc/d86/a02909.html#acb18ad00890035d01ae1c735f67fd0c8a76e1fd225869c359917096a4030f4799", null ]

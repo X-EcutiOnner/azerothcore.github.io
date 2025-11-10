@@ -1,9 +1,6 @@
 var a26140 =
 [
-    [ "OnEffectHitTargetDisarm", "dd/da5/a26140.html#ae8ce5a315886ede30eda7d3682e4ef06", null ],
-    [ "OnEffectHitTargetStun", "dd/da5/a26140.html#a5a5253b6d152b1af78de663c09451536", null ],
-    [ "OnEffectLaunchTargetDisarm", "dd/da5/a26140.html#a2bbcf5ee2d41362c80a4649a4cf7e260", null ],
-    [ "OnEffectLaunchTargetStun", "dd/da5/a26140.html#ac3d5052bf045082fb8bc02c72a0dba39", null ],
-    [ "PrepareSpellScript", "dd/da5/a26140.html#a113219d3376a23f8889f26f10744e7cb", null ],
-    [ "Register", "dd/da5/a26140.html#a12ef13dbc3e9cd95fb1d57bf393735e3", null ]
+    [ "HandleEffect", "dd/da5/a26140.html#a41b46d8918b59a1617f383b3eedfe343", null ],
+    [ "PrepareSpellScript", "dd/da5/a26140.html#acfc69e6323292e6c64fbe8d2e10efcdc", null ],
+    [ "Register", "dd/da5/a26140.html#a78f1476ed28eb1e80356dbf3d32918f5", null ]
 ];

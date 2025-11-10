@@ -1,18 +1,14 @@
 var a22808 =
 [
-    [ "OutdoorPvPZM", "d2/d36/a22808.html#a8351867658985b66dd97f39e68c16b94", null ],
-    [ "FillInitialWorldStates", "d2/d36/a22808.html#a86a36c0f47027c8d5ac64090e308d98a", null ],
-    [ "GetAllianceTowersControlled", "d2/d36/a22808.html#a58320dcfca7519ab2a7160bb1f875a9b", null ],
-    [ "GetHordeTowersControlled", "d2/d36/a22808.html#a98bfdd944bc51f9ed30b74e1cf3217b5", null ],
-    [ "HandleKillImpl", "d2/d36/a22808.html#a6cd61b99305a2838261e36652fda42b1", null ],
-    [ "HandlePlayerEnterZone", "d2/d36/a22808.html#a8c0eb1c295f389273cf2b2c7b35c9538", null ],
-    [ "HandlePlayerLeaveZone", "d2/d36/a22808.html#a93105e3229db7798ad882fc7e538b250", null ],
-    [ "SendRemoveWorldStates", "d2/d36/a22808.html#aba24e6285ac45dd0594f557d5830ba7c", null ],
-    [ "SetAllianceTowersControlled", "d2/d36/a22808.html#ab7e230cfa2f06fa450ca40c381491c85", null ],
-    [ "SetHordeTowersControlled", "d2/d36/a22808.html#a27239875476bbce8ff18b30cdfe6815b", null ],
-    [ "SetupOutdoorPvP", "d2/d36/a22808.html#a7e71d2c2480da1a2d155981999201b99", null ],
-    [ "Update", "d2/d36/a22808.html#acd93bd13cf330ec86dde30ff9c6306de", null ],
-    [ "m_AllianceTowersControlled", "d2/d36/a22808.html#aff4124f54572e0812c39562fbc6390c3", null ],
-    [ "m_Graveyard", "d2/d36/a22808.html#a9842f1c5de04af4db3e0397839de7765", null ],
-    [ "m_HordeTowersControlled", "d2/d36/a22808.html#ad5609bc0c13d193d16560045aa4b0c71", null ]
+    [ "boss_nexusprince_shaffar", "d2/d36/a22808.html#a2e861fb53bca7a40e967971b5e7be533", null ],
+    [ "JustDied", "d2/d36/a22808.html#abf2fef0888bced83511883027bf4d500", null ],
+    [ "JustEngagedWith", "d2/d36/a22808.html#af28242e0c0f2dcbfb2fb16514d912200", null ],
+    [ "JustSummoned", "d2/d36/a22808.html#a576240b46ce0988f0ef86e1460c831ef", null ],
+    [ "KilledUnit", "d2/d36/a22808.html#ad5dd5ab4178d968146e2205e60c49d07", null ],
+    [ "MoveInLineOfSight", "d2/d36/a22808.html#a71e501225d88851210d2e0e58de27f99", null ],
+    [ "Reset", "d2/d36/a22808.html#a35db119f5351a8ef9bef4588cbdd83cf", null ],
+    [ "SummonedCreatureDespawn", "d2/d36/a22808.html#ab806564e96708ca12f444249abd3c88c", null ],
+    [ "UpdateAI", "d2/d36/a22808.html#a147500575a3821262ec718ec023b458c", null ],
+    [ "HasTaunted", "d2/d36/a22808.html#aa7d55363fe9a326dc86bd4f4076d12ab", null ],
+    [ "summons", "d2/d36/a22808.html#a1d6ec0b04ee406d85aa5a39ed32e8c4a", null ]
 ];

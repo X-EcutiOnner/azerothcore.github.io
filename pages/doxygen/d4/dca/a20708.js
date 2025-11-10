@@ -1,6 +1,28 @@
 var a20708 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "dd/d13/a20712.html", "dd/d13/a20712" ],
-    [ "npc_ulduar_rocket_strike_trigger", "d4/dca/a20708.html#a41cc84b04124bb47c24b39a48c9023b1", null ],
-    [ "GetAI", "d4/dca/a20708.html#a7715ce6646efa3728c28c4e11b25c2ed", null ]
+    [ "boss_razorscaleAI", "d4/dca/a20708.html#ab7675cd43308d3c8b94eeca6eb89b5cb", null ],
+    [ "AttackStart", "d4/dca/a20708.html#ad281280a12b6643ff0697b8d0b33c3f8", null ],
+    [ "DamageTaken", "d4/dca/a20708.html#a9dcc80f9d2ea5f4775810dc162ac6bc9", null ],
+    [ "EnterEvadeMode", "d4/dca/a20708.html#a50883ae190fdfd46741aea8a94979410", null ],
+    [ "GetData", "d4/dca/a20708.html#ab84075a936809baf26012a0394800c3f", null ],
+    [ "InitializeAI", "d4/dca/a20708.html#ad4b63a06118ab7e42d24472934ce2ba0", null ],
+    [ "JustDied", "d4/dca/a20708.html#a5a5b44268cbce32fd17fbb6b6a45d831", null ],
+    [ "JustEngagedWith", "d4/dca/a20708.html#a9c2c742085aba81b5956a33a6fb77bbe", null ],
+    [ "JustReachedHome", "d4/dca/a20708.html#a7ec2cacb11fae5612370b29abc2fcd21", null ],
+    [ "JustSummoned", "d4/dca/a20708.html#ac93176401f20a403c8531045965ac86c", null ],
+    [ "KilledUnit", "d4/dca/a20708.html#a09e8978f107b0cd96096f9546984cfb2", null ],
+    [ "MoveInLineOfSight", "d4/dca/a20708.html#afd0ae4b42713025f7f87e522249dad85", null ],
+    [ "MovementInform", "d4/dca/a20708.html#a22a2c951ed4cec3c8865c99d837b97be", null ],
+    [ "Reset", "d4/dca/a20708.html#adb797a39e30e8ca75eb6ef4d3e14c814", null ],
+    [ "SpellHit", "d4/dca/a20708.html#a3b41060477d92a06e66446e4d63437c8", null ],
+    [ "UpdateAI", "d4/dca/a20708.html#ab288ade9a17929fa7463721932e41c8d", null ],
+    [ "bGroundPhase", "d4/dca/a20708.html#a150411c707fdd94619ca67db6c428ca3", null ],
+    [ "CommanderGUID", "d4/dca/a20708.html#a38f5e560d24717030e8ee755f10b484b", null ],
+    [ "cords", "d4/dca/a20708.html#a5cf071dc764dff1b710efd72a718454e", null ],
+    [ "events", "d4/dca/a20708.html#ab67bf8ff144f42bd99876ec031288ff3", null ],
+    [ "ExpeditionEngineerGUIDs", "d4/dca/a20708.html#ab5de17b2186e27faa1bd7846f6e75940", null ],
+    [ "flyTimes", "d4/dca/a20708.html#aa66ecf253f3c10f1549c08da5727d710", null ],
+    [ "pInstance", "d4/dca/a20708.html#a1c2b35438f0cc9cfc8b6fe306b7dbbd1", null ],
+    [ "startPath", "d4/dca/a20708.html#a1e07d9184b25fa836c4b17d6626a17fc", null ],
+    [ "summons", "d4/dca/a20708.html#a392e92bec13ba5fcca29a4bcf6119989", null ]
 ];

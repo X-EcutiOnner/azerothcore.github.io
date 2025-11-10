@@ -1,7 +1,8 @@
 var a18896 =
 [
-    [ "npc_impaling_spearAI", "d3/d7d/a18896.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
-    [ "Reset", "d3/d7d/a18896.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
-    [ "UpdateAI", "d3/d7d/a18896.html#acb187a58b0ba256b4e003655ac36db34", null ],
-    [ "_vehicleCheckTimer", "d3/d7d/a18896.html#a264874b9f6f0609792d4b3a325e54f59", null ]
+    [ "CountTargets", "d3/d7d/a18896.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "d3/d7d/a18896.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "d3/d7d/a18896.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "d3/d7d/a18896.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "d3/d7d/a18896.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

@@ -1,7 +1,8 @@
 var a18492 =
 [
-    [ "CheckTargetCount", "d6/d50/a18492.html#a637ba0717ae0f6f736f5532ed65ca301", null ],
-    [ "PrepareSpellScript", "d6/d50/a18492.html#af560e5c4e985e9b139999f5ef618fe3c", null ],
-    [ "Register", "d6/d50/a18492.html#a86e7512496fd38201d458c03a7a60296", null ],
-    [ "Validate", "d6/d50/a18492.html#a744c4aa76387be4aa76a69fbcaa7932e", null ]
+    [ "ChangeDamageAndGrow", "d6/d50/a18492.html#a017ade08eca93f326d2e5115c4d88c33", null ],
+    [ "CorrectRange", "d6/d50/a18492.html#a9022b9efab89bc562428520b3551ff37", null ],
+    [ "PrepareSpellScript", "d6/d50/a18492.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
+    [ "Register", "d6/d50/a18492.html#a998b810cdbecbca2bf65f18cee14d286", null ],
+    [ "Validate", "d6/d50/a18492.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
 ];

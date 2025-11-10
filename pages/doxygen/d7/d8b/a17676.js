@@ -1,7 +1,7 @@
 var a17676 =
 [
-    [ "HandleDummy", "d7/d8b/a17676.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "d7/d8b/a17676.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "d7/d8b/a17676.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "d7/d8b/a17676.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "npc_icc_blood_beastAI", "d7/d8b/a17676.html#af52eff9f66451444c5acba6930c1bff6", null ],
+    [ "DoAction", "d7/d8b/a17676.html#a5de6e46fd21fd073fde2f0aaa5dc947a", null ],
+    [ "UpdateAI", "d7/d8b/a17676.html#ac9da073c33dd33097f03ca35d36ea15e", null ],
+    [ "timer1", "d7/d8b/a17676.html#a1074059162f818088808795119f081be", null ]
 ];

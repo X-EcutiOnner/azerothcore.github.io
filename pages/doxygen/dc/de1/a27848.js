@@ -1,6 +1,8 @@
 var a27848 =
 [
-    [ "npc_garments_of_questsAI", "d2/d94/a27852.html", "d2/d94/a27852" ],
-    [ "npc_garments_of_quests", "dc/de1/a27848.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "dc/de1/a27848.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "npc_wormholeAI", "d2/d94/a27852.html", "d2/d94/a27852" ],
+    [ "npc_wormhole", "dc/de1/a27848.html#aeace4cbf665409786b86140709191cb0", null ],
+    [ "GetAI", "dc/de1/a27848.html#af43ec809ce2efe2cd7127029f3c3ec45", null ],
+    [ "OnGossipHello", "dc/de1/a27848.html#a6ae1a84557f8dc0f0631b9cc7e88d78e", null ],
+    [ "OnGossipSelect", "dc/de1/a27848.html#a73e441bf05f8a4ea7f57d767945e2d5d", null ]
 ];

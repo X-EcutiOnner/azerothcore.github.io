@@ -1,7 +1,8 @@
 var a13508 =
 [
-    [ "CorruptTriggers", "db/de7/a13508.html#a225cafcce56db7d4aefd3fb75ed2533f", null ],
-    [ "Execute", "db/de7/a13508.html#a9929f3518f307e0b753782967f06c6c1", null ],
-    [ "_caster", "db/de7/a13508.html#a2b9e4c3d292b7e3deea57e1542b3ba12", null ],
-    [ "_currentLane", "db/de7/a13508.html#a53e4c60e29f59aa91e059d50e470a22a", null ]
+    [ "FilterTargets", "db/de7/a13508.html#ac7f7287b88cde82fbf8a625f002c86fa", null ],
+    [ "HandleAfterCast", "db/de7/a13508.html#aa28714ce9ac251fe7c3bdec17b47deb3", null ],
+    [ "Load", "db/de7/a13508.html#aecfa38940ea3dd287179bdef3d290487", null ],
+    [ "PrepareSpellScript", "db/de7/a13508.html#a222e2c8e5401c132e89b29bbd22d46a6", null ],
+    [ "Register", "db/de7/a13508.html#a1a3607dd7e3d56bde3b92cbf4bcd0e78", null ]
 ];

@@ -1,6 +1,5 @@
 var a23408 =
 [
-    [ "HandleScriptEffect", "dc/db0/a23408.html#a18fb2e73a00f1de7c62049eadfcbc658", null ],
-    [ "PrepareSpellScript", "dc/db0/a23408.html#ae80b4ca96692035c399d1621b632fe66", null ],
-    [ "Register", "dc/db0/a23408.html#ac655157c74104a51f045e114fc63a42d", null ]
+    [ "go_strange_pool", "dc/db0/a23408.html#aa44feb353ad1cb440e5b6707112af680", null ],
+    [ "OnGossipHello", "dc/db0/a23408.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
 ];

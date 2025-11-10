@@ -1,6 +1,7 @@
 var a22552 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "d3/d3a/a22552.html#afd54b130725aa724b80f150f968ce09d", null ],
-    [ "MovementInform", "d3/d3a/a22552.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
-    [ "PassengerBoarded", "d3/d3a/a22552.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
+    [ "npc_wg_quest_giver", "d3/d3a/a22552.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "d3/d3a/a22552.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "d3/d3a/a22552.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "d3/d3a/a22552.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

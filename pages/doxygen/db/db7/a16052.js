@@ -1,6 +1,8 @@
 var a16052 =
 [
-    [ "ModDestHeight", "db/db7/a16052.html#a8bda9327c4244af41c513528ad5c818c", null ],
-    [ "PrepareSpellScript", "db/db7/a16052.html#aba5a03c94fa5d87c46a91369875c0ab2", null ],
-    [ "Register", "db/db7/a16052.html#a62b0ce71caeff96705b15aa240ddd09f", null ]
+    [ "instance_ahnkahet_InstanceScript", "db/db7/a16052.html#aa9a72f2f757d0b3065a6e4e25b14e86d", null ],
+    [ "IsAllSpheresActivated", "db/db7/a16052.html#a048a2b16ae9917c7edc9bf7023986ac3", null ],
+    [ "OnGameObjectCreate", "db/db7/a16052.html#ad00fdc90a61e1c927323daa2149f8466", null ],
+    [ "SetData", "db/db7/a16052.html#a8986038a2f25b16b9ab8ba4d41b5221a", null ],
+    [ "taldaramPlatform_GUID", "db/db7/a16052.html#a840ce69595c384be321c1167513d151e", null ]
 ];

@@ -1,6 +1,7 @@
 var a24492 =
 [
-    [ "npc_zephyr", "d7/de9/a24492.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
-    [ "OnGossipHello", "d7/de9/a24492.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
-    [ "OnGossipSelect", "d7/de9/a24492.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
+    [ "HandleEffectRemove", "d7/de9/a24492.html#a317c238b165ad331beb447ea5d0de7e1", null ],
+    [ "PrepareAuraScript", "d7/de9/a24492.html#a7481f017a1382eb75e0101cb49fb4fcf", null ],
+    [ "Register", "d7/de9/a24492.html#a13fdde1557249328306a57e159d821a7", null ],
+    [ "Validate", "d7/de9/a24492.html#a58a383bd4e3062a5c5b1df97192b4b7e", null ]
 ];

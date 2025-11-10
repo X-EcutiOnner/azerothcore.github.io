@@ -1,5 +1,8 @@
 var a13908 =
 [
-    [ "npc_king_varian_wrynn", "d3/d37/a13908.html#a33b7c492a7435b3f80e508be9e3440e9", null ],
-    [ "OnQuestReward", "d3/d37/a13908.html#a1255cca95a7a2b039702b30db377a19f", null ]
+    [ "npc_varian_wrynnAI", "da/d9a/a13912.html", "da/d9a/a13912" ],
+    [ "npc_varian_wrynn", "d3/d37/a13908.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "d3/d37/a13908.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "d3/d37/a13908.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "d3/d37/a13908.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

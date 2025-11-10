@@ -1,11 +1,7 @@
 var a27844 =
 [
-    [ "npc_injured_patientAI", "d0/d30/a27844.html#a0973487623f1771c598648bc06a6d9a3", null ],
-    [ "JustEngagedWith", "d0/d30/a27844.html#a621a8cc3f6b9655760431d52766ca589", null ],
-    [ "Reset", "d0/d30/a27844.html#a007c9c7a4047374574cad17e9309d7c1", null ],
-    [ "SpellHit", "d0/d30/a27844.html#ac9381e7c958348ae7a5e98fea7dcbe37", null ],
-    [ "UpdateAI", "d0/d30/a27844.html#a54d0a5574175747779878dce0ebfd44f", null ],
-    [ "_scheduler", "d0/d30/a27844.html#a60428fa97c8f6520338d53ed368c4c35", null ],
-    [ "Coord", "d0/d30/a27844.html#af5a6f87c0379edd07a8756018b0c8661", null ],
-    [ "DoctorGUID", "d0/d30/a27844.html#ad1de0d556a784aa16d87b8367fdb38e3", null ]
+    [ "npc_steam_tonkAI", "d0/d30/a27844.html#a64bc74af412304d50526e5c93e01a333", null ],
+    [ "JustEngagedWith", "d0/d30/a27844.html#a95b023adf0a2e62788e0d5646b17b319", null ],
+    [ "OnPossess", "d0/d30/a27844.html#a954208c1a9826ae84a7402f59e1d7055", null ],
+    [ "Reset", "d0/d30/a27844.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
 ];

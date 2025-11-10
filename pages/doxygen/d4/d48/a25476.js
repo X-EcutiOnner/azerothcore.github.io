@@ -1,6 +1,8 @@
 var a25476 =
 [
-    [ "CheckRequirement", "d4/d48/a25476.html#adb3212ff52b5ad9ae2ce824dd1cf018a", null ],
-    [ "PrepareSpellScript", "d4/d48/a25476.html#aebb88f5ea803a590a099e4e6427d8276", null ],
-    [ "Register", "d4/d48/a25476.html#a18406f867561f9baf5a4cee8ce8ea59a", null ]
+    [ "HandleApply", "d4/d48/a25476.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
+    [ "OnPeriodic", "d4/d48/a25476.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
+    [ "PrepareAuraScript", "d4/d48/a25476.html#a344d1a92623865876174c0e88ce8ab4b", null ],
+    [ "Register", "d4/d48/a25476.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
+    [ "Validate", "d4/d48/a25476.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
 ];

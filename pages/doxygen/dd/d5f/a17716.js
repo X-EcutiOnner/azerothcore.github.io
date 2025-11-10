@@ -1,8 +1,6 @@
 var a17716 =
 [
-    [ "HandleHit", "dd/d5f/a17716.html#ace9793d64d5378ef33bf30e8d0be8bd6", null ],
-    [ "HandleScript", "dd/d5f/a17716.html#a5fe0b684473bd5dd1ff9b12432ff3de8", null ],
-    [ "Load", "dd/d5f/a17716.html#ab1d81386ae3ccd332c01864d7f456017", null ],
-    [ "PrepareSpellScript", "dd/d5f/a17716.html#ae3ef753ff4c99aa8bed20ce3369a7e0f", null ],
-    [ "Register", "dd/d5f/a17716.html#a7edb44f70501c2e760d29c8f78a4e087", null ]
+    [ "Cooldown", "dd/d5f/a17716.html#ac2f21814be8269023a2069f3eb03dfe2", null ],
+    [ "Entry", "dd/d5f/a17716.html#a28ff8bdab669f7b4aec95857cc460a2f", null ],
+    [ "TargetPosition", "dd/d5f/a17716.html#ac47af49622012b4ad40357cadc5214b3", null ]
 ];

@@ -1,12 +1,8 @@
 var a23788 =
 [
-    [ "boss_watchkeeper_gargolmar", "d8/d00/a23788.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
-    [ "JustDied", "d8/d00/a23788.html#a39be5796b39bea913105fc48dda0d186", null ],
-    [ "JustEngagedWith", "d8/d00/a23788.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
-    [ "KilledUnit", "d8/d00/a23788.html#a22736c2680f41cfd3443a76cd4de9352", null ],
-    [ "MoveInLineOfSight", "d8/d00/a23788.html#adec9837fdb2595ce57acffb279a7d011", null ],
-    [ "Reset", "d8/d00/a23788.html#a356b7fe9071b073b74b21913e35e7408", null ],
-    [ "UpdateAI", "d8/d00/a23788.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
-    [ "_hasSpoken", "d8/d00/a23788.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
-    [ "_taunted", "d8/d00/a23788.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
+    [ "HandleDummyApply", "d8/d00/a23788.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
+    [ "HandleDummyRemove", "d8/d00/a23788.html#a368376fe4262815b9b9a9811178cec6d", null ],
+    [ "HandlePeriodicRemove", "d8/d00/a23788.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
+    [ "PrepareAuraScript", "d8/d00/a23788.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
+    [ "Register", "d8/d00/a23788.html#afeb47a40cfea3d958fee7a410e83857f", null ]
 ];

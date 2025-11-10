@@ -1,10 +1,7 @@
 var a26832 =
 [
-    [ "Absorb", "d4/d38/a26832.html#aedee311aa77597674b3665eaf74e98c8", null ],
-    [ "CalculateAmount", "d4/d38/a26832.html#a5fdabb367ab86589d733d1da906446ab", null ],
-    [ "Load", "d4/d38/a26832.html#a7418b17f23b9eeacceb0970df3cb1d99", null ],
-    [ "PrepareAuraScript", "d4/d38/a26832.html#a1de52fae7a5ed3eeeb46be11eb2eac21", null ],
-    [ "Register", "d4/d38/a26832.html#abfc540163e9eb34cbf8a48d39bede840", null ],
-    [ "Validate", "d4/d38/a26832.html#a6cca564b6d13063ce7cd72ed8b6adf67", null ],
-    [ "absorbChance", "d4/d38/a26832.html#a293be81af42d810126eda35b1d27e3bc", null ]
+    [ "CalculateAmount", "d4/d38/a26832.html#aefeab4e58c1b5c1be87f583256d366f5", null ],
+    [ "Load", "d4/d38/a26832.html#ae2ef0eae77137c120ec61af8698677db", null ],
+    [ "PrepareAuraScript", "d4/d38/a26832.html#acaecc78c031aa436f432fd7145478de4", null ],
+    [ "Register", "d4/d38/a26832.html#afd27c8bc5fd1628b7e32bf464bfe3d48", null ]
 ];

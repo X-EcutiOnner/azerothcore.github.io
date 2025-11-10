@@ -1,6 +1,9 @@
 var a14412 =
 [
-    [ "HandleEffectRemove", "d9/d67/a14412.html#a8d5d43ae12fb6d65029008eadd56973a", null ],
-    [ "PrepareAuraScript", "d9/d67/a14412.html#abe527a7a4fda32c833f4762e82e2bd3d", null ],
-    [ "Register", "d9/d67/a14412.html#aa436788f638fedacb217ca508da5f426", null ]
+    [ "npc_brew_bubble", "d9/d67/a14412.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
+    [ "DoAction", "d9/d67/a14412.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
+    [ "MoveInLineOfSight", "d9/d67/a14412.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
+    [ "Reset", "d9/d67/a14412.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
+    [ "UpdateAI", "d9/d67/a14412.html#a25018deaa206620f6e98ba722f689b8d", null ],
+    [ "timer", "d9/d67/a14412.html#a4bee73add756ba4b3137818b2dacd27f", null ]
 ];

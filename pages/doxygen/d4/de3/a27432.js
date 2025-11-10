@@ -1,7 +1,5 @@
 var a27432 =
 [
-    [ "HandlePeriodic", "d4/de3/a27432.html#a3da4cc5322f2e34244729fe3b3876482", null ],
-    [ "PrepareAuraScript", "d4/de3/a27432.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
-    [ "Register", "d4/de3/a27432.html#a53b6067f46912648413fc6d6f107b0d8", null ],
-    [ "Validate", "d4/de3/a27432.html#aa03222717b3c06316b232a6ac0270ec0", null ]
+    [ "go_arena_ready_marker", "d4/de3/a27432.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
+    [ "OnGossipHello", "d4/de3/a27432.html#a9f51ead2b56d51427ff23be9688388d8", null ]
 ];

@@ -1,7 +1,6 @@
 var a22444 =
 [
-    [ "HandleSendEvent", "de/dd9/a22444.html#afd34935d8ab7d66589ca3c99ba0bfe48", null ],
-    [ "PrepareSpellScript", "de/dd9/a22444.html#af698a946e07235c18c8b785a1f775ec9", null ],
-    [ "Register", "de/dd9/a22444.html#a3f6a7e6265221e9536728256f1ec88c0", null ],
-    [ "Validate", "de/dd9/a22444.html#a72d441fdeb7e2fdc37ab9868f9f8ee04", null ]
+    [ "npc_iron_watcherAI", "df/dec/a22448.html", "df/dec/a22448" ],
+    [ "npc_iron_watcher", "de/dd9/a22444.html#a174e19241ca6cd1619fbae074d11c8ba", null ],
+    [ "GetAI", "de/dd9/a22444.html#af3b80b838e192737762ceed599b0be9a", null ]
 ];

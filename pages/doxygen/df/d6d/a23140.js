@@ -1,12 +1,12 @@
 var a23140 =
 [
-    [ "boss_essence_of_angerAI", "df/d6d/a23140.html#a25eed717395b4e1ca5504d2d473e2500", null ],
-    [ "DoAction", "df/d6d/a23140.html#a81576aaf465dfc99d199aaf6a182df52", null ],
-    [ "JustDied", "df/d6d/a23140.html#a997d75ad388e790f9863e1b15fa1c899", null ],
-    [ "JustEngagedWith", "df/d6d/a23140.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
-    [ "KilledUnit", "df/d6d/a23140.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
-    [ "Reset", "df/d6d/a23140.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
-    [ "UpdateAI", "df/d6d/a23140.html#a67e9f5a361894aa227f2a74f9222740d", null ],
-    [ "_recentlySpoken", "df/d6d/a23140.html#a056aa8fd704d832e83735cf2a1a22888", null ],
-    [ "targetGUID", "df/d6d/a23140.html#adc3867a4446375f1217809299f3dd9bb", null ]
+    [ "boss_shade_of_akama", "df/d6d/a23140.html#a385bf995d19652254d6ae8a447c23c37", null ],
+    [ "EnterEvadeMode", "df/d6d/a23140.html#a690f8058fb4358b98960177d76864275", null ],
+    [ "JustDied", "df/d6d/a23140.html#aa22052befeb48c0c7ec3a3cedd91daff", null ],
+    [ "MovementInform", "df/d6d/a23140.html#a345707efebd5027c01a25a563d1e6f43", null ],
+    [ "Reset", "df/d6d/a23140.html#a19a1aca1a599704612ac845001895b4f", null ],
+    [ "SpellHit", "df/d6d/a23140.html#a5a49f0dab7ce6ee81b9ed8deb5704720", null ],
+    [ "UpdateAI", "df/d6d/a23140.html#a25ffed5526b1f25eb1cf790745e2a7c7", null ],
+    [ "channelers", "df/d6d/a23140.html#a63372527172d3f96f533b5776221c2e7", null ],
+    [ "generators", "df/d6d/a23140.html#a3ebaa870a9c3c9b5a0590b8cdc32d857", null ]
 ];

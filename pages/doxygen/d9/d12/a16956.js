@@ -1,6 +1,8 @@
 var a16956 =
 [
-    [ "instance_drak_tharon_keep_InstanceScript", "d4/da9/a16960.html", "d4/da9/a16960" ],
-    [ "instance_drak_tharon_keep", "d9/d12/a16956.html#a1f375185dba1619fee36160549eb91f4", null ],
-    [ "GetInstanceScript", "d9/d12/a16956.html#aca6364452dc39e747af152695d479bf8", null ]
+    [ "npc_fos_corrupted_soul_fragmentAI", "d9/d12/a16956.html#a61797329ecddde6da2e23e951fa92ca2", null ],
+    [ "Reset", "d9/d12/a16956.html#a5bb03371b24593ca2de995bf85857782", null ],
+    [ "UpdateAI", "d9/d12/a16956.html#ac6e651186c5edfd8e5279ddd38a15eb9", null ],
+    [ "pInstance", "d9/d12/a16956.html#a6ced23b3b4150b31020a636559d6eec6", null ],
+    [ "timer", "d9/d12/a16956.html#aa19c9928e3979bb01d89dc81b8feb4fc", null ]
 ];

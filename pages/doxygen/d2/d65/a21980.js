@@ -1,12 +1,7 @@
 var a21980 =
 [
-    [ "npc_wintergarde_gryphon", "d2/d65/a21980.html#ada46ecdbc8c3a33a7b3ce09296c0db72", null ],
-    [ "getVillager", "d2/d65/a21980.html#a7f20f5e124e013ad8f57ca31b9fb86d7", null ],
-    [ "IsSummonedBy", "d2/d65/a21980.html#acd7cea6226034d53b854c5ed659ff949", null ],
-    [ "JustDied", "d2/d65/a21980.html#a6c87d55ef29e14b4b8b87a0321179542", null ],
-    [ "MovementInform", "d2/d65/a21980.html#a8f2faf49533d27d971110681e050c060", null ],
-    [ "PassengerBoarded", "d2/d65/a21980.html#a16c01d26aef06358f979f59fe68c09ca", null ],
-    [ "SpellHit", "d2/d65/a21980.html#acf64143ea83321556156fde30e1a34d4", null ],
-    [ "UpdateAI", "d2/d65/a21980.html#aa161f280e7a7370696cecc27c51ee55c", null ],
-    [ "villagerGUID", "d2/d65/a21980.html#a56a7973a05061197192111ecf55ef14a", null ]
+    [ "HandleApplyEffect", "d2/d65/a21980.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
+    [ "HandleRemoveEffect", "d2/d65/a21980.html#a243933fec9ccd650303ea5badbea725b", null ],
+    [ "PrepareAuraScript", "d2/d65/a21980.html#ac0e1fc0694dd51e245340d3658592447", null ],
+    [ "Register", "d2/d65/a21980.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
 ];

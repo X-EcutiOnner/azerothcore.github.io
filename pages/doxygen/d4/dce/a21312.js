@@ -1,7 +1,6 @@
 var a21312 =
 [
-    [ "HandleOnEffectRemove", "d4/dce/a21312.html#acccd790c53f567f93e64afa7b7d1fe6f", null ],
-    [ "PrepareAuraScript", "d4/dce/a21312.html#a72e6468602d40eb479a80c611d60eb2e", null ],
-    [ "Register", "d4/dce/a21312.html#a213b50ebb7ce248a36dd78167d1190bb", null ],
-    [ "Validate", "d4/dce/a21312.html#a8f3ec40c0c2e38dc32db30ce36129684", null ]
+    [ "npc_ravenous_furbolgAI", "d1/d1d/a21316.html", "d1/d1d/a21316" ],
+    [ "npc_ravenous_furbolg", "d4/dce/a21312.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "d4/dce/a21312.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

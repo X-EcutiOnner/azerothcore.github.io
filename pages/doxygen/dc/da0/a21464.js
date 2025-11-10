@@ -1,7 +1,6 @@
 var a21464 =
 [
-    [ "HandleDummy", "dc/da0/a21464.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
-    [ "PrepareSpellScript", "dc/da0/a21464.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
-    [ "Register", "dc/da0/a21464.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
-    [ "Validate", "dc/da0/a21464.html#a92f99501ee1582873586d2405b224f4f", null ]
+    [ "npc_frozen_orb_stalkerAI", "db/d00/a21468.html", "db/d00/a21468" ],
+    [ "npc_frozen_orb_stalker", "dc/da0/a21464.html#a7f025c829106aa6668427f913d07a722", null ],
+    [ "GetAI", "dc/da0/a21464.html#af33e27138a70286bac561113ed09f350", null ]
 ];

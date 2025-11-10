@@ -1,7 +1,11 @@
 var a14888 =
 [
-    [ "hyjalJainaAI", "d5/d9b/a14892.html", "d5/d9b/a14892" ],
-    [ "npc_hyjal_jaina", "d2/d55/a14888.html#a6616aa6c38818770610259312a392a3f", null ],
-    [ "GetAI", "d2/d55/a14888.html#ab1891f5a2aacf5d9aeb9377bd92393ed", null ],
-    [ "OnGossipSelect", "d2/d55/a14888.html#a47853fa317b1a9325fcbe555867139f6", null ]
+    [ "npc_hyjal_ground_trash", "d2/d55/a14888.html#a06b590bf9ef983b1ef2b94058144fc7d", null ],
+    [ "AttackStart", "d2/d55/a14888.html#a0ab86d651644dcc579585176c2b5c07e", null ],
+    [ "DoAction", "d2/d55/a14888.html#aa92481bcf993c4eda5ef271145200d77", null ],
+    [ "GetNearbyFriendlyTrashCreature", "d2/d55/a14888.html#ad94fe6d4dca64fa8eec183481f82bb39", null ],
+    [ "JustEngagedWith", "d2/d55/a14888.html#a576b909d65ae862af5dcc6500d2ff7e1", null ],
+    [ "PathEndReached", "d2/d55/a14888.html#a035610284a56e690200f978b0fd496ab", null ],
+    [ "Reset", "d2/d55/a14888.html#aa38b45f63841c049a2add0a9832268ef", null ],
+    [ "UpdateAI", "d2/d55/a14888.html#a91b3ee049bf199271618afd3ad0c5f77", null ]
 ];

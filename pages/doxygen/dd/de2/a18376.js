@@ -1,6 +1,6 @@
 var a18376 =
 [
-    [ "PeriodicTick", "dd/de2/a18376.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
-    [ "PrepareAuraScript", "dd/de2/a18376.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
-    [ "Register", "dd/de2/a18376.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
+    [ "VileSpiritActivateEvent", "dd/de2/a18376.html#ac7d37d3b7b3173015a2af9ce93b8f2f9", null ],
+    [ "Execute", "dd/de2/a18376.html#a858892424e1f22fda9a7c519b6a7e0b6", null ],
+    [ "_owner", "dd/de2/a18376.html#a385fc75b5d77d8776d5a8e948fa69724", null ]
 ];

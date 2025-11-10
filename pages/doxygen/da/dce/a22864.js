@@ -1,8 +1,11 @@
 var a22864 =
 [
-    [ "npc_anzu_spirit", "da/dce/a22864.html#adb1b66d6bf6ec1991465f85a504397d5", null ],
-    [ "IsSummonedBy", "da/dce/a22864.html#a26f0928593f75d242c8bbcc541f7b59b", null ],
-    [ "Reset", "da/dce/a22864.html#acef3f7093f93b6c227d145523cdc487a", null ],
-    [ "UpdateAI", "da/dce/a22864.html#a9866d91ffc04548a96cfcdc3a5c7496a", null ],
-    [ "_scheduler", "da/dce/a22864.html#ad14937df9ddddabcf96e2d1104ca153c", null ]
+    [ "boss_blackheart_the_inciter", "da/dce/a22864.html#a772b2b4574fa6ccd445924193985859b", null ],
+    [ "EnterEvadeMode", "da/dce/a22864.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
+    [ "JustDied", "da/dce/a22864.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
+    [ "JustEngagedWith", "da/dce/a22864.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
+    [ "KilledUnit", "da/dce/a22864.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
+    [ "Reset", "da/dce/a22864.html#add75633d1c04d0be91e7e80f28213917", null ],
+    [ "UpdateAI", "da/dce/a22864.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
+    [ "InciteChaos", "da/dce/a22864.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
 ];

@@ -1,7 +1,7 @@
 var a14788 =
 [
-    [ "HandleScript", "d7/d14/a14788.html#adc8ab610e3b816dcce57fe44b6585bdb", null ],
-    [ "PrepareSpellScript", "d7/d14/a14788.html#a05059d25127cd8d3aa51e4374963f9d9", null ],
-    [ "Register", "d7/d14/a14788.html#aabe7d4213bbafdb6d072ba50bcfd1793", null ],
-    [ "Validate", "d7/d14/a14788.html#aa1e74de390a8b71e43e43664981a36ff", null ]
+    [ "boss_azuregosAI", "d2/d50/a14792.html", "d2/d50/a14792" ],
+    [ "boss_azuregos", "d7/d14/a14788.html#a48590db0037870ca5c9425a468e5ea3a", null ],
+    [ "GetAI", "d7/d14/a14788.html#a3ea1fd967b8ab158a9b2bb5cdd7dcf83", null ],
+    [ "OnGossipSelect", "d7/d14/a14788.html#a73220e54a3a53931e740f3c53c3bf20c", null ]
 ];

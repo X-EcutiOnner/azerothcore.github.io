@@ -1,7 +1,8 @@
 var a20136 =
 [
-    [ "npc_storm_beacon_spawnAI", "d6/d0f/a20136.html#a031c1941f177a18af58efcf4a1270654", null ],
-    [ "UpdateAI", "d6/d0f/a20136.html#a249bf56b905ef0c8b34c737d95518c91", null ],
-    [ "_amount", "d6/d0f/a20136.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
-    [ "_checkTimer", "d6/d0f/a20136.html#a7fd6d449b6a20ba9463896244c513a67", null ]
+    [ "FilterTargets", "d6/d0f/a20136.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
+    [ "HandleScript", "d6/d0f/a20136.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
+    [ "PrepareSpellScript", "d6/d0f/a20136.html#aea46762f43b31923617f740e0545fe98", null ],
+    [ "Register", "d6/d0f/a20136.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
+    [ "Validate", "d6/d0f/a20136.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
 ];

@@ -1,7 +1,6 @@
 var a27864 =
 [
-    [ "npc_sayge", "d7/d20/a27864.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
-    [ "OnGossipHello", "d7/d20/a27864.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
-    [ "OnGossipSelect", "d7/d20/a27864.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
-    [ "SendAction", "d7/d20/a27864.html#aed1988335672423d024546654aa95298", null ]
+    [ "npc_locksmith", "d7/d20/a27864.html#af959a6395ebc33109405f18f262e4ecb", null ],
+    [ "OnGossipHello", "d7/d20/a27864.html#aec977cf39f11a7bc2f13c2bde8e97351", null ],
+    [ "OnGossipSelect", "d7/d20/a27864.html#a62ec02e226255ff1f81895391a6494b8", null ]
 ];

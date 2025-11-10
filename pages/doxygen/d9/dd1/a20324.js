@@ -1,7 +1,7 @@
 var a20324 =
 [
-    [ "npc_ulduar_saronite_vaporsAI", "d9/dd1/a20324.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
-    [ "IsSummonedBy", "d9/dd1/a20324.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
-    [ "JustDied", "d9/dd1/a20324.html#a5be637500e7b5735d90e19fa40fde467", null ],
-    [ "pInstance", "d9/dd1/a20324.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
+    [ "HandleAfterHit", "d9/dd1/a20324.html#a75953cbb3a288fd373e602ed07d84441", null ],
+    [ "PrepareSpellScript", "d9/dd1/a20324.html#a55c604f072fd0bbdcb886635fb53eaa8", null ],
+    [ "Register", "d9/dd1/a20324.html#af963f0dcdf2a1bc040a597c06983f0a7", null ],
+    [ "Validate", "d9/dd1/a20324.html#aea2b951dd2353800958f654df58d8fd8", null ]
 ];

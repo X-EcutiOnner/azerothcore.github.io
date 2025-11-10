@@ -1,7 +1,9 @@
 var a26680 =
 [
-    [ "HandleScript", "d8/de4/a26680.html#a1b20a7fb4487876f305aa3a8d493ed17", null ],
-    [ "PrepareSpellScript", "d8/de4/a26680.html#a5ac848029ef03f6779cf094f4b80dd24", null ],
-    [ "Register", "d8/de4/a26680.html#a3d378e0eac09b00792b293b2cd7f3192", null ],
-    [ "Validate", "d8/de4/a26680.html#a36963610ad939ec36848ff70185f47a2", null ]
+    [ "CheckCast", "d8/de4/a26680.html#ae99a2b4b582c8a2c8921b8921400ffbe", null ],
+    [ "HandleActiveObject", "d8/de4/a26680.html#a79a51387f0a515ed07fcc1ac9e428290", null ],
+    [ "HandleDummy", "d8/de4/a26680.html#a39dd06ae92d04060ee41897318a701fd", null ],
+    [ "Load", "d8/de4/a26680.html#a76fff3a9d20f48e4814ee0f258be07b8", null ],
+    [ "PrepareSpellScript", "d8/de4/a26680.html#a016e480d7b2267c9bf824c9cb029f134", null ],
+    [ "Register", "d8/de4/a26680.html#aa05d48c35f748d93f5d8ff1defe2d3c9", null ]
 ];

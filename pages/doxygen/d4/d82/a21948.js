@@ -1,6 +1,6 @@
 var a21948 =
 [
-    [ "npc_hourglass_of_eternityAI", "de/d72/a21952.html", "de/d72/a21952" ],
-    [ "npc_hourglass_of_eternity", "d4/d82/a21948.html#a40500ff582ead06bd646be86baad7d35", null ],
-    [ "GetAI", "d4/d82/a21948.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d4/d82/a21948.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
+    [ "MovementInform", "d4/d82/a21948.html#a999bc868db485578fcc70ae7e056b778", null ],
+    [ "Reset", "d4/d82/a21948.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
 ];

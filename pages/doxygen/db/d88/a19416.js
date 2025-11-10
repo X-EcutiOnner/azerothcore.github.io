@@ -1,8 +1,5 @@
 var a19416 =
 [
-    [ "npc_teslaAI", "db/d88/a19416.html#a7281220648af1357b1377d6f7874d663", null ],
-    [ "DamageTaken", "db/d88/a19416.html#aa3ab570e86261bc3178e17109d76af12", null ],
-    [ "EnterEvadeMode", "db/d88/a19416.html#acc8115216989b34593a9435eeb051eda", null ],
-    [ "JustEngagedWith", "db/d88/a19416.html#add93f68bc96b3c93dc0a3271543711e6", null ],
-    [ "UpdateAI", "db/d88/a19416.html#a962745569b07e368067ee483d2379840", null ]
+    [ "at_naxxramas_hub_portal", "db/d88/a19416.html#a946086e8a4651240b84526a1b2d54065", null ],
+    [ "OnTrigger", "db/d88/a19416.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
 ];

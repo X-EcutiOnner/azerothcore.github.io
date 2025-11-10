@@ -1,7 +1,7 @@
 var a25368 =
 [
-    [ "CheckIfLanceEquipped", "d7/dad/a25368.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
-    [ "PrepareSpellScript", "d7/dad/a25368.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
-    [ "Register", "d7/dad/a25368.html#a4421ceaedce16777f8f04b9c40855782", null ],
-    [ "Validate", "d7/dad/a25368.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
+    [ "HandleStun", "d7/dad/a25368.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
+    [ "PrepareAuraScript", "d7/dad/a25368.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
+    [ "Register", "d7/dad/a25368.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
+    [ "Validate", "d7/dad/a25368.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
 ];

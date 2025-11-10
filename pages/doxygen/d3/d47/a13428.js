@@ -1,6 +1,6 @@
 var a13428 =
 [
-    [ "instance_sunken_temple_InstanceMapScript", "df/d95/a13432.html", "df/d95/a13432" ],
-    [ "instance_sunken_temple", "d3/d47/a13428.html#a123b052c1cd1487588c88bf2611bc53b", null ],
-    [ "GetInstanceScript", "d3/d47/a13428.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
+    [ "HandleActivateObject", "d3/d47/a13428.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
+    [ "PrepareSpellScript", "d3/d47/a13428.html#ad55914fdc6771e09a508572d59ad30ed", null ],
+    [ "Register", "d3/d47/a13428.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
 ];

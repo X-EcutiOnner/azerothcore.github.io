@@ -1,6 +1,7 @@
 var a20800 =
 [
-    [ "boss_thorimAI", "d5/dba/a20804.html", "d5/dba/a20804" ],
-    [ "boss_thorim", "d5/d37/a20800.html#a23a52a05aea5092cef8fe47be28b4bfb", null ],
-    [ "GetAI", "d5/d37/a20800.html#a70895451317569f50adc11474e653515", null ]
+    [ "boss_thorim_trapAI", "d5/d37/a20800.html#aaab278dc6557a49624099b0064b8d6f3", null ],
+    [ "Reset", "d5/d37/a20800.html#ab0715e75a475409ffb6c623bf363a65d", null ],
+    [ "UpdateAI", "d5/d37/a20800.html#a40078609a67aa029f71df7971449b056", null ],
+    [ "_checkTimer", "d5/d37/a20800.html#ad3ed8edb4d06e5b98a5afc82170f3233", null ]
 ];

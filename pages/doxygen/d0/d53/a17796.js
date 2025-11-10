@@ -1,6 +1,6 @@
 var a17796 =
 [
-    [ "npc_igb_ship_crewAI", "da/d0b/a17800.html", "da/d0b/a17800" ],
-    [ "npc_igb_ship_crew", "d0/d53/a17796.html#a5f4380aba94766a6a75b97026998b881", null ],
-    [ "GetAI", "d0/d53/a17796.html#a48955817e21a01a726b50685b467c229", null ]
+    [ "npc_gunship_boarding_add_realAI", "d0/d53/a17796.html#a829c3690ab0d5ad3f0a888cb6701692a", null ],
+    [ "UpdateAI", "d0/d53/a17796.html#a33ac355c8f61907574a0736a24cbee82", null ],
+    [ "_events", "d0/d53/a17796.html#acaea46d9523fa9fe59415b0b0834a2ba", null ]
 ];

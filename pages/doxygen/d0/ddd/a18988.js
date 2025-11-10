@@ -1,7 +1,6 @@
 var a18988 =
 [
-    [ "HandleDummy", "d0/ddd/a18988.html#a4bfc155129bd80c94b4b59474f30d748", null ],
-    [ "PrepareSpellScript", "d0/ddd/a18988.html#a9c72772f9d17b34562bd11418d67872d", null ],
-    [ "Register", "d0/ddd/a18988.html#a10c9f511da4eb366117d356c118408c6", null ],
-    [ "Validate", "d0/ddd/a18988.html#a655f2081d17c06c155641efc45efc1f8", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "d2/d28/a18992.html", "d2/d28/a18992" ],
+    [ "npc_icc_skybreaker_luminary", "d0/ddd/a18988.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
+    [ "GetAI", "d0/ddd/a18988.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
 ];

@@ -1,8 +1,7 @@
 var a24928 =
 [
-    [ "AfterRemove", "db/df2/a24928.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
-    [ "HandleDispel", "db/df2/a24928.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
-    [ "PrepareAuraScript", "db/df2/a24928.html#a44e66753516d693c31dba27c9d1ad250", null ],
-    [ "Register", "db/df2/a24928.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
-    [ "Validate", "db/df2/a24928.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
+    [ "CalculateAmount", "db/df2/a24928.html#a2ed00d02a1685bc8b66e9cdfd430d1ad", null ],
+    [ "Load", "db/df2/a24928.html#a7ba8da2fdc3bf18cd9925b280e60affa", null ],
+    [ "PrepareAuraScript", "db/df2/a24928.html#a93df43072a344485c389160306b1fecd", null ],
+    [ "Register", "db/df2/a24928.html#a6766b6ebbba04bc595373145e4eaaa7a", null ]
 ];

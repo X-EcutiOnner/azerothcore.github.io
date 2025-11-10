@@ -1,5 +1,5 @@
 var a28556 =
 [
-    [ "content", "d9/d38/a28556.html#a936eb07adb8a41480dfc196127b7e5c0", null ],
-    [ "ID", "d9/d38/a28556.html#a1a33aff67b979c3c7a76c26debb5fc25", null ]
+    [ "Id", "d9/d38/a28556.html#a44532f8af054ae5224f5e816c3c9a8a7", null ],
+    [ "PowerType", "d9/d38/a28556.html#ab6c17a5a3ba9f2f3a8fac125104703c4", null ]
 ];

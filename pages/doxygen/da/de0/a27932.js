@@ -1,9 +1,9 @@
 var a27932 =
 [
-    [ "npc_arcanite_dragonling", "da/de0/a27932.html#a9b7e4cefa312a16c90018d655ad94758", null ],
-    [ "CanAIAttack", "da/de0/a27932.html#a374e127ef749dc72ec70137bcd13a0b9", null ],
-    [ "IsSummonedBy", "da/de0/a27932.html#a921b35a91c4f21258efdb41fd87413db", null ],
-    [ "JustEngagedWith", "da/de0/a27932.html#a65f6d779681861117f750b70154b3e0d", null ],
-    [ "Reset", "da/de0/a27932.html#a4468d91430add821bf7a7ab11d8063da", null ],
-    [ "UpdateAI", "da/de0/a27932.html#aebe430b9a3079a5ccbfd979a74e532f3", null ]
+    [ "npc_necropolis_health", "da/de0/a27932.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
+    [ "DespawnNecropolis", "da/de0/a27932.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
+    [ "JustDied", "da/de0/a27932.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
+    [ "SpellHit", "da/de0/a27932.html#ad4a9f9b166ab8107a16da918082c6625", null ],
+    [ "SpellHitTarget", "da/de0/a27932.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
+    [ "_zapCount", "da/de0/a27932.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
 ];

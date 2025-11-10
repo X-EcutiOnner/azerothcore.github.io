@@ -1,7 +1,6 @@
 var a21180 =
 [
-    [ "HandleScriptEffect", "d4/d69/a21180.html#aae469190c1edc1fe45914bad1dac4e93", null ],
-    [ "PrepareSpellScript", "d4/d69/a21180.html#a1bced7e9364a1abb7b718b6786eada9f", null ],
-    [ "Register", "d4/d69/a21180.html#a97265071f226fbd17c37d432cf9e2350", null ],
-    [ "Validate", "d4/d69/a21180.html#aeec0bdd2e39db2da657247376ddcd195", null ]
+    [ "achievement_yogg_saron_he_waits_dreaming", "d4/d69/a21180.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
+    [ "OnCheck", "d4/d69/a21180.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
+    [ "_requiredIllusion", "d4/d69/a21180.html#aa3e107cb3be6fa02687709e07466a094", null ]
 ];

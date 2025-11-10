@@ -1,12 +1,6 @@
 var a19192 =
 [
-    [ "boss_faerlinaAI", "d4/d6a/a19192.html#a3a97178599b9053c23a079ed1a2ed163", null ],
-    [ "JustDied", "d4/d6a/a19192.html#a7ac2e510568a9dad710beaad42db0544", null ],
-    [ "JustEngagedWith", "d4/d6a/a19192.html#a830dfa4fed62b4588ea8866174d3653a", null ],
-    [ "KilledUnit", "d4/d6a/a19192.html#a6f7a6e66abcf4f4dd685bbb805920900", null ],
-    [ "MoveInLineOfSight", "d4/d6a/a19192.html#aa5cd735c22d46e1b756f87f3952033a1", null ],
-    [ "Reset", "d4/d6a/a19192.html#acee81492b9b751df587a3a2cdd691ab3", null ],
-    [ "SpellHit", "d4/d6a/a19192.html#aa4fac163e31dcd9353238f993259d5ec", null ],
-    [ "SummonHelpers", "d4/d6a/a19192.html#af2fbf866f87d568ee6028f0931d3b74e", null ],
-    [ "_introDone", "d4/d6a/a19192.html#a9febd1d69c27140ddd2ac018181c67ec", null ]
+    [ "NotOnSameSide", "d4/d6a/a19192.html#ac3189b202a8c0ca4c8f52799ed54e284", null ],
+    [ "operator()", "d4/d6a/a19192.html#a59ea48b9633049180ec62d3616fe4dea", null ],
+    [ "m_inLiveSide", "d4/d6a/a19192.html#a77c1d18f54609a5f4da2e9c13f62293d", null ]
 ];

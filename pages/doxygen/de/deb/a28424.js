@@ -1,7 +1,6 @@
 var a28424 =
 [
-    [ "EmoteType", "de/deb/a28424.html#a2d319652021081fdb02472c32a28e318", null ],
-    [ "Flags", "de/deb/a28424.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
-    [ "Id", "de/deb/a28424.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
-    [ "UnitStandState", "de/deb/a28424.html#ada83e548faa01917a5db19eaa15dbbec", null ]
+    [ "Id", "de/deb/a28424.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
+    [ "SpellId", "de/deb/a28424.html#ae8c119bacf706916f331d3f316fb1347", null ],
+    [ "TypeFlags", "de/deb/a28424.html#aae92871758e9a738a888cacf0946f16b", null ]
 ];

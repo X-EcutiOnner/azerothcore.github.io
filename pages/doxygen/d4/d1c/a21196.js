@@ -1,7 +1,8 @@
 var a21196 =
 [
-    [ "HandleProc", "d4/d1c/a21196.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "d4/d1c/a21196.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "d4/d1c/a21196.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "d4/d1c/a21196.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "npc_ulduar_keeperAI", "d0/dc9/a21200.html", "d0/dc9/a21200" ],
+    [ "npc_ulduar_keeper", "d4/d1c/a21196.html#a252b781061a2e21dc961ea94f7120d59", null ],
+    [ "GetAI", "d4/d1c/a21196.html#ad0c0f5d3786e3f3b3394a599f3ee6256", null ],
+    [ "OnGossipHello", "d4/d1c/a21196.html#a4db12efd22c7d2a5f18144fd16543230", null ],
+    [ "OnGossipSelect", "d4/d1c/a21196.html#acf8681577117107d16d45705e4b8463f", null ]
 ];

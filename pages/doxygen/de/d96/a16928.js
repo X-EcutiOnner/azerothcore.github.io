@@ -1,6 +1,6 @@
 var a16928 =
 [
-    [ "HandleScript", "de/d96/a16928.html#a4786e0c38f03f7e671174d0641526681", null ],
-    [ "PrepareSpellScript", "de/d96/a16928.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
-    [ "Register", "de/d96/a16928.html#a943117bfb56b846e99d04bd9a348af8d", null ]
+    [ "instance_drak_tharon_keep_InstanceScript", "d3/d11/a16932.html", "d3/d11/a16932" ],
+    [ "instance_drak_tharon_keep", "de/d96/a16928.html#a1f375185dba1619fee36160549eb91f4", null ],
+    [ "GetInstanceScript", "de/d96/a16928.html#aca6364452dc39e747af152695d479bf8", null ]
 ];

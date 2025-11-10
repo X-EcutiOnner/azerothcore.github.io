@@ -1,6 +1,6 @@
 var a24944 =
 [
-    [ "CalculateAmount", "dc/d94/a24944.html#a60d451e6b359501b138564085c87a99f", null ],
-    [ "PrepareAuraScript", "dc/d94/a24944.html#a22059b71bcfdfb9a3be59feaf8005d3f", null ],
-    [ "Register", "dc/d94/a24944.html#ab33586608d444404c07edc4ffbb717ee", null ]
+    [ "FilterTargets", "dc/d94/a24944.html#ac01bb4bac4f041318937cfc09ed603cd", null ],
+    [ "PrepareSpellScript", "dc/d94/a24944.html#a3eb1d8c26653477bed5b7ae0c69b34e9", null ],
+    [ "Register", "dc/d94/a24944.html#a658a476f5c2229715a8949aa6ba4f99c", null ]
 ];

@@ -1,6 +1,6 @@
 var a17576 =
 [
-    [ "PrepareSpellScript", "d0/da9/a17576.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
-    [ "Register", "d0/da9/a17576.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
-    [ "SetDest", "d0/da9/a17576.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
+    [ "BloodboltHitCheck", "d0/da9/a17576.html#a84873f1ec2c1e214e35d32954622e9af", null ],
+    [ "operator()", "d0/da9/a17576.html#a1eddfd7bbea8def20dcc080413af6364", null ],
+    [ "_ai", "d0/da9/a17576.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
 ];

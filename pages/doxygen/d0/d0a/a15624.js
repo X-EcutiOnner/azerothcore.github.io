@@ -1,7 +1,11 @@
 var a15624 =
 [
-    [ "npc_cork_gizeltonAI", "db/d4e/a15628.html", "db/d4e/a15628" ],
-    [ "npc_cork_gizelton", "d0/d0a/a15624.html#a915aa2abc18109e7d0197863f59536f2", null ],
-    [ "GetAI", "d0/d0a/a15624.html#a8a5fe5c46767aa37fd6e5b10e1bfc372", null ],
-    [ "OnQuestAccept", "d0/d0a/a15624.html#a11dc1fea0a24add451272b537298fc13", null ]
+    [ "npc_tiger_matriarchAI", "d0/d0a/a15624.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
+    [ "DamageTaken", "d0/d0a/a15624.html#ab41c4275fe4f42b36615f746a100ccda", null ],
+    [ "IsSummonedBy", "d0/d0a/a15624.html#a8b02683be93944a65b38658bba0af4d8", null ],
+    [ "JustEngagedWith", "d0/d0a/a15624.html#a9a9295008552f5330f778dd3a0c591ea", null ],
+    [ "KilledUnit", "d0/d0a/a15624.html#aabde7633ac07966ee1cd2d9817582189", null ],
+    [ "UpdateAI", "d0/d0a/a15624.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
+    [ "_events", "d0/d0a/a15624.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
+    [ "_tigerGuid", "d0/d0a/a15624.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
 ];

@@ -1,6 +1,6 @@
 var a13180 =
 [
-    [ "HandleScriptEffect", "d6/d5a/a13180.html#a430d6f41e8533cbade64ea46aaa9ec2e", null ],
-    [ "PrepareSpellScript", "d6/d5a/a13180.html#ad110e0dba330acde845c47501256cf5d", null ],
-    [ "Register", "d6/d5a/a13180.html#ab6971aa466055a1280cd258e26645157", null ]
+    [ "npc_a_special_surpriseAI", "d1/d71/a13184.html", "d1/d71/a13184" ],
+    [ "npc_a_special_surprise", "d6/d5a/a13180.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
+    [ "GetAI", "d6/d5a/a13180.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
 ];

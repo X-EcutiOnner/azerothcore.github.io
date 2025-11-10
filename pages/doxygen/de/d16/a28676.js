@@ -1,16 +1,10 @@
 var a28676 =
 [
-    [ "amount", "de/d16/a28676.html#a3086819447f7ae23bf5697a45cbc6f93", null ],
-    [ "aura_id", "de/d16/a28676.html#a5866d4e8ce373b6eb9af1d27e2db2c1b", null ],
-    [ "charges", "de/d16/a28676.html#ade74be0906ef080347ac81ed48379cd1", null ],
-    [ "description", "de/d16/a28676.html#a7dc66c82551a59750d6294f3503a3dbc", null ],
-    [ "EnchantmentCondition", "de/d16/a28676.html#a2416afe9ae8371b9d284dd3c176c98d1", null ],
-    [ "GemID", "de/d16/a28676.html#a324fd42b7184f5c626c33323a4d72b07", null ],
-    [ "ID", "de/d16/a28676.html#af46fa8808024e75705b812b695bd1590", null ],
-    [ "requiredLevel", "de/d16/a28676.html#a53bf562ea4dfccb14bfb627c831b477e", null ],
-    [ "requiredSkill", "de/d16/a28676.html#a6ca7dac0e1f497b3c96887a6c09097bc", null ],
-    [ "requiredSkillValue", "de/d16/a28676.html#a7a57764dad60c9369826638c1355127e", null ],
-    [ "slot", "de/d16/a28676.html#af64b13ce2e81d5be7e73763cd5c5e4b8", null ],
-    [ "spellid", "de/d16/a28676.html#a694edc79cf8ba571338bff2a3aad512d", null ],
-    [ "type", "de/d16/a28676.html#adb693b7ada8d1a65c1d8091d1055c7bf", null ]
+    [ "ID", "de/d16/a28676.html#a090069d13cbbcc5762ecca600c506492", null ],
+    [ "map_id", "de/d16/a28676.html#a685931e2a361f9e0fc81c004c7467d19", null ],
+    [ "MountCreatureID", "de/d16/a28676.html#ab59ab7e8b302ac8858bfd67bc10d803f", null ],
+    [ "name", "de/d16/a28676.html#ae00db3ea736c3a470f6f0690c178e758", null ],
+    [ "x", "de/d16/a28676.html#a7cbd40848094fa367862d653b0f7170d", null ],
+    [ "y", "de/d16/a28676.html#a9380befd45cab3104003b2487464bd71", null ],
+    [ "z", "de/d16/a28676.html#a2e6ce98f7c96ba1469fca8ff3946404a", null ]
 ];

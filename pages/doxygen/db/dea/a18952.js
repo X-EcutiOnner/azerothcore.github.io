@@ -1,5 +1,7 @@
 var a18952 =
 [
-    [ "at_icc_shutdown_traps", "db/dea/a18952.html#aa13f5d78d3032e8114e9978f42468f64", null ],
-    [ "OnTrigger", "db/dea/a18952.html#abb31b3f6d0b159b625d731ac47127005", null ]
+    [ "HandleEffectPeriodic", "db/dea/a18952.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
+    [ "PrepareAuraScript", "db/dea/a18952.html#ae040da0db1147652266e1f373838df37", null ],
+    [ "Register", "db/dea/a18952.html#ab11b84522134ee4d13504df3c19f69b8", null ],
+    [ "Validate", "db/dea/a18952.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
 ];

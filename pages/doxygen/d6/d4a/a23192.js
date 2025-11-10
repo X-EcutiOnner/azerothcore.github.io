@@ -1,6 +1,7 @@
 var a23192 =
 [
-    [ "PrepareSpellScript", "d6/d4a/a23192.html#ad786920d6180b8e2829f3a56ec50c488", null ],
-    [ "Register", "d6/d4a/a23192.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
-    [ "SetDest", "d6/d4a/a23192.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
+    [ "CalculateAmount", "d6/d4a/a23192.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
+    [ "PrepareAuraScript", "d6/d4a/a23192.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
+    [ "Register", "d6/d4a/a23192.html#a6d0d47536e6ef74a88c97019843d478c", null ],
+    [ "Update", "d6/d4a/a23192.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
 ];

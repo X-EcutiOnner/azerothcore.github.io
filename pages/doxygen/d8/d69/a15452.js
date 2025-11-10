@@ -1,13 +1,8 @@
 var a15452 =
 [
-    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d8/d69/a15452.html#a454f677dddce956534d6f5a253ed587b", null ],
-    [ "GetData", "d8/d69/a15452.html#ad34ee1e43d05826c1b4e80e2df6ac5f6", null ],
-    [ "Initialize", "d8/d69/a15452.html#a8d46d9aa082d306aa2c9cd8fde3eea1d", null ],
-    [ "OnCreatureCreate", "d8/d69/a15452.html#affc7045f944251fb27683133f511029f", null ],
-    [ "OnGameObjectCreate", "d8/d69/a15452.html#a36f22cb12a5d59b377627f7cacbffecb", null ],
-    [ "OnUnitDeath", "d8/d69/a15452.html#a921a58152e075b9a64bf3c73aabdf1f2", null ],
-    [ "SetBossState", "d8/d69/a15452.html#abb9fc9c7901d0c830d498f3fbdaebbe6", null ],
-    [ "SetData", "d8/d69/a15452.html#a25f4e12aad6325e87b31770c1243d746", null ],
-    [ "BugTrioDeathCount", "d8/d69/a15452.html#aab0191f5b31264f0632a24df0607d05b", null ],
-    [ "CThunGraspGUIDs", "d8/d69/a15452.html#aea180c0b623e919f56f9210ce15724e8", null ]
+    [ "npc_obsidian_eradicator", "d8/d69/a15452.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "d8/d69/a15452.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "d8/d69/a15452.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "d8/d69/a15452.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "d8/d69/a15452.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

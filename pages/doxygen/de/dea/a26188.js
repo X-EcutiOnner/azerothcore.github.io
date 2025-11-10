@@ -1,6 +1,6 @@
 var a26188 =
 [
-    [ "OnPeriodic", "de/dea/a26188.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
-    [ "PrepareAuraScript", "de/dea/a26188.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
-    [ "Register", "de/dea/a26188.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
+    [ "OnRemove", "de/dea/a26188.html#a3803e6bbdb17e9a848376481581c993d", null ],
+    [ "PrepareAuraScript", "de/dea/a26188.html#a6f1340b824af4604e310666e89d05b7a", null ],
+    [ "Register", "de/dea/a26188.html#a3b361a478f1c035b706ac2e17499fb37", null ]
 ];

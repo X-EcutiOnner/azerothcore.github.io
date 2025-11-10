@@ -1,9 +1,10 @@
 var a21280 =
 [
-    [ "npc_vrykul_skeleton", "dc/dac/a21280.html#afda2014efb0ce63ee41c46cf2ad6c130", null ],
-    [ "DamageTaken", "dc/dac/a21280.html#a840244c4183987e4fda533edb2ddeff2", null ],
-    [ "Reset", "dc/dac/a21280.html#af950342b2177c84c101485736855b998", null ],
-    [ "UpdateAI", "dc/dac/a21280.html#a80cd072eef6b0bf03a9a6a2fe22e252a", null ],
-    [ "events", "dc/dac/a21280.html#a897bb5b5519f6f507bca49c5c5de17f6", null ],
-    [ "pInstance", "dc/dac/a21280.html#a834f0162540683c20f9fa0f9e32eee33", null ]
+    [ "npc_enslaved_proto_drake", "dc/dac/a21280.html#aec835fdc8b1beb270176d5341d26c265", null ],
+    [ "MovementInform", "dc/dac/a21280.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
+    [ "Reset", "dc/dac/a21280.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
+    [ "SetData", "dc/dac/a21280.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
+    [ "UpdateAI", "dc/dac/a21280.html#a252f84198df610bac44b6bd9cd80602e", null ],
+    [ "_events", "dc/dac/a21280.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
+    [ "_setData", "dc/dac/a21280.html#adb997badd8831dea7763eaecc93b7773", null ]
 ];

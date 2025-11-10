@@ -1,8 +1,7 @@
 var a23952 =
 [
-    [ "boss_commander_sarannis", "d0/d9c/a23952.html#ace0957feb37f864798008849be25f607", null ],
-    [ "JustDied", "d0/d9c/a23952.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
-    [ "JustEngagedWith", "d0/d9c/a23952.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
-    [ "KilledUnit", "d0/d9c/a23952.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
-    [ "ScheduleReinforcements", "d0/d9c/a23952.html#a293f0b860a66396a30c6d255eef85309", null ]
+    [ "boss_warp_splinter", "d0/d9c/a23952.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d0/d9c/a23952.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d0/d9c/a23952.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d0/d9c/a23952.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

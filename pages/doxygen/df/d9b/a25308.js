@@ -1,6 +1,6 @@
 var a25308 =
 [
-    [ "CheckSeat", "df/d9b/a25308.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
-    [ "PrepareSpellScript", "df/d9b/a25308.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
-    [ "Register", "df/d9b/a25308.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
+    [ "HandleDummy", "df/d9b/a25308.html#a0bcbef8a2d5978498556a217ac618fed", null ],
+    [ "PrepareSpellScript", "df/d9b/a25308.html#a5901c22f3a10fdbd21d934f5cb8cd76d", null ],
+    [ "Register", "df/d9b/a25308.html#a2c6d9c273a3d281dacefc20970912166", null ]
 ];

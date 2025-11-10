@@ -1,5 +1,6 @@
 var a27624 =
 [
-    [ "go_massive_seaforium_charge", "d4/d99/a27624.html#adae43b764f237932923cd18207e4d23c", null ],
-    [ "OnGossipHello", "d4/d99/a27624.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
+    [ "guard_shattrath_aldorAI", "d3/d96/a27628.html", "d3/d96/a27628" ],
+    [ "guard_shattrath_aldor", "d4/d99/a27624.html#ab965295d9c3828ad814f658670b5f185", null ],
+    [ "GetAI", "d4/d99/a27624.html#a3459a6a85c7e7286e3cbdd7f56fee704", null ]
 ];

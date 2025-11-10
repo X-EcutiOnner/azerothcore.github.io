@@ -1,6 +1,6 @@
 var a26476 =
 [
-    [ "FilterTargets", "d3/dad/a26476.html#a23c7b977f7e213322b3702367d6a28c7", null ],
-    [ "PrepareSpellScript", "d3/dad/a26476.html#a7000b2fd940c914933c486e847932b62", null ],
-    [ "Register", "d3/dad/a26476.html#a870ee08d0341f6640710a87c97a6b98b", null ]
+    [ "HandleDamage", "d3/dad/a26476.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
+    [ "PrepareSpellScript", "d3/dad/a26476.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
+    [ "Register", "d3/dad/a26476.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
 ];

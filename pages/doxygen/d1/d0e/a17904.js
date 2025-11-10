@@ -1,9 +1,7 @@
 var a17904 =
 [
-    [ "CalculateDamage", "d1/d0e/a17904.html#a6a9e90d9463825b38b69afc234b35b39", null ],
-    [ "PrepareSpellScript", "d1/d0e/a17904.html#ae7a8d0cc36708b11f8eefebd5df0a980", null ],
-    [ "Register", "d1/d0e/a17904.html#a2722814a55469e5bae572766ed36309b", null ],
-    [ "RemoveEnergy", "d1/d0e/a17904.html#a0f16b4b35985d658dc185aa88ab099ed", null ],
-    [ "StoreEnergy", "d1/d0e/a17904.html#aca3ecc5a6219cb3813f17be404142c6d", null ],
-    [ "_energyLeft", "d1/d0e/a17904.html#af082a763f6524aeb5ae2eb3c82fd12e5", null ]
+    [ "PrepareSpellScript", "d1/d0e/a17904.html#a21bd67c024c5dcfb8496778f67eb48eb", null ],
+    [ "Register", "d1/d0e/a17904.html#aff4f05a5a4742a408646000b7cece38c", null ],
+    [ "RemovePassengers", "d1/d0e/a17904.html#a77c63e85233e2ef14bf06c82ad27c4b2", null ],
+    [ "Validate", "d1/d0e/a17904.html#a2a8da9d150804f979f2313f623ad7760", null ]
 ];

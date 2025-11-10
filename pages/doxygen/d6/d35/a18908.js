@@ -1,8 +1,7 @@
 var a18908 =
 [
-    [ "npc_arthas_teleport_visualAI", "d6/d35/a18908.html#a9b9b2ba725cde9aec898244a9e50c394", null ],
-    [ "Reset", "d6/d35/a18908.html#a27155b8880a2a86b733bcd074e977b59", null ],
-    [ "UpdateAI", "d6/d35/a18908.html#a23c200f2c7b9f5d02bed7af37bc69c33", null ],
-    [ "_events", "d6/d35/a18908.html#a986f19145e46f5975f22a84a3e1b10ee", null ],
-    [ "_instance", "d6/d35/a18908.html#a25bc023e061a0845421a652b571a6e1e", null ]
+    [ "Land", "d6/d35/a18908.html#ad2fd3d7c81e3ef22cb3767914f649fd0", null ],
+    [ "PrepareSpellScript", "d6/d35/a18908.html#a31e45adb87719c311fb5b94b2b744487", null ],
+    [ "Register", "d6/d35/a18908.html#a652eca6ec8079b2835d911807857c8a8", null ],
+    [ "RemoveAliveTarget", "d6/d35/a18908.html#abdb5f624b30a046eed9ca6ad7c347010", null ]
 ];

@@ -1,8 +1,8 @@
 var a18736 =
 [
-    [ "npc_suppresserAI", "dd/d00/a18736.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
-    [ "AttackStart", "dd/d00/a18736.html#ae36105de1df1dd9841332d9a8e7799be", null ],
-    [ "IsSummonedBy", "dd/d00/a18736.html#a35ec340b2d02a14707fc353428b1298d", null ],
-    [ "UpdateAI", "dd/d00/a18736.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
-    [ "_instance", "dd/d00/a18736.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
+    [ "Load", "dd/d00/a18736.html#a3a5fa4814a7724db0ba7be5c5158798b", null ],
+    [ "PeriodicTick", "dd/d00/a18736.html#a4ff0ab22db0bbd4483ddb379de069c48", null ],
+    [ "PrepareAuraScript", "dd/d00/a18736.html#a029820fbfc34af4d0ccb825a9f9d2b0d", null ],
+    [ "Register", "dd/d00/a18736.html#a909819dde9d5154f3d2cf04b04fa33f7", null ],
+    [ "_instance", "dd/d00/a18736.html#aebebb858f2ae41f2260d6843b3da8052", null ]
 ];

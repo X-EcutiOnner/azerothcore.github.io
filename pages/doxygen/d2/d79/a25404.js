@@ -1,7 +1,7 @@
 var a25404 =
 [
-    [ "HandleProc", "d2/d79/a25404.html#ac88c41bcfcedd9194d9d3f958d605d37", null ],
-    [ "PrepareAuraScript", "d2/d79/a25404.html#a66c3458e88ab5802e10445df3aeb52f6", null ],
-    [ "Register", "d2/d79/a25404.html#af02b0af51a1fece0780414ab45c8d31e", null ],
-    [ "Validate", "d2/d79/a25404.html#a9f955b53e5905cfb3742a58c8bedab96", null ]
+    [ "PrepareSpellScript", "d2/d79/a25404.html#a65d5717a25e371e09c44148c679dd390", null ],
+    [ "Register", "d2/d79/a25404.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
+    [ "RemoveInvalidTargets", "d2/d79/a25404.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
+    [ "Validate", "d2/d79/a25404.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
 ];

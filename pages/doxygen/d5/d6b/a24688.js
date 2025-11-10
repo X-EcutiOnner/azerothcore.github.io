@@ -1,6 +1,6 @@
 var a24688 =
 [
-    [ "PrepareSpellScript", "d5/d6b/a24688.html#a2585b06bbebf291d170df58daf6fdd4e", null ],
-    [ "RecalculateDamage", "d5/d6b/a24688.html#a1fe9f9d4892b0ca8cb6699b555fb9268", null ],
-    [ "Register", "d5/d6b/a24688.html#a834484683d2d782b4f4c027091108172", null ]
+    [ "CheckProc", "d5/d6b/a24688.html#a451ceeda18638f88d2e0a24ac445f5e2", null ],
+    [ "PrepareAuraScript", "d5/d6b/a24688.html#a0a6d4617ff3351411f4e13f53876db31", null ],
+    [ "Register", "d5/d6b/a24688.html#a0e5d974111eeca075f38910223f5eaf4", null ]
 ];

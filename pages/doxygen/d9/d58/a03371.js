@@ -1,8 +1,8 @@
 var a03371 =
 [
-    [ "boss_jeklik", "d3/dc2/a14240.html", "d3/dc2/a14240" ],
-    [ "npc_batrider", "dc/d1e/a14244.html", "dc/d1e/a14244" ],
-    [ "spell_batrider_bomb", "dc/d33/a14248.html", "dc/d33/a14248" ],
+    [ "boss_jeklik", "d0/d30/a14212.html", "d0/d30/a14212" ],
+    [ "npc_batrider", "d4/d32/a14216.html", "d4/d32/a14216" ],
+    [ "spell_batrider_bomb", "d5/def/a14220.html", "d5/def/a14220" ],
     [ "BatIds", "d9/d58/a03371.html#a3b3d24c3d210da1467e82670d75b702c", [
       [ "NPC_BLOODSEEKER_BAT", "d9/d58/a03371.html#a3b3d24c3d210da1467e82670d75b702ca3bdc4a48ebcc2262d98ef45c756dea14", null ],
       [ "NPC_BATRIDER", "d9/d58/a03371.html#a3b3d24c3d210da1467e82670d75b702ca7d8c3cd30d5f7194b465e3cfd2fdc310", null ]
@@ -2208,7 +2208,6 @@ var a03371 =
       [ "SPELL_FROSTBOLT", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e", null ],
       [ "SPELL_TOUCH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d", null ],
       [ "SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6", null ],
-      [ "SPELL_RAIN_OF_FIRE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca770475c37ddfbb0a8c98a0c8a7c98f0d", null ],
       [ "SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8", null ],
       [ "SPELL_EYE_BEAM", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc", null ],
       [ "SPELL_LIGHTNING_BREATH", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298caba0559b83dfa3b94464ac474a4b62e3e", null ],

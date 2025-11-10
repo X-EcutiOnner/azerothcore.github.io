@@ -1,7 +1,7 @@
 var a26512 =
 [
-    [ "HandleApplyEffect", "d4/dd6/a26512.html#af95120b26a165196e0310956c245f36f", null ],
-    [ "HandleRemoveEffect", "d4/dd6/a26512.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
-    [ "PrepareAuraScript", "d4/dd6/a26512.html#ae19e002407db1466f0655db3d14fe0d7", null ],
-    [ "Register", "d4/dd6/a26512.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
+    [ "if", "d4/dd6/a26512.html#a2b5a85e480bcd0ef5074d3bcf7eaf5cb", null ],
+    [ "PrepareAuraScript", "d4/dd6/a26512.html#aa31810077c241e77193e378cb297b7de", null ],
+    [ "Register", "d4/dd6/a26512.html#a7b8f537719a4155d1cd95a6f49cf6a3a", null ],
+    [ "AuraEffectHandleModes", "d4/dd6/a26512.html#a3113d8e7ec296fdf13c8f386ae74e0f3", null ]
 ];

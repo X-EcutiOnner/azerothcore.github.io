@@ -1,6 +1,7 @@
 var a16736 =
 [
-    [ "boss_jaraxxusAI", "dd/dca/a16740.html", "dd/dca/a16740" ],
-    [ "boss_jaraxxus", "dd/d4b/a16736.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
-    [ "GetAI", "dd/d4b/a16736.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
+    [ "FilterTargets", "dd/d4b/a16736.html#a304da18e36ff67c34b80ab39583f8c96", null ],
+    [ "HandleScript", "dd/d4b/a16736.html#adf99670bcf862288f513d2a26cbc256a", null ],
+    [ "PrepareSpellScript", "dd/d4b/a16736.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
+    [ "Register", "dd/d4b/a16736.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
 ];

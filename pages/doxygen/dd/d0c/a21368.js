@@ -1,6 +1,6 @@
 var a21368 =
 [
-    [ "boss_skadi_graufAI", "dc/dac/a21372.html", "dc/dac/a21372" ],
-    [ "boss_skadi_grauf", "dd/d0c/a21368.html#a571db2d2ae21f38b7051319da0f042f6", null ],
-    [ "GetAI", "dd/d0c/a21368.html#a9b637a93a572d21691b81b80ec45206d", null ]
+    [ "HandleDummyEffect", "dd/d0c/a21368.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
+    [ "PrepareSpellScript", "dd/d0c/a21368.html#a07376c95cb2ec41d86a24be59094d207", null ],
+    [ "Register", "dd/d0c/a21368.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
 ];

@@ -1,10 +1,7 @@
 var a23932 =
 [
-    [ "boss_harbinger_skyriss", "dc/d50/a23932.html#a245179f74d61c2671b397e8f2473b599", null ],
-    [ "EnterEvadeMode", "dc/d50/a23932.html#a873413da06569343225e6659f8277b2c", null ],
-    [ "JustDied", "dc/d50/a23932.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
-    [ "JustEngagedWith", "dc/d50/a23932.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
-    [ "JustSummoned", "dc/d50/a23932.html#a97d84139a3e970e22d7d422f2f825f12", null ],
-    [ "KilledUnit", "dc/d50/a23932.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
-    [ "Reset", "dc/d50/a23932.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
+    [ "HandleCast", "dc/d50/a23932.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
+    [ "PrepareSpellScript", "dc/d50/a23932.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
+    [ "Register", "dc/d50/a23932.html#a6ae0573ea69573df64cd57ba84f99918", null ],
+    [ "Validate", "dc/d50/a23932.html#ab5794ca5c0863ce40194ed40e156279a", null ]
 ];

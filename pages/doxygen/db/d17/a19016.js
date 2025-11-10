@@ -1,6 +1,13 @@
 var a19016 =
 [
-    [ "npc_icc_skybreaker_luminaryAI", "d2/d4b/a19020.html", "d2/d4b/a19020" ],
-    [ "npc_icc_skybreaker_luminary", "db/d17/a19016.html#aff97d0425cf86a8b411ef3e2bd0cc054", null ],
-    [ "GetAI", "db/d17/a19016.html#ad1378aaa7438758f8a796d8e74ae0ce8", null ]
+    [ "npc_icc_spire_frostwyrm", "db/d17/a19016.html#a8fdfc70108e3294e0fcc3c7ed895074e", null ],
+    [ "CanAIAttack", "db/d17/a19016.html#ab3364130aacf675602317651a244ae2c", null ],
+    [ "DoAction", "db/d17/a19016.html#a44edf33b25bdfce3b2bd3a8ec487fd9e", null ],
+    [ "JustEngagedWith", "db/d17/a19016.html#abfc762cea6b7e40aaaff50b933410127", null ],
+    [ "JustReachedHome", "db/d17/a19016.html#a144e8cafc020f5c43aae1fdc4a38a10d", null ],
+    [ "MovementInform", "db/d17/a19016.html#a8e7f148580d91d42959e972ef18b271b", null ],
+    [ "Reset", "db/d17/a19016.html#a572add30e78af15a8d5d6918169802da", null ],
+    [ "UpdateAI", "db/d17/a19016.html#ad193a9355e11ea25792e6285d375a488", null ],
+    [ "_canResetFlyingEffects", "db/d17/a19016.html#a262d843fcb13a444ae377729135ca14d", null ],
+    [ "_scheduler", "db/d17/a19016.html#a822096df7b1803d92e05ca27d544bd26", null ]
 ];

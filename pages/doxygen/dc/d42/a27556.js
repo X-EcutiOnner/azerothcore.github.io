@@ -1,5 +1,6 @@
 var a27556 =
 [
-    [ "go_tablet_of_the_seven", "dc/d42/a27556.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
-    [ "OnGossipHello", "dc/d42/a27556.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
+    [ "go_bashir_crystalforge", "dc/d42/a27556.html#a8b68a63933e14d82198580912fddc280", null ],
+    [ "OnGossipHello", "dc/d42/a27556.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
+    [ "OnGossipSelect", "dc/d42/a27556.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
 ];

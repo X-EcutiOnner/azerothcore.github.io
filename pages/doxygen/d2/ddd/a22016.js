@@ -1,6 +1,6 @@
 var a22016 =
 [
-    [ "npc_q24545_lich_kingAI", "d1/dd9/a22020.html", "d1/dd9/a22020" ],
-    [ "npc_q24545_lich_king", "d2/ddd/a22016.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
-    [ "GetAI", "d2/ddd/a22016.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
+    [ "GhoulTargetCheck", "d2/ddd/a22016.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
+    [ "operator()", "d2/ddd/a22016.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
+    [ "_alive", "d2/ddd/a22016.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
 ];

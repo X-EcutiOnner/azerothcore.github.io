@@ -1,6 +1,4 @@
 var a28456 =
 [
-    [ "Id", "de/d51/a28456.html#a5d7f2d5a2890593554ea841deb38abb2", null ],
-    [ "Order", "de/d51/a28456.html#a16fca42d9a0a98e034a93984c4362b53", null ],
-    [ "TypeFlags", "de/d51/a28456.html#ac7246adc7c6c3217de8ac093983b7553", null ]
+    [ "ratio", "de/d51/a28456.html#ad5d1466406daa3696314ef2f6f18cd15", null ]
 ];

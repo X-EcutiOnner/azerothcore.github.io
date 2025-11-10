@@ -1,6 +1,7 @@
 var a14876 =
 [
-    [ "FilterTargets", "da/d40/a14876.html#a45b0713b2942199bf0e19752fe765aac", null ],
-    [ "PrepareSpellScript", "da/d40/a14876.html#a7f7177d7754a99743202f69a0342f587", null ],
-    [ "Register", "da/d40/a14876.html#a27b432d8571d48c3f5fb025bbbd29271", null ]
+    [ "hyjalTyrandeAI", "dc/dda/a14880.html", "dc/dda/a14880" ],
+    [ "npc_hyjal_tyrande", "da/d40/a14876.html#abd2ba500d8e2bbf20c00905012d47d12", null ],
+    [ "GetAI", "da/d40/a14876.html#a2f863e616352a98763eef9a717d73388", null ],
+    [ "OnGossipSelect", "da/d40/a14876.html#a014a63098e18b08b6f5cd33a0cba2072", null ]
 ];

@@ -1,6 +1,6 @@
 var a16368 =
 [
-    [ "HandlePeriodic", "d4/d09/a16368.html#a7753587518171689f86f3f76269c1b8a", null ],
-    [ "PrepareAuraScript", "d4/d09/a16368.html#aa73351e7200bee94b0068fb8dabfada5", null ],
-    [ "Register", "d4/d09/a16368.html#ab126fe8d4387609e8834898c3b3a67ea", null ]
+    [ "npc_living_infernoAI", "d4/d09/a16368.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
+    [ "IsSummonedBy", "d4/d09/a16368.html#a4b6986a392aee0741ba47651e809c76c", null ],
+    [ "JustDied", "d4/d09/a16368.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
 ];

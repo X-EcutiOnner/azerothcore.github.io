@@ -1,14 +1,10 @@
 var a16308 =
 [
-    [ "npc_halion_controllerAI", "d6/d39/a16308.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
-    [ "DoAction", "d6/d39/a16308.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
-    [ "Reset", "d6/d39/a16308.html#a3004aecb50815287d5f832f2a8a0d250", null ],
-    [ "SetData", "d6/d39/a16308.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
-    [ "UpdateAI", "d6/d39/a16308.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
-    [ "UpdateCorporeality", "d6/d39/a16308.html#ac82987f2b2b069b90c509c477004bae6", null ],
-    [ "_corporeality", "d6/d39/a16308.html#a4c23df1bb774ac724bdf537453592671", null ],
-    [ "_events", "d6/d39/a16308.html#a92e3f116260265a2d0dbeef769eee03e", null ],
-    [ "_instance", "d6/d39/a16308.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
-    [ "_materialDamage", "d6/d39/a16308.html#afcc510b0d4be10ed057d1a304b803b69", null ],
-    [ "_twilightDamage", "d6/d39/a16308.html#a13a9efcb11ed31725c45011508407287", null ]
+    [ "spell_halion_combustion_consumption_aura", "d6/d39/a16308.html#a8b67aee76c7288748757e6bec7f4cb78", null ],
+    [ "AddMarkStack", "d6/d39/a16308.html#a337776c42bd6c42ecdffb508808ed070", null ],
+    [ "OnApply", "d6/d39/a16308.html#afeea3e5026e6d8472440c9cffac9bce9", null ],
+    [ "OnRemove", "d6/d39/a16308.html#a3959dbe8bbdf2d3953daf14072614708", null ],
+    [ "PrepareAuraScript", "d6/d39/a16308.html#a334f2211429dde989b6beb6c10a71464", null ],
+    [ "Register", "d6/d39/a16308.html#affc66a03e9d1eaef30a54b8a044734b8", null ],
+    [ "_markSpell", "d6/d39/a16308.html#a8236d9d50f267a12216d90f8041da439", null ]
 ];

@@ -1,8 +1,6 @@
 var a13560 =
 [
-    [ "OnPeriodic", "d7/d28/a13560.html#acd400b0a061d1814591e33d16bf4180a", null ],
-    [ "OnRemove", "d7/d28/a13560.html#a3da85c726007690220e9b4f81d30f185", null ],
-    [ "PrepareAuraScript", "d7/d28/a13560.html#a216d723f309ffa46df4bba7af79752c8", null ],
-    [ "Register", "d7/d28/a13560.html#a43fe84c2717d73e20a2562f596a84f36", null ],
-    [ "Validate", "d7/d28/a13560.html#a4ab8e285bae57560eee85d3a837ac2f5", null ]
+    [ "FixOrientation", "d7/d28/a13560.html#ac4a9654d37a73f9d5ddc73ff90ce145b", null ],
+    [ "Execute", "d7/d28/a13560.html#a7af72679731c9b86b9ae36d19d1621e5", null ],
+    [ "_owner", "d7/d28/a13560.html#a5f12db3774bdeef25a300780c00db1fb", null ]
 ];

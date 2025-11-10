@@ -1,5 +1,9 @@
 var a15304 =
 [
-    [ "boss_vem", "dc/d2b/a15304.html#a8e303ece8ba209c6dea0ed6c888077d3", null ],
-    [ "JustEngagedWith", "dc/d2b/a15304.html#ae4b7fa599d31155bdee566b31c60b237", null ]
+    [ "npc_eye_tentacle", "dc/d2b/a15304.html#a106deeb95d74597377d32e81695dc3c9", null ],
+    [ "JustDied", "dc/d2b/a15304.html#aac965d97034f4f623172297e4f82647e", null ],
+    [ "JustEngagedWith", "dc/d2b/a15304.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
+    [ "Reset", "dc/d2b/a15304.html#a715439dfa31b4cf9df7ddd678d912108", null ],
+    [ "UpdateAI", "dc/d2b/a15304.html#a48f9067f27d61e609a014669c1daedb9", null ],
+    [ "_portalGUID", "dc/d2b/a15304.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
 ];

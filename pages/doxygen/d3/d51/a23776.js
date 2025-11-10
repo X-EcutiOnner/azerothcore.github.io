@@ -1,14 +1,17 @@
 var a23776 =
 [
-    [ "boss_vazruden", "d3/d51/a23776.html#a9908d6082a09d55dd0d8bb801784a151", null ],
-    [ "DamageTaken", "d3/d51/a23776.html#a44b1e4d43bbf0d7faec7f4ee277db811", null ],
-    [ "EnterEvadeMode", "d3/d51/a23776.html#aba006e8e9aefe522ea5c36c638bb5c3b", null ],
-    [ "JustDied", "d3/d51/a23776.html#a525025b41b53a577bdff1eb818191ed7", null ],
-    [ "JustEngagedWith", "d3/d51/a23776.html#a5dbbe80fcfe191ac5ae03f943496ad02", null ],
-    [ "KilledUnit", "d3/d51/a23776.html#a8f430a0d7edb0285156c6bf68ba0aa07", null ],
-    [ "Reset", "d3/d51/a23776.html#a11b5091dafe2f0de9afd81de7b6fde90", null ],
-    [ "UpdateAI", "d3/d51/a23776.html#aebaf147a1a2e723cb0cb8e46f3d01e68", null ],
-    [ "_hasSpoken", "d3/d51/a23776.html#af5b9aa9c7a343486b4dc05819e8d3ccf", null ],
-    [ "_nazanCalled", "d3/d51/a23776.html#a44d53934c743e9beb539681719997852", null ],
-    [ "_scheduler", "d3/d51/a23776.html#a60382206e378c2f2c493d1ee25c4ff8c", null ]
+    [ "boss_magtheridon", "d3/d51/a23776.html#a3d718a101047cd90448577ee520adf5e", null ],
+    [ "DoAction", "d3/d51/a23776.html#a3015fd8503a0da84e7b78c551587f8a3", null ],
+    [ "JustDied", "d3/d51/a23776.html#adca91ab2fbfe88cc79b19aaa4bff74cf", null ],
+    [ "JustEngagedWith", "d3/d51/a23776.html#a93fb4d888ebd6273bca0a128c8303996", null ],
+    [ "KilledUnit", "d3/d51/a23776.html#a42aa45e199f76f567bc7a677f3d3aedf", null ],
+    [ "Reset", "d3/d51/a23776.html#a0999e13f434699bb14c2ef6d2467a043", null ],
+    [ "ScheduleCombatEvents", "d3/d51/a23776.html#ae9b2f0929c2309e6bd57cc1241452d61", null ],
+    [ "UpdateAI", "d3/d51/a23776.html#a656e9595b30d014c54cc456d7f81f657", null ],
+    [ "_castingQuake", "d3/d51/a23776.html#ad1c95705a7018b4eb62cbee6f20fb65a", null ],
+    [ "_channelersKilled", "d3/d51/a23776.html#a305f71322dbe10e12588ebe0c45eff5f", null ],
+    [ "_currentPhase", "d3/d51/a23776.html#a2871d60efe88d3901bad9a4c5249fcfb", null ],
+    [ "_interruptScheduler", "d3/d51/a23776.html#aae56fde097d925bcf58be1d8e6bf50f4", null ],
+    [ "_magReleased", "d3/d51/a23776.html#a6dd4891771771acf5456a129113e864e", null ],
+    [ "_recentlySpoken", "d3/d51/a23776.html#af860281db4d20e3d3b9589657c921a50", null ]
 ];

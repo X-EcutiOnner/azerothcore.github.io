@@ -1,7 +1,10 @@
 var a25000 =
 [
-    [ "FilterTargets", "dd/d25/a25000.html#a9abf4baaba572636dba3980e5ae777c5", null ],
-    [ "Load", "dd/d25/a25000.html#a812e4e461c0ebed6f7c4cc36e88a3367", null ],
-    [ "PrepareSpellScript", "dd/d25/a25000.html#a4e98fbf669c030263ed2e5759a5bd6e8", null ],
-    [ "Register", "dd/d25/a25000.html#a2d72f5771d6563260a6e81122e4a2be5", null ]
+    [ "FilterTargets", "dd/d25/a25000.html#a033c63470d406ad2249c5aa223c00b2f", null ],
+    [ "HandleFinish", "dd/d25/a25000.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
+    [ "HandleScript", "dd/d25/a25000.html#a2c26838015f1b21715fc1438537e15d3", null ],
+    [ "Load", "dd/d25/a25000.html#a669aefa81d57358ef452f4c247b2ceff", null ],
+    [ "PrepareSpellScript", "dd/d25/a25000.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
+    [ "Register", "dd/d25/a25000.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
+    [ "haveTarget", "dd/d25/a25000.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
 ];

@@ -1,7 +1,9 @@
 var a19676 =
 [
-    [ "HandleProc", "d2/dc5/a19676.html#a84255cd31ebaa7c70de93d569258c709", null ],
-    [ "PrepareAuraScript", "d2/dc5/a19676.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
-    [ "Register", "d2/dc5/a19676.html#a6bc166d2e1455537fa78c4223da17746", null ],
-    [ "Validate", "d2/dc5/a19676.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
+    [ "HandleOnEffectApply", "d2/dc5/a19676.html#a6ab047004cc901331d747641f218cf6a", null ],
+    [ "HandleOnEffectRemove", "d2/dc5/a19676.html#a9f66217f4785c8240c4b074bbf04b96e", null ],
+    [ "PrepareAuraScript", "d2/dc5/a19676.html#aa94b30468b2c853c0d8b86658a43dee4", null ],
+    [ "Register", "d2/dc5/a19676.html#a83b0d414a6e97b434f82492fa01ac385", null ],
+    [ "Validate", "d2/dc5/a19676.html#a88af7f269f56e474434d51c7ac0eb0a0", null ],
+    [ "_drakeGUID", "d2/dc5/a19676.html#a2e0c7df73cc7246524f6d745ff1fbeb1", null ]
 ];

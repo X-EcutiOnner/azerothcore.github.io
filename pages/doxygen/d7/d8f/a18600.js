@@ -1,6 +1,6 @@
 var a18600 =
 [
-    [ "npc_spirit_wardenAI", "de/de5/a18604.html", "de/de5/a18604" ],
-    [ "npc_spirit_warden", "d7/d8f/a18600.html#ab585d20eadb7876752d731702db44293", null ],
-    [ "GetAI", "d7/d8f/a18600.html#ab33ab494d7fee64eed7c75464ce60489", null ]
+    [ "npc_lk_spirit_bombAI", "de/de5/a18604.html", "de/de5/a18604" ],
+    [ "npc_lk_spirit_bomb", "d7/d8f/a18600.html#acc08d41aa1761c450de782e92307ad7c", null ],
+    [ "GetAI", "d7/d8f/a18600.html#ade74c00beb2da69dafb0ae93d771c430", null ]
 ];

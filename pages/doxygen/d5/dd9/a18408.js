@@ -1,7 +1,6 @@
 var a18408 =
 [
-    [ "TriggerWickedSpirit", "d5/dd9/a18408.html#ace62bc037a2bd8ca9c9c56202eb811e7", null ],
-    [ "Execute", "d5/dd9/a18408.html#a7c8f1b5c33fac4d6a7cd89e3e71aa36d", null ],
-    [ "_counter", "d5/dd9/a18408.html#a24b85a62208f881418f97b0a8cb10f27", null ],
-    [ "_owner", "d5/dd9/a18408.html#ab460675158bfedd7f17a4b8e1cc06b3c", null ]
+    [ "npc_tirion_fordringAI", "d1/d20/a18412.html", "d1/d20/a18412" ],
+    [ "npc_tirion_fordring_tft", "d5/dd9/a18408.html#a04036d958e7ac643c9ba8d9073bca404", null ],
+    [ "GetAI", "d5/dd9/a18408.html#a41dcfa415831091531cbf46e946f442d", null ]
 ];

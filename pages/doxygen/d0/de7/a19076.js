@@ -1,6 +1,5 @@
 var a19076 =
 [
-    [ "npc_icc_putricades_trapAI", "d4/d03/a19080.html", "d4/d03/a19080" ],
-    [ "npc_icc_putricades_trap", "d0/de7/a19076.html#ae022f2991fee4143fb965c53e4d4da5c", null ],
-    [ "GetAI", "d0/de7/a19076.html#a42ab1cb27234ebd10755dbbedce5f187", null ]
+    [ "at_frozen_throne_teleport", "d0/de7/a19076.html#a8065b9f9b55b267be1757775f84de349", null ],
+    [ "OnTrigger", "d0/de7/a19076.html#ae1f9476b7f47320f545e702e9317bd03", null ]
 ];

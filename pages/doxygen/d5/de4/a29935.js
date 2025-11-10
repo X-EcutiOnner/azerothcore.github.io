@@ -1,8 +1,7 @@
 var a29935 =
 [
-    [ "_ACORE_DB_IMPORT_CONFIG", "d5/de4/a29935.html#a97392c73658eeeb49d256527b19ad90f", null ],
-    [ "GetConsoleArguments", "d5/de4/a29935.html#a6f250d3a28ed2192d175846c6ce5795b", null ],
-    [ "main", "d5/de4/a29935.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
-    [ "StartDB", "d5/de4/a29935.html#a1551df43a48f1dbf64dbec1e47b07eea", null ],
-    [ "StopDB", "d5/de4/a29935.html#a927af1587546ee7503a3b9a18f6439c0", null ]
+    [ "checkDirectories", "d5/de4/a29935.html#ad48ed7d842b67717d3b38b23466e728e", null ],
+    [ "finish", "d5/de4/a29935.html#a32e7545f3a98690aeb284a4eb66f272d", null ],
+    [ "handleArgs", "d5/de4/a29935.html#a825a7cefc023cf1562e66271f67987c1", null ],
+    [ "main", "d5/de4/a29935.html#a3c04138a5bfe5d72780bb7e82a18e627", null ]
 ];

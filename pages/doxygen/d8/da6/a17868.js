@@ -1,8 +1,9 @@
 var a17868 =
 [
-    [ "Load", "d8/da6/a17868.html#a363d0afcf2f79b8219652de5a3a6d466", null ],
-    [ "PrepareSpellScript", "d8/da6/a17868.html#a8df1abd311a1c32cd6ed296d75566eac", null ],
-    [ "Register", "d8/da6/a17868.html#a61e8f66c7446e0587b5d743f0e6ead92", null ],
-    [ "RelocateDest", "d8/da6/a17868.html#abad4acee4c0898fea6bfb57b8155cab2", null ],
-    [ "SelectTransport", "d8/da6/a17868.html#a0564852176d80ee6593baa3abb18238a", null ]
+    [ "HandleApply", "d8/da6/a17868.html#a5f23d41765ec949486094a0da45be7e8", null ],
+    [ "HandleRemove", "d8/da6/a17868.html#a8737bad17bf7aa3e52cb2e0b7fbc9178", null ],
+    [ "Load", "d8/da6/a17868.html#a7c2644d06592b0d929a0b59cf8fa0f1b", null ],
+    [ "PrepareAuraScript", "d8/da6/a17868.html#aabf5fdf4578935db11e041e638fba187", null ],
+    [ "Register", "d8/da6/a17868.html#a6bdc66b6028002b5fc873803a434b6b1", null ],
+    [ "SendClientControl", "d8/da6/a17868.html#a24f79a4c59d4bf615a6de745ffa11d81", null ]
 ];

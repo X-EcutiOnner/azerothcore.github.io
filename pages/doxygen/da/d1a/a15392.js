@@ -1,13 +1,5 @@
 var a15392 =
 [
-    [ "boss_sartura", "da/d1a/a15392.html#a7faaf16a1a56badd1e65a3364d425f02", null ],
-    [ "DamageTaken", "da/d1a/a15392.html#a9a404743ac8491a9efc7091259706e0f", null ],
-    [ "InitializeAI", "da/d1a/a15392.html#ae86d0a6b0cd591b3bb18333195109c22", null ],
-    [ "JustDied", "da/d1a/a15392.html#aceff44022b8d53da41ecfcb1e2317e01", null ],
-    [ "JustEngagedWith", "da/d1a/a15392.html#ab1c024908117e8460eb89c062d3825dc", null ],
-    [ "KilledUnit", "da/d1a/a15392.html#a516a75910e872718a519c2a5c9805770", null ],
-    [ "Reset", "da/d1a/a15392.html#ab3514ad48f622f65d67063723601f8de", null ],
-    [ "UpdateAI", "da/d1a/a15392.html#af3d093dab3f5191d5da2df36ca9c4a11", null ],
-    [ "berserked", "da/d1a/a15392.html#a8ad40cee9667500cb0e9533256d216c6", null ],
-    [ "enraged", "da/d1a/a15392.html#af916ff3f6468b1e48d5b1944442594e5", null ]
+    [ "at_twin_emperors", "da/d1a/a15392.html#a343d482857fa0a45c42f593e591f7754", null ],
+    [ "_OnTrigger", "da/d1a/a15392.html#adf3120b7bf611e0246abb2970711ada3", null ]
 ];

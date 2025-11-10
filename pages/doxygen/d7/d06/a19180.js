@@ -1,6 +1,6 @@
 var a19180 =
 [
-    [ "boss_anubrekhanAI", "d7/d93/a19184.html", "d7/d93/a19184" ],
-    [ "boss_anubrekhan", "d7/d06/a19180.html#a6ff866300f8b0b58d4b7467def9747c0", null ],
-    [ "GetAI", "d7/d06/a19180.html#aba5c31f182d6f600302f84ed21e9f7e9", null ]
+    [ "boss_gluthAI", "d7/d93/a19184.html", "d7/d93/a19184" ],
+    [ "boss_gluth", "d7/d06/a19180.html#a3ff6e361cd6799f41d00fa75784c4f76", null ],
+    [ "GetAI", "d7/d06/a19180.html#a3b19c938aaecc897d6552715064be7f8", null ]
 ];

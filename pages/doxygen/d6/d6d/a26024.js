@@ -1,8 +1,7 @@
 var a26024 =
 [
-    [ "CheckRequirement", "d6/d6d/a26024.html#a3ed8450641baeee915fc5a129f9c7434", null ],
-    [ "HandleScript", "d6/d6d/a26024.html#a92e3137bb92545876ca67028bcc86a4f", null ],
-    [ "Load", "d6/d6d/a26024.html#a56326701447b3a88d9022ca1f1c184a6", null ],
-    [ "PrepareSpellScript", "d6/d6d/a26024.html#a94d4155e98a4ac5764d8bfd705b05602", null ],
-    [ "Register", "d6/d6d/a26024.html#a9b440dd8bf21b70d068021d05832a3fc", null ]
+    [ "HandleDummy", "d6/d6d/a26024.html#ad6d449ac393851166d8be653639c7d05", null ],
+    [ "PrepareSpellScript", "d6/d6d/a26024.html#acb0b66631c0b3df227ee371e2e4000ac", null ],
+    [ "Register", "d6/d6d/a26024.html#a8dcd509be4d9034e8c0262bdcb2cf189", null ],
+    [ "Validate", "d6/d6d/a26024.html#af8f4e6bb32120c8113ddddcda17ae51d", null ]
 ];

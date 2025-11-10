@@ -1,11 +1,8 @@
 var a16008 =
 [
-    [ "boss_amanitar", "d7/dc2/a16008.html#a660bdf8dd64bbffda4ee1ec603c41402", null ],
-    [ "EnterEvadeMode", "d7/dc2/a16008.html#a6b3cf0ea01ce34b4281116ca8387732d", null ],
-    [ "JustDied", "d7/dc2/a16008.html#a138049712649ff414950d9d0ca05d712", null ],
-    [ "JustEngagedWith", "d7/dc2/a16008.html#ae2bace7f649626c68560d4a6d5aa4ea3", null ],
-    [ "Reset", "d7/dc2/a16008.html#aab3faca4526947a72d8ca049a605f5be", null ],
-    [ "SummonedCreatureDespawn", "d7/dc2/a16008.html#a4b9dccf5b2fe46ac9f6d5eab54ba5d43", null ],
-    [ "SummonMushroom", "d7/dc2/a16008.html#afc5b4942931f6020b2894b901650fc35", null ],
-    [ "_mushroomsDeque", "d7/dc2/a16008.html#a4ba2415d6134cdc435114cd3af235b6d", null ]
+    [ "HandleAfterCast", "d7/dc2/a16008.html#aa85852ff5e5d03637d1dcc43a446843e", null ],
+    [ "HandleDummyEffect", "d7/dc2/a16008.html#a539c233fc820248930e1988c4074b9c8", null ],
+    [ "Load", "d7/dc2/a16008.html#a4fc295b4d8775dce16d913fe4a8ce8cb", null ],
+    [ "PrepareSpellScript", "d7/dc2/a16008.html#aad6f7f1d29414475b5e678e7bd94737f", null ],
+    [ "Register", "d7/dc2/a16008.html#ae90184fd34636b33755b732ec82fd52f", null ]
 ];

@@ -1,6 +1,7 @@
 var a18684 =
 [
-    [ "npc_green_dragon_combat_triggerAI", "d3/d43/a18688.html", "d3/d43/a18688" ],
-    [ "npc_green_dragon_combat_trigger", "d9/d5a/a18684.html#acec675494f5e5e9609bf34b7f25cb569", null ],
-    [ "GetAI", "d9/d5a/a18684.html#a945b7cd0084873c17d52b3c2cc3ede22", null ]
+    [ "npc_valithria_portalAI", "d9/d5a/a18684.html#a18c1b9d2b149fbc34a17c9e87a8c70b6", null ],
+    [ "GetData", "d9/d5a/a18684.html#a598ba7930900aa211bb7e7dc12f366c0", null ],
+    [ "OnSpellClick", "d9/d5a/a18684.html#a457f2725e6580d7e6f3bb0445ba796a8", null ],
+    [ "_used", "d9/d5a/a18684.html#a92cc0c2aaa6add0c6c641719d6846bb3", null ]
 ];

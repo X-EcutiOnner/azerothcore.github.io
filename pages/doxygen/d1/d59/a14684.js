@@ -1,5 +1,6 @@
 var a14684 =
 [
-    [ "PrepareSpellScript", "d1/d59/a14684.html#a50ee42c11937759b6c52c2ab994481c4", null ],
-    [ "Register", "d1/d59/a14684.html#a8dc12a723c2da948c38119e3fc34df35", null ]
+    [ "HandleAfterEffectApply", "d1/d59/a14684.html#a54b406a450bb2b56cd32ee152ea1414e", null ],
+    [ "PrepareAuraScript", "d1/d59/a14684.html#a917379c33352721b5b76c1d9dac0c025", null ],
+    [ "Register", "d1/d59/a14684.html#a846d79564d76d6000c2276045775d7da", null ]
 ];

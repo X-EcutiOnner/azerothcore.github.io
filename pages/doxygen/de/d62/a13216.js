@@ -1,6 +1,6 @@
 var a13216 =
 [
-    [ "npc_acherus_necromancerAI", "df/de2/a13220.html", "df/de2/a13220" ],
-    [ "npc_acherus_necromancer", "de/d62/a13216.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
-    [ "GetAI", "de/d62/a13216.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
+    [ "OnRemove", "de/d62/a13216.html#aedad236b202300eee0925e3600b87bfa", null ],
+    [ "PrepareAuraScript", "de/d62/a13216.html#acfdeb98e274989e378d4d4c800306a24", null ],
+    [ "Register", "de/d62/a13216.html#a0d820ca108e3aabe87ab5867d997264c", null ]
 ];

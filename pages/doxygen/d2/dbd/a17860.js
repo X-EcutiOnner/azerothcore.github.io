@@ -1,6 +1,7 @@
 var a17860 =
 [
-    [ "PrepareSpellScript", "d2/dbd/a17860.html#a47df21229183b628c1d82bf34cbbe396", null ],
-    [ "Register", "d2/dbd/a17860.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
-    [ "RelocateTransportOffset", "d2/dbd/a17860.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
+    [ "FilterTargets", "d2/dbd/a17860.html#a32b2fa87fb2eaca3db0801fbfe4b8aaa", null ],
+    [ "Load", "d2/dbd/a17860.html#a39e8ec4726a1f6c2911c165c7187f291", null ],
+    [ "PrepareSpellScript", "d2/dbd/a17860.html#a7526a6df4c25136f4be78e753c6abf62", null ],
+    [ "Register", "d2/dbd/a17860.html#a0d01b8292c1c071a5c828a5a88617bd5", null ]
 ];

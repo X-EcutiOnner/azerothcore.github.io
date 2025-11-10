@@ -1,8 +1,8 @@
 var a02441 =
 [
-    [ "boss_kazrogal", "d0/d97/a14872.html", "d0/d97/a14872" ],
-    [ "spell_mark_of_kazrogal", "da/d40/a14876.html", "da/d40/a14876" ],
-    [ "spell_mark_of_kazrogal_aura", "dc/dda/a14880.html", "dc/dda/a14880" ],
+    [ "boss_kazrogal", "d0/d9c/a14844.html", "d0/d9c/a14844" ],
+    [ "spell_mark_of_kazrogal", "df/d5d/a14848.html", "df/d5d/a14848" ],
+    [ "spell_mark_of_kazrogal_aura", "d2/d08/a14852.html", "d2/d08/a14852" ],
     [ "Sounds", "d9/dd6/a02441.html#a378d5c1c6cef9f24f253a041e207663c", [
       [ "SOUND_ONDEATH", "d9/dd6/a02441.html#a378d5c1c6cef9f24f253a041e207663ca58cd7625c6ee6018ac12a602b0cdbc9c", null ],
       [ "SOUND_VK_AGGRO", "d3/d9c/a02336.html#a378d5c1c6cef9f24f253a041e207663ca0edcc266fe5c93b2c8928b48e4e6743e", null ],
@@ -1652,7 +1652,6 @@ var a02441 =
       [ "SPELL_FROSTBOLT", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e", null ],
       [ "SPELL_TOUCH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d", null ],
       [ "SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6", null ],
-      [ "SPELL_RAIN_OF_FIRE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca770475c37ddfbb0a8c98a0c8a7c98f0d", null ],
       [ "SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8", null ],
       [ "SPELL_EYE_BEAM", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc", null ],
       [ "SPELL_LIGHTNING_BREATH", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298caba0559b83dfa3b94464ac474a4b62e3e", null ],

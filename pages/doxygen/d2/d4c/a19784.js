@@ -1,6 +1,9 @@
 var a19784 =
 [
-    [ "boss_sjonnirAI", "d6/d65/a19788.html", "d6/d65/a19788" ],
-    [ "boss_sjonnir", "d2/d4c/a19784.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "d2/d4c/a19784.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "d2/d4c/a19784.html#a0624f769d0ce5a95ea2bb877811b0409", null ],
+    [ "JustEngagedWith", "d2/d4c/a19784.html#a9e6527bc46d7b685d938833d18796cee", null ],
+    [ "MoveInLineOfSight", "d2/d4c/a19784.html#a7449e135f088a2d4b22a423c71118093", null ],
+    [ "MovementInform", "d2/d4c/a19784.html#ac04d90e974f85282737bb5081a123106", null ],
+    [ "UpdateAI", "d2/d4c/a19784.html#afccd77c8e90d129fb3a347205a2102db", null ],
+    [ "events", "d2/d4c/a19784.html#a73c135ec94b41a752fc203c5e20128d0", null ]
 ];

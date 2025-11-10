@@ -1,7 +1,6 @@
 var a26464 =
 [
-    [ "CalculateAmount", "da/d94/a26464.html#a5d4549ac73b46382c1beddbb65257ad0", null ],
-    [ "HandleUpdateSpellclick", "da/d94/a26464.html#a89956d7f3a6404d5b60e46034867c82c", null ],
-    [ "PrepareAuraScript", "da/d94/a26464.html#a7cbdc79c63306a8fcfcc06180998a290", null ],
-    [ "Register", "da/d94/a26464.html#a2252719e6ea995b85b7b0c5ecb6a26d3", null ]
+    [ "CheckCast", "da/d94/a26464.html#a2edd0bcaa3b026cc70f9f6b58f53f486", null ],
+    [ "PrepareSpellScript", "da/d94/a26464.html#aaf1e16dbc8d33aadcbf74dc4cebe715b", null ],
+    [ "Register", "da/d94/a26464.html#a32aaab12105c9b1c09edfa8a444ced9c", null ]
 ];

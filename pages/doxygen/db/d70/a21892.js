@@ -1,13 +1,14 @@
 var a21892 =
 [
-    [ "npc_shandy_dalaranAI", "db/d70/a21892.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
-    [ "Reset", "db/d70/a21892.html#a38f0630d4e18cea01de343afdcb96db3", null ],
-    [ "RollTask", "db/d70/a21892.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
-    [ "SetData", "db/d70/a21892.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
-    [ "UpdateAI", "db/d70/a21892.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
-    [ "_aquanosGUID", "db/d70/a21892.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
-    [ "_canWash", "db/d70/a21892.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
-    [ "_events", "db/d70/a21892.html#a3fbae63669c8382097b0bcb936301945", null ],
-    [ "_lCount", "db/d70/a21892.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
-    [ "_lSource", "db/d70/a21892.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
+    [ "npc_dalaran_mageAI", "db/d70/a21892.html#ae896a065d2975c5f4d0a125261796215", null ],
+    [ "Initialize", "db/d70/a21892.html#a8ede1e1e4599f288f5a8c20c40c11236", null ],
+    [ "JustEngagedWith", "db/d70/a21892.html#a05e9c672ab73029c70fa3d2605b6174d", null ],
+    [ "Reset", "db/d70/a21892.html#adee723525f46e5476e135e3043f5feb9", null ],
+    [ "UpdateAI", "db/d70/a21892.html#ab3d5812e38c1fcc1c01af3fdbd27a61e", null ],
+    [ "blink_timer", "db/d70/a21892.html#ae888e0e5d3302e0a47b6e3d41f166c67", null ],
+    [ "blizzard_timer", "db/d70/a21892.html#a5da62a7ee9abf7a94c2543076d6479a6", null ],
+    [ "CoC_Timer", "db/d70/a21892.html#a8a86c02e2c3759ec1f64087943d37b26", null ],
+    [ "frostfire_timer", "db/d70/a21892.html#ab91070d41571e0070a7c92bf0694f4cc", null ],
+    [ "frostnova_timer", "db/d70/a21892.html#a77e9a7686cece7ee97236ce6386f82bf", null ],
+    [ "restoremana_timer", "db/d70/a21892.html#a33da20a649faa6ee7e61db79846ac4a7", null ]
 ];

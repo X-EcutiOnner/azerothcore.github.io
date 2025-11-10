@@ -1,5 +1,5 @@
 var a28644 =
 [
-    [ "Flags", "dd/dec/a28644.html#a0cb97c73af91dcfdd151c38aa46828cc", null ],
-    [ "Id", "dd/dec/a28644.html#a85e0e36dbc79f309d7f50b087ebcd166", null ]
+    [ "Duration", "dd/dec/a28644.html#a20417b0f394c08c779fd3851c2cde87d", null ],
+    [ "ID", "dd/dec/a28644.html#a04f9304093a15b4b7f6596993f2e86d9", null ]
 ];

@@ -1,8 +1,8 @@
 var a18744 =
 [
-    [ "npc_blistering_zombieAI", "d0/dc6/a18744.html#acf278cd2249ac45a4b043427ba36b3ce", null ],
-    [ "DamageTaken", "d0/dc6/a18744.html#adf031992078214f90d859df2b54aac91", null ],
-    [ "UpdateAI", "d0/dc6/a18744.html#ae081898b8dcaf45cd3069e79021de452", null ],
-    [ "casted", "d0/dc6/a18744.html#a0f70f5d58ef0bb20f64b0aec4df04905", null ],
-    [ "timer", "d0/dc6/a18744.html#a8b865c2a87b1fc020d8250767febab0a", null ]
+    [ "DecayPeriodicTimer", "d0/dc6/a18744.html#a314ac33692cc352c490ec3d87177d67a", null ],
+    [ "Load", "d0/dc6/a18744.html#af5a498253c4c382df3b2462a30448a64", null ],
+    [ "PrepareAuraScript", "d0/dc6/a18744.html#ac5d4ee199b49e04499997355ac054554", null ],
+    [ "Register", "d0/dc6/a18744.html#a1b59480ce384f09cecd47872b39cf3c5", null ],
+    [ "_decayRate", "d0/dc6/a18744.html#a20c696ff06f9b48451d9eac43ccf5416", null ]
 ];

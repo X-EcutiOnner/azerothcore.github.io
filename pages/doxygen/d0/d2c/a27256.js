@@ -1,6 +1,5 @@
 var a27256 =
 [
-    [ "AfterCheckProc", "d0/d2c/a27256.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
-    [ "PrepareAuraScript", "d0/d2c/a27256.html#aa184faf59edbad97ec361e66169137b9", null ],
-    [ "Register", "d0/d2c/a27256.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
+    [ "achievement_bg_sa_artillery", "d0/d2c/a27256.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
+    [ "OnCheck", "d0/d2c/a27256.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
 ];

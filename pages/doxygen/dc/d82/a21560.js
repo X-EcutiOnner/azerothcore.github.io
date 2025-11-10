@@ -1,12 +1,11 @@
 var a21560 =
 [
-    [ "boss_moraggAI", "dc/d82/a21560.html#a3ae881c9adca20a2cb894af85297d53e", null ],
-    [ "EnterEvadeMode", "dc/d82/a21560.html#a4e70e42407f452c4685c732949fd2b52", null ],
-    [ "JustDied", "dc/d82/a21560.html#a97516e6ad5f7f35d0329674130e76dd3", null ],
-    [ "JustEngagedWith", "dc/d82/a21560.html#ab1d4d863a537a3c567eeda6f95f385ca", null ],
-    [ "MoveInLineOfSight", "dc/d82/a21560.html#a52a99d72dfa017baacb76717e6db931b", null ],
-    [ "Reset", "dc/d82/a21560.html#a8b7419c94e36b4b2292cf110a2eccb01", null ],
-    [ "UpdateAI", "dc/d82/a21560.html#aec7645eaae190d1e7982aae181ff9224", null ],
-    [ "events", "dc/d82/a21560.html#acd021e4216e3920f0534da95d69ba5eb", null ],
-    [ "pInstance", "dc/d82/a21560.html#a9f179ea9b180095a1e6df11b4842c5e5", null ]
+    [ "npc_vh_void_sentryAI", "dc/d82/a21560.html#a312f4bbc07e6d786e85c2b4e89d36344", null ],
+    [ "DoAction", "dc/d82/a21560.html#a0bc95eea54b5cdc16a4d3f588f3ff900", null ],
+    [ "JustDied", "dc/d82/a21560.html#add5121ed38a74be9ae168df5f893f89e", null ],
+    [ "SummonedCreatureDespawn", "dc/d82/a21560.html#a24ff36cdb049da7c67c1f041361e17e4", null ],
+    [ "UpdateAI", "dc/d82/a21560.html#ae1f683d5ef920213c9c86da35c626381", null ],
+    [ "checkTimer", "dc/d82/a21560.html#a675bcae4119e45490403013534c731ef", null ],
+    [ "pInstance", "dc/d82/a21560.html#a7527473944681143bab89fd12b475645", null ],
+    [ "SummonedGUID", "dc/d82/a21560.html#a4420eb2cf4d3b6d161355b0f4ad9516d", null ]
 ];

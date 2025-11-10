@@ -1,6 +1,5 @@
 var a13732 =
 [
-    [ "HandleSendEvent", "de/d2f/a13732.html#a1be975f4440b823c34cc3e790fcff608", null ],
-    [ "PrepareSpellScript", "de/d2f/a13732.html#a91ac4a392fcf5b6e833fb3f5103d8e06", null ],
-    [ "Register", "de/d2f/a13732.html#a217fb7cb47b08999d49ec04b345b77fe", null ]
+    [ "at_twilight_grove", "de/d2f/a13732.html#a2ef32dbac0a35aa7dc6ebbafe926125f", null ],
+    [ "OnTrigger", "de/d2f/a13732.html#a8ee7239b8429df38a237926a7252322b", null ]
 ];

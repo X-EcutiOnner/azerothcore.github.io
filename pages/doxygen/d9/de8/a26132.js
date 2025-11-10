@@ -1,7 +1,6 @@
 var a26132 =
 [
-    [ "HandleScript", "d9/de8/a26132.html#aad0be226a2d294d3361c1afbf644c5e4", null ],
-    [ "PrepareSpellScript", "d9/de8/a26132.html#a85dee311aab08d796a3a0c1bc9e9390d", null ],
-    [ "Register", "d9/de8/a26132.html#a2b22be9826db241ecf3f99ff16c309c0", null ],
-    [ "Validate", "d9/de8/a26132.html#a98df659504307fc0666fe2b1001eaa00", null ]
+    [ "HandleOpenObject", "d9/de8/a26132.html#ab658c13615fac1861470bb4b853e76a4", null ],
+    [ "PrepareSpellScript", "d9/de8/a26132.html#a0fd0a3dc06fc2140add9e3d86e544bef", null ],
+    [ "Register", "d9/de8/a26132.html#a40ff1e10d366ca7183e4e8d027c92d1b", null ]
 ];

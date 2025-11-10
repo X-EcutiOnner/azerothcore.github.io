@@ -1,11 +1,9 @@
 var a28508 =
 [
-    [ "ClassID", "dc/dde/a28508.html#a8cc7d61907f8fd5c2b3429c21ccbcc05", null ],
-    [ "DisplayInfoID", "dc/dde/a28508.html#a87657df2ad024245ccb2192303f76b7a", null ],
-    [ "ID", "dc/dde/a28508.html#a8ee5b01112a6d01cf46b4e37fb2e6269", null ],
-    [ "InventoryType", "dc/dde/a28508.html#a6dc33fc40a299b010c18a7009aff648b", null ],
-    [ "Material", "dc/dde/a28508.html#ab07b947a5b8c2e7aee60ac96d979ad3c", null ],
-    [ "SheatheType", "dc/dde/a28508.html#a63a6d7c2a8e2514384a5eb99cd890747", null ],
-    [ "SoundOverrideSubclassID", "dc/dde/a28508.html#a6072ce88b5c93034418c590d8aba1ea3", null ],
-    [ "SubclassID", "dc/dde/a28508.html#ac39254716573e335caf312f635353a2e", null ]
+    [ "itemId", "dc/dde/a28508.html#ae125712e5569c9699b4748b6a15fbc12", null ],
+    [ "items_to_triggerspell", "dc/dde/a28508.html#a8496a2f3fa3e230def04b996fc585760", null ],
+    [ "name", "dc/dde/a28508.html#a9b62f843833d524f200782d44151503d", null ],
+    [ "required_skill_id", "dc/dde/a28508.html#ab3058ac725fb8f105b9359d5a5147942", null ],
+    [ "required_skill_value", "dc/dde/a28508.html#a58d0997a73cf48061545edbc0201f544", null ],
+    [ "spells", "dc/dde/a28508.html#a8aac032992efe1bfbba0e49693562c7f", null ]
 ];

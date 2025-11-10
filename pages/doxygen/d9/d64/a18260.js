@@ -1,6 +1,7 @@
 var a18260 =
 [
-    [ "npc_ice_tombAI", "df/dfa/a18264.html", "df/dfa/a18264" ],
-    [ "npc_ice_tomb", "d9/d64/a18260.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
-    [ "GetAI", "d9/d64/a18260.html#ac99b7c9887e54a1764310bd3e079811a", null ]
+    [ "HandleScript", "d9/d64/a18260.html#a5fbb1d26c4e7d5d21745004e477b3c1e", null ],
+    [ "PrepareSpellScript", "d9/d64/a18260.html#a7e6b56f426be7925255da3ebc239f909", null ],
+    [ "Register", "d9/d64/a18260.html#a0eb2d734ac99d3a036b95b6daa39b9f5", null ],
+    [ "Validate", "d9/d64/a18260.html#a86b4296eab73fc63b38558871f16a889", null ]
 ];

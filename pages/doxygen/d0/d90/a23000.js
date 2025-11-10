@@ -1,7 +1,7 @@
 var a23000 =
 [
-    [ "HandleOnEffectApply", "d0/d90/a23000.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
-    [ "HandleOnEffectRemove", "d0/d90/a23000.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
-    [ "PrepareAuraScript", "d0/d90/a23000.html#a45df29f911b1232e306e04a182648904", null ],
-    [ "Register", "d0/d90/a23000.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
+    [ "VerasEnvenom", "d0/d90/a23000.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "d0/d90/a23000.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "d0/d90/a23000.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "d0/d90/a23000.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

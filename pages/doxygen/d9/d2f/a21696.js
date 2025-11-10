@@ -1,6 +1,6 @@
 var a21696 =
 [
-    [ "npc_violet_hold_defense_system", "d9/d2f/a21696.html#abb5eb275e803201aad3010ad77aa4b41", null ],
-    [ "Reset", "d9/d2f/a21696.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
-    [ "UpdateAI", "d9/d2f/a21696.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ]
+    [ "npc_nerubar_victimAI", "d7/df8/a21700.html", "d7/df8/a21700" ],
+    [ "npc_nerubar_victim", "d9/d2f/a21696.html#a4fe80597d3e56776f0f04965fc706097", null ],
+    [ "GetAI", "d9/d2f/a21696.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
 ];

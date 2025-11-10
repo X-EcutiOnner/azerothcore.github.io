@@ -1,7 +1,6 @@
 var a18788 =
 [
-    [ "OnApply", "da/db2/a18788.html#ac35f5d98980f54470a75a72b3578681f", null ],
-    [ "OnRemove", "da/db2/a18788.html#a9844b3d82680bfc9756b141fcf29e1f9", null ],
-    [ "PrepareAuraScript", "da/db2/a18788.html#a83c90d16fa151026a1e02927e31922ee", null ],
-    [ "Register", "da/db2/a18788.html#a255e44ac6db7fd779d98fc3660ee91c6", null ]
+    [ "npc_rotting_frost_giantAI", "d2/d4b/a18792.html", "d2/d4b/a18792" ],
+    [ "npc_rotting_frost_giant", "da/db2/a18788.html#ad4440216e11a00d97af43dc5f3957e95", null ],
+    [ "GetAI", "da/db2/a18788.html#aabc388b3690f2d03e903c7f480d52842", null ]
 ];

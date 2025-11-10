@@ -1,6 +1,6 @@
 var a22072 =
 [
-    [ "npc_spiritual_insightAI", "de/df4/a22072.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "de/df4/a22072.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "de/df4/a22072.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "HandleScriptEffect", "de/df4/a22072.html#aab68c7fac277f4da5a6cf8bf8e6256ea", null ],
+    [ "PrepareSpellScript", "de/df4/a22072.html#a6b7f628a138ac395a8cc122902ec38b4", null ],
+    [ "Register", "de/df4/a22072.html#aacf2bbf7b8396fd7cfbfaf34a66f9b61", null ]
 ];

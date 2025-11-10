@@ -1,6 +1,9 @@
 var a14228 =
 [
-    [ "HandleOnHit", "df/d11/a14228.html#a1f133ab9e85f80c225276bf744da6898", null ],
-    [ "PrepareSpellScript", "df/d11/a14228.html#ae554f8be36eabc6d23f823e6d153be2b", null ],
-    [ "Register", "df/d11/a14228.html#a1063358ed71ded8454f35f43442354ab", null ]
+    [ "npc_healing_ward", "df/d11/a14228.html#a3d3c35f61502d3a83cb2581119e08903", null ],
+    [ "JustEngagedWith", "df/d11/a14228.html#a5faf7c5633c44ec1fa70b60b2071b97b", null ],
+    [ "Reset", "df/d11/a14228.html#a756d27a43d86c7ecde859df255c6bd62", null ],
+    [ "UpdateAI", "df/d11/a14228.html#a8b8635af33ce814602206064e0815520", null ],
+    [ "_instance", "df/d11/a14228.html#a65f227041ad4bdc7240637dd6cb680ec", null ],
+    [ "_scheduler", "df/d11/a14228.html#a0c62fe945b491cab76175217a7d10c06", null ]
 ];

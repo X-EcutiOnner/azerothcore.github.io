@@ -1,7 +1,6 @@
 var a22316 =
 [
-    [ "Absorb", "d3/d6b/a22316.html#a784b48553696734abac77545df2fc045", null ],
-    [ "CalculateAmount", "d3/d6b/a22316.html#a456ee99a71062f6217bda7561e4e7766", null ],
-    [ "PrepareAuraScript", "d3/d6b/a22316.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
-    [ "Register", "d3/d6b/a22316.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
+    [ "npc_guardian_pavilionAI", "d9/d41/a22320.html", "d9/d41/a22320" ],
+    [ "npc_guardian_pavilion", "d3/d6b/a22316.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "d3/d6b/a22316.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

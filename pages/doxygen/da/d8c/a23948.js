@@ -1,10 +1,10 @@
 var a23948 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "da/d8c/a23948.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
-    [ "GetGuidData", "da/d8c/a23948.html#aa4bedf168359eaf5332476a6de99c830", null ],
-    [ "OnGameObjectCreate", "da/d8c/a23948.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
-    [ "SetBossState", "da/d8c/a23948.html#a2937e4ea47af542a476bd3399ecc7233", null ],
-    [ "SetData", "da/d8c/a23948.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
-    [ "StasisPodGUIDs", "da/d8c/a23948.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
-    [ "WardensShieldGUID", "da/d8c/a23948.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
+    [ "boss_thorngrin_the_tender", "da/d8c/a23948.html#ad960b1084fc08d2870975c7c6c44ab2b", null ],
+    [ "JustDied", "da/d8c/a23948.html#a4bc13108f7cb240fedb44ccae2b54047", null ],
+    [ "JustEngagedWith", "da/d8c/a23948.html#a647ed5b29861b719d3c4a11fd110c512", null ],
+    [ "KilledUnit", "da/d8c/a23948.html#ab3731c5b56e1c01aa5d78d84a5e60234", null ],
+    [ "MoveInLineOfSight", "da/d8c/a23948.html#a9467e59287b3e917907de82507d1a16d", null ],
+    [ "Reset", "da/d8c/a23948.html#af3f1471cbcdadfe3a86421d7232fb4b9", null ],
+    [ "_intro", "da/d8c/a23948.html#a48fc89c7e9814d90a8724ca38c5e2fe8", null ]
 ];

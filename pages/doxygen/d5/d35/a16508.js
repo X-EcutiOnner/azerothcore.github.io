@@ -1,8 +1,8 @@
 var a16508 =
 [
-    [ "npc_toc5_player_vehicleAI", "d5/d35/a16508.html#afa00a6254b482aae5397be04860ac8ba", null ],
-    [ "BeforeSpellClick", "d5/d35/a16508.html#aac7db7f40b47a9c098c98bacb7569faf", null ],
-    [ "OnCharmed", "d5/d35/a16508.html#ace805882a25a9d075d811714e607fa2b", null ],
-    [ "PassengerBoarded", "d5/d35/a16508.html#aca35804df751185193ff5865255d3687", null ],
-    [ "Reset", "d5/d35/a16508.html#a5439b98d544124836d2cf9762f764cea", null ]
+    [ "npc_announcer_toc5AI", "d0/d3d/a16512.html", "d0/d3d/a16512" ],
+    [ "npc_announcer_toc5", "d5/d35/a16508.html#abf50bb7deb9e0bb04d9ac802aff5fa41", null ],
+    [ "GetAI", "d5/d35/a16508.html#a06767a8fd1e940d4efee6dd752520e9e", null ],
+    [ "OnGossipHello", "d5/d35/a16508.html#ad2cc55ddc6696b9bfb22e68eab965fb0", null ],
+    [ "OnGossipSelect", "d5/d35/a16508.html#a9017488c652fd75882db75914f4a2db2", null ]
 ];

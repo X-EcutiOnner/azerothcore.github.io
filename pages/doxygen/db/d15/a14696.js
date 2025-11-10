@@ -1,17 +1,11 @@
 var a14696 =
 [
-    [ "npc_midsummer_ribbon_pole_target", "db/d15/a14696.html#ac09222eff300a11e03e8a3a1c9a3fd5f", null ],
-    [ "DoCleanupChecks", "db/d15/a14696.html#a5e5a67ed5492db34fd6c2e28a2cd7f74", null ],
-    [ "DoDancingFLameChecks", "db/d15/a14696.html#af4e76d832c3fd47eb88c1a69d0cdf9ff", null ],
-    [ "DoFireworkChecks", "db/d15/a14696.html#a19eb48c537d58ad8f2021e9eabe4fae2", null ],
-    [ "DoFlameCircleChecks", "db/d15/a14696.html#af37e104b67dcf9a2c181c142d56cc708", null ],
-    [ "DoGroundFlowerChecks", "db/d15/a14696.html#a0a9961eb0c2d5afde8f96bb0580d1974", null ],
-    [ "DoSpewLavaChecks", "db/d15/a14696.html#a94086429fe5cf506c64ea79ebcf03317", null ],
-    [ "LocateRibbonPole", "db/d15/a14696.html#a55f16f2ced0045ea373e9d0a239301d1", null ],
-    [ "SpawnFireSpiralBunny", "db/d15/a14696.html#ae91d1899212fa391f6ae4ec3a1de6e85", null ],
-    [ "SpellHit", "db/d15/a14696.html#ab732995946655894611eb1c12ce4e8a8", null ],
-    [ "UpdateAI", "db/d15/a14696.html#affeb3025627dd5697f0c4dccab66d3b6", null ],
-    [ "_bunny", "db/d15/a14696.html#a0161d569d4c1fb2e1bf69936312be8df", null ],
-    [ "_dancerList", "db/d15/a14696.html#a41e453f742a06bc7485e290756dbc746", null ],
-    [ "_ribbonPole", "db/d15/a14696.html#aeea38608ae98cd5597c104ea04e32523", null ]
+    [ "HandleFinish", "db/d15/a14696.html#ace3a2ad0cf8ac31f7ef5345f1dbbf6e7", null ],
+    [ "HandleScript", "db/d15/a14696.html#a2a2f005c29f0381c3c45d04a75ccc378", null ],
+    [ "Load", "db/d15/a14696.html#a177ea78202f4d5b4c381f1712b01fe43", null ],
+    [ "PrepareSpellScript", "db/d15/a14696.html#a9714f48de3982feb245f78efb8008f1b", null ],
+    [ "Register", "db/d15/a14696.html#ad24c159a0dcfb86eb35a4286f606a3ab", null ],
+    [ "ThrowNextTorch", "db/d15/a14696.html#a6ea11852ede397c1ede1ebaabb906c35", null ],
+    [ "Validate", "db/d15/a14696.html#a026fbf7123f6780459c19ff04b370b08", null ],
+    [ "handled", "db/d15/a14696.html#a869fde9e5d0756d3c68a8db3e10ad50d", null ]
 ];

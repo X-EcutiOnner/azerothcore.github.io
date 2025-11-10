@@ -1,7 +1,8 @@
 var a14080 =
 [
-    [ "npc_zuljin_vortex", "dc/df8/a14080.html#af3af996adc0a0dba4af992234f8356fb", null ],
-    [ "ChangeToNewPlayer", "dc/df8/a14080.html#ab353794ef978151999fdd2294783e757", null ],
-    [ "Reset", "dc/df8/a14080.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
-    [ "UpdateAI", "dc/df8/a14080.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
+    [ "npc_zulaman_hostageAI", "df/d3e/a14084.html", "df/d3e/a14084" ],
+    [ "npc_zulaman_hostage", "dc/df8/a14080.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
+    [ "GetAI", "dc/df8/a14080.html#a0ae144dc154dd028b409c9d2393f890c", null ],
+    [ "OnGossipHello", "dc/df8/a14080.html#a89d68a976f916a4de2196b57ec0026b0", null ],
+    [ "OnGossipSelect", "dc/df8/a14080.html#a114f6fbfab90944fd49babcba4b48a11", null ]
 ];

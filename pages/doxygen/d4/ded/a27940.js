@@ -1,5 +1,6 @@
 var a27940 =
 [
-    [ "npc_controller", "d4/ded/a27940.html#a3c75fb509d5cf4b4d417c97b409615b1", null ],
-    [ "OnCharmed", "d4/ded/a27940.html#a69628677de225d76a8c89b4626e0f32b", null ]
+    [ "npc_necropolis_relay", "d4/ded/a27940.html#a044958acd1449d664532aeea7d0cb2fd", null ],
+    [ "SpellHit", "d4/ded/a27940.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
+    [ "SpellHitTarget", "d4/ded/a27940.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
 ];

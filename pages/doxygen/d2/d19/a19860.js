@@ -1,6 +1,6 @@
 var a19860 =
 [
-    [ "instance_halls_of_stone_InstanceMapScript", "db/d62/a19864.html", "db/d62/a19864" ],
-    [ "instance_halls_of_stone", "d2/d19/a19860.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
-    [ "GetInstanceScript", "d2/d19/a19860.html#a784906c7710a216016101cf7a6a915f3", null ]
+    [ "npc_collapsing_starAI", "db/d62/a19864.html", "db/d62/a19864" ],
+    [ "npc_collapsing_star", "d2/d19/a19860.html#a8d57987c9b4622746d4f42a2b4845b9e", null ],
+    [ "GetAI", "d2/d19/a19860.html#a346af96d122e64c68defdeccb9183cd4", null ]
 ];

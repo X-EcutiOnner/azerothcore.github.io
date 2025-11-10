@@ -1,6 +1,6 @@
 var a17680 =
 [
-    [ "ModAuraValue", "d2/d80/a17680.html#a359453c6253beb6f729209c6d3d79af7", null ],
-    [ "PrepareSpellScript", "d2/d80/a17680.html#a4f916abef69782be10cc6be9ba0124f5", null ],
-    [ "Register", "d2/d80/a17680.html#a4a387df07c88144288c4327ce86b730a", null ]
+    [ "boss_festergutAI", "d7/de7/a17684.html", "d7/de7/a17684" ],
+    [ "boss_festergut", "d2/d80/a17680.html#a07ac6be688118cc57e6fdc1d8e961953", null ],
+    [ "GetAI", "d2/d80/a17680.html#ab2624e1908bb376f1b195a88e4b9b146", null ]
 ];

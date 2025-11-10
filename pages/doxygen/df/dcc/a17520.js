@@ -1,6 +1,7 @@
 var a17520 =
 [
-    [ "npc_ball_of_flameAI", "d4/dfa/a17524.html", "d4/dfa/a17524" ],
-    [ "npc_ball_of_flame", "df/dcc/a17520.html#a353bf8385dea6c2e4a489bd14c87e0fe", null ],
-    [ "GetAI", "df/dcc/a17520.html#ac0309668f9f0ca85a644d4928966e577", null ]
+    [ "HandleScript", "df/dcc/a17520.html#a4b1e392acea30a9259e65a75667704c5", null ],
+    [ "Load", "df/dcc/a17520.html#a9af7bb4defb7c590aaff1a709dad4573", null ],
+    [ "PrepareSpellScript", "df/dcc/a17520.html#a17301c4ef9623ec04ec3c15dfd4e316f", null ],
+    [ "Register", "df/dcc/a17520.html#a77632d11a172e5552c0c49de830a1639", null ]
 ];

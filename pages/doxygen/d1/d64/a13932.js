@@ -1,7 +1,7 @@
 var a13932 =
 [
-    [ "o", "d1/d64/a13932.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
-    [ "x", "d1/d64/a13932.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
-    [ "y", "d1/d64/a13932.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
-    [ "z", "d1/d64/a13932.html#abf42d988d416ebe409100c4b860d26db", null ]
+    [ "HandleScript", "d1/d64/a13932.html#acd4373ab762d00d262984c36190d6f93", null ],
+    [ "PrepareSpellScript", "d1/d64/a13932.html#a113216b272d0386f248a75bfcf30c6a3", null ],
+    [ "Register", "d1/d64/a13932.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
+    [ "Validate", "d1/d64/a13932.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
 ];

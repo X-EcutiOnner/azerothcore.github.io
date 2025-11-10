@@ -1,8 +1,28 @@
 var a19848 =
 [
-    [ "iron_golem_custodianAI", "d5/de1/a19848.html#aeeeed1383f5d221eb7b5cd5d3a6ea4fb", null ],
-    [ "JustEngagedWith", "d5/de1/a19848.html#acd67b8d4df95eb8b0d0365184e47a29c", null ],
-    [ "Reset", "d5/de1/a19848.html#af3193696d665746eecd9c62128d8684d", null ],
-    [ "UpdateAI", "d5/de1/a19848.html#ab1d3910b07a6c5c53f5388a10dc48775", null ],
-    [ "events", "d5/de1/a19848.html#a9e0bcc9ae6918f9fa40cbf8085d4ec42", null ]
+    [ "boss_algalon_the_observerAI", "d5/de1/a19848.html#a2c2d990919a6f5cba8ff8127199195e3", null ],
+    [ "AttackStart", "d5/de1/a19848.html#a2631ccc7111d01735a97244838ca9c27", null ],
+    [ "CallConstellations", "d5/de1/a19848.html#a564415931ad23ee369f2df503ce9c561", null ],
+    [ "DamageTaken", "d5/de1/a19848.html#a5f96871a1fb8ecb0e6d861d96601876d", null ],
+    [ "DoAction", "d5/de1/a19848.html#a931e8e5178a0e1d201e002ef06d9af3e", null ],
+    [ "DoCheckHeraldOfTheTitans", "d5/de1/a19848.html#a68cf28542db34f6d5784218085dc0d4c", null ],
+    [ "EnterEvadeMode", "d5/de1/a19848.html#aa114e1b79dc128fbad06223039f5d57a", null ],
+    [ "GetData", "d5/de1/a19848.html#acc68df65e98350c9bd8d8838ebc5d926", null ],
+    [ "IsInRoom", "d5/de1/a19848.html#a85f55d3a1f0dae6f5015310b7aa47e2c", null ],
+    [ "IsValidHeraldItem", "d5/de1/a19848.html#ab9498202d44b60655f877dd751201c11", null ],
+    [ "JustEngagedWith", "d5/de1/a19848.html#acc87dc30d4b60f111d1ffd6718f38959", null ],
+    [ "JustReachedHome", "d5/de1/a19848.html#a9a506424f408f3574f8dfbaf099b37e9", null ],
+    [ "JustSummoned", "d5/de1/a19848.html#af2d96586fd35513073e22ccd1dafc109", null ],
+    [ "KilledUnit", "d5/de1/a19848.html#a4f4a9ae8f0513ace5965ec37ae7afe36", null ],
+    [ "MovementInform", "d5/de1/a19848.html#aeeedd56277bd2b6a91fbdf29a4fc5016", null ],
+    [ "Reset", "d5/de1/a19848.html#aa770123f55cbe8dd0fa6107fcc101a22", null ],
+    [ "UpdateAI", "d5/de1/a19848.html#aa699ab825076fd56f54084708087d871", null ],
+    [ "_fedOnTears", "d5/de1/a19848.html#a14aaf7e154db5ad43cee0524f3c2fbb0", null ],
+    [ "_fightWon", "d5/de1/a19848.html#a15bd59c5e9be39fb57b4511f22c093f4", null ],
+    [ "_firstPull", "d5/de1/a19848.html#a0123d20ad380467522167c1612ab34e6", null ],
+    [ "_heraldOfTheTitans", "d5/de1/a19848.html#a9f81cbf1360db8c8e1a9646cf31cf4b6", null ],
+    [ "_phaseTwo", "d5/de1/a19848.html#a2176501407dd0bf927806a87b22f87d2", null ],
+    [ "events", "d5/de1/a19848.html#aa79c8c65f5ac56558d24416e00fdf003", null ],
+    [ "m_pInstance", "d5/de1/a19848.html#a4901167c02871f8228de44cd92b5e7db", null ],
+    [ "summons", "d5/de1/a19848.html#abe084c0ec13623e078e79a3fb9a1e080", null ]
 ];

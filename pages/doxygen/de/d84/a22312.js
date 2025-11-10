@@ -1,7 +1,7 @@
 var a22312 =
 [
-    [ "HandleDummy", "de/d84/a22312.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "de/d84/a22312.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "de/d84/a22312.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "de/d84/a22312.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "HandleScriptEffect", "de/d84/a22312.html#ad20cf97a7dd442d5670a22095b487a01", null ],
+    [ "PrepareSpellScript", "de/d84/a22312.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
+    [ "Register", "de/d84/a22312.html#a996ea344ea2a3312cb8886565b80972d", null ],
+    [ "Validate", "de/d84/a22312.html#a29bf5a9615e02281f426bf521a045567", null ]
 ];

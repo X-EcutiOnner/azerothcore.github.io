@@ -1,9 +1,5 @@
 var a20860 =
 [
-    [ "boss_thorim_gauntlet_npcsAI", "dd/d93/a20860.html#aaa7e94f653a1db001cd0c962fb855098", null ],
-    [ "JustEngagedWith", "dd/d93/a20860.html#afaf0a05b1fd2fc2187b52328340b65bb", null ],
-    [ "Reset", "dd/d93/a20860.html#a9e4c25742785809d788f2e910f7840bc", null ],
-    [ "UpdateAI", "dd/d93/a20860.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29", null ],
-    [ "_isCaster", "dd/d93/a20860.html#a104f447cc52c285d59653a8ebff20fef", null ],
-    [ "events", "dd/d93/a20860.html#a650508e05b6fa1af538a0b34e04c8bf5", null ]
+    [ "go_thorim_lever", "dd/d93/a20860.html#a7641a89c3c369d26753a6e97dd435802", null ],
+    [ "OnGossipHello", "dd/d93/a20860.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
 ];

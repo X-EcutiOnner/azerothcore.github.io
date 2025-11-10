@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: MPQFile Class Reference</title>
+<title>AzerothCore: WDT_file Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,319 +106,126 @@ $(document).ready(function(){initNavTree('d3/d0e/a28988.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d1/d26/a28985.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">MPQFile Class Reference</div></div>
+  <div class="headertitle"><div class="title">WDT_file Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">mpq_libmpq04.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">wdt.h</a>&quot;</code></p>
+<div class="dynheader">
+Inheritance diagram for WDT_file:</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="../../d3/d0e/a28988.png" usemap="#WDT_5Ffile_map" alt=""/>
+  <map id="WDT_5Ffile_map" name="WDT_5Ffile_map">
+<area href="../../d5/d3b/a28952.html" alt="FileLoader" shape="rect" coords="0,0,73,24"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a52b375817a88514d9215330b20367a0a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#a52b375817a88514d9215330b20367a0a">MPQFile</a> (const char *filename)</td></tr>
-<tr class="separator:a52b375817a88514d9215330b20367a0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3e13eec8960a2e58a475c7662ef3b053"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#a3e13eec8960a2e58a475c7662ef3b053">~MPQFile</a> ()</td></tr>
-<tr class="separator:a3e13eec8960a2e58a475c7662ef3b053"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aac2ac24cd080cae5575030e10bfd37d9"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#aac2ac24cd080cae5575030e10bfd37d9">read</a> (void *dest, std::size_t bytes)</td></tr>
-<tr class="separator:aac2ac24cd080cae5575030e10bfd37d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a081e78701a7cd8b1f3fdb144f6217e1c"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#a081e78701a7cd8b1f3fdb144f6217e1c">getSize</a> ()</td></tr>
-<tr class="separator:a081e78701a7cd8b1f3fdb144f6217e1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad478a7160aa98e69d09b099ea7875d12"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#ad478a7160aa98e69d09b099ea7875d12">getPos</a> ()</td></tr>
-<tr class="separator:ad478a7160aa98e69d09b099ea7875d12"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae14c3b577bc3b9a5bd26a88a1cc01b8e"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#ae14c3b577bc3b9a5bd26a88a1cc01b8e">getBuffer</a> ()</td></tr>
-<tr class="separator:ae14c3b577bc3b9a5bd26a88a1cc01b8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a51ae51b7a96f945592022a036f07b5b0"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#a51ae51b7a96f945592022a036f07b5b0">getPointer</a> ()</td></tr>
-<tr class="separator:a51ae51b7a96f945592022a036f07b5b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a62a74189592453dfdaf3643f80666612"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#a62a74189592453dfdaf3643f80666612">isEof</a> ()</td></tr>
-<tr class="separator:a62a74189592453dfdaf3643f80666612"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa15126433e926782f61bec0e1a8329b1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#aa15126433e926782f61bec0e1a8329b1">seek</a> (int offset)</td></tr>
-<tr class="separator:aa15126433e926782f61bec0e1a8329b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad180e1b456b089215cba4b2cb50e50a6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#ad180e1b456b089215cba4b2cb50e50a6">seekRelative</a> (int offset)</td></tr>
-<tr class="separator:ad180e1b456b089215cba4b2cb50e50a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8baf32918a435662a426c76a8c78fbd8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#a8baf32918a435662a426c76a8c78fbd8">close</a> ()</td></tr>
-<tr class="separator:a8baf32918a435662a426c76a8c78fbd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a52b375817a88514d9215330b20367a0a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#a52b375817a88514d9215330b20367a0a">MPQFile</a> (const char *filename)</td></tr>
-<tr class="separator:a52b375817a88514d9215330b20367a0a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3e13eec8960a2e58a475c7662ef3b053"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#a3e13eec8960a2e58a475c7662ef3b053">~MPQFile</a> ()</td></tr>
-<tr class="separator:a3e13eec8960a2e58a475c7662ef3b053"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aac2ac24cd080cae5575030e10bfd37d9"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#aac2ac24cd080cae5575030e10bfd37d9">read</a> (void *dest, std::size_t bytes)</td></tr>
-<tr class="separator:aac2ac24cd080cae5575030e10bfd37d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a081e78701a7cd8b1f3fdb144f6217e1c"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#a081e78701a7cd8b1f3fdb144f6217e1c">getSize</a> ()</td></tr>
-<tr class="separator:a081e78701a7cd8b1f3fdb144f6217e1c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad478a7160aa98e69d09b099ea7875d12"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#ad478a7160aa98e69d09b099ea7875d12">getPos</a> ()</td></tr>
-<tr class="separator:ad478a7160aa98e69d09b099ea7875d12"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae14c3b577bc3b9a5bd26a88a1cc01b8e"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#ae14c3b577bc3b9a5bd26a88a1cc01b8e">getBuffer</a> ()</td></tr>
-<tr class="separator:ae14c3b577bc3b9a5bd26a88a1cc01b8e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a51ae51b7a96f945592022a036f07b5b0"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#a51ae51b7a96f945592022a036f07b5b0">getPointer</a> ()</td></tr>
-<tr class="separator:a51ae51b7a96f945592022a036f07b5b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a62a74189592453dfdaf3643f80666612"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#a62a74189592453dfdaf3643f80666612">isEof</a> ()</td></tr>
-<tr class="separator:a62a74189592453dfdaf3643f80666612"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa15126433e926782f61bec0e1a8329b1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#aa15126433e926782f61bec0e1a8329b1">seek</a> (int offset)</td></tr>
-<tr class="separator:aa15126433e926782f61bec0e1a8329b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad180e1b456b089215cba4b2cb50e50a6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#ad180e1b456b089215cba4b2cb50e50a6">seekRelative</a> (int offset)</td></tr>
-<tr class="separator:ad180e1b456b089215cba4b2cb50e50a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8baf32918a435662a426c76a8c78fbd8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#a8baf32918a435662a426c76a8c78fbd8">close</a> ()</td></tr>
-<tr class="separator:a8baf32918a435662a426c76a8c78fbd8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:add675f96f010e67ca1df01b029c9ebfb"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#add675f96f010e67ca1df01b029c9ebfb">prepareLoadedData</a> () override</td></tr>
+<tr class="separator:add675f96f010e67ca1df01b029c9ebfb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afa32849d31abde3cb2c9f3b558816368"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#afa32849d31abde3cb2c9f3b558816368">WDT_file</a> ()</td></tr>
+<tr class="separator:afa32849d31abde3cb2c9f3b558816368"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a29bf710b8346204eb848017450afebe1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#a29bf710b8346204eb848017450afebe1">~WDT_file</a> ()</td></tr>
+<tr class="separator:a29bf710b8346204eb848017450afebe1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aee6c7e1e402cf986e754753c5e8aee72"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#aee6c7e1e402cf986e754753c5e8aee72">free</a> () override</td></tr>
+<tr class="separator:aee6c7e1e402cf986e754753c5e8aee72"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a28952"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a28952')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d5/d3b/a28952.html">FileLoader</a></td></tr>
+<tr class="memitem:ab66347098d7c9ac470339c232f9b7588 inherit pub_methods_a28952"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3b/a28952.html#ab66347098d7c9ac470339c232f9b7588">prepareLoadedData</a> ()</td></tr>
+<tr class="separator:ab66347098d7c9ac470339c232f9b7588 inherit pub_methods_a28952"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aed85cdbd6a4e52096292c6ed8578f7bd inherit pub_methods_a28952"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d46/a29953.html#a33a5e996e7a90acefb8b1c0bea47e365">uint8</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3b/a28952.html#aed85cdbd6a4e52096292c6ed8578f7bd">GetData</a> ()</td></tr>
+<tr class="separator:aed85cdbd6a4e52096292c6ed8578f7bd inherit pub_methods_a28952"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2a07adb0692a51af06ccd31d449ae444 inherit pub_methods_a28952"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d46/a29953.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3b/a28952.html#a2a07adb0692a51af06ccd31d449ae444">GetDataSize</a> ()</td></tr>
+<tr class="separator:a2a07adb0692a51af06ccd31d449ae444 inherit pub_methods_a28952"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51313b536560d1d89d8350475d2bc749 inherit pub_methods_a28952"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3b/a28952.html#a51313b536560d1d89d8350475d2bc749">FileLoader</a> ()</td></tr>
+<tr class="separator:a51313b536560d1d89d8350475d2bc749 inherit pub_methods_a28952"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0954776182dd01364bdb216539ce398b inherit pub_methods_a28952"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3b/a28952.html#a0954776182dd01364bdb216539ce398b">~FileLoader</a> ()</td></tr>
+<tr class="separator:a0954776182dd01364bdb216539ce398b inherit pub_methods_a28952"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a11908109042f93ddde393e7a874683c9 inherit pub_methods_a28952"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3b/a28952.html#a11908109042f93ddde393e7a874683c9">loadFile</a> (std::string const &amp;filename, bool log=true)</td></tr>
+<tr class="separator:a11908109042f93ddde393e7a874683c9 inherit pub_methods_a28952"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a738aeb2ebe751c9fc75013dbce30dcc4 inherit pub_methods_a28952"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3b/a28952.html#a738aeb2ebe751c9fc75013dbce30dcc4">free</a> ()</td></tr>
+<tr class="separator:a738aeb2ebe751c9fc75013dbce30dcc4 inherit pub_methods_a28952"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a498a33d80768843b4ab1ff2d5ffe68d9 inherit pub_methods_a28952"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3b/a28952.html#a498a33d80768843b4ab1ff2d5ffe68d9">prepareLoadedData</a> ()</td></tr>
+<tr class="separator:a498a33d80768843b4ab1ff2d5ffe68d9 inherit pub_methods_a28952"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aed85cdbd6a4e52096292c6ed8578f7bd inherit pub_methods_a28952"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d46/a29953.html#a33a5e996e7a90acefb8b1c0bea47e365">uint8</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3b/a28952.html#aed85cdbd6a4e52096292c6ed8578f7bd">GetData</a> ()</td></tr>
+<tr class="separator:aed85cdbd6a4e52096292c6ed8578f7bd inherit pub_methods_a28952"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2a07adb0692a51af06ccd31d449ae444 inherit pub_methods_a28952"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d46/a29953.html#acbd4acd0d29e2d6c43104827f77d9cd2">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3b/a28952.html#a2a07adb0692a51af06ccd31d449ae444">GetDataSize</a> ()</td></tr>
+<tr class="separator:a2a07adb0692a51af06ccd31d449ae444 inherit pub_methods_a28952"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51313b536560d1d89d8350475d2bc749 inherit pub_methods_a28952"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3b/a28952.html#a51313b536560d1d89d8350475d2bc749">FileLoader</a> ()</td></tr>
+<tr class="separator:a51313b536560d1d89d8350475d2bc749 inherit pub_methods_a28952"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0954776182dd01364bdb216539ce398b inherit pub_methods_a28952"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3b/a28952.html#a0954776182dd01364bdb216539ce398b">~FileLoader</a> ()</td></tr>
+<tr class="separator:a0954776182dd01364bdb216539ce398b inherit pub_methods_a28952"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a11908109042f93ddde393e7a874683c9 inherit pub_methods_a28952"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3b/a28952.html#a11908109042f93ddde393e7a874683c9">loadFile</a> (std::string const &amp;filename, bool log=true)</td></tr>
+<tr class="separator:a11908109042f93ddde393e7a874683c9 inherit pub_methods_a28952"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aef98564821c8e63b6d484179cda0b380 inherit pub_methods_a28952"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3b/a28952.html#aef98564821c8e63b6d484179cda0b380">free</a> ()</td></tr>
+<tr class="separator:aef98564821c8e63b6d484179cda0b380 inherit pub_methods_a28952"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:ad2d7fd3b57fb38b9f0b7cab28b0c783e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#ad2d7fd3b57fb38b9f0b7cab28b0c783e">MPQFile</a> (const <a class="el" href="../../d3/d0e/a28988.html">MPQFile</a> &amp;)</td></tr>
-<tr class="separator:ad2d7fd3b57fb38b9f0b7cab28b0c783e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae25135399b2ce5bf0782897f5df791dc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#ae25135399b2ce5bf0782897f5df791dc">operator=</a> (const <a class="el" href="../../d3/d0e/a28988.html">MPQFile</a> &amp;)</td></tr>
-<tr class="separator:ae25135399b2ce5bf0782897f5df791dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad2d7fd3b57fb38b9f0b7cab28b0c783e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#ad2d7fd3b57fb38b9f0b7cab28b0c783e">MPQFile</a> (const <a class="el" href="../../d3/d0e/a28988.html">MPQFile</a> &amp;)</td></tr>
-<tr class="separator:ad2d7fd3b57fb38b9f0b7cab28b0c783e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae25135399b2ce5bf0782897f5df791dc"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#ae25135399b2ce5bf0782897f5df791dc">operator=</a> (const <a class="el" href="../../d3/d0e/a28988.html">MPQFile</a> &amp;)</td></tr>
-<tr class="separator:ae25135399b2ce5bf0782897f5df791dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:ae17eee1ec4d2f5f5f794d2373b919bdb"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a></td></tr>
-<tr class="separator:ae17eee1ec4d2f5f5f794d2373b919bdb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a632260ab84b019c9174a832d447e7691"><td class="memItemLeft" align="right" valign="top">char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#a632260ab84b019c9174a832d447e7691">buffer</a></td></tr>
-<tr class="separator:a632260ab84b019c9174a832d447e7691"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad8612ecd51a6c0dd226a936965753bdc"><td class="memItemLeft" align="right" valign="top">libmpq__off_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a></td></tr>
-<tr class="separator:ad8612ecd51a6c0dd226a936965753bdc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a90c76a3897be11f681f021e6d0e9e418"><td class="memItemLeft" align="right" valign="top">libmpq__off_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#a90c76a3897be11f681f021e6d0e9e418">size</a></td></tr>
-<tr class="separator:a90c76a3897be11f681f021e6d0e9e418"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a1d216a266e5e6390e9bd2e02c9d3c7f2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/dcf/a28968.html">wdt_MPHD</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#a1d216a266e5e6390e9bd2e02c9d3c7f2">mphd</a></td></tr>
+<tr class="separator:a1d216a266e5e6390e9bd2e02c9d3c7f2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a89ddf5d1527ac16a5d05790769d266b3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d59/a28976.html">wdt_MAIN</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d0e/a28988.html#a89ddf5d1527ac16a5d05790769d266b3">main</a></td></tr>
+<tr class="separator:a89ddf5d1527ac16a5d05790769d266b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_attribs_a28952"><td colspan="2" onclick="javascript:toggleInherit('pub_attribs_a28952')"><img src="../../closed.png" alt="-"/>&#160;Public Attributes inherited from <a class="el" href="../../d5/d3b/a28952.html">FileLoader</a></td></tr>
+<tr class="memitem:a41cedec185e5909d83c8a185d1476dee inherit pub_attribs_a28952"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d18/a28944.html">file_MVER</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/d3b/a28952.html#a41cedec185e5909d83c8a185d1476dee">version</a></td></tr>
+<tr class="separator:a41cedec185e5909d83c8a185d1476dee inherit pub_attribs_a28952"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ad2d7fd3b57fb38b9f0b7cab28b0c783e" name="ad2d7fd3b57fb38b9f0b7cab28b0c783e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad2d7fd3b57fb38b9f0b7cab28b0c783e">&#9670;&#160;</a></span>MPQFile() <span class="overload">[1/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">MPQFile::MPQFile </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="../../d3/d0e/a28988.html">MPQFile</a> &amp;&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   81</span>{}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a52b375817a88514d9215330b20367a0a" name="a52b375817a88514d9215330b20367a0a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a52b375817a88514d9215330b20367a0a">&#9670;&#160;</a></span>MPQFile() <span class="overload">[2/4]</span></h2>
+<a id="afa32849d31abde3cb2c9f3b558816368" name="afa32849d31abde3cb2c9f3b558816368"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afa32849d31abde3cb2c9f3b558816368">&#9670;&#160;</a></span>WDT_file()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">MPQFile::MPQFile </td>
-          <td>(</td>
-          <td class="paramtype">const char *&#160;</td>
-          <td class="paramname"><em>filename</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   62</span>                                    :</div>
-<div class="line"><span class="lineno">   63</span>    <a class="code hl_variable" href="../../d3/d0e/a28988.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a>(<span class="keyword">false</span>),</div>
-<div class="line"><span class="lineno">   64</span>    <a class="code hl_variable" href="../../d3/d0e/a28988.html#a632260ab84b019c9174a832d447e7691">buffer</a>(<span class="keyword">nullptr</span>),</div>
-<div class="line"><span class="lineno">   65</span>    <a class="code hl_variable" href="../../d3/d0e/a28988.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a>(0),</div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_variable" href="../../d3/d0e/a28988.html#a90c76a3897be11f681f021e6d0e9e418">size</a>(0)</div>
-<div class="line"><span class="lineno">   67</span>{</div>
-<div class="line"><span class="lineno">   68</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> &amp; gOpenArchive : <a class="code hl_variable" href="../../d7/d96/a29984.html#a8ae40ebe73635e831bc65b70e7f97f3c">gOpenArchives</a>)</div>
-<div class="line"><span class="lineno">   69</span>    {</div>
-<div class="line"><span class="lineno">   70</span>        mpq_archive* mpq_a = gOpenArchive-&gt;mpq_a;</div>
-<div class="line"><span class="lineno">   71</span> </div>
-<div class="line"><span class="lineno">   72</span>        uint32_t filenum;</div>
-<div class="line"><span class="lineno">   73</span>        <span class="keywordflow">if</span> (libmpq__file_number(mpq_a, filename, &amp;filenum)) <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">   74</span>        libmpq__off_t transferred;</div>
-<div class="line"><span class="lineno">   75</span>        libmpq__file_unpacked_size(mpq_a, filenum, &amp;<a class="code hl_variable" href="../../d3/d0e/a28988.html#a90c76a3897be11f681f021e6d0e9e418">size</a>);</div>
-<div class="line"><span class="lineno">   76</span> </div>
-<div class="line"><span class="lineno">   77</span>        <span class="comment">// HACK: in patch.mpq some files don&#39;t want to open and give 1 for filesize</span></div>
-<div class="line"><span class="lineno">   78</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d0e/a28988.html#a90c76a3897be11f681f021e6d0e9e418">size</a> &lt;= 1)</div>
-<div class="line"><span class="lineno">   79</span>        {</div>
-<div class="line"><span class="lineno">   80</span>            <span class="comment">//            printf(&quot;warning: file %s has size %d; cannot read.\n&quot;, filename, size);</span></div>
-<div class="line"><span class="lineno">   81</span>            <a class="code hl_variable" href="../../d3/d0e/a28988.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   82</span>            <a class="code hl_variable" href="../../d3/d0e/a28988.html#a632260ab84b019c9174a832d447e7691">buffer</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   83</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   84</span>        }</div>
-<div class="line"><span class="lineno">   85</span>        <a class="code hl_variable" href="../../d3/d0e/a28988.html#a632260ab84b019c9174a832d447e7691">buffer</a> = <span class="keyword">new</span> <span class="keywordtype">char</span>[<a class="code hl_variable" href="../../d3/d0e/a28988.html#a90c76a3897be11f681f021e6d0e9e418">size</a>];</div>
-<div class="line"><span class="lineno">   86</span> </div>
-<div class="line"><span class="lineno">   87</span>        <span class="comment">//libmpq_file_getdata</span></div>
-<div class="line"><span class="lineno">   88</span>        libmpq__file_read(mpq_a, filenum, (<span class="keywordtype">unsigned</span> <span class="keywordtype">char</span>*)<a class="code hl_variable" href="../../d3/d0e/a28988.html#a632260ab84b019c9174a832d447e7691">buffer</a>, <a class="code hl_variable" href="../../d3/d0e/a28988.html#a90c76a3897be11f681f021e6d0e9e418">size</a>, &amp;transferred);</div>
-<div class="line"><span class="lineno">   89</span>        <span class="comment">/*libmpq_file_getdata(&amp;mpq_a, hash, fileno, (unsigned char*)buffer);*/</span></div>
-<div class="line"><span class="lineno">   90</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   91</span>    }</div>
-<div class="line"><span class="lineno">   92</span>    <a class="code hl_variable" href="../../d3/d0e/a28988.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   93</span>    <a class="code hl_variable" href="../../d3/d0e/a28988.html#a632260ab84b019c9174a832d447e7691">buffer</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   94</span>}</div>
-<div class="ttc" id="aa28988_html_a632260ab84b019c9174a832d447e7691"><div class="ttname"><a href="../../d3/d0e/a28988.html#a632260ab84b019c9174a832d447e7691">MPQFile::buffer</a></div><div class="ttdeci">char * buffer</div><div class="ttdef"><b>Definition:</b> mpq_libmpq04.h:77</div></div>
-<div class="ttc" id="aa28988_html_a90c76a3897be11f681f021e6d0e9e418"><div class="ttname"><a href="../../d3/d0e/a28988.html#a90c76a3897be11f681f021e6d0e9e418">MPQFile::size</a></div><div class="ttdeci">libmpq__off_t size</div><div class="ttdef"><b>Definition:</b> mpq_libmpq04.h:78</div></div>
-<div class="ttc" id="aa28988_html_ad8612ecd51a6c0dd226a936965753bdc"><div class="ttname"><a href="../../d3/d0e/a28988.html#ad8612ecd51a6c0dd226a936965753bdc">MPQFile::pointer</a></div><div class="ttdeci">libmpq__off_t pointer</div><div class="ttdef"><b>Definition:</b> mpq_libmpq04.h:78</div></div>
-<div class="ttc" id="aa28988_html_ae17eee1ec4d2f5f5f794d2373b919bdb"><div class="ttname"><a href="../../d3/d0e/a28988.html#ae17eee1ec4d2f5f5f794d2373b919bdb">MPQFile::eof</a></div><div class="ttdeci">bool eof</div><div class="ttdef"><b>Definition:</b> mpq_libmpq04.h:76</div></div>
-<div class="ttc" id="aa29984_html_a8ae40ebe73635e831bc65b70e7f97f3c"><div class="ttname"><a href="../../d7/d96/a29984.html#a8ae40ebe73635e831bc65b70e7f97f3c">gOpenArchives</a></div><div class="ttdeci">ArchiveSet gOpenArchives</div><div class="ttdef"><b>Definition:</b> mpq_libmpq.cpp:22</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">buffer</a>, <a class="el" href="../../#l00076">eof</a>, <a class="el" href="../../#l00022">gOpenArchives</a>, and <a class="el" href="../../#l00078">size</a>.</p>
-
-</div>
-</div>
-<a id="a3e13eec8960a2e58a475c7662ef3b053" name="a3e13eec8960a2e58a475c7662ef3b053"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3e13eec8960a2e58a475c7662ef3b053">&#9670;&#160;</a></span>~MPQFile() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">MPQFile::~MPQFile </td>
+          <td class="memname">WDT_file::WDT_file </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   86</span>{ <a class="code hl_function" href="../../d3/d0e/a28988.html#a8baf32918a435662a426c76a8c78fbd8">close</a>(); }</div>
-<div class="ttc" id="aa28988_html_a8baf32918a435662a426c76a8c78fbd8"><div class="ttname"><a href="../../d3/d0e/a28988.html#a8baf32918a435662a426c76a8c78fbd8">MPQFile::close</a></div><div class="ttdeci">void close()</div><div class="ttdef"><b>Definition:</b> mpq_libmpq.cpp:126</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   40</span>{</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_variable" href="../../d3/d0e/a28988.html#a1d216a266e5e6390e9bd2e02c9d3c7f2">mphd</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_variable" href="../../d3/d0e/a28988.html#a89ddf5d1527ac16a5d05790769d266b3">main</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   43</span>}</div>
+<div class="ttc" id="aa28988_html_a1d216a266e5e6390e9bd2e02c9d3c7f2"><div class="ttname"><a href="../../d3/d0e/a28988.html#a1d216a266e5e6390e9bd2e02c9d3c7f2">WDT_file::mphd</a></div><div class="ttdeci">wdt_MPHD * mphd</div><div class="ttdef"><b>Definition:</b> wdt.h:76</div></div>
+<div class="ttc" id="aa28988_html_a89ddf5d1527ac16a5d05790769d266b3"><div class="ttname"><a href="../../d3/d0e/a28988.html#a89ddf5d1527ac16a5d05790769d266b3">WDT_file::main</a></div><div class="ttdeci">wdt_MAIN * main</div><div class="ttdef"><b>Definition:</b> wdt.h:77</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00126">close()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00077">main</a>, and <a class="el" href="../../#l00076">mphd</a>.</p>
 
 </div>
 </div>
-<a id="ad2d7fd3b57fb38b9f0b7cab28b0c783e" name="ad2d7fd3b57fb38b9f0b7cab28b0c783e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad2d7fd3b57fb38b9f0b7cab28b0c783e">&#9670;&#160;</a></span>MPQFile() <span class="overload">[3/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">MPQFile::MPQFile </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="../../d3/d0e/a28988.html">MPQFile</a> &amp;&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   82</span>{}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a52b375817a88514d9215330b20367a0a" name="a52b375817a88514d9215330b20367a0a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a52b375817a88514d9215330b20367a0a">&#9670;&#160;</a></span>MPQFile() <span class="overload">[4/4]</span></h2>
+<a id="a29bf710b8346204eb848017450afebe1" name="a29bf710b8346204eb848017450afebe1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a29bf710b8346204eb848017450afebe1">&#9670;&#160;</a></span>~WDT_file()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">MPQFile::MPQFile </td>
-          <td>(</td>
-          <td class="paramtype">const char *&#160;</td>
-          <td class="paramname"><em>filename</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a3e13eec8960a2e58a475c7662ef3b053" name="a3e13eec8960a2e58a475c7662ef3b053"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3e13eec8960a2e58a475c7662ef3b053">&#9670;&#160;</a></span>~MPQFile() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">MPQFile::~MPQFile </td>
+          <td class="memname">WDT_file::~WDT_file </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   87</span>{ <a class="code hl_function" href="../../d3/d0e/a28988.html#a8baf32918a435662a426c76a8c78fbd8">close</a>(); }</div>
+<div class="fragment"><div class="line"><span class="lineno">   46</span>{</div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_function" href="../../d3/d0e/a28988.html#aee6c7e1e402cf986e754753c5e8aee72">free</a>();</div>
+<div class="line"><span class="lineno">   48</span>}</div>
+<div class="ttc" id="aa28988_html_aee6c7e1e402cf986e754753c5e8aee72"><div class="ttname"><a href="../../d3/d0e/a28988.html#aee6c7e1e402cf986e754753c5e8aee72">WDT_file::free</a></div><div class="ttdeci">void free() override</div><div class="ttdef"><b>Definition:</b> wdt.cpp:50</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00126">close()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00050">free()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a8baf32918a435662a426c76a8c78fbd8" name="a8baf32918a435662a426c76a8c78fbd8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8baf32918a435662a426c76a8c78fbd8">&#9670;&#160;</a></span>close() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void MPQFile::close </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  127</span>{</div>
-<div class="line"><span class="lineno">  128</span>    <span class="keyword">delete</span>[] <a class="code hl_variable" href="../../d3/d0e/a28988.html#a632260ab84b019c9174a832d447e7691">buffer</a>;</div>
-<div class="line"><span class="lineno">  129</span>    <a class="code hl_variable" href="../../d3/d0e/a28988.html#a632260ab84b019c9174a832d447e7691">buffer</a> = <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  130</span>    <a class="code hl_variable" href="../../d3/d0e/a28988.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  131</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">buffer</a>, and <a class="el" href="../../#l00076">eof</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00084">ADTFile::init()</a>, <a class="el" href="../../#l00038">WDTFile::init()</a>, <a class="el" href="../../#l00040">FileLoader::loadFile()</a>, <a class="el" href="../../#l00029">DBCFile::open()</a>, <a class="el" href="../../#l00032">Model::open()</a>, <a class="el" href="../../#l00038">WMORoot::open()</a>, <a class="el" href="../../#l00167">WMOGroup::open()</a>, <a class="el" href="../../#l00235">ReadBuild()</a>, <a class="el" href="../../#l00197">ADTFile::~ADTFile()</a>, <a class="el" href="../../#l00086">~MPQFile()</a>, and <a class="el" href="../../#l00117">WDTFile::~WDTFile()</a>.</p>
-
-</div>
-</div>
-<a id="a8baf32918a435662a426c76a8c78fbd8" name="a8baf32918a435662a426c76a8c78fbd8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8baf32918a435662a426c76a8c78fbd8">&#9670;&#160;</a></span>close() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void MPQFile::close </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ae14c3b577bc3b9a5bd26a88a1cc01b8e" name="ae14c3b577bc3b9a5bd26a88a1cc01b8e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae14c3b577bc3b9a5bd26a88a1cc01b8e">&#9670;&#160;</a></span>getBuffer() <span class="overload">[1/2]</span></h2>
+<a id="aee6c7e1e402cf986e754753c5e8aee72" name="aee6c7e1e402cf986e754753c5e8aee72"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aee6c7e1e402cf986e754753c5e8aee72">&#9670;&#160;</a></span>free()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -427,7 +234,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">char * MPQFile::getBuffer </td>
+          <td class="memname">void WDT_file::free </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -435,20 +242,27 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   90</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d0e/a28988.html#a632260ab84b019c9174a832d447e7691">buffer</a>; }</div>
+
+<p>Reimplemented from <a class="el" href="../../d5/d3b/a28952.html#a738aeb2ebe751c9fc75013dbce30dcc4">FileLoader</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   51</span>{</div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_variable" href="../../d3/d0e/a28988.html#a1d216a266e5e6390e9bd2e02c9d3c7f2">mphd</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_variable" href="../../d3/d0e/a28988.html#a89ddf5d1527ac16a5d05790769d266b3">main</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">   54</span>    <a class="code hl_function" href="../../d5/d3b/a28952.html#a738aeb2ebe751c9fc75013dbce30dcc4">FileLoader::free</a>();</div>
+<div class="line"><span class="lineno">   55</span>}</div>
+<div class="ttc" id="aa28952_html_a738aeb2ebe751c9fc75013dbce30dcc4"><div class="ttname"><a href="../../d5/d3b/a28952.html#a738aeb2ebe751c9fc75013dbce30dcc4">FileLoader::free</a></div><div class="ttdeci">virtual void free()</div><div class="ttdef"><b>Definition:</b> loadlib.cpp:76</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">buffer</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00076">FileLoader::free()</a>, <a class="el" href="../../#l00077">main</a>, and <a class="el" href="../../#l00076">mphd</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00032">Model::open()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00045">~WDT_file()</a>.</p>
 
 </div>
 </div>
-<a id="ae14c3b577bc3b9a5bd26a88a1cc01b8e" name="ae14c3b577bc3b9a5bd26a88a1cc01b8e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae14c3b577bc3b9a5bd26a88a1cc01b8e">&#9670;&#160;</a></span>getBuffer() <span class="overload">[2/2]</span></h2>
+<a id="add675f96f010e67ca1df01b029c9ebfb" name="add675f96f010e67ca1df01b029c9ebfb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#add675f96f010e67ca1df01b029c9ebfb">&#9670;&#160;</a></span>prepareLoadedData()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -457,7 +271,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">char * MPQFile::getBuffer </td>
+          <td class="memname">bool WDT_file::prepareLoadedData </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -465,560 +279,69 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   91</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d0e/a28988.html#a632260ab84b019c9174a832d447e7691">buffer</a>; }</div>
+
+<p>Reimplemented from <a class="el" href="../../d5/d3b/a28952.html#ab66347098d7c9ac470339c232f9b7588">FileLoader</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   58</span>{</div>
+<div class="line"><span class="lineno">   59</span>    <span class="comment">// Check parent</span></div>
+<div class="line"><span class="lineno">   60</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d5/d3b/a28952.html#ab66347098d7c9ac470339c232f9b7588">FileLoader::prepareLoadedData</a>())</div>
+<div class="line"><span class="lineno">   61</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   62</span> </div>
+<div class="line"><span class="lineno">   63</span>    <a class="code hl_variable" href="../../d3/d0e/a28988.html#a1d216a266e5e6390e9bd2e02c9d3c7f2">mphd</a> = (<a class="code hl_class" href="../../d8/dcf/a28968.html">wdt_MPHD</a>*)((<a class="code hl_typedef" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)<a class="code hl_variable" href="../../d5/d3b/a28952.html#a41cedec185e5909d83c8a185d1476dee">version</a> + <a class="code hl_variable" href="../../d5/d3b/a28952.html#a41cedec185e5909d83c8a185d1476dee">version</a>-&gt;<a class="code hl_variable" href="../../d8/d18/a28944.html#a0b9002c302e4dfef6dc533bf8c5bcdcc">size</a> + 8);</div>
+<div class="line"><span class="lineno">   64</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d0e/a28988.html#a1d216a266e5e6390e9bd2e02c9d3c7f2">mphd</a>-&gt;<a class="code hl_function" href="../../d8/dcf/a28968.html#ace847b2eee40844bb3fa880e3c1d1aa5">prepareLoadedData</a>())</div>
+<div class="line"><span class="lineno">   65</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   66</span>    <a class="code hl_variable" href="../../d3/d0e/a28988.html#a89ddf5d1527ac16a5d05790769d266b3">main</a> = (<a class="code hl_class" href="../../de/d59/a28976.html">wdt_MAIN</a>*)((<a class="code hl_typedef" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>*)<a class="code hl_variable" href="../../d3/d0e/a28988.html#a1d216a266e5e6390e9bd2e02c9d3c7f2">mphd</a> + <a class="code hl_variable" href="../../d3/d0e/a28988.html#a1d216a266e5e6390e9bd2e02c9d3c7f2">mphd</a>-&gt;<a class="code hl_variable" href="../../d8/dcf/a28968.html#a1af89d5193eff2f32cf37d131f9ef7b8">size</a> + 8);</div>
+<div class="line"><span class="lineno">   67</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d0e/a28988.html#a89ddf5d1527ac16a5d05790769d266b3">main</a>-&gt;<a class="code hl_function" href="../../de/d59/a28976.html#a6b755c9e341918d05105d993391429c6">prepareLoadedData</a>())</div>
+<div class="line"><span class="lineno">   68</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   69</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   70</span>}</div>
+<div class="ttc" id="aa04310_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa28944_html_a0b9002c302e4dfef6dc533bf8c5bcdcc"><div class="ttname"><a href="../../d8/d18/a28944.html#a0b9002c302e4dfef6dc533bf8c5bcdcc">file_MVER::size</a></div><div class="ttdeci">uint32 size</div><div class="ttdef"><b>Definition:</b> loadlib.h:43</div></div>
+<div class="ttc" id="aa28952_html_a41cedec185e5909d83c8a185d1476dee"><div class="ttname"><a href="../../d5/d3b/a28952.html#a41cedec185e5909d83c8a185d1476dee">FileLoader::version</a></div><div class="ttdeci">file_MVER * version</div><div class="ttdef"><b>Definition:</b> loadlib.h:56</div></div>
+<div class="ttc" id="aa28952_html_ab66347098d7c9ac470339c232f9b7588"><div class="ttname"><a href="../../d5/d3b/a28952.html#ab66347098d7c9ac470339c232f9b7588">FileLoader::prepareLoadedData</a></div><div class="ttdeci">virtual bool prepareLoadedData()</div><div class="ttdef"><b>Definition:</b> loadlib.cpp:65</div></div>
+<div class="ttc" id="aa28968_html"><div class="ttname"><a href="../../d8/dcf/a28968.html">wdt_MPHD</a></div><div class="ttdef"><b>Definition:</b> wdt.h:28</div></div>
+<div class="ttc" id="aa28968_html_a1af89d5193eff2f32cf37d131f9ef7b8"><div class="ttname"><a href="../../d8/dcf/a28968.html#a1af89d5193eff2f32cf37d131f9ef7b8">wdt_MPHD::size</a></div><div class="ttdeci">uint32 size</div><div class="ttdef"><b>Definition:</b> wdt.h:35</div></div>
+<div class="ttc" id="aa28968_html_ace847b2eee40844bb3fa880e3c1d1aa5"><div class="ttname"><a href="../../d8/dcf/a28968.html#ace847b2eee40844bb3fa880e3c1d1aa5">wdt_MPHD::prepareLoadedData</a></div><div class="ttdeci">bool prepareLoadedData()</div><div class="ttdef"><b>Definition:</b> wdt.cpp:25</div></div>
+<div class="ttc" id="aa28976_html"><div class="ttname"><a href="../../de/d59/a28976.html">wdt_MAIN</a></div><div class="ttdef"><b>Definition:</b> wdt.h:49</div></div>
+<div class="ttc" id="aa28976_html_a6b755c9e341918d05105d993391429c6"><div class="ttname"><a href="../../de/d59/a28976.html#a6b755c9e341918d05105d993391429c6">wdt_MAIN::prepareLoadedData</a></div><div class="ttdeci">bool prepareLoadedData()</div><div class="ttdef"><b>Definition:</b> wdt.cpp:32</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">buffer</a>.</p>
-
-</div>
-</div>
-<a id="a51ae51b7a96f945592022a036f07b5b0" name="a51ae51b7a96f945592022a036f07b5b0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a51ae51b7a96f945592022a036f07b5b0">&#9670;&#160;</a></span>getPointer() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">char * MPQFile::getPointer </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   91</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d0e/a28988.html#a632260ab84b019c9174a832d447e7691">buffer</a> + <a class="code hl_variable" href="../../d3/d0e/a28988.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">buffer</a>, and <a class="el" href="../../#l00078">pointer</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01022">ExtractFile()</a>, <a class="el" href="../../#l00038">WMORoot::open()</a>, and <a class="el" href="../../#l00235">ReadBuild()</a>.</p>
-
-</div>
-</div>
-<a id="a51ae51b7a96f945592022a036f07b5b0" name="a51ae51b7a96f945592022a036f07b5b0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a51ae51b7a96f945592022a036f07b5b0">&#9670;&#160;</a></span>getPointer() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">char * MPQFile::getPointer </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   92</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d0e/a28988.html#a632260ab84b019c9174a832d447e7691">buffer</a> + <a class="code hl_variable" href="../../d3/d0e/a28988.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">buffer</a>, and <a class="el" href="../../#l00078">pointer</a>.</p>
-
-</div>
-</div>
-<a id="ad478a7160aa98e69d09b099ea7875d12" name="ad478a7160aa98e69d09b099ea7875d12"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad478a7160aa98e69d09b099ea7875d12">&#9670;&#160;</a></span>getPos() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::size_t MPQFile::getPos </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   89</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d0e/a28988.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00078">pointer</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00084">ADTFile::init()</a>, <a class="el" href="../../#l00038">WDTFile::init()</a>, <a class="el" href="../../#l00038">WMORoot::open()</a>, and <a class="el" href="../../#l00167">WMOGroup::open()</a>.</p>
-
-</div>
-</div>
-<a id="ad478a7160aa98e69d09b099ea7875d12" name="ad478a7160aa98e69d09b099ea7875d12"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad478a7160aa98e69d09b099ea7875d12">&#9670;&#160;</a></span>getPos() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::size_t MPQFile::getPos </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   90</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d0e/a28988.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00078">pointer</a>.</p>
-
-</div>
-</div>
-<a id="a081e78701a7cd8b1f3fdb144f6217e1c" name="a081e78701a7cd8b1f3fdb144f6217e1c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a081e78701a7cd8b1f3fdb144f6217e1c">&#9670;&#160;</a></span>getSize() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::size_t MPQFile::getSize </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   88</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d0e/a28988.html#a90c76a3897be11f681f021e6d0e9e418">size</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00078">size</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01022">ExtractFile()</a>, <a class="el" href="../../#l00040">FileLoader::loadFile()</a>, and <a class="el" href="../../#l00235">ReadBuild()</a>.</p>
-
-</div>
-</div>
-<a id="a081e78701a7cd8b1f3fdb144f6217e1c" name="a081e78701a7cd8b1f3fdb144f6217e1c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a081e78701a7cd8b1f3fdb144f6217e1c">&#9670;&#160;</a></span>getSize() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::size_t MPQFile::getSize </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   89</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d0e/a28988.html#a90c76a3897be11f681f021e6d0e9e418">size</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00078">size</a>.</p>
-
-</div>
-</div>
-<a id="a62a74189592453dfdaf3643f80666612" name="a62a74189592453dfdaf3643f80666612"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a62a74189592453dfdaf3643f80666612">&#9670;&#160;</a></span>isEof() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool MPQFile::isEof </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   92</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d0e/a28988.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">eof</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01022">ExtractFile()</a>, <a class="el" href="../../#l00084">ADTFile::init()</a>, <a class="el" href="../../#l00038">WDTFile::init()</a>, <a class="el" href="../../#l00040">FileLoader::loadFile()</a>, <a class="el" href="../../#l00032">Model::open()</a>, <a class="el" href="../../#l00038">WMORoot::open()</a>, <a class="el" href="../../#l00167">WMOGroup::open()</a>, and <a class="el" href="../../#l00235">ReadBuild()</a>.</p>
-
-</div>
-</div>
-<a id="a62a74189592453dfdaf3643f80666612" name="a62a74189592453dfdaf3643f80666612"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a62a74189592453dfdaf3643f80666612">&#9670;&#160;</a></span>isEof() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool MPQFile::isEof </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   93</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d0e/a28988.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">eof</a>.</p>
-
-</div>
-</div>
-<a id="ae25135399b2ce5bf0782897f5df791dc" name="ae25135399b2ce5bf0782897f5df791dc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae25135399b2ce5bf0782897f5df791dc">&#9670;&#160;</a></span>operator=() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void MPQFile::operator= </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="../../d3/d0e/a28988.html">MPQFile</a> &amp;&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   82</span>{}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="ae25135399b2ce5bf0782897f5df791dc" name="ae25135399b2ce5bf0782897f5df791dc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae25135399b2ce5bf0782897f5df791dc">&#9670;&#160;</a></span>operator=() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void MPQFile::operator= </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="../../d3/d0e/a28988.html">MPQFile</a> &amp;&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   83</span>{}</div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="aac2ac24cd080cae5575030e10bfd37d9" name="aac2ac24cd080cae5575030e10bfd37d9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aac2ac24cd080cae5575030e10bfd37d9">&#9670;&#160;</a></span>read() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::size_t MPQFile::read </td>
-          <td>(</td>
-          <td class="paramtype">void *&#160;</td>
-          <td class="paramname"><em>dest</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::size_t&#160;</td>
-          <td class="paramname"><em>bytes</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   97</span>{</div>
-<div class="line"><span class="lineno">   98</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d0e/a28988.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a>) <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">   99</span> </div>
-<div class="line"><span class="lineno">  100</span>    std::size_t rpos = <a class="code hl_variable" href="../../d3/d0e/a28988.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a> + bytes;</div>
-<div class="line"><span class="lineno">  101</span>    <span class="keywordflow">if</span> (rpos &gt; std::size_t(<a class="code hl_variable" href="../../d3/d0e/a28988.html#a90c76a3897be11f681f021e6d0e9e418">size</a>))</div>
-<div class="line"><span class="lineno">  102</span>    {</div>
-<div class="line"><span class="lineno">  103</span>        bytes = <a class="code hl_variable" href="../../d3/d0e/a28988.html#a90c76a3897be11f681f021e6d0e9e418">size</a> - <a class="code hl_variable" href="../../d3/d0e/a28988.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a>;</div>
-<div class="line"><span class="lineno">  104</span>        <a class="code hl_variable" href="../../d3/d0e/a28988.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  105</span>    }</div>
-<div class="line"><span class="lineno">  106</span> </div>
-<div class="line"><span class="lineno">  107</span>    memcpy(dest, &amp;(<a class="code hl_variable" href="../../d3/d0e/a28988.html#a632260ab84b019c9174a832d447e7691">buffer</a>[<a class="code hl_variable" href="../../d3/d0e/a28988.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a>]), bytes);</div>
-<div class="line"><span class="lineno">  108</span> </div>
-<div class="line"><span class="lineno">  109</span>    <a class="code hl_variable" href="../../d3/d0e/a28988.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a> = rpos;</div>
-<div class="line"><span class="lineno">  110</span> </div>
-<div class="line"><span class="lineno">  111</span>    <span class="keywordflow">return</span> bytes;</div>
-<div class="line"><span class="lineno">  112</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00077">buffer</a>, <a class="el" href="../../#l00076">eof</a>, <a class="el" href="../../#l00078">pointer</a>, and <a class="el" href="../../#l00078">size</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00084">ADTFile::init()</a>, <a class="el" href="../../#l00038">WDTFile::init()</a>, <a class="el" href="../../#l00040">FileLoader::loadFile()</a>, <a class="el" href="../../#l00029">DBCFile::open()</a>, <a class="el" href="../../#l00032">Model::open()</a>, <a class="el" href="../../#l00038">WMORoot::open()</a>, and <a class="el" href="../../#l00167">WMOGroup::open()</a>.</p>
-
-</div>
-</div>
-<a id="aac2ac24cd080cae5575030e10bfd37d9" name="aac2ac24cd080cae5575030e10bfd37d9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aac2ac24cd080cae5575030e10bfd37d9">&#9670;&#160;</a></span>read() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::size_t MPQFile::read </td>
-          <td>(</td>
-          <td class="paramtype">void *&#160;</td>
-          <td class="paramname"><em>dest</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::size_t&#160;</td>
-          <td class="paramname"><em>bytes</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="aa15126433e926782f61bec0e1a8329b1" name="aa15126433e926782f61bec0e1a8329b1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa15126433e926782f61bec0e1a8329b1">&#9670;&#160;</a></span>seek() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void MPQFile::seek </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>offset</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  115</span>{</div>
-<div class="line"><span class="lineno">  116</span>    <a class="code hl_variable" href="../../d3/d0e/a28988.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a> = offset;</div>
-<div class="line"><span class="lineno">  117</span>    <a class="code hl_variable" href="../../d3/d0e/a28988.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a> = (<a class="code hl_variable" href="../../d3/d0e/a28988.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a> &gt;= <a class="code hl_variable" href="../../d3/d0e/a28988.html#a90c76a3897be11f681f021e6d0e9e418">size</a>);</div>
-<div class="line"><span class="lineno">  118</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">eof</a>, <a class="el" href="../../#l00078">pointer</a>, and <a class="el" href="../../#l00078">size</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00084">ADTFile::init()</a>, <a class="el" href="../../#l00038">WDTFile::init()</a>, <a class="el" href="../../#l00032">Model::open()</a>, <a class="el" href="../../#l00038">WMORoot::open()</a>, and <a class="el" href="../../#l00167">WMOGroup::open()</a>.</p>
-
-</div>
-</div>
-<a id="aa15126433e926782f61bec0e1a8329b1" name="aa15126433e926782f61bec0e1a8329b1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa15126433e926782f61bec0e1a8329b1">&#9670;&#160;</a></span>seek() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void MPQFile::seek </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>offset</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="ad180e1b456b089215cba4b2cb50e50a6" name="ad180e1b456b089215cba4b2cb50e50a6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad180e1b456b089215cba4b2cb50e50a6">&#9670;&#160;</a></span>seekRelative() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void MPQFile::seekRelative </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>offset</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  121</span>{</div>
-<div class="line"><span class="lineno">  122</span>    <a class="code hl_variable" href="../../d3/d0e/a28988.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a> += offset;</div>
-<div class="line"><span class="lineno">  123</span>    <a class="code hl_variable" href="../../d3/d0e/a28988.html#ae17eee1ec4d2f5f5f794d2373b919bdb">eof</a> = (<a class="code hl_variable" href="../../d3/d0e/a28988.html#ad8612ecd51a6c0dd226a936965753bdc">pointer</a> &gt;= <a class="code hl_variable" href="../../d3/d0e/a28988.html#a90c76a3897be11f681f021e6d0e9e418">size</a>);</div>
-<div class="line"><span class="lineno">  124</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00076">eof</a>, <a class="el" href="../../#l00078">pointer</a>, and <a class="el" href="../../#l00078">size</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00032">Model::open()</a>.</p>
-
-</div>
-</div>
-<a id="ad180e1b456b089215cba4b2cb50e50a6" name="ad180e1b456b089215cba4b2cb50e50a6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad180e1b456b089215cba4b2cb50e50a6">&#9670;&#160;</a></span>seekRelative() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void MPQFile::seekRelative </td>
-          <td>(</td>
-          <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>offset</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
+<p class="reference">References <a class="el" href="../../#l00077">main</a>, <a class="el" href="../../#l00076">mphd</a>, <a class="el" href="../../#l00065">FileLoader::prepareLoadedData()</a>, <a class="el" href="../../#l00025">wdt_MPHD::prepareLoadedData()</a>, <a class="el" href="../../#l00032">wdt_MAIN::prepareLoadedData()</a>, <a class="el" href="../../#l00043">file_MVER::size</a>, <a class="el" href="../../#l00035">wdt_MPHD::size</a>, and <a class="el" href="../../#l00056">FileLoader::version</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a632260ab84b019c9174a832d447e7691" name="a632260ab84b019c9174a832d447e7691"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a632260ab84b019c9174a832d447e7691">&#9670;&#160;</a></span>buffer</h2>
+<a id="a89ddf5d1527ac16a5d05790769d266b3" name="a89ddf5d1527ac16a5d05790769d266b3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a89ddf5d1527ac16a5d05790769d266b3">&#9670;&#160;</a></span>main</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">char * MPQFile::buffer</td>
+          <td class="memname"><a class="el" href="../../de/d59/a28976.html">wdt_MAIN</a>* WDT_file::main</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00126">close()</a>, <a class="el" href="../../#l00090">getBuffer()</a>, <a class="el" href="../../#l00091">getPointer()</a>, <a class="el" href="../../#l00062">MPQFile()</a>, and <a class="el" href="../../#l00096">read()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00976">ExtractMapsFromMpq()</a>, <a class="el" href="../../#l00050">free()</a>, <a class="el" href="../../#l00057">prepareLoadedData()</a>, and <a class="el" href="../../#l00039">WDT_file()</a>.</p>
 
 </div>
 </div>
-<a id="ae17eee1ec4d2f5f5f794d2373b919bdb" name="ae17eee1ec4d2f5f5f794d2373b919bdb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae17eee1ec4d2f5f5f794d2373b919bdb">&#9670;&#160;</a></span>eof</h2>
+<a id="a1d216a266e5e6390e9bd2e02c9d3c7f2" name="a1d216a266e5e6390e9bd2e02c9d3c7f2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1d216a266e5e6390e9bd2e02c9d3c7f2">&#9670;&#160;</a></span>mphd</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool MPQFile::eof</td>
+          <td class="memname"><a class="el" href="../../d8/dcf/a28968.html">wdt_MPHD</a>* WDT_file::mphd</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00126">close()</a>, <a class="el" href="../../#l00092">isEof()</a>, <a class="el" href="../../#l00062">MPQFile()</a>, <a class="el" href="../../#l00096">read()</a>, <a class="el" href="../../#l00114">seek()</a>, and <a class="el" href="../../#l00120">seekRelative()</a>.</p>
-
-</div>
-</div>
-<a id="ad8612ecd51a6c0dd226a936965753bdc" name="ad8612ecd51a6c0dd226a936965753bdc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad8612ecd51a6c0dd226a936965753bdc">&#9670;&#160;</a></span>pointer</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">libmpq__off_t MPQFile::pointer</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00091">getPointer()</a>, <a class="el" href="../../#l00089">getPos()</a>, <a class="el" href="../../#l00096">read()</a>, <a class="el" href="../../#l00114">seek()</a>, and <a class="el" href="../../#l00120">seekRelative()</a>.</p>
-
-</div>
-</div>
-<a id="a90c76a3897be11f681f021e6d0e9e418" name="a90c76a3897be11f681f021e6d0e9e418"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a90c76a3897be11f681f021e6d0e9e418">&#9670;&#160;</a></span>size</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">libmpq__off_t MPQFile::size</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00088">getSize()</a>, <a class="el" href="../../#l00062">MPQFile()</a>, <a class="el" href="../../#l00096">read()</a>, <a class="el" href="../../#l00114">seek()</a>, and <a class="el" href="../../#l00120">seekRelative()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00050">free()</a>, <a class="el" href="../../#l00057">prepareLoadedData()</a>, and <a class="el" href="../../#l00039">WDT_file()</a>.</p>
 
 </div>
 </div>
@@ -1027,8 +350,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d0e/a28988.html">MPQFile</a></li>
-    <li class="footer">Generated on Mon Nov 3 2025 20:47:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d0e/a28988.html">WDT_file</a></li>
+    <li class="footer">Generated on Mon Nov 10 2025 20:54:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

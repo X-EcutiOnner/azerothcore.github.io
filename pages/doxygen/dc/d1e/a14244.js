@@ -1,10 +1,5 @@
 var a14244 =
 [
-    [ "npc_batrider", "dc/d1e/a14244.html#a6304a39ea92d48508a17dc059c47bc1b", null ],
-    [ "DamageTaken", "dc/d1e/a14244.html#ad4818b1363082a91223526908c38777c", null ],
-    [ "JustEngagedWith", "dc/d1e/a14244.html#a02e950fd30e4a0637d078d49c5c50d48", null ],
-    [ "Reset", "dc/d1e/a14244.html#abee249da6f3bb6c2fd859812b02d7b65", null ],
-    [ "UpdateAI", "dc/d1e/a14244.html#a828e5ab4b3ff52d7daf9a3a6a5412f52", null ],
-    [ "_mode", "dc/d1e/a14244.html#acd53ec78a754219511af1ad2f11422a9", null ],
-    [ "_scheduler", "dc/d1e/a14244.html#ad90beb6685c031a8b0ce4ec8ea3daa3f", null ]
+    [ "npc_brain_wash_totem", "dc/d1e/a14244.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
+    [ "EnterEvadeMode", "dc/d1e/a14244.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
 ];

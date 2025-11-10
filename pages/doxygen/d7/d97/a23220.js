@@ -1,7 +1,6 @@
 var a23220 =
 [
-    [ "CalculateAmount", "d7/d97/a23220.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
-    [ "PrepareAuraScript", "d7/d97/a23220.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
-    [ "Register", "d7/d97/a23220.html#a6d0d47536e6ef74a88c97019843d478c", null ],
-    [ "Update", "d7/d97/a23220.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
+    [ "PrepareSpellScript", "d7/d97/a23220.html#a7e03b63174511ed4c3e78c99b781f8f2", null ],
+    [ "Register", "d7/d97/a23220.html#aaed4b5d67dbd06cb0a1adc91aa873247", null ],
+    [ "RemoveSpines", "d7/d97/a23220.html#a076b056328ba6181a6ec907f21258f9d", null ]
 ];

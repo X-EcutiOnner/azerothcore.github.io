@@ -1,6 +1,7 @@
 var a20256 =
 [
-    [ "boss_freya_elder_ironbranchAI", "d9/de2/a20260.html", "d9/de2/a20260" ],
-    [ "boss_freya_elder_ironbranch", "d7/df8/a20256.html#a066083e4d6fde6439f7dce80be209075", null ],
-    [ "GetAI", "d7/df8/a20256.html#a67f483d12fe801c1d840dd0f74396564", null ]
+    [ "boss_freya_healthy_sporeAI", "d7/df8/a20256.html#a1f72bc2b113f3b909d44fd54fff87e31", null ],
+    [ "Reset", "d7/df8/a20256.html#ad6d6562b5cc9f8232bdda99ec2204052", null ],
+    [ "UpdateAI", "d7/df8/a20256.html#ace79c59d62e597ae31425b4006e1363f", null ],
+    [ "_despawnTimer", "d7/df8/a20256.html#aaf65ef07480e5c634cc42dac0c7c734c", null ]
 ];

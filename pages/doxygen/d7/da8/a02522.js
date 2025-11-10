@@ -1,7 +1,7 @@
 var a02522 =
 [
-    [ "npc_webbed_creature", "d9/de6/a15576.html", "d9/de6/a15576" ],
-    [ "npc_webbed_creature::npc_webbed_creatureAI", "d0/d9b/a15580.html", "d0/d9b/a15580" ],
+    [ "npc_webbed_creature", "d5/d10/a15548.html", "d5/d10/a15548" ],
+    [ "npc_webbed_creature::npc_webbed_creatureAI", "dc/ddc/a15552.html", "dc/ddc/a15552" ],
     [ "WebbedCreature", "d7/da8/a02522.html#aa14073eff8de36ab4c416f5ae7bd8cd0", [
       [ "NPC_EXPEDITION_RESEARCHER", "d7/da8/a02522.html#aa14073eff8de36ab4c416f5ae7bd8cd0afbd11004b44bf2d153ac8e084395b3b3", null ]
     ] ],

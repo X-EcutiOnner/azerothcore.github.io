@@ -1,6 +1,6 @@
 var a17976 =
 [
-    [ "npc_vengeful_shadeAI", "d0/d72/a17980.html", "d0/d72/a17980" ],
-    [ "npc_vengeful_shade", "d0/d32/a17976.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
-    [ "GetAI", "d0/d32/a17976.html#afa2c672015b43d83bd55050ed020f7e5", null ]
+    [ "BoneStormMoveTargetSelector", "d0/d32/a17976.html#acd13e67fbbc29137ca2b77aaf9dc0e77", null ],
+    [ "operator()", "d0/d32/a17976.html#a5b53c140d38db0df8faef3dfaf5c458d", null ],
+    [ "_source", "d0/d32/a17976.html#a03d8b1ec5f18398fe2963418bb319973", null ]
 ];

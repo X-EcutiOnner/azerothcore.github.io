@@ -1,6 +1,8 @@
 var a26824 =
 [
-    [ "CheckProc", "d5/d20/a26824.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
-    [ "PrepareAuraScript", "d5/d20/a26824.html#af15109e926eb717c3f3cb2f7f617428c", null ],
-    [ "Register", "d5/d20/a26824.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
+    [ "HandleDummy", "d5/d20/a26824.html#a308880cf9c61c76de0fdee05fff2b463", null ],
+    [ "Load", "d5/d20/a26824.html#acafb9d6ac4fde694dc44cbf13b7f97ad", null ],
+    [ "PrepareSpellScript", "d5/d20/a26824.html#a3a2672c39f36229c0dd6cdea0fad3299", null ],
+    [ "Register", "d5/d20/a26824.html#a1857b342ae34a57f079f45019645c688", null ],
+    [ "Validate", "d5/d20/a26824.html#a121c30045281eab5fee4f65d38d1dfc3", null ]
 ];

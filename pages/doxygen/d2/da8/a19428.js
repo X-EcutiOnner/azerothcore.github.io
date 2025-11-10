@@ -1,30 +1,6 @@
 var a19428 =
 [
-    [ "instance_naxxramas", "d2/da8/a19428.html#aff86b0fff6122d649258a91b025cbced", null ],
-    [ "ActivateWingPortal", "d2/da8/a19428.html#a10a92da6d62e3d5f147b5bb40109ec3c", null ],
-    [ "ActivateWingPortal", "d2/da8/a19428.html#ae53c14014ec9ee4db5e06acb04ede9d2", null ],
-    [ "CheckAchievementCriteriaMeet", "d2/da8/a19428.html#ac324fe847b9b25270e8d1e495d77b093", null ],
-    [ "CreatureTalk", "d2/da8/a19428.html#a1e5ecd15ffbc8735ff275f245444ef1a", null ],
-    [ "GetEruptionSection", "d2/da8/a19428.html#a7f64ed1cc3b5461318913919e712d648", null ],
-    [ "HeiganEruptSections", "d2/da8/a19428.html#a63be2dee55d527e16739b5fb5b031740", null ],
-    [ "OnCreatureCreate", "d2/da8/a19428.html#a8d7a7ac214db0e22f7fadaf79e26ca6e", null ],
-    [ "OnGameObjectCreate", "d2/da8/a19428.html#a871bdbd665d47b526e498a79e4bcdaa8", null ],
-    [ "OnGameObjectRemove", "d2/da8/a19428.html#a855ef835268e11e55152fe11daf4af44", null ],
-    [ "OnPlayerEnter", "d2/da8/a19428.html#ab14130020559c2f7971d2072a0233bd7", null ],
-    [ "SetBossState", "d2/da8/a19428.html#a425c7462f1b1ad4b4728dca1708cd322", null ],
-    [ "SetData", "d2/da8/a19428.html#a5293b79934c620d96bd5ea35ce79276d", null ],
-    [ "SetGoState", "d2/da8/a19428.html#a06414e8dbeb15bc2a42114390466e0a4", null ],
-    [ "Update", "d2/da8/a19428.html#a49b5f433e3cec6fbb5f1404f150067ea", null ],
-    [ "_abominationsKilled", "d2/da8/a19428.html#a7b034012484e196d183aa12fdb595b53", null ],
-    [ "_currentWingTaunt", "d2/da8/a19428.html#ae1fd58202206c9697d92810f4a176c3d", null ],
-    [ "_events", "d2/da8/a19428.html#a299d848c8dba430ebebd7cdf99f1dafa", null ],
-    [ "_faerlinaAchievement", "d2/da8/a19428.html#a4e7f205ab7c300c91c6406ca5dc665fd", null ],
-    [ "_heiganAchievement", "d2/da8/a19428.html#a2a0d9b86d906c5e5ec51ad4342f7193b", null ],
-    [ "_heiganEruption", "d2/da8/a19428.html#ae6825a60b1a9f0fd122ebf47ba484459", null ],
-    [ "_horsemanAchievement", "d2/da8/a19428.html#a80abb9d906e9de39bd747346de46ddd7", null ],
-    [ "_horsemanLoaded", "d2/da8/a19428.html#a5bb704eda5b3fd756024243ff5a7b82a", null ],
-    [ "_loathebAchievement", "d2/da8/a19428.html#aacb46e34e3e6cb6b179c73df06a9a813", null ],
-    [ "_patchwerkRoomTrash", "d2/da8/a19428.html#ad838776fa923e22d3794a7b266dacd8e", null ],
-    [ "_sapphironAchievement", "d2/da8/a19428.html#a8dca8b55ebc52c27389658df92b3f944", null ],
-    [ "_thaddiusAchievement", "d2/da8/a19428.html#a6158d5285d0027739ff0cd98e526588d", null ]
+    [ "npc_vortex_rideAI", "d2/da2/a19432.html", "d2/da2/a19432" ],
+    [ "npc_vortex_ride", "d2/da8/a19428.html#ad794cda407c9dfc35dd9bc2724f5014a", null ],
+    [ "GetAI", "d2/da8/a19428.html#a23ef53feb432127db2620810a55d02ff", null ]
 ];

@@ -1,7 +1,9 @@
 var a18968 =
 [
-    [ "OnPeriodic", "de/db5/a18968.html#a32c4b856d6248062fbdc1dea13d876ac", null ],
-    [ "PrepareAuraScript", "de/db5/a18968.html#a87260a1cd06190f5412f3cab0f448a01", null ],
-    [ "Register", "de/db5/a18968.html#a00827210671b959a030655f6be5edac6", null ],
-    [ "Validate", "de/db5/a18968.html#a7163fb09fd8568a7ef5a5c37147ed5b0", null ]
+    [ "npc_icc_skybreaker_hierophantAI", "de/db5/a18968.html#a18330d49e510f83af7ee0120df14e633", null ],
+    [ "AttackStart", "de/db5/a18968.html#a9838b3edb758f6f8d0bcbb242862d5da", null ],
+    [ "JustEngagedWith", "de/db5/a18968.html#adddd56260b41738d69fcdfe31b677c51", null ],
+    [ "Reset", "de/db5/a18968.html#a2291e4a6bbf917a810b31776dee9dd24", null ],
+    [ "UpdateAI", "de/db5/a18968.html#a971fa0e468d9d58ffdda7c7b8aa53485", null ],
+    [ "events", "de/db5/a18968.html#a1c8a527d217f9b810f87da0fc020528a", null ]
 ];

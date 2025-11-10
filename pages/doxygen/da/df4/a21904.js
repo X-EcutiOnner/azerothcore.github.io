@@ -1,6 +1,7 @@
 var a21904 =
 [
-    [ "npc_mageguard_dalaranAI", "d1/d75/a21908.html", "d1/d75/a21908" ],
-    [ "npc_mageguard_dalaran", "da/df4/a21904.html#a0cec4f232b665325c421cecb5839885f", null ],
-    [ "GetAI", "da/df4/a21904.html#a10cbddceb53a2d432da2224128c59b28", null ]
+    [ "npc_cosmetic_toy_plane", "da/df4/a21904.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
+    [ "Reset", "da/df4/a21904.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
+    [ "UpdateAI", "da/df4/a21904.html#a41d62b314510fbd6637d8eddbea16f96", null ],
+    [ "_movementArray", "da/df4/a21904.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
 ];

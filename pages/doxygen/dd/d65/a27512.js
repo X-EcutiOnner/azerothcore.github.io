@@ -1,6 +1,6 @@
 var a27512 =
 [
-    [ "go_l70_etc_musicAI", "dd/d65/a27512.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
-    [ "UpdateAI", "dd/d65/a27512.html#a182a5a9bbe53ced25740de9a4a368469", null ],
-    [ "_events", "dd/d65/a27512.html#aa0cda672b4491b3cfc75214038aa2132", null ]
+    [ "go_midsummer_musicAI", "db/df8/a27516.html", "db/df8/a27516" ],
+    [ "go_midsummer_music", "dd/d65/a27512.html#a39c38fc78b47b16be9eebee0ccd5041d", null ],
+    [ "GetAI", "dd/d65/a27512.html#a1baf09bdbf67c0a85219454c1cd61d2b", null ]
 ];

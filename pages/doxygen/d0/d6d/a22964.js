@@ -1,7 +1,7 @@
 var a22964 =
 [
-    [ "npc_blade_of_azzinoth", "d0/d6d/a22964.html#a55afe56313c237afe8080662b2ed2dba", null ],
-    [ "DoAction", "d0/d6d/a22964.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
-    [ "IsSummonedBy", "d0/d6d/a22964.html#af2925da1235b809ee81469fe32ab0f92", null ],
-    [ "JustSummoned", "d0/d6d/a22964.html#a501e2d1ae9af813fd9c30395e7774983", null ]
+    [ "OnPeriodic", "d0/d6d/a22964.html#aa5d2f7530277a6a4d4a85ec5d244b9bc", null ],
+    [ "PrepareAuraScript", "d0/d6d/a22964.html#a973ccf17f6499bc84306a18b07fcef7b", null ],
+    [ "Register", "d0/d6d/a22964.html#a07b3b1df6626a9fb657270eb1d9f386a", null ],
+    [ "Validate", "d0/d6d/a22964.html#a006d67e9e82cce68930b90b00d3555a4", null ]
 ];

@@ -1,6 +1,11 @@
 var a17260 =
 [
-    [ "npc_pos_leaderAI", "d6/dba/a17264.html", "d6/dba/a17264" ],
-    [ "npc_pos_leader", "d2/d70/a17260.html#a690956ba5c822f4cbea9c27c95d5924c", null ],
-    [ "GetAI", "d2/d70/a17260.html#a0c0b85bef0b04989dc80d861fa70f463", null ]
+    [ "npc_pos_tyrannus_eventsAI", "d2/d70/a17260.html#a51769d22a4cb448fae90d827e2494581", null ],
+    [ "MovementInform", "d2/d70/a17260.html#ac0d1550855988fe6f562e8a0a6ada80f", null ],
+    [ "SetData", "d2/d70/a17260.html#a8f8bbb06c50215c90cf11ddbc925ba5d", null ],
+    [ "UpdateAI", "d2/d70/a17260.html#a6c4d82c46547bbb2f86dd7f9fa88c743", null ],
+    [ "deathbringerGUID", "d2/d70/a17260.html#a21ea8c66374403d0eca83e4d24c80a7a", null ],
+    [ "events", "d2/d70/a17260.html#a317d48c75a93ef5abaa3329ab10a1c8e", null ],
+    [ "killsLeft", "d2/d70/a17260.html#ac81d85e0ceb0b571373f44475baa36df", null ],
+    [ "pInstance", "d2/d70/a17260.html#a44460335986bcedf35dc295c242df6da", null ]
 ];

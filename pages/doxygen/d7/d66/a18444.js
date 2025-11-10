@@ -1,8 +1,7 @@
 var a18444 =
 [
-    [ "FilterTargets", "d7/d66/a18444.html#a242fa53c2da9ac557623281bccf2af92", null ],
-    [ "HandleSendEvent", "d7/d66/a18444.html#a6120e057e2ee39d34eaeab79782add8d", null ],
-    [ "Load", "d7/d66/a18444.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
-    [ "PrepareSpellScript", "d7/d66/a18444.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
-    [ "Register", "d7/d66/a18444.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
+    [ "OnRemove", "d7/d66/a18444.html#ac1a58d605156c03d05eb99605287e762", null ],
+    [ "PrepareAuraScript", "d7/d66/a18444.html#a2db820022631647e942b5ec84e63717e", null ],
+    [ "Register", "d7/d66/a18444.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
+    [ "Validate", "d7/d66/a18444.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
 ];

@@ -1,6 +1,6 @@
 var a17316 =
 [
-    [ "npc_pos_freed_slaveAI", "d1/dea/a17320.html", "d1/dea/a17320" ],
-    [ "npc_pos_freed_slave", "db/dba/a17316.html#a19fd79279646cb1c49c04056636615fc", null ],
-    [ "GetAI", "db/dba/a17316.html#ac798c2584d48892162cc2bc779701e16", null ]
+    [ "HandleDummy", "db/dba/a17316.html#a5b56eabdba4e6c9e23fe5a40b20417fe", null ],
+    [ "PrepareSpellScript", "db/dba/a17316.html#a6c53fed364a1a31cd170102d4d6878b1", null ],
+    [ "Register", "db/dba/a17316.html#ac49eaa96ebb95a38f54a9bb6321f5585", null ]
 ];

@@ -1,10 +1,16 @@
 var a15052 =
 [
-    [ "npc_tarethaAI", "d3/d5a/a15052.html#ad403cdcdc2648bb23687e3a3a7bdbb03", null ],
-    [ "AttackStart", "d3/d5a/a15052.html#a09d91ea8e5923ebc3c0ad01f09f93408", null ],
-    [ "DoAction", "d3/d5a/a15052.html#adbb40db0b70532a20731cf5039e44d0b", null ],
-    [ "MoveInLineOfSight", "d3/d5a/a15052.html#afa0427372e43316851018bf78274707f", null ],
-    [ "Reset", "d3/d5a/a15052.html#ae4d9f3d5751e8a8e0468a80d46f4a4c4", null ],
-    [ "WaypointReached", "d3/d5a/a15052.html#a6946bc02ec686c8af943c9e913c8aee6", null ],
-    [ "instance", "d3/d5a/a15052.html#a3c0f4a61cf5b8da6b885ef7bf9813205", null ]
+    [ "npc_medivh_bm", "d3/d5a/a15052.html#a23f04c433faf7da663b2edffb2a0440d", null ],
+    [ "AttackStart", "d3/d5a/a15052.html#a8eb87f4d80d83725af017657c599d458", null ],
+    [ "DoAction", "d3/d5a/a15052.html#aa5a54d0b2b069947dd59eee77cbdf21b", null ],
+    [ "JustDied", "d3/d5a/a15052.html#ad6dbbef1b6fbccd9dd224af1a15a6c90", null ],
+    [ "JustSummoned", "d3/d5a/a15052.html#a16d8d3be1dd148e149f4e49570f092a6", null ],
+    [ "MoveInLineOfSight", "d3/d5a/a15052.html#a87f092fccd5b485bdf0bd0449bd57265", null ],
+    [ "Reset", "d3/d5a/a15052.html#a1a33f613b083763c952882cdb82a35c1", null ],
+    [ "SummonOrcs", "d3/d5a/a15052.html#a13964b4c460a664442be7eebe768edf5", null ],
+    [ "UpdateAI", "d3/d5a/a15052.html#aefc693d7be0c06c5056cae18d4e4eb1e", null ],
+    [ "_airArray", "d3/d5a/a15052.html#a6e766596b69b52690635ee91e6e8d164", null ],
+    [ "_events", "d3/d5a/a15052.html#a1d4fe5bc964d12e812a178c68e2f037f", null ],
+    [ "_groundArray", "d3/d5a/a15052.html#a6fd3a75ddec2a6bda3e5d1bd3e33722c", null ],
+    [ "_instance", "d3/d5a/a15052.html#a45e129d61c3987e4bff94485db739eb1", null ]
 ];

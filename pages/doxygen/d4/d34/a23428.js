@@ -1,6 +1,7 @@
 var a23428 =
 [
-    [ "HandleScriptEffect", "d4/d34/a23428.html#a9e42f1af6fabb7df066cc2488a831418", null ],
-    [ "PrepareSpellScript", "d4/d34/a23428.html#a866496b087288a3cb8f00d4dbdb5d2ec", null ],
-    [ "Register", "d4/d34/a23428.html#a0fdb5d866d714d1d3bc71c4439a7f593", null ]
+    [ "FilterTargets", "d4/d34/a23428.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
+    [ "HandleDummy", "d4/d34/a23428.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
+    [ "PrepareSpellScript", "d4/d34/a23428.html#ae7714acbe0a08781e3bc297847c47870", null ],
+    [ "Register", "d4/d34/a23428.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
 ];

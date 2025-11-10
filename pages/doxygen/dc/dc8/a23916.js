@@ -1,6 +1,6 @@
 var a23916 =
 [
-    [ "npc_warden_mellicharAI", "d4/da7/a23920.html", "d4/da7/a23920" ],
-    [ "npc_warden_mellichar", "dc/dc8/a23916.html#aba5c3d005097430941bd40bbbb0d3562", null ],
-    [ "GetAI", "dc/dc8/a23916.html#a7cb7437a61b49d8110c3b7fee43e495b", null ]
+    [ "instance_arcatraz_InstanceMapScript", "d4/da7/a23920.html", "d4/da7/a23920" ],
+    [ "instance_arcatraz", "dc/dc8/a23916.html#a6fc8860651573353b54fd26bddea32aa", null ],
+    [ "GetInstanceScript", "dc/dc8/a23916.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
 ];

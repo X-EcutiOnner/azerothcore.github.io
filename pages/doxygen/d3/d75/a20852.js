@@ -1,12 +1,6 @@
 var a20852 =
 [
-    [ "boss_thorim_start_npcsAI", "d3/d75/a20852.html#a9602af25cbe9d4b3fe8534093c237a20", null ],
-    [ "DamageTaken", "d3/d75/a20852.html#a9a848662671380a726eb7288c6507f68", null ],
-    [ "JustDied", "d3/d75/a20852.html#a3c4b8928e1e0264e88eb49d930529c41", null ],
-    [ "JustEngagedWith", "d3/d75/a20852.html#ab6c0a8ae05a408cafb8ffe359d4d0d4e", null ],
-    [ "Reset", "d3/d75/a20852.html#aedf26a4b5baaf464d70316ce79ec32b3", null ],
-    [ "UpdateAI", "d3/d75/a20852.html#a5a84827d8d85e3a9b8e374da68d2c7ed", null ],
-    [ "_isCaster", "d3/d75/a20852.html#a6b2729ab9bce244da0a7d7fe6a4280f7", null ],
-    [ "_playerAttack", "d3/d75/a20852.html#adb868f1910859c79625cfb7f9a2b4101", null ],
-    [ "events", "d3/d75/a20852.html#a8dc5693814c49003727204623cef29b7", null ]
+    [ "boss_thorim_arena_npcsAI", "dc/d4f/a20856.html", "dc/d4f/a20856" ],
+    [ "boss_thorim_arena_npcs", "d3/d75/a20852.html#a60d22280bb1eb3c9da92deb08e887942", null ],
+    [ "GetAI", "d3/d75/a20852.html#a3709e1c9df32755f5932398ba3535f2f", null ]
 ];

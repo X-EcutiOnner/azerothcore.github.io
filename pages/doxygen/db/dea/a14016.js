@@ -1,16 +1,10 @@
 var a14016 =
 [
-    [ "boss_akilzon", "db/dea/a14016.html#a8c56c6920488ac507e24db384782e2ab", null ],
-    [ "DoAction", "db/dea/a14016.html#a691625a18583d58b1be4d2caeb21b1e0", null ],
-    [ "HandleStormSequence", "db/dea/a14016.html#a54d2f18adf59dc89553dd1778e5ea0b1", null ],
-    [ "JustDied", "db/dea/a14016.html#a93b34ed1f80dc138e54f77eb4f64b1bc", null ],
-    [ "JustEngagedWith", "db/dea/a14016.html#a2783ec5db681651f8c43c238e9ed25f3", null ],
-    [ "KilledUnit", "db/dea/a14016.html#a1a5ffe4c6aabeaa39971f2376761a7d7", null ],
-    [ "Reset", "db/dea/a14016.html#a69302e4ac8f349e884f0745fe66edce2", null ],
-    [ "SetWeather", "db/dea/a14016.html#a9c8eeed625f33153819df19b6c2c5670", null ],
-    [ "SummonEagles", "db/dea/a14016.html#acde7c47a3ebee988753cd2af93fe16d4", null ],
-    [ "_birdGUIDs", "db/dea/a14016.html#ad5c56493e1e6331ae09bb70b920282fc", null ],
-    [ "_cycloneGUID", "db/dea/a14016.html#aaa712019eb5d17684d7f048f81e36270", null ],
-    [ "_isRaining", "db/dea/a14016.html#af61142c59ca9c5868afe7bc94ca40dcf", null ],
-    [ "_targetGUID", "db/dea/a14016.html#a4e8349e5ea281a40b9623b14e235bf41", null ]
+    [ "boss_alyson_antille", "db/dea/a14016.html#a8b95891ced3f17f67470d1ec7b1a9a3e", null ],
+    [ "GetNearbyFriendlies", "db/dea/a14016.html#ab99596d5c2eafac8c678378d509bf585", null ],
+    [ "JustEngagedWith", "db/dea/a14016.html#a7a7d62c52a403ac1d8e5d275a74cad6e", null ],
+    [ "RandomReverseFriendlyList", "db/dea/a14016.html#afef27de229ba2c3b8beb30809a313237", null ],
+    [ "Reset", "db/dea/a14016.html#a40d901bde9f8419a1c73aa073f6fb334", null ],
+    [ "UpdateAI", "db/dea/a14016.html#a15157be42d166a239ab658fc04292e44", null ],
+    [ "_friendlyList", "db/dea/a14016.html#a0168c4a0f1e9862fe0d83ffac89aa634", null ]
 ];

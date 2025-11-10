@@ -1,7 +1,9 @@
 var a13864 =
 [
-    [ "npc_deathstalker_erlandAI", "d7/d81/a13864.html#aa3c6822db09bc40dc87d556f6b3cc880", null ],
-    [ "JustEngagedWith", "d7/d81/a13864.html#ae4789c26cbb00b4ac04d646617a48a40", null ],
-    [ "Reset", "d7/d81/a13864.html#a3def0a0dd57ed732242a09d6390ab1f0", null ],
-    [ "WaypointReached", "d7/d81/a13864.html#af200e269d3f4b51bb5cfd08e9bf7ecc5", null ]
+    [ "npc_marzon_silent_bladeAI", "d7/d81/a13864.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
+    [ "EnterEvadeMode", "d7/d81/a13864.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
+    [ "JustEngagedWith", "d7/d81/a13864.html#a116b3458f342811e378713e6a67f76a6", null ],
+    [ "MovementInform", "d7/d81/a13864.html#a32201d45f0c19212becb6319a48366f8", null ],
+    [ "Reset", "d7/d81/a13864.html#a51c2b16c767ce2922564dc9e4048e089", null ],
+    [ "UpdateAI", "d7/d81/a13864.html#aa6686399b41d32429d530dcc2ec41185", null ]
 ];

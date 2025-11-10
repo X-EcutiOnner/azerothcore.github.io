@@ -1,8 +1,16 @@
 var a15492 =
 [
-    [ "npc_ahnqiraji_critter", "d1/d6a/a15492.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "d1/d6a/a15492.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "d1/d6a/a15492.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "d1/d6a/a15492.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "d1/d6a/a15492.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "npc_muglashAI", "d1/d6a/a15492.html#af1988703aaaac04e5853c33e5b915ca2", null ],
+    [ "DoAction", "d1/d6a/a15492.html#afba6c4441ff4da54f89709b3c2bcd4d4", null ],
+    [ "DoWaveSummon", "d1/d6a/a15492.html#aaf862468f5ba0c6f99056a81a472c6e2", null ],
+    [ "JustDied", "d1/d6a/a15492.html#a5936dd183091c462e4835a00f81020f5", null ],
+    [ "JustEngagedWith", "d1/d6a/a15492.html#a587c8cb4562e93cecccb20e93cabba05", null ],
+    [ "JustSummoned", "d1/d6a/a15492.html#a07e451149dbf6b72e01f94dc8f07edf3", null ],
+    [ "Reset", "d1/d6a/a15492.html#a98933c32f2550989356b3e876d302b88", null ],
+    [ "sQuestAccept", "d1/d6a/a15492.html#a6c93a53a7b8bcd200ebca0e9d366f6fe", null ],
+    [ "UpdateAI", "d1/d6a/a15492.html#a6b479f50428536997faef96e510dbd84", null ],
+    [ "WaypointReached", "d1/d6a/a15492.html#a8f91b74c0d8778a73e0bc95dce339f2b", null ],
+    [ "_isBrazierExtinguished", "d1/d6a/a15492.html#aeec098d6a65b6852598a4e4b6888a410", null ],
+    [ "eventTimer", "d1/d6a/a15492.html#a548e142bb509b4606b6fcf98d926cd44", null ],
+    [ "waveId", "d1/d6a/a15492.html#a06c0af398e53b5ea6bfd6fa80256f845", null ]
 ];

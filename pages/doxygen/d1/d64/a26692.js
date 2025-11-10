@@ -1,7 +1,6 @@
 var a26692 =
 [
-    [ "HandleDummy", "d1/d64/a26692.html#a1abe1e04be6b6c410e0ff273d8aa15c9", null ],
-    [ "Load", "d1/d64/a26692.html#a249e9c3c74bcc20ea2c0d5ce63fbd88c", null ],
-    [ "PrepareSpellScript", "d1/d64/a26692.html#aeffcc8db6125a35227545911fa03a850", null ],
-    [ "Register", "d1/d64/a26692.html#a1de981482ebb05b8507b308dba7a426b", null ]
+    [ "HandleDummy", "d1/d64/a26692.html#a904038167c9ba270cb54cd6adbe22563", null ],
+    [ "PrepareSpellScript", "d1/d64/a26692.html#a326656405c3400225a4ce10567c1c482", null ],
+    [ "Register", "d1/d64/a26692.html#a2d83815d44543686525238723a3ab39a", null ]
 ];

@@ -1,11 +1,7 @@
 var a15652 =
 [
-    [ "npc_tiger_matriarchAI", "de/dbd/a15652.html#accbe5feed1eb7363575f297d1b50f6ab", null ],
-    [ "DamageTaken", "de/dbd/a15652.html#ab41c4275fe4f42b36615f746a100ccda", null ],
-    [ "IsSummonedBy", "de/dbd/a15652.html#a8b02683be93944a65b38658bba0af4d8", null ],
-    [ "JustEngagedWith", "de/dbd/a15652.html#a9a9295008552f5330f778dd3a0c591ea", null ],
-    [ "KilledUnit", "de/dbd/a15652.html#aabde7633ac07966ee1cd2d9817582189", null ],
-    [ "UpdateAI", "de/dbd/a15652.html#af8ed5b16a3f1ed04d439bc1ce1a07ede", null ],
-    [ "_events", "de/dbd/a15652.html#a44632ddc3c4e57bee1791cda4027bc93", null ],
-    [ "_tigerGuid", "de/dbd/a15652.html#ad557591ddebd4cece99b0e5793be3eb5", null ]
+    [ "HandleDummy", "de/dbd/a15652.html#a30a87266b89021caf7d05c45397f70d1", null ],
+    [ "PrepareSpellScript", "de/dbd/a15652.html#a43a92b346088d710719722e8feed9634", null ],
+    [ "Register", "de/dbd/a15652.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
+    [ "Validate", "de/dbd/a15652.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
 ];

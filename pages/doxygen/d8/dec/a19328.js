@@ -1,15 +1,10 @@
 var a19328 =
 [
-    [ "boss_maexxnaAI", "d8/dec/a19328.html#a3bf898911798eaa891ef7638a3a2cc20", null ],
-    [ "DoCastWebWrap", "d8/dec/a19328.html#a5d78455f5ba6e30df6644897b4e6ad7e", null ],
-    [ "IsInRoom", "d8/dec/a19328.html#a957bd38232c020611fc24dd8a6e55640", null ],
-    [ "JustDied", "d8/dec/a19328.html#a4f0121aedeff9d44b28e888f5f3d0382", null ],
-    [ "JustEngagedWith", "d8/dec/a19328.html#a9974fc771b3663878964aeb20914fe43", null ],
-    [ "JustSummoned", "d8/dec/a19328.html#ab45b74b3067b42089fee804844ea41dd", null ],
-    [ "KilledUnit", "d8/dec/a19328.html#a11cda2b905ef2381c317a01e4163be00", null ],
-    [ "Reset", "d8/dec/a19328.html#a78385da6845ce8e3075616c24696d0cc", null ],
-    [ "UpdateAI", "d8/dec/a19328.html#a6f0453babfa84764467970369894eb97", null ],
-    [ "events", "d8/dec/a19328.html#a6ddb73eeb18560a08e72dd6ccc5d0c83", null ],
-    [ "summons", "d8/dec/a19328.html#a7ea3de40dfd638db7e34c523a0461335", null ],
-    [ "wraps", "d8/dec/a19328.html#a3bfe3ab90ff6f401c3f7b8655e3abc05", null ]
+    [ "boss_patchwerkAI", "d8/dec/a19328.html#a74dfcf9ef921aa2a53d877c0e5ee9a34", null ],
+    [ "JustDied", "d8/dec/a19328.html#aaed18187aa8e0058c70b29b1ccbe955f", null ],
+    [ "JustEngagedWith", "d8/dec/a19328.html#a1317cb819d6247f62e0c6c725157db30", null ],
+    [ "KilledUnit", "d8/dec/a19328.html#a17ccb5b2a1841656813a9408f5a05c4e", null ],
+    [ "Reset", "d8/dec/a19328.html#a1d03058bf53e670f4fe9384e9f047891", null ],
+    [ "UpdateAI", "d8/dec/a19328.html#a2db0df50a0faa88ebeaa035ea048157e", null ],
+    [ "events", "d8/dec/a19328.html#a00c98ee5cdb3c512ba0d92a48d441006", null ]
 ];

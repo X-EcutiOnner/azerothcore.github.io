@@ -1,7 +1,6 @@
 var a13524 =
 [
-    [ "HandleScriptEffect", "d4/d16/a13524.html#a5ee63545a338e00bfcb8dcc2f3f67db3", null ],
-    [ "PrepareSpellScript", "d4/d16/a13524.html#af9deee89e837e07486a7555632008eb2", null ],
-    [ "Register", "d4/d16/a13524.html#aa4a7c699389a6e467b298cb4f9d3ed07", null ],
-    [ "Validate", "d4/d16/a13524.html#a043d135ea2c37f6e4352aa2fba2bb21c", null ]
+    [ "SpectralBlastCheck", "d4/d16/a13524.html#ada2eda8781891a4049ee30c5ecb81c3c", null ],
+    [ "operator()", "d4/d16/a13524.html#afbe13a5f90a5b95832e14fe9d7affc9f", null ],
+    [ "_victim", "d4/d16/a13524.html#ab96456159d61e781aa8d691dd0b1fec1", null ]
 ];

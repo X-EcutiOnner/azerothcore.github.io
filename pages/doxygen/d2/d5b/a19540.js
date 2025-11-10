@@ -1,5 +1,5 @@
 var a19540 =
 [
-    [ "achievement_chaos_theory", "d2/d5b/a19540.html#a3068009fa1fb400439a2c72f00296484", null ],
-    [ "OnCheck", "d2/d5b/a19540.html#a68d9a577cb7e005d81f52077707e3555", null ]
+    [ "achievement_split_personality", "d2/d5b/a19540.html#aac29ae7c321306a663e55493987af45d", null ],
+    [ "OnCheck", "d2/d5b/a19540.html#ab5379f3c1191eeb747cb6762fc42ce01", null ]
 ];

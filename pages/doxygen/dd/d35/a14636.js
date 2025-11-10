@@ -1,5 +1,7 @@
 var a14636 =
 [
-    [ "go_loosely_turned_soilAI", "dd/d35/a14636.html#a603641bc52d26521d64afaaeed3abc4d", null ],
-    [ "CanBeSeen", "dd/d35/a14636.html#a424b51b08d17ceb04b015cd535256889", null ]
+    [ "OnApply", "dd/d35/a14636.html#a42148069675e663456bb5495fa5c8702", null ],
+    [ "OnPeriodic", "dd/d35/a14636.html#ad3582b02b369e3029e20817dd19aede0", null ],
+    [ "PrepareAuraScript", "dd/d35/a14636.html#a4e53e6cc02ce44d85fdf5497c006d7d9", null ],
+    [ "Register", "dd/d35/a14636.html#a8970b2ae63e0ba2e238aa6309d713b62", null ]
 ];

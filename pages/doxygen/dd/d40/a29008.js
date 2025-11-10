@@ -1,15 +1,12 @@
 var a29008 =
 [
-    [ "toMMAPTileRecastConfig", "dd/d40/a29008.html#ad46c79822cfc2af7b0fbcab1f4c617fa", null ],
-    [ "baseUnitDim", "dd/d40/a29008.html#a9e09d86e08925e501f9f9a5d73f9119c", null ],
-    [ "cellSizeHorizontal", "dd/d40/a29008.html#a4dfcfc16d4c854bc210d8c6827d27ba7", null ],
-    [ "cellSizeVertical", "dd/d40/a29008.html#a0b49e8a9b40c7bed81a28fb5b284c735", null ],
-    [ "maxSimplificationError", "dd/d40/a29008.html#a37fbb64246708db0e7c9788d8f06c04b", null ],
-    [ "tilesPerMapEdge", "dd/d40/a29008.html#a14a858b17d96f6d5945ecfa77bc0fb00", null ],
-    [ "vertexPerMapEdge", "dd/d40/a29008.html#adba40fb00d24af999a1970e3a5fed198", null ],
-    [ "vertexPerTileEdge", "dd/d40/a29008.html#ae7421270c917171607ff972483df0ba1", null ],
-    [ "walkableClimb", "dd/d40/a29008.html#a5501534adbc4018b5047599c12a2e582", null ],
-    [ "walkableHeight", "dd/d40/a29008.html#a3513a1b33d8682303eae1eaa30615a07", null ],
-    [ "walkableRadius", "dd/d40/a29008.html#a0fd92998a753ea4ae76fac8c649645ac", null ],
-    [ "walkableSlopeAngle", "dd/d40/a29008.html#afa96a254067d2173288479cc60a6c97c", null ]
+    [ "cellSizeHorizontal", "dd/d40/a29008.html#a5356c03dab90621b69de7a79ed4ab195", null ],
+    [ "cellSizeVertical", "dd/d40/a29008.html#a47b5a920afa39ae27a80241d58f152a3", null ],
+    [ "tileOverrides", "dd/d40/a29008.html#a129437291e75a919e4158bf1df0f7f0a", null ],
+    [ "vertexPerMapEdge", "dd/d40/a29008.html#a9d32da8787f54a7dadb86458319e0238", null ],
+    [ "vertexPerTileEdge", "dd/d40/a29008.html#a8dd6b0146358fcbbb6b7c56a96c467c9", null ],
+    [ "walkableClimb", "dd/d40/a29008.html#a2bd854b374d67d53b03a7bacf0785726", null ],
+    [ "walkableHeight", "dd/d40/a29008.html#a1de27edad5c45f8033ce74352c563f52", null ],
+    [ "walkableRadius", "dd/d40/a29008.html#a232dd51ab056c5e836fe1bb84eeee90e", null ],
+    [ "walkableSlopeAngle", "dd/d40/a29008.html#ad66e0a04ba9087304cf3909bb85b622a", null ]
 ];

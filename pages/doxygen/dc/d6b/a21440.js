@@ -1,6 +1,7 @@
 var a21440 =
 [
-    [ "boss_emalonAI", "dc/dd7/a21444.html", "dc/dd7/a21444" ],
-    [ "boss_emalon", "dc/d6b/a21440.html#a2dd481292e02337bebd450f5c9821886", null ],
-    [ "GetAI", "dc/d6b/a21440.html#a345b0663ba89de5e37b87a436c48e446", null ]
+    [ "PrepareAuraScript", "dc/d6b/a21440.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
+    [ "Register", "dc/d6b/a21440.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
+    [ "TriggerFists", "dc/d6b/a21440.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
+    [ "Validate", "dc/d6b/a21440.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
 ];

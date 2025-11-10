@@ -1,7 +1,7 @@
 var a16328 =
 [
-    [ "HandlePeriodic", "db/dd9/a16328.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
-    [ "PrepareAuraScript", "db/dd9/a16328.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
-    [ "Register", "db/dd9/a16328.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
-    [ "Validate", "db/dd9/a16328.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
+    [ "OnApply", "db/dd9/a16328.html#a2e4fa91ed7b3270a1addb8e5b3a85d74", null ],
+    [ "OnRemove", "db/dd9/a16328.html#a781994b0be4588f4df29399fc900ec69", null ],
+    [ "PrepareAuraScript", "db/dd9/a16328.html#aee648b80e7352edffb20fd60697e1d88", null ],
+    [ "Register", "db/dd9/a16328.html#a53c56711e31500f827123c08f44072cb", null ]
 ];

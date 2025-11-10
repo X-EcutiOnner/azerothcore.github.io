@@ -1,6 +1,6 @@
 var a17056 =
 [
-    [ "boss_marwynAI", "d6/de0/a17060.html", "d6/de0/a17060" ],
-    [ "boss_marwyn", "d5/d09/a17056.html#a4be337e1a6b4ab6d48aa1380f3956ad4", null ],
-    [ "GetAI", "d5/d09/a17056.html#af1c83878d2121163994bc327ae8e04f7", null ]
+    [ "npc_phantom_mageAI", "d6/de0/a17060.html", "d6/de0/a17060" ],
+    [ "npc_phantom_mage", "d5/d09/a17056.html#ad57414231c40917bf55d6155fa9c05db", null ],
+    [ "GetAI", "d5/d09/a17056.html#ae2134b8be3052da659390bde7c2aac2e", null ]
 ];

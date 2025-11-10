@@ -1,9 +1,7 @@
 var a22164 =
 [
-    [ "npc_wounded_skirmisher", "df/d03/a22164.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
-    [ "Initialize", "df/d03/a22164.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
-    [ "JustEngagedWith", "df/d03/a22164.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
-    [ "Reset", "df/d03/a22164.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
-    [ "SpellHit", "df/d03/a22164.html#a891e879af5da1f181c94e528c59a81f1", null ],
-    [ "UpdateAI", "df/d03/a22164.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
+    [ "HandleAfterEffectApply", "df/d03/a22164.html#ab54795dc49ca453db40494a694158a98", null ],
+    [ "PrepareAuraScript", "df/d03/a22164.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
+    [ "Register", "df/d03/a22164.html#addd4fac4cc8a93d800abacb144e3303c", null ],
+    [ "Validate", "df/d03/a22164.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
 ];

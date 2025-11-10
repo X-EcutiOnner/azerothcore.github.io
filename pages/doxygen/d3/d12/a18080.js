@@ -1,6 +1,7 @@
 var a18080 =
 [
-    [ "npc_gas_cloudAI", "d6/da1/a18084.html", "d6/da1/a18084" ],
-    [ "npc_gas_cloud", "d3/d12/a18080.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
-    [ "GetAI", "d3/d12/a18080.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
+    [ "HandleExtraEffect", "d3/d12/a18080.html#a8fbfac8e62d2534daf40194f7fe31945", null ],
+    [ "PrepareAuraScript", "d3/d12/a18080.html#a45e83b3bfa344391bb87c8088ae1c6a7", null ],
+    [ "Register", "d3/d12/a18080.html#a5ec23a02a4e617e6db8cf17d2bd36aff", null ],
+    [ "Validate", "d3/d12/a18080.html#a2e7253cfc18b66d663457c2fb7ab3302", null ]
 ];

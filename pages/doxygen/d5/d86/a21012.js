@@ -1,6 +1,6 @@
 var a21012 =
 [
-    [ "boss_yoggsaron_guardian_of_ysAI", "db/daa/a21016.html", "db/daa/a21016" ],
-    [ "boss_yoggsaron_guardian_of_ys", "d5/d86/a21012.html#a299b346a4e9ac5190d554702dcf00faf", null ],
-    [ "GetAI", "d5/d86/a21012.html#a86380b3ad87e0070541d22d3fb74058f", null ]
+    [ "boss_yoggsaron_death_orbAI", "d5/d86/a21012.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
+    [ "UpdateAI", "d5/d86/a21012.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
+    [ "_startTimer", "d5/d86/a21012.html#aebc8edef5f84219e1c50f2394d129443", null ]
 ];

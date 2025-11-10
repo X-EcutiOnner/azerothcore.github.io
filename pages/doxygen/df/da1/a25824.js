@@ -1,6 +1,6 @@
 var a25824 =
 [
-    [ "HandleDummy", "df/da1/a25824.html#a7b56d07d46647a2790553d40e75da79d", null ],
-    [ "PrepareSpellScript", "df/da1/a25824.html#aad36c108f4531c19ba552064ba0d3248", null ],
-    [ "Register", "df/da1/a25824.html#a754fcf618f53b4b17c2bcae4740e561f", null ]
+    [ "HandleProc", "df/da1/a25824.html#a9a38fab6b581e9f9b4e092d7a4ecaebd", null ],
+    [ "PrepareAuraScript", "df/da1/a25824.html#a5299aaeacead013e00e81ec7960528f8", null ],
+    [ "Register", "df/da1/a25824.html#a3b46c5dd891d856e08cbcb9a494f2dd2", null ]
 ];

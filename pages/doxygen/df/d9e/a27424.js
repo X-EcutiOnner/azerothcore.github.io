@@ -1,7 +1,6 @@
 var a27424 =
 [
-    [ "FilterTargets", "df/d9e/a27424.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "df/d9e/a27424.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "df/d9e/a27424.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "df/d9e/a27424.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "go_witherbark_totem_bundleAI", "d5/db2/a27428.html", "d5/db2/a27428" ],
+    [ "go_witherbark_totem_bundle", "df/d9e/a27424.html#affcdff7ec6894add0acec842028efd2e", null ],
+    [ "GetAI", "df/d9e/a27424.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
 ];

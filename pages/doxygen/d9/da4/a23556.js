@@ -1,7 +1,7 @@
 var a23556 =
 [
-    [ "HandleScriptEffect", "d9/da4/a23556.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
-    [ "PrepareSpellScript", "d9/da4/a23556.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
-    [ "Register", "d9/da4/a23556.html#a14772c25b70078c0034b8de17de5b77a", null ],
-    [ "Validate", "d9/da4/a23556.html#a8318385367bf6c6b09e0978c461f5d59", null ]
+    [ "boss_hydromancer_thespia", "d9/da4/a23556.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "d9/da4/a23556.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "d9/da4/a23556.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "d9/da4/a23556.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

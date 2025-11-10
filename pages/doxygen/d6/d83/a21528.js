@@ -1,10 +1,6 @@
 var a21528 =
 [
-    [ "npc_erekem_guardAI", "d6/d83/a21528.html#a1ce40b70a35fc76e6ac0af449b7f4ded", null ],
-    [ "JustEngagedWith", "d6/d83/a21528.html#a93819c5c76821b1c9559be55359d677e", null ],
-    [ "MoveInLineOfSight", "d6/d83/a21528.html#aa1140892c13f4c070b1f3f1bf2230bb5", null ],
-    [ "Reset", "d6/d83/a21528.html#a079be6dd45e96184d66e95f031dc9c5f", null ],
-    [ "UpdateAI", "d6/d83/a21528.html#ab2c55e384f624b0f671e42e381aa3a37", null ],
-    [ "events", "d6/d83/a21528.html#a15afc8dd6d6e15fcd1a632728ad8d16e", null ],
-    [ "pInstance", "d6/d83/a21528.html#a81985b8522111f2aae540353cd5641fe", null ]
+    [ "boss_moraggAI", "d0/d3d/a21532.html", "d0/d3d/a21532" ],
+    [ "boss_moragg", "d6/d83/a21528.html#aeb43f9cc4c41f049fd0a13e79cadfcd1", null ],
+    [ "GetAI", "d6/d83/a21528.html#a5ea2f210038b3e44bf2cb9c402e1b761", null ]
 ];

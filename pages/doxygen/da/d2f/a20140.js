@@ -1,6 +1,8 @@
 var a20140 =
 [
-    [ "boss_flame_leviathan_safety_containerAI", "d6/d35/a20144.html", "d6/d35/a20144" ],
-    [ "boss_flame_leviathan_safety_container", "da/d2f/a20140.html#ae14b2e13bd6358ad03d568f2bef042b7", null ],
-    [ "GetAI", "da/d2f/a20140.html#a6bcbc4e65214a0c667875271ff9aa0dd", null ]
+    [ "OnApply", "da/d2f/a20140.html#a5aec8606684637bbdb1e819254f5d483", null ],
+    [ "OnRemove", "da/d2f/a20140.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
+    [ "PrepareAuraScript", "da/d2f/a20140.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
+    [ "Register", "da/d2f/a20140.html#af1db6ca387cf0733ba4b9c324172d692", null ],
+    [ "Validate", "da/d2f/a20140.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
 ];

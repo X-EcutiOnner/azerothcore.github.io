@@ -1,6 +1,9 @@
 var a14380 =
 [
-    [ "npc_brewfest_keg_thrower", "d5/d14/a14380.html#a29da1efd21fe6737684607e5b360ea84", null ],
-    [ "CanBeSeen", "d5/d14/a14380.html#a36212d0f17c0070d3ef3cc25577ff7b9", null ],
-    [ "MoveInLineOfSight", "d5/d14/a14380.html#a3938b0e63553e79302ba966c6cdcf9be", null ]
+    [ "HandleEffectPeriodic", "d5/d14/a14380.html#a798c8ddfc71e703bfe1e3c1f2d926cef", null ],
+    [ "HandleEffectRemove", "d5/d14/a14380.html#a96ed7366e568b70e82d622586740aa56", null ],
+    [ "Load", "d5/d14/a14380.html#a85cbc44e586330e2adfc0656a428bd7b", null ],
+    [ "PrepareAuraScript", "d5/d14/a14380.html#abd1f851112a50b79e815cdd894275bab", null ],
+    [ "Register", "d5/d14/a14380.html#aa3cd85aed063017c4737e7660fa81f37", null ],
+    [ "questTick", "d5/d14/a14380.html#ae2980e5f4934ce2ba5b755b7d45fab82", null ]
 ];

@@ -1,7 +1,10 @@
 var a24120 =
 [
-    [ "boss_gatewatcher_gyrokill", "d3/d81/a24120.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
-    [ "JustDied", "d3/d81/a24120.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
-    [ "JustEngagedWith", "d3/d81/a24120.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
-    [ "KilledUnit", "d3/d81/a24120.html#a274355d0303d9bf5761758f175826bd1", null ]
+    [ "npc_raging_flames", "d3/d81/a24120.html#aa2cc5c8af07c202a7f0fab1af259a0db", null ],
+    [ "EnterEvadeMode", "d3/d81/a24120.html#a24a878560153dcf9cf5282c6d0a8f7f0", null ],
+    [ "FixateRandomTarget", "d3/d81/a24120.html#a0e015aa73efdafb1bb9683b2f3c1ba34", null ],
+    [ "InitializeAI", "d3/d81/a24120.html#a96d3a8ef364dc6bc3f15ffc82b14c4c0", null ],
+    [ "IsSummonedBy", "d3/d81/a24120.html#ae42c4329be355807af92c1c803e61500", null ],
+    [ "Reset", "d3/d81/a24120.html#a34ac2249e507784d81c4040e87a646e0", null ],
+    [ "UpdateAI", "d3/d81/a24120.html#a3e4feafe10e59ad9cb1d2275dc7954b0", null ]
 ];

@@ -1,5 +1,6 @@
 var a14208 =
 [
-    [ "at_zulgurub_temple_speech", "db/dc0/a14208.html#ab727ad7cb7f0a0e8309bbab233766cde", null ],
-    [ "_OnTrigger", "db/dc0/a14208.html#afd42cd408df7562a9dcd91e33750f3d4", null ]
+    [ "FilterTargets", "db/dc0/a14208.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
+    [ "PrepareSpellScript", "db/dc0/a14208.html#a0a1cbde8aff10303d91a791276a865f4", null ],
+    [ "Register", "db/dc0/a14208.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
 ];

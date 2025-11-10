@@ -1,10 +1,14 @@
 var a13692 =
 [
-    [ "npc_sunblade_scout", "d9/d9a/a13692.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
-    [ "JustEngagedWith", "d9/d9a/a13692.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
-    [ "Reset", "d9/d9a/a13692.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
-    [ "ScheduleCombat", "d9/d9a/a13692.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
-    [ "ScheduleOOC", "d9/d9a/a13692.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
-    [ "UpdateAI", "d9/d9a/a13692.html#aca75482085b72070487c24feefa23fd6", null ],
-    [ "_protectorGUID", "d9/d9a/a13692.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
+    [ "instance_uldaman_InstanceMapScript", "d9/d9a/a13692.html#ab2607f229d1e34852c82139ddb597712", null ],
+    [ "GetData", "d9/d9a/a13692.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
+    [ "Initialize", "d9/d9a/a13692.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
+    [ "OnCreatureCreate", "d9/d9a/a13692.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
+    [ "OnGameObjectCreate", "d9/d9a/a13692.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
+    [ "ReadSaveDataMore", "d9/d9a/a13692.html#a8e0e03189463039dd31d883ad9c40e51", null ],
+    [ "SetData", "d9/d9a/a13692.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
+    [ "WriteSaveDataMore", "d9/d9a/a13692.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
+    [ "_encounters", "d9/d9a/a13692.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
+    [ "ancientVaultDoorGUID", "d9/d9a/a13692.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
+    [ "archaedasTempleDoorGUID", "d9/d9a/a13692.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
 ];

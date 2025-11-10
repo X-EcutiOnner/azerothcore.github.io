@@ -1,5 +1,5 @@
 var a27320 =
 [
-    [ "achievement_flirt_with_disaster_perf_check", "de/d7f/a27320.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
-    [ "OnCheck", "de/d7f/a27320.html#a15e620be2f37f930477ba94293dbaf63", null ]
+    [ "AreaTrigger_at_scent_larkorwi", "de/d7f/a27320.html#a967a43eae4cc986754eed9ee8291c17e", null ],
+    [ "OnTrigger", "de/d7f/a27320.html#aeeb339afa5a7dd4b028aea800026998e", null ]
 ];

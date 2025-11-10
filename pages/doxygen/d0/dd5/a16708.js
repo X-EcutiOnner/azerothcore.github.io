@@ -1,6 +1,6 @@
 var a16708 =
 [
-    [ "npc_toc_retro_paladinAI", "de/df2/a16712.html", "de/df2/a16712" ],
-    [ "npc_toc_retro_paladin", "d0/dd5/a16708.html#abfb15148aefe186447cfdb3a2c8749c4", null ],
-    [ "GetAI", "d0/dd5/a16708.html#a1213c99792aa4362275bc827aa2f037e", null ]
+    [ "boss_jaraxxusAI", "de/df2/a16712.html", "de/df2/a16712" ],
+    [ "boss_jaraxxus", "d0/dd5/a16708.html#a82cf0601aa16893d88d9b669a6d1fc72", null ],
+    [ "GetAI", "d0/dd5/a16708.html#a518f7af9f86ab995e5195175b5a34bc6", null ]
 ];

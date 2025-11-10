@@ -1,18 +1,18 @@
 var a21384 =
 [
-    [ "boss_svalaAI", "df/df6/a21384.html#a568466d621043157958bea38595d42a8", null ],
-    [ "EnterEvadeMode", "df/df6/a21384.html#a7808767e79ebe4c5ac784ff7a32874f6", null ],
-    [ "JustDied", "df/df6/a21384.html#aa85b0d305074d0df887fbb7ba42a3b20", null ],
-    [ "JustEngagedWith", "df/df6/a21384.html#ae36faacbbd22ddde8d8f25540e583c14", null ],
-    [ "JustSummoned", "df/df6/a21384.html#ad4bf163bf81dee06bead6f9a8aaa2a3a", null ],
-    [ "KilledUnit", "df/df6/a21384.html#a440053a21489b6e4691fc4a6e5984908", null ],
-    [ "Reset", "df/df6/a21384.html#a9c6fca6d70c7c53048b137b7d8cc0861", null ],
-    [ "SetData", "df/df6/a21384.html#a86f376743055f99c066ad1a7c960b6c7", null ],
-    [ "UpdateAI", "df/df6/a21384.html#a47b7405bd2fd6789f61172cbacd12fa0", null ],
-    [ "ArthasGUID", "df/df6/a21384.html#a42e1753c8a66cc292799c890b9177a3e", null ],
-    [ "events", "df/df6/a21384.html#abe87bb56b844c75dd9b24a4d45c94e7f", null ],
-    [ "events2", "df/df6/a21384.html#a542d2bc22970ee5835b2e15322dc2e58", null ],
-    [ "instance", "df/df6/a21384.html#a58f451d373d8336d5b8b38e33a1eeea8", null ],
-    [ "Started", "df/df6/a21384.html#a5d4b4c94062db7601fdc918f9727e03b", null ],
-    [ "summons", "df/df6/a21384.html#a3d14b708a8156a6c9025ff92aa3774c4", null ]
+    [ "boss_ymironAI", "df/df6/a21384.html#a3a4d81b7a0f3f27f94fea60eff043696", null ],
+    [ "EnterEvadeMode", "df/df6/a21384.html#a8fbc8526e82efea3e2eddedc421b85a2", null ],
+    [ "JustDied", "df/df6/a21384.html#ad1da47485b8f17ea550a1b6bc943eb9a", null ],
+    [ "JustEngagedWith", "df/df6/a21384.html#aed0cc8f034454db0046a5adce7f9d8a0", null ],
+    [ "KilledUnit", "df/df6/a21384.html#ae1d69402520e1cf4d3a17c0ca9af35bd", null ],
+    [ "MovementInform", "df/df6/a21384.html#a6e3c14da21d45bb7ddfba25d4487bba7", null ],
+    [ "Reset", "df/df6/a21384.html#a2b6619a51641a82109e98fd4decd22e3", null ],
+    [ "SpellHitTarget", "df/df6/a21384.html#a2f2782926ee9a59fc5188d02347f9ca8", null ],
+    [ "UpdateAI", "df/df6/a21384.html#aaa447c1c6092bfc7c1d117d32b2c5673", null ],
+    [ "BoatNum", "df/df6/a21384.html#ac5663f283d1a97fea1646c1ec230a7dc", null ],
+    [ "BoatOrder", "df/df6/a21384.html#a319095910309b0a78d321c4d33994542", null ],
+    [ "events", "df/df6/a21384.html#af2d8d9a2ec7ec5876c99ae909d3befd2", null ],
+    [ "pInstance", "df/df6/a21384.html#a115529fcbc5a0c8b57152be49915d575", null ],
+    [ "summons", "df/df6/a21384.html#aaa5d90d3940c84adebce772c594b0ee2", null ],
+    [ "summons2", "df/df6/a21384.html#aa82280ec0e02924d653b62298ed7e471", null ]
 ];

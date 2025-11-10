@@ -1,7 +1,16 @@
 var a18148 =
 [
-    [ "HandleSummon", "d9/da4/a18148.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
-    [ "PrepareSpellScript", "d9/da4/a18148.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
-    [ "Register", "d9/da4/a18148.html#a01281869dc98a0af5027695391f1221f", null ],
-    [ "Validate", "d9/da4/a18148.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
+    [ "boss_rotfaceAI", "d9/da4/a18148.html#abe4c4df1732127814a507b0f99203ebb", null ],
+    [ "EnterEvadeMode", "d9/da4/a18148.html#a8b166241350c7437c0baab2bc783dc93", null ],
+    [ "JustDied", "d9/da4/a18148.html#ab5ba6f23e4a0f097386452bdd497ef5a", null ],
+    [ "JustEngagedWith", "d9/da4/a18148.html#aa34831a7c2986451ff518a76547edecc", null ],
+    [ "JustReachedHome", "d9/da4/a18148.html#adac69ee7aca11d5d355ef71a11a39a1d", null ],
+    [ "JustSummoned", "d9/da4/a18148.html#aaa273c65b0545931797057ca4cdab1eb", null ],
+    [ "KilledUnit", "d9/da4/a18148.html#a9356f21962b312eccfba1b3e75afaba0", null ],
+    [ "Reset", "d9/da4/a18148.html#aed06635aabcb47fd700ab1a894bad13c", null ],
+    [ "SpellHitTarget", "d9/da4/a18148.html#a99d88373a20464fac3ebf035430c2e75", null ],
+    [ "UpdateAI", "d9/da4/a18148.html#aaf47878572d23bfb22f2ae77fed8d95e", null ],
+    [ "_oozeFloodDummyGUIDs", "d9/da4/a18148.html#a28e859c796fc210cba9a1ac7bfd0124a", null ],
+    [ "_oozeFloodStage", "d9/da4/a18148.html#aa007ed2c05914b1ce664d347bb04abaa", null ],
+    [ "infectionCooldown", "d9/da4/a18148.html#a3b9c9223da7cd6163ea6369fee6439f5", null ]
 ];

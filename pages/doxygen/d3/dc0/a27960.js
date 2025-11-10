@@ -1,9 +1,14 @@
 var a27960 =
 [
-    [ "npc_necropolis_health", "d3/dc0/a27960.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
-    [ "DespawnNecropolis", "d3/dc0/a27960.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
-    [ "JustDied", "d3/dc0/a27960.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
-    [ "SpellHit", "d3/dc0/a27960.html#ad4a9f9b166ab8107a16da918082c6625", null ],
-    [ "SpellHitTarget", "d3/dc0/a27960.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
-    [ "_zapCount", "d3/dc0/a27960.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
+    [ "FlameshockerCheck", "db/d4a/a27964.html", "db/d4a/a27964" ],
+    [ "npc_pallid_horror", "d3/dc0/a27960.html#ae43fa737cdc303d68f34ac2fbb356814", null ],
+    [ "CorpseRemoved", "d3/dc0/a27960.html#a700af3062528a6c41f7f0985f1820b36", null ],
+    [ "InitializeAI", "d3/dc0/a27960.html#a2711bdb05ad74a4d0425b4f61dcddab4", null ],
+    [ "JustDied", "d3/dc0/a27960.html#a6145be6ed4a56ec8f8e923187ceea47c", null ],
+    [ "JustSummoned", "d3/dc0/a27960.html#a801e04d47de8d86dcfbfa552de54cd0f", null ],
+    [ "ScheduleTasks", "d3/dc0/a27960.html#aa9e851cb55238bb4cf6c1e7a9d309c20", null ],
+    [ "SummonFlameshockers", "d3/dc0/a27960.html#afc2625ef0ddae00fd14d3dbf7952b0cf", null ],
+    [ "UpdateAI", "d3/dc0/a27960.html#a701b52b2977017c692368a5d363dd6bd", null ],
+    [ "UpdateWeather", "d3/dc0/a27960.html#ac9c5b8d4274e443f4c74b2b40aa5830f", null ],
+    [ "_summons", "d3/dc0/a27960.html#a0948ef0c5971a8b6ffee2269d8bca3a6", null ]
 ];

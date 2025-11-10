@@ -1,6 +1,6 @@
 var a23444 =
 [
-    [ "FilterTargets", "d1/d9f/a23444.html#af545460920658bc8ee0444f7c0d51970", null ],
-    [ "PrepareSpellScript", "d1/d9f/a23444.html#a0bf365a43b99905fb7ae8152fe5b2687", null ],
-    [ "Register", "d1/d9f/a23444.html#ac12cde698f5b0bbcdf433821772c7519", null ]
+    [ "HandleEffectRemove", "d1/d9f/a23444.html#ac74d25501690970c607a146eec02ab24", null ],
+    [ "PrepareAuraScript", "d1/d9f/a23444.html#a858929800089fee1a06948bda1c8806f", null ],
+    [ "Register", "d1/d9f/a23444.html#a003e9c77e59008ea78b3f1e9977ab5d6", null ]
 ];

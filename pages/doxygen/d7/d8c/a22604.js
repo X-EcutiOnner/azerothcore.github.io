@@ -1,6 +1,5 @@
 var a22604 =
 [
-    [ "HandleSummon", "d7/d8c/a22604.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
-    [ "PrepareSpellScript", "d7/d8c/a22604.html#ae7f071e9d9a82892be31090385679c9f", null ],
-    [ "Register", "d7/d8c/a22604.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
+    [ "achievement_wg_vehicular_gnomeslaughter", "d7/d8c/a22604.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
+    [ "OnCheck", "d7/d8c/a22604.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
 ];

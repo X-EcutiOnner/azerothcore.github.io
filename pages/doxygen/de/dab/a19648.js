@@ -1,6 +1,7 @@
 var a19648 =
 [
-    [ "npc_oculus_drakeAI", "d6/d1b/a19652.html", "d6/d1b/a19652" ],
-    [ "npc_oculus_drake", "de/dab/a19648.html#ad2897dd72e9337af53ef2f043cd07d55", null ],
-    [ "GetAI", "de/dab/a19648.html#afd2f1678a7faef76a231e4c16bd015e5", null ]
+    [ "HandleProc", "de/dab/a19648.html#a84255cd31ebaa7c70de93d569258c709", null ],
+    [ "PrepareAuraScript", "de/dab/a19648.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
+    [ "Register", "de/dab/a19648.html#a6bc166d2e1455537fa78c4223da17746", null ],
+    [ "Validate", "de/dab/a19648.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
 ];

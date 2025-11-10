@@ -1,5 +1,6 @@
 var a19108 =
 [
-    [ "creatureEntry", "d6/de1/a19108.html#afab12c40af70303dff2a9553d47dbb7d", null ],
-    [ "questId", "d6/de1/a19108.html#ace2a7dd58d442b6afb2173311c89593b", null ]
+    [ "npc_four_car_garageAI", "d6/d73/a19112.html", "d6/d73/a19112" ],
+    [ "npc_four_car_garage", "d6/de1/a19108.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
+    [ "GetAI", "d6/de1/a19108.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
 ];

@@ -1,6 +1,7 @@
 var a26724 =
 [
-    [ "HandleScript", "dc/d9a/a26724.html#a8866d650b96c4cae3201a2829cbeff3d", null ],
-    [ "PrepareSpellScript", "dc/d9a/a26724.html#aa16f51aa8a4fea2a84cadbb01d18b635", null ],
-    [ "Register", "dc/d9a/a26724.html#aeaa094c8d1f3407bf56d58d88c2238a1", null ]
+    [ "HandleEffectPeriodic", "dc/d9a/a26724.html#a2fab66e86d3c0207183db72ecbb6fc6c", null ],
+    [ "PrepareAuraScript", "dc/d9a/a26724.html#ae0e3b459c71933c25da8136cdcddf200", null ],
+    [ "Register", "dc/d9a/a26724.html#ac924ebbc893476cabab5f05120d0cd8d", null ],
+    [ "Validate", "dc/d9a/a26724.html#ada327cf500aec62fdf34f9d8a4ccd6e2", null ]
 ];

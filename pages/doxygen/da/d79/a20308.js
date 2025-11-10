@@ -1,6 +1,8 @@
 var a20308 =
 [
-    [ "achievement_freya_knock_on_wood", "da/d79/a20308.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
-    [ "OnCheck", "da/d79/a20308.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
-    [ "_elderCount", "da/d79/a20308.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
+    [ "OnApply", "da/d79/a20308.html#a101aab87e9f45ebab1cbe77ecca65c5a", null ],
+    [ "OnRemove", "da/d79/a20308.html#a4709f570f9014eb36bc8c65269470373", null ],
+    [ "PrepareAuraScript", "da/d79/a20308.html#a6ac96ce73f9983915a05686eb5d411e7", null ],
+    [ "Register", "da/d79/a20308.html#a7b4f44d86df652df78a10466bf64a2cf", null ],
+    [ "Validate", "da/d79/a20308.html#a3b98409fa1ed8d4e53e526686bc25987", null ]
 ];

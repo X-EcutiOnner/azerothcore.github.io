@@ -1,7 +1,8 @@
 var a18096 =
 [
-    [ "HandleTriggerSpell", "da/d3f/a18096.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
-    [ "PrepareAuraScript", "da/d3f/a18096.html#afff0c81696ddcb427ce105d510ef93b1", null ],
-    [ "Register", "da/d3f/a18096.html#aa50c6066115d7b60704eff48e77d10bd", null ],
-    [ "Validate", "da/d3f/a18096.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
+    [ "FilterTargets", "da/d3f/a18096.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
+    [ "HandleScript", "da/d3f/a18096.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
+    [ "PrepareSpellScript", "da/d3f/a18096.html#ae6b30b8da52141c385f985435cac99a1", null ],
+    [ "Register", "da/d3f/a18096.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
+    [ "Validate", "da/d3f/a18096.html#accff1f03fb7c0d56cb197bb18348635c", null ]
 ];

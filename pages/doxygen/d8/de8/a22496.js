@@ -1,8 +1,6 @@
 var a22496 =
 [
-    [ "AfterRemove", "d8/de8/a22496.html#a06fd72c7754f34dbc62a99a9ed839302", null ],
-    [ "HandlePeriodic", "d8/de8/a22496.html#a5aaadeed42e6a3cf1e2216a13c2d3ff9", null ],
-    [ "OnApply", "d8/de8/a22496.html#a6617555d302923e5e95e7b1c6d8d74d6", null ],
-    [ "PrepareAuraScript", "d8/de8/a22496.html#a47a6281c42dc9368357cc86912331c77", null ],
-    [ "Register", "d8/de8/a22496.html#a868c79cda98b97b27b74d46f86cb980a", null ]
+    [ "npc_icefangAI", "de/d1d/a22500.html", "de/d1d/a22500" ],
+    [ "npc_icefang", "d8/de8/a22496.html#a2e13be89b110abaa2509e597e4cf883a", null ],
+    [ "GetAI", "d8/de8/a22496.html#ad1a936b1eef30271912054a817e0c9f8", null ]
 ];

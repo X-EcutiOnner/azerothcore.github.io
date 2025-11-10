@@ -1,7 +1,6 @@
 var a15944 =
 [
-    [ "npc_ranshallaAI", "de/d2c/a15948.html", "de/d2c/a15948" ],
-    [ "npc_ranshalla", "d4/dfe/a15944.html#a0b9848c68cf955d24024071ae9beb8e5", null ],
-    [ "GetAI", "d4/dfe/a15944.html#a1a81651366cc05d3ad6e9929160fe059", null ],
-    [ "OnQuestAccept", "d4/dfe/a15944.html#a4ed77a4c0a48dc4922fa5ebb71949e28", null ]
+    [ "HandleOpenLock", "d4/dfe/a15944.html#a32bfb203e9ecfbcfa75f6c3e7a17fade", null ],
+    [ "PrepareSpellScript", "d4/dfe/a15944.html#a646a42455b6a46c9f7cbb4b0229122cd", null ],
+    [ "Register", "d4/dfe/a15944.html#a5dcac6f609ec93074ec3ce195101f592", null ]
 ];

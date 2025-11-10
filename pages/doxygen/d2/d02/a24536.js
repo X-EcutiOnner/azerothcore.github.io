@@ -1,6 +1,6 @@
 var a24536 =
 [
-    [ "PrepareSpellScript", "d2/d02/a24536.html#a190f6dc3d9b336324da29f627a743fe9", null ],
-    [ "Register", "d2/d02/a24536.html#a3afc8035b852bc31abd3228e88d59819", null ],
-    [ "SetDest", "d2/d02/a24536.html#a85d66a58597954501305ad5b674cc8a2", null ]
+    [ "npc_slim", "d2/d02/a24536.html#aa227fbe22126bed821939873973e6a20", null ],
+    [ "OnGossipHello", "d2/d02/a24536.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
+    [ "OnGossipSelect", "d2/d02/a24536.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
 ];

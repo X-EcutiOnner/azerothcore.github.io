@@ -1,6 +1,6 @@
 var a20476 =
 [
-    [ "HandleAfterEffectApply", "d5/d7f/a20476.html#af655bb31dc24a3cede08ca371f784913", null ],
-    [ "PrepareAuraScript", "d5/d7f/a20476.html#a1824853d0b369deac0745fabe2df657c", null ],
-    [ "Register", "d5/d7f/a20476.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
+    [ "npc_ulduar_iron_constructAI", "d6/dfe/a20480.html", "d6/dfe/a20480" ],
+    [ "npc_ulduar_iron_construct", "d5/d7f/a20476.html#a56ddf4d4d290dbb15303419c1dab18da", null ],
+    [ "GetAI", "d5/d7f/a20476.html#a7d46ba96b6f1968e35721d45c17b1a49", null ]
 ];

@@ -1,5 +1,5 @@
 var a22724 =
 [
-    [ "OutdoorPvP_grizzly_hills", "d6/d1f/a22724.html#aa020d8120c62874fb15b4623bbb714d9", null ],
-    [ "GetOutdoorPvP", "d6/d1f/a22724.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
+    [ "outdoorpvp_na_halaa_creatures", "d6/d1f/a22724.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
+    [ "UpdateAI", "d6/d1f/a22724.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
 ];

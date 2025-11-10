@@ -1,6 +1,7 @@
 var a17036 =
 [
-    [ "entry", "df/d5a/a17036.html#a80e1510436336f4ed17748a06b27178d", null ],
-    [ "pathId", "df/d5a/a17036.html#a0b7e499d633e11b314852fb1154ea8e6", null ],
-    [ "startPosition", "df/d5a/a17036.html#ac8c0dd74d76778aa2f5948b5c8c5ada4", null ]
+    [ "OnRemove", "df/d5a/a17036.html#a4b95717cb19116b81f3eec798089abad", null ],
+    [ "PrepareAuraScript", "df/d5a/a17036.html#a581645fa151531aaf7b562a8739d5616", null ],
+    [ "Register", "df/d5a/a17036.html#a01304c556d79001e290707551bee7622", null ],
+    [ "Validate", "df/d5a/a17036.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
 ];

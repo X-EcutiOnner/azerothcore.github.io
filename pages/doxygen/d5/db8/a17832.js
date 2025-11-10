@@ -1,8 +1,6 @@
 var a17832 =
 [
-    [ "npc_gunship_mageAI", "d5/db8/a17832.html#ac79cb67f21820ef88ac9cd671ca9e4c7", null ],
-    [ "AttackStart", "d5/db8/a17832.html#a41bd517c360538f568fb56bc9d2f5e55", null ],
-    [ "CanAIAttack", "d5/db8/a17832.html#aadcb217a9df96bee02287d75a23e32c2", null ],
-    [ "MovementInform", "d5/db8/a17832.html#ac0f233fa5a34cd6e080f44c798b4fc62", null ],
-    [ "UpdateAI", "d5/db8/a17832.html#aa767fc4cb2f7eba37fedaec57c4bc175", null ]
+    [ "PrepareSpellScript", "d5/db8/a17832.html#a47df21229183b628c1d82bf34cbbe396", null ],
+    [ "Register", "d5/db8/a17832.html#a3cc4a1180f66cd9fe19020c1e5f2fccb", null ],
+    [ "RelocateTransportOffset", "d5/db8/a17832.html#acab29d77b4806f5d59ddc5dc3493c8ae", null ]
 ];

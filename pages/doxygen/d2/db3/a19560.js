@@ -1,9 +1,13 @@
 var a19560 =
 [
-    [ "HandleApply", "d2/db3/a19560.html#a29679ed64fc288dc0e85beed2971d4be", null ],
-    [ "HandleRemove", "d2/db3/a19560.html#a1f1c3e0ea24174605a7be8fa02e30518", null ],
-    [ "Load", "d2/db3/a19560.html#a0b5d70a7a9bf27696295ccbbffd2a8b9", null ],
-    [ "PrepareAuraScript", "d2/db3/a19560.html#a2804f25643e59f3922291abcb055b641", null ],
-    [ "Register", "d2/db3/a19560.html#a711b5744770d0c9fb5aacb550f2384fa", null ],
-    [ "Validate", "d2/db3/a19560.html#aa239a693db5fa38ac260a37b25e0e6d9", null ]
+    [ "npc_crystalline_frayer", "d2/db3/a19560.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
+    [ "DamageTaken", "d2/db3/a19560.html#a2580575a58353e8cb94561bafd74f502", null ],
+    [ "EnterEvadeMode", "d2/db3/a19560.html#a9240adcfe966f11c925db82add432aa5", null ],
+    [ "JustEngagedWith", "d2/db3/a19560.html#a91e8c4015b9b238fd2144999bcef9362", null ],
+    [ "Reset", "d2/db3/a19560.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
+    [ "UpdateAI", "d2/db3/a19560.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
+    [ "_allowDeath", "d2/db3/a19560.html#adc85054030146067d2cff47db2886a07", null ],
+    [ "abilityTimer1", "d2/db3/a19560.html#ae4a140cd9fccecea24982d7aa90c6bf0", null ],
+    [ "abilityTimer2", "d2/db3/a19560.html#a6d2bf3e1cc05860eb6a7706102438f32", null ],
+    [ "restoreTimer", "d2/db3/a19560.html#a5ab2990b41f485417af6272194035fc3", null ]
 ];

@@ -1,12 +1,23 @@
 var a15252 =
 [
-    [ "npc_anubisath_guardian", "dc/dac/a15252.html#a7db1771f9083e14c177e37d7bf6690c5", null ],
-    [ "DamageTaken", "dc/dac/a15252.html#a2b7f307b5af7c50c86a68c4834f08ed4", null ],
-    [ "JustDied", "dc/dac/a15252.html#a9f40c43ded16ad5934a5d5499f16ca76", null ],
-    [ "JustEngagedWith", "dc/dac/a15252.html#a16d1e70f0ca0fcef972ac45f82e885e6", null ],
-    [ "Reset", "dc/dac/a15252.html#af87cc86141964c48f9c57ed5bade36a5", null ],
-    [ "UpdateAI", "dc/dac/a15252.html#a9a9c805c92a3e8e96914d01accb01051", null ],
-    [ "_enraged", "dc/dac/a15252.html#a69b3b2cee4c84cd6dccd3465b555ad12", null ],
-    [ "_scheduler", "dc/dac/a15252.html#ad44455c43d53426a152547d5b0770bbe", null ],
-    [ "_spells", "dc/dac/a15252.html#aee75f952ed14f5f6fab1f5117f6b8b9e", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "dc/dac/a15252.html#a1dfadd96c9cc420bb7c90ec8a2d0a1a2", null ],
+    [ "CallNextRajaxxLeader", "dc/dac/a15252.html#a12de9882d8e71f68e7b52e4b3972dca4", null ],
+    [ "GetData", "dc/dac/a15252.html#abe72d94186f5d5b9b97c82ac65f71fd6", null ],
+    [ "GetGuidData", "dc/dac/a15252.html#a8a2c4b3677d8da475d1e5ea035becf15", null ],
+    [ "OnCreatureCreate", "dc/dac/a15252.html#ac2b2bfb3ae426a82affbf363a49049ef", null ],
+    [ "OnCreatureEvade", "dc/dac/a15252.html#af59d38b0842a962b94efcbf9af8e56ca", null ],
+    [ "OnPlayerEnter", "dc/dac/a15252.html#aca8fbf17f8d583c1568a965bdf2b22f4", null ],
+    [ "OnUnitDeath", "dc/dac/a15252.html#afc601fed830c0d8fe63cbf7741ff1c55", null ],
+    [ "ResetRajaxxWaves", "dc/dac/a15252.html#a3a6aa2cc867de4842b10632ea761fb1e", null ],
+    [ "SetData", "dc/dac/a15252.html#a4a9acbb13d81d88674b62aa49ac8a2e3", null ],
+    [ "SetGuidData", "dc/dac/a15252.html#ac8f2440e439654e977d4a9a4b2b50b52", null ],
+    [ "_andorovGUID", "dc/dac/a15252.html#a52168c9369fe1e691378577ea700115c", null ],
+    [ "_buruGUID", "dc/dac/a15252.html#afbf08e65630819d5c60ecaa3d4d5bc42", null ],
+    [ "_buruPhase", "dc/dac/a15252.html#ab8192edc41599ce20cc66efaaba5479a", null ],
+    [ "_kurinnaxxGUID", "dc/dac/a15252.html#af1077bb8af7e756d9d548a4fe3fbd17b", null ],
+    [ "_moamGUID", "dc/dac/a15252.html#a1025fdcd1b84e5d2c4eaa79d918ecd78", null ],
+    [ "_ossirianGUID", "dc/dac/a15252.html#a254a550649a8f806f98d6eb90f593b54", null ],
+    [ "_paralyzedGUID", "dc/dac/a15252.html#abc537534538f78cabf6534371ab090e9", null ],
+    [ "_rajaxWaveCounter", "dc/dac/a15252.html#a010079e135c41de850419149ec2857f3", null ],
+    [ "_rajaxxGUID", "dc/dac/a15252.html#aa92f25482c7c6d2bf7944a080beb858c", null ]
 ];

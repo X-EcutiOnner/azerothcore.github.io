@@ -1,6 +1,7 @@
 var a18868 =
 [
-    [ "npc_captain_grondelAI", "d3/da2/a18872.html", "d3/da2/a18872" ],
-    [ "npc_captain_grondel", "dc/d93/a18868.html#a54a53f8e3cde87405219c815a56d523c", null ],
-    [ "GetAI", "dc/d93/a18868.html#a2a7725e81294e80701b7742d2605ec00", null ]
+    [ "npc_impaling_spearAI", "dc/d93/a18868.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
+    [ "Reset", "dc/d93/a18868.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
+    [ "UpdateAI", "dc/d93/a18868.html#acb187a58b0ba256b4e003655ac36db34", null ],
+    [ "_vehicleCheckTimer", "dc/d93/a18868.html#a264874b9f6f0609792d4b3a325e54f59", null ]
 ];

@@ -1,10 +1,8 @@
 var a17136 =
 [
-    [ "npc_hor_spiritual_reflectionAI", "dc/dfe/a17136.html#aac0a916bfa325284b354e7241fe857ab", null ],
-    [ "EnterEvadeMode", "dc/dfe/a17136.html#a49f1c93206bfff53090c138a3dbf79e5", null ],
-    [ "JustDied", "dc/dfe/a17136.html#a72073c44f881d4a78552de4119a716d7", null ],
-    [ "JustEngagedWith", "dc/dfe/a17136.html#ac35e648b93bb39ca831390bf88f6a3e7", null ],
-    [ "Reset", "dc/dfe/a17136.html#ad1f523fad45c34077e6d6ce7b9a4aefd", null ],
-    [ "UpdateAI", "dc/dfe/a17136.html#af9613e9309b85317bc6e3a84013dcf89", null ],
-    [ "events", "dc/dfe/a17136.html#a89a466917aa5634c4c86ecbce21280b7", null ]
+    [ "npc_hor_raging_ghoulAI", "dc/dfe/a17136.html#ac4b2b3acf8a7acda73c7158f1565a274", null ],
+    [ "JustDied", "dc/dfe/a17136.html#a70e581c9b3f7d88d497c1540ac9ca04c", null ],
+    [ "Reset", "dc/dfe/a17136.html#aa52576d94e230797209dfc938d62187f", null ],
+    [ "UpdateAI", "dc/dfe/a17136.html#ac7c8571eac32f722a5fb0c28092b7e8f", null ],
+    [ "leaped", "dc/dfe/a17136.html#a12f6e6d5911b2b8b9caa01a9a83570bc", null ]
 ];

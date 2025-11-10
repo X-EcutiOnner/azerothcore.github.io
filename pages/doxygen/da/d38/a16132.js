@@ -1,6 +1,7 @@
 var a16132 =
 [
-    [ "boss_krik_thirAI", "d2/ddc/a16136.html", "d2/ddc/a16136" ],
-    [ "boss_krik_thir", "da/d38/a16132.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
-    [ "GetAI", "da/d38/a16132.html#a10e582440092d5c6558c2a11d60907aa", null ]
+    [ "HandleScriptEffect", "da/d38/a16132.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
+    [ "PrepareSpellScript", "da/d38/a16132.html#a392c40d469c3c1e816d5dc364fde824c", null ],
+    [ "Register", "da/d38/a16132.html#aa59c26b25ca0f440de36e450adf050a5", null ],
+    [ "Validate", "da/d38/a16132.html#a370f83112d901f9565734b11d12858f4", null ]
 ];

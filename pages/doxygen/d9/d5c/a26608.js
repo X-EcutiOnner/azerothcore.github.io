@@ -1,6 +1,7 @@
 var a26608 =
 [
-    [ "CheckProc", "d9/d5c/a26608.html#aa9cf64a1965bd7924ce5a9c639d85fb3", null ],
-    [ "PrepareAuraScript", "d9/d5c/a26608.html#a87d2959523a306f85c69aa5a7a5b3de5", null ],
-    [ "Register", "d9/d5c/a26608.html#a9dee4c4568f36f82b82148cb847d50ca", null ]
+    [ "HandleEffectApply", "d9/d5c/a26608.html#a475d0bab96e226853368be3b68c5a2d3", null ],
+    [ "HandleEffectRemove", "d9/d5c/a26608.html#aa22a095e40789ac562a64c20d7eadb28", null ],
+    [ "PrepareAuraScript", "d9/d5c/a26608.html#a2b06b0dc1a4c2f5b5e4657e11a097660", null ],
+    [ "Register", "d9/d5c/a26608.html#a91e75a059828a30d509fd22be19048f8", null ]
 ];

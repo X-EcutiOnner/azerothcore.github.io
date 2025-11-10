@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: npc_ahnqiraji_critter Struct Reference</title>
+<title>AzerothCore: npc_muglash::npc_muglashAI Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,36 +106,112 @@ $(document).ready(function(){initNavTree('d1/d6a/a15492.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d1/d6c/a15489.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">npc_ahnqiraji_critter Struct Reference</div></div>
+  <div class="headertitle"><div class="title">npc_muglash::npc_muglashAI Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <div class="dynheader">
-Inheritance diagram for npc_ahnqiraji_critter:</div>
+Inheritance diagram for npc_muglash::npc_muglashAI:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../d1/d6a/a15492.png" usemap="#npc_5Fahnqiraji_5Fcritter_map" alt=""/>
-  <map id="npc_5Fahnqiraji_5Fcritter_map" name="npc_5Fahnqiraji_5Fcritter_map">
-<area href="../../d3/d12/a06268.html" alt="ScriptedAI" shape="rect" coords="0,112,128,136"/>
-<area href="../../d0/d64/a06224.html" alt="CreatureAI" shape="rect" coords="0,56,128,80"/>
-<area href="../../d8/dae/a06212.html" alt="UnitAI" shape="rect" coords="0,0,128,24"/>
+  <img src="../../d1/d6a/a15492.png" usemap="#npc_5Fmuglash::npc_5FmuglashAI_map" alt=""/>
+  <map id="npc_5Fmuglash::npc_5FmuglashAI_map" name="npc_5Fmuglash::npc_5FmuglashAI_map">
+<area href="../../d8/dc1/a06288.html" alt="npc_escortAI" shape="rect" coords="0,168,178,192"/>
+<area href="../../d3/d12/a06268.html" alt="ScriptedAI" shape="rect" coords="0,112,178,136"/>
+<area href="../../d0/d64/a06224.html" alt="CreatureAI" shape="rect" coords="0,56,178,80"/>
+<area href="../../d8/dae/a06212.html" alt="UnitAI" shape="rect" coords="0,0,178,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a60e2dc1c52579a410d3435126bf39684"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6a/a15492.html#a60e2dc1c52579a410d3435126bf39684">npc_ahnqiraji_critter</a> (<a class="el" href="../../d4/dfb/a08048.html">Creature</a> *creature)</td></tr>
-<tr class="separator:a60e2dc1c52579a410d3435126bf39684"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a645e16e9da29f6579320394201d0ada7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6a/a15492.html#a645e16e9da29f6579320394201d0ada7">Reset</a> () override</td></tr>
-<tr class="separator:a645e16e9da29f6579320394201d0ada7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aca1df706306f9181db26cd77e5b66452"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6a/a15492.html#aca1df706306f9181db26cd77e5b66452">JustEngagedWith</a> (<a class="el" href="../../db/dbe/a08800.html">Unit</a> *) override</td></tr>
-<tr class="memdesc:aca1df706306f9181db26cd77e5b66452"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called for reaction when initially engaged.  <a href="../../d1/d6a/a15492.html#aca1df706306f9181db26cd77e5b66452">More...</a><br /></td></tr>
-<tr class="separator:aca1df706306f9181db26cd77e5b66452"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a71d3d5262bde847a18932fea89cb6648"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6a/a15492.html#a71d3d5262bde847a18932fea89cb6648">JustDied</a> (<a class="el" href="../../db/dbe/a08800.html">Unit</a> *) override</td></tr>
-<tr class="separator:a71d3d5262bde847a18932fea89cb6648"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a68c5ded8563c2de9429a13cdb7d38f89"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6a/a15492.html#a68c5ded8563c2de9429a13cdb7d38f89">UpdateAI</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff) override</td></tr>
-<tr class="memdesc:a68c5ded8563c2de9429a13cdb7d38f89"><td class="mdescLeft">&#160;</td><td class="mdescRight">Use to start attacking a target. Called just before <a class="el" href="../../d1/d6a/a15492.html#aca1df706306f9181db26cd77e5b66452" title="Called for reaction when initially engaged.">JustEngagedWith()</a>  <a href="../../d1/d6a/a15492.html#a68c5ded8563c2de9429a13cdb7d38f89">More...</a><br /></td></tr>
-<tr class="separator:a68c5ded8563c2de9429a13cdb7d38f89"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af1988703aaaac04e5853c33e5b915ca2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6a/a15492.html#af1988703aaaac04e5853c33e5b915ca2">npc_muglashAI</a> (<a class="el" href="../../d4/dfb/a08048.html">Creature</a> *creature)</td></tr>
+<tr class="separator:af1988703aaaac04e5853c33e5b915ca2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a98933c32f2550989356b3e876d302b88"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6a/a15492.html#a98933c32f2550989356b3e876d302b88">Reset</a> () override</td></tr>
+<tr class="separator:a98933c32f2550989356b3e876d302b88"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afba6c4441ff4da54f89709b3c2bcd4d4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6a/a15492.html#afba6c4441ff4da54f89709b3c2bcd4d4">DoAction</a> (<a class="el" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> actionId) override</td></tr>
+<tr class="separator:afba6c4441ff4da54f89709b3c2bcd4d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a587c8cb4562e93cecccb20e93cabba05"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6a/a15492.html#a587c8cb4562e93cecccb20e93cabba05">JustEngagedWith</a> (<a class="el" href="../../db/dbe/a08800.html">Unit</a> *) override</td></tr>
+<tr class="memdesc:a587c8cb4562e93cecccb20e93cabba05"><td class="mdescLeft">&#160;</td><td class="mdescRight">Called for reaction when initially engaged.  <a href="../../d1/d6a/a15492.html#a587c8cb4562e93cecccb20e93cabba05">More...</a><br /></td></tr>
+<tr class="separator:a587c8cb4562e93cecccb20e93cabba05"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5936dd183091c462e4835a00f81020f5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6a/a15492.html#a5936dd183091c462e4835a00f81020f5">JustDied</a> (<a class="el" href="../../db/dbe/a08800.html">Unit</a> *) override</td></tr>
+<tr class="separator:a5936dd183091c462e4835a00f81020f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a07e451149dbf6b72e01f94dc8f07edf3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6a/a15492.html#a07e451149dbf6b72e01f94dc8f07edf3">JustSummoned</a> (<a class="el" href="../../d4/dfb/a08048.html">Creature</a> *summoned) override</td></tr>
+<tr class="separator:a07e451149dbf6b72e01f94dc8f07edf3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6c93a53a7b8bcd200ebca0e9d366f6fe"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6a/a15492.html#a6c93a53a7b8bcd200ebca0e9d366f6fe">sQuestAccept</a> (<a class="el" href="../../dd/df9/a08668.html">Player</a> *player, <a class="el" href="../../d4/da2/a10236.html">Quest</a> const *quest) override</td></tr>
+<tr class="separator:a6c93a53a7b8bcd200ebca0e9d366f6fe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8f91b74c0d8778a73e0bc95dce339f2b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6a/a15492.html#a8f91b74c0d8778a73e0bc95dce339f2b">WaypointReached</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> waypointId) override</td></tr>
+<tr class="separator:a8f91b74c0d8778a73e0bc95dce339f2b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaf862468f5ba0c6f99056a81a472c6e2"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6a/a15492.html#aaf862468f5ba0c6f99056a81a472c6e2">DoWaveSummon</a> ()</td></tr>
+<tr class="separator:aaf862468f5ba0c6f99056a81a472c6e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6b479f50428536997faef96e510dbd84"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6a/a15492.html#a6b479f50428536997faef96e510dbd84">UpdateAI</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff) override</td></tr>
+<tr class="memdesc:a6b479f50428536997faef96e510dbd84"><td class="mdescLeft">&#160;</td><td class="mdescRight">Use to start attacking a target. Called just before <a class="el" href="../../d1/d6a/a15492.html#a587c8cb4562e93cecccb20e93cabba05" title="Called for reaction when initially engaged.">JustEngagedWith()</a>  <a href="../../d1/d6a/a15492.html#a6b479f50428536997faef96e510dbd84">More...</a><br /></td></tr>
+<tr class="separator:a6b479f50428536997faef96e510dbd84"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a06288"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a06288')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d8/dc1/a06288.html">npc_escortAI</a></td></tr>
+<tr class="memitem:a8c8caa05773ba40ad7afb519cfbaa21a inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#a8c8caa05773ba40ad7afb519cfbaa21a">npc_escortAI</a> (<a class="el" href="../../d4/dfb/a08048.html">Creature</a> *creature)</td></tr>
+<tr class="separator:a8c8caa05773ba40ad7afb519cfbaa21a inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69c565febabbe991c7011e22953a95c2 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#a69c565febabbe991c7011e22953a95c2">~npc_escortAI</a> () override</td></tr>
+<tr class="separator:a69c565febabbe991c7011e22953a95c2 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4773219302b8ede85a9a338c1b1e5b4 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#aa4773219302b8ede85a9a338c1b1e5b4">AttackStart</a> (<a class="el" href="../../db/dbe/a08800.html">Unit</a> *who) override</td></tr>
+<tr class="separator:aa4773219302b8ede85a9a338c1b1e5b4 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac2cf14b3755ee8fae2e3269dcd86806a inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#ac2cf14b3755ee8fae2e3269dcd86806a">MoveInLineOfSight</a> (<a class="el" href="../../db/dbe/a08800.html">Unit</a> *who) override</td></tr>
+<tr class="separator:ac2cf14b3755ee8fae2e3269dcd86806a inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae25140568b7dccf0ab73aa87452bd985 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#ae25140568b7dccf0ab73aa87452bd985">JustDied</a> (<a class="el" href="../../db/dbe/a08800.html">Unit</a> *) override</td></tr>
+<tr class="separator:ae25140568b7dccf0ab73aa87452bd985 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac0b0fe06c694cbc0490fa3965c7c38ee inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#ac0b0fe06c694cbc0490fa3965c7c38ee">JustRespawned</a> () override</td></tr>
+<tr class="separator:ac0b0fe06c694cbc0490fa3965c7c38ee inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adc33982e554a1e7e4fe2e91ff5d883e4 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#adc33982e554a1e7e4fe2e91ff5d883e4">ReturnToLastPoint</a> ()</td></tr>
+<tr class="separator:adc33982e554a1e7e4fe2e91ff5d883e4 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a02a04466099a97b80c86bf47ad9cb7b6 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#a02a04466099a97b80c86bf47ad9cb7b6">EnterEvadeMode</a> (<a class="el" href="../../d0/d64/a06224.html#a48b996440be01f98686cd088857a5dbb">EvadeReason</a>=<a class="el" href="../../d0/d64/a06224.html#a48b996440be01f98686cd088857a5dbba0a93738d4e35efeb13a3ce07963de027">EVADE_REASON_OTHER</a>) override</td></tr>
+<tr class="separator:a02a04466099a97b80c86bf47ad9cb7b6 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5e9c333411c54ff4d644812e53ba1831 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#a5e9c333411c54ff4d644812e53ba1831">UpdateAI</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff) override</td></tr>
+<tr class="memdesc:a5e9c333411c54ff4d644812e53ba1831 inherit pub_methods_a06288"><td class="mdescLeft">&#160;</td><td class="mdescRight">Use to start attacking a target. Called just before <a class="el" href="../../d3/d12/a06268.html#ac2ce21ab709e349abb8206ce2368cd37" title="Called for reaction when initially engaged.">JustEngagedWith()</a>  <a href="../../d8/dc1/a06288.html#a5e9c333411c54ff4d644812e53ba1831">More...</a><br /></td></tr>
+<tr class="separator:a5e9c333411c54ff4d644812e53ba1831 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aed1525b79824e29e0f93419c0b6b26e2 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#aed1525b79824e29e0f93419c0b6b26e2">UpdateEscortAI</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> diff)</td></tr>
+<tr class="separator:aed1525b79824e29e0f93419c0b6b26e2 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7072858f20dfe0cab0c873a730912853 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#a7072858f20dfe0cab0c873a730912853">MovementInform</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>) override</td></tr>
+<tr class="separator:a7072858f20dfe0cab0c873a730912853 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af6676a7693026ce6a35975d2358ff3e6 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#af6676a7693026ce6a35975d2358ff3e6">AddWaypoint</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> id, float x, float y, float z, <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> waitTime=0)</td></tr>
+<tr class="separator:af6676a7693026ce6a35975d2358ff3e6 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acefdd8616d780460f8f8e3323f9be251 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#acefdd8616d780460f8f8e3323f9be251">SetNextWaypoint</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pointId, float x, float y, float z, float orientation)</td></tr>
+<tr class="separator:acefdd8616d780460f8f8e3323f9be251 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade0edd492d70535eef1d22a0fb32d753 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#ade0edd492d70535eef1d22a0fb32d753">SetNextWaypoint</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pointId, bool setPosition=true)</td></tr>
+<tr class="separator:ade0edd492d70535eef1d22a0fb32d753 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afa8256d1a2303be5e598df789636a4eb inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#afa8256d1a2303be5e598df789636a4eb">GetWaypointPosition</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pointId, float &amp;x, float &amp;y, float &amp;z)</td></tr>
+<tr class="separator:afa8256d1a2303be5e598df789636a4eb inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb2e9adaeb969c8124f9f2f6908f5d58 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#abb2e9adaeb969c8124f9f2f6908f5d58">GenerateWaypointArray</a> (<a class="el" href="../../dd/d3b/a04851.html#a86528b2e04ddf38b80888e45d6b9c37d">Movement::PointsArray</a> *points)</td></tr>
+<tr class="separator:abb2e9adaeb969c8124f9f2f6908f5d58 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a59830f742b9967303df22f5bcf0d2b9d inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#a59830f742b9967303df22f5bcf0d2b9d">WaypointReached</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> pointId)=0</td></tr>
+<tr class="separator:a59830f742b9967303df22f5bcf0d2b9d inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae4df5980d742911c1599614780942c02 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#ae4df5980d742911c1599614780942c02">WaypointStart</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)</td></tr>
+<tr class="separator:ae4df5980d742911c1599614780942c02 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a06346873da6190791587dc81929ab10b inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#a06346873da6190791587dc81929ab10b">Start</a> (bool isActiveAttacker=true, <a class="el" href="../../d1/dbc/a08468.html">ObjectGuid</a> playerGUID=<a class="el" href="../../d1/dbc/a08468.html#a14039d3f3df79203693f713495503165">ObjectGuid::Empty</a>, <a class="el" href="../../d4/da2/a10236.html">Quest</a> const *quest=nullptr, bool instantRespawn=false, bool canLoopPath=false, bool resetWaypoints=true)</td></tr>
+<tr class="separator:a06346873da6190791587dc81929ab10b inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aab2ae80bf9d5b6382fc6f8390808bc74 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#aab2ae80bf9d5b6382fc6f8390808bc74">SetEscortPaused</a> (bool on)</td></tr>
+<tr class="separator:aab2ae80bf9d5b6382fc6f8390808bc74 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a19a101aa424360959c09220f8a67bbe5 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#a19a101aa424360959c09220f8a67bbe5">HasEscortState</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> escortState)</td></tr>
+<tr class="separator:a19a101aa424360959c09220f8a67bbe5 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4a1d245e1d6b6509915e85cae1901589 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#a4a1d245e1d6b6509915e85cae1901589">IsEscorted</a> () override</td></tr>
+<tr class="separator:a4a1d245e1d6b6509915e85cae1901589 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afd4f83535fda0fa379f28d244f96fccb inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#afd4f83535fda0fa379f28d244f96fccb">SetMaxPlayerDistance</a> (float newMax)</td></tr>
+<tr class="separator:afd4f83535fda0fa379f28d244f96fccb inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0d3b1aa075a95a36a72b98f5c18645e5 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#a0d3b1aa075a95a36a72b98f5c18645e5">GetMaxPlayerDistance</a> ()</td></tr>
+<tr class="separator:a0d3b1aa075a95a36a72b98f5c18645e5 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa4c997f2f799be346c53299815720b36 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#aa4c997f2f799be346c53299815720b36">SetDespawnAtEnd</a> (bool despawn)</td></tr>
+<tr class="separator:aa4c997f2f799be346c53299815720b36 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a275f8451695529110d73b675d340f229 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#a275f8451695529110d73b675d340f229">SetDespawnAtFar</a> (bool despawn)</td></tr>
+<tr class="separator:a275f8451695529110d73b675d340f229 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a113126628d5d07edef04ef02ebd208c4 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#a113126628d5d07edef04ef02ebd208c4">GetAttack</a> ()</td></tr>
+<tr class="separator:a113126628d5d07edef04ef02ebd208c4 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a838202bb3b07f4675b460913b30682bf inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#a838202bb3b07f4675b460913b30682bf">SetCanAttack</a> (bool attack)</td></tr>
+<tr class="separator:a838202bb3b07f4675b460913b30682bf inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac36492d6f0c5c8bf5ced30c4be2cafc6 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dbc/a08468.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#ac36492d6f0c5c8bf5ced30c4be2cafc6">GetEventStarterGUID</a> ()</td></tr>
+<tr class="separator:ac36492d6f0c5c8bf5ced30c4be2cafc6 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a47cb39fdcce2cab0d3cf2864c27afe52 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#a47cb39fdcce2cab0d3cf2864c27afe52">AddEscortState</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> escortState)</td></tr>
+<tr class="separator:a47cb39fdcce2cab0d3cf2864c27afe52 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a923f330b384cd7fa803a92ab29e6b709 inherit pub_methods_a06288"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#a923f330b384cd7fa803a92ab29e6b709">RemoveEscortState</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> escortState)</td></tr>
+<tr class="separator:a923f330b384cd7fa803a92ab29e6b709 inherit pub_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_methods_a06268"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a06268')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d3/d12/a06268.html">ScriptedAI</a></td></tr>
 <tr class="memitem:add1448dcbdaa4ac1a84ace8c1729da6e inherit pub_methods_a06268"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d12/a06268.html#add1448dcbdaa4ac1a84ace8c1729da6e">ScriptedAI</a> (<a class="el" href="../../d4/dfb/a08048.html">Creature</a> *creature)</td></tr>
 <tr class="separator:add1448dcbdaa4ac1a84ace8c1729da6e inherit pub_methods_a06268"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -495,6 +571,15 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:aa96fa3aa7728e3ae090105bb3d10de4a inherit pub_methods_a06212"><td class="memItemLeft" align="right" valign="top">virtual std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dae/a06212.html#aa96fa3aa7728e3ae090105bb3d10de4a">GetDebugInfo</a> () const</td></tr>
 <tr class="separator:aa96fa3aa7728e3ae090105bb3d10de4a inherit pub_methods_a06212"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a548e142bb509b4606b6fcf98d926cd44"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6a/a15492.html#a548e142bb509b4606b6fcf98d926cd44">eventTimer</a></td></tr>
+<tr class="separator:a548e142bb509b4606b6fcf98d926cd44"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a06c0af398e53b5ea6bfd6fa80256f845"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6a/a15492.html#a06c0af398e53b5ea6bfd6fa80256f845">waveId</a></td></tr>
+<tr class="separator:a06c0af398e53b5ea6bfd6fa80256f845"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeec098d6a65b6852598a4e4b6888a410"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d6a/a15492.html#aeec098d6a65b6852598a4e4b6888a410">_isBrazierExtinguished</a></td></tr>
+<tr class="separator:aeec098d6a65b6852598a4e4b6888a410"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="inherited" name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
 <tr class="inherit_header pub_types_a06268"><td colspan="2" onclick="javascript:toggleInherit('pub_types_a06268')"><img src="../../closed.png" alt="-"/>&#160;Public Types inherited from <a class="el" href="../../d3/d12/a06268.html">ScriptedAI</a></td></tr>
@@ -531,6 +616,9 @@ Additional Inherited Members</h2></td></tr>
 <tr class="inherit_header pub_static_attribs_a06212"><td colspan="2" onclick="javascript:toggleInherit('pub_static_attribs_a06212')"><img src="../../closed.png" alt="-"/>&#160;Static Public Attributes inherited from <a class="el" href="../../d8/dae/a06212.html">UnitAI</a></td></tr>
 <tr class="memitem:adaf99f0a5a2d4993e5408eec175f5e24 inherit pub_static_attribs_a06212"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../dd/dd3/a06236.html">AISpellInfoType</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dae/a06212.html#adaf99f0a5a2d4993e5408eec175f5e24">AISpellInfo</a></td></tr>
 <tr class="separator:adaf99f0a5a2d4993e5408eec175f5e24 inherit pub_static_attribs_a06212"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pro_methods_a06288"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a06288')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d8/dc1/a06288.html">npc_escortAI</a></td></tr>
+<tr class="memitem:a689a50e0af6c80ef59ee207ac518df45 inherit pro_methods_a06288"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/df9/a08668.html">Player</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/dc1/a06288.html#a689a50e0af6c80ef59ee207ac518df45">GetPlayerForEscort</a> ()</td></tr>
+<tr class="separator:a689a50e0af6c80ef59ee207ac518df45 inherit pro_methods_a06288"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pro_methods_a06224"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a06224')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d0/d64/a06224.html">CreatureAI</a></td></tr>
 <tr class="memitem:ae03ccfe1e27501ed9ccbfecdbd3c4e39 inherit pro_methods_a06224"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d64/a06224.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a> ()</td></tr>
 <tr class="separator:ae03ccfe1e27501ed9ccbfecdbd3c4e39 inherit pro_methods_a06224"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -565,8 +653,8 @@ Additional Inherited Members</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a60e2dc1c52579a410d3435126bf39684" name="a60e2dc1c52579a410d3435126bf39684"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a60e2dc1c52579a410d3435126bf39684">&#9670;&#160;</a></span>npc_ahnqiraji_critter()</h2>
+<a id="af1988703aaaac04e5853c33e5b915ca2" name="af1988703aaaac04e5853c33e5b915ca2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af1988703aaaac04e5853c33e5b915ca2">&#9670;&#160;</a></span>npc_muglashAI()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -575,7 +663,7 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">npc_ahnqiraji_critter::npc_ahnqiraji_critter </td>
+          <td class="memname">npc_muglash::npc_muglashAI::npc_muglashAI </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../d4/dfb/a08048.html">Creature</a> *&#160;</td>
           <td class="paramname"><em>creature</em></td><td>)</td>
@@ -588,14 +676,14 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  420</span>: <a class="code hl_struct" href="../../d3/d12/a06268.html">ScriptedAI</a>(creature) { }</div>
-<div class="ttc" id="aa06268_html"><div class="ttname"><a href="../../d3/d12/a06268.html">ScriptedAI</a></div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:190</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   77</span>: <a class="code hl_struct" href="../../d8/dc1/a06288.html">npc_escortAI</a>(creature) { }</div>
+<div class="ttc" id="aa06288_html"><div class="ttname"><a href="../../d8/dc1/a06288.html">npc_escortAI</a></div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.h:53</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a71d3d5262bde847a18932fea89cb6648" name="a71d3d5262bde847a18932fea89cb6648"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a71d3d5262bde847a18932fea89cb6648">&#9670;&#160;</a></span>JustDied()</h2>
+<a id="afba6c4441ff4da54f89709b3c2bcd4d4" name="afba6c4441ff4da54f89709b3c2bcd4d4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afba6c4441ff4da54f89709b3c2bcd4d4">&#9670;&#160;</a></span>DoAction()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -604,7 +692,115 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void npc_ahnqiraji_critter::JustDied </td>
+          <td class="memname">void npc_muglash::npc_muglashAI::DoAction </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname"><em>actionId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="../../d8/dae/a06212.html#a165d336cb3423f9665ed612d2dec76ed">UnitAI</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   87</span>        {</div>
+<div class="line"><span class="lineno">   88</span>            <span class="keywordflow">if</span> (actionId == <a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a591d41376c012165076387e91c32d4d9">ACTION_EXTINGUISH_BLAZIER</a>)</div>
+<div class="line"><span class="lineno">   89</span>            {</div>
+<div class="line"><span class="lineno">   90</span>                <a class="code hl_enumeration" href="../../d8/db7/a02450.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057afc6a19f6790fbcaf0a7e0ea5e61e269a">SAY_MUG_BRAZIER_WAIT</a>);</div>
+<div class="line"><span class="lineno">   91</span>                <a class="code hl_variable" href="../../d1/d6a/a15492.html#aeec098d6a65b6852598a4e4b6888a410">_isBrazierExtinguished</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   92</span>            }</div>
+<div class="line"><span class="lineno">   93</span>        }</div>
+<div class="ttc" id="aa02396_html_a61aa1bf847260f3b69320f14a98eb057a591d41376c012165076387e91c32d4d9"><div class="ttname"><a href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a591d41376c012165076387e91c32d4d9">ACTION_EXTINGUISH_BLAZIER</a></div><div class="ttdeci">@ ACTION_EXTINGUISH_BLAZIER</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:51</div></div>
+<div class="ttc" id="aa02396_html_a61aa1bf847260f3b69320f14a98eb057afc6a19f6790fbcaf0a7e0ea5e61e269a"><div class="ttname"><a href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057afc6a19f6790fbcaf0a7e0ea5e61e269a">SAY_MUG_BRAZIER_WAIT</a></div><div class="ttdeci">@ SAY_MUG_BRAZIER_WAIT</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:28</div></div>
+<div class="ttc" id="aa02450_html_a747a224b6b3195f9a33c56ddc6c7e268"><div class="ttname"><a href="../../d8/db7/a02450.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a></div><div class="ttdeci">Talk</div><div class="ttdef"><b>Definition:</b> hyjal.cpp:82</div></div>
+<div class="ttc" id="aa15492_html_aeec098d6a65b6852598a4e4b6888a410"><div class="ttname"><a href="../../d1/d6a/a15492.html#aeec098d6a65b6852598a4e4b6888a410">npc_muglash::npc_muglashAI::_isBrazierExtinguished</a></div><div class="ttdeci">bool _isBrazierExtinguished</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:210</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00210">_isBrazierExtinguished</a>, <a class="el" href="../../#l00051">ACTION_EXTINGUISH_BLAZIER</a>, and <a class="el" href="../../#l00028">SAY_MUG_BRAZIER_WAIT</a>.</p>
+
+</div>
+</div>
+<a id="aaf862468f5ba0c6f99056a81a472c6e2" name="aaf862468f5ba0c6f99056a81a472c6e2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaf862468f5ba0c6f99056a81a472c6e2">&#9670;&#160;</a></span>DoWaveSummon()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void npc_muglash::npc_muglashAI::DoWaveSummon </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  162</span>        {</div>
+<div class="line"><span class="lineno">  163</span>            <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d1/d6a/a15492.html#a06c0af398e53b5ea6bfd6fa80256f845">waveId</a>)</div>
+<div class="line"><span class="lineno">  164</span>            {</div>
+<div class="line"><span class="lineno">  165</span>                <span class="keywordflow">case</span> 1:</div>
+<div class="line"><span class="lineno">  166</span>                    <a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a776d3cf4369298d5e3f3c55c57d801c4">NPC_WRATH_RIDER</a>,     <a class="code hl_variable" href="../../d5/d10/a02396.html#a44aaebd71b577ea90de1a8b853f557ed">FirstNagaCoord</a>[0], <a class="code hl_enumvalue" href="../../df/de8/a00839.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>, 60000);</div>
+<div class="line"><span class="lineno">  167</span>                    <a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a28edd059b13bec6dd1f8092d648fb5ff">NPC_WRATH_SORCERESS</a>, <a class="code hl_variable" href="../../d5/d10/a02396.html#a44aaebd71b577ea90de1a8b853f557ed">FirstNagaCoord</a>[1], <a class="code hl_enumvalue" href="../../df/de8/a00839.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>, 60000);</div>
+<div class="line"><span class="lineno">  168</span>                    <a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a9834947da78f9cbb0c1566379757a203">NPC_WRATH_RAZORTAIL</a>, <a class="code hl_variable" href="../../d5/d10/a02396.html#a44aaebd71b577ea90de1a8b853f557ed">FirstNagaCoord</a>[2], <a class="code hl_enumvalue" href="../../df/de8/a00839.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>, 60000);</div>
+<div class="line"><span class="lineno">  169</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  170</span>                <span class="keywordflow">case</span> 2:</div>
+<div class="line"><span class="lineno">  171</span>                    <a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057ae8f0e387b20dcfe4a4c0b3cf93196d8a">NPC_WRATH_PRIESTESS</a>, <a class="code hl_variable" href="../../d5/d10/a02396.html#a2381a800b34807e7f0d47d7b60feb025">SecondNagaCoord</a>[0], <a class="code hl_enumvalue" href="../../df/de8/a00839.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>, 60000);</div>
+<div class="line"><span class="lineno">  172</span>                    <a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057ac97e09870c98309d157f3b8243ea0a46">NPC_WRATH_MYRMIDON</a>,  <a class="code hl_variable" href="../../d5/d10/a02396.html#a2381a800b34807e7f0d47d7b60feb025">SecondNagaCoord</a>[1], <a class="code hl_enumvalue" href="../../df/de8/a00839.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>, 60000);</div>
+<div class="line"><span class="lineno">  173</span>                    <a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a28087f57cf60fb8024089f4fa9bd2494">NPC_WRATH_SEAWITCH</a>,  <a class="code hl_variable" href="../../d5/d10/a02396.html#a2381a800b34807e7f0d47d7b60feb025">SecondNagaCoord</a>[2], <a class="code hl_enumvalue" href="../../df/de8/a00839.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>, 60000);</div>
+<div class="line"><span class="lineno">  174</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  175</span>                <span class="keywordflow">case</span> 3:</div>
+<div class="line"><span class="lineno">  176</span>                    <a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#a1077c11c335f60013fdf7e7684bba519">SummonCreature</a>(<a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057ab963d604f08a6fd8540d9711cfb91964">NPC_VORSHA</a>, <a class="code hl_variable" href="../../d5/d10/a02396.html#ab15d952fc1bf94911661206ead25b5b1">VorshaCoord</a>, <a class="code hl_enumvalue" href="../../df/de8/a00839.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>, 60000);</div>
+<div class="line"><span class="lineno">  177</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  178</span>                <span class="keywordflow">case</span> 4:</div>
+<div class="line"><span class="lineno">  179</span>                    <a class="code hl_function" href="../../d8/dc1/a06288.html#aab2ae80bf9d5b6382fc6f8390808bc74">SetEscortPaused</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  180</span>                    <a class="code hl_enumeration" href="../../d8/db7/a02450.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057aed6fe5718e188a37d7504397b80d2d1b">SAY_MUG_DONE</a>);</div>
+<div class="line"><span class="lineno">  181</span>                    <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  182</span>            }</div>
+<div class="line"><span class="lineno">  183</span>        }</div>
+<div class="ttc" id="aa00839_html_a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a"><div class="ttname"><a href="../../df/de8/a00839.html#a38c6d8d01cbe0c49b035f348f7724148a792ae85af0a6c91140415668fdfef99a">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a></div><div class="ttdeci">@ TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</div><div class="ttdef"><b>Definition:</b> Object.h:51</div></div>
+<div class="ttc" id="aa02396_html_a2381a800b34807e7f0d47d7b60feb025"><div class="ttname"><a href="../../d5/d10/a02396.html#a2381a800b34807e7f0d47d7b60feb025">SecondNagaCoord</a></div><div class="ttdeci">Position const SecondNagaCoord[3]</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:61</div></div>
+<div class="ttc" id="aa02396_html_a44aaebd71b577ea90de1a8b853f557ed"><div class="ttname"><a href="../../d5/d10/a02396.html#a44aaebd71b577ea90de1a8b853f557ed">FirstNagaCoord</a></div><div class="ttdeci">Position const FirstNagaCoord[3]</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:54</div></div>
+<div class="ttc" id="aa02396_html_a61aa1bf847260f3b69320f14a98eb057a28087f57cf60fb8024089f4fa9bd2494"><div class="ttname"><a href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a28087f57cf60fb8024089f4fa9bd2494">NPC_WRATH_SEAWITCH</a></div><div class="ttdeci">@ NPC_WRATH_SEAWITCH</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:46</div></div>
+<div class="ttc" id="aa02396_html_a61aa1bf847260f3b69320f14a98eb057a28edd059b13bec6dd1f8092d648fb5ff"><div class="ttname"><a href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a28edd059b13bec6dd1f8092d648fb5ff">NPC_WRATH_SORCERESS</a></div><div class="ttdeci">@ NPC_WRATH_SORCERESS</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:41</div></div>
+<div class="ttc" id="aa02396_html_a61aa1bf847260f3b69320f14a98eb057a776d3cf4369298d5e3f3c55c57d801c4"><div class="ttname"><a href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a776d3cf4369298d5e3f3c55c57d801c4">NPC_WRATH_RIDER</a></div><div class="ttdeci">@ NPC_WRATH_RIDER</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:40</div></div>
+<div class="ttc" id="aa02396_html_a61aa1bf847260f3b69320f14a98eb057a9834947da78f9cbb0c1566379757a203"><div class="ttname"><a href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a9834947da78f9cbb0c1566379757a203">NPC_WRATH_RAZORTAIL</a></div><div class="ttdeci">@ NPC_WRATH_RAZORTAIL</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:42</div></div>
+<div class="ttc" id="aa02396_html_a61aa1bf847260f3b69320f14a98eb057ab963d604f08a6fd8540d9711cfb91964"><div class="ttname"><a href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057ab963d604f08a6fd8540d9711cfb91964">NPC_VORSHA</a></div><div class="ttdeci">@ NPC_VORSHA</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:48</div></div>
+<div class="ttc" id="aa02396_html_a61aa1bf847260f3b69320f14a98eb057ac97e09870c98309d157f3b8243ea0a46"><div class="ttname"><a href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057ac97e09870c98309d157f3b8243ea0a46">NPC_WRATH_MYRMIDON</a></div><div class="ttdeci">@ NPC_WRATH_MYRMIDON</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:45</div></div>
+<div class="ttc" id="aa02396_html_a61aa1bf847260f3b69320f14a98eb057ae8f0e387b20dcfe4a4c0b3cf93196d8a"><div class="ttname"><a href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057ae8f0e387b20dcfe4a4c0b3cf93196d8a">NPC_WRATH_PRIESTESS</a></div><div class="ttdeci">@ NPC_WRATH_PRIESTESS</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:44</div></div>
+<div class="ttc" id="aa02396_html_a61aa1bf847260f3b69320f14a98eb057aed6fe5718e188a37d7504397b80d2d1b"><div class="ttname"><a href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057aed6fe5718e188a37d7504397b80d2d1b">SAY_MUG_DONE</a></div><div class="ttdeci">@ SAY_MUG_DONE</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:31</div></div>
+<div class="ttc" id="aa02396_html_ab15d952fc1bf94911661206ead25b5b1"><div class="ttname"><a href="../../d5/d10/a02396.html#ab15d952fc1bf94911661206ead25b5b1">VorshaCoord</a></div><div class="ttdeci">Position const VorshaCoord</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:68</div></div>
+<div class="ttc" id="aa06268_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:280</div></div>
+<div class="ttc" id="aa06288_html_aab2ae80bf9d5b6382fc6f8390808bc74"><div class="ttname"><a href="../../d8/dc1/a06288.html#aab2ae80bf9d5b6382fc6f8390808bc74">npc_escortAI::SetEscortPaused</a></div><div class="ttdeci">void SetEscortPaused(bool on)</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.cpp:486</div></div>
+<div class="ttc" id="aa08452_html_a1077c11c335f60013fdf7e7684bba519"><div class="ttname"><a href="../../de/d33/a08452.html#a1077c11c335f60013fdf7e7684bba519">WorldObject::SummonCreature</a></div><div class="ttdeci">TempSummon * SummonCreature(uint32 id, const Position &amp;pos, TempSummonType spwtype=TEMPSUMMON_MANUAL_DESPAWN, uint32 despwtime=0, uint32 vehId=0, SummonPropertiesEntry const *properties=nullptr, bool visibleBySummonerOnly=false) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2359</div></div>
+<div class="ttc" id="aa15492_html_a06c0af398e53b5ea6bfd6fa80256f845"><div class="ttname"><a href="../../d1/d6a/a15492.html#a06c0af398e53b5ea6bfd6fa80256f845">npc_muglash::npc_muglashAI::waveId</a></div><div class="ttdeci">uint8 waveId</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:209</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00054">FirstNagaCoord</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00048">NPC_VORSHA</a>, <a class="el" href="../../#l00045">NPC_WRATH_MYRMIDON</a>, <a class="el" href="../../#l00044">NPC_WRATH_PRIESTESS</a>, <a class="el" href="../../#l00042">NPC_WRATH_RAZORTAIL</a>, <a class="el" href="../../#l00040">NPC_WRATH_RIDER</a>, <a class="el" href="../../#l00046">NPC_WRATH_SEAWITCH</a>, <a class="el" href="../../#l00041">NPC_WRATH_SORCERESS</a>, <a class="el" href="../../#l00031">SAY_MUG_DONE</a>, <a class="el" href="../../#l00061">SecondNagaCoord</a>, <a class="el" href="../../#l00486">npc_escortAI::SetEscortPaused()</a>, <a class="el" href="../../#l02359">WorldObject::SummonCreature()</a>, <a class="el" href="../../#l00051">TEMPSUMMON_TIMED_DESPAWN_OUT_OF_COMBAT</a>, <a class="el" href="../../#l00068">VorshaCoord</a>, and <a class="el" href="../../#l00209">waveId</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00185">UpdateAI()</a>.</p>
+
+</div>
+</div>
+<a id="a5936dd183091c462e4835a00f81020f5" name="a5936dd183091c462e4835a00f81020f5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5936dd183091c462e4835a00f81020f5">&#9670;&#160;</a></span>JustDied()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void npc_muglash::npc_muglashAI::JustDied </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../db/dbe/a08800.html">Unit</a> *&#160;</td>
           <td class="paramname"></td><td>)</td>
@@ -618,24 +814,24 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Reimplemented from <a class="el" href="../../d3/d12/a06268.html#a4cc209e047dcbd29cf57e689e3945ff7">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  474</span>    {</div>
-<div class="line"><span class="lineno">  475</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/db6/a08416.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == <a class="code hl_enumvalue" href="../../d9/d4f/a02366.html#a5bd342133be8c2137b831460acc9298ca193f6b29e1a4f07a90b5839e7cd9bd05">NPC_QIRAJI_SCORPION</a>)</div>
-<div class="line"><span class="lineno">  476</span>        {</div>
-<div class="line"><span class="lineno">  477</span>            <a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dfb/a08048.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">DespawnOrUnsummon</a>(5s);</div>
-<div class="line"><span class="lineno">  478</span>        }</div>
-<div class="line"><span class="lineno">  479</span>    }</div>
-<div class="ttc" id="aa02366_html_a5bd342133be8c2137b831460acc9298ca193f6b29e1a4f07a90b5839e7cd9bd05"><div class="ttname"><a href="../../d9/d4f/a02366.html#a5bd342133be8c2137b831460acc9298ca193f6b29e1a4f07a90b5839e7cd9bd05">NPC_QIRAJI_SCORPION</a></div><div class="ttdeci">@ NPC_QIRAJI_SCORPION</div><div class="ttdef"><b>Definition:</b> temple_of_ahnqiraj.cpp:71</div></div>
-<div class="ttc" id="aa06268_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:280</div></div>
-<div class="ttc" id="aa08048_html_ab5bbc9b5cedb702466f5d0c1fcddb8f9"><div class="ttname"><a href="../../d4/dfb/a08048.html#ab5bbc9b5cedb702466f5d0c1fcddb8f9">Creature::DespawnOrUnsummon</a></div><div class="ttdeci">void DespawnOrUnsummon(Milliseconds msTimeToDespawn=0ms, Seconds forcedRespawnTimer=0s)</div><div class="ttdef"><b>Definition:</b> Creature.cpp:2182</div></div>
-<div class="ttc" id="aa08416_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../db/db6/a08416.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition:</b> Object.h:116</div></div>
+<p>Reimplemented from <a class="el" href="../../d8/dc1/a06288.html#ae25140568b7dccf0ab73aa87452bd985">npc_escortAI</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  107</span>        {</div>
+<div class="line"><span class="lineno">  108</span>            <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d8/dc1/a06288.html#a19a101aa424360959c09220f8a67bbe5">HasEscortState</a>(<a class="code hl_enumvalue" href="../../d9/dd0/a00191.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92">STATE_ESCORT_ESCORTING</a>))</div>
+<div class="line"><span class="lineno">  109</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dd/df9/a08668.html">Player</a>* player = <a class="code hl_function" href="../../d8/dc1/a06288.html#a689a50e0af6c80ef59ee207ac518df45">GetPlayerForEscort</a>())</div>
+<div class="line"><span class="lineno">  110</span>                    player-&gt;FailQuest(<a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057ab7c8b31c047de9d4412c596681ff61e0">QUEST_VORSHA</a>);</div>
+<div class="line"><span class="lineno">  111</span>        }</div>
+<div class="ttc" id="aa00191_html_af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92"><div class="ttname"><a href="../../d9/dd0/a00191.html#af40ca4990501264cb0359ab6d93fb08aa276eb485ebaeb34de738a76731763b92">STATE_ESCORT_ESCORTING</a></div><div class="ttdeci">@ STATE_ESCORT_ESCORTING</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.h:47</div></div>
+<div class="ttc" id="aa02396_html_a61aa1bf847260f3b69320f14a98eb057ab7c8b31c047de9d4412c596681ff61e0"><div class="ttname"><a href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057ab7c8b31c047de9d4412c596681ff61e0">QUEST_VORSHA</a></div><div class="ttdeci">@ QUEST_VORSHA</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:36</div></div>
+<div class="ttc" id="aa06288_html_a19a101aa424360959c09220f8a67bbe5"><div class="ttname"><a href="../../d8/dc1/a06288.html#a19a101aa424360959c09220f8a67bbe5">npc_escortAI::HasEscortState</a></div><div class="ttdeci">bool HasEscortState(uint32 escortState)</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.h:97</div></div>
+<div class="ttc" id="aa06288_html_a689a50e0af6c80ef59ee207ac518df45"><div class="ttname"><a href="../../d8/dc1/a06288.html#a689a50e0af6c80ef59ee207ac518df45">npc_escortAI::GetPlayerForEscort</a></div><div class="ttdeci">Player * GetPlayerForEscort()</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.h:113</div></div>
+<div class="ttc" id="aa08668_html"><div class="ttname"><a href="../../dd/df9/a08668.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1071</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00071">NPC_QIRAJI_SCORPION</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00113">npc_escortAI::GetPlayerForEscort()</a>, <a class="el" href="../../#l00097">npc_escortAI::HasEscortState()</a>, <a class="el" href="../../#l00036">QUEST_VORSHA</a>, and <a class="el" href="../../#l00047">STATE_ESCORT_ESCORTING</a>.</p>
 
 </div>
 </div>
-<a id="aca1df706306f9181db26cd77e5b66452" name="aca1df706306f9181db26cd77e5b66452"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aca1df706306f9181db26cd77e5b66452">&#9670;&#160;</a></span>JustEngagedWith()</h2>
+<a id="a587c8cb4562e93cecccb20e93cabba05" name="a587c8cb4562e93cecccb20e93cabba05"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a587c8cb4562e93cecccb20e93cabba05">&#9670;&#160;</a></span>JustEngagedWith()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -644,7 +840,7 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void npc_ahnqiraji_critter::JustEngagedWith </td>
+          <td class="memname">void npc_muglash::npc_muglashAI::JustEngagedWith </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../db/dbe/a08800.html">Unit</a> *&#160;</td>
           <td class="paramname"></td><td>)</td>
@@ -661,38 +857,25 @@ Additional Inherited Members</h2></td></tr>
 <p>Called for reaction when initially engaged. </p>
 
 <p>Reimplemented from <a class="el" href="../../d3/d12/a06268.html#ac2ce21ab709e349abb8206ce2368cd37">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  455</span>    {</div>
-<div class="line"><span class="lineno">  456</span>        <a class="code hl_variable" href="../../d0/d64/a06224.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../dd/dd4/a05604.html#a05da7a474b80d725c991dde9d24df4a4">CancelAll</a>();</div>
-<div class="line"><span class="lineno">  457</span> </div>
-<div class="line"><span class="lineno">  458</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/db6/a08416.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == <a class="code hl_enumvalue" href="../../d9/d4f/a02366.html#a5bd342133be8c2137b831460acc9298ca193f6b29e1a4f07a90b5839e7cd9bd05">NPC_QIRAJI_SCORPION</a>)</div>
-<div class="line"><span class="lineno">  459</span>        {</div>
-<div class="line"><span class="lineno">  460</span>            <a class="code hl_variable" href="../../d0/d64/a06224.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../dd/dd4/a05604.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(2s, 5s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../d3/d9a/a05620.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  461</span>            {</div>
-<div class="line"><span class="lineno">  462</span>                <a class="code hl_function" href="../../d8/dae/a06212.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../d9/d4f/a02366.html#a5bd342133be8c2137b831460acc9298cadf2382af1e59a95b5de2c10e087c298c">SPELL_PIERCE_ARMOR</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  463</span>                context.<a class="code hl_function" href="../../d3/d9a/a05620.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(5s, 9s);</div>
-<div class="line"><span class="lineno">  464</span>            })</div>
-<div class="line"><span class="lineno">  465</span>            .Schedule(5s, 9s, [<span class="keyword">this</span>](<a class="code hl_class" href="../../d3/d9a/a05620.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  466</span>            {</div>
-<div class="line"><span class="lineno">  467</span>                <a class="code hl_function" href="../../d8/dae/a06212.html#a361b6f4e71e9c74595bdf3d7e3b29a82">DoCastVictim</a>(<a class="code hl_enumvalue" href="../../d9/d4f/a02366.html#a5bd342133be8c2137b831460acc9298caf69c625b663facf12cc5d8a20a280806">SPELL_ACID_SPIT</a>, <span class="keyword">true</span>);</div>
-<div class="line"><span class="lineno">  468</span>                context.<a class="code hl_function" href="../../d3/d9a/a05620.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(6s, 12s);</div>
-<div class="line"><span class="lineno">  469</span>            });</div>
-<div class="line"><span class="lineno">  470</span>        }</div>
-<div class="line"><span class="lineno">  471</span>    }</div>
-<div class="ttc" id="aa02366_html_a5bd342133be8c2137b831460acc9298cadf2382af1e59a95b5de2c10e087c298c"><div class="ttname"><a href="../../d9/d4f/a02366.html#a5bd342133be8c2137b831460acc9298cadf2382af1e59a95b5de2c10e087c298c">SPELL_PIERCE_ARMOR</a></div><div class="ttdeci">@ SPELL_PIERCE_ARMOR</div><div class="ttdef"><b>Definition:</b> temple_of_ahnqiraj.cpp:68</div></div>
-<div class="ttc" id="aa02366_html_a5bd342133be8c2137b831460acc9298caf69c625b663facf12cc5d8a20a280806"><div class="ttname"><a href="../../d9/d4f/a02366.html#a5bd342133be8c2137b831460acc9298caf69c625b663facf12cc5d8a20a280806">SPELL_ACID_SPIT</a></div><div class="ttdeci">@ SPELL_ACID_SPIT</div><div class="ttdef"><b>Definition:</b> temple_of_ahnqiraj.cpp:69</div></div>
-<div class="ttc" id="aa05604_html_a05da7a474b80d725c991dde9d24df4a4"><div class="ttname"><a href="../../dd/dd4/a05604.html#a05da7a474b80d725c991dde9d24df4a4">TaskScheduler::CancelAll</a></div><div class="ttdeci">TaskScheduler &amp; CancelAll()</div><div class="ttdef"><b>Definition:</b> TaskScheduler.cpp:45</div></div>
-<div class="ttc" id="aa05604_html_a0e0579d2a2397de5a79c756d5e59a830"><div class="ttname"><a href="../../dd/dd4/a05604.html#a0e0579d2a2397de5a79c756d5e59a830">TaskScheduler::Schedule</a></div><div class="ttdeci">TaskScheduler &amp; Schedule(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;time, task_handler_t const &amp;task)</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:232</div></div>
-<div class="ttc" id="aa05620_html"><div class="ttname"><a href="../../d3/d9a/a05620.html">TaskContext</a></div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:421</div></div>
-<div class="ttc" id="aa05620_html_a380c596857dd0030414db5e8d28a3dda"><div class="ttname"><a href="../../d3/d9a/a05620.html#a380c596857dd0030414db5e8d28a3dda">TaskContext::Repeat</a></div><div class="ttdeci">TaskContext &amp; Repeat(std::chrono::duration&lt; _Rep, _Period &gt; const &amp;duration)</div><div class="ttdef"><b>Definition:</b> TaskScheduler.h:493</div></div>
-<div class="ttc" id="aa06212_html_a361b6f4e71e9c74595bdf3d7e3b29a82"><div class="ttname"><a href="../../d8/dae/a06212.html#a361b6f4e71e9c74595bdf3d7e3b29a82">UnitAI::DoCastVictim</a></div><div class="ttdeci">SpellCastResult DoCastVictim(uint32 spellId, bool triggered=false)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:276</div></div>
-<div class="ttc" id="aa06224_html_a7a708f334e3ff40b7e1bbdfbff7ba765"><div class="ttname"><a href="../../d0/d64/a06224.html#a7a708f334e3ff40b7e1bbdfbff7ba765">CreatureAI::scheduler</a></div><div class="ttdeci">TaskScheduler scheduler</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:76</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   96</span>        {</div>
+<div class="line"><span class="lineno">   97</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dd/df9/a08668.html">Player</a>* player = <a class="code hl_function" href="../../d8/dc1/a06288.html#a689a50e0af6c80ef59ee207ac518df45">GetPlayerForEscort</a>())</div>
+<div class="line"><span class="lineno">   98</span>                <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d8/dc1/a06288.html#a19a101aa424360959c09220f8a67bbe5">HasEscortState</a>(<a class="code hl_enumvalue" href="../../d9/dd0/a00191.html#af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6">STATE_ESCORT_PAUSED</a>))</div>
+<div class="line"><span class="lineno">   99</span>                {</div>
+<div class="line"><span class="lineno">  100</span>                    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../de/d5f/a04763.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a>(0, 1))</div>
+<div class="line"><span class="lineno">  101</span>                        <a class="code hl_enumeration" href="../../d8/db7/a02450.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057ad1908a7f2392471a96c8a4e2667812b8">SAY_MUG_ON_GUARD</a>, player);</div>
+<div class="line"><span class="lineno">  102</span>                    <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  103</span>                }</div>
+<div class="line"><span class="lineno">  104</span>        }</div>
+<div class="ttc" id="aa00191_html_af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6"><div class="ttname"><a href="../../d9/dd0/a00191.html#af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6">STATE_ESCORT_PAUSED</a></div><div class="ttdeci">@ STATE_ESCORT_PAUSED</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.h:49</div></div>
+<div class="ttc" id="aa02396_html_a61aa1bf847260f3b69320f14a98eb057ad1908a7f2392471a96c8a4e2667812b8"><div class="ttname"><a href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057ad1908a7f2392471a96c8a4e2667812b8">SAY_MUG_ON_GUARD</a></div><div class="ttdeci">@ SAY_MUG_ON_GUARD</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:29</div></div>
+<div class="ttc" id="aa04763_html_ab17def34ccbbd868dc87a16bf35acdbd"><div class="ttname"><a href="../../de/d5f/a04763.html#ab17def34ccbbd868dc87a16bf35acdbd">urand</a></div><div class="ttdeci">uint32 urand(uint32 min, uint32 max)</div><div class="ttdef"><b>Definition:</b> Random.cpp:44</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00071">NPC_QIRAJI_SCORPION</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, <a class="el" href="../../#l00069">SPELL_ACID_SPIT</a>, and <a class="el" href="../../#l00068">SPELL_PIERCE_ARMOR</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00113">npc_escortAI::GetPlayerForEscort()</a>, <a class="el" href="../../#l00097">npc_escortAI::HasEscortState()</a>, <a class="el" href="../../#l00029">SAY_MUG_ON_GUARD</a>, <a class="el" href="../../#l00049">STATE_ESCORT_PAUSED</a>, and <a class="el" href="../../#l00044">urand()</a>.</p>
 
 </div>
 </div>
-<a id="a645e16e9da29f6579320394201d0ada7" name="a645e16e9da29f6579320394201d0ada7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a645e16e9da29f6579320394201d0ada7">&#9670;&#160;</a></span>Reset()</h2>
+<a id="a07e451149dbf6b72e01f94dc8f07edf3" name="a07e451149dbf6b72e01f94dc8f07edf3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a07e451149dbf6b72e01f94dc8f07edf3">&#9670;&#160;</a></span>JustSummoned()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -701,7 +884,42 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void npc_ahnqiraji_critter::Reset </td>
+          <td class="memname">void npc_muglash::npc_muglashAI::JustSummoned </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/dfb/a08048.html">Creature</a> *&#160;</td>
+          <td class="paramname"><em>summoned</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="../../d3/d12/a06268.html#a1625d27c60b9833cc9bdebffb80833cb">ScriptedAI</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  114</span>        {</div>
+<div class="line"><span class="lineno">  115</span>            summoned-&gt;<a class="code hl_function" href="../../d4/dfb/a08048.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d8/dae/a06212.html#ae120634c255d365f1567e341e2cf1feb">AttackStart</a>(<a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>);</div>
+<div class="line"><span class="lineno">  116</span>        }</div>
+<div class="ttc" id="aa06212_html_ae120634c255d365f1567e341e2cf1feb"><div class="ttname"><a href="../../d8/dae/a06212.html#ae120634c255d365f1567e341e2cf1feb">UnitAI::AttackStart</a></div><div class="ttdeci">virtual void AttackStart(Unit *)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:27</div></div>
+<div class="ttc" id="aa08048_html_af2188eef9620b5af52ef2d3ac142db67"><div class="ttname"><a href="../../d4/dfb/a08048.html#af2188eef9620b5af52ef2d3ac142db67">Creature::AI</a></div><div class="ttdeci">CreatureAI * AI() const</div><div class="ttdef"><b>Definition:</b> Creature.h:145</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00145">Creature::AI()</a>, <a class="el" href="../../#l00027">UnitAI::AttackStart()</a>, and <a class="el" href="../../#l00280">ScriptedAI::me</a>.</p>
+
+</div>
+</div>
+<a id="a98933c32f2550989356b3e876d302b88" name="a98933c32f2550989356b3e876d302b88"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a98933c32f2550989356b3e876d302b88">&#9670;&#160;</a></span>Reset()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void npc_muglash::npc_muglashAI::Reset </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -715,53 +933,19 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d3/d12/a06268.html#a26600c116d20a33461fc884bdb82eda9">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  423</span>    {</div>
-<div class="line"><span class="lineno">  424</span>        <a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a25e4ba3fa47df09bb0492dd70c17c841">RestoreFaction</a>();</div>
-<div class="line"><span class="lineno">  425</span> </div>
-<div class="line"><span class="lineno">  426</span>        <a class="code hl_variable" href="../../d0/d64/a06224.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../dd/dd4/a05604.html#a05da7a474b80d725c991dde9d24df4a4">CancelAll</a>();</div>
-<div class="line"><span class="lineno">  427</span> </div>
-<div class="line"><span class="lineno">  428</span>        <span class="comment">// Don&#39;t attack nearby players randomly if they are the Twin&#39;s pet bugs.</span></div>
-<div class="line"><span class="lineno">  429</span>        <span class="keywordflow">if</span> (<a class="code hl_struct" href="../../d2/dff/a08100.html">CreatureData</a> <span class="keyword">const</span>* crData = <a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dfb/a08048.html#a8eba0314d6c9f5918c9fcdcb28955a67">GetCreatureData</a>())</div>
-<div class="line"><span class="lineno">  430</span>        {</div>
-<div class="line"><span class="lineno">  431</span>            <a class="code hl_class" href="../../d1/dbc/a08468.html">ObjectGuid</a> dbtableHighGuid = ObjectGuid::Create&lt;HighGuid::Unit&gt;(crData-&gt;id1, <a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dfb/a08048.html#a94ab8e421d4a244df52b7a6b74b2842a">GetSpawnId</a>());</div>
-<div class="line"><span class="lineno">  432</span>            <a class="code hl_class" href="../../d1/dbc/a08468.html">ObjectGuid</a> targetGuid = <a class="code hl_define" href="../../d4/d99/a01634.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetLinkedRespawnGuid(dbtableHighGuid);</div>
-<div class="line"><span class="lineno">  433</span> </div>
-<div class="line"><span class="lineno">  434</span>            <span class="keywordflow">if</span> (targetGuid.<a class="code hl_function" href="../../d1/dbc/a08468.html#ac0602698cb0191a099ea59dec2a0cc5e">GetEntry</a>() == <a class="code hl_enumvalue" href="../../da/db4/a02348.html#a25a619e6b66096a4f05d048e4a96df08a8834ac47ba871b2a58765da6fb9fc855">NPC_VEKLOR</a>)</div>
-<div class="line"><span class="lineno">  435</span>            {</div>
-<div class="line"><span class="lineno">  436</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  437</span>            }</div>
-<div class="line"><span class="lineno">  438</span>        }</div>
-<div class="line"><span class="lineno">  439</span> </div>
-<div class="line"><span class="lineno">  440</span>        <a class="code hl_variable" href="../../d0/d64/a06224.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../dd/dd4/a05604.html#a0e0579d2a2397de5a79c756d5e59a830">Schedule</a>(100ms, [<span class="keyword">this</span>](<a class="code hl_class" href="../../d3/d9a/a05620.html">TaskContext</a> context)</div>
-<div class="line"><span class="lineno">  441</span>        {</div>
-<div class="line"><span class="lineno">  442</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dd/df9/a08668.html">Player</a>* player = <a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../de/d33/a08452.html#a8bcd0563ce34a4ed2336034e762ce7fb">SelectNearestPlayer</a>(10.f))</div>
-<div class="line"><span class="lineno">  443</span>            {</div>
-<div class="line"><span class="lineno">  444</span>                if (player-&gt;IsInCombat())</div>
-<div class="line"><span class="lineno">  445</span>                {</div>
-<div class="line"><span class="lineno">  446</span>                    AttackStart(player);</div>
-<div class="line"><span class="lineno">  447</span>                }</div>
-<div class="line"><span class="lineno">  448</span>            }</div>
-<div class="line"><span class="lineno">  449</span> </div>
-<div class="line"><span class="lineno">  450</span>            context.<a class="code hl_function" href="../../d3/d9a/a05620.html#a380c596857dd0030414db5e8d28a3dda">Repeat</a>(3500ms, 4s);</div>
-<div class="line"><span class="lineno">  451</span>        });</div>
-<div class="line"><span class="lineno">  452</span>    }</div>
-<div class="ttc" id="aa01634_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../d4/d99/a01634.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1650</div></div>
-<div class="ttc" id="aa02348_html_a25a619e6b66096a4f05d048e4a96df08a8834ac47ba871b2a58765da6fb9fc855"><div class="ttname"><a href="../../da/db4/a02348.html#a25a619e6b66096a4f05d048e4a96df08a8834ac47ba871b2a58765da6fb9fc855">NPC_VEKLOR</a></div><div class="ttdeci">@ NPC_VEKLOR</div><div class="ttdef"><b>Definition:</b> temple_of_ahnqiraj.h:74</div></div>
-<div class="ttc" id="aa08048_html_a8eba0314d6c9f5918c9fcdcb28955a67"><div class="ttname"><a href="../../d4/dfb/a08048.html#a8eba0314d6c9f5918c9fcdcb28955a67">Creature::GetCreatureData</a></div><div class="ttdeci">CreatureData const * GetCreatureData() const</div><div class="ttdef"><b>Definition:</b> Creature.h:209</div></div>
-<div class="ttc" id="aa08048_html_a94ab8e421d4a244df52b7a6b74b2842a"><div class="ttname"><a href="../../d4/dfb/a08048.html#a94ab8e421d4a244df52b7a6b74b2842a">Creature::GetSpawnId</a></div><div class="ttdeci">ObjectGuid::LowType GetSpawnId() const</div><div class="ttdef"><b>Definition:</b> Creature.h:69</div></div>
-<div class="ttc" id="aa08100_html"><div class="ttname"><a href="../../d2/dff/a08100.html">CreatureData</a></div><div class="ttdef"><b>Definition:</b> CreatureData.h:370</div></div>
-<div class="ttc" id="aa08452_html_a8bcd0563ce34a4ed2336034e762ce7fb"><div class="ttname"><a href="../../de/d33/a08452.html#a8bcd0563ce34a4ed2336034e762ce7fb">WorldObject::SelectNearestPlayer</a></div><div class="ttdeci">Player * SelectNearestPlayer(float distance=0) const</div><div class="ttdef"><b>Definition:</b> Object.cpp:2477</div></div>
-<div class="ttc" id="aa08468_html"><div class="ttname"><a href="../../d1/dbc/a08468.html">ObjectGuid</a></div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:118</div></div>
-<div class="ttc" id="aa08468_html_ac0602698cb0191a099ea59dec2a0cc5e"><div class="ttname"><a href="../../d1/dbc/a08468.html#ac0602698cb0191a099ea59dec2a0cc5e">ObjectGuid::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.h:144</div></div>
-<div class="ttc" id="aa08668_html"><div class="ttname"><a href="../../dd/df9/a08668.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1071</div></div>
-<div class="ttc" id="aa08800_html_a25e4ba3fa47df09bb0492dd70c17c841"><div class="ttname"><a href="../../db/dbe/a08800.html#a25e4ba3fa47df09bb0492dd70c17c841">Unit::RestoreFaction</a></div><div class="ttdeci">void RestoreFaction()</div><div class="ttdef"><b>Definition:</b> Unit.cpp:18722</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   80</span>        {</div>
+<div class="line"><span class="lineno">   81</span>            <a class="code hl_variable" href="../../d1/d6a/a15492.html#a548e142bb509b4606b6fcf98d926cd44">eventTimer</a> = 10000;</div>
+<div class="line"><span class="lineno">   82</span>            <a class="code hl_variable" href="../../d1/d6a/a15492.html#a06c0af398e53b5ea6bfd6fa80256f845">waveId</a> = 0;</div>
+<div class="line"><span class="lineno">   83</span>            <a class="code hl_variable" href="../../d1/d6a/a15492.html#aeec098d6a65b6852598a4e4b6888a410">_isBrazierExtinguished</a> = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   84</span>        }</div>
+<div class="ttc" id="aa15492_html_a548e142bb509b4606b6fcf98d926cd44"><div class="ttname"><a href="../../d1/d6a/a15492.html#a548e142bb509b4606b6fcf98d926cd44">npc_muglash::npc_muglashAI::eventTimer</a></div><div class="ttdeci">uint32 eventTimer</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:208</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00045">TaskScheduler::CancelAll()</a>, <a class="el" href="../../#l00209">Creature::GetCreatureData()</a>, <a class="el" href="../../#l00144">ObjectGuid::GetEntry()</a>, <a class="el" href="../../#l00069">Creature::GetSpawnId()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00074">NPC_VEKLOR</a>, <a class="el" href="../../#l00493">TaskContext::Repeat()</a>, <a class="el" href="../../#l18722">Unit::RestoreFaction()</a>, <a class="el" href="../../#l00232">TaskScheduler::Schedule()</a>, <a class="el" href="../../#l00076">CreatureAI::scheduler</a>, <a class="el" href="../../#l02477">WorldObject::SelectNearestPlayer()</a>, and <a class="el" href="../../#l01650">sObjectMgr</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00210">_isBrazierExtinguished</a>, <a class="el" href="../../#l00208">eventTimer</a>, and <a class="el" href="../../#l00209">waveId</a>.</p>
 
 </div>
 </div>
-<a id="a68c5ded8563c2de9429a13cdb7d38f89" name="a68c5ded8563c2de9429a13cdb7d38f89"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a68c5ded8563c2de9429a13cdb7d38f89">&#9670;&#160;</a></span>UpdateAI()</h2>
+<a id="a6c93a53a7b8bcd200ebca0e9d366f6fe" name="a6c93a53a7b8bcd200ebca0e9d366f6fe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6c93a53a7b8bcd200ebca0e9d366f6fe">&#9670;&#160;</a></span>sQuestAccept()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -770,7 +954,62 @@ Additional Inherited Members</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void npc_ahnqiraji_critter::UpdateAI </td>
+          <td class="memname">void npc_muglash::npc_muglashAI::sQuestAccept </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/df9/a08668.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/da2/a10236.html">Quest</a> const *&#160;</td>
+          <td class="paramname"><em>quest</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Reimplemented from <a class="el" href="../../d8/dae/a06212.html#a03076e2d142052af78e6d9e85f390fd1">UnitAI</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  119</span>        {</div>
+<div class="line"><span class="lineno">  120</span>            <span class="keywordflow">if</span> (quest-&gt;GetQuestId() == <a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057ab7c8b31c047de9d4412c596681ff61e0">QUEST_VORSHA</a>)</div>
+<div class="line"><span class="lineno">  121</span>            {</div>
+<div class="line"><span class="lineno">  122</span>                <a class="code hl_enumeration" href="../../d8/db7/a02450.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a8f1263c089dd81c8bfe0e50dd08dbc3e">SAY_MUG_START1</a>);</div>
+<div class="line"><span class="lineno">  123</span>                <a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#a2579e2b71959daec99048b4bcf7f6bf3">SetFaction</a>(<a class="code hl_enumvalue" href="../../d1/da3/a04100.html#ac5c8e776fe109c83a63abe41eb5e80f2a12396a918c9dc7c97e7b31933cc75712">FACTION_ESCORTEE_N_NEUTRAL_PASSIVE</a>);</div>
+<div class="line"><span class="lineno">  124</span>                <a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d4/dfb/a08048.html#acb4a26180cdcb2266736f6aea4a695d8">SetWalk</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  125</span>                <a class="code hl_function" href="../../d8/dc1/a06288.html#a06346873da6190791587dc81929ab10b">Start</a>(<span class="keyword">true</span>, player-&gt;<a class="code hl_function" href="../../db/db6/a08416.html#ad23b997e2442fa6a6228ba73a7ecc138">GetGUID</a>());</div>
+<div class="line"><span class="lineno">  126</span>            }</div>
+<div class="line"><span class="lineno">  127</span>        }</div>
+<div class="ttc" id="aa02396_html_a61aa1bf847260f3b69320f14a98eb057a8f1263c089dd81c8bfe0e50dd08dbc3e"><div class="ttname"><a href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a8f1263c089dd81c8bfe0e50dd08dbc3e">SAY_MUG_START1</a></div><div class="ttdeci">@ SAY_MUG_START1</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:25</div></div>
+<div class="ttc" id="aa04100_html_ac5c8e776fe109c83a63abe41eb5e80f2a12396a918c9dc7c97e7b31933cc75712"><div class="ttname"><a href="../../d1/da3/a04100.html#ac5c8e776fe109c83a63abe41eb5e80f2a12396a918c9dc7c97e7b31933cc75712">FACTION_ESCORTEE_N_NEUTRAL_PASSIVE</a></div><div class="ttdeci">@ FACTION_ESCORTEE_N_NEUTRAL_PASSIVE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:222</div></div>
+<div class="ttc" id="aa06288_html_a06346873da6190791587dc81929ab10b"><div class="ttname"><a href="../../d8/dc1/a06288.html#a06346873da6190791587dc81929ab10b">npc_escortAI::Start</a></div><div class="ttdeci">void Start(bool isActiveAttacker=true, ObjectGuid playerGUID=ObjectGuid::Empty, Quest const *quest=nullptr, bool instantRespawn=false, bool canLoopPath=false, bool resetWaypoints=true)</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.cpp:419</div></div>
+<div class="ttc" id="aa08048_html_acb4a26180cdcb2266736f6aea4a695d8"><div class="ttname"><a href="../../d4/dfb/a08048.html#acb4a26180cdcb2266736f6aea4a695d8">Creature::SetWalk</a></div><div class="ttdeci">bool SetWalk(bool enable) override</div><div class="ttdoc">Enable or disable the creature's walk mode by removing: MOVEMENTFLAG_WALKING. Infom also the client.</div><div class="ttdef"><b>Definition:</b> Creature.cpp:3222</div></div>
+<div class="ttc" id="aa08416_html_ad23b997e2442fa6a6228ba73a7ecc138"><div class="ttname"><a href="../../db/db6/a08416.html#ad23b997e2442fa6a6228ba73a7ecc138">Object::GetGUID</a></div><div class="ttdeci">static ObjectGuid GetGUID(Object const *o)</div><div class="ttdef"><b>Definition:</b> Object.h:113</div></div>
+<div class="ttc" id="aa08800_html_a2579e2b71959daec99048b4bcf7f6bf3"><div class="ttname"><a href="../../db/dbe/a08800.html#a2579e2b71959daec99048b4bcf7f6bf3">Unit::SetFaction</a></div><div class="ttdeci">void SetFaction(uint32 faction)</div><div class="ttdef"><b>Definition:</b> Unit.cpp:10107</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00222">FACTION_ESCORTEE_N_NEUTRAL_PASSIVE</a>, <a class="el" href="../../#l00113">Object::GetGUID()</a>, <a class="el" href="../../#l00228">Quest::GetQuestId()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00036">QUEST_VORSHA</a>, <a class="el" href="../../#l00025">SAY_MUG_START1</a>, <a class="el" href="../../#l10107">Unit::SetFaction()</a>, <a class="el" href="../../#l03222">Creature::SetWalk()</a>, and <a class="el" href="../../#l00419">npc_escortAI::Start()</a>.</p>
+
+</div>
+</div>
+<a id="a6b479f50428536997faef96e510dbd84" name="a6b479f50428536997faef96e510dbd84"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6b479f50428536997faef96e510dbd84">&#9670;&#160;</a></span>UpdateAI()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void npc_muglash::npc_muglashAI::UpdateAI </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
           <td class="paramname"></td><td>)</td>
@@ -784,23 +1023,179 @@ Additional Inherited Members</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p>Use to start attacking a target. Called just before <a class="el" href="../../d1/d6a/a15492.html#aca1df706306f9181db26cd77e5b66452" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
+<p>Use to start attacking a target. Called just before <a class="el" href="../../d1/d6a/a15492.html#a587c8cb4562e93cecccb20e93cabba05" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
-<p>Reimplemented from <a class="el" href="../../d3/d12/a06268.html#aff5fd4e142a5cf930ffacbfc7259cce5">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  482</span>    {</div>
-<div class="line"><span class="lineno">  483</span>        <a class="code hl_variable" href="../../d0/d64/a06224.html#a7a708f334e3ff40b7e1bbdfbff7ba765">scheduler</a>.<a class="code hl_function" href="../../dd/dd4/a05604.html#a35c0891c7aded13c6ae7ecd2e6d480a9">Update</a>(diff);</div>
-<div class="line"><span class="lineno">  484</span> </div>
-<div class="line"><span class="lineno">  485</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d0/d64/a06224.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
-<div class="line"><span class="lineno">  486</span>        {</div>
-<div class="line"><span class="lineno">  487</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  488</span>        }</div>
-<div class="line"><span class="lineno">  489</span> </div>
-<div class="line"><span class="lineno">  490</span>        <a class="code hl_function" href="../../d8/dae/a06212.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
-<div class="line"><span class="lineno">  491</span>    }</div>
-<div class="ttc" id="aa05604_html_a35c0891c7aded13c6ae7ecd2e6d480a9"><div class="ttname"><a href="../../dd/dd4/a05604.html#a35c0891c7aded13c6ae7ecd2e6d480a9">TaskScheduler::Update</a></div><div class="ttdeci">TaskScheduler &amp; Update(success_t const &amp;callback=EmptyCallback)</div><div class="ttdef"><b>Definition:</b> TaskScheduler.cpp:27</div></div>
+<p>Reimplemented from <a class="el" href="../../d8/dc1/a06288.html#a5e9c333411c54ff4d644812e53ba1831">npc_escortAI</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  186</span>        {</div>
+<div class="line"><span class="lineno">  187</span>            <a class="code hl_function" href="../../d8/dc1/a06288.html#a5e9c333411c54ff4d644812e53ba1831">npc_escortAI::UpdateAI</a>(diff);</div>
+<div class="line"><span class="lineno">  188</span> </div>
+<div class="line"><span class="lineno">  189</span>            <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../db/dbe/a08800.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>())</div>
+<div class="line"><span class="lineno">  190</span>            {</div>
+<div class="line"><span class="lineno">  191</span>                <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d8/dc1/a06288.html#a19a101aa424360959c09220f8a67bbe5">HasEscortState</a>(<a class="code hl_enumvalue" href="../../d9/dd0/a00191.html#af40ca4990501264cb0359ab6d93fb08aa243ae0744c8bd5cc0191aaae1e3cb9f6">STATE_ESCORT_PAUSED</a>) &amp;&amp; <a class="code hl_variable" href="../../d1/d6a/a15492.html#aeec098d6a65b6852598a4e4b6888a410">_isBrazierExtinguished</a>)</div>
+<div class="line"><span class="lineno">  192</span>                {</div>
+<div class="line"><span class="lineno">  193</span>                    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d1/d6a/a15492.html#a548e142bb509b4606b6fcf98d926cd44">eventTimer</a> &lt; diff)</div>
+<div class="line"><span class="lineno">  194</span>                    {</div>
+<div class="line"><span class="lineno">  195</span>                        ++<a class="code hl_variable" href="../../d1/d6a/a15492.html#a06c0af398e53b5ea6bfd6fa80256f845">waveId</a>;</div>
+<div class="line"><span class="lineno">  196</span>                        <a class="code hl_function" href="../../d1/d6a/a15492.html#aaf862468f5ba0c6f99056a81a472c6e2">DoWaveSummon</a>();</div>
+<div class="line"><span class="lineno">  197</span>                        <a class="code hl_variable" href="../../d1/d6a/a15492.html#a548e142bb509b4606b6fcf98d926cd44">eventTimer</a> = 10000;</div>
+<div class="line"><span class="lineno">  198</span>                    }</div>
+<div class="line"><span class="lineno">  199</span>                    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  200</span>                        <a class="code hl_variable" href="../../d1/d6a/a15492.html#a548e142bb509b4606b6fcf98d926cd44">eventTimer</a> -= diff;</div>
+<div class="line"><span class="lineno">  201</span>                }</div>
+<div class="line"><span class="lineno">  202</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  203</span>            }</div>
+<div class="line"><span class="lineno">  204</span>            <a class="code hl_function" href="../../d8/dae/a06212.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
+<div class="line"><span class="lineno">  205</span>        }</div>
 <div class="ttc" id="aa06212_html_a348a472089a9be6210b58aace8fafa9f"><div class="ttname"><a href="../../d8/dae/a06212.html#a348a472089a9be6210b58aace8fafa9f">UnitAI::DoMeleeAttackIfReady</a></div><div class="ttdeci">void DoMeleeAttackIfReady()</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:39</div></div>
-<div class="ttc" id="aa06224_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../d0/d64/a06224.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition:</b> CreatureAI.cpp:287</div></div>
+<div class="ttc" id="aa06288_html_a5e9c333411c54ff4d644812e53ba1831"><div class="ttname"><a href="../../d8/dc1/a06288.html#a5e9c333411c54ff4d644812e53ba1831">npc_escortAI::UpdateAI</a></div><div class="ttdeci">void UpdateAI(uint32 diff) override</div><div class="ttdoc">Use to start attacking a target. Called just before JustEngagedWith()</div><div class="ttdef"><b>Definition:</b> ScriptedEscortAI.cpp:231</div></div>
+<div class="ttc" id="aa08800_html_aae09d03a474ea5517d671e64dc393739"><div class="ttname"><a href="../../db/dbe/a08800.html#aae09d03a474ea5517d671e64dc393739">Unit::GetVictim</a></div><div class="ttdeci">Unit * GetVictim() const</div><div class="ttdef"><b>Definition:</b> Unit.h:886</div></div>
+<div class="ttc" id="aa15492_html_aaf862468f5ba0c6f99056a81a472c6e2"><div class="ttname"><a href="../../d1/d6a/a15492.html#aaf862468f5ba0c6f99056a81a472c6e2">npc_muglash::npc_muglashAI::DoWaveSummon</a></div><div class="ttdeci">void DoWaveSummon()</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:161</div></div>
 </div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00210">_isBrazierExtinguished</a>, <a class="el" href="../../#l00039">UnitAI::DoMeleeAttackIfReady()</a>, <a class="el" href="../../#l00161">DoWaveSummon()</a>, <a class="el" href="../../#l00208">eventTimer</a>, <a class="el" href="../../#l00886">Unit::GetVictim()</a>, <a class="el" href="../../#l00097">npc_escortAI::HasEscortState()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00049">STATE_ESCORT_PAUSED</a>, <a class="el" href="../../#l00231">npc_escortAI::UpdateAI()</a>, and <a class="el" href="../../#l00209">waveId</a>.</p>
+
+</div>
+</div>
+<a id="a8f91b74c0d8778a73e0bc95dce339f2b" name="a8f91b74c0d8778a73e0bc95dce339f2b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8f91b74c0d8778a73e0bc95dce339f2b">&#9670;&#160;</a></span>WaypointReached()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void npc_muglash::npc_muglashAI::WaypointReached </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>waypointId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implements <a class="el" href="../../d8/dc1/a06288.html#a59830f742b9967303df22f5bcf0d2b9d">npc_escortAI</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  130</span>        {</div>
+<div class="line"><span class="lineno">  131</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../dd/df9/a08668.html">Player</a>* player = <a class="code hl_function" href="../../d8/dc1/a06288.html#a689a50e0af6c80ef59ee207ac518df45">GetPlayerForEscort</a>())</div>
+<div class="line"><span class="lineno">  132</span>            {</div>
+<div class="line"><span class="lineno">  133</span>                <span class="keywordflow">switch</span> (waypointId)</div>
+<div class="line"><span class="lineno">  134</span>                {</div>
+<div class="line"><span class="lineno">  135</span>                    <span class="keywordflow">case</span> 0:</div>
+<div class="line"><span class="lineno">  136</span>                        <a class="code hl_enumeration" href="../../d8/db7/a02450.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057aa6ecd378ab24d862f8be4be085be2ac1">SAY_MUG_START2</a>, player);</div>
+<div class="line"><span class="lineno">  137</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  138</span>                    <span class="keywordflow">case</span> 24:</div>
+<div class="line"><span class="lineno">  139</span>                        <a class="code hl_enumeration" href="../../d8/db7/a02450.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057aa75eb8f63b1e11239c3e7692821201a5">SAY_MUG_BRAZIER</a>, player);</div>
+<div class="line"><span class="lineno">  140</span> </div>
+<div class="line"><span class="lineno">  141</span>                        <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d7/d3b/a08224.html">GameObject</a>* go = <a class="code hl_function" href="../../db/dd9/a00179.html#a80b13d7c0fa3b835b0834955ed0f93d8">GetClosestGameObjectWithEntry</a>(<a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>, <a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a09fae02b8c393729769fda6c507d80ab">GO_NAGA_BRAZIER</a>, <a class="code hl_define" href="../../d5/d72/a00803.html#a54eb9ac4fb3942c956544c22e84743d4">INTERACTION_DISTANCE</a> * 2))</div>
+<div class="line"><span class="lineno">  142</span>                        {</div>
+<div class="line"><span class="lineno">  143</span>                            go-&gt;RemoveGameObjectFlag(<a class="code hl_enumvalue" href="../../d1/da3/a04100.html#a7716f26c46ee49831358c2993e79582fa923ad52f14738a794626655f6b1109c9">GO_FLAG_NOT_SELECTABLE</a>);</div>
+<div class="line"><span class="lineno">  144</span>                            <a class="code hl_function" href="../../d8/dc1/a06288.html#aab2ae80bf9d5b6382fc6f8390808bc74">SetEscortPaused</a>(<span class="keyword">true</span>);</div>
+<div class="line"><span class="lineno">  145</span>                        }</div>
+<div class="line"><span class="lineno">  146</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  147</span>                    <span class="keywordflow">case</span> 25:</div>
+<div class="line"><span class="lineno">  148</span>                        <a class="code hl_enumeration" href="../../d8/db7/a02450.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057ab4abdfdeeb30fa160aa35ae49a25ef63">SAY_MUG_GRATITUDE</a>);</div>
+<div class="line"><span class="lineno">  149</span>                        player-&gt;GroupEventHappens(<a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057ab7c8b31c047de9d4412c596681ff61e0">QUEST_VORSHA</a>, <a class="code hl_variable" href="../../d3/d12/a06268.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>);</div>
+<div class="line"><span class="lineno">  150</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  151</span>                    <span class="keywordflow">case</span> 26:</div>
+<div class="line"><span class="lineno">  152</span>                        <a class="code hl_enumeration" href="../../d8/db7/a02450.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a6d2374968adcf8d86491777fc2307c10">SAY_MUG_PATROL</a>);</div>
+<div class="line"><span class="lineno">  153</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  154</span>                    <span class="keywordflow">case</span> 27:</div>
+<div class="line"><span class="lineno">  155</span>                        <a class="code hl_enumeration" href="../../d8/db7/a02450.html#a747a224b6b3195f9a33c56ddc6c7e268">Talk</a>(<a class="code hl_enumvalue" href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a513450df3bcff9f9b4909822f155d70d">SAY_MUG_RETURN</a>);</div>
+<div class="line"><span class="lineno">  156</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  157</span>                }</div>
+<div class="line"><span class="lineno">  158</span>            }</div>
+<div class="line"><span class="lineno">  159</span>        }</div>
+<div class="ttc" id="aa00179_html_a80b13d7c0fa3b835b0834955ed0f93d8"><div class="ttname"><a href="../../db/dd9/a00179.html#a80b13d7c0fa3b835b0834955ed0f93d8">GetClosestGameObjectWithEntry</a></div><div class="ttdeci">GameObject * GetClosestGameObjectWithEntry(WorldObject *source, uint32 entry, float maxSearchRange, bool onlySpawned)</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.cpp:892</div></div>
+<div class="ttc" id="aa00803_html_a54eb9ac4fb3942c956544c22e84743d4"><div class="ttname"><a href="../../d5/d72/a00803.html#a54eb9ac4fb3942c956544c22e84743d4">INTERACTION_DISTANCE</a></div><div class="ttdeci">#define INTERACTION_DISTANCE</div><div class="ttdef"><b>Definition:</b> ObjectDefines.h:24</div></div>
+<div class="ttc" id="aa02396_html_a61aa1bf847260f3b69320f14a98eb057a09fae02b8c393729769fda6c507d80ab"><div class="ttname"><a href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a09fae02b8c393729769fda6c507d80ab">GO_NAGA_BRAZIER</a></div><div class="ttdeci">@ GO_NAGA_BRAZIER</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:38</div></div>
+<div class="ttc" id="aa02396_html_a61aa1bf847260f3b69320f14a98eb057a513450df3bcff9f9b4909822f155d70d"><div class="ttname"><a href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a513450df3bcff9f9b4909822f155d70d">SAY_MUG_RETURN</a></div><div class="ttdeci">@ SAY_MUG_RETURN</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:34</div></div>
+<div class="ttc" id="aa02396_html_a61aa1bf847260f3b69320f14a98eb057a6d2374968adcf8d86491777fc2307c10"><div class="ttname"><a href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057a6d2374968adcf8d86491777fc2307c10">SAY_MUG_PATROL</a></div><div class="ttdeci">@ SAY_MUG_PATROL</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:33</div></div>
+<div class="ttc" id="aa02396_html_a61aa1bf847260f3b69320f14a98eb057aa6ecd378ab24d862f8be4be085be2ac1"><div class="ttname"><a href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057aa6ecd378ab24d862f8be4be085be2ac1">SAY_MUG_START2</a></div><div class="ttdeci">@ SAY_MUG_START2</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:26</div></div>
+<div class="ttc" id="aa02396_html_a61aa1bf847260f3b69320f14a98eb057aa75eb8f63b1e11239c3e7692821201a5"><div class="ttname"><a href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057aa75eb8f63b1e11239c3e7692821201a5">SAY_MUG_BRAZIER</a></div><div class="ttdeci">@ SAY_MUG_BRAZIER</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:27</div></div>
+<div class="ttc" id="aa02396_html_a61aa1bf847260f3b69320f14a98eb057ab4abdfdeeb30fa160aa35ae49a25ef63"><div class="ttname"><a href="../../d5/d10/a02396.html#a61aa1bf847260f3b69320f14a98eb057ab4abdfdeeb30fa160aa35ae49a25ef63">SAY_MUG_GRATITUDE</a></div><div class="ttdeci">@ SAY_MUG_GRATITUDE</div><div class="ttdef"><b>Definition:</b> zone_ashenvale.cpp:32</div></div>
+<div class="ttc" id="aa04100_html_a7716f26c46ee49831358c2993e79582fa923ad52f14738a794626655f6b1109c9"><div class="ttname"><a href="../../d1/da3/a04100.html#a7716f26c46ee49831358c2993e79582fa923ad52f14738a794626655f6b1109c9">GO_FLAG_NOT_SELECTABLE</a></div><div class="ttdeci">@ GO_FLAG_NOT_SELECTABLE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1618</div></div>
+<div class="ttc" id="aa08224_html"><div class="ttname"><a href="../../d7/d3b/a08224.html">GameObject</a></div><div class="ttdef"><b>Definition:</b> GameObject.h:120</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00892">GetClosestGameObjectWithEntry()</a>, <a class="el" href="../../#l00113">npc_escortAI::GetPlayerForEscort()</a>, <a class="el" href="../../#l01618">GO_FLAG_NOT_SELECTABLE</a>, <a class="el" href="../../#l00038">GO_NAGA_BRAZIER</a>, <a class="el" href="../../#l00024">INTERACTION_DISTANCE</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00036">QUEST_VORSHA</a>, <a class="el" href="../../#l00027">SAY_MUG_BRAZIER</a>, <a class="el" href="../../#l00032">SAY_MUG_GRATITUDE</a>, <a class="el" href="../../#l00033">SAY_MUG_PATROL</a>, <a class="el" href="../../#l00034">SAY_MUG_RETURN</a>, <a class="el" href="../../#l00026">SAY_MUG_START2</a>, and <a class="el" href="../../#l00486">npc_escortAI::SetEscortPaused()</a>.</p>
+
+</div>
+</div>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="aeec098d6a65b6852598a4e4b6888a410" name="aeec098d6a65b6852598a4e4b6888a410"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeec098d6a65b6852598a4e4b6888a410">&#9670;&#160;</a></span>_isBrazierExtinguished</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool npc_muglash::npc_muglashAI::_isBrazierExtinguished</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00086">DoAction()</a>, <a class="el" href="../../#l00079">Reset()</a>, and <a class="el" href="../../#l00185">UpdateAI()</a>.</p>
+
+</div>
+</div>
+<a id="a548e142bb509b4606b6fcf98d926cd44" name="a548e142bb509b4606b6fcf98d926cd44"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a548e142bb509b4606b6fcf98d926cd44">&#9670;&#160;</a></span>eventTimer</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> npc_muglash::npc_muglashAI::eventTimer</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00079">Reset()</a>, and <a class="el" href="../../#l00185">UpdateAI()</a>.</p>
+
+</div>
+</div>
+<a id="a06c0af398e53b5ea6bfd6fa80256f845" name="a06c0af398e53b5ea6bfd6fa80256f845"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a06c0af398e53b5ea6bfd6fa80256f845">&#9670;&#160;</a></span>waveId</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> npc_muglash::npc_muglashAI::waveId</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00161">DoWaveSummon()</a>, <a class="el" href="../../#l00079">Reset()</a>, and <a class="el" href="../../#l00185">UpdateAI()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -808,8 +1203,8 @@ Additional Inherited Members</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d1/d6a/a15492.html">npc_ahnqiraji_critter</a></li>
-    <li class="footer">Generated on Mon Nov 3 2025 20:47:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d1/d7e/a15488.html">npc_muglash</a></li><li class="navelem"><a class="el" href="../../d1/d6a/a15492.html">npc_muglashAI</a></li>
+    <li class="footer">Generated on Mon Nov 10 2025 20:53:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

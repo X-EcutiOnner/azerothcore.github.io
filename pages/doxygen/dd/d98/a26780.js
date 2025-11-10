@@ -1,7 +1,8 @@
 var a26780 =
 [
-    [ "HandleDummy", "dd/d98/a26780.html#ab046ef0adc63c32a153ba4ea866f8dcd", null ],
-    [ "PrepareSpellScript", "dd/d98/a26780.html#ac293d1c1aac41808f81cad2974424c2e", null ],
-    [ "Register", "dd/d98/a26780.html#ab145e1826eb63d0b6b1ea39a6c3c4d36", null ],
-    [ "Validate", "dd/d98/a26780.html#aa725a6ee483dfac46724d291de4ee54b", null ]
+    [ "CheckCast", "dd/d98/a26780.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
+    [ "CheckQuest", "dd/d98/a26780.html#abc927d932c1d5e05eab1918364d68ed5", null ],
+    [ "HandleActiveObject", "dd/d98/a26780.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
+    [ "PrepareSpellScript", "dd/d98/a26780.html#a96e69476965cc2466213a5371a57093a", null ],
+    [ "Register", "dd/d98/a26780.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
 ];

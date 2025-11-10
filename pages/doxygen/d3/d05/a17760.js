@@ -1,8 +1,6 @@
 var a17760 =
 [
-    [ "ResetEncounterEvent", "d3/d05/a17760.html#aaa1bc6d3d529524df6b0ed6be6e0966f", null ],
-    [ "Execute", "d3/d05/a17760.html#ae8d52fc7c0689620bcef8c04643191f5", null ],
-    [ "_caster", "d3/d05/a17760.html#abb37778222749b27791baa329e268c32", null ],
-    [ "_otherTransport", "d3/d05/a17760.html#a7f2d0aaade5833381e3e7624745fc504", null ],
-    [ "_spellId", "d3/d05/a17760.html#ad4c57e519201e15e23e0f56f4fbe70cb", null ]
+    [ "npc_zafod_boomboxAI", "db/dc1/a17764.html", "db/dc1/a17764" ],
+    [ "npc_zafod_boombox", "d3/d05/a17760.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
+    [ "GetAI", "d3/d05/a17760.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
 ];

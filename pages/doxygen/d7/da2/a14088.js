@@ -1,7 +1,14 @@
 var a14088 =
 [
-    [ "HandleScript", "d7/da2/a14088.html#ac45614416a710794b3e3a5cee239e28a", null ],
-    [ "PrepareSpellScript", "d7/da2/a14088.html#a832aee6557e27bfa418957297a05bea3", null ],
-    [ "Register", "d7/da2/a14088.html#a2f5d255de09818203e498c0090bdd3fb", null ],
-    [ "Validate", "d7/da2/a14088.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
+    [ "npc_harrison_jones", "d7/da2/a14088.html#ae408c9533166f8919c121053a3efff6c", null ],
+    [ "DoAction", "d7/da2/a14088.html#a2ecf8a9f807e879530ee6a094475e67b", null ],
+    [ "JustEngagedWith", "d7/da2/a14088.html#a884e5973ed597eeeb606f5b8a2b1c028", null ],
+    [ "MovementInform", "d7/da2/a14088.html#a5ee27ccc1aea33ecc8aee5b703e05174", null ],
+    [ "OpenMassiveGateAndCallGuards", "d7/da2/a14088.html#a8f15098ad66e2d13ddfababc2ad2e33b", null ],
+    [ "Reset", "d7/da2/a14088.html#a11b1b2da283ddaa475f3f42534702f5b", null ],
+    [ "sGossipSelect", "d7/da2/a14088.html#ae56b80041fa198063a9ce87729142420", null ],
+    [ "SpellHit", "d7/da2/a14088.html#ad3ead59986b9340529bb6c6f42dbc137", null ],
+    [ "UpdateAI", "d7/da2/a14088.html#a0c64f294257e98522e0f32171aee6080", null ],
+    [ "_instance", "d7/da2/a14088.html#adb995a4b18607a5bd7555ce6989c2525", null ],
+    [ "_phase", "d7/da2/a14088.html#a1620b4f7407aa49c3e16876148c49ba7", null ]
 ];

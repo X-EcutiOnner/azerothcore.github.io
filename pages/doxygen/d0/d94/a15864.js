@@ -1,6 +1,7 @@
 var a15864 =
 [
-    [ "npc_twiggy_flatheadAI", "d9/d08/a15868.html", "d9/d08/a15868" ],
-    [ "npc_twiggy_flathead", "d0/d94/a15864.html#a36e8ae89c9138e1a88c84ecbfd694963", null ],
-    [ "GetAI", "d0/d94/a15864.html#a48c48994c199502bc3cfb96bf713bc5f", null ]
+    [ "npc_paoka_swiftmountainAI", "d0/d94/a15864.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "d0/d94/a15864.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "d0/d94/a15864.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "d0/d94/a15864.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
 ];

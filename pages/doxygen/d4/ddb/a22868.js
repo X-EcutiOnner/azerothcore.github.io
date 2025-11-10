@@ -1,8 +1,15 @@
 var a22868 =
 [
-    [ "boss_darkweaver_syth", "d4/ddb/a22868.html#a4f719165e07206c5a378412b3f82ff86", null ],
-    [ "JustDied", "d4/ddb/a22868.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
-    [ "JustEngagedWith", "d4/ddb/a22868.html#aaf6dab75e66734e930c5732749f3d69a", null ],
-    [ "KilledUnit", "d4/ddb/a22868.html#a1904c2596dd455f84625974beec4a2c8", null ],
-    [ "Reset", "d4/ddb/a22868.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
+    [ "boss_grandmaster_vorpil", "d4/ddb/a22868.html#a0196ae46acba9c640b6fdfe30ac63f31", null ],
+    [ "counterVoidSpawns", "d4/ddb/a22868.html#a7a7c5679fe784025423119dd31d0e6ef", null ],
+    [ "JustDied", "d4/ddb/a22868.html#ab492fff8a9a275c662b44eeff3300b90", null ],
+    [ "JustEngagedWith", "d4/ddb/a22868.html#af1e6da02cd33742efad568424cf32c4f", null ],
+    [ "JustSummoned", "d4/ddb/a22868.html#a8a661b495d7fca340f3bd291d34ab3fc", null ],
+    [ "KilledUnit", "d4/ddb/a22868.html#af7779029f926e6d1c805b2f6c78cfd06", null ],
+    [ "MoveInLineOfSight", "d4/ddb/a22868.html#adb24a3d337b64f37759a3a39802d7e27", null ],
+    [ "Reset", "d4/ddb/a22868.html#a6471121ee02a834591b36d03fae28672", null ],
+    [ "spawnVoidTraveler", "d4/ddb/a22868.html#aa842bc3d88d0a3a411dcba3711809956", null ],
+    [ "summonPortals", "d4/ddb/a22868.html#a7cbdb7e7652dcac799b6f59424c8e9fd", null ],
+    [ "sayHelp", "d4/ddb/a22868.html#a3c83e1f9305fc17aebb4ec5f16225e17", null ],
+    [ "sayIntro", "d4/ddb/a22868.html#a5dd0edce19b33a1dd87d5b6e4458949f", null ]
 ];

@@ -1,6 +1,9 @@
 var a17828 =
 [
-    [ "npc_gunship_mageAI", "d5/db8/a17832.html", "d5/db8/a17832" ],
-    [ "npc_gunship_mage", "d4/d2c/a17828.html#a52c7a072bd1426a1c22da84aa0640bca", null ],
-    [ "GetAI", "d4/d2c/a17828.html#a9a0bc091a6cf8bbc7d17cf3d3172e6ff", null ]
+    [ "CheckAreaTarget", "d4/d2c/a17828.html#afd45699e853a5b57f3e9ae7bc4165bfb", null ],
+    [ "HandleApply", "d4/d2c/a17828.html#a9ce86d32957af07313af379b4176d0b3", null ],
+    [ "HandleRemove", "d4/d2c/a17828.html#a04f449a062b20e6f9ebc35857a051ed3", null ],
+    [ "Load", "d4/d2c/a17828.html#aa10821981f3e80262850e5c46449d5d0", null ],
+    [ "PrepareAuraScript", "d4/d2c/a17828.html#ac98e9c47a7cb177c0624cda37d1836e2", null ],
+    [ "Register", "d4/d2c/a17828.html#ab5b7bc1cc347ea368a9f2753b4c020a7", null ]
 ];

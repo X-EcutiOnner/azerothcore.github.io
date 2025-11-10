@@ -1,7 +1,9 @@
 var a15872 =
 [
-    [ "npc_wizzlecrank_shredderAI", "d1/d97/a15876.html", "d1/d97/a15876" ],
-    [ "npc_wizzlecrank_shredder", "d9/d47/a15872.html#a56a29a61d6f1a5981019f6c059b4da64", null ],
-    [ "GetAI", "d9/d47/a15872.html#a5c42cc6d8cf2642333731138077af66e", null ],
-    [ "OnQuestAccept", "d9/d47/a15872.html#afcd5aaea5234b6510825d9ce5e809aa6", null ]
+    [ "npc_pluckyAI", "d9/d47/a15872.html#a490198dfcf06b04f7ee9a6a5354dec7e", null ],
+    [ "ReceiveEmote", "d9/d47/a15872.html#a4a4a09d6a462011154a8d871562dcaf5", null ],
+    [ "Reset", "d9/d47/a15872.html#a1a6c4a479bbbfced1ad17f2604bdba32", null ],
+    [ "UpdateAI", "d9/d47/a15872.html#a4775a736e3568940c1b92e0cdae4de4b", null ],
+    [ "NormFaction", "d9/d47/a15872.html#afd9c6fccf4c30b4fbc62bfa951665949", null ],
+    [ "ResetTimer", "d9/d47/a15872.html#ac9808c21666cd17b0603e7e67a61d015", null ]
 ];

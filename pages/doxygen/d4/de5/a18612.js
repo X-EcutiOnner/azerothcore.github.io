@@ -1,7 +1,6 @@
 var a18612 =
 [
-    [ "OnPeriodic", "d4/de5/a18612.html#adfbfcf4ad8671ca4eaa439705f7b6c2a", null ],
-    [ "PrepareAuraScript", "d4/de5/a18612.html#a5bb82c03f7c34e6febd3fe8aa57d4723", null ],
-    [ "Register", "d4/de5/a18612.html#a0fc7ca43a0d82058fc04277742231388", null ],
-    [ "Validate", "d4/de5/a18612.html#ae52c7c189a45a0bb5f3a627f502e3730", null ]
+    [ "npc_lk_wicked_spiritAI", "dd/d42/a18616.html", "dd/d42/a18616" ],
+    [ "npc_lk_wicked_spirit", "d4/de5/a18612.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
+    [ "GetAI", "d4/de5/a18612.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
 ];

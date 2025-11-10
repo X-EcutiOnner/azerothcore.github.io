@@ -1,7 +1,12 @@
 var a18668 =
 [
-    [ "AuraRemoveEvent", "d0/de3/a18668.html#a094b9437c7cadb465738daf5684c9725", null ],
-    [ "Execute", "d0/de3/a18668.html#a14ac906a0fcff86f61983c570b0bd6ad", null ],
-    [ "_spellId", "d0/de3/a18668.html#a6fad41839e07e9545859be7c3afcfc36", null ],
-    [ "_trigger", "d0/de3/a18668.html#aad8c27befc102dae6823d5d74fed50b4", null ]
+    [ "npc_the_lich_king_controllerAI", "d0/de3/a18668.html#a211c370e9c370e00fba3c83e51738886", null ],
+    [ "AttackStart", "d0/de3/a18668.html#a58e11746c14f6bbb1b5c56c1d0136d9f", null ],
+    [ "DoAction", "d0/de3/a18668.html#aaf940a0ca812d84dbde81fc7e41feaca", null ],
+    [ "JustSummoned", "d0/de3/a18668.html#aa610e24316505165cbb826ff5bece5c5", null ],
+    [ "MoveInLineOfSight", "d0/de3/a18668.html#a0ee33ab5733c12163e92213376e893e4", null ],
+    [ "Reset", "d0/de3/a18668.html#a2c4410cc2ad995452f742f79e8e4af8b", null ],
+    [ "UpdateAI", "d0/de3/a18668.html#a34a0295ad1a45a9bc060ff8595c22e14", null ],
+    [ "_events", "d0/de3/a18668.html#a90c3d818318004c7c21ec66d4d080615", null ],
+    [ "_instance", "d0/de3/a18668.html#a480a284881ba5f56bc6222607bd01a76", null ]
 ];

@@ -1,18 +1,6 @@
 var a22364 =
 [
-    [ "npc_blessed_bannerAI", "dd/dc5/a22364.html#a563cd394d72a900d735f8639074deae1", null ],
-    [ "JustDied", "dd/dc5/a22364.html#a06e0e0c1e673c13488bd47e130098915", null ],
-    [ "JustEngagedWith", "dd/dc5/a22364.html#abfdd9e554fbbe16f6058d5cb10394a84", null ],
-    [ "JustSummoned", "dd/dc5/a22364.html#a354921ca9a3603c48885a38a507347c4", null ],
-    [ "MoveInLineOfSight", "dd/dc5/a22364.html#a34a0a856a4a4c05954ba300d8031e374", null ],
-    [ "Reset", "dd/dc5/a22364.html#a6fe7e49f2077ed549a6406592aec345e", null ],
-    [ "UpdateAI", "dd/dc5/a22364.html#a8ca070c63dd48e22823ac26d11da75be", null ],
-    [ "events", "dd/dc5/a22364.html#a79b7fbee1492860fe64d42928e494e3d", null ],
-    [ "guidDalfors", "dd/dc5/a22364.html#a369a837b6fa57d0960f24d9ea629ed04", null ],
-    [ "guidHalof", "dd/dc5/a22364.html#aef28a7624fb88e65a7f79fe34c320a29", null ],
-    [ "guidMason", "dd/dc5/a22364.html#a05e6dc20409e2271de8fe4f4b3ae7bfa", null ],
-    [ "guidPriest", "dd/dc5/a22364.html#a25f4056b2d7fda02885f58502f809a9c", null ],
-    [ "HalofSpawned", "dd/dc5/a22364.html#a38e98094f05c09ea19a4f44771194b2e", null ],
-    [ "PhaseCount", "dd/dc5/a22364.html#a983110caf86d94374a299d7268f7458c", null ],
-    [ "Summons", "dd/dc5/a22364.html#a92d7543e31c5cb367379711cb767ebd6", null ]
+    [ "npc_mcmanus", "dd/dc5/a22364.html#a4e9da3fa22b74f51f72c58cbf22dc683", null ],
+    [ "OnGossipHello", "dd/dc5/a22364.html#acb8f8b9c10387c0bb45b7d68f7f9821f", null ],
+    [ "OnGossipSelect", "dd/dc5/a22364.html#a5e8c37ebcfa737ee3066ab8df3e453f8", null ]
 ];

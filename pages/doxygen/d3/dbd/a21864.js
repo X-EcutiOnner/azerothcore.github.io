@@ -1,10 +1,13 @@
 var a21864 =
 [
-    [ "npc_preparations_for_war_vehicle", "d3/dbd/a21864.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
-    [ "InitializeAI", "d3/dbd/a21864.html#a85eaba9e51498313f8498eaaf0e7d0d1", null ],
-    [ "MovementInform", "d3/dbd/a21864.html#ac78c5675b42563f46cc2af0f0c97bee0", null ],
-    [ "UpdateAI", "d3/dbd/a21864.html#ae40a23070d96ecf122e9de5571a845ef", null ],
-    [ "pointId", "d3/dbd/a21864.html#ae75d286eb6116b41adb346861b3c1365", null ],
-    [ "searchForShipTimer", "d3/dbd/a21864.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
-    [ "transportEntry", "d3/dbd/a21864.html#aa0083566387cd42750aaa56b1fa23fed", null ]
+    [ "npc_shandy_dalaranAI", "d3/dbd/a21864.html#ae93b853e4852ce71c4d588d4621b16a1", null ],
+    [ "Reset", "d3/dbd/a21864.html#a38f0630d4e18cea01de343afdcb96db3", null ],
+    [ "RollTask", "d3/dbd/a21864.html#acd1daa5bc99f281bd1ca78d4cdaf5a9e", null ],
+    [ "SetData", "d3/dbd/a21864.html#a5c8a0e6e0729d872c230aa72d41236a3", null ],
+    [ "UpdateAI", "d3/dbd/a21864.html#ac7c8e87b784d8738b8aacbcb58f471b1", null ],
+    [ "_aquanosGUID", "d3/dbd/a21864.html#aa1dfb61fbaae6ab2e25dd9779ec63ed1", null ],
+    [ "_canWash", "d3/dbd/a21864.html#af5b1aae6b2dd82c8199caedec3a8fdec", null ],
+    [ "_events", "d3/dbd/a21864.html#a3fbae63669c8382097b0bcb936301945", null ],
+    [ "_lCount", "d3/dbd/a21864.html#ad55bea5f33de226ff230f99059dc9ec3", null ],
+    [ "_lSource", "d3/dbd/a21864.html#a9e01cee4a79bfac56b1d1ecdac17ca3f", null ]
 ];

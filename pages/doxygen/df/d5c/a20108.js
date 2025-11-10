@@ -1,6 +1,7 @@
 var a20108 =
 [
-    [ "npc_thorims_hammerAI", "da/d80/a20112.html", "da/d80/a20112" ],
-    [ "npc_thorims_hammer", "df/d5c/a20108.html#a97cbcda73931e6119f8ab30fa4bb0806", null ],
-    [ "GetAI", "df/d5c/a20108.html#aaee92d115d112ebf590cf690de8c6667", null ]
+    [ "npc_storm_beacon_spawnAI", "df/d5c/a20108.html#a031c1941f177a18af58efcf4a1270654", null ],
+    [ "UpdateAI", "df/d5c/a20108.html#a249bf56b905ef0c8b34c737d95518c91", null ],
+    [ "_amount", "df/d5c/a20108.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
+    [ "_checkTimer", "df/d5c/a20108.html#a7fd6d449b6a20ba9463896244c513a67", null ]
 ];

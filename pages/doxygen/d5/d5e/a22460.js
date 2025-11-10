@@ -1,6 +1,6 @@
 var a22460 =
 [
-    [ "HandleScript", "d5/d5e/a22460.html#acb343eafcfddf6fedcdef26c9b86e0ec", null ],
-    [ "PrepareSpellScript", "d5/d5e/a22460.html#a5a4ce9453638d61fe52514240f0a9384", null ],
-    [ "Register", "d5/d5e/a22460.html#a889f931aaa37d3a283f4d585b384a68e", null ]
+    [ "npc_wild_wyrmAI", "d1/df4/a22464.html", "d1/df4/a22464" ],
+    [ "npc_wild_wyrm", "d5/d5e/a22460.html#abce8c3a368e75b4be5e05381f9eb722b", null ],
+    [ "GetAI", "d5/d5e/a22460.html#aedba91446fe12997047070f123d925d2", null ]
 ];

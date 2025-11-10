@@ -1,9 +1,6 @@
 var a26564 =
 [
-    [ "HandleAfterCast", "dd/d8a/a26564.html#ac08e632064c407346649f525d030d335", null ],
-    [ "HandleDummy", "dd/d8a/a26564.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
-    [ "Load", "dd/d8a/a26564.html#a177525c755b036a79263c0fa6fa4082e", null ],
-    [ "PrepareSpellScript", "dd/d8a/a26564.html#aed99b07a53068b19bddb4daff3449a52", null ],
-    [ "Register", "dd/d8a/a26564.html#a946e56a325d83656d9b43af80d065e45", null ],
-    [ "_triggerSpellId", "dd/d8a/a26564.html#a6697a22b684784853cb1999d41fcaaa7", null ]
+    [ "HandleScript", "dd/d8a/a26564.html#ae81570045d4984ee5682a0333b1b142d", null ],
+    [ "PrepareSpellScript", "dd/d8a/a26564.html#acb074781e07961998362349a7616fc4e", null ],
+    [ "Register", "dd/d8a/a26564.html#aaf41593da5ebb1118ccb10a5d4d32b26", null ]
 ];

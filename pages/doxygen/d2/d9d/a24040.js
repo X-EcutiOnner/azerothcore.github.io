@@ -1,5 +1,6 @@
 var a24040 =
 [
-    [ "npc_lord_sanguinar", "d2/d9d/a24040.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
-    [ "ScheduleEvents", "d2/d9d/a24040.html#af9231da98547875527a519c5884cbec0", null ]
+    [ "HandlePeriodic", "d2/d9d/a24040.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
+    [ "PrepareAuraScript", "d2/d9d/a24040.html#a75d72d196ded2ee109d0231d4342890a", null ],
+    [ "Register", "d2/d9d/a24040.html#a148013ea68bbc573bddc1c3639dba019", null ]
 ];

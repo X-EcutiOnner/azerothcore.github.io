@@ -1,8 +1,5 @@
 var a18368 =
 [
-    [ "FilterTargets", "d5/dc6/a18368.html#a14e392760361b95578bc95de10cdd8aa", null ],
-    [ "HandleForcedCast", "d5/dc6/a18368.html#afbf6d0ee66d192a81ed12f2e28e195f1", null ],
-    [ "PrepareSpellScript", "d5/dc6/a18368.html#a8bb53a933c5a2ec33966c6acd1a6da65", null ],
-    [ "Register", "d5/dc6/a18368.html#ac2105e66f692c6a991ac9190b1901505", null ],
-    [ "Validate", "d5/dc6/a18368.html#a1746786ad6daaac11aefd32e00c8d1ea", null ]
+    [ "FrozenThroneResetWorker", "d5/dc6/a18368.html#afd21e9c1449d4e391713256e197bc92b", null ],
+    [ "operator()", "d5/dc6/a18368.html#a7119548d30d760ae817a87cacf712cf6", null ]
 ];

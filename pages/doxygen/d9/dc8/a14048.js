@@ -1,7 +1,16 @@
 var a14048 =
 [
-    [ "HandleDispel", "d9/dc8/a14048.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "d9/dc8/a14048.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "d9/dc8/a14048.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "d9/dc8/a14048.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "boss_zuljin", "d9/dc8/a14048.html#a8acdf347d7f982c07614c89a101daae0", null ],
+    [ "EnterEvadeMode", "d9/dc8/a14048.html#a1b3da85aa5f4abac16256aa691d035a3", null ],
+    [ "EnterPhase", "d9/dc8/a14048.html#ae9970dba905b947a22c4ddf36bdcb656", null ],
+    [ "GetGUID", "d9/dc8/a14048.html#a29548891ef8efaa5d6baa384e7b9000a", null ],
+    [ "JustDied", "d9/dc8/a14048.html#a2e00e8311c0463a37de87668882ffeec", null ],
+    [ "JustEngagedWith", "d9/dc8/a14048.html#ab6854461a5116e94c9f0ca971a3f89ef", null ],
+    [ "KilledUnit", "d9/dc8/a14048.html#adf220cb760b77cfd09ed746705529064", null ],
+    [ "MovementInform", "d9/dc8/a14048.html#a61501941861f8838392fc8cdbe59feff", null ],
+    [ "Reset", "d9/dc8/a14048.html#a2fe7c0338eb4698cc0aae252f4b14f02", null ],
+    [ "SpawnAdds", "d9/dc8/a14048.html#a83eb0799a25f19eedddd96e609134778", null ],
+    [ "SpellHitTarget", "d9/dc8/a14048.html#aab3558edc5b90be23040077d88e21725", null ],
+    [ "_chargeTargetGUID", "d9/dc8/a14048.html#a3b26fe2e82019ea5ce110d2d0a78f47e", null ],
+    [ "_nextPhase", "d9/dc8/a14048.html#a4fc9983cb34313affa56c243a4164a4a", null ]
 ];

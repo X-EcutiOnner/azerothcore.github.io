@@ -1,6 +1,5 @@
 var a20504 =
 [
-    [ "npc_ulduar_iron_constructAI", "de/de7/a20508.html", "de/de7/a20508" ],
-    [ "npc_ulduar_iron_construct", "df/dcd/a20504.html#a56ddf4d4d290dbb15303419c1dab18da", null ],
-    [ "GetAI", "df/dcd/a20504.html#a7d46ba96b6f1968e35721d45c17b1a49", null ]
+    [ "achievement_ignis_shattered", "df/dcd/a20504.html#adbe893b0dd409eb3f10768f81f182f61", null ],
+    [ "OnCheck", "df/dcd/a20504.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
 ];

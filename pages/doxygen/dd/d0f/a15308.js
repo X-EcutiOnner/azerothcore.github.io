@@ -1,5 +1,9 @@
 var a15308 =
 [
-    [ "boss_yauj", "dd/d0f/a15308.html#a15ab7b6b35d29fb1552b11586163320e", null ],
-    [ "JustEngagedWith", "dd/d0f/a15308.html#a94a2fa960e6924bde9ba6934a56ed684", null ]
+    [ "npc_claw_tentacle", "dd/d0f/a15308.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
+    [ "JustDied", "dd/d0f/a15308.html#aa566b417d1b766668133dd1d6a58293f", null ],
+    [ "JustEngagedWith", "dd/d0f/a15308.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
+    [ "Reset", "dd/d0f/a15308.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
+    [ "UpdateAI", "dd/d0f/a15308.html#ae7d521445680167add653717c7ae4c86", null ],
+    [ "_portalGUID", "dd/d0f/a15308.html#ab979781a8f77267348595cfa17341bae", null ]
 ];

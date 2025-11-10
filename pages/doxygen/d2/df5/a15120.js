@@ -1,22 +1,12 @@
 var a15120 =
 [
-    [ "boss_onyxia", "d2/df5/a15120.html#ab46b86e0eeee3918d1308a1fdb48e22f", null ],
-    [ "CheckInRoom", "d2/df5/a15120.html#a4278354db54db2190f8e5639d51f180e", null ],
-    [ "DamageTaken", "d2/df5/a15120.html#abf2607b4eb644bd42edc9e723ec92ef4", null ],
-    [ "DoAction", "d2/df5/a15120.html#a9e6a94b225caf455f9072c3a430ba49e", null ],
-    [ "HandleWhelpSpam", "d2/df5/a15120.html#aa03a986845d79dba3c60446d84ec7189", null ],
-    [ "Initialize", "d2/df5/a15120.html#ae64cfe5c532c4eae8e76c4ddd845e278", null ],
-    [ "JustEngagedWith", "d2/df5/a15120.html#a1dff56a293babebe82b3947c53a1e0e9", null ],
-    [ "JustSummoned", "d2/df5/a15120.html#a424a1815a0f51097c184f7582f1b2f45", null ],
-    [ "MovementInform", "d2/df5/a15120.html#a1413f44b212b651f276ecb1e2f01c36a", null ],
-    [ "Reset", "d2/df5/a15120.html#a837fb19b4c85d87ebf026b2f692696bb", null ],
-    [ "SetPhase", "d2/df5/a15120.html#a7b0df8fb7524d223c14f360c2eb9e282", null ],
-    [ "SpellHitTarget", "d2/df5/a15120.html#ace3d7dd677a4716e13f4c0c1c5944471", null ],
-    [ "UpdateAI", "d2/df5/a15120.html#ad04fc48bd1aa5ffa5570c0e44b2a112c", null ],
-    [ "bManyWhelpsAvailable", "d2/df5/a15120.html#a78565986741d7225de01c283613ba8f2", null ],
-    [ "CurrentWP", "d2/df5/a15120.html#a1b1544c5aea342607a8bc83b49396340", null ],
-    [ "Phase", "d2/df5/a15120.html#a3b10bf8659039752648b2035da7808d6", null ],
-    [ "whelpCount", "d2/df5/a15120.html#a447ca146d4fad7506a274dea1068ec84", null ],
-    [ "whelpSpam", "d2/df5/a15120.html#ab465e9d7dd63ca51559b9b8f1ed9921e", null ],
-    [ "whelpSpamTimer", "d2/df5/a15120.html#a0990000f7fd0041b8da642d1dd714406", null ]
+    [ "instance_razorfen_downs_InstanceMapScript", "d2/df5/a15120.html#a04d36b66a5570d03bb95ef2225a5c902", null ],
+    [ "GetData", "d2/df5/a15120.html#a3d1611870945cd0c8cd7d4e7728cfd84", null ],
+    [ "Initialize", "d2/df5/a15120.html#aed9ab9542badb0296ca0660c39541cb8", null ],
+    [ "OnGameObjectCreate", "d2/df5/a15120.html#a567ac5d9a17514ede5b84c5d78204072", null ],
+    [ "ReadSaveDataMore", "d2/df5/a15120.html#a7d6fefed563b0b9763b9c63136c65952", null ],
+    [ "SetData", "d2/df5/a15120.html#a1dfd39d65b16bb6e1373fe83ba4053c5", null ],
+    [ "WriteSaveDataMore", "d2/df5/a15120.html#ae5cd5cf84e8db976f3006dc52bb5fab4", null ],
+    [ "_firesState", "d2/df5/a15120.html#a74809429d3d2b1db5374dacf34d8a1b7", null ],
+    [ "_gongPhase", "d2/df5/a15120.html#a23485a35f0aa2f2ffad53398882d163a", null ]
 ];

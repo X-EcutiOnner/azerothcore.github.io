@@ -1,5 +1,6 @@
 var a14272 =
 [
-    [ "npc_brain_wash_totem", "d8/df4/a14272.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
-    [ "EnterEvadeMode", "d8/df4/a14272.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
+    [ "OnRemove", "d8/df4/a14272.html#a2a745fd8afa0d3d18684a9b8b091eb7e", null ],
+    [ "PrepareAuraScript", "d8/df4/a14272.html#a01eb4b37925b9c2fb8ce82d9808c270f", null ],
+    [ "Register", "d8/df4/a14272.html#ad2ae9bfa13c625608af9042584a9bfb8", null ]
 ];

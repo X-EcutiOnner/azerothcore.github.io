@@ -1,4 +1,5 @@
 var a18932 =
 [
-    [ "operator()", "db/ddf/a18932.html#a57b4f62b35a093665bb32073a086b8c5", null ]
+    [ "at_icc_start_frostwing_gauntlet", "db/ddf/a18932.html#a285cd9046d5658fc5d917c3427bbbe83", null ],
+    [ "OnTrigger", "db/ddf/a18932.html#a7137166f281876f00d4e03c846875d85", null ]
 ];

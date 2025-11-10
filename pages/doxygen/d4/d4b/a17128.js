@@ -1,11 +1,13 @@
 var a17128 =
 [
-    [ "boss_frostsworn_generalAI", "d4/d4b/a17128.html#afd3e486cd9a0ac18d10675f40f7f6314", null ],
-    [ "EnterEvadeMode", "d4/d4b/a17128.html#a4f45facb49cb5c1a8b0565e87dccf50e", null ],
-    [ "JustDied", "d4/d4b/a17128.html#ac2653a5664c87045df16f2fdcf850edf", null ],
-    [ "JustEngagedWith", "d4/d4b/a17128.html#a64f2b0426491f1471c8cf653e94a2fa2", null ],
-    [ "Reset", "d4/d4b/a17128.html#a8333b3f2637f029de4182ca16e2fb634", null ],
-    [ "UpdateAI", "d4/d4b/a17128.html#aea65a8fab859db4396690d846d10f5a1", null ],
-    [ "events", "d4/d4b/a17128.html#a4e5c714486cdba1fc4a6db609d8b6a97", null ],
-    [ "pInstance", "d4/d4b/a17128.html#a01cc3db24e03600501b9980aa966ad7d", null ]
+    [ "npc_hor_leader_secondAI", "d4/d4b/a17128.html#a54a5094dc533755efc249ebc96663b62", null ],
+    [ "DamageTaken", "d4/d4b/a17128.html#ae534779315b04b3dde495b13a1cb28e4", null ],
+    [ "DoAction", "d4/d4b/a17128.html#a4185259006017e85fade721796851dd0", null ],
+    [ "MovementInform", "d4/d4b/a17128.html#afe93165a3e96496b52a2be8de5022164", null ],
+    [ "MoveToNextStopPoint", "d4/d4b/a17128.html#a6d9f65386d6f40a5cf96b09ecaf54871", null ],
+    [ "Reset", "d4/d4b/a17128.html#ae5d125deab31e6425e94b4523d8251eb", null ],
+    [ "UpdateAI", "d4/d4b/a17128.html#ae991e18a6729a1b088c60060802c01c2", null ],
+    [ "currentStopPoint", "d4/d4b/a17128.html#ae4bf31530e701f9e0aa4f253452f9881", null ],
+    [ "events", "d4/d4b/a17128.html#a3510e246908f4e5b758e05ca06a29e47", null ],
+    [ "pInstance", "d4/d4b/a17128.html#a32cebea12e13c87b45dd2a4c6cf495e5", null ]
 ];

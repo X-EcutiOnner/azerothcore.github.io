@@ -1,8 +1,7 @@
 var a14060 =
 [
-    [ "FilterTargets", "d9/d6c/a14060.html#a43e45471ad3b8a0583aeb413d48a0f01", null ],
-    [ "OnHit", "d9/d6c/a14060.html#ac25886536c353f09838188362fb8ae84", null ],
-    [ "PrepareSpellScript", "d9/d6c/a14060.html#aab0e63163b8d84f20bbe0bcdc60c9a85", null ],
-    [ "Register", "d9/d6c/a14060.html#afa419365236c09914f758846978e2cbb", null ],
-    [ "Validate", "d9/d6c/a14060.html#ae62334ed5f46641def4a38ee178cd9d0", null ]
+    [ "HandleScript", "d9/d6c/a14060.html#ac45614416a710794b3e3a5cee239e28a", null ],
+    [ "PrepareSpellScript", "d9/d6c/a14060.html#a832aee6557e27bfa418957297a05bea3", null ],
+    [ "Register", "d9/d6c/a14060.html#a2f5d255de09818203e498c0090bdd3fb", null ],
+    [ "Validate", "d9/d6c/a14060.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
 ];

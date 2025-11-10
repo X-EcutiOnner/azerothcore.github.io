@@ -1,15 +1,10 @@
 var a15084 =
 [
-    [ "npc_time_rift", "d1/dbb/a15084.html#ab553bcc40699a63310feaaa7b1bd2604", null ],
-    [ "DoSelectSummon", "d1/dbb/a15084.html#af2932c60efaea64d27d52b118b9a8095", null ],
-    [ "DoSummonAtRift", "d1/dbb/a15084.html#a6cb4717848efe7e5e0b0113a9ff7dcb5", null ],
-    [ "JustSummoned", "d1/dbb/a15084.html#a1d96b081db3cb2a9c40f5adb1c9b109d", null ],
-    [ "Reset", "d1/dbb/a15084.html#ad08ca716f120a45ee1688e03d2049aba", null ],
-    [ "SummonedCreatureDies", "d1/dbb/a15084.html#ae0ebd0268454ac0cac83235afd7f6363", null ],
-    [ "UpdateAI", "d1/dbb/a15084.html#ab5924378c7978c6fae95f9861040c63d", null ],
-    [ "_events", "d1/dbb/a15084.html#a12ffd459f8d63f299269da5b65f60128", null ],
-    [ "_instance", "d1/dbb/a15084.html#a8eab9c3011c885321d59e2884318d0e8", null ],
-    [ "_riftKeeperGUID", "d1/dbb/a15084.html#ad554d8266ded70cadd8c00a3ff5a3321", null ],
-    [ "waveMobIndex", "d1/dbb/a15084.html#aa312223ece9f0f1c4ac2861aed3988a9", null ],
-    [ "waveMobs", "d1/dbb/a15084.html#a7872706f9b5bdee7e6ca2d94e39e592f", null ]
+    [ "instance_maraudon_InstanceMapScript", "d1/dbb/a15084.html#a9c46508320d3973006561444feae0586", null ],
+    [ "Initialize", "d1/dbb/a15084.html#a61cb2b2bf09bb997457bc01a41e092e9", null ],
+    [ "OnGameObjectCreate", "d1/dbb/a15084.html#a3a287b97db58c3489815f20ee0d37977", null ],
+    [ "ReadSaveDataMore", "d1/dbb/a15084.html#ac2cd336874b25ad20dac104037de1df5", null ],
+    [ "SetData", "d1/dbb/a15084.html#a6e90bf60a076c164e432128f7ec62fba", null ],
+    [ "WriteSaveDataMore", "d1/dbb/a15084.html#a6e4072342e66689d343912de85e66b34", null ],
+    [ "_encounters", "d1/dbb/a15084.html#af2e752a791d75e50001060c4a9f18173", null ]
 ];

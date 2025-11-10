@@ -1,6 +1,13 @@
 var a13848 =
 [
-    [ "CheckProc", "d4/d20/a13848.html#af6d00234388ceb5d1c9acd8775c66788", null ],
-    [ "PrepareAuraScript", "d4/d20/a13848.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
-    [ "Register", "d4/d20/a13848.html#acad1e829a317d15e73549047ece67eda", null ]
+    [ "npc_ravenclaw_apparitionAI", "d4/d20/a13848.html#a2a8a6cdb3d74e55cc3d6786ebcfb5328", null ],
+    [ "EmoteCrowd", "d4/d20/a13848.html#a7a407c9b00bb24c4c3d057ec2a4b0fdc", null ],
+    [ "JustDied", "d4/d20/a13848.html#a88f9d4e72273f8f835e809b27d5b52d8", null ],
+    [ "JustSummoned", "d4/d20/a13848.html#a1ab2f2a6b0514d192a7962cf8315ee16", null ],
+    [ "SummonCrowd", "d4/d20/a13848.html#af3f6ea6094b82e06ce7ef2d4432bd88a", null ],
+    [ "UpdateAI", "d4/d20/a13848.html#ab3c6c27a31f12443efcad314cbfa1129", null ],
+    [ "events", "d4/d20/a13848.html#a27522107b5e1f54909294f800f26663f", null ],
+    [ "HasEnded", "d4/d20/a13848.html#a1b7a57b7204f51304ef05ee3d2265774", null ],
+    [ "summons", "d4/d20/a13848.html#a85cde0a9d4903c89b29f68318730ab7f", null ],
+    [ "TalkRNG", "d4/d20/a13848.html#a4b41f348e6756298d6a13b09fbf13fd0", null ]
 ];

@@ -1,25 +1,9 @@
 var a17640 =
 [
-    [ "boss_deathbringer_saurfangAI", "d8/d6e/a17640.html#a78cf4803f0808b401a4afea460db3b14", null ],
-    [ "AttackStart", "d8/d6e/a17640.html#a36f76d1ef31a57a0bf514fddf26915ae", null ],
-    [ "CanAIAttack", "d8/d6e/a17640.html#a11de329657e95d2306ea5e46e3bb0a62", null ],
-    [ "DamageTaken", "d8/d6e/a17640.html#a05a7e9991011be47b25e7b801546d1ae", null ],
-    [ "DoAction", "d8/d6e/a17640.html#ae5615db7a2b5e62ae000c27ac72300de", null ],
-    [ "EnterEvadeMode", "d8/d6e/a17640.html#a7a64e4cea46c418f5d5bdab375395619", null ],
-    [ "GetData", "d8/d6e/a17640.html#ac18af44a38a78e43d9754495da21dd17", null ],
-    [ "JustDied", "d8/d6e/a17640.html#a131b97a502d6b74f66eb84244bce30f6", null ],
-    [ "JustEngagedWith", "d8/d6e/a17640.html#ab4aace4aa38d8675f7dc6d782831579a", null ],
-    [ "JustReachedHome", "d8/d6e/a17640.html#a98ee80efda5186715d1a421706fd0cbe", null ],
-    [ "JustSummoned", "d8/d6e/a17640.html#ac4a283227cba48181cb440b77ded253f", null ],
-    [ "KilledUnit", "d8/d6e/a17640.html#a2caab02f8e131444887ce1870e995f55", null ],
-    [ "MoveInLineOfSight", "d8/d6e/a17640.html#a4a4e0b30eccb55e6c3bd4995f5a2b046", null ],
-    [ "MovementInform", "d8/d6e/a17640.html#a1c6e890d515f1e94b0f15201c507e1f5", null ],
-    [ "Reset", "d8/d6e/a17640.html#a8d60450b2e58a1da1e7c77833df80c12", null ],
-    [ "SpellHitTarget", "d8/d6e/a17640.html#a24c9f66fc424f16fb984a631c99a8096", null ],
-    [ "SummonedCreatureDespawn", "d8/d6e/a17640.html#ac371fbdd47841f4247d7d1a082fea20c", null ],
-    [ "UpdateAI", "d8/d6e/a17640.html#a8c97eac67a03f21c86e70ccd86d1cc9e", null ],
-    [ "_fallenChampionCastCount", "d8/d6e/a17640.html#abb61bde3297dae343db32cd689decbcb", null ],
-    [ "_frenzied", "d8/d6e/a17640.html#a947f97388142548dfa279218697d9347", null ],
-    [ "_introDone", "d8/d6e/a17640.html#ac45f8f405a06a256dbf5194c601699d8", null ],
-    [ "_transportCheckTimer", "d8/d6e/a17640.html#a83e7662a983666e77ab282a9ec96a93b", null ]
+    [ "CheckProc", "d8/d6e/a17640.html#a13426f7a45e9434f980b42f174b22da8", null ],
+    [ "HandlePeriodicTick", "d8/d6e/a17640.html#a6380b4d03e4c48cd1a1f89227a1ebae8", null ],
+    [ "HandleProc", "d8/d6e/a17640.html#abf744d64dae5835bff3877eeaa919af3", null ],
+    [ "PrepareAuraScript", "d8/d6e/a17640.html#a5836fb240ae612d36a9e80c88bebdc48", null ],
+    [ "Register", "d8/d6e/a17640.html#a1b72c10256365de71b8f9fadf5886338", null ],
+    [ "Validate", "d8/d6e/a17640.html#acc3a0e0ae60291646514c1ae6f41f421", null ]
 ];

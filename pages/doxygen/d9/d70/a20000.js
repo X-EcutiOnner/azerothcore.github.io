@@ -1,6 +1,9 @@
 var a20000 =
 [
-    [ "HandleInstaKill", "d9/d70/a20000.html#a9371a2cc86616fd04e47939d45f01cae", null ],
-    [ "PrepareSpellScript", "d9/d70/a20000.html#a38eed301f1db3ea7ac15b626e5927500", null ],
-    [ "Register", "d9/d70/a20000.html#a9aaf3e86a2c14ee79cc013b3978621ee", null ]
+    [ "npc_auriaya_sanctum_sentryAI", "d9/d70/a20000.html#afffb62c4db56bb4e7baa095ae75cd7e3", null ],
+    [ "JustEngagedWith", "d9/d70/a20000.html#aeeb0aa4667a110dabcc70d422ebd6de5", null ],
+    [ "Reset", "d9/d70/a20000.html#a5ab87ac858782cd7f05d9778ca3a6214", null ],
+    [ "UpdateAI", "d9/d70/a20000.html#ab1862b4bd4b4fdfaeac8ad9c52cc5ed6", null ],
+    [ "_ripFleshTimer", "d9/d70/a20000.html#a83920afb7f6930d780abd2d6fba2aa4c", null ],
+    [ "_savagePounceTimer", "d9/d70/a20000.html#a9a6b14ece9a0bf812a04ea765b546735", null ]
 ];

@@ -1,8 +1,9 @@
 var a13452 =
 [
-    [ "npc_madrigosa", "d9/d20/a13452.html#a7624e25e00c1e7505ba171d0be40beb3", null ],
-    [ "DoAction", "d9/d20/a13452.html#aaf481ec840e679a9633bd3ecdb4eb3df", null ],
-    [ "UpdateAI", "d9/d20/a13452.html#a3431d13ea4ebd97d3fc6e542f89e033d", null ],
-    [ "events", "d9/d20/a13452.html#a5859e4c8454371eb71740616d4763c0e", null ],
-    [ "instance", "d9/d20/a13452.html#a09525d3bb35d1da4246bd84bbadea304", null ]
+    [ "spell_eredar_twins_apply_touch", "d9/d20/a13452.html#a1ffb6952cbbb79bb6a963ea57b8400aa", null ],
+    [ "HandleApplyTouch", "d9/d20/a13452.html#a200219828e22c35ef2f7c7a7fd61c973", null ],
+    [ "PrepareSpellScript", "d9/d20/a13452.html#a6e6c42042faa1a6cd82d4680d28587ae", null ],
+    [ "Register", "d9/d20/a13452.html#a8c49e8aeb1f00e8324aa4c1d420fb068", null ],
+    [ "Validate", "d9/d20/a13452.html#a36ff1d126191de7880d98242b3b714b5", null ],
+    [ "_touchSpell", "d9/d20/a13452.html#a9f8c58013add0fc5a05a78e1b90a32e1", null ]
 ];

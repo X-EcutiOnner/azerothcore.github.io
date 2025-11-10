@@ -1,6 +1,10 @@
 var a21500 =
 [
-    [ "instance_vault_of_archavon_InstanceMapScript", "dc/d40/a21504.html", "dc/d40/a21504" ],
-    [ "instance_vault_of_archavon", "d3/d34/a21500.html#a0be8d95ff0f3b751e6f833689e436310", null ],
-    [ "GetInstanceScript", "d3/d34/a21500.html#abb955a8873a3a3021e164225dd1f857a", null ]
+    [ "npc_erekem_guardAI", "d3/d34/a21500.html#a1ce40b70a35fc76e6ac0af449b7f4ded", null ],
+    [ "JustEngagedWith", "d3/d34/a21500.html#a93819c5c76821b1c9559be55359d677e", null ],
+    [ "MoveInLineOfSight", "d3/d34/a21500.html#aa1140892c13f4c070b1f3f1bf2230bb5", null ],
+    [ "Reset", "d3/d34/a21500.html#a079be6dd45e96184d66e95f031dc9c5f", null ],
+    [ "UpdateAI", "d3/d34/a21500.html#ab2c55e384f624b0f671e42e381aa3a37", null ],
+    [ "events", "d3/d34/a21500.html#a15afc8dd6d6e15fcd1a632728ad8d16e", null ],
+    [ "pInstance", "d3/d34/a21500.html#a81985b8522111f2aae540353cd5641fe", null ]
 ];

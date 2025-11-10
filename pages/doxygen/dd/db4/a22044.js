@@ -1,6 +1,6 @@
 var a22044 =
 [
-    [ "GhoulTargetCheck", "dd/db4/a22044.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
-    [ "operator()", "dd/db4/a22044.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
-    [ "_alive", "dd/db4/a22044.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
+    [ "npc_spiritual_insightAI", "dd/db4/a22044.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "dd/db4/a22044.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "dd/db4/a22044.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

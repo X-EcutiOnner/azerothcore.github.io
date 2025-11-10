@@ -1,5 +1,6 @@
 var a20268 =
 [
-    [ "boss_freya_iron_rootAI", "d7/dfd/a20268.html#a5e982f5f41433f43a7a0e1d18e009b7b", null ],
-    [ "JustDied", "d7/dfd/a20268.html#ad35297f0fa2039749b89d38c2b4f08b9", null ]
+    [ "boss_freya_nature_bombAI", "d0/de1/a20272.html", "d0/de1/a20272" ],
+    [ "boss_freya_nature_bomb", "d7/dfd/a20268.html#a18fa6ff862a1b367ac23eb1b7bda0ed4", null ],
+    [ "GetAI", "d7/dfd/a20268.html#a73e24282c6bb29cf3f6a7da14a4de582", null ]
 ];

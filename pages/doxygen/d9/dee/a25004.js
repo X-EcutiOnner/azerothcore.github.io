@@ -1,9 +1,7 @@
 var a25004 =
 [
-    [ "FilterTargets", "d9/dee/a25004.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
-    [ "PrepareSpellScript", "d9/dee/a25004.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
-    [ "Register", "d9/dee/a25004.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
-    [ "SetTargets", "d9/dee/a25004.html#ac77e95af9b08118e87e3329eab5515ea", null ],
-    [ "Validate", "d9/dee/a25004.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
-    [ "_targets", "d9/dee/a25004.html#acc66768f54c514552f0ab01274c24f17", null ]
+    [ "if", "d9/dee/a25004.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
+    [ "PrepareAuraScript", "d9/dee/a25004.html#a01d974333043452a37ec3124d23b49f2", null ],
+    [ "Register", "d9/dee/a25004.html#aeb6c695819e894aad8b210a237e6d315", null ],
+    [ "AuraEffectHandleModes", "d9/dee/a25004.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
 ];

@@ -1,6 +1,8 @@
 var a24100 =
 [
-    [ "HandleScriptEffect", "d2/ddf/a24100.html#a9a7f29cde26344fb9af222a69ddbd4fa", null ],
-    [ "PrepareSpellScript", "d2/ddf/a24100.html#af475c0968aabaf56e8ca38950ad651f0", null ],
-    [ "Register", "d2/ddf/a24100.html#a86cd62582cc8b7c7fa10e0cd2da63822", null ]
+    [ "boss_mechano_lord_capacitus", "d2/ddf/a24100.html#ab5867184d4e50a89a1afe25eb40e6bc3", null ],
+    [ "JustDied", "d2/ddf/a24100.html#a596314e7aebcc9e2e7311b4e0850b817", null ],
+    [ "JustEngagedWith", "d2/ddf/a24100.html#a4aa9ee50a942fe123acfdeee0350fa2d", null ],
+    [ "JustSummoned", "d2/ddf/a24100.html#a9a0b2cac08002db63162f95b9476c251", null ],
+    [ "KilledUnit", "d2/ddf/a24100.html#a6a408c654f91a44a40b3df52c0f2b093", null ]
 ];

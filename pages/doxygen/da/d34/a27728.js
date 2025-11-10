@@ -1,11 +1,8 @@
 var a27728 =
 [
-    [ "npc_artoriusAI", "da/d34/a27728.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
-    [ "DamageTaken", "da/d34/a27728.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
-    [ "DoAction", "da/d34/a27728.html#abbfc9ee752d97f1694dbd739719843c2", null ],
-    [ "JustEngagedWith", "da/d34/a27728.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
-    [ "Reset", "da/d34/a27728.html#a862cc52a9251e2dfe486f1152dae9500", null ],
-    [ "SpellHit", "da/d34/a27728.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
-    [ "UpdateAI", "da/d34/a27728.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
-    [ "events", "da/d34/a27728.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
+    [ "npc_franklinAI", "da/df9/a27732.html", "da/df9/a27732" ],
+    [ "npc_franklin", "da/d34/a27728.html#aab059dfa69e52083892e3170c8838e0a", null ],
+    [ "GetAI", "da/d34/a27728.html#a10933878afe9d0cc78fa1113341fd522", null ],
+    [ "OnGossipHello", "da/d34/a27728.html#a318d512914b135800caabe0efbb1c467", null ],
+    [ "OnGossipSelect", "da/d34/a27728.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
 ];

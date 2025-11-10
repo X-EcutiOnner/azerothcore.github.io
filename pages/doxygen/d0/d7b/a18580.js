@@ -1,12 +1,7 @@
 var a18580 =
 [
-    [ "npc_strangulate_vehicleAI", "d0/d7b/a18580.html#a58e79834ed3f463ad51eca703d1c99ef", null ],
-    [ "DoAction", "d0/d7b/a18580.html#acf9d5a9e2f8b07f5ceb5ca75634e58fb", null ],
-    [ "IsHeroic", "d0/d7b/a18580.html#adb6ae2cefeec245196d21dc1112b2d5c", null ],
-    [ "IsSummonedBy", "d0/d7b/a18580.html#a381aec40cdcdf546d70b57a43978dbe9", null ],
-    [ "OnCharmed", "d0/d7b/a18580.html#a40e5537897c452d35093920ddd3669b0", null ],
-    [ "PassengerBoarded", "d0/d7b/a18580.html#a819746e13af95fa964c6da3d765a7c21", null ],
-    [ "UpdateAI", "d0/d7b/a18580.html#a53f567b77b7dfd0ccb5a0d98c0f5ef26", null ],
-    [ "_events", "d0/d7b/a18580.html#a19b493e994d246128f63d9109e87737a", null ],
-    [ "_instance", "d0/d7b/a18580.html#a7a16fbe4723a95293db01d3a2d80b569", null ]
+    [ "HandleProc", "d0/d7b/a18580.html#af06730a865009127c7d3e5423afd4d44", null ],
+    [ "PrepareAuraScript", "d0/d7b/a18580.html#a71a81a19a0c543a4aa43d6bf002b7bb9", null ],
+    [ "Register", "d0/d7b/a18580.html#a6c97b787ce00491a259c575d26189f8c", null ],
+    [ "Validate", "d0/d7b/a18580.html#aed9c98e20d916359629e119d6dd2a94f", null ]
 ];

@@ -1,7 +1,6 @@
 var a22192 =
 [
-    [ "HandleAfterEffectApply", "db/db7/a22192.html#ab54795dc49ca453db40494a694158a98", null ],
-    [ "PrepareAuraScript", "db/db7/a22192.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
-    [ "Register", "db/db7/a22192.html#addd4fac4cc8a93d800abacb144e3303c", null ],
-    [ "Validate", "db/db7/a22192.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
+    [ "npc_attracted_reef_bullAI", "db/db7/a22192.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "db/db7/a22192.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "db/db7/a22192.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];

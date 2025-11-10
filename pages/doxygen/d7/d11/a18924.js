@@ -1,8 +1,5 @@
 var a18924 =
 [
-    [ "CountTargets", "d7/d11/a18924.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
-    [ "HandleScript", "d7/d11/a18924.html#af058a0c458463bdba4a4eb73aa91c113", null ],
-    [ "PrepareSpellScript", "d7/d11/a18924.html#a83b2fad7cdc189a17129e25a015952ff", null ],
-    [ "Register", "d7/d11/a18924.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
-    [ "Validate", "d7/d11/a18924.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
+    [ "at_icc_shutdown_traps", "d7/d11/a18924.html#aa13f5d78d3032e8114e9978f42468f64", null ],
+    [ "OnTrigger", "d7/d11/a18924.html#abb31b3f6d0b159b625d731ac47127005", null ]
 ];

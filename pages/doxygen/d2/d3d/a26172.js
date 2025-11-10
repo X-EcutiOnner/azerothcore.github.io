@@ -1,8 +1,8 @@
 var a26172 =
 [
-    [ "HandleScript", "d2/d3d/a26172.html#ad99c741ef4bf707ec4b4726a3610d827", null ],
-    [ "Load", "d2/d3d/a26172.html#ab7aac5c557c76fdd195565a99d746dc9", null ],
-    [ "PrepareSpellScript", "d2/d3d/a26172.html#abb6e76d537d61b5b38ce4488d230d6de", null ],
-    [ "Register", "d2/d3d/a26172.html#a2f7e819dfa30f4f0d3645fde9c87408c", null ],
-    [ "Validate", "d2/d3d/a26172.html#a0767c66cbc288bee6ee0eb3a4fde315f", null ]
+    [ "CheckQuest", "d2/d3d/a26172.html#ab7ebff0894832ac009cda89b7c28e252", null ],
+    [ "HandleDummy", "d2/d3d/a26172.html#a365df14504a54e95e7d68d22a284e441", null ],
+    [ "HandleOpenObject", "d2/d3d/a26172.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
+    [ "PrepareSpellScript", "d2/d3d/a26172.html#a479e313031a2e71473238d8f645bf2d4", null ],
+    [ "Register", "d2/d3d/a26172.html#a70f1a91e611cc2092aad44a909cd53db", null ]
 ];

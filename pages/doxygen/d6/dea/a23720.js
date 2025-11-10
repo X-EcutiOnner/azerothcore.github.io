@@ -1,10 +1,10 @@
 var a23720 =
 [
-    [ "boss_blindeye_the_seer", "d6/dea/a23720.html#a8b95c6f0a822adf018c5aefe59ecef5b", null ],
-    [ "JustDied", "d6/dea/a23720.html#ad70a72b18587da82d26bde8f10d63700", null ],
-    [ "JustEngagedWith", "d6/dea/a23720.html#a0cf082eefe75eac19cc09d2f714d5ff1", null ],
-    [ "Reset", "d6/dea/a23720.html#aabbda75266615f64ce88ce092e68bfa4", null ],
-    [ "UpdateAI", "d6/dea/a23720.html#a8ff8ae03cc528b9a2c71cfc2c7ff3f88", null ],
-    [ "_scheduler", "d6/dea/a23720.html#a0c5ec6cf114a289e22d890c61d4bdc93", null ],
-    [ "instance", "d6/dea/a23720.html#a74462f26d66da3ca370825858060b1c2", null ]
+    [ "boss_kelidan_the_breaker", "d6/dea/a23720.html#a6774e4a0315b30266f6c55da608cd193", null ],
+    [ "ApplyImmunities", "d6/dea/a23720.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
+    [ "DoAction", "d6/dea/a23720.html#a3fa0117ce1079f651025116684f5e2f4", null ],
+    [ "JustDied", "d6/dea/a23720.html#a4d3f0171b7889a96f19999b28e549866", null ],
+    [ "JustEngagedWith", "d6/dea/a23720.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
+    [ "KilledUnit", "d6/dea/a23720.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
+    [ "Reset", "d6/dea/a23720.html#a46c592f6c46ea568ad368702e1640e06", null ]
 ];

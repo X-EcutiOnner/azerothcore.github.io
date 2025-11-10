@@ -1,5 +1,6 @@
 var a21944 =
 [
-    [ "go_the_pearl_of_the_depths", "d9/dcf/a21944.html#a0e09ddcde0eef050400d90e9a268823a", null ],
-    [ "OnGossipHello", "d9/dcf/a21944.html#a745ea14136a78759a3afd7714c6d784a", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d4/d82/a21948.html", "d4/d82/a21948" ],
+    [ "npc_injured_7th_legion_soldier", "d9/dcf/a21944.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
+    [ "GetAI", "d9/dcf/a21944.html#a0feca7aedcf3c07253d4d402266189cc", null ]
 ];

@@ -1,7 +1,6 @@
 var a21868 =
 [
-    [ "npc_warmage_violetstand", "da/ddb/a21868.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "da/ddb/a21868.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "da/ddb/a21868.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "da/ddb/a21868.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_archmage_landalockAI", "d9/dbd/a21872.html", "d9/dbd/a21872" ],
+    [ "npc_archmage_landalock", "da/ddb/a21868.html#ac7379ff07740123312af66ead64df4c6", null ],
+    [ "GetAI", "da/ddb/a21868.html#a92cfa8c2660413681297bfe12815c938", null ]
 ];

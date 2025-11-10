@@ -1,8 +1,8 @@
 var a16540 =
 [
-    [ "npc_announcer_toc5AI", "d6/d76/a16540.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
-    [ "DamageTaken", "d6/d76/a16540.html#a53458483699ac026ff2cd36b5f061571", null ],
-    [ "MovementInform", "d6/d76/a16540.html#acdcf4110b3815635ad173a70e7a1e603", null ],
-    [ "Reset", "d6/d76/a16540.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
-    [ "UpdateAI", "d6/d76/a16540.html#ad2c596253d67d051f497a8d77859846d", null ]
+    [ "npc_frost_sphereAI", "d6/d76/a16540.html#ae697a98d23d94315768dc866852b6e07", null ],
+    [ "DamageTaken", "d6/d76/a16540.html#a3960f19b456f29a33016d799809a82a8", null ],
+    [ "SpellHit", "d6/d76/a16540.html#af842d47f1e8462fb6368e9dc7a070b84", null ],
+    [ "UpdateAI", "d6/d76/a16540.html#a4e866332045135c867f2b9ee871db0c2", null ],
+    [ "permafrostTimer", "d6/d76/a16540.html#adf7b1b447d0d05a498dd8603dbfab1ab", null ]
 ];

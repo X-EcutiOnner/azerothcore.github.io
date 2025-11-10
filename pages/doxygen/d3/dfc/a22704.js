@@ -1,13 +1,9 @@
 var a22704 =
 [
-    [ "OPvPCapturePointEP_EWT", "d3/dfc/a22704.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
-    [ "ChangeState", "d3/dfc/a22704.html#ac00c50b89e1218f87506778096a9d7cd", null ],
-    [ "FillInitialWorldStates", "d3/dfc/a22704.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
-    [ "HandlePlayerEnter", "d3/dfc/a22704.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
-    [ "HandlePlayerLeave", "d3/dfc/a22704.html#a2638b24dca375420778845963e307db3", null ],
-    [ "SendChangePhase", "d3/dfc/a22704.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
-    [ "SummonSupportUnitAtNorthpassTower", "d3/dfc/a22704.html#ad70a8cc485072cd9af892290584062d8", null ],
-    [ "UpdateTowerState", "d3/dfc/a22704.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
-    [ "m_TowerState", "d3/dfc/a22704.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
-    [ "m_UnitsSummonedSideId", "d3/dfc/a22704.html#a0319f0d51624df44419976e7abd1b813", null ]
+    [ "OPvPCapturePointGH", "d3/dfc/a22704.html#a6e46100e50212310af4301c492d5773e", null ],
+    [ "ChangeState", "d3/dfc/a22704.html#afe53e37a3a1dc4a7068c03302f26b981", null ],
+    [ "FillInitialWorldStates", "d3/dfc/a22704.html#a11d305d6f50ce2535bd5d7b2e7a3389f", null ],
+    [ "HandlePlayerEnter", "d3/dfc/a22704.html#afea733c44d129d9a5af78a8337d9e04a", null ],
+    [ "HandlePlayerLeave", "d3/dfc/a22704.html#a1e5d9c6f02eb02dfed654078c910635b", null ],
+    [ "SendChangePhase", "d3/dfc/a22704.html#aec741b9102829bf77850dc06a49bb8da", null ]
 ];

@@ -1,7 +1,7 @@
 var a16588 =
 [
-    [ "HandleEffectPeriodic", "d3/d14/a16588.html#a7d6d15b8eecfcfb4c36d6504920bd119", null ],
-    [ "PrepareAuraScript", "d3/d14/a16588.html#a4506f7d723b85c7555296f5ade11cd29", null ],
-    [ "Register", "d3/d14/a16588.html#aeac7e6abc89209e14451439cdf1d416e", null ],
-    [ "Validate", "d3/d14/a16588.html#a9d6f9cd0495de03878ed5137542ea89d", null ]
+    [ "npc_toc_shamanAI", "d3/d14/a16588.html#abd0b0e503c1bbc48aebb5923ec3f4291", null ],
+    [ "myCanCast", "d3/d14/a16588.html#a993739662d2687c27219853669b8a485", null ],
+    [ "UpdateAI", "d3/d14/a16588.html#a2ad17245685feb3f085ef9a669459c61", null ],
+    [ "events", "d3/d14/a16588.html#ab573ab0ee616348ccdb28b71255ac35d", null ]
 ];

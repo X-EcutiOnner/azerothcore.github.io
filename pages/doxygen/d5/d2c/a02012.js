@@ -1,10 +1,10 @@
 var a02012 =
 [
-    [ "PeonRoleplay", "da/d34/a23844.html", "da/d34/a23844" ],
-    [ "boss_grand_warlock_nethekurse", "d3/d00/a23848.html", "d3/d00/a23848" ],
-    [ "spell_tsh_shadow_bolt", "dc/dae/a23852.html", "dc/dae/a23852" ],
-    [ "spell_target_fissures", "da/d4e/a23856.html", "da/d4e/a23856" ],
-    [ "at_rp_nethekurse", "de/d09/a23860.html", "de/d09/a23860" ],
+    [ "PeonRoleplay", "d1/d36/a23816.html", "d1/d36/a23816" ],
+    [ "boss_grand_warlock_nethekurse", "d6/d0a/a23820.html", "d6/d0a/a23820" ],
+    [ "spell_tsh_shadow_bolt", "d8/daf/a23824.html", "d8/daf/a23824" ],
+    [ "spell_target_fissures", "d2/d36/a23828.html", "d2/d36/a23828" ],
+    [ "at_rp_nethekurse", "d4/dce/a23832.html", "d4/dce/a23832" ],
     [ "Actions", "d5/d2c/a02012.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d4/def/a00359.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "d4/def/a00359.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],
@@ -893,9 +893,6 @@ var a02012 =
       [ "EVENT_PLAGUE", "d1/d0c/a02666.html#af60e00b78607064c5be6aa9397ea49c1a0a4b8ce68896891bba96c3f966085581", null ],
       [ "EVENT_BROOD_RAGE", "d1/d0c/a02666.html#af60e00b78607064c5be6aa9397ea49c1a8abdafa350f5cf94d31f1e0776ed0630", null ],
       [ "EVENT_SWARMER", "d1/d0c/a02666.html#af60e00b78607064c5be6aa9397ea49c1a9c4ab4022f522cfde283f24299aa58ce", null ],
-      [ "EVENT_HERALD_MIND_FLAY", "df/de4/a02651.html#af60e00b78607064c5be6aa9397ea49c1a7fc0a708d1fb35eda35aebc202624487", null ],
-      [ "EVENT_HERALD_SHADOW", "df/de4/a02651.html#af60e00b78607064c5be6aa9397ea49c1ae1bcd15a1bfa0fdfdf92a2dfcd8b04b0", null ],
-      [ "EVENT_HERALD_SHIVER", "df/de4/a02651.html#af60e00b78607064c5be6aa9397ea49c1afede975d97d911ee40656b1d8d7603fe", null ],
       [ "EVENT_JEDOGA_CYCLONE", "da/de8/a02657.html#af60e00b78607064c5be6aa9397ea49c1ab819793fd4ba82484eb3a05ccf1003dd", null ],
       [ "EVENT_JEDOGA_LIGHTNING_BOLT", "da/de8/a02657.html#af60e00b78607064c5be6aa9397ea49c1a158cb5e42f1855dcab32a80ffb54612d", null ],
       [ "EVENT_JEDOGA_THUNDERSHOCK", "da/de8/a02657.html#af60e00b78607064c5be6aa9397ea49c1a8b70aec5dc132e97774cf66bb02a3183", null ],
@@ -3369,7 +3366,6 @@ var a02012 =
       [ "SPELL_FROSTBOLT", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e", null ],
       [ "SPELL_TOUCH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d", null ],
       [ "SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6", null ],
-      [ "SPELL_RAIN_OF_FIRE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca770475c37ddfbb0a8c98a0c8a7c98f0d", null ],
       [ "SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8", null ],
       [ "SPELL_EYE_BEAM", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc", null ],
       [ "SPELL_LIGHTNING_BREATH", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298caba0559b83dfa3b94464ac474a4b62e3e", null ],

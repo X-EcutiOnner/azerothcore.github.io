@@ -1,5 +1,9 @@
 var a19104 =
 [
-    [ "at_frozen_throne_teleport", "de/d15/a19104.html#a8065b9f9b55b267be1757775f84de349", null ],
-    [ "OnTrigger", "de/d15/a19104.html#ae1f9476b7f47320f545e702e9317bd03", null ]
+    [ "npc_isle_of_conquest_turretAI", "de/d15/a19104.html#a0a0f24af22e4c72e843970c0d5c1ff87", null ],
+    [ "JustDied", "de/d15/a19104.html#a88390da94298bea9c445bb422a806d23", null ],
+    [ "SpellHit", "de/d15/a19104.html#afc8b8a9be6b0908fcb83af57bef7a57a", null ],
+    [ "UpdateAI", "de/d15/a19104.html#a81c039a2a230b261967842161757b6f8", null ],
+    [ "events", "de/d15/a19104.html#aee0aa5a950b3743409fd3ae482bc94b8", null ],
+    [ "faction", "de/d15/a19104.html#aca941c070a97278c8ec27d7e6b4edede", null ]
 ];

@@ -1,8 +1,7 @@
 var a15604 =
 [
-    [ "npc_prospector_remtravelAI", "d9/d73/a15604.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
-    [ "JustEngagedWith", "d9/d73/a15604.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
-    [ "JustSummoned", "d9/d73/a15604.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
-    [ "Reset", "d9/d73/a15604.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
-    [ "WaypointReached", "d9/d73/a15604.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
+    [ "npc_aged_dying_ancient_kodoAI", "dd/d42/a15608.html", "dd/d42/a15608" ],
+    [ "npc_aged_dying_ancient_kodo", "d9/d73/a15604.html#a676170a319d3a8e46c9d017e61396c28", null ],
+    [ "GetAI", "d9/d73/a15604.html#a886bc82764e4ca6d98dc94ea73415375", null ],
+    [ "OnGossipHello", "d9/d73/a15604.html#a8489b3f23d8eca39f2750711512672e4", null ]
 ];

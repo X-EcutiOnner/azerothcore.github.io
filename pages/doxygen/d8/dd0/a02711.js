@@ -1,8 +1,8 @@
 var a02711 =
 [
-    [ "boss_gluth", "db/d3c/a19208.html", "db/d3c/a19208" ],
-    [ "boss_gluth::boss_gluthAI", "d2/df2/a19212.html", "d2/df2/a19212" ],
-    [ "spell_gluth_decimate", "d9/dc5/a19216.html", "d9/dc5/a19216" ],
+    [ "boss_gluth", "d7/d06/a19180.html", "d7/d06/a19180" ],
+    [ "boss_gluth::boss_gluthAI", "d7/d93/a19184.html", "d7/d93/a19184" ],
+    [ "spell_gluth_decimate", "d4/dd2/a19188.html", "d4/dd2/a19188" ],
     [ "Emotes", "d8/dd0/a02711.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "d9/d3c/a03650.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "d9/d3c/a03650.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],
@@ -467,9 +467,6 @@ var a02711 =
       [ "EVENT_PLAGUE", "d1/d0c/a02666.html#af60e00b78607064c5be6aa9397ea49c1a0a4b8ce68896891bba96c3f966085581", null ],
       [ "EVENT_BROOD_RAGE", "d1/d0c/a02666.html#af60e00b78607064c5be6aa9397ea49c1a8abdafa350f5cf94d31f1e0776ed0630", null ],
       [ "EVENT_SWARMER", "d1/d0c/a02666.html#af60e00b78607064c5be6aa9397ea49c1a9c4ab4022f522cfde283f24299aa58ce", null ],
-      [ "EVENT_HERALD_MIND_FLAY", "df/de4/a02651.html#af60e00b78607064c5be6aa9397ea49c1a7fc0a708d1fb35eda35aebc202624487", null ],
-      [ "EVENT_HERALD_SHADOW", "df/de4/a02651.html#af60e00b78607064c5be6aa9397ea49c1ae1bcd15a1bfa0fdfdf92a2dfcd8b04b0", null ],
-      [ "EVENT_HERALD_SHIVER", "df/de4/a02651.html#af60e00b78607064c5be6aa9397ea49c1afede975d97d911ee40656b1d8d7603fe", null ],
       [ "EVENT_JEDOGA_CYCLONE", "da/de8/a02657.html#af60e00b78607064c5be6aa9397ea49c1ab819793fd4ba82484eb3a05ccf1003dd", null ],
       [ "EVENT_JEDOGA_LIGHTNING_BOLT", "da/de8/a02657.html#af60e00b78607064c5be6aa9397ea49c1a158cb5e42f1855dcab32a80ffb54612d", null ],
       [ "EVENT_JEDOGA_THUNDERSHOCK", "da/de8/a02657.html#af60e00b78607064c5be6aa9397ea49c1a8b70aec5dc132e97774cf66bb02a3183", null ],
@@ -1514,7 +1511,6 @@ var a02711 =
       [ "ROOM_STAIRS", "dd/da3/a03026.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae2375df4683a40c95e9d73dc07b67971", null ],
       [ "ACTION_TURN_BONES", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac4df9037e576791a0e8cd7a86df7ebf3", null ],
       [ "EVENT_SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6acc06d07ea4bf758d5b40d8d015dfc0cf", null ],
-      [ "EVENT_SPELL_RAIN_OF_FIRE", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ae87b6da7fec02560956dd06ddc9c0e04", null ],
       [ "EVENT_SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aa006a8f2aa2c4e55f6a86c52b9ecbfed", null ],
       [ "EVENT_SPELL_EYE_BEAM", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7cfb962f489a01f1d7146a2ab0a5cb24", null ],
       [ "EVENT_SPELL_LIGHTNING_BREATH", "df/d3a/a03014.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6abde294ddbf63fb2a3f09c41a0a9f8971", null ],
@@ -3637,7 +3633,6 @@ var a02711 =
       [ "SPELL_FROSTBOLT", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e", null ],
       [ "SPELL_TOUCH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d", null ],
       [ "SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6", null ],
-      [ "SPELL_RAIN_OF_FIRE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca770475c37ddfbb0a8c98a0c8a7c98f0d", null ],
       [ "SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8", null ],
       [ "SPELL_EYE_BEAM", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc", null ],
       [ "SPELL_LIGHTNING_BREATH", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298caba0559b83dfa3b94464ac474a4b62e3e", null ],

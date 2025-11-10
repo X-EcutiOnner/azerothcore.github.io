@@ -1,6 +1,6 @@
 var a16900 =
 [
-    [ "HandleEffectApply", "d7/d98/a16900.html#aaea2c3733dadc19072c81774468e345a", null ],
-    [ "PrepareAuraScript", "d7/d98/a16900.html#a3848997e9f775add50d40342b6211ff0", null ],
-    [ "Register", "d7/d98/a16900.html#a775b1cf494049ed13d149ca6318142c3", null ]
+    [ "HandleScript", "d7/d98/a16900.html#a4786e0c38f03f7e671174d0641526681", null ],
+    [ "PrepareSpellScript", "d7/d98/a16900.html#a7d260468f409a7fb41a39f80db5f9d63", null ],
+    [ "Register", "d7/d98/a16900.html#a943117bfb56b846e99d04bd9a348af8d", null ]
 ];

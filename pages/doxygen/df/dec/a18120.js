@@ -1,7 +1,7 @@
 var a18120 =
 [
-    [ "HandleTriggerSpell", "df/dec/a18120.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
-    [ "OnRemove", "df/dec/a18120.html#a238adc96e80c1890934b23dd4a2685b4", null ],
-    [ "PrepareAuraScript", "df/dec/a18120.html#af9ce7433b620fdf1dea570561c514b3b", null ],
-    [ "Register", "df/dec/a18120.html#ab36a001ea8cd87703e2694e0765635c0", null ]
+    [ "HandleSummon", "df/dec/a18120.html#a8a96bd3a1b3cfaff09e05535eca927a9", null ],
+    [ "PrepareSpellScript", "df/dec/a18120.html#a0213cd8e5e79aba8ba80583ceda88b95", null ],
+    [ "Register", "df/dec/a18120.html#a01281869dc98a0af5027695391f1221f", null ],
+    [ "Validate", "df/dec/a18120.html#a26675411e5f86e6d31f62762a3fdcd70", null ]
 ];

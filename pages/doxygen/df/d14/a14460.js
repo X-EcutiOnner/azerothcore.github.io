@@ -1,7 +1,7 @@
 var a14460 =
 [
-    [ "npc_direbrew_minion", "df/d14/a14460.html#aaac7d1b1a464ea7ff1ec18ace11d54b7", null ],
-    [ "IsSummonedBy", "df/d14/a14460.html#a78d40e0f2a285b0b9c257f12876eabeb", null ],
-    [ "Reset", "df/d14/a14460.html#a21fb7a778e9025ca4185951460a96d08", null ],
-    [ "_instance", "df/d14/a14460.html#aeea9f455c014afa347ce0c3f106ebdb6", null ]
+    [ "PeriodicTick", "df/d14/a14460.html#ac8b584ffbb1a8787f70370d94586ed77", null ],
+    [ "PrepareAuraScript", "df/d14/a14460.html#a4e860850bbab0f14eb8a160bb5e6799e", null ],
+    [ "Register", "df/d14/a14460.html#a5def2685cedc4fb78c1a5c534c764ee9", null ],
+    [ "Validate", "df/d14/a14460.html#a68247c2afa553411fac34582e83635c9", null ]
 ];

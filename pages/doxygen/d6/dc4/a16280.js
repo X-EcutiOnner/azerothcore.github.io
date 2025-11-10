@@ -1,14 +1,14 @@
 var a16280 =
 [
-    [ "npc_onyx_flamecallerAI", "d6/dc4/a16280.html#aa0633855e57f6681cfc68a8dfee9a733", null ],
-    [ "AddWaypoints", "d6/dc4/a16280.html#a308b99ee4d07ed1de0cabd94dafd5dd8", null ],
-    [ "EnterEvadeMode", "d6/dc4/a16280.html#ac29163e2e69cffbf21249eb3828b5b72", null ],
-    [ "IsSummonedBy", "d6/dc4/a16280.html#afc6c4faffd83b2fa4ddbb4ae78b622d9", null ],
-    [ "JustEngagedWith", "d6/dc4/a16280.html#a3cba2cd9a920816bee993ae2986639a0", null ],
-    [ "Reset", "d6/dc4/a16280.html#a756a44feb79eb56f443ee16995a2566d", null ],
-    [ "UpdateEscortAI", "d6/dc4/a16280.html#aab57193b332fdde2dd237a9cb15a06c1", null ],
-    [ "WaypointReached", "d6/dc4/a16280.html#a8b510bce47929e85741f5debd857de8d", null ],
-    [ "_events", "d6/dc4/a16280.html#a9280b604135308078860c20667da9819", null ],
-    [ "_instance", "d6/dc4/a16280.html#a3fb01e6a8df3b8205f494f03faf8ace8", null ],
-    [ "_lavaGoutCount", "d6/dc4/a16280.html#a1f46c988316c1870f506a66f2390e79b", null ]
+    [ "npc_halion_controllerAI", "d6/dc4/a16280.html#aabe03dbe5652db6687e7f2857ea33a20", null ],
+    [ "DoAction", "d6/dc4/a16280.html#a8d295797e21c03e7d2c3d504c40ba128", null ],
+    [ "Reset", "d6/dc4/a16280.html#a3004aecb50815287d5f832f2a8a0d250", null ],
+    [ "SetData", "d6/dc4/a16280.html#a3ce9a62d3e44b3ccc279803d5ef87a47", null ],
+    [ "UpdateAI", "d6/dc4/a16280.html#ac3ad9df40560ba8acfcd7fbabd303fde", null ],
+    [ "UpdateCorporeality", "d6/dc4/a16280.html#ac82987f2b2b069b90c509c477004bae6", null ],
+    [ "_corporeality", "d6/dc4/a16280.html#a4c23df1bb774ac724bdf537453592671", null ],
+    [ "_events", "d6/dc4/a16280.html#a92e3f116260265a2d0dbeef769eee03e", null ],
+    [ "_instance", "d6/dc4/a16280.html#a5cce2f56e6ef0b4baeb6f2f7dbfd2f73", null ],
+    [ "_materialDamage", "d6/dc4/a16280.html#afcc510b0d4be10ed057d1a304b803b69", null ],
+    [ "_twilightDamage", "d6/dc4/a16280.html#a13a9efcb11ed31725c45011508407287", null ]
 ];

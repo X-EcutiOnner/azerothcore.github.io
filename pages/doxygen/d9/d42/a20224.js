@@ -1,7 +1,11 @@
 var a20224 =
 [
-    [ "achievement_flame_leviathan_garage", "d9/d42/a20224.html#a1893b4059d7212d023c45bb828bb1905", null ],
-    [ "OnCheck", "d9/d42/a20224.html#aa5897eb1fadeda4dda9f2390053d89b6", null ],
-    [ "_entry1", "d9/d42/a20224.html#af482d6c1b2681b9fec572281620a86b7", null ],
-    [ "_entry2", "d9/d42/a20224.html#a41e83b47c411dc6a6aff310ae7059f4e", null ]
+    [ "boss_freya_elder_brightleafAI", "d9/d42/a20224.html#a53de463d34b808b4c5d459e1339f6f30", null ],
+    [ "JustDied", "d9/d42/a20224.html#aeea7300081f645d3fa83df6841c5a497", null ],
+    [ "JustEngagedWith", "d9/d42/a20224.html#a956adeb9b6ea0c8fa71bdcbd3735c79d", null ],
+    [ "KilledUnit", "d9/d42/a20224.html#a47935d017a2d34a888acb4079d3ff9aa", null ],
+    [ "Reset", "d9/d42/a20224.html#aee11d2e1fad8bc1b18c17b1527610914", null ],
+    [ "UpdateAI", "d9/d42/a20224.html#af28f94f278d279513d7f72cdc36528d4", null ],
+    [ "events", "d9/d42/a20224.html#a45b4f0d12497dd8e3ffc1cde429116f6", null ],
+    [ "summons", "d9/d42/a20224.html#a456123135a7fb4595d611a9e3995f461", null ]
 ];

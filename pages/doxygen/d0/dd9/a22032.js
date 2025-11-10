@@ -1,6 +1,6 @@
 var a22032 =
 [
-    [ "SACDeactivateEvent", "d0/dd9/a22032.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
-    [ "Execute", "d0/dd9/a22032.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
-    [ "_owner", "d0/dd9/a22032.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
+    [ "npc_q24545_vegardAI", "d7/dbe/a22036.html", "d7/dbe/a22036" ],
+    [ "npc_q24545_vegard", "d0/dd9/a22032.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
+    [ "GetAI", "d0/dd9/a22032.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
 ];

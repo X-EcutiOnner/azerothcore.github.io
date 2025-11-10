@@ -1,6 +1,6 @@
 var a18100 =
 [
-    [ "HandleScript", "d6/d29/a18100.html#aefdd306b81b44a0a5564eab5a0491e09", null ],
-    [ "PrepareSpellScript", "d6/d29/a18100.html#a68c0462bd108b04621f8288328f78b18", null ],
-    [ "Register", "d6/d29/a18100.html#aedaec0afc414800bc481a434592ffb5d", null ]
+    [ "HandlePeriodic", "d6/d29/a18100.html#a9583ccd7b642694a06bde4b88826ec7b", null ],
+    [ "PrepareAuraScript", "d6/d29/a18100.html#a5d855d79247dff6f949a5e099abb9352", null ],
+    [ "Register", "d6/d29/a18100.html#ae797de0ed29b3ca179c07d759b469228", null ]
 ];

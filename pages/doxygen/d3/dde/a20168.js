@@ -1,8 +1,6 @@
 var a20168 =
 [
-    [ "OnApply", "d3/dde/a20168.html#a5aec8606684637bbdb1e819254f5d483", null ],
-    [ "OnRemove", "d3/dde/a20168.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
-    [ "PrepareAuraScript", "d3/dde/a20168.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
-    [ "Register", "d3/dde/a20168.html#af1db6ca387cf0733ba4b9c324172d692", null ],
-    [ "Validate", "d3/dde/a20168.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
+    [ "CheckAreaTarget", "d3/dde/a20168.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
+    [ "PrepareAuraScript", "d3/dde/a20168.html#a921b2f67c417244310398bd93061d61c", null ],
+    [ "Register", "d3/dde/a20168.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
 ];

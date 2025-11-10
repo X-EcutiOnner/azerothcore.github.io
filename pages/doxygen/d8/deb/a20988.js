@@ -1,5 +1,8 @@
 var a20988 =
 [
-    [ "achievement_xt002_nerf_gravity_bombs", "d8/deb/a20988.html#a9c6471da08acb7a0543d7cc07784dd85", null ],
-    [ "OnCheck", "d8/deb/a20988.html#a03f61470694399ab32aea354cd697771", null ]
+    [ "boss_yoggsaron_guardian_of_ysAI", "d8/deb/a20988.html#a5542a4fd68a012049a79047f47dccc68", null ],
+    [ "JustDied", "d8/deb/a20988.html#ad75f0baeef73a79cdb9bf62463bc8e50", null ],
+    [ "Reset", "d8/deb/a20988.html#a43d12c19425f3caa56a9732774b6f943", null ],
+    [ "UpdateAI", "d8/deb/a20988.html#a8e1d0b14747db6ce06b882f3f9d61963", null ],
+    [ "_spellTimer", "d8/deb/a20988.html#a45dec8609328d65413ae6c88f693ba15", null ]
 ];

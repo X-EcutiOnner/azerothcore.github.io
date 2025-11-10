@@ -1,5 +1,7 @@
 var a20492 =
 [
-    [ "achievement_i_have_the_coolest_friends", "df/d11/a20492.html#a87fd2d5702fe33ee8b09042c66897636", null ],
-    [ "OnCheck", "df/d11/a20492.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
+    [ "HandleEffectPeriodic", "df/d11/a20492.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
+    [ "PrepareAuraScript", "df/d11/a20492.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
+    [ "Register", "df/d11/a20492.html#aed86a298340cc05fbe2a8a68396423bb", null ],
+    [ "Validate", "df/d11/a20492.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
 ];

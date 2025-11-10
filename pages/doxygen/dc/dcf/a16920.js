@@ -1,6 +1,6 @@
 var a16920 =
 [
-    [ "OnPeriodic", "dc/dcf/a16920.html#ab71faf6fb2900e176aac245317113758", null ],
-    [ "PrepareAuraScript", "dc/dcf/a16920.html#a5b4bf1fe2987cdebedaa2e7d048742d6", null ],
-    [ "Register", "dc/dcf/a16920.html#a8b90810bfc5416cdfeac2f6a72c55d3e", null ]
+    [ "HandleScriptEffect", "dc/dcf/a16920.html#a90b13b2a093fdd430a383d7ea4126290", null ],
+    [ "PrepareSpellScript", "dc/dcf/a16920.html#a96cc7aabf7af3b2e7f978173921d55cd", null ],
+    [ "Register", "dc/dcf/a16920.html#a53c8d47ee21637055ad901946be1e2c2", null ]
 ];

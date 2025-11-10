@@ -1,12 +1,6 @@
 var a22528 =
 [
-    [ "npc_icefangAI", "d2/df4/a22528.html#ab74b58a77e3c1349ed308f7febef794a", null ],
-    [ "AttackStart", "d2/df4/a22528.html#a56615ecdb45389aa793374d26a636d45", null ],
-    [ "EnterEvadeMode", "d2/df4/a22528.html#a1465c4779ea8b080f934163c8db6c99c", null ],
-    [ "JustDied", "d2/df4/a22528.html#a3140c8306a384833cca1580ad964d73a", null ],
-    [ "JustEngagedWith", "d2/df4/a22528.html#a8455dd4afb5ef5a694ca9237848df907", null ],
-    [ "OnCharmed", "d2/df4/a22528.html#ad7f3465f5730cd9ebd42bb4092ec8e68", null ],
-    [ "PassengerBoarded", "d2/df4/a22528.html#acf6e8e273830d022eaca3a28a4bd5320", null ],
-    [ "UpdateAI", "d2/df4/a22528.html#ab4d752f2273062c48339b53e611e617c", null ],
-    [ "WaypointReached", "d2/df4/a22528.html#ae315a1d22317edb2864e4d796f808ffb", null ]
+    [ "CheckCast", "d2/df4/a22528.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
+    [ "PrepareSpellScript", "d2/df4/a22528.html#ab4025d8a4acee4723dcca972bce01f45", null ],
+    [ "Register", "d2/df4/a22528.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
 ];

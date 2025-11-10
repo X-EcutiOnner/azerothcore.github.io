@@ -1,5 +1,5 @@
 var a28600 =
 [
-    [ "id", "d3/db7/a28600.html#a4667f55651f20c85f5b3da9384bac078", null ],
-    [ "QuestRewFactionValue", "d3/db7/a28600.html#a9a42feddeef8e054cd52b72cfc812867", null ]
+    [ "ID", "d3/db7/a28600.html#a142c8a5e22234e6317ff113618559b8b", null ],
+    [ "Value", "d3/db7/a28600.html#a693631ac3ce915a1c4adf565517eacf9", null ]
 ];

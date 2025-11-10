@@ -1,6 +1,7 @@
 var a23200 =
 [
-    [ "npc_supremus_punch_invisible_stalker", "df/dab/a23200.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
-    [ "IsSummonedBy", "df/dab/a23200.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
-    [ "UpdateAI", "df/dab/a23200.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
+    [ "HandleEffectApply", "df/dab/a23200.html#aff0dbed165d0e751db725f7eaaf76a11", null ],
+    [ "Load", "df/dab/a23200.html#a1dfb5b2004041e7165cc9f5deb4b1e82", null ],
+    [ "PrepareAuraScript", "df/dab/a23200.html#a3dbd01e52ed2a630f0c014f941fc1b5e", null ],
+    [ "Register", "df/dab/a23200.html#a647f21e79e3fef72cf84439fc84e708f", null ]
 ];

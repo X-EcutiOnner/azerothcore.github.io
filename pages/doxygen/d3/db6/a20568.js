@@ -1,7 +1,5 @@
 var a20568 =
 [
-    [ "StoneGripTargetSelector", "d3/db6/a20568.html#a74fc772e2bc0694dee05fe82de4463e2", null ],
-    [ "operator()", "d3/db6/a20568.html#ae40653def55e656f2347029a97605395", null ],
-    [ "_me", "d3/db6/a20568.html#ae5781d6b553491a1e3e8bfde2b965c3a", null ],
-    [ "_victim", "d3/db6/a20568.html#a09c3c6f832c20776f11b72a468a4b0bb", null ]
+    [ "achievement_kologarn_rubble_and_roll", "d3/db6/a20568.html#ae36bbab8d82f10ad120a1e7564a13961", null ],
+    [ "OnCheck", "d3/db6/a20568.html#acb0f72ebdf1917a3331b3fc0f9aa4300", null ]
 ];

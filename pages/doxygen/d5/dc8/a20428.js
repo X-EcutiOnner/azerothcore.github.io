@@ -1,6 +1,6 @@
 var a20428 =
 [
-    [ "npc_ulduar_hodir_mageAI", "df/d76/a20432.html", "df/d76/a20432" ],
-    [ "npc_ulduar_hodir_mage", "d5/dc8/a20428.html#afebdd0f99f0c7eaaf0a2d5731335105d", null ],
-    [ "GetAI", "d5/dc8/a20428.html#abcbe0337b2a83b6eb0a64f7465d7f79a", null ]
+    [ "FilterTargets", "d5/dc8/a20428.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
+    [ "PrepareSpellScript", "d5/dc8/a20428.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
+    [ "Register", "d5/dc8/a20428.html#af6704b0789566b2b385ac573eaa50f06", null ]
 ];

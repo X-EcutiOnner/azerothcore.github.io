@@ -1,6 +1,6 @@
 var a23836 =
 [
-    [ "instance_magtheridons_lair_InstanceMapScript", "d6/da0/a23840.html", "d6/da0/a23840" ],
-    [ "instance_magtheridons_lair", "d7/db3/a23836.html#a9bc61758478dc18ba413264eec2e3ca3", null ],
-    [ "GetInstanceScript", "d7/db3/a23836.html#a6c9cc959cf4f294e6173d244f54bcd02", null ]
+    [ "boss_porung", "d7/db3/a23836.html#acef31010461bbf716ac9b13d950807ee", null ],
+    [ "JustDied", "d7/db3/a23836.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
+    [ "JustEngagedWith", "d7/db3/a23836.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
 ];

@@ -1,6 +1,11 @@
 var a16244 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "d8/ddd/a16248.html", "d8/ddd/a16248" ],
-    [ "npc_baltharus_the_warborn_clone", "dc/d9d/a16244.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
-    [ "GetAI", "dc/d9d/a16244.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
+    [ "boss_general_zarithrianAI", "dc/d9d/a16244.html#a4168a5883052810d137f59d3b104bc24", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "dc/d9d/a16244.html#a22f6ff041e61c94df73a938162fa26f5", null ],
+    [ "JustDied", "dc/d9d/a16244.html#a49be533142c82a95a136dc2dcbf4843c", null ],
+    [ "JustEngagedWith", "dc/d9d/a16244.html#a9ec34e473b9d478277f472ab3bb7c7ef", null ],
+    [ "JustSummoned", "dc/d9d/a16244.html#acb694d20b35d57a315aa4662562af210", null ],
+    [ "KilledUnit", "dc/d9d/a16244.html#ad385477740b728e63acff7c184df3c09", null ],
+    [ "Reset", "dc/d9d/a16244.html#a3093369d5f3c7e2a1a5828671ac0af0a", null ],
+    [ "UpdateAI", "dc/d9d/a16244.html#a3a7e578d64a760cd38712c725eecc97d", null ]
 ];

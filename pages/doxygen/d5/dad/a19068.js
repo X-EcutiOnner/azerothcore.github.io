@@ -1,6 +1,9 @@
 var a19068 =
 [
-    [ "npc_icc_gauntlet_controllerAI", "dd/d78/a19072.html", "dd/d78/a19072" ],
-    [ "npc_icc_gauntlet_controller", "d5/dad/a19068.html#a5fc4c941842e25bc3da93686e588627b", null ],
-    [ "GetAI", "d5/dad/a19068.html#a4ed1a69fb537e7ce547a3a57253990c4", null ]
+    [ "spell_trigger_spell_from_caster", "d5/dad/a19068.html#a0dc389ab8bd51fcfd839250a3bbc2dcd", null ],
+    [ "HandleTrigger", "d5/dad/a19068.html#afc11c9408ea11cb04e476999a9bdf522", null ],
+    [ "PrepareSpellScript", "d5/dad/a19068.html#a24a9bd70a58f051cd6c4ceaff5d7fffe", null ],
+    [ "Register", "d5/dad/a19068.html#ae44cc1a87267c1d08603d1aff2384957", null ],
+    [ "Validate", "d5/dad/a19068.html#a3aace9a309bc848b887b03c949c921bd", null ],
+    [ "_triggerId", "d5/dad/a19068.html#a29af52a9035f18936515a464889fefe5", null ]
 ];

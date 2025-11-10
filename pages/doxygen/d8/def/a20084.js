@@ -1,6 +1,9 @@
 var a20084 =
 [
-    [ "npc_freya_wardAI", "d0/d87/a20088.html", "d0/d87/a20088" ],
-    [ "npc_freya_ward", "d8/def/a20084.html#aebaadcc001922c78e8ec43084a827ac9", null ],
-    [ "GetAI", "d8/def/a20084.html#a90c0e7a0be1717bf1793415b6fcafbed", null ]
+    [ "npc_thorims_hammerAI", "d8/def/a20084.html#aafda36c8d784252d271ef031ab6a3d34", null ],
+    [ "Reset", "d8/def/a20084.html#a57975d0dc00c86946e547ba43c7151ec", null ],
+    [ "UpdateAI", "d8/def/a20084.html#a4e01a61d09c11647e06c3547d6fa91fa", null ],
+    [ "_beamTimer", "d8/def/a20084.html#aba7c6c078977a8187a7e673ba3126bfd", null ],
+    [ "_finishTime", "d8/def/a20084.html#a218bd28d18a2c2f0aef6906619437209", null ],
+    [ "_removeTimer", "d8/def/a20084.html#a958e4c975d1ae634745107af7d204f82", null ]
 ];

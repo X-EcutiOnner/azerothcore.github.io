@@ -1,6 +1,6 @@
 var a20420 =
 [
-    [ "npc_ulduar_hodir_shamanAI", "d7/d84/a20424.html", "d7/d84/a20424" ],
-    [ "npc_ulduar_hodir_shaman", "d6/dcb/a20420.html#ae73a416c72441ab531d8a5db88183d47", null ],
-    [ "GetAI", "d6/dcb/a20420.html#ab06a67b72a3954c65792a478ac90672c", null ]
+    [ "FilterTargets", "d6/dcb/a20420.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
+    [ "PrepareSpellScript", "d6/dcb/a20420.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
+    [ "Register", "d6/dcb/a20420.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
 ];

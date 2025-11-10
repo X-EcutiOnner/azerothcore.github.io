@@ -1,7 +1,7 @@
 var a13352 =
 [
-    [ "npc_apothecary_genericAI", "d6/df6/a13352.html#afb2b04b51e28d0795e7781effa68dffd", null ],
-    [ "DoAction", "d6/df6/a13352.html#a59074beefbd3d80104b64f8ecc2ef8e0", null ],
-    [ "MovementInform", "d6/df6/a13352.html#a63530bd7c3ebcd66521a268e11bf2f93", null ],
-    [ "_movePos", "d6/df6/a13352.html#a53d10ab64df212b043cc21e054f6528c", null ]
+    [ "OnPeriodic", "d6/df6/a13352.html#aa48b6f35302a8857465c6567f811dec6", null ],
+    [ "PrepareAuraScript", "d6/df6/a13352.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
+    [ "Register", "d6/df6/a13352.html#aa7708067531131738b86077638eda7ac", null ],
+    [ "Validate", "d6/df6/a13352.html#a665698b54201184185d96bd33f53e584", null ]
 ];

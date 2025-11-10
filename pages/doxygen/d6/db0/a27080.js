@@ -1,7 +1,7 @@
 var a27080 =
 [
-    [ "HandleDummy", "d6/db0/a27080.html#ab8916b5c232d7b55f4a6bb3e9f9ab122", null ],
-    [ "PrepareSpellScript", "d6/db0/a27080.html#ac8cfa0b54c585f12682602a678d7bf2d", null ],
-    [ "Register", "d6/db0/a27080.html#aee02661fa8845afd666ca27163b4a761", null ],
-    [ "Validate", "d6/db0/a27080.html#aba9079e2418281315029c839b22df1c5", null ]
+    [ "HandleRemove", "d6/db0/a27080.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
+    [ "PrepareAuraScript", "d6/db0/a27080.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
+    [ "Register", "d6/db0/a27080.html#a338ee9c0eddd309ce2a791160059bad6", null ],
+    [ "Validate", "d6/db0/a27080.html#ae8272b65a070fc959af003f701567c3c", null ]
 ];

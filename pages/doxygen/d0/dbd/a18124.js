@@ -1,8 +1,6 @@
 var a18124 =
 [
-    [ "FilterTargets", "d0/dbd/a18124.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
-    [ "HandleScript", "d0/dbd/a18124.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
-    [ "PrepareSpellScript", "d0/dbd/a18124.html#ae6b30b8da52141c385f985435cac99a1", null ],
-    [ "Register", "d0/dbd/a18124.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
-    [ "Validate", "d0/dbd/a18124.html#accff1f03fb7c0d56cb197bb18348635c", null ]
+    [ "OnRemove", "d0/dbd/a18124.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
+    [ "PrepareAuraScript", "d0/dbd/a18124.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
+    [ "Register", "d0/dbd/a18124.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
 ];

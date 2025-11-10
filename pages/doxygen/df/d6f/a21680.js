@@ -1,9 +1,10 @@
 var a21680 =
 [
-    [ "npc_azure_sorcerorAI", "df/d6f/a21680.html#a474a7144908d4820341dc56f77436b90", null ],
-    [ "Reset", "df/d6f/a21680.html#a4c637288f79e1da4bdace6516cd887b1", null ],
-    [ "UpdateAI", "df/d6f/a21680.html#a928d789e2cbd35b228857a23c4204ea1", null ],
-    [ "uiArcaneStreamTimer", "df/d6f/a21680.html#ad238fe8fed4dcefd923d901e4f73ed05", null ],
-    [ "uiArcaneStreamTimerStartingValueHolder", "df/d6f/a21680.html#af044879e8e064e28a491c87d0c6cde74", null ],
-    [ "uiManaDetonationTimer", "df/d6f/a21680.html#a3ebe4eb452296f3c45db5c1b6cdaa243", null ]
+    [ "npc_sinkhole_kill_creditAI", "df/d6f/a21680.html#af2050289be6bc1c47d1ad40fc4bfa313", null ],
+    [ "Reset", "df/d6f/a21680.html#a677990d64d2963ff995d9d8522c5aa81", null ],
+    [ "SpellHit", "df/d6f/a21680.html#a95eaf518fb18b67820d6195cd525b017", null ],
+    [ "UpdateAI", "df/d6f/a21680.html#a75611004a543bece9d3f51914547f2fe", null ],
+    [ "casterGuid", "df/d6f/a21680.html#a147921788b07f5e776e03aaf15049cf0", null ],
+    [ "phase", "df/d6f/a21680.html#aa45455a8d540d6f942c948cf56d11f05", null ],
+    [ "phaseTimer", "df/d6f/a21680.html#aa268004c1eedf086ae8345e0ba10e2ca", null ]
 ];

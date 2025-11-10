@@ -1,10 +1,16 @@
 var a15748 =
 [
-    [ "npc_thrall_warchiefAI", "d0/d96/a15748.html#ada9c79c1591a8bd28c66329dc7c5d3dc", null ],
-    [ "DoAction", "d0/d96/a15748.html#a511da19703e30f6e82e59c5223bf2770", null ],
-    [ "JustEngagedWith", "d0/d96/a15748.html#a994a9030e2d8c5afaa66c21897e54f82", null ],
-    [ "Reset", "d0/d96/a15748.html#a920a29258228c9c2e7e0791d38b648e1", null ],
-    [ "UpdateAI", "d0/d96/a15748.html#a537ed9f2d0a638d01e877d9ca1e7fdf0", null ],
-    [ "ChainLightningTimer", "d0/d96/a15748.html#ab30df9277fc84f098e0bdd70a2ab3795", null ],
-    [ "ShockTimer", "d0/d96/a15748.html#aa8609f8824f68ce7259465284c01dd35", null ]
+    [ "npc_qiraj_war_spawnAI", "d0/d96/a15748.html#a1122bc3961300ba39c02613ba0fcd909", null ],
+    [ "JustDied", "d0/d96/a15748.html#ada3362722a2f7a4ac5e3e807385c30fc", null ],
+    [ "JustEngagedWith", "d0/d96/a15748.html#a628da97f8b8bda848880c53a509ad1f5", null ],
+    [ "Reset", "d0/d96/a15748.html#a617104afe4d5cca5cd0d98fe12cb1608", null ],
+    [ "UpdateAI", "d0/d96/a15748.html#afeed6ddc214d7d6ba6156a90e4465cb2", null ],
+    [ "hasTarget", "d0/d96/a15748.html#ad36ad196f757d6014f7aa7cf7afb167b", null ],
+    [ "MobGUID", "d0/d96/a15748.html#a4148121a56275770ee84744a0288b6c5", null ],
+    [ "PlayerGUID", "d0/d96/a15748.html#a9e4294e9b7ce773263e0bd16512602ce", null ],
+    [ "SpellTimer1", "d0/d96/a15748.html#a8979a90473c62aad604857d92574e5f1", null ],
+    [ "SpellTimer2", "d0/d96/a15748.html#a91cb2356a92ef987bd1ba6d31b560ec1", null ],
+    [ "SpellTimer3", "d0/d96/a15748.html#aeea20bb2f78ece03df38a3e9aa5d8b59", null ],
+    [ "SpellTimer4", "d0/d96/a15748.html#a301971cf821e68e6be3223d4076f8b49", null ],
+    [ "Timers", "d0/d96/a15748.html#a460bbddfe94e9c84eaa0ad83e087ebf4", null ]
 ];

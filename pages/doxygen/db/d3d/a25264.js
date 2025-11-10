@@ -1,8 +1,8 @@
 var a25264 =
 [
-    [ "OnApply", "db/d3d/a25264.html#a6aa83e925a93dc7ff89c0357debc75d1", null ],
-    [ "OnRemove", "db/d3d/a25264.html#a3ced5941c25fce087699aa095cd487c9", null ],
-    [ "PrepareAuraScript", "db/d3d/a25264.html#a497776c6ffdda8670fa255b76057bf2c", null ],
-    [ "Register", "db/d3d/a25264.html#ac05f2898ebbb78bf55d70d8a660fb22d", null ],
-    [ "Validate", "db/d3d/a25264.html#a44fc9ff07b9db5b2a1263d244916c79f", null ]
+    [ "AchievementCredit", "db/d3d/a25264.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "db/d3d/a25264.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "db/d3d/a25264.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "db/d3d/a25264.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "db/d3d/a25264.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

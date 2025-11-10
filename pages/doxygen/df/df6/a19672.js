@@ -1,7 +1,8 @@
 var a19672 =
 [
-    [ "CalcDamage", "df/df6/a19672.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
-    [ "PrepareSpellScript", "df/df6/a19672.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
-    [ "Register", "df/df6/a19672.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
-    [ "Validate", "df/df6/a19672.html#a773c608119a84cc3f02e7b4d786f2741", null ]
+    [ "HandleEffectPeriodic", "df/df6/a19672.html#abb453e3d38677be7082f2cd4e43134cc", null ],
+    [ "HandleOnEffectApply", "df/df6/a19672.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
+    [ "PrepareAuraScript", "df/df6/a19672.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
+    [ "Register", "df/df6/a19672.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
+    [ "Validate", "df/df6/a19672.html#a09481646f8ec90b0135d93d83cc18929", null ]
 ];

@@ -1,6 +1,8 @@
 var a13488 =
 [
-    [ "FilterTargets", "d9/dd0/a13488.html#a78675c3421e0243de9e136b646c56be1", null ],
-    [ "PrepareSpellScript", "d9/dd0/a13488.html#a0fb177c467c2582e6b66ceae51780d6c", null ],
-    [ "Register", "d9/dd0/a13488.html#a39f8a11194fe19a14d25b30faaa6cf42", null ]
+    [ "npc_demonic_vapor", "d9/dd0/a13488.html#aee2e1b7372b8125b49e8466a2406ff00", null ],
+    [ "IsSummonedBy", "d9/dd0/a13488.html#ace56fe54dc6d3f597df0d1e28924082f", null ],
+    [ "Reset", "d9/dd0/a13488.html#a7d2b88ab26904cedaac34f03567806bc", null ],
+    [ "UpdateAI", "d9/dd0/a13488.html#a6637d2d5fc6615c2d76aa0d04c36a047", null ],
+    [ "_timer", "d9/dd0/a13488.html#ab067f5b9b9f37db4db9ab6e5295e5d52", null ]
 ];

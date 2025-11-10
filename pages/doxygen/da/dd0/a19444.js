@@ -1,5 +1,6 @@
 var a19444 =
 [
-    [ "at_naxxramas_hub_portal", "da/dd0/a19444.html#a946086e8a4651240b84526a1b2d54065", null ],
-    [ "OnTrigger", "da/dd0/a19444.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
+    [ "npc_nexus_lordAI", "d2/d9e/a19448.html", "d2/d9e/a19448" ],
+    [ "npc_nexus_lord", "da/dd0/a19444.html#a6e58f0074451dfd04b95b3ecaa0201e3", null ],
+    [ "GetAI", "da/dd0/a19444.html#a1cea0b189b2ef8e932b51caf3d70d6ba", null ]
 ];

@@ -1,7 +1,7 @@
 var a22084 =
 [
-    [ "HandleDummy", "da/db8/a22084.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
-    [ "PrepareSpellScript", "da/db8/a22084.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
-    [ "Register", "da/db8/a22084.html#a45f80e0436f93a597deb4653852df6a1", null ],
-    [ "Validate", "da/db8/a22084.html#ad13fdade1fb7455485bfd68687de53c5", null ]
+    [ "OnRemove", "da/db8/a22084.html#a335bc64860227122e0536f61144e2003", null ],
+    [ "PrepareAuraScript", "da/db8/a22084.html#ae38bdeb74493f73bed1246c011bb2076", null ],
+    [ "Register", "da/db8/a22084.html#ae0c02eb80cebce089d18f8465b2f8a39", null ],
+    [ "Validate", "da/db8/a22084.html#af29efe88b5f56c5d49f2e48c3be1d8e6", null ]
 ];

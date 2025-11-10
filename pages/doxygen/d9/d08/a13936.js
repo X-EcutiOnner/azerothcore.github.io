@@ -1,8 +1,9 @@
 var a13936 =
 [
-    [ "npc_varian_wrynnAI", "de/dc3/a13940.html", "de/dc3/a13940" ],
-    [ "npc_varian_wrynn", "d9/d08/a13936.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
-    [ "GetAI", "d9/d08/a13936.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
-    [ "OnGossipHello", "d9/d08/a13936.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
-    [ "OnGossipSelect", "d9/d08/a13936.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
+    [ "npc_thrall_bfuAI", "de/dc3/a13940.html", "de/dc3/a13940" ],
+    [ "npc_thrall_bfu", "d9/d08/a13936.html#a43eb37b9a0cf06be0e2cb6180730b09f", null ],
+    [ "GetAI", "d9/d08/a13936.html#a28b4030d189e4d967a1b16f3464c14ba", null ],
+    [ "OnGossipHello", "d9/d08/a13936.html#a71a7108464de9245879c8a1c08932e2a", null ],
+    [ "OnGossipSelect", "d9/d08/a13936.html#aea62ed8489bea23772a52ddefbf9c60e", null ],
+    [ "OnQuestReward", "d9/d08/a13936.html#aee56e54615e2696dcd0e7299e4f416b5", null ]
 ];

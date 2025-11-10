@@ -1,10 +1,7 @@
 var a23488 =
 [
-    [ "Spells", "dc/d2b/a23488.html#a70ca1841fb1db54e6f76b96331e05cf1", [
-      [ "SPELL_GROW", "dc/d2b/a23488.html#a70ca1841fb1db54e6f76b96331e05cf1a287a03bdb61355baf071dd8aa5802ccd", null ],
-      [ "SPELL_SPORE_CLOUD", "dc/d2b/a23488.html#a70ca1841fb1db54e6f76b96331e05cf1afae99ec87dcd6bdf3631b9f273fecbd5", null ]
-    ] ],
-    [ "npc_rancid_mushroom", "dc/d2b/a23488.html#a15896957b94de57de9eda5a199a05d4c", null ],
-    [ "InitializeAI", "dc/d2b/a23488.html#afff169ff9d7a8411cf6d21f4f9be2545", null ],
-    [ "UpdateAI", "dc/d2b/a23488.html#a13bfd343bdf54c829b3fcb0a775c0852", null ]
+    [ "go_ahune_ice_spear", "dc/d2b/a23488.html#a22922e47b819bc60e331cffbc7c353b3", null ],
+    [ "Reset", "dc/d2b/a23488.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
+    [ "UpdateAI", "dc/d2b/a23488.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
+    [ "_scheduler", "dc/d2b/a23488.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
 ];

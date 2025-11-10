@@ -1,13 +1,9 @@
 var a25064 =
 [
-    [ "CalcPeriodic", "d0/ddd/a25064.html#a08dca1818a687bb5862779e261dafb00", null ],
-    [ "CalculateExpertiseAmount", "d0/ddd/a25064.html#a44703f4a1c5cfb74083bf74d7b77c23c", null ],
-    [ "CalculateHitAmount", "d0/ddd/a25064.html#af6e9dda7381a80d4de93c1a7402a2e2b", null ],
-    [ "CalculateSpellHitAmount", "d0/ddd/a25064.html#ab31dfffdf449c1eef74c2bcd43469109", null ],
-    [ "HandleEffectApply", "d0/ddd/a25064.html#a6ba389f156263462f5e80e3a9fb6f62e", null ],
-    [ "HandlePeriodic", "d0/ddd/a25064.html#ac97a33580dc873af7b580d4fdf7ed9f6", null ],
-    [ "PrepareAuraScript", "d0/ddd/a25064.html#ad9aeb68e7d512f55f38f5a64d1d80f7f", null ],
-    [ "Register", "d0/ddd/a25064.html#a803e26c6a4c06feedd80a4d94452aca5", null ],
-    [ "cap", "d0/ddd/a25064.html#a9c3e35d01ad863d146566efe7cca2637", null ],
-    [ "maxChance", "d0/ddd/a25064.html#a34933c7fe8b570214c821347f4ba974b", null ]
+    [ "spell_gen_select_target_count", "d0/ddd/a25064.html#a65507c155a8746ff49c58c051b7868e4", null ],
+    [ "FilterTargets", "d0/ddd/a25064.html#a5de89be9ce321a0f4ac49853a700b502", null ],
+    [ "PrepareSpellScript", "d0/ddd/a25064.html#a42ddce15414dcdf495b572e0f75e9486", null ],
+    [ "Register", "d0/ddd/a25064.html#a94f86992275123e2e3989655cf077efd", null ],
+    [ "_count", "d0/ddd/a25064.html#acdf5daa848ae185b859c45a1271df68c", null ],
+    [ "_effTarget", "d0/ddd/a25064.html#a9c54508790062277c8275d2466e93fb3", null ]
 ];

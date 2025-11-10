@@ -1,8 +1,10 @@
 var a26272 =
 [
-    [ "Absorb", "dd/d68/a26272.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
-    [ "CalculateAmount", "dd/d68/a26272.html#a20d5b4776ebeb859b0641af640e41d80", null ],
-    [ "PrepareAuraScript", "dd/d68/a26272.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
-    [ "Register", "dd/d68/a26272.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
-    [ "Validate", "dd/d68/a26272.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
+    [ "AfterCheckProc", "dd/d68/a26272.html#aa6f32a97ece5fc68c0b0a2cfa36e33eb", null ],
+    [ "HandleProc", "dd/d68/a26272.html#a613182c741769d0983206bdfa89242f6", null ],
+    [ "PrepareAuraScript", "dd/d68/a26272.html#a4f614fe81d829d8a1ceb7500f9557948", null ],
+    [ "Register", "dd/d68/a26272.html#acd807de02a83a97a78572d672fb16027", null ],
+    [ "Validate", "dd/d68/a26272.html#a3d2d6f1a00825ac66f507a790f468198", null ],
+    [ "_spellInfo", "dd/d68/a26272.html#a66a5eb4caa7b43c34b2830d9a3d2f994", null ],
+    [ "_ticksModifier", "dd/d68/a26272.html#ae23b54499fff879a096bd459e264c4f0", null ]
 ];

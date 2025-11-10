@@ -1,7 +1,7 @@
 var a16704 =
 [
-    [ "npc_toc_enh_shamanAI", "da/d31/a16704.html#ae1ef5395722e42660c1856d6faf52cbb", null ],
-    [ "myCanCast", "da/d31/a16704.html#a8a38da4063a22361b25835a67f14ff52", null ],
-    [ "UpdateAI", "da/d31/a16704.html#a4aa59b136b97859d15b39fd2fbbdf53d", null ],
-    [ "events", "da/d31/a16704.html#adec973540bf3b046f54547fb845c06b1", null ]
+    [ "HandleDispel", "da/d31/a16704.html#a7b24f38bbb7813826520f928b22d30aa", null ],
+    [ "PrepareAuraScript", "da/d31/a16704.html#a0e0424bd590cfc4f85f40728bf6efd22", null ],
+    [ "Register", "da/d31/a16704.html#a2bf6921550da3c13730fd98bded2c927", null ],
+    [ "Validate", "da/d31/a16704.html#ad8b0bb389d232c74acf106b711414fa1", null ]
 ];

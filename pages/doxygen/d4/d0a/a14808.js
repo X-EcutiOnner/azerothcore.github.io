@@ -1,6 +1,6 @@
 var a14808 =
 [
-    [ "instance_blackfathom_deeps_InstanceMapScript", "d2/d74/a14812.html", "d2/d74/a14812" ],
-    [ "instance_blackfathom_deeps", "d4/d0a/a14808.html#a4600a7e6191582c1bee684989a970e0f", null ],
-    [ "GetInstanceScript", "d4/d0a/a14808.html#a62cdab4f3118ab030b4ef55243690f73", null ]
+    [ "FilterTargets", "d4/d0a/a14808.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
+    [ "PrepareSpellScript", "d4/d0a/a14808.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
+    [ "Register", "d4/d0a/a14808.html#a6375482bd9d1fc6c6941607273c506dc", null ]
 ];

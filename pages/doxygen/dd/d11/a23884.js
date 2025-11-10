@@ -1,16 +1,16 @@
 var a23884 =
 [
-    [ "boss_warchief_kargath_bladefist", "dd/d11/a23884.html#a0957dbfd6c085575fa862f38c87b6b3d", null ],
-    [ "InitializeAI", "dd/d11/a23884.html#a86d9b5b1500960235e76ae71337a6c90", null ],
-    [ "IsInRoom", "dd/d11/a23884.html#af9d4bd9d94115a1040e1e4a4dbf8df83", null ],
-    [ "JustDied", "dd/d11/a23884.html#a436b90336c90f6662f3ce704a62f0d90", null ],
-    [ "JustEngagedWith", "dd/d11/a23884.html#ab3d7b0ebca4f8134e5c2f31422ff006b", null ],
-    [ "JustSummoned", "dd/d11/a23884.html#aaa69f064d7eb3a0d107c835c806fa1de", null ],
-    [ "KilledUnit", "dd/d11/a23884.html#a730bbd2f95a2919fba1a7300b4307b84", null ],
-    [ "MovementInform", "dd/d11/a23884.html#a716eab9bda2b697252dde90aa513d7df", null ],
-    [ "Reset", "dd/d11/a23884.html#a50fa7a5aed8d3f4916f0449c4fb075ac", null ],
-    [ "RespawnAssassins", "dd/d11/a23884.html#a1397317259589ea69f77f52f60852043", null ],
-    [ "SummonedCreatureDies", "dd/d11/a23884.html#a325da34f78d202708a58c1a543ecb8ca", null ],
-    [ "UpdateAI", "dd/d11/a23884.html#acd463cac8e2fa8289ecb5567709db678", null ],
-    [ "_danceCount", "dd/d11/a23884.html#af4a60caaef6388caff973295e3397a7d", null ]
+    [ "npc_millhouse_manastormAI", "dd/d11/a23884.html#ac86df4d5887c4c1b719ce47f00b32995", null ],
+    [ "AttackStart", "dd/d11/a23884.html#a032cc1ad7a07ead4ced3afe99601d94f", null ],
+    [ "DamageTaken", "dd/d11/a23884.html#a30ed336d552596211b3bfc316d223968", null ],
+    [ "InitializeAI", "dd/d11/a23884.html#a7e8f7483b7cf4ba5d87386940e632339", null ],
+    [ "JustDied", "dd/d11/a23884.html#aaa22ed7812600c1670d12d6887d316d6", null ],
+    [ "JustEngagedWith", "dd/d11/a23884.html#a5e643192572f29f954a31b7b949f6525", null ],
+    [ "KilledUnit", "dd/d11/a23884.html#ac3ba302f496d03c171d1d3f4dbf175da", null ],
+    [ "Reset", "dd/d11/a23884.html#a74076048ea382816fa9c98a0d759af46", null ],
+    [ "UpdateAI", "dd/d11/a23884.html#a7dad659c4ba1db0460c23a3dc573eff2", null ],
+    [ "_usedIceblock", "dd/d11/a23884.html#af0ce341df018dafdce89f75fcb9f0063", null ],
+    [ "events", "dd/d11/a23884.html#aa9aadd461e32cf8a65b185d77f62d838", null ],
+    [ "events2", "dd/d11/a23884.html#ac762ce5981457cbcf6ec73236bab2486", null ],
+    [ "instance", "dd/d11/a23884.html#aff28c68ed9575440f5732df855ab4372", null ]
 ];

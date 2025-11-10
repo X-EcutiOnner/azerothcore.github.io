@@ -1,8 +1,7 @@
 var a19516 =
 [
-    [ "FilterTargets", "df/d94/a19516.html#af6700817fd92dbe495e20d5c43b5d6b5", null ],
-    [ "Load", "df/d94/a19516.html#a639105c26214d9887b84a482ca93eb26", null ],
-    [ "PrepareSpellScript", "df/d94/a19516.html#a354ae20be436528b16095d4cd8d37859", null ],
-    [ "Register", "df/d94/a19516.html#a5fcc9cc654d6495f535600a6eef4c968", null ],
-    [ "DrakeGUID", "df/d94/a19516.html#ad4bbd7d559cdcc21ae5fafae75cd8eb3", null ]
+    [ "boss_commander_stoutbeard", "df/d94/a19516.html#a9489874e93ea9f425ff4e3748ba10ded", null ],
+    [ "JustDied", "df/d94/a19516.html#a2fd835408045715058ba476aa56cb4f7", null ],
+    [ "JustEngagedWith", "df/d94/a19516.html#af960c10b2b98d43b4b1311a0a7616aa8", null ],
+    [ "KilledUnit", "df/d94/a19516.html#acf7016c65f020dca9228bd2d2fd89299", null ]
 ];

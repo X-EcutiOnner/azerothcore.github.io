@@ -1,5 +1,7 @@
 var a24328 =
 [
-    [ "at_commander_dawnforge", "d6/de3/a24328.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
-    [ "OnTrigger", "d6/de3/a24328.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
+    [ "CheckRequirement", "d6/de3/a24328.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
+    [ "PrepareSpellScript", "d6/de3/a24328.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
+    [ "Register", "d6/de3/a24328.html#a25f275e84570f674071bfae03aeb0ddc", null ],
+    [ "Validate", "d6/de3/a24328.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
 ];

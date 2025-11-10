@@ -1,7 +1,8 @@
 var a20744 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "d0/dd1/a20744.html#a100678bddd6a0e859c72035d4642d8e2", null ],
-    [ "MoveInLineOfSight", "d0/dd1/a20744.html#a870bdc842d8d7078302a36a20ef661e4", null ],
-    [ "_instance", "d0/dd1/a20744.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
-    [ "_introSpoken", "d0/dd1/a20744.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
+    [ "npc_ulduar_dark_rune_guardianAI", "d0/dd1/a20744.html#aedb43124c923621aadecb77511204fc6", null ],
+    [ "CanAIAttack", "d0/dd1/a20744.html#af23cb4a19d28f5aa57ba96de95f87c87", null ],
+    [ "Reset", "d0/dd1/a20744.html#a4c1f53fbbc6189ca9ee0420bc4198684", null ],
+    [ "UpdateAI", "d0/dd1/a20744.html#ad21127654d5511b6b1d9b22cdd77bd08", null ],
+    [ "timer2", "d0/dd1/a20744.html#aa66f1aa48cf928ac12751cb3ca2358f3", null ]
 ];

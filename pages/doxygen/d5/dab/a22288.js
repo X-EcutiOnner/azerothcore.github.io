@@ -1,9 +1,7 @@
 var a22288 =
 [
-    [ "npc_lord_areteAI", "d5/dab/a22288.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
-    [ "InitializeAI", "d5/dab/a22288.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
-    [ "UpdateAI", "d5/dab/a22288.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
-    [ "_landgrenGUID", "d5/dab/a22288.html#ac0e3753096dfe779024acc8400791171", null ],
-    [ "_landgrenSoulGUID", "d5/dab/a22288.html#aaa28c67691610136f0b418b30892f3cd", null ],
-    [ "events", "d5/dab/a22288.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
+    [ "Absorb", "d5/dab/a22288.html#a784b48553696734abac77545df2fc045", null ],
+    [ "CalculateAmount", "d5/dab/a22288.html#a456ee99a71062f6217bda7561e4e7766", null ],
+    [ "PrepareAuraScript", "d5/dab/a22288.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
+    [ "Register", "d5/dab/a22288.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
 ];

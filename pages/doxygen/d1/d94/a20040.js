@@ -1,6 +1,6 @@
 var a20040 =
 [
-    [ "FilterTargets", "d1/d94/a20040.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
-    [ "PrepareSpellScript", "d1/d94/a20040.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
-    [ "Register", "d1/d94/a20040.html#a4e803984a3eded2736825f631786c204", null ]
+    [ "boss_flame_leviathan_defense_turretAI", "d7/d89/a20044.html", "d7/d89/a20044" ],
+    [ "boss_flame_leviathan_defense_turret", "d1/d94/a20040.html#a939c66ff6c1eb6dfdb3d93b3d0292e40", null ],
+    [ "GetAI", "d1/d94/a20040.html#a1c3726e2b753cda18bd11d8f4ff154db", null ]
 ];

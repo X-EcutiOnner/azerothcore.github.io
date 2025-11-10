@@ -1,7 +1,7 @@
 var a14828 =
 [
-    [ "HandleOnHit", "d1/d62/a14828.html#a9f1d78b4a98bc76877903b79923c1634", null ],
-    [ "PrepareSpellScript", "d1/d62/a14828.html#afb0a8a16850da30b0fbdb3d10a935f21", null ],
-    [ "Register", "d1/d62/a14828.html#ab923488eb891e1f9b1f5cb8ed61f3865", null ],
-    [ "Validate", "d1/d62/a14828.html#a57d85b1702e5c89d72972505121180ed", null ]
+    [ "PeriodicTick", "d1/d62/a14828.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
+    [ "PrepareAuraScript", "d1/d62/a14828.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
+    [ "Register", "d1/d62/a14828.html#a24058b120f4fa06b89f6d582c53a365a", null ],
+    [ "Validate", "d1/d62/a14828.html#a093b09be5abde91a1487d67a7a554d30", null ]
 ];

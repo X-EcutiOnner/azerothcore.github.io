@@ -1,5 +1,6 @@
 var a14544 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "db/d30/a14544.html#a40207493c75d8a63284e08f1f75d56c4", null ],
-    [ "MoveInLineOfSight", "db/d30/a14544.html#aef49ccdae1aff20fc469f0aa2663d8af", null ]
+    [ "HandleScript", "db/d30/a14544.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
+    [ "PrepareSpellScript", "db/d30/a14544.html#aab4303fff660c68db100e07a4423c39b", null ],
+    [ "Register", "db/d30/a14544.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
 ];

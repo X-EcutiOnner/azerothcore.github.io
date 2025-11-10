@@ -1,10 +1,7 @@
 var a14240 =
 [
-    [ "boss_jeklik", "d3/dc2/a14240.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
-    [ "EnterEvadeMode", "d3/dc2/a14240.html#a70dc363e0690e72846db5f779375edc1", null ],
-    [ "JustDied", "d3/dc2/a14240.html#ae648ba9ff49f4970612a8c3351789b66", null ],
-    [ "JustEngagedWith", "d3/dc2/a14240.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
-    [ "PathEndReached", "d3/dc2/a14240.html#a689e8f91361de45e6f885fea0dec900a", null ],
-    [ "Reset", "d3/dc2/a14240.html#a7959106123e60e3584b32b50a272746c", null ],
-    [ "batRidersCount", "d3/dc2/a14240.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
+    [ "HandleOnHit", "d3/dc2/a14240.html#a561799e6241b1fe17cd09f17c447107b", null ],
+    [ "PrepareSpellScript", "d3/dc2/a14240.html#ad98ba2831e93bd601b51a5c6a7e8441d", null ],
+    [ "Register", "d3/dc2/a14240.html#ad9b601b73631285cb5a79e30dfe4a8cc", null ],
+    [ "Validate", "d3/dc2/a14240.html#adb339686c5e9dcb298712455dc8435bf", null ]
 ];

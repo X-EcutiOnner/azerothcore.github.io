@@ -1,7 +1,13 @@
 var a15592 =
 [
-    [ "npc_kerlonianAI", "d0/d55/a15596.html", "d0/d55/a15596" ],
-    [ "npc_kerlonian", "df/dae/a15592.html#a8a5ab1fde9f21ac256d5168ef3f17f87", null ],
-    [ "GetAI", "df/dae/a15592.html#a93d93ba13d8521fee39801473b7c4b6a", null ],
-    [ "OnQuestAccept", "df/dae/a15592.html#a257d24295318605ac2fd5554315dfd63", null ]
+    [ "npc_tharnarianAI", "df/dae/a15592.html#a8e22d45f6420aa8079f8fb7150a2a53a", null ],
+    [ "Initialize", "df/dae/a15592.html#ad1d89491b42a56406273a04045e7e91d", null ],
+    [ "Reset", "df/dae/a15592.html#a7de1f46bee4e79effc5dbb405854a7da", null ],
+    [ "SetGUID", "df/dae/a15592.html#a8717a30828b91853ceba1b5e62126f29", null ],
+    [ "sGossipSelect", "df/dae/a15592.html#a33b5898def48e17ba27363b98f51849b", null ],
+    [ "UpdateAI", "df/dae/a15592.html#a1e58a89064bdfb69e4445db72184d8b3", null ],
+    [ "_bearGUID", "df/dae/a15592.html#af7a116b8226ddb51e9f0f118f2d8fa22", null ],
+    [ "_events", "df/dae/a15592.html#aff73052a4b7407d760af3dde09fa8a07", null ],
+    [ "_facing", "df/dae/a15592.html#ad2120fffc0ffa93d4fca1e9e8c0a4371", null ],
+    [ "_scriptRunning", "df/dae/a15592.html#a5be50b02cc8ce2e7b4dd334e923a7c10", null ]
 ];

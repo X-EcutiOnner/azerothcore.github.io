@@ -1,10 +1,7 @@
 var a15368 =
 [
-    [ "boss_huhuran", "d3/d9a/a15368.html#a64e0b20891992764c708cbb661c18196", null ],
-    [ "DamageTaken", "d3/d9a/a15368.html#adb47086f29b41f4168ad5d1b2728547d", null ],
-    [ "JustEngagedWith", "d3/d9a/a15368.html#a08f1d6550680d5bcf07332eade115730", null ],
-    [ "Reset", "d3/d9a/a15368.html#a45571aa6bd0c7915fb666cae1c5c4544", null ],
-    [ "UpdateAI", "d3/d9a/a15368.html#a23962e668f046b373f94ea6a2d75574a", null ],
-    [ "_berserk", "d3/d9a/a15368.html#a5f3f17d0b239f95ed4eb0bfac85c4463", null ],
-    [ "_hardEnrage", "d3/d9a/a15368.html#a5612bf8b1eedec159b316b28e6f4c915", null ]
+    [ "npc_sartura_royal_guard", "d3/d9a/a15368.html#a3ce2aeec4e5f26916ef50bdeea624c9d", null ],
+    [ "JustEngagedWith", "d3/d9a/a15368.html#a0b162e1fcc925f65fedbfe235b59eb0e", null ],
+    [ "Reset", "d3/d9a/a15368.html#a2b604aada12ca7f3e712cdbd1a3f397a", null ],
+    [ "UpdateAI", "d3/d9a/a15368.html#a2ed50f65847133c897facecbaa4711d8", null ]
 ];

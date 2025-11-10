@@ -1,12 +1,7 @@
 var a19244 =
 [
-    [ "npc_gothik_triggerAI", "d1/dc5/a19244.html#ae45c6de238755eb069e0c182943da58c", null ],
-    [ "DamageTaken", "d1/dc5/a19244.html#ada8e501edfadbb55162532f081a4b48b", null ],
-    [ "EnterEvadeMode", "d1/dc5/a19244.html#aae212c3aecdf82f509ed0bf841f16e59", null ],
-    [ "JustEngagedWith", "d1/dc5/a19244.html#ab5403383f1fcd539cacf975dffbe2817", null ],
-    [ "JustSummoned", "d1/dc5/a19244.html#a35be0135b77a3e62ac8d421910cf0674", null ],
-    [ "SelectRandomSkullPile", "d1/dc5/a19244.html#aeafc63047c9059afdf668b8c22d2937f", null ],
-    [ "SpellHit", "d1/dc5/a19244.html#a18a8135ab0395991afc4896950783ae5", null ],
-    [ "SummonedCreatureDespawn", "d1/dc5/a19244.html#ad7ed092509dd41fddd44a4024c011364", null ],
-    [ "UpdateAI", "d1/dc5/a19244.html#a388a20d6d720f5f44a67073fc40e98b6", null ]
+    [ "HandleRemove", "d1/dc5/a19244.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
+    [ "PrepareAuraScript", "d1/dc5/a19244.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
+    [ "Register", "d1/dc5/a19244.html#ad7ba015a7878adad0820cf378d2632ca", null ],
+    [ "Validate", "d1/dc5/a19244.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
 ];

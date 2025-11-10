@@ -1,6 +1,7 @@
 var a23596 =
 [
-    [ "HandleAfterRemove", "d1/d6d/a23596.html#a74610b06095572aa2c898cd84e0fb229", null ],
-    [ "PrepareAuraScript", "d1/d6d/a23596.html#ac0d686490ff37810e0116dea4d0b6077", null ],
-    [ "Register", "d1/d6d/a23596.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
+    [ "npc_underbog_mushroom", "d1/d6d/a23596.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
+    [ "InitializeAI", "d1/d6d/a23596.html#a7c192010cc63715eaa3f38b1d1372936", null ],
+    [ "UpdateAI", "d1/d6d/a23596.html#a9a8ed51b12809152ebe78dda69944d77", null ],
+    [ "_scheduler", "d1/d6d/a23596.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
 ];

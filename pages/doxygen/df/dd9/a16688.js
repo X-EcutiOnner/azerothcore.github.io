@@ -1,7 +1,6 @@
 var a16688 =
 [
-    [ "npc_toc_dkAI", "df/dd9/a16688.html#aa01bf528b10ed7bbdfe9b03694e51845", null ],
-    [ "myCanCast", "df/dd9/a16688.html#a54dee5d9b0f17bad21e8c1e275f0b222", null ],
-    [ "UpdateAI", "df/dd9/a16688.html#ab4f4b11e2b250fb24de6c069c5e38208", null ],
-    [ "events", "df/dd9/a16688.html#a293d5fca2940432c4eea57c5de5a1fdc", null ]
+    [ "npc_toc_pet_warlockAI", "dc/da9/a16692.html", "dc/da9/a16692" ],
+    [ "npc_toc_pet_warlock", "df/dd9/a16688.html#a4703f506d677d7e490c6813c6d9b060b", null ],
+    [ "GetAI", "df/dd9/a16688.html#aebcaff82726508a14028cb22a1ef944b", null ]
 ];

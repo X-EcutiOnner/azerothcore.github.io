@@ -10,21 +10,14 @@ var a03554 =
     [ "npc_scarlet_ghoul::npc_scarlet_ghoulAI", "db/da4/a13120.html", "db/da4/a13120" ],
     [ "npc_dkc1_gothik", "dd/d3f/a13124.html", "dd/d3f/a13124" ],
     [ "npc_dkc1_gothik::npc_dkc1_gothikAI", "d9/d59/a13128.html", "d9/d59/a13128" ],
-    [ "npc_scarlet_cannon", "d8/d61/a13132.html", "d8/d61/a13132" ],
-    [ "npc_scarlet_cannon::npc_scarlet_cannonAI", "dd/d81/a13136.html", "dd/d81/a13136" ],
-    [ "npc_unworthy_initiate", "d5/d3c/a13140.html", "d5/d3c/a13140" ],
-    [ "npc_unworthy_initiate::npc_unworthy_initiateAI", "dc/d4a/a13144.html", "dc/d4a/a13144" ],
-    [ "npc_unworthy_initiate_anchor", "df/d2a/a13148.html", "df/d2a/a13148" ],
-    [ "npc_unworthy_initiate_anchor::npc_unworthy_initiate_anchorAI", "d0/de7/a13152.html", "d0/de7/a13152" ],
-    [ "go_acherus_soul_prison", "d5/d2c/a13156.html", "d5/d2c/a13156" ],
-    [ "npc_scarlet_miner_cart", "d0/d96/a13160.html", "d0/d96/a13160" ],
-    [ "npc_scarlet_miner_cart::npc_scarlet_miner_cartAI", "dd/d19/a13164.html", "dd/d19/a13164" ],
-    [ "npc_scarlet_miner", "d5/dcb/a13168.html", "d5/dcb/a13168" ],
-    [ "npc_scarlet_miner::npc_scarlet_minerAI", "d3/d07/a13172.html", "d3/d07/a13172" ],
-    [ "go_inconspicuous_mine_car", "de/d5a/a13176.html", "de/d5a/a13176" ],
-    [ "spell_death_knight_initiate_visual", "d6/d5a/a13180.html", "d6/d5a/a13180" ],
-    [ "spell_lich_king_vo_blocker", "d1/d71/a13184.html", "d1/d71/a13184" ],
-    [ "spell_lich_king_whisper", "d6/dd4/a13188.html", "d6/dd4/a13188" ],
+    [ "npc_unworthy_initiate", "d8/d61/a13132.html", "d8/d61/a13132" ],
+    [ "npc_unworthy_initiate::npc_unworthy_initiateAI", "dd/d81/a13136.html", "dd/d81/a13136" ],
+    [ "npc_unworthy_initiate_anchor", "d5/d3c/a13140.html", "d5/d3c/a13140" ],
+    [ "npc_unworthy_initiate_anchor::npc_unworthy_initiate_anchorAI", "dc/d4a/a13144.html", "dc/d4a/a13144" ],
+    [ "go_acherus_soul_prison", "df/d2a/a13148.html", "df/d2a/a13148" ],
+    [ "spell_death_knight_initiate_visual", "d0/de7/a13152.html", "d0/de7/a13152" ],
+    [ "spell_lich_king_vo_blocker", "d5/d2c/a13156.html", "d5/d2c/a13156" ],
+    [ "spell_lich_king_whisper", "d0/d96/a13160.html", "d0/d96/a13160" ],
     [ "GCD_CAST", "d6/d76/a03554.html#a4e0920d64510440a7850bf1c1ef76f54", null ],
     [ "DeathComesFromOnHigh", "d6/d76/a03554.html#a8d5eadbb5d71d2183b6fe75139c887ea", [
       [ "SPELL_CALL_OF_THE_DEAD", "d6/d76/a03554.html#a8d5eadbb5d71d2183b6fe75139c887eaacd0a3ad4be38d369e5f72df2d231a982", null ],
@@ -62,13 +55,6 @@ var a03554 =
       [ "EVENT_GHOUL_MOVE_TO_PIT", "d6/d76/a03554.html#a34a7eb05eb22314c694883b77bf38b41a383333dea4ffd5f166293381b6a93bbb", null ],
       [ "SAY_GOTHIK_PIT", "d6/d76/a03554.html#a34a7eb05eb22314c694883b77bf38b41a11a420f8cc442d28386aa19b2a2983a5", null ]
     ] ],
-    [ "Says_SM", "d6/d76/a03554.html#a04ed6a9c92f9e762fb9518c27e135691", [
-      [ "SAY_SCARLET_MINER_0", "d6/d76/a03554.html#a04ed6a9c92f9e762fb9518c27e135691af449fa9cb4e213463a3e832e8e6d67be", null ],
-      [ "SAY_SCARLET_MINER_1", "d6/d76/a03554.html#a04ed6a9c92f9e762fb9518c27e135691a791a1bbc1293066fe9178912253684a5", null ]
-    ] ],
-    [ "Spells_Cart", "d6/d76/a03554.html#ad9b15a4b896f9a023cf26ea3e98c1070", [
-      [ "SPELL_CART_SUMM", "d6/d76/a03554.html#ad9b15a4b896f9a023cf26ea3e98c1070aa5a4b55e22b323798446ab64b02b5623", null ]
-    ] ],
     [ "spells_lich_king_whisper", "d6/d76/a03554.html#abc830bbb9ced1ba06639825e7e0ed7ea", [
       [ "SPELL_LICH_KING_VO_BLOCKER", "d6/d76/a03554.html#abc830bbb9ced1ba06639825e7e0ed7eaaa382fd3190a952e343abd2e4b45cfe67", null ],
       [ "SPELL_LICHKINGDK001", "d6/d76/a03554.html#abc830bbb9ced1ba06639825e7e0ed7eaa8a87043d4577e2e649f4e40506ea4f0a", null ],
@@ -87,10 +73,6 @@ var a03554 =
       [ "SPELL_LICHKINGDK014", "d6/d76/a03554.html#abc830bbb9ced1ba06639825e7e0ed7eaafd5d6bbf89fd2a980f8b01e20d36c2b7", null ],
       [ "SPELL_LICHKINGDK015", "d6/d76/a03554.html#abc830bbb9ced1ba06639825e7e0ed7eaaeac91373231bcdb8f16c1913e84db842", null ],
       [ "SPELL_LICHKINGDK016", "d6/d76/a03554.html#abc830bbb9ced1ba06639825e7e0ed7eaac18b6a8a2ce6fd5b29caed5d77c59d3f", null ]
-    ] ],
-    [ "Spells_SM", "d6/d76/a03554.html#ad2b494eedadd51ebe87fbe351fa1dc3b", [
-      [ "SPELL_CART_CHECK", "d6/d76/a03554.html#ad2b494eedadd51ebe87fbe351fa1dc3bad9f573bfec8a7775dfdb0642b7966120", null ],
-      [ "SPELL_CART_DRAG", "d6/d76/a03554.html#ad2b494eedadd51ebe87fbe351fa1dc3ba8f59f5ddd5852d3b940a0bc050b5faa1", null ]
     ] ],
     [ "UnworthyInitiate", "d6/d76/a03554.html#af590a53311e888b53dcef8e183ba91cd", [
       [ "SPELL_SOUL_PRISON_CHAIN", "d6/d76/a03554.html#af590a53311e888b53dcef8e183ba91cdaacb469d2ce157ba80de3be49aac61238", null ],

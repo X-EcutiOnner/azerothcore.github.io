@@ -1,9 +1,7 @@
 var a22532 =
 [
-    [ "npc_hyldsmeet_protodrakeAI", "d7/d52/a22536.html", "d7/d52/a22536" ],
-    [ "NPCs", "d0/d32/a22532.html#a8f2ea95c836ba6bab370301fbf3e6822", [
-      [ "NPC_HYLDSMEET_DRAKERIDER", "d0/d32/a22532.html#a8f2ea95c836ba6bab370301fbf3e6822a1b77c38a75142cff5392a89db3e765df", null ]
-    ] ],
-    [ "npc_hyldsmeet_protodrake", "d0/d32/a22532.html#a2471f1d858d7ae8f801208e35860a95e", null ],
-    [ "GetAI", "d0/d32/a22532.html#a791e5cff3901f9a3ec365d4049b82d25", null ]
+    [ "npc_wg_demolisher_engineer", "d0/d32/a22532.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "d0/d32/a22532.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "d0/d32/a22532.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "d0/d32/a22532.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

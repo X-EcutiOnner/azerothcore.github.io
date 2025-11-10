@@ -1,12 +1,17 @@
 var a17120 =
 [
-    [ "npc_tortured_riflemanAI", "db/dd5/a17120.html#a65dc1d2ba5769aed1a0b2487322ff2b1", null ],
-    [ "AttackStart", "db/dd5/a17120.html#aaf2b73d0b60791f887207842580d91dc", null ],
-    [ "DoAction", "db/dd5/a17120.html#acb941c20d911a567c93bb0f92105fdfd", null ],
-    [ "EnterEvadeMode", "db/dd5/a17120.html#aabd56fc4aaed247a9ac3ce5bcdc4cb50", null ],
-    [ "JustDied", "db/dd5/a17120.html#a5796a96626937e1026cc1fec0eba4e0b", null ],
-    [ "JustEngagedWith", "db/dd5/a17120.html#ac5d8f17c48269da06c14643e82c88567", null ],
-    [ "Reset", "db/dd5/a17120.html#a04f9c7056e063d436df66f079127d1a7", null ],
-    [ "UpdateAI", "db/dd5/a17120.html#a194a615eef3651cdc97d4e4ad57bf017", null ],
-    [ "events", "db/dd5/a17120.html#a958f27c1f917dc1ae0a9f84549481f93", null ]
+    [ "npc_hor_lich_kingAI", "db/dd5/a17120.html#a689fd445286595780c3d842976a5913f", null ],
+    [ "DoAction", "db/dd5/a17120.html#a904a57d99527b6ff47d4f9ab8751a4a5", null ],
+    [ "JustSummoned", "db/dd5/a17120.html#aed675a5238ca6a6312d1758ecbe86aa2", null ],
+    [ "MovementInform", "db/dd5/a17120.html#aeeea82d3e5869e5f604314474533975c", null ],
+    [ "Reset", "db/dd5/a17120.html#a1f1bb445ea29daaf479e7171c96db901", null ],
+    [ "SpellHitTarget", "db/dd5/a17120.html#adcee3757198acfaf4fd4dc8765b86a98", null ],
+    [ "SummonedCreatureDespawn", "db/dd5/a17120.html#a1f3a49cd9e1f9c1013a7c5c2ead3bb3d", null ],
+    [ "UpdateAI", "db/dd5/a17120.html#a127cc66ea4804da51eb9069037b9ba33", null ],
+    [ "currentWall", "db/dd5/a17120.html#a13c505b17edf9f843c6c638802eb62aa", null ],
+    [ "div2", "db/dd5/a17120.html#a63a1741fba6e0fecaf9aac6b6c397acf", null ],
+    [ "events", "db/dd5/a17120.html#a06550732cba84da4cbd708d03a7bd6bb", null ],
+    [ "pInstance", "db/dd5/a17120.html#a5c8ce256ab8e71705bc8d84f08245417", null ],
+    [ "reqKillCount", "db/dd5/a17120.html#a69da5432ed2b4ef9944fbd19c97d404d", null ],
+    [ "summons", "db/dd5/a17120.html#af55dd229cd141ffab701c6ab77304127", null ]
 ];

@@ -1,6 +1,7 @@
 var a26524 =
 [
-    [ "CheckCast", "db/d10/a26524.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "db/d10/a26524.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "db/d10/a26524.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "if", "db/d10/a26524.html#aefedb14e99d2e60abfd58f7778deb39b", null ],
+    [ "PrepareAuraScript", "db/d10/a26524.html#ad61e8c804e59ca0623748acde69aeddb", null ],
+    [ "Register", "db/d10/a26524.html#af917d32bc0d7f825a52c0a916a3a2357", null ],
+    [ "AuraEffectHandleModes", "db/d10/a26524.html#accfab0bada4faf21178e3f67a79c6dfe", null ]
 ];

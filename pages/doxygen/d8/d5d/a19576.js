@@ -1,8 +1,13 @@
 var a19576 =
 [
-    [ "npc_crystal_spike", "d8/d5d/a19576.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
-    [ "Reset", "d8/d5d/a19576.html#a8cdca606ce482147d87ad5248665099e", null ],
-    [ "UpdateAI", "d8/d5d/a19576.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
-    [ "_damageTimer", "d8/d5d/a19576.html#a36c70729a0c0281d467f870bfcde80ae", null ],
-    [ "_gameObjectGUID", "d8/d5d/a19576.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
+    [ "npc_oculus_unstable_sphereAI", "d8/d5d/a19576.html#a800ccd2508f8ec0e53bd185b8944acb0", null ],
+    [ "AttackStart", "d8/d5d/a19576.html#a1dac85f0dae65d12740b54fe5d140a25", null ],
+    [ "MoveInLineOfSight", "d8/d5d/a19576.html#a248dad12dc76b4efa2a64c02d4af4b3c", null ],
+    [ "MovementInform", "d8/d5d/a19576.html#a1d6a80a4f7e9239a781bebaedfd389d7", null ],
+    [ "PickNewLocation", "d8/d5d/a19576.html#a5afcf52182ed8d90aae71d46a9d33a92", null ],
+    [ "Reset", "d8/d5d/a19576.html#ac2e391d0149b62823ac9074d45c694cf", null ],
+    [ "UpdateAI", "d8/d5d/a19576.html#acd8fd7a6353642c8e4a61eae0150c07f", null ],
+    [ "gonext", "d8/d5d/a19576.html#a6b1d2ce8ec85e5a063c215c0adef9e0e", null ],
+    [ "located", "d8/d5d/a19576.html#ab8a13498d8c9926c3d6496a0d4707557", null ],
+    [ "timer", "d8/d5d/a19576.html#a8e62f1613ccaba5d93758d6573f4dd6c", null ]
 ];

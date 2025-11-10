@@ -1,6 +1,6 @@
 var a16528 =
 [
-    [ "instance_trial_of_the_champion_InstanceMapScript", "df/d1d/a16532.html", "df/d1d/a16532" ],
-    [ "instance_trial_of_the_champion", "dd/d1c/a16528.html#a7b97e3da119a7ad33a87c74647407bd8", null ],
-    [ "GetInstanceScript", "dd/d1c/a16528.html#a9227119fc47f38cd82a1fc07c04b0c86", null ]
+    [ "npc_swarm_scarabAI", "df/d1d/a16532.html", "df/d1d/a16532" ],
+    [ "npc_swarm_scarab", "dd/d1c/a16528.html#a1d0969526e57ca50c9a499c83f978fd2", null ],
+    [ "GetAI", "dd/d1c/a16528.html#ae12fe8a7c6ee09fc16bd152f59c2d936", null ]
 ];

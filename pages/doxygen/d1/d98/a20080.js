@@ -1,5 +1,6 @@
 var a20080 =
 [
-    [ "boss_flame_leviathan_overload_deviceAI", "d1/d98/a20080.html#ab28c1371c20672e717f92fbc3656fb99", null ],
-    [ "OnSpellClick", "d1/d98/a20080.html#af432be27e1b91ecf5a5a53c7b6add39e", null ]
+    [ "npc_thorims_hammerAI", "d8/def/a20084.html", "d8/def/a20084" ],
+    [ "npc_thorims_hammer", "d1/d98/a20080.html#a97cbcda73931e6119f8ab30fa4bb0806", null ],
+    [ "GetAI", "d1/d98/a20080.html#aaee92d115d112ebf590cf690de8c6667", null ]
 ];

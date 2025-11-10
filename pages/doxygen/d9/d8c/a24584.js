@@ -1,5 +1,8 @@
 var a24584 =
 [
-    [ "npc_pet_dk_dancing_rune_weapon", "d9/d8c/a24584.html#ac838b907d56c97a911d7c7454c65e180", null ],
-    [ "InitializeAI", "d9/d8c/a24584.html#aafeac4a22f366591d6d66b6150e099e2", null ]
+    [ "npc_pet_gen_valkyr_guardian", "d9/d8c/a24584.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "d9/d8c/a24584.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "d9/d8c/a24584.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "d9/d8c/a24584.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "d9/d8c/a24584.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

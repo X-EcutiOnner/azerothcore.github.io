@@ -1,6 +1,5 @@
 var a22916 =
 [
-    [ "PrepareSpellScript", "d5/d19/a22916.html#abd6b61e7efbed1427b7603640ac7d474", null ],
-    [ "RecalculateDamage", "d5/d19/a22916.html#a02b59e5ac84c8556c9a9441ff6414461", null ],
-    [ "Register", "d5/d19/a22916.html#ab6183bf9e49d3c11c256e54053c13aa2", null ]
+    [ "ChargeTargetSelector", "d5/d19/a22916.html#a064e7d9008bfc85b7c636490c7aaf714", null ],
+    [ "operator()", "d5/d19/a22916.html#a596223da822f5a08281fe709cca95909", null ]
 ];

@@ -1,6 +1,6 @@
 var a26748 =
 [
-    [ "PrepareSpellScript", "df/d14/a26748.html#a882d87de64d0e2c64b17c26d9e40d616", null ],
-    [ "Register", "df/d14/a26748.html#ab58938808e460e843e42f2b6fa644e8a", null ],
-    [ "SetDest", "df/d14/a26748.html#ab87932c73a2e53647bda584aeb58f789", null ]
+    [ "ModDest", "df/d14/a26748.html#ab03387aec0a02a6b3bac1014443554b6", null ],
+    [ "PrepareSpellScript", "df/d14/a26748.html#a53f7da301759fb18686bc73281c4a321", null ],
+    [ "Register", "df/d14/a26748.html#a266198fbc6203517f9845ef6212ddf13", null ]
 ];

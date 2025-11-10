@@ -1,6 +1,12 @@
 var a19624 =
 [
-    [ "boss_varosAI", "dd/dd9/a19628.html", "dd/dd9/a19628" ],
-    [ "boss_varos", "dd/ddf/a19624.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
-    [ "GetAI", "dd/ddf/a19624.html#a36733c4eb6179e43d61a1c37480666ea", null ]
+    [ "npc_oculus_drakeAI", "dd/ddf/a19624.html#a214d9b77a5653f1a5f60106081eaf683", null ],
+    [ "IsSummonedBy", "dd/ddf/a19624.html#a151e59f7b6032d5ed62f9f0ed2923f40", null ],
+    [ "MovementInform", "dd/ddf/a19624.html#a5f6de11b9cd3c0d6593d7d249cb59555", null ],
+    [ "PassengerBoarded", "dd/ddf/a19624.html#a5efc6f166b5fd77fa329b17e1e143379", null ],
+    [ "SpellHitTarget", "dd/ddf/a19624.html#aebb8fb75777d7fc3ddc69dc558b08f7e", null ],
+    [ "UpdateAI", "dd/ddf/a19624.html#a8ecaebfcf1c1fbe8ed263be6148ccef6", null ],
+    [ "despawnTimer", "dd/ddf/a19624.html#a560dc0936a78267a4036b209c6718732", null ],
+    [ "JustSummoned", "dd/ddf/a19624.html#a8b656a464525e881944e72e9486b0eb9", null ],
+    [ "m_pInstance", "dd/ddf/a19624.html#a4df6c06ec857086f7a2747cab2c4703c", null ]
 ];

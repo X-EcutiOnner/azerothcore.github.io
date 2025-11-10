@@ -1,6 +1,10 @@
 var a21096 =
 [
-    [ "boss_yoggsaron_lich_kingAI", "d6/d6d/a21100.html", "d6/d6d/a21100" ],
-    [ "boss_yoggsaron_lich_king", "d1/db7/a21096.html#a1655d608683e90ccafd350204eed2d31", null ],
-    [ "GetAI", "d1/db7/a21096.html#aa65cd9c9eafba12ae065903868ee5319", null ]
+    [ "boss_yoggsaron_voiceAI", "d1/db7/a21096.html#ac78b27f8d4df433e1fad2ae550a4da44", null ],
+    [ "Reset", "d1/db7/a21096.html#ae5561244ad7387a3614bb6f1e23a7001", null ],
+    [ "SpellHitTarget", "d1/db7/a21096.html#a0cc39577b4b70eb1be16f9c8b5cb5c72", null ],
+    [ "UpdateAI", "d1/db7/a21096.html#a3c8458c25f7389f5fb5218177590a4c6", null ],
+    [ "_current", "d1/db7/a21096.html#ad94ddde194a32b380ba1d309f1ece14a", null ],
+    [ "_targets", "d1/db7/a21096.html#ab6132214a2249fbb5de8a5115b114381", null ],
+    [ "events", "d1/db7/a21096.html#ac0c6aa9efe9d9e80b29fae8c190962dc", null ]
 ];

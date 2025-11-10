@@ -1,7 +1,6 @@
 var a24028 =
 [
-    [ "OnApply", "d4/d39/a24028.html#abab02b8307b762d070ba12358f59916d", null ],
-    [ "OnRemove", "d4/d39/a24028.html#a5ac45a5cfa17689d241c44241216ff38", null ],
-    [ "PrepareAuraScript", "d4/d39/a24028.html#a54f128745c3c35d7e52e9de7bb69a39a", null ],
-    [ "Register", "d4/d39/a24028.html#ae130b3cddbe0d9ce21d888e21472d64b", null ]
+    [ "HandlePeriodic", "d4/d39/a24028.html#aec3f36e2c5fedddd84478b9e3a59e6f4", null ],
+    [ "PrepareAuraScript", "d4/d39/a24028.html#a2b809a60626119f6bcf595bd3581c2be", null ],
+    [ "Register", "d4/d39/a24028.html#a299f84e9c12406c79a56999a13de5c1c", null ]
 ];

@@ -1,5 +1,6 @@
 var a20220 =
 [
-    [ "achievement_flame_leviathan_shutout", "d8/d56/a20220.html#a555e0d206b7f730665d301c7e03b23e6", null ],
-    [ "OnCheck", "d8/d56/a20220.html#af548232f563fd387bc8ee25b696a2f99", null ]
+    [ "boss_freya_elder_brightleafAI", "d9/d42/a20224.html", "d9/d42/a20224" ],
+    [ "boss_freya_elder_brightleaf", "d8/d56/a20220.html#a9b1539b37912ef5ae46d5926bf2e0f40", null ],
+    [ "GetAI", "d8/d56/a20220.html#a3c39424ecf97ced8c2a962baff5ae342", null ]
 ];

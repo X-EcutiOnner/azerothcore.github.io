@@ -1,7 +1,7 @@
 var a16964 =
 [
-    [ "HandleEffectRemove", "db/d3d/a16964.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
-    [ "Load", "db/d3d/a16964.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
-    [ "PrepareAuraScript", "db/d3d/a16964.html#a97411ddf89a10a962ba74d294eb653e7", null ],
-    [ "Register", "db/d3d/a16964.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
+    [ "HandlePeriodicTick", "db/d3d/a16964.html#a7fa0334a0a33b15758b6362aa0a9bd7d", null ],
+    [ "PrepareAuraScript", "db/d3d/a16964.html#aabaef31a3c699c322e24e064f357f82f", null ],
+    [ "Register", "db/d3d/a16964.html#ae9602bc623422c124dfc37a18c0dbfec", null ],
+    [ "Validate", "db/d3d/a16964.html#a18d92a82760992bc5d8503e3f774f208", null ]
 ];

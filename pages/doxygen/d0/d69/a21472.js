@@ -1,7 +1,6 @@
 var a21472 =
 [
-    [ "PrepareAuraScript", "d0/d69/a21472.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
-    [ "Register", "d0/d69/a21472.html#a7225d1f83921e4de06516c1db5a5038a", null ],
-    [ "TriggerFists", "d0/d69/a21472.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
-    [ "Validate", "d0/d69/a21472.html#a977897c569245148eb94892bb42d4ca5", null ]
+    [ "instance_vault_of_archavon_InstanceMapScript", "d2/d39/a21476.html", "d2/d39/a21476" ],
+    [ "instance_vault_of_archavon", "d0/d69/a21472.html#a0be8d95ff0f3b751e6f833689e436310", null ],
+    [ "GetInstanceScript", "d0/d69/a21472.html#abb955a8873a3a3021e164225dd1f857a", null ]
 ];

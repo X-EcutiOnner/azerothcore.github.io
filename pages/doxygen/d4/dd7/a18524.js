@@ -1,7 +1,7 @@
 var a18524 =
 [
-    [ "OnPeriodic", "d4/dd7/a18524.html#a9635bf496ee3098e412ba7de633250b3", null ],
-    [ "PrepareAuraScript", "d4/dd7/a18524.html#accb775d3a9c4ae40f5d8644c366ec39e", null ],
-    [ "Register", "d4/dd7/a18524.html#aa44bb97a0d3af32b90a133582f064b0e", null ],
-    [ "Validate", "d4/dd7/a18524.html#a5675fef373315edd34d096bb91c733b0", null ]
+    [ "PrepareSpellScript", "d4/dd7/a18524.html#a3283e829757b50bb52f66ee1e64033ae", null ],
+    [ "Register", "d4/dd7/a18524.html#a0162c92c32210f2873686610f4f00b87", null ],
+    [ "TriggerHeal", "d4/dd7/a18524.html#a3cdfca33a535bad0942beea24aefa1bb", null ],
+    [ "Validate", "d4/dd7/a18524.html#a6545fe9f40c0aed036192008a2d6e28e", null ]
 ];

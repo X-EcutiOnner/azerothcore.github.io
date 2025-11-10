@@ -1,13 +1,6 @@
 var a21480 =
 [
-    [ "boss_toravonAI", "de/d00/a21480.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
-    [ "AttackStart", "de/d00/a21480.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
-    [ "JustDied", "de/d00/a21480.html#ad501bb34a0014be0abc965aae5383e21", null ],
-    [ "JustEngagedWith", "de/d00/a21480.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
-    [ "JustSummoned", "de/d00/a21480.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
-    [ "Reset", "de/d00/a21480.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
-    [ "UpdateAI", "de/d00/a21480.html#a97c16b1689cfdb7fa680381964cb272a", null ],
-    [ "events", "de/d00/a21480.html#ae2a3b691f1580275228204ea8ccaf846", null ],
-    [ "pInstance", "de/d00/a21480.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
-    [ "summons", "de/d00/a21480.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
+    [ "boss_cyanigosaAI", "d0/deb/a21484.html", "d0/deb/a21484" ],
+    [ "boss_cyanigosa", "de/d00/a21480.html#a4db12e2fb873ad3595a437df09663a22", null ],
+    [ "GetAI", "de/d00/a21480.html#a779c7c3a5f0002501361fa92fe14af69", null ]
 ];

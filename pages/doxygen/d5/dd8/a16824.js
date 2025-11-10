@@ -1,6 +1,7 @@
 var a16824 =
 [
-    [ "boss_fjolaAI", "d9/df5/a16828.html", "d9/df5/a16828" ],
-    [ "boss_fjola", "d5/dd8/a16824.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f", null ],
-    [ "GetAI", "d5/dd8/a16824.html#a96d9ea0716199758b60ad933ade28de4", null ]
+    [ "HandleEffectPeriodic", "d5/dd8/a16824.html#ae8121dcb796f3ee496c24bbd46651f81", null ],
+    [ "PrepareAuraScript", "d5/dd8/a16824.html#af84222492b3209c97695895c4c991f4a", null ],
+    [ "Register", "d5/dd8/a16824.html#a4d1741913631bb649508ef238e25a6c8", null ],
+    [ "Validate", "d5/dd8/a16824.html#ac9b7fd3876620988cc74aa0a5202e599", null ]
 ];

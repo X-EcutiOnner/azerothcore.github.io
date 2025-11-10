@@ -1,6 +1,12 @@
 var a13444 =
 [
-    [ "HandleSendEvent", "dc/dac/a13444.html#ad245a7dcf129774b8ef3e3653b3e3026", null ],
-    [ "PrepareSpellScript", "dc/dac/a13444.html#ad9dfe5b2702540eb119ec86cfbd0ff30", null ],
-    [ "Register", "dc/dac/a13444.html#a0b5ac8cfc4eb4adadb653a81a59a8287", null ]
+    [ "boss_sacrolash", "dc/dac/a13444.html#a6e251340b2ba8a8300611cf229b93095", null ],
+    [ "CheckInRoom", "dc/dac/a13444.html#ae650b6019d2f9191e1b532176159804d", null ],
+    [ "DoAction", "dc/dac/a13444.html#adbcbd24a90549978032d31d1beeaa4e6", null ],
+    [ "JustDied", "dc/dac/a13444.html#a17c995220572cf803c36470ca80840e2", null ],
+    [ "JustEngagedWith", "dc/dac/a13444.html#a822576bf8588d4e45f1532e1980cc7c7", null ],
+    [ "JustSummoned", "dc/dac/a13444.html#a94214bc45414f61ff53102d6136b7b5c", null ],
+    [ "KilledUnit", "dc/dac/a13444.html#a4d99da498db0e5a60c7c25fcb91e5270", null ],
+    [ "Reset", "dc/dac/a13444.html#aa3128dae87d181e7ab93cf3a13723982", null ],
+    [ "_isSisterDead", "dc/dac/a13444.html#a248d37df91c82069321fc5ea8b1e885d", null ]
 ];

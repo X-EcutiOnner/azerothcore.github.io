@@ -1,11 +1,7 @@
 var a21244 =
 [
-    [ "npc_ulduar_storm_tempered_keeperAI", "d7/d4a/a21244.html#a97ffe70fab090c7182b2a8dce3c7c54f", null ],
-    [ "JustDied", "d7/d4a/a21244.html#a4778b4c1d7afedc4c8ea3a0b2c2509e1", null ],
-    [ "JustEngagedWith", "d7/d4a/a21244.html#a5ae632ba4da1e78dfa6980fce492ec8e", null ],
-    [ "JustSummoned", "d7/d4a/a21244.html#a7962e2148fb55d96cde4e2fed48e71f4", null ],
-    [ "Reset", "d7/d4a/a21244.html#a521fd2c3f8fb1319daaecfb203d9ebb8", null ],
-    [ "UpdateAI", "d7/d4a/a21244.html#a9d5bc84572934b4fba19d2996e1c89f0", null ],
-    [ "events", "d7/d4a/a21244.html#a0281fd23155c73768a09f60b3a04ce9d", null ],
-    [ "otherGUID", "d7/d4a/a21244.html#a627aa7ff4ffe264d4ea3e78469954170", null ]
+    [ "npc_frost_tomb", "d7/d4a/a21244.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
+    [ "JustDied", "d7/d4a/a21244.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
+    [ "UpdateAI", "d7/d4a/a21244.html#af2122e9c8cb206151f631659c7d167da", null ],
+    [ "PrisonerGUID", "d7/d4a/a21244.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
 ];

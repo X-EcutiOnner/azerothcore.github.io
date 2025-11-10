@@ -1,6 +1,6 @@
 var a13680 =
 [
-    [ "instance_sunwell_plateau_InstanceMapScript", "db/de3/a13684.html", "db/de3/a13684" ],
-    [ "instance_sunwell_plateau", "db/d20/a13680.html#a31d2245a9237c8dc4480b9d26ff3557c", null ],
-    [ "GetInstanceScript", "db/d20/a13680.html#a5960785a845c87e2e1730cfd865b44b4", null ]
+    [ "instance_the_stockade_InstanceMapScript", "db/de3/a13684.html", "db/de3/a13684" ],
+    [ "instance_the_stockade", "db/d20/a13680.html#a533049c10a72da4b94f9807017f28c0d", null ],
+    [ "GetInstanceScript", "db/d20/a13680.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
 ];

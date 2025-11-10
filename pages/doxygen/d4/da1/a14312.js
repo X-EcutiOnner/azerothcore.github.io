@@ -1,11 +1,19 @@
 var a14312 =
 [
-    [ "boss_marli", "d4/da1/a14312.html#abba94b400523047bfa9e3a5b34b1ee54", null ],
-    [ "_chargePlayer", "d4/da1/a14312.html#a54efa8663716fb32d6e390b76dc89ee1", null ],
-    [ "_schedulePhaseSpider", "d4/da1/a14312.html#aff86376080fdcb9773e0a4b2751d3ae6", null ],
-    [ "_schedulePhaseTroll", "d4/da1/a14312.html#ad6977930dac1cddd2162f7db1b239c83", null ],
-    [ "JustDied", "d4/da1/a14312.html#a10ab29949ef17e0f9ebd991dc70262c7", null ],
-    [ "JustEngagedWith", "d4/da1/a14312.html#ac74bd382c3dc826f7e4426bec3557094", null ],
-    [ "Reset", "d4/da1/a14312.html#ada18ae0feb0c512267ec6bd83b8ac591", null ],
-    [ "_phase", "d4/da1/a14312.html#af2b3f0e75ad60b6a9d013a3e9654021e", null ]
+    [ "boss_thekal", "d4/da1/a14312.html#a91e8fd9ba169d5096fd06471f8bd16e9", null ],
+    [ "CheckPhaseTransition", "d4/da1/a14312.html#a95aeb81565f5863eec67106ae1118ac4", null ],
+    [ "DamageTaken", "d4/da1/a14312.html#a98be9a4d815f6fdc01acbfaa916b721c", null ],
+    [ "DoAction", "d4/da1/a14312.html#aa3d81738fbb42d5575dd8e5b30d84563", null ],
+    [ "Initialize", "d4/da1/a14312.html#aec365f330eed69513e988f895ec780e7", null ],
+    [ "JustDied", "d4/da1/a14312.html#a79bc19df134cbeb17f0941865461bd0d", null ],
+    [ "JustEngagedWith", "d4/da1/a14312.html#af5e2b2b5665270f29243921e51280190", null ],
+    [ "Reset", "d4/da1/a14312.html#a684bf1fc087970a41cf79959ba57b31b", null ],
+    [ "ReviveZealot", "d4/da1/a14312.html#aab84b3390cf8cc95dc8a2067ed38b4ab", null ],
+    [ "SetData", "d4/da1/a14312.html#a586805c5f8d20a35055cf12a3c9f673f", null ],
+    [ "UpdateAI", "d4/da1/a14312.html#a4b5e7dae10900a197d047b6ea32c33ed", null ],
+    [ "UpdateZealotStatus", "d4/da1/a14312.html#ac69068240dfc1ecf30f37e36c3e51353", null ],
+    [ "_enraged", "d4/da1/a14312.html#aba5ac2c4cdac1d4a0e37e9d6cd3b1422", null ],
+    [ "_lorkhanDied", "d4/da1/a14312.html#a0f84ad2f224fe29fc4ddde3258200e10", null ],
+    [ "_wasDead", "d4/da1/a14312.html#aec4eea1f0d8ebffb1bbc2646e986f300", null ],
+    [ "_zathDied", "d4/da1/a14312.html#ae3df1561ee3dcb3887f6e646b6277b29", null ]
 ];

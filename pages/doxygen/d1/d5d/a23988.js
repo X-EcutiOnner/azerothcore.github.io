@@ -1,4 +1,6 @@
 var a23988 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "d1/d5d/a23988.html#a86c5e55fe8f7e40d041abbcdb2d23797", null ]
+    [ "OnApply", "d1/d5d/a23988.html#a472220f22165c6d21eab5f4b5f75921e", null ],
+    [ "PrepareAuraScript", "d1/d5d/a23988.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
+    [ "Register", "d1/d5d/a23988.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
 ];

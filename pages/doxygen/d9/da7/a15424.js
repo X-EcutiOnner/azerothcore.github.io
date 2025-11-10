@@ -1,7 +1,13 @@
 var a15424 =
 [
-    [ "FilterTargets", "d9/da7/a15424.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
-    [ "HandleOnHit", "d9/da7/a15424.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
-    [ "PrepareSpellScript", "d9/da7/a15424.html#ad7372e543391a23c003b4121e0dd8a09", null ],
-    [ "Register", "d9/da7/a15424.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
+    [ "instance_temple_of_ahnqiraj_InstanceMapScript", "d9/da7/a15424.html#a454f677dddce956534d6f5a253ed587b", null ],
+    [ "GetData", "d9/da7/a15424.html#ad34ee1e43d05826c1b4e80e2df6ac5f6", null ],
+    [ "Initialize", "d9/da7/a15424.html#a8d46d9aa082d306aa2c9cd8fde3eea1d", null ],
+    [ "OnCreatureCreate", "d9/da7/a15424.html#affc7045f944251fb27683133f511029f", null ],
+    [ "OnGameObjectCreate", "d9/da7/a15424.html#a36f22cb12a5d59b377627f7cacbffecb", null ],
+    [ "OnUnitDeath", "d9/da7/a15424.html#a921a58152e075b9a64bf3c73aabdf1f2", null ],
+    [ "SetBossState", "d9/da7/a15424.html#abb9fc9c7901d0c830d498f3fbdaebbe6", null ],
+    [ "SetData", "d9/da7/a15424.html#a25f4e12aad6325e87b31770c1243d746", null ],
+    [ "BugTrioDeathCount", "d9/da7/a15424.html#aab0191f5b31264f0632a24df0607d05b", null ],
+    [ "CThunGraspGUIDs", "d9/da7/a15424.html#aea180c0b623e919f56f9210ce15724e8", null ]
 ];

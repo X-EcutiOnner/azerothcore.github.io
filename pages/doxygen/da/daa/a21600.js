@@ -1,5 +1,6 @@
 var a21600 =
 [
-    [ "go_vh_activation_crystal", "da/daa/a21600.html#a4af485ac7ab6144282f3204a6d045cea", null ],
-    [ "OnGossipHello", "da/daa/a21600.html#a47a61ba67086580135559332931e9c6e", null ]
+    [ "npc_azure_binderAI", "de/d8f/a21604.html", "de/d8f/a21604" ],
+    [ "npc_azure_binder", "da/daa/a21600.html#a25b8b19b6ccdae92418c47fe68537c42", null ],
+    [ "GetAI", "da/daa/a21600.html#aad091206a8bd06a1064b68b81510eb56", null ]
 ];

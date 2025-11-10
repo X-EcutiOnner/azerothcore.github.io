@@ -1,15 +1,10 @@
 var a19556 =
 [
-    [ "boss_magus_telestra", "d0/dce/a19556.html#ac8ee0c8ac0bafa479ef6c3669c8aa430", null ],
-    [ "AttackStart", "d0/dce/a19556.html#a9ef67f8a53c5dceaf74bc156e0c6edad", null ],
-    [ "GetData", "d0/dce/a19556.html#a713f93edc709edabe003c305efdd709c", null ],
-    [ "JustDied", "d0/dce/a19556.html#ac69759755637749a58f712b86d3bf9ac", null ],
-    [ "JustEngagedWith", "d0/dce/a19556.html#a91b4569027b3414814bf1f2e86441fc6", null ],
-    [ "JustSummoned", "d0/dce/a19556.html#a1fc0f30287916d6606829987d29d9387", null ],
-    [ "KilledUnit", "d0/dce/a19556.html#a85b333905e5dcd34dbe001306924529a", null ],
-    [ "Reset", "d0/dce/a19556.html#a82dd720fe591ac1e72ce302087ea64c7", null ],
-    [ "SpellHit", "d0/dce/a19556.html#ac48bb325de6641a1f2f980f15b8e3eb4", null ],
-    [ "UpdateAI", "d0/dce/a19556.html#acd365d6bcc1e526e59344c1a907d0eeb", null ],
-    [ "achievement", "d0/dce/a19556.html#a00c4e862101679d5aa36b8e5dba4e5a2", null ],
-    [ "copiesDied", "d0/dce/a19556.html#a5738bf62869f9958448213b28c1bf771", null ]
+    [ "instance_nexus_InstanceMapScript", "d0/dce/a19556.html#a6803f233d730f33e5af7dc9d8ecd9775", null ],
+    [ "Initialize", "d0/dce/a19556.html#a2c6c42e73de2a155c04f80e37aa5d442", null ],
+    [ "OnCreatureCreate", "d0/dce/a19556.html#a04806dc42aa0b171fa99eb1d8492ff61", null ],
+    [ "OnGameObjectCreate", "d0/dce/a19556.html#a85c3ac915970d68a192414ca4ff8ad1f", null ],
+    [ "OnGameObjectRemove", "d0/dce/a19556.html#ac148c67823484eee38ab6646dfb68530", null ],
+    [ "SetBossState", "d0/dce/a19556.html#a11ac1fbc7c699084e7da5e4bf0595651", null ],
+    [ "SetData", "d0/dce/a19556.html#a351052b1d3ea4ddb5d36ce69818c7e67", null ]
 ];

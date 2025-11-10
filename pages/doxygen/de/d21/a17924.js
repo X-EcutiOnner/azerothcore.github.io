@@ -1,7 +1,6 @@
 var a17924 =
 [
-    [ "HandleScript", "de/d21/a17924.html#ae3e8d811d3ad6561768dfff3a16ec9bd", null ],
-    [ "PrepareSpellScript", "de/d21/a17924.html#ab69926839f72ee76eba2b225aba9690c", null ],
-    [ "Register", "de/d21/a17924.html#aad8925e891d7537993f02f3bc2552fea", null ],
-    [ "SelectRandomTarget", "de/d21/a17924.html#aae77f6693a3e5d01e3d05cb990fd1fe5", null ]
+    [ "boss_lady_deathwhisperAI", "dc/d1e/a17928.html", "dc/d1e/a17928" ],
+    [ "boss_lady_deathwhisper", "de/d21/a17924.html#a979411cb834611b1239f3bf9058d316d", null ],
+    [ "GetAI", "de/d21/a17924.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
 ];

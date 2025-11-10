@@ -1,6 +1,9 @@
 var a23072 =
 [
-    [ "HandleSharedRule", "d6/d49/a23072.html#a94b783490dafae872b65e0bbfed156b9", null ],
-    [ "PrepareSpellScript", "d6/d49/a23072.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
-    [ "Register", "d6/d49/a23072.html#a31f2d90059e62da77a719a192d62328b", null ]
+    [ "FilterTargets", "d6/d49/a23072.html#aa8f0401dd004e816b8071381289116fa", null ],
+    [ "HandleTeleportUnits", "d6/d49/a23072.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
+    [ "PrepareSpellScript", "d6/d49/a23072.html#a47898c213cdd125714c80d327bf42d8c", null ],
+    [ "Register", "d6/d49/a23072.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
+    [ "SetDest", "d6/d49/a23072.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
+    [ "Validate", "d6/d49/a23072.html#a814083360970284a325621f45e109b5b", null ]
 ];

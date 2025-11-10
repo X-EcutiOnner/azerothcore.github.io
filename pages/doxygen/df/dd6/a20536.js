@@ -1,6 +1,7 @@
 var a20536 =
 [
-    [ "boss_kologarnAI", "db/d05/a20540.html", "db/d05/a20540" ],
-    [ "boss_kologarn", "df/dd6/a20536.html#a5f654a0f534c4ec6c1164ea08e40a476", null ],
-    [ "GetAI", "df/dd6/a20536.html#ad78c2d269e68d8c3bbd86b844ada9435", null ]
+    [ "boss_kologarn_pit_kill_bunny", "df/dd6/a20536.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
+    [ "Reset", "df/dd6/a20536.html#afd7482896b66f040b8d57b9b6ac37059", null ],
+    [ "UpdateAI", "df/dd6/a20536.html#ad863666aec3db81f73165148ffc98033", null ],
+    [ "_boundaryIntersect", "df/dd6/a20536.html#abc0560637830e70d54ce1fb6b6881ca6", null ]
 ];

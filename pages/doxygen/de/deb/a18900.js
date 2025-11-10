@@ -1,5 +1,7 @@
 var a18900 =
 [
-    [ "npc_alchemist_adrianna", "de/deb/a18900.html#a310d375bc73c51e407580b063a6543fa", null ],
-    [ "OnGossipHello", "de/deb/a18900.html#a02ec6a66037d72e30bbe821ceee38691", null ]
+    [ "HandleQuestComplete", "de/deb/a18900.html#a5f1e6c4358df4e0910b2227f90b39d24", null ],
+    [ "HandleScript", "de/deb/a18900.html#a309052e9b7c3d3747d15ab5e9c0d25fd", null ],
+    [ "PrepareSpellScript", "de/deb/a18900.html#ac9b2786ba2dbb8d1c74af05153bb0a6f", null ],
+    [ "Register", "de/deb/a18900.html#a3258d4517cfc758080691bab429624d7", null ]
 ];

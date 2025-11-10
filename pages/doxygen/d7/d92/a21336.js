@@ -1,13 +1,16 @@
 var a21336 =
 [
-    [ "npc_ferocious_rhinoAI", "d7/d92/a21336.html#ad70d0aeba4b73330c5087bc84a533389", null ],
-    [ "DoAction", "d7/d92/a21336.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
-    [ "JustDied", "d7/d92/a21336.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
-    [ "JustEngagedWith", "d7/d92/a21336.html#aab35078fe4518b6647f98e316d02898a", null ],
-    [ "JustReachedHome", "d7/d92/a21336.html#ab8105d6c8c70037c208c83c13c35242d", null ],
-    [ "MoveInLineOfSight", "d7/d92/a21336.html#a97e32d32a692f223b96746f3ef1086c5", null ],
-    [ "Reset", "d7/d92/a21336.html#a6d317407c2de2f954b5dd2a6db137304", null ],
-    [ "UpdateAI", "d7/d92/a21336.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
-    [ "events", "d7/d92/a21336.html#af23061de7d8566c7435c2c64c53dff89", null ],
-    [ "m_pInstance", "d7/d92/a21336.html#a97e00db40792c559dd06327c9960abe4", null ]
+    [ "boss_skadiAI", "d7/d92/a21336.html#a674e0cea77b25ec6413f8e52336d06db", null ],
+    [ "DoAction", "d7/d92/a21336.html#ac0513a8e187b3d68fd320b124930ac8b", null ],
+    [ "GetGrauf", "d7/d92/a21336.html#a48806cf61d295e6ab86a1e018b0fd30a", null ],
+    [ "JustDied", "d7/d92/a21336.html#af963eda18854869f3a73cb22f48b0230", null ],
+    [ "KilledUnit", "d7/d92/a21336.html#aab72405691cab78ac0f224cf637f7570", null ],
+    [ "Reset", "d7/d92/a21336.html#a7d1287f7a3cc5703a7430a15e769cb2c", null ],
+    [ "UpdateAI", "d7/d92/a21336.html#a05690f147e2c2a584179c19b0a84a1b0", null ],
+    [ "events", "d7/d92/a21336.html#a7dabced72e6cc2191cc29a221967159e", null ],
+    [ "EventStarted", "d7/d92/a21336.html#aa4f75b2430f3b95dcc2a06f22f5d9680", null ],
+    [ "GraufGUID", "d7/d92/a21336.html#a9990eed4758e5eaad8a538b09ac7ee4f", null ],
+    [ "m_pInstance", "d7/d92/a21336.html#ae48e23b61d9cafbdc9a7811361ebcd11", null ],
+    [ "SecondPhase", "d7/d92/a21336.html#a3a3892c0fcc148cf8d3b903a37de3e1f", null ],
+    [ "summons", "d7/d92/a21336.html#a93762ced245b700eb6196ea3a96b143c", null ]
 ];

@@ -1,6 +1,5 @@
 var a23572 =
 [
-    [ "instance_the_slave_pens_InstanceMapScript", "db/d9f/a23576.html", "db/d9f/a23576" ],
-    [ "instance_the_slave_pens", "d1/de0/a23572.html#a765f7b66ad3bed1828524ecb143742f2", null ],
-    [ "GetInstanceScript", "d1/de0/a23572.html#a0eedcecf1ddc27e139898cacf6f48965", null ]
+    [ "go_main_chambers_access_panel", "d1/de0/a23572.html#a30c3c20be1892b5107ef53683d593b75", null ],
+    [ "OnGossipHello", "d1/de0/a23572.html#af4b3a4a0260de68dcfac7202e0a728ee", null ]
 ];

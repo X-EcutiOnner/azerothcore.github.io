@@ -1,11 +1,9 @@
 var a21108 =
 [
-    [ "boss_yoggsaron_llaneAI", "dd/d87/a21108.html#a8524834b7dff49844d96b7dc49fd265d", null ],
-    [ "NextStep", "dd/d87/a21108.html#a6587e7873455950bda97b2a7d78e6fc5", null ],
-    [ "Reset", "dd/d87/a21108.html#a86f9d594562f842d478b63de18e52455", null ],
-    [ "Say", "dd/d87/a21108.html#ab619684f15f5325383a413dced7c930e", null ],
-    [ "UpdateAI", "dd/d87/a21108.html#a545378189f85968ac925baa06ad608b5", null ],
-    [ "_checkTimer", "dd/d87/a21108.html#aa4956f6943adce94a9ed4fec951317d6", null ],
-    [ "_running", "dd/d87/a21108.html#a6d6d186febc408ecb830bf7eea3c72bd", null ],
-    [ "_step", "dd/d87/a21108.html#a718c0bf307934b9ee9cbb933899c6324", null ]
+    [ "HandleOnEffectApply", "dd/d87/a21108.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
+    [ "OnPeriodic", "dd/d87/a21108.html#a49ad44eba19416743bd26252d1b40d71", null ],
+    [ "PrepareAuraScript", "dd/d87/a21108.html#ae0c475babb67cebb245d6d85b50cd694", null ],
+    [ "Register", "dd/d87/a21108.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
+    [ "Validate", "dd/d87/a21108.html#ab383a0a207aa78b7efcd400765ad0838", null ],
+    [ "_targetGUID", "dd/d87/a21108.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
 ];

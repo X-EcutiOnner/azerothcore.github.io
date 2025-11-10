@@ -1,7 +1,6 @@
 var a23052 =
 [
-    [ "boss_veras_darkshadow", "d4/ddd/a23052.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
-    [ "JustEngagedWith", "d4/ddd/a23052.html#a5eec3e70a7950073eced60d680ff6298", null ],
-    [ "JustSummoned", "d4/ddd/a23052.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
-    [ "UpdateAI", "d4/ddd/a23052.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
+    [ "PrepareAuraScript", "d4/ddd/a23052.html#a5cba6aaa06f8ec6e083ee0c5064414e4", null ],
+    [ "Register", "d4/ddd/a23052.html#a75d0cf142e299783b06903ea03287e28", null ],
+    [ "Update", "d4/ddd/a23052.html#ac027b02ed0ba70d65621a6af157c98f6", null ]
 ];

@@ -1,5 +1,5 @@
 var a27284 =
 [
-    [ "achievement_bg_sa_artillery", "d7/de5/a27284.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
-    [ "OnCheck", "d7/de5/a27284.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
+    [ "achievement_not_even_a_scratch", "d7/de5/a27284.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "d7/de5/a27284.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

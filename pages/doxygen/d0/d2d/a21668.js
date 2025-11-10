@@ -1,6 +1,6 @@
 var a21668 =
 [
-    [ "npc_azure_captainAI", "d7/df2/a21672.html", "d7/df2/a21672" ],
-    [ "npc_azure_captain", "d0/d2d/a21668.html#aeced2dbbfb23c161fd2bbc22859886a4", null ],
-    [ "GetAI", "d0/d2d/a21668.html#a0d1bd80fc38c61e05d3f31ffe587350f", null ]
+    [ "npc_violet_hold_defense_system", "d0/d2d/a21668.html#abb5eb275e803201aad3010ad77aa4b41", null ],
+    [ "Reset", "d0/d2d/a21668.html#a77925ae6097f7a52d446ee20bbb3de62", null ],
+    [ "UpdateAI", "d0/d2d/a21668.html#ab39bc3da2d7ce33be1e27cd48fc16e89", null ]
 ];

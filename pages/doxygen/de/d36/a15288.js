@@ -1,8 +1,6 @@
 var a15288 =
 [
-    [ "npc_obsidian_destroyer", "de/d36/a15288.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
-    [ "JustDied", "de/d36/a15288.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
-    [ "JustEngagedWith", "de/d36/a15288.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
-    [ "Reset", "de/d36/a15288.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
-    [ "UpdateAI", "de/d36/a15288.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
+    [ "FilterTargets", "de/d36/a15288.html#a8fa6932a6cf291d8ab40140b171e1c17", null ],
+    [ "PrepareSpellScript", "de/d36/a15288.html#a5e93e2cb92db31be03703ab2e5d082cd", null ],
+    [ "Register", "de/d36/a15288.html#a0e3a6fd6f3de3d81f535d67451568c45", null ]
 ];

@@ -1,7 +1,6 @@
 var a24064 =
 [
-    [ "HandleEffect", "db/da1/a24064.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
-    [ "PrepareSpellScript", "db/da1/a24064.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
-    [ "Register", "db/da1/a24064.html#ac406946bb793125d49006e3a877c9638", null ],
-    [ "SelectTarget", "db/da1/a24064.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
+    [ "FilterTargets", "db/da1/a24064.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
+    [ "PrepareSpellScript", "db/da1/a24064.html#afa186c0b0728e3462f8984189613f9a7", null ],
+    [ "Register", "db/da1/a24064.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
 ];

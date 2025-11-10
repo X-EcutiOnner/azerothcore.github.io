@@ -1,5 +1,6 @@
 var a27468 =
 [
-    [ "go_ethereum_stasis", "da/d9b/a27468.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
-    [ "OnGossipHello", "da/d9b/a27468.html#ac36da8dccbebcaee605a878df3904c60", null ]
+    [ "go_heatAI", "da/d9b/a27468.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
+    [ "UpdateAI", "da/d9b/a27468.html#a2332206ee47b2cea9e4707d16ea79325", null ],
+    [ "timer", "da/d9b/a27468.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
 ];

@@ -1,12 +1,12 @@
 var a13756 =
 [
-    [ "boss_twilight_corrupter", "da/d96/a13756.html#afe140d6231d9ad8543e17c4a8a8230c0", null ],
-    [ "InitializeAI", "da/d96/a13756.html#afe06461e9f3e1549da6631d2f89406c4", null ],
-    [ "JustEngagedWith", "da/d96/a13756.html#a84803153e7e7d5d7efe0106139214b1f", null ],
-    [ "KilledUnit", "da/d96/a13756.html#aa18d2fc90e1ccd322ec9d3128ba206d2", null ],
-    [ "MoveInLineOfSight", "da/d96/a13756.html#a637cdd43f2f9a4f773b4b8e8f3c88730", null ],
-    [ "Reset", "da/d96/a13756.html#a27720f58056206c09bce41ae50018a83", null ],
-    [ "UpdateAI", "da/d96/a13756.html#a580fbaa55a5c0193c1ef2c6b281d8d9e", null ],
-    [ "_introSpoken", "da/d96/a13756.html#a1924750c9d41ed588a29aace3c40742d", null ],
-    [ "_scheduler", "da/d96/a13756.html#a6c49eee2be24199418096cc48c50d384", null ]
+    [ "npc_cameron", "da/d96/a13756.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
+    [ "MoveTheChildren", "da/d96/a13756.html#a85ae436f19f69ffb853330f01ee152a0", null ],
+    [ "PathEndReached", "da/d96/a13756.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
+    [ "sOnGameEvent", "da/d96/a13756.html#ab22841871cfcdc926b28296a5b4e440c", null ],
+    [ "SoundPicker", "da/d96/a13756.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
+    [ "UpdateAI", "da/d96/a13756.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
+    [ "_childrenGUIDs", "da/d96/a13756.html#ad260466902e8fb1a2e02998cc4549695", null ],
+    [ "_events", "da/d96/a13756.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
+    [ "_started", "da/d96/a13756.html#a985d0590eedde340a3923e299d4dffd8", null ]
 ];

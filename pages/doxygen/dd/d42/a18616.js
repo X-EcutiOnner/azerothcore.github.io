@@ -1,6 +1,8 @@
 var a18616 =
 [
-    [ "npc_icc_lk_checktargetAI", "df/dda/a18620.html", "df/dda/a18620" ],
-    [ "npc_icc_lk_checktarget", "dd/d42/a18616.html#a3a2cc943e731e472694dcb13417090da", null ],
-    [ "GetAI", "dd/d42/a18616.html#a2cd9a5c7fec791ba8786cf1bb5b7c8bd", null ]
+    [ "npc_lk_wicked_spiritAI", "dd/d42/a18616.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
+    [ "CanAIAttack", "dd/d42/a18616.html#ae094420b1a6e134632baa0b086c806c6", null ],
+    [ "JustDied", "dd/d42/a18616.html#adf153fab1c8639b2b5790ed418afb85d", null ],
+    [ "JustRespawned", "dd/d42/a18616.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
+    [ "Reset", "dd/d42/a18616.html#a8b15079251b6855679d738a342126006", null ]
 ];

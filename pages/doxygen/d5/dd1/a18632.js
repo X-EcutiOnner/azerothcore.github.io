@@ -1,8 +1,6 @@
 var a18632 =
 [
-    [ "npc_lk_spirit_bombAI", "d5/dd1/a18632.html#a366fb54e68c0e603000183cd68daf6b7", null ],
-    [ "IsSummonedBy", "d5/dd1/a18632.html#a9b3de8c6e2006a19ee1289455163f52c", null ],
-    [ "MovementInform", "d5/dd1/a18632.html#a0e4aa94a199439962095c1d2026b2a5f", null ],
-    [ "UpdateAI", "d5/dd1/a18632.html#a61b4f7c3a1dd9b9b2850b05f2117e55a", null ],
-    [ "timer", "d5/dd1/a18632.html#aa0d370113b753127d4f0fd7bd3a3ba11", null ]
+    [ "ManaVoidSelector", "d5/dd1/a18632.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "d5/dd1/a18632.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "d5/dd1/a18632.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

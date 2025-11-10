@@ -1,6 +1,6 @@
 var a20864 =
 [
-    [ "boss_thorim_runic_colossusAI", "dc/d62/a20868.html", "dc/d62/a20868" ],
-    [ "boss_thorim_runic_colossus", "d0/dad/a20864.html#a2ea1c08a98b689cd6c766578e98a3191", null ],
-    [ "GetAI", "d0/dad/a20864.html#a6d64427ff427a1054e10c9d987b77f53", null ]
+    [ "OnPeriodic", "d0/dad/a20864.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
+    [ "PrepareAuraScript", "d0/dad/a20864.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
+    [ "Register", "d0/dad/a20864.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
 ];

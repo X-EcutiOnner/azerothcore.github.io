@@ -1,6 +1,15 @@
 var a14128 =
 [
-    [ "npc_eagle_trash_aggro_trigger", "d6/da1/a14128.html#a9d41e8abe764fd0f8cedd888418aafb2", null ],
-    [ "MoveInLineOfSight", "d6/da1/a14128.html#aa8892e7f2bec9f26320cd9749e648ebd", null ],
-    [ "_instance", "d6/da1/a14128.html#a39a222e1eb0a3378c8fcaf1da5629547", null ]
+    [ "boss_arlokkAI", "d6/da1/a14128.html#adb598bf47620cd077fb689fb8f9a4ad8", null ],
+    [ "EnterEvadeMode", "d6/da1/a14128.html#a8553c4d173e7c39315f022f69587c6c0", null ],
+    [ "JustDied", "d6/da1/a14128.html#ac03a6599a5b41e01bd4ed9ebd55cc0ba", null ],
+    [ "JustEngagedWith", "d6/da1/a14128.html#ac4ee55299a9389c4fee1ad96140b00d0", null ],
+    [ "JustReachedHome", "d6/da1/a14128.html#ab0499a80ea8406457e6bfaac96eae975", null ],
+    [ "Reset", "d6/da1/a14128.html#a3ea2c720ac5c4b1fa6ea4d2eb8bf163f", null ],
+    [ "SetData", "d6/da1/a14128.html#a7eedf1d1b55740698c314d4afbb2b0b2", null ],
+    [ "UpdateAI", "d6/da1/a14128.html#a3a2d07d42be88244c0c72b998792dd28", null ],
+    [ "_summonCountA", "d6/da1/a14128.html#a77f83909fca59d1c5d72dc583d7ec22e", null ],
+    [ "_summonCountB", "d6/da1/a14128.html#a7e7d091ea00fb42e7f97cb79168e0dc3", null ],
+    [ "_triggersSideAGUID", "d6/da1/a14128.html#aedc8dda728ed849f33dc83396da51bce", null ],
+    [ "_triggersSideBGUID", "d6/da1/a14128.html#a0fc797fd56c4f12272b647087492670a", null ]
 ];

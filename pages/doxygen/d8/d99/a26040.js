@@ -1,6 +1,9 @@
 var a26040 =
 [
-    [ "HandleTriggerSpell", "d8/d99/a26040.html#a2c9f565aec4c42900037dd387549df18", null ],
-    [ "PrepareAuraScript", "d8/d99/a26040.html#a5864bbba50001cdb84b0015d08134c56", null ],
-    [ "Register", "d8/d99/a26040.html#a5a41ac9e41201ec3defc05c324a792c9", null ]
+    [ "CheckRequirement", "d8/d99/a26040.html#adab261a5221ca54b15cc414d291908fe", null ],
+    [ "HandleDummy", "d8/d99/a26040.html#abb7a734244bb18d75304a0510f9efb8d", null ],
+    [ "Load", "d8/d99/a26040.html#a418eef16d1e3aeff67013f45409c092a", null ],
+    [ "PrepareSpellScript", "d8/d99/a26040.html#ab3e73a456ec7384720827a4ff7f5abc7", null ],
+    [ "Register", "d8/d99/a26040.html#a5dbf60e33f2cdca3921f623cd1098948", null ],
+    [ "Validate", "d8/d99/a26040.html#a1dcba4f3c2874a952ca422b0a3cdafb1", null ]
 ];

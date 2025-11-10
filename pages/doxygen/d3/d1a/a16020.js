@@ -1,7 +1,12 @@
 var a16020 =
 [
-    [ "npc_ahnkahar_nerubian", "d3/d1a/a16020.html#ae18cdf09bae50751e266e95caf165f8e", null ],
-    [ "Reset", "d3/d1a/a16020.html#a387831015ec8e4bc65cff8c8550bb176", null ],
-    [ "UpdateAI", "d3/d1a/a16020.html#a9a773127e4f94bcdf142718355eae0e8", null ],
-    [ "uiSprintTimer", "d3/d1a/a16020.html#a27a6f57a6b145cc595896d1ad453064f", null ]
+    [ "npc_twilight_volunteer", "d3/d1a/a16020.html#a3062041fcabf972e0a3d4753363c37b3", null ],
+    [ "AttackStart", "d3/d1a/a16020.html#abc2e12fb7be5b1a7dabc4c2211e7de13", null ],
+    [ "DoAction", "d3/d1a/a16020.html#ae95bcb02ee4f0ead76e249de0cba2d88", null ],
+    [ "EnterEvadeMode", "d3/d1a/a16020.html#abd88e6fe0565babb92ccae17df0421d6", null ],
+    [ "MovementInform", "d3/d1a/a16020.html#a4f27ae97ccf2c349a6352a0f5ba1681a", null ],
+    [ "UpdateAI", "d3/d1a/a16020.html#a93288a45982b172c201e2442a4c91114", null ],
+    [ "events", "d3/d1a/a16020.html#ad8cc52c1462d7adbfbe566c55c0ed244", null ],
+    [ "isSacraficeTarget", "d3/d1a/a16020.html#a8350dba2c41754a2e5d15c94731ef27d", null ],
+    [ "pInstance", "d3/d1a/a16020.html#ad58453e078520fa23238a96115e5f38f", null ]
 ];

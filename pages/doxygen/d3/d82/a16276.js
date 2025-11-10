@@ -1,6 +1,6 @@
 var a16276 =
 [
-    [ "npc_onyx_flamecallerAI", "d6/dc4/a16280.html", "d6/dc4/a16280" ],
-    [ "npc_onyx_flamecaller", "d3/d82/a16276.html#af27af3cb3bbaba0801481ba77a94f9c6", null ],
-    [ "GetAI", "d3/d82/a16276.html#a712284f1997635aaf7ecd7ca0a263c05", null ]
+    [ "npc_halion_controllerAI", "d6/dc4/a16280.html", "d6/dc4/a16280" ],
+    [ "npc_halion_controller", "d3/d82/a16276.html#ac88ff15ce4d89d737eb6dd6b649e1218", null ],
+    [ "GetAI", "d3/d82/a16276.html#a3c5ea3f0597c070005744ea788a05383", null ]
 ];

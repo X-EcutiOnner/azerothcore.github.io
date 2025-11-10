@@ -1,9 +1,5 @@
 var a22608 =
 [
-    [ "HandleFinish", "df/d92/a22608.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
-    [ "Load", "df/d92/a22608.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
-    [ "PrepareSpellScript", "df/d92/a22608.html#a8326b3f9f78aab65225e81d274cc37df", null ],
-    [ "Register", "df/d92/a22608.html#a749858f56e15a0bb6074d15ba166625d", null ],
-    [ "Validate", "df/d92/a22608.html#a64005c52e7112c466f6206b7f6c847c0", null ],
-    [ "handled", "df/d92/a22608.html#a7afe3007a016cb553f437544f8fd6f89", null ]
+    [ "achievement_wg_within_our_grasp", "df/d92/a22608.html#a9edbd15bc6989c6948e21391a683d22d", null ],
+    [ "OnCheck", "df/d92/a22608.html#a10b659c4b52322536333e3d191796c27", null ]
 ];

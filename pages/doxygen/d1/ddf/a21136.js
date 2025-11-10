@@ -1,9 +1,8 @@
 var a21136 =
 [
-    [ "HandleOnEffectApply", "d1/ddf/a21136.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
-    [ "OnPeriodic", "d1/ddf/a21136.html#a49ad44eba19416743bd26252d1b40d71", null ],
-    [ "PrepareAuraScript", "d1/ddf/a21136.html#ae0c475babb67cebb245d6d85b50cd694", null ],
-    [ "Register", "d1/ddf/a21136.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
-    [ "Validate", "d1/ddf/a21136.html#ab383a0a207aa78b7efcd400765ad0838", null ],
-    [ "_targetGUID", "d1/ddf/a21136.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
+    [ "FilterTargets", "d1/ddf/a21136.html#a45d300e8cb6fbc499345b3bb2fb0d34f", null ],
+    [ "HandleDummyEffect", "d1/ddf/a21136.html#ab1f662fa107d176386067ffc6467d90f", null ],
+    [ "PrepareSpellScript", "d1/ddf/a21136.html#a069cc54bf009830ad781c790b4fcedad", null ],
+    [ "Register", "d1/ddf/a21136.html#ac91532151b689bde35d7120b1e9aec5b", null ],
+    [ "Validate", "d1/ddf/a21136.html#ad225dcdb1325a855f1909a8c66ca577b", null ]
 ];

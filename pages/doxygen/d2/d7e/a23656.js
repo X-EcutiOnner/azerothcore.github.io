@@ -1,7 +1,5 @@
 var a23656 =
 [
-    [ "HandleScript", "d2/d7e/a23656.html#a42052a416290a54d5479a402de578a73", null ],
-    [ "PrepareSpellScript", "d2/d7e/a23656.html#a5f6aa972879b65c0207e47435d436a33", null ],
-    [ "Register", "d2/d7e/a23656.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
-    [ "Validate", "d2/d7e/a23656.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
+    [ "npc_invisible_tractor_beam_source", "d2/d7e/a23656.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
+    [ "IsSummonedBy", "d2/d7e/a23656.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
 ];

@@ -1,9 +1,6 @@
 var a14408 =
 [
-    [ "HandleEffectPeriodic", "d2/d6f/a14408.html#a798c8ddfc71e703bfe1e3c1f2d926cef", null ],
-    [ "HandleEffectRemove", "d2/d6f/a14408.html#a96ed7366e568b70e82d622586740aa56", null ],
-    [ "Load", "d2/d6f/a14408.html#a85cbc44e586330e2adfc0656a428bd7b", null ],
-    [ "PrepareAuraScript", "d2/d6f/a14408.html#abd1f851112a50b79e815cdd894275bab", null ],
-    [ "Register", "d2/d6f/a14408.html#aa3cd85aed063017c4737e7660fa81f37", null ],
-    [ "questTick", "d2/d6f/a14408.html#ae2980e5f4934ce2ba5b755b7d45fab82", null ]
+    [ "HandleDummyEffect", "d2/d6f/a14408.html#a3860ad8a34e37601f7a4cef395f7ab2a", null ],
+    [ "PrepareSpellScript", "d2/d6f/a14408.html#a1c69fb2fd3fa623d62647fca738d27d6", null ],
+    [ "Register", "d2/d6f/a14408.html#ad1cbf7ed8f7d119bb56d06fb62358458", null ]
 ];

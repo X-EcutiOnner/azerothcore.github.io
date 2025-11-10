@@ -1,6 +1,7 @@
 var a24204 =
 [
-    [ "npc_simon_bunnyAI", "d7/d09/a24208.html", "d7/d09/a24208" ],
-    [ "npc_simon_bunny", "db/da5/a24204.html#afd3f3a24450bc8b748c0ff5b05b10da1", null ],
-    [ "GetAI", "db/da5/a24204.html#ac0c97609916321a1599c0722803a050f", null ]
+    [ "HandleDummy", "db/da5/a24204.html#a08f2f0aef00ce075572ff84643905a0a", null ],
+    [ "PrepareSpellScript", "db/da5/a24204.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
+    [ "Register", "db/da5/a24204.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
+    [ "Validate", "db/da5/a24204.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
 ];

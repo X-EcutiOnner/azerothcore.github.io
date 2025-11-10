@@ -1,12 +1,12 @@
 var a13784 =
 [
-    [ "npc_cameron", "dd/d43/a13784.html#a45e47ec5c9dadc6f0899e83ac2e19cff", null ],
-    [ "MoveTheChildren", "dd/d43/a13784.html#a85ae436f19f69ffb853330f01ee152a0", null ],
-    [ "PathEndReached", "dd/d43/a13784.html#a0bf53f40eeb4fe3ed7d62988bee0a912", null ],
-    [ "sOnGameEvent", "dd/d43/a13784.html#ab22841871cfcdc926b28296a5b4e440c", null ],
-    [ "SoundPicker", "dd/d43/a13784.html#a2ad97aaac0bd759921e0b75cfc88d07d", null ],
-    [ "UpdateAI", "dd/d43/a13784.html#a32a2dd2be2c06700fb81f4072a364ce2", null ],
-    [ "_childrenGUIDs", "dd/d43/a13784.html#ad260466902e8fb1a2e02998cc4549695", null ],
-    [ "_events", "dd/d43/a13784.html#ad6c58f433520c4ed55f43ef3604dde28", null ],
-    [ "_started", "dd/d43/a13784.html#a985d0590eedde340a3923e299d4dffd8", null ]
+    [ "npc_sentinel_infiltrator", "dd/d43/a13784.html#a40ce6808a4d0622eb88a669485335020", null ],
+    [ "Initialize", "dd/d43/a13784.html#acc94269a3ede4c897f457a270e9a9c12", null ],
+    [ "JustEngagedWith", "dd/d43/a13784.html#a2c9927468b92d00b60efac851eacfef1", null ],
+    [ "MovementInform", "dd/d43/a13784.html#a57aef1c4ce7a491408c2c6b19d4d4cf2", null ],
+    [ "Reset", "dd/d43/a13784.html#a0f26dbe23efdf572f81723dff1d3eeaf", null ],
+    [ "UpdateAI", "dd/d43/a13784.html#ac676246948689c891c0f9cca7f8bc8b6", null ],
+    [ "_events", "dd/d43/a13784.html#a296d6c70b6c439319cc69a9d39005e62", null ],
+    [ "_fleedForAssistance", "dd/d43/a13784.html#a948c9d2081b33e18aa927fb18598c8ad", null ],
+    [ "_path", "dd/d43/a13784.html#a32d531478df327ccb0bb85e262420813", null ]
 ];

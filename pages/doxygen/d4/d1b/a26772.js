@@ -1,7 +1,6 @@
 var a26772 =
 [
-    [ "HandleDummy", "d4/d1b/a26772.html#a4c837e7342603519d1f23ab8702c3160", null ],
-    [ "PrepareSpellScript", "d4/d1b/a26772.html#ae9d6ab0c9b9cf87f7b86f28e9bb25371", null ],
-    [ "Register", "d4/d1b/a26772.html#a16a5ca3ec9a8c463c9a2975fa29eb1e9", null ],
-    [ "Validate", "d4/d1b/a26772.html#ad742f4ce0d0db70427f7ba849a4526df", null ]
+    [ "PrepareAuraScript", "d4/d1b/a26772.html#a059fe9aa1ea5ea4d0fa797e70a146fc5", null ],
+    [ "Register", "d4/d1b/a26772.html#a91f4b2b8796c7efab2f622893a393619", null ],
+    [ "AuraEffectHandleModes", "d4/d1b/a26772.html#ab93d08a85de86b0efdec59006ebbdf97", null ]
 ];

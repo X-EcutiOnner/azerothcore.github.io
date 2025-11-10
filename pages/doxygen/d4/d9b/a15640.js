@@ -1,6 +1,7 @@
 var a15640 =
 [
-    [ "npc_tiger_matriarch_creditAI", "da/db5/a15644.html", "da/db5/a15644" ],
-    [ "npc_tiger_matriarch_credit", "d4/d9b/a15640.html#a9d76e8e808c828da501551025eecd8ea", null ],
-    [ "GetAI", "d4/d9b/a15640.html#ac4966a8ae43688204f97f9a1a7b4542d", null ]
+    [ "HandleDummy", "d4/d9b/a15640.html#a7657ffcc0b055b838408de4dd5f778f3", null ],
+    [ "PrepareSpellScript", "d4/d9b/a15640.html#ace2c23ec11d09cfb6f101a2dbd8b9d89", null ],
+    [ "Register", "d4/d9b/a15640.html#ae9be2e8124edf50b98824c584aaa32cf", null ],
+    [ "Validate", "d4/d9b/a15640.html#a041c84fd605abd36b8f774903a5200dc", null ]
 ];

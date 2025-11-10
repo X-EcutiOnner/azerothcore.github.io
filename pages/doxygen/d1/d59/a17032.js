@@ -1,10 +1,14 @@
 var a17032 =
 [
-    [ "HandleAfterEffectAbsorb", "d1/d59/a17032.html#a4af67c41afd7843a5cfe2b2e2e9e8055", null ],
-    [ "Load", "d1/d59/a17032.html#abab656d4ba7e14bf1ffdb1d40c395b5d", null ],
-    [ "PrepareAuraScript", "d1/d59/a17032.html#a0856d66c801715f16cd251ddf9b25a59", null ],
-    [ "Register", "d1/d59/a17032.html#a69d8dfebb981b51592770b7b5807bc80", null ],
-    [ "Validate", "d1/d59/a17032.html#a55ec42ce316978220103a3a39f3939a3", null ],
-    [ "amount", "d1/d59/a17032.html#aaf34ee04ae619a3ac108a8fd1c9dac99", null ],
-    [ "fired", "d1/d59/a17032.html#a6a7afa99044644608b16e83328bfd5fa", null ]
+    [ "boss_marwynAI", "d1/d59/a17032.html#abfc074b89e4edcf461c4df4d00c90856", null ],
+    [ "DoAction", "d1/d59/a17032.html#adc68f202aa2e78bd3a7969bfddcce710", null ],
+    [ "EnterEvadeMode", "d1/d59/a17032.html#acb0b5675c2ff9f614ddafd88ff96e62e", null ],
+    [ "JustDied", "d1/d59/a17032.html#a11f64dbf0333c212584d441d4b719d9c", null ],
+    [ "JustEngagedWith", "d1/d59/a17032.html#ae7509cf8b3b93e97b2e617c1ac181c87", null ],
+    [ "KilledUnit", "d1/d59/a17032.html#a43b40959a22a1767c1c717f5bf7200ad", null ],
+    [ "Reset", "d1/d59/a17032.html#a7433e7ed2007ccde768e1e15640ac99d", null ],
+    [ "UpdateAI", "d1/d59/a17032.html#abaa8f609099423c9d8db5b93f2dd411e", null ],
+    [ "events", "d1/d59/a17032.html#a87c1f1785612cfd42667bd635ce16f2a", null ],
+    [ "pInstance", "d1/d59/a17032.html#a524e6c4145851d67edfdc0d9cb5b2e7c", null ],
+    [ "startFightTimer", "d1/d59/a17032.html#a2a1d7531025f136e368fc7d2b4c0d163", null ]
 ];

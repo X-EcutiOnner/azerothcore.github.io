@@ -1,5 +1,10 @@
 var a27620 =
 [
-    [ "go_hive_pod", "d9/d90/a27620.html#a7ec01a399e75ff2e64746166d1aa3539", null ],
-    [ "OnGossipHello", "d9/d90/a27620.html#a4cfb09789edf6699444a7d817e4ccc70", null ]
+    [ "guard_shattrath_scryerAI", "d9/d90/a27620.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "d9/d90/a27620.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "d9/d90/a27620.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "d9/d90/a27620.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "d9/d90/a27620.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "d9/d90/a27620.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "d9/d90/a27620.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

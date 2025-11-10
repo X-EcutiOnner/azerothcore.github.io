@@ -1,7 +1,7 @@
 var a23644 =
 [
-    [ "HandleScript", "d6/d4d/a23644.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
-    [ "PrepareSpellScript", "d6/d4d/a23644.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
-    [ "Register", "d6/d4d/a23644.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
-    [ "Validate", "d6/d4d/a23644.html#a46aca18049e02d50f57579b3fdc705bd", null ]
+    [ "OnApply", "d6/d4d/a23644.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "d6/d4d/a23644.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "d6/d4d/a23644.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "d6/d4d/a23644.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

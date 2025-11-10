@@ -1,6 +1,6 @@
 var a13952 =
 [
-    [ "boss_blight_wormAI", "d8/dc9/a13956.html", "d8/dc9/a13956" ],
-    [ "boss_blight_worm", "de/dab/a13952.html#a6dea51baebc6b44ef94342565136e56d", null ],
-    [ "GetAI", "de/dab/a13952.html#a1cb9043482e9b3c3eff3fd75057a2fb2", null ]
+    [ "npc_the_scourge_cauldronAI", "d8/dc9/a13956.html", "d8/dc9/a13956" ],
+    [ "npc_the_scourge_cauldron", "de/dab/a13952.html#a7ff5315293c4917dec3b0fe0aade2016", null ],
+    [ "GetAI", "de/dab/a13952.html#ae4e35f1cac0c0f35333ba6113d3c1ad0", null ]
 ];

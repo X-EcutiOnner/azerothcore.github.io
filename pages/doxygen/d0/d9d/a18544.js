@@ -1,10 +1,8 @@
 var a18544 =
 [
-    [ "HandleScript", "d0/d9d/a18544.html#a18c80010b9e8803b3c225acf2dd0b605", null ],
-    [ "Load", "d0/d9d/a18544.html#af31fd5b1f9cdc67650eec5e305f095bf", null ],
-    [ "PrepareSpellScript", "d0/d9d/a18544.html#afcc1efc69d73086a9ab686855911e516", null ],
-    [ "Register", "d0/d9d/a18544.html#a061e110b9a032a9bbd0a48f686d16a84", null ],
-    [ "ReplaceTarget", "d0/d9d/a18544.html#a01cb7d25bef14a2266d81594544f6283", null ],
-    [ "SelectTarget", "d0/d9d/a18544.html#aa06b7505ff483bc5e534cc37d909b28c", null ],
-    [ "_target", "d0/d9d/a18544.html#a3a84a9d7109845d201b395f05f66d109", null ]
+    [ "Load", "d0/d9d/a18544.html#aabd997d6db5fd38b1fdd97d90b1347e9", null ],
+    [ "OnRemove", "d0/d9d/a18544.html#a43b23e5c53cca872a26737d790f2893d", null ],
+    [ "PrepareAuraScript", "d0/d9d/a18544.html#ae51bcb37894240c6fd064cd329698a55", null ],
+    [ "Register", "d0/d9d/a18544.html#ad6247c7f8abf41cd6190d5252ed6834e", null ],
+    [ "Validate", "d0/d9d/a18544.html#a45696018a8810cf1f11fbddcd853d1f4", null ]
 ];

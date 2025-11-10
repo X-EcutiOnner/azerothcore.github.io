@@ -1,7 +1,10 @@
 var a19440 =
 [
-    [ "npc_naxxramas_trigger", "d9/dc6/a19440.html#a62fd64468daf378fbe2e8f18b1f002f8", null ],
-    [ "Reset", "d9/dc6/a19440.html#a5bf85ab6027ca5101df32cda6df29b28", null ],
-    [ "UpdateAI", "d9/dc6/a19440.html#acd051dd7790aa37cd2375479433509cb", null ],
-    [ "_events", "d9/dc6/a19440.html#a1ab25fd0b40f373d30b0f60462dd276b", null ]
+    [ "npc_power_sparkAI", "d9/dc6/a19440.html#a3f0fd553d859c5709ed2dbd9051db3d3", null ],
+    [ "DamageTaken", "d9/dc6/a19440.html#aebd86516e17e77711d3877a11a159105", null ],
+    [ "DoAction", "d9/dc6/a19440.html#a54b4578be614da76cc886dedbe3d853e", null ],
+    [ "UpdateAI", "d9/dc6/a19440.html#a7e9b2a161fc88d269e631d47c38bfd5e", null ],
+    [ "CheckTimer", "d9/dc6/a19440.html#af98dff7dd45c258d45ce81b8520e56a8", null ],
+    [ "MoveTimer", "d9/dc6/a19440.html#af16a57b82fb94eb464c51b6006f2a66b", null ],
+    [ "pInstance", "d9/dc6/a19440.html#a4142b3872dd17015eeabb2eaee0c3369", null ]
 ];

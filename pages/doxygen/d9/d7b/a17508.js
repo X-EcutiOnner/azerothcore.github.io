@@ -1,11 +1,7 @@
 var a17508 =
 [
-    [ "npc_blood_queen_lana_thelAI", "d9/d7b/a17508.html#a7b099b90600e433e304dee1f356a9909", null ],
-    [ "MoveInLineOfSight", "d9/d7b/a17508.html#af1aafdc45abcdfbdbea7f5b67f3bc620", null ],
-    [ "MovementInform", "d9/d7b/a17508.html#a004a878ccb5fe68b249342f6a0fce31d", null ],
-    [ "Reset", "d9/d7b/a17508.html#a539b0e158c800e1aade54f37aa99751e", null ],
-    [ "UpdateAI", "d9/d7b/a17508.html#ae9d2f6b53898db04da58efe0deeceea5", null ],
-    [ "_events", "d9/d7b/a17508.html#a8ec7641bab991fc584b066fae55690bf", null ],
-    [ "_instance", "d9/d7b/a17508.html#a9058ce72bb956d7e90eff740c0f9633a", null ],
-    [ "_introDone", "d9/d7b/a17508.html#a40c642758a751e072e41343bb75ad306", null ]
+    [ "HandleDummyTick", "d9/d7b/a17508.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
+    [ "PrepareAuraScript", "d9/d7b/a17508.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
+    [ "Register", "d9/d7b/a17508.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
+    [ "Validate", "d9/d7b/a17508.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
 ];

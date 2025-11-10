@@ -1,12 +1,8 @@
 var a23772 =
 [
-    [ "boss_nazan", "dc/d74/a23772.html#a4390d3e181c4db46e364df3302612763", null ],
-    [ "AttackStart", "dc/d74/a23772.html#a7acea69f908e7a004c2a78c103528975", null ],
-    [ "DoAction", "dc/d74/a23772.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
-    [ "EnterEvadeMode", "dc/d74/a23772.html#ab6338a7d240014e548b22044b788ce8f", null ],
-    [ "JustEngagedWith", "dc/d74/a23772.html#a4d44b759530f32207a46a608fb7d6209", null ],
-    [ "MovementInform", "dc/d74/a23772.html#ad35866322ff55263b1f8b105d2cad952", null ],
-    [ "Reset", "dc/d74/a23772.html#a5c10e932075130399a9127869f45ce1d", null ],
-    [ "UpdateAI", "dc/d74/a23772.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
-    [ "_scheduler", "dc/d74/a23772.html#a8915d84ec4ffb8dade18041d5e910018", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "dc/d74/a23772.html#aebc047b45cb4560a38df89db75f8efab", null ],
+    [ "Initialize", "dc/d74/a23772.html#a115a36ec26e15e23be4d78250d86d814", null ],
+    [ "OnGameObjectCreate", "dc/d74/a23772.html#a0639fcd867616d1f04aacde44020bb30", null ],
+    [ "SetBossState", "dc/d74/a23772.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
+    [ "felIronChestGUID", "dc/d74/a23772.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
 ];

@@ -1,6 +1,6 @@
 var a18052 =
 [
-    [ "UnboundPlagueTargetSelector", "de/ddf/a18052.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "de/ddf/a18052.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "de/ddf/a18052.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "npc_gas_cloudAI", "dc/d3e/a18056.html", "dc/d3e/a18056" ],
+    [ "npc_gas_cloud", "de/ddf/a18052.html#a99c887cb8a5cc87bbfca026447368b8e", null ],
+    [ "GetAI", "de/ddf/a18052.html#a1c76a148f9c1acec473f102b6a24e3bb", null ]
 ];

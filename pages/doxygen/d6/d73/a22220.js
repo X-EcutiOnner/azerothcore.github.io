@@ -1,6 +1,6 @@
 var a22220 =
 [
-    [ "npc_attracted_reef_bullAI", "d6/d73/a22220.html#aa8917a912fb31a5987332e53e8d268e7", null ],
-    [ "MovementInform", "d6/d73/a22220.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
-    [ "SpellHit", "d6/d73/a22220.html#ab06ee7ef84d881262ae682b69fae3135", null ]
+    [ "npc_razael_and_lyana", "d6/d73/a22220.html#aec7257a1136a3580e2b4542e032429d6", null ],
+    [ "OnGossipHello", "d6/d73/a22220.html#a9c9085db92853d5275c12e804a68b0fc", null ],
+    [ "OnGossipSelect", "d6/d73/a22220.html#a407d8344280e8e38efb3991fda1d52cd", null ]
 ];

@@ -1,6 +1,7 @@
 var a15708 =
 [
-    [ "npc_silva_filnaveth", "dc/d69/a15708.html#a5998381865214a7b3af7823bd2557cb0", null ],
-    [ "OnGossipHello", "dc/d69/a15708.html#a32019c17271a3f504d86cd694262fd53", null ],
-    [ "OnGossipSelect", "dc/d69/a15708.html#a10f81dce3dbc3ef0a84c8c33c2cb2e29", null ]
+    [ "npc_shenthulAI", "d6/d25/a15712.html", "d6/d25/a15712" ],
+    [ "npc_shenthul", "dc/d69/a15708.html#a77815503c7d9c811fe3821232e308714", null ],
+    [ "GetAI", "dc/d69/a15708.html#a1683f8c89add6270277c59951c74027e", null ],
+    [ "OnQuestAccept", "dc/d69/a15708.html#a3a63fec338dca74eb7d071dfcc9c95b5", null ]
 ];

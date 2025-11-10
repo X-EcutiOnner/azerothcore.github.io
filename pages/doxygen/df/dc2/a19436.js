@@ -1,5 +1,6 @@
 var a19436 =
 [
-    [ "npc_living_poison", "df/dc2/a19436.html#a277440068846eac71c795880a16475dd", null ],
-    [ "UpdateAI", "df/dc2/a19436.html#a2a6af8a9ef14e65ba9e44f2228b09ba5", null ]
+    [ "npc_power_sparkAI", "d9/dc6/a19440.html", "d9/dc6/a19440" ],
+    [ "npc_power_spark", "df/dc2/a19436.html#a9efd2810feb5f90f9f12f51ec7282410", null ],
+    [ "GetAI", "df/dc2/a19436.html#a573198b86697d222c693581bf430453f", null ]
 ];

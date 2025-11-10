@@ -1,6 +1,6 @@
 var a21936 =
 [
-    [ "npc_conversing_with_the_depths_triggerAI", "d8/dd0/a21940.html", "d8/dd0/a21940" ],
-    [ "npc_conversing_with_the_depths_trigger", "d9/d57/a21936.html#a55ba213da86650d44ea1493b26fdb7f2", null ],
-    [ "GetAI", "d9/d57/a21936.html#a61c337bfe1efb3589cf0df91d9082236", null ]
+    [ "npc_mindless_ghoulAI", "d8/dd0/a21940.html", "d8/dd0/a21940" ],
+    [ "npc_mindless_ghoul", "d9/d57/a21936.html#ac5bf71e719c0df04687f426a022fd65e", null ],
+    [ "GetAI", "d9/d57/a21936.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
 ];

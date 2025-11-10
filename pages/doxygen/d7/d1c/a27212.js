@@ -1,7 +1,6 @@
 var a27212 =
 [
-    [ "HandleEffect", "d7/d1c/a27212.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
-    [ "PrepareSpellScript", "d7/d1c/a27212.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
-    [ "Register", "d7/d1c/a27212.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
-    [ "Validate", "d7/d1c/a27212.html#ab6d78ecb650f13df3376baced8c40a63", null ]
+    [ "HandleEffectCalcSpellMod", "d7/d1c/a27212.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
+    [ "PrepareAuraScript", "d7/d1c/a27212.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
+    [ "Register", "d7/d1c/a27212.html#af60592a9f1e595f31814eae405d03d5a", null ]
 ];

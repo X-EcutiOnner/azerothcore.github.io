@@ -1,11 +1,11 @@
 var a02483 =
 [
-    [ "npc_rivern_frostwind", "d4/dd5/a15932.html", "d4/dd5/a15932" ],
-    [ "DialogueEntry", "db/dcb/a15936.html", "db/dcb/a15936" ],
-    [ "DialogueHelper", "dc/dcd/a15940.html", "dc/dcd/a15940" ],
-    [ "npc_ranshalla", "d4/dfe/a15944.html", "d4/dfe/a15944" ],
-    [ "npc_ranshalla::npc_ranshallaAI", "de/d2c/a15948.html", "de/d2c/a15948" ],
-    [ "go_elune_fire", "d9/ddf/a15952.html", "d9/ddf/a15952" ],
+    [ "npc_rivern_frostwind", "d5/d4e/a15904.html", "d5/d4e/a15904" ],
+    [ "DialogueEntry", "d5/dc0/a15908.html", "d5/dc0/a15908" ],
+    [ "DialogueHelper", "da/dd5/a15912.html", "da/dd5/a15912" ],
+    [ "npc_ranshalla", "dc/d5d/a15916.html", "dc/d5d/a15916" ],
+    [ "npc_ranshalla::npc_ranshallaAI", "d2/d30/a15920.html", "d2/d30/a15920" ],
+    [ "go_elune_fire", "da/ded/a15924.html", "da/ded/a15924" ],
     [ "Dummies", "d3/de3/a02483.html#a2bbe982dfe66b7d2feb6449e4b33ac2e", [
       [ "NPC_PRIESTESS_DATA_1", "d3/de3/a02483.html#a2bbe982dfe66b7d2feb6449e4b33ac2ea0594ed0eed6a55af01b29286273cadef", null ],
       [ "NPC_PRIESTESS_DATA_2", "d3/de3/a02483.html#a2bbe982dfe66b7d2feb6449e4b33ac2ea4236792aa6debd5b26af8a27358513fc", null ],
@@ -2424,7 +2424,6 @@ var a02483 =
       [ "SPELL_FROSTBOLT", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e", null ],
       [ "SPELL_TOUCH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d", null ],
       [ "SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6", null ],
-      [ "SPELL_RAIN_OF_FIRE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca770475c37ddfbb0a8c98a0c8a7c98f0d", null ],
       [ "SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8", null ],
       [ "SPELL_EYE_BEAM", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc", null ],
       [ "SPELL_LIGHTNING_BREATH", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298caba0559b83dfa3b94464ac474a4b62e3e", null ],
