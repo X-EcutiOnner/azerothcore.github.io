@@ -1,7 +1,6 @@
 var a26416 =
 [
-    [ "HandleProc", "de/dc4/a26416.html#a72463db57f87387aa3ff3175c45ca9df", null ],
-    [ "PrepareAuraScript", "de/dc4/a26416.html#ae158b4b624b50ad984b2c5e9c16d7670", null ],
-    [ "Register", "de/dc4/a26416.html#a2da64a27cfa5a68464f8f3a885e09751", null ],
-    [ "Validate", "de/dc4/a26416.html#a798f51ee6333d3ebb2bbb617ea88ea2b", null ]
+    [ "FilterTargets", "de/dc4/a26416.html#a23c7b977f7e213322b3702367d6a28c7", null ],
+    [ "PrepareSpellScript", "de/dc4/a26416.html#a7000b2fd940c914933c486e847932b62", null ],
+    [ "Register", "de/dc4/a26416.html#a870ee08d0341f6640710a87c97a6b98b", null ]
 ];

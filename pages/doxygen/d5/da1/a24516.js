@@ -1,6 +1,5 @@
 var a24516 =
 [
-    [ "npc_unkor_the_ruthlessAI", "de/d6b/a24520.html", "de/d6b/a24520" ],
-    [ "npc_unkor_the_ruthless", "d5/da1/a24516.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
-    [ "GetAI", "d5/da1/a24516.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
+    [ "npc_pet_dk_risen_ally", "d5/da1/a24516.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
+    [ "OnCharmed", "d5/da1/a24516.html#ac3927becc1ed929c384b3413bfee9330", null ]
 ];

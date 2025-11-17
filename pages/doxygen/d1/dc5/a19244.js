@@ -1,7 +1,15 @@
 var a19244 =
 [
-    [ "HandleRemove", "d1/dc5/a19244.html#a7c81c567ae10bf4fd4d3c1eb480b5761", null ],
-    [ "PrepareAuraScript", "d1/dc5/a19244.html#aaefd5b15f7a3725b2663c0717fe22c92", null ],
-    [ "Register", "d1/dc5/a19244.html#ad7ba015a7878adad0820cf378d2632ca", null ],
-    [ "Validate", "d1/dc5/a19244.html#a570bb63c6ed7af58b0b886e8a954dea9", null ]
+    [ "boss_heiganAI", "d1/dc5/a19244.html#a7aab8f8d2c3ccb434c2290362d03f89e", null ],
+    [ "IsInRoom", "d1/dc5/a19244.html#a3aee27fdbb0ce9c60f2115b878112ea8", null ],
+    [ "JustDied", "d1/dc5/a19244.html#a4a7389a2f81677fa5c0e871bc996fe26", null ],
+    [ "JustEngagedWith", "d1/dc5/a19244.html#a72a2ae89b7abede9f8a4cb3ee9d76258", null ],
+    [ "KilledUnit", "d1/dc5/a19244.html#a58160aefd36208ad7f0fec161a3f8b85", null ],
+    [ "Reset", "d1/dc5/a19244.html#a515a86419bdd1f755943a371b3601795", null ],
+    [ "StartFightPhase", "d1/dc5/a19244.html#a211387ae4f89d54a22a4f8515239d1c3", null ],
+    [ "UpdateAI", "d1/dc5/a19244.html#a9009ae9392e183758a48ebe59b9c0cf0", null ],
+    [ "currentPhase", "d1/dc5/a19244.html#a7b0a9b9f53cded3bc24ed22c1b643a30", null ],
+    [ "currentSection", "d1/dc5/a19244.html#a848fbc5aa8a497ae01057c6f0ba59e7a", null ],
+    [ "events", "d1/dc5/a19244.html#a7cc35d445aadf1eb252482522b8cc26d", null ],
+    [ "moveRight", "d1/dc5/a19244.html#a12da8a2326f0ac72e6ee8733c55139c8", null ]
 ];

@@ -1,6 +1,6 @@
 var a23632 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d5/dd6/a23636.html", "d5/dd6/a23636" ],
-    [ "instance_the_underbog", "d8/d9f/a23632.html#afaf8740a3e367a1a54eaa3e76ffa483e", null ],
-    [ "GetInstanceScript", "d8/d9f/a23632.html#ace939fb7fd89e7c9c84c17d3ca31208b", null ]
+    [ "HandleScriptEffect", "d8/d9f/a23632.html#abba5817280db6579e3e6e0b964655c6e", null ],
+    [ "PrepareSpellScript", "d8/d9f/a23632.html#a846fa43c9907ddb6243c006327757a1c", null ],
+    [ "Register", "d8/d9f/a23632.html#a7daa26f4035912bff4811b0bfee35fee", null ]
 ];

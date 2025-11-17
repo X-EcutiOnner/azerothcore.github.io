@@ -1,8 +1,8 @@
 var a04980 =
 [
-    [ "IMMapMgr", "da/d4c/a04980.html#a2292f2bdacfc627ab33f02d399221ad5", null ],
-    [ "~IMMapMgr", "da/d4c/a04980.html#a8298d6b3fbce5ccd835af3c287c361b6", null ],
-    [ "isEnablePathFinding", "da/d4c/a04980.html#a5d6bcb413c39e82da8e4924c4754c8b0", null ],
-    [ "setEnablePathFinding", "da/d4c/a04980.html#afdc7e829a374c20b4d072290363c7c62", null ],
-    [ "iEnablePathFinding", "da/d4c/a04980.html#a25f8900f4546990562fb048e956bb1e0", null ]
+    [ "AreaInfo", "d8/d36/a04984.html", "d8/d36/a04984" ],
+    [ "LiquidInfo", "d5/d6e/a04988.html", "d5/d6e/a04988" ],
+    [ "areaInfo", "da/d4c/a04980.html#a0d30ac3fa0cefd6eafc1690c75f46f0f", null ],
+    [ "floorZ", "da/d4c/a04980.html#af7c8710b5d296c1d792b4fc34302278f", null ],
+    [ "liquidInfo", "da/d4c/a04980.html#ae59e1e7fdf4913c48a0d82e1d19366a7", null ]
 ];

@@ -1,6 +1,6 @@
 var a25276 =
 [
-    [ "CheckRequirement", "df/ddd/a25276.html#a8a1367ad6c51a74e7cefbc2440eab697", null ],
-    [ "PrepareSpellScript", "df/ddd/a25276.html#a859ac50e6774471c232113e5c007f602", null ],
-    [ "Register", "df/ddd/a25276.html#aceafb7d6cfa300011935026f4d7ac491", null ]
+    [ "HandleDummy", "df/ddd/a25276.html#a0bcbef8a2d5978498556a217ac618fed", null ],
+    [ "PrepareSpellScript", "df/ddd/a25276.html#a5901c22f3a10fdbd21d934f5cb8cd76d", null ],
+    [ "Register", "df/ddd/a25276.html#a2c6d9c273a3d281dacefc20970912166", null ]
 ];

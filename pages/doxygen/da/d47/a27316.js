@@ -1,5 +1,6 @@
 var a27316 =
 [
-    [ "AreaTrigger_at_stormwright_shelf", "da/d47/a27316.html#a97cdf51a8992b3d9edc138351770fd75", null ],
-    [ "OnTrigger", "da/d47/a27316.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
+    [ "npc_dream_fogAI", "de/d7f/a27320.html", "de/d7f/a27320" ],
+    [ "npc_dream_fog", "da/d47/a27316.html#ae50306be88f15c9dfc4d0f12c63c68e6", null ],
+    [ "GetAI", "da/d47/a27316.html#a48c45fec086e3a50462deed44734ba38", null ]
 ];

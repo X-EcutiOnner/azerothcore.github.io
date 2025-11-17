@@ -1,10 +1,9 @@
 var a09976 =
 [
-    [ "ChaseRange", "dd/d38/a09976.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
-    [ "ChaseRange", "dd/d38/a09976.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
-    [ "ChaseRange", "dd/d38/a09976.html#a397b3789449b1c178f11f64313498c4d", null ],
-    [ "MaxRange", "dd/d38/a09976.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
-    [ "MaxTolerance", "dd/d38/a09976.html#a7909b18028d43c84eca5feee3e41469c", null ],
-    [ "MinRange", "dd/d38/a09976.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
-    [ "MinTolerance", "dd/d38/a09976.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
+    [ "ChaseAngle", "dd/d38/a09976.html#a0744c615f437514a52b5a26fb717013a", null ],
+    [ "IsAngleOkay", "dd/d38/a09976.html#aec86c653850655b723e5224ea20b0e21", null ],
+    [ "LowerBound", "dd/d38/a09976.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
+    [ "UpperBound", "dd/d38/a09976.html#a275d01ce57b23d42d4150b10c8433dee", null ],
+    [ "RelativeAngle", "dd/d38/a09976.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
+    [ "Tolerance", "dd/d38/a09976.html#a2bb42885da594380cb742c29b6518ea3", null ]
 ];

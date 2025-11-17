@@ -1,6 +1,18 @@
 var a21576 =
 [
-    [ "npc_vh_sinclari", "df/d7b/a21576.html#ad0235f207a3031420532174c04e0c348", null ],
-    [ "OnGossipHello", "df/d7b/a21576.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
-    [ "OnGossipSelect", "df/d7b/a21576.html#af0a260d7868f601ae239c226b10d4de3", null ]
+    [ "violet_hold_trashAI", "df/d7b/a21576.html#a87011739810f39291655bc835f9995bd", null ],
+    [ "AttackStart", "df/d7b/a21576.html#ab2d2157977ae2482217fa8ac344b30af", null ],
+    [ "ClearDoorSealAura", "df/d7b/a21576.html#ad0c756eb5bef8036cb47ebcc9e6915df", null ],
+    [ "CreatureStartAttackDoor", "df/d7b/a21576.html#a1e64a9f7c82275969e099b5012a32924", null ],
+    [ "EnterEvadeMode", "df/d7b/a21576.html#ab189607a468514d6c472ac40e6f3d85b", null ],
+    [ "JustDied", "df/d7b/a21576.html#acd512cd3722a2edf0ca539272ded3c79", null ],
+    [ "JustEngagedWith", "df/d7b/a21576.html#a16e7677aa9597dda938a67c51febde6c", null ],
+    [ "JustReachedHome", "df/d7b/a21576.html#ae98d0cd977d59cbfe567fa6e294cde7e", null ],
+    [ "MoveInLineOfSight", "df/d7b/a21576.html#ab0e73a03d6e36a35eb393127bce3dad3", null ],
+    [ "UpdateAI", "df/d7b/a21576.html#a8647797343650fcd4f6304bce3742883", null ],
+    [ "WaypointReached", "df/d7b/a21576.html#ac218e3761b79d4d8186ad8d12e0d0b57", null ],
+    [ "bAddedWP", "df/d7b/a21576.html#ad2e8841054cece73bdc7c2e7782c96a8", null ],
+    [ "bAlt", "df/d7b/a21576.html#ad84ecad1a57f0af44af2795a252d2214", null ],
+    [ "pInstance", "df/d7b/a21576.html#a0a5f5b86cd54c28a828db2ac3e83126b", null ],
+    [ "PLoc", "df/d7b/a21576.html#a9e9ca535b9d2fa1b246975f984c96998", null ]
 ];

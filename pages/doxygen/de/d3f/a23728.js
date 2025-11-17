@@ -1,6 +1,12 @@
 var a23728 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "dc/da3/a23732.html", "dc/da3/a23732" ],
-    [ "instance_blood_furnace", "de/d3f/a23728.html#a925a045fa518e72c1eff02fe3c66202b", null ],
-    [ "GetInstanceScript", "de/d3f/a23728.html#a885ba94e1777dfd6586daca304622d3d", null ]
+    [ "boss_watchkeeper_gargolmar", "de/d3f/a23728.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
+    [ "JustDied", "de/d3f/a23728.html#a39be5796b39bea913105fc48dda0d186", null ],
+    [ "JustEngagedWith", "de/d3f/a23728.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
+    [ "KilledUnit", "de/d3f/a23728.html#a22736c2680f41cfd3443a76cd4de9352", null ],
+    [ "MoveInLineOfSight", "de/d3f/a23728.html#adec9837fdb2595ce57acffb279a7d011", null ],
+    [ "Reset", "de/d3f/a23728.html#a356b7fe9071b073b74b21913e35e7408", null ],
+    [ "UpdateAI", "de/d3f/a23728.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
+    [ "_hasSpoken", "de/d3f/a23728.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
+    [ "_taunted", "de/d3f/a23728.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
 ];

@@ -1,6 +1,5 @@
 var a22628 =
 [
-    [ "npc_drakuru_shacklesAI", "da/d0b/a22632.html", "da/d0b/a22632" ],
-    [ "npc_drakuru_shackles", "d6/dd6/a22628.html#a2b15a214b34d86597cba09b17654e4ff", null ],
-    [ "GetAI", "d6/dd6/a22628.html#a90ce98de4630771858cd3b79264a28f9", null ]
+    [ "go_scourge_enclosure", "d6/dd6/a22628.html#a3611232cb735f336087d4d3c90f66b8d", null ],
+    [ "OnGossipHello", "d6/dd6/a22628.html#af505dd0a5d9224cd7586878d1fbd3351", null ]
 ];

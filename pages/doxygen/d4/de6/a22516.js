@@ -1,6 +1,6 @@
 var a22516 =
 [
-    [ "HandleScriptEffect", "d4/de6/a22516.html#a66849cb61f056e861d8887dc98f6ccbf", null ],
-    [ "PrepareSpellScript", "d4/de6/a22516.html#afa4ad1b205bf963b4230881738baf938", null ],
-    [ "Register", "d4/de6/a22516.html#a0d8925effced854471e2fbec9c631b91", null ]
+    [ "npc_wg_queueAI", "d4/de6/a22516.html#a3760738d61b6148042fc30bd96b88fdc", null ],
+    [ "UpdateAI", "d4/de6/a22516.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
+    [ "events", "d4/de6/a22516.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
 ];

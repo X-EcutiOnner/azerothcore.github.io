@@ -1,11 +1,6 @@
 var a22448 =
 [
-    [ "npc_iron_watcherAI", "df/dec/a22448.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
-    [ "MovementInform", "df/dec/a22448.html#aaf329f0160efa778abdebf86b1cf230b", null ],
-    [ "Reset", "df/dec/a22448.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
-    [ "SpellHit", "df/dec/a22448.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
-    [ "UpdateAI", "df/dec/a22448.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
-    [ "charging", "df/dec/a22448.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
-    [ "hpTimer", "df/dec/a22448.html#afcbb113387345361baf0351a19e6eb1d", null ],
-    [ "spellTimer", "df/dec/a22448.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
+    [ "npc_brunnhildar_prisonerAI", "d6/deb/a22452.html", "d6/deb/a22452" ],
+    [ "npc_brunnhildar_prisoner", "df/dec/a22448.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
+    [ "GetAI", "df/dec/a22448.html#aa2a1787849c74a5163a39137c9d03d57", null ]
 ];

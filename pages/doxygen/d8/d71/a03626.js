@@ -1,8 +1,8 @@
 var a03626 =
 [
-    [ "boss_vaelastrasz", "d8/dbf/a12528.html", "d8/dbf/a12528" ],
-    [ "boss_vaelastrasz::boss_vaelAI", "de/d98/a12532.html", "de/d98/a12532" ],
-    [ "spell_vael_burning_adrenaline", "dc/d3b/a12536.html", "dc/d3b/a12536" ],
+    [ "boss_vaelastrasz", "db/d64/a12524.html", "db/d64/a12524" ],
+    [ "boss_vaelastrasz::boss_vaelAI", "d8/dbf/a12528.html", "d8/dbf/a12528" ],
+    [ "spell_vael_burning_adrenaline", "de/d98/a12532.html", "de/d98/a12532" ],
     [ "Events", "d8/d71/a03626.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

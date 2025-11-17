@@ -1,6 +1,7 @@
 var a18944 =
 [
-    [ "HandleScript", "dd/dfe/a18944.html#a33f15ecf0c0ff013d03742cb2130f372", null ],
-    [ "PrepareSpellScript", "dd/dfe/a18944.html#ab3a832cf53f4438db0d9e58b89c0ef7f", null ],
-    [ "Register", "dd/dfe/a18944.html#ad0c6d34103244cded41481c745dafe58", null ]
+    [ "HandleDummyLaunch", "dd/dfe/a18944.html#a4991dab04ed9cb8cfd846588a8ef01bf", null ],
+    [ "PrepareSpellScript", "dd/dfe/a18944.html#a8926bc8e228eaaa4a7d554643b50e48d", null ],
+    [ "Register", "dd/dfe/a18944.html#add5dc6c0a3b618fba3d3a73b6c76235b", null ],
+    [ "Validate", "dd/dfe/a18944.html#a577166695c1479e3730a70637bc18cf1", null ]
 ];

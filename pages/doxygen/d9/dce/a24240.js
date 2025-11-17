@@ -1,11 +1,7 @@
 var a24240 =
 [
-    [ "npc_magister_aledis", "d9/dce/a24240.html#a0e30c5d4f9fe023537a1b29258967630", null ],
-    [ "DamageTaken", "d9/dce/a24240.html#a3c3b72de2dc3e2a1e2bdeab908f0691f", null ],
-    [ "Reset", "d9/dce/a24240.html#ae0a701eeaacc5188b382c59ecef14518", null ],
-    [ "sGossipSelect", "d9/dce/a24240.html#a9960de0b5be8b75e8b7bcc8f12c4f187", null ],
-    [ "StartFight", "d9/dce/a24240.html#a9149ce0a1df781043a5590fe4612511a", null ],
-    [ "UpdateAI", "d9/dce/a24240.html#aef885088193e2597e6990e3051a31ef7", null ],
-    [ "_events", "d9/dce/a24240.html#a5b4cd0ab4d214547dca28b8b384f83df", null ],
-    [ "_playerGUID", "d9/dce/a24240.html#a0954d3d1c9ad4eaff387bc2cf4f52aeb", null ]
+    [ "npc_kurenai_captiveAI", "d2/d0b/a24244.html", "d2/d0b/a24244" ],
+    [ "npc_kurenai_captive", "d9/dce/a24240.html#ae0e283bfc476f2d9e602158fa8720cdc", null ],
+    [ "GetAI", "d9/dce/a24240.html#ad6f9abf280ca7c3a1b16f7e4815fb979", null ],
+    [ "OnQuestAccept", "d9/dce/a24240.html#a7ecdb782bf084f3fd0f9dc3e2e10bf4a", null ]
 ];

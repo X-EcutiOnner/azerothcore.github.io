@@ -1,6 +1,7 @@
 var a18856 =
 [
-    [ "npc_frostwing_vrykulAI", "d0/db9/a18860.html", "d0/db9/a18860" ],
-    [ "npc_frostwing_vrykul", "de/db7/a18856.html#ab915aa094ddebd9201a1c626e6427409", null ],
-    [ "GetAI", "de/db7/a18856.html#a11678e59b6db9a41c7b6a575339995fd", null ]
+    [ "npc_impaling_spearAI", "de/db7/a18856.html#ae8fbc36a15324b210a24a0e98357adc3", null ],
+    [ "Reset", "de/db7/a18856.html#a43fa8bf8f22f0635261decd8b15ed6f5", null ],
+    [ "UpdateAI", "de/db7/a18856.html#acb187a58b0ba256b4e003655ac36db34", null ],
+    [ "_vehicleCheckTimer", "de/db7/a18856.html#a264874b9f6f0609792d4b3a325e54f59", null ]
 ];

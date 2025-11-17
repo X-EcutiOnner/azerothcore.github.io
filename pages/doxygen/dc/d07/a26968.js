@@ -1,7 +1,6 @@
 var a26968 =
 [
-    [ "AfterRemove", "dc/d07/a26968.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
-    [ "PrepareAuraScript", "dc/d07/a26968.html#af338af238305f1872275e1e5e9fdee16", null ],
-    [ "Register", "dc/d07/a26968.html#aa266e794be35b51a399b13ee2d06199d", null ],
-    [ "Validate", "dc/d07/a26968.html#af58098eb7a904e20846cf728f5adc18b", null ]
+    [ "CheckCast", "dc/d07/a26968.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
+    [ "PrepareSpellScript", "dc/d07/a26968.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
+    [ "Register", "dc/d07/a26968.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
 ];

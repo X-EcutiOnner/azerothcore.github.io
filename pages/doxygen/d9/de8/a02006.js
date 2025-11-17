@@ -1,7 +1,7 @@
 var a02006 =
 [
-    [ "boss_warbringer_omrogg", "d3/d00/a23848.html", "d3/d00/a23848" ],
-    [ "spell_burning_maul", "dc/dae/a23852.html", "dc/dae/a23852" ],
+    [ "boss_warbringer_omrogg", "d1/d36/a23816.html", "d1/d36/a23816" ],
+    [ "spell_burning_maul", "d6/d0a/a23820.html", "d6/d0a/a23820" ],
     [ "Equip", "d9/de8/a02006.html#a6ddbaae08010d527c6c3d88cdcde663f", [
       [ "EQUIP_STANDARD", "d9/de8/a02006.html#a6ddbaae08010d527c6c3d88cdcde663fa3c78a51d65a81277c99654e88eff66ad", null ],
       [ "EQUIP_BURNING_MAUL", "d9/de8/a02006.html#a6ddbaae08010d527c6c3d88cdcde663fadf5050dd7eab9cf1759d0070273ba382", null ]
@@ -231,13 +231,6 @@ var a02006 =
       [ "NPC_DRAKKARI_SCYTHECLAW", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7e48e5fe774eb74669c83be919da5622", null ],
       [ "NPC_DRAKKARI_GUTRIPPER", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2cdf1f3390fb22db6bb6e2184f1d5bd2", null ],
       [ "SAY_CLAW_EMOTE", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f51e45e863d90a325292d3483fee924", null ],
-      [ "EVENT_SPELL_BELLOWING_ROAR", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1207337a608cc4aa53f01e5b6845a732", null ],
-      [ "EVENT_SPELL_GRIEVOUS_BITE", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aefdaf076d2c6592ebfade89f6acffd45", null ],
-      [ "EVENT_SPELL_MANGLING_SLASH", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a93656fef97f855e3ba9aac755faab5c3", null ],
-      [ "EVENT_SPELL_FEARSOME_ROAR", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a22f9d345b4970c56d4d8f834791446ee", null ],
-      [ "EVENT_SPELL_PIERCING_SLASH", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad0c3e0969d795fb0cc22251d8044e88b", null ],
-      [ "EVENT_SPELL_RAPTOR_CALL", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a33c44535adb31c55814e2c58a0e2bdae", null ],
-      [ "EVENT_MENACING_CLAW", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad98eeb44b41667ab583f7a0cb6cac01b", null ],
       [ "NPC_CRYSTAL_CHANNEL_TARGET", "dd/da3/a03026.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a184ab33dcebe153863959d30c3e09f91", null ],
       [ "NPC_CRYSTAL_HANDLER", "dd/da3/a03026.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d211e1034e51a7cae966447a6786576", null ],
       [ "NPC_SUMMON_CRYSTAL_HANDLER_TARGET", "dd/da3/a03026.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af728f91b867885926207b4aa983da4be", null ],

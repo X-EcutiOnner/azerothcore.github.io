@@ -1,6 +1,7 @@
 var a22248 =
 [
-    [ "npc_llod_genericAI", "dd/dbc/a22252.html", "dd/dbc/a22252" ],
-    [ "npc_llod_generic", "dd/d40/a22248.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
-    [ "GetAI", "dd/d40/a22248.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
+    [ "npc_tirions_gambit_tirionAI", "dd/dbc/a22252.html", "dd/dbc/a22252" ],
+    [ "npc_tirions_gambit_tirion", "dd/d40/a22248.html#ad52abd46ccdd3b4409671679434c193c", null ],
+    [ "GetAI", "dd/d40/a22248.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
+    [ "OnGossipSelect", "dd/d40/a22248.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
 ];

@@ -1,6 +1,8 @@
 var a23044 =
 [
-    [ "HandleSharedRule", "dc/d5c/a23044.html#a94b783490dafae872b65e0bbfed156b9", null ],
-    [ "PrepareSpellScript", "dc/d5c/a23044.html#af59695af3afcc51a3c29fcc4053bbfee", null ],
-    [ "Register", "dc/d5c/a23044.html#a31f2d90059e62da77a719a192d62328b", null ]
+    [ "FilterTargets", "dc/d5c/a23044.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
+    [ "HandleDummy", "dc/d5c/a23044.html#ab89ab441f022ee017548ba49d128b92e", null ],
+    [ "PrepareSpellScript", "dc/d5c/a23044.html#aa8578390d7d9379328c02ceb209e94ed", null ],
+    [ "Register", "dc/d5c/a23044.html#a486387d707b7ad66ecb443ab2bb60778", null ],
+    [ "Validate", "dc/d5c/a23044.html#ad5d695978794d796eb7139fce1530d57", null ]
 ];

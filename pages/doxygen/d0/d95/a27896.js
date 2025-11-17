@@ -1,7 +1,5 @@
 var a27896 =
 [
-    [ "npc_venomhide_hatchlingAI", "db/d30/a27900.html", "db/d30/a27900" ],
-    [ "npc_venomhide_hatchling", "d0/d95/a27896.html#a4dc217dd5950db7b270b7cce3e594e4d", null ],
-    [ "GetAI", "d0/d95/a27896.html#a96110b752965d751ab7b466c4f67e333", null ],
-    [ "OnGossipHello", "d0/d95/a27896.html#a404d875592b847ddb9f3250c9d954bfc", null ]
+    [ "npc_necropolis", "d0/d95/a27896.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
+    [ "SpellHit", "d0/d95/a27896.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
 ];

@@ -1,6 +1,7 @@
 var a27364 =
 [
-    [ "boss_lethonAI", "db/df1/a27368.html", "db/df1/a27368" ],
-    [ "boss_lethon", "d4/da8/a27364.html#a5d758979b061646830373de64b2b3af4", null ],
-    [ "GetAI", "d4/da8/a27364.html#a493baf37aac400635dd0409e79375a1c", null ]
+    [ "FilterTargets", "d4/da8/a27364.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
+    [ "HandleEffect", "d4/da8/a27364.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
+    [ "PrepareSpellScript", "d4/da8/a27364.html#a53b5772c87574beb5b295c26fe983b76", null ],
+    [ "Register", "d4/da8/a27364.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
 ];

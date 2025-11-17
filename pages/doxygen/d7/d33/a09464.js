@@ -1,10 +1,7 @@
 var a09464 =
 [
-    [ "AnyPlayerInObjectRangeCheck", "d7/d33/a09464.html#ae636bd72045687920ec1d460508bc74b", null ],
-    [ "operator()", "d7/d33/a09464.html#ac1eda8f85259230fb382a3b6e58b6798", null ],
-    [ "operator()", "d7/d33/a09464.html#a70c477213c8b271d3402857edd87ef8b", null ],
-    [ "_disallowGM", "d7/d33/a09464.html#a9c43efd575de2edfdaa0b84def91c727", null ],
-    [ "_obj", "d7/d33/a09464.html#a07a346225f675433792d2298673acd1f", null ],
-    [ "_range", "d7/d33/a09464.html#ae372500b3a21cb65a11045dcc6f094a8", null ],
-    [ "_reqAlive", "d7/d33/a09464.html#af1e397c5033711e65d9ac5b35311e893", null ]
+    [ "AnyPlayerExactPositionInGameObjectRangeCheck", "d7/d33/a09464.html#a51100c20d5b7f795f062dfaa5aa65017", null ],
+    [ "operator()", "d7/d33/a09464.html#a0dd7216a026b7f90b293b2adf20a0191", null ],
+    [ "_go", "d7/d33/a09464.html#a70e0b15948cf34a7c759885949560dcd", null ],
+    [ "_range", "d7/d33/a09464.html#ad91342e50833e3b9d75c5e548248941f", null ]
 ];

@@ -1,8 +1,14 @@
 var a05548 =
 [
-    [ "result_type", "dd/d89/a05548.html#a20f96383bade76c6185d8f20f458784e", null ],
-    [ "Instance", "dd/d89/a05548.html#a5ff7fcb1f8d34861b0c210eddc450681", null ],
-    [ "max", "dd/d89/a05548.html#ad5dcf280f768ebd79210caf6ecff4290", null ],
-    [ "min", "dd/d89/a05548.html#ab153ffca65139db4084745302dd4db7f", null ],
-    [ "operator()", "dd/d89/a05548.html#afe5f6dd94cbc6add3fd13fa3fe37b60d", null ]
+    [ "SFMTRand", "dd/d89/a05548.html#aa40843ec8c3162e4be6cbf8067f93c9b", null ],
+    [ "operator delete", "dd/d89/a05548.html#a20ef76641899ebf23ecfdfa03933d1d9", null ],
+    [ "operator delete", "dd/d89/a05548.html#ac6267ac04c03814f574a155a4a0cffcb", null ],
+    [ "operator delete[]", "dd/d89/a05548.html#a5051cdb95e18230b7fee753beb621603", null ],
+    [ "operator delete[]", "dd/d89/a05548.html#a7cfe99d3c100b6ba124b82fce756960f", null ],
+    [ "operator new", "dd/d89/a05548.html#a73dfbe0b1545b5604dfde603517efbfb", null ],
+    [ "operator new", "dd/d89/a05548.html#a3dc4f4d003c77547117ec7c31486f884", null ],
+    [ "operator new[]", "dd/d89/a05548.html#a61d2b3bc61bfa640c8b0241d09347d2b", null ],
+    [ "operator new[]", "dd/d89/a05548.html#ace8e8802bdb710f3354d3ff7d619497c", null ],
+    [ "RandomUInt32", "dd/d89/a05548.html#a8d129952ad2916419cdf54aa474c23c0", null ],
+    [ "_state", "dd/d89/a05548.html#a9bc20836138e5dd4db93f7d03a9e856b", null ]
 ];

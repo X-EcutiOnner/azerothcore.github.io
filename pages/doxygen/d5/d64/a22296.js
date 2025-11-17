@@ -1,6 +1,5 @@
 var a22296 =
 [
-    [ "HandleDummy", "d5/d64/a22296.html#a05a38c1b8e3b674f3c6e79c59c7caddd", null ],
-    [ "PrepareSpellScript", "d5/d64/a22296.html#a0bfebaf099ef573b51bec0a511ceeb39", null ],
-    [ "Register", "d5/d64/a22296.html#a9c71b084ce6b86ccaeb9a94d1f8de2b1", null ]
+    [ "npc_guardian_pavilionAI", "d5/d64/a22296.html#a2c116495e65c7f97063aa7dc6516f48c", null ],
+    [ "MoveInLineOfSight", "d5/d64/a22296.html#aeae26e28be93120062d9f77c069ff32a", null ]
 ];

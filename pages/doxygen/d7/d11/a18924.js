@@ -1,5 +1,7 @@
 var a18924 =
 [
-    [ "at_icc_shutdown_traps", "d7/d11/a18924.html#aa13f5d78d3032e8114e9978f42468f64", null ],
-    [ "OnTrigger", "d7/d11/a18924.html#abb31b3f6d0b159b625d731ac47127005", null ]
+    [ "OnRemove", "d7/d11/a18924.html#ac71e6f5a9e3a7c96b4e4bd1a296d0d8d", null ],
+    [ "PrepareAuraScript", "d7/d11/a18924.html#acf654e563f47df9ad033d7080f47662b", null ],
+    [ "Register", "d7/d11/a18924.html#aad4497ba7cad48b9547e8696714d8c23", null ],
+    [ "Validate", "d7/d11/a18924.html#ae5e187cb481849343e777b0bf0ffdf24", null ]
 ];

@@ -1,6 +1,7 @@
 var a25148 =
 [
-    [ "HandleOnEffectHit", "d1/db7/a25148.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "d1/db7/a25148.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "d1/db7/a25148.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "HandleScript", "d1/db7/a25148.html#a628fbc7ef23ce8f93d132f7bf518d4d8", null ],
+    [ "PrepareSpellScript", "d1/db7/a25148.html#a8e5aa0a33907c5216299734a928de2fd", null ],
+    [ "Register", "d1/db7/a25148.html#a9e25da03bbbea35f13420c14c6fab0d5", null ],
+    [ "Validate", "d1/db7/a25148.html#a30cc03ed0c19074dc1fde4951a061815", null ]
 ];

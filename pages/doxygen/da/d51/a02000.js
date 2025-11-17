@@ -1,8 +1,8 @@
 var a02000 =
 [
-    [ "boss_warchief_kargath_bladefist", "da/d4e/a23856.html", "da/d4e/a23856" ],
-    [ "npc_warchief_portal", "de/d09/a23860.html", "de/d09/a23860" ],
-    [ "spell_blade_dance_targeting", "d9/df3/a23864.html", "d9/df3/a23864" ],
+    [ "boss_warchief_kargath_bladefist", "d8/daf/a23824.html", "d8/daf/a23824" ],
+    [ "npc_warchief_portal", "d2/d36/a23828.html", "d2/d36/a23828" ],
+    [ "spell_blade_dance_targeting", "d4/dce/a23832.html", "d4/dce/a23832" ],
     [ "Creatures", "da/d51/a02000.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "d5/d56/a03437.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "d5/d56/a03437.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],
@@ -155,6 +155,7 @@ var a02000 =
       [ "NPC_KURZEL", "d6/d97/a03011.html#a25a619e6b66096a4f05d048e4a96df08a22d66bc624082cb121a29f26aec07465", null ],
       [ "NPC_DRAKKARI_GUARDIAN", "d6/d97/a03011.html#a25a619e6b66096a4f05d048e4a96df08ac8874bda0b81ee0c77596d066d6c04d1", null ],
       [ "NPC_RISEN_DRAKKARI_WARRIOR", "d6/d97/a03011.html#a25a619e6b66096a4f05d048e4a96df08a134872c6167fea34d52690f6b40e7429", null ],
+      [ "NPC_FETID_TROLL_CORPSE", "d6/d97/a03011.html#a25a619e6b66096a4f05d048e4a96df08a9410ab8c778e63e997745a443db5e32c", null ],
       [ "NPC_BRONJAHM", "d7/deb/a03077.html#a25a619e6b66096a4f05d048e4a96df08a8123c635a5ab5db37954d58117f9d044", null ],
       [ "NPC_DEVOURER", "d7/deb/a03077.html#a25a619e6b66096a4f05d048e4a96df08a11aef36e86ef916bc76cd8910dff17e0", null ],
       [ "NPC_SYLVANAS_PART1", "d7/deb/a03077.html#a25a619e6b66096a4f05d048e4a96df08ad7b5f6d9b213f87c99f931b456390560", null ],

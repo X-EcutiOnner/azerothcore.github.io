@@ -1,7 +1,8 @@
 var a23528 =
 [
-    [ "HandleScriptEffect", "dd/d39/a23528.html#ace1bb0dd5a76aa75038060af16b2e09f", null ],
-    [ "PrepareSpellScript", "dd/d39/a23528.html#ab3f6d24643b75482d5f96779a5bdda11", null ],
-    [ "Register", "dd/d39/a23528.html#a14772c25b70078c0034b8de17de5b77a", null ],
-    [ "Validate", "dd/d39/a23528.html#a8318385367bf6c6b09e0978c461f5d59", null ]
+    [ "boss_mekgineer_steamrigger", "dd/d39/a23528.html#a930dcbade7135d0c689bcc0718815547", null ],
+    [ "JustDied", "dd/d39/a23528.html#a79272c233bc0256cca62700fc7a01421", null ],
+    [ "JustEngagedWith", "dd/d39/a23528.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
+    [ "JustSummoned", "dd/d39/a23528.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
+    [ "KilledUnit", "dd/d39/a23528.html#a84374438458cb7e034f91d4b65cd22f1", null ]
 ];

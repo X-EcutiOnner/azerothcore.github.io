@@ -1,6 +1,7 @@
 var a27372 =
 [
-    [ "npc_spirit_shadeAI", "d0/d2a/a27376.html", "d0/d2a/a27376" ],
-    [ "npc_spirit_shade", "d9/d7b/a27372.html#a891ede5651789274496d6426daf9937d", null ],
-    [ "GetAI", "d9/d7b/a27372.html#a166f6a9abf7c0e33374c2f998c0524c3", null ]
+    [ "HandlePeriodic", "d9/d7b/a27372.html#a3da4cc5322f2e34244729fe3b3876482", null ],
+    [ "PrepareAuraScript", "d9/d7b/a27372.html#aab7f5c5bdfdd2b440f59f16ab321765a", null ],
+    [ "Register", "d9/d7b/a27372.html#a53b6067f46912648413fc6d6f107b0d8", null ],
+    [ "Validate", "d9/d7b/a27372.html#aa03222717b3c06316b232a6ac0270ec0", null ]
 ];

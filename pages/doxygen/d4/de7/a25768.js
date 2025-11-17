@@ -1,6 +1,6 @@
 var a25768 =
 [
-    [ "HandleHeal", "d4/de7/a25768.html#a3d315ab6d76d45f3d0f5de4a312377ff", null ],
-    [ "PrepareSpellScript", "d4/de7/a25768.html#ad77d816c82714fe2cafb4dbf48691937", null ],
-    [ "Register", "d4/de7/a25768.html#a313abe6367e5494bd81a557ab42f9f50", null ]
+    [ "HandleScriptEffect", "d4/de7/a25768.html#a94bbfc928beab8c8f27d84d1c9ab1558", null ],
+    [ "PrepareSpellScript", "d4/de7/a25768.html#a479832175a4c77ce0c0a2f3d3f98f08c", null ],
+    [ "Register", "d4/de7/a25768.html#aff9efad03d94958c29c84ea3c0d19fdb", null ]
 ];

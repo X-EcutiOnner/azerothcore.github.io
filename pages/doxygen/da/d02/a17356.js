@@ -1,10 +1,7 @@
 var a17356 =
 [
-    [ "boss_drakkari_elementalAI", "da/d02/a17356.html#aad8f28b7e45a7897cb758dff90aa46d8", null ],
-    [ "DoAction", "da/d02/a17356.html#afc16e2da1f40ec0c0257e3bedc04c8a7", null ],
-    [ "JustDied", "da/d02/a17356.html#aec2878e51a12749914e3a30c0ddea900", null ],
-    [ "JustEngagedWith", "da/d02/a17356.html#a75cbf6a164ab4337f86b600541c563f2", null ],
-    [ "Reset", "da/d02/a17356.html#a3a0cd44c30eacac26bcfd1bbe2a18086", null ],
-    [ "UpdateAI", "da/d02/a17356.html#adb9ad99bc784a76da238ed2ee694d4f2", null ],
-    [ "events", "da/d02/a17356.html#abd9bef8fd2bd10a520d9569351bd925b", null ]
+    [ "HandleDummy", "da/d02/a17356.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
+    [ "PrepareSpellScript", "da/d02/a17356.html#a3ef0564565ea49265800422c835432b0", null ],
+    [ "Register", "da/d02/a17356.html#a7b685926a8d511397889616e97bbd563", null ],
+    [ "Validate", "da/d02/a17356.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
 ];

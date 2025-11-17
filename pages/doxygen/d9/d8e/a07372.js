@@ -1,10 +1,12 @@
 var a07372 =
 [
-    [ "SelectionPool", "d9/d8e/a07372.html#a9ddcca26fb3f4c635d7bcbb045542885", null ],
-    [ "AddGroup", "d9/d8e/a07372.html#a87fe4747536355ad7affda76640a082e", null ],
-    [ "GetPlayerCount", "d9/d8e/a07372.html#af344a6e6bb42609887ee8a3022e9d8e5", null ],
-    [ "Init", "d9/d8e/a07372.html#a84c3fe684033e8744ce6d6bc50526ee7", null ],
-    [ "KickGroup", "d9/d8e/a07372.html#a74fb708546a8612ca52b24b8472b71ef", null ],
-    [ "PlayerCount", "d9/d8e/a07372.html#a0c08c47f68dbb45175efc524f4553e16", null ],
-    [ "SelectedGroups", "d9/d8e/a07372.html#a4387ef77c341f90758d6c64c4ef2c475", null ]
+    [ "BGQueueInviteEvent", "d9/d8e/a07372.html#acee27900339fdcebbfd21bb0e602654d", null ],
+    [ "~BGQueueInviteEvent", "d9/d8e/a07372.html#a09f9f27ecbc273b25e5941966a4fa925", null ],
+    [ "Abort", "d9/d8e/a07372.html#a07f5520ab61cdfd4eadc5d0815067135", null ],
+    [ "Execute", "d9/d8e/a07372.html#a444aceb1c29c951271bab5186a7f3064", null ],
+    [ "m_ArenaType", "d9/d8e/a07372.html#a1b7d1161d46578606396efd515ab1739", null ],
+    [ "m_BgInstanceGUID", "d9/d8e/a07372.html#ad9adc44cc1cde3b0b820740852bdb3ce", null ],
+    [ "m_BgTypeId", "d9/d8e/a07372.html#a608c24288f24bc4da77124257320c741", null ],
+    [ "m_PlayerGuid", "d9/d8e/a07372.html#a200b4bcd336846df60ec11de8d829d7d", null ],
+    [ "m_RemoveTime", "d9/d8e/a07372.html#a4c78e5a74eaf859db40772008557201f", null ]
 ];

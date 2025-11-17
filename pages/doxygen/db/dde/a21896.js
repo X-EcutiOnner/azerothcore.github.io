@@ -1,6 +1,7 @@
 var a21896 =
 [
-    [ "npc_dalaran_warriorAI", "d3/ded/a21900.html", "d3/ded/a21900" ],
-    [ "npc_dalaran_warrior", "db/dde/a21896.html#a13d44b85173232ddedcc35184d50549c", null ],
-    [ "GetAI", "db/dde/a21896.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
+    [ "npc_cosmetic_toy_plane", "db/dde/a21896.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
+    [ "Reset", "db/dde/a21896.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
+    [ "UpdateAI", "db/dde/a21896.html#a41d62b314510fbd6637d8eddbea16f96", null ],
+    [ "_movementArray", "db/dde/a21896.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
 ];

@@ -1,8 +1,10 @@
 var a24956 =
 [
-    [ "AfterApply", "db/d2e/a24956.html#a9c2591beacd941893338109719c03e3f", null ],
-    [ "AfterRemove", "db/d2e/a24956.html#a0be2a66b615dd926de7073392a8e5062", null ],
-    [ "PrepareAuraScript", "db/d2e/a24956.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
-    [ "Register", "db/d2e/a24956.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
-    [ "Validate", "db/d2e/a24956.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
+    [ "Load", "db/d2e/a24956.html#a2c4e408e45995098b01a05815fffb34c", null ],
+    [ "OnApply", "db/d2e/a24956.html#acae1047046bb8f555d1798ca024a2650", null ],
+    [ "OnRemove", "db/d2e/a24956.html#aa01df2b86cf69508866f6e7d063c735a", null ],
+    [ "PrepareAuraScript", "db/d2e/a24956.html#a18103f56fd6f90f8c3aa53ff53b82492", null ],
+    [ "Register", "db/d2e/a24956.html#a02ef50b047ac0ac8932d37234ad4ae2f", null ],
+    [ "Validate", "db/d2e/a24956.html#ac89215007d26494b6eaa690b23d6bbd8", null ],
+    [ "_casterGUID", "db/d2e/a24956.html#a8047fb4309487c7a529047ec5148a2e3", null ]
 ];

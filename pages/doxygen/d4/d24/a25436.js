@@ -1,6 +1,7 @@
 var a25436 =
 [
-    [ "OnApply", "d4/d24/a25436.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
-    [ "PrepareAuraScript", "d4/d24/a25436.html#a159ee8a9b0af729ed01f7632adb58863", null ],
-    [ "Register", "d4/d24/a25436.html#a0f33043317402119aa14e50a1eb6c227", null ]
+    [ "HandleDamage", "d4/d24/a25436.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
+    [ "PrepareSpellScript", "d4/d24/a25436.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
+    [ "Register", "d4/d24/a25436.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
+    [ "Validate", "d4/d24/a25436.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
 ];

@@ -1,4 +1,6 @@
 var a28468 =
 [
-    [ "ratio", "df/dcf/a28468.html#ad3cdf9a27817d39d05b8b785f5ba5ac7", null ]
+    [ "Enchantment", "df/dcf/a28468.html#a480ab806214bb138d56dfd5e9e43936f", null ],
+    [ "ID", "df/dcf/a28468.html#acb673be771124b84dd3fdd5deb300de7", null ],
+    [ "Name", "df/dcf/a28468.html#a3ad3a1b693922ff8264d90232abb3e35", null ]
 ];

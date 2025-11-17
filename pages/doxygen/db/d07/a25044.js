@@ -1,6 +1,6 @@
 var a25044 =
 [
-    [ "PrepareSpellScript", "db/d07/a25044.html#acfa320b33c00883a78c3696bbbeb7eb0", null ],
-    [ "Register", "db/d07/a25044.html#a6d251ba1e88d4349dcffa96978389a7f", null ],
-    [ "SelectTarget", "db/d07/a25044.html#a0d95f8ad8d05d2c0b100dc10988d00c9", null ]
+    [ "CheckProc", "db/d07/a25044.html#a3c4f64fc51367ebb549282b068458f4c", null ],
+    [ "PrepareAuraScript", "db/d07/a25044.html#a72dc7c7b8bc842a7feb6857cbec34d25", null ],
+    [ "Register", "db/d07/a25044.html#ac84b357828094a42aab1c8bfee83d298", null ]
 ];

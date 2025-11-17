@@ -1,7 +1,7 @@
 var a25744 =
 [
-    [ "HandleScriptEffect", "da/dc8/a25744.html#acbcc05fa433f5bf75998b15e4e25fdad", null ],
-    [ "PrepareSpellScript", "da/dc8/a25744.html#adf5a3b94012ac871c70f5782d57ae1cd", null ],
-    [ "Register", "da/dc8/a25744.html#a00596a3f8f0699c25e52a5778d59a2b2", null ],
-    [ "SelectTarget", "da/dc8/a25744.html#a6a59b7ce696f959b2026cf8088079e89", null ]
+    [ "HandleScriptEffect", "da/dc8/a25744.html#a3ad488a1b6115bb1ec8cfe6717d3b4cf", null ],
+    [ "Load", "da/dc8/a25744.html#af89783564da25769be15e22291717f6a", null ],
+    [ "PrepareSpellScript", "da/dc8/a25744.html#a1e7e4137712fcaa378d1ac7ff1b0a6c7", null ],
+    [ "Register", "da/dc8/a25744.html#addbe722d9f3727578f817789e3010bab", null ]
 ];

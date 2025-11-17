@@ -1,7 +1,6 @@
 var a25300 =
 [
-    [ "HandleDummy", "db/df4/a25300.html#ab00358dc50fa943685fdd87e5a8ac224", null ],
-    [ "Load", "db/df4/a25300.html#a31075533c24011797bd0f99dce5e8330", null ],
-    [ "PrepareSpellScript", "db/df4/a25300.html#abf0acc8765f6e02674b8e93aca575a98", null ],
-    [ "Register", "db/df4/a25300.html#ad1bd05a154b506424954ef879e5b9fba", null ]
+    [ "HandleScriptEffect", "db/df4/a25300.html#a422a77760004d6d6fac6bacdb1d436ff", null ],
+    [ "PrepareSpellScript", "db/df4/a25300.html#a1d7e2beafb55464f928ea5904441d698", null ],
+    [ "Register", "db/df4/a25300.html#aeaa8321255f377b85884df25a455554f", null ]
 ];

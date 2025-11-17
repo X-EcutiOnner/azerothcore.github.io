@@ -1,6 +1,8 @@
 var a25332 =
 [
-    [ "HandleScriptEffect", "dc/d11/a25332.html#a422a77760004d6d6fac6bacdb1d436ff", null ],
-    [ "PrepareSpellScript", "dc/d11/a25332.html#a1d7e2beafb55464f928ea5904441d698", null ],
-    [ "Register", "dc/d11/a25332.html#aeaa8321255f377b85884df25a455554f", null ]
+    [ "CheckCast", "dc/d11/a25332.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
+    [ "HandleScript", "dc/d11/a25332.html#a2c1702398e4cbdcc106679d534a27743", null ],
+    [ "PrepareSpellScript", "dc/d11/a25332.html#a613bdf7841744632c1e6de147e0352b9", null ],
+    [ "Register", "dc/d11/a25332.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
+    [ "Validate", "dc/d11/a25332.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
 ];

@@ -1,6 +1,7 @@
 var a27820 =
 [
-    [ "npc_garments_of_questsAI", "d5/d7f/a27824.html", "d5/d7f/a27824" ],
-    [ "npc_garments_of_quests", "d6/dcd/a27820.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "d6/dcd/a27820.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "npc_wormholeAI", "d6/dcd/a27820.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
+    [ "GetData", "d6/dcd/a27820.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
+    [ "InitializeAI", "d6/dcd/a27820.html#aa0a903014ec7243036604ffcc67e0a36", null ],
+    [ "_showUnderground", "d6/dcd/a27820.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
 ];

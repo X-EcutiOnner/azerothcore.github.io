@@ -1,12 +1,8 @@
 var a29064 =
 [
-    [ "Model", "d0/dbd/a29064.html#ae102b5fc584185113e89fb7b39a72bd1", null ],
-    [ "~Model", "d0/dbd/a29064.html#ad6ebd2062a0b823db841a0b88baac4c0", null ],
-    [ "_unload", "d0/dbd/a29064.html#a9b02ed73fa006bc057157b636029ab6f", null ],
-    [ "ConvertToVMAPModel", "d0/dbd/a29064.html#ae6fd5d754d9a880359b8afaf50c5753e", null ],
-    [ "open", "d0/dbd/a29064.html#a6ed3a71ff468f5acaccc61f5c2c87a0e", null ],
-    [ "filename", "d0/dbd/a29064.html#a4c43746e9c460e29cabd1ba2db6ba222", null ],
-    [ "header", "d0/dbd/a29064.html#a2f6e66bbf4acc662d73e8fe8e5a0e085", null ],
-    [ "indices", "d0/dbd/a29064.html#a3b61d3316481e7b9c38bf50806ebded6", null ],
-    [ "vertices", "d0/dbd/a29064.html#a1af9857df4d0e16ab9940846300fa8fe", null ]
+    [ "Color", "d0/dbd/a29064.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
+    [ "NameIndex", "d0/dbd/a29064.html#add893e045d13a3633fd7346457a10477", null ],
+    [ "Position", "d0/dbd/a29064.html#afae9056582e71160c151de2c172bc60a", null ],
+    [ "Rotation", "d0/dbd/a29064.html#a48d372bc1371fa5f94db9aa39669942a", null ],
+    [ "Scale", "d0/dbd/a29064.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
 ];

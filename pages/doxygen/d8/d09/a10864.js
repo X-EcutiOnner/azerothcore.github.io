@@ -1,11 +1,10 @@
 var a10864 =
 [
-    [ "BuyItemInSlot", "d8/d09/a10864.html#a9a15be940d8eb216614dca5055be094a", null ],
-    [ "Read", "d8/d09/a10864.html#a2608e83a41fb44c8469d2b9196702627", null ],
-    [ "BagGuid", "d8/d09/a10864.html#abb9a1c7ac98c1cd848e4da8faf4e3925", null ],
-    [ "BagSlot", "d8/d09/a10864.html#abdcb3b7e8a633b59d264ff1c860ec9c9", null ],
-    [ "Count", "d8/d09/a10864.html#a3d057f2bdafb46887a97dbba8bb5aa04", null ],
-    [ "Item", "d8/d09/a10864.html#a1fdfad3b4dd000c0f6d6d60f30bdd981", null ],
-    [ "Slot", "d8/d09/a10864.html#aae1dba7644a82933a801f581551479bc", null ],
-    [ "VendorGuid", "d8/d09/a10864.html#ac65b0fc2609531c8657c4d83cf50dbfe", null ]
+    [ "BuyItem", "d8/d09/a10864.html#a3069d333bccadf53310ce86118b2c224", null ],
+    [ "Read", "d8/d09/a10864.html#aeeda3c4a9200cfdc3372f1a3510f453b", null ],
+    [ "Count", "d8/d09/a10864.html#a72fee9e84781ae2be25f9f15a2bb6de2", null ],
+    [ "Item", "d8/d09/a10864.html#a07c03ec8db8e498b417b7dbabb9412b3", null ],
+    [ "Slot", "d8/d09/a10864.html#a7db43e484bf82fb81ccca197c24df2d1", null ],
+    [ "Unk", "d8/d09/a10864.html#aaf2b6aefb11379325b8cf9931abff638", null ],
+    [ "VendorGuid", "d8/d09/a10864.html#aab9a5ff8f6f71a311e58e78b81ef7021", null ]
 ];

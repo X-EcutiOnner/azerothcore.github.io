@@ -1,10 +1,6 @@
 var a19344 =
 [
-    [ "boss_razuvious_minionAI", "db/daa/a19344.html#a6f9fc7dad68f35846ee76d4bff564407", null ],
-    [ "DoAction", "db/daa/a19344.html#a93cfa3f706ffadd94ad4dbe0585eebf1", null ],
-    [ "JustEngagedWith", "db/daa/a19344.html#ada2e7a5ac1f129572a0689afce49d310", null ],
-    [ "KilledUnit", "db/daa/a19344.html#ab1a6f582098c9d1218551af0aae1815d", null ],
-    [ "Reset", "db/daa/a19344.html#a170de8517a03a0e78b1e67652869fd9a", null ],
-    [ "ScheduleAttackDummy", "db/daa/a19344.html#abed82c71605d7c57bf29cedc21fc6b24", null ],
-    [ "UpdateAI", "db/daa/a19344.html#ad56fca0ae00fba6e575baefd72c7a8d0", null ]
+    [ "FilterTargets", "db/daa/a19344.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
+    [ "PrepareSpellScript", "db/daa/a19344.html#a452937a4e95b40366f915213ec475a84", null ],
+    [ "Register", "db/daa/a19344.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
 ];

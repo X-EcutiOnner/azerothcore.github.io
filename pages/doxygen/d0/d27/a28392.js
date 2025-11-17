@@ -1,5 +1,6 @@
 var a28392 =
 [
-    [ "Id", "d0/d27/a28392.html#a79e4b857b811a044aed0ce33422df801", null ],
-    [ "quality_mod", "d0/d27/a28392.html#a756e7b316cc365f15f24e5e4637303a6", null ]
+    [ "Id", "d0/d27/a28392.html#a9f283a7c8339cc5b4fa67f3974ce8621", null ],
+    [ "SpellId", "d0/d27/a28392.html#ae8c119bacf706916f331d3f316fb1347", null ],
+    [ "TypeFlags", "d0/d27/a28392.html#aae92871758e9a738a888cacf0946f16b", null ]
 ];

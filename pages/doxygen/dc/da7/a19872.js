@@ -1,11 +1,6 @@
 var a19872 =
 [
-    [ "npc_living_constellationAI", "dc/da7/a19872.html#a54f4e946fad895bca07a59f4e00d10a5", null ],
-    [ "DoAction", "dc/da7/a19872.html#acdc93a7dc3019940d730fa20d115a929", null ],
-    [ "GetData", "dc/da7/a19872.html#acb5cc31d7a084e82d8bde3852f9668dd", null ],
-    [ "Reset", "dc/da7/a19872.html#a664b03bdaea184ab8dd8298ed9952790", null ],
-    [ "SpellHit", "dc/da7/a19872.html#a4c83ef2d5fe161a90d465a8fbd7eb4f8", null ],
-    [ "UpdateAI", "dc/da7/a19872.html#ad5b23c3db46b455c9321e7fb29b88572", null ],
-    [ "_isActive", "dc/da7/a19872.html#a786d2d05f83e59dd0da34f44037bdd35", null ],
-    [ "events", "dc/da7/a19872.html#a679c9fe1ed357b7c7e1ed1fac01ef8d3", null ]
+    [ "go_celestial_planetarium_accessAI", "d7/d35/a19876.html", "d7/d35/a19876" ],
+    [ "go_celestial_planetarium_access", "dc/da7/a19872.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
+    [ "GetAI", "dc/da7/a19872.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
 ];

@@ -1,6 +1,5 @@
 var a27260 =
 [
-    [ "achievement_arena_by_type", "d3/d05/a27260.html#a2042c808304e8ddf1849820491b9f1a3", null ],
-    [ "OnCheck", "d3/d05/a27260.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
-    [ "_arenaType", "d3/d05/a27260.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
+    [ "achievement_flirt_with_disaster_perf_check", "d3/d05/a27260.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
+    [ "OnCheck", "d3/d05/a27260.html#a15e620be2f37f930477ba94293dbaf63", null ]
 ];

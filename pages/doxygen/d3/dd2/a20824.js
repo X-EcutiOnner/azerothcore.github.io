@@ -1,12 +1,6 @@
 var a20824 =
 [
-    [ "boss_thorim_start_npcsAI", "d3/dd2/a20824.html#a9602af25cbe9d4b3fe8534093c237a20", null ],
-    [ "DamageTaken", "d3/dd2/a20824.html#a9a848662671380a726eb7288c6507f68", null ],
-    [ "JustDied", "d3/dd2/a20824.html#a3c4b8928e1e0264e88eb49d930529c41", null ],
-    [ "JustEngagedWith", "d3/dd2/a20824.html#ab6c0a8ae05a408cafb8ffe359d4d0d4e", null ],
-    [ "Reset", "d3/dd2/a20824.html#aedf26a4b5baaf464d70316ce79ec32b3", null ],
-    [ "UpdateAI", "d3/dd2/a20824.html#a5a84827d8d85e3a9b8e374da68d2c7ed", null ],
-    [ "_isCaster", "d3/dd2/a20824.html#a6b2729ab9bce244da0a7d7fe6a4280f7", null ],
-    [ "_playerAttack", "d3/dd2/a20824.html#adb868f1910859c79625cfb7f9a2b4101", null ],
-    [ "events", "d3/dd2/a20824.html#a8dc5693814c49003727204623cef29b7", null ]
+    [ "boss_thorim_runic_colossusAI", "de/d74/a20828.html", "de/d74/a20828" ],
+    [ "boss_thorim_runic_colossus", "d3/dd2/a20824.html#a2ea1c08a98b689cd6c766578e98a3191", null ],
+    [ "GetAI", "d3/dd2/a20824.html#a6d64427ff427a1054e10c9d987b77f53", null ]
 ];

@@ -1,5 +1,7 @@
 var a26620 =
 [
-    [ "spell_q11515_fel_siphon_dummy", "db/da7/a26620.html#a80fa790a716d1ae950f43f9a298afd66", null ],
-    [ "GetSpellScript", "db/da7/a26620.html#a0d122972fc036d1f1e49c49acda58be3", null ]
+    [ "HandleScript", "db/da7/a26620.html#a1b20a7fb4487876f305aa3a8d493ed17", null ],
+    [ "PrepareSpellScript", "db/da7/a26620.html#a5ac848029ef03f6779cf094f4b80dd24", null ],
+    [ "Register", "db/da7/a26620.html#a3d378e0eac09b00792b293b2cd7f3192", null ],
+    [ "Validate", "db/da7/a26620.html#a36963610ad939ec36848ff70185f47a2", null ]
 ];

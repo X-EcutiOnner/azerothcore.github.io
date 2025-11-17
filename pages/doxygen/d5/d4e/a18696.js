@@ -1,6 +1,8 @@
 var a18696 =
 [
-    [ "npc_blazing_skeletonAI", "df/d7a/a18700.html", "df/d7a/a18700" ],
-    [ "npc_blazing_skeleton", "d5/d4e/a18696.html#a158720704479946048472ffe0beec492", null ],
-    [ "GetAI", "d5/d4e/a18696.html#af29ea4620ebafaa4d47ec9f37758af77", null ]
+    [ "npc_suppresserAI", "d5/d4e/a18696.html#a5787ec6eadae1fc23b84129933ea14e8", null ],
+    [ "AttackStart", "d5/d4e/a18696.html#ae36105de1df1dd9841332d9a8e7799be", null ],
+    [ "IsSummonedBy", "d5/d4e/a18696.html#a35ec340b2d02a14707fc353428b1298d", null ],
+    [ "UpdateAI", "d5/d4e/a18696.html#a1443e8311b6e2d61d6f9abd2e5f40793", null ],
+    [ "_instance", "d5/d4e/a18696.html#a3e171216b2d53e00f8e504f47759d9a6", null ]
 ];

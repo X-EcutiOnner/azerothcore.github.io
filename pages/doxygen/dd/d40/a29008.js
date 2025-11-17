@@ -1,12 +1,13 @@
 var a29008 =
 [
-    [ "cellSizeHorizontal", "dd/d40/a29008.html#a5356c03dab90621b69de7a79ed4ab195", null ],
-    [ "cellSizeVertical", "dd/d40/a29008.html#a47b5a920afa39ae27a80241d58f152a3", null ],
-    [ "tileOverrides", "dd/d40/a29008.html#a129437291e75a919e4158bf1df0f7f0a", null ],
-    [ "vertexPerMapEdge", "dd/d40/a29008.html#a9d32da8787f54a7dadb86458319e0238", null ],
-    [ "vertexPerTileEdge", "dd/d40/a29008.html#a8dd6b0146358fcbbb6b7c56a96c467c9", null ],
-    [ "walkableClimb", "dd/d40/a29008.html#a2bd854b374d67d53b03a7bacf0785726", null ],
-    [ "walkableHeight", "dd/d40/a29008.html#a1de27edad5c45f8033ce74352c563f52", null ],
-    [ "walkableRadius", "dd/d40/a29008.html#a232dd51ab056c5e836fe1bb84eeee90e", null ],
-    [ "walkableSlopeAngle", "dd/d40/a29008.html#ad66e0a04ba9087304cf3909bb85b622a", null ]
+    [ "liquidTris", "dd/d40/a29008.html#ad166656bfa449d3093cb23e7bef2cc76", null ],
+    [ "liquidType", "dd/d40/a29008.html#afbbb20fcb4e597c2addcc47893a33f92", null ],
+    [ "liquidVerts", "dd/d40/a29008.html#a52796933ab018f27d12f625673f7f8a9", null ],
+    [ "offMeshConnectionDirs", "dd/d40/a29008.html#a58350c36d5b88fe255880f6c217d4ef9", null ],
+    [ "offMeshConnectionRads", "dd/d40/a29008.html#a56bbdeb5028302de0c5eb5a02cffa44c", null ],
+    [ "offMeshConnections", "dd/d40/a29008.html#a706feac90bb398da61296bac9d0b7176", null ],
+    [ "offMeshConnectionsAreas", "dd/d40/a29008.html#af5af113433bb2776e6735195e57ab6f7", null ],
+    [ "offMeshConnectionsFlags", "dd/d40/a29008.html#a8c819b625f1bb0b21bb756144b2e1266", null ],
+    [ "solidTris", "dd/d40/a29008.html#adb04d376bfa182cf9666689e6c5a7c68", null ],
+    [ "solidVerts", "dd/d40/a29008.html#a915387c2cfa7111de4a957646a2aace4", null ]
 ];

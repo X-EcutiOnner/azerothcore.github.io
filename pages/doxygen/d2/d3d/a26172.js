@@ -1,8 +1,7 @@
 var a26172 =
 [
-    [ "CheckQuest", "d2/d3d/a26172.html#ab7ebff0894832ac009cda89b7c28e252", null ],
-    [ "HandleDummy", "d2/d3d/a26172.html#a365df14504a54e95e7d68d22a284e441", null ],
-    [ "HandleOpenObject", "d2/d3d/a26172.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
-    [ "PrepareSpellScript", "d2/d3d/a26172.html#a479e313031a2e71473238d8f645bf2d4", null ],
-    [ "Register", "d2/d3d/a26172.html#a70f1a91e611cc2092aad44a909cd53db", null ]
+    [ "CalcPeriodic", "d2/d3d/a26172.html#a404e5309016cfcaa3071c0216978699e", null ],
+    [ "PrepareAuraScript", "d2/d3d/a26172.html#a9675e5c417e5e9a5a358a3ffb371073e", null ],
+    [ "Register", "d2/d3d/a26172.html#a60ffc059d00fd58abe7e758f06bbf35c", null ],
+    [ "AuraEffectHandleModes", "d2/d3d/a26172.html#aa66ee788b7e09815b827a0f4ac954e1f", null ]
 ];

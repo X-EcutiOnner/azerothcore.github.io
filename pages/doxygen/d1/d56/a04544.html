@@ -145,7 +145,7 @@ Functions</h2></td></tr>
     <tr><td class="paramname">file</td><td>Path to file </td></tr>
     <tr><td class="paramname">line</td><td>Line number in file </td></tr>
     <tr><td class="paramname">function</td><td>Functionn name </td></tr>
-    <tr><td class="paramname">message</td><td><a class="el" href="../../dc/d2e/a07920.html">Condition</a> to string format </td></tr>
+    <tr><td class="paramname">message</td><td><a class="el" href="../../dc/d7c/a07916.html">Condition</a> to string format </td></tr>
     <tr><td class="paramname">fmtMessage</td><td>[optional] Display format message after condition </td></tr>
     <tr><td class="paramname">debugInfo</td><td>[optional] Display debug info </td></tr>
   </table>
@@ -171,7 +171,7 @@ Functions</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p >This file contains definitions of functions used for reporting critical application errors. </p>
-<p >It is very important that (std::)abort is NEVER called in place of *((volatile int*)nullptr) = 0; Calling abort() on Windows does not invoke unhandled exception filters - a mechanism used by <a class="el" href="../../da/d44/a05256.html">WheatyExceptionReport</a> to log crashes. exit(1) calls here are for static analysis tools to indicate that calling functions defined in this file terminates the application. </p>
+<p >It is very important that (std::)abort is NEVER called in place of *((volatile int*)nullptr) = 0; Calling abort() on Windows does not invoke unhandled exception filters - a mechanism used by <a class="el" href="../../d9/df0/a05252.html">WheatyExceptionReport</a> to log crashes. exit(1) calls here are for static analysis tools to indicate that calling functions defined in this file terminates the application. </p>
 
 <p class="definition">Definition in file <a class="el" href="../../">Errors.cpp</a>.</p>
 </div><h2 class="groupheader">Macro Definition Documentation</h2>
@@ -223,7 +223,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_1070012e9e40376f8468ff0aa5b77c71.html">common</a></li><li class="navelem"><a class="el" href="../../dir_6c98940a6e08261f1f635365628c2cb0.html">Debugging</a></li><li class="navelem"><a class="el" href="../../d1/d56/a04544.html">Errors.cpp</a></li>
-    <li class="footer">Generated on Mon Nov 10 2025 20:52:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Nov 17 2025 20:44:33 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,7 +1,6 @@
 var a16300 =
 [
-    [ "HandlePeriodic", "d1/dd4/a16300.html#ab49a636eaddea5c91f86f21a1d4d182e", null ],
-    [ "PrepareAuraScript", "d1/dd4/a16300.html#a3a9a26b3e0964e08d67a89cd950b5a97", null ],
-    [ "Register", "d1/dd4/a16300.html#aed8d41a9bf289b21caa9e93e66b004d2", null ],
-    [ "Validate", "d1/dd4/a16300.html#a3a428e0e4f63770a35cdf6a6ac85e403", null ]
+    [ "HandleForceCast", "d1/dd4/a16300.html#a975b69649aba9de341f4e52c82a3c111", null ],
+    [ "PrepareSpellScript", "d1/dd4/a16300.html#a2dde8402cc4e8552faf3d8a1f4c6e60e", null ],
+    [ "Register", "d1/dd4/a16300.html#a794a59e5fd3bda75f30d559f422895b5", null ]
 ];

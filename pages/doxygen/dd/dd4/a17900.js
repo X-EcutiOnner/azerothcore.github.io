@@ -1,7 +1,5 @@
 var a17900 =
 [
-    [ "DamageGunship", "dd/dd4/a17900.html#a1dc0145cfff777b18b9241dfc0966f32", null ],
-    [ "PrepareSpellScript", "dd/dd4/a17900.html#aa698d016ae58d665c081976f20ec0385", null ],
-    [ "Register", "dd/dd4/a17900.html#ab8836babdea1fd963fdd53415db0a3ba", null ],
-    [ "Validate", "dd/dd4/a17900.html#ae80cd93b2f01ddb83493f9f818fc0ea1", null ]
+    [ "achievement_im_on_a_boat", "dd/dd4/a17900.html#aa25d330534aab023ec798e86976a6d50", null ],
+    [ "OnCheck", "dd/dd4/a17900.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
 ];

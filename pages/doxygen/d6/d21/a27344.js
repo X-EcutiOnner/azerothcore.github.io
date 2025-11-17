@@ -1,9 +1,7 @@
 var a27344 =
 [
-    [ "emerald_dragonAI", "d6/d21/a27344.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
-    [ "ExecuteEvent", "d6/d21/a27344.html#a6e60f146c7b86a119f269bf755831ac6", null ],
-    [ "JustSummoned", "d6/d21/a27344.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
-    [ "KilledUnit", "d6/d21/a27344.html#a69b24bf865ecd38822d5602314cddf11", null ],
-    [ "Reset", "d6/d21/a27344.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
-    [ "UpdateAI", "d6/d21/a27344.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
+    [ "npc_spirit_shadeAI", "d6/d21/a27344.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "d6/d21/a27344.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "d6/d21/a27344.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "d6/d21/a27344.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

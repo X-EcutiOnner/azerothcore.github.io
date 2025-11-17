@@ -1,13 +1,14 @@
 var a09800 =
 [
-    [ "ServerMail", "d1/d2a/a09800.html#a50cf3e6929e397a3c1de83b9fcf83416", null ],
-    [ "active", "d1/d2a/a09800.html#a24a12fcafd0b0f4a7c0558737d8fd71f", null ],
-    [ "body", "d1/d2a/a09800.html#a58d352611dcb35126f6ec93622ddc4b9", null ],
-    [ "conditions", "d1/d2a/a09800.html#a818b993f72f82a022277e1c8d9160011", null ],
-    [ "id", "d1/d2a/a09800.html#a6b47994eff9201a6a75f8c621b64716c", null ],
-    [ "itemsA", "d1/d2a/a09800.html#a0992466672427c1d24c686bd8fa39378", null ],
-    [ "itemsH", "d1/d2a/a09800.html#ad120200ba47bf8ea8511a46d56f0daec", null ],
-    [ "moneyA", "d1/d2a/a09800.html#a6a84ca583beef891422f67bef7919c47", null ],
-    [ "moneyH", "d1/d2a/a09800.html#a0e899ce54283bc000cc6afb96e6a3244", null ],
-    [ "subject", "d1/d2a/a09800.html#a246e499c69c57a436aac4c039ea37d31", null ]
+    [ "ServerMailMgr", "d1/d2a/a09800.html#aeec2235e9dd9b36b868634d850f02a5b", null ],
+    [ "~ServerMailMgr", "d1/d2a/a09800.html#adba54af38e90ecae21e79835910ba195", null ],
+    [ "ConditionTypeUsesConditionState", "d1/d2a/a09800.html#a2e7a8cdc7ebdb51204823fd30a0449b3", null ],
+    [ "GetAllServerMailStore", "d1/d2a/a09800.html#acb4521f696c6f11c977dc9d8b76e0c16", null ],
+    [ "GetServerMailConditionType", "d1/d2a/a09800.html#a57f8aea4b5bb15ff77b9ebd8e65e8092", null ],
+    [ "instance", "d1/d2a/a09800.html#abc85cb07f717384fac09f4e2b0f59af1", null ],
+    [ "LoadMailServerTemplates", "d1/d2a/a09800.html#a1a01dd7a8e5c45bc7c97203e4a04a768", null ],
+    [ "LoadMailServerTemplatesConditions", "d1/d2a/a09800.html#a6bb75bdb34a25dd01fdc7e81b4e9b897", null ],
+    [ "LoadMailServerTemplatesItems", "d1/d2a/a09800.html#a49aea924f27804d21fbe06e72e159df3", null ],
+    [ "SendServerMail", "d1/d2a/a09800.html#af615430a40e9ddfff49bc338b31d6c1b", null ],
+    [ "_serverMailStore", "d1/d2a/a09800.html#a96ae3a78694ca97d112c5d92884f2415", null ]
 ];

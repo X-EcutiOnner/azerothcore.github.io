@@ -1,29 +1,6 @@
 var a14904 =
 [
-    [ "instance_mount_hyjal_InstanceMapScript", "da/d9c/a14904.html#ab824542973eede5a3a3f7dc995e8cc28", null ],
-    [ "GetData", "da/d9c/a14904.html#ae30c50dfcced56db0c3f42c4deb2bef9", null ],
-    [ "Initialize", "da/d9c/a14904.html#ac3fffb02ed557b60e22852bdd79cdc9a", null ],
-    [ "OnCreatureCreate", "da/d9c/a14904.html#a28b8c1e3332dd9ccce42fd3fcb262e2f", null ],
-    [ "OnGameObjectCreate", "da/d9c/a14904.html#a2048cde72727c5d6b493d67b56ed91f8", null ],
-    [ "OnPlayerInWaterStateUpdate", "da/d9c/a14904.html#ac07e909721d1416608ea01e8819e3b00", null ],
-    [ "OnUnitDeath", "da/d9c/a14904.html#a1626532eb4df7ae481032fb9991c5d8f", null ],
-    [ "ResetWaves", "da/d9c/a14904.html#a183567e69317fe373bf1b17a2a767063", null ],
-    [ "ScheduleWaves", "da/d9c/a14904.html#afdcceea6e0459b9c5c1e4098227d20dd", null ],
-    [ "SetData", "da/d9c/a14904.html#a87fd932691795e2d3fb9c8e6de12a20f", null ],
-    [ "Update", "da/d9c/a14904.html#a4f3824bd9afad19cbffa05c62fdf517b", null ],
-    [ "_ancientGemAlliance", "da/d9c/a14904.html#a1dc1a47ecf057b4d08e9827c5a859213", null ],
-    [ "_ancientGemHorde", "da/d9c/a14904.html#a3cd0132363583f8ab24f37e74743abd8", null ],
-    [ "_baseAlliance", "da/d9c/a14904.html#add9c97be76cdb85bb0cfd24bdf5c99e9", null ],
-    [ "_baseHorde", "da/d9c/a14904.html#a74d576ec11f4b6027b42ed503e54d3e3", null ],
-    [ "_baseNightElf", "da/d9c/a14904.html#a4f6a23e1e4c3c406a169908dddc64c00", null ],
-    [ "_bossWave", "da/d9c/a14904.html#a57e6038adc5c5bfcf30c79559de8dd1e", null ],
-    [ "_currentWave", "da/d9c/a14904.html#a419ef8bcf249e7aac9c8ea11611fb0c1", null ],
-    [ "_encounterNPCs", "da/d9c/a14904.html#ae8cdcced3902234317dc419bd04126e0", null ],
-    [ "_infernalTargets", "da/d9c/a14904.html#a6d48f27c687dc23bb2e60cae55fd33f4", null ],
-    [ "_initialWaves", "da/d9c/a14904.html#a62fcbef0038fe9a7138acf202d6e7378", null ],
-    [ "_retreat", "da/d9c/a14904.html#ad9242c9a8e4ea51243b8e526eb82a51b", null ],
-    [ "_roaringFlameAlliance", "da/d9c/a14904.html#a9c5f35107d7e4311e7d8f65a6eccfb7a", null ],
-    [ "_roaringFlameHorde", "da/d9c/a14904.html#ac4a2ec6b3fb06cfd9b11486e62e076a3", null ],
-    [ "_summonedNPCs", "da/d9c/a14904.html#a9bea0d89252e7b6154b2acd67960818a", null ],
-    [ "_trash", "da/d9c/a14904.html#af7ce9eec953c1986b618b8e3be02ec1a", null ]
+    [ "boss_epochAI", "da/d72/a14908.html", "da/d72/a14908" ],
+    [ "boss_epoch", "da/d9c/a14904.html#a78b7d775bc3fc44496e41c58f2ed534d", null ],
+    [ "GetAI", "da/d9c/a14904.html#a2673a4fb8c70d62009dfdc6daf23aee2", null ]
 ];

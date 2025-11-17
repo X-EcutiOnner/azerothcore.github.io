@@ -1,5 +1,5 @@
 var a27252 =
 [
-    [ "achievement_bg_ic_mowed_down", "d2/d9e/a27252.html#ab05387d1e14958e87123bd0fc2188445", null ],
-    [ "OnCheck", "d2/d9e/a27252.html#a385e09c605084900f374090e5e19c24f", null ]
+    [ "achievement_not_even_a_scratch", "d2/d9e/a27252.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
+    [ "OnCheck", "d2/d9e/a27252.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
 ];

@@ -1,7 +1,5 @@
 var a11620 =
 [
-    [ "PlayerGuid", "d0/d71/a11620.html#a629a600c48376d04293c225390f747ff", null ],
-    [ "PrimaryKey", "d0/d71/a11620.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
-    [ "StoredType", "d0/d71/a11620.html#a9bea7cf549813010b55c23417d65edc6", null ],
-    [ "TableName", "d0/d71/a11620.html#a0f308af88812c110c490c94368bda482", null ]
+    [ "Name", "d0/d71/a11620.html#ac16bf9d80201e270ffb1571fb2e9fb02", null ],
+    [ "Type", "d0/d71/a11620.html#aeacac864bd23dcb7b24efc484810f592", null ]
 ];

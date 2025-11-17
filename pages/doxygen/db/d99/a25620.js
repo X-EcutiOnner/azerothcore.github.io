@@ -1,8 +1,9 @@
 var a25620 =
 [
-    [ "CheckProc", "db/d99/a25620.html#a2b0ff2594877249d0bdb4656fa67b83f", null ],
-    [ "HandleProc", "db/d99/a25620.html#ac1aebc16e7944ac3f8305d9ff27bc998", null ],
-    [ "PrepareAuraScript", "db/d99/a25620.html#a19557020af9ca276f72c1d3e4ba8b27b", null ],
-    [ "Register", "db/d99/a25620.html#a43f7bb634cb165fab5e2187256f50c3f", null ],
-    [ "Validate", "db/d99/a25620.html#a7762ce25775b98dba14b4ac465cad711", null ]
+    [ "CheckIfCorpseNear", "db/d99/a25620.html#a9b512f84f1d728e24845b6aaa28bdd6b", null ],
+    [ "HandleDummy", "db/d99/a25620.html#a913c0137d2a13c810bbae869cc6cf734", null ],
+    [ "Load", "db/d99/a25620.html#a3f36968d10bde12c7e2eda8db4145252", null ],
+    [ "PrepareSpellScript", "db/d99/a25620.html#acc7d6f489c34c3cc26f37bc94f8727e8", null ],
+    [ "Register", "db/d99/a25620.html#a736c4fe39e947ad98df19b3b001bdc29", null ],
+    [ "Validate", "db/d99/a25620.html#a51b075f95211025b2a7719a3ee70a6be", null ]
 ];

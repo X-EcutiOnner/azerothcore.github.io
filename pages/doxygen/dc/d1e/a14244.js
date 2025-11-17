@@ -1,5 +1,6 @@
 var a14244 =
 [
-    [ "npc_brain_wash_totem", "dc/d1e/a14244.html#acdecde614ba82d60ee4a10ace8545fdf", null ],
-    [ "EnterEvadeMode", "dc/d1e/a14244.html#abd32e3210cc384c0c365826ca1fbae1e", null ]
+    [ "boss_mandokirAI", "dc/d33/a14248.html", "dc/d33/a14248" ],
+    [ "boss_mandokir", "dc/d1e/a14244.html#aad13c8302cef7fb4981f0d2178630def", null ],
+    [ "GetAI", "dc/d1e/a14244.html#a215842d5ab23824ec20db64e2fa4407e", null ]
 ];

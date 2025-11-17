@@ -1,10 +1,6 @@
 var a26560 =
 [
-    [ "GetTarget", "d1/d31/a26560.html#a1bfcb90731a93e4897c9d4fbf46d2a01", null ],
-    [ "HandleEffectPeriodicPlatform", "d1/d31/a26560.html#ac499c8adcd74206ad60a7fc24d32cc3c", null ],
-    [ "HandleEffectPeriodicSelf", "d1/d31/a26560.html#a2272a970ca5edca6f7353beb2279c29c", null ],
-    [ "PerformKick", "d1/d31/a26560.html#aa192aa92cc5c55f8bf2306c4463a3efc", null ],
-    [ "PrepareAuraScript", "d1/d31/a26560.html#a489f1da8f8008db8f096470f28455ef9", null ],
-    [ "Register", "d1/d31/a26560.html#a164c94c63cf03b98ee085b18a0a8af9a", null ],
-    [ "AuraEffectHandleModes", "d1/d31/a26560.html#a91d53900d8c6d0dd2a7519a4836aa05b", null ]
+    [ "HandleScriptEffect", "d1/d31/a26560.html#a703b5a1725e05bfbfccc3b6ee5107d95", null ],
+    [ "PrepareSpellScript", "d1/d31/a26560.html#ab2bb14aac4758dac46aae636ba09e50d", null ],
+    [ "Register", "d1/d31/a26560.html#ae2fca7fde9af90dd7d461c2d046d9783", null ]
 ];

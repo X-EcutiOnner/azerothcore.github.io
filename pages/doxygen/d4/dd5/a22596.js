@@ -1,6 +1,6 @@
 var a22596 =
 [
-    [ "PrepareSpellScript", "d4/dd5/a22596.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
-    [ "RecalculateDamage", "d4/dd5/a22596.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
-    [ "Register", "d4/dd5/a22596.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
+    [ "npc_drakuru_shacklesAI", "d7/d40/a22600.html", "d7/d40/a22600" ],
+    [ "npc_drakuru_shackles", "d4/dd5/a22596.html#a2b15a214b34d86597cba09b17654e4ff", null ],
+    [ "GetAI", "d4/dd5/a22596.html#a90ce98de4630771858cd3b79264a28f9", null ]
 ];

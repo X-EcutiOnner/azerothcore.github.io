@@ -1,9 +1,12 @@
 var a28976 =
 [
-    [ "adtData", "dc/d0c/a28984.html", "dc/d0c/a28984" ],
-    [ "prepareLoadedData", "de/d59/a28976.html#a6b755c9e341918d05105d993391429c6", null ],
-    [ "adt_list", "de/d59/a28976.html#abe28c39e8856412c4fb182baab3218f0", null ],
-    [ "fcc", "de/d59/a28976.html#ac8ee92a1747e31385cbfadaea16c267f", null ],
-    [ "fcc_txt", "de/d59/a28976.html#a0657c323732de8d83b9c360c1dd03b61", null ],
-    [ "size", "de/d59/a28976.html#a797c02773dd470a318474c7ef033ba7c", null ]
+    [ "cellSizeHorizontal", "de/d59/a28976.html#a5356c03dab90621b69de7a79ed4ab195", null ],
+    [ "cellSizeVertical", "de/d59/a28976.html#a47b5a920afa39ae27a80241d58f152a3", null ],
+    [ "tileOverrides", "de/d59/a28976.html#a129437291e75a919e4158bf1df0f7f0a", null ],
+    [ "vertexPerMapEdge", "de/d59/a28976.html#a9d32da8787f54a7dadb86458319e0238", null ],
+    [ "vertexPerTileEdge", "de/d59/a28976.html#a8dd6b0146358fcbbb6b7c56a96c467c9", null ],
+    [ "walkableClimb", "de/d59/a28976.html#a2bd854b374d67d53b03a7bacf0785726", null ],
+    [ "walkableHeight", "de/d59/a28976.html#a1de27edad5c45f8033ce74352c563f52", null ],
+    [ "walkableRadius", "de/d59/a28976.html#a232dd51ab056c5e836fe1bb84eeee90e", null ],
+    [ "walkableSlopeAngle", "de/d59/a28976.html#ad66e0a04ba9087304cf3909bb85b622a", null ]
 ];

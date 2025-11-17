@@ -1,10 +1,7 @@
 var a23128 =
 [
-    [ "CalculateAmount", "dc/d19/a23128.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
-    [ "CheckProc", "dc/d19/a23128.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
-    [ "HandleProc", "dc/d19/a23128.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
-    [ "PrepareAuraScript", "dc/d19/a23128.html#a6e066884663276dbba82e46ca5f66e59", null ],
-    [ "Register", "dc/d19/a23128.html#ac4154f0746e77229e8d349021d5b9c30", null ],
-    [ "Update", "dc/d19/a23128.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
-    [ "Validate", "dc/d19/a23128.html#a4f10d23f63c47b408b70373623b877a8", null ]
+    [ "HandleEffectApply", "dc/d19/a23128.html#a5857dbdb088de67cc15717dca0c5f7b5", null ],
+    [ "HandleEffectRemove", "dc/d19/a23128.html#aab0536f7f73d9e354a526f56f587fff0", null ],
+    [ "PrepareAuraScript", "dc/d19/a23128.html#a80a6b51bc6c1457edc0fb8a0089513d1", null ],
+    [ "Register", "dc/d19/a23128.html#a194ff31e6168bca23881f3804154d479", null ]
 ];

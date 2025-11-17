@@ -1,12 +1,14 @@
 var a23372 =
 [
-    [ "boss_leotheras_the_blind", "d3/de9/a23372.html#a9229850f996812366a20508931965a87", null ],
-    [ "AttackStart", "d3/de9/a23372.html#a678ed3eba7d53976fd6efa9051d11124", null ],
-    [ "DemonTime", "d3/de9/a23372.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
-    [ "DoAction", "d3/de9/a23372.html#a4f3fd791f12b3f176ce109237c516889", null ],
-    [ "ElfTime", "d3/de9/a23372.html#a52f101530de8883231faa7f5fe689691", null ],
-    [ "MoveToTargetIfOutOfRange", "d3/de9/a23372.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
-    [ "Reset", "d3/de9/a23372.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
-    [ "UpdateAI", "d3/de9/a23372.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
-    [ "_recentlySpoken", "d3/de9/a23372.html#ad5231f13a247247dd7095b16c381fc7c", null ]
+    [ "boss_the_lurker_below", "d3/de9/a23372.html#ac76c71b6a47e1a936256d9c5901c27ab", null ],
+    [ "AttackStart", "d3/de9/a23372.html#af0f6fbe31dbcd6df4e8f1b57730e093b", null ],
+    [ "DamageTaken", "d3/de9/a23372.html#ae7c05744013753b29072ec1b5d9f2570", null ],
+    [ "DoAction", "d3/de9/a23372.html#a30e07055aa632066a75ad48f3e8109e2", null ],
+    [ "EnterEvadeMode", "d3/de9/a23372.html#a522164e819db5062225f7d5704cdaa36", null ],
+    [ "JustEngagedWith", "d3/de9/a23372.html#aa31e26b77e0c2403a338f781bf14c94b", null ],
+    [ "Reset", "d3/de9/a23372.html#ae592707182d64689e6578813b3617ee3", null ],
+    [ "SchedulerPhaseOne", "d3/de9/a23372.html#a42dd2ed36209e7be61788d054e2754b5", null ],
+    [ "SchedulerPhaseTwo", "d3/de9/a23372.html#aa910c20d3ee26d6d2e71818008eb3b5c", null ],
+    [ "SummonedCreatureDies", "d3/de9/a23372.html#a5ec68a1bc5b22e03fe485448257ad7df", null ],
+    [ "UpdateAI", "d3/de9/a23372.html#a92d854cb21b272bd09674c724b1aa862", null ]
 ];

@@ -1,6 +1,10 @@
 var a17096 =
 [
-    [ "boss_frostsworn_generalAI", "d4/d5f/a17100.html", "d4/d5f/a17100" ],
-    [ "boss_frostsworn_general", "df/dd5/a17096.html#a33023712cf056eedfed1cb38e18af5dd", null ],
-    [ "GetAI", "df/dd5/a17096.html#a8e958e13999f23a81a7230fa9ece276b", null ]
+    [ "npc_hor_spiritual_reflectionAI", "df/dd5/a17096.html#aac0a916bfa325284b354e7241fe857ab", null ],
+    [ "EnterEvadeMode", "df/dd5/a17096.html#a49f1c93206bfff53090c138a3dbf79e5", null ],
+    [ "JustDied", "df/dd5/a17096.html#a72073c44f881d4a78552de4119a716d7", null ],
+    [ "JustEngagedWith", "df/dd5/a17096.html#ac35e648b93bb39ca831390bf88f6a3e7", null ],
+    [ "Reset", "df/dd5/a17096.html#ad1f523fad45c34077e6d6ce7b9a4aefd", null ],
+    [ "UpdateAI", "df/dd5/a17096.html#af9613e9309b85317bc6e3a84013dcf89", null ],
+    [ "events", "df/dd5/a17096.html#a89a466917aa5634c4c86ecbce21280b7", null ]
 ];

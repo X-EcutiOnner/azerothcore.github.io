@@ -1,5 +1,5 @@
 var a05320 =
 [
-    [ "Decode", "dc/d0e/a05320.html#a16eb5c0306f404a3be454430abd01610", null ],
-    [ "Encode", "dc/d0e/a05320.html#a5c439d87d1532c68023e2d612d874e5f", null ]
+    [ "_elements", "dc/d0e/a05320.html#adca71d306b9b5ee6b1dc0dc75cec1f2c", null ],
+    [ "_TailElements", "dc/d0e/a05320.html#a7d3b640a8d68089436c3792b3db088f1", null ]
 ];

@@ -1,5 +1,7 @@
 var a24012 =
 [
-    [ "npc_lord_sanguinar", "d0/db5/a24012.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
-    [ "ScheduleEvents", "d0/db5/a24012.html#af9231da98547875527a519c5884cbec0", null ]
+    [ "Load", "d0/db5/a24012.html#aba7e1a0b87607386649bb842b5058c3e", null ],
+    [ "OnRemove", "d0/db5/a24012.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
+    [ "PrepareAuraScript", "d0/db5/a24012.html#ac62b18eedbadb0b3581d772909175e96", null ],
+    [ "Register", "d0/db5/a24012.html#a17e8be131f01b2434b18740b20a08d6e", null ]
 ];

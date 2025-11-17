@@ -1,6 +1,6 @@
 var a25024 =
 [
-    [ "CheckProc", "d4/d75/a25024.html#a68d2d8168e405ea4250e2e43a1a350fa", null ],
-    [ "PrepareAuraScript", "d4/d75/a25024.html#a9d797e7bc7133f4a626f4352b2fe7141", null ],
-    [ "Register", "d4/d75/a25024.html#a5b96bb8c2ff456b63bbd200f54294251", null ]
+    [ "CheckAreaTarget", "d4/d75/a25024.html#a545323b9964ee4cb3c8d054fac4e2d55", null ],
+    [ "PrepareAuraScript", "d4/d75/a25024.html#a2b6dbd33e34357917f662000a1cd932f", null ],
+    [ "Register", "d4/d75/a25024.html#a7b4a2301b3a608ea5b2dd2504e02741d", null ]
 ];

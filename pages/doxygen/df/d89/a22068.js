@@ -1,8 +1,8 @@
 var a22068 =
 [
-    [ "AfterApply", "df/d89/a22068.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
-    [ "PeriodicTick", "df/d89/a22068.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
-    [ "PrepareAuraScript", "df/d89/a22068.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
-    [ "Register", "df/d89/a22068.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
-    [ "Validate", "df/d89/a22068.html#a946248656cb755f85dd93fd4d607c9a7", null ]
+    [ "OnRemove", "df/d89/a22068.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
+    [ "PrepareAuraScript", "df/d89/a22068.html#a183b5a3b1332695e3c047bb63435389a", null ],
+    [ "Register", "df/d89/a22068.html#aad41ab76cc0a882f272e8f79867a7015", null ],
+    [ "Validate", "df/d89/a22068.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
+    [ "spellIds", "df/d89/a22068.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
 ];

@@ -1,6 +1,6 @@
 var a25080 =
 [
-    [ "CheckProc", "df/d56/a25080.html#ad1678a96784add01965d67c3d86bcd77", null ],
-    [ "PrepareAuraScript", "df/d56/a25080.html#a6e164a8e3482b566b776c5ffeeb1b6ac", null ],
-    [ "Register", "df/d56/a25080.html#a148f3fe7ee4bdc8e148fe71100779e56", null ]
+    [ "HandleScriptEffect", "df/d56/a25080.html#a142d6a512ba6e937985a9c21725d8d33", null ],
+    [ "PrepareSpellScript", "df/d56/a25080.html#af46fd8adaf8fef92984376ad6aa4f9a2", null ],
+    [ "Register", "df/d56/a25080.html#a9cbf1c0678bd0775a452aa3270dff6a0", null ]
 ];

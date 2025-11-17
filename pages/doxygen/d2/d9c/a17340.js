@@ -1,6 +1,6 @@
 var a17340 =
 [
-    [ "entry", "d2/d9c/a17340.html#af2cf5df64adf9ac1575a8217b103e738", null ],
-    [ "x", "d2/d9c/a17340.html#aad21475d521921ea30cc0ae5d260ce69", null ],
-    [ "y", "d2/d9c/a17340.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
+    [ "boss_drakkari_elementalAI", "d1/dc5/a17344.html", "d1/dc5/a17344" ],
+    [ "boss_drakkari_elemental", "d2/d9c/a17340.html#a143dd5d52ea7bb3c3c1d96da45af81ee", null ],
+    [ "GetAI", "d2/d9c/a17340.html#aab2f9c71ddb77164bd644d18b9e88313", null ]
 ];

@@ -1,6 +1,6 @@
 var a14836 =
 [
-    [ "FilterTargets", "d9/d56/a14836.html#ab4e32c78307df1d0ea7e0a71ace11734", null ],
-    [ "PrepareSpellScript", "d9/d56/a14836.html#a54fb8b4b7abd1c92d7d98f3b911a7cec", null ],
-    [ "Register", "d9/d56/a14836.html#a164b8b946dc801db878603488c978adb", null ]
+    [ "OnRemove", "d9/d56/a14836.html#af9da33426d8ea4462f7d9957c4312019", null ],
+    [ "PrepareAuraScript", "d9/d56/a14836.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
+    [ "Register", "d9/d56/a14836.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
 ];

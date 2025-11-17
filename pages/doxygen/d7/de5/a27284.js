@@ -1,5 +1,5 @@
 var a27284 =
 [
-    [ "achievement_not_even_a_scratch", "d7/de5/a27284.html#a0d025c09d35c3640016ab42e11dd96eb", null ],
-    [ "OnCheck", "d7/de5/a27284.html#a81f6c9bd36e5a3eea3fe0af24c9f1649", null ]
+    [ "AreaTrigger_at_stormwright_shelf", "d7/de5/a27284.html#a97cdf51a8992b3d9edc138351770fd75", null ],
+    [ "OnTrigger", "d7/de5/a27284.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
 ];

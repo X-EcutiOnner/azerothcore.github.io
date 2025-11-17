@@ -1,6 +1,6 @@
 var a24992 =
 [
-    [ "HandleScript", "df/ddb/a24992.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
-    [ "PrepareSpellScript", "df/ddb/a24992.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
-    [ "Register", "df/ddb/a24992.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
+    [ "CheckProc", "df/ddb/a24992.html#a68d2d8168e405ea4250e2e43a1a350fa", null ],
+    [ "PrepareAuraScript", "df/ddb/a24992.html#a9d797e7bc7133f4a626f4352b2fe7141", null ],
+    [ "Register", "df/ddb/a24992.html#a5b96bb8c2ff456b63bbd200f54294251", null ]
 ];

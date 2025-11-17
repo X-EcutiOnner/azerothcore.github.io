@@ -1,12 +1,12 @@
 var a11996 =
 [
-    [ "npc_av_marshal_or_warmasterAI", "d7/d7c/a11996.html#af3620678992778edbb859622e057893a", null ],
-    [ "AttackStart", "d7/d7c/a11996.html#aed39eaed8648ce78349c49ee33918b93", null ],
-    [ "EnterEvadeMode", "d7/d7c/a11996.html#a4ac6045b3f3dfd6e3f9e0ea757f4d2c6", null ],
-    [ "JustRespawned", "d7/d7c/a11996.html#a460c6912063587214ba0f2e01878d827", null ],
-    [ "Reset", "d7/d7c/a11996.html#a56d99bcf5038c372399f16a07a2e5d31", null ],
-    [ "UpdateAI", "d7/d7c/a11996.html#a7bf1631810c8446bc157f8ff220199b7", null ],
-    [ "_attacked", "d7/d7c/a11996.html#a56d7211a3565c19b499f7de2eda6c862", null ],
-    [ "_hasAura", "d7/d7c/a11996.html#a1c0049100cde1c62daf80779d1135156", null ],
-    [ "events", "d7/d7c/a11996.html#a49b8e01897cd5347bbd06cac254163f4", null ]
+    [ "boss_balinda", "d7/d7c/a11996.html#a2f3ce696dbc66843cddc13196800866b", null ],
+    [ "DamageTaken", "d7/d7c/a11996.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
+    [ "JustDied", "d7/d7c/a11996.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
+    [ "JustEngagedWith", "d7/d7c/a11996.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
+    [ "JustSummoned", "d7/d7c/a11996.html#a3c2306326d2f85fbb6766352117a1f91", null ],
+    [ "Reset", "d7/d7c/a11996.html#a1ecfa5d743682997076a47cce44b19f5", null ],
+    [ "UpdateAI", "d7/d7c/a11996.html#af3506dd75baef12fd0328aed21636978", null ],
+    [ "_hasCastIceBlock", "d7/d7c/a11996.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
+    [ "summons", "d7/d7c/a11996.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
 ];

@@ -1,11 +1,8 @@
 var a24724 =
 [
-    [ "CalcPeriodic", "dc/ddb/a24724.html#a330ab5ee4c9b16928b3fae701c80acd4", null ],
-    [ "CalculateHasteAmount", "dc/ddb/a24724.html#a75d428e0b3619d53bd9436712d2e394e", null ],
-    [ "CalculateSPAmount", "dc/ddb/a24724.html#a81805b43a47065281f83889d8be95c54", null ],
-    [ "CalculateStatAmount", "dc/ddb/a24724.html#a763276aaa00bb6953e0b52118662e7a8", null ],
-    [ "HandleEffectApply", "dc/ddb/a24724.html#ad5595d4a32336568ac143e1ee1823ab3", null ],
-    [ "HandlePeriodic", "dc/ddb/a24724.html#ab3c7d479eae88ab4a59b06610af19429", null ],
-    [ "PrepareAuraScript", "dc/ddb/a24724.html#a8dc2c51f3cccb640286fb081a34d90d2", null ],
-    [ "Register", "dc/ddb/a24724.html#a6b3e219b03f89bf20f0d394c14cfe8cd", null ]
+    [ "CheckCast", "dc/ddb/a24724.html#a94851a2b6a62138e28466317e9e88480", null ],
+    [ "HandleDummy", "dc/ddb/a24724.html#a970684d219c99519512c437a8efd8d43", null ],
+    [ "PrepareSpellScript", "dc/ddb/a24724.html#a39b726e6c5809a6f8100970e8b71fc71", null ],
+    [ "Register", "dc/ddb/a24724.html#a7acf718f0a1109d384fd2b9dd23ca62c", null ],
+    [ "Validate", "dc/ddb/a24724.html#a59cca008a97447e257bf24071301b366", null ]
 ];

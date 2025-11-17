@@ -1,8 +1,10 @@
 var a22980 =
 [
-    [ "Load", "d7/d88/a22980.html#a038301fbb547469574efff88455be663", null ],
-    [ "OnPeriodic", "d7/d88/a22980.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
-    [ "PrepareAuraScript", "d7/d88/a22980.html#a386df1300e6a99b02efd13ef4968e99a", null ],
-    [ "Register", "d7/d88/a22980.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
-    [ "Validate", "d7/d88/a22980.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
+    [ "boss_gathios_the_shatterer", "d7/d88/a22980.html#a34708f52c610e567c5acf62962e90d4e", null ],
+    [ "JustEngagedWith", "d7/d88/a22980.html#a98ad625cf2ac9b1d8d9b41001ba4fb34", null ],
+    [ "SelectCouncilMember", "d7/d88/a22980.html#a3d33c1a29b7ba2feb22ea9d3941b39ed", null ],
+    [ "UpdateAI", "d7/d88/a22980.html#a1541f1efd3978a4c91b80e411aec6442", null ],
+    [ "_toggleAura", "d7/d88/a22980.html#aa983e2d9018a9e53ee29840781f47c33", null ],
+    [ "_toggleBlessing", "d7/d88/a22980.html#a52e9b7d3b1af46d3ecb6ca9432ee3957", null ],
+    [ "_toggleSeal", "d7/d88/a22980.html#ad7e6f9e03968e2abac570d0c7a5de9e2", null ]
 ];

@@ -1,6 +1,6 @@
 var a21580 =
 [
-    [ "npc_vh_teleportation_portalAI", "df/db2/a21584.html", "df/db2/a21584" ],
-    [ "npc_vh_teleportation_portal", "d2/da2/a21580.html#a9a554058f594f992a17dbb3887117a6f", null ],
-    [ "GetAI", "d2/da2/a21580.html#a0721c64c01ae69bd78dfc15637c97f49", null ]
+    [ "npc_azure_invaderAI", "df/db2/a21584.html", "df/db2/a21584" ],
+    [ "npc_azure_invader", "d2/da2/a21580.html#ab318178a618f2bfdcd5ea3105c240d32", null ],
+    [ "GetAI", "d2/da2/a21580.html#a19c000084ea74a401ece81ee0e20b65c", null ]
 ];

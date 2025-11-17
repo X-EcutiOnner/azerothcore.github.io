@@ -1,6 +1,5 @@
 var a25536 =
 [
-    [ "OnProc", "d2/d7a/a25536.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
-    [ "PrepareAuraScript", "d2/d7a/a25536.html#a6a7b011f151ff81672221b84eb4456b8", null ],
-    [ "Register", "d2/d7a/a25536.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
+    [ "PrepareSpellScript", "d2/d7a/a25536.html#a939db3d626f3451edd605ced6d9b2ebe", null ],
+    [ "Register", "d2/d7a/a25536.html#a5b356ca08e33c8eb127bec763f105792", null ]
 ];

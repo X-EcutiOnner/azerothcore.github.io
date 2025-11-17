@@ -1,6 +1,6 @@
 var a20012 =
 [
-    [ "FilterTargets", "de/d2f/a20012.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
-    [ "PrepareSpellScript", "de/d2f/a20012.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
-    [ "Register", "de/d2f/a20012.html#a4e803984a3eded2736825f631786c204", null ]
+    [ "boss_flame_leviathanAI", "d2/db4/a20016.html", "d2/db4/a20016" ],
+    [ "boss_flame_leviathan", "de/d2f/a20012.html#af4fcd38fc7095701c6c31674d849aef4", null ],
+    [ "GetAI", "de/d2f/a20012.html#a3a402b002472bfe4347b512f21654c50", null ]
 ];

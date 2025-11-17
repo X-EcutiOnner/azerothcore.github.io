@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: VMAP::MapRayCallback Class Reference</title>
+<title>AzerothCore: VMAP::LocationInfoCallback Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,34 +106,32 @@ $(document).ready(function(){initNavTree('de/dff/a05032.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../dd/dbe/a05029.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">VMAP::MapRayCallback Class Reference</div></div>
+  <div class="headertitle"><div class="title">VMAP::LocationInfoCallback Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a1a4a654bc929dab5b5a2804c4b88389d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dff/a05032.html#a1a4a654bc929dab5b5a2804c4b88389d">MapRayCallback</a> (<a class="el" href="../../d6/da5/a05100.html">ModelInstance</a> *val, <a class="el" href="../../de/d85/a04810.html#a6996c44f3ac72cd9dc04515186d2da28">ModelIgnoreFlags</a> ignoreFlags)</td></tr>
-<tr class="separator:a1a4a654bc929dab5b5a2804c4b88389d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0f218465b321da5f8289dfa815acbfd4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dff/a05032.html#a0f218465b321da5f8289dfa815acbfd4">operator()</a> (const G3D::Ray &amp;ray, <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> entry, float &amp;distance, bool StopAtFirstHit)</td></tr>
-<tr class="separator:a0f218465b321da5f8289dfa815acbfd4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9d9abb0a5ffff131d2c19e88c3c8b836"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dff/a05032.html#a9d9abb0a5ffff131d2c19e88c3c8b836">didHit</a> ()</td></tr>
-<tr class="separator:a9d9abb0a5ffff131d2c19e88c3c8b836"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a81b8c00fcc0a1780445ffbdf85decfdf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dff/a05032.html#a81b8c00fcc0a1780445ffbdf85decfdf">LocationInfoCallback</a> (<a class="el" href="../../db/d29/a05096.html">ModelInstance</a> *val, <a class="el" href="../../d3/d40/a05040.html">LocationInfo</a> &amp;info)</td></tr>
+<tr class="separator:a81b8c00fcc0a1780445ffbdf85decfdf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac2ccfe87fa33cae7d2513c24ba8bfbeb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dff/a05032.html#ac2ccfe87fa33cae7d2513c24ba8bfbeb">operator()</a> (const Vector3 &amp;point, <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> entry)</td></tr>
+<tr class="separator:ac2ccfe87fa33cae7d2513c24ba8bfbeb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
-Protected Attributes</h2></td></tr>
-<tr class="memitem:a389d8ee31e0cb665bfd9084d786750c5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/da5/a05100.html">ModelInstance</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dff/a05032.html#a389d8ee31e0cb665bfd9084d786750c5">prims</a></td></tr>
-<tr class="separator:a389d8ee31e0cb665bfd9084d786750c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a88d1e6d6fa43608bcee21a822488f061"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d85/a04810.html#a6996c44f3ac72cd9dc04515186d2da28">ModelIgnoreFlags</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dff/a05032.html#a88d1e6d6fa43608bcee21a822488f061">flags</a></td></tr>
-<tr class="separator:a88d1e6d6fa43608bcee21a822488f061"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6fc14ac7ae20effec9d2657a46b838fc"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dff/a05032.html#a6fc14ac7ae20effec9d2657a46b838fc">hit</a></td></tr>
-<tr class="separator:a6fc14ac7ae20effec9d2657a46b838fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a19c87ad1c9665c3ddfbfa89ccdee5c10"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d29/a05096.html">ModelInstance</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dff/a05032.html#a19c87ad1c9665c3ddfbfa89ccdee5c10">prims</a></td></tr>
+<tr class="separator:a19c87ad1c9665c3ddfbfa89ccdee5c10"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9a8b8529a571b3652cd898b2888d8027"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d40/a05040.html">LocationInfo</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dff/a05032.html#a9a8b8529a571b3652cd898b2888d8027">locInfo</a></td></tr>
+<tr class="separator:a9a8b8529a571b3652cd898b2888d8027"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1ada8b8a1742f02b2d1f28ee82903246"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dff/a05032.html#a1ada8b8a1742f02b2d1f28ee82903246">result</a></td></tr>
+<tr class="separator:a1ada8b8a1742f02b2d1f28ee82903246"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a1a4a654bc929dab5b5a2804c4b88389d" name="a1a4a654bc929dab5b5a2804c4b88389d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1a4a654bc929dab5b5a2804c4b88389d">&#9670;&#160;</a></span>MapRayCallback()</h2>
+<a id="a81b8c00fcc0a1780445ffbdf85decfdf" name="a81b8c00fcc0a1780445ffbdf85decfdf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a81b8c00fcc0a1780445ffbdf85decfdf">&#9670;&#160;</a></span>LocationInfoCallback()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -142,16 +140,16 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">VMAP::MapRayCallback::MapRayCallback </td>
+          <td class="memname">VMAP::LocationInfoCallback::LocationInfoCallback </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d6/da5/a05100.html">ModelInstance</a> *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../db/d29/a05096.html">ModelInstance</a> *&#160;</td>
           <td class="paramname"><em>val</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../de/d85/a04810.html#a6996c44f3ac72cd9dc04515186d2da28">ModelIgnoreFlags</a>&#160;</td>
-          <td class="paramname"><em>ignoreFlags</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d3/d40/a05040.html">LocationInfo</a> &amp;&#160;</td>
+          <td class="paramname"><em>info</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -165,16 +163,16 @@ Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   37</span>: <a class="code hl_variable" href="../../de/dff/a05032.html#a389d8ee31e0cb665bfd9084d786750c5">prims</a>(val), <a class="code hl_variable" href="../../de/dff/a05032.html#a88d1e6d6fa43608bcee21a822488f061">flags</a>(ignoreFlags), <a class="code hl_variable" href="../../de/dff/a05032.html#a6fc14ac7ae20effec9d2657a46b838fc">hit</a>(<span class="keyword">false</span>) { }</div>
-<div class="ttc" id="aa05032_html_a389d8ee31e0cb665bfd9084d786750c5"><div class="ttname"><a href="../../de/dff/a05032.html#a389d8ee31e0cb665bfd9084d786750c5">VMAP::MapRayCallback::prims</a></div><div class="ttdeci">ModelInstance * prims</div><div class="ttdef"><b>Definition:</b> MapTree.cpp:49</div></div>
-<div class="ttc" id="aa05032_html_a6fc14ac7ae20effec9d2657a46b838fc"><div class="ttname"><a href="../../de/dff/a05032.html#a6fc14ac7ae20effec9d2657a46b838fc">VMAP::MapRayCallback::hit</a></div><div class="ttdeci">bool hit</div><div class="ttdef"><b>Definition:</b> MapTree.cpp:51</div></div>
-<div class="ttc" id="aa05032_html_a88d1e6d6fa43608bcee21a822488f061"><div class="ttname"><a href="../../de/dff/a05032.html#a88d1e6d6fa43608bcee21a822488f061">VMAP::MapRayCallback::flags</a></div><div class="ttdeci">ModelIgnoreFlags flags</div><div class="ttdef"><b>Definition:</b> MapTree.cpp:50</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   57</span>: <a class="code hl_variable" href="../../de/dff/a05032.html#a19c87ad1c9665c3ddfbfa89ccdee5c10">prims</a>(val), <a class="code hl_variable" href="../../de/dff/a05032.html#a9a8b8529a571b3652cd898b2888d8027">locInfo</a>(info), <a class="code hl_variable" href="../../de/dff/a05032.html#a1ada8b8a1742f02b2d1f28ee82903246">result</a>(<span class="keyword">false</span>) {}</div>
+<div class="ttc" id="aa05032_html_a19c87ad1c9665c3ddfbfa89ccdee5c10"><div class="ttname"><a href="../../de/dff/a05032.html#a19c87ad1c9665c3ddfbfa89ccdee5c10">VMAP::LocationInfoCallback::prims</a></div><div class="ttdeci">ModelInstance * prims</div><div class="ttdef"><b>Definition:</b> MapTree.cpp:69</div></div>
+<div class="ttc" id="aa05032_html_a1ada8b8a1742f02b2d1f28ee82903246"><div class="ttname"><a href="../../de/dff/a05032.html#a1ada8b8a1742f02b2d1f28ee82903246">VMAP::LocationInfoCallback::result</a></div><div class="ttdeci">bool result</div><div class="ttdef"><b>Definition:</b> MapTree.cpp:71</div></div>
+<div class="ttc" id="aa05032_html_a9a8b8529a571b3652cd898b2888d8027"><div class="ttname"><a href="../../de/dff/a05032.html#a9a8b8529a571b3652cd898b2888d8027">VMAP::LocationInfoCallback::locInfo</a></div><div class="ttdeci">LocationInfo &amp; locInfo</div><div class="ttdef"><b>Definition:</b> MapTree.cpp:70</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a9d9abb0a5ffff131d2c19e88c3c8b836" name="a9d9abb0a5ffff131d2c19e88c3c8b836"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9d9abb0a5ffff131d2c19e88c3c8b836">&#9670;&#160;</a></span>didHit()</h2>
+<a id="ac2ccfe87fa33cae7d2513c24ba8bfbeb" name="ac2ccfe87fa33cae7d2513c24ba8bfbeb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac2ccfe87fa33cae7d2513c24ba8bfbeb">&#9670;&#160;</a></span>operator()()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -183,58 +181,16 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool VMAP::MapRayCallback::didHit </td>
+          <td class="memname">void VMAP::LocationInfoCallback::operator() </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   47</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/dff/a05032.html#a6fc14ac7ae20effec9d2657a46b838fc">hit</a>; }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">hit</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00147">VMAP::StaticMapTree::GetIntersectionTime()</a>.</p>
-
-</div>
-</div>
-<a id="a0f218465b321da5f8289dfa815acbfd4" name="a0f218465b321da5f8289dfa815acbfd4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0f218465b321da5f8289dfa815acbfd4">&#9670;&#160;</a></span>operator()()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool VMAP::MapRayCallback::operator() </td>
-          <td>(</td>
-          <td class="paramtype">const G3D::Ray &amp;&#160;</td>
-          <td class="paramname"><em>ray</em>, </td>
+          <td class="paramtype">const Vector3 &amp;&#160;</td>
+          <td class="paramname"><em>point</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>entry</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">float &amp;&#160;</td>
-          <td class="paramname"><em>distance</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>StopAtFirstHit</em>&#160;</td>
+          <td class="paramname"><em>entry</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -248,90 +204,67 @@ Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   39</span>        {</div>
-<div class="line"><span class="lineno">   40</span>            <span class="keywordtype">bool</span> result = <a class="code hl_variable" href="../../de/dff/a05032.html#a389d8ee31e0cb665bfd9084d786750c5">prims</a>[entry].<a class="code hl_function" href="../../d6/da5/a05100.html#aca8a2a07911eba5ec362080e2790453c">intersectRay</a>(ray, distance, StopAtFirstHit, <a class="code hl_variable" href="../../de/dff/a05032.html#a88d1e6d6fa43608bcee21a822488f061">flags</a>);</div>
-<div class="line"><span class="lineno">   41</span>            <span class="keywordflow">if</span> (result)</div>
-<div class="line"><span class="lineno">   42</span>            {</div>
-<div class="line"><span class="lineno">   43</span>                <a class="code hl_variable" href="../../de/dff/a05032.html#a6fc14ac7ae20effec9d2657a46b838fc">hit</a> = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   44</span>            }</div>
-<div class="line"><span class="lineno">   45</span>            <span class="keywordflow">return</span> result;</div>
-<div class="line"><span class="lineno">   46</span>        }</div>
-<div class="ttc" id="aa05100_html_aca8a2a07911eba5ec362080e2790453c"><div class="ttname"><a href="../../d6/da5/a05100.html#aca8a2a07911eba5ec362080e2790453c">VMAP::ModelInstance::intersectRay</a></div><div class="ttdeci">bool intersectRay(const G3D::Ray &amp;pRay, float &amp;pMaxDist, bool StopAtFirstHit, ModelIgnoreFlags ignoreFlags) const</div><div class="ttdef"><b>Definition:</b> ModelInstance.cpp:33</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   59</span>        {</div>
+<div class="line"><span class="lineno">   60</span><span class="preprocessor">#if defined(VMAP_DEBUG)</span></div>
+<div class="line"><span class="lineno">   61</span>            <a class="code hl_define" href="../../d9/d32/a04640.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a>(<span class="stringliteral">&quot;maps&quot;</span>, <span class="stringliteral">&quot;LocationInfoCallback: trying to intersect &#39;{}&#39;&quot;</span>, <a class="code hl_variable" href="../../de/dff/a05032.html#a19c87ad1c9665c3ddfbfa89ccdee5c10">prims</a>[entry].name);</div>
+<div class="line"><span class="lineno">   62</span><span class="preprocessor">#endif</span></div>
+<div class="line"><span class="lineno">   63</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../de/dff/a05032.html#a19c87ad1c9665c3ddfbfa89ccdee5c10">prims</a>[entry].GetLocationInfo(point, <a class="code hl_variable" href="../../de/dff/a05032.html#a9a8b8529a571b3652cd898b2888d8027">locInfo</a>))</div>
+<div class="line"><span class="lineno">   64</span>            {</div>
+<div class="line"><span class="lineno">   65</span>                <a class="code hl_variable" href="../../de/dff/a05032.html#a1ada8b8a1742f02b2d1f28ee82903246">result</a> = <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   66</span>            }</div>
+<div class="line"><span class="lineno">   67</span>        }</div>
+<div class="ttc" id="aa04640_html_a47ac782b14a7531c6232777165a1a161"><div class="ttname"><a href="../../d9/d32/a04640.html#a47ac782b14a7531c6232777165a1a161">LOG_DEBUG</a></div><div class="ttdeci">#define LOG_DEBUG(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:170</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00050">flags</a>, <a class="el" href="../../#l00051">hit</a>, <a class="el" href="../../#l00033">VMAP::ModelInstance::intersectRay()</a>, and <a class="el" href="../../#l00049">prims</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00070">locInfo</a>, <a class="el" href="../../#l00170">LOG_DEBUG</a>, <a class="el" href="../../#l00069">prims</a>, and <a class="el" href="../../#l00071">result</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a88d1e6d6fa43608bcee21a822488f061" name="a88d1e6d6fa43608bcee21a822488f061"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a88d1e6d6fa43608bcee21a822488f061">&#9670;&#160;</a></span>flags</h2>
+<a id="a9a8b8529a571b3652cd898b2888d8027" name="a9a8b8529a571b3652cd898b2888d8027"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9a8b8529a571b3652cd898b2888d8027">&#9670;&#160;</a></span>locInfo</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../de/d85/a04810.html#a6996c44f3ac72cd9dc04515186d2da28">ModelIgnoreFlags</a> VMAP::MapRayCallback::flags</td>
+          <td class="memname"><a class="el" href="../../d3/d40/a05040.html">LocationInfo</a>&amp; VMAP::LocationInfoCallback::locInfo</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00038">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00058">operator()()</a>.</p>
 
 </div>
 </div>
-<a id="a6fc14ac7ae20effec9d2657a46b838fc" name="a6fc14ac7ae20effec9d2657a46b838fc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6fc14ac7ae20effec9d2657a46b838fc">&#9670;&#160;</a></span>hit</h2>
+<a id="a19c87ad1c9665c3ddfbfa89ccdee5c10" name="a19c87ad1c9665c3ddfbfa89ccdee5c10"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a19c87ad1c9665c3ddfbfa89ccdee5c10">&#9670;&#160;</a></span>prims</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool VMAP::MapRayCallback::hit</td>
+          <td class="memname"><a class="el" href="../../db/d29/a05096.html">ModelInstance</a>* VMAP::LocationInfoCallback::prims</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00047">didHit()</a>, and <a class="el" href="../../#l00038">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00058">operator()()</a>.</p>
 
 </div>
 </div>
-<a id="a389d8ee31e0cb665bfd9084d786750c5" name="a389d8ee31e0cb665bfd9084d786750c5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a389d8ee31e0cb665bfd9084d786750c5">&#9670;&#160;</a></span>prims</h2>
+<a id="a1ada8b8a1742f02b2d1f28ee82903246" name="a1ada8b8a1742f02b2d1f28ee82903246"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1ada8b8a1742f02b2d1f28ee82903246">&#9670;&#160;</a></span>result</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/da5/a05100.html">ModelInstance</a>* VMAP::MapRayCallback::prims</td>
+          <td class="memname">bool VMAP::LocationInfoCallback::result</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00038">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00086">VMAP::StaticMapTree::GetLocationInfo()</a>, and <a class="el" href="../../#l00058">operator()()</a>.</p>
 
 </div>
 </div>
@@ -340,8 +273,8 @@ Protected Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../de/d85/a04810.html">VMAP</a></li><li class="navelem"><a class="el" href="../../de/dff/a05032.html">MapRayCallback</a></li>
-    <li class="footer">Generated on Mon Nov 10 2025 20:54:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../de/d85/a04810.html">VMAP</a></li><li class="navelem"><a class="el" href="../../de/dff/a05032.html">LocationInfoCallback</a></li>
+    <li class="footer">Generated on Mon Nov 17 2025 20:46:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

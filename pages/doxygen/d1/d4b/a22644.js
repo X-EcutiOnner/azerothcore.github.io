@@ -1,6 +1,13 @@
 var a22644 =
 [
-    [ "npc_released_offspring_harkoaAI", "d9/dce/a22648.html", "d9/dce/a22648" ],
-    [ "npc_released_offspring_harkoa", "d1/d4b/a22644.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
-    [ "GetAI", "d1/d4b/a22644.html#ae3d2a02c496be1b2606fce596625d12e", null ]
+    [ "OPvPCapturePointEP_EWT", "d1/d4b/a22644.html#a3740f069c46f9d3f0e11d97663bc0104", null ],
+    [ "ChangeState", "d1/d4b/a22644.html#ac00c50b89e1218f87506778096a9d7cd", null ],
+    [ "FillInitialWorldStates", "d1/d4b/a22644.html#a7ce76f4fc8169c42f65267daf987a3b6", null ],
+    [ "HandlePlayerEnter", "d1/d4b/a22644.html#aed78ccf9ad517b4a94431e3355cba1dd", null ],
+    [ "HandlePlayerLeave", "d1/d4b/a22644.html#a2638b24dca375420778845963e307db3", null ],
+    [ "SendChangePhase", "d1/d4b/a22644.html#a6d45df918aea00e9cb85a8940cb5c1c9", null ],
+    [ "SummonSupportUnitAtNorthpassTower", "d1/d4b/a22644.html#ad70a8cc485072cd9af892290584062d8", null ],
+    [ "UpdateTowerState", "d1/d4b/a22644.html#ac0bcdfb9f2aeabc78b72c3cce674c479", null ],
+    [ "m_TowerState", "d1/d4b/a22644.html#aa30e9cc01476eb20b188c7a13a405c3a", null ],
+    [ "m_UnitsSummonedSideId", "d1/d4b/a22644.html#a0319f0d51624df44419976e7abd1b813", null ]
 ];

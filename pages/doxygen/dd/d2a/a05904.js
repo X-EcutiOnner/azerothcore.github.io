@@ -1,11 +1,14 @@
 var a05904 =
 [
-    [ "SQLQueryHolderCallback", "dd/d2a/a05904.html#afc2cb6a483d17ae115e947bc88fe592b", null ],
-    [ "SQLQueryHolderCallback", "dd/d2a/a05904.html#a7fddb08e9e10cdb8a437de3ee53494db", null ],
-    [ "AfterComplete", "dd/d2a/a05904.html#a40f0a73f4b92bc0f7ad8659f748c7c17", null ],
-    [ "InvokeIfReady", "dd/d2a/a05904.html#a7e540699d496834c0a36782fb7da03f1", null ],
-    [ "operator=", "dd/d2a/a05904.html#a031861856be6b3e5f18718f3c6129f9c", null ],
-    [ "m_callback", "dd/d2a/a05904.html#aa055fe02b0158a9098e6eccdc32e9ff4", null ],
-    [ "m_future", "dd/d2a/a05904.html#a7dc3e5e72d47135660a29a0418e17c44", null ],
-    [ "m_holder", "dd/d2a/a05904.html#a09b018fb4d8e0e67249b1117c657ecc2", null ]
+    [ "difference_type", "dd/d2a/a05904.html#aa5abd2b7fa1dc64ac1eb085521b27d6f", null ],
+    [ "iterator_category", "dd/d2a/a05904.html#acaafbe30e2be9953852968b633d8237f", null ],
+    [ "pointer", "dd/d2a/a05904.html#a33215a042f7b7ddb243e8434a4c26346", null ],
+    [ "reference", "dd/d2a/a05904.html#a5618bd9b42f553be7feaf26fac8fe3ba", null ],
+    [ "value_type", "dd/d2a/a05904.html#aa4866b181d8cd3264394657a2dac99a8", null ],
+    [ "ResultIterator", "dd/d2a/a05904.html#a0a7d6ac1eee62492330353b15edb4fd0", null ],
+    [ "operator!=", "dd/d2a/a05904.html#a56f56c284c3001703ec4ee6ac705066f", null ],
+    [ "operator*", "dd/d2a/a05904.html#a4c7ba1d0e7251aeab6b255bf1c78defd", null ],
+    [ "operator++", "dd/d2a/a05904.html#ae66f3f0e1fd5af21ff0854826fb37075", null ],
+    [ "operator->", "dd/d2a/a05904.html#a0b6cee284fea4a4023cc688614432b69", null ],
+    [ "_ptr", "dd/d2a/a05904.html#a0be3611fcc2a6eb680a6f4aaba57068e", null ]
 ];

@@ -1,6 +1,6 @@
 var a21784 =
 [
-    [ "HandleEffect", "df/d4a/a21784.html#a6732d51d5de34b3e737cc785fb2ab43e", null ],
-    [ "PrepareSpellScript", "df/d4a/a21784.html#aec199e9f9651267fac88bd86be326bb4", null ],
-    [ "Register", "df/d4a/a21784.html#a14bd854db86750704c8377d457dea360", null ]
+    [ "npc_thassarianAI", "d2/d97/a21788.html", "d2/d97/a21788" ],
+    [ "npc_thassarian", "df/d4a/a21784.html#a82bde4555821f84a6d07a69669528313", null ],
+    [ "GetAI", "df/d4a/a21784.html#af4bbf5f6a63c3765355d6b70c2bda55b", null ]
 ];

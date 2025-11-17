@@ -1,5 +1,6 @@
 var a19080 =
 [
-    [ "creatureEntry", "d4/d03/a19080.html#afab12c40af70303dff2a9553d47dbb7d", null ],
-    [ "questId", "d4/d03/a19080.html#ace2a7dd58d442b6afb2173311c89593b", null ]
+    [ "instance_icecrown_citadel_InstanceMapScript", "dd/de1/a19084.html", "dd/de1/a19084" ],
+    [ "instance_icecrown_citadel", "d4/d03/a19080.html#a0901e23025cff08d1a7516bbef099ffa", null ],
+    [ "GetInstanceScript", "d4/d03/a19080.html#a787c32626681f15f5515385a9ba6b848", null ]
 ];

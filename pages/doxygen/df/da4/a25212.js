@@ -1,7 +1,8 @@
 var a25212 =
 [
-    [ "HandleScript", "df/da4/a25212.html#a9fb69011ce5245925eb6a4fd011d18b2", null ],
-    [ "PrepareSpellScript", "df/da4/a25212.html#ab9300ff0efc4a36d652a1b56c031dc2f", null ],
-    [ "Register", "df/da4/a25212.html#aa0828fa1a3cf75e8222607a4f2fff950", null ],
-    [ "Validate", "df/da4/a25212.html#a9469ebca2d40dd2944f2fb7286fc64ff", null ]
+    [ "HandleScript", "df/da4/a25212.html#af7330c1b586b809c78e0bc080cb92c65", null ],
+    [ "Load", "df/da4/a25212.html#a262fc7f4bc3f1fae07f69dde765d8228", null ],
+    [ "PrepareSpellScript", "df/da4/a25212.html#af0fda52cff0361cf6c4a69957459ddf3", null ],
+    [ "Register", "df/da4/a25212.html#a41225a9f5d9304df4a02a681e8b73ff6", null ],
+    [ "Validate", "df/da4/a25212.html#a520341dc41dcce5fd9346e3f5ed6ee51", null ]
 ];

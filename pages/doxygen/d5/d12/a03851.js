@@ -1,6 +1,6 @@
 var a03851 =
 [
-    [ "OutdoorPvPSI", "d2/da0/a22744.html", "d2/da0/a22744" ],
+    [ "OutdoorPvPSI", "d3/d04/a22712.html", "d3/d04/a22712" ],
     [ "OutdoorPvPSISpells", "d5/d12/a03851.html#a62a8c4b8a007cc2da63e91f039a9b0f5", [
       [ "SI_SILITHYST_FLAG_GO_SPELL", "d5/d12/a03851.html#a62a8c4b8a007cc2da63e91f039a9b0f5add71e365726ced6250de08c4c883f055", null ],
       [ "SI_SILITHYST_FLAG", "d5/d12/a03851.html#a62a8c4b8a007cc2da63e91f039a9b0f5a1bf0ed27bacc509ec19e1648e1a9ec74", null ],

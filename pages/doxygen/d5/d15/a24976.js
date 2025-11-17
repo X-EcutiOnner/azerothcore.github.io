@@ -1,9 +1,8 @@
 var a24976 =
 [
-    [ "FilterTargets", "d5/d15/a24976.html#ae7a54b8e27f91091b479293cc62ee1f4", null ],
-    [ "PrepareSpellScript", "d5/d15/a24976.html#a215b412cfeae9f2763b1c5d3b8a4ca31", null ],
-    [ "Register", "d5/d15/a24976.html#ae790485f5b27fe34a0a26c3d6fc7ed41", null ],
-    [ "SetTargets", "d5/d15/a24976.html#ac77e95af9b08118e87e3329eab5515ea", null ],
-    [ "Validate", "d5/d15/a24976.html#a8e4b1ff1577f25334b50e25bffc021cc", null ],
-    [ "_targets", "d5/d15/a24976.html#acc66768f54c514552f0ab01274c24f17", null ]
+    [ "HandleSchoolDMG", "d5/d15/a24976.html#ab273304fdbeea8768622c3e6b222aaf2", null ],
+    [ "HandleScriptEffect", "d5/d15/a24976.html#a06f9cf29387b49f3e5950661173c77eb", null ],
+    [ "PrepareSpellScript", "d5/d15/a24976.html#ac1a2b89eda37ed4e6c5946a93e7a58a2", null ],
+    [ "Register", "d5/d15/a24976.html#a9bdbf7578509976d482a26869e9068aa", null ],
+    [ "Validate", "d5/d15/a24976.html#a20a7b3a25711a90ab5f0e14991112ea0", null ]
 ];

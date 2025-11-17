@@ -1,9 +1,7 @@
 var a22940 =
 [
-    [ "npc_flame_of_azzinoth", "d5/d95/a22940.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
-    [ "IsSummonedBy", "d5/d95/a22940.html#a5254057af0371a08ea01fe91502c2a20", null ],
-    [ "JustEngagedWith", "d5/d95/a22940.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
-    [ "JustSummoned", "d5/d95/a22940.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
-    [ "UpdateAI", "d5/d95/a22940.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
-    [ "_bladeGUID", "d5/d95/a22940.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
+    [ "HandleOnEffectApply", "d5/d95/a22940.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
+    [ "HandleOnEffectRemove", "d5/d95/a22940.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
+    [ "PrepareAuraScript", "d5/d95/a22940.html#a45df29f911b1232e306e04a182648904", null ],
+    [ "Register", "d5/d95/a22940.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
 ];

@@ -1,5 +1,8 @@
 var a20700 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_13", "de/d6e/a20700.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
-    [ "OnCheck", "de/d6e/a20700.html#ac91196d094f159932ad871ffa9c0f405", null ]
+    [ "npc_ulduar_expedition_commanderAI", "db/d10/a20704.html", "db/d10/a20704" ],
+    [ "npc_ulduar_expedition_commander", "de/d6e/a20700.html#a8513554f686b75c29524fa5b2fa93ee4", null ],
+    [ "GetAI", "de/d6e/a20700.html#aa888a3634a643a103075d44c8f52d28a", null ],
+    [ "OnGossipHello", "de/d6e/a20700.html#a6b52abae7ec1be10fcb5385ec928b785", null ],
+    [ "OnGossipSelect", "de/d6e/a20700.html#a5d212e5e21d9ffb8c60e883e065c1801", null ]
 ];

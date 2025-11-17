@@ -1,8 +1,7 @@
 var a16956 =
 [
-    [ "npc_fos_corrupted_soul_fragmentAI", "d9/d12/a16956.html#a61797329ecddde6da2e23e951fa92ca2", null ],
-    [ "Reset", "d9/d12/a16956.html#a5bb03371b24593ca2de995bf85857782", null ],
-    [ "UpdateAI", "d9/d12/a16956.html#ac6e651186c5edfd8e5279ddd38a15eb9", null ],
-    [ "pInstance", "d9/d12/a16956.html#a6ced23b3b4150b31020a636559d6eec6", null ],
-    [ "timer", "d9/d12/a16956.html#aa19c9928e3979bb01d89dc81b8feb4fc", null ]
+    [ "HandlePeriodicTick", "d9/d12/a16956.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
+    [ "PrepareAuraScript", "d9/d12/a16956.html#a93e894c642101160dd51f30952c82d24", null ],
+    [ "Register", "d9/d12/a16956.html#a49172ede0f888e391b9b4a835475220a", null ],
+    [ "Validate", "d9/d12/a16956.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
 ];

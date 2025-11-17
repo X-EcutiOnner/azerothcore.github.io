@@ -1,5 +1,7 @@
 var a27272 =
 [
-    [ "achievement_bg_av_perfection", "d6/d1b/a27272.html#a8a0ef996bdb1244026268922b301184c", null ],
-    [ "OnCheck", "d6/d1b/a27272.html#a17e700c17b5144b571f2aeed92a77749", null ]
+    [ "CharacterDeleteActionIpLogger", "d6/d1b/a27272.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "d6/d1b/a27272.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "d6/d1b/a27272.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "d6/d1b/a27272.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

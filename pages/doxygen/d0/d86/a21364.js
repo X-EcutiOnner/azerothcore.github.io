@@ -1,5 +1,13 @@
 var a21364 =
 [
-    [ "npc_ritual_channelerAI", "d0/d86/a21364.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
-    [ "AttackStart", "d0/d86/a21364.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
+    [ "MoveX", "d0/d86/a21364.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
+    [ "MoveY", "d0/d86/a21364.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
+    [ "MoveZ", "d0/d86/a21364.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
+    [ "npc", "d0/d86/a21364.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
+    [ "say", "d0/d86/a21364.html#adcd8647fc0ee9799e24173780209f2d9", null ],
+    [ "SpawnO", "d0/d86/a21364.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
+    [ "SpawnX", "d0/d86/a21364.html#af3ae27adaecafe9a09802bc202973d68", null ],
+    [ "SpawnY", "d0/d86/a21364.html#a749e9c6edcc87f258f250344d652145c", null ],
+    [ "SpawnZ", "d0/d86/a21364.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
+    [ "trigger", "d0/d86/a21364.html#ad2291d89a874c79859b3140754594ed7", null ]
 ];

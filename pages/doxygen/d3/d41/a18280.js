@@ -1,9 +1,6 @@
 var a18280 =
 [
-    [ "FilterTargets", "d3/d41/a18280.html#ae0c0320b523076e03c01f69b9d0df4bd", null ],
-    [ "FilterTargetsSubseq", "d3/d41/a18280.html#a88a53a855e01b550fbd106ac318a891e", null ],
-    [ "PrepareSpellScript", "d3/d41/a18280.html#ae5c08d71d0e1d30f0b126ca593763697", null ],
-    [ "Register", "d3/d41/a18280.html#a27e8768422b311f6db16757e167f4102", null ],
-    [ "Validate", "d3/d41/a18280.html#a96ef76527449a138685830b52fa95146", null ],
-    [ "_targetList", "d3/d41/a18280.html#afcfbcf16c29b3bda1d7b85f79c624db1", null ]
+    [ "FilterTargets", "d3/d41/a18280.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
+    [ "PrepareSpellScript", "d3/d41/a18280.html#a24466e7a04722cc7559b086f89d2edc8", null ],
+    [ "Register", "d3/d41/a18280.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
 ];

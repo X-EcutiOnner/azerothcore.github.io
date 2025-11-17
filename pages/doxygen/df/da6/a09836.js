@@ -1,7 +1,8 @@
 var a09836 =
 [
-    [ "ZRangeBoundary", "df/da6/a09836.html#ab9c77783e059de4478625f7c97713c49", null ],
-    [ "IsWithinBoundaryArea", "df/da6/a09836.html#af1410b3eeb9e7096b1cc53caa7edd68f", null ],
-    [ "_maxZ", "df/da6/a09836.html#a7226d6a69b9fb922a2ac06300ab060d8", null ],
-    [ "_minZ", "df/da6/a09836.html#aee142d5bc4cfae80584b84ae451da05c", null ]
+    [ "BoundaryUnionBoundary", "df/da6/a09836.html#a074536112fffc805dec44bd9cd602642", null ],
+    [ "~BoundaryUnionBoundary", "df/da6/a09836.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
+    [ "IsWithinBoundaryArea", "df/da6/a09836.html#a8dc91861fa6641008236e5a83030e0d1", null ],
+    [ "_b1", "df/da6/a09836.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
+    [ "_b2", "df/da6/a09836.html#ae70530673803bd2ee85bf722fe42718b", null ]
 ];

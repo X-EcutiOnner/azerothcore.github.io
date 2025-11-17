@@ -1,5 +1,6 @@
 var a24632 =
 [
-    [ "npc_pet_pri_lightwell", "d1/daa/a24632.html#aebeb192e66c7d5b4201cbaa81d46703c", null ],
-    [ "InitializeAI", "d1/daa/a24632.html#a5244bcfab27ccad603f80c6f2b2fcd3a", null ]
+    [ "HandlePeriodic", "d1/daa/a24632.html#a9d94b55656848d5b9f943b9b3bbfd889", null ],
+    [ "PrepareAuraScript", "d1/daa/a24632.html#a6b76add02d3a1eeddd845c4f97d0632a", null ],
+    [ "Register", "d1/daa/a24632.html#aa8c6fc66e1483370681ae6f7fdf5b676", null ]
 ];

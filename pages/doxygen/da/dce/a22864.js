@@ -1,11 +1,9 @@
 var a22864 =
 [
-    [ "boss_blackheart_the_inciter", "da/dce/a22864.html#a772b2b4574fa6ccd445924193985859b", null ],
-    [ "EnterEvadeMode", "da/dce/a22864.html#aaf2c9d37b0af1db1d35af01923eca45b", null ],
-    [ "JustDied", "da/dce/a22864.html#a1e7ca1ade637766d4c6039c50e9c85f7", null ],
-    [ "JustEngagedWith", "da/dce/a22864.html#abeb0cc4ff2543531f7a7c7993559f1cb", null ],
-    [ "KilledUnit", "da/dce/a22864.html#ad7de71ea14e5be6e2b126edde1c78ab6", null ],
-    [ "Reset", "da/dce/a22864.html#add75633d1c04d0be91e7e80f28213917", null ],
-    [ "UpdateAI", "da/dce/a22864.html#a0648c4bbabf30efd706b973bf8028dbb", null ],
-    [ "InciteChaos", "da/dce/a22864.html#a640c5301b22a0bfef2c4bcac4556a992", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "da/dce/a22864.html#ada5f19c96bfe623b110389ede032ef53", null ],
+    [ "GetData", "da/dce/a22864.html#ad876ebd581c470f5a3075129076bd1fb", null ],
+    [ "Initialize", "da/dce/a22864.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
+    [ "OnCreatureCreate", "da/dce/a22864.html#a118b4a7a7c872327ec2868c5b0417636", null ],
+    [ "OnUnitDeath", "da/dce/a22864.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
+    [ "_ritualistsAliveCount", "da/dce/a22864.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
 ];

@@ -1,7 +1,7 @@
 var a15164 =
 [
-    [ "HandleScript", "db/ddd/a15164.html#ad1654a408e94012a0ac2ade09d61a63e", null ],
-    [ "PrepareSpellScript", "db/ddd/a15164.html#a53e1a8632ca51beefe4fc97a3e471ad7", null ],
-    [ "Register", "db/ddd/a15164.html#aff966352a2babe6e6daed91f02e1190a", null ],
-    [ "Validate", "db/ddd/a15164.html#a6ffcf81642f31ee93f3ec213cdc8f92e", null ]
+    [ "HandleScript", "db/ddd/a15164.html#a8aea4a40472aec4cbb7001fbd63db24c", null ],
+    [ "Load", "db/ddd/a15164.html#a2dc1edf537f58133fb4daabde9f43843", null ],
+    [ "PrepareSpellScript", "db/ddd/a15164.html#ae856c6e70ededa95c0308596a9f980af", null ],
+    [ "Register", "db/ddd/a15164.html#ac2e82c7e626658faa968f75c26688b43", null ]
 ];

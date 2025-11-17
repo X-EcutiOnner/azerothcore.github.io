@@ -1,6 +1,6 @@
 var a26988 =
 [
-    [ "HandleSchoolDMG", "db/df2/a26988.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
-    [ "PrepareSpellScript", "db/df2/a26988.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
-    [ "Register", "db/df2/a26988.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
+    [ "HandleBanish", "db/df2/a26988.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
+    [ "PrepareSpellScript", "db/df2/a26988.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
+    [ "Register", "db/df2/a26988.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
 ];

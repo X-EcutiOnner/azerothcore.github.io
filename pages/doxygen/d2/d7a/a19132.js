@@ -1,7 +1,7 @@
 var a19132 =
 [
-    [ "OnRemove", "d2/d7a/a19132.html#a4e6a66934a01d01c50208459f6771353", null ],
-    [ "PrepareAuraScript", "d2/d7a/a19132.html#a2320044c6c81a89af0fefd4f90c05bd5", null ],
-    [ "Register", "d2/d7a/a19132.html#a4890d35f2b0889156a437c95e49f528c", null ],
-    [ "Validate", "d2/d7a/a19132.html#a1b90f1288b3b45267edd4da2b3418b21", null ]
+    [ "HandleTriggerSpell", "d2/d7a/a19132.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
+    [ "PrepareAuraScript", "d2/d7a/a19132.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
+    [ "Register", "d2/d7a/a19132.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
+    [ "Validate", "d2/d7a/a19132.html#a813bad39641956fff697580f271416d2", null ]
 ];

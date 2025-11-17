@@ -1,4 +1,5 @@
 var a28540 =
 [
-    [ "Id", "d4/d3e/a28540.html#accb2b5b3b157d344df1109115564796e", null ]
+    [ "id", "d4/d3e/a28540.html#a4667f55651f20c85f5b3da9384bac078", null ],
+    [ "QuestRewFactionValue", "d4/d3e/a28540.html#a9a42feddeef8e054cd52b72cfc812867", null ]
 ];

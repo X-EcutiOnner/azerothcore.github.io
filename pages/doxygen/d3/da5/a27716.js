@@ -1,19 +1,12 @@
 var a27716 =
 [
-    [ "npc_simoneAI", "d3/da5/a27716.html#ab33ec5a76f35bfd088a3d316df5c091c", null ],
-    [ "CorpseRemoved", "d3/da5/a27716.html#a0bc792b39b9d17a71c86756d2c7b9af0", null ],
-    [ "HandlePetRespawn", "d3/da5/a27716.html#a0d07b3f85a99ce3c0a1d4c482547113f", null ],
-    [ "JustDied", "d3/da5/a27716.html#a1c275b32a6d4730657e26e5a9c305eb6", null ],
-    [ "JustEngagedWith", "d3/da5/a27716.html#a17cad19f460d6cbfe2258ada48de46cd", null ],
-    [ "JustRespawned", "d3/da5/a27716.html#af456d04fec4a22fa6662ab5a0ccb902b", null ],
-    [ "Precious", "d3/da5/a27716.html#ad40c5f293558ca5a00614810a89d86c9", null ],
-    [ "PreciousAI", "d3/da5/a27716.html#acbdf0e5404402edf28fecf8657303aba", null ],
-    [ "Reset", "d3/da5/a27716.html#a1a62a843922448390151ed14e0ca2148", null ],
-    [ "RespawnPet", "d3/da5/a27716.html#af6d0cad159d88862e915c9f9337a49e3", null ],
-    [ "ScheduleEncounterStart", "d3/da5/a27716.html#ab879f0b452e511212be4df530b11d461", null ],
-    [ "SetPreciousGUID", "d3/da5/a27716.html#a1b735e7c99ba743c74c10911ec08f12b", null ],
-    [ "SpellHit", "d3/da5/a27716.html#ad50d1248c8a608c52d18ddb9d28168d9", null ],
-    [ "UpdateAI", "d3/da5/a27716.html#ae20237221e1fb3699cfe723c48d5bbf7", null ],
-    [ "events", "d3/da5/a27716.html#a1118fe0b8375db5327a9651a13832523", null ],
-    [ "preciousGUID", "d3/da5/a27716.html#a698a3015b5ad25dfd9ec07dfbb991ea8", null ]
+    [ "npc_elder_clearwaterAI", "d3/da5/a27716.html#a4de89cf4a18918d577be4ac5cc55ba5a", null ],
+    [ "DoAction", "d3/da5/a27716.html#ac46b0f66be3074f73f5a69cffee6d354", null ],
+    [ "GetData", "d3/da5/a27716.html#a077c02bf06b16439225a5cf8d83babf2", null ],
+    [ "UpdateAI", "d3/da5/a27716.html#afbec3c78d34ce4d11a11b56064f343f3", null ],
+    [ "events", "d3/da5/a27716.html#a267fec22dc3d7272cae74267d0567618", null ],
+    [ "finished", "d3/da5/a27716.html#af51d6abb8fc8b59d068156a4859a377e", null ],
+    [ "finishWarning", "d3/da5/a27716.html#a83a2b8e6ceed45d4e6b834e13a4a4cdc", null ],
+    [ "preWarning", "d3/da5/a27716.html#a64abe15565c7e97a3a0ef195d436fedc", null ],
+    [ "startWarning", "d3/da5/a27716.html#a01545211dec4338ac44304ebc7f18a97", null ]
 ];

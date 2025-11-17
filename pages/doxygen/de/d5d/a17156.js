@@ -1,7 +1,7 @@
 var a17156 =
 [
-    [ "HandleEffectPeriodic", "de/d5d/a17156.html#aaefcf8ace7c109648c9220fb0ff9d4de", null ],
-    [ "PrepareAuraScript", "de/d5d/a17156.html#ae0ccb7d4566777e52b71e99a908d13fa", null ],
-    [ "Register", "de/d5d/a17156.html#a73e8ef9dbd3dd3dc332d4b3a2eb2c5ea", null ],
-    [ "Validate", "de/d5d/a17156.html#ab3fcbe5386e9529824228e8f3b6be797", null ]
+    [ "UtherBatteredHiltEvent", "de/d5d/a17156.html#a7bb34b75a3e371260a231aea72f75b40", null ],
+    [ "Execute", "de/d5d/a17156.html#ad2eb37877155b6dbc9916338e30d0306", null ],
+    [ "_eventId", "de/d5d/a17156.html#a5045e057b2c5d468aa579751d2c799b8", null ],
+    [ "_owner", "de/d5d/a17156.html#a588974708f4a48f5a7b097a63a0c0899", null ]
 ];

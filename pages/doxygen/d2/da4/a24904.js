@@ -1,7 +1,6 @@
 var a24904 =
 [
-    [ "HandleProc", "d2/da4/a24904.html#a2d38c32b4eb2ba91c657801b21a3b90d", null ],
-    [ "PrepareAuraScript", "d2/da4/a24904.html#ac5988a79ab42ec1bbcc9b69bb649fc29", null ],
-    [ "Register", "d2/da4/a24904.html#affd88326ea293f82055700ec7183d194", null ],
-    [ "Validate", "d2/da4/a24904.html#acc8797afece569e68c6d754ca09e206d", null ]
+    [ "CheckCast", "d2/da4/a24904.html#a8ab8394c56201264ac4f2d859dd52092", null ],
+    [ "PrepareSpellScript", "d2/da4/a24904.html#acc6d27c8d869ec80ee5794405f6c238a", null ],
+    [ "Register", "d2/da4/a24904.html#a191085bc21ce6f5ce1d5b43d6d70f069", null ]
 ];

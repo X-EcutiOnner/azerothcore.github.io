@@ -1,9 +1,10 @@
 var a23936 =
 [
-    [ "boss_high_botanist_freywinn", "d3/d01/a23936.html#aeecf6ed56e34cf1d9a552aab82f1f64a", null ],
-    [ "JustDied", "d3/d01/a23936.html#a7b370482ea195d0305cba339ce0cbab3", null ],
-    [ "JustEngagedWith", "d3/d01/a23936.html#a841c6f08d8d8c0e47bd8d06bfed7ab8b", null ],
-    [ "KilledUnit", "d3/d01/a23936.html#a80a997e0d12c175da0a46d7362890b9c", null ],
-    [ "ResumeEncounter", "d3/d01/a23936.html#a06adcf26cb264d35a16ca416661ab4bd", null ],
-    [ "SummonedCreatureDies", "d3/d01/a23936.html#a7f1a02d4b944191471f59ba728b6372e", null ]
+    [ "CheckProc", "d3/d01/a23936.html#ac176c59497cc2196c19dc8a1b9f8056d", null ],
+    [ "Load", "d3/d01/a23936.html#aad39e53d6b3fc673c115f79ca0bc9b68", null ],
+    [ "PrepareAuraScript", "d3/d01/a23936.html#a990cab2c1d9fb544bf11c9fd4e5495ac", null ],
+    [ "Register", "d3/d01/a23936.html#ae2cf612df18cf249bc4a90ce9332fc9b", null ],
+    [ "_lastForm", "d3/d01/a23936.html#ad392a897546cb64e550dd8b0709ba0ab", null ],
+    [ "_lastSchool", "d3/d01/a23936.html#afc2e3e388615ed5cf0f4dd672f26de85", null ],
+    [ "_swapTime", "d3/d01/a23936.html#af832dc200e928df3849ab7d7f93cb412", null ]
 ];

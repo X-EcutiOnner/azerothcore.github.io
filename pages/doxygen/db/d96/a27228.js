@@ -1,6 +1,6 @@
 var a27228 =
 [
-    [ "AfterCheckProc", "db/d96/a27228.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
-    [ "PrepareAuraScript", "db/d96/a27228.html#aa184faf59edbad97ec361e66169137b9", null ],
-    [ "Register", "db/d96/a27228.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
+    [ "achievement_arena_by_type", "db/d96/a27228.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "db/d96/a27228.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "db/d96/a27228.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

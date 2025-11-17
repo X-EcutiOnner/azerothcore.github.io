@@ -1,8 +1,7 @@
 var a25264 =
 [
-    [ "AchievementCredit", "db/d3d/a25264.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "db/d3d/a25264.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "db/d3d/a25264.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "db/d3d/a25264.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "db/d3d/a25264.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "HandleDummy", "db/d3d/a25264.html#a582208e608c9fdca7464b817c76c13b3", null ],
+    [ "PrepareSpellScript", "db/d3d/a25264.html#ac7abb7e01362a3333c0d73cd19dcee30", null ],
+    [ "Register", "db/d3d/a25264.html#a3882606b9e9201163cf76cb20b8e6364", null ],
+    [ "Validate", "db/d3d/a25264.html#a12a1cb4b6131d5959f6f541da5e8fc00", null ]
 ];

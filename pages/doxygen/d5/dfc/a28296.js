@@ -1,14 +1,7 @@
 var a28296 =
 [
-    [ "IsFlyable", "d5/dfc/a28296.html#a2a59297a617c9d3b582ede2a028bd07e", null ],
-    [ "IsSanctuary", "d5/dfc/a28296.html#ad239b4e381b6af858a181e9c361d6cbb", null ],
-    [ "area_level", "d5/dfc/a28296.html#a23434848cf8b2eab4de1b6530b8d5f8d", null ],
-    [ "area_name", "d5/dfc/a28296.html#a87653e6b7f7368a59af7adaf77a49e10", null ],
-    [ "exploreFlag", "d5/dfc/a28296.html#a78cf3009cd0fe49dc7870c7f65c79251", null ],
-    [ "flags", "d5/dfc/a28296.html#a5854e3f565d827dbad3d9a36f99e9a25", null ],
-    [ "ID", "d5/dfc/a28296.html#ad02bb9fce21f464e38223581074a9e21", null ],
-    [ "LiquidTypeOverride", "d5/dfc/a28296.html#abe743a4b542c4356aab9d41f3fae7457", null ],
-    [ "mapid", "d5/dfc/a28296.html#a048ac249318efd9aa35bb705bfb92dc8", null ],
-    [ "team", "d5/dfc/a28296.html#ae18e0efef83e663452715f6be15ecaef", null ],
-    [ "zone", "d5/dfc/a28296.html#a3b4f9e187629db5ced9a06c601fc7f78", null ]
+    [ "bit_index", "d5/dfc/a28296.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "d5/dfc/a28296.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "d5/dfc/a28296.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "d5/dfc/a28296.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

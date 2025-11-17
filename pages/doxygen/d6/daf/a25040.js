@@ -1,5 +1,6 @@
 var a25040 =
 [
-    [ "PrepareSpellScript", "d6/daf/a25040.html#a41169895bb29fe136e3fb0c2dd50d9fb", null ],
-    [ "Register", "d6/daf/a25040.html#ab6a32b26cc0277f71a71b9fd1d567bf1", null ]
+    [ "CheckProc", "d6/daf/a25040.html#af742bdfd97c9202d50ed7aa1cf8e7d49", null ],
+    [ "PrepareAuraScript", "d6/daf/a25040.html#a255a58ad99059ba28ab09a94e7cc683a", null ],
+    [ "Register", "d6/daf/a25040.html#a4ec4dd2342a5b75c975dc6ffe0b02b79", null ]
 ];

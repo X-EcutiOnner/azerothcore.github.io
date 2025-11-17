@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: EventMap Class Reference</title>
+<title>AzerothCore: EventMap::Event Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,272 +105,33 @@ $(document).ready(function(){initNavTree('db/d2d/a05520.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-types">Private Types</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d3/d45/a05517.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">EventMap Class Reference</div></div>
+  <div class="headertitle"><div class="title">EventMap::Event Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">EventMap.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d66/a05524.html">Event</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a1b71cae296258c8b1b2ad12bfed09fed"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a1b71cae296258c8b1b2ad12bfed09fed">EventMap</a> ()</td></tr>
-<tr class="separator:a1b71cae296258c8b1b2ad12bfed09fed"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">Reset</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><p >Removes all scheduled events and resets time and phase. </p>
-</div></td></tr>
-<tr class="memitem:afd6b5b23aa26797b6de1275c70268808"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#afd6b5b23aa26797b6de1275c70268808">Reset</a> ()</td></tr>
-<tr class="separator:afd6b5b23aa26797b6de1275c70268808"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">Update</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><p >Updates the timer of the event map.</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">time</td><td>Value in ms to be added to time. </td></tr>
-  </table>
-  </dd>
-</dl>
-</div></td></tr>
-<tr class="memitem:a33ba1058edd639c98258ba3e123ac2f9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a33ba1058edd639c98258ba3e123ac2f9">Update</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> time)</td></tr>
-<tr class="separator:a33ba1058edd639c98258ba3e123ac2f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaf261b4d85f55809c7b2f66bff5142d1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#aaf261b4d85f55809c7b2f66bff5142d1">Update</a> (<a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> time)</td></tr>
-<tr class="separator:aaf261b4d85f55809c7b2f66bff5142d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">GetPhaseMask</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><dl class="section return"><dt>Returns</dt><dd>Active phases as mask. </dd></dl>
-</div></td></tr>
-<tr class="memitem:a3f881166ade0ad6fc12d6dcd539555ff"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d2d/a05520.html#a89844f3f326e2dda128017bb832d79ba">PhaseMask</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a3f881166ade0ad6fc12d6dcd539555ff">GetPhaseMask</a> () const</td></tr>
-<tr class="separator:a3f881166ade0ad6fc12d6dcd539555ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">Empty</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><dl class="section return"><dt>Returns</dt><dd>True, if there are no events scheduled. </dd></dl>
-</div></td></tr>
-<tr class="memitem:a33c576737784c87296aaad32b7f388c6"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a33c576737784c87296aaad32b7f388c6">Empty</a> () const</td></tr>
-<tr class="separator:a33c576737784c87296aaad32b7f388c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">SetPhase</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><p >Sets the phase of the map (absolute).</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">phase</td><td>Phase which should be set. Values: 1 - 8. 0 resets phase. </td></tr>
-  </table>
-  </dd>
-</dl>
-</div></td></tr>
-<tr class="memitem:a88818fb4257544910bb569efdd59d201"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a88818fb4257544910bb569efdd59d201">SetPhase</a> (<a class="el" href="../../db/d2d/a05520.html#a19766953283ff7ce0f6ce0dce41fd183">PhaseIndex</a> <a class="el" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a>)</td></tr>
-<tr class="separator:a88818fb4257544910bb569efdd59d201"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">AddPhase</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><p >Activates the given phase (absolute).</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">phase</td><td>Phase which should be activated. Values: 1 - 8 </td></tr>
-  </table>
-  </dd>
-</dl>
-</div></td></tr>
-<tr class="memitem:a0524f37e4b240a0c1f8c7922f0db5c3b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a0524f37e4b240a0c1f8c7922f0db5c3b">AddPhase</a> (<a class="el" href="../../db/d2d/a05520.html#a19766953283ff7ce0f6ce0dce41fd183">PhaseIndex</a> <a class="el" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a>)</td></tr>
-<tr class="separator:a0524f37e4b240a0c1f8c7922f0db5c3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">RemovePhase</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><p >Deactivates the given phase (absolute).</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">phase</td><td>Phase which should be deactivated. Values: 1 - 8. </td></tr>
-  </table>
-  </dd>
-</dl>
-</div></td></tr>
-<tr class="memitem:a6bcc57cdfcbe9053c7324fb82bd03255"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a6bcc57cdfcbe9053c7324fb82bd03255">RemovePhase</a> (<a class="el" href="../../db/d2d/a05520.html#a19766953283ff7ce0f6ce0dce41fd183">PhaseIndex</a> <a class="el" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a>)</td></tr>
-<tr class="separator:a6bcc57cdfcbe9053c7324fb82bd03255"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">ScheduleEvent</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><p >Schedules a new event. An existing event is not canceled.</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">eventId</td><td>The id of the new event. </td></tr>
-    <tr><td class="paramname">minTime</td><td>The minimum time until the event occurs as std::chrono type. </td></tr>
-    <tr><td class="paramname">maxTime</td><td>The maximum time until the event occurs as std::chrono type. </td></tr>
-    <tr><td class="paramname">group</td><td>The group which the event is associated to. Has to be between 1 and 8. 0 means it has no group. </td></tr>
-    <tr><td class="paramname">phase</td><td>The phase in which the event can occur. Has to be between 1 and 8. 0 means it can occur in all phases. </td></tr>
-  </table>
-  </dd>
-</dl>
-</div></td></tr>
-<tr class="memitem:aec6dde1456f6f7f802c3bda4cf4b713f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a> (<a class="el" href="../../db/d2d/a05520.html#adff26dc38a974d3a842938d1298d3f2a">EventId</a> eventId, <a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> time, <a class="el" href="../../db/d2d/a05520.html#a25815b10222ec6ab8acd0ed3e4c77745">GroupIndex</a> group=0u, <a class="el" href="../../db/d2d/a05520.html#a19766953283ff7ce0f6ce0dce41fd183">PhaseIndex</a> <a class="el" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a>=0u)</td></tr>
-<tr class="separator:aec6dde1456f6f7f802c3bda4cf4b713f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a434a4b037c2c52d9c527472400a86766"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a434a4b037c2c52d9c527472400a86766">ScheduleEvent</a> (<a class="el" href="../../db/d2d/a05520.html#adff26dc38a974d3a842938d1298d3f2a">EventId</a> eventId, <a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> minTime, <a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> maxTime, <a class="el" href="../../db/d2d/a05520.html#a25815b10222ec6ab8acd0ed3e4c77745">GroupIndex</a> group=0u, <a class="el" href="../../db/d2d/a05520.html#a19766953283ff7ce0f6ce0dce41fd183">PhaseIndex</a> <a class="el" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a>=0u)</td></tr>
-<tr class="separator:a434a4b037c2c52d9c527472400a86766"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">RescheduleEvent</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><p >Cancels the given event and reschedules it.</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">eventId</td><td>The id of the event. </td></tr>
-    <tr><td class="paramname">minTime</td><td>The minimum time until the event occurs as std::chrono type. </td></tr>
-    <tr><td class="paramname">maxTime</td><td>The maximum time until the event occurs as std::chrono type. </td></tr>
-    <tr><td class="paramname">group</td><td>The group which the event is associated to. Has to be between 1 and 8. 0 means it has no group. </td></tr>
-    <tr><td class="paramname">phase</td><td>The phase in which the event can occur. Has to be between 1 and 8. 0 means it can occur in all phases. </td></tr>
-  </table>
-  </dd>
-</dl>
-</div></td></tr>
-<tr class="memitem:a651b6c730aabef8d4eb176973442f190"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a651b6c730aabef8d4eb176973442f190">RescheduleEvent</a> (<a class="el" href="../../db/d2d/a05520.html#adff26dc38a974d3a842938d1298d3f2a">EventId</a> eventId, <a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> time, <a class="el" href="../../db/d2d/a05520.html#a25815b10222ec6ab8acd0ed3e4c77745">GroupIndex</a> group=0u, <a class="el" href="../../db/d2d/a05520.html#a19766953283ff7ce0f6ce0dce41fd183">PhaseIndex</a> <a class="el" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a>=0u)</td></tr>
-<tr class="separator:a651b6c730aabef8d4eb176973442f190"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa88b5c1db544487187ce0782d2a0070f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#aa88b5c1db544487187ce0782d2a0070f">RescheduleEvent</a> (<a class="el" href="../../db/d2d/a05520.html#adff26dc38a974d3a842938d1298d3f2a">EventId</a> eventId, <a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> minTime, <a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> maxTime, <a class="el" href="../../db/d2d/a05520.html#a25815b10222ec6ab8acd0ed3e4c77745">GroupIndex</a> group=0u, <a class="el" href="../../db/d2d/a05520.html#a19766953283ff7ce0f6ce0dce41fd183">PhaseIndex</a> <a class="el" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a>=0u)</td></tr>
-<tr class="separator:aa88b5c1db544487187ce0782d2a0070f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">Repeat</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><p >Repeats the most recently executed event.</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">minTime</td><td>The minimum time until the event occurs as std::chrono type. </td></tr>
-    <tr><td class="paramname">maxTime</td><td>The maximum time until the event occurs as std::chrono type. </td></tr>
-  </table>
-  </dd>
-</dl>
-</div></td></tr>
-<tr class="memitem:a34b5df29c85bce0873752b353a13fe5b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a34b5df29c85bce0873752b353a13fe5b">Repeat</a> (<a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> time)</td></tr>
-<tr class="separator:a34b5df29c85bce0873752b353a13fe5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6b1b46ba3c9bdb2b0f8bbc83babcbb7d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a6b1b46ba3c9bdb2b0f8bbc83babcbb7d">Repeat</a> (<a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> minTime, <a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> maxTime)</td></tr>
-<tr class="separator:a6b1b46ba3c9bdb2b0f8bbc83babcbb7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">ExecuteEvent</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><p >Returns the next event to execute and removes it from map.</p>
-<dl class="section return"><dt>Returns</dt><dd>Id of the event to execute. </dd></dl>
-</div></td></tr>
-<tr class="memitem:a435dd6db2c6fbbaf80467b7a617c4237"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d2d/a05520.html#adff26dc38a974d3a842938d1298d3f2a">EventId</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a435dd6db2c6fbbaf80467b7a617c4237">ExecuteEvent</a> ()</td></tr>
-<tr class="separator:a435dd6db2c6fbbaf80467b7a617c4237"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">DelayEvents</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><p >Delay all events of the same group.</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">delay</td><td>Amount of delay as std::chrono type. </td></tr>
-    <tr><td class="paramname">group</td><td><a class="el" href="../../d4/df9/a09556.html">Group</a> of the events. </td></tr>
-  </table>
-  </dd>
-</dl>
-</div></td></tr>
-<tr class="memitem:a3f143a095160ff5221c1a5c310db6a0f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a3f143a095160ff5221c1a5c310db6a0f">DelayEvents</a> (<a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> delay)</td></tr>
-<tr class="separator:a3f143a095160ff5221c1a5c310db6a0f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a189d69ebb255c93a47ddc23088e2d302"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a189d69ebb255c93a47ddc23088e2d302">DelayEvents</a> (<a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> delay, <a class="el" href="../../db/d2d/a05520.html#a25815b10222ec6ab8acd0ed3e4c77745">GroupIndex</a> group)</td></tr>
-<tr class="separator:a189d69ebb255c93a47ddc23088e2d302"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">EventsEvents</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><p >Delay all events of the same group.</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">delay</td><td>Amount of delay as std::chrono type. </td></tr>
-    <tr><td class="paramname">group</td><td><a class="el" href="../../d4/df9/a09556.html">Group</a> of the events. </td></tr>
-  </table>
-  </dd>
-</dl>
-</div></td></tr>
-<tr class="memitem:a705a161e762a0ca58971b7a376ce28c7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a705a161e762a0ca58971b7a376ce28c7">DelayEventsToMax</a> (<a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> delay, <a class="el" href="../../db/d2d/a05520.html#a25815b10222ec6ab8acd0ed3e4c77745">GroupIndex</a> group)</td></tr>
-<tr class="separator:a705a161e762a0ca58971b7a376ce28c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">CancelEvent</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><p >Cancels all events of the specified id.</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">eventId</td><td><a class="el" href="../../d7/d66/a05524.html">Event</a> id to cancel. </td></tr>
-  </table>
-  </dd>
-</dl>
-</div></td></tr>
-<tr class="memitem:a7ac4ba62a2215f4f3ff7fe1a863d6bc9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a7ac4ba62a2215f4f3ff7fe1a863d6bc9">CancelEvent</a> (<a class="el" href="../../db/d2d/a05520.html#adff26dc38a974d3a842938d1298d3f2a">EventId</a> eventId)</td></tr>
-<tr class="separator:a7ac4ba62a2215f4f3ff7fe1a863d6bc9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">CancelEventGroup</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><p >Cancel events belonging to specified group.</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">group</td><td><a class="el" href="../../d4/df9/a09556.html">Group</a> to cancel. </td></tr>
-  </table>
-  </dd>
-</dl>
-</div></td></tr>
-<tr class="memitem:abfc33922284c3ceb967a4195c0a5c67a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#abfc33922284c3ceb967a4195c0a5c67a">CancelEventGroup</a> (<a class="el" href="../../db/d2d/a05520.html#a25815b10222ec6ab8acd0ed3e4c77745">GroupIndex</a> group)</td></tr>
-<tr class="separator:abfc33922284c3ceb967a4195c0a5c67a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">IsInPhase</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><p >Returns whether event map is in specified phase or not.</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">phase</td><td>Wanted phase. </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section return"><dt>Returns</dt><dd>True, if phase of event map contains specified phase. </dd></dl>
-</div></td></tr>
-<tr class="memitem:a5ce4dfb6a1468c184aa4c8e4127ba29b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a5ce4dfb6a1468c184aa4c8e4127ba29b">IsInPhase</a> (<a class="el" href="../../db/d2d/a05520.html#a19766953283ff7ce0f6ce0dce41fd183">PhaseIndex</a> <a class="el" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a>) const</td></tr>
-<tr class="separator:a5ce4dfb6a1468c184aa4c8e4127ba29b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">GetTimeUntilEvent</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><p >Returns time as std::chrono type until next event.</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">eventId</td><td>The id of the event. </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section return"><dt>Returns</dt><dd>Time of next event. If event is not scheduled returns Milliseconds::max() </dd>
-<dd>
-Time of next event. </dd></dl>
-</div></td></tr>
-<tr class="memitem:a3a08d0ff08241f3b5841eaf9d8d5ef22"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a3a08d0ff08241f3b5841eaf9d8d5ef22">GetTimeUntilEvent</a> (<a class="el" href="../../db/d2d/a05520.html#adff26dc38a974d3a842938d1298d3f2a">EventId</a> eventId) const</td></tr>
-<tr class="separator:a3a08d0ff08241f3b5841eaf9d8d5ef22"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">HasTimeUntilEvent</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><p >Returns whether an event is scheduled</p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">eventId</td><td>The id of the event. </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section return"><dt>Returns</dt><dd>True if event is scheduled </dd></dl>
-</div></td></tr>
-<tr class="memitem:a40b956090fb03afea7bda154e82904d3"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a40b956090fb03afea7bda154e82904d3">HasTimeUntilEvent</a> (<a class="el" href="../../db/d2d/a05520.html#adff26dc38a974d3a842938d1298d3f2a">EventId</a> eventId) const</td></tr>
-<tr class="separator:a40b956090fb03afea7bda154e82904d3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acd0d1988a60808384e2cc0dba8735cd3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#acd0d1988a60808384e2cc0dba8735cd3">Event</a> ()=default</td></tr>
+<tr class="separator:acd0d1988a60808384e2cc0dba8735cd3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0c6f6d46b2210c42e41fbeb1241c9e7d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a0c6f6d46b2210c42e41fbeb1241c9e7d">Event</a> (<a class="el" href="../../d3/dd7/a05516.html#adff26dc38a974d3a842938d1298d3f2a">EventId</a> id, <a class="el" href="../../d3/dd7/a05516.html#a25815b10222ec6ab8acd0ed3e4c77745">GroupIndex</a> groupIndex, <a class="el" href="../../d3/dd7/a05516.html#a19766953283ff7ce0f6ce0dce41fd183">PhaseIndex</a> phaseIndex)</td></tr>
+<tr class="separator:a0c6f6d46b2210c42e41fbeb1241c9e7d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-types" name="pri-types"></a>
-Private Types</h2></td></tr>
-<tr class="memitem:adff26dc38a974d3a842938d1298d3f2a"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#adff26dc38a974d3a842938d1298d3f2a">EventId</a> = <a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></td></tr>
-<tr class="separator:adff26dc38a974d3a842938d1298d3f2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a25815b10222ec6ab8acd0ed3e4c77745"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a25815b10222ec6ab8acd0ed3e4c77745">GroupIndex</a> = <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td></tr>
-<tr class="separator:a25815b10222ec6ab8acd0ed3e4c77745"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9111adc2d1531529b7af314111f81ecf"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a9111adc2d1531529b7af314111f81ecf">GroupMask</a> = <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td></tr>
-<tr class="separator:a9111adc2d1531529b7af314111f81ecf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a19766953283ff7ce0f6ce0dce41fd183"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a19766953283ff7ce0f6ce0dce41fd183">PhaseIndex</a> = <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td></tr>
-<tr class="separator:a19766953283ff7ce0f6ce0dce41fd183"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89844f3f326e2dda128017bb832d79ba"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a89844f3f326e2dda128017bb832d79ba">PhaseMask</a> = <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td></tr>
-<tr class="separator:a89844f3f326e2dda128017bb832d79ba"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a37aa596970888e2621f37415bd0afb8b"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a37aa596970888e2621f37415bd0afb8b">EventStore</a> = std::multimap&lt; <a class="el" href="../../d9/d82/a04718.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a>, <a class="el" href="../../d7/d66/a05524.html">Event</a> &gt;</td></tr>
-<tr class="separator:a37aa596970888e2621f37415bd0afb8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr><td colspan="2"><div class="groupHeader">_time</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><p >Internal timer.</p>
-<p >This does not represent the real date/time value. It's more like a stopwatch: It can run, it can be stopped, it can be resetted and so on. Events occur when this timer has reached their time value. Its value is changed in the Update method. </p>
-</div></td></tr>
-<tr class="memitem:a2f8e0a2f1ec2012b3dead75b8082b624"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d82/a04718.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a2f8e0a2f1ec2012b3dead75b8082b624">_time</a> { TimePoint::min() }</td></tr>
-<tr class="separator:a2f8e0a2f1ec2012b3dead75b8082b624"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">_phaseMask</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><p >Phase mask of the event map.</p>
-<p >Contains the phases the event map is in. Multiple phases from 1 to 8 can be set with SetPhase or AddPhase. RemovePhase deactives a phase. </p>
-</div></td></tr>
-<tr class="memitem:aadbd2ba435b34b93d6fb004f57c3caf7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d2d/a05520.html#a89844f3f326e2dda128017bb832d79ba">PhaseMask</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#aadbd2ba435b34b93d6fb004f57c3caf7">_phaseMask</a> { 0 }</td></tr>
-<tr class="separator:aadbd2ba435b34b93d6fb004f57c3caf7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">_lastEvent</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><p >Stores information on the most recently executed event </p>
-</div></td></tr>
-<tr class="memitem:a403d1b4f9716f6d063c32df093307fb1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d66/a05524.html">Event</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a403d1b4f9716f6d063c32df093307fb1">_lastEvent</a></td></tr>
-<tr class="separator:a403d1b4f9716f6d063c32df093307fb1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr><td colspan="2"><div class="groupHeader">_eventMap</div></td></tr>
-<tr><td colspan="2"><div class="groupText"><p >Internal event storage map. Contains the scheduled events.</p>
-<p >See typedef at the beginning of the class for more details. </p>
-</div></td></tr>
-<tr class="memitem:a38afdbed1ad555c2de1aa48c5c81793a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d2d/a05520.html#a37aa596970888e2621f37415bd0afb8b">EventStore</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a></td></tr>
-<tr class="separator:a38afdbed1ad555c2de1aa48c5c81793a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a7b60d3d526fd45833d87165d8356f896"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dd7/a05516.html#adff26dc38a974d3a842938d1298d3f2a">EventId</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a7b60d3d526fd45833d87165d8356f896">_id</a> = 0u</td></tr>
+<tr class="separator:a7b60d3d526fd45833d87165d8356f896"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7f752259eafab986537db2d70c56d211"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dd7/a05516.html#a9111adc2d1531529b7af314111f81ecf">GroupMask</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#a7f752259eafab986537db2d70c56d211">_groupMask</a> = 0u</td></tr>
+<tr class="separator:a7f752259eafab986537db2d70c56d211"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afce8fa5e187a1c2110a06c70707db247"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/dd7/a05516.html#a89844f3f326e2dda128017bb832d79ba">PhaseMask</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/d2d/a05520.html#afce8fa5e187a1c2110a06c70707db247">_phaseMask</a> = 0u</td></tr>
+<tr class="separator:afce8fa5e187a1c2110a06c70707db247"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="adff26dc38a974d3a842938d1298d3f2a" name="adff26dc38a974d3a842938d1298d3f2a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adff26dc38a974d3a842938d1298d3f2a">&#9670;&#160;</a></span>EventId</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="acd0d1988a60808384e2cc0dba8735cd3" name="acd0d1988a60808384e2cc0dba8735cd3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acd0d1988a60808384e2cc0dba8735cd3">&#9670;&#160;</a></span>Event() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -379,144 +140,52 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="../../db/d2d/a05520.html#adff26dc38a974d3a842938d1298d3f2a">EventMap::EventId</a> =  <a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a37aa596970888e2621f37415bd0afb8b" name="a37aa596970888e2621f37415bd0afb8b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a37aa596970888e2621f37415bd0afb8b">&#9670;&#160;</a></span>EventStore</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../db/d2d/a05520.html#a37aa596970888e2621f37415bd0afb8b">EventMap::EventStore</a> =  std::multimap&lt;<a class="el" href="../../d9/d82/a04718.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a>, <a class="el" href="../../d7/d66/a05524.html">Event</a>&gt;</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<p >Internal storage type. Key: Time as TimePoint when the event should occur. </p>
-
-</div>
-</div>
-<a id="a25815b10222ec6ab8acd0ed3e4c77745" name="a25815b10222ec6ab8acd0ed3e4c77745"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a25815b10222ec6ab8acd0ed3e4c77745">&#9670;&#160;</a></span>GroupIndex</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../db/d2d/a05520.html#a25815b10222ec6ab8acd0ed3e4c77745">EventMap::GroupIndex</a> =  <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a9111adc2d1531529b7af314111f81ecf" name="a9111adc2d1531529b7af314111f81ecf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9111adc2d1531529b7af314111f81ecf">&#9670;&#160;</a></span>GroupMask</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../db/d2d/a05520.html#a9111adc2d1531529b7af314111f81ecf">EventMap::GroupMask</a> =  <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a19766953283ff7ce0f6ce0dce41fd183" name="a19766953283ff7ce0f6ce0dce41fd183"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a19766953283ff7ce0f6ce0dce41fd183">&#9670;&#160;</a></span>PhaseIndex</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../db/d2d/a05520.html#a19766953283ff7ce0f6ce0dce41fd183">EventMap::PhaseIndex</a> =  <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a89844f3f326e2dda128017bb832d79ba" name="a89844f3f326e2dda128017bb832d79ba"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a89844f3f326e2dda128017bb832d79ba">&#9670;&#160;</a></span>PhaseMask</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="../../db/d2d/a05520.html#a89844f3f326e2dda128017bb832d79ba">EventMap::PhaseMask</a> =  <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a1b71cae296258c8b1b2ad12bfed09fed" name="a1b71cae296258c8b1b2ad12bfed09fed"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1b71cae296258c8b1b2ad12bfed09fed">&#9670;&#160;</a></span>EventMap()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">EventMap::EventMap </td>
+          <td class="memname">EventMap::Event::Event </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a0c6f6d46b2210c42e41fbeb1241c9e7d" name="a0c6f6d46b2210c42e41fbeb1241c9e7d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0c6f6d46b2210c42e41fbeb1241c9e7d">&#9670;&#160;</a></span>Event() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">EventMap::Event::Event </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/dd7/a05516.html#adff26dc38a974d3a842938d1298d3f2a">EventId</a>&#160;</td>
+          <td class="paramname"><em>id</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d3/dd7/a05516.html#a25815b10222ec6ab8acd0ed3e4c77745">GroupIndex</a>&#160;</td>
+          <td class="paramname"><em>groupIndex</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d3/dd7/a05516.html#a19766953283ff7ce0f6ce0dce41fd183">PhaseIndex</a>&#160;</td>
+          <td class="paramname"><em>phaseIndex</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -525,938 +194,60 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   54</span>{ }</div>
+<div class="fragment"><div class="line"><span class="lineno">   35</span>                                                                        :</div>
+<div class="line"><span class="lineno">   36</span>            <a class="code hl_variable" href="../../db/d2d/a05520.html#a7b60d3d526fd45833d87165d8356f896">_id</a>(<span class="keywordtype">id</span>),</div>
+<div class="line"><span class="lineno">   37</span>            <a class="code hl_variable" href="../../db/d2d/a05520.html#a7f752259eafab986537db2d70c56d211">_groupMask</a>(groupIndex ? <a class="code hl_typedef" href="../../d3/dd7/a05516.html#a9111adc2d1531529b7af314111f81ecf">GroupMask</a>(1u &lt;&lt; (groupIndex - 1u)) : 0u),</div>
+<div class="line"><span class="lineno">   38</span>            <a class="code hl_variable" href="../../db/d2d/a05520.html#afce8fa5e187a1c2110a06c70707db247">_phaseMask</a>(phaseIndex ? <a class="code hl_typedef" href="../../d3/dd7/a05516.html#a89844f3f326e2dda128017bb832d79ba">PhaseMask</a>(1u &lt;&lt; (phaseIndex - 1u)) : 0u)</div>
+<div class="line"><span class="lineno">   39</span>        {</div>
+<div class="line"><span class="lineno">   40</span>        }</div>
+<div class="ttc" id="aa05516_html_a89844f3f326e2dda128017bb832d79ba"><div class="ttname"><a href="../../d3/dd7/a05516.html#a89844f3f326e2dda128017bb832d79ba">EventMap::PhaseMask</a></div><div class="ttdeci">uint8 PhaseMask</div><div class="ttdef"><b>Definition:</b> EventMap.h:31</div></div>
+<div class="ttc" id="aa05516_html_a9111adc2d1531529b7af314111f81ecf"><div class="ttname"><a href="../../d3/dd7/a05516.html#a9111adc2d1531529b7af314111f81ecf">EventMap::GroupMask</a></div><div class="ttdeci">uint8 GroupMask</div><div class="ttdef"><b>Definition:</b> EventMap.h:29</div></div>
+<div class="ttc" id="aa05520_html_a7b60d3d526fd45833d87165d8356f896"><div class="ttname"><a href="../../db/d2d/a05520.html#a7b60d3d526fd45833d87165d8356f896">EventMap::Event::_id</a></div><div class="ttdeci">EventId _id</div><div class="ttdef"><b>Definition:</b> EventMap.h:42</div></div>
+<div class="ttc" id="aa05520_html_a7f752259eafab986537db2d70c56d211"><div class="ttname"><a href="../../db/d2d/a05520.html#a7f752259eafab986537db2d70c56d211">EventMap::Event::_groupMask</a></div><div class="ttdeci">GroupMask _groupMask</div><div class="ttdef"><b>Definition:</b> EventMap.h:43</div></div>
+<div class="ttc" id="aa05520_html_afce8fa5e187a1c2110a06c70707db247"><div class="ttname"><a href="../../db/d2d/a05520.html#afce8fa5e187a1c2110a06c70707db247">EventMap::Event::_phaseMask</a></div><div class="ttdeci">PhaseMask _phaseMask</div><div class="ttdef"><b>Definition:</b> EventMap.h:44</div></div>
 </div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="a0524f37e4b240a0c1f8c7922f0db5c3b" name="a0524f37e4b240a0c1f8c7922f0db5c3b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0524f37e4b240a0c1f8c7922f0db5c3b">&#9670;&#160;</a></span>AddPhase()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void EventMap::AddPhase </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#a19766953283ff7ce0f6ce0dce41fd183">PhaseIndex</a>&#160;</td>
-          <td class="paramname"><em>phase</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   37</span>{</div>
-<div class="line"><span class="lineno">   38</span>    <span class="keywordflow">if</span> (<a class="code hl_enumeration" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a> &amp;&amp; <a class="code hl_enumeration" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a> &lt;= <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../db/d2d/a05520.html#a89844f3f326e2dda128017bb832d79ba">PhaseMask</a>) * 8)</div>
-<div class="line"><span class="lineno">   39</span>        <a class="code hl_variable" href="../../db/d2d/a05520.html#aadbd2ba435b34b93d6fb004f57c3caf7">_phaseMask</a> |= <a class="code hl_typedef" href="../../db/d2d/a05520.html#a89844f3f326e2dda128017bb832d79ba">PhaseMask</a>(1u &lt;&lt; (<a class="code hl_enumeration" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a> - 1u));</div>
-<div class="line"><span class="lineno">   40</span>}</div>
-<div class="ttc" id="aa02831_html_a4432ad5c680b2372adf2f56998516c6d"><div class="ttname"><a href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a></div><div class="ttdeci">phase</div><div class="ttdef"><b>Definition:</b> boss_skadi.cpp:99</div></div>
-<div class="ttc" id="aa05520_html_a89844f3f326e2dda128017bb832d79ba"><div class="ttname"><a href="../../db/d2d/a05520.html#a89844f3f326e2dda128017bb832d79ba">EventMap::PhaseMask</a></div><div class="ttdeci">uint8 PhaseMask</div><div class="ttdef"><b>Definition:</b> EventMap.h:31</div></div>
-<div class="ttc" id="aa05520_html_aadbd2ba435b34b93d6fb004f57c3caf7"><div class="ttname"><a href="../../db/d2d/a05520.html#aadbd2ba435b34b93d6fb004f57c3caf7">EventMap::_phaseMask</a></div><div class="ttdeci">PhaseMask _phaseMask</div><div class="ttdef"><b>Definition:</b> EventMap.h:268</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00268">_phaseMask</a>.</p>
-
-</div>
-</div>
-<a id="a7ac4ba62a2215f4f3ff7fe1a863d6bc9" name="a7ac4ba62a2215f4f3ff7fe1a863d6bc9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7ac4ba62a2215f4f3ff7fe1a863d6bc9">&#9670;&#160;</a></span>CancelEvent()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void EventMap::CancelEvent </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#adff26dc38a974d3a842938d1298d3f2a">EventId</a>&#160;</td>
-          <td class="paramname"><em>eventId</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  161</span>{</div>
-<div class="line"><span class="lineno">  162</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../db/d2d/a05520.html#a33c576737784c87296aaad32b7f388c6">Empty</a>())</div>
-<div class="line"><span class="lineno">  163</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  164</span> </div>
-<div class="line"><span class="lineno">  165</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.begin(); itr != <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.end();)</div>
-<div class="line"><span class="lineno">  166</span>    {</div>
-<div class="line"><span class="lineno">  167</span>        <span class="keywordflow">if</span> (eventId == itr-&gt;second._id)</div>
-<div class="line"><span class="lineno">  168</span>        {</div>
-<div class="line"><span class="lineno">  169</span>            itr = <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.erase(itr);</div>
-<div class="line"><span class="lineno">  170</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  171</span>        }</div>
-<div class="line"><span class="lineno">  172</span> </div>
-<div class="line"><span class="lineno">  173</span>        ++itr;</div>
-<div class="line"><span class="lineno">  174</span>    }</div>
-<div class="line"><span class="lineno">  175</span>}</div>
-<div class="ttc" id="aa05520_html_a33c576737784c87296aaad32b7f388c6"><div class="ttname"><a href="../../db/d2d/a05520.html#a33c576737784c87296aaad32b7f388c6">EventMap::Empty</a></div><div class="ttdeci">bool Empty() const</div><div class="ttdef"><b>Definition:</b> EventMap.h:95</div></div>
-<div class="ttc" id="aa05520_html_a38afdbed1ad555c2de1aa48c5c81793a"><div class="ttname"><a href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">EventMap::_eventMap</a></div><div class="ttdeci">EventStore _eventMap</div><div class="ttdef"><b>Definition:</b> EventMap.h:283</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00283">_eventMap</a>, and <a class="el" href="../../#l00095">Empty()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00231">go_suppression_device::go_suppression_deviceAI::Deactivate()</a>, <a class="el" href="../../#l00200">go_suppression_device::go_suppression_deviceAI::DoAction()</a>, <a class="el" href="../../#l00190">BattlegroundWS::EventPlayerCapturedFlag()</a>, <a class="el" href="../../#l00268">BattlegroundWS::EventPlayerClickedOnFlag()</a>, <a class="el" href="../../#l00307">BattlegroundAB::EventPlayerClickedOnFlag()</a>, <a class="el" href="../../#l00804">npc_high_overlord_saurfang_igb::npc_high_overlord_saurfang_igbAI::JustEngagedWith()</a>, <a class="el" href="../../#l01140">npc_muradin_bronzebeard_igb::npc_muradin_bronzebeard_igbAI::JustEngagedWith()</a>, <a class="el" href="../../#l00037">BattlegroundDS::PostUpdateImpl()</a>, <a class="el" href="../../#l00064">RescheduleEvent()</a>, <a class="el" href="../../#l00151">BattlegroundWS::RespawnFlagAfterDrop()</a>, <a class="el" href="../../#l00355">npc_blackhand_incarcerator::npc_blackhand_incarceratorAI::SetData()</a>, <a class="el" href="../../#l00263">instance_blackwing_lair::instance_blackwing_lair_InstanceMapScript::SetData()</a>, <a class="el" href="../../#l00672">instance_ulduar::instance_ulduar_InstanceMapScript::SetData()</a>, <a class="el" href="../../#l00366">instance_blackwing_lair::instance_blackwing_lair_InstanceMapScript::Update()</a>, and <a class="el" href="../../#l00570">npc_simon_bunny::npc_simon_bunnyAI::UpdateAI()</a>.</p>
-
-</div>
-</div>
-<a id="abfc33922284c3ceb967a4195c0a5c67a" name="abfc33922284c3ceb967a4195c0a5c67a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abfc33922284c3ceb967a4195c0a5c67a">&#9670;&#160;</a></span>CancelEventGroup()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void EventMap::CancelEventGroup </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#a25815b10222ec6ab8acd0ed3e4c77745">GroupIndex</a>&#160;</td>
-          <td class="paramname"><em>group</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  178</span>{</div>
-<div class="line"><span class="lineno">  179</span>    <span class="keywordflow">if</span> (!group || group &gt; <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../db/d2d/a05520.html#a9111adc2d1531529b7af314111f81ecf">GroupMask</a>) * 8 || <a class="code hl_function" href="../../db/d2d/a05520.html#a33c576737784c87296aaad32b7f388c6">Empty</a>())</div>
-<div class="line"><span class="lineno">  180</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  181</span> </div>
-<div class="line"><span class="lineno">  182</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.begin(); itr != <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.end();)</div>
-<div class="line"><span class="lineno">  183</span>    {</div>
-<div class="line"><span class="lineno">  184</span>        <span class="keywordflow">if</span> (itr-&gt;second._groupMask &amp; <a class="code hl_typedef" href="../../db/d2d/a05520.html#a9111adc2d1531529b7af314111f81ecf">GroupMask</a>(1u &lt;&lt; (group - 1u)))</div>
-<div class="line"><span class="lineno">  185</span>        {</div>
-<div class="line"><span class="lineno">  186</span>            <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.erase(itr);</div>
-<div class="line"><span class="lineno">  187</span>            itr = <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.begin();</div>
-<div class="line"><span class="lineno">  188</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  189</span>        }</div>
-<div class="line"><span class="lineno">  190</span> </div>
-<div class="line"><span class="lineno">  191</span>        ++itr;</div>
-<div class="line"><span class="lineno">  192</span>    }</div>
-<div class="line"><span class="lineno">  193</span>}</div>
-<div class="ttc" id="aa05520_html_a9111adc2d1531529b7af314111f81ecf"><div class="ttname"><a href="../../db/d2d/a05520.html#a9111adc2d1531529b7af314111f81ecf">EventMap::GroupMask</a></div><div class="ttdeci">uint8 GroupMask</div><div class="ttdef"><b>Definition:</b> EventMap.h:29</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00283">_eventMap</a>, and <a class="el" href="../../#l00095">Empty()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00624">npc_simon_bunny::npc_simon_bunnyAI::DoAction()</a>, and <a class="el" href="../../#l00454">boss_ragnaros::boss_ragnarosAI::HandleEmerge()</a>.</p>
-
-</div>
-</div>
-<a id="a3f143a095160ff5221c1a5c310db6a0f" name="a3f143a095160ff5221c1a5c310db6a0f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3f143a095160ff5221c1a5c310db6a0f">&#9670;&#160;</a></span>DelayEvents() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void EventMap::DelayEvents </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
-          <td class="paramname"><em>delay</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  109</span>{</div>
-<div class="line"><span class="lineno">  110</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../db/d2d/a05520.html#a33c576737784c87296aaad32b7f388c6">Empty</a>())</div>
-<div class="line"><span class="lineno">  111</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  112</span> </div>
-<div class="line"><span class="lineno">  113</span>    <a class="code hl_typedef" href="../../db/d2d/a05520.html#a37aa596970888e2621f37415bd0afb8b">EventStore</a> delayed = std::move(<a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>);</div>
-<div class="line"><span class="lineno">  114</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> itr = delayed.begin(); itr != delayed.end();)</div>
-<div class="line"><span class="lineno">  115</span>    {</div>
-<div class="line"><span class="lineno">  116</span>        <span class="keyword">auto</span> node = delayed.extract(itr++);</div>
-<div class="line"><span class="lineno">  117</span>        node.key() = node.key() + delay;</div>
-<div class="line"><span class="lineno">  118</span>        <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.insert(<a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.end(), std::move(node));</div>
-<div class="line"><span class="lineno">  119</span>    }</div>
-<div class="line"><span class="lineno">  120</span>}</div>
-<div class="ttc" id="aa05520_html_a37aa596970888e2621f37415bd0afb8b"><div class="ttname"><a href="../../db/d2d/a05520.html#a37aa596970888e2621f37415bd0afb8b">EventMap::EventStore</a></div><div class="ttdeci">std::multimap&lt; TimePoint, Event &gt; EventStore</div><div class="ttdef"><b>Definition:</b> EventMap.h:51</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00283">_eventMap</a>, and <a class="el" href="../../#l00095">Empty()</a>.</p>
-
-</div>
-</div>
-<a id="a189d69ebb255c93a47ddc23088e2d302" name="a189d69ebb255c93a47ddc23088e2d302"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a189d69ebb255c93a47ddc23088e2d302">&#9670;&#160;</a></span>DelayEvents() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void EventMap::DelayEvents </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
-          <td class="paramname"><em>delay</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#a25815b10222ec6ab8acd0ed3e4c77745">GroupIndex</a>&#160;</td>
-          <td class="paramname"><em>group</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  123</span>{</div>
-<div class="line"><span class="lineno">  124</span>    <span class="keywordflow">if</span> (group &gt; <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../db/d2d/a05520.html#a9111adc2d1531529b7af314111f81ecf">GroupMask</a>) * 8 || <a class="code hl_function" href="../../db/d2d/a05520.html#a33c576737784c87296aaad32b7f388c6">Empty</a>())</div>
-<div class="line"><span class="lineno">  125</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  126</span> </div>
-<div class="line"><span class="lineno">  127</span>    <a class="code hl_typedef" href="../../db/d2d/a05520.html#a37aa596970888e2621f37415bd0afb8b">EventStore</a> delayed;</div>
-<div class="line"><span class="lineno">  128</span> </div>
-<div class="line"><span class="lineno">  129</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.begin(); itr != <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.end();)</div>
-<div class="line"><span class="lineno">  130</span>    {</div>
-<div class="line"><span class="lineno">  131</span>        <span class="keywordflow">if</span> (!group || (itr-&gt;second._groupMask &amp; <a class="code hl_typedef" href="../../db/d2d/a05520.html#a9111adc2d1531529b7af314111f81ecf">GroupMask</a>(1u &lt;&lt; (group - 1u))))</div>
-<div class="line"><span class="lineno">  132</span>        {</div>
-<div class="line"><span class="lineno">  133</span>            delayed.emplace(itr-&gt;first + delay, itr-&gt;second);</div>
-<div class="line"><span class="lineno">  134</span>            itr = <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.erase(itr);</div>
-<div class="line"><span class="lineno">  135</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  136</span>        }</div>
-<div class="line"><span class="lineno">  137</span> </div>
-<div class="line"><span class="lineno">  138</span>        ++itr;</div>
-<div class="line"><span class="lineno">  139</span>    }</div>
-<div class="line"><span class="lineno">  140</span> </div>
-<div class="line"><span class="lineno">  141</span>    <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.insert(delayed.begin(), delayed.end());</div>
-<div class="line"><span class="lineno">  142</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00283">_eventMap</a>, and <a class="el" href="../../#l00095">Empty()</a>.</p>
-
-</div>
-</div>
-<a id="a705a161e762a0ca58971b7a376ce28c7" name="a705a161e762a0ca58971b7a376ce28c7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a705a161e762a0ca58971b7a376ce28c7">&#9670;&#160;</a></span>DelayEventsToMax()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void EventMap::DelayEventsToMax </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
-          <td class="paramname"><em>delay</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#a25815b10222ec6ab8acd0ed3e4c77745">GroupIndex</a>&#160;</td>
-          <td class="paramname"><em>group</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  145</span>{</div>
-<div class="line"><span class="lineno">  146</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> itr = <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.begin(); itr != <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.end();)</div>
-<div class="line"><span class="lineno">  147</span>    {</div>
-<div class="line"><span class="lineno">  148</span>        <span class="keywordflow">if</span> (itr-&gt;first &lt; <a class="code hl_variable" href="../../db/d2d/a05520.html#a2f8e0a2f1ec2012b3dead75b8082b624">_time</a> + delay &amp;&amp; (!group || (itr-&gt;second._groupMask &amp; <a class="code hl_typedef" href="../../db/d2d/a05520.html#a9111adc2d1531529b7af314111f81ecf">GroupMask</a>(1u &lt;&lt; (group - 1u)))))</div>
-<div class="line"><span class="lineno">  149</span>        {</div>
-<div class="line"><span class="lineno">  150</span>            <a class="code hl_function" href="../../db/d2d/a05520.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(itr-&gt;second._id, delay, group);</div>
-<div class="line"><span class="lineno">  151</span>            <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.erase(itr);</div>
-<div class="line"><span class="lineno">  152</span>            itr = <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.begin();</div>
-<div class="line"><span class="lineno">  153</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  154</span>        }</div>
-<div class="line"><span class="lineno">  155</span> </div>
-<div class="line"><span class="lineno">  156</span>        ++itr;</div>
-<div class="line"><span class="lineno">  157</span>    }</div>
-<div class="line"><span class="lineno">  158</span>}</div>
-<div class="ttc" id="aa05520_html_a2f8e0a2f1ec2012b3dead75b8082b624"><div class="ttname"><a href="../../db/d2d/a05520.html#a2f8e0a2f1ec2012b3dead75b8082b624">EventMap::_time</a></div><div class="ttdeci">TimePoint _time</div><div class="ttdef"><b>Definition:</b> EventMap.h:258</div></div>
-<div class="ttc" id="aa05520_html_aec6dde1456f6f7f802c3bda4cf4b713f"><div class="ttname"><a href="../../db/d2d/a05520.html#aec6dde1456f6f7f802c3bda4cf4b713f">EventMap::ScheduleEvent</a></div><div class="ttdeci">void ScheduleEvent(EventId eventId, Milliseconds time, GroupIndex group=0u, PhaseIndex phase=0u)</div><div class="ttdef"><b>Definition:</b> EventMap.cpp:48</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00283">_eventMap</a>, <a class="el" href="../../#l00258">_time</a>, and <a class="el" href="../../#l00048">ScheduleEvent()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00122">boss_faction_championsAI::EventMapGCD()</a>.</p>
-
-</div>
-</div>
-<a id="a33c576737784c87296aaad32b7f388c6" name="a33c576737784c87296aaad32b7f388c6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a33c576737784c87296aaad32b7f388c6">&#9670;&#160;</a></span>Empty()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool EventMap::Empty </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   96</span>    {</div>
-<div class="line"><span class="lineno">   97</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.empty();</div>
-<div class="line"><span class="lineno">   98</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00283">_eventMap</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00160">CancelEvent()</a>, <a class="el" href="../../#l00177">CancelEventGroup()</a>, <a class="el" href="../../#l00108">DelayEvents()</a>, <a class="el" href="../../#l00086">ExecuteEvent()</a>, <a class="el" href="../../#l00366">instance_blackwing_lair::instance_blackwing_lair_InstanceMapScript::Update()</a>, <a class="el" href="../../#l01178">instance_ulduar::instance_ulduar_InstanceMapScript::Update()</a>, <a class="el" href="../../#l00260">boss_ragnaros::boss_ragnarosAI::UpdateAI()</a>, and <a class="el" href="../../#l01863">npc_arthas_teleport_visual::npc_arthas_teleport_visualAI::UpdateAI()</a>.</p>
-
-</div>
-</div>
-<a id="a435dd6db2c6fbbaf80467b7a617c4237" name="a435dd6db2c6fbbaf80467b7a617c4237"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a435dd6db2c6fbbaf80467b7a617c4237">&#9670;&#160;</a></span>ExecuteEvent()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d2d/a05520.html#adff26dc38a974d3a842938d1298d3f2a">EventMap::EventId</a> EventMap::ExecuteEvent </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   87</span>{</div>
-<div class="line"><span class="lineno">   88</span>    <span class="keywordflow">while</span> (!<a class="code hl_function" href="../../db/d2d/a05520.html#a33c576737784c87296aaad32b7f388c6">Empty</a>())</div>
-<div class="line"><span class="lineno">   89</span>    {</div>
-<div class="line"><span class="lineno">   90</span>        <span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr = <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.begin();</div>
-<div class="line"><span class="lineno">   91</span> </div>
-<div class="line"><span class="lineno">   92</span>        <span class="keywordflow">if</span> (itr-&gt;first &gt; <a class="code hl_variable" href="../../db/d2d/a05520.html#a2f8e0a2f1ec2012b3dead75b8082b624">_time</a>)</div>
-<div class="line"><span class="lineno">   93</span>            <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">   94</span>        <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/d2d/a05520.html#aadbd2ba435b34b93d6fb004f57c3caf7">_phaseMask</a> &amp;&amp; itr-&gt;second._phaseMask &amp;&amp; !(itr-&gt;second._phaseMask &amp; <a class="code hl_variable" href="../../db/d2d/a05520.html#aadbd2ba435b34b93d6fb004f57c3caf7">_phaseMask</a>))</div>
-<div class="line"><span class="lineno">   95</span>            <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.erase(itr);</div>
-<div class="line"><span class="lineno">   96</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   97</span>        {</div>
-<div class="line"><span class="lineno">   98</span>            <span class="keyword">auto</span> eventId = itr-&gt;second._id;</div>
-<div class="line"><span class="lineno">   99</span>            <a class="code hl_variable" href="../../db/d2d/a05520.html#a403d1b4f9716f6d063c32df093307fb1">_lastEvent</a> = itr-&gt;second;</div>
-<div class="line"><span class="lineno">  100</span>            <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.erase(itr);</div>
-<div class="line"><span class="lineno">  101</span>            <span class="keywordflow">return</span> eventId;</div>
-<div class="line"><span class="lineno">  102</span>        }</div>
-<div class="line"><span class="lineno">  103</span>    }</div>
-<div class="line"><span class="lineno">  104</span> </div>
-<div class="line"><span class="lineno">  105</span>    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  106</span>}</div>
-<div class="ttc" id="aa05520_html_a403d1b4f9716f6d063c32df093307fb1"><div class="ttname"><a href="../../db/d2d/a05520.html#a403d1b4f9716f6d063c32df093307fb1">EventMap::_lastEvent</a></div><div class="ttdeci">Event _lastEvent</div><div class="ttdef"><b>Definition:</b> EventMap.h:274</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00283">_eventMap</a>, <a class="el" href="../../#l00274">_lastEvent</a>, <a class="el" href="../../#l00268">_phaseMask</a>, <a class="el" href="../../#l00258">_time</a>, and <a class="el" href="../../#l00095">Empty()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00052">BattlegroundAB::PostUpdateImpl()</a>, <a class="el" href="../../#l00037">BattlegroundDS::PostUpdateImpl()</a>, <a class="el" href="../../#l00058">BattlegroundEY::PostUpdateImpl()</a>, <a class="el" href="../../#l00057">BattlegroundWS::PostUpdateImpl()</a>, <a class="el" href="../../#l00366">instance_blackwing_lair::instance_blackwing_lair_InstanceMapScript::Update()</a>, <a class="el" href="../../#l00160">instance_sunken_temple::instance_sunken_temple_InstanceMapScript::Update()</a>, <a class="el" href="../../#l00192">instance_old_hillsbrad::instance_old_hillsbrad_InstanceMapScript::Update()</a>, <a class="el" href="../../#l00605">instance_naxxramas::Update()</a>, <a class="el" href="../../#l01178">instance_ulduar::instance_ulduar_InstanceMapScript::Update()</a>, <a class="el" href="../../#l00418">go_bear_trap::go_bear_trapAI::UpdateAI()</a>, <a class="el" href="../../#l00901">go_gilded_brazier::go_gilded_brazierAI::UpdateAI()</a>, <a class="el" href="../../#l01814">go_bells::go_bellsAI::UpdateAI()</a>, <a class="el" href="../../#l00953">boss_sartharion_dragonAI::UpdateAI()</a>, <a class="el" href="../../#l00189">boss_ambassador_flamelash::boss_ambassador_flamelashAI::UpdateAI()</a>, <a class="el" href="../../#l00214">boss_doomrel::boss_doomrelAI::UpdateAI()</a>, <a class="el" href="../../#l00387">npc_blackhand_incarcerator::npc_blackhand_incarceratorAI::UpdateAI()</a>, <a class="el" href="../../#l00958">npc_vaelastrasz_the_red::npc_vaelastrasz_the_redAI::UpdateAI()</a>, <a class="el" href="../../#l00177">go_suppression_device::go_suppression_deviceAI::UpdateAI()</a>, <a class="el" href="../../#l00148">boss_vaelastrasz::boss_vaelAI::UpdateAI()</a>, <a class="el" href="../../#l00260">boss_ragnaros::boss_ragnarosAI::UpdateAI()</a>, <a class="el" href="../../#l00136">boss_kirtonos_the_herald::boss_kirtonos_the_heraldAI::UpdateAI()</a>, <a class="el" href="../../#l00173">npc_cameron::UpdateAI()</a>, <a class="el" href="../../#l00295">npc_supervisor_raelen::UpdateAI()</a>, <a class="el" href="../../#l00412">npc_eastvale_peasent::UpdateAI()</a>, <a class="el" href="../../#l00054">npc_partygoer_pather::UpdateAI()</a>, <a class="el" href="../../#l00145">npc_partygoer::UpdateAI()</a>, <a class="el" href="../../#l00177">npc_sentinel_leader::UpdateAI()</a>, <a class="el" href="../../#l00326">npc_sentinel_infiltrator::UpdateAI()</a>, <a class="el" href="../../#l00150">npc_lady_sylvanas_windrunner::npc_lady_sylvanas_windrunnerAI::UpdateAI()</a>, <a class="el" href="../../#l01489">npc_varian_wrynn::npc_varian_wrynnAI::UpdateAI()</a>, <a class="el" href="../../#l02071">npc_jaina_proudmoore_bfu::npc_jaina_proudmoore_bfuAI::UpdateAI()</a>, <a class="el" href="../../#l02142">boss_blight_worm::boss_blight_wormAI::UpdateAI()</a>, <a class="el" href="../../#l02909">npc_thrall_bfu::npc_thrall_bfuAI::UpdateAI()</a>, <a class="el" href="../../#l03971">npc_lady_sylvanas_windrunner_bfu::npc_lady_sylvanas_windrunner_bfuAI::UpdateAI()</a>, <a class="el" href="../../#l00361">npc_zulian_prowler::npc_zulian_prowlerAI::UpdateAI()</a>, <a class="el" href="../../#l01672">npc_coren_direbrew::UpdateAI()</a>, <a class="el" href="../../#l00666">npc_arthas::npc_arthasAI::UpdateAI()</a>, <a class="el" href="../../#l00469">npc_stillpine_capitive::npc_stillpine_capitiveAI::UpdateAI()</a>, <a class="el" href="../../#l00481">npc_rabid_thistle_bear::npc_rabid_thistle_bearAI::UpdateAI()</a>, <a class="el" href="../../#l00571">npc_tharnarian::npc_tharnarianAI::UpdateAI()</a>, <a class="el" href="../../#l00220">npc_tiger_matriarch::npc_tiger_matriarchAI::UpdateAI()</a>, <a class="el" href="../../#l00453">boss_sartharion::boss_sartharionAI::UpdateAI()</a>, <a class="el" href="../../#l00297">npc_baltharus_the_warborn_clone::npc_baltharus_the_warborn_cloneAI::UpdateAI()</a>, <a class="el" href="../../#l00408">npc_xerestrasza::npc_xerestraszaAI::UpdateAI()</a>, <a class="el" href="../../#l00348">boss_halion::boss_halionAI::UpdateAI()</a>, <a class="el" href="../../#l00516">boss_twilight_halion::boss_twilight_halionAI::UpdateAI()</a>, <a class="el" href="../../#l00630">npc_halion_controller::npc_halion_controllerAI::UpdateAI()</a>, <a class="el" href="../../#l00117">boss_trollgore::boss_trollgoreAI::UpdateAI()</a>, <a class="el" href="../../#l00135">boss_moorabi::boss_moorabiAI::UpdateAI()</a>, <a class="el" href="../../#l01133">npc_blood_queen_lana_thel::npc_blood_queen_lana_thelAI::UpdateAI()</a>, <a class="el" href="../../#l01419">npc_kinetic_bomb::npc_kinetic_bombAI::UpdateAI()</a>, <a class="el" href="../../#l00665">npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::UpdateAI()</a>, <a class="el" href="../../#l00906">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>, <a class="el" href="../../#l00907">npc_high_overlord_saurfang_igb::npc_high_overlord_saurfang_igbAI::UpdateAI()</a>, <a class="el" href="../../#l01243">npc_muradin_bronzebeard_igb::npc_muradin_bronzebeard_igbAI::UpdateAI()</a>, <a class="el" href="../../#l01699">npc_gunship_boarding_leader::npc_gunship_boarding_leaderAI::UpdateAI()</a>, <a class="el" href="../../#l01268">npc_spinestalker::npc_spinestalkerAI::UpdateAI()</a>, <a class="el" href="../../#l01414">npc_rimefang::npc_rimefangAI::UpdateAI()</a>, <a class="el" href="../../#l01628">npc_sindragosa_trash::npc_sindragosa_trashAI::UpdateAI()</a>, <a class="el" href="../../#l01380">npc_tirion_fordring_tft::npc_tirion_fordringAI::UpdateAI()</a>, <a class="el" href="../../#l01794">npc_shambling_horror_icc::npc_shambling_horror_iccAI::UpdateAI()</a>, <a class="el" href="../../#l02260">npc_raging_spirit::npc_raging_spiritAI::UpdateAI()</a>, <a class="el" href="../../#l02534">npc_valkyr_shadowguard::npc_valkyr_shadowguardAI::UpdateAI()</a>, <a class="el" href="../../#l02998">npc_strangulate_vehicle::npc_strangulate_vehicleAI::UpdateAI()</a>, <a class="el" href="../../#l03123">npc_terenas_menethil::npc_terenas_menethilAI::UpdateAI()</a>, <a class="el" href="../../#l03284">npc_spirit_warden::npc_spirit_wardenAI::UpdateAI()</a>, <a class="el" href="../../#l00434">boss_valithria_dreamwalker::boss_valithria_dreamwalkerAI::UpdateAI()</a>, <a class="el" href="../../#l00663">npc_the_lich_king_controller::npc_the_lich_king_controllerAI::UpdateAI()</a>, <a class="el" href="../../#l00755">npc_risen_archmage::npc_risen_archmageAI::UpdateAI()</a>, <a class="el" href="../../#l00865">npc_valithria_cloud::npc_valithria_cloudAI::UpdateAI()</a>, <a class="el" href="../../#l00922">npc_blazing_skeleton::npc_blazing_skeletonAI::UpdateAI()</a>, <a class="el" href="../../#l01106">npc_gluttonous_abomination::npc_gluttonous_abominationAI::UpdateAI()</a>, <a class="el" href="../../#l00456">npc_highlord_tirion_fordring_lh::npc_highlord_tirion_fordringAI::UpdateAI()</a>, <a class="el" href="../../#l00616">npc_rotting_frost_giant::npc_rotting_frost_giantAI::UpdateAI()</a>, <a class="el" href="../../#l00689">npc_frost_freeze_trap::npc_frost_freeze_trapAI::UpdateAI()</a>, <a class="el" href="../../#l00889">npc_crok_scourgebane::npc_crok_scourgebaneAI::UpdateAI()</a>, <a class="el" href="../../#l01666">npc_frostwing_vrykul::npc_frostwing_vrykulAI::UpdateAI()</a>, <a class="el" href="../../#l01863">npc_arthas_teleport_visual::npc_arthas_teleport_visualAI::UpdateAI()</a>, <a class="el" href="../../#l00176">npc_ioc_gunship_captain::npc_ioc_gunship_captainAI::UpdateAI()</a>, <a class="el" href="../../#l00737">npc_naxxramas_trigger::UpdateAI()</a>, <a class="el" href="../../#l00204">npc_spark_of_ionar::UpdateAI()</a>, <a class="el" href="../../#l00146">npc_enslaved_proto_drake::UpdateAI()</a>, <a class="el" href="../../#l00211">boss_svala::boss_svalaAI::UpdateAI()</a>, <a class="el" href="../../#l00631">npc_beryl_sorcerer::npc_beryl_sorcererAI::UpdateAI()</a>, <a class="el" href="../../#l00706">npc_captured_beryl_sorcerer::npc_captured_beryl_sorcererAI::UpdateAI()</a>, <a class="el" href="../../#l01296">npc_hidden_cultist::npc_hidden_cultistAI::UpdateAI()</a>, <a class="el" href="../../#l01441">npc_bloodmage_laurith::npc_bloodmage_laurithAI::UpdateAI()</a>, <a class="el" href="../../#l01567">npc_thassarian::npc_thassarianAI::UpdateAI()</a>, <a class="el" href="../../#l01663">npc_thassarian2::npc_thassarian2AI::UpdateAI()</a>, <a class="el" href="../../#l02075">npc_counselor_talbot::npc_counselor_talbotAI::UpdateAI()</a>, <a class="el" href="../../#l00188">npc_shandy_dalaran::npc_shandy_dalaranAI::UpdateAI()</a>, <a class="el" href="../../#l01952">npc_commander_eligor_dawnbringer::npc_commander_eligor_dawnbringerAI::UpdateAI()</a>, <a class="el" href="../../#l02149">npc_torturer_lecraft::npc_torturer_lecraftAI::UpdateAI()</a>, <a class="el" href="../../#l00472">npc_amberpine_woodsman::npc_amberpine_woodsmanAI::UpdateAI()</a>, <a class="el" href="../../#l00754">npc_venture_co_straggler::npc_venture_co_stragglerAI::UpdateAI()</a>, <a class="el" href="../../#l00870">npc_lake_frog::npc_lake_frogAI::UpdateAI()</a>, <a class="el" href="../../#l00822">npc_crusade_recruit::npc_crusade_recruitAI::UpdateAI()</a>, <a class="el" href="../../#l00332">npc_frozen_core::UpdateAI()</a>, <a class="el" href="../../#l00413">npc_ahune_bunny::UpdateAI()</a>, <a class="el" href="../../#l00553">npc_earthen_ring_flamecaller::UpdateAI()</a>, <a class="el" href="../../#l00143">npc_millhouse_manastorm::npc_millhouse_manastormAI::UpdateAI()</a>, <a class="el" href="../../#l00570">npc_simon_bunny::npc_simon_bunnyAI::UpdateAI()</a>, <a class="el" href="../../#l00499">npc_magister_aledis::UpdateAI()</a>, <a class="el" href="../../#l00057">npc_pet_shaman_earth_elemental::UpdateAI()</a>, <a class="el" href="../../#l00105">npc_pet_shaman_fire_elemental::UpdateAI()</a>, <a class="el" href="../../#l00480">go_l70_etc_music::go_l70_etc_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00551">go_brewfest_music::go_brewfest_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00698">go_pirate_day_music::go_pirate_day_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00753">go_darkmoon_faire_music::go_darkmoon_faire_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00808">go_midsummer_music::go_midsummer_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00895">npc_thrall_old_hillsbrad::npc_thrall_old_hillsbradAI::UpdateEscortAI()</a>, <a class="el" href="../../#l00274">npc_magwin::npc_magwinAI::UpdateEscortAI()</a>, <a class="el" href="../../#l00256">npc_onyx_flamecaller::npc_onyx_flamecallerAI::UpdateEscortAI()</a>, and <a class="el" href="../../#l00519">npc_jenny::UpdateFollowerAI()</a>.</p>
-
-</div>
-</div>
-<a id="a3f881166ade0ad6fc12d6dcd539555ff" name="a3f881166ade0ad6fc12d6dcd539555ff"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3f881166ade0ad6fc12d6dcd539555ff">&#9670;&#160;</a></span>GetPhaseMask()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/d2d/a05520.html#a89844f3f326e2dda128017bb832d79ba">PhaseMask</a> EventMap::GetPhaseMask </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   87</span>    {</div>
-<div class="line"><span class="lineno">   88</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../db/d2d/a05520.html#aadbd2ba435b34b93d6fb004f57c3caf7">_phaseMask</a>;</div>
-<div class="line"><span class="lineno">   89</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00268">_phaseMask</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00538">npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::DoAction()</a>, <a class="el" href="../../#l00799">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::DoAction()</a>, <a class="el" href="../../#l00131">boss_ragnaros::boss_ragnarosAI::Reset()</a>, and <a class="el" href="../../#l01133">npc_blood_queen_lana_thel::npc_blood_queen_lana_thelAI::UpdateAI()</a>.</p>
-
-</div>
-</div>
-<a id="a3a08d0ff08241f3b5841eaf9d8d5ef22" name="a3a08d0ff08241f3b5841eaf9d8d5ef22"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3a08d0ff08241f3b5841eaf9d8d5ef22">&#9670;&#160;</a></span>GetTimeUntilEvent()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a> EventMap::GetTimeUntilEvent </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#adff26dc38a974d3a842938d1298d3f2a">EventId</a>&#160;</td>
-          <td class="paramname"><em>eventId</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  201</span>{</div>
-<div class="line"><span class="lineno">  202</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; [time, event] : <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>)</div>
-<div class="line"><span class="lineno">  203</span>        <span class="keywordflow">if</span> (eventId == event._id)</div>
-<div class="line"><span class="lineno">  204</span>            <span class="keywordflow">return</span> std::chrono::duration_cast&lt;Milliseconds&gt;(time - <a class="code hl_variable" href="../../db/d2d/a05520.html#a2f8e0a2f1ec2012b3dead75b8082b624">_time</a>);</div>
-<div class="line"><span class="lineno">  205</span> </div>
-<div class="line"><span class="lineno">  206</span>    <span class="keywordflow">return</span> Milliseconds::max();</div>
-<div class="line"><span class="lineno">  207</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00283">_eventMap</a>, and <a class="el" href="../../#l00258">_time</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00209">HasTimeUntilEvent()</a>.</p>
-
-</div>
-</div>
-<a id="a40b956090fb03afea7bda154e82904d3" name="a40b956090fb03afea7bda154e82904d3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a40b956090fb03afea7bda154e82904d3">&#9670;&#160;</a></span>HasTimeUntilEvent()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool EventMap::HasTimeUntilEvent </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#adff26dc38a974d3a842938d1298d3f2a">EventId</a>&#160;</td>
-          <td class="paramname"><em>eventId</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  210</span>{</div>
-<div class="line"><span class="lineno">  211</span>    <span class="keywordflow">return</span> <a class="code hl_function" href="../../db/d2d/a05520.html#a3a08d0ff08241f3b5841eaf9d8d5ef22">GetTimeUntilEvent</a>(eventId) != Milliseconds::max();</div>
-<div class="line"><span class="lineno">  212</span>}</div>
-<div class="ttc" id="aa05520_html_a3a08d0ff08241f3b5841eaf9d8d5ef22"><div class="ttname"><a href="../../db/d2d/a05520.html#a3a08d0ff08241f3b5841eaf9d8d5ef22">EventMap::GetTimeUntilEvent</a></div><div class="ttdeci">Milliseconds GetTimeUntilEvent(EventId eventId) const</div><div class="ttdef"><b>Definition:</b> EventMap.cpp:200</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00200">GetTimeUntilEvent()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00579">BattlegroundWS::GetAssaultSpellId()</a>, <a class="el" href="../../#l00478">boss_twilight_halion::boss_twilight_halionAI::KilledUnit()</a>, and <a class="el" href="../../#l00342">instance_blackwing_lair::instance_blackwing_lair_InstanceMapScript::OnUnitDeath()</a>.</p>
-
-</div>
-</div>
-<a id="a5ce4dfb6a1468c184aa4c8e4127ba29b" name="a5ce4dfb6a1468c184aa4c8e4127ba29b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5ce4dfb6a1468c184aa4c8e4127ba29b">&#9670;&#160;</a></span>IsInPhase()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool EventMap::IsInPhase </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#a19766953283ff7ce0f6ce0dce41fd183">PhaseIndex</a>&#160;</td>
-          <td class="paramname"><em>phase</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  196</span>{</div>
-<div class="line"><span class="lineno">  197</span>    <span class="keywordflow">return</span> <a class="code hl_enumeration" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a> &lt;= <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../db/d2d/a05520.html#a19766953283ff7ce0f6ce0dce41fd183">PhaseIndex</a>) * 8 &amp;&amp; (!<a class="code hl_enumeration" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a> || <a class="code hl_variable" href="../../db/d2d/a05520.html#aadbd2ba435b34b93d6fb004f57c3caf7">_phaseMask</a> &amp; <a class="code hl_typedef" href="../../db/d2d/a05520.html#a89844f3f326e2dda128017bb832d79ba">PhaseMask</a>(1u &lt;&lt; (<a class="code hl_enumeration" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a> - 1u)));</div>
-<div class="line"><span class="lineno">  198</span>}</div>
-<div class="ttc" id="aa05520_html_a19766953283ff7ce0f6ce0dce41fd183"><div class="ttname"><a href="../../db/d2d/a05520.html#a19766953283ff7ce0f6ce0dce41fd183">EventMap::PhaseIndex</a></div><div class="ttdeci">uint8 PhaseIndex</div><div class="ttdef"><b>Definition:</b> EventMap.h:30</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00268">_phaseMask</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01620">npc_coren_direbrew::DamageTaken()</a>, <a class="el" href="../../#l01586">npc_coren_direbrew::MoveInLineOfSight()</a>, and <a class="el" href="../../#l01672">npc_coren_direbrew::UpdateAI()</a>.</p>
-
-</div>
-</div>
-<a id="a6bcc57cdfcbe9053c7324fb82bd03255" name="a6bcc57cdfcbe9053c7324fb82bd03255"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6bcc57cdfcbe9053c7324fb82bd03255">&#9670;&#160;</a></span>RemovePhase()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void EventMap::RemovePhase </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#a19766953283ff7ce0f6ce0dce41fd183">PhaseIndex</a>&#160;</td>
-          <td class="paramname"><em>phase</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   43</span>{</div>
-<div class="line"><span class="lineno">   44</span>    <span class="keywordflow">if</span> (<a class="code hl_enumeration" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a> &amp;&amp; <a class="code hl_enumeration" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a> &lt;= <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../db/d2d/a05520.html#a89844f3f326e2dda128017bb832d79ba">PhaseMask</a>) * 8)</div>
-<div class="line"><span class="lineno">   45</span>        <a class="code hl_variable" href="../../db/d2d/a05520.html#aadbd2ba435b34b93d6fb004f57c3caf7">_phaseMask</a> &amp;= <a class="code hl_typedef" href="../../db/d2d/a05520.html#a89844f3f326e2dda128017bb832d79ba">PhaseMask</a>(~(1u &lt;&lt; (<a class="code hl_enumeration" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a> - 1u)));</div>
-<div class="line"><span class="lineno">   46</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00268">_phaseMask</a>.</p>
-
-</div>
-</div>
-<a id="a6b1b46ba3c9bdb2b0f8bbc83babcbb7d" name="a6b1b46ba3c9bdb2b0f8bbc83babcbb7d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6b1b46ba3c9bdb2b0f8bbc83babcbb7d">&#9670;&#160;</a></span>Repeat() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void EventMap::Repeat </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
-          <td class="paramname"><em>minTime</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
-          <td class="paramname"><em>maxTime</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   82</span>{</div>
-<div class="line"><span class="lineno">   83</span>    <a class="code hl_function" href="../../db/d2d/a05520.html#a34b5df29c85bce0873752b353a13fe5b">Repeat</a>(<a class="code hl_function" href="../../de/d5f/a04763.html#a9ecda65ea9686c86f47934d04d38ec69">randtime</a>(minTime, maxTime));</div>
-<div class="line"><span class="lineno">   84</span>}</div>
-<div class="ttc" id="aa04763_html_a9ecda65ea9686c86f47934d04d38ec69"><div class="ttname"><a href="../../de/d5f/a04763.html#a9ecda65ea9686c86f47934d04d38ec69">randtime</a></div><div class="ttdeci">Milliseconds randtime(Milliseconds min, Milliseconds max)</div><div class="ttdef"><b>Definition:</b> Random.cpp:64</div></div>
-<div class="ttc" id="aa05520_html_a34b5df29c85bce0873752b353a13fe5b"><div class="ttname"><a href="../../db/d2d/a05520.html#a34b5df29c85bce0873752b353a13fe5b">EventMap::Repeat</a></div><div class="ttdeci">void Repeat(Milliseconds time)</div><div class="ttdef"><b>Definition:</b> EventMap.cpp:76</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00064">randtime()</a>, and <a class="el" href="../../#l00076">Repeat()</a>.</p>
-
-</div>
-</div>
-<a id="a34b5df29c85bce0873752b353a13fe5b" name="a34b5df29c85bce0873752b353a13fe5b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a34b5df29c85bce0873752b353a13fe5b">&#9670;&#160;</a></span>Repeat() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void EventMap::Repeat </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
-          <td class="paramname"><em>time</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   77</span>{</div>
-<div class="line"><span class="lineno">   78</span>    <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.emplace(<a class="code hl_variable" href="../../db/d2d/a05520.html#a2f8e0a2f1ec2012b3dead75b8082b624">_time</a> + time, <a class="code hl_variable" href="../../db/d2d/a05520.html#a403d1b4f9716f6d063c32df093307fb1">_lastEvent</a>);</div>
-<div class="line"><span class="lineno">   79</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00283">_eventMap</a>, <a class="el" href="../../#l00274">_lastEvent</a>, and <a class="el" href="../../#l00258">_time</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00081">Repeat()</a>, <a class="el" href="../../#l01178">instance_ulduar::instance_ulduar_InstanceMapScript::Update()</a>, <a class="el" href="../../#l00260">boss_ragnaros::boss_ragnarosAI::UpdateAI()</a>, <a class="el" href="../../#l01672">npc_coren_direbrew::UpdateAI()</a>, <a class="el" href="../../#l00666">npc_arthas::npc_arthasAI::UpdateAI()</a>, <a class="el" href="../../#l00453">boss_sartharion::boss_sartharionAI::UpdateAI()</a>, <a class="el" href="../../#l01414">npc_rimefang::npc_rimefangAI::UpdateAI()</a>, <a class="el" href="../../#l00737">npc_naxxramas_trigger::UpdateAI()</a>, <a class="el" href="../../#l00204">npc_spark_of_ionar::UpdateAI()</a>, <a class="el" href="../../#l00332">npc_frozen_core::UpdateAI()</a>, and <a class="el" href="../../#l00413">npc_ahune_bunny::UpdateAI()</a>.</p>
-
-</div>
-</div>
-<a id="aa88b5c1db544487187ce0782d2a0070f" name="aa88b5c1db544487187ce0782d2a0070f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa88b5c1db544487187ce0782d2a0070f">&#9670;&#160;</a></span>RescheduleEvent() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void EventMap::RescheduleEvent </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#adff26dc38a974d3a842938d1298d3f2a">EventId</a>&#160;</td>
-          <td class="paramname"><em>eventId</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
-          <td class="paramname"><em>minTime</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
-          <td class="paramname"><em>maxTime</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#a25815b10222ec6ab8acd0ed3e4c77745">GroupIndex</a>&#160;</td>
-          <td class="paramname"><em>group</em> = <code>0u</code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#a19766953283ff7ce0f6ce0dce41fd183">PhaseIndex</a>&#160;</td>
-          <td class="paramname"><em>phase</em> = <code>0u</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   65</span>{</div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_function" href="../../db/d2d/a05520.html#a7ac4ba62a2215f4f3ff7fe1a863d6bc9">CancelEvent</a>(eventId);</div>
-<div class="line"><span class="lineno">   67</span>    <a class="code hl_function" href="../../db/d2d/a05520.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(eventId, <a class="code hl_function" href="../../de/d5f/a04763.html#a9ecda65ea9686c86f47934d04d38ec69">randtime</a>(minTime, maxTime), group, <a class="code hl_enumeration" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a>);</div>
-<div class="line"><span class="lineno">   68</span>}</div>
-<div class="ttc" id="aa05520_html_a7ac4ba62a2215f4f3ff7fe1a863d6bc9"><div class="ttname"><a href="../../db/d2d/a05520.html#a7ac4ba62a2215f4f3ff7fe1a863d6bc9">EventMap::CancelEvent</a></div><div class="ttdeci">void CancelEvent(EventId eventId)</div><div class="ttdef"><b>Definition:</b> EventMap.cpp:160</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00160">CancelEvent()</a>, <a class="el" href="../../#l00064">randtime()</a>, and <a class="el" href="../../#l00048">ScheduleEvent()</a>.</p>
-
-</div>
-</div>
-<a id="a651b6c730aabef8d4eb176973442f190" name="a651b6c730aabef8d4eb176973442f190"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a651b6c730aabef8d4eb176973442f190">&#9670;&#160;</a></span>RescheduleEvent() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void EventMap::RescheduleEvent </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#adff26dc38a974d3a842938d1298d3f2a">EventId</a>&#160;</td>
-          <td class="paramname"><em>eventId</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
-          <td class="paramname"><em>time</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#a25815b10222ec6ab8acd0ed3e4c77745">GroupIndex</a>&#160;</td>
-          <td class="paramname"><em>group</em> = <code>0u</code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#a19766953283ff7ce0f6ce0dce41fd183">PhaseIndex</a>&#160;</td>
-          <td class="paramname"><em>phase</em> = <code>0u</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   71</span>{</div>
-<div class="line"><span class="lineno">   72</span>    <a class="code hl_function" href="../../db/d2d/a05520.html#a7ac4ba62a2215f4f3ff7fe1a863d6bc9">CancelEvent</a>(eventId);</div>
-<div class="line"><span class="lineno">   73</span>    <a class="code hl_function" href="../../db/d2d/a05520.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(eventId, time, group, <a class="code hl_enumeration" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a>);</div>
-<div class="line"><span class="lineno">   74</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00160">CancelEvent()</a>, and <a class="el" href="../../#l00048">ScheduleEvent()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00193">instance_naxxramas::ActivateWingPortal()</a>, <a class="el" href="../../#l00220">BattlegroundAB::CreateBanner()</a>, <a class="el" href="../../#l01400">npc_kinetic_bomb::npc_kinetic_bombAI::DoAction()</a>, <a class="el" href="../../#l00744">boss_sartharion_dragonAI::DoAction()</a>, <a class="el" href="../../#l00534">BattlegroundEY::EventPlayerCapturedFlag()</a>, <a class="el" href="../../#l00268">BattlegroundWS::EventPlayerClickedOnFlag()</a>, <a class="el" href="../../#l00307">BattlegroundAB::EventPlayerClickedOnFlag()</a>, <a class="el" href="../../#l00410">BattlegroundEY::EventPlayerDroppedFlag()</a>, <a class="el" href="../../#l00238">BattlegroundWS::EventPlayerDroppedFlag()</a>, <a class="el" href="../../#l00182">instance_ulduar::instance_ulduar_InstanceMapScript::OnPlayerEnter()</a>, <a class="el" href="../../#l00221">boss_halion::boss_halionAI::Reset()</a>, <a class="el" href="../../#l01385">npc_kinetic_bomb::npc_kinetic_bombAI::Reset()</a>, <a class="el" href="../../#l00437">instance_naxxramas::SetBossState()</a>, <a class="el" href="../../#l00672">instance_ulduar::instance_ulduar_InstanceMapScript::SetData()</a>, <a class="el" href="../../#l00260">boss_ragnaros::boss_ragnarosAI::UpdateAI()</a>, <a class="el" href="../../#l02998">npc_strangulate_vehicle::npc_strangulate_vehicleAI::UpdateAI()</a>, and <a class="el" href="../../#l00188">npc_shandy_dalaran::npc_shandy_dalaranAI::UpdateAI()</a>.</p>
-
-</div>
-</div>
-<a id="afd6b5b23aa26797b6de1275c70268808" name="afd6b5b23aa26797b6de1275c70268808"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afd6b5b23aa26797b6de1275c70268808">&#9670;&#160;</a></span>Reset()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void EventMap::Reset </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   22</span>{</div>
-<div class="line"><span class="lineno">   23</span>    <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.clear();</div>
-<div class="line"><span class="lineno">   24</span>    <a class="code hl_variable" href="../../db/d2d/a05520.html#a2f8e0a2f1ec2012b3dead75b8082b624">_time</a> = TimePoint::min();</div>
-<div class="line"><span class="lineno">   25</span>    <a class="code hl_variable" href="../../db/d2d/a05520.html#aadbd2ba435b34b93d6fb004f57c3caf7">_phaseMask</a> = 0;</div>
-<div class="line"><span class="lineno">   26</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00283">_eventMap</a>, <a class="el" href="../../#l00268">_phaseMask</a>, and <a class="el" href="../../#l00258">_time</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l03097">npc_terenas_menethil::npc_terenas_menethilAI::DamageTaken()</a>, <a class="el" href="../../#l00480">npc_magister_aledis::DamageTaken()</a>, <a class="el" href="../../#l00121">boss_kirtonos_the_herald::boss_kirtonos_the_heraldAI::DoAction()</a>, <a class="el" href="../../#l00610">npc_halion_controller::npc_halion_controllerAI::DoAction()</a>, <a class="el" href="../../#l02964">npc_strangulate_vehicle::npc_strangulate_vehicleAI::DoAction()</a>, <a class="el" href="../../#l03069">npc_terenas_menethil::npc_terenas_menethilAI::DoAction()</a>, <a class="el" href="../../#l00319">boss_valithria_dreamwalker::boss_valithria_dreamwalkerAI::DoAction()</a>, <a class="el" href="../../#l00638">npc_the_lich_king_controller::npc_the_lich_king_controllerAI::DoAction()</a>, <a class="el" href="../../#l00314">npc_frozen_core::DoAction()</a>, <a class="el" href="../../#l00381">npc_ahune_bunny::DoAction()</a>, <a class="el" href="../../#l00227">npc_spark_of_ionar::DoAction()</a>, <a class="el" href="../../#l00492">BattlegroundAB::EndBattleground()</a>, <a class="el" href="../../#l02415">npc_valkyr_shadowguard::npc_valkyr_shadowguardAI::GoSiphon()</a>, <a class="el" href="../../#l00332">boss_valithria_dreamwalker::boss_valithria_dreamwalkerAI::HealReceived()</a>, <a class="el" href="../../#l00468">BattlegroundAB::Init()</a>, <a class="el" href="../../#l00354">BattlegroundEY::Init()</a>, <a class="el" href="../../#l00490">BattlegroundWS::Init()</a>, <a class="el" href="../../#l00055">instance_old_hillsbrad::instance_old_hillsbrad_InstanceMapScript::Initialize()</a>, <a class="el" href="../../#l00147">instance_ulduar::instance_ulduar_InstanceMapScript::Initialize()</a>, <a class="el" href="../../#l00093">npc_millhouse_manastorm::npc_millhouse_manastormAI::InitializeAI()</a>, <a class="el" href="../../#l00142">instance_naxxramas::instance_naxxramas()</a>, <a class="el" href="../../#l02926">npc_strangulate_vehicle::npc_strangulate_vehicleAI::IsSummonedBy()</a>, <a class="el" href="../../#l00121">boss_ambassador_flamelash::boss_ambassador_flamelashAI::JustDied()</a>, <a class="el" href="../../#l00215">boss_ragnaros::boss_ragnarosAI::JustDied()</a>, <a class="el" href="../../#l01646">npc_coren_direbrew::JustDied()</a>, <a class="el" href="../../#l01229">npc_spinestalker::npc_spinestalkerAI::JustDied()</a>, <a class="el" href="../../#l01360">npc_rimefang::npc_rimefangAI::JustDied()</a>, <a class="el" href="../../#l00611">npc_rotting_frost_giant::npc_rotting_frost_giantAI::JustDied()</a>, <a class="el" href="../../#l00473">npc_thrall_old_hillsbrad::npc_thrall_old_hillsbradAI::JustEngagedWith()</a>, <a class="el" href="../../#l00158">npc_tiger_matriarch::npc_tiger_matriarchAI::JustEngagedWith()</a>, <a class="el" href="../../#l00289">npc_baltharus_the_warborn_clone::npc_baltharus_the_warborn_cloneAI::JustEngagedWith()</a>, <a class="el" href="../../#l00217">npc_onyx_flamecaller::npc_onyx_flamecallerAI::JustEngagedWith()</a>, <a class="el" href="../../#l00460">boss_twilight_halion::boss_twilight_halionAI::JustEngagedWith()</a>, <a class="el" href="../../#l01692">npc_gunship_boarding_leader::npc_gunship_boarding_leaderAI::JustEngagedWith()</a>, <a class="el" href="../../#l00049">npc_pet_shaman_earth_elemental::JustEngagedWith()</a>, <a class="el" href="../../#l00094">npc_pet_shaman_fire_elemental::JustEngagedWith()</a>, <a class="el" href="../../#l02451">npc_valkyr_shadowguard::npc_valkyr_shadowguardAI::MovementInform()</a>, <a class="el" href="../../#l00778">npc_high_overlord_saurfang_igb::npc_high_overlord_saurfang_igbAI::npc_high_overlord_saurfang_igbAI()</a>, <a class="el" href="../../#l01113">npc_muradin_bronzebeard_igb::npc_muradin_bronzebeard_igbAI::npc_muradin_bronzebeard_igbAI()</a>, <a class="el" href="../../#l02394">npc_valkyr_shadowguard::npc_valkyr_shadowguardAI::npc_valkyr_shadowguardAI()</a>, <a class="el" href="../../#l00088">boss_ambassador_flamelash::boss_ambassador_flamelashAI::Reset()</a>, <a class="el" href="../../#l00099">boss_vaelastrasz::boss_vaelAI::Reset()</a>, <a class="el" href="../../#l00131">boss_ragnaros::boss_ragnarosAI::Reset()</a>, <a class="el" href="../../#l00105">npc_lady_sylvanas_windrunner::npc_lady_sylvanas_windrunnerAI::Reset()</a>, <a class="el" href="../../#l01565">npc_coren_direbrew::Reset()</a>, <a class="el" href="../../#l00497">npc_arthas::npc_arthasAI::Reset()</a>, <a class="el" href="../../#l00490">npc_thrall_old_hillsbrad::npc_thrall_old_hillsbradAI::Reset()</a>, <a class="el" href="../../#l00230">npc_magwin::npc_magwinAI::Reset()</a>, <a class="el" href="../../#l00434">npc_stillpine_capitive::npc_stillpine_capitiveAI::Reset()</a>, <a class="el" href="../../#l00544">npc_tharnarian::npc_tharnarianAI::Reset()</a>, <a class="el" href="../../#l00263">boss_sartharion::boss_sartharionAI::Reset()</a>, <a class="el" href="../../#l00375">npc_xerestrasza::npc_xerestraszaAI::Reset()</a>, <a class="el" href="../../#l00221">boss_halion::boss_halionAI::Reset()</a>, <a class="el" href="../../#l00451">boss_twilight_halion::boss_twilight_halionAI::Reset()</a>, <a class="el" href="../../#l00594">npc_halion_controller::npc_halion_controllerAI::Reset()</a>, <a class="el" href="../../#l00073">boss_trollgore::boss_trollgoreAI::Reset()</a>, <a class="el" href="../../#l00081">boss_moorabi::boss_moorabiAI::Reset()</a>, <a class="el" href="../../#l01086">npc_blood_queen_lana_thel::npc_blood_queen_lana_thelAI::Reset()</a>, <a class="el" href="../../#l01385">npc_kinetic_bomb::npc_kinetic_bombAI::Reset()</a>, <a class="el" href="../../#l00531">npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::Reset()</a>, <a class="el" href="../../#l00792">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::Reset()</a>, <a class="el" href="../../#l01200">npc_spinestalker::npc_spinestalkerAI::Reset()</a>, <a class="el" href="../../#l01331">npc_rimefang::npc_rimefangAI::Reset()</a>, <a class="el" href="../../#l01572">npc_sindragosa_trash::npc_sindragosa_trashAI::Reset()</a>, <a class="el" href="../../#l01282">npc_tirion_fordring_tft::npc_tirion_fordringAI::Reset()</a>, <a class="el" href="../../#l01778">npc_shambling_horror_icc::npc_shambling_horror_iccAI::Reset()</a>, <a class="el" href="../../#l02212">npc_raging_spirit::npc_raging_spiritAI::Reset()</a>, <a class="el" href="../../#l03272">npc_spirit_warden::npc_spirit_wardenAI::Reset()</a>, <a class="el" href="../../#l00298">boss_valithria_dreamwalker::boss_valithria_dreamwalkerAI::Reset()</a>, <a class="el" href="../../#l00631">npc_the_lich_king_controller::npc_the_lich_king_controllerAI::Reset()</a>, <a class="el" href="../../#l00724">npc_risen_archmage::npc_risen_archmageAI::Reset()</a>, <a class="el" href="../../#l00852">npc_valithria_cloud::npc_valithria_cloudAI::Reset()</a>, <a class="el" href="../../#l00915">npc_blazing_skeleton::npc_blazing_skeletonAI::Reset()</a>, <a class="el" href="../../#l01087">npc_gluttonous_abomination::npc_gluttonous_abominationAI::Reset()</a>, <a class="el" href="../../#l00383">npc_highlord_tirion_fordring_lh::npc_highlord_tirion_fordringAI::Reset()</a>, <a class="el" href="../../#l00603">npc_rotting_frost_giant::npc_rotting_frost_giantAI::Reset()</a>, <a class="el" href="../../#l00729">npc_crok_scourgebane::npc_crok_scourgebaneAI::Reset()</a>, <a class="el" href="../../#l01630">npc_frostwing_vrykul::npc_frostwing_vrykulAI::Reset()</a>, <a class="el" href="../../#l01854">npc_arthas_teleport_visual::npc_arthas_teleport_visualAI::Reset()</a>, <a class="el" href="../../#l00731">npc_naxxramas_trigger::Reset()</a>, <a class="el" href="../../#l00110">npc_enslaved_proto_drake::Reset()</a>, <a class="el" href="../../#l00124">boss_svala::boss_svalaAI::Reset()</a>, <a class="el" href="../../#l01422">npc_bloodmage_laurith::npc_bloodmage_laurithAI::Reset()</a>, <a class="el" href="../../#l00143">npc_shandy_dalaran::npc_shandy_dalaranAI::Reset()</a>, <a class="el" href="../../#l02108">npc_torturer_lecraft::npc_torturer_lecraftAI::Reset()</a>, <a class="el" href="../../#l00501">npc_earthen_ring_flamecaller::Reset()</a>, <a class="el" href="../../#l00072">boss_wrath_scryer_soccothrates::Reset()</a>, <a class="el" href="../../#l00149">npc_shandy_dalaran::npc_shandy_dalaranAI::SetData()</a>, <a class="el" href="../../#l00156">npc_cameron::sOnGameEvent()</a>, <a class="el" href="../../#l00452">npc_rabid_thistle_bear::npc_rabid_thistle_bearAI::SpellHit()</a>, <a class="el" href="../../#l00686">npc_simon_bunny::npc_simon_bunnyAI::StartGame()</a>, <a class="el" href="../../#l01133">npc_blood_queen_lana_thel::npc_blood_queen_lana_thelAI::UpdateAI()</a>, <a class="el" href="../../#l03123">npc_terenas_menethil::npc_terenas_menethilAI::UpdateAI()</a>, <a class="el" href="../../#l00188">npc_shandy_dalaran::npc_shandy_dalaranAI::UpdateAI()</a>, and <a class="el" href="../../#l00413">npc_ahune_bunny::UpdateAI()</a>.</p>
-
-</div>
-</div>
-<a id="a434a4b037c2c52d9c527472400a86766" name="a434a4b037c2c52d9c527472400a86766"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a434a4b037c2c52d9c527472400a86766">&#9670;&#160;</a></span>ScheduleEvent() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void EventMap::ScheduleEvent </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#adff26dc38a974d3a842938d1298d3f2a">EventId</a>&#160;</td>
-          <td class="paramname"><em>eventId</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
-          <td class="paramname"><em>minTime</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
-          <td class="paramname"><em>maxTime</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#a25815b10222ec6ab8acd0ed3e4c77745">GroupIndex</a>&#160;</td>
-          <td class="paramname"><em>group</em> = <code>0u</code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#a19766953283ff7ce0f6ce0dce41fd183">PhaseIndex</a>&#160;</td>
-          <td class="paramname"><em>phase</em> = <code>0u</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   60</span>{</div>
-<div class="line"><span class="lineno">   61</span>    <a class="code hl_function" href="../../db/d2d/a05520.html#aec6dde1456f6f7f802c3bda4cf4b713f">ScheduleEvent</a>(eventId, <a class="code hl_function" href="../../de/d5f/a04763.html#a9ecda65ea9686c86f47934d04d38ec69">randtime</a>(minTime, maxTime), group, <a class="code hl_enumeration" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a>);</div>
-<div class="line"><span class="lineno">   62</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00064">randtime()</a>, and <a class="el" href="../../#l00048">ScheduleEvent()</a>.</p>
-
-</div>
-</div>
-<a id="aec6dde1456f6f7f802c3bda4cf4b713f" name="aec6dde1456f6f7f802c3bda4cf4b713f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aec6dde1456f6f7f802c3bda4cf4b713f">&#9670;&#160;</a></span>ScheduleEvent() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void EventMap::ScheduleEvent </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#adff26dc38a974d3a842938d1298d3f2a">EventId</a>&#160;</td>
-          <td class="paramname"><em>eventId</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
-          <td class="paramname"><em>time</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#a25815b10222ec6ab8acd0ed3e4c77745">GroupIndex</a>&#160;</td>
-          <td class="paramname"><em>group</em> = <code>0u</code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#a19766953283ff7ce0f6ce0dce41fd183">PhaseIndex</a>&#160;</td>
-          <td class="paramname"><em>phase</em> = <code>0u</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   49</span>{</div>
-<div class="line"><span class="lineno">   50</span>    <span class="keywordflow">if</span> (group &gt; <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../db/d2d/a05520.html#a9111adc2d1531529b7af314111f81ecf">GroupMask</a>) * 8)</div>
-<div class="line"><span class="lineno">   51</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   52</span> </div>
-<div class="line"><span class="lineno">   53</span>    <span class="keywordflow">if</span> (<a class="code hl_enumeration" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a> &gt; <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../db/d2d/a05520.html#a89844f3f326e2dda128017bb832d79ba">PhaseMask</a>) * 8)</div>
-<div class="line"><span class="lineno">   54</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   55</span> </div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_variable" href="../../db/d2d/a05520.html#a38afdbed1ad555c2de1aa48c5c81793a">_eventMap</a>.emplace(<a class="code hl_variable" href="../../db/d2d/a05520.html#a2f8e0a2f1ec2012b3dead75b8082b624">_time</a> + time, <a class="code hl_enumeration" href="../../d5/d95/a02720.html#a5667b805d857c6d28f83f6038a0272d3">Event</a>(eventId, group, <a class="code hl_enumeration" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a>));</div>
-<div class="line"><span class="lineno">   57</span>}</div>
-<div class="ttc" id="aa02720_html_a5667b805d857c6d28f83f6038a0272d3"><div class="ttname"><a href="../../d5/d95/a02720.html#a5667b805d857c6d28f83f6038a0272d3">Event</a></div><div class="ttdeci">Event</div><div class="ttdef"><b>Definition:</b> boss_kelthuzad.cpp:77</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00283">_eventMap</a>, and <a class="el" href="../../#l00258">_time</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00218">go_suppression_device::go_suppression_deviceAI::Activate()</a>, <a class="el" href="../../#l00133">boss_vaelastrasz::boss_vaelAI::BeginSpeech()</a>, <a class="el" href="../../#l01931">npc_commander_eligor_dawnbringer::npc_commander_eligor_dawnbringerAI::ChangeImage()</a>, <a class="el" href="../../#l00077">instance_old_hillsbrad::instance_old_hillsbrad_InstanceMapScript::CleanupInstance()</a>, <a class="el" href="../../#l03097">npc_terenas_menethil::npc_terenas_menethilAI::DamageTaken()</a>, <a class="el" href="../../#l00868">npc_crok_scourgebane::npc_crok_scourgebaneAI::DamageTaken()</a>, <a class="el" href="../../#l00480">npc_magister_aledis::DamageTaken()</a>, <a class="el" href="../../#l00144">DelayEventsToMax()</a>, <a class="el" href="../../#l00200">go_suppression_device::go_suppression_deviceAI::DoAction()</a>, <a class="el" href="../../#l00164">boss_ragnaros::boss_ragnarosAI::DoAction()</a>, <a class="el" href="../../#l00121">boss_kirtonos_the_herald::boss_kirtonos_the_heraldAI::DoAction()</a>, <a class="el" href="../../#l01603">npc_coren_direbrew::DoAction()</a>, <a class="el" href="../../#l00385">npc_xerestrasza::npc_xerestraszaAI::DoAction()</a>, <a class="el" href="../../#l00610">npc_halion_controller::npc_halion_controllerAI::DoAction()</a>, <a class="el" href="../../#l00538">npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::DoAction()</a>, <a class="el" href="../../#l00799">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::DoAction()</a>, <a class="el" href="../../#l00824">npc_high_overlord_saurfang_igb::npc_high_overlord_saurfang_igbAI::DoAction()</a>, <a class="el" href="../../#l01160">npc_muradin_bronzebeard_igb::npc_muradin_bronzebeard_igbAI::DoAction()</a>, <a class="el" href="../../#l01317">npc_tirion_fordring_tft::npc_tirion_fordringAI::DoAction()</a>, <a class="el" href="../../#l03069">npc_terenas_menethil::npc_terenas_menethilAI::DoAction()</a>, <a class="el" href="../../#l00319">boss_valithria_dreamwalker::boss_valithria_dreamwalkerAI::DoAction()</a>, <a class="el" href="../../#l00638">npc_the_lich_king_controller::npc_the_lich_king_controllerAI::DoAction()</a>, <a class="el" href="../../#l00676">npc_frost_freeze_trap::npc_frost_freeze_trapAI::DoAction()</a>, <a class="el" href="../../#l00741">npc_crok_scourgebane::npc_crok_scourgebaneAI::DoAction()</a>, <a class="el" href="../../#l00167">npc_ioc_gunship_captain::npc_ioc_gunship_captainAI::DoAction()</a>, <a class="el" href="../../#l00314">npc_frozen_core::DoAction()</a>, <a class="el" href="../../#l00381">npc_ahune_bunny::DoAction()</a>, <a class="el" href="../../#l00624">npc_simon_bunny::npc_simon_bunnyAI::DoAction()</a>, <a class="el" href="../../#l00078">boss_ambassador_flamelash::boss_ambassador_flamelashAI::DoAction()</a>, <a class="el" href="../../#l00414">npc_arthas::npc_arthasAI::DoAction()</a>, <a class="el" href="../../#l00190">BattlegroundWS::EventPlayerCapturedFlag()</a>, <a class="el" href="../../#l00544">go_brewfest_music::go_brewfest_musicAI::go_brewfest_musicAI()</a>, <a class="el" href="../../#l00748">go_darkmoon_faire_music::go_darkmoon_faire_musicAI::go_darkmoon_faire_musicAI()</a>, <a class="el" href="../../#l00475">go_l70_etc_music::go_l70_etc_musicAI::go_l70_etc_musicAI()</a>, <a class="el" href="../../#l00803">go_midsummer_music::go_midsummer_musicAI::go_midsummer_musicAI()</a>, <a class="el" href="../../#l00693">go_pirate_day_music::go_pirate_day_musicAI::go_pirate_day_musicAI()</a>, <a class="el" href="../../#l02415">npc_valkyr_shadowguard::npc_valkyr_shadowguardAI::GoSiphon()</a>, <a class="el" href="../../#l00883">go_gilded_brazier::go_gilded_brazierAI::GossipHello()</a>, <a class="el" href="../../#l02598">npc_valkyr_shadowguard::npc_valkyr_shadowguardAI::HandleSpeedChangeIfNeeded()</a>, <a class="el" href="../../#l00332">boss_valithria_dreamwalker::boss_valithria_dreamwalkerAI::HealReceived()</a>, <a class="el" href="../../#l00502">npc_jenny::Initialize()</a>, <a class="el" href="../../#l00695">npc_captured_beryl_sorcerer::npc_captured_beryl_sorcererAI::Initialize()</a>, <a class="el" href="../../#l00413">go_bear_trap::go_bear_trapAI::Initialize()</a>, <a class="el" href="../../#l00166">go_suppression_device::go_suppression_deviceAI::InitializeAI()</a>, <a class="el" href="../../#l00093">npc_millhouse_manastorm::npc_millhouse_manastormAI::InitializeAI()</a>, <a class="el" href="../../#l02926">npc_strangulate_vehicle::npc_strangulate_vehicleAI::IsSummonedBy()</a>, <a class="el" href="../../#l00107">boss_ambassador_flamelash::boss_ambassador_flamelashAI::JustEngagedWith()</a>, <a class="el" href="../../#l00194">boss_doomrel::boss_doomrelAI::JustEngagedWith()</a>, <a class="el" href="../../#l00369">npc_blackhand_incarcerator::npc_blackhand_incarceratorAI::JustEngagedWith()</a>, <a class="el" href="../../#l00171">npc_sentinel_leader::JustEngagedWith()</a>, <a class="el" href="../../#l00320">npc_sentinel_infiltrator::JustEngagedWith()</a>, <a class="el" href="../../#l00112">npc_lady_sylvanas_windrunner::npc_lady_sylvanas_windrunnerAI::JustEngagedWith()</a>, <a class="el" href="../../#l00473">npc_thrall_old_hillsbrad::npc_thrall_old_hillsbradAI::JustEngagedWith()</a>, <a class="el" href="../../#l00158">npc_tiger_matriarch::npc_tiger_matriarchAI::JustEngagedWith()</a>, <a class="el" href="../../#l00289">npc_baltharus_the_warborn_clone::npc_baltharus_the_warborn_cloneAI::JustEngagedWith()</a>, <a class="el" href="../../#l00217">npc_onyx_flamecaller::npc_onyx_flamecallerAI::JustEngagedWith()</a>, <a class="el" href="../../#l00460">boss_twilight_halion::boss_twilight_halionAI::JustEngagedWith()</a>, <a class="el" href="../../#l00804">npc_high_overlord_saurfang_igb::npc_high_overlord_saurfang_igbAI::JustEngagedWith()</a>, <a class="el" href="../../#l01140">npc_muradin_bronzebeard_igb::npc_muradin_bronzebeard_igbAI::JustEngagedWith()</a>, <a class="el" href="../../#l01692">npc_gunship_boarding_leader::npc_gunship_boarding_leaderAI::JustEngagedWith()</a>, <a class="el" href="../../#l02068">npc_counselor_talbot::npc_counselor_talbotAI::JustEngagedWith()</a>, <a class="el" href="../../#l00049">npc_pet_shaman_earth_elemental::JustEngagedWith()</a>, <a class="el" href="../../#l00094">npc_pet_shaman_fire_elemental::JustEngagedWith()</a>, <a class="el" href="../../#l00284">boss_sartharion::boss_sartharionAI::JustEngagedWith()</a>, <a class="el" href="../../#l00295">boss_halion::boss_halionAI::JustEngagedWith()</a>, <a class="el" href="../../#l00608">npc_beryl_sorcerer::npc_beryl_sorcererAI::JustEngagedWith()</a>, <a class="el" href="../../#l02115">npc_torturer_lecraft::npc_torturer_lecraftAI::JustEngagedWith()</a>, <a class="el" href="../../#l00478">boss_twilight_halion::boss_twilight_halionAI::KilledUnit()</a>, <a class="el" href="../../#l01586">npc_coren_direbrew::MoveInLineOfSight()</a>, <a class="el" href="../../#l01101">npc_blood_queen_lana_thel::npc_blood_queen_lana_thelAI::MoveInLineOfSight()</a>, <a class="el" href="../../#l00547">npc_jenny::MoveInLineOfSight()</a>, <a class="el" href="../../#l00109">boss_kirtonos_the_herald::boss_kirtonos_the_heraldAI::MovementInform()</a>, <a class="el" href="../../#l00146">npc_sentinel_leader::MovementInform()</a>, <a class="el" href="../../#l00276">npc_sentinel_infiltrator::MovementInform()</a>, <a class="el" href="../../#l00457">npc_stillpine_capitive::npc_stillpine_capitiveAI::MovementInform()</a>, <a class="el" href="../../#l00627">npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::MovementInform()</a>, <a class="el" href="../../#l00886">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::MovementInform()</a>, <a class="el" href="../../#l01290">npc_tirion_fordring_tft::npc_tirion_fordringAI::MovementInform()</a>, <a class="el" href="../../#l02451">npc_valkyr_shadowguard::npc_valkyr_shadowguardAI::MovementInform()</a>, <a class="el" href="../../#l01799">npc_commander_eligor_dawnbringer::npc_commander_eligor_dawnbringerAI::MovementInform()</a>, <a class="el" href="../../#l01653">npc_thassarian2::npc_thassarian2AI::MovementInform()</a>, <a class="el" href="../../#l02394">npc_valkyr_shadowguard::npc_valkyr_shadowguardAI::npc_valkyr_shadowguardAI()</a>, <a class="el" href="../../#l00232">instance_naxxramas::OnPlayerEnter()</a>, <a class="el" href="../../#l00342">instance_blackwing_lair::instance_blackwing_lair_InstanceMapScript::OnUnitDeath()</a>, <a class="el" href="../../#l00122">npc_cameron::PathEndReached()</a>, <a class="el" href="../../#l00393">npc_eastvale_peasent::PathEndReached()</a>, <a class="el" href="../../#l00045">npc_partygoer_pather::PathEndReached()</a>, <a class="el" href="../../#l00052">BattlegroundAB::PostUpdateImpl()</a>, <a class="el" href="../../#l00037">BattlegroundDS::PostUpdateImpl()</a>, <a class="el" href="../../#l00058">BattlegroundEY::PostUpdateImpl()</a>, <a class="el" href="../../#l00057">BattlegroundWS::PostUpdateImpl()</a>, <a class="el" href="../../#l01275">npc_hidden_cultist::npc_hidden_cultistAI::PreScript()</a>, <a class="el" href="../../#l00909">npc_lake_frog::npc_lake_frogAI::ReceiveEmote()</a>, <a class="el" href="../../#l00064">RescheduleEvent()</a>, <a class="el" href="../../#l00272">npc_supervisor_raelen::Reset()</a>, <a class="el" href="../../#l00040">npc_partygoer_pather::Reset()</a>, <a class="el" href="../../#l00140">npc_partygoer::Reset()</a>, <a class="el" href="../../#l00994">npc_varian_wrynn::npc_varian_wrynnAI::Reset()</a>, <a class="el" href="../../#l02060">npc_jaina_proudmoore_bfu::npc_jaina_proudmoore_bfuAI::Reset()</a>, <a class="el" href="../../#l02136">boss_blight_worm::boss_blight_wormAI::Reset()</a>, <a class="el" href="../../#l02321">npc_thrall_bfu::npc_thrall_bfuAI::Reset()</a>, <a class="el" href="../../#l03953">npc_lady_sylvanas_windrunner_bfu::npc_lady_sylvanas_windrunner_bfuAI::Reset()</a>, <a class="el" href="../../#l00321">npc_zulian_prowler::npc_zulian_prowlerAI::Reset()</a>, <a class="el" href="../../#l00073">boss_trollgore::boss_trollgoreAI::Reset()</a>, <a class="el" href="../../#l00081">boss_moorabi::boss_moorabiAI::Reset()</a>, <a class="el" href="../../#l01200">npc_spinestalker::npc_spinestalkerAI::Reset()</a>, <a class="el" href="../../#l01331">npc_rimefang::npc_rimefangAI::Reset()</a>, <a class="el" href="../../#l01572">npc_sindragosa_trash::npc_sindragosa_trashAI::Reset()</a>, <a class="el" href="../../#l01778">npc_shambling_horror_icc::npc_shambling_horror_iccAI::Reset()</a>, <a class="el" href="../../#l02212">npc_raging_spirit::npc_raging_spiritAI::Reset()</a>, <a class="el" href="../../#l03272">npc_spirit_warden::npc_spirit_wardenAI::Reset()</a>, <a class="el" href="../../#l00724">npc_risen_archmage::npc_risen_archmageAI::Reset()</a>, <a class="el" href="../../#l00852">npc_valithria_cloud::npc_valithria_cloudAI::Reset()</a>, <a class="el" href="../../#l00915">npc_blazing_skeleton::npc_blazing_skeletonAI::Reset()</a>, <a class="el" href="../../#l01087">npc_gluttonous_abomination::npc_gluttonous_abominationAI::Reset()</a>, <a class="el" href="../../#l00603">npc_rotting_frost_giant::npc_rotting_frost_giantAI::Reset()</a>, <a class="el" href="../../#l00729">npc_crok_scourgebane::npc_crok_scourgebaneAI::Reset()</a>, <a class="el" href="../../#l01630">npc_frostwing_vrykul::npc_frostwing_vrykulAI::Reset()</a>, <a class="el" href="../../#l01854">npc_arthas_teleport_visual::npc_arthas_teleport_visualAI::Reset()</a>, <a class="el" href="../../#l00731">npc_naxxramas_trigger::Reset()</a>, <a class="el" href="../../#l00193">npc_spark_of_ionar::Reset()</a>, <a class="el" href="../../#l00110">npc_enslaved_proto_drake::Reset()</a>, <a class="el" href="../../#l01561">npc_thassarian::npc_thassarianAI::Reset()</a>, <a class="el" href="../../#l01785">npc_commander_eligor_dawnbringer::npc_commander_eligor_dawnbringerAI::Reset()</a>, <a class="el" href="../../#l00462">npc_amberpine_woodsman::npc_amberpine_woodsmanAI::Reset()</a>, <a class="el" href="../../#l00059">ScheduleEvent()</a>, <a class="el" href="../../#l00437">instance_naxxramas::SetBossState()</a>, <a class="el" href="../../#l00222">instance_blackwing_lair::instance_blackwing_lair_InstanceMapScript::SetBossState()</a>, <a class="el" href="../../#l00151">boss_svala::boss_svalaAI::SetData()</a>, <a class="el" href="../../#l00355">npc_blackhand_incarcerator::npc_blackhand_incarceratorAI::SetData()</a>, <a class="el" href="../../#l00263">instance_blackwing_lair::instance_blackwing_lair_InstanceMapScript::SetData()</a>, <a class="el" href="../../#l00108">instance_sunken_temple::instance_sunken_temple_InstanceMapScript::SetData()</a>, <a class="el" href="../../#l00135">instance_old_hillsbrad::instance_old_hillsbrad_InstanceMapScript::SetData()</a>, <a class="el" href="../../#l00888">npc_high_overlord_saurfang_igb::npc_high_overlord_saurfang_igbAI::SetData()</a>, <a class="el" href="../../#l01224">npc_muradin_bronzebeard_igb::npc_muradin_bronzebeard_igbAI::SetData()</a>, <a class="el" href="../../#l00394">npc_highlord_tirion_fordring_lh::npc_highlord_tirion_fordringAI::SetData()</a>, <a class="el" href="../../#l00149">npc_shandy_dalaran::npc_shandy_dalaranAI::SetData()</a>, <a class="el" href="../../#l00650">npc_simon_bunny::npc_simon_bunnyAI::SetData()</a>, <a class="el" href="../../#l00279">npc_supervisor_raelen::SetData()</a>, <a class="el" href="../../#l01625">npc_thassarian2::npc_thassarian2AI::SetData()</a>, <a class="el" href="../../#l00558">npc_tharnarian::npc_tharnarianAI::SetGUID()</a>, <a class="el" href="../../#l00186">boss_ragnaros::boss_ragnarosAI::SetGUID()</a>, <a class="el" href="../../#l00121">npc_lady_sylvanas_windrunner::npc_lady_sylvanas_windrunnerAI::SetGUID()</a>, <a class="el" href="../../#l01428">npc_bloodmage_laurith::npc_bloodmage_laurithAI::SetGUID()</a>, <a class="el" href="../../#l00790">npc_high_overlord_saurfang_igb::npc_high_overlord_saurfang_igbAI::sGossipSelect()</a>, <a class="el" href="../../#l01125">npc_muradin_bronzebeard_igb::npc_muradin_bronzebeard_igbAI::sGossipSelect()</a>, <a class="el" href="../../#l00850">npc_crusade_recruit::npc_crusade_recruitAI::sGossipSelect()</a>, <a class="el" href="../../#l00156">npc_cameron::sOnGameEvent()</a>, <a class="el" href="../../#l00452">npc_rabid_thistle_bear::npc_rabid_thistle_bearAI::SpellHit()</a>, <a class="el" href="../../#l00532">npc_earthen_ring_flamecaller::SpellHit()</a>, <a class="el" href="../../#l00796">npc_venture_co_straggler::npc_venture_co_stragglerAI::SpellHit()</a>, <a class="el" href="../../#l00618">npc_beryl_sorcerer::npc_beryl_sorcererAI::SpellHit()</a>, <a class="el" href="../../#l00240">npc_magwin::npc_magwinAI::sQuestAccept()</a>, <a class="el" href="../../#l00463">npc_magister_aledis::StartFight()</a>, <a class="el" href="../../#l00686">npc_simon_bunny::npc_simon_bunnyAI::StartGame()</a>, <a class="el" href="../../#l00162">BattlegroundAB::StartingEventOpenDoors()</a>, <a class="el" href="../../#l00102">BattlegroundDS::StartingEventOpenDoors()</a>, <a class="el" href="../../#l00096">BattlegroundEY::StartingEventOpenDoors()</a>, <a class="el" href="../../#l00123">BattlegroundWS::StartingEventOpenDoors()</a>, <a class="el" href="../../#l01634">npc_coren_direbrew::SummonedCreatureDies()</a>, <a class="el" href="../../#l00619">boss_sartharion::boss_sartharionAI::SummonLavaWaves()</a>, <a class="el" href="../../#l00182">boss_ambassador_flamelash::boss_ambassador_flamelashAI::SummonSpirits()</a>, <a class="el" href="../../#l00366">instance_blackwing_lair::instance_blackwing_lair_InstanceMapScript::Update()</a>, <a class="el" href="../../#l00605">instance_naxxramas::Update()</a>, <a class="el" href="../../#l00418">go_bear_trap::go_bear_trapAI::UpdateAI()</a>, <a class="el" href="../../#l00901">go_gilded_brazier::go_gilded_brazierAI::UpdateAI()</a>, <a class="el" href="../../#l01814">go_bells::go_bellsAI::UpdateAI()</a>, <a class="el" href="../../#l00189">boss_ambassador_flamelash::boss_ambassador_flamelashAI::UpdateAI()</a>, <a class="el" href="../../#l00214">boss_doomrel::boss_doomrelAI::UpdateAI()</a>, <a class="el" href="../../#l00387">npc_blackhand_incarcerator::npc_blackhand_incarceratorAI::UpdateAI()</a>, <a class="el" href="../../#l00958">npc_vaelastrasz_the_red::npc_vaelastrasz_the_redAI::UpdateAI()</a>, <a class="el" href="../../#l00177">go_suppression_device::go_suppression_deviceAI::UpdateAI()</a>, <a class="el" href="../../#l00148">boss_vaelastrasz::boss_vaelAI::UpdateAI()</a>, <a class="el" href="../../#l00260">boss_ragnaros::boss_ragnarosAI::UpdateAI()</a>, <a class="el" href="../../#l00295">npc_supervisor_raelen::UpdateAI()</a>, <a class="el" href="../../#l00412">npc_eastvale_peasent::UpdateAI()</a>, <a class="el" href="../../#l00054">npc_partygoer_pather::UpdateAI()</a>, <a class="el" href="../../#l00145">npc_partygoer::UpdateAI()</a>, <a class="el" href="../../#l00177">npc_sentinel_leader::UpdateAI()</a>, <a class="el" href="../../#l00326">npc_sentinel_infiltrator::UpdateAI()</a>, <a class="el" href="../../#l00150">npc_lady_sylvanas_windrunner::npc_lady_sylvanas_windrunnerAI::UpdateAI()</a>, <a class="el" href="../../#l01489">npc_varian_wrynn::npc_varian_wrynnAI::UpdateAI()</a>, <a class="el" href="../../#l02071">npc_jaina_proudmoore_bfu::npc_jaina_proudmoore_bfuAI::UpdateAI()</a>, <a class="el" href="../../#l02142">boss_blight_worm::boss_blight_wormAI::UpdateAI()</a>, <a class="el" href="../../#l02909">npc_thrall_bfu::npc_thrall_bfuAI::UpdateAI()</a>, <a class="el" href="../../#l03971">npc_lady_sylvanas_windrunner_bfu::npc_lady_sylvanas_windrunner_bfuAI::UpdateAI()</a>, <a class="el" href="../../#l01672">npc_coren_direbrew::UpdateAI()</a>, <a class="el" href="../../#l00481">npc_rabid_thistle_bear::npc_rabid_thistle_bearAI::UpdateAI()</a>, <a class="el" href="../../#l00571">npc_tharnarian::npc_tharnarianAI::UpdateAI()</a>, <a class="el" href="../../#l00220">npc_tiger_matriarch::npc_tiger_matriarchAI::UpdateAI()</a>, <a class="el" href="../../#l00297">npc_baltharus_the_warborn_clone::npc_baltharus_the_warborn_cloneAI::UpdateAI()</a>, <a class="el" href="../../#l00516">boss_twilight_halion::boss_twilight_halionAI::UpdateAI()</a>, <a class="el" href="../../#l00630">npc_halion_controller::npc_halion_controllerAI::UpdateAI()</a>, <a class="el" href="../../#l00117">boss_trollgore::boss_trollgoreAI::UpdateAI()</a>, <a class="el" href="../../#l00135">boss_moorabi::boss_moorabiAI::UpdateAI()</a>, <a class="el" href="../../#l00907">npc_high_overlord_saurfang_igb::npc_high_overlord_saurfang_igbAI::UpdateAI()</a>, <a class="el" href="../../#l01243">npc_muradin_bronzebeard_igb::npc_muradin_bronzebeard_igbAI::UpdateAI()</a>, <a class="el" href="../../#l01699">npc_gunship_boarding_leader::npc_gunship_boarding_leaderAI::UpdateAI()</a>, <a class="el" href="../../#l01268">npc_spinestalker::npc_spinestalkerAI::UpdateAI()</a>, <a class="el" href="../../#l01414">npc_rimefang::npc_rimefangAI::UpdateAI()</a>, <a class="el" href="../../#l01628">npc_sindragosa_trash::npc_sindragosa_trashAI::UpdateAI()</a>, <a class="el" href="../../#l01380">npc_tirion_fordring_tft::npc_tirion_fordringAI::UpdateAI()</a>, <a class="el" href="../../#l01794">npc_shambling_horror_icc::npc_shambling_horror_iccAI::UpdateAI()</a>, <a class="el" href="../../#l02260">npc_raging_spirit::npc_raging_spiritAI::UpdateAI()</a>, <a class="el" href="../../#l02534">npc_valkyr_shadowguard::npc_valkyr_shadowguardAI::UpdateAI()</a>, <a class="el" href="../../#l03123">npc_terenas_menethil::npc_terenas_menethilAI::UpdateAI()</a>, <a class="el" href="../../#l03284">npc_spirit_warden::npc_spirit_wardenAI::UpdateAI()</a>, <a class="el" href="../../#l00434">boss_valithria_dreamwalker::boss_valithria_dreamwalkerAI::UpdateAI()</a>, <a class="el" href="../../#l00755">npc_risen_archmage::npc_risen_archmageAI::UpdateAI()</a>, <a class="el" href="../../#l00865">npc_valithria_cloud::npc_valithria_cloudAI::UpdateAI()</a>, <a class="el" href="../../#l00922">npc_blazing_skeleton::npc_blazing_skeletonAI::UpdateAI()</a>, <a class="el" href="../../#l01106">npc_gluttonous_abomination::npc_gluttonous_abominationAI::UpdateAI()</a>, <a class="el" href="../../#l00616">npc_rotting_frost_giant::npc_rotting_frost_giantAI::UpdateAI()</a>, <a class="el" href="../../#l00689">npc_frost_freeze_trap::npc_frost_freeze_trapAI::UpdateAI()</a>, <a class="el" href="../../#l00889">npc_crok_scourgebane::npc_crok_scourgebaneAI::UpdateAI()</a>, <a class="el" href="../../#l01666">npc_frostwing_vrykul::npc_frostwing_vrykulAI::UpdateAI()</a>, <a class="el" href="../../#l01863">npc_arthas_teleport_visual::npc_arthas_teleport_visualAI::UpdateAI()</a>, <a class="el" href="../../#l00176">npc_ioc_gunship_captain::npc_ioc_gunship_captainAI::UpdateAI()</a>, <a class="el" href="../../#l00146">npc_enslaved_proto_drake::UpdateAI()</a>, <a class="el" href="../../#l00211">boss_svala::boss_svalaAI::UpdateAI()</a>, <a class="el" href="../../#l00631">npc_beryl_sorcerer::npc_beryl_sorcererAI::UpdateAI()</a>, <a class="el" href="../../#l00706">npc_captured_beryl_sorcerer::npc_captured_beryl_sorcererAI::UpdateAI()</a>, <a class="el" href="../../#l01296">npc_hidden_cultist::npc_hidden_cultistAI::UpdateAI()</a>, <a class="el" href="../../#l01441">npc_bloodmage_laurith::npc_bloodmage_laurithAI::UpdateAI()</a>, <a class="el" href="../../#l01663">npc_thassarian2::npc_thassarian2AI::UpdateAI()</a>, <a class="el" href="../../#l02075">npc_counselor_talbot::npc_counselor_talbotAI::UpdateAI()</a>, <a class="el" href="../../#l00188">npc_shandy_dalaran::npc_shandy_dalaranAI::UpdateAI()</a>, <a class="el" href="../../#l01952">npc_commander_eligor_dawnbringer::npc_commander_eligor_dawnbringerAI::UpdateAI()</a>, <a class="el" href="../../#l02149">npc_torturer_lecraft::npc_torturer_lecraftAI::UpdateAI()</a>, <a class="el" href="../../#l00472">npc_amberpine_woodsman::npc_amberpine_woodsmanAI::UpdateAI()</a>, <a class="el" href="../../#l00754">npc_venture_co_straggler::npc_venture_co_stragglerAI::UpdateAI()</a>, <a class="el" href="../../#l00870">npc_lake_frog::npc_lake_frogAI::UpdateAI()</a>, <a class="el" href="../../#l00822">npc_crusade_recruit::npc_crusade_recruitAI::UpdateAI()</a>, <a class="el" href="../../#l00413">npc_ahune_bunny::UpdateAI()</a>, <a class="el" href="../../#l00553">npc_earthen_ring_flamecaller::UpdateAI()</a>, <a class="el" href="../../#l00143">npc_millhouse_manastorm::npc_millhouse_manastormAI::UpdateAI()</a>, <a class="el" href="../../#l00570">npc_simon_bunny::npc_simon_bunnyAI::UpdateAI()</a>, <a class="el" href="../../#l00499">npc_magister_aledis::UpdateAI()</a>, <a class="el" href="../../#l00057">npc_pet_shaman_earth_elemental::UpdateAI()</a>, <a class="el" href="../../#l00105">npc_pet_shaman_fire_elemental::UpdateAI()</a>, <a class="el" href="../../#l00480">go_l70_etc_music::go_l70_etc_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00551">go_brewfest_music::go_brewfest_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00698">go_pirate_day_music::go_pirate_day_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00753">go_darkmoon_faire_music::go_darkmoon_faire_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00808">go_midsummer_music::go_midsummer_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00675">npc_halion_controller::npc_halion_controllerAI::UpdateCorporeality()</a>, <a class="el" href="../../#l00274">npc_magwin::npc_magwinAI::UpdateEscortAI()</a>, <a class="el" href="../../#l00256">npc_onyx_flamecaller::npc_onyx_flamecallerAI::UpdateEscortAI()</a>, <a class="el" href="../../#l00519">npc_jenny::UpdateFollowerAI()</a>, <a class="el" href="../../#l00518">npc_arthas::npc_arthasAI::WaypointReached()</a>, and <a class="el" href="../../#l00249">npc_magwin::npc_magwinAI::WaypointReached()</a>.</p>
-
-</div>
-</div>
-<a id="a88818fb4257544910bb569efdd59d201" name="a88818fb4257544910bb569efdd59d201"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a88818fb4257544910bb569efdd59d201">&#9670;&#160;</a></span>SetPhase()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void EventMap::SetPhase </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../db/d2d/a05520.html#a19766953283ff7ce0f6ce0dce41fd183">PhaseIndex</a>&#160;</td>
-          <td class="paramname"><em>phase</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   29</span>{</div>
-<div class="line"><span class="lineno">   30</span>    <span class="keywordflow">if</span> (!<a class="code hl_enumeration" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a>)</div>
-<div class="line"><span class="lineno">   31</span>        <a class="code hl_variable" href="../../db/d2d/a05520.html#aadbd2ba435b34b93d6fb004f57c3caf7">_phaseMask</a> = 0;</div>
-<div class="line"><span class="lineno">   32</span>    <span class="keywordflow">else</span> <span class="keywordflow">if</span> (<a class="code hl_enumeration" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a> &lt;= <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../db/d2d/a05520.html#a89844f3f326e2dda128017bb832d79ba">PhaseMask</a>) * 8)</div>
-<div class="line"><span class="lineno">   33</span>        <a class="code hl_variable" href="../../db/d2d/a05520.html#aadbd2ba435b34b93d6fb004f57c3caf7">_phaseMask</a> = <a class="code hl_typedef" href="../../db/d2d/a05520.html#a89844f3f326e2dda128017bb832d79ba">PhaseMask</a>(1u &lt;&lt; (<a class="code hl_enumeration" href="../../d0/d82/a02831.html#a4432ad5c680b2372adf2f56998516c6d">phase</a> - 1u));</div>
-<div class="line"><span class="lineno">   34</span>}</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00268">_phaseMask</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01620">npc_coren_direbrew::DamageTaken()</a>, <a class="el" href="../../#l00164">boss_ragnaros::boss_ragnarosAI::DoAction()</a>, <a class="el" href="../../#l01603">npc_coren_direbrew::DoAction()</a>, <a class="el" href="../../#l00538">npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::DoAction()</a>, <a class="el" href="../../#l00799">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::DoAction()</a>, <a class="el" href="../../#l00381">npc_ahune_bunny::DoAction()</a>, <a class="el" href="../../#l00454">boss_ragnaros::boss_ragnarosAI::HandleEmerge()</a>, <a class="el" href="../../#l01586">npc_coren_direbrew::MoveInLineOfSight()</a>, <a class="el" href="../../#l01101">npc_blood_queen_lana_thel::npc_blood_queen_lana_thelAI::MoveInLineOfSight()</a>, <a class="el" href="../../#l00131">boss_ragnaros::boss_ragnarosAI::Reset()</a>, <a class="el" href="../../#l01565">npc_coren_direbrew::Reset()</a>, <a class="el" href="../../#l00260">boss_ragnaros::boss_ragnarosAI::UpdateAI()</a>, and <a class="el" href="../../#l00413">npc_ahune_bunny::UpdateAI()</a>.</p>
-
-</div>
-</div>
-<a id="aaf261b4d85f55809c7b2f66bff5142d1" name="aaf261b4d85f55809c7b2f66bff5142d1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaf261b4d85f55809c7b2f66bff5142d1">&#9670;&#160;</a></span>Update() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void EventMap::Update </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>&#160;</td>
-          <td class="paramname"><em>time</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   78</span>    {</div>
-<div class="line"><span class="lineno">   79</span>        <a class="code hl_variable" href="../../db/d2d/a05520.html#a2f8e0a2f1ec2012b3dead75b8082b624">_time</a> += time;</div>
-<div class="line"><span class="lineno">   80</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00258">_time</a>.</p>
-
-</div>
-</div>
-<a id="a33ba1058edd639c98258ba3e123ac2f9" name="a33ba1058edd639c98258ba3e123ac2f9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a33ba1058edd639c98258ba3e123ac2f9">&#9670;&#160;</a></span>Update() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void EventMap::Update </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>time</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   68</span>    {</div>
-<div class="line"><span class="lineno">   69</span>        <a class="code hl_function" href="../../db/d2d/a05520.html#a33ba1058edd639c98258ba3e123ac2f9">Update</a>(<a class="code hl_typedef" href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a>(time));</div>
-<div class="line"><span class="lineno">   70</span>    }</div>
-<div class="ttc" id="aa04718_html_a1c3834b9e3853535027d58bf21bec81f"><div class="ttname"><a href="../../d9/d82/a04718.html#a1c3834b9e3853535027d58bf21bec81f">Milliseconds</a></div><div class="ttdeci">std::chrono::milliseconds Milliseconds</div><div class="ttdoc">Milliseconds shorthand typedef.</div><div class="ttdef"><b>Definition:</b> Duration.h:27</div></div>
-<div class="ttc" id="aa05520_html_a33ba1058edd639c98258ba3e123ac2f9"><div class="ttname"><a href="../../db/d2d/a05520.html#a33ba1058edd639c98258ba3e123ac2f9">EventMap::Update</a></div><div class="ttdeci">void Update(uint32 time)</div><div class="ttdef"><b>Definition:</b> EventMap.h:67</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00067">Update()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00052">BattlegroundAB::PostUpdateImpl()</a>, <a class="el" href="../../#l00037">BattlegroundDS::PostUpdateImpl()</a>, <a class="el" href="../../#l00058">BattlegroundEY::PostUpdateImpl()</a>, <a class="el" href="../../#l00057">BattlegroundWS::PostUpdateImpl()</a>, <a class="el" href="../../#l00366">instance_blackwing_lair::instance_blackwing_lair_InstanceMapScript::Update()</a>, <a class="el" href="../../#l00160">instance_sunken_temple::instance_sunken_temple_InstanceMapScript::Update()</a>, <a class="el" href="../../#l00192">instance_old_hillsbrad::instance_old_hillsbrad_InstanceMapScript::Update()</a>, <a class="el" href="../../#l00605">instance_naxxramas::Update()</a>, <a class="el" href="../../#l01178">instance_ulduar::instance_ulduar_InstanceMapScript::Update()</a>, <a class="el" href="../../#l00067">Update()</a>, <a class="el" href="../../#l00418">go_bear_trap::go_bear_trapAI::UpdateAI()</a>, <a class="el" href="../../#l00901">go_gilded_brazier::go_gilded_brazierAI::UpdateAI()</a>, <a class="el" href="../../#l01814">go_bells::go_bellsAI::UpdateAI()</a>, <a class="el" href="../../#l00953">boss_sartharion_dragonAI::UpdateAI()</a>, <a class="el" href="../../#l00189">boss_ambassador_flamelash::boss_ambassador_flamelashAI::UpdateAI()</a>, <a class="el" href="../../#l00214">boss_doomrel::boss_doomrelAI::UpdateAI()</a>, <a class="el" href="../../#l00387">npc_blackhand_incarcerator::npc_blackhand_incarceratorAI::UpdateAI()</a>, <a class="el" href="../../#l00958">npc_vaelastrasz_the_red::npc_vaelastrasz_the_redAI::UpdateAI()</a>, <a class="el" href="../../#l00177">go_suppression_device::go_suppression_deviceAI::UpdateAI()</a>, <a class="el" href="../../#l00148">boss_vaelastrasz::boss_vaelAI::UpdateAI()</a>, <a class="el" href="../../#l00260">boss_ragnaros::boss_ragnarosAI::UpdateAI()</a>, <a class="el" href="../../#l00136">boss_kirtonos_the_herald::boss_kirtonos_the_heraldAI::UpdateAI()</a>, <a class="el" href="../../#l00173">npc_cameron::UpdateAI()</a>, <a class="el" href="../../#l00295">npc_supervisor_raelen::UpdateAI()</a>, <a class="el" href="../../#l00412">npc_eastvale_peasent::UpdateAI()</a>, <a class="el" href="../../#l00054">npc_partygoer_pather::UpdateAI()</a>, <a class="el" href="../../#l00145">npc_partygoer::UpdateAI()</a>, <a class="el" href="../../#l00177">npc_sentinel_leader::UpdateAI()</a>, <a class="el" href="../../#l00326">npc_sentinel_infiltrator::UpdateAI()</a>, <a class="el" href="../../#l00150">npc_lady_sylvanas_windrunner::npc_lady_sylvanas_windrunnerAI::UpdateAI()</a>, <a class="el" href="../../#l01489">npc_varian_wrynn::npc_varian_wrynnAI::UpdateAI()</a>, <a class="el" href="../../#l02071">npc_jaina_proudmoore_bfu::npc_jaina_proudmoore_bfuAI::UpdateAI()</a>, <a class="el" href="../../#l02142">boss_blight_worm::boss_blight_wormAI::UpdateAI()</a>, <a class="el" href="../../#l02909">npc_thrall_bfu::npc_thrall_bfuAI::UpdateAI()</a>, <a class="el" href="../../#l03971">npc_lady_sylvanas_windrunner_bfu::npc_lady_sylvanas_windrunner_bfuAI::UpdateAI()</a>, <a class="el" href="../../#l00361">npc_zulian_prowler::npc_zulian_prowlerAI::UpdateAI()</a>, <a class="el" href="../../#l01672">npc_coren_direbrew::UpdateAI()</a>, <a class="el" href="../../#l00666">npc_arthas::npc_arthasAI::UpdateAI()</a>, <a class="el" href="../../#l00469">npc_stillpine_capitive::npc_stillpine_capitiveAI::UpdateAI()</a>, <a class="el" href="../../#l00481">npc_rabid_thistle_bear::npc_rabid_thistle_bearAI::UpdateAI()</a>, <a class="el" href="../../#l00571">npc_tharnarian::npc_tharnarianAI::UpdateAI()</a>, <a class="el" href="../../#l00220">npc_tiger_matriarch::npc_tiger_matriarchAI::UpdateAI()</a>, <a class="el" href="../../#l00453">boss_sartharion::boss_sartharionAI::UpdateAI()</a>, <a class="el" href="../../#l00297">npc_baltharus_the_warborn_clone::npc_baltharus_the_warborn_cloneAI::UpdateAI()</a>, <a class="el" href="../../#l00408">npc_xerestrasza::npc_xerestraszaAI::UpdateAI()</a>, <a class="el" href="../../#l00348">boss_halion::boss_halionAI::UpdateAI()</a>, <a class="el" href="../../#l00516">boss_twilight_halion::boss_twilight_halionAI::UpdateAI()</a>, <a class="el" href="../../#l00630">npc_halion_controller::npc_halion_controllerAI::UpdateAI()</a>, <a class="el" href="../../#l00117">boss_trollgore::boss_trollgoreAI::UpdateAI()</a>, <a class="el" href="../../#l00135">boss_moorabi::boss_moorabiAI::UpdateAI()</a>, <a class="el" href="../../#l01133">npc_blood_queen_lana_thel::npc_blood_queen_lana_thelAI::UpdateAI()</a>, <a class="el" href="../../#l01419">npc_kinetic_bomb::npc_kinetic_bombAI::UpdateAI()</a>, <a class="el" href="../../#l00665">npc_high_overlord_saurfang_icc::npc_high_overlord_saurfangAI::UpdateAI()</a>, <a class="el" href="../../#l00906">npc_muradin_bronzebeard_icc::npc_muradin_bronzebeard_iccAI::UpdateAI()</a>, <a class="el" href="../../#l00907">npc_high_overlord_saurfang_igb::npc_high_overlord_saurfang_igbAI::UpdateAI()</a>, <a class="el" href="../../#l01243">npc_muradin_bronzebeard_igb::npc_muradin_bronzebeard_igbAI::UpdateAI()</a>, <a class="el" href="../../#l01699">npc_gunship_boarding_leader::npc_gunship_boarding_leaderAI::UpdateAI()</a>, <a class="el" href="../../#l01756">npc_gunship_boarding_add::npc_gunship_boarding_add_realAI::UpdateAI()</a>, <a class="el" href="../../#l01268">npc_spinestalker::npc_spinestalkerAI::UpdateAI()</a>, <a class="el" href="../../#l01414">npc_rimefang::npc_rimefangAI::UpdateAI()</a>, <a class="el" href="../../#l01628">npc_sindragosa_trash::npc_sindragosa_trashAI::UpdateAI()</a>, <a class="el" href="../../#l01380">npc_tirion_fordring_tft::npc_tirion_fordringAI::UpdateAI()</a>, <a class="el" href="../../#l01794">npc_shambling_horror_icc::npc_shambling_horror_iccAI::UpdateAI()</a>, <a class="el" href="../../#l02260">npc_raging_spirit::npc_raging_spiritAI::UpdateAI()</a>, <a class="el" href="../../#l02534">npc_valkyr_shadowguard::npc_valkyr_shadowguardAI::UpdateAI()</a>, <a class="el" href="../../#l02998">npc_strangulate_vehicle::npc_strangulate_vehicleAI::UpdateAI()</a>, <a class="el" href="../../#l03123">npc_terenas_menethil::npc_terenas_menethilAI::UpdateAI()</a>, <a class="el" href="../../#l03284">npc_spirit_warden::npc_spirit_wardenAI::UpdateAI()</a>, <a class="el" href="../../#l00434">boss_valithria_dreamwalker::boss_valithria_dreamwalkerAI::UpdateAI()</a>, <a class="el" href="../../#l00663">npc_the_lich_king_controller::npc_the_lich_king_controllerAI::UpdateAI()</a>, <a class="el" href="../../#l00755">npc_risen_archmage::npc_risen_archmageAI::UpdateAI()</a>, <a class="el" href="../../#l00865">npc_valithria_cloud::npc_valithria_cloudAI::UpdateAI()</a>, <a class="el" href="../../#l00922">npc_blazing_skeleton::npc_blazing_skeletonAI::UpdateAI()</a>, <a class="el" href="../../#l01106">npc_gluttonous_abomination::npc_gluttonous_abominationAI::UpdateAI()</a>, <a class="el" href="../../#l00456">npc_highlord_tirion_fordring_lh::npc_highlord_tirion_fordringAI::UpdateAI()</a>, <a class="el" href="../../#l00616">npc_rotting_frost_giant::npc_rotting_frost_giantAI::UpdateAI()</a>, <a class="el" href="../../#l00689">npc_frost_freeze_trap::npc_frost_freeze_trapAI::UpdateAI()</a>, <a class="el" href="../../#l00889">npc_crok_scourgebane::npc_crok_scourgebaneAI::UpdateAI()</a>, <a class="el" href="../../#l01666">npc_frostwing_vrykul::npc_frostwing_vrykulAI::UpdateAI()</a>, <a class="el" href="../../#l01863">npc_arthas_teleport_visual::npc_arthas_teleport_visualAI::UpdateAI()</a>, <a class="el" href="../../#l00176">npc_ioc_gunship_captain::npc_ioc_gunship_captainAI::UpdateAI()</a>, <a class="el" href="../../#l00737">npc_naxxramas_trigger::UpdateAI()</a>, <a class="el" href="../../#l00204">npc_spark_of_ionar::UpdateAI()</a>, <a class="el" href="../../#l00146">npc_enslaved_proto_drake::UpdateAI()</a>, <a class="el" href="../../#l00211">boss_svala::boss_svalaAI::UpdateAI()</a>, <a class="el" href="../../#l00631">npc_beryl_sorcerer::npc_beryl_sorcererAI::UpdateAI()</a>, <a class="el" href="../../#l00706">npc_captured_beryl_sorcerer::npc_captured_beryl_sorcererAI::UpdateAI()</a>, <a class="el" href="../../#l01296">npc_hidden_cultist::npc_hidden_cultistAI::UpdateAI()</a>, <a class="el" href="../../#l01441">npc_bloodmage_laurith::npc_bloodmage_laurithAI::UpdateAI()</a>, <a class="el" href="../../#l01567">npc_thassarian::npc_thassarianAI::UpdateAI()</a>, <a class="el" href="../../#l01663">npc_thassarian2::npc_thassarian2AI::UpdateAI()</a>, <a class="el" href="../../#l02075">npc_counselor_talbot::npc_counselor_talbotAI::UpdateAI()</a>, <a class="el" href="../../#l00188">npc_shandy_dalaran::npc_shandy_dalaranAI::UpdateAI()</a>, <a class="el" href="../../#l01952">npc_commander_eligor_dawnbringer::npc_commander_eligor_dawnbringerAI::UpdateAI()</a>, <a class="el" href="../../#l02149">npc_torturer_lecraft::npc_torturer_lecraftAI::UpdateAI()</a>, <a class="el" href="../../#l00472">npc_amberpine_woodsman::npc_amberpine_woodsmanAI::UpdateAI()</a>, <a class="el" href="../../#l00754">npc_venture_co_straggler::npc_venture_co_stragglerAI::UpdateAI()</a>, <a class="el" href="../../#l00870">npc_lake_frog::npc_lake_frogAI::UpdateAI()</a>, <a class="el" href="../../#l00822">npc_crusade_recruit::npc_crusade_recruitAI::UpdateAI()</a>, <a class="el" href="../../#l00332">npc_frozen_core::UpdateAI()</a>, <a class="el" href="../../#l00413">npc_ahune_bunny::UpdateAI()</a>, <a class="el" href="../../#l00553">npc_earthen_ring_flamecaller::UpdateAI()</a>, <a class="el" href="../../#l00143">npc_millhouse_manastorm::npc_millhouse_manastormAI::UpdateAI()</a>, <a class="el" href="../../#l00570">npc_simon_bunny::npc_simon_bunnyAI::UpdateAI()</a>, <a class="el" href="../../#l00499">npc_magister_aledis::UpdateAI()</a>, <a class="el" href="../../#l00057">npc_pet_shaman_earth_elemental::UpdateAI()</a>, <a class="el" href="../../#l00105">npc_pet_shaman_fire_elemental::UpdateAI()</a>, <a class="el" href="../../#l00480">go_l70_etc_music::go_l70_etc_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00551">go_brewfest_music::go_brewfest_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00698">go_pirate_day_music::go_pirate_day_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00753">go_darkmoon_faire_music::go_darkmoon_faire_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00808">go_midsummer_music::go_midsummer_musicAI::UpdateAI()</a>, <a class="el" href="../../#l00895">npc_thrall_old_hillsbrad::npc_thrall_old_hillsbradAI::UpdateEscortAI()</a>, <a class="el" href="../../#l00274">npc_magwin::npc_magwinAI::UpdateEscortAI()</a>, <a class="el" href="../../#l00256">npc_onyx_flamecaller::npc_onyx_flamecallerAI::UpdateEscortAI()</a>, and <a class="el" href="../../#l00519">npc_jenny::UpdateFollowerAI()</a>.</p>
-
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a38afdbed1ad555c2de1aa48c5c81793a" name="a38afdbed1ad555c2de1aa48c5c81793a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a38afdbed1ad555c2de1aa48c5c81793a">&#9670;&#160;</a></span>_eventMap</h2>
+<a id="a7f752259eafab986537db2d70c56d211" name="a7f752259eafab986537db2d70c56d211"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7f752259eafab986537db2d70c56d211">&#9670;&#160;</a></span>_groupMask</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/d2d/a05520.html#a37aa596970888e2621f37415bd0afb8b">EventStore</a> EventMap::_eventMap</td>
+          <td class="memname"><a class="el" href="../../d3/dd7/a05516.html#a9111adc2d1531529b7af314111f81ecf">GroupMask</a> EventMap::Event::_groupMask = 0u</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00160">CancelEvent()</a>, <a class="el" href="../../#l00177">CancelEventGroup()</a>, <a class="el" href="../../#l00108">DelayEvents()</a>, <a class="el" href="../../#l00144">DelayEventsToMax()</a>, <a class="el" href="../../#l00095">Empty()</a>, <a class="el" href="../../#l00086">ExecuteEvent()</a>, <a class="el" href="../../#l00200">GetTimeUntilEvent()</a>, <a class="el" href="../../#l00076">Repeat()</a>, <a class="el" href="../../#l00021">Reset()</a>, and <a class="el" href="../../#l00048">ScheduleEvent()</a>.</p>
-
 </div>
 </div>
-<a id="a403d1b4f9716f6d063c32df093307fb1" name="a403d1b4f9716f6d063c32df093307fb1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a403d1b4f9716f6d063c32df093307fb1">&#9670;&#160;</a></span>_lastEvent</h2>
+<a id="a7b60d3d526fd45833d87165d8356f896" name="a7b60d3d526fd45833d87165d8356f896"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7b60d3d526fd45833d87165d8356f896">&#9670;&#160;</a></span>_id</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/d66/a05524.html">Event</a> EventMap::_lastEvent</td>
+          <td class="memname"><a class="el" href="../../d3/dd7/a05516.html#adff26dc38a974d3a842938d1298d3f2a">EventId</a> EventMap::Event::_id = 0u</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00086">ExecuteEvent()</a>, and <a class="el" href="../../#l00076">Repeat()</a>.</p>
-
 </div>
 </div>
-<a id="aadbd2ba435b34b93d6fb004f57c3caf7" name="aadbd2ba435b34b93d6fb004f57c3caf7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aadbd2ba435b34b93d6fb004f57c3caf7">&#9670;&#160;</a></span>_phaseMask</h2>
+<a id="afce8fa5e187a1c2110a06c70707db247" name="afce8fa5e187a1c2110a06c70707db247"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afce8fa5e187a1c2110a06c70707db247">&#9670;&#160;</a></span>_phaseMask</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../db/d2d/a05520.html#a89844f3f326e2dda128017bb832d79ba">PhaseMask</a> EventMap::_phaseMask { 0 }</td>
+          <td class="memname"><a class="el" href="../../d3/dd7/a05516.html#a89844f3f326e2dda128017bb832d79ba">PhaseMask</a> EventMap::Event::_phaseMask = 0u</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00036">AddPhase()</a>, <a class="el" href="../../#l00086">ExecuteEvent()</a>, <a class="el" href="../../#l00086">GetPhaseMask()</a>, <a class="el" href="../../#l00195">IsInPhase()</a>, <a class="el" href="../../#l00042">RemovePhase()</a>, <a class="el" href="../../#l00021">Reset()</a>, and <a class="el" href="../../#l00028">SetPhase()</a>.</p>
-
-</div>
-</div>
-<a id="a2f8e0a2f1ec2012b3dead75b8082b624" name="a2f8e0a2f1ec2012b3dead75b8082b624"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2f8e0a2f1ec2012b3dead75b8082b624">&#9670;&#160;</a></span>_time</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d9/d82/a04718.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a> EventMap::_time { TimePoint::min() }</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00144">DelayEventsToMax()</a>, <a class="el" href="../../#l00086">ExecuteEvent()</a>, <a class="el" href="../../#l00200">GetTimeUntilEvent()</a>, <a class="el" href="../../#l00076">Repeat()</a>, <a class="el" href="../../#l00021">Reset()</a>, <a class="el" href="../../#l00048">ScheduleEvent()</a>, and <a class="el" href="../../#l00077">Update()</a>.</p>
 
 </div>
 </div>
@@ -1465,8 +256,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../db/d2d/a05520.html">EventMap</a></li>
-    <li class="footer">Generated on Mon Nov 10 2025 20:53:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/dd7/a05516.html">EventMap</a></li><li class="navelem"><a class="el" href="../../db/d2d/a05520.html">Event</a></li>
+    <li class="footer">Generated on Mon Nov 17 2025 20:45:48 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

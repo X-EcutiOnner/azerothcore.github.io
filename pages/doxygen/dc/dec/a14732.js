@@ -1,6 +1,6 @@
 var a14732 =
 [
-    [ "HandleDummy", "dc/dec/a14732.html#aa75140309e66c28590a64e10676356da", null ],
-    [ "PrepareSpellScript", "dc/dec/a14732.html#a21c4872e16c18c2918dfbea366e61df3", null ],
-    [ "Register", "dc/dec/a14732.html#a841c9277224cbae878946deb288b87a1", null ]
+    [ "HandleScriptEffect", "dc/dec/a14732.html#a074f54a4b022adc6ea34b3716dec745f", null ],
+    [ "PrepareSpellScript", "dc/dec/a14732.html#a725d5bc1f76614778b140f3061aa2e03", null ],
+    [ "Register", "dc/dec/a14732.html#a339df7ae9553fbae68ce791baef1df5e", null ]
 ];

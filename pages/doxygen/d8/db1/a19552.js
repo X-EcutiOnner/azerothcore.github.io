@@ -1,6 +1,6 @@
 var a19552 =
 [
-    [ "instance_nexus_InstanceMapScript", "d0/dce/a19556.html", "d0/dce/a19556" ],
-    [ "instance_nexus", "d8/db1/a19552.html#ad2d28baeef8323ae97f19ec9272c7e97", null ],
-    [ "GetInstanceScript", "d8/db1/a19552.html#a156210ba08caa0572c775dbd5851b250", null ]
+    [ "boss_drakosAI", "d0/dce/a19556.html", "d0/dce/a19556" ],
+    [ "boss_drakos", "d8/db1/a19552.html#aa70ae2809af4f24eea0b83b42d695448", null ],
+    [ "GetAI", "d8/db1/a19552.html#a16dcc7f9da254d0bddc19394a1cd4ab0", null ]
 ];

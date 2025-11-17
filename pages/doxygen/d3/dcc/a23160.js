@@ -1,7 +1,7 @@
 var a23160 =
 [
-    [ "HandleEffectApply", "d3/dcc/a23160.html#a5857dbdb088de67cc15717dca0c5f7b5", null ],
-    [ "HandleEffectRemove", "d3/dcc/a23160.html#aab0536f7f73d9e354a526f56f587fff0", null ],
-    [ "PrepareAuraScript", "d3/dcc/a23160.html#a80a6b51bc6c1457edc0fb8a0089513d1", null ],
-    [ "Register", "d3/dcc/a23160.html#a194ff31e6168bca23881f3804154d479", null ]
+    [ "CalculateAmount", "d3/dcc/a23160.html#af0db71393c0b4a7bd5f4e11bd0212d06", null ],
+    [ "PrepareAuraScript", "d3/dcc/a23160.html#a5af876b76d9239808ac72c5b6177cdcb", null ],
+    [ "Register", "d3/dcc/a23160.html#a6d0d47536e6ef74a88c97019843d478c", null ],
+    [ "Update", "d3/dcc/a23160.html#afd2ed6f36d1596a2de753f04c5563c5f", null ]
 ];

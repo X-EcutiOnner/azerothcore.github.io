@@ -1,5 +1,5 @@
 var a08356 =
 [
-    [ "CastBarCaption", "d0/dac/a08356.html#ae78195bdc8edd6f4996c617e7a541e12", null ],
-    [ "Name", "d0/dac/a08356.html#a462917eda1e095c99054495abf70cd67", null ]
+    [ "invisibilityType", "d0/dac/a08356.html#ac1e874a76fecd4d3eb061722713f6634", null ],
+    [ "InvisibilityValue", "d0/dac/a08356.html#a8e1741fca7c49f0618a3999e69ae5c81", null ]
 ];

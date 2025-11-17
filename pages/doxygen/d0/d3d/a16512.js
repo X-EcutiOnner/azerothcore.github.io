@@ -1,8 +1,6 @@
 var a16512 =
 [
-    [ "npc_announcer_toc5AI", "d0/d3d/a16512.html#a96e1bd089dfd21fa252bc6422d20bada", null ],
-    [ "DamageTaken", "d0/d3d/a16512.html#a53458483699ac026ff2cd36b5f061571", null ],
-    [ "MovementInform", "d0/d3d/a16512.html#acdcf4110b3815635ad173a70e7a1e603", null ],
-    [ "Reset", "d0/d3d/a16512.html#ab3dca17e0350d6d46a9069f97f2d12ef", null ],
-    [ "UpdateAI", "d0/d3d/a16512.html#ad2c596253d67d051f497a8d77859846d", null ]
+    [ "HideNpcEvent", "d0/d3d/a16512.html#ab454295aab0f5d4586740140232e96eb", null ],
+    [ "Execute", "d0/d3d/a16512.html#aecfbbbcac3fd98675913a6381c891a59", null ],
+    [ "_owner", "d0/d3d/a16512.html#ac5481c94e180900f0a455dc1f1f9851c", null ]
 ];

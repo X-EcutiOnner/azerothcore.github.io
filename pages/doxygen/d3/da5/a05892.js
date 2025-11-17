@@ -1,10 +1,11 @@
 var a05892 =
 [
-    [ "TransactionCallback", "d3/da5/a05892.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
-    [ "TransactionCallback", "d3/da5/a05892.html#adeff62976c11d9d90169e4650640118b", null ],
-    [ "AfterComplete", "d3/da5/a05892.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
-    [ "InvokeIfReady", "d3/da5/a05892.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
-    [ "operator=", "d3/da5/a05892.html#ab73d1741c21ea9fd86f65a647768e972", null ],
-    [ "m_callback", "d3/da5/a05892.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
-    [ "m_future", "d3/da5/a05892.html#a381e889074bc5ca48574d37fe6eea00f", null ]
+    [ "SQLQueryHolderBase", "d3/da5/a05892.html#a05946ea4a26798e5567f632cf9f66eff", null ],
+    [ "~SQLQueryHolderBase", "d3/da5/a05892.html#aa9e2407821d0c40a728337f174571fc5", null ],
+    [ "GetPreparedResult", "d3/da5/a05892.html#a402f961642eaa239ff8726ad66e78640", null ],
+    [ "SetPreparedQueryImpl", "d3/da5/a05892.html#a6657bb34fab696a26af9751ded41f1d7", null ],
+    [ "SetPreparedResult", "d3/da5/a05892.html#a34bcdec6591ce40a58667197f240fbe0", null ],
+    [ "SetSize", "d3/da5/a05892.html#a9e62f0171bd39a13348d097ee99cb17c", null ],
+    [ "SQLQueryHolderTask", "d3/da5/a05892.html#a4d6be4ca13ec7a0d213da9d1e6ec922b", null ],
+    [ "m_queries", "d3/da5/a05892.html#a432a52e6f9dc7f51cbc8f2877d0894e1", null ]
 ];

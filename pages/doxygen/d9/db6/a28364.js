@@ -1,10 +1,7 @@
 var a28364 =
 [
-    [ "HasFlag", "d9/db6/a28364.html#abe23ca5437589a38ea57bc93a6197911", null ],
-    [ "CollisionHeight", "d9/db6/a28364.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
-    [ "CollisionWidth", "d9/db6/a28364.html#ab79497759cf169348b8922301fc43b2f", null ],
-    [ "Flags", "d9/db6/a28364.html#a3bb96e232124771e78f8b5db53405106", null ],
-    [ "Id", "d9/db6/a28364.html#aa19fec147703c7542be260c8ec5a0446", null ],
-    [ "MountHeight", "d9/db6/a28364.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
-    [ "Scale", "d9/db6/a28364.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
+    [ "EmoteType", "d9/db6/a28364.html#a2d319652021081fdb02472c32a28e318", null ],
+    [ "Flags", "d9/db6/a28364.html#aa1794d3ffd7f7da82f5754e1be580fe9", null ],
+    [ "Id", "d9/db6/a28364.html#a3b3b641fbdb8dc88afc2421e358a75a1", null ],
+    [ "UnitStandState", "d9/db6/a28364.html#ada83e548faa01917a5db19eaa15dbbec", null ]
 ];

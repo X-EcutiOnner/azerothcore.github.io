@@ -1,12 +1,10 @@
 var a14264 =
 [
-    [ "npc_chained_spirit", "d2/df5/a14264.html#a5f407e700a2086f971bed0e8c0def0db", null ],
-    [ "DoAction", "d2/df5/a14264.html#a7205ef13ca0d164a9222c049bc582254", null ],
-    [ "JustDied", "d2/df5/a14264.html#a3b405503231173e7ff7aa52e34f63da5", null ],
-    [ "MovementInform", "d2/df5/a14264.html#a469a8fdc4a40857ff1dc0af9ead74d3c", null ],
-    [ "Reset", "d2/df5/a14264.html#a2a8a8a429492511aac697878b5dc4cc3", null ],
-    [ "SetGUID", "d2/df5/a14264.html#a794cf63fabc0c3f7ab9214750fa232a9", null ],
-    [ "UpdateAI", "d2/df5/a14264.html#a38d14b69c71bf2902a916028580fbfad", null ],
-    [ "instance", "d2/df5/a14264.html#ad5dd92208d6a23954fef6348f4abbd23", null ],
-    [ "revivePlayerGUID", "d2/df5/a14264.html#a193fddae1d3eb84bc36842adbb1fe86a", null ]
+    [ "npc_vilebranch_speaker", "d2/df5/a14264.html#acd8dfc95c5969fe67e1386d5dbd5884b", null ],
+    [ "JustDied", "d2/df5/a14264.html#aa7708f176879db3acd50399b74e4a90c", null ],
+    [ "JustEngagedWith", "d2/df5/a14264.html#a236afb8512c2d941479f8a7c18f688a6", null ],
+    [ "Reset", "d2/df5/a14264.html#a248195a137cb91f10a882ec12974c7c5", null ],
+    [ "UpdateAI", "d2/df5/a14264.html#a75f263fa9241319b58bf77cbf1b75088", null ],
+    [ "_scheduler", "d2/df5/a14264.html#abd52bbd2ce88b011176d93ae92b851d0", null ],
+    [ "instance", "d2/df5/a14264.html#a88fb28d2c39f0da967ab6706872e68b2", null ]
 ];

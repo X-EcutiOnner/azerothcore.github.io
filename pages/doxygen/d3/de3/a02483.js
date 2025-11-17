@@ -1,11 +1,11 @@
 var a02483 =
 [
-    [ "npc_rivern_frostwind", "d5/d4e/a15904.html", "d5/d4e/a15904" ],
-    [ "DialogueEntry", "d5/dc0/a15908.html", "d5/dc0/a15908" ],
-    [ "DialogueHelper", "da/dd5/a15912.html", "da/dd5/a15912" ],
-    [ "npc_ranshalla", "dc/d5d/a15916.html", "dc/d5d/a15916" ],
-    [ "npc_ranshalla::npc_ranshallaAI", "d2/d30/a15920.html", "d2/d30/a15920" ],
-    [ "go_elune_fire", "da/ded/a15924.html", "da/ded/a15924" ],
+    [ "npc_rivern_frostwind", "d3/d27/a15900.html", "d3/d27/a15900" ],
+    [ "DialogueEntry", "d5/d4e/a15904.html", "d5/d4e/a15904" ],
+    [ "DialogueHelper", "d5/dc0/a15908.html", "d5/dc0/a15908" ],
+    [ "npc_ranshalla", "da/dd5/a15912.html", "da/dd5/a15912" ],
+    [ "npc_ranshalla::npc_ranshallaAI", "dc/d5d/a15916.html", "dc/d5d/a15916" ],
+    [ "go_elune_fire", "d2/d30/a15920.html", "d2/d30/a15920" ],
     [ "Dummies", "d3/de3/a02483.html#a2bbe982dfe66b7d2feb6449e4b33ac2e", [
       [ "NPC_PRIESTESS_DATA_1", "d3/de3/a02483.html#a2bbe982dfe66b7d2feb6449e4b33ac2ea0594ed0eed6a55af01b29286273cadef", null ],
       [ "NPC_PRIESTESS_DATA_2", "d3/de3/a02483.html#a2bbe982dfe66b7d2feb6449e4b33ac2ea4236792aa6debd5b26af8a27358513fc", null ],

@@ -1,7 +1,6 @@
 var a20256 =
 [
-    [ "boss_freya_healthy_sporeAI", "d7/df8/a20256.html#a1f72bc2b113f3b909d44fd54fff87e31", null ],
-    [ "Reset", "d7/df8/a20256.html#ad6d6562b5cc9f8232bdda99ec2204052", null ],
-    [ "UpdateAI", "d7/df8/a20256.html#ace79c59d62e597ae31425b4006e1363f", null ],
-    [ "_despawnTimer", "d7/df8/a20256.html#aaf65ef07480e5c634cc42dac0c7c734c", null ]
+    [ "boss_freya_nature_bombAI", "d9/de2/a20260.html", "d9/de2/a20260" ],
+    [ "boss_freya_nature_bomb", "d7/df8/a20256.html#a18fa6ff862a1b367ac23eb1b7bda0ed4", null ],
+    [ "GetAI", "d7/df8/a20256.html#a73e24282c6bb29cf3f6a7da14a4de582", null ]
 ];

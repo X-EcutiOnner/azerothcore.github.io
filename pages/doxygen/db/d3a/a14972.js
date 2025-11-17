@@ -1,7 +1,6 @@
 var a14972 =
 [
-    [ "npc_cos_chromie_middle", "db/d3a/a14972.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "db/d3a/a14972.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "db/d3a/a14972.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "db/d3a/a14972.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "npc_cos_stratholme_citizienAI", "da/d70/a14976.html", "da/d70/a14976" ],
+    [ "npc_cos_stratholme_citizien", "db/d3a/a14972.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
+    [ "GetAI", "db/d3a/a14972.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
 ];

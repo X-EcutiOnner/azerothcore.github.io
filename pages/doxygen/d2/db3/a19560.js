@@ -1,13 +1,6 @@
 var a19560 =
 [
-    [ "npc_crystalline_frayer", "d2/db3/a19560.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
-    [ "DamageTaken", "d2/db3/a19560.html#a2580575a58353e8cb94561bafd74f502", null ],
-    [ "EnterEvadeMode", "d2/db3/a19560.html#a9240adcfe966f11c925db82add432aa5", null ],
-    [ "JustEngagedWith", "d2/db3/a19560.html#a91e8c4015b9b238fd2144999bcef9362", null ],
-    [ "Reset", "d2/db3/a19560.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
-    [ "UpdateAI", "d2/db3/a19560.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
-    [ "_allowDeath", "d2/db3/a19560.html#adc85054030146067d2cff47db2886a07", null ],
-    [ "abilityTimer1", "d2/db3/a19560.html#ae4a140cd9fccecea24982d7aa90c6bf0", null ],
-    [ "abilityTimer2", "d2/db3/a19560.html#a6d2bf3e1cc05860eb6a7706102438f32", null ],
-    [ "restoreTimer", "d2/db3/a19560.html#a5ab2990b41f485417af6272194035fc3", null ]
+    [ "npc_oculus_unstable_sphereAI", "dc/d58/a19564.html", "dc/d58/a19564" ],
+    [ "npc_oculus_unstable_sphere", "d2/db3/a19560.html#a5167370a6d3fd32a5673bbeb95ed3f3c", null ],
+    [ "GetAI", "d2/db3/a19560.html#adda2a9e7eab03444742e85729673ab2f", null ]
 ];

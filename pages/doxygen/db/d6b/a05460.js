@@ -1,17 +1,8 @@
 var a05460 =
 [
-    [ "Thread", "db/d6b/a05460.html#a95c703fb8f2f27cb64f475a8c940864a", null ],
-    [ "Thread", "db/d6b/a05460.html#a72d9240b0f28a378bf0e05e97918e25a", null ],
-    [ "~Thread", "db/d6b/a05460.html#a37d9edd3a1a776cbc27dedff949c9726", null ],
-    [ "Thread", "db/d6b/a05460.html#ae65c99228766cc135c8dad74af50120e", null ],
-    [ "currentId", "db/d6b/a05460.html#a65c7edbd9a1a3ed492485013d1baaf8d", null ],
-    [ "destroy", "db/d6b/a05460.html#a4ee8270c681c7faf3d3a6b8271f31796", null ],
-    [ "operator=", "db/d6b/a05460.html#a79ab3cf5b994c65dc196e2c154fabe7a", null ],
-    [ "setPriority", "db/d6b/a05460.html#a4dcbafab5741b819852d6702e5b09369", null ],
-    [ "Sleep", "db/d6b/a05460.html#addc70b7462f6fe4e51e136176f05a6b8", null ],
-    [ "ThreadTask", "db/d6b/a05460.html#a3e9a687df7ed593abc33f5e5897125e5", null ],
-    [ "wait", "db/d6b/a05460.html#a29758de9c29e1437e234ab8d2a3e07d0", null ],
-    [ "m_iThreadId", "db/d6b/a05460.html#a997822ac4937e995c085c0554ca48d53", null ],
-    [ "m_task", "db/d6b/a05460.html#afa81b66db9223412b20be34f2ee1651f", null ],
-    [ "m_ThreadImp", "db/d6b/a05460.html#ac2b69bbcfc8f20ac6aa2e517311b2861", null ]
+    [ "GeneralLock", "db/d6b/a05460.html#ad0fac66b181e166108c871274bce7a93", null ],
+    [ "~GeneralLock", "db/d6b/a05460.html#a455c73434c26cac8bf9761900d648589", null ],
+    [ "GeneralLock", "db/d6b/a05460.html#aecc7bf4d8ac0c4bc16a89a16e196330c", null ],
+    [ "operator=", "db/d6b/a05460.html#a876a9be3c642991811028892bcae42c4", null ],
+    [ "i_mutex", "db/d6b/a05460.html#a80b98e278d3afb1867ff5f159eda5055", null ]
 ];

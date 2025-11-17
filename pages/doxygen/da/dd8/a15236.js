@@ -1,7 +1,6 @@
 var a15236 =
 [
-    [ "boss_rajaxx", "da/dd8/a15236.html#afca05f7afabb4c0e181ce3757acb3bcb", null ],
-    [ "JustDied", "da/dd8/a15236.html#a9231a20150ed6eae0cbc79c8386f7371", null ],
-    [ "JustEngagedWith", "da/dd8/a15236.html#a8dad79921559359b6aa7149641925fe5", null ],
-    [ "UpdateAI", "da/dd8/a15236.html#a9b949bea61ceb45ec1b3e452f218c227", null ]
+    [ "HandleDamageCalc", "da/dd8/a15236.html#a03eb92eff300872cd5fca452a99375ab", null ],
+    [ "PrepareSpellScript", "da/dd8/a15236.html#ac07421b62bb6044dad89431839a70bd8", null ],
+    [ "Register", "da/dd8/a15236.html#a70cbf764ab475e2358fa6630798cab9d", null ]
 ];

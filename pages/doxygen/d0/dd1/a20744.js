@@ -1,8 +1,6 @@
 var a20744 =
 [
-    [ "npc_ulduar_dark_rune_guardianAI", "d0/dd1/a20744.html#aedb43124c923621aadecb77511204fc6", null ],
-    [ "CanAIAttack", "d0/dd1/a20744.html#af23cb4a19d28f5aa57ba96de95f87c87", null ],
-    [ "Reset", "d0/dd1/a20744.html#a4c1f53fbbc6189ca9ee0420bc4198684", null ],
-    [ "UpdateAI", "d0/dd1/a20744.html#ad21127654d5511b6b1d9b22cdd77bd08", null ],
-    [ "timer2", "d0/dd1/a20744.html#aa66f1aa48cf928ac12751cb3ca2358f3", null ]
+    [ "npc_ulduar_dark_rune_sentinelAI", "d2/d9b/a20748.html", "d2/d9b/a20748" ],
+    [ "npc_ulduar_dark_rune_sentinel", "d0/dd1/a20744.html#ac59aa042fd188eaf1eb6a04eb7d545a9", null ],
+    [ "GetAI", "d0/dd1/a20744.html#a3884f50f894770ff94ad6977f62c45f3", null ]
 ];

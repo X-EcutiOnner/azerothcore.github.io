@@ -1,6 +1,7 @@
 var a27936 =
 [
-    [ "npc_necropolis_proxy", "d6/d82/a27936.html#a73f92ee73673172989d48064e5984db0", null ],
-    [ "SpellHit", "d6/d82/a27936.html#a90d1ab55683a6409403e24291643cca5", null ],
-    [ "SpellHitTarget", "d6/d82/a27936.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
+    [ "HandleDummy", "d6/d82/a27936.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
+    [ "PrepareSpellScript", "d6/d82/a27936.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
+    [ "Register", "d6/d82/a27936.html#a3fda4d652c1264b3cfababdd98297c61", null ],
+    [ "Validate", "d6/d82/a27936.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
 ];

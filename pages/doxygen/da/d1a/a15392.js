@@ -1,5 +1,7 @@
 var a15392 =
 [
-    [ "at_twin_emperors", "da/d1a/a15392.html#a343d482857fa0a45c42f593e591f7754", null ],
-    [ "_OnTrigger", "da/d1a/a15392.html#adf3120b7bf611e0246abb2970711ada3", null ]
+    [ "FilterTargets", "da/d1a/a15392.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
+    [ "HandleOnHit", "da/d1a/a15392.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
+    [ "PrepareSpellScript", "da/d1a/a15392.html#ad7372e543391a23c003b4121e0dd8a09", null ],
+    [ "Register", "da/d1a/a15392.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
 ];

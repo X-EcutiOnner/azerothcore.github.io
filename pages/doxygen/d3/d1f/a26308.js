@@ -1,8 +1,6 @@
 var a26308 =
 [
-    [ "CalculateAmount", "d3/d1f/a26308.html#a8751483423726ffa8a33c70b7e55db23", null ],
-    [ "CheckProc", "d3/d1f/a26308.html#a046cd1087342cdcbd2e6b0f8ded7c03a", null ],
-    [ "HandleProc", "d3/d1f/a26308.html#abda070e7dfbb4ddc8d18cb3d180edc2e", null ],
-    [ "PrepareAuraScript", "d3/d1f/a26308.html#a6bb54cea419145875c4086a69e1e55e8", null ],
-    [ "Register", "d3/d1f/a26308.html#a8e92638bbdd786ef77b17f00dcf0f643", null ]
+    [ "HandleEffectCalcSpellMod", "d3/d1f/a26308.html#a81395c735b9546632af71319067b575b", null ],
+    [ "PrepareAuraScript", "d3/d1f/a26308.html#ad5a716f0644b1707aa6d179d564ceb80", null ],
+    [ "Register", "d3/d1f/a26308.html#ae49a0ec525819981595c12839133a35b", null ]
 ];

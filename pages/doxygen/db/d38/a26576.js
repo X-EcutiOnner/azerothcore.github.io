@@ -1,5 +1,7 @@
 var a26576 =
 [
-    [ "PrepareSpellScript", "db/d38/a26576.html#aee9595d4716fb2ea1bd9e2a66d26c39e", null ],
-    [ "Register", "db/d38/a26576.html#a6318da4bfeb63dee75a971106bdc2146", null ]
+    [ "HandleEffectApply", "db/d38/a26576.html#a475d0bab96e226853368be3b68c5a2d3", null ],
+    [ "HandleEffectRemove", "db/d38/a26576.html#aa22a095e40789ac562a64c20d7eadb28", null ],
+    [ "PrepareAuraScript", "db/d38/a26576.html#a2b06b0dc1a4c2f5b5e4657e11a097660", null ],
+    [ "Register", "db/d38/a26576.html#a91e75a059828a30d509fd22be19048f8", null ]
 ];

@@ -1,6 +1,7 @@
 var a21692 =
 [
-    [ "npc_iruk", "d5/d25/a21692.html#a721aeefd23371cc6bc16738a797bf50a", null ],
-    [ "OnGossipHello", "d5/d25/a21692.html#a774669099330c75ab5e0bea8d460f517", null ],
-    [ "OnGossipSelect", "d5/d25/a21692.html#ae6f7d54d224488a9e29c59c560eba471", null ]
+    [ "npc_lurgglbrAI", "d9/d2f/a21696.html", "d9/d2f/a21696" ],
+    [ "npc_lurgglbr", "d5/d25/a21692.html#a7df52667e4d789391820a4c2182db8d2", null ],
+    [ "GetAI", "d5/d25/a21692.html#a2795346371e7b474c53dcacb9daf2001", null ],
+    [ "OnQuestAccept", "d5/d25/a21692.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
 ];

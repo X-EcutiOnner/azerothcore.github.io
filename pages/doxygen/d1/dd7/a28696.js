@@ -1,8 +1,7 @@
 var a28696 =
 [
-    [ "TimeSeg", "d1/dd7/a28696.html#ab94639ba8e26b215ebd31163967574d3", null ],
-    [ "TransportEntry", "d1/dd7/a28696.html#a859d25b3c11839ad7e37facd40dc79df", null ],
-    [ "X", "d1/dd7/a28696.html#a8fbd166503396e33a4ad77448bf307ea", null ],
-    [ "Y", "d1/dd7/a28696.html#a67c279b26cebd8e5c81c36576b145af6", null ],
-    [ "Z", "d1/dd7/a28696.html#a680689c57479a2cc1ec72ab97204d3e7", null ]
+    [ "TalentSpellPos", "d1/dd7/a28696.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
+    [ "TalentSpellPos", "d1/dd7/a28696.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
+    [ "rank", "d1/dd7/a28696.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
+    [ "talent_id", "d1/dd7/a28696.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
 ];

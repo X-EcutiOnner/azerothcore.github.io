@@ -1,6 +1,8 @@
 var a20352 =
 [
-    [ "npc_ulduar_icicleAI", "d1/d33/a20356.html", "d1/d33/a20356" ],
-    [ "npc_ulduar_icicle", "d7/d46/a20352.html#a1ab79b2fa3e64779f62b96c195222683", null ],
-    [ "GetAI", "d7/d46/a20352.html#a71dd83d544307b11bcde58f9aeea097c", null ]
+    [ "npc_ulduar_flash_freezeAI", "d7/d46/a20352.html#a478e7bc76a7b7ffeb25a0df731cb5ed8", null ],
+    [ "DamageTaken", "d7/d46/a20352.html#af0c18460b4cc331f51c44a3306f516b8", null ],
+    [ "UpdateAI", "d7/d46/a20352.html#ab2efa0a8d06297bff05502c40079efe9", null ],
+    [ "pInstance", "d7/d46/a20352.html#a28be7874fee6dcaea6f205cb75f1450f", null ],
+    [ "timer", "d7/d46/a20352.html#a590117afe9e9943d8dc8a44af9386066", null ]
 ];

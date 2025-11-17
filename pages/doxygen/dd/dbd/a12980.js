@@ -1,8 +1,7 @@
 var a12980 =
 [
-    [ "CalcPeriodic", "dd/dbd/a12980.html#a493609298c152df8216641ba2e5861cd", null ],
-    [ "PrepareAuraScript", "dd/dbd/a12980.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
-    [ "Register", "dd/dbd/a12980.html#a44002db5980dfc1db816cf61fd446491", null ],
-    [ "Update", "dd/dbd/a12980.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
-    [ "Validate", "dd/dbd/a12980.html#a060e189aaa4396681d42906b65c9196f", null ]
+    [ "PeriodicTick", "dd/dbd/a12980.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
+    [ "PrepareAuraScript", "dd/dbd/a12980.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
+    [ "Register", "dd/dbd/a12980.html#a2681d44b149e9f1d797df4147e20e686", null ],
+    [ "Validate", "dd/dbd/a12980.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
 ];

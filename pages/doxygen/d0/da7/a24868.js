@@ -1,7 +1,8 @@
 var a24868 =
 [
-    [ "AfterApply", "d0/da7/a24868.html#a1849f49a9682627753b8bd39b3ff827e", null ],
-    [ "AfterRemove", "d0/da7/a24868.html#a7c08bea735cd36840463aa942e7529b4", null ],
-    [ "PrepareAuraScript", "d0/da7/a24868.html#ad27880f797137cae09381e860727e2f7", null ],
-    [ "Register", "d0/da7/a24868.html#a6c105609c1ee61a8f845018550b2e3ba", null ]
+    [ "AfterRemove", "d0/da7/a24868.html#afdd1575bce3b34da6e3a101eaa695c41", null ],
+    [ "HandleDispel", "d0/da7/a24868.html#a3c2ffe31074115f6cab5f4b18b05dbc3", null ],
+    [ "PrepareAuraScript", "d0/da7/a24868.html#a44e66753516d693c31dba27c9d1ad250", null ],
+    [ "Register", "d0/da7/a24868.html#aa21ecabbf52b457e163f17b3012b0f84", null ],
+    [ "Validate", "d0/da7/a24868.html#a6af7e5aa16b3c84ed1388e2f62424701", null ]
 ];

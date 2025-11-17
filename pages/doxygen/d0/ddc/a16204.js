@@ -1,8 +1,6 @@
 var a16204 =
 [
-    [ "RestoreFight", "d0/ddc/a16204.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "RestoreFight", "d0/ddc/a16204.html#a0149cccce8c3120b1e988e9a7c96f75c", null ],
-    [ "Execute", "d0/ddc/a16204.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "Execute", "d0/ddc/a16204.html#a019eb3c08dc8c3b97fc27b989ec8ab77", null ],
-    [ "_owner", "d0/ddc/a16204.html#ae35c9b4547fcd7e8ea0f4b6ee4c637a0", null ]
+    [ "boss_baltharus_the_warbornAI", "dd/da8/a16208.html", "dd/da8/a16208" ],
+    [ "boss_baltharus_the_warborn", "d0/ddc/a16204.html#aababb8862273d60f140dce675131783d", null ],
+    [ "GetAI", "d0/ddc/a16204.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
 ];

@@ -1,6 +1,8 @@
 var a25140 =
 [
-    [ "OnPeriodic", "d7/dba/a25140.html#a5fdf44f34765d0386d5c5490620c944a", null ],
-    [ "PrepareAuraScript", "d7/dba/a25140.html#a3c3044795e183eef2c801781100b11c7", null ],
-    [ "Register", "d7/dba/a25140.html#a1221c3287c3fd7add356e84430508684", null ]
+    [ "CheckIfCorpseNear", "d7/dba/a25140.html#afdf1bca2e23057d99962fb1000e9245e", null ],
+    [ "HandleDummy", "d7/dba/a25140.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
+    [ "PrepareSpellScript", "d7/dba/a25140.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
+    [ "Register", "d7/dba/a25140.html#a22f4c5321769384b2b708f19edea1a66", null ],
+    [ "Validate", "d7/dba/a25140.html#a855fdba79c4fa087253505ed419b9966", null ]
 ];

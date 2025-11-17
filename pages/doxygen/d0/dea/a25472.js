@@ -1,7 +1,5 @@
 var a25472 =
 [
-    [ "HandleDummy", "d0/dea/a25472.html#a704a2f1c36b32809b22bc3edc87b3414", null ],
-    [ "PrepareSpellScript", "d0/dea/a25472.html#aad01f2888176e8a555fe7acd1bc3fd8b", null ],
-    [ "Register", "d0/dea/a25472.html#ae12fa2b2f9859b465a64fbec04345c9e", null ],
-    [ "Validate", "d0/dea/a25472.html#ad4bb369ef46122cd45c38d876884d350", null ]
+    [ "PrepareSpellScript", "d0/dea/a25472.html#a7478d96ac24bc4b70a10bc83335c9b76", null ],
+    [ "Register", "d0/dea/a25472.html#ab3ab9557cd1969fd977a3df6f2c59d7c", null ]
 ];

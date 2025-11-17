@@ -1,8 +1,8 @@
 var a03500 =
 [
-    [ "npc_kilrek", "dc/d0b/a12916.html", "dc/d0b/a12916" ],
-    [ "npc_demon_chain", "de/d59/a12920.html", "de/d59/a12920" ],
-    [ "boss_terestian_illhoof", "d8/d9a/a12924.html", "d8/d9a/a12924" ],
+    [ "npc_kilrek", "d9/d63/a12912.html", "d9/d63/a12912" ],
+    [ "npc_demon_chain", "dc/d0b/a12916.html", "dc/d0b/a12916" ],
+    [ "boss_terestian_illhoof", "de/d59/a12920.html", "de/d59/a12920" ],
     [ "Creatures", "d8/d63/a03500.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "d5/d56/a03437.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "d5/d56/a03437.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],
@@ -155,6 +155,7 @@ var a03500 =
       [ "NPC_KURZEL", "d6/d97/a03011.html#a25a619e6b66096a4f05d048e4a96df08a22d66bc624082cb121a29f26aec07465", null ],
       [ "NPC_DRAKKARI_GUARDIAN", "d6/d97/a03011.html#a25a619e6b66096a4f05d048e4a96df08ac8874bda0b81ee0c77596d066d6c04d1", null ],
       [ "NPC_RISEN_DRAKKARI_WARRIOR", "d6/d97/a03011.html#a25a619e6b66096a4f05d048e4a96df08a134872c6167fea34d52690f6b40e7429", null ],
+      [ "NPC_FETID_TROLL_CORPSE", "d6/d97/a03011.html#a25a619e6b66096a4f05d048e4a96df08a9410ab8c778e63e997745a443db5e32c", null ],
       [ "NPC_BRONJAHM", "d7/deb/a03077.html#a25a619e6b66096a4f05d048e4a96df08a8123c635a5ab5db37954d58117f9d044", null ],
       [ "NPC_DEVOURER", "d7/deb/a03077.html#a25a619e6b66096a4f05d048e4a96df08a11aef36e86ef916bc76cd8910dff17e0", null ],
       [ "NPC_SYLVANAS_PART1", "d7/deb/a03077.html#a25a619e6b66096a4f05d048e4a96df08ad7b5f6d9b213f87c99f931b456390560", null ],

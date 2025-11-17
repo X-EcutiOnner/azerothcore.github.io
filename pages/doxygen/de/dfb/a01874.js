@@ -1,10 +1,10 @@
 var a01874 =
 [
-    [ "AUTH_LOGON_CHALLENGE_C", "db/daf/a05688.html", "db/daf/a05688" ],
-    [ "AUTH_LOGON_PROOF_C", "d4/d0d/a05692.html", "d4/d0d/a05692" ],
-    [ "AUTH_LOGON_PROOF_S", "da/dff/a05696.html", "da/dff/a05696" ],
-    [ "AUTH_LOGON_PROOF_S_OLD", "dd/dd5/a05700.html", "dd/dd5/a05700" ],
-    [ "AUTH_RECONNECT_PROOF_C", "d3/df8/a05704.html", "d3/df8/a05704" ],
+    [ "AUTH_LOGON_CHALLENGE_C", "d9/d54/a05684.html", "d9/d54/a05684" ],
+    [ "AUTH_LOGON_PROOF_C", "db/daf/a05688.html", "db/daf/a05688" ],
+    [ "AUTH_LOGON_PROOF_S", "d4/d0d/a05692.html", "d4/d0d/a05692" ],
+    [ "AUTH_LOGON_PROOF_S_OLD", "da/dff/a05696.html", "da/dff/a05696" ],
+    [ "AUTH_RECONNECT_PROOF_C", "dd/dd5/a05700.html", "dd/dd5/a05700" ],
     [ "AUTH_LOGON_CHALLENGE_INITIAL_SIZE", "de/dfb/a01874.html#a38c5f396c839f5f22ec0ec7a5b2a5019", null ],
     [ "MAX_ACCEPTED_CHALLENGE_SIZE", "de/dfb/a01874.html#a2507a44fb848704cf4f3624207c18ebe", null ],
     [ "REALM_LIST_PACKET_SIZE", "de/dfb/a01874.html#af848fed368789960f3d9e059f8002e11", null ],

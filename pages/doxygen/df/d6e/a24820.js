@@ -1,7 +1,7 @@
 var a24820 =
 [
-    [ "HandleProc", "df/d6e/a24820.html#a6bfa44b7adfff5aebbfe96bd7b983744", null ],
-    [ "PrepareAuraScript", "df/d6e/a24820.html#adf8a9d15a105bb639ae240d6062a7041", null ],
-    [ "Register", "df/d6e/a24820.html#a7e63aa6af08411ad8e75fc69bdb84de5", null ],
-    [ "Validate", "df/d6e/a24820.html#a6a70833aaae84cbb512d3ebaa79fe301", null ]
+    [ "AfterApply", "df/d6e/a24820.html#aee69eceead7e31cce2638ff252f6653d", null ],
+    [ "AfterRemove", "df/d6e/a24820.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
+    [ "PrepareAuraScript", "df/d6e/a24820.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
+    [ "Register", "df/d6e/a24820.html#ab5f8afbfa688ebd548a5508543498b55", null ]
 ];

@@ -1,6 +1,6 @@
 var a22496 =
 [
-    [ "npc_icefangAI", "de/d1d/a22500.html", "de/d1d/a22500" ],
-    [ "npc_icefang", "d8/de8/a22496.html#a2e13be89b110abaa2509e597e4cf883a", null ],
-    [ "GetAI", "d8/de8/a22496.html#ad1a936b1eef30271912054a817e0c9f8", null ]
+    [ "CheckCast", "d8/de8/a22496.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
+    [ "PrepareSpellScript", "d8/de8/a22496.html#ab4025d8a4acee4723dcca972bce01f45", null ],
+    [ "Register", "d8/de8/a22496.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
 ];

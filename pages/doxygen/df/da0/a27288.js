@@ -1,5 +1,5 @@
 var a27288 =
 [
-    [ "achievement_killed_exp_or_honor_target", "df/da0/a27288.html#aad432878c97af698dd1cc4019d716281", null ],
-    [ "OnCheck", "df/da0/a27288.html#ace8fc68ebb73e39626797be4caa45a3c", null ]
+    [ "AreaTrigger_at_scent_larkorwi", "df/da0/a27288.html#a967a43eae4cc986754eed9ee8291c17e", null ],
+    [ "OnTrigger", "df/da0/a27288.html#aeeb339afa5a7dd4b028aea800026998e", null ]
 ];

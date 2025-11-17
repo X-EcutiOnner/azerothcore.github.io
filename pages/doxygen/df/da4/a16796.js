@@ -1,6 +1,5 @@
 var a16796 =
 [
-    [ "boss_fjolaAI", "d1/dee/a16800.html", "d1/dee/a16800" ],
-    [ "boss_fjola", "df/da4/a16796.html#a44baccf91ab8c8bc5d5a9d0aa8ef943f", null ],
-    [ "GetAI", "df/da4/a16796.html#a96d9ea0716199758b60ad933ade28de4", null ]
+    [ "boss_fjolaAI", "df/da4/a16796.html#aa46fdff841d01f28ef50aa5363082f71", null ],
+    [ "JustSummoned", "df/da4/a16796.html#a59a3f2453f923d4f19c63e88402d1a76", null ]
 ];

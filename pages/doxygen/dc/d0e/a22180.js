@@ -1,6 +1,7 @@
 var a22180 =
 [
-    [ "HandleOnEffectRemove", "dc/d0e/a22180.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
-    [ "PrepareAuraScript", "dc/d0e/a22180.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
-    [ "Register", "dc/d0e/a22180.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
+    [ "npc_Apothecary_HanesAI", "d6/d9d/a22184.html", "d6/d9d/a22184" ],
+    [ "npc_apothecary_hanes", "dc/d0e/a22180.html#a90480bee491e8fe1c9e7b2c71aac28c8", null ],
+    [ "GetAI", "dc/d0e/a22180.html#a7f3f86efb9a6146b86aa5d882b751e1f", null ],
+    [ "OnQuestAccept", "dc/d0e/a22180.html#ae116e49b0e8865f9b5735e72c8c850fd", null ]
 ];

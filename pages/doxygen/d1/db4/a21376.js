@@ -1,13 +1,6 @@
 var a21376 =
 [
-    [ "MoveX", "d1/db4/a21376.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
-    [ "MoveY", "d1/db4/a21376.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
-    [ "MoveZ", "d1/db4/a21376.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
-    [ "npc", "d1/db4/a21376.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
-    [ "say", "d1/db4/a21376.html#adcd8647fc0ee9799e24173780209f2d9", null ],
-    [ "SpawnO", "d1/db4/a21376.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
-    [ "SpawnX", "d1/db4/a21376.html#af3ae27adaecafe9a09802bc202973d68", null ],
-    [ "SpawnY", "d1/db4/a21376.html#a749e9c6edcc87f258f250344d652145c", null ],
-    [ "SpawnZ", "d1/db4/a21376.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
-    [ "trigger", "d1/db4/a21376.html#ad2291d89a874c79859b3140754594ed7", null ]
+    [ "instance_utgarde_pinnacle_InstanceMapScript", "d4/dc9/a21380.html", "d4/dc9/a21380" ],
+    [ "instance_utgarde_pinnacle", "d1/db4/a21376.html#a70c1528c9c1b0d830cc7af7debd5721b", null ],
+    [ "GetInstanceScript", "d1/db4/a21376.html#a41bd06d5f42b09193c5f1b2bbb2323ac", null ]
 ];

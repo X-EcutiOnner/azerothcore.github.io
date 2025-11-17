@@ -1,6 +1,6 @@
 var a22376 =
 [
-    [ "npc_vekjik", "d8/dee/a22376.html#a7439c6038237b77ba8623ae92d6cf708", null ],
-    [ "OnGossipHello", "d8/dee/a22376.html#acdbba5b4970049e72477eccf6672b0e8", null ],
-    [ "OnGossipSelect", "d8/dee/a22376.html#a0bcdcb6cd57264e664c449e261d3580b", null ]
+    [ "npc_jungle_punch_targetAI", "d4/d9b/a22380.html", "d4/d9b/a22380" ],
+    [ "npc_jungle_punch_target", "d8/dee/a22376.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
+    [ "GetAI", "d8/dee/a22376.html#abb38ccb55abfe0f48f360469031c6902", null ]
 ];

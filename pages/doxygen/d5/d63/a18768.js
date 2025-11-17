@@ -1,7 +1,6 @@
 var a18768 =
 [
-    [ "FrostwingVrykulSearcher", "d5/d63/a18768.html#a10aa54184b42a0538dc4f325204399e9", null ],
-    [ "operator()", "d5/d63/a18768.html#afbf32ce600cee12930fefcf9b5e87f16", null ],
-    [ "_range", "d5/d63/a18768.html#a04b2913aae7fbf6547a960d0876d4d02", null ],
-    [ "_source", "d5/d63/a18768.html#af5d3c93f41698e71c867336d0453d40a", null ]
+    [ "npc_highlord_tirion_fordringAI", "d2/d5b/a18772.html", "d2/d5b/a18772" ],
+    [ "npc_highlord_tirion_fordring_lh", "d5/d63/a18768.html#a96102a488330c54a3e3654c767e8e1a5", null ],
+    [ "GetAI", "d5/d63/a18768.html#aea42394c04c1763cffe10eb5eba09854", null ]
 ];

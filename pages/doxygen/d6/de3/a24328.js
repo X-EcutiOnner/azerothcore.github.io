@@ -1,7 +1,14 @@
 var a24328 =
 [
-    [ "CheckRequirement", "d6/de3/a24328.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "d6/de3/a24328.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "d6/de3/a24328.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "d6/de3/a24328.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "npc_mature_netherwing_drakeAI", "d6/de3/a24328.html#a32281f8dfa1c8af8fe6bcac2a8be4220", null ],
+    [ "JustReachedHome", "d6/de3/a24328.html#a0de69b5fda6342217697ad264d64d4e6", null ],
+    [ "MovementInform", "d6/de3/a24328.html#a456b5de60672120f82506d177faf6b47", null ],
+    [ "Reset", "d6/de3/a24328.html#a72eb39e259aed0ab230d4d43722cba13", null ],
+    [ "SpellHit", "d6/de3/a24328.html#a749690b386c0c726d11b77bc705b9b01", null ],
+    [ "UpdateAI", "d6/de3/a24328.html#a624c256f29d3cefed0bb909da3841853", null ],
+    [ "bCanEat", "d6/de3/a24328.html#ad4c671be4f16f23ddf2f2f84b0bd4c94", null ],
+    [ "bIsEating", "d6/de3/a24328.html#a0519438fda724a06a0c6f8ed2d7d533d", null ],
+    [ "CastTimer", "d6/de3/a24328.html#a630312f70a2f22683311a66e5a4f9ec6", null ],
+    [ "EatTimer", "d6/de3/a24328.html#aa50d3a21103dc769d162b1c917100630", null ],
+    [ "uiPlayerGUID", "d6/de3/a24328.html#a6b9a435245ddce156d0657aa9e35175b", null ]
 ];

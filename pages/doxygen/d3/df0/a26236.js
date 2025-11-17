@@ -1,7 +1,6 @@
 var a26236 =
 [
-    [ "HandleKnockBack", "d3/df0/a26236.html#a860fb74000a42a7d6f22d17dde93cdf6", null ],
-    [ "PrepareSpellScript", "d3/df0/a26236.html#ab951d6403188f178f79311cead8a0a8f", null ],
-    [ "Register", "d3/df0/a26236.html#ac62f4fdf003cdd53650fe632b3ed3ef1", null ],
-    [ "Validate", "d3/df0/a26236.html#add1bd8f583772d4dfeb20f01b9fac8ed", null ]
+    [ "CalculateAmount", "d3/df0/a26236.html#a3491a0a1d2f00f76730ddc53a66c8179", null ],
+    [ "PrepareAuraScript", "d3/df0/a26236.html#a667883298cee173af941cfc07022f318", null ],
+    [ "Register", "d3/df0/a26236.html#a22514461b79f736e3ab595fa7fb48b68", null ]
 ];

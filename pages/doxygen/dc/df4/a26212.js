@@ -1,6 +1,8 @@
 var a26212 =
 [
-    [ "HandleDummy", "dc/df4/a26212.html#a4fde3142b38989cb37db76da6eada03c", null ],
-    [ "PrepareSpellScript", "dc/df4/a26212.html#aa694a1a7cbbe0f20226d7e616e19cefb", null ],
-    [ "Register", "dc/df4/a26212.html#a1f83fae2fb3dc0904ed56101e1254f5f", null ]
+    [ "Absorb", "dc/df4/a26212.html#a9378cde1cc6daab0dc111b94aef4f6c8", null ],
+    [ "CalculateAmount", "dc/df4/a26212.html#a20d5b4776ebeb859b0641af640e41d80", null ],
+    [ "PrepareAuraScript", "dc/df4/a26212.html#ae1a70e11e89c4252e481ad737ad00ae0", null ],
+    [ "Register", "dc/df4/a26212.html#a8c5399ba68554f4c2e842c5492ad715c", null ],
+    [ "Validate", "dc/df4/a26212.html#aa6264e4dbff71b0d82e3403984c59c03", null ]
 ];

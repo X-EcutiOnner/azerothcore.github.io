@@ -1,6 +1,6 @@
 var a25104 =
 [
-    [ "CheckLevel", "d9/d01/a25104.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
-    [ "PrepareSpellScript", "d9/d01/a25104.html#abc2bcce83810661ab462f56594066df3", null ],
-    [ "Register", "d9/d01/a25104.html#add6731563bd9a26d8f286bd29ffc8709", null ]
+    [ "HandleDummy", "d9/d01/a25104.html#a80ab847f2528060b2e3e2e128cfc06af", null ],
+    [ "PrepareSpellScript", "d9/d01/a25104.html#af310c2b28ed816b9fbe494f81c42043c", null ],
+    [ "Register", "d9/d01/a25104.html#ae5e494ca801b35520bddb4a8a148efcd", null ]
 ];

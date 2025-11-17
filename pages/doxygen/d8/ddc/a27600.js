@@ -1,5 +1,5 @@
 var a27600 =
 [
-    [ "go_veil_skith_cage", "d8/ddc/a27600.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
-    [ "OnGossipHello", "d8/ddc/a27600.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
+    [ "item_only_for_flight", "d8/ddc/a27600.html#a8f905266dc8f24cf35598a37e7018ff7", null ],
+    [ "OnUse", "d8/ddc/a27600.html#a88cdf17a85630aef703f93143ba41d4d", null ]
 ];

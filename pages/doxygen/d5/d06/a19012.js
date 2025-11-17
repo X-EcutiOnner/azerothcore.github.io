@@ -1,9 +1,14 @@
 var a19012 =
 [
-    [ "npc_icc_severed_essenceAI", "d5/d06/a19012.html#a76366c33ab9ec7aa291c0df657fbef68", null ],
-    [ "CanAIAttack", "d5/d06/a19012.html#a2cc2cfc967f9ad966d76571eb0eb630f", null ],
-    [ "DoAction", "d5/d06/a19012.html#a938af3a7de5b26432e1ad515a326a032", null ],
-    [ "UpdateAI", "d5/d06/a19012.html#a66e3324baa87ba109dd968a517ee82a5", null ],
-    [ "Class", "d5/d06/a19012.html#aa627713be3a2ac01336d158d96aaccc7", null ],
-    [ "events", "d5/d06/a19012.html#a1bab216925c4123d633d9613bb80365c", null ]
+    [ "npc_icc_vengeful_fleshreaperAI", "d5/d06/a19012.html#a4a459289a55871990abc0adc4ba8278c", null ],
+    [ "AttackStart", "d5/d06/a19012.html#a3412c5664c1c1354b615e8f798824b91", null ],
+    [ "JustReachedHome", "d5/d06/a19012.html#a161fd53eca71cb0a3b8fb8d483b7e49b", null ],
+    [ "MoveInLineOfSight", "d5/d06/a19012.html#acfbaa73491940a916f8d0a0b852bcc61", null ],
+    [ "MovementInform", "d5/d06/a19012.html#ad14a1d8cfe749d54a801a3902aa49e1d", null ],
+    [ "Reset", "d5/d06/a19012.html#aa60d5d2d534aa6e9fe7c77703bab5fce", null ],
+    [ "UpdateAI", "d5/d06/a19012.html#a8946357cad01050641bcdf51edce192f", null ],
+    [ "currPipeWP", "d5/d06/a19012.html#af8a298ccbd6f22a0a4416ed6cb082e67", null ],
+    [ "events", "d5/d06/a19012.html#aa39171910383c74583f24663d6c23f3b", null ],
+    [ "forward", "d5/d06/a19012.html#a28eb6d3f007f45b9db4eafafe71b779c", null ],
+    [ "needMove", "d5/d06/a19012.html#ae08f9c54d08b0eae5ad71d69f06a6544", null ]
 ];

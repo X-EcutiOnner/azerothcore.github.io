@@ -1,7 +1,7 @@
 var a17988 =
 [
-    [ "npc_coldflameAI", "d8/da4/a17988.html#a2a8420b79357f7a2167dddbd68ec8bc0", null ],
-    [ "IsSummonedBy", "d8/da4/a17988.html#a1a330428ac8f17dc673fb1ae4d57035a", null ],
-    [ "UpdateAI", "d8/da4/a17988.html#a5a847ae7c15b309cb1393b6d16a6e220", null ],
-    [ "events", "d8/da4/a17988.html#af3b7d4ca1b268fe0d786eee83c0a3596", null ]
+    [ "HandleScriptEffect", "d8/da4/a17988.html#abeb703f8f050677bafb8f5ce4173751a", null ],
+    [ "PrepareSpellScript", "d8/da4/a17988.html#a19dec2c1cbe72d90fa86960d7bb21277", null ],
+    [ "Register", "d8/da4/a17988.html#aa2c6c9de775ecce9f84485e0ac64a651", null ],
+    [ "SelectTarget", "d8/da4/a17988.html#ae8eb94536a9f08138b42cfe8ea711eaa", null ]
 ];

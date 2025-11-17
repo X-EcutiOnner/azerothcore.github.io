@@ -1,7 +1,8 @@
 var a25444 =
 [
-    [ "PrepareAuraScript", "d1/d6e/a25444.html#afeac0a8393b7d7bf787fca59988d0e14", null ],
-    [ "Register", "d1/d6e/a25444.html#a7cbcf46dbdddea12fd6ce04bcbcea097", null ],
-    [ "TriggerFoodBuff", "d1/d6e/a25444.html#a5d125413491dd377d61b8e30c4979fdd", null ],
-    [ "Validate", "d1/d6e/a25444.html#a6b69d7358eb8cfe6a8f9efd47882eb80", null ]
+    [ "HandleApply", "d1/d6e/a25444.html#af20f30fe2bfc7a370b166a6200b44ca9", null ],
+    [ "OnPeriodic", "d1/d6e/a25444.html#a6b3223ef23854f22b9a3baba0d42cb11", null ],
+    [ "PrepareAuraScript", "d1/d6e/a25444.html#a344d1a92623865876174c0e88ce8ab4b", null ],
+    [ "Register", "d1/d6e/a25444.html#a352ff0e85eee6e51e9f2eea5cdd9108c", null ],
+    [ "Validate", "d1/d6e/a25444.html#ac4fd8fdde53f947082b23852ce149ea9", null ]
 ];

@@ -1,6 +1,7 @@
 var a23100 =
 [
-    [ "boss_essence_of_desireAI", "d6/d9d/a23104.html", "d6/d9d/a23104" ],
-    [ "boss_essence_of_desire", "d7/db5/a23100.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "d7/db5/a23100.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "CalculateAmount", "d7/db5/a23100.html#adad1c8a513ce8a1badbd40c291363de1", null ],
+    [ "PrepareAuraScript", "d7/db5/a23100.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
+    [ "Register", "d7/db5/a23100.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
+    [ "Update", "d7/db5/a23100.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
 ];

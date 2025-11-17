@@ -1,7 +1,9 @@
 var a24044 =
 [
-    [ "Load", "dc/daf/a24044.html#aba7e1a0b87607386649bb842b5058c3e", null ],
-    [ "OnRemove", "dc/daf/a24044.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
-    [ "PrepareAuraScript", "dc/daf/a24044.html#ac62b18eedbadb0b3581d772909175e96", null ],
-    [ "Register", "dc/daf/a24044.html#a17e8be131f01b2434b18740b20a08d6e", null ]
+    [ "boss_void_reaver", "dc/daf/a24044.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
+    [ "JustDied", "dc/daf/a24044.html#a49e6f52b11177bdac07adff92c2675f5", null ],
+    [ "JustEngagedWith", "dc/daf/a24044.html#a9260d05e11f4dec6fc25432a0524706b", null ],
+    [ "KilledUnit", "dc/daf/a24044.html#adc234fc43308771a42d99049876cad1b", null ],
+    [ "Reset", "dc/daf/a24044.html#a02c36ea960de24991f879943991a93c6", null ],
+    [ "_recentlySpoken", "dc/daf/a24044.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac", null ]
 ];

@@ -1,7 +1,9 @@
 var a28632 =
 [
-    [ "Flags", "d8/d5a/a28632.html#a12b3cb0e28ed0f47ff5ccea09fc8b860", null ],
-    [ "ID", "d8/d5a/a28632.html#ab6ccf4a64672a6ade01f59cdeeeb85cb", null ],
-    [ "RangeMax", "d8/d5a/a28632.html#a9691134e5cb1e15e3c93ea05a653975d", null ],
-    [ "RangeMin", "d8/d5a/a28632.html#a127a46f2382edea750ca567d5ea3d304", null ]
+    [ "Category", "d8/d5a/a28632.html#acd933f251a1faa1f705420307136681d", null ],
+    [ "Faction", "d8/d5a/a28632.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
+    [ "Flags", "d8/d5a/a28632.html#a8b41ed573eae71196664a61bac83fe3e", null ],
+    [ "Id", "d8/d5a/a28632.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
+    [ "Slot", "d8/d5a/a28632.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
+    [ "Type", "d8/d5a/a28632.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
 ];

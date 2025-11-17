@@ -1,11 +1,10 @@
 var a24840 =
 [
-    [ "CalcPeriodic", "d1/d2a/a24840.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
-    [ "CalculateAPAmount", "d1/d2a/a24840.html#ab23f26c3470f629f0a20f28faf272a68", null ],
-    [ "CalculateHealthAmount", "d1/d2a/a24840.html#a4f827a906ac279e143ba8545545090ad", null ],
-    [ "CalculateSPAmount", "d1/d2a/a24840.html#ae94493ffed217a218e21c05e002cec00", null ],
-    [ "HandleEffectApply", "d1/d2a/a24840.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
-    [ "HandlePeriodic", "d1/d2a/a24840.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
-    [ "PrepareAuraScript", "d1/d2a/a24840.html#a5052689d815e0a0543693b39b7454deb", null ],
-    [ "Register", "d1/d2a/a24840.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
+    [ "CalculateAPAmount", "d1/d2a/a24840.html#af1d4558f6132d3c2abc71ec1dabee2e8", null ],
+    [ "CalculateResistanceAmount", "d1/d2a/a24840.html#a5d6e7b92f4335176388a877e72c0e92c", null ],
+    [ "CalculateSPAmount", "d1/d2a/a24840.html#a40c96996d19b9f7eeed3fda4271b9f87", null ],
+    [ "CalculateStatAmount", "d1/d2a/a24840.html#ae4f96de2c558a4b0fd7659442aa3d92b", null ],
+    [ "HandleEffectApply", "d1/d2a/a24840.html#aeebb14424a6ae336edd4b66d824d648a", null ],
+    [ "PrepareAuraScript", "d1/d2a/a24840.html#a7e3dc351574f6d6ad3424eb7df7092df", null ],
+    [ "Register", "d1/d2a/a24840.html#ab5713a34ced4d2e2a67b43e98d7a55c0", null ]
 ];

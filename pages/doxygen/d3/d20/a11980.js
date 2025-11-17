@@ -1,15 +1,12 @@
 var a11980 =
 [
-    [ "worldstate_commandscript", "d3/d20/a11980.html#aa409f7a2baed14a591d9567d1fb1ffcf", null ],
-    [ "GetCommands", "d3/d20/a11980.html#a9c2b9e6f00727da760ca2be2c0c1aff7", null ],
-    [ "HandleScourgeInvasionBattlesWonCommand", "d3/d20/a11980.html#a1c2167ce554327d674161b7c4f63585c", null ],
-    [ "HandleScourgeInvasionCommand", "d3/d20/a11980.html#a11aeedef82a93f8799fd788a8c492335", null ],
-    [ "HandleScourgeInvasionStartZone", "d3/d20/a11980.html#af242372bd32ed79d839af82f82423837", null ],
-    [ "HandleScourgeInvasionStateCommand", "d3/d20/a11980.html#a5ba0b973087f921dbb764037c8b36134", null ],
-    [ "HandleSunsReachReclamationCounterCommand", "d3/d20/a11980.html#a78ccd5fd1fe4562d93f69199112044d2", null ],
-    [ "HandleSunsReachReclamationPhaseCommand", "d3/d20/a11980.html#a4b7049c1c9932b098441a3af4d7cd03c", null ],
-    [ "HandleSunsReachReclamationStatusCommand", "d3/d20/a11980.html#a1534e35532bc29b8d03594af30e4cdfa", null ],
-    [ "HandleSunsReachReclamationSubPhaseCommand", "d3/d20/a11980.html#a2307687ae1d3cb3f6e5237af4d8f8595", null ],
-    [ "HandleSunwellGateCommand", "d3/d20/a11980.html#a45b73e47c8e9b21063d02922a83e103b", null ],
-    [ "HandleSunwellGateCounterCommand", "d3/d20/a11980.html#a805ab7fa1900feeb3e3034263c3a0a4d", null ]
+    [ "wp_commandscript", "d3/d20/a11980.html#a152610b5faf3ee05bb830bbf820b7162", null ],
+    [ "GetCommands", "d3/d20/a11980.html#a55ecc8d67d7c240df1b177f755fc5850", null ],
+    [ "HandleWpAddCommand", "d3/d20/a11980.html#adedc9b5184e1c29edfa80734e59b8bf0", null ],
+    [ "HandleWpEventCommand", "d3/d20/a11980.html#a16fdb79724677307198ccf2fd6aa670d", null ],
+    [ "HandleWpLoadCommand", "d3/d20/a11980.html#a3fae6e6c16f1f6ed1e9dc9da716d064d", null ],
+    [ "HandleWpModifyCommand", "d3/d20/a11980.html#a83677a6b64c3e5f6e44345026775721a", null ],
+    [ "HandleWpReloadCommand", "d3/d20/a11980.html#a671598d3727fa7e9358391008c690cb6", null ],
+    [ "HandleWpShowCommand", "d3/d20/a11980.html#ac07358385858058e3df99bd0dd9ab5c1", null ],
+    [ "HandleWpUnLoadCommand", "d3/d20/a11980.html#a8e0f636c31f69acf5b9b0b27e9a9462e", null ]
 ];

@@ -1,7 +1,7 @@
 var a26868 =
 [
-    [ "CheckProc", "d5/dcc/a26868.html#aa03bd8b92debda29f0b236fdbef73f16", null ],
-    [ "HandleProc", "d5/dcc/a26868.html#a91ee1b654a3a26e027407635a45b80b3", null ],
-    [ "PrepareAuraScript", "d5/dcc/a26868.html#ad2796a924fbe36dc9cd1c9de60eb9b16", null ],
-    [ "Register", "d5/dcc/a26868.html#ab06a732203303d5533bdc4b217640d2d", null ]
+    [ "HandleDummy", "d5/dcc/a26868.html#a96c5064738653ce16f06634196218a88", null ],
+    [ "PrepareSpellScript", "d5/dcc/a26868.html#a2fa51a29d2c8ce74c8a4351712ccdeb9", null ],
+    [ "Register", "d5/dcc/a26868.html#a080969e035143ac8527443025dbacef2", null ],
+    [ "Validate", "d5/dcc/a26868.html#a66fd30d7cffdc7307b4c9dc821ccdf92", null ]
 ];

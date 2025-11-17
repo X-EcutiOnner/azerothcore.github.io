@@ -1,7 +1,6 @@
 var a27396 =
 [
-    [ "FilterTargets", "d9/d5d/a27396.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "d9/d5d/a27396.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "d9/d5d/a27396.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "d9/d5d/a27396.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "go_witherbark_totem_bundleAI", "d9/d5d/a27396.html#a955625e2315008a2e36936d44f825060", null ],
+    [ "UpdateAI", "d9/d5d/a27396.html#af688bab2dc3d938951adb303e8b8d88b", null ],
+    [ "_timer", "d9/d5d/a27396.html#a509e6d8401380c326a0f565a6b903d7a", null ]
 ];

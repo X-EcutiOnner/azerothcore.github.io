@@ -1,5 +1,6 @@
 var a10680 =
 [
-    [ "GuildEventLogQuery", "d2/ddd/a10680.html#af66d667a4b722745fa4f855870ef332c", null ],
-    [ "Read", "d2/ddd/a10680.html#a48881f116070d5a7c03e7cace86656f6", null ]
+    [ "GuildEventLogQueryResults", "d2/ddd/a10680.html#af12c732cd5c81792c6f0cb5cacc096f9", null ],
+    [ "Write", "d2/ddd/a10680.html#aa24738cdd040a883782b50189abdf240", null ],
+    [ "Entry", "d2/ddd/a10680.html#a227ab5555fccf5c8c78ca10fa229d3d4", null ]
 ];

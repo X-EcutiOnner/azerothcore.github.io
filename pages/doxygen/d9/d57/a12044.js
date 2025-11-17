@@ -1,5 +1,6 @@
 var a12044 =
 [
-    [ "at_ring_of_law", "d9/d57/a12044.html#ad9bb44e898f90fb489b50cad0a711976", null ],
-    [ "OnTrigger", "d9/d57/a12044.html#a613471caae75ab3d82ce915101a20108", null ]
+    [ "npc_grimstoneAI", "d6/dee/a12048.html", "d6/dee/a12048" ],
+    [ "npc_grimstone", "d9/d57/a12044.html#ae5c3e36bf18cb30dd4fc7cd5e7a72cfb", null ],
+    [ "GetAI", "d9/d57/a12044.html#a24cf0aa69ac28c13ac3c44e14c35406c", null ]
 ];

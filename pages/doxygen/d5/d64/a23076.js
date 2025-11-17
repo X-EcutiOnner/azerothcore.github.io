@@ -1,8 +1,6 @@
 var a23076 =
 [
-    [ "FilterTargets", "d5/d64/a23076.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
-    [ "HandleDummy", "d5/d64/a23076.html#ab89ab441f022ee017548ba49d128b92e", null ],
-    [ "PrepareSpellScript", "d5/d64/a23076.html#aa8578390d7d9379328c02ceb209e94ed", null ],
-    [ "Register", "d5/d64/a23076.html#a486387d707b7ad66ecb443ab2bb60778", null ],
-    [ "Validate", "d5/d64/a23076.html#ad5d695978794d796eb7139fce1530d57", null ]
+    [ "boss_essence_of_angerAI", "d3/d5d/a23080.html", "d3/d5d/a23080" ],
+    [ "boss_essence_of_anger", "d5/d64/a23076.html#adf8151d1fbb4a258f174c4bdb8410cd6", null ],
+    [ "GetAI", "d5/d64/a23076.html#a70a460f31b7f878e532b695ca822ab5d", null ]
 ];

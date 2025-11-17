@@ -1,6 +1,7 @@
 var a20096 =
 [
-    [ "npc_brann_radioAI", "dc/d97/a20100.html", "dc/d97/a20100" ],
-    [ "npc_brann_radio", "d1/d75/a20096.html#a22b5231f643c287d8e32d88a3b0728b2", null ],
-    [ "GetAI", "d1/d75/a20096.html#aa2ea91337262fb886e7535ba013f4b10", null ]
+    [ "npc_storm_beacon_spawnAI", "d1/d75/a20096.html#a031c1941f177a18af58efcf4a1270654", null ],
+    [ "UpdateAI", "d1/d75/a20096.html#a249bf56b905ef0c8b34c737d95518c91", null ],
+    [ "_amount", "d1/d75/a20096.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
+    [ "_checkTimer", "d1/d75/a20096.html#a7fd6d449b6a20ba9463896244c513a67", null ]
 ];

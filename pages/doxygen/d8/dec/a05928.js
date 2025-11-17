@@ -1,15 +1,13 @@
 var a05928 =
 [
-    [ "TransactionBase", "d8/dec/a05928.html#a663d13ba0b22e0711d135073ff80ee47", null ],
-    [ "~TransactionBase", "d8/dec/a05928.html#a6ce7e6ef81bb466463bace35cdd49476", null ],
-    [ "Append", "d8/dec/a05928.html#a867b7a92080104278aef5fb4975a4a52", null ],
-    [ "Append", "d8/dec/a05928.html#aa0a81814abe26d456018c3bc9153cd4d", null ],
-    [ "AppendPreparedStatement", "d8/dec/a05928.html#a8e099a4f8775b5e5e3b95ad0273a716f", null ],
-    [ "Cleanup", "d8/dec/a05928.html#a35e0ce11de325a1b286d90a2936d4aa3", null ],
-    [ "GetSize", "d8/dec/a05928.html#a261ad9d7423562ccbe2cac6d75c203bd", null ],
+    [ "TransactionTask", "d8/dec/a05928.html#a13573f827891ad172847dc0e466b0b9e", null ],
+    [ "~TransactionTask", "d8/dec/a05928.html#a68bc982f025d40bbc3a7323cd8c96786", null ],
+    [ "CleanupOnFailure", "d8/dec/a05928.html#adc2f1534bce5a7ce198eeeb510fcb533", null ],
+    [ "Execute", "d8/dec/a05928.html#aa1c1df059d15fe2077ceea5cfb51ba22", null ],
+    [ "TryExecute", "d8/dec/a05928.html#a28c9ca1d9d3fdc6a722dcec68e46a38f", null ],
+    [ "DatabaseWorker", "d8/dec/a05928.html#ac8984f2167ec797d478f3a771d1c1c3f", null ],
     [ "DatabaseWorkerPool", "d8/dec/a05928.html#a5d89109a06fa4fca3057b99bbfa84e58", null ],
-    [ "MySQLConnection", "d8/dec/a05928.html#a06fa417f69e0a67da8f249333b1d189d", null ],
-    [ "TransactionTask", "d8/dec/a05928.html#a377add6d6b5e34e774d2497d58f4a180", null ],
-    [ "_cleanedUp", "d8/dec/a05928.html#aa82af96128bfcee997423a54396d40d4", null ],
-    [ "m_queries", "d8/dec/a05928.html#a156f1a8316358c05285778e5734eade1", null ]
+    [ "TransactionCallback", "d8/dec/a05928.html#ac3345f3314b133d53268f53e222cdc74", null ],
+    [ "_deadlockLock", "d8/dec/a05928.html#a84b48dbb670dd884e9b44ea53c8b0008", null ],
+    [ "m_trans", "d8/dec/a05928.html#a242f0cb47bc6b456b6bea9aa372df4b6", null ]
 ];

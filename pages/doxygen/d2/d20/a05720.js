@@ -1,8 +1,13 @@
 var a05720 =
 [
-    [ "BaseSocketMgr", "d2/d20/a05720.html#a55ca5c800a783d89fbe05bd945374b84", null ],
-    [ "CreateThreads", "d2/d20/a05720.html#a98a0866ae616017010f639f0ad9fc72d", null ],
-    [ "Instance", "d2/d20/a05720.html#a9c56ed247f209709221a3e592f4d010f", null ],
-    [ "OnSocketAccept", "d2/d20/a05720.html#ac8169c9c11a33336d08acb0532e917bc", null ],
-    [ "StartNetwork", "d2/d20/a05720.html#a345e4f8cc1c216ed7eb9c3e96748170f", null ]
+    [ "SOAPCommand", "d2/d20/a05720.html#a56d5e1a4b0e3abb0284c668e175a8d4b", null ],
+    [ "~SOAPCommand", "d2/d20/a05720.html#ab0a07da0bb379751d0d2812dfa98b607", null ],
+    [ "appendToPrintBuffer", "d2/d20/a05720.html#a116d4a9d85c536ca3866bf340b64b9d9", null ],
+    [ "commandFinished", "d2/d20/a05720.html#a18310d831429b084dc5cbf6310195001", null ],
+    [ "hasCommandSucceeded", "d2/d20/a05720.html#a251a0999a4b74ca8db7bbaa634f1d361", null ],
+    [ "print", "d2/d20/a05720.html#a69a3287df41392488dbcb1be2f0349f3", null ],
+    [ "setCommandSuccess", "d2/d20/a05720.html#ae6849ecbf940ac2baf92f3b7ca3d6cd2", null ],
+    [ "finishedPromise", "d2/d20/a05720.html#aec2e336644d004a59ad21431fbf80c83", null ],
+    [ "m_printBuffer", "d2/d20/a05720.html#aa823e9c8d3048d5780b11d168f5be0d9", null ],
+    [ "m_success", "d2/d20/a05720.html#aab7299bceae48c2066f1885b90a34c60", null ]
 ];

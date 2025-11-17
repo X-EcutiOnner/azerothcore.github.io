@@ -1,5 +1,8 @@
 var a20128 =
 [
-    [ "go_ulduar_tower", "de/d8f/a20128.html#afc1add1a0543921f52afe1eb907f5de3", null ],
-    [ "OnDestroyed", "de/d8f/a20128.html#aa72ebefe52d49e5b07fb36232efd7e95", null ]
+    [ "OnApply", "de/d8f/a20128.html#a5aec8606684637bbdb1e819254f5d483", null ],
+    [ "OnRemove", "de/d8f/a20128.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
+    [ "PrepareAuraScript", "de/d8f/a20128.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
+    [ "Register", "de/d8f/a20128.html#af1db6ca387cf0733ba4b9c324172d692", null ],
+    [ "Validate", "de/d8f/a20128.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
 ];

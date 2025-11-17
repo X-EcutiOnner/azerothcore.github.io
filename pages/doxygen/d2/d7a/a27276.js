@@ -1,5 +1,5 @@
 var a27276 =
 [
-    [ "achievement_sa_defense_of_the_ancients", "d2/d7a/a27276.html#a678cffdece32710a42a92db0c092f3a5", null ],
-    [ "OnCheck", "d2/d7a/a27276.html#af23e346f9b022f490b84c8081f847a2f", null ]
+    [ "AreaTrigger_at_coilfang_waterfall", "d2/d7a/a27276.html#aa2e9a01adad7e195860bbc6c55131024", null ],
+    [ "OnTrigger", "d2/d7a/a27276.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
 ];

@@ -1,6 +1,6 @@
 var a17536 =
 [
-    [ "OnAbsorb", "d5/d41/a17536.html#aa6582457cd0502ca263433d04b40b64f", null ],
-    [ "PrepareAuraScript", "d5/d41/a17536.html#a0b6916dd3f6172e59edf477f203c85b1", null ],
-    [ "Register", "d5/d41/a17536.html#a945ec4037120992e8a2986e7fd2e2c96", null ]
+    [ "PrepareSpellScript", "d5/d41/a17536.html#a86609d6cd708de9ead02c6134cbb6f64", null ],
+    [ "Register", "d5/d41/a17536.html#aceb3da4aec68cb44bcbee36f599afd62", null ],
+    [ "SetDest", "d5/d41/a17536.html#a9ed93e44df4e759fda72a63474e01b3b", null ]
 ];

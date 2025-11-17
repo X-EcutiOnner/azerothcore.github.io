@@ -1,6 +1,14 @@
 var a17020 =
 [
-    [ "boss_falricAI", "d3/d71/a17024.html", "d3/d71/a17024" ],
-    [ "boss_falric", "d2/d39/a17020.html#aa64253f502f79db5947c09788fb66deb", null ],
-    [ "GetAI", "d2/d39/a17020.html#a95249877208d19bb54edd8de18616158", null ]
+    [ "boss_marwynAI", "d2/d39/a17020.html#abfc074b89e4edcf461c4df4d00c90856", null ],
+    [ "DoAction", "d2/d39/a17020.html#adc68f202aa2e78bd3a7969bfddcce710", null ],
+    [ "EnterEvadeMode", "d2/d39/a17020.html#acb0b5675c2ff9f614ddafd88ff96e62e", null ],
+    [ "JustDied", "d2/d39/a17020.html#a11f64dbf0333c212584d441d4b719d9c", null ],
+    [ "JustEngagedWith", "d2/d39/a17020.html#ae7509cf8b3b93e97b2e617c1ac181c87", null ],
+    [ "KilledUnit", "d2/d39/a17020.html#a43b40959a22a1767c1c717f5bf7200ad", null ],
+    [ "Reset", "d2/d39/a17020.html#a7433e7ed2007ccde768e1e15640ac99d", null ],
+    [ "UpdateAI", "d2/d39/a17020.html#abaa8f609099423c9d8db5b93f2dd411e", null ],
+    [ "events", "d2/d39/a17020.html#a87c1f1785612cfd42667bd635ce16f2a", null ],
+    [ "pInstance", "d2/d39/a17020.html#a524e6c4145851d67edfdc0d9cb5b2e7c", null ],
+    [ "startFightTimer", "d2/d39/a17020.html#a2a1d7531025f136e368fc7d2b4c0d163", null ]
 ];

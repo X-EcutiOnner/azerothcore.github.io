@@ -1,5 +1,6 @@
 var a27544 =
 [
-    [ "go_tele_to_dalaran_crystal", "dc/d64/a27544.html#ab41268b7d568e8f189338f27cd90a62c", null ],
-    [ "OnGossipHello", "dc/d64/a27544.html#a7f754a29249653ca7848494310ef1a8d", null ]
+    [ "go_soulwellAI", "d6/d76/a27548.html", "d6/d76/a27548" ],
+    [ "go_soulwell", "dc/d64/a27544.html#a3747499bd05326ef6f7024c0ee91a4ce", null ],
+    [ "GetAI", "dc/d64/a27544.html#a0c8b8cf09c26ad08c1c6dbb1a0c57861", null ]
 ];

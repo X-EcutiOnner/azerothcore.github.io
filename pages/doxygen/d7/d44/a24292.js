@@ -1,6 +1,6 @@
 var a24292 =
 [
-    [ "npc_commander_dawnforgeAI", "d6/d0b/a24296.html", "d6/d0b/a24296" ],
-    [ "npc_commander_dawnforge", "d7/d44/a24292.html#ab4d430725f68f906e9c8def66b1d6646", null ],
-    [ "GetAI", "d7/d44/a24292.html#a6089b087b7c3b18659e23c677814318b", null ]
+    [ "HandleEffectRemove", "d7/d44/a24292.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
+    [ "PrepareAuraScript", "d7/d44/a24292.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
+    [ "Register", "d7/d44/a24292.html#ac02217c103db141d75377e233e1e4242", null ]
 ];

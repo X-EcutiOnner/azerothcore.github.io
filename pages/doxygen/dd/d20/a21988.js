@@ -1,6 +1,5 @@
 var a21988 =
 [
-    [ "npc_q24545_lich_kingAI", "d7/dad/a21992.html", "d7/dad/a21992" ],
-    [ "npc_q24545_lich_king", "dd/d20/a21988.html#a1864564dee4f66f1b29850b8b0f6fa29", null ],
-    [ "GetAI", "dd/d20/a21988.html#aade5ad8ba215d0571185596aa40cf9b2", null ]
+    [ "at_q24545_frostmourne_cavern", "dd/d20/a21988.html#a76e2d8424b5fcd037fabfa9b878d21e1", null ],
+    [ "OnTrigger", "dd/d20/a21988.html#a9016ef31fde1bbcaf57a17e64ea8d503", null ]
 ];

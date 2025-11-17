@@ -1,7 +1,6 @@
 var a13604 =
 [
-    [ "FilterTargets", "d1/dc0/a13604.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
-    [ "HandleHit", "d1/dc0/a13604.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
-    [ "PrepareSpellScript", "d1/dc0/a13604.html#a905e1f979284a368463ad4829891b6ee", null ],
-    [ "Register", "d1/dc0/a13604.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
+    [ "HandleEffectApply", "d1/dc0/a13604.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
+    [ "PrepareAuraScript", "d1/dc0/a13604.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
+    [ "Register", "d1/dc0/a13604.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
 ];

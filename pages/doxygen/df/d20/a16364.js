@@ -1,6 +1,6 @@
 var a16364 =
 [
-    [ "npc_living_infernoAI", "d4/d09/a16368.html", "d4/d09/a16368" ],
-    [ "npc_living_inferno", "df/d20/a16364.html#a7df2bb522e67b6f1864604c7b0182078", null ],
-    [ "GetAI", "df/d20/a16364.html#a53f0bbd0a502374664cfa54140f4b8c0", null ]
+    [ "npc_living_infernoAI", "df/d20/a16364.html#ab33eeac6aab8e18778fc7d4ffe5038f1", null ],
+    [ "IsSummonedBy", "df/d20/a16364.html#a4b6986a392aee0741ba47651e809c76c", null ],
+    [ "JustDied", "df/d20/a16364.html#a60b2e31d24e182e97d604d91223e2dc8", null ]
 ];

@@ -1,7 +1,8 @@
 var a18884 =
 [
-    [ "OnApply", "d4/d0c/a18884.html#a5f62c11ef96edbf6f2906bd5f41109d5", null ],
-    [ "OnRemove", "d4/d0c/a18884.html#a697a7c76f944b5df956a9de07746b7a9", null ],
-    [ "PrepareAuraScript", "d4/d0c/a18884.html#a338d0fa22368d01fe7523b7cc1acea4b", null ],
-    [ "Register", "d4/d0c/a18884.html#ab915b3ede10526b3e7ccbe33f2568fae", null ]
+    [ "CountTargets", "d4/d0c/a18884.html#a3000d234134bb3d4b2e17fd1eff8f4f0", null ],
+    [ "HandleScript", "d4/d0c/a18884.html#af058a0c458463bdba4a4eb73aa91c113", null ],
+    [ "PrepareSpellScript", "d4/d0c/a18884.html#a83b2fad7cdc189a17129e25a015952ff", null ],
+    [ "Register", "d4/d0c/a18884.html#af5e214ab418ca05ddd637c83d7a7e71a", null ],
+    [ "Validate", "d4/d0c/a18884.html#a63e8e899cb1469dca26cd5fa34b85408", null ]
 ];

@@ -1,8 +1,6 @@
 var a12236 =
 [
-    [ "boss_halyconAI", "d8/d99/a12236.html#acc110d5d802fc0da3ea630f667167748", null ],
-    [ "JustDied", "d8/d99/a12236.html#a7d71e135a8edf3d3b99ccfcb3b071eaa", null ],
-    [ "JustEngagedWith", "d8/d99/a12236.html#a5735567462167fffa4d01800d696296e", null ],
-    [ "Reset", "d8/d99/a12236.html#ac5622260b0b40cb584cf3037521cc5b8", null ],
-    [ "UpdateAI", "d8/d99/a12236.html#a6e72949b63de3d32d8369c7122b6060d", null ]
+    [ "boss_highlordomokkAI", "d6/d91/a12240.html", "d6/d91/a12240" ],
+    [ "boss_highlord_omokk", "d8/d99/a12236.html#af5174587ed3cd1c46f604183a75de99e", null ],
+    [ "GetAI", "d8/d99/a12236.html#afb8efb012791c6a2fc18975a1ec7f984", null ]
 ];

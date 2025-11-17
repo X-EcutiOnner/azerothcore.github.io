@@ -1,6 +1,4 @@
 var a05744 =
 [
-    [ "Append", "d5/d12/a05744.html#a290b052f7cbd321c646e9e5e19484444", null ],
-    [ "Append", "d5/d12/a05744.html#a867b7a92080104278aef5fb4975a4a52", null ],
-    [ "Append", "d5/d12/a05744.html#aa0a81814abe26d456018c3bc9153cd4d", null ]
+    [ "SetPreparedQuery", "d5/d12/a05744.html#a1cbb8be93d83bc3ed6295c6b13f6ce69", null ]
 ];

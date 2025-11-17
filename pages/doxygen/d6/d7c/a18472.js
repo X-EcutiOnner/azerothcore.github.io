@@ -1,9 +1,12 @@
 var a18472 =
 [
-    [ "npc_icc_ice_sphereAI", "d6/d7c/a18472.html#a685f45e5cd15b005646e596ff61088e8", null ],
-    [ "DoAction", "d6/d7c/a18472.html#ac056ecdd93bc716964054f38ab81014e", null ],
-    [ "SelectNewTarget", "d6/d7c/a18472.html#a9274e05e45c07d14c7df5c623e2769d4", null ],
-    [ "UpdateAI", "d6/d7c/a18472.html#a5a4117de9e45cea9e9086b3b4daed404", null ],
-    [ "targetGUID", "d6/d7c/a18472.html#a3e202f9bde2a202d329066f7aab8897c", null ],
-    [ "timer", "d6/d7c/a18472.html#a42842e92926e18ef2589687d81a7d0d4", null ]
+    [ "npc_raging_spiritAI", "d6/d7c/a18472.html#a1c85351ae62d5f45381214373e64aec4", null ],
+    [ "AttackStart", "d6/d7c/a18472.html#a16ab37be9e31dcfc159b5c78b196b847", null ],
+    [ "CanAIAttack", "d6/d7c/a18472.html#a64fa46f05861d8736d881aa3687f4320", null ],
+    [ "IsSummonedBy", "d6/d7c/a18472.html#a836d605f4320ba9fd49cb60d6a1e032d", null ],
+    [ "JustDied", "d6/d7c/a18472.html#a821377a2c29b4180db00f2c4f4268fe7", null ],
+    [ "Reset", "d6/d7c/a18472.html#a9dae9cb2c6f18d89d06cfa72b98d36f2", null ],
+    [ "UpdateAI", "d6/d7c/a18472.html#a64beac4aafa9e9bb2089a7c1e35fe8a5", null ],
+    [ "_events", "d6/d7c/a18472.html#af5783316983b622f20d8c677f2858111", null ],
+    [ "_instance", "d6/d7c/a18472.html#aaa9b5728fcdb379849434385b3501251", null ]
 ];

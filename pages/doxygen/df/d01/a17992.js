@@ -1,6 +1,7 @@
 var a17992 =
 [
-    [ "npc_bone_spikeAI", "d7/d91/a17996.html", "d7/d91/a17996" ],
-    [ "npc_bone_spike", "df/d01/a17992.html#ac93d7a45eaeae8d7adf2a3b313825aed", null ],
-    [ "GetAI", "df/d01/a17992.html#a887a9156f550ca55047fa501e1709d95", null ]
+    [ "HandleSpikes", "df/d01/a17992.html#a012d61aacf79b9b1f5b4b5c5c81b5ed4", null ],
+    [ "PrepareSpellScript", "df/d01/a17992.html#a6ffb6454eb4c58a1b66356814c13b659", null ],
+    [ "Register", "df/d01/a17992.html#a893345cf191d084a0f97a8464b7d381a", null ],
+    [ "Validate", "df/d01/a17992.html#aa6545760706d8695aefd4064c3c71c6b", null ]
 ];

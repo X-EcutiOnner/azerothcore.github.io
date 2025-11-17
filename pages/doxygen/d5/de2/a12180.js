@@ -1,6 +1,7 @@
 var a12180 =
 [
-    [ "boss_okthorAI", "dd/d14/a12184.html", "dd/d14/a12184" ],
-    [ "boss_okthor", "d5/de2/a12180.html#a9e75c1da85a6db6692dfabfbb3ee3e87", null ],
-    [ "GetAI", "d5/de2/a12180.html#a15d13a6c879ae260c0676fd4a4aff645", null ]
+    [ "boss_okthorAI", "d5/de2/a12180.html#a8007cfade5c04d8b4e0b787ac5a5beff", null ],
+    [ "JustEngagedWith", "d5/de2/a12180.html#a466a618e52f40e04e873dd50f3728755", null ],
+    [ "UpdateAI", "d5/de2/a12180.html#a246c3bd9aa96eb11d2fa48be8654d726", null ],
+    [ "nextArcaneExplosionTime", "d5/de2/a12180.html#a21446d2cfc51a05de6cee3ba4301eae9", null ]
 ];

@@ -1,8 +1,8 @@
 var a26356 =
 [
-    [ "Load", "db/d31/a26356.html#a7662d85a5469c20edf6d2eefca820db3", null ],
-    [ "PrepareAuraScript", "db/d31/a26356.html#a252bd975a7639eab4e151249db974b7c", null ],
-    [ "Register", "db/d31/a26356.html#a51723a22f1062f44e8eb6848e1398595", null ],
-    [ "Split", "db/d31/a26356.html#a08e982eae6030fdc679663bfd38bca47", null ],
-    [ "remainingAmount", "db/d31/a26356.html#afaab88988769ddc720deb44f06de3d7d", null ]
+    [ "CheckProc", "db/d31/a26356.html#a7796d6b90bb3452d75d28e5a6a3e6287", null ],
+    [ "HandleProc", "db/d31/a26356.html#ab456eb468477ae465f058b05ea45aaeb", null ],
+    [ "PrepareAuraScript", "db/d31/a26356.html#a9d255b2878f11e0ce9f9ffa81f7e4b0e", null ],
+    [ "Register", "db/d31/a26356.html#a9c285da0ae22011d01eeed7415d37d42", null ],
+    [ "Validate", "db/d31/a26356.html#a714d9b7afc9ae0dd190030309f1e83ca", null ]
 ];

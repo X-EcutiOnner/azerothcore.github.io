@@ -1,6 +1,6 @@
 var a17920 =
 [
-    [ "DaranavanMoveEvent", "d0/d49/a17920.html#add38d87b9108c09aa9b9fd60f12abcde", null ],
-    [ "Execute", "d0/d49/a17920.html#ada0ebc4a9c9f949dd0155a554a553543", null ],
-    [ "_darnavan", "d0/d49/a17920.html#a7585edb957755efbc6064f232d50ea4e", null ]
+    [ "npc_cult_fanaticAI", "de/d21/a17924.html", "de/d21/a17924" ],
+    [ "npc_cult_fanatic", "d0/d49/a17920.html#af29ab8f7628b96b0f192bccab74ca02e", null ],
+    [ "GetAI", "d0/d49/a17920.html#ae4d22bac12d17d79669d3fccd4029952", null ]
 ];

@@ -1,5 +1,7 @@
 var a13880 =
 [
-    [ "npc_king_varian_wrynn", "de/d8d/a13880.html#a33b7c492a7435b3f80e508be9e3440e9", null ],
-    [ "OnQuestReward", "de/d8d/a13880.html#a1255cca95a7a2b039702b30db377a19f", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "dc/dda/a13884.html", "dc/dda/a13884" ],
+    [ "npc_lady_sylvanas_windrunner", "de/d8d/a13880.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
+    [ "GetAI", "de/d8d/a13880.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
+    [ "OnQuestReward", "de/d8d/a13880.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
 ];

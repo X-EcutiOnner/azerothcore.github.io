@@ -1,9 +1,9 @@
 var a02252 =
 [
-    [ "boss_najentus", "d9/d2f/a23208.html", "d9/d2f/a23208" ],
-    [ "spell_najentus_needle_spine", "d6/d1a/a23212.html", "d6/d1a/a23212" ],
-    [ "spell_najentus_hurl_spine", "d4/d76/a23216.html", "d4/d76/a23216" ],
-    [ "spell_najentus_remove_spines", "d7/d97/a23220.html", "d7/d97/a23220" ],
+    [ "boss_najentus", "d1/d6e/a23176.html", "d1/d6e/a23176" ],
+    [ "spell_najentus_needle_spine", "dd/d3e/a23180.html", "dd/d3e/a23180" ],
+    [ "spell_najentus_hurl_spine", "d8/dae/a23184.html", "d8/dae/a23184" ],
+    [ "spell_najentus_remove_spines", "d5/d95/a23188.html", "d5/d95/a23188" ],
     [ "Events", "d7/d70/a02252.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -1455,13 +1455,6 @@ var a02252 =
       [ "NPC_DRAKKARI_SCYTHECLAW", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a7e48e5fe774eb74669c83be919da5622", null ],
       [ "NPC_DRAKKARI_GUTRIPPER", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2cdf1f3390fb22db6bb6e2184f1d5bd2", null ],
       [ "SAY_CLAW_EMOTE", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f51e45e863d90a325292d3483fee924", null ],
-      [ "EVENT_SPELL_BELLOWING_ROAR", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1207337a608cc4aa53f01e5b6845a732", null ],
-      [ "EVENT_SPELL_GRIEVOUS_BITE", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6aefdaf076d2c6592ebfade89f6acffd45", null ],
-      [ "EVENT_SPELL_MANGLING_SLASH", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a93656fef97f855e3ba9aac755faab5c3", null ],
-      [ "EVENT_SPELL_FEARSOME_ROAR", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a22f9d345b4970c56d4d8f834791446ee", null ],
-      [ "EVENT_SPELL_PIERCING_SLASH", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad0c3e0969d795fb0cc22251d8044e88b", null ],
-      [ "EVENT_SPELL_RAPTOR_CALL", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a33c44535adb31c55814e2c58a0e2bdae", null ],
-      [ "EVENT_MENACING_CLAW", "de/dec/a03020.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ad98eeb44b41667ab583f7a0cb6cac01b", null ],
       [ "NPC_CRYSTAL_CHANNEL_TARGET", "dd/da3/a03026.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a184ab33dcebe153863959d30c3e09f91", null ],
       [ "NPC_CRYSTAL_HANDLER", "dd/da3/a03026.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a9d211e1034e51a7cae966447a6786576", null ],
       [ "NPC_SUMMON_CRYSTAL_HANDLER_TARGET", "dd/da3/a03026.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6af728f91b867885926207b4aa983da4be", null ],

@@ -1,6 +1,6 @@
 var a19828 =
 [
-    [ "HandleApplyTouch", "de/da7/a19828.html#a0c46c506f78f46f17c0de6caae774316", null ],
-    [ "PrepareSpellScript", "de/da7/a19828.html#a2f32b735a8a72a6ef52744d3ce8ada8b", null ],
-    [ "Register", "de/da7/a19828.html#a70382055564e4ead8b5da0d6bd20c67f", null ]
+    [ "CosmicSmashDamageEvent", "de/da7/a19828.html#a5c9606791b560d8be1825a9c73f2393e", null ],
+    [ "Execute", "de/da7/a19828.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
+    [ "_caster", "de/da7/a19828.html#ab7af2459d3962831812ee2362ee9de2b", null ]
 ];

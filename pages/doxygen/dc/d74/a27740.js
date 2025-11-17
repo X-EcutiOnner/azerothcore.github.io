@@ -1,6 +1,9 @@
 var a27740 =
 [
-    [ "npc_taxi", "dc/d74/a27740.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
-    [ "OnGossipHello", "dc/d74/a27740.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
-    [ "OnGossipSelect", "dc/d74/a27740.html#a5a7443abba8cf98a3073195177981edc", null ]
+    [ "npc_target_dummyAI", "dc/d74/a27740.html#a117e45559ea721877d73df4b3c18a259", null ],
+    [ "EnterEvadeMode", "dc/d74/a27740.html#a8f7f2e4decc676e378b4929516f8a147", null ],
+    [ "MoveInLineOfSight", "dc/d74/a27740.html#a05f5b1f2cb8f0926bf425e7c31d618e2", null ],
+    [ "Reset", "dc/d74/a27740.html#a4e8f8d1da604a80b60d61f72ed4ecbcf", null ],
+    [ "UpdateAI", "dc/d74/a27740.html#ae686aa48ab7e91988e5b71c71695ce47", null ],
+    [ "deathTimer", "dc/d74/a27740.html#abf5bd5122e79a62a03c19a18cd68498b", null ]
 ];

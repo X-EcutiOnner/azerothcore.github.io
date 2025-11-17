@@ -1,6 +1,7 @@
 var a18788 =
 [
-    [ "npc_rotting_frost_giantAI", "d2/d4b/a18792.html", "d2/d4b/a18792" ],
-    [ "npc_rotting_frost_giant", "da/db2/a18788.html#ad4440216e11a00d97af43dc5f3957e95", null ],
-    [ "GetAI", "da/db2/a18788.html#aabc388b3690f2d03e903c7f480d52842", null ]
+    [ "npc_frost_freeze_trapAI", "da/db2/a18788.html#a95c64fbbc97f55e4d0cd0b239939fdc6", null ],
+    [ "DoAction", "da/db2/a18788.html#a8dbe0fc5c84f49363254562166c8c0a7", null ],
+    [ "UpdateAI", "da/db2/a18788.html#ae8efccb090f38968f3c0ca51f022013b", null ],
+    [ "_events", "da/db2/a18788.html#ae0abd3d7fcb51ac02f8d325efa93b2f2", null ]
 ];

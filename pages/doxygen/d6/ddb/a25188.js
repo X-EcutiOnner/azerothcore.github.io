@@ -1,7 +1,7 @@
 var a25188 =
 [
-    [ "HandleScript", "d6/ddb/a25188.html#a2e323378559d8f11cbdbcb76e86a25ca", null ],
-    [ "PrepareSpellScript", "d6/ddb/a25188.html#ad511986b26dccd1be8206f01458c2b40", null ],
-    [ "Register", "d6/ddb/a25188.html#aa8ea297d751913def150dc1e29d37664", null ],
-    [ "Validate", "d6/ddb/a25188.html#a81222d8ac4f55175d1dc4d7c359cc331", null ]
+    [ "HandleEffectApply", "d6/ddb/a25188.html#a2854357f92b1faac6e7840f1576138e0", null ],
+    [ "HandleEffectRemove", "d6/ddb/a25188.html#a7960ca4deb4ff61d04ea7fe7ec0f0471", null ],
+    [ "PrepareAuraScript", "d6/ddb/a25188.html#a2120cecbca61e4c7380892fe8d43772a", null ],
+    [ "Register", "d6/ddb/a25188.html#a98c71c0d4c4b0503e66ed2033946cb2e", null ]
 ];

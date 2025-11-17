@@ -1,6 +1,9 @@
 var a27900 =
 [
-    [ "npc_venomhide_hatchlingAI", "db/d30/a27900.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
-    [ "IsSummonedBy", "db/d30/a27900.html#a6e1b76f43217f1eb855b50d58a069518", null ],
-    [ "SpellHit", "db/d30/a27900.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
+    [ "npc_necropolis_health", "db/d30/a27900.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
+    [ "DespawnNecropolis", "db/d30/a27900.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
+    [ "JustDied", "db/d30/a27900.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
+    [ "SpellHit", "db/d30/a27900.html#ad4a9f9b166ab8107a16da918082c6625", null ],
+    [ "SpellHitTarget", "db/d30/a27900.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
+    [ "_zapCount", "db/d30/a27900.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
 ];

@@ -1,6 +1,6 @@
 var a25844 =
 [
-    [ "HandleSummon", "db/d91/a25844.html#ad1ee0eb347454d50216610a266226d68", null ],
-    [ "PrepareSpellScript", "db/d91/a25844.html#a15a545ee3ec4a926f1330ce0ad975d3e", null ],
-    [ "Register", "db/d91/a25844.html#aa145041af68291f107c3ff11ce15b85e", null ]
+    [ "CalculateAmount", "db/d91/a25844.html#ad80edf403addb2d907d0d3d778b6745f", null ],
+    [ "PrepareAuraScript", "db/d91/a25844.html#a96c2e2cdd259d96bb7aa12eb42856cf4", null ],
+    [ "Register", "db/d91/a25844.html#a538ab0fdebbafa3c96183f639fe8968b", null ]
 ];

@@ -1,7 +1,9 @@
 var a26856 =
 [
-    [ "HandleEffect", "db/dc5/a26856.html#ab33c9312c9ac4096140a82f381d83235", null ],
-    [ "PrepareSpellScript", "db/dc5/a26856.html#a6117d7b2720f719d801b5f6e0e719f5f", null ],
-    [ "Register", "db/dc5/a26856.html#a1f5983124756eca5666ca6adbe5a4544", null ],
-    [ "Validate", "db/dc5/a26856.html#a08f7e508b50fc44ced0b7ff04e22b333", null ]
+    [ "Absorb", "db/dc5/a26856.html#adf0783559d4ca95bc09a5ef217291bc9", null ],
+    [ "CalculateAmount", "db/dc5/a26856.html#a820c27c2161063307a10903cbbc5c0fa", null ],
+    [ "Load", "db/dc5/a26856.html#a7b71990051faaa083110408c13b8401f", null ],
+    [ "PrepareAuraScript", "db/dc5/a26856.html#ad7a3e297fcd38fc9d020a3c3db32ace2", null ],
+    [ "Register", "db/dc5/a26856.html#aa443ab0eed74229883884fbced0426d7", null ],
+    [ "absorbPct", "db/dc5/a26856.html#a55c4409f74c86853d0bf5b157f6c194c", null ]
 ];

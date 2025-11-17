@@ -1,6 +1,10 @@
 var a24320 =
 [
-    [ "CheckCast", "dc/d04/a24320.html#ae13cc2d3da1c9911c88402d05679d447", null ],
-    [ "PrepareSpellScript", "dc/d04/a24320.html#afbed81273aa23d355c64579c71e9761d", null ],
-    [ "Register", "dc/d04/a24320.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
+    [ "npc_infernal_attackerAI", "dc/d04/a24320.html#ae04c4e026f22bd650bb33940b923df9a", null ],
+    [ "IsSummonedBy", "dc/d04/a24320.html#a926e6cd6772784872a905de7245007ac", null ],
+    [ "JustDied", "dc/d04/a24320.html#a1822131520f98dd5f1dd637282f20ae3", null ],
+    [ "Reset", "dc/d04/a24320.html#a6c871d05d4fd0a6f72f409285f012f9c", null ],
+    [ "SpellHit", "dc/d04/a24320.html#a956f3fb1e341519817599df08afc2589", null ],
+    [ "UpdateAI", "dc/d04/a24320.html#a458ba4c884a95080e1088a07a04a9cb9", null ],
+    [ "casterGUID", "dc/d04/a24320.html#ab2e791cc0a67012bc56c3b07e3f327e9", null ]
 ];

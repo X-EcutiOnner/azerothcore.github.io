@@ -1,6 +1,6 @@
 var a19744 =
 [
-    [ "CalculateDamage", "d2/d18/a19744.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
-    [ "PrepareSpellScript", "d2/d18/a19744.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
-    [ "Register", "d2/d18/a19744.html#a02851f0b94687512a8e016bfb9b826e3", null ]
+    [ "boss_sjonnirAI", "d3/dd7/a19748.html", "d3/dd7/a19748" ],
+    [ "boss_sjonnir", "d2/d18/a19744.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
+    [ "GetAI", "d2/d18/a19744.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
 ];

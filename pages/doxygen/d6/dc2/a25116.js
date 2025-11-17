@@ -1,5 +1,6 @@
 var a25116 =
 [
-    [ "PrepareSpellScript", "d6/dc2/a25116.html#a054677572d74a740f1c14715608f7b1b", null ],
-    [ "Register", "d6/dc2/a25116.html#ae6556b58f0a4e6d3762bc3dc4c1643b3", null ]
+    [ "HandleOnEffectHit", "d6/dc2/a25116.html#a07b15e180ee79149cad15b32b3c94359", null ],
+    [ "PrepareSpellScript", "d6/dc2/a25116.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
+    [ "Register", "d6/dc2/a25116.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
 ];

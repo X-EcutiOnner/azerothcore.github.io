@@ -1,6 +1,8 @@
 var a26440 =
 [
-    [ "HandleAfterHit", "d1/dd4/a26440.html#a6f0ec02c8b1429a6be76465dd9badd1c", null ],
-    [ "PrepareSpellScript", "d1/dd4/a26440.html#af2e6c3bfc233ee86fa2c9186cdd6b5a4", null ],
-    [ "Register", "d1/dd4/a26440.html#a2a780069022e62b14992a7b69626ac3d", null ]
+    [ "HandleApplyEffect", "d1/dd4/a26440.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
+    [ "Load", "d1/dd4/a26440.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
+    [ "PrepareAuraScript", "d1/dd4/a26440.html#a6e212284f72320356cfa2f0c2a59999d", null ],
+    [ "Register", "d1/dd4/a26440.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
+    [ "Validate", "d1/dd4/a26440.html#a985a52f71371443454d6dd36f7fe83b2", null ]
 ];

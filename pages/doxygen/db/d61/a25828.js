@@ -1,6 +1,6 @@
 var a25828 =
 [
-    [ "HandleProc", "db/d61/a25828.html#a04796308cb57993dea310e0aca051c46", null ],
-    [ "PrepareAuraScript", "db/d61/a25828.html#a1a0291eb2ca9073b0bac8dc8c7d22550", null ],
-    [ "Register", "db/d61/a25828.html#a191d0bcc015b92a6f2481b3b5c196cab", null ]
+    [ "HandleOnEffectHit", "db/d61/a25828.html#a07157e7255d52acf6eb5d5e5c17e2190", null ],
+    [ "PrepareSpellScript", "db/d61/a25828.html#a0b2fd34dda3b23b574f6a5a0c4435006", null ],
+    [ "Register", "db/d61/a25828.html#a59c6a1618faa5a44e1c37337b39a3cba", null ]
 ];

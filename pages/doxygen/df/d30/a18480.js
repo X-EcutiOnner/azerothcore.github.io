@@ -1,6 +1,8 @@
 var a18480 =
 [
-    [ "npc_raging_spiritAI", "d0/daa/a18484.html", "d0/daa/a18484" ],
-    [ "npc_raging_spirit", "df/d30/a18480.html#ad1a580bd394adc8c58575b600c16f9db", null ],
-    [ "GetAI", "df/d30/a18480.html#ab572a667f6ddd0d4051fe424c8d9e21c", null ]
+    [ "ChangeDamageAndGrow", "df/d30/a18480.html#a017ade08eca93f326d2e5115c4d88c33", null ],
+    [ "CorrectRange", "df/d30/a18480.html#a9022b9efab89bc562428520b3551ff37", null ],
+    [ "PrepareSpellScript", "df/d30/a18480.html#a3e1d1764add95728428cbf25f9b66dc4", null ],
+    [ "Register", "df/d30/a18480.html#a998b810cdbecbca2bf65f18cee14d286", null ],
+    [ "Validate", "df/d30/a18480.html#afe0910e903f6f8f466b272ce9ddc7a6b", null ]
 ];

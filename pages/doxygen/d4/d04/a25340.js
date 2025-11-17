@@ -1,7 +1,7 @@
 var a25340 =
 [
-    [ "CheckIfLanceEquipped", "d4/d04/a25340.html#aae1fe4d0329b7a2db5e4f2a28e3f04c5", null ],
-    [ "PrepareSpellScript", "d4/d04/a25340.html#a2af9ee2ccd34c97734c58bfcbb83c8b5", null ],
-    [ "Register", "d4/d04/a25340.html#a4421ceaedce16777f8f04b9c40855782", null ],
-    [ "Validate", "d4/d04/a25340.html#ab0908d7a15e7554c735d8e5554f7cd65", null ]
+    [ "HandleEffectApply", "d4/d04/a25340.html#abf780eeca61aef7e44617aa0ed2ff8b8", null ],
+    [ "OnRemove", "d4/d04/a25340.html#af2cfa66cd7dbc7c671efa06c497cc03e", null ],
+    [ "PrepareAuraScript", "d4/d04/a25340.html#ab6c5d1fd94c763126ef77f9efd4a7116", null ],
+    [ "Register", "d4/d04/a25340.html#a473189971d0a03e7305b7b9e41dc5207", null ]
 ];

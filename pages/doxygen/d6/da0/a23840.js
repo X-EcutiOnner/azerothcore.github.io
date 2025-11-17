@@ -1,15 +1,14 @@
 var a23840 =
 [
-    [ "npc_shattered_hand_scout", "d6/da0/a23840.html#a51a57eaaad75817a9b5a81210e01ed51", null ],
-    [ "DamageTaken", "d6/da0/a23840.html#ad37c34ae2dee082f1b4eed90bc4a3618", null ],
-    [ "FireArrows", "d6/da0/a23840.html#aa3043011d7d9e7b7c5826b9afc7581d1", null ],
-    [ "GetPorung", "d6/da0/a23840.html#a575b12c40aeccd6d0cdd63f71a3b93d6", null ],
-    [ "MoveInLineOfSight", "d6/da0/a23840.html#a2ddb6fd6aa6221768ff71257f4bdd81b", null ],
-    [ "MovementInform", "d6/da0/a23840.html#a6f6198c2faf68823b1d4c8237044784b", null ],
-    [ "Reset", "d6/da0/a23840.html#a1fcf0da2cc4a0554f04b3624b68de598", null ],
-    [ "SetData", "d6/da0/a23840.html#a9416dd89c4728538971abc5975c7080f", null ],
-    [ "UpdateAI", "d6/da0/a23840.html#a91c2c7eca064d6eaafe5ecaeca4344b4", null ],
-    [ "_firstZealots", "d6/da0/a23840.html#a2b5fd63b01e4ecb96b006e3870b37609", null ],
-    [ "_scheduler", "d6/da0/a23840.html#a376f6eab11f8399493d5d33b5c4ea35a", null ],
-    [ "_zealotGUIDs", "d6/da0/a23840.html#a26381a05bb007fdb4b7da97a19a878da", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "d6/da0/a23840.html#aa438091d2868b26d961ee4f81e9cea11", null ],
+    [ "GetGuidData", "d6/da0/a23840.html#a1a0623204ecaaa3623fc503783c4d766", null ],
+    [ "Initialize", "d6/da0/a23840.html#a3761d56e59d5bf1147986978c9fdf2e3", null ],
+    [ "OnCreatureCreate", "d6/da0/a23840.html#a9fa5637791d249553472b31c024f9fc1", null ],
+    [ "ReadSaveDataMore", "d6/da0/a23840.html#a67bc6a2dde5c649d16ef7e2c26c6069b", null ],
+    [ "SetData", "d6/da0/a23840.html#a566090f29d13977354fb50e68d92f046", null ],
+    [ "Update", "d6/da0/a23840.html#aad1666c364feff4e2b7654f5894c129f", null ],
+    [ "WriteSaveDataMore", "d6/da0/a23840.html#aaa8b1b054df41a79ac074ae48e180ee9", null ],
+    [ "ExecutionerGUID", "d6/da0/a23840.html#aa879398b1732952eba7b2b8a822a959e", null ],
+    [ "PrisonerGUID", "d6/da0/a23840.html#a0648efa6b0bbf4860d55f9b11f138e39", null ],
+    [ "RescueTimer", "d6/da0/a23840.html#a8df2961264a192ab2692e3c8ca507666", null ]
 ];

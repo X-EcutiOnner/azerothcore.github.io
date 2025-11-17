@@ -1,14 +1,8 @@
 var a12804 =
 [
-    [ "boss_midnight", "df/d05/a12804.html#aacf45b21a30d671d5e9720a30336f72c", null ],
-    [ "CanMeleeHit", "df/d05/a12804.html#ad46a3726f398e5db56612d78d33fb13f", null ],
-    [ "DamageTaken", "df/d05/a12804.html#a47be6bc98217cf32a54dc522b7983bdb", null ],
-    [ "DoAction", "df/d05/a12804.html#a6831149d56f432aa3116d4172ef95a18", null ],
-    [ "EnterEvadeMode", "df/d05/a12804.html#a7ef9e935ac932f5a9e4fd435b8180783", null ],
-    [ "JustEngagedWith", "df/d05/a12804.html#afbb95384e6c747e73c87c5a5eb40843e", null ],
-    [ "JustSummoned", "df/d05/a12804.html#a2644deaf0a2970835b0cd508565e7279", null ],
-    [ "KilledUnit", "df/d05/a12804.html#a14dcbec9dc43cc12a124b6f140e0e8e6", null ],
-    [ "Reset", "df/d05/a12804.html#a4f9cb414779705c179bc5447975b35e9", null ],
-    [ "UpdateAI", "df/d05/a12804.html#a17c86571df6263fe1cc3657ca596e3ae", null ],
-    [ "_phase", "df/d05/a12804.html#ae5f3f452f5141cecab1b99616eb2bf74", null ]
+    [ "HandleEffectRemove", "df/d05/a12804.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
+    [ "if", "df/d05/a12804.html#a8596fc98402bf952484c9567f61c7820", null ],
+    [ "PrepareAuraScript", "df/d05/a12804.html#a4055f781a914de631187b00ba7aefeef", null ],
+    [ "Register", "df/d05/a12804.html#aefb4bbae43558abde871548088784613", null ],
+    [ "AuraEffectHandleModes", "df/d05/a12804.html#a7d419ba41e68b70740a867a2265824bd", null ]
 ];

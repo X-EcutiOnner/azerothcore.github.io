@@ -1,7 +1,7 @@
 var a14444 =
 [
-    [ "go_direbrew_mole_machineAI", "de/da0/a14444.html#a4e667ad9e572e93c045ae01f63bea648", null ],
-    [ "Reset", "de/da0/a14444.html#a32dd801b5d898fd8634edcb6cae52bdf", null ],
-    [ "UpdateAI", "de/da0/a14444.html#a2eaa8a0ad0907e4aa497a7e1c3a31b29", null ],
-    [ "_scheduler", "de/da0/a14444.html#a5960ff83f21cf5964f422e3a7b297f22", null ]
+    [ "HandleScriptEffect", "de/da0/a14444.html#aaad3c8870d8ad748e3ac07287da32e84", null ],
+    [ "PrepareSpellScript", "de/da0/a14444.html#a3d906994c11e52e89c842189be73ddfd", null ],
+    [ "Register", "de/da0/a14444.html#a4cdab36e2265c696207a39e16549ab13", null ],
+    [ "Validate", "de/da0/a14444.html#a8aaf57bd54d3b2beb48b4e29053c1125", null ]
 ];

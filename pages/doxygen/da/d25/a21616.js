@@ -1,6 +1,9 @@
 var a21616 =
 [
-    [ "npc_azure_raiderAI", "d4/df3/a21620.html", "d4/df3/a21620" ],
-    [ "npc_azure_raider", "da/d25/a21616.html#a249abee0df263e183341193b828a310c", null ],
-    [ "GetAI", "da/d25/a21616.html#a88a45e3b117c5105f7541d640dda8470", null ]
+    [ "npc_azure_stalkerAI", "da/d25/a21616.html#a1499e734f0d95d491bcd23c2e858a1ee", null ],
+    [ "Reset", "da/d25/a21616.html#a9bd36e95ce7c3157a2ac53400da51d23", null ],
+    [ "UpdateAI", "da/d25/a21616.html#a8c4ea046d69b269e886960ba9562fd0c", null ],
+    [ "TacticalBlinkCasted", "da/d25/a21616.html#a875a272380251fcc7f98e5c0f84bb41a", null ],
+    [ "uiBackstabTimer", "da/d25/a21616.html#ad03ba957706a62e3d8091d025ddd50dc", null ],
+    [ "uiTacticalBlinkTimer", "da/d25/a21616.html#ab817fb9f2f06715f0a08a99e12693697", null ]
 ];

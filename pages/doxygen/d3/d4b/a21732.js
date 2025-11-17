@@ -1,7 +1,7 @@
 var a21732 =
 [
-    [ "HandleScriptEffect", "d3/d4b/a21732.html#a23d220613a4133e01fb3d7cbacb3aa1c", null ],
-    [ "PrepareSpellScript", "d3/d4b/a21732.html#a73b5af95ee4f593337c3803574d190db", null ],
-    [ "Register", "d3/d4b/a21732.html#a930de2343532feb50b86304f32269e4c", null ],
-    [ "Validate", "d3/d4b/a21732.html#ae9bfedf7e89487217ad927459e259c04", null ]
+    [ "npc_mootoo_the_youngerAI", "d2/d20/a21736.html", "d2/d20/a21736" ],
+    [ "npc_mootoo_the_younger", "d3/d4b/a21732.html#a91e10489ed6a98cfa764fd4de8448317", null ],
+    [ "GetAI", "d3/d4b/a21732.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
+    [ "OnQuestAccept", "d3/d4b/a21732.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
 ];

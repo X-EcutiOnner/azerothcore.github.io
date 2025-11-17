@@ -1,7 +1,7 @@
 var a27804 =
 [
-    [ "npc_doctorAI", "d1/d8b/a27808.html", "d1/d8b/a27808" ],
-    [ "npc_doctor", "d5/d1c/a27804.html#a8471bcd3e83b1a7a69de7bde00846698", null ],
-    [ "GetAI", "d5/d1c/a27804.html#a3da4d53b2402ad7338eeb6ea463a62f6", null ],
-    [ "OnQuestAccept", "d5/d1c/a27804.html#a990668aee39a9fa6ec90d0f6095ce48a", null ]
+    [ "npc_sayge", "d5/d1c/a27804.html#a5b75c459665ece26cee5dbffcc0fc8ff", null ],
+    [ "OnGossipHello", "d5/d1c/a27804.html#ad069e6cc7fe5271c3474c8bcf537cf4c", null ],
+    [ "OnGossipSelect", "d5/d1c/a27804.html#aa049b4514fc2d18508d8d4f9b6616c99", null ],
+    [ "SendAction", "d5/d1c/a27804.html#aed1988335672423d024546654aa95298", null ]
 ];

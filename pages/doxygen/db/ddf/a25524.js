@@ -1,6 +1,5 @@
 var a25524 =
 [
-    [ "HandleScript", "db/ddf/a25524.html#a3f63c080d2a74def0920cceaea18e1e2", null ],
-    [ "PrepareSpellScript", "db/ddf/a25524.html#a438c4c1763688210384b24305aeebe52", null ],
-    [ "Register", "db/ddf/a25524.html#a27b25fbbdd912505738728414b79380c", null ]
+    [ "PrepareSpellScript", "db/ddf/a25524.html#a2c88a98e1f76f62f745dbd83fa939506", null ],
+    [ "Register", "db/ddf/a25524.html#a93dcf131a040c95ef1b8cc5ec1d3bc37", null ]
 ];

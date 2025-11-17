@@ -1,6 +1,5 @@
 var a27616 =
 [
-    [ "guard_shattrath_scryerAI", "d9/d90/a27620.html", "d9/d90/a27620" ],
-    [ "guard_shattrath_scryer", "d1/dd0/a27616.html#a2ee4d6881d7c24cd848c590b84207663", null ],
-    [ "GetAI", "d1/dd0/a27616.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
+    [ "item_petrov_cluster_bombs", "d1/dd0/a27616.html#a1a76760f7c4617a40d96b9833e7466df", null ],
+    [ "OnUse", "d1/dd0/a27616.html#a14e8a00a532b5aebc8469ff538848f53", null ]
 ];

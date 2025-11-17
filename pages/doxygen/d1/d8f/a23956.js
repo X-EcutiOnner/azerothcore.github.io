@@ -1,6 +1,6 @@
 var a23956 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "d3/d42/a23960.html", "d3/d42/a23960" ],
-    [ "instance_the_botanica", "d1/d8f/a23956.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
-    [ "GetInstanceScript", "d1/d8f/a23956.html#a335f671443ca0fb9db5956cefdf37182", null ]
+    [ "OnApply", "d1/d8f/a23956.html#a472220f22165c6d21eab5f4b5f75921e", null ],
+    [ "PrepareAuraScript", "d1/d8f/a23956.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
+    [ "Register", "d1/d8f/a23956.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
 ];

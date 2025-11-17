@@ -1,7 +1,5 @@
 var a27500 =
 [
-    [ "go_pirate_day_musicAI", "d8/d92/a27500.html#a1abe263949b7a07e5143779efcddc7eb", null ],
-    [ "UpdateAI", "d8/d92/a27500.html#a5373bb46c866df31a3827ceb8ee4ef9b", null ],
-    [ "_events", "d8/d92/a27500.html#a233ae55a05876c665455b106ef50d57e", null ],
-    [ "rnd", "d8/d92/a27500.html#ad0ced4b4f569b91b5dde4ad93a298568", null ]
+    [ "go_jump_a_tron", "d8/d92/a27500.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
+    [ "OnGossipHello", "d8/d92/a27500.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
 ];

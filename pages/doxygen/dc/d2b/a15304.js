@@ -1,9 +1,9 @@
 var a15304 =
 [
-    [ "npc_eye_tentacle", "dc/d2b/a15304.html#a106deeb95d74597377d32e81695dc3c9", null ],
-    [ "JustDied", "dc/d2b/a15304.html#aac965d97034f4f623172297e4f82647e", null ],
-    [ "JustEngagedWith", "dc/d2b/a15304.html#a5f89f08634eeb79f0f9ac726cdf1841b", null ],
-    [ "Reset", "dc/d2b/a15304.html#a715439dfa31b4cf9df7ddd678d912108", null ],
-    [ "UpdateAI", "dc/d2b/a15304.html#a48f9067f27d61e609a014669c1daedb9", null ],
-    [ "_portalGUID", "dc/d2b/a15304.html#aeaa4ec0553480b9490d5e52820c2b77f", null ]
+    [ "npc_claw_tentacle", "dc/d2b/a15304.html#a10f1c68d5f49dd1614e7e939498db37b", null ],
+    [ "JustDied", "dc/d2b/a15304.html#aa566b417d1b766668133dd1d6a58293f", null ],
+    [ "JustEngagedWith", "dc/d2b/a15304.html#a9fbe9b30f973d3c8509ab4bbfcfe5bcc", null ],
+    [ "Reset", "dc/d2b/a15304.html#aaf3a3380a33aadc2023d192dfa85cfb2", null ],
+    [ "UpdateAI", "dc/d2b/a15304.html#ae7d521445680167add653717c7ae4c86", null ],
+    [ "_portalGUID", "dc/d2b/a15304.html#ab979781a8f77267348595cfa17341bae", null ]
 ];

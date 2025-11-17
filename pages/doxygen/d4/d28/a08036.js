@@ -1,9 +1,9 @@
 var a08036 =
 [
-    [ "LFGPlayerScript", "d4/d28/a08036.html#ad27ca48d9e573ad0ba155a3f7eb1ae88", null ],
-    [ "OnPlayerBindToInstance", "d4/d28/a08036.html#aeb3fd4e39ed8ba345cf3c76a232f241d", null ],
-    [ "OnPlayerLevelChanged", "d4/d28/a08036.html#afd530a2823a7187b49645c9d0625c8ba", null ],
-    [ "OnPlayerLogin", "d4/d28/a08036.html#a3b4e8775787feb8266edc52fddc7ab3a", null ],
-    [ "OnPlayerLogout", "d4/d28/a08036.html#a13c365770c90d1a44f72ab4cb8c7f903", null ],
-    [ "OnPlayerMapChanged", "d4/d28/a08036.html#ab3022d19b8d32bf0f269b2e991150a1c", null ]
+    [ "LFGGroupScript", "d4/d28/a08036.html#adb7730ba67910121a255a6da535d2fc2", null ],
+    [ "OnAddMember", "d4/d28/a08036.html#a43c29f1c4b0f78b203a8798e34e9bc4c", null ],
+    [ "OnChangeLeader", "d4/d28/a08036.html#a3616c537eb39fe130c8fb24d93a0ead9", null ],
+    [ "OnDisband", "d4/d28/a08036.html#a7d8d28f1919e407ed93474d970733d86", null ],
+    [ "OnInviteMember", "d4/d28/a08036.html#a25add922fa708babe08c3bdaaa0c0d92", null ],
+    [ "OnRemoveMember", "d4/d28/a08036.html#a1385adec817221a83653a6fa03e57858", null ]
 ];

@@ -1,6 +1,8 @@
 var a28692 =
 [
-    [ "categoryMask", "dc/da2/a28692.html#abd8816e5dda7bda455ccd6932647c4be", null ],
-    [ "categoryType", "dc/da2/a28692.html#a954f9fca8d0d84d5aec66f4a3f642f96", null ],
-    [ "ID", "dc/da2/a28692.html#a2e0f0cb7a05da77dee49bd7221c01d60", null ]
+    [ "MapDifficulty", "dc/da2/a28692.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
+    [ "MapDifficulty", "dc/da2/a28692.html#a227aec55b5b774076882ea34f70d5d88", null ],
+    [ "hasErrorMessage", "dc/da2/a28692.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
+    [ "maxPlayers", "dc/da2/a28692.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
+    [ "resetTime", "dc/da2/a28692.html#a7190131620b9eee0897ac7b4dd62949e", null ]
 ];

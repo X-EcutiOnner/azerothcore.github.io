@@ -1,10 +1,7 @@
 var a23920 =
 [
-    [ "instance_arcatraz_InstanceMapScript", "d4/da7/a23920.html#a4c6594eb7fa1f7213c89ea5af6c70ae0", null ],
-    [ "GetGuidData", "d4/da7/a23920.html#aa4bedf168359eaf5332476a6de99c830", null ],
-    [ "OnGameObjectCreate", "d4/da7/a23920.html#ad8c84d90b85db5717b6a37fc2343e0aa", null ],
-    [ "SetBossState", "d4/da7/a23920.html#a2937e4ea47af542a476bd3399ecc7233", null ],
-    [ "SetData", "d4/da7/a23920.html#aca09d4856d5c3e1831ea8753a50a3b71", null ],
-    [ "StasisPodGUIDs", "d4/da7/a23920.html#a1fb9824baee2d8d83e030da307f21fc3", null ],
-    [ "WardensShieldGUID", "d4/da7/a23920.html#a3cbff5742e05f6cf0544807bce64b1d0", null ]
+    [ "boss_warp_splinter", "d4/da7/a23920.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d4/da7/a23920.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d4/da7/a23920.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d4/da7/a23920.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

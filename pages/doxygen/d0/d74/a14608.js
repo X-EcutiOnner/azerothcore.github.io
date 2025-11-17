@@ -1,5 +1,5 @@
 var a14608 =
 [
-    [ "go_loosely_turned_soilAI", "d0/d74/a14608.html#a603641bc52d26521d64afaaeed3abc4d", null ],
-    [ "CanBeSeen", "d0/d74/a14608.html#a424b51b08d17ceb04b015cd535256889", null ]
+    [ "go_pumpkin_shrine", "d0/d74/a14608.html#ab9b05caa7ef7d740a0c46171c2160a19", null ],
+    [ "OnGossipSelect", "d0/d74/a14608.html#a35763a67d39c1d68974a9602ce26b699", null ]
 ];

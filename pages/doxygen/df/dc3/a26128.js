@@ -1,6 +1,6 @@
 var a26128 =
 [
-    [ "CheckCast", "df/dc3/a26128.html#a14bd28450fb989b1deb1854e2118cb6b", null ],
-    [ "PrepareSpellScript", "df/dc3/a26128.html#a2a53af0cc911e1a68b365d692df1f0af", null ],
-    [ "Register", "df/dc3/a26128.html#a67c43c4dabfb72ca54c160228b4b21c0", null ]
+    [ "OnPeriodic", "df/dc3/a26128.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
+    [ "PrepareAuraScript", "df/dc3/a26128.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
+    [ "Register", "df/dc3/a26128.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
 ];

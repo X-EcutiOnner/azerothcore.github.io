@@ -1,5 +1,6 @@
 var a25848 =
 [
-    [ "PrepareSpellScript", "d7/d9f/a25848.html#a065d81d698c978bcdd234712807e9098", null ],
-    [ "Register", "d7/d9f/a25848.html#a3efcd145189b27272495110c799cf14f", null ]
+    [ "CheckProc", "d7/d9f/a25848.html#acac962ba1cb72615772fe8bc81d24f9d", null ],
+    [ "PrepareAuraScript", "d7/d9f/a25848.html#aebe1c8083ba09c21125c47843b2949da", null ],
+    [ "Register", "d7/d9f/a25848.html#adde6dada6b3012c2650ba9173c6616a0", null ]
 ];

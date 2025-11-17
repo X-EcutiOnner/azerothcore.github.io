@@ -1,7 +1,7 @@
 var a22288 =
 [
-    [ "Absorb", "d5/dab/a22288.html#a784b48553696734abac77545df2fc045", null ],
-    [ "CalculateAmount", "d5/dab/a22288.html#a456ee99a71062f6217bda7561e4e7766", null ],
-    [ "PrepareAuraScript", "d5/dab/a22288.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
-    [ "Register", "d5/dab/a22288.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
+    [ "HandleScriptEffect", "d5/dab/a22288.html#ad20cf97a7dd442d5670a22095b487a01", null ],
+    [ "PrepareSpellScript", "d5/dab/a22288.html#ab0f6da0cb3115e54dbb59f0e6f823d02", null ],
+    [ "Register", "d5/dab/a22288.html#a996ea344ea2a3312cb8886565b80972d", null ],
+    [ "Validate", "d5/dab/a22288.html#a29bf5a9615e02281f426bf521a045567", null ]
 ];

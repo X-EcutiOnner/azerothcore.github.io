@@ -1,6 +1,5 @@
 var a20552 =
 [
-    [ "HandleInstaKill", "d8/d92/a20552.html#a593786eb89bf77e05dad4b502ffc1925", null ],
-    [ "PrepareSpellScript", "d8/d92/a20552.html#aa89401a4c6b1c85e4242bda45933b0ad", null ],
-    [ "Register", "d8/d92/a20552.html#a46f2c2658e6b55f091bf8894f06a787c", null ]
+    [ "achievement_kologarn_looks_could_kill", "d8/d92/a20552.html#a3fcf36dabe41ff35ace233854bd0fb44", null ],
+    [ "OnCheck", "d8/d92/a20552.html#a0e7be4fb00808fab9a231530822fc93d", null ]
 ];

@@ -1,6 +1,6 @@
 var a20868 =
 [
-    [ "OnPeriodic", "dc/d62/a20868.html#a5247db3b621d1d499b9e22e16c7a951a", null ],
-    [ "PrepareAuraScript", "dc/d62/a20868.html#a6aa46e818199da206e6543005a7fe87f", null ],
-    [ "Register", "dc/d62/a20868.html#ab64dfdda3c09e65cfaeb90d20a5212ed", null ]
+    [ "boss_xt002AI", "d8/d99/a20872.html", "d8/d99/a20872" ],
+    [ "boss_xt002", "dc/d62/a20868.html#aebd7e513b3bef6a25ad0f9766d18174e", null ],
+    [ "GetAI", "dc/d62/a20868.html#a146e4a10da7d81213e7f63d6e86c79f2", null ]
 ];

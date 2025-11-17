@@ -1,6 +1,7 @@
 var a25832 =
 [
-    [ "PrepareSpellScript", "d2/df3/a25832.html#a3a77016a3a8314969ce41cc6483761ec", null ],
-    [ "Register", "d2/df3/a25832.html#ae1fa8b9e4a11c884d10b1f4cc0afd09e", null ],
-    [ "SetDest", "d2/df3/a25832.html#a724217c09faa57ec2e6dad034e8709ed", null ]
+    [ "OnRemove", "d2/df3/a25832.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
+    [ "PrepareAuraScript", "d2/df3/a25832.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
+    [ "Register", "d2/df3/a25832.html#a35a8adc4944fc2333488e72498f6d252", null ],
+    [ "Validate", "d2/df3/a25832.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
 ];

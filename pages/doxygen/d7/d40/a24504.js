@@ -1,7 +1,6 @@
 var a24504 =
 [
-    [ "HandlePeriodic", "d7/d40/a24504.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
-    [ "PrepareAuraScript", "d7/d40/a24504.html#a58dc6668172d046cef3046649928c124", null ],
-    [ "Register", "d7/d40/a24504.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
-    [ "Validate", "d7/d40/a24504.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
+    [ "npc_slim", "d7/d40/a24504.html#aa227fbe22126bed821939873973e6a20", null ],
+    [ "OnGossipHello", "d7/d40/a24504.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
+    [ "OnGossipSelect", "d7/d40/a24504.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
 ];

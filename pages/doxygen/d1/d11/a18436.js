@@ -1,10 +1,11 @@
 var a18436 =
 [
-    [ "npc_shambling_horror_iccAI", "d1/d11/a18436.html#a0d15c62bead7a4da3c8a8abd0b2ee612", null ],
-    [ "CanAIAttack", "d1/d11/a18436.html#a6d77fdd16c4b089049ade7f7b081b4e9", null ],
-    [ "DamageTaken", "d1/d11/a18436.html#aed90f2c487c28190c7af630f4ea2fa13", null ],
-    [ "Reset", "d1/d11/a18436.html#ac5bab3d9f360e4e00dcab9abc3799865", null ],
-    [ "UpdateAI", "d1/d11/a18436.html#abae6058591022057e93d48da3db1b8bc", null ],
-    [ "_events", "d1/d11/a18436.html#af12b65fe4f77e8b2d3f5c87379dd69d2", null ],
-    [ "_frenzied", "d1/d11/a18436.html#a34347cbecea4c6f538345b7285e8f1c0", null ]
+    [ "AddMissingStack", "d1/d11/a18436.html#ae23dc772e58db8648a7ddbf5255bd917", null ],
+    [ "CheckAura", "d1/d11/a18436.html#a9d9e5620f61c92d35b08bec100b5a12a", null ],
+    [ "FilterTargets", "d1/d11/a18436.html#ab6c86c3680823329d5f3aad985aa316a", null ],
+    [ "Load", "d1/d11/a18436.html#a823e600ee1a350ab60ea69043e4fbef9", null ],
+    [ "PrepareSpellScript", "d1/d11/a18436.html#aff3b52df65504d7d4928b1ff69c1fa4b", null ],
+    [ "Register", "d1/d11/a18436.html#af0e6f1fc6687de1abcc1689116150088", null ],
+    [ "_hadInitialAura", "d1/d11/a18436.html#a1b553c0ad5fc4e86f02829b5284db709", null ],
+    [ "_hadJumpingAura", "d1/d11/a18436.html#ade3c2e5f78cbfbc34a3cbc8259e241db", null ]
 ];

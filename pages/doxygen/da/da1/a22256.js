@@ -1,6 +1,7 @@
 var a22256 =
 [
-    [ "npc_lord_areteAI", "de/db3/a22260.html", "de/db3/a22260" ],
-    [ "npc_lord_arete", "da/da1/a22256.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
-    [ "GetAI", "da/da1/a22256.html#a212d003e9acb5f141197b5c4d10163a4", null ]
+    [ "GetSeatNumber", "da/da1/a22256.html#a8e18a10196667fd3dfba58d16fa281b9", null ],
+    [ "HandleDummy", "da/da1/a22256.html#ac5945381452559e1d5655f5345bdeff3", null ],
+    [ "PrepareSpellScript", "da/da1/a22256.html#aad375c0d3d1f0352cbda6a23cfb61272", null ],
+    [ "Register", "da/da1/a22256.html#aad1cb82fdcd170f5a43f5007ebaadf2e", null ]
 ];

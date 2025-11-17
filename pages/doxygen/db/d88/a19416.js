@@ -1,5 +1,6 @@
 var a19416 =
 [
-    [ "at_naxxramas_hub_portal", "db/d88/a19416.html#a946086e8a4651240b84526a1b2d54065", null ],
-    [ "OnTrigger", "db/d88/a19416.html#af967b0f61b3257c8b8d802d4ed3af1da", null ]
+    [ "npc_vortex_rideAI", "d8/d00/a19420.html", "d8/d00/a19420" ],
+    [ "npc_vortex_ride", "db/d88/a19416.html#ad794cda407c9dfc35dd9bc2724f5014a", null ],
+    [ "GetAI", "db/d88/a19416.html#a23ef53feb432127db2620810a55d02ff", null ]
 ];

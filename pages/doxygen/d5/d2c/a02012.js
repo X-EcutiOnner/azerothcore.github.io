@@ -1,10 +1,10 @@
 var a02012 =
 [
-    [ "PeonRoleplay", "d1/d36/a23816.html", "d1/d36/a23816" ],
-    [ "boss_grand_warlock_nethekurse", "d6/d0a/a23820.html", "d6/d0a/a23820" ],
-    [ "spell_tsh_shadow_bolt", "d8/daf/a23824.html", "d8/daf/a23824" ],
-    [ "spell_target_fissures", "d2/d36/a23828.html", "d2/d36/a23828" ],
-    [ "at_rp_nethekurse", "d4/dce/a23832.html", "d4/dce/a23832" ],
+    [ "PeonRoleplay", "d9/d3f/a23784.html", "d9/d3f/a23784" ],
+    [ "boss_grand_warlock_nethekurse", "d8/d00/a23788.html", "d8/d00/a23788" ],
+    [ "spell_tsh_shadow_bolt", "d3/ded/a23792.html", "d3/ded/a23792" ],
+    [ "spell_target_fissures", "db/d28/a23796.html", "db/d28/a23796" ],
+    [ "at_rp_nethekurse", "d4/d88/a23800.html", "d4/d88/a23800" ],
     [ "Actions", "d5/d2c/a02012.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d4/def/a00359.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "d4/def/a00359.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],
@@ -241,6 +241,7 @@ var a02012 =
       [ "NPC_KURZEL", "d6/d97/a03011.html#a25a619e6b66096a4f05d048e4a96df08a22d66bc624082cb121a29f26aec07465", null ],
       [ "NPC_DRAKKARI_GUARDIAN", "d6/d97/a03011.html#a25a619e6b66096a4f05d048e4a96df08ac8874bda0b81ee0c77596d066d6c04d1", null ],
       [ "NPC_RISEN_DRAKKARI_WARRIOR", "d6/d97/a03011.html#a25a619e6b66096a4f05d048e4a96df08a134872c6167fea34d52690f6b40e7429", null ],
+      [ "NPC_FETID_TROLL_CORPSE", "d6/d97/a03011.html#a25a619e6b66096a4f05d048e4a96df08a9410ab8c778e63e997745a443db5e32c", null ],
       [ "NPC_BRONJAHM", "d7/deb/a03077.html#a25a619e6b66096a4f05d048e4a96df08a8123c635a5ab5db37954d58117f9d044", null ],
       [ "NPC_DEVOURER", "d7/deb/a03077.html#a25a619e6b66096a4f05d048e4a96df08a11aef36e86ef916bc76cd8910dff17e0", null ],
       [ "NPC_SYLVANAS_PART1", "d7/deb/a03077.html#a25a619e6b66096a4f05d048e4a96df08ad7b5f6d9b213f87c99f931b456390560", null ],

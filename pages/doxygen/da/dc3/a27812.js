@@ -1,6 +1,7 @@
 var a27812 =
 [
-    [ "npc_injured_patientAI", "d3/da7/a27816.html", "d3/da7/a27816" ],
-    [ "npc_injured_patient", "da/dc3/a27812.html#a0b7ef214aa1b20df088dee0976c73783", null ],
-    [ "GetAI", "da/dc3/a27812.html#a0c042bb81e684f903d28d7879af99d4a", null ]
+    [ "npc_steam_tonkAI", "da/dc3/a27812.html#a64bc74af412304d50526e5c93e01a333", null ],
+    [ "JustEngagedWith", "da/dc3/a27812.html#a95b023adf0a2e62788e0d5646b17b319", null ],
+    [ "OnPossess", "da/dc3/a27812.html#a954208c1a9826ae84a7402f59e1d7055", null ],
+    [ "Reset", "da/dc3/a27812.html#a5c76625843b30302b2af0a4ae8b85bd2", null ]
 ];

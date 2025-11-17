@@ -1,8 +1,6 @@
 var a19820 =
 [
-    [ "iron_golem_custodianAI", "d2/d39/a19820.html#aeeeed1383f5d221eb7b5cd5d3a6ea4fb", null ],
-    [ "JustEngagedWith", "d2/d39/a19820.html#acd67b8d4df95eb8b0d0365184e47a29c", null ],
-    [ "Reset", "d2/d39/a19820.html#af3193696d665746eecd9c62128d8684d", null ],
-    [ "UpdateAI", "d2/d39/a19820.html#ab1d3910b07a6c5c53f5388a10dc48775", null ],
-    [ "events", "d2/d39/a19820.html#a9e0bcc9ae6918f9fa40cbf8085d4ec42", null ]
+    [ "instance_halls_of_stone_InstanceMapScript", "da/d8f/a19824.html", "da/d8f/a19824" ],
+    [ "instance_halls_of_stone", "d2/d39/a19820.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
+    [ "GetInstanceScript", "d2/d39/a19820.html#a784906c7710a216016101cf7a6a915f3", null ]
 ];

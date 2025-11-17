@@ -1,10 +1,7 @@
 var a21740 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "d6/d04/a21740.html#a0a8159a84689dbfd8c69ed523ce03817", null ],
-    [ "GotStinged", "d6/d04/a21740.html#a0729c584c3b65e5f25f4445de378f0ea", null ],
-    [ "JustEngagedWith", "d6/d04/a21740.html#a2f3e45b3f762ede62aa94a6ae3f2909f", null ],
-    [ "Reset", "d6/d04/a21740.html#aedc82ee3bfa193a838d5af62533e19b4", null ],
-    [ "SpellHit", "d6/d04/a21740.html#a2010b53b3a8ad1e0aa6ecb5a26c8b6c9", null ],
-    [ "UpdateAI", "d6/d04/a21740.html#a21def23073eeec051c1c97a813e0ea84", null ],
-    [ "rebuff", "d6/d04/a21740.html#ac83c25091fdd3c7876a88927b758261f", null ]
+    [ "npc_bonker_togglevoltAI", "dd/d2d/a21744.html", "dd/d2d/a21744" ],
+    [ "npc_bonker_togglevolt", "d6/d04/a21740.html#aa37a0ebc03b884b5a2a06d652d5dede3", null ],
+    [ "GetAI", "d6/d04/a21740.html#a339c331e73497d2f7e1ee11e01ba4866", null ],
+    [ "OnQuestAccept", "d6/d04/a21740.html#aaf1f65a1f6788a98705bc29fecc4c3fa", null ]
 ];

@@ -1,9 +1,6 @@
 var a20084 =
 [
-    [ "npc_thorims_hammerAI", "d8/def/a20084.html#aafda36c8d784252d271ef031ab6a3d34", null ],
-    [ "Reset", "d8/def/a20084.html#a57975d0dc00c86946e547ba43c7151ec", null ],
-    [ "UpdateAI", "d8/def/a20084.html#a4e01a61d09c11647e06c3547d6fa91fa", null ],
-    [ "_beamTimer", "d8/def/a20084.html#aba7c6c078977a8187a7e673ba3126bfd", null ],
-    [ "_finishTime", "d8/def/a20084.html#a218bd28d18a2c2f0aef6906619437209", null ],
-    [ "_removeTimer", "d8/def/a20084.html#a958e4c975d1ae634745107af7d204f82", null ]
+    [ "npc_brann_radioAI", "d0/d87/a20088.html", "d0/d87/a20088" ],
+    [ "npc_brann_radio", "d8/def/a20084.html#a22b5231f643c287d8e32d88a3b0728b2", null ],
+    [ "GetAI", "d8/def/a20084.html#aa2ea91337262fb886e7535ba013f4b10", null ]
 ];

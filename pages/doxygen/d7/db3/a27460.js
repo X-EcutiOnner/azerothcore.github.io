@@ -1,6 +1,7 @@
 var a27460 =
 [
-    [ "go_flamesAI", "d7/db3/a27460.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "d7/db3/a27460.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "d7/db3/a27460.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "go_brewfest_musicAI", "d7/db3/a27460.html#a832bd6353b3c466c197b8c90b5bee8a8", null ],
+    [ "UpdateAI", "d7/db3/a27460.html#a47ea5bbcd9d01b9eaf839bc779809aec", null ],
+    [ "_currentMusicEvent", "d7/db3/a27460.html#ad26a0309bdd4eafce4dfa310db929357", null ],
+    [ "_events", "d7/db3/a27460.html#ae741239bbebae9f93ad2d04c7487c32f", null ]
 ];

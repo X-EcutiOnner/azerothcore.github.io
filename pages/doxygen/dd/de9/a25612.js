@@ -1,10 +1,8 @@
 var a25612 =
 [
-    [ "CheckProc", "dd/de9/a25612.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
-    [ "HandleProc", "dd/de9/a25612.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
-    [ "OnApply", "dd/de9/a25612.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
-    [ "OnRemove", "dd/de9/a25612.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
-    [ "PrepareAuraScript", "dd/de9/a25612.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
-    [ "Register", "dd/de9/a25612.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
-    [ "Validate", "dd/de9/a25612.html#a91c5a0e10c308332e18dc40033049996", null ]
+    [ "HandlePeriodic", "dd/de9/a25612.html#acba5d68c19e68361c088e50f9b831bff", null ],
+    [ "HandleUpdatePeriodic", "dd/de9/a25612.html#af27c6dfccb12f1ba52d170da5d9228f9", null ],
+    [ "PrepareAuraScript", "dd/de9/a25612.html#a8fa9d7c1f8e95c2e50bd2178f4f58c04", null ],
+    [ "Register", "dd/de9/a25612.html#a2be03ae04a562b2c908fcdb0c052ca5f", null ],
+    [ "Validate", "dd/de9/a25612.html#ab467c3b759ac1e276d6a4815d20f5ff0", null ]
 ];

@@ -1,6 +1,7 @@
 var a26796 =
 [
-    [ "CheckProc", "d1/d59/a26796.html#a4e40a3472a7dde5aaa1d6d4cda54482a", null ],
-    [ "PrepareAuraScript", "d1/d59/a26796.html#af15109e926eb717c3f3cb2f7f617428c", null ],
-    [ "Register", "d1/d59/a26796.html#aee35ceec1ffcdebf5bd712310bdf9f1c", null ]
+    [ "HandleEffectPeriodic", "d1/d59/a26796.html#abb9ec1dd08954e80cf6dbcacbe44e2ba", null ],
+    [ "PrepareAuraScript", "d1/d59/a26796.html#ae151331af09510cc91b63b65a30bdcbf", null ],
+    [ "Register", "d1/d59/a26796.html#ac2e23fa8c9cfec9b9689512f3363a56e", null ],
+    [ "Validate", "d1/d59/a26796.html#ad5cc7a5aa1164092f267071c82752bb5", null ]
 ];

@@ -1,6 +1,6 @@
 var a23400 =
 [
-    [ "HandleScriptEffect", "d6/d7a/a23400.html#a9e42f1af6fabb7df066cc2488a831418", null ],
-    [ "PrepareSpellScript", "d6/d7a/a23400.html#a866496b087288a3cb8f00d4dbdb5d2ec", null ],
-    [ "Register", "d6/d7a/a23400.html#a0fdb5d866d714d1d3bc71c4439a7f593", null ]
+    [ "instance_serpentshrine_cavern_InstanceMapScript", "d2/da7/a23404.html", "d2/da7/a23404" ],
+    [ "instance_serpent_shrine", "d6/d7a/a23400.html#aac4fc7113307805138ba4ce4a9adff09", null ],
+    [ "GetInstanceScript", "d6/d7a/a23400.html#aa81add2f4aeb8b2084bcc81c05b606c7", null ]
 ];

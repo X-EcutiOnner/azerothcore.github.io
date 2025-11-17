@@ -1,6 +1,7 @@
 var a22852 =
 [
-    [ "instance_sethekk_halls_InstanceMapScript", "dc/d8c/a22856.html", "dc/d8c/a22856" ],
-    [ "instance_sethekk_halls", "dc/df6/a22852.html#ab50d296266cf377bfb34750ec36963ef", null ],
-    [ "GetInstanceScript", "dc/df6/a22852.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
+    [ "HandleOnHit", "dc/df6/a22852.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
+    [ "PrepareSpellScript", "dc/df6/a22852.html#a734b735c7e87938bff185be91f9de6e8", null ],
+    [ "Register", "dc/df6/a22852.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
+    [ "Validate", "dc/df6/a22852.html#a162f60784fdec6b748151e5c2a7ed257", null ]
 ];

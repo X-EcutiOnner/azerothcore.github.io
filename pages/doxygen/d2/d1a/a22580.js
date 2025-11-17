@@ -1,9 +1,9 @@
 var a22580 =
 [
-    [ "HandleFinish", "d2/d1a/a22580.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
-    [ "Load", "d2/d1a/a22580.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
-    [ "PrepareSpellScript", "d2/d1a/a22580.html#a8326b3f9f78aab65225e81d274cc37df", null ],
-    [ "Register", "d2/d1a/a22580.html#a749858f56e15a0bb6074d15ba166625d", null ],
-    [ "Validate", "d2/d1a/a22580.html#a64005c52e7112c466f6206b7f6c847c0", null ],
-    [ "handled", "d2/d1a/a22580.html#a7afe3007a016cb553f437544f8fd6f89", null ]
+    [ "npc_finklesteinAI", "d0/db8/a22584.html", "d0/db8/a22584" ],
+    [ "npc_finklestein", "d2/d1a/a22580.html#aa719b4bb95012c22ef8123e255e32edd", null ],
+    [ "GetAI", "d2/d1a/a22580.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
+    [ "OnGossipHello", "d2/d1a/a22580.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
+    [ "OnGossipSelect", "d2/d1a/a22580.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
+    [ "OnQuestAccept", "d2/d1a/a22580.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
 ];

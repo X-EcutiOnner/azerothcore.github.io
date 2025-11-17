@@ -1,6 +1,6 @@
 var a12380 =
 [
-    [ "OnEffect", "dc/d2a/a12380.html#a1b5999f392cec9fea4431c3f746ee034", null ],
-    [ "PrepareSpellScript", "dc/d2a/a12380.html#a4748a82fcc7b3794850461092ee6b2e4", null ],
-    [ "Register", "dc/d2a/a12380.html#acfa32dfc22778576d0dd3096c456ebe0", null ]
+    [ "npc_vaelastrasz_the_redAI", "dc/d53/a12384.html", "dc/d53/a12384" ],
+    [ "npc_vaelastrasz_the_red", "dc/d2a/a12380.html#af39fcaa29b200e3b7933f97de277df6b", null ],
+    [ "GetAI", "dc/d2a/a12380.html#a59e7630d5060986dc4209d2d2b5ef42b", null ]
 ];

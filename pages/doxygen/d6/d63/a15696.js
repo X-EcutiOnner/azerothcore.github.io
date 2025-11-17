@@ -1,10 +1,6 @@
 var a15696 =
 [
-    [ "npc_omenAI", "d6/d63/a15696.html#a042c0854b4cc08861fabbd347acbb9d7", null ],
-    [ "JustDied", "d6/d63/a15696.html#a5a5d61081c2c59d637739de0f2fe39d4", null ],
-    [ "JustEngagedWith", "d6/d63/a15696.html#aa2dbe46d16d7059c57876e000fcf1bb5", null ],
-    [ "MovementInform", "d6/d63/a15696.html#a92e59bde1f0da2ee537a836304a3c385", null ],
-    [ "SpellHit", "d6/d63/a15696.html#a4e3960d506fd0435de055a365906a9c9", null ],
-    [ "UpdateAI", "d6/d63/a15696.html#a6f114ab4bbe3e6e1fd6d74da93a36027", null ],
-    [ "events", "d6/d63/a15696.html#aaaaff29ffd8f216eb3e09b51a67f7321", null ]
+    [ "npc_giant_spotlightAI", "df/ddb/a15700.html", "df/ddb/a15700" ],
+    [ "npc_giant_spotlight", "d6/d63/a15696.html#a9d1c47de758c74a89c751b675d5cc4c0", null ],
+    [ "GetAI", "d6/d63/a15696.html#af002a3d0194c991c1f78c720de63cfea", null ]
 ];

@@ -1,8 +1,12 @@
 var a23704 =
 [
-    [ "instance_gruuls_lair_InstanceMapScript", "d4/d27/a23704.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
-    [ "GetData", "d4/d27/a23704.html#a410630dbbe00acf0b69603cfc357d503", null ],
-    [ "SetBossState", "d4/d27/a23704.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
-    [ "SetData", "d4/d27/a23704.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
-    [ "_addsKilled", "d4/d27/a23704.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
+    [ "boss_omor_the_unscarred", "d4/d27/a23704.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
+    [ "JustDied", "d4/d27/a23704.html#a9ddae483a0f8cefd8a19975b60002660", null ],
+    [ "JustEngagedWith", "d4/d27/a23704.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
+    [ "JustSummoned", "d4/d27/a23704.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
+    [ "KilledUnit", "d4/d27/a23704.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
+    [ "Reset", "d4/d27/a23704.html#a0ec22c50cd096677a20299ab45a3c344", null ],
+    [ "UpdateAI", "d4/d27/a23704.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
+    [ "_hasSpoken", "d4/d27/a23704.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
+    [ "_targetGUID", "d4/d27/a23704.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
 ];

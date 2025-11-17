@@ -1,6 +1,10 @@
 var a24964 =
 [
-    [ "OnHit", "df/dff/a24964.html#a56ecd2ea05f48b874b2890d7f15cc362", null ],
-    [ "PrepareSpellScript", "df/dff/a24964.html#a0d74ce7c43f0cb7329ca990f1b0eecdf", null ],
-    [ "Register", "df/dff/a24964.html#a7cd2cc858eeb7805a3efb72b081c284e", null ]
+    [ "HandleEffectApply", "df/dff/a24964.html#ac977d07e0b054af33345538f10d80c56", null ],
+    [ "HandleEffectRemove", "df/dff/a24964.html#acd9c460acb60eae5db8874c246014147", null ],
+    [ "PrepareAuraScript", "df/dff/a24964.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
+    [ "Register", "df/dff/a24964.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
+    [ "_hasFlag", "df/dff/a24964.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
+    [ "_itemId", "df/dff/a24964.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
+    [ "_modelId", "df/dff/a24964.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
 ];

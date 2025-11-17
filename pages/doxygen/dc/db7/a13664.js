@@ -1,10 +1,9 @@
 var a13664 =
 [
-    [ "npc_sunblade_scout", "dc/db7/a13664.html#ab8ecb0d2fb7dfd482b2cba4ed11ababc", null ],
-    [ "JustEngagedWith", "dc/db7/a13664.html#ab57b63a624458a9fa598062e61c5fa0e", null ],
-    [ "Reset", "dc/db7/a13664.html#a8c7f442118fced8a2efac3b9fe0035f5", null ],
-    [ "ScheduleCombat", "dc/db7/a13664.html#ae4ca796fa8fd4aae6ac8f184638b3f97", null ],
-    [ "ScheduleOOC", "dc/db7/a13664.html#ae06c1d7b43cc170f3a3b5f4835822d57", null ],
-    [ "UpdateAI", "dc/db7/a13664.html#aca75482085b72070487c24feefa23fd6", null ],
-    [ "_protectorGUID", "dc/db7/a13664.html#a753f7fbbea33f7fc49f5d6e733a8f833", null ]
+    [ "spell_sunwell_teleport", "dc/db7/a13664.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
+    [ "HandleScript", "dc/db7/a13664.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
+    [ "PrepareSpellScript", "dc/db7/a13664.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
+    [ "Register", "dc/db7/a13664.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
+    [ "Validate", "dc/db7/a13664.html#a351a2beced058f9354515baa38b0292e", null ],
+    [ "_triggeredSpellId", "dc/db7/a13664.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
 ];

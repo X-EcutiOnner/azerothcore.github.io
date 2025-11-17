@@ -1,5 +1,6 @@
 var a14140 =
 [
-    [ "go_gong_of_bethekk", "df/d20/a14140.html#ae261467be63f1a744eb20f81473c2239", null ],
-    [ "OnGossipHello", "df/d20/a14140.html#a82072ff8c030aec1a5ed447865680788", null ]
+    [ "boss_gahzranka", "df/d20/a14140.html#a82cc1a44a967f859039957e41f38dd77", null ],
+    [ "IsSummonedBy", "df/d20/a14140.html#ad68be854f95c398dc5dd9e5b22f538a8", null ],
+    [ "JustEngagedWith", "df/d20/a14140.html#ac1cc43194c00fda1729f8a068d4e8779", null ]
 ];

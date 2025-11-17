@@ -1,7 +1,7 @@
 var a03146 =
 [
-    [ "boss_varos", "d4/df2/a19596.html", "d4/df2/a19596" ],
-    [ "boss_varos::boss_varosAI", "d7/da9/a19600.html", "d7/da9/a19600" ],
+    [ "boss_varos", "de/df9/a19584.html", "de/df9/a19584" ],
+    [ "boss_varos::boss_varosAI", "df/dbd/a19588.html", "df/dbd/a19588" ],
     [ "Events", "dc/df0/a03146.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

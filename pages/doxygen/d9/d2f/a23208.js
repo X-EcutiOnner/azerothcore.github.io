@@ -1,9 +1,8 @@
 var a23208 =
 [
-    [ "boss_najentus", "d9/d2f/a23208.html#ac5d3d54a49524892fe844925d483c244", null ],
-    [ "JustDied", "d9/d2f/a23208.html#afee32dd32033c7a45068ce12e961797c", null ],
-    [ "JustEngagedWith", "d9/d2f/a23208.html#a46e3aab64c21b24ac6457acd598679ec", null ],
-    [ "KilledUnit", "d9/d2f/a23208.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
-    [ "Reset", "d9/d2f/a23208.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
-    [ "_canTalk", "d9/d2f/a23208.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
+    [ "CalcPeriodic", "d9/d2f/a23208.html#aad87c25b9b3255a4871bec39d9787299", null ],
+    [ "PrepareAuraScript", "d9/d2f/a23208.html#a7494c41e41ffc55811c57208f80c7eb6", null ],
+    [ "Register", "d9/d2f/a23208.html#acce25abc58a29dfe5a5287a8b00242ae", null ],
+    [ "Update", "d9/d2f/a23208.html#a4e2a5a2d666419ccbb0ca71670332b8c", null ],
+    [ "Validate", "d9/d2f/a23208.html#ae4f7bfb1cd95666acada217173876352", null ]
 ];

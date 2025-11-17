@@ -1,6 +1,6 @@
 var a24416 =
 [
-    [ "npc_illidari_spawnAI", "d7/db8/a24420.html", "d7/db8/a24420" ],
-    [ "npc_illidari_spawn", "de/db8/a24416.html#ac8dbb30fe7f40d29a3434c8a888ace60", null ],
-    [ "GetAI", "de/db8/a24416.html#a7198f506b0d4fd55d22fc72a90f42a09", null ]
+    [ "PrepareSpellScript", "de/db8/a24416.html#aa858fff409e5c75d865c91cb5fbef679", null ],
+    [ "Register", "de/db8/a24416.html#a0deddf7497d3bdb82901d612dce28dc9", null ],
+    [ "SetDest", "de/db8/a24416.html#a7b9a31e79d13af130566cda1fcb5dac1", null ]
 ];

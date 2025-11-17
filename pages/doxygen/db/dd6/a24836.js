@@ -1,10 +1,7 @@
 var a24836 =
 [
-    [ "Absorb", "db/dd6/a24836.html#a5ab2041dcc342b087d8c6fd9b8d2635f", null ],
-    [ "CalculateAmount", "db/dd6/a24836.html#aed6e525b71f18dafb6f458bc255a6495", null ],
-    [ "Load", "db/dd6/a24836.html#af73fcf4a73ba60e214c045471569f7b0", null ],
-    [ "PrepareAuraScript", "db/dd6/a24836.html#a884927612b8ab2712a057da72f8180c6", null ],
-    [ "Register", "db/dd6/a24836.html#a380b63aec7c567c8db60f4c69a4e6043", null ],
-    [ "Validate", "db/dd6/a24836.html#af58ba552be9c91e8885ef1ccd567c96a", null ],
-    [ "absorbPct", "db/dd6/a24836.html#a64e8bcde6ee27dd00e77d7bfa0864e81", null ]
+    [ "AfterApply", "db/dd6/a24836.html#a1849f49a9682627753b8bd39b3ff827e", null ],
+    [ "AfterRemove", "db/dd6/a24836.html#a7c08bea735cd36840463aa942e7529b4", null ],
+    [ "PrepareAuraScript", "db/dd6/a24836.html#ad27880f797137cae09381e860727e2f7", null ],
+    [ "Register", "db/dd6/a24836.html#a6c105609c1ee61a8f845018550b2e3ba", null ]
 ];

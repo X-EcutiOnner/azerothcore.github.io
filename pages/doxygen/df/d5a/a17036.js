@@ -1,7 +1,6 @@
 var a17036 =
 [
-    [ "OnRemove", "df/d5a/a17036.html#a4b95717cb19116b81f3eec798089abad", null ],
-    [ "PrepareAuraScript", "df/d5a/a17036.html#a581645fa151531aaf7b562a8739d5616", null ],
-    [ "Register", "df/d5a/a17036.html#a01304c556d79001e290707551bee7622", null ],
-    [ "Validate", "df/d5a/a17036.html#a96e4b9cae1f016bf87c9a09ceb6da561", null ]
+    [ "npc_ghostly_priestAI", "d4/d50/a17040.html", "d4/d50/a17040" ],
+    [ "npc_ghostly_priest", "df/d5a/a17036.html#a7c03bb327cfc65f4df515969da482ddb", null ],
+    [ "GetAI", "df/d5a/a17036.html#a0fab76345c5459efcedff02123e4fc8d", null ]
 ];

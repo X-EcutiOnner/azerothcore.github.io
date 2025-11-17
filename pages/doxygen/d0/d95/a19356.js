@@ -1,6 +1,6 @@
 var a19356 =
 [
-    [ "FilterTargets", "d0/d95/a19356.html#a4d5340e7b2e3326ff36b4d61d1faeaa9", null ],
-    [ "PrepareSpellScript", "d0/d95/a19356.html#a452937a4e95b40366f915213ec475a84", null ],
-    [ "Register", "d0/d95/a19356.html#a883e383928a9b0ad0aeccf7afee4f15e", null ]
+    [ "boss_thaddius_summonAI", "d6/d68/a19360.html", "d6/d68/a19360" ],
+    [ "boss_thaddius_summon", "d0/d95/a19356.html#a0fd6c83b5ff6d62b1649f9a13de05c73", null ],
+    [ "GetAI", "d0/d95/a19356.html#aaab5973012f9ac55e8b29cc90f5ec98e", null ]
 ];

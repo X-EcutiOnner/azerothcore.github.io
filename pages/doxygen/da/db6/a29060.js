@@ -1,16 +1,7 @@
 var a29060 =
 [
-    [ "TileBuilder", "da/db6/a29060.html#a11941bfac809a75cc1b523fe0ce25c55", null ],
-    [ "TileBuilder", "da/db6/a29060.html#ac7ed1b1c9fdff7fc933fa6029fa9ff9d", null ],
-    [ "~TileBuilder", "da/db6/a29060.html#a7fabcd86a5679f19ad69e9c69f1d5885", null ],
-    [ "buildMoveMapTile", "da/db6/a29060.html#add45abc9c1f79f95dae9d7616b100dc0", null ],
-    [ "buildTile", "da/db6/a29060.html#ab7eca8778fd61ecbfe5f07bba0b38857", null ],
-    [ "shouldSkipTile", "da/db6/a29060.html#a77ecbab0c34dfe69c414304768b20ea3", null ],
-    [ "WaitCompletion", "da/db6/a29060.html#ae386f742fed7d2b66bcf3750abf91daf", null ],
-    [ "WorkerThread", "da/db6/a29060.html#a4c0497cde74883557ec841233376f95c", null ],
-    [ "m_debugOutput", "da/db6/a29060.html#a4c881a6e6ec66b315f72f84da5c534c2", null ],
-    [ "m_mapBuilder", "da/db6/a29060.html#aa83fbc484835a6d1a4c7bf6201b46639", null ],
-    [ "m_rcContext", "da/db6/a29060.html#a160c3ad76146488175c6ae228ad4ef83", null ],
-    [ "m_terrainBuilder", "da/db6/a29060.html#ade1605fb1b68693516c9fb27f94b278d", null ],
-    [ "m_workerThread", "da/db6/a29060.html#a4e03cb818b108400737e3a54df24945d", null ]
+    [ "_pad", "da/db6/a29060.html#ad6e8aff776dfb6fa95c30d0318b3af25", null ],
+    [ "Count", "da/db6/a29060.html#ac90dd584efc679554d4cee31c988c7c8", null ],
+    [ "Name", "da/db6/a29060.html#ae93b772cbbe91b9ed55c78e22317c8dd", null ],
+    [ "StartIndex", "da/db6/a29060.html#a2ab3e4bac4c3b7e6b4ed7a72042d05fa", null ]
 ];

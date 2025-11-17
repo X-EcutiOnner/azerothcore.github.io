@@ -1,6 +1,7 @@
 var a25060 =
 [
-    [ "CheckAreaTarget", "da/d52/a25060.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
-    [ "PrepareAuraScript", "da/d52/a25060.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
-    [ "Register", "da/d52/a25060.html#a6647a8e35009cf8559e4957a666f037a", null ]
+    [ "HandleEffectRemove", "da/d52/a25060.html#a3d6b6ae0bde8ae51362c95df82604d68", null ],
+    [ "PrepareAuraScript", "da/d52/a25060.html#aa07b231cc76afb098ac8bc92eb050c80", null ],
+    [ "Register", "da/d52/a25060.html#aa381143f36a6443dfb1f0d66ce81c351", null ],
+    [ "AuraEffectHandleModes", "da/d52/a25060.html#a97370dd3f7c3e58a719090176c397386", null ]
 ];

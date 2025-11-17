@@ -1,6 +1,12 @@
 var a14132 =
 [
-    [ "npc_zulian_prowlerAI", "d0/d4a/a14136.html", "d0/d4a/a14136" ],
-    [ "npc_zulian_prowler", "d5/dde/a14132.html#a27ae990985976d02bb221b6d669fa849", null ],
-    [ "GetAI", "d5/dde/a14132.html#a7e7d4f8164bbb728a1b83244c1e356f9", null ]
+    [ "npc_zulian_prowlerAI", "d5/dde/a14132.html#a367613efead335b060173011267ddcff", null ],
+    [ "JustDied", "d5/dde/a14132.html#a31258aadddfbf6c6e9e1d729452dd8b2", null ],
+    [ "JustEngagedWith", "d5/dde/a14132.html#a207504b15ecd22b78088593b80433581", null ],
+    [ "Reset", "d5/dde/a14132.html#a62d14bae970d8a70a997c683e0e94259", null ],
+    [ "SpellHit", "d5/dde/a14132.html#a4051cd786d8c1974cf80c28f907cc02a", null ],
+    [ "UpdateAI", "d5/dde/a14132.html#a708df3a95395f99f6ba3eebcc90a22ab", null ],
+    [ "_events", "d5/dde/a14132.html#a994ae5b4e72429141155d1342830e5ad", null ],
+    [ "_instance", "d5/dde/a14132.html#ad37ba6b6ff7f52a88d2a96dc4ea00c34", null ],
+    [ "_sideData", "d5/dde/a14132.html#afa44e09c5677c2fc567be6a67b766bde", null ]
 ];

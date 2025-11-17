@@ -1,8 +1,5 @@
 var a25680 =
 [
-    [ "HandleFinish", "d9/dce/a25680.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
-    [ "PrepareSpellScript", "d9/dce/a25680.html#a73865997890d4f58cc09d54c2c4e5243", null ],
-    [ "Register", "d9/dce/a25680.html#a106cf5d53956b66f8f548caceda41dc8", null ],
-    [ "SelectTarget", "d9/dce/a25680.html#ab33513df20e942ba354932df5082efa8", null ],
-    [ "_target", "d9/dce/a25680.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
+    [ "PrepareSpellScript", "d9/dce/a25680.html#aadb11335a487f83639260fc4246ba26f", null ],
+    [ "Register", "d9/dce/a25680.html#a1b83195bdc148434f10a6c1ba3c0af0d", null ]
 ];

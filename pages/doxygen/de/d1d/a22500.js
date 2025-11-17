@@ -1,12 +1,7 @@
 var a22500 =
 [
-    [ "npc_icefangAI", "de/d1d/a22500.html#ab74b58a77e3c1349ed308f7febef794a", null ],
-    [ "AttackStart", "de/d1d/a22500.html#a56615ecdb45389aa793374d26a636d45", null ],
-    [ "EnterEvadeMode", "de/d1d/a22500.html#a1465c4779ea8b080f934163c8db6c99c", null ],
-    [ "JustDied", "de/d1d/a22500.html#a3140c8306a384833cca1580ad964d73a", null ],
-    [ "JustEngagedWith", "de/d1d/a22500.html#a8455dd4afb5ef5a694ca9237848df907", null ],
-    [ "OnCharmed", "de/d1d/a22500.html#ad7f3465f5730cd9ebd42bb4092ec8e68", null ],
-    [ "PassengerBoarded", "de/d1d/a22500.html#acf6e8e273830d022eaca3a28a4bd5320", null ],
-    [ "UpdateAI", "de/d1d/a22500.html#ab4d752f2273062c48339b53e611e617c", null ],
-    [ "WaypointReached", "de/d1d/a22500.html#ae315a1d22317edb2864e4d796f808ffb", null ]
+    [ "npc_wg_demolisher_engineer", "de/d1d/a22500.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "de/d1d/a22500.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "de/d1d/a22500.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "de/d1d/a22500.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

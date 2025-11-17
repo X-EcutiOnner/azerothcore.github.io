@@ -1,10 +1,7 @@
 var a25000 =
 [
-    [ "FilterTargets", "dd/d25/a25000.html#a033c63470d406ad2249c5aa223c00b2f", null ],
-    [ "HandleFinish", "dd/d25/a25000.html#a3b5760ed61d0b2789ddcaef998303d38", null ],
-    [ "HandleScript", "dd/d25/a25000.html#a2c26838015f1b21715fc1438537e15d3", null ],
-    [ "Load", "dd/d25/a25000.html#a669aefa81d57358ef452f4c247b2ceff", null ],
-    [ "PrepareSpellScript", "dd/d25/a25000.html#a3b65dbff73258b45f9e345bffc7a63a8", null ],
-    [ "Register", "dd/d25/a25000.html#ac9b8d46cc77b06c427b5b3cbc1135072", null ],
-    [ "haveTarget", "dd/d25/a25000.html#a7f5a4e68fb7d948f0df35824272cbdb0", null ]
+    [ "CheckRequirement", "dd/d25/a25000.html#a6be5f335a15226db87a04548490f488d", null ],
+    [ "PrepareSpellScript", "dd/d25/a25000.html#a25463eda0ce51a124e8715baf305c8f6", null ],
+    [ "Register", "dd/d25/a25000.html#a8db5a5597d8f6fe4064799766fb61502", null ],
+    [ "_level", "dd/d25/a25000.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
 ];

@@ -1,6 +1,5 @@
 var a21220 =
 [
-    [ "npc_ulduar_arachnopod_destroyerAI", "d4/d0c/a21224.html", "d4/d0c/a21224" ],
-    [ "npc_ulduar_arachnopod_destroyer", "df/dab/a21220.html#aec69c3c143ec27734dd3f2d8db0da9fd", null ],
-    [ "GetAI", "df/dab/a21220.html#ad667e7bacc181e79cb002181c71aac7c", null ]
+    [ "AreaTrigger_at_celestial_planetarium_enterance", "df/dab/a21220.html#ae1503a754a05a77991d9955a2fb74265", null ],
+    [ "OnTrigger", "df/dab/a21220.html#aa7aa93e00170313de251af4e562c422c", null ]
 ];

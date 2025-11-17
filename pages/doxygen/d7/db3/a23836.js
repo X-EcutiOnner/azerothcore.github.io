@@ -1,6 +1,6 @@
 var a23836 =
 [
-    [ "boss_porung", "d7/db3/a23836.html#acef31010461bbf716ac9b13d950807ee", null ],
-    [ "JustDied", "d7/db3/a23836.html#ac5c36f875692f49d1d0195694d85e5c1", null ],
-    [ "JustEngagedWith", "d7/db3/a23836.html#a9d44f51e4710e01bdc7d345ff3bba9dc", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "d6/da0/a23840.html", "d6/da0/a23840" ],
+    [ "instance_shattered_halls", "d7/db3/a23836.html#a9d0d3b6baec34c679151791610cff3a7", null ],
+    [ "GetInstanceScript", "d7/db3/a23836.html#a82388466811b022a725ba721845cadf3", null ]
 ];

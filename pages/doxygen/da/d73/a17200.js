@@ -1,6 +1,7 @@
 var a17200 =
 [
-    [ "boss_krickAI", "d6/de5/a17204.html", "d6/de5/a17204" ],
-    [ "boss_krick", "da/d73/a17200.html#a8921ff79c0af7db7f7910634239bcd0c", null ],
-    [ "GetAI", "da/d73/a17200.html#a9aa994da7c667b20c00b1bd1e994fed1", null ]
+    [ "HandlePeriodicTick", "da/d73/a17200.html#a61417176afec531ca2bf6e80eb72ac6a", null ],
+    [ "PrepareAuraScript", "da/d73/a17200.html#ad5f954d5050bded2e6a5877cb9f81df5", null ],
+    [ "Register", "da/d73/a17200.html#a4653ccb0d93d056adf3b14056865787c", null ],
+    [ "Validate", "da/d73/a17200.html#a675b447cf1cf0e7d92c777ae31888a8c", null ]
 ];

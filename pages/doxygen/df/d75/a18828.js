@@ -1,7 +1,6 @@
 var a18828 =
 [
-    [ "npc_captain_arnathAI", "df/d75/a18828.html#a34e3d17b89010569bf7e9cb28361c2af", null ],
-    [ "FindFriendlyCreature", "df/d75/a18828.html#ad6411d2a87d2552bea2051f80ca16e14", null ],
-    [ "Reset", "df/d75/a18828.html#a016fbe51f31e1c5ec1636e8d20d8cb30", null ],
-    [ "UpdateAI", "df/d75/a18828.html#a020efd7adc0d60152007906e3229988d", null ]
+    [ "npc_captain_grondelAI", "db/d40/a18832.html", "db/d40/a18832" ],
+    [ "npc_captain_grondel", "df/d75/a18828.html#a54a53f8e3cde87405219c815a56d523c", null ],
+    [ "GetAI", "df/d75/a18828.html#a2a7725e81294e80701b7742d2605ec00", null ]
 ];

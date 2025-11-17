@@ -1,6 +1,11 @@
 var a20600 =
 [
-    [ "npc_ulduar_aerial_command_unitAI", "d3/de4/a20604.html", "d3/de4/a20604" ],
-    [ "npc_ulduar_aerial_command_unit", "d6/d52/a20600.html#ac0c1ecef78b92dd4ae072f6eeca9f733", null ],
-    [ "GetAI", "d6/d52/a20600.html#a406e828a902d75bb1946fd8f5090044f", null ]
+    [ "npc_ulduar_proximity_mineAI", "d6/d52/a20600.html#aa3001a71c8a298be688631d618745495", null ],
+    [ "AttackStart", "d6/d52/a20600.html#afe5572c8fd1f8acc64ca57304d8be254", null ],
+    [ "CanAIAttack", "d6/d52/a20600.html#a0216f41bf596eb43a9b9eea13152d262", null ],
+    [ "MoveInLineOfSight", "d6/d52/a20600.html#afe07e3cd341d6a84592ab9b33e02d6d5", null ],
+    [ "UpdateAI", "d6/d52/a20600.html#adadc4c33ff356bd5eed6d82115dc888a", null ],
+    [ "exploded", "d6/d52/a20600.html#a1706ff0cfd7192040c32f13a37610c43", null ],
+    [ "timer", "d6/d52/a20600.html#a4c743646055b4c95bf379a751eb5892e", null ],
+    [ "timer2", "d6/d52/a20600.html#a446b7658fa4c165f43947a05562827b2", null ]
 ];

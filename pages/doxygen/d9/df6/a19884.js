@@ -1,6 +1,6 @@
 var a19884 =
 [
-    [ "go_celestial_planetarium_accessAI", "de/dfd/a19888.html", "de/dfd/a19888" ],
-    [ "go_celestial_planetarium_access", "d9/df6/a19884.html#a20b7c895dd0fc2cb37bf3c113bf91278", null ],
-    [ "GetAI", "d9/df6/a19884.html#a4fc9ac64f7dceefbdda02297f7dfc42b", null ]
+    [ "HandlePeriodic", "d9/df6/a19884.html#a0a77c0b232e24e5cb8b3392ac8adbd3a", null ],
+    [ "PrepareAuraScript", "d9/df6/a19884.html#a7c6b6839da4a93f656800c9ae174c832", null ],
+    [ "Register", "d9/df6/a19884.html#ae28e67baa12488e248efd46ef5a7cb11", null ]
 ];

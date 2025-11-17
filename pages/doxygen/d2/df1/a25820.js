@@ -1,7 +1,6 @@
 var a25820 =
 [
-    [ "CheckProc", "d2/df1/a25820.html#afbd6d4a64b7da0d0dc15c62eb81746c9", null ],
-    [ "HandleProc", "d2/df1/a25820.html#a27569fe686e50246768fca4a7625fe0d", null ],
-    [ "PrepareAuraScript", "d2/df1/a25820.html#a4f4eaa4aeeac9257804957671c16233f", null ],
-    [ "Register", "d2/df1/a25820.html#ab9a662bebdb5e03c5c10a807b892a9bf", null ]
+    [ "HandlePeriodicTick", "d2/df1/a25820.html#a058eeb1e0489340763a58d92d4bed832", null ],
+    [ "PrepareAuraScript", "d2/df1/a25820.html#a3d71859b7e7f914a395f131dd4a6b4ab", null ],
+    [ "Register", "d2/df1/a25820.html#ae5a8adc3fe7cc5c5d7dd715449d3442f", null ]
 ];

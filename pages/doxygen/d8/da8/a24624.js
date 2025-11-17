@@ -1,6 +1,6 @@
 var a24624 =
 [
-    [ "DeathEvent", "d8/da8/a24624.html#a2fb9a98c077d715c4648aede6597276e", null ],
-    [ "Execute", "d8/da8/a24624.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
-    [ "_owner", "d8/da8/a24624.html#a099d0d5ae50126f00220b3ed90907617", null ]
+    [ "FilterTargets", "d8/da8/a24624.html#a991a944f31680e4d53cc2a46d8c8b8bf", null ],
+    [ "PrepareSpellScript", "d8/da8/a24624.html#aea49df3f6b93223ed72c3a9875232b74", null ],
+    [ "Register", "d8/da8/a24624.html#a8f0e0b6363303def780d35415c88b4d6", null ]
 ];

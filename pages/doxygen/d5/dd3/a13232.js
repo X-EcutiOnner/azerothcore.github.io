@@ -1,7 +1,8 @@
 var a13232 =
 [
-    [ "OnApply", "d5/dd3/a13232.html#a21450cd59487a927bbc0a5a5e1ffa72b", null ],
-    [ "OnRemove", "d5/dd3/a13232.html#a810203874163cf04798c3edbe69b747e", null ],
-    [ "PrepareAuraScript", "d5/dd3/a13232.html#a3c17a7366acd9bd1863bae0f9218930a", null ],
-    [ "Register", "d5/dd3/a13232.html#af2ad52165de188897fdeb8d62646b7cc", null ]
+    [ "HandleHit", "d5/dd3/a13232.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
+    [ "PrepareSpellScript", "d5/dd3/a13232.html#a53f170244b390f7035e131fb5c79cb3f", null ],
+    [ "Register", "d5/dd3/a13232.html#a248124b837cf71f7d422154db4581747", null ],
+    [ "Validate", "d5/dd3/a13232.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
+    [ "_emote", "d5/dd3/a13232.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
 ];

@@ -1,6 +1,7 @@
 var a26224 =
 [
-    [ "OnRemove", "dc/dc5/a26224.html#ae1f257e43effcb396d57d42db3063afd", null ],
-    [ "PrepareAuraScript", "dc/dc5/a26224.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
-    [ "Register", "dc/dc5/a26224.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
+    [ "CalculateSpellAmount", "dc/dc5/a26224.html#a2f93ff69f30b243fe787d72f78a2d159", null ],
+    [ "CheckCast", "dc/dc5/a26224.html#af043f7ee0f80baf667e64225effd57d1", null ],
+    [ "PrepareSpellScript", "dc/dc5/a26224.html#a233ac4020722078d865cf980d7fa76cf", null ],
+    [ "Register", "dc/dc5/a26224.html#a3648ecd94430e21dd014795156c1eb98", null ]
 ];

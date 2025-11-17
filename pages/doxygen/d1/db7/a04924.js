@@ -4,6 +4,7 @@ var a04924 =
     [ "BuildStats", "dc/de0/a04936.html", "dc/de0/a04936" ],
     [ "StackNode", "d5/df2/a04932.html", "d5/df2/a04932" ],
     [ "BIH", "d1/db7/a04924.html#a0d3bfb0876b425a4a8c223f21074fa92", null ],
+    [ "bound", "d1/db7/a04924.html#acb45fb62e7f5b814f054c68dba5f7479", null ],
     [ "build", "d1/db7/a04924.html#aa3e15e13327c9217a25c9047d7deb584", null ],
     [ "buildHierarchy", "d1/db7/a04924.html#a757c1e49dd6e51350ef95eb68725de6e", null ],
     [ "createNode", "d1/db7/a04924.html#a5700833c10e9c06bf9937d3b21a26df3", null ],

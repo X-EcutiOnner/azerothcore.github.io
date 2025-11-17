@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::unary_function&lt; ArgumentType, ResultType &gt; Struct Template Reference</title>
+<title>AzerothCore: ConfigPolicy Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,53 +105,124 @@ $(document).ready(function(){initNavTree('d9/dab/a05164.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-types">Public Types</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d9/d42/a05161.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::unary_function&lt; ArgumentType, ResultType &gt; Struct Template Reference</div></div>
+  <div class="headertitle"><div class="title">ConfigPolicy Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Config.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
-Public Types</h2></td></tr>
-<tr class="memitem:ad0011a133ce27e947c35917314e60693"><td class="memItemLeft" align="right" valign="top">typedef ArgumentType&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dab/a05164.html#ad0011a133ce27e947c35917314e60693">argument_type</a></td></tr>
-<tr class="separator:ad0011a133ce27e947c35917314e60693"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6dcbf6789c1565b95f16de3d580118a9"><td class="memItemLeft" align="right" valign="top">typedef ResultType&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dab/a05164.html#a6dcbf6789c1565b95f16de3d580118a9">result_type</a></td></tr>
-<tr class="separator:a6dcbf6789c1565b95f16de3d580118a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a4d490930b6bbaa9c50570ff9808b1af9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/dee/a29945.html#a05eaca858744a1f9f0e309e7867383e3">ConfigSeverity</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dab/a05164.html#a4d490930b6bbaa9c50570ff9808b1af9">defaultSeverity</a> = ConfigSeverity::Warn</td></tr>
+<tr class="separator:a4d490930b6bbaa9c50570ff9808b1af9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8cd5da53d2cd0b5d0533741a2dcf651c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/dee/a29945.html#a05eaca858744a1f9f0e309e7867383e3">ConfigSeverity</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dab/a05164.html#a8cd5da53d2cd0b5d0533741a2dcf651c">missingFileSeverity</a> = ConfigSeverity::Error</td></tr>
+<tr class="separator:a8cd5da53d2cd0b5d0533741a2dcf651c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c64d5a1ac04533f27af53de8d688ec5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/dee/a29945.html#a05eaca858744a1f9f0e309e7867383e3">ConfigSeverity</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dab/a05164.html#a3c64d5a1ac04533f27af53de8d688ec5">missingOptionSeverity</a> = ConfigSeverity::Warn</td></tr>
+<tr class="separator:a3c64d5a1ac04533f27af53de8d688ec5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adfaae562c345965b96fa5f7c92da161e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/dee/a29945.html#a05eaca858744a1f9f0e309e7867383e3">ConfigSeverity</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dab/a05164.html#adfaae562c345965b96fa5f7c92da161e">criticalOptionSeverity</a> = ConfigSeverity::Fatal</td></tr>
+<tr class="separator:adfaae562c345965b96fa5f7c92da161e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad41070de3cb2c7fa2916654b9e2a693e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/dee/a29945.html#a05eaca858744a1f9f0e309e7867383e3">ConfigSeverity</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dab/a05164.html#ad41070de3cb2c7fa2916654b9e2a693e">unknownOptionSeverity</a> = ConfigSeverity::Error</td></tr>
+<tr class="separator:ad41070de3cb2c7fa2916654b9e2a693e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2c1a05a826289e1cc3f01a988718dda2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/dee/a29945.html#a05eaca858744a1f9f0e309e7867383e3">ConfigSeverity</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dab/a05164.html#a2c1a05a826289e1cc3f01a988718dda2">valueErrorSeverity</a> = ConfigSeverity::Error</td></tr>
+<tr class="separator:a2c1a05a826289e1cc3f01a988718dda2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;class ArgumentType, class ResultType&gt;<br />
-struct Acore::unary_function&lt; ArgumentType, ResultType &gt;</div></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="ad0011a133ce27e947c35917314e60693" name="ad0011a133ce27e947c35917314e60693"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad0011a133ce27e947c35917314e60693">&#9670;&#160;</a></span>argument_type</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="adfaae562c345965b96fa5f7c92da161e" name="adfaae562c345965b96fa5f7c92da161e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adfaae562c345965b96fa5f7c92da161e">&#9670;&#160;</a></span>criticalOptionSeverity</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class ArgumentType , class ResultType &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">typedef ArgumentType <a class="el" href="../../d9/dab/a05164.html">Acore::unary_function</a>&lt; ArgumentType, ResultType &gt;::argument_type</td>
+          <td class="memname"><a class="el" href="../../d5/dee/a29945.html#a05eaca858744a1f9f0e309e7867383e3">ConfigSeverity</a> ConfigPolicy::criticalOptionSeverity = ConfigSeverity::Fatal</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
+<p class="reference">Referenced by <a class="el" href="../../#l00144">anonymous_namespace{Config.cpp}::ApplyPolicyString()</a>, <a class="el" href="../../#l00601">ConfigMgr::GetValueDefault&lt; std::string &gt;()</a>, and <a class="el" href="../../#l00534">ConfigMgr::GetValueDefault()</a>.</p>
+
 </div>
 </div>
-<a id="a6dcbf6789c1565b95f16de3d580118a9" name="a6dcbf6789c1565b95f16de3d580118a9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6dcbf6789c1565b95f16de3d580118a9">&#9670;&#160;</a></span>result_type</h2>
+<a id="a4d490930b6bbaa9c50570ff9808b1af9" name="a4d490930b6bbaa9c50570ff9808b1af9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4d490930b6bbaa9c50570ff9808b1af9">&#9670;&#160;</a></span>defaultSeverity</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class ArgumentType , class ResultType &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">typedef ResultType <a class="el" href="../../d9/dab/a05164.html">Acore::unary_function</a>&lt; ArgumentType, ResultType &gt;::result_type</td>
+          <td class="memname"><a class="el" href="../../d5/dee/a29945.html#a05eaca858744a1f9f0e309e7867383e3">ConfigSeverity</a> ConfigPolicy::defaultSeverity = ConfigSeverity::Warn</td>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00144">anonymous_namespace{Config.cpp}::ApplyPolicyString()</a>.</p>
+
+</div>
+</div>
+<a id="a8cd5da53d2cd0b5d0533741a2dcf651c" name="a8cd5da53d2cd0b5d0533741a2dcf651c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8cd5da53d2cd0b5d0533741a2dcf651c">&#9670;&#160;</a></span>missingFileSeverity</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/dee/a29945.html#a05eaca858744a1f9f0e309e7867383e3">ConfigSeverity</a> ConfigPolicy::missingFileSeverity = ConfigSeverity::Error</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00144">anonymous_namespace{Config.cpp}::ApplyPolicyString()</a>, and <a class="el" href="../../#l00268">anonymous_namespace{Config.cpp}::ParseFile()</a>.</p>
+
+</div>
+</div>
+<a id="a3c64d5a1ac04533f27af53de8d688ec5" name="a3c64d5a1ac04533f27af53de8d688ec5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3c64d5a1ac04533f27af53de8d688ec5">&#9670;&#160;</a></span>missingOptionSeverity</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/dee/a29945.html#a05eaca858744a1f9f0e309e7867383e3">ConfigSeverity</a> ConfigPolicy::missingOptionSeverity = ConfigSeverity::Warn</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00144">anonymous_namespace{Config.cpp}::ApplyPolicyString()</a>, <a class="el" href="../../#l00601">ConfigMgr::GetValueDefault&lt; std::string &gt;()</a>, and <a class="el" href="../../#l00534">ConfigMgr::GetValueDefault()</a>.</p>
+
+</div>
+</div>
+<a id="ad41070de3cb2c7fa2916654b9e2a693e" name="ad41070de3cb2c7fa2916654b9e2a693e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad41070de3cb2c7fa2916654b9e2a693e">&#9670;&#160;</a></span>unknownOptionSeverity</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/dee/a29945.html#a05eaca858744a1f9f0e309e7867383e3">ConfigSeverity</a> ConfigPolicy::unknownOptionSeverity = ConfigSeverity::Error</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00240">anonymous_namespace{Config.cpp}::AddKey()</a>, and <a class="el" href="../../#l00144">anonymous_namespace{Config.cpp}::ApplyPolicyString()</a>.</p>
+
+</div>
+</div>
+<a id="a2c1a05a826289e1cc3f01a988718dda2" name="a2c1a05a826289e1cc3f01a988718dda2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2c1a05a826289e1cc3f01a988718dda2">&#9670;&#160;</a></span>valueErrorSeverity</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d5/dee/a29945.html#a05eaca858744a1f9f0e309e7867383e3">ConfigSeverity</a> ConfigPolicy::valueErrorSeverity = ConfigSeverity::Error</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00144">anonymous_namespace{Config.cpp}::ApplyPolicyString()</a>, <a class="el" href="../../#l00656">ConfigMgr::GetOption()</a>, and <a class="el" href="../../#l00534">ConfigMgr::GetValueDefault()</a>.</p>
 
 </div>
 </div>
@@ -160,8 +231,8 @@ template&lt;class ArgumentType , class ResultType &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d9/d62/a04803.html">Acore</a></li><li class="navelem"><a class="el" href="../../d9/dab/a05164.html">unary_function</a></li>
-    <li class="footer">Generated on Mon Nov 10 2025 20:54:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/dab/a05164.html">ConfigPolicy</a></li>
+    <li class="footer">Generated on Mon Nov 17 2025 20:45:46 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

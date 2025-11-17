@@ -1,6 +1,6 @@
 var a18020 =
 [
-    [ "AbominationDespawner", "de/d41/a18020.html#a3bbf8c5d4e42569ffe993a3c3b8ff95e", null ],
-    [ "operator()", "de/d41/a18020.html#a58b8faac1cdffa7230783a1d6439fcfb", null ],
-    [ "_owner", "de/d41/a18020.html#af9089e566905b885887a5714ad5b0741", null ]
+    [ "boss_professor_putricideAI", "d0/d15/a18024.html", "d0/d15/a18024" ],
+    [ "boss_professor_putricide", "de/d41/a18020.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "de/d41/a18020.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

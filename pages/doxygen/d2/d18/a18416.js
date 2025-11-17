@@ -1,8 +1,7 @@
 var a18416 =
 [
-    [ "FilterTargets", "d2/d18/a18416.html#a242fa53c2da9ac557623281bccf2af92", null ],
-    [ "HandleSendEvent", "d2/d18/a18416.html#a6120e057e2ee39d34eaeab79782add8d", null ],
-    [ "Load", "d2/d18/a18416.html#af48cdbf87d61cf6d8392f65ae4c9b18a", null ],
-    [ "PrepareSpellScript", "d2/d18/a18416.html#a0846e73f467d9c3a63b5e9a5d795aa37", null ],
-    [ "Register", "d2/d18/a18416.html#ae83950dfc35f7c1e64806d6ec273083c", null ]
+    [ "HandleScript", "d2/d18/a18416.html#a0ddd74672b48fd7bf5d3b4d4b6467e4a", null ],
+    [ "PrepareSpellScript", "d2/d18/a18416.html#a598baad08c685bba54ad5306e0d521b4", null ],
+    [ "Register", "d2/d18/a18416.html#a471bac09c68708daefe6a39f283caa4c", null ],
+    [ "Validate", "d2/d18/a18416.html#a162e50b7136687aae7a8df0bb93dd8fe", null ]
 ];

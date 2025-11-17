@@ -1,8 +1,6 @@
 var a24776 =
 [
-    [ "HandleDamage", "d3/d7a/a24776.html#a2c5149eb0b6698240c25b63e71af0854", null ],
-    [ "PrepareSpellScript", "d3/d7a/a24776.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
-    [ "Register", "d3/d7a/a24776.html#ad29179d9159700b52b0c21a779cd060b", null ],
-    [ "Suicide", "d3/d7a/a24776.html#a981f8547eae9b317111bf9a7016510ab", null ],
-    [ "Validate", "d3/d7a/a24776.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
+    [ "RaiseDeadCheck", "d3/d7a/a24776.html#abc6439e5b457f2f6e832f504167a392d", null ],
+    [ "operator()", "d3/d7a/a24776.html#a9647e6afd21e7397f05349e66bea4326", null ],
+    [ "_caster", "d3/d7a/a24776.html#a7b1647934c5e64de65d38b9fba2d343a", null ]
 ];

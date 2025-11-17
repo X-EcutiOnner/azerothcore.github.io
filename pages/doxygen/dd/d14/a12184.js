@@ -1,7 +1,6 @@
 var a12184 =
 [
-    [ "boss_okthorAI", "dd/d14/a12184.html#a8007cfade5c04d8b4e0b787ac5a5beff", null ],
-    [ "JustEngagedWith", "dd/d14/a12184.html#a466a618e52f40e04e873dd50f3728755", null ],
-    [ "UpdateAI", "dd/d14/a12184.html#a246c3bd9aa96eb11d2fa48be8654d726", null ],
-    [ "nextArcaneExplosionTime", "dd/d14/a12184.html#a21446d2cfc51a05de6cee3ba4301eae9", null ]
+    [ "boss_gloomrel", "dd/d14/a12184.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
+    [ "OnGossipHello", "dd/d14/a12184.html#a6ce6898142d767a130ec09769f2be488", null ],
+    [ "OnGossipSelect", "dd/d14/a12184.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
 ];

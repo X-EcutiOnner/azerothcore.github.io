@@ -1,5 +1,7 @@
 var a11064 =
 [
-    [ "RequestPetInfo", "d5/d6f/a11064.html#ae0861d1fb77fe39bb48c26505e36ed2b", null ],
-    [ "Read", "d5/d6f/a11064.html#a5cc9bb57bce7dc7f24243fdc63e17870", null ]
+    [ "PetActionSound", "d5/d6f/a11064.html#ae20a837d2b3f647d2a1d7c5e398b7b56", null ],
+    [ "Write", "d5/d6f/a11064.html#a8627631f2eb7d93cda52ce09a749fb0c", null ],
+    [ "Action", "d5/d6f/a11064.html#a25b3a4b44bcda9bec898aca1a88b90ed", null ],
+    [ "UnitGUID", "d5/d6f/a11064.html#a32b15c490da02bc5020653a9e9bfbd68", null ]
 ];

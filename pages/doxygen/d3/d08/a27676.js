@@ -1,10 +1,12 @@
 var a27676 =
 [
-    [ "npc_prof_blacksmith", "d3/d08/a27676.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
-    [ "HasWeaponSub", "d3/d08/a27676.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
-    [ "OnGossipHello", "d3/d08/a27676.html#a9a432c1ec33578949110c877fc6a686d", null ],
-    [ "OnGossipSelect", "d3/d08/a27676.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
-    [ "SendActionMenu", "d3/d08/a27676.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
-    [ "SendConfirmLearn", "d3/d08/a27676.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
-    [ "SendConfirmUnlearn", "d3/d08/a27676.html#a851dc241d944bc888a00df85bff17e3a", null ]
+    [ "npc_preciousAI", "d3/d08/a27676.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
+    [ "FlagForDespawn", "d3/d08/a27676.html#a934a5147c1cc9937189011fb061657da", null ],
+    [ "InitializeAI", "d3/d08/a27676.html#aa15843c4029f2df2ee04d21b5157602a", null ],
+    [ "JustEngagedWith", "d3/d08/a27676.html#a58bc4149111605850f070a77ee776313", null ],
+    [ "JustReachedHome", "d3/d08/a27676.html#a31893e9441b24398554370a58ef8bd78", null ],
+    [ "Reset", "d3/d08/a27676.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
+    [ "UpdateAI", "d3/d08/a27676.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
+    [ "events", "d3/d08/a27676.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
+    [ "flaggedForDespawn", "d3/d08/a27676.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
 ];

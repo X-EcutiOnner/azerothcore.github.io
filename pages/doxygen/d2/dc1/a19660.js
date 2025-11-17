@@ -1,6 +1,8 @@
 var a19660 =
 [
-    [ "PrepareSpellScript", "d2/dc1/a19660.html#a65c3b2c9a416b7d1bbd3c14057e5f8fc", null ],
-    [ "Register", "d2/dc1/a19660.html#ad8470ed0d09c2b7e79fa4ecb1867e9bf", null ],
-    [ "SetDest", "d2/dc1/a19660.html#a24341aae14ed77101d4c31f2fbe11463", null ]
+    [ "HandleEffectPeriodic", "d2/dc1/a19660.html#abb453e3d38677be7082f2cd4e43134cc", null ],
+    [ "HandleOnEffectApply", "d2/dc1/a19660.html#a3ec47d5d9fdbdcfe671e02c3b0f55980", null ],
+    [ "PrepareAuraScript", "d2/dc1/a19660.html#ac00c6d9b1cccb38b5d87b3139295614c", null ],
+    [ "Register", "d2/dc1/a19660.html#ae4de4f0f2f4dc4ac98706ddd898df7c5", null ],
+    [ "Validate", "d2/dc1/a19660.html#a09481646f8ec90b0135d93d83cc18929", null ]
 ];

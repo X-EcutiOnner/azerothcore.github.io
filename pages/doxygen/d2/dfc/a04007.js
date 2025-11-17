@@ -1,7 +1,7 @@
 var a04007 =
 [
-    [ "MySQLConnectionInfo", "d8/dde/a05792.html", "d8/dde/a05792" ],
-    [ "MySQLConnection", "d3/dcf/a05796.html", "d3/dcf/a05796" ],
+    [ "MySQLConnectionInfo", "d0/d9e/a05788.html", "d0/d9e/a05788" ],
+    [ "MySQLConnection", "d8/dde/a05792.html", "d8/dde/a05792" ],
     [ "ConnectionFlags", "d2/dfc/a04007.html#a008b1c9a9206a70569b89aea01ac321f", [
       [ "CONNECTION_ASYNC", "d2/dfc/a04007.html#a008b1c9a9206a70569b89aea01ac321faa12dee499d68ef84c216f874cb104fe9", null ],
       [ "CONNECTION_SYNCH", "d2/dfc/a04007.html#a008b1c9a9206a70569b89aea01ac321fa38de35d7007257d23046b73a6aec7946", null ],

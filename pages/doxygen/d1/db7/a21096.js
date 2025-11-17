@@ -1,10 +1,9 @@
 var a21096 =
 [
-    [ "boss_yoggsaron_voiceAI", "d1/db7/a21096.html#ac78b27f8d4df433e1fad2ae550a4da44", null ],
-    [ "Reset", "d1/db7/a21096.html#ae5561244ad7387a3614bb6f1e23a7001", null ],
-    [ "SpellHitTarget", "d1/db7/a21096.html#a0cc39577b4b70eb1be16f9c8b5cb5c72", null ],
-    [ "UpdateAI", "d1/db7/a21096.html#a3c8458c25f7389f5fb5218177590a4c6", null ],
-    [ "_current", "d1/db7/a21096.html#ad94ddde194a32b380ba1d309f1ece14a", null ],
-    [ "_targets", "d1/db7/a21096.html#ab6132214a2249fbb5de8a5115b114381", null ],
-    [ "events", "d1/db7/a21096.html#ac0c6aa9efe9d9e80b29fae8c190962dc", null ]
+    [ "HandleOnEffectApply", "d1/db7/a21096.html#a3e35c98bd5867bbb6c77b16d89ab74a9", null ],
+    [ "OnPeriodic", "d1/db7/a21096.html#a49ad44eba19416743bd26252d1b40d71", null ],
+    [ "PrepareAuraScript", "d1/db7/a21096.html#ae0c475babb67cebb245d6d85b50cd694", null ],
+    [ "Register", "d1/db7/a21096.html#af56875f1bb85d5524841a5bbb399d7d4", null ],
+    [ "Validate", "d1/db7/a21096.html#ab383a0a207aa78b7efcd400765ad0838", null ],
+    [ "_targetGUID", "d1/db7/a21096.html#a9e7c6087b1c7ce3c32be661da037f1e0", null ]
 ];

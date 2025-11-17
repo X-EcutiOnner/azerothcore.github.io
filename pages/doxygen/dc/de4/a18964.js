@@ -1,6 +1,9 @@
 var a18964 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "de/db5/a18968.html", "de/db5/a18968" ],
-    [ "npc_icc_skybreaker_hierophant", "dc/de4/a18964.html#a4cd3b2aa3d71c30853c687da8b8ca959", null ],
-    [ "GetAI", "dc/de4/a18964.html#a2b0627bf059dfbce556bfa3ed4e97552", null ]
+    [ "npc_icc_skybreaker_marksmanAI", "dc/de4/a18964.html#af6d3e79627102acbf764aa7ee8c7433b", null ],
+    [ "AttackStart", "dc/de4/a18964.html#a82403eecdea07bfc8ed9509eb5a30dcd", null ],
+    [ "JustEngagedWith", "dc/de4/a18964.html#a7648c626ded6d3abef798b46c77f991d", null ],
+    [ "Reset", "dc/de4/a18964.html#acaaac3624e262d89920fa8a7da9e3cc0", null ],
+    [ "UpdateAI", "dc/de4/a18964.html#affcd7c16fe4a50a0743c0f9bb5a9d321", null ],
+    [ "events", "dc/de4/a18964.html#a5aaffc1e78c255c95893be1537e520d6", null ]
 ];

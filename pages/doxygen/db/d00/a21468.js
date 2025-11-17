@@ -1,6 +1,6 @@
 var a21468 =
 [
-    [ "npc_frozen_orb_stalkerAI", "db/d00/a21468.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
-    [ "JustSummoned", "db/d00/a21468.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
-    [ "Reset", "db/d00/a21468.html#a064ccb90afeb9b36d501850482c60bc4", null ]
+    [ "boss_cyanigosaAI", "d0/d69/a21472.html", "d0/d69/a21472" ],
+    [ "boss_cyanigosa", "db/d00/a21468.html#a4db12e2fb873ad3595a437df09663a22", null ],
+    [ "GetAI", "db/d00/a21468.html#a779c7c3a5f0002501361fa92fe14af69", null ]
 ];

@@ -1,7 +1,7 @@
 var a27152 =
 [
-    [ "HandleDummy", "d9/d14/a27152.html#a436ed0843e0035308c69f0854decd7f2", null ],
-    [ "PrepareSpellScript", "d9/d14/a27152.html#a42ff645d6c8e94353ae118327af5f4e6", null ],
-    [ "Register", "d9/d14/a27152.html#a0b69f667ea83dee61206bbc723020cbc", null ],
-    [ "Validate", "d9/d14/a27152.html#a93e68d77227297883aae472ef08fb67c", null ]
+    [ "HandleEffect", "d9/d14/a27152.html#a83b2bd3a3f9a9027766f15f23cae95f0", null ],
+    [ "PrepareSpellScript", "d9/d14/a27152.html#a7645af1c876e1f6ad91ef92884d220ac", null ],
+    [ "Register", "d9/d14/a27152.html#a15d4ce9c947ca2f25e29f97119c4106e", null ],
+    [ "Validate", "d9/d14/a27152.html#ab6d78ecb650f13df3376baced8c40a63", null ]
 ];

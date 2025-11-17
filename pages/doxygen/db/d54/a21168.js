@@ -1,7 +1,6 @@
 var a21168 =
 [
-    [ "HandleProc", "db/d54/a21168.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "db/d54/a21168.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "db/d54/a21168.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "db/d54/a21168.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "achievement_yogg_saron_he_waits_dreaming", "db/d54/a21168.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
+    [ "OnCheck", "db/d54/a21168.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
+    [ "_requiredIllusion", "db/d54/a21168.html#aa3e107cb3be6fa02687709e07466a094", null ]
 ];

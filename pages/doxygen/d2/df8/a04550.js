@@ -1,8 +1,8 @@
 var a04550 =
 [
-    [ "SymbolPair", "df/d8e/a05248.html", "df/d8e/a05248" ],
-    [ "SymbolDetail", "d9/df0/a05252.html", "d9/df0/a05252" ],
-    [ "WheatyExceptionReport", "da/d44/a05256.html", "da/d44/a05256" ],
+    [ "SymbolPair", "d5/d76/a05244.html", "d5/d76/a05244" ],
+    [ "SymbolDetail", "df/d8e/a05248.html", "df/d8e/a05248" ],
+    [ "WheatyExceptionReport", "d9/df0/a05252.html", "d9/df0/a05252" ],
     [ "countof", "d2/df8/a04550.html#a8b8500b4792f1666a4ae9b19ce264875", null ],
     [ "WER_LARGE_BUFFER_SIZE", "d2/df8/a04550.html#a2c952cc0fe3c670bb1d829b51e483755", null ],
     [ "WER_MAX_ARRAY_ELEMENTS_COUNT", "d2/df8/a04550.html#a5ca750f3bbda2b3eab451528de39aa3c", null ],

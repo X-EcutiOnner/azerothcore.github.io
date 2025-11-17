@@ -1,6 +1,10 @@
 var a24568 =
 [
-    [ "achievement", "db/d76/a24568.html#abb6071e172abbcbc65020a0ad9554a03", null ],
-    [ "spell", "db/d76/a24568.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
-    [ "text", "db/d76/a24568.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
+    [ "npc_pet_gen_plump_turkey", "db/d76/a24568.html#acd5a9cb122cbf5a773461ce1027f28a1", null ],
+    [ "MovementInform", "db/d76/a24568.html#af27c91388891add6d00e251bf3187743", null ],
+    [ "UpdateAI", "db/d76/a24568.html#a93d2719bcc6a657a9a32cce06f566b19", null ],
+    [ "checkTimer", "db/d76/a24568.html#af9e7339416ada0c3bb9829cbd8e1f5d3", null ],
+    [ "goGUID", "db/d76/a24568.html#a5fa88e045430adea9e72a3744bf72780", null ],
+    [ "jumping", "db/d76/a24568.html#a8486512b7594f2ce759fcb580f1baf34", null ],
+    [ "jumpTimer", "db/d76/a24568.html#ad53a9abad41ab6a792a55b854155135d", null ]
 ];

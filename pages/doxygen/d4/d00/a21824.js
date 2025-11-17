@@ -1,9 +1,7 @@
 var a21824 =
 [
-    [ "npc_counselor_talbotAI", "d4/d00/a21824.html#acf1865ab4225128b8edbc619f7d8fa93", null ],
-    [ "JustDied", "d4/d00/a21824.html#a4dbb0c9b91be5fa182bcc5c63ac9307b", null ],
-    [ "JustEngagedWith", "d4/d00/a21824.html#acacec95c5e74c4b71cf2345bbae2eacb", null ],
-    [ "Reset", "d4/d00/a21824.html#a03bfaedb136c3e107a4df8e4a1646ae2", null ],
-    [ "UpdateAI", "d4/d00/a21824.html#a7b5c739d7c85d5205a04f3c6adf367ef", null ],
-    [ "_events", "d4/d00/a21824.html#a094ce9839bb51b73e6b5826c24cda3b6", null ]
+    [ "HandleEffectHit", "d4/d00/a21824.html#a8d7dd2411c3b786e682260eb30862602", null ],
+    [ "PrepareSpellScript", "d4/d00/a21824.html#a49b6d005013e480f8161779119bc9b2d", null ],
+    [ "Register", "d4/d00/a21824.html#a017ae25fead98a5c18cdb83128085ddd", null ],
+    [ "Validate", "d4/d00/a21824.html#a9e1dbc7714a35bcc7ec26286419517c2", null ]
 ];

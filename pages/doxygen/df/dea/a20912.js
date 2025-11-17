@@ -1,6 +1,6 @@
 var a20912 =
 [
-    [ "BoomEvent", "df/dea/a20912.html#aa9b7a8785f382068bb4510ffc0b43004", null ],
-    [ "Execute", "df/dea/a20912.html#a1a870bea5c8e0a24a8ecd347a862ee75", null ],
-    [ "_me", "df/dea/a20912.html#a30de77ee751f1c10231088cb84942342", null ]
+    [ "npc_xt002_life_sparkAI", "d4/d85/a20916.html", "d4/d85/a20916" ],
+    [ "npc_xt002_life_spark", "df/dea/a20912.html#a9644718d192708e391b833468a0ff21e", null ],
+    [ "GetAI", "df/dea/a20912.html#a09a1ce332d55fad146947c94bb53f564", null ]
 ];

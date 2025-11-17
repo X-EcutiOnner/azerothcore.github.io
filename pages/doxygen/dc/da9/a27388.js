@@ -1,6 +1,5 @@
 var a27388 =
 [
-    [ "boss_taerarAI", "d8/d15/a27392.html", "d8/d15/a27392" ],
-    [ "boss_taerar", "dc/da9/a27388.html#a100c1b80a50faf93088db870faa21b58", null ],
-    [ "GetAI", "dc/da9/a27388.html#ae6615da6ee14c4f7cb3087b4ee5d6246", null ]
+    [ "go_mistwhisper_treasure", "dc/da9/a27388.html#a87c90caa9f6a628cb0eea3556b58449e", null ],
+    [ "OnGossipHello", "dc/da9/a27388.html#a03b6b19faba005ced7ff921fdf8ab493", null ]
 ];

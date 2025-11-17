@@ -1,6 +1,6 @@
 var a25804 =
 [
-    [ "OnRemove", "d0/d5c/a25804.html#adcdc87bcfb9aee5eaa227ba66ad5f010", null ],
-    [ "PrepareAuraScript", "d0/d5c/a25804.html#a9b3985c6f2b1b88ab86ec38c8508fc16", null ],
-    [ "Register", "d0/d5c/a25804.html#a0bc1dae33d0a780623f4551b1dfb1fbf", null ]
+    [ "HandlePeriodicTick", "d0/d5c/a25804.html#a1bd15727da421fdbfc3a60136bfa9bc9", null ],
+    [ "PrepareAuraScript", "d0/d5c/a25804.html#a1c4f592511c8886d0b9a5e64eb19cda7", null ],
+    [ "Register", "d0/d5c/a25804.html#ac019a52a6f62f1251d20efcfadba1e78", null ]
 ];

@@ -1,7 +1,13 @@
 var a21440 =
 [
-    [ "PrepareAuraScript", "dc/d6b/a21440.html#a2b5894cd889205f19ac2c6ea5a535a82", null ],
-    [ "Register", "dc/d6b/a21440.html#a95b0bcb7f3027cb63711c74befbd74ea", null ],
-    [ "TriggerFists", "dc/d6b/a21440.html#a2df5a013ba1b3c5b57d628fd59a9073a", null ],
-    [ "Validate", "dc/d6b/a21440.html#a2b7c45343d17839d85bf64ed36afd45c", null ]
+    [ "boss_toravonAI", "dc/d6b/a21440.html#a98474fcfbc56c7850ae054b7489eaa4f", null ],
+    [ "AttackStart", "dc/d6b/a21440.html#ac4e2ed28ba7863630cd54c8f6c11455f", null ],
+    [ "JustDied", "dc/d6b/a21440.html#ad501bb34a0014be0abc965aae5383e21", null ],
+    [ "JustEngagedWith", "dc/d6b/a21440.html#af6a6cfd1ec54546c2e70ea60f871b564", null ],
+    [ "JustSummoned", "dc/d6b/a21440.html#a431dafbcc3a6581d771e810a85a92a0b", null ],
+    [ "Reset", "dc/d6b/a21440.html#a4af8eb8863e7ee1559bc156b7f28e8d8", null ],
+    [ "UpdateAI", "dc/d6b/a21440.html#a97c16b1689cfdb7fa680381964cb272a", null ],
+    [ "events", "dc/d6b/a21440.html#ae2a3b691f1580275228204ea8ccaf846", null ],
+    [ "pInstance", "dc/d6b/a21440.html#a912bcccd309ccd1f043c5aae633e78fe", null ],
+    [ "summons", "dc/d6b/a21440.html#a56ca98fa12190d6d9d459bc5e569ae04", null ]
 ];

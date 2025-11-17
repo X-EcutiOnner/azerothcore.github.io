@@ -1,6 +1,8 @@
 var a23196 =
 [
-    [ "HandleEffectRemove", "de/d59/a23196.html#a99891cf49d35a857cd014fe83bc83e43", null ],
-    [ "PrepareAuraScript", "de/d59/a23196.html#ab8fed8e7b561146cca35fe8534ea248c", null ],
-    [ "Register", "de/d59/a23196.html#a5a65a3fca846dc40aeb31e4ff56958ca", null ]
+    [ "instance_black_temple_InstanceMapScript", "de/d59/a23196.html#aa59f4d11ca1418bb3df3a7d5b11795b9", null ],
+    [ "OnCreatureCreate", "de/d59/a23196.html#a814ac33238558b4e2a2ff57e6039d4fc", null ],
+    [ "OnGameObjectCreate", "de/d59/a23196.html#a564a49814ceb3b3161a6476335ab653a", null ],
+    [ "SetBossState", "de/d59/a23196.html#aadcbe48888eba0d0ed50eb9811ce40b0", null ],
+    [ "ashtongueGUIDs", "de/d59/a23196.html#a85fa9c5231f13529a0741b0f92266c90", null ]
 ];

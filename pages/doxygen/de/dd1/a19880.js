@@ -1,8 +1,8 @@
 var a19880 =
 [
-    [ "npc_algalon_worm_holeAI", "de/dd1/a19880.html#a07b36b40972bebea6b17890aa8fee50c", null ],
-    [ "JustSummoned", "de/dd1/a19880.html#a148de5da4502813e369ec6c52b1671a0", null ],
-    [ "Reset", "de/dd1/a19880.html#a915a8e5e23062cb10da9a3dbe387cf51", null ],
-    [ "UpdateAI", "de/dd1/a19880.html#a9df88d81aa4f4dd7e1dcdf6209832c32", null ],
-    [ "_summonTimer", "de/dd1/a19880.html#a73a55560e5ff7957d883f732bc0d2a82", null ]
+    [ "HandlePeriodic", "de/dd1/a19880.html#a2724a85983561a14db8b06ae492ead55", null ],
+    [ "OnRemove", "de/dd1/a19880.html#a6d0f941f30d8c850e48396fffd13768d", null ],
+    [ "PrepareAuraScript", "de/dd1/a19880.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
+    [ "Register", "de/dd1/a19880.html#a85270947972be9c299a642b31969ef68", null ],
+    [ "Validate", "de/dd1/a19880.html#a91ebb4e69d02deb5129965f543c474d1", null ]
 ];

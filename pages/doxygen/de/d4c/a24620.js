@@ -1,10 +1,6 @@
 var a24620 =
 [
-    [ "npc_pet_hunter_snake_trap", "de/d4c/a24620.html#aaf5df574c4ac53661c0bb1968f84c6ea", null ],
-    [ "EnterEvadeMode", "de/d4c/a24620.html#a819add0c7b968063403d10275fdc289f", null ],
-    [ "MoveInLineOfSight", "de/d4c/a24620.html#a32d5ed7f4d436f2678b34f4a1d572721", null ],
-    [ "Reset", "de/d4c/a24620.html#a831cf6eea8bd03247cd9877d3be6e1ee", null ],
-    [ "UpdateAI", "de/d4c/a24620.html#a41a37efe6d39c6d97b3dcc5fabbcc812", null ],
-    [ "_init", "de/d4c/a24620.html#a1b5c1301389749f82667c35f3daff847", null ],
-    [ "_spellTimer", "de/d4c/a24620.html#ab9397451e2e8320ca77560a19baeee3f", null ]
+    [ "HandleEffectRemove", "de/d4c/a24620.html#a9472b79a272aff36be657b66883d822f", null ],
+    [ "PrepareAuraScript", "de/d4c/a24620.html#ad46fedf6ef019d1b5e93d98e7bba8417", null ],
+    [ "Register", "de/d4c/a24620.html#ace15e1f5c158f1f203862b40da2cf8fc", null ]
 ];

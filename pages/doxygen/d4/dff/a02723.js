@@ -1,18 +1,18 @@
 var a02723 =
 [
-    [ "npc_isle_of_conquest_turret", "d2/d0c/a19100.html", "d2/d0c/a19100" ],
-    [ "npc_isle_of_conquest_turret::npc_isle_of_conquest_turretAI", "de/d15/a19104.html", "de/d15/a19104" ],
-    [ "npc_four_car_garage", "d6/de1/a19108.html", "d6/de1/a19108" ],
-    [ "npc_four_car_garage::npc_four_car_garageAI", "d6/d73/a19112.html", "d6/d73/a19112" ],
-    [ "npc_ioc_gunship_captain", "d3/d3a/a19116.html", "d3/d3a/a19116" ],
-    [ "npc_ioc_gunship_captain::npc_ioc_gunship_captainAI", "d0/d15/a19120.html", "d0/d15/a19120" ],
-    [ "boss_isle_of_conquest", "d9/d68/a19124.html", "d9/d68/a19124" ],
-    [ "boss_isle_of_conquest::boss_isle_of_conquestAI", "d8/d76/a19128.html", "d8/d76/a19128" ],
-    [ "spell_ioc_repair_turret_aura", "d2/d7a/a19132.html", "d2/d7a/a19132" ],
-    [ "spell_ioc_bomb_blast_criteria", "d2/d5e/a19136.html", "d2/d5e/a19136" ],
-    [ "spell_ioc_gunship_portal", "d9/da4/a19140.html", "d9/da4/a19140" ],
-    [ "spell_ioc_parachute_ic_aura", "dc/d53/a19144.html", "dc/d53/a19144" ],
-    [ "spell_ioc_launch", "d2/d3f/a19148.html", "d2/d3f/a19148" ],
+    [ "npc_isle_of_conquest_turret", "d3/d2d/a19088.html", "d3/d2d/a19088" ],
+    [ "npc_isle_of_conquest_turret::npc_isle_of_conquest_turretAI", "d0/dbf/a19092.html", "d0/dbf/a19092" ],
+    [ "npc_four_car_garage", "da/d92/a19096.html", "da/d92/a19096" ],
+    [ "npc_four_car_garage::npc_four_car_garageAI", "d2/d0c/a19100.html", "d2/d0c/a19100" ],
+    [ "npc_ioc_gunship_captain", "de/d15/a19104.html", "de/d15/a19104" ],
+    [ "npc_ioc_gunship_captain::npc_ioc_gunship_captainAI", "d6/de1/a19108.html", "d6/de1/a19108" ],
+    [ "boss_isle_of_conquest", "d6/d73/a19112.html", "d6/d73/a19112" ],
+    [ "boss_isle_of_conquest::boss_isle_of_conquestAI", "d3/d3a/a19116.html", "d3/d3a/a19116" ],
+    [ "spell_ioc_repair_turret_aura", "d0/d15/a19120.html", "d0/d15/a19120" ],
+    [ "spell_ioc_bomb_blast_criteria", "d9/d68/a19124.html", "d9/d68/a19124" ],
+    [ "spell_ioc_gunship_portal", "d8/d76/a19128.html", "d8/d76/a19128" ],
+    [ "spell_ioc_parachute_ic_aura", "d2/d7a/a19132.html", "d2/d7a/a19132" ],
+    [ "spell_ioc_launch", "d2/d5e/a19136.html", "d2/d5e/a19136" ],
     [ "blastCriteria", "d4/dff/a02723.html#a4624e31db1be4aeba27dd1aeec3d8d42", [
       [ "SPELL_SEAFORIUM_BLAST", "d4/dff/a02723.html#a4624e31db1be4aeba27dd1aeec3d8d42aa08281f1d2d6d7120cbf5bc5debed1b4", null ],
       [ "SPELL_SEAFORIUM_BLAST_H", "d4/dff/a02723.html#a4624e31db1be4aeba27dd1aeec3d8d42ab6d471f8cc6016d9e3ec9356a0df8ade", null ],
@@ -23,12 +23,12 @@ var a02723 =
     ] ],
     [ "BossIoCEvents", "d4/dff/a02723.html#a26fcc655092c6f53188fc17833b6a2cd", [
       [ "EVENT_CHECK_RAGE", "d4/dff/a02723.html#a26fcc655092c6f53188fc17833b6a2cda22070086d807390f3a1abd3e58ebf829", null ],
-      [ "EVENT_BRUTAL_STRIKE", "d4/dff/a02723.html#a26fcc655092c6f53188fc17833b6a2cda59e56bbbe6d3a32438443f8598af6b1e", null ],
+      [ "EVENT_MORTAL_STRIKE", "d4/dff/a02723.html#a26fcc655092c6f53188fc17833b6a2cdadbcdc7932b4e3141c4e5fb1a807bc236", null ],
       [ "EVENT_CRUSHING_LEAP", "d4/dff/a02723.html#a26fcc655092c6f53188fc17833b6a2cdaefe9bfe55a91a8bd7e02f67f6d2c4cb6", null ],
       [ "EVENT_DAGGER_THROW", "d4/dff/a02723.html#a26fcc655092c6f53188fc17833b6a2cda6dabd6b3cc6c74769d3d8ac9a22c1133", null ]
     ] ],
     [ "BossIoCSpells", "d4/dff/a02723.html#a4bb3e649057be7ed2c976771a2abf608", [
-      [ "SPELL_IOCBOSS_BRUTAL_STRIKE", "d4/dff/a02723.html#a4bb3e649057be7ed2c976771a2abf608acc6747022a82c1547bce38c76e803e7f", null ],
+      [ "SPELL_IOCBOSS_MORTAL_STRIKE", "d4/dff/a02723.html#a4bb3e649057be7ed2c976771a2abf608a9a0303c52784579ec025af68da2e0728", null ],
       [ "SPELL_IOCBOSS_CRUSHING_LEAP", "d4/dff/a02723.html#a4bb3e649057be7ed2c976771a2abf608aeca4e1355117f5bb7b434756a6b52b26", null ],
       [ "SPELL_IOCBOSS_DAGGER_THROW", "d4/dff/a02723.html#a4bb3e649057be7ed2c976771a2abf608a704db01dd381287f5358af4b53a20aa8", null ],
       [ "SPELL_IOCBOSS_RAGE", "d4/dff/a02723.html#a4bb3e649057be7ed2c976771a2abf608a715f45c1c7acd7caad507312abf2f488", null ]

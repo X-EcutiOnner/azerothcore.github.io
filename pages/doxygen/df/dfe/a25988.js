@@ -1,6 +1,8 @@
 var a25988 =
 [
-    [ "CalculateAmount", "df/dfe/a25988.html#a6faee23ed5947a904e58bfb38cf01d05", null ],
-    [ "PrepareAuraScript", "df/dfe/a25988.html#a5e7d089dd117b6b3a605ea2e8aea0b04", null ],
-    [ "Register", "df/dfe/a25988.html#a37e277143b2ae6cd88260776941b59bf", null ]
+    [ "HandleDummy", "df/dfe/a25988.html#a5a628501371e7af224ce44594459b24d", null ],
+    [ "Load", "df/dfe/a25988.html#aeeab8e1eadb83827b035e07887a59ad1", null ],
+    [ "PrepareSpellScript", "df/dfe/a25988.html#a163c9510d29cc2fb454a9d8b437f0496", null ],
+    [ "Register", "df/dfe/a25988.html#aa46a2b76153ffdbea565374899ab31a3", null ],
+    [ "Validate", "df/dfe/a25988.html#a7a15b3f6aa7ca1458895b445c90509ee", null ]
 ];

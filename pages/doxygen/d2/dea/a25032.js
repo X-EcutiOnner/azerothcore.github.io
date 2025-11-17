@@ -1,7 +1,9 @@
 var a25032 =
 [
-    [ "CheckRequirement", "d2/dea/a25032.html#a6be5f335a15226db87a04548490f488d", null ],
-    [ "PrepareSpellScript", "d2/dea/a25032.html#a25463eda0ce51a124e8715baf305c8f6", null ],
-    [ "Register", "d2/dea/a25032.html#a8db5a5597d8f6fe4064799766fb61502", null ],
-    [ "_level", "d2/dea/a25032.html#a3d6867e8eae9afde2b03acc2e6ebe961", null ]
+    [ "spell_gen_select_target_count", "d2/dea/a25032.html#a65507c155a8746ff49c58c051b7868e4", null ],
+    [ "FilterTargets", "d2/dea/a25032.html#a5de89be9ce321a0f4ac49853a700b502", null ],
+    [ "PrepareSpellScript", "d2/dea/a25032.html#a42ddce15414dcdf495b572e0f75e9486", null ],
+    [ "Register", "d2/dea/a25032.html#a94f86992275123e2e3989655cf077efd", null ],
+    [ "_count", "d2/dea/a25032.html#acdf5daa848ae185b859c45a1271df68c", null ],
+    [ "_effTarget", "d2/dea/a25032.html#a9c54508790062277c8275d2466e93fb3", null ]
 ];

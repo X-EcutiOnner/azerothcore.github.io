@@ -1,5 +1,5 @@
 var a27536 =
 [
-    [ "go_sacred_fire_of_life", "d5/d87/a27536.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
-    [ "OnGossipHello", "d5/d87/a27536.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
+    [ "go_jotunheim_cage", "d5/d87/a27536.html#a28c9312de97a822e34f05c7358b42df4", null ],
+    [ "OnGossipHello", "d5/d87/a27536.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
 ];

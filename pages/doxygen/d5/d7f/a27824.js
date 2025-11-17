@@ -1,13 +1,6 @@
 var a27824 =
 [
-    [ "npc_garments_of_questsAI", "d5/d7f/a27824.html#a079f719ca488ed6fde2783b5db4f328b", null ],
-    [ "JustEngagedWith", "d5/d7f/a27824.html#aa14c07eaaa8d6381e8a821eab7a3d421", null ],
-    [ "Reset", "d5/d7f/a27824.html#aaaaa3e41deae0057bd659be5c579d226", null ],
-    [ "SpellHit", "d5/d7f/a27824.html#ad22195dba70ced744b319bc1ad83c083", null ],
-    [ "UpdateAI", "d5/d7f/a27824.html#aadf1a807ff49bd83eb21fc38fb2ed81c", null ],
-    [ "WaypointReached", "d5/d7f/a27824.html#a9bd63db7774e77ce4af6cfa952bcfa6d", null ],
-    [ "CanRun", "d5/d7f/a27824.html#a93c41781e4cb037b56773bbbf36181b7", null ],
-    [ "CasterGUID", "d5/d7f/a27824.html#ad2656e6a080b6407b57a3a1afeed12a0", null ],
-    [ "IsHealed", "d5/d7f/a27824.html#a96db66704eabf028362d5f8b5c424712", null ],
-    [ "RunAwayTimer", "d5/d7f/a27824.html#ac0a898f8938ea9b3721cc7440fac2da0", null ]
+    [ "npc_pet_trainerAI", "d1/dbe/a27828.html", "d1/dbe/a27828" ],
+    [ "npc_pet_trainer", "d5/d7f/a27824.html#ac2279bce52e911b1c339da5e68aa2501", null ],
+    [ "GetAI", "d5/d7f/a27824.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
 ];

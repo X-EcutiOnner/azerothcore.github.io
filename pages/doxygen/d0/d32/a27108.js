@@ -1,6 +1,7 @@
 var a27108 =
 [
-    [ "PrepareAuraScript", "d0/d32/a27108.html#a65fa925d99065d028e328a92f2a13805", null ],
-    [ "Register", "d0/d32/a27108.html#a95dc732286adf4327f68e23015d58c21", null ],
-    [ "RemoveEffect", "d0/d32/a27108.html#a3f474c143f64739187b6049cac5e4b38", null ]
+    [ "FilterTargets", "d0/d32/a27108.html#aeebe9395cefab1b87196a7ef466aa2c8", null ],
+    [ "PrepareSpellScript", "d0/d32/a27108.html#a954f00317eab544dd57e657368aab7fb", null ],
+    [ "Register", "d0/d32/a27108.html#a1804684c8685372faf2e88e56b48f5be", null ],
+    [ "Validate", "d0/d32/a27108.html#ab08386023ed3b3c8e51178da8973ef1a", null ]
 ];

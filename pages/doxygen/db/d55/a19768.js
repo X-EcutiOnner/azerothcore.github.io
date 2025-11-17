@@ -1,5 +1,6 @@
 var a19768 =
 [
-    [ "boss_sjonnir_dwarfAI", "db/d55/a19768.html#aee7608282bef500a7eb3e0d3130fa01c", null ],
-    [ "UpdateAI", "db/d55/a19768.html#afef50cec19e4cb2018c7c8a9e36ef41c", null ]
+    [ "boss_sjonnir_malformed_oozeAI", "d9/df3/a19772.html", "d9/df3/a19772" ],
+    [ "boss_sjonnir_malformed_ooze", "db/d55/a19768.html#ad151bc07b032b6cceed046d1b25ecc08", null ],
+    [ "GetAI", "db/d55/a19768.html#a22807bb07692511c5ec87073d98c2604", null ]
 ];

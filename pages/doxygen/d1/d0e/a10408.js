@@ -1,4 +1,5 @@
 var a10408 =
 [
-    [ "ModuleScript", "d1/d0e/a10408.html#a145c67a6c12a18527a4e7011a66b1760", null ]
+    [ "MovementHandlerScript", "d1/d0e/a10408.html#aeeeb5fe81eebc04fc317e726782be3ab", null ],
+    [ "OnPlayerMove", "d1/d0e/a10408.html#ac1604e58c8ecab26ce4159fb43a86a68", null ]
 ];

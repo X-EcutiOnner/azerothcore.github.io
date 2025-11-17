@@ -1,12 +1,17 @@
 var a23112 =
 [
-    [ "boss_essence_of_angerAI", "d1/d2b/a23112.html#a25eed717395b4e1ca5504d2d473e2500", null ],
-    [ "DoAction", "d1/d2b/a23112.html#a81576aaf465dfc99d199aaf6a182df52", null ],
-    [ "JustDied", "d1/d2b/a23112.html#a997d75ad388e790f9863e1b15fa1c899", null ],
-    [ "JustEngagedWith", "d1/d2b/a23112.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
-    [ "KilledUnit", "d1/d2b/a23112.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
-    [ "Reset", "d1/d2b/a23112.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
-    [ "UpdateAI", "d1/d2b/a23112.html#a67e9f5a361894aa227f2a74f9222740d", null ],
-    [ "_recentlySpoken", "d1/d2b/a23112.html#a056aa8fd704d832e83735cf2a1a22888", null ],
-    [ "targetGUID", "d1/d2b/a23112.html#adc3867a4446375f1217809299f3dd9bb", null ]
+    [ "npc_akama_shade", "d1/d2b/a23112.html#a95e956e162cb88d2814622bc10166ca5", null ],
+    [ "DamageTaken", "d1/d2b/a23112.html#a962723ebc58a2b1f813fcc0715f9f2d2", null ],
+    [ "DoAction", "d1/d2b/a23112.html#a59619f193d51e3bad05044aad2d96d9a", null ],
+    [ "EnterEvadeMode", "d1/d2b/a23112.html#ae2441741caf0b91196469f67a38823bc", null ],
+    [ "JustEngagedWith", "d1/d2b/a23112.html#a87df13ee30423c51e50670c535fdf99d", null ],
+    [ "JustSummoned", "d1/d2b/a23112.html#a2372d2e64fb36b64f638583409cf9fa8", null ],
+    [ "MovementInform", "d1/d2b/a23112.html#a4f1900d16dd36fbb9e573d59cf2176a1", null ],
+    [ "Reset", "d1/d2b/a23112.html#a2d8161405dbb97cc1784e3cf49679d25", null ],
+    [ "sGossipSelect", "d1/d2b/a23112.html#a8a18c7195f04caed0cf93655f556ad9a", null ],
+    [ "UpdateAI", "d1/d2b/a23112.html#af9091eaa02a0967cbc2acb7d0160e5f1", null ],
+    [ "_died", "d1/d2b/a23112.html#a1295073fb0f2dc19baeb16ad73ceb1df", null ],
+    [ "_generators", "d1/d2b/a23112.html#a84d8d87d9bb92ba20e357d5854410a5e", null ],
+    [ "_sayLowHealth", "d1/d2b/a23112.html#ae068b44aff8c9e4e1b75afab7959fda8", null ],
+    [ "instance", "d1/d2b/a23112.html#a590f6a445bcda767c2197da05fc3cb15", null ]
 ];

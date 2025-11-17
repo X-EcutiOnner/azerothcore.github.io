@@ -1,14 +1,14 @@
 var a22736 =
 [
-    [ "OutdoorPvPNA", "de/d7c/a22736.html#acbdae42245c71e4274296649d8d08e9e", null ],
-    [ "FillInitialWorldStates", "de/d7c/a22736.html#a49ac785929dd16bf0735b32b787763e9", null ],
-    [ "GetCapturePoint", "de/d7c/a22736.html#a7bab429e723c0ac1eb2f8cd3501f13be", null ],
-    [ "HandleKill", "de/d7c/a22736.html#ab55683b771104878c69239314a9782f4", null ],
-    [ "HandleKillImpl", "de/d7c/a22736.html#a2ede6e7dc54424d9729a094557b14792", null ],
-    [ "HandlePlayerEnterZone", "de/d7c/a22736.html#a312c5f2aaa35a9f83740c1bdd9772b9e", null ],
-    [ "HandlePlayerLeaveZone", "de/d7c/a22736.html#ae7dd540746946513cd7bf8e29296c068", null ],
-    [ "SendRemoveWorldStates", "de/d7c/a22736.html#ae9a93ddac1ca439f0f269d7ac7597593", null ],
-    [ "SetupOutdoorPvP", "de/d7c/a22736.html#a09369a62ec5584dd6ce5eddf7b2bb80f", null ],
-    [ "Update", "de/d7c/a22736.html#a4074a96974fe1b5e6d9149c8eee36e71", null ],
-    [ "m_obj", "de/d7c/a22736.html#a7538d64bb494644eae3cc7db03dd631f", null ]
+    [ "event_enter", "de/d7c/a22736.html#ac80d575f14dca1c901be55e34cc690e1", null ],
+    [ "event_leave", "de/d7c/a22736.html#a3dc0a11a5c06079026d27852e7561b74", null ],
+    [ "map_tower_a", "de/d7c/a22736.html#a9a65209caac3791b835c1920f5a667cf", null ],
+    [ "map_tower_h", "de/d7c/a22736.html#aa30ae484db7c69137abb13adb1b3c505", null ],
+    [ "map_tower_n", "de/d7c/a22736.html#a0453edceab2132e900bec183e360e210", null ],
+    [ "slider_disp", "de/d7c/a22736.html#aec3c8dde769675e3f436515c7a3bcf24", null ],
+    [ "slider_n", "de/d7c/a22736.html#a65015a3a24a5554643ecb5da47e24eea", null ],
+    [ "slider_pos", "de/d7c/a22736.html#acc63481f7613242ac06c6bee6c136a30", null ],
+    [ "ui_tower_a", "de/d7c/a22736.html#a0107bfd3b1df99568e02d6ca80042c86", null ],
+    [ "ui_tower_h", "de/d7c/a22736.html#a94a5fa0517fd0713b74f50a3d1d627cc", null ],
+    [ "ui_tower_n", "de/d7c/a22736.html#ae0fd99db88e6c60b829a18ff8e4be9a0", null ]
 ];

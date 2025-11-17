@@ -1,5 +1,11 @@
 var a27320 =
 [
-    [ "AreaTrigger_at_scent_larkorwi", "de/d7f/a27320.html#a967a43eae4cc986754eed9ee8291c17e", null ],
-    [ "OnTrigger", "de/d7f/a27320.html#aeeb339afa5a7dd4b028aea800026998e", null ]
+    [ "npc_dream_fogAI", "de/d7f/a27320.html#ac0606677b434b15dcbf17c9c4b2467a4", null ],
+    [ "GetRandomUnitFromDragonThreatList", "de/d7f/a27320.html#aa9ea076cdef0b1a0b21b18e42bf777c3", null ],
+    [ "Reset", "de/d7f/a27320.html#a595eeeae54d4bf323287fc408f706ac6", null ],
+    [ "ScheduleEvents", "de/d7f/a27320.html#a6025e98731e8eb3e4450eb6ea7747d5f", null ],
+    [ "SetGUID", "de/d7f/a27320.html#a3666423921a5405ea220ba098f3f91fe", null ],
+    [ "UpdateAI", "de/d7f/a27320.html#a881cbed8f1709071036b9f83cdbe1cad", null ],
+    [ "_dragonGUID", "de/d7f/a27320.html#a90deaf0fab9f0ed64c806c22c200ba08", null ],
+    [ "_targetGUID", "de/d7f/a27320.html#a44138ecd6ae6f07a624e26d82b0aa286", null ]
 ];

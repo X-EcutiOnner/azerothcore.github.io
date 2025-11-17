@@ -1,7 +1,6 @@
 var a15824 =
 [
-    [ "npc_giltharesAI", "dd/d6b/a15824.html#af22e42b2180987febd964784b6d49b5e", null ],
-    [ "JustEngagedWith", "dd/d6b/a15824.html#ae9ba65652db3d2d32920d1a98594727a", null ],
-    [ "Reset", "dd/d6b/a15824.html#a34d57ef71b60fe71c749f790cecf70b2", null ],
-    [ "WaypointReached", "dd/d6b/a15824.html#a9308c73760e50e0f3d04031b508526d1", null ]
+    [ "npc_taskmaster_fizzuleAI", "d5/db8/a15828.html", "d5/db8/a15828" ],
+    [ "npc_taskmaster_fizzule", "dd/d6b/a15824.html#aa42e6cc1a3ac58ea79f5184f7bb293a9", null ],
+    [ "GetAI", "dd/d6b/a15824.html#a6281de7424932fe6580ffefa199498d9", null ]
 ];

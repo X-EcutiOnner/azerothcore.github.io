@@ -1,9 +1,8 @@
 var a26904 =
 [
-    [ "CalculateAmount", "d7/d05/a26904.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
-    [ "CheckProc", "d7/d05/a26904.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
-    [ "HandleProc", "d7/d05/a26904.html#a741570ba77f70d90b437198f63e565f3", null ],
-    [ "PrepareAuraScript", "d7/d05/a26904.html#af4e49e2362994f247c119c16c013e4b3", null ],
-    [ "Register", "d7/d05/a26904.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
-    [ "Validate", "d7/d05/a26904.html#a939d6815bcaee9b9d2b062313aac912a", null ]
+    [ "ApplyDebuff", "d7/d05/a26904.html#a76ecb96d27c54b18f3628476dae4cc73", null ],
+    [ "PrepareSpellScript", "d7/d05/a26904.html#aeff4dce89b0d893b90571e0ff63e1aaa", null ],
+    [ "Register", "d7/d05/a26904.html#ae53dfd7f60a1c4132c441f7cd1595b95", null ],
+    [ "RemoveInvalidTargets", "d7/d05/a26904.html#a1374c764b20b95febbca44c593bde218", null ],
+    [ "Validate", "d7/d05/a26904.html#a2eb14ea281b41b08acd4514c01aa938f", null ]
 ];

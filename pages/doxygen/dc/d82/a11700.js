@@ -1,11 +1,12 @@
 var a11700 =
 [
-    [ "group_commandscript", "dc/d82/a11700.html#ad2890427cfe3649b2e0fe0896693372c", null ],
-    [ "GetCommands", "dc/d82/a11700.html#a5e7e069c58ecc5baca4ef1118e6c143e", null ],
-    [ "HandleGroupDisbandCommand", "dc/d82/a11700.html#a538539340a697e02453ddcfa669fb646", null ],
-    [ "HandleGroupJoinCommand", "dc/d82/a11700.html#a382e8532c653464e90b45569e813ae37", null ],
-    [ "HandleGroupLeaderCommand", "dc/d82/a11700.html#a899858a63add3c68e0e1446d29216c00", null ],
-    [ "HandleGroupListCommand", "dc/d82/a11700.html#a1b841d1c4bc59b56f2d166767089b93f", null ],
-    [ "HandleGroupRemoveCommand", "dc/d82/a11700.html#a2bbb27e0f221ce533f0b0e94e944f7fb", null ],
-    [ "HandleGroupReviveCommand", "dc/d82/a11700.html#a13968d61ec037aacc8070bc675290f94", null ]
+    [ "WardenMac", "dc/d82/a11700.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
+    [ "~WardenMac", "dc/d82/a11700.html#a5f3832580c73a0af34fa83669a92ceab", null ],
+    [ "GetModuleForClient", "dc/d82/a11700.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
+    [ "HandleData", "dc/d82/a11700.html#a024be47d39641cb0e7654b0e0999e444", null ],
+    [ "HandleHashResult", "dc/d82/a11700.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
+    [ "Init", "dc/d82/a11700.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
+    [ "InitializeModule", "dc/d82/a11700.html#a4fceef34e83db1a357d9eadce35efdef", null ],
+    [ "RequestChecks", "dc/d82/a11700.html#a2437a3a5650305b05fc22d312d0006da", null ],
+    [ "RequestHash", "dc/d82/a11700.html#af031f18554c5a96b4eb39371a92b9c51", null ]
 ];

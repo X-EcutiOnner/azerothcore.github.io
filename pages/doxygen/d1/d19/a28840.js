@@ -1,9 +1,7 @@
 var a28840 =
 [
-    [ "SetUp", "d1/d19/a28840.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
-    [ "TearDown", "d1/d19/a28840.html#a2a331c0ef77503c08c37e226a4e0a33b", null ],
-    [ "_distributor", "d1/d19/a28840.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
-    [ "_mockRewarder", "d1/d19/a28840.html#ad466c2751d8e9739db56f9f82d15deff", null ],
-    [ "_previousWorld", "d1/d19/a28840.html#aef822a2309df5d13af31ea5a5da74df7", null ],
-    [ "_worldMock", "d1/d19/a28840.html#a00b242d182fd7eacc93efc9d4f3e914f", null ]
+    [ "asyncId", "d1/d19/a28840.html#afd18849875b4562e4a532903676ce25d", null ],
+    [ "flags", "d1/d19/a28840.html#a9b9c3cec4acbd87911aa047dd52ae443", null ],
+    [ "offsMCNK", "d1/d19/a28840.html#a063c5dc62c44038e882340221bf8228a", null ],
+    [ "size", "d1/d19/a28840.html#a47a5eeb595d53de009651ae02d2b416d", null ]
 ];

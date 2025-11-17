@@ -1,7 +1,6 @@
 var a22284 =
 [
-    [ "HandleDummy", "d5/db6/a22284.html#abfb58e49821e6a563940e8ba518db850", null ],
-    [ "PrepareSpellScript", "d5/db6/a22284.html#a61ca2f71b0fa323a54f716415b25b75e", null ],
-    [ "Register", "d5/db6/a22284.html#a7a2cc833ae8d079b821caabf55b6f0e5", null ],
-    [ "Validate", "d5/db6/a22284.html#a21daeadffbfd28621d897dfe67dd11a8", null ]
+    [ "ChangeSummonPos", "d5/db6/a22284.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
+    [ "PrepareSpellScript", "d5/db6/a22284.html#a1654fec971696e613b5102b3ca5030f1", null ],
+    [ "Register", "d5/db6/a22284.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
 ];

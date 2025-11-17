@@ -1,6 +1,6 @@
 var a24232 =
 [
-    [ "npc_fel_guard_houndAI", "d3/d3e/a24236.html", "d3/d3e/a24236" ],
-    [ "npc_fel_guard_hound", "d2/ddd/a24232.html#a324179695f04a31b233b0ce94a46634c", null ],
-    [ "GetAI", "d2/ddd/a24232.html#a5f5c20ec379994e7d0b65133d772e18f", null ]
+    [ "npc_creditmarker_visit_with_ancestorsAI", "d3/d3e/a24236.html", "d3/d3e/a24236" ],
+    [ "npc_creditmarker_visit_with_ancestors", "d2/ddd/a24232.html#a60f7abac7198d8504d944828dceb1ffa", null ],
+    [ "GetAI", "d2/ddd/a24232.html#a06eb335a757c9f48fbfa64bfc326bb8e", null ]
 ];

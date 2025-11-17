@@ -1,6 +1,6 @@
 var a24056 =
 [
-    [ "HandleScriptEffect", "d1/d69/a24056.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
-    [ "PrepareSpellScript", "d1/d69/a24056.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
-    [ "Register", "d1/d69/a24056.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
+    [ "PrepareAuraScript", "d1/d69/a24056.html#a14d4d1a75130a77e7e59e41720491bec", null ],
+    [ "PrepareProc", "d1/d69/a24056.html#abea217f4bfdffc70007fbc29849e9a49", null ],
+    [ "Register", "d1/d69/a24056.html#a9dbcd4c940f5941472bebb64829125e3", null ]
 ];

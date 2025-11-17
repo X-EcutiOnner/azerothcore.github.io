@@ -174,12 +174,12 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  413</span>        {</div>
-<div class="line"><span class="lineno">  414</span>            <span class="keywordflow">for</span> (<span class="keywordtype">int</span>&amp; i : <a class="code hl_variable" href="../../dc/de0/a04936.html#a208e3c10fbd61fa6d4cc6736140ddfb1">numLeavesN</a>) { i = 0; }</div>
-<div class="line"><span class="lineno">  415</span>        }</div>
-<div class="ttc" id="aa04936_html_a208e3c10fbd61fa6d4cc6736140ddfb1"><div class="ttname"><a href="../../dc/de0/a04936.html#a208e3c10fbd61fa6d4cc6736140ddfb1">BIH::BuildStats::numLeavesN</a></div><div class="ttdeci">int numLeavesN[6]</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:408</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  415</span>        {</div>
+<div class="line"><span class="lineno">  416</span>            <span class="keywordflow">for</span> (<span class="keywordtype">int</span>&amp; i : <a class="code hl_variable" href="../../dc/de0/a04936.html#a208e3c10fbd61fa6d4cc6736140ddfb1">numLeavesN</a>) { i = 0; }</div>
+<div class="line"><span class="lineno">  417</span>        }</div>
+<div class="ttc" id="aa04936_html_a208e3c10fbd61fa6d4cc6736140ddfb1"><div class="ttname"><a href="../../dc/de0/a04936.html#a208e3c10fbd61fa6d4cc6736140ddfb1">BIH::BuildStats::numLeavesN</a></div><div class="ttdeci">int numLeavesN[6]</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:410</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00408">numLeavesN</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00410">numLeavesN</a>.</p>
 
 </div>
 </div>
@@ -217,17 +217,17 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  334</span>    printf(<span class="stringliteral">&quot;               N&gt;4  %3d%%\n&quot;</span>, 100 * <a class="code hl_variable" href="../../dc/de0/a04936.html#a208e3c10fbd61fa6d4cc6736140ddfb1">numLeavesN</a>[5] / <a class="code hl_variable" href="../../dc/de0/a04936.html#a6546dd9cc0de2cba9159f6ab2477b81f">numLeaves</a>);</div>
 <div class="line"><span class="lineno">  335</span>    printf(<span class="stringliteral">&quot;  * BVH2 nodes:     %d (%3d%%)\n&quot;</span>, <a class="code hl_variable" href="../../dc/de0/a04936.html#a37d64390b3f004f36588c1467a446cd0">numBVH2</a>, 100 * <a class="code hl_variable" href="../../dc/de0/a04936.html#a37d64390b3f004f36588c1467a446cd0">numBVH2</a> / (<a class="code hl_variable" href="../../dc/de0/a04936.html#afbedc638e0117b7ca5c5f1e447846717">numNodes</a> + <a class="code hl_variable" href="../../dc/de0/a04936.html#a6546dd9cc0de2cba9159f6ab2477b81f">numLeaves</a> - 2 * <a class="code hl_variable" href="../../dc/de0/a04936.html#a37d64390b3f004f36588c1467a446cd0">numBVH2</a>));</div>
 <div class="line"><span class="lineno">  336</span>}</div>
-<div class="ttc" id="aa04936_html_a0d3d26a62ae4aeb18fdff7d07a4b7873"><div class="ttname"><a href="../../dc/de0/a04936.html#a0d3d26a62ae4aeb18fdff7d07a4b7873">BIH::BuildStats::minObjects</a></div><div class="ttdeci">int minObjects</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:403</div></div>
-<div class="ttc" id="aa04936_html_a11cf172a3108b68efc5974b614187550"><div class="ttname"><a href="../../dc/de0/a04936.html#a11cf172a3108b68efc5974b614187550">BIH::BuildStats::sumDepth</a></div><div class="ttdeci">int sumDepth</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:405</div></div>
-<div class="ttc" id="aa04936_html_a37d64390b3f004f36588c1467a446cd0"><div class="ttname"><a href="../../dc/de0/a04936.html#a37d64390b3f004f36588c1467a446cd0">BIH::BuildStats::numBVH2</a></div><div class="ttdeci">int numBVH2</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:409</div></div>
-<div class="ttc" id="aa04936_html_a6546dd9cc0de2cba9159f6ab2477b81f"><div class="ttname"><a href="../../dc/de0/a04936.html#a6546dd9cc0de2cba9159f6ab2477b81f">BIH::BuildStats::numLeaves</a></div><div class="ttdeci">int numLeaves</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:401</div></div>
-<div class="ttc" id="aa04936_html_a84aa8066e8e19902aecec45607d7a93d"><div class="ttname"><a href="../../dc/de0/a04936.html#a84aa8066e8e19902aecec45607d7a93d">BIH::BuildStats::sumObjects</a></div><div class="ttdeci">int sumObjects</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:402</div></div>
-<div class="ttc" id="aa04936_html_a855eb250661d80a9313b926556e12168"><div class="ttname"><a href="../../dc/de0/a04936.html#a855eb250661d80a9313b926556e12168">BIH::BuildStats::maxDepth</a></div><div class="ttdeci">int maxDepth</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:407</div></div>
-<div class="ttc" id="aa04936_html_a90121f1721624ae2be8b3e6860d02f23"><div class="ttname"><a href="../../dc/de0/a04936.html#a90121f1721624ae2be8b3e6860d02f23">BIH::BuildStats::minDepth</a></div><div class="ttdeci">int minDepth</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:406</div></div>
-<div class="ttc" id="aa04936_html_acd34211244a97c08193421818f326ff9"><div class="ttname"><a href="../../dc/de0/a04936.html#acd34211244a97c08193421818f326ff9">BIH::BuildStats::maxObjects</a></div><div class="ttdeci">int maxObjects</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:404</div></div>
-<div class="ttc" id="aa04936_html_afbedc638e0117b7ca5c5f1e447846717"><div class="ttname"><a href="../../dc/de0/a04936.html#afbedc638e0117b7ca5c5f1e447846717">BIH::BuildStats::numNodes</a></div><div class="ttdeci">int numNodes</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:400</div></div>
+<div class="ttc" id="aa04936_html_a0d3d26a62ae4aeb18fdff7d07a4b7873"><div class="ttname"><a href="../../dc/de0/a04936.html#a0d3d26a62ae4aeb18fdff7d07a4b7873">BIH::BuildStats::minObjects</a></div><div class="ttdeci">int minObjects</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:405</div></div>
+<div class="ttc" id="aa04936_html_a11cf172a3108b68efc5974b614187550"><div class="ttname"><a href="../../dc/de0/a04936.html#a11cf172a3108b68efc5974b614187550">BIH::BuildStats::sumDepth</a></div><div class="ttdeci">int sumDepth</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:407</div></div>
+<div class="ttc" id="aa04936_html_a37d64390b3f004f36588c1467a446cd0"><div class="ttname"><a href="../../dc/de0/a04936.html#a37d64390b3f004f36588c1467a446cd0">BIH::BuildStats::numBVH2</a></div><div class="ttdeci">int numBVH2</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:411</div></div>
+<div class="ttc" id="aa04936_html_a6546dd9cc0de2cba9159f6ab2477b81f"><div class="ttname"><a href="../../dc/de0/a04936.html#a6546dd9cc0de2cba9159f6ab2477b81f">BIH::BuildStats::numLeaves</a></div><div class="ttdeci">int numLeaves</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:403</div></div>
+<div class="ttc" id="aa04936_html_a84aa8066e8e19902aecec45607d7a93d"><div class="ttname"><a href="../../dc/de0/a04936.html#a84aa8066e8e19902aecec45607d7a93d">BIH::BuildStats::sumObjects</a></div><div class="ttdeci">int sumObjects</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:404</div></div>
+<div class="ttc" id="aa04936_html_a855eb250661d80a9313b926556e12168"><div class="ttname"><a href="../../dc/de0/a04936.html#a855eb250661d80a9313b926556e12168">BIH::BuildStats::maxDepth</a></div><div class="ttdeci">int maxDepth</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:409</div></div>
+<div class="ttc" id="aa04936_html_a90121f1721624ae2be8b3e6860d02f23"><div class="ttname"><a href="../../dc/de0/a04936.html#a90121f1721624ae2be8b3e6860d02f23">BIH::BuildStats::minDepth</a></div><div class="ttdeci">int minDepth</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:408</div></div>
+<div class="ttc" id="aa04936_html_acd34211244a97c08193421818f326ff9"><div class="ttname"><a href="../../dc/de0/a04936.html#acd34211244a97c08193421818f326ff9">BIH::BuildStats::maxObjects</a></div><div class="ttdeci">int maxObjects</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:406</div></div>
+<div class="ttc" id="aa04936_html_afbedc638e0117b7ca5c5f1e447846717"><div class="ttname"><a href="../../dc/de0/a04936.html#afbedc638e0117b7ca5c5f1e447846717">BIH::BuildStats::numNodes</a></div><div class="ttdeci">int numNodes</div><div class="ttdef"><b>Definition:</b> BoundingIntervalHierarchy.h:402</div></div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l00080">BIH::build()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00081">BIH::build()</a>.</p>
 
 </div>
 </div>
@@ -253,9 +253,9 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  418</span>{ <a class="code hl_variable" href="../../dc/de0/a04936.html#a37d64390b3f004f36588c1467a446cd0">numBVH2</a>++; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  420</span>{ <a class="code hl_variable" href="../../dc/de0/a04936.html#a37d64390b3f004f36588c1467a446cd0">numBVH2</a>++; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00409">numBVH2</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00411">numBVH2</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00041">BIH::subdivide()</a>.</p>
 
@@ -283,9 +283,9 @@ Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  417</span>{ <a class="code hl_variable" href="../../dc/de0/a04936.html#afbedc638e0117b7ca5c5f1e447846717">numNodes</a>++; }</div>
+<div class="fragment"><div class="line"><span class="lineno">  419</span>{ <a class="code hl_variable" href="../../dc/de0/a04936.html#afbedc638e0117b7ca5c5f1e447846717">numNodes</a>++; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00400">numNodes</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00402">numNodes</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00041">BIH::subdivide()</a>.</p>
 
@@ -328,7 +328,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  314</span>    ++<a class="code hl_variable" href="../../dc/de0/a04936.html#a208e3c10fbd61fa6d4cc6736140ddfb1">numLeavesN</a>[nl];</div>
 <div class="line"><span class="lineno">  315</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00407">maxDepth</a>, <a class="el" href="../../#l00404">maxObjects</a>, <a class="el" href="../../#l00406">minDepth</a>, <a class="el" href="../../#l00403">minObjects</a>, <a class="el" href="../../#l00401">numLeaves</a>, <a class="el" href="../../#l00408">numLeavesN</a>, <a class="el" href="../../#l00405">sumDepth</a>, and <a class="el" href="../../#l00402">sumObjects</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00409">maxDepth</a>, <a class="el" href="../../#l00406">maxObjects</a>, <a class="el" href="../../#l00408">minDepth</a>, <a class="el" href="../../#l00405">minObjects</a>, <a class="el" href="../../#l00403">numLeaves</a>, <a class="el" href="../../#l00410">numLeavesN</a>, <a class="el" href="../../#l00407">sumDepth</a>, and <a class="el" href="../../#l00404">sumObjects</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00041">BIH::subdivide()</a>.</p>
 
@@ -451,7 +451,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00418">updateBVH2()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00420">updateBVH2()</a>.</p>
 
 </div>
 </div>
@@ -499,7 +499,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00412">BuildStats()</a>, and <a class="el" href="../../#l00304">updateLeaf()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00414">BuildStats()</a>, and <a class="el" href="../../#l00304">updateLeaf()</a>.</p>
 
 </div>
 </div>
@@ -523,7 +523,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00417">updateInner()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00419">updateInner()</a>.</p>
 
 </div>
 </div>
@@ -581,7 +581,7 @@ Private Attributes</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d1/db7/a04924.html">BIH</a></li><li class="navelem"><a class="el" href="../../dc/de0/a04936.html">BuildStats</a></li>
-    <li class="footer">Generated on Mon Nov 10 2025 20:53:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Nov 17 2025 20:45:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

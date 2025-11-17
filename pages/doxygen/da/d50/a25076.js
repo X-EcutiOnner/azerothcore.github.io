@@ -1,6 +1,6 @@
 var a25076 =
 [
-    [ "CheckProc", "da/d50/a25076.html#a3c4f64fc51367ebb549282b068458f4c", null ],
-    [ "PrepareAuraScript", "da/d50/a25076.html#a72dc7c7b8bc842a7feb6857cbec34d25", null ],
-    [ "Register", "da/d50/a25076.html#ac84b357828094a42aab1c8bfee83d298", null ]
+    [ "OnPeriodic", "da/d50/a25076.html#a3bcef6bd4501489320ef1242a66c50e8", null ],
+    [ "PrepareAuraScript", "da/d50/a25076.html#ab18f839ab70cc61e52c5e9ddb4847140", null ],
+    [ "Register", "da/d50/a25076.html#afbc707f30b7db0329f24b9ab8e8134e0", null ]
 ];

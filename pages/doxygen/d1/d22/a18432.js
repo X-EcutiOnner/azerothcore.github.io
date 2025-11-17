@@ -1,6 +1,7 @@
 var a18432 =
 [
-    [ "npc_shambling_horror_iccAI", "d1/d11/a18436.html", "d1/d11/a18436" ],
-    [ "npc_shambling_horror_icc", "d1/d22/a18432.html#a68219e0c6e79f5e7bed1f353d7bb5bcb", null ],
-    [ "GetAI", "d1/d22/a18432.html#a96fd525fcb34e793b1fc3fc5179e92ec", null ]
+    [ "OnRemove", "d1/d22/a18432.html#ac1a58d605156c03d05eb99605287e762", null ],
+    [ "PrepareAuraScript", "d1/d22/a18432.html#a2db820022631647e942b5ec84e63717e", null ],
+    [ "Register", "d1/d22/a18432.html#adfd213ccf8c5596fcd6dc69e53740376", null ],
+    [ "Validate", "d1/d22/a18432.html#aa498d4669f67eba4b904b203daeb5a7d", null ]
 ];

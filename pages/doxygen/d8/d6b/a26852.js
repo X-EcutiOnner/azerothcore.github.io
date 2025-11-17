@@ -1,8 +1,8 @@
 var a26852 =
 [
-    [ "HandleRootRemove", "d8/d6b/a26852.html#a9678ce2254825b67eb7a16312e960ba9", null ],
-    [ "HandleSnareRemove", "d8/d6b/a26852.html#a6a0716f500b3926e66c62a038a1e03d3", null ],
-    [ "PrepareSpellScript", "d8/d6b/a26852.html#ab9dc5e2516e269b968cb995040bc00a0", null ],
-    [ "Register", "d8/d6b/a26852.html#a119675dccea898932ca090577022b6ba", null ],
-    [ "Validate", "d8/d6b/a26852.html#a1a90cf531ba1131952161ff9d10b2cb7", null ]
+    [ "FilterTargets", "d8/d6b/a26852.html#a3766e5ed1f75c242f45b24c90eef7e11", null ],
+    [ "HandleDummy", "d8/d6b/a26852.html#a2214b10da042a3af2fd3311872cc5286", null ],
+    [ "PrepareSpellScript", "d8/d6b/a26852.html#a9959966856601f79a83931a7a7ecff91", null ],
+    [ "Register", "d8/d6b/a26852.html#a6ac1d4f1d82aabb39526aca92636a41f", null ],
+    [ "Validate", "d8/d6b/a26852.html#a67d4b92cc494b6081247a90e8d4c9628", null ]
 ];

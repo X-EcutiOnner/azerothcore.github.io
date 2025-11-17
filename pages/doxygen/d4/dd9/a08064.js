@@ -1,8 +1,19 @@
 var a08064 =
 [
-    [ "TemporaryThreatModifierEvent", "d4/dd9/a08064.html#afd58a1128ac6629d7541ba1bfd4ef886", null ],
-    [ "Execute", "d4/dd9/a08064.html#a2bbd75ad5e293e78e4bffe880f371d1e", null ],
-    [ "m_owner", "d4/dd9/a08064.html#ab786c99d73f0048a993ce7cee8c3b875", null ],
-    [ "m_threatValue", "d4/dd9/a08064.html#aacb0f6e66d22a93ff074b4cbcf12b788", null ],
-    [ "m_threatVictimGUID", "d4/dd9/a08064.html#aeae82bd80c9b8b08573c6e3baf359f55", null ]
+    [ "CreatureMovementData", "d4/dd9/a08064.html#acb8099aff89bb3526a78073fd5503e9b", null ],
+    [ "GetChase", "d4/dd9/a08064.html#aa9e0267e4c73ec837653113394841fcf", null ],
+    [ "GetInteractionPauseTimer", "d4/dd9/a08064.html#ac16489cdc845f350e98da595269b7770", null ],
+    [ "GetRandom", "d4/dd9/a08064.html#af2c8281192f6234bd19e030237c77b5a", null ],
+    [ "IsFlightAllowed", "d4/dd9/a08064.html#ad2e480bc7a0b98c417be077305392647", null ],
+    [ "IsGroundAllowed", "d4/dd9/a08064.html#a0820b5840321870dafa9119d404ad0d9", null ],
+    [ "IsRooted", "d4/dd9/a08064.html#a530b2bbf530e553687c23555f3ffe655", null ],
+    [ "IsSwimAllowed", "d4/dd9/a08064.html#a3ed4b7f140537f9d066344c50a79b0b1", null ],
+    [ "ToString", "d4/dd9/a08064.html#ad76c73b59fa83682a9ae43389fed95b0", null ],
+    [ "Chase", "d4/dd9/a08064.html#ae2a19ebf47bacb304a450f7d9c6dbc6d", null ],
+    [ "Flight", "d4/dd9/a08064.html#aa535d32995ba28e11915dd56494f4a72", null ],
+    [ "Ground", "d4/dd9/a08064.html#ae603273724f448c95dc3a7cd3aec5b68", null ],
+    [ "InteractionPauseTimer", "d4/dd9/a08064.html#ae701d7622d7e24c0b8673863a2d75742", null ],
+    [ "Random", "d4/dd9/a08064.html#a1457436a01d5007235224fa9bfb93745", null ],
+    [ "Rooted", "d4/dd9/a08064.html#a0ca3905bb168b81853091a7d56796c1f", null ],
+    [ "Swim", "d4/dd9/a08064.html#a04966dc48fffcd65574314f238ba9be2", null ]
 ];

@@ -1,5 +1,5 @@
 var a20456 =
 [
-    [ "achievement_getting_cold_in_here", "df/de2/a20456.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
-    [ "OnCheck", "df/de2/a20456.html#aeafd382d378381f754da6ee04d382276", null ]
+    [ "achievement_staying_buffed_all_winter_10", "df/de2/a20456.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
+    [ "OnCheck", "df/de2/a20456.html#a67587b1659a8d026e73b42311148541a", null ]
 ];

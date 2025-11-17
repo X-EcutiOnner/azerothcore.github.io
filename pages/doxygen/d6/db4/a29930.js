@@ -1,5 +1,7 @@
 var a29930 =
 [
-    [ "Id", "d6/db4/a29930.html#a2c41c957524b31ad9f7fa361ec0e9d01", null ],
-    [ "textid", "d6/db4/a29930.html#a7e50690fa335b759dba5ac265c9a0dd0", null ]
+    [ "MPQArchive", "d3/daf/a28924.html", "d3/daf/a28924" ],
+    [ "MPQFile", "de/d99/a28928.html", "de/d99/a28928" ],
+    [ "ArchiveSet", "d6/db4/a29930.html#a8d76af4bfff910da40b4f93a1c465744", null ],
+    [ "flipcc", "d6/db4/a29930.html#aff3add09c98fece7ace91b0e7c90435e", null ]
 ];

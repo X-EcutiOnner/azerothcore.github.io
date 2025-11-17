@@ -1,8 +1,7 @@
 var a25172 =
 [
-    [ "CheckIfCorpseNear", "da/d80/a25172.html#afdf1bca2e23057d99962fb1000e9245e", null ],
-    [ "HandleDummy", "da/d80/a25172.html#a9e1bf4884a32e515d8e6b3edf7f5d462", null ],
-    [ "PrepareSpellScript", "da/d80/a25172.html#af4a1aa22ed9ccf4df29d05d3f7fb0214", null ],
-    [ "Register", "da/d80/a25172.html#a22f4c5321769384b2b708f19edea1a66", null ],
-    [ "Validate", "da/d80/a25172.html#a855fdba79c4fa087253505ed419b9966", null ]
+    [ "HandleScript", "da/d80/a25172.html#ad1ca4c264e1f89adf479254e6436dd55", null ],
+    [ "Load", "da/d80/a25172.html#a66db2b82a0f014e49bbfeeaade4d1731", null ],
+    [ "PrepareSpellScript", "da/d80/a25172.html#a7616d761e7a7a708c88918302b488bb9", null ],
+    [ "Register", "da/d80/a25172.html#a8ca351c9e0e254369328865eefa3ff91", null ]
 ];

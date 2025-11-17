@@ -1,7 +1,7 @@
 var a19176 =
 [
-    [ "OnApply", "de/d5a/a19176.html#a72a01dea703436b2a220a9976da60fa6", null ],
-    [ "PrepareAuraScript", "de/d5a/a19176.html#adb17425258d4fb2c0c464236e15f32d7", null ],
-    [ "Register", "de/d5a/a19176.html#af026c126029c68ed8b7c6c1886720e4c", null ],
-    [ "Validate", "de/d5a/a19176.html#a5674396828adf4e80102ed2277f1e08a", null ]
+    [ "HandleScriptEffect", "de/d5a/a19176.html#afa9d5c6fd0666a7fa1a6f4d5acabe782", null ],
+    [ "PrepareSpellScript", "de/d5a/a19176.html#a21a3175346c9b12c02205f2d33da3b86", null ],
+    [ "Register", "de/d5a/a19176.html#af5f279ad20e9153f201262eaa7615978", null ],
+    [ "Validate", "de/d5a/a19176.html#a635ff34619767f657778016e1eb901aa", null ]
 ];

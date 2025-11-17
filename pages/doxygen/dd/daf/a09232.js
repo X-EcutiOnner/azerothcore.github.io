@@ -1,7 +1,7 @@
 var a09232 =
 [
-    [ "PlayerRelocationNotifier", "dd/daf/a09232.html#afa316348fb6151cc992b0da7aab39ec3", null ],
-    [ "Visit", "dd/daf/a09232.html#ab9b3ad469216db3a7a49176b41b0b1ea", null ],
-    [ "Visit", "dd/daf/a09232.html#acffc7490cb9b0cf171a1cfc6e1dbdc79", null ],
-    [ "Visit", "dd/daf/a09232.html#aa92ab4dcd81b669f41f6ab1029b791df", null ]
+    [ "CreatureRelocationNotifier", "dd/daf/a09232.html#aa144cd2c5b69351afd312084c0e97f0d", null ],
+    [ "Visit", "dd/daf/a09232.html#aa69e9bd551895ca3497d1bfbe5fa79ba", null ],
+    [ "Visit", "dd/daf/a09232.html#a8b346c55d80a8ed92afa2e1f591f5807", null ],
+    [ "i_creature", "dd/daf/a09232.html#a3116f6245816ba8fb9edb5995faa9927", null ]
 ];

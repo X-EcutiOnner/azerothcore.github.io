@@ -1,12 +1,18 @@
 var a13548 =
 [
-    [ "npc_kiljaeden_controller", "de/d38/a13548.html#aabe4e5af5ad142bac6cdaa4f6787a7bc", null ],
-    [ "JustDied", "de/d38/a13548.html#a86c4d79a8caf8a838e353bbf1b78c56d", null ],
-    [ "JustSummoned", "de/d38/a13548.html#af28211012d8398a450439b8e24bf60ce", null ],
-    [ "Reset", "de/d38/a13548.html#a11f6f8e86c3ecdecf8e4c5bcb76f8664", null ],
-    [ "ResetOrbs", "de/d38/a13548.html#a4daacfe92ddb39ade57df3a1bbcd79fd", null ],
-    [ "SummonedCreatureDies", "de/d38/a13548.html#aed2772552dd500c180c3db4aeef8359a", null ],
-    [ "UpdateAI", "de/d38/a13548.html#a9f24328d9ffd94ecf3d15303a71acb9b", null ],
-    [ "instance", "de/d38/a13548.html#a2cb872334b9dd6a4f87468b41f164fc4", null ],
-    [ "summons", "de/d38/a13548.html#a116a739b2bff3257b35ff7946a3d1995", null ]
+    [ "boss_kiljaeden", "de/d38/a13548.html#a573b32098eac346f3f9485eb46792b1b", null ],
+    [ "AttackStart", "de/d38/a13548.html#a9ad882dda480a564406628bfde386e57", null ],
+    [ "DamageTaken", "de/d38/a13548.html#afd668a9d98182d7e05ca38040e55e908", null ],
+    [ "DoAction", "de/d38/a13548.html#a53f78e51932d98886fadd9422adf96ce", null ],
+    [ "EmpowerOrb", "de/d38/a13548.html#ade10c2e693f41d5d0240bce37d5c1168", null ],
+    [ "EnterEvadeMode", "de/d38/a13548.html#a8e765740602b4f9efddafa5f2bdc8909", null ],
+    [ "InitializeAI", "de/d38/a13548.html#ac72d5d9615040c981e8e4e932be8c362", null ],
+    [ "JustDied", "de/d38/a13548.html#a82376e807061529bfd8fb4e52d409acf", null ],
+    [ "JustEngagedWith", "de/d38/a13548.html#aac01e1f8b7b7dfb80a62f3eb0105ed10", null ],
+    [ "JustSummoned", "de/d38/a13548.html#a3b983a903618b5bfebf7b45819207fde", null ],
+    [ "KilledUnit", "de/d38/a13548.html#a220cf460466c44a82ce3933d2c5f27f8", null ],
+    [ "Reset", "de/d38/a13548.html#aa45b8e5f598f68183b390e3239f0f75c", null ],
+    [ "ScheduleBasicAbilities", "de/d38/a13548.html#a345f52703c9d72be2a67ff46ac1a0472", null ],
+    [ "UpdateAI", "de/d38/a13548.html#aedcd604a535ce354881d7e59a05a79b9", null ],
+    [ "_phase", "de/d38/a13548.html#a6878b5b88a45f1a5d70d866e9850041d", null ]
 ];

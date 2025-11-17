@@ -1,8 +1,6 @@
 var a20100 =
 [
-    [ "npc_brann_radioAI", "dc/d97/a20100.html#a329ca0310efe109f7fb364045f6eccbb", null ],
-    [ "MoveInLineOfSight", "dc/d97/a20100.html#ad119431edd6f632b4c44fc4e8708d375", null ],
-    [ "Reset", "dc/d97/a20100.html#a89183942dcb38f48de1867bfbce15721", null ],
-    [ "_helpLock", "dc/d97/a20100.html#ae927b6c8143cfb029ab6574d10dde60e", null ],
-    [ "_lock", "dc/d97/a20100.html#a421cfd2b8b149a0f3ea5bc2262ba6bac", null ]
+    [ "boss_flame_leviathan_safety_containerAI", "d8/d39/a20104.html", "d8/d39/a20104" ],
+    [ "boss_flame_leviathan_safety_container", "dc/d97/a20100.html#ae14b2e13bd6358ad03d568f2bef042b7", null ],
+    [ "GetAI", "dc/d97/a20100.html#a6bcbc4e65214a0c667875271ff9aa0dd", null ]
 ];

@@ -1,6 +1,6 @@
 var a19732 =
 [
-    [ "boss_krystallusAI", "d6/da1/a19736.html", "d6/da1/a19736" ],
-    [ "boss_krystallus", "d7/d35/a19732.html#a1d7453c9d67594bfdbd650fea897666a", null ],
-    [ "GetAI", "d7/d35/a19732.html#aba14bcfa00a5d997959abd94af647bf4", null ]
+    [ "CalculateDamage", "d7/d35/a19732.html#a3b9afc712f9091273e9abc5079a90eb8", null ],
+    [ "PrepareSpellScript", "d7/d35/a19732.html#a59e56fb107cca4952c5e94ed371f73dd", null ],
+    [ "Register", "d7/d35/a19732.html#a02851f0b94687512a8e016bfb9b826e3", null ]
 ];

@@ -1,14 +1,6 @@
 var a21300 =
 [
-    [ "npc_massive_jormungarAI", "df/dec/a21300.html#aa0b9acaec1aab155f7e4442d12d40c3e", null ],
-    [ "DoAction", "df/dec/a21300.html#a8084994ba056c907b2e487568fa7502a", null ],
-    [ "JustDied", "df/dec/a21300.html#a02b4e75227811250e2210f754e6e04f2", null ],
-    [ "JustEngagedWith", "df/dec/a21300.html#a93769dbb2f7d2136e5ab2603927a5f12", null ],
-    [ "JustReachedHome", "df/dec/a21300.html#a8ea0fe40cb4b113abadc091ab8085636", null ],
-    [ "MoveInLineOfSight", "df/dec/a21300.html#a55c817111fab479c3abcfca8942f16e8", null ],
-    [ "Reset", "df/dec/a21300.html#aca0d8ebe3b47a075a8b87666c0207620", null ],
-    [ "UpdateAI", "df/dec/a21300.html#a9201c4cdf74d55bb3cde52eb265aa3d9", null ],
-    [ "events", "df/dec/a21300.html#a92334b8178317a91a7d4336096d75f33", null ],
-    [ "m_pInstance", "df/dec/a21300.html#ad50a9852370798817fda318f71f27653", null ],
-    [ "summons", "df/dec/a21300.html#acfa84efc38b994706015e6d82fe1f653", null ]
+    [ "npc_ravenous_furbolgAI", "db/d5c/a21304.html", "db/d5c/a21304" ],
+    [ "npc_ravenous_furbolg", "df/dec/a21300.html#a1d7adf8eb055cb6ba82db2f173256fe9", null ],
+    [ "GetAI", "df/dec/a21300.html#a284c366e6f5bd024d9627a83dd966669", null ]
 ];

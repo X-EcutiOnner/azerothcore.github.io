@@ -1,7 +1,8 @@
 var a20164 =
 [
-    [ "OnPeriodic", "de/d76/a20164.html#a9407d5477a40e36863e5fb5775dda122", null ],
-    [ "PrepareAuraScript", "de/d76/a20164.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
-    [ "Register", "de/d76/a20164.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
-    [ "Validate", "de/d76/a20164.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
+    [ "HandleOnEffectApply", "de/d76/a20164.html#a83ff54727e886161c5568a60833932d1", null ],
+    [ "HandleOnEffectRemove", "de/d76/a20164.html#a9e48d1c9dc26f882ee685a2cbf59667e", null ],
+    [ "PrepareAuraScript", "de/d76/a20164.html#a5ec8ffeceae335423dff10f54e096e8a", null ],
+    [ "Register", "de/d76/a20164.html#ae07af138c6f9c565799574b4f8343492", null ],
+    [ "Validate", "de/d76/a20164.html#a3a24a25c9b9b118d20ca2b14fbfc5869", null ]
 ];

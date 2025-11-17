@@ -1,7 +1,6 @@
 var a10516 =
 [
-    [ "AutoStoreBankItem", "db/d2e/a10516.html#a1cdb7e9c7da7e646af14ac4ac3b7e950", null ],
-    [ "Read", "db/d2e/a10516.html#a2a482b716f537866a815085ead9cfd38", null ],
-    [ "Bag", "db/d2e/a10516.html#a08d2992816ee94b6757c2811b54ed437", null ],
-    [ "Slot", "db/d2e/a10516.html#aaf2cd8c1c3d67301cc40af78f138daa0", null ]
+    [ "BuyBankSlot", "db/d2e/a10516.html#a0bc11087e9359c6ac762f915b11287d8", null ],
+    [ "Read", "db/d2e/a10516.html#ac4e35f97fe3ff2b2c18a40b8b2eb59fb", null ],
+    [ "Banker", "db/d2e/a10516.html#aa9ae5777ab337f37b1c372d39a8474bf", null ]
 ];

@@ -1,9 +1,7 @@
 var a26456 =
 [
-    [ "CheckCast", "de/d88/a26456.html#ad6b60c449d57503508c9a94ca6e919f9", null ],
-    [ "HandleDummy", "de/d88/a26456.html#a7f79495525687fba6229f48935b2558a", null ],
-    [ "Load", "de/d88/a26456.html#a0c73457e44a3d64bdccee78d28893672", null ],
-    [ "PrepareSpellScript", "de/d88/a26456.html#a4826d7b257ee05bfe0d6db3d30a924e9", null ],
-    [ "Register", "de/d88/a26456.html#ab9f09394ab301350a2abaefde90632fe", null ],
-    [ "Validate", "de/d88/a26456.html#a9b9d5f862e9910f1a12780ff54b067ca", null ]
+    [ "HandleProc", "de/d88/a26456.html#ad5bf7ab28ac2f359c65606a1772a40d2", null ],
+    [ "PrepareAuraScript", "de/d88/a26456.html#af4fec7fb65e1327b1a74d48453b9fddd", null ],
+    [ "Register", "de/d88/a26456.html#a44a82b94d509eeb04f3520ded1d62891", null ],
+    [ "Validate", "de/d88/a26456.html#a7b222bba8f0c4ced50bf4945bf0423ca", null ]
 ];

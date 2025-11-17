@@ -1,12 +1,7 @@
 var a23304 =
 [
-    [ "boss_fathomlord_karathress", "d2/d2d/a23304.html#a05c483ea61011926c260b43f6c01cac3", null ],
-    [ "DoAction", "d2/d2d/a23304.html#adc5685244341e353c6dac67b0191d877", null ],
-    [ "JustDied", "d2/d2d/a23304.html#a4c356359be50b626a28fab4a803386f8", null ],
-    [ "JustEngagedWith", "d2/d2d/a23304.html#ae221d994f2ebb0a298288233727ea1ba", null ],
-    [ "JustReachedHome", "d2/d2d/a23304.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
-    [ "JustSummoned", "d2/d2d/a23304.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
-    [ "KilledUnit", "d2/d2d/a23304.html#a02812a3cc7de22348058dedd107bb6d0", null ],
-    [ "Reset", "d2/d2d/a23304.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
-    [ "_recentlySpoken", "d2/d2d/a23304.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
+    [ "HandleEffectApply", "d2/d2d/a23304.html#acc7aeb8a002db3a846cbac29053af441", null ],
+    [ "HandleEffectRemove", "d2/d2d/a23304.html#a11de5d496bc1265ceb01c2bb91da4a57", null ],
+    [ "PrepareAuraScript", "d2/d2d/a23304.html#a7203f8808f6afc5bdaf49a26ae8b0c20", null ],
+    [ "Register", "d2/d2d/a23304.html#a7b62d651a57e2dc9d8e461f7a5c9d500", null ]
 ];

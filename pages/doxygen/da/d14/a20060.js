@@ -1,12 +1,6 @@
 var a20060 =
 [
-    [ "npc_freya_wardAI", "da/d14/a20060.html#afbc2f3d88173e240b87915cf0520b3cf", null ],
-    [ "DoAction", "da/d14/a20060.html#a4c9418b5474eb572a76168d4a460159a", null ],
-    [ "JustSummoned", "da/d14/a20060.html#a9075d763014ca50b4e0d2c815e1c23b7", null ],
-    [ "Reset", "da/d14/a20060.html#a65d304edd3b00b4a45c58bf36b926900", null ],
-    [ "SummonedCreatureDespawn", "da/d14/a20060.html#a6273b024ebde2fb36ed79eb122f7ac68", null ],
-    [ "UpdateAI", "da/d14/a20060.html#a11dd073b70e5126f580ec5122dce7bbd", null ],
-    [ "_castTimer", "da/d14/a20060.html#a6308aadc8ebf41cf045b04ac58e2244b", null ],
-    [ "_summoned", "da/d14/a20060.html#a5df6604055c5f3936a95f8d0ca5be8c1", null ],
-    [ "summons", "da/d14/a20060.html#a82932e9f2d570fa6d8394bfd3954c41e", null ]
+    [ "npc_mimirons_infernoAI", "de/ddf/a20064.html", "de/ddf/a20064" ],
+    [ "npc_mimirons_inferno", "da/d14/a20060.html#a7a531a65a179b5d56c888c055b72d269", null ],
+    [ "GetAI", "da/d14/a20060.html#a69294c5e8f50727e5f1a6586a8a3682b", null ]
 ];

@@ -1,7 +1,7 @@
 var a12396 =
 [
-    [ "boss_broodlordAI", "de/d52/a12396.html#aa7a5b16b22633439e5d20f9d47a91041", null ],
-    [ "JustDied", "de/d52/a12396.html#ab0c4dfdd5abc8edcf039d5207e8a63e8", null ],
-    [ "JustEngagedWith", "de/d52/a12396.html#ae6e26d9cd6e22426caf6ce031551f8a8", null ],
-    [ "UpdateAI", "de/d52/a12396.html#aea6fbbe31c96e94c2116733c3c66b59b", null ]
+    [ "go_suppression_deviceAI", "dd/da4/a12400.html", "dd/da4/a12400" ],
+    [ "go_suppression_device", "de/d52/a12396.html#a900713d6b029015f8868a96e5e1b9018", null ],
+    [ "GetAI", "de/d52/a12396.html#aa51bb6f9616022c1f4e1e711ca1130e8", null ],
+    [ "OnLootStateChanged", "de/d52/a12396.html#a684546c3ce0c0785d52a87eb011ef313", null ]
 ];

@@ -1,6 +1,7 @@
 var a19108 =
 [
-    [ "npc_four_car_garageAI", "d6/d73/a19112.html", "d6/d73/a19112" ],
-    [ "npc_four_car_garage", "d6/de1/a19108.html#ae9b811544ab5cbdcb9c44abdc2da41a8", null ],
-    [ "GetAI", "d6/de1/a19108.html#ac55346f9733c5502a9e9f2d6d48feefb", null ]
+    [ "npc_ioc_gunship_captainAI", "d6/de1/a19108.html#a23477a6f29b13308067c1f42ced1e9fe", null ],
+    [ "DoAction", "d6/de1/a19108.html#a89fb251869d6bfbefbca1e2d3178178a", null ],
+    [ "UpdateAI", "d6/de1/a19108.html#a222b304633143bba47d3edde67ea093b", null ],
+    [ "_events", "d6/de1/a19108.html#aa8b7c262641a5f1f86c5ae39f8b62dca", null ]
 ];

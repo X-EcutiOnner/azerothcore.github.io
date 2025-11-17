@@ -1,10 +1,6 @@
 var a27764 =
 [
-    [ "npc_training_dummyAI", "dc/dc5/a27764.html#a2f10fd0b4365e99446f728883a47eb6a", null ],
-    [ "DamageTaken", "dc/dc5/a27764.html#a641c40906a6365f068ccbdba9d033923", null ],
-    [ "EnterEvadeMode", "dc/dc5/a27764.html#adb1de124bdb2a986efcfcfc287b6d824", null ],
-    [ "MoveInLineOfSight", "dc/dc5/a27764.html#a52f3516e9da6895eeddcdef7a198a6b1", null ],
-    [ "Reset", "dc/dc5/a27764.html#af63f500cb3179964c90afab0d4a2c9b7", null ],
-    [ "UpdateAI", "dc/dc5/a27764.html#a5e7892a64cd1a5cf678b401b62497bfb", null ],
-    [ "resetTimer", "dc/dc5/a27764.html#a443f2f7de257af473d6e9793f34a2071", null ]
+    [ "npc_dancing_flamesAI", "dd/db1/a27768.html", "dd/db1/a27768" ],
+    [ "npc_dancing_flames", "dc/dc5/a27764.html#adec0401f876ddf159f28fdda8bc4d563", null ],
+    [ "GetAI", "dc/dc5/a27764.html#a1000d0b95dab3a6e73efa0ca088ce4e6", null ]
 ];

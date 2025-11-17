@@ -1,7 +1,6 @@
 var a08640 =
 [
-    [ "ItemPosCount", "d4/d2b/a08640.html#a43458da1fc31d827b6de726754f7901e", null ],
-    [ "isContainedIn", "d4/d2b/a08640.html#a6977c544a2d39ca5872b75f27517974f", null ],
-    [ "count", "d4/d2b/a08640.html#a4e09f94aa0808f76b2d5ff23691abb27", null ],
-    [ "pos", "d4/d2b/a08640.html#ad8954f1a6323316510cfe0f332ee495f", null ]
+    [ "SavedItem", "d4/d2b/a08640.html#a7261d44eefdbd56df651a57a71f5af6e", null ],
+    [ "dstpos", "d4/d2b/a08640.html#af844c8b955858b1ead94798c6326fa03", null ],
+    [ "item", "d4/d2b/a08640.html#afaa651441e306c13acc3cd1aa3084170", null ]
 ];

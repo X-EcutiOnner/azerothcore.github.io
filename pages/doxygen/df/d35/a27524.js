@@ -1,9 +1,6 @@
 var a27524 =
 [
-    [ "go_gilded_brazierAI", "df/d35/a27524.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
-    [ "GossipHello", "df/d35/a27524.html#afac9e217c294e72ff5f2526422e6321e", null ],
-    [ "Initialize", "df/d35/a27524.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
-    [ "UpdateAI", "df/d35/a27524.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
-    [ "_events", "df/d35/a27524.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
-    [ "_playerGUID", "df/d35/a27524.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
+    [ "go_bashir_crystalforge", "df/d35/a27524.html#a8b68a63933e14d82198580912fddc280", null ],
+    [ "OnGossipHello", "df/d35/a27524.html#a4aa941ae78a17eecc5593d6ccd17ff63", null ],
+    [ "OnGossipSelect", "df/d35/a27524.html#ac7e1b6db4ae2bee766b95049a8b0c320", null ]
 ];

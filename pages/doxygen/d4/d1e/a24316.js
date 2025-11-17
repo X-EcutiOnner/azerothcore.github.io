@@ -1,10 +1,6 @@
 var a24316 =
 [
-    [ "npc_maxx_a_million_escortAI", "d4/d1e/a24316.html#ab827933527ed7b4a04b162034876ced8", null ],
-    [ "JustDied", "d4/d1e/a24316.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
-    [ "Reset", "d4/d1e/a24316.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
-    [ "UpdateAI", "d4/d1e/a24316.html#a3b022feb2303875d32ad981e84f66854", null ],
-    [ "WaypointReached", "d4/d1e/a24316.html#acd6f45abb93f3f043cd85647405a50f6", null ],
-    [ "bTake", "d4/d1e/a24316.html#ac697fc6cbc20c7f316845ed26436049b", null ],
-    [ "uiTakeTimer", "d4/d1e/a24316.html#a5d4826dcf893f444a42dedba57460110", null ]
+    [ "npc_infernal_attackerAI", "dc/d04/a24320.html", "dc/d04/a24320" ],
+    [ "npc_infernal_attacker", "d4/d1e/a24316.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
+    [ "GetAI", "d4/d1e/a24316.html#ad1d9186c186de36efbe102a07fe89de4", null ]
 ];

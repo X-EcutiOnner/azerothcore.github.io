@@ -1,6 +1,9 @@
 var a15796 =
 [
-    [ "npc_custodian_of_timeAI", "d0/d14/a15800.html", "d0/d14/a15800" ],
-    [ "npc_custodian_of_time", "dc/d3d/a15796.html#a6018b30119ce819853a3c662b3d5347e", null ],
-    [ "GetAI", "dc/d3d/a15796.html#a57217b2dab1cab110f1c59526ca13c86", null ]
+    [ "npc_custodian_of_timeAI", "dc/d3d/a15796.html#a2434afcda3bc5681a124bdb1a2c8d56f", null ],
+    [ "JustEngagedWith", "dc/d3d/a15796.html#a3b12c06566b0c1d567b6edd8b57b8332", null ],
+    [ "MoveInLineOfSight", "dc/d3d/a15796.html#a97b21c4ecc89e4ddd5aef4dab30a7ecf", null ],
+    [ "Reset", "dc/d3d/a15796.html#a56bcc694ac286488ed4b3f2328c30573", null ],
+    [ "UpdateAI", "dc/d3d/a15796.html#a4b43c5f6eaf70fc93dcb18c183e456dc", null ],
+    [ "WaypointReached", "dc/d3d/a15796.html#a963736e62fbd0caea631ee3fb69fca46", null ]
 ];

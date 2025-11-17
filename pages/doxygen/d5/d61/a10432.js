@@ -1,7 +1,10 @@
 var a10432 =
 [
-    [ "SpellScriptLoader", "d5/d61/a10432.html#a0ae97b8f3cf24f46b98a121d35bdeadf", null ],
-    [ "GetAuraScript", "d5/d61/a10432.html#a9c60850e39ffe3d151a128b12777859d", null ],
-    [ "GetSpellScript", "d5/d61/a10432.html#a6f3a101a0517ba1440399809cf7f5b5b", null ],
-    [ "IsDatabaseBound", "d5/d61/a10432.html#ae60bf9957b950c7f5c9927f71510dc06", null ]
+    [ "ArgsType", "d5/d61/a10432.html#a4ea4d3b165a196482ebe96af9c462658", null ],
+    [ "AuraScriptType", "d5/d61/a10432.html#a7b2a19d6c7c75c0df22eae17b0c8e90a", null ],
+    [ "SpellScriptType", "d5/d61/a10432.html#a790a8ef2b59bfe6298486648858506ed", null ],
+    [ "GenericSpellAndAuraScriptLoader", "d5/d61/a10432.html#ab1bd69d57c6e2322044b8f7cf46cedb6", null ],
+    [ "GetAuraScript", "d5/d61/a10432.html#a5f3c898a0dc6d9085589b88eb5571528", null ],
+    [ "GetSpellScript", "d5/d61/a10432.html#a913fa28d2a2cf100ce73cf641e333e01", null ],
+    [ "_args", "d5/d61/a10432.html#aad6527f64ede0d896880ffa90d05a378", null ]
 ];

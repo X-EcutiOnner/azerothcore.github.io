@@ -1,7 +1,6 @@
 var a14060 =
 [
-    [ "HandleScript", "d9/d6c/a14060.html#ac45614416a710794b3e3a5cee239e28a", null ],
-    [ "PrepareSpellScript", "d9/d6c/a14060.html#a832aee6557e27bfa418957297a05bea3", null ],
-    [ "Register", "d9/d6c/a14060.html#a2f5d255de09818203e498c0090bdd3fb", null ],
-    [ "Validate", "d9/d6c/a14060.html#a38192ff7468a47ead1522b50f2dfcdfd", null ]
+    [ "go", "d9/d6c/a14060.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
+    [ "npc", "d9/d6c/a14060.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
+    [ "pos", "d9/d6c/a14060.html#a51175880a326101b29879d7a6a62c48d", null ]
 ];

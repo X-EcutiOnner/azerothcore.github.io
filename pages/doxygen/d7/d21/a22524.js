@@ -1,6 +1,6 @@
 var a22524 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "d7/d21/a22524.html#afd54b130725aa724b80f150f968ce09d", null ],
-    [ "MovementInform", "d7/d21/a22524.html#a37800436af47a8f6fbc6f6eb25eab9f9", null ],
-    [ "PassengerBoarded", "d7/d21/a22524.html#a588ed86f5b8316feafd938d85ac65aa0", null ]
+    [ "npc_wg_siege_machineAI", "d2/df4/a22528.html", "d2/df4/a22528" ],
+    [ "npc_wg_siege_machine", "d7/d21/a22524.html#a23dc1bbeaa396cad781ec177881e7d2a", null ],
+    [ "GetAI", "d7/d21/a22524.html#ae8b2a71378565ad5428f1ae582cacca1", null ]
 ];

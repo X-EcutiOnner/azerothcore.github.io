@@ -1,5 +1,6 @@
 var a27332 =
 [
-    [ "AreaTrigger_at_sentry_point", "db/d58/a27332.html#a9c27f669aba3be1a83fdd1c99a8af4cf", null ],
-    [ "OnTrigger", "db/d58/a27332.html#ab59fb74f4f988c208359855d2e4d9918", null ]
+    [ "boss_lethonAI", "db/dbd/a27336.html", "db/dbd/a27336" ],
+    [ "boss_lethon", "db/d58/a27332.html#a5d758979b061646830373de64b2b3af4", null ],
+    [ "GetAI", "db/d58/a27332.html#a493baf37aac400635dd0409e79375a1c", null ]
 ];

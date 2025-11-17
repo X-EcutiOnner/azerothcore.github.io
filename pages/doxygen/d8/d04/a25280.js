@@ -1,6 +1,6 @@
 var a25280 =
 [
-    [ "CheckSeat", "d8/d04/a25280.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
-    [ "PrepareSpellScript", "d8/d04/a25280.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
-    [ "Register", "d8/d04/a25280.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
+    [ "HandleEffectPeriodic", "d8/d04/a25280.html#a248ba0e88498e36355491b2b89063e17", null ],
+    [ "PrepareAuraScript", "d8/d04/a25280.html#ac9aed434fe7602ef846e9f052402620e", null ],
+    [ "Register", "d8/d04/a25280.html#a039eec910c802276b9e979253141cdee", null ]
 ];

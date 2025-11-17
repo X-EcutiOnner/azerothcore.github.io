@@ -1,6 +1,6 @@
 var a18388 =
 [
-    [ "LichKingMovieEvent", "db/dfc/a18388.html#a3e48e13dc5166c73a9f379045988f86a", null ],
-    [ "Execute", "db/dfc/a18388.html#a22d6181fd2651d62dcb6cdbabe0561fe", null ],
-    [ "_owner", "db/dfc/a18388.html#a7ed68f442a644d6bb7a036812351d89e", null ]
+    [ "boss_the_lich_kingAI", "d9/da2/a18392.html", "d9/da2/a18392" ],
+    [ "boss_the_lich_king", "db/dfc/a18388.html#a10e2789a98a85907d24eabae6d7655f4", null ],
+    [ "GetAI", "db/dfc/a18388.html#ab12d8cdfdb1c5428423f6db9dda6c97e", null ]
 ];

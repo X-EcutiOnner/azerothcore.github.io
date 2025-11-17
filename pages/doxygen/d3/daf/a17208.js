@@ -1,7 +1,13 @@
 var a17208 =
 [
-    [ "HandlePeriodicTick", "d3/daf/a17208.html#ac8b3f1a826e3491d4315983a89d23d2e", null ],
-    [ "PrepareAuraScript", "d3/daf/a17208.html#ad54c3014195c5b848ab1f9cc978f72b3", null ],
-    [ "Register", "d3/daf/a17208.html#af8e1ee8ddf7ed8290eb71fb7697428fb", null ],
-    [ "Validate", "d3/daf/a17208.html#a6de2140f17790b63314f653b7dd0ddd3", null ]
+    [ "boss_tyrannusAI", "d3/daf/a17208.html#a753de14d2cecaaed2c7b24e09397b008", null ],
+    [ "CanAIAttack", "d3/daf/a17208.html#a0cb60f308637cbd152faf274b3e5f636", null ],
+    [ "DoAction", "d3/daf/a17208.html#ab4d899ab5da283c8d256df8cb0d4e312", null ],
+    [ "EnterEvadeMode", "d3/daf/a17208.html#a9d18bab323c676020dede77a498a5b77", null ],
+    [ "JustDied", "d3/daf/a17208.html#a249b7dc28dfc40c2a782ef32b88dbb48", null ],
+    [ "KilledUnit", "d3/daf/a17208.html#abf7c8909143dac641c00cca160bef964", null ],
+    [ "Reset", "d3/daf/a17208.html#aec686cffccd8d95a341e320ffc7d5b7e", null ],
+    [ "UpdateAI", "d3/daf/a17208.html#a4357dc2e9b1d714d780db6ce3f60728b", null ],
+    [ "events", "d3/daf/a17208.html#a2168a2e1b36607b76614bdef54b02bc3", null ],
+    [ "pInstance", "d3/daf/a17208.html#ad4a8282849aaa1ce8b4702b5af55d35b", null ]
 ];

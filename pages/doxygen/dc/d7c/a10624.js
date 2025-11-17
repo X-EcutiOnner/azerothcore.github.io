@@ -1,5 +1,9 @@
 var a10624 =
 [
-    [ "GuildGetInfo", "dc/d7c/a10624.html#a585a6a49fe9747d5044ac185f1236cf5", null ],
-    [ "Read", "dc/d7c/a10624.html#aa2b107f35fcf348fb7f84c2971c5fa00", null ]
+    [ "GuildInfoResponse", "dc/d7c/a10624.html#a256cb81ad2e08050be99c9e1061c2009", null ],
+    [ "Write", "dc/d7c/a10624.html#a3222d0018c9593400d3d01258b82371e", null ],
+    [ "CreateDate", "dc/d7c/a10624.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
+    [ "GuildName", "dc/d7c/a10624.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
+    [ "NumAccounts", "dc/d7c/a10624.html#a21b42f1654aa10f7872d87635fea66ac", null ],
+    [ "NumMembers", "dc/d7c/a10624.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
 ];

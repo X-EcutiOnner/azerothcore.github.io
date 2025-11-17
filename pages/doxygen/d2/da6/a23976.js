@@ -1,7 +1,13 @@
 var a23976 =
 [
-    [ "CastQuill", "d2/da6/a23976.html#a923234809186bcbdf02457f4be095519", null ],
-    [ "Execute", "d2/da6/a23976.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
-    [ "_caster", "d2/da6/a23976.html#af809b9279aff141ce4007c8d1fbcc331", null ],
-    [ "_spellId", "d2/da6/a23976.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
+    [ "advisor_baseAI", "d2/da6/a23976.html#a3c68b7ee961af2d9dabb15c7e054d45b", null ],
+    [ "DamageTaken", "d2/da6/a23976.html#a678d09ec3b3d5a4d922a0fc117192349", null ],
+    [ "JustDied", "d2/da6/a23976.html#a8da09edce761f1f1e1b7eb96ec7a529b", null ],
+    [ "JustEngagedWith", "d2/da6/a23976.html#a1e4b1ff264f4c1586515f56531b77dea", null ],
+    [ "Reset", "d2/da6/a23976.html#a008c30414ecebf4e2996d06b81539255", null ],
+    [ "ScheduleEvents", "d2/da6/a23976.html#a24d22ccec834770bc5bcf44119fb0045", null ],
+    [ "SpellHit", "d2/da6/a23976.html#a4fc41f3985244b6baf25b3417f67054e", null ],
+    [ "UpdateAI", "d2/da6/a23976.html#aa89d3479b2e0bd8dd18572135aa45235", null ],
+    [ "_feigning", "d2/da6/a23976.html#ae1c2011ba993c8d589bf6fe45602ac41", null ],
+    [ "_preventDeath", "d2/da6/a23976.html#ab6c4a3f241fa5417f0a1d450ddb811ca", null ]
 ];

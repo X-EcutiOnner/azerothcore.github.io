@@ -1,11 +1,12 @@
 var a28792 =
 [
-    [ "IsAvailable", "dd/d25/a28792.html#adfebd7a162ebae8396669de031c768a6", null ],
-    [ "operator bool", "dd/d25/a28792.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
-    [ "operator*", "dd/d25/a28792.html#a24733bf06b4a91abcf4945aa5303a275", null ],
-    [ "operator->", "dd/d25/a28792.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
-    [ "SecretMgr", "dd/d25/a28792.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
-    [ "lock", "dd/d25/a28792.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
-    [ "state", "dd/d25/a28792.html#ad5c4eb66bfdb78d40bc8cdacd34a257b", null ],
-    [ "value", "dd/d25/a28792.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
+    [ "TestVisibilityScript", "dd/d25/a28792.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
+    [ "EnsureRegistered", "dd/d25/a28792.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
+    [ "OnPlayerSetServerSideVisibility", "dd/d25/a28792.html#a6b3701188303b644b28a52ec42bec846", null ],
+    [ "Reset", "dd/d25/a28792.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
+    [ "CallCount", "dd/d25/a28792.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
+    [ "Instance", "dd/d25/a28792.html#adcf0326aa1e32db109ec920857868138", null ],
+    [ "LastPlayer", "dd/d25/a28792.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
+    [ "LastSecurity", "dd/d25/a28792.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
+    [ "LastType", "dd/d25/a28792.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
 ];

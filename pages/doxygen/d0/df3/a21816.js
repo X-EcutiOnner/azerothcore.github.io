@@ -1,5 +1,6 @@
 var a21816 =
 [
-    [ "npc_leryssaAI", "d0/df3/a21816.html#ad21a1e1572880ba8cbf6625e658989eb", null ],
-    [ "MovementInform", "d0/df3/a21816.html#a36180f7351ab11a9942ec59ee24ae6ad", null ]
+    [ "PrepareSpellScript", "d0/df3/a21816.html#a072a5228690b929af3b65d771bf5f485", null ],
+    [ "Register", "d0/df3/a21816.html#a87235eb9494edd94221f0380e815aa6b", null ],
+    [ "SetDest", "d0/df3/a21816.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
 ];

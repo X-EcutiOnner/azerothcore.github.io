@@ -1,6 +1,6 @@
 var a18596 =
 [
-    [ "HandleScript", "d7/d22/a18596.html#a910663e3fb2534c0e3aefcfd0adfe2fb", null ],
-    [ "PrepareSpellScript", "d7/d22/a18596.html#a2c6acef52962f606130d643cbd93104b", null ],
-    [ "Register", "d7/d22/a18596.html#a03ed4f257c313ba33361c16f313fdfcc", null ]
+    [ "ActivateSpirit", "d7/d22/a18596.html#ae5c9f8e693a98c828e0e922870552952", null ],
+    [ "PrepareSpellScript", "d7/d22/a18596.html#aa55f0fe4e27520b8a7ae1bb0f810838d", null ],
+    [ "Register", "d7/d22/a18596.html#a2b1d27e93a879681098a83d17c4d686a", null ]
 ];

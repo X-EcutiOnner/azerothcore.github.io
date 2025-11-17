@@ -1,7 +1,8 @@
 var a15572 =
 [
-    [ "npc_prospector_remtravelAI", "d9/de6/a15576.html", "d9/de6/a15576" ],
-    [ "npc_prospector_remtravel", "d7/d68/a15572.html#aa213161fc60e615682252125f6c58f7f", null ],
-    [ "GetAI", "d7/d68/a15572.html#aa8e1bb551036684b05c1b3bea4c66b1d", null ],
-    [ "OnQuestAccept", "d7/d68/a15572.html#a5e11149b6359927a71c98242d979e65b", null ]
+    [ "npc_prospector_remtravelAI", "d7/d68/a15572.html#a61f26115382f16f3d65c3d4e1c720f02", null ],
+    [ "JustEngagedWith", "d7/d68/a15572.html#adf388d36c17b69f881e3cb92d9b78b9b", null ],
+    [ "JustSummoned", "d7/d68/a15572.html#a6b3dd1552b5313dd04d07dc80eef06fe", null ],
+    [ "Reset", "d7/d68/a15572.html#ac145a4a4a24be227c31fcc5aefd922eb", null ],
+    [ "WaypointReached", "d7/d68/a15572.html#a7b02b22e9dc63e1fad6b15a44b2ff9b6", null ]
 ];

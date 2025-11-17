@@ -1,5 +1,6 @@
 var a13012 =
 [
-    [ "at_karazhan_side_entrance", "d4/dd5/a13012.html#abdaa7339a53941e2e89c4fcd439395fc", null ],
-    [ "_OnTrigger", "d4/dd5/a13012.html#a80d0018a9442ef7f0834dc329047e135", null ]
+    [ "HandleProc", "d4/dd5/a13012.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
+    [ "PrepareAuraScript", "d4/dd5/a13012.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
+    [ "Register", "d4/dd5/a13012.html#a24df76ff0933685bade58deff98856d2", null ]
 ];

@@ -1,6 +1,6 @@
 var a18292 =
 [
-    [ "FilterTargets", "d0/d77/a18292.html#ad5a004ddfdc888c38e95c3a0b49ca73e", null ],
-    [ "PrepareSpellScript", "d0/d77/a18292.html#a24466e7a04722cc7559b086f89d2edc8", null ],
-    [ "Register", "d0/d77/a18292.html#a9ecea534f3dffdedf7d23b3b2461509d", null ]
+    [ "npc_spinestalkerAI", "d0/d0a/a18296.html", "d0/d0a/a18296" ],
+    [ "npc_spinestalker", "d0/d77/a18292.html#a477f951c79045d553901b1e6b6ad2d4f", null ],
+    [ "GetAI", "d0/d77/a18292.html#a725f1b1db90d700772bfb76e0f85f1f3", null ]
 ];

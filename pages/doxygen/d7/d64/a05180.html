@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ConfigValueCache&lt; ConfigEnum &gt; Class Template Reference</title>
+<title>AzerothCore: Acore::Crypto::AES Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,317 +107,207 @@ $(document).ready(function(){initNavTree('d7/d64/a05180.html','../../'); initRes
   <div class="summary">
 <a href="#pub-types">Public Types</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pro-methods">Protected Member Functions</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
+<a href="#pub-static-attribs">Static Public Attributes</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d3/dda/a05177.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ConfigValueCache&lt; ConfigEnum &gt; Class Template Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div></div>
+  <div class="headertitle"><div class="title">Acore::Crypto::AES Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">ConfigValueCache.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">AES.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-types" name="pub-types"></a>
 Public Types</h2></td></tr>
-<tr class="memitem:a5ce3ea201b2a7f6bc16e5594e001680b"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#a5ce3ea201b2a7f6bc16e5594e001680b">Reloadable</a> : bool { <br />
-&#160;&#160;<a class="el" href="../../d7/d64/a05180.html#a5ce3ea201b2a7f6bc16e5594e001680babafd7322c6e97d25b6299b5d6fe8920b">No</a> = false
-, <br />
-&#160;&#160;<a class="el" href="../../d7/d64/a05180.html#a5ce3ea201b2a7f6bc16e5594e001680ba93cba07454f06a4a960172bbd6e2a435">Yes</a> = true
-<br />
- }</td></tr>
-<tr class="separator:a5ce3ea201b2a7f6bc16e5594e001680b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ab3c73ca75661d53842f924f9914656"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#a3ab3c73ca75661d53842f924f9914656">IV</a> = std::array&lt; <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, <a class="el" href="../../d7/d64/a05180.html#a5c62e48e8791379cdcdb5d20c018f0ea">IV_SIZE_BYTES</a> &gt;</td></tr>
+<tr class="separator:a3ab3c73ca75661d53842f924f9914656"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad479930aa60f991335d4cf68251958bb"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#ad479930aa60f991335d4cf68251958bb">Key</a> = std::array&lt; <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, <a class="el" href="../../d7/d64/a05180.html#a03df6b128e9d2553c44e71680ca79cb5">KEY_SIZE_BYTES</a> &gt;</td></tr>
+<tr class="separator:ad479930aa60f991335d4cf68251958bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad6abd9fd7a9b7bafc4c300ebca415a1e"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#ad6abd9fd7a9b7bafc4c300ebca415a1e">Tag</a> = <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>[<a class="el" href="../../d7/d64/a05180.html#a0a7619278214bbe6b2bd5ad003828ef0">TAG_SIZE_BYTES</a>]</td></tr>
+<tr class="separator:ad6abd9fd7a9b7bafc4c300ebca415a1e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:afc10aa10787175aac1155ab576c44868"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#afc10aa10787175aac1155ab576c44868">ConfigValueCache</a> (ConfigEnum const configCount)</td></tr>
-<tr class="separator:afc10aa10787175aac1155ab576c44868"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3645d00d7d88bac526ab2da095e2893e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#a3645d00d7d88bac526ab2da095e2893e">Initialize</a> (bool reload)</td></tr>
-<tr class="separator:a3645d00d7d88bac526ab2da095e2893e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2fd376bdf015db27133e636c3051410f"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
-<tr class="memitem:a2fd376bdf015db27133e636c3051410f"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#a2fd376bdf015db27133e636c3051410f">SetConfigValue</a> (ConfigEnum const config, std::string const &amp;configName, T const &amp;defaultValue, <a class="el" href="../../d7/d64/a05180.html#a5ce3ea201b2a7f6bc16e5594e001680b">Reloadable</a> reloadable=<a class="el" href="../../d7/d64/a05180.html#a5ce3ea201b2a7f6bc16e5594e001680ba93cba07454f06a4a960172bbd6e2a435">Reloadable::Yes</a>, std::function&lt; bool(T const &amp;value)&gt; &amp;&amp;checker={}, std::string const &amp;validationErrorText=&quot;&quot;)</td></tr>
-<tr class="separator:a2fd376bdf015db27133e636c3051410f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a38f4fd18a5b1bcf1a87736b6e7bf52cf"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
-<tr class="memitem:a38f4fd18a5b1bcf1a87736b6e7bf52cf"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#a38f4fd18a5b1bcf1a87736b6e7bf52cf">OverwriteConfigValue</a> (ConfigEnum const config, T const &amp;value)</td></tr>
-<tr class="separator:a38f4fd18a5b1bcf1a87736b6e7bf52cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a274d23acbfb0b10d6b1482bf37b41b0c"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
-<tr class="memitem:a274d23acbfb0b10d6b1482bf37b41b0c"><td class="memTemplItemLeft" align="right" valign="top">T&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#a274d23acbfb0b10d6b1482bf37b41b0c">GetConfigValue</a> (ConfigEnum const config) const</td></tr>
-<tr class="separator:a274d23acbfb0b10d6b1482bf37b41b0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9a3a6bb71fd3c695625d5dc64525fb51"><td class="memItemLeft" align="right" valign="top">std::string_view&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#a9a3a6bb71fd3c695625d5dc64525fb51">GetConfigValue</a> (ConfigEnum const config) const</td></tr>
-<tr class="separator:a9a3a6bb71fd3c695625d5dc64525fb51"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a75c197cecf7cd7230a1a9f64e8ec9f00"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#a75c197cecf7cd7230a1a9f64e8ec9f00">AES</a> (bool encrypting)</td></tr>
+<tr class="separator:a75c197cecf7cd7230a1a9f64e8ec9f00"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abcdb72bef5a57586630650372c339410"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#abcdb72bef5a57586630650372c339410">~AES</a> ()</td></tr>
+<tr class="separator:abcdb72bef5a57586630650372c339410"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a910f4dcbbd2868264d4b11f3041c833d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#a910f4dcbbd2868264d4b11f3041c833d">Init</a> (<a class="el" href="../../d7/d64/a05180.html#ad479930aa60f991335d4cf68251958bb">Key</a> const &amp;key)</td></tr>
+<tr class="separator:a910f4dcbbd2868264d4b11f3041c833d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9933ca01e34684d466bc364dda11a30a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#a9933ca01e34684d466bc364dda11a30a">Process</a> (<a class="el" href="../../d7/d64/a05180.html#a3ab3c73ca75661d53842f924f9914656">IV</a> const &amp;iv, <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> *data, std::size_t length, <a class="el" href="../../d7/d64/a05180.html#ad6abd9fd7a9b7bafc4c300ebca415a1e">Tag</a> &amp;tag)</td></tr>
+<tr class="separator:a9933ca01e34684d466bc364dda11a30a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
-Protected Member Functions</h2></td></tr>
-<tr class="memitem:a8e49c987c471c98f707ffc8c697d959d"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#a8e49c987c471c98f707ffc8c697d959d">BuildConfigCache</a> ()=0</td></tr>
-<tr class="separator:a8e49c987c471c98f707ffc8c697d959d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:a69bceb7d8f714b478dfe6e6aea29c65a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#a69bceb7d8f714b478dfe6e6aea29c65a">VerifyAllConfigsLoaded</a> ()</td></tr>
-<tr class="separator:a69bceb7d8f714b478dfe6e6aea29c65a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
+Static Public Attributes</h2></td></tr>
+<tr class="memitem:a5c62e48e8791379cdcdb5d20c018f0ea"><td class="memItemLeft" align="right" valign="top">static constexpr std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#a5c62e48e8791379cdcdb5d20c018f0ea">IV_SIZE_BYTES</a> = 12</td></tr>
+<tr class="separator:a5c62e48e8791379cdcdb5d20c018f0ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a03df6b128e9d2553c44e71680ca79cb5"><td class="memItemLeft" align="right" valign="top">static constexpr std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#a03df6b128e9d2553c44e71680ca79cb5">KEY_SIZE_BYTES</a> = 16</td></tr>
+<tr class="separator:a03df6b128e9d2553c44e71680ca79cb5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0a7619278214bbe6b2bd5ad003828ef0"><td class="memItemLeft" align="right" valign="top">static constexpr std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#a0a7619278214bbe6b2bd5ad003828ef0">TAG_SIZE_BYTES</a> = 12</td></tr>
+<tr class="separator:a0a7619278214bbe6b2bd5ad003828ef0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:aaca9aa5722cca588ed3149dc5b5098f3"><td class="memItemLeft" align="right" valign="top">std::vector&lt; std::variant&lt; std::monostate, float, bool, <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, std::string &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#aaca9aa5722cca588ed3149dc5b5098f3">_configs</a></td></tr>
-<tr class="separator:aaca9aa5722cca588ed3149dc5b5098f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a70b2a229ff1caa9924f404f5b98cf801"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#a70b2a229ff1caa9924f404f5b98cf801">_reloading</a></td></tr>
-<tr class="separator:a70b2a229ff1caa9924f404f5b98cf801"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae461a0a028ca8d02af56496252e6322d"><td class="memItemLeft" align="right" valign="top">EVP_CIPHER_CTX *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#ae461a0a028ca8d02af56496252e6322d">_ctx</a></td></tr>
+<tr class="separator:ae461a0a028ca8d02af56496252e6322d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac5e1bc89ac1c21f97994db7c76ae4e4e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d64/a05180.html#ac5e1bc89ac1c21f97994db7c76ae4e4e">_encrypting</a></td></tr>
+<tr class="separator:ac5e1bc89ac1c21f97994db7c76ae4e4e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;typename ConfigEnum&gt;<br />
-class ConfigValueCache&lt; ConfigEnum &gt;</div></div><h2 class="groupheader">Member Enumeration Documentation</h2>
-<a id="a5ce3ea201b2a7f6bc16e5594e001680b" name="a5ce3ea201b2a7f6bc16e5594e001680b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5ce3ea201b2a7f6bc16e5594e001680b">&#9670;&#160;</a></span>Reloadable</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
+<a id="a3ab3c73ca75661d53842f924f9914656" name="a3ab3c73ca75661d53842f924f9914656"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3ab3c73ca75661d53842f924f9914656">&#9670;&#160;</a></span>IV</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename ConfigEnum &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">enum class <a class="el" href="../../d7/d64/a05180.html#a5ce3ea201b2a7f6bc16e5594e001680b">ConfigValueCache::Reloadable</a> : bool</td>
+          <td class="memname">using <a class="el" href="../../d7/d64/a05180.html#a3ab3c73ca75661d53842f924f9914656">Acore::Crypto::AES::IV</a> =  std::array&lt;<a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, <a class="el" href="../../d7/d64/a05180.html#a5c62e48e8791379cdcdb5d20c018f0ea">IV_SIZE_BYTES</a>&gt;</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a5ce3ea201b2a7f6bc16e5594e001680babafd7322c6e97d25b6299b5d6fe8920b" name="a5ce3ea201b2a7f6bc16e5594e001680babafd7322c6e97d25b6299b5d6fe8920b"></a>No&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5ce3ea201b2a7f6bc16e5594e001680ba93cba07454f06a4a960172bbd6e2a435" name="a5ce3ea201b2a7f6bc16e5594e001680ba93cba07454f06a4a960172bbd6e2a435"></a>Yes&#160;</td><td class="fielddoc"></td></tr>
-</table>
-<div class="fragment"><div class="line"><span class="lineno">   34</span>    {</div>
-<div class="line"><span class="lineno">   35</span>        <a class="code hl_enumvalue" href="../../d7/d64/a05180.html#a5ce3ea201b2a7f6bc16e5594e001680babafd7322c6e97d25b6299b5d6fe8920b">No</a> = <span class="keyword">false</span>,</div>
-<div class="line"><span class="lineno">   36</span>        <a class="code hl_enumvalue" href="../../d7/d64/a05180.html#a5ce3ea201b2a7f6bc16e5594e001680ba93cba07454f06a4a960172bbd6e2a435">Yes</a> = <span class="keyword">true</span></div>
-<div class="line"><span class="lineno">   37</span>    };</div>
-<div class="ttc" id="aa05180_html_a5ce3ea201b2a7f6bc16e5594e001680ba93cba07454f06a4a960172bbd6e2a435"><div class="ttname"><a href="../../d7/d64/a05180.html#a5ce3ea201b2a7f6bc16e5594e001680ba93cba07454f06a4a960172bbd6e2a435">ConfigValueCache::Reloadable::Yes</a></div><div class="ttdeci">@ Yes</div></div>
-<div class="ttc" id="aa05180_html_a5ce3ea201b2a7f6bc16e5594e001680babafd7322c6e97d25b6299b5d6fe8920b"><div class="ttname"><a href="../../d7/d64/a05180.html#a5ce3ea201b2a7f6bc16e5594e001680babafd7322c6e97d25b6299b5d6fe8920b">ConfigValueCache::Reloadable::No</a></div><div class="ttdeci">@ No</div></div>
-</div><!-- fragment -->
+
+</div>
+</div>
+<a id="ad479930aa60f991335d4cf68251958bb" name="ad479930aa60f991335d4cf68251958bb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad479930aa60f991335d4cf68251958bb">&#9670;&#160;</a></span>Key</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d7/d64/a05180.html#ad479930aa60f991335d4cf68251958bb">Acore::Crypto::AES::Key</a> =  std::array&lt;<a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, <a class="el" href="../../d7/d64/a05180.html#a03df6b128e9d2553c44e71680ca79cb5">KEY_SIZE_BYTES</a>&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad6abd9fd7a9b7bafc4c300ebca415a1e" name="ad6abd9fd7a9b7bafc4c300ebca415a1e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad6abd9fd7a9b7bafc4c300ebca415a1e">&#9670;&#160;</a></span>Tag</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="../../d7/d64/a05180.html#ad6abd9fd7a9b7bafc4c300ebca415a1e">Acore::Crypto::AES::Tag</a> =  <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>[<a class="el" href="../../d7/d64/a05180.html#a0a7619278214bbe6b2bd5ad003828ef0">TAG_SIZE_BYTES</a>]</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
 </div>
 </div>
 <h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="afc10aa10787175aac1155ab576c44868" name="afc10aa10787175aac1155ab576c44868"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afc10aa10787175aac1155ab576c44868">&#9670;&#160;</a></span>ConfigValueCache()</h2>
+<a id="a75c197cecf7cd7230a1a9f64e8ec9f00" name="a75c197cecf7cd7230a1a9f64e8ec9f00"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a75c197cecf7cd7230a1a9f64e8ec9f00">&#9670;&#160;</a></span>AES()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename ConfigEnum &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/d64/a05180.html">ConfigValueCache</a>&lt; ConfigEnum &gt;<a class="el" href="../../d7/d64/a05180.html">::ConfigValueCache</a> </td>
+          <td class="memname">Acore::Crypto::AES::AES </td>
           <td>(</td>
-          <td class="paramtype">ConfigEnum const&#160;</td>
-          <td class="paramname"><em>configCount</em></td><td>)</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>encrypting</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">explicit</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   40</span>    {</div>
-<div class="line"><span class="lineno">   41</span>        <a class="code hl_variable" href="../../d7/d64/a05180.html#aaca9aa5722cca588ed3149dc5b5098f3">_configs</a>.resize(<span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(configCount));</div>
-<div class="line"><span class="lineno">   42</span>        <a class="code hl_variable" href="../../d7/d64/a05180.html#a70b2a229ff1caa9924f404f5b98cf801">_reloading</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   43</span>    }</div>
-<div class="ttc" id="aa04310_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa05180_html_a70b2a229ff1caa9924f404f5b98cf801"><div class="ttname"><a href="../../d7/d64/a05180.html#a70b2a229ff1caa9924f404f5b98cf801">ConfigValueCache::_reloading</a></div><div class="ttdeci">bool _reloading</div><div class="ttdef"><b>Definition:</b> ConfigValueCache.h:142</div></div>
-<div class="ttc" id="aa05180_html_aaca9aa5722cca588ed3149dc5b5098f3"><div class="ttname"><a href="../../d7/d64/a05180.html#aaca9aa5722cca588ed3149dc5b5098f3">ConfigValueCache::_configs</a></div><div class="ttdeci">std::vector&lt; std::variant&lt; std::monostate, float, bool, uint32, std::string &gt; &gt; _configs</div><div class="ttdef"><b>Definition:</b> ConfigValueCache.h:141</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   22</span>                                   : <a class="code hl_variable" href="../../d7/d64/a05180.html#ae461a0a028ca8d02af56496252e6322d">_ctx</a>(EVP_CIPHER_CTX_new()), <a class="code hl_variable" href="../../d7/d64/a05180.html#ac5e1bc89ac1c21f97994db7c76ae4e4e">_encrypting</a>(encrypting)</div>
+<div class="line"><span class="lineno">   23</span>{</div>
+<div class="line"><span class="lineno">   24</span>    EVP_CIPHER_CTX_init(<a class="code hl_variable" href="../../d7/d64/a05180.html#ae461a0a028ca8d02af56496252e6322d">_ctx</a>);</div>
+<div class="line"><span class="lineno">   25</span>    <span class="keywordtype">int</span> status = EVP_CipherInit_ex(<a class="code hl_variable" href="../../d7/d64/a05180.html#ae461a0a028ca8d02af56496252e6322d">_ctx</a>, EVP_aes_128_gcm(), <span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, <a class="code hl_variable" href="../../d7/d64/a05180.html#ac5e1bc89ac1c21f97994db7c76ae4e4e">_encrypting</a> ? 1 : 0);</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_define" href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(status);</div>
+<div class="line"><span class="lineno">   27</span>}</div>
+<div class="ttc" id="aa04547_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa05180_html_ac5e1bc89ac1c21f97994db7c76ae4e4e"><div class="ttname"><a href="../../d7/d64/a05180.html#ac5e1bc89ac1c21f97994db7c76ae4e4e">Acore::Crypto::AES::_encrypting</a></div><div class="ttdeci">bool _encrypting</div><div class="ttdef"><b>Definition:</b> AES.h:47</div></div>
+<div class="ttc" id="aa05180_html_ae461a0a028ca8d02af56496252e6322d"><div class="ttname"><a href="../../d7/d64/a05180.html#ae461a0a028ca8d02af56496252e6322d">Acore::Crypto::AES::_ctx</a></div><div class="ttdeci">EVP_CIPHER_CTX * _ctx</div><div class="ttdef"><b>Definition:</b> AES.h:46</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00141">ConfigValueCache&lt; ConfigEnum &gt;::_configs</a>, and <a class="el" href="../../#l00142">ConfigValueCache&lt; ConfigEnum &gt;::_reloading</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00046">_ctx</a>, <a class="el" href="../../#l00047">_encrypting</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
 
+</div>
+</div>
+<a id="abcdb72bef5a57586630650372c339410" name="abcdb72bef5a57586630650372c339410"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abcdb72bef5a57586630650372c339410">&#9670;&#160;</a></span>~AES()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Acore::Crypto::AES::~AES </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   30</span>{</div>
+<div class="line"><span class="lineno">   31</span>    EVP_CIPHER_CTX_free(<a class="code hl_variable" href="../../d7/d64/a05180.html#ae461a0a028ca8d02af56496252e6322d">_ctx</a>);</div>
+<div class="line"><span class="lineno">   32</span>}</div>
+</div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a8e49c987c471c98f707ffc8c697d959d" name="a8e49c987c471c98f707ffc8c697d959d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8e49c987c471c98f707ffc8c697d959d">&#9670;&#160;</a></span>BuildConfigCache()</h2>
+<a id="a910f4dcbbd2868264d4b11f3041c833d" name="a910f4dcbbd2868264d4b11f3041c833d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a910f4dcbbd2868264d4b11f3041c833d">&#9670;&#160;</a></span>Init()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename ConfigEnum &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual void <a class="el" href="../../d7/d64/a05180.html">ConfigValueCache</a>&lt; ConfigEnum &gt;::BuildConfigCache </td>
+          <td class="memname">void Acore::Crypto::AES::Init </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d7/d64/a05180.html#ad479930aa60f991335d4cf68251958bb">Key</a> const &amp;&#160;</td>
+          <td class="paramname"><em>key</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">pure virtual</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-
-<p>Implemented in <a class="el" href="../../d7/d74/a11752.html#aaf6bfad583f3a2dbb1e9ea2487dd2c9d">WorldConfig</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00045">ConfigValueCache&lt; ConfigEnum &gt;::Initialize()</a>.</p>
-
-</div>
-</div>
-<a id="a274d23acbfb0b10d6b1482bf37b41b0c" name="a274d23acbfb0b10d6b1482bf37b41b0c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a274d23acbfb0b10d6b1482bf37b41b0c">&#9670;&#160;</a></span>GetConfigValue() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename ConfigEnum &gt; </div>
-<div class="memtemplate">
-template&lt;class T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">T <a class="el" href="../../d7/d64/a05180.html">ConfigValueCache</a>&lt; ConfigEnum &gt;::GetConfigValue </td>
-          <td>(</td>
-          <td class="paramtype">ConfigEnum const&#160;</td>
-          <td class="paramname"><em>config</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   98</span>    {</div>
-<div class="line"><span class="lineno">   99</span>        <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> configIndex = <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(config);</div>
-<div class="line"><span class="lineno">  100</span>        <a class="code hl_define" href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(configIndex &lt; <a class="code hl_variable" href="../../d7/d64/a05180.html#aaca9aa5722cca588ed3149dc5b5098f3">_configs</a>.size(), <span class="stringliteral">&quot;Config index out of bounds&quot;</span>);</div>
-<div class="line"><span class="lineno">  101</span>        <a class="code hl_define" href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_variable" href="../../d7/d64/a05180.html#aaca9aa5722cca588ed3149dc5b5098f3">_configs</a>[configIndex].index() != 0, <span class="stringliteral">&quot;Config value must already be set&quot;</span>);</div>
-<div class="line"><span class="lineno">  102</span> </div>
-<div class="line"><span class="lineno">  103</span>        T <span class="keyword">const</span>* value = std::get_if&lt;T&gt;(&amp;<a class="code hl_variable" href="../../d7/d64/a05180.html#aaca9aa5722cca588ed3149dc5b5098f3">_configs</a>[configIndex]);</div>
-<div class="line"><span class="lineno">  104</span>        <a class="code hl_define" href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(value, <span class="stringliteral">&quot;Wrong config variant type&quot;</span>);</div>
-<div class="line"><span class="lineno">  105</span> </div>
-<div class="line"><span class="lineno">  106</span>        <span class="keywordflow">return</span> *value;</div>
-<div class="line"><span class="lineno">  107</span>    }</div>
-<div class="ttc" id="aa04547_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   35</span>{</div>
+<div class="line"><span class="lineno">   36</span>    <span class="keywordtype">int</span> status = EVP_CipherInit_ex(<a class="code hl_variable" href="../../d7/d64/a05180.html#ae461a0a028ca8d02af56496252e6322d">_ctx</a>, <span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, key.data(), <span class="keyword">nullptr</span>, -1);</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_define" href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(status);</div>
+<div class="line"><span class="lineno">   38</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00141">ConfigValueCache&lt; ConfigEnum &gt;::_configs</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01334">World::getBoolConfig()</a>, <a class="el" href="../../#l01344">World::getFloatConfig()</a>, <a class="el" href="../../#l01354">World::getIntConfig()</a>, and <a class="el" href="../../#l01364">World::getStringConfig()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>.</p>
 
 </div>
 </div>
-<a id="a9a3a6bb71fd3c695625d5dc64525fb51" name="a9a3a6bb71fd3c695625d5dc64525fb51"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9a3a6bb71fd3c695625d5dc64525fb51">&#9670;&#160;</a></span>GetConfigValue() <span class="overload">[2/2]</span></h2>
+<a id="a9933ca01e34684d466bc364dda11a30a" name="a9933ca01e34684d466bc364dda11a30a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9933ca01e34684d466bc364dda11a30a">&#9670;&#160;</a></span>Process()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename ConfigEnum &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::string_view <a class="el" href="../../d7/d64/a05180.html">ConfigValueCache</a>&lt; ConfigEnum &gt;::GetConfigValue </td>
+          <td class="memname">bool Acore::Crypto::AES::Process </td>
           <td>(</td>
-          <td class="paramtype">ConfigEnum const&#160;</td>
-          <td class="paramname"><em>config</em></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  111</span>    {</div>
-<div class="line"><span class="lineno">  112</span>        <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> configIndex = <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(config);</div>
-<div class="line"><span class="lineno">  113</span>        <a class="code hl_define" href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(configIndex &lt; <a class="code hl_variable" href="../../d7/d64/a05180.html#aaca9aa5722cca588ed3149dc5b5098f3">_configs</a>.size(), <span class="stringliteral">&quot;Config index out of bounds&quot;</span>);</div>
-<div class="line"><span class="lineno">  114</span>        <a class="code hl_define" href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_variable" href="../../d7/d64/a05180.html#aaca9aa5722cca588ed3149dc5b5098f3">_configs</a>[configIndex].index() != 0, <span class="stringliteral">&quot;Config value must already be set&quot;</span>);</div>
-<div class="line"><span class="lineno">  115</span> </div>
-<div class="line"><span class="lineno">  116</span>        std::string <span class="keyword">const</span>* stringValue = std::get_if&lt;std::string&gt;(&amp;<a class="code hl_variable" href="../../d7/d64/a05180.html#aaca9aa5722cca588ed3149dc5b5098f3">_configs</a>[configIndex]);</div>
-<div class="line"><span class="lineno">  117</span>        <a class="code hl_define" href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(stringValue, <span class="stringliteral">&quot;Wrong config variant type&quot;</span>);</div>
-<div class="line"><span class="lineno">  118</span> </div>
-<div class="line"><span class="lineno">  119</span>        <span class="keywordflow">return</span> std::string_view(*stringValue);</div>
-<div class="line"><span class="lineno">  120</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00141">ConfigValueCache&lt; ConfigEnum &gt;::_configs</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
-
-</div>
-</div>
-<a id="a3645d00d7d88bac526ab2da095e2893e" name="a3645d00d7d88bac526ab2da095e2893e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3645d00d7d88bac526ab2da095e2893e">&#9670;&#160;</a></span>Initialize()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename ConfigEnum &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../d7/d64/a05180.html">ConfigValueCache</a>&lt; ConfigEnum &gt;::Initialize </td>
-          <td>(</td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>reload</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   46</span>    {</div>
-<div class="line"><span class="lineno">   47</span>        <a class="code hl_variable" href="../../d7/d64/a05180.html#a70b2a229ff1caa9924f404f5b98cf801">_reloading</a> = reload;</div>
-<div class="line"><span class="lineno">   48</span>        <a class="code hl_function" href="../../d7/d64/a05180.html#a8e49c987c471c98f707ffc8c697d959d">BuildConfigCache</a>();</div>
-<div class="line"><span class="lineno">   49</span>        <a class="code hl_variable" href="../../d7/d64/a05180.html#a70b2a229ff1caa9924f404f5b98cf801">_reloading</a> = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   50</span>        <a class="code hl_function" href="../../d7/d64/a05180.html#a69bceb7d8f714b478dfe6e6aea29c65a">VerifyAllConfigsLoaded</a>();</div>
-<div class="line"><span class="lineno">   51</span>    }</div>
-<div class="ttc" id="aa05180_html_a69bceb7d8f714b478dfe6e6aea29c65a"><div class="ttname"><a href="../../d7/d64/a05180.html#a69bceb7d8f714b478dfe6e6aea29c65a">ConfigValueCache::VerifyAllConfigsLoaded</a></div><div class="ttdeci">void VerifyAllConfigsLoaded()</div><div class="ttdef"><b>Definition:</b> ConfigValueCache.h:126</div></div>
-<div class="ttc" id="aa05180_html_a8e49c987c471c98f707ffc8c697d959d"><div class="ttname"><a href="../../d7/d64/a05180.html#a8e49c987c471c98f707ffc8c697d959d">ConfigValueCache::BuildConfigCache</a></div><div class="ttdeci">virtual void BuildConfigCache()=0</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00142">ConfigValueCache&lt; ConfigEnum &gt;::_reloading</a>, <a class="el" href="../../d7/d64/a05180.html#a8e49c987c471c98f707ffc8c697d959d">ConfigValueCache&lt; ConfigEnum &gt;::BuildConfigCache()</a>, and <a class="el" href="../../#l00126">ConfigValueCache&lt; ConfigEnum &gt;::VerifyAllConfigsLoaded()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00164">World::LoadConfigSettings()</a>.</p>
-
-</div>
-</div>
-<a id="a38f4fd18a5b1bcf1a87736b6e7bf52cf" name="a38f4fd18a5b1bcf1a87736b6e7bf52cf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a38f4fd18a5b1bcf1a87736b6e7bf52cf">&#9670;&#160;</a></span>OverwriteConfigValue()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename ConfigEnum &gt; </div>
-<div class="memtemplate">
-template&lt;class T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../d7/d64/a05180.html">ConfigValueCache</a>&lt; ConfigEnum &gt;::OverwriteConfigValue </td>
-          <td>(</td>
-          <td class="paramtype">ConfigEnum const&#160;</td>
-          <td class="paramname"><em>config</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d7/d64/a05180.html#a3ab3c73ca75661d53842f924f9914656">IV</a> const &amp;&#160;</td>
+          <td class="paramname"><em>iv</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">T const &amp;&#160;</td>
-          <td class="paramname"><em>value</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> *&#160;</td>
+          <td class="paramname"><em>data</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::size_t&#160;</td>
+          <td class="paramname"><em>length</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d7/d64/a05180.html#ad6abd9fd7a9b7bafc4c300ebca415a1e">Tag</a> &amp;&#160;</td>
+          <td class="paramname"><em>tag</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -425,181 +315,49 @@ template&lt;class T &gt; </div>
           <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   87</span>    {</div>
-<div class="line"><span class="lineno">   88</span>        <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> configIndex = <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(config);</div>
-<div class="line"><span class="lineno">   89</span>        <a class="code hl_define" href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(configIndex &lt; <a class="code hl_variable" href="../../d7/d64/a05180.html#aaca9aa5722cca588ed3149dc5b5098f3">_configs</a>.size(), <span class="stringliteral">&quot;Config index out of bounds&quot;</span>);</div>
-<div class="line"><span class="lineno">   90</span>        <span class="keywordtype">size_t</span> <span class="keyword">const</span> oldValueTypeIndex = <a class="code hl_variable" href="../../d7/d64/a05180.html#aaca9aa5722cca588ed3149dc5b5098f3">_configs</a>[configIndex].index();</div>
-<div class="line"><span class="lineno">   91</span>        <a class="code hl_define" href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(oldValueTypeIndex != 0, <span class="stringliteral">&quot;Config value must already be set&quot;</span>);</div>
-<div class="line"><span class="lineno">   92</span>        <a class="code hl_variable" href="../../d7/d64/a05180.html#aaca9aa5722cca588ed3149dc5b5098f3">_configs</a>[configIndex] = value;</div>
-<div class="line"><span class="lineno">   93</span>        <a class="code hl_define" href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(oldValueTypeIndex == <a class="code hl_variable" href="../../d7/d64/a05180.html#aaca9aa5722cca588ed3149dc5b5098f3">_configs</a>[configIndex].index(), <span class="stringliteral">&quot;Config value type changed&quot;</span>);</div>
-<div class="line"><span class="lineno">   94</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   41</span>{</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_define" href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(length &lt;= <span class="keyword">static_cast&lt;</span><span class="keywordtype">size_t</span><span class="keyword">&gt;</span>(std::numeric_limits&lt;int&gt;::max()));</div>
+<div class="line"><span class="lineno">   43</span>    <span class="keywordtype">int</span> len = <span class="keyword">static_cast&lt;</span><span class="keywordtype">int</span><span class="keyword">&gt;</span>(length);</div>
+<div class="line"><span class="lineno">   44</span>    <span class="keywordflow">if</span> (!EVP_CipherInit_ex(<a class="code hl_variable" href="../../d7/d64/a05180.html#ae461a0a028ca8d02af56496252e6322d">_ctx</a>, <span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, <span class="keyword">nullptr</span>, iv.data(), -1))</div>
+<div class="line"><span class="lineno">   45</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   46</span> </div>
+<div class="line"><span class="lineno">   47</span>    <span class="keywordtype">int</span> outLen;</div>
+<div class="line"><span class="lineno">   48</span>    <span class="keywordflow">if</span> (!EVP_CipherUpdate(<a class="code hl_variable" href="../../d7/d64/a05180.html#ae461a0a028ca8d02af56496252e6322d">_ctx</a>, data, &amp;outLen, data, len))</div>
+<div class="line"><span class="lineno">   49</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   50</span> </div>
+<div class="line"><span class="lineno">   51</span>    len -= outLen;</div>
+<div class="line"><span class="lineno">   52</span> </div>
+<div class="line"><span class="lineno">   53</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d7/d64/a05180.html#ac5e1bc89ac1c21f97994db7c76ae4e4e">_encrypting</a> &amp;&amp; !EVP_CIPHER_CTX_ctrl(<a class="code hl_variable" href="../../d7/d64/a05180.html#ae461a0a028ca8d02af56496252e6322d">_ctx</a>, EVP_CTRL_GCM_SET_TAG, <span class="keyword">sizeof</span>(tag), tag))</div>
+<div class="line"><span class="lineno">   54</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   55</span> </div>
+<div class="line"><span class="lineno">   56</span>    <span class="keywordflow">if</span> (!EVP_CipherFinal_ex(<a class="code hl_variable" href="../../d7/d64/a05180.html#ae461a0a028ca8d02af56496252e6322d">_ctx</a>, data + outLen, &amp;outLen))</div>
+<div class="line"><span class="lineno">   57</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   58</span> </div>
+<div class="line"><span class="lineno">   59</span>    <a class="code hl_define" href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(len == outLen);</div>
+<div class="line"><span class="lineno">   60</span> </div>
+<div class="line"><span class="lineno">   61</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d64/a05180.html#ac5e1bc89ac1c21f97994db7c76ae4e4e">_encrypting</a> &amp;&amp; !EVP_CIPHER_CTX_ctrl(<a class="code hl_variable" href="../../d7/d64/a05180.html#ae461a0a028ca8d02af56496252e6322d">_ctx</a>, EVP_CTRL_GCM_GET_TAG, <span class="keyword">sizeof</span>(tag), tag))</div>
+<div class="line"><span class="lineno">   62</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   63</span> </div>
+<div class="line"><span class="lineno">   64</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   65</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00141">ConfigValueCache&lt; ConfigEnum &gt;::_configs</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00164">World::LoadConfigSettings()</a>, <a class="el" href="../../#l01329">World::setBoolConfig()</a>, <a class="el" href="../../#l01339">World::setFloatConfig()</a>, <a class="el" href="../../#l01349">World::setIntConfig()</a>, and <a class="el" href="../../#l01359">World::setStringConfig()</a>.</p>
-
-</div>
-</div>
-<a id="a2fd376bdf015db27133e636c3051410f" name="a2fd376bdf015db27133e636c3051410f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2fd376bdf015db27133e636c3051410f">&#9670;&#160;</a></span>SetConfigValue()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename ConfigEnum &gt; </div>
-<div class="memtemplate">
-template&lt;class T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../d7/d64/a05180.html">ConfigValueCache</a>&lt; ConfigEnum &gt;::SetConfigValue </td>
-          <td>(</td>
-          <td class="paramtype">ConfigEnum const&#160;</td>
-          <td class="paramname"><em>config</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>configName</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">T const &amp;&#160;</td>
-          <td class="paramname"><em>defaultValue</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d7/d64/a05180.html#a5ce3ea201b2a7f6bc16e5594e001680b">Reloadable</a>&#160;</td>
-          <td class="paramname"><em>reloadable</em> = <code><a class="el" href="../../d7/d64/a05180.html#a5ce3ea201b2a7f6bc16e5594e001680ba93cba07454f06a4a960172bbd6e2a435">Reloadable::Yes</a></code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::function&lt; bool(T const &amp;value)&gt; &amp;&amp;&#160;</td>
-          <td class="paramname"><em>checker</em> = <code>{}</code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>validationErrorText</em> = <code>&quot;&quot;</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   54</span>                                                                                                                                                                                          {}, std::string <span class="keyword">const</span>&amp; validationErrorText = <span class="stringliteral">&quot;&quot;</span>)</div>
-<div class="line"><span class="lineno">   55</span>    {</div>
-<div class="line"><span class="lineno">   56</span>        <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> <span class="keyword">const</span> configIndex = <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(config);</div>
-<div class="line"><span class="lineno">   57</span>        <a class="code hl_define" href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(configIndex &lt; <a class="code hl_variable" href="../../d7/d64/a05180.html#aaca9aa5722cca588ed3149dc5b5098f3">_configs</a>.size(), <span class="stringliteral">&quot;Config index out of bounds&quot;</span>);</div>
-<div class="line"><span class="lineno">   58</span>        T <span class="keyword">const</span>&amp; configValue = <a class="code hl_define" href="../../d0/d1f/a29977.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;T&gt;(configName, defaultValue);</div>
-<div class="line"><span class="lineno">   59</span> </div>
-<div class="line"><span class="lineno">   60</span>        <span class="keywordtype">bool</span> configValueChanged = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   61</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d7/d64/a05180.html#a70b2a229ff1caa9924f404f5b98cf801">_reloading</a>)</div>
-<div class="line"><span class="lineno">   62</span>        {</div>
-<div class="line"><span class="lineno">   63</span>            <span class="keywordflow">if</span> (std::get&lt;T&gt;(<a class="code hl_variable" href="../../d7/d64/a05180.html#aaca9aa5722cca588ed3149dc5b5098f3">_configs</a>[configIndex]) != configValue)</div>
-<div class="line"><span class="lineno">   64</span>                configValueChanged = <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   65</span> </div>
-<div class="line"><span class="lineno">   66</span>            <span class="keywordflow">if</span> (reloadable == <a class="code hl_enumvalue" href="../../d7/d64/a05180.html#a5ce3ea201b2a7f6bc16e5594e001680babafd7322c6e97d25b6299b5d6fe8920b">Reloadable::No</a>)</div>
-<div class="line"><span class="lineno">   67</span>            {</div>
-<div class="line"><span class="lineno">   68</span>                <span class="keywordflow">if</span> (configValueChanged)</div>
-<div class="line"><span class="lineno">   69</span>                    <a class="code hl_define" href="../../d9/d32/a04640.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Server Config (Name: {}) cannot be changed by reload. A server restart is required to update this config value.&quot;</span>, configName);</div>
-<div class="line"><span class="lineno">   70</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   71</span>            }</div>
-<div class="line"><span class="lineno">   72</span>        }</div>
-<div class="line"><span class="lineno">   73</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   74</span>            <a class="code hl_define" href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_variable" href="../../d7/d64/a05180.html#aaca9aa5722cca588ed3149dc5b5098f3">_configs</a>[configIndex].index() == 0, <span class="stringliteral">&quot;Config overwriting an existing value&quot;</span>);</div>
-<div class="line"><span class="lineno">   75</span> </div>
-<div class="line"><span class="lineno">   76</span>        <span class="keywordflow">if</span> (checker &amp;&amp; !checker(configValue))</div>
-<div class="line"><span class="lineno">   77</span>        {</div>
-<div class="line"><span class="lineno">   78</span>            <a class="code hl_define" href="../../d9/d32/a04640.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Server Config (Name: {}) failed validation check &#39;{}&#39;. Default value &#39;{}&#39; will be used instead.&quot;</span>, configName, validationErrorText, defaultValue);</div>
-<div class="line"><span class="lineno">   79</span>            <a class="code hl_variable" href="../../d7/d64/a05180.html#aaca9aa5722cca588ed3149dc5b5098f3">_configs</a>[configIndex] = defaultValue;</div>
-<div class="line"><span class="lineno">   80</span>        }</div>
-<div class="line"><span class="lineno">   81</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">   82</span>            <a class="code hl_variable" href="../../d7/d64/a05180.html#aaca9aa5722cca588ed3149dc5b5098f3">_configs</a>[configIndex] = configValue;</div>
-<div class="line"><span class="lineno">   83</span>    }</div>
-<div class="ttc" id="aa04640_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d9/d32/a04640.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
-<div class="ttc" id="aa29977_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../d0/d1f/a29977.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:93</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a69bceb7d8f714b478dfe6e6aea29c65a" name="a69bceb7d8f714b478dfe6e6aea29c65a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a69bceb7d8f714b478dfe6e6aea29c65a">&#9670;&#160;</a></span>VerifyAllConfigsLoaded()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename ConfigEnum &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../d7/d64/a05180.html">ConfigValueCache</a>&lt; ConfigEnum &gt;::VerifyAllConfigsLoaded </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  127</span>    {</div>
-<div class="line"><span class="lineno">  128</span>        <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> configIndex = 0;</div>
-<div class="line"><span class="lineno">  129</span>        <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; variant : <a class="code hl_variable" href="../../d7/d64/a05180.html#aaca9aa5722cca588ed3149dc5b5098f3">_configs</a>)</div>
-<div class="line"><span class="lineno">  130</span>        {</div>
-<div class="line"><span class="lineno">  131</span>            <span class="keywordflow">if</span> (variant.index() == 0)</div>
-<div class="line"><span class="lineno">  132</span>            {</div>
-<div class="line"><span class="lineno">  133</span>                <a class="code hl_define" href="../../d9/d32/a04640.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Server Config (Index: {}) is defined but not loaded, unable to continue.&quot;</span>, configIndex);</div>
-<div class="line"><span class="lineno">  134</span>                <a class="code hl_define" href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno">  135</span>            }</div>
-<div class="line"><span class="lineno">  136</span> </div>
-<div class="line"><span class="lineno">  137</span>            ++configIndex;</div>
-<div class="line"><span class="lineno">  138</span>        }</div>
-<div class="line"><span class="lineno">  139</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00141">ConfigValueCache&lt; ConfigEnum &gt;::_configs</a>, <a class="el" href="../../#l00068">ASSERT</a>, and <a class="el" href="../../#l00158">LOG_ERROR</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00045">ConfigValueCache&lt; ConfigEnum &gt;::Initialize()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="aaca9aa5722cca588ed3149dc5b5098f3" name="aaca9aa5722cca588ed3149dc5b5098f3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaca9aa5722cca588ed3149dc5b5098f3">&#9670;&#160;</a></span>_configs</h2>
+<a id="ae461a0a028ca8d02af56496252e6322d" name="ae461a0a028ca8d02af56496252e6322d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae461a0a028ca8d02af56496252e6322d">&#9670;&#160;</a></span>_ctx</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename ConfigEnum &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::vector&lt;std::variant&lt;std::monostate, float, bool, <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, std::string&gt; &gt; <a class="el" href="../../d7/d64/a05180.html">ConfigValueCache</a>&lt; ConfigEnum &gt;::_configs</td>
+          <td class="memname">EVP_CIPHER_CTX* Acore::Crypto::AES::_ctx</td>
         </tr>
       </table>
   </td>
@@ -609,23 +367,21 @@ template&lt;typename ConfigEnum &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00039">ConfigValueCache&lt; ConfigEnum &gt;::ConfigValueCache()</a>, <a class="el" href="../../#l00097">ConfigValueCache&lt; ConfigEnum &gt;::GetConfigValue()</a>, <a class="el" href="../../#l00086">ConfigValueCache&lt; ConfigEnum &gt;::OverwriteConfigValue()</a>, and <a class="el" href="../../#l00126">ConfigValueCache&lt; ConfigEnum &gt;::VerifyAllConfigsLoaded()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00022">AES()</a>.</p>
 
 </div>
 </div>
-<a id="a70b2a229ff1caa9924f404f5b98cf801" name="a70b2a229ff1caa9924f404f5b98cf801"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a70b2a229ff1caa9924f404f5b98cf801">&#9670;&#160;</a></span>_reloading</h2>
+<a id="ac5e1bc89ac1c21f97994db7c76ae4e4e" name="ac5e1bc89ac1c21f97994db7c76ae4e4e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac5e1bc89ac1c21f97994db7c76ae4e4e">&#9670;&#160;</a></span>_encrypting</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename ConfigEnum &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool <a class="el" href="../../d7/d64/a05180.html">ConfigValueCache</a>&lt; ConfigEnum &gt;::_reloading</td>
+          <td class="memname">bool Acore::Crypto::AES::_encrypting</td>
         </tr>
       </table>
   </td>
@@ -635,7 +391,79 @@ template&lt;typename ConfigEnum &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00039">ConfigValueCache&lt; ConfigEnum &gt;::ConfigValueCache()</a>, and <a class="el" href="../../#l00045">ConfigValueCache&lt; ConfigEnum &gt;::Initialize()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00022">AES()</a>.</p>
+
+</div>
+</div>
+<a id="a5c62e48e8791379cdcdb5d20c018f0ea" name="a5c62e48e8791379cdcdb5d20c018f0ea"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5c62e48e8791379cdcdb5d20c018f0ea">&#9670;&#160;</a></span>IV_SIZE_BYTES</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr std::size_t Acore::Crypto::AES::IV_SIZE_BYTES = 12</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00579">account_commandscript::HandleAccountSet2FACommand()</a>.</p>
+
+</div>
+</div>
+<a id="a03df6b128e9d2553c44e71680ca79cb5" name="a03df6b128e9d2553c44e71680ca79cb5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a03df6b128e9d2553c44e71680ca79cb5">&#9670;&#160;</a></span>KEY_SIZE_BYTES</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr std::size_t Acore::Crypto::AES::KEY_SIZE_BYTES = 16</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00171">SecretMgr::AttemptTransition()</a>.</p>
+
+</div>
+</div>
+<a id="a0a7619278214bbe6b2bd5ad003828ef0" name="a0a7619278214bbe6b2bd5ad003828ef0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0a7619278214bbe6b2bd5ad003828ef0">&#9670;&#160;</a></span>TAG_SIZE_BYTES</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">constexpr std::size_t Acore::Crypto::AES::TAG_SIZE_BYTES = 12</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00579">account_commandscript::HandleAccountSet2FACommand()</a>.</p>
 
 </div>
 </div>
@@ -644,8 +472,8 @@ template&lt;typename ConfigEnum &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d7/d64/a05180.html">ConfigValueCache</a></li>
-    <li class="footer">Generated on Mon Nov 10 2025 20:53:20 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/d62/a04803.html">Acore</a></li><li class="navelem"><a class="el" href="../../d0/de6/a04814.html">Crypto</a></li><li class="navelem"><a class="el" href="../../d7/d64/a05180.html">AES</a></li>
+    <li class="footer">Generated on Mon Nov 17 2025 20:46:49 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,5 +1,6 @@
 var a17972 =
 [
-    [ "at_lady_deathwhisper_entrance", "dc/d24/a17972.html#a3c16844f4ff97fd0699edb1d1aca2f60", null ],
-    [ "OnTrigger", "dc/d24/a17972.html#a769c838c94a88af5492057909d88f3de", null ]
+    [ "npc_coldflameAI", "d0/d32/a17976.html", "d0/d32/a17976" ],
+    [ "npc_coldflame", "dc/d24/a17972.html#a573b887358e2ba2281c4c119a267c33f", null ],
+    [ "GetAI", "dc/d24/a17972.html#ac33d0528cdc3c3a0fb7acc4d46b1c2b1", null ]
 ];

@@ -1,9 +1,7 @@
 var a11224 =
 [
-    [ "EncryptableAndCompressiblePacket", "d7/dc9/a11224.html#a64eb3fa6b02a6aff486aa2d9a4d09fc6", null ],
-    [ "CompressIfNeeded", "d7/dc9/a11224.html#a113d89a8f2832c5db01611ff71d2bc73", null ],
-    [ "NeedsCompression", "d7/dc9/a11224.html#ad376b973f02c1b0cd2afbb43cc081917", null ],
-    [ "NeedsEncryption", "d7/dc9/a11224.html#a114e5d6da2e81a26e478f7aea287d08a", null ],
-    [ "_encrypt", "d7/dc9/a11224.html#a37a68eddad23001a85a4a2f77e237810", null ],
-    [ "SocketQueueLink", "d7/dc9/a11224.html#a88f11ce75f439fd290bdc09156d559c2", null ]
+    [ "IsValidOpcode", "d7/dc9/a11224.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
+    [ "IsValidSize", "d7/dc9/a11224.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
+    [ "cmd", "d7/dc9/a11224.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
+    [ "size", "d7/dc9/a11224.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
 ];

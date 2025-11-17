@@ -1,7 +1,8 @@
 var a24104 =
 [
-    [ "HandleDamage", "d5/dde/a24104.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "d5/dde/a24104.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "d5/dde/a24104.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "d5/dde/a24104.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "instance_mechanar_InstanceMapScript", "d5/dde/a24104.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
+    [ "OnCreatureCreate", "d5/dde/a24104.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
+    [ "OnGameObjectCreate", "d5/dde/a24104.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
+    [ "OnGameObjectRemove", "d5/dde/a24104.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
+    [ "_pathaleonGUID", "d5/dde/a24104.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
 ];

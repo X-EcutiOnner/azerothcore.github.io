@@ -1,8 +1,14 @@
 var a24596 =
 [
-    [ "npc_pet_gen_wind_rider_cub", "d2/dee/a24596.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
-    [ "UpdateAI", "d2/dee/a24596.html#a534d122522d553e106e6c7729d6c55db", null ],
-    [ "checkTimer", "d2/dee/a24596.html#a39fcfc5f5d9a630180713512db778b32", null ],
-    [ "checkTimer2", "d2/dee/a24596.html#aabeaf7a9b5b77df540e1111950860e98", null ],
-    [ "isFlying", "d2/dee/a24596.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
+    [ "npc_pet_mage_mirror_image", "d2/dee/a24596.html#a2761cc9bf3a8bb7908d3db6d929721ba", null ],
+    [ "EnterEvadeMode", "d2/dee/a24596.html#a858b070fb53112dc78554f0b20cd876a", null ],
+    [ "InitializeAI", "d2/dee/a24596.html#a66d513908aa88504d0cbe4ce9bf222be", null ],
+    [ "MySelectNextTarget", "d2/dee/a24596.html#a49d57ba93cd88816f68c16d56d3b8cd2", null ],
+    [ "Reset", "d2/dee/a24596.html#a79a8c153ab61c619d928ec5535e67077", null ],
+    [ "UpdateAI", "d2/dee/a24596.html#aa219b3adc38b625c6885089895b941b4", null ],
+    [ "_delayAttack", "d2/dee/a24596.html#ab65a74ef0f1e253bf9df4e4f7c6856a3", null ],
+    [ "_ebonGargoyleGUID", "d2/dee/a24596.html#a8be57d06114f108e74b850ce66722bf3", null ],
+    [ "checktarget", "d2/dee/a24596.html#a074611355768dc2072da69ed9d72242b", null ],
+    [ "dist", "d2/dee/a24596.html#a7fcde453faf05a64e4c7099d840c0e2b", null ],
+    [ "selectionTimer", "d2/dee/a24596.html#a7d7a6ebd88afecd7ae7aaeda0cee6cf7", null ]
 ];

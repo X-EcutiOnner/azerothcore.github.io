@@ -1,6 +1,6 @@
 var a27192 =
 [
-    [ "CalculateAmount", "df/de2/a27192.html#a94b6fab25e8cb298650f2a1e2d0b4347", null ],
-    [ "PrepareAuraScript", "df/de2/a27192.html#a845476e27b3751fd5aab505d41d8696d", null ],
-    [ "Register", "df/de2/a27192.html#aa5141f11bcd97cc501297a5309df1079", null ]
+    [ "HandleOnHit", "df/de2/a27192.html#a32a6f464057fbfb3bbffe0e10d1d4141", null ],
+    [ "PrepareSpellScript", "df/de2/a27192.html#adfa4da76e8c2486fbcc2b3bea0f50005", null ],
+    [ "Register", "df/de2/a27192.html#a1742dc0c039f7f981cae8114ff9ae59a", null ]
 ];

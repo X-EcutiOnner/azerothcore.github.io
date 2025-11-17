@@ -1,7 +1,9 @@
 var a11276 =
 [
-    [ "DynObjAura", "d8/d40/a11276.html#aef75bb5d60c10ac63821b0e9baf6eb7a", null ],
-    [ "FillTargetMap", "d8/d40/a11276.html#af8e36643ed675ff5652e4665bee9b0c3", null ],
-    [ "Remove", "d8/d40/a11276.html#ada3f65b4a817e2337da43da437b93a3b", null ],
-    [ "Aura::Create", "d8/d40/a11276.html#ae2c0fdfb409846fec5e861de60797112", null ]
+    [ "SpellEvent", "d8/d40/a11276.html#abca64eb7d39df9788cef9df7e8634368", null ],
+    [ "~SpellEvent", "d8/d40/a11276.html#a01f8ea354ef70d0a2ee7b88b8dd9f68e", null ],
+    [ "Abort", "d8/d40/a11276.html#ac21656467ae71def45fd78b9d1fa1c30", null ],
+    [ "Execute", "d8/d40/a11276.html#ac8158bfbe916ff6207b2f6608308ae24", null ],
+    [ "IsDeletable", "d8/d40/a11276.html#a2ecd9b31bacc717cc509eb9bb69c3cb3", null ],
+    [ "m_Spell", "d8/d40/a11276.html#a22cce1d722f5086932ae3e97c58d2921", null ]
 ];

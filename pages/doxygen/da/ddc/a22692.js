@@ -1,15 +1,5 @@
 var a22692 =
 [
-    [ "OutdoorPvPEP", "da/ddc/a22692.html#ab4915dfc03de08cad83eb48c4c789cb8", null ],
-    [ "BuffTeams", "da/ddc/a22692.html#ac6a61c19ba96ca843eb12952d0c09078", null ],
-    [ "FillInitialWorldStates", "da/ddc/a22692.html#ac1b185125fa1f8864d1062b65be24bdc", null ],
-    [ "HandlePlayerEnterZone", "da/ddc/a22692.html#a9e7404160b1220dc3cc2766a07f42ad2", null ],
-    [ "HandlePlayerLeaveZone", "da/ddc/a22692.html#a251b154abfaec9cbfb1a56e657ac5214", null ],
-    [ "SendRemoveWorldStates", "da/ddc/a22692.html#afad47628bb4cfcc6060ce35396e33d9d", null ],
-    [ "SetControlledState", "da/ddc/a22692.html#abef30d5cbe7c2cd52cd32ae29da1c9ce", null ],
-    [ "SetupOutdoorPvP", "da/ddc/a22692.html#acecc8126180c027cb3d685231e55d873", null ],
-    [ "Update", "da/ddc/a22692.html#a974910b2f7f2d8cfaf43b6694bf4c2c7", null ],
-    [ "EP_ControlsId", "da/ddc/a22692.html#a7e8fcf50f88bdb56b189877721a1f006", null ],
-    [ "m_AllianceTowersControlled", "da/ddc/a22692.html#a09e5cf029656af3fc740b236596d42ee", null ],
-    [ "m_HordeTowersControlled", "da/ddc/a22692.html#a325c16f6b5f40bd5dd5f63a9d93a8cd1", null ]
+    [ "outdoorpvp_na_halaa_creatures", "da/ddc/a22692.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
+    [ "UpdateAI", "da/ddc/a22692.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
 ];

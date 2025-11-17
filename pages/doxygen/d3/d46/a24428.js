@@ -1,6 +1,6 @@
 var a24428 =
 [
-    [ "npc_enraged_spiritAI", "dc/d57/a24432.html", "dc/d57/a24432" ],
-    [ "npc_enraged_spirit", "d3/d46/a24428.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
-    [ "GetAI", "d3/d46/a24428.html#aa10d5f0147cf4064a49df735ac95575e", null ]
+    [ "npc_shattrathflaskvendors", "d3/d46/a24428.html#ab74b234406c2022bf519242a7842458a", null ],
+    [ "OnGossipHello", "d3/d46/a24428.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
+    [ "OnGossipSelect", "d3/d46/a24428.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
 ];

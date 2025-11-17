@@ -1,6 +1,6 @@
 var a20080 =
 [
-    [ "npc_thorims_hammerAI", "d8/def/a20084.html", "d8/def/a20084" ],
-    [ "npc_thorims_hammer", "d1/d98/a20080.html#a97cbcda73931e6119f8ab30fa4bb0806", null ],
-    [ "GetAI", "d1/d98/a20080.html#aaee92d115d112ebf590cf690de8c6667", null ]
+    [ "npc_pool_of_tarAI", "d1/d98/a20080.html#a6141addc9b1cf2c0028d98ef4f4d9d37", null ],
+    [ "DamageTaken", "d1/d98/a20080.html#a4ea55aa08123f724268238e0def5b595", null ],
+    [ "SpellHit", "d1/d98/a20080.html#acb63166b396c079d5b4bb9db67a1448a", null ]
 ];

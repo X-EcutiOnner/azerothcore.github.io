@@ -1,8 +1,6 @@
 var a21932 =
 [
-    [ "npc_future_youAI", "da/d4a/a21932.html#a7608c050dd198e3133050e222b42f62b", null ],
-    [ "EnterEvadeMode", "da/d4a/a21932.html#a0b15c8af6075e323e56b2170ce4eefc0", null ],
-    [ "MoveInLineOfSight", "da/d4a/a21932.html#a35b67f9e948f5ffbde8a423190ece603", null ],
-    [ "Reset", "da/d4a/a21932.html#a01a8cd8f94dd614de2ffefdb19cd9f29", null ],
-    [ "UpdateAI", "da/d4a/a21932.html#ac110daa6b4cf6bf26d9e9f9829577fa6", null ]
+    [ "npc_mindless_ghoulAI", "da/d4a/a21932.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
+    [ "CanAIAttack", "da/d4a/a21932.html#a18fbc44ad760a69d952d003622ec75b2", null ],
+    [ "JustDied", "da/d4a/a21932.html#a272067bef6dbab24024f7de990c10b64", null ]
 ];

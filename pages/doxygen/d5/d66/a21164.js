@@ -1,6 +1,6 @@
 var a21164 =
 [
-    [ "HandleScript", "d5/d66/a21164.html#ac7fc87a7585c866aa3fa1001c803bb00", null ],
-    [ "PrepareSpellScript", "d5/d66/a21164.html#ab2a4155f6029850c61e84d7c180addae", null ],
-    [ "Register", "d5/d66/a21164.html#a7e03062d9e28ed1917b7aa63d65f22ba", null ]
+    [ "achievement_yogg_saron_darkness", "d5/d66/a21164.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
+    [ "OnCheck", "d5/d66/a21164.html#a809902fca87abaeb4334132763624ed6", null ],
+    [ "_keepersCount", "d5/d66/a21164.html#a765ec4606bb489760ed1e15db10de1dc", null ]
 ];

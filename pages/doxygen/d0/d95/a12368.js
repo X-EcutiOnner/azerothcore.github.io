@@ -1,5 +1,6 @@
 var a12368 =
 [
-    [ "go_father_flame", "d0/d95/a12368.html#aa992bd7029a56faca4b92637688fe845", null ],
-    [ "OnLootStateChanged", "d0/d95/a12368.html#a84c7055e791a3dac66b75d327c7662c3", null ]
+    [ "near_scarshield_infiltrator", "d0/d95/a12368.html#a38d2e75946c429b4d80b007f190406bc", null ],
+    [ "OnTrigger", "d0/d95/a12368.html#aeb761433e3210ce85c1de4dab653a87c", null ],
+    [ "whisperedTargets", "d0/d95/a12368.html#a5655e241d2551798a960cb6375c7df23", null ]
 ];

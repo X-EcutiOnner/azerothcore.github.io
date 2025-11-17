@@ -1,6 +1,6 @@
 var a25512 =
 [
-    [ "CalculateDamage", "db/da6/a25512.html#a2b0d2465c42bb32a2e0a2be1884eddb6", null ],
-    [ "PrepareSpellScript", "db/da6/a25512.html#a4271f026fd9cddeb109761e9b864c381", null ],
-    [ "Register", "db/da6/a25512.html#a03bb4cf19328efa783600273663b609a", null ]
+    [ "HandleScript", "db/da6/a25512.html#a5a30dc1dad5b51af02043bd85c486a68", null ],
+    [ "PrepareSpellScript", "db/da6/a25512.html#a16c358062cee300e4c54f046a6c1accf", null ],
+    [ "Register", "db/da6/a25512.html#a1f53f1345c418f82c6d140cf6cf80b3c", null ]
 ];

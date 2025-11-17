@@ -1,7 +1,7 @@
 var a26072 =
 [
-    [ "HandleHeal", "db/d26/a26072.html#ae24fd6305b5d17c2fbb6f03238b385c6", null ],
-    [ "Load", "db/d26/a26072.html#a4dd5016439e8798083fe3d4fa5458731", null ],
-    [ "PrepareSpellScript", "db/d26/a26072.html#a248ae6d2c8f8d6c014a0164105773836", null ],
-    [ "Register", "db/d26/a26072.html#af2e80d64787ad31e33d0d3c239f62c81", null ]
+    [ "HandleScript", "db/d26/a26072.html#aad0be226a2d294d3361c1afbf644c5e4", null ],
+    [ "PrepareSpellScript", "db/d26/a26072.html#a85dee311aab08d796a3a0c1bc9e9390d", null ],
+    [ "Register", "db/d26/a26072.html#a2b22be9826db241ecf3f99ff16c309c0", null ],
+    [ "Validate", "db/d26/a26072.html#a98df659504307fc0666fe2b1001eaa00", null ]
 ];

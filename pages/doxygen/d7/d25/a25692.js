@@ -1,6 +1,7 @@
 var a25692 =
 [
-    [ "CheckCast", "d7/d25/a25692.html#ac1bc3f881c31c5ab90785a62a5f5b5ae", null ],
-    [ "PrepareSpellScript", "d7/d25/a25692.html#a2a9c657ccffbacfc661c6bb1dc41d9de", null ],
-    [ "Register", "d7/d25/a25692.html#a4b34bd5ce9d3e948d6c712d71ed71b2d", null ]
+    [ "CalcPeriodic", "d7/d25/a25692.html#a5847ba4daad49dca2527513055fa4429", null ],
+    [ "PrepareAuraScript", "d7/d25/a25692.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
+    [ "Register", "d7/d25/a25692.html#a08f851e5582831d5dd05878c4a55db67", null ],
+    [ "Update", "d7/d25/a25692.html#a3ab2716cbccc1311992de44e6591d966", null ]
 ];

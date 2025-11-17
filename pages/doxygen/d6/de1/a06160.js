@@ -1,11 +1,10 @@
 var a06160 =
 [
-    [ "PossessedAI", "d6/de1/a06160.html#a29bfe06f4f6f0398e3a0a385b179cdbe", null ],
-    [ "AttackStart", "d6/de1/a06160.html#a293a49d5cffd58dff103b0aacc558cde", null ],
-    [ "EnterEvadeMode", "d6/de1/a06160.html#ad99b9c297289b819157be56d8049320e", null ],
-    [ "JustDied", "d6/de1/a06160.html#aae94a4a6d6e67d05d18573845ecebfd7", null ],
-    [ "KilledUnit", "d6/de1/a06160.html#a8e6d316c08dd6fba53c8ed2edab9ea34", null ],
-    [ "MoveInLineOfSight", "d6/de1/a06160.html#a7d81135d9c23cb9b9ec48b441dd050e2", null ],
-    [ "Permissible", "d6/de1/a06160.html#aafc2d20dff60c6e5401eaa579844430d", null ],
-    [ "UpdateAI", "d6/de1/a06160.html#a3ce62a71e3f963f0b660bc987bf85051", null ]
+    [ "NullCreatureAI", "d6/de1/a06160.html#aa9969eeb9a79559c9f2d3bd907b3fd85", null ],
+    [ "AttackStart", "d6/de1/a06160.html#a94d4594e1f39143ea41ce00aeecec4b4", null ],
+    [ "EnterEvadeMode", "d6/de1/a06160.html#a726edd296c16ed2414fcc1827f88238f", null ],
+    [ "MoveInLineOfSight", "d6/de1/a06160.html#a12c54c92a08e81751563ec9522236b28", null ],
+    [ "OnCharmed", "d6/de1/a06160.html#a77b274955dcfdf2d10bbc43b64330f8d", null ],
+    [ "Permissible", "d6/de1/a06160.html#a77595426da50819a0ff0744930d19b23", null ],
+    [ "UpdateAI", "d6/de1/a06160.html#ab200fcf78dee74a2ec808c01f5855236", null ]
 ];

@@ -1,7 +1,8 @@
 var a23628 =
 [
-    [ "HandleScript", "df/de4/a23628.html#a42052a416290a54d5479a402de578a73", null ],
-    [ "PrepareSpellScript", "df/de4/a23628.html#a5f6aa972879b65c0207e47435d436a33", null ],
-    [ "Register", "df/de4/a23628.html#a98efb2a9a68d7878af9d6f9d46db88c9", null ],
-    [ "Validate", "df/de4/a23628.html#a0d10ed00f11ede2b63665e4cfe53a70c", null ]
+    [ "ApplyStun", "df/de4/a23628.html#a5a5b921dc45418485919e599e80f8ca8", null ],
+    [ "HandleScriptEffect", "df/de4/a23628.html#a32619710179250a6a0b408856a888153", null ],
+    [ "PrepareSpellScript", "df/de4/a23628.html#afb61d7dcc8ad52da4dcad3d7593f08ad", null ],
+    [ "Register", "df/de4/a23628.html#aa753fd45caa1b515911d8fdf6fa78754", null ],
+    [ "Validate", "df/de4/a23628.html#a66d91a87078c663903cd836344eec867", null ]
 ];

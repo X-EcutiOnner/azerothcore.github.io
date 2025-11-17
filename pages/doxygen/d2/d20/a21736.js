@@ -1,6 +1,7 @@
 var a21736 =
 [
-    [ "npc_imprisoned_beryl_sorcererAI", "d6/d04/a21740.html", "d6/d04/a21740" ],
-    [ "npc_imprisoned_beryl_sorcerer", "d2/d20/a21736.html#a6317eb89406cf6b99f63ecfa7f9999d1", null ],
-    [ "GetAI", "d2/d20/a21736.html#aedb301f6da8460f3ed1d81d4b5f2f63c", null ]
+    [ "npc_mootoo_the_youngerAI", "d2/d20/a21736.html#a70a5a502dab9a90a790a90eabc5c3acd", null ],
+    [ "JustDied", "d2/d20/a21736.html#a766612f646a6d22d3f0e6f93298e34bc", null ],
+    [ "Reset", "d2/d20/a21736.html#a04624b9b4d552d6b27308edc3ad44644", null ],
+    [ "WaypointReached", "d2/d20/a21736.html#ac758a992ed0d62a272930c84d617b348", null ]
 ];

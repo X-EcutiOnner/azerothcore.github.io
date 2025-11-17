@@ -1,11 +1,7 @@
 var a17384 =
 [
-    [ "boss_eckAI", "d1/dbd/a17384.html#a9de9ad13286c625241242a72c8c3ef2b", null ],
-    [ "InitializeAI", "d1/dbd/a17384.html#a37ed08383c43c53ea5a46ad8e03adb35", null ],
-    [ "JustDied", "d1/dbd/a17384.html#afa625b388a7495e7f83ea3149ad2020c", null ],
-    [ "JustEngagedWith", "d1/dbd/a17384.html#a393630157bb1b9d80a19b2da3bf0b377", null ],
-    [ "MovementInform", "d1/dbd/a17384.html#a4826dee262817fbdfa38bcf17f5723da", null ],
-    [ "Reset", "d1/dbd/a17384.html#afc33618907cb06591cc57751dfc14ca5", null ],
-    [ "SpellHitTarget", "d1/dbd/a17384.html#a9838782769779ed0750ba32ac77625d4", null ],
-    [ "UpdateAI", "d1/dbd/a17384.html#a697ceea1e138d484d80b39c80078de58", null ]
+    [ "HandleScriptEffect", "d1/dbd/a17384.html#a6469efa0e1fabaf1cb366f119a1158c1", null ],
+    [ "PrepareSpellScript", "d1/dbd/a17384.html#aac410690d906867216b40a49d8f15318", null ],
+    [ "Register", "d1/dbd/a17384.html#ae8c7acabe93fc33d13f0b8848415eabf", null ],
+    [ "Validate", "d1/dbd/a17384.html#a88c3961d5757dd0c75be4acc7de6e45b", null ]
 ];

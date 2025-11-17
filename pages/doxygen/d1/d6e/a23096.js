@@ -1,12 +1,10 @@
 var a23096 =
 [
-    [ "boss_essence_of_sufferingAI", "d1/d6e/a23096.html#a98de7f0b7d12d0981854129cbeab0d0d", null ],
-    [ "DamageTaken", "d1/d6e/a23096.html#a347ef26e4ecdc83ca80c9fd9a93bd97d", null ],
-    [ "DoAction", "d1/d6e/a23096.html#a08724d74523866969b12d13846eb4c1e", null ],
-    [ "JustEngagedWith", "d1/d6e/a23096.html#aa2fce36768ad6e23a955cd215ca759db", null ],
-    [ "KilledUnit", "d1/d6e/a23096.html#a3699b19f23cf15115ff8c92691a6d334", null ],
-    [ "MovementInform", "d1/d6e/a23096.html#a4ff66e57277bc3bc6e8d2fb8bc585cd7", null ],
-    [ "Reset", "d1/d6e/a23096.html#affa55b69784d8f881598189c361c986e", null ],
-    [ "UpdateAI", "d1/d6e/a23096.html#abb60432720b3720832ccc83d454a3808", null ],
-    [ "_recentlySpoken", "d1/d6e/a23096.html#a71a28a61e97f6278836649411493484f", null ]
+    [ "CalculateAmount", "d1/d6e/a23096.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
+    [ "CheckProc", "d1/d6e/a23096.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
+    [ "HandleProc", "d1/d6e/a23096.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
+    [ "PrepareAuraScript", "d1/d6e/a23096.html#a6e066884663276dbba82e46ca5f66e59", null ],
+    [ "Register", "d1/d6e/a23096.html#ac4154f0746e77229e8d349021d5b9c30", null ],
+    [ "Update", "d1/d6e/a23096.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
+    [ "Validate", "d1/d6e/a23096.html#a4f10d23f63c47b408b70373623b877a8", null ]
 ];

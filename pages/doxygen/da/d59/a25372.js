@@ -1,7 +1,7 @@
 var a25372 =
 [
-    [ "HandleEffectApply", "da/d59/a25372.html#abf780eeca61aef7e44617aa0ed2ff8b8", null ],
-    [ "OnRemove", "da/d59/a25372.html#af2cfa66cd7dbc7c671efa06c497cc03e", null ],
-    [ "PrepareAuraScript", "da/d59/a25372.html#ab6c5d1fd94c763126ef77f9efd4a7116", null ],
-    [ "Register", "da/d59/a25372.html#a473189971d0a03e7305b7b9e41dc5207", null ]
+    [ "PrepareSpellScript", "da/d59/a25372.html#a65d5717a25e371e09c44148c679dd390", null ],
+    [ "Register", "da/d59/a25372.html#afb5f3560c022a8ef659d82cf24a46d8a", null ],
+    [ "RemoveInvalidTargets", "da/d59/a25372.html#a53262865dfa222de1d020f8c7cbf15fd", null ],
+    [ "Validate", "da/d59/a25372.html#a27ee4f0e6d14d15e5da2119c2bc49516", null ]
 ];

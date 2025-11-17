@@ -1,6 +1,8 @@
 var a20088 =
 [
-    [ "npc_pool_of_tarAI", "d8/d89/a20092.html", "d8/d89/a20092" ],
-    [ "npc_pool_of_tar", "d0/d87/a20088.html#a9c585318b4507babe77b3ba758b06a87", null ],
-    [ "GetAI", "d0/d87/a20088.html#ae77bf48a72ce49f821085f32127e91dc", null ]
+    [ "npc_brann_radioAI", "d0/d87/a20088.html#a329ca0310efe109f7fb364045f6eccbb", null ],
+    [ "MoveInLineOfSight", "d0/d87/a20088.html#ad119431edd6f632b4c44fc4e8708d375", null ],
+    [ "Reset", "d0/d87/a20088.html#a89183942dcb38f48de1867bfbce15721", null ],
+    [ "_helpLock", "d0/d87/a20088.html#ae927b6c8143cfb029ab6574d10dde60e", null ],
+    [ "_lock", "d0/d87/a20088.html#a421cfd2b8b149a0f3ea5bc2262ba6bac", null ]
 ];

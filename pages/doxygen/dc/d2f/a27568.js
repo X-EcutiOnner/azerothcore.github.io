@@ -1,5 +1,5 @@
 var a27568 =
 [
-    [ "go_jotunheim_cage", "dc/d2f/a27568.html#a28c9312de97a822e34f05c7358b42df4", null ],
-    [ "OnGossipHello", "dc/d2f/a27568.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
+    [ "go_veil_skith_cage", "dc/d2f/a27568.html#ac3fe1fdf2f12571fafc56e71a932994e", null ],
+    [ "OnGossipHello", "dc/d2f/a27568.html#a6724dc73ecf83305e5234eb0a2ad1d3c", null ]
 ];

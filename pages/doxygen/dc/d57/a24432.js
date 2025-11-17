@@ -1,9 +1,6 @@
 var a24432 =
 [
-    [ "npc_enraged_spiritAI", "dc/d57/a24432.html#aa487c906c1c0d15dc7761c7288e7d3c6", null ],
-    [ "JustDied", "dc/d57/a24432.html#a9322622f679dbc311bd8983f5037bd2e", null ],
-    [ "JustEngagedWith", "dc/d57/a24432.html#a1d192d0dd563dc2735b23a171b2bf659", null ],
-    [ "Reset", "dc/d57/a24432.html#a2d56572acf042ba34f468f0ff3b0bd1a", null ],
-    [ "UpdateAI", "dc/d57/a24432.html#adc3d04d66f2b4de7a970f2cd5e476a2b", null ],
-    [ "_scheduler", "dc/d57/a24432.html#afa6825696b0622849f877b392df4b326", null ]
+    [ "npc_zephyr", "dc/d57/a24432.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
+    [ "OnGossipHello", "dc/d57/a24432.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
+    [ "OnGossipSelect", "dc/d57/a24432.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
 ];

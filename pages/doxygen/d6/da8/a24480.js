@@ -1,6 +1,6 @@
 var a24480 =
 [
-    [ "PrepareSpellScript", "d6/da8/a24480.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
-    [ "Register", "d6/da8/a24480.html#ac57aee08a131bcf7db11bc105f32242c", null ],
-    [ "SetDest", "d6/da8/a24480.html#a26362c4873890bb60c2526bf07058746", null ]
+    [ "PrepareSpellScript", "d6/da8/a24480.html#ac781a5ff389268d1f18867ff5585ca71", null ],
+    [ "Register", "d6/da8/a24480.html#a5cb9e02774ea6c307e76183253ffb472", null ],
+    [ "SetDest", "d6/da8/a24480.html#a5fec9885b1dd6cf80fb47af321fad98e", null ]
 ];

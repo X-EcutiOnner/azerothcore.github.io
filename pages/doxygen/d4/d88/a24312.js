@@ -1,7 +1,11 @@
 var a24312 =
 [
-    [ "npc_maxx_a_million_escortAI", "d4/d1e/a24316.html", "d4/d1e/a24316" ],
-    [ "npc_maxx_a_million_escort", "d4/d88/a24312.html#a958a88b495594dd8e14919d950ac917a", null ],
-    [ "GetAI", "d4/d88/a24312.html#af79619087908d442f503e0b0d633937d", null ],
-    [ "OnQuestAccept", "d4/d88/a24312.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
+    [ "npc_invis_infernal_casterAI", "d4/d88/a24312.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
+    [ "Reset", "d4/d88/a24312.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
+    [ "SetData", "d4/d88/a24312.html#aee88dc141757384f96da969fcdc20671", null ],
+    [ "SummonInfernal", "d4/d88/a24312.html#a78d53d09e5544b3fe8301da4415d297b", null ],
+    [ "UpdateAI", "d4/d88/a24312.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
+    [ "events", "d4/d88/a24312.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
+    [ "ground", "d4/d88/a24312.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
+    [ "infernalGUID", "d4/d88/a24312.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
 ];

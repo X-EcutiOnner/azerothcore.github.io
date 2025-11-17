@@ -1,6 +1,7 @@
 var a22912 =
 [
-    [ "HandleScriptEffect", "db/dad/a22912.html#a21740b341acce23e284a3d4ceea9b6e0", null ],
-    [ "PrepareSpellScript", "db/dad/a22912.html#addcd30a673390ca8b76eab5ccb5f4245", null ],
-    [ "Register", "db/dad/a22912.html#aad6959f74932db219e991efd3b3af44a", null ]
+    [ "HandleScriptEffect", "db/dad/a22912.html#a6ec6e79849c618d009eae3551e16ff0a", null ],
+    [ "PrepareSpellScript", "db/dad/a22912.html#a4f00eca7c78a785780be4379c1a56a6b", null ],
+    [ "Register", "db/dad/a22912.html#adb676b9d6f36c30efbb8286b1e5edf6d", null ],
+    [ "Validate", "db/dad/a22912.html#a9ce122d497e72e3a46b1857d722af48d", null ]
 ];

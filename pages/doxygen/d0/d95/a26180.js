@@ -1,6 +1,6 @@
 var a26180 =
 [
-    [ "CalculateAmount", "d0/d95/a26180.html#a2010f58ba86d6266e9549753fdec52ed", null ],
-    [ "PrepareAuraScript", "d0/d95/a26180.html#aa9ddc9f2a0ded66e81be51cec24a0e4b", null ],
-    [ "Register", "d0/d95/a26180.html#acf737f74e3cb9340f3449b491e923b7f", null ]
+    [ "HandleDummy", "d0/d95/a26180.html#a4fde3142b38989cb37db76da6eada03c", null ],
+    [ "PrepareSpellScript", "d0/d95/a26180.html#aa694a1a7cbbe0f20226d7e616e19cefb", null ],
+    [ "Register", "d0/d95/a26180.html#a1f83fae2fb3dc0904ed56101e1254f5f", null ]
 ];

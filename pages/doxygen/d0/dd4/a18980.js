@@ -1,6 +1,9 @@
 var a18980 =
 [
-    [ "npc_icc_skybreaker_vicarAI", "db/da3/a18984.html", "db/da3/a18984" ],
-    [ "npc_icc_skybreaker_vicar", "d0/dd4/a18980.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
-    [ "GetAI", "d0/dd4/a18980.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
+    [ "npc_icc_skybreaker_luminaryAI", "d0/dd4/a18980.html#a91868021309239f5582bb7ee89baec13", null ],
+    [ "AttackStart", "d0/dd4/a18980.html#acf8d1eaebdc68cb53866155d8aad6e48", null ],
+    [ "JustEngagedWith", "d0/dd4/a18980.html#a12927240144022174e3d190be6b34976", null ],
+    [ "Reset", "d0/dd4/a18980.html#ac925b84b81ec1d1e118f3e62edfbdd15", null ],
+    [ "UpdateAI", "d0/dd4/a18980.html#a969a36e147006971a93711349f90c193", null ],
+    [ "events", "d0/dd4/a18980.html#a8521aef674b9a295c27f7e5725af4ffe", null ]
 ];

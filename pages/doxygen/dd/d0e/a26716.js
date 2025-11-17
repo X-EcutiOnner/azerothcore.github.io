@@ -1,6 +1,6 @@
 var a26716 =
 [
-    [ "CheckRequirement", "dd/d0e/a26716.html#a4ad49f2f781d1c6b27dd04f46203c6d4", null ],
-    [ "PrepareSpellScript", "dd/d0e/a26716.html#a4263eebcb64f00152a4b64dafef20510", null ],
-    [ "Register", "dd/d0e/a26716.html#a8b825a97f50abb0231036a3ff651531d", null ]
+    [ "ModDest", "dd/d0e/a26716.html#ab03387aec0a02a6b3bac1014443554b6", null ],
+    [ "PrepareSpellScript", "dd/d0e/a26716.html#a53f7da301759fb18686bc73281c4a321", null ],
+    [ "Register", "dd/d0e/a26716.html#a266198fbc6203517f9845ef6212ddf13", null ]
 ];

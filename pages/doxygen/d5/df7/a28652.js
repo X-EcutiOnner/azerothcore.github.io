@@ -1,8 +1,13 @@
 var a28652 =
 [
-    [ "Color", "d5/df7/a28652.html#a670fb4e2a31958f81d46047f74d9916f", null ],
-    [ "Comparator", "d5/df7/a28652.html#ace0bdad11edd9db12e45d374da623793", null ],
-    [ "CompareColor", "d5/df7/a28652.html#a801e2221bbb1b6aab67a57381901cf08", null ],
-    [ "ID", "d5/df7/a28652.html#aae73769db40326d298bb1d04eef38871", null ],
-    [ "Value", "d5/df7/a28652.html#ac314a9a6b447d386e31a286811f66538", null ]
+    [ "actionFlag", "d5/df7/a28652.html#a6257ae486eff937cf12be64f0e850ca6", null ],
+    [ "arrivalEventID", "d5/df7/a28652.html#a1ffe17f529066091b18451a1121ce6ac", null ],
+    [ "delay", "d5/df7/a28652.html#aef005db912b0a57ecc5d62c66d838826", null ],
+    [ "departureEventID", "d5/df7/a28652.html#a670a033aaf0ff48676373baf9235d670", null ],
+    [ "index", "d5/df7/a28652.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
+    [ "mapid", "d5/df7/a28652.html#aa2c6fb8a785e297c72384043698dd401", null ],
+    [ "path", "d5/df7/a28652.html#aa0692acbae0d4639c89ece77265d7858", null ],
+    [ "x", "d5/df7/a28652.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
+    [ "y", "d5/df7/a28652.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
+    [ "z", "d5/df7/a28652.html#af48d85940d7f204091e8438427a72e2d", null ]
 ];

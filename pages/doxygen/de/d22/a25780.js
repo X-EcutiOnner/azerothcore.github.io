@@ -1,6 +1,6 @@
 var a25780 =
 [
-    [ "HandleDummy", "de/d22/a25780.html#a8b9510efa5af25ef698fc6eb49b19b69", null ],
-    [ "PrepareSpellScript", "de/d22/a25780.html#a80b89fbd2506191b897dcf367ff11500", null ],
-    [ "Register", "de/d22/a25780.html#a522730e5ba844728c0b3d6f423cd123a", null ]
+    [ "PrepareSpellScript", "de/d22/a25780.html#a72e57e8a4bdb9a4fcd73e3519b6025ea", null ],
+    [ "Register", "de/d22/a25780.html#aac4d3c8ecde3652c65c05abad5c8eaeb", null ],
+    [ "SelectTarget", "de/d22/a25780.html#a3153b6c6814922cd7220e19b06f2a602", null ]
 ];

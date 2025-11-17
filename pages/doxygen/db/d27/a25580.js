@@ -1,5 +1,10 @@
 var a25580 =
 [
-    [ "PrepareSpellScript", "db/d27/a25580.html#a800936a311c05236dbd0c9c2f0edd5d9", null ],
-    [ "Register", "db/d27/a25580.html#ae176a1f643797b5367a593bbb2acc506", null ]
+    [ "CheckProc", "db/d27/a25580.html#a8a7a0ac560eecc3777087622fb3f3951", null ],
+    [ "HandleProc", "db/d27/a25580.html#a90eee01f380f97f033c82d7c6ec48d00", null ],
+    [ "OnApply", "db/d27/a25580.html#a93818ec97cfd47da1dee454bb0a9318c", null ],
+    [ "OnRemove", "db/d27/a25580.html#a5e978d4d46f42ba5098eaecd9473fccb", null ],
+    [ "PrepareAuraScript", "db/d27/a25580.html#a73ae8e378b906a420955fd33d02ba6b7", null ],
+    [ "Register", "db/d27/a25580.html#a7070f64c9c47c8c1bc26e49b2b60a110", null ],
+    [ "Validate", "db/d27/a25580.html#a91c5a0e10c308332e18dc40033049996", null ]
 ];

@@ -1,6 +1,7 @@
 var a24832 =
 [
-    [ "CalculateAmount", "db/d8f/a24832.html#ada4514ba7769ebceeed1e0ab1c3a33e8", null ],
-    [ "PrepareAuraScript", "db/d8f/a24832.html#a1faa084b17776e826242293e2aaef2f4", null ],
-    [ "Register", "db/d8f/a24832.html#a94b21c91954385201d4bad6aff2205fc", null ]
+    [ "CalculateAmount", "db/d8f/a24832.html#af51a8e22ddfe0648f08a4190d730fbda", null ],
+    [ "CheckProc", "db/d8f/a24832.html#a2f80dcd9e5922af55dee096c95079062", null ],
+    [ "PrepareAuraScript", "db/d8f/a24832.html#af54ef254d0897140255960146507e986", null ],
+    [ "Register", "db/d8f/a24832.html#ad6e4bd4390f6f88494984af792a11b90", null ]
 ];

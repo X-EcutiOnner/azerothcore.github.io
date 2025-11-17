@@ -1,7 +1,7 @@
 var a19136 =
 [
-    [ "HandleGameObjectDamage", "d2/d5e/a19136.html#a811edfe01c1784664b5b4253d2305b4e", null ],
-    [ "PrepareSpellScript", "d2/d5e/a19136.html#a0cfedeba2a747777de292b8f30b6752b", null ],
-    [ "Register", "d2/d5e/a19136.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
-    [ "Validate", "d2/d5e/a19136.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
+    [ "HandleScript", "d2/d5e/a19136.html#a2e5311b631a4cbf6002e27e4a806280c", null ],
+    [ "Launch", "d2/d5e/a19136.html#a575a7bf98b629dd91e7ca96e388eb8fd", null ],
+    [ "PrepareSpellScript", "d2/d5e/a19136.html#ad65642fd7e8b7793f69d041d458fa33f", null ],
+    [ "Register", "d2/d5e/a19136.html#aa8800d8fc050f2914d63c24e555aad4b", null ]
 ];

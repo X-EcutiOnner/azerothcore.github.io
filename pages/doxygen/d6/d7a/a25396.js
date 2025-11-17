@@ -1,7 +1,7 @@
 var a25396 =
 [
-    [ "HandleScript", "d6/d7a/a25396.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
-    [ "PrepareSpellScript", "d6/d7a/a25396.html#a7909f23da8385abdabb62e5196d88d38", null ],
-    [ "Register", "d6/d7a/a25396.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
-    [ "Validate", "d6/d7a/a25396.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
+    [ "EjectPassenger", "d6/d7a/a25396.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
+    [ "PrepareSpellScript", "d6/d7a/a25396.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
+    [ "Register", "d6/d7a/a25396.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
+    [ "Validate", "d6/d7a/a25396.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
 ];

@@ -1,6 +1,8 @@
 var a19800 =
 [
-    [ "dark_rune_protectorsAI", "dd/d48/a19804.html", "dd/d48/a19804" ],
-    [ "dark_rune_protectors", "d2/da0/a19800.html#a14225a2369a8deea416fc640a2d7b075", null ],
-    [ "GetAI", "d2/da0/a19800.html#a359e4049b7ec828177d9a36d23e9b4ef", null ]
+    [ "dark_rune_stormcallerAI", "d2/da0/a19800.html#ad889fb0c50e879c958c9b8bb681e4bf7", null ],
+    [ "JustEngagedWith", "d2/da0/a19800.html#a7ddfb8afac3ff28a84b26255628fab50", null ],
+    [ "Reset", "d2/da0/a19800.html#afa9cc2e1a9f7d21cd885479e9afdcd12", null ],
+    [ "UpdateAI", "d2/da0/a19800.html#adbd245fc5180dc7c78704595a9592864", null ],
+    [ "events", "d2/da0/a19800.html#aa7d8d1d075eeb03952b47cc16846a3db", null ]
 ];

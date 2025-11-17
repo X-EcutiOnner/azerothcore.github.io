@@ -1,8 +1,8 @@
 var a26460 =
 [
-    [ "CalculateAmount", "d6/dc7/a26460.html#aa1810db9a7b8fbc3572621ff35e0eeb1", null ],
-    [ "PrepareAuraScript", "d6/dc7/a26460.html#ad40d44271840b8e2bd1dc22b6a04290e", null ],
-    [ "ReflectDamage", "d6/dc7/a26460.html#ad8b5f9a7952fc33d7e1fee28e4872212", null ],
-    [ "Register", "d6/dc7/a26460.html#a18b19ee8823e2d1747caeefaf457ad8d", null ],
-    [ "Validate", "d6/dc7/a26460.html#af2936ba4a29fc8735a3cabe805c77355", null ]
+    [ "AfterCheckProc", "d6/dc7/a26460.html#ad817bc9b07538434956bf64ea1dd0367", null ],
+    [ "HandleProc", "d6/dc7/a26460.html#af972e6ed5524dadd618d6cd907c0241b", null ],
+    [ "PrepareAuraScript", "d6/dc7/a26460.html#a0fbc28d9a524b6dff6783077ecd0b3b9", null ],
+    [ "Register", "d6/dc7/a26460.html#a2cab6b2b0ff567fca6530fa4d917aec1", null ],
+    [ "Validate", "d6/dc7/a26460.html#aa15febbd22621da12b567fc429917bf0", null ]
 ];

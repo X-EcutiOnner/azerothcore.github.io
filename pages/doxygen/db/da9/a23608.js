@@ -1,12 +1,8 @@
 var a23608 =
 [
-    [ "boss_swamplord_muselek", "db/da9/a23608.html#a94ca982b8b9c1785a59040d23e72fc0e", null ],
-    [ "AttackStart", "db/da9/a23608.html#a0732fdf14c972ae955eb43417a6d86a1", null ],
-    [ "CanShootVictim", "db/da9/a23608.html#af84af5e4b344fc5f5da9f2047519710a", null ],
-    [ "JustDied", "db/da9/a23608.html#a4020748c43bf03cb338e3d64a1dfd840", null ],
-    [ "JustEngagedWith", "db/da9/a23608.html#a7b22bff5b78dcd1e5e1cc42858735655", null ],
-    [ "KilledUnit", "db/da9/a23608.html#a9f2afd6aacb9befa956079a42fbace37", null ],
-    [ "Reset", "db/da9/a23608.html#a6e03d7feca2de668c82d8f056d95fc6a", null ],
-    [ "_canChase", "db/da9/a23608.html#aca3298f0e9bbbd7366f4e6456cfff621", null ],
-    [ "_markTarget", "db/da9/a23608.html#a957d3f9ad935dbfa0537c75e39316ce3", null ]
+    [ "npc_underbat", "db/da9/a23608.html#a710a010d3425b7171ee45d8465fd6b2b", null ],
+    [ "JustEngagedWith", "db/da9/a23608.html#ae137b6b763b3df6096c3bfd4dd7ee676", null ],
+    [ "Reset", "db/da9/a23608.html#aae771ad526e8f72a90fe70ebbd91b472", null ],
+    [ "UpdateAI", "db/da9/a23608.html#ab3a9b97543aee3fdf22c17e94f768c0e", null ],
+    [ "_scheduler", "db/da9/a23608.html#a7644a73c2a5bcbbe0a3db5c782169752", null ]
 ];

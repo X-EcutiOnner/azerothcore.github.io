@@ -1,7 +1,8 @@
 var a25516 =
 [
-    [ "OnRemove", "d9/db1/a25516.html#ab6371347f0dc4ffc8bab6c75ca1cdf59", null ],
-    [ "PrepareAuraScript", "d9/db1/a25516.html#ac2b1a2311f97ab427439b45fb0770063", null ],
-    [ "Register", "d9/db1/a25516.html#a39e4914aa01769e14f61e2369ad8eda5", null ],
-    [ "Validate", "d9/db1/a25516.html#a71e47e70fd18affe1bd563f68fcb2efe", null ]
+    [ "CalcPeriodic", "d9/db1/a25516.html#ab11cad89fe213256353c88c351a8743b", null ],
+    [ "HandleUpdatePeriodic", "d9/db1/a25516.html#a096bc5640e42232f7754251daf5b6a8a", null ],
+    [ "OnApply", "d9/db1/a25516.html#ae00430a1418a0c3e91ae340f1a33f157", null ],
+    [ "PrepareAuraScript", "d9/db1/a25516.html#a85b849676d1c4c08921edff8d472da04", null ],
+    [ "Register", "d9/db1/a25516.html#a75a4f12269c7684335c3c09cd5002586", null ]
 ];

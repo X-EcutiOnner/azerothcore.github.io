@@ -1,8 +1,9 @@
 var a14080 =
 [
-    [ "npc_zulaman_hostageAI", "df/d3e/a14084.html", "df/d3e/a14084" ],
-    [ "npc_zulaman_hostage", "dc/df8/a14080.html#a12f9ad1889cacb60103c1e921c2fa0e9", null ],
-    [ "GetAI", "dc/df8/a14080.html#a0ae144dc154dd028b409c9d2393f890c", null ],
-    [ "OnGossipHello", "dc/df8/a14080.html#a89d68a976f916a4de2196b57ec0026b0", null ],
-    [ "OnGossipSelect", "dc/df8/a14080.html#a114f6fbfab90944fd49babcba4b48a11", null ]
+    [ "npc_zulaman_hostageAI", "dc/df8/a14080.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
+    [ "JustDied", "dc/df8/a14080.html#af87bdebb039f1da5736408cf3aad6487", null ],
+    [ "JustEngagedWith", "dc/df8/a14080.html#af0aa229973da1a6230a854439658e9ed", null ],
+    [ "UpdateAI", "dc/df8/a14080.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
+    [ "IsLoot", "dc/df8/a14080.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
+    [ "PlayerGUID", "dc/df8/a14080.html#a49f15c5a94d005c56218d00ac6732b82", null ]
 ];

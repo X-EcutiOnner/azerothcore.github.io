@@ -1,12 +1,6 @@
 var a16532 =
 [
-    [ "npc_swarm_scarabAI", "df/d1d/a16532.html#a0d0cefd52543044773e7df772f90fd37", null ],
-    [ "CanAIAttack", "df/d1d/a16532.html#a95a27742f4f7fa1af45964b6270a9558", null ],
-    [ "DoAction", "df/d1d/a16532.html#ac1fe6742ef1e7bdee4c81a3933a31659", null ],
-    [ "JustDied", "df/d1d/a16532.html#a0fe99c71cac6d3ee8d360f0d46d03fcd", null ],
-    [ "JustEngagedWith", "df/d1d/a16532.html#a585e1e8800e97b2aa3d6c893d54c1d2b", null ],
-    [ "Reset", "df/d1d/a16532.html#aa24cc2f2b7aa4c5c534e8d2ce2957237", null ],
-    [ "UpdateAI", "df/d1d/a16532.html#aa33d9e101ba7de2a25a6213baccf6df1", null ],
-    [ "despawnTimer", "df/d1d/a16532.html#a6d35e43af695ac112b972badb665f06d", null ],
-    [ "determinationTimer", "df/d1d/a16532.html#af319dbf16bc1d3939602465f0a87d30c", null ]
+    [ "npc_frost_sphereAI", "d2/d57/a16536.html", "d2/d57/a16536" ],
+    [ "npc_frost_sphere", "df/d1d/a16532.html#a0256ba1c53853307f8b66e22b10bef24", null ],
+    [ "GetAI", "df/d1d/a16532.html#a3e6de3551306fb4c35aabbd4fc656ee6", null ]
 ];

@@ -1,7 +1,7 @@
 var a18256 =
 [
-    [ "OnRemove", "dd/d24/a18256.html#aa096174465120bde1994c85f72682be1", null ],
-    [ "PrepareAuraScript", "dd/d24/a18256.html#a49ba4ed8ac0ee006c74a71e6779c1a3b", null ],
-    [ "Register", "dd/d24/a18256.html#a6e9c95b06f3ec9dc0739beaabc016d5f", null ],
-    [ "Validate", "dd/d24/a18256.html#a1b7ef2c14db8543a9128aa335548fa00", null ]
+    [ "PeriodicTick", "dd/d24/a18256.html#a79b63e30f37df8a961b57c4b10669800", null ],
+    [ "PrepareAuraScript", "dd/d24/a18256.html#a091a72cf97d5fbd6ffbf95ad3e409aa6", null ],
+    [ "Register", "dd/d24/a18256.html#a860e2bc444f5aeb78837cd1a6eff40a3", null ],
+    [ "Validate", "dd/d24/a18256.html#a32cbe3a7eedf7b37229168a6154167b0", null ]
 ];

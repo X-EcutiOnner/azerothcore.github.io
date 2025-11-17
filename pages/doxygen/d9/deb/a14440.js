@@ -1,6 +1,7 @@
 var a14440 =
 [
-    [ "go_direbrew_mole_machineAI", "de/da0/a14444.html", "de/da0/a14444" ],
-    [ "go_direbrew_mole_machine", "d9/deb/a14440.html#a759d291a5be227d8beae3bbc779e56f4", null ],
-    [ "GetAI", "d9/deb/a14440.html#a793e5e544664d6c2c3897161c9cccbbb", null ]
+    [ "go_direbrew_mole_machineAI", "d9/deb/a14440.html#a4e667ad9e572e93c045ae01f63bea648", null ],
+    [ "Reset", "d9/deb/a14440.html#a32dd801b5d898fd8634edcb6cae52bdf", null ],
+    [ "UpdateAI", "d9/deb/a14440.html#a2eaa8a0ad0907e4aa497a7e1c3a31b29", null ],
+    [ "_scheduler", "d9/deb/a14440.html#a5960ff83f21cf5964f422e3a7b297f22", null ]
 ];

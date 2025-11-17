@@ -1,7 +1,6 @@
 var a17368 =
 [
-    [ "HandleDummy", "d0/dca/a17368.html#ab614c27fbeb0fc6cac42c3e8f981e11d", null ],
-    [ "PrepareSpellScript", "d0/dca/a17368.html#a3ef0564565ea49265800422c835432b0", null ],
-    [ "Register", "d0/dca/a17368.html#a7b685926a8d511397889616e97bbd563", null ],
-    [ "Validate", "d0/dca/a17368.html#aecd40c136e44dfc9c5e4dd572d577578", null ]
+    [ "boss_eckAI", "df/dc5/a17372.html", "df/dc5/a17372" ],
+    [ "boss_eck", "d0/dca/a17368.html#aa445927936d7759a8c3289e2899181e5", null ],
+    [ "GetAI", "d0/dca/a17368.html#a335755ec7416d3e00a4070e03569293a", null ]
 ];

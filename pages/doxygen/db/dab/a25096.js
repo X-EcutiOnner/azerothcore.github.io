@@ -1,6 +1,6 @@
 var a25096 =
 [
-    [ "HandleScriptEffect", "db/dab/a25096.html#a1ace281bf2fd53722f8328a79369b5df", null ],
-    [ "PrepareSpellScript", "db/dab/a25096.html#ac9a0019091f291b1b3a770ec57bd83e8", null ],
-    [ "Register", "db/dab/a25096.html#a821a6b11a177bf7586ab666081ab222a", null ]
+    [ "ModDest", "db/dab/a25096.html#a99d08536d2555390a7399a6d2fc199e6", null ],
+    [ "PrepareSpellScript", "db/dab/a25096.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
+    [ "Register", "db/dab/a25096.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
 ];

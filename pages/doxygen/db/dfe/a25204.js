@@ -1,7 +1,8 @@
 var a25204 =
 [
-    [ "HandleScript", "db/dfe/a25204.html#ad1ca4c264e1f89adf479254e6436dd55", null ],
-    [ "Load", "db/dfe/a25204.html#a66db2b82a0f014e49bbfeeaade4d1731", null ],
-    [ "PrepareSpellScript", "db/dfe/a25204.html#a7616d761e7a7a708c88918302b488bb9", null ],
-    [ "Register", "db/dfe/a25204.html#a8ca351c9e0e254369328865eefa3ff91", null ]
+    [ "OnApply", "db/dfe/a25204.html#a6aa83e925a93dc7ff89c0357debc75d1", null ],
+    [ "OnRemove", "db/dfe/a25204.html#a3ced5941c25fce087699aa095cd487c9", null ],
+    [ "PrepareAuraScript", "db/dfe/a25204.html#a497776c6ffdda8670fa255b76057bf2c", null ],
+    [ "Register", "db/dfe/a25204.html#ac05f2898ebbb78bf55d70d8a660fb22d", null ],
+    [ "Validate", "db/dfe/a25204.html#a44fc9ff07b9db5b2a1263d244916c79f", null ]
 ];

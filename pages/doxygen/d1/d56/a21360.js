@@ -1,6 +1,6 @@
 var a21360 =
 [
-    [ "npc_ritual_channelerAI", "d0/d86/a21364.html", "d0/d86/a21364" ],
-    [ "npc_ritual_channeler", "d1/d56/a21360.html#adab372002549b009e3f937ec67e49f3f", null ],
-    [ "GetAI", "d1/d56/a21360.html#aa416545438d701cbfc2567ba5ae536c8", null ]
+    [ "CalculateAmount", "d1/d56/a21360.html#a79019ef395c9b66f6a88759b0517005d", null ],
+    [ "PrepareAuraScript", "d1/d56/a21360.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
+    [ "Register", "d1/d56/a21360.html#a9bce52699983fe798c903385faa42462", null ]
 ];

@@ -1,7 +1,7 @@
 var a03959 =
 [
-    [ "npc_pet_shaman_earth_elemental", "d4/d2a/a24636.html", "d4/d2a/a24636" ],
-    [ "npc_pet_shaman_fire_elemental", "db/d82/a24640.html", "db/d82/a24640" ],
+    [ "npc_pet_shaman_earth_elemental", "d5/d19/a24604.html", "d5/d19/a24604" ],
+    [ "npc_pet_shaman_fire_elemental", "d4/d75/a24608.html", "d4/d75/a24608" ],
     [ "ShamanEvents", "d1/d55/a03959.html#aa2b323900a3ce0f1375b1b01093c124c", [
       [ "EVENT_SHAMAN_ANGEREDEARTH", "d1/d55/a03959.html#aa2b323900a3ce0f1375b1b01093c124ca55d2bc767c95df14143f82764109f9f9", null ],
       [ "EVENT_SHAMAN_FIRENOVA", "d1/d55/a03959.html#aa2b323900a3ce0f1375b1b01093c124caa9714e17f926812b7ab7328c42fa60ec", null ],

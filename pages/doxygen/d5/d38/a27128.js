@@ -1,6 +1,8 @@
 var a27128 =
 [
-    [ "HandleCast", "d5/d38/a27128.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
-    [ "PrepareSpellScript", "d5/d38/a27128.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
-    [ "Register", "d5/d38/a27128.html#a81bc86c83ffc70602410912870e61700", null ]
+    [ "HandleDummy", "d5/d38/a27128.html#ad2eec86cff225cc0bd806e31596fb127", null ],
+    [ "PrepareSpellScript", "d5/d38/a27128.html#a59a04dcfee911c70e13ea8d27b4a49c4", null ],
+    [ "Register", "d5/d38/a27128.html#a6c72b4c813368774283ae94036a43ee2", null ],
+    [ "SendMiss", "d5/d38/a27128.html#a7c6d300e60ed492c82d5c017d3e73ed1", null ],
+    [ "Validate", "d5/d38/a27128.html#a9a5014de08f73ad5dad29354812030ac", null ]
 ];

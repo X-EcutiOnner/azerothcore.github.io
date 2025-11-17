@@ -1,5 +1,9 @@
 var a27312 =
 [
-    [ "AreaTrigger_at_legion_teleporter", "db/d32/a27312.html#a2b648bd038f41025c19338367c696d25", null ],
-    [ "OnTrigger", "db/d32/a27312.html#ae8239e5ad56d93627102dbd02989353d", null ]
+    [ "emerald_dragonAI", "db/d32/a27312.html#ae80aa90ad978b8e3254a3c116bf05959", null ],
+    [ "ExecuteEvent", "db/d32/a27312.html#a6e60f146c7b86a119f269bf755831ac6", null ],
+    [ "JustSummoned", "db/d32/a27312.html#a4ec04284cdebfc5b594e083aa850f7cb", null ],
+    [ "KilledUnit", "db/d32/a27312.html#a69b24bf865ecd38822d5602314cddf11", null ],
+    [ "Reset", "db/d32/a27312.html#aff24939b53a7d74b41ac9170a8a71e9c", null ],
+    [ "UpdateAI", "db/d32/a27312.html#a221768f9ad3c79bbcdefd3092228e3b0", null ]
 ];

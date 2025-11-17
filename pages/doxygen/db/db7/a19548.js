@@ -1,8 +1,13 @@
 var a19548 =
 [
-    [ "npc_crystal_spike", "db/db7/a19548.html#aa6a6e12aba63c589e71b5ca28b924fd4", null ],
-    [ "Reset", "db/db7/a19548.html#a8cdca606ce482147d87ad5248665099e", null ],
-    [ "UpdateAI", "db/db7/a19548.html#abc04c8fba427c12630b4faf1d39bdb32", null ],
-    [ "_damageTimer", "db/db7/a19548.html#a36c70729a0c0281d467f870bfcde80ae", null ],
-    [ "_gameObjectGUID", "db/db7/a19548.html#a0c0e9a1883cee51201b039947b5bacf3", null ]
+    [ "npc_crystalline_frayer", "db/db7/a19548.html#ade88d8f4d4fd32155b87dfba75084f4c", null ],
+    [ "DamageTaken", "db/db7/a19548.html#a2580575a58353e8cb94561bafd74f502", null ],
+    [ "EnterEvadeMode", "db/db7/a19548.html#a9240adcfe966f11c925db82add432aa5", null ],
+    [ "JustEngagedWith", "db/db7/a19548.html#a91e8c4015b9b238fd2144999bcef9362", null ],
+    [ "Reset", "db/db7/a19548.html#a5baa6491ee0205b2b2e7bc8e6cd9a163", null ],
+    [ "UpdateAI", "db/db7/a19548.html#ab494a601b9a5dc3d4c3c303bc4de3a94", null ],
+    [ "_allowDeath", "db/db7/a19548.html#adc85054030146067d2cff47db2886a07", null ],
+    [ "abilityTimer1", "db/db7/a19548.html#ae4a140cd9fccecea24982d7aa90c6bf0", null ],
+    [ "abilityTimer2", "db/db7/a19548.html#a6d2bf3e1cc05860eb6a7706102438f32", null ],
+    [ "restoreTimer", "db/db7/a19548.html#a5ab2990b41f485417af6272194035fc3", null ]
 ];

@@ -1,7 +1,9 @@
 var a25616 =
 [
-    [ "HandleScriptEffect", "d4/dbd/a25616.html#ab1d476e7a07da5db80908fb669b6fa6b", null ],
-    [ "PrepareSpellScript", "d4/dbd/a25616.html#acf30d245bab2e7a1ee1121008345e667", null ],
-    [ "Register", "d4/dbd/a25616.html#a303a38a41f3d9be6e3083690b234e51f", null ],
-    [ "Validate", "d4/dbd/a25616.html#a77a3256cdea185ce0ea95d88283c55d7", null ]
+    [ "CheckCast", "d4/dbd/a25616.html#a005565dd77de97b5aa04553a1d6a0185", null ],
+    [ "HandleScript", "d4/dbd/a25616.html#a7313a3d9840d7dc81e5a894e83cb6347", null ],
+    [ "Load", "d4/dbd/a25616.html#aadfc8a873c72e31d65001ce00518ca45", null ],
+    [ "PrepareSpellScript", "d4/dbd/a25616.html#a169b60644259855f0614271e4769f6b9", null ],
+    [ "Register", "d4/dbd/a25616.html#a9e7f8cbc7ec3de507069b69678005da3", null ],
+    [ "Validate", "d4/dbd/a25616.html#a9e69eb36c1a2640ff616ae5744c04f4f", null ]
 ];

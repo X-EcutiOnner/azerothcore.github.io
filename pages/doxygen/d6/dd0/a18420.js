@@ -1,7 +1,6 @@
 var a18420 =
 [
-    [ "HandleScript", "d6/dd0/a18420.html#aef02c7f9ee2a5dda9f6b18d8aa386759", null ],
-    [ "PrepareSpellScript", "d6/dd0/a18420.html#acbfd8657da20f2e91a9ef43cab7c4113", null ],
-    [ "Register", "d6/dd0/a18420.html#ad83d563da98ad189f2198a061b1cd50f", null ],
-    [ "Validate", "d6/dd0/a18420.html#a8f371bdbc57624c295efb14e2ca067c5", null ]
+    [ "npc_shambling_horror_iccAI", "d8/ddb/a18424.html", "d8/ddb/a18424" ],
+    [ "npc_shambling_horror_icc", "d6/dd0/a18420.html#a68219e0c6e79f5e7bed1f353d7bb5bcb", null ],
+    [ "GetAI", "d6/dd0/a18420.html#a96fd525fcb34e793b1fc3fc5179e92ec", null ]
 ];

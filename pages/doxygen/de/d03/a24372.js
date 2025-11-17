@@ -1,16 +1,17 @@
 var a24372 =
 [
-    [ "npc_dragonmaw_peonAI", "de/d03/a24372.html#a6f1255fead5357001ec85fdaa6980249", null ],
-    [ "CreditPlayer", "de/d03/a24372.html#a5cf28e156cab2e2066bb94bc99233a2b", null ],
-    [ "JustEngagedWith", "de/d03/a24372.html#abd5b37793aa2fb150c808b7dc7270763", null ],
-    [ "MovementInform", "de/d03/a24372.html#a0ee4038f90d54c75c48b2448dacb5724", null ],
-    [ "Reset", "de/d03/a24372.html#a9d876ec76b51f743c71e67749c21d939", null ],
-    [ "SpellHit", "de/d03/a24372.html#abe5162608ba0acd7360a630562ff5935", null ],
-    [ "UpdateAI", "de/d03/a24372.html#a98a045606d9e689ef25a5068b81b1ebf", null ],
-    [ "events", "de/d03/a24372.html#a7d6fb37d1953630aa79f8665eca0db61", null ],
-    [ "PlayerGUID", "de/d03/a24372.html#ad6838d98e34a32cbed42c77cdf096070", null ],
-    [ "Tapped", "de/d03/a24372.html#ae393f8d3cb47f38a4c4314a262826d03", null ],
-    [ "x", "de/d03/a24372.html#acebbfa8da88d8d683ba5ea6463f6b5f7", null ],
-    [ "y", "de/d03/a24372.html#ae5a1d416c712803ec0b80ae7ccf29e2d", null ],
-    [ "z", "de/d03/a24372.html#a7722420716c030b5abe7b760199df14d", null ]
+    [ "npc_torloth_the_magnificentAI", "de/d03/a24372.html#ad34b85c80ebfb2332709c7ee21c053b7", null ],
+    [ "HandleAnimation", "de/d03/a24372.html#ab69f481e3871e5ce803ab1f389a2385c", null ],
+    [ "JustDied", "de/d03/a24372.html#aef9d2bcc04b8c1a54bf59f4744eba3ae", null ],
+    [ "JustEngagedWith", "de/d03/a24372.html#abf3fc3538e82fceaa916d4e217d6f9fd", null ],
+    [ "Reset", "de/d03/a24372.html#aa7944f80bb6718a65a07128be830ed94", null ],
+    [ "UpdateAI", "de/d03/a24372.html#ad5f7769462aa39fabb7ec5e79670cda1", null ],
+    [ "AggroTargetGUID", "de/d03/a24372.html#a826ecad9e9a06050a3ebc0861bf52c1e", null ],
+    [ "AnimationCount", "de/d03/a24372.html#afbe712b9e3dfe97417e1e621f4eff113", null ],
+    [ "AnimationTimer", "de/d03/a24372.html#a2485ad15002946c0c5b2ebce65221629", null ],
+    [ "LordIllidanGUID", "de/d03/a24372.html#ad135529fe083af2ce3e79823213d2735", null ],
+    [ "SpellTimer1", "de/d03/a24372.html#a991868074e39e2a4d06c37afc642a756", null ],
+    [ "SpellTimer2", "de/d03/a24372.html#a7da30509a017de1392cc3ba181a0dc53", null ],
+    [ "SpellTimer3", "de/d03/a24372.html#a0caf2b2d48c78b2eb032ff73168e2556", null ],
+    [ "Timers", "de/d03/a24372.html#a0eb0c24aff4cdab76d234ba17dbc4b5b", null ]
 ];

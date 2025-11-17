@@ -1,6 +1,6 @@
 var a25072 =
 [
-    [ "CheckProc", "d7/d80/a25072.html#af742bdfd97c9202d50ed7aa1cf8e7d49", null ],
-    [ "PrepareAuraScript", "d7/d80/a25072.html#a255a58ad99059ba28ab09a94e7cc683a", null ],
-    [ "Register", "d7/d80/a25072.html#a4ec4dd2342a5b75c975dc6ffe0b02b79", null ]
+    [ "CheckLevel", "d7/d80/a25072.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
+    [ "PrepareSpellScript", "d7/d80/a25072.html#abc2bcce83810661ab462f56594066df3", null ],
+    [ "Register", "d7/d80/a25072.html#add6731563bd9a26d8f286bd29ffc8709", null ]
 ];

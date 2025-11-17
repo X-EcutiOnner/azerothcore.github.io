@@ -1,10 +1,8 @@
 var a28560 =
 [
-    [ "PvPDifficultyEntry", "d3/dd8/a28560.html#acdf17ca6dce80b7311bd6ae79ce16001", null ],
-    [ "GetBracketId", "d3/dd8/a28560.html#a4bcbc99d34ef8eaa7c15dbd33332c480", null ],
-    [ "bracketId", "d3/dd8/a28560.html#a670bce11b1d934167d8b3e990ea49d4a", null ],
-    [ "difficulty", "d3/dd8/a28560.html#a33ac017d785a4586a78e715d97836720", null ],
-    [ "mapId", "d3/dd8/a28560.html#a58c251f56a928bedbc7b9e8c6cbdbc5d", null ],
-    [ "maxLevel", "d3/dd8/a28560.html#a1385166568239f2118b65377df8b4b55", null ],
-    [ "minLevel", "d3/dd8/a28560.html#acd07e8d759af1b73ec7543f6e70df242", null ]
+    [ "canLink", "d3/dd8/a28560.html#aff87dafee61faf5afdf6248f6f3c9a35", null ],
+    [ "categoryId", "d3/dd8/a28560.html#abf285e69e8e2a90626a157cb0c50d158", null ],
+    [ "id", "d3/dd8/a28560.html#a7740b26f1bde19a05b002c00eded25e3", null ],
+    [ "name", "d3/dd8/a28560.html#afb5e77ab4f6faa132ca62f7664dce116", null ],
+    [ "spellIcon", "d3/dd8/a28560.html#a3a20ea7c73a6739e89bd570d6f4d4b03", null ]
 ];

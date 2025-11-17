@@ -1,6 +1,15 @@
 var a17376 =
 [
-    [ "HandleScriptEffect", "db/d58/a17376.html#ab9c289e946cfaf2b63f2526914d79812", null ],
-    [ "PrepareSpellScript", "db/d58/a17376.html#a832f8ab737254760fe2b91f19d119781", null ],
-    [ "Register", "db/d58/a17376.html#a86f620a16780cef2c09f45eefb6dad9c", null ]
+    [ "boss_gal_darah", "db/d58/a17376.html#a036b5f96ecf5096040f16e0205e4d57c", null ],
+    [ "GetData", "db/d58/a17376.html#a1f8ec6a0a95b10953506e08275db7a2c", null ],
+    [ "JustDied", "db/d58/a17376.html#a98f53f7131155114da1eeb19f5a50daa", null ],
+    [ "JustEngagedWith", "db/d58/a17376.html#acf7696bdfa868808f29a90dbec4b0688", null ],
+    [ "JustReachedHome", "db/d58/a17376.html#aba3c2011a01d4e00b7e1c28f0c4326b9", null ],
+    [ "JustSummoned", "db/d58/a17376.html#a490e259cf452c417864c978510d06fd2", null ],
+    [ "KilledUnit", "db/d58/a17376.html#a799e52cfe029164149017ea7f963937f", null ],
+    [ "Reset", "db/d58/a17376.html#a712339fe4a06d6a4836f4cbb5bd01625", null ],
+    [ "ScheduleEvents", "db/d58/a17376.html#ad5acba3d3bc049bb5bdcb95d31ef06d6", null ],
+    [ "SpellHit", "db/d58/a17376.html#a3f8cbe22aa2e0d39272b5b4dbfc5f06b", null ],
+    [ "_stampedeVictim", "db/d58/a17376.html#a0d34c4486c4188fcc6eb75e904d52a61", null ],
+    [ "impaledList", "db/d58/a17376.html#a08f311b7b7cec3bc4056b7d7071bfbf0", null ]
 ];

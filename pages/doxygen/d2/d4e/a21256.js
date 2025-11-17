@@ -1,7 +1,6 @@
 var a21256 =
 [
-    [ "HandleEffectPeriodic", "d2/d4e/a21256.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
-    [ "PrepareAuraScript", "d2/d4e/a21256.html#a748cd347867557b5048d9ba0c112cd80", null ],
-    [ "Register", "d2/d4e/a21256.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
-    [ "Validate", "d2/d4e/a21256.html#afa86789ef14b1d06094705ba6cfb9205", null ]
+    [ "instance_utgarde_keep_InstanceMapScript", "da/d91/a21260.html", "da/d91/a21260" ],
+    [ "instance_utgarde_keep", "d2/d4e/a21256.html#abe013e4f086f63722a6398b2b7928c80", null ],
+    [ "GetInstanceScript", "d2/d4e/a21256.html#a9a42e0dde1c7598eb2ef665f11e25e92", null ]
 ];

@@ -1,5 +1,6 @@
 var a28388 =
 [
-    [ "Itemlvl", "db/d36/a28388.html#a39d9dcee397a1f5984184c769f9b8b17", null ],
-    [ "multiplier", "db/d36/a28388.html#a5c6c206a6185a546223de7501ff846f6", null ]
+    [ "color", "db/d36/a28388.html#a2e4ee1d687af07445684907d1bcec4f4", null ],
+    [ "ID", "db/d36/a28388.html#ac125147c2dc5546a0116f48e08f36e59", null ],
+    [ "spellitemenchantement", "db/d36/a28388.html#a3a6329c8f5caa3cd6e61138339f37f4d", null ]
 ];

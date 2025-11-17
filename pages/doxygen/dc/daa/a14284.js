@@ -1,11 +1,8 @@
 var a14284 =
 [
-    [ "boss_marli", "dc/daa/a14284.html#abba94b400523047bfa9e3a5b34b1ee54", null ],
-    [ "_chargePlayer", "dc/daa/a14284.html#a54efa8663716fb32d6e390b76dc89ee1", null ],
-    [ "_schedulePhaseSpider", "dc/daa/a14284.html#aff86376080fdcb9773e0a4b2751d3ae6", null ],
-    [ "_schedulePhaseTroll", "dc/daa/a14284.html#ad6977930dac1cddd2162f7db1b239c83", null ],
-    [ "JustDied", "dc/daa/a14284.html#a10ab29949ef17e0f9ebd991dc70262c7", null ],
-    [ "JustEngagedWith", "dc/daa/a14284.html#ac74bd382c3dc826f7e4426bec3557094", null ],
-    [ "Reset", "dc/daa/a14284.html#ada18ae0feb0c512267ec6bd83b8ac591", null ],
-    [ "_phase", "dc/daa/a14284.html#af2b3f0e75ad60b6a9d013a3e9654021e", null ]
+    [ "npc_spawn_of_marli", "dc/daa/a14284.html#a1dcd5066de108203903f5767c4b375ea", null ],
+    [ "JustEngagedWith", "dc/daa/a14284.html#a1b8afff5d90df02d16b81785026b2ff0", null ],
+    [ "Reset", "dc/daa/a14284.html#a79ef192d41af75e0dad0494776c75189", null ],
+    [ "UpdateAI", "dc/daa/a14284.html#a1c456e7deb43d2e4dd1abc6f702c3f75", null ],
+    [ "_scheduler", "dc/daa/a14284.html#ae9d30ec62ff25a454824ff4334ad2d99", null ]
 ];

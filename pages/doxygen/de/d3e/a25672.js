@@ -1,8 +1,6 @@
 var a25672 =
 [
-    [ "OnApply", "de/d3e/a25672.html#aeec705e572ce6aa870bb5cc048e02e75", null ],
-    [ "OnRemove", "de/d3e/a25672.html#a38399457b6cb8ebf4c5e457e0590cb1a", null ],
-    [ "PrepareAuraScript", "de/d3e/a25672.html#a8d0f2113c0212a24e94054f3f1db0ad3", null ],
-    [ "Register", "de/d3e/a25672.html#a673dc5619a33632ba3d3f1793c5cfdb4", null ],
-    [ "Validate", "de/d3e/a25672.html#a65722a9826b14dc90cc6df47655d3d6b", null ]
+    [ "HandleItemRemove", "de/d3e/a25672.html#a28f8f8e6823bad14900d08ba10cab7e6", null ],
+    [ "PrepareSpellScript", "de/d3e/a25672.html#a8b43e146724a2c8b3c495e886a79d021", null ],
+    [ "Register", "de/d3e/a25672.html#af8b02c31b81dce516ea47d6a1235d683", null ]
 ];

@@ -1,8 +1,6 @@
 var a25248 =
 [
-    [ "CheckRequirement", "df/de0/a25248.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
-    [ "HandleScript", "df/de0/a25248.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
-    [ "Load", "df/de0/a25248.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
-    [ "PrepareSpellScript", "df/de0/a25248.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
-    [ "Register", "df/de0/a25248.html#a89d053e0ee793017c74188aac32d99d5", null ]
+    [ "CheckSeat", "df/de0/a25248.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
+    [ "PrepareSpellScript", "df/de0/a25248.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
+    [ "Register", "df/de0/a25248.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
 ];

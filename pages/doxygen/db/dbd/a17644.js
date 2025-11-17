@@ -1,8 +1,6 @@
 var a17644 =
 [
-    [ "CheckProc", "db/dbd/a17644.html#a11620e4d645b3bfd35924700b5dad289", null ],
-    [ "HandleProc", "db/dbd/a17644.html#aa80a032f2ec80aba36f6fe0208412587", null ],
-    [ "PrepareAuraScript", "db/dbd/a17644.html#afe04f0cb6539238412253b63dd3c82b9", null ],
-    [ "Register", "db/dbd/a17644.html#ac18d1d1a1d19b0dfa5cb1565377ba273", null ],
-    [ "Validate", "db/dbd/a17644.html#ac42fe3248fadf0ecca95893e06c490ee", null ]
+    [ "PrepareAuraScript", "db/dbd/a17644.html#abbcd0a9a63908a875bcdbc66fb5e1218", null ],
+    [ "RecalculateHook", "db/dbd/a17644.html#a829e96cabbb565922f7183adb3edf13c", null ],
+    [ "Register", "db/dbd/a17644.html#a7ded7cbe8c5cbffd6798bbb66d8a5d1a", null ]
 ];

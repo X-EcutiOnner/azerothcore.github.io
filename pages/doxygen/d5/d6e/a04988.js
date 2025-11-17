@@ -1,8 +1,7 @@
 var a04988 =
 [
-    [ "AreaInfo", "d5/d6e/a04988.html#a5cff768781236ef358e8864269d739e4", null ],
-    [ "adtId", "d5/d6e/a04988.html#a6e13cfcbd4aa9c36fb80be7913640730", null ],
-    [ "groupId", "d5/d6e/a04988.html#ae0e0518b31f3a16121bf3abd0770eb57", null ],
-    [ "mogpFlags", "d5/d6e/a04988.html#ace485f0168c41ce50c78c782dd6301fd", null ],
-    [ "rootId", "d5/d6e/a04988.html#a225d78ba13f20c147b92c6dfac1b37ad", null ]
+    [ "LiquidInfo", "d5/d6e/a04988.html#a0caefac43d2f5c59446e2a9f7e565c11", null ],
+    [ "LiquidInfo", "d5/d6e/a04988.html#abfae4e75223a93b5b71840f60710afb9", null ],
+    [ "level", "d5/d6e/a04988.html#ade8f31cc9adc77ff82724134b5ebba24", null ],
+    [ "type", "d5/d6e/a04988.html#a46eda7aed64f2a5b0bd5ce1f88942c20", null ]
 ];

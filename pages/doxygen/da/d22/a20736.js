@@ -1,5 +1,6 @@
 var a20736 =
 [
-    [ "go_ulduar_working_harpoon", "da/d22/a20736.html#a9aaaa16f23f07e402f20a048fd69d347", null ],
-    [ "OnGossipHello", "da/d22/a20736.html#a164bdd0a9538293699665a821c4f25f3", null ]
+    [ "npc_ulduar_dark_rune_watcherAI", "d0/d65/a20740.html", "d0/d65/a20740" ],
+    [ "npc_ulduar_dark_rune_watcher", "da/d22/a20736.html#a0536c61d70d5c6d61496fc1720d37950", null ],
+    [ "GetAI", "da/d22/a20736.html#a6677d6dc0d07b508e921064f3299b302", null ]
 ];

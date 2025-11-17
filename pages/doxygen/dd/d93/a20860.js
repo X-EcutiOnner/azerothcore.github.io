@@ -1,5 +1,5 @@
 var a20860 =
 [
-    [ "go_thorim_lever", "dd/d93/a20860.html#a7641a89c3c369d26753a6e97dd435802", null ],
-    [ "OnGossipHello", "dd/d93/a20860.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
+    [ "achievement_thorim_stand_in_the_lightning", "dd/d93/a20860.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
+    [ "OnCheck", "dd/d93/a20860.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
 ];

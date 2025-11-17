@@ -1,8 +1,7 @@
 var a25364 =
 [
-    [ "CheckCast", "db/d64/a25364.html#a459b6aa2fd05ffc5cb97815a53e2797c", null ],
-    [ "HandleScript", "db/d64/a25364.html#a2c1702398e4cbdcc106679d534a27743", null ],
-    [ "PrepareSpellScript", "db/d64/a25364.html#a613bdf7841744632c1e6de147e0352b9", null ],
-    [ "Register", "db/d64/a25364.html#ada961aaa5679aa00cc650d6e97487ca4", null ],
-    [ "Validate", "db/d64/a25364.html#a0a9de0825edf5c82b91dbe7326a65de9", null ]
+    [ "HandleScript", "db/d64/a25364.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
+    [ "PrepareSpellScript", "db/d64/a25364.html#a7909f23da8385abdabb62e5196d88d38", null ],
+    [ "Register", "db/d64/a25364.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
+    [ "Validate", "db/d64/a25364.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
 ];

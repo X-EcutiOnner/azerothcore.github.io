@@ -1,37 +1,26 @@
 var a03134 =
 [
-    [ "npc_emily", "d0/dea/a22088.html", "d0/dea/a22088" ],
-    [ "npc_emily::npc_emilyAI", "d9/d0f/a22092.html", "d9/d0f/a22092" ],
-    [ "npc_mrfloppy", "dd/d49/a22096.html", "dd/d49/a22096" ],
-    [ "npc_mrfloppy::npc_mrfloppyAI", "d8/da7/a22100.html", "d8/da7/a22100" ],
-    [ "npc_ravenous_worg", "d7/dea/a22104.html", "d7/dea/a22104" ],
-    [ "npc_ravenous_worg::npc_ravenous_worgAI", "d2/d99/a22108.html", "d2/d99/a22108" ],
-    [ "spell_q12227_outhouse_groans", "d8/d46/a22112.html", "d8/d46/a22112" ],
-    [ "spell_q12227_camera_shake", "d9/d90/a22116.html", "d9/d90/a22116" ],
-    [ "npc_tallhorn_stag", "d6/d2b/a22120.html", "d6/d2b/a22120" ],
-    [ "npc_tallhorn_stag::npc_tallhorn_stagAI", "dd/dc4/a22124.html", "dd/dc4/a22124" ],
-    [ "npc_amberpine_woodsman", "d7/da8/a22128.html", "d7/da8/a22128" ],
-    [ "npc_amberpine_woodsman::npc_amberpine_woodsmanAI", "de/da6/a22132.html", "de/da6/a22132" ],
-    [ "npc_wounded_skirmisher", "d3/dc2/a22136.html", "d3/dc2/a22136" ],
-    [ "spell_renew_skirmisher", "df/df1/a22140.html", "df/df1/a22140" ],
-    [ "npc_venture_co_straggler", "df/da9/a22144.html", "df/da9/a22144" ],
-    [ "npc_venture_co_straggler::npc_venture_co_stragglerAI", "d8/daf/a22148.html", "d8/daf/a22148" ],
-    [ "npc_lake_frog", "dd/d1c/a22152.html", "dd/d1c/a22152" ],
-    [ "npc_lake_frog::npc_lake_frogAI", "d6/dda/a22156.html", "d6/dda/a22156" ],
-    [ "spell_shredder_delivery", "d4/dbe/a22160.html", "d4/dbe/a22160" ],
-    [ "spell_infected_worgen_bite_aura", "df/d03/a22164.html", "df/d03/a22164" ],
-    [ "spell_vehicle_warhead_fuse", "db/d02/a22168.html", "db/d02/a22168" ],
-    [ "spell_warhead_detonate", "d8/de2/a22172.html", "d8/de2/a22172" ],
-    [ "spell_z_check_aura", "d5/d70/a22176.html", "d5/d70/a22176" ],
-    [ "spell_warhead_fuse_aura", "dc/d0e/a22180.html", "dc/d0e/a22180" ],
-    [ "spell_frog_kiss", "d6/d9d/a22184.html", "d6/d9d/a22184" ],
-    [ "AmberpineWoodsman", "d7/d66/a03134.html#a2481d0a3a1ce71a0f4ff320582eb107e", [
-      [ "NPC_TALLHORN_STAG", "d7/d66/a03134.html#a2481d0a3a1ce71a0f4ff320582eb107ea9bda1d7448864e7f142ccf1779a35c07", null ]
-    ] ],
-    [ "AmberpineWoodsmanEvents", "d7/d66/a03134.html#ab497765271686da90c5a54779670f26a", [
-      [ "EVENT_WOODSMAN_1", "d7/d66/a03134.html#ab497765271686da90c5a54779670f26aa3cc87a4d1160ed0a94150838414883f3", null ],
-      [ "EVENT_WOODSMAN_2", "d7/d66/a03134.html#ab497765271686da90c5a54779670f26aa15d81ffc64f16e7b41710173ab817e78", null ]
-    ] ],
+    [ "npc_emily", "d3/da2/a22080.html", "d3/da2/a22080" ],
+    [ "npc_emily::npc_emilyAI", "da/db8/a22084.html", "da/db8/a22084" ],
+    [ "npc_mrfloppy", "d0/dea/a22088.html", "d0/dea/a22088" ],
+    [ "npc_mrfloppy::npc_mrfloppyAI", "d9/d0f/a22092.html", "d9/d0f/a22092" ],
+    [ "npc_ravenous_worg", "dd/d49/a22096.html", "dd/d49/a22096" ],
+    [ "npc_ravenous_worg::npc_ravenous_worgAI", "d8/da7/a22100.html", "d8/da7/a22100" ],
+    [ "spell_q12227_outhouse_groans", "d7/dea/a22104.html", "d7/dea/a22104" ],
+    [ "spell_q12227_camera_shake", "d2/d99/a22108.html", "d2/d99/a22108" ],
+    [ "npc_wounded_skirmisher", "d8/d46/a22112.html", "d8/d46/a22112" ],
+    [ "spell_renew_skirmisher", "d9/d90/a22116.html", "d9/d90/a22116" ],
+    [ "npc_venture_co_straggler", "d6/d2b/a22120.html", "d6/d2b/a22120" ],
+    [ "npc_venture_co_straggler::npc_venture_co_stragglerAI", "dd/dc4/a22124.html", "dd/dc4/a22124" ],
+    [ "npc_lake_frog", "d7/da8/a22128.html", "d7/da8/a22128" ],
+    [ "npc_lake_frog::npc_lake_frogAI", "de/da6/a22132.html", "de/da6/a22132" ],
+    [ "spell_shredder_delivery", "d3/dc2/a22136.html", "d3/dc2/a22136" ],
+    [ "spell_infected_worgen_bite_aura", "df/df1/a22140.html", "df/df1/a22140" ],
+    [ "spell_vehicle_warhead_fuse", "df/da9/a22144.html", "df/da9/a22144" ],
+    [ "spell_warhead_detonate", "d8/daf/a22148.html", "d8/daf/a22148" ],
+    [ "spell_z_check_aura", "dd/d1c/a22152.html", "dd/d1c/a22152" ],
+    [ "spell_warhead_fuse_aura", "d6/dda/a22156.html", "d6/dda/a22156" ],
+    [ "spell_frog_kiss", "d4/dbe/a22160.html", "d4/dbe/a22160" ],
     [ "Floppy", "d7/d66/a03134.html#ab1bd007b7ebb943adde818cfcf94f6c8", [
       [ "NPC_MRFLOPPY", "d7/d66/a03134.html#ab1bd007b7ebb943adde818cfcf94f6c8a754d24d698857ba9da624cb55ebd7539", null ],
       [ "NPC_HUNGRY_WORG", "d7/d66/a03134.html#ab1bd007b7ebb943adde818cfcf94f6c8ac0fa400226b2f4b7b50046653adaf4ec", null ],
@@ -122,9 +111,6 @@ var a03134 =
       [ "EVENT_STRAGGLER_3", "d7/d66/a03134.html#abebd8dab501f326c5ae89500145c96a0a153337d35888c768586b16945aeab0db", null ],
       [ "EVENT_STRAGGLER_4", "d7/d66/a03134.html#abebd8dab501f326c5ae89500145c96a0a981730ec63bc9362a60905f2c485ba69", null ],
       [ "EVENT_CHOP", "d7/d66/a03134.html#abebd8dab501f326c5ae89500145c96a0af1a459e1e4ac32608277cef4939a02a1", null ]
-    ] ],
-    [ "TallhornStage", "d7/d66/a03134.html#adfdcfce0226bbf9a76589dc22942d111", [
-      [ "OBJECT_HAUNCH", "d7/d66/a03134.html#adfdcfce0226bbf9a76589dc22942d111a1be59b93a1b6b1119cbaac8759f934b2", null ]
     ] ],
     [ "WarheadDenonate", "d7/d66/a03134.html#af53d541bd7e5f88ba27ddb5d6beefcbe", [
       [ "SPELL_PARACHUTE", "d7/d66/a03134.html#af53d541bd7e5f88ba27ddb5d6beefcbea0e716768b8b569aa1680571370c2109b", null ],

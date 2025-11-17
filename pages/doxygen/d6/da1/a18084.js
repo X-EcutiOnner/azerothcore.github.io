@@ -1,11 +1,8 @@
 var a18084 =
 [
-    [ "Load", "d6/da1/a18084.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
-    [ "PrepareSpellScript", "d6/da1/a18084.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
-    [ "Register", "d6/da1/a18084.html#a9adbad7cc2185b22fb16135e78114548", null ],
-    [ "SelectTarget", "d6/da1/a18084.html#a296ec09cec9661123ea5c86f3f262f32", null ],
-    [ "SetTarget", "d6/da1/a18084.html#a15373dc2a0767e011faf504f6377e24d", null ],
-    [ "StartAttack", "d6/da1/a18084.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
-    [ "Validate", "d6/da1/a18084.html#a7619f7ec6dc0ce14293414729731ed00", null ],
-    [ "_target", "d6/da1/a18084.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
+    [ "FilterTargets", "d6/da1/a18084.html#a1b125c887db7d2030838d0ac8e38c4e3", null ],
+    [ "HandleScript", "d6/da1/a18084.html#a4c7be5a65b1fb7e8db62691f5ef6b38d", null ],
+    [ "PrepareSpellScript", "d6/da1/a18084.html#ae6b30b8da52141c385f985435cac99a1", null ],
+    [ "Register", "d6/da1/a18084.html#a17dc25670b0f21525a01f6e7aa7eb572", null ],
+    [ "Validate", "d6/da1/a18084.html#accff1f03fb7c0d56cb197bb18348635c", null ]
 ];

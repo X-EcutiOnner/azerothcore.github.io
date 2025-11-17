@@ -1,6 +1,6 @@
 var a23984 =
 [
-    [ "HandleCast", "de/d19/a23984.html#a912dc3b17ab7d0818089c32610d82a16", null ],
-    [ "PrepareSpellScript", "de/d19/a23984.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
-    [ "Register", "de/d19/a23984.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
+    [ "npc_capernian", "de/d19/a23984.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "de/d19/a23984.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "de/d19/a23984.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

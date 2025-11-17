@@ -1,8 +1,7 @@
 var a26936 =
 [
-    [ "ApplyDebuff", "db/dae/a26936.html#a76ecb96d27c54b18f3628476dae4cc73", null ],
-    [ "PrepareSpellScript", "db/dae/a26936.html#aeff4dce89b0d893b90571e0ff63e1aaa", null ],
-    [ "Register", "db/dae/a26936.html#ae53dfd7f60a1c4132c441f7cd1595b95", null ],
-    [ "RemoveInvalidTargets", "db/dae/a26936.html#a1374c764b20b95febbca44c593bde218", null ],
-    [ "Validate", "db/dae/a26936.html#a2eb14ea281b41b08acd4514c01aa938f", null ]
+    [ "AfterRemove", "db/dae/a26936.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
+    [ "PrepareAuraScript", "db/dae/a26936.html#af338af238305f1872275e1e5e9fdee16", null ],
+    [ "Register", "db/dae/a26936.html#aa266e794be35b51a399b13ee2d06199d", null ],
+    [ "Validate", "db/dae/a26936.html#af58098eb7a904e20846cf728f5adc18b", null ]
 ];

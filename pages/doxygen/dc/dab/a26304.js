@@ -1,6 +1,9 @@
 var a26304 =
 [
-    [ "CheckProc", "dc/dab/a26304.html#a0f1461140b08deac3f044142067368e7", null ],
-    [ "PrepareAuraScript", "dc/dab/a26304.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
-    [ "Register", "dc/dab/a26304.html#a05e31c2252c9054a18b4267be84895b9", null ]
+    [ "CountTargets", "dc/dab/a26304.html#a85a60a3ada7ea2b8c995bc156be36fe2", null ],
+    [ "HandleDummy", "dc/dab/a26304.html#af51f59f6cb8e2a6d99b3c05cebfcfa89", null ],
+    [ "PrepareSpellScript", "dc/dab/a26304.html#adfb7e3fbb52aa349573b95c457823900", null ],
+    [ "Register", "dc/dab/a26304.html#a9180a01674a1f56c287d40bfbdf6d841", null ],
+    [ "Validate", "dc/dab/a26304.html#a5dd09977efde2d3433aff4d35687d5e8", null ],
+    [ "_targetCount", "dc/dab/a26304.html#aa9a0fb36eafd8535fcd2bddda56d7107", null ]
 ];

@@ -1,12 +1,6 @@
 var a13972 =
 [
-    [ "npc_daphne_stilwellAI", "dc/df4/a13972.html#ac2e9f940bc64a70ff8a386e4f483a65e", null ],
-    [ "AttackStart", "dc/df4/a13972.html#a30056a45adb91a12cf7bcc4e9f0b2d54", null ],
-    [ "JustSummoned", "dc/df4/a13972.html#ae56554d30e9de7644efab891555c57e0", null ],
-    [ "Reset", "dc/df4/a13972.html#ae6f0b271478aecf7fd1f3e1c733d77f0", null ],
-    [ "SummonedCreatureDies", "dc/df4/a13972.html#aa6fdcf9e09031522d342b603b4c70aed", null ],
-    [ "Update", "dc/df4/a13972.html#a4099d75c4a6bca1525781a5753ef9972", null ],
-    [ "WaypointReached", "dc/df4/a13972.html#a1035eb0a1696730d8304593b5fb079e4", null ],
-    [ "summons", "dc/df4/a13972.html#a0cbf5aaf1cb2f234e725074de0acc7e6", null ],
-    [ "textCounter", "dc/df4/a13972.html#a62ab24169c1b7c3028ab33303b217f63", null ]
+    [ "npc_tapoke_slim_jahnAI", "dc/d4c/a13976.html", "dc/d4c/a13976" ],
+    [ "npc_tapoke_slim_jahn", "dc/df4/a13972.html#a61e36b57f8ba78c371d454efb1512579", null ],
+    [ "GetAI", "dc/df4/a13972.html#a397629742eace1b96dfd9d4a2e55cc32", null ]
 ];

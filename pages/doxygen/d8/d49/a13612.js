@@ -1,9 +1,9 @@
 var a13612 =
 [
-    [ "boss_muru", "d8/d49/a13612.html#a6e51cd6b3283f011fc834e0cc59f46e6", null ],
-    [ "DamageTaken", "d8/d49/a13612.html#a570c8cc6aaefaac4063d9f1053c04b32", null ],
-    [ "JustEngagedWith", "d8/d49/a13612.html#a305f5f20fbe3d15885ed3e6248d96ec6", null ],
-    [ "JustSummoned", "d8/d49/a13612.html#a7cf18b5f12586d122ece406feaa5bc39", null ],
-    [ "MoveInLineOfSight", "d8/d49/a13612.html#aa589d640b73c0b3e944585bdc702a8ee", null ],
-    [ "Reset", "d8/d49/a13612.html#a177aed9c1e5c1380fc8ea5f8c29650c6", null ]
+    [ "boss_entropius", "d8/d49/a13612.html#a458deaa80c9694cd2608150bc5519c76", null ],
+    [ "EnterEvadeMode", "d8/d49/a13612.html#a01889b192525af082471d092bff28c88", null ],
+    [ "JustDied", "d8/d49/a13612.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
+    [ "JustEngagedWith", "d8/d49/a13612.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
+    [ "Reset", "d8/d49/a13612.html#ad9da990a540703d38cb45dd2da72c179", null ],
+    [ "UpdateAI", "d8/d49/a13612.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
 ];

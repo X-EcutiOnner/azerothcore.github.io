@@ -1,7 +1,7 @@
 var a05116 =
 [
-    [ "WModelRayCallBack", "db/dbc/a05116.html#ac234cf795a07aab6e456c608dd80bbea", null ],
-    [ "operator()", "db/dbc/a05116.html#a8f658081b44bda2527aa568a139bfd14", null ],
-    [ "hit", "db/dbc/a05116.html#a014e322fc087c2f07617361e0bc585e3", null ],
-    [ "models", "db/dbc/a05116.html#aaad14391ed1379dc3c367e6e522b1150", null ]
+    [ "WModelAreaCallback", "db/dbc/a05116.html#aef7e8c21f6be4d6889faddda6b3be326", null ],
+    [ "operator()", "db/dbc/a05116.html#a8024f924c258932c874c0ac3539d2755", null ],
+    [ "hit", "db/dbc/a05116.html#a92b907262a6e2fa630148580da43c612", null ],
+    [ "prims", "db/dbc/a05116.html#abe509366e68fff92e07c1aacb90da04f", null ]
 ];

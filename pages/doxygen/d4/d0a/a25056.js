@@ -1,6 +1,7 @@
 var a25056 =
 [
-    [ "CheckAreaTarget", "d4/d0a/a25056.html#a545323b9964ee4cb3c8d054fac4e2d55", null ],
-    [ "PrepareAuraScript", "d4/d0a/a25056.html#a2b6dbd33e34357917f662000a1cd932f", null ],
-    [ "Register", "d4/d0a/a25056.html#a7b4a2301b3a608ea5b2dd2504e02741d", null ]
+    [ "HandleApply", "d4/d0a/a25056.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
+    [ "HandlePeriodicTimer", "d4/d0a/a25056.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
+    [ "PrepareAuraScript", "d4/d0a/a25056.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
+    [ "Register", "d4/d0a/a25056.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
 ];

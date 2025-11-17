@@ -1,6 +1,7 @@
 var a19124 =
 [
-    [ "boss_isle_of_conquestAI", "d8/d76/a19128.html", "d8/d76/a19128" ],
-    [ "boss_isle_of_conquest", "d9/d68/a19124.html#ad4052d1b6865585d32016e1240449659", null ],
-    [ "GetAI", "d9/d68/a19124.html#ae14201c4f8654bf2c0cd9ac8a82f3800", null ]
+    [ "HandleGameObjectDamage", "d9/d68/a19124.html#a811edfe01c1784664b5b4253d2305b4e", null ],
+    [ "PrepareSpellScript", "d9/d68/a19124.html#a0cfedeba2a747777de292b8f30b6752b", null ],
+    [ "Register", "d9/d68/a19124.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
+    [ "Validate", "d9/d68/a19124.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
 ];

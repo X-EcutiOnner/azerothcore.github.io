@@ -1,6 +1,6 @@
 var a18728 =
 [
-    [ "HandleScript", "df/daf/a18728.html#a567509ccadbc74b3ba9e420f08a0c2b4", null ],
-    [ "PrepareSpellScript", "df/daf/a18728.html#aac5f2cb3e5f498ae46598e95eece825d", null ],
-    [ "Register", "df/daf/a18728.html#a11c40abf4db37e1498b1a7ee5089f083", null ]
+    [ "PeriodicTick", "df/daf/a18728.html#ac0b2cf06027c2f658745d6a90dfc76a1", null ],
+    [ "PrepareAuraScript", "df/daf/a18728.html#a0767ac60151517b803e871a0fcb25967", null ],
+    [ "Register", "df/daf/a18728.html#afd1e28b224035aef5ac109f38d7e118d", null ]
 ];

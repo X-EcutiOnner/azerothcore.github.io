@@ -1,5 +1,8 @@
 var a27916 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "d0/d03/a27916.html#afaa929276f8b131005c9b94daa9a09f9", null ],
-    [ "OnPlayerCompleteQuest", "d0/d03/a27916.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
+    [ "npc_minion_spawner", "d0/d03/a27916.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
+    [ "CanSpawnRareMinion", "d0/d03/a27916.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
+    [ "JustSummoned", "d0/d03/a27916.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
+    [ "Reset", "d0/d03/a27916.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
+    [ "UpdateAI", "d0/d03/a27916.html#a24f93f1314bb73edb369e188eda83104", null ]
 ];

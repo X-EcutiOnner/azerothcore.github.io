@@ -1,13 +1,7 @@
 var a26584 =
 [
-    [ "spell_generic_quest_update_entry_SpellScript", "da/d10/a26584.html#a9b022232661d4680f5bdf7080fc81b29", null ],
-    [ "HandleDummy", "da/d10/a26584.html#a891c357279ecee2e7fce323761607285", null ],
-    [ "PrepareSpellScript", "da/d10/a26584.html#a3bf2605d8aa31e694b479f0de9f1703e", null ],
-    [ "Register", "da/d10/a26584.html#af04e51cff5344f1acef7607080501736", null ],
-    [ "_despawnTime", "da/d10/a26584.html#a5481894286d3aa5ea6aec0f00dd88d22", null ],
-    [ "_effIndex", "da/d10/a26584.html#a46dd459dc324dfea871c93a0b3b5d8f1", null ],
-    [ "_newEntry", "da/d10/a26584.html#ad76d907c9200985e9aa1e2c5006d0c46", null ],
-    [ "_originalEntry", "da/d10/a26584.html#ad7d8ddda30c4b9f322ddaee8b014c233", null ],
-    [ "_shouldAttack", "da/d10/a26584.html#acf0c48dd134c5e8bb207983e8f520f22", null ],
-    [ "_spellEffect", "da/d10/a26584.html#af02e04bbac8a4ad1d84c72b7f337249e", null ]
+    [ "HandleDummy", "da/d10/a26584.html#a367bd26543382ad71668fbe4f524d823", null ],
+    [ "PrepareSpellScript", "da/d10/a26584.html#a71cde3f81fdb253d8e93a19be104e9db", null ],
+    [ "Register", "da/d10/a26584.html#a7c73e3381592bef44d2265aff296b301", null ],
+    [ "Validate", "da/d10/a26584.html#a03d59b6859286dbe460b348df6de63d7", null ]
 ];

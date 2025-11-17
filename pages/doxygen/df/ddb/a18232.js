@@ -1,6 +1,6 @@
 var a18232 =
 [
-    [ "npc_ice_tombAI", "d4/d20/a18236.html", "d4/d20/a18236" ],
-    [ "npc_ice_tomb", "df/ddb/a18232.html#a939c6083a77a6f4cb2a940ec9c1df55e", null ],
-    [ "GetAI", "df/ddb/a18232.html#ac99b7c9887e54a1764310bd3e079811a", null ]
+    [ "UnchainedMagicTargetSelector", "df/ddb/a18232.html#ae412c72884e6cfb1ceef8ed9fb347fbf", null ],
+    [ "operator()", "df/ddb/a18232.html#af28ce8f46154ae6152e9025775a7f84f", null ],
+    [ "_removeHealers", "df/ddb/a18232.html#a35a7981ce5495cba8b3a5391e4031431", null ]
 ];

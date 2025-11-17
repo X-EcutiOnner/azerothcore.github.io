@@ -1,9 +1,9 @@
 var a00866 =
 [
-    [ "SplineHandler", "df/d70/a08736.html", "df/d70/a08736" ],
-    [ "spellIdImmunityPredicate", "d7/d9e/a08740.html", "d7/d9e/a08740" ],
-    [ "ProcTriggeredData", "d1/d74/a08744.html", "d1/d74/a08744" ],
-    [ "AuraMunchingQueue", "d4/dd6/a08748.html", "d4/dd6/a08748" ],
+    [ "SplineHandler", "dc/d0b/a08732.html", "dc/d0b/a08732" ],
+    [ "spellIdImmunityPredicate", "df/d70/a08736.html", "df/d70/a08736" ],
+    [ "ProcTriggeredData", "d7/d9e/a08740.html", "d7/d9e/a08740" ],
+    [ "AuraMunchingQueue", "d1/d74/a08744.html", "d1/d74/a08744" ],
     [ "ProcTriggeredList", "dd/db2/a00866.html#af5ec5d5b1ba4d4454c1bdcbc139de758", null ],
     [ "createProcExtendMask", "dd/db2/a00866.html#afb539370dad036ff97905efdbb4270c0", null ],
     [ "createProcFlags", "dd/db2/a00866.html#a7d920511c20f084098c0f68a75006159", null ],

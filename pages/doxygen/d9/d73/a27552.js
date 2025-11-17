@@ -1,6 +1,5 @@
 var a27552 =
 [
-    [ "go_fel_crystalforge", "d9/d73/a27552.html#aa44708a617edd51651da49918ab776e5", null ],
-    [ "OnGossipHello", "d9/d73/a27552.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
-    [ "OnGossipSelect", "d9/d73/a27552.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
+    [ "go_dragonflayer_cage", "d9/d73/a27552.html#a9f36ba678a1e3954f21b96b227fb999e", null ],
+    [ "OnGossipHello", "d9/d73/a27552.html#a542530a0b84879b21a4b9982cf4300d0", null ]
 ];

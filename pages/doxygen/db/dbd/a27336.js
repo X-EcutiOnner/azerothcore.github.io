@@ -1,6 +1,9 @@
 var a27336 =
 [
-    [ "AreaTrigger_at_brewfest", "db/dbd/a27336.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
-    [ "OnTrigger", "db/dbd/a27336.html#a17e4a8d671136466c7673789e4f69a84", null ],
-    [ "_triggerTimes", "db/dbd/a27336.html#ab763765427796ad17338bcc8d63cf891", null ]
+    [ "boss_lethonAI", "db/dbd/a27336.html#ac5d53a746f5286776b2e510f1de86790", null ],
+    [ "DamageTaken", "db/dbd/a27336.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
+    [ "JustEngagedWith", "db/dbd/a27336.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
+    [ "Reset", "db/dbd/a27336.html#a0e53d139f64d104557e157a91176a47a", null ],
+    [ "SpellHitTarget", "db/dbd/a27336.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
+    [ "_stage", "db/dbd/a27336.html#aa267296ee60efc7d39a20dc05afec081", null ]
 ];

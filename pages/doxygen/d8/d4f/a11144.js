@@ -1,12 +1,12 @@
 var a11144 =
 [
-    [ "OpcodeTable", "d3/d7d/a04797.html#gacb286fdd22f1781abfb0d820b1f345aa", null ],
-    [ "OpcodeTable", "d3/d7d/a04797.html#ga0d719536cf746ad04a8ecc4fcca4a869", null ],
-    [ "~OpcodeTable", "d3/d7d/a04797.html#gac4e0724e0795156122c4fd8f07ade628", null ],
-    [ "Initialize", "d3/d7d/a04797.html#gac64814869d378e5bb7fa18144693fac1", null ],
-    [ "operator=", "d3/d7d/a04797.html#ga2153d4fe6b752cc2269cbfec7e8c3c84", null ],
-    [ "operator[]", "d3/d7d/a04797.html#gaa2cde2ecf8628ce12487ec9ce8fa37d1", null ],
-    [ "ValidateAndSetClientOpcode", "d3/d7d/a04797.html#ga95313e8e04ed3ab47f7104db9cf1db09", null ],
-    [ "ValidateAndSetServerOpcode", "d3/d7d/a04797.html#ga42b9c6fd72c2f463ab5cb3fb562151b6", null ],
-    [ "_internalTableClient", "d3/d7d/a04797.html#ga8c0d7f9f6248f9652fd8b8021b9a7677", null ]
+    [ "Build", "d8/d4f/a11144.html#aa5ed2806342a36723f1317105ebc13fa", null ],
+    [ "FormatVersion", "d8/d4f/a11144.html#abf0c90aa56c9f74e4139b4a1ead3115e", null ],
+    [ "Locale", "d8/d4f/a11144.html#acdcbe4c10ad6143b756638349c185ae5", null ],
+    [ "OptionalDataSize", "d8/d4f/a11144.html#a88c79f6e69197e23ce191bcef187c0fe", null ],
+    [ "SessionKey", "d8/d4f/a11144.html#aff4e4f46725d72923bac3e197ae7d2e3", null ],
+    [ "Signature", "d8/d4f/a11144.html#a34b88d6d83daeee7827176993c152de4", null ],
+    [ "SnifferId", "d8/d4f/a11144.html#a95d3f116ef30a096970ee4f3dd10e2ed", null ],
+    [ "SniffStartTicks", "d8/d4f/a11144.html#a1884076ea4fe5af08964471d0058fd4d", null ],
+    [ "SniffStartUnixtime", "d8/d4f/a11144.html#a8923983e21b7a7f1dd3ee4f21b7df592", null ]
 ];

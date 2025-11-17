@@ -1,17 +1,12 @@
 var a19684 =
 [
-    [ "boss_bjarngrim", "d1/d19/a19684.html#a1bf90864479939ba3f251c38b173e23a", null ],
-    [ "InitializeWaypoints", "d1/d19/a19684.html#a87eab2b27b48d98b94a030936722781e", null ],
-    [ "JustDied", "d1/d19/a19684.html#a5a1ea3f7825d5a90feabc2b18865e75f", null ],
-    [ "JustEngagedWith", "d1/d19/a19684.html#ad150ab7d9837861e8c4673a78978bb11", null ],
-    [ "KilledUnit", "d1/d19/a19684.html#abd4d83ebc59cac8cf97fa495d42675f8", null ],
-    [ "RemoveStanceAura", "d1/d19/a19684.html#a55a695e27192313c6cbe263a739e669e", null ],
-    [ "Reset", "d1/d19/a19684.html#a1f61ac153bb78129c89e6caba7dc7522", null ],
-    [ "RollStance", "d1/d19/a19684.html#acd511435f9d77aa4839e1c856382ea51", null ],
-    [ "UpdateEscortAI", "d1/d19/a19684.html#ab0c5aea43ef8c40c0af6a336dccd2b97", null ],
-    [ "WaypointReached", "d1/d19/a19684.html#a9706ccb196a09fe5f16efb20578f83f0", null ],
-    [ "events", "d1/d19/a19684.html#ac72b38eced65a3246b4c83a82caf44cb", null ],
-    [ "m_pInstance", "d1/d19/a19684.html#ad72abbd2eaa7d56fd1b409ffd2980d87", null ],
-    [ "m_uiStance", "d1/d19/a19684.html#aec11755c71f056c8294a8af1c1084353", null ],
-    [ "summons", "d1/d19/a19684.html#a9cacb3d985fb9e4b2501ab4b4334cdab", null ]
+    [ "npc_spark_of_ionar", "d1/d19/a19684.html#a93df0828e409a44008257294855f8d7a", null ],
+    [ "AttackStart", "d1/d19/a19684.html#a36181ef97213713c104edf4b085bc46e", null ],
+    [ "DamageTaken", "d1/d19/a19684.html#a8588089b67b8b53a9e3dead149aaa5f7", null ],
+    [ "DoAction", "d1/d19/a19684.html#ac9f1cb076f8d9072c88343f2deb7c0a0", null ],
+    [ "MoveInLineOfSight", "d1/d19/a19684.html#a1316e69a928d28c805a94bb2bb6f557a", null ],
+    [ "Reset", "d1/d19/a19684.html#a1a7c2e034333efdc80117b03f2e6740e", null ],
+    [ "UpdateAI", "d1/d19/a19684.html#ae251d676f0505db2383e61ef007932a0", null ],
+    [ "_events", "d1/d19/a19684.html#a73265e8783c32a09c9d4ee13f1ecba58", null ],
+    [ "returning", "d1/d19/a19684.html#acd1c868f422a7758ce19f6ef7f5bda17", null ]
 ];

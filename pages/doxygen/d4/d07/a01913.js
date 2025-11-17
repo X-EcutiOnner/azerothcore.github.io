@@ -1,7 +1,7 @@
 var a01913 =
 [
-    [ "boss_anzu", "db/db1/a22832.html", "db/db1/a22832" ],
-    [ "npc_anzu_spirit", "d5/d6a/a22836.html", "d5/d6a/a22836" ],
+    [ "boss_anzu", "d9/d45/a22800.html", "d9/d45/a22800" ],
+    [ "npc_anzu_spirit", "dc/d34/a22804.html", "dc/d34/a22804" ],
     [ "Npc", "d4/d07/a01913.html#a8d8031a9ef6bd14633aa0a1bc87e2753", [
       [ "NPC_IRON_SLUDGE", "d5/dea/a02927.html#a8d8031a9ef6bd14633aa0a1bc87e2753a8ef27256382a54362848418fa570723e", null ],
       [ "NPC_DWARFES_FRIENDLY", "d5/dea/a02927.html#a8d8031a9ef6bd14633aa0a1bc87e2753a0bd0bac75b5f94a8f392db802d5d55b7", null ],

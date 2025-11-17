@@ -1,6 +1,11 @@
 var a20780 =
 [
-    [ "boss_thorim_sifAI", "d3/d96/a20784.html", "d3/d96/a20784" ],
-    [ "boss_thorim_sif", "d6/d61/a20780.html#a71ef8a92f648cbea6553ed1cc657f13d", null ],
-    [ "GetAI", "d6/d61/a20780.html#ae4eadf2bf83c41a8f05b853267b5fcf9", null ]
+    [ "boss_thorim_lightning_orbAI", "d6/d61/a20780.html#a14d4b9f445abfaba77bcfc52173ff705", null ],
+    [ "AttackStart", "d6/d61/a20780.html#a88a885b96016788f8011dd1d3d44d992", null ],
+    [ "EnterEvadeMode", "d6/d61/a20780.html#a04bc99d1bd16f8297e7da8902e4bcaab", null ],
+    [ "InitWaypoint", "d6/d61/a20780.html#a420217dd9e482edc24a87dead2753321", null ],
+    [ "MoveInLineOfSight", "d6/d61/a20780.html#a0ee02cdd5cedf8a6565493b9812e88ae", null ],
+    [ "Reset", "d6/d61/a20780.html#a4e410303d287a4c827c279a4e7c3ca99", null ],
+    [ "WaypointReached", "d6/d61/a20780.html#a141659a0ebbcc097f0f03dec30dad2ca", null ],
+    [ "Timer", "d6/d61/a20780.html#ac251df35736ae44e08f82ae7bbe8fc15", null ]
 ];

@@ -1,9 +1,11 @@
 var a10492 =
 [
-    [ "fX", "dc/da9/a10492.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
-    [ "fY", "dc/da9/a10492.html#a9b158e247014eec0d35e465ab9469ac7", null ],
-    [ "fZ", "dc/da9/a10492.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
-    [ "uiCreatureEntry", "dc/da9/a10492.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
-    [ "uiPointId", "dc/da9/a10492.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
-    [ "uiWaitTime", "dc/da9/a10492.html#a305620aad71152c1139a88dea05a1887", null ]
+    [ "PointMoveMap", "dc/da9/a10492.html#a777e97ebcf367638578d1c189480ad99", null ],
+    [ "SystemMgr", "dc/da9/a10492.html#ac7fd54676b46afcbc520e4c58fcdce75", null ],
+    [ "~SystemMgr", "dc/da9/a10492.html#ab192b30aa7ff1edd27bb23e87a7ac4c5", null ],
+    [ "GetPointMoveList", "dc/da9/a10492.html#af9f998f9778cebce3edb39b7296994d5", null ],
+    [ "instance", "dc/da9/a10492.html#a71b78a44a3656802d55211d68fb19e12", null ],
+    [ "LoadScriptWaypoints", "dc/da9/a10492.html#af8097171a2ffc49600397c6a519dddc3", null ],
+    [ "_empty", "dc/da9/a10492.html#a4c90cb038afeb09c107979348bd3ca01", null ],
+    [ "m_mPointMoveMap", "dc/da9/a10492.html#a3603d019adf647df9f314a7ca61a25dd", null ]
 ];

@@ -1,12 +1,13 @@
 var a23148 =
 [
-    [ "npc_creature_generator_akama", "d1/d36/a23148.html#a8e91cadea7f135ff692635e4d39923e0", null ],
-    [ "DoAction", "d1/d36/a23148.html#a01efeecd374056da287e4a1e468472b6", null ],
-    [ "JustSummoned", "d1/d36/a23148.html#af58d7b130ed3b6c209c08ae14444bfe3", null ],
-    [ "Reset", "d1/d36/a23148.html#a23cf08661802f247147bb23cff30eeab", null ],
-    [ "SummonedCreatureDies", "d1/d36/a23148.html#a35b7ecfa659d80a869868b9a2732d92b", null ],
-    [ "UpdateAI", "d1/d36/a23148.html#a8c6e3ca67691e7625700f22c5b1c09c5", null ],
-    [ "instance", "d1/d36/a23148.html#a109aea7bb0747f8572c1d46e9df2d2a5", null ],
-    [ "spawnCounter", "d1/d36/a23148.html#a02d8acace195438fe6e8d4705a043078", null ],
-    [ "summons", "d1/d36/a23148.html#a3d532e607c48298ca0464ee630dd27b3", null ]
+    [ "boss_teron_gorefiend", "d1/d36/a23148.html#a81845f22aa383cdc57912ee9655b7bf9", null ],
+    [ "JustDied", "d1/d36/a23148.html#aa080c8d17bc51142c1cecadf7a0376a2", null ],
+    [ "JustEngagedWith", "d1/d36/a23148.html#a9f658d42cf27a54c62a71e28b5dfadee", null ],
+    [ "JustSummoned", "d1/d36/a23148.html#a71db567c5be7396add349e2f1b455a50", null ],
+    [ "KilledUnit", "d1/d36/a23148.html#a70dbf2b2a08cf915866afd51f8a74018", null ],
+    [ "Reset", "d1/d36/a23148.html#af32df2d958c618dc08d3da40b92bf3aa", null ],
+    [ "SetData", "d1/d36/a23148.html#a139c351471a3f19c7e59cf8e40913820", null ],
+    [ "UpdateAI", "d1/d36/a23148.html#a0bdd92c94adf066fdbf8ba9bcb1a1ba1", null ],
+    [ "_intro", "d1/d36/a23148.html#a99c62157084373e8eddd4497360cc047", null ],
+    [ "_recentlySpoken", "d1/d36/a23148.html#adef80b4509a6a72e7021fd3cc11de697", null ]
 ];

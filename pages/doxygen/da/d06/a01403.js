@@ -1,6 +1,6 @@
 var a01403 =
 [
-    [ "GameEventScript", "db/d5f/a10356.html", "db/d5f/a10356" ],
+    [ "GameEventScript", "dd/dcf/a10352.html", "dd/dcf/a10352" ],
     [ "GameEventHook", "da/d06/a01403.html#a6f634b591917b5ff2ab57f9739afa44b", [
       [ "GAMEEVENTHOOK_ON_START", "da/d06/a01403.html#a6f634b591917b5ff2ab57f9739afa44ba82c1717fbd1ba7a6739ce48d1fb3bab6", null ],
       [ "GAMEEVENTHOOK_ON_STOP", "da/d06/a01403.html#a6f634b591917b5ff2ab57f9739afa44ba598d3e2c3c0ff442208e1df830a02e5d", null ],

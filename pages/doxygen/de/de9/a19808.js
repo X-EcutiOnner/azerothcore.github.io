@@ -1,6 +1,8 @@
 var a19808 =
 [
-    [ "dark_rune_stormcallerAI", "d7/dc4/a19812.html", "d7/dc4/a19812" ],
-    [ "dark_rune_stormcaller", "de/de9/a19808.html#ab31774011fc3e1e8ffa1a3b7c5cbfbcc", null ],
-    [ "GetAI", "de/de9/a19808.html#a9072aaf482106cfae0d3901507b47f60", null ]
+    [ "iron_golem_custodianAI", "de/de9/a19808.html#aeeeed1383f5d221eb7b5cd5d3a6ea4fb", null ],
+    [ "JustEngagedWith", "de/de9/a19808.html#acd67b8d4df95eb8b0d0365184e47a29c", null ],
+    [ "Reset", "de/de9/a19808.html#af3193696d665746eecd9c62128d8684d", null ],
+    [ "UpdateAI", "de/de9/a19808.html#ab1d3910b07a6c5c53f5388a10dc48775", null ],
+    [ "events", "de/de9/a19808.html#a9e0bcc9ae6918f9fa40cbf8085d4ec42", null ]
 ];

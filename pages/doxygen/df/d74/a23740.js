@@ -1,12 +1,8 @@
 var a23740 =
 [
-    [ "boss_vazruden_the_herald", "df/d74/a23740.html#a97f761b2e3477a22cdc65c68700de72c", null ],
-    [ "AttackStart", "df/d74/a23740.html#a190621f4130b913348a49d6dfe76b591", null ],
-    [ "JustSummoned", "df/d74/a23740.html#a66d8c6252e6baf88144da3af57bf65a4", null ],
-    [ "MovementInform", "df/d74/a23740.html#abd89aa3911c626864f8aada889ce99c9", null ],
-    [ "Reset", "df/d74/a23740.html#a18076b0fd12bc9a002394d5fe3aa5f81", null ],
-    [ "SetData", "df/d74/a23740.html#a7dcbec1c99fdf4f740656a8379a99080", null ],
-    [ "SummonedCreatureDespawn", "df/d74/a23740.html#a7621077082a3b53d1d21265e6dd00dce", null ],
-    [ "SummonedCreatureDies", "df/d74/a23740.html#a336feba0d88e4fccce28b2730a9aea9e", null ],
-    [ "UpdateAI", "df/d74/a23740.html#adc98e358a751fd9881589aada4baf320", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "df/d74/a23740.html#aebc047b45cb4560a38df89db75f8efab", null ],
+    [ "Initialize", "df/d74/a23740.html#a115a36ec26e15e23be4d78250d86d814", null ],
+    [ "OnGameObjectCreate", "df/d74/a23740.html#a0639fcd867616d1f04aacde44020bb30", null ],
+    [ "SetBossState", "df/d74/a23740.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
+    [ "felIronChestGUID", "df/d74/a23740.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
 ];

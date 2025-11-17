@@ -1,6 +1,7 @@
 var a20152 =
 [
-    [ "HandleScript", "dd/d4f/a20152.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
-    [ "PrepareSpellScript", "dd/d4f/a20152.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
-    [ "Register", "dd/d4f/a20152.html#a04a5b3a4f768200d74f4641508633d35", null ]
+    [ "OnPeriodic", "dd/d4f/a20152.html#a9407d5477a40e36863e5fb5775dda122", null ],
+    [ "PrepareAuraScript", "dd/d4f/a20152.html#a1ecb6e617976cdfbeb534849db41d57a", null ],
+    [ "Register", "dd/d4f/a20152.html#a34a31e96b21de9b9320d8276f7beb45e", null ],
+    [ "Validate", "dd/d4f/a20152.html#a2c2ca2c0425ab3b815d246b1caebf588", null ]
 ];

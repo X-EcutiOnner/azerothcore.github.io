@@ -1,7 +1,6 @@
 var a19492 =
 [
-    [ "EoEDrakeEnterVehicleEvent", "dd/d36/a19492.html#afc529efe07da017e529dc6d5ebc6e7dc", null ],
-    [ "Execute", "dd/d36/a19492.html#a368a613ba7861f7903b80e6f7f0dd64f", null ],
-    [ "_owner", "dd/d36/a19492.html#ab48302fdff800afddfeec2c0d756873c", null ],
-    [ "_playerGUID", "dd/d36/a19492.html#add56bff0695453e01f300e0434a39ec8", null ]
+    [ "ChargeRifts", "dd/d36/a19492.html#aec98a12dec1f2ad98e00d399b0e2a1d5", null ],
+    [ "Execute", "dd/d36/a19492.html#a8d01bf861d37c25413dc14eee16a2939", null ],
+    [ "_caster", "dd/d36/a19492.html#a3cbf5f7e26de337dadd9d96a43d728b0", null ]
 ];

@@ -1,7 +1,7 @@
 var a25324 =
 [
-    [ "HandleChargeEffect", "db/d15/a25324.html#ad8d2871e6277dd982653fa864010d084", null ],
-    [ "HandleScriptEffect", "db/d15/a25324.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc", null ],
-    [ "PrepareSpellScript", "db/d15/a25324.html#a1f8722308e1a5bef546dcb939d73dca7", null ],
-    [ "Register", "db/d15/a25324.html#a2cdda449ab11438347e7dd32fd058e6d", null ]
+    [ "PrepareSpellScript", "db/d15/a25324.html#aad8061898087fbf5eb6527cbaa70927d", null ],
+    [ "RecalculateDamage", "db/d15/a25324.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
+    [ "Register", "db/d15/a25324.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
+    [ "_damagePct", "db/d15/a25324.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
 ];

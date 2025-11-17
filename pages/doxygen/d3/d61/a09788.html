@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Mail Struct Reference</title>
+<title>AzerothCore: ServerMailCondition Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,68 +108,40 @@ $(document).ready(function(){initNavTree('d3/d61/a09788.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d7/d65/a09785.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Mail Struct Reference</div></div>
+  <div class="headertitle"><div class="title">ServerMailCondition Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Mail.h</a>&quot;</code></p>
+<p>Represents a condition that must be met for a player to receive a server mail.  
+ <a href="../../d3/d61/a09788.html#details">More...</a></p>
+
+<p><code>#include &quot;<a class="el" href="../../">ServerMailMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ab39b529b190bafe093a7931311c24626"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#ab39b529b190bafe093a7931311c24626">AddItem</a> (<a class="el" href="../../d1/dbc/a08468.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> itemGuidLow, <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> item_template)</td></tr>
-<tr class="separator:ab39b529b190bafe093a7931311c24626"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab96701f1ab95184d78a1a91c87d0076c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#ab96701f1ab95184d78a1a91c87d0076c">RemoveItem</a> (<a class="el" href="../../d1/dbc/a08468.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> item_guid)</td></tr>
-<tr class="separator:ab96701f1ab95184d78a1a91c87d0076c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0997971db668abca530f1869d71828dc"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#a0997971db668abca530f1869d71828dc">HasItems</a> () const</td></tr>
-<tr class="separator:a0997971db668abca530f1869d71828dc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a387fbf2f51eb9414bbcead134f59fa53"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#a387fbf2f51eb9414bbcead134f59fa53">IsSentByPlayer</a> () const</td></tr>
-<tr class="separator:a387fbf2f51eb9414bbcead134f59fa53"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0e07f4b90ae44b9dc2a2cac9589196db"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#a0e07f4b90ae44b9dc2a2cac9589196db">IsSentByGM</a> () const</td></tr>
-<tr class="separator:a0e07f4b90ae44b9dc2a2cac9589196db"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a113aef1ace737f4bf119ee9cec9d69bd"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#a113aef1ace737f4bf119ee9cec9d69bd">IsCODPayment</a> () const</td></tr>
-<tr class="separator:a113aef1ace737f4bf119ee9cec9d69bd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adb7b77433c2ac76939d3fa9aa7ba5972"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#adb7b77433c2ac76939d3fa9aa7ba5972">IsReturnedMail</a> () const</td></tr>
-<tr class="separator:adb7b77433c2ac76939d3fa9aa7ba5972"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2ee7d2f3587159c95883fe32674cb586"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#a2ee7d2f3587159c95883fe32674cb586">ServerMailCondition</a> ()=default</td></tr>
+<tr class="separator:a2ee7d2f3587159c95883fe32674cb586"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3c223658629357f05d8879555717f624"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#a3c223658629357f05d8879555717f624">CheckCondition</a> (<a class="el" href="../../de/dda/a08664.html">Player</a> *player) const</td></tr>
+<tr class="memdesc:a3c223658629357f05d8879555717f624"><td class="mdescLeft">&#160;</td><td class="mdescRight">Checks if a player meets this condition.  <a href="../../d3/d61/a09788.html#a3c223658629357f05d8879555717f624">More...</a><br /></td></tr>
+<tr class="separator:a3c223658629357f05d8879555717f624"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:a3ee287f59b36f3154cd977a1e92c4d47"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#a3ee287f59b36f3154cd977a1e92c4d47">messageID</a></td></tr>
-<tr class="separator:a3ee287f59b36f3154cd977a1e92c4d47"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a240dfdc4b89b7cb806330460d5256a44"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#a240dfdc4b89b7cb806330460d5256a44">messageType</a></td></tr>
-<tr class="separator:a240dfdc4b89b7cb806330460d5256a44"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a88588149be95899c2fc30b144c4425a6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#a88588149be95899c2fc30b144c4425a6">stationery</a></td></tr>
-<tr class="separator:a88588149be95899c2fc30b144c4425a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afefffec74369d920ce395f1a04d8838c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#afefffec74369d920ce395f1a04d8838c">mailTemplateId</a></td></tr>
-<tr class="separator:afefffec74369d920ce395f1a04d8838c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a62b403874a8e34a2ab99bc77dbe2996d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#a62b403874a8e34a2ab99bc77dbe2996d">sender</a></td></tr>
-<tr class="separator:a62b403874a8e34a2ab99bc77dbe2996d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1cc9173228e34a23b635dfdb6fdf58a1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/dbc/a08468.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#a1cc9173228e34a23b635dfdb6fdf58a1">receiver</a></td></tr>
-<tr class="separator:a1cc9173228e34a23b635dfdb6fdf58a1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8bc2e13257b7a771c9065e35aaf02744"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#a8bc2e13257b7a771c9065e35aaf02744">subject</a></td></tr>
-<tr class="separator:a8bc2e13257b7a771c9065e35aaf02744"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaa91a94ee92b2712218a9cae389554f7"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#aaa91a94ee92b2712218a9cae389554f7">body</a></td></tr>
-<tr class="separator:aaa91a94ee92b2712218a9cae389554f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aab1074d26d11d3216df8f7e6e9b8c1f7"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d6/dec/a09784.html">MailItemInfo</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#aab1074d26d11d3216df8f7e6e9b8c1f7">items</a></td></tr>
-<tr class="separator:aab1074d26d11d3216df8f7e6e9b8c1f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4299fd5b84f08ff8b1a8fa7caadf531b"><td class="memItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#a4299fd5b84f08ff8b1a8fa7caadf531b">removedItems</a></td></tr>
-<tr class="separator:a4299fd5b84f08ff8b1a8fa7caadf531b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5d7d7251c7a6021d9dc8b9406c0c20ff"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#a5d7d7251c7a6021d9dc8b9406c0c20ff">expire_time</a></td></tr>
-<tr class="separator:a5d7d7251c7a6021d9dc8b9406c0c20ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac418d7eae438c2c3cd297477a760f0b1"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#ac418d7eae438c2c3cd297477a760f0b1">deliver_time</a></td></tr>
-<tr class="separator:ac418d7eae438c2c3cd297477a760f0b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af326068e66a3091aa731186e5e3295ed"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#af326068e66a3091aa731186e5e3295ed">money</a></td></tr>
-<tr class="separator:af326068e66a3091aa731186e5e3295ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac6db3ffc26e23cc0aea607633390bb66"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#ac6db3ffc26e23cc0aea607633390bb66">COD</a></td></tr>
-<tr class="separator:ac6db3ffc26e23cc0aea607633390bb66"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae3198d4379f7f783aa40b180311ca970"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#ae3198d4379f7f783aa40b180311ca970">checked</a></td></tr>
-<tr class="separator:ae3198d4379f7f783aa40b180311ca970"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae81b243e0ef55683b282e8bfae1d7a42"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/dce/a01529.html#a38d587a785c6fa4c4342574233684a20">MailState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#ae81b243e0ef55683b282e8bfae1d7a42">state</a></td></tr>
-<tr class="separator:ae81b243e0ef55683b282e8bfae1d7a42"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3b318e7743ca48fcf8ba849398a06968"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../db/d8e/a01523.html#ab25c41bc314095f74fe678a33e086a2b">ServerMailConditionType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#a3b318e7743ca48fcf8ba849398a06968">type</a> = ServerMailConditionType::Invalid</td></tr>
+<tr class="separator:a3b318e7743ca48fcf8ba849398a06968"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af709199aed99633cc70d9118ee4fd4fc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#af709199aed99633cc70d9118ee4fd4fc">value</a> { 0 }</td></tr>
+<tr class="separator:af709199aed99633cc70d9118ee4fd4fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a309f739872afaf644331335b27649561"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d61/a09788.html#a309f739872afaf644331335b27649561">state</a> { 0 }</td></tr>
+<tr class="separator:a309f739872afaf644331335b27649561"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="ab39b529b190bafe093a7931311c24626" name="ab39b529b190bafe093a7931311c24626"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab39b529b190bafe093a7931311c24626">&#9670;&#160;</a></span>AddItem()</h2>
+<div class="textblock"><p >Represents a condition that must be met for a player to receive a server mail. </p>
+<p >Each condition has a type (see <a class="el" href="../../db/d8e/a01523.html#ab25c41bc314095f74fe678a33e086a2b">ServerMailConditionType</a>) and a value associated with the type. For example, for a level condition, the value represents the required player level.</p>
+<p >Some condition also have a state associated with the value. For example, for a reputation condition, the state represents the current reputation state, like Exalted.</p>
+<p >Conditions are attached to server mail templates and are evaluated when players log in. </p>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a2ee7d2f3587159c95883fe32674cb586" name="a2ee7d2f3587159c95883fe32674cb586"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2ee7d2f3587159c95883fe32674cb586">&#9670;&#160;</a></span>ServerMailCondition()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -178,498 +150,139 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void Mail::AddItem </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/dbc/a08468.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td>
-          <td class="paramname"><em>itemGuidLow</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>item_template</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  186</span>    {</div>
-<div class="line"><span class="lineno">  187</span>        <a class="code hl_struct" href="../../d6/dec/a09784.html">MailItemInfo</a> mii;</div>
-<div class="line"><span class="lineno">  188</span>        mii.<a class="code hl_variable" href="../../d6/dec/a09784.html#a4033ef7b03b28881e28434ae796fb6ed">item_guid</a> = itemGuidLow;</div>
-<div class="line"><span class="lineno">  189</span>        mii.<a class="code hl_variable" href="../../d6/dec/a09784.html#ac7e05ac4dcc5d4f94b3291d819c7c86b">item_template</a> = item_template;</div>
-<div class="line"><span class="lineno">  190</span>        <a class="code hl_variable" href="../../d3/d61/a09788.html#aab1074d26d11d3216df8f7e6e9b8c1f7">items</a>.push_back(mii);</div>
-<div class="line"><span class="lineno">  191</span>    }</div>
-<div class="ttc" id="aa09784_html"><div class="ttname"><a href="../../d6/dec/a09784.html">MailItemInfo</a></div><div class="ttdef"><b>Definition:</b> Mail.h:160</div></div>
-<div class="ttc" id="aa09784_html_a4033ef7b03b28881e28434ae796fb6ed"><div class="ttname"><a href="../../d6/dec/a09784.html#a4033ef7b03b28881e28434ae796fb6ed">MailItemInfo::item_guid</a></div><div class="ttdeci">ObjectGuid::LowType item_guid</div><div class="ttdef"><b>Definition:</b> Mail.h:161</div></div>
-<div class="ttc" id="aa09784_html_ac7e05ac4dcc5d4f94b3291d819c7c86b"><div class="ttname"><a href="../../d6/dec/a09784.html#ac7e05ac4dcc5d4f94b3291d819c7c86b">MailItemInfo::item_template</a></div><div class="ttdeci">uint32 item_template</div><div class="ttdef"><b>Definition:</b> Mail.h:162</div></div>
-<div class="ttc" id="aa09788_html_aab1074d26d11d3216df8f7e6e9b8c1f7"><div class="ttname"><a href="../../d3/d61/a09788.html#aab1074d26d11d3216df8f7e6e9b8c1f7">Mail::items</a></div><div class="ttdeci">std::vector&lt; MailItemInfo &gt; items</div><div class="ttdef"><b>Definition:</b> Mail.h:176</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00161">MailItemInfo::item_guid</a>, <a class="el" href="../../#l00162">MailItemInfo::item_template</a>, and <a class="el" href="../../#l00176">items</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l06109">Player::_LoadMailedItem()</a>, and <a class="el" href="../../#l00185">MailDraft::SendMailTo()</a>.</p>
-
-</div>
-</div>
-<a id="a0997971db668abca530f1869d71828dc" name="a0997971db668abca530f1869d71828dc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0997971db668abca530f1869d71828dc">&#9670;&#160;</a></span>HasItems()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool Mail::HasItems </td>
+          <td class="memname">ServerMailCondition::ServerMailCondition </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  206</span>{ <span class="keywordflow">return</span> !<a class="code hl_variable" href="../../d3/d61/a09788.html#aab1074d26d11d3216df8f7e6e9b8c1f7">items</a>.empty(); }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00176">items</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l07392">Player::_SaveMail()</a>, and <a class="el" href="../../#l00401">WorldSession::HandleMailReturnToSender()</a>.</p>
-
-</div>
-</div>
-<a id="a113aef1ace737f4bf119ee9cec9d69bd" name="a113aef1ace737f4bf119ee9cec9d69bd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a113aef1ace737f4bf119ee9cec9d69bd">&#9670;&#160;</a></span>IsCODPayment()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool Mail::IsCODPayment </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  209</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d61/a09788.html#ae3198d4379f7f783aa40b180311ca970">checked</a> &amp; <a class="code hl_enumvalue" href="../../db/dce/a01529.html#a9738cb9d4ddff5f3b2a406f8d9c469cca4cef0afe6ff002d8e7089cb2eddf1468">MAIL_CHECK_MASK_COD_PAYMENT</a>; }</div>
-<div class="ttc" id="aa01529_html_a9738cb9d4ddff5f3b2a406f8d9c469cca4cef0afe6ff002d8e7089cb2eddf1468"><div class="ttname"><a href="../../db/dce/a01529.html#a9738cb9d4ddff5f3b2a406f8d9c469cca4cef0afe6ff002d8e7089cb2eddf1468">MAIL_CHECK_MASK_COD_PAYMENT</a></div><div class="ttdeci">@ MAIL_CHECK_MASK_COD_PAYMENT</div><div class="ttdoc">This mail was copied. Do not allow making a copy of items in mail.</div><div class="ttdef"><b>Definition:</b> Mail.h:50</div></div>
-<div class="ttc" id="aa09788_html_ae3198d4379f7f783aa40b180311ca970"><div class="ttname"><a href="../../d3/d61/a09788.html#ae3198d4379f7f783aa40b180311ca970">Mail::checked</a></div><div class="ttdeci">uint32 checked</div><div class="ttdef"><b>Definition:</b> Mail.h:182</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00182">checked</a>, and <a class="el" href="../../#l00050">MAIL_CHECK_MASK_COD_PAYMENT</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l06309">ObjectMgr::ReturnOrDeleteOldMails()</a>.</p>
-
-</div>
-</div>
-<a id="adb7b77433c2ac76939d3fa9aa7ba5972" name="adb7b77433c2ac76939d3fa9aa7ba5972"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adb7b77433c2ac76939d3fa9aa7ba5972">&#9670;&#160;</a></span>IsReturnedMail()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool Mail::IsReturnedMail </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  210</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d61/a09788.html#ae3198d4379f7f783aa40b180311ca970">checked</a> &amp; <a class="code hl_enumvalue" href="../../db/dce/a01529.html#a9738cb9d4ddff5f3b2a406f8d9c469cca5f7f5d671d1137cc0dd8b88a6579454a">MAIL_CHECK_MASK_RETURNED</a>; }</div>
-<div class="ttc" id="aa01529_html_a9738cb9d4ddff5f3b2a406f8d9c469cca5f7f5d671d1137cc0dd8b88a6579454a"><div class="ttname"><a href="../../db/dce/a01529.html#a9738cb9d4ddff5f3b2a406f8d9c469cca5f7f5d671d1137cc0dd8b88a6579454a">MAIL_CHECK_MASK_RETURNED</a></div><div class="ttdeci">@ MAIL_CHECK_MASK_RETURNED</div><div class="ttdef"><b>Definition:</b> Mail.h:48</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00182">checked</a>, and <a class="el" href="../../#l00048">MAIL_CHECK_MASK_RETURNED</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l06309">ObjectMgr::ReturnOrDeleteOldMails()</a>.</p>
-
-</div>
-</div>
-<a id="a0e07f4b90ae44b9dc2a2cac9589196db" name="a0e07f4b90ae44b9dc2a2cac9589196db"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0e07f4b90ae44b9dc2a2cac9589196db">&#9670;&#160;</a></span>IsSentByGM()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool Mail::IsSentByGM </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  208</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d61/a09788.html#a88588149be95899c2fc30b144c4425a6">stationery</a> == <a class="code hl_enumvalue" href="../../db/dce/a01529.html#a97c589393fcefa82854f195693493094a39230800d1e1c4dbd3c46fbaaba39541">MAIL_STATIONERY_GM</a>; }</div>
-<div class="ttc" id="aa01529_html_a97c589393fcefa82854f195693493094a39230800d1e1c4dbd3c46fbaaba39541"><div class="ttname"><a href="../../db/dce/a01529.html#a97c589393fcefa82854f195693493094a39230800d1e1c4dbd3c46fbaaba39541">MAIL_STATIONERY_GM</a></div><div class="ttdeci">@ MAIL_STATIONERY_GM</div><div class="ttdef"><b>Definition:</b> Mail.h:59</div></div>
-<div class="ttc" id="aa09788_html_a88588149be95899c2fc30b144c4425a6"><div class="ttname"><a href="../../d3/d61/a09788.html#a88588149be95899c2fc30b144c4425a6">Mail::stationery</a></div><div class="ttdeci">uint8 stationery</div><div class="ttdef"><b>Definition:</b> Mail.h:170</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00059">MAIL_STATIONERY_GM</a>, and <a class="el" href="../../#l00170">stationery</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l06309">ObjectMgr::ReturnOrDeleteOldMails()</a>.</p>
-
-</div>
-</div>
-<a id="a387fbf2f51eb9414bbcead134f59fa53" name="a387fbf2f51eb9414bbcead134f59fa53"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a387fbf2f51eb9414bbcead134f59fa53">&#9670;&#160;</a></span>IsSentByPlayer()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool Mail::IsSentByPlayer </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  207</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d61/a09788.html#a240dfdc4b89b7cb806330460d5256a44">messageType</a> == <a class="code hl_enumvalue" href="../../db/dce/a01529.html#afb83216fd8c410f5d4bdfef0f9b302edaad2526a166df2caa50762ff348a2f54a">MAIL_NORMAL</a>; }</div>
-<div class="ttc" id="aa01529_html_afb83216fd8c410f5d4bdfef0f9b302edaad2526a166df2caa50762ff348a2f54a"><div class="ttname"><a href="../../db/dce/a01529.html#afb83216fd8c410f5d4bdfef0f9b302edaad2526a166df2caa50762ff348a2f54a">MAIL_NORMAL</a></div><div class="ttdeci">@ MAIL_NORMAL</div><div class="ttdef"><b>Definition:</b> Mail.h:37</div></div>
-<div class="ttc" id="aa09788_html_a240dfdc4b89b7cb806330460d5256a44"><div class="ttname"><a href="../../d3/d61/a09788.html#a240dfdc4b89b7cb806330460d5256a44">Mail::messageType</a></div><div class="ttdeci">uint8 messageType</div><div class="ttdef"><b>Definition:</b> Mail.h:169</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00037">MAIL_NORMAL</a>, and <a class="el" href="../../#l00169">messageType</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l06309">ObjectMgr::ReturnOrDeleteOldMails()</a>.</p>
-
-</div>
-</div>
-<a id="ab96701f1ab95184d78a1a91c87d0076c" name="ab96701f1ab95184d78a1a91c87d0076c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab96701f1ab95184d78a1a91c87d0076c">&#9670;&#160;</a></span>RemoveItem()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool Mail::RemoveItem </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/dbc/a08468.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a>&#160;</td>
-          <td class="paramname"><em>item_guid</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  194</span>    {</div>
-<div class="line"><span class="lineno">  195</span>        <span class="keywordflow">for</span> (MailItemInfoVec::iterator itr = <a class="code hl_variable" href="../../d3/d61/a09788.html#aab1074d26d11d3216df8f7e6e9b8c1f7">items</a>.begin(); itr != <a class="code hl_variable" href="../../d3/d61/a09788.html#aab1074d26d11d3216df8f7e6e9b8c1f7">items</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno">  196</span>        {</div>
-<div class="line"><span class="lineno">  197</span>            <span class="keywordflow">if</span> (itr-&gt;item_guid == item_guid)</div>
-<div class="line"><span class="lineno">  198</span>            {</div>
-<div class="line"><span class="lineno">  199</span>                <a class="code hl_variable" href="../../d3/d61/a09788.html#aab1074d26d11d3216df8f7e6e9b8c1f7">items</a>.erase(itr);</div>
-<div class="line"><span class="lineno">  200</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  201</span>            }</div>
-<div class="line"><span class="lineno">  202</span>        }</div>
-<div class="line"><span class="lineno">  203</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  204</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00176">items</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00482">WorldSession::HandleMailTakeItem()</a>.</p>
+</div>
+</div>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="a3c223658629357f05d8879555717f624" name="a3c223658629357f05d8879555717f624"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3c223658629357f05d8879555717f624">&#9670;&#160;</a></span>CheckCondition()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ServerMailCondition::CheckCondition </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/dda/a08664.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>player</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Checks if a player meets this condition. </p>
+<p >Evaluates the condition type and compares the player's attributes to the required value.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">player</td><td>The player to check. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>True if the player meets the condition, otherwise false. </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">  337</span>{</div>
+<div class="line"><span class="lineno">  338</span>    <span class="keywordflow">switch</span> (<a class="code hl_variable" href="../../d3/d61/a09788.html#a3b318e7743ca48fcf8ba849398a06968">type</a>)</div>
+<div class="line"><span class="lineno">  339</span>    {</div>
+<div class="line"><span class="lineno">  340</span>    <span class="keywordflow">case</span> ServerMailConditionType::Level:</div>
+<div class="line"><span class="lineno">  341</span>        <span class="keywordflow">return</span> player-&gt;<a class="code hl_function" href="../../d8/d88/a08796.html#af4767dc4f1480f7c0527db4efe2643d9">GetLevel</a>() &gt;= <a class="code hl_variable" href="../../d3/d61/a09788.html#af709199aed99633cc70d9118ee4fd4fc">value</a>;</div>
+<div class="line"><span class="lineno">  342</span>    <span class="keywordflow">case</span> ServerMailConditionType::PlayTime:</div>
+<div class="line"><span class="lineno">  343</span>        <span class="keywordflow">return</span> player-&gt;<a class="code hl_function" href="../../de/dda/a08664.html#a462174f8ff0ef1903ff3000bd8d2d67f">GetTotalPlayedTime</a>() &gt;= <a class="code hl_variable" href="../../d3/d61/a09788.html#af709199aed99633cc70d9118ee4fd4fc">value</a>;</div>
+<div class="line"><span class="lineno">  344</span>    <span class="keywordflow">case</span> ServerMailConditionType::Quest:</div>
+<div class="line"><span class="lineno">  345</span>        <span class="keywordflow">return</span> player-&gt;<a class="code hl_function" href="../../de/dda/a08664.html#ab98c62b0161d702e4219c8277f8f5349">GetQuestStatus</a>(<a class="code hl_variable" href="../../d3/d61/a09788.html#af709199aed99633cc70d9118ee4fd4fc">value</a>) == <a class="code hl_variable" href="../../d3/d61/a09788.html#a309f739872afaf644331335b27649561">state</a>;</div>
+<div class="line"><span class="lineno">  346</span>    <span class="keywordflow">case</span> ServerMailConditionType::Achievement:</div>
+<div class="line"><span class="lineno">  347</span>        <span class="keywordflow">return</span> player-&gt;<a class="code hl_function" href="../../de/dda/a08664.html#a6787a03b3126a38525bc1884e28a4778">HasAchieved</a>(<a class="code hl_variable" href="../../d3/d61/a09788.html#af709199aed99633cc70d9118ee4fd4fc">value</a>);</div>
+<div class="line"><span class="lineno">  348</span>    <span class="keywordflow">case</span> ServerMailConditionType::Reputation:</div>
+<div class="line"><span class="lineno">  349</span>        <span class="keywordflow">return</span> player-&gt;<a class="code hl_function" href="../../de/dda/a08664.html#ac3ed608b721a2bea2b86a62995e7622a">GetReputationRank</a>(<a class="code hl_variable" href="../../d3/d61/a09788.html#af709199aed99633cc70d9118ee4fd4fc">value</a>) &gt;= <a class="code hl_variable" href="../../d3/d61/a09788.html#a309f739872afaf644331335b27649561">state</a>;</div>
+<div class="line"><span class="lineno">  350</span>    <span class="keywordflow">case</span> ServerMailConditionType::Faction:</div>
+<div class="line"><span class="lineno">  351</span>        <span class="keywordflow">return</span> player-&gt;<a class="code hl_function" href="../../de/dda/a08664.html#a4874f5c152e187c381c2a349f16aa0d4">GetTeamId</a>() == <a class="code hl_variable" href="../../d3/d61/a09788.html#af709199aed99633cc70d9118ee4fd4fc">value</a>;</div>
+<div class="line"><span class="lineno">  352</span>    <span class="keywordflow">case</span> ServerMailConditionType::Race:</div>
+<div class="line"><span class="lineno">  353</span>        <span class="keywordflow">return</span> (player-&gt;<a class="code hl_function" href="../../d8/d88/a08796.html#a9819c2f13647afe6ac172fb5313cfd83">getRaceMask</a>() &amp; <a class="code hl_variable" href="../../d3/d61/a09788.html#af709199aed99633cc70d9118ee4fd4fc">value</a>) != 0;</div>
+<div class="line"><span class="lineno">  354</span>    <span class="keywordflow">case</span> ServerMailConditionType::Class:</div>
+<div class="line"><span class="lineno">  355</span>        <span class="keywordflow">return</span> (player-&gt;<a class="code hl_function" href="../../d8/d88/a08796.html#abbbd9cc147469bc7f35075539bdf55a0">getClassMask</a>() &amp; <a class="code hl_variable" href="../../d3/d61/a09788.html#af709199aed99633cc70d9118ee4fd4fc">value</a>) != 0;</div>
+<div class="line"><span class="lineno">  356</span>    <span class="keywordflow">case</span> ServerMailConditionType::AccountFlags:</div>
+<div class="line"><span class="lineno">  357</span>        <span class="keywordflow">return</span> player-&gt;<a class="code hl_function" href="../../de/dda/a08664.html#a6ab11ca64cde7c5cde1f53998a6f7253">GetSession</a>()-&gt;<a class="code hl_function" href="../../d7/d10/a11208.html#a219ffbb1693f9c84f93904bc4f39022b">HasAccountFlag</a>(<a class="code hl_variable" href="../../d3/d61/a09788.html#af709199aed99633cc70d9118ee4fd4fc">value</a>);</div>
+<div class="line"><span class="lineno">  358</span>    <span class="keywordflow">default</span>:</div>
+<div class="line"><span class="lineno">  359</span>        [[unlikely]] <a class="code hl_define" href="../../d9/d32/a04640.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.mail&quot;</span>, <span class="stringliteral">&quot;Unknown server mail condition type &#39;{}&#39;&quot;</span>, <span class="keyword">static_cast&lt;</span><a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a><span class="keyword">&gt;</span>(<a class="code hl_variable" href="../../d3/d61/a09788.html#a3b318e7743ca48fcf8ba849398a06968">type</a>));</div>
+<div class="line"><span class="lineno">  360</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  361</span>    }</div>
+<div class="line"><span class="lineno">  362</span>}</div>
+<div class="ttc" id="aa04310_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa04640_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d9/d32/a04640.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
+<div class="ttc" id="aa08664_html_a462174f8ff0ef1903ff3000bd8d2d67f"><div class="ttname"><a href="../../de/dda/a08664.html#a462174f8ff0ef1903ff3000bd8d2d67f">Player::GetTotalPlayedTime</a></div><div class="ttdeci">uint32 GetTotalPlayedTime()</div><div class="ttdef"><b>Definition:</b> Player.h:1192</div></div>
+<div class="ttc" id="aa08664_html_a4874f5c152e187c381c2a349f16aa0d4"><div class="ttname"><a href="../../de/dda/a08664.html#a4874f5c152e187c381c2a349f16aa0d4">Player::GetTeamId</a></div><div class="ttdeci">TeamId GetTeamId(bool original=false) const</div><div class="ttdef"><b>Definition:</b> Player.h:2106</div></div>
+<div class="ttc" id="aa08664_html_a6787a03b3126a38525bc1884e28a4778"><div class="ttname"><a href="../../de/dda/a08664.html#a6787a03b3126a38525bc1884e28a4778">Player::HasAchieved</a></div><div class="ttdeci">bool HasAchieved(uint32 achievementId) const</div><div class="ttdef"><b>Definition:</b> Player.cpp:13916</div></div>
+<div class="ttc" id="aa08664_html_a6ab11ca64cde7c5cde1f53998a6f7253"><div class="ttname"><a href="../../de/dda/a08664.html#a6ab11ca64cde7c5cde1f53998a6f7253">Player::GetSession</a></div><div class="ttdeci">WorldSession * GetSession() const</div><div class="ttdef"><b>Definition:</b> Player.h:1998</div></div>
+<div class="ttc" id="aa08664_html_ab98c62b0161d702e4219c8277f8f5349"><div class="ttname"><a href="../../de/dda/a08664.html#ab98c62b0161d702e4219c8277f8f5349">Player::GetQuestStatus</a></div><div class="ttdeci">QuestStatus GetQuestStatus(uint32 quest_id) const</div><div class="ttdef"><b>Definition:</b> PlayerQuest.cpp:1430</div></div>
+<div class="ttc" id="aa08664_html_ac3ed608b721a2bea2b86a62995e7622a"><div class="ttname"><a href="../../de/dda/a08664.html#ac3ed608b721a2bea2b86a62995e7622a">Player::GetReputationRank</a></div><div class="ttdeci">ReputationRank GetReputationRank(uint32 faction_id) const</div><div class="ttdef"><b>Definition:</b> Player.cpp:5857</div></div>
+<div class="ttc" id="aa08796_html_a9819c2f13647afe6ac172fb5313cfd83"><div class="ttname"><a href="../../d8/d88/a08796.html#a9819c2f13647afe6ac172fb5313cfd83">Unit::getRaceMask</a></div><div class="ttdeci">uint32 getRaceMask() const</div><div class="ttdef"><b>Definition:</b> Unit.h:821</div></div>
+<div class="ttc" id="aa08796_html_abbbd9cc147469bc7f35075539bdf55a0"><div class="ttname"><a href="../../d8/d88/a08796.html#abbbd9cc147469bc7f35075539bdf55a0">Unit::getClassMask</a></div><div class="ttdeci">uint32 getClassMask() const</div><div class="ttdef"><b>Definition:</b> Unit.h:828</div></div>
+<div class="ttc" id="aa08796_html_af4767dc4f1480f7c0527db4efe2643d9"><div class="ttname"><a href="../../d8/d88/a08796.html#af4767dc4f1480f7c0527db4efe2643d9">Unit::GetLevel</a></div><div class="ttdeci">uint8 GetLevel() const</div><div class="ttdef"><b>Definition:</b> Unit.h:1065</div></div>
+<div class="ttc" id="aa09788_html_a309f739872afaf644331335b27649561"><div class="ttname"><a href="../../d3/d61/a09788.html#a309f739872afaf644331335b27649561">ServerMailCondition::state</a></div><div class="ttdeci">uint32 state</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.h:93</div></div>
+<div class="ttc" id="aa09788_html_a3b318e7743ca48fcf8ba849398a06968"><div class="ttname"><a href="../../d3/d61/a09788.html#a3b318e7743ca48fcf8ba849398a06968">ServerMailCondition::type</a></div><div class="ttdeci">ServerMailConditionType type</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.h:91</div></div>
+<div class="ttc" id="aa09788_html_af709199aed99633cc70d9118ee4fd4fc"><div class="ttname"><a href="../../d3/d61/a09788.html#af709199aed99633cc70d9118ee4fd4fc">ServerMailCondition::value</a></div><div class="ttdeci">uint32 value</div><div class="ttdef"><b>Definition:</b> ServerMailMgr.h:92</div></div>
+<div class="ttc" id="aa11208_html_a219ffbb1693f9c84f93904bc4f39022b"><div class="ttname"><a href="../../d7/d10/a11208.html#a219ffbb1693f9c84f93904bc4f39022b">WorldSession::HasAccountFlag</a></div><div class="ttdeci">bool HasAccountFlag(uint32 flag) const</div><div class="ttdef"><b>Definition:</b> WorldSession.h:375</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00828">Unit::getClassMask()</a>, <a class="el" href="../../#l01065">Unit::GetLevel()</a>, <a class="el" href="../../#l01430">Player::GetQuestStatus()</a>, <a class="el" href="../../#l00821">Unit::getRaceMask()</a>, <a class="el" href="../../#l05857">Player::GetReputationRank()</a>, <a class="el" href="../../#l01998">Player::GetSession()</a>, <a class="el" href="../../#l02106">Player::GetTeamId()</a>, <a class="el" href="../../#l01192">Player::GetTotalPlayedTime()</a>, <a class="el" href="../../#l00375">WorldSession::HasAccountFlag()</a>, <a class="el" href="../../#l13916">Player::HasAchieved()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00093">state</a>, <a class="el" href="../../#l00091">type</a>, and <a class="el" href="../../#l00092">value</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="aaa91a94ee92b2712218a9cae389554f7" name="aaa91a94ee92b2712218a9cae389554f7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaa91a94ee92b2712218a9cae389554f7">&#9670;&#160;</a></span>body</h2>
+<a id="a309f739872afaf644331335b27649561" name="a309f739872afaf644331335b27649561"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a309f739872afaf644331335b27649561">&#9670;&#160;</a></span>state</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::string Mail::body</td>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ServerMailCondition::state { 0 }</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l06161">Player::_LoadMail()</a>, <a class="el" href="../../#l00757">WorldSession::HandleMailCreateTextItem()</a>, <a class="el" href="../../#l00401">WorldSession::HandleMailReturnToSender()</a>, and <a class="el" href="../../#l00185">MailDraft::SendMailTo()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00336">CheckCondition()</a>, and <a class="el" href="../../#l00155">ServerMailMgr::LoadMailServerTemplatesConditions()</a>.</p>
 
 </div>
 </div>
-<a id="ae3198d4379f7f783aa40b180311ca970" name="ae3198d4379f7f783aa40b180311ca970"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae3198d4379f7f783aa40b180311ca970">&#9670;&#160;</a></span>checked</h2>
+<a id="a3b318e7743ca48fcf8ba849398a06968" name="a3b318e7743ca48fcf8ba849398a06968"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3b318e7743ca48fcf8ba849398a06968">&#9670;&#160;</a></span>type</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Mail::checked</td>
+          <td class="memname"><a class="el" href="../../db/d8e/a01523.html#ab25c41bc314095f74fe678a33e086a2b">ServerMailConditionType</a> ServerMailCondition::type = ServerMailConditionType::Invalid</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l06161">Player::_LoadMail()</a>, <a class="el" href="../../#l07392">Player::_SaveMail()</a>, <a class="el" href="../../#l00757">WorldSession::HandleMailCreateTextItem()</a>, <a class="el" href="../../#l00348">WorldSession::HandleMailMarkAsRead()</a>, <a class="el" href="../../#l00209">IsCODPayment()</a>, <a class="el" href="../../#l00210">IsReturnedMail()</a>, <a class="el" href="../../#l06309">ObjectMgr::ReturnOrDeleteOldMails()</a>, and <a class="el" href="../../#l00185">MailDraft::SendMailTo()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00336">CheckCondition()</a>, and <a class="el" href="../../#l00155">ServerMailMgr::LoadMailServerTemplatesConditions()</a>.</p>
 
 </div>
 </div>
-<a id="ac6db3ffc26e23cc0aea607633390bb66" name="ac6db3ffc26e23cc0aea607633390bb66"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac6db3ffc26e23cc0aea607633390bb66">&#9670;&#160;</a></span>COD</h2>
+<a id="af709199aed99633cc70d9118ee4fd4fc" name="af709199aed99633cc70d9118ee4fd4fc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af709199aed99633cc70d9118ee4fd4fc">&#9670;&#160;</a></span>value</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Mail::COD</td>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ServerMailCondition::value { 0 }</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l06161">Player::_LoadMail()</a>, <a class="el" href="../../#l07392">Player::_SaveMail()</a>, <a class="el" href="../../#l00371">WorldSession::HandleMailDelete()</a>, <a class="el" href="../../#l00401">WorldSession::HandleMailReturnToSender()</a>, <a class="el" href="../../#l00482">WorldSession::HandleMailTakeItem()</a>, and <a class="el" href="../../#l00185">MailDraft::SendMailTo()</a>.</p>
-
-</div>
-</div>
-<a id="ac418d7eae438c2c3cd297477a760f0b1" name="ac418d7eae438c2c3cd297477a760f0b1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac418d7eae438c2c3cd297477a760f0b1">&#9670;&#160;</a></span>deliver_time</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">time_t Mail::deliver_time</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l06161">Player::_LoadMail()</a>, <a class="el" href="../../#l07392">Player::_SaveMail()</a>, <a class="el" href="../../#l00757">WorldSession::HandleMailCreateTextItem()</a>, <a class="el" href="../../#l00401">WorldSession::HandleMailReturnToSender()</a>, <a class="el" href="../../#l00482">WorldSession::HandleMailTakeItem()</a>, <a class="el" href="../../#l00590">WorldSession::HandleMailTakeMoney()</a>, <a class="el" href="../../#l06309">ObjectMgr::ReturnOrDeleteOldMails()</a>, and <a class="el" href="../../#l00185">MailDraft::SendMailTo()</a>.</p>
-
-</div>
-</div>
-<a id="a5d7d7251c7a6021d9dc8b9406c0c20ff" name="a5d7d7251c7a6021d9dc8b9406c0c20ff"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5d7d7251c7a6021d9dc8b9406c0c20ff">&#9670;&#160;</a></span>expire_time</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">time_t Mail::expire_time</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l06161">Player::_LoadMail()</a>, <a class="el" href="../../#l07392">Player::_SaveMail()</a>, <a class="el" href="../../#l06309">ObjectMgr::ReturnOrDeleteOldMails()</a>, and <a class="el" href="../../#l00185">MailDraft::SendMailTo()</a>.</p>
-
-</div>
-</div>
-<a id="aab1074d26d11d3216df8f7e6e9b8c1f7" name="aab1074d26d11d3216df8f7e6e9b8c1f7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aab1074d26d11d3216df8f7e6e9b8c1f7">&#9670;&#160;</a></span>items</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::vector&lt;<a class="el" href="../../d6/dec/a09784.html">MailItemInfo</a>&gt; Mail::items</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l07392">Player::_SaveMail()</a>, <a class="el" href="../../#l00185">AddItem()</a>, <a class="el" href="../../#l00401">WorldSession::HandleMailReturnToSender()</a>, <a class="el" href="../../#l00482">WorldSession::HandleMailTakeItem()</a>, <a class="el" href="../../#l00206">HasItems()</a>, <a class="el" href="../../#l00193">RemoveItem()</a>, and <a class="el" href="../../#l06309">ObjectMgr::ReturnOrDeleteOldMails()</a>.</p>
-
-</div>
-</div>
-<a id="afefffec74369d920ce395f1a04d8838c" name="afefffec74369d920ce395f1a04d8838c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afefffec74369d920ce395f1a04d8838c">&#9670;&#160;</a></span>mailTemplateId</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> Mail::mailTemplateId</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l06161">Player::_LoadMail()</a>, <a class="el" href="../../#l00757">WorldSession::HandleMailCreateTextItem()</a>, <a class="el" href="../../#l00401">WorldSession::HandleMailReturnToSender()</a>, <a class="el" href="../../#l06309">ObjectMgr::ReturnOrDeleteOldMails()</a>, and <a class="el" href="../../#l00185">MailDraft::SendMailTo()</a>.</p>
-
-</div>
-</div>
-<a id="a3ee287f59b36f3154cd977a1e92c4d47" name="a3ee287f59b36f3154cd977a1e92c4d47"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3ee287f59b36f3154cd977a1e92c4d47">&#9670;&#160;</a></span>messageID</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Mail::messageID</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l06161">Player::_LoadMail()</a>, <a class="el" href="../../#l07392">Player::_SaveMail()</a>, <a class="el" href="../../#l06309">ObjectMgr::ReturnOrDeleteOldMails()</a>, and <a class="el" href="../../#l00185">MailDraft::SendMailTo()</a>.</p>
-
-</div>
-</div>
-<a id="a240dfdc4b89b7cb806330460d5256a44" name="a240dfdc4b89b7cb806330460d5256a44"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a240dfdc4b89b7cb806330460d5256a44">&#9670;&#160;</a></span>messageType</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> Mail::messageType</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l06161">Player::_LoadMail()</a>, <a class="el" href="../../#l00401">WorldSession::HandleMailReturnToSender()</a>, <a class="el" href="../../#l00207">IsSentByPlayer()</a>, <a class="el" href="../../#l06309">ObjectMgr::ReturnOrDeleteOldMails()</a>, and <a class="el" href="../../#l00185">MailDraft::SendMailTo()</a>.</p>
-
-</div>
-</div>
-<a id="af326068e66a3091aa731186e5e3295ed" name="af326068e66a3091aa731186e5e3295ed"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af326068e66a3091aa731186e5e3295ed">&#9670;&#160;</a></span>money</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Mail::money</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l06161">Player::_LoadMail()</a>, <a class="el" href="../../#l07392">Player::_SaveMail()</a>, <a class="el" href="../../#l00401">WorldSession::HandleMailReturnToSender()</a>, <a class="el" href="../../#l00590">WorldSession::HandleMailTakeMoney()</a>, and <a class="el" href="../../#l00185">MailDraft::SendMailTo()</a>.</p>
-
-</div>
-</div>
-<a id="a1cc9173228e34a23b635dfdb6fdf58a1" name="a1cc9173228e34a23b635dfdb6fdf58a1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1cc9173228e34a23b635dfdb6fdf58a1">&#9670;&#160;</a></span>receiver</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d1/dbc/a08468.html#aa278d50613c05dc1333df5185a6993eb">ObjectGuid::LowType</a> Mail::receiver</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l06161">Player::_LoadMail()</a>, <a class="el" href="../../#l00401">WorldSession::HandleMailReturnToSender()</a>, <a class="el" href="../../#l00482">WorldSession::HandleMailTakeItem()</a>, <a class="el" href="../../#l06309">ObjectMgr::ReturnOrDeleteOldMails()</a>, and <a class="el" href="../../#l00185">MailDraft::SendMailTo()</a>.</p>
-
-</div>
-</div>
-<a id="a4299fd5b84f08ff8b1a8fa7caadf531b" name="a4299fd5b84f08ff8b1a8fa7caadf531b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4299fd5b84f08ff8b1a8fa7caadf531b">&#9670;&#160;</a></span>removedItems</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::vector&lt;<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; Mail::removedItems</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l07392">Player::_SaveMail()</a>, and <a class="el" href="../../#l00482">WorldSession::HandleMailTakeItem()</a>.</p>
-
-</div>
-</div>
-<a id="a62b403874a8e34a2ab99bc77dbe2996d" name="a62b403874a8e34a2ab99bc77dbe2996d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a62b403874a8e34a2ab99bc77dbe2996d">&#9670;&#160;</a></span>sender</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> Mail::sender</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l06161">Player::_LoadMail()</a>, <a class="el" href="../../#l00757">WorldSession::HandleMailCreateTextItem()</a>, <a class="el" href="../../#l00401">WorldSession::HandleMailReturnToSender()</a>, <a class="el" href="../../#l00482">WorldSession::HandleMailTakeItem()</a>, <a class="el" href="../../#l06309">ObjectMgr::ReturnOrDeleteOldMails()</a>, and <a class="el" href="../../#l00185">MailDraft::SendMailTo()</a>.</p>
-
-</div>
-</div>
-<a id="ae81b243e0ef55683b282e8bfae1d7a42" name="ae81b243e0ef55683b282e8bfae1d7a42"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae81b243e0ef55683b282e8bfae1d7a42">&#9670;&#160;</a></span>state</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../db/dce/a01529.html#a38d587a785c6fa4c4342574233684a20">MailState</a> Mail::state</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l06161">Player::_LoadMail()</a>, <a class="el" href="../../#l07392">Player::_SaveMail()</a>, <a class="el" href="../../#l00757">WorldSession::HandleMailCreateTextItem()</a>, <a class="el" href="../../#l00371">WorldSession::HandleMailDelete()</a>, <a class="el" href="../../#l00348">WorldSession::HandleMailMarkAsRead()</a>, <a class="el" href="../../#l00401">WorldSession::HandleMailReturnToSender()</a>, <a class="el" href="../../#l00482">WorldSession::HandleMailTakeItem()</a>, <a class="el" href="../../#l00590">WorldSession::HandleMailTakeMoney()</a>, and <a class="el" href="../../#l00185">MailDraft::SendMailTo()</a>.</p>
-
-</div>
-</div>
-<a id="a88588149be95899c2fc30b144c4425a6" name="a88588149be95899c2fc30b144c4425a6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a88588149be95899c2fc30b144c4425a6">&#9670;&#160;</a></span>stationery</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> Mail::stationery</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l06161">Player::_LoadMail()</a>, <a class="el" href="../../#l00208">IsSentByGM()</a>, <a class="el" href="../../#l06309">ObjectMgr::ReturnOrDeleteOldMails()</a>, and <a class="el" href="../../#l00185">MailDraft::SendMailTo()</a>.</p>
-
-</div>
-</div>
-<a id="a8bc2e13257b7a771c9065e35aaf02744" name="a8bc2e13257b7a771c9065e35aaf02744"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8bc2e13257b7a771c9065e35aaf02744">&#9670;&#160;</a></span>subject</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::string Mail::subject</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l06161">Player::_LoadMail()</a>, <a class="el" href="../../#l00401">WorldSession::HandleMailReturnToSender()</a>, <a class="el" href="../../#l00482">WorldSession::HandleMailTakeItem()</a>, and <a class="el" href="../../#l00185">MailDraft::SendMailTo()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00336">CheckCondition()</a>, and <a class="el" href="../../#l00155">ServerMailMgr::LoadMailServerTemplatesConditions()</a>.</p>
 
 </div>
 </div>
@@ -678,8 +291,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d61/a09788.html">Mail</a></li>
-    <li class="footer">Generated on Mon Nov 10 2025 20:53:28 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d61/a09788.html">ServerMailCondition</a></li>
+    <li class="footer">Generated on Mon Nov 17 2025 20:46:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,7 +1,6 @@
 var a27908 =
 [
-    [ "npc_crashin_thrashin_robot", "da/df2/a27908.html#ad21336d212498b1c9ef5d46979d147ab", null ],
-    [ "IsSummonedBy", "da/df2/a27908.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
-    [ "UpdateAI", "da/df2/a27908.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
-    [ "_scheduler", "da/df2/a27908.html#a55778501d154d0a9e77f76054e926f85", null ]
+    [ "npc_necropolis_relay", "da/df2/a27908.html#a044958acd1449d664532aeea7d0cb2fd", null ],
+    [ "SpellHit", "da/df2/a27908.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
+    [ "SpellHitTarget", "da/df2/a27908.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
 ];

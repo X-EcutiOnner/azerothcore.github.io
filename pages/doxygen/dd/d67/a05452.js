@@ -1,18 +1,8 @@
 var a05452 =
 [
-    [ "ProducerConsumerQueue", "dd/d67/a05452.html#a79b3575e4e25204841ad6b2ca43b0b38", null ],
-    [ "Cancel", "dd/d67/a05452.html#a7e9de516e77945411ad4f8bfa161489d", null ],
-    [ "DeleteQueuedObject", "dd/d67/a05452.html#af375e232b14a288b4e514f4e1e726f06", null ],
-    [ "DeleteQueuedObject", "dd/d67/a05452.html#a10e893856377f7f7a4be62c224a2aef3", null ],
-    [ "Empty", "dd/d67/a05452.html#a1ad8d5d17442d0148b2d8d99e8c798b4", null ],
-    [ "Pop", "dd/d67/a05452.html#afe8119f67dd7d95bbcd749d7ac9404d4", null ],
-    [ "Push", "dd/d67/a05452.html#abd3bd3c88fbd7d8edb721fc5f89da5ed", null ],
-    [ "Shutdown", "dd/d67/a05452.html#aff2060f9ae351caf2da543a5379911ca", null ],
-    [ "Size", "dd/d67/a05452.html#adeefabd0da1df47a9ef3ec2fc6a78b80", null ],
-    [ "WaitAndPop", "dd/d67/a05452.html#a172ef4211bcb237478ec57531c8dcc4d", null ],
-    [ "_cancel", "dd/d67/a05452.html#a54223137936cfa679327d01313adfa01", null ],
-    [ "_condition", "dd/d67/a05452.html#ace83931f4236e97f32c58067b05d35e9", null ],
-    [ "_queue", "dd/d67/a05452.html#a5fc3a20c094041e2da999c4b37d735f0", null ],
-    [ "_queueLock", "dd/d67/a05452.html#a18c7223e356b338f9ddbc17eadc6a21e", null ],
-    [ "_shutdown", "dd/d67/a05452.html#a994ad012dfe4e9cd4d76d8eb9270f0d2", null ]
+    [ "~Runnable", "dd/d67/a05452.html#add1dc9a377ee89c32cc40c42907e5bd8", null ],
+    [ "decReference", "dd/d67/a05452.html#a69bf63c7f684de6e278de0468ed8fa06", null ],
+    [ "incReference", "dd/d67/a05452.html#a062323e141fa33ae094adbef16caf3d6", null ],
+    [ "run", "dd/d67/a05452.html#ad92d9c0459fbcc59d2b0d8fe2ed620c9", null ],
+    [ "m_refs", "dd/d67/a05452.html#ae047c0949843835f0b240484df01b7f8", null ]
 ];

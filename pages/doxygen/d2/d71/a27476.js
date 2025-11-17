@@ -1,7 +1,7 @@
 var a27476 =
 [
-    [ "go_bear_trapAI", "d2/d71/a27476.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "d2/d71/a27476.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "d2/d71/a27476.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "d2/d71/a27476.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "go_darkmoon_faire_musicAI", "d2/d71/a27476.html#a2ee13dd1260c1ad5b810c25665c9ec87", null ],
+    [ "UpdateAI", "d2/d71/a27476.html#af3d802bd852fc0483f72781edb13b5d5", null ],
+    [ "_events", "d2/d71/a27476.html#acc7e15d2b286b7df262623acf7ea7f03", null ],
+    [ "rnd", "d2/d71/a27476.html#a9a4c983f11c4d912f31eaaf351afc016", null ]
 ];

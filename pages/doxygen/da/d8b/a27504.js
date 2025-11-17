@@ -1,6 +1,5 @@
 var a27504 =
 [
-    [ "go_darkmoon_faire_musicAI", "db/df7/a27508.html", "db/df7/a27508" ],
-    [ "go_darkmoon_faire_music", "da/d8b/a27504.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
-    [ "GetAI", "da/d8b/a27504.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
+    [ "go_sacred_fire_of_life", "da/d8b/a27504.html#a7f14c8397803f8b21e492ec52c6d81e8", null ],
+    [ "OnGossipHello", "da/d8b/a27504.html#aaa078fffe5570fa532d27d1c4ea831a7", null ]
 ];

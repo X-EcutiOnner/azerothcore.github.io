@@ -1,7 +1,5 @@
 var a23504 =
 [
-    [ "PeriodicTick", "df/d29/a23504.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
-    [ "PrepareAuraScript", "df/d29/a23504.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
-    [ "Register", "df/d29/a23504.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
-    [ "Validate", "df/d29/a23504.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
+    [ "boss_quagmirran", "df/d29/a23504.html#a7f6289b86216b052f434a1417023e22c", null ],
+    [ "JustEngagedWith", "df/d29/a23504.html#a28253b6653bd2e26e7f246c71a88b625", null ]
 ];

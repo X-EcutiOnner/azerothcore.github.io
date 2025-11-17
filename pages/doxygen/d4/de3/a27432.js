@@ -1,5 +1,6 @@
 var a27432 =
 [
-    [ "go_arena_ready_marker", "d4/de3/a27432.html#a614ee8efff31d928a9f4547d60b6a6a6", null ],
-    [ "OnGossipHello", "d4/de3/a27432.html#a9f51ead2b56d51427ff23be9688388d8", null ]
+    [ "go_heatAI", "dd/d9b/a27436.html", "dd/d9b/a27436" ],
+    [ "go_heat", "d4/de3/a27432.html#a6c3d6919652159e4fd265b6d63f59c16", null ],
+    [ "GetAI", "d4/de3/a27432.html#a9f19009a78c7abd349d2e2e7bf98c1a0", null ]
 ];

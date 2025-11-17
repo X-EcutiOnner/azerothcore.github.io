@@ -1,6 +1,6 @@
 var a01193 =
 [
-    [ "AutobroadcastMgr", "d3/ddf/a07196.html", "d3/ddf/a07196" ],
+    [ "AutobroadcastMgr", "dd/db7/a07192.html", "dd/db7/a07192" ],
     [ "sAutobroadcastMgr", "dd/d43/a01193.html#a34abff2dadcb74370b0749fe9fda3878", null ],
     [ "AnnounceType", "dd/d43/a01193.html#a28a4ef2f64643c76d8be05bf9eafc731", [
       [ "World", "dd/d43/a01193.html#a28a4ef2f64643c76d8be05bf9eafc731af5a7924e621e84c9280a9a27e1bcb7f6", null ],

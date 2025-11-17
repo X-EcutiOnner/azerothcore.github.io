@@ -1,6 +1,6 @@
 var a26476 =
 [
-    [ "HandleDamage", "d3/dad/a26476.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
-    [ "PrepareSpellScript", "d3/dad/a26476.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
-    [ "Register", "d3/dad/a26476.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
+    [ "HandleFinish", "d3/dad/a26476.html#a53263ce51581f36c2df80b49c93fa9d3", null ],
+    [ "PrepareSpellScript", "d3/dad/a26476.html#a8113f61816473399f0ceab18b104d058", null ],
+    [ "Register", "d3/dad/a26476.html#a36bf50cdb7be7ba03eafd4848c6ceced", null ]
 ];

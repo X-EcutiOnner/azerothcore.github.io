@@ -1,6 +1,5 @@
 var a26120 =
 [
-    [ "CalculateDamage", "de/d77/a26120.html#a05c6a249b32f41d8d33b40d07bd3c44d", null ],
-    [ "PrepareSpellScript", "de/d77/a26120.html#ace682a64f3ca32e4f4151034ad936ea6", null ],
-    [ "Register", "de/d77/a26120.html#a6dc3beb1f857c2c2a719bd882cc3568d", null ]
+    [ "PrepareSpellScript", "de/d77/a26120.html#ac08a5b38ac3012ad31c8ecdf4ca36585", null ],
+    [ "Register", "de/d77/a26120.html#a7d6187a7aa8f8d67efe15ffc74fa1873", null ]
 ];

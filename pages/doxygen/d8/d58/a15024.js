@@ -1,10 +1,10 @@
 var a15024 =
 [
-    [ "npc_tarethaAI", "d8/d58/a15024.html#ad403cdcdc2648bb23687e3a3a7bdbb03", null ],
-    [ "AttackStart", "d8/d58/a15024.html#a09d91ea8e5923ebc3c0ad01f09f93408", null ],
-    [ "DoAction", "d8/d58/a15024.html#adbb40db0b70532a20731cf5039e44d0b", null ],
-    [ "MoveInLineOfSight", "d8/d58/a15024.html#afa0427372e43316851018bf78274707f", null ],
-    [ "Reset", "d8/d58/a15024.html#ae4d9f3d5751e8a8e0468a80d46f4a4c4", null ],
-    [ "WaypointReached", "d8/d58/a15024.html#a6946bc02ec686c8af943c9e913c8aee6", null ],
-    [ "instance", "d8/d58/a15024.html#a3c0f4a61cf5b8da6b885ef7bf9813205", null ]
+    [ "boss_aeonus", "d8/d58/a15024.html#af823ef2187b852dc72d2f63020e1701b", null ],
+    [ "IsSummonedBy", "d8/d58/a15024.html#a5f95e19dfec210d4da1f1f48145ff047", null ],
+    [ "JustDied", "d8/d58/a15024.html#a649275c31e61f542a13fd791ee85277b", null ],
+    [ "JustEngagedWith", "d8/d58/a15024.html#a5f193144e36a889630d5dbadb4aa665f", null ],
+    [ "JustReachedHome", "d8/d58/a15024.html#a62df4db3ead6f9be5c3ead974613c8d5", null ],
+    [ "KilledUnit", "d8/d58/a15024.html#a4aa2f3d82aaaf5cd3a938ad92aad059d", null ],
+    [ "MoveInLineOfSight", "d8/d58/a15024.html#a3147774fa5bff34d01947fdcf254ba7b", null ]
 ];

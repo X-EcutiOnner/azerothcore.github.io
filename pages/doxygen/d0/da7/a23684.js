@@ -1,13 +1,7 @@
 var a23684 =
 [
-    [ "boss_olm_the_summoner", "d0/da7/a23684.html#aa8fe3804d4e2a1a1150975f5e9832ce6", null ],
-    [ "AttackStart", "d0/da7/a23684.html#a334ab95cfc3320db1a568bcb5a1d9542", null ],
-    [ "JustDied", "d0/da7/a23684.html#a07cde4fc7bc882db40b51426dc40ab93", null ],
-    [ "JustEngagedWith", "d0/da7/a23684.html#a68db779bb7ffffa7621caedd7f52d93f", null ],
-    [ "JustSummoned", "d0/da7/a23684.html#a546bede780b7d67b98ec251ae2e1b812", null ],
-    [ "Reset", "d0/da7/a23684.html#a8dcdc816276a1932612d554cff703a45", null ],
-    [ "UpdateAI", "d0/da7/a23684.html#a967f330966fdb29f26ab24e8f40d2152", null ],
-    [ "_scheduler", "d0/da7/a23684.html#a448ba3a88156e80eebad44585791ab21", null ],
-    [ "instance", "d0/da7/a23684.html#a8caabc31bb7a8548eb936c34c655df68", null ],
-    [ "summons", "d0/da7/a23684.html#ae9187928c74fa1cfafaea4df25a55e41", null ]
+    [ "PeriodicTick", "d0/da7/a23684.html#a53541105e40202e4a73ecc38d84e9eca", null ],
+    [ "PrepareAuraScript", "d0/da7/a23684.html#a79c8829a86db535e254db009d5286430", null ],
+    [ "Register", "d0/da7/a23684.html#a58cd762eb10d224bb188aaf167c816b9", null ],
+    [ "Validate", "d0/da7/a23684.html#a0a4a1c0b460f7a0ade6ddbbedc893c6f", null ]
 ];

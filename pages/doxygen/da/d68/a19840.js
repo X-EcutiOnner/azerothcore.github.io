@@ -1,6 +1,6 @@
 var a19840 =
 [
-    [ "CosmicSmashDamageEvent", "da/d68/a19840.html#a5c9606791b560d8be1825a9c73f2393e", null ],
-    [ "Execute", "da/d68/a19840.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
-    [ "_caster", "da/d68/a19840.html#ab7af2459d3962831812ee2362ee9de2b", null ]
+    [ "npc_brann_bronzebeard_algalonAI", "dc/dfd/a19844.html", "dc/dfd/a19844" ],
+    [ "npc_brann_bronzebeard_algalon", "da/d68/a19840.html#a2760d42de8f78250ca5862bfcb23ed2e", null ],
+    [ "GetAI", "da/d68/a19840.html#ad8bc8bde865adcce1e9f6fd6234f1a0a", null ]
 ];

@@ -1,5 +1,10 @@
 var a27596 =
 [
-    [ "go_massive_seaforium_charge", "db/df9/a27596.html#adae43b764f237932923cd18207e4d23c", null ],
-    [ "OnGossipHello", "db/df9/a27596.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
+    [ "guard_shattrath_aldorAI", "db/df9/a27596.html#a88961dfe4100dfe207af693a1eed86ad", null ],
+    [ "Reset", "db/df9/a27596.html#aef38e83e90c322bbef18b78e6339ef2e", null ],
+    [ "UpdateAI", "db/df9/a27596.html#ac87ee12d4487971b68c70f06f63eb410", null ],
+    [ "banishTimer", "db/df9/a27596.html#a8b6e4c2acb09c65f2dbebbd21df4f29e", null ],
+    [ "canTeleport", "db/df9/a27596.html#af4d933b56431d2f2755d87fb05922458", null ],
+    [ "exileTimer", "db/df9/a27596.html#a8d56205206f3e14184922f96873456ad", null ],
+    [ "playerGUID", "db/df9/a27596.html#a16fe41ae30d54abaf12f68672b93dc32", null ]
 ];

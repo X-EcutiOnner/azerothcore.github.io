@@ -1,6 +1,6 @@
 var a27868 =
 [
-    [ "npc_experience", "d5/d57/a27868.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
-    [ "OnGossipHello", "d5/d57/a27868.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
-    [ "OnGossipSelect", "d5/d57/a27868.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
+    [ "npc_venomhide_hatchlingAI", "d5/d57/a27868.html#aa5929973ae39166ef381a3ed3c42a29c", null ],
+    [ "IsSummonedBy", "d5/d57/a27868.html#a6e1b76f43217f1eb855b50d58a069518", null ],
+    [ "SpellHit", "d5/d57/a27868.html#ac6c255438dc2f6c750ee47b61fbc20a3", null ]
 ];

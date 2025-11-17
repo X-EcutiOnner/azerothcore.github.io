@@ -1,8 +1,10 @@
 var a09972 =
 [
-    [ "TimedFleeingMovementGenerator", "db/dfc/a09972.html#ae3eed5f4b5a8d11ad4eed67ce5329742", null ],
-    [ "Finalize", "db/dfc/a09972.html#a1a18f033663fa93ef0b9885aae21f766", null ],
-    [ "GetMovementGeneratorType", "db/dfc/a09972.html#a1533d13f4e786e498353805a2a2daf85", null ],
-    [ "Update", "db/dfc/a09972.html#a53688aae55bfdd3a33eb24484fcc157e", null ],
-    [ "i_totalFleeTime", "db/dfc/a09972.html#a2858047459ff675383e7b86805702369", null ]
+    [ "ChaseRange", "db/dfc/a09972.html#acd43ed01c9e4845d82e4d240b5c35167", null ],
+    [ "ChaseRange", "db/dfc/a09972.html#aaf19c63398d31699ed1703ae1ba5f1b6", null ],
+    [ "ChaseRange", "db/dfc/a09972.html#a397b3789449b1c178f11f64313498c4d", null ],
+    [ "MaxRange", "db/dfc/a09972.html#ae2a846630e79f3a15a5d93b18c68c915", null ],
+    [ "MaxTolerance", "db/dfc/a09972.html#a7909b18028d43c84eca5feee3e41469c", null ],
+    [ "MinRange", "db/dfc/a09972.html#a0e2c69e20d6a38d056505c3b5b0d9fd6", null ],
+    [ "MinTolerance", "db/dfc/a09972.html#a7b640ecfc0e80921ab36c2c33f0b10fd", null ]
 ];

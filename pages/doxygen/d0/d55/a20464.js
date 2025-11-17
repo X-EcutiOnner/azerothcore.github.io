@@ -1,5 +1,6 @@
 var a20464 =
 [
-    [ "achievement_i_have_the_coolest_friends", "d0/d55/a20464.html#a87fd2d5702fe33ee8b09042c66897636", null ],
-    [ "OnCheck", "d0/d55/a20464.html#aa77aa6129967601ede2f3fc44b2ee1aa", null ]
+    [ "npc_ulduar_iron_constructAI", "d1/d84/a20468.html", "d1/d84/a20468" ],
+    [ "npc_ulduar_iron_construct", "d0/d55/a20464.html#a56ddf4d4d290dbb15303419c1dab18da", null ],
+    [ "GetAI", "d0/d55/a20464.html#a7d46ba96b6f1968e35721d45c17b1a49", null ]
 ];

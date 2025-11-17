@@ -1,7 +1,9 @@
 var a23040 =
 [
-    [ "PrepareAuraScript", "d4/d3c/a23040.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "d4/d3c/a23040.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "d4/d3c/a23040.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "d4/d3c/a23040.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "FilterTargets", "d4/d3c/a23040.html#aa8f0401dd004e816b8071381289116fa", null ],
+    [ "HandleTeleportUnits", "d4/d3c/a23040.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
+    [ "PrepareSpellScript", "d4/d3c/a23040.html#a47898c213cdd125714c80d327bf42d8c", null ],
+    [ "Register", "d4/d3c/a23040.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
+    [ "SetDest", "d4/d3c/a23040.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
+    [ "Validate", "d4/d3c/a23040.html#a814083360970284a325621f45e109b5b", null ]
 ];

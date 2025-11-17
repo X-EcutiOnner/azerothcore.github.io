@@ -1,9 +1,6 @@
 var a18968 =
 [
-    [ "npc_icc_skybreaker_hierophantAI", "de/db5/a18968.html#a18330d49e510f83af7ee0120df14e633", null ],
-    [ "AttackStart", "de/db5/a18968.html#a9838b3edb758f6f8d0bcbb242862d5da", null ],
-    [ "JustEngagedWith", "de/db5/a18968.html#adddd56260b41738d69fcdfe31b677c51", null ],
-    [ "Reset", "de/db5/a18968.html#a2291e4a6bbf917a810b31776dee9dd24", null ],
-    [ "UpdateAI", "de/db5/a18968.html#a971fa0e468d9d58ffdda7c7b8aa53485", null ],
-    [ "events", "de/db5/a18968.html#a1c8a527d217f9b810f87da0fc020528a", null ]
+    [ "npc_icc_skybreaker_vicarAI", "d6/d10/a18972.html", "d6/d10/a18972" ],
+    [ "npc_icc_skybreaker_vicar", "de/db5/a18968.html#a40451cc6fba0cae59e47fa38e4fb79d3", null ],
+    [ "GetAI", "de/db5/a18968.html#a6884bb7e54b78abee0cc995c4fbb501d", null ]
 ];

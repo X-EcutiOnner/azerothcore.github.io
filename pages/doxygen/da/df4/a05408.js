@@ -1,13 +1,16 @@
 var a05408 =
 [
-    [ "Logger", "da/df4/a05408.html#a79033d763c69dbfb95b1c591f1cc680b", null ],
-    [ "addAppender", "da/df4/a05408.html#aabacae0a84994e5567f9c87829909fdd", null ],
-    [ "delAppender", "da/df4/a05408.html#a1fb8747bf7b652b9dfbf9ee830a82c8b", null ],
-    [ "getLogLevel", "da/df4/a05408.html#aba945b0f037b7de27976d3a6e1a0fbbd", null ],
-    [ "getName", "da/df4/a05408.html#ae95167d7bb330ecc0a49779a5635d1e2", null ],
-    [ "setLogLevel", "da/df4/a05408.html#a00fdcdbeb39a2d5d4fb27cc36c35c101", null ],
-    [ "write", "da/df4/a05408.html#a3627f98e8676ee7b68a34a4d9439082e", null ],
-    [ "appenders", "da/df4/a05408.html#aa93931f2386ebc6dbf2464f536ed54f9", null ],
-    [ "level", "da/df4/a05408.html#a3b1d9dd7bd391ac7bed560918f82a03b", null ],
-    [ "name", "da/df4/a05408.html#ada299a7dd268085371557213e36695a9", null ]
+    [ "LogMessage", "da/df4/a05408.html#a563286e5cd6518e04b3069a86cf6e972", null ],
+    [ "LogMessage", "da/df4/a05408.html#a0a5626d481fe047437f213f1fa48a3aa", null ],
+    [ "LogMessage", "da/df4/a05408.html#a727fa3a719c50572711ada4e257102ab", null ],
+    [ "getTimeStr", "da/df4/a05408.html#aaeca452ae2fe32e7412f4abc30642da2", null ],
+    [ "getTimeStr", "da/df4/a05408.html#af40f502e57bf12f31fc7a2fe60584fc8", null ],
+    [ "operator=", "da/df4/a05408.html#af35b8fc183cb1848e965117497f50ab4", null ],
+    [ "Size", "da/df4/a05408.html#ad2947063f8263da27acc82ce0bba6bc2", null ],
+    [ "level", "da/df4/a05408.html#a44096654072d07e506ef6414a8ce4970", null ],
+    [ "mtime", "da/df4/a05408.html#a2dab9ed7c1aa8b784e74247667295e29", null ],
+    [ "param1", "da/df4/a05408.html#afcf2119e7c084339bd70e2ffb4c88d0e", null ],
+    [ "prefix", "da/df4/a05408.html#afe279a591acc9740457c3cd58d43a263", null ],
+    [ "text", "da/df4/a05408.html#a4ad799611980177ae87f3acbf2af8ff7", null ],
+    [ "type", "da/df4/a05408.html#a77105c721645df5654e3c48ce00c2b5a", null ]
 ];

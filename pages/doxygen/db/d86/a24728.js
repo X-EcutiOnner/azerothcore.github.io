@@ -1,9 +1,7 @@
 var a24728 =
 [
-    [ "Absorb", "db/d86/a24728.html#ade7f8805491a627cf3e8accdee178f3e", null ],
-    [ "CalculateAmount", "db/d86/a24728.html#a1194d2bd96632cbc3eab58300a5f9a46", null ],
-    [ "Load", "db/d86/a24728.html#a49277dbcc2d7cc79f29226e9b242120b", null ],
-    [ "PrepareAuraScript", "db/d86/a24728.html#a9eb3dc519bd595b7c0193ae3519c136e", null ],
-    [ "Register", "db/d86/a24728.html#a730528baddf2087fb1c0898ac7ad76c5", null ],
-    [ "absorbPct", "db/d86/a24728.html#a58c03a57bdfcba203159ae38683fdf14", null ]
+    [ "CheckClass", "db/d86/a24728.html#a931d7a6aa2f1b574c225d3e803edbab4", null ],
+    [ "HandleScript", "db/d86/a24728.html#a4f4f7004be5629efdc48b52b6667edba", null ],
+    [ "PrepareSpellScript", "db/d86/a24728.html#a599ce758681c5196bd40e4c7b86635cc", null ],
+    [ "Register", "db/d86/a24728.html#ab184b23aa446c826db39928eb3ff3ecc", null ]
 ];

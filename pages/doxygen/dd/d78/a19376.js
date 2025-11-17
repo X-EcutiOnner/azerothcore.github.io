@@ -1,8 +1,8 @@
 var a19376 =
 [
-    [ "HandleDamage", "dd/d78/a19376.html#ab8948b09b685ad970f5292ca4c5d97ba", null ],
-    [ "HandleTargets", "dd/d78/a19376.html#ac36e689bad93aa17738f390680764a7e", null ],
-    [ "PrepareSpellScript", "dd/d78/a19376.html#a149db071722ce12cded16087c8eec1df", null ],
-    [ "Register", "dd/d78/a19376.html#abd073f34a414fab7ee23ee933863f1c7", null ],
-    [ "Validate", "dd/d78/a19376.html#a177320de9c3a2c2f29120fcaa413ab13", null ]
+    [ "npc_teslaAI", "dd/d78/a19376.html#a7281220648af1357b1377d6f7874d663", null ],
+    [ "DamageTaken", "dd/d78/a19376.html#aa3ab570e86261bc3178e17109d76af12", null ],
+    [ "EnterEvadeMode", "dd/d78/a19376.html#acc8115216989b34593a9435eeb051eda", null ],
+    [ "JustEngagedWith", "dd/d78/a19376.html#add93f68bc96b3c93dc0a3271543711e6", null ],
+    [ "UpdateAI", "dd/d78/a19376.html#a962745569b07e368067ee483d2379840", null ]
 ];

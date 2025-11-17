@@ -1,5 +1,5 @@
 var a27248 =
 [
-    [ "achievement_bg_ic_glaive_grave", "db/dee/a27248.html#a97e1cead0102a120b3bd14592ea26034", null ],
-    [ "OnCheck", "db/dee/a27248.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
+    [ "achievement_tilted", "db/dee/a27248.html#a868d7b8a437434d6dc34b5000c429e66", null ],
+    [ "OnCheck", "db/dee/a27248.html#a61d3eb78450383485699532d96f79d93", null ]
 ];

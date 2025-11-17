@@ -1,12 +1,6 @@
 var a19464 =
 [
-    [ "npc_hover_diskAI", "da/df2/a19464.html#a1ee618b8e6393437f0e4193fc57725f3", null ],
-    [ "AttackStart", "da/df2/a19464.html#aec7920845132af74ecf83bbbcf221f06", null ],
-    [ "DoAction", "da/df2/a19464.html#a802681ba91854eec0a5d9ac1c2df761c", null ],
-    [ "MoveInLineOfSight", "da/df2/a19464.html#a770bbfc63a3aef7801b6ba9a542c459c", null ],
-    [ "MovementInform", "da/df2/a19464.html#a97c5039553d267fc3d955cb6e5eafb47", null ],
-    [ "PassengerBoarded", "da/df2/a19464.html#a130a40916bb42945531b02d2f3385ece", null ],
-    [ "UpdateAI", "da/df2/a19464.html#a5213e9b9a750e53b83621cd981741773", null ],
-    [ "events", "da/df2/a19464.html#adeed5599c5416f3a5d171f70b53d0023", null ],
-    [ "pInstance", "da/df2/a19464.html#a5141cd8297bf3dc67ce9195867a4152c", null ]
+    [ "npc_eoe_wyrmrest_skytalonAI", "d1/d8c/a19468.html", "d1/d8c/a19468" ],
+    [ "npc_eoe_wyrmrest_skytalon", "da/df2/a19464.html#a55685de624b277840f8fc0c397b8aebf", null ],
+    [ "GetAI", "da/df2/a19464.html#a01a384ab10cfccbd159f116e0bef52e8", null ]
 ];

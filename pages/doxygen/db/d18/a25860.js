@@ -1,6 +1,10 @@
 var a25860 =
 [
-    [ "HandleOnEffectHit", "db/d18/a25860.html#a07157e7255d52acf6eb5d5e5c17e2190", null ],
-    [ "PrepareSpellScript", "db/d18/a25860.html#a0b2fd34dda3b23b574f6a5a0c4435006", null ],
-    [ "Register", "db/d18/a25860.html#a59c6a1618faa5a44e1c37337b39a3cba", null ]
+    [ "spell_item_defibrillate", "db/d18/a25860.html#ab64fdd36fc646ca0bcb2010380199ede", null ],
+    [ "HandleScript", "db/d18/a25860.html#a7abbc5b8e5c5231d5c6809c45b815b69", null ],
+    [ "PrepareSpellScript", "db/d18/a25860.html#a6a7ad6c9bb9bee3b093bd06b1b259468", null ],
+    [ "Register", "db/d18/a25860.html#ad2faa26a2874f68e8e419e59cafbf10b", null ],
+    [ "Validate", "db/d18/a25860.html#ad871a6bef7ba074f32abe1bf062dffe1", null ],
+    [ "_chance", "db/d18/a25860.html#a680092f30ebc6b322e5d01a1100b308c", null ],
+    [ "_failSpell", "db/d18/a25860.html#a4cb3e7f0b0b85c57f27fe2f3ab70647b", null ]
 ];

@@ -1,16 +1,6 @@
 var a16712 =
 [
-    [ "boss_jaraxxusAI", "de/df2/a16712.html#af05dd6ee301cfe4fdfbc511b07f21b48", null ],
-    [ "EnterEvadeMode", "de/df2/a16712.html#a45fc8cbc3b1e59be8f13f1ebae73bfa1", null ],
-    [ "JustDied", "de/df2/a16712.html#a5fce156ec839c4799e3585e9674636c1", null ],
-    [ "JustEngagedWith", "de/df2/a16712.html#a59f21f25fbe83c9710ac6377753ce8d3", null ],
-    [ "JustReachedHome", "de/df2/a16712.html#a5961b5563c1d140f31a348a1ea8dc4ba", null ],
-    [ "JustSummoned", "de/df2/a16712.html#a6efea02e03c4d7e97c357afbc320b5bf", null ],
-    [ "MoveInLineOfSight", "de/df2/a16712.html#aee8b894518e9091f4e52c4048562d08a", null ],
-    [ "Reset", "de/df2/a16712.html#ad4a2bce95988f030387d74b5cf90f223", null ],
-    [ "SpellHit", "de/df2/a16712.html#a5103f7808134a67f06af4be1d848aa91", null ],
-    [ "UpdateAI", "de/df2/a16712.html#a5e733b9e5b63801a1ca2778e58fedb61", null ],
-    [ "events", "de/df2/a16712.html#a6aff4c78989d99d49d697e9900375e28", null ],
-    [ "pInstance", "de/df2/a16712.html#aa9d9cb25b827c48e1fd5cd8e75ac92a0", null ],
-    [ "summons", "de/df2/a16712.html#abeddfd1bb9b5391da578f794d6c618b7", null ]
+    [ "npc_fel_infernalAI", "db/dcc/a16716.html", "db/dcc/a16716" ],
+    [ "npc_fel_infernal", "de/df2/a16712.html#a2d2ed8cf09c97d30b6c79dcdf9153ed9", null ],
+    [ "GetAI", "de/df2/a16712.html#a768201a7516c9972800c941cf2079a11", null ]
 ];

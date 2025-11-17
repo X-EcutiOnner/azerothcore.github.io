@@ -1,8 +1,6 @@
 var a24100 =
 [
-    [ "boss_mechano_lord_capacitus", "d2/ddf/a24100.html#ab5867184d4e50a89a1afe25eb40e6bc3", null ],
-    [ "JustDied", "d2/ddf/a24100.html#a596314e7aebcc9e2e7311b4e0850b817", null ],
-    [ "JustEngagedWith", "d2/ddf/a24100.html#a4aa9ee50a942fe123acfdeee0350fa2d", null ],
-    [ "JustSummoned", "d2/ddf/a24100.html#a9a0b2cac08002db63162f95b9476c251", null ],
-    [ "KilledUnit", "d2/ddf/a24100.html#a6a408c654f91a44a40b3df52c0f2b093", null ]
+    [ "instance_mechanar_InstanceMapScript", "d5/dde/a24104.html", "d5/dde/a24104" ],
+    [ "instance_mechanar", "d2/ddf/a24100.html#ab31a66a0eb8b9ac6f79af479528ff4fd", null ],
+    [ "GetInstanceScript", "d2/ddf/a24100.html#ae8e9810a9bfd6b0ec256dd6a288392ed", null ]
 ];

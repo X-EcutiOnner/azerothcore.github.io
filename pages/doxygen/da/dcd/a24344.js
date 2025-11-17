@@ -1,11 +1,6 @@
 var a24344 =
 [
-    [ "npc_invis_infernal_casterAI", "da/dcd/a24344.html#a1188ecc4752d5ab1c2f81602187282f2", null ],
-    [ "Reset", "da/dcd/a24344.html#a05a8d5fd4828d7b1edb3b29ff8a6e61c", null ],
-    [ "SetData", "da/dcd/a24344.html#aee88dc141757384f96da969fcdc20671", null ],
-    [ "SummonInfernal", "da/dcd/a24344.html#a78d53d09e5544b3fe8301da4415d297b", null ],
-    [ "UpdateAI", "da/dcd/a24344.html#a80be204b493768ceb5f5d99d1e81f1b1", null ],
-    [ "events", "da/dcd/a24344.html#aab7aca330ae36dd2de7761984dd2a0a3", null ],
-    [ "ground", "da/dcd/a24344.html#a4c943d67b25d7c9f4ac6f16d96bbbc4f", null ],
-    [ "infernalGUID", "da/dcd/a24344.html#a5619136f90c181ecf3e4389bc2fcdafc", null ]
+    [ "npc_drake_dealer_hurlunk", "da/dcd/a24344.html#ae6d095365d23c30d5b772b047b459ddb", null ],
+    [ "OnGossipHello", "da/dcd/a24344.html#ad04b7f906f029d9935e29c585b0de421", null ],
+    [ "OnGossipSelect", "da/dcd/a24344.html#aa23833dcdefb909899120c25d5376111", null ]
 ];

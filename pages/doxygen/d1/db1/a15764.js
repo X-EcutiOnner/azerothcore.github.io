@@ -1,7 +1,6 @@
 var a15764 =
 [
-    [ "DelayedWindstoneSummonEvent", "d1/db1/a15764.html#aa97daf8cf3479395ffd6558b6699436a", null ],
-    [ "Execute", "d1/db1/a15764.html#aa413bc8709bc543b89ffb3df42185475", null ],
-    [ "_playerGUID", "d1/db1/a15764.html#ad83bb6d87b569f59e99abcc16517745b", null ],
-    [ "_summon", "d1/db1/a15764.html#af9804d276da5daebab3a37f2c75301ea", null ]
+    [ "go_wind_stoneAI", "d1/db3/a15768.html", "d1/db3/a15768" ],
+    [ "go_wind_stone", "d1/db1/a15764.html#a70c4bcb743b0d587caad4b574c589e3e", null ],
+    [ "GetAI", "d1/db1/a15764.html#ab7add0fe4e58eec422e37ae04b9338df", null ]
 ];

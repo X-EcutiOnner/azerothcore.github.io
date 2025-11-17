@@ -1,12 +1,6 @@
 var a12272 =
 [
-    [ "boss_pyroguard_emberseerAI", "d1/da9/a12272.html#ac08deea0d151d109f36bb3cf66a34f29", null ],
-    [ "JustDied", "d1/da9/a12272.html#aa35fc50d327c0bf7506bfd166d098522", null ],
-    [ "JustEngagedWith", "d1/da9/a12272.html#a9eff335ff04e3da1e4488e00b55ecbaa", null ],
-    [ "OpenDoors", "d1/da9/a12272.html#a8002f8d7b6b06b970d38d9824d57d737", null ],
-    [ "Reset", "d1/da9/a12272.html#ab82a2bc6e9596d14dd2fd65b859af74d", null ],
-    [ "SetData", "d1/da9/a12272.html#a5892ccaf9107e2da47c22c21bf5b2ed9", null ],
-    [ "SpellHit", "d1/da9/a12272.html#a236f20c40eb1c37a25b04b5cf83e2488", null ],
-    [ "UpdateAI", "d1/da9/a12272.html#a075147c4409174652e732293426b732d", null ],
-    [ "UpdateRunes", "d1/da9/a12272.html#a87d7d63893a9feb6bb6c44adf1c637eb", null ]
+    [ "npc_blackhand_incarceratorAI", "d4/d14/a12276.html", "d4/d14/a12276" ],
+    [ "npc_blackhand_incarcerator", "d1/da9/a12272.html#a0c6bb8ea789e81803a11be57ac1b68e2", null ],
+    [ "GetAI", "d1/da9/a12272.html#a021ddf6442812f7fb698ba7fb45b9ffb", null ]
 ];

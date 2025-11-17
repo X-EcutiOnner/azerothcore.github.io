@@ -1,6 +1,7 @@
 var a11520 =
 [
-    [ "EffectCalcSpellModHandler", "db/d09/a11520.html#abe81396a3f1c1b3b07c10cf0e191546c", null ],
-    [ "Call", "db/d09/a11520.html#a5ca2a9c329a7dbbb7e835849ca4479aa", null ],
-    [ "pEffectHandlerScript", "db/d09/a11520.html#a15c0b24641cb04f31bb3d651dae59448", null ]
+    [ "EffectApplyHandler", "db/d09/a11520.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
+    [ "Call", "db/d09/a11520.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
+    [ "mode", "db/d09/a11520.html#ac776375c5a5de321edc572c87e983193", null ],
+    [ "pEffectHandlerScript", "db/d09/a11520.html#acd715556a7661f688ce0de9afe62250a", null ]
 ];

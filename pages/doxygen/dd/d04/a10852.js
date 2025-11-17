@@ -1,7 +1,8 @@
 var a10852 =
 [
-    [ "ReadItem", "dd/d04/a10852.html#a099da7490ccf30ee0bde5f85e6197a76", null ],
-    [ "Read", "dd/d04/a10852.html#a61ae8ba19d04f3001614f8dd2ad408ed", null ],
-    [ "Bag", "dd/d04/a10852.html#a16c02f27e986ac3d093668092d67a3c9", null ],
-    [ "Slot", "dd/d04/a10852.html#a1d181a1cec1021cf68a5d9b80d2753c3", null ]
+    [ "SellItem", "dd/d04/a10852.html#a5c7bdfba6d948b9fdaea3416bce03e5e", null ],
+    [ "Read", "dd/d04/a10852.html#a7387e53c30f41dc8f5fd3ffbe4e4a347", null ],
+    [ "Count", "dd/d04/a10852.html#a0116f5d02f18bf1a315fbf81b6467239", null ],
+    [ "ItemGuid", "dd/d04/a10852.html#a92ae3a3dc04a699c4f201026c08974ca", null ],
+    [ "VendorGuid", "dd/d04/a10852.html#a13200b200096a11e93a6d23fd6122378", null ]
 ];

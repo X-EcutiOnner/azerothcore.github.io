@@ -1,8 +1,5 @@
 var a27948 =
 [
-    [ "npc_minion_spawner", "d3/d06/a27948.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
-    [ "CanSpawnRareMinion", "d3/d06/a27948.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
-    [ "JustSummoned", "d3/d06/a27948.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
-    [ "Reset", "d3/d06/a27948.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
-    [ "UpdateAI", "d3/d06/a27948.html#a24f93f1314bb73edb369e188eda83104", null ]
+    [ "ServerMailReward", "d3/d06/a27948.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
+    [ "OnPlayerLogin", "d3/d06/a27948.html#ada945e805278d54746b6fabaf48b4546", null ]
 ];

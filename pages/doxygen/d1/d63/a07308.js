@@ -1,4 +1,5 @@
 var a07308 =
 [
-    [ "Filter", "d1/d63/a07308.html#a1fcb023fe0dee17790b3636bf1ff3e9a", null ]
+    [ "CreateFilterByUserInput", "d1/d63/a07308.html#ae35ff456f56290032c4c62d252a83690", null ],
+    [ "ParseTypes", "d1/d63/a07308.html#a79a78392d31f1fbf3d8475572d570c1c", null ]
 ];

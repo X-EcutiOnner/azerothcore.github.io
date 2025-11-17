@@ -1,6 +1,5 @@
 var a19396 =
 [
-    [ "DespawnTime", "d6/d4a/a19396.html#ae14c357137f16666c74e5f7e3f77aed5", null ],
-    [ "End", "d6/d4a/a19396.html#ac87ea314ccf946eb1fa35985e35c81fd", null ],
-    [ "Start", "d6/d4a/a19396.html#a985271de503fa704a58abe3e64c3b268", null ]
+    [ "npc_living_poison", "d6/d4a/a19396.html#a277440068846eac71c795880a16475dd", null ],
+    [ "UpdateAI", "d6/d4a/a19396.html#a2a6af8a9ef14e65ba9e44f2228b09ba5", null ]
 ];

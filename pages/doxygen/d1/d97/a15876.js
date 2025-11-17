@@ -1,6 +1,6 @@
 var a15876 =
 [
-    [ "HandleDummy", "d1/d97/a15876.html#a2750ae788168e7496ea2345c5535509c", null ],
-    [ "PrepareSpellScript", "d1/d97/a15876.html#a66b4187decbfb0b5623ce5630a8fa9d3", null ],
-    [ "Register", "d1/d97/a15876.html#ab6c961d89d22761402eb4f5881cbd318", null ]
+    [ "npc_cairne_bloodhoofAI", "dd/da3/a15880.html", "dd/da3/a15880" ],
+    [ "npc_cairne_bloodhoof", "d1/d97/a15876.html#a3519d94c5fcdc3d55e31c49c7773e56c", null ],
+    [ "GetAI", "d1/d97/a15876.html#a1c34470c46ae9e98684de0e786be28b7", null ]
 ];

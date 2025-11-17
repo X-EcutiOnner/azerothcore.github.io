@@ -1,6 +1,7 @@
 var a26000 =
 [
-    [ "CheckSinkholes", "d6/d85/a26000.html#a5c363144cde9e809d97730f54873fe85", null ],
-    [ "PrepareSpellScript", "d6/d85/a26000.html#a0cd1fc05ee319b04299fcebe3a405bb4", null ],
-    [ "Register", "d6/d85/a26000.html#a6694fbf58b776b74df0a54cd96141688", null ]
+    [ "HandleDummy", "d6/d85/a26000.html#a630b3359dcecdb65992df67fbc4b197b", null ],
+    [ "PrepareSpellScript", "d6/d85/a26000.html#a9960211eda513e642a386e0ff3bcd4c5", null ],
+    [ "Register", "d6/d85/a26000.html#aaa1c9db89ddd7a7590b3b41b377d4cec", null ],
+    [ "Validate", "d6/d85/a26000.html#a9af89aba8006d93b8c0ae2ce7143255e", null ]
 ];

@@ -1,6 +1,13 @@
 var a19420 =
 [
-    [ "boss_malygosAI", "d2/dc7/a19424.html", "d2/dc7/a19424" ],
-    [ "boss_malygos", "d8/d00/a19420.html#aeac3c63d4ccd2947a6f7e4c007dc6aa1", null ],
-    [ "GetAI", "d8/d00/a19420.html#a9e1d821311fa8b92318a99ea79ddb1e3", null ]
+    [ "npc_vortex_rideAI", "d8/d00/a19420.html#ae827bdfdef36419e33b37aecde1a2cc4", null ],
+    [ "AttackStart", "d8/d00/a19420.html#a810c0c03317672d5a4a904a1e96cbba9", null ],
+    [ "DamageTaken", "d8/d00/a19420.html#a39e33812041877296c11c9bace6a4667", null ],
+    [ "MoveInLineOfSight", "d8/d00/a19420.html#a2c810e2fe14e4681a0092a0c6bb3eadc", null ],
+    [ "PassengerBoarded", "d8/d00/a19420.html#a77234a8f4ec9c687b194a8c332820609", null ],
+    [ "UpdateAI", "d8/d00/a19420.html#ad450120965f9e85bdb69ffc4c092c901", null ],
+    [ "bUpdatedFlying", "d8/d00/a19420.html#a56f2753ef630b76882cc1dce6b5a8fb9", null ],
+    [ "despawnTimer", "d8/d00/a19420.html#acd7a8c972db52077f8b02317f5398ff0", null ],
+    [ "timer", "d8/d00/a19420.html#acd72c6ae18b84cee94a295e51fae9ac3", null ],
+    [ "VORTEX_RADIUS", "d8/d00/a19420.html#adec384ccbdc5f2b90a1d09c67b47d24f", null ]
 ];

@@ -1,7 +1,7 @@
 var a03728 =
 [
-    [ "boss_highlord_omokk", "d6/d91/a12240.html", "d6/d91/a12240" ],
-    [ "boss_highlord_omokk::boss_highlordomokkAI", "d7/d47/a12244.html", "d7/d47/a12244" ],
+    [ "boss_highlord_omokk", "d8/d99/a12236.html", "d8/d99/a12236" ],
+    [ "boss_highlord_omokk::boss_highlordomokkAI", "d6/d91/a12240.html", "d6/d91/a12240" ],
     [ "Events", "d3/d3b/a03728.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

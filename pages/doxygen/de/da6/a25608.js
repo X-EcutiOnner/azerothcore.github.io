@@ -1,10 +1,7 @@
 var a25608 =
 [
-    [ "Load", "de/da6/a25608.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
-    [ "OnApply", "de/da6/a25608.html#a83d922c434442e22482410d61aa0198f", null ],
-    [ "OnPetApply", "de/da6/a25608.html#a6df5e59e29cb89310a1c78bf93029545", null ],
-    [ "OnRemove", "de/da6/a25608.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
-    [ "PrepareAuraScript", "de/da6/a25608.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
-    [ "Register", "de/da6/a25608.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
-    [ "Validate", "de/da6/a25608.html#ab318472ea9f4aaa79e45f18783586eed", null ]
+    [ "HandleDummy", "de/da6/a25608.html#a5b25d03bb22995e1ba9deb7eec4ee35a", null ],
+    [ "Load", "de/da6/a25608.html#a833d9abe12cb4fff1700b97bc7215c1d", null ],
+    [ "PrepareSpellScript", "de/da6/a25608.html#a547b3f71f9fc502dc589ad7b9b6f3cc2", null ],
+    [ "Register", "de/da6/a25608.html#ae7d502253b0c47921e40da4aa87b0eef", null ]
 ];

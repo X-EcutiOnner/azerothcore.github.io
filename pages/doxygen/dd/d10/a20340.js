@@ -1,6 +1,6 @@
 var a20340 =
 [
-    [ "id", "dd/d10/a20340.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
-    [ "x", "dd/d10/a20340.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
-    [ "y", "dd/d10/a20340.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
+    [ "npc_ulduar_icicleAI", "de/d34/a20344.html", "de/d34/a20344" ],
+    [ "npc_ulduar_icicle", "dd/d10/a20340.html#a1ab79b2fa3e64779f62b96c195222683", null ],
+    [ "GetAI", "dd/d10/a20340.html#a71dd83d544307b11bcde58f9aeea097c", null ]
 ];

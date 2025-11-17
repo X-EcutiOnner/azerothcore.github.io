@@ -1,6 +1,6 @@
 var a19852 =
 [
-    [ "npc_brann_bronzebeard_algalonAI", "de/d81/a19856.html", "de/d81/a19856" ],
-    [ "npc_brann_bronzebeard_algalon", "dd/d72/a19852.html#a2760d42de8f78250ca5862bfcb23ed2e", null ],
-    [ "GetAI", "dd/d72/a19852.html#ad8bc8bde865adcce1e9f6fd6234f1a0a", null ]
+    [ "npc_collapsing_starAI", "dd/d72/a19852.html#ac389b380a8f315ae50a8cd809393a773", null ],
+    [ "DamageTaken", "dd/d72/a19852.html#a424fac98093eb9d02cda5027523ad06a", null ],
+    [ "JustSummoned", "dd/d72/a19852.html#ae70fcb66171fe5f87d96aaf2f52e35bc", null ]
 ];

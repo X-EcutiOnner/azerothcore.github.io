@@ -1,10 +1,9 @@
 var a24996 =
 [
-    [ "HandleEffectApply", "da/d76/a24996.html#ac977d07e0b054af33345538f10d80c56", null ],
-    [ "HandleEffectRemove", "da/d76/a24996.html#acd9c460acb60eae5db8874c246014147", null ],
-    [ "PrepareAuraScript", "da/d76/a24996.html#a1527c59b43a26db344e5a4d2900ea9b0", null ],
-    [ "Register", "da/d76/a24996.html#ab0de0c0459d3414f69a0dde7669b6f79", null ],
-    [ "_hasFlag", "da/d76/a24996.html#adb5058ba54ea53db9fdc9251a44619aa", null ],
-    [ "_itemId", "da/d76/a24996.html#a28c06ecd352466e0d1076d9eb4fa8e9b", null ],
-    [ "_modelId", "da/d76/a24996.html#ae77b9ae8a1092e0dc144e83db4c0758c", null ]
+    [ "PrepareAuraScript", "da/d76/a24996.html#accf6cc89fed8dbf7c3cee201f1e9e806", null ],
+    [ "Register", "da/d76/a24996.html#a04efbc64bfa0312bc1f372e403803c32", null ],
+    [ "Update", "da/d76/a24996.html#aa463442b994b6275b2e12fe06ae7805c", null ],
+    [ "amplitude", "da/d76/a24996.html#aff726eef4dbd10dd71f1614ab6755ea1", null ],
+    [ "amplitude", "da/d76/a24996.html#ad96a6059cb2f4bdf8e2b341d0a6e294f", null ],
+    [ "isPeriodic", "da/d76/a24996.html#a0732bf60822bbb547be014566d0e092c", null ]
 ];

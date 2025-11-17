@@ -1,7 +1,7 @@
 var a25180 =
 [
-    [ "HandleScript", "d6/da7/a25180.html#a628fbc7ef23ce8f93d132f7bf518d4d8", null ],
-    [ "PrepareSpellScript", "d6/da7/a25180.html#a8e5aa0a33907c5216299734a928de2fd", null ],
-    [ "Register", "d6/da7/a25180.html#a9e25da03bbbea35f13420c14c6fab0d5", null ],
-    [ "Validate", "d6/da7/a25180.html#a30cc03ed0c19074dc1fde4951a061815", null ]
+    [ "HandleScript", "d6/da7/a25180.html#a9fb69011ce5245925eb6a4fd011d18b2", null ],
+    [ "PrepareSpellScript", "d6/da7/a25180.html#ab9300ff0efc4a36d652a1b56c031dc2f", null ],
+    [ "Register", "d6/da7/a25180.html#aa0828fa1a3cf75e8222607a4f2fff950", null ],
+    [ "Validate", "d6/da7/a25180.html#a9469ebca2d40dd2944f2fb7286fc64ff", null ]
 ];

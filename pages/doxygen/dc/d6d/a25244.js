@@ -1,8 +1,6 @@
 var a25244 =
 [
-    [ "HandleScript", "dc/d6d/a25244.html#af7330c1b586b809c78e0bc080cb92c65", null ],
-    [ "Load", "dc/d6d/a25244.html#a262fc7f4bc3f1fae07f69dde765d8228", null ],
-    [ "PrepareSpellScript", "dc/d6d/a25244.html#af0fda52cff0361cf6c4a69957459ddf3", null ],
-    [ "Register", "dc/d6d/a25244.html#a41225a9f5d9304df4a02a681e8b73ff6", null ],
-    [ "Validate", "dc/d6d/a25244.html#a520341dc41dcce5fd9346e3f5ed6ee51", null ]
+    [ "CheckRequirement", "dc/d6d/a25244.html#a8a1367ad6c51a74e7cefbc2440eab697", null ],
+    [ "PrepareSpellScript", "dc/d6d/a25244.html#a859ac50e6774471c232113e5c007f602", null ],
+    [ "Register", "dc/d6d/a25244.html#aceafb7d6cfa300011935026f4d7ac491", null ]
 ];

@@ -1,9 +1,6 @@
 var a26192 =
 [
-    [ "HandleAfterCast", "dd/d6f/a26192.html#afd2fbc51ac1e99789994021af36688f3", null ],
-    [ "HandleTriggerSpell", "dd/d6f/a26192.html#ae140ab00101f081454b55e12a7c54440", null ],
-    [ "Load", "dd/d6f/a26192.html#a3dbb3541f0ec3f614d1f18fd92f9bc03", null ],
-    [ "PrepareSpellScript", "dd/d6f/a26192.html#a7fd1a83dd49cee4f52913a40caf3ef88", null ],
-    [ "Register", "dd/d6f/a26192.html#a3e9d0ff0bd71ea6d87fb9a7edcfa9a1c", null ],
-    [ "_triggerSpellId", "dd/d6f/a26192.html#a9a3efd5cf45d15cf8112a82d33dca731", null ]
+    [ "OnRemove", "dd/d6f/a26192.html#ae1f257e43effcb396d57d42db3063afd", null ],
+    [ "PrepareAuraScript", "dd/d6f/a26192.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
+    [ "Register", "dd/d6f/a26192.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
 ];

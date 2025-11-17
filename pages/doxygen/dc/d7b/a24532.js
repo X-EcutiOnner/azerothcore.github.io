@@ -1,8 +1,9 @@
 var a24532 =
 [
-    [ "go_skull_pile", "dc/d7b/a24532.html#a9cf8dfef432c4967c60f66e645585770", null ],
-    [ "OnGossipHello", "dc/d7b/a24532.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
-    [ "OnGossipSelect", "dc/d7b/a24532.html#afb8e8db2705355e975fa48c98e09f20b", null ],
-    [ "SendActionMenu", "dc/d7b/a24532.html#a048dd224b46ead864958ad524d76167f", null ],
-    [ "_result", "dc/d7b/a24532.html#af74fcd75404c0886128401d661067394", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "dc/d7b/a24532.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
+    [ "GetOwner", "dc/d7b/a24532.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
+    [ "SpellHitTarget", "dc/d7b/a24532.html#a6c0d3181b913c5022325f66586f66bfa", null ],
+    [ "UpdateAI", "dc/d7b/a24532.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
+    [ "events", "dc/d7b/a24532.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
+    [ "ownerGUID", "dc/d7b/a24532.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
 ];

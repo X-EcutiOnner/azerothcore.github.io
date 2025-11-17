@@ -1,5 +1,6 @@
 var a25492 =
 [
-    [ "PrepareSpellScript", "de/dea/a25492.html#a096ce1292821f201af5f294877ee25e0", null ],
-    [ "Register", "de/dea/a25492.html#a804d6dec38ea4e59a72ed09882dc9e95", null ]
+    [ "HandleScript", "de/dea/a25492.html#a3f63c080d2a74def0920cceaea18e1e2", null ],
+    [ "PrepareSpellScript", "de/dea/a25492.html#a438c4c1763688210384b24305aeebe52", null ],
+    [ "Register", "de/dea/a25492.html#a27b25fbbdd912505738728414b79380c", null ]
 ];

@@ -1,6 +1,7 @@
 var a12336 =
 [
-    [ "boss_urok_doomhowlAI", "d0/d21/a12340.html", "d0/d21/a12340" ],
-    [ "boss_urok_doomhowl", "d5/da2/a12336.html#a0ca9cea9919648baa5ff7db2d5a5b530", null ],
-    [ "GetAI", "d5/da2/a12336.html#ac77756af77191e02df49161da0ace268", null ]
+    [ "boss_urok_doomhowlAI", "d5/da2/a12336.html#ade3d87a05eed0fd077b2e3245099ed74", null ],
+    [ "InitializeAI", "d5/da2/a12336.html#a530bef523a27523827d3a94aa5f88698", null ],
+    [ "JustEngagedWith", "d5/da2/a12336.html#abd74d844bcae5f9bd8fdd3797323af2c", null ],
+    [ "UpdateAI", "d5/da2/a12336.html#a6ab5793a48534b7c338a915a7ed8faf9", null ]
 ];

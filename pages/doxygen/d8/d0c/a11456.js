@@ -1,6 +1,8 @@
 var a11456 =
 [
-    [ "CheckCastHandler", "d8/d0c/a11456.html#a8647582abeea09779e05d809cbdb0d06", null ],
-    [ "Call", "d8/d0c/a11456.html#a805de70601b15de19639ca01c75ae7f7", null ],
-    [ "_checkCastHandlerScript", "d8/d0c/a11456.html#af13f11d14772afbea06f0020df4bbe6c", null ]
+    [ "EffectHandler", "d8/d0c/a11456.html#aebdff9758b3ec51a75220be43b0d7b44", null ],
+    [ "Call", "d8/d0c/a11456.html#a7696d64688fa8b10cd58220fdd5fa5ba", null ],
+    [ "CheckEffect", "d8/d0c/a11456.html#a8eeff14be65159b6f9a88b04abe14e8b", null ],
+    [ "ToString", "d8/d0c/a11456.html#a5b583dc87f0146f06c9a38a5db92f4fb", null ],
+    [ "pEffectHandlerScript", "d8/d0c/a11456.html#a88fbf00b2e35c462423ddeff55ac3dee", null ]
 ];

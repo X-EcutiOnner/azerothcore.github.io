@@ -1,13 +1,17 @@
 var a08780 =
 [
-    [ "BuildValuesCachePosPointers", "de/d11/a08780.html#ae84124e042e8ba50d755ccef3c02fdd8", null ],
-    [ "ApplyOffset", "de/d11/a08780.html#a31a13ea07b3eb9e3d045996e8a6074b2", null ],
-    [ "other", "de/d11/a08780.html#ad56ddc5f2d7ea4937b49a61d80b8b138", null ],
-    [ "UnitDynamicFlagsPos", "de/d11/a08780.html#a230385a8646ebce01faaadce648b1a61", null ],
-    [ "UnitFieldAuraStatePos", "de/d11/a08780.html#a69592cf42c5f6663c8ada3468fcbe658", null ],
-    [ "UnitFieldBytes2Pos", "de/d11/a08780.html#aa1df8492f0a3c576b067469ee3552796", null ],
-    [ "UnitFieldDisplayPos", "de/d11/a08780.html#a1058d1650d656498f7dcd5139363a315", null ],
-    [ "UnitFieldFactionTemplatePos", "de/d11/a08780.html#a9b8eae9da685231956dca3e92b845cbb", null ],
-    [ "UnitFieldFlagsPos", "de/d11/a08780.html#a04e607123d1d1dde24611b573d25fedb", null ],
-    [ "UnitNPCFlagsPos", "de/d11/a08780.html#aa9412413e1a867d1f3857d18f4d52906", null ]
+    [ "SpellNonMeleeDamage", "de/d11/a08780.html#ad9d6b798f9ed159d847affc5c4b23715", null ],
+    [ "absorb", "de/d11/a08780.html#a485ee28c6a8cf32a22578e02633df75b", null ],
+    [ "attacker", "de/d11/a08780.html#a5248da0c1a8609479d681ae76a77d045", null ],
+    [ "blocked", "de/d11/a08780.html#af0cb3d2801e51d9236a6ff5185a43790", null ],
+    [ "cleanDamage", "de/d11/a08780.html#aa49cdb425fe9c8fb483dcc3c22ca6a72", null ],
+    [ "damage", "de/d11/a08780.html#a47e66924ae869ce34bdf36a5ed50548b", null ],
+    [ "HitInfo", "de/d11/a08780.html#a3f99854d163cd672f881f721d5bc8a39", null ],
+    [ "overkill", "de/d11/a08780.html#a0d578181e933091f3ea1c88ce68e857a", null ],
+    [ "physicalLog", "de/d11/a08780.html#a34318f4d92685c855972e6fd22089e03", null ],
+    [ "resist", "de/d11/a08780.html#ade20f4aab4a1945ccd6754cd71101fe2", null ],
+    [ "schoolMask", "de/d11/a08780.html#a52f5ae6091fe547ed7e282d52c626361", null ],
+    [ "spellInfo", "de/d11/a08780.html#a9e37c164672dbcc81dd43bee9ec988cb", null ],
+    [ "target", "de/d11/a08780.html#a324ea6c84e005487560de986dceffeba", null ],
+    [ "unused", "de/d11/a08780.html#ae991311d8290996e1c0c49f33c29c6b3", null ]
 ];

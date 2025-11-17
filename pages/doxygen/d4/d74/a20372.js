@@ -1,6 +1,6 @@
 var a20372 =
 [
-    [ "npc_ulduar_toasty_fireAI", "d4/d74/a20372.html#a145001c6f1c1d505f810ae545ec62c69", null ],
-    [ "DoAction", "d4/d74/a20372.html#a8ab71582cc5d8386f788fb95203fbab5", null ],
-    [ "SpellHit", "d4/d74/a20372.html#a0e4475382dfd754dc119d2e8dba61b7e", null ]
+    [ "npc_ulduar_hodir_druidAI", "d0/dbd/a20376.html", "d0/dbd/a20376" ],
+    [ "npc_ulduar_hodir_druid", "d4/d74/a20372.html#a07809d61d55756a847467043b0e90989", null ],
+    [ "GetAI", "d4/d74/a20372.html#a4b0503e20bf8caddf0ea544a88124263", null ]
 ];

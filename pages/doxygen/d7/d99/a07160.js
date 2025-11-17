@@ -1,6 +1,5 @@
 var a07160 =
 [
-    [ "AuctionSearchBidderListRequest", "d7/d99/a07160.html#a193c39468959c998a2ccae74342983d2", null ],
-    [ "outbiddedAuctionIds", "d7/d99/a07160.html#a6caf25d532b87d38b043cf3aa214f9cd", null ],
-    [ "ownerGuid", "d7/d99/a07160.html#a6fb69f4996993f264466c50e7485c4a6", null ]
+    [ "packet", "d7/d99/a07160.html#ad266cc5bd8e3637534055a7564047f87", null ],
+    [ "playerGuid", "d7/d99/a07160.html#a824393dda7676d4a5268d2d7d2e9d17b", null ]
 ];

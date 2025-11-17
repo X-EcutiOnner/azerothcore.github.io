@@ -1,7 +1,7 @@
 var a21832 =
 [
-    [ "HandleProc", "d4/db8/a21832.html#aeb5b70614b266bac0792906bf89a5b97", null ],
-    [ "PrepareAuraScript", "d4/db8/a21832.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
-    [ "Register", "d4/db8/a21832.html#a163e0099271f21362deeb1ba1f169f3f", null ],
-    [ "Validate", "d4/db8/a21832.html#abdb889e4c6d19f756c143d7b36f82257", null ]
+    [ "npc_warmage_violetstand", "d4/db8/a21832.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "d4/db8/a21832.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "d4/db8/a21832.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "d4/db8/a21832.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

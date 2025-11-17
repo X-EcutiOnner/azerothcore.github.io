@@ -1,10 +1,5 @@
 var a27200 =
 [
-    [ "CheckProc", "df/d7e/a27200.html#a68a559c46266fc7337f7d56bb66af542", null ],
-    [ "HandleProc", "df/d7e/a27200.html#a69cdd92cea54ec5bf11f6011578b2338", null ],
-    [ "Load", "df/d7e/a27200.html#ad571b0d2f47cff037030d7a8184f60fd", null ],
-    [ "PrepareAuraScript", "df/d7e/a27200.html#aa20e2911e60f3ae7a9dcceee8f96b6ef", null ],
-    [ "Register", "df/d7e/a27200.html#a8af18925b317c717fcd6b2fae14a16e4", null ],
-    [ "Validate", "df/d7e/a27200.html#ac0cf25901d70e37bb887b3baa38790b5", null ],
-    [ "_procTarget", "df/d7e/a27200.html#ad48f21d3a45e97857265e6047f253910", null ]
+    [ "achievement_resilient_victory", "df/d7e/a27200.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
+    [ "OnCheck", "df/d7e/a27200.html#a21445d406f67771a20608260b3f9b033", null ]
 ];

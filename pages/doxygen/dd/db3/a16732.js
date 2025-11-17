@@ -1,7 +1,7 @@
 var a16732 =
 [
-    [ "HandleEffectPeriodic", "dd/db3/a16732.html#ae5749a43f37f0eb3f049d8804845f61e", null ],
-    [ "PrepareAuraScript", "dd/db3/a16732.html#a66dcb98f38ed6b040928543015f59c9b", null ],
-    [ "Register", "dd/db3/a16732.html#abbebe9c5ad44db61e80ce3707e744ab6", null ],
-    [ "Validate", "dd/db3/a16732.html#a1131f0014f298b87483412d960bc0221", null ]
+    [ "FilterTargets", "dd/db3/a16732.html#a304da18e36ff67c34b80ab39583f8c96", null ],
+    [ "HandleScript", "dd/db3/a16732.html#adf99670bcf862288f513d2a26cbc256a", null ],
+    [ "PrepareSpellScript", "dd/db3/a16732.html#a976cb3c956d37fc9870494b0a6b8d9ee", null ],
+    [ "Register", "dd/db3/a16732.html#a4513de251b2f3d52fe44b7f7e715007c", null ]
 ];

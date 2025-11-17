@@ -1,5 +1,6 @@
 var a20572 =
 [
-    [ "achievement_kologarn_with_open_arms", "db/df5/a20572.html#a94af961be5bbdf7783925148731ce7e4", null ],
-    [ "OnCheck", "db/df5/a20572.html#a03c1fb5f141a15f8f63e28700b98f9b5", null ]
+    [ "npc_ulduar_leviathan_mkiiAI", "df/d2f/a20576.html", "df/d2f/a20576" ],
+    [ "npc_ulduar_leviathan_mkii", "db/df5/a20572.html#a9e4671adcb2409a7c83460d28d29f579", null ],
+    [ "GetAI", "db/df5/a20572.html#afe438e97b6989a8899850619c87cd7e6", null ]
 ];

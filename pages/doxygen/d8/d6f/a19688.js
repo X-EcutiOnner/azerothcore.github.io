@@ -1,9 +1,7 @@
 var a19688 =
 [
-    [ "npc_stormforged_lieutenant", "d8/d6f/a19688.html#aef5101b1f28ccec1fc60ccb2981623b9", null ],
-    [ "JustEngagedWith", "d8/d6f/a19688.html#a262ac995279b1a936534c858e21122a9", null ],
-    [ "Reset", "d8/d6f/a19688.html#abc359564370152b28a002a801ba1ab3d", null ],
-    [ "UpdateAI", "d8/d6f/a19688.html#a4c207f0ef172585b97695b63e119d1bc", null ],
-    [ "BjarngrimGUID", "d8/d6f/a19688.html#ad56f4d2a06f3a3e5fc4d813b9036e0aa", null ],
-    [ "events", "d8/d6f/a19688.html#ae721c276ba7413974d25449ef2c5f1a9", null ]
+    [ "OnRemove", "d8/d6f/a19688.html#adf6b3d56199ad5a4545ce3874d1223db", null ],
+    [ "PrepareAuraScript", "d8/d6f/a19688.html#a2d278e60b34870110dab188896109e24", null ],
+    [ "Register", "d8/d6f/a19688.html#ac15847527cc4d162b3b34b8ca8628864", null ],
+    [ "Validate", "d8/d6f/a19688.html#ac573e5bd171c97af1905b4a57a45e1f4", null ]
 ];

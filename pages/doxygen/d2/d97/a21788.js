@@ -1,6 +1,7 @@
 var a21788 =
 [
-    [ "npc_bloodmage_laurithAI", "d9/da9/a21792.html", "d9/da9/a21792" ],
-    [ "npc_bloodmage_laurith", "d2/d97/a21788.html#a40ab80342ddc86afca3b1bd37b1ca6b5", null ],
-    [ "GetAI", "d2/d97/a21788.html#a5a5151a56de3ad1012d9a795dbfb5bd5", null ]
+    [ "npc_thassarianAI", "d2/d97/a21788.html#a92e873dc3aa97f81919225ce75a5f894", null ],
+    [ "Reset", "d2/d97/a21788.html#a8611ef17700c739dbd5e7a70660f1379", null ],
+    [ "UpdateAI", "d2/d97/a21788.html#ad09a3a063d716bc43e23b5aad5e46a7b", null ],
+    [ "_events", "d2/d97/a21788.html#aaecb5a402e4ffca1e819303dbb94f5b5", null ]
 ];

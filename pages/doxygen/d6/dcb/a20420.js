@@ -1,6 +1,7 @@
 var a20420 =
 [
-    [ "FilterTargets", "d6/dcb/a20420.html#a4f77f654ef8bb589fbb81e8cb1ec6ce6", null ],
-    [ "PrepareSpellScript", "d6/dcb/a20420.html#a52c6b32ab01a68b258d4fe89730ec32b", null ],
-    [ "Register", "d6/dcb/a20420.html#a2e9ee7705a950d6a500ac472ff783b3a", null ]
+    [ "HandleEffectPeriodic", "d6/dcb/a20420.html#af6c50396e9b47cd909184aea80244728", null ],
+    [ "PrepareAuraScript", "d6/dcb/a20420.html#aeb41825334049c8e3a39b48cbf271477", null ],
+    [ "Register", "d6/dcb/a20420.html#aaa44ceb54aa928c4436120f435bcdc4b", null ],
+    [ "Validate", "d6/dcb/a20420.html#a0098e4949fc75b1a2464128f4df869aa", null ]
 ];

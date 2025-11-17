@@ -1,6 +1,12 @@
 var a22800 =
 [
-    [ "instance_auchenai_crypts_InstanceMapScript", "dc/d34/a22804.html", "dc/d34/a22804" ],
-    [ "instance_auchenai_crypts", "d9/d45/a22800.html#a8b16924167c54a9d8120bac67bc10fed", null ],
-    [ "GetInstanceScript", "d9/d45/a22800.html#a99e47df95fde07d4a6e7687634805b93", null ]
+    [ "boss_anzu", "d9/d45/a22800.html#aef8c5c57afa95936d8c2809fa1257799", null ],
+    [ "JustEngagedWith", "d9/d45/a22800.html#a2384a1ea128ad5a43d3b8fb36fe39aba", null ],
+    [ "Reset", "d9/d45/a22800.html#a61c75d6d96aa5cfb41e87faa74ec2fa5", null ],
+    [ "SummonBroods", "d9/d45/a22800.html#a7f3f8868a5648bdeccd03d08203e4cf1", null ],
+    [ "SummonedCreatureDies", "d9/d45/a22800.html#a2e35df609db069c8d31afffabcfead34", null ],
+    [ "SummonSpirits", "d9/d45/a22800.html#a23e03d1718fba49a3bd57609abb77c6a", null ],
+    [ "UpdateAI", "d9/d45/a22800.html#a06373460d454bfaf8db793e591cc0abd", null ],
+    [ "AnzuSpiritPos", "d9/d45/a22800.html#a64e42ce8856b9d10c7f24fefc0c1e0b2", null ],
+    [ "talkTimer", "d9/d45/a22800.html#a2afae53534d9e777c90d09456f834b5d", null ]
 ];

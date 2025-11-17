@@ -1,5 +1,6 @@
 var a27636 =
 [
-    [ "item_incendiary_explosives", "d7/da6/a27636.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
-    [ "OnUse", "d7/da6/a27636.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
+    [ "npc_innkeeper", "d7/da6/a27636.html#a006f27d898ead8827d8b98d8b93d430d", null ],
+    [ "OnGossipHello", "d7/da6/a27636.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
+    [ "OnGossipSelect", "d7/da6/a27636.html#ab6cf511f5b032050336a77d1e4598dda", null ]
 ];

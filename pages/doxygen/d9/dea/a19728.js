@@ -1,5 +1,7 @@
 var a19728 =
 [
-    [ "at_hol_hall_of_watchers", "d9/dea/a19728.html#aeb6a3edb75d3592b2e3df32fa61829d0", null ],
-    [ "_OnTrigger", "d9/dea/a19728.html#a45e1cd4bce8c22a8c3da9b162c0eef4c", null ]
+    [ "HandleScript", "d9/dea/a19728.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
+    [ "PrepareSpellScript", "d9/dea/a19728.html#a34337690029eedb60a17572dbbf1e1f9", null ],
+    [ "Register", "d9/dea/a19728.html#ad554d79e1a98490085b22f5038d058da", null ],
+    [ "Validate", "d9/dea/a19728.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
 ];

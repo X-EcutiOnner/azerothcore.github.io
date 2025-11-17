@@ -1,6 +1,6 @@
 var a27520 =
 [
-    [ "go_gilded_brazierAI", "df/d35/a27524.html", "df/d35/a27524" ],
-    [ "go_gilded_brazier", "d4/d2f/a27520.html#a778c753a8432131601371da8849ef004", null ],
-    [ "GetAI", "d4/d2f/a27520.html#a2c8ced3e29c05c9d55745c4f10c9202d", null ]
+    [ "go_fel_crystalforge", "d4/d2f/a27520.html#aa44708a617edd51651da49918ab776e5", null ],
+    [ "OnGossipHello", "d4/d2f/a27520.html#aae9f4beff251efb7b29e1988ddd51eaf", null ],
+    [ "OnGossipSelect", "d4/d2f/a27520.html#a97450cce5f547e28ea84fa6a6f8ab79e", null ]
 ];

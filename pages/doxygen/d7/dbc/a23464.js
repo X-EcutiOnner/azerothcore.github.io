@@ -1,6 +1,6 @@
 var a23464 =
 [
-    [ "HandlePeriodic", "d7/dbc/a23464.html#a25c698e911ec02d9cd7f757ba87281df", null ],
-    [ "PrepareAuraScript", "d7/dbc/a23464.html#a7bf79bc5e5f509b52965f03e998db399", null ],
-    [ "Register", "d7/dbc/a23464.html#ab3eec9f591384c7c1c684651c38aa614", null ]
+    [ "HandleScript", "d7/dbc/a23464.html#ad81007cd08ee18bfc7cda4221cbc8482", null ],
+    [ "PrepareSpellScript", "d7/dbc/a23464.html#a60f0bb4882d3f75f0839cd0d8ab2707d", null ],
+    [ "Register", "d7/dbc/a23464.html#ac06f4246c5cecc4875bc93811eaeb839", null ]
 ];

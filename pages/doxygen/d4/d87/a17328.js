@@ -1,5 +1,6 @@
 var a17328 =
 [
-    [ "at_tyrannus_event_starter", "d4/d87/a17328.html#a1aef2522c20dd242e749d93a6bee66d8", null ],
-    [ "OnTrigger", "d4/d87/a17328.html#a8dcfce4cd24dbc45df987b4a9bfcbbc0", null ]
+    [ "entry", "d4/d87/a17328.html#af2cf5df64adf9ac1575a8217b103e738", null ],
+    [ "x", "d4/d87/a17328.html#aad21475d521921ea30cc0ae5d260ce69", null ],
+    [ "y", "d4/d87/a17328.html#abd69e1c28ad36466c82807ea0ffb0fb7", null ]
 ];

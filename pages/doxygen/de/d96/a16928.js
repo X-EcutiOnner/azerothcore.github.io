@@ -1,6 +1,7 @@
 var a16928 =
 [
-    [ "instance_drak_tharon_keep_InstanceScript", "d3/d11/a16932.html", "d3/d11/a16932" ],
-    [ "instance_drak_tharon_keep", "de/d96/a16928.html#a1f375185dba1619fee36160549eb91f4", null ],
-    [ "GetInstanceScript", "de/d96/a16928.html#aca6364452dc39e747af152695d479bf8", null ]
+    [ "HandleScriptEffect", "de/d96/a16928.html#a667e50b01f431dba025f692484f6e7ba", null ],
+    [ "PrepareSpellScript", "de/d96/a16928.html#a9a5ffd28102a519c06f3715d7f2b1039", null ],
+    [ "Register", "de/d96/a16928.html#a7ffa6eb498e9ec06d5cb4f81cff44389", null ],
+    [ "Validate", "de/d96/a16928.html#a0ab270193a95f9043afd40c9ffd2a46b", null ]
 ];

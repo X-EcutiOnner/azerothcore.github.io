@@ -1,5 +1,6 @@
 var a23408 =
 [
-    [ "go_strange_pool", "dc/db0/a23408.html#aa44feb353ad1cb440e5b6707112af680", null ],
-    [ "OnGossipHello", "dc/db0/a23408.html#a5a2ee56e277b062e6b4757cb8b8b09a0", null ]
+    [ "HandleEffectRemove", "dc/db0/a23408.html#ab4c215a735ead9959fd78972a6da72e4", null ],
+    [ "PrepareAuraScript", "dc/db0/a23408.html#a75be2f838d6773b619dfac80e32557b8", null ],
+    [ "Register", "dc/db0/a23408.html#a239068b4e4ad88b5be93a031043ad7ca", null ]
 ];

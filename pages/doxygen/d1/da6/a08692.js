@@ -1,18 +1,14 @@
 var a08692 =
 [
-    [ "PlayerSocialMap", "d1/da6/a08692.html#abfb2167fc86ea41b8cf66eebdaa95ceb", null ],
-    [ "PlayerSocial", "d1/da6/a08692.html#ad505f01fad548b70cf070a86dce40278", null ],
-    [ "_checkContact", "d1/da6/a08692.html#a1c94f00cd1955a8c93dea5d4e67f166a", null ],
-    [ "AddToSocialList", "d1/da6/a08692.html#af7bf3dd0cddc41715d5122829aa5f281", null ],
-    [ "GetNumberOfSocialsWithFlag", "d1/da6/a08692.html#ad4b6d7563aa448307c71fd01d0b748c3", null ],
-    [ "GetPlayerGUID", "d1/da6/a08692.html#a253736ece6f1b1ec6617929ca92d2e77", null ],
-    [ "HasFriend", "d1/da6/a08692.html#a8c5e3e13b6e912de5048c6a1d6e4003a", null ],
-    [ "HasIgnore", "d1/da6/a08692.html#afdda7de77a9c5b48730b9b7fca36b080", null ],
-    [ "RemoveFromSocialList", "d1/da6/a08692.html#a422b92edba3d2b3a7eaa5749dbceea4f", null ],
-    [ "SendSocialList", "d1/da6/a08692.html#aa31ca078f363c5d5f6cfabcc4126fa9b", null ],
-    [ "SetFriendNote", "d1/da6/a08692.html#ace28c99a43b6c9645550d0c30f8184df", null ],
-    [ "SetPlayerGUID", "d1/da6/a08692.html#a1206fafb9f3ea29ee954e4f7684e0051", null ],
-    [ "SocialMgr", "d1/da6/a08692.html#ac90a13e772eca1f96d98f76cfc8bf396", null ],
-    [ "m_playerGUID", "d1/da6/a08692.html#accf6a40286cca75dd9d5eed8cc3c6790", null ],
-    [ "m_playerSocialMap", "d1/da6/a08692.html#a608444605a276e67a868b7ceac94a954", null ]
+    [ "SocialMap", "d1/da6/a08692.html#a2b80fa18a6f1ed54fda7719867f45ebd", null ],
+    [ "SocialMgr", "d1/da6/a08692.html#a3cff8262ce10d2e8c8c38dc834230545", null ],
+    [ "~SocialMgr", "d1/da6/a08692.html#aef859e6c923a6ba4bb7ac0049f17463d", null ],
+    [ "BroadcastToFriendListers", "d1/da6/a08692.html#a55b35ea17ebfea4ff31710186b87865f", null ],
+    [ "GetFriendInfo", "d1/da6/a08692.html#a7d0c4638b6fde1bf614d90492160ee55", null ],
+    [ "instance", "d1/da6/a08692.html#a223f3d7811d8c360da7f467b70af808f", null ],
+    [ "LoadFromDB", "d1/da6/a08692.html#aab17f5c27494cfdf2b1c5d5038f446a0", null ],
+    [ "MakeFriendStatusPacket", "d1/da6/a08692.html#af30fe2f3223dc7ad9094e44393420d3a", null ],
+    [ "RemovePlayerSocial", "d1/da6/a08692.html#af537c83cc3d481dde68d0a60aa122289", null ],
+    [ "SendFriendStatus", "d1/da6/a08692.html#acf245ca689bd5c0efe4a791b9e0e3c5f", null ],
+    [ "m_socialMap", "d1/da6/a08692.html#a2f8a276598ad01d350aa245fcef82a7a", null ]
 ];

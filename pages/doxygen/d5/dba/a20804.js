@@ -1,6 +1,8 @@
 var a20804 =
 [
-    [ "boss_thorim_sif_blizzardAI", "de/da0/a20808.html", "de/da0/a20808" ],
-    [ "boss_thorim_sif_blizzard", "d5/dba/a20804.html#acc42b4c9434f9eece2d93c2e4f3697fc", null ],
-    [ "GetAI", "d5/dba/a20804.html#afbff96363951c952a195f5c2a105e279", null ]
+    [ "boss_thorim_pillarAI", "d5/dba/a20804.html#ae00c9e72f14e3f2c94da118a1fe27130", null ],
+    [ "Reset", "d5/dba/a20804.html#ae9043ed9b72cc0eda6fb7c859355da57", null ],
+    [ "SpellHit", "d5/dba/a20804.html#a1cb3ef9fdfc9e375d15e14b9230dd51e", null ],
+    [ "UpdateAI", "d5/dba/a20804.html#afd8e05444eeea620a7ef21e97c345d41", null ],
+    [ "_resetTimer", "d5/dba/a20804.html#a6ef7c9e23280564aec1b82eb670bc4f9", null ]
 ];

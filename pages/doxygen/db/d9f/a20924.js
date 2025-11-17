@@ -1,6 +1,6 @@
 var a20924 =
 [
-    [ "npc_xt002_life_sparkAI", "dd/d10/a20928.html", "dd/d10/a20928" ],
-    [ "npc_xt002_life_spark", "db/d9f/a20924.html#a9644718d192708e391b833468a0ff21e", null ],
-    [ "GetAI", "db/d9f/a20924.html#a09a1ce332d55fad146947c94bb53f564", null ]
+    [ "PrepareSpellScript", "db/d9f/a20924.html#a525025d429743f9d606289ca1a660796", null ],
+    [ "Register", "db/d9f/a20924.html#a66f565c07d495f27aaba393fdcce9d24", null ],
+    [ "SelectTarget", "db/d9f/a20924.html#a1c55fabe15cdccb073e109e1d0f6e6ad", null ]
 ];

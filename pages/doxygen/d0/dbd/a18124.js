@@ -1,6 +1,6 @@
 var a18124 =
 [
-    [ "OnRemove", "d0/dbd/a18124.html#a5b9f23b815b1c85ecf2e56c626ce5077", null ],
-    [ "PrepareAuraScript", "d0/dbd/a18124.html#a9207d9f59026e1beb7c266ee3a1ef884", null ],
-    [ "Register", "d0/dbd/a18124.html#ad9eb03a09fc13f6b2b30e9f6cc1990bc", null ]
+    [ "ExtraEffect", "d0/dbd/a18124.html#a10dfb36a835589208482e1c8833d8f46", null ],
+    [ "PrepareSpellScript", "d0/dbd/a18124.html#a972ff2bdc7d3660820e05326600be6f6", null ],
+    [ "Register", "d0/dbd/a18124.html#ae337e67a220b72b44878d02be33e3888", null ]
 ];

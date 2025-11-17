@@ -1,6 +1,6 @@
 var a14540 =
 [
-    [ "npc_grizzlemaw_cw_triggerAI", "db/d30/a14544.html", "db/d30/a14544" ],
-    [ "npc_grizzlemaw_cw_trigger", "de/dc9/a14540.html#a4514796784d974ba6de09b5a5d4e5f3b", null ],
-    [ "GetAI", "de/dc9/a14540.html#a1a834bda866033a3cca4fc4ece447313", null ]
+    [ "HandleScript", "de/dc9/a14540.html#aa60824ed67ae87e96117fc5bf90bec8c", null ],
+    [ "PrepareSpellScript", "de/dc9/a14540.html#aab4303fff660c68db100e07a4423c39b", null ],
+    [ "Register", "de/dc9/a14540.html#a0fbc130652e58d9418cb3c5036b6aed2", null ]
 ];

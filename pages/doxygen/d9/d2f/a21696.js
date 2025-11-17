@@ -1,6 +1,9 @@
 var a21696 =
 [
-    [ "npc_nerubar_victimAI", "d7/df8/a21700.html", "d7/df8/a21700" ],
-    [ "npc_nerubar_victim", "d9/d2f/a21696.html#a4fe80597d3e56776f0f04965fc706097", null ],
-    [ "GetAI", "d9/d2f/a21696.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
+    [ "npc_lurgglbrAI", "d9/d2f/a21696.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "d9/d2f/a21696.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "d9/d2f/a21696.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "d9/d2f/a21696.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "IntroPhase", "d9/d2f/a21696.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "d9/d2f/a21696.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

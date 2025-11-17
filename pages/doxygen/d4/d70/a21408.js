@@ -1,7 +1,7 @@
 var a21408 =
 [
-    [ "HandleScript", "d4/d70/a21408.html#a47b991c20c523d151893fefd9d487714", null ],
-    [ "PrepareSpellScript", "d4/d70/a21408.html#ab2db47d0a2694c0734db600e810e190d", null ],
-    [ "Register", "d4/d70/a21408.html#a3c2e7eb24506b43730f2e971fab81c75", null ],
-    [ "Validate", "d4/d70/a21408.html#a89d601f6036fe38238767281f3427e54", null ]
+    [ "HandlePeriodicDummy", "d4/d70/a21408.html#a295f37cddccc696d450a0c4380d43c29", null ],
+    [ "PrepareAuraScript", "d4/d70/a21408.html#a9453aa189ba53de3d89bbab183927cfc", null ],
+    [ "Register", "d4/d70/a21408.html#a1ca87e8523c020a9e4e0970c68957c14", null ],
+    [ "Validate", "d4/d70/a21408.html#a475480c072aaccde7b00cf28aedff3ec", null ]
 ];

@@ -1,6 +1,14 @@
 var a16208 =
 [
-    [ "boss_baltharus_the_warbornAI", "df/d14/a16212.html", "df/d14/a16212" ],
-    [ "boss_baltharus_the_warborn", "dd/da8/a16208.html#aababb8862273d60f140dce675131783d", null ],
-    [ "GetAI", "dd/da8/a16208.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
+    [ "boss_baltharus_the_warbornAI", "dd/da8/a16208.html#adaf6cb6ab81a461b202d40900b4b744c", null ],
+    [ "DoAction", "dd/da8/a16208.html#ab22f46e2514c10ce0e8141b3f69f069d", null ],
+    [ "InitializeAI", "dd/da8/a16208.html#ac188db2a727e2fb3c411f8616f8a2f41", null ],
+    [ "JustDied", "dd/da8/a16208.html#aaeb3e9b1bd25464cec4a1b0adf88afbe", null ],
+    [ "JustEngagedWith", "dd/da8/a16208.html#a4b670f4d89f9ed9ffeebf9d9426d79dc", null ],
+    [ "JustReachedHome", "dd/da8/a16208.html#ab178ccb3ee8bfa2649f03bfc18f1e424", null ],
+    [ "JustSummoned", "dd/da8/a16208.html#a7947c96290ea2cbe1b7ed6b6a8db65fe", null ],
+    [ "KilledUnit", "dd/da8/a16208.html#adb1a9e2af865292215c02cc1fb959cd3", null ],
+    [ "Reset", "dd/da8/a16208.html#a68e503ddac7be2f4e08d68e64aa2e725", null ],
+    [ "UpdateAI", "dd/da8/a16208.html#abe2e7188e33e70d52ab1985f821fa9c5", null ],
+    [ "_introDone", "dd/da8/a16208.html#a463209610cbc8e34d9839abeaf6df0e6", null ]
 ];

@@ -1,10 +1,8 @@
 var a24744 =
 [
-    [ "CheckProc", "d7/de7/a24744.html#a7bab1f02db05ce2c7b52ad9a2f5f6f02", null ],
-    [ "HandleProc", "d7/de7/a24744.html#ac90b54e946baa80589cab2f66aca1f5f", null ],
-    [ "Load", "d7/de7/a24744.html#ada85014de8a3602e83912d5e1a0165c5", null ],
-    [ "PrepareAuraScript", "d7/de7/a24744.html#a769f2b77b2972c40e3e43e70d2ff5820", null ],
-    [ "Register", "d7/de7/a24744.html#ab8a35292c0d4d392d9dd9db438d59cc4", null ],
-    [ "Validate", "d7/de7/a24744.html#aba8bd9ae5ec9e92eccb04163114c4802", null ],
-    [ "_procTarget", "d7/de7/a24744.html#a0c3ba33c7117195dac4c1df3a6e8529a", null ]
+    [ "HandleDamage", "d7/de7/a24744.html#a2c5149eb0b6698240c25b63e71af0854", null ],
+    [ "PrepareSpellScript", "d7/de7/a24744.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
+    [ "Register", "d7/de7/a24744.html#ad29179d9159700b52b0c21a779cd060b", null ],
+    [ "Suicide", "d7/de7/a24744.html#a981f8547eae9b317111bf9a7016510ab", null ],
+    [ "Validate", "d7/de7/a24744.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
 ];

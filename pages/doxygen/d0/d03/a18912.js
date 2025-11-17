@@ -1,7 +1,5 @@
 var a18912 =
 [
-    [ "HandleScript", "d0/d03/a18912.html#a87a2b32a9a20f032157df5ddb2cd9979", null ],
-    [ "PrepareSpellScript", "d0/d03/a18912.html#a9aca3a2a981a0cb61569200d77ca527a", null ],
-    [ "Register", "d0/d03/a18912.html#afb0289c9906d0383a22dfd0e848573f8", null ],
-    [ "Validate", "d0/d03/a18912.html#a69344370af56f033e1c1ba16f4dee174", null ]
+    [ "at_icc_shutdown_traps", "d0/d03/a18912.html#aa13f5d78d3032e8114e9978f42468f64", null ],
+    [ "OnTrigger", "d0/d03/a18912.html#abb31b3f6d0b159b625d731ac47127005", null ]
 ];

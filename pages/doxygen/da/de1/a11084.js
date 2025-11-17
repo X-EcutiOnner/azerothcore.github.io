@@ -1,5 +1,7 @@
 var a11084 =
 [
-    [ "TimeQuery", "da/de1/a11084.html#a90c467ab19d96b96ace5b50bad617095", null ],
-    [ "Read", "da/de1/a11084.html#aae26e83828fc6118dea64f8861170868", null ]
+    [ "TimeQueryResponse", "da/de1/a11084.html#abefcc15670a85ae023d24bfa5dc26a11", null ],
+    [ "Write", "da/de1/a11084.html#a5fbfca11889684a0ab6b437eb30527cc", null ],
+    [ "ServerTime", "da/de1/a11084.html#a9dfc03a60bb8a1f20eb850e3f8a00b88", null ],
+    [ "TimeResponse", "da/de1/a11084.html#a4f528e5c08dc67a2c6f7826b21a771ed", null ]
 ];

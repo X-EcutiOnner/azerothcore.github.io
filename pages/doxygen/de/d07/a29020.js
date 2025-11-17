@@ -1,9 +1,12 @@
 var a29020 =
 [
-    [ "MapTiles", "de/d07/a29020.html#abc58d7154eab45ae26df27e2e82dac63", null ],
-    [ "MapTiles", "de/d07/a29020.html#a406efc53593b5bceb0a491c0b7553350", null ],
-    [ "~MapTiles", "de/d07/a29020.html#aec1baac21c06380ba71ff5e610152519", null ],
-    [ "operator==", "de/d07/a29020.html#a3e7a87f421e8eb23926afe1d0978c3b4", null ],
-    [ "m_mapId", "de/d07/a29020.html#a2fc10edf226a6f4548c2175e1013c1b9", null ],
-    [ "m_tiles", "de/d07/a29020.html#ab80305bb73234e35a528701d775954b5", null ]
+    [ "Bounds", "de/d07/a29020.html#a1e982b341ac3859fad38b2efc81ab8ea", null ],
+    [ "DoodadSet", "de/d07/a29020.html#abbf6e50e76b120be17215cfcf227a524", null ],
+    [ "Flags", "de/d07/a29020.html#a06f5e96119239356eea45b9acdadf6e1", null ],
+    [ "Id", "de/d07/a29020.html#a952442c180e8d3710af31272b54eb6ec", null ],
+    [ "NameSet", "de/d07/a29020.html#a55df9aed38d8cf1503b21f5fd9d5e5d0", null ],
+    [ "Position", "de/d07/a29020.html#a7e6463db89eaf53bc20832afb1842a5b", null ],
+    [ "Rotation", "de/d07/a29020.html#a2c04715e800b9f375c287cced96643d1", null ],
+    [ "Scale", "de/d07/a29020.html#a142716fecae07abc013c7f3bd053c0ea", null ],
+    [ "UniqueId", "de/d07/a29020.html#a749e920740b9e91547fe1f87933d1c7d", null ]
 ];

@@ -1,6 +1,8 @@
 var a25120 =
 [
-    [ "CheckProc", "d1/d05/a25120.html#a21cda631d861161c370a44a2fd2fd2f7", null ],
-    [ "PrepareAuraScript", "d1/d05/a25120.html#a861caa47c502c42fa84d9f9de74df024", null ],
-    [ "Register", "d1/d05/a25120.html#ab4275de186b6841a1f424863cb6c128c", null ]
+    [ "HandleEffectCalcPeriodic", "d1/d05/a25120.html#a78c46695cab8da2280686ea49d88f036", null ],
+    [ "HandleEffectPeriodic", "d1/d05/a25120.html#a65b8a9dcd836cb538d5d2bec3d03d4a2", null ],
+    [ "HandleOnEffectRemove", "d1/d05/a25120.html#af722cf30e478802784178a9346bd1bdd", null ],
+    [ "PrepareAuraScript", "d1/d05/a25120.html#a6352d1ab3dd67efd9be171f7db20a62d", null ],
+    [ "Register", "d1/d05/a25120.html#ae6c2b365463345c71ed1a4acdee04a15", null ]
 ];

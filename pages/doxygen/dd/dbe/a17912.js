@@ -1,5 +1,6 @@
 var a17912 =
 [
-    [ "achievement_im_on_a_boat", "dd/dbe/a17912.html#aa25d330534aab023ec798e86976a6d50", null ],
-    [ "OnCheck", "dd/dbe/a17912.html#ab4fffc061b9ff77563e7e0a5a796be1e", null ]
+    [ "boss_lady_deathwhisperAI", "d0/d5b/a17916.html", "d0/d5b/a17916" ],
+    [ "boss_lady_deathwhisper", "dd/dbe/a17912.html#a979411cb834611b1239f3bf9058d316d", null ],
+    [ "GetAI", "dd/dbe/a17912.html#ac0b86fee1e2e9dbf794ed1b53aab11d2", null ]
 ];

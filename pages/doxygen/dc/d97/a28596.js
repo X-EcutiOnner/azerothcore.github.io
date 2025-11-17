@@ -1,13 +1,7 @@
 var a28596 =
 [
-    [ "AcquireMethod", "dc/d97/a28596.html#a31a8f5d642b2826b58bc7dfaf5f26719", null ],
-    [ "ClassMask", "dc/d97/a28596.html#a868a7a346c1da7fa74ed36f0bfb59e3e", null ],
-    [ "ID", "dc/d97/a28596.html#a95cab9102e1dd6c4f449aba2ecf14372", null ],
-    [ "MinSkillLineRank", "dc/d97/a28596.html#a2a6c4b50a288ea023099fb49aaca37e4", null ],
-    [ "RaceMask", "dc/d97/a28596.html#acfd38780584b90ca40a1e1cd59605832", null ],
-    [ "SkillLine", "dc/d97/a28596.html#a0050dcf5c82f785dfc93079debe54a13", null ],
-    [ "Spell", "dc/d97/a28596.html#a19e1a55dadce68e6e9c1bd7bb2ca51dd", null ],
-    [ "SupercededBySpell", "dc/d97/a28596.html#a0eabe8b18fa4bf67eaaaa56f2264ad5d", null ],
-    [ "TrivialSkillLineRankHigh", "dc/d97/a28596.html#aa8f0c15da1d4d14853bd42e7e20bc963", null ],
-    [ "TrivialSkillLineRankLow", "dc/d97/a28596.html#aca5e15003099e1fdbd2eaa701b96f162", null ]
+    [ "ID", "dc/d97/a28596.html#aa5db020808990dc98fc143e4a5e0d2b2", null ],
+    [ "RadiusMax", "dc/d97/a28596.html#ab82c1acb9309b17104958182d80b01d1", null ],
+    [ "RadiusMin", "dc/d97/a28596.html#acaee7da373b94a262e01d4bd3bea4f08", null ],
+    [ "RadiusPerLevel", "dc/d97/a28596.html#a74bb59afb808af45ceff6367468fca1e", null ]
 ];

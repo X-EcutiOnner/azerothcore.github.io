@@ -1,6 +1,6 @@
 var a25208 =
 [
-    [ "HandleScript", "d4/de9/a25208.html#a913c8c461f291ccaad2f48614c0146c6", null ],
-    [ "PrepareSpellScript", "d4/de9/a25208.html#a18913a7455cf3f158136f2d3bb415779", null ],
-    [ "Register", "d4/de9/a25208.html#ac24208b646e95d87fbb340d7779cb7c5", null ]
+    [ "PrepareSpellScript", "d4/de9/a25208.html#a47d6dbe250410458fe54421158545efb", null ],
+    [ "Register", "d4/de9/a25208.html#ae2334b3fcfa916eb4b9ae1ca85a9687e", null ],
+    [ "SetDest", "d4/de9/a25208.html#aa037240eae1a1dd2c2670fed7dcc4e8c", null ]
 ];

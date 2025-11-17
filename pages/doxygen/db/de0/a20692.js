@@ -1,5 +1,6 @@
 var a20692 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_11", "db/de0/a20692.html#a5d8980111e029b4c9311737f3985ab61", null ],
-    [ "OnCheck", "db/de0/a20692.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
+    [ "boss_razorscaleAI", "d5/d29/a20696.html", "d5/d29/a20696" ],
+    [ "boss_razorscale", "db/de0/a20692.html#ad8fe81f1b553414df3fa07c646029065", null ],
+    [ "GetAI", "db/de0/a20692.html#a01cf25d901a5eddae9ef3ea291020ba1", null ]
 ];

@@ -1,6 +1,8 @@
 var a26860 =
 [
-    [ "HandleAfterCast", "dc/d7c/a26860.html#a6f21938e84e45848fad74a16f1f52c48", null ],
-    [ "PrepareSpellScript", "dc/d7c/a26860.html#ac7abeee05c117595696faf1ec55e11bd", null ],
-    [ "Register", "dc/d7c/a26860.html#a9e90a6fa037627ac682f4ea050f557de", null ]
+    [ "ApplyDebuff", "dc/d7c/a26860.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
+    [ "PrepareSpellScript", "dc/d7c/a26860.html#aa37525d089348f58e3d871830caa3417", null ],
+    [ "Register", "dc/d7c/a26860.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
+    [ "RemoveInvalidTargets", "dc/d7c/a26860.html#a0451b75aa962065a01a5806992e01b16", null ],
+    [ "Validate", "dc/d7c/a26860.html#ac69d777fdf7a2d3c527621dee256690c", null ]
 ];

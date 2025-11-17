@@ -1,6 +1,10 @@
 var a28892 =
 [
-    [ "OffsetAttributes", "d6/d96/a28892.html#a072918c298b316823e784c2e5779be2a", null ],
-    [ "OffsetInstances", "d6/d96/a28892.html#abb618c81b9ee9de03c3d4cf8689f5cd4", null ],
-    [ "used", "d6/d96/a28892.html#a20a458e613639ea26255dd772824a642", null ]
+    [ "Exception", "d6/d96/a28892.html#a414c3d1a58dc27f84f70db7372c71394", null ],
+    [ "~Exception", "d6/d96/a28892.html#a1af5fa940a44522664bf8032b0ec164a", null ],
+    [ "Exception", "d6/d96/a28892.html#a414c3d1a58dc27f84f70db7372c71394", null ],
+    [ "~Exception", "d6/d96/a28892.html#a1af5fa940a44522664bf8032b0ec164a", null ],
+    [ "getMessage", "d6/d96/a28892.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
+    [ "getMessage", "d6/d96/a28892.html#af9bfdfbfe28783d5ad6f7b08cb845c75", null ],
+    [ "message", "d6/d96/a28892.html#aeb732542a0ba63cde3d9b3bff93f4eda", null ]
 ];

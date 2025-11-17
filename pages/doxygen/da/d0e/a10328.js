@@ -1,6 +1,15 @@
 var a10328 =
 [
-    [ "ConditionScript", "da/d0e/a10328.html#a546130ee7ed33c7763115cb0d1506a1b", null ],
-    [ "IsDatabaseBound", "da/d0e/a10328.html#ac4f8325e3fa1e11437056818a0267342", null ],
-    [ "OnConditionCheck", "da/d0e/a10328.html#a2d8a4e71f20c290428c3a86cedfcaab7", null ]
+    [ "CreatureScript", "da/d0e/a10328.html#afa0053e299f9125cc288ea38652edecb", null ],
+    [ "GetAI", "da/d0e/a10328.html#a24ba3529655943afdf6598450d14e6c2", null ],
+    [ "GetDialogStatus", "da/d0e/a10328.html#a41562245c4a44843363d6b0ce32ce48d", null ],
+    [ "IsDatabaseBound", "da/d0e/a10328.html#af19c64d23391f8b835f79bc6cf315caa", null ],
+    [ "OnFfaPvpStateUpdate", "da/d0e/a10328.html#a316efb5c026588eb4bce8a0ce6b5cc0f", null ],
+    [ "OnGossipHello", "da/d0e/a10328.html#a6268b132444845302ada504f48629a4f", null ],
+    [ "OnGossipSelect", "da/d0e/a10328.html#a30f160576b4cb97d940ecf3468834667", null ],
+    [ "OnGossipSelectCode", "da/d0e/a10328.html#ad99f4a96106b9dc5cf9c29304d781d6a", null ],
+    [ "OnQuestAccept", "da/d0e/a10328.html#a6b106a237886f49e523ae7b07e9c5979", null ],
+    [ "OnQuestComplete", "da/d0e/a10328.html#a4d39c9b2edbbbc2ae08b5cdcc95b4d7b", null ],
+    [ "OnQuestReward", "da/d0e/a10328.html#aba2be0f342cb9811bd0ebee954d7d36e", null ],
+    [ "OnQuestSelect", "da/d0e/a10328.html#a1e054fb61dd560aa7718d59127ad4b51", null ]
 ];

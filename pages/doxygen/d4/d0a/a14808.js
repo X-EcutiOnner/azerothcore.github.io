@@ -1,6 +1,9 @@
 var a14808 =
 [
-    [ "FilterTargets", "d4/d0a/a14808.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
-    [ "PrepareSpellScript", "d4/d0a/a14808.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
-    [ "Register", "d4/d0a/a14808.html#a6375482bd9d1fc6c6941607273c506dc", null ]
+    [ "npc_ancient_wisp", "d4/d0a/a14808.html#a70e45e500b3490a034b058ca2ec16d39", null ],
+    [ "DamageTaken", "d4/d0a/a14808.html#ad7d96e6b54cdc23a5101338474125e71", null ],
+    [ "JustEngagedWith", "d4/d0a/a14808.html#a755ed852b3149ada65c5750410776fc8", null ],
+    [ "Reset", "d4/d0a/a14808.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
+    [ "UpdateAI", "d4/d0a/a14808.html#a51ca214de826d7126f32e49f6852bca3", null ],
+    [ "_instance", "d4/d0a/a14808.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
 ];

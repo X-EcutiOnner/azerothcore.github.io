@@ -1,6 +1,6 @@
 var a26516 =
 [
-    [ "HandleScriptEffect", "df/d41/a26516.html#a8b60ae77f13045a582548fe5d1186d54", null ],
-    [ "PrepareSpellScript", "df/d41/a26516.html#ad68619783c4a1aad5a24826bf5d89858", null ],
-    [ "Register", "df/d41/a26516.html#a929c49d6dd30b6a0dedfbc23c877eb36", null ]
+    [ "HandleScriptEffect", "df/d41/a26516.html#a7dc7cb2dcdd6518a253a459e2e711c89", null ],
+    [ "PrepareSpellScript", "df/d41/a26516.html#a9c41ae2e7ef1947c11c16d8abb48ec56", null ],
+    [ "Register", "df/d41/a26516.html#a5b2a218cca68177209ca42be9dfbc8ea", null ]
 ];

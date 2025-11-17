@@ -1,6 +1,9 @@
 var a27380 =
 [
-    [ "boss_emerissAI", "d5/db6/a27384.html", "d5/db6/a27384" ],
-    [ "boss_emeriss", "d2/d58/a27380.html#a2d373e5add3f007cf214ad9763039aa2", null ],
-    [ "GetAI", "d2/d58/a27380.html#a88a0696a12f12e612cce53c14f6b1f92", null ]
+    [ "ChatLogScript", "d2/d58/a27380.html#ade8c407083cf094f0767412e7b6d7730", null ],
+    [ "OnPlayerCanUseChat", "d2/d58/a27380.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
+    [ "OnPlayerCanUseChat", "d2/d58/a27380.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
+    [ "OnPlayerCanUseChat", "d2/d58/a27380.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
+    [ "OnPlayerCanUseChat", "d2/d58/a27380.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
+    [ "OnPlayerCanUseChat", "d2/d58/a27380.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
 ];

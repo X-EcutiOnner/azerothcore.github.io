@@ -1,6 +1,6 @@
 var a25392 =
 [
-    [ "HandleScript", "db/de9/a25392.html#a1055ce8e5cbcc9d475bd9dab1f99cf92", null ],
-    [ "PrepareSpellScript", "db/de9/a25392.html#a460823e5ad006c08d5b6378b7df279f0", null ],
-    [ "Register", "db/de9/a25392.html#a7099938c5f14238b5afdadb6d040f931", null ]
+    [ "PrepareSpellScript", "db/de9/a25392.html#abb178100d4e5fa4032118f86aa34127d", null ],
+    [ "Register", "db/de9/a25392.html#a50e902cc281b909259097a8bed5651f2", null ],
+    [ "RemoveVehicleAuras", "db/de9/a25392.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
 ];

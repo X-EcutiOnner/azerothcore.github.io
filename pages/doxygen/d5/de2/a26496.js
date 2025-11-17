@@ -1,6 +1,8 @@
 var a26496 =
 [
-    [ "CheckCast", "d5/de2/a26496.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
-    [ "PrepareSpellScript", "d5/de2/a26496.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
-    [ "Register", "d5/de2/a26496.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
+    [ "HandleDummy", "d5/de2/a26496.html#ae396c96647e36da357bdc70e11e3145f", null ],
+    [ "Load", "d5/de2/a26496.html#a2b4811bf7e60361e13bc382e62173cee", null ],
+    [ "PrepareSpellScript", "d5/de2/a26496.html#ac97d07fb0d964bf3fb29d8bee57fc8e7", null ],
+    [ "Register", "d5/de2/a26496.html#a7c6aa891b012a0e1820fbe67976d68fd", null ],
+    [ "count", "d5/de2/a26496.html#a73358b2272ad12faef006b1ef633cac0", null ]
 ];

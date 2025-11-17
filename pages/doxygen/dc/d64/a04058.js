@@ -1,6 +1,6 @@
 var a04058 =
 [
-    [ "LoginDatabaseConnection", "de/dc9/a05784.html", "de/dc9/a05784" ],
+    [ "LoginDatabaseConnection", "d6/d3b/a05780.html", "d6/d3b/a05780" ],
     [ "LoginDatabaseStatements", "dc/d64/a04058.html#a2bc6eef17d8ecd1b7027058f5fecc9fb", [
       [ "LOGIN_SEL_REALMLIST", "dc/d64/a04058.html#a2bc6eef17d8ecd1b7027058f5fecc9fba60f76dbe533e0e45479c1da3cf119ec9", null ],
       [ "LOGIN_DEL_EXPIRED_IP_BANS", "dc/d64/a04058.html#a2bc6eef17d8ecd1b7027058f5fecc9fba391d5d5679155b59c7c5e62479acb721", null ],

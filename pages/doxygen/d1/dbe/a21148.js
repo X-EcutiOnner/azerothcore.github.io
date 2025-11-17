@@ -1,6 +1,6 @@
 var a21148 =
 [
-    [ "OnEffect", "d1/dbe/a21148.html#aa24cfd6feec65f466e74c68484815c1e", null ],
-    [ "PrepareSpellScript", "d1/dbe/a21148.html#a648fb610fb1914efac7f2cb6e1bb4290", null ],
-    [ "Register", "d1/dbe/a21148.html#ac1c0076665edc6a2b3a0228340020a1e", null ]
+    [ "CheckCast", "d1/dbe/a21148.html#a715a58956db4253c8adfed039833debd", null ],
+    [ "PrepareSpellScript", "d1/dbe/a21148.html#a3b03178d8ab54db36a19ba5a27444917", null ],
+    [ "Register", "d1/dbe/a21148.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
 ];

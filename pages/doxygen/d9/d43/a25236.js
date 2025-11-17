@@ -1,8 +1,10 @@
 var a25236 =
 [
-    [ "OnApply", "d9/d43/a25236.html#a6aa83e925a93dc7ff89c0357debc75d1", null ],
-    [ "OnRemove", "d9/d43/a25236.html#a3ced5941c25fce087699aa095cd487c9", null ],
-    [ "PrepareAuraScript", "d9/d43/a25236.html#a497776c6ffdda8670fa255b76057bf2c", null ],
-    [ "Register", "d9/d43/a25236.html#ac05f2898ebbb78bf55d70d8a660fb22d", null ],
-    [ "Validate", "d9/d43/a25236.html#a44fc9ff07b9db5b2a1263d244916c79f", null ]
+    [ "Load", "d9/d43/a25236.html#a6ae104e97dc9c0aa50e115fe1f17e161", null ],
+    [ "OnPeriodic", "d9/d43/a25236.html#ab1dc8acb8072f70625375480742fee5e", null ],
+    [ "PrepareAuraScript", "d9/d43/a25236.html#a2e81d03893b23aa8dc9c615683206f75", null ],
+    [ "Register", "d9/d43/a25236.html#ac2f2c8359487ad8c619e9faf8535b927", null ],
+    [ "Validate", "d9/d43/a25236.html#a0c88acf48d0ea7dd7ac3ac85aa3a126d", null ],
+    [ "_applyTimes", "d9/d43/a25236.html#a1bf9f3a1eb52bb64df59b381c412552f", null ],
+    [ "stackAmount", "d9/d43/a25236.html#ac8d762bdb40366c93602497e9aaa42eb", null ]
 ];

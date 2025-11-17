@@ -1,6 +1,6 @@
 var a18336 =
 [
-    [ "OrderWhelpTargetSelector", "df/dbe/a18336.html#a5e433367ebbf88c6bb8fef9d43eafcfa", null ],
-    [ "operator()", "df/dbe/a18336.html#abf98b730a2b794012c28b61ab8bb6b6c", null ],
-    [ "_owner", "df/dbe/a18336.html#ae475da3cca3d6288ce7df0b84d59005e", null ]
+    [ "PeriodicTick", "df/dbe/a18336.html#af47c7ea07ee3dbe824b1c294024d0c29", null ],
+    [ "PrepareAuraScript", "df/dbe/a18336.html#aa2649c760e362cc7aa22cd770b15f7df", null ],
+    [ "Register", "df/dbe/a18336.html#ad4290158ee9af93df11d1a46a5bd26a2", null ]
 ];

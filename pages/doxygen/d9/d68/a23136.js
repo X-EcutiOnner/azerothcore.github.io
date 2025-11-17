@@ -1,7 +1,11 @@
 var a23136 =
 [
-    [ "HandleEffectRemove", "d9/d68/a23136.html#a6adc572bb13dde9b83a44a1c27833019", null ],
-    [ "PrepareAuraScript", "d9/d68/a23136.html#a877c26735531508d1806273117f3e8bc", null ],
-    [ "Register", "d9/d68/a23136.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5", null ],
-    [ "Validate", "d9/d68/a23136.html#a8c45ba806d865f7b9d56950013bdd81c", null ]
+    [ "boss_supremus", "d9/d68/a23136.html#af1f094534b0e2dec70422839a02327cd", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "d9/d68/a23136.html#a2654bf5b1d5b6da723d4968219e069a9", null ],
+    [ "FindHatefulStrikeTarget", "d9/d68/a23136.html#af560466902d0d372662020e1a67b627c", null ],
+    [ "JustEngagedWith", "d9/d68/a23136.html#a7d3a5e2c183db7639a7c25f309359ed1", null ],
+    [ "JustSummoned", "d9/d68/a23136.html#a7265a01fa79213ab6d8b82a4c92b7661", null ],
+    [ "Reset", "d9/d68/a23136.html#a0eaa29849a2571417d4826d238d72e25", null ],
+    [ "SchedulePhase", "d9/d68/a23136.html#a87e3943d6c645138853aa97644f9df0e", null ],
+    [ "SummonedCreatureDespawn", "d9/d68/a23136.html#a2ae72bfef577654e676a64eb2e4efa7a", null ]
 ];

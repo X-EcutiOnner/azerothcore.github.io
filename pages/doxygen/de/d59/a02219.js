@@ -1,10 +1,10 @@
 var a02219 =
 [
-    [ "npc_shattrathflaskvendors", "d8/d97/a24460.html", "d8/d97/a24460" ],
-    [ "npc_zephyr", "d8/d98/a24464.html", "d8/d98/a24464" ],
-    [ "npc_kservant", "d9/d4a/a24468.html", "d9/d4a/a24468" ],
-    [ "npc_kservant::npc_kservantAI", "d2/dc7/a24472.html", "d2/dc7/a24472" ],
-    [ "npc_shattrath_daily_quest", "da/d74/a24476.html", "da/d74/a24476" ],
+    [ "npc_shattrathflaskvendors", "d3/d46/a24428.html", "d3/d46/a24428" ],
+    [ "npc_zephyr", "dc/d57/a24432.html", "dc/d57/a24432" ],
+    [ "npc_kservant", "d2/da8/a24436.html", "d2/da8/a24436" ],
+    [ "npc_kservant::npc_kservantAI", "d5/ddc/a24440.html", "d5/ddc/a24440" ],
+    [ "npc_shattrath_daily_quest", "d2/dcd/a24444.html", "d2/dcd/a24444" ],
     [ "KServant", "de/d59/a02219.html#a44d53e3bd4dd0381b62455517ce5e04b", [
       [ "SAY1", "de/d59/a02219.html#a44d53e3bd4dd0381b62455517ce5e04bae4faba91f216dc9ffa804d762e82e09a", null ],
       [ "WHISP1", "de/d59/a02219.html#a44d53e3bd4dd0381b62455517ce5e04ba852626a57853588410e9702e8834a782", null ],

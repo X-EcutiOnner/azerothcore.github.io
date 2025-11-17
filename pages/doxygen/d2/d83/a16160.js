@@ -1,8 +1,6 @@
 var a16160 =
 [
-    [ "boss_sartharion_shadronAI", "d2/d83/a16160.html#a02e2e657ac74ab37a4568589511de664", null ],
-    [ "ExecuteEvent", "d2/d83/a16160.html#a6a26f1f777988be6eaf8b1a675bbbabb", null ],
-    [ "HandleExtraEvent", "d2/d83/a16160.html#a3db5e816f6253f9c4251690bfbbe1912", null ],
-    [ "Reset", "d2/d83/a16160.html#a7054cde1de2166c2b06489187115cb3f", null ],
-    [ "SummonedCreatureDies", "d2/d83/a16160.html#a8b70b3b7287108ad13caeb85a83cf26f", null ]
+    [ "boss_sartharion_vesperonAI", "df/dac/a16164.html", "df/dac/a16164" ],
+    [ "boss_sartharion_vesperon", "d2/d83/a16160.html#a53af67abd9f9bff7f72ee2441e885500", null ],
+    [ "GetAI", "d2/d83/a16160.html#ad045054b44910461e704c412a524bdc4", null ]
 ];

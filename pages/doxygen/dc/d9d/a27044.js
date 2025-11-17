@@ -1,10 +1,6 @@
 var a27044 =
 [
-    [ "CalculateAmount", "dc/d9d/a27044.html#a9e0e28d871f9d3c89cf2dc862971321d", null ],
-    [ "Detonate", "dc/d9d/a27044.html#adc622aae157984546dfe3d8373c0c413", null ],
-    [ "HandleProc", "dc/d9d/a27044.html#a3b5812649b67830d8dc6d10b5dd1c937", null ],
-    [ "OnRemove", "dc/d9d/a27044.html#a5067cef0afc99d487f995f8d6edea21f", null ],
-    [ "PrepareAuraScript", "dc/d9d/a27044.html#abc23ebb3761e3505486ac578bdeaeeed", null ],
-    [ "Register", "dc/d9d/a27044.html#acc4819698e175889a0491d7f7cc680fd", null ],
-    [ "Validate", "dc/d9d/a27044.html#a0649826ce0d66c9f21be8d47c76f4941", null ]
+    [ "HandleAfterHit", "dc/d9d/a27044.html#a177bcf10d6b8fa586ff0cac3834367f9", null ],
+    [ "PrepareSpellScript", "dc/d9d/a27044.html#ac16ef2ff92440deab6c69f4824bdd619", null ],
+    [ "Register", "dc/d9d/a27044.html#a46fe3d7ebd663d1cb27aa473a56e81eb", null ]
 ];

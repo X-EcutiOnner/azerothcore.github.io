@@ -1,8 +1,8 @@
 var a27088 =
 [
-    [ "Load", "d8/d5d/a27088.html#af6c19828b80a6cc06e4c9c207e7c52b8", null ],
-    [ "OnRemove", "d8/d5d/a27088.html#a097cf2a2abecda1e89f85bc4bd4ec029", null ],
-    [ "PrepareAuraScript", "d8/d5d/a27088.html#a2161d27a90b3f87fd07f75723b6d9e13", null ],
-    [ "Register", "d8/d5d/a27088.html#a932760326c822f1b47df1afdec6bb9cb", null ],
-    [ "Validate", "d8/d5d/a27088.html#a69bcfedb7f566c572201aadc9e75df08", null ]
+    [ "AfterCheckProc", "d8/d5d/a27088.html#acfdce5bcda30fc7c498d4f7aba37933f", null ],
+    [ "HandleProc", "d8/d5d/a27088.html#ac24bde081e118b347a3cad6832cd96da", null ],
+    [ "PrepareAuraScript", "d8/d5d/a27088.html#a5d33fbbc36417bd229fb9b1576f4f42b", null ],
+    [ "Register", "d8/d5d/a27088.html#ac60630c5d36b1e9cc4fc809ecde1fe20", null ],
+    [ "Validate", "d8/d5d/a27088.html#aecc372443f71834aaeab97ba77757e2a", null ]
 ];

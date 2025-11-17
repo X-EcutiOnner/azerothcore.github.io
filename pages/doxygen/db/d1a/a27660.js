@@ -1,6 +1,10 @@
 var a27660 =
 [
-    [ "trigger_periodicAI", "de/df3/a27664.html", "de/df3/a27664" ],
-    [ "trigger_periodic", "db/d1a/a27660.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
-    [ "GetAI", "db/d1a/a27660.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
+    [ "go_evil_book_for_dummies", "db/d1a/a27660.html#a69f599910bce0070c6b1af547c459b72", null ],
+    [ "HasLeatherSpecialty", "db/d1a/a27660.html#a3d755fa8777f33a318ffa6f004aecbed", null ],
+    [ "OnGossipHello", "db/d1a/a27660.html#aeb29351e2faf135298419488eb16cc7e", null ],
+    [ "OnGossipSelect", "db/d1a/a27660.html#ac4bc1c682b75c436a4d3fff118a20ca4", null ],
+    [ "SendActionMenu", "db/d1a/a27660.html#a0aa21b4619ea5cc8229eb56e09d3233d", null ],
+    [ "SendConfirmLearn", "db/d1a/a27660.html#a11a605c576a3c81b5ed96d413ec20f57", null ],
+    [ "SendConfirmUnlearn", "db/d1a/a27660.html#af9c10b0423327d8644020e8f5e26a603", null ]
 ];

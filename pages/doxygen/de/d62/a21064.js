@@ -1,10 +1,6 @@
 var a21064 =
 [
-    [ "boss_yoggsaron_immortal_guardianAI", "de/d62/a21064.html#a84a3ffe43a4ce49cd543f770594cd683", null ],
-    [ "DamageTaken", "de/d62/a21064.html#aec157bcf0628a7301bcb91dd62bcc484", null ],
-    [ "Reset", "de/d62/a21064.html#a763f772414f00c0f83402e1a635b6bd0", null ],
-    [ "SpellHit", "de/d62/a21064.html#a60721961f2eb5e91c15890252166b872", null ],
-    [ "UpdateAI", "de/d62/a21064.html#a7fa550f683fcf16f5bd70a307bffcb2b", null ],
-    [ "_spellTimer", "de/d62/a21064.html#a4ed360380707195e10753436020b67eb", null ],
-    [ "_visualTimer", "de/d62/a21064.html#a8c382c37aaa3d20cfc0fe604af52bef4", null ]
+    [ "boss_yoggsaron_llaneAI", "de/da4/a21068.html", "de/da4/a21068" ],
+    [ "boss_yoggsaron_llane", "de/d62/a21064.html#a671df488222583aa12bc1c75695918b9", null ],
+    [ "GetAI", "de/d62/a21064.html#a1e7d1b4bce0ca1dbfbbe8c044b451b92", null ]
 ];

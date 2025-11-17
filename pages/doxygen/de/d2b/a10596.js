@@ -1,7 +1,10 @@
 var a10596 =
 [
-    [ "ChatServerMessage", "de/d2b/a10596.html#aa649857ceeba6b2f9e060f7d502cdb7a", null ],
-    [ "Write", "de/d2b/a10596.html#af8bad4d39693290674bda2e2ad8685bf", null ],
-    [ "MessageID", "de/d2b/a10596.html#afde854fc17313d214fa0f0cdc48ca9a9", null ],
-    [ "StringParam", "de/d2b/a10596.html#ac39a08d84c8f5934d0fe26e91809e60a", null ]
+    [ "EnvironmentalDamageLog", "de/d2b/a10596.html#ab4311f6516d9b7491abf5cb2ba9a0ee0", null ],
+    [ "Write", "de/d2b/a10596.html#af7d49b8d57100cf2c3048d5415a4edc7", null ],
+    [ "Absorbed", "de/d2b/a10596.html#a443df04be3afe2021532716140ffb099", null ],
+    [ "Amount", "de/d2b/a10596.html#a073e22176d44f5806313c2a4bd3e263a", null ],
+    [ "Resisted", "de/d2b/a10596.html#ad20a9730af3088d93ac56d89b6f66b12", null ],
+    [ "Type", "de/d2b/a10596.html#a51df177d9ce6a8459bc8fa41f80cdb7a", null ],
+    [ "Victim", "de/d2b/a10596.html#a020fffe9517d30e965a4d6f6602dd05f", null ]
 ];

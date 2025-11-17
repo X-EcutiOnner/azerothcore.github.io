@@ -1,15 +1,6 @@
 var a23332 =
 [
-    [ "boss_hydross_the_unstable", "dc/d8e/a23332.html#a8e385f4f7f448033b00828540aa16cde", null ],
-    [ "JustDied", "dc/d8e/a23332.html#ad05fa00eade9614ed54b03a9a4d5d348", null ],
-    [ "JustEngagedWith", "dc/d8e/a23332.html#a4fd2138ce9962d89410b57702d7df33d", null ],
-    [ "JustReachedHome", "dc/d8e/a23332.html#a03cbe48effc4cd3a2821312e60578ed4", null ],
-    [ "JustSummoned", "dc/d8e/a23332.html#a3e9031d95c9e62cbd83eeba4af6c965a", null ],
-    [ "KilledUnit", "dc/d8e/a23332.html#a252d3abdf24c06922c88823bc5e535f3", null ],
-    [ "Reset", "dc/d8e/a23332.html#a0bcad41c74800ab58df8b5ea54d2ec8e", null ],
-    [ "SetForm", "dc/d8e/a23332.html#ac80b0611533998d15406d45385d37629", null ],
-    [ "SummonedCreatureDespawn", "dc/d8e/a23332.html#afe4b76f528045506586f8289eaee27aa", null ],
-    [ "SummonMovementInform", "dc/d8e/a23332.html#af74b63bf239de38f8dd04e69a6ea2b54", null ],
-    [ "SummonTaintedElementalOOC", "dc/d8e/a23332.html#a219094dc5a81acb7d7ae86d5d7945da8", null ],
-    [ "_recentlySpoken", "dc/d8e/a23332.html#acfd0f1a6331b08659c5fffa7850d30b4", null ]
+    [ "HandleScriptEffect", "dc/d8e/a23332.html#a766edc5924124c869b04ec82cd2bc693", null ],
+    [ "PrepareSpellScript", "dc/d8e/a23332.html#a1eac10c673b8f43ae08f8bbdf949f82f", null ],
+    [ "Register", "dc/d8e/a23332.html#a60d4e21bf31c997ef4105ad72c8b4e85", null ]
 ];

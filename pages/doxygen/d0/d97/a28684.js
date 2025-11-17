@@ -1,13 +1,10 @@
 var a28684 =
 [
-    [ "actionFlag", "d0/d97/a28684.html#a6257ae486eff937cf12be64f0e850ca6", null ],
-    [ "arrivalEventID", "d0/d97/a28684.html#a1ffe17f529066091b18451a1121ce6ac", null ],
-    [ "delay", "d0/d97/a28684.html#aef005db912b0a57ecc5d62c66d838826", null ],
-    [ "departureEventID", "d0/d97/a28684.html#a670a033aaf0ff48676373baf9235d670", null ],
-    [ "index", "d0/d97/a28684.html#af9f8e03c2d9c1bdf266b3d62f1174224", null ],
-    [ "mapid", "d0/d97/a28684.html#aa2c6fb8a785e297c72384043698dd401", null ],
-    [ "path", "d0/d97/a28684.html#aa0692acbae0d4639c89ece77265d7858", null ],
-    [ "x", "d0/d97/a28684.html#a9acd2aad6b8820c04f6749bd2944b54f", null ],
-    [ "y", "d0/d97/a28684.html#a08778d3ef9a9a87fd731b54d5501daab", null ],
-    [ "z", "d0/d97/a28684.html#af48d85940d7f204091e8438427a72e2d", null ]
+    [ "area_id", "d0/d97/a28684.html#acbd77950bf9548d266e568640cf38458", null ],
+    [ "map_id", "d0/d97/a28684.html#abeabdc3d225dcd6626a641d6792d7ff8", null ],
+    [ "virtual_map_id", "d0/d97/a28684.html#afe75f114a3aa74a0589cc575e372f1b1", null ],
+    [ "x1", "d0/d97/a28684.html#a78967fef40841f705c2564a177cb36f3", null ],
+    [ "x2", "d0/d97/a28684.html#a037dca812715df0b4f2551f8684b537c", null ],
+    [ "y1", "d0/d97/a28684.html#a7f90073656e1cd00a88add9f8d881d11", null ],
+    [ "y2", "d0/d97/a28684.html#ad8e0164952e5565488d5443f269ec79e", null ]
 ];

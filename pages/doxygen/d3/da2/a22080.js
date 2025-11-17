@@ -1,7 +1,7 @@
 var a22080 =
 [
-    [ "HandleScriptEffect", "d3/da2/a22080.html#a8df8d5addea956e80ad0a30ff8f73050", null ],
-    [ "PrepareSpellScript", "d3/da2/a22080.html#adf6593e47a5766c40e7e3859fce00f81", null ],
-    [ "Register", "d3/da2/a22080.html#a6e3bbfb11816f72ae85efb4defb23ad7", null ],
-    [ "Validate", "d3/da2/a22080.html#afdabca016ed5eae85a0bdb3fd9d695ec", null ]
+    [ "npc_emilyAI", "da/db8/a22084.html", "da/db8/a22084" ],
+    [ "npc_emily", "d3/da2/a22080.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "d3/da2/a22080.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "d3/da2/a22080.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

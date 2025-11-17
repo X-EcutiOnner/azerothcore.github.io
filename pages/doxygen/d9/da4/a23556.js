@@ -1,7 +1,5 @@
 var a23556 =
 [
-    [ "boss_hydromancer_thespia", "d9/da4/a23556.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "d9/da4/a23556.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "d9/da4/a23556.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "d9/da4/a23556.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "at_underbog_ghazan", "d9/da4/a23556.html#aa6c74496bb30bf04e66ac3cd06110811", null ],
+    [ "_OnTrigger", "d9/da4/a23556.html#aff03fc0bbded7bf7fa68d0c736bfaff2", null ]
 ];

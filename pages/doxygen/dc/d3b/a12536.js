@@ -1,7 +1,6 @@
 var a12536 =
 [
-    [ "HandleRemove", "dc/d3b/a12536.html#a754b44b62c131e20e1be94b3407e2006", null ],
-    [ "PrepareAuraScript", "dc/d3b/a12536.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
-    [ "Register", "dc/d3b/a12536.html#a02cd375ec140f7614104b7e56df13430", null ],
-    [ "Validate", "dc/d3b/a12536.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
+    [ "instance_blackwing_lair_InstanceMapScript", "dd/d5f/a12540.html", "dd/d5f/a12540" ],
+    [ "instance_blackwing_lair", "dc/d3b/a12536.html#afb9a7ce1ac297b023aa8364cc1383336", null ],
+    [ "GetInstanceScript", "dc/d3b/a12536.html#a70aff4e1bb406f232d0b4961037ed0a1", null ]
 ];

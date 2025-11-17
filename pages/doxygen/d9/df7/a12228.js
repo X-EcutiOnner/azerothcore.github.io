@@ -1,8 +1,6 @@
 var a12228 =
 [
-    [ "CheckProc", "d9/df7/a12228.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
-    [ "HandleProc", "d9/df7/a12228.html#afd3d4786f739566056b69390553d9c71", null ],
-    [ "PrepareAuraScript", "d9/df7/a12228.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
-    [ "Register", "d9/df7/a12228.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
-    [ "Validate", "d9/df7/a12228.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
+    [ "boss_halyconAI", "d0/dae/a12232.html", "d0/dae/a12232" ],
+    [ "boss_halycon", "d9/df7/a12228.html#aa149c5f8b34b9c00102f9a0758dcbd9a", null ],
+    [ "GetAI", "d9/df7/a12228.html#a861f1b0213ad9bcf572c9d59eabba699", null ]
 ];

@@ -1,7 +1,11 @@
 var a24096 =
 [
-    [ "boss_gatewatcher_iron_hand", "d6/d45/a24096.html#aef70e713007af38b510f0a3b8c082b24", null ],
-    [ "JustDied", "d6/d45/a24096.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
-    [ "JustEngagedWith", "d6/d45/a24096.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
-    [ "KilledUnit", "d6/d45/a24096.html#a1973142412b4094dbd9fa51600741148", null ]
+    [ "boss_pathaleon_the_calculator", "d6/d45/a24096.html#a679dc3ccc23c6def44e0f0669822e146", null ],
+    [ "CanAIAttack", "d6/d45/a24096.html#abcbb5f1236ebfbec680241ae8c5cbb00", null ],
+    [ "DoAction", "d6/d45/a24096.html#a814cb56cc18277cb4adbd7dc8a82b06d", null ],
+    [ "JustDied", "d6/d45/a24096.html#a0224d47bc85fe54c0cfded69b55e57b3", null ],
+    [ "JustEngagedWith", "d6/d45/a24096.html#a3ba024e86ceb83ebb26afcc11a75791d", null ],
+    [ "KilledUnit", "d6/d45/a24096.html#a899fd2e1e01ac1347e43bcb290babc5b", null ],
+    [ "Reset", "d6/d45/a24096.html#adc48067c3656bf768c3013ff266565c0", null ],
+    [ "_isEnraged", "d6/d45/a24096.html#ab875fb787d71eaf008b7267c81a2a4df", null ]
 ];

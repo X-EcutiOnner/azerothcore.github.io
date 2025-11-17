@@ -1,5 +1,7 @@
 var a19076 =
 [
-    [ "at_frozen_throne_teleport", "d0/de7/a19076.html#a8065b9f9b55b267be1757775f84de349", null ],
-    [ "OnTrigger", "d0/de7/a19076.html#ae1f9476b7f47320f545e702e9317bd03", null ]
+    [ "DelayedCastMincharEvent", "d0/de7/a19076.html#a76d8a08ca273eec5b2e083d136336a15", null ],
+    [ "Execute", "d0/de7/a19076.html#a12aeff246d07e541ed192974320842cb", null ],
+    [ "_spellId", "d0/de7/a19076.html#af4ea90407b2c8a283f137d213ffe97be", null ],
+    [ "_trigger", "d0/de7/a19076.html#a9f3cd02e77ad35b98a6753b792383548", null ]
 ];

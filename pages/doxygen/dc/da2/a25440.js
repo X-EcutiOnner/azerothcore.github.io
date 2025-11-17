@@ -1,7 +1,7 @@
 var a25440 =
 [
-    [ "OnApply", "dc/da2/a25440.html#afda219a18001505ae7a2d01b1d5b25c0", null ],
-    [ "OnRemove", "dc/da2/a25440.html#a54bcd84599d6e5a6d7f538e2b40b890b", null ],
-    [ "PrepareAuraScript", "dc/da2/a25440.html#a9a7b549e059b6bd2d22802f60e952658", null ],
-    [ "Register", "dc/da2/a25440.html#aae603735281daf02ceca157e218d5c9f", null ]
+    [ "HandleDummy", "dc/da2/a25440.html#a704a2f1c36b32809b22bc3edc87b3414", null ],
+    [ "PrepareSpellScript", "dc/da2/a25440.html#aad01f2888176e8a555fe7acd1bc3fd8b", null ],
+    [ "Register", "dc/da2/a25440.html#ae12fa2b2f9859b465a64fbec04345c9e", null ],
+    [ "Validate", "dc/da2/a25440.html#ad4bb369ef46122cd45c38d876884d350", null ]
 ];

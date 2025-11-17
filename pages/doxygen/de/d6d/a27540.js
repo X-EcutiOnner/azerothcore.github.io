@@ -1,5 +1,5 @@
 var a27540 =
 [
-    [ "go_southfury_moonstone", "de/d6d/a27540.html#aed27e57e8232e156177c293ad0c0b4bb", null ],
-    [ "OnGossipHello", "de/d6d/a27540.html#a9d9708da940c1ee37f9eb4558ed97737", null ]
+    [ "go_table_theka", "de/d6d/a27540.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
+    [ "OnGossipHello", "de/d6d/a27540.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
 ];

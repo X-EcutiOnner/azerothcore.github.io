@@ -1,6 +1,6 @@
 var a19832 =
 [
-    [ "instance_halls_of_stone_InstanceMapScript", "d7/d5e/a19836.html", "d7/d5e/a19836" ],
-    [ "instance_halls_of_stone", "de/da5/a19832.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
-    [ "GetInstanceScript", "de/da5/a19832.html#a784906c7710a216016101cf7a6a915f3", null ]
+    [ "boss_algalon_the_observerAI", "d7/d5e/a19836.html", "d7/d5e/a19836" ],
+    [ "boss_algalon_the_observer", "de/da5/a19832.html#a0691b47a116401da58b246203ecba2cb", null ],
+    [ "GetAI", "de/da5/a19832.html#a4c30c6ddf8dcbc7c478250846f27a261", null ]
 ];

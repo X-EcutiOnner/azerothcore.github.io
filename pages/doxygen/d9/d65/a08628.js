@@ -1,8 +1,6 @@
 var a08628 =
 [
-    [ "EnchantDuration", "d9/d65/a08628.html#a1ce5f81deaa60494c247673c113632d8", null ],
-    [ "EnchantDuration", "d9/d65/a08628.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
-    [ "item", "d9/d65/a08628.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
-    [ "leftduration", "d9/d65/a08628.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
-    [ "slot", "d9/d65/a08628.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
+    [ "SkillStatusData", "d9/d65/a08628.html#a7594ceb20110da34f3aa68ac69996b94", null ],
+    [ "pos", "d9/d65/a08628.html#a51ccb328b807f2c7fd275d843218f466", null ],
+    [ "uState", "d9/d65/a08628.html#a232801ad25897a82739916d5be4fdc22", null ]
 ];

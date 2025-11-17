@@ -1,6 +1,7 @@
 var a18688 =
 [
-    [ "npc_valithria_cloudAI", "d1/d7a/a18692.html", "d1/d7a/a18692" ],
-    [ "npc_valithria_cloud", "d3/d43/a18688.html#a11d1bdc4c6e8210e2d0706f33d369dde", null ],
-    [ "GetAI", "d3/d43/a18688.html#afeff905cec1245dbac6fa59673aef015", null ]
+    [ "npc_blazing_skeletonAI", "d3/d43/a18688.html#ad4f997a7a4cc0fa96594da35434fd921", null ],
+    [ "Reset", "d3/d43/a18688.html#a3bbc4cf7b6dbe11d6768a0fb0626e84a", null ],
+    [ "UpdateAI", "d3/d43/a18688.html#a0010c4befd13ec6beada0de1607f3f7a", null ],
+    [ "_events", "d3/d43/a18688.html#aab1b04989d5e3fc289f00bc121df193d", null ]
 ];

@@ -1,8 +1,6 @@
 var a18132 =
 [
-    [ "HandleScript", "db/d12/a18132.html#a9f3cef57312626ae1884c36ad4bfdca6", null ],
-    [ "PrepareSpellScript", "db/d12/a18132.html#a2ba03324afacf8da8e5fe6bc725e4d2f", null ],
-    [ "Register", "db/d12/a18132.html#a9b0e0427b7f8abbd0e9d556ccc581aeb", null ],
-    [ "SelectTarget", "db/d12/a18132.html#a36d575c6a63e94905bf435bc9d39e588", null ],
-    [ "Validate", "db/d12/a18132.html#afc4a6277e3a7419b6a4aaa99f6697b91", null ]
+    [ "boss_rotfaceAI", "d9/dd1/a18136.html", "d9/dd1/a18136" ],
+    [ "boss_rotface", "db/d12/a18132.html#a8896f5ed16c728d72a123b2e92a174fb", null ],
+    [ "GetAI", "db/d12/a18132.html#a8a3ff9ef99da7d72ce2f7827bfc2564b", null ]
 ];

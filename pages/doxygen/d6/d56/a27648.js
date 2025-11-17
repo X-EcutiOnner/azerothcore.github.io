@@ -1,5 +1,7 @@
 var a27648 =
 [
-    [ "item_petrov_cluster_bombs", "d6/d56/a27648.html#a1a76760f7c4617a40d96b9833e7466df", null ],
-    [ "OnUse", "d6/d56/a27648.html#a14e8a00a532b5aebc8469ff538848f53", null ]
+    [ "npc_engineering_tele_trinket", "d6/d56/a27648.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
+    [ "CanLearn", "d6/d56/a27648.html#a8a35f1c09a9df609561e76f4ed578647", null ],
+    [ "OnGossipHello", "d6/d56/a27648.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
+    [ "OnGossipSelect", "d6/d56/a27648.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
 ];

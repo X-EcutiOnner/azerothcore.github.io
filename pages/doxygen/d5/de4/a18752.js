@@ -1,7 +1,5 @@
 var a18752 =
 [
-    [ "PeriodicTick", "d5/de4/a18752.html#ac1bace4fc66349364c84b5784967e9bf", null ],
-    [ "PrepareAuraScript", "d5/de4/a18752.html#a358193e3340112c04f79c043548c3de0", null ],
-    [ "Register", "d5/de4/a18752.html#a28f52bc253899aa407e67f9a089c815c", null ],
-    [ "Validate", "d5/de4/a18752.html#a0dde3447e38e45cea94df44449a19a01", null ]
+    [ "achievement_portal_jockey", "d5/de4/a18752.html#a6c6c4779072386ab7b64bad92762e2ac", null ],
+    [ "OnCheck", "d5/de4/a18752.html#a2695b1fee353be7340f319c632a43efc", null ]
 ];

@@ -1,8 +1,6 @@
 var a20988 =
 [
-    [ "boss_yoggsaron_guardian_of_ysAI", "d8/deb/a20988.html#a5542a4fd68a012049a79047f47dccc68", null ],
-    [ "JustDied", "d8/deb/a20988.html#ad75f0baeef73a79cdb9bf62463bc8e50", null ],
-    [ "Reset", "d8/deb/a20988.html#a43d12c19425f3caa56a9732774b6f943", null ],
-    [ "UpdateAI", "d8/deb/a20988.html#a8e1d0b14747db6ce06b882f3f9d61963", null ],
-    [ "_spellTimer", "d8/deb/a20988.html#a45dec8609328d65413ae6c88f693ba15", null ]
+    [ "boss_yoggsaron_brainAI", "d7/df9/a20992.html", "d7/df9/a20992" ],
+    [ "boss_yoggsaron_brain", "d8/deb/a20988.html#a8094e2a062f06c5a954c1d3401ca18d4", null ],
+    [ "GetAI", "d8/deb/a20988.html#a02e6b07087765d75d0f49b864e2f323f", null ]
 ];

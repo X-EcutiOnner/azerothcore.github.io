@@ -1,7 +1,10 @@
 var a25228 =
 [
-    [ "HandleScript", "d2/de1/a25228.html#a8ec57aed0788f58e2c50fc08793a5749", null ],
-    [ "PrepareSpellScript", "d2/de1/a25228.html#a56c9ab120239252982cab8b96ac8c5fe", null ],
-    [ "Register", "d2/de1/a25228.html#a8c727b2b00858abcce058b16d66ca62a", null ],
-    [ "Validate", "d2/de1/a25228.html#af3ffb9930eaba8703065719bbcf02f56", null ]
+    [ "Load", "d2/de1/a25228.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
+    [ "OnApply", "d2/de1/a25228.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
+    [ "OnRemove", "d2/de1/a25228.html#a29834c598d6ef8299d54e48a3461e603", null ],
+    [ "PrepareAuraScript", "d2/de1/a25228.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
+    [ "Register", "d2/de1/a25228.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
+    [ "Validate", "d2/de1/a25228.html#aeaf16594f569af671d221234a4aa2c8b", null ],
+    [ "prevItem", "d2/de1/a25228.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
 ];

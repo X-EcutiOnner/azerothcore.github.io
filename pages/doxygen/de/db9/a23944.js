@@ -1,8 +1,7 @@
 var a23944 =
 [
-    [ "boss_laj", "de/db9/a23944.html#a3c9323ab4b5530504588ea62aed2edff", null ],
-    [ "Reset", "de/db9/a23944.html#ace690a0662376addaa40093f3f119c31", null ],
-    [ "ScheduleTasks", "de/db9/a23944.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
-    [ "_lastTransform", "de/db9/a23944.html#a097eacaaf77a09bec087530bad587b11", null ],
-    [ "_transformContainer", "de/db9/a23944.html#a313e66ceeb4e359251dad65383e7f568", null ]
+    [ "CastQuill", "de/db9/a23944.html#a923234809186bcbdf02457f4be095519", null ],
+    [ "Execute", "de/db9/a23944.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
+    [ "_caster", "de/db9/a23944.html#af809b9279aff141ce4007c8d1fbcc331", null ],
+    [ "_spellId", "de/db9/a23944.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
 ];

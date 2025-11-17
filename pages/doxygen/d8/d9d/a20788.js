@@ -1,6 +1,7 @@
 var a20788 =
 [
-    [ "boss_thorim_lightning_orbAI", "da/d59/a20792.html", "da/d59/a20792" ],
-    [ "boss_thorim_lightning_orb", "d8/d9d/a20788.html#a2aa29e8d2b3fb10e8be39d8fc3112ac2", null ],
-    [ "GetAI", "d8/d9d/a20788.html#ad24d28866145c4fccf7a3971856fa87f", null ]
+    [ "boss_thorim_trapAI", "d8/d9d/a20788.html#aaab278dc6557a49624099b0064b8d6f3", null ],
+    [ "Reset", "d8/d9d/a20788.html#ab0715e75a475409ffb6c623bf363a65d", null ],
+    [ "UpdateAI", "d8/d9d/a20788.html#a40078609a67aa029f71df7971449b056", null ],
+    [ "_checkTimer", "d8/d9d/a20788.html#ad3ed8edb4d06e5b98a5afc82170f3233", null ]
 ];

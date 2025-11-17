@@ -1,5 +1,5 @@
 var a15156 =
 [
-    [ "npc_hive_zara_swarmer", "d0/dea/a15156.html#a374fa63e210e0be8a074af9199126a9e", null ],
-    [ "PathEndReached", "d0/dea/a15156.html#a3b3510bd00853395b756e1d83d96a474", null ]
+    [ "pathId", "d0/dea/a15156.html#aefd9fa5c6e7f45047994c7cc47e5967c", null ],
+    [ "spellId", "d0/dea/a15156.html#af495f984d5b81baeaa61ddca127a9508", null ]
 ];

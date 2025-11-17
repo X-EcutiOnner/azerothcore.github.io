@@ -1,7 +1,7 @@
 var a26524 =
 [
-    [ "if", "db/d10/a26524.html#aefedb14e99d2e60abfd58f7778deb39b", null ],
-    [ "PrepareAuraScript", "db/d10/a26524.html#ad61e8c804e59ca0623748acde69aeddb", null ],
-    [ "Register", "db/d10/a26524.html#af917d32bc0d7f825a52c0a916a3a2357", null ],
-    [ "AuraEffectHandleModes", "db/d10/a26524.html#accfab0bada4faf21178e3f67a79c6dfe", null ]
+    [ "CheckTarget", "db/d10/a26524.html#abaef73201d2e0bd1d6789309442019e0", null ],
+    [ "HandleScriptEffect", "db/d10/a26524.html#a545196cd976bfabbd85ba48942012e1e", null ],
+    [ "PrepareSpellScript", "db/d10/a26524.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
+    [ "Register", "db/d10/a26524.html#a36563a197b7377660b7c3f9e85d478bd", null ]
 ];

@@ -1,7 +1,6 @@
 var a17564 =
 [
-    [ "PeriodicTick", "d1/d86/a17564.html#af2419a9f9c8706e6b9a090e88f1b6f78", null ],
-    [ "PrepareAuraScript", "d1/d86/a17564.html#ac1abcbe62887678adad0194fdf27825a", null ],
-    [ "Register", "d1/d86/a17564.html#a9c92c88bf261f1da2143e7dee41a77ec", null ],
-    [ "Validate", "d1/d86/a17564.html#ae7526fcf963fe4ea3ab2f1ec7292e8d8", null ]
+    [ "BloodboltHitCheck", "d1/d86/a17564.html#a84873f1ec2c1e214e35d32954622e9af", null ],
+    [ "operator()", "d1/d86/a17564.html#a1eddfd7bbea8def20dcc080413af6364", null ],
+    [ "_ai", "d1/d86/a17564.html#a0a5d115c464b6e88bc1158cd858bcbec", null ]
 ];

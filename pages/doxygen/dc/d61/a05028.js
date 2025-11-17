@@ -1,11 +1,9 @@
 var a05028 =
 [
-    [ "MmapTileHeader", "dc/d61/a05028.html#a0165f9a4caee4e4759ea261dfbac08a7", null ],
-    [ "dtVersion", "dc/d61/a05028.html#a34d3ed8c617139653176454d7fa7934e", null ],
-    [ "mmapMagic", "dc/d61/a05028.html#ace0ec88460c97f1438de2d0e6a9d7774", null ],
-    [ "mmapVersion", "dc/d61/a05028.html#a5cc3cd873419fe8aeb479d3187584410", null ],
-    [ "padding", "dc/d61/a05028.html#a6ca977b85a993eb6721e3bfe9fd3abfd", null ],
-    [ "recastConfig", "dc/d61/a05028.html#a6552d0370a83567a4d01b4c20adff8cc", null ],
-    [ "size", "dc/d61/a05028.html#a69f3284a4a56b1108792ba56c250bf97", null ],
-    [ "usesLiquids", "dc/d61/a05028.html#aeb4e622161a4bb42cff42d37542f0254", null ]
+    [ "MapRayCallback", "dc/d61/a05028.html#a1a4a654bc929dab5b5a2804c4b88389d", null ],
+    [ "didHit", "dc/d61/a05028.html#a9d9abb0a5ffff131d2c19e88c3c8b836", null ],
+    [ "operator()", "dc/d61/a05028.html#a0f218465b321da5f8289dfa815acbfd4", null ],
+    [ "flags", "dc/d61/a05028.html#a88d1e6d6fa43608bcee21a822488f061", null ],
+    [ "hit", "dc/d61/a05028.html#a6fc14ac7ae20effec9d2657a46b838fc", null ],
+    [ "prims", "dc/d61/a05028.html#a389d8ee31e0cb665bfd9084d786750c5", null ]
 ];

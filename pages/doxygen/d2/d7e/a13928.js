@@ -1,7 +1,7 @@
 var a13928 =
 [
-    [ "boss_blight_wormAI", "d2/d7e/a13928.html#af267e395fbd539f871e498dc6745c610", null ],
-    [ "Reset", "d2/d7e/a13928.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
-    [ "UpdateAI", "d2/d7e/a13928.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
-    [ "_events", "d2/d7e/a13928.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
+    [ "HandleScript", "d2/d7e/a13928.html#acd4373ab762d00d262984c36190d6f93", null ],
+    [ "PrepareSpellScript", "d2/d7e/a13928.html#a113216b272d0386f248a75bfcf30c6a3", null ],
+    [ "Register", "d2/d7e/a13928.html#abbf65c0cabb06141a5856210f5ce5ab8", null ],
+    [ "Validate", "d2/d7e/a13928.html#a5746fd6257dd10be58a61e0e8a2403be", null ]
 ];

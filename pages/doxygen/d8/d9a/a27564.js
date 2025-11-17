@@ -1,5 +1,5 @@
 var a27564 =
 [
-    [ "go_arcane_prison", "d8/d9a/a27564.html#ad73ac33d843027de0e516de8f90c45a0", null ],
-    [ "OnGossipHello", "d8/d9a/a27564.html#a0f9d414ce1f3f3e734cb79a554f7523e", null ]
+    [ "go_massive_seaforium_charge", "d8/d9a/a27564.html#adae43b764f237932923cd18207e4d23c", null ],
+    [ "OnGossipHello", "d8/d9a/a27564.html#a187e28c773ad904f245d11d3f5b9d7e3", null ]
 ];

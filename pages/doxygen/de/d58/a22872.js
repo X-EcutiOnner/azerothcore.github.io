@@ -1,7 +1,12 @@
 var a22872 =
 [
-    [ "npc_voidtraveler", "de/d58/a22872.html#a07e473c14836a0612acd52078a93f2d8", null ],
-    [ "Reset", "de/d58/a22872.html#a6efe0725917c92657220de2b60579289", null ],
-    [ "UpdateAI", "de/d58/a22872.html#aaa907fe2f6ef1029a23fd819af0a44c3", null ],
-    [ "_scheduler", "de/d58/a22872.html#a1809494e7803103f6bc1698e780dcfbc", null ]
+    [ "boss_gurtogg_bloodboil", "de/d58/a22872.html#af6abec4e4db5ce939e4c9593656d16fb", null ],
+    [ "CanAIAttack", "de/d58/a22872.html#a60e6439bab689eb88a18612b6b46c713", null ],
+    [ "CheckEvadeIfOutOfCombatArea", "de/d58/a22872.html#a42db4d9fab6edfc392e1886c7d2770cb", null ],
+    [ "JustDied", "de/d58/a22872.html#a10456695efc6ea0b8eace24b94c37cc3", null ],
+    [ "JustEngagedWith", "de/d58/a22872.html#a0847173efbae252c2fbbaf1be17097cb", null ],
+    [ "JustSummoned", "de/d58/a22872.html#ae718666a1da0e93cb0965c42c40b51df", null ],
+    [ "KilledUnit", "de/d58/a22872.html#ab2b8131fc06f0ff6dd9e3ac7799e72db", null ],
+    [ "Reset", "de/d58/a22872.html#add25677d422b8bddcb753465451f0584", null ],
+    [ "_recentlySpoken", "de/d58/a22872.html#a74af813b84f7787a5b764cfe574c087b", null ]
 ];

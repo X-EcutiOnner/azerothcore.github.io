@@ -1,6 +1,26 @@
 var a19596 =
 [
-    [ "boss_varosAI", "d7/da9/a19600.html", "d7/da9/a19600" ],
-    [ "boss_varos", "d4/df2/a19596.html#a4fdb9de9ee7a3a50ac0972fd6eb8d39c", null ],
-    [ "GetAI", "d4/df2/a19596.html#a36733c4eb6179e43d61a1c37480666ea", null ]
+    [ "instance_oculus_InstanceMapScript", "d4/df2/a19596.html#a86c942751aee67ae10e2c77a1ace630e", null ],
+    [ "CheckAchievementCriteriaMeet", "d4/df2/a19596.html#a04ea989733a6ba1bed1990e1ea8baf1f", null ],
+    [ "GetData", "d4/df2/a19596.html#a44cf46153dd392758fa5c388e8c2ea84", null ],
+    [ "GetGuidData", "d4/df2/a19596.html#ac969f1faf18633ad54354015fb66f4f8", null ],
+    [ "Initialize", "d4/df2/a19596.html#a1c035ca450efdd89481715bd09c6c38c", null ],
+    [ "OnCreatureCreate", "d4/df2/a19596.html#ac5086f399b9d36769632a983890ed576", null ],
+    [ "OnGameObjectCreate", "d4/df2/a19596.html#a08abbb0430a43bb4841560b01e9fe26c", null ],
+    [ "OnPlayerEnter", "d4/df2/a19596.html#a7046a9b087300d0854bb1078c7bd1c9b", null ],
+    [ "OnUnitDeath", "d4/df2/a19596.html#a84fa94a97c62ba7b68130c7a5d8bb4dd", null ],
+    [ "ReadSaveDataMore", "d4/df2/a19596.html#aa5f838155be454aec552b99c42edfe99", null ],
+    [ "SetData", "d4/df2/a19596.html#a58b0b5142cbae350d6cc61c89a3792af", null ],
+    [ "WriteSaveDataMore", "d4/df2/a19596.html#a5043a99a4a3d1c86a4a7026757ebdc14", null ],
+    [ "bAmberVoid", "d4/df2/a19596.html#a9dfa8834bfea20a8f4a39c958e38bcbd", null ],
+    [ "bEmeraldVoid", "d4/df2/a19596.html#a45ce85a8a6c9362ad04194b0518066c9", null ],
+    [ "bRubyVoid", "d4/df2/a19596.html#ad93d6be40d07925d1eb485f864c72ace", null ],
+    [ "CentrifugeCount", "d4/df2/a19596.html#ae5a87cc8bfc153aee0f96978f39a1932", null ],
+    [ "DragonCageDoorGUID", "d4/df2/a19596.html#a402480035dfffd7c4c717229bd55b921", null ],
+    [ "EregosCacheGUID", "d4/df2/a19596.html#aad60cffd6c483bf4610884c3b99ad39c", null ],
+    [ "m_auiEncounter", "d4/df2/a19596.html#af4cca13b9039d7c88e7fad1e8f23eb3a", null ],
+    [ "uiDrakosGUID", "d4/df2/a19596.html#a1bc410826700bdfcefc5f60d0967a091", null ],
+    [ "uiEregosGUID", "d4/df2/a19596.html#a559b482989ee8f91f1ba412683856d89", null ],
+    [ "uiUromGUID", "d4/df2/a19596.html#accf640519e925eccf0230ca4a5dee3bb", null ],
+    [ "uiVarosGUID", "d4/df2/a19596.html#ab4a87ca38d203deacc377579e66e5bfb", null ]
 ];

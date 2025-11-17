@@ -1,7 +1,7 @@
 var a24928 =
 [
-    [ "CalculateAmount", "db/df2/a24928.html#a2ed00d02a1685bc8b66e9cdfd430d1ad", null ],
-    [ "Load", "db/df2/a24928.html#a7ba8da2fdc3bf18cd9925b280e60affa", null ],
-    [ "PrepareAuraScript", "db/df2/a24928.html#a93df43072a344485c389160306b1fecd", null ],
-    [ "Register", "db/df2/a24928.html#a6766b6ebbba04bc595373145e4eaaa7a", null ]
+    [ "CalculateAmount", "db/df2/a24928.html#ab705e67f7abb72a13dfd32e7a6da4561", null ],
+    [ "Load", "db/df2/a24928.html#ac87f1c7ccb9aa9985d538c9d8611c850", null ],
+    [ "PrepareAuraScript", "db/df2/a24928.html#ae4a75ef8bc755c8220b768d5ac87a728", null ],
+    [ "Register", "db/df2/a24928.html#a636331452bc95a4434f1b85e85ea6e7b", null ]
 ];

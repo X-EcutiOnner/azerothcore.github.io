@@ -1,6 +1,6 @@
 var a24348 =
 [
-    [ "npc_infernal_attackerAI", "d2/d1e/a24352.html", "d2/d1e/a24352" ],
-    [ "npc_infernal_attacker", "d5/d66/a24348.html#ac6fbfcf8fc918b48d6b9416a71cfe3fa", null ],
-    [ "GetAI", "d5/d66/a24348.html#ad1d9186c186de36efbe102a07fe89de4", null ]
+    [ "npcs_flanis_swiftwing_and_kagrosh", "d5/d66/a24348.html#aa95eceea94521947bd443805c8ddb52d", null ],
+    [ "OnGossipHello", "d5/d66/a24348.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
+    [ "OnGossipSelect", "d5/d66/a24348.html#aff34165955ba93e1fcd2b9731894d871", null ]
 ];

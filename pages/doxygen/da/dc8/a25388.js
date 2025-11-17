@@ -1,14 +1,7 @@
 var a25388 =
 [
-    [ "spell_gen_mount", "da/dc8/a25388.html#aae8c5c328dda0668bf8cdabc2c9cd29f", null ],
-    [ "HandleMount", "da/dc8/a25388.html#a81085b5efd8d9bd7c82ebb1cf6604793", null ],
-    [ "PrepareSpellScript", "da/dc8/a25388.html#a49e2046d30352a6e22dab2530e909fa7", null ],
-    [ "Register", "da/dc8/a25388.html#a8175ecc0c407d5c4646f038d7b62e92b", null ],
-    [ "Validate", "da/dc8/a25388.html#accef27fc13ff34af52860ad6ac62e7f3", null ],
-    [ "_mount0", "da/dc8/a25388.html#abd6347074186b7c47ac5a2c760f4db33", null ],
-    [ "_mount100", "da/dc8/a25388.html#a5e56853140f188ff1babc61c507f8300", null ],
-    [ "_mount150", "da/dc8/a25388.html#a1237697623e4831c25efcde1ab370031", null ],
-    [ "_mount280", "da/dc8/a25388.html#aa9d0a936795d06dd78ef3c4d5aaf0320", null ],
-    [ "_mount310", "da/dc8/a25388.html#ac06b80d14cc106281c3e6bf3f6a5c727", null ],
-    [ "_mount60", "da/dc8/a25388.html#a53ce7d1b5a39cce2bede77aad647dc7e", null ]
+    [ "HandleEffectPeriodic", "da/dc8/a25388.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
+    [ "PrepareAuraScript", "da/dc8/a25388.html#affc698127fe0656df25bd094c02a7e50", null ],
+    [ "Register", "da/dc8/a25388.html#a4707bfaeb86b3540920a6772e1726e26", null ],
+    [ "Validate", "da/dc8/a25388.html#aef839f163d7e623a54b163e1c27542cd", null ]
 ];

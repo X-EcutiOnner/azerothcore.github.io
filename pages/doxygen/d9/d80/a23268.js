@@ -1,6 +1,11 @@
 var a23268 =
 [
-    [ "HandleProc", "d9/d80/a23268.html#a93dfb9e0dac89cb66f340c41dbc526bb", null ],
-    [ "PrepareAuraScript", "d9/d80/a23268.html#a94b244ef26355d53c874aec6d26f3a53", null ],
-    [ "Register", "d9/d80/a23268.html#a9499d88802213ceb877e19d1651324f2", null ]
+    [ "boss_doomwalker", "d9/d80/a23268.html#a47811086ff98b1a09af5300af94b6c0e", null ],
+    [ "JustDied", "d9/d80/a23268.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
+    [ "JustEngagedWith", "d9/d80/a23268.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
+    [ "KilledUnit", "d9/d80/a23268.html#a2335eb642940397f73ee2a8051624e8e", null ],
+    [ "MoveInLineOfSight", "d9/d80/a23268.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
+    [ "Reset", "d9/d80/a23268.html#aba08b227d629c9f35e59f465e29c267b", null ],
+    [ "UpdateAI", "d9/d80/a23268.html#a3105c50e512c6f709985cece619b131f", null ],
+    [ "_inEnrage", "d9/d80/a23268.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
 ];

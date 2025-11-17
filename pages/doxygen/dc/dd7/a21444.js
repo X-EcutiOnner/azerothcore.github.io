@@ -1,7 +1,6 @@
 var a21444 =
 [
-    [ "PrepareAuraScript", "dc/dd7/a21444.html#adedc1cb8b42e9cd3c2e68415bca59c6b", null ],
-    [ "Register", "dc/dd7/a21444.html#a7225d1f83921e4de06516c1db5a5038a", null ],
-    [ "TriggerFists", "dc/dd7/a21444.html#af5d91d679f6bed5afc675b8a5fd90210", null ],
-    [ "Validate", "dc/dd7/a21444.html#a977897c569245148eb94892bb42d4ca5", null ]
+    [ "npc_frozen_orbAI", "d9/d0e/a21448.html", "d9/d0e/a21448" ],
+    [ "npc_frozen_orb", "dc/dd7/a21444.html#ac14966722e39b2b6b3a907756701ed98", null ],
+    [ "GetAI", "dc/dd7/a21444.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
 ];

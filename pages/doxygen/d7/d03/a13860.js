@@ -1,6 +1,9 @@
 var a13860 =
 [
-    [ "npc_marzon_silent_bladeAI", "d7/d81/a13864.html", "d7/d81/a13864" ],
-    [ "npc_marzon_silent_blade", "d7/d03/a13860.html#a8fa1c0e11555df45005f37fd9de7f3a8", null ],
-    [ "GetAI", "d7/d03/a13860.html#aadde9b84b46c594e41ae8ca3ae0265a1", null ]
+    [ "npc_marzon_silent_bladeAI", "d7/d03/a13860.html#a9f29c3b56e26421dabc2c95b8cd0407e", null ],
+    [ "EnterEvadeMode", "d7/d03/a13860.html#a0b42596550d045f5ca0096ceee80c0ac", null ],
+    [ "JustEngagedWith", "d7/d03/a13860.html#a116b3458f342811e378713e6a67f76a6", null ],
+    [ "MovementInform", "d7/d03/a13860.html#a32201d45f0c19212becb6319a48366f8", null ],
+    [ "Reset", "d7/d03/a13860.html#a51c2b16c767ce2922564dc9e4048e089", null ],
+    [ "UpdateAI", "d7/d03/a13860.html#aa6686399b41d32429d530dcc2ec41185", null ]
 ];

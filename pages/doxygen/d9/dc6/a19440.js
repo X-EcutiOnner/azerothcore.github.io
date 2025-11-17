@@ -1,10 +1,6 @@
 var a19440 =
 [
-    [ "npc_power_sparkAI", "d9/dc6/a19440.html#a3f0fd553d859c5709ed2dbd9051db3d3", null ],
-    [ "DamageTaken", "d9/dc6/a19440.html#aebd86516e17e77711d3877a11a159105", null ],
-    [ "DoAction", "d9/dc6/a19440.html#a54b4578be614da76cc886dedbe3d853e", null ],
-    [ "UpdateAI", "d9/dc6/a19440.html#a7e9b2a161fc88d269e631d47c38bfd5e", null ],
-    [ "CheckTimer", "d9/dc6/a19440.html#af98dff7dd45c258d45ce81b8520e56a8", null ],
-    [ "MoveTimer", "d9/dc6/a19440.html#af16a57b82fb94eb464c51b6006f2a66b", null ],
-    [ "pInstance", "d9/dc6/a19440.html#a4142b3872dd17015eeabb2eaee0c3369", null ]
+    [ "npc_scion_of_eternityAI", "da/dd0/a19444.html", "da/dd0/a19444" ],
+    [ "npc_scion_of_eternity", "d9/dc6/a19440.html#ac1d66d65b5d4468b908443a64dc2de1c", null ],
+    [ "GetAI", "d9/dc6/a19440.html#a7c27a55f177fb9e31f73fa1cb227fa27", null ]
 ];

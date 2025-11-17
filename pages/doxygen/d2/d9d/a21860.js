@@ -1,8 +1,6 @@
 var a21860 =
 [
-    [ "npc_shandy_dalaranAI", "d3/dbd/a21864.html", "d3/dbd/a21864" ],
-    [ "npc_shandy_dalaran", "d2/d9d/a21860.html#a7077c769a252af8ba37b5ff5d524463e", null ],
-    [ "GetAI", "d2/d9d/a21860.html#a641551a2aef739e1679912ae27ddb888", null ],
-    [ "OnGossipHello", "d2/d9d/a21860.html#a91287aaba09fce091c9d826e75208f84", null ],
-    [ "OnGossipSelect", "d2/d9d/a21860.html#ad005a17da187e0cfd03d2faf0099c448", null ]
+    [ "npc_archmage_landalockAI", "d3/dbd/a21864.html", "d3/dbd/a21864" ],
+    [ "npc_archmage_landalock", "d2/d9d/a21860.html#ac7379ff07740123312af66ead64df4c6", null ],
+    [ "GetAI", "d2/d9d/a21860.html#a92cfa8c2660413681297bfe12815c938", null ]
 ];

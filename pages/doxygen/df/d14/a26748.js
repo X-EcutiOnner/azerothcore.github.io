@@ -1,6 +1,8 @@
 var a26748 =
 [
-    [ "ModDest", "df/d14/a26748.html#ab03387aec0a02a6b3bac1014443554b6", null ],
-    [ "PrepareSpellScript", "df/d14/a26748.html#a53f7da301759fb18686bc73281c4a321", null ],
-    [ "Register", "df/d14/a26748.html#a266198fbc6203517f9845ef6212ddf13", null ]
+    [ "CheckCast", "df/d14/a26748.html#a16983545e25f3e02064e2b3d573b2bb8", null ],
+    [ "CheckQuest", "df/d14/a26748.html#abc927d932c1d5e05eab1918364d68ed5", null ],
+    [ "HandleActiveObject", "df/d14/a26748.html#a95f7bd6dd52b19bb1c09975a7286882a", null ],
+    [ "PrepareSpellScript", "df/d14/a26748.html#a96e69476965cc2466213a5371a57093a", null ],
+    [ "Register", "df/d14/a26748.html#a83c48e1c42a6a6dd892f0f4d6a20687b", null ]
 ];

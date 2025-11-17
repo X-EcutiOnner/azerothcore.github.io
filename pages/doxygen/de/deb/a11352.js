@@ -1,7 +1,17 @@
 var a11352 =
 [
-    [ "SpellImmune", "de/deb/a11352.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
-    [ "blockType", "de/deb/a11352.html#a13a353d02a7330820df170eb46e7a26d", null ],
-    [ "spellId", "de/deb/a11352.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
-    [ "type", "de/deb/a11352.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
+    [ "StaticData", "d5/dac/a11356.html", "d5/dac/a11356" ],
+    [ "SpellImplicitTargetInfo", "de/deb/a11352.html#a6eadac193f40d3a14db74d6e07552bdb", null ],
+    [ "SpellImplicitTargetInfo", "de/deb/a11352.html#a8e746c8dd4956a1bedc78c932740dfca", null ],
+    [ "CalcDirectionAngle", "de/deb/a11352.html#ac726d7df6103bc991e650c5d221ec4cc", null ],
+    [ "GetCheckType", "de/deb/a11352.html#a1822c2908aff0701ab6e56ccf1c83a83", null ],
+    [ "GetDirectionType", "de/deb/a11352.html#a094f5c6bc82196355aeded09cb469b7c", null ],
+    [ "GetExplicitTargetMask", "de/deb/a11352.html#ad368870f99d85f27ae2a15ee75b4b5dd", null ],
+    [ "GetObjectType", "de/deb/a11352.html#a964c185b1d3ed3563c6efa68e8bf9f42", null ],
+    [ "GetReferenceType", "de/deb/a11352.html#a59769a12291673682e1b5c3650e8aff7", null ],
+    [ "GetSelectionCategory", "de/deb/a11352.html#a5dd39484ccfed1e34b27d957614b45e6", null ],
+    [ "GetTarget", "de/deb/a11352.html#ae5a138c973300efce4744ea260108097", null ],
+    [ "IsArea", "de/deb/a11352.html#a263a4660dfdf8b77f69e5475048b414b", null ],
+    [ "_data", "de/deb/a11352.html#a1a05bbd8400ec4451ca34b2754e056e9", null ],
+    [ "_target", "de/deb/a11352.html#ab2cec29c53f0b9bc6a016ce177f97c1d", null ]
 ];

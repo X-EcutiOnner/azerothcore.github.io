@@ -1,5 +1,6 @@
 var a16120 =
 [
-    [ "instance_azjol_nerub_InstanceScript", "df/d4a/a16120.html#a886ed4c1485fdedcc176341210eee31a", null ],
-    [ "OnCreatureEvade", "df/d4a/a16120.html#af163238686bf22f11908f64ffb5cacca", null ]
+    [ "HandleScriptEffect", "df/d4a/a16120.html#aaa650972803d14e4d74be977430b04f6", null ],
+    [ "PrepareSpellScript", "df/d4a/a16120.html#a1e166c53e2051f3fae1b085a76a08c3f", null ],
+    [ "Register", "df/d4a/a16120.html#a3405c1b04f2e623662c7acaa6810278c", null ]
 ];

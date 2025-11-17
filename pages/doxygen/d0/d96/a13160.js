@@ -1,8 +1,6 @@
 var a13160 =
 [
-    [ "HandleDummy", "d0/d96/a13160.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "d0/d96/a13160.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "d0/d96/a13160.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "d0/d96/a13160.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "d0/d96/a13160.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "npc_koltira_deathweaverAI", "dd/d19/a13164.html", "dd/d19/a13164" ],
+    [ "npc_koltira_deathweaver", "d0/d96/a13160.html#a5e9fdbc8dc70ce3480906b86aed381a3", null ],
+    [ "GetAI", "d0/d96/a13160.html#afddc561b88679f3dd6ca8b374807b0f0", null ]
 ];

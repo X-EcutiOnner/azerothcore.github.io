@@ -1,12 +1,10 @@
 var a10156 =
 [
-    [ "delay", "df/d4c/a10156.html#aa05ef99c3e04589501362a07d0dd032a", null ],
-    [ "event_chance", "df/d4c/a10156.html#af54f2d38ca1a11664f516799f3bb80c8", null ],
-    [ "event_id", "df/d4c/a10156.html#a083020691278af836e48f0a0c2feff96", null ],
-    [ "id", "df/d4c/a10156.html#af7248c313ceefedb5b7ff6ed4c2ffd6b", null ],
-    [ "move_type", "df/d4c/a10156.html#afb1a57b423a258e99c6921727a27e2e7", null ],
-    [ "orientation", "df/d4c/a10156.html#a971411811b0e60839538f82cd55dcfb7", null ],
-    [ "x", "df/d4c/a10156.html#a2dfd7f1f946ebef0b67d8f1542198b4b", null ],
-    [ "y", "df/d4c/a10156.html#a574c5ba7eb5e6bd55f6c55bb511c03f7", null ],
-    [ "z", "df/d4c/a10156.html#a013fa650f43e790e652016fbce2e1bd5", null ]
+    [ "WaypointMgr", "df/d4c/a10156.html#a2f038884959f10348bd5b7af3abee7db", null ],
+    [ "~WaypointMgr", "df/d4c/a10156.html#a7b0fed55791df7ab040a46984700d18e", null ],
+    [ "GetPath", "df/d4c/a10156.html#a8492dcbb35f4bdb563f861c521eb5317", null ],
+    [ "instance", "df/d4c/a10156.html#aacd2ed943503288057b3fb9a935a56e9", null ],
+    [ "Load", "df/d4c/a10156.html#a69ae451ce07f2e68be81b1a86649115d", null ],
+    [ "ReloadPath", "df/d4c/a10156.html#ac1364780d1ab0c91ca95d366419ca3df", null ],
+    [ "_waypointStore", "df/d4c/a10156.html#af70ce7663d7f132339ea8d163311c248", null ]
 ];

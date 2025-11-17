@@ -1,20 +1,9 @@
 var a28780 =
 [
-    [ "RealmMap", "df/ddb/a28780.html#a6031c19ec935fbe535f60a1014483dbd", null ],
-    [ "RealmList", "df/ddb/a28780.html#abe7dfad5160a08a5852cb1436a06eaa9", null ],
-    [ "~RealmList", "df/ddb/a28780.html#a64bea5f38384143cc960840a8e84ef00", null ],
-    [ "Close", "df/ddb/a28780.html#a14a4d9b5383da24bc1ad9754cdfa2183", null ],
-    [ "GetBuildInfo", "df/ddb/a28780.html#a0f7136cb280d2461b1ec0d080645c6e0", null ],
-    [ "GetRealm", "df/ddb/a28780.html#a3e25e63168bcff88d021294559ccf0c5", null ],
-    [ "GetRealms", "df/ddb/a28780.html#afc2cbe2a4ee4d9870821dbe8d96e8fa4", null ],
-    [ "Initialize", "df/ddb/a28780.html#a70954d518dc4559e0aca0388f13db411", null ],
-    [ "Instance", "df/ddb/a28780.html#aea053134fe293fbd4a8801b25fbb44ca", null ],
-    [ "LoadBuildInfo", "df/ddb/a28780.html#a1f8866e57557beb7d69037a63e34428d", null ],
-    [ "UpdateRealm", "df/ddb/a28780.html#ae15cf59b00e8e8e561f266d5dd3e11ae", null ],
-    [ "UpdateRealms", "df/ddb/a28780.html#a0b4559e5538a02ccf5247839005d602e", null ],
-    [ "_builds", "df/ddb/a28780.html#a7c38c3c8b4fe6554c66dbc5ada26a3e0", null ],
-    [ "_realms", "df/ddb/a28780.html#a41693a01cd88ea99b54dd9ca8fe6b445", null ],
-    [ "_resolver", "df/ddb/a28780.html#a1beee0fdd1a9e61f68db925f53d373a9", null ],
-    [ "_updateInterval", "df/ddb/a28780.html#ac07fe3cd4fc18169af4f63b207902e95", null ],
-    [ "_updateTimer", "df/ddb/a28780.html#a5619be8a2649680901cfd7a3608e984a", null ]
+    [ "SetUp", "df/ddb/a28780.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
+    [ "TearDown", "df/ddb/a28780.html#a2a331c0ef77503c08c37e226a4e0a33b", null ],
+    [ "_distributor", "df/ddb/a28780.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
+    [ "_mockRewarder", "df/ddb/a28780.html#ad466c2751d8e9739db56f9f82d15deff", null ],
+    [ "_previousWorld", "df/ddb/a28780.html#aef822a2309df5d13af31ea5a5da74df7", null ],
+    [ "_worldMock", "df/ddb/a28780.html#a00b242d182fd7eacc93efc9d4f3e914f", null ]
 ];

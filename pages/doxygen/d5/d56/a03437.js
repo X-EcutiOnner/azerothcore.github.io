@@ -1,8 +1,8 @@
 var a03437 =
 [
-    [ "SpellPair", "d5/d2a/a11988.html", "d5/d2a/a11988" ],
-    [ "npc_av_marshal_or_warmaster", "df/d0e/a11992.html", "df/d0e/a11992" ],
-    [ "npc_av_marshal_or_warmaster::npc_av_marshal_or_warmasterAI", "d7/d7c/a11996.html", "d7/d7c/a11996" ],
+    [ "SpellPair", "da/d29/a11984.html", "da/d29/a11984" ],
+    [ "npc_av_marshal_or_warmaster", "d5/d2a/a11988.html", "d5/d2a/a11988" ],
+    [ "npc_av_marshal_or_warmaster::npc_av_marshal_or_warmasterAI", "df/d0e/a11992.html", "df/d0e/a11992" ],
     [ "Creatures", "d5/d56/a03437.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "d5/d56/a03437.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "d5/d56/a03437.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],
@@ -155,6 +155,7 @@ var a03437 =
       [ "NPC_KURZEL", "d6/d97/a03011.html#a25a619e6b66096a4f05d048e4a96df08a22d66bc624082cb121a29f26aec07465", null ],
       [ "NPC_DRAKKARI_GUARDIAN", "d6/d97/a03011.html#a25a619e6b66096a4f05d048e4a96df08ac8874bda0b81ee0c77596d066d6c04d1", null ],
       [ "NPC_RISEN_DRAKKARI_WARRIOR", "d6/d97/a03011.html#a25a619e6b66096a4f05d048e4a96df08a134872c6167fea34d52690f6b40e7429", null ],
+      [ "NPC_FETID_TROLL_CORPSE", "d6/d97/a03011.html#a25a619e6b66096a4f05d048e4a96df08a9410ab8c778e63e997745a443db5e32c", null ],
       [ "NPC_BRONJAHM", "d7/deb/a03077.html#a25a619e6b66096a4f05d048e4a96df08a8123c635a5ab5db37954d58117f9d044", null ],
       [ "NPC_DEVOURER", "d7/deb/a03077.html#a25a619e6b66096a4f05d048e4a96df08a11aef36e86ef916bc76cd8910dff17e0", null ],
       [ "NPC_SYLVANAS_PART1", "d7/deb/a03077.html#a25a619e6b66096a4f05d048e4a96df08ad7b5f6d9b213f87c99f931b456390560", null ],

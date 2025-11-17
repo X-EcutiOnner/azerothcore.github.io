@@ -1,6 +1,6 @@
 var a19072 =
 [
-    [ "icecrown_citadel_teleport", "dd/d78/a19072.html#ab74d5962073dcf3b4488c33aaa935377", null ],
-    [ "OnGossipHello", "dd/d78/a19072.html#a97b0d94a5c7388a5dfce76f3bd3be24f", null ],
-    [ "OnGossipSelect", "dd/d78/a19072.html#a0b160bd86341542ddb1c80f3d4bd691f", null ]
+    [ "RespawnEvent", "dd/d78/a19072.html#accc0d5638ff7a493fa116ac2e8f2e58b", null ],
+    [ "Execute", "dd/d78/a19072.html#a2e58f4e472fb72cf5401f11be6e5e136", null ],
+    [ "_owner", "dd/d78/a19072.html#adb0835b4a2e7a2795bb81f0a1e3c911a", null ]
 ];

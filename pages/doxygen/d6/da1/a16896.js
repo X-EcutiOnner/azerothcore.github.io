@@ -1,8 +1,6 @@
 var a16896 =
 [
-    [ "HandleEffectApply", "d6/da1/a16896.html#a92b98d9b9be98c330b6efbe34dae235b", null ],
-    [ "HandleEffectRemove", "d6/da1/a16896.html#a04504220319ec562b1b6691f471c1b8d", null ],
-    [ "PrepareAuraScript", "d6/da1/a16896.html#a10fd29809373bcfaf38fd587fcdd1dee", null ],
-    [ "Register", "d6/da1/a16896.html#a9160c940913e4829bd0a6fe269c3b5d3", null ],
-    [ "Validate", "d6/da1/a16896.html#a7f7750933e122e8c672b6b93f4801cd7", null ]
+    [ "boss_trollgoreAI", "d7/d98/a16900.html", "d7/d98/a16900" ],
+    [ "boss_trollgore", "d6/da1/a16896.html#a95102f1fae6c667e0780b8b388fc156b", null ],
+    [ "GetAI", "d6/da1/a16896.html#a6da1349da296a3dc3d29527a8e3c2b7d", null ]
 ];

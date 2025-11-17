@@ -1,8 +1,4 @@
 var a22796 =
 [
-    [ "CalcPeriodic", "d0/d96/a22796.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
-    [ "OnRemove", "d0/d96/a22796.html#af120bb9d6a0c3d338706613540849412", null ],
-    [ "PrepareAuraScript", "d0/d96/a22796.html#ad413f14193013058e1775f80b457a81d", null ],
-    [ "Register", "d0/d96/a22796.html#aa35fc5865f108712e450661e67c384ce", null ],
-    [ "Update", "d0/d96/a22796.html#aebc61b57ed8038488ec06c14483b2099", null ]
+    [ "instance_mana_tombs_InstanceMapScript", "d0/d96/a22796.html#a1523ad04993ce4ddf5b503355f7c856a", null ]
 ];

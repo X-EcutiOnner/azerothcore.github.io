@@ -1,7 +1,8 @@
 var a13096 =
 [
-    [ "HandleScriptEffect", "d1/d15/a13096.html#a1cdba27f7311021407307bcd35235fed", null ],
-    [ "PrepareSpellScript", "d1/d15/a13096.html#a9c97b6702a02fe78e1f6e76d8a00c598", null ],
-    [ "Register", "d1/d15/a13096.html#a9794991aa1710ce37112888eeb572796", null ],
-    [ "Validate", "d1/d15/a13096.html#a1e7c77b45c1abf4aee5491f02d75b6d1", null ]
+    [ "npc_death_knight_initiateAI", "d0/d96/a13100.html", "d0/d96/a13100" ],
+    [ "npc_death_knight_initiate", "d1/d15/a13096.html#a0c1b552035bed7be9af1fbdf8205b4b6", null ],
+    [ "GetAI", "d1/d15/a13096.html#ac38e0ed0ea1eac8e0de6f08664cb095a", null ],
+    [ "OnGossipHello", "d1/d15/a13096.html#a24f1b91ad0a69e4468e812747225d303", null ],
+    [ "OnGossipSelect", "d1/d15/a13096.html#ab0712bc84003b5eb72f11b49ef6e57a7", null ]
 ];

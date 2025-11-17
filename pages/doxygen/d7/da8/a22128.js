@@ -1,6 +1,6 @@
 var a22128 =
 [
-    [ "npc_amberpine_woodsmanAI", "de/da6/a22132.html", "de/da6/a22132" ],
-    [ "npc_amberpine_woodsman", "d7/da8/a22128.html#a33bbec50a360b724bfe9cb8612cbb47d", null ],
-    [ "GetAI", "d7/da8/a22128.html#a9c1df6c01c163ca68712d72b14c46139", null ]
+    [ "npc_lake_frogAI", "de/da6/a22132.html", "de/da6/a22132" ],
+    [ "npc_lake_frog", "d7/da8/a22128.html#ac7c56b2a6443356523b468c05c36bc6c", null ],
+    [ "GetAI", "d7/da8/a22128.html#a9730da684a81fced304f10b2806c10e5", null ]
 ];

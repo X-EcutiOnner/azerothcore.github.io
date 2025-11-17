@@ -1,6 +1,5 @@
 var a27828 =
 [
-    [ "npc_guardianAI", "df/dd6/a27832.html", "df/dd6/a27832" ],
-    [ "npc_guardian", "d1/dbe/a27828.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
-    [ "GetAI", "d1/dbe/a27828.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
+    [ "npc_pet_trainerAI", "d1/dbe/a27828.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
+    [ "sGossipSelect", "d1/dbe/a27828.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
 ];

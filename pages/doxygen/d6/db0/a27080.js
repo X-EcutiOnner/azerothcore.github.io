@@ -1,7 +1,7 @@
 var a27080 =
 [
-    [ "HandleRemove", "d6/db0/a27080.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
-    [ "PrepareAuraScript", "d6/db0/a27080.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
-    [ "Register", "d6/db0/a27080.html#a338ee9c0eddd309ce2a791160059bad6", null ],
-    [ "Validate", "d6/db0/a27080.html#ae8272b65a070fc959af003f701567c3c", null ]
+    [ "HandleApply", "d6/db0/a27080.html#a046abc4b8afd26d13bcb7140165aed80", null ],
+    [ "HandleRemove", "d6/db0/a27080.html#ad35716d4210572057fe67d426849931a", null ],
+    [ "PrepareAuraScript", "d6/db0/a27080.html#a9af96871b8b7ac19de01e316f4350ebf", null ],
+    [ "Register", "d6/db0/a27080.html#a37c4c881c563882fb72693babe545fc4", null ]
 ];

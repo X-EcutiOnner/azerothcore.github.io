@@ -1,9 +1,9 @@
 var a24196 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "d9/de7/a24196.html#a273d585416dc92d39d5ec3824c08504d", null ],
-    [ "IsSummonedBy", "d9/de7/a24196.html#a5f002d36c492ed2caf2290f4a073a7d0", null ],
-    [ "Reset", "d9/de7/a24196.html#a06fa50580efeab8d847a05f20956d175", null ],
-    [ "UpdateAI", "d9/de7/a24196.html#a8261a259cfbee0d3610ee441406fafcd", null ],
-    [ "playerGuid", "d9/de7/a24196.html#aab717dd49284c483759a6223dbd7e6ea", null ],
-    [ "timer", "d9/de7/a24196.html#afba1b71178c563a3db906057cd20de45", null ]
+    [ "npc_wounded_blood_elfAI", "d9/de7/a24196.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
+    [ "JustEngagedWith", "d9/de7/a24196.html#aba950ba77ff71508263cc54b28c7725b", null ],
+    [ "JustSummoned", "d9/de7/a24196.html#aa97f5294981c44b530efca1411458a97", null ],
+    [ "Reset", "d9/de7/a24196.html#a8e6be35a3079998f3bab829f5d963c71", null ],
+    [ "sQuestAccept", "d9/de7/a24196.html#a56c157928c24daae6edacd5a126ef171", null ],
+    [ "WaypointReached", "d9/de7/a24196.html#a5affcb00e28a582f8926ab2226001cd0", null ]
 ];

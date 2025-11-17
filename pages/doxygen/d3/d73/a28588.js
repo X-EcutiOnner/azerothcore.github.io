@@ -1,8 +1,5 @@
 var a28588 =
 [
-    [ "ClassMask", "d3/d73/a28588.html#a563ba1618ffefa5470696e37f65c70d4", null ],
-    [ "Flags", "d3/d73/a28588.html#af89c32a22f018557fe016e0784a82384", null ],
-    [ "RaceMask", "d3/d73/a28588.html#acff47bf5c075d669f95b0d229674f9bc", null ],
-    [ "SkillID", "d3/d73/a28588.html#ab9237a8776aa854e0f81cf228a247ef0", null ],
-    [ "SkillTierID", "d3/d73/a28588.html#ab6153043461b71336e12b00957499075", null ]
+    [ "ID", "d3/d73/a28588.html#a0272b3c1130508a2681035c91ee416e6", null ],
+    [ "SpellID", "d3/d73/a28588.html#a231d22a763ddcd9f1fbdab81521dcf67", null ]
 ];

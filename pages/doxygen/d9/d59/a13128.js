@@ -1,8 +1,6 @@
 var a13128 =
 [
-    [ "npc_dkc1_gothikAI", "d9/d59/a13128.html#a35e65bd943f86ba3a1d6841569289df6", null ],
-    [ "DoAction", "d9/d59/a13128.html#a3193c562973bbf995ab5e0173a93d01f", null ],
-    [ "MoveInLineOfSight", "d9/d59/a13128.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
-    [ "UpdateAI", "d9/d59/a13128.html#a346d32c9831babe6fb5f675b70b7a897", null ],
-    [ "spoken", "d9/d59/a13128.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
+    [ "npc_unworthy_initiateAI", "d8/d61/a13132.html", "d8/d61/a13132" ],
+    [ "npc_unworthy_initiate", "d9/d59/a13128.html#aaa04626b783eadc0b14bd89aa715e694", null ],
+    [ "GetAI", "d9/d59/a13128.html#a0912cc56cb2082b2de086cbd9b914b4a", null ]
 ];

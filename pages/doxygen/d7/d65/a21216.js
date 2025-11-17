@@ -1,11 +1,6 @@
 var a21216 =
 [
-    [ "npc_ulduar_storm_tempered_keeperAI", "d7/d65/a21216.html#a97ffe70fab090c7182b2a8dce3c7c54f", null ],
-    [ "JustDied", "d7/d65/a21216.html#a4778b4c1d7afedc4c8ea3a0b2c2509e1", null ],
-    [ "JustEngagedWith", "d7/d65/a21216.html#a5ae632ba4da1e78dfa6980fce492ec8e", null ],
-    [ "JustSummoned", "d7/d65/a21216.html#a7962e2148fb55d96cde4e2fed48e71f4", null ],
-    [ "Reset", "d7/d65/a21216.html#a521fd2c3f8fb1319daaecfb203d9ebb8", null ],
-    [ "UpdateAI", "d7/d65/a21216.html#a9d5bc84572934b4fba19d2996e1c89f0", null ],
-    [ "events", "d7/d65/a21216.html#a0281fd23155c73768a09f60b3a04ce9d", null ],
-    [ "otherGUID", "d7/d65/a21216.html#a627aa7ff4ffe264d4ea3e78469954170", null ]
+    [ "HandleEffectPeriodic", "d7/d65/a21216.html#a3dd6eaa3e5800b92e19c12e47b0ad132", null ],
+    [ "PrepareAuraScript", "d7/d65/a21216.html#a0b24e94cfce6b57d2dc8b36c3fe1c39f", null ],
+    [ "Register", "d7/d65/a21216.html#a4dd779cac93c2f847495dadc67c0beb2", null ]
 ];

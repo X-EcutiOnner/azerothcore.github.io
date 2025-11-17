@@ -1,6 +1,5 @@
 var a22588 =
 [
-    [ "CheckCast", "df/d0a/a22588.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
-    [ "PrepareSpellScript", "df/d0a/a22588.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
-    [ "Register", "df/d0a/a22588.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
+    [ "go_finklestein_cauldron", "df/d0a/a22588.html#a8aa352319c54526069588dacd75ab883", null ],
+    [ "OnGossipHello", "df/d0a/a22588.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
 ];
