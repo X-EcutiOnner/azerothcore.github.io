@@ -1,6 +1,9 @@
 var a24520 =
 [
-    [ "npc_pet_dk_army_of_the_dead", "de/d6b/a24520.html#a835f24d7b1b0b70d6345f66a8960e9cf", null ],
-    [ "InitializeAI", "de/d6b/a24520.html#add16c667f3e614f9d6ceebbe17cf0515", null ],
-    [ "IsSummonedBy", "de/d6b/a24520.html#a4f1acbbccd68c83a7c3ea14b26a56305", null ]
+    [ "npc_pet_gen_soul_trader_beacon", "de/d6b/a24520.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
+    [ "GetOwner", "de/d6b/a24520.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
+    [ "SpellHitTarget", "de/d6b/a24520.html#a6c0d3181b913c5022325f66586f66bfa", null ],
+    [ "UpdateAI", "de/d6b/a24520.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
+    [ "events", "de/d6b/a24520.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
+    [ "ownerGUID", "de/d6b/a24520.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
 ];

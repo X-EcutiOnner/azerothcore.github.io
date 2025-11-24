@@ -1,6 +1,6 @@
 var a22276 =
 [
-    [ "npc_infra_green_bomber_genericAI", "d4/d30/a22280.html", "d4/d30/a22280" ],
-    [ "npc_infra_green_bomber_generic", "d3/de9/a22276.html#a39134a09376c35f15e99377cd28ac6ff", null ],
-    [ "GetAI", "d3/de9/a22276.html#ad21ce86a9c88f2ee77acb1d130fd4696", null ]
+    [ "npc_guardian_pavilionAI", "d4/d30/a22280.html", "d4/d30/a22280" ],
+    [ "npc_guardian_pavilion", "d3/de9/a22276.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "d3/de9/a22276.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

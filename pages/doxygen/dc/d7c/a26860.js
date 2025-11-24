@@ -1,8 +1,9 @@
 var a26860 =
 [
-    [ "ApplyDebuff", "dc/d7c/a26860.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
-    [ "PrepareSpellScript", "dc/d7c/a26860.html#aa37525d089348f58e3d871830caa3417", null ],
-    [ "Register", "dc/d7c/a26860.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
-    [ "RemoveInvalidTargets", "dc/d7c/a26860.html#a0451b75aa962065a01a5806992e01b16", null ],
-    [ "Validate", "dc/d7c/a26860.html#ac69d777fdf7a2d3c527621dee256690c", null ]
+    [ "CalculateAmount", "dc/d7c/a26860.html#a55d778b049e26c28bfa9d2e08d7920a8", null ],
+    [ "CheckProc", "dc/d7c/a26860.html#aa0144f9a0260a74010ced913dd8cadbd", null ],
+    [ "HandleProc", "dc/d7c/a26860.html#a741570ba77f70d90b437198f63e565f3", null ],
+    [ "PrepareAuraScript", "dc/d7c/a26860.html#af4e49e2362994f247c119c16c013e4b3", null ],
+    [ "Register", "dc/d7c/a26860.html#a06a3c11618cbdf15427bbaa6ac8a4273", null ],
+    [ "Validate", "dc/d7c/a26860.html#a939d6815bcaee9b9d2b062313aac912a", null ]
 ];

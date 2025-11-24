@@ -1,6 +1,6 @@
 var a24628 =
 [
-    [ "PrepareSpellScript", "d8/dc3/a24628.html#a2585b06bbebf291d170df58daf6fdd4e", null ],
-    [ "RecalculateDamage", "d8/dc3/a24628.html#a1fe9f9d4892b0ca8cb6699b555fb9268", null ],
-    [ "Register", "d8/dc3/a24628.html#a834484683d2d782b4f4c027091108172", null ]
+    [ "HandleAfterCast", "d8/dc3/a24628.html#aaa65e67362ded5318e89272acf073bf3", null ],
+    [ "PrepareSpellScript", "d8/dc3/a24628.html#a7d0dd936965845c14e7b54846facdb89", null ],
+    [ "Register", "d8/dc3/a24628.html#ab7b767743d62d9763bea710b7552a8cf", null ]
 ];

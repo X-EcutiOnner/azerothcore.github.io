@@ -1,8 +1,9 @@
 var a28620 =
 [
-    [ "Color", "d4/d1c/a28620.html#a670fb4e2a31958f81d46047f74d9916f", null ],
-    [ "Comparator", "d4/d1c/a28620.html#ace0bdad11edd9db12e45d374da623793", null ],
-    [ "CompareColor", "d4/d1c/a28620.html#a801e2221bbb1b6aab67a57381901cf08", null ],
-    [ "ID", "d4/d1c/a28620.html#aae73769db40326d298bb1d04eef38871", null ],
-    [ "Value", "d4/d1c/a28620.html#ac314a9a6b447d386e31a286811f66538", null ]
+    [ "Category", "d4/d1c/a28620.html#acd933f251a1faa1f705420307136681d", null ],
+    [ "Faction", "d4/d1c/a28620.html#a4876df0f9a92e10634b7bc0b389ade00", null ],
+    [ "Flags", "d4/d1c/a28620.html#a8b41ed573eae71196664a61bac83fe3e", null ],
+    [ "Id", "d4/d1c/a28620.html#ae0b89d5ae5f82b4f807a2f8dbbec351a", null ],
+    [ "Slot", "d4/d1c/a28620.html#a24449c3e3fd89ae3dbe4be3f64248115", null ],
+    [ "Type", "d4/d1c/a28620.html#aa1cbad19aaa973e21fdbd74cec5119f6", null ]
 ];

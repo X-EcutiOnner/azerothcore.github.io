@@ -1,5 +1,7 @@
 var a23604 =
 [
-    [ "instance_the_underbog_InstanceMapScript", "d0/d81/a23604.html#ae7668c7c4432b74caa3ea46a7c7364e3", null ],
-    [ "Initialize", "d0/d81/a23604.html#a9c7c10020eef3db4794283c0f946d086", null ]
+    [ "CalcPeriodic", "d0/d81/a23604.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
+    [ "PrepareAuraScript", "d0/d81/a23604.html#a290913502dfe3dfb42b44a964468b97c", null ],
+    [ "Register", "d0/d81/a23604.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
+    [ "Update", "d0/d81/a23604.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
 ];

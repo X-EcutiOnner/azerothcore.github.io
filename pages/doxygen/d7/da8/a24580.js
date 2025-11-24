@@ -1,4 +1,6 @@
 var a24580 =
 [
-    [ "npc_pet_gen_moth", "d7/da8/a24580.html#a527b48528cce28f6b468af170e5ae45f", null ]
+    [ "DeathEvent", "d7/da8/a24580.html#a2fb9a98c077d715c4648aede6597276e", null ],
+    [ "Execute", "d7/da8/a24580.html#a497ac46ab1acf95816020fc6be8ce03a", null ],
+    [ "_owner", "d7/da8/a24580.html#a099d0d5ae50126f00220b3ed90907617", null ]
 ];

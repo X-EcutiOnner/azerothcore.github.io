@@ -1,7 +1,6 @@
 var a25056 =
 [
-    [ "HandleApply", "d4/d0a/a25056.html#a75f7fc139cf72aeaa2cc09ba30a8f119", null ],
-    [ "HandlePeriodicTimer", "d4/d0a/a25056.html#ae9f438dd0833b2ad214acef0e558a8be", null ],
-    [ "PrepareAuraScript", "d4/d0a/a25056.html#ac2040d944e47a4f1cc7721ead44aca77", null ],
-    [ "Register", "d4/d0a/a25056.html#abc9eb056267c7effcc7f68a3ad7891da", null ]
+    [ "PrepareAuraScript", "d4/d0a/a25056.html#a8a60db6939ba71ddcf723fb4e48b3146", null ],
+    [ "Register", "d4/d0a/a25056.html#a8ab913cf84f55428d2b0615172f3da3b", null ],
+    [ "AuraEffectHandleModes", "d4/d0a/a25056.html#aed1cfe63d82450b526e154678fb97ac4", null ]
 ];

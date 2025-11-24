@@ -1,6 +1,6 @@
 var a22596 =
 [
-    [ "npc_drakuru_shacklesAI", "d7/d40/a22600.html", "d7/d40/a22600" ],
-    [ "npc_drakuru_shackles", "d4/dd5/a22596.html#a2b15a214b34d86597cba09b17654e4ff", null ],
-    [ "GetAI", "d4/dd5/a22596.html#a90ce98de4630771858cd3b79264a28f9", null ]
+    [ "npc_captured_rageclawAI", "d4/dd5/a22596.html#a5bb483a323330b0895f87c5381d73314", null ],
+    [ "Reset", "d4/dd5/a22596.html#a9cde0a0e5015334ec8dcd277fcd99dc3", null ],
+    [ "SpellHit", "d4/dd5/a22596.html#a2c63911d27435a2271a7c89d9d88318c", null ]
 ];

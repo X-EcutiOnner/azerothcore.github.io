@@ -976,6 +976,8 @@ var a00155 =
       [ "LANG_CMD_GO_RESPAWN", "d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aad7d1d0de0aadf7858bee24e7b05b7f83", null ],
       [ "LANG_CMD_NO_DOOR_FOUND", "d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aa043e9c373a2391949116c52d621550f3", null ],
       [ "LANG_CMD_DOOR_OPENED", "d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aa1a9f840291cb9cc203fdf208148d9912", null ],
+      [ "LANG_CMD_QUEST_STATUS", "d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aad48cc0e9043d89dbd24f865ab8617111", null ],
+      [ "LANG_CMD_QUEST_UNAVAILABLE", "d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aa91f116c844c20137752f7a6d78bc7580", null ],
       [ "LANG_SAY_REQ", "d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aa0503f1ca01b026b8943707355f0b14fc", null ],
       [ "LANG_WHISPER_REQ", "d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aa72dd19ad51f3f0d5c9510a9f88737711", null ],
       [ "LANG_CHANNEL_REQ", "d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aaf887daa22cef6c1615b7c92fe4b7b34e", null ],

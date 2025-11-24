@@ -1,6 +1,6 @@
 var a22192 =
 [
-    [ "npc_plaguehound_trackerAI", "db/db7/a22192.html#a7530f500b42ad9bb38593193d3113da8", null ],
-    [ "Reset", "db/db7/a22192.html#a05c351ab3aca0cd18209405075bb0f47", null ],
-    [ "WaypointReached", "db/db7/a22192.html#a67c345f49572cde76d9109a1baff6788", null ]
+    [ "npc_black_knight_graveyardAI", "dd/d50/a22196.html", "dd/d50/a22196" ],
+    [ "npc_black_knight_graveyard", "db/db7/a22192.html#a2ce61ba254916f1f8b7a7658f96b67d5", null ],
+    [ "GetAI", "db/db7/a22192.html#aab382cd1b7561c0db9c9f4c81247e540", null ]
 ];

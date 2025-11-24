@@ -1,7 +1,12 @@
 var a23104 =
 [
-    [ "HandleEffectRemove", "d6/d9d/a23104.html#a6adc572bb13dde9b83a44a1c27833019", null ],
-    [ "PrepareAuraScript", "d6/d9d/a23104.html#a877c26735531508d1806273117f3e8bc", null ],
-    [ "Register", "d6/d9d/a23104.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5", null ],
-    [ "Validate", "d6/d9d/a23104.html#a8c45ba806d865f7b9d56950013bdd81c", null ]
+    [ "npc_creature_generator_akama", "d6/d9d/a23104.html#a8e91cadea7f135ff692635e4d39923e0", null ],
+    [ "DoAction", "d6/d9d/a23104.html#a01efeecd374056da287e4a1e468472b6", null ],
+    [ "JustSummoned", "d6/d9d/a23104.html#af58d7b130ed3b6c209c08ae14444bfe3", null ],
+    [ "Reset", "d6/d9d/a23104.html#a23cf08661802f247147bb23cff30eeab", null ],
+    [ "SummonedCreatureDies", "d6/d9d/a23104.html#a35b7ecfa659d80a869868b9a2732d92b", null ],
+    [ "UpdateAI", "d6/d9d/a23104.html#a8c6e3ca67691e7625700f22c5b1c09c5", null ],
+    [ "instance", "d6/d9d/a23104.html#a109aea7bb0747f8572c1d46e9df2d2a5", null ],
+    [ "spawnCounter", "d6/d9d/a23104.html#a02d8acace195438fe6e8d4705a043078", null ],
+    [ "summons", "d6/d9d/a23104.html#a3d532e607c48298ca0464ee630dd27b3", null ]
 ];

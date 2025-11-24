@@ -1,10 +1,8 @@
 var a22084 =
 [
-    [ "npc_emilyAI", "da/db8/a22084.html#afd1e82e36c8850fbe118ab6abbdb73ce", null ],
-    [ "JustEngagedWith", "da/db8/a22084.html#a498ddc6969d398fe7a44824f4f8c8893", null ],
-    [ "JustSummoned", "da/db8/a22084.html#a4730c94b54d2ee5160011557704b35f2", null ],
-    [ "Reset", "da/db8/a22084.html#a8f196a6e1b21bef162b7ba4d7aeae208", null ],
-    [ "WaypointReached", "da/db8/a22084.html#a0a68676a6eac8fbe2b634098268eb516", null ],
-    [ "_mrfloppyGUID", "da/db8/a22084.html#a12a1fbe1ef4767698ab969e51e2f0e8e", null ],
-    [ "_RavenousworgGUID", "da/db8/a22084.html#aa2a5e45366be9f89221453e00179e1a3", null ]
+    [ "npc_ravenous_worgAI", "da/db8/a22084.html#a5404516869e171c84b774f2a7b8be15d", null ],
+    [ "AttackStart", "da/db8/a22084.html#a593d218d8cb083a7e37f81d3952c6d4c", null ],
+    [ "UpdateAI", "da/db8/a22084.html#aeb64d5bde5ef9d8c2a62662bb72d3049", null ],
+    [ "_attack", "da/db8/a22084.html#a3df5c98821ba33a40e25e7b050858b96", null ],
+    [ "_pacified", "da/db8/a22084.html#a0da1f59a6fc9cdf39c9cced1eb52acba", null ]
 ];

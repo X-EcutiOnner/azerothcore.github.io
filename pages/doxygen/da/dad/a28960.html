@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: std::hash&lt; std::pair&lt; uint32_t, uint32_t &gt; &gt; Struct Reference</title>
+<title>AzerothCore: MMAP::Config::TileOverride Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,48 +105,87 @@ $(document).ready(function(){initNavTree('da/dad/a28960.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d4/d40/a28957.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">std::hash&lt; std::pair&lt; uint32_t, uint32_t &gt; &gt; Struct Reference</div></div>
+  <div class="headertitle"><div class="title">MMAP::Config::TileOverride Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">Config.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a478bd4c6485a8a9ce0e8b1f7ca6ce771"><td class="memItemLeft" align="right" valign="top">std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dad/a28960.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771">operator()</a> (const std::pair&lt; uint32_t, uint32_t &gt; &amp;p) const noexcept</td></tr>
-<tr class="separator:a478bd4c6485a8a9ce0e8b1f7ca6ce771"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a9b880e84fa1d07e414e9a9a62a20969c"><td class="memItemLeft" align="right" valign="top">std::optional&lt; float &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dad/a28960.html#a9b880e84fa1d07e414e9a9a62a20969c">walkableSlopeAngle</a></td></tr>
+<tr class="separator:a9b880e84fa1d07e414e9a9a62a20969c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6e708a591e7b5597e129a653e1379a1e"><td class="memItemLeft" align="right" valign="top">std::optional&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dad/a28960.html#a6e708a591e7b5597e129a653e1379a1e">walkableRadius</a></td></tr>
+<tr class="separator:a6e708a591e7b5597e129a653e1379a1e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a32f39a07562c47be0a311d7959678044"><td class="memItemLeft" align="right" valign="top">std::optional&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dad/a28960.html#a32f39a07562c47be0a311d7959678044">walkableHeight</a></td></tr>
+<tr class="separator:a32f39a07562c47be0a311d7959678044"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af8d2e9bccb8f6bbb36065e686ea39626"><td class="memItemLeft" align="right" valign="top">std::optional&lt; int &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../da/dad/a28960.html#af8d2e9bccb8f6bbb36065e686ea39626">walkableClimb</a></td></tr>
+<tr class="separator:af8d2e9bccb8f6bbb36065e686ea39626"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a478bd4c6485a8a9ce0e8b1f7ca6ce771" name="a478bd4c6485a8a9ce0e8b1f7ca6ce771"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a478bd4c6485a8a9ce0e8b1f7ca6ce771">&#9670;&#160;</a></span>operator()()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="af8d2e9bccb8f6bbb36065e686ea39626" name="af8d2e9bccb8f6bbb36065e686ea39626"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af8d2e9bccb8f6bbb36065e686ea39626">&#9670;&#160;</a></span>walkableClimb</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::size_t std::hash&lt; std::pair&lt; uint32_t, uint32_t &gt; &gt;::operator() </td>
-          <td>(</td>
-          <td class="paramtype">const std::pair&lt; uint32_t, uint32_t &gt; &amp;&#160;</td>
-          <td class="paramname"><em>p</em></td><td>)</td>
-          <td> const</td>
+          <td class="memname">std::optional&lt;int&gt; MMAP::Config::TileOverride::walkableClimb</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">noexcept</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   36</span>        {</div>
-<div class="line"><span class="lineno">   37</span>            <span class="keywordflow">return</span> std::hash&lt;uint64_t&gt;()((<span class="keyword">static_cast&lt;</span>uint64_t<span class="keyword">&gt;</span>(p.first) &lt;&lt; 32) | p.second);</div>
-<div class="line"><span class="lineno">   38</span>        }</div>
-</div><!-- fragment -->
+
+<p class="reference">Referenced by <a class="el" href="../../#l00075">MMAP::Config::GetConfigForTile()</a>, and <a class="el" href="../../#l00158">MMAP::Config::LoadConfig()</a>.</p>
+
+</div>
+</div>
+<a id="a32f39a07562c47be0a311d7959678044" name="a32f39a07562c47be0a311d7959678044"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a32f39a07562c47be0a311d7959678044">&#9670;&#160;</a></span>walkableHeight</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::optional&lt;int&gt; MMAP::Config::TileOverride::walkableHeight</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00075">MMAP::Config::GetConfigForTile()</a>, and <a class="el" href="../../#l00158">MMAP::Config::LoadConfig()</a>.</p>
+
+</div>
+</div>
+<a id="a6e708a591e7b5597e129a653e1379a1e" name="a6e708a591e7b5597e129a653e1379a1e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6e708a591e7b5597e129a653e1379a1e">&#9670;&#160;</a></span>walkableRadius</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::optional&lt;int&gt; MMAP::Config::TileOverride::walkableRadius</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00075">MMAP::Config::GetConfigForTile()</a>, and <a class="el" href="../../#l00158">MMAP::Config::LoadConfig()</a>.</p>
+
+</div>
+</div>
+<a id="a9b880e84fa1d07e414e9a9a62a20969c" name="a9b880e84fa1d07e414e9a9a62a20969c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9b880e84fa1d07e414e9a9a62a20969c">&#9670;&#160;</a></span>walkableSlopeAngle</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::optional&lt;float&gt; MMAP::Config::TileOverride::walkableSlopeAngle</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00075">MMAP::Config::GetConfigForTile()</a>, and <a class="el" href="../../#l00158">MMAP::Config::LoadConfig()</a>.</p>
+
 </div>
 </div>
 </div><!-- contents -->
@@ -154,8 +193,8 @@ Public Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../df/d9f/a04849.html">std</a></li><li class="navelem"><a class="el" href="../../da/dad/a28960.html">hash&lt; std::pair&lt; uint32_t, uint32_t &gt; &gt;</a></li>
-    <li class="footer">Generated on Mon Nov 17 2025 20:46:51 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d8/d95/a04811.html">MMAP</a></li><li class="navelem"><a class="el" href="../../d5/dc2/a28956.html">Config</a></li><li class="navelem"><a class="el" href="../../da/dad/a28960.html">TileOverride</a></li>
+    <li class="footer">Generated on Mon Nov 24 2025 20:47:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

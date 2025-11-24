@@ -1,6 +1,6 @@
 var a25792 =
 [
-    [ "HandleProc", "df/d93/a25792.html#a9a38fab6b581e9f9b4e092d7a4ecaebd", null ],
-    [ "PrepareAuraScript", "df/d93/a25792.html#a5299aaeacead013e00e81ec7960528f8", null ],
-    [ "Register", "df/d93/a25792.html#a3b46c5dd891d856e08cbcb9a494f2dd2", null ]
+    [ "HandlePeriodicTick", "df/d93/a25792.html#a1bd15727da421fdbfc3a60136bfa9bc9", null ],
+    [ "PrepareAuraScript", "df/d93/a25792.html#a1c4f592511c8886d0b9a5e64eb19cda7", null ],
+    [ "Register", "df/d93/a25792.html#ac019a52a6f62f1251d20efcfadba1e78", null ]
 ];

@@ -1,16 +1,8 @@
 var a24540 =
 [
-    [ "npc_pet_gen_argent_pony_bridle", "da/db3/a24540.html#a9df25627a92b8914ab8009be099f15d4", null ],
-    [ "DoAction", "da/db3/a24540.html#a4c08ed385886a118c165925602b1dff7", null ],
-    [ "EnterEvadeMode", "da/db3/a24540.html#a897e72a4bf279607903bce58a5a45c6f", null ],
-    [ "GetData", "da/db3/a24540.html#a862546ec66d8282c87169305711e4ec7", null ],
-    [ "OnGossipHello", "da/db3/a24540.html#a35cfcfd3418295bcb1140d1b8b8266ab", null ],
-    [ "OnGossipSelect", "da/db3/a24540.html#a36f15c2c0ec3466b492148303e828403", null ],
-    [ "Reset", "da/db3/a24540.html#a4d885f00ea1b6b97270d41f2583bd0dc", null ],
-    [ "UpdateAI", "da/db3/a24540.html#a1172dbd471ee8f05f25ff77dc222a61d", null ],
-    [ "_banners", "da/db3/a24540.html#aeda5ce6c8f4f37ce7a4630c06586cde1", null ],
-    [ "_init", "da/db3/a24540.html#a8a7dd73d9d3af5ca00998735e45ee7e8", null ],
-    [ "_lastAura", "da/db3/a24540.html#a4abeb86eb0179a77d47d737d67495411", null ],
-    [ "_mountTimer", "da/db3/a24540.html#a38253b6d1e1f7fb8fc3fdccb2522a090", null ],
-    [ "_state", "da/db3/a24540.html#ae57f97ca9a08353e8ec8ebfadbd51541", null ]
+    [ "npc_pet_gen_valkyr_guardian", "da/db3/a24540.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "da/db3/a24540.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "da/db3/a24540.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "da/db3/a24540.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "da/db3/a24540.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

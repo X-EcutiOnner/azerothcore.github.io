@@ -1,14 +1,16 @@
 var a24328 =
 [
-    [ "npc_mature_netherwing_drakeAI", "d6/de3/a24328.html#a32281f8dfa1c8af8fe6bcac2a8be4220", null ],
-    [ "JustReachedHome", "d6/de3/a24328.html#a0de69b5fda6342217697ad264d64d4e6", null ],
-    [ "MovementInform", "d6/de3/a24328.html#a456b5de60672120f82506d177faf6b47", null ],
-    [ "Reset", "d6/de3/a24328.html#a72eb39e259aed0ab230d4d43722cba13", null ],
-    [ "SpellHit", "d6/de3/a24328.html#a749690b386c0c726d11b77bc705b9b01", null ],
-    [ "UpdateAI", "d6/de3/a24328.html#a624c256f29d3cefed0bb909da3841853", null ],
-    [ "bCanEat", "d6/de3/a24328.html#ad4c671be4f16f23ddf2f2f84b0bd4c94", null ],
-    [ "bIsEating", "d6/de3/a24328.html#a0519438fda724a06a0c6f8ed2d7d533d", null ],
-    [ "CastTimer", "d6/de3/a24328.html#a630312f70a2f22683311a66e5a4f9ec6", null ],
-    [ "EatTimer", "d6/de3/a24328.html#aa50d3a21103dc769d162b1c917100630", null ],
-    [ "uiPlayerGUID", "d6/de3/a24328.html#a6b9a435245ddce156d0657aa9e35175b", null ]
+    [ "npc_dragonmaw_peonAI", "d6/de3/a24328.html#a6f1255fead5357001ec85fdaa6980249", null ],
+    [ "CreditPlayer", "d6/de3/a24328.html#a5cf28e156cab2e2066bb94bc99233a2b", null ],
+    [ "JustEngagedWith", "d6/de3/a24328.html#abd5b37793aa2fb150c808b7dc7270763", null ],
+    [ "MovementInform", "d6/de3/a24328.html#a0ee4038f90d54c75c48b2448dacb5724", null ],
+    [ "Reset", "d6/de3/a24328.html#a9d876ec76b51f743c71e67749c21d939", null ],
+    [ "SpellHit", "d6/de3/a24328.html#abe5162608ba0acd7360a630562ff5935", null ],
+    [ "UpdateAI", "d6/de3/a24328.html#a98a045606d9e689ef25a5068b81b1ebf", null ],
+    [ "events", "d6/de3/a24328.html#a7d6fb37d1953630aa79f8665eca0db61", null ],
+    [ "PlayerGUID", "d6/de3/a24328.html#ad6838d98e34a32cbed42c77cdf096070", null ],
+    [ "Tapped", "d6/de3/a24328.html#ae393f8d3cb47f38a4c4314a262826d03", null ],
+    [ "x", "d6/de3/a24328.html#acebbfa8da88d8d683ba5ea6463f6b5f7", null ],
+    [ "y", "d6/de3/a24328.html#ae5a1d416c712803ec0b80ae7ccf29e2d", null ],
+    [ "z", "d6/de3/a24328.html#a7722420716c030b5abe7b760199df14d", null ]
 ];

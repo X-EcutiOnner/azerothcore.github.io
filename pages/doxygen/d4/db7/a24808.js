@@ -1,11 +1,7 @@
 var a24808 =
 [
-    [ "CalcPeriodic", "d4/db7/a24808.html#a8dfb6d67b57e4ff0bd15e49c36d4ec2d", null ],
-    [ "CalculateAPAmount", "d4/db7/a24808.html#ab23f26c3470f629f0a20f28faf272a68", null ],
-    [ "CalculateHealthAmount", "d4/db7/a24808.html#a4f827a906ac279e143ba8545545090ad", null ],
-    [ "CalculateSPAmount", "d4/db7/a24808.html#ae94493ffed217a218e21c05e002cec00", null ],
-    [ "HandleEffectApply", "d4/db7/a24808.html#acaa3bd6385b05101cad38d4f0738b9d8", null ],
-    [ "HandlePeriodic", "d4/db7/a24808.html#ac5a656d4fa474b1d0c82af7613bcac10", null ],
-    [ "PrepareAuraScript", "d4/db7/a24808.html#a5052689d815e0a0543693b39b7454deb", null ],
-    [ "Register", "d4/db7/a24808.html#a3226edbe6b24a827f2ef28ccfb815b7a", null ]
+    [ "AfterApply", "d4/db7/a24808.html#aee69eceead7e31cce2638ff252f6653d", null ],
+    [ "AfterRemove", "d4/db7/a24808.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
+    [ "PrepareAuraScript", "d4/db7/a24808.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
+    [ "Register", "d4/db7/a24808.html#ab5f8afbfa688ebd548a5508543498b55", null ]
 ];

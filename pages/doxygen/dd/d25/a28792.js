@@ -1,12 +1,8 @@
 var a28792 =
 [
-    [ "TestVisibilityScript", "dd/d25/a28792.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
-    [ "EnsureRegistered", "dd/d25/a28792.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
-    [ "OnPlayerSetServerSideVisibility", "dd/d25/a28792.html#a6b3701188303b644b28a52ec42bec846", null ],
-    [ "Reset", "dd/d25/a28792.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
-    [ "CallCount", "dd/d25/a28792.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
-    [ "Instance", "dd/d25/a28792.html#adcf0326aa1e32db109ec920857868138", null ],
-    [ "LastPlayer", "dd/d25/a28792.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
-    [ "LastSecurity", "dd/d25/a28792.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
-    [ "LastType", "dd/d25/a28792.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
+    [ "prepareLoadedData", "dd/d25/a28792.html#a696cfebd8fe66840b316919519e9b319", null ],
+    [ "fcc", "dd/d25/a28792.html#a83cb69fb9eb6eff82a513c75301e5bf6", null ],
+    [ "fcc_txt", "dd/d25/a28792.html#a9c7e27f948978d771115ca4f88f70b5d", null ],
+    [ "height_map", "dd/d25/a28792.html#a50a7fa80b59ba9c0fcd8d93bd924a13f", null ],
+    [ "size", "dd/d25/a28792.html#add2809c6e520cf4aa43807d61f973f0e", null ]
 ];

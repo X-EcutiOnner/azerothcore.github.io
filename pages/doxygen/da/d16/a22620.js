@@ -1,6 +1,8 @@
 var a22620 =
 [
-    [ "npc_crusade_recruitAI", "d6/d38/a22624.html", "d6/d38/a22624" ],
-    [ "npc_crusade_recruit", "da/d16/a22620.html#a6e130f153c506255ef5ece1baf006028", null ],
-    [ "GetAI", "da/d16/a22620.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
+    [ "HandleApply", "da/d16/a22620.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
+    [ "HandleRemove", "da/d16/a22620.html#a06c7c65d973fcf348f5c929503902520", null ],
+    [ "PrepareAuraScript", "da/d16/a22620.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
+    [ "Register", "da/d16/a22620.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
+    [ "Validate", "da/d16/a22620.html#a8135c492638557eec71189282e7f78a2", null ]
 ];

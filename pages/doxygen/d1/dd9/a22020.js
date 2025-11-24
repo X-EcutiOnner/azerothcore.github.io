@@ -1,6 +1,6 @@
 var a22020 =
 [
-    [ "npc_q24545_vegard_dummyAI", "d1/dd9/a22020.html#ad354ccbe97b12f8df1186de4bf52bfcc", null ],
-    [ "UpdateAI", "d1/dd9/a22020.html#aa31baac9ce3c4c951f93917b88390797", null ],
-    [ "done", "d1/dd9/a22020.html#a0208fbae8e6c46d0671107530279c50c", null ]
+    [ "npc_spiritual_insightAI", "d1/dd9/a22020.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
+    [ "GetSpeachId", "d1/dd9/a22020.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
+    [ "IsSummonedBy", "d1/dd9/a22020.html#ab6b39190d1195915ea0b4b191d864da6", null ]
 ];

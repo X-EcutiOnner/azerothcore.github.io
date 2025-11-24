@@ -1,6 +1,6 @@
 var a27428 =
 [
-    [ "go_flamesAI", "d5/db2/a27428.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
-    [ "UpdateAI", "d5/db2/a27428.html#a2d4c91f0bff924335881d1096c0af313", null ],
-    [ "timer", "d5/db2/a27428.html#ae53c7c6c669e982babf304f173b58b1a", null ]
+    [ "go_bear_trapAI", "d4/de3/a27432.html", "d4/de3/a27432" ],
+    [ "go_bear_trap", "d5/db2/a27428.html#a6301aa23009ac2599fc37b81bb3a0750", null ],
+    [ "GetAI", "d5/db2/a27428.html#afb882fd4cc2e4379bb8d5afff210a679", null ]
 ];

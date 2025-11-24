@@ -161,8 +161,6 @@ var a03167 =
       [ "PHASE_GLOB", "dc/d0a/a02345.html#a5d32d09cde4f13ec4fb05a824d3e3219a5c62cc125907a273eb107e2a0ea9f1ee", null ],
       [ "PHASE_NORMAL", "da/de8/a02657.html#a5d32d09cde4f13ec4fb05a824d3e3219aac28c2a834c630f24ae2654b4ea97ed1", null ],
       [ "PHASE_RITUAL", "da/de8/a02657.html#a5d32d09cde4f13ec4fb05a824d3e3219ab709784d41aa06eb2763097e8800526d", null ],
-      [ "PHASE_EMERGED", "d2/d80/a02645.html#a5d32d09cde4f13ec4fb05a824d3e3219a747023f604d5515a94aae6662fa3705a", null ],
-      [ "PHASE_SUBMERGED", "d2/d80/a02645.html#a5d32d09cde4f13ec4fb05a824d3e3219ab24cfad33b2b4c6e4b3d9e7a93328727", null ],
       [ "PHASE_INTRO_A", "d5/d43/a03101.html#a5d32d09cde4f13ec4fb05a824d3e3219a71a9f3502920635df082cf530d423f72", null ],
       [ "PHASE_INTRO_H", "d5/d43/a03101.html#a5d32d09cde4f13ec4fb05a824d3e3219afa3a85c9c539d8bfddb12c95d15949a8", null ],
       [ "PHASE_COMBAT", "d5/d43/a03101.html#a5d32d09cde4f13ec4fb05a824d3e3219addfe924b2f0ce0eceb2a811186f83825", null ],

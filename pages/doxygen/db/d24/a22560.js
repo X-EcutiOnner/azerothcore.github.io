@@ -1,6 +1,5 @@
 var a22560 =
 [
-    [ "HandlePeriodicDummy", "db/d24/a22560.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "db/d24/a22560.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "db/d24/a22560.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "achievement_wg_vehicular_gnomeslaughter", "db/d24/a22560.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
+    [ "OnCheck", "db/d24/a22560.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
 ];

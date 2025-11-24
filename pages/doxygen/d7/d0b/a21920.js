@@ -1,6 +1,6 @@
 var a21920 =
 [
-    [ "npc_future_youAI", "d4/db5/a21924.html", "d4/db5/a21924" ],
-    [ "npc_future_you", "d7/d0b/a21920.html#a36e363156bcb32fee468989062817bd5", null ],
-    [ "GetAI", "d7/d0b/a21920.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d4/db5/a21924.html", "d4/db5/a21924" ],
+    [ "npc_injured_7th_legion_soldier", "d7/d0b/a21920.html#a9d3c647f485dbca5efeec8f784efba1b", null ],
+    [ "GetAI", "d7/d0b/a21920.html#a0feca7aedcf3c07253d4d402266189cc", null ]
 ];

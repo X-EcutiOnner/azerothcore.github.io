@@ -1,9 +1,7 @@
 var a23024 =
 [
-    [ "boss_mother_shahraz", "d1/d32/a23024.html#adba94363f74975301472d79f24894df8", null ],
-    [ "JustDied", "d1/d32/a23024.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
-    [ "JustEngagedWith", "d1/d32/a23024.html#a021c702e7eff266308fee8a4220a6ec7", null ],
-    [ "KilledUnit", "d1/d32/a23024.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
-    [ "Reset", "d1/d32/a23024.html#ab9e4162ac92e786b84b6497c37251386", null ],
-    [ "_canTalk", "d1/d32/a23024.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
+    [ "CheckProc", "d1/d32/a23024.html#a0968b7b32f2d2bef6035e030f544088a", null ],
+    [ "PrepareAuraScript", "d1/d32/a23024.html#ac424e41948196a6e60b790ebcf40783f", null ],
+    [ "Register", "d1/d32/a23024.html#a06bdac68e36b43ee534e937ffd974086", null ],
+    [ "Update", "d1/d32/a23024.html#af6c228840f6af96e353ba964fdd01e54", null ]
 ];

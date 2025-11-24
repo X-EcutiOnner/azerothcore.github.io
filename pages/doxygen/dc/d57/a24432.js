@@ -1,6 +1,5 @@
 var a24432 =
 [
-    [ "npc_zephyr", "dc/d57/a24432.html#a3bad7bf2bd3b193960f1f53cd7d8349d", null ],
-    [ "OnGossipHello", "dc/d57/a24432.html#a31e132e80a19bb6e63787fcdf7ffd466", null ],
-    [ "OnGossipSelect", "dc/d57/a24432.html#a9b1f5a0d4ba24e65dda521bc94574ad8", null ]
+    [ "npc_shattrath_daily_quest", "dc/d57/a24432.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "dc/d57/a24432.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

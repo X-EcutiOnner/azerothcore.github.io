@@ -1,6 +1,6 @@
 var a27796 =
 [
-    [ "npc_guardianAI", "de/d96/a27800.html", "de/d96/a27800" ],
-    [ "npc_guardian", "db/dd0/a27796.html#aa614e73ae6a6c128c323ac275652dbf1", null ],
-    [ "GetAI", "db/dd0/a27796.html#a3e65ccc70be9d25b2d8563c23146ef4f", null ]
+    [ "npc_steam_tonkAI", "de/d96/a27800.html", "de/d96/a27800" ],
+    [ "npc_steam_tonk", "db/dd0/a27796.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
+    [ "GetAI", "db/dd0/a27796.html#a38e51485a3610a204a45677fce15c943", null ]
 ];

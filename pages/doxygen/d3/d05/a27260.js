@@ -1,5 +1,7 @@
 var a27260 =
 [
-    [ "achievement_flirt_with_disaster_perf_check", "d3/d05/a27260.html#a8cb843ed26248ceff594ef552b0ae9ae", null ],
-    [ "OnCheck", "d3/d05/a27260.html#a15e620be2f37f930477ba94293dbaf63", null ]
+    [ "CharacterDeleteActionIpLogger", "d3/d05/a27260.html#a37481de65409cf375dcff45615463949", null ],
+    [ "DeleteIPLogAction", "d3/d05/a27260.html#a73a5ddacd8892d2300be313cfc12f534", null ],
+    [ "OnPlayerDelete", "d3/d05/a27260.html#adb16e45e425fa816b2572692349d0005", null ],
+    [ "OnPlayerFailedDelete", "d3/d05/a27260.html#a16bc6247d220c1b6c52808cb4a522c11", null ]
 ];

@@ -752,10 +752,10 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  311</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d2/d81/a10232.html#a7e372ec4a72e0ac134278868e8064fe9">GetRewHonorAddition</a>() &gt; 0 || <a class="code hl_function" href="../../d2/d81/a10232.html#a7b29e769ae395f8de78b955f4aa2b38d">GetRewHonorMultiplier</a>() &gt; 0.0f)</div>
 <div class="line"><span class="lineno">  312</span>    {</div>
 <div class="line"><span class="lineno">  313</span>        <span class="comment">// values stored from 0.. for 1...</span></div>
-<div class="line"><span class="lineno">  314</span>        <a class="code hl_struct" href="../../d1/dad/a28656.html">TeamContributionPointsEntry</a> <span class="keyword">const</span>* tc = <a class="code hl_variable" href="../../dc/dbf/a01595.html#abf0ec5a70cc97a27dafdf32aa7709545">sTeamContributionPointsStore</a>.LookupEntry(level);</div>
+<div class="line"><span class="lineno">  314</span>        <a class="code hl_struct" href="../../dd/dec/a28644.html">TeamContributionPointsEntry</a> <span class="keyword">const</span>* tc = <a class="code hl_variable" href="../../dc/dbf/a01595.html#abf0ec5a70cc97a27dafdf32aa7709545">sTeamContributionPointsStore</a>.LookupEntry(level);</div>
 <div class="line"><span class="lineno">  315</span>        <span class="keywordflow">if</span> (!tc)</div>
 <div class="line"><span class="lineno">  316</span>            <span class="keywordflow">return</span> 0;</div>
-<div class="line"><span class="lineno">  317</span>        honor = <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(tc-&gt;<a class="code hl_variable" href="../../d1/dad/a28656.html#a30d3b489f743df8aa828b6e5bb847ea2">value</a> * <a class="code hl_function" href="../../d2/d81/a10232.html#a7b29e769ae395f8de78b955f4aa2b38d">GetRewHonorMultiplier</a>() * 0.1000000014901161);</div>
+<div class="line"><span class="lineno">  317</span>        honor = <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(tc-&gt;<a class="code hl_variable" href="../../dd/dec/a28644.html#a30d3b489f743df8aa828b6e5bb847ea2">value</a> * <a class="code hl_function" href="../../d2/d81/a10232.html#a7b29e769ae395f8de78b955f4aa2b38d">GetRewHonorMultiplier</a>() * 0.1000000014901161);</div>
 <div class="line"><span class="lineno">  318</span> </div>
 <div class="line"><span class="lineno">  319</span>        <span class="comment">// Xinef: exactly this is calculated above, however with higher precision...</span></div>
 <div class="line"><span class="lineno">  320</span>        <span class="comment">//honor += Acore::Honor::hk_honor_at_level(level, GetRewHonorMultiplier());</span></div>
@@ -768,12 +768,12 @@ Friends</h2></td></tr>
 <div class="ttc" id="aa04163_html_a7f11f6829a2ed728bfc49ad3b2f932ca"><div class="ttname"><a href="../../d1/d56/a04163.html#a7f11f6829a2ed728bfc49ad3b2f932ca">GT_MAX_LEVEL</a></div><div class="ttdeci">#define GT_MAX_LEVEL</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1037</div></div>
 <div class="ttc" id="aa10232_html_a7b29e769ae395f8de78b955f4aa2b38d"><div class="ttname"><a href="../../d2/d81/a10232.html#a7b29e769ae395f8de78b955f4aa2b38d">Quest::GetRewHonorMultiplier</a></div><div class="ttdeci">float GetRewHonorMultiplier() const</div><div class="ttdef"><b>Definition:</b> QuestDef.h:270</div></div>
 <div class="ttc" id="aa10232_html_a7e372ec4a72e0ac134278868e8064fe9"><div class="ttname"><a href="../../d2/d81/a10232.html#a7e372ec4a72e0ac134278868e8064fe9">Quest::GetRewHonorAddition</a></div><div class="ttdeci">uint32 GetRewHonorAddition() const</div><div class="ttdef"><b>Definition:</b> QuestDef.h:269</div></div>
-<div class="ttc" id="aa28656_html"><div class="ttname"><a href="../../d1/dad/a28656.html">TeamContributionPointsEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1989</div></div>
-<div class="ttc" id="aa28656_html_a30d3b489f743df8aa828b6e5bb847ea2"><div class="ttname"><a href="../../d1/dad/a28656.html#a30d3b489f743df8aa828b6e5bb847ea2">TeamContributionPointsEntry::value</a></div><div class="ttdeci">float value</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1991</div></div>
+<div class="ttc" id="aa28644_html"><div class="ttname"><a href="../../dd/dec/a28644.html">TeamContributionPointsEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1989</div></div>
+<div class="ttc" id="aa28644_html_a30d3b489f743df8aa828b6e5bb847ea2"><div class="ttname"><a href="../../dd/dec/a28644.html#a30d3b489f743df8aa828b6e5bb847ea2">TeamContributionPointsEntry::value</a></div><div class="ttdeci">float value</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1991</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00269">GetRewHonorAddition()</a>, <a class="el" href="../../#l00270">GetRewHonorMultiplier()</a>, <a class="el" href="../../#l01037">GT_MAX_LEVEL</a>, <a class="el" href="../../dc/dbf/a01595.html#abf0ec5a70cc97a27dafdf32aa7709545">sTeamContributionPointsStore</a>, and <a class="el" href="../../#l01991">TeamContributionPointsEntry::value</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, and <a class="el" href="../../#l02357">Player::SendQuestReward()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, and <a class="el" href="../../#l02357">Player::SendQuestReward()</a>.</p>
 
 </div>
 </div>
@@ -1013,7 +1013,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00341">_eventIdForQuest</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01311">Player::SatisfyQuestSeasonal()</a>, and <a class="el" href="../../#l12136">Player::SetSeasonalQuestStatus()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01311">Player::SatisfyQuestSeasonal()</a>, and <a class="el" href="../../#l12138">Player::SetSeasonalQuestStatus()</a>.</p>
 
 </div>
 </div>
@@ -1317,7 +1317,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00360">RequiredPlayerKills</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l00217">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l02025">Player::KilledPlayerCreditForQuest()</a>, <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>, and <a class="el" href="../../#l02479">Player::SendQuestUpdateAddPlayer()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l00218">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l02025">Player::KilledPlayerCreditForQuest()</a>, <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>, and <a class="el" href="../../#l02479">Player::SendQuestUpdateAddPlayer()</a>.</p>
 
 </div>
 </div>
@@ -1498,7 +1498,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00345">Id</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00507">Player::AddQuest()</a>, <a class="el" href="../../#l00421">Player::AddQuestAndCheckCompletion()</a>, <a class="el" href="../../#l01764">Player::AdjustQuestReqItemCount()</a>, <a class="el" href="../../#l00385">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00237">Player::CanSeeStartQuest()</a>, <a class="el" href="../../#l00251">Player::CanTakeQuest()</a>, <a class="el" href="../../#l00595">npc_wg_quest_giver::GetDialogStatus()</a>, <a class="el" href="../../#l01595">Player::GetQuestDialogStatus()</a>, <a class="el" href="../../#l00436">go_commandscript::HandleGoQuestCommand()</a>, <a class="el" href="../../#l00048">quest_commandscript::HandleQuestAdd()</a>, <a class="el" href="../../#l00217">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l00127">quest_commandscript::HandleQuestRemove()</a>, <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l00183">LinkValidator&lt; LinkTags::quest &gt;::IsTextValid()</a>, <a class="el" href="../../#l00147">npc_escortAI::JustDied()</a>, <a class="el" href="../../#l00106">FollowerAI::JustDied()</a>, <a class="el" href="../../#l02025">Player::KilledPlayerCreditForQuest()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00037">Condition::Meets()</a>, <a class="el" href="../../#l00033">QuestApprenticeAnglerPlayerScript::OnPlayerCompleteQuest()</a>, <a class="el" href="../../#l01415">npc_cos_chromie_start::OnQuestAccept()</a>, <a class="el" href="../../#l01473">npc_cos_chromie_middle::OnQuestAccept()</a>, <a class="el" href="../../#l00726">npc_chicken_cluck::OnQuestAccept()</a>, <a class="el" href="../../#l00289">npc_steward_of_time::OnQuestAccept()</a>, <a class="el" href="../../#l00113">npc_kernobee::OnQuestAccept()</a>, <a class="el" href="../../#l00054">npc_daphne_stilwell::OnQuestAccept()</a>, <a class="el" href="../../#l00128">npc_mikhail::OnQuestAccept()</a>, <a class="el" href="../../#l00263">npc_kerlonian::OnQuestAccept()</a>, <a class="el" href="../../#l00395">npc_prospector_remtravel::OnQuestAccept()</a>, <a class="el" href="../../#l00415">npc_tooga::OnQuestAccept()</a>, <a class="el" href="../../#l00048">npc_gilthares::OnQuestAccept()</a>, <a class="el" href="../../#l00061">npc_lakota_windsong::OnQuestAccept()</a>, <a class="el" href="../../#l00146">npc_paoka_swiftmountain::OnQuestAccept()</a>, <a class="el" href="../../#l00170">npc_ringo::OnQuestAccept()</a>, <a class="el" href="../../#l00598">npc_engineer_helice::OnQuestAccept()</a>, <a class="el" href="../../#l00060">npc_maghar_captive::OnQuestAccept()</a>, <a class="el" href="../../#l00286">npc_kurenai_captive::OnQuestAccept()</a>, <a class="el" href="../../#l00768">npc_maxx_a_million_escort::OnQuestAccept()</a>, <a class="el" href="../../#l00054">npc_eris_hevenfire::OnQuestAccept()</a>, <a class="el" href="../../#l00107">npc_deathstalker_erland::OnQuestAccept()</a>, <a class="el" href="../../#l00446">npc_tyrion::OnQuestAccept()</a>, <a class="el" href="../../#l00061">npc_cork_gizelton::OnQuestAccept()</a>, <a class="el" href="../../#l00040">npc_shenthul::OnQuestAccept()</a>, <a class="el" href="../../#l00135">npc_kaya_flathoof::OnQuestAccept()</a>, <a class="el" href="../../#l00593">npc_wizzlecrank_shredder::OnQuestAccept()</a>, <a class="el" href="../../#l00047">npc_ame::OnQuestAccept()</a>, <a class="el" href="../../#l00281">npc_ranshalla::OnQuestAccept()</a>, <a class="el" href="../../#l00459">npc_lurgglbr::OnQuestAccept()</a>, <a class="el" href="../../#l00914">npc_mootoo_the_younger::OnQuestAccept()</a>, <a class="el" href="../../#l00997">npc_bonker_togglevolt::OnQuestAccept()</a>, <a class="el" href="../../#l00201">npc_emily::OnQuestAccept()</a>, <a class="el" href="../../#l00189">npc_apothecary_hanes::OnQuestAccept()</a>, <a class="el" href="../../#l00328">npc_battle_at_valhalas::OnQuestAccept()</a>, <a class="el" href="../../#l00177">npc_finklestein::OnQuestAccept()</a>, <a class="el" href="../../#l00601">npc_bessy::OnQuestAccept()</a>, <a class="el" href="../../#l00771">npc_karynaku::OnQuestAccept()</a>, <a class="el" href="../../#l00472">npc_isla_starmane::OnQuestAccept()</a>, <a class="el" href="../../#l01027">npc_doctor::OnQuestAccept()</a>, <a class="el" href="../../#l01375">go_crystal_prison::OnQuestAccept()</a>, <a class="el" href="../../#l00886">go_crystalline_tear::OnQuestAccept()</a>, <a class="el" href="../../#l00734">npc_chicken_cluck::OnQuestComplete()</a>, <a class="el" href="../../#l00026">npc_suns_reach_reclamation::OnQuestReward()</a>, <a class="el" href="../../#l00038">npc_sunwell_gate::OnQuestReward()</a>, <a class="el" href="../../#l00263">boss_apothecary_hummel::OnQuestReward()</a>, <a class="el" href="../../#l00585">npc_rocknot::OnQuestReward()</a>, <a class="el" href="../../#l00473">npc_king_varian_wrynn::OnQuestReward()</a>, <a class="el" href="../../#l02266">npc_thrall_bfu::OnQuestReward()</a>, <a class="el" href="../../#l00091">npc_lady_sylvanas_windrunner::OnQuestReward()</a>, <a class="el" href="../../#l00618">npc_tharnarian::OnQuestReward()</a>, <a class="el" href="../../#l00199">npc_thrall_warchief::OnQuestReward()</a>, <a class="el" href="../../#l00175">npc_elder_clearwater::OnQuestReward()</a>, <a class="el" href="../../#l00297">npc_riggle_bassbait::OnQuestReward()</a>, <a class="el" href="../../#l06611">Player::PrettyPrintRequirementsQuestList()</a>, <a class="el" href="../../#l01237">SmartGameObjectAI::QuestAccept()</a>, <a class="el" href="../../#l01244">SmartGameObjectAI::QuestReward()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l01159">Player::SatisfyQuestConditions()</a>, <a class="el" href="../../#l01268">Player::SatisfyQuestDay()</a>, <a class="el" href="../../#l01183">Player::SatisfyQuestExclusiveGroup()</a>, <a class="el" href="../../#l01326">Player::SatisfyQuestMonth()</a>, <a class="el" href="../../#l01311">Player::SatisfyQuestSeasonal()</a>, <a class="el" href="../../#l01148">Player::SatisfyQuestStatus()</a>, <a class="el" href="../../#l01302">Player::SatisfyQuestWeek()</a>, <a class="el" href="../../#l02413">Player::SendQuestConfirmAccept()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, <a class="el" href="../../#l00752">PlayerMenu::SendQuestGiverRequestItems()</a>, <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>, <a class="el" href="../../#l02357">Player::SendQuestReward()</a>, <a class="el" href="../../#l02456">Player::SendQuestUpdateAddCreatureOrGo()</a>, <a class="el" href="../../#l02479">Player::SendQuestUpdateAddPlayer()</a>, <a class="el" href="../../#l00113">npc_koltira_deathweaver::npc_koltira_deathweaverAI::sQuestAccept()</a>, <a class="el" href="../../#l00514">npc_costumed_orphan_matron::sQuestAccept()</a>, <a class="el" href="../../#l00121">npc_belnistrasz::npc_belnistraszAI::sQuestAccept()</a>, <a class="el" href="../../#l01045">SmartAI::sQuestAccept()</a>, <a class="el" href="../../#l00104">npc_professor_phizzlethorpe::npc_professor_phizzlethorpeAI::sQuestAccept()</a>, <a class="el" href="../../#l00111">npc_ranger_lilatha::sQuestAccept()</a>, <a class="el" href="../../#l00127">npc_rinji::npc_rinjiAI::sQuestAccept()</a>, <a class="el" href="../../#l00059">npc_corporal_keeshan::npc_corporal_keeshanAI::sQuestAccept()</a>, <a class="el" href="../../#l00172">npc_deathstalker_fearleia::sQuestAccept()</a>, <a class="el" href="../../#l00118">npc_muglash::npc_muglashAI::sQuestAccept()</a>, <a class="el" href="../../#l00240">npc_magwin::npc_magwinAI::sQuestAccept()</a>, <a class="el" href="../../#l00312">npc_wounded_blood_elf::npc_wounded_blood_elfAI::sQuestAccept()</a>, <a class="el" href="../../#l01050">SmartAI::sQuestReward()</a>, and <a class="el" href="../../#l00419">npc_escortAI::Start()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00507">Player::AddQuest()</a>, <a class="el" href="../../#l00421">Player::AddQuestAndCheckCompletion()</a>, <a class="el" href="../../#l01764">Player::AdjustQuestReqItemCount()</a>, <a class="el" href="../../#l00385">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00237">Player::CanSeeStartQuest()</a>, <a class="el" href="../../#l00251">Player::CanTakeQuest()</a>, <a class="el" href="../../#l00595">npc_wg_quest_giver::GetDialogStatus()</a>, <a class="el" href="../../#l01595">Player::GetQuestDialogStatus()</a>, <a class="el" href="../../#l00436">go_commandscript::HandleGoQuestCommand()</a>, <a class="el" href="../../#l00049">quest_commandscript::HandleQuestAdd()</a>, <a class="el" href="../../#l00218">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l00128">quest_commandscript::HandleQuestRemove()</a>, <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00729">quest_commandscript::HandleQuestStatus()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l00183">LinkValidator&lt; LinkTags::quest &gt;::IsTextValid()</a>, <a class="el" href="../../#l00147">npc_escortAI::JustDied()</a>, <a class="el" href="../../#l00106">FollowerAI::JustDied()</a>, <a class="el" href="../../#l02025">Player::KilledPlayerCreditForQuest()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00037">Condition::Meets()</a>, <a class="el" href="../../#l00033">QuestApprenticeAnglerPlayerScript::OnPlayerCompleteQuest()</a>, <a class="el" href="../../#l01415">npc_cos_chromie_start::OnQuestAccept()</a>, <a class="el" href="../../#l01473">npc_cos_chromie_middle::OnQuestAccept()</a>, <a class="el" href="../../#l00726">npc_chicken_cluck::OnQuestAccept()</a>, <a class="el" href="../../#l00289">npc_steward_of_time::OnQuestAccept()</a>, <a class="el" href="../../#l00113">npc_kernobee::OnQuestAccept()</a>, <a class="el" href="../../#l00054">npc_daphne_stilwell::OnQuestAccept()</a>, <a class="el" href="../../#l00128">npc_mikhail::OnQuestAccept()</a>, <a class="el" href="../../#l00263">npc_kerlonian::OnQuestAccept()</a>, <a class="el" href="../../#l00395">npc_prospector_remtravel::OnQuestAccept()</a>, <a class="el" href="../../#l00415">npc_tooga::OnQuestAccept()</a>, <a class="el" href="../../#l00048">npc_gilthares::OnQuestAccept()</a>, <a class="el" href="../../#l00061">npc_lakota_windsong::OnQuestAccept()</a>, <a class="el" href="../../#l00146">npc_paoka_swiftmountain::OnQuestAccept()</a>, <a class="el" href="../../#l00170">npc_ringo::OnQuestAccept()</a>, <a class="el" href="../../#l00598">npc_engineer_helice::OnQuestAccept()</a>, <a class="el" href="../../#l00060">npc_maghar_captive::OnQuestAccept()</a>, <a class="el" href="../../#l00286">npc_kurenai_captive::OnQuestAccept()</a>, <a class="el" href="../../#l00768">npc_maxx_a_million_escort::OnQuestAccept()</a>, <a class="el" href="../../#l00054">npc_eris_hevenfire::OnQuestAccept()</a>, <a class="el" href="../../#l00107">npc_deathstalker_erland::OnQuestAccept()</a>, <a class="el" href="../../#l00446">npc_tyrion::OnQuestAccept()</a>, <a class="el" href="../../#l00061">npc_cork_gizelton::OnQuestAccept()</a>, <a class="el" href="../../#l00040">npc_shenthul::OnQuestAccept()</a>, <a class="el" href="../../#l00135">npc_kaya_flathoof::OnQuestAccept()</a>, <a class="el" href="../../#l00593">npc_wizzlecrank_shredder::OnQuestAccept()</a>, <a class="el" href="../../#l00047">npc_ame::OnQuestAccept()</a>, <a class="el" href="../../#l00281">npc_ranshalla::OnQuestAccept()</a>, <a class="el" href="../../#l00459">npc_lurgglbr::OnQuestAccept()</a>, <a class="el" href="../../#l00727">npc_mootoo_the_younger::OnQuestAccept()</a>, <a class="el" href="../../#l00810">npc_bonker_togglevolt::OnQuestAccept()</a>, <a class="el" href="../../#l00201">npc_emily::OnQuestAccept()</a>, <a class="el" href="../../#l00189">npc_apothecary_hanes::OnQuestAccept()</a>, <a class="el" href="../../#l00328">npc_battle_at_valhalas::OnQuestAccept()</a>, <a class="el" href="../../#l00177">npc_finklestein::OnQuestAccept()</a>, <a class="el" href="../../#l00601">npc_bessy::OnQuestAccept()</a>, <a class="el" href="../../#l00771">npc_karynaku::OnQuestAccept()</a>, <a class="el" href="../../#l00472">npc_isla_starmane::OnQuestAccept()</a>, <a class="el" href="../../#l01027">npc_doctor::OnQuestAccept()</a>, <a class="el" href="../../#l01375">go_crystal_prison::OnQuestAccept()</a>, <a class="el" href="../../#l00886">go_crystalline_tear::OnQuestAccept()</a>, <a class="el" href="../../#l00734">npc_chicken_cluck::OnQuestComplete()</a>, <a class="el" href="../../#l00026">npc_suns_reach_reclamation::OnQuestReward()</a>, <a class="el" href="../../#l00038">npc_sunwell_gate::OnQuestReward()</a>, <a class="el" href="../../#l00263">boss_apothecary_hummel::OnQuestReward()</a>, <a class="el" href="../../#l00585">npc_rocknot::OnQuestReward()</a>, <a class="el" href="../../#l00473">npc_king_varian_wrynn::OnQuestReward()</a>, <a class="el" href="../../#l02266">npc_thrall_bfu::OnQuestReward()</a>, <a class="el" href="../../#l00091">npc_lady_sylvanas_windrunner::OnQuestReward()</a>, <a class="el" href="../../#l00618">npc_tharnarian::OnQuestReward()</a>, <a class="el" href="../../#l00199">npc_thrall_warchief::OnQuestReward()</a>, <a class="el" href="../../#l00175">npc_elder_clearwater::OnQuestReward()</a>, <a class="el" href="../../#l00297">npc_riggle_bassbait::OnQuestReward()</a>, <a class="el" href="../../#l06611">Player::PrettyPrintRequirementsQuestList()</a>, <a class="el" href="../../#l01237">SmartGameObjectAI::QuestAccept()</a>, <a class="el" href="../../#l01244">SmartGameObjectAI::QuestReward()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l01159">Player::SatisfyQuestConditions()</a>, <a class="el" href="../../#l01268">Player::SatisfyQuestDay()</a>, <a class="el" href="../../#l01183">Player::SatisfyQuestExclusiveGroup()</a>, <a class="el" href="../../#l01326">Player::SatisfyQuestMonth()</a>, <a class="el" href="../../#l01311">Player::SatisfyQuestSeasonal()</a>, <a class="el" href="../../#l01148">Player::SatisfyQuestStatus()</a>, <a class="el" href="../../#l01302">Player::SatisfyQuestWeek()</a>, <a class="el" href="../../#l02413">Player::SendQuestConfirmAccept()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, <a class="el" href="../../#l00752">PlayerMenu::SendQuestGiverRequestItems()</a>, <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>, <a class="el" href="../../#l02357">Player::SendQuestReward()</a>, <a class="el" href="../../#l02456">Player::SendQuestUpdateAddCreatureOrGo()</a>, <a class="el" href="../../#l02479">Player::SendQuestUpdateAddPlayer()</a>, <a class="el" href="../../#l00113">npc_koltira_deathweaver::npc_koltira_deathweaverAI::sQuestAccept()</a>, <a class="el" href="../../#l00514">npc_costumed_orphan_matron::sQuestAccept()</a>, <a class="el" href="../../#l00121">npc_belnistrasz::npc_belnistraszAI::sQuestAccept()</a>, <a class="el" href="../../#l01045">SmartAI::sQuestAccept()</a>, <a class="el" href="../../#l00104">npc_professor_phizzlethorpe::npc_professor_phizzlethorpeAI::sQuestAccept()</a>, <a class="el" href="../../#l00111">npc_ranger_lilatha::sQuestAccept()</a>, <a class="el" href="../../#l00127">npc_rinji::npc_rinjiAI::sQuestAccept()</a>, <a class="el" href="../../#l00059">npc_corporal_keeshan::npc_corporal_keeshanAI::sQuestAccept()</a>, <a class="el" href="../../#l00172">npc_deathstalker_fearleia::sQuestAccept()</a>, <a class="el" href="../../#l00118">npc_muglash::npc_muglashAI::sQuestAccept()</a>, <a class="el" href="../../#l00240">npc_magwin::npc_magwinAI::sQuestAccept()</a>, <a class="el" href="../../#l00312">npc_wounded_blood_elf::npc_wounded_blood_elfAI::sQuestAccept()</a>, <a class="el" href="../../#l01050">SmartAI::sQuestReward()</a>, and <a class="el" href="../../#l00419">npc_escortAI::Start()</a>.</p>
 
 </div>
 </div>
@@ -1588,7 +1588,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00352">RequiredFactionId1</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00507">Player::AddQuest()</a>, <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l00217">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00507">Player::AddQuest()</a>, <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l00218">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
 
 </div>
 </div>
@@ -1618,7 +1618,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00354">RequiredFactionId2</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00507">Player::AddQuest()</a>, <a class="el" href="../../#l00217">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l01117">Player::SatisfyQuestReputation()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00507">Player::AddQuest()</a>, <a class="el" href="../../#l00218">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l01117">Player::SatisfyQuestReputation()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
 
 </div>
 </div>
@@ -1648,7 +1648,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00353">RequiredFactionValue1</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l00217">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l00218">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
 
 </div>
 </div>
@@ -1678,7 +1678,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00355">RequiredFactionValue2</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00217">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l01117">Player::SatisfyQuestReputation()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00218">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l01117">Player::SatisfyQuestReputation()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
 
 </div>
 </div>
@@ -2014,7 +2014,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00362">RewardArenaPoints</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>, and <a class="el" href="../../#l02357">Player::SendQuestReward()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>, and <a class="el" href="../../#l02357">Player::SendQuestReward()</a>.</p>
 
 </div>
 </div>
@@ -2044,7 +2044,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00338">_rewChoiceItemsCount</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00468">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, and <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00468">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, and <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>.</p>
 
 </div>
 </div>
@@ -2134,7 +2134,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00339">_rewItemsCount</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00468">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00151">WorldSession::HandleLfgPlayerLockInfoRequestOpcode()</a>, <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00471">WorldSession::SendLfgPlayerReward()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, and <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00468">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00151">WorldSession::HandleLfgPlayerLockInfoRequestOpcode()</a>, <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00471">WorldSession::SendLfgPlayerReward()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, and <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>.</p>
 
 </div>
 </div>
@@ -2165,7 +2165,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00394">RewardMailDelay</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, and <a class="el" href="../../#l00659">Player::RewardQuest()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, and <a class="el" href="../../#l00659">Player::RewardQuest()</a>.</p>
 
 </div>
 </div>
@@ -2196,7 +2196,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00402">RewardMailSenderEntry</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, and <a class="el" href="../../#l00659">Player::RewardQuest()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, and <a class="el" href="../../#l00659">Player::RewardQuest()</a>.</p>
 
 </div>
 </div>
@@ -2227,7 +2227,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00393">RewardMailTemplateId</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, and <a class="el" href="../../#l00659">Player::RewardQuest()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, and <a class="el" href="../../#l00659">Player::RewardQuest()</a>.</p>
 
 </div>
 </div>
@@ -2264,7 +2264,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00189">CONFIG_MAX_PLAYER_LEVEL</a>, <a class="el" href="../../#l00262">COPPER</a>, <a class="el" href="../../#l00221">HasFlag()</a>, <a class="el" href="../../#l00140">QUEST_FLAGS_NO_MONEY_FROM_XP</a>, <a class="el" href="../../#l00425">RATE_REWARD_BONUS_MONEY</a>, <a class="el" href="../../#l00316">sWorld</a>, and <a class="el" href="../../#l00198">XPValue()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>, and <a class="el" href="../../#l02357">Player::SendQuestReward()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>, and <a class="el" href="../../#l02357">Player::SendQuestReward()</a>.</p>
 
 </div>
 </div>
@@ -2305,7 +2305,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00424">RATE_REWARD_QUEST_MONEY</a>, <a class="el" href="../../#l00375">RewardMoney</a>, <a class="el" href="../../#l00376">RewardMoneyDifficulty</a>, <a class="el" href="../../#l01650">sObjectMgr</a>, and <a class="el" href="../../#l00316">sWorld</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l00385">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00151">WorldSession::HandleLfgPlayerLockInfoRequestOpcode()</a>, <a class="el" href="../../#l00217">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00471">WorldSession::SendLfgPlayerReward()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, <a class="el" href="../../#l00752">PlayerMenu::SendQuestGiverRequestItems()</a>, <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>, and <a class="el" href="../../#l02357">Player::SendQuestReward()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l00385">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00151">WorldSession::HandleLfgPlayerLockInfoRequestOpcode()</a>, <a class="el" href="../../#l00218">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00471">WorldSession::SendLfgPlayerReward()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, <a class="el" href="../../#l00752">PlayerMenu::SendQuestGiverRequestItems()</a>, <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>, and <a class="el" href="../../#l02357">Player::SendQuestReward()</a>.</p>
 
 </div>
 </div>
@@ -2365,7 +2365,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00378">RewardSpell</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l11957">Player::learnQuestRewardedSpells()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l11959">Player::learnQuestRewardedSpells()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
 
 </div>
 </div>
@@ -2545,7 +2545,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00366">Title</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00048">quest_commandscript::HandleQuestAdd()</a>, <a class="el" href="../../#l00217">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l00127">quest_commandscript::HandleQuestRemove()</a>, <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l00183">LinkValidator&lt; LinkTags::quest &gt;::IsTextValid()</a>, <a class="el" href="../../#l06611">Player::PrettyPrintRequirementsQuestList()</a>, <a class="el" href="../../#l02413">Player::SendQuestConfirmAccept()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, <a class="el" href="../../#l00752">PlayerMenu::SendQuestGiverRequestItems()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00049">quest_commandscript::HandleQuestAdd()</a>, <a class="el" href="../../#l00218">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l00128">quest_commandscript::HandleQuestRemove()</a>, <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00729">quest_commandscript::HandleQuestStatus()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l00183">LinkValidator&lt; LinkTags::quest &gt;::IsTextValid()</a>, <a class="el" href="../../#l06611">Player::PrettyPrintRequirementsQuestList()</a>, <a class="el" href="../../#l02413">Player::SendQuestConfirmAccept()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, <a class="el" href="../../#l00752">PlayerMenu::SendQuestGiverRequestItems()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
 
 </div>
 </div>
@@ -2666,7 +2666,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00358">Flags</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00507">Player::AddQuest()</a>, <a class="el" href="../../#l01458">Player::CanShareQuest()</a>, <a class="el" href="../../#l00598">Player::CompleteQuest()</a>, <a class="el" href="../../#l05059">Spell::EffectQuestClear()</a>, <a class="el" href="../../#l00257">GetRewMoneyMaxLevel()</a>, <a class="el" href="../../#l00217">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l00127">quest_commandscript::HandleQuestRemove()</a>, <a class="el" href="../../#l02495">Player::HasPvPForcingQuest()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l00269">IsAutoAccept()</a>, <a class="el" href="../../#l00274">IsAutoComplete()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00507">Player::AddQuest()</a>, <a class="el" href="../../#l01458">Player::CanShareQuest()</a>, <a class="el" href="../../#l00598">Player::CompleteQuest()</a>, <a class="el" href="../../#l05076">Spell::EffectQuestClear()</a>, <a class="el" href="../../#l00257">GetRewMoneyMaxLevel()</a>, <a class="el" href="../../#l00218">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l00128">quest_commandscript::HandleQuestRemove()</a>, <a class="el" href="../../#l02495">Player::HasPvPForcingQuest()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l00269">IsAutoAccept()</a>, <a class="el" href="../../#l00274">IsAutoComplete()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
 
 </div>
 </div>
@@ -2698,7 +2698,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00403">SpecialFlags</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00507">Player::AddQuest()</a>, <a class="el" href="../../#l01764">Player::AdjustQuestReqItemCount()</a>, <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l00366">Player::CanCompleteRepeatableQuest()</a>, <a class="el" href="../../#l00385">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00217">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l01835">Player::ItemAddedQuestCheck()</a>, <a class="el" href="../../#l01874">Player::ItemRemovedQuestCheck()</a>, <a class="el" href="../../#l02056">Player::KillCreditGO()</a>, <a class="el" href="../../#l01927">Player::KilledMonsterCredit()</a>, <a class="el" href="../../#l01995">Player::KilledPlayerCredit()</a>, <a class="el" href="../../#l06432">ObjectMgr::LoadQuestAreaTriggers()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l05428">ObjectMgr::LoadScripts()</a>, <a class="el" href="../../#l05996">Player::RewardReputation()</a>, <a class="el" href="../../#l01172">Player::SatisfyQuestTimed()</a>, <a class="el" href="../../#l02112">Player::TalkedToCreature()</a>, and <a class="el" href="../../#l00817">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00507">Player::AddQuest()</a>, <a class="el" href="../../#l01764">Player::AdjustQuestReqItemCount()</a>, <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l00366">Player::CanCompleteRepeatableQuest()</a>, <a class="el" href="../../#l00385">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00218">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l01835">Player::ItemAddedQuestCheck()</a>, <a class="el" href="../../#l01874">Player::ItemRemovedQuestCheck()</a>, <a class="el" href="../../#l02056">Player::KillCreditGO()</a>, <a class="el" href="../../#l01927">Player::KilledMonsterCredit()</a>, <a class="el" href="../../#l01995">Player::KilledPlayerCredit()</a>, <a class="el" href="../../#l06432">ObjectMgr::LoadQuestAreaTriggers()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l05428">ObjectMgr::LoadScripts()</a>, <a class="el" href="../../#l05998">Player::RewardReputation()</a>, <a class="el" href="../../#l01172">Player::SatisfyQuestTimed()</a>, <a class="el" href="../../#l02112">Player::TalkedToCreature()</a>, and <a class="el" href="../../#l00817">AchievementMgr::UpdateAchievementCriteria()</a>.</p>
 
 </div>
 </div>
@@ -2886,7 +2886,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00055">CONFIG_QUEST_IGNORE_RAID</a>, <a class="el" href="../../#l00279">IsRaidQuest()</a>, and <a class="el" href="../../#l00316">sWorld</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l12380">Player::HasQuestForGO()</a>, <a class="el" href="../../#l02264">Player::HasQuestForItem()</a>, <a class="el" href="../../#l01927">Player::KilledMonsterCredit()</a>, and <a class="el" href="../../#l01995">Player::KilledPlayerCredit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l12382">Player::HasQuestForGO()</a>, <a class="el" href="../../#l02264">Player::HasQuestForItem()</a>, <a class="el" href="../../#l01927">Player::KilledMonsterCredit()</a>, and <a class="el" href="../../#l01995">Player::KilledPlayerCredit()</a>.</p>
 
 </div>
 </div>
@@ -2965,7 +2965,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00358">Flags</a>, and <a class="el" href="../../#l00144">QUEST_FLAGS_DAILY</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00595">npc_wg_quest_giver::GetDialogStatus()</a>, <a class="el" href="../../#l01595">Player::GetQuestDialogStatus()</a>, <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00039">Player::PrepareQuestMenu()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l05996">Player::RewardReputation()</a>, and <a class="el" href="../../#l01268">Player::SatisfyQuestDay()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00595">npc_wg_quest_giver::GetDialogStatus()</a>, <a class="el" href="../../#l01595">Player::GetQuestDialogStatus()</a>, <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00039">Player::PrepareQuestMenu()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l05998">Player::RewardReputation()</a>, and <a class="el" href="../../#l01268">Player::SatisfyQuestDay()</a>.</p>
 
 </div>
 </div>
@@ -3027,7 +3027,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00163">QUEST_SPECIAL_FLAGS_DF_QUEST</a>, and <a class="el" href="../../#l00403">SpecialFlags</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01402">Player::CalculateQuestRewardXP()</a>, <a class="el" href="../../#l00385">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, and <a class="el" href="../../#l01268">Player::SatisfyQuestDay()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01402">Player::CalculateQuestRewardXP()</a>, <a class="el" href="../../#l00385">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, and <a class="el" href="../../#l01268">Player::SatisfyQuestDay()</a>.</p>
 
 </div>
 </div>
@@ -3058,7 +3058,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00164">QUEST_SPECIAL_FLAGS_MONTHLY</a>, and <a class="el" href="../../#l00403">SpecialFlags</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01595">Player::GetQuestDialogStatus()</a>, <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00039">Player::PrepareQuestMenu()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l05996">Player::RewardReputation()</a>, and <a class="el" href="../../#l01326">Player::SatisfyQuestMonth()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01595">Player::GetQuestDialogStatus()</a>, <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00039">Player::PrepareQuestMenu()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l05998">Player::RewardReputation()</a>, and <a class="el" href="../../#l01326">Player::SatisfyQuestMonth()</a>.</p>
 
 </div>
 </div>
@@ -3161,7 +3161,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00160">QUEST_SPECIAL_FLAGS_REPEATABLE</a>, and <a class="el" href="../../#l00403">SpecialFlags</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l00595">npc_wg_quest_giver::GetDialogStatus()</a>, <a class="el" href="../../#l01595">Player::GetQuestDialogStatus()</a>, <a class="el" href="../../#l01415">Player::GetQuestRewardStatus()</a>, <a class="el" href="../../#l00290">IsSeasonal()</a>, <a class="el" href="../../#l00039">Player::PrepareQuestMenu()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l05996">Player::RewardReputation()</a>, and <a class="el" href="../../#l01183">Player::SatisfyQuestExclusiveGroup()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l00595">npc_wg_quest_giver::GetDialogStatus()</a>, <a class="el" href="../../#l01595">Player::GetQuestDialogStatus()</a>, <a class="el" href="../../#l01415">Player::GetQuestRewardStatus()</a>, <a class="el" href="../../#l00290">IsSeasonal()</a>, <a class="el" href="../../#l00039">Player::PrepareQuestMenu()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l05998">Player::RewardReputation()</a>, and <a class="el" href="../../#l01183">Player::SatisfyQuestExclusiveGroup()</a>.</p>
 
 </div>
 </div>
@@ -3199,7 +3199,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00283">IsRepeatable()</a>, <a class="el" href="../../#l03075">QUEST_SORT_BREWFEST</a>, <a class="el" href="../../#l03081">QUEST_SORT_LOVE_IS_IN_THE_AIR</a>, <a class="el" href="../../#l03071">QUEST_SORT_LUNAR_FESTIVAL</a>, <a class="el" href="../../#l03074">QUEST_SORT_MIDSUMMER</a>, <a class="el" href="../../#l03079">QUEST_SORT_NOBLEGARDEN</a>, <a class="el" href="../../#l03043">QUEST_SORT_SEASONAL</a>, <a class="el" href="../../#l03065">QUEST_SORT_SPECIAL</a>, and <a class="el" href="../../#l00347">ZoneOrSort</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l01415">Player::GetQuestRewardStatus()</a>, <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l01183">Player::SatisfyQuestExclusiveGroup()</a>, <a class="el" href="../../#l00999">Player::SatisfyQuestPreviousQuest()</a>, and <a class="el" href="../../#l01311">Player::SatisfyQuestSeasonal()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l01415">Player::GetQuestRewardStatus()</a>, <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l01183">Player::SatisfyQuestExclusiveGroup()</a>, <a class="el" href="../../#l00999">Player::SatisfyQuestPreviousQuest()</a>, and <a class="el" href="../../#l01311">Player::SatisfyQuestSeasonal()</a>.</p>
 
 </div>
 </div>
@@ -3229,7 +3229,7 @@ Friends</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00358">Flags</a>, and <a class="el" href="../../#l00147">QUEST_FLAGS_WEEKLY</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01595">Player::GetQuestDialogStatus()</a>, <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00039">Player::PrepareQuestMenu()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l05996">Player::RewardReputation()</a>, <a class="el" href="../../#l01302">Player::SatisfyQuestWeek()</a>, and <a class="el" href="../../#l00365">npc_archmage_landalock::npc_archmage_landalockAI::UpdateAI()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01595">Player::GetQuestDialogStatus()</a>, <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00039">Player::PrepareQuestMenu()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l05998">Player::RewardReputation()</a>, <a class="el" href="../../#l01302">Player::SatisfyQuestWeek()</a>, and <a class="el" href="../../#l00365">npc_archmage_landalock::npc_archmage_landalockAI::UpdateAI()</a>.</p>
 
 </div>
 </div>
@@ -3465,7 +3465,7 @@ Friends</h2></td></tr>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  199</span>{</div>
 <div class="line"><span class="lineno">  200</span>    <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> quest_level = (<a class="code hl_variable" href="../../d2/d81/a10232.html#a0070c98e09ae2c18fcdcc89541a41570">Level</a> == -1 ? playerLevel : <a class="code hl_variable" href="../../d2/d81/a10232.html#a0070c98e09ae2c18fcdcc89541a41570">Level</a>);</div>
-<div class="line"><span class="lineno">  201</span>    <span class="keyword">const</span> <a class="code hl_struct" href="../../de/d77/a28536.html">QuestXPEntry</a>* xpentry = <a class="code hl_variable" href="../../dc/dbf/a01595.html#ab186aaf86f47c3d401ff156d44951914">sQuestXPStore</a>.LookupEntry(quest_level);</div>
+<div class="line"><span class="lineno">  201</span>    <span class="keyword">const</span> <a class="code hl_struct" href="../../da/dce/a28524.html">QuestXPEntry</a>* xpentry = <a class="code hl_variable" href="../../dc/dbf/a01595.html#ab186aaf86f47c3d401ff156d44951914">sQuestXPStore</a>.LookupEntry(quest_level);</div>
 <div class="line"><span class="lineno">  202</span>    <span class="keywordflow">if</span> (!xpentry)</div>
 <div class="line"><span class="lineno">  203</span>    {</div>
 <div class="line"><span class="lineno">  204</span>        <span class="keywordflow">return</span> 0;</div>
@@ -3481,7 +3481,7 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  214</span>        diffFactor = 10;</div>
 <div class="line"><span class="lineno">  215</span>    }</div>
 <div class="line"><span class="lineno">  216</span> </div>
-<div class="line"><span class="lineno">  217</span>    <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> xp = diffFactor * xpentry-&gt;<a class="code hl_variable" href="../../de/d77/a28536.html#aa34490babd6ccdc45857947db3f36d60">Exp</a>[<a class="code hl_variable" href="../../d2/d81/a10232.html#a5fa5770255800c3a746fea48bdda6c80">RewardXPDifficulty</a>] / 10;</div>
+<div class="line"><span class="lineno">  217</span>    <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> xp = diffFactor * xpentry-&gt;<a class="code hl_variable" href="../../da/dce/a28524.html#aa34490babd6ccdc45857947db3f36d60">Exp</a>[<a class="code hl_variable" href="../../d2/d81/a10232.html#a5fa5770255800c3a746fea48bdda6c80">RewardXPDifficulty</a>] / 10;</div>
 <div class="line"><span class="lineno">  218</span>    <span class="keywordflow">if</span> (xp &lt;= 100)</div>
 <div class="line"><span class="lineno">  219</span>    {</div>
 <div class="line"><span class="lineno">  220</span>        xp = 5 * ((xp + 2) / 5);</div>
@@ -3502,12 +3502,12 @@ Friends</h2></td></tr>
 <div class="line"><span class="lineno">  235</span>    <span class="keywordflow">return</span> xp;</div>
 <div class="line"><span class="lineno">  236</span>}</div>
 <div class="ttc" id="aa01595_html_ab186aaf86f47c3d401ff156d44951914"><div class="ttname"><a href="../../dc/dbf/a01595.html#ab186aaf86f47c3d401ff156d44951914">sQuestXPStore</a></div><div class="ttdeci">DBCStorage&lt; QuestXPEntry &gt; sQuestXPStore(QuestXPfmt)</div></div>
-<div class="ttc" id="aa28536_html"><div class="ttname"><a href="../../de/d77/a28536.html">QuestXPEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1453</div></div>
-<div class="ttc" id="aa28536_html_aa34490babd6ccdc45857947db3f36d60"><div class="ttname"><a href="../../de/d77/a28536.html#aa34490babd6ccdc45857947db3f36d60">QuestXPEntry::Exp</a></div><div class="ttdeci">uint32 Exp[10]</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1455</div></div>
+<div class="ttc" id="aa28524_html"><div class="ttname"><a href="../../da/dce/a28524.html">QuestXPEntry</a></div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1453</div></div>
+<div class="ttc" id="aa28524_html_aa34490babd6ccdc45857947db3f36d60"><div class="ttname"><a href="../../da/dce/a28524.html#aa34490babd6ccdc45857947db3f36d60">QuestXPEntry::Exp</a></div><div class="ttdeci">uint32 Exp[10]</div><div class="ttdef"><b>Definition:</b> DBCStructure.h:1455</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l01455">QuestXPEntry::Exp</a>, <a class="el" href="../../#l00349">Level</a>, <a class="el" href="../../#l00364">RewardXPDifficulty</a>, and <a class="el" href="../../dc/dbf/a01595.html#ab186aaf86f47c3d401ff156d44951914">sQuestXPStore</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l01402">Player::CalculateQuestRewardXP()</a>, <a class="el" href="../../#l00257">GetRewMoneyMaxLevel()</a>, <a class="el" href="../../#l00151">WorldSession::HandleLfgPlayerLockInfoRequestOpcode()</a>, <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, and <a class="el" href="../../#l00471">WorldSession::SendLfgPlayerReward()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01402">Player::CalculateQuestRewardXP()</a>, <a class="el" href="../../#l00257">GetRewMoneyMaxLevel()</a>, <a class="el" href="../../#l00151">WorldSession::HandleLfgPlayerLockInfoRequestOpcode()</a>, <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, and <a class="el" href="../../#l00471">WorldSession::SendLfgPlayerReward()</a>.</p>
 
 </div>
 </div>
@@ -3915,7 +3915,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l02264">Player::HasQuestForItem()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l02264">Player::HasQuestForItem()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
 
 </div>
 </div>
@@ -4475,7 +4475,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01764">Player::AdjustQuestReqItemCount()</a>, <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l00366">Player::CanCompleteRepeatableQuest()</a>, <a class="el" href="../../#l00385">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00217">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l02264">Player::HasQuestForItem()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l01835">Player::ItemAddedQuestCheck()</a>, <a class="el" href="../../#l01874">Player::ItemRemovedQuestCheck()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00752">PlayerMenu::SendQuestGiverRequestItems()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01764">Player::AdjustQuestReqItemCount()</a>, <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l00366">Player::CanCompleteRepeatableQuest()</a>, <a class="el" href="../../#l00385">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00218">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l02264">Player::HasQuestForItem()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l01835">Player::ItemAddedQuestCheck()</a>, <a class="el" href="../../#l01874">Player::ItemRemovedQuestCheck()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00752">PlayerMenu::SendQuestGiverRequestItems()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
 
 </div>
 </div>
@@ -4491,7 +4491,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00421">Player::AddQuestAndCheckCompletion()</a>, <a class="el" href="../../#l01764">Player::AdjustQuestReqItemCount()</a>, <a class="el" href="../../#l00366">Player::CanCompleteRepeatableQuest()</a>, <a class="el" href="../../#l00385">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00217">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l00127">quest_commandscript::HandleQuestRemove()</a>, <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l02264">Player::HasQuestForItem()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l01835">Player::ItemAddedQuestCheck()</a>, <a class="el" href="../../#l01874">Player::ItemRemovedQuestCheck()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00752">PlayerMenu::SendQuestGiverRequestItems()</a>, <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>, and <a class="el" href="../../#l01363">Player::TakeQuestSourceItem()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00421">Player::AddQuestAndCheckCompletion()</a>, <a class="el" href="../../#l01764">Player::AdjustQuestReqItemCount()</a>, <a class="el" href="../../#l00366">Player::CanCompleteRepeatableQuest()</a>, <a class="el" href="../../#l00385">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00218">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l00128">quest_commandscript::HandleQuestRemove()</a>, <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l02264">Player::HasQuestForItem()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l01835">Player::ItemAddedQuestCheck()</a>, <a class="el" href="../../#l01874">Player::ItemRemovedQuestCheck()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00752">PlayerMenu::SendQuestGiverRequestItems()</a>, <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>, and <a class="el" href="../../#l01363">Player::TakeQuestSourceItem()</a>.</p>
 
 </div>
 </div>
@@ -4603,7 +4603,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l01751">Player::GetReqKillOrCastCurrentCount()</a>, <a class="el" href="../../#l00217">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l12380">Player::HasQuestForGO()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l01852">ConditionMgr::isConditionTypeValid()</a>, <a class="el" href="../../#l02056">Player::KillCreditGO()</a>, <a class="el" href="../../#l01927">Player::KilledMonsterCredit()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l01541">go_dragonflayer_cage::OnGossipHello()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>, <a class="el" href="../../#l02456">Player::SendQuestUpdateAddCreatureOrGo()</a>, <a class="el" href="../../#l00780">npc_jungle_punch_target::npc_jungle_punch_targetAI::SpellHit()</a>, and <a class="el" href="../../#l02112">Player::TalkedToCreature()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l01751">Player::GetReqKillOrCastCurrentCount()</a>, <a class="el" href="../../#l00218">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l12382">Player::HasQuestForGO()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l01852">ConditionMgr::isConditionTypeValid()</a>, <a class="el" href="../../#l02056">Player::KillCreditGO()</a>, <a class="el" href="../../#l01927">Player::KilledMonsterCredit()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l01541">go_dragonflayer_cage::OnGossipHello()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>, <a class="el" href="../../#l02456">Player::SendQuestUpdateAddCreatureOrGo()</a>, <a class="el" href="../../#l00780">npc_jungle_punch_target::npc_jungle_punch_targetAI::SpellHit()</a>, and <a class="el" href="../../#l02112">Player::TalkedToCreature()</a>.</p>
 
 </div>
 </div>
@@ -4619,7 +4619,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l00217">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l12380">Player::HasQuestForGO()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l01852">ConditionMgr::isConditionTypeValid()</a>, <a class="el" href="../../#l02056">Player::KillCreditGO()</a>, <a class="el" href="../../#l01927">Player::KilledMonsterCredit()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>, <a class="el" href="../../#l02456">Player::SendQuestUpdateAddCreatureOrGo()</a>, and <a class="el" href="../../#l02112">Player::TalkedToCreature()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00289">Player::CanCompleteQuest()</a>, <a class="el" href="../../#l00218">quest_commandscript::HandleQuestComplete()</a>, <a class="el" href="../../#l12382">Player::HasQuestForGO()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l01852">ConditionMgr::isConditionTypeValid()</a>, <a class="el" href="../../#l02056">Player::KillCreditGO()</a>, <a class="el" href="../../#l01927">Player::KilledMonsterCredit()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>, <a class="el" href="../../#l02456">Player::SendQuestUpdateAddCreatureOrGo()</a>, and <a class="el" href="../../#l02112">Player::TalkedToCreature()</a>.</p>
 
 </div>
 </div>
@@ -4731,7 +4731,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00468">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00468">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
 
 </div>
 </div>
@@ -4747,7 +4747,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00468">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00468">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
 
 </div>
 </div>
@@ -4787,7 +4787,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l05996">Player::RewardReputation()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l05998">Player::RewardReputation()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
 
 </div>
 </div>
@@ -4803,7 +4803,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l05996">Player::RewardReputation()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l05998">Player::RewardReputation()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
 
 </div>
 </div>
@@ -4819,7 +4819,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l05996">Player::RewardReputation()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l05998">Player::RewardReputation()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
 
 </div>
 </div>
@@ -4859,7 +4859,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00468">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00151">WorldSession::HandleLfgPlayerLockInfoRequestOpcode()</a>, <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00471">WorldSession::SendLfgPlayerReward()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00468">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00151">WorldSession::HandleLfgPlayerLockInfoRequestOpcode()</a>, <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00471">WorldSession::SendLfgPlayerReward()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
 
 </div>
 </div>
@@ -4875,7 +4875,7 @@ Friends</h2></td></tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00468">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00151">WorldSession::HandleLfgPlayerLockInfoRequestOpcode()</a>, <a class="el" href="../../#l00483">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00471">WorldSession::SendLfgPlayerReward()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00468">Player::CanRewardQuest()</a>, <a class="el" href="../../#l00151">WorldSession::HandleLfgPlayerLockInfoRequestOpcode()</a>, <a class="el" href="../../#l00484">quest_commandscript::HandleQuestReward()</a>, <a class="el" href="../../#l00327">InitializeQueryData()</a>, <a class="el" href="../../#l04624">ObjectMgr::LoadQuests()</a>, <a class="el" href="../../#l00024">Quest()</a>, <a class="el" href="../../#l00659">Player::RewardQuest()</a>, <a class="el" href="../../#l00471">WorldSession::SendLfgPlayerReward()</a>, <a class="el" href="../../#l00647">PlayerMenu::SendQuestGiverOfferReward()</a>, <a class="el" href="../../#l00388">PlayerMenu::SendQuestGiverQuestDetails()</a>, and <a class="el" href="../../#l00507">PlayerMenu::SendQuestQueryResponse()</a>.</p>
 
 </div>
 </div>
@@ -5365,7 +5365,7 @@ Friends</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d2/d81/a10232.html">Quest</a></li>
-    <li class="footer">Generated on Mon Nov 17 2025 20:46:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Nov 24 2025 20:46:32 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

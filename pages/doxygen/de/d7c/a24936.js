@@ -1,6 +1,6 @@
 var a24936 =
 [
-    [ "HandleKnockBack", "de/d7c/a24936.html#ae50d143953074b83183482770046e131", null ],
-    [ "PrepareSpellScript", "de/d7c/a24936.html#a73666b297ef8bbfd490fee6075b06b3a", null ],
-    [ "Register", "de/d7c/a24936.html#a035df6b2e29aa0d2b5558e1cfef96ead", null ]
+    [ "HandleAfterCast", "de/d7c/a24936.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
+    [ "PrepareSpellScript", "de/d7c/a24936.html#a602d7c920aa73a9c3c69222854093036", null ],
+    [ "Register", "de/d7c/a24936.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
 ];

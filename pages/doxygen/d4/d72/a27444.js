@@ -1,7 +1,6 @@
 var a27444 =
 [
-    [ "go_bear_trapAI", "d4/d72/a27444.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "d4/d72/a27444.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "d4/d72/a27444.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "d4/d72/a27444.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "go_brewfest_musicAI", "d4/daf/a27448.html", "d4/daf/a27448" ],
+    [ "go_brewfest_music", "d4/d72/a27444.html#a787963a5ee591933d62fdb52911f9a77", null ],
+    [ "GetAI", "d4/d72/a27444.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
 ];

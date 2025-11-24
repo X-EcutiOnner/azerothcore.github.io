@@ -1,5 +1,6 @@
 var a25548 =
 [
-    [ "PrepareSpellScript", "d1/da1/a25548.html#a800936a311c05236dbd0c9c2f0edd5d9", null ],
-    [ "Register", "d1/da1/a25548.html#ae176a1f643797b5367a593bbb2acc506", null ]
+    [ "PrepareAuraScript", "d1/da1/a25548.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
+    [ "Register", "d1/da1/a25548.html#abb54f08b1932e3638537656360d3aad8", null ],
+    [ "AuraEffectHandleModes", "d1/da1/a25548.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
 ];

@@ -1,7 +1,6 @@
 var a21820 =
 [
-    [ "HandleProc", "de/dcc/a21820.html#aeb5b70614b266bac0792906bf89a5b97", null ],
-    [ "PrepareAuraScript", "de/dcc/a21820.html#aa523e91e5aadb09b66ef2c74e3cbce9f", null ],
-    [ "Register", "de/dcc/a21820.html#a163e0099271f21362deeb1ba1f169f3f", null ],
-    [ "Validate", "de/dcc/a21820.html#abdb889e4c6d19f756c143d7b36f82257", null ]
+    [ "npc_steam_powered_auctioneerAI", "d4/d00/a21824.html", "d4/d00/a21824" ],
+    [ "npc_steam_powered_auctioneer", "de/dcc/a21820.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
+    [ "GetAI", "de/dcc/a21820.html#a39a2f0c187078c759bc4a391e0a81068", null ]
 ];

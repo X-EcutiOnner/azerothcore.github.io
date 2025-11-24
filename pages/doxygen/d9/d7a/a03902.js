@@ -1,9 +1,9 @@
 var a03902 =
 [
-    [ "guard_shattrath_scryer", "d0/d64/a27584.html", "d0/d64/a27584" ],
-    [ "guard_shattrath_scryer::guard_shattrath_scryerAI", "d5/dce/a27588.html", "d5/dce/a27588" ],
-    [ "guard_shattrath_aldor", "df/de6/a27592.html", "df/de6/a27592" ],
-    [ "guard_shattrath_aldor::guard_shattrath_aldorAI", "db/df9/a27596.html", "db/df9/a27596" ],
+    [ "guard_shattrath_scryer", "d7/d9e/a27572.html", "d7/d9e/a27572" ],
+    [ "guard_shattrath_scryer::guard_shattrath_scryerAI", "d1/dc7/a27576.html", "d1/dc7/a27576" ],
+    [ "guard_shattrath_aldor", "dc/de8/a27580.html", "dc/de8/a27580" ],
+    [ "guard_shattrath_aldor::guard_shattrath_aldorAI", "d0/d64/a27584.html", "d0/d64/a27584" ],
     [ "GuardShattrath", "d9/d7a/a03902.html#a7c8fcdd86e1aa9eab132e6321290e79c", [
       [ "SPELL_BANISHED_SHATTRATH_A", "d9/d7a/a03902.html#a7c8fcdd86e1aa9eab132e6321290e79ca958387dd7fcdedf036a81cf2ab4f56fe", null ],
       [ "SPELL_BANISHED_SHATTRATH_S", "d9/d7a/a03902.html#a7c8fcdd86e1aa9eab132e6321290e79ca78bb081a2031299d661fbce8fd5a3d48", null ],

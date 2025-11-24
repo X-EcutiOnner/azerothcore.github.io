@@ -1,8 +1,8 @@
 var a02213 =
 [
-    [ "boss_commander_sarannis", "da/de4/a23892.html", "da/de4/a23892" ],
-    [ "spell_commander_sarannis_arcane_devastation", "d6/d90/a23896.html", "d6/d90/a23896" ],
-    [ "spell_commander_sarannis_summon_reinforcements", "d6/d77/a23900.html", "d6/d77/a23900" ],
+    [ "boss_commander_sarannis", "d1/dee/a23880.html", "d1/dee/a23880" ],
+    [ "spell_commander_sarannis_arcane_devastation", "dd/d11/a23884.html", "dd/d11/a23884" ],
+    [ "spell_commander_sarannis_summon_reinforcements", "d2/daf/a23888.html", "d2/daf/a23888" ],
     [ "Says", "de/d8e/a02213.html#a16774215bba3b38580ea51987d64cff1", [
       [ "SAY_START_FIGHT", "d2/db4/a03695.html#a16774215bba3b38580ea51987d64cff1a8faddecee02adff0c6fb321d27621e1e", null ],
       [ "EMOTE_DEATH", "dd/d2e/a03734.html#a16774215bba3b38580ea51987d64cff1a532dda2af249d6245366a455505ac407", null ],
@@ -2182,7 +2182,7 @@ var a02213 =
       [ "SPELL_COPY_OF_SUMMON_MINIONS", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cadce11109ff01a68c5c7c8d3ed00127f7", null ],
       [ "SPELL_BLIZZARD", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca8271bf723a74d49c9a4cf81f134cf956", null ],
       [ "SPELL_FROSTBOLT", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e", null ],
-      [ "SPELL_TOUCH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d", null ],
+      [ "SPELL_WRATH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298caf61006dc3f13afb869ca56c4cf8f03ee", null ],
       [ "SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6", null ],
       [ "SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8", null ],
       [ "SPELL_EYE_BEAM", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc", null ],
@@ -2937,6 +2937,7 @@ var a02213 =
       [ "SPELL_LIGHTNING_SHIELD", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cac89e681832d85c5da8d4e6011bc79b07", null ],
       [ "SPELL_STATIC_CHARGE", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cad174c0c15c17e6a55eec42eab77d89e0", null ],
       [ "SPELL_LIGHTNING_RING", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cab73f4399a61bbf9981a67888396f8a52", null ],
+      [ "SPELL_LIGHTNING_RING_5S", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298ca72114b94c53b48139c7bee3255dbf303", null ],
       [ "SPELL_TOXIC_VOLLEY", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca", null ],
       [ "SPELL_LIGHTNING_TETHER", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34", null ],
       [ "SPELL_LIGHTNING_SHOCK", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9", null ],

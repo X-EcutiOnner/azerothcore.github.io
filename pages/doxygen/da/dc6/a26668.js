@@ -1,6 +1,6 @@
 var a26668 =
 [
-    [ "HandleTriggerSpell", "da/dc6/a26668.html#acd2d96959b0d8e9bf9968662218f36a1", null ],
-    [ "PrepareAuraScript", "da/dc6/a26668.html#afea43ae4a9b9e64ed8e85627d5523a1e", null ],
-    [ "Register", "da/dc6/a26668.html#ace951b4fcd48b7d4434a387d666bed9b", null ]
+    [ "HandleDummy", "da/dc6/a26668.html#a86ec9b4606ae92b070edd4ca863fe93e", null ],
+    [ "PrepareSpellScript", "da/dc6/a26668.html#a4411e4317053450a0ac5217d546952b2", null ],
+    [ "Register", "da/dc6/a26668.html#a9eea8631e0723555a9c328bdfc1e30b7", null ]
 ];

@@ -1,6 +1,5 @@
 var a22328 =
 [
-    [ "HandleHealPct", "d8/dd7/a22328.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "d8/dd7/a22328.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "d8/dd7/a22328.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "go_pressure_valve", "d8/dd7/a22328.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
+    [ "OnGossipHello", "d8/dd7/a22328.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
 ];

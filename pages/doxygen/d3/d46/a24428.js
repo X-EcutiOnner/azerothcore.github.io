@@ -1,6 +1,7 @@
 var a24428 =
 [
-    [ "npc_shattrathflaskvendors", "d3/d46/a24428.html#ab74b234406c2022bf519242a7842458a", null ],
-    [ "OnGossipHello", "d3/d46/a24428.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
-    [ "OnGossipSelect", "d3/d46/a24428.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
+    [ "npc_kservantAI", "d3/d46/a24428.html#a0687712690f2bacd24da1c94d222e761", null ],
+    [ "IsSummonedBy", "d3/d46/a24428.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
+    [ "Reset", "d3/d46/a24428.html#a0756ffacb97c83a3028afc620b32f349", null ],
+    [ "WaypointReached", "d3/d46/a24428.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
 ];

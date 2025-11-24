@@ -1,9 +1,9 @@
 var a02186 =
 [
-    [ "boss_mechano_lord_capacitus", "d1/de3/a24068.html", "d1/de3/a24068" ],
-    [ "spell_capacitus_polarity_charge", "d7/d27/a24072.html", "d7/d27/a24072" ],
-    [ "spell_capacitus_polarity_charge_aura", "d7/dd9/a24076.html", "d7/dd9/a24076" ],
-    [ "spell_capacitus_polarity_shift", "d1/dfb/a24080.html", "d1/dfb/a24080" ],
+    [ "boss_mechano_lord_capacitus", "d1/d69/a24056.html", "d1/d69/a24056" ],
+    [ "spell_capacitus_polarity_charge", "d6/d94/a24060.html", "d6/d94/a24060" ],
+    [ "spell_capacitus_polarity_charge_aura", "db/da1/a24064.html", "db/da1/a24064" ],
+    [ "spell_capacitus_polarity_shift", "d1/de3/a24068.html", "d1/de3/a24068" ],
     [ "polarityShift", "d5/d4d/a02186.html#adfcb85d87bd0304f358a9d2549e866aa", [
       [ "SPELL_POSITIVE_POLARITY", "d5/d4d/a02186.html#adfcb85d87bd0304f358a9d2549e866aaa795738ba63917afbc0763ca952c1acf2", null ],
       [ "SPELL_POSITIVE_CHARGE_STACK", "d5/d4d/a02186.html#adfcb85d87bd0304f358a9d2549e866aaa9a8ba6564944a1455aee4c76339e7ae5", null ],
@@ -1654,7 +1654,7 @@ var a02186 =
       [ "SPELL_COPY_OF_SUMMON_MINIONS", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cadce11109ff01a68c5c7c8d3ed00127f7", null ],
       [ "SPELL_BLIZZARD", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca8271bf723a74d49c9a4cf81f134cf956", null ],
       [ "SPELL_FROSTBOLT", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e", null ],
-      [ "SPELL_TOUCH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d", null ],
+      [ "SPELL_WRATH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298caf61006dc3f13afb869ca56c4cf8f03ee", null ],
       [ "SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6", null ],
       [ "SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8", null ],
       [ "SPELL_EYE_BEAM", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc", null ],
@@ -2409,6 +2409,7 @@ var a02186 =
       [ "SPELL_LIGHTNING_SHIELD", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cac89e681832d85c5da8d4e6011bc79b07", null ],
       [ "SPELL_STATIC_CHARGE", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cad174c0c15c17e6a55eec42eab77d89e0", null ],
       [ "SPELL_LIGHTNING_RING", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cab73f4399a61bbf9981a67888396f8a52", null ],
+      [ "SPELL_LIGHTNING_RING_5S", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298ca72114b94c53b48139c7bee3255dbf303", null ],
       [ "SPELL_TOXIC_VOLLEY", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca", null ],
       [ "SPELL_LIGHTNING_TETHER", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34", null ],
       [ "SPELL_LIGHTNING_SHOCK", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9", null ],

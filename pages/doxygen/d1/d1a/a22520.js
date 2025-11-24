@@ -1,7 +1,6 @@
 var a22520 =
 [
-    [ "npc_wg_quest_giver", "d1/d1a/a22520.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "d1/d1a/a22520.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "d1/d1a/a22520.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "d1/d1a/a22520.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "go_wg_vehicle_teleporterAI", "d7/d21/a22524.html", "d7/d21/a22524" ],
+    [ "go_wg_vehicle_teleporter", "d1/d1a/a22520.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
+    [ "GetAI", "d1/d1a/a22520.html#a113aaf42c095000c1a016bfe60df11e7", null ]
 ];

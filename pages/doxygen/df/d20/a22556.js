@@ -1,6 +1,5 @@
 var a22556 =
 [
-    [ "CheckCast", "df/d20/a22556.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
-    [ "PrepareSpellScript", "df/d20/a22556.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
-    [ "Register", "df/d20/a22556.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
+    [ "achievement_wg_didnt_stand_a_chance", "df/d20/a22556.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
+    [ "OnCheck", "df/d20/a22556.html#ae575bae454689e05c161e8480a13fa18", null ]
 ];

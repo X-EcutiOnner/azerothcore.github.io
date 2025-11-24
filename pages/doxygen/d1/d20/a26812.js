@@ -1,6 +1,7 @@
 var a26812 =
 [
-    [ "HandleRemove", "d1/d20/a26812.html#a92eb5e02c8b165caa877d368a456e5b2", null ],
-    [ "PrepareAuraScript", "d1/d20/a26812.html#a132193c0c13a2f89b9b29391d524023a", null ],
-    [ "Register", "d1/d20/a26812.html#a246294a7b9a128a9ec464562846332fc", null ]
+    [ "HandleEffect", "d1/d20/a26812.html#ab33c9312c9ac4096140a82f381d83235", null ],
+    [ "PrepareSpellScript", "d1/d20/a26812.html#a6117d7b2720f719d801b5f6e0e719f5f", null ],
+    [ "Register", "d1/d20/a26812.html#a1f5983124756eca5666ca6adbe5a4544", null ],
+    [ "Validate", "d1/d20/a26812.html#a08f7e508b50fc44ced0b7ff04e22b333", null ]
 ];

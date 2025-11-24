@@ -1,6 +1,6 @@
 var a22848 =
 [
-    [ "PrepareSpellScript", "d2/d1c/a22848.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
-    [ "Register", "d2/d1c/a22848.html#aa41700bf097963c5a352442723181037", null ],
-    [ "SelectTarget", "d2/d1c/a22848.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
+    [ "instance_shadow_labyrinth_InstanceMapScript", "dc/df6/a22852.html", "dc/df6/a22852" ],
+    [ "instance_shadow_labyrinth", "d2/d1c/a22848.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
+    [ "GetInstanceScript", "d2/d1c/a22848.html#af9edf624413593a5cdf025dd9a1c3631", null ]
 ];

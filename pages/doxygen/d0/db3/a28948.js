@@ -1,31 +1,4 @@
 var a28948 =
 [
-    [ "Exception", "d5/d3b/a28952.html", "d5/d3b/a28952" ],
-    [ "Iterator", "de/dff/a28964.html", "de/dff/a28964" ],
-    [ "NotFound", "d5/dc2/a28956.html", "d5/dc2/a28956" ],
-    [ "Record", "da/dad/a28960.html", "da/dad/a28960" ],
-    [ "DBCFile", "d0/db3/a28948.html#a1ad4638c766b9222924e17977153439c", null ],
-    [ "~DBCFile", "d0/db3/a28948.html#a2453497157878f50c1e709e834fa2ca6", null ],
-    [ "DBCFile", "d0/db3/a28948.html#a1ad4638c766b9222924e17977153439c", null ],
-    [ "~DBCFile", "d0/db3/a28948.html#a2453497157878f50c1e709e834fa2ca6", null ],
-    [ "begin", "d0/db3/a28948.html#a8059ee48b626aa095d186771b3992121", null ],
-    [ "begin", "d0/db3/a28948.html#a3fa1721514df95a0fdaab68383c92877", null ],
-    [ "end", "d0/db3/a28948.html#a49d9c8ab11bf8d10f754369e6e37fac9", null ],
-    [ "end", "d0/db3/a28948.html#ae41b3ec666d9ccd6804d90a341cc7207", null ],
-    [ "getFieldCount", "d0/db3/a28948.html#af9946ba472555e6f3d38d124759d3e4d", null ],
-    [ "getFieldCount", "d0/db3/a28948.html#af9946ba472555e6f3d38d124759d3e4d", null ],
-    [ "getMaxId", "d0/db3/a28948.html#aeb8bf52f3140176b383d746247763d69", null ],
-    [ "getRecord", "d0/db3/a28948.html#ac3539b586d9d87f274e582115c6fad21", null ],
-    [ "getRecord", "d0/db3/a28948.html#a24c3e91383aec085c92c7b632497c192", null ],
-    [ "getRecordCount", "d0/db3/a28948.html#ae0fd1c5f3728ec3073a6615dc9604f9c", null ],
-    [ "getRecordCount", "d0/db3/a28948.html#ae0fd1c5f3728ec3073a6615dc9604f9c", null ],
-    [ "open", "d0/db3/a28948.html#a8255273a3ed878f743837eecf83c5897", null ],
-    [ "open", "d0/db3/a28948.html#a8255273a3ed878f743837eecf83c5897", null ],
-    [ "data", "d0/db3/a28948.html#a13665b42b03d29542922798b8e596db0", null ],
-    [ "fieldCount", "d0/db3/a28948.html#a5bad58543d306efba432f49474861c78", null ],
-    [ "filename", "d0/db3/a28948.html#a41e6549e414b05b545e4cc2e6c9ed526", null ],
-    [ "recordCount", "d0/db3/a28948.html#a1078e933a1984bc8cd74126bbd217571", null ],
-    [ "recordSize", "d0/db3/a28948.html#a612b41c93f0acc15638ff9874f260799", null ],
-    [ "stringSize", "d0/db3/a28948.html#a294ac17f748f5db90e9795b0d35a4dbf", null ],
-    [ "stringTable", "d0/db3/a28948.html#ae6c0a134786acbe1ef184d053efc2b00", null ]
+    [ "operator()", "d0/db3/a28948.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771", null ]
 ];

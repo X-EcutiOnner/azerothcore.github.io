@@ -1,6 +1,7 @@
 var a26624 =
 [
-    [ "HandleDummy", "d9/dba/a26624.html#afb85971597df327fa44271ee0c4b3d04", null ],
-    [ "PrepareSpellScript", "d9/dba/a26624.html#a43052fedbec62cfbdbbf24fbfcbca047", null ],
-    [ "Register", "d9/dba/a26624.html#a7a249dd2bcdccf1a19d151d041a25215", null ]
+    [ "HandleScript", "d9/dba/a26624.html#aa00117e677af1e236962c59b688d8a98", null ],
+    [ "Load", "d9/dba/a26624.html#ad05b65848e35d87fb9ef1ae413de6256", null ],
+    [ "PrepareSpellScript", "d9/dba/a26624.html#afbffeadede1cc7f08a0a52f4a7bee680", null ],
+    [ "Register", "d9/dba/a26624.html#a52d4828ccd5430a622a32b1279943f9b", null ]
 ];

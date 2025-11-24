@@ -1,6 +1,7 @@
 var a27636 =
 [
-    [ "npc_innkeeper", "d7/da6/a27636.html#a006f27d898ead8827d8b98d8b93d430d", null ],
-    [ "OnGossipHello", "d7/da6/a27636.html#ae65c5cd7d3e270b2e50f80c0e12a72ff", null ],
-    [ "OnGossipSelect", "d7/da6/a27636.html#ab6cf511f5b032050336a77d1e4598dda", null ]
+    [ "npc_engineering_tele_trinket", "d7/da6/a27636.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
+    [ "CanLearn", "d7/da6/a27636.html#a8a35f1c09a9df609561e76f4ed578647", null ],
+    [ "OnGossipHello", "d7/da6/a27636.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
+    [ "OnGossipSelect", "d7/da6/a27636.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
 ];

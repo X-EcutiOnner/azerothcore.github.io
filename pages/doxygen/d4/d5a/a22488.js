@@ -1,6 +1,7 @@
 var a22488 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "d3/dc7/a22492.html", "d3/dc7/a22492" ],
-    [ "npc_vehicle_d16_propelled_delivery", "d4/d5a/a22488.html#a93bed362ae78231b21327994a3e4cafd", null ],
-    [ "GetAI", "d4/d5a/a22488.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
+    [ "npc_wg_demolisher_engineer", "d4/d5a/a22488.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "d4/d5a/a22488.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "d4/d5a/a22488.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "d4/d5a/a22488.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

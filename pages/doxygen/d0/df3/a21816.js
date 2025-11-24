@@ -1,6 +1,7 @@
 var a21816 =
 [
-    [ "PrepareSpellScript", "d0/df3/a21816.html#a072a5228690b929af3b65d771bf5f485", null ],
-    [ "Register", "d0/df3/a21816.html#a87235eb9494edd94221f0380e815aa6b", null ],
-    [ "SetDest", "d0/df3/a21816.html#abe2c48bf2d276871f3e4146d1358ea4c", null ]
+    [ "npc_warmage_violetstand", "d0/df3/a21816.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
+    [ "Reset", "d0/df3/a21816.html#a99015610597f43f184cc686c9fab2fa9", null ],
+    [ "UpdateAI", "d0/df3/a21816.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
+    [ "targetGUID", "d0/df3/a21816.html#a46560aa7aa90778967a79c931a81721b", null ]
 ];

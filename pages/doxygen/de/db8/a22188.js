@@ -1,6 +1,7 @@
 var a22188 =
 [
-    [ "npc_plaguehound_trackerAI", "db/db7/a22192.html", "db/db7/a22192" ],
-    [ "npc_plaguehound_tracker", "de/db8/a22188.html#a5c2803907cf06bc3e641bbb8171681d3", null ],
-    [ "GetAI", "de/db8/a22188.html#a1ec8f190139b35837a0ce6c4c2f08709", null ]
+    [ "HandleScriptEffect", "de/db8/a22188.html#a7b0fca053f225beda41942d8fee86383", null ],
+    [ "PrepareSpellScript", "de/db8/a22188.html#a1312914fef2c12d8c88f7fe3d3bc0dd4", null ],
+    [ "Register", "de/db8/a22188.html#a43ca6b9d0d23d0bce2c1bb2fc6e7b76c", null ],
+    [ "Validate", "de/db8/a22188.html#a5ca06a91aa921b4cc90a960fcb4cdb67", null ]
 ];

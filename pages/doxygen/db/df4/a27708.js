@@ -1,6 +1,8 @@
 var a27708 =
 [
-    [ "npc_taxi", "db/df4/a27708.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
-    [ "OnGossipHello", "db/df4/a27708.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
-    [ "OnGossipSelect", "db/df4/a27708.html#a5a7443abba8cf98a3073195177981edc", null ]
+    [ "npc_riggle_bassbaitAI", "d1/d6d/a27712.html", "d1/d6d/a27712" ],
+    [ "npc_riggle_bassbait", "db/df4/a27708.html#afc4280099cda3c28c4634d649e636839", null ],
+    [ "GetAI", "db/df4/a27708.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
+    [ "OnGossipHello", "db/df4/a27708.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
+    [ "OnQuestReward", "db/df4/a27708.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
 ];

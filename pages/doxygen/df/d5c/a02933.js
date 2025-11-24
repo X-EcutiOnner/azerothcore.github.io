@@ -1,7 +1,7 @@
 var a02933 =
 [
-    [ "npc_preparations_for_war_vehicle", "d3/d09/a21828.html", "d3/d09/a21828" ],
-    [ "npc_warmage_violetstand", "d4/db8/a21832.html", "d4/db8/a21832" ],
+    [ "npc_preparations_for_war_vehicle", "d4/d8e/a21812.html", "d4/d8e/a21812" ],
+    [ "npc_warmage_violetstand", "d0/df3/a21816.html", "d0/df3/a21816" ],
     [ "ePreparationsForWar", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1", [
       [ "NPC_HAMMERHEAD", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1ad1b13588c08e2e01417692b4885a4872", null ],
       [ "NPC_CLOUDBUSTER", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1afa07f0b51a484de98e7c55105c1235fa", null ],
@@ -1808,7 +1808,7 @@ var a02933 =
       [ "SPELL_COPY_OF_SUMMON_MINIONS", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cadce11109ff01a68c5c7c8d3ed00127f7", null ],
       [ "SPELL_BLIZZARD", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca8271bf723a74d49c9a4cf81f134cf956", null ],
       [ "SPELL_FROSTBOLT", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e", null ],
-      [ "SPELL_TOUCH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d", null ],
+      [ "SPELL_WRATH_OF_MISERY", "dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298caf61006dc3f13afb869ca56c4cf8f03ee", null ],
       [ "SPELL_CURSE_OF_LIFE", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6", null ],
       [ "SPELL_SHADOW_VOLLEY", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8", null ],
       [ "SPELL_EYE_BEAM", "df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc", null ],
@@ -2563,6 +2563,7 @@ var a02933 =
       [ "SPELL_LIGHTNING_SHIELD", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cac89e681832d85c5da8d4e6011bc79b07", null ],
       [ "SPELL_STATIC_CHARGE", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cad174c0c15c17e6a55eec42eab77d89e0", null ],
       [ "SPELL_LIGHTNING_RING", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cab73f4399a61bbf9981a67888396f8a52", null ],
+      [ "SPELL_LIGHTNING_RING_5S", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298ca72114b94c53b48139c7bee3255dbf303", null ],
       [ "SPELL_TOXIC_VOLLEY", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca", null ],
       [ "SPELL_LIGHTNING_TETHER", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34", null ],
       [ "SPELL_LIGHTNING_SHOCK", "d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9", null ],

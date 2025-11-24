@@ -1,10 +1,9 @@
 var a26024 =
 [
-    [ "CalcPeriodic", "d6/d6d/a26024.html#a6ec300503503fa6f12a48a8494d41edd", null ],
-    [ "Load", "d6/d6d/a26024.html#a349827fe659ff3bee0a5dfc677c04825", null ],
-    [ "PrepareAuraScript", "d6/d6d/a26024.html#a8c12c4ae3835322602347b654d96a8b7", null ],
-    [ "Register", "d6/d6d/a26024.html#aeba6dda1114bc738cddff4d40d48ccd7", null ],
-    [ "Update", "d6/d6d/a26024.html#afa9e6eec798c354231b5f95e260c7111", null ],
-    [ "Validate", "d6/d6d/a26024.html#adb891e80c5bf15b4a0798aa01a45c9e0", null ],
-    [ "_spell_id", "d6/d6d/a26024.html#a2836863ea4bafc73f2adbb9176cbec60", null ]
+    [ "CheckCast", "d6/d6d/a26024.html#af92fe276563a8ca0d939d881dba8adda", null ],
+    [ "HandleDummy", "d6/d6d/a26024.html#a86b4413dd25f96fb197604007171a8d1", null ],
+    [ "Load", "d6/d6d/a26024.html#ab1800d2550b944dcfa9967cc0e79c5ee", null ],
+    [ "PrepareSpellScript", "d6/d6d/a26024.html#a47aa868fbabee8a3988bcc93402b8cfb", null ],
+    [ "Register", "d6/d6d/a26024.html#a1b4ff1b3b518a2e4bad1836de6793561", null ],
+    [ "Validate", "d6/d6d/a26024.html#a8d0c2f18927e811f3d3cdee94e3623c0", null ]
 ];

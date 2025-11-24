@@ -316,17 +316,17 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  693</span>    {</div>
-<div class="line"><span class="lineno">  694</span>        <a class="code hl_struct" href="../../da/d90/a08496.html">Position</a> <span class="keyword">const</span> offset = { <a class="code hl_function" href="../../de/d5f/a04763.html#a19bd31014583536af788a65b398e4406">frand</a>(-15.0f, 15.0f), <a class="code hl_function" href="../../de/d5f/a04763.html#a19bd31014583536af788a65b398e4406">frand</a>(-15.0f, 15.0f), -19.0f, 0.0f };</div>
-<div class="line"><span class="lineno">  695</span>        dest.<a class="code hl_function" href="../../d2/d50/a11280.html#a0bf1d731787bfed47b593d8cb4943f2a">RelocateOffset</a>(offset);</div>
-<div class="line"><span class="lineno">  696</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  705</span>    {</div>
+<div class="line"><span class="lineno">  706</span>        <a class="code hl_struct" href="../../da/d90/a08496.html">Position</a> <span class="keyword">const</span> offset = { <a class="code hl_function" href="../../de/d5f/a04763.html#a19bd31014583536af788a65b398e4406">frand</a>(-15.0f, 15.0f), <a class="code hl_function" href="../../de/d5f/a04763.html#a19bd31014583536af788a65b398e4406">frand</a>(-15.0f, 15.0f), -19.0f, 0.0f };</div>
+<div class="line"><span class="lineno">  707</span>        dest.<a class="code hl_function" href="../../d2/d50/a11280.html#a0bf1d731787bfed47b593d8cb4943f2a">RelocateOffset</a>(offset);</div>
+<div class="line"><span class="lineno">  708</span>    }</div>
 <div class="ttc" id="aa04763_html_a19bd31014583536af788a65b398e4406"><div class="ttname"><a href="../../de/d5f/a04763.html#a19bd31014583536af788a65b398e4406">frand</a></div><div class="ttdeci">float frand(float min, float max)</div><div class="ttdef"><b>Definition:</b> Random.cpp:57</div></div>
 <div class="ttc" id="aa08496_html"><div class="ttname"><a href="../../da/d90/a08496.html">Position</a></div><div class="ttdef"><b>Definition:</b> Position.h:27</div></div>
 <div class="ttc" id="aa11280_html_a0bf1d731787bfed47b593d8cb4943f2a"><div class="ttname"><a href="../../d2/d50/a11280.html#a0bf1d731787bfed47b593d8cb4943f2a">SpellDestination::RelocateOffset</a></div><div class="ttdeci">void RelocateOffset(Position const &amp;offset)</div><div class="ttdef"><b>Definition:</b> Spell.cpp:104</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00057">frand()</a>, and <a class="el" href="../../#l00104">SpellDestination::RelocateOffset()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00698">Register()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00710">Register()</a>.</p>
 
 </div>
 </div>
@@ -380,16 +380,16 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Implements <a class="el" href="../../d3/d22/a11428.html#ab6fed9e44aa0c11342abffd74ee5bfe1">_SpellScript</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  699</span>    {</div>
-<div class="line"><span class="lineno">  700</span>        <a class="code hl_variable" href="../../d7/dbc/a11444.html#a3e67064a6f789b69c5533602c72173b8">OnDestinationTargetSelect</a> += <a class="code hl_define" href="../../de/d76/a00134.html#aa25d575ee7dc16898562e3906eb3ca1b">SpellDestinationTargetSelectFn</a>(<a class="code hl_function" href="../../d3/d1a/a16020.html#a8bda9327c4244af41c513528ad5c818c">spell_random_lightning_visual_effect::ModDestHeight</a>, <a class="code hl_enumvalue" href="../../d1/da3/a04100.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d1/da3/a04100.html#a418aed4e4066eb09ab979b5d78dc9152a174dffb981d16cab87a0672e1afac9db">TARGET_DEST_CASTER_RANDOM</a>);</div>
-<div class="line"><span class="lineno">  701</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  711</span>    {</div>
+<div class="line"><span class="lineno">  712</span>        <a class="code hl_variable" href="../../d7/dbc/a11444.html#a3e67064a6f789b69c5533602c72173b8">OnDestinationTargetSelect</a> += <a class="code hl_define" href="../../de/d76/a00134.html#aa25d575ee7dc16898562e3906eb3ca1b">SpellDestinationTargetSelectFn</a>(<a class="code hl_function" href="../../d3/d1a/a16020.html#a8bda9327c4244af41c513528ad5c818c">spell_random_lightning_visual_effect::ModDestHeight</a>, <a class="code hl_enumvalue" href="../../d1/da3/a04100.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a>, <a class="code hl_enumvalue" href="../../d1/da3/a04100.html#a418aed4e4066eb09ab979b5d78dc9152a174dffb981d16cab87a0672e1afac9db">TARGET_DEST_CASTER_RANDOM</a>);</div>
+<div class="line"><span class="lineno">  713</span>    }</div>
 <div class="ttc" id="aa00134_html_aa25d575ee7dc16898562e3906eb3ca1b"><div class="ttname"><a href="../../de/d76/a00134.html#aa25d575ee7dc16898562e3906eb3ca1b">SpellDestinationTargetSelectFn</a></div><div class="ttdeci">#define SpellDestinationTargetSelectFn(F, I, N)</div><div class="ttdef"><b>Definition:</b> SpellScript.h:364</div></div>
 <div class="ttc" id="aa04100_html_a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d"><div class="ttname"><a href="../../d1/da3/a04100.html#a091a832125de330a1d2fb91d57c0e1ffae36fda04a2c1fff26525d0c57f79a36d">EFFECT_0</a></div><div class="ttdeci">@ EFFECT_0</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:31</div></div>
 <div class="ttc" id="aa04100_html_a418aed4e4066eb09ab979b5d78dc9152a174dffb981d16cab87a0672e1afac9db"><div class="ttname"><a href="../../d1/da3/a04100.html#a418aed4e4066eb09ab979b5d78dc9152a174dffb981d16cab87a0672e1afac9db">TARGET_DEST_CASTER_RANDOM</a></div><div class="ttdeci">@ TARGET_DEST_CASTER_RANDOM</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:1487</div></div>
 <div class="ttc" id="aa11444_html_a3e67064a6f789b69c5533602c72173b8"><div class="ttname"><a href="../../d7/dbc/a11444.html#a3e67064a6f789b69c5533602c72173b8">SpellScript::OnDestinationTargetSelect</a></div><div class="ttdeci">HookList&lt; DestinationTargetSelectHandler &gt; OnDestinationTargetSelect</div><div class="ttdef"><b>Definition:</b> SpellScript.h:363</div></div>
-<div class="ttc" id="aa16020_html_a8bda9327c4244af41c513528ad5c818c"><div class="ttname"><a href="../../d3/d1a/a16020.html#a8bda9327c4244af41c513528ad5c818c">spell_random_lightning_visual_effect::ModDestHeight</a></div><div class="ttdeci">void ModDestHeight(SpellDestination &amp;dest)</div><div class="ttdef"><b>Definition:</b> boss_jedoga_shadowseeker.cpp:692</div></div>
+<div class="ttc" id="aa16020_html_a8bda9327c4244af41c513528ad5c818c"><div class="ttname"><a href="../../d3/d1a/a16020.html#a8bda9327c4244af41c513528ad5c818c">spell_random_lightning_visual_effect::ModDestHeight</a></div><div class="ttdeci">void ModDestHeight(SpellDestination &amp;dest)</div><div class="ttdef"><b>Definition:</b> boss_jedoga_shadowseeker.cpp:704</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00692">ModDestHeight()</a>, <a class="el" href="../../#l00363">SpellScript::OnDestinationTargetSelect</a>, <a class="el" href="../../#l00364">SpellDestinationTargetSelectFn</a>, and <a class="el" href="../../#l01487">TARGET_DEST_CASTER_RANDOM</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00031">EFFECT_0</a>, <a class="el" href="../../#l00704">ModDestHeight()</a>, <a class="el" href="../../#l00363">SpellScript::OnDestinationTargetSelect</a>, <a class="el" href="../../#l00364">SpellDestinationTargetSelectFn</a>, and <a class="el" href="../../#l01487">TARGET_DEST_CASTER_RANDOM</a>.</p>
 
 </div>
 </div>
@@ -399,7 +399,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../d3/d1a/a16020.html">spell_random_lightning_visual_effect</a></li>
-    <li class="footer">Generated on Mon Nov 17 2025 20:46:37 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Nov 24 2025 20:46:50 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,12 +1,8 @@
 var a27676 =
 [
-    [ "npc_preciousAI", "d3/d08/a27676.html#ade66f3aa2ff9ac85c99a9d31591fcabf", null ],
-    [ "FlagForDespawn", "d3/d08/a27676.html#a934a5147c1cc9937189011fb061657da", null ],
-    [ "InitializeAI", "d3/d08/a27676.html#aa15843c4029f2df2ee04d21b5157602a", null ],
-    [ "JustEngagedWith", "d3/d08/a27676.html#a58bc4149111605850f070a77ee776313", null ],
-    [ "JustReachedHome", "d3/d08/a27676.html#a31893e9441b24398554370a58ef8bd78", null ],
-    [ "Reset", "d3/d08/a27676.html#aa1c39ce0110827d35ae2d5ea794e1744", null ],
-    [ "UpdateAI", "d3/d08/a27676.html#a2f3428807957bd60fdbe6f694bb6d3ef", null ],
-    [ "events", "d3/d08/a27676.html#a69a20e759b1bcb631cef0bf1e4dd8a1b", null ],
-    [ "flaggedForDespawn", "d3/d08/a27676.html#a48e891f8afce9408ed38c51a0e2d4005", null ]
+    [ "npc_nelsonAI", "dd/d04/a27680.html", "dd/d04/a27680" ],
+    [ "npc_nelson", "d3/d08/a27676.html#ada597926a6db1aa7823ddabc19945b11", null ],
+    [ "GetAI", "d3/d08/a27676.html#a75fea281fb49249345c48236bf44b1c8", null ],
+    [ "OnGossipHello", "d3/d08/a27676.html#aa693b365a15d4617f214f9c3c229bf89", null ],
+    [ "OnGossipSelect", "d3/d08/a27676.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
 ];

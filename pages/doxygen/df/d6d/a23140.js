@@ -1,6 +1,5 @@
 var a23140 =
 [
-    [ "npc_supremus_punch_invisible_stalker", "df/d6d/a23140.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
-    [ "IsSummonedBy", "df/d6d/a23140.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
-    [ "UpdateAI", "df/d6d/a23140.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
+    [ "npc_vengeful_spirit", "df/d6d/a23140.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
+    [ "OnCharmed", "df/d6d/a23140.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
 ];

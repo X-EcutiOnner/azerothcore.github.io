@@ -1,6 +1,6 @@
 var a24948 =
 [
-    [ "HandleAfterCast", "de/d0c/a24948.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
-    [ "PrepareSpellScript", "de/d0c/a24948.html#a602d7c920aa73a9c3c69222854093036", null ],
-    [ "Register", "de/d0c/a24948.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
+    [ "HandleScript", "de/d0c/a24948.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
+    [ "PrepareSpellScript", "de/d0c/a24948.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
+    [ "Register", "de/d0c/a24948.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
 ];

@@ -1,8 +1,10 @@
 var a27720 =
 [
-    [ "npc_riggle_bassbaitAI", "d9/d94/a27724.html", "d9/d94/a27724" ],
-    [ "npc_riggle_bassbait", "d4/dd2/a27720.html#afc4280099cda3c28c4634d649e636839", null ],
-    [ "GetAI", "d4/dd2/a27720.html#ad5e3230dae9ac23aa83883e53b37234e", null ],
-    [ "OnGossipHello", "d4/dd2/a27720.html#aeea1e5d4d59c72ce97e1f0eb8da5b6fe", null ],
-    [ "OnQuestReward", "d4/dd2/a27720.html#aa3ef2b3ebd7542a4836983872c397e66", null ]
+    [ "npc_training_dummyAI", "d4/dd2/a27720.html#a2f10fd0b4365e99446f728883a47eb6a", null ],
+    [ "DamageTaken", "d4/dd2/a27720.html#a641c40906a6365f068ccbdba9d033923", null ],
+    [ "EnterEvadeMode", "d4/dd2/a27720.html#adb1de124bdb2a986efcfcfc287b6d824", null ],
+    [ "MoveInLineOfSight", "d4/dd2/a27720.html#a52f3516e9da6895eeddcdef7a198a6b1", null ],
+    [ "Reset", "d4/dd2/a27720.html#af63f500cb3179964c90afab0d4a2c9b7", null ],
+    [ "UpdateAI", "d4/dd2/a27720.html#a5e7892a64cd1a5cf678b401b62497bfb", null ],
+    [ "resetTimer", "d4/dd2/a27720.html#a443f2f7de257af473d6e9793f34a2071", null ]
 ];

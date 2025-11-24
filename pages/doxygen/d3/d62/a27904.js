@@ -1,6 +1,8 @@
 var a27904 =
 [
-    [ "npc_necropolis_proxy", "d3/d62/a27904.html#a73f92ee73673172989d48064e5984db0", null ],
-    [ "SpellHit", "d3/d62/a27904.html#a90d1ab55683a6409403e24291643cca5", null ],
-    [ "SpellHitTarget", "d3/d62/a27904.html#a79ee941ff32f8bbb1b93242f46a91c1a", null ]
+    [ "npc_minion_spawner", "d3/d62/a27904.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
+    [ "CanSpawnRareMinion", "d3/d62/a27904.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
+    [ "JustSummoned", "d3/d62/a27904.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
+    [ "Reset", "d3/d62/a27904.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
+    [ "UpdateAI", "d3/d62/a27904.html#a24f93f1314bb73edb369e188eda83104", null ]
 ];

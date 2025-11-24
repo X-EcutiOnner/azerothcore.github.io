@@ -1,6 +1,7 @@
 var a27808 =
 [
-    [ "npc_steam_tonkAI", "da/dc3/a27812.html", "da/dc3/a27812" ],
-    [ "npc_steam_tonk", "d1/d8b/a27808.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
-    [ "GetAI", "d1/d8b/a27808.html#a38e51485a3610a204a45677fce15c943", null ]
+    [ "npc_wormholeAI", "d1/d8b/a27808.html#a75c28ce9bcbb5ef6fb4213d000d5596a", null ],
+    [ "GetData", "d1/d8b/a27808.html#ad4c9f2265f126c7f2b5538bab6b75cb3", null ],
+    [ "InitializeAI", "d1/d8b/a27808.html#aa0a903014ec7243036604ffcc67e0a36", null ],
+    [ "_showUnderground", "d1/d8b/a27808.html#a6a2fbf623b8fc55cfd48a12e2c515134", null ]
 ];

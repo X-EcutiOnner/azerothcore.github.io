@@ -1,7 +1,7 @@
 var a25304 =
 [
-    [ "HandleScriptEffect", "df/d24/a25304.html#a4444d5f146e875bae40edbcc8ed408cb", null ],
-    [ "PrepareSpellScript", "df/d24/a25304.html#af4320dd6567d8c9cb2a1492095a98459", null ],
-    [ "Register", "df/d24/a25304.html#ab9360c3a883dd5a7df9836306d9762ec", null ],
-    [ "Validate", "df/d24/a25304.html#a51ebef5e7fff9dfaab553ecae7be732f", null ]
+    [ "HandleApplyEffect", "df/d24/a25304.html#a4e2f6d414aea8ed1339ef3caa24fc17b", null ],
+    [ "Load", "df/d24/a25304.html#a47a4f15ab02ba3c6ac4dbfd7c4552900", null ],
+    [ "PrepareAuraScript", "df/d24/a25304.html#a101d38f5ffb34f90ba9af4f787445f2e", null ],
+    [ "Register", "df/d24/a25304.html#aed57fbbf473b8f15fa177261e4678e96", null ]
 ];

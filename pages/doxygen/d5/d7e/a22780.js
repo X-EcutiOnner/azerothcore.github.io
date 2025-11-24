@@ -1,8 +1,6 @@
 var a22780 =
 [
-    [ "npc_yor", "d5/d7e/a22780.html#a43ed8720d06c035085d481dbe6539dca", null ],
-    [ "JustEngagedWith", "d5/d7e/a22780.html#a74d5cd95b98a2057f78ee9e9b12aec42", null ],
-    [ "Reset", "d5/d7e/a22780.html#aa698540b646fd870b33afbaf19ddbe07", null ],
-    [ "UpdateAI", "d5/d7e/a22780.html#a46a2cf8ff94b830348641d94e3d9cd57", null ],
-    [ "_scheduler", "d5/d7e/a22780.html#a4ce1e1558c9b8aa5d50b1df1a903d776", null ]
+    [ "instance_mana_tombs_InstanceMapScript", "d0/d14/a22784.html", "d0/d14/a22784" ],
+    [ "instance_mana_tombs", "d5/d7e/a22780.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
+    [ "GetInstanceScript", "d5/d7e/a22780.html#a26e4dad0957df886bc446396ab48ceda", null ]
 ];

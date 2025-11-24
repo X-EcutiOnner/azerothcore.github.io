@@ -1,4 +1,7 @@
 var a28960 =
 [
-    [ "operator()", "da/dad/a28960.html#a478bd4c6485a8a9ce0e8b1f7ca6ce771", null ]
+    [ "walkableClimb", "da/dad/a28960.html#af8d2e9bccb8f6bbb36065e686ea39626", null ],
+    [ "walkableHeight", "da/dad/a28960.html#a32f39a07562c47be0a311d7959678044", null ],
+    [ "walkableRadius", "da/dad/a28960.html#a6e708a591e7b5597e129a653e1379a1e", null ],
+    [ "walkableSlopeAngle", "da/dad/a28960.html#a9b880e84fa1d07e414e9a9a62a20969c", null ]
 ];

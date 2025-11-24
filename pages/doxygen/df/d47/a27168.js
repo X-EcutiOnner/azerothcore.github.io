@@ -1,10 +1,6 @@
 var a27168 =
 [
-    [ "CheckProc", "df/d47/a27168.html#a68a559c46266fc7337f7d56bb66af542", null ],
-    [ "HandleProc", "df/d47/a27168.html#a69cdd92cea54ec5bf11f6011578b2338", null ],
-    [ "Load", "df/d47/a27168.html#ad571b0d2f47cff037030d7a8184f60fd", null ],
-    [ "PrepareAuraScript", "df/d47/a27168.html#aa20e2911e60f3ae7a9dcceee8f96b6ef", null ],
-    [ "Register", "df/d47/a27168.html#a8af18925b317c717fcd6b2fae14a16e4", null ],
-    [ "Validate", "df/d47/a27168.html#ac0cf25901d70e37bb887b3baa38790b5", null ],
-    [ "_procTarget", "df/d47/a27168.html#ad48f21d3a45e97857265e6047f253910", null ]
+    [ "HandleEffectCalcSpellMod", "df/d47/a27168.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
+    [ "PrepareAuraScript", "df/d47/a27168.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
+    [ "Register", "df/d47/a27168.html#af60592a9f1e595f31814eae405d03d5a", null ]
 ];

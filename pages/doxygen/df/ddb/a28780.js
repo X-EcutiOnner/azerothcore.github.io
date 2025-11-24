@@ -1,9 +1,12 @@
 var a28780 =
 [
-    [ "SetUp", "df/ddb/a28780.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
-    [ "TearDown", "df/ddb/a28780.html#a2a331c0ef77503c08c37e226a4e0a33b", null ],
-    [ "_distributor", "df/ddb/a28780.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
-    [ "_mockRewarder", "df/ddb/a28780.html#ad466c2751d8e9739db56f9f82d15deff", null ],
-    [ "_previousWorld", "df/ddb/a28780.html#aef822a2309df5d13af31ea5a5da74df7", null ],
-    [ "_worldMock", "df/ddb/a28780.html#a00b242d182fd7eacc93efc9d4f3e914f", null ]
+    [ "TestVisibilityScript", "df/ddb/a28780.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
+    [ "EnsureRegistered", "df/ddb/a28780.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
+    [ "OnPlayerSetServerSideVisibility", "df/ddb/a28780.html#a6b3701188303b644b28a52ec42bec846", null ],
+    [ "Reset", "df/ddb/a28780.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
+    [ "CallCount", "df/ddb/a28780.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
+    [ "Instance", "df/ddb/a28780.html#adcf0326aa1e32db109ec920857868138", null ],
+    [ "LastPlayer", "df/ddb/a28780.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
+    [ "LastSecurity", "df/ddb/a28780.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
+    [ "LastType", "df/ddb/a28780.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
 ];

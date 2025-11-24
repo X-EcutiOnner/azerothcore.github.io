@@ -592,7 +592,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1066</span>: <a class="code hl_struct" href="../../d2/dea/a06264.html">ScriptedAI</a>(c) { }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1060</span>: <a class="code hl_struct" href="../../d2/dea/a06264.html">ScriptedAI</a>(c) { }</div>
 <div class="ttc" id="aa06264_html"><div class="ttname"><a href="../../d2/dea/a06264.html">ScriptedAI</a></div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:190</div></div>
 </div><!-- fragment -->
 </div>
@@ -625,10 +625,10 @@ Additional Inherited Members</h2></td></tr>
 <p>Called for reaction when initially engaged. </p>
 
 <p>Reimplemented from <a class="el" href="../../d2/dea/a06264.html#ac2ce21ab709e349abb8206ce2368cd37">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1074</span>        {</div>
-<div class="line"><span class="lineno"> 1075</span>            <a class="code hl_enumeration" href="../../d7/dbe/a02333.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../df/d27/a02921.html#ad29858f6d8ab73f2970f41cb21a76b84ac774c2b1b71654271d51ff445fff9191">EVENT_IGC_CRUSH</a>, 6s);</div>
-<div class="line"><span class="lineno"> 1076</span>            <a class="code hl_enumeration" href="../../d7/dbe/a02333.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../df/d27/a02921.html#ad29858f6d8ab73f2970f41cb21a76b84a5d7cd4b94785b6ec2c571723d7ffae23">EVENT_IGC_GROUND_SMASH</a>, 20s);</div>
-<div class="line"><span class="lineno"> 1077</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1068</span>        {</div>
+<div class="line"><span class="lineno"> 1069</span>            <a class="code hl_enumeration" href="../../d7/dbe/a02333.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../df/d27/a02921.html#ad29858f6d8ab73f2970f41cb21a76b84ac774c2b1b71654271d51ff445fff9191">EVENT_IGC_CRUSH</a>, 6s);</div>
+<div class="line"><span class="lineno"> 1070</span>            <a class="code hl_enumeration" href="../../d7/dbe/a02333.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ScheduleEvent(<a class="code hl_enumvalue" href="../../df/d27/a02921.html#ad29858f6d8ab73f2970f41cb21a76b84a5d7cd4b94785b6ec2c571723d7ffae23">EVENT_IGC_GROUND_SMASH</a>, 20s);</div>
+<div class="line"><span class="lineno"> 1071</span>        }</div>
 <div class="ttc" id="aa02333_html_ad29858f6d8ab73f2970f41cb21a76b84"><div class="ttname"><a href="../../d7/dbe/a02333.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a></div><div class="ttdeci">events</div><div class="ttdef"><b>Definition:</b> boss_sartura.cpp:43</div></div>
 <div class="ttc" id="aa02921_html_ad29858f6d8ab73f2970f41cb21a76b84a5d7cd4b94785b6ec2c571723d7ffae23"><div class="ttname"><a href="../../df/d27/a02921.html#ad29858f6d8ab73f2970f41cb21a76b84a5d7cd4b94785b6ec2c571723d7ffae23">EVENT_IGC_GROUND_SMASH</a></div><div class="ttdeci">@ EVENT_IGC_GROUND_SMASH</div><div class="ttdef"><b>Definition:</b> brann_bronzebeard.cpp:98</div></div>
 <div class="ttc" id="aa02921_html_ad29858f6d8ab73f2970f41cb21a76b84ac774c2b1b71654271d51ff445fff9191"><div class="ttname"><a href="../../df/d27/a02921.html#ad29858f6d8ab73f2970f41cb21a76b84ac774c2b1b71654271d51ff445fff9191">EVENT_IGC_CRUSH</a></div><div class="ttdeci">@ EVENT_IGC_CRUSH</div><div class="ttdef"><b>Definition:</b> brann_bronzebeard.cpp:97</div></div>
@@ -661,9 +661,9 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d2/dea/a06264.html#a26600c116d20a33461fc884bdb82eda9">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1069</span>        {</div>
-<div class="line"><span class="lineno"> 1070</span>            <a class="code hl_enumeration" href="../../d7/dbe/a02333.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Reset();</div>
-<div class="line"><span class="lineno"> 1071</span>        }</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1063</span>        {</div>
+<div class="line"><span class="lineno"> 1064</span>            <a class="code hl_enumeration" href="../../d7/dbe/a02333.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Reset();</div>
+<div class="line"><span class="lineno"> 1065</span>        }</div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -694,32 +694,32 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../de/de9/a19808.html#acd67b8d4df95eb8b0d0365184e47a29c" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Reimplemented from <a class="el" href="../../d2/dea/a06264.html#aff5fd4e142a5cf930ffacbfc7259cce5">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno"> 1079</span>        {</div>
-<div class="line"><span class="lineno"> 1080</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d75/a06220.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
-<div class="line"><span class="lineno"> 1081</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1082</span> </div>
-<div class="line"><span class="lineno"> 1083</span>            <a class="code hl_enumeration" href="../../d7/dbe/a02333.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Update(diff);</div>
-<div class="line"><span class="lineno"> 1084</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/dea/a06264.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d88/a08796.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a>))</div>
-<div class="line"><span class="lineno"> 1085</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno"> 1086</span> </div>
-<div class="line"><span class="lineno"> 1087</span>            <span class="keywordflow">switch</span> (<a class="code hl_enumeration" href="../../d7/dbe/a02333.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ExecuteEvent())</div>
-<div class="line"><span class="lineno"> 1088</span>            {</div>
-<div class="line"><span class="lineno"> 1089</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d27/a02921.html#ad29858f6d8ab73f2970f41cb21a76b84ac774c2b1b71654271d51ff445fff9191">EVENT_IGC_CRUSH</a>:</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1073</span>        {</div>
+<div class="line"><span class="lineno"> 1074</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d75/a06220.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
+<div class="line"><span class="lineno"> 1075</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1076</span> </div>
+<div class="line"><span class="lineno"> 1077</span>            <a class="code hl_enumeration" href="../../d7/dbe/a02333.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Update(diff);</div>
+<div class="line"><span class="lineno"> 1078</span>            <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d2/dea/a06264.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d88/a08796.html#ab78147cd520d2dac6be709b4c80a7de3">HasUnitState</a>(<a class="code hl_enumvalue" href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a>))</div>
+<div class="line"><span class="lineno"> 1079</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno"> 1080</span> </div>
+<div class="line"><span class="lineno"> 1081</span>            <span class="keywordflow">switch</span> (<a class="code hl_enumeration" href="../../d7/dbe/a02333.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.ExecuteEvent())</div>
+<div class="line"><span class="lineno"> 1082</span>            {</div>
+<div class="line"><span class="lineno"> 1083</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d27/a02921.html#ad29858f6d8ab73f2970f41cb21a76b84ac774c2b1b71654271d51ff445fff9191">EVENT_IGC_CRUSH</a>:</div>
+<div class="line"><span class="lineno"> 1084</span>                    {</div>
+<div class="line"><span class="lineno"> 1085</span>                        <a class="code hl_variable" href="../../d2/dea/a06264.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d88/a08796.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d2/dea/a06264.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d88/a08796.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>(), <a class="code hl_enumvalue" href="../../df/d27/a02921.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac3283aab05aa97bdb4afcaa3ae7e51ae">SPELL_IGC_CRUSH_ARMOR</a>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 1086</span>                        <a class="code hl_enumeration" href="../../d7/dbe/a02333.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Repeat(6s);</div>
+<div class="line"><span class="lineno"> 1087</span>                        <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno"> 1088</span>                    }</div>
+<div class="line"><span class="lineno"> 1089</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d27/a02921.html#ad29858f6d8ab73f2970f41cb21a76b84a5d7cd4b94785b6ec2c571723d7ffae23">EVENT_IGC_GROUND_SMASH</a>:</div>
 <div class="line"><span class="lineno"> 1090</span>                    {</div>
-<div class="line"><span class="lineno"> 1091</span>                        <a class="code hl_variable" href="../../d2/dea/a06264.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d88/a08796.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d2/dea/a06264.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d88/a08796.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>(), <a class="code hl_enumvalue" href="../../df/d27/a02921.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac3283aab05aa97bdb4afcaa3ae7e51ae">SPELL_IGC_CRUSH_ARMOR</a>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno"> 1092</span>                        <a class="code hl_enumeration" href="../../d7/dbe/a02333.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Repeat(6s);</div>
+<div class="line"><span class="lineno"> 1091</span>                        <a class="code hl_variable" href="../../d2/dea/a06264.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d88/a08796.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d2/dea/a06264.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d88/a08796.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>(), <a class="code hl_enumvalue" href="../../df/d27/a02921.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a88d4fd219660c3a15607fd8c2b602d80">SPELL_IGC_GROUND_SMASH</a>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno"> 1092</span>                        <a class="code hl_enumeration" href="../../d7/dbe/a02333.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Repeat(20s, 40s);</div>
 <div class="line"><span class="lineno"> 1093</span>                        <span class="keywordflow">break</span>;</div>
 <div class="line"><span class="lineno"> 1094</span>                    }</div>
-<div class="line"><span class="lineno"> 1095</span>                <span class="keywordflow">case</span> <a class="code hl_enumvalue" href="../../df/d27/a02921.html#ad29858f6d8ab73f2970f41cb21a76b84a5d7cd4b94785b6ec2c571723d7ffae23">EVENT_IGC_GROUND_SMASH</a>:</div>
-<div class="line"><span class="lineno"> 1096</span>                    {</div>
-<div class="line"><span class="lineno"> 1097</span>                        <a class="code hl_variable" href="../../d2/dea/a06264.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d88/a08796.html#aa3ca95f7a14041f562ed69c3994afdfc">CastSpell</a>(<a class="code hl_variable" href="../../d2/dea/a06264.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d8/d88/a08796.html#aae09d03a474ea5517d671e64dc393739">GetVictim</a>(), <a class="code hl_enumvalue" href="../../df/d27/a02921.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a88d4fd219660c3a15607fd8c2b602d80">SPELL_IGC_GROUND_SMASH</a>, <span class="keyword">false</span>);</div>
-<div class="line"><span class="lineno"> 1098</span>                        <a class="code hl_enumeration" href="../../d7/dbe/a02333.html#ad29858f6d8ab73f2970f41cb21a76b84">events</a>.Repeat(20s, 40s);</div>
-<div class="line"><span class="lineno"> 1099</span>                        <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno"> 1100</span>                    }</div>
-<div class="line"><span class="lineno"> 1101</span>            }</div>
-<div class="line"><span class="lineno"> 1102</span> </div>
-<div class="line"><span class="lineno"> 1103</span>            <a class="code hl_function" href="../../df/df2/a06208.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
-<div class="line"><span class="lineno"> 1104</span>        }</div>
+<div class="line"><span class="lineno"> 1095</span>            }</div>
+<div class="line"><span class="lineno"> 1096</span> </div>
+<div class="line"><span class="lineno"> 1097</span>            <a class="code hl_function" href="../../df/df2/a06208.html#a348a472089a9be6210b58aace8fafa9f">DoMeleeAttackIfReady</a>();</div>
+<div class="line"><span class="lineno"> 1098</span>        }</div>
 <div class="ttc" id="aa00875_html_ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54"><div class="ttname"><a href="../../d1/d93/a00875.html#ae51d2ecb71f7a5cb3882982a622c9544addeb46481f5261653c159d6f0db9cd54">UNIT_STATE_CASTING</a></div><div class="ttdeci">@ UNIT_STATE_CASTING</div><div class="ttdef"><b>Definition:</b> UnitDefines.h:185</div></div>
 <div class="ttc" id="aa02921_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6a88d4fd219660c3a15607fd8c2b602d80"><div class="ttname"><a href="../../df/d27/a02921.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a88d4fd219660c3a15607fd8c2b602d80">SPELL_IGC_GROUND_SMASH</a></div><div class="ttdeci">@ SPELL_IGC_GROUND_SMASH</div><div class="ttdef"><b>Definition:</b> brann_bronzebeard.cpp:66</div></div>
 <div class="ttc" id="aa02921_html_a3329d9d369a4ae5cfa5d8eac33a0c0c6ac3283aab05aa97bdb4afcaa3ae7e51ae"><div class="ttname"><a href="../../df/d27/a02921.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6ac3283aab05aa97bdb4afcaa3ae7e51ae">SPELL_IGC_CRUSH_ARMOR</a></div><div class="ttdeci">@ SPELL_IGC_CRUSH_ARMOR</div><div class="ttdef"><b>Definition:</b> brann_bronzebeard.cpp:65</div></div>
@@ -755,7 +755,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/d48/a19804.html">iron_golem_custodian</a></li><li class="navelem"><a class="el" href="../../de/de9/a19808.html">iron_golem_custodianAI</a></li>
-    <li class="footer">Generated on Mon Nov 17 2025 20:45:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Nov 24 2025 20:46:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

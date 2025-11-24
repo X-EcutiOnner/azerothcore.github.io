@@ -1,5 +1,7 @@
 var a22508 =
 [
-    [ "npc_wg_spirit_guideAI", "d1/d5b/a22508.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
-    [ "UpdateAI", "d1/d5b/a22508.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
+    [ "npc_wg_quest_giver", "d1/d5b/a22508.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
+    [ "GetDialogStatus", "d1/d5b/a22508.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
+    [ "OnGossipHello", "d1/d5b/a22508.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
+    [ "OnGossipSelect", "d1/d5b/a22508.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
 ];

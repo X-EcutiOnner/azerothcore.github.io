@@ -1,9 +1,7 @@
 var a28476 =
 [
-    [ "itemId", "dc/d90/a28476.html#ae125712e5569c9699b4748b6a15fbc12", null ],
-    [ "items_to_triggerspell", "dc/d90/a28476.html#a8496a2f3fa3e230def04b996fc585760", null ],
-    [ "name", "dc/d90/a28476.html#a9b62f843833d524f200782d44151503d", null ],
-    [ "required_skill_id", "dc/d90/a28476.html#ab3058ac725fb8f105b9359d5a5147942", null ],
-    [ "required_skill_value", "dc/d90/a28476.html#a58d0997a73cf48061545edbc0201f544", null ],
-    [ "spells", "dc/d90/a28476.html#a8aac032992efe1bfbba0e49693562c7f", null ]
+    [ "Id", "dc/d90/a28476.html#a94843a6f0cb39332f39a9630945f1fc8", null ],
+    [ "SoundBank", "dc/d90/a28476.html#a1dd2e40caf515186c831dc8cc82c095b", null ],
+    [ "SpellId", "dc/d90/a28476.html#aa010947f5fbec6867b005b25728e720b", null ],
+    [ "Type", "dc/d90/a28476.html#a7f610dd6a9944b4634bb981c0cb8e230", null ]
 ];

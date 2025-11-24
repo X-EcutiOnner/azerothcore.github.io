@@ -1,6 +1,6 @@
 var a27424 =
 [
-    [ "go_flamesAI", "d5/db2/a27428.html", "d5/db2/a27428" ],
-    [ "go_flames", "df/d9e/a27424.html#a75d49202eaf2078b8276e59944d1ec89", null ],
-    [ "GetAI", "df/d9e/a27424.html#aea11412e7d17b744b4e70ec754a1e6cc", null ]
+    [ "go_heatAI", "df/d9e/a27424.html#a40e4ec3294126aaf3fc6875aa8b39f0a", null ],
+    [ "UpdateAI", "df/d9e/a27424.html#a2332206ee47b2cea9e4707d16ea79325", null ],
+    [ "timer", "df/d9e/a27424.html#a4f01692c9f39e2a40d2d5f9c22e0ac43", null ]
 ];

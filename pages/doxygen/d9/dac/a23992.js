@@ -1,5 +1,7 @@
 var a23992 =
 [
-    [ "npc_thaladred", "d9/dac/a23992.html#a2589c19d5cc48c0a5fd504aecddfaa90", null ],
-    [ "ScheduleEvents", "d9/dac/a23992.html#a24febff1fc8b155bca0fb177a8119dbb", null ]
+    [ "HandleEffect", "d9/dac/a23992.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
+    [ "PrepareSpellScript", "d9/dac/a23992.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
+    [ "Register", "d9/dac/a23992.html#ac406946bb793125d49006e3a877c9638", null ],
+    [ "SelectTarget", "d9/dac/a23992.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
 ];

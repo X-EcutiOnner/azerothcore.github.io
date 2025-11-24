@@ -1,7 +1,6 @@
 var a24616 =
 [
-    [ "CheckCast", "d6/d6a/a24616.html#a0e4e62a9b1763619170b6da8487e7ee1", null ],
-    [ "HandleDummy", "d6/d6a/a24616.html#ac7084a563e98760d58dfbcafdd7cde11", null ],
-    [ "PrepareSpellScript", "d6/d6a/a24616.html#a465da282630352a289d5daae7ccb1d01", null ],
-    [ "Register", "d6/d6a/a24616.html#ae668f0c45a74d56d1be5be29309c9f6d", null ]
+    [ "PrepareSpellScript", "d6/d6a/a24616.html#a2585b06bbebf291d170df58daf6fdd4e", null ],
+    [ "RecalculateDamage", "d6/d6a/a24616.html#a1fe9f9d4892b0ca8cb6699b555fb9268", null ],
+    [ "Register", "d6/d6a/a24616.html#a834484683d2d782b4f4c027091108172", null ]
 ];

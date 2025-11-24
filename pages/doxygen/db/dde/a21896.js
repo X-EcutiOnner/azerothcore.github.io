@@ -1,7 +1,6 @@
 var a21896 =
 [
-    [ "npc_cosmetic_toy_plane", "db/dde/a21896.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "db/dde/a21896.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "db/dde/a21896.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "db/dde/a21896.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "npc_hourglass_of_eternityAI", "d3/ded/a21900.html", "d3/ded/a21900" ],
+    [ "npc_hourglass_of_eternity", "db/dde/a21896.html#a40500ff582ead06bd646be86baad7d35", null ],
+    [ "GetAI", "db/dde/a21896.html#a6cdec424e78e5c9decac73d091eec0ed", null ]
 ];

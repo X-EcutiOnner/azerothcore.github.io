@@ -1,7 +1,5 @@
 var a25664 =
 [
-    [ "FilterTargets", "d3/de9/a25664.html#affede599b86e05e6475fd64a60268e8e", null ],
-    [ "Load", "d3/de9/a25664.html#a1343407ca8b571140ed2ecf5501bf378", null ],
-    [ "PrepareSpellScript", "d3/de9/a25664.html#a12ff05520225209b476b3ba8422de1c6", null ],
-    [ "Register", "d3/de9/a25664.html#ac99786385187e21fb02e65e9b9719400", null ]
+    [ "PrepareSpellScript", "d3/de9/a25664.html#a9137654c01f41c735f477b85e4ec6d73", null ],
+    [ "Register", "d3/de9/a25664.html#af1002e90bc0801c0759393d2d4af8778", null ]
 ];

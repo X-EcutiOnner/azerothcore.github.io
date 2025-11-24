@@ -12,7 +12,8 @@ var a02660 =
       [ "NPC_JEDOGA_SHADOWSEEKER", "de/d7b/a02660.html#a0a7022dbeba8e4c5922bca61c1ac6be0a8f4808be30a572ba6dc967dde518e092", null ],
       [ "NPC_HERALD_VOLAZJ", "de/d7b/a02660.html#a0a7022dbeba8e4c5922bca61c1ac6be0a5c1e93f3700ea72caa137ad6848e3c85", null ],
       [ "NPC_AMANITAR", "de/d7b/a02660.html#a0a7022dbeba8e4c5922bca61c1ac6be0a34c1714ae003f663cb2b8951810d661f", null ],
-      [ "NPC_JEDOGA_CONTROLLER", "de/d7b/a02660.html#a0a7022dbeba8e4c5922bca61c1ac6be0acf6f2f93580795c52ed4700df297d549", null ]
+      [ "NPC_JEDOGA_CONTROLLER", "de/d7b/a02660.html#a0a7022dbeba8e4c5922bca61c1ac6be0acf6f2f93580795c52ed4700df297d549", null ],
+      [ "NPC_TWILIGHT_WORSHIPPER", "de/d7b/a02660.html#a0a7022dbeba8e4c5922bca61c1ac6be0ab0141026243071cdda0cc9e51f1e1c99", null ]
     ] ],
     [ "AhnkahetData", "de/d7b/a02660.html#aff905f3bb30004af8919ddfe3d29e8dd", [
       [ "DATA_ELDER_NADOX", "de/d7b/a02660.html#aff905f3bb30004af8919ddfe3d29e8dda770adca9032e015945b302877eea180f", null ],

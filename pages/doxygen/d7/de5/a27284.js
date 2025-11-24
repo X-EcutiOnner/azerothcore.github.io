@@ -1,5 +1,5 @@
 var a27284 =
 [
-    [ "AreaTrigger_at_stormwright_shelf", "d7/de5/a27284.html#a97cdf51a8992b3d9edc138351770fd75", null ],
-    [ "OnTrigger", "d7/de5/a27284.html#ab635f9328b35f3570211cf6ffc60a4c6", null ]
+    [ "AreaTrigger_at_nats_landing", "d7/de5/a27284.html#ac366e5b1db489b4f8bb8a1d07caa83c2", null ],
+    [ "OnTrigger", "d7/de5/a27284.html#a67434f74300fa3463e679afb7d344467", null ]
 ];

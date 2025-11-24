@@ -1,7 +1,6 @@
 var a25724 =
 [
-    [ "HandleJump", "df/d8c/a25724.html#ac70f6d53e85af1ee2591e761e21872db", null ],
-    [ "HandleScriptEffect", "df/d8c/a25724.html#abdaa3c5356f84429cf6d2e053a3238ff", null ],
-    [ "PrepareSpellScript", "df/d8c/a25724.html#a7daa7cef660e9f08b8e60c7788783c99", null ],
-    [ "Register", "df/d8c/a25724.html#a0cbd40958551e0f38850a9fdcd6f0048", null ]
+    [ "HandleHeal", "df/d8c/a25724.html#a3d315ab6d76d45f3d0f5de4a312377ff", null ],
+    [ "PrepareSpellScript", "df/d8c/a25724.html#ad77d816c82714fe2cafb4dbf48691937", null ],
+    [ "Register", "df/d8c/a25724.html#a313abe6367e5494bd81a557ab42f9f50", null ]
 ];

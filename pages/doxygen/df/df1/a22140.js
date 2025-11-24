@@ -1,7 +1,6 @@
 var a22140 =
 [
-    [ "HandleAfterEffectApply", "df/df1/a22140.html#ab54795dc49ca453db40494a694158a98", null ],
-    [ "PrepareAuraScript", "df/df1/a22140.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
-    [ "Register", "df/df1/a22140.html#addd4fac4cc8a93d800abacb144e3303c", null ],
-    [ "Validate", "df/df1/a22140.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
+    [ "HandleOnEffectRemove", "df/df1/a22140.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "df/df1/a22140.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "df/df1/a22140.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

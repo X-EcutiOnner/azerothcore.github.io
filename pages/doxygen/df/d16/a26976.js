@@ -1,8 +1,6 @@
 var a26976 =
 [
-    [ "CalcPeriodic", "df/d16/a26976.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
-    [ "CalculateAmount", "df/d16/a26976.html#a525009acb345d6b0a9857c30cfce2230", null ],
-    [ "HandlePeriodic", "df/d16/a26976.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
-    [ "PrepareAuraScript", "df/d16/a26976.html#a5627212e48a3044a9a7480851787a839", null ],
-    [ "Register", "df/d16/a26976.html#a09ea5265d7105a4bd487d383948901a0", null ]
+    [ "HandleBanish", "df/d16/a26976.html#ab8dd3ab2fd7b9aff3556e6284c515474", null ],
+    [ "PrepareSpellScript", "df/d16/a26976.html#a56118e3ed7525cdf575531a4c2f2d93f", null ],
+    [ "Register", "df/d16/a26976.html#ad6c066c9d6a64a5d89d3c347600559a9", null ]
 ];

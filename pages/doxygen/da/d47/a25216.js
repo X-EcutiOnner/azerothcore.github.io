@@ -1,8 +1,10 @@
 var a25216 =
 [
-    [ "CheckRequirement", "da/d47/a25216.html#ad967ae7e2affa312fa4adbca6e86dd7c", null ],
-    [ "HandleScript", "da/d47/a25216.html#aa89b60b2d757ef1ceacebae38aa5d9d9", null ],
-    [ "Load", "da/d47/a25216.html#a9dfb5501ad6324a25966af44f233b5fb", null ],
-    [ "PrepareSpellScript", "da/d47/a25216.html#ace75db8a6e5628df6e2edba91cd2852f", null ],
-    [ "Register", "da/d47/a25216.html#a89d053e0ee793017c74188aac32d99d5", null ]
+    [ "Load", "da/d47/a25216.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
+    [ "OnApply", "da/d47/a25216.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
+    [ "OnRemove", "da/d47/a25216.html#a29834c598d6ef8299d54e48a3461e603", null ],
+    [ "PrepareAuraScript", "da/d47/a25216.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
+    [ "Register", "da/d47/a25216.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
+    [ "Validate", "da/d47/a25216.html#aeaf16594f569af671d221234a4aa2c8b", null ],
+    [ "prevItem", "da/d47/a25216.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
 ];

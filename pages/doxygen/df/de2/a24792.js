@@ -1,11 +1,10 @@
 var a24792 =
 [
-    [ "HandleAfterHit", "df/de2/a24792.html#a3cfb75da66372934ba5aaa1c9ad6c6f3", null ],
-    [ "HandleDummy", "df/de2/a24792.html#abb3f92850fa6fff94c682b990c361fe6", null ],
-    [ "Load", "df/de2/a24792.html#ae5900d64c9b9b2de48c494458d4bed8b", null ],
-    [ "PrepareSpellScript", "df/de2/a24792.html#adea0e24654cd87b3aee07ce2183b9517", null ],
-    [ "Register", "df/de2/a24792.html#a3e155e336d6a5a6a4d44eae422ef7939", null ],
-    [ "Validate", "df/de2/a24792.html#a28bb9111c8e5116a82d4e54b7eacb92b", null ],
-    [ "guid", "df/de2/a24792.html#a6e177d68e1d39dcb27e6643d267328a5", null ],
-    [ "multiplier", "df/de2/a24792.html#a04ed6aae0ea28a4f1b7c1ed5f4f73a0b", null ]
+    [ "Absorb", "df/de2/a24792.html#a5ab2041dcc342b087d8c6fd9b8d2635f", null ],
+    [ "CalculateAmount", "df/de2/a24792.html#aed6e525b71f18dafb6f458bc255a6495", null ],
+    [ "Load", "df/de2/a24792.html#af73fcf4a73ba60e214c045471569f7b0", null ],
+    [ "PrepareAuraScript", "df/de2/a24792.html#a884927612b8ab2712a057da72f8180c6", null ],
+    [ "Register", "df/de2/a24792.html#a380b63aec7c567c8db60f4c69a4e6043", null ],
+    [ "Validate", "df/de2/a24792.html#af58ba552be9c91e8885ef1ccd567c96a", null ],
+    [ "absorbPct", "df/de2/a24792.html#a64e8bcde6ee27dd00e77d7bfa0864e81", null ]
 ];

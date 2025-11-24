@@ -1,6 +1,7 @@
 var a22032 =
 [
-    [ "npc_spiritual_insightAI", "d7/dbe/a22036.html", "d7/dbe/a22036" ],
-    [ "npc_spiritual_insight", "d0/dd9/a22032.html#afe7b9d5953462719407f03b33b8de564", null ],
-    [ "GetAI", "d0/dd9/a22032.html#ab2884e1160ccad9adb8e3ae69db55bc4", null ]
+    [ "HandleDummy", "d0/dd9/a22032.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
+    [ "PrepareSpellScript", "d0/dd9/a22032.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
+    [ "Register", "d0/dd9/a22032.html#a45f80e0436f93a597deb4653852df6a1", null ],
+    [ "Validate", "d0/dd9/a22032.html#ad13fdade1fb7455485bfd68687de53c5", null ]
 ];

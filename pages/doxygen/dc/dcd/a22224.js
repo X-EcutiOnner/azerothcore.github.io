@@ -1,6 +1,6 @@
 var a22224 =
 [
-    [ "npc_llod_genericAI", "d6/dbc/a22228.html", "d6/dbc/a22228" ],
-    [ "npc_llod_generic", "dc/dcd/a22224.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
-    [ "GetAI", "dc/dcd/a22224.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
+    [ "npc_boneguard_footmanAI", "d6/dbc/a22228.html", "d6/dbc/a22228" ],
+    [ "npc_boneguard_footman", "dc/dcd/a22224.html#aba17f89b9546deff5401ad33224b2b3e", null ],
+    [ "GetAI", "dc/dcd/a22224.html#ab0b28f61e26f701db17a0d19bbde4492", null ]
 ];

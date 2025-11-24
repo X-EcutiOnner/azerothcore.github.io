@@ -1,5 +1,5 @@
 var a27884 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "d7/d40/a27884.html#afaa929276f8b131005c9b94daa9a09f9", null ],
-    [ "OnPlayerCompleteQuest", "d7/d40/a27884.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
+    [ "npc_necropolis", "d7/d40/a27884.html#a6535d6dbdc5a6b3c715ca9ec470fb258", null ],
+    [ "SpellHit", "d7/d40/a27884.html#ae068da7f6b1de5d06568b672d9f46f18", null ]
 ];

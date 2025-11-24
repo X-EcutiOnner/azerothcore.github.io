@@ -1,7 +1,8 @@
 var a29052 =
 [
-    [ "W", "da/d62/a29052.html#adc2e55b935dcc2daefd60739bdb31cec", null ],
-    [ "X", "da/d62/a29052.html#a2676f1a5ec3a2f69ebb953e4b5741c4b", null ],
-    [ "Y", "da/d62/a29052.html#aa3353a9f5afdf3614e37f9681441ae05", null ],
-    [ "Z", "da/d62/a29052.html#a533b5e90b6333d89190828f28721e61d", null ]
+    [ "Color", "da/d62/a29052.html#a379e4cf61345dbb4d93da5a8603138c0", null ],
+    [ "NameIndex", "da/d62/a29052.html#add893e045d13a3633fd7346457a10477", null ],
+    [ "Position", "da/d62/a29052.html#afae9056582e71160c151de2c172bc60a", null ],
+    [ "Rotation", "da/d62/a29052.html#a48d372bc1371fa5f94db9aa39669942a", null ],
+    [ "Scale", "da/d62/a29052.html#aefacaaf0be0745c95ffc53f410da6e8d", null ]
 ];

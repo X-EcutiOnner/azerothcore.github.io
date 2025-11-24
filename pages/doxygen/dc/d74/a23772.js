@@ -1,5 +1,5 @@
 var a23772 =
 [
-    [ "go_manticron_cube", "dc/d74/a23772.html#a87d9571aea57f16d38067ebd9e22200d", null ],
-    [ "OnGossipHello", "dc/d74/a23772.html#accab4a61f00f5e465fb795b4cbe672bf", null ]
+    [ "spellId", "dc/d74/a23772.html#acc63d01d5095adef28b9746c520be973", null ],
+    [ "textId", "dc/d74/a23772.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
 ];

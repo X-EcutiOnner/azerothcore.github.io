@@ -1,6 +1,7 @@
 var a27332 =
 [
-    [ "boss_lethonAI", "db/dbd/a27336.html", "db/dbd/a27336" ],
-    [ "boss_lethon", "db/d58/a27332.html#a5d758979b061646830373de64b2b3af4", null ],
-    [ "GetAI", "db/d58/a27332.html#a493baf37aac400635dd0409e79375a1c", null ]
+    [ "npc_spirit_shadeAI", "db/d58/a27332.html#a8b7bf7c7cc541a47be79aad76a9bbcbc", null ],
+    [ "IsSummonedBy", "db/d58/a27332.html#a3a7fcb4af8e3b27e06b4665e8a864b38", null ],
+    [ "MovementInform", "db/d58/a27332.html#ab001fdc09efe9f8c03ad1b7610124e6d", null ],
+    [ "_summonerGuid", "db/d58/a27332.html#aa7c6abb848ab37f407a3553d04d0ad81", null ]
 ];

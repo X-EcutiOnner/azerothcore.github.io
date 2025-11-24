@@ -1,9 +1,24 @@
 var a27900 =
 [
-    [ "npc_necropolis_health", "db/d30/a27900.html#a9dc3e7734c22adea687a69662a3c7afa", null ],
-    [ "DespawnNecropolis", "db/d30/a27900.html#af80e2b106b04e02d4c23a5fe4c45a7a2", null ],
-    [ "JustDied", "db/d30/a27900.html#a972687770c7afb0adfaac56f0cb73d5f", null ],
-    [ "SpellHit", "db/d30/a27900.html#ad4a9f9b166ab8107a16da918082c6625", null ],
-    [ "SpellHitTarget", "db/d30/a27900.html#ad357b3497d36d6471460c09d3f01ab3e", null ],
-    [ "_zapCount", "db/d30/a27900.html#aa9f17362d0e4dbcf275a5148a4c2392b", null ]
+    [ "npc_necrotic_shard", "db/d30/a27900.html#a2992dbe8b0d18a7d41b28abd224fc697", null ],
+    [ "DamageTaken", "db/d30/a27900.html#a86289f7c8ec1f3a52c7d88b1be15201d", null ],
+    [ "DespawnCultists", "db/d30/a27900.html#a0d2d4526d484d7f173d24d5a92b1d3ea", null ],
+    [ "DespawnEventDoodads", "db/d30/a27900.html#a65e2066192fa7c7fadc4aeaf8b0a9dd2", null ],
+    [ "DespawnShadowsOfDoom", "db/d30/a27900.html#a5ea43bf63be68390a8bf5e193bc5d651", null ],
+    [ "HandleShardMinionSpawnerSmall", "db/d30/a27900.html#a9a3dfceaa896a63cbf4b517acc243468", null ],
+    [ "HasCampTypeAura", "db/d30/a27900.html#a83e16b403c352c29a4274d3641876e72", null ],
+    [ "HasMinion", "db/d30/a27900.html#a1180dc1fa894886b492508afbc692667", null ],
+    [ "JustDied", "db/d30/a27900.html#a2178a576224ff9bf33d76793356c5281", null ],
+    [ "Reset", "db/d30/a27900.html#aecc545eefc308b525052f86bfab5b390", null ],
+    [ "ScheduleCultistSpawnTask", "db/d30/a27900.html#aa71daa74d312f6da03ccd64a8141624b", null ],
+    [ "ScheduleMinionSpawnTask", "db/d30/a27900.html#a469b1379d557096d2bf17f0eb9d9adad", null ],
+    [ "ScheduleTasks", "db/d30/a27900.html#a302fd24804b81ee7aa538f66ec74150b", null ],
+    [ "SpellHit", "db/d30/a27900.html#aef06aa96540360a9edf7006f6438ad5d", null ],
+    [ "SpellHitTarget", "db/d30/a27900.html#aeea71f3ba1e79722280da9b7adf5c212", null ],
+    [ "SummonCultists", "db/d30/a27900.html#a2db6786b77d0a3a2ec923e5eee7e3ce0", null ],
+    [ "UpdateAI", "db/d30/a27900.html#a1b40f869dbf2d1d3d4cc9c26cb711600", null ],
+    [ "UpdateFindersAmount", "db/d30/a27900.html#aa38be6224d7712e710861a4b3ba0424e", null ],
+    [ "_nearbyFinderCount", "db/d30/a27900.html#a213d09001f9c498756e43a7fd6d49f10", null ],
+    [ "_spellCampType", "db/d30/a27900.html#acf6c33a5b342e5a6a97e5f7565d8dc87", null ],
+    [ "_zapCount", "db/d30/a27900.html#aa456d50b6e77bc86ecf0399474ced4d3", null ]
 ];

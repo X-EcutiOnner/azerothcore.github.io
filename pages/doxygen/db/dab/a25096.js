@@ -1,6 +1,6 @@
 var a25096 =
 [
-    [ "ModDest", "db/dab/a25096.html#a99d08536d2555390a7399a6d2fc199e6", null ],
-    [ "PrepareSpellScript", "db/dab/a25096.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
-    [ "Register", "db/dab/a25096.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
+    [ "OnPeriodic", "db/dab/a25096.html#a5fdf44f34765d0386d5c5490620c944a", null ],
+    [ "PrepareAuraScript", "db/dab/a25096.html#a3c3044795e183eef2c801781100b11c7", null ],
+    [ "Register", "db/dab/a25096.html#a1221c3287c3fd7add356e84430508684", null ]
 ];

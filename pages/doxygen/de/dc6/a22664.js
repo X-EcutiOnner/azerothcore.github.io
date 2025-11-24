@@ -1,5 +1,5 @@
 var a22664 =
 [
-    [ "OutdoorPvP_grizzly_hills", "de/dc6/a22664.html#aa020d8120c62874fb15b4623bbb714d9", null ],
-    [ "GetOutdoorPvP", "de/dc6/a22664.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
+    [ "OutdoorPvP_hellfire_peninsula", "de/dc6/a22664.html#a8ef74076d03225c889c6f027fbbfe25d", null ],
+    [ "GetOutdoorPvP", "de/dc6/a22664.html#aee93a8191457d7a264053809a5c082e8", null ]
 ];

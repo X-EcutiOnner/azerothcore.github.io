@@ -1,6 +1,6 @@
 var a24108 =
 [
-    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "dc/d79/a24112.html", "dc/d79/a24112" ],
-    [ "npc_deaths_door_fell_cannon_target_bunny", "da/d64/a24108.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
-    [ "GetAI", "da/d64/a24108.html#a250707096229da28024960beeb7725bf", null ]
+    [ "npc_deaths_fel_cannonAI", "da/d64/a24108.html#a29d298bd85c78e2fbf0a4019aa7fbce7", null ],
+    [ "Reset", "da/d64/a24108.html#a4096d75a98dc8a1c95920710fb48d6ff", null ],
+    [ "UpdateAI", "da/d64/a24108.html#a942a8b1153b4ae6fde3b474cc909daad", null ]
 ];

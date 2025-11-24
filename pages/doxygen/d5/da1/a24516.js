@@ -1,5 +1,6 @@
 var a24516 =
 [
-    [ "npc_pet_dk_risen_ally", "d5/da1/a24516.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
-    [ "OnCharmed", "d5/da1/a24516.html#ac3927becc1ed929c384b3413bfee9330", null ]
+    [ "HandleDamageCalc", "d5/da1/a24516.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
+    [ "PrepareSpellScript", "d5/da1/a24516.html#a183477b6269dbc705a10e60ab36c13b1", null ],
+    [ "Register", "d5/da1/a24516.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
 ];

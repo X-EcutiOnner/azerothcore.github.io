@@ -1,29 +1,7 @@
 var a28704 =
 [
-    [ "SocketContainer", "d2/dd1/a28704.html#afecfc2ddefae1d1dca0f74e36695a748", null ],
-    [ "NetworkThread", "d2/dd1/a28704.html#a2df41b14bf9c78c1411f259e16e6e117", null ],
-    [ "~NetworkThread", "d2/dd1/a28704.html#acd382af147a8462a1747003a7b2ca6f3", null ],
-    [ "AddNewSockets", "d2/dd1/a28704.html#aa6c0801cffd0c9799827386023158a3f", null ],
-    [ "AddSocket", "d2/dd1/a28704.html#a77ff5884c64dad273ba2e29a848abb8b", null ],
-    [ "EnableProxyProtocol", "d2/dd1/a28704.html#a3ae117298b1221971bd2e5e0d4d50310", null ],
-    [ "GetConnectionCount", "d2/dd1/a28704.html#a1cda269b54a5c18ea852e8eec1c1ed1a", null ],
-    [ "GetSocketForAccept", "d2/dd1/a28704.html#a65c686827e925c82a5b3a00560edf604", null ],
-    [ "HandleNewSocketsProxyReadingOnConnect", "d2/dd1/a28704.html#a32d09df32278dea2629dc5b70e894200", null ],
-    [ "Run", "d2/dd1/a28704.html#a68eb944ab6990a10c0f018b98fe27a19", null ],
-    [ "SocketAdded", "d2/dd1/a28704.html#a40bed7f56035f9d97f7091f608e7294c", null ],
-    [ "SocketRemoved", "d2/dd1/a28704.html#a010615f231a56078c952cd4036072581", null ],
-    [ "Start", "d2/dd1/a28704.html#a2f41a91c1af6e5ad7c2cf9639df72747", null ],
-    [ "Stop", "d2/dd1/a28704.html#a39e62bbff0f6fe339200d9b41aee09f3", null ],
-    [ "Update", "d2/dd1/a28704.html#adfda6bbc8f3266829b93fa0b161c738b", null ],
-    [ "Wait", "d2/dd1/a28704.html#a59c5558451742998e0e655f44bec2674", null ],
-    [ "_acceptSocket", "d2/dd1/a28704.html#a41df6df2d0a948bd972f9287ff69e825", null ],
-    [ "_connections", "d2/dd1/a28704.html#af366d3c6dbae206e0621b51e89aa5dfd", null ],
-    [ "_ioContext", "d2/dd1/a28704.html#a3304012c15cb2134e85dc97826d27253", null ],
-    [ "_newSockets", "d2/dd1/a28704.html#abaa961543f4f330b6f336abdd743e534", null ],
-    [ "_newSocketsLock", "d2/dd1/a28704.html#a8429b8f36f17289e562fdfbb1a3b1e49", null ],
-    [ "_proxyHeaderReadingEnabled", "d2/dd1/a28704.html#aac8fdbb8b3ec4f0edac5a1b0aa929fa4", null ],
-    [ "_sockets", "d2/dd1/a28704.html#a30f6fed3a09d51e539d80980e889df08", null ],
-    [ "_stopped", "d2/dd1/a28704.html#ab78270a994d0cef1ee9d7e6821e0fe61", null ],
-    [ "_thread", "d2/dd1/a28704.html#af43a3c2f0bae980206dd55bac3a79ab7", null ],
-    [ "_updateTimer", "d2/dd1/a28704.html#add2ae5cadb69660756bdc41c2511d1c5", null ]
+    [ "~ByteBufferException", "d2/dd1/a28704.html#a0ab73f9061c040127f70dbfc9a176509", null ],
+    [ "message", "d2/dd1/a28704.html#ab1a64d8fc18565a04c347de29184f68c", null ],
+    [ "what", "d2/dd1/a28704.html#a87896f7ab19f3032937f5f84e8cf440a", null ],
+    [ "msg_", "d2/dd1/a28704.html#a314bdbb7063219f8256df894602e6b02", null ]
 ];

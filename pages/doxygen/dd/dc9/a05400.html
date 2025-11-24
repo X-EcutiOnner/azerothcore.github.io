@@ -521,7 +521,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">   69</span>    <span class="comment">// Format = type, level, flags, optional1, optional2</span></div>
 <div class="line"><span class="lineno">   70</span>    <span class="comment">// if type = File. optional1 = file and option2 = mode</span></div>
 <div class="line"><span class="lineno">   71</span>    <span class="comment">// if type = Console. optional1 = Color</span></div>
-<div class="line"><span class="lineno">   72</span>    std::string options = <a class="code hl_define" href="../../d5/dee/a29945.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(appenderName, <span class="stringliteral">&quot;&quot;</span>);</div>
+<div class="line"><span class="lineno">   72</span>    std::string options = <a class="code hl_define" href="../../dd/d4d/a29933.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(appenderName, <span class="stringliteral">&quot;&quot;</span>);</div>
 <div class="line"><span class="lineno">   73</span> </div>
 <div class="line"><span class="lineno">   74</span>    std::vector&lt;std::string_view&gt; tokens = <a class="code hl_function" href="../../d9/d62/a04803.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a>(options, <span class="charliteral">&#39;,&#39;</span>, <span class="keyword">true</span>);</div>
 <div class="line"><span class="lineno">   75</span> </div>
@@ -588,7 +588,7 @@ Private Attributes</h2></td></tr>
 <div class="ttc" id="aa05388_html"><div class="ttname"><a href="../../da/de3/a05388.html">InvalidAppenderArgsException</a></div><div class="ttdef"><b>Definition:</b> Appender.h:55</div></div>
 <div class="ttc" id="aa05400_html_a20f1c9877dbe19a75a46d756757d3fc2"><div class="ttname"><a href="../../dd/dc9/a05400.html#a20f1c9877dbe19a75a46d756757d3fc2">Log::NextAppenderId</a></div><div class="ttdeci">uint8 NextAppenderId()</div><div class="ttdef"><b>Definition:</b> Log.cpp:46</div></div>
 <div class="ttc" id="aa05400_html_aea6024bb1b054aef15a7851238721d24"><div class="ttname"><a href="../../dd/dc9/a05400.html#aea6024bb1b054aef15a7851238721d24">Log::appenderFactory</a></div><div class="ttdeci">std::unordered_map&lt; uint8, AppenderCreatorFn &gt; appenderFactory</div><div class="ttdef"><b>Definition:</b> Log.h:114</div></div>
-<div class="ttc" id="aa29945_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../d5/dee/a29945.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:93</div></div>
+<div class="ttc" id="aa29933_html_a7236988e98bdd405bf435a029b70a26f"><div class="ttname"><a href="../../dd/d4d/a29933.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a></div><div class="ttdeci">#define sConfigMgr</div><div class="ttdef"><b>Definition:</b> Config.h:93</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00052">APPENDER_FLAGS_NONE</a>, <a class="el" href="../../#l00046">APPENDER_INVALID</a>, <a class="el" href="../../#l00114">appenderFactory</a>, <a class="el" href="../../#l00115">appenders</a>, <a class="el" href="../../#l00028">Appender::getId()</a>, <a class="el" href="../../#l00035">LOG_LEVEL_INVALID</a>, <a class="el" href="../../#l00046">NextAppenderId()</a>, <a class="el" href="../../#l00034">NUM_ENABLED_LOG_LEVELS</a>, <a class="el" href="../../#l00093">sConfigMgr</a>, and <a class="el" href="../../#l00020">Acore::Tokenize()</a>.</p>
 
@@ -627,7 +627,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  132</span> </div>
 <div class="line"><span class="lineno">  133</span>    <a class="code hl_enumeration" href="../../d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> level = <a class="code hl_enumvalue" href="../../d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781ae44988e4cdc992741e4a39b3734e1f61">LOG_LEVEL_DISABLED</a>;</div>
 <div class="line"><span class="lineno">  134</span> </div>
-<div class="line"><span class="lineno">  135</span>    std::string options = <a class="code hl_define" href="../../d5/dee/a29945.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(appenderName, <span class="stringliteral">&quot;&quot;</span>);</div>
+<div class="line"><span class="lineno">  135</span>    std::string options = <a class="code hl_define" href="../../dd/d4d/a29933.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(appenderName, <span class="stringliteral">&quot;&quot;</span>);</div>
 <div class="line"><span class="lineno">  136</span>    std::string name = appenderName.substr(7);</div>
 <div class="line"><span class="lineno">  137</span> </div>
 <div class="line"><span class="lineno">  138</span>    <span class="keywordflow">if</span> (options.empty())</div>
@@ -955,7 +955,7 @@ Private Attributes</h2></td></tr>
 <div class="line"><span class="lineno">  390</span> </div>
 <div class="line"><span class="lineno">  391</span>    <a class="code hl_variable" href="../../dd/dc9/a05400.html#ad4124d370aa4aa47c2172c5dd9cede17">highestLogLevel</a> = <a class="code hl_enumvalue" href="../../d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781a779dc8dd26898fb0f88cd5f6e02ba1e5">LOG_LEVEL_FATAL</a>;</div>
 <div class="line"><span class="lineno">  392</span>    <a class="code hl_variable" href="../../dd/dc9/a05400.html#a90022da6d95dcba62a2b1a57c351939b">AppenderId</a> = 0;</div>
-<div class="line"><span class="lineno">  393</span>    <a class="code hl_variable" href="../../dd/dc9/a05400.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a> = <a class="code hl_define" href="../../d5/dee/a29945.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;LogsDir&quot;</span>, <span class="stringliteral">&quot;&quot;</span>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">  393</span>    <a class="code hl_variable" href="../../dd/dc9/a05400.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a> = <a class="code hl_define" href="../../dd/d4d/a29933.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetOption&lt;std::string&gt;(<span class="stringliteral">&quot;LogsDir&quot;</span>, <span class="stringliteral">&quot;&quot;</span>, <span class="keyword">false</span>);</div>
 <div class="line"><span class="lineno">  394</span> </div>
 <div class="line"><span class="lineno">  395</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../dd/dc9/a05400.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a>.empty())</div>
 <div class="line"><span class="lineno">  396</span>        <span class="keywordflow">if</span> ((<a class="code hl_variable" href="../../dd/dc9/a05400.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a>.at(<a class="code hl_variable" href="../../dd/dc9/a05400.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a>.length() - 1) != <span class="charliteral">&#39;/&#39;</span>) &amp;&amp; (<a class="code hl_variable" href="../../dd/dc9/a05400.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a>.at(<a class="code hl_variable" href="../../dd/dc9/a05400.html#ac77fdeba5f12d28fd53852cc8225fd74">m_logsDir</a>.length() - 1) != <span class="charliteral">&#39;\\&#39;</span>))</div>
@@ -1195,7 +1195,7 @@ template&lt;typename... Args&gt; </div>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  187</span>{</div>
-<div class="line"><span class="lineno">  188</span>    std::vector&lt;std::string&gt; keys = <a class="code hl_define" href="../../d5/dee/a29945.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetKeysByString(<span class="stringliteral">&quot;Appender.&quot;</span>);</div>
+<div class="line"><span class="lineno">  188</span>    std::vector&lt;std::string&gt; keys = <a class="code hl_define" href="../../dd/d4d/a29933.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetKeysByString(<span class="stringliteral">&quot;Appender.&quot;</span>);</div>
 <div class="line"><span class="lineno">  189</span>    <span class="keywordflow">for</span> (std::string <span class="keyword">const</span>&amp; appenderName : keys)</div>
 <div class="line"><span class="lineno">  190</span>    {</div>
 <div class="line"><span class="lineno">  191</span>        <a class="code hl_function" href="../../dd/dc9/a05400.html#a2aa9a587a843e3a83659e8c795e7d59e">CreateAppenderFromConfig</a>(appenderName);</div>
@@ -1232,7 +1232,7 @@ template&lt;typename... Args&gt; </div>
 </table>
 </div><div class="memdoc">
 <div class="fragment"><div class="line"><span class="lineno">  196</span>{</div>
-<div class="line"><span class="lineno">  197</span>    std::vector&lt;std::string&gt; keys = <a class="code hl_define" href="../../d5/dee/a29945.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetKeysByString(<span class="stringliteral">&quot;Logger.&quot;</span>);</div>
+<div class="line"><span class="lineno">  197</span>    std::vector&lt;std::string&gt; keys = <a class="code hl_define" href="../../dd/d4d/a29933.html#a7236988e98bdd405bf435a029b70a26f">sConfigMgr</a>-&gt;GetKeysByString(<span class="stringliteral">&quot;Logger.&quot;</span>);</div>
 <div class="line"><span class="lineno">  198</span>    <span class="keywordflow">for</span> (std::string <span class="keyword">const</span>&amp; loggerName : keys)</div>
 <div class="line"><span class="lineno">  199</span>    {</div>
 <div class="line"><span class="lineno">  200</span>        <a class="code hl_function" href="../../dd/dc9/a05400.html#ad86e5e34ed5c40bf22467bd33c90c69a">CreateLoggerFromConfig</a>(loggerName);</div>
@@ -1800,7 +1800,7 @@ template&lt;class AppenderImpl &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dd/dc9/a05400.html">Log</a></li>
-    <li class="footer">Generated on Mon Nov 17 2025 20:45:54 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Nov 24 2025 20:46:05 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

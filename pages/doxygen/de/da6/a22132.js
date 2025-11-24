@@ -1,11 +1,7 @@
 var a22132 =
 [
-    [ "npc_lake_frogAI", "de/da6/a22132.html#ac08eeed39d046ce35d7d6aa65d53cab5", null ],
-    [ "ReceiveEmote", "de/da6/a22132.html#abd58e65b6829c70818c578ed615a980b", null ],
-    [ "Reset", "de/da6/a22132.html#a3773b3a21ea25db316481f1da5e6dd3c", null ],
-    [ "sGossipSelect", "de/da6/a22132.html#a95906677ff65e004408ae65df3f49b5c", null ],
-    [ "UpdateAI", "de/da6/a22132.html#aed8368ec27fed5cd14e4a54091aa9584", null ],
-    [ "_events", "de/da6/a22132.html#a314d7d7891c05bda288ea0d590f0cfa4", null ],
-    [ "_following", "de/da6/a22132.html#a0078f9134a61f0ec2465ce103523e341", null ],
-    [ "_runningScript", "de/da6/a22132.html#af76102ba6c9ffd80baa95623b7312980", null ]
+    [ "HandleDummy", "de/da6/a22132.html#a98e8a4b7bbe947b00f1bc32632736d59", null ],
+    [ "PrepareSpellScript", "de/da6/a22132.html#a65b1ddf275eb5ee14ca32a1e25bf6e0e", null ],
+    [ "Register", "de/da6/a22132.html#acdfa4e1fc8e26a887e80521b1bea5150", null ],
+    [ "Validate", "de/da6/a22132.html#aeec15705a41ad2ac0e59d90086591d96", null ]
 ];

@@ -1,6 +1,6 @@
 var a27452 =
 [
-    [ "go_l70_etc_musicAI", "d1/dd4/a27452.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
-    [ "UpdateAI", "d1/dd4/a27452.html#a182a5a9bbe53ced25740de9a4a368469", null ],
-    [ "_events", "d1/dd4/a27452.html#aa0cda672b4491b3cfc75214038aa2132", null ]
+    [ "go_pirate_day_musicAI", "d3/d43/a27456.html", "d3/d43/a27456" ],
+    [ "go_pirate_day_music", "d1/dd4/a27452.html#aa8d19102357639bd160eae9e90a87505", null ],
+    [ "GetAI", "d1/dd4/a27452.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
 ];

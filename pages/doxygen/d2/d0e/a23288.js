@@ -1,13 +1,15 @@
 var a23288 =
 [
-    [ "boss_fathomguard_caribdis", "d2/d0e/a23288.html#a9172b9717e5137ddde7df38bb237478c", null ],
-    [ "EnterEvadeMode", "d2/d0e/a23288.html#aa666a491a776b12a042ee140aedc95eb", null ],
-    [ "JustDied", "d2/d0e/a23288.html#ab821365b35a48f70a11c6033fe2ca714", null ],
-    [ "JustEngagedWith", "d2/d0e/a23288.html#a5503519998f51f475420ada2210f32f0", null ],
-    [ "JustSummoned", "d2/d0e/a23288.html#a39ca45ec0de50b7d7a5ec866c4017a8a", null ],
-    [ "Reset", "d2/d0e/a23288.html#a0d2a3403d5934e86a897b3417ed2214a", null ],
-    [ "UpdateAI", "d2/d0e/a23288.html#af4a544f37d178de21d84f2544f24431e", null ],
-    [ "_instance", "d2/d0e/a23288.html#a73f567f2269aeca1435af82e1c6880e9", null ],
-    [ "_scheduler", "d2/d0e/a23288.html#a08b01e9735e421d8d5bbc2b552217762", null ],
-    [ "_summons", "d2/d0e/a23288.html#ac8b53cb81547a2423a13c997badb77e3", null ]
+    [ "boss_hydross_the_unstable", "d2/d0e/a23288.html#a8e385f4f7f448033b00828540aa16cde", null ],
+    [ "JustDied", "d2/d0e/a23288.html#ad05fa00eade9614ed54b03a9a4d5d348", null ],
+    [ "JustEngagedWith", "d2/d0e/a23288.html#a4fd2138ce9962d89410b57702d7df33d", null ],
+    [ "JustReachedHome", "d2/d0e/a23288.html#a03cbe48effc4cd3a2821312e60578ed4", null ],
+    [ "JustSummoned", "d2/d0e/a23288.html#a3e9031d95c9e62cbd83eeba4af6c965a", null ],
+    [ "KilledUnit", "d2/d0e/a23288.html#a252d3abdf24c06922c88823bc5e535f3", null ],
+    [ "Reset", "d2/d0e/a23288.html#a0bcad41c74800ab58df8b5ea54d2ec8e", null ],
+    [ "SetForm", "d2/d0e/a23288.html#ac80b0611533998d15406d45385d37629", null ],
+    [ "SummonedCreatureDespawn", "d2/d0e/a23288.html#afe4b76f528045506586f8289eaee27aa", null ],
+    [ "SummonMovementInform", "d2/d0e/a23288.html#af74b63bf239de38f8dd04e69a6ea2b54", null ],
+    [ "SummonTaintedElementalOOC", "d2/d0e/a23288.html#a219094dc5a81acb7d7ae86d5d7945da8", null ],
+    [ "_recentlySpoken", "d2/d0e/a23288.html#acfd0f1a6331b08659c5fffa7850d30b4", null ]
 ];

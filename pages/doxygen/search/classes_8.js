@@ -1,12 +1,12 @@
 var searchData=
 [
-  ['halaaids_0',['HalaaIds',['../df/de2/a22696.html',1,'']]],
+  ['halaaids_0',['HalaaIds',['../d2/df0/a22684.html',1,'']]],
   ['handlertotuple_1',['HandlerToTuple',['../d5/d70/a07580.html',1,'Acore::Impl::ChatCommands']]],
   ['handlertotuple_3c_20bool_28chathandler_20_2a_2c_20ts_2e_2e_2e_29_3e_2',['HandlerToTuple&lt; bool(ChatHandler *, Ts...)&gt;',['../dc/d86/a07584.html',1,'Acore::Impl::ChatCommands']]],
   ['has_5ftype_3',['has_type',['../d2/d2a/a05636.html',1,'Acore']]],
   ['has_5ftype_3c_20t_2c_20std_3a_3atuple_3c_20us_2e_2e_2e_20_3e_20_3e_4',['has_type&lt; T, std::tuple&lt; Us... &gt; &gt;',['../d5/d80/a05640.html',1,'Acore']]],
   ['hash_3c_20objectguid_20_3e_5',['hash&lt; ObjectGuid &gt;',['../db/de7/a08480.html',1,'std']]],
-  ['hash_3c_20std_3a_3apair_3c_20uint32_5ft_2c_20uint32_5ft_20_3e_20_3e_6',['hash&lt; std::pair&lt; uint32_t, uint32_t &gt; &gt;',['../da/dad/a28960.html',1,'std']]],
+  ['hash_3c_20std_3a_3apair_3c_20uint32_5ft_2c_20uint32_5ft_20_3e_20_3e_6',['hash&lt; std::pair&lt; uint32_t, uint32_t &gt; &gt;',['../d0/db3/a28948.html',1,'std']]],
   ['hashmapholder_7',['HashMapHolder',['../d9/d0e/a08884.html',1,'']]],
   ['hashtrait_3c_20gameobjectmodel_20_3e_8',['HashTrait&lt; GameObjectModel &gt;',['../de/d1b/a04948.html',1,'']]],
   ['healinfo_9',['HealInfo',['../dc/d44/a08764.html',1,'']]],
@@ -17,7 +17,7 @@ var searchData=
   ['hithandler_14',['HitHandler',['../d8/d59/a11464.html',1,'SpellScript']]],
   ['hittriggerspell_15',['HitTriggerSpell',['../d0/d7b/a11316.html',1,'Spell']]],
   ['hodirhelperdata_16',['HodirHelperData',['../d3/d5d/a20328.html',1,'']]],
-  ['holidaysentry_17',['HolidaysEntry',['../db/d22/a28444.html',1,'']]],
+  ['holidaysentry_17',['HolidaysEntry',['../d2/d02/a28432.html',1,'']]],
   ['homemovementgenerator_18',['HomeMovementGenerator',['../d1/d7c/a10016.html',1,'']]],
   ['homemovementgenerator_3c_20creature_20_3e_19',['HomeMovementGenerator&lt; Creature &gt;',['../d8/d83/a10020.html',1,'']]],
   ['honor_5fcommandscript_20',['honor_commandscript',['../d0/d1f/a11860.html',1,'']]],

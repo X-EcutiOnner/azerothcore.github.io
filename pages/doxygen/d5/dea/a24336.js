@@ -1,6 +1,6 @@
 var a24336 =
 [
-    [ "npc_dragonmaw_peonAI", "d5/d5d/a24340.html", "d5/d5d/a24340" ],
-    [ "npc_dragonmaw_peon", "d5/dea/a24336.html#a356f8f1181d62dd5a4bc41c98ab21720", null ],
-    [ "GetAI", "d5/dea/a24336.html#aab1e4aee65a5465bc545a9c067200d2a", null ]
+    [ "npcs_flanis_swiftwing_and_kagrosh", "d5/dea/a24336.html#aa95eceea94521947bd443805c8ddb52d", null ],
+    [ "OnGossipHello", "d5/dea/a24336.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
+    [ "OnGossipSelect", "d5/dea/a24336.html#aff34165955ba93e1fcd2b9731894d871", null ]
 ];

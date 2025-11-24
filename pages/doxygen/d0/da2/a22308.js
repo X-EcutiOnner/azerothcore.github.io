@@ -1,6 +1,6 @@
 var a22308 =
 [
-    [ "npc_blessed_bannerAI", "de/d84/a22312.html", "de/d84/a22312" ],
-    [ "npc_blessed_banner", "d0/da2/a22308.html#a779a0c653088b2d206226e146a19101f", null ],
-    [ "GetAI", "d0/da2/a22308.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
+    [ "PrepareSpellScript", "d0/da2/a22308.html#aa26d34552b04dca1db32390e769ff4dc", null ],
+    [ "RecalculateDamage", "d0/da2/a22308.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
+    [ "Register", "d0/da2/a22308.html#a58d28dea272b1237cf60efb45d67765d", null ]
 ];

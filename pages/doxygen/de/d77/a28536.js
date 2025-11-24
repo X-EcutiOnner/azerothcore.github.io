@@ -1,5 +1,7 @@
 var a28536 =
 [
-    [ "Exp", "de/d77/a28536.html#aa34490babd6ccdc45857947db3f36d60", null ],
-    [ "id", "de/d77/a28536.html#abe177efe7ea9d1d1ae8e7d09655c7193", null ]
+    [ "Id", "de/d77/a28536.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
+    [ "MaxLevel", "de/d77/a28536.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
+    [ "Modifier", "de/d77/a28536.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
+    [ "StatMod", "de/d77/a28536.html#ab639dd94c53707ca160e13f71342730d", null ]
 ];

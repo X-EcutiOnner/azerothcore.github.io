@@ -6,7 +6,6 @@ var a16104 =
     [ "IsInFrenzy", "dc/d36/a16104.html#a9b8453fcfe57b9a87749529002d3879a", null ],
     [ "JustDied", "dc/d36/a16104.html#ab4a576f9746f7ade8f6b8f8c08795433", null ],
     [ "JustEngagedWith", "dc/d36/a16104.html#aa99c241641fc7e94412d08bebed07475", null ],
-    [ "JustSummoned", "dc/d36/a16104.html#afff556f4bc00b87b3d2a37ffbf54c919", null ],
     [ "KilledUnit", "dc/d36/a16104.html#aad554ec61a0c6ad9cedf6d7d1b33ed1d", null ],
     [ "MoveInLineOfSight", "dc/d36/a16104.html#a6c72cebac0e09f66bf0a60cdc328aa4d", null ],
     [ "Reset", "dc/d36/a16104.html#a613441fcb7bd851a03729be84d27650c", null ],

@@ -1,5 +1,5 @@
 var a22576 =
 [
-    [ "achievement_wg_within_our_grasp", "d3/dbf/a22576.html#a9edbd15bc6989c6948e21391a683d22d", null ],
-    [ "OnCheck", "d3/dbf/a22576.html#a10b659c4b52322536333e3d191796c27", null ]
+    [ "go_finklestein_cauldron", "d3/dbf/a22576.html#a8aa352319c54526069588dacd75ab883", null ],
+    [ "OnGossipHello", "d3/dbf/a22576.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
 ];

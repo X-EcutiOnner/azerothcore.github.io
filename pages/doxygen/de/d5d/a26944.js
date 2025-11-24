@@ -1,6 +1,6 @@
 var a26944 =
 [
-    [ "CheckProc", "de/d5d/a26944.html#a945c4617cba249ee76045ce032f12c3c", null ],
-    [ "PrepareAuraScript", "de/d5d/a26944.html#abdcb401acb80eb732dbf56bbbcf79801", null ],
-    [ "Register", "de/d5d/a26944.html#a912dd7ea10038103bb6d242bb7723830", null ]
+    [ "HandleSchoolDMG", "de/d5d/a26944.html#a8f3ff0a48d5de4dcd33831400de0ba28", null ],
+    [ "PrepareSpellScript", "de/d5d/a26944.html#a42bb397aa53fb43ba1b1799a7f162d9b", null ],
+    [ "Register", "de/d5d/a26944.html#ac1271959fe8de3c11403b1e76acdbf15", null ]
 ];

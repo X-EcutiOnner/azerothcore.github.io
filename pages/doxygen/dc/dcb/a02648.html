@@ -112,6 +112,7 @@ $(document).ready(function(){initNavTree('dc/dcb/a02648.html','../../'); initRes
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><code>#include &quot;<a class="el" href="../../">AchievementCriteriaScript.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">CreatureGroups.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">CreatureScript.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ScriptedCreature.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">azjol_nerub.h</a>&quot;</code><br />
@@ -3412,7 +3413,7 @@ Enumerations</h2></td></tr>
 , <br />
 &#160;&#160;<a class="el" href="../../dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e">SPELL_FROSTBOLT</a> = 49037
 , <br />
-&#160;&#160;<a class="el" href="../../dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d">SPELL_TOUCH_OF_MISERY</a> = 50090
+&#160;&#160;<a class="el" href="../../dd/da3/a03026.html#a5bd342133be8c2137b831460acc9298caf61006dc3f13afb869ca56c4cf8f03ee">SPELL_WRATH_OF_MISERY</a> = 50089
 , <br />
 &#160;&#160;<a class="el" href="../../df/d3a/a03014.html#a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6">SPELL_CURSE_OF_LIFE</a> = 49527
 , <br />
@@ -4921,6 +4922,8 @@ Enumerations</h2></td></tr>
 &#160;&#160;<a class="el" href="../../d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cad174c0c15c17e6a55eec42eab77d89e0">SPELL_STATIC_CHARGE</a> = 50834
 , <br />
 &#160;&#160;<a class="el" href="../../d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cab73f4399a61bbf9981a67888396f8a52">SPELL_LIGHTNING_RING</a> = 50840
+, <br />
+&#160;&#160;<a class="el" href="../../d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298ca72114b94c53b48139c7bee3255dbf303">SPELL_LIGHTNING_RING_5S</a> = 51849
 , <br />
 &#160;&#160;<a class="el" href="../../d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca">SPELL_TOXIC_VOLLEY</a> = 50838
 , <br />
@@ -7483,12 +7486,12 @@ Functions</h2></td></tr>
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aa7ec8fb438fd13c8679ba17beac7d9a5a9773723ff03bcd3ed3dc47316b389d41" name="aa7ec8fb438fd13c8679ba17beac7d9a5a9773723ff03bcd3ed3dc47316b389d41"></a>ACTION_MINION_ENGAGED&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="aa7ec8fb438fd13c8679ba17beac7d9a5ad254017654a1155ba1741f803917e01c" name="aa7ec8fb438fd13c8679ba17beac7d9a5ad254017654a1155ba1741f803917e01c"></a>GROUP_SWARM&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   50</span>{</div>
-<div class="line"><span class="lineno">   51</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#aa7ec8fb438fd13c8679ba17beac7d9a5a9773723ff03bcd3ed3dc47316b389d41">ACTION_MINION_ENGAGED</a>               = 1,</div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#aa7ec8fb438fd13c8679ba17beac7d9a5ad254017654a1155ba1741f803917e01c">GROUP_SWARM</a>                         = 1</div>
-<div class="line"><span class="lineno">   53</span>};</div>
-<div class="ttc" id="aa02648_html_aa7ec8fb438fd13c8679ba17beac7d9a5a9773723ff03bcd3ed3dc47316b389d41"><div class="ttname"><a href="../../dc/dcb/a02648.html#aa7ec8fb438fd13c8679ba17beac7d9a5a9773723ff03bcd3ed3dc47316b389d41">ACTION_MINION_ENGAGED</a></div><div class="ttdeci">@ ACTION_MINION_ENGAGED</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:51</div></div>
-<div class="ttc" id="aa02648_html_aa7ec8fb438fd13c8679ba17beac7d9a5ad254017654a1155ba1741f803917e01c"><div class="ttname"><a href="../../dc/dcb/a02648.html#aa7ec8fb438fd13c8679ba17beac7d9a5ad254017654a1155ba1741f803917e01c">GROUP_SWARM</a></div><div class="ttdeci">@ GROUP_SWARM</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:52</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   51</span>{</div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#aa7ec8fb438fd13c8679ba17beac7d9a5a9773723ff03bcd3ed3dc47316b389d41">ACTION_MINION_ENGAGED</a>               = 1,</div>
+<div class="line"><span class="lineno">   53</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#aa7ec8fb438fd13c8679ba17beac7d9a5ad254017654a1155ba1741f803917e01c">GROUP_SWARM</a>                         = 1</div>
+<div class="line"><span class="lineno">   54</span>};</div>
+<div class="ttc" id="aa02648_html_aa7ec8fb438fd13c8679ba17beac7d9a5a9773723ff03bcd3ed3dc47316b389d41"><div class="ttname"><a href="../../dc/dcb/a02648.html#aa7ec8fb438fd13c8679ba17beac7d9a5a9773723ff03bcd3ed3dc47316b389d41">ACTION_MINION_ENGAGED</a></div><div class="ttdeci">@ ACTION_MINION_ENGAGED</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:52</div></div>
+<div class="ttc" id="aa02648_html_aa7ec8fb438fd13c8679ba17beac7d9a5ad254017654a1155ba1741f803917e01c"><div class="ttname"><a href="../../dc/dcb/a02648.html#aa7ec8fb438fd13c8679ba17beac7d9a5ad254017654a1155ba1741f803917e01c">GROUP_SWARM</a></div><div class="ttdeci">@ GROUP_SWARM</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:53</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -7545,14 +7548,14 @@ Functions</h2></td></tr>
 <tr><td class="fieldname"><a id="a213e9ce155baf17b6147afe6a069d54da2042123bafbd12c84f620c5191739652" name="a213e9ce155baf17b6147afe6a069d54da2042123bafbd12c84f620c5191739652"></a>NPC_CESSA&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a213e9ce155baf17b6147afe6a069d54daaf4a81698583de42ad4f1a6c3f11c094" name="a213e9ce155baf17b6147afe6a069d54daaf4a81698583de42ad4f1a6c3f11c094"></a>NPC_KIELAR&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   33</span>{</div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a213e9ce155baf17b6147afe6a069d54dacdb3246d728c6e467634890e653f3cda">NPC_WARRIOR</a>                         = 28732,</div>
-<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a213e9ce155baf17b6147afe6a069d54da21dc5a50c8bbbd61c7bd647ce2b393da">NPC_SKIRMISHER</a>                      = 28734,</div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a213e9ce155baf17b6147afe6a069d54da48b15de6dc6c9a99d82d899306aed502">NPC_SHADOWCASTER</a>                    = 28733</div>
-<div class="line"><span class="lineno">   37</span>};</div>
-<div class="ttc" id="aa02648_html_a213e9ce155baf17b6147afe6a069d54da21dc5a50c8bbbd61c7bd647ce2b393da"><div class="ttname"><a href="../../dc/dcb/a02648.html#a213e9ce155baf17b6147afe6a069d54da21dc5a50c8bbbd61c7bd647ce2b393da">NPC_SKIRMISHER</a></div><div class="ttdeci">@ NPC_SKIRMISHER</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:35</div></div>
-<div class="ttc" id="aa02648_html_a213e9ce155baf17b6147afe6a069d54da48b15de6dc6c9a99d82d899306aed502"><div class="ttname"><a href="../../dc/dcb/a02648.html#a213e9ce155baf17b6147afe6a069d54da48b15de6dc6c9a99d82d899306aed502">NPC_SHADOWCASTER</a></div><div class="ttdeci">@ NPC_SHADOWCASTER</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:36</div></div>
-<div class="ttc" id="aa02648_html_a213e9ce155baf17b6147afe6a069d54dacdb3246d728c6e467634890e653f3cda"><div class="ttname"><a href="../../dc/dcb/a02648.html#a213e9ce155baf17b6147afe6a069d54dacdb3246d728c6e467634890e653f3cda">NPC_WARRIOR</a></div><div class="ttdeci">@ NPC_WARRIOR</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:34</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
+<div class="line"><span class="lineno">   35</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a213e9ce155baf17b6147afe6a069d54dacdb3246d728c6e467634890e653f3cda">NPC_WARRIOR</a>                         = 28732,</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a213e9ce155baf17b6147afe6a069d54da21dc5a50c8bbbd61c7bd647ce2b393da">NPC_SKIRMISHER</a>                      = 28734,</div>
+<div class="line"><span class="lineno">   37</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a213e9ce155baf17b6147afe6a069d54da48b15de6dc6c9a99d82d899306aed502">NPC_SHADOWCASTER</a>                    = 28733</div>
+<div class="line"><span class="lineno">   38</span>};</div>
+<div class="ttc" id="aa02648_html_a213e9ce155baf17b6147afe6a069d54da21dc5a50c8bbbd61c7bd647ce2b393da"><div class="ttname"><a href="../../dc/dcb/a02648.html#a213e9ce155baf17b6147afe6a069d54da21dc5a50c8bbbd61c7bd647ce2b393da">NPC_SKIRMISHER</a></div><div class="ttdeci">@ NPC_SKIRMISHER</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:36</div></div>
+<div class="ttc" id="aa02648_html_a213e9ce155baf17b6147afe6a069d54da48b15de6dc6c9a99d82d899306aed502"><div class="ttname"><a href="../../dc/dcb/a02648.html#a213e9ce155baf17b6147afe6a069d54da48b15de6dc6c9a99d82d899306aed502">NPC_SHADOWCASTER</a></div><div class="ttdeci">@ NPC_SHADOWCASTER</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:37</div></div>
+<div class="ttc" id="aa02648_html_a213e9ce155baf17b6147afe6a069d54dacdb3246d728c6e467634890e653f3cda"><div class="ttname"><a href="../../dc/dcb/a02648.html#a213e9ce155baf17b6147afe6a069d54dacdb3246d728c6e467634890e653f3cda">NPC_WARRIOR</a></div><div class="ttdeci">@ NPC_WARRIOR</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:35</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -9209,7 +9212,7 @@ Functions</h2></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cadce11109ff01a68c5c7c8d3ed00127f7" name="a5bd342133be8c2137b831460acc9298cadce11109ff01a68c5c7c8d3ed00127f7"></a>SPELL_COPY_OF_SUMMON_MINIONS&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca8271bf723a74d49c9a4cf81f134cf956" name="a5bd342133be8c2137b831460acc9298ca8271bf723a74d49c9a4cf81f134cf956"></a>SPELL_BLIZZARD&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e" name="a5bd342133be8c2137b831460acc9298ca1c6a7f86c2818960d6f6f23a4554e39e"></a>SPELL_FROSTBOLT&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d" name="a5bd342133be8c2137b831460acc9298cabb4024889027edd7d9e4584a92b5f45d"></a>SPELL_TOUCH_OF_MISERY&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298caf61006dc3f13afb869ca56c4cf8f03ee" name="a5bd342133be8c2137b831460acc9298caf61006dc3f13afb869ca56c4cf8f03ee"></a>SPELL_WRATH_OF_MISERY&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6" name="a5bd342133be8c2137b831460acc9298ca6554eb6008b091443898536273bfc1c6"></a>SPELL_CURSE_OF_LIFE&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8" name="a5bd342133be8c2137b831460acc9298ca4a41c803db209223face39d0872160c8"></a>SPELL_SHADOW_VOLLEY&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc" name="a5bd342133be8c2137b831460acc9298ca5e54b3b4a1f31c83eb5be8c7de8534cc"></a>SPELL_EYE_BEAM&#160;</td><td class="fielddoc"></td></tr>
@@ -9964,6 +9967,7 @@ Functions</h2></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cac89e681832d85c5da8d4e6011bc79b07" name="a5bd342133be8c2137b831460acc9298cac89e681832d85c5da8d4e6011bc79b07"></a>SPELL_LIGHTNING_SHIELD&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cad174c0c15c17e6a55eec42eab77d89e0" name="a5bd342133be8c2137b831460acc9298cad174c0c15c17e6a55eec42eab77d89e0"></a>SPELL_STATIC_CHARGE&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cab73f4399a61bbf9981a67888396f8a52" name="a5bd342133be8c2137b831460acc9298cab73f4399a61bbf9981a67888396f8a52"></a>SPELL_LIGHTNING_RING&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca72114b94c53b48139c7bee3255dbf303" name="a5bd342133be8c2137b831460acc9298ca72114b94c53b48139c7bee3255dbf303"></a>SPELL_LIGHTNING_RING_5S&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca" name="a5bd342133be8c2137b831460acc9298caeefc64e3d9323eee478ac54f242d33ca"></a>SPELL_TOXIC_VOLLEY&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34" name="a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34"></a>SPELL_LIGHTNING_TETHER&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9" name="a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9"></a>SPELL_LIGHTNING_SHOCK&#160;</td><td class="fielddoc"></td></tr>
@@ -10734,18 +10738,18 @@ Functions</h2></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298ca504d01cfc63a8b604bcd1b8e4885a5df" name="a5bd342133be8c2137b831460acc9298ca504d01cfc63a8b604bcd1b8e4885a5df"></a>SPELL_SUMMON_NETHER_WRAITH_3&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a5bd342133be8c2137b831460acc9298cab148123342fab6e991d3dcc39a339386" name="a5bd342133be8c2137b831460acc9298cab148123342fab6e991d3dcc39a339386"></a>SPELL_SUMMON_NETHER_WRAITH_4&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   24</span>{</div>
-<div class="line"><span class="lineno">   25</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a5bd342133be8c2137b831460acc9298ca8775ba94e25ead430dfbf0c35906af33">SPELL_SUBBOSS_AGGRO_TRIGGER</a>         = 52343,</div>
-<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a5bd342133be8c2137b831460acc9298ca5ef1b4bd7136d0da0608af3c804ec7c1">SPELL_SWARM</a>                         = 52440,</div>
-<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a5bd342133be8c2137b831460acc9298cab185f75f6c2631c722c6f418e887f826">SPELL_MIND_FLAY</a>                     = 52586,</div>
-<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a5bd342133be8c2137b831460acc9298cab04c819cf38b7f5a655e206e06b198f1">SPELL_CURSE_OF_FATIGUE</a>              = 52592,</div>
-<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293">SPELL_FRENZY</a>                        = 28747</div>
-<div class="line"><span class="lineno">   30</span>};</div>
-<div class="ttc" id="aa02648_html_a5bd342133be8c2137b831460acc9298ca5ef1b4bd7136d0da0608af3c804ec7c1"><div class="ttname"><a href="../../dc/dcb/a02648.html#a5bd342133be8c2137b831460acc9298ca5ef1b4bd7136d0da0608af3c804ec7c1">SPELL_SWARM</a></div><div class="ttdeci">@ SPELL_SWARM</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:26</div></div>
-<div class="ttc" id="aa02648_html_a5bd342133be8c2137b831460acc9298ca8775ba94e25ead430dfbf0c35906af33"><div class="ttname"><a href="../../dc/dcb/a02648.html#a5bd342133be8c2137b831460acc9298ca8775ba94e25ead430dfbf0c35906af33">SPELL_SUBBOSS_AGGRO_TRIGGER</a></div><div class="ttdeci">@ SPELL_SUBBOSS_AGGRO_TRIGGER</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:25</div></div>
-<div class="ttc" id="aa02648_html_a5bd342133be8c2137b831460acc9298cab04c819cf38b7f5a655e206e06b198f1"><div class="ttname"><a href="../../dc/dcb/a02648.html#a5bd342133be8c2137b831460acc9298cab04c819cf38b7f5a655e206e06b198f1">SPELL_CURSE_OF_FATIGUE</a></div><div class="ttdeci">@ SPELL_CURSE_OF_FATIGUE</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:28</div></div>
-<div class="ttc" id="aa02648_html_a5bd342133be8c2137b831460acc9298cab185f75f6c2631c722c6f418e887f826"><div class="ttname"><a href="../../dc/dcb/a02648.html#a5bd342133be8c2137b831460acc9298cab185f75f6c2631c722c6f418e887f826">SPELL_MIND_FLAY</a></div><div class="ttdeci">@ SPELL_MIND_FLAY</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:27</div></div>
-<div class="ttc" id="aa02648_html_a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293"><div class="ttname"><a href="../../dc/dcb/a02648.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293">SPELL_FRENZY</a></div><div class="ttdeci">@ SPELL_FRENZY</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:29</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
+<div class="line"><span class="lineno">   26</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a5bd342133be8c2137b831460acc9298ca8775ba94e25ead430dfbf0c35906af33">SPELL_SUBBOSS_AGGRO_TRIGGER</a>         = 52343,</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a5bd342133be8c2137b831460acc9298ca5ef1b4bd7136d0da0608af3c804ec7c1">SPELL_SWARM</a>                         = 52440,</div>
+<div class="line"><span class="lineno">   28</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a5bd342133be8c2137b831460acc9298cab185f75f6c2631c722c6f418e887f826">SPELL_MIND_FLAY</a>                     = 52586,</div>
+<div class="line"><span class="lineno">   29</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a5bd342133be8c2137b831460acc9298cab04c819cf38b7f5a655e206e06b198f1">SPELL_CURSE_OF_FATIGUE</a>              = 52592,</div>
+<div class="line"><span class="lineno">   30</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293">SPELL_FRENZY</a>                        = 28747</div>
+<div class="line"><span class="lineno">   31</span>};</div>
+<div class="ttc" id="aa02648_html_a5bd342133be8c2137b831460acc9298ca5ef1b4bd7136d0da0608af3c804ec7c1"><div class="ttname"><a href="../../dc/dcb/a02648.html#a5bd342133be8c2137b831460acc9298ca5ef1b4bd7136d0da0608af3c804ec7c1">SPELL_SWARM</a></div><div class="ttdeci">@ SPELL_SWARM</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:27</div></div>
+<div class="ttc" id="aa02648_html_a5bd342133be8c2137b831460acc9298ca8775ba94e25ead430dfbf0c35906af33"><div class="ttname"><a href="../../dc/dcb/a02648.html#a5bd342133be8c2137b831460acc9298ca8775ba94e25ead430dfbf0c35906af33">SPELL_SUBBOSS_AGGRO_TRIGGER</a></div><div class="ttdeci">@ SPELL_SUBBOSS_AGGRO_TRIGGER</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:26</div></div>
+<div class="ttc" id="aa02648_html_a5bd342133be8c2137b831460acc9298cab04c819cf38b7f5a655e206e06b198f1"><div class="ttname"><a href="../../dc/dcb/a02648.html#a5bd342133be8c2137b831460acc9298cab04c819cf38b7f5a655e206e06b198f1">SPELL_CURSE_OF_FATIGUE</a></div><div class="ttdeci">@ SPELL_CURSE_OF_FATIGUE</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:29</div></div>
+<div class="ttc" id="aa02648_html_a5bd342133be8c2137b831460acc9298cab185f75f6c2631c722c6f418e887f826"><div class="ttname"><a href="../../dc/dcb/a02648.html#a5bd342133be8c2137b831460acc9298cab185f75f6c2631c722c6f418e887f826">SPELL_MIND_FLAY</a></div><div class="ttdeci">@ SPELL_MIND_FLAY</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:28</div></div>
+<div class="ttc" id="aa02648_html_a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293"><div class="ttname"><a href="../../dc/dcb/a02648.html#a5bd342133be8c2137b831460acc9298cab54f261ba282273bed875abe6642a293">SPELL_FRENZY</a></div><div class="ttdeci">@ SPELL_FRENZY</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:30</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -11215,20 +11219,20 @@ Functions</h2></td></tr>
 <tr><td class="fieldname"><a id="a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5" name="a34a1b224b8db54cacd01d75b910f04e3a7f4f26c3b97b953fd229ac5d308024d5"></a>SAY_KILL&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e" name="a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e"></a>SAY_DEATH&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno">   40</span>{</div>
-<div class="line"><span class="lineno">   41</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a>                           = 0,</div>
-<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75">SAY_SLAY</a>                            = 1,</div>
-<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e">SAY_DEATH</a>                           = 2,</div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3aa91286c29651d126c59ffe7a4b89e30b">SAY_SWARM</a>                           = 3,</div>
-<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3a2074b752d39c805281fbd6f1a8f591a3">SAY_PREFIGHT</a>                        = 4,</div>
-<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3ac4696d8fcb3bb196c5efdb756c5533a5">SAY_SEND_GROUP</a>                      = 5</div>
-<div class="line"><span class="lineno">   47</span>};</div>
-<div class="ttc" id="aa02648_html_a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e"><div class="ttname"><a href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e">SAY_DEATH</a></div><div class="ttdeci">@ SAY_DEATH</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:43</div></div>
-<div class="ttc" id="aa02648_html_a34a1b224b8db54cacd01d75b910f04e3a2074b752d39c805281fbd6f1a8f591a3"><div class="ttname"><a href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3a2074b752d39c805281fbd6f1a8f591a3">SAY_PREFIGHT</a></div><div class="ttdeci">@ SAY_PREFIGHT</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:45</div></div>
-<div class="ttc" id="aa02648_html_a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe"><div class="ttname"><a href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a></div><div class="ttdeci">@ SAY_AGGRO</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:41</div></div>
-<div class="ttc" id="aa02648_html_a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75"><div class="ttname"><a href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75">SAY_SLAY</a></div><div class="ttdeci">@ SAY_SLAY</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:42</div></div>
-<div class="ttc" id="aa02648_html_a34a1b224b8db54cacd01d75b910f04e3aa91286c29651d126c59ffe7a4b89e30b"><div class="ttname"><a href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3aa91286c29651d126c59ffe7a4b89e30b">SAY_SWARM</a></div><div class="ttdeci">@ SAY_SWARM</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:44</div></div>
-<div class="ttc" id="aa02648_html_a34a1b224b8db54cacd01d75b910f04e3ac4696d8fcb3bb196c5efdb756c5533a5"><div class="ttname"><a href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3ac4696d8fcb3bb196c5efdb756c5533a5">SAY_SEND_GROUP</a></div><div class="ttdeci">@ SAY_SEND_GROUP</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:46</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   41</span>{</div>
+<div class="line"><span class="lineno">   42</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a>                           = 0,</div>
+<div class="line"><span class="lineno">   43</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75">SAY_SLAY</a>                            = 1,</div>
+<div class="line"><span class="lineno">   44</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e">SAY_DEATH</a>                           = 2,</div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3aa91286c29651d126c59ffe7a4b89e30b">SAY_SWARM</a>                           = 3,</div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3a2074b752d39c805281fbd6f1a8f591a3">SAY_PREFIGHT</a>                        = 4,</div>
+<div class="line"><span class="lineno">   47</span>    <a class="code hl_enumvalue" href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3ac4696d8fcb3bb196c5efdb756c5533a5">SAY_SEND_GROUP</a>                      = 5</div>
+<div class="line"><span class="lineno">   48</span>};</div>
+<div class="ttc" id="aa02648_html_a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e"><div class="ttname"><a href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3a04c962d9b6aaafde54ff92a54369135e">SAY_DEATH</a></div><div class="ttdeci">@ SAY_DEATH</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:44</div></div>
+<div class="ttc" id="aa02648_html_a34a1b224b8db54cacd01d75b910f04e3a2074b752d39c805281fbd6f1a8f591a3"><div class="ttname"><a href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3a2074b752d39c805281fbd6f1a8f591a3">SAY_PREFIGHT</a></div><div class="ttdeci">@ SAY_PREFIGHT</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:46</div></div>
+<div class="ttc" id="aa02648_html_a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe"><div class="ttname"><a href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3a47c752fff069f3e55065795eef2a9bfe">SAY_AGGRO</a></div><div class="ttdeci">@ SAY_AGGRO</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:42</div></div>
+<div class="ttc" id="aa02648_html_a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75"><div class="ttname"><a href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3a9e64f6e600dd42567d18006912811f75">SAY_SLAY</a></div><div class="ttdeci">@ SAY_SLAY</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:43</div></div>
+<div class="ttc" id="aa02648_html_a34a1b224b8db54cacd01d75b910f04e3aa91286c29651d126c59ffe7a4b89e30b"><div class="ttname"><a href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3aa91286c29651d126c59ffe7a4b89e30b">SAY_SWARM</a></div><div class="ttdeci">@ SAY_SWARM</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:45</div></div>
+<div class="ttc" id="aa02648_html_a34a1b224b8db54cacd01d75b910f04e3ac4696d8fcb3bb196c5efdb756c5533a5"><div class="ttname"><a href="../../dc/dcb/a02648.html#a34a1b224b8db54cacd01d75b910f04e3ac4696d8fcb3bb196c5efdb756c5533a5">SAY_SEND_GROUP</a></div><div class="ttdeci">@ SAY_SEND_GROUP</div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:47</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -11247,12 +11251,12 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  232</span>{</div>
-<div class="line"><span class="lineno">  233</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d5/d86/a16100.html">boss_krik_thir</a>();</div>
-<div class="line"><span class="lineno">  234</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/d4a/a16108.html">achievement_watch_him_die</a>();</div>
-<div class="line"><span class="lineno">  235</span>}</div>
-<div class="ttc" id="aa16100_html"><div class="ttname"><a href="../../d5/d86/a16100.html">boss_krik_thir</a></div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:56</div></div>
-<div class="ttc" id="aa16108_html"><div class="ttname"><a href="../../dd/d4a/a16108.html">achievement_watch_him_die</a></div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:216</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  242</span>{</div>
+<div class="line"><span class="lineno">  243</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../d5/d86/a16100.html">boss_krik_thir</a>();</div>
+<div class="line"><span class="lineno">  244</span>    <span class="keyword">new</span> <a class="code hl_class" href="../../dd/d4a/a16108.html">achievement_watch_him_die</a>();</div>
+<div class="line"><span class="lineno">  245</span>}</div>
+<div class="ttc" id="aa16100_html"><div class="ttname"><a href="../../d5/d86/a16100.html">boss_krik_thir</a></div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:57</div></div>
+<div class="ttc" id="aa16108_html"><div class="ttname"><a href="../../dd/d4a/a16108.html">achievement_watch_him_die</a></div><div class="ttdef"><b>Definition:</b> boss_krikthir_the_gatewatcher.cpp:226</div></div>
 </div><!-- fragment -->
 <p class="reference">Referenced by <a class="el" href="../../#l00183">AddNorthrendScripts()</a>.</p>
 
@@ -11264,7 +11268,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_c606529abee686f44b65a2777767c446.html">scripts</a></li><li class="navelem"><a class="el" href="../../dir_81f27dfa25f27c55a8e8044b1a11fbfb.html">Northrend</a></li><li class="navelem"><a class="el" href="../../dir_5cfbf185b44f2e5d76772a862d6b80b6.html">AzjolNerub</a></li><li class="navelem"><a class="el" href="../../dir_0b75308b148efd21a65d1041b5f64421.html">AzjolNerub</a></li><li class="navelem"><a class="el" href="../../dc/dcb/a02648.html">boss_krikthir_the_gatewatcher.cpp</a></li>
-    <li class="footer">Generated on Mon Nov 17 2025 20:45:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Nov 24 2025 20:45:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

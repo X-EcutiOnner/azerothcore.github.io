@@ -1,9 +1,6 @@
 var a24180 =
 [
-    [ "npc_aeranasAI", "da/d3e/a24180.html#a2142cebc84e64919fa5c2ef630453282", null ],
-    [ "Reset", "da/d3e/a24180.html#a2c1bbe079c065745782adfa13b030515", null ],
-    [ "UpdateAI", "da/d3e/a24180.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
-    [ "envelopingWinds_Timer", "da/d3e/a24180.html#a566b5d648abe630efc191f9d6d4938a2", null ],
-    [ "faction_Timer", "da/d3e/a24180.html#aac071887c100f91cc7ffc545ea6439d9", null ],
-    [ "shock_Timer", "da/d3e/a24180.html#aba8ad016f0e470b07163fef07b603380", null ]
+    [ "npc_wounded_blood_elfAI", "d7/d49/a24184.html", "d7/d49/a24184" ],
+    [ "npc_wounded_blood_elf", "da/d3e/a24180.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
+    [ "GetAI", "da/d3e/a24180.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
 ];

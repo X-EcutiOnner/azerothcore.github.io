@@ -1,7 +1,6 @@
 var a22104 =
 [
-    [ "HandleScriptEffect", "d7/dea/a22104.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
-    [ "PrepareSpellScript", "d7/dea/a22104.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
-    [ "Register", "d7/dea/a22104.html#a278206630f9f45f2dba50b259a6115c1", null ],
-    [ "Validate", "d7/dea/a22104.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
+    [ "npc_venture_co_stragglerAI", "d2/d99/a22108.html", "d2/d99/a22108" ],
+    [ "npc_venture_co_straggler", "d7/dea/a22104.html#a9d928b33dfcd3a6ccb7e1f7a1964762f", null ],
+    [ "GetAI", "d7/dea/a22104.html#a5f95d20c67553ae8a27f00ebb92e3627", null ]
 ];

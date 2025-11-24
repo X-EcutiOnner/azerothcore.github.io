@@ -1,7 +1,9 @@
 var a26492 =
 [
-    [ "if", "da/de9/a26492.html#aefedb14e99d2e60abfd58f7778deb39b", null ],
-    [ "PrepareAuraScript", "da/de9/a26492.html#ad61e8c804e59ca0623748acde69aeddb", null ],
-    [ "Register", "da/de9/a26492.html#af917d32bc0d7f825a52c0a916a3a2357", null ],
-    [ "AuraEffectHandleModes", "da/de9/a26492.html#accfab0bada4faf21178e3f67a79c6dfe", null ]
+    [ "HandleAfterCast", "da/de9/a26492.html#ac08e632064c407346649f525d030d335", null ],
+    [ "HandleDummy", "da/de9/a26492.html#a9c1dadd5a3e2e039b50a414ac589ebf4", null ],
+    [ "Load", "da/de9/a26492.html#a177525c755b036a79263c0fa6fa4082e", null ],
+    [ "PrepareSpellScript", "da/de9/a26492.html#aed99b07a53068b19bddb4daff3449a52", null ],
+    [ "Register", "da/de9/a26492.html#a946e56a325d83656d9b43af80d065e45", null ],
+    [ "_triggerSpellId", "da/de9/a26492.html#a6697a22b684784853cb1999d41fcaaa7", null ]
 ];

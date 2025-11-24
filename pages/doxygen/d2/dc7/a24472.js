@@ -1,7 +1,6 @@
 var a24472 =
 [
-    [ "HandlePeriodic", "d2/dc7/a24472.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
-    [ "PrepareAuraScript", "d2/dc7/a24472.html#a58dc6668172d046cef3046649928c124", null ],
-    [ "Register", "d2/dc7/a24472.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
-    [ "Validate", "d2/dc7/a24472.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
+    [ "npc_unkor_the_ruthlessAI", "da/d74/a24476.html", "da/d74/a24476" ],
+    [ "npc_unkor_the_ruthless", "d2/dc7/a24472.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
+    [ "GetAI", "d2/dc7/a24472.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
 ];

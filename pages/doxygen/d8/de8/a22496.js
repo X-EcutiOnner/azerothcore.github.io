@@ -1,6 +1,5 @@
 var a22496 =
 [
-    [ "CheckCast", "d8/de8/a22496.html#a9244f2b0a03d408006ef4de0c680baeb", null ],
-    [ "PrepareSpellScript", "d8/de8/a22496.html#ab4025d8a4acee4723dcca972bce01f45", null ],
-    [ "Register", "d8/de8/a22496.html#a816afa9351039bd3006ad8e6aa641c3c", null ]
+    [ "npc_wg_spirit_guideAI", "d8/de8/a22496.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
+    [ "UpdateAI", "d8/de8/a22496.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
 ];

@@ -1,6 +1,5 @@
 var a25072 =
 [
-    [ "CheckLevel", "d7/d80/a25072.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
-    [ "PrepareSpellScript", "d7/d80/a25072.html#abc2bcce83810661ab462f56594066df3", null ],
-    [ "Register", "d7/d80/a25072.html#add6731563bd9a26d8f286bd29ffc8709", null ]
+    [ "PrepareSpellScript", "d7/d80/a25072.html#a054677572d74a740f1c14715608f7b1b", null ],
+    [ "Register", "d7/d80/a25072.html#ae6556b58f0a4e6d3762bc3dc4c1643b3", null ]
 ];

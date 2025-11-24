@@ -1,5 +1,8 @@
 var a27620 =
 [
-    [ "item_captured_frog", "d9/d90/a27620.html#ad41b743c98c9534453eca8cf1f367366", null ],
-    [ "OnUse", "d9/d90/a27620.html#a1156467ca046a077ea494f92c488bf54", null ]
+    [ "trigger_periodicAI", "d9/d90/a27620.html#a696d62fed28de9c67827dad111cf320b", null ],
+    [ "UpdateAI", "d9/d90/a27620.html#aed31d60765eff7dd11790714e28e729e", null ],
+    [ "interval", "d9/d90/a27620.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
+    [ "spell", "d9/d90/a27620.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
+    [ "timer", "d9/d90/a27620.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
 ];

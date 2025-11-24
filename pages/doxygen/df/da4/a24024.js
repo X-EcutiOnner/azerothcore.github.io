@@ -1,6 +1,6 @@
 var a24024 =
 [
-    [ "HandleScriptEffect", "df/da4/a24024.html#a32c5e4743adeb3085a6eac062b8f6226", null ],
-    [ "PrepareSpellScript", "df/da4/a24024.html#a0c51d5a108d8225387ce8a149a0a0c86", null ],
-    [ "Register", "df/da4/a24024.html#a4b940caf98f1164be5e2f4e748811fc6", null ]
+    [ "HandleScriptEffect", "df/da4/a24024.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
+    [ "PrepareSpellScript", "df/da4/a24024.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
+    [ "Register", "df/da4/a24024.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
 ];

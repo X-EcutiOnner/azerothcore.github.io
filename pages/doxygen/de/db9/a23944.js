@@ -1,7 +1,6 @@
 var a23944 =
 [
-    [ "CastQuill", "de/db9/a23944.html#a923234809186bcbdf02457f4be095519", null ],
-    [ "Execute", "de/db9/a23944.html#a26a971a575e4b9503cd1da73d43ebd1e", null ],
-    [ "_caster", "de/db9/a23944.html#af809b9279aff141ce4007c8d1fbcc331", null ],
-    [ "_spellId", "de/db9/a23944.html#ad6f7d8eaf69873b0ba57be4189c145cf", null ]
+    [ "OnApply", "de/db9/a23944.html#a472220f22165c6d21eab5f4b5f75921e", null ],
+    [ "PrepareAuraScript", "de/db9/a23944.html#a12dba24d5aa3d41671980d8dd509d6f2", null ],
+    [ "Register", "de/db9/a23944.html#aa8530071a4053e6c6f8b194a9cc723e2", null ]
 ];

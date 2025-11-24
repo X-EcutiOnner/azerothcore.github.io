@@ -1,6 +1,8 @@
 var a26128 =
 [
-    [ "OnPeriodic", "df/dc3/a26128.html#a889285ef034aaa7eaaa8e86fb5380cf0", null ],
-    [ "PrepareAuraScript", "df/dc3/a26128.html#a3fd2da3d7b1b8a78916515b7e3e188cf", null ],
-    [ "Register", "df/dc3/a26128.html#a62e5ab81f9548e4d983d0c4dde14eaad", null ]
+    [ "CheckQuest", "df/dc3/a26128.html#ab7ebff0894832ac009cda89b7c28e252", null ],
+    [ "HandleDummy", "df/dc3/a26128.html#a365df14504a54e95e7d68d22a284e441", null ],
+    [ "HandleOpenObject", "df/dc3/a26128.html#a69467afd49dc2429b8ba9640c8af5dfa", null ],
+    [ "PrepareSpellScript", "df/dc3/a26128.html#a479e313031a2e71473238d8f645bf2d4", null ],
+    [ "Register", "df/dc3/a26128.html#a70f1a91e611cc2092aad44a909cd53db", null ]
 ];

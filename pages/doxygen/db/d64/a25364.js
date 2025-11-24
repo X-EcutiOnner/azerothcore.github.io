@@ -1,7 +1,7 @@
 var a25364 =
 [
-    [ "HandleScript", "db/d64/a25364.html#a466db5b8dc15a196d67dfcbef3d810e1", null ],
-    [ "PrepareSpellScript", "db/d64/a25364.html#a7909f23da8385abdabb62e5196d88d38", null ],
-    [ "Register", "db/d64/a25364.html#aa45c1c80f137dd90b5f0e06e19f09da6", null ],
-    [ "Validate", "db/d64/a25364.html#a04e81472bfefb794024e9c4cc0e4d70b", null ]
+    [ "CalculateAmount", "db/d64/a25364.html#a074a7de6cd4d930c1f23f6398c738bad", null ],
+    [ "Load", "db/d64/a25364.html#a777803a61286e0eba31246d4771630df", null ],
+    [ "PrepareAuraScript", "db/d64/a25364.html#ab76bc3927d3ce31ae061fe8577ca25f0", null ],
+    [ "Register", "db/d64/a25364.html#a335e1629b98bfacf6e4e565b94d4991e", null ]
 ];

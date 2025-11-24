@@ -1,6 +1,8 @@
 var a23032 =
 [
-    [ "PrepareAuraScript", "db/df7/a23032.html#ac52a5dccc708f9ee63f3c6c92fbf15c1", null ],
-    [ "Register", "db/df7/a23032.html#acc4afbe7f2b23b67e8f7e3fe1eeb03b5", null ],
-    [ "Update", "db/df7/a23032.html#aa9f5924b3f12c666c53ddc2b9b80aeea", null ]
+    [ "FilterTargets", "db/df7/a23032.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
+    [ "HandleDummy", "db/df7/a23032.html#ab89ab441f022ee017548ba49d128b92e", null ],
+    [ "PrepareSpellScript", "db/df7/a23032.html#aa8578390d7d9379328c02ceb209e94ed", null ],
+    [ "Register", "db/df7/a23032.html#a486387d707b7ad66ecb443ab2bb60778", null ],
+    [ "Validate", "db/df7/a23032.html#ad5d695978794d796eb7139fce1530d57", null ]
 ];

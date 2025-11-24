@@ -1,5 +1,5 @@
 var a27276 =
 [
-    [ "AreaTrigger_at_coilfang_waterfall", "d2/d7a/a27276.html#aa2e9a01adad7e195860bbc6c55131024", null ],
-    [ "OnTrigger", "d2/d7a/a27276.html#aea1c4b45ae855d0cda81dbad102b8104", null ]
+    [ "AreaTrigger_at_scent_larkorwi", "d2/d7a/a27276.html#a967a43eae4cc986754eed9ee8291c17e", null ],
+    [ "OnTrigger", "d2/d7a/a27276.html#aeeb339afa5a7dd4b028aea800026998e", null ]
 ];

@@ -1,7 +1,6 @@
 var a22216 =
 [
-    [ "npc_battle_at_valhalasAI", "d6/d73/a22220.html", "d6/d73/a22220" ],
-    [ "npc_battle_at_valhalas", "d3/d1f/a22216.html#aacec717b5b91ae55307c9642779c15ec", null ],
-    [ "GetAI", "d3/d1f/a22216.html#a3660ba847b3b40c2d358d63c63517a5e", null ],
-    [ "OnQuestAccept", "d3/d1f/a22216.html#addd76fd9f4b4f8ce706693614b80966b", null ]
+    [ "npc_lord_areteAI", "d6/d73/a22220.html", "d6/d73/a22220" ],
+    [ "npc_lord_arete", "d3/d1f/a22216.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
+    [ "GetAI", "d3/d1f/a22216.html#a212d003e9acb5f141197b5c4d10163a4", null ]
 ];

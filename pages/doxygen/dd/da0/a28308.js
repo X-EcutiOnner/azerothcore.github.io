@@ -1,13 +1,7 @@
 var a28308 =
 [
-    [ "HasFlag", "dd/da0/a28308.html#a5d13e1af17cddf3acdbfc5387869e43f", null ],
-    [ "CinematicSequence", "dd/da0/a28308.html#a33a01b1c26b21706d9898af246f2a0df", null ],
-    [ "expansion", "dd/da0/a28308.html#ab6547f8b08d4d1bf57a37f9574b71e43", null ],
-    [ "FactionID", "dd/da0/a28308.html#a5c66801f2f89aeb847699a2dd87486c7", null ],
-    [ "Flags", "dd/da0/a28308.html#a8c2d30fb87284806a93d4c1da4a6edb0", null ],
-    [ "model_f", "dd/da0/a28308.html#a4807227fd863e247b18d29db0ea8236a", null ],
-    [ "model_m", "dd/da0/a28308.html#a50b5409352d7fe3e6f5919d83c9a0eae", null ],
-    [ "name", "dd/da0/a28308.html#a4970323e45feb3f74b47420648371ab6", null ],
-    [ "RaceID", "dd/da0/a28308.html#a853f3262af3408cf2791e7cd08ec8d32", null ],
-    [ "TeamID", "dd/da0/a28308.html#addd21f5fbf6868e7cf2cd3c54c7172a1", null ]
+    [ "Displayid", "dd/da0/a28308.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
+    [ "ExtendedDisplayInfoID", "dd/da0/a28308.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
+    [ "ModelId", "dd/da0/a28308.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
+    [ "scale", "dd/da0/a28308.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
 ];

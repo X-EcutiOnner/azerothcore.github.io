@@ -1,11 +1,7 @@
 var a25424 =
 [
-    [ "spell_gen_consume", "d9/d4c/a25424.html#a839f5e891cfbd0f83937f06c7fd049d4", null ],
-    [ "AfterRemove", "d9/d4c/a25424.html#ac521cc1524ddb9dd298145f23cc8fcd1", null ],
-    [ "HandleProc", "d9/d4c/a25424.html#af69251aa0415a2148162f32dd9113917", null ],
-    [ "PrepareAuraScript", "d9/d4c/a25424.html#a43860e5dcb2d2cb49e52c280d4f3c7e9", null ],
-    [ "Register", "d9/d4c/a25424.html#a043362a08bcf9cfe253dd23c722a60bc", null ],
-    [ "Validate", "d9/d4c/a25424.html#ae9b7c2f4a1b8f26a20b5ca6d90d3c5e9", null ],
-    [ "_spellId1", "d9/d4c/a25424.html#a9763527e0a95c52888847b84d8f1dd8d", null ],
-    [ "_spellId2", "d9/d4c/a25424.html#aa9b47c361eaad7dac4725e0be1bfe254", null ]
+    [ "HandleDamage", "d9/d4c/a25424.html#a9c9bbe49388cf5d04650572fdf789e5e", null ],
+    [ "PrepareSpellScript", "d9/d4c/a25424.html#ac89a628f1aba54aa2ade876a4f7911b8", null ],
+    [ "Register", "d9/d4c/a25424.html#a627bffccdd78c00f0f5a4241f36aeec8", null ],
+    [ "Validate", "d9/d4c/a25424.html#aed63b40f8e2cc6fd32dd536a2d56c7c3", null ]
 ];

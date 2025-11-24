@@ -1,6 +1,6 @@
 var a23724 =
 [
-    [ "HandleScriptEffect", "d3/da2/a23724.html#afae95a49843aa956d627e9bd92f8820f", null ],
-    [ "PrepareSpellScript", "d3/da2/a23724.html#a434945da0a6b64db79cab0e09cbbb286", null ],
-    [ "Register", "d3/da2/a23724.html#a396acb663b8c9151196b8fedea3660c7", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "de/d3f/a23728.html", "de/d3f/a23728" ],
+    [ "instance_hellfire_ramparts", "d3/da2/a23724.html#ab6ee671123dd0d736e9745e45e04b8da", null ],
+    [ "GetInstanceScript", "d3/da2/a23724.html#a6f2dc361984b33c1d14d62d67a563e8d", null ]
 ];

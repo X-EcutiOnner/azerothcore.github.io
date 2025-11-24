@@ -1,5 +1,7 @@
 var a25384 =
 [
-    [ "PrepareSpellScript", "db/d04/a25384.html#a096abf53c6e622875c463060e986b5ef", null ],
-    [ "Register", "db/d04/a25384.html#a68905cc33f09dbb42db67139193530cb", null ]
+    [ "EjectPassenger", "db/d04/a25384.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
+    [ "PrepareSpellScript", "db/d04/a25384.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
+    [ "Register", "db/d04/a25384.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
+    [ "Validate", "db/d04/a25384.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
 ];

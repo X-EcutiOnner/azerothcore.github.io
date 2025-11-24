@@ -1,6 +1,7 @@
 var a23088 =
 [
-    [ "FilterTargets", "d8/dc9/a23088.html#a04973145ed594b88afe2acc0cacb10c6", null ],
-    [ "PrepareSpellScript", "d8/dc9/a23088.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
-    [ "Register", "d8/dc9/a23088.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
+    [ "CalculateAmount", "d8/dc9/a23088.html#adad1c8a513ce8a1badbd40c291363de1", null ],
+    [ "PrepareAuraScript", "d8/dc9/a23088.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
+    [ "Register", "d8/dc9/a23088.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
+    [ "Update", "d8/dc9/a23088.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
 ];

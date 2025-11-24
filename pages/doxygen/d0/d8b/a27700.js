@@ -1,11 +1,8 @@
 var a27700 =
 [
-    [ "npc_franklinAI", "d0/d8b/a27700.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
-    [ "DamageTaken", "d0/d8b/a27700.html#afa494098126ce3291e234cfc2b36336f", null ],
-    [ "JustEngagedWith", "d0/d8b/a27700.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
-    [ "Reset", "d0/d8b/a27700.html#a51a260460facf06ec6bb1486f434d885", null ],
-    [ "ScheduleEncounterStart", "d0/d8b/a27700.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
-    [ "SpellHit", "d0/d8b/a27700.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
-    [ "UpdateAI", "d0/d8b/a27700.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
-    [ "events", "d0/d8b/a27700.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
+    [ "npc_elder_clearwaterAI", "d3/d0b/a27704.html", "d3/d0b/a27704" ],
+    [ "npc_elder_clearwater", "d0/d8b/a27700.html#abeee1650938a71762bb0c148ea9834d1", null ],
+    [ "GetAI", "d0/d8b/a27700.html#a4ae2f507f61ee7cfc0c3b6d7dbfb7f04", null ],
+    [ "OnGossipHello", "d0/d8b/a27700.html#aae382c0a386b8bacd39c6e7a586519e4", null ],
+    [ "OnQuestReward", "d0/d8b/a27700.html#a2d316a2d2c892cecc134cea46b5bf2a8", null ]
 ];

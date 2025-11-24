@@ -1,7 +1,6 @@
 var a27724 =
 [
-    [ "npc_riggle_bassbaitAI", "d9/d94/a27724.html#ad7a1a7a6f4c4ebb7ab93878ebb3a9a5b", null ],
-    [ "CheckTournamentState", "d9/d94/a27724.html#aa7b4393b93be92fbb595648cede832be", null ],
-    [ "UpdateAI", "d9/d94/a27724.html#ad0fca96e2c770ef179d98dcdd9aaca6e", null ],
-    [ "m_uiTimer", "d9/d94/a27724.html#aec45a971a5b7aa574e905e9a2338fe90", null ]
+    [ "npc_target_dummyAI", "da/d34/a27728.html", "da/d34/a27728" ],
+    [ "npc_target_dummy", "d9/d94/a27724.html#a04847f9893a40c0f1c1879f448cc228d", null ],
+    [ "GetAI", "d9/d94/a27724.html#a1aff9199c160e20f9e92ee9f90178d63", null ]
 ];

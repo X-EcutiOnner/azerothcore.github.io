@@ -1,5 +1,5 @@
 var a27608 =
 [
-    [ "item_mysterious_egg", "d0/d60/a27608.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
-    [ "OnExpire", "d0/d60/a27608.html#a5ea72284626826b75819f89b3b91c540", null ]
+    [ "item_captured_frog", "d0/d60/a27608.html#ad41b743c98c9534453eca8cf1f367366", null ],
+    [ "OnUse", "d0/d60/a27608.html#a1156467ca046a077ea494f92c488bf54", null ]
 ];

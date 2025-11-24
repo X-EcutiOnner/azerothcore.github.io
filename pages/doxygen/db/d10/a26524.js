@@ -1,7 +1,6 @@
 var a26524 =
 [
-    [ "CheckTarget", "db/d10/a26524.html#abaef73201d2e0bd1d6789309442019e0", null ],
-    [ "HandleScriptEffect", "db/d10/a26524.html#a545196cd976bfabbd85ba48942012e1e", null ],
-    [ "PrepareSpellScript", "db/d10/a26524.html#add5c1ecaa5a75af6e91a0df5d63bbc42", null ],
-    [ "Register", "db/d10/a26524.html#a36563a197b7377660b7c3f9e85d478bd", null ]
+    [ "CheckRequirement", "db/d10/a26524.html#acaae3858de4d56028e3cb4581a57450c", null ],
+    [ "PrepareSpellScript", "db/d10/a26524.html#aa1013bb1b09aae7b691b6325c8e7a405", null ],
+    [ "Register", "db/d10/a26524.html#aa490168c69f9ba5c12db3171516dd8ac", null ]
 ];

@@ -1,8 +1,6 @@
 var a25232 =
 [
-    [ "AchievementCredit", "d8/d0d/a25232.html#ab0ec836feb53875de355330e05367fe8", null ],
-    [ "Load", "d8/d0d/a25232.html#ae48c67f363e399f076122cb6eee10ffb", null ],
-    [ "PrepareSpellScript", "d8/d0d/a25232.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
-    [ "Register", "d8/d0d/a25232.html#a793921687c96a39f7dd872b9721096ca", null ],
-    [ "Validate", "d8/d0d/a25232.html#a5be222c322714ec62f8beaf69faab257", null ]
+    [ "CheckRequirement", "d8/d0d/a25232.html#a8a1367ad6c51a74e7cefbc2440eab697", null ],
+    [ "PrepareSpellScript", "d8/d0d/a25232.html#a859ac50e6774471c232113e5c007f602", null ],
+    [ "Register", "d8/d0d/a25232.html#aceafb7d6cfa300011935026f4d7ac491", null ]
 ];

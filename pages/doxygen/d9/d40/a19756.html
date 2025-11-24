@@ -581,7 +581,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  388</span>: <a class="code hl_struct" href="../../d2/dea/a06264.html">ScriptedAI</a>(c) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  277</span>: <a class="code hl_struct" href="../../d2/dea/a06264.html">ScriptedAI</a>(c) { }</div>
 <div class="ttc" id="aa06264_html"><div class="ttname"><a href="../../d2/dea/a06264.html">ScriptedAI</a></div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:190</div></div>
 </div><!-- fragment -->
 </div>
@@ -614,21 +614,21 @@ Additional Inherited Members</h2></td></tr>
 <p>Use to start attacking a target. Called just before <a class="el" href="../../d2/dea/a06264.html#ac2ce21ab709e349abb8206ce2368cd37" title="Called for reaction when initially engaged.">JustEngagedWith()</a> </p>
 
 <p>Reimplemented from <a class="el" href="../../d2/dea/a06264.html#aff5fd4e142a5cf930ffacbfc7259cce5">ScriptedAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  391</span>        {</div>
-<div class="line"><span class="lineno">  392</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d75/a06220.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
-<div class="line"><span class="lineno">  393</span>                <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  394</span> </div>
-<div class="line"><span class="lineno">  395</span>            <a class="code hl_function" href="../../df/df2/a06208.html#abc5c0f9175fa6f35f7a8f5337aa37928">DoSpellAttackIfReady</a>((<a class="code hl_variable" href="../../d2/dea/a06264.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d48/a08412.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == <a class="code hl_enumvalue" href="../../d5/dea/a02927.html#a8d8031a9ef6bd14633aa0a1bc87e2753a2237ff892ec355ab7c5238d08ae28591">NPC_FORGED_IRON_DWARF</a>) ? <a class="code hl_enumvalue" href="../../d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34">SPELL_LIGHTNING_TETHER</a> : <a class="code hl_enumvalue" href="../../d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9">SPELL_LIGHTNING_SHOCK</a>);</div>
-<div class="line"><span class="lineno">  396</span>        }</div>
-<div class="ttc" id="aa02927_html_a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9"><div class="ttname"><a href="../../d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9">SPELL_LIGHTNING_SHOCK</a></div><div class="ttdeci">@ SPELL_LIGHTNING_SHOCK</div><div class="ttdef"><b>Definition:</b> boss_sjonnir.cpp:39</div></div>
-<div class="ttc" id="aa02927_html_a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34"><div class="ttname"><a href="../../d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34">SPELL_LIGHTNING_TETHER</a></div><div class="ttdeci">@ SPELL_LIGHTNING_TETHER</div><div class="ttdef"><b>Definition:</b> boss_sjonnir.cpp:36</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  280</span>        {</div>
+<div class="line"><span class="lineno">  281</span>            <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../df/d75/a06220.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">UpdateVictim</a>())</div>
+<div class="line"><span class="lineno">  282</span>                <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  283</span> </div>
+<div class="line"><span class="lineno">  284</span>            <a class="code hl_function" href="../../df/df2/a06208.html#abc5c0f9175fa6f35f7a8f5337aa37928">DoSpellAttackIfReady</a>((<a class="code hl_variable" href="../../d2/dea/a06264.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">me</a>-&gt;<a class="code hl_function" href="../../d9/d48/a08412.html#aa627fe2967ed0e0ed1d8aeeb4365a961">GetEntry</a>() == <a class="code hl_enumvalue" href="../../d5/dea/a02927.html#a8d8031a9ef6bd14633aa0a1bc87e2753a2237ff892ec355ab7c5238d08ae28591">NPC_FORGED_IRON_DWARF</a>) ? <a class="code hl_enumvalue" href="../../d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34">SPELL_LIGHTNING_TETHER</a> : <a class="code hl_enumvalue" href="../../d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9">SPELL_LIGHTNING_SHOCK</a>);</div>
+<div class="line"><span class="lineno">  285</span>        }</div>
+<div class="ttc" id="aa02927_html_a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9"><div class="ttname"><a href="../../d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cab1626df1e6bea4584c2ed74de3eb64b9">SPELL_LIGHTNING_SHOCK</a></div><div class="ttdeci">@ SPELL_LIGHTNING_SHOCK</div><div class="ttdef"><b>Definition:</b> boss_sjonnir.cpp:40</div></div>
+<div class="ttc" id="aa02927_html_a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34"><div class="ttname"><a href="../../d5/dea/a02927.html#a5bd342133be8c2137b831460acc9298cad020a33106a6622fa4fc055143329f34">SPELL_LIGHTNING_TETHER</a></div><div class="ttdeci">@ SPELL_LIGHTNING_TETHER</div><div class="ttdef"><b>Definition:</b> boss_sjonnir.cpp:37</div></div>
 <div class="ttc" id="aa02927_html_a8d8031a9ef6bd14633aa0a1bc87e2753a2237ff892ec355ab7c5238d08ae28591"><div class="ttname"><a href="../../d5/dea/a02927.html#a8d8031a9ef6bd14633aa0a1bc87e2753a2237ff892ec355ab7c5238d08ae28591">NPC_FORGED_IRON_DWARF</a></div><div class="ttdeci">@ NPC_FORGED_IRON_DWARF</div><div class="ttdef"><b>Definition:</b> boss_sjonnir.cpp:47</div></div>
 <div class="ttc" id="aa06208_html_abc5c0f9175fa6f35f7a8f5337aa37928"><div class="ttname"><a href="../../df/df2/a06208.html#abc5c0f9175fa6f35f7a8f5337aa37928">UnitAI::DoSpellAttackIfReady</a></div><div class="ttdeci">bool DoSpellAttackIfReady(uint32 spell)</div><div class="ttdef"><b>Definition:</b> UnitAI.cpp:74</div></div>
 <div class="ttc" id="aa06220_html_ae03ccfe1e27501ed9ccbfecdbd3c4e39"><div class="ttname"><a href="../../df/d75/a06220.html#ae03ccfe1e27501ed9ccbfecdbd3c4e39">CreatureAI::UpdateVictim</a></div><div class="ttdeci">bool UpdateVictim()</div><div class="ttdef"><b>Definition:</b> CreatureAI.cpp:277</div></div>
 <div class="ttc" id="aa06264_html_a5da7193f0a8713b8fa5e7ff2f19ac3bb"><div class="ttname"><a href="../../d2/dea/a06264.html#a5da7193f0a8713b8fa5e7ff2f19ac3bb">ScriptedAI::me</a></div><div class="ttdeci">Creature * me</div><div class="ttdef"><b>Definition:</b> ScriptedCreature.h:280</div></div>
 <div class="ttc" id="aa08412_html_aa627fe2967ed0e0ed1d8aeeb4365a961"><div class="ttname"><a href="../../d9/d48/a08412.html#aa627fe2967ed0e0ed1d8aeeb4365a961">Object::GetEntry</a></div><div class="ttdeci">uint32 GetEntry() const</div><div class="ttdef"><b>Definition:</b> Object.h:116</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00074">UnitAI::DoSpellAttackIfReady()</a>, <a class="el" href="../../#l00116">Object::GetEntry()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00047">NPC_FORGED_IRON_DWARF</a>, <a class="el" href="../../#l00039">SPELL_LIGHTNING_SHOCK</a>, <a class="el" href="../../#l00036">SPELL_LIGHTNING_TETHER</a>, and <a class="el" href="../../#l00277">CreatureAI::UpdateVictim()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00074">UnitAI::DoSpellAttackIfReady()</a>, <a class="el" href="../../#l00116">Object::GetEntry()</a>, <a class="el" href="../../#l00280">ScriptedAI::me</a>, <a class="el" href="../../#l00047">NPC_FORGED_IRON_DWARF</a>, <a class="el" href="../../#l00040">SPELL_LIGHTNING_SHOCK</a>, <a class="el" href="../../#l00037">SPELL_LIGHTNING_TETHER</a>, and <a class="el" href="../../#l00277">CreatureAI::UpdateVictim()</a>.</p>
 
 </div>
 </div>
@@ -638,7 +638,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dc/d16/a19752.html">boss_sjonnir_dwarf</a></li><li class="navelem"><a class="el" href="../../d9/d40/a19756.html">boss_sjonnir_dwarfAI</a></li>
-    <li class="footer">Generated on Mon Nov 17 2025 20:45:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Nov 24 2025 20:45:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

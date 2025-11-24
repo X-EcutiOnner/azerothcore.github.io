@@ -1,6 +1,6 @@
 var a27824 =
 [
-    [ "npc_pet_trainerAI", "d1/dbe/a27828.html", "d1/dbe/a27828" ],
-    [ "npc_pet_trainer", "d5/d7f/a27824.html#ac2279bce52e911b1c339da5e68aa2501", null ],
-    [ "GetAI", "d5/d7f/a27824.html#a4ecf9ac0abf43a00dc6bff2d2283eb37", null ]
+    [ "npc_experience", "d5/d7f/a27824.html#a48ea13099fd32bcae1543a152de0bdf4", null ],
+    [ "OnGossipHello", "d5/d7f/a27824.html#a78fccaa36d1c42e33774a9b23f867a72", null ],
+    [ "OnGossipSelect", "d5/d7f/a27824.html#a140ece91c8b6d91bd91d64d6e9b625e8", null ]
 ];

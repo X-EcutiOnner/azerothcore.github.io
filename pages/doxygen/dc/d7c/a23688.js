@@ -1,10 +1,20 @@
 var a23688 =
 [
-    [ "boss_kelidan_the_breaker", "dc/d7c/a23688.html#a6774e4a0315b30266f6c55da608cd193", null ],
-    [ "ApplyImmunities", "dc/d7c/a23688.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
-    [ "DoAction", "dc/d7c/a23688.html#a3fa0117ce1079f651025116684f5e2f4", null ],
-    [ "JustDied", "dc/d7c/a23688.html#a4d3f0171b7889a96f19999b28e549866", null ],
-    [ "JustEngagedWith", "dc/d7c/a23688.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
-    [ "KilledUnit", "dc/d7c/a23688.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
-    [ "Reset", "dc/d7c/a23688.html#a46c592f6c46ea568ad368702e1640e06", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "dc/d7c/a23688.html#adb0173cb42642836f7734d8b0fb3e98f", null ],
+    [ "ActivateCell", "dc/d7c/a23688.html#abd718216778850455c758d79a5866958", null ],
+    [ "ActivatePrisoners", "dc/d7c/a23688.html#a18488afb78747a35ce7e3b4b9a2468b5", null ],
+    [ "GetGuidData", "dc/d7c/a23688.html#af7f6acc97bf16f4d31236dcbb2d94007", null ],
+    [ "Initialize", "dc/d7c/a23688.html#a3441a24486ec686d42b7320e6f105139", null ],
+    [ "OnCreatureCreate", "dc/d7c/a23688.html#ac58da5acec155e596791464c48f29773", null ],
+    [ "OnGameObjectCreate", "dc/d7c/a23688.html#a3894ce1d0dff79cee2ff0df51d19e1ea", null ],
+    [ "OnUnitDeath", "dc/d7c/a23688.html#a78b07bfe30c7f329046ff572f783c4b9", null ],
+    [ "PrisonerDied", "dc/d7c/a23688.html#a16315f7921b1960c7720f855cdddee96", null ],
+    [ "ResetPrisoner", "dc/d7c/a23688.html#a57f58c502b5fb2064307adb8c4976979", null ],
+    [ "ResetPrisoners", "dc/d7c/a23688.html#ac46b0ed98e69ac0d5b8582bb21a81dc8", null ],
+    [ "ResetPrisons", "dc/d7c/a23688.html#a728bbc185bb91cf024f8ff3bd878a10e", null ],
+    [ "SetBossState", "dc/d7c/a23688.html#aad428e00762795d8f817d6cfa25505fe", null ],
+    [ "StorePrisoner", "dc/d7c/a23688.html#ade72b3e7a2129b8a4f722990aef5ac5f", null ],
+    [ "_prisonerCounter", "dc/d7c/a23688.html#a50c371edc425191f610a0e8a6b44d2ab", null ],
+    [ "_prisonersCell", "dc/d7c/a23688.html#a3492a327f4c0d637fd5701f3997c1887", null ],
+    [ "_prisonGUIDs", "dc/d7c/a23688.html#a9a737e495b638ec65fbd306c6aa0267c", null ]
 ];

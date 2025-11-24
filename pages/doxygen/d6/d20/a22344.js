@@ -1,5 +1,6 @@
 var a22344 =
 [
-    [ "go_pressure_valve", "d6/d20/a22344.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
-    [ "OnGossipHello", "d6/d20/a22344.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
+    [ "npc_bushwhackerAI", "d4/da8/a22348.html", "d4/da8/a22348" ],
+    [ "npc_bushwhacker", "d6/d20/a22344.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
+    [ "GetAI", "d6/d20/a22344.html#ab3190b66069e820abf3637bb877066a0", null ]
 ];

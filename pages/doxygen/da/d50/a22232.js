@@ -1,6 +1,7 @@
 var a22232 =
 [
-    [ "npc_lord_areteAI", "de/de1/a22236.html", "de/de1/a22236" ],
-    [ "npc_lord_arete", "da/d50/a22232.html#a929e3f3346bf4dbaee127463eaf4ffcc", null ],
-    [ "GetAI", "da/d50/a22232.html#a212d003e9acb5f141197b5c4d10163a4", null ]
+    [ "npc_tirions_gambit_tirionAI", "de/de1/a22236.html", "de/de1/a22236" ],
+    [ "npc_tirions_gambit_tirion", "da/d50/a22232.html#ad52abd46ccdd3b4409671679434c193c", null ],
+    [ "GetAI", "da/d50/a22232.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
+    [ "OnGossipSelect", "da/d50/a22232.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
 ];

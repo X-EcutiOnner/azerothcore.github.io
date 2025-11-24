@@ -1,6 +1,5 @@
 var a25024 =
 [
-    [ "CheckAreaTarget", "d4/d75/a25024.html#a545323b9964ee4cb3c8d054fac4e2d55", null ],
-    [ "PrepareAuraScript", "d4/d75/a25024.html#a2b6dbd33e34357917f662000a1cd932f", null ],
-    [ "Register", "d4/d75/a25024.html#a7b4a2301b3a608ea5b2dd2504e02741d", null ]
+    [ "PrepareSpellScript", "d4/d75/a25024.html#a2d0e411f3b4a9efed35ee34c7bf03252", null ],
+    [ "Register", "d4/d75/a25024.html#a560ff22e718e8a975a2e2dc2340da917", null ]
 ];

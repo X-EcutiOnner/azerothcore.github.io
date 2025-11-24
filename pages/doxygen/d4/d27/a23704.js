@@ -1,12 +1,14 @@
 var a23704 =
 [
-    [ "boss_omor_the_unscarred", "d4/d27/a23704.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
-    [ "JustDied", "d4/d27/a23704.html#a9ddae483a0f8cefd8a19975b60002660", null ],
-    [ "JustEngagedWith", "d4/d27/a23704.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
-    [ "JustSummoned", "d4/d27/a23704.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
-    [ "KilledUnit", "d4/d27/a23704.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
-    [ "Reset", "d4/d27/a23704.html#a0ec22c50cd096677a20299ab45a3c344", null ],
-    [ "UpdateAI", "d4/d27/a23704.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
-    [ "_hasSpoken", "d4/d27/a23704.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
-    [ "_targetGUID", "d4/d27/a23704.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
+    [ "boss_vazruden", "d4/d27/a23704.html#a9908d6082a09d55dd0d8bb801784a151", null ],
+    [ "DamageTaken", "d4/d27/a23704.html#a44b1e4d43bbf0d7faec7f4ee277db811", null ],
+    [ "EnterEvadeMode", "d4/d27/a23704.html#aba006e8e9aefe522ea5c36c638bb5c3b", null ],
+    [ "JustDied", "d4/d27/a23704.html#a525025b41b53a577bdff1eb818191ed7", null ],
+    [ "JustEngagedWith", "d4/d27/a23704.html#a5dbbe80fcfe191ac5ae03f943496ad02", null ],
+    [ "KilledUnit", "d4/d27/a23704.html#a8f430a0d7edb0285156c6bf68ba0aa07", null ],
+    [ "Reset", "d4/d27/a23704.html#a11b5091dafe2f0de9afd81de7b6fde90", null ],
+    [ "UpdateAI", "d4/d27/a23704.html#aebaf147a1a2e723cb0cb8e46f3d01e68", null ],
+    [ "_hasSpoken", "d4/d27/a23704.html#af5b9aa9c7a343486b4dc05819e8d3ccf", null ],
+    [ "_nazanCalled", "d4/d27/a23704.html#a44d53934c743e9beb539681719997852", null ],
+    [ "_scheduler", "d4/d27/a23704.html#a60382206e378c2f2c493d1ee25c4ff8c", null ]
 ];

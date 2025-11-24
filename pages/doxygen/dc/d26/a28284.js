@@ -1,8 +1,7 @@
 var a28284 =
 [
-    [ "gender", "dc/d26/a28284.html#a571684c3aa6f2b0192b545d2a38ab333", null ],
-    [ "hair_id", "dc/d26/a28284.html#af4646a9adb0a1dc18b34158de2116b84", null ],
-    [ "Id", "dc/d26/a28284.html#a05de87081cf628e806d6518eef1424e4", null ],
-    [ "race", "dc/d26/a28284.html#a458f5a1e2aca1fd34bb1afadeb5f6db2", null ],
-    [ "type", "dc/d26/a28284.html#a289bb362ba13235c754647ba67be1e56", null ]
+    [ "bit_index", "dc/d26/a28284.html#a1e5cb3fc001169a204507a084435a211", null ],
+    [ "ID", "dc/d26/a28284.html#a63fe7a87e019780d20e86e48efb02eac", null ],
+    [ "nameFemale", "dc/d26/a28284.html#ad0380caf2526715faaddc9330062d90a", null ],
+    [ "nameMale", "dc/d26/a28284.html#a74a767731c96d3d815ddde5a06f68599", null ]
 ];

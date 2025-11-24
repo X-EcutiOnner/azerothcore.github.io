@@ -1,8 +1,7 @@
 var a22900 =
 [
-    [ "npc_parasitic_shadowfiend", "d5/d88/a22900.html#a09aa9baed84ec849bd5a34d02aec8db3", null ],
-    [ "CanAIAttack", "d5/d88/a22900.html#ac7600aed313f1413cb9b522d60d30329", null ],
-    [ "EnterEvadeMode", "d5/d88/a22900.html#a4dc9fe2b60fc97bd836701244a069d4d", null ],
-    [ "IsSummonedBy", "d5/d88/a22900.html#a306c696d4243c4525d0a3908a212135d", null ],
-    [ "UpdateAI", "d5/d88/a22900.html#a2706a4ba7876f299b02d2e720f512af2", null ]
+    [ "HandleScriptEffect", "d5/d88/a22900.html#a6ec6e79849c618d009eae3551e16ff0a", null ],
+    [ "PrepareSpellScript", "d5/d88/a22900.html#a4f00eca7c78a785780be4379c1a56a6b", null ],
+    [ "Register", "d5/d88/a22900.html#adb676b9d6f36c30efbb8286b1e5edf6d", null ],
+    [ "Validate", "d5/d88/a22900.html#a9ce122d497e72e3a46b1857d722af48d", null ]
 ];
