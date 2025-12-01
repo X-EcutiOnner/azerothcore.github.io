@@ -1,12 +1,12 @@
 var a10378 =
 [
-    [ "ItemScript", "d8/d3d/a10378.html#a0ad18538a834261190356eab549ff192", null ],
-    [ "IsDatabaseBound", "d8/d3d/a10378.html#ae0ae6754a17b88deaf3648b74a58bb9d", null ],
-    [ "OnCastItemCombatSpell", "d8/d3d/a10378.html#a08a73378706fdfb0cee5e6214060ad1b", null ],
-    [ "OnExpire", "d8/d3d/a10378.html#a2ac915f9f966df87a963a328363deb77", null ],
-    [ "OnGossipSelect", "d8/d3d/a10378.html#a78b540902816ee3b3f9a6b108aa155ab", null ],
-    [ "OnGossipSelectCode", "d8/d3d/a10378.html#a924268357fec1a667f1184c91ebcef33", null ],
-    [ "OnQuestAccept", "d8/d3d/a10378.html#a87ab2f706bbb4e71921852d1ae6d78c7", null ],
-    [ "OnRemove", "d8/d3d/a10378.html#a1c8d706593fce54b1e4627493c38a6d3", null ],
-    [ "OnUse", "d8/d3d/a10378.html#a0e45d02f07def65de2eb94735189e7f5", null ]
+    [ "GroupScript", "d8/d3d/a10378.html#a0680f82522424afc364e9b94e1c6f686", null ],
+    [ "CanGroupJoinBattlegroundQueue", "d8/d3d/a10378.html#a931b4a94a2f95958579b37c0af6ece03", null ],
+    [ "IsDatabaseBound", "d8/d3d/a10378.html#acb561e8a2d5b3542e228a7beb8122fbf", null ],
+    [ "OnAddMember", "d8/d3d/a10378.html#adb279c4c0ba60ffea994f35cd7e91ad1", null ],
+    [ "OnChangeLeader", "d8/d3d/a10378.html#a64a1441fd3db3f25236691efcff4a80b", null ],
+    [ "OnCreate", "d8/d3d/a10378.html#a18973a7e5f260712f032ca1129d4a0bc", null ],
+    [ "OnDisband", "d8/d3d/a10378.html#a3cb94966ba1d02180fb3e7cf95000e5f", null ],
+    [ "OnInviteMember", "d8/d3d/a10378.html#a2ae925dc27708fdaa4d5909b582b77a7", null ],
+    [ "OnRemoveMember", "d8/d3d/a10378.html#adf640b01746ee92fed31670ee5cc8d0f", null ]
 ];

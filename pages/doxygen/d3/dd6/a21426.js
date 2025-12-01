@@ -1,6 +1,12 @@
 var a21426 =
 [
-    [ "boss_archavonAI", "d1/d59/a21430.html", "d1/d59/a21430" ],
-    [ "boss_archavon", "d3/dd6/a21426.html#a44e20480f8d86cf763afe67de49c6c33", null ],
-    [ "GetAI", "d3/dd6/a21426.html#a5eb62d54fe1559ef9df51c2bd01f7de4", null ]
+    [ "boss_koralonAI", "d3/dd6/a21426.html#a3f5bc42a141011e543d1215eac09dc74", null ],
+    [ "AttackStart", "d3/dd6/a21426.html#aa84e6e9a302172e134163cd07ca57864", null ],
+    [ "JustDied", "d3/dd6/a21426.html#a102c10792d9e7df61d920b5a43f58e51", null ],
+    [ "JustEngagedWith", "d3/dd6/a21426.html#aa7503618dd09e0aebac44394595f4715", null ],
+    [ "Reset", "d3/dd6/a21426.html#a0e57ee42e45e55b1a69ac7cb0f1d2666", null ],
+    [ "UpdateAI", "d3/dd6/a21426.html#aa944aad2eb68adc917cba743d1e530c7", null ],
+    [ "events", "d3/dd6/a21426.html#abc8b9a8759b0e3e95d66c16615f621f5", null ],
+    [ "pInstance", "d3/dd6/a21426.html#a4bdea1a9d7e46d4ef71cd43ce969e59c", null ],
+    [ "rotateTimer", "d3/dd6/a21426.html#ad4b766094f28e940b0b7971d6dadc277", null ]
 ];

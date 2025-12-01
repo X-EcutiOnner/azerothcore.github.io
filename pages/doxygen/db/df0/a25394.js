@@ -1,7 +1,6 @@
 var a25394 =
 [
-    [ "HandleEffectApply", "db/df0/a25394.html#abf780eeca61aef7e44617aa0ed2ff8b8", null ],
-    [ "OnRemove", "db/df0/a25394.html#af2cfa66cd7dbc7c671efa06c497cc03e", null ],
-    [ "PrepareAuraScript", "db/df0/a25394.html#ab6c5d1fd94c763126ef77f9efd4a7116", null ],
-    [ "Register", "db/df0/a25394.html#a473189971d0a03e7305b7b9e41dc5207", null ]
+    [ "PrepareSpellScript", "db/df0/a25394.html#abb178100d4e5fa4032118f86aa34127d", null ],
+    [ "Register", "db/df0/a25394.html#a50e902cc281b909259097a8bed5651f2", null ],
+    [ "RemoveVehicleAuras", "db/df0/a25394.html#a4ec803f3164d6e38ddf10f4a0ca392e0", null ]
 ];

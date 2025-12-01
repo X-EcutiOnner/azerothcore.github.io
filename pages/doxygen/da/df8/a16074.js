@@ -1,5 +1,6 @@
 var a16074 =
 [
-    [ "PrepareAuraScript", "da/df8/a16074.html#a94b3a8e0a610afa69c3a9771f8f22b13", null ],
-    [ "Register", "da/df8/a16074.html#a1203cbec26f64aa97d10783b567c2d62", null ]
+    [ "PrepareSpellScript", "da/df8/a16074.html#a2a3602af522bb8658c1bfdede1234efd", null ],
+    [ "Register", "da/df8/a16074.html#aba235111ea4e186064a85295466f2a3f", null ],
+    [ "SetDest", "da/df8/a16074.html#a89827e4db37bea4847c79265d95386c6", null ]
 ];

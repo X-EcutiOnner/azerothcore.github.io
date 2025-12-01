@@ -1,5 +1,7 @@
 var a13458 =
 [
-    [ "go_eredar_twins_blaze", "d0/db9/a13458.html#a19d28875d3506d337e0ecbd93169f140", null ],
-    [ "InitializeAI", "d0/db9/a13458.html#a8769ad96e4c4a2396cf4c294d8d982eb", null ]
+    [ "CheckCast", "d0/db9/a13458.html#a6ac00101ced46cebd1dd6a32c89374d2", null ],
+    [ "PrepareSpellScript", "d0/db9/a13458.html#a07973000e8a4b0ff66d4f4d1fd9f327e", null ],
+    [ "Register", "d0/db9/a13458.html#a7deecb2b7dfc410af30d8b14d941f74a", null ],
+    [ "Validate", "d0/db9/a13458.html#a9208b9c010bb9cc379c195939351aa45", null ]
 ];

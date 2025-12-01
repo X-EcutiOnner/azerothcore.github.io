@@ -1,6 +1,6 @@
 var a11498 =
 [
-    [ "AfterCheckProcHandler", "de/d9f/a11498.html#ac0a14950e90d064ffd7adc224b25f9d8", null ],
-    [ "Call", "de/d9f/a11498.html#ab2da0d87413dd7317eeaf73df17f1aaf", null ],
-    [ "_HandlerScript", "de/d9f/a11498.html#af5a393efc729e8588c0fc425fdfead99", null ]
+    [ "AuraDispelHandler", "de/d9f/a11498.html#ab6e675b4db931c601b3d6aef65ae0ff6", null ],
+    [ "Call", "de/d9f/a11498.html#a147d8a6d95f011f27600d052ef7b4000", null ],
+    [ "pHandlerScript", "de/d9f/a11498.html#ab7dd73a36aa517354a023deb7db0cf19", null ]
 ];

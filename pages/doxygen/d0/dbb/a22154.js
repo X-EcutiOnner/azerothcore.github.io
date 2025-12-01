@@ -1,9 +1,6 @@
 var a22154 =
 [
-    [ "npc_wounded_skirmisher", "d0/dbb/a22154.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
-    [ "Initialize", "d0/dbb/a22154.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
-    [ "JustEngagedWith", "d0/dbb/a22154.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
-    [ "Reset", "d0/dbb/a22154.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
-    [ "SpellHit", "d0/dbb/a22154.html#a891e879af5da1f181c94e528c59a81f1", null ],
-    [ "UpdateAI", "d0/dbb/a22154.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
+    [ "npc_attracted_reef_bullAI", "d0/d19/a22158.html", "d0/d19/a22158" ],
+    [ "npc_attracted_reef_bull", "d0/dbb/a22154.html#acd0ade9e7ce5492c11be0b3f2696418e", null ],
+    [ "GetAI", "d0/dbb/a22154.html#af705e2768cd41c955af7f944c670ac85", null ]
 ];

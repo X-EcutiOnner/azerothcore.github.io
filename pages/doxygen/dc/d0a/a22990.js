@@ -1,6 +1,7 @@
 var a22990 =
 [
-    [ "FilterTargets", "dc/d0a/a22990.html#a91b9fdebdffcae06da1882d7d46f5460", null ],
-    [ "PrepareSpellScript", "dc/d0a/a22990.html#ae8f3906007580963bda33cd0e420299b", null ],
-    [ "Register", "dc/d0a/a22990.html#a5e191d4fca7cc95ddec8730cc3fd8ffe", null ]
+    [ "boss_lady_malande", "dc/d0a/a22990.html#a8cb693d203463dcba809e7ffc23c6868", null ],
+    [ "AttackStart", "dc/d0a/a22990.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
+    [ "JustEngagedWith", "dc/d0a/a22990.html#af4b5f376e387851e15517de03636acde", null ],
+    [ "UpdateAI", "dc/d0a/a22990.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
 ];

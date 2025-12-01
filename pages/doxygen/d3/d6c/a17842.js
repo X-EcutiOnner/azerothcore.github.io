@@ -1,8 +1,6 @@
 var a17842 =
 [
-    [ "Load", "d3/d6c/a17842.html#a363d0afcf2f79b8219652de5a3a6d466", null ],
-    [ "PrepareSpellScript", "d3/d6c/a17842.html#a8df1abd311a1c32cd6ed296d75566eac", null ],
-    [ "Register", "d3/d6c/a17842.html#a61e8f66c7446e0587b5d743f0e6ead92", null ],
-    [ "RelocateDest", "d3/d6c/a17842.html#abad4acee4c0898fea6bfb57b8155cab2", null ],
-    [ "SelectTransport", "d3/d6c/a17842.html#a0564852176d80ee6593baa3abb18238a", null ]
+    [ "IgbExplosionCheck", "d3/d6c/a17842.html#ae67cca111f26a275614810cbe053bcd8", null ],
+    [ "operator()", "d3/d6c/a17842.html#a28ce6685366e99db2aa1e4022012f943", null ],
+    [ "_source", "d3/d6c/a17842.html#a413ee8f2218621d274d118aea967dc9b", null ]
 ];

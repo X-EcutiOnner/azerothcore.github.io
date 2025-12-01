@@ -1,6 +1,6 @@
 var a24038 =
 [
-    [ "npc_capernian", "d2/da5/a24038.html#a0acb568664c777797eeb7104f454699d", null ],
-    [ "AttackStart", "d2/da5/a24038.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
-    [ "ScheduleEvents", "d2/da5/a24038.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
+    [ "HandleScriptEffect", "d2/da5/a24038.html#a032b00bcd9bda0cd04f93848e4630c6a", null ],
+    [ "PrepareSpellScript", "d2/da5/a24038.html#ad99a318c6b3ee834aa3c3591a0f8a330", null ],
+    [ "Register", "d2/da5/a24038.html#aa96de13af039d8dfab0ae1a5d30e21a8", null ]
 ];

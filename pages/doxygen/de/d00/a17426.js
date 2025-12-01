@@ -1,6 +1,5 @@
 var a17426 =
 [
-    [ "boss_slad_ranAI", "d4/d6d/a17430.html", "d4/d6d/a17430" ],
-    [ "boss_slad_ran", "de/d00/a17426.html#a9b960242e2f186d334d7ce04b999e274", null ],
-    [ "GetAI", "de/d00/a17426.html#a26651b7ca111bd64549283c37e34db11", null ]
+    [ "achievement_snakes_whyd_it_have_to_be_snakes", "de/d00/a17426.html#a4245e53260b83f77f9b4313e13f1f7d3", null ],
+    [ "OnCheck", "de/d00/a17426.html#a1bc62ef6dbdb98b9ca8ea3f3bfc742b0", null ]
 ];

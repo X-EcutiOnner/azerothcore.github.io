@@ -1,7 +1,9 @@
 var a23042 =
 [
-    [ "boss_lady_malande", "d1/de6/a23042.html#a8cb693d203463dcba809e7ffc23c6868", null ],
-    [ "AttackStart", "d1/de6/a23042.html#ad5cf6e7b0000c7f96d8606088fb13d31", null ],
-    [ "JustEngagedWith", "d1/de6/a23042.html#af4b5f376e387851e15517de03636acde", null ],
-    [ "UpdateAI", "d1/de6/a23042.html#a6d9d09a49fc87bbbda02387f78bb3739", null ]
+    [ "FilterTargets", "d1/de6/a23042.html#aa8f0401dd004e816b8071381289116fa", null ],
+    [ "HandleTeleportUnits", "d1/de6/a23042.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
+    [ "PrepareSpellScript", "d1/de6/a23042.html#a47898c213cdd125714c80d327bf42d8c", null ],
+    [ "Register", "d1/de6/a23042.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
+    [ "SetDest", "d1/de6/a23042.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
+    [ "Validate", "d1/de6/a23042.html#a814083360970284a325621f45e109b5b", null ]
 ];

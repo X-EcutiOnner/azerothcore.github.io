@@ -1,10 +1,8 @@
 var a05786 =
 [
-    [ "PreparedStatementTask", "d5/d95/a05786.html#a332f6ddad1ee338da3fa4bd2461a9c29", null ],
-    [ "~PreparedStatementTask", "d5/d95/a05786.html#a4ca96ab46d5015b2c673164652146886", null ],
-    [ "Execute", "d5/d95/a05786.html#ad4058410f5eba4f0f935696d38ba85ab", null ],
-    [ "GetFuture", "d5/d95/a05786.html#a07031e5cff28553e33d98140847b9e0d", null ],
-    [ "m_has_result", "d5/d95/a05786.html#a7c2841b7638c42caa4e8c1116110f8a3", null ],
-    [ "m_result", "d5/d95/a05786.html#a841a7aefd9ea58a76cead1da65a786b2", null ],
-    [ "m_stmt", "d5/d95/a05786.html#aba9082a717729915a4e4d640220a49d2", null ]
+    [ "Statements", "d5/d95/a05786.html#a6dc31cb64a22e90cc5275bf6fcaaf000", null ],
+    [ "LoginDatabaseConnection", "d5/d95/a05786.html#aed22866380f9331ff73d4437a779206c", null ],
+    [ "LoginDatabaseConnection", "d5/d95/a05786.html#a27fa1397706cf8b986fe0a05a82a910b", null ],
+    [ "~LoginDatabaseConnection", "d5/d95/a05786.html#a7514a6e42889d5d75dcce2e804fff7b8", null ],
+    [ "DoPrepareStatements", "d5/d95/a05786.html#a3f826d59e4efa55d7825f90f434ae889", null ]
 ];

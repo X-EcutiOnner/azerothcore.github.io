@@ -1,6 +1,6 @@
 var a25558 =
 [
-    [ "OnProc", "df/d56/a25558.html#ac7f0a86f2d0c5dcb945eb7ccb9cd5c88", null ],
-    [ "PrepareAuraScript", "df/d56/a25558.html#a6a7b011f151ff81672221b84eb4456b8", null ],
-    [ "Register", "df/d56/a25558.html#a15b05d352f94d2aabeb75a6bfd996fc6", null ]
+    [ "CheckCast", "df/d56/a25558.html#a712900d0c9e9cc78b5de2886e416f34d", null ],
+    [ "PrepareSpellScript", "df/d56/a25558.html#a0bc2de519e0c84688fad609444d28afa", null ],
+    [ "Register", "df/d56/a25558.html#a7f438fb8ce7eda520a366437df65c6e8", null ]
 ];

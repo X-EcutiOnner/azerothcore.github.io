@@ -1,14 +1,8 @@
 var a23894 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "d9/dd6/a23894.html#aa438091d2868b26d961ee4f81e9cea11", null ],
-    [ "GetGuidData", "d9/dd6/a23894.html#a1a0623204ecaaa3623fc503783c4d766", null ],
-    [ "Initialize", "d9/dd6/a23894.html#a3761d56e59d5bf1147986978c9fdf2e3", null ],
-    [ "OnCreatureCreate", "d9/dd6/a23894.html#a9fa5637791d249553472b31c024f9fc1", null ],
-    [ "ReadSaveDataMore", "d9/dd6/a23894.html#a67bc6a2dde5c649d16ef7e2c26c6069b", null ],
-    [ "SetData", "d9/dd6/a23894.html#a566090f29d13977354fb50e68d92f046", null ],
-    [ "Update", "d9/dd6/a23894.html#aad1666c364feff4e2b7654f5894c129f", null ],
-    [ "WriteSaveDataMore", "d9/dd6/a23894.html#aaa8b1b054df41a79ac074ae48e180ee9", null ],
-    [ "ExecutionerGUID", "d9/dd6/a23894.html#aa879398b1732952eba7b2b8a822a959e", null ],
-    [ "PrisonerGUID", "d9/dd6/a23894.html#a0648efa6b0bbf4860d55f9b11f138e39", null ],
-    [ "RescueTimer", "d9/dd6/a23894.html#a8df2961264a192ab2692e3c8ca507666", null ]
+    [ "boss_commander_sarannis", "d9/dd6/a23894.html#ace0957feb37f864798008849be25f607", null ],
+    [ "JustDied", "d9/dd6/a23894.html#a7796429f04c049549a4a02a1eb8d35fc", null ],
+    [ "JustEngagedWith", "d9/dd6/a23894.html#ad4273db7c169c6cfa9917dd3b76c9c95", null ],
+    [ "KilledUnit", "d9/dd6/a23894.html#a64e77321adc5eea9d3494a3e1030f9de", null ],
+    [ "ScheduleReinforcements", "d9/dd6/a23894.html#a293f0b860a66396a30c6d255eef85309", null ]
 ];

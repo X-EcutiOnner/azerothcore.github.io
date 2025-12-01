@@ -1,6 +1,6 @@
 var a20422 =
 [
-    [ "npc_ulduar_hodir_shamanAI", "d2/d22/a20426.html", "d2/d22/a20426" ],
-    [ "npc_ulduar_hodir_shaman", "da/d61/a20422.html#ae73a416c72441ab531d8a5db88183d47", null ],
-    [ "GetAI", "da/d61/a20422.html#ab06a67b72a3954c65792a478ac90672c", null ]
+    [ "FilterTargets", "da/d61/a20422.html#af15fc44e9bd5251aa70aaaa6657e0c29", null ],
+    [ "PrepareSpellScript", "da/d61/a20422.html#ae0ebd4c2ac0f91da5b2574ee7dac31ec", null ],
+    [ "Register", "da/d61/a20422.html#af6704b0789566b2b385ac573eaa50f06", null ]
 ];

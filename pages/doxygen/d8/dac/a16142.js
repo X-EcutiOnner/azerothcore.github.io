@@ -1,7 +1,25 @@
 var a16142 =
 [
-    [ "HandleScriptEffect", "d8/dac/a16142.html#a6f21f546303327f2d32f1dbc03dc21d9", null ],
-    [ "PrepareSpellScript", "d8/dac/a16142.html#a392c40d469c3c1e816d5dc364fde824c", null ],
-    [ "Register", "d8/dac/a16142.html#aa59c26b25ca0f440de36e450adf050a5", null ],
-    [ "Validate", "d8/dac/a16142.html#a370f83112d901f9565734b11d12858f4", null ]
+    [ "boss_sartharionAI", "d8/dac/a16142.html#aea51fa7b0e55c9ae635a95f7a1aea161", null ],
+    [ "DamageTaken", "d8/dac/a16142.html#a0f16f9865159338c46e140c01650a728", null ],
+    [ "DoAction", "d8/dac/a16142.html#af3c28d7eff6df494bbca6156df5fb014", null ],
+    [ "GetData", "d8/dac/a16142.html#a6d45699d2efacdc0aca88dba3f67d20a", null ],
+    [ "IsTargetInBounds", "d8/dac/a16142.html#a5ed942da2e53ecc63ec15fa8cf8c3325", null ],
+    [ "JustDied", "d8/dac/a16142.html#ac0a2915976f7dfb21786c161d5e43d3f", null ],
+    [ "JustEngagedWith", "d8/dac/a16142.html#a15c50a40ae2a6caa873993c6e330600c", null ],
+    [ "JustSummoned", "d8/dac/a16142.html#ac5dc745f044bdf673b7f92b194063d94", null ],
+    [ "KilledUnit", "d8/dac/a16142.html#a8502d5c79b7baac2f9a68349e99b7b16", null ],
+    [ "Reset", "d8/dac/a16142.html#ab72889e00eb1fad659f807620e81e23e", null ],
+    [ "RespawnDragons", "d8/dac/a16142.html#a5014e6aebdda3b84cd22fd2f66ed691b", null ],
+    [ "SendLavaWaves", "d8/dac/a16142.html#a14384c3853570d0f7580d72d0008b986", null ],
+    [ "SetData", "d8/dac/a16142.html#ad992cf36966069dc00d5509a54445213", null ],
+    [ "SummonLavaWaves", "d8/dac/a16142.html#aadd3b8f29b49b67685d67036c5f2775f", null ],
+    [ "SummonStartingTriggers", "d8/dac/a16142.html#a17f64c07e9c83c7e25bf9fba5b9f3ba4", null ],
+    [ "UpdateAI", "d8/dac/a16142.html#a7aaca15038bf53ff3baaeb39c7713bff", null ],
+    [ "below11PctReached", "d8/dac/a16142.html#ae838ffe0fdee72f4d4b1c02a9cbde949", null ],
+    [ "dragonsCount", "d8/dac/a16142.html#a3bb9defa2a2a3acc6caadaaa361027ee", null ],
+    [ "extraEvents", "d8/dac/a16142.html#a4d2e7a5aae63664e437c1e9ac22846cb", null ],
+    [ "lastLavaSide", "d8/dac/a16142.html#ab9c3a5d19c966e547328ce2a28674069", null ],
+    [ "usedBerserk", "d8/dac/a16142.html#a4790e98b3e8d02021b00e14aafec3aff", null ],
+    [ "volcanoBlows", "d8/dac/a16142.html#a1d6e306084fb64742d28beb1f65ef338", null ]
 ];

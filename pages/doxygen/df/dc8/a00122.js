@@ -1,6 +1,6 @@
 var a00122 =
 [
-    [ "SpellEvent", "d8/d40/a11276.html", "d8/d40/a11276" ],
+    [ "SpellEvent", "d8/de8/a11282.html", "d8/de8/a11282" ],
     [ "DEBUG_TRAJ", "df/dc8/a00122.html#ac27bc73435b380df600d6da0b753a144", null ],
     [ "GCDLimits", "df/dc8/a00122.html#aea36520bcbaa2ebe9c062b9c5d9df777", [
       [ "MIN_GCD", "df/dc8/a00122.html#aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f", null ],

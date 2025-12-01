@@ -1,7 +1,6 @@
 var a21930 =
 [
-    [ "npc_cosmetic_toy_plane", "d8/dcd/a21930.html#a71b7df4d5f78768d9e47f41ba78b93d2", null ],
-    [ "Reset", "d8/dcd/a21930.html#aa66f2e16ce6c4e5dd7399b48bd5bc203", null ],
-    [ "UpdateAI", "d8/dcd/a21930.html#a41d62b314510fbd6637d8eddbea16f96", null ],
-    [ "_movementArray", "d8/dcd/a21930.html#a5a85278bc14a0e3158dc3fa8abcc8392", null ]
+    [ "npc_injured_7th_legion_soldierAI", "d8/dcd/a21930.html#a6929ef42a003f1337d71f9b23fa37c6e", null ],
+    [ "MovementInform", "d8/dcd/a21930.html#a999bc868db485578fcc70ae7e056b778", null ],
+    [ "Reset", "d8/dcd/a21930.html#a3021c037acdb141fc3ca4d6f3b146bbf", null ]
 ];

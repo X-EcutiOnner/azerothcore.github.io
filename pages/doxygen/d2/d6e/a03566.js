@@ -1,11 +1,11 @@
 var a03566 =
 [
-    [ "SpiritInfoStruct", "de/d7b/a14036.html", "de/d7b/a14036" ],
-    [ "TransformStruct", "d4/d75/a14040.html", "d4/d75/a14040" ],
-    [ "boss_zuljin", "d9/d96/a14044.html", "d9/d96/a14044" ],
-    [ "npc_zuljin_vortex", "d9/dc8/a14048.html", "d9/dc8/a14048" ],
-    [ "spell_claw_rage_aura", "d6/de7/a14052.html", "d6/de7/a14052" ],
-    [ "spell_zuljin_zap", "df/d0c/a14056.html", "df/d0c/a14056" ],
+    [ "SpiritInfoStruct", "db/dac/a14042.html", "db/dac/a14042" ],
+    [ "TransformStruct", "d0/d6c/a14046.html", "d0/d6c/a14046" ],
+    [ "boss_zuljin", "d7/de1/a14050.html", "d7/de1/a14050" ],
+    [ "npc_zuljin_vortex", "d5/dfa/a14054.html", "d5/dfa/a14054" ],
+    [ "spell_claw_rage_aura", "d5/da0/a14058.html", "d5/da0/a14058" ],
+    [ "spell_zuljin_zap", "df/d01/a14062.html", "df/d01/a14062" ],
     [ "CreatureEntries", "d2/d6e/a03566.html#a8954ba92de87382cc5d2ff27d0ec3918", [
       [ "NPC_SPIRIT_BEAR", "d2/d6e/a03566.html#a8954ba92de87382cc5d2ff27d0ec3918a8e01247ce5b414c3d524c17f3402be51", null ],
       [ "NPC_SPIRIT_EAGLE", "d2/d6e/a03566.html#a8954ba92de87382cc5d2ff27d0ec3918aaba9b813f2d7aead25a6f8dde61b2cfc", null ],
@@ -264,7 +264,8 @@ var a03566 =
       [ "EVENT_ECK_BITE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a25fd4fd9c83fea5e757a20aeb8f03aee", null ],
       [ "EVENT_ECK_SPIT", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6add7ba9bf01f5f04dac1d93a997b57af2", null ],
       [ "EVENT_ECK_SPRING", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6c3f22fd6aa63e5bf101019792a4b483", null ],
-      [ "EVENT_ECK_HEALTH", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f0a1bde1d1f47b6f7e45f621a57b6c1", null ],
+      [ "EVENT_ECK_CRAZED_EMOTE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6eeac32439bad23ef93cf41b4526d55d", null ],
+      [ "EMOTE_CRAZED", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2628cfc3f39065948404f522308c931f", null ],
       [ "NPC_SLADRAN_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08dc37f063f5d70a3893765939f63a82", null ],
       [ "NPC_SLADRAN_CONSTRICTORS", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a52bf6fd6ef6437b9a4e88616b7f1d91b", null ],
       [ "MAX_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1e3f12d08f9d4880b8263386a54d21c8", null ],

@@ -1,11 +1,12 @@
 var a07450 =
 [
-    [ "BattlegroundICScore", "db/d60/a07450.html#a3b8798fdb479885fbe4b7cecb2f84f68", null ],
-    [ "BuildObjectivesBlock", "db/d60/a07450.html#a4a10d0be9c318048feb4e76ffae9472c", null ],
-    [ "GetAttr1", "db/d60/a07450.html#af6c42bbd1b8f3f94fe838ce5df610a80", null ],
-    [ "GetAttr2", "db/d60/a07450.html#a758fa51038f232c7d65cd0168a4608c2", null ],
-    [ "UpdateScore", "db/d60/a07450.html#a690ede108b8ce8dfa45a2b7457e53a3c", null ],
-    [ "BattlegroundIC", "db/d60/a07450.html#a2d7503354e4bdce9f2a06d48b649da2f", null ],
-    [ "BasesAssaulted", "db/d60/a07450.html#a5050b80f9d1855cb8b97830f9e80124f", null ],
-    [ "BasesDefended", "db/d60/a07450.html#a70c2965b6b1e99239e0dcc1c03ccb552", null ]
+    [ "CapturePointInfo", "db/d60/a07450.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
+    [ "IsUncontrolled", "db/d60/a07450.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
+    [ "IsUnderControl", "db/d60/a07450.html#a3f33897525f5104e2e7733dd6247c090", null ],
+    [ "IsUnderControl", "db/d60/a07450.html#af6b021020b120b87c300981b8bb60992", null ],
+    [ "_areaTrigger", "db/d60/a07450.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
+    [ "_barStatus", "db/d60/a07450.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
+    [ "_ownerTeamId", "db/d60/a07450.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
+    [ "_playersCount", "db/d60/a07450.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
+    [ "player", "db/d60/a07450.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
 ];

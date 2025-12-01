@@ -1,5 +1,5 @@
 var a04673 =
 [
-    [ "EventMap", "d3/dd7/a05516.html", "d3/dd7/a05516" ],
-    [ "EventMap::Event", "db/d2d/a05520.html", "db/d2d/a05520" ]
+    [ "EventMap", "dc/d79/a05522.html", "dc/d79/a05522" ],
+    [ "EventMap::Event", "d0/d22/a05526.html", "d0/d22/a05526" ]
 ];

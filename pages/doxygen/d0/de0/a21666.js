@@ -1,6 +1,8 @@
 var a21666 =
 [
-    [ "npc_azure_captainAI", "d1/dcb/a21670.html", "d1/dcb/a21670" ],
-    [ "npc_azure_captain", "d0/de0/a21666.html#aeced2dbbfb23c161fd2bbc22859886a4", null ],
-    [ "GetAI", "d0/de0/a21666.html#a0d1bd80fc38c61e05d3f31ffe587350f", null ]
+    [ "HandleEffectRemove", "d0/de0/a21666.html#aa2b05befb775244423264f6b5e2387c1", null ],
+    [ "Load", "d0/de0/a21666.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
+    [ "PrepareAuraScript", "d0/de0/a21666.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
+    [ "Register", "d0/de0/a21666.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
+    [ "Validate", "d0/de0/a21666.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: GridObjectCleaner Class Reference</title>
+<title>AzerothCore: Member List</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -78,7 +78,7 @@ $(function() {
 </div>
 <script type="text/javascript">
 /* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
-$(document).ready(function(){initNavTree('de/de7/a09135.html','../../'); initResizable(); });
+$(document).ready(function(){initNavTree('d4/ddb/a09138.html','../../'); initResizable(); });
 /* @license-end */
 </script>
 <div id="doc-content">
@@ -104,88 +104,20 @@ $(document).ready(function(){initNavTree('de/de7/a09135.html','../../'); initRes
 </div>
 
 <div class="header">
-  <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="../../d6/d4b/a09132.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">GridObjectCleaner Class Reference</div></div>
+  <div class="headertitle"><div class="title">GridObjectCleaner Member List</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">GridObjectLoader.h</a>&quot;</code></p>
-<table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:aa0f56809b23b117bde869576ddaa9dbd"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
-<tr class="memitem:aa0f56809b23b117bde869576ddaa9dbd"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../de/de7/a09135.html#aa0f56809b23b117bde869576ddaa9dbd">Visit</a> (<a class="el" href="../../d2/d76/a09143.html">GridRefMgr</a>&lt; T &gt; &amp;)</td></tr>
-<tr class="separator:aa0f56809b23b117bde869576ddaa9dbd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afab06305b5b3568b93d07f80efd616ae"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de7/a09135.html#afab06305b5b3568b93d07f80efd616ae">Visit</a> (<a class="el" href="../../d5/d10/a01571.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;)</td></tr>
-<tr class="separator:afab06305b5b3568b93d07f80efd616ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table>
-<a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="aa0f56809b23b117bde869576ddaa9dbd" name="aa0f56809b23b117bde869576ddaa9dbd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa0f56809b23b117bde869576ddaa9dbd">&#9670;&#160;</a></span>Visit() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class T &gt; </div>
-      <table class="memname">
-        <tr>
-          <td class="memname">void GridObjectCleaner::Visit </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d2/d76/a09143.html">GridRefMgr</a>&lt; T &gt; &amp;&#160;</td>
-          <td class="paramname"><em>m</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  134</span>{</div>
-<div class="line"><span class="lineno">  135</span>    <span class="keywordflow">for</span> (<span class="keyword">typename</span> <a class="code hl_class" href="../../de/d07/a05271.html">GridRefMgr&lt;T&gt;::iterator</a> iter = m.<a class="code hl_function" href="../../d2/d76/a09143.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); iter != m.<a class="code hl_function" href="../../d2/d76/a09143.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++iter)</div>
-<div class="line"><span class="lineno">  136</span>        iter-&gt;GetSource()-&gt;CleanupsBeforeDelete();</div>
-<div class="line"><span class="lineno">  137</span>}</div>
-<div class="ttc" id="aa05271_html"><div class="ttname"><a href="../../de/d07/a05271.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition:</b> LinkedList.h:139</div></div>
-<div class="ttc" id="aa09143_html_a1e4e67ba11ac8da077942a6581647bf3"><div class="ttname"><a href="../../d2/d76/a09143.html#a1e4e67ba11ac8da077942a6581647bf3">GridRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:35</div></div>
-<div class="ttc" id="aa09143_html_a266acb421cfc6ccc56dc2acff3202971"><div class="ttname"><a href="../../d2/d76/a09143.html#a266acb421cfc6ccc56dc2acff3202971">GridRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:36</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, and <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>.</p>
-
-</div>
-</div>
-<a id="afab06305b5b3568b93d07f80efd616ae" name="afab06305b5b3568b93d07f80efd616ae"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afab06305b5b3568b93d07f80efd616ae">&#9670;&#160;</a></span>Visit() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void GridObjectCleaner::Visit </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d5/d10/a01571.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   50</span>{ }</div>
-</div><!-- fragment -->
-</div>
-</div>
-</div><!-- contents -->
+<p>This is the complete list of members for <a class="el" href="../../d4/ddb/a09138.html">GridObjectCleaner</a>, including all inherited members.</p>
+<table class="directory">
+  <tr class="even"><td class="entry"><a class="el" href="../../d4/ddb/a09138.html#aa0f56809b23b117bde869576ddaa9dbd">Visit</a>(GridRefMgr&lt; T &gt; &amp;)</td><td class="entry"><a class="el" href="../../d4/ddb/a09138.html">GridObjectCleaner</a></td><td class="entry"></td></tr>
+  <tr class="odd"><td class="entry"><a class="el" href="../../d4/ddb/a09138.html#afab06305b5b3568b93d07f80efd616ae">Visit</a>(PlayerMapType &amp;)</td><td class="entry"><a class="el" href="../../d4/ddb/a09138.html">GridObjectCleaner</a></td><td class="entry"><span class="mlabel">inline</span></td></tr>
+</table></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../de/de7/a09135.html">GridObjectCleaner</a></li>
-    <li class="footer">Generated on Mon Oct 20 2025 20:47:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Dec 1 2025 20:47:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

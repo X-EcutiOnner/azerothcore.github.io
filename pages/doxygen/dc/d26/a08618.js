@@ -1,10 +1,9 @@
 var a08618 =
 [
-    [ "EquipmentSet", "dc/d26/a08618.html#acd3085c12c795daceae86e94448109e2", null ],
-    [ "Guid", "dc/d26/a08618.html#aae529ea61a2ad4f114b6a108564f5474", null ],
-    [ "IconName", "dc/d26/a08618.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
-    [ "IgnoreMask", "dc/d26/a08618.html#af116e824d23f000f424f3b261618e827", null ],
-    [ "Items", "dc/d26/a08618.html#a113e6e5883afe38d446a6d435cd34a01", null ],
-    [ "Name", "dc/d26/a08618.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
-    [ "state", "dc/d26/a08618.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
+    [ "areaFlag", "dc/d26/a08618.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
+    [ "areaID", "dc/d26/a08618.html#a455a890a1d82d31873873ac497cb83b7", null ],
+    [ "x1", "dc/d26/a08618.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
+    [ "x2", "dc/d26/a08618.html#aebdb021c0b9c40d624d5115b24616a12", null ],
+    [ "y1", "dc/d26/a08618.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
+    [ "y2", "dc/d26/a08618.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
 ];

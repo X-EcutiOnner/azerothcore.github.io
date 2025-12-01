@@ -1,8 +1,8 @@
 var a26894 =
 [
-    [ "Apply", "de/d60/a26894.html#ac3145df90b6b179fece1c76da114e395", null ],
-    [ "HandleEffectPeriodic", "de/d60/a26894.html#a480dd240981f91666e25ea2f1f73e4d7", null ],
-    [ "PrepareAuraScript", "de/d60/a26894.html#aa911ba0b5a13a933bf50a072799a040f", null ],
-    [ "Register", "de/d60/a26894.html#ae0dff9b5002d3d3361d794a75645057f", null ],
-    [ "Validate", "de/d60/a26894.html#ad81184b508474a89fbafc63594ef0ab1", null ]
+    [ "CheckFireTotem", "de/d60/a26894.html#a9d6b4368f5c72b95c25415ea87575fce", null ],
+    [ "HandleDummy", "de/d60/a26894.html#a179d07e7090cec396a7845754e545e8e", null ],
+    [ "PrepareSpellScript", "de/d60/a26894.html#a8311cc106da26267e90acd98698cb737", null ],
+    [ "Register", "de/d60/a26894.html#abae5a4961888e6ba2d876e450307e362", null ],
+    [ "Validate", "de/d60/a26894.html#a2048b0e43dbe2df6e4dfc42d912a74a7", null ]
 ];

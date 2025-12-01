@@ -1,7 +1,7 @@
 var a03440 =
 [
-    [ "boss_drekthar", "df/d27/a12000.html", "df/d27/a12000" ],
-    [ "boss_drekthar::boss_drektharAI", "d3/d80/a12004.html", "d3/d80/a12004" ],
+    [ "boss_drekthar", "d3/d86/a12006.html", "d3/d86/a12006" ],
+    [ "boss_drekthar::boss_drektharAI", "dd/dbc/a12010.html", "dd/dbc/a12010" ],
     [ "Spells", "df/d89/a03440.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d4/def/a00359.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d4/def/a00359.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

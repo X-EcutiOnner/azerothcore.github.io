@@ -1,7 +1,7 @@
 var a03434 =
 [
-    [ "npc_maredis_firestar", "df/d05/a13716.html", "df/d05/a13716" ],
-    [ "npc_maredis_firestar::npc_maredis_firestarAI", "d6/d48/a13720.html", "d6/d48/a13720" ],
+    [ "npc_maredis_firestar", "db/db7/a13722.html", "db/db7/a13722" ],
+    [ "npc_maredis_firestar::npc_maredis_firestarAI", "d7/d5e/a13726.html", "d7/d5e/a13726" ],
     [ "MaredisFirestar", "d5/d85/a03434.html#a85e4eeb368c070d1186f1c7c07ab1a42", [
       [ "ITEM_LIBRAM_OF_RUMINATION", "d5/d85/a03434.html#a85e4eeb368c070d1186f1c7c07ab1a42a677909b58ffc52e1a197d376f77a711e", null ],
       [ "ITEM_LIBRAM_OF_CONSTITUTION", "d5/d85/a03434.html#a85e4eeb368c070d1186f1c7c07ab1a42a160f2d52664367620f0ef85b255b3277", null ],

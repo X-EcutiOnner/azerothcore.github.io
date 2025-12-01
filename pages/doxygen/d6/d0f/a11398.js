@@ -1,7 +1,6 @@
 var a11398 =
 [
-    [ "EffectAuraNameCheck", "d6/d0f/a11398.html#a4b10ec0fcb3ffd841cf790574875017d", null ],
-    [ "Check", "d6/d0f/a11398.html#a7fff405a99c65d3e846463ca29a8ddfd", null ],
-    [ "ToString", "d6/d0f/a11398.html#a602fc1ddafe663e2e5ddceaeaec8b118", null ],
-    [ "effAurName", "d6/d0f/a11398.html#abcf90ed5a832b5fe5ce3913a812da05d", null ]
+    [ "apPctMod", "d6/d0f/a11398.html#a35f5f8f7a3ac33768299913fecc1cf8d", null ],
+    [ "flatMod", "d6/d0f/a11398.html#a0d66e48d986f246e6aea08dd00837158", null ],
+    [ "pctMod", "d6/d0f/a11398.html#af13802a7f6872cfce3a1d14655f30287", null ]
 ];

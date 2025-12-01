@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: CommandScript Class Reference</title>
+<title>AzerothCore: ArenaScript Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,98 +108,61 @@ $(document).ready(function(){initNavTree('d5/dc2/a10306.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pro-methods">Protected Member Functions</a> &#124;
 <a href="../../d6/d62/a10303.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">CommandScript Class Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div></div>
+  <div class="headertitle"><div class="title">ArenaScript Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">CommandScript.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">ArenaScript.h</a>&quot;</code></p>
 <div class="dynheader">
-Inheritance diagram for CommandScript:</div>
+Inheritance diagram for ArenaScript:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../d5/dc2/a10306.png" usemap="#CommandScript_map" alt=""/>
-  <map id="CommandScript_map" name="CommandScript_map">
-<area href="../../d1/d4e/a10466.html" alt="ScriptObject" shape="rect" coords="0,0,188,24"/>
-<area href="../../d3/d0c/a11730.html" alt="account_commandscript" shape="rect" coords="198,112,386,136"/>
-<area href="../../d5/d44/a11734.html" alt="achievement_commandscript" shape="rect" coords="198,168,386,192"/>
-<area href="../../d9/de2/a11738.html" alt="arena_commandscript" shape="rect" coords="198,224,386,248"/>
-<area href="../../dd/d9e/a11746.html" alt="ban_commandscript" shape="rect" coords="198,280,386,304"/>
-<area href="../../d7/d7c/a11750.html" alt="bf_commandscript" shape="rect" coords="198,336,386,360"/>
-<area href="../../d3/d44/a11742.html" alt="bg_commandscript" shape="rect" coords="198,392,386,416"/>
-<area href="../../d3/dc1/a11754.html" alt="cache_commandscript" shape="rect" coords="198,448,386,472"/>
-<area href="../../da/d51/a11758.html" alt="cast_commandscript" shape="rect" coords="198,504,386,528"/>
-<area href="../../d1/db5/a11762.html" alt="character_commandscript" shape="rect" coords="198,560,386,584"/>
-<area href="../../d5/d91/a11770.html" alt="cheat_commandscript" shape="rect" coords="198,616,386,640"/>
-<area href="../../da/d9a/a11774.html" alt="debug_commandscript" shape="rect" coords="198,672,386,696"/>
-<area href="../../d6/d2f/a11782.html" alt="deserter_commandscript" shape="rect" coords="198,728,386,752"/>
-<area href="../../d0/d61/a11786.html" alt="disable_commandscript" shape="rect" coords="198,784,386,808"/>
-<area href="../../d8/d59/a11790.html" alt="event_commandscript" shape="rect" coords="198,840,386,864"/>
-<area href="../../df/df3/a11794.html" alt="gear_commandscript" shape="rect" coords="198,896,386,920"/>
-<area href="../../d4/dfc/a11798.html" alt="gm_commandscript" shape="rect" coords="198,952,386,976"/>
-<area href="../../db/d03/a11802.html" alt="go_commandscript" shape="rect" coords="198,1008,386,1032"/>
-<area href="../../d6/d25/a11806.html" alt="gobject_commandscript" shape="rect" coords="198,1064,386,1088"/>
-<area href="../../d6/d02/a11810.html" alt="group_commandscript" shape="rect" coords="198,1120,386,1144"/>
-<area href="../../df/d11/a11814.html" alt="guild_commandscript" shape="rect" coords="198,1176,386,1200"/>
-<area href="../../db/d60/a11818.html" alt="honor_commandscript" shape="rect" coords="198,1232,386,1256"/>
-<area href="../../dc/d1a/a11822.html" alt="instance_commandscript" shape="rect" coords="198,1288,386,1312"/>
-<area href="../../d0/d10/a11826.html" alt="inventory_commandscript" shape="rect" coords="198,1344,386,1368"/>
-<area href="../../da/db3/a11830.html" alt="item_commandscript" shape="rect" coords="198,1400,386,1424"/>
-<area href="../../de/db1/a11834.html" alt="learn_commandscript" shape="rect" coords="198,1456,386,1480"/>
-<area href="../../d5/d62/a11838.html" alt="lfg_commandscript" shape="rect" coords="198,1512,386,1536"/>
-<area href="../../df/d3e/a11842.html" alt="list_commandscript" shape="rect" coords="198,1568,386,1592"/>
-<area href="../../db/d3d/a11846.html" alt="lookup_commandscript" shape="rect" coords="198,1624,386,1648"/>
-<area href="../../d7/d90/a11850.html" alt="message_commandscript" shape="rect" coords="198,1680,386,1704"/>
-<area href="../../d7/d6b/a11858.html" alt="misc_commandscript" shape="rect" coords="198,1736,386,1760"/>
-<area href="../../d4/d85/a11862.html" alt="mmaps_commandscript" shape="rect" coords="198,1792,386,1816"/>
-<area href="../../dc/d0e/a11866.html" alt="modify_commandscript" shape="rect" coords="198,1848,386,1872"/>
-<area href="../../df/d88/a11882.html" alt="npc_commandscript" shape="rect" coords="198,1904,386,1928"/>
-<area href="../../d2/d0a/a11886.html" alt="pet_commandscript" shape="rect" coords="198,1960,386,1984"/>
-<area href="../../dc/d03/a11890.html" alt="player_commandscript" shape="rect" coords="198,2016,386,2040"/>
-<area href="../../d1/da3/a11894.html" alt="player_settings_commandscript" shape="rect" coords="198,2072,386,2096"/>
-<area href="../../df/deb/a11898.html" alt="quest_commandscript" shape="rect" coords="198,2128,386,2152"/>
-<area href="../../dd/d8e/a11902.html" alt="reload_commandscript" shape="rect" coords="198,2184,386,2208"/>
-<area href="../../da/df4/a11906.html" alt="reset_commandscript" shape="rect" coords="198,2240,386,2264"/>
-<area href="../../d4/da7/a11910.html" alt="send_commandscript" shape="rect" coords="198,2296,386,2320"/>
-<area href="../../d8/d78/a11914.html" alt="server_commandscript" shape="rect" coords="198,2352,386,2376"/>
-<area href="../../d8/df2/a11918.html" alt="spectator_commandscript" shape="rect" coords="198,2408,386,2432"/>
-<area href="../../d8/de7/a11922.html" alt="tele_commandscript" shape="rect" coords="198,2464,386,2488"/>
-<area href="../../d7/d40/a11926.html" alt="ticket_commandscript" shape="rect" coords="198,2520,386,2544"/>
-<area href="../../d9/de9/a11930.html" alt="titles_commandscript" shape="rect" coords="198,2576,386,2600"/>
-<area href="../../d7/d50/a11934.html" alt="worldstate_commandscript" shape="rect" coords="198,2632,386,2656"/>
-<area href="../../da/d2b/a11938.html" alt="wp_commandscript" shape="rect" coords="198,2688,386,2712"/>
+  <img src="../../d5/dc2/a10306.png" usemap="#ArenaScript_map" alt=""/>
+  <map id="ArenaScript_map" name="ArenaScript_map">
+<area href="../../df/d55/a10482.html" alt="ScriptObject" shape="rect" coords="0,0,82,24"/>
   </map>
 </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a97dc7d00b78e0030ba2a950d23b2ebd2"><td class="memItemLeft" align="right" valign="top">virtual std::vector&lt; <a class="el" href="../../d2/d62/a07586.html">Acore::ChatCommands::ChatCommandBuilder</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc2/a10306.html#a97dc7d00b78e0030ba2a950d23b2ebd2">GetCommands</a> () const =0</td></tr>
-<tr class="separator:a97dc7d00b78e0030ba2a950d23b2ebd2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pub_methods_a10466"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10466')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../d1/d4e/a10466.html">ScriptObject</a></td></tr>
-<tr class="memitem:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10466"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d4e/a10466.html#a37da453729d5c8fbe2d06f905563f47c">IsDatabaseBound</a> () const</td></tr>
-<tr class="separator:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10466"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10466"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d4e/a10466.html#a2f66339b1cdf1fde795c61cd24c8b0a2">isAfterLoadScript</a> () const</td></tr>
-<tr class="separator:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10466"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10466"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d4e/a10466.html#a585e75e34aed7aa32205daad85f8fe08">checkValidity</a> ()</td></tr>
-<tr class="separator:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10466"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a79588d839860d2f5caab60c5f1368f10 inherit pub_methods_a10466"><td class="memItemLeft" align="right" valign="top">const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d4e/a10466.html#a79588d839860d2f5caab60c5f1368f10">GetName</a> () const</td></tr>
-<tr class="separator:a79588d839860d2f5caab60c5f1368f10 inherit pub_methods_a10466"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10466"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d4e/a10466.html#a69ee35ec7d54226264efef558022c1c0">GetTotalAvailableHooks</a> ()</td></tr>
-<tr class="separator:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10466"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab6c90bb55c238fada3e9ddc993333d0d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc2/a10306.html#ab6c90bb55c238fada3e9ddc993333d0d">IsDatabaseBound</a> () const override</td></tr>
+<tr class="separator:ab6c90bb55c238fada3e9ddc993333d0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa85728dd471c2f4d58ed1794e741d060"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc2/a10306.html#aa85728dd471c2f4d58ed1794e741d060">CanAddMember</a> (<a class="el" href="../../d9/d2a/a07326.html">ArenaTeam</a> *, <a class="el" href="../../d9/d62/a08470.html">ObjectGuid</a>)</td></tr>
+<tr class="separator:aa85728dd471c2f4d58ed1794e741d060"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a13b22ad00d3742589532e6e522258834"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc2/a10306.html#a13b22ad00d3742589532e6e522258834">OnGetPoints</a> (<a class="el" href="../../d9/d2a/a07326.html">ArenaTeam</a> *, <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, float &amp;)</td></tr>
+<tr class="separator:a13b22ad00d3742589532e6e522258834"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2b46190a3243f2306a74295975dca317"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc2/a10306.html#a2b46190a3243f2306a74295975dca317">OnBeforeArenaCheckWinConditions</a> (<a class="el" href="../../db/d42/a07350.html">Battleground</a> *const)</td></tr>
+<tr class="separator:a2b46190a3243f2306a74295975dca317"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a164257b5ed4a0808d709870cdf73ed3b"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc2/a10306.html#a164257b5ed4a0808d709870cdf73ed3b">CanSaveToDB</a> (<a class="el" href="../../d9/d2a/a07326.html">ArenaTeam</a> *)</td></tr>
+<tr class="separator:a164257b5ed4a0808d709870cdf73ed3b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae67b000b16f56309da56f672a9f2b423"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc2/a10306.html#ae67b000b16f56309da56f672a9f2b423">OnArenaStart</a> (<a class="el" href="../../db/d42/a07350.html">Battleground</a> *)</td></tr>
+<tr class="separator:ae67b000b16f56309da56f672a9f2b423"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_methods_a10482"><td colspan="2" onclick="javascript:toggleInherit('pub_methods_a10482')"><img src="../../closed.png" alt="-"/>&#160;Public Member Functions inherited from <a class="el" href="../../df/d55/a10482.html">ScriptObject</a></td></tr>
+<tr class="memitem:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10482"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d55/a10482.html#a37da453729d5c8fbe2d06f905563f47c">IsDatabaseBound</a> () const</td></tr>
+<tr class="separator:a37da453729d5c8fbe2d06f905563f47c inherit pub_methods_a10482"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10482"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d55/a10482.html#a2f66339b1cdf1fde795c61cd24c8b0a2">isAfterLoadScript</a> () const</td></tr>
+<tr class="separator:a2f66339b1cdf1fde795c61cd24c8b0a2 inherit pub_methods_a10482"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10482"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d55/a10482.html#a585e75e34aed7aa32205daad85f8fe08">checkValidity</a> ()</td></tr>
+<tr class="separator:a585e75e34aed7aa32205daad85f8fe08 inherit pub_methods_a10482"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79588d839860d2f5caab60c5f1368f10 inherit pub_methods_a10482"><td class="memItemLeft" align="right" valign="top">const std::string &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d55/a10482.html#a79588d839860d2f5caab60c5f1368f10">GetName</a> () const</td></tr>
+<tr class="separator:a79588d839860d2f5caab60c5f1368f10 inherit pub_methods_a10482"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10482"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d55/a10482.html#a69ee35ec7d54226264efef558022c1c0">GetTotalAvailableHooks</a> ()</td></tr>
+<tr class="separator:a69ee35ec7d54226264efef558022c1c0 inherit pub_methods_a10482"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-methods" name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
-<tr class="memitem:afb9ef0145bb5eedee7fd61609868ba20"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc2/a10306.html#afb9ef0145bb5eedee7fd61609868ba20">CommandScript</a> (const char *name)</td></tr>
-<tr class="separator:afb9ef0145bb5eedee7fd61609868ba20"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="inherit_header pro_methods_a10466"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10466')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../d1/d4e/a10466.html">ScriptObject</a></td></tr>
-<tr class="memitem:ae4ca97cf587379c94354e4889ff8c0c2 inherit pro_methods_a10466"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d4e/a10466.html#ae4ca97cf587379c94354e4889ff8c0c2">ScriptObject</a> (const char *name, <a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> totalAvailableHooks=0)</td></tr>
-<tr class="separator:ae4ca97cf587379c94354e4889ff8c0c2 inherit pro_methods_a10466"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10466"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/d4e/a10466.html#a80c704c939f54eee6655d68509598c42">~ScriptObject</a> ()=default</td></tr>
-<tr class="separator:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10466"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acba88d9008e08873f3f20b92d69e8912"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/dc2/a10306.html#acba88d9008e08873f3f20b92d69e8912">ArenaScript</a> (const char *name, std::vector&lt; <a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt; enabledHooks=std::vector&lt; <a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt;())</td></tr>
+<tr class="separator:acba88d9008e08873f3f20b92d69e8912"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pro_methods_a10482"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_a10482')"><img src="../../closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="../../df/d55/a10482.html">ScriptObject</a></td></tr>
+<tr class="memitem:ae4ca97cf587379c94354e4889ff8c0c2 inherit pro_methods_a10482"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d55/a10482.html#ae4ca97cf587379c94354e4889ff8c0c2">ScriptObject</a> (const char *name, <a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> totalAvailableHooks=0)</td></tr>
+<tr class="separator:ae4ca97cf587379c94354e4889ff8c0c2 inherit pro_methods_a10482"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10482"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d55/a10482.html#a80c704c939f54eee6655d68509598c42">~ScriptObject</a> ()=default</td></tr>
+<tr class="separator:a80c704c939f54eee6655d68509598c42 inherit pro_methods_a10482"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="afb9ef0145bb5eedee7fd61609868ba20" name="afb9ef0145bb5eedee7fd61609868ba20"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afb9ef0145bb5eedee7fd61609868ba20">&#9670;&#160;</a></span>CommandScript()</h2>
+<a id="acba88d9008e08873f3f20b92d69e8912" name="acba88d9008e08873f3f20b92d69e8912"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acba88d9008e08873f3f20b92d69e8912">&#9670;&#160;</a></span>ArenaScript()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -208,11 +171,21 @@ Protected Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">CommandScript::CommandScript </td>
+          <td class="memname">ArenaScript::ArenaScript </td>
           <td>(</td>
           <td class="paramtype">const char *&#160;</td>
-          <td class="paramname"><em>name</em></td><td>)</td>
+          <td class="paramname"><em>name</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">std::vector&lt; <a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt;&#160;</td>
+          <td class="paramname"><em>enabledHooks</em> = <code>std::vector&lt;<a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;()</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -221,20 +194,27 @@ Protected Member Functions</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   36</span>    : <a class="code hl_class" href="../../d1/d4e/a10466.html">ScriptObject</a>(name)</div>
-<div class="line"><span class="lineno">   37</span>{</div>
-<div class="line"><span class="lineno">   38</span>    <a class="code hl_function" href="../../df/d0a/a10462.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry&lt;CommandScript&gt;::AddScript</a>(<span class="keyword">this</span>);</div>
-<div class="line"><span class="lineno">   39</span>}</div>
-<div class="ttc" id="aa10462_html_a4a25c0e3b90f6af4563baf0e7a1c0622"><div class="ttname"><a href="../../df/d0a/a10462.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry::AddScript</a></div><div class="ttdeci">static void AddScript(TScript *const script, std::vector&lt; uint16 &gt; enabledHooks={})</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:757</div></div>
-<div class="ttc" id="aa10466_html"><div class="ttname"><a href="../../d1/d4e/a10466.html">ScriptObject</a></div><div class="ttdef"><b>Definition:</b> ScriptObject.h:43</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   48</span>    : <a class="code hl_class" href="../../df/d55/a10482.html">ScriptObject</a>(name, <a class="code hl_enumvalue" href="../../de/d5c/a01358.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58">ARENAHOOK_END</a>)</div>
+<div class="line"><span class="lineno">   49</span>{</div>
+<div class="line"><span class="lineno">   50</span>    <span class="comment">// If empty - enable all available hooks.</span></div>
+<div class="line"><span class="lineno">   51</span>    <span class="keywordflow">if</span> (enabledHooks.empty())</div>
+<div class="line"><span class="lineno">   52</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../de/d5c/a01358.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58">ARENAHOOK_END</a>; ++i)</div>
+<div class="line"><span class="lineno">   53</span>            enabledHooks.emplace_back(i);</div>
+<div class="line"><span class="lineno">   54</span> </div>
+<div class="line"><span class="lineno">   55</span>    <a class="code hl_function" href="../../d0/dd2/a10478.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry&lt;ArenaScript&gt;::AddScript</a>(<span class="keyword">this</span>, std::move(enabledHooks));</div>
+<div class="line"><span class="lineno">   56</span>}</div>
+<div class="ttc" id="aa01358_html_a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58"><div class="ttname"><a href="../../de/d5c/a01358.html#a93515f145fed15b3645f2240f39214baa2958c395c6475e07a7dff62d1014ae58">ARENAHOOK_END</a></div><div class="ttdeci">@ ARENAHOOK_END</div><div class="ttdef"><b>Definition:</b> ArenaScript.h:32</div></div>
+<div class="ttc" id="aa04310_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
+<div class="ttc" id="aa10478_html_a4a25c0e3b90f6af4563baf0e7a1c0622"><div class="ttname"><a href="../../d0/dd2/a10478.html#a4a25c0e3b90f6af4563baf0e7a1c0622">ScriptRegistry::AddScript</a></div><div class="ttdeci">static void AddScript(TScript *const script, std::vector&lt; uint16 &gt; enabledHooks={})</div><div class="ttdef"><b>Definition:</b> ScriptMgr.h:747</div></div>
+<div class="ttc" id="aa10482_html"><div class="ttname"><a href="../../df/d55/a10482.html">ScriptObject</a></div><div class="ttdef"><b>Definition:</b> ScriptObject.h:43</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00757">ScriptRegistry&lt; TScript &gt;::AddScript()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00747">ScriptRegistry&lt; TScript &gt;::AddScript()</a>, and <a class="el" href="../../#l00032">ARENAHOOK_END</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a97dc7d00b78e0030ba2a950d23b2ebd2" name="a97dc7d00b78e0030ba2a950d23b2ebd2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a97dc7d00b78e0030ba2a950d23b2ebd2">&#9670;&#160;</a></span>GetCommands()</h2>
+<a id="aa85728dd471c2f4d58ed1794e741d060" name="aa85728dd471c2f4d58ed1794e741d060"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa85728dd471c2f4d58ed1794e741d060">&#9670;&#160;</a></span>CanAddMember()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -243,7 +223,71 @@ Protected Member Functions</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual std::vector&lt; <a class="el" href="../../d2/d62/a07586.html">Acore::ChatCommands::ChatCommandBuilder</a> &gt; CommandScript::GetCommands </td>
+          <td class="memname">virtual bool ArenaScript::CanAddMember </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d2a/a07326.html">ArenaTeam</a> *&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d62/a08470.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   45</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a164257b5ed4a0808d709870cdf73ed3b" name="a164257b5ed4a0808d709870cdf73ed3b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a164257b5ed4a0808d709870cdf73ed3b">&#9670;&#160;</a></span>CanSaveToDB()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool ArenaScript::CanSaveToDB </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d2a/a07326.html">ArenaTeam</a> *&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   51</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ab6c90bb55c238fada3e9ddc993333d0d" name="ab6c90bb55c238fada3e9ddc993333d0d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab6c90bb55c238fada3e9ddc993333d0d">&#9670;&#160;</a></span>IsDatabaseBound()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool ArenaScript::IsDatabaseBound </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -251,13 +295,111 @@ Protected Member Functions</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p>Implemented in <a class="el" href="../../d3/d0c/a11730.html#a28baac859fcc2ee8bbf00dcdf7b38f4d">account_commandscript</a>, <a class="el" href="../../d5/d44/a11734.html#adeac4e6f74f006daa76b0ebb8ea1469c">achievement_commandscript</a>, <a class="el" href="../../d9/de2/a11738.html#a3a5e95fca957fd1898d6a7acea98931e">arena_commandscript</a>, <a class="el" href="../../d3/d44/a11742.html#a911ccd6445b08c05069f7f196556c891">bg_commandscript</a>, <a class="el" href="../../dd/d9e/a11746.html#a3079102518edbfd0e16576083e053a19">ban_commandscript</a>, <a class="el" href="../../d7/d7c/a11750.html#a97f0192d7ccd3532cfceaebff9f242be">bf_commandscript</a>, <a class="el" href="../../d3/dc1/a11754.html#ae62aed5b701a408460d8fedcd08bb3a4">cache_commandscript</a>, <a class="el" href="../../da/d51/a11758.html#ab0890c036a8d301b382fdd1b6371f671">cast_commandscript</a>, <a class="el" href="../../d1/db5/a11762.html#a54c43684b16e3a8e857817a566bf754a">character_commandscript</a>, <a class="el" href="../../d5/d91/a11770.html#a7cc6ca0c216a4ff497b60dc7622623fd">cheat_commandscript</a>, <a class="el" href="../../da/d9a/a11774.html#af661244d384f7ba7a4c4d4c21be301cc">debug_commandscript</a>, <a class="el" href="../../d6/d2f/a11782.html#ab5b48b9dde89c9215c51560f26324649">deserter_commandscript</a>, <a class="el" href="../../d0/d61/a11786.html#a5c0400ab0321c2d181f6288fd828c56a">disable_commandscript</a>, <a class="el" href="../../d8/d59/a11790.html#aac32a7f3d2d11dc73dfa3e9f8224560e">event_commandscript</a>, <a class="el" href="../../df/df3/a11794.html#a9212aa39f13c646b1b8cf8be78cc8a6a">gear_commandscript</a>, <a class="el" href="../../d4/dfc/a11798.html#a17c725e18324de7aadff260c77d75c45">gm_commandscript</a>, <a class="el" href="../../db/d03/a11802.html#a672e84a91c30f7378adce918608a6a94">go_commandscript</a>, <a class="el" href="../../d6/d25/a11806.html#a75124102670615a7b3a0ecd457ab631a">gobject_commandscript</a>, <a class="el" href="../../d6/d02/a11810.html#a5e7e069c58ecc5baca4ef1118e6c143e">group_commandscript</a>, <a class="el" href="../../df/d11/a11814.html#a6b0a700e7fa3251373c1405d245f6931">guild_commandscript</a>, <a class="el" href="../../db/d60/a11818.html#a29a0068f9dd1e9b3f0adf80bddaadbbc">honor_commandscript</a>, <a class="el" href="../../dc/d1a/a11822.html#a092d62969c835f6bf2a08ca3e05f04d5">instance_commandscript</a>, <a class="el" href="../../d0/d10/a11826.html#ac002b65cbe2e5dafc7614c7afa4a20e6">inventory_commandscript</a>, <a class="el" href="../../da/db3/a11830.html#aab60aa980ef0f86938cfcb51e7ee20a8">item_commandscript</a>, <a class="el" href="../../de/db1/a11834.html#a8c8f73f3c1d5dbddd5a3d2e89ea326d8">learn_commandscript</a>, <a class="el" href="../../d5/d62/a11838.html#a324310f9b04675c277ceae44ea09fbaf">lfg_commandscript</a>, <a class="el" href="../../df/d3e/a11842.html#a949c6e6f372afb50e1116b6414acdd7c">list_commandscript</a>, <a class="el" href="../../db/d3d/a11846.html#afb1833fb396c6f811fa24020f22460d4">lookup_commandscript</a>, <a class="el" href="../../d7/d90/a11850.html#a9fc83cb2d161a4158f98ec0b580bcc32">message_commandscript</a>, <a class="el" href="../../d7/d6b/a11858.html#a621e036c56caa93a63b27b1c317aa39c">misc_commandscript</a>, <a class="el" href="../../d4/d85/a11862.html#aec91072f9e651c9136bf1a405a9bb95a">mmaps_commandscript</a>, <a class="el" href="../../dc/d0e/a11866.html#aa64f4f3e75561ed7212abc3d0f640fb2">modify_commandscript</a>, <a class="el" href="../../df/d88/a11882.html#ad789c3fb6523abddf4d07d38952e04a8">npc_commandscript</a>, <a class="el" href="../../d2/d0a/a11886.html#a01026a4936774d2225d10e0f6e27b08c">pet_commandscript</a>, <a class="el" href="../../dc/d03/a11890.html#a0e1e8eec0fe449c95c5cf9dd06a0fced">player_commandscript</a>, <a class="el" href="../../d1/da3/a11894.html#ae545918310d22b4e66e4a668bbb7ba58">player_settings_commandscript</a>, <a class="el" href="../../df/deb/a11898.html#afaf8c4b169a2bc7457b8ab97d13a367c">quest_commandscript</a>, <a class="el" href="../../dd/d8e/a11902.html#abe09f0ff98d5b327fd6b176afeacef91">reload_commandscript</a>, <a class="el" href="../../da/df4/a11906.html#ac19cfe7c8192194024fb38ad93a64056">reset_commandscript</a>, <a class="el" href="../../d4/da7/a11910.html#a2dc60c8c414c9131b4cda1ff82f7beed">send_commandscript</a>, <a class="el" href="../../d8/d78/a11914.html#a850c21f1ece40c576d3bf622f1c3e18f">server_commandscript</a>, <a class="el" href="../../d8/df2/a11918.html#a3451bcda07b51a33fd8368cf00ac190f">spectator_commandscript</a>, <a class="el" href="../../d8/de7/a11922.html#a296b26e39d5d575ebe68728ff1b49f68">tele_commandscript</a>, <a class="el" href="../../d7/d40/a11926.html#a8db36489c60473f6f3fed73011c5f7ab">ticket_commandscript</a>, <a class="el" href="../../d9/de9/a11930.html#af7d00111b3190f8bc9c46cedda3621d6">titles_commandscript</a>, <a class="el" href="../../d7/d50/a11934.html#a9c2b9e6f00727da760ca2be2c0c1aff7">worldstate_commandscript</a>, and <a class="el" href="../../da/d2b/a11938.html#a55ecc8d67d7c240df1b177f755fc5850">wp_commandscript</a>.</p>
+<p>Reimplemented from <a class="el" href="../../df/d55/a10482.html#a37da453729d5c8fbe2d06f905563f47c">ScriptObject</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   43</span>{ <span class="keywordflow">return</span> <span class="keyword">false</span>; }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ae67b000b16f56309da56f672a9f2b423" name="ae67b000b16f56309da56f672a9f2b423"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae67b000b16f56309da56f672a9f2b423">&#9670;&#160;</a></span>OnArenaStart()</h2>
 
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void ArenaScript::OnArenaStart </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d42/a07350.html">Battleground</a> *&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   53</span>{ };</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a2b46190a3243f2306a74295975dca317" name="a2b46190a3243f2306a74295975dca317"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2b46190a3243f2306a74295975dca317">&#9670;&#160;</a></span>OnBeforeArenaCheckWinConditions()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool ArenaScript::OnBeforeArenaCheckWinConditions </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d42/a07350.html">Battleground</a> * const&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   49</span>{ <span class="keywordflow">return</span> <span class="keyword">true</span>; }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="a13b22ad00d3742589532e6e522258834" name="a13b22ad00d3742589532e6e522258834"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a13b22ad00d3742589532e6e522258834">&#9670;&#160;</a></span>OnGetPoints()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void ArenaScript::OnGetPoints </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d2a/a07326.html">ArenaTeam</a> *&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float &amp;&#160;</td>
+          <td class="paramname">&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   47</span>{ }</div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -265,8 +407,8 @@ Protected Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d5/dc2/a10306.html">CommandScript</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:45:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d5/dc2/a10306.html">ArenaScript</a></li>
+    <li class="footer">Generated on Mon Dec 1 2025 20:47:04 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

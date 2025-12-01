@@ -1,5 +1,5 @@
 var a12786 =
 [
-    [ "go_blackened_urn", "d5/d79/a12786.html#aaa311353e693a0dd7fd9a6f8e617e0ab", null ],
-    [ "OnGossipHello", "d5/d79/a12786.html#ab091bd54734acc65532303a391441ee2", null ]
+    [ "npc_chess_move_trigger", "d5/d79/a12786.html#a6c0c37677db45ee11ebe158893d99632", null ],
+    [ "DamageTaken", "d5/d79/a12786.html#af413c7af2254c1cc06462b2a62ac88db", null ]
 ];

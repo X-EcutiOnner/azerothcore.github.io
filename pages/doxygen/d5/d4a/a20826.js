@@ -1,7 +1,9 @@
 var a20826 =
 [
-    [ "boss_thorim_trapAI", "d5/d4a/a20826.html#aaab278dc6557a49624099b0064b8d6f3", null ],
-    [ "Reset", "d5/d4a/a20826.html#ab0715e75a475409ffb6c623bf363a65d", null ],
-    [ "UpdateAI", "d5/d4a/a20826.html#a40078609a67aa029f71df7971449b056", null ],
-    [ "_checkTimer", "d5/d4a/a20826.html#ad3ed8edb4d06e5b98a5afc82170f3233", null ]
+    [ "boss_thorim_gauntlet_npcsAI", "d5/d4a/a20826.html#aaa7e94f653a1db001cd0c962fb855098", null ],
+    [ "JustEngagedWith", "d5/d4a/a20826.html#afaf0a05b1fd2fc2187b52328340b65bb", null ],
+    [ "Reset", "d5/d4a/a20826.html#a9e4c25742785809d788f2e910f7840bc", null ],
+    [ "UpdateAI", "d5/d4a/a20826.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29", null ],
+    [ "_isCaster", "d5/d4a/a20826.html#a104f447cc52c285d59653a8ebff20fef", null ],
+    [ "events", "d5/d4a/a20826.html#a650508e05b6fa1af538a0b34e04c8bf5", null ]
 ];

@@ -1,8 +1,6 @@
 var a25634 =
 [
-    [ "HandlePeriodic", "dd/dfb/a25634.html#acba5d68c19e68361c088e50f9b831bff", null ],
-    [ "HandleUpdatePeriodic", "dd/dfb/a25634.html#af27c6dfccb12f1ba52d170da5d9228f9", null ],
-    [ "PrepareAuraScript", "dd/dfb/a25634.html#a8fa9d7c1f8e95c2e50bd2178f4f58c04", null ],
-    [ "Register", "dd/dfb/a25634.html#a2be03ae04a562b2c908fcdb0c052ca5f", null ],
-    [ "Validate", "dd/dfb/a25634.html#ab467c3b759ac1e276d6a4815d20f5ff0", null ]
+    [ "OnRemove", "dd/dfb/a25634.html#ac3a6d7bdc95605e3c73f8115b4a68da0", null ],
+    [ "PrepareAuraScript", "dd/dfb/a25634.html#ab1e3a55a35dbbb4bd781ac8c51608e6a", null ],
+    [ "Register", "dd/dfb/a25634.html#aecd068248e174c4b676ff9f43dd0856f", null ]
 ];

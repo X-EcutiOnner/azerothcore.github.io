@@ -1,10 +1,5 @@
 var a07782 =
 [
-    [ "Achievement", "df/db3/a07782.html#a03caf33cfc9f75dfdbba2dedc747e0ce", null ],
-    [ "CharacterId", "df/db3/a07782.html#a0ec541a4e11d9e19f7cced7e839b1ebb", null ],
-    [ "Criteria", "df/db3/a07782.html#a4eae1ba9b211d8c8307000ddae428348", null ],
-    [ "Day", "df/db3/a07782.html#a216aaf4eed90eeb05662631e8f89b4ab", null ],
-    [ "IsFinished", "df/db3/a07782.html#a1aff3d0a28a12f0e4ee10bca376f335c", null ],
-    [ "Month", "df/db3/a07782.html#a9be9cfb6a40c527e8f6b6ad381ed5b42", null ],
-    [ "Year", "df/db3/a07782.html#a85612eac22d3233e620eb11e6e1b48b0", null ]
+    [ "IsColorValid", "df/db3/a07782.html#a816b3afba97af88a04cd5a724e9b663c", null ],
+    [ "IsTextValid", "df/db3/a07782.html#a54af0b68fa7891adbc3001c74e251ea1", null ]
 ];

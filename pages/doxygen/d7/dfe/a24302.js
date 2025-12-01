@@ -1,5 +1,7 @@
 var a24302 =
 [
-    [ "go_warmaul_prison", "d7/dfe/a24302.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
-    [ "OnGossipHello", "d7/dfe/a24302.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
+    [ "HandleScriptEffect", "d7/dfe/a24302.html#ad018d907a85ee31d3194823a4c02a1a5", null ],
+    [ "PrepareSpellScript", "d7/dfe/a24302.html#a50b6bc43eaeee0ec760c02ac1685454e", null ],
+    [ "Register", "d7/dfe/a24302.html#a2096673a3f57cc224aeb7d3ce84526cb", null ],
+    [ "Validate", "d7/dfe/a24302.html#a5209de3456c374010502a94f67ff4544", null ]
 ];

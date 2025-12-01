@@ -1,11 +1,8 @@
 var a05046 =
 [
-    [ "material", "d8/d5f/a05046.html#a29addcb613bc63a100633e612d1dc2d2", null ],
-    [ "pos_x", "d8/d5f/a05046.html#a02e9d8789336d77e34bffa19adbab394", null ],
-    [ "pos_y", "d8/d5f/a05046.html#ac3162ce321a1f21e4e6fe35041e49a6a", null ],
-    [ "pos_z", "d8/d5f/a05046.html#a6e2a2d5d9151d5c6d70fd0d47e6c18e3", null ],
-    [ "xtiles", "d8/d5f/a05046.html#a94789843c68d705184e6332ac46bd69d", null ],
-    [ "xverts", "d8/d5f/a05046.html#a0548c3fdb216c115a7d3843e4fbc6de3", null ],
-    [ "ytiles", "d8/d5f/a05046.html#ac50224cdce231460c78c3e0f077b555d", null ],
-    [ "yverts", "d8/d5f/a05046.html#aa9ecb62b53af527b3bd855b8e93ba604", null ]
+    [ "LocationInfo", "d8/d5f/a05046.html#ae2e70dc65cd3b0379600a67dce7de6ba", null ],
+    [ "ground_Z", "d8/d5f/a05046.html#a0ffbfcfc677809dda6250855d9594ca5", null ],
+    [ "hitInstance", "d8/d5f/a05046.html#a5e3fc81a2b7353808dc0c95eebe570be", null ],
+    [ "hitModel", "d8/d5f/a05046.html#a2a7e0be8d8e43b055dd1d43cd5331738", null ],
+    [ "rootId", "d8/d5f/a05046.html#aae82d7d8518db5e131d6a327927c75a2", null ]
 ];

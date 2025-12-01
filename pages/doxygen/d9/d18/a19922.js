@@ -1,8 +1,5 @@
 var a19922 =
 [
-    [ "HandlePeriodic", "d9/d18/a19922.html#a2724a85983561a14db8b06ae492ead55", null ],
-    [ "OnRemove", "d9/d18/a19922.html#a6d0f941f30d8c850e48396fffd13768d", null ],
-    [ "PrepareAuraScript", "d9/d18/a19922.html#aea9d38dc7fdff6d38d252bb5ded57d78", null ],
-    [ "Register", "d9/d18/a19922.html#a85270947972be9c299a642b31969ef68", null ],
-    [ "Validate", "d9/d18/a19922.html#a91ebb4e69d02deb5129965f543c474d1", null ]
+    [ "achievement_algalon_herald_of_the_titans", "d9/d18/a19922.html#a13c75b878f4669d212eeb09b55336384", null ],
+    [ "OnCheck", "d9/d18/a19922.html#a20811d7bb453b1758967c11545e630e9", null ]
 ];

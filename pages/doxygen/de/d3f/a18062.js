@@ -1,7 +1,7 @@
 var a18062 =
 [
-    [ "HandleScript", "de/d3f/a18062.html#afc76149cb44a4d2aab48350fb4392036", null ],
-    [ "PrepareSpellScript", "de/d3f/a18062.html#a8598de219c2402596fe97b5dd32c534e", null ],
-    [ "Register", "de/d3f/a18062.html#ac9d4842632431e52932f66d09042ea70", null ],
-    [ "ScaleRange", "de/d3f/a18062.html#a9bcc80bd2a8df20ac7fc8f2256f519d9", null ]
+    [ "HandleTriggerSpell", "de/d3f/a18062.html#a7d7f1731c453e5d0b70e6093aeedea87", null ],
+    [ "PrepareAuraScript", "de/d3f/a18062.html#afff0c81696ddcb427ce105d510ef93b1", null ],
+    [ "Register", "de/d3f/a18062.html#aa50c6066115d7b60704eff48e77d10bd", null ],
+    [ "Validate", "de/d3f/a18062.html#a6ef56d3d18bab2f81c810160ecf3ae96", null ]
 ];

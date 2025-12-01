@@ -1,9 +1,7 @@
 var a12434 =
 [
-    [ "npc_drakonid_spawner", "d0/d73/a12434.html#a2b657e800dc5cc30c618391413ded116", null ],
-    [ "DoAction", "d0/d73/a12434.html#ab013cff0430c09fe1045fdc735e45182", null ],
-    [ "IsSummonedBy", "d0/d73/a12434.html#a6a2170e0f20736d69006ce6d6c769476", null ],
-    [ "SummonedCreatureDies", "d0/d73/a12434.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
-    [ "UpdateAI", "d0/d73/a12434.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
-    [ "_owner", "d0/d73/a12434.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
+    [ "HandleScript", "d0/d73/a12434.html#ac6ef94a03f602b44a5c7c22b7e41d116", null ],
+    [ "PrepareSpellScript", "d0/d73/a12434.html#ad92a56c23b9f15e36766fe64d1d0dd17", null ],
+    [ "Register", "d0/d73/a12434.html#aa8ad85cbf0403d79e55bbe0ae184407b", null ],
+    [ "Validate", "d0/d73/a12434.html#a3ad038e7bf43dceedb0fceebd4070bfa", null ]
 ];

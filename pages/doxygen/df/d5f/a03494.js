@@ -1,8 +1,8 @@
 var a03494 =
 [
-    [ "boss_kormok", "d8/d39/a13276.html", "d8/d39/a13276" ],
-    [ "spell_kormok_summon_bone_mages", "d5/d73/a13280.html", "d5/d73/a13280" ],
-    [ "spell_kormok_summon_bone_minions", "da/d7b/a13284.html", "da/d7b/a13284" ],
+    [ "boss_kormok", "d1/d6e/a13282.html", "d1/d6e/a13282" ],
+    [ "spell_kormok_summon_bone_mages", "d5/ddb/a13286.html", "d5/ddb/a13286" ],
+    [ "spell_kormok_summon_bone_minions", "dd/d6c/a13290.html", "dd/d6c/a13290" ],
     [ "Events", "df/d5f/a03494.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

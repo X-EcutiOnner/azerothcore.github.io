@@ -1,6 +1,9 @@
 var a24182 =
 [
-    [ "npc_nether_drakeAI", "d1/dea/a24186.html", "d1/dea/a24186" ],
-    [ "npc_nether_drake", "d6/d4b/a24182.html#a253ec3c91857b899ea9e2c824870b760", null ],
-    [ "GetAI", "d6/d4b/a24182.html#a58d269e2c73cae07bb507162b742fe8f", null ]
+    [ "npc_aeranasAI", "d6/d4b/a24182.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "Reset", "d6/d4b/a24182.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "d6/d4b/a24182.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "envelopingWinds_Timer", "d6/d4b/a24182.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "d6/d4b/a24182.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "d6/d4b/a24182.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

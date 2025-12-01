@@ -1,7 +1,5 @@
 var a08154 =
 [
-    [ "entry", "d4/dd5/a08154.html#aabf7002fbd171e7f1832be5f066dbe44", null ],
-    [ "pos", "d4/dd5/a08154.html#aad6aa76796625075e4fcfb7d1a3eb88c", null ],
-    [ "time", "d4/dd5/a08154.html#a8a38eed04cdb2efb89e98f869e0d800d", null ],
-    [ "type", "d4/dd5/a08154.html#a40927a435b557e4c1e5c5eedbb5d5e5b", null ]
+    [ "GossipActionMenuId", "d4/dd5/a08154.html#a377beba97be2b81a0c2bbeb933f1927b", null ],
+    [ "GossipActionPoi", "d4/dd5/a08154.html#afdaf27e370e3c84659fdc3784cafad29", null ]
 ];

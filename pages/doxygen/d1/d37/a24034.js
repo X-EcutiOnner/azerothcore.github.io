@@ -1,5 +1,6 @@
 var a24034 =
 [
-    [ "npc_lord_sanguinar", "d1/d37/a24034.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
-    [ "ScheduleEvents", "d1/d37/a24034.html#af9231da98547875527a519c5884cbec0", null ]
+    [ "FilterTargets", "d1/d37/a24034.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
+    [ "PrepareSpellScript", "d1/d37/a24034.html#afa186c0b0728e3462f8984189613f9a7", null ],
+    [ "Register", "d1/d37/a24034.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
 ];

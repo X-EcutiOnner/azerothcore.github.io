@@ -1,5 +1,6 @@
 var a10322 =
 [
-    [ "FactoryCreatureScript", "d9/d3c/a10322.html#a62cd4db9e8dd3dab606f1166fdf0ce44", null ],
-    [ "GetAI", "d9/d3c/a10322.html#a0e491e4cda2b03456d798f6726dbde54", null ]
+    [ "BattlegroundScript", "d9/d3c/a10322.html#a306231f1c7346a00a3f877c7cef3897b", null ],
+    [ "GetBattleground", "d9/d3c/a10322.html#a782c6e81f4ed9a63f9276dcc4f0f9116", null ],
+    [ "IsDatabaseBound", "d9/d3c/a10322.html#a35b571d570c85a861af6f949b51453cb", null ]
 ];

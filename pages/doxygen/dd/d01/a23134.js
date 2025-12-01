@@ -1,12 +1,6 @@
 var a23134 =
 [
-    [ "boss_essence_of_angerAI", "dd/d01/a23134.html#a25eed717395b4e1ca5504d2d473e2500", null ],
-    [ "DoAction", "dd/d01/a23134.html#a81576aaf465dfc99d199aaf6a182df52", null ],
-    [ "JustDied", "dd/d01/a23134.html#a997d75ad388e790f9863e1b15fa1c899", null ],
-    [ "JustEngagedWith", "dd/d01/a23134.html#a16d2b13fcf3dfa513813669b44712c4c", null ],
-    [ "KilledUnit", "dd/d01/a23134.html#a6a900f9a9dc5509c36e5bdaaaacc197d", null ],
-    [ "Reset", "dd/d01/a23134.html#ade57a575bd84e8e095b1ab5a5c81d3f6", null ],
-    [ "UpdateAI", "dd/d01/a23134.html#a67e9f5a361894aa227f2a74f9222740d", null ],
-    [ "_recentlySpoken", "dd/d01/a23134.html#a056aa8fd704d832e83735cf2a1a22888", null ],
-    [ "targetGUID", "dd/d01/a23134.html#adc3867a4446375f1217809299f3dd9bb", null ]
+    [ "PrepareSpellScript", "dd/d01/a23134.html#ad786920d6180b8e2829f3a56ec50c488", null ],
+    [ "Register", "dd/d01/a23134.html#a857be9f0017e0013f3e30e1d026eaf5a", null ],
+    [ "SetDest", "dd/d01/a23134.html#a0ea9f9513ad607f639b28d5f8162e629", null ]
 ];

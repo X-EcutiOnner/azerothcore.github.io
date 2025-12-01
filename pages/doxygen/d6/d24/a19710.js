@@ -1,11 +1,10 @@
 var a19710 =
 [
-    [ "npc_spark_of_ionarAI", "d6/d24/a19710.html#a738ceaa68f13c084fedee2add6fba99e", null ],
-    [ "AttackStart", "d6/d24/a19710.html#a7616d68c090aece19389b4c4842e30a3", null ],
-    [ "DamageTaken", "d6/d24/a19710.html#a42466b7c6af30727b8872bd2ddfddb6f", null ],
-    [ "DoAction", "d6/d24/a19710.html#a995efdb87fdd72eccfdce11d2af0201b", null ],
-    [ "MoveInLineOfSight", "d6/d24/a19710.html#ac87193fba7975147731ca3c92946c308", null ],
-    [ "Reset", "d6/d24/a19710.html#a4b4511ac7258c1182e428bddb2db6519", null ],
-    [ "UpdateAI", "d6/d24/a19710.html#ae4e881e4e66e49c124c0cf540e1d59b7", null ],
-    [ "returning", "d6/d24/a19710.html#a5f6ef34741a6d726c3fecd66d768bd67", null ]
+    [ "npc_molten_golem", "d6/d24/a19710.html#a38350948396b7df97837780531f79515", null ],
+    [ "DamageTaken", "d6/d24/a19710.html#aa3521246b0c2bed18b5466879ec1d107", null ],
+    [ "DoAction", "d6/d24/a19710.html#a1936beed47707f2f0e560d7d3b3440ba", null ],
+    [ "Reset", "d6/d24/a19710.html#a24e23d0959bcda5be05786381a35ac77", null ],
+    [ "UpdateAI", "d6/d24/a19710.html#ac62f71bc6b3fa8ab6c1a5fc73915d64e", null ],
+    [ "events", "d6/d24/a19710.html#a2a552e27aca0e188a4d5ae46f639cbef", null ],
+    [ "m_pInstance", "d6/d24/a19710.html#af46ccffa6a7fcf3cbee893eba6435159", null ]
 ];

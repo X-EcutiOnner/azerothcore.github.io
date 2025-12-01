@@ -1,11 +1,11 @@
 var a03773 =
 [
-    [ "MajordomoAddData", "db/d10/a12636.html", "db/d10/a12636" ],
-    [ "boss_majordomo", "dc/d48/a12640.html", "dc/d48/a12640" ],
-    [ "boss_majordomo::boss_majordomoAI", "d8/d73/a12644.html", "d8/d73/a12644" ],
-    [ "spell_hate_to_zero", "d0/d41/a12648.html", "d0/d41/a12648" ],
-    [ "spell_majordomo_separation_anxiety_aura", "d9/df0/a12652.html", "d9/df0/a12652" ],
-    [ "spell_summon_ragnaros", "d1/d9f/a12656.html", "d1/d9f/a12656" ],
+    [ "MajordomoAddData", "d7/de8/a12642.html", "d7/de8/a12642" ],
+    [ "boss_majordomo", "da/d44/a12646.html", "da/d44/a12646" ],
+    [ "boss_majordomo::boss_majordomoAI", "d7/ded/a12650.html", "d7/ded/a12650" ],
+    [ "spell_hate_to_zero", "de/dd5/a12654.html", "de/dd5/a12654" ],
+    [ "spell_majordomo_separation_anxiety_aura", "dd/d89/a12658.html", "dd/d89/a12658" ],
+    [ "spell_summon_ragnaros", "d0/d1e/a12662.html", "d0/d1e/a12662" ],
     [ "Events", "dc/df3/a03773.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -1488,7 +1488,8 @@ var a03773 =
       [ "EVENT_ECK_BITE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a25fd4fd9c83fea5e757a20aeb8f03aee", null ],
       [ "EVENT_ECK_SPIT", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6add7ba9bf01f5f04dac1d93a997b57af2", null ],
       [ "EVENT_ECK_SPRING", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6c3f22fd6aa63e5bf101019792a4b483", null ],
-      [ "EVENT_ECK_HEALTH", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f0a1bde1d1f47b6f7e45f621a57b6c1", null ],
+      [ "EVENT_ECK_CRAZED_EMOTE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6eeac32439bad23ef93cf41b4526d55d", null ],
+      [ "EMOTE_CRAZED", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2628cfc3f39065948404f522308c931f", null ],
       [ "NPC_SLADRAN_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08dc37f063f5d70a3893765939f63a82", null ],
       [ "NPC_SLADRAN_CONSTRICTORS", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a52bf6fd6ef6437b9a4e88616b7f1d91b", null ],
       [ "MAX_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1e3f12d08f9d4880b8263386a54d21c8", null ],

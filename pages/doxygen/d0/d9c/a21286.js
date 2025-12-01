@@ -1,12 +1,18 @@
 var a21286 =
 [
-    [ "boss_skarvald_the_constructor", "d0/d9c/a21286.html#a32d092ecf17aaafc61cefb4c0efce639", null ],
-    [ "DoAction", "d0/d9c/a21286.html#a63c9e981a198f6fefe8d1fa4d8ede20e", null ],
-    [ "JustDied", "d0/d9c/a21286.html#a9180dcb3c22944c75e5e424dc1a78339", null ],
-    [ "JustEngagedWith", "d0/d9c/a21286.html#a529439d257abf78f76db0043549964e6", null ],
-    [ "KilledUnit", "d0/d9c/a21286.html#a9d65e24161dd1f7bac9fe991624c5c80", null ],
-    [ "Reset", "d0/d9c/a21286.html#ada2068f8b5d125062ec0b7fde0d05c7f", null ],
-    [ "UpdateAI", "d0/d9c/a21286.html#a9c1f74c20a5a9f47f9430450742938a2", null ],
-    [ "events", "d0/d9c/a21286.html#a28837280e161f6971564a4725c97a154", null ],
-    [ "pInstance", "d0/d9c/a21286.html#ab5b773a9960f611a6383578a607ba258", null ]
+    [ "boss_palehoofAI", "d0/d9c/a21286.html#aa49a4e6e2f942ab0efeb83d0fe672f9f", null ],
+    [ "DoAction", "d0/d9c/a21286.html#ae94606f2b382e07cd3f4b9be48b1ca2d", null ],
+    [ "JustDied", "d0/d9c/a21286.html#a1484b82afc3072d1b1fc5e2c9b0204b0", null ],
+    [ "JustEngagedWith", "d0/d9c/a21286.html#abd00a0b514c11d8fa3786e1e61333138", null ],
+    [ "JustReachedHome", "d0/d9c/a21286.html#aae6517c4816eb9bbc5dfe245d69edd87", null ],
+    [ "KilledUnit", "d0/d9c/a21286.html#abf68aba465731a0ea7de305861ad4875", null ],
+    [ "MoveInLineOfSight", "d0/d9c/a21286.html#ae969093bfb3466e332c1de7e65ceeb5d", null ],
+    [ "Reset", "d0/d9c/a21286.html#a61d1cedcc30fbccbebbdc768d6a18900", null ],
+    [ "UpdateAI", "d0/d9c/a21286.html#ac7da92990a0d48e418115943ba7bdd51", null ],
+    [ "Counter", "d0/d9c/a21286.html#a5b8c197cd3c482d5a4d5a14f9c5019e7", null ],
+    [ "events", "d0/d9c/a21286.html#a18325a2a5cca9910bf7e35a21c16400b", null ],
+    [ "m_pInstance", "d0/d9c/a21286.html#abffb9efc207c98a30e1bfcf7b87fdb6d", null ],
+    [ "OrbGUID", "d0/d9c/a21286.html#ab75e8eea72bde1bd15fe40e347373ab4", null ],
+    [ "RandomUnfreeze", "d0/d9c/a21286.html#a02d34d4cd26706e1108c99cc0b4afbba", null ],
+    [ "summons", "d0/d9c/a21286.html#a098d738ccbc2764867643bf4336c04da", null ]
 ];

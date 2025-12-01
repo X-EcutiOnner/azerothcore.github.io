@@ -1,6 +1,7 @@
 var a16442 =
 [
-    [ "FilterTargets", "d1/dfc/a16442.html#a79d34d7e517b27e44c6a91d6056dfec7", null ],
-    [ "PrepareSpellScript", "d1/dfc/a16442.html#a5ede43deece629a38f5482280983b59a", null ],
-    [ "Register", "d1/dfc/a16442.html#aec3d0ed996e9cbfed9fb78c5f16e254f", null ]
+    [ "HandleAfterEffectAbsorb", "d1/dfc/a16442.html#ab3d9f3679931b4b3b29713602d08701d", null ],
+    [ "PrepareAuraScript", "d1/dfc/a16442.html#a10ee3cda9edfec8140b94e13b88266bd", null ],
+    [ "Register", "d1/dfc/a16442.html#ab68a5ccfb0d96390bb83c329eb849cdd", null ],
+    [ "Validate", "d1/dfc/a16442.html#a87750183d2b2d6adb67bba4a1f767029", null ]
 ];

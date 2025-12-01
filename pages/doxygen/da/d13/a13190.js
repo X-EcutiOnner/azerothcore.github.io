@@ -1,8 +1,6 @@
 var a13190 =
 [
-    [ "CheckCast", "da/d13/a13190.html#add6229e3f0241ccedf446a5a37cf72ce", null ],
-    [ "HandleScriptEffect", "da/d13/a13190.html#a36bb2b95651889eaa0321a7a327e173f", null ],
-    [ "PrepareSpellScript", "da/d13/a13190.html#a053451bd9ae6f7d639d0a977be843bc0", null ],
-    [ "Register", "da/d13/a13190.html#a6d16f25c93eef3c17ae6b4a43d884279", null ],
-    [ "Validate", "da/d13/a13190.html#ab0ed12fadaea4c96c7f6e43b7b385653", null ]
+    [ "npc_acherus_necromancerAI", "d7/d81/a13194.html", "d7/d81/a13194" ],
+    [ "npc_acherus_necromancer", "da/d13/a13190.html#a14ca04a1656a6bb0c842ecb709aba1a7", null ],
+    [ "GetAI", "da/d13/a13190.html#af43b1908b1d99868ea5a3899fe8ebd02", null ]
 ];

@@ -1,6 +1,6 @@
 var a25814 =
 [
-    [ "HandleProc", "dd/d94/a25814.html#a9a38fab6b581e9f9b4e092d7a4ecaebd", null ],
-    [ "PrepareAuraScript", "dd/d94/a25814.html#a5299aaeacead013e00e81ec7960528f8", null ],
-    [ "Register", "dd/d94/a25814.html#a3b46c5dd891d856e08cbcb9a494f2dd2", null ]
+    [ "HandleSummon", "dd/d94/a25814.html#aadfea4a2238754473a8abbc487fd7f7b", null ],
+    [ "PrepareSpellScript", "dd/d94/a25814.html#a4974a3687df394d51db322210ebb5ddb", null ],
+    [ "Register", "dd/d94/a25814.html#a89146ab41d1408c18ce2bff403ae8e4e", null ]
 ];

@@ -1,8 +1,7 @@
 var a08866 =
 [
-    [ "Entry", "d1/de9/a08866.html#ac9fa29db15e06513805124a56cd073e8", null ],
-    [ "ExtendedCost", "d1/de9/a08866.html#ac826dc078ef456ed93bf23175bce243d", null ],
-    [ "Incrtime", "d1/de9/a08866.html#a95ce707d0a2b00e65c2cd4c5ddda1ea5", null ],
-    [ "Item", "d1/de9/a08866.html#aa500da847d94a9b70cb3a26b782059b3", null ],
-    [ "MaxCount", "d1/de9/a08866.html#a04534ff42e5889995b5203a3257bc864", null ]
+    [ "Done", "d1/de9/a08866.html#abc88850d392fb4b62e778d09445de0be", null ],
+    [ "DoneWorldState", "d1/de9/a08866.html#a380755d90c958b6532bae7f8a4d70b44", null ],
+    [ "MaxWorldState", "d1/de9/a08866.html#a8c144531f876b6def613c0011e0efe47", null ],
+    [ "ReqNum", "d1/de9/a08866.html#ae1d182aef449388993e4965de447d971", null ]
 ];

@@ -1,8 +1,6 @@
 var a12066 =
 [
-    [ "boss_evisceratorAI", "dd/d80/a12066.html#a26bfcd3390e987a9fe13dd1a2bc2a7a4", null ],
-    [ "DamageTaken", "dd/d80/a12066.html#aab3e8290963ca6c312715f18727d3e82", null ],
-    [ "JustEngagedWith", "dd/d80/a12066.html#a60f3942b352206888569f60776041a28", null ],
-    [ "UpdateAI", "dd/d80/a12066.html#aa201d35455f2e6eb41df27e264c2c03c", null ],
-    [ "SpellShieldReady", "dd/d80/a12066.html#a3e5d8a40bfca16cc811f35b1293c19aa", null ]
+    [ "npc_lokhtos_darkbargainer", "dd/d80/a12066.html#af91685ecf0f63313968b3d82373668d2", null ],
+    [ "OnGossipHello", "dd/d80/a12066.html#a39547487ef7db8a3942556665099893f", null ],
+    [ "OnGossipSelect", "dd/d80/a12066.html#a5a4640678a5669c75b1fa5d787999c02", null ]
 ];

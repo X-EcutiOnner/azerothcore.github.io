@@ -1,21 +1,10 @@
 var a08478 =
 [
-    [ "ObjectVisibilityContainer", "df/d29/a08478.html#a341d254635abb0e62e3050b0dbc8ef36", null ],
-    [ "~ObjectVisibilityContainer", "df/d29/a08478.html#a4f62fa8a0d950932342764c0eeb1a455", null ],
-    [ "CleanVisibilityReferences", "df/d29/a08478.html#a567fc2f9f863466244482b94d31822cb", null ],
-    [ "DirectInsertVisiblePlayerReference", "df/d29/a08478.html#ab719a4d7551d0166419d6ea2f036e610", null ],
-    [ "DirectRemoveVisibilityReference", "df/d29/a08478.html#ac37e5bbcb2bcfe399bf59e782ef1e7b9", null ],
-    [ "DirectRemoveVisiblePlayerReference", "df/d29/a08478.html#a7d497bf0dcc4c9342fabd4cbb6e93d25", null ],
-    [ "GetVisiblePlayersMap", "df/d29/a08478.html#abf9656ab1132b64e991bcf267fc10c7f", null ],
-    [ "GetVisiblePlayersMap", "df/d29/a08478.html#a0f80121f5c696f8abf265255868e7d56", null ],
-    [ "GetVisibleWorldObjectsMap", "df/d29/a08478.html#a3697b9b06489bee6a9d63313569d6d3e", null ],
-    [ "GetVisibleWorldObjectsMap", "df/d29/a08478.html#a68d24d68b4bc7e9d46c52b5748418268", null ],
-    [ "InitForPlayer", "df/d29/a08478.html#a0834e38c975073e75272732be055b4fa", null ],
-    [ "LinkWorldObjectVisibility", "df/d29/a08478.html#ab744b89b7d10ab3fe55acb5f35a2c9c3", null ],
-    [ "UnlinkVisibilityFromPlayer", "df/d29/a08478.html#acb9c8d0ebfd5454ee7b697c0b1da7ad7", null ],
-    [ "UnlinkVisibilityFromWorldObject", "df/d29/a08478.html#ab6901d45f3920457bf6fbe6a89987375", null ],
-    [ "UnlinkWorldObjectVisibility", "df/d29/a08478.html#a0c23e636a75c75c0b8976282b186a7f5", null ],
-    [ "_selfObject", "df/d29/a08478.html#a511c809d171be7e4e3a24f77838af445", null ],
-    [ "_visiblePlayersMap", "df/d29/a08478.html#ac2a417b5314139baf38ba1d7754bb5bb", null ],
-    [ "_visibleWorldObjectsMap", "df/d29/a08478.html#aa12e3794e004f994f02263251d611708", null ]
+    [ "ObjectGuidGeneratorBase", "df/d29/a08478.html#a8af6741cc884915ee86b489fc970fed1", null ],
+    [ "~ObjectGuidGeneratorBase", "df/d29/a08478.html#aaa4430614e899fb1186f52875cf8d2ea", null ],
+    [ "Generate", "df/d29/a08478.html#a7a6d9e5a78eef31007a46c10805c3fbe", null ],
+    [ "GetNextAfterMaxUsed", "df/d29/a08478.html#abf1f20b97af8071459bd850e7106a442", null ],
+    [ "HandleCounterOverflow", "df/d29/a08478.html#ada7a44ac47b112491c575c38465740fc", null ],
+    [ "Set", "df/d29/a08478.html#a18b016edddec211c9cc4b0ff8682cb30", null ],
+    [ "_nextGuid", "df/d29/a08478.html#a4a14102e019aa10f41b050054cacca22", null ]
 ];

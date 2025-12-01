@@ -1,7 +1,9 @@
 var a12090 =
 [
-    [ "boss_grizzleAI", "d8/d75/a12090.html#a3310892cafc2a8e022105f77258b25af", null ],
-    [ "JustEngagedWith", "d8/d75/a12090.html#a598e7e7d6bdd847bf01968116988a935", null ],
-    [ "UpdateAI", "d8/d75/a12090.html#a2dc5c27cd4eaf2aa1484a370a68e3314", null ],
-    [ "nextTremorTime", "d8/d75/a12090.html#aa392b5a5db08d8676614923ae4838d05", null ]
+    [ "npc_burning_spiritAI", "d8/d75/a12090.html#a52f63423d09794446b0c01da2feb325d", null ],
+    [ "EnterEvadeMode", "d8/d75/a12090.html#a567a7a023bb83a1228bb458ea16ee2fc", null ],
+    [ "IsSummonedBy", "d8/d75/a12090.html#a65ee7b6dd6d4394cc04a6260fc75827e", null ],
+    [ "MovementInform", "d8/d75/a12090.html#a0a02ece5a3ff1eefa30fd27a9cc84d10", null ],
+    [ "_events", "d8/d75/a12090.html#a9af0f46710741bba3d8401d1a1fb0556", null ],
+    [ "_flamelasherGUID", "d8/d75/a12090.html#abfc34e3e45d1e74b328a91f6f8981191", null ]
 ];

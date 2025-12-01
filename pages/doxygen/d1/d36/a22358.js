@@ -1,6 +1,6 @@
 var a22358 =
 [
-    [ "npc_frostbrood_skytalonAI", "dd/dac/a22362.html", "dd/dac/a22362" ],
-    [ "npc_frostbrood_skytalon", "d1/d36/a22358.html#a1bc95edf0e624709e3836bdcfb0c503c", null ],
-    [ "GetAI", "d1/d36/a22358.html#af5b1c3e52076fb84b83e785762ff6b6d", null ]
+    [ "npc_bushwhackerAI", "dd/dac/a22362.html", "dd/dac/a22362" ],
+    [ "npc_bushwhacker", "d1/d36/a22358.html#ad87a9fdec3d5dbaef429c88905a5f6e8", null ],
+    [ "GetAI", "d1/d36/a22358.html#ab3190b66069e820abf3637bb877066a0", null ]
 ];

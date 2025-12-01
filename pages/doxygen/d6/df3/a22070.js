@@ -1,6 +1,7 @@
 var a22070 =
 [
-    [ "npc_spiritual_insightAI", "d6/df3/a22070.html#ab173cd8b623fcf8c36406155c91bc4db", null ],
-    [ "GetSpeachId", "d6/df3/a22070.html#ad2dd22651470f47e7a7ba6f687ba54e9", null ],
-    [ "IsSummonedBy", "d6/df3/a22070.html#ab6b39190d1195915ea0b4b191d864da6", null ]
+    [ "npc_emilyAI", "d4/d54/a22074.html", "d4/d54/a22074" ],
+    [ "npc_emily", "d6/df3/a22070.html#ab40f581fad087b3d32a7724fca97895d", null ],
+    [ "GetAI", "d6/df3/a22070.html#a6317e4b9787c25ce119d08432cd1acf7", null ],
+    [ "OnQuestAccept", "d6/df3/a22070.html#ad434e7bf2427b3575a8459021e792152", null ]
 ];

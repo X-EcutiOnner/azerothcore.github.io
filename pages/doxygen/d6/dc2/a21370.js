@@ -1,20 +1,13 @@
 var a21370 =
 [
-    [ "boss_skadi_graufAI", "d6/dc2/a21370.html#ad5266bee9f90bc7c5622bd30825820eb", null ],
-    [ "CheckPlayers", "d6/dc2/a21370.html#ac240eae79545ab4dc0b5cbc0f5592e8e", null ],
-    [ "DoAction", "d6/dc2/a21370.html#a51a189e6f1f6c9c6948194d3181a7426", null ],
-    [ "JustEngagedWith", "d6/dc2/a21370.html#a6e9c8012479fac7873567acf1e5476a2", null ],
-    [ "MovementInform", "d6/dc2/a21370.html#a2b8fc3e54c0a1970510eabd74b4cee5b", null ],
-    [ "RemoveSkadi", "d6/dc2/a21370.html#a11c732dff2d71bce71c0077e1bda57cf", null ],
-    [ "Reset", "d6/dc2/a21370.html#ab04a1a98da7d318ee54c4af9aaabcfae", null ],
-    [ "SelectNextPos", "d6/dc2/a21370.html#aa01ac1cbc1866628c0953b22cca0b114", null ],
-    [ "SpawnFlameTriggers", "d6/dc2/a21370.html#ae7e2383327566d74af8839a4b0e0303f", null ],
-    [ "SpawnHelpers", "d6/dc2/a21370.html#a1ee67c3814a6ab406b7ca304c28314d3", null ],
-    [ "SpellHitTarget", "d6/dc2/a21370.html#a218c5df55286c143711a7f2023ada012", null ],
-    [ "UpdateAI", "d6/dc2/a21370.html#add5671b1f9e20590e1121f8c18d064cc", null ],
-    [ "AchievementHitCount", "d6/dc2/a21370.html#ae233171c66fb042f57156adfafb8e4fb", null ],
-    [ "currentPos", "d6/dc2/a21370.html#a486d9d7998015bb922addf92791cbe8f", null ],
-    [ "events", "d6/dc2/a21370.html#ab1cffcaa77006c54f8c948bc2a8d661a", null ],
-    [ "m_pInstance", "d6/dc2/a21370.html#a4cff3d8e4c1be9a2b5e9b501e455f2be", null ],
-    [ "summons", "d6/dc2/a21370.html#aac4eb6351a0fe1cf7423d277d9375f8a", null ]
+    [ "MoveX", "d6/dc2/a21370.html#aaae6e8ea168850a934b887ec006d7d8b", null ],
+    [ "MoveY", "d6/dc2/a21370.html#a62cd7f778cea049a1a6a4c34d21545a7", null ],
+    [ "MoveZ", "d6/dc2/a21370.html#a80b842f55108fec58fe04cf02e8e0b35", null ],
+    [ "npc", "d6/dc2/a21370.html#a4bdccc14156f7e5822c9a8eefc29adaa", null ],
+    [ "say", "d6/dc2/a21370.html#adcd8647fc0ee9799e24173780209f2d9", null ],
+    [ "SpawnO", "d6/dc2/a21370.html#a3b6b89143c8a875cda01b000cea6a7c7", null ],
+    [ "SpawnX", "d6/dc2/a21370.html#af3ae27adaecafe9a09802bc202973d68", null ],
+    [ "SpawnY", "d6/dc2/a21370.html#a749e9c6edcc87f258f250344d652145c", null ],
+    [ "SpawnZ", "d6/dc2/a21370.html#a06a0f8e5a7d63204d57992dc9623f83b", null ],
+    [ "trigger", "d6/dc2/a21370.html#ad2291d89a874c79859b3140754594ed7", null ]
 ];

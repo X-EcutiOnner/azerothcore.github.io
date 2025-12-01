@@ -1,6 +1,7 @@
 var a20110 =
 [
-    [ "npc_thorims_hammerAI", "d5/d32/a20114.html", "d5/d32/a20114" ],
-    [ "npc_thorims_hammer", "d2/d5a/a20110.html#a97cbcda73931e6119f8ab30fa4bb0806", null ],
-    [ "GetAI", "d2/d5a/a20110.html#aaee92d115d112ebf590cf690de8c6667", null ]
+    [ "boss_flame_leviathan_safety_containerAI", "d2/d5a/a20110.html#ab9191e20df488df184c468ca1ac41084", null ],
+    [ "MovementInform", "d2/d5a/a20110.html#a1b472a233ebebbb4c1fbf639aeb4bed6", null ],
+    [ "UpdateAI", "d2/d5a/a20110.html#a77b3a493c5650d91c903879db324651d", null ],
+    [ "_allowTimer", "d2/d5a/a20110.html#a2185c9fe04fa7288fab452c5c1de3819", null ]
 ];

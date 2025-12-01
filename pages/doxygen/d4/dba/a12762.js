@@ -1,8 +1,7 @@
 var a12762 =
 [
-    [ "HandleEffectRemove", "d4/dba/a12762.html#a5e5a218cb491b830ec8d50609a3d54ae", null ],
-    [ "if", "d4/dba/a12762.html#a8596fc98402bf952484c9567f61c7820", null ],
-    [ "PrepareAuraScript", "d4/dba/a12762.html#a4055f781a914de631187b00ba7aefeef", null ],
-    [ "Register", "d4/dba/a12762.html#aefb4bbae43558abde871548088784613", null ],
-    [ "AuraEffectHandleModes", "d4/dba/a12762.html#a7d419ba41e68b70740a867a2265824bd", null ]
+    [ "npc_kernobeeAI", "d3/db0/a12766.html", "d3/db0/a12766" ],
+    [ "npc_kernobee", "d4/dba/a12762.html#a325aa3f9962cb99b4af362a23c1b16d8", null ],
+    [ "GetAI", "d4/dba/a12762.html#a13da5b7e79ada7c5a88e84ca551ce8eb", null ],
+    [ "OnQuestAccept", "d4/dba/a12762.html#aa830285cf19211b8233620257735ab62", null ]
 ];

@@ -1,7 +1,6 @@
 var a22242 =
 [
-    [ "npc_rodin_lightning_enabler", "df/df7/a22242.html#ae014b208af7664acd2147663d9338583", null ],
-    [ "Reset", "df/df7/a22242.html#ac3ff539380f8fdd5827c6868815b39cc", null ],
-    [ "UpdateAI", "df/df7/a22242.html#a5f900d97eec245bf3c27cde5c78b71e3", null ],
-    [ "_scheduler", "df/df7/a22242.html#a06434f538bd89d429a329bbd24e5fcdf", null ]
+    [ "npc_boneguard_footmanAI", "df/df7/a22242.html#a04eff1976824724b321f0c0d95e0940a", null ],
+    [ "UpdateAI", "df/df7/a22242.html#a9cba65867824daeb50cb2b39d68ad84b", null ],
+    [ "checkTimer", "df/df7/a22242.html#a46dd1fa8d111dca0584a8e6fb7a6a566", null ]
 ];

@@ -1,8 +1,8 @@
 var a09358 =
 [
-    [ "MostHPMissingInRange", "de/df3/a09358.html#afaa26b685d4e6b0b8d3e7f062ae9fe72", null ],
-    [ "operator()", "de/df3/a09358.html#a420388204d8a1420552b902fbcb2bebe", null ],
-    [ "i_hp", "de/df3/a09358.html#a4a70531f3dc19e7a2eedde0a03142297", null ],
-    [ "i_obj", "de/df3/a09358.html#a6f803fd737b4cc81c7b9c890c49b497e", null ],
-    [ "i_range", "de/df3/a09358.html#acef63da9004997c7f25056651284efa9", null ]
+    [ "NearestGameObjectFishingHole", "de/df3/a09358.html#ab0e4734202edf26b69881ab85abe1d93", null ],
+    [ "NearestGameObjectFishingHole", "de/df3/a09358.html#a256c64e6c82d98349b958647d98bf4ce", null ],
+    [ "operator()", "de/df3/a09358.html#a52e2c64f8209ab364f4e85e1f4e947dc", null ],
+    [ "i_obj", "de/df3/a09358.html#a182fbf6b5cc68fb0eba6be26568c9d78", null ],
+    [ "i_range", "de/df3/a09358.html#af27a870fb654a130bf1e4ac1472fdffc", null ]
 ];

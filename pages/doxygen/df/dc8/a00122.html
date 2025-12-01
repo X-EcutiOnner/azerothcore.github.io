@@ -118,7 +118,6 @@ $(document).ready(function(){initNavTree('df/dc8/a00122.html','../../'); initRes
 <code>#include &quot;<a class="el" href="../../">ArenaSpectator.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">BattlefieldMgr.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Battleground.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">BattlegroundIC.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">CharmInfo.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">CellImpl.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Common.h</a>&quot;</code><br />
@@ -132,7 +131,6 @@ $(document).ready(function(){initNavTree('df/dc8/a00122.html','../../'); initRes
 <code>#include &quot;<a class="el" href="../../">InstanceScript.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Log.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">LootMgr.h</a>&quot;</code><br />
-<code>#include &quot;<a class="el" href="../../">MapMgr.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ObjectAccessor.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">Opcodes.h</a>&quot;</code><br />
@@ -140,6 +138,7 @@ $(document).ready(function(){initNavTree('df/dc8/a00122.html','../../'); initRes
 <code>#include &quot;<a class="el" href="../../">Player.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">ScriptMgr.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SharedDefines.h</a>&quot;</code><br />
+<code>#include &quot;<a class="el" href="../../">SpellAuraDefines.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SpellAuraEffects.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SpellInfo.h</a>&quot;</code><br />
 <code>#include &quot;<a class="el" href="../../">SpellMgr.h</a>&quot;</code><br />
@@ -160,12 +159,12 @@ $(document).ready(function(){initNavTree('df/dc8/a00122.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d40/a11276.html">SpellEvent</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/de8/a11282.html">SpellEvent</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
 Namespaces</h2></td></tr>
-<tr class="memitem:d9/d62/a04803"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d62/a04803.html">Acore</a></td></tr>
+<tr class="memitem:d0/d6d/a04809"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d6d/a04809.html">Acore</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="define-members" name="define-members"></a>
@@ -228,12 +227,12 @@ Variables</h2></td></tr>
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f" name="aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f"></a>MIN_GCD&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c" name="aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c"></a>MAX_GCD&#160;</td><td class="fielddoc"></td></tr>
 </table>
-<div class="fragment"><div class="line"><span class="lineno"> 8809</span>{</div>
-<div class="line"><span class="lineno"> 8810</span>    <a class="code hl_enumvalue" href="../../df/dc8/a00122.html#aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f">MIN_GCD</a> = 1000,</div>
-<div class="line"><span class="lineno"> 8811</span>    <a class="code hl_enumvalue" href="../../df/dc8/a00122.html#aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c">MAX_GCD</a> = 1500</div>
-<div class="line"><span class="lineno"> 8812</span>};</div>
-<div class="ttc" id="aa00122_html_aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f"><div class="ttname"><a href="../../df/dc8/a00122.html#aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f">MIN_GCD</a></div><div class="ttdeci">@ MIN_GCD</div><div class="ttdef"><b>Definition:</b> Spell.cpp:8810</div></div>
-<div class="ttc" id="aa00122_html_aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c"><div class="ttname"><a href="../../df/dc8/a00122.html#aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c">MAX_GCD</a></div><div class="ttdeci">@ MAX_GCD</div><div class="ttdef"><b>Definition:</b> Spell.cpp:8811</div></div>
+<div class="fragment"><div class="line"><span class="lineno"> 8828</span>{</div>
+<div class="line"><span class="lineno"> 8829</span>    <a class="code hl_enumvalue" href="../../df/dc8/a00122.html#aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f">MIN_GCD</a> = 1000,</div>
+<div class="line"><span class="lineno"> 8830</span>    <a class="code hl_enumvalue" href="../../df/dc8/a00122.html#aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c">MAX_GCD</a> = 1500</div>
+<div class="line"><span class="lineno"> 8831</span>};</div>
+<div class="ttc" id="aa00122_html_aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f"><div class="ttname"><a href="../../df/dc8/a00122.html#aea36520bcbaa2ebe9c062b9c5d9df777a08310e07fc7bc96f8485dbcc9487785f">MIN_GCD</a></div><div class="ttdeci">@ MIN_GCD</div><div class="ttdef"><b>Definition:</b> Spell.cpp:8829</div></div>
+<div class="ttc" id="aa00122_html_aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c"><div class="ttname"><a href="../../df/dc8/a00122.html#aea36520bcbaa2ebe9c062b9c5d9df777accf1639a1cf684725784e02ddf1aef8c">MAX_GCD</a></div><div class="ttdeci">@ MAX_GCD</div><div class="ttdef"><b>Definition:</b> Spell.cpp:8830</div></div>
 </div><!-- fragment -->
 </div>
 </div>
@@ -253,18 +252,18 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1865</span>{</div>
-<div class="line"><span class="lineno"> 1866</span>    x = tan(x);</div>
-<div class="line"><span class="lineno"> 1867</span>    <span class="comment">//if (x &lt; std::numeric_limits&lt;float&gt;::max() &amp;&amp; x &gt; -std::numeric_limits&lt;float&gt;::max()) return x;</span></div>
-<div class="line"><span class="lineno"> 1868</span>    <span class="comment">//if (x &gt;= std::numeric_limits&lt;float&gt;::max()) return std::numeric_limits&lt;float&gt;::max();</span></div>
-<div class="line"><span class="lineno"> 1869</span>    <span class="comment">//if (x &lt;= -std::numeric_limits&lt;float&gt;::max()) return -std::numeric_limits&lt;float&gt;::max();</span></div>
-<div class="line"><span class="lineno"> 1870</span>    <span class="keywordflow">if</span> (x &lt; 100000.0f &amp;&amp; x &gt; -100000.0f) <span class="keywordflow">return</span> x;</div>
-<div class="line"><span class="lineno"> 1871</span>    <span class="keywordflow">if</span> (x &gt;= 100000.0f) <span class="keywordflow">return</span> 100000.0f;</div>
-<div class="line"><span class="lineno"> 1872</span>    <span class="keywordflow">if</span> (x &lt;= 100000.0f) <span class="keywordflow">return</span> -100000.0f;</div>
-<div class="line"><span class="lineno"> 1873</span>    <span class="keywordflow">return</span> 0.0f;</div>
-<div class="line"><span class="lineno"> 1874</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno"> 1856</span>{</div>
+<div class="line"><span class="lineno"> 1857</span>    x = tan(x);</div>
+<div class="line"><span class="lineno"> 1858</span>    <span class="comment">//if (x &lt; std::numeric_limits&lt;float&gt;::max() &amp;&amp; x &gt; -std::numeric_limits&lt;float&gt;::max()) return x;</span></div>
+<div class="line"><span class="lineno"> 1859</span>    <span class="comment">//if (x &gt;= std::numeric_limits&lt;float&gt;::max()) return std::numeric_limits&lt;float&gt;::max();</span></div>
+<div class="line"><span class="lineno"> 1860</span>    <span class="comment">//if (x &lt;= -std::numeric_limits&lt;float&gt;::max()) return -std::numeric_limits&lt;float&gt;::max();</span></div>
+<div class="line"><span class="lineno"> 1861</span>    <span class="keywordflow">if</span> (x &lt; 100000.0f &amp;&amp; x &gt; -100000.0f) <span class="keywordflow">return</span> x;</div>
+<div class="line"><span class="lineno"> 1862</span>    <span class="keywordflow">if</span> (x &gt;= 100000.0f) <span class="keywordflow">return</span> 100000.0f;</div>
+<div class="line"><span class="lineno"> 1863</span>    <span class="keywordflow">if</span> (x &lt;= 100000.0f) <span class="keywordflow">return</span> -100000.0f;</div>
+<div class="line"><span class="lineno"> 1864</span>    <span class="keywordflow">return</span> 0.0f;</div>
+<div class="line"><span class="lineno"> 1865</span>}</div>
 </div><!-- fragment -->
-<p class="reference">Referenced by <a class="el" href="../../#l01878">Spell::SelectImplicitTrajTargets()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l01869">Spell::SelectImplicitTrajTargets()</a>.</p>
 
 </div>
 </div>
@@ -288,8 +287,8 @@ Variables</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<dl class="todo"><dt><b><a class="el" href="../../df/dc6/a04793.html#_todo000128">Todo:</a></b></dt><dd>: this import is not necessary for compilation and marked as unused by the IDE </dd></dl>
-<dl class="todo"><dt><b><a class="el" href="../../df/dc6/a04793.html#_todo000145">Todo:</a></b></dt><dd>: this import is not necessary for compilation and marked as unused by the IDE </dd></dl>
+<dl class="todo"><dt><b><a class="el" href="../../d5/d6b/a04799.html#_todo000128">Todo:</a></b></dt><dd>: this import is not necessary for compilation and marked as unused by the IDE </dd></dl>
+<dl class="todo"><dt><b><a class="el" href="../../d5/d6b/a04799.html#_todo000145">Todo:</a></b></dt><dd>: this import is not necessary for compilation and marked as unused by the IDE </dd></dl>
 
 </div>
 </div>
@@ -299,7 +298,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_cfd62069f43c6d31c3f6e771507ef478.html">server</a></li><li class="navelem"><a class="el" href="../../dir_355661791026b33f9301c754e4db8b50.html">game</a></li><li class="navelem"><a class="el" href="../../dir_ef7aca743453a8310aabb86ba904b3f6.html">Spells</a></li><li class="navelem"><a class="el" href="../../df/dc8/a00122.html">Spell.cpp</a></li>
-    <li class="footer">Generated on Mon Nov 24 2025 20:45:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Dec 1 2025 20:46:13 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

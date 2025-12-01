@@ -1,6 +1,8 @@
 var a22458 =
 [
-    [ "npc_frosthoundAI", "d2/d8e/a22462.html", "d2/d8e/a22462" ],
-    [ "npc_frosthound", "d6/de5/a22458.html#a3266f5186d1db0c010f586d3272725a6", null ],
-    [ "GetAI", "d6/de5/a22458.html#a49cd41753c715f166fc903df9dcfdd6b", null ]
+    [ "npc_freed_protodrakeAI", "d6/de5/a22458.html#a9e80808035be749c87a1170f37ac3daf", null ],
+    [ "MovementInform", "d6/de5/a22458.html#af056f3c12a314acd8a7e8c6c381b9436", null ],
+    [ "Reset", "d6/de5/a22458.html#ab5781438300442bb7bcb4510aec9d233", null ],
+    [ "UpdateAI", "d6/de5/a22458.html#a9e83b133444e977c35e90b700149472c", null ],
+    [ "events", "d6/de5/a22458.html#ac2e34b9a53ff55d177327ec95dca5466", null ]
 ];

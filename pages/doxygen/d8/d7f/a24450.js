@@ -1,6 +1,6 @@
 var a24450 =
 [
-    [ "npc_enraged_spiritAI", "d6/d1d/a24454.html", "d6/d1d/a24454" ],
-    [ "npc_enraged_spirit", "d8/d7f/a24450.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
-    [ "GetAI", "d8/d7f/a24450.html#aa10d5f0147cf4064a49df735ac95575e", null ]
+    [ "PrepareSpellScript", "d8/d7f/a24450.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
+    [ "Register", "d8/d7f/a24450.html#ac57aee08a131bcf7db11bc105f32242c", null ],
+    [ "SetDest", "d8/d7f/a24450.html#a26362c4873890bb60c2526bf07058746", null ]
 ];

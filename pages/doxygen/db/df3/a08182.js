@@ -1,12 +1,15 @@
 var a08182 =
 [
-    [ "GameObjectModelOwnerImpl", "db/df3/a08182.html#adb8b3b555ad6cd75c1ee7a1f71a08af7", null ],
-    [ "DebugVisualizeCorner", "db/df3/a08182.html#af8553967b9788d69da9fcb8cdb647f9c", null ],
-    [ "GetDisplayId", "db/df3/a08182.html#a4a694456955c19e76d8c84befc02c920", null ],
-    [ "GetOrientation", "db/df3/a08182.html#acb968e3bd921aac111a2e06f2604b040", null ],
-    [ "GetPhaseMask", "db/df3/a08182.html#ad0b9a01502c49f16a47e35694d3e6c10", null ],
-    [ "GetPosition", "db/df3/a08182.html#a9ba2b29d30b38895effe97637e050988", null ],
-    [ "GetScale", "db/df3/a08182.html#a3d72c1810a41e2baa7e87ab26f4674f9", null ],
-    [ "IsSpawned", "db/df3/a08182.html#ae47eb25d16de37122042402443db6f3d", null ],
-    [ "_owner", "db/df3/a08182.html#a7909f7095341dde39bf47fc12a0c15b0", null ]
+    [ "Minion", "db/df3/a08182.html#a3979ae40c594699ac2a276184543b2c5", null ],
+    [ "GetDebugInfo", "db/df3/a08182.html#a1f9800abdfa2126e593a6ae169f20024", null ],
+    [ "GetFollowAngle", "db/df3/a08182.html#a6b4a4409bd7a8ff455bb13f8c4e5560a", null ],
+    [ "GetOwner", "db/df3/a08182.html#a4610f459936e40b530dae8429f139cfe", null ],
+    [ "InitStats", "db/df3/a08182.html#ad11b2900e990e2b5ba7d10b811cd1e5d", null ],
+    [ "IsGuardianPet", "db/df3/a08182.html#a63335ad34731e8a26ab027bf690f9d4d", null ],
+    [ "IsPetGhoul", "db/df3/a08182.html#ae56acaeea6d1cf9735345cb784f3dcd3", null ],
+    [ "RemoveFromWorld", "db/df3/a08182.html#a35f8314d0a4bafeba1987eb0b1ececf3", null ],
+    [ "setDeathState", "db/df3/a08182.html#ab954627fc409e08616cf080974d30a82", null ],
+    [ "SetFollowAngle", "db/df3/a08182.html#a3b7be3e8dc649b939056ee6a5a66c506", null ],
+    [ "m_followAngle", "db/df3/a08182.html#a02806f2eae429a33e0d2b0c115892c77", null ],
+    [ "m_owner", "db/df3/a08182.html#a135c4341d5f617d1f69ee9f7deeea755", null ]
 ];

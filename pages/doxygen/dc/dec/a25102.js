@@ -1,6 +1,6 @@
 var a25102 =
 [
-    [ "CheckProc", "dc/dec/a25102.html#ad1678a96784add01965d67c3d86bcd77", null ],
-    [ "PrepareAuraScript", "dc/dec/a25102.html#a6e164a8e3482b566b776c5ffeeb1b6ac", null ],
-    [ "Register", "dc/dec/a25102.html#a148f3fe7ee4bdc8e148fe71100779e56", null ]
+    [ "HandleDummy", "dc/dec/a25102.html#a9f9c27bdfed0a457f7e851c8598f3625", null ],
+    [ "PrepareSpellScript", "dc/dec/a25102.html#ab666b72cd7cb0ef92ba6c417be5ac7cc", null ],
+    [ "Register", "dc/dec/a25102.html#a7b78161fda34b3dc3c844c392ce7e30e", null ]
 ];

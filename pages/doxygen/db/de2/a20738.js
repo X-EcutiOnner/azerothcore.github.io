@@ -1,8 +1,8 @@
 var a20738 =
 [
-    [ "npc_ulduar_expedition_commanderAI", "d9/d49/a20742.html", "d9/d49/a20742" ],
-    [ "npc_ulduar_expedition_commander", "db/de2/a20738.html#a8513554f686b75c29524fa5b2fa93ee4", null ],
-    [ "GetAI", "db/de2/a20738.html#aa888a3634a643a103075d44c8f52d28a", null ],
-    [ "OnGossipHello", "db/de2/a20738.html#a6b52abae7ec1be10fcb5385ec928b785", null ],
-    [ "OnGossipSelect", "db/de2/a20738.html#a5d212e5e21d9ffb8c60e883e065c1801", null ]
+    [ "npc_ulduar_dark_rune_guardianAI", "db/de2/a20738.html#aedb43124c923621aadecb77511204fc6", null ],
+    [ "CanAIAttack", "db/de2/a20738.html#af23cb4a19d28f5aa57ba96de95f87c87", null ],
+    [ "Reset", "db/de2/a20738.html#a4c1f53fbbc6189ca9ee0420bc4198684", null ],
+    [ "UpdateAI", "db/de2/a20738.html#ad21127654d5511b6b1d9b22cdd77bd08", null ],
+    [ "timer2", "db/de2/a20738.html#aa66f1aa48cf928ac12751cb3ca2358f3", null ]
 ];

@@ -1,7 +1,8 @@
 var a24278 =
 [
-    [ "npc_maghar_captiveAI", "dd/d1c/a24282.html", "dd/d1c/a24282" ],
-    [ "npc_maghar_captive", "d5/d9b/a24278.html#a59e177f33306ed0bb3de9f640d3685e4", null ],
-    [ "GetAI", "d5/d9b/a24278.html#a7f1528549b55edfb5286db4afe6ce50e", null ],
-    [ "OnQuestAccept", "d5/d9b/a24278.html#a966fdfe66a65675eb1618b0698dfbb21", null ]
+    [ "npc_bessyAI", "d5/d9b/a24278.html#ad1300a563888b34689bedf97c387707c", null ],
+    [ "JustDied", "d5/d9b/a24278.html#af98e9235b2432b619e4cc01c0c1111ef", null ],
+    [ "JustSummoned", "d5/d9b/a24278.html#a4197fb122299fd152e5da335bb832ae5", null ],
+    [ "Reset", "d5/d9b/a24278.html#aed64386629e52c3b65abadde54a63cc4", null ],
+    [ "WaypointReached", "d5/d9b/a24278.html#a4611a8f41f66a1a846fb42ba1d4062c8", null ]
 ];

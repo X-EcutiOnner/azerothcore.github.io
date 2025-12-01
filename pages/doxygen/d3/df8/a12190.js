@@ -1,8 +1,6 @@
 var a12190 =
 [
-    [ "boss_halyconAI", "d3/df8/a12190.html#acc110d5d802fc0da3ea630f667167748", null ],
-    [ "JustDied", "d3/df8/a12190.html#a7d71e135a8edf3d3b99ccfcb3b071eaa", null ],
-    [ "JustEngagedWith", "d3/df8/a12190.html#a5735567462167fffa4d01800d696296e", null ],
-    [ "Reset", "d3/df8/a12190.html#ac5622260b0b40cb584cf3037521cc5b8", null ],
-    [ "UpdateAI", "d3/df8/a12190.html#a6e72949b63de3d32d8369c7122b6060d", null ]
+    [ "boss_gloomrel", "d3/df8/a12190.html#ad655acba7b2d88779f849a685bb9fbb7", null ],
+    [ "OnGossipHello", "d3/df8/a12190.html#a6ce6898142d767a130ec09769f2be488", null ],
+    [ "OnGossipSelect", "d3/df8/a12190.html#ab7c623cdd2301f3a0a74d6b1e187a8c5", null ]
 ];

@@ -1,4 +1,4 @@
 var a04697 =
 [
-    [ "AsyncCallbackProcessor< T >", "db/da4/a05488.html", "db/da4/a05488" ]
+    [ "CircularBuffer< T >", "d6/dca/a05498.html", "d6/dca/a05498" ]
 ];

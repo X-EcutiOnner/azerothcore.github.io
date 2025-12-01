@@ -1,9 +1,8 @@
 var a22634 =
 [
-    [ "npc_finklesteinAI", "db/d4b/a22638.html", "db/d4b/a22638" ],
-    [ "npc_finklestein", "d6/d4a/a22634.html#aa719b4bb95012c22ef8123e255e32edd", null ],
-    [ "GetAI", "d6/d4a/a22634.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
-    [ "OnGossipHello", "d6/d4a/a22634.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
-    [ "OnGossipSelect", "d6/d4a/a22634.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
-    [ "OnQuestAccept", "d6/d4a/a22634.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
+    [ "HandleApply", "d6/d4a/a22634.html#ad8ee9a50314c900b1507e25eaa70ece7", null ],
+    [ "HandleRemove", "d6/d4a/a22634.html#a06c7c65d973fcf348f5c929503902520", null ],
+    [ "PrepareAuraScript", "d6/d4a/a22634.html#a48b20c0f1997acd0f9f0800bf4b63bd0", null ],
+    [ "Register", "d6/d4a/a22634.html#a7018a16262b94a573405e1bdc9fbdd10", null ],
+    [ "Validate", "d6/d4a/a22634.html#a8135c492638557eec71189282e7f78a2", null ]
 ];

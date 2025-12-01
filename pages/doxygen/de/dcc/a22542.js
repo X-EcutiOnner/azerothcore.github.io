@@ -1,6 +1,7 @@
 var a22542 =
 [
-    [ "npc_vehicle_d16_propelled_deliveryAI", "de/d5a/a22546.html", "de/d5a/a22546" ],
-    [ "npc_vehicle_d16_propelled_delivery", "de/dcc/a22542.html#a93bed362ae78231b21327994a3e4cafd", null ],
-    [ "GetAI", "de/dcc/a22542.html#abda3dbcb251d7f1e614d089f630d0d1c", null ]
+    [ "HandleScript", "de/dcc/a22542.html#a26eb647b6c938df3aeff7981571dc475", null ],
+    [ "PrepareSpellScript", "de/dcc/a22542.html#a10114d8fa956aabff64aa0df7708f635", null ],
+    [ "Register", "de/dcc/a22542.html#a0c6c379f5dcbb417d94d8e6315aa49dd", null ],
+    [ "Validate", "de/dcc/a22542.html#adb477d34d8012c6fb45c5548fc49e127", null ]
 ];

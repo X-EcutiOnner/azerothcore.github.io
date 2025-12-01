@@ -1,9 +1,9 @@
 var a18570 =
 [
-    [ "FilterTargets", "dc/de7/a18570.html#a2b669cd93ed96417e4a0a6d83e4095cd", null ],
-    [ "Load", "dc/de7/a18570.html#aaec66c1d360ffa4e25d86f331f3521dd", null ],
-    [ "PrepareSpellScript", "dc/de7/a18570.html#a34d702b1299e2ee27eb1c27bc49be9dc", null ],
-    [ "Register", "dc/de7/a18570.html#afad887fba0d97512a7a13a31977cf42d", null ],
-    [ "Validate", "dc/de7/a18570.html#a2ff2dcfa096bf237c9c4c442ec13fa4d", null ],
-    [ "_instance", "dc/de7/a18570.html#a96dde7a1b30682c6bb04c1ae5449bd7c", null ]
+    [ "npc_spirit_wardenAI", "dc/de7/a18570.html#a3391168478345d8b5c1fee151f6e9f04", null ],
+    [ "JustDied", "dc/de7/a18570.html#aa762c0bea6361107312e8231508dc655", null ],
+    [ "Reset", "dc/de7/a18570.html#ad6076663f65f43874feb0ecfc57718a4", null ],
+    [ "UpdateAI", "dc/de7/a18570.html#af845e3e2c38af5baa84c94f6074c0caf", null ],
+    [ "_events", "dc/de7/a18570.html#a1bc5cfdee62efdd622e0fe1aa503c260", null ],
+    [ "_instance", "dc/de7/a18570.html#a58ebb8e42e77add79fc888248013eb24", null ]
 ];

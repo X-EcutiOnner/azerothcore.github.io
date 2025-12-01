@@ -1,8 +1,8 @@
 var a02711 =
 [
-    [ "boss_gluth", "d7/df6/a19168.html", "d7/df6/a19168" ],
-    [ "boss_gluth::boss_gluthAI", "d5/d97/a19172.html", "d5/d97/a19172" ],
-    [ "spell_gluth_decimate", "de/d5a/a19176.html", "de/d5a/a19176" ],
+    [ "boss_gluth", "d0/d2e/a19174.html", "d0/d2e/a19174" ],
+    [ "boss_gluth::boss_gluthAI", "d7/de0/a19178.html", "d7/de0/a19178" ],
+    [ "spell_gluth_decimate", "df/dd4/a19182.html", "df/dd4/a19182" ],
     [ "Emotes", "d8/dd0/a02711.html#a2d0a63150f7988db8ff39124dc1cb21a", [
       [ "EMOTE_FRENZY", "d9/d3c/a03650.html#a2d0a63150f7988db8ff39124dc1cb21aa55f111609d7846e27c2f642b9f46b1ac", null ],
       [ "EMOTE_SHIMMER", "d9/d3c/a03650.html#a2d0a63150f7988db8ff39124dc1cb21aa706a7a036a41d3d1f2650ee226e9ec1e", null ],
@@ -1519,7 +1519,8 @@ var a02711 =
       [ "EVENT_ECK_BITE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a25fd4fd9c83fea5e757a20aeb8f03aee", null ],
       [ "EVENT_ECK_SPIT", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6add7ba9bf01f5f04dac1d93a997b57af2", null ],
       [ "EVENT_ECK_SPRING", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6c3f22fd6aa63e5bf101019792a4b483", null ],
-      [ "EVENT_ECK_HEALTH", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f0a1bde1d1f47b6f7e45f621a57b6c1", null ],
+      [ "EVENT_ECK_CRAZED_EMOTE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6eeac32439bad23ef93cf41b4526d55d", null ],
+      [ "EMOTE_CRAZED", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2628cfc3f39065948404f522308c931f", null ],
       [ "NPC_SLADRAN_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08dc37f063f5d70a3893765939f63a82", null ],
       [ "NPC_SLADRAN_CONSTRICTORS", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a52bf6fd6ef6437b9a4e88616b7f1d91b", null ],
       [ "MAX_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1e3f12d08f9d4880b8263386a54d21c8", null ],

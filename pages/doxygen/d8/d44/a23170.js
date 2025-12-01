@@ -1,12 +1,7 @@
 var a23170 =
 [
-    [ "npc_creature_generator_akama", "d8/d44/a23170.html#a8e91cadea7f135ff692635e4d39923e0", null ],
-    [ "DoAction", "d8/d44/a23170.html#a01efeecd374056da287e4a1e468472b6", null ],
-    [ "JustSummoned", "d8/d44/a23170.html#af58d7b130ed3b6c209c08ae14444bfe3", null ],
-    [ "Reset", "d8/d44/a23170.html#a23cf08661802f247147bb23cff30eeab", null ],
-    [ "SummonedCreatureDies", "d8/d44/a23170.html#a35b7ecfa659d80a869868b9a2732d92b", null ],
-    [ "UpdateAI", "d8/d44/a23170.html#a8c6e3ca67691e7625700f22c5b1c09c5", null ],
-    [ "instance", "d8/d44/a23170.html#a109aea7bb0747f8572c1d46e9df2d2a5", null ],
-    [ "spawnCounter", "d8/d44/a23170.html#a02d8acace195438fe6e8d4705a043078", null ],
-    [ "summons", "d8/d44/a23170.html#a3d532e607c48298ca0464ee630dd27b3", null ]
+    [ "HandleEffectApply", "d8/d44/a23170.html#aff0dbed165d0e751db725f7eaaf76a11", null ],
+    [ "Load", "d8/d44/a23170.html#a1dfb5b2004041e7165cc9f5deb4b1e82", null ],
+    [ "PrepareAuraScript", "d8/d44/a23170.html#a3dbd01e52ed2a630f0c014f941fc1b5e", null ],
+    [ "Register", "d8/d44/a23170.html#a647f21e79e3fef72cf84439fc84e708f", null ]
 ];

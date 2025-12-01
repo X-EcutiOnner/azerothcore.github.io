@@ -1,6 +1,11 @@
 var a17418 =
 [
-    [ "HandlePeriodic", "d7/d50/a17418.html#a27ad5fef0695f006c2f8795ac0fbce53", null ],
-    [ "PrepareAuraScript", "d7/d50/a17418.html#a29b00511d9a215fd0e00702e7a2dca0c", null ],
-    [ "Register", "d7/d50/a17418.html#a9753daf5cdc812e9027c1153b450686d", null ]
+    [ "boss_slad_ranAI", "d7/d50/a17418.html#ad85e2fd51d67739026a96bc757bc7801", null ],
+    [ "GetData", "d7/d50/a17418.html#a58e1188a418acdc1f327e7df90c5c122", null ],
+    [ "JustDied", "d7/d50/a17418.html#a636ca76497c33a5175986e80bbcda44a", null ],
+    [ "JustEngagedWith", "d7/d50/a17418.html#ac30b38805d0421b1be509c7d5609c648", null ],
+    [ "KilledUnit", "d7/d50/a17418.html#a4700f8c06e5fa43fc1719c19cfe79b24", null ],
+    [ "Reset", "d7/d50/a17418.html#a8759163de40d04d53c5e5ed8d8192aa7", null ],
+    [ "SetData", "d7/d50/a17418.html#a3b91eb7c2aa2aeb356c51e81f449b0a5", null ],
+    [ "_achievement", "d7/d50/a17418.html#a3ab4f94e13d414fd6c9eb0ba63941ca9", null ]
 ];

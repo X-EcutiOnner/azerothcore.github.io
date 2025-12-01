@@ -1,6 +1,6 @@
 var a12698 =
 [
-    [ "instance_deadmines_InstanceMapScript", "d8/d4a/a12702.html", "d8/d4a/a12702" ],
-    [ "instance_deadmines", "df/d4c/a12698.html#a91ec4b9d2c4dcb3b8a2822431259bc08", null ],
-    [ "GetInstanceScript", "df/d4c/a12698.html#ac5cb65972d52324cedf662cc44dca626", null ]
+    [ "boss_sulfuronAI", "df/d4c/a12698.html#a63c76fb94131830924e2bf77477261ba", null ],
+    [ "ExecuteEvent", "df/d4c/a12698.html#ae038aa8140f5b4128c39c592966321f1", null ],
+    [ "JustEngagedWith", "df/d4c/a12698.html#a35394690b8d25529c91c147025f6ad92", null ]
 ];

@@ -1,5 +1,7 @@
 var a11622 =
 [
-    [ "Command", "d0/db0/a11622.html#af0e8f46d4352430d12f932b5a9e4c44e", null ],
-    [ "Seed", "d0/db0/a11622.html#a8770c7de1b983d75214d1de39d0c02ab", null ]
+    [ "PlayerGuid", "d0/db0/a11622.html#a629a600c48376d04293c225390f747ff", null ],
+    [ "PrimaryKey", "d0/db0/a11622.html#a7c1ef4d19fb49e5813868ff2ccfe12fc", null ],
+    [ "StoredType", "d0/db0/a11622.html#a9bea7cf549813010b55c23417d65edc6", null ],
+    [ "TableName", "d0/db0/a11622.html#a0f308af88812c110c490c94368bda482", null ]
 ];

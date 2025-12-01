@@ -1,8 +1,5 @@
 var a11990 =
 [
-    [ "ironhand_guardianAI", "df/dc0/a11990.html#ab109b4ba9d399bd8c7d7dd5c04f2c618", null ],
-    [ "SetData", "df/dc0/a11990.html#ab4e6402951bf45910fb3399ea107b207", null ],
-    [ "UpdateAI", "df/dc0/a11990.html#a095b11f44935c8ddb43a20c095495507", null ],
-    [ "events", "df/dc0/a11990.html#a13ed887285809d2fcad0d23fdf37face", null ],
-    [ "flames_enabled", "df/dc0/a11990.html#ab54e1eac19a8b51e2aa9fe4bc5f08e46", null ]
+    [ "npcEntry", "df/dc0/a11990.html#a866b12ea5416f36c36bbea1a35a6a490", null ],
+    [ "spellId", "df/dc0/a11990.html#a8c2fd26e0e9de5f9292c8b993ba9f9be", null ]
 ];

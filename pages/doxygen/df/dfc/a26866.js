@@ -1,10 +1,9 @@
 var a26866 =
 [
-    [ "CalculateAPAmount", "df/dfc/a26866.html#abba0772c18bf98696dc1f236da79401e", null ],
-    [ "CalculateResistanceAmount", "df/dfc/a26866.html#a2db04d2d4af16e34cb69b71dbcd0c066", null ],
-    [ "CalculateSPAmount", "df/dfc/a26866.html#a4ecc412bb7d5e89a886c9ad4cc562187", null ],
-    [ "CalculateStatAmount", "df/dfc/a26866.html#a9269eee5ef676c466e662305389988f0", null ],
-    [ "HandleEffectApply", "df/dfc/a26866.html#aa818ca9c4e7b1320f97931525faff1c4", null ],
-    [ "PrepareAuraScript", "df/dfc/a26866.html#a5b35686a2ddd761343d811a8472c1c3b", null ],
-    [ "Register", "df/dfc/a26866.html#a9bf7cd6309b4724462b03c1080324f83", null ]
+    [ "HandleHeal", "df/dfc/a26866.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
+    [ "Load", "df/dfc/a26866.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
+    [ "PrepareSpellScript", "df/dfc/a26866.html#a91eb46af707897f228e5d1bbd199a833", null ],
+    [ "Register", "df/dfc/a26866.html#ae28f1b0c23511153eafc037cae067bc0", null ],
+    [ "firstHeal", "df/dfc/a26866.html#a405326e6e1cd82816aef1712fdf335a0", null ],
+    [ "riptide", "df/dfc/a26866.html#acaec32f6730bc2e04e613aa982d285bf", null ]
 ];

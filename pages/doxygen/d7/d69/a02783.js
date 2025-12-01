@@ -1,7 +1,7 @@
 var a02783 =
 [
-    [ "boss_cyanigosa", "db/d00/a21468.html", "db/d00/a21468" ],
-    [ "boss_cyanigosa::boss_cyanigosaAI", "d0/d69/a21472.html", "d0/d69/a21472" ],
+    [ "boss_cyanigosa", "db/d19/a21474.html", "db/d19/a21474" ],
+    [ "boss_cyanigosa::boss_cyanigosaAI", "d1/d45/a21478.html", "d1/d45/a21478" ],
     [ "eEvents", "d7/d69/a02783.html#a1d3512b0adb171bd0db6aad2c9e70516", [
       [ "EVENT_NULL", "d3/d7e/a02768.html#a1d3512b0adb171bd0db6aad2c9e70516afc8e2e36b7d0f732f5f52e0a94155c7a", null ],
       [ "EVENT_CHECK_PLAYERS", "d3/d7e/a02768.html#a1d3512b0adb171bd0db6aad2c9e70516a6c1847babeb1b838631eee5b2af3dc2b", null ],

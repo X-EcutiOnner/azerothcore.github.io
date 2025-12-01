@@ -1,5 +1,6 @@
 var a27426 =
 [
-    [ "go_ethereum_stasis", "dc/dd0/a27426.html#aaa8fc5733678a17a37c60c9853f91e62", null ],
-    [ "OnGossipHello", "dc/dd0/a27426.html#ac36da8dccbebcaee605a878df3904c60", null ]
+    [ "go_flamesAI", "dc/dd0/a27426.html#a6473bff84b5c99cc616aa2d0912ed308", null ],
+    [ "UpdateAI", "dc/dd0/a27426.html#a2d4c91f0bff924335881d1096c0af313", null ],
+    [ "timer", "dc/dd0/a27426.html#ae53c7c6c669e982babf304f173b58b1a", null ]
 ];

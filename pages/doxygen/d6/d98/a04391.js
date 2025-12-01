@@ -1,4 +1,4 @@
 var a04391 =
 [
-    [ "BigNumber", "d6/d6a/a05200.html", "d6/d6a/a05200" ]
+    [ "BigNumber", "d4/d56/a05206.html", "d4/d56/a05206" ]
 ];

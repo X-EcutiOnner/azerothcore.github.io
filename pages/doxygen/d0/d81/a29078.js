@@ -1,6 +1,6 @@
 var a29078 =
 [
-    [ "go_brewfest_musicAI", "d0/dcf/a29082.html", "d0/dcf/a29082" ],
-    [ "go_brewfest_music", "d0/d81/a29078.html#a787963a5ee591933d62fdb52911f9a77", null ],
-    [ "GetAI", "d0/d81/a29078.html#a50f36a6d0a72e7188dbe1bdaa09f1888", null ]
+    [ "height", "d0/d81/a29078.html#a7638f586a055c48a46e36471543ff72f", null ],
+    [ "unk1", "d0/d81/a29078.html#a6c08b6fa33e12a9900218d0d0b8b78d5", null ],
+    [ "unk2", "d0/d81/a29078.html#a394a04f6e985824aa259a42b11b97136", null ]
 ];

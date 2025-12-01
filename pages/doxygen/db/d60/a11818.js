@@ -1,8 +1,13 @@
 var a11818 =
 [
-    [ "honor_commandscript", "db/d60/a11818.html#a7c1a6c172b970d1a35a4014d783dc783", null ],
-    [ "GetCommands", "db/d60/a11818.html#a29a0068f9dd1e9b3f0adf80bddaadbbc", null ],
-    [ "HandleHonorAddCommand", "db/d60/a11818.html#a03caa77b436e3d513e1325badf05df33", null ],
-    [ "HandleHonorAddKillCommand", "db/d60/a11818.html#aec79f459796d821a032477827e16308a", null ],
-    [ "HandleHonorUpdateCommand", "db/d60/a11818.html#a11831a3ea577f3f1e06fea3d0dbc0147", null ]
+    [ "cheat_commandscript", "db/d60/a11818.html#a7449cfba3578956a09b67e569e7e6083", null ],
+    [ "GetCommands", "db/d60/a11818.html#a7cc6ca0c216a4ff497b60dc7622623fd", null ],
+    [ "HandleCasttimeCheatCommand", "db/d60/a11818.html#a119ad06c5b8be235853bb13c7cff724b", null ],
+    [ "HandleCheatStatusCommand", "db/d60/a11818.html#acdf487c7a96d1757d3254e3f17e728cb", null ],
+    [ "HandleCoolDownCheatCommand", "db/d60/a11818.html#ab31a1cfe2567b0f597c689f44ab9fd6d", null ],
+    [ "HandleExploreCheatCommand", "db/d60/a11818.html#a25ea712f2fb249e49f5f0b8244f743c5", null ],
+    [ "HandleGodModeCheatCommand", "db/d60/a11818.html#ac398dbacf025830dc871bc77938d47d6", null ],
+    [ "HandlePowerCheatCommand", "db/d60/a11818.html#ae406c5d444b10ba65b79f8ff9d949c24", null ],
+    [ "HandleTaxiCheatCommand", "db/d60/a11818.html#ab9bd840c9622d173e710058eeb763388", null ],
+    [ "HandleWaterWalkCheatCommand", "db/d60/a11818.html#a9162d89c049f14f29bc5ba257964df34", null ]
 ];

@@ -1,7 +1,7 @@
 var a13626 =
 [
-    [ "PeriodicTick", "dd/df4/a13626.html#acca46d585d06d461f735cddb6075b3b1", null ],
-    [ "PrepareAuraScript", "dd/df4/a13626.html#abd7382ab22efd3d82c4f00745255d024", null ],
-    [ "Register", "dd/df4/a13626.html#a7020dbe7c61f877d0ecd0d7542f6f270", null ],
-    [ "Validate", "dd/df4/a13626.html#acb31ba162452a30ff0c208829560f9fd", null ]
+    [ "npc_singularity", "dd/df4/a13626.html#a4ed61ec65ed94d8d5e42ae7ff9ecd41d", null ],
+    [ "FindAndFollowTarget", "dd/df4/a13626.html#a76c21129756dec05f6f2d88cebe948c5", null ],
+    [ "Reset", "dd/df4/a13626.html#ae81c2e5865beb00df8683fa0fb6e7872", null ],
+    [ "UpdateAI", "dd/df4/a13626.html#ad019d234ca9ee719612d59e5bb0b53ea", null ]
 ];

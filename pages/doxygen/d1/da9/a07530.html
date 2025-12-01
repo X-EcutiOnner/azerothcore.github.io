@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ChannelMgr Class Reference</title>
+<title>AzerothCore: CalendarEvent Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -107,87 +107,107 @@ $(document).ready(function(){initNavTree('d1/da9/a07530.html','../../'); initRes
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="#pub-static-attribs">Static Public Attributes</a> &#124;
-<a href="#pri-types">Private Types</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
-<a href="#pri-static-attribs">Static Private Attributes</a> &#124;
 <a href="../../d3/da8/a07527.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ChannelMgr Class Reference</div></div>
+  <div class="headertitle"><div class="title">CalendarEvent Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">ChannelMgr.h</a>&quot;</code></p>
-<div class="dynheader">
-Inheritance diagram for ChannelMgr:</div>
-<div class="dyncontent">
- <div class="center">
-  <img src="../../d1/da9/a07530.png" usemap="#ChannelMgr_map" alt=""/>
-  <map id="ChannelMgr_map" name="ChannelMgr_map">
-<area href="../../d1/dd6/a07534.html" alt="AllianceChannelMgr" shape="rect" coords="0,56,128,80"/>
-<area href="../../d3/ddf/a07538.html" alt="HordeChannelMgr" shape="rect" coords="138,56,266,80"/>
-  </map>
-</div></div>
+<p><code>#include &quot;<a class="el" href="../../">CalendarMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aa671334be6933f374466666ec5c6cc46"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#aa671334be6933f374466666ec5c6cc46">ChannelMgr</a> (<a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> teamId)</td></tr>
-<tr class="separator:aa671334be6933f374466666ec5c6cc46"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2f9099cf528aacae9110d349841e57a7"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a2f9099cf528aacae9110d349841e57a7">~ChannelMgr</a> ()</td></tr>
-<tr class="separator:a2f9099cf528aacae9110d349841e57a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a92540d37b38ccc032665fa220349a4ec"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d15/a07522.html">Channel</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a92540d37b38ccc032665fa220349a4ec">GetJoinChannel</a> (std::string const &amp;name, <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> channel_id)</td></tr>
-<tr class="separator:a92540d37b38ccc032665fa220349a4ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89dbd4095eeeb79ae59947beb2d2cd17"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d15/a07522.html">Channel</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a89dbd4095eeeb79ae59947beb2d2cd17">GetChannel</a> (std::string const &amp;name, <a class="el" href="../../da/ddb/a08650.html">Player</a> *p, bool pkt=true)</td></tr>
-<tr class="separator:a89dbd4095eeeb79ae59947beb2d2cd17"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a15ff1b83018d11f0a57ee7f0be45f35e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a15ff1b83018d11f0a57ee7f0be45f35e">CalendarEvent</a> (<a class="el" href="../../d1/da9/a07530.html">CalendarEvent</a> const &amp;calendarEvent, <a class="el" href="../../d2/dfc/a04310.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> eventId)</td></tr>
+<tr class="separator:a15ff1b83018d11f0a57ee7f0be45f35e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af17038b1fe328a29e649b56e16e5d839"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#af17038b1fe328a29e649b56e16e5d839">CalendarEvent</a> (<a class="el" href="../../d2/dfc/a04310.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> eventId, <a class="el" href="../../d9/d62/a08470.html">ObjectGuid</a> creatorGUID, <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> guildId, <a class="el" href="../../d6/d7d/a00161.html#aabfde90a2fd31d4aa93fac9f496c12fc">CalendarEventType</a> type, <a class="el" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> dungeonId, time_t eventTime, <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> flags, time_t timezoneTime, std::string title, std::string description)</td></tr>
+<tr class="separator:af17038b1fe328a29e649b56e16e5d839"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad8112a5e8a1a4d50bf01ae5b341b4b0b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#ad8112a5e8a1a4d50bf01ae5b341b4b0b">CalendarEvent</a> ()</td></tr>
+<tr class="separator:ad8112a5e8a1a4d50bf01ae5b341b4b0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acf06b49619c9ca1c27ee473ff295f848"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#acf06b49619c9ca1c27ee473ff295f848">~CalendarEvent</a> ()</td></tr>
+<tr class="separator:acf06b49619c9ca1c27ee473ff295f848"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a661d540d65ee8afd10f348a1029bc48b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a661d540d65ee8afd10f348a1029bc48b">SetEventId</a> (<a class="el" href="../../d2/dfc/a04310.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> eventId)</td></tr>
+<tr class="separator:a661d540d65ee8afd10f348a1029bc48b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a712890e4823f1e456493c386389839a0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a712890e4823f1e456493c386389839a0">GetEventId</a> () const</td></tr>
+<tr class="separator:a712890e4823f1e456493c386389839a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a675e81ccb93620db0d6fb808a8621fdf"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a675e81ccb93620db0d6fb808a8621fdf">SetCreatorGUID</a> (<a class="el" href="../../d9/d62/a08470.html">ObjectGuid</a> guid)</td></tr>
+<tr class="separator:a675e81ccb93620db0d6fb808a8621fdf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1e9299779adc7abf42a01eb1c403aa16"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d62/a08470.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a1e9299779adc7abf42a01eb1c403aa16">GetCreatorGUID</a> () const</td></tr>
+<tr class="separator:a1e9299779adc7abf42a01eb1c403aa16"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a28266831da31a256773a9f39c0e27897"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a28266831da31a256773a9f39c0e27897">SetGuildId</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> guildId)</td></tr>
+<tr class="separator:a28266831da31a256773a9f39c0e27897"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adc569b53aeb4d9892f025aa40e58750f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#adc569b53aeb4d9892f025aa40e58750f">GetGuildId</a> () const</td></tr>
+<tr class="separator:adc569b53aeb4d9892f025aa40e58750f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7071188f10921377652356a7cd0fe893"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a7071188f10921377652356a7cd0fe893">SetTitle</a> (const std::string &amp;title)</td></tr>
+<tr class="separator:a7071188f10921377652356a7cd0fe893"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acd5bdd13096df09cf46824601f6c4402"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#acd5bdd13096df09cf46824601f6c4402">GetTitle</a> () const</td></tr>
+<tr class="separator:acd5bdd13096df09cf46824601f6c4402"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a62527e79e56cb81c5d1f699b742459c4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a62527e79e56cb81c5d1f699b742459c4">SetDescription</a> (const std::string &amp;description)</td></tr>
+<tr class="separator:a62527e79e56cb81c5d1f699b742459c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae15c35f26ccf8eaaa658dfe31045551d"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#ae15c35f26ccf8eaaa658dfe31045551d">GetDescription</a> () const</td></tr>
+<tr class="separator:ae15c35f26ccf8eaaa658dfe31045551d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7788d5d38b52fa2412289ac738e71618"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a7788d5d38b52fa2412289ac738e71618">SetType</a> (<a class="el" href="../../d6/d7d/a00161.html#aabfde90a2fd31d4aa93fac9f496c12fc">CalendarEventType</a> type)</td></tr>
+<tr class="separator:a7788d5d38b52fa2412289ac738e71618"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2b6f03aef3325c186d713ce5b61e55a5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d7d/a00161.html#aabfde90a2fd31d4aa93fac9f496c12fc">CalendarEventType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a2b6f03aef3325c186d713ce5b61e55a5">GetType</a> () const</td></tr>
+<tr class="separator:a2b6f03aef3325c186d713ce5b61e55a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abbf9d3e9a984bc2a666f39d26e2b0b18"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#abbf9d3e9a984bc2a666f39d26e2b0b18">SetDungeonId</a> (<a class="el" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> dungeonId)</td></tr>
+<tr class="separator:abbf9d3e9a984bc2a666f39d26e2b0b18"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aca67561141854ee8d9ac11258dec92c5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#aca67561141854ee8d9ac11258dec92c5">GetDungeonId</a> () const</td></tr>
+<tr class="separator:aca67561141854ee8d9ac11258dec92c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a70f53e59d54ad4a71013d3000f797c5a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a70f53e59d54ad4a71013d3000f797c5a">SetEventTime</a> (time_t eventTime)</td></tr>
+<tr class="separator:a70f53e59d54ad4a71013d3000f797c5a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:addb78b7996e091a9b234c45ac7e1635c"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#addb78b7996e091a9b234c45ac7e1635c">GetEventTime</a> () const</td></tr>
+<tr class="separator:addb78b7996e091a9b234c45ac7e1635c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afa3869d76998e4c83b48602850508e15"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#afa3869d76998e4c83b48602850508e15">SetFlags</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> flags)</td></tr>
+<tr class="separator:afa3869d76998e4c83b48602850508e15"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af76662460d51a8e29fa5274d03e70c49"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#af76662460d51a8e29fa5274d03e70c49">GetFlags</a> () const</td></tr>
+<tr class="separator:af76662460d51a8e29fa5274d03e70c49"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a81549648acfe08ab4d69ca03151531be"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a81549648acfe08ab4d69ca03151531be">SetTimeZoneTime</a> (time_t timezoneTime)</td></tr>
+<tr class="separator:a81549648acfe08ab4d69ca03151531be"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9375a18807867d56ab42c6f01c47b2d1"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a9375a18807867d56ab42c6f01c47b2d1">GetTimeZoneTime</a> () const</td></tr>
+<tr class="separator:a9375a18807867d56ab42c6f01c47b2d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a61bf9eeeb5a3bc3b03a775d30e33d654"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a61bf9eeeb5a3bc3b03a775d30e33d654">IsGuildEvent</a> () const</td></tr>
+<tr class="separator:a61bf9eeeb5a3bc3b03a775d30e33d654"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a10b124299312e8295b6fa870b5ddbced"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a10b124299312e8295b6fa870b5ddbced">IsGuildAnnouncement</a> () const</td></tr>
+<tr class="separator:a10b124299312e8295b6fa870b5ddbced"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0fce8ef7d6c645c0e25ab4f8167c9dfc"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a0fce8ef7d6c645c0e25ab4f8167c9dfc">BuildCalendarMailSubject</a> (<a class="el" href="../../d9/d62/a08470.html">ObjectGuid</a> remover) const</td></tr>
+<tr class="separator:a0fce8ef7d6c645c0e25ab4f8167c9dfc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad181c3acd9f5d2537e6de717e3069001"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#ad181c3acd9f5d2537e6de717e3069001">BuildCalendarMailBody</a> () const</td></tr>
+<tr class="separator:ad181c3acd9f5d2537e6de717e3069001"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a62fd837572c3c88d8848115c98587401"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d1/da9/a07530.html">ChannelMgr</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a62fd837572c3c88d8848115c98587401">forTeam</a> (<a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> teamId)</td></tr>
-<tr class="separator:a62fd837572c3c88d8848115c98587401"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a73e822c758aacb7f959407b100b9aff6"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a73e822c758aacb7f959407b100b9aff6">LoadChannels</a> ()</td></tr>
-<tr class="separator:a73e822c758aacb7f959407b100b9aff6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4fa043d2c61f5013d62b192d46bd453a"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a4fa043d2c61f5013d62b192d46bd453a">LoadChannelRights</a> ()</td></tr>
-<tr class="separator:a4fa043d2c61f5013d62b192d46bd453a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5cc03c09dfc33a89d3d4f59d1e92d757"><td class="memItemLeft" align="right" valign="top">static const <a class="el" href="../../d0/d13/a07518.html">ChannelRights</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a5cc03c09dfc33a89d3d4f59d1e92d757">GetChannelRightsFor</a> (const std::string &amp;name)</td></tr>
-<tr class="separator:a5cc03c09dfc33a89d3d4f59d1e92d757"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1d672ab806b5e00bdd96d3a56fe3520b"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a1d672ab806b5e00bdd96d3a56fe3520b">SetChannelRightsFor</a> (const std::string &amp;name, const <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;flags, const <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;speakDelay, const std::string &amp;joinmessage, const std::string &amp;speakmessage, const std::set&lt; <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; &amp;moderators)</td></tr>
-<tr class="separator:a1d672ab806b5e00bdd96d3a56fe3520b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
-Static Public Attributes</h2></td></tr>
-<tr class="memitem:a41bbe928d2e50c899a10b4b7da0e1a68"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a41bbe928d2e50c899a10b4b7da0e1a68">_channelIdMax</a> = 0</td></tr>
-<tr class="separator:a41bbe928d2e50c899a10b4b7da0e1a68"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-types" name="pri-types"></a>
-Private Types</h2></td></tr>
-<tr class="memitem:a84c686f095464d67f750309244a47ba5"><td class="memItemLeft" align="right" valign="top">typedef std::unordered_map&lt; std::wstring, <a class="el" href="../../d1/d15/a07522.html">Channel</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a84c686f095464d67f750309244a47ba5">ChannelMap</a></td></tr>
-<tr class="separator:a84c686f095464d67f750309244a47ba5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4e153c81aede8182160b0a5ab89e5b4b"><td class="memItemLeft" align="right" valign="top">typedef std::map&lt; std::string, <a class="el" href="../../d0/d13/a07518.html">ChannelRights</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a4e153c81aede8182160b0a5ab89e5b4b">ChannelRightsMap</a></td></tr>
-<tr class="separator:a4e153c81aede8182160b0a5ab89e5b4b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:ae85b95eac40037d5066efa17fb484bc5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#ae85b95eac40037d5066efa17fb484bc5">MakeNotOnPacket</a> (<a class="el" href="../../d1/d60/a11122.html">WorldPacket</a> *data, std::string const &amp;name)</td></tr>
-<tr class="separator:ae85b95eac40037d5066efa17fb484bc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adaa40ae2ebbe9b50b1b2370d3b40d91c"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#adaa40ae2ebbe9b50b1b2370d3b40d91c">IsGuildEvent</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> flags)</td></tr>
+<tr class="separator:adaa40ae2ebbe9b50b1b2370d3b40d91c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae2ad380a63bd2a0c854a236c929875f9"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#ae2ad380a63bd2a0c854a236c929875f9">IsGuildAnnouncement</a> (<a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> flags)</td></tr>
+<tr class="separator:ae2ad380a63bd2a0c854a236c929875f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a823810bd463e51a0fb007712717f13dd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/da9/a07530.html#a84c686f095464d67f750309244a47ba5">ChannelMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a823810bd463e51a0fb007712717f13dd">channels</a></td></tr>
-<tr class="separator:a823810bd463e51a0fb007712717f13dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1ac5de545c0cb91088176fae883748ed"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a1ac5de545c0cb91088176fae883748ed">_teamId</a></td></tr>
-<tr class="separator:a1ac5de545c0cb91088176fae883748ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-static-attribs" name="pri-static-attribs"></a>
-Static Private Attributes</h2></td></tr>
-<tr class="memitem:adfc7c2e0156b2dc290c1c0f307a6911f"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d1/da9/a07530.html#a4e153c81aede8182160b0a5ab89e5b4b">ChannelRightsMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#adfc7c2e0156b2dc290c1c0f307a6911f">channels_rights</a></td></tr>
-<tr class="separator:adfc7c2e0156b2dc290c1c0f307a6911f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aecb848ba8e3cfa8ccdb84a1f62a26ab9"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d0/d13/a07518.html">ChannelRights</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#aecb848ba8e3cfa8ccdb84a1f62a26ab9">channelRightsEmpty</a></td></tr>
-<tr class="separator:aecb848ba8e3cfa8ccdb84a1f62a26ab9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a00984cdf7353d8e7236da4956eea2976"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a00984cdf7353d8e7236da4956eea2976">_eventId</a></td></tr>
+<tr class="separator:a00984cdf7353d8e7236da4956eea2976"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a013a8dbbc2059c35ac7482c59802c334"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d62/a08470.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a013a8dbbc2059c35ac7482c59802c334">_creatorGUID</a></td></tr>
+<tr class="separator:a013a8dbbc2059c35ac7482c59802c334"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a849efebab349382a1f21b2ec209c2fad"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a849efebab349382a1f21b2ec209c2fad">_guildId</a></td></tr>
+<tr class="separator:a849efebab349382a1f21b2ec209c2fad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3bb48f86b613d9bdcd3011b51a13cfbf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d7d/a00161.html#aabfde90a2fd31d4aa93fac9f496c12fc">CalendarEventType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a3bb48f86b613d9bdcd3011b51a13cfbf">_type</a></td></tr>
+<tr class="separator:a3bb48f86b613d9bdcd3011b51a13cfbf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a53e35070a245c78af909d2c463792823"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a53e35070a245c78af909d2c463792823">_dungeonId</a></td></tr>
+<tr class="separator:a53e35070a245c78af909d2c463792823"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7645e983f30557294542e7595eeb4117"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a7645e983f30557294542e7595eeb4117">_eventTime</a></td></tr>
+<tr class="separator:a7645e983f30557294542e7595eeb4117"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa10c3956af3ba9ad7a7599e439e386a5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#aa10c3956af3ba9ad7a7599e439e386a5">_flags</a></td></tr>
+<tr class="separator:aa10c3956af3ba9ad7a7599e439e386a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afb7cefb70b12adb0dee2d67535c9f751"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#afb7cefb70b12adb0dee2d67535c9f751">_timezoneTime</a></td></tr>
+<tr class="separator:afb7cefb70b12adb0dee2d67535c9f751"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b3da974292eea515f91a136ce374ce2"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a7b3da974292eea515f91a136ce374ce2">_title</a></td></tr>
+<tr class="separator:a7b3da974292eea515f91a136ce374ce2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a37852d77353b86569274368bd6d01076"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d1/da9/a07530.html#a37852d77353b86569274368bd6d01076">_description</a></td></tr>
+<tr class="separator:a37852d77353b86569274368bd6d01076"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="a84c686f095464d67f750309244a47ba5" name="a84c686f095464d67f750309244a47ba5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a84c686f095464d67f750309244a47ba5">&#9670;&#160;</a></span>ChannelMap</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a15ff1b83018d11f0a57ee7f0be45f35e" name="a15ff1b83018d11f0a57ee7f0be45f35e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a15ff1b83018d11f0a57ee7f0be45f35e">&#9670;&#160;</a></span>CalendarEvent() <span class="overload">[1/3]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -196,55 +216,157 @@ Static Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">typedef std::unordered_map&lt;std::wstring, <a class="el" href="../../d1/d15/a07522.html">Channel</a>*&gt; <a class="el" href="../../d1/da9/a07530.html#a84c686f095464d67f750309244a47ba5">ChannelMgr::ChannelMap</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a4e153c81aede8182160b0a5ab89e5b4b" name="a4e153c81aede8182160b0a5ab89e5b4b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4e153c81aede8182160b0a5ab89e5b4b">&#9670;&#160;</a></span>ChannelRightsMap</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">typedef std::map&lt;std::string, <a class="el" href="../../d0/d13/a07518.html">ChannelRights</a>&gt; <a class="el" href="../../d1/da9/a07530.html#a4e153c81aede8182160b0a5ab89e5b4b">ChannelMgr::ChannelRightsMap</a></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="aa671334be6933f374466666ec5c6cc46" name="aa671334be6933f374466666ec5c6cc46"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa671334be6933f374466666ec5c6cc46">&#9670;&#160;</a></span>ChannelMgr()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">ChannelMgr::ChannelMgr </td>
+          <td class="memname">CalendarEvent::CalendarEvent </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td>
-          <td class="paramname"><em>teamId</em></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../d1/da9/a07530.html">CalendarEvent</a> const &amp;&#160;</td>
+          <td class="paramname"><em>calendarEvent</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td>
+          <td class="paramname"><em>eventId</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  198</span>    {</div>
+<div class="line"><span class="lineno">  199</span>        <a class="code hl_variable" href="../../d1/da9/a07530.html#a00984cdf7353d8e7236da4956eea2976">_eventId</a> = eventId;</div>
+<div class="line"><span class="lineno">  200</span>        <a class="code hl_variable" href="../../d1/da9/a07530.html#a013a8dbbc2059c35ac7482c59802c334">_creatorGUID</a> = calendarEvent.GetCreatorGUID();</div>
+<div class="line"><span class="lineno">  201</span>        <a class="code hl_variable" href="../../d1/da9/a07530.html#a849efebab349382a1f21b2ec209c2fad">_guildId</a> = calendarEvent.GetGuildId();</div>
+<div class="line"><span class="lineno">  202</span>        <a class="code hl_variable" href="../../d1/da9/a07530.html#a3bb48f86b613d9bdcd3011b51a13cfbf">_type</a> = calendarEvent.GetType();</div>
+<div class="line"><span class="lineno">  203</span>        <a class="code hl_variable" href="../../d1/da9/a07530.html#a53e35070a245c78af909d2c463792823">_dungeonId</a> = calendarEvent.GetDungeonId();</div>
+<div class="line"><span class="lineno">  204</span>        <a class="code hl_variable" href="../../d1/da9/a07530.html#a7645e983f30557294542e7595eeb4117">_eventTime</a> = calendarEvent.GetEventTime();</div>
+<div class="line"><span class="lineno">  205</span>        <a class="code hl_variable" href="../../d1/da9/a07530.html#aa10c3956af3ba9ad7a7599e439e386a5">_flags</a> = calendarEvent.GetFlags();</div>
+<div class="line"><span class="lineno">  206</span>        <a class="code hl_variable" href="../../d1/da9/a07530.html#afb7cefb70b12adb0dee2d67535c9f751">_timezoneTime</a> = calendarEvent.GetTimeZoneTime();</div>
+<div class="line"><span class="lineno">  207</span>        <a class="code hl_variable" href="../../d1/da9/a07530.html#a7b3da974292eea515f91a136ce374ce2">_title</a> = calendarEvent.GetTitle();</div>
+<div class="line"><span class="lineno">  208</span>        <a class="code hl_variable" href="../../d1/da9/a07530.html#a37852d77353b86569274368bd6d01076">_description</a> = calendarEvent.GetDescription();</div>
+<div class="line"><span class="lineno">  209</span>    }</div>
+<div class="ttc" id="aa07530_html_a00984cdf7353d8e7236da4956eea2976"><div class="ttname"><a href="../../d1/da9/a07530.html#a00984cdf7353d8e7236da4956eea2976">CalendarEvent::_eventId</a></div><div class="ttdeci">uint64 _eventId</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:262</div></div>
+<div class="ttc" id="aa07530_html_a013a8dbbc2059c35ac7482c59802c334"><div class="ttname"><a href="../../d1/da9/a07530.html#a013a8dbbc2059c35ac7482c59802c334">CalendarEvent::_creatorGUID</a></div><div class="ttdeci">ObjectGuid _creatorGUID</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:263</div></div>
+<div class="ttc" id="aa07530_html_a37852d77353b86569274368bd6d01076"><div class="ttname"><a href="../../d1/da9/a07530.html#a37852d77353b86569274368bd6d01076">CalendarEvent::_description</a></div><div class="ttdeci">std::string _description</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:271</div></div>
+<div class="ttc" id="aa07530_html_a3bb48f86b613d9bdcd3011b51a13cfbf"><div class="ttname"><a href="../../d1/da9/a07530.html#a3bb48f86b613d9bdcd3011b51a13cfbf">CalendarEvent::_type</a></div><div class="ttdeci">CalendarEventType _type</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:265</div></div>
+<div class="ttc" id="aa07530_html_a53e35070a245c78af909d2c463792823"><div class="ttname"><a href="../../d1/da9/a07530.html#a53e35070a245c78af909d2c463792823">CalendarEvent::_dungeonId</a></div><div class="ttdeci">int32 _dungeonId</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:266</div></div>
+<div class="ttc" id="aa07530_html_a7645e983f30557294542e7595eeb4117"><div class="ttname"><a href="../../d1/da9/a07530.html#a7645e983f30557294542e7595eeb4117">CalendarEvent::_eventTime</a></div><div class="ttdeci">time_t _eventTime</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:267</div></div>
+<div class="ttc" id="aa07530_html_a7b3da974292eea515f91a136ce374ce2"><div class="ttname"><a href="../../d1/da9/a07530.html#a7b3da974292eea515f91a136ce374ce2">CalendarEvent::_title</a></div><div class="ttdeci">std::string _title</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:270</div></div>
+<div class="ttc" id="aa07530_html_a849efebab349382a1f21b2ec209c2fad"><div class="ttname"><a href="../../d1/da9/a07530.html#a849efebab349382a1f21b2ec209c2fad">CalendarEvent::_guildId</a></div><div class="ttdeci">uint32 _guildId</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:264</div></div>
+<div class="ttc" id="aa07530_html_aa10c3956af3ba9ad7a7599e439e386a5"><div class="ttname"><a href="../../d1/da9/a07530.html#aa10c3956af3ba9ad7a7599e439e386a5">CalendarEvent::_flags</a></div><div class="ttdeci">uint32 _flags</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:268</div></div>
+<div class="ttc" id="aa07530_html_afb7cefb70b12adb0dee2d67535c9f751"><div class="ttname"><a href="../../d1/da9/a07530.html#afb7cefb70b12adb0dee2d67535c9f751">CalendarEvent::_timezoneTime</a></div><div class="ttdeci">time_t _timezoneTime</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:269</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00263">_creatorGUID</a>, <a class="el" href="../../#l00271">_description</a>, <a class="el" href="../../#l00266">_dungeonId</a>, <a class="el" href="../../#l00262">_eventId</a>, <a class="el" href="../../#l00267">_eventTime</a>, <a class="el" href="../../#l00268">_flags</a>, <a class="el" href="../../#l00264">_guildId</a>, <a class="el" href="../../#l00269">_timezoneTime</a>, <a class="el" href="../../#l00270">_title</a>, <a class="el" href="../../#l00265">_type</a>, <a class="el" href="../../#l00226">GetCreatorGUID()</a>, <a class="el" href="../../#l00235">GetDescription()</a>, <a class="el" href="../../#l00241">GetDungeonId()</a>, <a class="el" href="../../#l00244">GetEventTime()</a>, <a class="el" href="../../#l00247">GetFlags()</a>, <a class="el" href="../../#l00229">GetGuildId()</a>, <a class="el" href="../../#l00250">GetTimeZoneTime()</a>, <a class="el" href="../../#l00232">GetTitle()</a>, and <a class="el" href="../../#l00238">GetType()</a>.</p>
+
+</div>
+</div>
+<a id="af17038b1fe328a29e649b56e16e5d839" name="af17038b1fe328a29e649b56e16e5d839"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af17038b1fe328a29e649b56e16e5d839">&#9670;&#160;</a></span>CalendarEvent() <span class="overload">[2/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">CalendarEvent::CalendarEvent </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td>
+          <td class="paramname"><em>eventId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d62/a08470.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>creatorGUID</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>guildId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d6/d7d/a00161.html#aabfde90a2fd31d4aa93fac9f496c12fc">CalendarEventType</a>&#160;</td>
+          <td class="paramname"><em>type</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname"><em>dungeonId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">time_t&#160;</td>
+          <td class="paramname"><em>eventTime</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>flags</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">time_t&#160;</td>
+          <td class="paramname"><em>timezoneTime</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string&#160;</td>
+          <td class="paramname"><em>title</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string&#160;</td>
+          <td class="paramname"><em>description</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  212</span>                                                                                                               :</div>
+<div class="line"><span class="lineno">  213</span>        <a class="code hl_variable" href="../../d1/da9/a07530.html#a00984cdf7353d8e7236da4956eea2976">_eventId</a>(eventId), <a class="code hl_variable" href="../../d1/da9/a07530.html#a013a8dbbc2059c35ac7482c59802c334">_creatorGUID</a>(creatorGUID), <a class="code hl_variable" href="../../d1/da9/a07530.html#a849efebab349382a1f21b2ec209c2fad">_guildId</a>(guildId), <a class="code hl_variable" href="../../d1/da9/a07530.html#a3bb48f86b613d9bdcd3011b51a13cfbf">_type</a>(type), <a class="code hl_variable" href="../../d1/da9/a07530.html#a53e35070a245c78af909d2c463792823">_dungeonId</a>(dungeonId),</div>
+<div class="line"><span class="lineno">  214</span>        <a class="code hl_variable" href="../../d1/da9/a07530.html#a7645e983f30557294542e7595eeb4117">_eventTime</a>(eventTime), <a class="code hl_variable" href="../../d1/da9/a07530.html#aa10c3956af3ba9ad7a7599e439e386a5">_flags</a>(flags), <a class="code hl_variable" href="../../d1/da9/a07530.html#afb7cefb70b12adb0dee2d67535c9f751">_timezoneTime</a>(timezoneTime), <a class="code hl_variable" href="../../d1/da9/a07530.html#a7b3da974292eea515f91a136ce374ce2">_title</a>(title),</div>
+<div class="line"><span class="lineno">  215</span>        <a class="code hl_variable" href="../../d1/da9/a07530.html#a37852d77353b86569274368bd6d01076">_description</a>(description) { }</div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="ad8112a5e8a1a4d50bf01ae5b341b4b0b" name="ad8112a5e8a1a4d50bf01ae5b341b4b0b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad8112a5e8a1a4d50bf01ae5b341b4b0b">&#9670;&#160;</a></span>CalendarEvent() <span class="overload">[3/3]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">CalendarEvent::CalendarEvent </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
@@ -254,322 +376,101 @@ Static Private Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   34</span>                              : <a class="code hl_variable" href="../../d1/da9/a07530.html#a1ac5de545c0cb91088176fae883748ed">_teamId</a>(teamId)</div>
-<div class="line"><span class="lineno">   35</span>    { }</div>
-<div class="ttc" id="aa07530_html_a1ac5de545c0cb91088176fae883748ed"><div class="ttname"><a href="../../d1/da9/a07530.html#a1ac5de545c0cb91088176fae883748ed">ChannelMgr::_teamId</a></div><div class="ttdeci">TeamId _teamId</div><div class="ttdef"><b>Definition:</b> ChannelMgr.h:52</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  217</span>                    : <a class="code hl_variable" href="../../d1/da9/a07530.html#a00984cdf7353d8e7236da4956eea2976">_eventId</a>(1), <a class="code hl_variable" href="../../d1/da9/a07530.html#a849efebab349382a1f21b2ec209c2fad">_guildId</a>(0), <a class="code hl_variable" href="../../d1/da9/a07530.html#a3bb48f86b613d9bdcd3011b51a13cfbf">_type</a>(<a class="code hl_enumvalue" href="../../d6/d7d/a00161.html#aabfde90a2fd31d4aa93fac9f496c12fca01ce2bdc9dc2ced0772ef714f873f397">CALENDAR_TYPE_OTHER</a>), <a class="code hl_variable" href="../../d1/da9/a07530.html#a53e35070a245c78af909d2c463792823">_dungeonId</a>(-1), <a class="code hl_variable" href="../../d1/da9/a07530.html#a7645e983f30557294542e7595eeb4117">_eventTime</a>(0),</div>
+<div class="line"><span class="lineno">  218</span>        <a class="code hl_variable" href="../../d1/da9/a07530.html#aa10c3956af3ba9ad7a7599e439e386a5">_flags</a>(0), <a class="code hl_variable" href="../../d1/da9/a07530.html#afb7cefb70b12adb0dee2d67535c9f751">_timezoneTime</a>(0), <a class="code hl_variable" href="../../d1/da9/a07530.html#a7b3da974292eea515f91a136ce374ce2">_title</a>(<span class="stringliteral">&quot;&quot;</span>), <a class="code hl_variable" href="../../d1/da9/a07530.html#a37852d77353b86569274368bd6d01076">_description</a>(<span class="stringliteral">&quot;&quot;</span>) { }</div>
+<div class="ttc" id="aa00161_html_aabfde90a2fd31d4aa93fac9f496c12fca01ce2bdc9dc2ced0772ef714f873f397"><div class="ttname"><a href="../../d6/d7d/a00161.html#aabfde90a2fd31d4aa93fac9f496c12fca01ce2bdc9dc2ced0772ef714f873f397">CALENDAR_TYPE_OTHER</a></div><div class="ttdeci">@ CALENDAR_TYPE_OTHER</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:63</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a2f9099cf528aacae9110d349841e57a7" name="a2f9099cf528aacae9110d349841e57a7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2f9099cf528aacae9110d349841e57a7">&#9670;&#160;</a></span>~ChannelMgr()</h2>
+<a id="acf06b49619c9ca1c27ee473ff295f848" name="acf06b49619c9ca1c27ee473ff295f848"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acf06b49619c9ca1c27ee473ff295f848">&#9670;&#160;</a></span>~CalendarEvent()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">ChannelMgr::~ChannelMgr </td>
+          <td class="memname">CalendarEvent::~CalendarEvent </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
-<div class="line"><span class="lineno">   27</span>    <span class="keywordflow">for</span> (ChannelMap::iterator itr = <a class="code hl_variable" href="../../d1/da9/a07530.html#a823810bd463e51a0fb007712717f13dd">channels</a>.begin(); itr != <a class="code hl_variable" href="../../d1/da9/a07530.html#a823810bd463e51a0fb007712717f13dd">channels</a>.end(); ++itr)</div>
-<div class="line"><span class="lineno">   28</span>        <span class="keyword">delete</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">   29</span> </div>
-<div class="line"><span class="lineno">   30</span>    <a class="code hl_variable" href="../../d1/da9/a07530.html#a823810bd463e51a0fb007712717f13dd">channels</a>.clear();</div>
-<div class="line"><span class="lineno">   31</span>}</div>
-<div class="ttc" id="aa07530_html_a823810bd463e51a0fb007712717f13dd"><div class="ttname"><a href="../../d1/da9/a07530.html#a823810bd463e51a0fb007712717f13dd">ChannelMgr::channels</a></div><div class="ttdeci">ChannelMap channels</div><div class="ttdef"><b>Definition:</b> ChannelMgr.h:51</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   39</span>{</div>
+<div class="line"><span class="lineno">   40</span>    <a class="code hl_define" href="../../d6/d7d/a00161.html#a19ac4cd787f75380716d027d20c06b7a">sCalendarMgr</a>-&gt;FreeEventId(<a class="code hl_variable" href="../../d1/da9/a07530.html#a00984cdf7353d8e7236da4956eea2976">_eventId</a>);</div>
+<div class="line"><span class="lineno">   41</span>}</div>
+<div class="ttc" id="aa00161_html_a19ac4cd787f75380716d027d20c06b7a"><div class="ttname"><a href="../../d6/d7d/a00161.html#a19ac4cd787f75380716d027d20c06b7a">sCalendarMgr</a></div><div class="ttdeci">#define sCalendarMgr</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:344</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">channels</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00262">_eventId</a>, and <a class="el" href="../../#l00344">sCalendarMgr</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a62fd837572c3c88d8848115c98587401" name="a62fd837572c3c88d8848115c98587401"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a62fd837572c3c88d8848115c98587401">&#9670;&#160;</a></span>forTeam()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d1/da9/a07530.html">ChannelMgr</a> * ChannelMgr::forTeam </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>&#160;</td>
-          <td class="paramname"><em>teamId</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   34</span>{</div>
-<div class="line"><span class="lineno">   35</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../d1/da9/a07530.html">ChannelMgr</a> allianceChannelMgr(<a class="code hl_enumvalue" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a>);</div>
-<div class="line"><span class="lineno">   36</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../d1/da9/a07530.html">ChannelMgr</a> hordeChannelMgr(<a class="code hl_enumvalue" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a>);</div>
-<div class="line"><span class="lineno">   37</span> </div>
-<div class="line"><span class="lineno">   38</span>    <span class="keywordflow">if</span> (<a class="code hl_define" href="../../da/d11/a04792.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a>-&gt;getBoolConfig(<a class="code hl_enumvalue" href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0a879f8d504a1145cd0389319cbbda6281">CONFIG_ALLOW_TWO_SIDE_INTERACTION_CHANNEL</a>))</div>
-<div class="line"><span class="lineno">   39</span>        <span class="keywordflow">return</span> &amp;allianceChannelMgr;        <span class="comment">// cross-faction</span></div>
-<div class="line"><span class="lineno">   40</span> </div>
-<div class="line"><span class="lineno">   41</span>    <span class="keywordflow">if</span> (teamId == <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a>)</div>
-<div class="line"><span class="lineno">   42</span>        <span class="keywordflow">return</span> &amp;allianceChannelMgr;</div>
-<div class="line"><span class="lineno">   43</span> </div>
-<div class="line"><span class="lineno">   44</span>    <span class="keywordflow">if</span> (teamId == <a class="code hl_enumvalue" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a>)</div>
-<div class="line"><span class="lineno">   45</span>        <span class="keywordflow">return</span> &amp;hordeChannelMgr;</div>
-<div class="line"><span class="lineno">   46</span> </div>
-<div class="line"><span class="lineno">   47</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   48</span>}</div>
-<div class="ttc" id="aa02939_html_a468ad15992691eb97dd20680046832e0a879f8d504a1145cd0389319cbbda6281"><div class="ttname"><a href="../../de/d87/a02939.html#a468ad15992691eb97dd20680046832e0a879f8d504a1145cd0389319cbbda6281">CONFIG_ALLOW_TWO_SIDE_INTERACTION_CHANNEL</a></div><div class="ttdeci">@ CONFIG_ALLOW_TWO_SIDE_INTERACTION_CHANNEL</div><div class="ttdef"><b>Definition:</b> WorldConfig.h:33</div></div>
-<div class="ttc" id="aa04727_html_abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e"><div class="ttname"><a href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a77ec52d5d5f9771c1ac94fddaf7fb84e">TEAM_ALLIANCE</a></div><div class="ttdeci">@ TEAM_ALLIANCE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:771</div></div>
-<div class="ttc" id="aa04727_html_abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a"><div class="ttname"><a href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865a80bb98f9049563b07d3b738a0783366a">TEAM_HORDE</a></div><div class="ttdeci">@ TEAM_HORDE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:772</div></div>
-<div class="ttc" id="aa04792_html_ga05dfb35c344e5b947a19e4284e7f5fa7"><div class="ttname"><a href="../../da/d11/a04792.html#ga05dfb35c344e5b947a19e4284e7f5fa7">sWorld</a></div><div class="ttdeci">#define sWorld</div><div class="ttdef"><b>Definition:</b> World.h:317</div></div>
-<div class="ttc" id="aa07530_html"><div class="ttname"><a href="../../d1/da9/a07530.html">ChannelMgr</a></div><div class="ttdef"><b>Definition:</b> ChannelMgr.h:29</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00033">CONFIG_ALLOW_TWO_SIDE_INTERACTION_CHANNEL</a>, <a class="el" href="../../#l00317">sWorld</a>, <a class="el" href="../../#l00771">TEAM_ALLIANCE</a>, and <a class="el" href="../../#l00772">TEAM_HORDE</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00248">WorldSession::HandleChannelAnnouncements()</a>, <a class="el" href="../../#l00218">WorldSession::HandleChannelBan()</a>, <a class="el" href="../../#l00188">WorldSession::HandleChannelInvite()</a>, <a class="el" href="../../#l00203">WorldSession::HandleChannelKick()</a>, <a class="el" href="../../#l00073">WorldSession::HandleChannelList()</a>, <a class="el" href="../../#l00260">WorldSession::HandleChannelModerateOpcode()</a>, <a class="el" href="../../#l00128">WorldSession::HandleChannelModerator()</a>, <a class="el" href="../../#l00158">WorldSession::HandleChannelMute()</a>, <a class="el" href="../../#l00116">WorldSession::HandleChannelOwner()</a>, <a class="el" href="../../#l00086">WorldSession::HandleChannelPassword()</a>, <a class="el" href="../../#l00101">WorldSession::HandleChannelSetOwner()</a>, <a class="el" href="../../#l00233">WorldSession::HandleChannelUnban()</a>, <a class="el" href="../../#l00143">WorldSession::HandleChannelUnmoderator()</a>, <a class="el" href="../../#l00173">WorldSession::HandleChannelUnmute()</a>, <a class="el" href="../../#l00317">WorldSession::HandleClearChannelWatch()</a>, <a class="el" href="../../#l00279">WorldSession::HandleGetChannelMemberCount()</a>, <a class="el" href="../../#l00023">WorldSession::HandleJoinChannel()</a>, <a class="el" href="../../#l00057">WorldSession::HandleLeaveChannel()</a>, <a class="el" href="../../#l00059">WorldSession::HandleMessagechatOpcode()</a>, <a class="el" href="../../#l00302">WorldSession::HandleSetChannelWatch()</a>, <a class="el" href="../../#l00050">LoadChannels()</a>, <a class="el" href="../../#l00464">Player::UpdateLFGChannel()</a>, and <a class="el" href="../../#l00502">Player::UpdateLocalChannels()</a>.</p>
-
-</div>
-</div>
-<a id="a89dbd4095eeeb79ae59947beb2d2cd17" name="a89dbd4095eeeb79ae59947beb2d2cd17"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a89dbd4095eeeb79ae59947beb2d2cd17">&#9670;&#160;</a></span>GetChannel()</h2>
+<a id="ad181c3acd9f5d2537e6de717e3069001" name="ad181c3acd9f5d2537e6de717e3069001"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad181c3acd9f5d2537e6de717e3069001">&#9670;&#160;</a></span>BuildCalendarMailBody()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/d15/a07522.html">Channel</a> * ChannelMgr::GetChannel </td>
-          <td>(</td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>name</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../da/ddb/a08650.html">Player</a> *&#160;</td>
-          <td class="paramname"><em>p</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>pkt</em> = <code>true</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  140</span>{</div>
-<div class="line"><span class="lineno">  141</span>    std::wstring wname;</div>
-<div class="line"><span class="lineno">  142</span>    <a class="code hl_function" href="../../d3/d8b/a00059.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a>(name, wname);</div>
-<div class="line"><span class="lineno">  143</span>    <a class="code hl_function" href="../../d3/d8b/a00059.html#a58af07e1af657c56b4a20b6c7ef83615">wstrToLower</a>(wname);</div>
-<div class="line"><span class="lineno">  144</span> </div>
-<div class="line"><span class="lineno">  145</span>    ChannelMap::const_iterator i = <a class="code hl_variable" href="../../d1/da9/a07530.html#a823810bd463e51a0fb007712717f13dd">channels</a>.find(wname);</div>
-<div class="line"><span class="lineno">  146</span> </div>
-<div class="line"><span class="lineno">  147</span>    <span class="keywordflow">if</span> (i == <a class="code hl_variable" href="../../d1/da9/a07530.html#a823810bd463e51a0fb007712717f13dd">channels</a>.end())</div>
-<div class="line"><span class="lineno">  148</span>    {</div>
-<div class="line"><span class="lineno">  149</span>        <span class="keywordflow">if</span> (pkt)</div>
-<div class="line"><span class="lineno">  150</span>        {</div>
-<div class="line"><span class="lineno">  151</span>            <a class="code hl_class" href="../../d1/d60/a11122.html">WorldPacket</a> data;</div>
-<div class="line"><span class="lineno">  152</span>            <a class="code hl_function" href="../../d1/da9/a07530.html#ae85b95eac40037d5066efa17fb484bc5">MakeNotOnPacket</a>(&amp;data, name);</div>
-<div class="line"><span class="lineno">  153</span>            player-&gt;GetSession()-&gt;SendPacket(&amp;data);</div>
-<div class="line"><span class="lineno">  154</span>        }</div>
-<div class="line"><span class="lineno">  155</span> </div>
-<div class="line"><span class="lineno">  156</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">  157</span>    }</div>
-<div class="line"><span class="lineno">  158</span> </div>
-<div class="line"><span class="lineno">  159</span>    <span class="keywordflow">return</span> i-&gt;second;</div>
-<div class="line"><span class="lineno">  160</span>}</div>
-<div class="ttc" id="aa00059_html_a096388bd1034eb78e43e5d60cc4f657a"><div class="ttname"><a href="../../d3/d8b/a00059.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a></div><div class="ttdeci">bool Utf8toWStr(char const *utf8str, std::size_t csize, wchar_t *wstr, std::size_t &amp;wsize)</div><div class="ttdef"><b>Definition:</b> Util.cpp:281</div></div>
-<div class="ttc" id="aa00059_html_a58af07e1af657c56b4a20b6c7ef83615"><div class="ttname"><a href="../../d3/d8b/a00059.html#a58af07e1af657c56b4a20b6c7ef83615">wstrToLower</a></div><div class="ttdeci">void wstrToLower(std::wstring &amp;str)</div><div class="ttdef"><b>Definition:</b> Util.cpp:382</div></div>
-<div class="ttc" id="aa07530_html_ae85b95eac40037d5066efa17fb484bc5"><div class="ttname"><a href="../../d1/da9/a07530.html#ae85b95eac40037d5066efa17fb484bc5">ChannelMgr::MakeNotOnPacket</a></div><div class="ttdeci">void MakeNotOnPacket(WorldPacket *data, std::string const &amp;name)</div><div class="ttdef"><b>Definition:</b> ChannelMgr.cpp:225</div></div>
-<div class="ttc" id="aa11122_html"><div class="ttname"><a href="../../d1/d60/a11122.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00051">channels</a>, <a class="el" href="../../#l02005">Player::GetSession()</a>, <a class="el" href="../../#l00225">MakeNotOnPacket()</a>, <a class="el" href="../../#l00251">WorldSession::SendPacket()</a>, <a class="el" href="../../#l00281">Utf8toWStr()</a>, and <a class="el" href="../../#l00382">wstrToLower()</a>.</p>
-
-</div>
-</div>
-<a id="a5cc03c09dfc33a89d3d4f59d1e92d757" name="a5cc03c09dfc33a89d3d4f59d1e92d757"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5cc03c09dfc33a89d3d4f59d1e92d757">&#9670;&#160;</a></span>GetChannelRightsFor()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">const <a class="el" href="../../d0/d13/a07518.html">ChannelRights</a> &amp; ChannelMgr::GetChannelRightsFor </td>
-          <td>(</td>
-          <td class="paramtype">const std::string &amp;&#160;</td>
-          <td class="paramname"><em>name</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  209</span>{</div>
-<div class="line"><span class="lineno">  210</span>    std::string nameStr = name;</div>
-<div class="line"><span class="lineno">  211</span>    std::transform(nameStr.begin(), nameStr.end(), nameStr.begin(), ::tolower);</div>
-<div class="line"><span class="lineno">  212</span>    ChannelRightsMap::const_iterator itr = <a class="code hl_variable" href="../../d1/da9/a07530.html#adfc7c2e0156b2dc290c1c0f307a6911f">channels_rights</a>.find(nameStr);</div>
-<div class="line"><span class="lineno">  213</span>    <span class="keywordflow">if</span> (itr != <a class="code hl_variable" href="../../d1/da9/a07530.html#adfc7c2e0156b2dc290c1c0f307a6911f">channels_rights</a>.end())</div>
-<div class="line"><span class="lineno">  214</span>        <span class="keywordflow">return</span> itr-&gt;second;</div>
-<div class="line"><span class="lineno">  215</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/da9/a07530.html#aecb848ba8e3cfa8ccdb84a1f62a26ab9">channelRightsEmpty</a>;</div>
-<div class="line"><span class="lineno">  216</span>}</div>
-<div class="ttc" id="aa07530_html_adfc7c2e0156b2dc290c1c0f307a6911f"><div class="ttname"><a href="../../d1/da9/a07530.html#adfc7c2e0156b2dc290c1c0f307a6911f">ChannelMgr::channels_rights</a></div><div class="ttdeci">static ChannelRightsMap channels_rights</div><div class="ttdef"><b>Definition:</b> ChannelMgr.h:53</div></div>
-<div class="ttc" id="aa07530_html_aecb848ba8e3cfa8ccdb84a1f62a26ab9"><div class="ttname"><a href="../../d1/da9/a07530.html#aecb848ba8e3cfa8ccdb84a1f62a26ab9">ChannelMgr::channelRightsEmpty</a></div><div class="ttdeci">static ChannelRights channelRightsEmpty</div><div class="ttdef"><b>Definition:</b> ChannelMgr.h:54</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00054">channelRightsEmpty</a>, and <a class="el" href="../../#l00053">channels_rights</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00029">Channel::Channel()</a>.</p>
-
-</div>
-</div>
-<a id="a92540d37b38ccc032665fa220349a4ec" name="a92540d37b38ccc032665fa220349a4ec"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a92540d37b38ccc032665fa220349a4ec">&#9670;&#160;</a></span>GetJoinChannel()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d1/d15/a07522.html">Channel</a> * ChannelMgr::GetJoinChannel </td>
-          <td>(</td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>name</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>channel_id</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  122</span>{</div>
-<div class="line"><span class="lineno">  123</span>    std::wstring wname;</div>
-<div class="line"><span class="lineno">  124</span>    <a class="code hl_function" href="../../d3/d8b/a00059.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a>(name, wname);</div>
-<div class="line"><span class="lineno">  125</span>    <a class="code hl_function" href="../../d3/d8b/a00059.html#a58af07e1af657c56b4a20b6c7ef83615">wstrToLower</a>(wname);</div>
-<div class="line"><span class="lineno">  126</span> </div>
-<div class="line"><span class="lineno">  127</span>    ChannelMap::const_iterator i = <a class="code hl_variable" href="../../d1/da9/a07530.html#a823810bd463e51a0fb007712717f13dd">channels</a>.find(wname);</div>
-<div class="line"><span class="lineno">  128</span> </div>
-<div class="line"><span class="lineno">  129</span>    <span class="keywordflow">if</span> (i == <a class="code hl_variable" href="../../d1/da9/a07530.html#a823810bd463e51a0fb007712717f13dd">channels</a>.end())</div>
-<div class="line"><span class="lineno">  130</span>    {</div>
-<div class="line"><span class="lineno">  131</span>        <a class="code hl_class" href="../../d1/d15/a07522.html">Channel</a>* nchan = <span class="keyword">new</span> <a class="code hl_class" href="../../d1/d15/a07522.html">Channel</a>(name, channelId, 0, <a class="code hl_variable" href="../../d1/da9/a07530.html#a1ac5de545c0cb91088176fae883748ed">_teamId</a>);</div>
-<div class="line"><span class="lineno">  132</span>        <a class="code hl_variable" href="../../d1/da9/a07530.html#a823810bd463e51a0fb007712717f13dd">channels</a>[wname] = nchan;</div>
-<div class="line"><span class="lineno">  133</span>        <span class="keywordflow">return</span> nchan;</div>
-<div class="line"><span class="lineno">  134</span>    }</div>
-<div class="line"><span class="lineno">  135</span> </div>
-<div class="line"><span class="lineno">  136</span>    <span class="keywordflow">return</span> i-&gt;second;</div>
-<div class="line"><span class="lineno">  137</span>}</div>
-<div class="ttc" id="aa07522_html"><div class="ttname"><a href="../../d1/d15/a07522.html">Channel</a></div><div class="ttdef"><b>Definition:</b> Channel.h:144</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00052">_teamId</a>, <a class="el" href="../../#l00051">channels</a>, <a class="el" href="../../#l00281">Utf8toWStr()</a>, and <a class="el" href="../../#l00382">wstrToLower()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00464">Player::UpdateLFGChannel()</a>, and <a class="el" href="../../#l00502">Player::UpdateLocalChannels()</a>.</p>
-
-</div>
-</div>
-<a id="a4fa043d2c61f5013d62b192d46bd453a" name="a4fa043d2c61f5013d62b192d46bd453a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4fa043d2c61f5013d62b192d46bd453a">&#9670;&#160;</a></span>LoadChannelRights()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void ChannelMgr::LoadChannelRights </td>
+          <td class="memname">std::string CalendarEvent::BuildCalendarMailBody </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td> const</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  167</span>{</div>
-<div class="line"><span class="lineno">  168</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../d1/d44/a00098.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
-<div class="line"><span class="lineno">  169</span>    <a class="code hl_variable" href="../../d1/da9/a07530.html#adfc7c2e0156b2dc290c1c0f307a6911f">channels_rights</a>.clear();</div>
-<div class="line"><span class="lineno">  170</span> </div>
-<div class="line"><span class="lineno">  171</span>    <a class="code hl_typedef" href="../../de/d69/a04679.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d6/d12/a04691.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(<span class="stringliteral">&quot;SELECT name, flags, speakdelay, joinmessage, delaymessage, moderators FROM channels_rights&quot;</span>);</div>
-<div class="line"><span class="lineno">  172</span>    <span class="keywordflow">if</span> (!result)</div>
-<div class="line"><span class="lineno">  173</span>    {</div>
-<div class="line"><span class="lineno">  174</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 Channel Rights!&quot;</span>);</div>
-<div class="line"><span class="lineno">  175</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">  176</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  177</span>    }</div>
-<div class="line"><span class="lineno">  178</span> </div>
-<div class="line"><span class="lineno">  179</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
-<div class="line"><span class="lineno">  180</span>    <span class="keywordflow">do</span></div>
-<div class="line"><span class="lineno">  181</span>    {</div>
-<div class="line"><span class="lineno">  182</span>        <a class="code hl_class" href="../../d7/d55/a05750.html">Field</a>* fields = result-&gt;Fetch();</div>
-<div class="line"><span class="lineno">  183</span>        std::set&lt;uint32&gt; moderators;</div>
-<div class="line"><span class="lineno">  184</span>        <span class="keyword">auto</span> moderatorList = fields[5].<a class="code hl_function" href="../../d7/d55/a05750.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string_view&gt;();</div>
-<div class="line"><span class="lineno">  185</span> </div>
-<div class="line"><span class="lineno">  186</span>        <span class="keywordflow">if</span> (!moderatorList.empty())</div>
-<div class="line"><span class="lineno">  187</span>        {</div>
-<div class="line"><span class="lineno">  188</span>            <span class="keywordflow">for</span> (<span class="keyword">auto</span> <span class="keyword">const</span>&amp; itr : <a class="code hl_function" href="../../d3/d7d/a04797.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a>(moderatorList, <span class="charliteral">&#39; &#39;</span>, <span class="keyword">false</span>))</div>
-<div class="line"><span class="lineno">  189</span>            {</div>
-<div class="line"><span class="lineno">  190</span>                <a class="code hl_typedef" href="../../d0/d61/a00302.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> moderator_acc = Acore::StringTo&lt;uint64&gt;(itr).value_or(0);</div>
-<div class="line"><span class="lineno">  191</span> </div>
-<div class="line"><span class="lineno">  192</span>                <span class="keywordflow">if</span> (moderator_acc &amp;&amp; ((<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)moderator_acc) == moderator_acc)</div>
-<div class="line"><span class="lineno">  193</span>                {</div>
-<div class="line"><span class="lineno">  194</span>                    moderators.insert((<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>)moderator_acc);</div>
-<div class="line"><span class="lineno">  195</span>                }</div>
-<div class="line"><span class="lineno">  196</span>            }</div>
-<div class="line"><span class="lineno">  197</span>        }</div>
-<div class="line"><span class="lineno">  198</span> </div>
-<div class="line"><span class="lineno">  199</span>        <a class="code hl_function" href="../../d1/da9/a07530.html#a1d672ab806b5e00bdd96d3a56fe3520b">SetChannelRightsFor</a>(fields[0].Get&lt;std::string&gt;(), fields[1].Get&lt;uint32&gt;(), fields[2].Get&lt;uint32&gt;(), fields[3].Get&lt;std::string&gt;(), fields[4].Get&lt;std::string&gt;(), moderators);</div>
-<div class="line"><span class="lineno">  200</span> </div>
-<div class="line"><span class="lineno">  201</span>        ++count;</div>
-<div class="line"><span class="lineno">  202</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
-<div class="line"><span class="lineno">  203</span> </div>
-<div class="line"><span class="lineno">  204</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} Channel Rights in {} ms&quot;</span>, count, <a class="code hl_function" href="../../d1/d44/a00098.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
-<div class="line"><span class="lineno">  205</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">  206</span>}</div>
-<div class="ttc" id="aa00098_html_a23a2c8663a05f2b03a6f85501972e8c0"><div class="ttname"><a href="../../d1/d44/a00098.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a></div><div class="ttdeci">uint32 GetMSTimeDiffToNow(uint32 oldMSTime)</div><div class="ttdef"><b>Definition:</b> Timer.h:131</div></div>
-<div class="ttc" id="aa00098_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../d1/d44/a00098.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:103</div></div>
-<div class="ttc" id="aa00302_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa00302_html_ac4dd6ce78ce3b840c53bd4b3c63ed09b"><div class="ttname"><a href="../../d0/d61/a00302.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a></div><div class="ttdeci">std::uint64_t uint64</div><div class="ttdef"><b>Definition:</b> Define.h:106</div></div>
-<div class="ttc" id="aa00494_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
-<div class="ttc" id="aa00494_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../d5/d0f/a00494.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:162</div></div>
-<div class="ttc" id="aa04679_html_ab0c9feeec448a181290fcb39565b8253"><div class="ttname"><a href="../../de/d69/a04679.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; ResultSet &gt; QueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:27</div></div>
-<div class="ttc" id="aa04691_html_a7e7534bc66d79434bd280b77cb124eec"><div class="ttname"><a href="../../d6/d12/a04691.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; CharacterDatabaseConnection &gt; CharacterDatabase</div><div class="ttdoc">Accessor to the character database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:21</div></div>
-<div class="ttc" id="aa04797_html_a6b121485ace4118b9006db1fb89f90f2"><div class="ttname"><a href="../../d3/d7d/a04797.html#a6b121485ace4118b9006db1fb89f90f2">Acore::Tokenize</a></div><div class="ttdeci">std::vector&lt; std::string_view &gt; Tokenize(std::string_view str, char sep, bool keepEmpty)</div><div class="ttdef"><b>Definition:</b> Tokenize.cpp:20</div></div>
-<div class="ttc" id="aa05750_html"><div class="ttname"><a href="../../d7/d55/a05750.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:98</div></div>
-<div class="ttc" id="aa05750_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d7/d55/a05750.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:112</div></div>
-<div class="ttc" id="aa07530_html_a1d672ab806b5e00bdd96d3a56fe3520b"><div class="ttname"><a href="../../d1/da9/a07530.html#a1d672ab806b5e00bdd96d3a56fe3520b">ChannelMgr::SetChannelRightsFor</a></div><div class="ttdeci">static void SetChannelRightsFor(const std::string &amp;name, const uint32 &amp;flags, const uint32 &amp;speakDelay, const std::string &amp;joinmessage, const std::string &amp;speakmessage, const std::set&lt; uint32 &gt; &amp;moderators)</div><div class="ttdef"><b>Definition:</b> ChannelMgr.cpp:218</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  491</span>{</div>
+<div class="line"><span class="lineno">  492</span>    <a class="code hl_class" href="../../d5/d11/a11170.html">WorldPacket</a> data;</div>
+<div class="line"><span class="lineno">  493</span>    <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> time;</div>
+<div class="line"><span class="lineno">  494</span>    std::ostringstream strm;</div>
+<div class="line"><span class="lineno">  495</span> </div>
+<div class="line"><span class="lineno">  496</span>    <span class="comment">// we are supposed to send PackedTime so i used WorldPacket to pack it</span></div>
+<div class="line"><span class="lineno">  497</span>    data.<a class="code hl_function" href="../../d2/da2/a28730.html#aa7b1246e84bc9010cf14a66385b85e07">AppendPackedTime</a>(<a class="code hl_variable" href="../../d1/da9/a07530.html#a7645e983f30557294542e7595eeb4117">_eventTime</a>);</div>
+<div class="line"><span class="lineno">  498</span>    data &gt;&gt; time;</div>
+<div class="line"><span class="lineno">  499</span>    strm &lt;&lt; time;</div>
+<div class="line"><span class="lineno">  500</span>    <span class="keywordflow">return</span> strm.str();</div>
+<div class="line"><span class="lineno">  501</span>}</div>
+<div class="ttc" id="aa04310_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa11170_html"><div class="ttname"><a href="../../d5/d11/a11170.html">WorldPacket</a></div><div class="ttdef"><b>Definition:</b> WorldPacket.h:26</div></div>
+<div class="ttc" id="aa28730_html_aa7b1246e84bc9010cf14a66385b85e07"><div class="ttname"><a href="../../d2/da2/a28730.html#aa7b1246e84bc9010cf14a66385b85e07">ByteBuffer::AppendPackedTime</a></div><div class="ttdeci">void AppendPackedTime(time_t time)</div><div class="ttdef"><b>Definition:</b> ByteBuffer.cpp:137</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00053">channels_rights</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l00218">SetChannelRightsFor()</a>, and <a class="el" href="../../#l00020">Acore::Tokenize()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00267">_eventTime</a>, and <a class="el" href="../../#l00137">ByteBuffer::AppendPackedTime()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00303">World::SetInitialWorldSettings()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00172">CalendarMgr::RemoveEvent()</a>.</p>
 
 </div>
 </div>
-<a id="a73e822c758aacb7f959407b100b9aff6" name="a73e822c758aacb7f959407b100b9aff6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a73e822c758aacb7f959407b100b9aff6">&#9670;&#160;</a></span>LoadChannels()</h2>
+<a id="a0fce8ef7d6c645c0e25ab4f8167c9dfc" name="a0fce8ef7d6c645c0e25ab4f8167c9dfc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0fce8ef7d6c645c0e25ab4f8167c9dfc">&#9670;&#160;</a></span>BuildCalendarMailSubject()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string CalendarEvent::BuildCalendarMailSubject </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d62/a08470.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>remover</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  484</span>{</div>
+<div class="line"><span class="lineno">  485</span>    std::ostringstream strm;</div>
+<div class="line"><span class="lineno">  486</span>    strm &lt;&lt; remover.<a class="code hl_function" href="../../d9/d62/a08470.html#a78f5fb47e3b35addf8984000c175125b">ToString</a>() &lt;&lt; <span class="charliteral">&#39;:&#39;</span> &lt;&lt; <a class="code hl_variable" href="../../d1/da9/a07530.html#a7b3da974292eea515f91a136ce374ce2">_title</a>;</div>
+<div class="line"><span class="lineno">  487</span>    <span class="keywordflow">return</span> strm.str();</div>
+<div class="line"><span class="lineno">  488</span>}</div>
+<div class="ttc" id="aa08470_html_a78f5fb47e3b35addf8984000c175125b"><div class="ttname"><a href="../../d9/d62/a08470.html#a78f5fb47e3b35addf8984000c175125b">ObjectGuid::ToString</a></div><div class="ttdeci">std::string ToString() const</div><div class="ttdef"><b>Definition:</b> ObjectGuid.cpp:47</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00270">_title</a>, and <a class="el" href="../../#l00047">ObjectGuid::ToString()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00172">CalendarMgr::RemoveEvent()</a>.</p>
+
+</div>
+</div>
+<a id="a1e9299779adc7abf42a01eb1c403aa16" name="a1e9299779adc7abf42a01eb1c403aa16"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1e9299779adc7abf42a01eb1c403aa16">&#9670;&#160;</a></span>GetCreatorGUID()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -578,105 +479,28 @@ Static Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void ChannelMgr::LoadChannels </td>
+          <td class="memname"><a class="el" href="../../d9/d62/a08470.html">ObjectGuid</a> CalendarEvent::GetCreatorGUID </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   51</span>{</div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../d1/d44/a00098.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
-<div class="line"><span class="lineno">   53</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
-<div class="line"><span class="lineno">   54</span> </div>
-<div class="line"><span class="lineno">   55</span>    <span class="comment">//                                                    0          1     2     3         4          5</span></div>
-<div class="line"><span class="lineno">   56</span>    <a class="code hl_typedef" href="../../de/d69/a04679.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d6/d12/a04691.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(<span class="stringliteral">&quot;SELECT channelId, name, team, announce, ownership, password FROM channels ORDER BY channelId ASC&quot;</span>);</div>
-<div class="line"><span class="lineno">   57</span>    <span class="keywordflow">if</span> (!result)</div>
-<div class="line"><span class="lineno">   58</span>    {</div>
-<div class="line"><span class="lineno">   59</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 channels. DB table `channels` is empty.&quot;</span>);</div>
-<div class="line"><span class="lineno">   60</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   61</span>    }</div>
-<div class="line"><span class="lineno">   62</span> </div>
-<div class="line"><span class="lineno">   63</span>    std::vector&lt;std::pair&lt;std::string, uint32&gt;&gt; toDelete;</div>
-<div class="line"><span class="lineno">   64</span>    <span class="keywordflow">do</span></div>
-<div class="line"><span class="lineno">   65</span>    {</div>
-<div class="line"><span class="lineno">   66</span>        <a class="code hl_class" href="../../d7/d55/a05750.html">Field</a>* fields = result-&gt;Fetch();</div>
-<div class="line"><span class="lineno">   67</span> </div>
-<div class="line"><span class="lineno">   68</span>        <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> channelDBId = fields[0].<a class="code hl_function" href="../../d7/d55/a05750.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt;();</div>
-<div class="line"><span class="lineno">   69</span>        std::string channelName = fields[1].<a class="code hl_function" href="../../d7/d55/a05750.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
-<div class="line"><span class="lineno">   70</span>        <a class="code hl_enumeration" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> team = <a class="code hl_enumeration" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a>(fields[2].Get&lt;uint32&gt;());</div>
-<div class="line"><span class="lineno">   71</span>        std::string password = fields[5].<a class="code hl_function" href="../../d7/d55/a05750.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;std::string&gt;();</div>
-<div class="line"><span class="lineno">   72</span> </div>
-<div class="line"><span class="lineno">   73</span>        std::wstring channelWName;</div>
-<div class="line"><span class="lineno">   74</span>        <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d3/d8b/a00059.html#a096388bd1034eb78e43e5d60cc4f657a">Utf8toWStr</a>(channelName, channelWName))</div>
-<div class="line"><span class="lineno">   75</span>        {</div>
-<div class="line"><span class="lineno">   76</span>            <a class="code hl_define" href="../../d5/d0f/a00494.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Failed to load channel &#39;{}&#39; from database - invalid utf8 sequence? Deleted.&quot;</span>, channelName);</div>
-<div class="line"><span class="lineno">   77</span>            toDelete.emplace_back(channelName, team);</div>
-<div class="line"><span class="lineno">   78</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">   79</span>        }</div>
-<div class="line"><span class="lineno">   80</span> </div>
-<div class="line"><span class="lineno">   81</span>        <a class="code hl_class" href="../../d1/da9/a07530.html">ChannelMgr</a>* mgr = <a class="code hl_function" href="../../d1/da9/a07530.html#a62fd837572c3c88d8848115c98587401">forTeam</a>(team);</div>
-<div class="line"><span class="lineno">   82</span>        <span class="keywordflow">if</span> (!mgr)</div>
-<div class="line"><span class="lineno">   83</span>        {</div>
-<div class="line"><span class="lineno">   84</span>            <a class="code hl_define" href="../../d5/d0f/a00494.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Failed to load custom chat channel &#39;{}&#39; from database - invalid team {}. Deleted.&quot;</span>, channelName, team);</div>
-<div class="line"><span class="lineno">   85</span>            toDelete.emplace_back(channelName, team);</div>
-<div class="line"><span class="lineno">   86</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">   87</span>        }</div>
-<div class="line"><span class="lineno">   88</span> </div>
-<div class="line"><span class="lineno">   89</span>        <a class="code hl_class" href="../../d1/d15/a07522.html">Channel</a>* newChannel = <span class="keyword">new</span> <a class="code hl_class" href="../../d1/d15/a07522.html">Channel</a>(channelName, 0, channelDBId, team, fields[3].Get&lt;uint8&gt;(), fields[4].Get&lt;uint8&gt;());</div>
-<div class="line"><span class="lineno">   90</span>        newChannel-&gt;<a class="code hl_function" href="../../d1/d15/a07522.html#a5238e1b4133ac9d8a495fefeded33f50">SetPassword</a>(password);</div>
-<div class="line"><span class="lineno">   91</span>        mgr-&gt;<a class="code hl_variable" href="../../d1/da9/a07530.html#a823810bd463e51a0fb007712717f13dd">channels</a>[channelWName] = newChannel;</div>
-<div class="line"><span class="lineno">   92</span> </div>
-<div class="line"><span class="lineno">   93</span>        <span class="keywordflow">if</span> (<a class="code hl_typedef" href="../../de/d69/a04679.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> banResult = <a class="code hl_variable" href="../../d6/d12/a04691.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Query(<span class="stringliteral">&quot;SELECT playerGUID, banTime FROM channels_bans WHERE channelId = {}&quot;</span>, channelDBId))</div>
-<div class="line"><span class="lineno">   94</span>        {</div>
-<div class="line"><span class="lineno">   95</span>            <span class="keywordflow">do</span></div>
-<div class="line"><span class="lineno">   96</span>            {</div>
-<div class="line"><span class="lineno">   97</span>                <a class="code hl_class" href="../../d7/d55/a05750.html">Field</a>* banFields = banResult-&gt;Fetch();</div>
-<div class="line"><span class="lineno">   98</span>                <span class="keywordflow">if</span> (!banFields)</div>
-<div class="line"><span class="lineno">   99</span>                    <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  100</span>                newChannel-&gt;<a class="code hl_function" href="../../d1/d15/a07522.html#a823cf051e190465f7486feb695c99d13">AddBan</a>(ObjectGuid::Create&lt;HighGuid::Player&gt;(banFields[0].Get&lt;uint32&gt;()), banFields[1].Get&lt;uint32&gt;());</div>
-<div class="line"><span class="lineno">  101</span>            } <span class="keywordflow">while</span> (banResult-&gt;NextRow());</div>
-<div class="line"><span class="lineno">  102</span>        }</div>
-<div class="line"><span class="lineno">  103</span> </div>
-<div class="line"><span class="lineno">  104</span>        <span class="keywordflow">if</span> (channelDBId &gt; <a class="code hl_variable" href="../../d1/da9/a07530.html#a41bbe928d2e50c899a10b4b7da0e1a68">ChannelMgr::_channelIdMax</a>)</div>
-<div class="line"><span class="lineno">  105</span>            <a class="code hl_variable" href="../../d1/da9/a07530.html#a41bbe928d2e50c899a10b4b7da0e1a68">ChannelMgr::_channelIdMax</a> = channelDBId;</div>
-<div class="line"><span class="lineno">  106</span>        ++count;</div>
-<div class="line"><span class="lineno">  107</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
-<div class="line"><span class="lineno">  108</span> </div>
-<div class="line"><span class="lineno">  109</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; pair : toDelete)</div>
-<div class="line"><span class="lineno">  110</span>    {</div>
-<div class="line"><span class="lineno">  111</span>        <a class="code hl_class" href="../../dd/d08/a05718.html">CharacterDatabasePreparedStatement</a>* stmt = <a class="code hl_variable" href="../../d6/d12/a04691.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.GetPreparedStatement(<a class="code hl_enumvalue" href="../../da/de7/a04643.html#a76116b4fa282d8e35bf8f8e940b5cba7a083d904d5262a1cce22dae87881ae7ab">CHAR_DEL_CHANNEL</a>);</div>
-<div class="line"><span class="lineno">  112</span>        stmt-&gt;<a class="code hl_function" href="../../da/d81/a05850.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(0, pair.first);</div>
-<div class="line"><span class="lineno">  113</span>        stmt-&gt;<a class="code hl_function" href="../../da/d81/a05850.html#a52fc2e65042c1db51f0923725a0f0ed0">SetData</a>(1, pair.second);</div>
-<div class="line"><span class="lineno">  114</span>        <a class="code hl_variable" href="../../d6/d12/a04691.html#a7e7534bc66d79434bd280b77cb124eec">CharacterDatabase</a>.Execute(stmt);</div>
-<div class="line"><span class="lineno">  115</span>    }</div>
-<div class="line"><span class="lineno">  116</span> </div>
-<div class="line"><span class="lineno">  117</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} channels in {}ms&quot;</span>, count, <a class="code hl_function" href="../../d1/d44/a00098.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
-<div class="line"><span class="lineno">  118</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">  119</span>}</div>
-<div class="ttc" id="aa00494_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d5/d0f/a00494.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
-<div class="ttc" id="aa04643_html_a76116b4fa282d8e35bf8f8e940b5cba7a083d904d5262a1cce22dae87881ae7ab"><div class="ttname"><a href="../../da/de7/a04643.html#a76116b4fa282d8e35bf8f8e940b5cba7a083d904d5262a1cce22dae87881ae7ab">CHAR_DEL_CHANNEL</a></div><div class="ttdeci">@ CHAR_DEL_CHANNEL</div><div class="ttdef"><b>Definition:</b> CharacterDatabase.h:185</div></div>
-<div class="ttc" id="aa04727_html_abfb349736a7699bdfcdb134035ef7865"><div class="ttname"><a href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a></div><div class="ttdeci">TeamId</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:770</div></div>
-<div class="ttc" id="aa05718_html"><div class="ttname"><a href="../../dd/d08/a05718.html">PreparedStatement</a></div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:157</div></div>
-<div class="ttc" id="aa05850_html_a52fc2e65042c1db51f0923725a0f0ed0"><div class="ttname"><a href="../../da/d81/a05850.html#a52fc2e65042c1db51f0923725a0f0ed0">PreparedStatementBase::SetData</a></div><div class="ttdeci">Acore::Types::is_default&lt; T &gt; SetData(const uint8 index, T value)</div><div class="ttdef"><b>Definition:</b> PreparedStatement.h:77</div></div>
-<div class="ttc" id="aa07522_html_a5238e1b4133ac9d8a495fefeded33f50"><div class="ttname"><a href="../../d1/d15/a07522.html#a5238e1b4133ac9d8a495fefeded33f50">Channel::SetPassword</a></div><div class="ttdeci">void SetPassword(std::string const &amp;npassword)</div><div class="ttdef"><b>Definition:</b> Channel.h:186</div></div>
-<div class="ttc" id="aa07522_html_a823cf051e190465f7486feb695c99d13"><div class="ttname"><a href="../../d1/d15/a07522.html#a823cf051e190465f7486feb695c99d13">Channel::AddBan</a></div><div class="ttdeci">void AddBan(ObjectGuid guid, uint32 time)</div><div class="ttdef"><b>Definition:</b> Channel.h:196</div></div>
-<div class="ttc" id="aa07530_html_a41bbe928d2e50c899a10b4b7da0e1a68"><div class="ttname"><a href="../../d1/da9/a07530.html#a41bbe928d2e50c899a10b4b7da0e1a68">ChannelMgr::_channelIdMax</a></div><div class="ttdeci">static uint32 _channelIdMax</div><div class="ttdef"><b>Definition:</b> ChannelMgr.h:48</div></div>
-<div class="ttc" id="aa07530_html_a62fd837572c3c88d8848115c98587401"><div class="ttname"><a href="../../d1/da9/a07530.html#a62fd837572c3c88d8848115c98587401">ChannelMgr::forTeam</a></div><div class="ttdeci">static ChannelMgr * forTeam(TeamId teamId)</div><div class="ttdef"><b>Definition:</b> ChannelMgr.cpp:33</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  226</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/da9/a07530.html#a013a8dbbc2059c35ac7482c59802c334">_creatorGUID</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00048">_channelIdMax</a>, <a class="el" href="../../#l00196">Channel::AddBan()</a>, <a class="el" href="../../#l00051">channels</a>, <a class="el" href="../../#l00185">CHAR_DEL_CHANNEL</a>, <a class="el" href="../../#l00021">CharacterDatabase</a>, <a class="el" href="../../#l00033">forTeam()</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l00077">PreparedStatementBase::SetData()</a>, <a class="el" href="../../#l00186">Channel::SetPassword()</a>, and <a class="el" href="../../#l00281">Utf8toWStr()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00263">_creatorGUID</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00303">World::SetInitialWorldSettings()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00135">CalendarMgr::AddEvent()</a>, <a class="el" href="../../#l00142">CalendarMgr::AddInvite()</a>, <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00053">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00288">CalendarMgr::RemoveAllPlayerEventsAndInvites()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00503">CalendarMgr::SendCalendarEventInvite()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEventInviteAlert()</a>, and <a class="el" href="../../#l00259">CalendarMgr::UpdateEvent()</a>.</p>
 
 </div>
 </div>
-<a id="ae85b95eac40037d5066efa17fb484bc5" name="ae85b95eac40037d5066efa17fb484bc5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae85b95eac40037d5066efa17fb484bc5">&#9670;&#160;</a></span>MakeNotOnPacket()</h2>
+<a id="ae15c35f26ccf8eaaa658dfe31045551d" name="ae15c35f26ccf8eaaa658dfe31045551d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae15c35f26ccf8eaaa658dfe31045551d">&#9670;&#160;</a></span>GetDescription()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -685,45 +509,28 @@ Static Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void ChannelMgr::MakeNotOnPacket </td>
+          <td class="memname">std::string CalendarEvent::GetDescription </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d60/a11122.html">WorldPacket</a> *&#160;</td>
-          <td class="paramname"><em>data</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>name</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  226</span>{</div>
-<div class="line"><span class="lineno">  227</span>    data-&gt;<a class="code hl_function" href="../../d1/d60/a11122.html#a6b7d58fb0230383629fa888d3aa9dbd8">Initialize</a>(<a class="code hl_enumvalue" href="../../db/d92/a04791.html#gga1073b6abb3a749f18bf1633020879e9ba46061daa881554bf58b14725b6cd969d">SMSG_CHANNEL_NOTIFY</a>, 1 + name.size());</div>
-<div class="line"><span class="lineno">  228</span>    (*data) &lt;&lt; <a class="code hl_typedef" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>(5) &lt;&lt; name;</div>
-<div class="line"><span class="lineno">  229</span>}</div>
-<div class="ttc" id="aa00302_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-<div class="ttc" id="aa04791_html_gga1073b6abb3a749f18bf1633020879e9ba46061daa881554bf58b14725b6cd969d"><div class="ttname"><a href="../../db/d92/a04791.html#gga1073b6abb3a749f18bf1633020879e9ba46061daa881554bf58b14725b6cd969d">SMSG_CHANNEL_NOTIFY</a></div><div class="ttdeci">@ SMSG_CHANNEL_NOTIFY</div><div class="ttdef"><b>Definition:</b> Opcodes.h:183</div></div>
-<div class="ttc" id="aa11122_html_a6b7d58fb0230383629fa888d3aa9dbd8"><div class="ttname"><a href="../../d1/d60/a11122.html#a6b7d58fb0230383629fa888d3aa9dbd8">WorldPacket::Initialize</a></div><div class="ttdeci">void Initialize(uint16 opcode, std::size_t newres=200)</div><div class="ttdef"><b>Definition:</b> WorldPacket.h:68</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  235</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/da9/a07530.html#a37852d77353b86569274368bd6d01076">_description</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00068">WorldPacket::Initialize()</a>, and <a class="el" href="../../#l00183">SMSG_CHANNEL_NOTIFY</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00271">_description</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00139">GetChannel()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00537">CalendarMgr::SendCalendarEventUpdateAlert()</a>, and <a class="el" href="../../#l00259">CalendarMgr::UpdateEvent()</a>.</p>
 
 </div>
 </div>
-<a id="a1d672ab806b5e00bdd96d3a56fe3520b" name="a1d672ab806b5e00bdd96d3a56fe3520b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1d672ab806b5e00bdd96d3a56fe3520b">&#9670;&#160;</a></span>SetChannelRightsFor()</h2>
+<a id="aca67561141854ee8d9ac11258dec92c5" name="aca67561141854ee8d9ac11258dec92c5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aca67561141854ee8d9ac11258dec92c5">&#9670;&#160;</a></span>GetDungeonId()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -732,69 +539,653 @@ Static Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void ChannelMgr::SetChannelRightsFor </td>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> CalendarEvent::GetDungeonId </td>
           <td>(</td>
-          <td class="paramtype">const std::string &amp;&#160;</td>
-          <td class="paramname"><em>name</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;&#160;</td>
-          <td class="paramname"><em>flags</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &amp;&#160;</td>
-          <td class="paramname"><em>speakDelay</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const std::string &amp;&#160;</td>
-          <td class="paramname"><em>joinmessage</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const std::string &amp;&#160;</td>
-          <td class="paramname"><em>speakmessage</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">const std::set&lt; <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt; &amp;&#160;</td>
-          <td class="paramname"><em>moderators</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  219</span>{</div>
-<div class="line"><span class="lineno">  220</span>    std::string nameStr = name;</div>
-<div class="line"><span class="lineno">  221</span>    std::transform(nameStr.begin(), nameStr.end(), nameStr.begin(), ::tolower);</div>
-<div class="line"><span class="lineno">  222</span>    <a class="code hl_variable" href="../../d1/da9/a07530.html#adfc7c2e0156b2dc290c1c0f307a6911f">channels_rights</a>[nameStr] = <a class="code hl_class" href="../../d0/d13/a07518.html">ChannelRights</a>(flags, speakDelay, joinmessage, speakmessage, moderators);</div>
-<div class="line"><span class="lineno">  223</span>}</div>
-<div class="ttc" id="aa07518_html"><div class="ttname"><a href="../../d0/d13/a07518.html">ChannelRights</a></div><div class="ttdef"><b>Definition:</b> Channel.h:119</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  241</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/da9/a07530.html#a53e35070a245c78af909d2c463792823">_dungeonId</a>; }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00053">channels_rights</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00266">_dungeonId</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00166">LoadChannelRights()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00053">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEventInviteAlert()</a>, <a class="el" href="../../#l00537">CalendarMgr::SendCalendarEventUpdateAlert()</a>, and <a class="el" href="../../#l00259">CalendarMgr::UpdateEvent()</a>.</p>
+
+</div>
+</div>
+<a id="a712890e4823f1e456493c386389839a0" name="a712890e4823f1e456493c386389839a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a712890e4823f1e456493c386389839a0">&#9670;&#160;</a></span>GetEventId()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> CalendarEvent::GetEventId </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  223</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/da9/a07530.html#a00984cdf7353d8e7236da4956eea2976">_eventId</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00262">_eventId</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00228">WorldSession::HandleCalendarAddEvent()</a>, <a class="el" href="../../#l00425">WorldSession::HandleCalendarCopyEvent()</a>, <a class="el" href="../../#l00053">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00172">CalendarMgr::RemoveEvent()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEventInviteAlert()</a>, <a class="el" href="../../#l00673">CalendarMgr::SendCalendarEventInviteRemoveAlert()</a>, <a class="el" href="../../#l00571">CalendarMgr::SendCalendarEventRemovedAlert()</a>, <a class="el" href="../../#l00557">CalendarMgr::SendCalendarEventStatus()</a>, <a class="el" href="../../#l00537">CalendarMgr::SendCalendarEventUpdateAlert()</a>, <a class="el" href="../../#l00721">CalendarMgr::SendPacketToAllEventRelatives()</a>, and <a class="el" href="../../#l00259">CalendarMgr::UpdateEvent()</a>.</p>
+
+</div>
+</div>
+<a id="addb78b7996e091a9b234c45ac7e1635c" name="addb78b7996e091a9b234c45ac7e1635c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#addb78b7996e091a9b234c45ac7e1635c">&#9670;&#160;</a></span>GetEventTime()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">time_t CalendarEvent::GetEventTime </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  244</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/da9/a07530.html#a7645e983f30557294542e7595eeb4117">_eventTime</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00267">_eventTime</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00385">CalendarMgr::DeleteOldEvents()</a>, <a class="el" href="../../#l00053">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEventInviteAlert()</a>, <a class="el" href="../../#l00673">CalendarMgr::SendCalendarEventInviteRemoveAlert()</a>, <a class="el" href="../../#l00571">CalendarMgr::SendCalendarEventRemovedAlert()</a>, <a class="el" href="../../#l00557">CalendarMgr::SendCalendarEventStatus()</a>, <a class="el" href="../../#l00537">CalendarMgr::SendCalendarEventUpdateAlert()</a>, and <a class="el" href="../../#l00259">CalendarMgr::UpdateEvent()</a>.</p>
+
+</div>
+</div>
+<a id="af76662460d51a8e29fa5274d03e70c49" name="af76662460d51a8e29fa5274d03e70c49"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af76662460d51a8e29fa5274d03e70c49">&#9670;&#160;</a></span>GetFlags()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CalendarEvent::GetFlags </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  247</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/da9/a07530.html#aa10c3956af3ba9ad7a7599e439e386a5">_flags</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00268">_flags</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00053">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00224">CalendarMgr::RemoveInvite()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEventInviteAlert()</a>, <a class="el" href="../../#l00673">CalendarMgr::SendCalendarEventInviteRemoveAlert()</a>, <a class="el" href="../../#l00557">CalendarMgr::SendCalendarEventStatus()</a>, <a class="el" href="../../#l00537">CalendarMgr::SendCalendarEventUpdateAlert()</a>, and <a class="el" href="../../#l00259">CalendarMgr::UpdateEvent()</a>.</p>
+
+</div>
+</div>
+<a id="adc569b53aeb4d9892f025aa40e58750f" name="adc569b53aeb4d9892f025aa40e58750f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adc569b53aeb4d9892f025aa40e58750f">&#9670;&#160;</a></span>GetGuildId()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CalendarEvent::GetGuildId </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  229</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/da9/a07530.html#a849efebab349382a1f21b2ec209c2fad">_guildId</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00264">_guildId</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEventInviteAlert()</a>, and <a class="el" href="../../#l00721">CalendarMgr::SendPacketToAllEventRelatives()</a>.</p>
+
+</div>
+</div>
+<a id="a9375a18807867d56ab42c6f01c47b2d1" name="a9375a18807867d56ab42c6f01c47b2d1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9375a18807867d56ab42c6f01c47b2d1">&#9670;&#160;</a></span>GetTimeZoneTime()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">time_t CalendarEvent::GetTimeZoneTime </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  250</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/da9/a07530.html#afb7cefb70b12adb0dee2d67535c9f751">_timezoneTime</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00269">_timezoneTime</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, and <a class="el" href="../../#l00259">CalendarMgr::UpdateEvent()</a>.</p>
+
+</div>
+</div>
+<a id="acd5bdd13096df09cf46824601f6c4402" name="acd5bdd13096df09cf46824601f6c4402"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acd5bdd13096df09cf46824601f6c4402">&#9670;&#160;</a></span>GetTitle()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string CalendarEvent::GetTitle </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  232</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/da9/a07530.html#a7b3da974292eea515f91a136ce374ce2">_title</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00270">_title</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00053">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEventInviteAlert()</a>, <a class="el" href="../../#l00537">CalendarMgr::SendCalendarEventUpdateAlert()</a>, and <a class="el" href="../../#l00259">CalendarMgr::UpdateEvent()</a>.</p>
+
+</div>
+</div>
+<a id="a2b6f03aef3325c186d713ce5b61e55a5" name="a2b6f03aef3325c186d713ce5b61e55a5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2b6f03aef3325c186d713ce5b61e55a5">&#9670;&#160;</a></span>GetType()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d7d/a00161.html#aabfde90a2fd31d4aa93fac9f496c12fc">CalendarEventType</a> CalendarEvent::GetType </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  238</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/da9/a07530.html#a3bb48f86b613d9bdcd3011b51a13cfbf">_type</a>; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00265">_type</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00053">WorldSession::HandleCalendarGetCalendar()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEventInviteAlert()</a>, <a class="el" href="../../#l00537">CalendarMgr::SendCalendarEventUpdateAlert()</a>, and <a class="el" href="../../#l00259">CalendarMgr::UpdateEvent()</a>.</p>
+
+</div>
+</div>
+<a id="a10b124299312e8295b6fa870b5ddbced" name="a10b124299312e8295b6fa870b5ddbced"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a10b124299312e8295b6fa870b5ddbced">&#9670;&#160;</a></span>IsGuildAnnouncement() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool CalendarEvent::IsGuildAnnouncement </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  253</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/da9/a07530.html#aa10c3956af3ba9ad7a7599e439e386a5">_flags</a> &amp; <a class="code hl_enumvalue" href="../../d6/d7d/a00161.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca0c29c90b66a143ba0c0edfeb9b92d76a">CALENDAR_FLAG_WITHOUT_INVITES</a>; }</div>
+<div class="ttc" id="aa00161_html_a5fcf8a7cda848f4b07b3bfc52392bc1ca0c29c90b66a143ba0c0edfeb9b92d76a"><div class="ttname"><a href="../../d6/d7d/a00161.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca0c29c90b66a143ba0c0edfeb9b92d76a">CALENDAR_FLAG_WITHOUT_INVITES</a></div><div class="ttdeci">@ CALENDAR_FLAG_WITHOUT_INVITES</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:39</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00268">_flags</a>, and <a class="el" href="../../#l00039">CALENDAR_FLAG_WITHOUT_INVITES</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00142">CalendarMgr::AddInvite()</a>, <a class="el" href="../../#l00228">WorldSession::HandleCalendarAddEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEventInviteAlert()</a>, and <a class="el" href="../../#l00721">CalendarMgr::SendPacketToAllEventRelatives()</a>.</p>
+
+</div>
+</div>
+<a id="ae2ad380a63bd2a0c854a236c929875f9" name="ae2ad380a63bd2a0c854a236c929875f9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae2ad380a63bd2a0c854a236c929875f9">&#9670;&#160;</a></span>IsGuildAnnouncement() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool CalendarEvent::IsGuildAnnouncement </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>flags</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  256</span>{ <span class="keywordflow">return</span> (flags &amp; <a class="code hl_enumvalue" href="../../d6/d7d/a00161.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca0c29c90b66a143ba0c0edfeb9b92d76a">CALENDAR_FLAG_WITHOUT_INVITES</a>) != 0; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00039">CALENDAR_FLAG_WITHOUT_INVITES</a>.</p>
+
+</div>
+</div>
+<a id="a61bf9eeeb5a3bc3b03a775d30e33d654" name="a61bf9eeeb5a3bc3b03a775d30e33d654"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a61bf9eeeb5a3bc3b03a775d30e33d654">&#9670;&#160;</a></span>IsGuildEvent() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool CalendarEvent::IsGuildEvent </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  252</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d1/da9/a07530.html#aa10c3956af3ba9ad7a7599e439e386a5">_flags</a> &amp; <a class="code hl_enumvalue" href="../../d6/d7d/a00161.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca2846a8e774488e28e699cf1230dc3bab">CALENDAR_FLAG_GUILD_EVENT</a>; }</div>
+<div class="ttc" id="aa00161_html_a5fcf8a7cda848f4b07b3bfc52392bc1ca2846a8e774488e28e699cf1230dc3bab"><div class="ttname"><a href="../../d6/d7d/a00161.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca2846a8e774488e28e699cf1230dc3bab">CALENDAR_FLAG_GUILD_EVENT</a></div><div class="ttdeci">@ CALENDAR_FLAG_GUILD_EVENT</div><div class="ttdef"><b>Definition:</b> CalendarMgr.h:40</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00268">_flags</a>, and <a class="el" href="../../#l00040">CALENDAR_FLAG_GUILD_EVENT</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00142">CalendarMgr::AddInvite()</a>, <a class="el" href="../../#l00228">WorldSession::HandleCalendarAddEvent()</a>, <a class="el" href="../../#l00224">CalendarMgr::RemoveInvite()</a>, <a class="el" href="../../#l00627">CalendarMgr::SendCalendarEvent()</a>, <a class="el" href="../../#l00603">CalendarMgr::SendCalendarEventInviteAlert()</a>, and <a class="el" href="../../#l00721">CalendarMgr::SendPacketToAllEventRelatives()</a>.</p>
+
+</div>
+</div>
+<a id="adaa40ae2ebbe9b50b1b2370d3b40d91c" name="adaa40ae2ebbe9b50b1b2370d3b40d91c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adaa40ae2ebbe9b50b1b2370d3b40d91c">&#9670;&#160;</a></span>IsGuildEvent() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">static bool CalendarEvent::IsGuildEvent </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>flags</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  255</span>{ <span class="keywordflow">return</span> (flags &amp; <a class="code hl_enumvalue" href="../../d6/d7d/a00161.html#a5fcf8a7cda848f4b07b3bfc52392bc1ca2846a8e774488e28e699cf1230dc3bab">CALENDAR_FLAG_GUILD_EVENT</a>) != 0; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00040">CALENDAR_FLAG_GUILD_EVENT</a>.</p>
+
+</div>
+</div>
+<a id="a675e81ccb93620db0d6fb808a8621fdf" name="a675e81ccb93620db0d6fb808a8621fdf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a675e81ccb93620db0d6fb808a8621fdf">&#9670;&#160;</a></span>SetCreatorGUID()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void CalendarEvent::SetCreatorGUID </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d62/a08470.html">ObjectGuid</a>&#160;</td>
+          <td class="paramname"><em>guid</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  225</span>{ <a class="code hl_variable" href="../../d1/da9/a07530.html#a013a8dbbc2059c35ac7482c59802c334">_creatorGUID</a> = guid; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00263">_creatorGUID</a>.</p>
+
+</div>
+</div>
+<a id="a62527e79e56cb81c5d1f699b742459c4" name="a62527e79e56cb81c5d1f699b742459c4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a62527e79e56cb81c5d1f699b742459c4">&#9670;&#160;</a></span>SetDescription()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void CalendarEvent::SetDescription </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>description</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  234</span>{ <a class="code hl_variable" href="../../d1/da9/a07530.html#a37852d77353b86569274368bd6d01076">_description</a> = description; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00271">_description</a>.</p>
+
+</div>
+</div>
+<a id="abbf9d3e9a984bc2a666f39d26e2b0b18" name="abbf9d3e9a984bc2a666f39d26e2b0b18"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abbf9d3e9a984bc2a666f39d26e2b0b18">&#9670;&#160;</a></span>SetDungeonId()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void CalendarEvent::SetDungeonId </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td>
+          <td class="paramname"><em>dungeonId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  240</span>{ <a class="code hl_variable" href="../../d1/da9/a07530.html#a53e35070a245c78af909d2c463792823">_dungeonId</a> = dungeonId; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00266">_dungeonId</a>.</p>
+
+</div>
+</div>
+<a id="a661d540d65ee8afd10f348a1029bc48b" name="a661d540d65ee8afd10f348a1029bc48b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a661d540d65ee8afd10f348a1029bc48b">&#9670;&#160;</a></span>SetEventId()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void CalendarEvent::SetEventId </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td>
+          <td class="paramname"><em>eventId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  222</span>{ <a class="code hl_variable" href="../../d1/da9/a07530.html#a00984cdf7353d8e7236da4956eea2976">_eventId</a> = eventId; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00262">_eventId</a>.</p>
+
+</div>
+</div>
+<a id="a70f53e59d54ad4a71013d3000f797c5a" name="a70f53e59d54ad4a71013d3000f797c5a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a70f53e59d54ad4a71013d3000f797c5a">&#9670;&#160;</a></span>SetEventTime()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void CalendarEvent::SetEventTime </td>
+          <td>(</td>
+          <td class="paramtype">time_t&#160;</td>
+          <td class="paramname"><em>eventTime</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  243</span>{ <a class="code hl_variable" href="../../d1/da9/a07530.html#a7645e983f30557294542e7595eeb4117">_eventTime</a> = eventTime; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00267">_eventTime</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00425">WorldSession::HandleCalendarCopyEvent()</a>.</p>
+
+</div>
+</div>
+<a id="afa3869d76998e4c83b48602850508e15" name="afa3869d76998e4c83b48602850508e15"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afa3869d76998e4c83b48602850508e15">&#9670;&#160;</a></span>SetFlags()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void CalendarEvent::SetFlags </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>flags</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  246</span>{ <a class="code hl_variable" href="../../d1/da9/a07530.html#aa10c3956af3ba9ad7a7599e439e386a5">_flags</a> = flags; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00268">_flags</a>.</p>
+
+</div>
+</div>
+<a id="a28266831da31a256773a9f39c0e27897" name="a28266831da31a256773a9f39c0e27897"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a28266831da31a256773a9f39c0e27897">&#9670;&#160;</a></span>SetGuildId()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void CalendarEvent::SetGuildId </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>guildId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  228</span>{ <a class="code hl_variable" href="../../d1/da9/a07530.html#a849efebab349382a1f21b2ec209c2fad">_guildId</a> = guildId; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00264">_guildId</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00228">WorldSession::HandleCalendarAddEvent()</a>.</p>
+
+</div>
+</div>
+<a id="a81549648acfe08ab4d69ca03151531be" name="a81549648acfe08ab4d69ca03151531be"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a81549648acfe08ab4d69ca03151531be">&#9670;&#160;</a></span>SetTimeZoneTime()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void CalendarEvent::SetTimeZoneTime </td>
+          <td>(</td>
+          <td class="paramtype">time_t&#160;</td>
+          <td class="paramname"><em>timezoneTime</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  249</span>{ <a class="code hl_variable" href="../../d1/da9/a07530.html#afb7cefb70b12adb0dee2d67535c9f751">_timezoneTime</a> = timezoneTime; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00269">_timezoneTime</a>.</p>
+
+</div>
+</div>
+<a id="a7071188f10921377652356a7cd0fe893" name="a7071188f10921377652356a7cd0fe893"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7071188f10921377652356a7cd0fe893">&#9670;&#160;</a></span>SetTitle()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void CalendarEvent::SetTitle </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>title</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  231</span>{ <a class="code hl_variable" href="../../d1/da9/a07530.html#a7b3da974292eea515f91a136ce374ce2">_title</a> = title; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00270">_title</a>.</p>
+
+</div>
+</div>
+<a id="a7788d5d38b52fa2412289ac738e71618" name="a7788d5d38b52fa2412289ac738e71618"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7788d5d38b52fa2412289ac738e71618">&#9670;&#160;</a></span>SetType()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void CalendarEvent::SetType </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d6/d7d/a00161.html#aabfde90a2fd31d4aa93fac9f496c12fc">CalendarEventType</a>&#160;</td>
+          <td class="paramname"><em>type</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  237</span>{ <a class="code hl_variable" href="../../d1/da9/a07530.html#a3bb48f86b613d9bdcd3011b51a13cfbf">_type</a> = type; }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00265">_type</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a41bbe928d2e50c899a10b4b7da0e1a68" name="a41bbe928d2e50c899a10b4b7da0e1a68"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a41bbe928d2e50c899a10b4b7da0e1a68">&#9670;&#160;</a></span>_channelIdMax</h2>
+<a id="a013a8dbbc2059c35ac7482c59802c334" name="a013a8dbbc2059c35ac7482c59802c334"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a013a8dbbc2059c35ac7482c59802c334">&#9670;&#160;</a></span>_creatorGUID</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -803,31 +1194,7 @@ Static Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ChannelMgr::_channelIdMax = 0</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00029">Channel::Channel()</a>, and <a class="el" href="../../#l00050">LoadChannels()</a>.</p>
-
-</div>
-</div>
-<a id="a1ac5de545c0cb91088176fae883748ed" name="a1ac5de545c0cb91088176fae883748ed"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1ac5de545c0cb91088176fae883748ed">&#9670;&#160;</a></span>_teamId</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../dc/d43/a04727.html#abfb349736a7699bdfcdb134035ef7865">TeamId</a> ChannelMgr::_teamId</td>
+          <td class="memname"><a class="el" href="../../d9/d62/a08470.html">ObjectGuid</a> CalendarEvent::_creatorGUID</td>
         </tr>
       </table>
   </td>
@@ -837,12 +1204,12 @@ Static Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00121">GetJoinChannel()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00226">GetCreatorGUID()</a>, and <a class="el" href="../../#l00225">SetCreatorGUID()</a>.</p>
 
 </div>
 </div>
-<a id="aecb848ba8e3cfa8ccdb84a1f62a26ab9" name="aecb848ba8e3cfa8ccdb84a1f62a26ab9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aecb848ba8e3cfa8ccdb84a1f62a26ab9">&#9670;&#160;</a></span>channelRightsEmpty</h2>
+<a id="a37852d77353b86569274368bd6d01076" name="a37852d77353b86569274368bd6d01076"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a37852d77353b86569274368bd6d01076">&#9670;&#160;</a></span>_description</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -851,31 +1218,7 @@ Static Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d13/a07518.html">ChannelRights</a> ChannelMgr::channelRightsEmpty</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00208">GetChannelRightsFor()</a>.</p>
-
-</div>
-</div>
-<a id="a823810bd463e51a0fb007712717f13dd" name="a823810bd463e51a0fb007712717f13dd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a823810bd463e51a0fb007712717f13dd">&#9670;&#160;</a></span>channels</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d1/da9/a07530.html#a84c686f095464d67f750309244a47ba5">ChannelMap</a> ChannelMgr::channels</td>
+          <td class="memname">std::string CalendarEvent::_description</td>
         </tr>
       </table>
   </td>
@@ -885,12 +1228,12 @@ Static Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00139">GetChannel()</a>, <a class="el" href="../../#l00121">GetJoinChannel()</a>, <a class="el" href="../../#l00050">LoadChannels()</a>, and <a class="el" href="../../#l00025">~ChannelMgr()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00235">GetDescription()</a>, and <a class="el" href="../../#l00234">SetDescription()</a>.</p>
 
 </div>
 </div>
-<a id="adfc7c2e0156b2dc290c1c0f307a6911f" name="adfc7c2e0156b2dc290c1c0f307a6911f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adfc7c2e0156b2dc290c1c0f307a6911f">&#9670;&#160;</a></span>channels_rights</h2>
+<a id="a53e35070a245c78af909d2c463792823" name="a53e35070a245c78af909d2c463792823"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a53e35070a245c78af909d2c463792823">&#9670;&#160;</a></span>_dungeonId</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -899,17 +1242,185 @@ Static Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/da9/a07530.html#a4e153c81aede8182160b0a5ab89e5b4b">ChannelMgr::ChannelRightsMap</a> ChannelMgr::channels_rights</td>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> CalendarEvent::_dungeonId</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00208">GetChannelRightsFor()</a>, <a class="el" href="../../#l00166">LoadChannelRights()</a>, and <a class="el" href="../../#l00218">SetChannelRightsFor()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00241">GetDungeonId()</a>, and <a class="el" href="../../#l00240">SetDungeonId()</a>.</p>
+
+</div>
+</div>
+<a id="a00984cdf7353d8e7236da4956eea2976" name="a00984cdf7353d8e7236da4956eea2976"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a00984cdf7353d8e7236da4956eea2976">&#9670;&#160;</a></span>_eventId</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> CalendarEvent::_eventId</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00223">GetEventId()</a>, <a class="el" href="../../#l00222">SetEventId()</a>, and <a class="el" href="../../#l00038">~CalendarEvent()</a>.</p>
+
+</div>
+</div>
+<a id="a7645e983f30557294542e7595eeb4117" name="a7645e983f30557294542e7595eeb4117"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7645e983f30557294542e7595eeb4117">&#9670;&#160;</a></span>_eventTime</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">time_t CalendarEvent::_eventTime</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00490">BuildCalendarMailBody()</a>, <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00244">GetEventTime()</a>, and <a class="el" href="../../#l00243">SetEventTime()</a>.</p>
+
+</div>
+</div>
+<a id="aa10c3956af3ba9ad7a7599e439e386a5" name="aa10c3956af3ba9ad7a7599e439e386a5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa10c3956af3ba9ad7a7599e439e386a5">&#9670;&#160;</a></span>_flags</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CalendarEvent::_flags</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00247">GetFlags()</a>, <a class="el" href="../../#l00253">IsGuildAnnouncement()</a>, <a class="el" href="../../#l00252">IsGuildEvent()</a>, and <a class="el" href="../../#l00246">SetFlags()</a>.</p>
+
+</div>
+</div>
+<a id="a849efebab349382a1f21b2ec209c2fad" name="a849efebab349382a1f21b2ec209c2fad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a849efebab349382a1f21b2ec209c2fad">&#9670;&#160;</a></span>_guildId</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CalendarEvent::_guildId</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00229">GetGuildId()</a>, and <a class="el" href="../../#l00228">SetGuildId()</a>.</p>
+
+</div>
+</div>
+<a id="afb7cefb70b12adb0dee2d67535c9f751" name="afb7cefb70b12adb0dee2d67535c9f751"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afb7cefb70b12adb0dee2d67535c9f751">&#9670;&#160;</a></span>_timezoneTime</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">time_t CalendarEvent::_timezoneTime</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00250">GetTimeZoneTime()</a>, and <a class="el" href="../../#l00249">SetTimeZoneTime()</a>.</p>
+
+</div>
+</div>
+<a id="a7b3da974292eea515f91a136ce374ce2" name="a7b3da974292eea515f91a136ce374ce2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7b3da974292eea515f91a136ce374ce2">&#9670;&#160;</a></span>_title</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string CalendarEvent::_title</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00483">BuildCalendarMailSubject()</a>, <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00232">GetTitle()</a>, and <a class="el" href="../../#l00231">SetTitle()</a>.</p>
+
+</div>
+</div>
+<a id="a3bb48f86b613d9bdcd3011b51a13cfbf" name="a3bb48f86b613d9bdcd3011b51a13cfbf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3bb48f86b613d9bdcd3011b51a13cfbf">&#9670;&#160;</a></span>_type</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d6/d7d/a00161.html#aabfde90a2fd31d4aa93fac9f496c12fc">CalendarEventType</a> CalendarEvent::_type</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00197">CalendarEvent()</a>, <a class="el" href="../../#l00238">GetType()</a>, and <a class="el" href="../../#l00237">SetType()</a>.</p>
 
 </div>
 </div>
@@ -918,8 +1429,8 @@ Static Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d1/da9/a07530.html">ChannelMgr</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:45:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d1/da9/a07530.html">CalendarEvent</a></li>
+    <li class="footer">Generated on Mon Dec 1 2025 20:47:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

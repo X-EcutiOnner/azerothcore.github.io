@@ -1,6 +1,7 @@
 var a25190 =
 [
-    [ "HandleEffectPeriodicUpdate", "d2/d32/a25190.html#a554353fede78b89bf488230254d7892b", null ],
-    [ "PrepareAuraScript", "d2/d32/a25190.html#adf20aaafff83bae614ff3c614a08a54b", null ],
-    [ "Register", "d2/d32/a25190.html#a6ee55cc41f7b69fc12bb3dc6c7fcbaf5", null ]
+    [ "HandleEffectApply", "d2/d32/a25190.html#a2854357f92b1faac6e7840f1576138e0", null ],
+    [ "HandleEffectRemove", "d2/d32/a25190.html#a7960ca4deb4ff61d04ea7fe7ec0f0471", null ],
+    [ "PrepareAuraScript", "d2/d32/a25190.html#a2120cecbca61e4c7380892fe8d43772a", null ],
+    [ "Register", "d2/d32/a25190.html#a98c71c0d4c4b0503e66ed2033946cb2e", null ]
 ];

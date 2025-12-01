@@ -1,6 +1,12 @@
 var a17614 =
 [
-    [ "boss_deathbringer_saurfangAI", "dd/dad/a17618.html", "dd/dad/a17618" ],
-    [ "boss_deathbringer_saurfang", "db/db0/a17614.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
-    [ "GetAI", "db/db0/a17614.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
+    [ "npc_high_overlord_saurfangAI", "db/db0/a17614.html#a5c31259d9eb26e09d2b645d826e75328", null ],
+    [ "DoAction", "db/db0/a17614.html#a4a372a14c960c48c51a1c8e34ebffc53", null ],
+    [ "MovementInform", "db/db0/a17614.html#a6a46f99ffb67a699ef9adb2a1afcbe13", null ],
+    [ "Reset", "db/db0/a17614.html#a28899c61f9b4d3612535d1a01dc05f4a", null ],
+    [ "SpellHit", "db/db0/a17614.html#a6399e9c9ecdb8c01fbd2bcd1b081811f", null ],
+    [ "UpdateAI", "db/db0/a17614.html#a92124e7490a066bf63836397a3bdc71b", null ],
+    [ "_events", "db/db0/a17614.html#a12bbe13cf8fd1eda0cb8aa75ecafddc4", null ],
+    [ "_guardList", "db/db0/a17614.html#a1d8ccb93c5c8d13767fa8a1429adb262", null ],
+    [ "_instance", "db/db0/a17614.html#a4181022e52fc10e2d5d98dcffe9ced62", null ]
 ];

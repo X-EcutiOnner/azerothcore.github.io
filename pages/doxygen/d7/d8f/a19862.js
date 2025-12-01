@@ -1,6 +1,6 @@
 var a19862 =
 [
-    [ "instance_halls_of_stone_InstanceMapScript", "d8/d4f/a19866.html", "d8/d4f/a19866" ],
-    [ "instance_halls_of_stone", "d7/d8f/a19862.html#ad0237cfaf2e48036f45181fd7746df2b", null ],
-    [ "GetInstanceScript", "d7/d8f/a19862.html#a784906c7710a216016101cf7a6a915f3", null ]
+    [ "npc_living_constellationAI", "d8/d4f/a19866.html", "d8/d4f/a19866" ],
+    [ "npc_living_constellation", "d7/d8f/a19862.html#a6ee651a525498cb5715ccfedaa26e05d", null ],
+    [ "GetAI", "d7/d8f/a19862.html#a4533812a4da72c0d9eff6d6c9eaf772a", null ]
 ];

@@ -1,8 +1,10 @@
 var a11886 =
 [
-    [ "pet_commandscript", "d2/d0a/a11886.html#a84595dcb908398e80deee0b0aa47e335", null ],
-    [ "GetCommands", "d2/d0a/a11886.html#a01026a4936774d2225d10e0f6e27b08c", null ],
-    [ "HandlePetCreateCommand", "d2/d0a/a11886.html#a993d06169aa0b0c4bbda38e124b6eea9", null ],
-    [ "HandlePetLearnCommand", "d2/d0a/a11886.html#a59a2a6bd9af23fe3a775319216337bda", null ],
-    [ "HandlePetUnlearnCommand", "d2/d0a/a11886.html#ae6d785cdde773b107ba5e619b039f7b8", null ]
+    [ "lfg_commandscript", "d2/d0a/a11886.html#a90faaca821e4162e0aea40a4d98af62c", null ],
+    [ "GetCommands", "d2/d0a/a11886.html#a324310f9b04675c277ceae44ea09fbaf", null ],
+    [ "HandleLfgCleanCommand", "d2/d0a/a11886.html#a93db689dbdb97a0318d62409a863767e", null ],
+    [ "HandleLfgGroupInfoCommand", "d2/d0a/a11886.html#a2376288a2ef82d8a19602cd66ff880f2", null ],
+    [ "HandleLfgOptionsCommand", "d2/d0a/a11886.html#a73187a97c883d8d1bb3765943dd98c39", null ],
+    [ "HandleLfgPlayerInfoCommand", "d2/d0a/a11886.html#acdf12aff45f16904df5724ab158e3b97", null ],
+    [ "HandleLfgQueueInfoCommand", "d2/d0a/a11886.html#a54dcdf133cc5b22961c34eda62a4f2fc", null ]
 ];

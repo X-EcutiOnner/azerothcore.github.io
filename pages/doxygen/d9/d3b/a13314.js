@@ -1,8 +1,11 @@
 var a13314 =
 [
-    [ "npc_apothecary_baxter", "d9/d3b/a13314.html#a4a41816ff4f857a15a4665b8da1aec99", null ],
-    [ "JustDied", "d9/d3b/a13314.html#a9bf2362ba1b1e3a290ca12f1ceb54ab9", null ],
-    [ "Reset", "d9/d3b/a13314.html#afee5103029bd761c48cbf6a11655c44a", null ],
-    [ "UpdateAI", "d9/d3b/a13314.html#ad06090f599d0fda3a88f3182c990a49f", null ],
-    [ "_scheduler", "d9/d3b/a13314.html#a6d813041e055f3c2b28be7cba3acde13", null ]
+    [ "npc_scholomance_occultistAI", "d9/d3b/a13314.html#af78103d07aef427130d26b4aed5e5ae3", null ],
+    [ "JustEngagedWith", "d9/d3b/a13314.html#a03f0f6d015065c5afcf025dc44dc6aa8", null ],
+    [ "JustReachedHome", "d9/d3b/a13314.html#ac4bb0aa4009191a36dd4cebb45fd2ad5", null ],
+    [ "SelectUnitCasting", "d9/d3b/a13314.html#adde187b89a74a57aac823e4eb19bfeed", null ],
+    [ "UpdateAI", "d9/d3b/a13314.html#ab02edf780adb553b2314045d8effa277", null ],
+    [ "events", "d9/d3b/a13314.html#a1ee55a572462a1e832a5b89c8906bd87", null ],
+    [ "instance", "d9/d3b/a13314.html#a195fe4d681580c17086a5390fd4f82ba", null ],
+    [ "originalDisplayId", "d9/d3b/a13314.html#a4dcc895fef36cd1e9ca8cf38bdc2f6c4", null ]
 ];

@@ -1,6 +1,6 @@
 var a12078 =
 [
-    [ "boss_gorosh_the_dervishAI", "dc/d30/a12082.html", "dc/d30/a12082" ],
-    [ "boss_gorosh_the_dervish", "d2/db3/a12078.html#a18c39f21ebf6a9d43d37eb92857083a3", null ],
-    [ "GetAI", "d2/db3/a12078.html#abae1fa2a7e959d1b7b02e0850aff4fb9", null ]
+    [ "boss_ambassador_flamelashAI", "dc/d30/a12082.html", "dc/d30/a12082" ],
+    [ "boss_ambassador_flamelash", "d2/db3/a12078.html#a53d24a240e48033b0474970e8acac1f4", null ],
+    [ "GetAI", "d2/db3/a12078.html#a332e347d803a58989445ec57d75361ab", null ]
 ];

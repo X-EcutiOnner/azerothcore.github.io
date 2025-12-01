@@ -1,11 +1,9 @@
 var a22470 =
 [
-    [ "npc_iron_watcherAI", "de/d45/a22470.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
-    [ "MovementInform", "de/d45/a22470.html#aaf329f0160efa778abdebf86b1cf230b", null ],
-    [ "Reset", "de/d45/a22470.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
-    [ "SpellHit", "de/d45/a22470.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
-    [ "UpdateAI", "de/d45/a22470.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
-    [ "charging", "de/d45/a22470.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
-    [ "hpTimer", "de/d45/a22470.html#afcbb113387345361baf0351a19e6eb1d", null ],
-    [ "spellTimer", "de/d45/a22470.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
+    [ "npc_hyldsmeet_protodrakeAI", "de/d43/a22474.html", "de/d43/a22474" ],
+    [ "NPCs", "de/d45/a22470.html#a8f2ea95c836ba6bab370301fbf3e6822", [
+      [ "NPC_HYLDSMEET_DRAKERIDER", "de/d45/a22470.html#a8f2ea95c836ba6bab370301fbf3e6822a1b77c38a75142cff5392a89db3e765df", null ]
+    ] ],
+    [ "npc_hyldsmeet_protodrake", "de/d45/a22470.html#a2471f1d858d7ae8f801208e35860a95e", null ],
+    [ "GetAI", "de/d45/a22470.html#a791e5cff3901f9a3ec365d4049b82d25", null ]
 ];

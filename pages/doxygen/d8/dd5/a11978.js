@@ -1,15 +1,9 @@
 var a11978 =
 [
-    [ "boss_vanndarAI", "d8/dd5/a11978.html#ada061b4363340602fd1f4744433d9cf9", null ],
-    [ "AttackStart", "d8/dd5/a11978.html#a76ab9327e04b82b534a9b3ea59b377d1", null ],
-    [ "EnterEvadeMode", "d8/dd5/a11978.html#a9ba6e2620a25728bf30d4d813a82b781", null ],
-    [ "JustEngagedWith", "d8/dd5/a11978.html#abde00baf4099361b8c26e6e0cf6c1517", null ],
-    [ "Reset", "d8/dd5/a11978.html#a1c2fdf4351a43047f02bec1d46423cb8", null ],
-    [ "UpdateAI", "d8/dd5/a11978.html#ab410ed8d64cd91bd6c4b78b2ed678eab", null ],
-    [ "Attacked", "d8/dd5/a11978.html#ac5994c76a9d84cf303021a9298673d68", null ],
-    [ "AvatarTimer", "d8/dd5/a11978.html#a3bed38b10a87baf50e9c9a57229bd464", null ],
-    [ "ResetTimer", "d8/dd5/a11978.html#ae1c4e16cd9ad68e4700d68ed64baa8e2", null ],
-    [ "StormboltTimer", "d8/dd5/a11978.html#a71ef70c1b504be2b00be1a70e85bc18a", null ],
-    [ "ThunderclapTimer", "d8/dd5/a11978.html#a681a103b6cf937dad3fb15e5be358c26", null ],
-    [ "YellTimer", "d8/dd5/a11978.html#a2b8503aaae0fd5e8cd92bb9650ee6ee3", null ]
+    [ "titles_commandscript", "d8/dd5/a11978.html#ac088fd907013150a0508b79c99f6c2f3", null ],
+    [ "GetCommands", "d8/dd5/a11978.html#af7d00111b3190f8bc9c46cedda3621d6", null ],
+    [ "HandleTitlesAddCommand", "d8/dd5/a11978.html#a2a44d6f83bc5617a25a53b18fbd35e32", null ],
+    [ "HandleTitlesCurrentCommand", "d8/dd5/a11978.html#a9a9b503e9ee65aa0d92cc7ff2e38a09d", null ],
+    [ "HandleTitlesRemoveCommand", "d8/dd5/a11978.html#a2001bcc2eddc5688d57154f9906218e4", null ],
+    [ "HandleTitlesSetMaskCommand", "d8/dd5/a11978.html#a9517b10295b856779cdd067234f640c8", null ]
 ];

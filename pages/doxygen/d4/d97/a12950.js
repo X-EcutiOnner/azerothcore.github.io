@@ -1,8 +1,13 @@
 var a12950 =
 [
-    [ "npc_barnesAI", "df/d9f/a12954.html", "df/d9f/a12954" ],
-    [ "npc_barnes", "d4/d97/a12950.html#aacdc737a94397a90b48b635293fe9c80", null ],
-    [ "GetAI", "d4/d97/a12950.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
-    [ "OnGossipHello", "d4/d97/a12950.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
-    [ "OnGossipSelect", "d4/d97/a12950.html#aa04d577e318f16f581f82761b6014eb5", null ]
+    [ "boss_crone", "d4/d97/a12950.html#a710bdf6fac05be54cf10e40cd661c837", null ],
+    [ "EnterEvadeMode", "d4/d97/a12950.html#a4dcdde0b699f445cfa6be7e0c7dbb8d0", null ],
+    [ "JustDied", "d4/d97/a12950.html#a545de2a25b48590d11896c41b6e94df0", null ],
+    [ "JustEngagedWith", "d4/d97/a12950.html#a9801cd39667d1a08770820bd17beac00", null ],
+    [ "JustReachedHome", "d4/d97/a12950.html#a59d40cda923cb8b72413b9d5f267f52a", null ],
+    [ "KilledUnit", "d4/d97/a12950.html#ae4d343636955589d740d1df4e21fba99", null ],
+    [ "Reset", "d4/d97/a12950.html#a247db7fc1329ef00e48fd9bd09fb27a1", null ],
+    [ "UpdateAI", "d4/d97/a12950.html#a8bd505acd55ca5292d29c96916a461e5", null ],
+    [ "_scheduler", "d4/d97/a12950.html#a7f9e2e45c0bbb60fc19dd54bc380f814", null ],
+    [ "instance", "d4/d97/a12950.html#a3795fe3185005693ed9bba49177bb35a", null ]
 ];

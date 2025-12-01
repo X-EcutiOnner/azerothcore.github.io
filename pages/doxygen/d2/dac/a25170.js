@@ -1,6 +1,7 @@
 var a25170 =
 [
-    [ "HandleOnEffectHit", "d2/dac/a25170.html#a07b15e180ee79149cad15b32b3c94359", null ],
-    [ "PrepareSpellScript", "d2/dac/a25170.html#afbea54d2dad7a969d7e7558d43ecbc95", null ],
-    [ "Register", "d2/dac/a25170.html#ad2426cf9076d3fe4f33984ab28df11f6", null ]
+    [ "HandleEffectPeriodic", "d2/dac/a25170.html#a3a2e7653276964fd36c93b41aa8f25ea", null ],
+    [ "PrepareAuraScript", "d2/dac/a25170.html#a893a539f4eeb0b9f027c5a306cc7bd53", null ],
+    [ "Register", "d2/dac/a25170.html#a36792fd068ec7444aa118ec63cf972a7", null ],
+    [ "Validate", "d2/dac/a25170.html#aa57af116294cfba007586506ba1dbeb5", null ]
 ];

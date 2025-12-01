@@ -1,8 +1,10 @@
 var a21274 =
 [
-    [ "boss_keleseth", "db/dc6/a21274.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
-    [ "AttackStart", "db/dc6/a21274.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
-    [ "JustDied", "db/dc6/a21274.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
-    [ "JustEngagedWith", "db/dc6/a21274.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
-    [ "KilledUnit", "db/dc6/a21274.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
+    [ "npc_enslaved_proto_drake", "db/dc6/a21274.html#aec835fdc8b1beb270176d5341d26c265", null ],
+    [ "MovementInform", "db/dc6/a21274.html#ad2a25f78a82e0f2cef1e7809cb1d7d89", null ],
+    [ "Reset", "db/dc6/a21274.html#a3c1ea80e356e33c4a4b7ed5d083fc7b5", null ],
+    [ "SetData", "db/dc6/a21274.html#a888219a604e4c95a5a3e442fcf8c1a39", null ],
+    [ "UpdateAI", "db/dc6/a21274.html#a252f84198df610bac44b6bd9cd80602e", null ],
+    [ "_events", "db/dc6/a21274.html#a89b48d6fb010bc9611b625e5f02b94d3", null ],
+    [ "_setData", "db/dc6/a21274.html#adb997badd8831dea7763eaecc93b7773", null ]
 ];

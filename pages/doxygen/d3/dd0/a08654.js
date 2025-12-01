@@ -1,10 +1,9 @@
 var a08654 =
 [
-    [ "Index", "d3/dd0/a08654.html#a28b25d822326a1b7d5ec7f95ce084bac", [
-      [ "REGULAR", "d3/dd0/a08654.html#a28b25d822326a1b7d5ec7f95ce084bacaff2524a88b92db0ec25cc1f17b28cf68", null ],
-      [ "ADDON", "d3/dd0/a08654.html#a28b25d822326a1b7d5ec7f95ce084baca0d74e752005cb5fe12644048433ea5cb", null ],
-      [ "MAX", "d3/dd0/a08654.html#a28b25d822326a1b7d5ec7f95ce084baca6ca77c7f76d3ccd18db1d4c0f4e070a5", null ]
-    ] ],
-    [ "Count", "d3/dd0/a08654.html#a0dc1d4dc63d5289fde92bbb2c28a7e2e", null ],
-    [ "Time", "d3/dd0/a08654.html#a20b83dcc96256f2ab16326b2b8ec925e", null ]
+    [ "achievements", "d3/dd0/a08654.html#acfdabccf4f66aa7ebfbae0bfe185f6dc", null ],
+    [ "items", "d3/dd0/a08654.html#a2873836588f37b9a5cf691da2b6fa715", null ],
+    [ "levelMax", "d3/dd0/a08654.html#a7430d852e5426c1a32e49c77d747f4e6", null ],
+    [ "levelMin", "d3/dd0/a08654.html#a823016216268e13116a46bcb40ea0e70", null ],
+    [ "quests", "d3/dd0/a08654.html#a6150aa58762a13dcbfcb55507df77809", null ],
+    [ "reqItemLevel", "d3/dd0/a08654.html#a97f262e488e178dad0c33f228808f69e", null ]
 ];

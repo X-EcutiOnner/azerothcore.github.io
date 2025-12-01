@@ -1,6 +1,8 @@
 var a20134 =
 [
-    [ "npc_storm_beacon_spawnAI", "df/d7d/a20138.html", "df/d7d/a20138" ],
-    [ "npc_storm_beacon_spawn", "db/d2e/a20134.html#a0316646f43fd0ed6fe4576bf691116a0", null ],
-    [ "GetAI", "db/d2e/a20134.html#a780dd823962e259dbeda7089224aa23e", null ]
+    [ "OnApply", "db/d2e/a20134.html#a5aec8606684637bbdb1e819254f5d483", null ],
+    [ "OnRemove", "db/d2e/a20134.html#add485a2fd5fdd068d7258d3c9c0d9c2b", null ],
+    [ "PrepareAuraScript", "db/d2e/a20134.html#adcc21606209dc2f32c1173c7ab4c5579", null ],
+    [ "Register", "db/d2e/a20134.html#af1db6ca387cf0733ba4b9c324172d692", null ],
+    [ "Validate", "db/d2e/a20134.html#a332d01b39295ea9a11773be9aa9c3fb3", null ]
 ];

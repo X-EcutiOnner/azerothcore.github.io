@@ -1,6 +1,8 @@
 var a22050 =
 [
-    [ "npc_q24545_vegard_dummyAI", "d8/da2/a22054.html", "d8/da2/a22054" ],
-    [ "npc_q24545_vegard_dummy", "df/dab/a22050.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
-    [ "GetAI", "df/dab/a22050.html#a201d1dec206887c26e33f795a0fd0887", null ]
+    [ "AfterApply", "df/dab/a22050.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
+    [ "PeriodicTick", "df/dab/a22050.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
+    [ "PrepareAuraScript", "df/dab/a22050.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
+    [ "Register", "df/dab/a22050.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
+    [ "Validate", "df/dab/a22050.html#a946248656cb755f85dd93fd4d607c9a7", null ]
 ];

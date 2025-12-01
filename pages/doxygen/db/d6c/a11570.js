@@ -1,4 +1,10 @@
 var a11570 =
 [
-    [ "operator()", "db/d6c/a11570.html#a92cee61e659d819612af9d8f340661ab", null ]
+    [ "AcoreStringChatBuilder", "db/d6c/a11570.html#a7e280083c80fd119d365649fd4578fc9", null ],
+    [ "operator()", "db/d6c/a11570.html#a09a2a03dca2b8470cd1d1f7c8273868b", null ],
+    [ "_args", "db/d6c/a11570.html#aa92a28b7d6a7dd59ea7da3a76c1fb4cc", null ],
+    [ "_msgType", "db/d6c/a11570.html#adbabf871f33692b0ecddc8cc0fb75586", null ],
+    [ "_source", "db/d6c/a11570.html#ac5222737ea1b95b6d75afc532838f8be", null ],
+    [ "_target", "db/d6c/a11570.html#ab659b7c7bd6426a023cf8668322327b8", null ],
+    [ "_textId", "db/d6c/a11570.html#a3d29de9c5d80c3df488aa01fa380a84a", null ]
 ];

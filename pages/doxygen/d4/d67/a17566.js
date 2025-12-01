@@ -1,25 +1,6 @@
 var a17566 =
 [
-    [ "boss_blood_queen_lana_thelAI", "d4/d67/a17566.html#ab28467f9b11a87162dae0306a1f2fb20", null ],
-    [ "CanAIAttack", "d4/d67/a17566.html#a4b6ce34090fcf21eb68560c078278303", null ],
-    [ "CleanAuras", "d4/d67/a17566.html#a78b0d391090e9d2424da315bf1f696e9", null ],
-    [ "DoAction", "d4/d67/a17566.html#a2e7d45ce9d7a0e05b60c9e94f736d1b3", null ],
-    [ "EnterEvadeMode", "d4/d67/a17566.html#afb02799e3fad05e2e0d48ea5b3be7526", null ],
-    [ "GoToMinchar", "d4/d67/a17566.html#acb939a02a912d1db13947a939f4c554c", null ],
-    [ "JustDied", "d4/d67/a17566.html#a475fcf43849c5cd2144020f57c2a461f", null ],
-    [ "JustEngagedWith", "d4/d67/a17566.html#a01866a1f5a20bd9b4ccf754051dedd10", null ],
-    [ "KilledUnit", "d4/d67/a17566.html#aebb53f7599dd3a55953946b7cc9e76d6", null ],
-    [ "MovementInform", "d4/d67/a17566.html#a4b74cb2b2f36ae115327e8a0532fdc23", null ],
-    [ "Reset", "d4/d67/a17566.html#abc58e7c6c384ea4c342d6b153557c4b1", null ],
-    [ "SetGUID", "d4/d67/a17566.html#ac1620cfe6e8f20a8ef54b211a5641bea", null ],
-    [ "UpdateAI", "d4/d67/a17566.html#a13fe9d7463efbecf63d78fce59fc4fab", null ],
-    [ "WasBloodbolted", "d4/d67/a17566.html#a76f5eca557f9d25c8025a909b1de8faf", null ],
-    [ "WasVampire", "d4/d67/a17566.html#a7a74b7241f0ff736bdff7088ee384695", null ],
-    [ "_bloodboltedPlayers", "d4/d67/a17566.html#a1c5ef6d44112d67a29dde74371ab644a", null ],
-    [ "_creditBloodQuickening", "d4/d67/a17566.html#a3534b15706cd35ad8de485fc430207b1", null ],
-    [ "_killMinchar", "d4/d67/a17566.html#ac617b5511beacd7b98d0e9ae8773e7dc", null ],
-    [ "_offtankGUID", "d4/d67/a17566.html#a8a4d21d7ab9ad827c88a7869000c3628", null ],
-    [ "_tankGUID", "d4/d67/a17566.html#a231f68b31fdd105559c186d4edbfc47b", null ],
-    [ "_vampires", "d4/d67/a17566.html#af808b2b543ea9b27b4b03d0e561fb90e", null ],
-    [ "bEnteredCombat", "d4/d67/a17566.html#aca37d322e154ae01ceb4e96b3b42d5d0", null ]
+    [ "FilterTargets", "d4/d67/a17566.html#aede4900c9b71bf60ca61e03dd0b63aa8", null ],
+    [ "PrepareSpellScript", "d4/d67/a17566.html#a2ddc1dc9c04297a80f6708e546fe5a58", null ],
+    [ "Register", "d4/d67/a17566.html#add40d7731b07b30b595f76f7d4e983f4", null ]
 ];

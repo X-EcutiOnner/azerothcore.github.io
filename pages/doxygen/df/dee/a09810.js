@@ -1,8 +1,10 @@
 var a09810 =
 [
-    [ "EllipseBoundary", "df/dee/a09810.html#aeb8c822a8c4c745de0c848721a624545", null ],
-    [ "IsWithinBoundaryArea", "df/dee/a09810.html#a203ccf7ca23f1d66f834bdadb8b18b31", null ],
-    [ "_center", "df/dee/a09810.html#aa84bae8bced77e38fec652e473cf39c7", null ],
-    [ "_radiusYSq", "df/dee/a09810.html#ae933c6b1e62967f98c95cfbd4822b818", null ],
-    [ "_scaleXSq", "df/dee/a09810.html#ad781cadd6c09e482d3a93ad71440a4c2", null ]
+    [ "DoublePosition", "d6/d8e/a09814.html", "d6/d8e/a09814" ],
+    [ "~AreaBoundary", "df/dee/a09810.html#a6050e91b3d485e75186a2df9a56e8d38", null ],
+    [ "AreaBoundary", "df/dee/a09810.html#adf670910c492c08d3384c2dd1824e7ce", null ],
+    [ "IsWithinBoundary", "df/dee/a09810.html#aac0ce1e801f3de8f3bb83b98ecd6e5c1", null ],
+    [ "IsWithinBoundary", "df/dee/a09810.html#a1d407f77ce0388263fc0ee6224734213", null ],
+    [ "IsWithinBoundaryArea", "df/dee/a09810.html#ae5580b0044dba24d100831fe51ee1abc", null ],
+    [ "_isInvertedBoundary", "df/dee/a09810.html#ad416f29594688ce670549d6fdcce4314", null ]
 ];

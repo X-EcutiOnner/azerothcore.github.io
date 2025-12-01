@@ -1,6 +1,7 @@
 var a14198 =
 [
-    [ "FilterTargets", "d0/d2c/a14198.html#ac29f6792f36f1b5ef4a463754c725a2e", null ],
-    [ "PrepareSpellScript", "d0/d2c/a14198.html#a0a1cbde8aff10303d91a791276a865f4", null ],
-    [ "Register", "d0/d2c/a14198.html#a9f7d21ab52f581ad154a242ce84d8a5d", null ]
+    [ "OnRemove", "d0/d2c/a14198.html#ab909660f32a77e86fde5da35e2f69302", null ],
+    [ "PrepareAuraScript", "d0/d2c/a14198.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
+    [ "Register", "d0/d2c/a14198.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
+    [ "Validate", "d0/d2c/a14198.html#abd1254c53c04f72f848d8641affc729d", null ]
 ];

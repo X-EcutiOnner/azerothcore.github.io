@@ -1,7 +1,6 @@
 var a22178 =
 [
-    [ "HandleScript", "d9/d90/a22178.html#a95de3ae27cfd764380ab1648b49af38d", null ],
-    [ "Load", "d9/d90/a22178.html#a1aafe141985bc1e9c5b9467d4896d96b", null ],
-    [ "PrepareSpellScript", "d9/d90/a22178.html#a442138710213b9b120d8ce57b733205a", null ],
-    [ "Register", "d9/d90/a22178.html#af9d8f764a6a02737f8b559f067156df6", null ]
+    [ "npc_razael_and_lyana", "d9/d90/a22178.html#aec7257a1136a3580e2b4542e032429d6", null ],
+    [ "OnGossipHello", "d9/d90/a22178.html#a9c9085db92853d5275c12e804a68b0fc", null ],
+    [ "OnGossipSelect", "d9/d90/a22178.html#a407d8344280e8e38efb3991fda1d52cd", null ]
 ];

@@ -1,5 +1,6 @@
 var a21374 =
 [
-    [ "go_harpoon_canon", "d1/da8/a21374.html#aa7651e111cade00bbbdb9d0feced03e6", null ],
-    [ "OnGossipHello", "d1/da8/a21374.html#ad0098bafd1233636bde181312126e65f", null ]
+    [ "boss_ymironAI", "d2/d3b/a21378.html", "d2/d3b/a21378" ],
+    [ "boss_ymiron", "d1/da8/a21374.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
+    [ "GetAI", "d1/da8/a21374.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
 ];

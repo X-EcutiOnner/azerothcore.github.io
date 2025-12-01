@@ -1,6 +1,11 @@
 var a07810 =
 [
-    [ "value_type", "da/d3d/a07810.html#a6ffbf1b2887c79b97a1804a601ea585e", null ],
-    [ "StoreTo", "da/d3d/a07810.html#a872daea2854f6243884ec35734f94d2e", null ],
-    [ "tag", "da/d3d/a07810.html#acbb2b3fc4989e4bb51e3440dcb753719", null ]
+    [ "EnchantId", "da/d3d/a07810.html#ad68d4f09195ba9c2a74bc9187e1cc1dd", null ],
+    [ "GemEnchantId", "da/d3d/a07810.html#a680481a1dcc0a163cabeb02e426d89cd", null ],
+    [ "IsBuggedInspectLink", "da/d3d/a07810.html#a1db96c31b140774302c633e99bcea93f", null ],
+    [ "Item", "da/d3d/a07810.html#a89b08bf0a3fb31ef6c0f71919b05195e", null ],
+    [ "RandomProperty", "da/d3d/a07810.html#a07871677ea967da347a6debafa7c91e7", null ],
+    [ "RandomSuffix", "da/d3d/a07810.html#a39126c77bdd1d3d850a20cf02bb034ae", null ],
+    [ "RandomSuffixBaseAmount", "da/d3d/a07810.html#aa9a99d071ee623b0df6f456199e1262a", null ],
+    [ "RenderLevel", "da/d3d/a07810.html#acb1024455a3b847ea13390c05b79cd0c", null ]
 ];

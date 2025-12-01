@@ -1,5 +1,5 @@
 var a22694 =
 [
-    [ "OutdoorPvP_eastern_plaguelands", "db/da7/a22694.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
-    [ "GetOutdoorPvP", "db/da7/a22694.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
+    [ "outdoorpvp_na_halaa_creatures", "db/da7/a22694.html#a9656bb7620967f1c9db6ff28a1c6bfe2", null ],
+    [ "UpdateAI", "db/da7/a22694.html#a16c8cb2d19396e6db4700a37e0d02feb", null ]
 ];

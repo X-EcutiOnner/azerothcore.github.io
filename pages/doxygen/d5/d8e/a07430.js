@@ -1,12 +1,7 @@
 var a07430 =
 [
-    [ "CapturePointInfo", "d5/d8e/a07430.html#a8bd80d9a019a5579d32051c6c3f91c0b", null ],
-    [ "IsUncontrolled", "d5/d8e/a07430.html#a4a4dbb61dd3ae83084ee518830fb7db0", null ],
-    [ "IsUnderControl", "d5/d8e/a07430.html#a3f33897525f5104e2e7733dd6247c090", null ],
-    [ "IsUnderControl", "d5/d8e/a07430.html#af6b021020b120b87c300981b8bb60992", null ],
-    [ "_areaTrigger", "d5/d8e/a07430.html#aca64138e11e9e29a55bfedeee5b7e7ea", null ],
-    [ "_barStatus", "d5/d8e/a07430.html#a02da5cc40ac6e97e63380d6f66e10d7e", null ],
-    [ "_ownerTeamId", "d5/d8e/a07430.html#a5f0019635c5d05489f1ef97a95a7f01d", null ],
-    [ "_playersCount", "d5/d8e/a07430.html#a7316d0eccaa25b9f30a39c48635e4c16", null ],
-    [ "player", "d5/d8e/a07430.html#a97c5da6401e8423c1314ad1186e1dfeb", null ]
+    [ "BattlegroundEYPointIconsStruct", "d5/d8e/a07430.html#a322379024d155d293d1c0083c510d232", null ],
+    [ "WorldStateAllianceControlledIndex", "d5/d8e/a07430.html#a449932bc2357e26c79520fcf01a71a2a", null ],
+    [ "WorldStateControlIndex", "d5/d8e/a07430.html#a82e87048f934b67821bc8ba308ed101d", null ],
+    [ "WorldStateHordeControlledIndex", "d5/d8e/a07430.html#a1118c998cf9a319f9c81c100d23c25d3", null ]
 ];

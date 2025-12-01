@@ -1,9 +1,7 @@
 var a14402 =
 [
-    [ "npc_brew_bubble", "df/d82/a14402.html#a188d1b68bb939d518e72e844e53e9a7d", null ],
-    [ "DoAction", "df/d82/a14402.html#a7223d3397b32cf2969ea628c06ac2f19", null ],
-    [ "MoveInLineOfSight", "df/d82/a14402.html#aea01d2c0f9ac883a8a8668164f16f932", null ],
-    [ "Reset", "df/d82/a14402.html#aa3ab8e07323b47751f72c5ebab24a1bb", null ],
-    [ "UpdateAI", "df/d82/a14402.html#a25018deaa206620f6e98ba722f689b8d", null ],
-    [ "timer", "df/d82/a14402.html#a4bee73add756ba4b3137818b2dacd27f", null ]
+    [ "GetEmptyEntry", "df/d82/a14402.html#a46dfe7b2f8598d24f17868266d1571c6", null ],
+    [ "HandleAfterHit", "df/d82/a14402.html#a4f8ab6e42ddf2188ccca2640363b9925", null ],
+    [ "PrepareSpellScript", "df/d82/a14402.html#a35f0ab4b36df3d9ec1191cbd9ba88c9e", null ],
+    [ "Register", "df/d82/a14402.html#a25e1858e1f81891443f4b7de50a5d495", null ]
 ];

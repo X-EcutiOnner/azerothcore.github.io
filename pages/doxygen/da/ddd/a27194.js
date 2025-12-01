@@ -1,7 +1,6 @@
 var a27194 =
 [
-    [ "HandleScript", "da/ddd/a27194.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
-    [ "PrepareSpellScript", "da/ddd/a27194.html#ab363d596d2d1e030f0cc07126b40e921", null ],
-    [ "Register", "da/ddd/a27194.html#ab9041b811e80e220828d5db59b724682", null ],
-    [ "Validate", "da/ddd/a27194.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
+    [ "AfterCheckProc", "da/ddd/a27194.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
+    [ "PrepareAuraScript", "da/ddd/a27194.html#aa184faf59edbad97ec361e66169137b9", null ],
+    [ "Register", "da/ddd/a27194.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
 ];

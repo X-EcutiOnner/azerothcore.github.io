@@ -1,5 +1,5 @@
 var a22642 =
 [
-    [ "go_finklestein_cauldron", "d5/d74/a22642.html#a8aa352319c54526069588dacd75ab883", null ],
-    [ "OnGossipHello", "d5/d74/a22642.html#aa04f55e8a6cc21cf4a1e4cdc35c6a1ae", null ]
+    [ "OutdoorPvP_eastern_plaguelands", "d5/d74/a22642.html#a5178152ee493eb90b1c1c0f611c6cd92", null ],
+    [ "GetOutdoorPvP", "d5/d74/a22642.html#abc4e99dfa8a600ef578b77ffc3956ada", null ]
 ];

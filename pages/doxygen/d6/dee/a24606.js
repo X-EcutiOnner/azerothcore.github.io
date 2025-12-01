@@ -1,8 +1,9 @@
 var a24606 =
 [
-    [ "npc_pet_gen_valkyr_guardian", "d6/dee/a24606.html#a546f0b0b4273de8216e9f688c2d68209", null ],
-    [ "InitializeAI", "d6/dee/a24606.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
-    [ "OwnerAttacked", "d6/dee/a24606.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
-    [ "UpdateAI", "d6/dee/a24606.html#a9a5a233763365c6cca5618459a23a816", null ],
-    [ "targetCheck", "d6/dee/a24606.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
+    [ "npc_pet_shaman_earth_elemental", "d6/dee/a24606.html#a07f3792cb3b5264d209f1b4726867773", null ],
+    [ "InitializeAI", "d6/dee/a24606.html#a8bbca6686ae324a50cd1598125280446", null ],
+    [ "JustEngagedWith", "d6/dee/a24606.html#ad9b48901b1d96e59ce60af6411a8baaf", null ],
+    [ "UpdateAI", "d6/dee/a24606.html#ab28951b483cab31bf5672fc74e7323e1", null ],
+    [ "_events", "d6/dee/a24606.html#ab7f72d0d574322965f1d0b23f144f1be", null ],
+    [ "_initAttack", "d6/dee/a24606.html#a2af73c97ef60b5b0ade26c9760b8b379", null ]
 ];

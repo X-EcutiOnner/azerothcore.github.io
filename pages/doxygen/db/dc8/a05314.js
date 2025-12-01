@@ -1,10 +1,5 @@
 var a05314 =
 [
-    [ "Find", "db/dc8/a05314.html#a1d6a7cd1596aa03a8e53609c7d7b6e33", null ],
-    [ "GetElements", "db/dc8/a05314.html#a653b00a9d570ae9d9276a061beda3f35", null ],
-    [ "GetElements", "db/dc8/a05314.html#a209cbb9e5ba70b9f5f66e64e2c36411d", null ],
-    [ "Insert", "db/dc8/a05314.html#ad61d9aa314133d8eba934fe56cff48e0", null ],
-    [ "Remove", "db/dc8/a05314.html#a5a9666fc5f0136a778d8c542a386d4bf", null ],
-    [ "Size", "db/dc8/a05314.html#a289258c9015016a70d2867df7e113def", null ],
-    [ "_elements", "db/dc8/a05314.html#adda6657e9a0fd08b105cd4d6b2baa9d3", null ]
+    [ "_elements", "db/dc8/a05314.html#acad24401d356f811f4660a6c845843e7", null ],
+    [ "_TailElements", "db/dc8/a05314.html#a3c5144877b9dcd68e1c2db2043796213", null ]
 ];

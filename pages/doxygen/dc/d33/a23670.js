@@ -1,7 +1,6 @@
 var a23670 =
 [
-    [ "CalcPeriodic", "dc/d33/a23670.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
-    [ "PrepareAuraScript", "dc/d33/a23670.html#a290913502dfe3dfb42b44a964468b97c", null ],
-    [ "Register", "dc/d33/a23670.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
-    [ "Update", "dc/d33/a23670.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "df/d1c/a23674.html", "df/d1c/a23674" ],
+    [ "instance_gruuls_lair", "dc/d33/a23670.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
+    [ "GetInstanceScript", "dc/d33/a23670.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
 ];

@@ -1,6 +1,6 @@
 var a21002 =
 [
-    [ "boss_yoggsaron_cloudAI", "dc/d17/a21006.html", "dc/d17/a21006" ],
-    [ "boss_yoggsaron_cloud", "da/d6d/a21002.html#ab52cc1fa8b45b70dde340b9f463ef2f1", null ],
-    [ "GetAI", "da/d6d/a21002.html#a2005f062eb9d78c7b09b045eba570b98", null ]
+    [ "boss_yoggsaron_death_orbAI", "dc/d17/a21006.html", "dc/d17/a21006" ],
+    [ "boss_yoggsaron_death_orb", "da/d6d/a21002.html#a862d01f012cee832b41bc7c584816b93", null ],
+    [ "GetAI", "da/d6d/a21002.html#a3169cd0e78642503f394a6cb74307871", null ]
 ];

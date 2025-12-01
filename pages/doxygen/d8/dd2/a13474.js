@@ -1,9 +1,5 @@
 var a13474 =
 [
-    [ "npc_demonic_vapor_trail", "d8/dd2/a13474.html#a5bd024ea050372e982a183da59b45904", null ],
-    [ "JustSummoned", "d8/dd2/a13474.html#a2e18ab340bfcc5ae2f1c80b92b0b5d3d", null ],
-    [ "Reset", "d8/dd2/a13474.html#a9da762ab640abfaf5092034f284239af", null ],
-    [ "SpellHitTarget", "d8/dd2/a13474.html#a21e2223f58156da2fbe1803554623ecd", null ],
-    [ "UpdateAI", "d8/dd2/a13474.html#a90810fcfc4f27a457917cb79f4320fe3", null ],
-    [ "_timer", "d8/dd2/a13474.html#a8eb3d3a6da57b7f0a2db9ff7ca7b01af", null ]
+    [ "at_sunwell_eredar_twins", "d8/dd2/a13474.html#afc183c384bc87321186b20e0ac168c1f", null ],
+    [ "_OnTrigger", "d8/dd2/a13474.html#aa862756c9905e2cb10d60c70b47919aa", null ]
 ];

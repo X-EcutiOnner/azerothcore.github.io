@@ -1,6 +1,8 @@
 var a23750 =
 [
-    [ "instance_blood_furnace_InstanceMapScript", "d6/d28/a23754.html", "d6/d28/a23754" ],
-    [ "instance_blood_furnace", "db/d57/a23750.html#a925a045fa518e72c1eff02fe3c66202b", null ],
-    [ "GetInstanceScript", "db/d57/a23750.html#a885ba94e1777dfd6586daca304622d3d", null ]
+    [ "npc_target_trigger", "db/d57/a23750.html#a238058ba80130c6239b7267db3247196", null ],
+    [ "Reset", "db/d57/a23750.html#ad23d465bfd78ede0a1556f2ce1742349", null ],
+    [ "UpdateAI", "db/d57/a23750.html#ab5f482e209d2d8aa5c27666d3e1934f3", null ],
+    [ "_cast", "db/d57/a23750.html#a4ec89ca960323f7ad135d5a425a82416", null ],
+    [ "_scheduler", "db/d57/a23750.html#a9b418b09e25c8f96692b4e2626339c96", null ]
 ];

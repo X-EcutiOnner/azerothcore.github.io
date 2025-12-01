@@ -1,6 +1,6 @@
 var a17546 =
 [
-    [ "KnockIntoAir", "d3/d77/a17546.html#a1f9fb1f258613ca6657abba26969961f", null ],
-    [ "PrepareSpellScript", "d3/d77/a17546.html#acf66a4b14ffce76b6c8dc7cc5906f229", null ],
-    [ "Register", "d3/d77/a17546.html#a35a7758630c1769228fedff84ad929e8", null ]
+    [ "VampiricBiteTargetSelector", "d3/d77/a17546.html#ab683a4d67f5ad319e3b680ba5bacc7c6", null ],
+    [ "operator()", "d3/d77/a17546.html#ac16204f50f62cb2568998d1ea137f55d", null ],
+    [ "_source", "d3/d77/a17546.html#af23a69491c915909566249b109b1f0e8", null ]
 ];

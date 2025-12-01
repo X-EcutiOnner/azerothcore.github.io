@@ -1,6 +1,6 @@
 var a22146 =
 [
-    [ "npc_amberpine_woodsmanAI", "d2/d82/a22150.html", "d2/d82/a22150" ],
-    [ "npc_amberpine_woodsman", "da/d7b/a22146.html#a33bbec50a360b724bfe9cb8612cbb47d", null ],
-    [ "GetAI", "da/d7b/a22146.html#a9c1df6c01c163ca68712d72b14c46139", null ]
+    [ "HandleOnEffectRemove", "da/d7b/a22146.html#a5aeae7d8fc2fb8c8a1ce446ba1887c51", null ],
+    [ "PrepareAuraScript", "da/d7b/a22146.html#af415e4d7ea0b4b881af94eb7ea0c3f4c", null ],
+    [ "Register", "da/d7b/a22146.html#a242faa8822f9cdb7762d8ec3b6245b30", null ]
 ];

@@ -1,7 +1,7 @@
 var a22150 =
 [
-    [ "npc_amberpine_woodsmanAI", "d2/d82/a22150.html#aa0f37b54c5bfc2f923d09437b8b30424", null ],
-    [ "Reset", "d2/d82/a22150.html#a8da613c7bbaadf331c95667e7a361702", null ],
-    [ "UpdateAI", "d2/d82/a22150.html#a64dbf41424a710c400d51507f6457b41", null ],
-    [ "_events", "d2/d82/a22150.html#aac8cd045a5518e3eaa9c24e0fb83ddaa", null ]
+    [ "HandleScript", "d2/d82/a22150.html#a7fec959237546201ea94d5f87068e1c5", null ],
+    [ "PrepareSpellScript", "d2/d82/a22150.html#ae0c3eafc8b227078a2dcaccf1c0a278b", null ],
+    [ "Register", "d2/d82/a22150.html#a0aab07a4950f60a290491aa13103b332", null ],
+    [ "Validate", "d2/d82/a22150.html#a92d5493a43fca5c54ef89cb19ce00aa2", null ]
 ];

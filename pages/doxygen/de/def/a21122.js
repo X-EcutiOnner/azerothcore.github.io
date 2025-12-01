@@ -1,10 +1,8 @@
 var a21122 =
 [
-    [ "boss_yoggsaron_voiceAI", "de/def/a21122.html#ac78b27f8d4df433e1fad2ae550a4da44", null ],
-    [ "Reset", "de/def/a21122.html#ae5561244ad7387a3614bb6f1e23a7001", null ],
-    [ "SpellHitTarget", "de/def/a21122.html#a0cc39577b4b70eb1be16f9c8b5cb5c72", null ],
-    [ "UpdateAI", "de/def/a21122.html#a3c8458c25f7389f5fb5218177590a4c6", null ],
-    [ "_current", "de/def/a21122.html#ad94ddde194a32b380ba1d309f1ece14a", null ],
-    [ "_targets", "de/def/a21122.html#ab6132214a2249fbb5de8a5115b114381", null ],
-    [ "events", "de/def/a21122.html#ac0c6aa9efe9d9e80b29fae8c190962dc", null ]
+    [ "Absorb", "de/def/a21122.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
+    [ "CalculateAmount", "de/def/a21122.html#afe50bf22d07e68757caffb056ad55811", null ],
+    [ "PrepareAuraScript", "de/def/a21122.html#afa4ef1f7faa36a521c208dde10d09437", null ],
+    [ "Register", "de/def/a21122.html#aae020936d42da81c445f7d296660987b", null ],
+    [ "Validate", "de/def/a21122.html#a5852135c5214ee3938603632b0f21917", null ]
 ];

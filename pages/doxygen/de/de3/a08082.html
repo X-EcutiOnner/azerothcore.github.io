@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: CreatureData Struct Reference</title>
+<title>AzerothCore: CreatureBaseStats Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,9 +106,10 @@ $(document).ready(function(){initNavTree('de/de3/a08082.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../dc/d7c/a08079.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">CreatureData Struct Reference</div></div>
+  <div class="headertitle"><div class="title">CreatureBaseStats Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
@@ -116,62 +117,39 @@ $(document).ready(function(){initNavTree('de/de3/a08082.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aaee070f272fcfe84179d307a58a6deda"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#aaee070f272fcfe84179d307a58a6deda">CreatureData</a> ()=default</td></tr>
-<tr class="separator:aaee070f272fcfe84179d307a58a6deda"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac8ec122f7d16f89b50301a636ebade6e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#ac8ec122f7d16f89b50301a636ebade6e">GenerateHealth</a> (<a class="el" href="../../dc/d37/a08078.html">CreatureTemplate</a> const *info) const</td></tr>
+<tr class="separator:ac8ec122f7d16f89b50301a636ebade6e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa6f523ebb8ef75db99db555547fd55d7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#aa6f523ebb8ef75db99db555547fd55d7">GenerateMana</a> (<a class="el" href="../../dc/d37/a08078.html">CreatureTemplate</a> const *info) const</td></tr>
+<tr class="separator:aa6f523ebb8ef75db99db555547fd55d7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad197fff9ab9cd6b45ca703d656d1d930"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#ad197fff9ab9cd6b45ca703d656d1d930">GenerateArmor</a> (<a class="el" href="../../dc/d37/a08078.html">CreatureTemplate</a> const *info) const</td></tr>
+<tr class="separator:ad197fff9ab9cd6b45ca703d656d1d930"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa11e229aed1ba159219e6d1a291b1c80"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#aa11e229aed1ba159219e6d1a291b1c80">GenerateBaseDamage</a> (<a class="el" href="../../dc/d37/a08078.html">CreatureTemplate</a> const *info) const</td></tr>
+<tr class="separator:aa11e229aed1ba159219e6d1a291b1c80"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a72249bb49bbcf08708bd30fc61e2cdea"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../de/de3/a08082.html">CreatureBaseStats</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a72249bb49bbcf08708bd30fc61e2cdea">GetBaseStats</a> (<a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> level, <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> unitClass)</td></tr>
+<tr class="separator:a72249bb49bbcf08708bd30fc61e2cdea"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:af2a1092af24c3766e10554729061e2ff"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#af2a1092af24c3766e10554729061e2ff">id1</a> {0}</td></tr>
-<tr class="separator:af2a1092af24c3766e10554729061e2ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7632a7510b2a868b926a6ea21bf07e7f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a7632a7510b2a868b926a6ea21bf07e7f">id2</a> {0}</td></tr>
-<tr class="separator:a7632a7510b2a868b926a6ea21bf07e7f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a934d70093ff85a859a80f672c96888b2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a934d70093ff85a859a80f672c96888b2">id3</a> {0}</td></tr>
-<tr class="separator:a934d70093ff85a859a80f672c96888b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad7b505ecbc54fd74d99d6d396b66ee84"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#ad7b505ecbc54fd74d99d6d396b66ee84">mapid</a> {0}</td></tr>
-<tr class="separator:ad7b505ecbc54fd74d99d6d396b66ee84"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a116526b4b43aa76b5f739c0f498a3144"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a116526b4b43aa76b5f739c0f498a3144">phaseMask</a> {0}</td></tr>
-<tr class="separator:a116526b4b43aa76b5f739c0f498a3144"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a51bd5a47d052accca3944095253d0d7a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a51bd5a47d052accca3944095253d0d7a">displayid</a> {0}</td></tr>
-<tr class="separator:a51bd5a47d052accca3944095253d0d7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac2d910ad95ea363dbe0a685d5db6cc79"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#ac2d910ad95ea363dbe0a685d5db6cc79">equipmentId</a> {0}</td></tr>
-<tr class="separator:ac2d910ad95ea363dbe0a685d5db6cc79"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab73d154a173a40973b8211e2bee4ecba"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#ab73d154a173a40973b8211e2bee4ecba">posX</a> {0.0f}</td></tr>
-<tr class="separator:ab73d154a173a40973b8211e2bee4ecba"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a98fbc00a0254cb68fbe796c2b54aef50"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a98fbc00a0254cb68fbe796c2b54aef50">posY</a> {0.0f}</td></tr>
-<tr class="separator:a98fbc00a0254cb68fbe796c2b54aef50"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aee7aae90ca299d8ac163bb068fed3f6a"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#aee7aae90ca299d8ac163bb068fed3f6a">posZ</a> {0.0f}</td></tr>
-<tr class="separator:aee7aae90ca299d8ac163bb068fed3f6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8e29f2f310f10644b21b86edce264cb6"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a8e29f2f310f10644b21b86edce264cb6">orientation</a> {0.0f}</td></tr>
-<tr class="separator:a8e29f2f310f10644b21b86edce264cb6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1f0910de3138ea16397173c9821acf35"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a1f0910de3138ea16397173c9821acf35">spawntimesecs</a> {0}</td></tr>
-<tr class="separator:a1f0910de3138ea16397173c9821acf35"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a05ac0d5358ba012c40155efee608772e"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a05ac0d5358ba012c40155efee608772e">wander_distance</a> {0.0f}</td></tr>
-<tr class="separator:a05ac0d5358ba012c40155efee608772e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac58e514339c9c60ce78876a7c1ef50f1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#ac58e514339c9c60ce78876a7c1ef50f1">currentwaypoint</a> {0}</td></tr>
-<tr class="separator:ac58e514339c9c60ce78876a7c1ef50f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8d792fe1be63517b89beeb7dc16bc59e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a8d792fe1be63517b89beeb7dc16bc59e">curhealth</a> {0}</td></tr>
-<tr class="separator:a8d792fe1be63517b89beeb7dc16bc59e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9282b4137e892574d3326273c19b7333"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a9282b4137e892574d3326273c19b7333">curmana</a> {0}</td></tr>
-<tr class="separator:a9282b4137e892574d3326273c19b7333"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5574b3c7c3976325c72f2d49a91d1ef3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a5574b3c7c3976325c72f2d49a91d1ef3">movementType</a> {0}</td></tr>
-<tr class="separator:a5574b3c7c3976325c72f2d49a91d1ef3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a63f086a033d91e31a78be1d5cd8c8dd5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a63f086a033d91e31a78be1d5cd8c8dd5">spawnMask</a> {0}</td></tr>
-<tr class="separator:a63f086a033d91e31a78be1d5cd8c8dd5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3de7f5eeb02d6c90c2ef4da7752ea87e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a3de7f5eeb02d6c90c2ef4da7752ea87e">npcflag</a> {0}</td></tr>
-<tr class="separator:a3de7f5eeb02d6c90c2ef4da7752ea87e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6dc0af68922ece07d5a0d86e361ce51e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a6dc0af68922ece07d5a0d86e361ce51e">unit_flags</a> {0}</td></tr>
-<tr class="separator:a6dc0af68922ece07d5a0d86e361ce51e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a25d7752e9510c8019469b8a09ce1b059"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a25d7752e9510c8019469b8a09ce1b059">dynamicflags</a> {0}</td></tr>
-<tr class="separator:a25d7752e9510c8019469b8a09ce1b059"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad82bedfdb0ea59c9de4fd26887ae322a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#ad82bedfdb0ea59c9de4fd26887ae322a">ScriptId</a></td></tr>
-<tr class="separator:ad82bedfdb0ea59c9de4fd26887ae322a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4163a83f674432afc99799dd013f806a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a4163a83f674432afc99799dd013f806a">dbData</a> {true}</td></tr>
-<tr class="separator:a4163a83f674432afc99799dd013f806a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a83cee007ec623b19bb2b002d16180d2d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a83cee007ec623b19bb2b002d16180d2d">BaseHealth</a> [<a class="el" href="../../d1/da3/a04100.html#ae11f8b7bbf107fc1f6bc24cd61f22404abab73a5837896e6ef2b20fd8483fc405">MAX_EXPANSIONS</a>]</td></tr>
+<tr class="separator:a83cee007ec623b19bb2b002d16180d2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a204af635372cb4a2c6ede1f79579385c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a204af635372cb4a2c6ede1f79579385c">BaseMana</a></td></tr>
+<tr class="separator:a204af635372cb4a2c6ede1f79579385c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9fed8e3227aa2ad7b40579b0be615030"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a9fed8e3227aa2ad7b40579b0be615030">BaseArmor</a></td></tr>
+<tr class="separator:a9fed8e3227aa2ad7b40579b0be615030"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8108d924e4de3ba741749e9386085e4f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a8108d924e4de3ba741749e9386085e4f">AttackPower</a></td></tr>
+<tr class="separator:a8108d924e4de3ba741749e9386085e4f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a684901a59108e94987c23ad5085e306a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a684901a59108e94987c23ad5085e306a">RangedAttackPower</a></td></tr>
+<tr class="separator:a684901a59108e94987c23ad5085e306a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a40f54b64689ca8c3d2b0de81384dbea9"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/de3/a08082.html#a40f54b64689ca8c3d2b0de81384dbea9">BaseDamage</a> [<a class="el" href="../../d1/da3/a04100.html#ae11f8b7bbf107fc1f6bc24cd61f22404abab73a5837896e6ef2b20fd8483fc405">MAX_EXPANSIONS</a>]</td></tr>
+<tr class="separator:a40f54b64689ca8c3d2b0de81384dbea9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="aaee070f272fcfe84179d307a58a6deda" name="aaee070f272fcfe84179d307a58a6deda"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaee070f272fcfe84179d307a58a6deda">&#9670;&#160;</a></span>CreatureData()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="ad197fff9ab9cd6b45ca703d656d1d930" name="ad197fff9ab9cd6b45ca703d656d1d930"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad197fff9ab9cd6b45ca703d656d1d930">&#9670;&#160;</a></span>GenerateArmor()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -180,387 +158,273 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">CreatureData::CreatureData </td>
+          <td class="memname">float CreatureBaseStats::GenerateArmor </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td class="paramtype"><a class="el" href="../../dc/d37/a08078.html">CreatureTemplate</a> const *&#160;</td>
+          <td class="paramname"><em>info</em></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  328</span>    {</div>
+<div class="line"><span class="lineno">  329</span>        <span class="keywordflow">return</span> std::ceil(<a class="code hl_variable" href="../../de/de3/a08082.html#a9fed8e3227aa2ad7b40579b0be615030">BaseArmor</a> * info-&gt;ModArmor);</div>
+<div class="line"><span class="lineno">  330</span>    }</div>
+<div class="ttc" id="aa08082_html_a9fed8e3227aa2ad7b40579b0be615030"><div class="ttname"><a href="../../de/de3/a08082.html#a9fed8e3227aa2ad7b40579b0be615030">CreatureBaseStats::BaseArmor</a></div><div class="ttdeci">float BaseArmor</div><div class="ttdef"><b>Definition:</b> CreatureData.h:306</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00306">BaseArmor</a>, and <a class="el" href="../../#l00239">CreatureTemplate::ModArmor</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00543">Creature::UpdateEntry()</a>.</p>
+
+</div>
+</div>
+<a id="aa11e229aed1ba159219e6d1a291b1c80" name="aa11e229aed1ba159219e6d1a291b1c80"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa11e229aed1ba159219e6d1a291b1c80">&#9670;&#160;</a></span>GenerateBaseDamage()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">float CreatureBaseStats::GenerateBaseDamage </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/d37/a08078.html">CreatureTemplate</a> const *&#160;</td>
+          <td class="paramname"><em>info</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  333</span>    {</div>
+<div class="line"><span class="lineno">  334</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/de3/a08082.html#a40f54b64689ca8c3d2b0de81384dbea9">BaseDamage</a>[info-&gt;expansion];</div>
+<div class="line"><span class="lineno">  335</span>    }</div>
+<div class="ttc" id="aa08082_html_a40f54b64689ca8c3d2b0de81384dbea9"><div class="ttname"><a href="../../de/de3/a08082.html#a40f54b64689ca8c3d2b0de81384dbea9">CreatureBaseStats::BaseDamage</a></div><div class="ttdeci">float BaseDamage[MAX_EXPANSIONS]</div><div class="ttdef"><b>Definition:</b> CreatureData.h:309</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00309">BaseDamage</a>, and <a class="el" href="../../#l00197">CreatureTemplate::expansion</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l01519">Creature::SelectLevel()</a>.</p>
+
+</div>
+</div>
+<a id="ac8ec122f7d16f89b50301a636ebade6e" name="ac8ec122f7d16f89b50301a636ebade6e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac8ec122f7d16f89b50301a636ebade6e">&#9670;&#160;</a></span>GenerateHealth()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureBaseStats::GenerateHealth </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/d37/a08078.html">CreatureTemplate</a> const *&#160;</td>
+          <td class="paramname"><em>info</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  314</span>    {</div>
+<div class="line"><span class="lineno">  315</span>        <span class="keywordflow">return</span> <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(std::ceil(<a class="code hl_variable" href="../../de/de3/a08082.html#a83cee007ec623b19bb2b002d16180d2d">BaseHealth</a>[info-&gt;expansion] * info-&gt;ModHealth));</div>
+<div class="line"><span class="lineno">  316</span>    }</div>
+<div class="ttc" id="aa04310_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
+<div class="ttc" id="aa08082_html_a83cee007ec623b19bb2b002d16180d2d"><div class="ttname"><a href="../../de/de3/a08082.html#a83cee007ec623b19bb2b002d16180d2d">CreatureBaseStats::BaseHealth</a></div><div class="ttdeci">uint32 BaseHealth[MAX_EXPANSIONS]</div><div class="ttdef"><b>Definition:</b> CreatureData.h:304</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00304">BaseHealth</a>, <a class="el" href="../../#l00197">CreatureTemplate::expansion</a>, and <a class="el" href="../../#l00237">CreatureTemplate::ModHealth</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02566">ObjectMgr::AddCreData()</a>, and <a class="el" href="../../#l01519">Creature::SelectLevel()</a>.</p>
+
+</div>
+</div>
+<a id="aa6f523ebb8ef75db99db555547fd55d7" name="aa6f523ebb8ef75db99db555547fd55d7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa6f523ebb8ef75db99db555547fd55d7">&#9670;&#160;</a></span>GenerateMana()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureBaseStats::GenerateMana </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dc/d37/a08078.html">CreatureTemplate</a> const *&#160;</td>
+          <td class="paramname"><em>info</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  319</span>    {</div>
+<div class="line"><span class="lineno">  320</span>        <span class="comment">// Mana can be 0.</span></div>
+<div class="line"><span class="lineno">  321</span>        <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../de/de3/a08082.html#a204af635372cb4a2c6ede1f79579385c">BaseMana</a>)</div>
+<div class="line"><span class="lineno">  322</span>            <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">  323</span> </div>
+<div class="line"><span class="lineno">  324</span>        <span class="keywordflow">return</span> <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>(std::ceil(<a class="code hl_variable" href="../../de/de3/a08082.html#a204af635372cb4a2c6ede1f79579385c">BaseMana</a> * info-&gt;ModMana));</div>
+<div class="line"><span class="lineno">  325</span>    }</div>
+<div class="ttc" id="aa08082_html_a204af635372cb4a2c6ede1f79579385c"><div class="ttname"><a href="../../de/de3/a08082.html#a204af635372cb4a2c6ede1f79579385c">CreatureBaseStats::BaseMana</a></div><div class="ttdeci">uint32 BaseMana</div><div class="ttdef"><b>Definition:</b> CreatureData.h:305</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00305">BaseMana</a>, and <a class="el" href="../../#l00238">CreatureTemplate::ModMana</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l02566">ObjectMgr::AddCreData()</a>, and <a class="el" href="../../#l01519">Creature::SelectLevel()</a>.</p>
+
+</div>
+</div>
+<a id="a72249bb49bbcf08708bd30fc61e2cdea" name="a72249bb49bbcf08708bd30fc61e2cdea"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a72249bb49bbcf08708bd30fc61e2cdea">&#9670;&#160;</a></span>GetBaseStats()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/de3/a08082.html">CreatureBaseStats</a> const  * CreatureBaseStats::GetBaseStats </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>level</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>unitClass</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  249</span>{</div>
+<div class="line"><span class="lineno">  250</span>    <span class="keywordflow">return</span> <a class="code hl_define" href="../../d4/d99/a01634.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a>-&gt;GetCreatureBaseStats(level, unitClass);</div>
+<div class="line"><span class="lineno">  251</span>}</div>
+<div class="ttc" id="aa01634_html_a736e30da2b5261060ac6cdbb5de3b787"><div class="ttname"><a href="../../d4/d99/a01634.html#a736e30da2b5261060ac6cdbb5de3b787">sObjectMgr</a></div><div class="ttdeci">#define sObjectMgr</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:1650</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l01650">sObjectMgr</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a8d792fe1be63517b89beeb7dc16bc59e" name="a8d792fe1be63517b89beeb7dc16bc59e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8d792fe1be63517b89beeb7dc16bc59e">&#9670;&#160;</a></span>curhealth</h2>
+<a id="a8108d924e4de3ba741749e9386085e4f" name="a8108d924e4de3ba741749e9386085e4f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8108d924e4de3ba741749e9386085e4f">&#9670;&#160;</a></span>AttackPower</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureData::curhealth {0}</td>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureBaseStats::AttackPower</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l01703">Creature::LoadCreatureFromDB()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, and <a class="el" href="../../#l01419">Creature::SaveToDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09987">ObjectMgr::LoadCreatureClassLevelStats()</a>, and <a class="el" href="../../#l01519">Creature::SelectLevel()</a>.</p>
 
 </div>
 </div>
-<a id="a9282b4137e892574d3326273c19b7333" name="a9282b4137e892574d3326273c19b7333"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9282b4137e892574d3326273c19b7333">&#9670;&#160;</a></span>curmana</h2>
+<a id="a9fed8e3227aa2ad7b40579b0be615030" name="a9fed8e3227aa2ad7b40579b0be615030"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9fed8e3227aa2ad7b40579b0be615030">&#9670;&#160;</a></span>BaseArmor</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureData::curmana {0}</td>
+          <td class="memname">float CreatureBaseStats::BaseArmor</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l01703">Creature::LoadCreatureFromDB()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, and <a class="el" href="../../#l01419">Creature::SaveToDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00327">GenerateArmor()</a>, and <a class="el" href="../../#l09987">ObjectMgr::LoadCreatureClassLevelStats()</a>.</p>
 
 </div>
 </div>
-<a id="ac58e514339c9c60ce78876a7c1ef50f1" name="ac58e514339c9c60ce78876a7c1ef50f1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac58e514339c9c60ce78876a7c1ef50f1">&#9670;&#160;</a></span>currentwaypoint</h2>
+<a id="a40f54b64689ca8c3d2b0de81384dbea9" name="a40f54b64689ca8c3d2b0de81384dbea9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a40f54b64689ca8c3d2b0de81384dbea9">&#9670;&#160;</a></span>BaseDamage</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureData::currentwaypoint {0}</td>
+          <td class="memname">float CreatureBaseStats::BaseDamage[<a class="el" href="../../d1/da3/a04100.html#ae11f8b7bbf107fc1f6bc24cd61f22404abab73a5837896e6ef2b20fd8483fc405">MAX_EXPANSIONS</a>]</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, and <a class="el" href="../../#l01419">Creature::SaveToDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00409">SpellEffectInfo::CalcValue()</a>, <a class="el" href="../../#l00332">GenerateBaseDamage()</a>, and <a class="el" href="../../#l09987">ObjectMgr::LoadCreatureClassLevelStats()</a>.</p>
 
 </div>
 </div>
-<a id="a4163a83f674432afc99799dd013f806a" name="a4163a83f674432afc99799dd013f806a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4163a83f674432afc99799dd013f806a">&#9670;&#160;</a></span>dbData</h2>
+<a id="a83cee007ec623b19bb2b002d16180d2d" name="a83cee007ec623b19bb2b002d16180d2d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a83cee007ec623b19bb2b002d16180d2d">&#9670;&#160;</a></span>BaseHealth</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool CreatureData::dbData {true}</td>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureBaseStats::BaseHealth[<a class="el" href="../../d1/da3/a04100.html#ae11f8b7bbf107fc1f6bc24cd61f22404abab73a5837896e6ef2b20fd8483fc405">MAX_EXPANSIONS</a>]</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, and <a class="el" href="../../#l02622">Creature::SaveRespawnTime()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00313">GenerateHealth()</a>, <a class="el" href="../../#l01018">Guardian::InitStatsForLevel()</a>, and <a class="el" href="../../#l09987">ObjectMgr::LoadCreatureClassLevelStats()</a>.</p>
 
 </div>
 </div>
-<a id="a51bd5a47d052accca3944095253d0d7a" name="a51bd5a47d052accca3944095253d0d7a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a51bd5a47d052accca3944095253d0d7a">&#9670;&#160;</a></span>displayid</h2>
+<a id="a204af635372cb4a2c6ede1f79579385c" name="a204af635372cb4a2c6ede1f79579385c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a204af635372cb4a2c6ede1f79579385c">&#9670;&#160;</a></span>BaseMana</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureData::displayid {0}</td>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureBaseStats::BaseMana</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l01509">GameEventMgr::ChangeEquipOrModel()</a>, <a class="el" href="../../#l01647">ObjectMgr::ChooseDisplayId()</a>, and <a class="el" href="../../#l01419">Creature::SaveToDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00318">GenerateMana()</a>, <a class="el" href="../../#l01018">Guardian::InitStatsForLevel()</a>, and <a class="el" href="../../#l09987">ObjectMgr::LoadCreatureClassLevelStats()</a>.</p>
 
 </div>
 </div>
-<a id="a25d7752e9510c8019469b8a09ce1b059" name="a25d7752e9510c8019469b8a09ce1b059"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a25d7752e9510c8019469b8a09ce1b059">&#9670;&#160;</a></span>dynamicflags</h2>
+<a id="a684901a59108e94987c23ad5085e306a" name="a684901a59108e94987c23ad5085e306a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a684901a59108e94987c23ad5085e306a">&#9670;&#160;</a></span>RangedAttackPower</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureData::dynamicflags {0}</td>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureBaseStats::RangedAttackPower</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l01662">ObjectMgr::ChooseCreatureFlags()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, and <a class="el" href="../../#l01419">Creature::SaveToDB()</a>.</p>
-
-</div>
-</div>
-<a id="ac2d910ad95ea363dbe0a685d5db6cc79" name="ac2d910ad95ea363dbe0a685d5db6cc79"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac2d910ad95ea363dbe0a685d5db6cc79">&#9670;&#160;</a></span>equipmentId</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a3bb8a71f4ae9af551f71e9eb2c9c3325">int8</a> CreatureData::equipmentId {0}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l01509">GameEventMgr::ChangeEquipOrModel()</a>, <a class="el" href="../../#l00440">Creature::InitEntry()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, <a class="el" href="../../#l02041">Creature::Respawn()</a>, and <a class="el" href="../../#l01419">Creature::SaveToDB()</a>.</p>
-
-</div>
-</div>
-<a id="af2a1092af24c3766e10554729061e2ff" name="af2a1092af24c3766e10554729061e2ff"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af2a1092af24c3766e10554729061e2ff">&#9670;&#160;</a></span>id1</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureData::id1 {0}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00088">OPvPCapturePoint::AddCre()</a>, <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l00031">ZoneScript::GetCreatureEntry()</a>, <a class="el" href="../../#l00085">instance_pit_of_saron::instance_pit_of_saron_InstanceScript::GetCreatureEntry()</a>, <a class="el" href="../../#l00540">instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript::GetCreatureEntry()</a>, <a class="el" href="../../#l00116">WorldSession::HandleAuctionSellItem()</a>, <a class="el" href="../../#l00204">npc_commandscript::HandleNpcAddCommand()</a>, <a class="el" href="../../#l00334">tele_commandscript::HandleTeleNameNpcSpawnIdCommand()</a>, <a class="el" href="../../#l02034">SmartAIMgr::IsTextValid()</a>, <a class="el" href="../../#l01703">Creature::LoadCreatureFromDB()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, <a class="el" href="../../#l01921">ObjectMgr::LoadLinkedRespawn()</a>, <a class="el" href="../../#l01196">npc_argent_captainAI::Reset()</a>, <a class="el" href="../../#l02041">Creature::Respawn()</a>, <a class="el" href="../../#l01419">Creature::SaveToDB()</a>, and <a class="el" href="../../#l02106">ObjectMgr::SetCreatureLinkedRespawn()</a>.</p>
-
-</div>
-</div>
-<a id="a7632a7510b2a868b926a6ea21bf07e7f" name="a7632a7510b2a868b926a6ea21bf07e7f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7632a7510b2a868b926a6ea21bf07e7f">&#9670;&#160;</a></span>id2</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureData::id2 {0}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l01703">Creature::LoadCreatureFromDB()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, and <a class="el" href="../../#l02041">Creature::Respawn()</a>.</p>
-
-</div>
-</div>
-<a id="a934d70093ff85a859a80f672c96888b2" name="a934d70093ff85a859a80f672c96888b2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a934d70093ff85a859a80f672c96888b2">&#9670;&#160;</a></span>id3</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureData::id3 {0}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l01703">Creature::LoadCreatureFromDB()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, and <a class="el" href="../../#l02041">Creature::Respawn()</a>.</p>
-
-</div>
-</div>
-<a id="ad7b505ecbc54fd74d99d6d396b66ee84" name="ad7b505ecbc54fd74d99d6d396b66ee84"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad7b505ecbc54fd74d99d6d396b66ee84">&#9670;&#160;</a></span>mapid</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> CreatureData::mapid {0}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l02473">ObjectMgr::AddCreatureToGrid()</a>, <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l01509">GameEventMgr::ChangeEquipOrModel()</a>, <a class="el" href="../../#l00540">instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript::GetCreatureEntry()</a>, <a class="el" href="../../#l00089">go_commandscript::HandleGoCreatureCIdCommand()</a>, <a class="el" href="../../#l00121">go_commandscript::HandleGoCreatureSpawnIdCommand()</a>, <a class="el" href="../../#l00439">go_commandscript::HandleGoQuestCommand()</a>, <a class="el" href="../../#l00718">npc_commandscript::HandleNpcMoveCommand()</a>, <a class="el" href="../../#l00306">tele_commandscript::HandleTeleNameNpcIdCommand()</a>, <a class="el" href="../../#l00334">tele_commandscript::HandleTeleNameNpcSpawnIdCommand()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, <a class="el" href="../../#l01921">ObjectMgr::LoadLinkedRespawn()</a>, <a class="el" href="../../#l02487">ObjectMgr::RemoveCreatureFromGrid()</a>, <a class="el" href="../../#l01419">Creature::SaveToDB()</a>, and <a class="el" href="../../#l02106">ObjectMgr::SetCreatureLinkedRespawn()</a>.</p>
-
-</div>
-</div>
-<a id="a5574b3c7c3976325c72f2d49a91d1ef3" name="a5574b3c7c3976325c72f2d49a91d1ef3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5574b3c7c3976325c72f2d49a91d1ef3">&#9670;&#160;</a></span>movementType</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CreatureData::movementType {0}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l01703">Creature::LoadCreatureFromDB()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, <a class="el" href="../../#l02041">Creature::Respawn()</a>, and <a class="el" href="../../#l01419">Creature::SaveToDB()</a>.</p>
-
-</div>
-</div>
-<a id="a3de7f5eeb02d6c90c2ef4da7752ea87e" name="a3de7f5eeb02d6c90c2ef4da7752ea87e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3de7f5eeb02d6c90c2ef4da7752ea87e">&#9670;&#160;</a></span>npcflag</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureData::npcflag {0}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l01662">ObjectMgr::ChooseCreatureFlags()</a>, <a class="el" href="../../#l01698">Creature::isVendorWithIconSpeak()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, and <a class="el" href="../../#l01419">Creature::SaveToDB()</a>.</p>
-
-</div>
-</div>
-<a id="a8e29f2f310f10644b21b86edce264cb6" name="a8e29f2f310f10644b21b86edce264cb6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8e29f2f310f10644b21b86edce264cb6">&#9670;&#160;</a></span>orientation</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float CreatureData::orientation {0.0f}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l00318">MotionTransport::CreateNPCPassenger()</a>, <a class="el" href="../../#l00204">npc_commandscript::HandleNpcAddCommand()</a>, <a class="el" href="../../#l01703">Creature::LoadCreatureFromDB()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, and <a class="el" href="../../#l01419">Creature::SaveToDB()</a>.</p>
-
-</div>
-</div>
-<a id="a116526b4b43aa76b5f739c0f498a3144" name="a116526b4b43aa76b5f739c0f498a3144"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a116526b4b43aa76b5f739c0f498a3144">&#9670;&#160;</a></span>phaseMask</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureData::phaseMask {0}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l00204">npc_commandscript::HandleNpcAddCommand()</a>, <a class="el" href="../../#l01703">Creature::LoadCreatureFromDB()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, and <a class="el" href="../../#l01419">Creature::SaveToDB()</a>.</p>
-
-</div>
-</div>
-<a id="ab73d154a173a40973b8211e2bee4ecba" name="ab73d154a173a40973b8211e2bee4ecba"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab73d154a173a40973b8211e2bee4ecba">&#9670;&#160;</a></span>posX</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float CreatureData::posX {0.0f}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l02473">ObjectMgr::AddCreatureToGrid()</a>, <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l00318">MotionTransport::CreateNPCPassenger()</a>, <a class="el" href="../../#l00540">instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript::GetCreatureEntry()</a>, <a class="el" href="../../#l00089">go_commandscript::HandleGoCreatureCIdCommand()</a>, <a class="el" href="../../#l00121">go_commandscript::HandleGoCreatureSpawnIdCommand()</a>, <a class="el" href="../../#l00439">go_commandscript::HandleGoQuestCommand()</a>, <a class="el" href="../../#l00204">npc_commandscript::HandleNpcAddCommand()</a>, <a class="el" href="../../#l01703">Creature::LoadCreatureFromDB()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, <a class="el" href="../../#l02487">ObjectMgr::RemoveCreatureFromGrid()</a>, <a class="el" href="../../#l01419">Creature::SaveToDB()</a>, <a class="el" href="../../#l00148">OPvPCapturePointNA::SpawnNPCsForTeam()</a>, and <a class="el" href="../../#l00523">npc_grand_magister_rommath::npc_grand_magister_rommathAI::UpdateAI()</a>.</p>
-
-</div>
-</div>
-<a id="a98fbc00a0254cb68fbe796c2b54aef50" name="a98fbc00a0254cb68fbe796c2b54aef50"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a98fbc00a0254cb68fbe796c2b54aef50">&#9670;&#160;</a></span>posY</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float CreatureData::posY {0.0f}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l02473">ObjectMgr::AddCreatureToGrid()</a>, <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l00318">MotionTransport::CreateNPCPassenger()</a>, <a class="el" href="../../#l00540">instance_icecrown_citadel::instance_icecrown_citadel_InstanceMapScript::GetCreatureEntry()</a>, <a class="el" href="../../#l00089">go_commandscript::HandleGoCreatureCIdCommand()</a>, <a class="el" href="../../#l00121">go_commandscript::HandleGoCreatureSpawnIdCommand()</a>, <a class="el" href="../../#l00439">go_commandscript::HandleGoQuestCommand()</a>, <a class="el" href="../../#l00204">npc_commandscript::HandleNpcAddCommand()</a>, <a class="el" href="../../#l01703">Creature::LoadCreatureFromDB()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, <a class="el" href="../../#l02487">ObjectMgr::RemoveCreatureFromGrid()</a>, <a class="el" href="../../#l01419">Creature::SaveToDB()</a>, <a class="el" href="../../#l00148">OPvPCapturePointNA::SpawnNPCsForTeam()</a>, and <a class="el" href="../../#l00523">npc_grand_magister_rommath::npc_grand_magister_rommathAI::UpdateAI()</a>.</p>
-
-</div>
-</div>
-<a id="aee7aae90ca299d8ac163bb068fed3f6a" name="aee7aae90ca299d8ac163bb068fed3f6a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aee7aae90ca299d8ac163bb068fed3f6a">&#9670;&#160;</a></span>posZ</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float CreatureData::posZ {0.0f}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l00318">MotionTransport::CreateNPCPassenger()</a>, <a class="el" href="../../#l00089">go_commandscript::HandleGoCreatureCIdCommand()</a>, <a class="el" href="../../#l00121">go_commandscript::HandleGoCreatureSpawnIdCommand()</a>, <a class="el" href="../../#l00439">go_commandscript::HandleGoQuestCommand()</a>, <a class="el" href="../../#l00204">npc_commandscript::HandleNpcAddCommand()</a>, <a class="el" href="../../#l01703">Creature::LoadCreatureFromDB()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, <a class="el" href="../../#l01419">Creature::SaveToDB()</a>, and <a class="el" href="../../#l00523">npc_grand_magister_rommath::npc_grand_magister_rommathAI::UpdateAI()</a>.</p>
-
-</div>
-</div>
-<a id="ad82bedfdb0ea59c9de4fd26887ae322a" name="ad82bedfdb0ea59c9de4fd26887ae322a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad82bedfdb0ea59c9de4fd26887ae322a">&#9670;&#160;</a></span>ScriptId</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureData::ScriptId</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>.</p>
-
-</div>
-</div>
-<a id="a63f086a033d91e31a78be1d5cd8c8dd5" name="a63f086a033d91e31a78be1d5cd8c8dd5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a63f086a033d91e31a78be1d5cd8c8dd5">&#9670;&#160;</a></span>spawnMask</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> CreatureData::spawnMask {0}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l02473">ObjectMgr::AddCreatureToGrid()</a>, <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, <a class="el" href="../../#l01921">ObjectMgr::LoadLinkedRespawn()</a>, <a class="el" href="../../#l02487">ObjectMgr::RemoveCreatureFromGrid()</a>, <a class="el" href="../../#l01404">Creature::SaveToDB()</a>, and <a class="el" href="../../#l02106">ObjectMgr::SetCreatureLinkedRespawn()</a>.</p>
-
-</div>
-</div>
-<a id="a1f0910de3138ea16397173c9821acf35" name="a1f0910de3138ea16397173c9821acf35"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1f0910de3138ea16397173c9821acf35">&#9670;&#160;</a></span>spawntimesecs</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureData::spawntimesecs {0}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l01703">Creature::LoadCreatureFromDB()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, and <a class="el" href="../../#l01419">Creature::SaveToDB()</a>.</p>
-
-</div>
-</div>
-<a id="a6dc0af68922ece07d5a0d86e361ce51e" name="a6dc0af68922ece07d5a0d86e361ce51e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6dc0af68922ece07d5a0d86e361ce51e">&#9670;&#160;</a></span>unit_flags</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> CreatureData::unit_flags {0}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l01662">ObjectMgr::ChooseCreatureFlags()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, and <a class="el" href="../../#l01419">Creature::SaveToDB()</a>.</p>
-
-</div>
-</div>
-<a id="a05ac0d5358ba012c40155efee608772e" name="a05ac0d5358ba012c40155efee608772e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a05ac0d5358ba012c40155efee608772e">&#9670;&#160;</a></span>wander_distance</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">float CreatureData::wander_distance {0.0f}</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00309">BattlegroundAV::AddAVCreature()</a>, <a class="el" href="../../#l02552">ObjectMgr::AddCreData()</a>, <a class="el" href="../../#l01703">Creature::LoadCreatureFromDB()</a>, <a class="el" href="../../#l02239">ObjectMgr::LoadCreatures()</a>, and <a class="el" href="../../#l01419">Creature::SaveToDB()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l09987">ObjectMgr::LoadCreatureClassLevelStats()</a>, and <a class="el" href="../../#l01519">Creature::SelectLevel()</a>.</p>
 
 </div>
 </div>
@@ -569,8 +433,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../de/de3/a08082.html">CreatureData</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:45:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../de/de3/a08082.html">CreatureBaseStats</a></li>
+    <li class="footer">Generated on Mon Dec 1 2025 20:47:23 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

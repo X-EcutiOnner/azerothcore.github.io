@@ -1,6 +1,6 @@
 var a21922 =
 [
-    [ "npc_dalaran_warriorAI", "df/df8/a21926.html", "df/df8/a21926" ],
-    [ "npc_dalaran_warrior", "d0/d18/a21922.html#a13d44b85173232ddedcc35184d50549c", null ],
-    [ "GetAI", "d0/d18/a21922.html#a1e84676d2a76bac728a1f23f5f9fc25e", null ]
+    [ "npc_mindless_ghoulAI", "d0/d18/a21922.html#a4cc0dbd4aa2366115348bc1db273a5e2", null ],
+    [ "CanAIAttack", "d0/d18/a21922.html#a18fbc44ad760a69d952d003622ec75b2", null ],
+    [ "JustDied", "d0/d18/a21922.html#a272067bef6dbab24024f7de990c10b64", null ]
 ];

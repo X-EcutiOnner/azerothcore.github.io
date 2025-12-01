@@ -1,7 +1,6 @@
 var a24690 =
 [
-    [ "HandleEffectApply", "d1/d36/a24690.html#a9923e38a2b5999d932d85be17a50ac83", null ],
-    [ "HandleEffectRemove", "d1/d36/a24690.html#a4c1f611b4fd0cf33f654d59e783db32a", null ],
-    [ "PrepareAuraScript", "d1/d36/a24690.html#a105df22901477c34757e62a0305006d4", null ],
-    [ "Register", "d1/d36/a24690.html#a16f2daff28dc07f2cac8d53f4813909f", null ]
+    [ "CheckProc", "d1/d36/a24690.html#ace3662e092d02de975929741c470230d", null ],
+    [ "PrepareAuraScript", "d1/d36/a24690.html#aed547ead2b8822f08eb1530f4b29e2f8", null ],
+    [ "Register", "d1/d36/a24690.html#ae6432106538261827c3eac3dde1450f2", null ]
 ];

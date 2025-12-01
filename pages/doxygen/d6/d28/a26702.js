@@ -1,6 +1,6 @@
 var a26702 =
 [
-    [ "CheckRequirement", "d6/d28/a26702.html#a4ad49f2f781d1c6b27dd04f46203c6d4", null ],
-    [ "PrepareSpellScript", "d6/d28/a26702.html#a4263eebcb64f00152a4b64dafef20510", null ],
-    [ "Register", "d6/d28/a26702.html#a8b825a97f50abb0231036a3ff651531d", null ]
+    [ "PrepareSpellScript", "d6/d28/a26702.html#ac0322966abdb57fbe19c3e2117caa56b", null ],
+    [ "Register", "d6/d28/a26702.html#a7ddfa827654b6bb0a11aaddf41dc62f9", null ],
+    [ "SetDest", "d6/d28/a26702.html#ad1012e0f8ae1cf2ff18d886e10d6fca6", null ]
 ];

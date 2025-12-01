@@ -1,13 +1,9 @@
 var a23202 =
 [
-    [ "boss_teron_gorefiend", "dd/d80/a23202.html#a81845f22aa383cdc57912ee9655b7bf9", null ],
-    [ "JustDied", "dd/d80/a23202.html#aa080c8d17bc51142c1cecadf7a0376a2", null ],
-    [ "JustEngagedWith", "dd/d80/a23202.html#a9f658d42cf27a54c62a71e28b5dfadee", null ],
-    [ "JustSummoned", "dd/d80/a23202.html#a71db567c5be7396add349e2f1b455a50", null ],
-    [ "KilledUnit", "dd/d80/a23202.html#a70dbf2b2a08cf915866afd51f8a74018", null ],
-    [ "Reset", "dd/d80/a23202.html#af32df2d958c618dc08d3da40b92bf3aa", null ],
-    [ "SetData", "dd/d80/a23202.html#a139c351471a3f19c7e59cf8e40913820", null ],
-    [ "UpdateAI", "dd/d80/a23202.html#a0bdd92c94adf066fdbf8ba9bcb1a1ba1", null ],
-    [ "_intro", "dd/d80/a23202.html#a99c62157084373e8eddd4497360cc047", null ],
-    [ "_recentlySpoken", "dd/d80/a23202.html#adef80b4509a6a72e7021fd3cc11de697", null ]
+    [ "HandleEffectApply", "dd/d80/a23202.html#aca8ff864832d30e45bccfca12256560a", null ],
+    [ "HandleEffectRemove", "dd/d80/a23202.html#a2e16e86ce6e3231cf3fabc1d5bb1a6e7", null ],
+    [ "Load", "dd/d80/a23202.html#a3b9838f26673ce344ca40f9f487ef878", null ],
+    [ "PrepareAuraScript", "dd/d80/a23202.html#a79b93c86a01d31d08cba15436856b794", null ],
+    [ "Register", "dd/d80/a23202.html#aa6c04279944abd31c42bb5dc4319aaf2", null ],
+    [ "_turtleSet", "dd/d80/a23202.html#a308b9e032576ae058e9f2469dcc8ff23", null ]
 ];

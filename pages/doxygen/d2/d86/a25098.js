@@ -1,6 +1,6 @@
 var a25098 =
 [
-    [ "CheckProc", "d2/d86/a25098.html#a3c4f64fc51367ebb549282b068458f4c", null ],
-    [ "PrepareAuraScript", "d2/d86/a25098.html#a72dc7c7b8bc842a7feb6857cbec34d25", null ],
-    [ "Register", "d2/d86/a25098.html#ac84b357828094a42aab1c8bfee83d298", null ]
+    [ "ModDest", "d2/d86/a25098.html#a99d08536d2555390a7399a6d2fc199e6", null ],
+    [ "PrepareSpellScript", "d2/d86/a25098.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
+    [ "Register", "d2/d86/a25098.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
 ];

@@ -1,9 +1,8 @@
 var a05006 =
 [
-    [ "ManagedModel", "d5/dc0/a05006.html#ab641724be7e7791c2c95982acc13f3b0", null ],
-    [ "decRefCount", "d5/dc0/a05006.html#a5a104acbc0661b19ba2a662dc669b73d", null ],
-    [ "getModel", "d5/dc0/a05006.html#a053fc6647a16746fba19a0795610fea2", null ],
-    [ "setModel", "d5/dc0/a05006.html#aa450ae6be22d507c36a746850629831d", null ],
-    [ "iModel", "d5/dc0/a05006.html#a5e20d0157691bd6036247a83eea8d19b", null ],
-    [ "iRefCount", "d5/dc0/a05006.html#afb30ad900a5979f98276324a1ab1c328", null ]
+    [ "MMapData", "d5/dc0/a05006.html#ab6aa577df2b8bc749e68515b7b5ef96c", null ],
+    [ "~MMapData", "d5/dc0/a05006.html#a28ad87f05014c49373557369e9177df5", null ],
+    [ "loadedTileRefs", "d5/dc0/a05006.html#afa8799db33459dd5e36b7a43eae7d16b", null ],
+    [ "navMesh", "d5/dc0/a05006.html#a786a4b43773e4402451bed82cf221f66", null ],
+    [ "navMeshQueries", "d5/dc0/a05006.html#abb7a9f9131b3657eff54ed17fc329b43", null ]
 ];

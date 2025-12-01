@@ -1,8 +1,6 @@
 var a13142 =
 [
-    [ "HandleDummy", "de/da3/a13142.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
-    [ "HandleScript", "de/da3/a13142.html#a528ce741ebde0fb6b796431da800e439", null ],
-    [ "PrepareSpellScript", "de/da3/a13142.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
-    [ "Register", "de/da3/a13142.html#a8dea4b47777324b88c7e022f11741b25", null ],
-    [ "Validate", "de/da3/a13142.html#a6f49345b2beea56b4eaad390a6062118", null ]
+    [ "npc_unworthy_initiate_anchorAI", "d3/d6e/a13146.html", "d3/d6e/a13146" ],
+    [ "npc_unworthy_initiate_anchor", "de/da3/a13142.html#a3d4c6d9e5ffa66d3424297b27e5ac4a1", null ],
+    [ "GetAI", "de/da3/a13142.html#ab012983661d20a3ffa4f58136bd2d808", null ]
 ];

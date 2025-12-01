@@ -1,8 +1,10 @@
 var a08110 =
 [
-    [ "TrainerSpellData", "d6/dbf/a08110.html#ab58a8a4ca9d8b609131e7f8b3ec507c9", null ],
-    [ "~TrainerSpellData", "d6/dbf/a08110.html#a9bd25177856f54fa2eda882627b21644", null ],
-    [ "Find", "d6/dbf/a08110.html#acee027787f06b4186b781bbd0d7db781", null ],
-    [ "spellList", "d6/dbf/a08110.html#a0e157dbcebbbea5704270f182d313568", null ],
-    [ "trainerType", "d6/dbf/a08110.html#a6ea889f294b37bfe1a7a40dffd1b2159", null ]
+    [ "auras", "d6/dbf/a08110.html#a20695ff7997e1ebd6fe898a8b41aeddb", null ],
+    [ "bytes1", "d6/dbf/a08110.html#ae337bd59e1e1eb7f4c9cdee4e8c6a7b9", null ],
+    [ "bytes2", "d6/dbf/a08110.html#aedf06568867bbb5db5ca8017727dab9d", null ],
+    [ "emote", "d6/dbf/a08110.html#a82f7be10807af7b25dd41c643be066fc", null ],
+    [ "mount", "d6/dbf/a08110.html#a4d84276a45de1b62e507ac5c763dce3a", null ],
+    [ "path_id", "d6/dbf/a08110.html#aa86bac734e0e652b6bb4ea273cf62571", null ],
+    [ "visibilityDistanceType", "d6/dbf/a08110.html#ad3ae39b8c5be151e15ab6f1494943bc3", null ]
 ];

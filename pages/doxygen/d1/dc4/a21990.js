@@ -1,7 +1,6 @@
 var a21990 =
 [
-    [ "CheckRequirement", "d1/dc4/a21990.html#a41beb2c890137328734d6adb14e08302", null ],
-    [ "PrepareSpellScript", "d1/dc4/a21990.html#aa0b9873dbd8c75a14fa88094d91eeeaa", null ],
-    [ "Register", "d1/dc4/a21990.html#aa0fad5e5a68131ebab5717ad0ce69669", null ],
-    [ "SetDest", "d1/dc4/a21990.html#a431a556ab73f91ed63f5983e537834a5", null ]
+    [ "npc_q24545_wretched_ghoulAI", "df/dda/a21994.html", "df/dda/a21994" ],
+    [ "npc_q24545_wretched_ghoul", "d1/dc4/a21990.html#a3842b5bd89c911d29d561307113fb032", null ],
+    [ "GetAI", "d1/dc4/a21990.html#ada973de0ff7295f0441cbd6b6aaca9ac", null ]
 ];

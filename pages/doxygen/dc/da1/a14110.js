@@ -1,7 +1,9 @@
 var a14110 =
 [
-    [ "HandleEffect", "dc/da1/a14110.html#a8cda8eff109af7441d6990a236a52b80", null ],
-    [ "PrepareSpellScript", "dc/da1/a14110.html#acc2698ba702be211bef63cefa41005f4", null ],
-    [ "Register", "dc/da1/a14110.html#a5d6dccbb44a5d95055755673ad70707f", null ],
-    [ "Validate", "dc/da1/a14110.html#a0b106298aa550e4fe9e8a449ed7eaa51", null ]
+    [ "npc_amanishi_scout", "dc/da1/a14110.html#a74bed56c21c184e661f62c30ce6d9140", null ],
+    [ "JustEngagedWith", "dc/da1/a14110.html#a5969fadd871094e993c4d3fe0b08054c", null ],
+    [ "Reset", "dc/da1/a14110.html#ac527a3a656888f7ac3d13636a0de7aad", null ],
+    [ "ScheduleCombat", "dc/da1/a14110.html#acb736dc42c5f9afbd92c97bfa8293606", null ],
+    [ "UpdateAI", "dc/da1/a14110.html#a3740a4fde31e1e81edb34dde61403acc", null ],
+    [ "_drumGUID", "dc/da1/a14110.html#afd9a1a57c413d5857331ac90665cc1e0", null ]
 ];

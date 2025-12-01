@@ -1,11 +1,8 @@
 var a23674 =
 [
-    [ "boss_gruul", "df/d1c/a23674.html#a9a14e75144c79d7ad4f65192edd385f9", null ],
-    [ "JustDied", "df/d1c/a23674.html#a92d9e524dfaa0e4a22daf9b7bc6ac10d", null ],
-    [ "JustEngagedWith", "df/d1c/a23674.html#afb0cc9bb5acad80cea8d3e572d45da94", null ],
-    [ "KilledUnit", "df/d1c/a23674.html#afec4bb1b631cab0b167afb7cc2578b7d", null ],
-    [ "Reset", "df/d1c/a23674.html#ace9cf892fc1cc345d6f82d6e9816e301", null ],
-    [ "UpdateAI", "df/d1c/a23674.html#a3503b84f4fb896d439ccd49a997e4087", null ],
-    [ "_caveInTimer", "df/d1c/a23674.html#a66766f93a5ff543bbb0c9b805aaf253c", null ],
-    [ "_recentlySpoken", "df/d1c/a23674.html#a411ec67153dd4715eb397a420c45bb12", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "df/d1c/a23674.html#a1ad656ccd4d41c756c4f525d079fd9b6", null ],
+    [ "GetData", "df/d1c/a23674.html#a410630dbbe00acf0b69603cfc357d503", null ],
+    [ "SetBossState", "df/d1c/a23674.html#a9f0752eb0ec1d9ca0681ddc5fc8d3752", null ],
+    [ "SetData", "df/d1c/a23674.html#a4cbe09489797fa0076d976f9a717a2bd", null ],
+    [ "_addsKilled", "df/d1c/a23674.html#a7a003811fcf620f3c2d11ff3498cb298", null ]
 ];

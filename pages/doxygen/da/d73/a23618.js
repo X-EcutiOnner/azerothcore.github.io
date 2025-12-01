@@ -1,7 +1,7 @@
 var a23618 =
 [
-    [ "npc_underbog_mushroom", "da/d73/a23618.html#a2b77b2590d46c14c783d2df4a3699c44", null ],
-    [ "InitializeAI", "da/d73/a23618.html#a7c192010cc63715eaa3f38b1d1372936", null ],
-    [ "UpdateAI", "da/d73/a23618.html#a9a8ed51b12809152ebe78dda69944d77", null ],
-    [ "_scheduler", "da/d73/a23618.html#a407cdb1096e5212dd0a50ea4fa401112", null ]
+    [ "CalcPeriodic", "da/d73/a23618.html#aeae100fb3ab86b9064c3923472fbd45d", null ],
+    [ "PrepareAuraScript", "da/d73/a23618.html#a290913502dfe3dfb42b44a964468b97c", null ],
+    [ "Register", "da/d73/a23618.html#aea7a6e4bcbc97d19393d790a28a4483a", null ],
+    [ "Update", "da/d73/a23618.html#ab3bdb3a14c6d130d295553e635acb47c", null ]
 ];

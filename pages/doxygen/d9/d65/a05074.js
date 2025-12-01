@@ -1,11 +1,13 @@
 var a05074 =
 [
-    [ "~GameObjectModelOwnerBase", "d9/d65/a05074.html#a307c744710782fcb0d5c287b23c74d69", null ],
-    [ "DebugVisualizeCorner", "d9/d65/a05074.html#acf130fbdfb086a9c6d35d145116357c8", null ],
-    [ "GetDisplayId", "d9/d65/a05074.html#ae3eddc6c841c3644f50cb3300f80cee2", null ],
-    [ "GetOrientation", "d9/d65/a05074.html#a35c11d2346c5156b95558729d84b3fe8", null ],
-    [ "GetPhaseMask", "d9/d65/a05074.html#a6b55de1c8de5a50245d7e5a833766d0f", null ],
-    [ "GetPosition", "d9/d65/a05074.html#a82e89b7fac5f46a25519674930294ed8", null ],
-    [ "GetScale", "d9/d65/a05074.html#abf8e9a74f58ec34bc6f1f8d853100f69", null ],
-    [ "IsSpawned", "d9/d65/a05074.html#ad824da6970d512c344160714cd7ec434", null ]
+    [ "GroupModel_Raw", "d9/d65/a05074.html#a8decfdc365b823f8f147ee9bfa3613b0", null ],
+    [ "~GroupModel_Raw", "d9/d65/a05074.html#a1381249a1bbe9c1cf383097ef94c6eb7", null ],
+    [ "Read", "d9/d65/a05074.html#ad3bcd782124868cd1df0efea2b500ba5", null ],
+    [ "bounds", "d9/d65/a05074.html#a830d79fdd2f21164bd805051352a3aa8", null ],
+    [ "GroupWMOID", "d9/d65/a05074.html#ab9e9650c5ebf5a81b92cff27dd23a25a", null ],
+    [ "liquid", "d9/d65/a05074.html#ac801d04ca4c643d2b8eba5199a8d0fac", null ],
+    [ "liquidflags", "d9/d65/a05074.html#ac379f459d0fff6b1848dc52bd21ef393", null ],
+    [ "mogpflags", "d9/d65/a05074.html#a339767ed24a9f0ecf426e47d3bf6e4b5", null ],
+    [ "triangles", "d9/d65/a05074.html#af692734697f525672027f251addebe6d", null ],
+    [ "vertexArray", "d9/d65/a05074.html#ad73c215408218900973df4dbdd8fcd18", null ]
 ];

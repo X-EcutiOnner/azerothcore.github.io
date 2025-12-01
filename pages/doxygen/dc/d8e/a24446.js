@@ -1,5 +1,5 @@
 var a24446 =
 [
-    [ "go_crystal_prison", "dc/d8e/a24446.html#a0faca8b76f9650ee5cc7825b90463365", null ],
-    [ "OnQuestAccept", "dc/d8e/a24446.html#ad19d8bdf8361d5d7fca2917a6bf0977a", null ]
+    [ "npc_shattrath_daily_quest", "dc/d8e/a24446.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "dc/d8e/a24446.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

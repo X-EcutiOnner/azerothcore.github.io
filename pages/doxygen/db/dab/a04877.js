@@ -1,5 +1,5 @@
 var a04877 =
 [
-    [ "InitWorldStates", "d3/de3/a11100.html", "d3/de3/a11100" ],
-    [ "UpdateWorldState", "db/d12/a11108.html", "db/d12/a11108" ]
+    [ "LFGJoin", "dd/df5/a10910.html", "dd/df5/a10910" ],
+    [ "LFGLeave", "d1/d6c/a10914.html", "d1/d6c/a10914" ]
 ];

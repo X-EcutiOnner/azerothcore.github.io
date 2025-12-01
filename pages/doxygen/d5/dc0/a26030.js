@@ -1,9 +1,10 @@
 var a26030 =
 [
-    [ "CheckRequirement", "d5/dc0/a26030.html#adab261a5221ca54b15cc414d291908fe", null ],
-    [ "HandleDummy", "d5/dc0/a26030.html#abb7a734244bb18d75304a0510f9efb8d", null ],
-    [ "Load", "d5/dc0/a26030.html#a418eef16d1e3aeff67013f45409c092a", null ],
-    [ "PrepareSpellScript", "d5/dc0/a26030.html#ab3e73a456ec7384720827a4ff7f5abc7", null ],
-    [ "Register", "d5/dc0/a26030.html#a5dbf60e33f2cdca3921f623cd1098948", null ],
-    [ "Validate", "d5/dc0/a26030.html#a1dcba4f3c2874a952ca422b0a3cdafb1", null ]
+    [ "CalcPeriodic", "d5/dc0/a26030.html#a6ec300503503fa6f12a48a8494d41edd", null ],
+    [ "Load", "d5/dc0/a26030.html#a349827fe659ff3bee0a5dfc677c04825", null ],
+    [ "PrepareAuraScript", "d5/dc0/a26030.html#a8c12c4ae3835322602347b654d96a8b7", null ],
+    [ "Register", "d5/dc0/a26030.html#aeba6dda1114bc738cddff4d40d48ccd7", null ],
+    [ "Update", "d5/dc0/a26030.html#afa9e6eec798c354231b5f95e260c7111", null ],
+    [ "Validate", "d5/dc0/a26030.html#adb891e80c5bf15b4a0798aa01a45c9e0", null ],
+    [ "_spell_id", "d5/dc0/a26030.html#a2836863ea4bafc73f2adbb9176cbec60", null ]
 ];

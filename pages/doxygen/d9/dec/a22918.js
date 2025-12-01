@@ -1,9 +1,7 @@
 var a22918 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "d9/dec/a22918.html#ada5f19c96bfe623b110389ede032ef53", null ],
-    [ "GetData", "d9/dec/a22918.html#ad876ebd581c470f5a3075129076bd1fb", null ],
-    [ "Initialize", "d9/dec/a22918.html#a9dc908fdaef98aa6eb81fd1709eee9e4", null ],
-    [ "OnCreatureCreate", "d9/dec/a22918.html#a118b4a7a7c872327ec2868c5b0417636", null ],
-    [ "OnUnitDeath", "d9/dec/a22918.html#a4275afcc93c5281d9865601a2d9dabaa", null ],
-    [ "_ritualistsAliveCount", "d9/dec/a22918.html#a7752d5bfe1d1c5eef2c450df7677a69e", null ]
+    [ "HandleEffectRemove", "d9/dec/a22918.html#a0d8d042e6e9bf8fd26b6f283f6da6194", null ],
+    [ "PrepareAuraScript", "d9/dec/a22918.html#a84ec7db2aab055bc4328a4d8862bd3f5", null ],
+    [ "Register", "d9/dec/a22918.html#a9ee8e71020c17f593472de5a9c130753", null ],
+    [ "Validate", "d9/dec/a22918.html#a08be3cb2bef2f4697b7e258b231bd35b", null ]
 ];

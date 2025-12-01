@@ -1,7 +1,7 @@
 var a12490 =
 [
-    [ "HandleRemove", "d7/db0/a12490.html#a754b44b62c131e20e1be94b3407e2006", null ],
-    [ "PrepareAuraScript", "d7/db0/a12490.html#a92a58e6bcde5f80c6962ce1da47aca2d", null ],
-    [ "Register", "d7/db0/a12490.html#a02cd375ec140f7614104b7e56df13430", null ],
-    [ "Validate", "d7/db0/a12490.html#a4dd592093c1b00388a54fd8aa1b86904", null ]
+    [ "HandlePeriodic", "d7/db0/a12490.html#a72e043202c587e6c12d0b36d679cd071", null ],
+    [ "PrepareAuraScript", "d7/db0/a12490.html#a7ca007283e34855ee825ae160653f4a3", null ],
+    [ "Register", "d7/db0/a12490.html#aebad39c65167042be8db3c3a1811a235", null ],
+    [ "Validate", "d7/db0/a12490.html#aaf87c4052fd5408f7e34e2e14500e813", null ]
 ];

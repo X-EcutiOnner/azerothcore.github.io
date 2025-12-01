@@ -1,8 +1,8 @@
 var a07990 =
 [
-    [ "cancelTime", "d0/db8/a07990.html#a5fe6d6ede54a1f1228e29fc7ef55a413", null ],
-    [ "inProgress", "d0/db8/a07990.html#a8f3eddc8fbca950f184b6fb8b400344e", null ],
-    [ "reason", "d0/db8/a07990.html#a279a5575ca0956266ae81b7a165874cf", null ],
-    [ "victim", "d0/db8/a07990.html#a949262b4b3cbe0f813aae4fab704e7d2", null ],
-    [ "votes", "d0/db8/a07990.html#a7619305fea30cc7fdc47f0a7ee365304", null ]
+    [ "LfgPlayerRewardData", "d0/db8/a07990.html#afe99288f8d7028a5a54317e73e3f2c01", null ],
+    [ "done", "d0/db8/a07990.html#a91ba12acf66d631af2de45513f20b702", null ],
+    [ "quest", "d0/db8/a07990.html#abd051091fec6835f63bafa98a045142b", null ],
+    [ "rdungeonEntry", "d0/db8/a07990.html#a87623ce14ef1d123d226e37e227a566d", null ],
+    [ "sdungeonEntry", "d0/db8/a07990.html#abe9c93ab7f3a421dd3c44414a0987277", null ]
 ];

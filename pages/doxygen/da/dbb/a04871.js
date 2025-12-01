@@ -1,5 +1,7 @@
 var a04871 =
 [
-    [ "LFGJoin", "d8/d3e/a10904.html", "d8/d3e/a10904" ],
-    [ "LFGLeave", "db/d56/a10908.html", "db/d56/a10908" ]
+    [ "ArenaTeam", "da/d5d/a10542.html", "da/d5d/a10542" ],
+    [ "CalendarComplain", "d0/d62/a10546.html", "d0/d62/a10546" ],
+    [ "GetEvent", "d3/db2/a10534.html", "d3/db2/a10534" ],
+    [ "GuildFilter", "d5/d4e/a10538.html", "d5/d4e/a10538" ]
 ];

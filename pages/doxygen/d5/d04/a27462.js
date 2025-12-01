@@ -1,7 +1,6 @@
 var a27462 =
 [
-    [ "go_bear_trapAI", "d5/d04/a27462.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "d5/d04/a27462.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "d5/d04/a27462.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "d5/d04/a27462.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "go_pirate_day_musicAI", "d9/d0e/a27466.html", "d9/d0e/a27466" ],
+    [ "go_pirate_day_music", "d5/d04/a27462.html#aa8d19102357639bd160eae9e90a87505", null ],
+    [ "GetAI", "d5/d04/a27462.html#a3bce105696415c9a31c5cbeb9607fa95", null ]
 ];

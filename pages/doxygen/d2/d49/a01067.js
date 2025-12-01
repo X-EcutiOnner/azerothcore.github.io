@@ -1,6 +1,6 @@
 var a01067 =
 [
-    [ "ChatHandler", "da/d8f/a07556.html", "da/d8f/a07556" ],
-    [ "CliHandler", "dc/d12/a07560.html", "dc/d12/a07560" ],
-    [ "AddonChannelCommandHandler", "d8/d57/a07564.html", "d8/d57/a07564" ]
+    [ "ChatHandler", "d4/de0/a07562.html", "d4/de0/a07562" ],
+    [ "CliHandler", "da/dde/a07566.html", "da/dde/a07566" ],
+    [ "AddonChannelCommandHandler", "da/d6b/a07570.html", "da/d6b/a07570" ]
 ];

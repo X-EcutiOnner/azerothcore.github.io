@@ -1,8 +1,6 @@
 var a21154 =
 [
-    [ "Absorb", "d2/d89/a21154.html#a36a7237d7bcd50626e7a07a32c91cfb4", null ],
-    [ "CalculateAmount", "d2/d89/a21154.html#afe50bf22d07e68757caffb056ad55811", null ],
-    [ "PrepareAuraScript", "d2/d89/a21154.html#afa4ef1f7faa36a521c208dde10d09437", null ],
-    [ "Register", "d2/d89/a21154.html#aae020936d42da81c445f7d296660987b", null ],
-    [ "Validate", "d2/d89/a21154.html#a5852135c5214ee3938603632b0f21917", null ]
+    [ "CheckCast", "d2/d89/a21154.html#a715a58956db4253c8adfed039833debd", null ],
+    [ "PrepareSpellScript", "d2/d89/a21154.html#a3b03178d8ab54db36a19ba5a27444917", null ],
+    [ "Register", "d2/d89/a21154.html#a6309c53b9e3828e76d34a77a8fe35df1", null ]
 ];

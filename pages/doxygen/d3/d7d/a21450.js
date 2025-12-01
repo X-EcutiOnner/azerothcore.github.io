@@ -1,6 +1,6 @@
 var a21450 =
 [
-    [ "HandleOnHit", "d3/d7d/a21450.html#aa3f90eb49ae947b5729f722750cb8711", null ],
-    [ "PrepareSpellScript", "d3/d7d/a21450.html#a3b62711a0ba478d6321a93d436359939", null ],
-    [ "Register", "d3/d7d/a21450.html#af7bdde31f1221d5679983a41e3eca204", null ]
+    [ "npc_frozen_orbAI", "d4/d30/a21454.html", "d4/d30/a21454" ],
+    [ "npc_frozen_orb", "d3/d7d/a21450.html#ac14966722e39b2b6b3a907756701ed98", null ],
+    [ "GetAI", "d3/d7d/a21450.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
 ];

@@ -1,9 +1,9 @@
 var a14086 =
 [
-    [ "npc_amanishi_lookout", "df/de8/a14086.html#adf34c160c531164a459092f45588a7be", null ],
-    [ "DoAction", "df/de8/a14086.html#ab43e3372000af268c81e2701070e1b03", null ],
-    [ "MoveInLineOfSight", "df/de8/a14086.html#ab94c8563d7c79279ed4922f1d0411ec9", null ],
-    [ "MovementInform", "df/de8/a14086.html#ae9e6d22a781392107a7e50e5815c116c", null ],
-    [ "Reset", "df/de8/a14086.html#a42f8e96876f07e37fc4533b7eb732db3", null ],
-    [ "_instance", "df/de8/a14086.html#ab1557ad1a2cc6574c200ef691596b0c6", null ]
+    [ "npc_zulaman_hostageAI", "df/de8/a14086.html#a36a24241dfb0280a26c826ef9f1509dc", null ],
+    [ "JustDied", "df/de8/a14086.html#af87bdebb039f1da5736408cf3aad6487", null ],
+    [ "JustEngagedWith", "df/de8/a14086.html#af0aa229973da1a6230a854439658e9ed", null ],
+    [ "UpdateAI", "df/de8/a14086.html#a2212a1f56cf151e8816d22095ebb7c9c", null ],
+    [ "IsLoot", "df/de8/a14086.html#a86e65ee76ce382ec26a5b5bfb3fbf2b1", null ],
+    [ "PlayerGUID", "df/de8/a14086.html#a49f15c5a94d005c56218d00ac6732b82", null ]
 ];

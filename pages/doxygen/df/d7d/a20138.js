@@ -1,7 +1,5 @@
 var a20138 =
 [
-    [ "npc_storm_beacon_spawnAI", "df/d7d/a20138.html#a031c1941f177a18af58efcf4a1270654", null ],
-    [ "UpdateAI", "df/d7d/a20138.html#a249bf56b905ef0c8b34c737d95518c91", null ],
-    [ "_amount", "df/d7d/a20138.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
-    [ "_checkTimer", "df/d7d/a20138.html#a7fd6d449b6a20ba9463896244c513a67", null ]
+    [ "FlameLeviathanPursuedTargetSelector", "df/d7d/a20138.html#acc855eaab1e9590e1fcfae6ed8d37815", null ],
+    [ "operator()", "df/d7d/a20138.html#aaa2a49366fb651f7486b463ce597f364", null ]
 ];

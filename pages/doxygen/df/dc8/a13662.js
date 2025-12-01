@@ -1,6 +1,7 @@
 var a13662 =
 [
-    [ "instance_the_stockade_InstanceMapScript", "d4/dd2/a13666.html", "d4/dd2/a13666" ],
-    [ "instance_the_stockade", "df/dc8/a13662.html#a533049c10a72da4b94f9807017f28c0d", null ],
-    [ "GetInstanceScript", "df/dc8/a13662.html#a7a5a4adcd71ae5d22e6729a2d11d68d3", null ]
+    [ "HandleAfterCast", "df/dc8/a13662.html#a251ddadd9d26039da542c402e4ee254f", null ],
+    [ "PrepareSpellScript", "df/dc8/a13662.html#a91114aeb4f917ec5138a0c7b20688174", null ],
+    [ "Register", "df/dc8/a13662.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
+    [ "Validate", "df/dc8/a13662.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
 ];

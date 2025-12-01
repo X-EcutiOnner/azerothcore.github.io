@@ -1,7 +1,7 @@
 var a22130 =
 [
-    [ "HandleScriptEffect", "d8/db3/a22130.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
-    [ "PrepareSpellScript", "d8/db3/a22130.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
-    [ "Register", "d8/db3/a22130.html#a278206630f9f45f2dba50b259a6115c1", null ],
-    [ "Validate", "d8/db3/a22130.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
+    [ "HandleAfterEffectApply", "d8/db3/a22130.html#ab54795dc49ca453db40494a694158a98", null ],
+    [ "PrepareAuraScript", "d8/db3/a22130.html#a3e5902a79b9d2c5cad69ad2ece8592ec", null ],
+    [ "Register", "d8/db3/a22130.html#addd4fac4cc8a93d800abacb144e3303c", null ],
+    [ "Validate", "d8/db3/a22130.html#a3ee65a1391c340e471adfc7ac653dd50", null ]
 ];

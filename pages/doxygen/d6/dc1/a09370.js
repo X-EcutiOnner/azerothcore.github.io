@@ -1,8 +1,9 @@
 var a09370 =
 [
-    [ "FriendlyMissingBuffInRange", "d6/dc1/a09370.html#a628fe94ce054a868977ef2a981bc5d6c", null ],
-    [ "operator()", "d6/dc1/a09370.html#a6dce8a1248ebb4f3e57cd12a3d94b7b9", null ],
-    [ "i_obj", "d6/dc1/a09370.html#aba43edf48b2b0184b52143707c3531f4", null ],
-    [ "i_range", "d6/dc1/a09370.html#a54ba98f393a8bdf710f6bd65abee526c", null ],
-    [ "i_spell", "d6/dc1/a09370.html#a7f34521e8789a1e1dabb867ed82ff438", null ]
+    [ "NearestGameObjectTypeInObjectRangeCheck", "d6/dc1/a09370.html#a46cde63433cf803205006ad775fe73b5", null ],
+    [ "NearestGameObjectTypeInObjectRangeCheck", "d6/dc1/a09370.html#a4bf0dee77fb4979a02eebdc610995640", null ],
+    [ "operator()", "d6/dc1/a09370.html#ac41947606f4344e19edb13aa58f0a5a7", null ],
+    [ "i_obj", "d6/dc1/a09370.html#aca71a09421fdf412489f7f54cf4bc379", null ],
+    [ "i_range", "d6/dc1/a09370.html#a37f212d5cb1ef2b8d55e19b749861a17", null ],
+    [ "i_type", "d6/dc1/a09370.html#a68965425169b93053eadad91403855e0", null ]
 ];

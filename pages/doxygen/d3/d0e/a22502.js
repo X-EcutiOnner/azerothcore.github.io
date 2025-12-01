@@ -1,6 +1,7 @@
 var a22502 =
 [
-    [ "npc_brunnhildar_prisonerAI", "d6/d15/a22506.html", "d6/d15/a22506" ],
-    [ "npc_brunnhildar_prisoner", "d3/d0e/a22502.html#a4dd1b440366c0a5c4fa7c1dfab7607b5", null ],
-    [ "GetAI", "d3/d0e/a22502.html#aa2a1787849c74a5163a39137c9d03d57", null ]
+    [ "npc_wg_demolisher_engineer", "d3/d0e/a22502.html#a722ff6bac34730bfb5f36584d7a62ff8", null ],
+    [ "canBuild", "d3/d0e/a22502.html#a5dd51b0d0a05ebfb648faab570e27881", null ],
+    [ "OnGossipHello", "d3/d0e/a22502.html#ac3b0bbfd66bb94f29a6d733999b8c6ba", null ],
+    [ "OnGossipSelect", "d3/d0e/a22502.html#a3ecf69f45918bef0cb51023327ac9693", null ]
 ];

@@ -1,9 +1,10 @@
 var a11910 =
 [
-    [ "send_commandscript", "d4/da7/a11910.html#a3aa5d7cc0b5dcd4875e99dfd6f3dbdde", null ],
-    [ "GetCommands", "d4/da7/a11910.html#a2dc60c8c414c9131b4cda1ff82f7beed", null ],
-    [ "HandleSendItemsCommand", "d4/da7/a11910.html#a7ffcd07e0ad08be2eb8a1ebac0fec717", null ],
-    [ "HandleSendMailCommand", "d4/da7/a11910.html#a5ad6f9387c6fb00bf536629c760ba374", null ],
-    [ "HandleSendMessageCommand", "d4/da7/a11910.html#a91017e6171ac9e4dfff6c2036228de47", null ],
-    [ "HandleSendMoneyCommand", "d4/da7/a11910.html#a26938bb54bb3cb678c49737a92cadb56", null ]
+    [ "mmaps_commandscript", "d4/da7/a11910.html#a1dbdfd26bdb685315a3012453080a56f", null ],
+    [ "GetCommands", "d4/da7/a11910.html#aec91072f9e651c9136bf1a405a9bb95a", null ],
+    [ "HandleMmapLoadedTilesCommand", "d4/da7/a11910.html#a40d5b7e733298210c686fe89490b6f61", null ],
+    [ "HandleMmapLocCommand", "d4/da7/a11910.html#aa3dc699456256d8b2ab9fdd97891bd96", null ],
+    [ "HandleMmapPathCommand", "d4/da7/a11910.html#a2c876439ad6d9ff7523f140d97743dea", null ],
+    [ "HandleMmapStatsCommand", "d4/da7/a11910.html#a823b56cdbb0c97176990bb01af9af9fc", null ],
+    [ "HandleMmapTestArea", "d4/da7/a11910.html#aaae2e5548a6bd9c670db0721ea7508bd", null ]
 ];

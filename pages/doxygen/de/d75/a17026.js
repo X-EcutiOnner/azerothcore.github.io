@@ -1,15 +1,14 @@
 var a17026 =
 [
-    [ "boss_falricAI", "de/d75/a17026.html#a8b333fe1571f98b4e9f44152d130a22d", null ],
-    [ "DoAction", "de/d75/a17026.html#a2a7de8f939cd3cdc113c841da36e28c8", null ],
-    [ "EnterEvadeMode", "de/d75/a17026.html#aacb6a3b13fe5ea08ab2ff0e77ff841a4", null ],
-    [ "JustDied", "de/d75/a17026.html#a4ee3163afcda23102d639740fd628f39", null ],
-    [ "JustEngagedWith", "de/d75/a17026.html#ae5a8b14e1984dbd2866af7c442c02df2", null ],
-    [ "KilledUnit", "de/d75/a17026.html#a4a8b45eb85c1328af6beec69f2db1842", null ],
-    [ "Reset", "de/d75/a17026.html#a0af8ef161bc2a37a5c7f7fa880194251", null ],
-    [ "UpdateAI", "de/d75/a17026.html#a640036111dcd14e40016342ffdef7d63", null ],
-    [ "events", "de/d75/a17026.html#aa94ca00db157378071b78142b213de23", null ],
-    [ "pInstance", "de/d75/a17026.html#aebeae3541bbbf392c44fd52516bb2d98", null ],
-    [ "startFightTimer", "de/d75/a17026.html#addd560074b840aed36f41883f893340e", null ],
-    [ "uiHopelessnessCount", "de/d75/a17026.html#a0ad83fb57263116a59976834c6667ea9", null ]
+    [ "boss_marwynAI", "de/d75/a17026.html#abfc074b89e4edcf461c4df4d00c90856", null ],
+    [ "DoAction", "de/d75/a17026.html#adc68f202aa2e78bd3a7969bfddcce710", null ],
+    [ "EnterEvadeMode", "de/d75/a17026.html#acb0b5675c2ff9f614ddafd88ff96e62e", null ],
+    [ "JustDied", "de/d75/a17026.html#a11f64dbf0333c212584d441d4b719d9c", null ],
+    [ "JustEngagedWith", "de/d75/a17026.html#ae7509cf8b3b93e97b2e617c1ac181c87", null ],
+    [ "KilledUnit", "de/d75/a17026.html#a43b40959a22a1767c1c717f5bf7200ad", null ],
+    [ "Reset", "de/d75/a17026.html#a7433e7ed2007ccde768e1e15640ac99d", null ],
+    [ "UpdateAI", "de/d75/a17026.html#abaa8f609099423c9d8db5b93f2dd411e", null ],
+    [ "events", "de/d75/a17026.html#a87c1f1785612cfd42667bd635ce16f2a", null ],
+    [ "pInstance", "de/d75/a17026.html#a524e6c4145851d67edfdc0d9cb5b2e7c", null ],
+    [ "startFightTimer", "de/d75/a17026.html#a2a1d7531025f136e368fc7d2b4c0d163", null ]
 ];

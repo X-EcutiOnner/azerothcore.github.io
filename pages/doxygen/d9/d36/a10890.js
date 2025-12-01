@@ -1,9 +1,9 @@
 var a10890 =
 [
-    [ "LevelUpInfo", "d9/d36/a10890.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
-    [ "Write", "d9/d36/a10890.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
-    [ "HealthDelta", "d9/d36/a10890.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
-    [ "Level", "d9/d36/a10890.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
-    [ "PowerDelta", "d9/d36/a10890.html#a697da64ac234c24fe73e68d408697ee6", null ],
-    [ "StatDelta", "d9/d36/a10890.html#a580e4a3cd77631e960b7753542375d6d", null ]
+    [ "WrapItem", "d9/d36/a10890.html#a7de705fe4ac1b4d71a6487533f40f2aa", null ],
+    [ "Read", "d9/d36/a10890.html#adcd87a65cc32bc0096b650a705de9a55", null ],
+    [ "GiftBag", "d9/d36/a10890.html#a45ebce1daa3de00eca9ff7fb352a9063", null ],
+    [ "GiftSlot", "d9/d36/a10890.html#acd6da351e2ad9108921e2d9c7b13e82b", null ],
+    [ "ItemBag", "d9/d36/a10890.html#a577a588900d74f22cfe67a1fbe82424b", null ],
+    [ "ItemSlot", "d9/d36/a10890.html#a6a4bd31c0d4b97a019caca716a79c073", null ]
 ];

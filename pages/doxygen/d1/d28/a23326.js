@@ -1,12 +1,6 @@
 var a23326 =
 [
-    [ "boss_fathomlord_karathress", "d1/d28/a23326.html#a05c483ea61011926c260b43f6c01cac3", null ],
-    [ "DoAction", "d1/d28/a23326.html#adc5685244341e353c6dac67b0191d877", null ],
-    [ "JustDied", "d1/d28/a23326.html#a4c356359be50b626a28fab4a803386f8", null ],
-    [ "JustEngagedWith", "d1/d28/a23326.html#ae221d994f2ebb0a298288233727ea1ba", null ],
-    [ "JustReachedHome", "d1/d28/a23326.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
-    [ "JustSummoned", "d1/d28/a23326.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
-    [ "KilledUnit", "d1/d28/a23326.html#a02812a3cc7de22348058dedd107bb6d0", null ],
-    [ "Reset", "d1/d28/a23326.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
-    [ "_recentlySpoken", "d1/d28/a23326.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
+    [ "HandleScriptEffect", "d1/d28/a23326.html#a6489e3a58421da7c448a24d6673564c5", null ],
+    [ "PrepareSpellScript", "d1/d28/a23326.html#a5afd50fdc8393a12cd39a56c342f9179", null ],
+    [ "Register", "d1/d28/a23326.html#a274d65aa393a65e19bbb67a5d07c7428", null ]
 ];

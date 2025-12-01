@@ -1,15 +1,8 @@
 var a22018 =
 [
-    [ "npc_q24545_lich_kingAI", "db/d28/a22018.html#abebe71c6cfb705ce4409dd7fae3842e3", null ],
-    [ "CleanAll", "db/d28/a22018.html#a2720994f88a2706a2f0b4fb361f81f2c", null ],
-    [ "JustSummoned", "db/d28/a22018.html#a6049433795be30eb31e240a4939ad42f", null ],
-    [ "Reset", "db/d28/a22018.html#aebd396de51edef790cd0b599c94f78a0", null ],
-    [ "SetData", "db/d28/a22018.html#a8ee3a4f85aebe9b9a8e18858b76042a6", null ],
-    [ "SetGUID", "db/d28/a22018.html#a9dfbb607bb117d2d1fc8a4e61c42859f", null ],
-    [ "SpellHitTarget", "db/d28/a22018.html#adb8be583a14c8d0951b45dc027cf31d9", null ],
-    [ "SummonedCreatureDespawn", "db/d28/a22018.html#ae8049cc5b58c6647b37941fb98c51fe5", null ],
-    [ "UpdateAI", "db/d28/a22018.html#a24f17e0954e498e4a4b73b4cdffea6a3", null ],
-    [ "events", "db/d28/a22018.html#a3e89e187c08f45a51fb69b647dcc766d", null ],
-    [ "playerGUID", "db/d28/a22018.html#ac84b9efb3ee2eaa2160afe5d0217a884", null ],
-    [ "summons", "db/d28/a22018.html#a1de76ab7f3304f8373c633fa7d0aa533", null ]
+    [ "npc_q24545_vegardAI", "db/d28/a22018.html#a6a86b56508a86bf32ab5fb2bd46248c9", null ],
+    [ "JustDied", "db/d28/a22018.html#a1f7784242bbaf39d0fb105d2930da37c", null ],
+    [ "KilledUnit", "db/d28/a22018.html#a2d78117a6c2a29f52f1905595425964a", null ],
+    [ "UpdateAI", "db/d28/a22018.html#a79cc34760b58ad4b29c6a0a496971f0a", null ],
+    [ "events", "db/d28/a22018.html#a68f48d92cc5559025e635d599c2882e3", null ]
 ];

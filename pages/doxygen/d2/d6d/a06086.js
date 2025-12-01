@@ -1,9 +1,10 @@
 var a06086 =
 [
-    [ "AddonInfo", "d2/d6d/a06086.html#a60ea66ed93b64c9e182226954a514f53", null ],
-    [ "CRC", "d2/d6d/a06086.html#a7f0f2d817a2189b3acee5999f154ba60", null ],
-    [ "Enabled", "d2/d6d/a06086.html#ace9f109c395ed84cc01ca4381222c25b", null ],
-    [ "Name", "d2/d6d/a06086.html#a45692257c72286e670ab8c9c50014335", null ],
-    [ "State", "d2/d6d/a06086.html#a5301b19e44d68540434574f023e62f46", null ],
-    [ "UsePublicKeyOrCRC", "d2/d6d/a06086.html#a75e016fa7abee24757c89b97330a6192", null ]
+    [ "Storage", "d2/d6d/a06086.html#a49a70316b169e50ad64ff51d6a568bbc", null ],
+    [ "AchievementCriteriaDataSet", "d2/d6d/a06086.html#a5055f8710c48379035e132e8f20577dc", null ],
+    [ "Add", "d2/d6d/a06086.html#a297f02665679b19961998fb529d064e4", null ],
+    [ "Meets", "d2/d6d/a06086.html#a8edbe32d695308633fa7abfc91d2a1a1", null ],
+    [ "SetCriteriaId", "d2/d6d/a06086.html#addedfd39d9948923a2704b51eaacecbc", null ],
+    [ "_criteria_id", "d2/d6d/a06086.html#a0abc37729d2f3c400bb7cfde212f51c0", null ],
+    [ "_storage", "d2/d6d/a06086.html#a6abf189d95226b370cfcfe7b628ed7c0", null ]
 ];

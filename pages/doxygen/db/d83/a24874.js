@@ -1,7 +1,7 @@
 var a24874 =
 [
-    [ "AfterApply", "db/d83/a24874.html#aee69eceead7e31cce2638ff252f6653d", null ],
-    [ "AfterRemove", "db/d83/a24874.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
-    [ "PrepareAuraScript", "db/d83/a24874.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
-    [ "Register", "db/d83/a24874.html#ab5f8afbfa688ebd548a5508543498b55", null ]
+    [ "HandleProc", "db/d83/a24874.html#a2d38c32b4eb2ba91c657801b21a3b90d", null ],
+    [ "PrepareAuraScript", "db/d83/a24874.html#ac5988a79ab42ec1bbcc9b69bb649fc29", null ],
+    [ "Register", "db/d83/a24874.html#affd88326ea293f82055700ec7183d194", null ],
+    [ "Validate", "db/d83/a24874.html#acc8797afece569e68c6d754ca09e206d", null ]
 ];

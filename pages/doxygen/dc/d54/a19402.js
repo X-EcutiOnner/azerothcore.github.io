@@ -1,5 +1,5 @@
 var a19402 =
 [
-    [ "npc_mr_bigglesworth", "dc/d54/a19402.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
-    [ "JustDied", "dc/d54/a19402.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
+    [ "npc_living_poison", "dc/d54/a19402.html#a277440068846eac71c795880a16475dd", null ],
+    [ "UpdateAI", "dc/d54/a19402.html#a2a6af8a9ef14e65ba9e44f2228b09ba5", null ]
 ];

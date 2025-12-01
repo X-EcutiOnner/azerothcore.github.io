@@ -1,5 +1,6 @@
 var a20898 =
 [
-    [ "achievement_thorim_stand_in_the_lightning", "d2/d66/a20898.html#a9339e89e4eb76151fdeacb6bcd53d7bc", null ],
-    [ "OnCheck", "d2/d66/a20898.html#ade1aec4de4c503be5a62da3e6c35e90f", null ]
+    [ "npc_xt002_pummellerAI", "d8/d2f/a20902.html", "d8/d2f/a20902" ],
+    [ "npc_xt002_pummeller", "d2/d66/a20898.html#af620e31a231ca8fb812324521bad4673", null ],
+    [ "GetAI", "d2/d66/a20898.html#a9ec4e452a3763c3d03e581a17e5d7efe", null ]
 ];

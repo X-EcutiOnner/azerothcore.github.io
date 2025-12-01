@@ -1,6 +1,9 @@
 var a21702 =
 [
-    [ "npc_sinkhole_kill_creditAI", "d4/dc0/a21706.html", "d4/dc0/a21706" ],
-    [ "npc_sinkhole_kill_credit", "dc/deb/a21702.html#a627d01aaaa3408986f2b4d171624e680", null ],
-    [ "GetAI", "dc/deb/a21702.html#a4d734432f132bea2c4525d049fbcfa67", null ]
+    [ "npc_lurgglbrAI", "dc/deb/a21702.html#a9239b85c65f9b405335d432f355637d5", null ],
+    [ "Reset", "dc/deb/a21702.html#a13b8bd8e7d85c93b0ee88c6e9f6d09ca", null ],
+    [ "UpdateAI", "dc/deb/a21702.html#aee019df9abe7ca3bf36a6de2321bedec", null ],
+    [ "WaypointReached", "dc/deb/a21702.html#a09ac2f2f21eefedd0052f727546bafb5", null ],
+    [ "IntroPhase", "dc/deb/a21702.html#a57e2c42cccf91765365e0b046446637a", null ],
+    [ "IntroTimer", "dc/deb/a21702.html#ada9762806ae0132e37197e6fb1279866", null ]
 ];

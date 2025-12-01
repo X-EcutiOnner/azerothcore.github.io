@@ -1,9 +1,9 @@
 var a02426 =
 [
-    [ "npc_thrall_old_hillsbrad", "d0/d55/a15008.html", "d0/d55/a15008" ],
-    [ "npc_thrall_old_hillsbrad::npc_thrall_old_hillsbradAI", "d3/d7e/a15012.html", "d3/d7e/a15012" ],
-    [ "npc_taretha", "de/da1/a15016.html", "de/da1/a15016" ],
-    [ "npc_taretha::npc_tarethaAI", "dd/d8d/a15020.html", "dd/d8d/a15020" ],
+    [ "npc_thrall_old_hillsbrad", "d8/db2/a15014.html", "d8/db2/a15014" ],
+    [ "npc_thrall_old_hillsbrad::npc_thrall_old_hillsbradAI", "d2/d16/a15018.html", "d2/d16/a15018" ],
+    [ "npc_taretha", "dc/df0/a15022.html", "dc/df0/a15022" ],
+    [ "npc_taretha::npc_tarethaAI", "d8/d53/a15026.html", "d8/d53/a15026" ],
     [ "SPEED_MOUNTED", "d0/d1e/a02426.html#a7e059016e4f9b8f2cc7c2b89ead8de5a", null ],
     [ "SPEED_RUNNING", "d0/d1e/a02426.html#a90caa16af6201f0e06561b0c8cb762fc", null ],
     [ "Events", "d0/d1e/a02426.html#af60e00b78607064c5be6aa9397ea49c1", [
@@ -1488,7 +1488,8 @@ var a02426 =
       [ "EVENT_ECK_BITE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a25fd4fd9c83fea5e757a20aeb8f03aee", null ],
       [ "EVENT_ECK_SPIT", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6add7ba9bf01f5f04dac1d93a997b57af2", null ],
       [ "EVENT_ECK_SPRING", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6c3f22fd6aa63e5bf101019792a4b483", null ],
-      [ "EVENT_ECK_HEALTH", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f0a1bde1d1f47b6f7e45f621a57b6c1", null ],
+      [ "EVENT_ECK_CRAZED_EMOTE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6eeac32439bad23ef93cf41b4526d55d", null ],
+      [ "EMOTE_CRAZED", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2628cfc3f39065948404f522308c931f", null ],
       [ "NPC_SLADRAN_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08dc37f063f5d70a3893765939f63a82", null ],
       [ "NPC_SLADRAN_CONSTRICTORS", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a52bf6fd6ef6437b9a4e88616b7f1d91b", null ],
       [ "MAX_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1e3f12d08f9d4880b8263386a54d21c8", null ],

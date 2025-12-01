@@ -1,5 +1,5 @@
 var a27222 =
 [
-    [ "achievement_bg_control_all_nodes", "d7/d08/a27222.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
-    [ "OnCheck", "d7/d08/a27222.html#a69609eb5488519fa5a1f43b13a80e280", null ]
+    [ "achievement_bg_sa_artillery", "d7/d08/a27222.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
+    [ "OnCheck", "d7/d08/a27222.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
 ];

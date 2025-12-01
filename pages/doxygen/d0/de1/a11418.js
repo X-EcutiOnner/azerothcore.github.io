@@ -1,6 +1,7 @@
 var a11418 =
 [
-    [ "BeforeHitHandler", "d0/de1/a11418.html#a0c2f048fc10f408a299a8b537ad7551d", null ],
-    [ "Call", "d0/de1/a11418.html#a393057cca72c41e193508bf150ed0b1f", null ],
-    [ "_pBeforeHitHandlerScript", "d0/de1/a11418.html#acecb7a8844155ff6eeb3f09582d7a475", null ]
+    [ "maxvalue", "d0/de1/a11418.html#a1dd2289b0d3505cb50e8613595ad8c8e", null ],
+    [ "skill", "d0/de1/a11418.html#a8bcbe05ff6a3220f9f05f52b16925f5d", null ],
+    [ "step", "d0/de1/a11418.html#a1c882f7d43c65954cb99566225660312", null ],
+    [ "value", "d0/de1/a11418.html#a064fece53cdaf07b072510b14200a968", null ]
 ];

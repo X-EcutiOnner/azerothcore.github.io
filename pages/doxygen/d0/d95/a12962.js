@@ -1,15 +1,12 @@
 var a12962 =
 [
-    [ "npc_image_of_medivhAI", "d0/d95/a12962.html#a1afe3245dc18db3c0bf6801b5ca20d31", null ],
-    [ "JustEngagedWith", "d0/d95/a12962.html#a1013be426b3567d8cbd1c45debc914c5", null ],
-    [ "NextStep", "d0/d95/a12962.html#a87160b37ba61af4866fe3f410813fe9f", null ],
-    [ "Reset", "d0/d95/a12962.html#af2e7dd7f1038bb5662fe7375a7e052c4", null ],
-    [ "UpdateAI", "d0/d95/a12962.html#a321d689d645b4630e2e93e6251d5130c", null ],
-    [ "ArcanagosGUID", "d0/d95/a12962.html#a877c693b6ac736aa874926d8efe0d79a", null ],
-    [ "ATimer", "d0/d95/a12962.html#a28aef0767b6adb0ccf0479dd50dc11a8", null ],
-    [ "EventStarted", "d0/d95/a12962.html#a9a662b435218a3e13ca58eb4a6b3af86", null ],
-    [ "instance", "d0/d95/a12962.html#a2e02aa8d441426aa51f46121eec0becb", null ],
-    [ "MTimer", "d0/d95/a12962.html#a16c3f6d5bd1cc288590bd096233e0bfb", null ],
-    [ "Step", "d0/d95/a12962.html#a9d7b9bdcf9e185284dba5251a0deb0b3", null ],
-    [ "YellTimer", "d0/d95/a12962.html#a34ad7cabe4cb86e23deb30ca0ce77db0", null ]
+    [ "boss_bigbadwolf", "d0/d95/a12962.html#a1e4ad63c96d64f81e8b9ea82f118cdcc", null ],
+    [ "EnterEvadeMode", "d0/d95/a12962.html#a4f2d5307f5d05ed58bfc200f53bf2969", null ],
+    [ "JustDied", "d0/d95/a12962.html#a167083a43e00a60e9c3792cadaf6e80c", null ],
+    [ "JustEngagedWith", "d0/d95/a12962.html#a529fad938a0ef7261f1c2d589b6ff29c", null ],
+    [ "JustReachedHome", "d0/d95/a12962.html#a7755bf925d919c73075a41f8774280c0", null ],
+    [ "KilledUnit", "d0/d95/a12962.html#a8e004a1feac796ed467eba744f211827", null ],
+    [ "UpdateAI", "d0/d95/a12962.html#ab788a0155a3ffe6535d58263eea16dee", null ],
+    [ "_scheduler", "d0/d95/a12962.html#a661d9b619be30764ba5b89d71de870e9", null ],
+    [ "instance", "d0/d95/a12962.html#aed0e9edc52f13b7b0cfa5047849c26a9", null ]
 ];

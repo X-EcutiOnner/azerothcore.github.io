@@ -1,6 +1,8 @@
 var a20094 =
 [
-    [ "npc_hodirs_furyAI", "d8/dd1/a20098.html", "d8/dd1/a20098" ],
-    [ "npc_hodirs_fury", "dd/d59/a20094.html#af5e0f1cb4c478bd4fc9ec246aa7d7e08", null ],
-    [ "GetAI", "dd/d59/a20094.html#ad8856a6da86a8f4ce744d57614ee16e6", null ]
+    [ "npc_brann_radioAI", "dd/d59/a20094.html#a329ca0310efe109f7fb364045f6eccbb", null ],
+    [ "MoveInLineOfSight", "dd/d59/a20094.html#ad119431edd6f632b4c44fc4e8708d375", null ],
+    [ "Reset", "dd/d59/a20094.html#a89183942dcb38f48de1867bfbce15721", null ],
+    [ "_helpLock", "dd/d59/a20094.html#ae927b6c8143cfb029ab6574d10dde60e", null ],
+    [ "_lock", "dd/d59/a20094.html#a421cfd2b8b149a0f3ea5bc2262ba6bac", null ]
 ];

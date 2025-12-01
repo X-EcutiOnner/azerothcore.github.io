@@ -1,6 +1,17 @@
 var a12010 =
 [
-    [ "npc_phalanxAI", "d2/d2c/a12014.html", "d2/d2c/a12014" ],
-    [ "npc_phalanx", "dd/dbc/a12010.html#a947ee4659fe2a46d775119ddcefeb939", null ],
-    [ "GetAI", "dd/dbc/a12010.html#ab1e2a0950ab286d5abae3d46aef3c623", null ]
+    [ "boss_drektharAI", "dd/dbc/a12010.html#a4cd7f817b3dfe457cb330e73316e18d1", null ],
+    [ "AttackStart", "dd/dbc/a12010.html#a058d9683179756e49aa4e243d270105c", null ],
+    [ "EnterEvadeMode", "dd/dbc/a12010.html#a7f8677796d1b9dbe7021c056252278d3", null ],
+    [ "JustEngagedWith", "dd/dbc/a12010.html#aea7fad4bfdc14e5526a6620ee5d3ba2e", null ],
+    [ "JustRespawned", "dd/dbc/a12010.html#aef244c80a915eaf4c1e0ff1c1080b18a", null ],
+    [ "Reset", "dd/dbc/a12010.html#a87e1f67ae379360bc0843d7bb3cd0acb", null ],
+    [ "UpdateAI", "dd/dbc/a12010.html#a79f1f0430496d2a1759ded7cca5cdef3", null ],
+    [ "Attacked", "dd/dbc/a12010.html#a6a6b5b2b00e85231441f5a8a0213e5ec", null ],
+    [ "FrenzyTimer", "dd/dbc/a12010.html#afd2d5fc6b7091fb019048d32a8b3631e", null ],
+    [ "KnockdownTimer", "dd/dbc/a12010.html#a235912a2cb78bd10b6b3a45c51ee0cff", null ],
+    [ "ResetTimer", "dd/dbc/a12010.html#a7d7b0a8d19d540e998db3b6e189cc16d", null ],
+    [ "Whirlwind2Timer", "dd/dbc/a12010.html#a788359b7f2df1794dbff643d75b2c561", null ],
+    [ "WhirlwindTimer", "dd/dbc/a12010.html#aef399775e552d7e80224fbb0c2f62aff", null ],
+    [ "YellTimer", "dd/dbc/a12010.html#ad45ea624603c427fa5b3e40cd6ba7f5d", null ]
 ];

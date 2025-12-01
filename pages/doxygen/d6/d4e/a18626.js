@@ -1,5 +1,6 @@
 var a18626 =
 [
-    [ "achievement_neck_deep_in_vile", "d6/d4e/a18626.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
-    [ "OnCheck", "d6/d4e/a18626.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
+    [ "ManaVoidSelector", "d6/d4e/a18626.html#aa57a0960e7ce90b8de23f01ae72a1fff", null ],
+    [ "operator()", "d6/d4e/a18626.html#a464d63f2cf8cfe7d0c6bb5293e788a28", null ],
+    [ "_source", "d6/d4e/a18626.html#ae45c999db51bc153bba7f2fdfb99f6ba", null ]
 ];

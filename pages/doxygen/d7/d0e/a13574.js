@@ -1,8 +1,8 @@
 var a13574 =
 [
-    [ "HandleApply", "d7/d0e/a13574.html#a2c64240e8675fc76598600ae2632570f", null ],
-    [ "HandleRemove", "d7/d0e/a13574.html#a2a6e32bbc9b722ad7e872c6a26daa6bb", null ],
-    [ "PrepareAuraScript", "d7/d0e/a13574.html#a6ff74fbaf3a6ef84024d55528fd6f8e2", null ],
-    [ "Register", "d7/d0e/a13574.html#aebfb4b20a9b0ebefff652a0ae1727994", null ],
-    [ "Validate", "d7/d0e/a13574.html#abdad49fe5e0a72799847fdfcfe22eec0", null ]
+    [ "FilterTargets", "d7/d0e/a13574.html#a3282eb4c27b4256705bba47f4934c9b8", null ],
+    [ "HandleScriptEffect", "d7/d0e/a13574.html#a8622351d9984d2de69ccd67d37fd52b9", null ],
+    [ "PrepareSpellScript", "d7/d0e/a13574.html#a6083e35b4289b8a960dd6b223e1d02b5", null ],
+    [ "Register", "d7/d0e/a13574.html#a57b42bf7b94ef5b23092ed097ce016e8", null ],
+    [ "Validate", "d7/d0e/a13574.html#a5493864b068de82015bc157f3d0899b3", null ]
 ];

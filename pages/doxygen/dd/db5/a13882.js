@@ -1,6 +1,5 @@
 var a13882 =
 [
-    [ "npc_highborne_lamenterAI", "d5/d2a/a13886.html", "d5/d2a/a13886" ],
-    [ "npc_highborne_lamenter", "dd/db5/a13882.html#a40316cf73a688e34e95dd41feef8612a", null ],
-    [ "GetAI", "dd/db5/a13882.html#aad8ccb43b325b797f60a16e338458a1e", null ]
+    [ "npc_king_varian_wrynn", "dd/db5/a13882.html#a33b7c492a7435b3f80e508be9e3440e9", null ],
+    [ "OnQuestReward", "dd/db5/a13882.html#a1255cca95a7a2b039702b30db377a19f", null ]
 ];

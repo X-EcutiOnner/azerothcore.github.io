@@ -1,7 +1,9 @@
 var a22082 =
 [
-    [ "HandleDummy", "d8/d4f/a22082.html#ae180aea347e73fcce44e9ac3ff33d0ce", null ],
-    [ "PrepareSpellScript", "d8/d4f/a22082.html#a9d863ad1d44a9d5dc2b212ef0c414626", null ],
-    [ "Register", "d8/d4f/a22082.html#a45f80e0436f93a597deb4653852df6a1", null ],
-    [ "Validate", "d8/d4f/a22082.html#ad13fdade1fb7455485bfd68687de53c5", null ]
+    [ "npc_mrfloppyAI", "d8/d4f/a22082.html#a2994e5658035bb2cfe6f3cdab4c507fc", null ],
+    [ "EnterEvadeMode", "d8/d4f/a22082.html#af0f11f715cac553c772c0dca7e5e3a22", null ],
+    [ "JustEngagedWith", "d8/d4f/a22082.html#a490bf07de00cc5c59b5f0024317d8125", null ],
+    [ "MoveInLineOfSight", "d8/d4f/a22082.html#af0b376c5f10b6cb43f3bb63376012a0d", null ],
+    [ "Reset", "d8/d4f/a22082.html#ac2dc6204b0579e1aaf7e670f0fcb4ec5", null ],
+    [ "UpdateAI", "d8/d4f/a22082.html#afad6db1ccd903fd18192f832a10a32f4", null ]
 ];

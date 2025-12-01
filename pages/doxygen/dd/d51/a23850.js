@@ -1,6 +1,6 @@
 var a23850 =
 [
-    [ "HandleEffect", "dd/d51/a23850.html#a47c4b4da3b06d063fd2a6a612cea29da", null ],
-    [ "PrepareSpellScript", "dd/d51/a23850.html#a37ef368735fa2879871bc3ce8a52c8b1", null ],
-    [ "Register", "dd/d51/a23850.html#abc6d5b845d9b76ed7abdf4132640824e", null ]
+    [ "npc_millhouse_manastormAI", "d2/d4f/a23854.html", "d2/d4f/a23854" ],
+    [ "npc_millhouse_manastorm", "dd/d51/a23850.html#aebc8efc48d207ad7f1105fa636b9c104", null ],
+    [ "GetAI", "dd/d51/a23850.html#ac4516785f7daf544718fc201197ba977", null ]
 ];

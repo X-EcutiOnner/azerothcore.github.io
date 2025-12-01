@@ -1,6 +1,6 @@
 var a12910 =
 [
-    [ "npc_grandmother", "d2/d3f/a12910.html#a6cffe8c574859779f6561dde0aef9666", null ],
-    [ "OnGossipHello", "d2/d3f/a12910.html#ae39335d22b5fd1fc4c0f9d34e8977124", null ],
-    [ "OnGossipSelect", "d2/d3f/a12910.html#a0e2b684377ed593abfbb49b730cfe9b2", null ]
+    [ "go_blood_drenched_doorAI", "db/d73/a12914.html", "db/d73/a12914" ],
+    [ "go_blood_drenched_door", "d2/d3f/a12910.html#a32451e046236bc66b605088cab35fefc", null ],
+    [ "GetAI", "d2/d3f/a12910.html#a983405ff279eabe0bc607fb85bd47eb9", null ]
 ];

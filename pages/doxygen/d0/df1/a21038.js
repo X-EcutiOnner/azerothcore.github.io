@@ -1,6 +1,6 @@
 var a21038 =
 [
-    [ "boss_yoggsaron_death_orbAI", "d0/df1/a21038.html#a6e87b98e89748585a9f28c6f0e3a85e9", null ],
-    [ "UpdateAI", "d0/df1/a21038.html#afde5311434966ff0459dca8ce0d6b8b0", null ],
-    [ "_startTimer", "d0/df1/a21038.html#aebc8edef5f84219e1c50f2394d129443", null ]
+    [ "boss_yoggsaron_descend_portalAI", "d8/d52/a21042.html", "d8/d52/a21042" ],
+    [ "boss_yoggsaron_descend_portal", "d0/df1/a21038.html#aaf546e4e546d87818bd501b4934e8ab2", null ],
+    [ "GetAI", "d0/df1/a21038.html#aceb50c808eed17ca468a80b823af1907", null ]
 ];

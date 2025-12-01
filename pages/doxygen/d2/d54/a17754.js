@@ -1,6 +1,6 @@
 var a17754 =
 [
-    [ "npc_muradin_bronzebeard_igbAI", "de/da7/a17758.html", "de/da7/a17758" ],
-    [ "npc_muradin_bronzebeard_igb", "d2/d54/a17754.html#a1e6abc18a192b3acfa29bf03dd4eeed9", null ],
-    [ "GetAI", "d2/d54/a17754.html#af9b149e0780308f26d5adb1e6607a3ce", null ]
+    [ "npc_zafod_boomboxAI", "de/da7/a17758.html", "de/da7/a17758" ],
+    [ "npc_zafod_boombox", "d2/d54/a17754.html#a7124746ed3f25ae6d96a2fa1910d98d0", null ],
+    [ "GetAI", "d2/d54/a17754.html#af80f6913cef53d39cafdcd47b2cd07f0", null ]
 ];

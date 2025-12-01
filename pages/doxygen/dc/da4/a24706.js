@@ -1,6 +1,10 @@
 var a24706 =
 [
-    [ "PrepareSpellScript", "dc/da4/a24706.html#ad6190cf9ab80ebfd982c1b166d950656", null ],
-    [ "Register", "dc/da4/a24706.html#a4b349a325759517c35d04202e5df9cec", null ],
-    [ "SetDest", "dc/da4/a24706.html#a951f733ab2452655a3b579f8ed190fb0", null ]
+    [ "Absorb", "dc/da4/a24706.html#a99db0d1254ddcfa9e7afb241e73b3235", null ],
+    [ "CalculateAmount", "dc/da4/a24706.html#a279a025cac490ee3647f47584b59179f", null ],
+    [ "Load", "dc/da4/a24706.html#a3fededdbfca9d12e6dbd097620e104be", null ],
+    [ "PrepareAuraScript", "dc/da4/a24706.html#a818875a8073491eab2508182bd941e25", null ],
+    [ "Register", "dc/da4/a24706.html#a2419bff95bad81a0f63c4988f14eb3f9", null ],
+    [ "Validate", "dc/da4/a24706.html#a60eb14be1b3108b7b896a27eab35569b", null ],
+    [ "absorbPct", "dc/da4/a24706.html#ac51bad58076a6dfa520fd3e9ea0c76b5", null ]
 ];

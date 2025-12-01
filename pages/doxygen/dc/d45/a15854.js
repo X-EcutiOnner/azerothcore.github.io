@@ -1,12 +1,7 @@
 var a15854 =
 [
-    [ "npc_wizzlecrank_shredderAI", "dc/d45/a15854.html#a055c4b426219aa3372a83d2e2021d916", null ],
-    [ "JustSummoned", "dc/d45/a15854.html#a7cad21f0b3286ed75256a49c315069ce", null ],
-    [ "Reset", "dc/d45/a15854.html#a86929e8a2f3433f37e4dda03e3011193", null ],
-    [ "UpdateEscortAI", "dc/d45/a15854.html#acb95eeebd0317f1d95bc48d6b9e7e962", null ],
-    [ "WaypointReached", "dc/d45/a15854.html#a369ae3d62d1289a1c840bdc3184b463d", null ],
-    [ "WaypointStart", "dc/d45/a15854.html#a00857e372e53950338ed71d672edb780", null ],
-    [ "IsPostEvent", "dc/d45/a15854.html#a9207ffdb39627b1262ec209fe41d6d0a", null ],
-    [ "PostEventCount", "dc/d45/a15854.html#aa5284a284c074f32cee85d29aea00f2f", null ],
-    [ "PostEventTimer", "dc/d45/a15854.html#a3c43ede2df7b1ea61b0f1625e2e1461c", null ]
+    [ "npc_lakota_windsongAI", "d3/d01/a15858.html", "d3/d01/a15858" ],
+    [ "npc_lakota_windsong", "dc/d45/a15854.html#a08a585ac36189ec23354c7acb26d223d", null ],
+    [ "GetAI", "dc/d45/a15854.html#af2f27ed2c4bd7298a9478495d2d7ca65", null ],
+    [ "OnQuestAccept", "dc/d45/a15854.html#a47ccf0b8bef84724f7aa7e2ad564dfe6", null ]
 ];

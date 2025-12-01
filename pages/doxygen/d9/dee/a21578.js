@@ -1,16 +1,15 @@
 var a21578 =
 [
-    [ "boss_zuramatAI", "d9/dee/a21578.html#ab4c04fec01023295946d170a466d1c48", null ],
-    [ "EnterEvadeMode", "d9/dee/a21578.html#a991437ea0d9fd1ce7807ef9937c4cb0a", null ],
-    [ "JustDied", "d9/dee/a21578.html#a060df9b36f2f62f3fc7afb80386d51c5", null ],
-    [ "JustEngagedWith", "d9/dee/a21578.html#a85cc0f20b51e84ff1c5c16a3b2b004b9", null ],
-    [ "JustSummoned", "d9/dee/a21578.html#a6e925207ddc112f7dd7044c08023f90e", null ],
-    [ "KilledUnit", "d9/dee/a21578.html#adb79f8c244f57b88848dd44b592faf41", null ],
-    [ "MoveInLineOfSight", "d9/dee/a21578.html#aa3ef3256d203d264dee12eff4491a28c", null ],
-    [ "Reset", "d9/dee/a21578.html#a18498e4bc4bfac33ff2c591f5bf28d7d", null ],
-    [ "SummonedCreatureDespawn", "d9/dee/a21578.html#a242f814bfec2e937e1338097e78080e3", null ],
-    [ "UpdateAI", "d9/dee/a21578.html#adb591699b7d8ece0b1775afd40a4181b", null ],
-    [ "events", "d9/dee/a21578.html#a4406b42618f3e40fa90e0a34ec3ad09f", null ],
-    [ "pInstance", "d9/dee/a21578.html#a8ebb5ca6f9f18b0205e8b6a54492c06a", null ],
-    [ "summons", "d9/dee/a21578.html#a42cb09654095c8a157720f99e7957102", null ]
+    [ "npc_vh_teleportation_portalAI", "d9/dee/a21578.html#a9d062de34e4fbc8ccc487a633efa038d", null ],
+    [ "JustDied", "d9/dee/a21578.html#aab2cc259d78492c54e21b4279697f909", null ],
+    [ "JustSummoned", "d9/dee/a21578.html#a029b105ef6f92455c41e064aeb0fd5f6", null ],
+    [ "SummonedMobDied", "d9/dee/a21578.html#ae6b5b15aeee2f7b02d5c54dd8d09aa51", null ],
+    [ "UpdateAI", "d9/dee/a21578.html#a812e330e20924cc34262363ecc0a3fc1", null ],
+    [ "addValue", "d9/dee/a21578.html#aa52f29a41d12320516737b437af62fc3", null ],
+    [ "bKorG", "d9/dee/a21578.html#ad96efd06ebb1902cc30deb22e62d7873", null ],
+    [ "events", "d9/dee/a21578.html#a329635246e80e7264cad6749ee70be40", null ],
+    [ "listOfMobs", "d9/dee/a21578.html#a470a61cf7d424711b07770fd56c74b29", null ],
+    [ "pInstance", "d9/dee/a21578.html#a10ebe705c55d898bfea2af104ce7f86e", null ],
+    [ "spawned", "d9/dee/a21578.html#a8921c314c2f4b958e11136504971f427", null ],
+    [ "wave", "d9/dee/a21578.html#a4dd689e6445e18c3e9883bc471fecdde", null ]
 ];

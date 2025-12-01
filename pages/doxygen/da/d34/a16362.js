@@ -1,6 +1,6 @@
 var a16362 =
 [
-    [ "OnSummon", "da/d34/a16362.html#ae2766d12fb686356b46126848f356c5a", null ],
-    [ "PrepareSpellScript", "da/d34/a16362.html#a6b9af3b70d2ce07fe8aee5292367a982", null ],
-    [ "Register", "da/d34/a16362.html#a717394bfbea621ae637f9e87efddda62", null ]
+    [ "HandleHealPct", "da/d34/a16362.html#ad13b3924815ac3da7902c8292a760943", null ],
+    [ "PrepareSpellScript", "da/d34/a16362.html#aeea718bce7dd5aa4ac33bbd1a95a65c0", null ],
+    [ "Register", "da/d34/a16362.html#a3016c31c072d6417bbe47c2891059718", null ]
 ];

@@ -1,11 +1,11 @@
 var a02267 =
 [
-    [ "boss_ossirian", "d6/db3/a15208.html", "d6/db3/a15208" ],
-    [ "go_ossirian_crystal", "dd/dc4/a15212.html", "dd/dc4/a15212" ],
-    [ "go_ossirian_crystal::go_ossirian_crystalAI", "da/deb/a15216.html", "da/deb/a15216" ],
-    [ "npc_anubisath_guardian", "d1/de0/a15220.html", "d1/de0/a15220" ],
-    [ "spell_crystal_weakness", "da/db7/a15224.html", "da/db7/a15224" ],
-    [ "spell_aq_shadow_storm", "dd/df9/a15228.html", "dd/df9/a15228" ],
+    [ "boss_ossirian", "d5/deb/a15214.html", "d5/deb/a15214" ],
+    [ "go_ossirian_crystal", "d4/d27/a15218.html", "d4/d27/a15218" ],
+    [ "go_ossirian_crystal::go_ossirian_crystalAI", "d5/de5/a15222.html", "d5/de5/a15222" ],
+    [ "npc_anubisath_guardian", "d6/dd4/a15226.html", "d6/dd4/a15226" ],
+    [ "spell_crystal_weakness", "dc/d61/a15230.html", "dc/d61/a15230" ],
+    [ "spell_aq_shadow_storm", "dc/d98/a15234.html", "dc/d98/a15234" ],
     [ "Actions", "d5/d95/a02267.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d4/def/a00359.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "d4/def/a00359.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],
@@ -1584,7 +1584,8 @@ var a02267 =
       [ "EVENT_ECK_BITE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a25fd4fd9c83fea5e757a20aeb8f03aee", null ],
       [ "EVENT_ECK_SPIT", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6add7ba9bf01f5f04dac1d93a997b57af2", null ],
       [ "EVENT_ECK_SPRING", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6c3f22fd6aa63e5bf101019792a4b483", null ],
-      [ "EVENT_ECK_HEALTH", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f0a1bde1d1f47b6f7e45f621a57b6c1", null ],
+      [ "EVENT_ECK_CRAZED_EMOTE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6eeac32439bad23ef93cf41b4526d55d", null ],
+      [ "EMOTE_CRAZED", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2628cfc3f39065948404f522308c931f", null ],
       [ "NPC_SLADRAN_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08dc37f063f5d70a3893765939f63a82", null ],
       [ "NPC_SLADRAN_CONSTRICTORS", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a52bf6fd6ef6437b9a4e88616b7f1d91b", null ],
       [ "MAX_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1e3f12d08f9d4880b8263386a54d21c8", null ],

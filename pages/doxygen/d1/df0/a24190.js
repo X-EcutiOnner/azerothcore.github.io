@@ -1,6 +1,8 @@
 var a24190 =
 [
-    [ "npc_daranelleAI", "d9/df7/a24194.html", "d9/df7/a24194" ],
-    [ "npc_daranelle", "d1/df0/a24190.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
-    [ "GetAI", "d1/df0/a24190.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
+    [ "npc_ancestral_wolfAI", "d1/df0/a24190.html#a59ccca7093575f4bcac57a4751d977d4", null ],
+    [ "MoveInLineOfSight", "d1/df0/a24190.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
+    [ "Reset", "d1/df0/a24190.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
+    [ "WaypointReached", "d1/df0/a24190.html#a2b553c29823e5ef888ee02a3ed413386", null ],
+    [ "ryga", "d1/df0/a24190.html#ac238214604720e298124b58c35d58e05", null ]
 ];

@@ -1,6 +1,7 @@
 var a22002 =
 [
-    [ "HandleSendEvent", "d5/def/a22002.html#a8b8276833404f3f69c3b7f97d95b6982", null ],
-    [ "PrepareSpellScript", "d5/def/a22002.html#aa632d381ac415feaf226f55fc2cd8520", null ],
-    [ "Register", "d5/def/a22002.html#a72673f5054cf269cc8da511441f7bd66", null ]
+    [ "FilterTargets", "d5/def/a22002.html#af62588a225f0b701a0f9321677ae22b8", null ],
+    [ "HandleScript", "d5/def/a22002.html#ad68fad08b2613de096e504bb7dea61cd", null ],
+    [ "PrepareSpellScript", "d5/def/a22002.html#a76ac3fe280585a4e2b2d599b4bcc7846", null ],
+    [ "Register", "d5/def/a22002.html#a8fdbf1c7ab67c0ef094d738ec9a169d8", null ]
 ];

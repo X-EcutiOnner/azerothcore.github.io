@@ -1,6 +1,6 @@
 var a21206 =
 [
-    [ "achievement_yogg_saron_he_waits_dreaming", "dc/d08/a21206.html#a25f4950d1ccffe77aa9cf5de7a14ea37", null ],
-    [ "OnCheck", "dc/d08/a21206.html#a7ef7dfb0235fb2db5932e7415e3e6f61", null ],
-    [ "_requiredIllusion", "dc/d08/a21206.html#aa3e107cb3be6fa02687709e07466a094", null ]
+    [ "npc_ulduar_storm_tempered_keeperAI", "de/dff/a21210.html", "de/dff/a21210" ],
+    [ "npc_ulduar_storm_tempered_keeper", "dc/d08/a21206.html#aaf2ef154cad4f2ba5796e410dabf02fc", null ],
+    [ "GetAI", "dc/d08/a21206.html#aa0860236d2abedba1e521ee1610c89e8", null ]
 ];

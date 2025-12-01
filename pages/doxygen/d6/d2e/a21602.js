@@ -1,6 +1,6 @@
 var a21602 =
 [
-    [ "npc_vh_sinclari", "d6/d2e/a21602.html#ad0235f207a3031420532174c04e0c348", null ],
-    [ "OnGossipHello", "d6/d2e/a21602.html#a95f0d094d417d9d6ce99d7c8aa83496f", null ],
-    [ "OnGossipSelect", "d6/d2e/a21602.html#af0a260d7868f601ae239c226b10d4de3", null ]
+    [ "npc_azure_mage_slayerAI", "dd/d67/a21606.html", "dd/d67/a21606" ],
+    [ "npc_azure_mage_slayer", "d6/d2e/a21602.html#ad5e5453235c224f4fac40244516dd1ad", null ],
+    [ "GetAI", "d6/d2e/a21602.html#a9b795915100f47b11a65abdfdcbf39f4", null ]
 ];

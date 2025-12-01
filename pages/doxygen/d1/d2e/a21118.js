@@ -1,6 +1,6 @@
 var a21118 =
 [
-    [ "boss_yoggsaron_voiceAI", "de/def/a21122.html", "de/def/a21122" ],
-    [ "boss_yoggsaron_voice", "d1/d2e/a21118.html#ae5d10416bb83e57c0e9d3ef5d6f5adc6", null ],
-    [ "GetAI", "d1/d2e/a21118.html#a50abcde0313df06a114a2f5f44a1d481", null ]
+    [ "FilterTargets", "d1/d2e/a21118.html#a7efa78a7991b7ca859c7d622f973265d", null ],
+    [ "PrepareSpellScript", "d1/d2e/a21118.html#a67da98b94fe491afa06b7a0cfa92982a", null ],
+    [ "Register", "d1/d2e/a21118.html#a4d2c901a32f526673e968aa5b7ca9117", null ]
 ];

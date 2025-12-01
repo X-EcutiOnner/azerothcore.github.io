@@ -1,13 +1,6 @@
 var a12890 =
 [
-    [ "boss_roar", "d9/dd9/a12890.html#a93e1d81bcff8b31841ae65628759ee7e", null ],
-    [ "DoAction", "d9/dd9/a12890.html#a9a2778a803d6d41b256759b29452cc51", null ],
-    [ "EnterEvadeMode", "d9/dd9/a12890.html#a198044653632b93838c0f79c06cb7640", null ],
-    [ "JustDied", "d9/dd9/a12890.html#a3c79bea69740601ad89f0765f3af99f2", null ],
-    [ "JustEngagedWith", "d9/dd9/a12890.html#a1db42b2b1a19ac4a959a51ce17c8ae32", null ],
-    [ "JustReachedHome", "d9/dd9/a12890.html#a632929b026815a524bd79748e768e3fc", null ],
-    [ "KilledUnit", "d9/dd9/a12890.html#aaaa0d33697fe1abc0df5bf9ecb249ffc", null ],
-    [ "UpdateAI", "d9/dd9/a12890.html#a255d406f8bab62593a3eeda0e4e3d646", null ],
-    [ "_scheduler", "d9/dd9/a12890.html#a54b45b1fdacc2b3982e21580b9b4d26a", null ],
-    [ "instance", "d9/dd9/a12890.html#a67df04e89c877d565753ac077aa923c7", null ]
+    [ "HandleHit", "d9/dd9/a12890.html#ae6dbaebdc4b0248215416e8d4550d2cb", null ],
+    [ "PrepareSpellScript", "d9/dd9/a12890.html#ae08237f9eb95cc8a4b53a7de50af7b91", null ],
+    [ "Register", "d9/dd9/a12890.html#a84853f416eb8250dc3d863dbe22a157f", null ]
 ];

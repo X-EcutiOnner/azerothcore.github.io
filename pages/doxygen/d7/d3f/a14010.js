@@ -1,7 +1,6 @@
 var a14010 =
 [
-    [ "HandleDispel", "d7/d3f/a14010.html#a415977576283972ce4a1050c70826d7c", null ],
-    [ "PrepareAuraScript", "d7/d3f/a14010.html#a95dfbfe631e8ec9213a32c6f52d3feb1", null ],
-    [ "Register", "d7/d3f/a14010.html#a1bbb71eeb2273c2ecd0eb774b68735dc", null ],
-    [ "Validate", "d7/d3f/a14010.html#ac496e7bef875ca46660217e74fc3bc74", null ]
+    [ "cooldown", "d7/d3f/a14010.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
+    [ "spell", "d7/d3f/a14010.html#a00ee3238030686e1cc66562f7cefb27a", null ],
+    [ "target", "d7/d3f/a14010.html#a16e54dbd059baac1b6e7229621339d83", null ]
 ];

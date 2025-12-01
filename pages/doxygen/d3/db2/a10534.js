@@ -1,5 +1,6 @@
 var a10534 =
 [
-    [ "LogoutComplete", "d3/db2/a10534.html#a94f3ea0cd30d1eb44733c1c5aef05ec7", null ],
-    [ "Write", "d3/db2/a10534.html#a0d958bc07b674ed3339833351fec7d3a", null ]
+    [ "GetEvent", "d3/db2/a10534.html#aabf338a9824038abbd0934a3bef0a269", null ],
+    [ "Read", "d3/db2/a10534.html#a344db9b28e7247dc0285a3468a789721", null ],
+    [ "EventId", "d3/db2/a10534.html#a31de21c2af87d174d139eef870cbb5fd", null ]
 ];

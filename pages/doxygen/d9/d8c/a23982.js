@@ -1,4 +1,5 @@
 var a23982 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "d9/d8c/a23982.html#a86c5e55fe8f7e40d041abbcdb2d23797", null ]
+    [ "npc_lord_sanguinar", "d9/d8c/a23982.html#aa5ec2023d72561fe9cf062a2ba5a5469", null ],
+    [ "ScheduleEvents", "d9/d8c/a23982.html#af9231da98547875527a519c5884cbec0", null ]
 ];

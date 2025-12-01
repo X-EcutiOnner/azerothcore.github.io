@@ -1,6 +1,8 @@
 var a13342 =
 [
-    [ "instance_shadowfang_keep_InstanceMapScript", "d3/d4e/a13346.html", "d3/d4e/a13346" ],
-    [ "instance_shadowfang_keep", "d6/d72/a13342.html#aa6817df7270fbf9397c6b66b28d0f6f8", null ],
-    [ "GetInstanceScript", "d6/d72/a13342.html#a5c076ed86470247de5b4e3733b70fa25", null ]
+    [ "FilterTargets", "d6/d72/a13342.html#a4c7627dc20c4dafcee4d6faf97d3914e", null ],
+    [ "HandleScript", "d6/d72/a13342.html#aecb62c147905d0a4fe60086b8028df0b", null ],
+    [ "PrepareSpellScript", "d6/d72/a13342.html#a84ed93d5235781d9d53a47fff39d3ad2", null ],
+    [ "Register", "d6/d72/a13342.html#a2832f131d99608923ade8070e17da86d", null ],
+    [ "Validate", "d6/d72/a13342.html#a1a510f9cf49df69c5904cb79c8cdc860", null ]
 ];

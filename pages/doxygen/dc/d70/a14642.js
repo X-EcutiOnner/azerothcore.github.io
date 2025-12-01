@@ -1,4 +1,8 @@
 var a14642 =
 [
-    [ "npc_midsummer_bonfire_despawner", "dc/d70/a14642.html#aacb82b08ec0fef0f53d7e251e010abd8", null ]
+    [ "OnApply", "dc/d70/a14642.html#aa38abcc9fa49fc2c397edbfff2c0ea0d", null ],
+    [ "OnRemove", "dc/d70/a14642.html#a64018d24a33565e615c6c2d3eb4810f8", null ],
+    [ "PrepareAuraScript", "dc/d70/a14642.html#acb57b284b9d9116b6b0c0a758e09a8d5", null ],
+    [ "Register", "dc/d70/a14642.html#a9cd1e664cb6ccec5dc897b586203faf1", null ],
+    [ "Validate", "dc/d70/a14642.html#a77ed6196af0fcf75c6d1071e236f6210", null ]
 ];

@@ -1,7 +1,7 @@
 var a24066 =
 [
-    [ "Load", "dc/d30/a24066.html#aba7e1a0b87607386649bb842b5058c3e", null ],
-    [ "OnRemove", "dc/d30/a24066.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
-    [ "PrepareAuraScript", "dc/d30/a24066.html#ac62b18eedbadb0b3581d772909175e96", null ],
-    [ "Register", "dc/d30/a24066.html#a17e8be131f01b2434b18740b20a08d6e", null ]
+    [ "boss_gatewatcher_iron_hand", "dc/d30/a24066.html#aef70e713007af38b510f0a3b8c082b24", null ],
+    [ "JustDied", "dc/d30/a24066.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
+    [ "JustEngagedWith", "dc/d30/a24066.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
+    [ "KilledUnit", "dc/d30/a24066.html#a1973142412b4094dbd9fa51600741148", null ]
 ];

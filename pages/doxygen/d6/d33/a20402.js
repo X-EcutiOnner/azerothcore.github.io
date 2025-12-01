@@ -1,6 +1,6 @@
 var a20402 =
 [
-    [ "npc_ulduar_toasty_fireAI", "d6/d33/a20402.html#a145001c6f1c1d505f810ae545ec62c69", null ],
-    [ "DoAction", "d6/d33/a20402.html#a8ab71582cc5d8386f788fb95203fbab5", null ],
-    [ "SpellHit", "d6/d33/a20402.html#a0e4475382dfd754dc119d2e8dba61b7e", null ]
+    [ "DestroyWinterCache", "d6/d33/a20402.html#a4f4d8998d611354bce4f5531e6029d6b", null ],
+    [ "PrepareSpellScript", "d6/d33/a20402.html#a67e36939554e13ddb7fb7493968fbc3f", null ],
+    [ "Register", "d6/d33/a20402.html#a5ac6314b0a016adafd7c6e87289b5649", null ]
 ];

@@ -1,5 +1,6 @@
 var a16882 =
 [
-    [ "achievement_oh_novos", "d7/d94/a16882.html#a31ca1f458c384401af107cb8f709ef61", null ],
-    [ "OnCheck", "d7/d94/a16882.html#a3b922d9ed709ed46edca794f5ccf858f", null ]
+    [ "boss_tharon_jaAI", "d7/d49/a16886.html", "d7/d49/a16886" ],
+    [ "boss_tharon_ja", "d7/d94/a16882.html#ac34f8f33ea75dc0107222d3720788f7a", null ],
+    [ "GetAI", "d7/d94/a16882.html#ab24612418cb66ed0c1e64fba5ebaa50f", null ]
 ];

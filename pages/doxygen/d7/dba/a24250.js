@@ -1,9 +1,5 @@
 var a24250 =
 [
-    [ "npc_wounded_blood_elfAI", "d7/dba/a24250.html#a2dfcd5fa17b56c44f4056ecf4861af6e", null ],
-    [ "JustEngagedWith", "d7/dba/a24250.html#aba950ba77ff71508263cc54b28c7725b", null ],
-    [ "JustSummoned", "d7/dba/a24250.html#aa97f5294981c44b530efca1411458a97", null ],
-    [ "Reset", "d7/dba/a24250.html#a8e6be35a3079998f3bab829f5d963c71", null ],
-    [ "sQuestAccept", "d7/dba/a24250.html#a56c157928c24daae6edacd5a126ef171", null ],
-    [ "WaypointReached", "d7/dba/a24250.html#a5affcb00e28a582f8926ab2226001cd0", null ]
+    [ "go_warmaul_prison", "d7/dba/a24250.html#adffbb532d7ee3c5a67543fe15ce5b67b", null ],
+    [ "OnGossipHello", "d7/dba/a24250.html#ac9e66eeb30bf951d37f2d0917a295705", null ]
 ];

@@ -1,8 +1,9 @@
 var a22102 =
 [
-    [ "OnRemove", "df/d1d/a22102.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
-    [ "PrepareAuraScript", "df/d1d/a22102.html#a183b5a3b1332695e3c047bb63435389a", null ],
-    [ "Register", "df/d1d/a22102.html#aad41ab76cc0a882f272e8f79867a7015", null ],
-    [ "Validate", "df/d1d/a22102.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
-    [ "spellIds", "df/d1d/a22102.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
+    [ "npc_wounded_skirmisher", "df/d1d/a22102.html#a30fe2d901df0cfd9b66f3dbd6a1e6aea", null ],
+    [ "Initialize", "df/d1d/a22102.html#ae5fab920fcb16b57e0ed53a1177d319b", null ],
+    [ "JustEngagedWith", "df/d1d/a22102.html#a80357b71a1eccdcdce8c8bea87de1b66", null ],
+    [ "Reset", "df/d1d/a22102.html#acca266640c099718d2a0fd4f6a3c47ab", null ],
+    [ "SpellHit", "df/d1d/a22102.html#a891e879af5da1f181c94e528c59a81f1", null ],
+    [ "UpdateAI", "df/d1d/a22102.html#a52f8e7f8df05504cad4b4438c50814a4", null ]
 ];

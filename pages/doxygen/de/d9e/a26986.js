@@ -1,6 +1,10 @@
 var a26986 =
 [
-    [ "CheckCast", "de/d9e/a26986.html#acdb69e605c4e3b5eb3e48f400957db28", null ],
-    [ "PrepareSpellScript", "de/d9e/a26986.html#a1fb9a924ddba358d6d67943c5b2ffa24", null ],
-    [ "Register", "de/d9e/a26986.html#a703b21a93ba41211ac6e6ee182eecb8b", null ]
+    [ "CalculateAPAmount", "de/d9e/a26986.html#ae76d10c68df1f149f83d4247122b47a7", null ],
+    [ "CalculateResistanceAmount", "de/d9e/a26986.html#ab21a4b135dfd70963f75eff7bffbf476", null ],
+    [ "CalculateSPAmount", "de/d9e/a26986.html#a421996ca946d5b04c264718e6dd63fa9", null ],
+    [ "CalculateStatAmount", "de/d9e/a26986.html#ae695515c915f2452dccb71aeb018f3a3", null ],
+    [ "HandleEffectApply", "de/d9e/a26986.html#a207864c73e485e0db0fe47bde97d87a2", null ],
+    [ "PrepareAuraScript", "de/d9e/a26986.html#a4179be48195872410bda69cac3454812", null ],
+    [ "Register", "de/d9e/a26986.html#a94b34a7e4c36bf1336b5611e82e2dd58", null ]
 ];

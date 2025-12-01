@@ -1,7 +1,6 @@
 var a20470 =
 [
-    [ "HandleEffectPeriodic", "d5/de7/a20470.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
-    [ "PrepareAuraScript", "d5/de7/a20470.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
-    [ "Register", "d5/de7/a20470.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
-    [ "Validate", "d5/de7/a20470.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
+    [ "npc_ulduar_iron_constructAI", "df/df3/a20474.html", "df/df3/a20474" ],
+    [ "npc_ulduar_iron_construct", "d5/de7/a20470.html#a56ddf4d4d290dbb15303419c1dab18da", null ],
+    [ "GetAI", "d5/de7/a20470.html#a7d46ba96b6f1968e35721d45c17b1a49", null ]
 ];

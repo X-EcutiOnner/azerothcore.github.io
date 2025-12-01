@@ -1,5 +1,6 @@
 var a09686 =
 [
-    [ "entry", "dc/d7c/a09686.html#a1105fbea33b497bca2a290431cb0f4ca", null ],
-    [ "type", "dc/d7c/a09686.html#acaf1010ce0620ee99a2a6b2721a06b89", null ]
+    [ "bossId", "dc/d7c/a09686.html#ac7ce1fcc568ad1fe6bc8a20957357ed8", null ],
+    [ "entry", "dc/d7c/a09686.html#a1a199d022692efe54e29a7cb90e73dee", null ],
+    [ "type", "dc/d7c/a09686.html#ab5654860b5c27654fa0346e9e92a71fc", null ]
 ];

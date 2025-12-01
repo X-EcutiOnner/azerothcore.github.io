@@ -1,6 +1,5 @@
 var a13062 =
 [
-    [ "CheckRequirement", "d2/deb/a13062.html#a31d69034f463d552afa4063bf89271da", null ],
-    [ "PrepareSpellScript", "d2/deb/a13062.html#adc2176d25d25167b8a1fa9517e2ab945", null ],
-    [ "Register", "d2/deb/a13062.html#a5bb1eff829db1f7ecd3dbf61b821c328", null ]
+    [ "boss_warlord_salaris", "d2/deb/a13062.html#afe9ace28dcd302e9b9a9ebe806e2ada5", null ],
+    [ "JustEngagedWith", "d2/deb/a13062.html#a77b3b531466810ee17f9fd6eadf5872a", null ]
 ];

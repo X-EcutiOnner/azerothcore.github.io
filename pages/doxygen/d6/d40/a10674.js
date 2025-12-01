@@ -1,6 +1,8 @@
 var a10674 =
 [
-    [ "GuildAddRank", "d6/d40/a10674.html#a59c75f3e40e57b5e64f6fa9753a7e0b9", null ],
-    [ "Read", "d6/d40/a10674.html#a23636e4b8bd37ea85a282fb1630a969e", null ],
-    [ "Name", "d6/d40/a10674.html#a25969282befa638dfb08cf12f14bce53", null ]
+    [ "GuildEvent", "d6/d40/a10674.html#a78be16122c01d4c68d67e050ede92006", null ],
+    [ "Write", "d6/d40/a10674.html#a4ae1c0daaec964981ad982b97c1b0408", null ],
+    [ "Guid", "d6/d40/a10674.html#a35bcac3da7db22a22b4e8dba21ae1d0a", null ],
+    [ "Params", "d6/d40/a10674.html#a8f0faa70581ca04c26f87ebcd25cee80", null ],
+    [ "Type", "d6/d40/a10674.html#a961ae90991fa23bfc94a054dba357392", null ]
 ];

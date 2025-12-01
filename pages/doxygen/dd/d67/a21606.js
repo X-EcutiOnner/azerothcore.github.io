@@ -1,6 +1,8 @@
 var a21606 =
 [
-    [ "npc_vh_teleportation_portalAI", "d3/df0/a21610.html", "d3/df0/a21610" ],
-    [ "npc_vh_teleportation_portal", "dd/d67/a21606.html#a9a554058f594f992a17dbb3887117a6f", null ],
-    [ "GetAI", "dd/d67/a21606.html#a0721c64c01ae69bd78dfc15637c97f49", null ]
+    [ "npc_azure_mage_slayerAI", "dd/d67/a21606.html#af1a57574d70a48b16d70d8a056f54018", null ],
+    [ "Reset", "dd/d67/a21606.html#aabe921f0d4fd147c457779791a7af619", null ],
+    [ "UpdateAI", "dd/d67/a21606.html#a7cc5ea88be6c9cf767a0cd433db7dd73", null ],
+    [ "uiArcaneEmpowermentTimer", "dd/d67/a21606.html#ace0fdd5e4b57e7ce603d2355bfc838dd", null ],
+    [ "uiSpellLockTimer", "dd/d67/a21606.html#ac3c4d2be0dd9ba42e40adccda7100947", null ]
 ];

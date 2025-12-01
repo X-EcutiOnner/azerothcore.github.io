@@ -1,12 +1,7 @@
 var a11526 =
 [
-    [ "CreatureTextBuilder", "da/dbd/a11526.html#a582eed3ab284675e72261a1db9808925", null ],
-    [ "operator()", "da/dbd/a11526.html#a851cc84cc7faebfffe3267ecb0d3b3fb", null ],
-    [ "_gender", "da/dbd/a11526.html#a615c3046f749bf44b036958fb1a50128", null ],
-    [ "_language", "da/dbd/a11526.html#ac6e3bea125cd2b44a56f899c4aa35e1b", null ],
-    [ "_msgType", "da/dbd/a11526.html#ac4b4f75821f4ff5855cafca91523cbca", null ],
-    [ "_source", "da/dbd/a11526.html#ab87c45c49aa07b4434e42b6d7948e8b3", null ],
-    [ "_target", "da/dbd/a11526.html#a5a5fd218c7162ba634455e0db6ee35a1", null ],
-    [ "_textGroup", "da/dbd/a11526.html#afcd842c1482980c6232f3f19d21a1481", null ],
-    [ "_textId", "da/dbd/a11526.html#a3f40b8dd1da052a372afbbc5f06700ac", null ]
+    [ "EffectApplyHandler", "da/dbd/a11526.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
+    [ "Call", "da/dbd/a11526.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
+    [ "mode", "da/dbd/a11526.html#ac776375c5a5de321edc572c87e983193", null ],
+    [ "pEffectHandlerScript", "da/dbd/a11526.html#acd715556a7661f688ce0de9afe62250a", null ]
 ];

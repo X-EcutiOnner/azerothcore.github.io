@@ -1,6 +1,9 @@
 var a24086 =
 [
-    [ "FilterTargets", "db/d2e/a24086.html#a0b0a4e033a1410a5b0def33cf87c853c", null ],
-    [ "PrepareSpellScript", "db/d2e/a24086.html#afa186c0b0728e3462f8984189613f9a7", null ],
-    [ "Register", "db/d2e/a24086.html#a14aafc65b554c0ada5684c46ae1f57c8", null ]
+    [ "boss_nethermancer_sepethrea", "db/d2e/a24086.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
+    [ "EnterEvadeMode", "db/d2e/a24086.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
+    [ "JustDied", "db/d2e/a24086.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
+    [ "JustEngagedWith", "db/d2e/a24086.html#a89851b9f6eb94270fe22151d3a968bec", null ],
+    [ "JustSummoned", "db/d2e/a24086.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
+    [ "KilledUnit", "db/d2e/a24086.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
 ];

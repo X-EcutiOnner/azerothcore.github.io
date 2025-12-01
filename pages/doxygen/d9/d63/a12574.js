@@ -1,6 +1,6 @@
 var a12574 =
 [
-    [ "boss_lucifronAI", "db/d10/a12578.html", "db/d10/a12578" ],
-    [ "boss_lucifron", "d9/d63/a12574.html#aa54be5c49a77524b036c167dbb6d81ea", null ],
-    [ "GetAI", "d9/d63/a12574.html#a885366d4190bbc77dc696ee6910435ed", null ]
+    [ "boss_garrAI", "db/d10/a12578.html", "db/d10/a12578" ],
+    [ "boss_garr", "d9/d63/a12574.html#ab489eb068430a6aaa83c93104dd54d65", null ],
+    [ "GetAI", "d9/d63/a12574.html#abc673a3db7fce0101a0b95d5efbdefa3", null ]
 ];

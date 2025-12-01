@@ -1,7 +1,11 @@
 var a25430 =
 [
-    [ "CalculateAmount", "d3/d19/a25430.html#a074a7de6cd4d930c1f23f6398c738bad", null ],
-    [ "Load", "d3/d19/a25430.html#a777803a61286e0eba31246d4771630df", null ],
-    [ "PrepareAuraScript", "d3/d19/a25430.html#ab76bc3927d3ce31ae061fe8577ca25f0", null ],
-    [ "Register", "d3/d19/a25430.html#a335e1629b98bfacf6e4e565b94d4991e", null ]
+    [ "spell_gen_apply_aura_after_expiration", "d3/d19/a25430.html#a391e5089eb034618c5e3edde26685a00", null ],
+    [ "AfterRemove", "d3/d19/a25430.html#afea2221ceeebf90cf352084d8aacf7c9", null ],
+    [ "PrepareAuraScript", "d3/d19/a25430.html#a494123635eda4c43d92a08c9c8cd5627", null ],
+    [ "Register", "d3/d19/a25430.html#a3189ba65a1d9adf252d9f0dfb70abd16", null ],
+    [ "Validate", "d3/d19/a25430.html#ad405128104d8a6528e8db96281ad0f0b", null ],
+    [ "_aura", "d3/d19/a25430.html#a8a79aef777e1397b031149c54ae9d81d", null ],
+    [ "_effect", "d3/d19/a25430.html#aa276a986ba9b67964ddeec56d6455cf9", null ],
+    [ "_spellId", "d3/d19/a25430.html#a330f1311911ba9f3ebd704c7f9a09246", null ]
 ];

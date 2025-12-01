@@ -1,6 +1,6 @@
 var a22030 =
 [
-    [ "SACDeactivateEvent", "db/d81/a22030.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
-    [ "Execute", "db/d81/a22030.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
-    [ "_owner", "db/d81/a22030.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
+    [ "npc_commander_eligor_dawnbringerAI", "df/dc1/a22034.html", "df/dc1/a22034" ],
+    [ "npc_commander_eligor_dawnbringer", "db/d81/a22030.html#a71d919af98464d6d63f948507f3ff08c", null ],
+    [ "GetAI", "db/d81/a22030.html#a759b9b1aeb8cce983fe8b6d2f3d9c33d", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Impl::ChatCommands::CommandInvoker Struct Reference</title>
+<title>AzerothCore: Acore::Impl::ChatCommands::FilteredCommandListIterator Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,45 +106,48 @@ $(document).ready(function(){initNavTree('d0/dd3/a07574.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-types">Private Types</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d0/df8/a07571.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Impl::ChatCommands::CommandInvoker Struct Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::Impl::ChatCommands::FilteredCommandListIterator Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">ChatCommand.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a6541779cccd36a87d65acc1b6a9725e2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/a07574.html#a6541779cccd36a87d65acc1b6a9725e2">CommandInvoker</a> ()</td></tr>
-<tr class="separator:a6541779cccd36a87d65acc1b6a9725e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad941d54b994fbfe0f572348d18a790be"><td class="memTemplParams" colspan="2">template&lt;typename TypedHandler &gt; </td></tr>
-<tr class="memitem:ad941d54b994fbfe0f572348d18a790be"><td class="memTemplItemLeft" align="right" valign="top">&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d0/dd3/a07574.html#ad941d54b994fbfe0f572348d18a790be">CommandInvoker</a> (TypedHandler &amp;handler)</td></tr>
-<tr class="separator:ad941d54b994fbfe0f572348d18a790be"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6b693468375cc6b92870194e10eb4140"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/a07574.html#a6b693468375cc6b92870194e10eb4140">CommandInvoker</a> (bool(&amp;handler)(<a class="el" href="../../da/dc0/a07542.html">ChatHandler</a> *, char const *))</td></tr>
-<tr class="separator:a6b693468375cc6b92870194e10eb4140"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa00bfcf3938781f5e454f7acddb12e7e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/a07574.html#aa00bfcf3938781f5e454f7acddb12e7e">operator bool</a> () const</td></tr>
-<tr class="separator:aa00bfcf3938781f5e454f7acddb12e7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a611756a2205ffb2bccabb53929a4644b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/a07574.html#a611756a2205ffb2bccabb53929a4644b">operator()</a> (<a class="el" href="../../da/dc0/a07542.html">ChatHandler</a> *chatHandler, std::string_view args) const</td></tr>
-<tr class="separator:a611756a2205ffb2bccabb53929a4644b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abd6dc5c1e3c56eb27856eddb46d5e6a6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/a07574.html#abd6dc5c1e3c56eb27856eddb46d5e6a6">FilteredCommandListIterator</a> (<a class="el" href="../../da/d4e/a01106.html#a306b7e46fd4791f088a8919720238f3d">ChatSubCommandMap</a> const &amp;map, <a class="el" href="../../d4/de0/a07562.html">ChatHandler</a> const &amp;handler, std::string_view token)</td></tr>
+<tr class="separator:abd6dc5c1e3c56eb27856eddb46d5e6a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7b1008103a94f6dc068d3e839c924ea6"><td class="memItemLeft" align="right" valign="top">decltype(auto)&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/a07574.html#a7b1008103a94f6dc068d3e839c924ea6">operator*</a> () const</td></tr>
+<tr class="separator:a7b1008103a94f6dc068d3e839c924ea6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad83cb2c649a847d0cd04b5fd8ee8494c"><td class="memItemLeft" align="right" valign="top">decltype(auto)&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/a07574.html#ad83cb2c649a847d0cd04b5fd8ee8494c">operator-&gt;</a> () const</td></tr>
+<tr class="separator:ad83cb2c649a847d0cd04b5fd8ee8494c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6d4a54adde98e638428a8d314a6e4356"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dd3/a07574.html">FilteredCommandListIterator</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/a07574.html#a6d4a54adde98e638428a8d314a6e4356">operator++</a> ()</td></tr>
+<tr class="separator:a6d4a54adde98e638428a8d314a6e4356"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaeb128830c7705a455343d173dc3ae5a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/a07574.html#aaeb128830c7705a455343d173dc3ae5a">operator bool</a> () const</td></tr>
+<tr class="separator:aaeb128830c7705a455343d173dc3ae5a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a864e81c56946ca97bf24b392ff8f0b8f"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/a07574.html#a864e81c56946ca97bf24b392ff8f0b8f">operator!</a> () const</td></tr>
+<tr class="separator:a864e81c56946ca97bf24b392ff8f0b8f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-types" name="pri-types"></a>
-Private Types</h2></td></tr>
-<tr class="memitem:a4ebb895343c2cfae053a605aafe0e461"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/a07574.html#a4ebb895343c2cfae053a605aafe0e461">wrapper_func</a> = bool(void *, <a class="el" href="../../da/dc0/a07542.html">ChatHandler</a> *, std::string_view)</td></tr>
-<tr class="separator:a4ebb895343c2cfae053a605aafe0e461"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:ac2f0e09b76eb9d40d1b78279a81a5e65"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/a07574.html#ac2f0e09b76eb9d40d1b78279a81a5e65">_skip</a> ()</td></tr>
+<tr class="separator:ac2f0e09b76eb9d40d1b78279a81a5e65"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a1605d492889200f2d18d6759882913aa"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dd3/a07574.html#a4ebb895343c2cfae053a605aafe0e461">wrapper_func</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/a07574.html#a1605d492889200f2d18d6759882913aa">_wrapper</a></td></tr>
-<tr class="separator:a1605d492889200f2d18d6759882913aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af9bece7be346ed85c5b45cc07c7b176a"><td class="memItemLeft" align="right" valign="top">void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/a07574.html#af9bece7be346ed85c5b45cc07c7b176a">_handler</a></td></tr>
-<tr class="separator:af9bece7be346ed85c5b45cc07c7b176a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0c64270cd18f8988997882ceb3e10184"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/de0/a07562.html">ChatHandler</a> const  &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/a07574.html#a0c64270cd18f8988997882ceb3e10184">_handler</a></td></tr>
+<tr class="separator:a0c64270cd18f8988997882ceb3e10184"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acb834f907b55195f2a27d69f89d84961"><td class="memItemLeft" align="right" valign="top">std::string_view const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/a07574.html#acb834f907b55195f2a27d69f89d84961">_token</a></td></tr>
+<tr class="separator:acb834f907b55195f2a27d69f89d84961"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abbf6ac9d50ba494221addff9aba11b80"><td class="memItemLeft" align="right" valign="top">ChatSubCommandMap::const_iterator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/a07574.html#abbf6ac9d50ba494221addff9aba11b80">_it</a></td></tr>
+<tr class="separator:abbf6ac9d50ba494221addff9aba11b80"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a294c3b743ac4b1a1b878d02a6580d3ca"><td class="memItemLeft" align="right" valign="top">ChatSubCommandMap::const_iterator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/dd3/a07574.html#a294c3b743ac4b1a1b878d02a6580d3ca">_end</a></td></tr>
+<tr class="separator:a294c3b743ac4b1a1b878d02a6580d3ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Typedef Documentation</h2>
-<a id="a4ebb895343c2cfae053a605aafe0e461" name="a4ebb895343c2cfae053a605aafe0e461"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4ebb895343c2cfae053a605aafe0e461">&#9670;&#160;</a></span>wrapper_func</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="abd6dc5c1e3c56eb27856eddb46d5e6a6" name="abd6dc5c1e3c56eb27856eddb46d5e6a6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abd6dc5c1e3c56eb27856eddb46d5e6a6">&#9670;&#160;</a></span>FilteredCommandListIterator()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -153,21 +156,52 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">using <a class="el" href="../../d0/dd3/a07574.html#a4ebb895343c2cfae053a605aafe0e461">Acore::Impl::ChatCommands::CommandInvoker::wrapper_func</a> =  bool(void*, <a class="el" href="../../da/dc0/a07542.html">ChatHandler</a>*, std::string_view)</td>
+          <td class="memname">Acore::Impl::ChatCommands::FilteredCommandListIterator::FilteredCommandListIterator </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../da/d4e/a01106.html#a306b7e46fd4791f088a8919720238f3d">ChatSubCommandMap</a> const &amp;&#160;</td>
+          <td class="paramname"><em>map</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/de0/a07562.html">ChatHandler</a> const &amp;&#160;</td>
+          <td class="paramname"><em>handler</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>token</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  238</span>                : <a class="code hl_variable" href="../../d0/dd3/a07574.html#a0c64270cd18f8988997882ceb3e10184">_handler</a>{ handler }, <a class="code hl_variable" href="../../d0/dd3/a07574.html#acb834f907b55195f2a27d69f89d84961">_token</a>{ token }, <a class="code hl_variable" href="../../d0/dd3/a07574.html#abbf6ac9d50ba494221addff9aba11b80">_it</a>{ map.lower_bound(token) }, <a class="code hl_variable" href="../../d0/dd3/a07574.html#a294c3b743ac4b1a1b878d02a6580d3ca">_end</a>{ map.end() }</div>
+<div class="line"><span class="lineno">  239</span>            {</div>
+<div class="line"><span class="lineno">  240</span>                <a class="code hl_function" href="../../d0/dd3/a07574.html#ac2f0e09b76eb9d40d1b78279a81a5e65">_skip</a>();</div>
+<div class="line"><span class="lineno">  241</span>            }</div>
+<div class="ttc" id="aa07574_html_a0c64270cd18f8988997882ceb3e10184"><div class="ttname"><a href="../../d0/dd3/a07574.html#a0c64270cd18f8988997882ceb3e10184">Acore::Impl::ChatCommands::FilteredCommandListIterator::_handler</a></div><div class="ttdeci">ChatHandler const  &amp; _handler</div><div class="ttdef"><b>Definition:</b> ChatCommand.cpp:267</div></div>
+<div class="ttc" id="aa07574_html_a294c3b743ac4b1a1b878d02a6580d3ca"><div class="ttname"><a href="../../d0/dd3/a07574.html#a294c3b743ac4b1a1b878d02a6580d3ca">Acore::Impl::ChatCommands::FilteredCommandListIterator::_end</a></div><div class="ttdeci">ChatSubCommandMap::const_iterator _end</div><div class="ttdef"><b>Definition:</b> ChatCommand.cpp:269</div></div>
+<div class="ttc" id="aa07574_html_abbf6ac9d50ba494221addff9aba11b80"><div class="ttname"><a href="../../d0/dd3/a07574.html#abbf6ac9d50ba494221addff9aba11b80">Acore::Impl::ChatCommands::FilteredCommandListIterator::_it</a></div><div class="ttdeci">ChatSubCommandMap::const_iterator _it</div><div class="ttdef"><b>Definition:</b> ChatCommand.cpp:269</div></div>
+<div class="ttc" id="aa07574_html_ac2f0e09b76eb9d40d1b78279a81a5e65"><div class="ttname"><a href="../../d0/dd3/a07574.html#ac2f0e09b76eb9d40d1b78279a81a5e65">Acore::Impl::ChatCommands::FilteredCommandListIterator::_skip</a></div><div class="ttdeci">void _skip()</div><div class="ttdef"><b>Definition:</b> ChatCommand.cpp:255</div></div>
+<div class="ttc" id="aa07574_html_acb834f907b55195f2a27d69f89d84961"><div class="ttname"><a href="../../d0/dd3/a07574.html#acb834f907b55195f2a27d69f89d84961">Acore::Impl::ChatCommands::FilteredCommandListIterator::_token</a></div><div class="ttdeci">std::string_view const _token</div><div class="ttdef"><b>Definition:</b> ChatCommand.cpp:268</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00255">_skip()</a>.</p>
 
 </div>
 </div>
-<h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a6541779cccd36a87d65acc1b6a9725e2" name="a6541779cccd36a87d65acc1b6a9725e2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6541779cccd36a87d65acc1b6a9725e2">&#9670;&#160;</a></span>CommandInvoker() <span class="overload">[1/3]</span></h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="ac2f0e09b76eb9d40d1b78279a81a5e65" name="ac2f0e09b76eb9d40d1b78279a81a5e65"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac2f0e09b76eb9d40d1b78279a81a5e65">&#9670;&#160;</a></span>_skip()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -176,7 +210,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Acore::Impl::ChatCommands::CommandInvoker::CommandInvoker </td>
+          <td class="memname">void Acore::Impl::ChatCommands::FilteredCommandListIterator::_skip </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -184,72 +218,30 @@ Private Attributes</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">private</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  119</span>: <a class="code hl_variable" href="../../d0/dd3/a07574.html#a1605d492889200f2d18d6759882913aa">_wrapper</a>(<span class="keyword">nullptr</span>), <a class="code hl_variable" href="../../d0/dd3/a07574.html#af9bece7be346ed85c5b45cc07c7b176a">_handler</a>(<span class="keyword">nullptr</span>) {}</div>
-<div class="ttc" id="aa07574_html_a1605d492889200f2d18d6759882913aa"><div class="ttname"><a href="../../d0/dd3/a07574.html#a1605d492889200f2d18d6759882913aa">Acore::Impl::ChatCommands::CommandInvoker::_wrapper</a></div><div class="ttdeci">wrapper_func * _wrapper</div><div class="ttdef"><b>Definition:</b> ChatCommand.h:162</div></div>
-<div class="ttc" id="aa07574_html_af9bece7be346ed85c5b45cc07c7b176a"><div class="ttname"><a href="../../d0/dd3/a07574.html#af9bece7be346ed85c5b45cc07c7b176a">Acore::Impl::ChatCommands::CommandInvoker::_handler</a></div><div class="ttdeci">void * _handler</div><div class="ttdef"><b>Definition:</b> ChatCommand.h:163</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  256</span>            {</div>
+<div class="line"><span class="lineno">  257</span>                <span class="keywordflow">if</span> ((<a class="code hl_variable" href="../../d0/dd3/a07574.html#abbf6ac9d50ba494221addff9aba11b80">_it</a> != <a class="code hl_variable" href="../../d0/dd3/a07574.html#a294c3b743ac4b1a1b878d02a6580d3ca">_end</a>) &amp;&amp; !<a class="code hl_function" href="../../d9/d82/a04718.html#abf9a3b94088837eacc4d3d0e1c8a77a2">StringStartsWithI</a>(<a class="code hl_variable" href="../../d0/dd3/a07574.html#abbf6ac9d50ba494221addff9aba11b80">_it</a>-&gt;first, <a class="code hl_variable" href="../../d0/dd3/a07574.html#acb834f907b55195f2a27d69f89d84961">_token</a>))</div>
+<div class="line"><span class="lineno">  258</span>                    <a class="code hl_variable" href="../../d0/dd3/a07574.html#abbf6ac9d50ba494221addff9aba11b80">_it</a> = <a class="code hl_variable" href="../../d0/dd3/a07574.html#a294c3b743ac4b1a1b878d02a6580d3ca">_end</a>;</div>
+<div class="line"><span class="lineno">  259</span>                <span class="keywordflow">while</span> ((<a class="code hl_variable" href="../../d0/dd3/a07574.html#abbf6ac9d50ba494221addff9aba11b80">_it</a> != <a class="code hl_variable" href="../../d0/dd3/a07574.html#a294c3b743ac4b1a1b878d02a6580d3ca">_end</a>) &amp;&amp; !<a class="code hl_variable" href="../../d0/dd3/a07574.html#abbf6ac9d50ba494221addff9aba11b80">_it</a>-&gt;second.IsVisible(<a class="code hl_variable" href="../../d0/dd3/a07574.html#a0c64270cd18f8988997882ceb3e10184">_handler</a>))</div>
+<div class="line"><span class="lineno">  260</span>                {</div>
+<div class="line"><span class="lineno">  261</span>                    ++<a class="code hl_variable" href="../../d0/dd3/a07574.html#abbf6ac9d50ba494221addff9aba11b80">_it</a>;</div>
+<div class="line"><span class="lineno">  262</span>                    <span class="keywordflow">if</span> ((<a class="code hl_variable" href="../../d0/dd3/a07574.html#abbf6ac9d50ba494221addff9aba11b80">_it</a> != <a class="code hl_variable" href="../../d0/dd3/a07574.html#a294c3b743ac4b1a1b878d02a6580d3ca">_end</a>) &amp;&amp; !<a class="code hl_function" href="../../d9/d82/a04718.html#abf9a3b94088837eacc4d3d0e1c8a77a2">StringStartsWithI</a>(<a class="code hl_variable" href="../../d0/dd3/a07574.html#abbf6ac9d50ba494221addff9aba11b80">_it</a>-&gt;first, <a class="code hl_variable" href="../../d0/dd3/a07574.html#acb834f907b55195f2a27d69f89d84961">_token</a>))</div>
+<div class="line"><span class="lineno">  263</span>                        <a class="code hl_variable" href="../../d0/dd3/a07574.html#abbf6ac9d50ba494221addff9aba11b80">_it</a> = <a class="code hl_variable" href="../../d0/dd3/a07574.html#a294c3b743ac4b1a1b878d02a6580d3ca">_end</a>;</div>
+<div class="line"><span class="lineno">  264</span>                }</div>
+<div class="line"><span class="lineno">  265</span>            }</div>
+<div class="ttc" id="aa04718_html_abf9a3b94088837eacc4d3d0e1c8a77a2"><div class="ttname"><a href="../../d9/d82/a04718.html#abf9a3b94088837eacc4d3d0e1c8a77a2">StringStartsWithI</a></div><div class="ttdeci">bool StringStartsWithI(std::string_view haystack, std::string_view needle)</div><div class="ttdef"><b>Definition:</b> Util.h:393</div></div>
 </div><!-- fragment -->
-</div>
-</div>
-<a id="ad941d54b994fbfe0f572348d18a790be" name="ad941d54b994fbfe0f572348d18a790be"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad941d54b994fbfe0f572348d18a790be">&#9670;&#160;</a></span>CommandInvoker() <span class="overload">[2/3]</span></h2>
+<p class="reference">References <a class="el" href="../../#l00269">_end</a>, <a class="el" href="../../#l00267">_handler</a>, <a class="el" href="../../#l00269">_it</a>, <a class="el" href="../../#l00268">_token</a>, and <a class="el" href="../../#l00393">StringStartsWithI()</a>.</p>
 
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;typename TypedHandler &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">Acore::Impl::ChatCommands::CommandInvoker::CommandInvoker </td>
-          <td>(</td>
-          <td class="paramtype">TypedHandler &amp;&#160;</td>
-          <td class="paramname"><em>handler</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  122</span>        {</div>
-<div class="line"><span class="lineno">  123</span>            <a class="code hl_variable" href="../../d0/dd3/a07574.html#a1605d492889200f2d18d6759882913aa">_wrapper</a> = [](<span class="keywordtype">void</span>* handler, <a class="code hl_class" href="../../da/dc0/a07542.html">ChatHandler</a>* chatHandler, std::string_view argsStr)</div>
-<div class="line"><span class="lineno">  124</span>            {</div>
-<div class="line"><span class="lineno">  125</span>                <span class="keyword">using </span>Tuple = TupleType&lt;TypedHandler&gt;;</div>
-<div class="line"><span class="lineno">  126</span> </div>
-<div class="line"><span class="lineno">  127</span>                Tuple arguments;</div>
-<div class="line"><span class="lineno">  128</span>                std::get&lt;0&gt;(arguments) = chatHandler;</div>
-<div class="line"><span class="lineno">  129</span>                <a class="code hl_struct" href="../../d1/d20/a07698.html">ChatCommandResult</a> result = ConsumeFromOffset&lt;Tuple, 1&gt;(arguments, chatHandler, argsStr);</div>
-<div class="line"><span class="lineno">  130</span>                <span class="keywordflow">if</span> (result)</div>
-<div class="line"><span class="lineno">  131</span>                    <span class="keywordflow">return</span> std::apply(<span class="keyword">reinterpret_cast&lt;</span>TypedHandler*<span class="keyword">&gt;</span>(handler), std::move(arguments));</div>
-<div class="line"><span class="lineno">  132</span>                <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno">  133</span>                {</div>
-<div class="line"><span class="lineno">  134</span>                    <span class="keywordflow">if</span> (result.<a class="code hl_function" href="../../d1/d20/a07698.html#a74f331d2e68ddf7cefc14b4c47369311">HasErrorMessage</a>())</div>
-<div class="line"><span class="lineno">  135</span>                        <a class="code hl_function" href="../../da/d82/a04837.html#aae4c9556d5cc172144fa280ca820226d">SendErrorMessageToHandler</a>(chatHandler, result.<a class="code hl_function" href="../../d1/d20/a07698.html#abb0aa9f55f86ab7d54b7b3a894dcd237">GetErrorMessage</a>());</div>
-<div class="line"><span class="lineno">  136</span>                    <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  137</span>                }</div>
-<div class="line"><span class="lineno">  138</span>            };</div>
-<div class="line"><span class="lineno">  139</span>            <a class="code hl_variable" href="../../d0/dd3/a07574.html#af9bece7be346ed85c5b45cc07c7b176a">_handler</a> = <span class="keyword">reinterpret_cast&lt;</span><span class="keywordtype">void</span>*<span class="keyword">&gt;</span>(handler);</div>
-<div class="line"><span class="lineno">  140</span>        }</div>
-<div class="ttc" id="aa04837_html_aae4c9556d5cc172144fa280ca820226d"><div class="ttname"><a href="../../da/d82/a04837.html#aae4c9556d5cc172144fa280ca820226d">Acore::Impl::ChatCommands::SendErrorMessageToHandler</a></div><div class="ttdeci">AC_GAME_API void SendErrorMessageToHandler(ChatHandler *handler, std::string_view str)</div><div class="ttdef"><b>Definition:</b> ChatCommandHelpers.cpp:21</div></div>
-<div class="ttc" id="aa07542_html"><div class="ttname"><a href="../../da/dc0/a07542.html">ChatHandler</a></div><div class="ttdef"><b>Definition:</b> Chat.h:37</div></div>
-<div class="ttc" id="aa07698_html"><div class="ttname"><a href="../../d1/d20/a07698.html">Acore::Impl::ChatCommands::ChatCommandResult</a></div><div class="ttdef"><b>Definition:</b> ChatCommandHelpers.h:100</div></div>
-<div class="ttc" id="aa07698_html_a74f331d2e68ddf7cefc14b4c47369311"><div class="ttname"><a href="../../d1/d20/a07698.html#a74f331d2e68ddf7cefc14b4c47369311">Acore::Impl::ChatCommands::ChatCommandResult::HasErrorMessage</a></div><div class="ttdeci">bool HasErrorMessage() const</div><div class="ttdef"><b>Definition:</b> ChatCommandHelpers.h:115</div></div>
-<div class="ttc" id="aa07698_html_abb0aa9f55f86ab7d54b7b3a894dcd237"><div class="ttname"><a href="../../d1/d20/a07698.html#abb0aa9f55f86ab7d54b7b3a894dcd237">Acore::Impl::ChatCommands::ChatCommandResult::GetErrorMessage</a></div><div class="ttdeci">std::string const &amp; GetErrorMessage() const</div><div class="ttdef"><b>Definition:</b> ChatCommandHelpers.h:116</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00163">_handler</a>, <a class="el" href="../../#l00162">_wrapper</a>, <a class="el" href="../../#l00116">Acore::Impl::ChatCommands::ChatCommandResult::GetErrorMessage()</a>, <a class="el" href="../../#l00115">Acore::Impl::ChatCommands::ChatCommandResult::HasErrorMessage()</a>, and <a class="el" href="../../#l00021">Acore::Impl::ChatCommands::SendErrorMessageToHandler()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00237">FilteredCommandListIterator()</a>, and <a class="el" href="../../#l00245">operator++()</a>.</p>
 
 </div>
 </div>
-<a id="a6b693468375cc6b92870194e10eb4140" name="a6b693468375cc6b92870194e10eb4140"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6b693468375cc6b92870194e10eb4140">&#9670;&#160;</a></span>CommandInvoker() <span class="overload">[3/3]</span></h2>
+<a id="aaeb128830c7705a455343d173dc3ae5a" name="aaeb128830c7705a455343d173dc3ae5a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaeb128830c7705a455343d173dc3ae5a">&#9670;&#160;</a></span>operator bool()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -258,46 +250,7 @@ template&lt;typename TypedHandler &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Acore::Impl::ChatCommands::CommandInvoker::CommandInvoker </td>
-          <td>(</td>
-          <td class="paramtype">bool(&amp;)(<a class="el" href="../../da/dc0/a07542.html">ChatHandler</a> *, char const *)&#160;</td>
-          <td class="paramname"><em>handler</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  142</span>        {</div>
-<div class="line"><span class="lineno">  143</span>            <a class="code hl_variable" href="../../d0/dd3/a07574.html#a1605d492889200f2d18d6759882913aa">_wrapper</a> = [](<span class="keywordtype">void</span>* handler, <a class="code hl_class" href="../../da/dc0/a07542.html">ChatHandler</a>* chatHandler, std::string_view argsStr)</div>
-<div class="line"><span class="lineno">  144</span>            {</div>
-<div class="line"><span class="lineno">  145</span>                <span class="comment">// make a copy of the argument string</span></div>
-<div class="line"><span class="lineno">  146</span>                <span class="comment">// legacy handlers can destroy input strings with strtok</span></div>
-<div class="line"><span class="lineno">  147</span>                std::string argsStrCopy(argsStr);</div>
-<div class="line"><span class="lineno">  148</span>                <span class="keywordflow">return</span> <span class="keyword">reinterpret_cast&lt;</span><span class="keywordtype">bool</span>(*)(<a class="code hl_class" href="../../da/dc0/a07542.html">ChatHandler</a>*, <span class="keywordtype">char</span> const*)<span class="keyword">&gt;</span>(handler)(chatHandler, argsStrCopy.c_str());</div>
-<div class="line"><span class="lineno">  149</span>            };</div>
-<div class="line"><span class="lineno">  150</span>            <a class="code hl_variable" href="../../d0/dd3/a07574.html#af9bece7be346ed85c5b45cc07c7b176a">_handler</a> = <span class="keyword">reinterpret_cast&lt;</span><span class="keywordtype">void</span>*<span class="keyword">&gt;</span>(handler);</div>
-<div class="line"><span class="lineno">  151</span>        }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00163">_handler</a>, and <a class="el" href="../../#l00162">_wrapper</a>.</p>
-
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="aa00bfcf3938781f5e454f7acddb12e7e" name="aa00bfcf3938781f5e454f7acddb12e7e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa00bfcf3938781f5e454f7acddb12e7e">&#9670;&#160;</a></span>operator bool()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">Acore::Impl::ChatCommands::CommandInvoker::operator bool </td>
+          <td class="memname">Acore::Impl::ChatCommands::FilteredCommandListIterator::operator bool </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td> const</td>
@@ -309,14 +262,14 @@ template&lt;typename TypedHandler &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  153</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d0/dd3/a07574.html#a1605d492889200f2d18d6759882913aa">_wrapper</a> != <span class="keyword">nullptr</span>); }</div>
+<div class="fragment"><div class="line"><span class="lineno">  251</span>{ <span class="keywordflow">return</span> (<a class="code hl_variable" href="../../d0/dd3/a07574.html#abbf6ac9d50ba494221addff9aba11b80">_it</a> != <a class="code hl_variable" href="../../d0/dd3/a07574.html#a294c3b743ac4b1a1b878d02a6580d3ca">_end</a>); }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00162">_wrapper</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00269">_end</a>, and <a class="el" href="../../#l00269">_it</a>.</p>
 
 </div>
 </div>
-<a id="a611756a2205ffb2bccabb53929a4644b" name="a611756a2205ffb2bccabb53929a4644b"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a611756a2205ffb2bccabb53929a4644b">&#9670;&#160;</a></span>operator()()</h2>
+<a id="a864e81c56946ca97bf24b392ff8f0b8f" name="a864e81c56946ca97bf24b392ff8f0b8f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a864e81c56946ca97bf24b392ff8f0b8f">&#9670;&#160;</a></span>operator!()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -325,21 +278,10 @@ template&lt;typename TypedHandler &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">bool Acore::Impl::ChatCommands::CommandInvoker::operator() </td>
+          <td class="memname">bool Acore::Impl::ChatCommands::FilteredCommandListIterator::operator! </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../da/dc0/a07542.html">ChatHandler</a> *&#160;</td>
-          <td class="paramname"><em>chatHandler</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">std::string_view&#160;</td>
-          <td class="paramname"><em>args</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td> const</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
         </tr>
       </table>
   </td>
@@ -348,19 +290,101 @@ template&lt;typename TypedHandler &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  155</span>        {</div>
-<div class="line"><span class="lineno">  156</span>            <a class="code hl_define" href="../../dc/d9a/a00218.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(<a class="code hl_variable" href="../../d0/dd3/a07574.html#a1605d492889200f2d18d6759882913aa">_wrapper</a> &amp;&amp; <a class="code hl_variable" href="../../d0/dd3/a07574.html#af9bece7be346ed85c5b45cc07c7b176a">_handler</a>);</div>
-<div class="line"><span class="lineno">  157</span>            <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/dd3/a07574.html#a1605d492889200f2d18d6759882913aa">_wrapper</a>(<a class="code hl_variable" href="../../d0/dd3/a07574.html#af9bece7be346ed85c5b45cc07c7b176a">_handler</a>, chatHandler, args);</div>
-<div class="line"><span class="lineno">  158</span>        }</div>
-<div class="ttc" id="aa00218_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../dc/d9a/a00218.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  252</span>{ <span class="keywordflow">return</span> !<span class="keyword">static_cast&lt;</span><span class="keywordtype">bool</span><span class="keyword">&gt;</span>(*this); }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00163">_handler</a>, <a class="el" href="../../#l00162">_wrapper</a>, and <a class="el" href="../../#l00068">ASSERT</a>.</p>
+</div>
+</div>
+<a id="a7b1008103a94f6dc068d3e839c924ea6" name="a7b1008103a94f6dc068d3e839c924ea6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7b1008103a94f6dc068d3e839c924ea6">&#9670;&#160;</a></span>operator*()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">decltype(auto) Acore::Impl::ChatCommands::FilteredCommandListIterator::operator* </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  243</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/dd3/a07574.html#abbf6ac9d50ba494221addff9aba11b80">_it</a>.operator*(); }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00269">_it</a>.</p>
+
+</div>
+</div>
+<a id="a6d4a54adde98e638428a8d314a6e4356" name="a6d4a54adde98e638428a8d314a6e4356"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6d4a54adde98e638428a8d314a6e4356">&#9670;&#160;</a></span>operator++()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d0/dd3/a07574.html">FilteredCommandListIterator</a> &amp; Acore::Impl::ChatCommands::FilteredCommandListIterator::operator++ </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  246</span>            {</div>
+<div class="line"><span class="lineno">  247</span>                ++<a class="code hl_variable" href="../../d0/dd3/a07574.html#abbf6ac9d50ba494221addff9aba11b80">_it</a>;</div>
+<div class="line"><span class="lineno">  248</span>                <a class="code hl_function" href="../../d0/dd3/a07574.html#ac2f0e09b76eb9d40d1b78279a81a5e65">_skip</a>();</div>
+<div class="line"><span class="lineno">  249</span>                <span class="keywordflow">return</span> *<span class="keyword">this</span>;</div>
+<div class="line"><span class="lineno">  250</span>            }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00269">_it</a>, and <a class="el" href="../../#l00255">_skip()</a>.</p>
+
+</div>
+</div>
+<a id="ad83cb2c649a847d0cd04b5fd8ee8494c" name="ad83cb2c649a847d0cd04b5fd8ee8494c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad83cb2c649a847d0cd04b5fd8ee8494c">&#9670;&#160;</a></span>operator-&gt;()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">decltype(auto) Acore::Impl::ChatCommands::FilteredCommandListIterator::operator-&gt; </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">  244</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/dd3/a07574.html#abbf6ac9d50ba494221addff9aba11b80">_it</a>.operator-&gt;(); }</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00269">_it</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="af9bece7be346ed85c5b45cc07c7b176a" name="af9bece7be346ed85c5b45cc07c7b176a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af9bece7be346ed85c5b45cc07c7b176a">&#9670;&#160;</a></span>_handler</h2>
+<a id="a294c3b743ac4b1a1b878d02a6580d3ca" name="a294c3b743ac4b1a1b878d02a6580d3ca"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a294c3b743ac4b1a1b878d02a6580d3ca">&#9670;&#160;</a></span>_end</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -369,7 +393,7 @@ template&lt;typename TypedHandler &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void* Acore::Impl::ChatCommands::CommandInvoker::_handler</td>
+          <td class="memname">ChatSubCommandMap::const_iterator Acore::Impl::ChatCommands::FilteredCommandListIterator::_end</td>
         </tr>
       </table>
   </td>
@@ -379,12 +403,12 @@ template&lt;typename TypedHandler &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00121">CommandInvoker()</a>, and <a class="el" href="../../#l00154">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00255">_skip()</a>, and <a class="el" href="../../#l00251">operator bool()</a>.</p>
 
 </div>
 </div>
-<a id="a1605d492889200f2d18d6759882913aa" name="a1605d492889200f2d18d6759882913aa"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1605d492889200f2d18d6759882913aa">&#9670;&#160;</a></span>_wrapper</h2>
+<a id="a0c64270cd18f8988997882ceb3e10184" name="a0c64270cd18f8988997882ceb3e10184"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0c64270cd18f8988997882ceb3e10184">&#9670;&#160;</a></span>_handler</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -393,7 +417,7 @@ template&lt;typename TypedHandler &gt; </div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/dd3/a07574.html#a4ebb895343c2cfae053a605aafe0e461">wrapper_func</a>* Acore::Impl::ChatCommands::CommandInvoker::_wrapper</td>
+          <td class="memname"><a class="el" href="../../d4/de0/a07562.html">ChatHandler</a> const&amp; Acore::Impl::ChatCommands::FilteredCommandListIterator::_handler</td>
         </tr>
       </table>
   </td>
@@ -403,7 +427,55 @@ template&lt;typename TypedHandler &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00121">CommandInvoker()</a>, <a class="el" href="../../#l00153">operator bool()</a>, and <a class="el" href="../../#l00154">operator()()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00255">_skip()</a>.</p>
+
+</div>
+</div>
+<a id="abbf6ac9d50ba494221addff9aba11b80" name="abbf6ac9d50ba494221addff9aba11b80"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abbf6ac9d50ba494221addff9aba11b80">&#9670;&#160;</a></span>_it</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">ChatSubCommandMap::const_iterator Acore::Impl::ChatCommands::FilteredCommandListIterator::_it</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00255">_skip()</a>, <a class="el" href="../../#l00251">operator bool()</a>, <a class="el" href="../../#l00243">operator*()</a>, <a class="el" href="../../#l00245">operator++()</a>, and <a class="el" href="../../#l00244">operator-&gt;()</a>.</p>
+
+</div>
+</div>
+<a id="acb834f907b55195f2a27d69f89d84961" name="acb834f907b55195f2a27d69f89d84961"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acb834f907b55195f2a27d69f89d84961">&#9670;&#160;</a></span>_token</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string_view const Acore::Impl::ChatCommands::FilteredCommandListIterator::_token</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00255">_skip()</a>.</p>
 
 </div>
 </div>
@@ -412,8 +484,8 @@ template&lt;typename TypedHandler &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d7d/a04797.html">Acore</a></li><li class="navelem"><a class="el" href="../../d0/d6d/a04809.html">Impl</a></li><li class="navelem"><a class="el" href="../../da/d82/a04837.html">ChatCommands</a></li><li class="navelem"><a class="el" href="../../d0/dd3/a07574.html">CommandInvoker</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:46:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d0/d6d/a04809.html">Acore</a></li><li class="navelem"><a class="el" href="../../d6/dc4/a04821.html">Impl</a></li><li class="navelem"><a class="el" href="../../d5/dab/a04850.html">ChatCommands</a></li><li class="navelem"><a class="el" href="../../d0/dd3/a07574.html">FilteredCommandListIterator</a></li>
+    <li class="footer">Generated on Mon Dec 1 2025 20:48:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

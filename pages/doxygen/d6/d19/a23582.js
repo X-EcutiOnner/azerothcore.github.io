@@ -1,8 +1,8 @@
 var a23582 =
 [
-    [ "boss_mekgineer_steamrigger", "d6/d19/a23582.html#a930dcbade7135d0c689bcc0718815547", null ],
-    [ "JustDied", "d6/d19/a23582.html#a79272c233bc0256cca62700fc7a01421", null ],
-    [ "JustEngagedWith", "d6/d19/a23582.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
-    [ "JustSummoned", "d6/d19/a23582.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
-    [ "KilledUnit", "d6/d19/a23582.html#a84374438458cb7e034f91d4b65cd22f1", null ]
+    [ "boss_the_black_stalker", "d6/d19/a23582.html#ac33519b374509cefe43b8e97701719ee", null ],
+    [ "JustEngagedWith", "d6/d19/a23582.html#ad118347103ec463a09492e81dbd61418", null ],
+    [ "JustSummoned", "d6/d19/a23582.html#a9e0299a99df83abb7de476a765b667b9", null ],
+    [ "SummonedCreatureDies", "d6/d19/a23582.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
+    [ "UpdateAI", "d6/d19/a23582.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
 ];

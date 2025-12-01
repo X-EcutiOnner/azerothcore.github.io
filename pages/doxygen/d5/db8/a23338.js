@@ -1,19 +1,14 @@
 var a23338 =
 [
-    [ "boss_fathomguard_tidalvess", "d5/db8/a23338.html#aa4c3ac27c72e659bd87ad83bbadfb04c", null ],
-    [ "DoAction", "d5/db8/a23338.html#a909601091c25285e0a6c9773b61ff049", null ],
-    [ "EnterEvadeMode", "d5/db8/a23338.html#a8fe1a7a13b0d3d806edcfe8e9bf4ff33", null ],
-    [ "JustDied", "d5/db8/a23338.html#a7f79a16e0c186e97aeb7f16f3b7d45ea", null ],
-    [ "JustEngagedWith", "d5/db8/a23338.html#aa524d5c047b50df8d83b5faa3fd791fc", null ],
-    [ "JustSummoned", "d5/db8/a23338.html#a1dc16180610c742e98a93f87653e93e9", null ],
-    [ "Reset", "d5/db8/a23338.html#af218abccb0b61e483dcc6d7a3313d99d", null ],
-    [ "ScheduleRemoval", "d5/db8/a23338.html#a07c887552c8705b52caf9e102788a781", null ],
-    [ "SummonTotem", "d5/db8/a23338.html#adb4d877f50ba5653d699a0a123f5961c", null ],
-    [ "UpdateAI", "d5/db8/a23338.html#abce5d58fced89ecaac1d1f34989f0d9e", null ],
-    [ "_choice", "d5/db8/a23338.html#a0ced209c6f22a0bf435a0249a25b15c4", null ],
-    [ "_entryList", "d5/db8/a23338.html#a9eaeaf02dbe143d38ca857e5ae478aca", null ],
-    [ "_instance", "d5/db8/a23338.html#a958c76b6ad9d9713625b10baa0d6d992", null ],
-    [ "_scheduler", "d5/db8/a23338.html#ae1652d83938dc820255e383870b957a7", null ],
-    [ "_summons", "d5/db8/a23338.html#aea75646687854c08eaee75c55718376d", null ],
-    [ "_totemScheduler", "d5/db8/a23338.html#a1b4ace7575946c585cc63057e81a1529", null ]
+    [ "SpellIds", "d5/db8/a23338.html#a2d0e9022edc8a9f6fc0e34330fda114a", [
+      [ "SPELL_SUMMON_WAVE_A_MOB", "d5/db8/a23338.html#a2d0e9022edc8a9f6fc0e34330fda114aa19ea6e555692392677c74fccd206380b", null ],
+      [ "SPELL_SUMMON_WAVE_B_MOB", "d5/db8/a23338.html#a2d0e9022edc8a9f6fc0e34330fda114aa938130293fb55c96d06462e407a24a89", null ],
+      [ "SPELL_SUMMON_WAVE_C_MOB", "d5/db8/a23338.html#a2d0e9022edc8a9f6fc0e34330fda114aadc855654104e4ec0a09540e9b51cb098", null ],
+      [ "SPELL_SUMMON_WAVE_D_MOB", "d5/db8/a23338.html#a2d0e9022edc8a9f6fc0e34330fda114aa3bbb32a8c4da3b06e9bf5da83f39970d", null ]
+    ] ],
+    [ "FilterTargets", "d5/db8/a23338.html#a2a1a2e5069587f52ae968c84cd702eaf", null ],
+    [ "HandleHit", "d5/db8/a23338.html#aa670812f42c3082f42e0f232ee6bee16", null ],
+    [ "PrepareSpellScript", "d5/db8/a23338.html#a7fe65229c64c27909868f02439c1ef66", null ],
+    [ "Register", "d5/db8/a23338.html#a0a8f29b524391ff257aba5cbdc355115", null ],
+    [ "Validate", "d5/db8/a23338.html#ab8bcdcfcad2a9998d95567006817711e", null ]
 ];

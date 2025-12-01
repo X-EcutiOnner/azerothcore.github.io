@@ -1,7 +1,6 @@
 var a26470 =
 [
-    [ "HandleApplyEffect", "dc/dcd/a26470.html#af95120b26a165196e0310956c245f36f", null ],
-    [ "HandleRemoveEffect", "dc/dcd/a26470.html#a59e7d23c969b03aa75ef1da3bf42f6e9", null ],
-    [ "PrepareAuraScript", "dc/dcd/a26470.html#ae19e002407db1466f0655db3d14fe0d7", null ],
-    [ "Register", "dc/dcd/a26470.html#ae776a5e913fcf1553b7e2a00374a1ee6", null ]
+    [ "CheckCast", "dc/dcd/a26470.html#ada9b1c9e159956cb2a79610dbdb3eaf9", null ],
+    [ "PrepareSpellScript", "dc/dcd/a26470.html#aa9cc041f2e0dae1eb322713d4f140ce8", null ],
+    [ "Register", "dc/dcd/a26470.html#a5f0b69ffebb256d5ee2c0f9d4615c4e6", null ]
 ];

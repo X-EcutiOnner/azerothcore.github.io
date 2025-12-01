@@ -1,6 +1,6 @@
 var a20890 =
 [
-    [ "OnPeriodic", "d2/ddd/a20890.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
-    [ "PrepareAuraScript", "d2/ddd/a20890.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
-    [ "Register", "d2/ddd/a20890.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
+    [ "npc_xt002_scrapbotAI", "db/d0d/a20894.html", "db/d0d/a20894" ],
+    [ "npc_xt002_scrapbot", "d2/ddd/a20890.html#accfd75266d058af3856bdb625728c18d", null ],
+    [ "GetAI", "d2/ddd/a20890.html#aa3639c32c94f0e031ba774e4eed659cd", null ]
 ];

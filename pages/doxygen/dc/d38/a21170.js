@@ -1,7 +1,6 @@
 var a21170 =
 [
-    [ "HandleEffectCalcPeriodic", "dc/d38/a21170.html#af01eb94174952de52615734055b17c1a", null ],
-    [ "HandleEffectPeriodic", "dc/d38/a21170.html#a87b4517a6ad8630027ab2c3534b9fb8c", null ],
-    [ "PrepareAuraScript", "dc/d38/a21170.html#a95bd054accb5b72c4cfb12caccf0e004", null ],
-    [ "Register", "dc/d38/a21170.html#a2d506669ddc4c84e9ae3eb1746eadce1", null ]
+    [ "achievement_yogg_saron_darkness", "dc/d38/a21170.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
+    [ "OnCheck", "dc/d38/a21170.html#a809902fca87abaeb4334132763624ed6", null ],
+    [ "_keepersCount", "dc/d38/a21170.html#a765ec4606bb489760ed1e15db10de1dc", null ]
 ];

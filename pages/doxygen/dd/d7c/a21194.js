@@ -1,7 +1,9 @@
 var a21194 =
 [
-    [ "HandleProc", "dd/d7c/a21194.html#a1b8782a4f22522cfe224073515abdf45", null ],
-    [ "PrepareAuraScript", "dd/d7c/a21194.html#ab4a8a98564d561082243c0f7a2dda1bf", null ],
-    [ "Register", "dd/d7c/a21194.html#a8e9b7613131ef7ea05b853df337faa4e", null ],
-    [ "Validate", "dd/d7c/a21194.html#ab3a99392d06ba0bea8e3f4b345acb23d", null ]
+    [ "npc_ulduar_keeperAI", "dd/d7c/a21194.html#ac69d21f3820f2c01a80ff664c317d111", null ],
+    [ "DoAction", "dd/d7c/a21194.html#a03011d04761926d67e43c0bea5a0901f", null ],
+    [ "Reset", "dd/d7c/a21194.html#a86971339e6fcbffb3c019e4dc29972b3", null ],
+    [ "SpellHit", "dd/d7c/a21194.html#a18f22ca155646a6f40e0627f9d6dc337", null ],
+    [ "UpdateAI", "dd/d7c/a21194.html#a9af455266dd2a843ac1a2c4e56d50e78", null ],
+    [ "_keeper", "dd/d7c/a21194.html#ad8cd47f6c75042d589fc6fae4603c9f2", null ]
 ];

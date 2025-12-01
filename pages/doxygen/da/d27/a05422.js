@@ -1,12 +1,10 @@
 var a05422 =
 [
-    [ "Node", "dd/d7a/a05426.html", "dd/d7a/a05426" ],
-    [ "MPSCQueueNonIntrusive", "da/d27/a05422.html#a962c10fff5c86b00cc2e847ae758b9ce", null ],
-    [ "~MPSCQueueNonIntrusive", "da/d27/a05422.html#a599e2093215f70dc4f2f7db08965d816", null ],
-    [ "MPSCQueueNonIntrusive", "da/d27/a05422.html#a2d543ed2b5d1ab7f23ad82ee156e42ea", null ],
-    [ "Dequeue", "da/d27/a05422.html#abadcc4a4ff97f4fa132978fbd0f37e1d", null ],
-    [ "Enqueue", "da/d27/a05422.html#a63d8a4e4c085467d33d56fd3adf0f751", null ],
-    [ "operator=", "da/d27/a05422.html#a75063e89049903fb5305d67ea1a02034", null ],
-    [ "_head", "da/d27/a05422.html#a2fb1ef015f7b9a790ba1af73dc80ba35", null ],
-    [ "_tail", "da/d27/a05422.html#a8a568d842fc8da8e39b325b459cdb44d", null ]
+    [ "Category", "da/d27/a05422.html#a6a7956fedac99271428968ba339f464f", null ],
+    [ "Tags", "da/d27/a05422.html#ac22787b2dadd4d3991f72f6ccab5c225", null ],
+    [ "Text", "da/d27/a05422.html#ab63598f64896186fde81048550767b28", null ],
+    [ "Timestamp", "da/d27/a05422.html#a8248a27d920ca431493750e3f2dec48b", null ],
+    [ "Title", "da/d27/a05422.html#a857d2d4843480b9967334f079351292a", null ],
+    [ "Type", "da/d27/a05422.html#af9962592650ba24fd9b3c0ee9ce06f7f", null ],
+    [ "Value", "da/d27/a05422.html#a09832a09e989c3851e72f4ec198f0e20", null ]
 ];

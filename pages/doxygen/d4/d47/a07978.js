@@ -1,7 +1,7 @@
 var a07978 =
 [
-    [ "LfgProposalPlayer", "d4/d47/a07978.html#a80f7d0f3597201dc7fca4d08dd3b7a38", null ],
-    [ "accept", "d4/d47/a07978.html#acbf0ce1e12307569487096dc5ca544a6", null ],
-    [ "group", "d4/d47/a07978.html#a900f24e9caaa1569eeea93b4284139a1", null ],
-    [ "role", "d4/d47/a07978.html#a54ab4a0f32cc3abc7489fc9c3655fe99", null ]
+    [ "LfgJoinResultData", "d4/d47/a07978.html#a1d711d49a6b49f55eb3771352b294b95", null ],
+    [ "lockmap", "d4/d47/a07978.html#aff918b3c02ca76982a964402175f8ad7", null ],
+    [ "result", "d4/d47/a07978.html#aa713cbc1930962d520883523f6f6446c", null ],
+    [ "state", "d4/d47/a07978.html#a2eee5e81651a7a9be245e4b717ab53ed", null ]
 ];

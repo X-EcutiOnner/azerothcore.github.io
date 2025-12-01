@@ -1,6 +1,6 @@
 var a17218 =
 [
-    [ "boss_tyrannusAI", "d3/dd5/a17222.html", "d3/dd5/a17222" ],
-    [ "boss_tyrannus", "dd/d47/a17218.html#a81373192ffea8817cb72b80f4629da43", null ],
-    [ "GetAI", "dd/d47/a17218.html#ad107030de1427d070305f5dcef96c016", null ]
+    [ "instance_pit_of_saron_InstanceScript", "d3/dd5/a17222.html", "d3/dd5/a17222" ],
+    [ "instance_pit_of_saron", "dd/d47/a17218.html#a84526dbb5ac7eb6ff5ebe24ed339826b", null ],
+    [ "GetInstanceScript", "dd/d47/a17218.html#a2a1bc125bfe653a1da8b8c36b86aae67", null ]
 ];

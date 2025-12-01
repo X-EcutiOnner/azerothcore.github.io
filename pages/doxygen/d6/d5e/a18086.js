@@ -1,11 +1,7 @@
 var a18086 =
 [
-    [ "Load", "d6/d5e/a18086.html#a0dab3a666abd6d8c1486a6e71ce98c20", null ],
-    [ "PrepareSpellScript", "d6/d5e/a18086.html#a8338cc31a3c494c1cb24d015a11fbd64", null ],
-    [ "Register", "d6/d5e/a18086.html#a9adbad7cc2185b22fb16135e78114548", null ],
-    [ "SelectTarget", "d6/d5e/a18086.html#a296ec09cec9661123ea5c86f3f262f32", null ],
-    [ "SetTarget", "d6/d5e/a18086.html#a15373dc2a0767e011faf504f6377e24d", null ],
-    [ "StartAttack", "d6/d5e/a18086.html#a17b20a391d70ae487774d52ed0e5dbd7", null ],
-    [ "Validate", "d6/d5e/a18086.html#a7619f7ec6dc0ce14293414729731ed00", null ],
-    [ "_target", "d6/d5e/a18086.html#abe6d3ad0f06b2370f1a5985878d6af3d", null ]
+    [ "HandleTriggerSpell", "d6/d5e/a18086.html#a109dc4f189a64ac3b5949191d6abd2be", null ],
+    [ "OnRemove", "d6/d5e/a18086.html#a238adc96e80c1890934b23dd4a2685b4", null ],
+    [ "PrepareAuraScript", "d6/d5e/a18086.html#af9ce7433b620fdf1dea570561c514b3b", null ],
+    [ "Register", "d6/d5e/a18086.html#ab36a001ea8cd87703e2694e0765635c0", null ]
 ];

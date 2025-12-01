@@ -1,14 +1,11 @@
 var a12074 =
 [
-    [ "boss_general_angerforgeAI", "d5/daa/a12074.html#af5537ccebc7ac6af49f9b6612d3a6138", null ],
-    [ "JustEngagedWith", "d5/daa/a12074.html#ae99e11630596c62c4155a18f5a0a3dd5", null ],
-    [ "Reset", "d5/daa/a12074.html#aff55a804bdca840016e0f6b1d11f7106", null ],
-    [ "SummonAdds", "d5/daa/a12074.html#a218f4de2d057505f60b2977835e5fd91", null ],
-    [ "SummonMedics", "d5/daa/a12074.html#aeabe71bde9b03a944beedeac68cffd19", null ],
-    [ "UpdateAI", "d5/daa/a12074.html#a751c0d0015c235c8716a2a8ff18500ba", null ],
-    [ "Adds_Timer", "d5/daa/a12074.html#a069f0008735b38c249ddfe5246025438", null ],
-    [ "Cleave_Timer", "d5/daa/a12074.html#af80ac4df7aaab1469ee62ac8b054a0b9", null ],
-    [ "HamString_Timer", "d5/daa/a12074.html#a04c51b1400d17454ca529d6aa257697b", null ],
-    [ "Medics", "d5/daa/a12074.html#a06fc801b89c53430603f1a33bb3e7bd8", null ],
-    [ "MightyBlow_Timer", "d5/daa/a12074.html#aeea6bb264e2d175d1906d8606eced529", null ]
+    [ "npc_rocknotAI", "d5/daa/a12074.html#a4daa5104eabb6d38c22274b48a8514be", null ],
+    [ "DoGo", "d5/daa/a12074.html#a7591520e06782feddb98a86107fbcb27", null ],
+    [ "Reset", "d5/daa/a12074.html#a4d855a23c638e835de6f1c4644350166", null ],
+    [ "UpdateAI", "d5/daa/a12074.html#a1d3bce3248766393be5f84c5ca5030b1", null ],
+    [ "WaypointReached", "d5/daa/a12074.html#ae7d6f0b1e52767c61ad014accb1cec7a", null ],
+    [ "BreakDoor_Timer", "d5/daa/a12074.html#a3ae6edef4812fd3161c3b8ad5aa5cac2", null ],
+    [ "BreakKeg_Timer", "d5/daa/a12074.html#a6f380ad58cf55fe2ea9fc1f56118b454", null ],
+    [ "instance", "d5/daa/a12074.html#a4328c25f12f562cfdf41740e908cb3bd", null ]
 ];

@@ -1,7 +1,7 @@
 var a23814 =
 [
-    [ "HandleDummyApply", "dc/dad/a23814.html#a8a982bbbda94a2cf981c845161f05bdc", null ],
-    [ "HandleDummyRemove", "dc/dad/a23814.html#a5d68d9e15600119deca7179ffe00acda", null ],
-    [ "PrepareAuraScript", "dc/dad/a23814.html#a34d09e48b69d32dae6c127fa0837be4b", null ],
-    [ "Register", "dc/dad/a23814.html#a094004ccf6b4cae4d27bca639b76b899", null ]
+    [ "FilterTargets", "dc/dad/a23814.html#a834163302ff10875227806d7d4945988", null ],
+    [ "HandleScriptEffect", "dc/dad/a23814.html#a5dd125da7dd46e2d81ab5e0f10bc00c3", null ],
+    [ "PrepareSpellScript", "dc/dad/a23814.html#a079e72d57550e03956088b4be1d11422", null ],
+    [ "Register", "dc/dad/a23814.html#abd4e0f268652652d3828ba8d350de849", null ]
 ];

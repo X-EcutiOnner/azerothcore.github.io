@@ -1,7 +1,7 @@
 var a28490 =
 [
-    [ "AllocationPct", "dc/dd3/a28490.html#a45d752dfd00a75f69d919a88573ba4fc", null ],
-    [ "Enchantment", "dc/dd3/a28490.html#a45e694082c1dbdeef5229561f617d584", null ],
-    [ "ID", "dc/dd3/a28490.html#a66d78860d81c497765b5e68b5fd2ae18", null ],
-    [ "Name", "dc/dd3/a28490.html#a3ee4d8152817e10b873de5ec36ba062b", null ]
+    [ "ID", "dc/dd3/a28490.html#a3af48dd3f6b92ad7f5950d99ca6dd379", null ],
+    [ "Index", "dc/dd3/a28490.html#aa58e046529aae0d1d6201c08ec8107e2", null ],
+    [ "Skill", "dc/dd3/a28490.html#aed5e58cf605d3c28cd0d26015722be03", null ],
+    [ "Type", "dc/dd3/a28490.html#a39b0b548efd795c162926bddcdd301b5", null ]
 ];

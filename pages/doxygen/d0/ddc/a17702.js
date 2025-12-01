@@ -1,7 +1,6 @@
 var a17702 =
 [
-    [ "HandleScript", "d0/ddc/a17702.html#a101e5e995dd27dcc6b6a4b475eed0989", null ],
-    [ "PrepareSpellScript", "d0/ddc/a17702.html#a8f668b88a41585cabeace574b30b4f85", null ],
-    [ "Register", "d0/ddc/a17702.html#a8fae161a91fae297b99079bde218ced8", null ],
-    [ "Validate", "d0/ddc/a17702.html#a4d1a8c28eefff22afdbf15ab57a6a7fd", null ]
+    [ "npc_stinky_iccAI", "dc/d2d/a17706.html", "dc/d2d/a17706" ],
+    [ "npc_stinky_icc", "d0/ddc/a17702.html#a8f6a3687d4b330f532a0d892dbf429a0", null ],
+    [ "GetAI", "d0/ddc/a17702.html#aaf6b7b1a7469d1e353617f63f11f7781", null ]
 ];

@@ -1,9 +1,9 @@
 var a17146 =
 [
-    [ "npc_hor_risen_witch_doctorAI", "de/dcc/a17146.html#acd33d4811521f6d41bce21270198db45", null ],
-    [ "JustDied", "de/dcc/a17146.html#a49eb1c20ef810d0e4aeea8f99fcabebb", null ],
-    [ "JustEngagedWith", "de/dcc/a17146.html#a54378daf294fcbee4ba1abf14927cc52", null ],
-    [ "Reset", "de/dcc/a17146.html#a20742bb0fe610367283cd5dc7e8b36ff", null ],
-    [ "UpdateAI", "de/dcc/a17146.html#af9baaf71fa53a42ab5d1507fdd6aa9fd", null ],
-    [ "events", "de/dcc/a17146.html#abb39744cdcdc8e1fbf8fd06508af35f9", null ]
+    [ "npc_hor_lumbering_abominationAI", "de/dcc/a17146.html#acc1e6e72aee030ebf2d0daa50f880f60", null ],
+    [ "JustDied", "de/dcc/a17146.html#af243a79da3028d3d66facc8a15132f78", null ],
+    [ "JustEngagedWith", "de/dcc/a17146.html#a83d0add807b5d9647328b89fed8e9bc4", null ],
+    [ "Reset", "de/dcc/a17146.html#a4270f405bbade0028fce4df0655a1987", null ],
+    [ "UpdateAI", "de/dcc/a17146.html#a995d0f7902cb70280d1448ac7731a816", null ],
+    [ "events", "de/dcc/a17146.html#aee9063950477b50e38ec904e91882689", null ]
 ];

@@ -1,6 +1,6 @@
 var a22374 =
 [
-    [ "npc_still_at_it_triggerAI", "d8/dcf/a22378.html", "d8/dcf/a22378" ],
-    [ "npc_still_at_it_trigger", "db/d8b/a22374.html#a23366d00bd3b8217bdca7f0fca05d9bd", null ],
-    [ "GetAI", "db/d8b/a22374.html#ae273ea6295f50248d303983d4b4137df", null ]
+    [ "npc_jungle_punch_targetAI", "d8/dcf/a22378.html", "d8/dcf/a22378" ],
+    [ "npc_jungle_punch_target", "db/d8b/a22374.html#a69220634d9d6b84e464cdc4e0cba91a7", null ],
+    [ "GetAI", "db/d8b/a22374.html#abb38ccb55abfe0f48f360469031c6902", null ]
 ];

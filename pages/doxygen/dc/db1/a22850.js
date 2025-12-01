@@ -1,4 +1,6 @@
 var a22850 =
 [
-    [ "instance_mana_tombs_InstanceMapScript", "dc/db1/a22850.html#a1523ad04993ce4ddf5b503355f7c856a", null ]
+    [ "PrepareSpellScript", "dc/db1/a22850.html#ad8640f1c01d64f8bbca16e0b636f7f21", null ],
+    [ "Register", "dc/db1/a22850.html#aa41700bf097963c5a352442723181037", null ],
+    [ "SelectTarget", "dc/db1/a22850.html#a15d790b134de8a8c7497ee8d0a6217ba", null ]
 ];

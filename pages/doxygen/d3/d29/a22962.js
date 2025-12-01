@@ -1,9 +1,8 @@
 var a22962 =
 [
-    [ "npc_flame_of_azzinoth", "d3/d29/a22962.html#acdeb046c2214bd449257ba1b932c8a5c", null ],
-    [ "IsSummonedBy", "d3/d29/a22962.html#a5254057af0371a08ea01fe91502c2a20", null ],
-    [ "JustEngagedWith", "d3/d29/a22962.html#a24eba1a6cdea4971573a6f4b2dd34fb3", null ],
-    [ "JustSummoned", "d3/d29/a22962.html#ad2e7085fcd985a08cc2e317485a8fff1", null ],
-    [ "UpdateAI", "d3/d29/a22962.html#a7a1c9b967e6a79721dea8cbca44cbb5b", null ],
-    [ "_bladeGUID", "d3/d29/a22962.html#ae797d929b0e9c8953a4c9efd392a21f3", null ]
+    [ "HandleScriptEffect", "d3/d29/a22962.html#a8e5b81581fff787f691521d03fed66fc", null ],
+    [ "Load", "d3/d29/a22962.html#a8a74f3c6776f2613a6b2c63387d962e2", null ],
+    [ "PrepareSpellScript", "d3/d29/a22962.html#a5dfe415b9c990e83b9e6c1ee06a33692", null ],
+    [ "Register", "d3/d29/a22962.html#a5839b0e282fb2848c328cfaaca2c752f", null ],
+    [ "Validate", "d3/d29/a22962.html#a8c1ee55a1122c62056250b3fa09357a8", null ]
 ];

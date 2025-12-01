@@ -1,6 +1,4 @@
 var a11142 =
 [
-    [ "WorldSessionFilter", "d4/d25/a11142.html#aba91eb2dfd56201534743b2d458fa111", null ],
-    [ "~WorldSessionFilter", "d4/d25/a11142.html#a5de22e3a331e0ab17fe60f34c5b9b3fa", null ],
-    [ "Process", "d4/d25/a11142.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
+    [ "ServerOpcodeHandler", "d9/d62/a04803.html#ga15d54f5e037e138c90bd0c9bf9628ac9", null ]
 ];

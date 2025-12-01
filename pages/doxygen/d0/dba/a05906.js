@@ -1,15 +1,11 @@
 var a05906 =
 [
-    [ "TransactionBase", "d0/dba/a05906.html#a663d13ba0b22e0711d135073ff80ee47", null ],
-    [ "~TransactionBase", "d0/dba/a05906.html#a6ce7e6ef81bb466463bace35cdd49476", null ],
-    [ "Append", "d0/dba/a05906.html#a867b7a92080104278aef5fb4975a4a52", null ],
-    [ "Append", "d0/dba/a05906.html#aa0a81814abe26d456018c3bc9153cd4d", null ],
-    [ "AppendPreparedStatement", "d0/dba/a05906.html#a8e099a4f8775b5e5e3b95ad0273a716f", null ],
-    [ "Cleanup", "d0/dba/a05906.html#a35e0ce11de325a1b286d90a2936d4aa3", null ],
-    [ "GetSize", "d0/dba/a05906.html#a261ad9d7423562ccbe2cac6d75c203bd", null ],
-    [ "DatabaseWorkerPool", "d0/dba/a05906.html#a5d89109a06fa4fca3057b99bbfa84e58", null ],
-    [ "MySQLConnection", "d0/dba/a05906.html#a06fa417f69e0a67da8f249333b1d189d", null ],
-    [ "TransactionTask", "d0/dba/a05906.html#a377add6d6b5e34e774d2497d58f4a180", null ],
-    [ "_cleanedUp", "d0/dba/a05906.html#aa82af96128bfcee997423a54396d40d4", null ],
-    [ "m_queries", "d0/dba/a05906.html#a156f1a8316358c05285778e5734eade1", null ]
+    [ "SQLQueryHolderCallback", "d0/dba/a05906.html#afc2cb6a483d17ae115e947bc88fe592b", null ],
+    [ "SQLQueryHolderCallback", "d0/dba/a05906.html#a7fddb08e9e10cdb8a437de3ee53494db", null ],
+    [ "AfterComplete", "d0/dba/a05906.html#a40f0a73f4b92bc0f7ad8659f748c7c17", null ],
+    [ "InvokeIfReady", "d0/dba/a05906.html#a7e540699d496834c0a36782fb7da03f1", null ],
+    [ "operator=", "d0/dba/a05906.html#a031861856be6b3e5f18718f3c6129f9c", null ],
+    [ "m_callback", "d0/dba/a05906.html#aa055fe02b0158a9098e6eccdc32e9ff4", null ],
+    [ "m_future", "d0/dba/a05906.html#a7dc3e5e72d47135660a29a0418e17c44", null ],
+    [ "m_holder", "d0/dba/a05906.html#a09b018fb4d8e0e67249b1117c657ecc2", null ]
 ];

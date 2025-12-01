@@ -1,6 +1,6 @@
 var a24398 =
 [
-    [ "npc_drake_dealer_hurlunk", "de/d61/a24398.html#ae6d095365d23c30d5b772b047b459ddb", null ],
-    [ "OnGossipHello", "de/d61/a24398.html#ad04b7f906f029d9935e29c585b0de421", null ],
-    [ "OnGossipSelect", "de/d61/a24398.html#aa23833dcdefb909899120c25d5376111", null ]
+    [ "npc_enraged_spiritAI", "d3/daf/a24402.html", "d3/daf/a24402" ],
+    [ "npc_enraged_spirit", "de/d61/a24398.html#a17d9e2e5fb8f2795fdeff26567bbf85f", null ],
+    [ "GetAI", "de/d61/a24398.html#aa10d5f0147cf4064a49df735ac95575e", null ]
 ];

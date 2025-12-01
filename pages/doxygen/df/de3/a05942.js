@@ -1,8 +1,10 @@
 var a05942 =
 [
-    [ "UpdateResult", "df/de3/a05942.html#af32cdf09d32607955c98353fbfa7d392", null ],
-    [ "UpdateResult", "df/de3/a05942.html#a225eb6b9ff745dcd72d623ca79c007c6", null ],
-    [ "archived", "df/de3/a05942.html#adee274af5f5d6981e28b3587008d690c", null ],
-    [ "recent", "df/de3/a05942.html#aea54f4388b659def734957a47e9cca8c", null ],
-    [ "updated", "df/de3/a05942.html#a12b3fffe01639493fc405bd5a797f463", null ]
+    [ "TransactionCallback", "df/de3/a05942.html#a89e9ebf06ffbad9dcf77a78f9f989450", null ],
+    [ "TransactionCallback", "df/de3/a05942.html#adeff62976c11d9d90169e4650640118b", null ],
+    [ "AfterComplete", "df/de3/a05942.html#af2ec892bbca8d2cc694b36fb931fc1e8", null ],
+    [ "InvokeIfReady", "df/de3/a05942.html#a7937d93dbd22617a2fd3893a6fe8c23c", null ],
+    [ "operator=", "df/de3/a05942.html#ab73d1741c21ea9fd86f65a647768e972", null ],
+    [ "m_callback", "df/de3/a05942.html#abb0dbcebb22ea716025ed6aca99f6afb", null ],
+    [ "m_future", "df/de3/a05942.html#a381e889074bc5ca48574d37fe6eea00f", null ]
 ];

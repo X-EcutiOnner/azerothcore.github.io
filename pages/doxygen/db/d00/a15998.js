@@ -1,7 +1,7 @@
 var a15998 =
 [
-    [ "npc_ahnkahar_nerubian", "db/d00/a15998.html#ae18cdf09bae50751e266e95caf165f8e", null ],
-    [ "Reset", "db/d00/a15998.html#a387831015ec8e4bc65cff8c8550bb176", null ],
-    [ "UpdateAI", "db/d00/a15998.html#a9a773127e4f94bcdf142718355eae0e8", null ],
-    [ "uiSprintTimer", "db/d00/a15998.html#a27a6f57a6b145cc595896d1ad453064f", null ]
+    [ "HandleDummy", "db/d00/a15998.html#a5d619c13c620fedeea803a0802fd9ee6", null ],
+    [ "PrepareSpellScript", "db/d00/a15998.html#a04ed0daa21e66b842b8443b5e102ec1d", null ],
+    [ "Register", "db/d00/a15998.html#a4359ad73b513a368509a066a039ddf53", null ],
+    [ "_targetCount", "db/d00/a15998.html#a3ba108d63ef38af0a8730c1bf1aa69e9", null ]
 ];

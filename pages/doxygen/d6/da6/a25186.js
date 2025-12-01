@@ -1,6 +1,7 @@
 var a25186 =
 [
-    [ "CheckAreaTarget", "d6/da6/a25186.html#a90761b0145ea9d4178e77eb5e15a8ba6", null ],
-    [ "PrepareAuraScript", "d6/da6/a25186.html#afbc45652033397067a439b45afd2e90e", null ],
-    [ "Register", "d6/da6/a25186.html#aa24679e1243470056f74249e1b26767d", null ]
+    [ "HandleEffectApply", "d6/da6/a25186.html#a65ad32ded4246c3469f15b6ab167830e", null ],
+    [ "HandleEffectRemove", "d6/da6/a25186.html#a8aab4a5dab173bd0296843a0c2991142", null ],
+    [ "PrepareAuraScript", "d6/da6/a25186.html#a4925868cc5b61b7f35d59fdb27af27b6", null ],
+    [ "Register", "d6/da6/a25186.html#a0635d5e34bfc62df1ec006b7818bffb2", null ]
 ];

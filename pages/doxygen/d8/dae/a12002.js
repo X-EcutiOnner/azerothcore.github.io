@@ -1,6 +1,12 @@
 var a12002 =
 [
-    [ "npc_grimstoneAI", "d3/d86/a12006.html", "d3/d86/a12006" ],
-    [ "npc_grimstone", "d8/dae/a12002.html#ae5c3e36bf18cb30dd4fc7cd5e7a72cfb", null ],
-    [ "GetAI", "d8/dae/a12002.html#a24cf0aa69ac28c13ac3c44e14c35406c", null ]
+    [ "boss_balinda", "d8/dae/a12002.html#a2f3ce696dbc66843cddc13196800866b", null ],
+    [ "DamageTaken", "d8/dae/a12002.html#a826ad90ac15b3421e16fc3faa96784e7", null ],
+    [ "JustDied", "d8/dae/a12002.html#aeb10053198b9b4c43e963d23957ba9ba", null ],
+    [ "JustEngagedWith", "d8/dae/a12002.html#aa0b78302a92bf39ffee51ce3a71fb534", null ],
+    [ "JustSummoned", "d8/dae/a12002.html#a3c2306326d2f85fbb6766352117a1f91", null ],
+    [ "Reset", "d8/dae/a12002.html#a1ecfa5d743682997076a47cce44b19f5", null ],
+    [ "UpdateAI", "d8/dae/a12002.html#af3506dd75baef12fd0328aed21636978", null ],
+    [ "_hasCastIceBlock", "d8/dae/a12002.html#a05c24746060d7c9a3712d9f269b4af8e", null ],
+    [ "summons", "d8/dae/a12002.html#a83df5856391f0ba62dcb0538b7f44e2d", null ]
 ];

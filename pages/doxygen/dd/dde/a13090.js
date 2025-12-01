@@ -1,7 +1,5 @@
 var a13090 =
 [
-    [ "npc_scarlet_cannonAI", "dd/dde/a13090.html#a26720b34088b8063544f8c5db3b8d67c", null ],
-    [ "PassengerBoarded", "dd/dde/a13090.html#a71241dfc9b3ebe1f664d0adf03439c41", null ],
-    [ "UpdateAI", "dd/dde/a13090.html#a18ebb585e9b83f3781d3c49de5dc73b5", null ],
-    [ "summonAttackers", "dd/dde/a13090.html#a9e8eeb6995dae9a9d9ec3cb0ca6a07f5", null ]
+    [ "instance_magisters_terrace_InstanceMapScript", "dd/dde/a13090.html#ad083ab5aa00902987e18f4e9423a705a", null ],
+    [ "ProcessEvent", "dd/dde/a13090.html#a8dbe1537ea00412a6fa366891204d645", null ]
 ];

@@ -1,5 +1,7 @@
 var a15398 =
 [
-    [ "npc_toxic_slime", "d0/d58/a15398.html#a4c3a03916280342ec9aec07049de161f", null ],
-    [ "InitializeAI", "d0/d58/a15398.html#ae69f228040aaa5bc4df40a652f551992", null ]
+    [ "FilterTargets", "d0/d58/a15398.html#a76e8285baf1d14d560ad764eeab86cd5", null ],
+    [ "HandleOnHit", "d0/d58/a15398.html#a587db6fa1dc5788e0cc9ec5e486e9393", null ],
+    [ "PrepareSpellScript", "d0/d58/a15398.html#ad7372e543391a23c003b4121e0dd8a09", null ],
+    [ "Register", "d0/d58/a15398.html#a9749c72e2c7964cd4a2b2f9a77da69ec", null ]
 ];

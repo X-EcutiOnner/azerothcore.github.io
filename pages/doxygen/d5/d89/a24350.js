@@ -1,7 +1,6 @@
 var a24350 =
 [
-    [ "CheckRequirement", "d5/d89/a24350.html#a4ad521364c6156c0ecef818a23ce7aff", null ],
-    [ "PrepareSpellScript", "d5/d89/a24350.html#a0d995c6ae6d1da0014c053a62b37a7b7", null ],
-    [ "Register", "d5/d89/a24350.html#a25f275e84570f674071bfae03aeb0ddc", null ],
-    [ "Validate", "d5/d89/a24350.html#adc648151e2c61a61a0dc5883d9fa4ae0", null ]
+    [ "npcs_flanis_swiftwing_and_kagrosh", "d5/d89/a24350.html#aa95eceea94521947bd443805c8ddb52d", null ],
+    [ "OnGossipHello", "d5/d89/a24350.html#a7f331c38ec82d2c69bce4b1f861527a0", null ],
+    [ "OnGossipSelect", "d5/d89/a24350.html#aff34165955ba93e1fcd2b9731894d871", null ]
 ];

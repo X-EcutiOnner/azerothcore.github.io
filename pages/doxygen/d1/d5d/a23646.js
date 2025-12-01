@@ -1,7 +1,6 @@
 var a23646 =
 [
-    [ "HandleScript", "d1/d5d/a23646.html#a359ccbdf47c9b6a1df23e6f775d5ffa8", null ],
-    [ "PrepareSpellScript", "d1/d5d/a23646.html#ac1193881ad39e7ea7cb1f8f1b6627c60", null ],
-    [ "Register", "d1/d5d/a23646.html#afb83fdd384a430e572a7959f81cdf2cb", null ],
-    [ "Validate", "d1/d5d/a23646.html#af8587f9dff4b71b7cce8ec6d70f94927", null ]
+    [ "CalculateDamage", "d1/d5d/a23646.html#a170fb61e3a7358d42cc6506067fb978a", null ],
+    [ "PrepareSpellScript", "d1/d5d/a23646.html#a197fce87e22a3e4055cabbb925b13aa1", null ],
+    [ "Register", "d1/d5d/a23646.html#aac3c6a6b34af795cb08fc299e763f6a8", null ]
 ];

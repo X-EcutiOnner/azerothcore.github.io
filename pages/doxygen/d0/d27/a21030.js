@@ -1,18 +1,10 @@
 var a21030 =
 [
-    [ "boss_yoggsaron_brainAI", "d0/d27/a21030.html#a556f89a88f4af04c09bec268661d4dae", null ],
-    [ "DamageTaken", "d0/d27/a21030.html#abc6d2996727b22b2fd178c348f2dc7db", null ],
-    [ "DoAction", "d0/d27/a21030.html#a902318367cf4d8fdb7abfc1d48d1a935", null ],
-    [ "GetData", "d0/d27/a21030.html#a0ea15cc63073ebf36d15967a87b542d5", null ],
-    [ "JustSummoned", "d0/d27/a21030.html#ae93711e3607a60105ee8005b27b93506", null ],
-    [ "PrepareChamberIllusion", "d0/d27/a21030.html#af9abd21e8fad7949362c0830c14a9d0c", null ],
-    [ "PrepareIceCrownIllusion", "d0/d27/a21030.html#ab361073608a293347fa82e829eb7c8cb", null ],
-    [ "PrepareStormwindIllusion", "d0/d27/a21030.html#a641ebeadcf257d1eddf61cef9bcdc913", null ],
-    [ "Reset", "d0/d27/a21030.html#a309cca56ff6b853b21c910c1b4c99681", null ],
-    [ "UpdateAI", "d0/d27/a21030.html#a6c8fe143ff212f32cf284b749f55857d", null ],
-    [ "_activeIllusion", "d0/d27/a21030.html#a47524945c021303a5dd791d38dc0543c", null ],
-    [ "_brainDamaged", "d0/d27/a21030.html#a4c784f57e0f29673583529e1e8fb157b", null ],
-    [ "_induceTimer", "d0/d27/a21030.html#ab532ef181da9fa4267c987e4aa173b69", null ],
-    [ "_tentacleCount", "d0/d27/a21030.html#adef4e382bc15a03c432f46880bb076d6", null ],
-    [ "summons", "d0/d27/a21030.html#a090dfe58a5629733a425591b3de48413", null ]
+    [ "boss_yoggsaron_constrictor_tentacleAI", "d0/d27/a21030.html#a351df0050661628e3ab0be2f636f9c4e", null ],
+    [ "DoAction", "d0/d27/a21030.html#ad84c2b479a2d7df7aec40f17287a2438", null ],
+    [ "JustDied", "d0/d27/a21030.html#a832d1b1154b158c348f9d5883ad0fbd7", null ],
+    [ "SelectConstrictTarget", "d0/d27/a21030.html#a174be8d1673e332f9dceb10d2917bb4a", null ],
+    [ "UpdateAI", "d0/d27/a21030.html#a00c137429f2b565bf195dab4e9902a7c", null ],
+    [ "_checkTimer", "d0/d27/a21030.html#ae5c189401dd04823449e7a16c197e65f", null ],
+    [ "_playerGUID", "d0/d27/a21030.html#a01d889af8d8fe5712cde73cdc2bf3c95", null ]
 ];

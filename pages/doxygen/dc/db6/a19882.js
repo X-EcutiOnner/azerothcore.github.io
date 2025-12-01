@@ -1,6 +1,8 @@
 var a19882 =
 [
-    [ "npc_brann_bronzebeard_algalonAI", "d3/d0f/a19886.html", "d3/d0f/a19886" ],
-    [ "npc_brann_bronzebeard_algalon", "dc/db6/a19882.html#a2760d42de8f78250ca5862bfcb23ed2e", null ],
-    [ "GetAI", "dc/db6/a19882.html#ad8bc8bde865adcce1e9f6fd6234f1a0a", null ]
+    [ "go_celestial_planetarium_accessAI", "dc/db6/a19882.html#aca4d0e9babd6eefe84edc281f8a44cf2", null ],
+    [ "GossipHello", "dc/db6/a19882.html#af159df46fecf2cd74ac4ec9fa006dc03", null ],
+    [ "UpdateAI", "dc/db6/a19882.html#a9b2bfb74a12e3258476387fc78cde574", null ],
+    [ "_locked", "dc/db6/a19882.html#a37f83dbbb05e461d613a4c38001f785c", null ],
+    [ "events", "dc/db6/a19882.html#aa03b8d270054f2b71c1d625abe322fb8", null ]
 ];

@@ -1,10 +1,8 @@
 var a15014 =
 [
-    [ "npc_tarethaAI", "d8/db2/a15014.html#ad403cdcdc2648bb23687e3a3a7bdbb03", null ],
-    [ "AttackStart", "d8/db2/a15014.html#a09d91ea8e5923ebc3c0ad01f09f93408", null ],
-    [ "DoAction", "d8/db2/a15014.html#adbb40db0b70532a20731cf5039e44d0b", null ],
-    [ "MoveInLineOfSight", "d8/db2/a15014.html#afa0427372e43316851018bf78274707f", null ],
-    [ "Reset", "d8/db2/a15014.html#ae4d9f3d5751e8a8e0468a80d46f4a4c4", null ],
-    [ "WaypointReached", "d8/db2/a15014.html#a6946bc02ec686c8af943c9e913c8aee6", null ],
-    [ "instance", "d8/db2/a15014.html#a3c0f4a61cf5b8da6b885ef7bf9813205", null ]
+    [ "npc_thrall_old_hillsbradAI", "d2/d16/a15018.html", "d2/d16/a15018" ],
+    [ "npc_thrall_old_hillsbrad", "d8/db2/a15014.html#a3e6fa750b095af3beac806a619e18328", null ],
+    [ "GetAI", "d8/db2/a15014.html#a7b7baeb3e2e33dcb4ffb0af5d1f5930c", null ],
+    [ "OnGossipHello", "d8/db2/a15014.html#a9b3f622ab9c0dc06011cb36cd084f2e7", null ],
+    [ "OnGossipSelect", "d8/db2/a15014.html#a17fcb00850503903f430506654e035c0", null ]
 ];

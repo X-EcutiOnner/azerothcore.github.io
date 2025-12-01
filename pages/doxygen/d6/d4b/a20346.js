@@ -1,6 +1,6 @@
 var a20346 =
 [
-    [ "FilterTargets", "d6/d4b/a20346.html#adb438b9bcf4be347aeabf6608fbfb8a4", null ],
-    [ "PrepareSpellScript", "d6/d4b/a20346.html#a88f5ca3aaa575cff0ba778f9b575d656", null ],
-    [ "Register", "d6/d4b/a20346.html#ac7337b4ee8511f72b129fccc83b3241e", null ]
+    [ "npc_ulduar_icicleAI", "d6/d95/a20350.html", "d6/d95/a20350" ],
+    [ "npc_ulduar_icicle", "d6/d4b/a20346.html#a1ab79b2fa3e64779f62b96c195222683", null ],
+    [ "GetAI", "d6/d4b/a20346.html#a71dd83d544307b11bcde58f9aeea097c", null ]
 ];

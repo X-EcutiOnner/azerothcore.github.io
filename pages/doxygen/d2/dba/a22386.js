@@ -1,5 +1,4 @@
 var a22386 =
 [
-    [ "go_pressure_valve", "d2/dba/a22386.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
-    [ "OnGossipHello", "d2/dba/a22386.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
+    [ "npc_adventurous_dwarfAI", "d2/dba/a22386.html#af953c5fef2ea8abbf7835b0bc5cf1b23", null ]
 ];

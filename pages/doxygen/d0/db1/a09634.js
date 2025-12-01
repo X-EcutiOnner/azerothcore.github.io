@@ -1,9 +1,7 @@
 var a09634 =
 [
-    [ "BroadcastTextID", "d0/db1/a09634.html#a756f24dbee852a7fbe152c0cb082c412", null ],
-    [ "Emotes", "d0/db1/a09634.html#a0f67a651fdb3f3217279015c9e3fb292", null ],
-    [ "Language", "d0/db1/a09634.html#a33bc5a0c156918b00380710aeb275d3d", null ],
-    [ "Probability", "d0/db1/a09634.html#a5c743df7a7ad634c5b3f3376547fda00", null ],
-    [ "Text_0", "d0/db1/a09634.html#a046d637b91807db067c6e7050184322d", null ],
-    [ "Text_1", "d0/db1/a09634.html#a8d64d7b8fcdbd995cc11e22adde8c0de", null ]
+    [ "AddonHandler", "d0/db1/a09634.html#a3e52b0fc5ca99a3f5d83ee6d34e16520", null ],
+    [ "~AddonHandler", "d0/db1/a09634.html#a8e4fc7c1cae505850a907e70a9febbf0", null ],
+    [ "BuildAddonPacket", "d0/db1/a09634.html#aca92dc80033c299daf8e3b42dd24ffea", null ],
+    [ "instance", "d0/db1/a09634.html#a2925b829b803dd07e96685086357ef85", null ]
 ];

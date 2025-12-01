@@ -1,6 +1,11 @@
 var a21074 =
 [
-    [ "boss_yoggsaron_descend_portalAI", "d5/d82/a21074.html#a50ddd1d7b1d4a2e729657e53dfee43f2", null ],
-    [ "OnSpellClick", "d5/d82/a21074.html#aba032a7347230db028d1e939944d3f46", null ],
-    [ "_instance", "d5/d82/a21074.html#a477abf19a0b5bf9865550541877a29d7", null ]
+    [ "boss_yoggsaron_llaneAI", "d5/d82/a21074.html#a8524834b7dff49844d96b7dc49fd265d", null ],
+    [ "NextStep", "d5/d82/a21074.html#a6587e7873455950bda97b2a7d78e6fc5", null ],
+    [ "Reset", "d5/d82/a21074.html#a86f9d594562f842d478b63de18e52455", null ],
+    [ "Say", "d5/d82/a21074.html#ab619684f15f5325383a413dced7c930e", null ],
+    [ "UpdateAI", "d5/d82/a21074.html#a545378189f85968ac925baa06ad608b5", null ],
+    [ "_checkTimer", "d5/d82/a21074.html#aa4956f6943adce94a9ed4fec951317d6", null ],
+    [ "_running", "d5/d82/a21074.html#a6d6d186febc408ecb830bf7eea3c72bd", null ],
+    [ "_step", "d5/d82/a21074.html#a718c0bf307934b9ee9cbb933899c6324", null ]
 ];

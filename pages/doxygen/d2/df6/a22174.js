@@ -1,11 +1,6 @@
 var a22174 =
 [
-    [ "npc_lake_frogAI", "d2/df6/a22174.html#ac08eeed39d046ce35d7d6aa65d53cab5", null ],
-    [ "ReceiveEmote", "d2/df6/a22174.html#abd58e65b6829c70818c578ed615a980b", null ],
-    [ "Reset", "d2/df6/a22174.html#a3773b3a21ea25db316481f1da5e6dd3c", null ],
-    [ "sGossipSelect", "d2/df6/a22174.html#a95906677ff65e004408ae65df3f49b5c", null ],
-    [ "UpdateAI", "d2/df6/a22174.html#aed8368ec27fed5cd14e4a54091aa9584", null ],
-    [ "_events", "d2/df6/a22174.html#a314d7d7891c05bda288ea0d590f0cfa4", null ],
-    [ "_following", "d2/df6/a22174.html#a0078f9134a61f0ec2465ce103523e341", null ],
-    [ "_runningScript", "d2/df6/a22174.html#af76102ba6c9ffd80baa95623b7312980", null ]
+    [ "npc_plaguehound_trackerAI", "d2/df6/a22174.html#a7530f500b42ad9bb38593193d3113da8", null ],
+    [ "Reset", "d2/df6/a22174.html#a05c351ab3aca0cd18209405075bb0f47", null ],
+    [ "WaypointReached", "d2/df6/a22174.html#a67c345f49572cde76d9109a1baff6788", null ]
 ];

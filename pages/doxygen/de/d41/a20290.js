@@ -1,6 +1,7 @@
 var a20290 =
 [
-    [ "boss_freya_summonsAI", "d1/d2f/a20294.html", "d1/d2f/a20294" ],
-    [ "boss_freya_summons", "de/d41/a20290.html#a3445ed89967cc9a610472f18e862ecd4", null ],
-    [ "GetAI", "de/d41/a20290.html#ac68f231c37c61d262d6c16bc87a0f1c7", null ]
+    [ "npc_ulduar_saronite_vaporsAI", "de/d41/a20290.html#a8f811c588aeca2cd4a12d4d345907bd2", null ],
+    [ "IsSummonedBy", "de/d41/a20290.html#a4692bb5c3ffadcfd133db665566c66e5", null ],
+    [ "JustDied", "de/d41/a20290.html#a5be637500e7b5735d90e19fa40fde467", null ],
+    [ "pInstance", "de/d41/a20290.html#a25cf8dd22f05566ae99b14a596039f5e", null ]
 ];

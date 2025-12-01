@@ -1,7 +1,6 @@
 var a12446 =
 [
-    [ "HandlePeriodic", "dd/d2c/a12446.html#ac2196cc9de34e286581d44d147fe9d04", null ],
-    [ "PrepareAuraScript", "dd/d2c/a12446.html#a149c974371f23268d2d929b483637b14", null ],
-    [ "Register", "dd/d2c/a12446.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
-    [ "Validate", "dd/d2c/a12446.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
+    [ "boss_firemawAI", "d8/d48/a12450.html", "d8/d48/a12450" ],
+    [ "boss_firemaw", "dd/d2c/a12446.html#a71174eb128356802be0029fd9e24fe1f", null ],
+    [ "GetAI", "dd/d2c/a12446.html#a3a20bcefa86a21daaecaef14396dadc4", null ]
 ];

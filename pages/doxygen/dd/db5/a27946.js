@@ -1,14 +1,5 @@
 var a27946 =
 [
-    [ "FlameshockerCheck", "df/d04/a27950.html", "df/d04/a27950" ],
-    [ "npc_pallid_horror", "dd/db5/a27946.html#ae43fa737cdc303d68f34ac2fbb356814", null ],
-    [ "CorpseRemoved", "dd/db5/a27946.html#a700af3062528a6c41f7f0985f1820b36", null ],
-    [ "InitializeAI", "dd/db5/a27946.html#a2711bdb05ad74a4d0425b4f61dcddab4", null ],
-    [ "JustDied", "dd/db5/a27946.html#a6145be6ed4a56ec8f8e923187ceea47c", null ],
-    [ "JustSummoned", "dd/db5/a27946.html#a801e04d47de8d86dcfbfa552de54cd0f", null ],
-    [ "ScheduleTasks", "dd/db5/a27946.html#aa9e851cb55238bb4cf6c1e7a9d309c20", null ],
-    [ "SummonFlameshockers", "dd/db5/a27946.html#afc2625ef0ddae00fd14d3dbf7952b0cf", null ],
-    [ "UpdateAI", "dd/db5/a27946.html#a701b52b2977017c692368a5d363dd6bd", null ],
-    [ "UpdateWeather", "dd/db5/a27946.html#ac9c5b8d4274e443f4c74b2b40aa5830f", null ],
-    [ "_summons", "dd/db5/a27946.html#a0948ef0c5971a8b6ffee2269d8bca3a6", null ]
+    [ "ServerMailReward", "dd/db5/a27946.html#aba48b4c171e8e8a40fca2d3bed6b7f63", null ],
+    [ "OnPlayerLogin", "dd/db5/a27946.html#ada945e805278d54746b6fabaf48b4546", null ]
 ];

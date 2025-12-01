@@ -1,8 +1,11 @@
 var a27698 =
 [
-    [ "npc_simoneAI", "d9/dcc/a27702.html", "d9/dcc/a27702" ],
-    [ "npc_simone", "d3/d71/a27698.html#acf3e759dea12cc5fbe1376213bd3585c", null ],
-    [ "GetAI", "d3/d71/a27698.html#a36d94c5ab6c910cd3853e579d6a5ab5a", null ],
-    [ "OnGossipHello", "d3/d71/a27698.html#ae1a0cd1fbee6bee0a54a1a666c8367dd", null ],
-    [ "OnGossipSelect", "d3/d71/a27698.html#ae2b1a653be3767881769b54607219757", null ]
+    [ "npc_franklinAI", "d3/d71/a27698.html#a8385d2e39f2d051553cf84a54f3bc5ad", null ],
+    [ "DamageTaken", "d3/d71/a27698.html#afa494098126ce3291e234cfc2b36336f", null ],
+    [ "JustEngagedWith", "d3/d71/a27698.html#ab15fc7bcd912a6c583d4c219ba37c756", null ],
+    [ "Reset", "d3/d71/a27698.html#a51a260460facf06ec6bb1486f434d885", null ],
+    [ "ScheduleEncounterStart", "d3/d71/a27698.html#a2dcd6d0467eada6bd0d244e275c07d22", null ],
+    [ "SpellHit", "d3/d71/a27698.html#aed6b5cfccbbe258f501b2da5c9dadb40", null ],
+    [ "UpdateAI", "d3/d71/a27698.html#a8c3158b1e6c482dd82a6326954b8bbc5", null ],
+    [ "events", "d3/d71/a27698.html#a2f72f9659aa62f80c5d8159df0d14e9f", null ]
 ];

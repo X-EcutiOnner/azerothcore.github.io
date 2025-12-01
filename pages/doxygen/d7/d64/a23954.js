@@ -1,7 +1,6 @@
 var a23954 =
 [
-    [ "HandleCast", "d7/d64/a23954.html#a0084e7f81fcd032c1e04b8f86d821993", null ],
-    [ "PrepareSpellScript", "d7/d64/a23954.html#acfd6b86e5afed08fd9cf43f64e948149", null ],
-    [ "Register", "d7/d64/a23954.html#a6ae0573ea69573df64cd57ba84f99918", null ],
-    [ "Validate", "d7/d64/a23954.html#ab5794ca5c0863ce40194ed40e156279a", null ]
+    [ "HandleCast", "d7/d64/a23954.html#a912dc3b17ab7d0818089c32610d82a16", null ],
+    [ "PrepareSpellScript", "d7/d64/a23954.html#a6590aab70049aa5e94ed48aeb99ab1d0", null ],
+    [ "Register", "d7/d64/a23954.html#a09d4af96e2d5a69b1b61a6055bcb04d4", null ]
 ];

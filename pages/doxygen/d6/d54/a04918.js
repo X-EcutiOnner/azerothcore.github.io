@@ -1,7 +1,6 @@
 var a04918 =
 [
-    [ "indices", "d6/d54/a04918.html#a23cadbd54502fb4edc68e052e5774664", null ],
-    [ "maxPrims", "d6/d54/a04918.html#a0c46f35977fe683a19e7cb1e580a814b", null ],
-    [ "numPrims", "d6/d54/a04918.html#a623b9ee05707ecdbaa816c797e358e86", null ],
-    [ "primBound", "d6/d54/a04918.html#a3304ad5d821f178941fd44da897213de", null ]
+    [ "Resolver", "d6/d54/a04918.html#ad1a3a95744d64df722a6fb4b267316e6", null ],
+    [ "Resolve", "d6/d54/a04918.html#ab190f885c84753fe65405db6fb04bf7c", null ],
+    [ "_impl", "d6/d54/a04918.html#a08ed9183a6338606524c44f0fd5695a0", null ]
 ];

@@ -1,6 +1,7 @@
 var a14054 =
 [
-    [ "go", "d5/dfa/a14054.html#ac14168f8c25efe7fa22ec802259b3a11", null ],
-    [ "npc", "d5/dfa/a14054.html#a04d6e67fa2fb208ca747798ccc53083d", null ],
-    [ "pos", "d5/dfa/a14054.html#a51175880a326101b29879d7a6a62c48d", null ]
+    [ "npc_zuljin_vortex", "d5/dfa/a14054.html#af3af996adc0a0dba4af992234f8356fb", null ],
+    [ "ChangeToNewPlayer", "d5/dfa/a14054.html#ab353794ef978151999fdd2294783e757", null ],
+    [ "Reset", "d5/dfa/a14054.html#a1331e714c5cafdc32033e73b6f3169aa", null ],
+    [ "UpdateAI", "d5/dfa/a14054.html#a1ae6a08fe247e7bc812ed4f5ffebc519", null ]
 ];

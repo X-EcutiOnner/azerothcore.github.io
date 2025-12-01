@@ -1,12 +1,10 @@
 var a13818 =
 [
-    [ "npc_corporal_keeshanAI", "da/da7/a13818.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
-    [ "Reset", "da/da7/a13818.html#a311488932a3de9153490d41e3fae92fb", null ],
-    [ "sQuestAccept", "da/da7/a13818.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
-    [ "UpdateAI", "da/da7/a13818.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
-    [ "WaypointReached", "da/da7/a13818.html#a3edc9ab54068e47f955116db70454f6c", null ],
-    [ "mockingBlowTimer", "da/da7/a13818.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
-    [ "phase", "da/da7/a13818.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
-    [ "shieldBashTimer", "da/da7/a13818.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
-    [ "timer", "da/da7/a13818.html#a3107368f175aa7f4e8c405248ef917df", null ]
+    [ "npc_grand_magister_rommathAI", "da/da7/a13818.html#a5e9404dd8bf4b513e05daac53c076314", null ],
+    [ "DoAction", "da/da7/a13818.html#a138bc8cd6f1312d83fefdf5499a479b7", null ],
+    [ "MoveInLineOfSight", "da/da7/a13818.html#ad35b64b37915484b133bcd185a832011", null ],
+    [ "UpdateAI", "da/da7/a13818.html#ac687bd20f0ae66b21ce52c21561af417", null ],
+    [ "announced", "da/da7/a13818.html#a4c9107ef5d4a85d7487ff4cf7bf6464a", null ],
+    [ "events", "da/da7/a13818.html#a4c1b6616bc88a9ad5074670843315bc6", null ],
+    [ "playerGUID", "da/da7/a13818.html#ad0ac0647feb998e837a44b0a688694e9", null ]
 ];

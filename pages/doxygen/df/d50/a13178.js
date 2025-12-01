@@ -1,6 +1,10 @@
 var a13178 =
 [
-    [ "npc_gothik_the_harvesterAI", "d6/dc0/a13182.html", "d6/dc0/a13182" ],
-    [ "npc_gothik_the_harvester", "df/d50/a13178.html#a44a8a900e195308802e76c5b550b577a", null ],
-    [ "GetAI", "df/d50/a13178.html#a97d99101d8c6eca7cf59e9920725efbc", null ]
+    [ "npc_scarlet_courierAI", "df/d50/a13178.html#a83c5e32659d38a513790322e46dcc283", null ],
+    [ "JustEngagedWith", "df/d50/a13178.html#aa470197f0949a413c421bda8c7c09279", null ],
+    [ "MovementInform", "df/d50/a13178.html#add19812d92d62b602f96ffc5fb513d6c", null ],
+    [ "Reset", "df/d50/a13178.html#ab642188631b67ae5ff5fd312eaf37ff0", null ],
+    [ "UpdateAI", "df/d50/a13178.html#ac37287a77e37785b606c742ff8d6eeeb", null ],
+    [ "uiStage", "df/d50/a13178.html#a2f920922f8c6f1a878d0e4978e081257", null ],
+    [ "uiStage_timer", "df/d50/a13178.html#a8ee22a276535a3a9c2f12a62e984d55b", null ]
 ];

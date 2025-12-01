@@ -1,6 +1,7 @@
 var a12494 =
 [
-    [ "instance_blackwing_lair_InstanceMapScript", "de/db7/a12498.html", "de/db7/a12498" ],
-    [ "instance_blackwing_lair", "dd/dbc/a12494.html#afb9a7ce1ac297b023aa8364cc1383336", null ],
-    [ "GetInstanceScript", "dd/dbc/a12494.html#a70aff4e1bb406f232d0b4961037ed0a1", null ]
+    [ "HandlePeriodic", "dd/dbc/a12494.html#ac2196cc9de34e286581d44d147fe9d04", null ],
+    [ "PrepareAuraScript", "dd/dbc/a12494.html#a149c974371f23268d2d929b483637b14", null ],
+    [ "Register", "dd/dbc/a12494.html#a6a2f42867a7082d2b8406c651d5dc484", null ],
+    [ "Validate", "dd/dbc/a12494.html#ab77b8a7dca3dc9bbd20cdb498d1d317e", null ]
 ];

@@ -1,6 +1,6 @@
 var a16418 =
 [
-    [ "boss_paletressAI", "d6/d8e/a16422.html", "d6/d8e/a16422" ],
-    [ "boss_paletress", "d6/d89/a16418.html#a04cbd31e71cc349b8c1058780ee6f673", null ],
-    [ "GetAI", "d6/d89/a16418.html#a2c20ff397d115cf0e8a1801184e5a3f9", null ]
+    [ "npc_memoryAI", "d6/d8e/a16422.html", "d6/d8e/a16422" ],
+    [ "npc_memory", "d6/d89/a16418.html#acebf31813025d323f9486d6575a60483", null ],
+    [ "GetAI", "d6/d89/a16418.html#ad8e532d029217a06d11ae39810498976", null ]
 ];

@@ -1,7 +1,9 @@
 var a23934 =
 [
-    [ "boss_zereketh_the_unbound", "d5/dc6/a23934.html#abb2fc5cbe7514142160818016fda1936", null ],
-    [ "JustDied", "d5/dc6/a23934.html#ac5d96da9a33a536f2002cce11453ded3", null ],
-    [ "JustEngagedWith", "d5/dc6/a23934.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
-    [ "KilledUnit", "d5/dc6/a23934.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
+    [ "HandleEffectApply", "d5/dc6/a23934.html#ac9e030810cc1ffb3927943353bcbb764", null ],
+    [ "HandleEffectRemove", "d5/dc6/a23934.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
+    [ "Load", "d5/dc6/a23934.html#a60f41c19f5104eef82048fd1e3416abd", null ],
+    [ "PrepareAuraScript", "d5/dc6/a23934.html#a277d9865108acafac4b1a42bc5b5714b", null ],
+    [ "Register", "d5/dc6/a23934.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
+    [ "_falconSet", "d5/dc6/a23934.html#a1a20f75d251936bff7a0777831d79140", null ]
 ];

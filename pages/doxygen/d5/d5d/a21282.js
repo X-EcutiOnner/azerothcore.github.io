@@ -1,7 +1,6 @@
 var a21282 =
 [
-    [ "HandleEffectPeriodic", "d5/d5d/a21282.html#a5741a78ba0cc8c723e80b1847b3eb1bc", null ],
-    [ "PrepareAuraScript", "d5/d5d/a21282.html#a748cd347867557b5048d9ba0c112cd80", null ],
-    [ "Register", "d5/d5d/a21282.html#a3c24d37ab4a6e16a577983c3f6bc2722", null ],
-    [ "Validate", "d5/d5d/a21282.html#afa86789ef14b1d06094705ba6cfb9205", null ]
+    [ "boss_palehoofAI", "d0/d9c/a21286.html", "d0/d9c/a21286" ],
+    [ "boss_palehoof", "d5/d5d/a21282.html#ac0e541befaad7e1e6e318d64ca4a1d94", null ],
+    [ "GetAI", "d5/d5d/a21282.html#ae33ca6e71b251214be50168a5940d058", null ]
 ];

@@ -1,11 +1,6 @@
 var a12150 =
 [
-    [ "boss_doomrelAI", "d2/dd3/a12150.html#a231cc3989d1c575af941a5462ad94cbd", null ],
-    [ "EnterEvadeMode", "d2/dd3/a12150.html#ae633f4cc1747f291a3911ca50ee39370", null ],
-    [ "JustEngagedWith", "d2/dd3/a12150.html#a622f673548b0a6f1db2a59ef69f31ac7", null ],
-    [ "Reset", "d2/dd3/a12150.html#aec30616ad3c84ee4b6dd92f6ac8b4fbc", null ],
-    [ "UpdateAI", "d2/dd3/a12150.html#a3d851f7bd5a78858fd228cac78c05f27", null ],
-    [ "_events", "d2/dd3/a12150.html#aaf800dd1d20dc8288cad5aa21cd602b0", null ],
-    [ "instance", "d2/dd3/a12150.html#aa0fc44bb955e83c2ef7b7373751fc2c2", null ],
-    [ "Voidwalkers", "d2/dd3/a12150.html#af29d871a370a534f508f225d49c3dc9f", null ]
+    [ "boss_high_interrogator_gerstahnAI", "da/da0/a12154.html", "da/da0/a12154" ],
+    [ "boss_high_interrogator_gerstahn", "d2/dd3/a12150.html#a700eb542c041e9ca540f2676fc42aff9", null ],
+    [ "GetAI", "d2/dd3/a12150.html#ab4e92847a1ce6bf50f0ae460c1a7108f", null ]
 ];

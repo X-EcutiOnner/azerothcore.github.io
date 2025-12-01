@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: LockedQueue&lt; T, StorageType &gt; Class Template Reference</title>
+<title>AzerothCore: LogOperation Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,608 +106,155 @@ $(document).ready(function(){initNavTree('d9/d54/a05418.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
 <a href="../../d8/ddb/a05415.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">LockedQueue&lt; T, StorageType &gt; Class Template Reference</div></div>
+  <div class="headertitle"><div class="title">LogOperation Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">LockedQueue.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">LogOperation.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a5ce001c1fba3468b513aa7e345113128"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/a05418.html#a5ce001c1fba3468b513aa7e345113128">LockedQueue</a> ()=default</td></tr>
-<tr class="memdesc:a5ce001c1fba3468b513aa7e345113128"><td class="mdescLeft">&#160;</td><td class="mdescRight">Default constructor to create an empty <a class="el" href="../../d9/d54/a05418.html">LockedQueue</a>.  <a href="../../d9/d54/a05418.html#a5ce001c1fba3468b513aa7e345113128">More...</a><br /></td></tr>
-<tr class="separator:a5ce001c1fba3468b513aa7e345113128"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a259a03cc68a36181edebe088ef669c46"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/a05418.html#a259a03cc68a36181edebe088ef669c46">~LockedQueue</a> ()=default</td></tr>
-<tr class="memdesc:a259a03cc68a36181edebe088ef669c46"><td class="mdescLeft">&#160;</td><td class="mdescRight">Destructor for <a class="el" href="../../d9/d54/a05418.html">LockedQueue</a>.  <a href="../../d9/d54/a05418.html#a259a03cc68a36181edebe088ef669c46">More...</a><br /></td></tr>
-<tr class="separator:a259a03cc68a36181edebe088ef669c46"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a03f459044b4ffb413fb8d1ba98179ab8"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/a05418.html#a03f459044b4ffb413fb8d1ba98179ab8">add</a> (const T &amp;item)</td></tr>
-<tr class="memdesc:a03f459044b4ffb413fb8d1ba98179ab8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Adds an item to the back of the queue.  <a href="../../d9/d54/a05418.html#a03f459044b4ffb413fb8d1ba98179ab8">More...</a><br /></td></tr>
-<tr class="separator:a03f459044b4ffb413fb8d1ba98179ab8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4eb9aea8b399a2acc2dd893e83d16120"><td class="memTemplParams" colspan="2">template&lt;class Iterator &gt; </td></tr>
-<tr class="memitem:a4eb9aea8b399a2acc2dd893e83d16120"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d9/d54/a05418.html#a4eb9aea8b399a2acc2dd893e83d16120">readd</a> (Iterator begin, Iterator end)</td></tr>
-<tr class="memdesc:a4eb9aea8b399a2acc2dd893e83d16120"><td class="mdescLeft">&#160;</td><td class="mdescRight">Adds a range of items to the front of the queue.  <a href="../../d9/d54/a05418.html#a4eb9aea8b399a2acc2dd893e83d16120">More...</a><br /></td></tr>
-<tr class="separator:a4eb9aea8b399a2acc2dd893e83d16120"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac818ec56d60e2ec059857e0aaa99f8a4"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/a05418.html#ac818ec56d60e2ec059857e0aaa99f8a4">next</a> (T &amp;result)</td></tr>
-<tr class="memdesc:ac818ec56d60e2ec059857e0aaa99f8a4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the next item in the queue and removes it.  <a href="../../d9/d54/a05418.html#ac818ec56d60e2ec059857e0aaa99f8a4">More...</a><br /></td></tr>
-<tr class="separator:ac818ec56d60e2ec059857e0aaa99f8a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acaade33a01794600c72efbf389fe7664"><td class="memTemplParams" colspan="2">template&lt;class Checker &gt; </td></tr>
-<tr class="memitem:acaade33a01794600c72efbf389fe7664"><td class="memTemplItemLeft" align="right" valign="top">bool&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d9/d54/a05418.html#acaade33a01794600c72efbf389fe7664">next</a> (T &amp;result, Checker &amp;check)</td></tr>
-<tr class="memdesc:acaade33a01794600c72efbf389fe7664"><td class="mdescLeft">&#160;</td><td class="mdescRight">Retrieves the next item from the queue if it satisfies the provided checker.  <a href="../../d9/d54/a05418.html#acaade33a01794600c72efbf389fe7664">More...</a><br /></td></tr>
-<tr class="separator:acaade33a01794600c72efbf389fe7664"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af1de22fd872bb07a5ad42779d2ddbac3"><td class="memItemLeft" align="right" valign="top">T &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/a05418.html#af1de22fd872bb07a5ad42779d2ddbac3">peek</a> ()</td></tr>
-<tr class="memdesc:af1de22fd872bb07a5ad42779d2ddbac3"><td class="mdescLeft">&#160;</td><td class="mdescRight">Peeks at the top of the queue without removing it.  <a href="../../d9/d54/a05418.html#af1de22fd872bb07a5ad42779d2ddbac3">More...</a><br /></td></tr>
-<tr class="separator:af1de22fd872bb07a5ad42779d2ddbac3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab3d04497f8a07c5c6b6208b136a297a4"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/a05418.html#ab3d04497f8a07c5c6b6208b136a297a4">cancel</a> ()</td></tr>
-<tr class="memdesc:ab3d04497f8a07c5c6b6208b136a297a4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Cancels the queue, preventing further processing of items.  <a href="../../d9/d54/a05418.html#ab3d04497f8a07c5c6b6208b136a297a4">More...</a><br /></td></tr>
-<tr class="separator:ab3d04497f8a07c5c6b6208b136a297a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af9e2adfcd3800e9e9fa858fcacf22e2e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/a05418.html#af9e2adfcd3800e9e9fa858fcacf22e2e">cancelled</a> () const</td></tr>
-<tr class="memdesc:af9e2adfcd3800e9e9fa858fcacf22e2e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Checks if the queue has been canceled.  <a href="../../d9/d54/a05418.html#af9e2adfcd3800e9e9fa858fcacf22e2e">More...</a><br /></td></tr>
-<tr class="separator:af9e2adfcd3800e9e9fa858fcacf22e2e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8d62ae6a4bb93f89816714ccbb519753"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/a05418.html#a8d62ae6a4bb93f89816714ccbb519753">empty</a> () const</td></tr>
-<tr class="memdesc:a8d62ae6a4bb93f89816714ccbb519753"><td class="mdescLeft">&#160;</td><td class="mdescRight">Checks if the queue is empty.  <a href="../../d9/d54/a05418.html#a8d62ae6a4bb93f89816714ccbb519753">More...</a><br /></td></tr>
-<tr class="separator:a8d62ae6a4bb93f89816714ccbb519753"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa57d3a3964071fd3e0ba6b7840041c65"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/a05418.html#aa57d3a3964071fd3e0ba6b7840041c65">pop_front</a> ()</td></tr>
-<tr class="memdesc:aa57d3a3964071fd3e0ba6b7840041c65"><td class="mdescLeft">&#160;</td><td class="mdescRight">Removes the item at the front of the queue.  <a href="../../d9/d54/a05418.html#aa57d3a3964071fd3e0ba6b7840041c65">More...</a><br /></td></tr>
-<tr class="separator:aa57d3a3964071fd3e0ba6b7840041c65"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a19e5e4731bd71697876110348f86d737"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/a05418.html#a19e5e4731bd71697876110348f86d737">LogOperation</a> (<a class="el" href="../../d3/d53/a05410.html">Logger</a> const *_logger, std::unique_ptr&lt; <a class="el" href="../../dd/d15/a05414.html">LogMessage</a> &gt; &amp;&amp;_msg)</td></tr>
+<tr class="separator:a19e5e4731bd71697876110348f86d737"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aae305e293044badac1a628edd501ed35"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/a05418.html#aae305e293044badac1a628edd501ed35">~LogOperation</a> ()</td></tr>
+<tr class="separator:aae305e293044badac1a628edd501ed35"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a966a4bfb45430860fa5be56fe8b48f79"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/a05418.html#a966a4bfb45430860fa5be56fe8b48f79">call</a> ()</td></tr>
+<tr class="separator:a966a4bfb45430860fa5be56fe8b48f79"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a64be27c5d4ab7cc4a8c559dd6e1d4ebb"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/a05418.html#a64be27c5d4ab7cc4a8c559dd6e1d4ebb">_lock</a></td></tr>
-<tr class="memdesc:a64be27c5d4ab7cc4a8c559dd6e1d4ebb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Mutex to protect access to the queue.  <a href="../../d9/d54/a05418.html#a64be27c5d4ab7cc4a8c559dd6e1d4ebb">More...</a><br /></td></tr>
-<tr class="separator:a64be27c5d4ab7cc4a8c559dd6e1d4ebb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a175454f5bf20f3a312d83e2dd5fc5d7c"><td class="memItemLeft" align="right" valign="top">std::atomic&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/a05418.html#a175454f5bf20f3a312d83e2dd5fc5d7c">_canceled</a> {false}</td></tr>
-<tr class="memdesc:a175454f5bf20f3a312d83e2dd5fc5d7c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Flag indicating if the queue is canceled.  <a href="../../d9/d54/a05418.html#a175454f5bf20f3a312d83e2dd5fc5d7c">More...</a><br /></td></tr>
-<tr class="separator:a175454f5bf20f3a312d83e2dd5fc5d7c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a55ced2abb0a6dd64554597347b61ebf1"><td class="memItemLeft" align="right" valign="top">StorageType&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/a05418.html#a55ced2abb0a6dd64554597347b61ebf1">_queue</a></td></tr>
-<tr class="memdesc:a55ced2abb0a6dd64554597347b61ebf1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Storage container for the queue.  <a href="../../d9/d54/a05418.html#a55ced2abb0a6dd64554597347b61ebf1">More...</a><br /></td></tr>
-<tr class="separator:a55ced2abb0a6dd64554597347b61ebf1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pro-attribs" name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:af1d8611d116a3575e59a99e8cba5fc84"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d53/a05410.html">Logger</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/a05418.html#af1d8611d116a3575e59a99e8cba5fc84">logger</a></td></tr>
+<tr class="separator:af1d8611d116a3575e59a99e8cba5fc84"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a665effc48367f396f3e714f5d3d56d75"><td class="memItemLeft" align="right" valign="top">std::unique_ptr&lt; <a class="el" href="../../dd/d15/a05414.html">LogMessage</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d54/a05418.html#a665effc48367f396f3e714f5d3d56d75">msg</a></td></tr>
+<tr class="separator:a665effc48367f396f3e714f5d3d56d75"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;class T, typename StorageType = std::deque&lt;T&gt;&gt;<br />
-class LockedQueue&lt; T, StorageType &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a5ce001c1fba3468b513aa7e345113128" name="a5ce001c1fba3468b513aa7e345113128"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5ce001c1fba3468b513aa7e345113128">&#9670;&#160;</a></span>LockedQueue()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a19e5e4731bd71697876110348f86d737" name="a19e5e4731bd71697876110348f86d737"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a19e5e4731bd71697876110348f86d737">&#9670;&#160;</a></span>LogOperation()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class T , typename StorageType  = std::deque&lt;T&gt;&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d9/d54/a05418.html">LockedQueue</a>&lt; T, StorageType &gt;<a class="el" href="../../d9/d54/a05418.html">::LockedQueue</a> </td>
+          <td class="memname">LogOperation::LogOperation </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/d53/a05410.html">Logger</a> const *&#160;</td>
+          <td class="paramname"><em>_logger</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::unique_ptr&lt; <a class="el" href="../../dd/d15/a05414.html">LogMessage</a> &gt; &amp;&amp;&#160;</td>
+          <td class="paramname"><em>_msg</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   22</span>                                                                                  : <a class="code hl_variable" href="../../d9/d54/a05418.html#af1d8611d116a3575e59a99e8cba5fc84">logger</a>(_logger), <a class="code hl_variable" href="../../d9/d54/a05418.html#a665effc48367f396f3e714f5d3d56d75">msg</a>(std::forward&lt;std::unique_ptr&lt;LogMessage&gt;&gt;(_msg))</div>
+<div class="line"><span class="lineno">   23</span>{</div>
+<div class="line"><span class="lineno">   24</span>}</div>
+<div class="ttc" id="aa05418_html_a665effc48367f396f3e714f5d3d56d75"><div class="ttname"><a href="../../d9/d54/a05418.html#a665effc48367f396f3e714f5d3d56d75">LogOperation::msg</a></div><div class="ttdeci">std::unique_ptr&lt; LogMessage &gt; msg</div><div class="ttdef"><b>Definition:</b> LogOperation.h:37</div></div>
+<div class="ttc" id="aa05418_html_af1d8611d116a3575e59a99e8cba5fc84"><div class="ttname"><a href="../../d9/d54/a05418.html#af1d8611d116a3575e59a99e8cba5fc84">LogOperation::logger</a></div><div class="ttdeci">Logger const  * logger</div><div class="ttdef"><b>Definition:</b> LogOperation.h:36</div></div>
+</div><!-- fragment -->
+</div>
+</div>
+<a id="aae305e293044badac1a628edd501ed35" name="aae305e293044badac1a628edd501ed35"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aae305e293044badac1a628edd501ed35">&#9670;&#160;</a></span>~LogOperation()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">LogOperation::~LogOperation </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">default</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-
-<p>Default constructor to create an empty <a class="el" href="../../d9/d54/a05418.html">LockedQueue</a>. </p>
-
-</div>
-</div>
-<a id="a259a03cc68a36181edebe088ef669c46" name="a259a03cc68a36181edebe088ef669c46"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a259a03cc68a36181edebe088ef669c46">&#9670;&#160;</a></span>~LockedQueue()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class T , typename StorageType  = std::deque&lt;T&gt;&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">virtual <a class="el" href="../../d9/d54/a05418.html">LockedQueue</a>&lt; T, StorageType &gt;::~<a class="el" href="../../d9/d54/a05418.html">LockedQueue</a> </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Destructor for <a class="el" href="../../d9/d54/a05418.html">LockedQueue</a>. </p>
-
+<div class="fragment"><div class="line"><span class="lineno">   27</span>{</div>
+<div class="line"><span class="lineno">   28</span>}</div>
+</div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a03f459044b4ffb413fb8d1ba98179ab8" name="a03f459044b4ffb413fb8d1ba98179ab8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a03f459044b4ffb413fb8d1ba98179ab8">&#9670;&#160;</a></span>add()</h2>
+<a id="a966a4bfb45430860fa5be56fe8b48f79" name="a966a4bfb45430860fa5be56fe8b48f79"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a966a4bfb45430860fa5be56fe8b48f79">&#9670;&#160;</a></span>call()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class T , typename StorageType  = std::deque&lt;T&gt;&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../d9/d54/a05418.html">LockedQueue</a>&lt; T, StorageType &gt;::add </td>
-          <td>(</td>
-          <td class="paramtype">const T &amp;&#160;</td>
-          <td class="paramname"><em>item</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Adds an item to the back of the queue. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">item</td><td>The item to be added to the queue. </td></tr>
-  </table>
-  </dd>
-</dl>
-<div class="fragment"><div class="line"><span class="lineno">   53</span>    {</div>
-<div class="line"><span class="lineno">   54</span>        std::lock_guard&lt;std::mutex&gt; lock(<a class="code hl_variable" href="../../d9/d54/a05418.html#a64be27c5d4ab7cc4a8c559dd6e1d4ebb">_lock</a>);</div>
-<div class="line"><span class="lineno">   55</span>        <a class="code hl_variable" href="../../d9/d54/a05418.html#a55ced2abb0a6dd64554597347b61ebf1">_queue</a>.push_back(std::move(item));</div>
-<div class="line"><span class="lineno">   56</span>    }</div>
-<div class="ttc" id="aa05418_html_a55ced2abb0a6dd64554597347b61ebf1"><div class="ttname"><a href="../../d9/d54/a05418.html#a55ced2abb0a6dd64554597347b61ebf1">LockedQueue::_queue</a></div><div class="ttdeci">StorageType _queue</div><div class="ttdoc">Storage container for the queue.</div><div class="ttdef"><b>Definition:</b> LockedQueue.h:33</div></div>
-<div class="ttc" id="aa05418_html_a64be27c5d4ab7cc4a8c559dd6e1d4ebb"><div class="ttname"><a href="../../d9/d54/a05418.html#a64be27c5d4ab7cc4a8c559dd6e1d4ebb">LockedQueue::_lock</a></div><div class="ttdeci">std::mutex _lock</div><div class="ttdoc">Mutex to protect access to the queue.</div><div class="ttdef"><b>Definition:</b> LockedQueue.h:29</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00029">LockedQueue&lt; T, StorageType &gt;::_lock</a>, and <a class="el" href="../../#l00033">LockedQueue&lt; T, StorageType &gt;::_queue</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00039">AuctionHouseWorkerThread::AddAuctionSearchUpdateToQueue()</a>, <a class="el" href="../../#l00204">WorldSessionMgr::AddSession()</a>, <a class="el" href="../../#l00222">World::QueueCliCommand()</a>, and <a class="el" href="../../#l00301">WorldSession::QueuePacket()</a>.</p>
-
-</div>
-</div>
-<a id="ab3d04497f8a07c5c6b6208b136a297a4" name="ab3d04497f8a07c5c6b6208b136a297a4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab3d04497f8a07c5c6b6208b136a297a4">&#9670;&#160;</a></span>cancel()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class T , typename StorageType  = std::deque&lt;T&gt;&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../d9/d54/a05418.html">LockedQueue</a>&lt; T, StorageType &gt;::cancel </td>
+          <td class="memname">int LogOperation::call </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-
-<p>Cancels the queue, preventing further processing of items. </p>
-<div class="fragment"><div class="line"><span class="lineno">  131</span>    {</div>
-<div class="line"><span class="lineno">  132</span>        <a class="code hl_variable" href="../../d9/d54/a05418.html#a175454f5bf20f3a312d83e2dd5fc5d7c">_canceled</a>.store(<span class="keyword">true</span>, std::memory_order_release);</div>
-<div class="line"><span class="lineno">  133</span>    }</div>
-<div class="ttc" id="aa05418_html_a175454f5bf20f3a312d83e2dd5fc5d7c"><div class="ttname"><a href="../../d9/d54/a05418.html#a175454f5bf20f3a312d83e2dd5fc5d7c">LockedQueue::_canceled</a></div><div class="ttdeci">std::atomic&lt; bool &gt; _canceled</div><div class="ttdoc">Flag indicating if the queue is canceled.</div><div class="ttdef"><b>Definition:</b> LockedQueue.h:31</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
+<div class="line"><span class="lineno">   32</span>    <a class="code hl_variable" href="../../d9/d54/a05418.html#af1d8611d116a3575e59a99e8cba5fc84">logger</a>-&gt;<a class="code hl_function" href="../../d3/d53/a05410.html#a3627f98e8676ee7b68a34a4d9439082e">write</a>(<a class="code hl_variable" href="../../d9/d54/a05418.html#a665effc48367f396f3e714f5d3d56d75">msg</a>.get());</div>
+<div class="line"><span class="lineno">   33</span>    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">   34</span>}</div>
+<div class="ttc" id="aa05410_html_a3627f98e8676ee7b68a34a4d9439082e"><div class="ttname"><a href="../../d3/d53/a05410.html#a3627f98e8676ee7b68a34a4d9439082e">Logger::write</a></div><div class="ttdeci">void write(LogMessage *message) const</div><div class="ttdef"><b>Definition:</b> Logger.cpp:49</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">LockedQueue&lt; T, StorageType &gt;::_canceled</a>.</p>
-
-</div>
-</div>
-<a id="af9e2adfcd3800e9e9fa858fcacf22e2e" name="af9e2adfcd3800e9e9fa858fcacf22e2e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af9e2adfcd3800e9e9fa858fcacf22e2e">&#9670;&#160;</a></span>cancelled()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class T , typename StorageType  = std::deque&lt;T&gt;&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool <a class="el" href="../../d9/d54/a05418.html">LockedQueue</a>&lt; T, StorageType &gt;::cancelled </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Checks if the queue has been canceled. </p>
-<dl class="section return"><dt>Returns</dt><dd>true if the queue is canceled, false otherwise. </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  141</span>    {</div>
-<div class="line"><span class="lineno">  142</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/d54/a05418.html#a175454f5bf20f3a312d83e2dd5fc5d7c">_canceled</a>.load(std::memory_order_acquire);</div>
-<div class="line"><span class="lineno">  143</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00031">LockedQueue&lt; T, StorageType &gt;::_canceled</a>.</p>
-
-</div>
-</div>
-<a id="a8d62ae6a4bb93f89816714ccbb519753" name="a8d62ae6a4bb93f89816714ccbb519753"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a8d62ae6a4bb93f89816714ccbb519753">&#9670;&#160;</a></span>empty()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class T , typename StorageType  = std::deque&lt;T&gt;&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool <a class="el" href="../../d9/d54/a05418.html">LockedQueue</a>&lt; T, StorageType &gt;::empty </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Checks if the queue is empty. </p>
-<dl class="section return"><dt>Returns</dt><dd>true if the queue is empty, false otherwise. </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  151</span>    {</div>
-<div class="line"><span class="lineno">  152</span>        std::lock_guard&lt;std::mutex&gt; lock(<a class="code hl_variable" href="../../d9/d54/a05418.html#a64be27c5d4ab7cc4a8c559dd6e1d4ebb">_lock</a>);</div>
-<div class="line"><span class="lineno">  153</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/d54/a05418.html#a55ced2abb0a6dd64554597347b61ebf1">_queue</a>.empty();</div>
-<div class="line"><span class="lineno">  154</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00029">LockedQueue&lt; T, StorageType &gt;::_lock</a>, and <a class="el" href="../../#l00033">LockedQueue&lt; T, StorageType &gt;::_queue</a>.</p>
-
-</div>
-</div>
-<a id="ac818ec56d60e2ec059857e0aaa99f8a4" name="ac818ec56d60e2ec059857e0aaa99f8a4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac818ec56d60e2ec059857e0aaa99f8a4">&#9670;&#160;</a></span>next() <span class="overload">[1/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class T , typename StorageType  = std::deque&lt;T&gt;&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool <a class="el" href="../../d9/d54/a05418.html">LockedQueue</a>&lt; T, StorageType &gt;::next </td>
-          <td>(</td>
-          <td class="paramtype">T &amp;&#160;</td>
-          <td class="paramname"><em>result</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Gets the next item in the queue and removes it. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">result</td><td>The variable where the next item will be stored. </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section return"><dt>Returns</dt><dd>true if an item was retrieved and removed, false if the queue is empty. </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">   78</span>    {</div>
-<div class="line"><span class="lineno">   79</span>        std::lock_guard&lt;std::mutex&gt; lock(<a class="code hl_variable" href="../../d9/d54/a05418.html#a64be27c5d4ab7cc4a8c559dd6e1d4ebb">_lock</a>);</div>
-<div class="line"><span class="lineno">   80</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d54/a05418.html#a55ced2abb0a6dd64554597347b61ebf1">_queue</a>.empty())</div>
-<div class="line"><span class="lineno">   81</span>        {</div>
-<div class="line"><span class="lineno">   82</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">   83</span>        }</div>
-<div class="line"><span class="lineno">   84</span> </div>
-<div class="line"><span class="lineno">   85</span>        result = std::move(<a class="code hl_variable" href="../../d9/d54/a05418.html#a55ced2abb0a6dd64554597347b61ebf1">_queue</a>.front());</div>
-<div class="line"><span class="lineno">   86</span>        <a class="code hl_variable" href="../../d9/d54/a05418.html#a55ced2abb0a6dd64554597347b61ebf1">_queue</a>.pop_front();</div>
-<div class="line"><span class="lineno">   87</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">   88</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00029">LockedQueue&lt; T, StorageType &gt;::_lock</a>, and <a class="el" href="../../#l00033">LockedQueue&lt; T, StorageType &gt;::_queue</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l01553">World::ProcessCliCommands()</a>, <a class="el" href="../../#l00055">AuctionHouseWorkerThread::ProcessSearchUpdates()</a>, <a class="el" href="../../#l00326">WorldSession::Update()</a>, <a class="el" href="../../#l00091">WorldSessionMgr::UpdateSessions()</a>, <a class="el" href="../../#l00134">World::~World()</a>, and <a class="el" href="../../#l00158">WorldSession::~WorldSession()</a>.</p>
-
-</div>
-</div>
-<a id="acaade33a01794600c72efbf389fe7664" name="acaade33a01794600c72efbf389fe7664"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acaade33a01794600c72efbf389fe7664">&#9670;&#160;</a></span>next() <span class="overload">[2/2]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class T , typename StorageType  = std::deque&lt;T&gt;&gt; </div>
-<div class="memtemplate">
-template&lt;class Checker &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool <a class="el" href="../../d9/d54/a05418.html">LockedQueue</a>&lt; T, StorageType &gt;::next </td>
-          <td>(</td>
-          <td class="paramtype">T &amp;&#160;</td>
-          <td class="paramname"><em>result</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Checker &amp;&#160;</td>
-          <td class="paramname"><em>check</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Retrieves the next item from the queue if it satisfies the provided checker. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">result</td><td>The variable where the next item will be stored. </td></tr>
-    <tr><td class="paramname">check</td><td>A checker object that will be used to validate the item. </td></tr>
-  </table>
-  </dd>
-</dl>
-<dl class="section return"><dt>Returns</dt><dd>true if an item was retrieved, checked, and removed; false otherwise. </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">   99</span>    {</div>
-<div class="line"><span class="lineno">  100</span>        std::lock_guard&lt;std::mutex&gt; lock(<a class="code hl_variable" href="../../d9/d54/a05418.html#a64be27c5d4ab7cc4a8c559dd6e1d4ebb">_lock</a>);</div>
-<div class="line"><span class="lineno">  101</span>        <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../d9/d54/a05418.html#a55ced2abb0a6dd64554597347b61ebf1">_queue</a>.empty())</div>
-<div class="line"><span class="lineno">  102</span>        {</div>
-<div class="line"><span class="lineno">  103</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  104</span>        }</div>
-<div class="line"><span class="lineno">  105</span> </div>
-<div class="line"><span class="lineno">  106</span>        result = std::move(<a class="code hl_variable" href="../../d9/d54/a05418.html#a55ced2abb0a6dd64554597347b61ebf1">_queue</a>.front());</div>
-<div class="line"><span class="lineno">  107</span>        <span class="keywordflow">if</span> (!check.Process(result))</div>
-<div class="line"><span class="lineno">  108</span>        {</div>
-<div class="line"><span class="lineno">  109</span>            <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  110</span>        }</div>
-<div class="line"><span class="lineno">  111</span> </div>
-<div class="line"><span class="lineno">  112</span>        <a class="code hl_variable" href="../../d9/d54/a05418.html#a55ced2abb0a6dd64554597347b61ebf1">_queue</a>.pop_front();</div>
-<div class="line"><span class="lineno">  113</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  114</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00029">LockedQueue&lt; T, StorageType &gt;::_lock</a>, and <a class="el" href="../../#l00033">LockedQueue&lt; T, StorageType &gt;::_queue</a>.</p>
-
-</div>
-</div>
-<a id="af1de22fd872bb07a5ad42779d2ddbac3" name="af1de22fd872bb07a5ad42779d2ddbac3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af1de22fd872bb07a5ad42779d2ddbac3">&#9670;&#160;</a></span>peek()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class T , typename StorageType  = std::deque&lt;T&gt;&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">T &amp; <a class="el" href="../../d9/d54/a05418.html">LockedQueue</a>&lt; T, StorageType &gt;::peek </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Peeks at the top of the queue without removing it. </p>
-<dl class="section return"><dt>Returns</dt><dd>A reference to the item at the front of the queue, assuming there's an item in the queue (as per previous implementation) </dd></dl>
-<div class="fragment"><div class="line"><span class="lineno">  122</span>    {</div>
-<div class="line"><span class="lineno">  123</span>        std::lock_guard&lt;std::mutex&gt; lock(<a class="code hl_variable" href="../../d9/d54/a05418.html#a64be27c5d4ab7cc4a8c559dd6e1d4ebb">_lock</a>);</div>
-<div class="line"><span class="lineno">  124</span>        <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d9/d54/a05418.html#a55ced2abb0a6dd64554597347b61ebf1">_queue</a>.front();</div>
-<div class="line"><span class="lineno">  125</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00029">LockedQueue&lt; T, StorageType &gt;::_lock</a>, and <a class="el" href="../../#l00033">LockedQueue&lt; T, StorageType &gt;::_queue</a>.</p>
-
-</div>
-</div>
-<a id="aa57d3a3964071fd3e0ba6b7840041c65" name="aa57d3a3964071fd3e0ba6b7840041c65"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa57d3a3964071fd3e0ba6b7840041c65">&#9670;&#160;</a></span>pop_front()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class T , typename StorageType  = std::deque&lt;T&gt;&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../d9/d54/a05418.html">LockedQueue</a>&lt; T, StorageType &gt;::pop_front </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Removes the item at the front of the queue. </p>
-<div class="fragment"><div class="line"><span class="lineno">  160</span>    {</div>
-<div class="line"><span class="lineno">  161</span>        std::lock_guard&lt;std::mutex&gt; lock(<a class="code hl_variable" href="../../d9/d54/a05418.html#a64be27c5d4ab7cc4a8c559dd6e1d4ebb">_lock</a>);</div>
-<div class="line"><span class="lineno">  162</span>        <a class="code hl_variable" href="../../d9/d54/a05418.html#a55ced2abb0a6dd64554597347b61ebf1">_queue</a>.pop_front();</div>
-<div class="line"><span class="lineno">  163</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00029">LockedQueue&lt; T, StorageType &gt;::_lock</a>, and <a class="el" href="../../#l00033">LockedQueue&lt; T, StorageType &gt;::_queue</a>.</p>
-
-</div>
-</div>
-<a id="a4eb9aea8b399a2acc2dd893e83d16120" name="a4eb9aea8b399a2acc2dd893e83d16120"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4eb9aea8b399a2acc2dd893e83d16120">&#9670;&#160;</a></span>readd()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class T , typename StorageType  = std::deque&lt;T&gt;&gt; </div>
-<div class="memtemplate">
-template&lt;class Iterator &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../d9/d54/a05418.html">LockedQueue</a>&lt; T, StorageType &gt;::readd </td>
-          <td>(</td>
-          <td class="paramtype">Iterator&#160;</td>
-          <td class="paramname"><em>begin</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Iterator&#160;</td>
-          <td class="paramname"><em>end</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Adds a range of items to the front of the queue. </p>
-<dl class="params"><dt>Parameters</dt><dd>
-  <table class="params">
-    <tr><td class="paramname">begin</td><td>Iterator pointing to the beginning of the range of items to be added. </td></tr>
-    <tr><td class="paramname">end</td><td>Iterator pointing to the end of the range of items to be added. </td></tr>
-  </table>
-  </dd>
-</dl>
-<div class="fragment"><div class="line"><span class="lineno">   66</span>    {</div>
-<div class="line"><span class="lineno">   67</span>        std::lock_guard&lt;std::mutex&gt; lock(<a class="code hl_variable" href="../../d9/d54/a05418.html#a64be27c5d4ab7cc4a8c559dd6e1d4ebb">_lock</a>);</div>
-<div class="line"><span class="lineno">   68</span>        <a class="code hl_variable" href="../../d9/d54/a05418.html#a55ced2abb0a6dd64554597347b61ebf1">_queue</a>.insert(<a class="code hl_variable" href="../../d9/d54/a05418.html#a55ced2abb0a6dd64554597347b61ebf1">_queue</a>.begin(), begin, end);</div>
-<div class="line"><span class="lineno">   69</span>    }</div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00029">LockedQueue&lt; T, StorageType &gt;::_lock</a>, and <a class="el" href="../../#l00033">LockedQueue&lt; T, StorageType &gt;::_queue</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00326">WorldSession::Update()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00036">logger</a>, <a class="el" href="../../#l00037">msg</a>, and <a class="el" href="../../#l00049">Logger::write()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a175454f5bf20f3a312d83e2dd5fc5d7c" name="a175454f5bf20f3a312d83e2dd5fc5d7c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a175454f5bf20f3a312d83e2dd5fc5d7c">&#9670;&#160;</a></span>_canceled</h2>
+<a id="af1d8611d116a3575e59a99e8cba5fc84" name="af1d8611d116a3575e59a99e8cba5fc84"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af1d8611d116a3575e59a99e8cba5fc84">&#9670;&#160;</a></span>logger</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class T , typename StorageType  = std::deque&lt;T&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::atomic&lt;bool&gt; <a class="el" href="../../d9/d54/a05418.html">LockedQueue</a>&lt; T, StorageType &gt;::_canceled {false}</td>
+          <td class="memname"><a class="el" href="../../d3/d53/a05410.html">Logger</a> const* LogOperation::logger</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p>Flag indicating if the queue is canceled. </p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00130">LockedQueue&lt; T, StorageType &gt;::cancel()</a>, and <a class="el" href="../../#l00140">LockedQueue&lt; T, StorageType &gt;::cancelled()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00030">call()</a>.</p>
 
 </div>
 </div>
-<a id="a64be27c5d4ab7cc4a8c559dd6e1d4ebb" name="a64be27c5d4ab7cc4a8c559dd6e1d4ebb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a64be27c5d4ab7cc4a8c559dd6e1d4ebb">&#9670;&#160;</a></span>_lock</h2>
+<a id="a665effc48367f396f3e714f5d3d56d75" name="a665effc48367f396f3e714f5d3d56d75"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a665effc48367f396f3e714f5d3d56d75">&#9670;&#160;</a></span>msg</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;class T , typename StorageType  = std::deque&lt;T&gt;&gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::mutex <a class="el" href="../../d9/d54/a05418.html">LockedQueue</a>&lt; T, StorageType &gt;::_lock</td>
+          <td class="memname">std::unique_ptr&lt;<a class="el" href="../../dd/d15/a05414.html">LogMessage</a>&gt; LogOperation::msg</td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">mutable</span><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
 
-<p>Mutex to protect access to the queue. </p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00052">LockedQueue&lt; T, StorageType &gt;::add()</a>, <a class="el" href="../../#l00150">LockedQueue&lt; T, StorageType &gt;::empty()</a>, <a class="el" href="../../#l00077">LockedQueue&lt; T, StorageType &gt;::next()</a>, <a class="el" href="../../#l00121">LockedQueue&lt; T, StorageType &gt;::peek()</a>, <a class="el" href="../../#l00159">LockedQueue&lt; T, StorageType &gt;::pop_front()</a>, and <a class="el" href="../../#l00065">LockedQueue&lt; T, StorageType &gt;::readd()</a>.</p>
-
-</div>
-</div>
-<a id="a55ced2abb0a6dd64554597347b61ebf1" name="a55ced2abb0a6dd64554597347b61ebf1"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a55ced2abb0a6dd64554597347b61ebf1">&#9670;&#160;</a></span>_queue</h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class T , typename StorageType  = std::deque&lt;T&gt;&gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">StorageType <a class="el" href="../../d9/d54/a05418.html">LockedQueue</a>&lt; T, StorageType &gt;::_queue</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p>Storage container for the queue. </p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00052">LockedQueue&lt; T, StorageType &gt;::add()</a>, <a class="el" href="../../#l00150">LockedQueue&lt; T, StorageType &gt;::empty()</a>, <a class="el" href="../../#l00077">LockedQueue&lt; T, StorageType &gt;::next()</a>, <a class="el" href="../../#l00121">LockedQueue&lt; T, StorageType &gt;::peek()</a>, <a class="el" href="../../#l00159">LockedQueue&lt; T, StorageType &gt;::pop_front()</a>, and <a class="el" href="../../#l00065">LockedQueue&lt; T, StorageType &gt;::readd()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00030">call()</a>.</p>
 
 </div>
 </div>
@@ -716,8 +263,8 @@ template&lt;class T , typename StorageType  = std::deque&lt;T&gt;&gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d9/d54/a05418.html">LockedQueue</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:45:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d9/d54/a05418.html">LogOperation</a></li>
+    <li class="footer">Generated on Mon Dec 1 2025 20:47:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

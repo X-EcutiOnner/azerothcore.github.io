@@ -1,7 +1,12 @@
 var a24722 =
 [
-    [ "HandleProc", "d7/d9e/a24722.html#ab00bbdd8580426a621abc11c4308bdc4", null ],
-    [ "PrepareAuraScript", "d7/d9e/a24722.html#a2840931b939b95e6a476c07f08ca66b5", null ],
-    [ "Register", "d7/d9e/a24722.html#ae769fddc14aed4d1055d2f947d292fcf", null ],
-    [ "lastChargeUsedTime", "d7/d9e/a24722.html#a69e1d242b6d4bfc752e7e0921aa0f90c", null ]
+    [ "CheckTarget", "d7/d9e/a24722.html#a731aa2c0a2b67b8a15cab72ea2cb961a", null ],
+    [ "CheckTargets", "d7/d9e/a24722.html#a3b5bbef0c43a600387235822f3c6dbc7", null ],
+    [ "HandleCorpseExplosion", "d7/d9e/a24722.html#a201de2ee86d0cf954117df0e5343ee69", null ],
+    [ "HandleDamage", "d7/d9e/a24722.html#a810fc65eb5d7160366d63210bad9caea", null ],
+    [ "Load", "d7/d9e/a24722.html#a00b45e2f466de39c95251c2a38f6c3bd", null ],
+    [ "PrepareSpellScript", "d7/d9e/a24722.html#a4cae1673a840d8ec0d727b881a3616cf", null ],
+    [ "Register", "d7/d9e/a24722.html#a9e67ea51300569a0e163cb3e427b086e", null ],
+    [ "Validate", "d7/d9e/a24722.html#a93984e8b831cb4c37ec2726d44532d43", null ],
+    [ "_target", "d7/d9e/a24722.html#a5028b9d3166270b2b0557943e962eade", null ]
 ];

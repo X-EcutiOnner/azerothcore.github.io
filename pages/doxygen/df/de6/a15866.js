@@ -1,7 +1,7 @@
 var a15866 =
 [
-    [ "npc_paoka_swiftmountainAI", "d4/d2f/a15870.html", "d4/d2f/a15870" ],
-    [ "npc_paoka_swiftmountain", "df/de6/a15866.html#abb3f6fab7cca158c2e139159430f880a", null ],
-    [ "GetAI", "df/de6/a15866.html#a3f41d2caae5acb4b79bcc75780db03d2", null ],
-    [ "OnQuestAccept", "df/de6/a15866.html#a5bd4442350daf5a19bee1037a1b4d7b3", null ]
+    [ "npc_paoka_swiftmountainAI", "df/de6/a15866.html#a92a229f76de3bc46ae14910439db0004", null ],
+    [ "DoSpawnWyvern", "df/de6/a15866.html#a7997a3d398db82c205e3a8af77ac1684", null ],
+    [ "Reset", "df/de6/a15866.html#acae0427957aba04a54e6001823bc7eb4", null ],
+    [ "WaypointReached", "df/de6/a15866.html#a262781c90fe1b5a5af2c6f94e4cc52e2", null ]
 ];

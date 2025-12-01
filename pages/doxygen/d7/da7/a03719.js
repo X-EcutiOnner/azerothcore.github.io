@@ -1,9 +1,9 @@
 var a03719 =
 [
-    [ "boss_pyroguard_emberseer", "da/d4f/a12264.html", "da/d4f/a12264" ],
-    [ "boss_pyroguard_emberseer::boss_pyroguard_emberseerAI", "d9/d82/a12268.html", "d9/d82/a12268" ],
-    [ "npc_blackhand_incarcerator", "d1/da9/a12272.html", "d1/da9/a12272" ],
-    [ "npc_blackhand_incarcerator::npc_blackhand_incarceratorAI", "d4/d14/a12276.html", "d4/d14/a12276" ],
+    [ "boss_pyroguard_emberseer", "dd/dec/a12270.html", "dd/dec/a12270" ],
+    [ "boss_pyroguard_emberseer::boss_pyroguard_emberseerAI", "d5/d3c/a12274.html", "d5/d3c/a12274" ],
+    [ "npc_blackhand_incarcerator", "d0/d48/a12278.html", "d0/d48/a12278" ],
+    [ "npc_blackhand_incarcerator::npc_blackhand_incarceratorAI", "de/db5/a12282.html", "de/db5/a12282" ],
     [ "Events", "d7/da7/a03719.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

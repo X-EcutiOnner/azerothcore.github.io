@@ -1,6 +1,6 @@
 var a24346 =
 [
-    [ "HandleEffectRemove", "da/d0b/a24346.html#a2e73fd55dd7e6e658bc6c6623b650732", null ],
-    [ "PrepareAuraScript", "da/d0b/a24346.html#a9aabae3a6c57be9b17394d4a39fe24ec", null ],
-    [ "Register", "da/d0b/a24346.html#ac02217c103db141d75377e233e1e4242", null ]
+    [ "npc_drake_dealer_hurlunk", "da/d0b/a24346.html#ae6d095365d23c30d5b772b047b459ddb", null ],
+    [ "OnGossipHello", "da/d0b/a24346.html#ad04b7f906f029d9935e29c585b0de421", null ],
+    [ "OnGossipSelect", "da/d0b/a24346.html#aa23833dcdefb909899120c25d5376111", null ]
 ];

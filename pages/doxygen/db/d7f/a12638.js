@@ -1,6 +1,7 @@
 var a12638 =
 [
-    [ "boss_shazzrahAI", "db/d7f/a12638.html#a984b3d32d5f231a019f2c0f1bb027907", null ],
-    [ "ExecuteEvent", "db/d7f/a12638.html#a0f6e3e6876b9b769ea53db5c9028c6ff", null ],
-    [ "JustEngagedWith", "db/d7f/a12638.html#aaa8111d42cacd58f767513026976668c", null ]
+    [ "HandleDummy", "db/d7f/a12638.html#acbf0fa3d73de0cec47928fc0dda0c724", null ],
+    [ "PrepareSpellScript", "db/d7f/a12638.html#a76d395449ed9fb26914aa9ff0488f1be", null ],
+    [ "Register", "db/d7f/a12638.html#a7d094ce258e3dc28cc30d5fb644d5a1e", null ],
+    [ "Validate", "db/d7f/a12638.html#a24447c4367d8e8713ba7d05ea53681ee", null ]
 ];

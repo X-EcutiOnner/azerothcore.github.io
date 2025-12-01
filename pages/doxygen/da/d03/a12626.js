@@ -1,7 +1,6 @@
 var a12626 =
 [
-    [ "HandleScript", "da/d03/a12626.html#ac09c2c6b997c2a5fc0bee0ba0ea185ae", null ],
-    [ "PrepareSpellScript", "da/d03/a12626.html#ad3c052a9bd00d04c954f85218dcfcb0a", null ],
-    [ "Register", "da/d03/a12626.html#a8658c2c7e32a66e4a1bcc048406653bb", null ],
-    [ "Validate", "da/d03/a12626.html#aa03795d909e24dfe2ccd12e431b2575e", null ]
+    [ "boss_lucifronAI", "da/d03/a12626.html#ab93792bd7798b9ee9cf869fa20190554", null ],
+    [ "ExecuteEvent", "da/d03/a12626.html#a0ba286f037c07032488d6763daeaf130", null ],
+    [ "JustEngagedWith", "da/d03/a12626.html#aba3256ec99e56e3051045391fceedc7f", null ]
 ];

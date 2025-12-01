@@ -1,13 +1,15 @@
 var a08186 =
 [
-    [ "AnimationInfo", "d1/d41/a08186.html#aa443028e95ae416e09f1acfef0575803", null ],
-    [ "Building", "d1/d41/a08186.html#a4e0db5725de95765e8eb9e4c7b612f52", null ],
-    [ "CapturePoint", "d1/d41/a08186.html#a2e3c013200ddb2d1ed715cbe782f3f34", null ],
-    [ "FishingHole", "d1/d41/a08186.html#a7189213e185263aea30075db9816c1c8", null ],
-    [ "Health", "d1/d41/a08186.html#af70b72663064c9c4b88c93a824f1e14b", null ],
-    [ "MaxHealth", "d1/d41/a08186.html#ab606f11596c1dd3d1cf7588346338721", null ],
-    [ "MaxOpens", "d1/d41/a08186.html#a07ed76d692ae0af008e2373f3f9fd3e9", null ],
-    [ "OPvPObj", "d1/d41/a08186.html#a565624b690fa7fabf21b175548765652", null ],
-    [ "PathProgress", "d1/d41/a08186.html#a9e07a147b2be08a78f052e0cdb817111", null ],
-    [ "Transport", "d1/d41/a08186.html#a7fcf7bf357ba769b28bf031beff95507", null ]
+    [ "Guardian", "d1/d41/a08186.html#a14bd59fddfc552c4a25c6bc4ad714508", null ],
+    [ "GetDebugInfo", "d1/d41/a08186.html#ace47e7d3fb3162786329cbcf1c6cab46", null ],
+    [ "InitStats", "d1/d41/a08186.html#a698ac009e39a2e8461b40135b75609ef", null ],
+    [ "InitStatsForLevel", "d1/d41/a08186.html#a7d0ae55d55f4c3ea35de601c2c6c6e6b", null ],
+    [ "InitSummon", "d1/d41/a08186.html#a1d5ebfa5ac5754293172041dc3a2c47d", null ],
+    [ "UpdateAllStats", "d1/d41/a08186.html#ae2f3d68429afb154f790d65dae6406b3", null ],
+    [ "UpdateArmor", "d1/d41/a08186.html#adc8ed8497f8450ccad92f79322d9f452", null ],
+    [ "UpdateAttackPowerAndDamage", "d1/d41/a08186.html#af40269c3c63fc12b21f18c67ef067a0f", null ],
+    [ "UpdateDamagePhysical", "d1/d41/a08186.html#aa45ffb532a2a8075d8e4acb818c08d70", null ],
+    [ "UpdateMaxHealth", "d1/d41/a08186.html#a62c41f7922bc1c2e1697a1eea65cdb72", null ],
+    [ "UpdateMaxPower", "d1/d41/a08186.html#a620010832de5fc7d6d1a8545321f9dea", null ],
+    [ "UpdateStats", "d1/d41/a08186.html#a6b615ed2f01623991fa45907a09cc642", null ]
 ];

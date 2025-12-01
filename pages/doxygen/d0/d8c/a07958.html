@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: lfg::LfgJoinResultData Struct Reference</title>
+<title>AzerothCore: M2Camera Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,117 +105,168 @@ $(document).ready(function(){initNavTree('d0/d8c/a07958.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d6/d79/a07955.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">lfg::LfgJoinResultData Struct Reference</div></div>
+  <div class="headertitle"><div class="title">M2Camera Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">LFGMgr.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">M2Structure.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
-Public Member Functions</h2></td></tr>
-<tr class="memitem:a1d711d49a6b49f55eb3771352b294b95"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8c/a07958.html#a1d711d49a6b49f55eb3771352b294b95">LfgJoinResultData</a> (<a class="el" href="../../d4/d72/a04841.html#af65dbea5eebf3cd1cd16595508fd18eb">LfgJoinResult</a> _result=<a class="el" href="../../d4/d72/a04841.html#af65dbea5eebf3cd1cd16595508fd18ebad97a0cd2df6a43cecd1bbc717c08ac16">LFG_JOIN_OK</a>, <a class="el" href="../../d4/d72/a04841.html#a9596c400ddbfa4a0eadda14c0be342ed">LfgRoleCheckState</a> _state=<a class="el" href="../../d4/d72/a04841.html#a9596c400ddbfa4a0eadda14c0be342eda7af5d6177f5a366540db6af65ff74658">LFG_ROLECHECK_DEFAULT</a>)</td></tr>
-<tr class="separator:a1d711d49a6b49f55eb3771352b294b95"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:aa713cbc1930962d520883523f6f6446c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d72/a04841.html#af65dbea5eebf3cd1cd16595508fd18eb">LfgJoinResult</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8c/a07958.html#aa713cbc1930962d520883523f6f6446c">result</a></td></tr>
-<tr class="separator:aa713cbc1930962d520883523f6f6446c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2eee5e81651a7a9be245e4b717ab53ed"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d72/a04841.html#a9596c400ddbfa4a0eadda14c0be342ed">LfgRoleCheckState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8c/a07958.html#a2eee5e81651a7a9be245e4b717ab53ed">state</a></td></tr>
-<tr class="separator:a2eee5e81651a7a9be245e4b717ab53ed"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aff918b3c02ca76982a964402175f8ad7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d4/d72/a04841.html#ad2856c4b4e624c3f15d89ccae35370c9">LfgLockPartyMap</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8c/a07958.html#aff918b3c02ca76982a964402175f8ad7">lockmap</a></td></tr>
-<tr class="separator:aff918b3c02ca76982a964402175f8ad7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afd67c926b538e189b036d88a9a277a2f"><td class="memItemLeft" align="right" valign="top">uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8c/a07958.html#afd67c926b538e189b036d88a9a277a2f">type</a></td></tr>
+<tr class="separator:afd67c926b538e189b036d88a9a277a2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae553ef5e28cc3af3acd45b9efd309fbe"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8c/a07958.html#ae553ef5e28cc3af3acd45b9efd309fbe">fov</a></td></tr>
+<tr class="separator:ae553ef5e28cc3af3acd45b9efd309fbe"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af70a06bda2dffbf2d3c49cb696beea2f"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8c/a07958.html#af70a06bda2dffbf2d3c49cb696beea2f">far_clip</a></td></tr>
+<tr class="separator:af70a06bda2dffbf2d3c49cb696beea2f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9426497de885b901d364c0b3ddd487d9"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8c/a07958.html#a9426497de885b901d364c0b3ddd487d9">near_clip</a></td></tr>
+<tr class="separator:a9426497de885b901d364c0b3ddd487d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5d23816339fea0ac1e2c6fdad5fe58d8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/de1/a07954.html">M2Track</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8c/a07958.html#a5d23816339fea0ac1e2c6fdad5fe58d8">positions</a></td></tr>
+<tr class="separator:a5d23816339fea0ac1e2c6fdad5fe58d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abf0892be5ecf6d1e1021e101832396f3"><td class="memItemLeft" align="right" valign="top">G3D::Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8c/a07958.html#abf0892be5ecf6d1e1021e101832396f3">position_base</a></td></tr>
+<tr class="separator:abf0892be5ecf6d1e1021e101832396f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a12132e4bcc881cab134851938c45e05a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/de1/a07954.html">M2Track</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8c/a07958.html#a12132e4bcc881cab134851938c45e05a">target_positions</a></td></tr>
+<tr class="separator:a12132e4bcc881cab134851938c45e05a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2515ee6fa2fc41f7fca531b55cf0dc61"><td class="memItemLeft" align="right" valign="top">G3D::Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8c/a07958.html#a2515ee6fa2fc41f7fca531b55cf0dc61">target_position_base</a></td></tr>
+<tr class="separator:a2515ee6fa2fc41f7fca531b55cf0dc61"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad3428dcc0b93e509c9225fa86ea2d691"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/de1/a07954.html">M2Track</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d8c/a07958.html#ad3428dcc0b93e509c9225fa86ea2d691">rolldata</a></td></tr>
+<tr class="separator:ad3428dcc0b93e509c9225fa86ea2d691"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a1d711d49a6b49f55eb3771352b294b95" name="a1d711d49a6b49f55eb3771352b294b95"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1d711d49a6b49f55eb3771352b294b95">&#9670;&#160;</a></span>LfgJoinResultData()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">lfg::LfgJoinResultData::LfgJoinResultData </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d4/d72/a04841.html#af65dbea5eebf3cd1cd16595508fd18eb">LfgJoinResult</a>&#160;</td>
-          <td class="paramname"><em>_result</em> = <code><a class="el" href="../../d4/d72/a04841.html#af65dbea5eebf3cd1cd16595508fd18ebad97a0cd2df6a43cecd1bbc717c08ac16">LFG_JOIN_OK</a></code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d4/d72/a04841.html#a9596c400ddbfa4a0eadda14c0be342ed">LfgRoleCheckState</a>&#160;</td>
-          <td class="paramname"><em>_state</em> = <code><a class="el" href="../../d4/d72/a04841.html#a9596c400ddbfa4a0eadda14c0be342eda7af5d6177f5a366540db6af65ff74658">LFG_ROLECHECK_DEFAULT</a></code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  281</span>                                                                                                                :</div>
-<div class="line"><span class="lineno">  282</span>            <a class="code hl_variable" href="../../d0/d8c/a07958.html#aa713cbc1930962d520883523f6f6446c">result</a>(_result), <a class="code hl_variable" href="../../d0/d8c/a07958.html#a2eee5e81651a7a9be245e4b717ab53ed">state</a>(_state) {}</div>
-<div class="ttc" id="aa07958_html_a2eee5e81651a7a9be245e4b717ab53ed"><div class="ttname"><a href="../../d0/d8c/a07958.html#a2eee5e81651a7a9be245e4b717ab53ed">lfg::LfgJoinResultData::state</a></div><div class="ttdeci">LfgRoleCheckState state</div><div class="ttdef"><b>Definition:</b> LFGMgr.h:284</div></div>
-<div class="ttc" id="aa07958_html_aa713cbc1930962d520883523f6f6446c"><div class="ttname"><a href="../../d0/d8c/a07958.html#aa713cbc1930962d520883523f6f6446c">lfg::LfgJoinResultData::result</a></div><div class="ttdeci">LfgJoinResult result</div><div class="ttdef"><b>Definition:</b> LFGMgr.h:283</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Member Data Documentation</h2>
-<a id="aff918b3c02ca76982a964402175f8ad7" name="aff918b3c02ca76982a964402175f8ad7"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aff918b3c02ca76982a964402175f8ad7">&#9670;&#160;</a></span>lockmap</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="af70a06bda2dffbf2d3c49cb696beea2f" name="af70a06bda2dffbf2d3c49cb696beea2f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af70a06bda2dffbf2d3c49cb696beea2f">&#9670;&#160;</a></span>far_clip</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d4/d72/a04841.html#ad2856c4b4e624c3f15d89ccae35370c9">LfgLockPartyMap</a> lfg::LfgJoinResultData::lockmap</td>
+          <td class="memname">float M2Camera::far_clip</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00512">lfg::LFGMgr::JoinLfg()</a>, and <a class="el" href="../../#l00437">WorldSession::SendLfgJoinResult()</a>.</p>
-
 </div>
 </div>
-<a id="aa713cbc1930962d520883523f6f6446c" name="aa713cbc1930962d520883523f6f6446c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa713cbc1930962d520883523f6f6446c">&#9670;&#160;</a></span>result</h2>
+<a id="ae553ef5e28cc3af3acd45b9efd309fbe" name="ae553ef5e28cc3af3acd45b9efd309fbe"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae553ef5e28cc3af3acd45b9efd309fbe">&#9670;&#160;</a></span>fov</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d4/d72/a04841.html#af65dbea5eebf3cd1cd16595508fd18eb">LfgJoinResult</a> lfg::LfgJoinResultData::result</td>
+          <td class="memname">float M2Camera::fov</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00512">lfg::LFGMgr::JoinLfg()</a>, and <a class="el" href="../../#l00437">WorldSession::SendLfgJoinResult()</a>.</p>
-
 </div>
 </div>
-<a id="a2eee5e81651a7a9be245e4b717ab53ed" name="a2eee5e81651a7a9be245e4b717ab53ed"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2eee5e81651a7a9be245e4b717ab53ed">&#9670;&#160;</a></span>state</h2>
+<a id="a9426497de885b901d364c0b3ddd487d9" name="a9426497de885b901d364c0b3ddd487d9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9426497de885b901d364c0b3ddd487d9">&#9670;&#160;</a></span>near_clip</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d4/d72/a04841.html#a9596c400ddbfa4a0eadda14c0be342ed">LfgRoleCheckState</a> lfg::LfgJoinResultData::state</td>
+          <td class="memname">float M2Camera::near_clip</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00437">WorldSession::SendLfgJoinResult()</a>.</p>
+</div>
+</div>
+<a id="abf0892be5ecf6d1e1021e101832396f3" name="abf0892be5ecf6d1e1021e101832396f3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abf0892be5ecf6d1e1021e101832396f3">&#9670;&#160;</a></span>position_base</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">G3D::Vector3 M2Camera::position_base</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00050">readCamera()</a>.</p>
+
+</div>
+</div>
+<a id="a5d23816339fea0ac1e2c6fdad5fe58d8" name="a5d23816339fea0ac1e2c6fdad5fe58d8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5d23816339fea0ac1e2c6fdad5fe58d8">&#9670;&#160;</a></span>positions</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/de1/a07954.html">M2Track</a> M2Camera::positions</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00050">readCamera()</a>.</p>
+
+</div>
+</div>
+<a id="ad3428dcc0b93e509c9225fa86ea2d691" name="ad3428dcc0b93e509c9225fa86ea2d691"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad3428dcc0b93e509c9225fa86ea2d691">&#9670;&#160;</a></span>rolldata</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/de1/a07954.html">M2Track</a> M2Camera::rolldata</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a2515ee6fa2fc41f7fca531b55cf0dc61" name="a2515ee6fa2fc41f7fca531b55cf0dc61"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2515ee6fa2fc41f7fca531b55cf0dc61">&#9670;&#160;</a></span>target_position_base</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">G3D::Vector3 M2Camera::target_position_base</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00050">readCamera()</a>.</p>
+
+</div>
+</div>
+<a id="a12132e4bcc881cab134851938c45e05a" name="a12132e4bcc881cab134851938c45e05a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a12132e4bcc881cab134851938c45e05a">&#9670;&#160;</a></span>target_positions</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/de1/a07954.html">M2Track</a> M2Camera::target_positions</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00050">readCamera()</a>.</p>
+
+</div>
+</div>
+<a id="afd67c926b538e189b036d88a9a277a2f" name="afd67c926b538e189b036d88a9a277a2f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afd67c926b538e189b036d88a9a277a2f">&#9670;&#160;</a></span>type</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">uint32_t M2Camera::type</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
 
 </div>
 </div>
@@ -224,8 +275,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d4/d72/a04841.html">lfg</a></li><li class="navelem"><a class="el" href="../../d0/d8c/a07958.html">LfgJoinResultData</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:46:19 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d0/d8c/a07958.html">M2Camera</a></li>
+    <li class="footer">Generated on Mon Dec 1 2025 20:47:31 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

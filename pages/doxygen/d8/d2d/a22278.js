@@ -1,9 +1,10 @@
 var a22278 =
 [
-    [ "npc_lord_areteAI", "d8/d2d/a22278.html#aebdbf8f4c2fe6948c78315e6b404119b", null ],
-    [ "InitializeAI", "d8/d2d/a22278.html#a22d0c3e2445bff2d742b28bd99f37394", null ],
-    [ "UpdateAI", "d8/d2d/a22278.html#a5cba8d4429ae191dd5b90ca5a4fe2866", null ],
-    [ "_landgrenGUID", "d8/d2d/a22278.html#ac0e3753096dfe779024acc8400791171", null ],
-    [ "_landgrenSoulGUID", "d8/d2d/a22278.html#aaa28c67691610136f0b418b30892f3cd", null ],
-    [ "events", "d8/d2d/a22278.html#ae4ec90b30320cf0aeaec4415c4125605", null ]
+    [ "npc_infra_green_bomber_genericAI", "d8/d2d/a22278.html#aed712ea3625971e059e2ecd158227287", null ],
+    [ "DamageTaken", "d8/d2d/a22278.html#a8f860368df96e430b441c8316db99c93", null ],
+    [ "GetSummoner", "d8/d2d/a22278.html#aaf7b91ce2bbf65c3f6c4bd41f04682bc", null ],
+    [ "IsSummonedBy", "d8/d2d/a22278.html#a79676717b7c6219ea74ebe5a580eab28", null ],
+    [ "SpreadFire", "d8/d2d/a22278.html#a5727c839b7dd02ea64eccce3606688d1", null ],
+    [ "UpdateAI", "d8/d2d/a22278.html#a252875777655e963965676a24c15e766", null ],
+    [ "events", "d8/d2d/a22278.html#ae8795439197b9cbfb70bbf5a672b8019", null ]
 ];

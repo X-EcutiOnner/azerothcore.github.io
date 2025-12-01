@@ -1,7 +1,7 @@
 var a19642 =
 [
-    [ "CalcDamage", "dc/d2b/a19642.html#abb2bf75cc347597b17ed5e4ccd213132", null ],
-    [ "PrepareSpellScript", "dc/d2b/a19642.html#a705a6f0c9b10dc8e7e2e6c091a3ff89c", null ],
-    [ "Register", "dc/d2b/a19642.html#a2c2b391b223ab92b6d644b739419a1d3", null ],
-    [ "Validate", "dc/d2b/a19642.html#a773c608119a84cc3f02e7b4d786f2741", null ]
+    [ "HandleProc", "dc/d2b/a19642.html#a84255cd31ebaa7c70de93d569258c709", null ],
+    [ "PrepareAuraScript", "dc/d2b/a19642.html#a8d9c8122b105b28b88c4297d3a9acf7f", null ],
+    [ "Register", "dc/d2b/a19642.html#a6bc166d2e1455537fa78c4223da17746", null ],
+    [ "Validate", "dc/d2b/a19642.html#ab38bde2ed642dcf4fda1893a131aa6fe", null ]
 ];

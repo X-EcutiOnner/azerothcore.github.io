@@ -1,8 +1,6 @@
 var a25178 =
 [
-    [ "Absorb", "df/de9/a25178.html#aecfcbafe098adddba0a73965c447558c", null ],
-    [ "Load", "df/de9/a25178.html#a1883cb4c86478359dd1ff8df25e2ec65", null ],
-    [ "PrepareAuraScript", "df/de9/a25178.html#a3a65787dd5b7c1c796b98ce79f180d4d", null ],
-    [ "Register", "df/de9/a25178.html#ab6bea7d62539841fa21fa8f3c8122707", null ],
-    [ "_limit", "df/de9/a25178.html#a5985a97749e318e3ccba4c96724d8704", null ]
+    [ "HandleScript", "df/de9/a25178.html#a913c8c461f291ccaad2f48614c0146c6", null ],
+    [ "PrepareSpellScript", "df/de9/a25178.html#a18913a7455cf3f158136f2d3bb415779", null ],
+    [ "Register", "df/de9/a25178.html#ac24208b646e95d87fbb340d7779cb7c5", null ]
 ];

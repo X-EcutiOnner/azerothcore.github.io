@@ -1,7 +1,6 @@
 var a24950 =
 [
-    [ "CalculateAmount", "db/df2/a24950.html#a2ed00d02a1685bc8b66e9cdfd430d1ad", null ],
-    [ "Load", "db/df2/a24950.html#a7ba8da2fdc3bf18cd9925b280e60affa", null ],
-    [ "PrepareAuraScript", "db/df2/a24950.html#a93df43072a344485c389160306b1fecd", null ],
-    [ "Register", "db/df2/a24950.html#a6766b6ebbba04bc595373145e4eaaa7a", null ]
+    [ "HandleAfterCast", "db/df2/a24950.html#a39572ebbeee6fe39bc4454088c622bcd", null ],
+    [ "PrepareSpellScript", "db/df2/a24950.html#a602d7c920aa73a9c3c69222854093036", null ],
+    [ "Register", "db/df2/a24950.html#addbbf508a0e1074c23ebd325dd62bbe9", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: WorldGlobals Class Reference</title>
+<title>AzerothCore: DungeonEncounter Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,64 +106,34 @@ $(document).ready(function(){initNavTree('d7/d3f/a09090.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../de/d5b/a09087.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">WorldGlobals Class Reference</div></div>
+  <div class="headertitle"><div class="title">DungeonEncounter Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">WorldGlobals.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">ObjectMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a9bd2c1a1ce11d9a50971d169a353e7f6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3f/a09090.html#a9bd2c1a1ce11d9a50971d169a353e7f6">LoadAntiDosOpcodePolicies</a> ()</td></tr>
-<tr class="separator:a9bd2c1a1ce11d9a50971d169a353e7f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9bbbc92f18c1c34c3359d0cad4299c2d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d5c/a09086.html">AntiDosOpcodePolicy</a> const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3f/a09090.html#a9bbbc92f18c1c34c3359d0cad4299c2d">GetAntiDosPolicyForOpcode</a> (<a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> opcode)</td></tr>
-<tr class="separator:a9bbbc92f18c1c34c3359d0cad4299c2d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3e48a996a47ddcc1b18aaac339457f3d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3f/a09090.html#a3e48a996a47ddcc1b18aaac339457f3d">DungeonEncounter</a> (<a class="el" href="../../dc/df0/a28350.html">DungeonEncounterEntry</a> const *_dbcEntry, <a class="el" href="../../dd/d8d/a01667.html#acea202894a6252d2df201860aa39d037">EncounterCreditType</a> _creditType, <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> _creditEntry, <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> _lastEncounterDungeon)</td></tr>
+<tr class="separator:a3e48a996a47ddcc1b18aaac339457f3d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:a859596f153aa470fa503f67092e26160"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d7/d3f/a09090.html">WorldGlobals</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3f/a09090.html#a859596f153aa470fa503f67092e26160">instance</a> ()</td></tr>
-<tr class="separator:a859596f153aa470fa503f67092e26160"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:acb7a5639f7ba378483e50aba8e93d68a"><td class="memItemLeft" align="right" valign="top">std::array&lt; std::unique_ptr&lt; <a class="el" href="../../d7/d5c/a09086.html">AntiDosOpcodePolicy</a> &gt;, <a class="el" href="../../db/d92/a04791.html#ggace1bc0a234752bc4bc96594bd955f45ca2b55e6facd0266405bb0f7e775c6f611">NUM_OPCODE_HANDLERS</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3f/a09090.html#acb7a5639f7ba378483e50aba8e93d68a">_antiDosOpcodePolicies</a></td></tr>
-<tr class="separator:acb7a5639f7ba378483e50aba8e93d68a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a262bdd0ba443739456fc14bcad83ecda"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/df0/a28350.html">DungeonEncounterEntry</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3f/a09090.html#a262bdd0ba443739456fc14bcad83ecda">dbcEntry</a></td></tr>
+<tr class="separator:a262bdd0ba443739456fc14bcad83ecda"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a66a077e193f099bb7aef363dc75672d6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dd/d8d/a01667.html#acea202894a6252d2df201860aa39d037">EncounterCreditType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3f/a09090.html#a66a077e193f099bb7aef363dc75672d6">creditType</a></td></tr>
+<tr class="separator:a66a077e193f099bb7aef363dc75672d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a700a0792973678339f33ab85e7396918"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3f/a09090.html#a700a0792973678339f33ab85e7396918">creditEntry</a></td></tr>
+<tr class="separator:a700a0792973678339f33ab85e7396918"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a67e29b891887e339dbb40515d082e781"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d3f/a09090.html#a67e29b891887e339dbb40515d082e781">lastEncounterDungeon</a></td></tr>
+<tr class="separator:a67e29b891887e339dbb40515d082e781"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="a9bbbc92f18c1c34c3359d0cad4299c2d" name="a9bbbc92f18c1c34c3359d0cad4299c2d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9bbbc92f18c1c34c3359d0cad4299c2d">&#9670;&#160;</a></span>GetAntiDosPolicyForOpcode()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d7/d5c/a09086.html">AntiDosOpcodePolicy</a> const  * WorldGlobals::GetAntiDosPolicyForOpcode </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
-          <td class="paramname"><em>opcode</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   71</span>{</div>
-<div class="line"><span class="lineno">   72</span>    <span class="keywordflow">if</span> (opcode &gt;= <a class="code hl_enumvalue" href="../../db/d92/a04791.html#ggace1bc0a234752bc4bc96594bd955f45ca2b55e6facd0266405bb0f7e775c6f611">NUM_OPCODE_HANDLERS</a>)</div>
-<div class="line"><span class="lineno">   73</span>        <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
-<div class="line"><span class="lineno">   74</span> </div>
-<div class="line"><span class="lineno">   75</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d7/d3f/a09090.html#acb7a5639f7ba378483e50aba8e93d68a">_antiDosOpcodePolicies</a>[opcode].get();</div>
-<div class="line"><span class="lineno">   76</span>}</div>
-<div class="ttc" id="aa04791_html_ggace1bc0a234752bc4bc96594bd955f45ca2b55e6facd0266405bb0f7e775c6f611"><div class="ttname"><a href="../../db/d92/a04791.html#ggace1bc0a234752bc4bc96594bd955f45ca2b55e6facd0266405bb0f7e775c6f611">NUM_OPCODE_HANDLERS</a></div><div class="ttdeci">@ NUM_OPCODE_HANDLERS</div><div class="ttdef"><b>Definition:</b> Opcodes.h:1346</div></div>
-<div class="ttc" id="aa09090_html_acb7a5639f7ba378483e50aba8e93d68a"><div class="ttname"><a href="../../d7/d3f/a09090.html#acb7a5639f7ba378483e50aba8e93d68a">WorldGlobals::_antiDosOpcodePolicies</a></div><div class="ttdeci">std::array&lt; std::unique_ptr&lt; AntiDosOpcodePolicy &gt;, NUM_OPCODE_HANDLERS &gt; _antiDosOpcodePolicies</div><div class="ttdef"><b>Definition:</b> WorldGlobals.h:39</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00039">_antiDosOpcodePolicies</a>, and <a class="el" href="../../#l01346">NUM_OPCODE_HANDLERS</a>.</p>
-
-</div>
-</div>
-<a id="a859596f153aa470fa503f67092e26160" name="a859596f153aa470fa503f67092e26160"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a859596f153aa470fa503f67092e26160">&#9670;&#160;</a></span>instance()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a3e48a996a47ddcc1b18aaac339457f3d" name="a3e48a996a47ddcc1b18aaac339457f3d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3e48a996a47ddcc1b18aaac339457f3d">&#9670;&#160;</a></span>DungeonEncounter()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -172,122 +142,111 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/d3f/a09090.html">WorldGlobals</a> * WorldGlobals::instance </td>
+          <td class="memname">DungeonEncounter::DungeonEncounter </td>
           <td>(</td>
-          <td class="paramname"></td><td>)</td>
+          <td class="paramtype"><a class="el" href="../../dc/df0/a28350.html">DungeonEncounterEntry</a> const *&#160;</td>
+          <td class="paramname"><em>_dbcEntry</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../dd/d8d/a01667.html#acea202894a6252d2df201860aa39d037">EncounterCreditType</a>&#160;</td>
+          <td class="paramname"><em>_creditType</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>_creditEntry</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
+          <td class="paramname"><em>_lastEncounterDungeon</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
-<div class="line"><span class="lineno">   26</span>    <span class="keyword">static</span> <a class="code hl_class" href="../../d7/d3f/a09090.html">WorldGlobals</a> <a class="code hl_function" href="../../d7/d3f/a09090.html#a859596f153aa470fa503f67092e26160">instance</a>;</div>
-<div class="line"><span class="lineno">   27</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_function" href="../../d7/d3f/a09090.html#a859596f153aa470fa503f67092e26160">instance</a>;</div>
-<div class="line"><span class="lineno">   28</span>}</div>
-<div class="ttc" id="aa09090_html"><div class="ttname"><a href="../../d7/d3f/a09090.html">WorldGlobals</a></div><div class="ttdef"><b>Definition:</b> WorldGlobals.h:31</div></div>
-<div class="ttc" id="aa09090_html_a859596f153aa470fa503f67092e26160"><div class="ttname"><a href="../../d7/d3f/a09090.html#a859596f153aa470fa503f67092e26160">WorldGlobals::instance</a></div><div class="ttdeci">static WorldGlobals * instance()</div><div class="ttdef"><b>Definition:</b> WorldGlobals.cpp:24</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  703</span>        : <a class="code hl_variable" href="../../d7/d3f/a09090.html#a262bdd0ba443739456fc14bcad83ecda">dbcEntry</a>(_dbcEntry), <a class="code hl_variable" href="../../d7/d3f/a09090.html#a66a077e193f099bb7aef363dc75672d6">creditType</a>(_creditType), <a class="code hl_variable" href="../../d7/d3f/a09090.html#a700a0792973678339f33ab85e7396918">creditEntry</a>(_creditEntry), <a class="code hl_variable" href="../../d7/d3f/a09090.html#a67e29b891887e339dbb40515d082e781">lastEncounterDungeon</a>(_lastEncounterDungeon) { }</div>
+<div class="ttc" id="aa09090_html_a262bdd0ba443739456fc14bcad83ecda"><div class="ttname"><a href="../../d7/d3f/a09090.html#a262bdd0ba443739456fc14bcad83ecda">DungeonEncounter::dbcEntry</a></div><div class="ttdeci">DungeonEncounterEntry const  * dbcEntry</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:705</div></div>
+<div class="ttc" id="aa09090_html_a66a077e193f099bb7aef363dc75672d6"><div class="ttname"><a href="../../d7/d3f/a09090.html#a66a077e193f099bb7aef363dc75672d6">DungeonEncounter::creditType</a></div><div class="ttdeci">EncounterCreditType creditType</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:706</div></div>
+<div class="ttc" id="aa09090_html_a67e29b891887e339dbb40515d082e781"><div class="ttname"><a href="../../d7/d3f/a09090.html#a67e29b891887e339dbb40515d082e781">DungeonEncounter::lastEncounterDungeon</a></div><div class="ttdeci">uint32 lastEncounterDungeon</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:708</div></div>
+<div class="ttc" id="aa09090_html_a700a0792973678339f33ab85e7396918"><div class="ttname"><a href="../../d7/d3f/a09090.html#a700a0792973678339f33ab85e7396918">DungeonEncounter::creditEntry</a></div><div class="ttdeci">uint32 creditEntry</div><div class="ttdef"><b>Definition:</b> ObjectMgr.h:707</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00024">instance()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00024">instance()</a>.</p>
-
-</div>
-</div>
-<a id="a9bd2c1a1ce11d9a50971d169a353e7f6" name="a9bd2c1a1ce11d9a50971d169a353e7f6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9bd2c1a1ce11d9a50971d169a353e7f6">&#9670;&#160;</a></span>LoadAntiDosOpcodePolicies()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void WorldGlobals::LoadAntiDosOpcodePolicies </td>
-          <td>(</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   31</span>{</div>
-<div class="line"><span class="lineno">   32</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> oldMSTime = <a class="code hl_function" href="../../d1/d44/a00098.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a>();</div>
-<div class="line"><span class="lineno">   33</span> </div>
-<div class="line"><span class="lineno">   34</span>    <a class="code hl_variable" href="../../d7/d3f/a09090.html#acb7a5639f7ba378483e50aba8e93d68a">_antiDosOpcodePolicies</a> = {};</div>
-<div class="line"><span class="lineno">   35</span> </div>
-<div class="line"><span class="lineno">   36</span>    <a class="code hl_typedef" href="../../de/d69/a04679.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a> result = <a class="code hl_variable" href="../../d6/d12/a04691.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a>.Query(<span class="stringliteral">&quot;SELECT Opcode, Policy, MaxAllowedCount FROM antidos_opcode_policies&quot;</span>);</div>
-<div class="line"><span class="lineno">   37</span>    <span class="keywordflow">if</span> (!result)</div>
-<div class="line"><span class="lineno">   38</span>    {</div>
-<div class="line"><span class="lineno">   39</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded 0 AntiDos Opcode Policies. DB table `antidos_opcode_policies` is empty!&quot;</span>);</div>
-<div class="line"><span class="lineno">   40</span>        <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   41</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">   42</span>    }</div>
-<div class="line"><span class="lineno">   43</span> </div>
-<div class="line"><span class="lineno">   44</span>    <a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> count = 0;</div>
-<div class="line"><span class="lineno">   45</span> </div>
-<div class="line"><span class="lineno">   46</span>    <span class="keywordflow">do</span></div>
-<div class="line"><span class="lineno">   47</span>    {</div>
-<div class="line"><span class="lineno">   48</span>        <a class="code hl_class" href="../../d7/d55/a05750.html">Field</a>* fields = result-&gt;Fetch();</div>
-<div class="line"><span class="lineno">   49</span> </div>
-<div class="line"><span class="lineno">   50</span>        <a class="code hl_typedef" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> opcode = fields[0].<a class="code hl_function" href="../../d7/d55/a05750.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;();</div>
-<div class="line"><span class="lineno">   51</span>        <span class="keywordflow">if</span> (opcode &gt;= <a class="code hl_enumvalue" href="../../db/d92/a04791.html#ggace1bc0a234752bc4bc96594bd955f45ca2b55e6facd0266405bb0f7e775c6f611">NUM_OPCODE_HANDLERS</a>)</div>
-<div class="line"><span class="lineno">   52</span>        {</div>
-<div class="line"><span class="lineno">   53</span>            <a class="code hl_define" href="../../d5/d0f/a00494.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;Unkown opcode {} in table `antidos_opcode_policies`, skipping.&quot;</span>, opcode);</div>
-<div class="line"><span class="lineno">   54</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">   55</span>        }</div>
-<div class="line"><span class="lineno">   56</span> </div>
-<div class="line"><span class="lineno">   57</span>        std::unique_ptr&lt;AntiDosOpcodePolicy&gt; policy = std::make_unique&lt;AntiDosOpcodePolicy&gt;();</div>
-<div class="line"><span class="lineno">   58</span>        policy-&gt;Policy = fields[1].<a class="code hl_function" href="../../d7/d55/a05750.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&gt;();</div>
-<div class="line"><span class="lineno">   59</span>        policy-&gt;MaxAllowedCount = fields[2].<a class="code hl_function" href="../../d7/d55/a05750.html#aae507d21d3570ffdaf1643ba02946f01">Get</a>&lt;<a class="code hl_typedef" href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt;();</div>
-<div class="line"><span class="lineno">   60</span> </div>
-<div class="line"><span class="lineno">   61</span>        <a class="code hl_variable" href="../../d7/d3f/a09090.html#acb7a5639f7ba378483e50aba8e93d68a">_antiDosOpcodePolicies</a>[opcode] = std::move(policy);</div>
-<div class="line"><span class="lineno">   62</span> </div>
-<div class="line"><span class="lineno">   63</span>        ++count;</div>
-<div class="line"><span class="lineno">   64</span>    } <span class="keywordflow">while</span> (result-&gt;NextRow());</div>
-<div class="line"><span class="lineno">   65</span> </div>
-<div class="line"><span class="lineno">   66</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot;&gt;&gt; Loaded {} AntiDos Opcode Policies in {} ms&quot;</span>, count, <a class="code hl_function" href="../../d1/d44/a00098.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a>(oldMSTime));</div>
-<div class="line"><span class="lineno">   67</span>    <a class="code hl_define" href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a>(<span class="stringliteral">&quot;server.loading&quot;</span>, <span class="stringliteral">&quot; &quot;</span>);</div>
-<div class="line"><span class="lineno">   68</span>}</div>
-<div class="ttc" id="aa00098_html_a23a2c8663a05f2b03a6f85501972e8c0"><div class="ttname"><a href="../../d1/d44/a00098.html#a23a2c8663a05f2b03a6f85501972e8c0">GetMSTimeDiffToNow</a></div><div class="ttdeci">uint32 GetMSTimeDiffToNow(uint32 oldMSTime)</div><div class="ttdef"><b>Definition:</b> Timer.h:131</div></div>
-<div class="ttc" id="aa00098_html_a4476c8e13ea790c3536f2749105f9cb9"><div class="ttname"><a href="../../d1/d44/a00098.html#a4476c8e13ea790c3536f2749105f9cb9">getMSTime</a></div><div class="ttdeci">uint32 getMSTime()</div><div class="ttdef"><b>Definition:</b> Timer.h:103</div></div>
-<div class="ttc" id="aa00302_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
-<div class="ttc" id="aa00302_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa00302_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d0/d61/a00302.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
-<div class="ttc" id="aa00494_html_a271e427d8e8481efd5cd5f537ec9e419"><div class="ttname"><a href="../../d5/d0f/a00494.html#a271e427d8e8481efd5cd5f537ec9e419">LOG_INFO</a></div><div class="ttdeci">#define LOG_INFO(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:166</div></div>
-<div class="ttc" id="aa00494_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d5/d0f/a00494.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
-<div class="ttc" id="aa00494_html_adf09840a666e1d86bcd3439105db6edc"><div class="ttname"><a href="../../d5/d0f/a00494.html#adf09840a666e1d86bcd3439105db6edc">LOG_WARN</a></div><div class="ttdeci">#define LOG_WARN(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:162</div></div>
-<div class="ttc" id="aa04679_html_ab0c9feeec448a181290fcb39565b8253"><div class="ttname"><a href="../../de/d69/a04679.html#ab0c9feeec448a181290fcb39565b8253">QueryResult</a></div><div class="ttdeci">std::shared_ptr&lt; ResultSet &gt; QueryResult</div><div class="ttdef"><b>Definition:</b> DatabaseEnvFwd.h:27</div></div>
-<div class="ttc" id="aa04691_html_afa9a6509f9913c9c7dd3081523badd7c"><div class="ttname"><a href="../../d6/d12/a04691.html#afa9a6509f9913c9c7dd3081523badd7c">WorldDatabase</a></div><div class="ttdeci">DatabaseWorkerPool&lt; WorldDatabaseConnection &gt; WorldDatabase</div><div class="ttdoc">Accessor to the world database.</div><div class="ttdef"><b>Definition:</b> DatabaseEnv.cpp:20</div></div>
-<div class="ttc" id="aa05750_html"><div class="ttname"><a href="../../d7/d55/a05750.html">Field</a></div><div class="ttdoc">Class used to access individual fields of database query result.</div><div class="ttdef"><b>Definition:</b> Field.h:98</div></div>
-<div class="ttc" id="aa05750_html_aae507d21d3570ffdaf1643ba02946f01"><div class="ttname"><a href="../../d7/d55/a05750.html#aae507d21d3570ffdaf1643ba02946f01">Field::Get</a></div><div class="ttdeci">std::enable_if_t&lt; std::is_arithmetic_v&lt; T &gt;, T &gt; Get() const</div><div class="ttdef"><b>Definition:</b> Field.h:112</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00039">_antiDosOpcodePolicies</a>, <a class="el" href="../../#l00112">Field::Get()</a>, <a class="el" href="../../#l00103">getMSTime()</a>, <a class="el" href="../../#l00131">GetMSTimeDiffToNow()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00166">LOG_INFO</a>, <a class="el" href="../../#l00162">LOG_WARN</a>, <a class="el" href="../../#l01346">NUM_OPCODE_HANDLERS</a>, and <a class="el" href="../../#l00020">WorldDatabase</a>.</p>
-
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="acb7a5639f7ba378483e50aba8e93d68a" name="acb7a5639f7ba378483e50aba8e93d68a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acb7a5639f7ba378483e50aba8e93d68a">&#9670;&#160;</a></span>_antiDosOpcodePolicies</h2>
+<a id="a700a0792973678339f33ab85e7396918" name="a700a0792973678339f33ab85e7396918"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a700a0792973678339f33ab85e7396918">&#9670;&#160;</a></span>creditEntry</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::array&lt;std::unique_ptr&lt;<a class="el" href="../../d7/d5c/a09086.html">AntiDosOpcodePolicy</a>&gt;, <a class="el" href="../../db/d92/a04791.html#ggace1bc0a234752bc4bc96594bd955f45ca2b55e6facd0266405bb0f7e775c6f611">NUM_OPCODE_HANDLERS</a>&gt; WorldGlobals::_antiDosOpcodePolicies</td>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> DungeonEncounter::creditEntry</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00070">GetAntiDosPolicyForOpcode()</a>, and <a class="el" href="../../#l00030">LoadAntiDosOpcodePolicies()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l02514">Map::UpdateEncounterState()</a>.</p>
+
+</div>
+</div>
+<a id="a66a077e193f099bb7aef363dc75672d6" name="a66a077e193f099bb7aef363dc75672d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a66a077e193f099bb7aef363dc75672d6">&#9670;&#160;</a></span>creditType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dd/d8d/a01667.html#acea202894a6252d2df201860aa39d037">EncounterCreditType</a> DungeonEncounter::creditType</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02514">Map::UpdateEncounterState()</a>.</p>
+
+</div>
+</div>
+<a id="a262bdd0ba443739456fc14bcad83ecda" name="a262bdd0ba443739456fc14bcad83ecda"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a262bdd0ba443739456fc14bcad83ecda">&#9670;&#160;</a></span>dbcEntry</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dc/df0/a28350.html">DungeonEncounterEntry</a> const* DungeonEncounter::dbcEntry</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02514">Map::UpdateEncounterState()</a>.</p>
+
+</div>
+</div>
+<a id="a67e29b891887e339dbb40515d082e781" name="a67e29b891887e339dbb40515d082e781"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a67e29b891887e339dbb40515d082e781">&#9670;&#160;</a></span>lastEncounterDungeon</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> DungeonEncounter::lastEncounterDungeon</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l02514">Map::UpdateEncounterState()</a>.</p>
 
 </div>
 </div>
@@ -296,8 +255,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d7/d3f/a09090.html">WorldGlobals</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:46:16 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d7/d3f/a09090.html">DungeonEncounter</a></li>
+    <li class="footer">Generated on Mon Dec 1 2025 20:47:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

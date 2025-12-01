@@ -1,7 +1,9 @@
 var a24414 =
 [
-    [ "o", "d4/d76/a24414.html#a3785e9b55ea3a7140086ce1f86232109", null ],
-    [ "x", "d4/d76/a24414.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
-    [ "y", "d4/d76/a24414.html#a10fbad67977d8dd3911eb629c1797684", null ],
-    [ "z", "d4/d76/a24414.html#a69fc2438e52f6c0de3af13900ff38166", null ]
+    [ "npc_korkron_or_wildhammer", "d4/d76/a24414.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
+    [ "IsSummonedBy", "d4/d76/a24414.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
+    [ "JustDied", "d4/d76/a24414.html#a2b216f372b3681b4c96a711568c2a93b", null ],
+    [ "MovementInform", "d4/d76/a24414.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
+    [ "Reset", "d4/d76/a24414.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
+    [ "_playerGUID", "d4/d76/a24414.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
 ];

@@ -1,6 +1,7 @@
 var a22266 =
 [
-    [ "npc_llod_genericAI", "dd/d1a/a22270.html", "dd/d1a/a22270" ],
-    [ "npc_llod_generic", "dc/db6/a22266.html#a97a3957c4881808facf7910e4ae4ffd4", null ],
-    [ "GetAI", "dc/db6/a22266.html#aeb2e7d9de871686e436d1e55f47085a2", null ]
+    [ "HandleDummy", "dc/db6/a22266.html#a85874062bceced2694fff725649df892", null ],
+    [ "PrepareSpellScript", "dc/db6/a22266.html#a47bae4bdc488480f91517465d8e1b784", null ],
+    [ "Register", "dc/db6/a22266.html#a7131340678ca685db98e2087661321a9", null ],
+    [ "Validate", "dc/db6/a22266.html#af1b74ceee10fc48a0b85d4a284103950", null ]
 ];

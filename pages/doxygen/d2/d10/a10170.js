@@ -1,25 +1,9 @@
 var a10170 =
 [
-    [ "OutdoorPvPMgr", "d2/d10/a10170.html#a57480bb851822adda3d106f4a842354b", null ],
-    [ "~OutdoorPvPMgr", "d2/d10/a10170.html#a47a54de2e5f8d2d95691be9f6707d1d8", null ],
-    [ "AddZone", "d2/d10/a10170.html#a2f71683200a6f780ea1365ec2934b875", null ],
-    [ "CanTalkTo", "d2/d10/a10170.html#a8020976431b2754fc73acf762ed140b1", null ],
-    [ "Die", "d2/d10/a10170.html#a60821e2ea353606552f863aed2807316", null ],
-    [ "GetOutdoorPvPToZoneId", "d2/d10/a10170.html#aa297448e0e861e9d033b2a3a5d5176bb", null ],
-    [ "GetZoneScript", "d2/d10/a10170.html#a1c4ebcc2c64d9075e2f2f85e9239e4fa", null ],
-    [ "HandleCustomSpell", "d2/d10/a10170.html#a0134ce08b64931aadf7ffac968c47521", null ],
-    [ "HandleDropFlag", "d2/d10/a10170.html#aa1e8175a9964e3fdbd7f98ef33650217", null ],
-    [ "HandleGossipOption", "d2/d10/a10170.html#aa041123e1030c23c9862b494b057d3b2", null ],
-    [ "HandleOpenGo", "d2/d10/a10170.html#a8de2d40eb24baf6f7f1597fd97202a85", null ],
-    [ "HandlePlayerEnterZone", "d2/d10/a10170.html#ac3c4b3b6df6ae7787ff7072f3f46521f", null ],
-    [ "HandlePlayerLeaveZone", "d2/d10/a10170.html#a37c292b98c44830833c15eba1d74e24d", null ],
-    [ "HandlePlayerResurrects", "d2/d10/a10170.html#ad39bacd781ddb165c680758643a54c56", null ],
-    [ "InitOutdoorPvP", "d2/d10/a10170.html#aaae2ebe275de3da1282bd48b4dfc2ae9", null ],
-    [ "instance", "d2/d10/a10170.html#a0a92945f30266985e289742c29b13ed2", null ],
-    [ "Update", "d2/d10/a10170.html#a981b6e2b6201f3b1d32ffe4b2e215a57", null ],
-    [ "_lock", "d2/d10/a10170.html#ab8f0f56d34805ccf6b7210e390b947f7", null ],
-    [ "m_OutdoorPvPDatas", "d2/d10/a10170.html#aae1d441ea9e1715154b8f630b4cd4b2c", null ],
-    [ "m_OutdoorPvPMap", "d2/d10/a10170.html#a0927b39028f4060b0125bb63fe73a53a", null ],
-    [ "m_OutdoorPvPSet", "d2/d10/a10170.html#a4dc1a3a28d95a63b2ac6e5c9310730d6", null ],
-    [ "m_UpdateTimer", "d2/d10/a10170.html#ad07d15d5bbdf9d2e67a576d61e942b40", null ]
+    [ "entry", "d2/d10/a10170.html#a63e9b557b5e712d30580376ad811ff6c", null ],
+    [ "map", "d2/d10/a10170.html#a762951c4230f0b40a59071e20852bf77", null ],
+    [ "o", "d2/d10/a10170.html#a70e425f84949f6964a33250e6e9650ef", null ],
+    [ "x", "d2/d10/a10170.html#a46b691dd3a31a59f56a4a7b36a35a982", null ],
+    [ "y", "d2/d10/a10170.html#a38be6df7cf824ed47991c9fabb6fb06b", null ],
+    [ "z", "d2/d10/a10170.html#ade7151bc8f29d91e33e7c78790d7ea55", null ]
 ];

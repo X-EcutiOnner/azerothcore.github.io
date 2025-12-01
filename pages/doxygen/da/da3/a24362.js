@@ -1,6 +1,7 @@
 var a24362 =
 [
-    [ "npc_invis_infernal_casterAI", "df/d56/a24366.html", "df/d56/a24366" ],
-    [ "npc_invis_infernal_caster", "da/da3/a24362.html#a9aed081ef904075830428bbc76f53874", null ],
-    [ "GetAI", "da/da3/a24362.html#aede0c5cc390ea423169b1cba66d929cd", null ]
+    [ "o", "da/da3/a24362.html#a3785e9b55ea3a7140086ce1f86232109", null ],
+    [ "x", "da/da3/a24362.html#ac81cc1119b7ac8ac70ee635f2e3d4bb7", null ],
+    [ "y", "da/da3/a24362.html#a10fbad67977d8dd3911eb629c1797684", null ],
+    [ "z", "da/da3/a24362.html#a69fc2438e52f6c0de3af13900ff38166", null ]
 ];

@@ -1,7 +1,7 @@
 var a22994 =
 [
-    [ "HandleOnEffectApply", "d1/d35/a22994.html#a01d6ca6f8ec21ad42445b5e581c0f79b", null ],
-    [ "HandleOnEffectRemove", "d1/d35/a22994.html#a59952b33d7c4705a6bfe7f3443bbf005", null ],
-    [ "PrepareAuraScript", "d1/d35/a22994.html#a45df29f911b1232e306e04a182648904", null ],
-    [ "Register", "d1/d35/a22994.html#a71fbf189fc116eb7d14944ff4060a9a9", null ]
+    [ "boss_veras_darkshadow", "d1/d35/a22994.html#a7b33a5c8257954951ed19a2f8ce17b95", null ],
+    [ "JustEngagedWith", "d1/d35/a22994.html#a5eec3e70a7950073eced60d680ff6298", null ],
+    [ "JustSummoned", "d1/d35/a22994.html#afd6cb716cfdebccde99d71e1eb797d33", null ],
+    [ "UpdateAI", "d1/d35/a22994.html#a21f23998e3c3ecb79cbfa3c0d778f2d5", null ]
 ];

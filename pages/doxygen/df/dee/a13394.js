@@ -1,7 +1,6 @@
 var a13394 =
 [
-    [ "OnRemove", "df/dee/a13394.html#a55460c6393c165e3096c967c81136032", null ],
-    [ "PrepareAuraScript", "df/dee/a13394.html#afd4e4483f704169e6d213ced134d4c62", null ],
-    [ "Register", "df/dee/a13394.html#a8458f77fde6eaddc273b3fe5f4e49ae0", null ],
-    [ "Validate", "df/dee/a13394.html#af580258d287f5db6103b89d3085669bc", null ]
+    [ "instance_stratholme_InstanceMapScript", "d1/ddd/a13398.html", "d1/ddd/a13398" ],
+    [ "instance_stratholme", "df/dee/a13394.html#a42ac504b2790af8c37a44e87fbd9c6c1", null ],
+    [ "GetInstanceScript", "df/dee/a13394.html#a3d3d2e773029dd1c4bc1a59a94c4e015", null ]
 ];

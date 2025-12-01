@@ -1,5 +1,10 @@
 var a12850 =
 [
-    [ "PrepareSpellScript", "d1/dc6/a12850.html#a50d6ebe961a0841e10537a434a741072", null ],
-    [ "Register", "d1/dc6/a12850.html#abc2f73133448278e0bf1bc589917dfd1", null ]
+    [ "npc_netherspite_infernal", "d1/dc6/a12850.html#af9837d7a671533523ce323c083c4e847", null ],
+    [ "DamageTaken", "d1/dc6/a12850.html#aee9b38f3590e08b16de1789576986a09", null ],
+    [ "JustEngagedWith", "d1/dc6/a12850.html#a76d8944ca2d9b2f1aa5b635ce94bacfb", null ],
+    [ "KilledUnit", "d1/dc6/a12850.html#a49c37fbebed2951c493962c1a3bd0339", null ],
+    [ "MoveInLineOfSight", "d1/dc6/a12850.html#a7ecce97cef0adda03910e87d9fd82f71", null ],
+    [ "SpellHit", "d1/dc6/a12850.html#abb6c7d0b5e231e460b069198b16106b7", null ],
+    [ "UpdateAI", "d1/dc6/a12850.html#a575040456c0eb4d343e7c0c5f75159b4", null ]
 ];

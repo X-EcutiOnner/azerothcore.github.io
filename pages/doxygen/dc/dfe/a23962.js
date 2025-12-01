@@ -1,5 +1,11 @@
 var a23962 =
 [
-    [ "modelId", "dc/dfe/a23962.html#a6a7f030a6445a46fe55640356e9c5124", null ],
-    [ "spellId", "dc/dfe/a23962.html#a6cfbffba97934cc420964f9b6d7645a3", null ]
+    [ "boss_high_astromancer_solarian", "dc/dfe/a23962.html#a2db48cc179539f81b55188de08a7e180", null ],
+    [ "AttackStart", "dc/dfe/a23962.html#acaf94134aef553447e766a5e431c8b83", null ],
+    [ "JustDied", "dc/dfe/a23962.html#a510eb2e4f0770670d6767bc2545375b7", null ],
+    [ "JustEngagedWith", "dc/dfe/a23962.html#a86cd2162187f1a81932000ca1cfb7f85", null ],
+    [ "JustSummoned", "dc/dfe/a23962.html#ac5b209a45a5a3ea2a8421706d181a827", null ],
+    [ "KilledUnit", "dc/dfe/a23962.html#a561a78193615575b7e43e0f21387f1b8", null ],
+    [ "Reset", "dc/dfe/a23962.html#a58cbb2c8a6c30855a0f9f2275338c1b5", null ],
+    [ "UpdateAI", "dc/dfe/a23962.html#a07a76c34a978c31212390cf10ed3e382", null ]
 ];

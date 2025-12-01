@@ -1,6 +1,6 @@
 var a20274 =
 [
-    [ "boss_freya_lifebinderAI", "d6/d16/a20278.html", "d6/d16/a20278" ],
-    [ "boss_freya_lifebinder", "d8/d2d/a20274.html#ad7a3bc09aacf35b4a6a39e65c966b824", null ],
-    [ "GetAI", "d8/d2d/a20274.html#a978e4472a080f0fc53848abaa305cd77", null ]
+    [ "achievement_freya_knock_on_wood", "d8/d2d/a20274.html#ae28517e151cc9ec2b25ff57513f32d29", null ],
+    [ "OnCheck", "d8/d2d/a20274.html#a07e5edf9d53d200506ab1b0d0b2eaa9e", null ],
+    [ "_elderCount", "d8/d2d/a20274.html#a5a3cc4dedbc2cc6be825579cbb0a09b5", null ]
 ];

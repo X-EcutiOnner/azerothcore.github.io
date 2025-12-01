@@ -1,5 +1,7 @@
 var a20710 =
 [
-    [ "npc_ulduar_rocket_strike_triggerAI", "dd/dac/a20710.html#a6308129d11989dadf0a5948c4a268e4b", null ],
-    [ "SpellHitTarget", "dd/dac/a20710.html#a3c254e16f62e7d2414d81062c91c2468", null ]
+    [ "npc_ulduar_expedition_commanderAI", "dd/dac/a20710.html#a100678bddd6a0e859c72035d4642d8e2", null ],
+    [ "MoveInLineOfSight", "dd/dac/a20710.html#a870bdc842d8d7078302a36a20ef661e4", null ],
+    [ "_instance", "dd/dac/a20710.html#a64d925b08f3f0ae59f5053121dbc495c", null ],
+    [ "_introSpoken", "dd/dac/a20710.html#ac6784a66111406f917ae4d07dbeb60a4", null ]
 ];

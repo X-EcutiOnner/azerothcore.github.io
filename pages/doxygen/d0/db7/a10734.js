@@ -1,6 +1,6 @@
 var a10734 =
 [
-    [ "GuildBankRemainingWithdrawMoney", "d0/db7/a10734.html#afdb4e226091e8280b4ef26bd51edebdd", null ],
-    [ "Write", "d0/db7/a10734.html#aecc28f8734a66c562c7baa1575b07ff9", null ],
-    [ "RemainingWithdrawMoney", "d0/db7/a10734.html#a015ba615ebe4ea09df8233f6a85332f4", null ]
+    [ "GuildOfficerRemoveMember", "d0/db7/a10734.html#acd0f767ff61006c7b3c78f3dbb6da558", null ],
+    [ "Read", "d0/db7/a10734.html#aa0c3cd629b73cb079cc3cf90bf6f8067", null ],
+    [ "Removee", "d0/db7/a10734.html#a18ece7d865fa1b5da005c7c03397b4e2", null ]
 ];

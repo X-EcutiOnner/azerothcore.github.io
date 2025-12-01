@@ -1,5 +1,6 @@
 var a12738 =
 [
-    [ "npc_chess_move_trigger", "de/d6c/a12738.html#a6c0c37677db45ee11ebe158893d99632", null ],
-    [ "DamageTaken", "de/d6c/a12738.html#af413c7af2254c1cc06462b2a62ac88db", null ]
+    [ "boss_mr_smiteAI", "db/d25/a12742.html", "db/d25/a12742" ],
+    [ "boss_mr_smite", "de/d6c/a12738.html#a011d41112ef7376b71d2959f806be262", null ],
+    [ "GetAI", "de/d6c/a12738.html#a619ca0aede1eb33f992328048319c4f0", null ]
 ];

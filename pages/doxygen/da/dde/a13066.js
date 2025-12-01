@@ -1,7 +1,6 @@
 var a13066 =
 [
-    [ "HandleScriptEffect", "da/dde/a13066.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
-    [ "PrepareSpellScript", "da/dde/a13066.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
-    [ "Register", "da/dde/a13066.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
-    [ "Validate", "da/dde/a13066.html#a20f7416465ba1cc04426f24037e8074e", null ]
+    [ "boss_garaxxas", "da/dde/a13066.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
+    [ "JustEngagedWith", "da/dde/a13066.html#aebfd7b63d714468ed69e920fb89c345d", null ],
+    [ "Reset", "da/dde/a13066.html#a56e6489ce49971cb066444888355626e", null ]
 ];

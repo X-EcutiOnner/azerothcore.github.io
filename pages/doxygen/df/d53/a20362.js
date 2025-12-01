@@ -1,5 +1,6 @@
 var a20362 =
 [
-    [ "achievement_shadowdodger", "df/d53/a20362.html#a8389a4972968fcc6cd7807e96ee5e527", null ],
-    [ "OnCheck", "df/d53/a20362.html#a3ee0baca0c9163a601cd4bcfa9ebeb04", null ]
+    [ "npc_ulduar_toasty_fireAI", "d8/d99/a20366.html", "d8/d99/a20366" ],
+    [ "npc_ulduar_toasty_fire", "df/d53/a20362.html#a5a5b77088b24f1c5743c58034190d5ab", null ],
+    [ "GetAI", "df/d53/a20362.html#a2518ec39c3cea2f3efc5000e0a7779d0", null ]
 ];

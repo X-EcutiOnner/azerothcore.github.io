@@ -1,8 +1,5 @@
 var a18618 =
 [
-    [ "npc_lk_wicked_spiritAI", "dc/ddd/a18618.html#a6323ddd6c0932f3d73a6de4bd3c4d5dd", null ],
-    [ "CanAIAttack", "dc/ddd/a18618.html#ae094420b1a6e134632baa0b086c806c6", null ],
-    [ "JustDied", "dc/ddd/a18618.html#adf153fab1c8639b2b5790ed418afb85d", null ],
-    [ "JustRespawned", "dc/ddd/a18618.html#a1acfbead42b66dd8f70a85efc8ce2e6f", null ],
-    [ "Reset", "dc/ddd/a18618.html#a8b15079251b6855679d738a342126006", null ]
+    [ "achievement_neck_deep_in_vile", "dc/ddd/a18618.html#af0e54c236e7637d8c1a8cf7dbed5a195", null ],
+    [ "OnCheck", "dc/ddd/a18618.html#a9861c008f302279a4ac5f4ddc14ca2d0", null ]
 ];

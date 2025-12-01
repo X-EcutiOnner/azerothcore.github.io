@@ -1,10 +1,20 @@
 var a09938 =
 [
-    [ "ID", "d1/d49/a09938.html#a3bd2bf63526b6ee4a15cf7a2244ff06b", null ],
-    [ "Map", "d1/d49/a09938.html#af4e60380e8434e5b8f573d2172ddf656", null ],
-    [ "name", "d1/d49/a09938.html#ae1dd7ba1294653756ea4af9d9b66fa2c", null ],
-    [ "wnameLow", "d1/d49/a09938.html#a148ead3270ad02213204792d6063cead", null ],
-    [ "x", "d1/d49/a09938.html#ae8f23fc9e53f6357d56b3a25ed514330", null ],
-    [ "y", "d1/d49/a09938.html#af2e239c4c76dff49090f8f1d8eb4d455", null ],
-    [ "z", "d1/d49/a09938.html#adf56d09898752230a4fa1629849ac945", null ]
+    [ "ZoneScript", "d1/d49/a09938.html#a3519b281545e348167893060c2aa352c", null ],
+    [ "~ZoneScript", "d1/d49/a09938.html#af4aa4d8f6b48d7d63fb6daa85d50c756", null ],
+    [ "GetCreatureEntry", "d1/d49/a09938.html#a8cabd274bffe18004c3fced46ae325b0", null ],
+    [ "GetData", "d1/d49/a09938.html#a8997612fdbdacbf5e28e4de60d03e805", null ],
+    [ "GetData64", "d1/d49/a09938.html#ab7aecf55fb84288840465dd69eacc8eb", null ],
+    [ "GetGameObjectEntry", "d1/d49/a09938.html#a3101d469bb171957177011fc0a76999b", null ],
+    [ "GetGuidData", "d1/d49/a09938.html#aa1483a9ca7f97cef589dd141d669cc46", null ],
+    [ "OnCreatureCreate", "d1/d49/a09938.html#ae61020e57e9ca8ae0d42a51e39b1fee0", null ],
+    [ "OnCreatureEvade", "d1/d49/a09938.html#a8113c8738b772b740dbc7a2352637669", null ],
+    [ "OnCreatureRemove", "d1/d49/a09938.html#adf80a1b08c7ab4451cd6967138727b56", null ],
+    [ "OnGameObjectCreate", "d1/d49/a09938.html#afa02089edff085ecd4eb7178b94ffe26", null ],
+    [ "OnGameObjectRemove", "d1/d49/a09938.html#a61c1ab81f65b4bfdf638eec002cb498c", null ],
+    [ "OnUnitDeath", "d1/d49/a09938.html#afaf1aecaaaac82508b8f1c50712b8204", null ],
+    [ "ProcessEvent", "d1/d49/a09938.html#ab32f7102df50af48e43f544bd107f964", null ],
+    [ "SetData", "d1/d49/a09938.html#a949e67ea24c7e4b70a20806952735576", null ],
+    [ "SetData64", "d1/d49/a09938.html#a321c2fc00f1d3d261a4887a1e74f4244", null ],
+    [ "SetGuidData", "d1/d49/a09938.html#ac465d5e7d00a7e3b935942f1627763f4", null ]
 ];

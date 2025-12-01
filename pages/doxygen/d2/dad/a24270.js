@@ -1,6 +1,5 @@
 var a24270 =
 [
-    [ "go_beaconAI", "d2/dad/a24270.html#a95f0f62d4e34da650c22a7ce796fc85f", null ],
-    [ "OnStateChanged", "d2/dad/a24270.html#a10bd78bf6c2451fe95163eb9083bdf44", null ],
-    [ "creatureList", "d2/dad/a24270.html#a8f406b85752e42cc26741aa5a13e69bc", null ]
+    [ "at_commander_dawnforge", "d2/dad/a24270.html#a1dfd7eb69ae515a59887c313001e4a4e", null ],
+    [ "OnTrigger", "d2/dad/a24270.html#acc78f4f2f9d892c02d62548e93f7f83b", null ]
 ];

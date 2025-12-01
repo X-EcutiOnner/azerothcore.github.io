@@ -1,5 +1,10 @@
 var a20718 =
 [
-    [ "achievement_mimiron_set_up_us_the_bomb_11", "d0/ddb/a20718.html#a5d8980111e029b4c9311737f3985ab61", null ],
-    [ "OnCheck", "d0/ddb/a20718.html#a7682a7f2f4417dcf75ec58e34e4fd6bc", null ]
+    [ "npc_ulduar_harpoonfirestateAI", "d0/ddb/a20718.html#acc6853671f37e35c746ffa3807ae10b2", null ],
+    [ "GetData", "d0/ddb/a20718.html#ac23f2c901ef8c2160ceea43a0a15e185", null ],
+    [ "GetHarpoonGunIdForThisHFS", "d0/ddb/a20718.html#af21c4d50febac02eb0572efe564a19b1", null ],
+    [ "Reset", "d0/ddb/a20718.html#af300a8271762fe1b5582384114902ee8", null ],
+    [ "SetData", "d0/ddb/a20718.html#abf485123f0a73aa84ad5178e23c4192e", null ],
+    [ "pInstance", "d0/ddb/a20718.html#af576864ded6610daad973ac420d2fdb8", null ],
+    [ "repairPoints", "d0/ddb/a20718.html#a5e9bcd384285b9046da93bd18804d07b", null ]
 ];

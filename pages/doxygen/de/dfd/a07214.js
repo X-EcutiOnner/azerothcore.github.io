@@ -1,9 +1,23 @@
 var a07214 =
 [
-    [ "entryAlliance", "de/dfd/a07214.html#a0e5dba26d6d335a9d1e5f40e737acddd", null ],
-    [ "entryHorde", "de/dfd/a07214.html#a374fff4b069e89489395246f378b4900", null ],
-    [ "o", "de/dfd/a07214.html#af8a4ec46795bcdbc77c76302a4cfe639", null ],
-    [ "x", "de/dfd/a07214.html#ab557bbe497fc769b390cf0799b6aaed9", null ],
-    [ "y", "de/dfd/a07214.html#a44a8f3fd8d3cac7cfe61471d8b785ad4", null ],
-    [ "z", "de/dfd/a07214.html#adebb903a00687e17d9088f5da2c97f4a", null ]
+    [ "BattlefieldMap", "de/dfd/a07214.html#aea781a60967fbc877bd1593628cdf32d", null ],
+    [ "BattlefieldSet", "de/dfd/a07214.html#a440a0f37414815a060e23ac6b79ca3c5", null ],
+    [ "BattlefieldMgr", "de/dfd/a07214.html#afaa79f63a91c6b585b4bf10dfdf60af6", null ],
+    [ "~BattlefieldMgr", "de/dfd/a07214.html#a0d5b198add5190e99a1763a168ce2895", null ],
+    [ "AddZone", "de/dfd/a07214.html#a03b1d0ef9c969283fbf9ce80842ad33c", null ],
+    [ "CanTalkTo", "de/dfd/a07214.html#a18fdd3c81b5641e296318f1113acf73f", null ],
+    [ "GetBattlefieldByBattleId", "de/dfd/a07214.html#ab99d360162cf61dfc8d53df42127fb07", null ],
+    [ "GetBattlefieldToZoneId", "de/dfd/a07214.html#aad6dcd56b45aeb2095c0c9033ae9f691", null ],
+    [ "GetZoneScript", "de/dfd/a07214.html#accd1dc8e86bc9ab5618483e609b9314d", null ],
+    [ "HandleDropFlag", "de/dfd/a07214.html#a19b23ca8dc68ceaaca9078a33b62b70e", null ],
+    [ "HandleGossipOption", "de/dfd/a07214.html#aa54e25c2f1ad982f0a9a57e99fd994f9", null ],
+    [ "HandlePlayerEnterZone", "de/dfd/a07214.html#a733f42fdc343d070220e8c56f24fe4ac", null ],
+    [ "HandlePlayerLeaveZone", "de/dfd/a07214.html#a89aa3d5d27fe61a13e381f13c599de90", null ],
+    [ "HandlePlayerResurrects", "de/dfd/a07214.html#a458fb8b4943de82f0574ddd63ba466a9", null ],
+    [ "InitBattlefield", "de/dfd/a07214.html#a244ce1743c237e95c08dc8861f3ce4b3", null ],
+    [ "instance", "de/dfd/a07214.html#af96d6d44aa8936f94c20d1bd92af2fb3", null ],
+    [ "Update", "de/dfd/a07214.html#a15548a7b124741e2fa9f36f1bf087458", null ],
+    [ "m_BattlefieldMap", "de/dfd/a07214.html#a364a78eb7a4b44bbd24188647d3a4f4e", null ],
+    [ "m_BattlefieldSet", "de/dfd/a07214.html#a0ca3259d6262b725ee46c5d29f375585", null ],
+    [ "m_UpdateTimer", "de/dfd/a07214.html#a4818f48ea741ae5b6b588eed9719d0ec", null ]
 ];

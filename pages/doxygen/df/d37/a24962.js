@@ -1,8 +1,6 @@
 var a24962 =
 [
-    [ "AfterApply", "df/d37/a24962.html#a4d2941ebb326d603ac08f428f811c29b", null ],
-    [ "AfterRemove", "df/d37/a24962.html#ac1e50413041edbecd5cc4189a1121cb5", null ],
-    [ "PrepareAuraScript", "df/d37/a24962.html#afa99d3e45e4a54c41b59ec317ffdd9b9", null ],
-    [ "Register", "df/d37/a24962.html#a78e30a950b9fc08dff5072028816b8b4", null ],
-    [ "Validate", "df/d37/a24962.html#ac3502abb9d6ef213ffd2413eba7916b2", null ]
+    [ "HandleScript", "df/d37/a24962.html#a7bf5f9d28a916704bd1ece8acc64fe59", null ],
+    [ "PrepareSpellScript", "df/d37/a24962.html#ab9193654a0534dc82c4c93a3158f3f7a", null ],
+    [ "Register", "df/d37/a24962.html#a0f0360e8b2db795046c3b76e6db0a97e", null ]
 ];

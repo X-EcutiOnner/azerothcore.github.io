@@ -1,19 +1,25 @@
 var a08526 =
 [
-    [ "PetInfo", "d6/d15/a08526.html#a1bee56222719503aef508dd3f2ddd2f1", null ],
-    [ "ActionBar", "d6/d15/a08526.html#affe10e9845d23f597df23ed271d91039", null ],
-    [ "CreatedBySpellId", "d6/d15/a08526.html#a40d2f28579271de9b1533b5d412fecbb", null ],
-    [ "CreatureId", "d6/d15/a08526.html#a879009caeaa61fdef801db178599197e", null ],
-    [ "DisplayId", "d6/d15/a08526.html#ab7128ea7655961abfb3f8f074006bc7c", null ],
-    [ "Experience", "d6/d15/a08526.html#aee5536e251e20d8f4ee293f7f5eab2d3", null ],
-    [ "Happiness", "d6/d15/a08526.html#a39ee3606989e65fc284a6701482c2aa9", null ],
-    [ "Health", "d6/d15/a08526.html#a5e0835afbf2f396e8030236484984628", null ],
-    [ "LastSaveTime", "d6/d15/a08526.html#afafdbe4176d1bf26ab5022ab2d219ed6", null ],
-    [ "Level", "d6/d15/a08526.html#aabcf03700a0207df9086a6f7a354a7b9", null ],
-    [ "Mana", "d6/d15/a08526.html#a25a72a18fd6e38dea4db6ff8d3942423", null ],
-    [ "Name", "d6/d15/a08526.html#adb037d9f6d2606baa469c5c63385476a", null ],
-    [ "PetNumber", "d6/d15/a08526.html#af57645f36ae45c0045abe991419b797d", null ],
-    [ "ReactState", "d6/d15/a08526.html#ad7cd098ff265de389412626fad6d6d6f", null ],
-    [ "Type", "d6/d15/a08526.html#ae8fa5344688bb4bf34b806f9b67ef32c", null ],
-    [ "WasRenamed", "d6/d15/a08526.html#a98827cf01b6f610692fe4295582ead34", null ]
+    [ "ClientUpdateMaskType", "d6/d15/a08526.html#a7638c508cfb0f5480eec2f9d650b0eb4", null ],
+    [ "UpdateMaskCount", "d6/d15/a08526.html#a667c2f210ee4a2417a2a3ba486d1332f", [
+      [ "CLIENT_UPDATE_MASK_BITS", "d6/d15/a08526.html#a667c2f210ee4a2417a2a3ba486d1332fac06e5fd027ae17cd4eaf7faa2580098b", null ]
+    ] ],
+    [ "UpdateMask", "d6/d15/a08526.html#a72e9de07108361222addde025ea8362f", null ],
+    [ "UpdateMask", "d6/d15/a08526.html#ae0cefda1282f8c29a6557e1c25e007de", null ],
+    [ "~UpdateMask", "d6/d15/a08526.html#a986a2b81e0b4f86486ccc455ff6ad79a", null ],
+    [ "AppendToPacket", "d6/d15/a08526.html#afe89109ca16f687072062408e311f793", null ],
+    [ "Clear", "d6/d15/a08526.html#a39cffd3822966011d83d7241ee3c5548", null ],
+    [ "GetBit", "d6/d15/a08526.html#a69f7c72de49699d5730f3a10d55f30e2", null ],
+    [ "GetBlockCount", "d6/d15/a08526.html#a5c0d2086346e4522e422add9622e1117", null ],
+    [ "GetCount", "d6/d15/a08526.html#a1f6e2b930533b303c173166bf3588613", null ],
+    [ "operator&=", "d6/d15/a08526.html#af15db8c732b94437fd1323a911eab5ce", null ],
+    [ "operator=", "d6/d15/a08526.html#a3c94144194d52a00888b8bb0760e2d5a", null ],
+    [ "operator|", "d6/d15/a08526.html#a487d62a6a039803da615d265a176f138", null ],
+    [ "operator|=", "d6/d15/a08526.html#a81b64e6574c61533b07491920eddf413", null ],
+    [ "SetBit", "d6/d15/a08526.html#af3390cfa31c39629968a871be2c763fc", null ],
+    [ "SetCount", "d6/d15/a08526.html#ad6ec4d5a2b6a85a2ec72b559efbdeb35", null ],
+    [ "UnsetBit", "d6/d15/a08526.html#aaac0596975c08d04736996c608eff29f", null ],
+    [ "_bits", "d6/d15/a08526.html#ab34e66bf840ac230da0cfa35ef332145", null ],
+    [ "_blockCount", "d6/d15/a08526.html#ad58cc5d2dbf8854f36ef4a19f5b6f51b", null ],
+    [ "_fieldCount", "d6/d15/a08526.html#a6c7ed53833620c2754b1e0db85a96ece", null ]
 ];

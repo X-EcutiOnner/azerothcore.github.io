@@ -1,6 +1,8 @@
 var a13630 =
 [
-    [ "ChangeSummonPos", "d1/db3/a13630.html#ae24a7c8279a92f1018748a0e930736ac", null ],
-    [ "PrepareSpellScript", "d1/db3/a13630.html#a7b6cd9464f27676f0c74224ef1b1a9cc", null ],
-    [ "Register", "d1/db3/a13630.html#a03a1a1e5501452eacaceadd9725f2287", null ]
+    [ "HandleApply", "d1/db3/a13630.html#a9dce02909356193476e66586aee87f1d", null ],
+    [ "OnPeriodic", "d1/db3/a13630.html#add4f000f81d5d4112719c6dd7464163c", null ],
+    [ "PrepareAuraScript", "d1/db3/a13630.html#a1a9dfb50cec61386c5e3a3556f5d2f53", null ],
+    [ "Register", "d1/db3/a13630.html#abc349f12f375b1f284eb78a363e8172a", null ],
+    [ "Validate", "d1/db3/a13630.html#a83195ac3c9536a3485e41bf2c04884f6", null ]
 ];

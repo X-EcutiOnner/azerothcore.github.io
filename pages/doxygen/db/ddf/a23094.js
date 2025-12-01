@@ -1,9 +1,6 @@
 var a23094 =
 [
-    [ "FilterTargets", "db/ddf/a23094.html#aa8f0401dd004e816b8071381289116fa", null ],
-    [ "HandleTeleportUnits", "db/ddf/a23094.html#a4333f10a29ef3e5643f637899a0ab5c5", null ],
-    [ "PrepareSpellScript", "db/ddf/a23094.html#a47898c213cdd125714c80d327bf42d8c", null ],
-    [ "Register", "db/ddf/a23094.html#a6036577cd7b4fbbc55e90e9ab067f13a", null ],
-    [ "SetDest", "db/ddf/a23094.html#a4cf75d96a0d1de62bc989826204b04c9", null ],
-    [ "Validate", "db/ddf/a23094.html#a814083360970284a325621f45e109b5b", null ]
+    [ "HandleEffectRemove", "db/ddf/a23094.html#ae9baf688d8ac42c4ccbbf13f3b79e831", null ],
+    [ "PrepareAuraScript", "db/ddf/a23094.html#a2e2668f0b5bf369ec859627e0bd8d980", null ],
+    [ "Register", "db/ddf/a23094.html#acd7e22159d262a9888c744eecb978c09", null ]
 ];

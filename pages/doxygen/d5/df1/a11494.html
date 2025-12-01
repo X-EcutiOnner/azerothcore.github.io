@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: AuraScript::CheckProcHandler Class Reference</title>
+<title>AzerothCore: AuraScript::CheckAreaTargetHandler Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,7 +108,7 @@ $(document).ready(function(){initNavTree('d5/df1/a11494.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../da/d64/a11491.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">AuraScript::CheckProcHandler Class Reference</div></div>
+  <div class="headertitle"><div class="title">AuraScript::CheckAreaTargetHandler Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
@@ -116,58 +116,58 @@ $(document).ready(function(){initNavTree('d5/df1/a11494.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a1b5bfc85cb9a81a64ebd4b769e3d3651"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df1/a11494.html#a1b5bfc85cb9a81a64ebd4b769e3d3651">CheckProcHandler</a> (AuraCheckProcFnType handlerScript)</td></tr>
-<tr class="separator:a1b5bfc85cb9a81a64ebd4b769e3d3651"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a977558dc8838a05259effc268235696a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df1/a11494.html#a977558dc8838a05259effc268235696a">Call</a> (<a class="el" href="../../d1/dbe/a11442.html">AuraScript</a> *auraScript, <a class="el" href="../../dd/dcd/a08758.html">ProcEventInfo</a> &amp;eventInfo)</td></tr>
-<tr class="separator:a977558dc8838a05259effc268235696a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a641b633e37079949c8b1b71a32f4222e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df1/a11494.html#a641b633e37079949c8b1b71a32f4222e">CheckAreaTargetHandler</a> (AuraCheckAreaTargetFnType <a class="el" href="../../d5/df1/a11494.html#a7c1e677d10a89ea7f1ea06f8de10e0f9">pHandlerScript</a>)</td></tr>
+<tr class="separator:a641b633e37079949c8b1b71a32f4222e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab434cb7ba8927c16e2b63c2ad8ae9a25"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df1/a11494.html#ab434cb7ba8927c16e2b63c2ad8ae9a25">Call</a> (<a class="el" href="../../d6/d9d/a11490.html">AuraScript</a> *auraScript, <a class="el" href="../../de/d38/a08802.html">Unit</a> *target)</td></tr>
+<tr class="separator:ab434cb7ba8927c16e2b63c2ad8ae9a25"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:abcb28d1a2f32402511c1e659b2f3b443"><td class="memItemLeft" align="right" valign="top">AuraCheckProcFnType&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df1/a11494.html#abcb28d1a2f32402511c1e659b2f3b443">_HandlerScript</a></td></tr>
-<tr class="separator:abcb28d1a2f32402511c1e659b2f3b443"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7c1e677d10a89ea7f1ea06f8de10e0f9"><td class="memItemLeft" align="right" valign="top">AuraCheckAreaTargetFnType&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d5/df1/a11494.html#a7c1e677d10a89ea7f1ea06f8de10e0f9">pHandlerScript</a></td></tr>
+<tr class="separator:a7c1e677d10a89ea7f1ea06f8de10e0f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a1b5bfc85cb9a81a64ebd4b769e3d3651" name="a1b5bfc85cb9a81a64ebd4b769e3d3651"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1b5bfc85cb9a81a64ebd4b769e3d3651">&#9670;&#160;</a></span>CheckProcHandler()</h2>
+<a id="a641b633e37079949c8b1b71a32f4222e" name="a641b633e37079949c8b1b71a32f4222e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a641b633e37079949c8b1b71a32f4222e">&#9670;&#160;</a></span>CheckAreaTargetHandler()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">AuraScript::CheckProcHandler::CheckProcHandler </td>
+          <td class="memname">AuraScript::CheckAreaTargetHandler::CheckAreaTargetHandler </td>
           <td>(</td>
-          <td class="paramtype">AuraCheckProcFnType&#160;</td>
-          <td class="paramname"><em>handlerScript</em></td><td>)</td>
+          <td class="paramtype">AuraCheckAreaTargetFnType&#160;</td>
+          <td class="paramname"><em>pHandlerScript</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  900</span>{</div>
-<div class="line"><span class="lineno">  901</span>    <a class="code hl_variable" href="../../d5/df1/a11494.html#abcb28d1a2f32402511c1e659b2f3b443">_HandlerScript</a> = handlerScript;</div>
-<div class="line"><span class="lineno">  902</span>}</div>
-<div class="ttc" id="aa11494_html_abcb28d1a2f32402511c1e659b2f3b443"><div class="ttname"><a href="../../d5/df1/a11494.html#abcb28d1a2f32402511c1e659b2f3b443">AuraScript::CheckProcHandler::_HandlerScript</a></div><div class="ttdeci">AuraCheckProcFnType _HandlerScript</div><div class="ttdef"><b>Definition:</b> SpellScript.h:641</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  764</span>{</div>
+<div class="line"><span class="lineno">  765</span>    <a class="code hl_variable" href="../../d5/df1/a11494.html#a7c1e677d10a89ea7f1ea06f8de10e0f9">pHandlerScript</a> = _pHandlerScript;</div>
+<div class="line"><span class="lineno">  766</span>}</div>
+<div class="ttc" id="aa11494_html_a7c1e677d10a89ea7f1ea06f8de10e0f9"><div class="ttname"><a href="../../d5/df1/a11494.html#a7c1e677d10a89ea7f1ea06f8de10e0f9">AuraScript::CheckAreaTargetHandler::pHandlerScript</a></div><div class="ttdeci">AuraCheckAreaTargetFnType pHandlerScript</div><div class="ttdef"><b>Definition:</b> SpellScript.h:545</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="a977558dc8838a05259effc268235696a" name="a977558dc8838a05259effc268235696a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a977558dc8838a05259effc268235696a">&#9670;&#160;</a></span>Call()</h2>
+<a id="ab434cb7ba8927c16e2b63c2ad8ae9a25" name="ab434cb7ba8927c16e2b63c2ad8ae9a25"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab434cb7ba8927c16e2b63c2ad8ae9a25">&#9670;&#160;</a></span>Call()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool AuraScript::CheckProcHandler::Call </td>
+          <td class="memname">bool AuraScript::CheckAreaTargetHandler::Call </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/dbe/a11442.html">AuraScript</a> *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d6/d9d/a11490.html">AuraScript</a> *&#160;</td>
           <td class="paramname"><em>auraScript</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../dd/dcd/a08758.html">ProcEventInfo</a> &amp;&#160;</td>
-          <td class="paramname"><em>eventInfo</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../de/d38/a08802.html">Unit</a> *&#160;</td>
+          <td class="paramname"><em>target</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -176,15 +176,15 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  905</span>{</div>
-<div class="line"><span class="lineno">  906</span>    <span class="keywordflow">return</span> (auraScript-&gt;*<a class="code hl_variable" href="../../d5/df1/a11494.html#abcb28d1a2f32402511c1e659b2f3b443">_HandlerScript</a>)(eventInfo);</div>
-<div class="line"><span class="lineno">  907</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  769</span>{</div>
+<div class="line"><span class="lineno">  770</span>    <span class="keywordflow">return</span> (auraScript-&gt;*<a class="code hl_variable" href="../../d5/df1/a11494.html#a7c1e677d10a89ea7f1ea06f8de10e0f9">pHandlerScript</a>)(_target);</div>
+<div class="line"><span class="lineno">  771</span>}</div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="abcb28d1a2f32402511c1e659b2f3b443" name="abcb28d1a2f32402511c1e659b2f3b443"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abcb28d1a2f32402511c1e659b2f3b443">&#9670;&#160;</a></span>_HandlerScript</h2>
+<a id="a7c1e677d10a89ea7f1ea06f8de10e0f9" name="a7c1e677d10a89ea7f1ea06f8de10e0f9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a7c1e677d10a89ea7f1ea06f8de10e0f9">&#9670;&#160;</a></span>pHandlerScript</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -193,7 +193,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">AuraCheckProcFnType AuraScript::CheckProcHandler::_HandlerScript</td>
+          <td class="memname">AuraCheckAreaTargetFnType AuraScript::CheckAreaTargetHandler::pHandlerScript</td>
         </tr>
       </table>
   </td>
@@ -210,8 +210,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d1/dbe/a11442.html">AuraScript</a></li><li class="navelem"><a class="el" href="../../d5/df1/a11494.html">CheckProcHandler</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:45:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d6/d9d/a11490.html">AuraScript</a></li><li class="navelem"><a class="el" href="../../d5/df1/a11494.html">CheckAreaTargetHandler</a></li>
+    <li class="footer">Generated on Mon Dec 1 2025 20:47:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,12 +1,15 @@
 var a23782 =
 [
-    [ "boss_watchkeeper_gargolmar", "d6/d83/a23782.html#acb4212c6f852f50f3edfa3880806a9d2", null ],
-    [ "JustDied", "d6/d83/a23782.html#a39be5796b39bea913105fc48dda0d186", null ],
-    [ "JustEngagedWith", "d6/d83/a23782.html#a9e3194d02d0d3b66ef38118aa32ae684", null ],
-    [ "KilledUnit", "d6/d83/a23782.html#a22736c2680f41cfd3443a76cd4de9352", null ],
-    [ "MoveInLineOfSight", "d6/d83/a23782.html#adec9837fdb2595ce57acffb279a7d011", null ],
-    [ "Reset", "d6/d83/a23782.html#a356b7fe9071b073b74b21913e35e7408", null ],
-    [ "UpdateAI", "d6/d83/a23782.html#a1453d26ccbd3e78f46cb33f054d57759", null ],
-    [ "_hasSpoken", "d6/d83/a23782.html#a3cd89b2567668b52d96b02af7eb85db8", null ],
-    [ "_taunted", "d6/d83/a23782.html#ab5623501bf92e119806ba4e2ccd0cd7a", null ]
+    [ "instance_magtheridons_lair_InstanceMapScript", "d6/d83/a23782.html#a06f7e0f178d45a92f16dc06b68645fba", null ],
+    [ "Initialize", "d6/d83/a23782.html#afa054fb11fe777019baa70f46bfd8212", null ],
+    [ "OnCreatureCreate", "d6/d83/a23782.html#aa05f08785d9d62db41e8d29ef55db0d8", null ],
+    [ "OnCreatureRemove", "d6/d83/a23782.html#a727d4d3bfc52391a088e86fef013617c", null ],
+    [ "OnGameObjectCreate", "d6/d83/a23782.html#a020584d79926d170c02655c5e2841127", null ],
+    [ "OnGameObjectRemove", "d6/d83/a23782.html#a9a6ac60b68e2a515e771696c5c88b93d", null ],
+    [ "SetBossState", "d6/d83/a23782.html#a160269f8d4cde5297d5f70a5f8eec2b2", null ],
+    [ "SetData", "d6/d83/a23782.html#a847abafb7b00e9b2cab73a90a16b959e", null ],
+    [ "_columnSet", "d6/d83/a23782.html#a2593bf88b0aba019a831b3ca6a8e15b9", null ],
+    [ "_cubesSet", "d6/d83/a23782.html#ad59566c515cbea3274d17e483f3b4ef1", null ],
+    [ "_magtheridonGUID", "d6/d83/a23782.html#a03e70ccaf8c23d2c775051320c6c4636", null ],
+    [ "_wardersSet", "d6/d83/a23782.html#a37b2621d50e8a8f0bee3f089dbce88f9", null ]
 ];

@@ -1,10 +1,8 @@
 var a08130 =
 [
-    [ "BoxMessage", "d8/d6f/a08130.html#a450f6063a89db2d152370bc997c844a3", null ],
-    [ "BoxMoney", "d8/d6f/a08130.html#a52a12645b55f5757cc61e9a014a71f32", null ],
-    [ "IsCoded", "d8/d6f/a08130.html#accca334730f578bd28c0e9a7fe7ec0ab", null ],
-    [ "MenuItemIcon", "d8/d6f/a08130.html#a987724c4673be20f5386f44245267bc9", null ],
-    [ "Message", "d8/d6f/a08130.html#af130b33294cd49261b3c093cf6f9542c", null ],
-    [ "OptionType", "d8/d6f/a08130.html#a3df0c5fedb028b4fcce8ad5884cc0e6f", null ],
-    [ "Sender", "d8/d6f/a08130.html#aacc07cb5c755d698fe4cb2e228185e34", null ]
+    [ "TrainerSpellData", "d8/d6f/a08130.html#ab58a8a4ca9d8b609131e7f8b3ec507c9", null ],
+    [ "~TrainerSpellData", "d8/d6f/a08130.html#a9bd25177856f54fa2eda882627b21644", null ],
+    [ "Find", "d8/d6f/a08130.html#acee027787f06b4186b781bbd0d7db781", null ],
+    [ "spellList", "d8/d6f/a08130.html#a0e157dbcebbbea5704270f182d313568", null ],
+    [ "trainerType", "d8/d6f/a08130.html#a6ea889f294b37bfe1a7a40dffd1b2159", null ]
 ];

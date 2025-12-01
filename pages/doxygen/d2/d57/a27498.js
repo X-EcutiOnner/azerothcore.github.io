@@ -1,6 +1,5 @@
 var a27498 =
 [
-    [ "go_midsummer_musicAI", "de/d71/a27502.html", "de/d71/a27502" ],
-    [ "go_midsummer_music", "d2/d57/a27498.html#a39c38fc78b47b16be9eebee0ccd5041d", null ],
-    [ "GetAI", "d2/d57/a27498.html#a1baf09bdbf67c0a85219454c1cd61d2b", null ]
+    [ "go_jump_a_tron", "d2/d57/a27498.html#a23306caf54a4282d290eec5daa3bfbc5", null ],
+    [ "OnGossipHello", "d2/d57/a27498.html#ae45085de26fc6ad4c3fa2bddf0bf20ec", null ]
 ];

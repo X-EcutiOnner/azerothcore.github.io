@@ -1,6 +1,6 @@
 var a13018 =
 [
-    [ "boss_garaxxas", "d1/d5c/a13018.html#af34e3ef5dac400fb7c217f46345ee9bb", null ],
-    [ "JustEngagedWith", "d1/d5c/a13018.html#aebfd7b63d714468ed69e920fb89c345d", null ],
-    [ "Reset", "d1/d5c/a13018.html#a56e6489ce49971cb066444888355626e", null ]
+    [ "HandleProc", "d1/d5c/a13018.html#a945dad46d3c11ee4720c939390a9dc1b", null ],
+    [ "PrepareAuraScript", "d1/d5c/a13018.html#a43953f2950d9a92db66a2c65a045ff6e", null ],
+    [ "Register", "d1/d5c/a13018.html#a24df76ff0933685bade58deff98856d2", null ]
 ];

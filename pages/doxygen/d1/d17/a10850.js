@@ -1,9 +1,11 @@
 var a10850 =
 [
-    [ "EnchantmentLog", "d1/d17/a10850.html#a4427184d166b18e984dc301a6786aac3", null ],
-    [ "Write", "d1/d17/a10850.html#a17752d3e862c1915f8479058a4be1eb7", null ],
-    [ "Caster", "d1/d17/a10850.html#ae35a0c689357cf4b5a031f40314a7045", null ],
-    [ "EnchantId", "d1/d17/a10850.html#a72a85b9f0d40c9406d64a9bf0b06581e", null ],
-    [ "ItemId", "d1/d17/a10850.html#ad393d5f227bb81738582572bd2601650", null ],
-    [ "Target", "d1/d17/a10850.html#a9ef981f750bee2101c1f886fa2514913", null ]
+    [ "DestroyItem", "d1/d17/a10850.html#a581e8c0f5f580e812bc0988e35786ee2", null ],
+    [ "Read", "d1/d17/a10850.html#a9f7fa7614db176262437478b4d92e9f9", null ],
+    [ "Bag", "d1/d17/a10850.html#aef97bbc66f92d73b4ebd3fcf0a81c0d6", null ],
+    [ "Count", "d1/d17/a10850.html#af18875aa85f12191a47d97380f459c45", null ],
+    [ "Data1", "d1/d17/a10850.html#a34fa30122f101e15de6252c289b82680", null ],
+    [ "Data2", "d1/d17/a10850.html#a227470a5932383e0ab7b9a369dfb3445", null ],
+    [ "Data3", "d1/d17/a10850.html#a019a891e4906ce9dafef6e276d635df7", null ],
+    [ "Slot", "d1/d17/a10850.html#af8274f1ded5565dc0f79e28948825ea2", null ]
 ];

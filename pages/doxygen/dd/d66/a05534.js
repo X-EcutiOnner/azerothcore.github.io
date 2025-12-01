@@ -1,7 +1,6 @@
 var a05534 =
 [
-    [ "~SignalHandler", "dd/d66/a05534.html#a9c515cb60b156629c43d1a6fce81d58e", null ],
-    [ "handle_signal", "dd/d66/a05534.html#a56782d1718cb243bb5b0c6dc2d100042", null ],
-    [ "_handled", "dd/d66/a05534.html#a21b208a696ed4a320a7cf312006a787f", null ],
-    [ "_mutex", "dd/d66/a05534.html#a0c4d6ba642dd3877c3333b067db22db6", null ]
+    [ "LambdaBasicEvent", "dd/d66/a05534.html#a4244b5e91413d71076d9cc3af230aed8", null ],
+    [ "Execute", "dd/d66/a05534.html#a8771a49f00554372b5ed38816abbd253", null ],
+    [ "_callback", "dd/d66/a05534.html#a2660ba5053b9ad6a1c4231bd32359999", null ]
 ];

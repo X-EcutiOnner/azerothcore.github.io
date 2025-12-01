@@ -1,12 +1,17 @@
 var a19166 =
 [
-    [ "boss_faerlinaAI", "dd/d80/a19166.html#a3a97178599b9053c23a079ed1a2ed163", null ],
-    [ "JustDied", "dd/d80/a19166.html#a7ac2e510568a9dad710beaad42db0544", null ],
-    [ "JustEngagedWith", "dd/d80/a19166.html#a830dfa4fed62b4588ea8866174d3653a", null ],
-    [ "KilledUnit", "dd/d80/a19166.html#a6f7a6e66abcf4f4dd685bbb805920900", null ],
-    [ "MoveInLineOfSight", "dd/d80/a19166.html#aa5cd735c22d46e1b756f87f3952033a1", null ],
-    [ "Reset", "dd/d80/a19166.html#acee81492b9b751df587a3a2cdd691ab3", null ],
-    [ "SpellHit", "dd/d80/a19166.html#aa4fac163e31dcd9353238f993259d5ec", null ],
-    [ "SummonHelpers", "dd/d80/a19166.html#af2fbf866f87d568ee6028f0931d3b74e", null ],
-    [ "_introDone", "dd/d80/a19166.html#a9febd1d69c27140ddd2ac018181c67ec", null ]
+    [ "boss_four_horsemenAI", "dd/d80/a19166.html#a828a858c3337791bd2acb3d6ba730233", null ],
+    [ "AttackStart", "dd/d80/a19166.html#aeb7e82fe20d4f6c4c5379c060beee161", null ],
+    [ "IsInRoom", "dd/d80/a19166.html#afaf17721189ab5b202a7dfbcd7f363e3", null ],
+    [ "JustDied", "dd/d80/a19166.html#a3ba69ed84d129a1a48952880c77bcf53", null ],
+    [ "JustEngagedWith", "dd/d80/a19166.html#a17b8ca30ceb0efb87be77f970c526444", null ],
+    [ "KilledUnit", "dd/d80/a19166.html#a87bdde27a69a020a26da31f01286593a", null ],
+    [ "MovementInform", "dd/d80/a19166.html#aa900c075c04673341b3100488c45f9e7", null ],
+    [ "MoveToCorner", "dd/d80/a19166.html#a7891dc79980c67d82867f6181685b359", null ],
+    [ "Reset", "dd/d80/a19166.html#a8f41a8eadb6b01d32b177640b91d929f", null ],
+    [ "UpdateAI", "dd/d80/a19166.html#ac3a1f33bf9823e2171180c3311f647f1", null ],
+    [ "currentWaypoint", "dd/d80/a19166.html#ab3c2643e1b3c58452661255979e67e63", null ],
+    [ "events", "dd/d80/a19166.html#a5c135d69b30853e2eb8a52a1a5e230f7", null ],
+    [ "horsemanId", "dd/d80/a19166.html#ab0c4162177096e7bd007996e8677fd8b", null ],
+    [ "movementPhase", "dd/d80/a19166.html#a09b826c28e9bf6c417a650dfe710a2dd", null ]
 ];

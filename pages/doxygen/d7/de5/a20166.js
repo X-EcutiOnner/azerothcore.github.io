@@ -1,8 +1,6 @@
 var a20166 =
 [
-    [ "FilterTargets", "d7/de5/a20166.html#a93b41db0e89710c6e0e3c764d51d37ad", null ],
-    [ "HandleScript", "d7/de5/a20166.html#a0c7d9007a9401b96a3c1f8614dc1a2db", null ],
-    [ "PrepareSpellScript", "d7/de5/a20166.html#aea46762f43b31923617f740e0545fe98", null ],
-    [ "Register", "d7/de5/a20166.html#a6ccde780ea9fba273b96d6fd9558a2d1", null ],
-    [ "Validate", "d7/de5/a20166.html#af526a7a7a82ec7621f8842e884d7b14f", null ]
+    [ "PrepareSpellScript", "d7/de5/a20166.html#a7eeb4e2b9c3bb6e7d02d6a5acf8e1d52", null ],
+    [ "RecalculateDamage", "d7/de5/a20166.html#a094a21cf3cf109e704d3e334ad7dbad1", null ],
+    [ "Register", "d7/de5/a20166.html#af2b5382122be41a6b1ee4ab721b417da", null ]
 ];

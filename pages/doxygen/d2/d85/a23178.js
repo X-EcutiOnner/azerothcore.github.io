@@ -1,7 +1,9 @@
 var a23178 =
 [
-    [ "npc_ashtongue_channeler", "d2/d85/a23178.html#af7217d00f87e56e5cdb411fcad161b51", null ],
-    [ "Reset", "d2/d85/a23178.html#ab935559c19b18f9c94dd36c85be5b3b2", null ],
-    [ "UpdateAI", "d2/d85/a23178.html#af855dfa521404c4e6127a9bf12a75604", null ],
-    [ "scheduler", "d2/d85/a23178.html#a4f58bbd2c44f7a3f9835fd55408ffaf4", null ]
+    [ "boss_najentus", "d2/d85/a23178.html#ac5d3d54a49524892fe844925d483c244", null ],
+    [ "JustDied", "d2/d85/a23178.html#afee32dd32033c7a45068ce12e961797c", null ],
+    [ "JustEngagedWith", "d2/d85/a23178.html#a46e3aab64c21b24ac6457acd598679ec", null ],
+    [ "KilledUnit", "d2/d85/a23178.html#ad55e1de3aa7a636b3d30b0d61a17dab9", null ],
+    [ "Reset", "d2/d85/a23178.html#ab7e0bdb8954722c9080146a88a3c5aa2", null ],
+    [ "_canTalk", "d2/d85/a23178.html#a25ac29a79cdcfb4ebc48de13d677f1d4", null ]
 ];

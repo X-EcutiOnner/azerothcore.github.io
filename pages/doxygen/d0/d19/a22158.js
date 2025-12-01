@@ -1,6 +1,6 @@
 var a22158 =
 [
-    [ "CheckRequirement", "d0/d19/a22158.html#ad58d71b5c2bc10d9ffbfe472bd5b1a32", null ],
-    [ "PrepareSpellScript", "d0/d19/a22158.html#ae621e95feb69b54f9aef5d77577a15ae", null ],
-    [ "Register", "d0/d19/a22158.html#ab0b03fd2d1a0ed6720acc45221a582f6", null ]
+    [ "npc_attracted_reef_bullAI", "d0/d19/a22158.html#aa8917a912fb31a5987332e53e8d268e7", null ],
+    [ "MovementInform", "d0/d19/a22158.html#a79d9539243f178a2989f017c5f9ebc8c", null ],
+    [ "SpellHit", "d0/d19/a22158.html#ab06ee7ef84d881262ae682b69fae3135", null ]
 ];

@@ -1,8 +1,5 @@
 var a19386 =
 [
-    [ "npc_teslaAI", "d8/ded/a19386.html#a7281220648af1357b1377d6f7874d663", null ],
-    [ "DamageTaken", "d8/ded/a19386.html#aa3ab570e86261bc3178e17109d76af12", null ],
-    [ "EnterEvadeMode", "d8/ded/a19386.html#acc8115216989b34593a9435eeb051eda", null ],
-    [ "JustEngagedWith", "d8/ded/a19386.html#add93f68bc96b3c93dc0a3271543711e6", null ],
-    [ "UpdateAI", "d8/ded/a19386.html#a962745569b07e368067ee483d2379840", null ]
+    [ "at_thaddius_entrance", "d8/ded/a19386.html#ad81a60cac337baad82ea526de1d151d1", null ],
+    [ "OnTrigger", "d8/ded/a19386.html#af8635a58d4da0421b72b4451c1ebafc5", null ]
 ];

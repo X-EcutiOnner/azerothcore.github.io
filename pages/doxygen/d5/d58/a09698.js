@@ -1,5 +1,5 @@
 var a09698 =
 [
-    [ "MinionInfo", "d5/d58/a09698.html#a537dd49ffb504aeab8b2b1734d5f44d7", null ],
-    [ "bossInfo", "d5/d58/a09698.html#a04750e14ecb53ce6e3fac35844a713cd", null ]
+    [ "bossId", "d5/d58/a09698.html#ac7be12fc714b2760399185e96b01efe0", null ],
+    [ "entry", "d5/d58/a09698.html#adae739bf9cf30d1a8ca5c5790dc61c01", null ]
 ];

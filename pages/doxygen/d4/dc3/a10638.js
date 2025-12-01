@@ -1,7 +1,16 @@
 var a10638 =
 [
-    [ "GuildInvite", "d4/dc3/a10638.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
-    [ "Write", "d4/dc3/a10638.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
-    [ "GuildName", "d4/dc3/a10638.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
-    [ "InviterName", "d4/dc3/a10638.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
+    [ "AreaID", "d4/dc3/a10638.html#a7bd695ba9365b53703204e45c930b254", null ],
+    [ "ClassID", "d4/dc3/a10638.html#a794961a2e9f4773254b2439837150b50", null ],
+    [ "Gender", "d4/dc3/a10638.html#aadb29895c835e820168ad7d3f608d3b8", null ],
+    [ "Guid", "d4/dc3/a10638.html#a9dad860d61da34048ab2d52ada0cb43f", null ],
+    [ "LastSave", "d4/dc3/a10638.html#acb553637ff289603411fa5795a361deb", null ],
+    [ "Level", "d4/dc3/a10638.html#a585acb139537e8def9e4ba076a332b6b", null ],
+    [ "Name", "d4/dc3/a10638.html#ad50c43162525d8ad2ea33e48c01e838e", null ],
+    [ "Note", "d4/dc3/a10638.html#aa351a270de4cba2faddc5179cb854b94", null ],
+    [ "OfficerNote", "d4/dc3/a10638.html#aedaee0b4511ddd82cc75e91cb04e175a", null ],
+    [ "RankID", "d4/dc3/a10638.html#a02f6f0dcf1be3a6befe959388d9aedd8", null ],
+    [ "Status", "d4/dc3/a10638.html#aa6342565a23693718b5ef84f90b83350", null ],
+    [ "TotalXP", "d4/dc3/a10638.html#ad3ee1ba956ea725db8588e3be3c57b18", null ],
+    [ "WeeklyXP", "d4/dc3/a10638.html#a7fb40a5bce99fcf70176ebe344424ed2", null ]
 ];

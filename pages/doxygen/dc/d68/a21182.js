@@ -1,7 +1,6 @@
 var a21182 =
 [
-    [ "HandleScriptEffect", "dc/d68/a21182.html#a173ee086127655cdfcca507fd5b15b2e", null ],
-    [ "PrepareSpellScript", "dc/d68/a21182.html#a005d47b18a820c35ec596b5539db94eb", null ],
-    [ "Register", "dc/d68/a21182.html#a20a0d554e80707c1517422cb747f38e8", null ],
-    [ "Validate", "dc/d68/a21182.html#a5ca44686e26def56adc2b98d88145235", null ]
+    [ "instance_ulduar_InstanceMapScript", "d9/dd0/a21186.html", "d9/dd0/a21186" ],
+    [ "instance_ulduar", "dc/d68/a21182.html#a32c2a76d1cd20f2ad1ab441eafe1b682", null ],
+    [ "GetInstanceScript", "dc/d68/a21182.html#ad15f003a90e656910fc32d661ca9baba", null ]
 ];

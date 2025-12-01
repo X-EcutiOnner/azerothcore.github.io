@@ -1,6 +1,9 @@
 var a13670 =
 [
-    [ "instance_uldaman_InstanceMapScript", "d4/dfd/a13674.html", "d4/dfd/a13674" ],
-    [ "instance_uldaman", "da/df7/a13670.html#a854807db729d15aa4a09aad051fe3bda", null ],
-    [ "GetInstanceScript", "da/df7/a13670.html#a672bb8b5a16d29d25a191ab90d8007b4", null ]
+    [ "spell_sunwell_teleport", "da/df7/a13670.html#a6c61c9bb6cb5737469686a7976207f1d", null ],
+    [ "HandleScript", "da/df7/a13670.html#a4bd9ef50ecc45c792feb8e4d820298b5", null ],
+    [ "PrepareSpellScript", "da/df7/a13670.html#afc3c927b4bd5ec19074a0ee6d59783f2", null ],
+    [ "Register", "da/df7/a13670.html#a3a82c7a6d6673c5860b196e0cd644aab", null ],
+    [ "Validate", "da/df7/a13670.html#a351a2beced058f9354515baa38b0292e", null ],
+    [ "_triggeredSpellId", "da/df7/a13670.html#a66d97a0028b8a0c430ac5152213f60eb", null ]
 ];

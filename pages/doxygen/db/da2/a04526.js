@@ -1,7 +1,7 @@
 var a04526 =
 [
-    [ "MmapTileRecastConfig", "d4/d79/a05020.html", "d4/d79/a05020" ],
-    [ "MmapTileHeader", "d7/d17/a05024.html", "d7/d17/a05024" ],
+    [ "MmapTileRecastConfig", "d2/df7/a05026.html", "d2/df7/a05026" ],
+    [ "MmapTileHeader", "db/d35/a05030.html", "db/d35/a05030" ],
     [ "MAX_NUMBER_OF_CELLS", "db/da2/a04526.html#a2c6994ea025f427f1485c1c7aaee01fe", null ],
     [ "MAX_NUMBER_OF_GRIDS", "db/da2/a04526.html#a857252154f120575d940ffbdf63bace6", null ],
     [ "MMAP_MAGIC", "db/da2/a04526.html#af7a9a5e840ab3ad1c160e832500016d1", null ],

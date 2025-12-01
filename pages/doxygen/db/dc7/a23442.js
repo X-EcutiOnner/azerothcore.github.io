@@ -1,10 +1,10 @@
 var a23442 =
 [
-    [ "boss_morogrim_tidewalker", "db/dc7/a23442.html#a138a200da298f64697e2e47fb8004ccb", null ],
-    [ "JustDied", "db/dc7/a23442.html#a139d87e7cffe03183538eb493e063195", null ],
-    [ "JustEngagedWith", "db/dc7/a23442.html#a3244672aeb994673e1f46708699bcc2c", null ],
-    [ "JustSummoned", "db/dc7/a23442.html#a2b669007520094948138c95468b77f9f", null ],
-    [ "KilledUnit", "db/dc7/a23442.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
-    [ "Reset", "db/dc7/a23442.html#a78ed1d1f8c55407497a4fb679587975d", null ],
-    [ "_recentlySpoken", "db/dc7/a23442.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
+    [ "npc_frozen_core", "db/dc7/a23442.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
+    [ "DoAction", "db/dc7/a23442.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
+    [ "Initialize", "db/dc7/a23442.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
+    [ "JustDied", "db/dc7/a23442.html#a476e086b0379e0cef3a44d250b020d6a", null ],
+    [ "UpdateAI", "db/dc7/a23442.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
+    [ "_events", "db/dc7/a23442.html#a3a5efec3279644ef713722e1556a3c84", null ],
+    [ "_instance", "db/dc7/a23442.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
 ];

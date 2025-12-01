@@ -1,16 +1,12 @@
 var a19686 =
 [
-    [ "boss_bjarngrimAI", "d3/d1f/a19686.html#ab599d5f62638d622c560f5b63e645b50", null ],
-    [ "JustDied", "d3/d1f/a19686.html#adcad5667168768d8f3c8235735f357b1", null ],
-    [ "JustEngagedWith", "d3/d1f/a19686.html#a2e99538fdc107bc7e91c23898c178047", null ],
-    [ "KilledUnit", "d3/d1f/a19686.html#ad3cbbdc77909515e1573a2fb49cc1e30", null ],
-    [ "RemoveStanceAura", "d3/d1f/a19686.html#ac2bca5cebc4847af71272de0ffa3d91a", null ],
-    [ "Reset", "d3/d1f/a19686.html#a138d14f9666b03dda50f6adeea609046", null ],
-    [ "RollStance", "d3/d1f/a19686.html#a70791697fde5c6194226fd42c893385a", null ],
-    [ "UpdateEscortAI", "d3/d1f/a19686.html#a9db8e85b47e8ebb4760f99ec04a36fcb", null ],
-    [ "WaypointReached", "d3/d1f/a19686.html#a31e1bceb7b944b3db9d7e881be4246bf", null ],
-    [ "events", "d3/d1f/a19686.html#a5314bce83c4c7e80ecea99a8d5559fd8", null ],
-    [ "m_pInstance", "d3/d1f/a19686.html#af6dbef6bb9565b5ee1738e188b08748f", null ],
-    [ "m_uiStance", "d3/d1f/a19686.html#abd4d058fad17b56bc29a165d74062dd0", null ],
-    [ "summons", "d3/d1f/a19686.html#a02bd445d2c969ea186a48f68585e640c", null ]
+    [ "boss_ionar", "d3/d1f/a19686.html#a323da67c3ff33d09d07cf0369600a473", null ],
+    [ "JustDied", "d3/d1f/a19686.html#a8caea41ed747f86ae5d1437be1e95f8d", null ],
+    [ "JustEngagedWith", "d3/d1f/a19686.html#a16abbb5ac05ef6c471ad051be25525a8", null ],
+    [ "KilledUnit", "d3/d1f/a19686.html#ae6b1225147bc146066185d4d21c19f14", null ],
+    [ "Reset", "d3/d1f/a19686.html#ac37b88ca61994d12f731e50b5ddbbb0f", null ],
+    [ "ScheduleEvents", "d3/d1f/a19686.html#af74dda7ad9cd156036689694b3bb9986", null ],
+    [ "SpellHit", "d3/d1f/a19686.html#a85c0ba28de5a684435246539d2106dcd", null ],
+    [ "Split", "d3/d1f/a19686.html#a6ec30b8222b887ff51c8f41b8a9bdeef", null ],
+    [ "UpdateAI", "d3/d1f/a19686.html#ad6fb218e743bad9fec357ea7d862744d", null ]
 ];

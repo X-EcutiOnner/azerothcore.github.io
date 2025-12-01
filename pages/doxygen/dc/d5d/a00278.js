@@ -1,6 +1,6 @@
 var a00278 =
 [
-    [ "AISpellInfoType", "dc/d00/a06232.html", "dc/d00/a06232" ],
+    [ "AISpellInfoType", "d5/db1/a06238.html", "d5/db1/a06238" ],
     [ "AI_DEFAULT_COOLDOWN", "dc/d5d/a00278.html#a41c947edd84b4f2bb45133dc7aa00cad", null ],
     [ "AICondition", "dc/d5d/a00278.html#ac43b18581ae7a7b66984b1003502d5af", [
       [ "AICOND_AGGRO", "dc/d5d/a00278.html#ac43b18581ae7a7b66984b1003502d5afac41d9d90387a55a0b5be34e13683f9c8", null ],

@@ -1,11 +1,9 @@
 var a28778 =
 [
-    [ "IsAvailable", "d7/d20/a28778.html#adfebd7a162ebae8396669de031c768a6", null ],
-    [ "operator bool", "d7/d20/a28778.html#ac25d4bb270c805b8ea2a6e0b4b6b2e74", null ],
-    [ "operator*", "d7/d20/a28778.html#a24733bf06b4a91abcf4945aa5303a275", null ],
-    [ "operator->", "d7/d20/a28778.html#ad0ddd6fe7451f2b968db3a7d7a93b342", null ],
-    [ "SecretMgr", "d7/d20/a28778.html#af098c138ad828545a3dfb1870ad4c2fb", null ],
-    [ "lock", "d7/d20/a28778.html#aff5ea87e5a7dbfdf5bd38400997f2c40", null ],
-    [ "state", "d7/d20/a28778.html#ad5c4eb66bfdb78d40bc8cdacd34a257b", null ],
-    [ "value", "d7/d20/a28778.html#a16b48eb9b384f6ab8c6996b38f559825", null ]
+    [ "SetUp", "d7/d20/a28778.html#a5ee46555116eca62d3e8320dd5a5fbbb", null ],
+    [ "TearDown", "d7/d20/a28778.html#a2a331c0ef77503c08c37e226a4e0a33b", null ],
+    [ "_distributor", "d7/d20/a28778.html#a6c043c7543dec59e640b379aec1ad0d0", null ],
+    [ "_mockRewarder", "d7/d20/a28778.html#ad466c2751d8e9739db56f9f82d15deff", null ],
+    [ "_previousWorld", "d7/d20/a28778.html#aef822a2309df5d13af31ea5a5da74df7", null ],
+    [ "_worldMock", "d7/d20/a28778.html#a00b242d182fd7eacc93efc9d4f3e914f", null ]
 ];

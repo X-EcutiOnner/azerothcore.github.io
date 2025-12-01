@@ -1,6 +1,7 @@
 var a20242 =
 [
-    [ "boss_freya_elder_stonebarkAI", "d2/d9b/a20246.html", "d2/d9b/a20246" ],
-    [ "boss_freya_elder_stonebark", "d9/d1d/a20242.html#a9c90c504d78456580ae657a42fac4075", null ],
-    [ "GetAI", "d9/d1d/a20242.html#a0b529bb8755c56046c40b620ef4b7448", null ]
+    [ "boss_freya_lifebinderAI", "d9/d1d/a20242.html#ae421aa209690e4a2908995b6b7d322cd", null ],
+    [ "Reset", "d9/d1d/a20242.html#a972bd7d390d444e0ea2bc513d5d3816a", null ],
+    [ "UpdateAI", "d9/d1d/a20242.html#afb06c217c1012d6463e44689359eada9", null ],
+    [ "_healTimer", "d9/d1d/a20242.html#a7021d13dceb9af343f0e820cf086046e", null ]
 ];

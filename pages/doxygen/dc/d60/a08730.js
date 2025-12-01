@@ -1,11 +1,11 @@
 var a08730 =
 [
-    [ "AuraMunchingQueue", "dc/d60/a08730.html#abf9787bcfa9393619ffebe2ad7b5cd46", null ],
-    [ "Execute", "dc/d60/a08730.html#a8f025a0ea1db81fb283db563402d1c40", null ],
-    [ "_auraType", "dc/d60/a08730.html#add694e24c38d585784f236acf9118b76", null ],
-    [ "_aurEff", "dc/d60/a08730.html#a8ac00964608170d5375242c1b19c4be3", null ],
-    [ "_basePoints", "dc/d60/a08730.html#a9cf03046c9595e81bf119b7aacb1a81a", null ],
-    [ "_owner", "dc/d60/a08730.html#a472aaf46c2f167a10ce38267ace0b8bb", null ],
-    [ "_spellId", "dc/d60/a08730.html#a6674c43b906e45e2ad29100a7ff06f44", null ],
-    [ "_targetGUID", "dc/d60/a08730.html#a441b328296f0b7a75bdaee06d2cb94f1", null ]
+    [ "UnitActionBarEntry", "dc/d60/a08730.html#a41f9020c4811b14fc543ddece6af86d7", null ],
+    [ "GetAction", "dc/d60/a08730.html#afd77e2f64ec856059759d05ddf77876e", null ],
+    [ "GetType", "dc/d60/a08730.html#a0615e6ad9cf5523d6dc85bd529e65f32", null ],
+    [ "IsActionBarForSpell", "dc/d60/a08730.html#a2af43ec77fcd077b2fe9ca3a6d80123b", null ],
+    [ "SetAction", "dc/d60/a08730.html#aa00953783b0b3de3beb755a054c77730", null ],
+    [ "SetActionAndType", "dc/d60/a08730.html#a110840d38445795957ee0425175b4fb6", null ],
+    [ "SetType", "dc/d60/a08730.html#a38e0dcad391d09e475f90be5a5382f78", null ],
+    [ "packedData", "dc/d60/a08730.html#aa50957a4c707ce3dbdfd62a75e3cb8eb", null ]
 ];

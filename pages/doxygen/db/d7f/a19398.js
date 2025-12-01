@@ -1,30 +1,5 @@
 var a19398 =
 [
-    [ "instance_naxxramas", "db/d7f/a19398.html#aff86b0fff6122d649258a91b025cbced", null ],
-    [ "ActivateWingPortal", "db/d7f/a19398.html#a10a92da6d62e3d5f147b5bb40109ec3c", null ],
-    [ "ActivateWingPortal", "db/d7f/a19398.html#ae53c14014ec9ee4db5e06acb04ede9d2", null ],
-    [ "CheckAchievementCriteriaMeet", "db/d7f/a19398.html#ac324fe847b9b25270e8d1e495d77b093", null ],
-    [ "CreatureTalk", "db/d7f/a19398.html#a1e5ecd15ffbc8735ff275f245444ef1a", null ],
-    [ "GetEruptionSection", "db/d7f/a19398.html#a7f64ed1cc3b5461318913919e712d648", null ],
-    [ "HeiganEruptSections", "db/d7f/a19398.html#a63be2dee55d527e16739b5fb5b031740", null ],
-    [ "OnCreatureCreate", "db/d7f/a19398.html#a8d7a7ac214db0e22f7fadaf79e26ca6e", null ],
-    [ "OnGameObjectCreate", "db/d7f/a19398.html#a871bdbd665d47b526e498a79e4bcdaa8", null ],
-    [ "OnGameObjectRemove", "db/d7f/a19398.html#a855ef835268e11e55152fe11daf4af44", null ],
-    [ "OnPlayerEnter", "db/d7f/a19398.html#ab14130020559c2f7971d2072a0233bd7", null ],
-    [ "SetBossState", "db/d7f/a19398.html#a425c7462f1b1ad4b4728dca1708cd322", null ],
-    [ "SetData", "db/d7f/a19398.html#a5293b79934c620d96bd5ea35ce79276d", null ],
-    [ "SetGoState", "db/d7f/a19398.html#a06414e8dbeb15bc2a42114390466e0a4", null ],
-    [ "Update", "db/d7f/a19398.html#a49b5f433e3cec6fbb5f1404f150067ea", null ],
-    [ "_abominationsKilled", "db/d7f/a19398.html#a7b034012484e196d183aa12fdb595b53", null ],
-    [ "_currentWingTaunt", "db/d7f/a19398.html#ae1fd58202206c9697d92810f4a176c3d", null ],
-    [ "_events", "db/d7f/a19398.html#a299d848c8dba430ebebd7cdf99f1dafa", null ],
-    [ "_faerlinaAchievement", "db/d7f/a19398.html#a4e7f205ab7c300c91c6406ca5dc665fd", null ],
-    [ "_heiganAchievement", "db/d7f/a19398.html#a2a0d9b86d906c5e5ec51ad4342f7193b", null ],
-    [ "_heiganEruption", "db/d7f/a19398.html#ae6825a60b1a9f0fd122ebf47ba484459", null ],
-    [ "_horsemanAchievement", "db/d7f/a19398.html#a80abb9d906e9de39bd747346de46ddd7", null ],
-    [ "_horsemanLoaded", "db/d7f/a19398.html#a5bb704eda5b3fd756024243ff5a7b82a", null ],
-    [ "_loathebAchievement", "db/d7f/a19398.html#aacb46e34e3e6cb6b179c73df06a9a813", null ],
-    [ "_patchwerkRoomTrash", "db/d7f/a19398.html#ad838776fa923e22d3794a7b266dacd8e", null ],
-    [ "_sapphironAchievement", "db/d7f/a19398.html#a8dca8b55ebc52c27389658df92b3f944", null ],
-    [ "_thaddiusAchievement", "db/d7f/a19398.html#a6158d5285d0027739ff0cd98e526588d", null ]
+    [ "npc_mr_bigglesworth", "db/d7f/a19398.html#a51e81be4146e8e40a82ecf4018cb955d", null ],
+    [ "JustDied", "db/d7f/a19398.html#a3d5957253ef3af4f48f5bfaf4d93ce0f", null ]
 ];

@@ -1,16 +1,7 @@
 var a13778 =
 [
-    [ "npc_rinjiAI", "db/db6/a13778.html#ab613818b92530269f0802077eccc92d0", null ],
-    [ "DoSpawnAmbush", "db/db6/a13778.html#af2535d7364641fadc98bca91ace9c906", null ],
-    [ "JustEngagedWith", "db/db6/a13778.html#ae5ca00ee9baead3392a9239dfb68d377", null ],
-    [ "JustRespawned", "db/db6/a13778.html#a471f2e8da91639d4e68ad64a11d7b950", null ],
-    [ "JustSummoned", "db/db6/a13778.html#a09d65e7bd5a76552208eee920cfcb4f9", null ],
-    [ "Reset", "db/db6/a13778.html#ada230a1b7b0f3c8b2b41c706856681b8", null ],
-    [ "sQuestAccept", "db/db6/a13778.html#a15b9a0756ae6cebac690c8bb997e99d2", null ],
-    [ "UpdateEscortAI", "db/db6/a13778.html#a60f05b58b115f3f2ea11206778893547", null ],
-    [ "WaypointReached", "db/db6/a13778.html#a9463060a57b85113b71482c8a0974f60", null ],
-    [ "_IsByOutrunner", "db/db6/a13778.html#adecc4eb9f90969621b52b97ff594558d", null ],
-    [ "postEventCount", "db/db6/a13778.html#a601f142bd2a04ed303611044bac91035", null ],
-    [ "postEventTimer", "db/db6/a13778.html#a5154e551143e81d431f706ad07b78ca0", null ],
-    [ "spawnId", "db/db6/a13778.html#a3fc84d1e0f5243c6e8f292ddcac15ace", null ]
+    [ "npc_ranger_lilatha", "db/db6/a13778.html#abd13a89b41a289edefb9bc21588f8d29", null ],
+    [ "Reset", "db/db6/a13778.html#a3e804e483b51961193ee1079caba40be", null ],
+    [ "sQuestAccept", "db/db6/a13778.html#acc38d4feacb5e7fa5ce9658b10447c4d", null ],
+    [ "WaypointReached", "db/db6/a13778.html#a193bd47c7d7c4fb3d832a59bf55e8412", null ]
 ];

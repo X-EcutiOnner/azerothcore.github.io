@@ -1,7 +1,9 @@
 var a17654 =
 [
-    [ "HandleDummy", "d9/ddb/a17654.html#a89c0706f21fe92fd443c3638181044ec", null ],
-    [ "PrepareSpellScript", "d9/ddb/a17654.html#a957e29d2458fd90228ef9c53e997c642", null ],
-    [ "Register", "d9/ddb/a17654.html#a250c95310503cd59d73e45a9b9372268", null ],
-    [ "Validate", "d9/ddb/a17654.html#a1c67a262eb95def51661919a3bad3437", null ]
+    [ "FilterTargetsInitial", "d9/ddb/a17654.html#acebf4a9f8c4cdd6111ae816d7c24b00f", null ],
+    [ "FilterTargetsSubsequent", "d9/ddb/a17654.html#a11732039155235c287757980129d5a8e", null ],
+    [ "Load", "d9/ddb/a17654.html#a467272ccd10ec0aff7ad00a567c0049c", null ],
+    [ "PrepareSpellScript", "d9/ddb/a17654.html#a6f97c9c1dc71a87d2a82de646809f063", null ],
+    [ "Register", "d9/ddb/a17654.html#a56a4e65df08a95fddde75162358155c2", null ],
+    [ "_target", "d9/ddb/a17654.html#abdd93e8e80826c71ead1d9e44aaf865a", null ]
 ];

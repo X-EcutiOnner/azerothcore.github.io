@@ -1,12 +1,25 @@
 var a02933 =
 [
-    [ "npc_preparations_for_war_vehicle", "d4/d8e/a21812.html", "d4/d8e/a21812" ],
-    [ "npc_warmage_violetstand", "d0/df3/a21816.html", "d0/df3/a21816" ],
+    [ "npc_preparations_for_war_vehicle", "da/d9d/a21818.html", "da/d9d/a21818" ],
+    [ "npc_warmage_violetstand", "d5/d77/a21822.html", "d5/d77/a21822" ],
     [ "ePreparationsForWar", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1", [
-      [ "NPC_HAMMERHEAD", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1ad1b13588c08e2e01417692b4885a4872", null ],
       [ "NPC_CLOUDBUSTER", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1afa07f0b51a484de98e7c55105c1235fa", null ],
+      [ "NPC_HAMMERHEAD", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1ad1b13588c08e2e01417692b4885a4872", null ],
       [ "TRANSPORT_ORGRIMS_HAMMER", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1a5aa0e8b45a38734a0451f4ac204af779", null ],
-      [ "TRANSPORT_THE_SKYBREAKER", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1a1f9b133b8099adbb89d16b5c66ba7d9c", null ]
+      [ "TRANSPORT_THE_SKYBREAKER", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1a1f9b133b8099adbb89d16b5c66ba7d9c", null ],
+      [ "SEAT_PLAYER", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1a0aef8deb5880e5db697b0ca606cbabce", null ],
+      [ "SPELL_FLIGHT", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1a594a0dfd8e09df9a32f3a63d995636bf", null ],
+      [ "SPELL_TO_ICECROWN_PLAYER_AURA_DISMOUNT_A", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1abfb5d75b47b5b517de466b7fda22d589", null ],
+      [ "SPELL_TO_ICECROWN_PLAYER_AURA_DISMOUNT_H", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1a1a7a81bb42a65b667b80866c8469cc1f", null ],
+      [ "SPELL_TO_ICECROWN_AIRSHIP_PLAYER_AURA_TELEPORT_TO_DALARAN", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1a66a55a24e306b0dd1fe1de5bdbb808cb", null ],
+      [ "SPELL_TO_ICECROWN_AIRSHIP_FROST_WYRM_WAITING_TO_SUMMON_AURA", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1a95cc7dd684e604f6c44f2f2cc36c2691", null ],
+      [ "POINT_END", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1aa2ea1780131ec13559547244e702f33e", null ],
+      [ "SPELL_TO_ICECROWN_AIRSHIP_AURA_DISMOUNT_RESPONSE", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1a844ce858febb66b72ce64d97461055b2", null ],
+      [ "SPELL_EJECT_ALL_PASSENGERS", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1acc4b7f3e1e9f4c62a0dd6237c4ab0207", null ],
+      [ "SPELL_TO_ICECROWN_AIRSHIP_TELEPORT_TO_AIRSHIP_A_FORCE_PLAYER_TO_CAST", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1a1fb51664817e72f3f0bd94921a5d70cb", null ],
+      [ "SPELL_TO_ICECROWN_AIRSHIP_TELEPORT_TO_AIRSHIP_H_FORCE_PLAYER_TO_CAST", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1aba1680b3fea9dbbfa19b9558e2cecc0b", null ],
+      [ "SPELL_TO_ICECROWN_AIRSHIP_TELEPORT_TO_AIRSHIP_A", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1aa179c48038aec84567c0d132e670d3fa", null ],
+      [ "SPELL_TO_ICECROWN_AIRSHIP_TELEPORT_TO_AIRSHIP_H", "df/d5c/a02933.html#aa1f5da50609df8a5db6588a5aef4dfa1a210c21a3a40ee106aa30855dbb3a5992", null ]
     ] ],
     [ "NPCs", "df/d5c/a02933.html#a6986ec7b2d3274669934af9795f26d5c", [
       [ "NPC_EMI_SHORTFUSE", "da/dc7/a03407.html#a6986ec7b2d3274669934af9795f26d5ca9e4a9c0c7e0adc0ef8c70ad7a302078a", null ],

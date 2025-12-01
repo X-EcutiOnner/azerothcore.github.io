@@ -1,5 +1,6 @@
 var a27626 =
 [
-    [ "item_mysterious_egg", "d5/da6/a27626.html#ac32e296dcb700f32f6d0296f2921e6c7", null ],
-    [ "OnExpire", "d5/da6/a27626.html#a5ea72284626826b75819f89b3b91c540", null ]
+    [ "trigger_periodicAI", "d9/daa/a27630.html", "d9/daa/a27630" ],
+    [ "trigger_periodic", "d5/da6/a27626.html#a3c947c5a3092eecb7288a8a50c76bd14", null ],
+    [ "GetAI", "d5/da6/a27626.html#a179f3aa69fcd0b145f4ede9f830c1f38", null ]
 ];

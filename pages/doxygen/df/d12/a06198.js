@@ -1,5 +1,7 @@
 var a06198 =
 [
-    [ "SimpleCharmedAI", "df/d12/a06198.html#ada8d12d7df75dca5c87c633348d1b27b", null ],
-    [ "UpdateAI", "df/d12/a06198.html#a5e2c8ae6b601b7fcc36f8c2c49bcd9a6", null ]
+    [ "SpellTargetSelector", "df/d12/a06198.html#a9f1f441e542500dc43c58b97729f7f51", null ],
+    [ "operator()", "df/d12/a06198.html#a53c27c23f2d9846903e1ff9b479a36b1", null ],
+    [ "_caster", "df/d12/a06198.html#ac5b0844c975a6b3ff3c14a843fd28fba", null ],
+    [ "_spellInfo", "df/d12/a06198.html#a309ed04630cfb92810b7f51376b3917c", null ]
 ];

@@ -1,5 +1,7 @@
 var a12858 =
 [
-    [ "at_karazhan_mirkblood_entrance", "d2/d64/a12858.html#aa5537dc8616c1f748b6be4b1e2870ca7", null ],
-    [ "OnTrigger", "d2/d64/a12858.html#ad99c85de36a369752fa61bab761a402e", null ]
+    [ "FilterTargets", "d2/d64/a12858.html#ab00f1a67df39f01aa0ead3459c3c3183", null ],
+    [ "Load", "d2/d64/a12858.html#a5bb1cb64090e1ebb3f6f7bcd1fa1ec21", null ],
+    [ "PrepareSpellScript", "d2/d64/a12858.html#a17bebef0c4c59c3fd0ccfb28e103ee3e", null ],
+    [ "Register", "d2/d64/a12858.html#ae366530ddacf45a92eaa36be7e706a84", null ]
 ];

@@ -1,6 +1,7 @@
 var a12654 =
 [
-    [ "npc_flamewaker_priestAI", "dd/d89/a12658.html", "dd/d89/a12658" ],
-    [ "npc_flamewaker_priest", "de/dd5/a12654.html#a2ae4d75192f8ddc60d092b9a129e636e", null ],
-    [ "GetAI", "de/dd5/a12654.html#a8a38c2c54ae8366496eb58145f75eac9", null ]
+    [ "HandleHit", "de/dd5/a12654.html#a87777dce0e2bf1deba600b3ae7ce6b9c", null ],
+    [ "Load", "de/dd5/a12654.html#ab61b4076aab18c0a6593c234209a2c1d", null ],
+    [ "PrepareSpellScript", "de/dd5/a12654.html#a9fb8d980381264a2ef645f2e620abd21", null ],
+    [ "Register", "de/dd5/a12654.html#a4998015873f0e0ca768c20b0f95fda90", null ]
 ];

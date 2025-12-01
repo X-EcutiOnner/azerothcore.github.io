@@ -1,7 +1,6 @@
 var a11338 =
 [
-    [ "attributeMask", "d9/d07/a11338.html#a6bbb4046cd4c068c990aa28844e4588b", null ],
-    [ "customChance", "d9/d07/a11338.html#ac5d048f7ee803d61d5d3c59bb80a015d", null ],
-    [ "PPMChance", "d9/d07/a11338.html#adb76c11f0073a2738374c98c01fda009", null ],
-    [ "procEx", "d9/d07/a11338.html#a28bcdd11e64ad96be5a3ca0e0dd447c7", null ]
+    [ "WorldObjectSpellConeTargetCheck", "d9/d07/a11338.html#a51fa6de40d065bd7ba52f4dc982f9a5e", null ],
+    [ "operator()", "d9/d07/a11338.html#ac66207a4d1dbc9f59269127ee91f0657", null ],
+    [ "_coneAngle", "d9/d07/a11338.html#a8f946789292320ea8b205dec5d1e1975", null ]
 ];

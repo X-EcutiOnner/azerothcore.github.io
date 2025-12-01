@@ -1,6 +1,5 @@
 var a20854 =
 [
-    [ "boss_thorim_gauntlet_npcsAI", "df/d98/a20858.html", "df/d98/a20858" ],
-    [ "boss_thorim_gauntlet_npcs", "de/da7/a20854.html#abdf2e90c5b86d3724fac46bff5e15d97", null ],
-    [ "GetAI", "de/da7/a20854.html#a2a71153ed2a9091de6668ab0b6f7674f", null ]
+    [ "go_thorim_lever", "de/da7/a20854.html#a7641a89c3c369d26753a6e97dd435802", null ],
+    [ "OnGossipHello", "de/da7/a20854.html#aa48cd4d5728bd2d012a91f51299827a0", null ]
 ];

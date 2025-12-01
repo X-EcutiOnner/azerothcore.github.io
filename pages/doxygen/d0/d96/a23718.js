@@ -1,11 +1,14 @@
 var a23718 =
 [
-    [ "boss_krosh_firehand", "d0/d96/a23718.html#a1ef3618844f086de7875f26e7e6190f9", null ],
-    [ "AttackStart", "d0/d96/a23718.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
-    [ "JustDied", "d0/d96/a23718.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
-    [ "JustEngagedWith", "d0/d96/a23718.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
-    [ "Reset", "d0/d96/a23718.html#a989c4b762a7cdb228b245e91881d97a2", null ],
-    [ "UpdateAI", "d0/d96/a23718.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
-    [ "_scheduler", "d0/d96/a23718.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
-    [ "instance", "d0/d96/a23718.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
+    [ "boss_vazruden", "d0/d96/a23718.html#a9908d6082a09d55dd0d8bb801784a151", null ],
+    [ "DamageTaken", "d0/d96/a23718.html#a44b1e4d43bbf0d7faec7f4ee277db811", null ],
+    [ "EnterEvadeMode", "d0/d96/a23718.html#aba006e8e9aefe522ea5c36c638bb5c3b", null ],
+    [ "JustDied", "d0/d96/a23718.html#a525025b41b53a577bdff1eb818191ed7", null ],
+    [ "JustEngagedWith", "d0/d96/a23718.html#a5dbbe80fcfe191ac5ae03f943496ad02", null ],
+    [ "KilledUnit", "d0/d96/a23718.html#a8f430a0d7edb0285156c6bf68ba0aa07", null ],
+    [ "Reset", "d0/d96/a23718.html#a11b5091dafe2f0de9afd81de7b6fde90", null ],
+    [ "UpdateAI", "d0/d96/a23718.html#aebaf147a1a2e723cb0cb8e46f3d01e68", null ],
+    [ "_hasSpoken", "d0/d96/a23718.html#af5b9aa9c7a343486b4dc05819e8d3ccf", null ],
+    [ "_nazanCalled", "d0/d96/a23718.html#a44d53934c743e9beb539681719997852", null ],
+    [ "_scheduler", "d0/d96/a23718.html#a60382206e378c2f2c493d1ee25c4ff8c", null ]
 ];

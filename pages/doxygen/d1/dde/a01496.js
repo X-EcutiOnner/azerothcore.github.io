@@ -1,6 +1,6 @@
 var a01496 =
 [
-    [ "ScriptMgr", "dc/dce/a10468.html", "dc/dce/a10468" ],
-    [ "ScriptRegistry< TScript >", "d4/d25/a10472.html", "d4/d25/a10472" ],
+    [ "ScriptMgr", "d1/df0/a10474.html", "d1/df0/a10474" ],
+    [ "ScriptRegistry< TScript >", "d0/dd2/a10478.html", "d0/dd2/a10478" ],
     [ "sScriptMgr", "d1/dde/a01496.html#ae8161e629869974bc49b1cbfc73c1087", null ]
 ];

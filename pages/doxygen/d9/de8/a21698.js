@@ -1,8 +1,7 @@
 var a21698 =
 [
-    [ "HandleEffectRemove", "d9/de8/a21698.html#aa2b05befb775244423264f6b5e2387c1", null ],
-    [ "Load", "d9/de8/a21698.html#a02ea4c29f2c7e15a5039b93d7a0d3c5e", null ],
-    [ "PrepareAuraScript", "d9/de8/a21698.html#a632e81cc39bdcd0f5adcc684231d1171", null ],
-    [ "Register", "d9/de8/a21698.html#aba5483b1d35c1b58841fad2b1086f07c", null ],
-    [ "Validate", "d9/de8/a21698.html#ada90e1f06ced8f4e353fe2bda3d31637", null ]
+    [ "npc_lurgglbrAI", "dc/deb/a21702.html", "dc/deb/a21702" ],
+    [ "npc_lurgglbr", "d9/de8/a21698.html#a7df52667e4d789391820a4c2182db8d2", null ],
+    [ "GetAI", "d9/de8/a21698.html#a2795346371e7b474c53dcacb9daf2001", null ],
+    [ "OnQuestAccept", "d9/de8/a21698.html#a1b3ba7b0782dc91ff268b7044cf13e82", null ]
 ];

@@ -1,9 +1,10 @@
 var a09966 =
 [
-    [ "ChaseAngle", "df/d5b/a09966.html#a0744c615f437514a52b5a26fb717013a", null ],
-    [ "IsAngleOkay", "df/d5b/a09966.html#aec86c653850655b723e5224ea20b0e21", null ],
-    [ "LowerBound", "df/d5b/a09966.html#a2f8296cadbada4322ec9c754aed4a5ec", null ],
-    [ "UpperBound", "df/d5b/a09966.html#a275d01ce57b23d42d4150b10c8433dee", null ],
-    [ "RelativeAngle", "df/d5b/a09966.html#a810a730ae905bfa296dbe6c1e4b86416", null ],
-    [ "Tolerance", "df/d5b/a09966.html#a2bb42885da594380cb742c29b6518ea3", null ]
+    [ "CreateWorldPacket", "df/d5b/a09966.html#a0acc39f8c58f6446a337e2d33f15731a", null ],
+    [ "GetMotd", "df/d5b/a09966.html#ab589dd8bfad950e02ee716ea9005253f", null ],
+    [ "GetMotdPacket", "df/d5b/a09966.html#a1eb1b16519bafaffe3b48b9835aab11e", null ],
+    [ "instance", "df/d5b/a09966.html#a0eac0994f742f9a5cbd912abc308d1a7", null ],
+    [ "LoadMotd", "df/d5b/a09966.html#a1a6ce19decdaf6cd778cf331bdc0c1ef", null ],
+    [ "LoadMotdLocale", "df/d5b/a09966.html#a21aa89787d5b0bbf69158f799122edd5", null ],
+    [ "SetMotd", "df/d5b/a09966.html#a7e317c2855b4ff96c2796081988bdf4f", null ]
 ];

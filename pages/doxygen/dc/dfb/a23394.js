@@ -1,12 +1,9 @@
 var a23394 =
 [
-    [ "boss_leotheras_the_blind", "dc/dfb/a23394.html#a9229850f996812366a20508931965a87", null ],
-    [ "AttackStart", "dc/dfb/a23394.html#a678ed3eba7d53976fd6efa9051d11124", null ],
-    [ "DemonTime", "dc/dfb/a23394.html#af62091f4c045b1a85ef022fdc81b6d30", null ],
-    [ "DoAction", "dc/dfb/a23394.html#a4f3fd791f12b3f176ce109237c516889", null ],
-    [ "ElfTime", "dc/dfb/a23394.html#a52f101530de8883231faa7f5fe689691", null ],
-    [ "MoveToTargetIfOutOfRange", "dc/dfb/a23394.html#a3481cfa1883988b8c1c3f65b9009860d", null ],
-    [ "Reset", "dc/dfb/a23394.html#a5d4be42da1c7ae15c98b608f39ef82db", null ],
-    [ "UpdateAI", "dc/dfb/a23394.html#a89deeb1888046d1f4756bcb6447d8f0d", null ],
-    [ "_recentlySpoken", "dc/dfb/a23394.html#ad5231f13a247247dd7095b16c381fc7c", null ]
+    [ "FilterTargets", "dc/dfb/a23394.html#a9049c113d65b15a9a8e1143980a84b23", null ],
+    [ "HandleDummy", "dc/dfb/a23394.html#a21fd59ba177fd7b04eb1fcafe869f33a", null ],
+    [ "Load", "dc/dfb/a23394.html#a8cad82701e0147e14f826243175e1c32", null ],
+    [ "PrepareSpellScript", "dc/dfb/a23394.html#aa05839a8dd785a2472e8e5f3a9fc58b0", null ],
+    [ "Register", "dc/dfb/a23394.html#a0e7e246c322b89c3b6ee08797984f7e6", null ],
+    [ "_targetNumber", "dc/dfb/a23394.html#a34f80edf782ade371e7a6fc908b47b4f", null ]
 ];

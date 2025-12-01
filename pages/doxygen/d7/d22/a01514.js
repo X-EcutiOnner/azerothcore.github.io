@@ -1,8 +1,8 @@
 var a01514 =
 [
-    [ "AddonInfo", "de/d7b/a06104.html", "de/d7b/a06104" ],
-    [ "SavedAddon", "d9/d60/a06108.html", "d9/d60/a06108" ],
-    [ "BannedAddon", "d8/d7b/a06112.html", "d8/d7b/a06112" ],
+    [ "AddonInfo", "d9/d59/a06110.html", "d9/d59/a06110" ],
+    [ "SavedAddon", "de/d8c/a06114.html", "de/d8c/a06114" ],
+    [ "BannedAddon", "df/d58/a06118.html", "df/d58/a06118" ],
     [ "STANDARD_ADDON_CRC", "d7/d22/a01514.html#a084249e215f787f3163d5d06ad2d256f", null ],
     [ "BannedAddonList", "d7/d22/a01514.html#a2ea3deb6be3c64b7b58ed27ccf60c779", null ],
     [ "GetAddonInfo", "d7/d22/a01514.html#a65cb6a88902972060e44c57d7d9ec738", null ],

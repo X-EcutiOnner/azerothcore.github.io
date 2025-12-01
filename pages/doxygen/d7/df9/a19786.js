@@ -1,6 +1,8 @@
 var a19786 =
 [
-    [ "boss_sjonnirAI", "d0/d4b/a19790.html", "d0/d4b/a19790" ],
-    [ "boss_sjonnir", "d7/df9/a19786.html#a8bb9b10778a2dedcde3d4ced44bc13f1", null ],
-    [ "GetAI", "d7/df9/a19786.html#a0bb79667d9d80f0c49e30fa0547c6062", null ]
+    [ "brann_bronzebeardAI", "d0/d4b/a19790.html", "d0/d4b/a19790" ],
+    [ "brann_bronzebeard", "d7/df9/a19786.html#a66fd8785647896a1a5f7be041242cfd6", null ],
+    [ "GetAI", "d7/df9/a19786.html#a66d4ae2f243f7869106c2372b3e7166c", null ],
+    [ "OnGossipHello", "d7/df9/a19786.html#a2714a2dde596db76706b8a86f97f82b8", null ],
+    [ "OnGossipSelect", "d7/df9/a19786.html#a0e0068a45012e50a9f645d393bdfe163", null ]
 ];

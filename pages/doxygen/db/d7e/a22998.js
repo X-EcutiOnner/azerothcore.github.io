@@ -1,8 +1,6 @@
 var a22998 =
 [
-    [ "Load", "db/d7e/a22998.html#a4ff26763f05b07d882cd8d209464910e", null ],
-    [ "OnPeriodic", "db/d7e/a22998.html#a3e3bb503a6b5f90741a4df668851accf", null ],
-    [ "PrepareAuraScript", "db/d7e/a22998.html#a4126d35669859963f10ed1425a054298", null ],
-    [ "Register", "db/d7e/a22998.html#adb6a44892d80aeaaf4c15c71a47f422e", null ],
-    [ "Validate", "db/d7e/a22998.html#a22d6c338ea1f2af9be0eb02aceba42bd", null ]
+    [ "CalculateAmount", "db/d7e/a22998.html#aeeabfef0accc4e0d1f78f7422dc30a99", null ],
+    [ "PrepareAuraScript", "db/d7e/a22998.html#a5cf70fe73d01e08e78a2d00e5bc95e8e", null ],
+    [ "Register", "db/d7e/a22998.html#a0d2e97463f268892965e307628aaa931", null ]
 ];

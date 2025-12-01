@@ -1,7 +1,7 @@
 var a03377 =
 [
-    [ "boss_hazzarah", "dd/d06/a14200.html", "dd/d06/a14200" ],
-    [ "spell_chain_burn", "d9/d14/a14204.html", "d9/d14/a14204" ],
+    [ "boss_hazzarah", "d1/d81/a14206.html", "d1/d81/a14206" ],
+    [ "spell_chain_burn", "d7/d49/a14210.html", "d7/d49/a14210" ],
     [ "Events", "dd/d8e/a03377.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

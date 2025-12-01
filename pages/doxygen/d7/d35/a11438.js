@@ -1,6 +1,10 @@
 var a11438 =
 [
-    [ "DestinationTargetSelectHandler", "d7/d35/a11438.html#ab5ffcc89b7232afddd6bc47e7c347b79", null ],
-    [ "Call", "d7/d35/a11438.html#a81ae2eb856507ee22308ae2739854382", null ],
-    [ "DestinationTargetSelectHandlerScript", "d7/d35/a11438.html#a95e882b892a79b464a521a8367b2e9b7", null ]
+    [ "EffectHook", "d7/d35/a11438.html#a4a197e061d918dfba2bc486f3393b00d", null ],
+    [ "~EffectHook", "d7/d35/a11438.html#aa234f63b530764d12064acbe3f5c9299", null ],
+    [ "CheckEffect", "d7/d35/a11438.html#ae8823c5d649d182f572818bf3db72902", null ],
+    [ "EffIndexToString", "d7/d35/a11438.html#ab818ed274cfd66ecc565b8535b751517", null ],
+    [ "GetAffectedEffectsMask", "d7/d35/a11438.html#a31faa86590e22f5ab3ca518f4df02840", null ],
+    [ "IsEffectAffected", "d7/d35/a11438.html#a697041ffa562bb6fff792beb159c7af2", null ],
+    [ "effIndex", "d7/d35/a11438.html#ab5eb48ef7ac903938f92db0e856e0295", null ]
 ];

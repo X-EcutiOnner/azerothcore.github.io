@@ -1,7 +1,5 @@
 var a19534 =
 [
-    [ "HandlePull", "d4/dc7/a19534.html#a05e6155abeb2720923ddf0d8cae54feb", null ],
-    [ "PrepareSpellScript", "d4/dc7/a19534.html#ac192245513e162a2842e47f5b0d64338", null ],
-    [ "Register", "d4/dc7/a19534.html#af6c7a881c2fcf07461006fef63074e5e", null ],
-    [ "SelectTarget", "d4/dc7/a19534.html#aabee5b6b8f3ba7e2cf91bcb05ce7929d", null ]
+    [ "achievement_split_personality", "d4/dc7/a19534.html#aac29ae7c321306a663e55493987af45d", null ],
+    [ "OnCheck", "d4/dc7/a19534.html#ab5379f3c1191eeb747cb6762fc42ce01", null ]
 ];

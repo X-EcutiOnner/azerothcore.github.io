@@ -1,12 +1,7 @@
 var a07218 =
 [
-    [ "damageText", "d2/d40/a07218.html#af83062a39d8dfc89bf61a4364bd8579d", null ],
-    [ "destroyText", "d2/d40/a07218.html#a81747f8ff920f7c17a55d45d43304cc9", null ],
-    [ "entry", "d2/d40/a07218.html#a58d0395a47190698d309e80d91358bb1", null ],
-    [ "o", "d2/d40/a07218.html#a21238943701f594e1a5346193c895d33", null ],
-    [ "type", "d2/d40/a07218.html#a3cebd422659aa7339e9a23a87cfad0d7", null ],
-    [ "WorldState", "d2/d40/a07218.html#a4b4881aba2d297e125443f0c8ccab618", null ],
-    [ "x", "d2/d40/a07218.html#a80ebabba7265753a05367a4c79f6450c", null ],
-    [ "y", "d2/d40/a07218.html#a5d8ade187749e6fc191f01b384a4cda6", null ],
-    [ "z", "d2/d40/a07218.html#a3913a2618277cc5ad382aa2fc1d00f5e", null ]
+    [ "BfGraveyardWG", "d2/d40/a07218.html#a040af569e6633e4ed4c7513b55d034ac", null ],
+    [ "GetTextId", "d2/d40/a07218.html#ae1dfdc2d5a36f10f1a116d56b27545ed", null ],
+    [ "SetTextId", "d2/d40/a07218.html#a367d525e84d8634f47fb6679c2ee3d42", null ],
+    [ "m_GossipTextId", "d2/d40/a07218.html#ab85d716c0b93f8a17d7bf0dccabc21c6", null ]
 ];

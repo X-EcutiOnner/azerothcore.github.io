@@ -1,7 +1,7 @@
 var a19138 =
 [
-    [ "HandleGameObjectDamage", "db/dab/a19138.html#a811edfe01c1784664b5b4253d2305b4e", null ],
-    [ "PrepareSpellScript", "db/dab/a19138.html#a0cfedeba2a747777de292b8f30b6752b", null ],
-    [ "Register", "db/dab/a19138.html#a2d3b99dfe386777cf71ccb2ccac9f3a7", null ],
-    [ "Validate", "db/dab/a19138.html#ab74d5c88a910fe191b071db3ac2c0381", null ]
+    [ "HandleTriggerSpell", "db/dab/a19138.html#a0e75076c2aed1544c544b976ee9cfbcd", null ],
+    [ "PrepareAuraScript", "db/dab/a19138.html#a6ce4c5c2b6797b38225ac3348aad5892", null ],
+    [ "Register", "db/dab/a19138.html#af87272995f6eeb3bc53cf472f5c3e9d3", null ],
+    [ "Validate", "db/dab/a19138.html#a813bad39641956fff697580f271416d2", null ]
 ];

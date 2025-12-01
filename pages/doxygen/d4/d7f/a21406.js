@@ -1,6 +1,6 @@
 var a21406 =
 [
-    [ "boss_ymironAI", "d6/d2e/a21410.html", "d6/d2e/a21410" ],
-    [ "boss_ymiron", "d4/d7f/a21406.html#a708ffc55e0a190a8ed6adb0bca6ced7c", null ],
-    [ "GetAI", "d4/d7f/a21406.html#a0a8caed3c8021ddf861cc71b57297c41", null ]
+    [ "boss_emalonAI", "d6/d2e/a21410.html", "d6/d2e/a21410" ],
+    [ "boss_emalon", "d4/d7f/a21406.html#a2dd481292e02337bebd450f5c9821886", null ],
+    [ "GetAI", "d4/d7f/a21406.html#a345b0663ba89de5e37b87a436c48e446", null ]
 ];

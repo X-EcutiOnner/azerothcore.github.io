@@ -1,6 +1,6 @@
 var a27726 =
 [
-    [ "npc_taxi", "d5/de0/a27726.html#ac67282316d6ded2ff62b8a1800b8fae1", null ],
-    [ "OnGossipHello", "d5/de0/a27726.html#a1bce89202ea3ed3fcbebd19a305c6a78", null ],
-    [ "OnGossipSelect", "d5/de0/a27726.html#a5a7443abba8cf98a3073195177981edc", null ]
+    [ "npc_training_dummyAI", "d6/d60/a27730.html", "d6/d60/a27730" ],
+    [ "npc_training_dummy", "d5/de0/a27726.html#acfed4da3b1a01bc58e599d2dc134cb7d", null ],
+    [ "GetAI", "d5/de0/a27726.html#a87a48a42e8349ce9125de91a429d4ffa", null ]
 ];

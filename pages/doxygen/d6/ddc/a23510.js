@@ -1,7 +1,6 @@
 var a23510 =
 [
-    [ "go_ahune_ice_spear", "d6/ddc/a23510.html#a22922e47b819bc60e331cffbc7c353b3", null ],
-    [ "Reset", "d6/ddc/a23510.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
-    [ "UpdateAI", "d6/ddc/a23510.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
-    [ "_scheduler", "d6/ddc/a23510.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
+    [ "boss_rokmar_the_crackler", "d6/ddc/a23510.html#a0aca6a30d045bbea6f434979f4f1d2e9", null ],
+    [ "JustEngagedWith", "d6/ddc/a23510.html#ae376e6a96fa07136790f3ed04ee1023b", null ],
+    [ "Reset", "d6/ddc/a23510.html#aed9cf4a866d5e70647125a08885fb809", null ]
 ];

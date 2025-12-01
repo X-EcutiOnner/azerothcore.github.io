@@ -1,6 +1,6 @@
 var a23142 =
 [
-    [ "FilterTargets", "d8/d70/a23142.html#a04973145ed594b88afe2acc0cacb10c6", null ],
-    [ "PrepareSpellScript", "d8/d70/a23142.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
-    [ "Register", "d8/d70/a23142.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
+    [ "npc_supremus_punch_invisible_stalker", "d8/d70/a23142.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
+    [ "IsSummonedBy", "d8/d70/a23142.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
+    [ "UpdateAI", "d8/d70/a23142.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
 ];

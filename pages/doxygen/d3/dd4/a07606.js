@@ -1,10 +1,13 @@
 var a07606 =
 [
-    [ "value_type", "d3/dd4/a07606.html#a821f7b556a5e7dd88e406eb856a5b635", null ],
-    [ "operator()", "d3/dd4/a07606.html#a51db58c653c279b30d19e9188894adec", null ],
-    [ "operator()", "d3/dd4/a07606.html#a6225e55f229eca06eef7e6c27531bbe9", null ],
-    [ "operator()", "d3/dd4/a07606.html#ab516399a6965a67daed318a1058c87ef", null ],
-    [ "operator()", "d3/dd4/a07606.html#abeeef774a78ec84f0020686aab425a5c", null ],
-    [ "operator()", "d3/dd4/a07606.html#a0d4e9cb0ae75752363793d29599afbdc", null ],
-    [ "operator()", "d3/dd4/a07606.html#a4a277a9ad5764e42c53746999e004b88", null ]
+    [ "InvokerEntry", "da/d42/a07610.html", "da/d42/a07610" ],
+    [ "SubCommandEntry", "d3/dd4/a07606.html#a9a01b487be01e84573f7ebe99620541b", null ],
+    [ "ChatCommandBuilder", "d3/dd4/a07606.html#a894f6ae19d715d9d3f395736bf7cdb41", null ],
+    [ "ChatCommandBuilder", "d3/dd4/a07606.html#ad9b8a40b28eb5944512b6f3033b3a933", null ],
+    [ "ChatCommandBuilder", "d3/dd4/a07606.html#a4edc4cebdd26b55c0912b8ae0ed5fbaa", null ],
+    [ "ChatCommandBuilder", "d3/dd4/a07606.html#ac2c8cc88865de637f322b54bf6a47e13", null ],
+    [ "ChatCommandBuilder", "d3/dd4/a07606.html#a9ecbebaa3c839f57a90dcccca1473913", null ],
+    [ "Acore::Impl::ChatCommands::ChatCommandNode", "d3/dd4/a07606.html#a3b9ea3963b82697cbe5d6ca86ff29847", null ],
+    [ "_data", "d3/dd4/a07606.html#aff0a8c833c04f98abf46aaba4fbf9374", null ],
+    [ "_name", "d3/dd4/a07606.html#a4315363c5d25bb157481cbbd3fa0286f", null ]
 ];

@@ -1,6 +1,11 @@
 var a21398 =
 [
-    [ "CalculateAmount", "d9/d8f/a21398.html#a79019ef395c9b66f6a88759b0517005d", null ],
-    [ "PrepareAuraScript", "d9/d8f/a21398.html#a1336ab2b7f560deeeeaaf017578bd524", null ],
-    [ "Register", "d9/d8f/a21398.html#a9bce52699983fe798c903385faa42462", null ]
+    [ "boss_archavonAI", "d9/d8f/a21398.html#a101518193c0fb6bbd6892362a6f09b9c", null ],
+    [ "AttackStart", "d9/d8f/a21398.html#ac9f82f61ee7fe945cb3fba23a69e704c", null ],
+    [ "JustDied", "d9/d8f/a21398.html#a3974065a80dedf3e673452e7f6f8e449", null ],
+    [ "JustEngagedWith", "d9/d8f/a21398.html#ace4a10f62eaa21ecd997ad1dbe15f3c8", null ],
+    [ "Reset", "d9/d8f/a21398.html#a7d101626f39947dd54b574491a5e6d72", null ],
+    [ "UpdateAI", "d9/d8f/a21398.html#a5abb4c2b4149172d2e7bf0d539237323", null ],
+    [ "events", "d9/d8f/a21398.html#a8d7fef6dfcdc5be20f0531c34b09fc13", null ],
+    [ "pInstance", "d9/d8f/a21398.html#ab51f09b76054d8bdb13f3c27396db87e", null ]
 ];

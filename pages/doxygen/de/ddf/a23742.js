@@ -1,10 +1,8 @@
 var a23742 =
 [
-    [ "boss_kelidan_the_breaker", "de/ddf/a23742.html#a6774e4a0315b30266f6c55da608cd193", null ],
-    [ "ApplyImmunities", "de/ddf/a23742.html#adc84fae23d68c0c75ac21c3f3b32973a", null ],
-    [ "DoAction", "de/ddf/a23742.html#a3fa0117ce1079f651025116684f5e2f4", null ],
-    [ "JustDied", "de/ddf/a23742.html#a4d3f0171b7889a96f19999b28e549866", null ],
-    [ "JustEngagedWith", "de/ddf/a23742.html#a12eb8fb73353042e4bb4ea31cbdc1c3c", null ],
-    [ "KilledUnit", "de/ddf/a23742.html#a1c1613b165c25025a2a11bf3c38d6747", null ],
-    [ "Reset", "de/ddf/a23742.html#a46c592f6c46ea568ad368702e1640e06", null ]
+    [ "instance_hellfire_ramparts_InstanceMapScript", "de/ddf/a23742.html#aebc047b45cb4560a38df89db75f8efab", null ],
+    [ "Initialize", "de/ddf/a23742.html#a115a36ec26e15e23be4d78250d86d814", null ],
+    [ "OnGameObjectCreate", "de/ddf/a23742.html#a0639fcd867616d1f04aacde44020bb30", null ],
+    [ "SetBossState", "de/ddf/a23742.html#a7a38526ca7b9a7c7c04231f8f8efd2f7", null ],
+    [ "felIronChestGUID", "de/ddf/a23742.html#a7cfcac5dbe4562268679ddceaf8ec8ea", null ]
 ];

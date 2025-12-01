@@ -1,7 +1,5 @@
 var a22574 =
 [
-    [ "npc_wg_quest_giver", "d1/d64/a22574.html#a68589ab4ce9f43247154f3c66d8107b8", null ],
-    [ "GetDialogStatus", "d1/d64/a22574.html#acd5c1462fe51a350c80af4f3ab46bac8", null ],
-    [ "OnGossipHello", "d1/d64/a22574.html#ad08debc749cbaea6fad9b7bcfb5548e0", null ],
-    [ "OnGossipSelect", "d1/d64/a22574.html#a9d42e558d68eee9f0f96ac1f8cd1a409", null ]
+    [ "achievement_wg_vehicular_gnomeslaughter", "d1/d64/a22574.html#a441b8db113ef4843f433c1ea3f3052b5", null ],
+    [ "OnCheck", "d1/d64/a22574.html#ab23a2d90e536a3a9ecbb3b64c5b0e18f", null ]
 ];

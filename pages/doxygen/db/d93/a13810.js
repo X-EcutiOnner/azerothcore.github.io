@@ -1,6 +1,6 @@
 var a13810 =
 [
-    [ "CheckProc", "db/d93/a13810.html#af6d00234388ceb5d1c9acd8775c66788", null ],
-    [ "PrepareAuraScript", "db/d93/a13810.html#abdbb7406693a59372fe6783fbe4fb0f1", null ],
-    [ "Register", "db/d93/a13810.html#acad1e829a317d15e73549047ece67eda", null ]
+    [ "OnEffect", "db/d93/a13810.html#a41903586310ec274dd10537ccb8655f3", null ],
+    [ "PrepareSpellScript", "db/d93/a13810.html#a17240b9d80e5f30cd4638e2ec5b92d0b", null ],
+    [ "Register", "db/d93/a13810.html#a64ef9effcdeaf13b58aeef889d777f22", null ]
 ];

@@ -1,7 +1,6 @@
 var a24178 =
 [
-    [ "OnPeriodic", "d5/dd0/a24178.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
-    [ "PrepareAuraScript", "d5/dd0/a24178.html#a6f7db06cc1ace68ee0076077773b1659", null ],
-    [ "Register", "d5/dd0/a24178.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
-    [ "Validate", "d5/dd0/a24178.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
+    [ "npc_aeranasAI", "d6/d4b/a24182.html", "d6/d4b/a24182" ],
+    [ "npc_aeranas", "d5/dd0/a24178.html#a6ea71481ef6a223a329b805081122537", null ],
+    [ "GetAI", "d5/dd0/a24178.html#a81167df6665bdca81ee13468dec19643", null ]
 ];

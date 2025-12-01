@@ -1,5 +1,5 @@
 var a20498 =
 [
-    [ "achievement_staying_buffed_all_winter_10", "d7/d3e/a20498.html#a40afd6db0bf6cff2b9b6163b7d4c31da", null ],
-    [ "OnCheck", "d7/d3e/a20498.html#a67587b1659a8d026e73b42311148541a", null ]
+    [ "achievement_ignis_shattered", "d7/d3e/a20498.html#adbe893b0dd409eb3f10768f81f182f61", null ],
+    [ "OnCheck", "d7/d3e/a20498.html#a8a77a6e6979b4b09f5208e51b4faa4c1", null ]
 ];

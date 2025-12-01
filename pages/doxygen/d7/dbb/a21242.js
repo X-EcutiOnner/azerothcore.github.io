@@ -1,11 +1,8 @@
 var a21242 =
 [
-    [ "npc_ulduar_storm_tempered_keeperAI", "d7/dbb/a21242.html#a97ffe70fab090c7182b2a8dce3c7c54f", null ],
-    [ "JustDied", "d7/dbb/a21242.html#a4778b4c1d7afedc4c8ea3a0b2c2509e1", null ],
-    [ "JustEngagedWith", "d7/dbb/a21242.html#a5ae632ba4da1e78dfa6980fce492ec8e", null ],
-    [ "JustSummoned", "d7/dbb/a21242.html#a7962e2148fb55d96cde4e2fed48e71f4", null ],
-    [ "Reset", "d7/dbb/a21242.html#a521fd2c3f8fb1319daaecfb203d9ebb8", null ],
-    [ "UpdateAI", "d7/dbb/a21242.html#a9d5bc84572934b4fba19d2996e1c89f0", null ],
-    [ "events", "d7/dbb/a21242.html#a0281fd23155c73768a09f60b3a04ce9d", null ],
-    [ "otherGUID", "d7/dbb/a21242.html#a627aa7ff4ffe264d4ea3e78469954170", null ]
+    [ "boss_keleseth", "d7/dbb/a21242.html#ad2f0f020b0c92852dedadea5730e4e80", null ],
+    [ "AttackStart", "d7/dbb/a21242.html#a731ebf8e9ff4f64582a8f9373ce08a39", null ],
+    [ "JustDied", "d7/dbb/a21242.html#ad23ede5c869ab12dc1c2f6a783e9b539", null ],
+    [ "JustEngagedWith", "d7/dbb/a21242.html#a8d5cba1dd481bdfaf93f6e2427880b2e", null ],
+    [ "KilledUnit", "d7/dbb/a21242.html#a64d14f1b8f169128bbbc507730f4f1eb", null ]
 ];

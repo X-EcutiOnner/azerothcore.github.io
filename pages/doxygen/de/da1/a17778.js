@@ -1,12 +1,6 @@
 var a17778 =
 [
-    [ "gunship_npc_AI", "de/da1/a17778.html#a30c13cb755638fcf05d1ad9a476210d3", null ],
-    [ "EnterEvadeMode", "de/da1/a17778.html#a7c2da25bb962c32fa350ee1f12f86ca4", null ],
-    [ "JustDied", "de/da1/a17778.html#ad40c976be4decd9054dad031a4caab78", null ],
-    [ "MovementInform", "de/da1/a17778.html#a3bae54b656fc5ed8c6fef80bd1721c71", null ],
-    [ "SetData", "de/da1/a17778.html#acfd5e331155d7787ada33acbca73fece", null ],
-    [ "SetSlotInfo", "de/da1/a17778.html#afdfc3f9add2952f90baf24d55425670f", null ],
-    [ "Index", "de/da1/a17778.html#ae120874514cf5921136821b820a04da7", null ],
-    [ "Instance", "de/da1/a17778.html#ab5276a099bcf56c5a25b3a52be516b5c", null ],
-    [ "Slot", "de/da1/a17778.html#a59d237475ae309755d429cfac77d6630", null ]
+    [ "npc_gunship_boarding_leaderAI", "d7/d58/a17782.html", "d7/d58/a17782" ],
+    [ "npc_gunship_boarding_leader", "de/da1/a17778.html#a8390eadab34a89643252f573588b140a", null ],
+    [ "GetAI", "de/da1/a17778.html#ae422c8a1de8fb909a89d2ad2f516e3b4", null ]
 ];

@@ -1,7 +1,7 @@
 var a24126 =
 [
-    [ "HandleDamage", "d2/d5c/a24126.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "d2/d5c/a24126.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "d2/d5c/a24126.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "d2/d5c/a24126.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "OnPeriodic", "d2/d5c/a24126.html#a7ef787ac13b97aa225a5340f7bfcc4e3", null ],
+    [ "PrepareAuraScript", "d2/d5c/a24126.html#a6f7db06cc1ace68ee0076077773b1659", null ],
+    [ "Register", "d2/d5c/a24126.html#a559347bedad9fd8a0e6f4c5b14333c06", null ],
+    [ "Validate", "d2/d5c/a24126.html#aae1c2d5b8eb30341a67e261e69a4d294", null ]
 ];

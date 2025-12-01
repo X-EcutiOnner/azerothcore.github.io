@@ -1,6 +1,6 @@
 var a12086 =
 [
-    [ "boss_grizzleAI", "d8/d75/a12090.html", "d8/d75/a12090" ],
-    [ "boss_grizzle", "dc/d83/a12086.html#a6c9913cec9503a86e2f5358f65b97b26", null ],
-    [ "GetAI", "dc/d83/a12086.html#aa0bf6c89f13fbd20695ebb7ce965b0f5", null ]
+    [ "npc_burning_spiritAI", "d8/d75/a12090.html", "d8/d75/a12090" ],
+    [ "npc_burning_spirit", "dc/d83/a12086.html#a596e654486c82d15d7a37b069a99856d", null ],
+    [ "GetAI", "dc/d83/a12086.html#a3c704a0856d669a1e684e5a858bc4334", null ]
 ];

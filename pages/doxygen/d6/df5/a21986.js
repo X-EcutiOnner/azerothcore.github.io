@@ -1,6 +1,6 @@
 var a21986 =
 [
-    [ "CheckCast", "d6/df5/a21986.html#a9c7e08a8a9b1c1b44ae290818826d43a", null ],
-    [ "PrepareSpellScript", "d6/df5/a21986.html#abff433d61c798d17882292b6b0956a58", null ],
-    [ "Register", "d6/df5/a21986.html#a1034967a4bf633f160cc40ae6e0fc567", null ]
+    [ "SACDeactivateEvent", "d6/df5/a21986.html#a14f1db2f3bf7e82d0e5c5b5135d46cf9", null ],
+    [ "Execute", "d6/df5/a21986.html#a12179c55d1999b3cd0cfc5d51d039a31", null ],
+    [ "_owner", "d6/df5/a21986.html#acc87b2f689bf2e6a3f19440dceb6ea6d", null ]
 ];

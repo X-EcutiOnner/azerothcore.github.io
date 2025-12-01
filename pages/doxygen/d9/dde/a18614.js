@@ -1,6 +1,5 @@
 var a18614 =
 [
-    [ "npc_lk_wicked_spiritAI", "dc/ddd/a18618.html", "dc/ddd/a18618" ],
-    [ "npc_lk_wicked_spirit", "d9/dde/a18614.html#adb5f0d5db260b3e5b4df3725c0b62827", null ],
-    [ "GetAI", "d9/dde/a18614.html#ad75b36f2f7242dea685cd67dc72d0d30", null ]
+    [ "achievement_been_waiting_long_time", "d9/dde/a18614.html#a839ec8cb50512bbae7125ead3ed35aec", null ],
+    [ "OnCheck", "d9/dde/a18614.html#a5e72304220d3a649d2182cb287215da6", null ]
 ];

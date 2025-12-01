@@ -1,7 +1,6 @@
 var a22306 =
 [
-    [ "Absorb", "de/dc7/a22306.html#a784b48553696734abac77545df2fc045", null ],
-    [ "CalculateAmount", "de/dc7/a22306.html#a456ee99a71062f6217bda7561e4e7766", null ],
-    [ "PrepareAuraScript", "de/dc7/a22306.html#a456b1b70fd6d9b6642ec959677fe08ff", null ],
-    [ "Register", "de/dc7/a22306.html#aa3260fa9a1a918e13ccfc9cd57f59d19", null ]
+    [ "npc_blessed_bannerAI", "db/d20/a22310.html", "db/d20/a22310" ],
+    [ "npc_blessed_banner", "de/dc7/a22306.html#a779a0c653088b2d206226e146a19101f", null ],
+    [ "GetAI", "de/dc7/a22306.html#a43dabbf2f2d54ae201cde37df792a41d", null ]
 ];

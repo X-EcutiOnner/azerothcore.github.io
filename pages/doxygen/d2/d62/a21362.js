@@ -1,17 +1,6 @@
 var a21362 =
 [
-    [ "boss_skadiAI", "d2/d62/a21362.html#a674e0cea77b25ec6413f8e52336d06db", null ],
-    [ "DoAction", "d2/d62/a21362.html#ac0513a8e187b3d68fd320b124930ac8b", null ],
-    [ "GetGrauf", "d2/d62/a21362.html#a48806cf61d295e6ab86a1e018b0fd30a", null ],
-    [ "JustDied", "d2/d62/a21362.html#af963eda18854869f3a73cb22f48b0230", null ],
-    [ "JustEngagedWith", "d2/d62/a21362.html#a2853d557da48decede7baa4845f5573f", null ],
-    [ "KilledUnit", "d2/d62/a21362.html#aab72405691cab78ac0f224cf637f7570", null ],
-    [ "Reset", "d2/d62/a21362.html#a7d1287f7a3cc5703a7430a15e769cb2c", null ],
-    [ "UpdateAI", "d2/d62/a21362.html#a05690f147e2c2a584179c19b0a84a1b0", null ],
-    [ "events", "d2/d62/a21362.html#a7dabced72e6cc2191cc29a221967159e", null ],
-    [ "EventStarted", "d2/d62/a21362.html#aa4f75b2430f3b95dcc2a06f22f5d9680", null ],
-    [ "GraufGUID", "d2/d62/a21362.html#a9990eed4758e5eaad8a538b09ac7ee4f", null ],
-    [ "m_pInstance", "d2/d62/a21362.html#ae48e23b61d9cafbdc9a7811361ebcd11", null ],
-    [ "SecondPhase", "d2/d62/a21362.html#a3a3892c0fcc148cf8d3b903a37de3e1f", null ],
-    [ "summons", "d2/d62/a21362.html#a93762ced245b700eb6196ea3a96b143c", null ]
+    [ "HandleDummyEffect", "d2/d62/a21362.html#a25bc99811aa2c7bf4bfbf8ad628a2771", null ],
+    [ "PrepareSpellScript", "d2/d62/a21362.html#a07376c95cb2ec41d86a24be59094d207", null ],
+    [ "Register", "d2/d62/a21362.html#aaa02dab30b29e6f646db52468fc35eb2", null ]
 ];

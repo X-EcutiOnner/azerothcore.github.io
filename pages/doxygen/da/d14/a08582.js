@@ -1,5 +1,6 @@
 var a08582 =
 [
-    [ "Rank", "da/d14/a08582.html#a61797c7cb799308a7c20a954d287be17", null ],
-    [ "SkillId", "da/d14/a08582.html#a3f28221b1c8e91bf9f2fa6337e81c952", null ]
+    [ "PlayerCreateInfoItem", "da/d14/a08582.html#aba5495af3d4c463f7f65fa1851879d3b", null ],
+    [ "item_amount", "da/d14/a08582.html#a2cc481d54ec0c8a58477803364f40b2a", null ],
+    [ "item_id", "da/d14/a08582.html#a54e5593fe1a1e06b16963c96f1840a2a", null ]
 ];

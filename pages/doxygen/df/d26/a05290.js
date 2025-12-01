@@ -1,10 +1,12 @@
 var a05290 =
 [
-    [ "Find", "df/d26/a05290.html#a1d6a7cd1596aa03a8e53609c7d7b6e33", null ],
-    [ "GetElements", "df/d26/a05290.html#a653b00a9d570ae9d9276a061beda3f35", null ],
-    [ "GetElements", "df/d26/a05290.html#a209cbb9e5ba70b9f5f66e64e2c36411d", null ],
-    [ "Insert", "df/d26/a05290.html#ad61d9aa314133d8eba934fe56cff48e0", null ],
-    [ "Remove", "df/d26/a05290.html#a5a9666fc5f0136a778d8c542a386d4bf", null ],
-    [ "Size", "df/d26/a05290.html#a289258c9015016a70d2867df7e113def", null ],
-    [ "_elements", "df/d26/a05290.html#adda6657e9a0fd08b105cd4d6b2baa9d3", null ]
+    [ "RegistryMapType", "df/d26/a05290.html#ab6a131bc0c7d0ddcb9ad34044b9c8ac2", null ],
+    [ "ObjectRegistry", "df/d26/a05290.html#aa3bcc30791e82bc900eacf1c5833b7f8", null ],
+    [ "~ObjectRegistry", "df/d26/a05290.html#a2734a0e6001f597b43e006bc9d84a6b1", null ],
+    [ "GetRegisteredItems", "df/d26/a05290.html#aba4a4fcc7ee59afbb4dea6df7410dc02", null ],
+    [ "GetRegistryItem", "df/d26/a05290.html#a474bdff0ab0f0a3db5f914b9dfaa48d1", null ],
+    [ "HasItem", "df/d26/a05290.html#a3c95897734a780c1f299d24a058b3595", null ],
+    [ "InsertItem", "df/d26/a05290.html#a55416824a5dff4138f5d828e352e3d7c", null ],
+    [ "instance", "df/d26/a05290.html#a7a6582a84361d5ad1142f29c9e1d9cb5", null ],
+    [ "_registeredObjects", "df/d26/a05290.html#a61e6a6eb75512241e82092abfeba7a65", null ]
 ];

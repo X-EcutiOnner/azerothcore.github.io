@@ -1,7 +1,14 @@
 var a24114 =
 [
-    [ "boss_gatewatcher_gyrokill", "d3/d03/a24114.html#a82335081dd79f7a0aa1dc0c26bd878fb", null ],
-    [ "JustDied", "d3/d03/a24114.html#a4bbfb59c2a687ebb3e88bde9784af38e", null ],
-    [ "JustEngagedWith", "d3/d03/a24114.html#a95d3ae80f87be9d972ecb056e0b85412", null ],
-    [ "KilledUnit", "d3/d03/a24114.html#a274355d0303d9bf5761758f175826bd1", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d3/d03/a24114.html#a258f55153ad857fbf35545cfb87c3d3a", null ],
+    [ "Initialize", "d3/d03/a24114.html#a187340b00067f2f65a7e48845a6edaba", null ],
+    [ "JustSummoned", "d3/d03/a24114.html#a10a3b9b4a2763bac4c9fe5f680850052", null ],
+    [ "Reset", "d3/d03/a24114.html#a92a6cbe0515752440284d18bae0adf66", null ],
+    [ "SpellHit", "d3/d03/a24114.html#a517f7412208de83604d0d6806fbc0b34", null ],
+    [ "UpdateAI", "d3/d03/a24114.html#ab4fb75f1b84c2722f936387a6942028b", null ],
+    [ "CannonGUID", "d3/d03/a24114.html#a220e111467cfb6f02e996f012123e09b", null ],
+    [ "count", "d3/d03/a24114.html#ac78f94033239dcf247be9a48d0535081", null ],
+    [ "events", "d3/d03/a24114.html#acf362c9e3eb844db9f66cc8c969cd22e", null ],
+    [ "PartyTime", "d3/d03/a24114.html#a1780c656fb539be6dcd74e271cea4c53", null ],
+    [ "PlayerGUID", "d3/d03/a24114.html#a686314ffe4a588a1ba8722a6cab56fc7", null ]
 ];

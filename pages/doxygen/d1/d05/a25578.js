@@ -1,6 +1,7 @@
 var a25578 =
 [
-    [ "CalculateAmount", "d1/d05/a25578.html#a83bf0327aade6f6a33293a442ad10911", null ],
-    [ "PrepareAuraScript", "d1/d05/a25578.html#aa964f4eb7391dab54ff744fc94306de1", null ],
-    [ "Register", "d1/d05/a25578.html#a37d29d87bec2fe2908b7d3e47f5e1caa", null ]
+    [ "HandleOnEffectApply", "d1/d05/a25578.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
+    [ "HandleOnEffectRemove", "d1/d05/a25578.html#a094d788d157474a9683387d5c340538f", null ],
+    [ "PrepareAuraScript", "d1/d05/a25578.html#aad378b8c45f11af51faf9128878c01df", null ],
+    [ "Register", "d1/d05/a25578.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
 ];

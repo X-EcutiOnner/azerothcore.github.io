@@ -1,12 +1,9 @@
 var a11102 =
 [
-    [ "Build", "d3/ddb/a11102.html#aa5ed2806342a36723f1317105ebc13fa", null ],
-    [ "FormatVersion", "d3/ddb/a11102.html#abf0c90aa56c9f74e4139b4a1ead3115e", null ],
-    [ "Locale", "d3/ddb/a11102.html#acdcbe4c10ad6143b756638349c185ae5", null ],
-    [ "OptionalDataSize", "d3/ddb/a11102.html#a88c79f6e69197e23ce191bcef187c0fe", null ],
-    [ "SessionKey", "d3/ddb/a11102.html#aff4e4f46725d72923bac3e197ae7d2e3", null ],
-    [ "Signature", "d3/ddb/a11102.html#a34b88d6d83daeee7827176993c152de4", null ],
-    [ "SnifferId", "d3/ddb/a11102.html#a95d3f116ef30a096970ee4f3dd10e2ed", null ],
-    [ "SniffStartTicks", "d3/ddb/a11102.html#a1884076ea4fe5af08964471d0058fd4d", null ],
-    [ "SniffStartUnixtime", "d3/ddb/a11102.html#a8923983e21b7a7f1dd3ee4f21b7df592", null ]
+    [ "TotemCreated", "d3/ddb/a11102.html#a24c9e483d1edb526330311c719d750df", null ],
+    [ "Write", "d3/ddb/a11102.html#a554900ae7442f00a63c983ea7ea74510", null ],
+    [ "Duration", "d3/ddb/a11102.html#aff6335b86ac051bccb623124905c7180", null ],
+    [ "Slot", "d3/ddb/a11102.html#a0889c816fbef728f1a0a6c530c801eac", null ],
+    [ "SpellID", "d3/ddb/a11102.html#a2fe9f98b653d7c2afcf3166e86f3756e", null ],
+    [ "Totem", "d3/ddb/a11102.html#a684d15c5368e8065c78e9320eebb676b", null ]
 ];

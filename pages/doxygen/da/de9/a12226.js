@@ -1,12 +1,11 @@
 var a12226 =
 [
-    [ "boss_pyroguard_emberseerAI", "da/de9/a12226.html#ac08deea0d151d109f36bb3cf66a34f29", null ],
-    [ "JustDied", "da/de9/a12226.html#aa35fc50d327c0bf7506bfd166d098522", null ],
-    [ "JustEngagedWith", "da/de9/a12226.html#a9eff335ff04e3da1e4488e00b55ecbaa", null ],
-    [ "OpenDoors", "da/de9/a12226.html#a8002f8d7b6b06b970d38d9824d57d737", null ],
-    [ "Reset", "da/de9/a12226.html#ab82a2bc6e9596d14dd2fd65b859af74d", null ],
-    [ "SetData", "da/de9/a12226.html#a5892ccaf9107e2da47c22c21bf5b2ed9", null ],
-    [ "SpellHit", "da/de9/a12226.html#a236f20c40eb1c37a25b04b5cf83e2488", null ],
-    [ "UpdateAI", "da/de9/a12226.html#a075147c4409174652e732293426b732d", null ],
-    [ "UpdateRunes", "da/de9/a12226.html#a87d7d63893a9feb6bb6c44adf1c637eb", null ]
+    [ "boss_gythAI", "da/de9/a12226.html#aeec049af24b3a6f94051f1008ce107e6", null ],
+    [ "EnterEvadeMode", "da/de9/a12226.html#a20296c618ad366d7ac956f16671cc408", null ],
+    [ "IsSummonedBy", "da/de9/a12226.html#a6800421a2e9e889e649e792ee642d8ac", null ],
+    [ "JustDied", "da/de9/a12226.html#a979da1f3922d9575b6c237b85952fb6c", null ],
+    [ "JustEngagedWith", "da/de9/a12226.html#a6c0ca15d87851c205d94679ea65e5193", null ],
+    [ "JustSummoned", "da/de9/a12226.html#ab9024ce261129c82d4304d2a13834a5f", null ],
+    [ "Reset", "da/de9/a12226.html#aa3c86b403af5394a4e4cb30781bcb46b", null ],
+    [ "UpdateAI", "da/de9/a12226.html#a66f27f6d49b40dcc2894f177b281570f", null ]
 ];

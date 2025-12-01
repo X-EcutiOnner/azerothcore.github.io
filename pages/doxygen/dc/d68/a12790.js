@@ -1,4 +1,4 @@
 var a12790 =
 [
-    [ "npc_nightbane_helper_target", "dc/d68/a12790.html#a688ebb85baad72e523be0dceb70a75fc", null ]
+    [ "PrepareAuraScript", "dc/d68/a12790.html#aae5dc71af1a0fade2da9ee88875896a5", null ]
 ];

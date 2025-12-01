@@ -1,13 +1,19 @@
 var a05390 =
 [
-    [ "Logger", "d1/df3/a05390.html#a79033d763c69dbfb95b1c591f1cc680b", null ],
-    [ "addAppender", "d1/df3/a05390.html#aabacae0a84994e5567f9c87829909fdd", null ],
-    [ "delAppender", "d1/df3/a05390.html#a1fb8747bf7b652b9dfbf9ee830a82c8b", null ],
-    [ "getLogLevel", "d1/df3/a05390.html#aba945b0f037b7de27976d3a6e1a0fbbd", null ],
-    [ "getName", "d1/df3/a05390.html#ae95167d7bb330ecc0a49779a5635d1e2", null ],
-    [ "setLogLevel", "d1/df3/a05390.html#a00fdcdbeb39a2d5d4fb27cc36c35c101", null ],
-    [ "write", "d1/df3/a05390.html#a3627f98e8676ee7b68a34a4d9439082e", null ],
-    [ "appenders", "d1/df3/a05390.html#aa93931f2386ebc6dbf2464f536ed54f9", null ],
-    [ "level", "d1/df3/a05390.html#a3b1d9dd7bd391ac7bed560918f82a03b", null ],
-    [ "name", "d1/df3/a05390.html#ada299a7dd268085371557213e36695a9", null ]
+    [ "Appender", "d1/df3/a05390.html#aed555d5a182fefce9bb570201e9f005f", null ],
+    [ "~Appender", "d1/df3/a05390.html#a7194b4ff5130399352c356852023004d", null ],
+    [ "_write", "d1/df3/a05390.html#a04e6bf8aca909a3fbadcd053dda85b83", null ],
+    [ "getFlags", "d1/df3/a05390.html#a57fad2f7bd4da733633051f47efd6555", null ],
+    [ "getId", "d1/df3/a05390.html#a643046505390b3988572c53051d7d4c1", null ],
+    [ "getLogLevel", "d1/df3/a05390.html#a0013fabdf34579153a2d145fdbd8009b", null ],
+    [ "getLogLevelString", "d1/df3/a05390.html#aa0ec99ab59463bfe249b64e5f9a7645d", null ],
+    [ "getName", "d1/df3/a05390.html#a8414d7de4187a3deb55024278734836f", null ],
+    [ "getType", "d1/df3/a05390.html#a0efa3e131b7c130a9ece375135682ea4", null ],
+    [ "setLogLevel", "d1/df3/a05390.html#ae6c4e7120a54b7069e157fe9a397d455", null ],
+    [ "setRealmId", "d1/df3/a05390.html#ae13f18ba2b26260f64aedc1ce1806fef", null ],
+    [ "write", "d1/df3/a05390.html#a33d9f53e1853633d15c78f4edc33e5d3", null ],
+    [ "flags", "d1/df3/a05390.html#aa8bf6d0a30b1b7ec7acd95e73234e5bd", null ],
+    [ "id", "d1/df3/a05390.html#a2cf4849307b65727645d3caf4205064f", null ],
+    [ "level", "d1/df3/a05390.html#a2dd9209b754c6676ef86f1a6f7f2295f", null ],
+    [ "name", "d1/df3/a05390.html#a0d47660ee41c8816342001825f626a8b", null ]
 ];

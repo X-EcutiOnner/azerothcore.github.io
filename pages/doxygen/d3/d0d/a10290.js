@@ -1,10 +1,11 @@
 var a10290 =
 [
-    [ "ArenaTeamScript", "d3/d0d/a10290.html#ab86543c6ce76ff21e4306c799b99c896", null ],
-    [ "IsDatabaseBound", "d3/d0d/a10290.html#a4d30f94084ae63eadd952c05b13f3ff4", null ],
-    [ "OnGetArenaPoints", "d3/d0d/a10290.html#aa4b2d40921443cefee2775da6ca31b3e", null ],
-    [ "OnGetSlotByType", "d3/d0d/a10290.html#a1ff67b327073bb8ebf10e7fddce92835", null ],
-    [ "OnQueueIdToArenaType", "d3/d0d/a10290.html#a2a26e8c87c5fa7e85eb2f0517ced29e8", null ],
-    [ "OnSetArenaMaxPlayersPerTeam", "d3/d0d/a10290.html#a776548946a09dcb3e76bd97f3c425e7f", null ],
-    [ "OnTypeIDToQueueID", "d3/d0d/a10290.html#abcdd905b695f926e503db610d80ada3c", null ]
+    [ "AllMapScript", "d3/d0d/a10290.html#aea5284ac6b227dd44b83dc944e220f00", null ],
+    [ "OnBeforeCreateInstanceScript", "d3/d0d/a10290.html#a1a4b75a1845923bcf68481ecc0d6b77c", null ],
+    [ "OnCreateMap", "d3/d0d/a10290.html#a56aa53bfb0a1cb7ad7cb677771739b46", null ],
+    [ "OnDestroyInstance", "d3/d0d/a10290.html#a990130b4cd594c1cd04368aea300a49e", null ],
+    [ "OnDestroyMap", "d3/d0d/a10290.html#a6bebd1e6e36b5714598439a6c6dfaad6", null ],
+    [ "OnMapUpdate", "d3/d0d/a10290.html#a6edbb719d998c57caba09eef7ad559e0", null ],
+    [ "OnPlayerEnterAll", "d3/d0d/a10290.html#a42e4af596effb07a00b353164f32cec9", null ],
+    [ "OnPlayerLeaveAll", "d3/d0d/a10290.html#adcfd501bee055317bff2a63ef28c3eab", null ]
 ];

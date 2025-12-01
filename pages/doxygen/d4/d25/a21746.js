@@ -1,12 +1,6 @@
 var a21746 =
 [
-    [ "npc_beryl_sorcererAI", "d4/d25/a21746.html#a8f99f5f2ad6ccb1b068a86904bb1b864", null ],
-    [ "Initialize", "d4/d25/a21746.html#a40400e4e993d20d9bbe4faf063102521", null ],
-    [ "JustEngagedWith", "d4/d25/a21746.html#afae877e8dac583c9420d214f77c2b438", null ],
-    [ "Reset", "d4/d25/a21746.html#a17a16337c09013483c58cae38576d969", null ],
-    [ "SpellHit", "d4/d25/a21746.html#a762ee3ae8df3757279821af13101e0be", null ],
-    [ "UpdateAI", "d4/d25/a21746.html#a42ec665b06988d13be6cbee646afc898", null ],
-    [ "_chainsCast", "d4/d25/a21746.html#ab6238d539b10a7db9191bdc685ea67eb", null ],
-    [ "_events", "d4/d25/a21746.html#ac640099ca01ae2183b84ae9ee3407cc1", null ],
-    [ "_playerGUID", "d4/d25/a21746.html#a96f9b39c09b7a5fb484ae9069412751f", null ]
+    [ "npc_warmage_coldarraAI", "d8/d83/a21750.html", "d8/d83/a21750" ],
+    [ "npc_warmage_coldarra", "d4/d25/a21746.html#a358f8ab26991798ff076ac764cd7abe2", null ],
+    [ "GetAI", "d4/d25/a21746.html#aa29181e0ad61b44eff685267f3231382", null ]
 ];

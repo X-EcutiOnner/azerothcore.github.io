@@ -1,6 +1,4 @@
 var a04922 =
 [
-    [ "node", "de/de4/a04922.html#a5b76f0ea514d55ed9ba8ea6c4bdf7491", null ],
-    [ "tfar", "de/de4/a04922.html#ad53b746617dd5a46930dae493d7488d9", null ],
-    [ "tnear", "de/de4/a04922.html#a938ca2ace2aa498abdda93ee824b6f09", null ]
+    [ "Strand", "de/de4/a04922.html#afd0efbcfbbd1ff7ef26d7f8c476380dc", null ]
 ];

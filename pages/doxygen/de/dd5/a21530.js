@@ -1,6 +1,6 @@
 var a21530 =
 [
-    [ "boss_ichoronAI", "d9/ddc/a21534.html", "d9/ddc/a21534" ],
-    [ "boss_ichoron", "de/dd5/a21530.html#ad4390da77a130edaf050d0bef3926882", null ],
-    [ "GetAI", "de/dd5/a21530.html#a68051088dc2d2c738b042e2df0436b28", null ]
+    [ "HandleEffectPeriodic", "de/dd5/a21530.html#a508ff9e362d586497839aa29ceae1227", null ],
+    [ "PrepareAuraScript", "de/dd5/a21530.html#a4e7d5317d28207136b1fd3477a51ae06", null ],
+    [ "Register", "de/dd5/a21530.html#a4b08cefe7d334635b70d389cc9df4901", null ]
 ];

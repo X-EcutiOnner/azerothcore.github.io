@@ -1,6 +1,6 @@
 var a11482 =
 [
-    [ "EffectAbsorbHandler", "d2/d54/a11482.html#a29bb773b8271acf651b08f33ce358720", null ],
-    [ "Call", "d2/d54/a11482.html#a56bfb0fd0d860678920445d1182c09ef", null ],
-    [ "pEffectHandlerScript", "d2/d54/a11482.html#a519489b8d951173a806e86cfe075faf1", null ]
+    [ "ObjectTargetSelectHandler", "d2/d54/a11482.html#abe96c3e266375ab64f8dec54a047a5b8", null ],
+    [ "Call", "d2/d54/a11482.html#a7e18103fb5c68b2cf85f54bf7caf4b3b", null ],
+    [ "pObjectTargetSelectHandlerScript", "d2/d54/a11482.html#a6982985537c0ddb8dd79647766c9ae70", null ]
 ];

@@ -1,8 +1,9 @@
 var a21646 =
 [
-    [ "npc_azure_raiderAI", "df/df0/a21646.html#a6928428a9dc1ed483a682c8f2a281ebf", null ],
-    [ "Reset", "df/df0/a21646.html#a80d9e586e5c03d19b6b9f0e0f7607b20", null ],
-    [ "UpdateAI", "df/df0/a21646.html#a2e9833d0d25fd8c442f7ab279de6a40a", null ],
-    [ "uiConcussionBlowTimer", "df/df0/a21646.html#a4e7dfb8d4991bf7ad3d0eeb72dff770b", null ],
-    [ "uiMagicReflectionTimer", "df/df0/a21646.html#acb262ab506ea58201abfe2057525c548", null ]
+    [ "npc_azure_sorcerorAI", "df/df0/a21646.html#a474a7144908d4820341dc56f77436b90", null ],
+    [ "Reset", "df/df0/a21646.html#a4c637288f79e1da4bdace6516cd887b1", null ],
+    [ "UpdateAI", "df/df0/a21646.html#a928d789e2cbd35b228857a23c4204ea1", null ],
+    [ "uiArcaneStreamTimer", "df/df0/a21646.html#ad238fe8fed4dcefd923d901e4f73ed05", null ],
+    [ "uiArcaneStreamTimerStartingValueHolder", "df/df0/a21646.html#af044879e8e064e28a491c87d0c6cde74", null ],
+    [ "uiManaDetonationTimer", "df/df0/a21646.html#a3ebe4eb452296f3c45db5c1b6cdaa243", null ]
 ];

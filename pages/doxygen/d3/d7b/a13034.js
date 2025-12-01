@@ -1,12 +1,6 @@
 var a13034 =
 [
-    [ "boss_vexallus", "d3/d7b/a13034.html#a68c32ed70274e9f135b7a9107f888c91", null ],
-    [ "JustDied", "d3/d7b/a13034.html#a5e67671becf3c1ac4ca9f04c79d82cf1", null ],
-    [ "JustEngagedWith", "d3/d7b/a13034.html#aa9d37e8132c715552e2ce0102ac9a59b", null ],
-    [ "JustSummoned", "d3/d7b/a13034.html#a9bc7808889da754bae9c935418975f90", null ],
-    [ "KilledUnit", "d3/d7b/a13034.html#a48d44cc3ed6f0e7f97f76cd325e5c48e", null ],
-    [ "Reset", "d3/d7b/a13034.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc", null ],
-    [ "SummonedCreatureDies", "d3/d7b/a13034.html#a4bd88222143d8db098312cff8a2fc969", null ],
-    [ "_energyCooldown", "d3/d7b/a13034.html#a395d2186d70d1b7e29dbada7750da354", null ],
-    [ "_energyCount", "d3/d7b/a13034.html#a4afa4a245b8863c7b0898773932642c8", null ]
+    [ "HandleAfterCast", "d3/d7b/a13034.html#a5ca38a2828359e4f373323d1d6cc91cf", null ],
+    [ "PrepareSpellScript", "d3/d7b/a13034.html#aa0956db2d03405a54893bc30516f5839", null ],
+    [ "Register", "d3/d7b/a13034.html#a45726adacf1d30b5488df54f57447c0c", null ]
 ];

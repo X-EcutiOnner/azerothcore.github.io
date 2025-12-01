@@ -1,7 +1,7 @@
 var a23526 =
 [
-    [ "PeriodicTick", "df/d41/a23526.html#afb5cc6129423cb4f7c3da50977da01f2", null ],
-    [ "PrepareAuraScript", "df/d41/a23526.html#aea6ca9c5d490f62ae737bfc07751da42", null ],
-    [ "Register", "df/d41/a23526.html#ad0eb66e0bab8441e1bb3db42967df7ff", null ],
-    [ "Validate", "df/d41/a23526.html#ae07f6e7de08ada74b4cb9ac890c70c35", null ]
+    [ "boss_hydromancer_thespia", "df/d41/a23526.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
+    [ "JustDied", "df/d41/a23526.html#ad0662daabd636bbf544a6791187d71fa", null ],
+    [ "JustEngagedWith", "df/d41/a23526.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
+    [ "KilledUnit", "df/d41/a23526.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
 ];

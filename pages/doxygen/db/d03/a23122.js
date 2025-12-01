@@ -1,6 +1,5 @@
 var a23122 =
 [
-    [ "boss_essence_of_desireAI", "d3/db8/a23126.html", "d3/db8/a23126" ],
-    [ "boss_essence_of_desire", "db/d03/a23122.html#a5006ce57dd19c2a80e961dedca8c503d", null ],
-    [ "GetAI", "db/d03/a23122.html#a14b66470c508fa24e214062aeec0aae6", null ]
+    [ "npc_ashtongue_sorcerer", "db/d03/a23122.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
+    [ "MovementInform", "db/d03/a23122.html#a56fa93f83e8a536b13667c8f780961b7", null ]
 ];

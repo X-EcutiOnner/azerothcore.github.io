@@ -1,7 +1,7 @@
 var a03692 =
 [
-    [ "boss_anubshiah", "d6/ddb/a12088.html", "d6/ddb/a12088" ],
-    [ "boss_anubshiah::boss_anubshiahAI", "da/db9/a12092.html", "da/db9/a12092" ],
+    [ "boss_anubshiah", "df/dac/a12094.html", "df/dac/a12094" ],
+    [ "boss_anubshiah::boss_anubshiahAI", "d3/d2d/a12098.html", "d3/d2d/a12098" ],
     [ "Spells", "d6/d1c/a03692.html#a5bd342133be8c2137b831460acc9298c", [
       [ "SPELL_OIL_REFINERY", "d4/def/a00359.html#a5bd342133be8c2137b831460acc9298cae2eb4db3c46b45e80cc2feb9c34f2ada", null ],
       [ "SPELL_QUARRY", "d4/def/a00359.html#a5bd342133be8c2137b831460acc9298ca5a0922923b24c4bb6661ad8396a76e01", null ],

@@ -1,6 +1,5 @@
 var a27214 =
 [
-    [ "AfterCheckProc", "d6/deb/a27214.html#a947c7b94512fbfdd8b51cfa8044d2e6c", null ],
-    [ "PrepareAuraScript", "d6/deb/a27214.html#aa184faf59edbad97ec361e66169137b9", null ],
-    [ "Register", "d6/deb/a27214.html#a3df5a215670c7a1e07bc901e442bb11c", null ]
+    [ "achievement_bg_ic_glaive_grave", "d6/deb/a27214.html#a97e1cead0102a120b3bd14592ea26034", null ],
+    [ "OnCheck", "d6/deb/a27214.html#a0eacab5595969cfe5e3d083c984dfd77", null ]
 ];

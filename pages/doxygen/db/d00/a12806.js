@@ -1,7 +1,14 @@
 var a12806 =
 [
-    [ "npc_malchezaar_axe", "db/d00/a12806.html#a1a5615f2def10add30e7917b770ebc74", null ],
-    [ "Initialize", "db/d00/a12806.html#a078e7f0997c026b73a4e0ab8a1c209b8", null ],
-    [ "JustEngagedWith", "db/d00/a12806.html#a4a9f90e66359b304622d4f79653f9fd0", null ],
-    [ "UpdateAI", "db/d00/a12806.html#a202ba6922a426f87909eefbccd070175", null ]
+    [ "boss_midnight", "db/d00/a12806.html#aacf45b21a30d671d5e9720a30336f72c", null ],
+    [ "CanMeleeHit", "db/d00/a12806.html#ad46a3726f398e5db56612d78d33fb13f", null ],
+    [ "DamageTaken", "db/d00/a12806.html#a47be6bc98217cf32a54dc522b7983bdb", null ],
+    [ "DoAction", "db/d00/a12806.html#a6831149d56f432aa3116d4172ef95a18", null ],
+    [ "EnterEvadeMode", "db/d00/a12806.html#a7ef9e935ac932f5a9e4fd435b8180783", null ],
+    [ "JustEngagedWith", "db/d00/a12806.html#afbb95384e6c747e73c87c5a5eb40843e", null ],
+    [ "JustSummoned", "db/d00/a12806.html#a2644deaf0a2970835b0cd508565e7279", null ],
+    [ "KilledUnit", "db/d00/a12806.html#a14dcbec9dc43cc12a124b6f140e0e8e6", null ],
+    [ "Reset", "db/d00/a12806.html#a4f9cb414779705c179bc5447975b35e9", null ],
+    [ "UpdateAI", "db/d00/a12806.html#a17c86571df6263fe1cc3657ca596e3ae", null ],
+    [ "_phase", "db/d00/a12806.html#ae5f3f452f5141cecab1b99616eb2bf74", null ]
 ];

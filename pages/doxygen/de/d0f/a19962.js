@@ -1,6 +1,7 @@
 var a19962 =
 [
-    [ "boss_steelbreakerAI", "d0/d29/a19966.html", "d0/d29/a19966" ],
-    [ "boss_steelbreaker", "de/d0f/a19962.html#af6e4c3729874e59959b35ca67a46aa44", null ],
-    [ "GetAI", "de/d0f/a19962.html#ac4189ffbba997719fb36a10ecdabd26c", null ]
+    [ "OnRemove", "de/d0f/a19962.html#a4d7ec990112b4ed602bcacf5a6de6722", null ],
+    [ "PrepareAuraScript", "de/d0f/a19962.html#a7cc9f0d6882b713c7b0a2585d6008437", null ],
+    [ "Register", "de/d0f/a19962.html#ad3a66fdfb2a159461bb3deeab6f71c13", null ],
+    [ "Validate", "de/d0f/a19962.html#a8bd121743d1153ae3fd8eb124e475d0f", null ]
 ];

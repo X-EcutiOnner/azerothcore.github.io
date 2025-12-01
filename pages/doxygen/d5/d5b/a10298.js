@@ -1,6 +1,6 @@
 var a10298 =
 [
-    [ "BattlegroundMapScript", "d5/d5b/a10298.html#a61e1c0f145064cbc6c8708824a359e4c", null ],
-    [ "checkValidity", "d5/d5b/a10298.html#a90584770132eb71cffc6e25a674750ad", null ],
-    [ "isAfterLoadScript", "d5/d5b/a10298.html#a0148a79556f82c990fe0fc494d03c7ab", null ]
+    [ "AreaTriggerScript", "d5/d5b/a10298.html#a478e4dee0f4211af9be6ea448d4e6c89", null ],
+    [ "IsDatabaseBound", "d5/d5b/a10298.html#ac5234a2cd020cd8f90b6d19c28ad46ae", null ],
+    [ "OnTrigger", "d5/d5b/a10298.html#abb6cdada718e9fad7da98fbb667c6d53", null ]
 ];

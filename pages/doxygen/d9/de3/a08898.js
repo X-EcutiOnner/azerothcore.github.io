@@ -1,8 +1,8 @@
 var a08898 =
 [
-    [ "DungeonEncounter", "d9/de3/a08898.html#a3e48a996a47ddcc1b18aaac339457f3d", null ],
-    [ "creditEntry", "d9/de3/a08898.html#a700a0792973678339f33ab85e7396918", null ],
-    [ "creditType", "d9/de3/a08898.html#a66a077e193f099bb7aef363dc75672d6", null ],
-    [ "dbcEntry", "d9/de3/a08898.html#a262bdd0ba443739456fc14bcad83ecda", null ],
-    [ "lastEncounterDungeon", "d9/de3/a08898.html#a67e29b891887e339dbb40515d082e781", null ]
+    [ "TempSummonGroupKey", "d9/de3/a08898.html#ae1bd752c8fc7d037d6942b32859ce1ad", null ],
+    [ "operator<", "d9/de3/a08898.html#ae92c7712bd58b9b773ddaac3d2b8a345", null ],
+    [ "_summonerEntry", "d9/de3/a08898.html#a0ecac0e82ce63c9e64f2e17d941df447", null ],
+    [ "_summonerType", "d9/de3/a08898.html#ac6bf8fb36092134f63409f3cddc5f810", null ],
+    [ "_summonGroup", "d9/de3/a08898.html#a1a90f3bf90363f88828cc217dd7ceda6", null ]
 ];

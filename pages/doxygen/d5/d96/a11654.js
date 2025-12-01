@@ -1,12 +1,9 @@
 var a11654 =
 [
-    [ "WardenMac", "d5/d96/a11654.html#a576c0cf7a819e95c97cc0ac4e5962d6d", null ],
-    [ "~WardenMac", "d5/d96/a11654.html#a5f3832580c73a0af34fa83669a92ceab", null ],
-    [ "GetModuleForClient", "d5/d96/a11654.html#a7a31b72ea7362c70f0fc9ff6e316d80b", null ],
-    [ "HandleData", "d5/d96/a11654.html#a024be47d39641cb0e7654b0e0999e444", null ],
-    [ "HandleHashResult", "d5/d96/a11654.html#a7feb3f82b2e0efd8427d6d8bcabaf17c", null ],
-    [ "Init", "d5/d96/a11654.html#ae329d60e41b9f5af2a2c7e4983936eac", null ],
-    [ "InitializeModule", "d5/d96/a11654.html#a4fceef34e83db1a357d9eadce35efdef", null ],
-    [ "RequestChecks", "d5/d96/a11654.html#a2437a3a5650305b05fc22d312d0006da", null ],
-    [ "RequestHash", "d5/d96/a11654.html#af031f18554c5a96b4eb39371a92b9c51", null ]
+    [ "ClientKeySeed", "d5/d96/a11654.html#a3e2df88e6fd716030d70a77850e96970", null ],
+    [ "ClientKeySeedHash", "d5/d96/a11654.html#ae2523827d6f9abae5eed0b463c00062f", null ],
+    [ "Module", "d5/d96/a11654.html#a1fcce28666a614c83d06729bc9c88bb4", null ],
+    [ "ModuleKey", "d5/d96/a11654.html#ac34f4c4997f5f64a9dcf4ad7d914a215", null ],
+    [ "Seed", "d5/d96/a11654.html#a3c8e1b5c642f12e29837800f0428f34e", null ],
+    [ "ServerKeySeed", "d5/d96/a11654.html#ad29fe1f9ba6ef32f1d35657683b0e11b", null ]
 ];

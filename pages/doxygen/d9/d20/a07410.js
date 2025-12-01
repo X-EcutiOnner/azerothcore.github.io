@@ -1,7 +1,10 @@
 var a07410 =
 [
-    [ "BattlegroundEYPointIconsStruct", "d9/d20/a07410.html#a322379024d155d293d1c0083c510d232", null ],
-    [ "WorldStateAllianceControlledIndex", "d9/d20/a07410.html#a449932bc2357e26c79520fcf01a71a2a", null ],
-    [ "WorldStateControlIndex", "d9/d20/a07410.html#a82e87048f934b67821bc8ba308ed101d", null ],
-    [ "WorldStateHordeControlledIndex", "d9/d20/a07410.html#a1118c998cf9a319f9c81c100d23c25d3", null ]
+    [ "OwnerId", "d9/d20/a07410.html#ae6203d7a867838b279825925841a99df", null ],
+    [ "PrevOwnerId", "d9/d20/a07410.html#a8357cc41fe125545d473c1f14c3ffa05", null ],
+    [ "PrevState", "d9/d20/a07410.html#ab97cde6dcd3c3e91bb94bf39d104bf77", null ],
+    [ "State", "d9/d20/a07410.html#a6e2b1f8c232c27ab24e3ca8bca8f6b03", null ],
+    [ "Timer", "d9/d20/a07410.html#a945afa538fc0dd1a4be11f5b5ac74bcb", null ],
+    [ "TotalOwnerId", "d9/d20/a07410.html#aec31f39eb98a3686ead3b1b99c7abfde", null ],
+    [ "Tower", "d9/d20/a07410.html#a222db96ad937e31986c0c39a5a371dd7", null ]
 ];

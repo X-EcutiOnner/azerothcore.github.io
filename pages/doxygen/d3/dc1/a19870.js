@@ -1,6 +1,6 @@
 var a19870 =
 [
-    [ "CosmicSmashDamageEvent", "d3/dc1/a19870.html#a5c9606791b560d8be1825a9c73f2393e", null ],
-    [ "Execute", "d3/dc1/a19870.html#a2d4b301e1b7e0852ec47280ad97871f2", null ],
-    [ "_caster", "d3/dc1/a19870.html#ab7af2459d3962831812ee2362ee9de2b", null ]
+    [ "npc_algalon_worm_holeAI", "d6/da2/a19874.html", "d6/da2/a19874" ],
+    [ "npc_algalon_worm_hole", "d3/dc1/a19870.html#a72516a4824fa61a331caff46d2784c64", null ],
+    [ "GetAI", "d3/dc1/a19870.html#aac6ff3a41f08f5a11baa78c0526a3556", null ]
 ];

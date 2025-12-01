@@ -1,9 +1,9 @@
 var a02669 =
 [
-    [ "npc_taldaram_flamesphere", "d2/d8b/a16028.html", "d2/d8b/a16028" ],
-    [ "boss_taldaram", "d7/dd0/a16032.html", "d7/dd0/a16032" ],
-    [ "spell_prince_taldaram_conjure_flame_sphere", "d1/dc4/a16036.html", "d1/dc4/a16036" ],
-    [ "spell_prince_taldaram_flame_sphere_summon", "d8/dec/a16040.html", "d8/dec/a16040" ],
+    [ "npc_taldaram_flamesphere", "d5/d77/a16034.html", "d5/d77/a16034" ],
+    [ "boss_taldaram", "d5/db0/a16038.html", "d5/db0/a16038" ],
+    [ "spell_prince_taldaram_conjure_flame_sphere", "d8/d91/a16042.html", "d8/d91/a16042" ],
+    [ "spell_prince_taldaram_flame_sphere_summon", "d6/db8/a16046.html", "d6/db8/a16046" ],
     [ "DATA_SPHERE_ANGLE_OFFSET", "d6/dbb/a02669.html#abba5e7f7dee2d39e8b41c5ac0f4b1746", null ],
     [ "Actions", "d6/dbb/a02669.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d4/def/a00359.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
@@ -341,7 +341,8 @@ var a02669 =
       [ "EVENT_ECK_BITE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a25fd4fd9c83fea5e757a20aeb8f03aee", null ],
       [ "EVENT_ECK_SPIT", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6add7ba9bf01f5f04dac1d93a997b57af2", null ],
       [ "EVENT_ECK_SPRING", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6c3f22fd6aa63e5bf101019792a4b483", null ],
-      [ "EVENT_ECK_HEALTH", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f0a1bde1d1f47b6f7e45f621a57b6c1", null ],
+      [ "EVENT_ECK_CRAZED_EMOTE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6eeac32439bad23ef93cf41b4526d55d", null ],
+      [ "EMOTE_CRAZED", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2628cfc3f39065948404f522308c931f", null ],
       [ "NPC_SLADRAN_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08dc37f063f5d70a3893765939f63a82", null ],
       [ "NPC_SLADRAN_CONSTRICTORS", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a52bf6fd6ef6437b9a4e88616b7f1d91b", null ],
       [ "MAX_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1e3f12d08f9d4880b8263386a54d21c8", null ],

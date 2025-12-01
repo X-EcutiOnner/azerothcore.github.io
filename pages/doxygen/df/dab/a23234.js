@@ -1,6 +1,6 @@
 var a23234 =
 [
-    [ "HandleDummy", "df/dab/a23234.html#a85cbe85873c5f04c8fb94ad52e94afda", null ],
-    [ "PrepareSpellScript", "df/dab/a23234.html#ae483ea2ecc541f52f37456f6e9d4b380", null ],
-    [ "Register", "df/dab/a23234.html#a972574075c86c32593982add71dc893f", null ]
+    [ "HandleScriptEffect", "df/dab/a23234.html#a2b46490b70bf93effb7379686e648618", null ],
+    [ "PrepareSpellScript", "df/dab/a23234.html#a5030d071372ef12663f6a75be637476e", null ],
+    [ "Register", "df/dab/a23234.html#aa15afaa9990f29a9e71c1d6395d5de12", null ]
 ];

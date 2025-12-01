@@ -1,10 +1,10 @@
 var a10286 =
 [
-    [ "ArenaScript", "da/d94/a10286.html#acba88d9008e08873f3f20b92d69e8912", null ],
-    [ "CanAddMember", "da/d94/a10286.html#aa85728dd471c2f4d58ed1794e741d060", null ],
-    [ "CanSaveToDB", "da/d94/a10286.html#a164257b5ed4a0808d709870cdf73ed3b", null ],
-    [ "IsDatabaseBound", "da/d94/a10286.html#ab6c90bb55c238fada3e9ddc993333d0d", null ],
-    [ "OnArenaStart", "da/d94/a10286.html#ae67b000b16f56309da56f672a9f2b423", null ],
-    [ "OnBeforeArenaCheckWinConditions", "da/d94/a10286.html#a2b46190a3243f2306a74295975dca317", null ],
-    [ "OnGetPoints", "da/d94/a10286.html#a13b22ad00d3742589532e6e522258834", null ]
+    [ "AllItemScript", "da/d94/a10286.html#a7c0e310c69966e0eab6f2951dedcda63", null ],
+    [ "CanItemExpire", "da/d94/a10286.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
+    [ "CanItemQuestAccept", "da/d94/a10286.html#a545e2bc7436a064146025954eaf5ae92", null ],
+    [ "CanItemRemove", "da/d94/a10286.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
+    [ "CanItemUse", "da/d94/a10286.html#a89d237f426840658e4423fb9cc7428db", null ],
+    [ "OnItemGossipSelect", "da/d94/a10286.html#a7157f72c6d09988b60480d1671892cde", null ],
+    [ "OnItemGossipSelectCode", "da/d94/a10286.html#a9e13f025e5cf10bf51c87a4dc1e7968d", null ]
 ];

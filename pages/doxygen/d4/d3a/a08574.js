@@ -1,5 +1,9 @@
 var a08574 =
 [
-    [ "PlayerLevelInfo", "d4/d3a/a08574.html#af0d716577a3645fe1cef95968382ec80", null ],
-    [ "stats", "d4/d3a/a08574.html#a796af7d07604474adebf5a6f3518ca30", null ]
+    [ "category", "d4/d3a/a08574.html#af3cd722cf59d844dcaba2d20f20d2933", null ],
+    [ "end", "d4/d3a/a08574.html#a8cc857ef51745900398765164a450a50", null ],
+    [ "itemid", "d4/d3a/a08574.html#a42ef844fdd55e8bf67eb5cd90c627817", null ],
+    [ "maxduration", "d4/d3a/a08574.html#a94b98afb7651e2c6b99ee79f85702259", null ],
+    [ "needSendToClient", "d4/d3a/a08574.html#a678f56b6723567f984a0188b85a6f9df", null ],
+    [ "sendToSpectator", "d4/d3a/a08574.html#a4b5bc2c63587dd8ce5d4971ad51895cd", null ]
 ];

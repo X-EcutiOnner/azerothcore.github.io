@@ -1,7 +1,6 @@
 var a19854 =
 [
-    [ "HandleEffectRemove", "d1/da2/a19854.html#af61220cb739baef9b33aecddb1cfe5ea", null ],
-    [ "PrepareAuraScript", "d1/da2/a19854.html#ad8035b1b676751fcc299e4ad8df62ed8", null ],
-    [ "Register", "d1/da2/a19854.html#abe52dbfdbd42c860e0a79873dd19e22d", null ],
-    [ "Validate", "d1/da2/a19854.html#a7c4f9df92b501720e30372fa9e9dbad7", null ]
+    [ "npc_collapsing_starAI", "db/d58/a19858.html", "db/d58/a19858" ],
+    [ "npc_collapsing_star", "d1/da2/a19854.html#a8d57987c9b4622746d4f42a2b4845b9e", null ],
+    [ "GetAI", "d1/da2/a19854.html#a346af96d122e64c68defdeccb9183cd4", null ]
 ];

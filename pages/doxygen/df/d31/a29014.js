@@ -1,25 +1,9 @@
 var a29014 =
 [
-    [ "Vec3D", "df/d31/a29014.html#a66e77d25ca67f7a5418bc7b252bf4f9c", null ],
-    [ "Vec3D", "df/d31/a29014.html#aa5aa758ed25117a81f53e19d8c80e427", null ],
-    [ "length", "df/d31/a29014.html#aa99cf98be42720cb2e6eda8321d0585d", null ],
-    [ "lengthSquared", "df/d31/a29014.html#a87ac62b18bdb6534dde07295ad3d7418", null ],
-    [ "normalize", "df/d31/a29014.html#aad796e1a7950cf29bcf0664ab4529bdd", null ],
-    [ "operator float *", "df/d31/a29014.html#ae7f0a885985683c338dcf10cdc675849", null ],
-    [ "operator%", "df/d31/a29014.html#a6c06ca74a17414a8afad8889bc49e5e7", null ],
-    [ "operator*", "df/d31/a29014.html#aa69f6d867a748bd543ec423a57378a21", null ],
-    [ "operator*", "df/d31/a29014.html#a4d33d483ce46a408a9d0c45ddb075eb4", null ],
-    [ "operator*=", "df/d31/a29014.html#aa59022e80683193bae192972da755884", null ],
-    [ "operator+", "df/d31/a29014.html#a4908c6bd44a6a7856eada7b56425b1cc", null ],
-    [ "operator+=", "df/d31/a29014.html#a15627b72a8533dba20622314d9c2d02e", null ],
-    [ "operator-", "df/d31/a29014.html#a7022d6629a4d968fe6efdc29b54b16aa", null ],
-    [ "operator-=", "df/d31/a29014.html#ac4cd3cead349c30f5bdaeecfaff4fdaa", null ],
-    [ "operator=", "df/d31/a29014.html#ab7e2806da7e3bdfda666b5e4906f08c3", null ],
-    [ "operator~", "df/d31/a29014.html#ab58f61de30ae8941782f902eb54dca29", null ],
-    [ "operator*", "df/d31/a29014.html#ae30695a767fd2a31300bd1b858fda811", null ],
-    [ "operator<<", "df/d31/a29014.html#ae0085c2ad66a850cb8270bbdd52d680e", null ],
-    [ "operator>>", "df/d31/a29014.html#a9aa8110efc91a62f0719d9476b3cd7cf", null ],
-    [ "x", "df/d31/a29014.html#a0f061b9d5ea2a680f64bed8b5be9116d", null ],
-    [ "y", "df/d31/a29014.html#a3441f0095b7f2b5dc424f7b045f92f2c", null ],
-    [ "z", "df/d31/a29014.html#a5a619f14529e714231bff4cc6fd36614", null ]
+    [ "Flags", "df/d31/a29014.html#a4471edebd870d3dfaaf34292341e5f60", null ],
+    [ "Id", "df/d31/a29014.html#a6a25126338a8c3aa7d36c02c979639dd", null ],
+    [ "Position", "df/d31/a29014.html#a8fa9a49b3195ffe74dcf1872d0fb05c1", null ],
+    [ "Rotation", "df/d31/a29014.html#a986c3ea05d510db03ec969f0d116fb34", null ],
+    [ "Scale", "df/d31/a29014.html#af8bcb02c541b9261dbf879353ba6893a", null ],
+    [ "UniqueId", "df/d31/a29014.html#a374c9893af515badc54b22b2a4d5e024", null ]
 ];

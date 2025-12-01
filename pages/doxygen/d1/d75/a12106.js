@@ -1,11 +1,11 @@
 var a12106 =
 [
-    [ "boss_high_interrogator_gerstahnAI", "d1/d75/a12106.html#a557fda67d1d1de268ba661350ba915dc", null ],
-    [ "JustEngagedWith", "d1/d75/a12106.html#a80e01faa471f9e83e85c3c47fd815dea", null ],
-    [ "Reset", "d1/d75/a12106.html#ab63099f83037b3716d1e2b9c21d7d607", null ],
-    [ "UpdateAI", "d1/d75/a12106.html#a67b34f7cf4c62a57bc9fb556f5fb0b81", null ],
-    [ "ManaBurn_Timer", "d1/d75/a12106.html#aede307f972942c15c4b2bfa90e75856d", null ],
-    [ "PsychicScream_Timer", "d1/d75/a12106.html#a291f3484e4d125fefe437d96b12153f1", null ],
-    [ "ShadowShield_Timer", "d1/d75/a12106.html#a7ba151c46b097825dca9b8e3ac2cdee9", null ],
-    [ "ShadowWordPain_Timer", "d1/d75/a12106.html#aec0eab93e8494bc1abc87d81460fac31", null ]
+    [ "boss_draganthaurissanAI", "d1/d75/a12106.html#a2ecd55ed9e7e48829cb85862e965b7d8", null ],
+    [ "JustDied", "d1/d75/a12106.html#a7a7d4737c4825cfabc1012f9cce0e38a", null ],
+    [ "JustEngagedWith", "d1/d75/a12106.html#a00604bed2c13a7b470d950059122f018", null ],
+    [ "KilledUnit", "d1/d75/a12106.html#acec58686917d6e5aff9a51a96b023174", null ],
+    [ "SetData", "d1/d75/a12106.html#aaa43aa340f946f3b8361f2bb7b29ef40", null ],
+    [ "UpdateAI", "d1/d75/a12106.html#a04eaea53b78d490373f9bb911cc92596", null ],
+    [ "hasYelled", "d1/d75/a12106.html#aef5ede4f444e85fafd30faab6043672b", null ],
+    [ "SenatorYells", "d1/d75/a12106.html#ab4b27bf33b58b44ac604ca6bf6b5e424", null ]
 ];

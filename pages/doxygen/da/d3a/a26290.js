@@ -1,6 +1,8 @@
 var a26290 =
 [
-    [ "CheckProc", "da/d3a/a26290.html#a0f1461140b08deac3f044142067368e7", null ],
-    [ "PrepareAuraScript", "da/d3a/a26290.html#a04e0ebe416e94912d7f1ec529da7980d", null ],
-    [ "Register", "da/d3a/a26290.html#a05e31c2252c9054a18b4267be84895b9", null ]
+    [ "HandleApply", "da/d3a/a26290.html#aafdf3712f163919f010d11d0becb398f", null ],
+    [ "HandleRemove", "da/d3a/a26290.html#ac3e33cb37d13b633f3938a48917a4975", null ],
+    [ "PrepareAuraScript", "da/d3a/a26290.html#a42590a0ef43a48c5309f995f9bec5c9b", null ],
+    [ "Register", "da/d3a/a26290.html#a84e7337494dc2e1772ca10dea26c675f", null ],
+    [ "Validate", "da/d3a/a26290.html#ac2558aafb3ce66ca7bbfd718eb8c6338", null ]
 ];

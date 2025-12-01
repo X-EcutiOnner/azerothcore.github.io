@@ -1,6 +1,7 @@
 var a23470 =
 [
-    [ "HandleApplyAura", "df/d74/a23470.html#a4fde347d339f08cd01e2a47883d4b988", null ],
-    [ "PrepareSpellScript", "df/d74/a23470.html#ab22bd56638a6adc8d111250780221cb9", null ],
-    [ "Register", "df/d74/a23470.html#a1dd967ad59159faf694b8e0bfcd369ac", null ]
+    [ "PeriodicTick", "df/d74/a23470.html#a789d2d4d2bc75e412abe80a33102fa06", null ],
+    [ "PrepareAuraScript", "df/d74/a23470.html#a49db8ade3bc3a3da9e043e8b9ad1759d", null ],
+    [ "Register", "df/d74/a23470.html#aec2d7f564107f5b294a5d5c3dd3f9b25", null ],
+    [ "Validate", "df/d74/a23470.html#a7c2309d3192b2a18d8035c8067849d6d", null ]
 ];

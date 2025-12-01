@@ -1,7 +1,6 @@
 var a14962 =
 [
-    [ "npc_cos_chromie_middle", "d4/dcc/a14962.html#a1bb7229781c122d362e781d2737d0fd3", null ],
-    [ "OnGossipHello", "d4/dcc/a14962.html#a105b62bd24fe3912c0f66c234a6dc670", null ],
-    [ "OnGossipSelect", "d4/dcc/a14962.html#a37ebdd257ef22554c81cf3c062856141", null ],
-    [ "OnQuestAccept", "d4/dcc/a14962.html#a6af52ce23a90e7d8418e2c414c9c0fd4", null ]
+    [ "npc_crate_helperAI", "df/d55/a14966.html", "df/d55/a14966" ],
+    [ "npc_crate_helper", "d4/dcc/a14962.html#ae08751928234656dcda84dd5c7e4cc37", null ],
+    [ "GetAI", "d4/dcc/a14962.html#af69c9cf385ee829853985daa7f2aa8d6", null ]
 ];

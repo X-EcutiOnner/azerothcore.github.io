@@ -1,7 +1,6 @@
 var a22606 =
 [
-    [ "HandleScript", "df/d77/a22606.html#a1811115f1732912bdfaeeb8272db2304", null ],
-    [ "PrepareSpellScript", "df/d77/a22606.html#a50c24464dd88717bf78971d679715d7b", null ],
-    [ "Register", "df/d77/a22606.html#ab48b37db40865d60d7cda3260ec15ba8", null ],
-    [ "Validate", "df/d77/a22606.html#a0f0e4621965ea7ed7a108bca6d232ad0", null ]
+    [ "npc_captured_rageclawAI", "d3/dc6/a22610.html", "d3/dc6/a22610" ],
+    [ "npc_captured_rageclaw", "df/d77/a22606.html#ad49176279e9d16a6a24c0649c576c0be", null ],
+    [ "GetAI", "df/d77/a22606.html#aa39b6c518fe22d91b8673cfd576866a4", null ]
 ];

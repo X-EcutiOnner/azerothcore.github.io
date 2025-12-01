@@ -1,9 +1,19 @@
 var a12518 =
 [
-    [ "HandleAfterApply", "d8/d01/a12518.html#ab5dea2b9154ea73e9f159f6899f71d1d", null ],
-    [ "HandleAfterRemove", "d8/d01/a12518.html#a07bfb9395c738a197bafbaa0a43b9d48", null ],
-    [ "PeriodicTick", "d8/d01/a12518.html#a1ea9275cf310f95e9f8351892dce0a21", null ],
-    [ "PrepareAuraScript", "d8/d01/a12518.html#a8f13734ec4eb2dfda64be4ed3410e9a7", null ],
-    [ "Register", "d8/d01/a12518.html#a778da1e0ae7d5cab576b55bff93c923f", null ],
-    [ "Validate", "d8/d01/a12518.html#a205b4cc0f5c513680573b41a786a0b5e", null ]
+    [ "boss_razorgoreAI", "d8/d01/a12518.html#a9690f4d8b01077270003d8a3605620bf", null ],
+    [ "CanAIAttack", "d8/d01/a12518.html#ac4635cad5e60da5755e1504608320e71", null ],
+    [ "DamageTaken", "d8/d01/a12518.html#a41a08d44cf7282fc1fd4e950013ac475", null ],
+    [ "DoAction", "d8/d01/a12518.html#a81eab09e24264d4b0f75c638522f0d53", null ],
+    [ "DoChangePhase", "d8/d01/a12518.html#a35fddf983ba4dfc16fd231e2cca43f60", null ],
+    [ "JustDied", "d8/d01/a12518.html#a4dd28e487d5eadfdb4dd008b9afff93f", null ],
+    [ "JustEngagedWith", "d8/d01/a12518.html#ab3448dfddf82046acfe8d1b9a9b3d216", null ],
+    [ "JustSummoned", "d8/d01/a12518.html#abd240288ed85bb26c07be2892cd990bb", null ],
+    [ "OnCharmed", "d8/d01/a12518.html#af39972324073464ed9ec625afbebc51f", null ],
+    [ "Reset", "d8/d01/a12518.html#a94013866e5275d7956c09e82459c29df", null ],
+    [ "SetGUID", "d8/d01/a12518.html#abc92a37f4c9eed1a12d3a911e7c7f55d", null ],
+    [ "SummonMovementInform", "d8/d01/a12518.html#ab0b8fe3e7478638cd0ac9d87181934d6", null ],
+    [ "UpdateAI", "d8/d01/a12518.html#ac813528b31e7c39d2f8b74dfe6d2c556", null ],
+    [ "_charmerGUID", "d8/d01/a12518.html#a095840a314841b1cff58d606d7580da9", null ],
+    [ "_summonGUIDS", "d8/d01/a12518.html#aff8ed7cbb1e374ebde41a06a6b8a7544", null ],
+    [ "secondPhase", "d8/d01/a12518.html#a9b9febdef4433db98fc87890a2abc6c6", null ]
 ];

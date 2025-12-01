@@ -1,4 +1,5 @@
 var a28358 =
 [
-    [ "ID", "d9/d77/a28358.html#a27cfc07c5aa7efe7a6f0cb62ea691f81", null ]
+    [ "Id", "d9/d77/a28358.html#a79e4b857b811a044aed0ce33422df801", null ],
+    [ "quality_mod", "d9/d77/a28358.html#a756e7b316cc365f15f24e5e4637303a6", null ]
 ];

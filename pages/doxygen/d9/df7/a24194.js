@@ -1,7 +1,6 @@
 var a24194 =
 [
-    [ "npc_daranelleAI", "d9/df7/a24194.html#a49eeff6e0aea079a0375a92074227d12", null ],
-    [ "JustEngagedWith", "d9/df7/a24194.html#aeff39dfd84986186057cdaf7632eed4f", null ],
-    [ "MoveInLineOfSight", "d9/df7/a24194.html#a353e27c1485b88f0751a64260898d35b", null ],
-    [ "Reset", "d9/df7/a24194.html#a33b2fbec775257e3ba0bebe37fb86349", null ]
+    [ "npc_wounded_blood_elfAI", "df/d6c/a24198.html", "df/d6c/a24198" ],
+    [ "npc_wounded_blood_elf", "d9/df7/a24194.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
+    [ "GetAI", "d9/df7/a24194.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
 ];

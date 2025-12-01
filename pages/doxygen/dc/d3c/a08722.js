@@ -1,6 +1,6 @@
 var a08722 =
 [
-    [ "spellIdImmunityPredicate", "dc/d3c/a08722.html#a04893e34d418a0649d51dfa82b559d9c", null ],
-    [ "operator()", "dc/d3c/a08722.html#ae97afff7a6b3ea5dca917d3dbb9ef818", null ],
-    [ "_type", "dc/d3c/a08722.html#a125dfe727d668b5b9820adf1f7f0e0a8", null ]
+    [ "GlobalCooldown", "dc/d3c/a08722.html#a5859ccec9d1fdf0a8f11f5ab77c135a9", null ],
+    [ "cast_time", "dc/d3c/a08722.html#a7e2fe46367bad59669b0f2fd33736b30", null ],
+    [ "duration", "dc/d3c/a08722.html#a7fbf3127e4a2cc93171934148275ae1d", null ]
 ];

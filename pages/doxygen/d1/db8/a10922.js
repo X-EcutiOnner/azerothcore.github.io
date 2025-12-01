@@ -1,12 +1,9 @@
 var a10922 =
 [
-    [ "StartMirrorTimer", "d1/db8/a10922.html#a86039d4a721636477f266712682883f0", null ],
-    [ "StartMirrorTimer", "d1/db8/a10922.html#a5202945882fb3cb5dd8574b6e6f8d5b0", null ],
-    [ "Write", "d1/db8/a10922.html#afa6cc6032804e3d8f3f7797b2231847f", null ],
-    [ "MaxValue", "d1/db8/a10922.html#a3f26c682d547be40d2800eff2189348d", null ],
-    [ "Paused", "d1/db8/a10922.html#af3994b2c6a57e734f9d1ebeedcab7759", null ],
-    [ "Scale", "d1/db8/a10922.html#a5879b6c796d7d7c2fd59001d2813a6b3", null ],
-    [ "SpellID", "d1/db8/a10922.html#a3d90aa3046eb6272249f8fe171d7cd2f", null ],
-    [ "Timer", "d1/db8/a10922.html#abb9dbec2c5df4b2dfbc96314a0465011", null ],
-    [ "Value", "d1/db8/a10922.html#ad0f2f8f95fdea9a7555e3056bb49cc53", null ]
+    [ "LevelUpInfo", "d1/db8/a10922.html#ae856bb717d6ae4b03775b7bfb026850d", null ],
+    [ "Write", "d1/db8/a10922.html#af09dd1c6470516ea9422d22ed22e6d10", null ],
+    [ "HealthDelta", "d1/db8/a10922.html#ab654fc42947c0c783d3a26e6df32b29d", null ],
+    [ "Level", "d1/db8/a10922.html#a1765f693918fdd1f51d7b8dc7b2494a2", null ],
+    [ "PowerDelta", "d1/db8/a10922.html#a697da64ac234c24fe73e68d408697ee6", null ],
+    [ "StatDelta", "d1/db8/a10922.html#a580e4a3cd77631e960b7753542375d6d", null ]
 ];

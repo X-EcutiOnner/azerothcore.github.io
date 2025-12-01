@@ -1,7 +1,6 @@
 var a23222 =
 [
-    [ "HandleEffectApply", "d2/d9b/a23222.html#aff0dbed165d0e751db725f7eaaf76a11", null ],
-    [ "Load", "d2/d9b/a23222.html#a1dfb5b2004041e7165cc9f5deb4b1e82", null ],
-    [ "PrepareAuraScript", "d2/d9b/a23222.html#a3dbd01e52ed2a630f0c014f941fc1b5e", null ],
-    [ "Register", "d2/d9b/a23222.html#a647f21e79e3fef72cf84439fc84e708f", null ]
+    [ "PrepareAuraScript", "d2/d9b/a23222.html#a0dca39c324a5431d4861c1f20a34355e", null ],
+    [ "Register", "d2/d9b/a23222.html#a8f52092f25bdbf453d4126c56ff69f0a", null ],
+    [ "Update", "d2/d9b/a23222.html#a6201eaa3b961e838a535b80679996ada", null ]
 ];

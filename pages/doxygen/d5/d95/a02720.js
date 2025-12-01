@@ -1,11 +1,11 @@
 var a02720 =
 [
-    [ "boss_kelthuzad", "dc/d1b/a19248.html", "dc/d1b/a19248" ],
-    [ "boss_kelthuzad::boss_kelthuzadAI", "dd/d59/a19252.html", "dd/d59/a19252" ],
-    [ "boss_kelthuzad_minion", "d1/dfe/a19256.html", "d1/dfe/a19256" ],
-    [ "boss_kelthuzad_minion::boss_kelthuzad_minionAI", "d1/d73/a19260.html", "d1/d73/a19260" ],
-    [ "spell_kelthuzad_frost_blast", "d6/d0c/a19264.html", "d6/d0c/a19264" ],
-    [ "spell_kelthuzad_detonate_mana_aura", "d1/d5b/a19268.html", "d1/d5b/a19268" ],
+    [ "boss_kelthuzad", "db/d57/a19254.html", "db/d57/a19254" ],
+    [ "boss_kelthuzad::boss_kelthuzadAI", "d1/d44/a19258.html", "d1/d44/a19258" ],
+    [ "boss_kelthuzad_minion", "d8/d36/a19262.html", "d8/d36/a19262" ],
+    [ "boss_kelthuzad_minion::boss_kelthuzad_minionAI", "d6/d4c/a19266.html", "d6/d4c/a19266" ],
+    [ "spell_kelthuzad_frost_blast", "da/da3/a19270.html", "da/da3/a19270" ],
+    [ "spell_kelthuzad_detonate_mana_aura", "da/db4/a19274.html", "da/db4/a19274" ],
     [ "Event", "d5/d95/a02720.html#a5667b805d857c6d28f83f6038a0272d3", [
       [ "EVENT_SUMMON_SOLDIER", "d5/d95/a02720.html#a5667b805d857c6d28f83f6038a0272d3a84eac75e4274b66a6397ab6c0d0f98f7", null ],
       [ "EVENT_SUMMON_UNSTOPPABLE_ABOMINATION", "d5/d95/a02720.html#a5667b805d857c6d28f83f6038a0272d3af49aa46c23f4eecfc8d7ec8de4ce7d8d", null ],
@@ -279,7 +279,8 @@ var a02720 =
       [ "EVENT_ECK_BITE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a25fd4fd9c83fea5e757a20aeb8f03aee", null ],
       [ "EVENT_ECK_SPIT", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6add7ba9bf01f5f04dac1d93a997b57af2", null ],
       [ "EVENT_ECK_SPRING", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6c3f22fd6aa63e5bf101019792a4b483", null ],
-      [ "EVENT_ECK_HEALTH", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f0a1bde1d1f47b6f7e45f621a57b6c1", null ],
+      [ "EVENT_ECK_CRAZED_EMOTE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6eeac32439bad23ef93cf41b4526d55d", null ],
+      [ "EMOTE_CRAZED", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2628cfc3f39065948404f522308c931f", null ],
       [ "NPC_SLADRAN_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08dc37f063f5d70a3893765939f63a82", null ],
       [ "NPC_SLADRAN_CONSTRICTORS", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a52bf6fd6ef6437b9a4e88616b7f1d91b", null ],
       [ "MAX_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1e3f12d08f9d4880b8263386a54d21c8", null ],

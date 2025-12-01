@@ -1,6 +1,6 @@
 var a18798 =
 [
-    [ "npc_frost_freeze_trapAI", "d7/da0/a18802.html", "d7/da0/a18802" ],
-    [ "npc_frost_freeze_trap", "d9/d5d/a18798.html#ac58ed2598fd4250f220208a91343f9b8", null ],
-    [ "GetAI", "d9/d5d/a18798.html#a88ed9aeb0403b3b625c858cd1e44a99f", null ]
+    [ "npc_crok_scourgebaneAI", "d7/da0/a18802.html", "d7/da0/a18802" ],
+    [ "npc_crok_scourgebane", "d9/d5d/a18798.html#a5f560e2c62aa618eadb5a11e2c9b90a3", null ],
+    [ "GetAI", "d9/d5d/a18798.html#afa4fcbb9d7281fbee3f8bc0f318d2e6b", null ]
 ];

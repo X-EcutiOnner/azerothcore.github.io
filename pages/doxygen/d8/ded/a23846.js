@@ -1,6 +1,5 @@
 var a23846 =
 [
-    [ "PrepareSpellScript", "d8/ded/a23846.html#a5b17110b189b7134939aea9dbf2d724b", null ],
-    [ "Register", "d8/ded/a23846.html#aab0cdddfc5c8188ff246a04035b8b552", null ],
-    [ "SelectRandomPlayer", "d8/ded/a23846.html#a8a2229c61fb2eaaac3b0694008ec3ae1", null ]
+    [ "at_shattered_halls_execution", "d8/ded/a23846.html#a73f1d1f03960acd070b7996257f7a526", null ],
+    [ "OnTrigger", "d8/ded/a23846.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
 ];

@@ -1,6 +1,10 @@
 var a27766 =
 [
-    [ "npc_air_force_botsAI", "d9/d65/a27770.html", "d9/d65/a27770" ],
-    [ "npc_air_force_bots", "d7/dbb/a27766.html#a00b8f274bde3260a113ea21e0f68cdf8", null ],
-    [ "GetAI", "d7/dbb/a27766.html#ae971e34d61b0f960d8f5940f9015523d", null ]
+    [ "npc_dancing_flamesAI", "d7/dbb/a27766.html#a3d597b2ee826c86b5a8feb3aa144a459", null ],
+    [ "JustEngagedWith", "d7/dbb/a27766.html#ae0d71d4f9074c05ea76951ede6c7702a", null ],
+    [ "ReceiveEmote", "d7/dbb/a27766.html#a13aae489e8b03121c8fbae12e83bdfaa", null ],
+    [ "Reset", "d7/dbb/a27766.html#a53b49dadc70e3e134ca49cd239b569d6", null ],
+    [ "UpdateAI", "d7/dbb/a27766.html#a555f2ed0d762c5c183ec87580bae46b1", null ],
+    [ "Active", "d7/dbb/a27766.html#aa79036bed206327847bf5ad2e768e8f6", null ],
+    [ "CanIteract", "d7/dbb/a27766.html#a866bfc106fc33433b4eb13fabd9c39c6", null ]
 ];

@@ -1,7 +1,6 @@
 var a11478 =
 [
-    [ "EffectApplyHandler", "d6/d8c/a11478.html#a7ab5f0786000c217e2fc71201a8990b6", null ],
-    [ "Call", "d6/d8c/a11478.html#a4c02a1b42d7b3a02633dc9600b0e09bb", null ],
-    [ "mode", "d6/d8c/a11478.html#ac776375c5a5de321edc572c87e983193", null ],
-    [ "pEffectHandlerScript", "d6/d8c/a11478.html#acd715556a7661f688ce0de9afe62250a", null ]
+    [ "ObjectAreaTargetSelectHandler", "d6/d8c/a11478.html#a89b86436bb1de38223165e7ef60f2b61", null ],
+    [ "Call", "d6/d8c/a11478.html#a11d2070610d178006231bac274d1f311", null ],
+    [ "pObjectAreaTargetSelectHandlerScript", "d6/d8c/a11478.html#a118ca963c6319802806913762c4d1fec", null ]
 ];

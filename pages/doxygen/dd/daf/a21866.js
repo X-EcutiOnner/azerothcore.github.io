@@ -1,7 +1,9 @@
 var a21866 =
 [
-    [ "npc_warmage_violetstand", "dd/daf/a21866.html#a1f67c9521cc3bd63886a8936b28e6622", null ],
-    [ "Reset", "dd/daf/a21866.html#a99015610597f43f184cc686c9fab2fa9", null ],
-    [ "UpdateAI", "dd/daf/a21866.html#aa0eac837ab697c3e0cd5ab753f0bd0b4", null ],
-    [ "targetGUID", "dd/daf/a21866.html#a46560aa7aa90778967a79c931a81721b", null ]
+    [ "npc_minigob_manabonk", "dd/daf/a21866.html#aade5e005b68b25ede4e653629390ceb9", null ],
+    [ "Reset", "dd/daf/a21866.html#a18b3fcf1e2ada8f0178a0efd2e206a8e", null ],
+    [ "SelectTargetInDalaran", "dd/daf/a21866.html#a74a14a6e1839d7b8cc81712d57666ec5", null ],
+    [ "SendMailToPlayer", "dd/daf/a21866.html#a1973b7885c9fce15aab9843722bf112e", null ],
+    [ "UpdateAI", "dd/daf/a21866.html#abca8214a8c13d9d9c5c03f659fef53a9", null ],
+    [ "playerGUID", "dd/daf/a21866.html#ac8dccd333691f717fdbffe22126330d5", null ]
 ];

@@ -1,7 +1,7 @@
 var a03638 =
 [
-    [ "boss_ebonroc", "de/d33/a12432.html", "de/d33/a12432" ],
-    [ "boss_ebonroc::boss_ebonrocAI", "d5/d30/a12436.html", "d5/d30/a12436" ],
+    [ "boss_ebonroc", "de/daf/a12438.html", "de/daf/a12438" ],
+    [ "boss_ebonroc::boss_ebonrocAI", "df/d6c/a12442.html", "df/d6c/a12442" ],
     [ "Events", "df/df2/a03638.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],

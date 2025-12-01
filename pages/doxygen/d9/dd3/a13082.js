@@ -1,8 +1,12 @@
 var a13082 =
 [
-    [ "npc_dkc1_gothikAI", "d9/dd3/a13082.html#a35e65bd943f86ba3a1d6841569289df6", null ],
-    [ "DoAction", "d9/dd3/a13082.html#a3193c562973bbf995ab5e0173a93d01f", null ],
-    [ "MoveInLineOfSight", "d9/dd3/a13082.html#ac2ee224af001a78aa00013f6c8c9ad3d", null ],
-    [ "UpdateAI", "d9/dd3/a13082.html#a346d32c9831babe6fb5f675b70b7a897", null ],
-    [ "spoken", "d9/dd3/a13082.html#ac6f32e953a66f9e96ddc99b663014b0c", null ]
+    [ "boss_vexallus", "d9/dd3/a13082.html#a68c32ed70274e9f135b7a9107f888c91", null ],
+    [ "JustDied", "d9/dd3/a13082.html#a5e67671becf3c1ac4ca9f04c79d82cf1", null ],
+    [ "JustEngagedWith", "d9/dd3/a13082.html#aa9d37e8132c715552e2ce0102ac9a59b", null ],
+    [ "JustSummoned", "d9/dd3/a13082.html#a9bc7808889da754bae9c935418975f90", null ],
+    [ "KilledUnit", "d9/dd3/a13082.html#a48d44cc3ed6f0e7f97f76cd325e5c48e", null ],
+    [ "Reset", "d9/dd3/a13082.html#a6ecf0817f6b1811fe9c62ac83d4b3dcc", null ],
+    [ "SummonedCreatureDies", "d9/dd3/a13082.html#a4bd88222143d8db098312cff8a2fc969", null ],
+    [ "_energyCooldown", "d9/dd3/a13082.html#a395d2186d70d1b7e29dbada7750da354", null ],
+    [ "_energyCount", "d9/dd3/a13082.html#a4afa4a245b8863c7b0898773932642c8", null ]
 ];

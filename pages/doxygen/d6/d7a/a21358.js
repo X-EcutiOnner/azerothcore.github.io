@@ -1,6 +1,5 @@
 var a21358 =
 [
-    [ "boss_skadiAI", "d2/d62/a21362.html", "d2/d62/a21362" ],
-    [ "boss_skadi", "d6/d7a/a21358.html#a124c1c1de7ba232b3256a65547370464", null ],
-    [ "GetAI", "d6/d7a/a21358.html#a4b66199169442af5ec6542be71c19033", null ]
+    [ "npc_ritual_channelerAI", "d6/d7a/a21358.html#aa770f8f2b9dd5fca86f9e63de7b4000f", null ],
+    [ "AttackStart", "d6/d7a/a21358.html#aff09fbdc1e701853c9953882ca73ce2a", null ]
 ];

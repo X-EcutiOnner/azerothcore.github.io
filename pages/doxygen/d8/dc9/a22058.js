@@ -1,6 +1,8 @@
 var a22058 =
 [
-    [ "npc_q24545_vegardAI", "d6/dbe/a22062.html", "d6/dbe/a22062" ],
-    [ "npc_q24545_vegard", "d8/dc9/a22058.html#ac12e2f143fab6b93950eaea06f5f7d85", null ],
-    [ "GetAI", "d8/dc9/a22058.html#a9a7accfb3eea9f08efbb82fbd4bd7e76", null ]
+    [ "OnRemove", "d8/dc9/a22058.html#a9c6c35aa7a245857b0c8685a8e100836", null ],
+    [ "PrepareAuraScript", "d8/dc9/a22058.html#a183b5a3b1332695e3c047bb63435389a", null ],
+    [ "Register", "d8/dc9/a22058.html#aad41ab76cc0a882f272e8f79867a7015", null ],
+    [ "Validate", "d8/dc9/a22058.html#a8ba007e6b4e9e32743a6fae8db08c666", null ],
+    [ "spellIds", "d8/dc9/a22058.html#aca236f4ebe60767f2a4a83cdcc6e31bb", null ]
 ];

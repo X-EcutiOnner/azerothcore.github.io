@@ -1,10 +1,13 @@
 var a21302 =
 [
-    [ "npc_dragonflayer_forge_master", "d2/d4a/a21302.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
-    [ "JustDied", "d2/d4a/a21302.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
-    [ "JustEngagedWith", "d2/d4a/a21302.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
-    [ "Reset", "d2/d4a/a21302.html#af2c844c926b94456df796b4252e899c2", null ],
-    [ "dataId", "d2/d4a/a21302.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
-    [ "pInstance", "d2/d4a/a21302.html#a27b5988d777347832795581b0186c09f", null ],
-    [ "prevDataId", "d2/d4a/a21302.html#aa057cb5ae681b4b802031151ea1a3529", null ]
+    [ "npc_ferocious_rhinoAI", "d2/d4a/a21302.html#ad70d0aeba4b73330c5087bc84a533389", null ],
+    [ "DoAction", "d2/d4a/a21302.html#a10395930fed95fb7809a0b5ffe224c4d", null ],
+    [ "JustDied", "d2/d4a/a21302.html#a2b1af0402dc1b4940534d2e60d7ef33e", null ],
+    [ "JustEngagedWith", "d2/d4a/a21302.html#aab35078fe4518b6647f98e316d02898a", null ],
+    [ "JustReachedHome", "d2/d4a/a21302.html#ab8105d6c8c70037c208c83c13c35242d", null ],
+    [ "MoveInLineOfSight", "d2/d4a/a21302.html#a97e32d32a692f223b96746f3ef1086c5", null ],
+    [ "Reset", "d2/d4a/a21302.html#a6d317407c2de2f954b5dd2a6db137304", null ],
+    [ "UpdateAI", "d2/d4a/a21302.html#a09b80e739e4df6e751c9c2846f3fb999", null ],
+    [ "events", "d2/d4a/a21302.html#af23061de7d8566c7435c2c64c53dff89", null ],
+    [ "m_pInstance", "d2/d4a/a21302.html#a97e00db40792c559dd06327c9960abe4", null ]
 ];

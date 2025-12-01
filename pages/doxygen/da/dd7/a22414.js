@@ -1,9 +1,11 @@
 var a22414 =
 [
-    [ "npc_engineer_heliceAI", "da/dd7/a22414.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
-    [ "JustDied", "da/dd7/a22414.html#aba224727b86a2bfc39a47b70b424ccef", null ],
-    [ "Reset", "da/dd7/a22414.html#ade3f7f526dd8973c155aafb939db3778", null ],
-    [ "UpdateAI", "da/dd7/a22414.html#a1c333511dd6e82cd22af111e12a701c4", null ],
-    [ "WaypointReached", "da/dd7/a22414.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
-    [ "m_uiChatTimer", "da/dd7/a22414.html#aa305bc2b5711d0745650f80275204ea8", null ]
+    [ "npc_iron_watcherAI", "da/dd7/a22414.html#a5f0c3d759dfba81cb2010d2a0b479909", null ],
+    [ "MovementInform", "da/dd7/a22414.html#aaf329f0160efa778abdebf86b1cf230b", null ],
+    [ "Reset", "da/dd7/a22414.html#a878f26cd41ccb9d777f9db00e2e30568", null ],
+    [ "SpellHit", "da/dd7/a22414.html#afce7cebdb4a49d9e5618ac211b235c6b", null ],
+    [ "UpdateAI", "da/dd7/a22414.html#a50391c9950fbbaf170600f13bab1e6bb", null ],
+    [ "charging", "da/dd7/a22414.html#af5be6fc6d7d234cfd2ac78f636b0ad7c", null ],
+    [ "hpTimer", "da/dd7/a22414.html#afcbb113387345361baf0351a19e6eb1d", null ],
+    [ "spellTimer", "da/dd7/a22414.html#a9bcd8d80b0a74c7abf0fc8b3bb32aa30", null ]
 ];

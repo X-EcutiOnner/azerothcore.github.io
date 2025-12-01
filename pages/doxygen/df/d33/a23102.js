@@ -1,7 +1,7 @@
 var a23102 =
 [
-    [ "SuckBackEvent", "df/d33/a23102.html#a6525e2aefec2680fde20e27ebf962f4c", null ],
-    [ "Execute", "df/d33/a23102.html#aae1664e6ef9d90ec8a0e12554b991bf0", null ],
-    [ "_action", "df/d33/a23102.html#abc54669df2dba0238723a40ababe4c0a", null ],
-    [ "_owner", "df/d33/a23102.html#a4d8bc09803f7786022c1836457ded488", null ]
+    [ "CalculateAmount", "df/d33/a23102.html#adad1c8a513ce8a1badbd40c291363de1", null ],
+    [ "PrepareAuraScript", "df/d33/a23102.html#ac1a896ac1a751c8bdaee186dffd8c251", null ],
+    [ "Register", "df/d33/a23102.html#ae839fd19933a6fa9e55ce37e0633073e", null ],
+    [ "Update", "df/d33/a23102.html#aeb5a347ccac3c5ce6faef7641b5fca1c", null ]
 ];

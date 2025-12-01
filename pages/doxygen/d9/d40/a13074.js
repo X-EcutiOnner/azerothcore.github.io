@@ -1,11 +1,5 @@
 var a13074 =
 [
-    [ "npc_scarlet_ghoulAI", "d9/d40/a13074.html#a194795143717de5aa8f0ca4c4e516136", null ],
-    [ "InitializeAI", "d9/d40/a13074.html#ad0fd204d15350332508b0c9d9decefb1", null ],
-    [ "MovementInform", "d9/d40/a13074.html#a9836c91a7dede1fabd1e0a9523ebd26a", null ],
-    [ "OwnerAttackedBy", "d9/d40/a13074.html#a5b0afc1f2ee57a1cc5e30b8e997ba218", null ],
-    [ "SetGUID", "d9/d40/a13074.html#a832602498643a03087efbc0a5a2f81c3", null ],
-    [ "UpdateAI", "d9/d40/a13074.html#adbe4d539552e7954c7bdb8e520cb9783", null ],
-    [ "events", "d9/d40/a13074.html#a105ac0982d28be590d514d2e452109c0", null ],
-    [ "gothikGUID", "d9/d40/a13074.html#ab5efaf2e030f92d7ab45de8b5d19804d", null ]
+    [ "boss_zelfan", "d9/d40/a13074.html#a169e72dfe50c5199bf0053828888095b", null ],
+    [ "JustEngagedWith", "d9/d40/a13074.html#a4e83c11ad95ea4dbea893a08671f17af", null ]
 ];

@@ -1,8 +1,10 @@
 var a23098 =
 [
-    [ "FilterTargets", "dd/d93/a23098.html#a0ee5b216f8e713a5c632d0f456fd2b72", null ],
-    [ "HandleDummy", "dd/d93/a23098.html#ab89ab441f022ee017548ba49d128b92e", null ],
-    [ "PrepareSpellScript", "dd/d93/a23098.html#aa8578390d7d9379328c02ceb209e94ed", null ],
-    [ "Register", "dd/d93/a23098.html#a486387d707b7ad66ecb443ab2bb60778", null ],
-    [ "Validate", "dd/d93/a23098.html#ad5d695978794d796eb7139fce1530d57", null ]
+    [ "CalculateAmount", "dd/d93/a23098.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
+    [ "CheckProc", "dd/d93/a23098.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
+    [ "HandleProc", "dd/d93/a23098.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
+    [ "PrepareAuraScript", "dd/d93/a23098.html#a6e066884663276dbba82e46ca5f66e59", null ],
+    [ "Register", "dd/d93/a23098.html#ac4154f0746e77229e8d349021d5b9c30", null ],
+    [ "Update", "dd/d93/a23098.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
+    [ "Validate", "dd/d93/a23098.html#a4f10d23f63c47b408b70373623b877a8", null ]
 ];

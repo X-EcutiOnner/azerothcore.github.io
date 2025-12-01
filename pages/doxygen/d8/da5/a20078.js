@@ -1,6 +1,9 @@
 var a20078 =
 [
-    [ "boss_flame_leviathan_overload_deviceAI", "df/db3/a20082.html", "df/db3/a20082" ],
-    [ "boss_flame_leviathan_overload_device", "d8/da5/a20078.html#ad00f601170c1af833aadb17eab5d19a8", null ],
-    [ "GetAI", "d8/da5/a20078.html#a73988d2b1cfe61d0356ec1f317d90162", null ]
+    [ "npc_thorims_hammerAI", "d8/da5/a20078.html#aafda36c8d784252d271ef031ab6a3d34", null ],
+    [ "Reset", "d8/da5/a20078.html#a57975d0dc00c86946e547ba43c7151ec", null ],
+    [ "UpdateAI", "d8/da5/a20078.html#a4e01a61d09c11647e06c3547d6fa91fa", null ],
+    [ "_beamTimer", "d8/da5/a20078.html#aba7c6c078977a8187a7e673ba3126bfd", null ],
+    [ "_finishTime", "d8/da5/a20078.html#a218bd28d18a2c2f0aef6906619437209", null ],
+    [ "_removeTimer", "d8/da5/a20078.html#a958e4c975d1ae634745107af7d204f82", null ]
 ];

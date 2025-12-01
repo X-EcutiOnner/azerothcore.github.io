@@ -1,9 +1,9 @@
 var a25350 =
 [
-    [ "PrepareAuraScript", "d8/d76/a25350.html#aebfc1dfb1ff025b0ef4a8c0062a000f1", null ],
-    [ "RefreshVisualShields", "d8/d76/a25350.html#aeefbbdd391c347b350ec7738b9825f8c", null ],
-    [ "Register", "d8/d76/a25350.html#aacd9f12cddd0c698816916d9cdf5f0ea", null ],
-    [ "RemoveDummyFromDriver", "d8/d76/a25350.html#a399641ce72b74038a4517868267bd86a", null ],
-    [ "RemoveVisualShields", "d8/d76/a25350.html#aed4bb9ec815ac4e22b952a64c8bd3b51", null ],
-    [ "Validate", "d8/d76/a25350.html#ae5799f72b7fbce82799fd730f1525948", null ]
+    [ "spell_gen_lifebloom", "d8/d76/a25350.html#a5cb52a4dda841d9d31fd00a31ddc3350", null ],
+    [ "AfterRemove", "d8/d76/a25350.html#aea962f603e56c1bd33fccaef0c89d917", null ],
+    [ "PrepareAuraScript", "d8/d76/a25350.html#ac11134bdc3588795ce6e256c5b02055f", null ],
+    [ "Register", "d8/d76/a25350.html#ab4a552402ee9f90834320d6fc668cff3", null ],
+    [ "Validate", "d8/d76/a25350.html#a599634d92b92a5635b89733b7bb3c3c8", null ],
+    [ "_spellId", "d8/d76/a25350.html#a196484d01d2dc07163e18fdca9f60ca9", null ]
 ];

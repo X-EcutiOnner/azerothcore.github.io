@@ -1,5 +1,5 @@
 var a14646 =
 [
-    [ "PrepareSpellScript", "df/ded/a14646.html#a50ee42c11937759b6c52c2ab994481c4", null ],
-    [ "Register", "df/ded/a14646.html#a8dc12a723c2da948c38119e3fc34df35", null ]
+    [ "MidsummerPlayerScript", "df/ded/a14646.html#ace19c3dfaec5aa5bdfab46552a759306", null ],
+    [ "OnPlayerUpdateZone", "df/ded/a14646.html#af512e1744264ac69fe2b7f7ba3836760", null ]
 ];

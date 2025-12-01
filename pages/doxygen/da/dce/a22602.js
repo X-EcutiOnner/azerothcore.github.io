@@ -1,9 +1,11 @@
 var a22602 =
 [
-    [ "HandleFinish", "da/dce/a22602.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
-    [ "Load", "da/dce/a22602.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
-    [ "PrepareSpellScript", "da/dce/a22602.html#a8326b3f9f78aab65225e81d274cc37df", null ],
-    [ "Register", "da/dce/a22602.html#a749858f56e15a0bb6074d15ba166625d", null ],
-    [ "Validate", "da/dce/a22602.html#a64005c52e7112c466f6206b7f6c847c0", null ],
-    [ "handled", "da/dce/a22602.html#a7afe3007a016cb553f437544f8fd6f89", null ]
+    [ "npc_drakuru_shacklesAI", "da/dce/a22602.html#aeb55bf23d97e963b0fb9a18596bb58b1", null ],
+    [ "LockRageclaw", "da/dce/a22602.html#aa58fff9ee8e6cbe4d2dd0d391215f1f4", null ],
+    [ "Reset", "da/dce/a22602.html#a566fba51edcddab8c5b0bf5688571f80", null ],
+    [ "SpellHit", "da/dce/a22602.html#a04a9f0cc28cd8cab89120e66972b74cf", null ],
+    [ "UnlockRageclaw", "da/dce/a22602.html#a65a4b408ac09ffa3155b955dc054d971", null ],
+    [ "UpdateAI", "da/dce/a22602.html#a8a04ac89e5ec9ce841445913765a1a73", null ],
+    [ "_rageclawGUID", "da/dce/a22602.html#a1c991305f4ef30146930747881e57de4", null ],
+    [ "timer", "da/dce/a22602.html#a2a6484216abd731ad016284a79575e1c", null ]
 ];

@@ -1,6 +1,5 @@
 var a17326 =
 [
-    [ "HandleEffectPeriodic", "d1/d6d/a17326.html#a8a165d3931353fefc2e6a7c7f309150e", null ],
-    [ "PrepareAuraScript", "d1/d6d/a17326.html#a2de3b6d4e32832ec7ce4548df23d3d5c", null ],
-    [ "Register", "d1/d6d/a17326.html#a3593ab75583bb5b9b31b29ba2c3cdd76", null ]
+    [ "endPosition", "d1/d6d/a17326.html#a8a88b0191d28ef6af8f41db627552602", null ],
+    [ "entry", "d1/d6d/a17326.html#ac4e55af666e269440953ced038c1a8de", null ]
 ];

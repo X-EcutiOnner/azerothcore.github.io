@@ -1,6 +1,7 @@
 var a07278 =
 [
-    [ "ArenaSeasonRewardDistributor", "da/dc9/a07278.html#a9b60eb5be0be5c1be68b9c371c99f28c", null ],
-    [ "DistributeRewards", "da/dc9/a07278.html#a93640633dc11edda2cd1fce4f1da496b", null ],
-    [ "_rewarder", "da/dc9/a07278.html#af2801ea5d098bebac111589e1fcf7004", null ]
+    [ "ArenaSeasonReward", "da/dc9/a07278.html#ae0871effd7fcac1006d8a16f9c7d7d04", null ],
+    [ "operator==", "da/dc9/a07278.html#a2f04bbb871ab3b90f5dc3121e2bff213", null ],
+    [ "entry", "da/dc9/a07278.html#ab3144a4701e1ebd88a3a94544ee76cdf", null ],
+    [ "type", "da/dc9/a07278.html#ac4c8cff64cf2eb7f34d28080a2a5528b", null ]
 ];

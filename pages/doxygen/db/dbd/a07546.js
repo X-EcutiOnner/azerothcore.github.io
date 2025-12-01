@@ -1,15 +1,17 @@
 var a07546 =
 [
-    [ "Print", "db/dbd/a07546.html#a7a3f746595d9ca126747f5e0ba52c71b", null ],
-    [ "CliHandler", "db/dbd/a07546.html#a6a7ba928db9d41743d7cebd1ad98b084", null ],
-    [ "GetAcoreString", "db/dbd/a07546.html#ab12ec41c55bc5f92461abff538a76b66", null ],
-    [ "GetNameLink", "db/dbd/a07546.html#ae879bbfa69992caa7a0b1b2b3c7d939c", null ],
-    [ "GetSessionDbcLocale", "db/dbd/a07546.html#a610f7431dc7b064c964e0d446160d19f", null ],
-    [ "GetSessionDbLocaleIndex", "db/dbd/a07546.html#a5a2118d9227aa53818d736e387d77dea", null ],
-    [ "HasSession", "db/dbd/a07546.html#a1cd4aabe4c61e3899a1e6d6785742abe", null ],
-    [ "needReportToTarget", "db/dbd/a07546.html#ad8c4ee6e45afff55d94dea9704bd2097", null ],
-    [ "ParseCommands", "db/dbd/a07546.html#abbd02247d6094bf39b2791ba45e9942e", null ],
-    [ "SendSysMessage", "db/dbd/a07546.html#a636be10a282a8d100b807dac119b3ff6", null ],
-    [ "m_callbackArg", "db/dbd/a07546.html#aa1fafd68fca180506cc15680b695db9e", null ],
-    [ "m_print", "db/dbd/a07546.html#aadeaa84ce5d26951f506a2656c1d64d2", null ]
+    [ "HasFlag", "db/dbd/a07546.html#a23315bfbd0748f82c948051697079c24", null ],
+    [ "IsModerator", "db/dbd/a07546.html#af664dc84e5a60301c4fce6fda8971062", null ],
+    [ "IsMuted", "db/dbd/a07546.html#a5d1e0f8e424033e34338940677ca054c", null ],
+    [ "IsOwner", "db/dbd/a07546.html#a4687757cb7df9778f0f5eb67714c917c", null ],
+    [ "IsOwnerGM", "db/dbd/a07546.html#ad4e1573168c91372dc4af2847d4ad454", null ],
+    [ "SetFlag", "db/dbd/a07546.html#a9cb5a3ce70a2afcc553992f4a65b80e1", null ],
+    [ "SetModerator", "db/dbd/a07546.html#a0a0cbaa77040171b7b50f89914946a8a", null ],
+    [ "SetMuted", "db/dbd/a07546.html#adf989acef0b1e53a9dc2d3210db646b7", null ],
+    [ "SetOwner", "db/dbd/a07546.html#aac6a9ea0bf478901e62c729ac6a3e9cd", null ],
+    [ "SetOwnerGM", "db/dbd/a07546.html#a2e4be6dfb921ad07ebd0de3abb81f5e4", null ],
+    [ "_gmStatus", "db/dbd/a07546.html#a15686cee4d1d0d8f39c13341bc9df624", null ],
+    [ "flags", "db/dbd/a07546.html#ae9ed61476c5f13dddf4aa5e98fe8c5c4", null ],
+    [ "player", "db/dbd/a07546.html#afba1915e2dd4109928180e33884b8412", null ],
+    [ "plrPtr", "db/dbd/a07546.html#a5c986d75e173cc42160143ae7621ab6b", null ]
 ];

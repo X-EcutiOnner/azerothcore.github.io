@@ -1,6 +1,6 @@
 var a24530 =
 [
-    [ "PrepareSpellScript", "d5/dae/a24530.html#a190f6dc3d9b336324da29f627a743fe9", null ],
-    [ "Register", "d5/dae/a24530.html#a3afc8035b852bc31abd3228e88d59819", null ],
-    [ "SetDest", "d5/dae/a24530.html#a85d66a58597954501305ad5b674cc8a2", null ]
+    [ "HandleDamageCalc", "d5/dae/a24530.html#a9e0f6fe8bb10950c2130fb7d1f07017a", null ],
+    [ "PrepareSpellScript", "d5/dae/a24530.html#a183477b6269dbc705a10e60ab36c13b1", null ],
+    [ "Register", "d5/dae/a24530.html#ae93d958a3a439e3401685b0d2a570f0e", null ]
 ];

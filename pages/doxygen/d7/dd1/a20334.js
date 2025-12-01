@@ -1,8 +1,6 @@
 var a20334 =
 [
-    [ "npc_ulduar_saronite_animusAI", "d7/dd1/a20334.html#a2b94427feb24a7bda075b6a8f403433a", null ],
-    [ "JustDied", "d7/dd1/a20334.html#a30abcab01de3732bc5525864576615b0", null ],
-    [ "UpdateAI", "d7/dd1/a20334.html#a1490961adc8fc03ab28a992aff55b43b", null ],
-    [ "pInstance", "d7/dd1/a20334.html#a5d3b297355f286b0ad08ed38dbd5b0d2", null ],
-    [ "timer", "d7/dd1/a20334.html#a3d0345d4c503eb3f0e4acbe346f1c5e5", null ]
+    [ "id", "d7/dd1/a20334.html#accc6fc59e13a0897ae168fae33ee4c7d", null ],
+    [ "x", "d7/dd1/a20334.html#afb67a1dce0819e0da0ceb9b303f43eb9", null ],
+    [ "y", "d7/dd1/a20334.html#aaf4fd9f1d5b020e102c0fec3863f7020", null ]
 ];

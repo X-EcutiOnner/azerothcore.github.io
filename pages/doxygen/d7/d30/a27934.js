@@ -1,8 +1,7 @@
 var a27934 =
 [
-    [ "npc_minion_spawner", "d7/d30/a27934.html#ab49641074ae46f21a3fdc1c2f71396ba", null ],
-    [ "CanSpawnRareMinion", "d7/d30/a27934.html#a007376c8f66a3963651f81ddd14cbbfc", null ],
-    [ "JustSummoned", "d7/d30/a27934.html#a1742c98edca62e3d80a32f33d6ed2f97", null ],
-    [ "Reset", "d7/d30/a27934.html#a0b55c1648c37399ad99d340bdf20cb49", null ],
-    [ "UpdateAI", "d7/d30/a27934.html#a24f93f1314bb73edb369e188eda83104", null ]
+    [ "HandleDummy", "d7/d30/a27934.html#ad57b334c7d985a3bda1cb19b81a77ee1", null ],
+    [ "PrepareSpellScript", "d7/d30/a27934.html#a550d6e90705745bdb5c4ee02ed1fce4b", null ],
+    [ "Register", "d7/d30/a27934.html#a3fda4d652c1264b3cfababdd98297c61", null ],
+    [ "Validate", "d7/d30/a27934.html#a2f12e71b9793be8e81011b0cd7583a39", null ]
 ];

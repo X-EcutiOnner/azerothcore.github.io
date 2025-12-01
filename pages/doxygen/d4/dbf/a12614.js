@@ -1,6 +1,6 @@
 var a12614 =
 [
-    [ "HandleHit", "d4/dbf/a12614.html#a5245f935c0cafd14e492214a51d85ad3", null ],
-    [ "PrepareSpellScript", "d4/dbf/a12614.html#a074b9e23de0a9b24776c7e361791c6ff", null ],
-    [ "Register", "d4/dbf/a12614.html#a12f7db2345ce0d19a18791a2e63e7450", null ]
+    [ "npc_core_ragerAI", "d3/d70/a12618.html", "d3/d70/a12618" ],
+    [ "npc_core_rager", "d4/dbf/a12614.html#ada4acfa2a1934d1609a8f9c78da6377d", null ],
+    [ "GetAI", "d4/dbf/a12614.html#a0ace94ecc1ebfb0e880c50d9b68087db", null ]
 ];

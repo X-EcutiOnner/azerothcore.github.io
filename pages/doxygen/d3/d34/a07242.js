@@ -1,11 +1,8 @@
 var a07242 =
 [
-    [ "WGWorkshop", "d3/d34/a07242.html#a2d2d7b24ec77275f24efa54d31e98bbb", null ],
-    [ "GiveControlTo", "d3/d34/a07242.html#a6b69312f4ffa562b0e8fdcf5da3568d3", null ],
-    [ "Save", "d3/d34/a07242.html#adede1c780178f20dc8339320a021e4b6", null ],
-    [ "UpdateGraveyardAndWorkshop", "d3/d34/a07242.html#a2ff11801fb50cd3a463c44fafbddaed4", null ],
-    [ "bf", "d3/d34/a07242.html#ae2b7e050289ad5922ddcd73c6da9f5a5", null ],
-    [ "state", "d3/d34/a07242.html#a279d47c85843e884edef1f82b9654cd8", null ],
-    [ "teamControl", "d3/d34/a07242.html#a196c8d0094a34c18835840e046fd39ef", null ],
-    [ "workshopId", "d3/d34/a07242.html#a42d7337c67e4f19886b0ec86f0e60596", null ]
+    [ "entry", "d3/d34/a07242.html#ab47ef3b15c887f46fb1bf9c88f5cc5d8", null ],
+    [ "o", "d3/d34/a07242.html#af2bf42b7d1a18e7ee1125a305ee7bc79", null ],
+    [ "x", "d3/d34/a07242.html#a4fb658cf54f9534e0686a8fa5b2328c7", null ],
+    [ "y", "d3/d34/a07242.html#aa761c9076be145dab6d2cac773bb6e7a", null ],
+    [ "z", "d3/d34/a07242.html#ac9ff501bbf00d80f5b9350a78ffbb6fb", null ]
 ];

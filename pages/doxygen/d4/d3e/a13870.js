@@ -1,5 +1,6 @@
 var a13870 =
 [
-    [ "npc_king_varian_wrynn", "d4/d3e/a13870.html#a33b7c492a7435b3f80e508be9e3440e9", null ],
-    [ "OnQuestReward", "d4/d3e/a13870.html#a1255cca95a7a2b039702b30db377a19f", null ]
+    [ "npc_tyrion_spybotAI", "d6/dae/a13874.html", "d6/dae/a13874" ],
+    [ "npc_tyrion_spybot", "d4/d3e/a13870.html#a7e0eed1b51ffe1df2d8ae2ad37f26528", null ],
+    [ "GetAI", "d4/d3e/a13870.html#af81b70437703edc8d99fe24249891dd6", null ]
 ];

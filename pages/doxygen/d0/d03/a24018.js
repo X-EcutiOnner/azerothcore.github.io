@@ -1,6 +1,6 @@
 var a24018 =
 [
-    [ "AfterRemove", "d0/d03/a24018.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
-    [ "PrepareAuraScript", "d0/d03/a24018.html#ad5871ce865820456177362c6b790778f", null ],
-    [ "Register", "d0/d03/a24018.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
+    [ "lapseTeleport", "d0/d03/a24018.html#a55c4330397214bf3a43628b3067d4634", null ],
+    [ "Execute", "d0/d03/a24018.html#a122023ed13fce2f5bb3721e459964443", null ],
+    [ "_owner", "d0/d03/a24018.html#a0e678c5cdb862390ea50c8d6057b7093", null ]
 ];

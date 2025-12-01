@@ -1,7 +1,6 @@
 var a19934 =
 [
-    [ "HandleDummyEffect", "d8/d42/a19934.html#ae95c1ce60db79c360e9c1431f27705cb", null ],
-    [ "PrepareSpellScript", "d8/d42/a19934.html#a84a4f52928873e58b1fc49e783c5083a", null ],
-    [ "Register", "d8/d42/a19934.html#a90c00bcb1768d696addab407425e406a", null ],
-    [ "SelectTarget", "d8/d42/a19934.html#a2e7a7c05a30ae1e0c5aa14dc2af19345", null ]
+    [ "CastRunesEvent", "d8/d42/a19934.html#aa3c5912362a4ce8a5b463da626f277b0", null ],
+    [ "Execute", "d8/d42/a19934.html#ad86f17817c8a5accb1cc90e0e5d362f3", null ],
+    [ "_owner", "d8/d42/a19934.html#a308c679c6e427e89734b5f506ad9d0d6", null ]
 ];

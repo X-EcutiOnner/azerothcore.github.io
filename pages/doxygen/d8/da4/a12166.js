@@ -1,6 +1,7 @@
 var a12166 =
 [
-    [ "boss_drakkisathAI", "dc/d79/a12170.html", "dc/d79/a12170" ],
-    [ "boss_drakkisath", "d8/da4/a12166.html#a73f21cbd7b81fc045ae129d7d650b455", null ],
-    [ "GetAI", "d8/da4/a12166.html#ad27999ba129b2e3617c1aba1c4b9772b", null ]
+    [ "boss_moira_bronzebeardAI", "d8/da4/a12166.html#a11265b6aad76574c2c76253128c79165", null ],
+    [ "CastOnEmperorIfPossible", "d8/da4/a12166.html#a0df43e5c605783312291bd4ba1921f8c", null ],
+    [ "JustEngagedWith", "d8/da4/a12166.html#a40ae00eb86e2bec048a9394d4deef106", null ],
+    [ "UpdateAI", "d8/da4/a12166.html#ae3f22a059330fb564cd30e581fc0198d", null ]
 ];

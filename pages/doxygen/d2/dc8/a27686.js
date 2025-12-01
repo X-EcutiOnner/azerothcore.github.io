@@ -1,11 +1,8 @@
 var a27686 =
 [
-    [ "npc_artoriusAI", "d2/dc8/a27686.html#a71056d1f537671a9f790ebbc1c2baf9c", null ],
-    [ "DamageTaken", "d2/dc8/a27686.html#acaa6f32e1cfba98ec4dd06245a41d321", null ],
-    [ "DoAction", "d2/dc8/a27686.html#abbfc9ee752d97f1694dbd739719843c2", null ],
-    [ "JustEngagedWith", "d2/dc8/a27686.html#ab5760ad8dc87f7ccbea615ff2eb809c8", null ],
-    [ "Reset", "d2/dc8/a27686.html#a862cc52a9251e2dfe486f1152dae9500", null ],
-    [ "SpellHit", "d2/dc8/a27686.html#ac6ce7235c4399a5a8f2e771f5cd652ba", null ],
-    [ "UpdateAI", "d2/dc8/a27686.html#afdd2821ce916b65ed33fe7ab75ef56a5", null ],
-    [ "events", "d2/dc8/a27686.html#a6c8adf35504caf0cfea9a353833d4c4e", null ]
+    [ "npc_nelsonAI", "db/d1e/a27690.html", "db/d1e/a27690" ],
+    [ "npc_nelson", "d2/dc8/a27686.html#ada597926a6db1aa7823ddabc19945b11", null ],
+    [ "GetAI", "d2/dc8/a27686.html#a75fea281fb49249345c48236bf44b1c8", null ],
+    [ "OnGossipHello", "d2/dc8/a27686.html#aa693b365a15d4617f214f9c3c229bf89", null ],
+    [ "OnGossipSelect", "d2/dc8/a27686.html#aff8e412cfcabd7b653cd30d29878be6a", null ]
 ];

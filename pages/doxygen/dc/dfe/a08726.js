@@ -1,9 +1,9 @@
 var a08726 =
 [
-    [ "ProcTriggeredData", "dc/dfe/a08726.html#a37c5cbfd0b916b950a0e638223394de4", null ],
-    [ "operator==", "dc/dfe/a08726.html#a787760cbd8a6ee5192975bc514886159", null ],
-    [ "aura", "dc/dfe/a08726.html#a5138144d49900690bb15a5f66b763eac", null ],
-    [ "effMask", "dc/dfe/a08726.html#a1c2bfb3e0016ba823e12b3defe373790", null ],
-    [ "spellProcEvent", "dc/dfe/a08726.html#ac6e491a7ef478d271d3c74d7b9df577e", null ],
-    [ "triggerSpelId", "dc/dfe/a08726.html#abfd99a1e3beb871a3cbf83d7578ec98a", null ]
+    [ "GlobalCooldownMgr", "dc/dfe/a08726.html#a116f4af13a4e10dc5eb3c3c6a17ad863", null ],
+    [ "AddGlobalCooldown", "dc/dfe/a08726.html#acc0291e56fe4d3594d079e357f6ea3ed", null ],
+    [ "CancelGlobalCooldown", "dc/dfe/a08726.html#aed6b479416104dc536116fdb1e24fcf3", null ],
+    [ "GetGlobalCooldown", "dc/dfe/a08726.html#ae44caed35e93f834ff68394c1ab6434b", null ],
+    [ "HasGlobalCooldown", "dc/dfe/a08726.html#a7487d19ae8c59e5c5e871b2e1afabfba", null ],
+    [ "m_GlobalCooldowns", "dc/dfe/a08726.html#a80d03691d36758733f326b65992f266e", null ]
 ];

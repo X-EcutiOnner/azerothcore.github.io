@@ -1,6 +1,6 @@
 var a21506 =
 [
-    [ "boss_cyanigosaAI", "d1/dee/a21510.html", "d1/dee/a21510" ],
-    [ "boss_cyanigosa", "df/d52/a21506.html#a4db12e2fb873ad3595a437df09663a22", null ],
-    [ "GetAI", "df/d52/a21506.html#a779c7c3a5f0002501361fa92fe14af69", null ]
+    [ "npc_ichor_globuleAI", "d1/dee/a21510.html", "d1/dee/a21510" ],
+    [ "npc_ichor_globule", "df/d52/a21506.html#a4dbd3b057e319ba83e0e1c94b99cd2ab", null ],
+    [ "GetAI", "df/d52/a21506.html#a4fed5ebd2e1b6ff6867a9488a6e1aef2", null ]
 ];

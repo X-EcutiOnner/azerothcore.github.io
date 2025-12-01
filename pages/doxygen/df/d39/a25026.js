@@ -1,7 +1,6 @@
 var a25026 =
 [
-    [ "if", "df/d39/a25026.html#a6b9c0d513b24e9a5c0eef8307b2eb3a8", null ],
-    [ "PrepareAuraScript", "df/d39/a25026.html#a01d974333043452a37ec3124d23b49f2", null ],
-    [ "Register", "df/d39/a25026.html#aeb6c695819e894aad8b210a237e6d315", null ],
-    [ "AuraEffectHandleModes", "df/d39/a25026.html#a9b235517305f9b2fcf2d31eb3a4edbd2", null ]
+    [ "CheckAreaTarget", "df/d39/a25026.html#a545323b9964ee4cb3c8d054fac4e2d55", null ],
+    [ "PrepareAuraScript", "df/d39/a25026.html#a2b6dbd33e34357917f662000a1cd932f", null ],
+    [ "Register", "df/d39/a25026.html#a7b4a2301b3a608ea5b2dd2504e02741d", null ]
 ];

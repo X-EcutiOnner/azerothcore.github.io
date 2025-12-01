@@ -1,7 +1,6 @@
 var a10806 =
 [
-    [ "AutoEquipItemSlot", "d5/db1/a10806.html#aa51f40a4172ac41548ec6199bc84375d", null ],
-    [ "Read", "d5/db1/a10806.html#ade6a15026e9c461b38301edf79f367be", null ],
-    [ "DestinationSlot", "d5/db1/a10806.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
-    [ "ItemGuid", "d5/db1/a10806.html#a9d4da587061833262acff66674d3ac41", null ]
+    [ "GuildBankTextQuery", "d5/db1/a10806.html#ab74c6b61182349e3697d6b8f2f3393d2", null ],
+    [ "Read", "d5/db1/a10806.html#af20bd5c8e58b891028613625fb14807d", null ],
+    [ "Tab", "d5/db1/a10806.html#a368054d83fb99317ffd14b4d79ffd0af", null ]
 ];

@@ -1,7 +1,9 @@
 var a10494 =
 [
-    [ "ClientPacket", "de/da7/a10494.html#aa1d1946c07e248bae5927e83fdad9500", null ],
-    [ "ClientPacket", "de/da7/a10494.html#a1cdaaacca2695c4366647c7611073ff0", null ],
-    [ "GetOpcode", "de/da7/a10494.html#aa51558bb8faa96a665fe40b1bddf9d14", null ],
-    [ "Write", "de/da7/a10494.html#a16e5b9fa05e35fa1e32e33bef2688487", null ]
+    [ "fX", "de/da7/a10494.html#a53aeb6e82eea1dc4a4e5d8e99dfd3fc5", null ],
+    [ "fY", "de/da7/a10494.html#a9b158e247014eec0d35e465ab9469ac7", null ],
+    [ "fZ", "de/da7/a10494.html#a2e02f9738393aeb8cd62ac26dda8fc10", null ],
+    [ "uiCreatureEntry", "de/da7/a10494.html#ac31436c40bd0bf375635e2ea604fbf61", null ],
+    [ "uiPointId", "de/da7/a10494.html#acb4d9697a24d5c29deacdefe8eb0e267", null ],
+    [ "uiWaitTime", "de/da7/a10494.html#a305620aad71152c1139a88dea05a1887", null ]
 ];

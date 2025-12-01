@@ -1,6 +1,9 @@
 var a22370 =
 [
-    [ "HandleHealPct", "df/d30/a22370.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
-    [ "PrepareSpellScript", "df/d30/a22370.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
-    [ "Register", "df/d30/a22370.html#a52f253d2a3b9b3890020107b7722ad96", null ]
+    [ "npc_engineer_heliceAI", "df/d30/a22370.html#ab9d82a7d2886a0cc4edbc2f4c4c81341", null ],
+    [ "JustDied", "df/d30/a22370.html#aba224727b86a2bfc39a47b70b424ccef", null ],
+    [ "Reset", "df/d30/a22370.html#ade3f7f526dd8973c155aafb939db3778", null ],
+    [ "UpdateAI", "df/d30/a22370.html#a1c333511dd6e82cd22af111e12a701c4", null ],
+    [ "WaypointReached", "df/d30/a22370.html#a065698e61f0b7769ad2f58614c02ad5b", null ],
+    [ "m_uiChatTimer", "df/d30/a22370.html#aa305bc2b5711d0745650f80275204ea8", null ]
 ];

@@ -1,14 +1,7 @@
 var a24282 =
 [
-    [ "npc_maghar_captiveAI", "dd/d1c/a24282.html#abab2cfe84f4bb83fea3b35202a957bb5", null ],
-    [ "JustDied", "dd/d1c/a24282.html#adbef78d8c908bfbce6ea506c55fb6922", null ],
-    [ "JustEngagedWith", "dd/d1c/a24282.html#a2a0ec4a496c7352ba88ceef99eb769e4", null ],
-    [ "JustSummoned", "dd/d1c/a24282.html#afe55f91acd8c47a758b8d08bd07d763f", null ],
-    [ "Reset", "dd/d1c/a24282.html#abebcdcb102f8d338ae0b792708940cd7", null ],
-    [ "SpellHitTarget", "dd/d1c/a24282.html#ab4f4deaae35fdbd602c9925f26e6d0e7", null ],
-    [ "UpdateAI", "dd/d1c/a24282.html#a295cbae9196e320fabbb4cfb9dc33150", null ],
-    [ "WaypointReached", "dd/d1c/a24282.html#abfbba8942df57e974ab24ad693c16e70", null ],
-    [ "ChainLightningTimer", "dd/d1c/a24282.html#aa00a6978074f62d3d8ddead64d3240cf", null ],
-    [ "FrostShockTimer", "dd/d1c/a24282.html#a2e4a5ef509e7f7ec33b1e83c90d2c80f", null ],
-    [ "HealTimer", "dd/d1c/a24282.html#a31613adba706f3b5f948f2f7c4222038", null ]
+    [ "npc_maxx_a_million_escortAI", "d9/d41/a24286.html", "d9/d41/a24286" ],
+    [ "npc_maxx_a_million_escort", "dd/d1c/a24282.html#a958a88b495594dd8e14919d950ac917a", null ],
+    [ "GetAI", "dd/d1c/a24282.html#af79619087908d442f503e0b0d633937d", null ],
+    [ "OnQuestAccept", "dd/d1c/a24282.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
 ];

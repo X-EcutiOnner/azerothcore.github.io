@@ -1,7 +1,7 @@
 var a22966 =
 [
-    [ "HandleScriptEffect", "d2/def/a22966.html#a6ec6e79849c618d009eae3551e16ff0a", null ],
-    [ "PrepareSpellScript", "d2/def/a22966.html#a4f00eca7c78a785780be4379c1a56a6b", null ],
-    [ "Register", "d2/def/a22966.html#adb676b9d6f36c30efbb8286b1e5edf6d", null ],
-    [ "Validate", "d2/def/a22966.html#a9ce122d497e72e3a46b1857d722af48d", null ]
+    [ "OnPeriodic", "d2/def/a22966.html#a165d47b116b0a53e37b05f664960e6ec", null ],
+    [ "PrepareAuraScript", "d2/def/a22966.html#ac46af3566c5c03622f8146f1bb6f0ac7", null ],
+    [ "Register", "d2/def/a22966.html#a1ac8741542c921f5e4c42b0a9a02ed3c", null ],
+    [ "Validate", "d2/def/a22966.html#adf76f9183dd9c5e0f00c2115aaafb119", null ]
 ];

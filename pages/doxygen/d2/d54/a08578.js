@@ -1,8 +1,9 @@
 var a08578 =
 [
-    [ "PlayerCreateInfoAction", "d2/d54/a08578.html#a50d56595c71374e132dfe9f988144e75", null ],
-    [ "PlayerCreateInfoAction", "d2/d54/a08578.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
-    [ "action", "d2/d54/a08578.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
-    [ "button", "d2/d54/a08578.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
-    [ "type", "d2/d54/a08578.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
+    [ "ActionButton", "d2/d54/a08578.html#a78f4e95d921fb997647f89c67c2a66b7", null ],
+    [ "GetAction", "d2/d54/a08578.html#a7c10f6089fab30179cfe8175b740477a", null ],
+    [ "GetType", "d2/d54/a08578.html#abe5bc143770d411cff0d8c8c425b1253", null ],
+    [ "SetActionAndType", "d2/d54/a08578.html#a29d804ed78d79f64e868e9741b37d7be", null ],
+    [ "packedData", "d2/d54/a08578.html#a2a34a116c4890a12255f9ebe24c1cba8", null ],
+    [ "uState", "d2/d54/a08578.html#a6384e73650da93c96d3b4cc42b151b63", null ]
 ];

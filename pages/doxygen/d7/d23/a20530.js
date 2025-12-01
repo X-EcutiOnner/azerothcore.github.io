@@ -1,9 +1,7 @@
 var a20530 =
 [
-    [ "HandleEffectPeriodic", "d7/d23/a20530.html#adc6e83abb52a21528c07a1d989818dcf", null ],
-    [ "OnApply", "d7/d23/a20530.html#ad52977d3bfeca6d2a7127d91eb3d30ab", null ],
-    [ "OnRemove", "d7/d23/a20530.html#a903e65cc8041f9bd289bb5c6f156fa22", null ],
-    [ "PrepareAuraScript", "d7/d23/a20530.html#aa85f79f5337edca68b3cb87073eff0d4", null ],
-    [ "Register", "d7/d23/a20530.html#a2b18c5db95842a6f8959bf9affd357b7", null ],
-    [ "Validate", "d7/d23/a20530.html#ae88b8bd3e648030df48f6b80cedc4034", null ]
+    [ "boss_kologarn_pit_kill_bunny", "d7/d23/a20530.html#a0ecbc2ae8850d4cfb84f40d2a13f4976", null ],
+    [ "Reset", "d7/d23/a20530.html#afd7482896b66f040b8d57b9b6ac37059", null ],
+    [ "UpdateAI", "d7/d23/a20530.html#ad863666aec3db81f73165148ffc98033", null ],
+    [ "_boundaryIntersect", "d7/d23/a20530.html#abc0560637830e70d54ce1fb6b6881ca6", null ]
 ];

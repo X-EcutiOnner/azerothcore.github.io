@@ -1,7 +1,10 @@
 var a20522 =
 [
-    [ "HandleEffectPeriodic", "dc/dc5/a20522.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
-    [ "PrepareAuraScript", "dc/dc5/a20522.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
-    [ "Register", "dc/dc5/a20522.html#aed86a298340cc05fbe2a8a68396423bb", null ],
-    [ "Validate", "dc/dc5/a20522.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
+    [ "boss_kologarn_eyebeamAI", "dc/dc5/a20522.html#add083b2a9067753458de1eeb6bdca4c0", null ],
+    [ "DamageDealt", "dc/dc5/a20522.html#a6c1d27cc208bdaf260d6c90a2b7bca45", null ],
+    [ "IsSummonedBy", "dc/dc5/a20522.html#affd177dc20c800777142208fa97207fa", null ],
+    [ "UpdateAI", "dc/dc5/a20522.html#add60a709a1edf1684bd21358769590b4", null ],
+    [ "_damaged", "dc/dc5/a20522.html#a7b49d9826efcf492c6e7ee003f481ccb", null ],
+    [ "_timer", "dc/dc5/a20522.html#a766ad3e10016d97235499d1512c4da27", null ],
+    [ "m_pInstance", "dc/dc5/a20522.html#a4145bd7e5c80c4e62144b437d38624a4", null ]
 ];

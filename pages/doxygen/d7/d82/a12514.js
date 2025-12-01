@@ -1,9 +1,6 @@
 var a12514 =
 [
-    [ "boss_baron_geddonAI", "d7/d82/a12514.html#a3a85b2a6e958a965e52a9fde87c08177", null ],
-    [ "DamageTaken", "d7/d82/a12514.html#ad339cb7149b50cf5accc24b5a2d0bf82", null ],
-    [ "ExecuteEvent", "d7/d82/a12514.html#a2c3ed57dd0336ce8ac1a85c957da9e4a", null ],
-    [ "JustEngagedWith", "d7/d82/a12514.html#a8c5e43b4b4e0583db7dcc93694202bd8", null ],
-    [ "Reset", "d7/d82/a12514.html#aaf47fc993e672877f51b5095f682906c", null ],
-    [ "armageddonCasted", "d7/d82/a12514.html#a1a034601a7dda94becbf1801bda63d55", null ]
+    [ "boss_razorgoreAI", "d8/d01/a12518.html", "d8/d01/a12518" ],
+    [ "boss_razorgore", "d7/d82/a12514.html#aee534a04797c5938e6da00f2ab119943", null ],
+    [ "GetAI", "d7/d82/a12514.html#a4683a5deefdb9d3219638189e9a99c2a", null ]
 ];

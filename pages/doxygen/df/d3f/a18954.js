@@ -1,7 +1,7 @@
 var a18954 =
 [
-    [ "HandleEffectPeriodic", "df/d3f/a18954.html#a57615f1d8b891ab5a5c01de1543235cb", null ],
-    [ "PrepareAuraScript", "df/d3f/a18954.html#ae040da0db1147652266e1f373838df37", null ],
-    [ "Register", "df/d3f/a18954.html#ab11b84522134ee4d13504df3c19f69b8", null ],
-    [ "Validate", "df/d3f/a18954.html#af3c3c90256913ffe188c11a21fc2dcc8", null ]
+    [ "HandleDummy", "df/d3f/a18954.html#a4bfc155129bd80c94b4b59474f30d748", null ],
+    [ "PrepareSpellScript", "df/d3f/a18954.html#a9c72772f9d17b34562bd11418d67872d", null ],
+    [ "Register", "df/d3f/a18954.html#a10c9f511da4eb366117d356c118408c6", null ],
+    [ "Validate", "df/d3f/a18954.html#a655f2081d17c06c155641efc45efc1f8", null ]
 ];

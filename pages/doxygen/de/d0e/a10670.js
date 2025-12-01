@@ -1,11 +1,7 @@
 var a10670 =
 [
-    [ "GuildSetRankPermissions", "de/d0e/a10670.html#a8b3fd3e4da77c6fb70db28721ec46714", null ],
-    [ "Read", "de/d0e/a10670.html#a534550862a3c634697e8277f31ad4c25", null ],
-    [ "Flags", "de/d0e/a10670.html#adea48131efa7c05b84c4de596933bfbe", null ],
-    [ "RankID", "de/d0e/a10670.html#a0c4a8b29918d69580c749e3b48485515", null ],
-    [ "RankName", "de/d0e/a10670.html#a24dde2aa8dd0ae1b9e8b37317334e0d4", null ],
-    [ "TabFlags", "de/d0e/a10670.html#af19e6fd8ddfe980f8c1f1110e9332bad", null ],
-    [ "TabWithdrawItemLimit", "de/d0e/a10670.html#a9f5ddb30858ae9eca7fcd2ad9fa8ea0c", null ],
-    [ "WithdrawGoldLimit", "de/d0e/a10670.html#a1c02002facce05010028ac8dcae7fa3f", null ]
+    [ "GuildInvite", "de/d0e/a10670.html#a7b5ef96e9a9d4c6665b280bb844b6d54", null ],
+    [ "Write", "de/d0e/a10670.html#a4ed1c240a53fa6268eb07b3c77d68757", null ],
+    [ "GuildName", "de/d0e/a10670.html#ac3ae572bb65d5ea156151e5fc7abf5b8", null ],
+    [ "InviterName", "de/d0e/a10670.html#a8a91b3f9a94776da4b23c38220c6fc3d", null ]
 ];

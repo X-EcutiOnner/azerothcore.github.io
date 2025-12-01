@@ -1,6 +1,5 @@
 var a22570 =
 [
-    [ "npc_wg_queueAI", "d4/d7e/a22570.html#a3760738d61b6148042fc30bd96b88fdc", null ],
-    [ "UpdateAI", "d4/d7e/a22570.html#a2e5f19a0f01eeb3d1585c7b02f2073b2", null ],
-    [ "events", "d4/d7e/a22570.html#ab0eb949272e48120cff1c3df27ad8e92", null ]
+    [ "achievement_wg_didnt_stand_a_chance", "d4/d7e/a22570.html#afb397c74f00d1f5c59a24ef74b0cd1cd", null ],
+    [ "OnCheck", "d4/d7e/a22570.html#ae575bae454689e05c161e8480a13fa18", null ]
 ];

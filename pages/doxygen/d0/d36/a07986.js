@@ -1,9 +1,14 @@
 var a07986 =
 [
-    [ "cancelTime", "d0/d36/a07986.html#ac1d5edf075556c488aff36799ee6cb96", null ],
-    [ "dungeons", "d0/d36/a07986.html#a1e6c1deaf47dc835bbab7a1741a57fe2", null ],
-    [ "leader", "d0/d36/a07986.html#ad92b0bd391dae5f934b7d6f8a39351d8", null ],
-    [ "rDungeonId", "d0/d36/a07986.html#af07fdfed0b56211af723db06959013f6", null ],
-    [ "roles", "d0/d36/a07986.html#a3759dc8140194b09be842365dc0053d7", null ],
-    [ "state", "d0/d36/a07986.html#aa70ef2d83084359af7bcc9e2de60ce77", null ]
+    [ "LfgQueueStatusData", "d0/d36/a07986.html#af50fc3422feb137a7ccd820e2ac2fe44", null ],
+    [ "dps", "d0/d36/a07986.html#a99a0bd2b1eeb4b8f9a7ffd088232ef0a", null ],
+    [ "dungeonId", "d0/d36/a07986.html#a9a6288f9e14e593e147b4f60a1dc8991", null ],
+    [ "healers", "d0/d36/a07986.html#a61b2c2f4391022c7e4ba3972c4467a74", null ],
+    [ "queuedTime", "d0/d36/a07986.html#a398efafa1ef7faa6600d6fdb28306f49", null ],
+    [ "tanks", "d0/d36/a07986.html#a74f54d22ca9e2b6711bf363737b9ff06", null ],
+    [ "waitTime", "d0/d36/a07986.html#aa794f234bf93e66916f7eadb986f17ef", null ],
+    [ "waitTimeAvg", "d0/d36/a07986.html#af44b91dd7ddfb702662663f989f026fc", null ],
+    [ "waitTimeDps", "d0/d36/a07986.html#aa95e69bcfb84de1d37bc7ff1a4ece8bf", null ],
+    [ "waitTimeHealer", "d0/d36/a07986.html#abf57fbbaac89b08bacf0731e3a8b65e3", null ],
+    [ "waitTimeTank", "d0/d36/a07986.html#a73cdcd16181375a7d428e6b50cb1e1e6", null ]
 ];

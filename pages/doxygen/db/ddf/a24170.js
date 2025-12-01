@@ -1,6 +1,7 @@
 var a24170 =
 [
-    [ "npc_deaths_fel_cannonAI", "d8/daa/a24174.html", "d8/daa/a24174" ],
-    [ "npc_deaths_fel_cannon", "db/ddf/a24170.html#a87ecaca75061928600b5114d3913dd26", null ],
-    [ "GetAI", "db/ddf/a24170.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
+    [ "HandleEffect", "db/ddf/a24170.html#acb353dbdd050bfc6aa4b4b5f6433dc03", null ],
+    [ "PrepareSpellScript", "db/ddf/a24170.html#ad95bc33917e1aa968eedc636f6e3ddcb", null ],
+    [ "Register", "db/ddf/a24170.html#ac2b2bd2581a638553167d5c8099a70cd", null ],
+    [ "Validate", "db/ddf/a24170.html#a7702b0e876ab5ccd750d1072ee70ed69", null ]
 ];

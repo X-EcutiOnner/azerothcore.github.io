@@ -1,6 +1,6 @@
 var a17454 =
 [
-    [ "ShockVortexExplodeEvent", "de/d40/a17454.html#ad972aed372822e10a476d1592192f3ea", null ],
-    [ "Execute", "de/d40/a17454.html#a601f777052b8a142db49e9b0ab1fa81a", null ],
-    [ "_owner", "de/d40/a17454.html#a76b1887e486969fcd7a236a8eb7a9a2a", null ]
+    [ "boss_prince_taldaramAI", "dc/d9e/a17458.html", "dc/d9e/a17458" ],
+    [ "boss_prince_taldaram_icc", "de/d40/a17454.html#abe14f754e1daf597aa2b7d401f337c8d", null ],
+    [ "GetAI", "de/d40/a17454.html#a2a8c89206ab72afc68260f41a246da3b", null ]
 ];

@@ -1,8 +1,7 @@
 var a15654 =
 [
-    [ "CheckRequirement", "de/dea/a15654.html#ae2b5e9accd0df2cc99e976eaab2d3f35", null ],
-    [ "HandleDummy", "de/dea/a15654.html#a6d2c75ad53f0e0f7be2df037f385d686", null ],
-    [ "PrepareSpellScript", "de/dea/a15654.html#a5b0a5f957a7b996cbe6b219a9803069e", null ],
-    [ "Register", "de/dea/a15654.html#a46f4aec6f7786d0abc8ded21ef16e6f6", null ],
-    [ "Validate", "de/dea/a15654.html#ab3f8d94f3b8d44e668743cb821430a92", null ]
+    [ "HandleDummy", "de/dea/a15654.html#a30a87266b89021caf7d05c45397f70d1", null ],
+    [ "PrepareSpellScript", "de/dea/a15654.html#a43a92b346088d710719722e8feed9634", null ],
+    [ "Register", "de/dea/a15654.html#ad7a53cc6a24197c050ed8577f6c6cc12", null ],
+    [ "Validate", "de/dea/a15654.html#a8b5097b623adbc1d8a10d7b1c4c248ab", null ]
 ];

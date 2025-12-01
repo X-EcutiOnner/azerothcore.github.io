@@ -1,7 +1,6 @@
 var a20570 =
 [
-    [ "StoneGripTargetSelector", "db/d9f/a20570.html#a74fc772e2bc0694dee05fe82de4463e2", null ],
-    [ "operator()", "db/d9f/a20570.html#ae40653def55e656f2347029a97605395", null ],
-    [ "_me", "db/d9f/a20570.html#ae5781d6b553491a1e3e8bfde2b965c3a", null ],
-    [ "_victim", "db/d9f/a20570.html#a09c3c6f832c20776f11b72a468a4b0bb", null ]
+    [ "boss_mimironAI", "dd/d1b/a20574.html", "dd/d1b/a20574" ],
+    [ "boss_mimiron", "db/d9f/a20570.html#a72904837bd85e9f711fcf3da04c459c3", null ],
+    [ "GetAI", "db/d9f/a20570.html#a1d4f38ecee62a2c2a608afc158fad7f2", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: MapObject Namespace Reference</title>
+<title>AzerothCore: Acore::PlayerCommand Namespace Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,57 +106,47 @@ $(document).ready(function(){initNavTree('d8/d02/a04889.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#func-members">Functions</a>  </div>
-  <div class="headertitle"><div class="title">MapObject Namespace Reference</div></div>
+  <div class="headertitle"><div class="title">Acore::PlayerCommand Namespace Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a9148b3ef5b412564a285737b0bd104dd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d02/a04889.html#a9148b3ef5b412564a285737b0bd104dd">Extract</a> (<a class="el" href="../../dd/d40/a29008.html">ADT::MODF</a> const &amp;mapObjDef, char const *WmoInstName, <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> mapID, <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileX, <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> tileY, FILE *pDirfile)</td></tr>
-<tr class="separator:a9148b3ef5b412564a285737b0bd104dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:acbe37f872cbc981a27671ebdf10904de"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d02/a04889.html#acbe37f872cbc981a27671ebdf10904de">HandleLearnSpellCommand</a> (<a class="el" href="../../d4/de0/a07562.html">ChatHandler</a> *handler, <a class="el" href="../../de/d6b/a08670.html">Player</a> *targetPlayer, <a class="el" href="../../de/dfc/a11374.html">SpellInfo</a> const *spell, <a class="el" href="../../d2/dd5/a04724.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d6/dea/a01094.html#ac61bb0d0d29d3ccc94188eb93516adf5">EXACT_SEQUENCE</a>(&quot;all&quot;)&gt; allRanks)</td></tr>
+<tr class="separator:acbe37f872cbc981a27671ebdf10904de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad36f90f90b3d9aaf782f7efc859f7e7a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d8/d02/a04889.html#ad36f90f90b3d9aaf782f7efc859f7e7a">HandleUnlearnSpellCommand</a> (<a class="el" href="../../d4/de0/a07562.html">ChatHandler</a> *handler, <a class="el" href="../../de/d6b/a08670.html">Player</a> *targetPlayer, <a class="el" href="../../de/dfc/a11374.html">SpellInfo</a> const *spell, <a class="el" href="../../d2/dd5/a04724.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d6/dea/a01094.html#ac61bb0d0d29d3ccc94188eb93516adf5">EXACT_SEQUENCE</a>(&quot;all&quot;)&gt; allRanks)</td></tr>
+<tr class="separator:ad36f90f90b3d9aaf782f7efc859f7e7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
-<a id="a9148b3ef5b412564a285737b0bd104dd" name="a9148b3ef5b412564a285737b0bd104dd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9148b3ef5b412564a285737b0bd104dd">&#9670;&#160;</a></span>Extract()</h2>
+<a id="acbe37f872cbc981a27671ebdf10904de" name="acbe37f872cbc981a27671ebdf10904de"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acbe37f872cbc981a27671ebdf10904de">&#9670;&#160;</a></span>HandleLearnSpellCommand()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void MapObject::Extract </td>
+          <td class="memname">bool Acore::PlayerCommand::HandleLearnSpellCommand </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../dd/d40/a29008.html">ADT::MODF</a> const &amp;&#160;</td>
-          <td class="paramname"><em>mapObjDef</em>, </td>
+          <td class="paramtype"><a class="el" href="../../d4/de0/a07562.html">ChatHandler</a> *&#160;</td>
+          <td class="paramname"><em>handler</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">char const *&#160;</td>
-          <td class="paramname"><em>WmoInstName</em>, </td>
+          <td class="paramtype"><a class="el" href="../../de/d6b/a08670.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>targetPlayer</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>mapID</em>, </td>
+          <td class="paramtype"><a class="el" href="../../de/dfc/a11374.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname"><em>spell</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>tileX</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td>
-          <td class="paramname"><em>tileY</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">FILE *&#160;</td>
-          <td class="paramname"><em>pDirfile</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d2/dd5/a04724.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d6/dea/a01094.html#ac61bb0d0d29d3ccc94188eb93516adf5">EXACT_SEQUENCE</a>(&quot;all&quot;)&gt;&#160;</td>
+          <td class="paramname"><em>allRanks</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -165,84 +155,134 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  512</span>{</div>
-<div class="line"><span class="lineno">  513</span>    <span class="comment">// destructible wmo, do not dump. we can handle the vmap for these</span></div>
-<div class="line"><span class="lineno">  514</span>    <span class="comment">// in dynamic tree (gameobject vmaps)</span></div>
-<div class="line"><span class="lineno">  515</span>    <span class="keywordflow">if</span> ((mapObjDef.Flags &amp; 0x1) != 0)</div>
-<div class="line"><span class="lineno">  516</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  517</span> </div>
-<div class="line"><span class="lineno">  518</span>    <span class="comment">//-----------add_in _dir_file----------------</span></div>
-<div class="line"><span class="lineno">  519</span> </div>
-<div class="line"><span class="lineno">  520</span>    <span class="keywordtype">char</span> tempname[1036];</div>
-<div class="line"><span class="lineno">  521</span>    sprintf(tempname, <span class="stringliteral">&quot;%s/%s&quot;</span>, <a class="code hl_variable" href="../../d1/dcc/a04250.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a>, WmoInstName);</div>
-<div class="line"><span class="lineno">  522</span>    FILE* input;</div>
-<div class="line"><span class="lineno">  523</span>    input = fopen(tempname, <span class="stringliteral">&quot;r+b&quot;</span>);</div>
-<div class="line"><span class="lineno">  524</span> </div>
-<div class="line"><span class="lineno">  525</span>    <span class="keywordflow">if</span> (!input)</div>
-<div class="line"><span class="lineno">  526</span>    {</div>
-<div class="line"><span class="lineno">  527</span>        printf(<span class="stringliteral">&quot;WMOInstance::WMOInstance: couldn&#39;t open %s\n&quot;</span>, tempname);</div>
-<div class="line"><span class="lineno">  528</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  529</span>    }</div>
-<div class="line"><span class="lineno">  530</span> </div>
-<div class="line"><span class="lineno">  531</span>    fseek(input, 8, SEEK_SET); <span class="comment">// get the correct no of vertices</span></div>
-<div class="line"><span class="lineno">  532</span>    <span class="keywordtype">int</span> nVertices;</div>
-<div class="line"><span class="lineno">  533</span>    <span class="keywordtype">int</span> count = fread(&amp;nVertices, <span class="keyword">sizeof</span> (<span class="keywordtype">int</span>), 1, input);</div>
-<div class="line"><span class="lineno">  534</span>    fclose(input);</div>
-<div class="line"><span class="lineno">  535</span> </div>
-<div class="line"><span class="lineno">  536</span>    <span class="keywordflow">if</span> (count != 1 || nVertices == 0)</div>
-<div class="line"><span class="lineno">  537</span>        <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  538</span> </div>
-<div class="line"><span class="lineno">  539</span>    <a class="code hl_class" href="../../da/de1/a29028.html">Vec3D</a> position = mapObjDef.Position;</div>
-<div class="line"><span class="lineno">  540</span> </div>
-<div class="line"><span class="lineno">  541</span>    <span class="keywordtype">float</span> x, z;</div>
-<div class="line"><span class="lineno">  542</span>    x = position.<a class="code hl_variable" href="../../da/de1/a29028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a>;</div>
-<div class="line"><span class="lineno">  543</span>    z = position.<a class="code hl_variable" href="../../da/de1/a29028.html#a5a619f14529e714231bff4cc6fd36614">z</a>;</div>
-<div class="line"><span class="lineno">  544</span>    <span class="keywordflow">if</span> (x == 0 &amp;&amp; z == 0)</div>
-<div class="line"><span class="lineno">  545</span>    {</div>
-<div class="line"><span class="lineno">  546</span>        position.<a class="code hl_variable" href="../../da/de1/a29028.html#a0f061b9d5ea2a680f64bed8b5be9116d">x</a> = 533.33333f * 32;</div>
-<div class="line"><span class="lineno">  547</span>        position.<a class="code hl_variable" href="../../da/de1/a29028.html#a5a619f14529e714231bff4cc6fd36614">z</a> = 533.33333f * 32;</div>
-<div class="line"><span class="lineno">  548</span>    }</div>
-<div class="line"><span class="lineno">  549</span>    position = <a class="code hl_function" href="../../d0/dd6/a04238.html#ab265837fe64577975f97318431c69e9c">fixCoords</a>(position);</div>
-<div class="line"><span class="lineno">  550</span>    <a class="code hl_class" href="../../d3/d62/a29032.html">AaBox3D</a> bounds;</div>
-<div class="line"><span class="lineno">  551</span>    bounds.<a class="code hl_variable" href="../../d3/d62/a29032.html#a7277258d8bdc471a007814fadf91780a">min</a> = <a class="code hl_function" href="../../d0/dd6/a04238.html#ab265837fe64577975f97318431c69e9c">fixCoords</a>(mapObjDef.Bounds.min);</div>
-<div class="line"><span class="lineno">  552</span>    bounds.<a class="code hl_variable" href="../../d3/d62/a29032.html#a3d87d5fa5e887282fa76a4a4b77eb097">max</a> = <a class="code hl_function" href="../../d0/dd6/a04238.html#ab265837fe64577975f97318431c69e9c">fixCoords</a>(mapObjDef.Bounds.max);</div>
-<div class="line"><span class="lineno">  553</span> </div>
-<div class="line"><span class="lineno">  554</span>    <span class="keywordtype">float</span> scale = 1.0f;</div>
-<div class="line"><span class="lineno">  555</span>    <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> uniqueId = <a class="code hl_function" href="../../d1/dcc/a04250.html#a6a3d179f34597554b17a122f27cd6be5">GenerateUniqueObjectId</a>(mapObjDef.UniqueId, 0);</div>
-<div class="line"><span class="lineno">  556</span>    <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> flags = <a class="code hl_enumvalue" href="../../d4/d4b/a04232.html#a829dc978e29d88ada1059ea4ca6c4cd3ae86efc863566bd1ba59ca8ad8cb72851">MOD_HAS_BOUND</a>;</div>
-<div class="line"><span class="lineno">  557</span>    <span class="keywordflow">if</span> (tileX == 65 &amp;&amp; tileY == 65) flags |= <a class="code hl_enumvalue" href="../../d4/d4b/a04232.html#a829dc978e29d88ada1059ea4ca6c4cd3aa5609345ab3d1b82637666503b9bb0b4">MOD_WORLDSPAWN</a>;</div>
-<div class="line"><span class="lineno">  558</span>    <span class="comment">//write mapID, tileX, tileY, Flags, NameSet, UniqueId, Pos, Rot, Scale, Bound_lo, Bound_hi, name</span></div>
-<div class="line"><span class="lineno">  559</span>    fwrite(&amp;mapID, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  560</span>    fwrite(&amp;tileX, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  561</span>    fwrite(&amp;tileY, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  562</span>    fwrite(&amp;flags, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  563</span>    fwrite(&amp;mapObjDef.NameSet, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  564</span>    fwrite(&amp;uniqueId, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  565</span>    fwrite(&amp;position, <span class="keyword">sizeof</span>(<a class="code hl_class" href="../../da/de1/a29028.html">Vec3D</a>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  566</span>    fwrite(&amp;mapObjDef.Rotation, <span class="keyword">sizeof</span>(<a class="code hl_class" href="../../da/de1/a29028.html">Vec3D</a>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  567</span>    fwrite(&amp;scale, <span class="keyword">sizeof</span>(<span class="keywordtype">float</span>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  568</span>    fwrite(&amp;bounds, <span class="keyword">sizeof</span>(<a class="code hl_class" href="../../d3/d62/a29032.html">AaBox3D</a>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  569</span>    <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> nlen = strlen(WmoInstName);</div>
-<div class="line"><span class="lineno">  570</span>    fwrite(&amp;nlen, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, pDirfile);</div>
-<div class="line"><span class="lineno">  571</span>    fwrite(WmoInstName, <span class="keyword">sizeof</span>(<span class="keywordtype">char</span>), nlen, pDirfile);</div>
-<div class="line"><span class="lineno">  572</span>}</div>
-<div class="ttc" id="aa04232_html_a829dc978e29d88ada1059ea4ca6c4cd3aa5609345ab3d1b82637666503b9bb0b4"><div class="ttname"><a href="../../d4/d4b/a04232.html#a829dc978e29d88ada1059ea4ca6c4cd3aa5609345ab3d1b82637666503b9bb0b4">MOD_WORLDSPAWN</a></div><div class="ttdeci">@ MOD_WORLDSPAWN</div><div class="ttdef"><b>Definition:</b> vmapexport.h:34</div></div>
-<div class="ttc" id="aa04232_html_a829dc978e29d88ada1059ea4ca6c4cd3ae86efc863566bd1ba59ca8ad8cb72851"><div class="ttname"><a href="../../d4/d4b/a04232.html#a829dc978e29d88ada1059ea4ca6c4cd3ae86efc863566bd1ba59ca8ad8cb72851">MOD_HAS_BOUND</a></div><div class="ttdeci">@ MOD_HAS_BOUND</div><div class="ttdef"><b>Definition:</b> vmapexport.h:35</div></div>
-<div class="ttc" id="aa04238_html_ab265837fe64577975f97318431c69e9c"><div class="ttname"><a href="../../d0/dd6/a04238.html#ab265837fe64577975f97318431c69e9c">fixCoords</a></div><div class="ttdeci">static Vec3D fixCoords(const Vec3D &amp;v)</div><div class="ttdef"><b>Definition:</b> wmo.h:68</div></div>
-<div class="ttc" id="aa04250_html_a6a3d179f34597554b17a122f27cd6be5"><div class="ttname"><a href="../../d1/dcc/a04250.html#a6a3d179f34597554b17a122f27cd6be5">GenerateUniqueObjectId</a></div><div class="ttdeci">uint32 GenerateUniqueObjectId(uint32 clientId, uint16 clientDoodadId)</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:72</div></div>
-<div class="ttc" id="aa04250_html_ae79cb6c3493a63f0e1058be3bd5ba328"><div class="ttname"><a href="../../d1/dcc/a04250.html#ae79cb6c3493a63f0e1058be3bd5ba328">szWorkDirWmo</a></div><div class="ttdeci">char const  * szWorkDirWmo</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:68</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
+<div class="line"><span class="lineno">   26</span>    <span class="keywordflow">if</span> (!<a class="code hl_function" href="../../d0/d67/a11430.html#a8dfd3856cb381953bfeb1db1a4a4bad7">SpellMgr::IsSpellValid</a>(spell))</div>
+<div class="line"><span class="lineno">   27</span>    {</div>
+<div class="line"><span class="lineno">   28</span>        handler-&gt;<a class="code hl_function" href="../../d4/de0/a07562.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aaef51c94173b2a9aca75898d46518b665">LANG_COMMAND_SPELL_BROKEN</a>, spell-&gt;Id);</div>
+<div class="line"><span class="lineno">   29</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   30</span>    }</div>
+<div class="line"><span class="lineno">   31</span> </div>
+<div class="line"><span class="lineno">   32</span>    <span class="keywordflow">if</span> (!allRanks &amp;&amp; targetPlayer-&gt;<a class="code hl_function" href="../../de/d6b/a08670.html#ad0b702ec9df9626312843eb9a44742df">HasSpell</a>(spell-&gt;Id))</div>
+<div class="line"><span class="lineno">   33</span>    {</div>
+<div class="line"><span class="lineno">   34</span>        <span class="keywordflow">if</span> (targetPlayer == handler-&gt;<a class="code hl_function" href="../../d4/de0/a07562.html#ab1fd0ff3281702b870de2aac859e9ace">GetPlayer</a>())</div>
+<div class="line"><span class="lineno">   35</span>        {</div>
+<div class="line"><span class="lineno">   36</span>            handler-&gt;<a class="code hl_function" href="../../d4/de0/a07562.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aa07b52d281d0150b557c88c47cf9ce65f">LANG_YOU_KNOWN_SPELL</a>);</div>
+<div class="line"><span class="lineno">   37</span>        }</div>
+<div class="line"><span class="lineno">   38</span>        <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   39</span>        {</div>
+<div class="line"><span class="lineno">   40</span>            handler-&gt;<a class="code hl_function" href="../../d4/de0/a07562.html#a92dbe6ed87759b9ed247973178d99a80">SendErrorMessage</a>(<a class="code hl_enumvalue" href="../../d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aafb80569b0ed74068a5713e12a66ebdcb">LANG_TARGET_KNOWN_SPELL</a>, handler-&gt;<a class="code hl_function" href="../../d4/de0/a07562.html#a0e2b0a9da9e25f17c2f995505eeea940">GetNameLink</a>(targetPlayer).c_str());</div>
+<div class="line"><span class="lineno">   41</span>        }</div>
+<div class="line"><span class="lineno">   42</span> </div>
+<div class="line"><span class="lineno">   43</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   44</span>    }</div>
+<div class="line"><span class="lineno">   45</span> </div>
+<div class="line"><span class="lineno">   46</span>    targetPlayer-&gt;<a class="code hl_function" href="../../de/d6b/a08670.html#a19ea15940b7b8e6ed7480b3dc3702bee">learnSpell</a>(spell-&gt;Id, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">   47</span> </div>
+<div class="line"><span class="lineno">   48</span>    <span class="keywordflow">if</span> (allRanks)</div>
+<div class="line"><span class="lineno">   49</span>    {</div>
+<div class="line"><span class="lineno">   50</span>        <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId = spell-&gt;Id;</div>
+<div class="line"><span class="lineno">   51</span> </div>
+<div class="line"><span class="lineno">   52</span>        <span class="keywordflow">while</span> ((spellId = <a class="code hl_define" href="../../d1/d44/a00098.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetNextSpellInChain(spellId)))</div>
+<div class="line"><span class="lineno">   53</span>        {</div>
+<div class="line"><span class="lineno">   54</span>            targetPlayer-&gt;<a class="code hl_function" href="../../de/d6b/a08670.html#a19ea15940b7b8e6ed7480b3dc3702bee">learnSpell</a>(spellId, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">   55</span>        }</div>
+<div class="line"><span class="lineno">   56</span>    }</div>
+<div class="line"><span class="lineno">   57</span> </div>
+<div class="line"><span class="lineno">   58</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dc/dbf/a01595.html#a67c1970c378a0fdf0489c1d376d7c388">GetTalentSpellCost</a>(spell-&gt;GetFirstRankSpell()-&gt;Id))</div>
+<div class="line"><span class="lineno">   59</span>    {</div>
+<div class="line"><span class="lineno">   60</span>        targetPlayer-&gt;<a class="code hl_function" href="../../de/d6b/a08670.html#a134bcbd463d0048b59372a89f6c455af">SendTalentsInfoData</a>(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">   61</span>    }</div>
+<div class="line"><span class="lineno">   62</span> </div>
+<div class="line"><span class="lineno">   63</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   64</span>}</div>
+<div class="ttc" id="aa00098_html_aa21e14d8e1145507b746a69b5487109d"><div class="ttname"><a href="../../d1/d44/a00098.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a></div><div class="ttdeci">#define sSpellMgr</div><div class="ttdef"><b>Definition:</b> SpellMgr.h:825</div></div>
+<div class="ttc" id="aa00155_html_af9ee42b1cf006ecb2d2e74fe71c0761aa07b52d281d0150b557c88c47cf9ce65f"><div class="ttname"><a href="../../d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aa07b52d281d0150b557c88c47cf9ce65f">LANG_YOU_KNOWN_SPELL</a></div><div class="ttdeci">@ LANG_YOU_KNOWN_SPELL</div><div class="ttdef"><b>Definition:</b> Language.h:533</div></div>
+<div class="ttc" id="aa00155_html_af9ee42b1cf006ecb2d2e74fe71c0761aaef51c94173b2a9aca75898d46518b665"><div class="ttname"><a href="../../d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aaef51c94173b2a9aca75898d46518b665">LANG_COMMAND_SPELL_BROKEN</a></div><div class="ttdeci">@ LANG_COMMAND_SPELL_BROKEN</div><div class="ttdef"><b>Definition:</b> Language.h:526</div></div>
+<div class="ttc" id="aa00155_html_af9ee42b1cf006ecb2d2e74fe71c0761aafb80569b0ed74068a5713e12a66ebdcb"><div class="ttname"><a href="../../d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aafb80569b0ed74068a5713e12a66ebdcb">LANG_TARGET_KNOWN_SPELL</a></div><div class="ttdeci">@ LANG_TARGET_KNOWN_SPELL</div><div class="ttdef"><b>Definition:</b> Language.h:534</div></div>
+<div class="ttc" id="aa01595_html_a67c1970c378a0fdf0489c1d376d7c388"><div class="ttname"><a href="../../dc/dbf/a01595.html#a67c1970c378a0fdf0489c1d376d7c388">GetTalentSpellCost</a></div><div class="ttdeci">uint32 GetTalentSpellCost(uint32 spellId)</div><div class="ttdef"><b>Definition:</b> DBCStores.cpp:686</div></div>
 <div class="ttc" id="aa04310_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa04310_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
-<div class="ttc" id="aa29028_html"><div class="ttname"><a href="../../da/de1/a29028.html">Vec3D</a></div><div class="ttdef"><b>Definition:</b> vec3d.h:25</div></div>
-<div class="ttc" id="aa29028_html_a0f061b9d5ea2a680f64bed8b5be9116d"><div class="ttname"><a href="../../da/de1/a29028.html#a0f061b9d5ea2a680f64bed8b5be9116d">Vec3D::x</a></div><div class="ttdeci">float x</div><div class="ttdef"><b>Definition:</b> vec3d.h:27</div></div>
-<div class="ttc" id="aa29028_html_a5a619f14529e714231bff4cc6fd36614"><div class="ttname"><a href="../../da/de1/a29028.html#a5a619f14529e714231bff4cc6fd36614">Vec3D::z</a></div><div class="ttdeci">float z</div><div class="ttdef"><b>Definition:</b> vec3d.h:27</div></div>
-<div class="ttc" id="aa29032_html"><div class="ttname"><a href="../../d3/d62/a29032.html">AaBox3D</a></div><div class="ttdef"><b>Definition:</b> vec3d.h:141</div></div>
-<div class="ttc" id="aa29032_html_a3d87d5fa5e887282fa76a4a4b77eb097"><div class="ttname"><a href="../../d3/d62/a29032.html#a3d87d5fa5e887282fa76a4a4b77eb097">AaBox3D::max</a></div><div class="ttdeci">Vec3D max</div><div class="ttdef"><b>Definition:</b> vec3d.h:144</div></div>
-<div class="ttc" id="aa29032_html_a7277258d8bdc471a007814fadf91780a"><div class="ttname"><a href="../../d3/d62/a29032.html#a7277258d8bdc471a007814fadf91780a">AaBox3D::min</a></div><div class="ttdeci">Vec3D min</div><div class="ttdef"><b>Definition:</b> vec3d.h:143</div></div>
+<div class="ttc" id="aa07562_html_a0e2b0a9da9e25f17c2f995505eeea940"><div class="ttname"><a href="../../d4/de0/a07562.html#a0e2b0a9da9e25f17c2f995505eeea940">ChatHandler::GetNameLink</a></div><div class="ttdeci">virtual std::string GetNameLink() const</div><div class="ttdef"><b>Definition:</b> Chat.h:198</div></div>
+<div class="ttc" id="aa07562_html_a92dbe6ed87759b9ed247973178d99a80"><div class="ttname"><a href="../../d4/de0/a07562.html#a92dbe6ed87759b9ed247973178d99a80">ChatHandler::SendErrorMessage</a></div><div class="ttdeci">void SendErrorMessage(uint32 entry)</div><div class="ttdef"><b>Definition:</b> Chat.cpp:216</div></div>
+<div class="ttc" id="aa07562_html_ab1fd0ff3281702b870de2aac859e9ace"><div class="ttname"><a href="../../d4/de0/a07562.html#ab1fd0ff3281702b870de2aac859e9ace">ChatHandler::GetPlayer</a></div><div class="ttdeci">Player * GetPlayer() const</div><div class="ttdef"><b>Definition:</b> Chat.cpp:36</div></div>
+<div class="ttc" id="aa08670_html_a134bcbd463d0048b59372a89f6c455af"><div class="ttname"><a href="../../de/d6b/a08670.html#a134bcbd463d0048b59372a89f6c455af">Player::SendTalentsInfoData</a></div><div class="ttdeci">void SendTalentsInfoData(bool pet)</div><div class="ttdef"><b>Definition:</b> Player.cpp:14531</div></div>
+<div class="ttc" id="aa08670_html_a19ea15940b7b8e6ed7480b3dc3702bee"><div class="ttname"><a href="../../de/d6b/a08670.html#a19ea15940b7b8e6ed7480b3dc3702bee">Player::learnSpell</a></div><div class="ttdeci">void learnSpell(uint32 spellId, bool temporary=false, bool learnFromSkill=false)</div><div class="ttdef"><b>Definition:</b> Player.cpp:3298</div></div>
+<div class="ttc" id="aa08670_html_ad0b702ec9df9626312843eb9a44742df"><div class="ttname"><a href="../../de/d6b/a08670.html#ad0b702ec9df9626312843eb9a44742df">Player::HasSpell</a></div><div class="ttdeci">bool HasSpell(uint32 spell) const override</div><div class="ttdef"><b>Definition:</b> Player.cpp:3886</div></div>
+<div class="ttc" id="aa11430_html_a8dfd3856cb381953bfeb1db1a4a4bad7"><div class="ttname"><a href="../../d0/d67/a11430.html#a8dfd3856cb381953bfeb1db1a4a4bad7">SpellMgr::IsSpellValid</a></div><div class="ttdeci">static bool IsSpellValid(SpellInfo const *spellInfo)</div><div class="ttdef"><b>Definition:</b> SpellMgr.cpp:438</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00044">ADT::MODF::Bounds</a>, <a class="el" href="../../#l00068">fixCoords()</a>, <a class="el" href="../../#l00045">ADT::MODF::Flags</a>, <a class="el" href="../../#l00072">GenerateUniqueObjectId()</a>, <a class="el" href="../../#l00144">AaBox3D::max</a>, <a class="el" href="../../#l00143">AaBox3D::min</a>, <a class="el" href="../../#l00035">MOD_HAS_BOUND</a>, <a class="el" href="../../#l00034">MOD_WORLDSPAWN</a>, <a class="el" href="../../#l00047">ADT::MODF::NameSet</a>, <a class="el" href="../../#l00042">ADT::MODF::Position</a>, <a class="el" href="../../#l00043">ADT::MODF::Rotation</a>, <a class="el" href="../../#l00068">szWorkDirWmo</a>, <a class="el" href="../../#l00041">ADT::MODF::UniqueId</a>, <a class="el" href="../../#l00027">Vec3D::x</a>, and <a class="el" href="../../#l00027">Vec3D::z</a>.</p>
+<p class="reference">References <a class="el" href="../../#l02397">SpellInfo::GetFirstRankSpell()</a>, <a class="el" href="../../#l00198">ChatHandler::GetNameLink()</a>, <a class="el" href="../../#l00036">ChatHandler::GetPlayer()</a>, <a class="el" href="../../#l00686">GetTalentSpellCost()</a>, <a class="el" href="../../#l03886">Player::HasSpell()</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l00438">SpellMgr::IsSpellValid()</a>, <a class="el" href="../../#l00526">LANG_COMMAND_SPELL_BROKEN</a>, <a class="el" href="../../#l00534">LANG_TARGET_KNOWN_SPELL</a>, <a class="el" href="../../#l00533">LANG_YOU_KNOWN_SPELL</a>, <a class="el" href="../../#l03298">Player::learnSpell()</a>, <a class="el" href="../../#l00216">ChatHandler::SendErrorMessage()</a>, <a class="el" href="../../#l14531">Player::SendTalentsInfoData()</a>, and <a class="el" href="../../#l00825">sSpellMgr</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00084">ADTFile::init()</a>, and <a class="el" href="../../#l00038">WDTFile::init()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00068">learn_commandscript::HandleLearnCommand()</a>, and <a class="el" href="../../#l00043">player_commandscript::HandlePlayerLearnCommand()</a>.</p>
+
+</div>
+</div>
+<a id="ad36f90f90b3d9aaf782f7efc859f7e7a" name="ad36f90f90b3d9aaf782f7efc859f7e7a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad36f90f90b3d9aaf782f7efc859f7e7a">&#9670;&#160;</a></span>HandleUnlearnSpellCommand()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool Acore::PlayerCommand::HandleUnlearnSpellCommand </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d4/de0/a07562.html">ChatHandler</a> *&#160;</td>
+          <td class="paramname"><em>handler</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/d6b/a08670.html">Player</a> *&#160;</td>
+          <td class="paramname"><em>targetPlayer</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../de/dfc/a11374.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname"><em>spell</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/dd5/a04724.html#aaf8f4d77efd311ec7818ab421294ef82">Optional</a>&lt; <a class="el" href="../../d6/dea/a01094.html#ac61bb0d0d29d3ccc94188eb93516adf5">EXACT_SEQUENCE</a>(&quot;all&quot;)&gt;&#160;</td>
+          <td class="paramname"><em>allRanks</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   67</span>{</div>
+<div class="line"><span class="lineno">   68</span>    <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> spellId = spell-&gt;Id;</div>
+<div class="line"><span class="lineno">   69</span> </div>
+<div class="line"><span class="lineno">   70</span>    <span class="keywordflow">if</span> (allRanks)</div>
+<div class="line"><span class="lineno">   71</span>    {</div>
+<div class="line"><span class="lineno">   72</span>        spellId = <a class="code hl_define" href="../../d1/d44/a00098.html#aa21e14d8e1145507b746a69b5487109d">sSpellMgr</a>-&gt;GetFirstSpellInChain(spellId);</div>
+<div class="line"><span class="lineno">   73</span>    }</div>
+<div class="line"><span class="lineno">   74</span> </div>
+<div class="line"><span class="lineno">   75</span>    <span class="keywordflow">if</span> (target-&gt;HasSpell(spellId))</div>
+<div class="line"><span class="lineno">   76</span>    {</div>
+<div class="line"><span class="lineno">   77</span>        target-&gt;removeSpell(spellId, <a class="code hl_define" href="../../db/d40/a00959.html#a6a6dfeb0ddba76f8c51abbe98ea08609">SPEC_MASK_ALL</a>, <span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">   78</span>    }</div>
+<div class="line"><span class="lineno">   79</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">   80</span>    {</div>
+<div class="line"><span class="lineno">   81</span>        handler-&gt;<a class="code hl_function" href="../../d4/de0/a07562.html#ac1ed346507097817b3f8e00f0ae657a0">SendSysMessage</a>(<a class="code hl_enumvalue" href="../../d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aa16efd11f1d4a0c67b42e214df1cd14f2">LANG_FORGET_SPELL</a>);</div>
+<div class="line"><span class="lineno">   82</span>    }</div>
+<div class="line"><span class="lineno">   83</span> </div>
+<div class="line"><span class="lineno">   84</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../dc/dbf/a01595.html#a67c1970c378a0fdf0489c1d376d7c388">GetTalentSpellCost</a>(spellId))</div>
+<div class="line"><span class="lineno">   85</span>    {</div>
+<div class="line"><span class="lineno">   86</span>        target-&gt;SendTalentsInfoData(<span class="keyword">false</span>);</div>
+<div class="line"><span class="lineno">   87</span>    }</div>
+<div class="line"><span class="lineno">   88</span> </div>
+<div class="line"><span class="lineno">   89</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   90</span>}</div>
+<div class="ttc" id="aa00155_html_af9ee42b1cf006ecb2d2e74fe71c0761aa16efd11f1d4a0c67b42e214df1cd14f2"><div class="ttname"><a href="../../d3/df8/a00155.html#af9ee42b1cf006ecb2d2e74fe71c0761aa16efd11f1d4a0c67b42e214df1cd14f2">LANG_FORGET_SPELL</a></div><div class="ttdeci">@ LANG_FORGET_SPELL</div><div class="ttdef"><b>Definition:</b> Language.h:536</div></div>
+<div class="ttc" id="aa00959_html_a6a6dfeb0ddba76f8c51abbe98ea08609"><div class="ttname"><a href="../../db/d40/a00959.html#a6a6dfeb0ddba76f8c51abbe98ea08609">SPEC_MASK_ALL</a></div><div class="ttdeci">#define SPEC_MASK_ALL</div><div class="ttdef"><b>Definition:</b> Player.h:178</div></div>
+<div class="ttc" id="aa07562_html_ac1ed346507097817b3f8e00f0ae657a0"><div class="ttname"><a href="../../d4/de0/a07562.html#ac1ed346507097817b3f8e00f0ae657a0">ChatHandler::SendSysMessage</a></div><div class="ttdeci">virtual void SendSysMessage(std::string_view str, bool escapeCharacters=false)</div><div class="ttdef"><b>Definition:</b> Chat.cpp:160</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00686">GetTalentSpellCost()</a>, <a class="el" href="../../#l03886">Player::HasSpell()</a>, <a class="el" href="../../#l00320">SpellInfo::Id</a>, <a class="el" href="../../#l00536">LANG_FORGET_SPELL</a>, <a class="el" href="../../#l03339">Player::removeSpell()</a>, <a class="el" href="../../#l00160">ChatHandler::SendSysMessage()</a>, <a class="el" href="../../#l14531">Player::SendTalentsInfoData()</a>, <a class="el" href="../../#l00178">SPEC_MASK_ALL</a>, and <a class="el" href="../../#l00825">sSpellMgr</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00054">player_commandscript::HandlePlayerUnLearnCommand()</a>, and <a class="el" href="../../#l00408">learn_commandscript::HandleUnLearnCommand()</a>.</p>
 
 </div>
 </div>
@@ -251,8 +291,8 @@ Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d8/d02/a04889.html">MapObject</a></li>
-    <li class="footer">Generated on Mon Nov 24 2025 20:47:03 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d0/d6d/a04809.html">Acore</a></li><li class="navelem"><a class="el" href="../../d8/d02/a04889.html">PlayerCommand</a></li>
+    <li class="footer">Generated on Mon Dec 1 2025 20:48:24 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

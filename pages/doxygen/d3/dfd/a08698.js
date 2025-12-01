@@ -1,20 +1,14 @@
 var a08698 =
 [
-    [ "StaticTransport", "d3/dfd/a08698.html#a85d28733791b54ab76af97338c83d293", null ],
-    [ "~StaticTransport", "d3/dfd/a08698.html#ade4493306f4ae366de36318ecb135c18", null ],
-    [ "AddPassenger", "d3/dfd/a08698.html#a2139a5fe8d531e332d6e12678fb3167b", null ],
-    [ "BuildUpdate", "d3/dfd/a08698.html#a79bfe2856ccc526b03b308158db9e8fc", null ],
-    [ "CleanupsBeforeDelete", "d3/dfd/a08698.html#aec75e819a3de528d282e0a1b72c3d460", null ],
-    [ "Create", "d3/dfd/a08698.html#a5e9c6c3a75d54314783c3b5bab48c66f", null ],
-    [ "GetPauseTime", "d3/dfd/a08698.html#a6be1d21626f3749b695413d9a6703823", null ],
-    [ "GetPeriod", "d3/dfd/a08698.html#aedf0413dbd588acf5c8646390f003060", null ],
-    [ "LoadFromDB", "d3/dfd/a08698.html#a6d0f5b6c6d445132cb37082d12320afd", null ],
-    [ "LoadGameObjectFromDB", "d3/dfd/a08698.html#a50b6b6bca35e44e246bde1c1b02b3d69", null ],
-    [ "RelocateToProgress", "d3/dfd/a08698.html#acf98efbbabb71e4e9f7cf0a152b33e2b", null ],
-    [ "RemovePassenger", "d3/dfd/a08698.html#ad4362ce7937c48ce0e5eb68ae97f789f", null ],
-    [ "SetPauseTime", "d3/dfd/a08698.html#aaa57cb09072c6a7f22af38055f83b3b1", null ],
-    [ "Update", "d3/dfd/a08698.html#aa904c077782b7760e0247c941c4e9d01", null ],
-    [ "UpdatePassengerPositions", "d3/dfd/a08698.html#a79c30c2463d714d8980dcfa73351b493", null ],
-    [ "UpdatePosition", "d3/dfd/a08698.html#a9b2661d0b90270aa97fe550b8ae27c95", null ],
-    [ "_needDoInitialRelocation", "d3/dfd/a08698.html#a54f37a0c74b4cc2afbebaf53ebcf2e2b", null ]
+    [ "SocialMap", "d3/dfd/a08698.html#a2b80fa18a6f1ed54fda7719867f45ebd", null ],
+    [ "SocialMgr", "d3/dfd/a08698.html#a3cff8262ce10d2e8c8c38dc834230545", null ],
+    [ "~SocialMgr", "d3/dfd/a08698.html#aef859e6c923a6ba4bb7ac0049f17463d", null ],
+    [ "BroadcastToFriendListers", "d3/dfd/a08698.html#a55b35ea17ebfea4ff31710186b87865f", null ],
+    [ "GetFriendInfo", "d3/dfd/a08698.html#a7d0c4638b6fde1bf614d90492160ee55", null ],
+    [ "instance", "d3/dfd/a08698.html#a223f3d7811d8c360da7f467b70af808f", null ],
+    [ "LoadFromDB", "d3/dfd/a08698.html#aab17f5c27494cfdf2b1c5d5038f446a0", null ],
+    [ "MakeFriendStatusPacket", "d3/dfd/a08698.html#af30fe2f3223dc7ad9094e44393420d3a", null ],
+    [ "RemovePlayerSocial", "d3/dfd/a08698.html#af537c83cc3d481dde68d0a60aa122289", null ],
+    [ "SendFriendStatus", "d3/dfd/a08698.html#acf245ca689bd5c0efe4a791b9e0e3c5f", null ],
+    [ "m_socialMap", "d3/dfd/a08698.html#a2f8a276598ad01d350aa245fcef82a7a", null ]
 ];

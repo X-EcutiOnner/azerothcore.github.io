@@ -1,5 +1,7 @@
 var a09770 =
 [
-    [ "item_guid", "d3/df7/a09770.html#a4033ef7b03b28881e28434ae796fb6ed", null ],
-    [ "item_template", "d3/df7/a09770.html#ac7e05ac4dcc5d4f94b3291d819c7c86b", null ]
+    [ "LootView", "d3/df7/a09770.html#a4cfc8ca1034e941a85d2955f38b2e894", null ],
+    [ "loot", "d3/df7/a09770.html#ac95fa4805c79923b292e8984b00de929", null ],
+    [ "permission", "d3/df7/a09770.html#a33d7eeebd6fbc854300275a4138d9030", null ],
+    [ "viewer", "d3/df7/a09770.html#af9a6926c6c871dee245f876038e49995", null ]
 ];

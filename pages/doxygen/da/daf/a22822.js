@@ -1,6 +1,6 @@
 var a22822 =
 [
-    [ "instance_auchenai_crypts_InstanceMapScript", "df/d44/a22826.html", "df/d44/a22826" ],
-    [ "instance_auchenai_crypts", "da/daf/a22822.html#a8b16924167c54a9d8120bac67bc10fed", null ],
-    [ "GetInstanceScript", "da/daf/a22822.html#a99e47df95fde07d4a6e7687634805b93", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "df/d44/a22826.html", "df/d44/a22826" ],
+    [ "instance_sethekk_halls", "da/daf/a22822.html#ab50d296266cf377bfb34750ec36963ef", null ],
+    [ "GetInstanceScript", "da/daf/a22822.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
 ];

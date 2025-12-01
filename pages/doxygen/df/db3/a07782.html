@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Hyperlinks::AchievementLinkData Struct Reference</title>
+<title>AzerothCore: LinkValidator&lt; LinkTags::spell &gt; Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,142 +105,106 @@ $(document).ready(function(){initNavTree('df/db3/a07782.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="../../db/dba/a07779.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Hyperlinks::AchievementLinkData Struct Reference</div></div>
+  <div class="headertitle"><div class="title">LinkValidator&lt; LinkTags::spell &gt; Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">Hyperlinks.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a03caf33cfc9f75dfdbba2dedc747e0ce"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d6/d14/a28014.html">AchievementEntry</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/db3/a07782.html#a03caf33cfc9f75dfdbba2dedc747e0ce">Achievement</a></td></tr>
-<tr class="separator:a03caf33cfc9f75dfdbba2dedc747e0ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0ec541a4e11d9e19f7cced7e839b1ebb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../df/dc7/a08450.html">ObjectGuid</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/db3/a07782.html#a0ec541a4e11d9e19f7cced7e839b1ebb">CharacterId</a></td></tr>
-<tr class="separator:a0ec541a4e11d9e19f7cced7e839b1ebb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1aff3d0a28a12f0e4ee10bca376f335c"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/db3/a07782.html#a1aff3d0a28a12f0e4ee10bca376f335c">IsFinished</a></td></tr>
-<tr class="separator:a1aff3d0a28a12f0e4ee10bca376f335c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a85612eac22d3233e620eb11e6e1b48b0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/db3/a07782.html#a85612eac22d3233e620eb11e6e1b48b0">Year</a></td></tr>
-<tr class="separator:a85612eac22d3233e620eb11e6e1b48b0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9be9cfb6a40c527e8f6b6ad381ed5b42"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/db3/a07782.html#a9be9cfb6a40c527e8f6b6ad381ed5b42">Month</a></td></tr>
-<tr class="separator:a9be9cfb6a40c527e8f6b6ad381ed5b42"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a216aaf4eed90eeb05662631e8f89b4ab"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/db3/a07782.html#a216aaf4eed90eeb05662631e8f89b4ab">Day</a></td></tr>
-<tr class="separator:a216aaf4eed90eeb05662631e8f89b4ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4eae1ba9b211d8c8307000ddae428348"><td class="memItemLeft" align="right" valign="top">std::array&lt; <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, 4 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/db3/a07782.html#a4eae1ba9b211d8c8307000ddae428348">Criteria</a></td></tr>
-<tr class="separator:a4eae1ba9b211d8c8307000ddae428348"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a54af0b68fa7891adbc3001c74e251ea1"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/db3/a07782.html#a54af0b68fa7891adbc3001c74e251ea1">IsTextValid</a> (<a class="el" href="../../de/dfc/a11374.html">SpellInfo</a> const *info, std::string_view text)</td></tr>
+<tr class="separator:a54af0b68fa7891adbc3001c74e251ea1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a816b3afba97af88a04cd5a724e9b663c"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/db3/a07782.html#a816b3afba97af88a04cd5a724e9b663c">IsColorValid</a> (<a class="el" href="../../de/dfc/a11374.html">SpellInfo</a> const *, <a class="el" href="../../d4/dad/a07862.html">HyperlinkColor</a> c)</td></tr>
+<tr class="separator:a816b3afba97af88a04cd5a724e9b663c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a03caf33cfc9f75dfdbba2dedc747e0ce" name="a03caf33cfc9f75dfdbba2dedc747e0ce"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a03caf33cfc9f75dfdbba2dedc747e0ce">&#9670;&#160;</a></span>Achievement</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a816b3afba97af88a04cd5a724e9b663c" name="a816b3afba97af88a04cd5a724e9b663c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a816b3afba97af88a04cd5a724e9b663c">&#9670;&#160;</a></span>IsColorValid()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d6/d14/a28014.html">AchievementEntry</a> const* Acore::Hyperlinks::AchievementLinkData::Achievement</td>
+          <td class="memname">static bool <a class="el" href="../../dd/d73/a07766.html">LinkValidator</a>&lt; <a class="el" href="../../d8/d6c/a07850.html">LinkTags::spell</a> &gt;::IsColorValid </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/dfc/a11374.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/dad/a07862.html">HyperlinkColor</a>&#160;</td>
+          <td class="paramname"><em>c</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00114">LinkValidator&lt; LinkTags::achievement &gt;::IsTextValid()</a>, and <a class="el" href="../../#l00060">Acore::Hyperlinks::LinkTags::achievement::StoreTo()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  230</span>    {</div>
+<div class="line"><span class="lineno">  231</span>        <span class="keywordflow">return</span> c == <a class="code hl_enumvalue" href="../../d1/da3/a04100.html#aff4462a11392766622feb9f20463ffb6a56dac043536cc715837469acf48edda1">CHAT_LINK_COLOR_SPELL</a>;</div>
+<div class="line"><span class="lineno">  232</span>    }</div>
+<div class="ttc" id="aa04100_html_aff4462a11392766622feb9f20463ffb6a56dac043536cc715837469acf48edda1"><div class="ttname"><a href="../../d1/da3/a04100.html#aff4462a11392766622feb9f20463ffb6a56dac043536cc715837469acf48edda1">CHAT_LINK_COLOR_SPELL</a></div><div class="ttdeci">@ CHAT_LINK_COLOR_SPELL</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3462</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l03462">CHAT_LINK_COLOR_SPELL</a>.</p>
 
 </div>
 </div>
-<a id="a0ec541a4e11d9e19f7cced7e839b1ebb" name="a0ec541a4e11d9e19f7cced7e839b1ebb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ec541a4e11d9e19f7cced7e839b1ebb">&#9670;&#160;</a></span>CharacterId</h2>
+<a id="a54af0b68fa7891adbc3001c74e251ea1" name="a54af0b68fa7891adbc3001c74e251ea1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a54af0b68fa7891adbc3001c74e251ea1">&#9670;&#160;</a></span>IsTextValid()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../df/dc7/a08450.html">ObjectGuid</a> Acore::Hyperlinks::AchievementLinkData::CharacterId</td>
+          <td class="memname">static bool <a class="el" href="../../dd/d73/a07766.html">LinkValidator</a>&lt; <a class="el" href="../../d8/d6c/a07850.html">LinkTags::spell</a> &gt;::IsTextValid </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/dfc/a11374.html">SpellInfo</a> const *&#160;</td>
+          <td class="paramname"><em>info</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00060">Acore::Hyperlinks::LinkTags::achievement::StoreTo()</a>.</p>
-
-</div>
-</div>
-<a id="a4eae1ba9b211d8c8307000ddae428348" name="a4eae1ba9b211d8c8307000ddae428348"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a4eae1ba9b211d8c8307000ddae428348">&#9670;&#160;</a></span>Criteria</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">std::array&lt;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, 4&gt; Acore::Hyperlinks::AchievementLinkData::Criteria</td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>text</em>&#160;</td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00060">Acore::Hyperlinks::LinkTags::achievement::StoreTo()</a>.</p>
-
-</div>
-</div>
-<a id="a216aaf4eed90eeb05662631e8f89b4ab" name="a216aaf4eed90eeb05662631e8f89b4ab"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a216aaf4eed90eeb05662631e8f89b4ab">&#9670;&#160;</a></span>Day</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> Acore::Hyperlinks::AchievementLinkData::Day</td>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00060">Acore::Hyperlinks::LinkTags::achievement::StoreTo()</a>.</p>
-
-</div>
-</div>
-<a id="a1aff3d0a28a12f0e4ee10bca376f335c" name="a1aff3d0a28a12f0e4ee10bca376f335c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a1aff3d0a28a12f0e4ee10bca376f335c">&#9670;&#160;</a></span>IsFinished</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">bool Acore::Hyperlinks::AchievementLinkData::IsFinished</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00060">Acore::Hyperlinks::LinkTags::achievement::StoreTo()</a>.</p>
-
-</div>
-</div>
-<a id="a9be9cfb6a40c527e8f6b6ad381ed5b42" name="a9be9cfb6a40c527e8f6b6ad381ed5b42"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a9be9cfb6a40c527e8f6b6ad381ed5b42">&#9670;&#160;</a></span>Month</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> Acore::Hyperlinks::AchievementLinkData::Month</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00060">Acore::Hyperlinks::LinkTags::achievement::StoreTo()</a>.</p>
-
-</div>
-</div>
-<a id="a85612eac22d3233e620eb11e6e1b48b0" name="a85612eac22d3233e620eb11e6e1b48b0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a85612eac22d3233e620eb11e6e1b48b0">&#9670;&#160;</a></span>Year</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> Acore::Hyperlinks::AchievementLinkData::Year</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00060">Acore::Hyperlinks::LinkTags::achievement::StoreTo()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  222</span>    {</div>
+<div class="line"><span class="lineno">  223</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> i = 0; i &lt; <a class="code hl_enumvalue" href="../../d3/d56/a04553.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a>; ++i)</div>
+<div class="line"><span class="lineno">  224</span>            <span class="keywordflow">if</span> (text == info-&gt;SpellName[i])</div>
+<div class="line"><span class="lineno">  225</span>                <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  226</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  227</span>    }</div>
+<div class="ttc" id="aa04310_html_a15a8d014fadf85c99a2268d8cbd00767"><div class="ttname"><a href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a></div><div class="ttdeci">std::uint8_t uint8</div><div class="ttdef"><b>Definition:</b> Define.h:109</div></div>
+<div class="ttc" id="aa04553_html_a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8"><div class="ttname"><a href="../../d3/d56/a04553.html#a54c9b637be7283ba1a04fb5215594332a7f84fea169b93e300da83986234a30d8">TOTAL_LOCALES</a></div><div class="ttdeci">@ TOTAL_LOCALES</div><div class="ttdef"><b>Definition:</b> Common.h:128</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00383">SpellInfo::SpellName</a>, and <a class="el" href="../../#l00128">TOTAL_LOCALES</a>.</p>
 
 </div>
 </div>
@@ -249,8 +213,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d7d/a04797.html">Acore</a></li><li class="navelem"><a class="el" href="../../d4/d10/a04839.html">Hyperlinks</a></li><li class="navelem"><a class="el" href="../../df/db3/a07782.html">AchievementLinkData</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:46:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../df/db3/a07782.html">LinkValidator&lt; LinkTags::spell &gt;</a></li>
+    <li class="footer">Generated on Mon Dec 1 2025 20:47:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

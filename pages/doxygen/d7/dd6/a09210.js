@@ -1,12 +1,12 @@
 var a09210 =
 [
-    [ "VisibleNotifier", "d7/dd6/a09210.html#ae449b96de3eff1759869438dd90f6513", null ],
-    [ "SendToSelf", "d7/dd6/a09210.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
-    [ "Visit", "d7/dd6/a09210.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
-    [ "Visit", "d7/dd6/a09210.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
-    [ "Visit", "d7/dd6/a09210.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
-    [ "i_data", "d7/dd6/a09210.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
-    [ "i_gobjOnly", "d7/dd6/a09210.html#a019182fa8a629d796982f9cc565d9bc3", null ],
-    [ "i_player", "d7/dd6/a09210.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
-    [ "i_visibleNow", "d7/dd6/a09210.html#a34d766816baaad7b1b3623360ec9abeb", null ]
+    [ "GridTerrainLoader", "d7/dd6/a09210.html#a9f5094ad19163dc8ac3f3c4bada48ee9", null ],
+    [ "ExistMap", "d7/dd6/a09210.html#a980cb9f6537642db8ae0825d14b6bb68", null ],
+    [ "ExistVMap", "d7/dd6/a09210.html#a17bdde445c48738ade280bd1cdda0619", null ],
+    [ "LoadMap", "d7/dd6/a09210.html#ac220ce61dd0c3e514dcff2465c61af0f", null ],
+    [ "LoadMMap", "d7/dd6/a09210.html#a8b3be4eb509393af8a2a927bc15947c9", null ],
+    [ "LoadTerrain", "d7/dd6/a09210.html#a097556a8a778efa22ab9d50cbda2649a", null ],
+    [ "LoadVMap", "d7/dd6/a09210.html#ac4e66140ef37fb3dc0f990cc196d106f", null ],
+    [ "_grid", "d7/dd6/a09210.html#a1ec8202457f9df4fdc3b356e30f1a15d", null ],
+    [ "_map", "d7/dd6/a09210.html#a2547ac0b9ee6ae7b760227d5051dea85", null ]
 ];

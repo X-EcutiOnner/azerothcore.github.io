@@ -1,6 +1,6 @@
 var a26174 =
 [
-    [ "OnRemove", "da/d24/a26174.html#a3803e6bbdb17e9a848376481581c993d", null ],
-    [ "PrepareAuraScript", "da/d24/a26174.html#a6f1340b824af4604e310666e89d05b7a", null ],
-    [ "Register", "da/d24/a26174.html#a3b361a478f1c035b706ac2e17499fb37", null ]
+    [ "CheckProc", "da/d24/a26174.html#aa8a8c89cf55ab6796a81671d0312a481", null ],
+    [ "PrepareAuraScript", "da/d24/a26174.html#a9c88f86a4edafda286725008ecfeab6c", null ],
+    [ "Register", "da/d24/a26174.html#ad75f33c72dff282e4a8976c92e0b4e76", null ]
 ];

@@ -1,7 +1,6 @@
 var a23090 =
 [
-    [ "CheckProc", "d8/dcc/a23090.html#a0968b7b32f2d2bef6035e030f544088a", null ],
-    [ "PrepareAuraScript", "d8/dcc/a23090.html#ac424e41948196a6e60b790ebcf40783f", null ],
-    [ "Register", "d8/dcc/a23090.html#a06bdac68e36b43ee534e937ffd974086", null ],
-    [ "Update", "d8/dcc/a23090.html#af6c228840f6af96e353ba964fdd01e54", null ]
+    [ "FilterTargets", "d8/dcc/a23090.html#a04973145ed594b88afe2acc0cacb10c6", null ],
+    [ "PrepareSpellScript", "d8/dcc/a23090.html#a90c0513a6dba2f2e6619dd8c77544991", null ],
+    [ "Register", "d8/dcc/a23090.html#a7c8ca525cd6822d21551331ce37ce5dd", null ]
 ];

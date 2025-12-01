@@ -1,12 +1,20 @@
 var a08550 =
 [
-    [ "SpellModifier", "df/d7b/a08550.html#adba5fad6b904d09a43be7302e7eb62bd", null ],
-    [ "charges", "df/d7b/a08550.html#a1aaf71299c2dd27b58a049d252efdee8", null ],
-    [ "mask", "df/d7b/a08550.html#aba1b01bf3486d61cc1876b03078a35ee", null ],
-    [ "op", "df/d7b/a08550.html#a21d017f0c8d3108a0eb5f48798103356", null ],
-    [ "ownerAura", "df/d7b/a08550.html#a5e180553fb4739eb7f947da70fbe7ef8", null ],
-    [ "priority", "df/d7b/a08550.html#a163a81b49cfdeb73236ee930d6f24673", null ],
-    [ "spellId", "df/d7b/a08550.html#a465803efab27b2ba0a49c6571b65b908", null ],
-    [ "type", "df/d7b/a08550.html#a22f64b9c021f5a87f30f01ef117ebb0b", null ],
-    [ "value", "df/d7b/a08550.html#a31742662ba8112c9e9b972897a928e57", null ]
+    [ "CinematicMgr", "df/d7b/a08550.html#a95547140d5718eb7fb4a8242a6e6de05", null ],
+    [ "~CinematicMgr", "df/d7b/a08550.html#ac56017a73bed15eadfdb6d17891328ff", null ],
+    [ "BeginCinematic", "df/d7b/a08550.html#a94ef6fc060617708b7bfd3a8c311e519", null ],
+    [ "EndCinematic", "df/d7b/a08550.html#a8a47c7cff4414c6aea3aa31fa483cc60", null ],
+    [ "GetActiveCinematicCamera", "df/d7b/a08550.html#a0535dee9b0ec7aa6176809c6dca16b30", null ],
+    [ "IsOnCinematic", "df/d7b/a08550.html#a904cb7a2db9b9e92e8539b736487ad0e", null ],
+    [ "SetActiveCinematicCamera", "df/d7b/a08550.html#afa5c37702ecdb71e09e552b92fa5ad71", null ],
+    [ "UpdateCinematicLocation", "df/d7b/a08550.html#afdcf4c2361f5ce445b1dfc013cf3348d", null ],
+    [ "Player", "df/d7b/a08550.html#a7f4241aa9ecc051c75f779af132a52ed", null ],
+    [ "m_activeCinematicCameraId", "df/d7b/a08550.html#ab8cd685c623be2b2609a71e8c4ebb740", null ],
+    [ "m_cinematicCamera", "df/d7b/a08550.html#a0c527989b49df340a268b8f69911377c", null ],
+    [ "m_cinematicDiff", "df/d7b/a08550.html#a398e47385916c712677268bed43f7955", null ],
+    [ "m_cinematicLength", "df/d7b/a08550.html#a60c48bec98a06c5cc0e50268df35c9cd", null ],
+    [ "m_CinematicObject", "df/d7b/a08550.html#a969e4ab19088fd45f3ba9483efa2e481", null ],
+    [ "m_lastCinematicCheck", "df/d7b/a08550.html#a50c42e2f39ba97a39ee31043dec17337", null ],
+    [ "m_remoteSightPosition", "df/d7b/a08550.html#ae4f473744f0e3ad43ef51dbf30f62f55", null ],
+    [ "player", "df/d7b/a08550.html#a00099569f6f2b683d4d5640bf971bf2d", null ]
 ];

@@ -1,7 +1,8 @@
 var a25234 =
 [
-    [ "HandleScript", "de/dee/a25234.html#a9fb69011ce5245925eb6a4fd011d18b2", null ],
-    [ "PrepareSpellScript", "de/dee/a25234.html#ab9300ff0efc4a36d652a1b56c031dc2f", null ],
-    [ "Register", "de/dee/a25234.html#aa0828fa1a3cf75e8222607a4f2fff950", null ],
-    [ "Validate", "de/dee/a25234.html#a9469ebca2d40dd2944f2fb7286fc64ff", null ]
+    [ "AchievementCredit", "de/dee/a25234.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "de/dee/a25234.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "de/dee/a25234.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "de/dee/a25234.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "de/dee/a25234.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

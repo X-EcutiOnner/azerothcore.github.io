@@ -1,6 +1,5 @@
 var a21682 =
 [
-    [ "npc_azure_saboteurAI", "d4/d59/a21686.html", "d4/d59/a21686" ],
-    [ "npc_azure_saboteur", "d0/d09/a21682.html#ae60362727a7a246b7c6c923ed96c7be7", null ],
-    [ "GetAI", "d0/d09/a21682.html#a69b552fb6f725d00ac4b0303d36a7138", null ]
+    [ "npc_khunok_the_behemothAI", "d0/d09/a21682.html#a435ac0418fe4bba1d2877ce6bea6451c", null ],
+    [ "MoveInLineOfSight", "d0/d09/a21682.html#a5d54954a159da764aa7b83579e03688c", null ]
 ];

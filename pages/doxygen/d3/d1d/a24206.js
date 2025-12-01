@@ -1,5 +1,9 @@
 var a24206 =
 [
-    [ "go_simon_cluster", "d3/d1d/a24206.html#adac53a8451abd6ace227a66afc7e61e8", null ],
-    [ "OnGossipHello", "d3/d1d/a24206.html#a9fd9799604de44c91803511c45b67786", null ]
+    [ "npc_fel_guard_houndAI", "d3/d1d/a24206.html#af8b3a9b56e4bdf8d8b654ecccd096651", null ],
+    [ "MovementInform", "d3/d1d/a24206.html#a127a0d7b61fde64c0ced52192f438f12", null ],
+    [ "Reset", "d3/d1d/a24206.html#ab979c3602897b1148ffd5d4a81941197", null ],
+    [ "UpdateAI", "d3/d1d/a24206.html#a97a59eec672d7dfe36264d34b922d0c8", null ],
+    [ "checkTimer", "d3/d1d/a24206.html#ad22bb6efafb4396cd0137c1384240029", null ],
+    [ "helboarGUID", "d3/d1d/a24206.html#aadcf9b51dbcaa1e62b6619b89d865814", null ]
 ];

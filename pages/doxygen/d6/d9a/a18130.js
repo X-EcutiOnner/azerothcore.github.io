@@ -1,6 +1,6 @@
 var a18130 =
 [
-    [ "FilterTargetsInitial", "d6/d9a/a18130.html#a92cc71f268793c616bed66d9a489a145", null ],
-    [ "PrepareSpellScript", "d6/d9a/a18130.html#ae27e6ceab6b92e59c97307ed10f24ab2", null ],
-    [ "Register", "d6/d9a/a18130.html#a91b96940a9e72e632989b49f7e475dba", null ]
+    [ "ExtraEffect", "d6/d9a/a18130.html#a10dfb36a835589208482e1c8833d8f46", null ],
+    [ "PrepareSpellScript", "d6/d9a/a18130.html#a972ff2bdc7d3660820e05326600be6f6", null ],
+    [ "Register", "d6/d9a/a18130.html#ae337e67a220b72b44878d02be33e3888", null ]
 ];

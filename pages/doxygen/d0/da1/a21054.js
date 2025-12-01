@@ -1,7 +1,6 @@
 var a21054 =
 [
-    [ "boss_yoggsaron_corruptor_tentacleAI", "d0/da1/a21054.html#a5f8fbd8ac772fad79f809de4d3128574", null ],
-    [ "DoAction", "d0/da1/a21054.html#abac26b3be775eea734403be36cbed4d2", null ],
-    [ "SelectCorruptionTarget", "d0/da1/a21054.html#a1d61b34d31794cd2bdcddfe91dc1103e", null ],
-    [ "UpdateAI", "d0/da1/a21054.html#a0269d1dc655af5680d7074cb093740b8", null ]
+    [ "boss_yoggsaron_immortal_guardianAI", "dd/d61/a21058.html", "dd/d61/a21058" ],
+    [ "boss_yoggsaron_immortal_guardian", "d0/da1/a21054.html#a4009759d284b54cb958ee0bb80c45f14", null ],
+    [ "GetAI", "d0/da1/a21054.html#ac532ca090d93ce6d11a0332329111f2b", null ]
 ];

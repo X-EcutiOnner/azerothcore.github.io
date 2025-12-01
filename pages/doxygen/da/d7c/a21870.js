@@ -1,6 +1,6 @@
 var a21870 =
 [
-    [ "npc_steam_powered_auctioneerAI", "d6/d47/a21874.html", "d6/d47/a21874" ],
-    [ "npc_steam_powered_auctioneer", "da/d7c/a21870.html#ae8c918c639ce0c3ddc14b8cf7f0ef855", null ],
-    [ "GetAI", "da/d7c/a21870.html#a39a2f0c187078c759bc4a391e0a81068", null ]
+    [ "npc_dalaran_mageAI", "d6/d47/a21874.html", "d6/d47/a21874" ],
+    [ "npc_dalaran_mage", "da/d7c/a21870.html#a764d637ab0c64e2a0cc0459269974d6d", null ],
+    [ "GetAI", "da/d7c/a21870.html#ae2deef0546e2bf0df562e0a67b8b0b93", null ]
 ];

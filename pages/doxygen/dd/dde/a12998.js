@@ -1,6 +1,8 @@
 var a12998 =
 [
-    [ "boss_kagani_nightstrike", "dd/dde/a12998.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
-    [ "JustEngagedWith", "dd/dde/a12998.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
-    [ "MovementInform", "dd/dde/a12998.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
+    [ "npc_barnesAI", "d7/d0d/a13002.html", "d7/d0d/a13002" ],
+    [ "npc_barnes", "dd/dde/a12998.html#aacdc737a94397a90b48b635293fe9c80", null ],
+    [ "GetAI", "dd/dde/a12998.html#a4e349ede566d9be90b82e7ebd9d71de3", null ],
+    [ "OnGossipHello", "dd/dde/a12998.html#a47cafa3628d2ca99582140f2a72ff8db", null ],
+    [ "OnGossipSelect", "dd/dde/a12998.html#aa04d577e318f16f581f82761b6014eb5", null ]
 ];

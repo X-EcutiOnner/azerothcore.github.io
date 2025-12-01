@@ -1,17 +1,9 @@
 var a05478 =
 [
-    [ "CircularBuffer", "dd/de0/a05478.html#a169d3975fbe8eda83c02f62b34347bc9", null ],
-    [ "capacity", "dd/de0/a05478.html#aed04549e911fb6ecebbac1cbd01e9dcd", null ],
-    [ "content", "dd/de0/a05478.html#ad364f8ee7c9176b912ea053e2f3c928f", null ],
-    [ "empty", "dd/de0/a05478.html#a7509cc5ef0dd0a9f731c47b05929580c", null ],
-    [ "full", "dd/de0/a05478.html#a2a2f13f00dca028142c250b5f2183097", null ],
-    [ "peak_back", "dd/de0/a05478.html#ad4bb17889033526da4605ebddd60f3c7", null ],
-    [ "put", "dd/de0/a05478.html#a2a5e093804731b69969c18e49a206572", null ],
-    [ "size", "dd/de0/a05478.html#af429f831da3fd31618d1c1612cd94ce7", null ],
-    [ "buf_", "dd/de0/a05478.html#aa2b9389da6cd912b4dd54d89ca1d69ee", null ],
-    [ "full_", "dd/de0/a05478.html#a1dfcbf9f9d2760d7d82144c57ff8a60e", null ],
-    [ "head_", "dd/de0/a05478.html#a43ba1c722307cdbbf38f8ba1ec7f64c6", null ],
-    [ "max_size_", "dd/de0/a05478.html#a4ad34b67dc4924addf79905732203d2a", null ],
-    [ "mutex_", "dd/de0/a05478.html#aa4762ba2167d8b9560ff39328b4b3afa", null ],
-    [ "tail_", "dd/de0/a05478.html#a0abd9f6b08ee7fb8dd7e437fe4a6364f", null ]
+    [ "Lock", "d0/d3d/a05482.html", "d0/d3d/a05482" ],
+    [ "ObjectLevelLockable", "dd/de0/a05478.html#a56f2f2722e7f56857ef1d6e7ae52891d", null ],
+    [ "ObjectLevelLockable", "dd/de0/a05478.html#a133cb19ac25d346ba24b8405595dd174", null ],
+    [ "operator=", "dd/de0/a05478.html#a8ebb63f3adccf1bf121f569f1d527e17", null ],
+    [ "Lock", "dd/de0/a05478.html#a5bf7608e05250fb524a1229bcf83ece3", null ],
+    [ "i_mtx", "dd/de0/a05478.html#ae373bee24a50a7eda232b51769c042aa", null ]
 ];

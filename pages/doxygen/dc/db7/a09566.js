@@ -1,16 +1,18 @@
 var a09566 =
 [
-    [ "GuildBankRightsAndSlots", "dc/db7/a09566.html#ae00a8b8f227d7afdcf08847e3787ee0d", null ],
-    [ "GuildBankRightsAndSlots", "dc/db7/a09566.html#af5f0087090a7145a22baa1396822318b", null ],
-    [ "GuildBankRightsAndSlots", "dc/db7/a09566.html#a4bdf40d99704211b9e80b554ebade54f", null ],
-    [ "GetRights", "dc/db7/a09566.html#a19b76bebdb62434191189ba789c2810f", null ],
-    [ "GetSlots", "dc/db7/a09566.html#a51780060b5699bed6b78cc9ba4e95371", null ],
-    [ "GetTabId", "dc/db7/a09566.html#a6ba7c49480a1c5325d3702fb61d397cc", null ],
-    [ "SetGuildMasterValues", "dc/db7/a09566.html#a1399f191b3b0a44dc1e76fc49adc1412", null ],
-    [ "SetRights", "dc/db7/a09566.html#abf4e1f1556554e7f756dc566fbdd7f40", null ],
-    [ "SetSlots", "dc/db7/a09566.html#a8ed33a4e1d2a957d61c5f7556533f225", null ],
-    [ "SetTabId", "dc/db7/a09566.html#abe84f6bcdfd48d70b894470d025f3aae", null ],
-    [ "rights", "dc/db7/a09566.html#a2a8f5acf21828bfa15d0b3dd6874b5cb", null ],
-    [ "slots", "dc/db7/a09566.html#a5a327399d94704bc290199baa21ff8d7", null ],
-    [ "tabId", "dc/db7/a09566.html#ab09825a02a7a21a4915595230d2a5839", null ]
+    [ "GroupContainer", "dc/db7/a09566.html#a417c5798d50cac5c1bc5b0eae13945cc", null ],
+    [ "GroupIds", "dc/db7/a09566.html#ad3a9005c50a5957d3f47adf60624b9aa", null ],
+    [ "GroupMgr", "dc/db7/a09566.html#a663dbeb2e20161d8d6cf72f322c05f0e", null ],
+    [ "~GroupMgr", "dc/db7/a09566.html#ad5a5efeed7f78146983611c2349c111f", null ],
+    [ "AddGroup", "dc/db7/a09566.html#abb97c613417573dc4cafa117065e7cf8", null ],
+    [ "GenerateGroupId", "dc/db7/a09566.html#ad881433a3836a70e44734bde5a1afc6f", null ],
+    [ "GetGroupByGUID", "dc/db7/a09566.html#a2af93882e217f762df95ba21af191c89", null ],
+    [ "InitGroupIds", "dc/db7/a09566.html#a6881453ec34dc2d9416069a87b1a3234", null ],
+    [ "instance", "dc/db7/a09566.html#a1b7275cfd70d46216df8c353e70d64c8", null ],
+    [ "LoadGroups", "dc/db7/a09566.html#ab8548ce88b015ae3040cd5f2cd7b1990", null ],
+    [ "RegisterGroupId", "dc/db7/a09566.html#a8bface2b6600801ebcd1cbb9070ec3ef", null ],
+    [ "RemoveGroup", "dc/db7/a09566.html#a654b7c795c9c3d77a7a39bce58dec2c7", null ],
+    [ "_groupIds", "dc/db7/a09566.html#af260c73ba61242f741103bdfe6d6fb9e", null ],
+    [ "_nextGroupId", "dc/db7/a09566.html#a4e41d7444f8b7d3dbb54569be80b65f9", null ],
+    [ "GroupStore", "dc/db7/a09566.html#ae897c661dd4b185d205c3a12d17ccb2b", null ]
 ];

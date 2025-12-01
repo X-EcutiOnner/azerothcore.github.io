@@ -1,5 +1,8 @@
 var a22786 =
 [
-    [ "OutdoorPvP_zangarmarsh", "de/de1/a22786.html#ae287d5df21bf75efab6c651f4f3d875e", null ],
-    [ "GetOutdoorPvP", "de/de1/a22786.html#a145ddfe383663ed3fb46960e39691f8f", null ]
+    [ "boss_pandemonius", "de/de1/a22786.html#a650746de74bb8a91e0c9c59d8a6a09ea", null ],
+    [ "JustDied", "de/de1/a22786.html#a64a493c0dd4bcf5917e00c3e2713f4ce", null ],
+    [ "JustEngagedWith", "de/de1/a22786.html#a3dbedc67006db89b95443f783cd8dbd9", null ],
+    [ "KilledUnit", "de/de1/a22786.html#a26a012afe8c418c8da283c7b9f983e89", null ],
+    [ "PullRoom", "de/de1/a22786.html#a05011127290350f11cc1a333b23dbb04", null ]
 ];

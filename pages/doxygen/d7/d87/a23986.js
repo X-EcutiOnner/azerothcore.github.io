@@ -1,9 +1,6 @@
 var a23986 =
 [
-    [ "HandleEffectApply", "d7/d87/a23986.html#ac9e030810cc1ffb3927943353bcbb764", null ],
-    [ "HandleEffectRemove", "d7/d87/a23986.html#a2524bb4614fa62fb703a3d3cf0c25da0", null ],
-    [ "Load", "d7/d87/a23986.html#a60f41c19f5104eef82048fd1e3416abd", null ],
-    [ "PrepareAuraScript", "d7/d87/a23986.html#a277d9865108acafac4b1a42bc5b5714b", null ],
-    [ "Register", "d7/d87/a23986.html#a5ffe5a8b3422382482f713ff6d8514b2", null ],
-    [ "_falconSet", "d7/d87/a23986.html#a1a20f75d251936bff7a0777831d79140", null ]
+    [ "npc_capernian", "d7/d87/a23986.html#a0acb568664c777797eeb7104f454699d", null ],
+    [ "AttackStart", "d7/d87/a23986.html#a81e89eacbae30a1229fda5e9fe924e2b", null ],
+    [ "ScheduleEvents", "d7/d87/a23986.html#a6bd26f5584a1c960b84b574abd723ad1", null ]
 ];

@@ -1,7 +1,7 @@
 var a03323 =
 [
-    [ "AccountFlagText", "d0/d38/a11896.html", "d0/d38/a11896" ],
-    [ "misc_commandscript", "dc/d36/a11900.html", "dc/d36/a11900" ],
+    [ "AccountFlagText", "dd/d8e/a11902.html", "dd/d8e/a11902" ],
+    [ "misc_commandscript", "da/df4/a11906.html", "da/df4/a11906" ],
     [ "AddSC_misc_commandscript", "d4/d00/a03323.html#ac722d20c86b9502b7c4c8ae711cc3917", null ],
     [ "GetLocalizeCreatureName", "d4/d00/a03323.html#aaedbdfd3cae227b11684151f41e3b977", null ],
     [ "accountFlagText", "d4/d00/a03323.html#a704344ab0c20d3674c76d1dcf177ec9a", null ],

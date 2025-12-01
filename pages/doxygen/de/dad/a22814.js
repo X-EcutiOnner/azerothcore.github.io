@@ -1,12 +1,11 @@
 var a22814 =
 [
-    [ "boss_shirrak_the_dead_watcher", "de/dad/a22814.html#aaa6826de3b6563342b89544b38386d93", null ],
-    [ "EnterEvadeMode", "de/dad/a22814.html#a23768629c4ab48954880c3c29099f432", null ],
-    [ "getStackCount", "de/dad/a22814.html#aabca8240dfdc6603f0c244286a4d2cfe", null ],
-    [ "JustEngagedWith", "de/dad/a22814.html#a095ce3401bf0e40255e3104c01ce5fb0", null ],
-    [ "JustSummoned", "de/dad/a22814.html#a0a8e0d5126d14bd6d15004320b311f36", null ],
-    [ "Reset", "de/dad/a22814.html#aa16810aeadfac21c53a28ffbca3babdc", null ],
-    [ "SpellHitTarget", "de/dad/a22814.html#a7cb51a74e53dd6a22a3dbfe4e2220d37", null ],
-    [ "UpdateAI", "de/dad/a22814.html#a855505f949f53f979187abcb5b2f617f", null ],
-    [ "focusGUID", "de/dad/a22814.html#a81a7eade42ef595c173d7828ce59ef88", null ]
+    [ "boss_talon_king_ikiss", "de/dad/a22814.html#acf8cbda5f7a33c026bfc0d6e7b31f43c", null ],
+    [ "CanAIAttack", "de/dad/a22814.html#ab4858d845f149b6333941d8f8ab59afb", null ],
+    [ "JustDied", "de/dad/a22814.html#ada1d993842d04453d6afad91e186a3fe", null ],
+    [ "JustEngagedWith", "de/dad/a22814.html#a325312ce6695435fcca701720434c64f", null ],
+    [ "KilledUnit", "de/dad/a22814.html#ae8d94f89a67f3a321c88327c076ddd77", null ],
+    [ "MoveInLineOfSight", "de/dad/a22814.html#ab13808b75b1ca79b856e5b2e64e67d89", null ],
+    [ "Reset", "de/dad/a22814.html#adcb1dca375ec548499da5a7690babc21", null ],
+    [ "_spoken", "de/dad/a22814.html#a3e9e3a8575dbf21262ba2b4226182373", null ]
 ];

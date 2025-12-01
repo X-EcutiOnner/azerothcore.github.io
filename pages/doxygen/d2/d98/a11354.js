@@ -1,8 +1,7 @@
 var a11354 =
 [
-    [ "target_mapId", "d2/d98/a11354.html#a6dbbb558810388e0d051d84a0279a444", null ],
-    [ "target_Orientation", "d2/d98/a11354.html#a7e30264eff9ece771dfaa421ef987b2a", null ],
-    [ "target_X", "d2/d98/a11354.html#aa78b3d4cfb4277bcb1bf6a31ffc87546", null ],
-    [ "target_Y", "d2/d98/a11354.html#a6f432d8770adebf513346713b7890b5c", null ],
-    [ "target_Z", "d2/d98/a11354.html#a3af706b81f8fbef12277c518964f717a", null ]
+    [ "SpellImmune", "d2/d98/a11354.html#a70ebcde656db6c4d7c21fb03af44978a", null ],
+    [ "blockType", "d2/d98/a11354.html#a13a353d02a7330820df170eb46e7a26d", null ],
+    [ "spellId", "d2/d98/a11354.html#a6aeb1bebf2f079424ebfa5192c568adc", null ],
+    [ "type", "d2/d98/a11354.html#ae1a414f35b2cce61cd4f5640c761f7ea", null ]
 ];

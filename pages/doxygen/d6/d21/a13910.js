@@ -1,7 +1,8 @@
 var a13910 =
 [
-    [ "npc_jaina_proudmoore_bfuAI", "d6/d21/a13910.html#ad5ad1d05ef8210409c700e47b5442e24", null ],
-    [ "Reset", "d6/d21/a13910.html#a18de805428ce0954a5fbfffbf5975342", null ],
-    [ "UpdateAI", "d6/d21/a13910.html#a48b191d0812bfe3212511a52ef0df817", null ],
-    [ "_events", "d6/d21/a13910.html#a87e99e0b5fd0a3823b009025019b1fa4", null ]
+    [ "npc_varian_wrynnAI", "d2/d44/a13914.html", "d2/d44/a13914" ],
+    [ "npc_varian_wrynn", "d6/d21/a13910.html#a1dd8e4664da693f3e4ecdd4581b96c87", null ],
+    [ "GetAI", "d6/d21/a13910.html#aa5aa46f24a128e84ac2a837c012b2e02", null ],
+    [ "OnGossipHello", "d6/d21/a13910.html#a95f6ff3f2a7db807b278d019e187ddec", null ],
+    [ "OnGossipSelect", "d6/d21/a13910.html#a65d02bafebe9c5a45d707f8990d680a3", null ]
 ];

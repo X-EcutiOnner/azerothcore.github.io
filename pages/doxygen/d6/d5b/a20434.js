@@ -1,14 +1,7 @@
 var a20434 =
 [
-    [ "npc_ulduar_hodir_mageAI", "d6/d5b/a20434.html#a118059c877151a9f6b2b15a4070e2704", null ],
-    [ "AttackStart", "d6/d5b/a20434.html#a3217617eb3312c1da34dc7dce590fe0d", null ],
-    [ "CanAIAttack", "d6/d5b/a20434.html#a66ea56e856fcc706e4f938512def1590", null ],
-    [ "EnterEvadeMode", "d6/d5b/a20434.html#a6d4cd626dcd58f825a6c88b804bb38a7", null ],
-    [ "JustDied", "d6/d5b/a20434.html#a0176f8b45c20af1552e1a8b70e307442", null ],
-    [ "MoveInLineOfSight", "d6/d5b/a20434.html#aaf35c04462b1698e85df64190f4e2c8a", null ],
-    [ "ScheduleAbilities", "d6/d5b/a20434.html#a7927f399ef1c89b3eb83804fde9b2700", null ],
-    [ "SpellHit", "d6/d5b/a20434.html#aa814a46a45ce5eb9696c8f6c6de8c521", null ],
-    [ "UpdateAI", "d6/d5b/a20434.html#acbbe6667360e5bb7576c1ea741c2e2f1", null ],
-    [ "events", "d6/d5b/a20434.html#a556453c557df0be6a57255e400d98a87", null ],
-    [ "pInstance", "d6/d5b/a20434.html#ac4677898f5612c01d98ab242c7628e8f", null ]
+    [ "HandleEffectPeriodic", "d6/d5b/a20434.html#ae22cd3b6f7cf515e80dd1125349dd152", null ],
+    [ "PrepareAuraScript", "d6/d5b/a20434.html#a4cc9b379480c50e1116e3dab03afeaad", null ],
+    [ "Register", "d6/d5b/a20434.html#ac82d5a47f5eca266eed99ab65f9eb5bf", null ],
+    [ "Validate", "d6/d5b/a20434.html#a2bb4fe398e6b225dd14bdb51e3f01522", null ]
 ];

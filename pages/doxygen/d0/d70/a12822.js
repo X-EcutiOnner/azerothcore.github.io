@@ -1,9 +1,20 @@
 var a12822 =
 [
-    [ "FilterTargets", "d0/d70/a12822.html#a88b91e40b330d39bd04a7873128fb858", null ],
-    [ "HandleFinish", "d0/d70/a12822.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
-    [ "PrepareSpellScript", "d0/d70/a12822.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
-    [ "Register", "d0/d70/a12822.html#ab2008e585589cbf313170064d37c4aa9", null ],
-    [ "Validate", "d0/d70/a12822.html#af4963be6c544a1706a6dc30dcbf18309", null ],
-    [ "_targets", "d0/d70/a12822.html#a2f75199a90e52cff770f46bce76d5149", null ]
+    [ "boss_netherspite", "d0/d70/a12822.html#a41665f388b5abcf6d64e6f58326fe0cc", null ],
+    [ "DestroyPortals", "d0/d70/a12822.html#aef861122117f86230157dfba2aae4b84", null ],
+    [ "dist", "d0/d70/a12822.html#a01862bcde441d4873e2f01d65726b7c7", null ],
+    [ "HandleDoors", "d0/d70/a12822.html#ac5f2ddb87e93c3d85f7912132bbe5bfe", null ],
+    [ "IsBetween", "d0/d70/a12822.html#ae3d1579bd742d2ac38dc47e529c047e1", null ],
+    [ "JustDied", "d0/d70/a12822.html#abf986442648091792058cff6110bc670", null ],
+    [ "JustEngagedWith", "d0/d70/a12822.html#a49a114ce9744c1758294f56088f91348", null ],
+    [ "Reset", "d0/d70/a12822.html#a24b4282d0004fe07810f9210211a28f4", null ],
+    [ "SummonPortals", "d0/d70/a12822.html#a98bbd9ae476eba086de3f70d4b5970e2", null ],
+    [ "SwitchToBanishPhase", "d0/d70/a12822.html#ac049b2b76c796c3d7dd74e8df7fafb99", null ],
+    [ "SwitchToPortalPhase", "d0/d70/a12822.html#ae347618233c5c15f73056629512fcdfa", null ],
+    [ "UpdateAI", "d0/d70/a12822.html#a5610c1eb1e20fb09a0b4680b0170a691", null ],
+    [ "UpdatePortals", "d0/d70/a12822.html#a16a028d881ad1439f699ca9e29c8ce11", null ],
+    [ "BeamerGUID", "d0/d70/a12822.html#af0f9b48c0ef7af916d14681473681744", null ],
+    [ "BeamTarget", "d0/d70/a12822.html#a61cf090860a7866ca0222dd79b697b13", null ],
+    [ "berserk", "d0/d70/a12822.html#a3eab6bee2123d34e6d85fb519c047f00", null ],
+    [ "PortalGUID", "d0/d70/a12822.html#a98824fb7502f2774fc8e5b2c63eeaa7f", null ]
 ];

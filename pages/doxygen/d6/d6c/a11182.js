@@ -1,7 +1,8 @@
 var a11182 =
 [
-    [ "IsValidOpcode", "d6/d6c/a11182.html#afdba55f89a1c7ffb9e7c302f2269687f", null ],
-    [ "IsValidSize", "d6/d6c/a11182.html#aec5192f7f57a16c9dfa244ff3874e693", null ],
-    [ "cmd", "d6/d6c/a11182.html#ad0a112cb2a8a71e6e8c20e320af63f49", null ],
-    [ "size", "d6/d6c/a11182.html#ac1d551036381db4f85b8dc92ea55d4ee", null ]
+    [ "PacketFilter", "d6/d6c/a11182.html#accfa43359c62d2e9d6c38086c77374bd", null ],
+    [ "~PacketFilter", "d6/d6c/a11182.html#a669531cfd9c06d5cf525986069117687", null ],
+    [ "Process", "d6/d6c/a11182.html#a03679e3c241a535757608c63ca933ac9", null ],
+    [ "ProcessUnsafe", "d6/d6c/a11182.html#a3e2bdc6d15cfd5cac1b9c130937599e3", null ],
+    [ "m_pSession", "d6/d6c/a11182.html#ad3723289ea93f1095cf82584268335d9", null ]
 ];

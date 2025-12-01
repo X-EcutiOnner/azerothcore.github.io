@@ -1,8 +1,11 @@
 var a25314 =
 [
-    [ "OnApply", "d0/d74/a25314.html#a9ea247d39fa51d9722c17e6ea83a0e55", null ],
-    [ "OnRemove", "d0/d74/a25314.html#abd45d59ecd41274bd02c17fb066a521e", null ],
-    [ "PrepareAuraScript", "d0/d74/a25314.html#af30811301599459bf2a99a68608a053f", null ],
-    [ "Register", "d0/d74/a25314.html#a0eb56dc80c02932a0d7cf4cca7079c75", null ],
-    [ "Validate", "d0/d74/a25314.html#a29c5049e4455737ff96596a18af118d0", null ]
+    [ "GetPennatSpellId", "d0/d74/a25314.html#a1e327a79ce90cf7ebbec644ed15ff67f", null ],
+    [ "HandleApplyEffect", "d0/d74/a25314.html#a396c05708a89758e4038b327e09c65e8", null ],
+    [ "HandleRemoveEffect", "d0/d74/a25314.html#adf6fd3d2a36e1ff115b5c5109d37b7a4", null ],
+    [ "Load", "d0/d74/a25314.html#afc83ecf02a1702d48fb39d60419bdbf1", null ],
+    [ "PrepareAuraScript", "d0/d74/a25314.html#a0230d694e9325d7ac6ac6526ecb5a0e3", null ],
+    [ "Register", "d0/d74/a25314.html#a46782a9dfb8ee2100be00afb6aa8b9a7", null ],
+    [ "Validate", "d0/d74/a25314.html#a095b002671940f2b3504ae2646f76d5a", null ],
+    [ "_pennantSpellId", "d0/d74/a25314.html#a092f0d88ede12dea699b39d5df04131c", null ]
 ];

@@ -1,12 +1,8 @@
 var a12982 =
 [
-    [ "boss_felblood_kaelthas", "d0/d4e/a12982.html#a85abfb330ccc1fed5b9dc851d780f386", null ],
-    [ "DamageTaken", "d0/d4e/a12982.html#ae29fb38a2f7dcf778b4443bc56f10e84", null ],
-    [ "DoAction", "d0/d4e/a12982.html#a984dcde8d78adbce00e307eb3c4d32b8", null ],
-    [ "GravityLapseSequence", "d0/d4e/a12982.html#aae902304d9e7ef27bdb9bde8cdf85605", null ],
-    [ "JustDied", "d0/d4e/a12982.html#affea155d0eb2b4dda1b9dc8847fc2444", null ],
-    [ "JustEngagedWith", "d0/d4e/a12982.html#a1d8806d7813d11aa61e043e420852218", null ],
-    [ "LapseAction", "d0/d4e/a12982.html#ae1ac5b5da2a548f5b1dc1bdffb303b25", null ],
-    [ "Reset", "d0/d4e/a12982.html#abde9a26abd8eef0b8cd25cbd6522d899", null ],
-    [ "_gravityLapseCounter", "d0/d4e/a12982.html#ab4e884a341fa25a555c160f6978861fc", null ]
+    [ "CalcPeriodic", "d0/d4e/a12982.html#a493609298c152df8216641ba2e5861cd", null ],
+    [ "PrepareAuraScript", "d0/d4e/a12982.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
+    [ "Register", "d0/d4e/a12982.html#a44002db5980dfc1db816cf61fd446491", null ],
+    [ "Update", "d0/d4e/a12982.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
+    [ "Validate", "d0/d4e/a12982.html#a060e189aaa4396681d42906b65c9196f", null ]
 ];

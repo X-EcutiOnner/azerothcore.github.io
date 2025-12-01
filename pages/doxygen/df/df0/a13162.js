@@ -1,6 +1,8 @@
 var a13162 =
 [
-    [ "npc_a_special_surpriseAI", "d8/d9e/a13166.html", "d8/d9e/a13166" ],
-    [ "npc_a_special_surprise", "df/df0/a13162.html#ab88d74a86049c53b1569bdcc263f3dd4", null ],
-    [ "GetAI", "df/df0/a13162.html#a930c7ba67a20fbfc55b40117ccd52c98", null ]
+    [ "HandleDummy", "df/df0/a13162.html#a3533f1e0daea7bf0e0e2a5830380159a", null ],
+    [ "HandleScript", "df/df0/a13162.html#a528ce741ebde0fb6b796431da800e439", null ],
+    [ "PrepareSpellScript", "df/df0/a13162.html#aa64f2238cdf8bf733c7e99db5d076c81", null ],
+    [ "Register", "df/df0/a13162.html#a8dea4b47777324b88c7e022f11741b25", null ],
+    [ "Validate", "df/df0/a13162.html#a6f49345b2beea56b4eaad390a6062118", null ]
 ];

@@ -1,11 +1,9 @@
 var a12870 =
 [
-    [ "npc_kilrek", "d6/dbb/a12870.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
-    [ "JustDied", "d6/dbb/a12870.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
-    [ "JustEngagedWith", "d6/dbb/a12870.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
-    [ "Reset", "d6/dbb/a12870.html#ae0b375abe5ec909cfaff96c257da0325", null ],
-    [ "UpdateAI", "d6/dbb/a12870.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
-    [ "_scheduler", "d6/dbb/a12870.html#a93663ee806385f617e81a03062dd94d6", null ],
-    [ "instance", "d6/dbb/a12870.html#a13b969fa86ef57f9508117a73252a36b", null ],
-    [ "TerestianGUID", "d6/dbb/a12870.html#a411476da379bf687cd007e25ba11280e", null ]
+    [ "FilterTargets", "d6/dbb/a12870.html#a88b91e40b330d39bd04a7873128fb858", null ],
+    [ "HandleFinish", "d6/dbb/a12870.html#a762ea4cc1cd0a50a65daf22cbbf4ce9c", null ],
+    [ "PrepareSpellScript", "d6/dbb/a12870.html#ab4ef82283e4d651d2e5304e49970efa8", null ],
+    [ "Register", "d6/dbb/a12870.html#ab2008e585589cbf313170064d37c4aa9", null ],
+    [ "Validate", "d6/dbb/a12870.html#af4963be6c544a1706a6dc30dcbf18309", null ],
+    [ "_targets", "d6/dbb/a12870.html#a2f75199a90e52cff770f46bce76d5149", null ]
 ];

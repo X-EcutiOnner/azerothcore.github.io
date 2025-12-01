@@ -1,6 +1,8 @@
 var a25654 =
 [
-    [ "CheckCast", "d4/d09/a25654.html#a849de7a9bc8d22ca1556e4e798807eaa", null ],
-    [ "PrepareSpellScript", "d4/d09/a25654.html#aadbfe7c69dac7cbc76aee2bfb790b612", null ],
-    [ "Register", "d4/d09/a25654.html#a2ca1fd7353e69d1028b8a9b2882d7931", null ]
+    [ "HandleFinish", "d4/d09/a25654.html#aac1981a16cbb61bfaf20c865bcfaf6a8", null ],
+    [ "PrepareSpellScript", "d4/d09/a25654.html#a73865997890d4f58cc09d54c2c4e5243", null ],
+    [ "Register", "d4/d09/a25654.html#a106cf5d53956b66f8f548caceda41dc8", null ],
+    [ "SelectTarget", "d4/d09/a25654.html#ab33513df20e942ba354932df5082efa8", null ],
+    [ "_target", "d4/d09/a25654.html#af25d11fc93423ee6e1678ebb5dcf1276", null ]
 ];

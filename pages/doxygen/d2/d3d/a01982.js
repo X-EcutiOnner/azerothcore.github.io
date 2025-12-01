@@ -1,10 +1,10 @@
 var a01982 =
 [
-    [ "boss_vazruden_the_herald", "d7/d77/a23696.html", "d7/d77/a23696" ],
-    [ "boss_nazan", "d3/dea/a23700.html", "d3/dea/a23700" ],
-    [ "boss_vazruden", "d4/d27/a23704.html", "d4/d27/a23704" ],
-    [ "spell_vazruden_fireball", "d0/dd1/a23708.html", "d0/dd1/a23708" ],
-    [ "spell_vazruden_call_nazan", "da/d89/a23712.html", "da/d89/a23712" ],
+    [ "boss_vazruden_the_herald", "dc/d7a/a23710.html", "dc/d7a/a23710" ],
+    [ "boss_nazan", "db/d68/a23714.html", "db/d68/a23714" ],
+    [ "boss_vazruden", "d0/d96/a23718.html", "d0/d96/a23718" ],
+    [ "spell_vazruden_fireball", "de/d67/a23722.html", "de/d67/a23722" ],
+    [ "spell_vazruden_call_nazan", "d0/d4f/a23726.html", "d0/d4f/a23726" ],
     [ "GroupPhase", "d2/d3d/a01982.html#a49053b1bcf5e1608ac7b5ad702b2bf00", [
       [ "GROUP_PHASE_1", "d2/d3d/a01982.html#a49053b1bcf5e1608ac7b5ad702b2bf00a32bcd3b7fab317a48674500272b5b5c9", null ],
       [ "GROUP_PHASE_2", "d2/d3d/a01982.html#a49053b1bcf5e1608ac7b5ad702b2bf00a22321c7fe55bbbccabaf892d4d85e8b4", null ]
@@ -261,7 +261,8 @@ var a01982 =
       [ "EVENT_ECK_BITE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a25fd4fd9c83fea5e757a20aeb8f03aee", null ],
       [ "EVENT_ECK_SPIT", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6add7ba9bf01f5f04dac1d93a997b57af2", null ],
       [ "EVENT_ECK_SPRING", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6c3f22fd6aa63e5bf101019792a4b483", null ],
-      [ "EVENT_ECK_HEALTH", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f0a1bde1d1f47b6f7e45f621a57b6c1", null ],
+      [ "EVENT_ECK_CRAZED_EMOTE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6eeac32439bad23ef93cf41b4526d55d", null ],
+      [ "EMOTE_CRAZED", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2628cfc3f39065948404f522308c931f", null ],
       [ "NPC_SLADRAN_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08dc37f063f5d70a3893765939f63a82", null ],
       [ "NPC_SLADRAN_CONSTRICTORS", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a52bf6fd6ef6437b9a4e88616b7f1d91b", null ],
       [ "MAX_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1e3f12d08f9d4880b8263386a54d21c8", null ],

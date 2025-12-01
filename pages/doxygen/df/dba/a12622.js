@@ -1,27 +1,6 @@
 var a12622 =
 [
-    [ "boss_ragnarosAI", "df/dba/a12622.html#a94c4efe28aac474a88eeb4b0f370af02", null ],
-    [ "AttackStart", "df/dba/a12622.html#a6c89e52fc1f34d08676a81fe83f6e820", null ],
-    [ "CanAIAttack", "df/dba/a12622.html#af5d86d91401c2543128866524ff4a44f", null ],
-    [ "DamageTaken", "df/dba/a12622.html#a869dfadf29a812e1d036a65bf2091d92", null ],
-    [ "DoAction", "df/dba/a12622.html#ad02bb8b22e166a2fd34fa56ddea3d396", null ],
-    [ "EnterEvadeMode", "df/dba/a12622.html#a9e043455beaadc2a47e0d753cc5c18d7", null ],
-    [ "HandleEmerge", "df/dba/a12622.html#ae15e53e682b9d8475861c64847d8b89c", null ],
-    [ "IsVictimWithinMeleeRange", "df/dba/a12622.html#a940e84dbc1d88d97a244dac000d1395d", null ],
-    [ "JustDied", "df/dba/a12622.html#a0455bacbe8356bdadd9c391115efcd68", null ],
-    [ "JustEngagedWith", "df/dba/a12622.html#ae71cafa0f60ce0ca6792524b5680d110", null ],
-    [ "JustSummoned", "df/dba/a12622.html#a249bbd12c520e81968e93a93d3dd272c", null ],
-    [ "KilledUnit", "df/dba/a12622.html#a4051c5bcb73419a8a5459732a148da4d", null ],
-    [ "Reset", "df/dba/a12622.html#a04a206275d57f0e0f2af0d7e98323696", null ],
-    [ "ScheduleCombatEvents", "df/dba/a12622.html#af1ce50fa9f251bf1d5270caca23d7dc1", null ],
-    [ "SetGUID", "df/dba/a12622.html#a29f05ceecaaa0582b24430eb87e840f0", null ],
-    [ "SummonedCreatureDies", "df/dba/a12622.html#aeda8df8fe34a59bea6e2bbb7d3fa0b72", null ],
-    [ "UpdateAI", "df/dba/a12622.html#afd770319814d46976e3d946b43e909a4", null ],
-    [ "_hasSubmergedOnce", "df/dba/a12622.html#a1e9b96abd69fce032a7ca6dff275703c", null ],
-    [ "_hasYelledMagmaBurst", "df/dba/a12622.html#a3026598fec3a0b4ba9a8b458aa411d33", null ],
-    [ "_isIntroDone", "df/dba/a12622.html#a9e7506026fc816aea5e1b58bab0e50c0", null ],
-    [ "_isKnockbackEmoteAllowed", "df/dba/a12622.html#a96505d1dbb57c7d52d8730952f5c46f8", null ],
-    [ "_lavaBurstGUIDS", "df/dba/a12622.html#ac2b114c221b2713b4c2ab039cf3bc924", null ],
-    [ "_processingMagmaBurst", "df/dba/a12622.html#af1f3bf328a3729e0c667bbbe9188b104", null ],
-    [ "extraEvents", "df/dba/a12622.html#adcb09077e86ad069dbe219bfc5c45613", null ]
+    [ "boss_lucifronAI", "da/d03/a12626.html", "da/d03/a12626" ],
+    [ "boss_lucifron", "df/dba/a12622.html#aa54be5c49a77524b036c167dbb6d81ea", null ],
+    [ "GetAI", "df/dba/a12622.html#a885366d4190bbc77dc696ee6910435ed", null ]
 ];

@@ -1,12 +1,17 @@
 var a10362 =
 [
-    [ "GroupScript", "d8/d78/a10362.html#a0680f82522424afc364e9b94e1c6f686", null ],
-    [ "CanGroupJoinBattlegroundQueue", "d8/d78/a10362.html#a931b4a94a2f95958579b37c0af6ece03", null ],
-    [ "IsDatabaseBound", "d8/d78/a10362.html#acb561e8a2d5b3542e228a7beb8122fbf", null ],
-    [ "OnAddMember", "d8/d78/a10362.html#adb279c4c0ba60ffea994f35cd7e91ad1", null ],
-    [ "OnChangeLeader", "d8/d78/a10362.html#a64a1441fd3db3f25236691efcff4a80b", null ],
-    [ "OnCreate", "d8/d78/a10362.html#a18973a7e5f260712f032ca1129d4a0bc", null ],
-    [ "OnDisband", "d8/d78/a10362.html#a3cb94966ba1d02180fb3e7cf95000e5f", null ],
-    [ "OnInviteMember", "d8/d78/a10362.html#a2ae925dc27708fdaa4d5909b582b77a7", null ],
-    [ "OnRemoveMember", "d8/d78/a10362.html#adf640b01746ee92fed31670ee5cc8d0f", null ]
+    [ "GameObjectScript", "d8/d78/a10362.html#a9d9cf73435a16d7fef450134c03980bb", null ],
+    [ "GetAI", "d8/d78/a10362.html#a05492473fa28c0f7c80770aa3445ce4e", null ],
+    [ "GetDialogStatus", "d8/d78/a10362.html#ac526fbe66b9b1e9edca51f9fd20a40b9", null ],
+    [ "IsDatabaseBound", "d8/d78/a10362.html#a020e07dfd6e99b55bf5c8e56cfdd3948", null ],
+    [ "OnDamaged", "d8/d78/a10362.html#a2fb7d0f8f01ce083643bc0cb810fc612", null ],
+    [ "OnDestroyed", "d8/d78/a10362.html#a042676e98453494ab49bb90216755052", null ],
+    [ "OnGameObjectStateChanged", "d8/d78/a10362.html#a4992d88f026bf906852f085db4e8768e", null ],
+    [ "OnGossipHello", "d8/d78/a10362.html#a58b56fc92ae87aea0530eceba1f3088d", null ],
+    [ "OnGossipSelect", "d8/d78/a10362.html#a612884c70eed9c56958ab49dc1e2bb1f", null ],
+    [ "OnGossipSelectCode", "d8/d78/a10362.html#ac9c9feb4d08ea0e5ad202ada205a9772", null ],
+    [ "OnLootStateChanged", "d8/d78/a10362.html#ab93c178f2137e92da28665d28bfec1d5", null ],
+    [ "OnModifyHealth", "d8/d78/a10362.html#a1ff457beae2b6249a9d3ecd08fd1b5a4", null ],
+    [ "OnQuestAccept", "d8/d78/a10362.html#afd22217feca39340d68b9c7fd6c1caa8", null ],
+    [ "OnQuestReward", "d8/d78/a10362.html#a233712ff412081583a8295cf512da48d", null ]
 ];

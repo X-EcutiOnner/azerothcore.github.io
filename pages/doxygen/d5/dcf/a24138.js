@@ -1,9 +1,6 @@
 var a24138 =
 [
-    [ "boss_nethermancer_sepethrea", "d5/dcf/a24138.html#aae77446e9a8f2ac41601049d3fe9ffd4", null ],
-    [ "EnterEvadeMode", "d5/dcf/a24138.html#a0ac9dd29b73e8734318851ffd9a09162", null ],
-    [ "JustDied", "d5/dcf/a24138.html#a2ac13176ebffa245fd9e0ba6173f30cc", null ],
-    [ "JustEngagedWith", "d5/dcf/a24138.html#a89851b9f6eb94270fe22151d3a968bec", null ],
-    [ "JustSummoned", "d5/dcf/a24138.html#acf98dbddcd55131cb9cdebe6d319e2c2", null ],
-    [ "KilledUnit", "d5/dcf/a24138.html#ad9606ca8c1fe6f68f72ec415cc70ef2f", null ]
+    [ "npc_daranelleAI", "dc/d11/a24142.html", "dc/d11/a24142" ],
+    [ "npc_daranelle", "d5/dcf/a24138.html#a0a6e26b95d6d97821bc9e0c00b205704", null ],
+    [ "GetAI", "d5/dcf/a24138.html#ad2ba5e4dfded886acaf2f9821e15738d", null ]
 ];

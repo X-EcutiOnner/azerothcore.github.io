@@ -1,12 +1,8 @@
 var a23758 =
 [
-    [ "boss_omor_the_unscarred", "d6/d14/a23758.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
-    [ "JustDied", "d6/d14/a23758.html#a9ddae483a0f8cefd8a19975b60002660", null ],
-    [ "JustEngagedWith", "d6/d14/a23758.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
-    [ "JustSummoned", "d6/d14/a23758.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
-    [ "KilledUnit", "d6/d14/a23758.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
-    [ "Reset", "d6/d14/a23758.html#a0ec22c50cd096677a20299ab45a3c344", null ],
-    [ "UpdateAI", "d6/d14/a23758.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
-    [ "_hasSpoken", "d6/d14/a23758.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
-    [ "_targetGUID", "d6/d14/a23758.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
+    [ "HandleDummyApply", "d6/d14/a23758.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
+    [ "HandleDummyRemove", "d6/d14/a23758.html#a368376fe4262815b9b9a9811178cec6d", null ],
+    [ "HandlePeriodicRemove", "d6/d14/a23758.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
+    [ "PrepareAuraScript", "d6/d14/a23758.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
+    [ "Register", "d6/d14/a23758.html#afeb47a40cfea3d958fee7a410e83857f", null ]
 ];

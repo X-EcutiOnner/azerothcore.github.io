@@ -1,6 +1,7 @@
 var a24682 =
 [
-    [ "PrepareSpellScript", "df/d3a/a24682.html#a2585b06bbebf291d170df58daf6fdd4e", null ],
-    [ "RecalculateDamage", "df/d3a/a24682.html#a1fe9f9d4892b0ca8cb6699b555fb9268", null ],
-    [ "Register", "df/d3a/a24682.html#a834484683d2d782b4f4c027091108172", null ]
+    [ "CheckProc", "df/d3a/a24682.html#a6b62e970a78ae8187989f566e6d47317", null ],
+    [ "HandleProc", "df/d3a/a24682.html#a21000167be45c4a5503813e5a508b8fd", null ],
+    [ "PrepareAuraScript", "df/d3a/a24682.html#a7f8fea0f52ed4c98120195f205d6c0d7", null ],
+    [ "Register", "df/d3a/a24682.html#a8d97a7638c682b99e466155bd819df53", null ]
 ];

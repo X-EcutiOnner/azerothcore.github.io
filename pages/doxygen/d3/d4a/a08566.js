@@ -1,6 +1,8 @@
 var a08566 =
 [
-    [ "PlayerClassLevelInfo", "d3/d4a/a08566.html#a60153094e3179bfc6c028d2b76775805", null ],
-    [ "basehealth", "d3/d4a/a08566.html#a034ae3d2b5b14ce454710ca8f92ffee0", null ],
-    [ "basemana", "d3/d4a/a08566.html#a939a8d8739a553c919d84e399ce17d22", null ]
+    [ "IsInSpec", "d3/d4a/a08566.html#a77968b5562467f85bda04b6f2f41ca29", null ],
+    [ "inSpellBook", "d3/d4a/a08566.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
+    [ "specMask", "d3/d4a/a08566.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
+    [ "State", "d3/d4a/a08566.html#a062758af7e92f7e2263ca0a0fd329151", null ],
+    [ "talentID", "d3/d4a/a08566.html#aca9b191361652002f5178179a939e41b", null ]
 ];

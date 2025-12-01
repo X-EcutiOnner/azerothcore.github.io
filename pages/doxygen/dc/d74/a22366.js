@@ -1,6 +1,7 @@
 var a22366 =
 [
-    [ "PrepareSpellScript", "dc/d74/a22366.html#aa26d34552b04dca1db32390e769ff4dc", null ],
-    [ "RecalculateDamage", "dc/d74/a22366.html#a1b3458fc865d320050fae1ffeb4c7b5d", null ],
-    [ "Register", "dc/d74/a22366.html#a58d28dea272b1237cf60efb45d67765d", null ]
+    [ "npc_engineer_heliceAI", "df/d30/a22370.html", "df/d30/a22370" ],
+    [ "npc_engineer_helice", "dc/d74/a22366.html#a445ed6b85e95db817c8117d5473a3c9d", null ],
+    [ "GetAI", "dc/d74/a22366.html#ad48e3c1ed22a71e8a45273e1338dd0f8", null ],
+    [ "OnQuestAccept", "dc/d74/a22366.html#ae0979d68744372d5d4669b6f014eb123", null ]
 ];

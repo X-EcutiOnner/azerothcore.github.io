@@ -1,7 +1,7 @@
 var a15194 =
 [
-    [ "FilterTargets", "dc/dbb/a15194.html#a59e477333a54ec828a429d15b35d4936", null ],
-    [ "HandleScript", "dc/dbb/a15194.html#a983fe53aa52e53a45685055fde04a3b7", null ],
-    [ "PrepareSpellScript", "dc/dbb/a15194.html#a873e7766aa1cb6ebabbc77c31db6701c", null ],
-    [ "Register", "dc/dbb/a15194.html#a45ac61990990f16c98eaa7136297afc5", null ]
+    [ "boss_kurinnaxx", "dc/dbb/a15194.html#aa8b471e6239080b2a5f70e50e07a9621", null ],
+    [ "InitializeAI", "dc/dbb/a15194.html#a0e249007d5bf29eb0cff307045ef9eb3", null ],
+    [ "JustDied", "dc/dbb/a15194.html#adb749c8737888a099ad7a3d58292a612", null ],
+    [ "JustEngagedWith", "dc/dbb/a15194.html#a451cd7ee80b0428a199c33012562bdb3", null ]
 ];

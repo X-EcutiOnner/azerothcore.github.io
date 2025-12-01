@@ -1,7 +1,9 @@
 var a22582 =
 [
-    [ "npc_wg_siege_machineAI", "d9/d67/a22582.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
-    [ "CanControlVehicle", "d9/d67/a22582.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
-    [ "UpdateAI", "d9/d67/a22582.html#a8ddd21047a857facc767a9edc0ec5408", null ],
-    [ "checkTimer", "d9/d67/a22582.html#abf4b06eae50adeefedba02e2186ea48a", null ]
+    [ "npc_finklesteinAI", "db/d7d/a22586.html", "db/d7d/a22586" ],
+    [ "npc_finklestein", "d9/d67/a22582.html#aa719b4bb95012c22ef8123e255e32edd", null ],
+    [ "GetAI", "d9/d67/a22582.html#a1f0d91d2a50aca9d0496b6bd03986c8e", null ],
+    [ "OnGossipHello", "d9/d67/a22582.html#ac82d5e5dc2e0539c90dfcfe17430548c", null ],
+    [ "OnGossipSelect", "d9/d67/a22582.html#a7a744207e8f43672f0e6bf2354186ec4", null ],
+    [ "OnQuestAccept", "d9/d67/a22582.html#a94291aa98e35552bc7d722ddf2a83af2", null ]
 ];

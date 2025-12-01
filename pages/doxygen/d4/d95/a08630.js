@@ -1,8 +1,8 @@
 var a08630 =
 [
-    [ "checkLeaderOnly", "d4/d95/a08630.html#ade8f2e22abe69a9a32085e4d901bc83b", null ],
-    [ "faction", "d4/d95/a08630.html#a23c649e494795b27856b67225370a820", null ],
-    [ "id", "d4/d95/a08630.html#a5d5b8f6fe0bfc5ae98c2fb10e3a18360", null ],
-    [ "note", "d4/d95/a08630.html#a0e800dd8869fedbe71e5b14aa3c79d8a", null ],
-    [ "priority", "d4/d95/a08630.html#a3a66018ae4e7a7e755962f1edae58d29", null ]
+    [ "EnchantDuration", "d4/d95/a08630.html#a1ce5f81deaa60494c247673c113632d8", null ],
+    [ "EnchantDuration", "d4/d95/a08630.html#a52448f2bb8b788193a69fe9a2d8729f3", null ],
+    [ "item", "d4/d95/a08630.html#ae803f6a9ce9cdb0dbb133bc85b6613ab", null ],
+    [ "leftduration", "d4/d95/a08630.html#a3f4edafbc9b09cb5ab660bc68af435f3", null ],
+    [ "slot", "d4/d95/a08630.html#a3de1a8d64aea4c5c1f984a74c6bb017d", null ]
 ];

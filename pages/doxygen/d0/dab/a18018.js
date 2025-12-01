@@ -1,9 +1,6 @@
 var a18018 =
 [
-    [ "CountTargets", "d0/dab/a18018.html#aa72b762d802c27047d485a8a314c6c6d", null ],
-    [ "Load", "d0/dab/a18018.html#a80a5d0f997f5d68a4fb438a81295fa52", null ],
-    [ "PrepareSpellScript", "d0/dab/a18018.html#acfd2927786a5bcefa0889d7e8aa40f72", null ],
-    [ "Register", "d0/dab/a18018.html#a86cad92c07fa31c730a3b560d33ed824", null ],
-    [ "SplitDamage", "d0/dab/a18018.html#a501a46b3e3988ae8cb8af1ff87eeac65", null ],
-    [ "_targetCount", "d0/dab/a18018.html#a39b8e5443250777594e3b4417d5ea1ec", null ]
+    [ "UnboundPlagueTargetSelector", "d0/dab/a18018.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
+    [ "operator()", "d0/dab/a18018.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
+    [ "_source", "d0/dab/a18018.html#a87eb77615e443ccec373d571708a156a", null ]
 ];

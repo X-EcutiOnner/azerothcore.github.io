@@ -1,7 +1,5 @@
 var a07806 =
 [
-    [ "StoreTo", "df/d1d/a07806.html#a1f368b832f95ce4acc6ed47ad4ca2e8d", null ],
-    [ "StoreTo", "df/d1d/a07806.html#a3d9382dd50447477f9f04bc0f055e55c", null ],
-    [ "StoreTo", "df/d1d/a07806.html#a071922c9c431637de3cb2d6b52def7bd", null ],
-    [ "StoreTo", "df/d1d/a07806.html#a45556cc3ac64a6692ef08d6d93d48a4d", null ]
+    [ "Glyph", "df/d1d/a07806.html#a99ef57f9c0bbab04953bd6edcf5b83f2", null ],
+    [ "Slot", "df/d1d/a07806.html#acc79672f4bddb27eb980b6aac19f83ec", null ]
 ];

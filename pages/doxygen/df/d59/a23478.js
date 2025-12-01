@@ -1,9 +1,7 @@
 var a23478 =
 [
-    [ "CalcPeriodic", "df/d59/a23478.html#a4c5a034d23253b2cf08cb86f12821184", null ],
-    [ "HandleEffectApply", "df/d59/a23478.html#af60491946062054504b20e16273ed594", null ],
-    [ "HandleEffectRemove", "df/d59/a23478.html#abfd43cd8e9df873e6c0867779bad13c1", null ],
-    [ "HandlePeriodic", "df/d59/a23478.html#a5137e24394fa14129c44d92c79eef117", null ],
-    [ "PrepareAuraScript", "df/d59/a23478.html#ac1f10b9e9d9883c25e28ae313242d41e", null ],
-    [ "Register", "df/d59/a23478.html#a69108d90f7c3fa95adfc29c14bd8c9fe", null ]
+    [ "PeriodicTick", "df/d59/a23478.html#a94bee50f214d0a61fa81c4cca1b38fb2", null ],
+    [ "PrepareAuraScript", "df/d59/a23478.html#a2c34fbc5c12be43b1c054cf4b23542cb", null ],
+    [ "Register", "df/d59/a23478.html#ae1479b53d8c0575947a7ce7cae4747c4", null ],
+    [ "Validate", "df/d59/a23478.html#ade8d57db324f02734e1752f49976dc9d", null ]
 ];

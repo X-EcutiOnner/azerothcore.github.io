@@ -1,20 +1,11 @@
 var a12918 =
 [
-    [ "boss_julianne", "dd/d29/a12918.html#a6433d08be0d5562e876e00225ebf7398", null ],
-    [ "DamageTaken", "dd/d29/a12918.html#a8ff7675405322c2d55bd01cec340f6b8", null ],
-    [ "DoAction", "dd/d29/a12918.html#a985c9c1f77b2769461bf42ddaab302d3", null ],
-    [ "EnterEvadeMode", "dd/d29/a12918.html#af2499ba9d9c25555c82d8d7ae95c7249", null ],
-    [ "JustDied", "dd/d29/a12918.html#abdfaf6fa147c6b35bed28bb2e3ed3c14", null ],
-    [ "JustEngagedWith", "dd/d29/a12918.html#a6c5bd97ad402cc5f5dcda421c5d2bad1", null ],
-    [ "JustReachedHome", "dd/d29/a12918.html#a6bda02d5534b9087741ee7146ec314b5", null ],
-    [ "KilledUnit", "dd/d29/a12918.html#a7430fb4f315ee5dcf5f9c49b2daa66b0", null ],
-    [ "Reset", "dd/d29/a12918.html#a1047e28950098b35bd8a8fc5bec4ed26", null ],
-    [ "ScheduleCombat", "dd/d29/a12918.html#ab0939f8fe0fc34cafbe2dab4ef449895", null ],
-    [ "SpellHit", "dd/d29/a12918.html#a1e142c56a514640dab0d5d7711085f9d", null ],
-    [ "UpdateAI", "dd/d29/a12918.html#ad1e1d5bb27fed12a203c8b10f6ea92a6", null ],
-    [ "_scheduler", "dd/d29/a12918.html#aae4be9b1035626ecc9ad2f3e5b918cbe", null ],
-    [ "instance", "dd/d29/a12918.html#acdc787ba6908e716517683a8536ecf3e", null ],
-    [ "isFakingDeath", "dd/d29/a12918.html#a7a1b3b2ead47a49e80f9ba2b49144a91", null ],
-    [ "phase", "dd/d29/a12918.html#a5b0b680916cd38b2e20a6a1b1a530362", null ],
-    [ "summonedRomulo", "dd/d29/a12918.html#a6938adccd5c781df04dabe6d860f9357", null ]
+    [ "npc_kilrek", "dd/d29/a12918.html#a853aa53d3e03aebe07c939eaf1b1c9c2", null ],
+    [ "JustDied", "dd/d29/a12918.html#a314ed9f73c6a9c991c7eb2690e0f7c1c", null ],
+    [ "JustEngagedWith", "dd/d29/a12918.html#a3a60a3bdb5a2876e325a26964bab21ac", null ],
+    [ "Reset", "dd/d29/a12918.html#ae0b375abe5ec909cfaff96c257da0325", null ],
+    [ "UpdateAI", "dd/d29/a12918.html#acf402b43e91b1f488ef8b9e3ed5092c4", null ],
+    [ "_scheduler", "dd/d29/a12918.html#a93663ee806385f617e81a03062dd94d6", null ],
+    [ "instance", "dd/d29/a12918.html#a13b969fa86ef57f9508117a73252a36b", null ],
+    [ "TerestianGUID", "dd/d29/a12918.html#a411476da379bf687cd007e25ba11280e", null ]
 ];

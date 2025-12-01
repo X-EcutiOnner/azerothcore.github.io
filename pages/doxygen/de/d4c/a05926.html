@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: UpdateException Class Reference</title>
+<title>AzerothCore: SQLOperation Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,38 +106,58 @@ $(document).ready(function(){initNavTree('de/d4c/a05926.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pri-attribs">Private Attributes</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="../../d2/dde/a05923.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">UpdateException Class Reference</div></div>
+  <div class="headertitle"><div class="title">SQLOperation Class Reference<span class="mlabels"><span class="mlabel">abstract</span></span></div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">DBUpdater.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">SQLOperation.h</a>&quot;</code></p>
 <div class="dynheader">
-Inheritance diagram for UpdateException:</div>
+Inheritance diagram for SQLOperation:</div>
 <div class="dyncontent">
  <div class="center">
-  <img src="../../de/d4c/a05926.png" alt=""/>
- </div></div>
+  <img src="../../de/d4c/a05926.png" usemap="#SQLOperation_map" alt=""/>
+  <map id="SQLOperation_map" name="SQLOperation_map">
+<area href="../../d3/de0/a05738.html" alt="BasicStatementTask" shape="rect" coords="0,56,162,80"/>
+<area href="../../d7/dce/a05766.html" alt="PingOperation" shape="rect" coords="172,56,334,80"/>
+<area href="../../d7/de5/a05878.html" alt="PreparedStatementTask" shape="rect" coords="344,56,506,80"/>
+<area href="../../d7/de6/a05902.html" alt="SQLQueryHolderTask" shape="rect" coords="516,56,678,80"/>
+<area href="../../da/d76/a05934.html" alt="TransactionTask" shape="rect" coords="688,56,850,80"/>
+<area href="../../dc/d8f/a05938.html" alt="TransactionWithResultTask" shape="rect" coords="688,112,850,136"/>
+  </map>
+</div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ace39ae1801ac7dcd055bcdce2411866e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4c/a05926.html#ace39ae1801ac7dcd055bcdce2411866e">UpdateException</a> (std::string const &amp;msg)</td></tr>
-<tr class="separator:ace39ae1801ac7dcd055bcdce2411866e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a38e016e210bf287d2adc21811497c95c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4c/a05926.html#a38e016e210bf287d2adc21811497c95c">~UpdateException</a> ()  throw ()</td></tr>
-<tr class="separator:a38e016e210bf287d2adc21811497c95c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab7bc552819bf9620dd670fb5a627b2dd"><td class="memItemLeft" align="right" valign="top">char const *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4c/a05926.html#ab7bc552819bf9620dd670fb5a627b2dd">what</a> () const override  throw ()</td></tr>
-<tr class="separator:ab7bc552819bf9620dd670fb5a627b2dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0f69657715b7d24458227b22a3b40b1a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4c/a05926.html#a0f69657715b7d24458227b22a3b40b1a">SQLOperation</a> ()=default</td></tr>
+<tr class="separator:a0f69657715b7d24458227b22a3b40b1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afa21cafba57dd35ed2b132ef3d18c71b"><td class="memItemLeft" align="right" valign="top">virtual&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4c/a05926.html#afa21cafba57dd35ed2b132ef3d18c71b">~SQLOperation</a> ()=default</td></tr>
+<tr class="separator:afa21cafba57dd35ed2b132ef3d18c71b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae56c06a313c4be5d0e45f5481996f1d1"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4c/a05926.html#ae56c06a313c4be5d0e45f5481996f1d1">call</a> ()</td></tr>
+<tr class="separator:ae56c06a313c4be5d0e45f5481996f1d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff1090554bc4a6fe7a33270e63416e19"><td class="memItemLeft" align="right" valign="top">virtual bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4c/a05926.html#aff1090554bc4a6fe7a33270e63416e19">Execute</a> ()=0</td></tr>
+<tr class="separator:aff1090554bc4a6fe7a33270e63416e19"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a52cbd1d9b8a298ab3eade0010b5e3166"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4c/a05926.html#a52cbd1d9b8a298ab3eade0010b5e3166">SetConnection</a> (<a class="el" href="../../d5/db7/a05798.html">MySQLConnection</a> *con)</td></tr>
+<tr class="separator:a52cbd1d9b8a298ab3eade0010b5e3166"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
-Private Attributes</h2></td></tr>
-<tr class="memitem:a7b4ba1e0d2829249afb2922f385016b3"><td class="memItemLeft" align="right" valign="top">std::string const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4c/a05926.html#a7b4ba1e0d2829249afb2922f385016b3">_msg</a></td></tr>
-<tr class="separator:a7b4ba1e0d2829249afb2922f385016b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:adf322db48064fcf4528f713f857f1b40"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/db7/a05798.html">MySQLConnection</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4c/a05926.html#adf322db48064fcf4528f713f857f1b40">m_conn</a> {nullptr}</td></tr>
+<tr class="separator:adf322db48064fcf4528f713f857f1b40"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-methods" name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a91b34b81ed99ca0da54d825fec98ab6e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4c/a05926.html#a91b34b81ed99ca0da54d825fec98ab6e">SQLOperation</a> (<a class="el" href="../../de/d4c/a05926.html">SQLOperation</a> const &amp;right)=delete</td></tr>
+<tr class="separator:a91b34b81ed99ca0da54d825fec98ab6e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac31349ed45ea051540ac345bd4b814d5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../de/d4c/a05926.html">SQLOperation</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d4c/a05926.html#ac31349ed45ea051540ac345bd4b814d5">operator=</a> (<a class="el" href="../../de/d4c/a05926.html">SQLOperation</a> const &amp;right)=delete</td></tr>
+<tr class="separator:ac31349ed45ea051540ac345bd4b814d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ace39ae1801ac7dcd055bcdce2411866e" name="ace39ae1801ac7dcd055bcdce2411866e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ace39ae1801ac7dcd055bcdce2411866e">&#9670;&#160;</a></span>UpdateException()</h2>
+<a id="a0f69657715b7d24458227b22a3b40b1a" name="a0f69657715b7d24458227b22a3b40b1a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0f69657715b7d24458227b22a3b40b1a">&#9670;&#160;</a></span>SQLOperation() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -146,59 +166,75 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">UpdateException::UpdateException </td>
-          <td>(</td>
-          <td class="paramtype">std::string const &amp;&#160;</td>
-          <td class="paramname"><em>msg</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   41</span>: <a class="code hl_variable" href="../../de/d4c/a05926.html#a7b4ba1e0d2829249afb2922f385016b3">_msg</a>(msg) { }</div>
-<div class="ttc" id="aa05926_html_a7b4ba1e0d2829249afb2922f385016b3"><div class="ttname"><a href="../../de/d4c/a05926.html#a7b4ba1e0d2829249afb2922f385016b3">UpdateException::_msg</a></div><div class="ttdeci">std::string const _msg</div><div class="ttdef"><b>Definition:</b> DBUpdater.h:47</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<a id="a38e016e210bf287d2adc21811497c95c" name="a38e016e210bf287d2adc21811497c95c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a38e016e210bf287d2adc21811497c95c">&#9670;&#160;</a></span>~UpdateException()</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">UpdateException::~UpdateException </td>
+          <td class="memname">SQLOperation::SQLOperation </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">default</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="afa21cafba57dd35ed2b132ef3d18c71b" name="afa21cafba57dd35ed2b132ef3d18c71b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afa21cafba57dd35ed2b132ef3d18c71b">&#9670;&#160;</a></span>~SQLOperation()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
         <tr>
-          <td align="right">throw </td><td>(</td><td colspan="2"></td>
-        </tr>
-        <tr>
-          <td align="right"></td><td>)</td><td></td><td></td>
+          <td class="memname">virtual SQLOperation::~SQLOperation </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+<span class="mlabels"><span class="mlabel">virtual</span><span class="mlabel">default</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   42</span>{ }</div>
-</div><!-- fragment -->
+
+</div>
+</div>
+<a id="a91b34b81ed99ca0da54d825fec98ab6e" name="a91b34b81ed99ca0da54d825fec98ab6e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a91b34b81ed99ca0da54d825fec98ab6e">&#9670;&#160;</a></span>SQLOperation() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">SQLOperation::SQLOperation </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d4c/a05926.html">SQLOperation</a> const &amp;&#160;</td>
+          <td class="paramname"><em>right</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">delete</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="ab7bc552819bf9620dd670fb5a627b2dd" name="ab7bc552819bf9620dd670fb5a627b2dd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab7bc552819bf9620dd670fb5a627b2dd">&#9670;&#160;</a></span>what()</h2>
+<a id="ae56c06a313c4be5d0e45f5481996f1d1" name="ae56c06a313c4be5d0e45f5481996f1d1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae56c06a313c4be5d0e45f5481996f1d1">&#9670;&#160;</a></span>call()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -207,48 +243,125 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">char const  * UpdateException::what </td>
+          <td class="memname">virtual int SQLOperation::call </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
-          <td> const</td>
-        </tr>
-        <tr>
-          <td align="right">throw </td><td>(</td><td colspan="2"></td>
-        </tr>
-        <tr>
-          <td align="right"></td><td>)</td><td></td><td></td>
+          <td></td>
         </tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">override</span></span>  </td>
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   44</span>{ <span class="keywordflow">return</span> <a class="code hl_variable" href="../../de/d4c/a05926.html#a7b4ba1e0d2829249afb2922f385016b3">_msg</a>.c_str(); }</div>
+<div class="fragment"><div class="line"><span class="lineno">   48</span>    {</div>
+<div class="line"><span class="lineno">   49</span>        <a class="code hl_function" href="../../de/d4c/a05926.html#aff1090554bc4a6fe7a33270e63416e19">Execute</a>();</div>
+<div class="line"><span class="lineno">   50</span>        <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">   51</span>    }</div>
+<div class="ttc" id="aa05926_html_aff1090554bc4a6fe7a33270e63416e19"><div class="ttname"><a href="../../de/d4c/a05926.html#aff1090554bc4a6fe7a33270e63416e19">SQLOperation::Execute</a></div><div class="ttdeci">virtual bool Execute()=0</div></div>
 </div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00034">DatabaseWorker::WorkerThread()</a>.</p>
+
+</div>
+</div>
+<a id="aff1090554bc4a6fe7a33270e63416e19" name="aff1090554bc4a6fe7a33270e63416e19"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aff1090554bc4a6fe7a33270e63416e19">&#9670;&#160;</a></span>Execute()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual bool SQLOperation::Execute </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">pure virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Implemented in <a class="el" href="../../d3/de0/a05738.html#a7f500736cc0ec4cddf94510927989d4d">BasicStatementTask</a>, <a class="el" href="../../d7/dce/a05766.html#a90b33b3679699a6a20fcd1e61ed7f737">PingOperation</a>, <a class="el" href="../../d7/de5/a05878.html#ad4058410f5eba4f0f935696d38ba85ab">PreparedStatementTask</a>, <a class="el" href="../../d7/de6/a05902.html#a1dc2cdfee574ecbb8fd7bc595ca2f170">SQLQueryHolderTask</a>, <a class="el" href="../../da/d76/a05934.html#aa1c1df059d15fe2077ceea5cfb51ba22">TransactionTask</a>, and <a class="el" href="../../dc/d8f/a05938.html#a2a05fb2aa69032797f2065cb46fe7dc4">TransactionWithResultTask</a>.</p>
+
+</div>
+</div>
+<a id="ac31349ed45ea051540ac345bd4b814d5" name="ac31349ed45ea051540ac345bd4b814d5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac31349ed45ea051540ac345bd4b814d5">&#9670;&#160;</a></span>operator=()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../de/d4c/a05926.html">SQLOperation</a> &amp; SQLOperation::operator= </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d4c/a05926.html">SQLOperation</a> const &amp;&#160;</td>
+          <td class="paramname"><em>right</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span><span class="mlabel">delete</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a52cbd1d9b8a298ab3eade0010b5e3166" name="a52cbd1d9b8a298ab3eade0010b5e3166"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a52cbd1d9b8a298ab3eade0010b5e3166">&#9670;&#160;</a></span>SetConnection()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual void SQLOperation::SetConnection </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/db7/a05798.html">MySQLConnection</a> *&#160;</td>
+          <td class="paramname"><em>con</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">virtual</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   54</span>{ <a class="code hl_variable" href="../../de/d4c/a05926.html#adf322db48064fcf4528f713f857f1b40">m_conn</a> = con; }</div>
+<div class="ttc" id="aa05926_html_adf322db48064fcf4528f713f857f1b40"><div class="ttname"><a href="../../de/d4c/a05926.html#adf322db48064fcf4528f713f857f1b40">SQLOperation::m_conn</a></div><div class="ttdeci">MySQLConnection * m_conn</div><div class="ttdef"><b>Definition:</b> SQLOperation.h:56</div></div>
+</div><!-- fragment -->
+<p class="reference">Referenced by <a class="el" href="../../#l00034">DatabaseWorker::WorkerThread()</a>.</p>
+
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a7b4ba1e0d2829249afb2922f385016b3" name="a7b4ba1e0d2829249afb2922f385016b3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7b4ba1e0d2829249afb2922f385016b3">&#9670;&#160;</a></span>_msg</h2>
+<a id="adf322db48064fcf4528f713f857f1b40" name="adf322db48064fcf4528f713f857f1b40"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adf322db48064fcf4528f713f857f1b40">&#9670;&#160;</a></span>m_conn</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::string const UpdateException::_msg</td>
+          <td class="memname"><a class="el" href="../../d5/db7/a05798.html">MySQLConnection</a>* SQLOperation::m_conn {nullptr}</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00039">BasicStatementTask::Execute()</a>, <a class="el" href="../../#l00047">PingOperation::Execute()</a>, <a class="el" href="../../#l00084">PreparedStatementTask::Execute()</a>, <a class="el" href="../../#l00077">SQLQueryHolderTask::Execute()</a>, and <a class="el" href="../../#l00131">TransactionTask::TryExecute()</a>.</p>
 
 </div>
 </div>
@@ -257,8 +370,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../de/d4c/a05926.html">UpdateException</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:46:15 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../de/d4c/a05926.html">SQLOperation</a></li>
+    <li class="footer">Generated on Mon Dec 1 2025 20:48:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

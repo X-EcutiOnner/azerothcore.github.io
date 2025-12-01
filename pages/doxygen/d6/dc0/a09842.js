@@ -1,8 +1,8 @@
 var a09842 =
 [
-    [ "PositionFullTerrainStatus", "d6/dc0/a09842.html#ae0349ed89530b35af91b7b1862acaffe", null ],
-    [ "areaId", "d6/dc0/a09842.html#ac04966fa31b30f341a937906223463d4", null ],
-    [ "floorZ", "d6/dc0/a09842.html#abbd186ca681e532d567b5a221a62c02b", null ],
-    [ "liquidInfo", "d6/dc0/a09842.html#ac96230ad8521342ec97cf4f94013d0b4", null ],
-    [ "outdoors", "d6/dc0/a09842.html#ae531eb0a4abc029f82d699c98d6aa565", null ]
+    [ "BoundaryUnionBoundary", "d6/dc0/a09842.html#a074536112fffc805dec44bd9cd602642", null ],
+    [ "~BoundaryUnionBoundary", "d6/dc0/a09842.html#a96450fc020bfad7b9f1f7be64490ad46", null ],
+    [ "IsWithinBoundaryArea", "d6/dc0/a09842.html#a8dc91861fa6641008236e5a83030e0d1", null ],
+    [ "_b1", "d6/dc0/a09842.html#a40fcd847f38703dfe5174267fbfd81ee", null ],
+    [ "_b2", "d6/dc0/a09842.html#ae70530673803bd2ee85bf722fe42718b", null ]
 ];

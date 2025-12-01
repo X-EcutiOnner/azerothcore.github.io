@@ -1,6 +1,6 @@
 var a22326 =
 [
-    [ "ChangeSummonPos", "d9/d66/a22326.html#aeb2cf0a5d2e563e4983ddd237a2b1001", null ],
-    [ "PrepareSpellScript", "d9/d66/a22326.html#a1654fec971696e613b5102b3ca5030f1", null ],
-    [ "Register", "d9/d66/a22326.html#ab1e7d44914952dfb7f7ccf2de4da286f", null ]
+    [ "HandleHealPct", "d9/d66/a22326.html#aa297ef88b58849610b1b3bfdb0142eab", null ],
+    [ "PrepareSpellScript", "d9/d66/a22326.html#a902b733a4b106439c49f8c80de8e9bf3", null ],
+    [ "Register", "d9/d66/a22326.html#a52f253d2a3b9b3890020107b7722ad96", null ]
 ];

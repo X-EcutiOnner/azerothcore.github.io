@@ -1,13 +1,12 @@
 var a23706 =
 [
-    [ "boss_olm_the_summoner", "d6/d9f/a23706.html#aa8fe3804d4e2a1a1150975f5e9832ce6", null ],
-    [ "AttackStart", "d6/d9f/a23706.html#a334ab95cfc3320db1a568bcb5a1d9542", null ],
-    [ "JustDied", "d6/d9f/a23706.html#a07cde4fc7bc882db40b51426dc40ab93", null ],
-    [ "JustEngagedWith", "d6/d9f/a23706.html#a68db779bb7ffffa7621caedd7f52d93f", null ],
-    [ "JustSummoned", "d6/d9f/a23706.html#a546bede780b7d67b98ec251ae2e1b812", null ],
-    [ "Reset", "d6/d9f/a23706.html#a8dcdc816276a1932612d554cff703a45", null ],
-    [ "UpdateAI", "d6/d9f/a23706.html#a967f330966fdb29f26ab24e8f40d2152", null ],
-    [ "_scheduler", "d6/d9f/a23706.html#a448ba3a88156e80eebad44585791ab21", null ],
-    [ "instance", "d6/d9f/a23706.html#a8caabc31bb7a8548eb936c34c655df68", null ],
-    [ "summons", "d6/d9f/a23706.html#ae9187928c74fa1cfafaea4df25a55e41", null ]
+    [ "boss_omor_the_unscarred", "d6/d9f/a23706.html#aeef6af0274425d9af5b5ada0d6aa7a2b", null ],
+    [ "JustDied", "d6/d9f/a23706.html#a9ddae483a0f8cefd8a19975b60002660", null ],
+    [ "JustEngagedWith", "d6/d9f/a23706.html#aa874d266d9a5ced45ea2ceb750370b1a", null ],
+    [ "JustSummoned", "d6/d9f/a23706.html#a3503f9d13a5191c71013d77b79a8a4a3", null ],
+    [ "KilledUnit", "d6/d9f/a23706.html#afc5c12a69d51638b67fcdf8098ff7da6", null ],
+    [ "Reset", "d6/d9f/a23706.html#a0ec22c50cd096677a20299ab45a3c344", null ],
+    [ "UpdateAI", "d6/d9f/a23706.html#aeb478325ea00f996b4c3c1584fe3965d", null ],
+    [ "_hasSpoken", "d6/d9f/a23706.html#a3fe7684742f783cb1e68fcc7cfc0de7a", null ],
+    [ "_targetGUID", "d6/d9f/a23706.html#a5ea9161b949e99f0a61498ed05d66d27", null ]
 ];

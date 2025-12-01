@@ -1,7 +1,6 @@
 var a13894 =
 [
-    [ "o", "df/ded/a13894.html#a455ab33d372dd2aeac9d591f3cce1013", null ],
-    [ "x", "df/ded/a13894.html#a49ad07d6ecb902ae4818923a6414f3c1", null ],
-    [ "y", "df/ded/a13894.html#a45ec9c234e9d909eb8fcc0db6e0d641e", null ],
-    [ "z", "df/ded/a13894.html#abf42d988d416ebe409100c4b860d26db", null ]
+    [ "npc_highborne_lamenterAI", "dc/d07/a13898.html", "dc/d07/a13898" ],
+    [ "npc_highborne_lamenter", "df/ded/a13894.html#a40316cf73a688e34e95dd41feef8612a", null ],
+    [ "GetAI", "df/ded/a13894.html#aad8ccb43b325b797f60a16e338458a1e", null ]
 ];

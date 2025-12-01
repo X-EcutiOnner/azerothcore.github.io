@@ -1,17 +1,15 @@
 var a24426 =
 [
-    [ "npc_torloth_the_magnificentAI", "d9/d88/a24426.html#ad34b85c80ebfb2332709c7ee21c053b7", null ],
-    [ "HandleAnimation", "d9/d88/a24426.html#ab69f481e3871e5ce803ab1f389a2385c", null ],
-    [ "JustDied", "d9/d88/a24426.html#aef9d2bcc04b8c1a54bf59f4744eba3ae", null ],
-    [ "JustEngagedWith", "d9/d88/a24426.html#abf3fc3538e82fceaa916d4e217d6f9fd", null ],
-    [ "Reset", "d9/d88/a24426.html#aa7944f80bb6718a65a07128be830ed94", null ],
-    [ "UpdateAI", "d9/d88/a24426.html#ad5f7769462aa39fabb7ec5e79670cda1", null ],
-    [ "AggroTargetGUID", "d9/d88/a24426.html#a826ecad9e9a06050a3ebc0861bf52c1e", null ],
-    [ "AnimationCount", "d9/d88/a24426.html#afbe712b9e3dfe97417e1e621f4eff113", null ],
-    [ "AnimationTimer", "d9/d88/a24426.html#a2485ad15002946c0c5b2ebce65221629", null ],
-    [ "LordIllidanGUID", "d9/d88/a24426.html#ad135529fe083af2ce3e79823213d2735", null ],
-    [ "SpellTimer1", "d9/d88/a24426.html#a991868074e39e2a4d06c37afc642a756", null ],
-    [ "SpellTimer2", "d9/d88/a24426.html#a7da30509a017de1392cc3ba181a0dc53", null ],
-    [ "SpellTimer3", "d9/d88/a24426.html#a0caf2b2d48c78b2eb032ff73168e2556", null ],
-    [ "Timers", "d9/d88/a24426.html#a0eb0c24aff4cdab76d234ba17dbc4b5b", null ]
+    [ "dragonmaw_race_npc", "d9/d88/a24426.html#ad93bcd14a4fd05c9e8a1aee4dd53d4aa", null ],
+    [ "FailQuest", "d9/d88/a24426.html#a15a1223f9dc5d3979485a753687f169e", null ],
+    [ "FinishRace", "d9/d88/a24426.html#a2439f54aca4ff28c23d351245099a4fc", null ],
+    [ "MovementInform", "d9/d88/a24426.html#ad0b4ef357605a44a4188c29292303dcf", null ],
+    [ "PathEndReached", "d9/d88/a24426.html#a6b93a5fb6beb8e8b886f6bf8bb58d3d2", null ],
+    [ "Reset", "d9/d88/a24426.html#a0edde2bdb8d4d2204551ebc7a7c41fe9", null ],
+    [ "sQuestAccept", "d9/d88/a24426.html#a539fcaf1dc25a34531d032032c19182e", null ],
+    [ "StartRace", "d9/d88/a24426.html#ac7d20cb0f2a997d2306195da5c9004e8", null ],
+    [ "StartRaceAttacks", "d9/d88/a24426.html#a341528843b89a29711f60a1b932da616", null ],
+    [ "TakeOff", "d9/d88/a24426.html#a8b14aeb1e67059a159f42aad578ccbfb", null ],
+    [ "UpdateAI", "d9/d88/a24426.html#a5d84467b3fa0c3eefcf7054d0dde472c", null ],
+    [ "_playerGUID", "d9/d88/a24426.html#a8a172511afed700d5c0fa1d5de4cb379", null ]
 ];

@@ -1,11 +1,7 @@
 var a21114 =
 [
-    [ "boss_yoggsaron_neltharionAI", "d9/db1/a21114.html#aacefe32de32513bdf46c0dd526768e25", null ],
-    [ "NextStep", "d9/db1/a21114.html#a4770948240ac56ec151c262c8996e4e4", null ],
-    [ "Reset", "d9/db1/a21114.html#a03841acfd21e920bc6589203448709a0", null ],
-    [ "Say", "d9/db1/a21114.html#ae45f051ab64ce1f96f32e5b8d073356e", null ],
-    [ "UpdateAI", "d9/db1/a21114.html#a80c174a8ffa15550627ed27ab0d8925d", null ],
-    [ "_checkTimer", "d9/db1/a21114.html#a7eef651198e09cf25c2f039bcb4a1876", null ],
-    [ "_running", "d9/db1/a21114.html#a6b2f01ed2ffe8113cbddd4a033886059", null ],
-    [ "_step", "d9/db1/a21114.html#a0ac37717e940b094d322a7e492202718", null ]
+    [ "FilterTargets", "d9/db1/a21114.html#a4e27a01b87e6f003ed52da45a4bda403", null ],
+    [ "HandleDummyEffect", "d9/db1/a21114.html#abfe7ff12346d54fe3a0c1450897e58ee", null ],
+    [ "PrepareSpellScript", "d9/db1/a21114.html#a0c31912e28eaa5922edb1ca4c7689883", null ],
+    [ "Register", "d9/db1/a21114.html#a337cdb940a2001ac370768b02126d3c0", null ]
 ];

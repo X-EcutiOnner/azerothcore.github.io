@@ -1,5 +1,6 @@
 var a20986 =
 [
-    [ "achievement_xt002_nerf_gravity_bombs", "dd/d92/a20986.html#a9c6471da08acb7a0543d7cc07784dd85", null ],
-    [ "OnCheck", "dd/d92/a20986.html#a03f61470694399ab32aea354cd697771", null ]
+    [ "boss_yoggsaronAI", "de/d13/a20990.html", "de/d13/a20990" ],
+    [ "boss_yoggsaron", "dd/d92/a20986.html#a3fa3ada3979b55100b8ca9e21ec655a1", null ],
+    [ "GetAI", "dd/d92/a20986.html#a113eb034acc46a2edd4a84598413a63e", null ]
 ];

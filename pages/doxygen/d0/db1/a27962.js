@@ -1,6 +1,5 @@
 var a27962 =
 [
-    [ "CheckCast", "d0/db1/a27962.html#a477dc7a1b91ec0d9c45f249b7b3971ab", null ],
-    [ "PrepareSpellScript", "d0/db1/a27962.html#aa3c18907c79309a8924a98bce41e27f1", null ],
-    [ "Register", "d0/db1/a27962.html#a6eac0b63b0b566b5cba5def85748ace3", null ]
+    [ "go_transport_the_thundercaller", "d0/db1/a27962.html#a79d5ed60a112c5f352f9f0b94f9f3a17", null ],
+    [ "EventInform", "d0/db1/a27962.html#ad2e981ff6223ec2cbd8a897485a61204", null ]
 ];

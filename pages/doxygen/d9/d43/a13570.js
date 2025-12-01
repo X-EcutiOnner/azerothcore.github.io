@@ -1,7 +1,6 @@
 var a13570 =
 [
-    [ "HandleScriptEffect", "d9/d43/a13570.html#ae631c634c77cc207338e3549a664969b", null ],
-    [ "PrepareSpellScript", "d9/d43/a13570.html#ac9f825f10512be5849c46460e9cdbec8", null ],
-    [ "Register", "d9/d43/a13570.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
-    [ "Validate", "d9/d43/a13570.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
+    [ "HandlePeriodic", "d9/d43/a13570.html#aec1ff41f0051a6c6dfbd11ea7741b1af", null ],
+    [ "PrepareAuraScript", "d9/d43/a13570.html#a7ac99d626990f068a00f403847bfa6bc", null ],
+    [ "Register", "d9/d43/a13570.html#ad3c0a2c270d1b8c31761674f89500b8a", null ]
 ];

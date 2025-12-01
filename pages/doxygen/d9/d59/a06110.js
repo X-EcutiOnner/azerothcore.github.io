@@ -1,8 +1,9 @@
 var a06110 =
 [
-    [ "ArcherAI", "d9/d59/a06110.html#a113c138958054716182c15ee9f2b47da", null ],
-    [ "AttackStart", "d9/d59/a06110.html#adc79f7ead63ecaf8fed9ea4f81d27f76", null ],
-    [ "Permissible", "d9/d59/a06110.html#ac5b3d144b0d71a5e527d53f33c3d31cc", null ],
-    [ "UpdateAI", "d9/d59/a06110.html#aa6e072e239549d337de61670a05eb6f8", null ],
-    [ "m_minRange", "d9/d59/a06110.html#ab449efcd81769888ff8d8bc5f348cbe7", null ]
+    [ "AddonInfo", "d9/d59/a06110.html#a60ea66ed93b64c9e182226954a514f53", null ],
+    [ "CRC", "d9/d59/a06110.html#a7f0f2d817a2189b3acee5999f154ba60", null ],
+    [ "Enabled", "d9/d59/a06110.html#ace9f109c395ed84cc01ca4381222c25b", null ],
+    [ "Name", "d9/d59/a06110.html#a45692257c72286e670ab8c9c50014335", null ],
+    [ "State", "d9/d59/a06110.html#a5301b19e44d68540434574f023e62f46", null ],
+    [ "UsePublicKeyOrCRC", "d9/d59/a06110.html#a75e016fa7abee24757c89b97330a6192", null ]
 ];

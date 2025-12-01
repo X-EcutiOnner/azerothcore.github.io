@@ -1,6 +1,12 @@
 var a19950 =
 [
-    [ "PrepareSpellScript", "db/dcd/a19950.html#af280f3880e2e567188ba8ca3e45c00c0", null ],
-    [ "RecalculateDamage", "db/dcd/a19950.html#a54c26d24f62c36108f9fceb7a0c53e37", null ],
-    [ "Register", "db/dcd/a19950.html#aac131aa2d2e5342cf0303b918a077b45", null ]
+    [ "npc_assembly_lightningAI", "db/dcd/a19950.html#a4b778b6545e7c93e66a07160db793651", null ],
+    [ "AttackStart", "db/dcd/a19950.html#afd4657e8c6a2eb39346e99cb54a7ab1a", null ],
+    [ "EnterEvadeMode", "db/dcd/a19950.html#a4c0bb838053412a3945648ed1a5a13b9", null ],
+    [ "MoveInLineOfSight", "db/dcd/a19950.html#a077f788e67cdb67683ac13f3a3d1322b", null ],
+    [ "MovementInform", "db/dcd/a19950.html#a95227f93c5ac6871bfcea603ebb2188d", null ],
+    [ "OnCharmed", "db/dcd/a19950.html#aa08e4c286723c76251bd75aa54b24f5f", null ],
+    [ "Reset", "db/dcd/a19950.html#a1f03885bfd91d9b9cdde1d90b51d2c96", null ],
+    [ "UpdateAI", "db/dcd/a19950.html#a94edd1ea5278bd5ca8d5d64619e9c8b4", null ],
+    [ "_boomed", "db/dcd/a19950.html#aa6b4a46674a7d4106a49ef308ec27b9e", null ]
 ];

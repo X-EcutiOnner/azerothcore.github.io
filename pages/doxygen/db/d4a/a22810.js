@@ -1,12 +1,8 @@
 var a22810 =
 [
-    [ "npc_stolen_soul", "db/d4a/a22810.html#a84a0bb8320b2332545748e010d855884", null ],
-    [ "DoAction", "db/d4a/a22810.html#abcfed6b9b46ce48a15b31d062a1618f4", null ],
-    [ "JustDied", "db/d4a/a22810.html#a6a1d6da5a448fd4b8910835d3a346e3a", null ],
-    [ "Reset", "db/d4a/a22810.html#a9f18ffbb42c988067b6dfa8355a4aba6", null ],
-    [ "SetGUID", "db/d4a/a22810.html#a0779fa3688118d2f9e1fdd4c6cf600f5", null ],
-    [ "UpdateAI", "db/d4a/a22810.html#a7bf369dd943ee36600a364d56b85db5a", null ],
-    [ "_myClass", "db/d4a/a22810.html#ade19b9cb41a674f6bd049a621970aeff", null ],
-    [ "_scheduler", "db/d4a/a22810.html#ab62526916f0ccd681383d37d19d94ccc", null ],
-    [ "_targetGuid", "db/d4a/a22810.html#a6efbe90928119902e4b5a7148b12cfac", null ]
+    [ "boss_darkweaver_syth", "db/d4a/a22810.html#a4f719165e07206c5a378412b3f82ff86", null ],
+    [ "JustDied", "db/d4a/a22810.html#adf7e44e3fdc7241baa5f9eddafcb6d40", null ],
+    [ "JustEngagedWith", "db/d4a/a22810.html#aaf6dab75e66734e930c5732749f3d69a", null ],
+    [ "KilledUnit", "db/d4a/a22810.html#a1904c2596dd455f84625974beec4a2c8", null ],
+    [ "Reset", "db/d4a/a22810.html#a484a6dea12ca9e5a20f0a0761461c1f5", null ]
 ];

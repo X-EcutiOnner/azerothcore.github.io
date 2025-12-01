@@ -1,7 +1,6 @@
 var a13918 =
 [
-    [ "boss_blight_wormAI", "d2/d8d/a13918.html#af267e395fbd539f871e498dc6745c610", null ],
-    [ "Reset", "d2/d8d/a13918.html#a96e27eaba5c9e422981d78123ed9c83d", null ],
-    [ "UpdateAI", "d2/d8d/a13918.html#ac8e4c5a7a251173a2afb369498c88a1d", null ],
-    [ "_events", "d2/d8d/a13918.html#a65f7fd4f73c727eeb5988d7ec77b94ce", null ]
+    [ "npc_jaina_proudmoore_bfuAI", "d2/d0f/a13922.html", "d2/d0f/a13922" ],
+    [ "npc_jaina_proudmoore_bfu", "d2/d8d/a13918.html#af96c4fac318f44cf6e70817b6960999f", null ],
+    [ "GetAI", "d2/d8d/a13918.html#a4ed6349a5ebdd90053f9d67d24ab6991", null ]
 ];

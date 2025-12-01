@@ -1,6 +1,7 @@
 var a13998 =
 [
-    [ "cooldown", "d8/da5/a13998.html#aaf4772a0ac55280355e61d8c50198b3f", null ],
-    [ "spell", "d8/da5/a13998.html#a00ee3238030686e1cc66562f7cefb27a", null ],
-    [ "target", "d8/da5/a13998.html#a16e54dbd059baac1b6e7229621339d83", null ]
+    [ "Load", "d8/da5/a13998.html#a9888c598c4d6cf77c49e15f68c3db225", null ],
+    [ "OnRemove", "d8/da5/a13998.html#ad4044dcd8c88eba88d032a96ca79dc4c", null ],
+    [ "PrepareAuraScript", "d8/da5/a13998.html#a07abb27367cc0a59bdf60a30dfb7cfb0", null ],
+    [ "Register", "d8/da5/a13998.html#ac2db8f8d9b778a0a36081c897f4149cb", null ]
 ];

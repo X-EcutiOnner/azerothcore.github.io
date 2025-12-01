@@ -1,7 +1,7 @@
 var a13586 =
 [
-    [ "FilterTargets", "df/dbc/a13586.html#ae945b657d0fbee4d5ee5d6e7d15ef39b", null ],
-    [ "HandleHit", "df/dbc/a13586.html#a7e28d5d89f1e622f308e1a1bf7d5dae9", null ],
-    [ "PrepareSpellScript", "df/dbc/a13586.html#a905e1f979284a368463ad4829891b6ee", null ],
-    [ "Register", "df/dbc/a13586.html#a6b0d2fc316bef6af20199b15795b00b4", null ]
+    [ "HandleRemove", "df/dbc/a13586.html#a4484cf33e423f23cad9559a6a16ed9b4", null ],
+    [ "PrepareAuraScript", "df/dbc/a13586.html#a6fa407996b59d98d0eeef877ee89784d", null ],
+    [ "Register", "df/dbc/a13586.html#a7dc81b47954ee8c10b99f389740de0be", null ],
+    [ "Validate", "df/dbc/a13586.html#afd94a159c0f429f2a63ffbd0a38d32e3", null ]
 ];

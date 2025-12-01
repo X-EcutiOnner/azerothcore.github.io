@@ -1,11 +1,11 @@
 var a03800 =
 [
-    [ "boss_brutallus", "dc/df1/a13416.html", "dc/df1/a13416" ],
-    [ "npc_madrigosa", "d0/de5/a13420.html", "d0/de5/a13420" ],
-    [ "spell_madrigosa_activate_barrier", "d5/d12/a13424.html", "d5/d12/a13424" ],
-    [ "spell_madrigosa_deactivate_barrier", "d3/d47/a13428.html", "d3/d47/a13428" ],
-    [ "spell_brutallus_burn", "df/d95/a13432.html", "df/d95/a13432" ],
-    [ "at_sunwell_madrigosa", "da/d04/a13436.html", "da/d04/a13436" ],
+    [ "boss_brutallus", "d6/da6/a13422.html", "d6/da6/a13422" ],
+    [ "npc_madrigosa", "d2/dbe/a13426.html", "d2/dbe/a13426" ],
+    [ "spell_madrigosa_activate_barrier", "df/d01/a13430.html", "df/d01/a13430" ],
+    [ "spell_madrigosa_deactivate_barrier", "d9/dae/a13434.html", "d9/dae/a13434" ],
+    [ "spell_brutallus_burn", "d3/d87/a13438.html", "d3/d87/a13438" ],
+    [ "at_sunwell_madrigosa", "df/d28/a13442.html", "df/d28/a13442" ],
     [ "eMadrigosa", "dd/dbc/a03800.html#a9c013fd339fb1c6ec76dc9784b1fd77c", [
       [ "EVENT_MAD_1", "dd/dbc/a03800.html#a9c013fd339fb1c6ec76dc9784b1fd77ca8adbf4ce28357322d3e36e80ac8abe2b", null ],
       [ "EVENT_MAD_2", "dd/dbc/a03800.html#a9c013fd339fb1c6ec76dc9784b1fd77ca0f9096979814eadf4a111ed1d7e4fc5f", null ],
@@ -298,7 +298,8 @@ var a03800 =
       [ "EVENT_ECK_BITE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a25fd4fd9c83fea5e757a20aeb8f03aee", null ],
       [ "EVENT_ECK_SPIT", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6add7ba9bf01f5f04dac1d93a997b57af2", null ],
       [ "EVENT_ECK_SPRING", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6c3f22fd6aa63e5bf101019792a4b483", null ],
-      [ "EVENT_ECK_HEALTH", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f0a1bde1d1f47b6f7e45f621a57b6c1", null ],
+      [ "EVENT_ECK_CRAZED_EMOTE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6eeac32439bad23ef93cf41b4526d55d", null ],
+      [ "EMOTE_CRAZED", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2628cfc3f39065948404f522308c931f", null ],
       [ "NPC_SLADRAN_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08dc37f063f5d70a3893765939f63a82", null ],
       [ "NPC_SLADRAN_CONSTRICTORS", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a52bf6fd6ef6437b9a4e88616b7f1d91b", null ],
       [ "MAX_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1e3f12d08f9d4880b8263386a54d21c8", null ],

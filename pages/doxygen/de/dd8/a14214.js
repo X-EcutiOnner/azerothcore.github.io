@@ -1,9 +1,10 @@
 var a14214 =
 [
-    [ "boss_jindo", "de/dd8/a14214.html#a9aafe0282e0b5de90ce62b3f8b3cfb14", null ],
-    [ "EnterEvadeMode", "de/dd8/a14214.html#a8b80f12d0b9b8e9c7aa7ec46fbb71500", null ],
-    [ "JustEngagedWith", "de/dd8/a14214.html#a7f612a1e5033c5097856222cee41f2af", null ],
-    [ "JustSummoned", "de/dd8/a14214.html#ac7382289d174ec70703b76dc4e451d39", null ],
-    [ "UpdateAI", "de/dd8/a14214.html#aad8885f79fc527954102fc1b78ca8ad7", null ],
-    [ "_scheduler", "de/dd8/a14214.html#a7ddbdc4d85936fd54fced20ff31e91cd", null ]
+    [ "boss_jeklik", "de/dd8/a14214.html#a826bdba66fee3bb82b64ca6174b66c44", null ],
+    [ "EnterEvadeMode", "de/dd8/a14214.html#a70dc363e0690e72846db5f779375edc1", null ],
+    [ "JustDied", "de/dd8/a14214.html#ae648ba9ff49f4970612a8c3351789b66", null ],
+    [ "JustEngagedWith", "de/dd8/a14214.html#aeb57cfc66104f6e2b2e36b6551207dd8", null ],
+    [ "PathEndReached", "de/dd8/a14214.html#a689e8f91361de45e6f885fea0dec900a", null ],
+    [ "Reset", "de/dd8/a14214.html#a7959106123e60e3584b32b50a272746c", null ],
+    [ "batRidersCount", "de/dd8/a14214.html#a3d81395ec4518d4e2ca7f273fc658395", null ]
 ];

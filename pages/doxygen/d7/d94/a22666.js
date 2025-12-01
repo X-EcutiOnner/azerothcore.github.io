@@ -1,6 +1,5 @@
 var a22666 =
 [
-    [ "npc_captured_rageclawAI", "d7/d94/a22666.html#a5bb483a323330b0895f87c5381d73314", null ],
-    [ "Reset", "d7/d94/a22666.html#a9cde0a0e5015334ec8dcd277fcd99dc3", null ],
-    [ "SpellHit", "d7/d94/a22666.html#a2c63911d27435a2271a7c89d9d88318c", null ]
+    [ "OutdoorPvP_grizzly_hills", "d7/d94/a22666.html#aa020d8120c62874fb15b4623bbb714d9", null ],
+    [ "GetOutdoorPvP", "d7/d94/a22666.html#add8a0c81bcc55c7b382c25fa077b80ce", null ]
 ];

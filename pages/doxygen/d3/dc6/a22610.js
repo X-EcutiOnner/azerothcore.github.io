@@ -1,6 +1,6 @@
 var a22610 =
 [
-    [ "CheckCast", "d3/dc6/a22610.html#afde7c1e90f2faa9c587490ce358a59b2", null ],
-    [ "PrepareSpellScript", "d3/dc6/a22610.html#a5139e3e9cb1c9079798cefc3cb04d387", null ],
-    [ "Register", "d3/dc6/a22610.html#a01225e48eaf2a6dfe13da245725b0a64", null ]
+    [ "npc_captured_rageclawAI", "d3/dc6/a22610.html#a5bb483a323330b0895f87c5381d73314", null ],
+    [ "Reset", "d3/dc6/a22610.html#a9cde0a0e5015334ec8dcd277fcd99dc3", null ],
+    [ "SpellHit", "d3/dc6/a22610.html#a2c63911d27435a2271a7c89d9d88318c", null ]
 ];

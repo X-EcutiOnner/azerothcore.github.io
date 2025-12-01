@@ -1,11 +1,6 @@
 var a20066 =
 [
-    [ "boss_flame_leviathan_seatAI", "de/df4/a20066.html#ab830db7804ee9b9815e4ea3398a6d856", null ],
-    [ "AttackStart", "de/df4/a20066.html#a39efb927928e19a040144bab7dfa3ba2", null ],
-    [ "EnterEvadeMode", "de/df4/a20066.html#aeda2ad4d596c86aa5c19acb1c710cc9f", null ],
-    [ "PassengerBoarded", "de/df4/a20066.html#af4939f3daef8aae9a1eafe2020ab205e", null ],
-    [ "Reset", "de/df4/a20066.html#a1e134e9bb2b1048f69dc310a52be9473", null ],
-    [ "UpdateAI", "de/df4/a20066.html#a857b1e927ae6574e00e25a20a21d4427", null ],
-    [ "_despawnTimer", "de/df4/a20066.html#ac3d1d8f405a37d2344c5f4e34519e2cb", null ],
-    [ "vehicle", "de/df4/a20066.html#a9d0624a45613676a39def53b2a2fdce0", null ]
+    [ "npc_mimirons_infernoAI", "dc/dc1/a20070.html", "dc/dc1/a20070" ],
+    [ "npc_mimirons_inferno", "de/df4/a20066.html#a7a531a65a179b5d56c888c055b72d269", null ],
+    [ "GetAI", "de/df4/a20066.html#a69294c5e8f50727e5f1a6586a8a3682b", null ]
 ];

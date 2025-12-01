@@ -1,6 +1,6 @@
 var a16470 =
 [
-    [ "npc_black_knight_ghoulAI", "dc/d7b/a16474.html", "dc/d7b/a16474" ],
-    [ "npc_black_knight_ghoul", "d7/d57/a16470.html#a8e62b1070f0ed4e5b917fcaaeb2da8d0", null ],
-    [ "GetAI", "d7/d57/a16470.html#a52308f8d168e1ccea22de653813b7f6f", null ]
+    [ "HandleSpellHit", "d7/d57/a16470.html#a8c801b92f6e405668edae54989dd58e8", null ],
+    [ "PrepareSpellScript", "d7/d57/a16470.html#abae02a74f626b890f61df551318dcc81", null ],
+    [ "Register", "d7/d57/a16470.html#a2d5b57bbf51aadfc3eb56f8f756d04ef", null ]
 ];

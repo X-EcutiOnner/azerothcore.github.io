@@ -1,12 +1,8 @@
 var a11814 =
 [
-    [ "guild_commandscript", "df/d11/a11814.html#a4394d242740505ad128e4cebf4b617f0", null ],
-    [ "GetCommands", "df/d11/a11814.html#a6b0a700e7fa3251373c1405d245f6931", null ],
-    [ "HandleGuildCreateCommand", "df/d11/a11814.html#a2d2c2414b9b08a5d510fccd223b34a36", null ],
-    [ "HandleGuildDeleteCommand", "df/d11/a11814.html#a4bbef641c86de37611e7ff1c906b4048", null ],
-    [ "HandleGuildInfoCommand", "df/d11/a11814.html#adbe43a3a362608e37dd7d6652a83adfc", null ],
-    [ "HandleGuildInviteCommand", "df/d11/a11814.html#a67210b9845ca4475e6ab3d0d7cc0dbab", null ],
-    [ "HandleGuildRankCommand", "df/d11/a11814.html#adbea3b610c98354866fec52a43fedda0", null ],
-    [ "HandleGuildRenameCommand", "df/d11/a11814.html#ac946b4284c85e43b1ca29f69df9a8f27", null ],
-    [ "HandleGuildUninviteCommand", "df/d11/a11814.html#aa7b134de9c3632cc1e147064c9ffcb5f", null ]
+    [ "accountId", "df/d11/a11814.html#ad146b84be01ec07a5fee8184f0cc2da9", null ],
+    [ "accountName", "df/d11/a11814.html#a4849bd1f43fd15eea1991948abdc576d", null ],
+    [ "deleteDate", "df/d11/a11814.html#a65a101727094841d34e8775bb7504cba", null ],
+    [ "lowGuid", "df/d11/a11814.html#a11fd07e662184f750ac0a5e547a22437", null ],
+    [ "name", "df/d11/a11814.html#a0e85dce38305e222c5654315ed68bfc1", null ]
 ];

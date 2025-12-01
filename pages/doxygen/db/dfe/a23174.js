@@ -1,5 +1,7 @@
 var a23174 =
 [
-    [ "npc_ashtongue_sorcerer", "db/dfe/a23174.html#a0045af5cfbfcd2f26bcde2e2dffd04a6", null ],
-    [ "MovementInform", "db/dfe/a23174.html#a56fa93f83e8a536b13667c8f780961b7", null ]
+    [ "HandleOnHit", "db/dfe/a23174.html#a9f368396cef39ba3bd70480f11c44700", null ],
+    [ "PrepareSpellScript", "db/dfe/a23174.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
+    [ "Register", "db/dfe/a23174.html#a99f80adcebdd9726a8df51f99d415651", null ],
+    [ "Validate", "db/dfe/a23174.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
 ];

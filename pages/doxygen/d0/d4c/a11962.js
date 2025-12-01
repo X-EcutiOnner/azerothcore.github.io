@@ -1,17 +1,18 @@
 var a11962 =
 [
-    [ "boss_drektharAI", "d0/d4c/a11962.html#a4cd7f817b3dfe457cb330e73316e18d1", null ],
-    [ "AttackStart", "d0/d4c/a11962.html#a058d9683179756e49aa4e243d270105c", null ],
-    [ "EnterEvadeMode", "d0/d4c/a11962.html#a7f8677796d1b9dbe7021c056252278d3", null ],
-    [ "JustEngagedWith", "d0/d4c/a11962.html#aea7fad4bfdc14e5526a6620ee5d3ba2e", null ],
-    [ "JustRespawned", "d0/d4c/a11962.html#aef244c80a915eaf4c1e0ff1c1080b18a", null ],
-    [ "Reset", "d0/d4c/a11962.html#a87e1f67ae379360bc0843d7bb3cd0acb", null ],
-    [ "UpdateAI", "d0/d4c/a11962.html#a79f1f0430496d2a1759ded7cca5cdef3", null ],
-    [ "Attacked", "d0/d4c/a11962.html#a6a6b5b2b00e85231441f5a8a0213e5ec", null ],
-    [ "FrenzyTimer", "d0/d4c/a11962.html#afd2d5fc6b7091fb019048d32a8b3631e", null ],
-    [ "KnockdownTimer", "d0/d4c/a11962.html#a235912a2cb78bd10b6b3a45c51ee0cff", null ],
-    [ "ResetTimer", "d0/d4c/a11962.html#a7d7b0a8d19d540e998db3b6e189cc16d", null ],
-    [ "Whirlwind2Timer", "d0/d4c/a11962.html#a788359b7f2df1794dbff643d75b2c561", null ],
-    [ "WhirlwindTimer", "d0/d4c/a11962.html#aef399775e552d7e80224fbb0c2f62aff", null ],
-    [ "YellTimer", "d0/d4c/a11962.html#ad45ea624603c427fa5b3e40cd6ba7f5d", null ]
+    [ "server_commandscript", "d0/d4c/a11962.html#a61d8b3a9f967996b533e62e94fe4c8ca", null ],
+    [ "GetCommands", "d0/d4c/a11962.html#a850c21f1ece40c576d3bf622f1c3e18f", null ],
+    [ "HandleServerCorpsesCommand", "d0/d4c/a11962.html#a01ae63f31c7f03f6c0006fe4583a14a3", null ],
+    [ "HandleServerDebugCommand", "d0/d4c/a11962.html#ac78145cb5c0888449756e4dbb36c005f", null ],
+    [ "HandleServerExitCommand", "d0/d4c/a11962.html#ab894b36baa95de647fb329fce6eed8fb", null ],
+    [ "HandleServerIdleRestartCommand", "d0/d4c/a11962.html#ae18a92337d6cf8e62eafdf5f39d7b5a8", null ],
+    [ "HandleServerIdleShutDownCommand", "d0/d4c/a11962.html#aa431504b2755304c4263121a7a437ce4", null ],
+    [ "HandleServerInfoCommand", "d0/d4c/a11962.html#a6c63114c474f69621b013dbb57b47bf2", null ],
+    [ "HandleServerMotdCommand", "d0/d4c/a11962.html#aa10d866fcb8567fbc625d2a297a116a6", null ],
+    [ "HandleServerRestartCommand", "d0/d4c/a11962.html#a3ec7dd1f81f3b4b8adcb5f04f4d20f3f", null ],
+    [ "HandleServerSetClosedCommand", "d0/d4c/a11962.html#a2ba489469cdb3c8da944f7d6547ae462", null ],
+    [ "HandleServerSetLogLevelCommand", "d0/d4c/a11962.html#a1ce5627c1d948b5a5c86db54357de02a", null ],
+    [ "HandleServerSetMotdCommand", "d0/d4c/a11962.html#a8cf2076d5e5fa3b35fddba117cd990bb", null ],
+    [ "HandleServerShutDownCancelCommand", "d0/d4c/a11962.html#ae64357518538c1ce4d03a8d9968b4035", null ],
+    [ "HandleServerShutDownCommand", "d0/d4c/a11962.html#a514149a8d1dfc4513e0c71b69901767d", null ]
 ];

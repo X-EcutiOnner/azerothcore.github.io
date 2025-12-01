@@ -1,14 +1,14 @@
 var a11970 =
 [
-    [ "boss_galvangarAI", "db/d54/a11970.html#a34a0cacc52749bd1146fcb779d006b3b", null ],
-    [ "JustEngagedWith", "db/d54/a11970.html#ac1898cea6887fcfa182aa8a7a535c462", null ],
-    [ "JustRespawned", "db/d54/a11970.html#a92139ad3720ba662f87c0b55ac77dbeb", null ],
-    [ "Reset", "db/d54/a11970.html#a96e1a262f368ab0f6885e955133b7ae8", null ],
-    [ "UpdateAI", "db/d54/a11970.html#a2e5c7511cce7dd0ff27e13cda9807928", null ],
-    [ "CleaveTimer", "db/d54/a11970.html#ae2f943d7e08b5ca508518cd19c675be9", null ],
-    [ "FrighteningShoutTimer", "db/d54/a11970.html#a6f62f62ffa1c06baa2649901f02d13dc", null ],
-    [ "MortalStrikeTimer", "db/d54/a11970.html#acbfa384508002ba9505d280c448f1f0e", null ],
-    [ "ResetTimer", "db/d54/a11970.html#aaeff7d8bffb2ddcef5591c2c9be22ae2", null ],
-    [ "Whirlwind1Timer", "db/d54/a11970.html#a1e1b3d242ad06e6b8b2e48fbc135b3c5", null ],
-    [ "Whirlwind2Timer", "db/d54/a11970.html#adb5a2609f1f065fe7a737b8da2d4aef4", null ]
+    [ "tele_commandscript", "db/d54/a11970.html#a13d522c3480c5b82071d5f77bd41f942", null ],
+    [ "DoNameTeleport", "db/d54/a11970.html#aeab9bf62f33fd1d55055ba2ae7925f82", null ],
+    [ "GetCommands", "db/d54/a11970.html#a296b26e39d5d575ebe68728ff1b49f68", null ],
+    [ "HandleTeleAddCommand", "db/d54/a11970.html#a8d429a38c01a19f8c89c87937ef24248", null ],
+    [ "HandleTeleCommand", "db/d54/a11970.html#ac7d7dbb28f3a908fa5116ffb9ca6f7fa", null ],
+    [ "HandleTeleDelCommand", "db/d54/a11970.html#ad3d85b0057797de2aceeb620cf62efc0", null ],
+    [ "HandleTeleGroupCommand", "db/d54/a11970.html#af83e529b482654851a7a1ee77beb107e", null ],
+    [ "HandleTeleNameCommand", "db/d54/a11970.html#a70fcde1c7c5a9e5297035862adca55c4", null ],
+    [ "HandleTeleNameNpcIdCommand", "db/d54/a11970.html#a52852b7f3d7a6bbf68164e6918b9a141", null ],
+    [ "HandleTeleNameNpcNameCommand", "db/d54/a11970.html#a2f68bad0f1af5d40fcefb8c394472b65", null ],
+    [ "HandleTeleNameNpcSpawnIdCommand", "db/d54/a11970.html#a7a45fa39afa6bae2359a68b11a504bc5", null ]
 ];

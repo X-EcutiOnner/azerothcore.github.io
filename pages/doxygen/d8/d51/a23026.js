@@ -1,10 +1,9 @@
 var a23026 =
 [
-    [ "boss_illidari_council", "d8/d51/a23026.html#a078c36be39b377f6d1cdbf061d70270d", null ],
-    [ "AttackStart", "d8/d51/a23026.html#a260b15ec58164f17543aa044a89875a8", null ],
-    [ "DamageTaken", "d8/d51/a23026.html#af8e88c307efaba392cc2a1d2f3862078", null ],
-    [ "DoAction", "d8/d51/a23026.html#a6c3c57523ed2775ba553af1171b46463", null ],
-    [ "EnterEvadeMode", "d8/d51/a23026.html#a7dd21784b8f9a0eac17d56215c24028e", null ],
-    [ "MoveInLineOfSight", "d8/d51/a23026.html#a19ed88ab049e1323f529e0880af0a9dd", null ],
-    [ "UpdateAI", "d8/d51/a23026.html#a8b30df956aa4ce1727756f1d19e151be", null ]
+    [ "boss_mother_shahraz", "d8/d51/a23026.html#adba94363f74975301472d79f24894df8", null ],
+    [ "JustDied", "d8/d51/a23026.html#ab69d81acde4e6e2a3f6adb032090b958", null ],
+    [ "JustEngagedWith", "d8/d51/a23026.html#a021c702e7eff266308fee8a4220a6ec7", null ],
+    [ "KilledUnit", "d8/d51/a23026.html#a81ed314ae9737c0989b62c27c9ce4cc9", null ],
+    [ "Reset", "d8/d51/a23026.html#ab9e4162ac92e786b84b6497c37251386", null ],
+    [ "_canTalk", "d8/d51/a23026.html#a821d91439c60a60ffcff07b6bdbbc070", null ]
 ];

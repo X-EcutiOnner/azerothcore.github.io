@@ -1,6 +1,7 @@
 var a25454 =
 [
-    [ "HandleCast", "da/d93/a25454.html#ac6f7b9650d0a55834dafb09555692243", null ],
-    [ "PrepareSpellScript", "da/d93/a25454.html#ab3dc21aa63f0fb9202233603106eef87", null ],
-    [ "Register", "da/d93/a25454.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
+    [ "HandleScript", "da/d93/a25454.html#a1097b1548b2785ac7ffd916ee5531fe9", null ],
+    [ "PrepareSpellScript", "da/d93/a25454.html#a47dc9761bf10b1290963ff7eebe0121a", null ],
+    [ "Register", "da/d93/a25454.html#a984b2af5268fbf294a0292502b8ddb44", null ],
+    [ "Validate", "da/d93/a25454.html#a0cfbc2dcb836e7c37dd03cb3d0728621", null ]
 ];

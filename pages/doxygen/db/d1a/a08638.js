@@ -1,13 +1,10 @@
 var a08638 =
 [
-    [ "BGData", "db/d1a/a08638.html#a91ccfa5183ef5996fb4bdf78567c09ba", null ],
-    [ "bgAfkReportedCount", "db/d1a/a08638.html#ab7374e7b8fc6607dd6b4f04385e80ca3", null ],
-    [ "bgAfkReportedTimer", "db/d1a/a08638.html#a51f8f4e05dc0224982af9a61d2dfae36", null ],
-    [ "bgAfkReporter", "db/d1a/a08638.html#a94047ac71676b7914e058aac8a8cb0ea", null ],
-    [ "bgInstanceID", "db/d1a/a08638.html#a8eff26fd78b5763501a3f5460de4e551", null ],
-    [ "bgIsRandom", "db/d1a/a08638.html#a6f25dd5c9dc6afcc7964a5d0b7d1444c", null ],
-    [ "bgQueueSlot", "db/d1a/a08638.html#a1c77bcf4135d994f0801558adca02f40", null ],
-    [ "bgTeamId", "db/d1a/a08638.html#ac97f7cafb6ae69a12588e40328cdc0cb", null ],
-    [ "bgTypeID", "db/d1a/a08638.html#a3398da6a15fd66cdd8dc172997d3786b", null ],
-    [ "isInvited", "db/d1a/a08638.html#a8e23a1664eedf33b2195d2d8d5b01b82", null ]
+    [ "EquipmentSet", "db/d1a/a08638.html#acd3085c12c795daceae86e94448109e2", null ],
+    [ "Guid", "db/d1a/a08638.html#aae529ea61a2ad4f114b6a108564f5474", null ],
+    [ "IconName", "db/d1a/a08638.html#a40233dfcc23f125ff88693d6c7d7fab5", null ],
+    [ "IgnoreMask", "db/d1a/a08638.html#af116e824d23f000f424f3b261618e827", null ],
+    [ "Items", "db/d1a/a08638.html#a113e6e5883afe38d446a6d435cd34a01", null ],
+    [ "Name", "db/d1a/a08638.html#a2b4691a1b44ae47e7d3c2e63f88d78ba", null ],
+    [ "state", "db/d1a/a08638.html#a7e2270a6041dda26f8bc7f8c82597e7f", null ]
 ];

@@ -1,6 +1,8 @@
 var a13238 =
 [
-    [ "boss_darkmaster_gandlingAI", "d7/d06/a13242.html", "d7/d06/a13242" ],
-    [ "boss_darkmaster_gandling", "d8/d3b/a13238.html#a6db73fa3c8324f6bfdcb1ae6a72ee39b", null ],
-    [ "GetAI", "d8/d3b/a13238.html#a21ea53862614303af31a517a53d1fbf6", null ]
+    [ "HandleHit", "d8/d3b/a13238.html#a6a2811ee701a254e2857ae5923ec9f5f", null ],
+    [ "PrepareSpellScript", "d8/d3b/a13238.html#a53f170244b390f7035e131fb5c79cb3f", null ],
+    [ "Register", "d8/d3b/a13238.html#a248124b837cf71f7d422154db4581747", null ],
+    [ "Validate", "d8/d3b/a13238.html#a3061dcd7b831a13b1d270732d0ee8a7e", null ],
+    [ "_emote", "d8/d3b/a13238.html#a43e28dbdfcd034a2a08f6d57171462ee", null ]
 ];

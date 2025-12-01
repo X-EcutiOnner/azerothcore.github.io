@@ -1,9 +1,9 @@
 var a07434 =
 [
-    [ "entry", "d8/d3e/a07434.html#a2238cabe763a588a5572611e0aefe6ba", null ],
-    [ "o", "d8/d3e/a07434.html#a0ebd9ea966eb66cf80b8f3c003db60c0", null ],
-    [ "type", "d8/d3e/a07434.html#a561ac93f5c1bcc26dacbd0212b602eac", null ],
-    [ "x", "d8/d3e/a07434.html#a616d422b4e8c99ec3285a87f553d4091", null ],
-    [ "y", "d8/d3e/a07434.html#a34de8c83a7bc8b33ac0cabdfb1bd3459", null ],
-    [ "z", "d8/d3e/a07434.html#a78cff0661e6d9440574306ec01389d42", null ]
+    [ "BattlegroundEYLosingPointStruct", "d8/d3e/a07434.html#ae3f19e55206e1a8097fe173a8a37aa12", null ],
+    [ "DespawnObjectTypeAlliance", "d8/d3e/a07434.html#a210828d05ea9948484631b7408a3bb4b", null ],
+    [ "DespawnObjectTypeHorde", "d8/d3e/a07434.html#a335205cb71b7055db4c01a5e562001b6", null ],
+    [ "MessageIdAlliance", "d8/d3e/a07434.html#afe89eccc8c21351edb4ce943d937e521", null ],
+    [ "MessageIdHorde", "d8/d3e/a07434.html#a8295974ee1f663dd0d22bcc4f0e0fa92", null ],
+    [ "SpawnNeutralObjectType", "d8/d3e/a07434.html#a57c1a6f485ea6617b5218da411cae38f", null ]
 ];

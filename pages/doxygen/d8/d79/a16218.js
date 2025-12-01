@@ -1,6 +1,6 @@
 var a16218 =
 [
-    [ "boss_baltharus_the_warbornAI", "d7/dfb/a16222.html", "d7/dfb/a16222" ],
-    [ "boss_baltharus_the_warborn", "d8/d79/a16218.html#aababb8862273d60f140dce675131783d", null ],
-    [ "GetAI", "d8/d79/a16218.html#afe7ecf8635c8c0a051047a801c2a8d54", null ]
+    [ "npc_baltharus_the_warborn_cloneAI", "d7/dfb/a16222.html", "d7/dfb/a16222" ],
+    [ "npc_baltharus_the_warborn_clone", "d8/d79/a16218.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
+    [ "GetAI", "d8/d79/a16218.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
 ];

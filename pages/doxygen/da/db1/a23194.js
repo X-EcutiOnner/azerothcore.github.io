@@ -1,6 +1,6 @@
 var a23194 =
 [
-    [ "npc_supremus_punch_invisible_stalker", "da/db1/a23194.html#add7d0e711ef02a16ef58d90cfc8ee733", null ],
-    [ "IsSummonedBy", "da/db1/a23194.html#a467d5a43bb6d2349ad859a0ef7de4c00", null ],
-    [ "UpdateAI", "da/db1/a23194.html#a90ecfe4257ef77a6d6a200a2f017c51a", null ]
+    [ "instance_black_temple_InstanceMapScript", "d1/d36/a23198.html", "d1/d36/a23198" ],
+    [ "instance_black_temple", "da/db1/a23194.html#a2efd6c7fff15c8fd03652ef9a65088eb", null ],
+    [ "GetInstanceScript", "da/db1/a23194.html#a947a1279eabde75d9884b1ef84b295a3", null ]
 ];

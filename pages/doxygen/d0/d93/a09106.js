@@ -1,11 +1,7 @@
 var a09106 =
 [
-    [ "~GridCell", "d0/d93/a09106.html#a042be8f85e83068d4bb39a0de0618146", null ],
-    [ "AddFarVisibleObject", "d0/d93/a09106.html#a9a81bdbf151463b4687227df0fa39ece", null ],
-    [ "AddGridObject", "d0/d93/a09106.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
-    [ "RemoveFarVisibleObject", "d0/d93/a09106.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
-    [ "Visit", "d0/d93/a09106.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
-    [ "Visit", "d0/d93/a09106.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
-    [ "_farVisibleObjects", "d0/d93/a09106.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
-    [ "_gridObjects", "d0/d93/a09106.html#ac5a741aebc11124aa228e5107e664335", null ]
+    [ "GetAntiDosPolicyForOpcode", "d0/d93/a09106.html#a9bbbc92f18c1c34c3359d0cad4299c2d", null ],
+    [ "instance", "d0/d93/a09106.html#a859596f153aa470fa503f67092e26160", null ],
+    [ "LoadAntiDosOpcodePolicies", "d0/d93/a09106.html#a9bd2c1a1ce11d9a50971d169a353e7f6", null ],
+    [ "_antiDosOpcodePolicies", "d0/d93/a09106.html#acb7a5639f7ba378483e50aba8e93d68a", null ]
 ];

@@ -1,8 +1,6 @@
 var a15250 =
 [
-    [ "npc_obsidian_destroyer", "d4/d0e/a15250.html#abd8b1614a9da9fbe9c9898246b0822b8", null ],
-    [ "JustDied", "d4/d0e/a15250.html#adc54ac02383f5e5bf6af980f5ba301e8", null ],
-    [ "JustEngagedWith", "d4/d0e/a15250.html#aaf95dd2c92a5d1745311e4162aee8dbc", null ],
-    [ "Reset", "d4/d0e/a15250.html#a08c6b9ec0e2f4207d48f95eedf2c26ab", null ],
-    [ "UpdateAI", "d4/d0e/a15250.html#a79ba48d421a636f99ea65c0e34d084e1", null ]
+    [ "instance_ruins_of_ahnqiraj_InstanceMapScript", "db/d8c/a15254.html", "db/d8c/a15254" ],
+    [ "instance_ruins_of_ahnqiraj", "d4/d0e/a15250.html#adeacb1c68e4b12995a335d1bedde075a", null ],
+    [ "GetInstanceScript", "d4/d0e/a15250.html#a6a661e961c2599498de0ccd41c0763b4", null ]
 ];

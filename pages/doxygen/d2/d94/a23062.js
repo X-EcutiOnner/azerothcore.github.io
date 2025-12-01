@@ -1,7 +1,6 @@
 var a23062 =
 [
-    [ "PrepareAuraScript", "d2/d94/a23062.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
-    [ "ReflectDamage", "d2/d94/a23062.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
-    [ "Register", "d2/d94/a23062.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
-    [ "Validate", "d2/d94/a23062.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
+    [ "boss_essence_of_sufferingAI", "db/d4a/a23066.html", "db/d4a/a23066" ],
+    [ "boss_essence_of_suffering", "d2/d94/a23062.html#a1237f428657f0e9a0218695264358384", null ],
+    [ "GetAI", "d2/d94/a23062.html#adb54519bdf220cb3e30c81627c1ba11a", null ]
 ];

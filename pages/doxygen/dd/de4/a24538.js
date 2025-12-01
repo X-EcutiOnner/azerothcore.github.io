@@ -1,6 +1,6 @@
 var a24538 =
 [
-    [ "npc_unkor_the_ruthlessAI", "d2/da0/a24542.html", "d2/da0/a24542" ],
-    [ "npc_unkor_the_ruthless", "dd/de4/a24538.html#a4eb173932f39c5503d1db91d55f3a5b7", null ],
-    [ "GetAI", "dd/de4/a24538.html#a552a19b9a48e90f3b093e2b9e16ec867", null ]
+    [ "achievement", "dd/de4/a24538.html#abb6071e172abbcbc65020a0ad9554a03", null ],
+    [ "spell", "dd/de4/a24538.html#a740f9162b10d31d1677a4ac4f5926db6", null ],
+    [ "text", "dd/de4/a24538.html#aa92e42bc2c54c3b4b1022d5767fcf10c", null ]
 ];

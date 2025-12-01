@@ -1,14 +1,6 @@
 var a21290 =
 [
-    [ "boss_dalronn_the_controller", "db/d50/a21290.html#a57718e928fa273bba3c40a05d5888a3d", null ],
-    [ "DoAction", "db/d50/a21290.html#ad11e43d40a61f093b5e51482437467b8", null ],
-    [ "JustDied", "db/d50/a21290.html#a28a669b56392b599e124573778e33134", null ],
-    [ "JustEngagedWith", "db/d50/a21290.html#aad89cfa81c69058adc633e85ded5b4e3", null ],
-    [ "JustSummoned", "db/d50/a21290.html#a1d419cec78a9a8d6ceee3651c8054762", null ],
-    [ "KilledUnit", "db/d50/a21290.html#a96a173e30ad81c77217b0693d1d15839", null ],
-    [ "Reset", "db/d50/a21290.html#a452f1bd3428cc0f4b4413d253c5f29e7", null ],
-    [ "UpdateAI", "db/d50/a21290.html#a1c3e44fe347e9c1ec45db19865bb5110", null ],
-    [ "events", "db/d50/a21290.html#a44c463df3aeb8010fa1a1cc5de82b9f1", null ],
-    [ "pInstance", "db/d50/a21290.html#a53e17abc63ce51830c1bcd5bd47f2a95", null ],
-    [ "summons", "db/d50/a21290.html#ac2845d24aa036372cd0084d2b5e8090b", null ]
+    [ "npc_massive_jormungarAI", "d6/d56/a21294.html", "d6/d56/a21294" ],
+    [ "npc_massive_jormungar", "db/d50/a21290.html#ad17b632fcfe78019dcb9e6b58fa1ac01", null ],
+    [ "GetAI", "db/d50/a21290.html#a68e3557e967ef633ba59fa81e661b80c", null ]
 ];

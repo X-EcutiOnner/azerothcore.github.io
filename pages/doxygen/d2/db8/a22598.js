@@ -1,6 +1,6 @@
 var a22598 =
 [
-    [ "HandleSummon", "d2/db8/a22598.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
-    [ "PrepareSpellScript", "d2/db8/a22598.html#ae7f071e9d9a82892be31090385679c9f", null ],
-    [ "Register", "d2/db8/a22598.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
+    [ "npc_drakuru_shacklesAI", "da/dce/a22602.html", "da/dce/a22602" ],
+    [ "npc_drakuru_shackles", "d2/db8/a22598.html#a2b15a214b34d86597cba09b17654e4ff", null ],
+    [ "GetAI", "d2/db8/a22598.html#a90ce98de4630771858cd3b79264a28f9", null ]
 ];

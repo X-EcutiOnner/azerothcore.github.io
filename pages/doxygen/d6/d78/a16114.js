@@ -1,6 +1,5 @@
 var a16114 =
 [
-    [ "boss_krik_thirAI", "d5/d7f/a16118.html", "d5/d7f/a16118" ],
-    [ "boss_krik_thir", "d6/d78/a16114.html#ab7001cd05e8e5e371cbd6ee2b25f3522", null ],
-    [ "GetAI", "d6/d78/a16114.html#a10e582440092d5c6558c2a11d60907aa", null ]
+    [ "achievement_watch_him_die", "d6/d78/a16114.html#a0d885871eac61d859780e08c8518bb15", null ],
+    [ "OnCheck", "d6/d78/a16114.html#a6ca8851bdf8cae50084ca87c1958fb53", null ]
 ];

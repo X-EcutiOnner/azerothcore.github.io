@@ -1,6 +1,10 @@
 var a15730 =
 [
-    [ "Creature", "d0/d7a/a15730.html#a77b33f8998f85808b58052079b1cab54", null ],
-    [ "TextId", "d0/d7a/a15730.html#ad691f3cd40035e96547adf7528229119", null ],
-    [ "Timer", "d0/d7a/a15730.html#accfccceaedffb3ad4d02231fb0bfeee5", null ]
+    [ "CreatureId", "d0/d7a/a15730.html#a09f696e37f96e7da259fc026a7c4fd83", null ],
+    [ "DespTimer", "d0/d7a/a15730.html#a0dfec745982b346ac1cd0af672be31fb", null ],
+    [ "SpawnCount", "d0/d7a/a15730.html#ad5347ee83eaa00fe0721279099c48433", null ],
+    [ "SpawnTimer", "d0/d7a/a15730.html#ab1720ffe0aeeb5669ab49fc32cb24750", null ],
+    [ "UsedSpawnPoint", "d0/d7a/a15730.html#a7db57df5da62ebb3b52ecd70ec3d45f2", null ],
+    [ "WaveTextId", "d0/d7a/a15730.html#a0a9807e31c2d5c769bc0a020941b234c", null ],
+    [ "YellTimer", "d0/d7a/a15730.html#ac3f9997775f34babc79d4321fd1a6d6d", null ]
 ];

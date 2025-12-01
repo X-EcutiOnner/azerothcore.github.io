@@ -1,6 +1,6 @@
 var a12110 =
 [
-    [ "boss_magmusAI", "d7/dee/a12114.html", "d7/dee/a12114" ],
-    [ "boss_magmus", "d1/dab/a12110.html#a97747c0d7e1fd33204033d6061d6d570", null ],
-    [ "GetAI", "d1/dab/a12110.html#a171bc08a8dd9fa502f3b2b6cf736fd52", null ]
+    [ "boss_evisceratorAI", "d7/dee/a12114.html", "d7/dee/a12114" ],
+    [ "boss_eviscerator", "d1/dab/a12110.html#aca65400afa5ca9ca81043687d79cdad0", null ],
+    [ "GetAI", "d1/dab/a12110.html#a21203f69267ec93c46d9ff56321b8169", null ]
 ];

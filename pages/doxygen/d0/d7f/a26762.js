@@ -1,6 +1,7 @@
 var a26762 =
 [
-    [ "HandleFinish", "d0/d7f/a26762.html#ac4c50220d86f809644e339fc578d9b4a", null ],
-    [ "PrepareSpellScript", "d0/d7f/a26762.html#a5a14594ed93150e34626a7e0edb8171b", null ],
-    [ "Register", "d0/d7f/a26762.html#a9d28a3b88d57e2f89921d59f56148f74", null ]
+    [ "CalcPeriodic", "d0/d7f/a26762.html#af787d0c8738284e757f808e7d138bdc6", null ],
+    [ "PrepareAuraScript", "d0/d7f/a26762.html#a383db196133bbecee06fe443fdb1bc24", null ],
+    [ "Register", "d0/d7f/a26762.html#a1c617b5b26805b0feb468c55337f9d4c", null ],
+    [ "Update", "d0/d7f/a26762.html#af3f4a7b82e099313d609df7f85f02d00", null ]
 ];

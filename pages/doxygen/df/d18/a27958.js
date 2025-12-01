@@ -1,7 +1,5 @@
 var a27958 =
 [
-    [ "HandleDummy", "df/d18/a27958.html#ade9ff4db63fecf726776f6e4b36bb437", null ],
-    [ "PrepareSpellScript", "df/d18/a27958.html#a0375b541f2a90e337fee61ced6d8f3ec", null ],
-    [ "Register", "df/d18/a27958.html#a66c530b497e4952b457bbfa50a036c07", null ],
-    [ "Validate", "df/d18/a27958.html#a968333dcfe0553ad73879f3042db5511", null ]
+    [ "go_transport_the_iron_eagle", "df/d18/a27958.html#aba17edc2e3ac8e1b9996116c6f9bdc6f", null ],
+    [ "EventInform", "df/d18/a27958.html#af1970d07730ab0e5f688200289f48b69", null ]
 ];

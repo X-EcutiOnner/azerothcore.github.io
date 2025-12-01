@@ -1,10 +1,10 @@
 var a02336 =
 [
-    [ "boss_twinemperorsAI", "d3/dbe/a15376.html", "d3/dbe/a15376" ],
-    [ "boss_veknilash", "d5/dbd/a15380.html", "d5/dbd/a15380" ],
-    [ "boss_veklor", "d1/d75/a15384.html", "d1/d75/a15384" ],
-    [ "at_twin_emperors", "de/db0/a15388.html", "de/db0/a15388" ],
-    [ "spell_mutate_explode_bug", "da/d1a/a15392.html", "da/d1a/a15392" ],
+    [ "boss_twinemperorsAI", "da/dbb/a15382.html", "da/dbb/a15382" ],
+    [ "boss_veknilash", "da/da8/a15386.html", "da/da8/a15386" ],
+    [ "boss_veklor", "d0/d49/a15390.html", "d0/d49/a15390" ],
+    [ "at_twin_emperors", "d6/d45/a15394.html", "d6/d45/a15394" ],
+    [ "spell_mutate_explode_bug", "d0/d58/a15398.html", "d0/d58/a15398" ],
     [ "Actions", "d3/d9c/a02336.html#a250372292659bed7ae290d8621f88ccf", [
       [ "ACTION_GUNSHIP_READY", "d4/def/a00359.html#a250372292659bed7ae290d8621f88ccfaae8bb35d65ee37e4d232e2a67aeca581", null ],
       [ "ACTION_TELEPORT_PLAYER_TO_TRANSPORT", "d4/def/a00359.html#a250372292659bed7ae290d8621f88ccfa6b86b0986a459bb245b3a3cd8b75040c", null ],
@@ -341,7 +341,8 @@ var a02336 =
       [ "EVENT_ECK_BITE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a25fd4fd9c83fea5e757a20aeb8f03aee", null ],
       [ "EVENT_ECK_SPIT", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6add7ba9bf01f5f04dac1d93a997b57af2", null ],
       [ "EVENT_ECK_SPRING", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6c3f22fd6aa63e5bf101019792a4b483", null ],
-      [ "EVENT_ECK_HEALTH", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f0a1bde1d1f47b6f7e45f621a57b6c1", null ],
+      [ "EVENT_ECK_CRAZED_EMOTE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6eeac32439bad23ef93cf41b4526d55d", null ],
+      [ "EMOTE_CRAZED", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2628cfc3f39065948404f522308c931f", null ],
       [ "NPC_SLADRAN_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08dc37f063f5d70a3893765939f63a82", null ],
       [ "NPC_SLADRAN_CONSTRICTORS", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a52bf6fd6ef6437b9a4e88616b7f1d91b", null ],
       [ "MAX_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1e3f12d08f9d4880b8263386a54d21c8", null ],

@@ -1,7 +1,7 @@
 var a25390 =
 [
-    [ "HandleStun", "d1/d0e/a25390.html#aec7b18c9fe4d03e6e61dd2e43c842a93", null ],
-    [ "PrepareAuraScript", "d1/d0e/a25390.html#a26bf4bfdbe5ccf890d75bc663f228639", null ],
-    [ "Register", "d1/d0e/a25390.html#a660a0e41ac5918cd365f4c47fea9c230", null ],
-    [ "Validate", "d1/d0e/a25390.html#a4e89cdbc719b32576f57dd6f7e5d3f2a", null ]
+    [ "HandleEffectPeriodic", "d1/d0e/a25390.html#a76e5aea0f1a3698e8034a1cbb08f4196", null ],
+    [ "PrepareAuraScript", "d1/d0e/a25390.html#affc698127fe0656df25bd094c02a7e50", null ],
+    [ "Register", "d1/d0e/a25390.html#a4707bfaeb86b3540920a6772e1726e26", null ],
+    [ "Validate", "d1/d0e/a25390.html#aef839f163d7e623a54b163e1c27542cd", null ]
 ];

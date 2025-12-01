@@ -1,6 +1,6 @@
 var a27806 =
 [
-    [ "npc_garments_of_questsAI", "d0/d7f/a27810.html", "d0/d7f/a27810" ],
-    [ "npc_garments_of_quests", "dc/d04/a27806.html#a7e4ad68e0187c0a392ed93097b2bf0ce", null ],
-    [ "GetAI", "dc/d04/a27806.html#aa8ad1c654f00e054f9b424f61716eafd", null ]
+    [ "npc_steam_tonkAI", "d0/d7f/a27810.html", "d0/d7f/a27810" ],
+    [ "npc_steam_tonk", "dc/d04/a27806.html#a19731e7f1bc6fe0220e8c28619ff7c50", null ],
+    [ "GetAI", "dc/d04/a27806.html#a38e51485a3610a204a45677fce15c943", null ]
 ];

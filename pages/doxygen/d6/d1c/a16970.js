@@ -1,7 +1,6 @@
 var a16970 =
 [
-    [ "HandlePeriodicTick", "d6/d1c/a16970.html#abe9cc0a87d84504ee029cc565dd97ef5", null ],
-    [ "PrepareAuraScript", "d6/d1c/a16970.html#a93e894c642101160dd51f30952c82d24", null ],
-    [ "Register", "d6/d1c/a16970.html#a49172ede0f888e391b9b4a835475220a", null ],
-    [ "Validate", "d6/d1c/a16970.html#a3b9998ef5ee0931afbe5b04430da10a0", null ]
+    [ "boss_devourer_of_soulsAI", "d3/d8c/a16974.html", "d3/d8c/a16974" ],
+    [ "boss_devourer_of_souls", "d6/d1c/a16970.html#a95b3a33be3b85a4c7ecfb4370a9ddc60", null ],
+    [ "GetAI", "d6/d1c/a16970.html#a3de68fa630c5b74104c461f88edd1d36", null ]
 ];

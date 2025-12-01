@@ -1,7 +1,7 @@
 var a23010 =
 [
-    [ "HandleDummy", "dc/dc6/a23010.html#adb4e8218eb498d430ececfa357bc1d8a", null ],
-    [ "PrepareSpellScript", "dc/dc6/a23010.html#a85f582794bf8ca2c80add8d9fe35f9f5", null ],
-    [ "Register", "dc/dc6/a23010.html#af5926d8570de13e66aa1870184620b94", null ],
-    [ "Validate", "dc/dc6/a23010.html#aa2839c6dba3d0c6ecfeb19f5ff3a39d2", null ]
+    [ "PrepareAuraScript", "dc/dc6/a23010.html#ae6879f1d8c27f19cf3e3ada0b34d568f", null ],
+    [ "ReflectDamage", "dc/dc6/a23010.html#acde2cbf4d196cba1fa2c02393c08fe9f", null ],
+    [ "Register", "dc/dc6/a23010.html#aa1f27d25209f14dd8bf711bc15cb9165", null ],
+    [ "Validate", "dc/dc6/a23010.html#aa730b912aadcde53f6cd94c2a8c99493", null ]
 ];

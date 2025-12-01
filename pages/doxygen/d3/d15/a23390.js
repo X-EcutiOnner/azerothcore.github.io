@@ -1,14 +1,10 @@
 var a23390 =
 [
-    [ "SpellIds", "d3/d15/a23390.html#a2d0e9022edc8a9f6fc0e34330fda114a", [
-      [ "SPELL_SUMMON_WAVE_A_MOB", "d3/d15/a23390.html#a2d0e9022edc8a9f6fc0e34330fda114aa19ea6e555692392677c74fccd206380b", null ],
-      [ "SPELL_SUMMON_WAVE_B_MOB", "d3/d15/a23390.html#a2d0e9022edc8a9f6fc0e34330fda114aa938130293fb55c96d06462e407a24a89", null ],
-      [ "SPELL_SUMMON_WAVE_C_MOB", "d3/d15/a23390.html#a2d0e9022edc8a9f6fc0e34330fda114aadc855654104e4ec0a09540e9b51cb098", null ],
-      [ "SPELL_SUMMON_WAVE_D_MOB", "d3/d15/a23390.html#a2d0e9022edc8a9f6fc0e34330fda114aa3bbb32a8c4da3b06e9bf5da83f39970d", null ]
-    ] ],
-    [ "FilterTargets", "d3/d15/a23390.html#a2a1a2e5069587f52ae968c84cd702eaf", null ],
-    [ "HandleHit", "d3/d15/a23390.html#aa670812f42c3082f42e0f232ee6bee16", null ],
-    [ "PrepareSpellScript", "d3/d15/a23390.html#a7fe65229c64c27909868f02439c1ef66", null ],
-    [ "Register", "d3/d15/a23390.html#a0a8f29b524391ff257aba5cbdc355115", null ],
-    [ "Validate", "d3/d15/a23390.html#ab8bcdcfcad2a9998d95567006817711e", null ]
+    [ "boss_morogrim_tidewalker", "d3/d15/a23390.html#a138a200da298f64697e2e47fb8004ccb", null ],
+    [ "JustDied", "d3/d15/a23390.html#a139d87e7cffe03183538eb493e063195", null ],
+    [ "JustEngagedWith", "d3/d15/a23390.html#a3244672aeb994673e1f46708699bcc2c", null ],
+    [ "JustSummoned", "d3/d15/a23390.html#a2b669007520094948138c95468b77f9f", null ],
+    [ "KilledUnit", "d3/d15/a23390.html#a2db94919e6d6f3d4eda4addc4248976e", null ],
+    [ "Reset", "d3/d15/a23390.html#a78ed1d1f8c55407497a4fb679587975d", null ],
+    [ "_recentlySpoken", "d3/d15/a23390.html#a63edb4b20baa9e1cf5238c3db5974c56", null ]
 ];

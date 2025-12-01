@@ -1,9 +1,6 @@
 var a06114 =
 [
-    [ "TurretAI", "de/d8c/a06114.html#a0aaa1ee5eb1b2e83657ef24479d9a91e", null ],
-    [ "AttackStart", "de/d8c/a06114.html#ab6eb7cf777595a4b196373123da19bea", null ],
-    [ "CanAIAttack", "de/d8c/a06114.html#a47c1c38ddcc1f473104fb698fe338684", null ],
-    [ "Permissible", "de/d8c/a06114.html#aac81fb574d70369fb006fb7ba22a0784", null ],
-    [ "UpdateAI", "de/d8c/a06114.html#aa2d308443a31d8a06bbc63517695dfef", null ],
-    [ "m_minRange", "de/d8c/a06114.html#a4cffbf9bcb29468dad6a6583c905b99a", null ]
+    [ "SavedAddon", "de/d8c/a06114.html#a6252c2ac491d0ebd9e84556f26cfa8cd", null ],
+    [ "CRC", "de/d8c/a06114.html#a7d04d21a29aa589429aab0d95172ca95", null ],
+    [ "Name", "de/d8c/a06114.html#a075de88ce6e643cffb7c5bb55f7b1095", null ]
 ];

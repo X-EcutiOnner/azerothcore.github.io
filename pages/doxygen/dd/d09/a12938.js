@@ -1,7 +1,13 @@
 var a12938 =
 [
-    [ "PeriodicTick", "dd/d09/a12938.html#a267d6df2c08039581fd1c008ffc14b8c", null ],
-    [ "PrepareAuraScript", "dd/d09/a12938.html#ab75f10a475a4302897cbb90a3adb5b03", null ],
-    [ "Register", "dd/d09/a12938.html#a2681d44b149e9f1d797df4147e20e686", null ],
-    [ "Validate", "dd/d09/a12938.html#a9a5f11a3024a14911b478cdf59a7abb9", null ]
+    [ "boss_roar", "dd/d09/a12938.html#a93e1d81bcff8b31841ae65628759ee7e", null ],
+    [ "DoAction", "dd/d09/a12938.html#a9a2778a803d6d41b256759b29452cc51", null ],
+    [ "EnterEvadeMode", "dd/d09/a12938.html#a198044653632b93838c0f79c06cb7640", null ],
+    [ "JustDied", "dd/d09/a12938.html#a3c79bea69740601ad89f0765f3af99f2", null ],
+    [ "JustEngagedWith", "dd/d09/a12938.html#a1db42b2b1a19ac4a959a51ce17c8ae32", null ],
+    [ "JustReachedHome", "dd/d09/a12938.html#a632929b026815a524bd79748e768e3fc", null ],
+    [ "KilledUnit", "dd/d09/a12938.html#aaaa0d33697fe1abc0df5bf9ecb249ffc", null ],
+    [ "UpdateAI", "dd/d09/a12938.html#a255d406f8bab62593a3eeda0e4e3d646", null ],
+    [ "_scheduler", "dd/d09/a12938.html#a54b45b1fdacc2b3982e21580b9b4d26a", null ],
+    [ "instance", "dd/d09/a12938.html#a67df04e89c877d565753ac077aa923c7", null ]
 ];

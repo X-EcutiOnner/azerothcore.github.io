@@ -1,6 +1,7 @@
 var a21238 =
 [
-    [ "npc_ulduar_storm_tempered_keeperAI", "d7/dbb/a21242.html", "d7/dbb/a21242" ],
-    [ "npc_ulduar_storm_tempered_keeper", "dd/d92/a21238.html#aaf2ef154cad4f2ba5796e410dabf02fc", null ],
-    [ "GetAI", "dd/d92/a21238.html#aa0860236d2abedba1e521ee1610c89e8", null ]
+    [ "npc_frost_tomb", "dd/d92/a21238.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
+    [ "JustDied", "dd/d92/a21238.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
+    [ "UpdateAI", "dd/d92/a21238.html#af2122e9c8cb206151f631659c7d167da", null ],
+    [ "PrisonerGUID", "dd/d92/a21238.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
 ];

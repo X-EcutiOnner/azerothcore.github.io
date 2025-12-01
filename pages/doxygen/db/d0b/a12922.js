@@ -1,18 +1,11 @@
 var a12922 =
 [
-    [ "boss_romulo", "db/d0b/a12922.html#a497e0e57d2abb6640081c1d141a588ff", null ],
-    [ "DamageTaken", "db/d0b/a12922.html#a603db3883d03367406cbcf3f2cb28a08", null ],
-    [ "DoAction", "db/d0b/a12922.html#acc23f4f4f5856b9956a764c1f69bbc92", null ],
-    [ "EnterEvadeMode", "db/d0b/a12922.html#ab4dda6b70337668dd36a582e8439c3db", null ],
-    [ "JustDied", "db/d0b/a12922.html#aa60d8fe07db9444f25eec9de9e5bf365", null ],
-    [ "JustEngagedWith", "db/d0b/a12922.html#ab13e2a4ebe8a1956f6de460cdb9b199d", null ],
-    [ "JustReachedHome", "db/d0b/a12922.html#af8bff3f1c107dc7d8beae7956a25fbcc", null ],
-    [ "KilledUnit", "db/d0b/a12922.html#ae4ca6736913cc8df4d016876a8fd8576", null ],
-    [ "Reset", "db/d0b/a12922.html#a15703ee7df979b8ee5892dacf84066e2", null ],
-    [ "ScheduleCombat", "db/d0b/a12922.html#a4cc20dccb171d1f4d3c680b6b5310e73", null ],
-    [ "UpdateAI", "db/d0b/a12922.html#ac42df238a2ad354a2fb21ebb558734c6", null ],
-    [ "_scheduler", "db/d0b/a12922.html#a456abfa48f038e904c427179c2a10edb", null ],
-    [ "instance", "db/d0b/a12922.html#aae979b72844ff8fcc70956925df4fa9b", null ],
-    [ "isFakingDeath", "db/d0b/a12922.html#a88ccbe761b4703e4f309d1bb3fca4085", null ],
-    [ "phase", "db/d0b/a12922.html#ab549436aec35727665150d51f1c25714", null ]
+    [ "npc_demon_chain", "db/d0b/a12922.html#ac234e729422925bd773bcdbc45f9e1b5", null ],
+    [ "AttackStart", "db/d0b/a12922.html#a745fa194ca5ad30c96e85b3f9daad2ad", null ],
+    [ "IsSummonedBy", "db/d0b/a12922.html#a27007fdff0d685b0a38a0b98820b95fb", null ],
+    [ "JustDied", "db/d0b/a12922.html#a35d1b7de8612f11cdf61b9d663990686", null ],
+    [ "JustEngagedWith", "db/d0b/a12922.html#a9743ebc31c5159a03889bfd40b09d749", null ],
+    [ "MoveInLineOfSight", "db/d0b/a12922.html#a9ffa6ed6faa21c9596f7a0c2ceb1cc05", null ],
+    [ "Reset", "db/d0b/a12922.html#ad531f82511e5156d3b9891dd4095b0d5", null ],
+    [ "sacrificeGUID", "db/d0b/a12922.html#a5572e39fcf3d807ef462f5c16ff703f1", null ]
 ];

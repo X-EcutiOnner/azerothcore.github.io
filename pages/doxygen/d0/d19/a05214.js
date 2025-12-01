@@ -1,7 +1,6 @@
 var a05214 =
 [
-    [ "Secret", "d0/d19/a05214.html#aae38427994c1f4ddf3838c4e1f3f7e03", null ],
-    [ "GenerateToken", "d0/d19/a05214.html#a44829d44e78247991d9c3dde270cab5c", null ],
-    [ "ValidateToken", "d0/d19/a05214.html#ab6b27542814e577106ad587a5807d663", null ],
-    [ "RECOMMENDED_SECRET_LENGTH", "d0/d19/a05214.html#a885fc6c1a5bda166416f161ea202eb72", null ]
+    [ "AppendToBack", "d0/d19/a05214.html#a631dbb5771929cb72bd090e3ced49523", null ],
+    [ "GenerateRandomIV", "d0/d19/a05214.html#afd4b9dd6223e8bd48810b88adc24a4b7", null ],
+    [ "SplitFromBack", "d0/d19/a05214.html#ac27f3335f0fadf98dbd0bedebbfd8390", null ]
 ];

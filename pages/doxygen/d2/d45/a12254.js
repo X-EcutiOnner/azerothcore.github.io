@@ -1,11 +1,14 @@
 var a12254 =
 [
-    [ "npc_rookery_hatcherAI", "d2/d45/a12254.html#a3154429437a108edf77de7ec1f0b2cda", null ],
-    [ "InitializeAI", "d2/d45/a12254.html#af144dc2cbe632038057f931fd71da29d", null ],
-    [ "JustEngagedWith", "d2/d45/a12254.html#a7b7ecaa42bdd35f4ee9fe7fad4cd25a9", null ],
-    [ "UpdateAI", "d2/d45/a12254.html#a0f867aa346a2f829067466fbfe6c5335", null ],
-    [ "events", "d2/d45/a12254.html#a220e6f9869d0ea53a593a6ac8e0e28bd", null ],
-    [ "nearbyEggs", "d2/d45/a12254.html#a2cf183745cdf699af7bd273e0ee4d697", null ],
-    [ "targetEgg", "d2/d45/a12254.html#a877af9948503688944e49503a6293574", null ],
-    [ "targetPosition", "d2/d45/a12254.html#a2e94b3d12ef3d8f80546db6c9a9e9e95", null ]
+    [ "boss_lord_valthalakAI", "d2/d45/a12254.html#a7f10837eafefefb87b338410c5994362", null ],
+    [ "DamageTaken", "d2/d45/a12254.html#a6fe691c8dd5c5b387eed08e3a010bec7", null ],
+    [ "IsSummonedBy", "d2/d45/a12254.html#a852589ca84562ad1a9dcdd403fe5aa83", null ],
+    [ "JustDied", "d2/d45/a12254.html#a4c9bd060e62f1c4d3819350bf549a39a", null ],
+    [ "JustEngagedWith", "d2/d45/a12254.html#acee7b1758b670a688fe1afcdef3b9f8c", null ],
+    [ "Reset", "d2/d45/a12254.html#abcc993a205602484fb46a67bc68dbbd9", null ],
+    [ "StartFighting", "d2/d45/a12254.html#af06da24e8bedf922895c8c591c1def04", null ],
+    [ "StartTalking", "d2/d45/a12254.html#ab89e407c8afccd712c3b9375f0de8687", null ],
+    [ "UpdateAI", "d2/d45/a12254.html#a2b39a384ac7133aa013e21b0e873c4e2", null ],
+    [ "frenzy15", "d2/d45/a12254.html#aabd65fc1a1bdbbc9c3a46c918bc7dff5", null ],
+    [ "frenzy40", "d2/d45/a12254.html#a75aa55580bed475e88e9071fa5284267", null ]
 ];

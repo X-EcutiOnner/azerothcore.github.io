@@ -1,6 +1,5 @@
 var a13734 =
 [
-    [ "npc_augustus_the_touched", "dd/de1/a13734.html#abc84c884345f44cf780410569cdee10c", null ],
-    [ "OnGossipHello", "dd/de1/a13734.html#a81e0d4f2aaa685cd5231ea430c86e7b4", null ],
-    [ "OnGossipSelect", "dd/de1/a13734.html#a992da9b22693c1fac1148b4ba545b819", null ]
+    [ "at_twilight_grove", "dd/de1/a13734.html#a2ef32dbac0a35aa7dc6ebbafe926125f", null ],
+    [ "OnTrigger", "dd/de1/a13734.html#a8ee7239b8429df38a237926a7252322b", null ]
 ];

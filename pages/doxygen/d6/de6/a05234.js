@@ -1,13 +1,7 @@
 var a05234 =
 [
-    [ "SymbolDetail", "d6/de6/a05234.html#a980674204558954b7a10799c5e71fb31", null ],
-    [ "empty", "d6/de6/a05234.html#a0cd6b5c40ffb307db4a3930ba5a36b76", null ],
-    [ "ToString", "d6/de6/a05234.html#a5466cf91b53b85332b301b3d51b075aa", null ],
-    [ "HasChildren", "d6/de6/a05234.html#abb8aaaf18cc617dbf5628bd10dc76bc8", null ],
-    [ "Logged", "d6/de6/a05234.html#a89231f1fafa96100d432ace9fc1f08c3", null ],
-    [ "Name", "d6/de6/a05234.html#acb905ff2f54f69367de324b2bf33fbe7", null ],
-    [ "Prefix", "d6/de6/a05234.html#a21fb89604255111403d1c0bf331d72fb", null ],
-    [ "Suffix", "d6/de6/a05234.html#ab3e36a19236208f25dddaf0ff8ecec4f", null ],
-    [ "Type", "d6/de6/a05234.html#a8cb6fb216847f8e1b669b9693ef017dc", null ],
-    [ "Value", "d6/de6/a05234.html#a8a469bdb1f1ea087f5c0a95fc0431b55", null ]
+    [ "Secret", "d6/de6/a05234.html#aae38427994c1f4ddf3838c4e1f3f7e03", null ],
+    [ "GenerateToken", "d6/de6/a05234.html#a44829d44e78247991d9c3dde270cab5c", null ],
+    [ "ValidateToken", "d6/de6/a05234.html#ab6b27542814e577106ad587a5807d663", null ],
+    [ "RECOMMENDED_SECRET_LENGTH", "d6/de6/a05234.html#a885fc6c1a5bda166416f161ea202eb72", null ]
 ];

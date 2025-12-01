@@ -1,14 +1,8 @@
 var a13674 =
 [
-    [ "instance_uldaman_InstanceMapScript", "d4/dfd/a13674.html#ab2607f229d1e34852c82139ddb597712", null ],
-    [ "GetData", "d4/dfd/a13674.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
-    [ "Initialize", "d4/dfd/a13674.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
-    [ "OnCreatureCreate", "d4/dfd/a13674.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
-    [ "OnGameObjectCreate", "d4/dfd/a13674.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
-    [ "ReadSaveDataMore", "d4/dfd/a13674.html#a8e0e03189463039dd31d883ad9c40e51", null ],
-    [ "SetData", "d4/dfd/a13674.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
-    [ "WriteSaveDataMore", "d4/dfd/a13674.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
-    [ "_encounters", "d4/dfd/a13674.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
-    [ "ancientVaultDoorGUID", "d4/dfd/a13674.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
-    [ "archaedasTempleDoorGUID", "d4/dfd/a13674.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
+    [ "npc_sunblade_arch_mage", "d4/dfd/a13674.html#a25cc45033c55f1099b50eab4b4f497ee", null ],
+    [ "JustEngagedWith", "d4/dfd/a13674.html#aadeae32d691229b7b7b531175b8a5018", null ],
+    [ "Reset", "d4/dfd/a13674.html#a0d0349ea507b1f8431014c55eef5ce0e", null ],
+    [ "UpdateAI", "d4/dfd/a13674.html#a3289fbad5f987a3d5d9986a31a1c442f", null ],
+    [ "scheduler", "d4/dfd/a13674.html#aa6680f06651316996868907b1d28126c", null ]
 ];

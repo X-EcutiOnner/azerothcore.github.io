@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: MetricStopWatch&lt; LoggerType &gt; Class Template Reference</title>
+<title>AzerothCore: Logger Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,113 +108,248 @@ $(document).ready(function(){initNavTree('d3/d53/a05410.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../dc/d06/a05407.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">MetricStopWatch&lt; LoggerType &gt; Class Template Reference</div></div>
+  <div class="headertitle"><div class="title">Logger Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">Metric.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">Logger.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a2007207e0985949f478fdeee300ea0d5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#a2007207e0985949f478fdeee300ea0d5">MetricStopWatch</a> (LoggerType &amp;&amp;loggerFunc)</td></tr>
-<tr class="separator:a2007207e0985949f478fdeee300ea0d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a712b660e090531e69455096afeb60c4c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#a712b660e090531e69455096afeb60c4c">~MetricStopWatch</a> ()</td></tr>
-<tr class="separator:a712b660e090531e69455096afeb60c4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a79033d763c69dbfb95b1c591f1cc680b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#a79033d763c69dbfb95b1c591f1cc680b">Logger</a> (std::string const &amp;<a class="el" href="../../d3/d53/a05410.html#ada299a7dd268085371557213e36695a9">name</a>, <a class="el" href="../../d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> <a class="el" href="../../d3/d53/a05410.html#a3b1d9dd7bd391ac7bed560918f82a03b">level</a>)</td></tr>
+<tr class="separator:a79033d763c69dbfb95b1c591f1cc680b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aabacae0a84994e5567f9c87829909fdd"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#aabacae0a84994e5567f9c87829909fdd">addAppender</a> (<a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> type, <a class="el" href="../../d1/df3/a05390.html">Appender</a> *appender)</td></tr>
+<tr class="separator:aabacae0a84994e5567f9c87829909fdd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1fb8747bf7b652b9dfbf9ee830a82c8b"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#a1fb8747bf7b652b9dfbf9ee830a82c8b">delAppender</a> (<a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> type)</td></tr>
+<tr class="separator:a1fb8747bf7b652b9dfbf9ee830a82c8b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae95167d7bb330ecc0a49779a5635d1e2"><td class="memItemLeft" align="right" valign="top">std::string const &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#ae95167d7bb330ecc0a49779a5635d1e2">getName</a> () const</td></tr>
+<tr class="separator:ae95167d7bb330ecc0a49779a5635d1e2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aba945b0f037b7de27976d3a6e1a0fbbd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#aba945b0f037b7de27976d3a6e1a0fbbd">getLogLevel</a> () const</td></tr>
+<tr class="separator:aba945b0f037b7de27976d3a6e1a0fbbd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a00fdcdbeb39a2d5d4fb27cc36c35c101"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#a00fdcdbeb39a2d5d4fb27cc36c35c101">setLogLevel</a> (<a class="el" href="../../d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> <a class="el" href="../../d3/d53/a05410.html#a3b1d9dd7bd391ac7bed560918f82a03b">level</a>)</td></tr>
+<tr class="separator:a00fdcdbeb39a2d5d4fb27cc36c35c101"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3627f98e8676ee7b68a34a4d9439082e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#a3627f98e8676ee7b68a34a4d9439082e">write</a> (<a class="el" href="../../dd/d15/a05414.html">LogMessage</a> *message) const</td></tr>
+<tr class="separator:a3627f98e8676ee7b68a34a4d9439082e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a3af6d8a1a621f5e39b2d691ffbe2375c"><td class="memItemLeft" align="right" valign="top">LoggerType&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#a3af6d8a1a621f5e39b2d691ffbe2375c">_logger</a></td></tr>
-<tr class="separator:a3af6d8a1a621f5e39b2d691ffbe2375c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a74ad62e26a4f6598c76ca5c2d928d3a2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d06/a00131.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#a74ad62e26a4f6598c76ca5c2d928d3a2">_startTime</a></td></tr>
-<tr class="separator:a74ad62e26a4f6598c76ca5c2d928d3a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ada299a7dd268085371557213e36695a9"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#ada299a7dd268085371557213e36695a9">name</a></td></tr>
+<tr class="separator:ada299a7dd268085371557213e36695a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3b1d9dd7bd391ac7bed560918f82a03b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#a3b1d9dd7bd391ac7bed560918f82a03b">level</a></td></tr>
+<tr class="separator:a3b1d9dd7bd391ac7bed560918f82a03b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa93931f2386ebc6dbf2464f536ed54f9"><td class="memItemLeft" align="right" valign="top">std::unordered_map&lt; <a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, <a class="el" href="../../d1/df3/a05390.html">Appender</a> * &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d53/a05410.html#aa93931f2386ebc6dbf2464f536ed54f9">appenders</a></td></tr>
+<tr class="separator:aa93931f2386ebc6dbf2464f536ed54f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><div class="compoundTemplParams">template&lt;typename LoggerType&gt;<br />
-class MetricStopWatch&lt; LoggerType &gt;</div></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a2007207e0985949f478fdeee300ea0d5" name="a2007207e0985949f478fdeee300ea0d5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2007207e0985949f478fdeee300ea0d5">&#9670;&#160;</a></span>MetricStopWatch()</h2>
+<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a79033d763c69dbfb95b1c591f1cc680b" name="a79033d763c69dbfb95b1c591f1cc680b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a79033d763c69dbfb95b1c591f1cc680b">&#9670;&#160;</a></span>Logger()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename LoggerType &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/d53/a05410.html">MetricStopWatch</a>&lt; LoggerType &gt;<a class="el" href="../../d3/d53/a05410.html">::MetricStopWatch</a> </td>
+          <td class="memname">Logger::Logger </td>
           <td>(</td>
-          <td class="paramtype">LoggerType &amp;&amp;&#160;</td>
-          <td class="paramname"><em>loggerFunc</em></td><td>)</td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>name</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a>&#160;</td>
+          <td class="paramname"><em>level</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  140</span>                                             :</div>
-<div class="line"><span class="lineno">  141</span>        <a class="code hl_variable" href="../../d3/d53/a05410.html#a3af6d8a1a621f5e39b2d691ffbe2375c">_logger</a>(std::forward&lt;LoggerType&gt;(loggerFunc)),</div>
-<div class="line"><span class="lineno">  142</span>        <a class="code hl_variable" href="../../d3/d53/a05410.html#a74ad62e26a4f6598c76ca5c2d928d3a2">_startTime</a>(<a class="code hl_define" href="../../d7/d00/a00401.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;IsEnabled() ? std::chrono::steady_clock::now() : <a class="code hl_typedef" href="../../d7/d06/a00131.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a>())</div>
-<div class="line"><span class="lineno">  143</span>    {</div>
-<div class="line"><span class="lineno">  144</span>    }</div>
-<div class="ttc" id="aa00131_html_ae5ca775e8d8c664b6edef818ce1251b9"><div class="ttname"><a href="../../d7/d06/a00131.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a></div><div class="ttdeci">std::chrono::steady_clock::time_point TimePoint</div><div class="ttdoc">time_point shorthand typedefs</div><div class="ttdef"><b>Definition:</b> Duration.h:69</div></div>
-<div class="ttc" id="aa00401_html_a4e89926204845a9c9e315d6f0abec5ef"><div class="ttname"><a href="../../d7/d00/a00401.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a></div><div class="ttdeci">#define sMetric</div><div class="ttdef"><b>Definition:</b> Metric.h:134</div></div>
-<div class="ttc" id="aa05410_html_a3af6d8a1a621f5e39b2d691ffbe2375c"><div class="ttname"><a href="../../d3/d53/a05410.html#a3af6d8a1a621f5e39b2d691ffbe2375c">MetricStopWatch::_logger</a></div><div class="ttdeci">LoggerType _logger</div><div class="ttdef"><b>Definition:</b> Metric.h:153</div></div>
-<div class="ttc" id="aa05410_html_a74ad62e26a4f6598c76ca5c2d928d3a2"><div class="ttname"><a href="../../d3/d53/a05410.html#a74ad62e26a4f6598c76ca5c2d928d3a2">MetricStopWatch::_startTime</a></div><div class="ttdeci">TimePoint _startTime</div><div class="ttdef"><b>Definition:</b> Metric.h:154</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   22</span>: <a class="code hl_variable" href="../../d3/d53/a05410.html#ada299a7dd268085371557213e36695a9">name</a>(_name), <a class="code hl_variable" href="../../d3/d53/a05410.html#a3b1d9dd7bd391ac7bed560918f82a03b">level</a>(_level) { }</div>
+<div class="ttc" id="aa05410_html_a3b1d9dd7bd391ac7bed560918f82a03b"><div class="ttname"><a href="../../d3/d53/a05410.html#a3b1d9dd7bd391ac7bed560918f82a03b">Logger::level</a></div><div class="ttdeci">LogLevel level</div><div class="ttdef"><b>Definition:</b> Logger.h:44</div></div>
+<div class="ttc" id="aa05410_html_ada299a7dd268085371557213e36695a9"><div class="ttname"><a href="../../d3/d53/a05410.html#ada299a7dd268085371557213e36695a9">Logger::name</a></div><div class="ttdeci">std::string name</div><div class="ttdef"><b>Definition:</b> Logger.h:43</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a712b660e090531e69455096afeb60c4c" name="a712b660e090531e69455096afeb60c4c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a712b660e090531e69455096afeb60c4c">&#9670;&#160;</a></span>~MetricStopWatch()</h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="aabacae0a84994e5567f9c87829909fdd" name="aabacae0a84994e5567f9c87829909fdd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aabacae0a84994e5567f9c87829909fdd">&#9670;&#160;</a></span>addAppender()</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename LoggerType &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d3/d53/a05410.html">MetricStopWatch</a>&lt; LoggerType &gt;::~<a class="el" href="../../d3/d53/a05410.html">MetricStopWatch</a> </td>
+          <td class="memname">void Logger::addAppender </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>type</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d1/df3/a05390.html">Appender</a> *&#160;</td>
+          <td class="paramname"><em>appender</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   35</span>{</div>
+<div class="line"><span class="lineno">   36</span>    <a class="code hl_variable" href="../../d3/d53/a05410.html#aa93931f2386ebc6dbf2464f536ed54f9">appenders</a>[id] = appender;</div>
+<div class="line"><span class="lineno">   37</span>}</div>
+<div class="ttc" id="aa05410_html_aa93931f2386ebc6dbf2464f536ed54f9"><div class="ttname"><a href="../../d3/d53/a05410.html#aa93931f2386ebc6dbf2464f536ed54f9">Logger::appenders</a></div><div class="ttdeci">std::unordered_map&lt; uint8, Appender * &gt; appenders</div><div class="ttdef"><b>Definition:</b> Logger.h:45</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00045">appenders</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00195">Log::ReadLoggersFromConfig()</a>.</p>
+
+</div>
+</div>
+<a id="a1fb8747bf7b652b9dfbf9ee830a82c8b" name="a1fb8747bf7b652b9dfbf9ee830a82c8b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1fb8747bf7b652b9dfbf9ee830a82c8b">&#9670;&#160;</a></span>delAppender()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Logger::delAppender </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td>
+          <td class="paramname"><em>type</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   40</span>{</div>
+<div class="line"><span class="lineno">   41</span>    <a class="code hl_variable" href="../../d3/d53/a05410.html#aa93931f2386ebc6dbf2464f536ed54f9">appenders</a>.erase(<span class="keywordtype">id</span>);</div>
+<div class="line"><span class="lineno">   42</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00045">appenders</a>.</p>
+
+</div>
+</div>
+<a id="aba945b0f037b7de27976d3a6e1a0fbbd" name="aba945b0f037b7de27976d3a6e1a0fbbd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aba945b0f037b7de27976d3a6e1a0fbbd">&#9670;&#160;</a></span>getLogLevel()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> Logger::getLogLevel </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   30</span>{</div>
+<div class="line"><span class="lineno">   31</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d53/a05410.html#a3b1d9dd7bd391ac7bed560918f82a03b">level</a>;</div>
+<div class="line"><span class="lineno">   32</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00044">level</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00342">Log::ShouldLog()</a>.</p>
+
+</div>
+</div>
+<a id="ae95167d7bb330ecc0a49779a5635d1e2" name="ae95167d7bb330ecc0a49779a5635d1e2"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae95167d7bb330ecc0a49779a5635d1e2">&#9670;&#160;</a></span>getName()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string const  &amp; Logger::getName </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   25</span>{</div>
+<div class="line"><span class="lineno">   26</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d3/d53/a05410.html#ada299a7dd268085371557213e36695a9">name</a>;</div>
+<div class="line"><span class="lineno">   27</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00043">name</a>.</p>
+
+</div>
+</div>
+<a id="a00fdcdbeb39a2d5d4fb27cc36c35c101" name="a00fdcdbeb39a2d5d4fb27cc36c35c101"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a00fdcdbeb39a2d5d4fb27cc36c35c101">&#9670;&#160;</a></span>setLogLevel()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Logger::setLogLevel </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a>&#160;</td>
+          <td class="paramname"><em>level</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  147</span>    {</div>
-<div class="line"><span class="lineno">  148</span>        <span class="keywordflow">if</span> (<a class="code hl_define" href="../../d7/d00/a00401.html#a4e89926204845a9c9e315d6f0abec5ef">sMetric</a>-&gt;IsEnabled())</div>
-<div class="line"><span class="lineno">  149</span>            <a class="code hl_variable" href="../../d3/d53/a05410.html#a3af6d8a1a621f5e39b2d691ffbe2375c">_logger</a>(<a class="code hl_variable" href="../../d3/d53/a05410.html#a74ad62e26a4f6598c76ca5c2d928d3a2">_startTime</a>);</div>
-<div class="line"><span class="lineno">  150</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">   45</span>{</div>
+<div class="line"><span class="lineno">   46</span>    <a class="code hl_variable" href="../../d3/d53/a05410.html#a3b1d9dd7bd391ac7bed560918f82a03b">level</a> = _level;</div>
+<div class="line"><span class="lineno">   47</span>}</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00153">MetricStopWatch&lt; LoggerType &gt;::_logger</a>, <a class="el" href="../../#l00154">MetricStopWatch&lt; LoggerType &gt;::_startTime</a>, and <a class="el" href="../../#l00134">sMetric</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00044">level</a>.</p>
+
+</div>
+</div>
+<a id="a3627f98e8676ee7b68a34a4d9439082e" name="a3627f98e8676ee7b68a34a4d9439082e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3627f98e8676ee7b68a34a4d9439082e">&#9670;&#160;</a></span>write()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void Logger::write </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/d15/a05414.html">LogMessage</a> *&#160;</td>
+          <td class="paramname"><em>message</em></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="fragment"><div class="line"><span class="lineno">   50</span>{</div>
+<div class="line"><span class="lineno">   51</span>    <span class="keywordflow">if</span> (!<a class="code hl_variable" href="../../d3/d53/a05410.html#a3b1d9dd7bd391ac7bed560918f82a03b">level</a> || level &lt; message-&gt;<a class="code hl_variable" href="../../d3/d53/a05410.html#a3b1d9dd7bd391ac7bed560918f82a03b">level</a> || message-&gt;<a class="code hl_variable" href="../../dd/d15/a05414.html#a4ad799611980177ae87f3acbf2af8ff7">text</a>.empty())</div>
+<div class="line"><span class="lineno">   52</span>    {</div>
+<div class="line"><span class="lineno">   53</span>        <span class="comment">//fprintf(stderr, &quot;Logger::write: Logger %s, Level %u. Msg %s Level %u WRONG LEVEL MASK OR EMPTY MSG\n&quot;, getName().c_str(), getLogLevel(), message.text.c_str(), message.level);</span></div>
+<div class="line"><span class="lineno">   54</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">   55</span>    }</div>
+<div class="line"><span class="lineno">   56</span> </div>
+<div class="line"><span class="lineno">   57</span>    <span class="keywordflow">for</span> (std::pair&lt;uint8 const, Appender*&gt; <span class="keyword">const</span>&amp; appender : <a class="code hl_variable" href="../../d3/d53/a05410.html#aa93931f2386ebc6dbf2464f536ed54f9">appenders</a>)</div>
+<div class="line"><span class="lineno">   58</span>        <span class="keywordflow">if</span> (appender.second)</div>
+<div class="line"><span class="lineno">   59</span>        {</div>
+<div class="line"><span class="lineno">   60</span>            appender.second-&gt;write(message);</div>
+<div class="line"><span class="lineno">   61</span>        }</div>
+<div class="line"><span class="lineno">   62</span>}</div>
+<div class="ttc" id="aa05414_html_a4ad799611980177ae87f3acbf2af8ff7"><div class="ttname"><a href="../../dd/d15/a05414.html#a4ad799611980177ae87f3acbf2af8ff7">LogMessage::text</a></div><div class="ttdeci">std::string const text</div><div class="ttdef"><b>Definition:</b> LogMessage.h:39</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00045">appenders</a>, <a class="el" href="../../#l00044">level</a>, and <a class="el" href="../../#l00039">LogMessage::text</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00030">LogOperation::call()</a>, and <a class="el" href="../../#l00244">Log::write()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a3af6d8a1a621f5e39b2d691ffbe2375c" name="a3af6d8a1a621f5e39b2d691ffbe2375c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3af6d8a1a621f5e39b2d691ffbe2375c">&#9670;&#160;</a></span>_logger</h2>
+<a id="aa93931f2386ebc6dbf2464f536ed54f9" name="aa93931f2386ebc6dbf2464f536ed54f9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa93931f2386ebc6dbf2464f536ed54f9">&#9670;&#160;</a></span>appenders</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename LoggerType &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">LoggerType <a class="el" href="../../d3/d53/a05410.html">MetricStopWatch</a>&lt; LoggerType &gt;::_logger</td>
+          <td class="memname">std::unordered_map&lt;<a class="el" href="../../d2/dfc/a04310.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>, <a class="el" href="../../d1/df3/a05390.html">Appender</a>*&gt; Logger::appenders</td>
         </tr>
       </table>
   </td>
@@ -224,23 +359,21 @@ template&lt;typename LoggerType &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00146">MetricStopWatch&lt; LoggerType &gt;::~MetricStopWatch()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00034">addAppender()</a>, <a class="el" href="../../#l00039">delAppender()</a>, and <a class="el" href="../../#l00049">write()</a>.</p>
 
 </div>
 </div>
-<a id="a74ad62e26a4f6598c76ca5c2d928d3a2" name="a74ad62e26a4f6598c76ca5c2d928d3a2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a74ad62e26a4f6598c76ca5c2d928d3a2">&#9670;&#160;</a></span>_startTime</h2>
+<a id="a3b1d9dd7bd391ac7bed560918f82a03b" name="a3b1d9dd7bd391ac7bed560918f82a03b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3b1d9dd7bd391ac7bed560918f82a03b">&#9670;&#160;</a></span>level</h2>
 
 <div class="memitem">
 <div class="memproto">
-<div class="memtemplate">
-template&lt;typename LoggerType &gt; </div>
 <table class="mlabels">
   <tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d7/d06/a00131.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a> <a class="el" href="../../d3/d53/a05410.html">MetricStopWatch</a>&lt; LoggerType &gt;::_startTime</td>
+          <td class="memname"><a class="el" href="../../d9/d98/a04610.html#ad26ed09e30f81a5d2172b4793a3f2781">LogLevel</a> Logger::level</td>
         </tr>
       </table>
   </td>
@@ -250,7 +383,31 @@ template&lt;typename LoggerType &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00146">MetricStopWatch&lt; LoggerType &gt;::~MetricStopWatch()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00029">getLogLevel()</a>, <a class="el" href="../../#l00044">setLogLevel()</a>, and <a class="el" href="../../#l00049">write()</a>.</p>
+
+</div>
+</div>
+<a id="ada299a7dd268085371557213e36695a9" name="ada299a7dd268085371557213e36695a9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ada299a7dd268085371557213e36695a9">&#9670;&#160;</a></span>name</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string Logger::name</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00024">getName()</a>.</p>
 
 </div>
 </div>
@@ -259,8 +416,8 @@ template&lt;typename LoggerType &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d53/a05410.html">MetricStopWatch</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:45:26 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d53/a05410.html">Logger</a></li>
+    <li class="footer">Generated on Mon Dec 1 2025 20:47:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,8 +1,8 @@
 var a12934 =
 [
-    [ "CalcPeriodic", "de/d9e/a12934.html#a493609298c152df8216641ba2e5861cd", null ],
-    [ "PrepareAuraScript", "de/d9e/a12934.html#a30c2bac7e939cf7de2141f6cdfa51619", null ],
-    [ "Register", "de/d9e/a12934.html#a44002db5980dfc1db816cf61fd446491", null ],
-    [ "Update", "de/d9e/a12934.html#a7a1fc11cf4183c7202a929c72035d8e7", null ],
-    [ "Validate", "de/d9e/a12934.html#a060e189aaa4396681d42906b65c9196f", null ]
+    [ "npc_tito", "de/d9e/a12934.html#a0b3b1750e8b8840e50d27d22ebddb7c8", null ],
+    [ "JustEngagedWith", "de/d9e/a12934.html#a71335c1474e8a29edf76addacb737fa9", null ],
+    [ "UpdateAI", "de/d9e/a12934.html#ac357c29e68d8480d94349da844efd3ad", null ],
+    [ "_scheduler", "de/d9e/a12934.html#a96c47ca2e66bb984dfd2cfefa6bde643", null ],
+    [ "instance", "de/d9e/a12934.html#a9eecd226486e52d559ae1a30687bf0eb", null ]
 ];

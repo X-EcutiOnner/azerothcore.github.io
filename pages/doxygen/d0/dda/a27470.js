@@ -1,6 +1,6 @@
 var a27470 =
 [
-    [ "go_l70_etc_musicAI", "d0/dda/a27470.html#a1709414fc40d48ac7c13eb8251dfbb26", null ],
-    [ "UpdateAI", "d0/dda/a27470.html#a182a5a9bbe53ced25740de9a4a368469", null ],
-    [ "_events", "d0/dda/a27470.html#aa0cda672b4491b3cfc75214038aa2132", null ]
+    [ "go_darkmoon_faire_musicAI", "d6/dbe/a27474.html", "d6/dbe/a27474" ],
+    [ "go_darkmoon_faire_music", "d0/dda/a27470.html#ab8dd92213e1c2815ff9498267b09b5f2", null ],
+    [ "GetAI", "d0/dda/a27470.html#a03be3eddefe4eeba8a0af8ee02bf2839", null ]
 ];

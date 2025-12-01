@@ -1,9 +1,9 @@
 var a02666 =
 [
-    [ "boss_elder_nadox", "d1/d0c/a15984.html", "d1/d0c/a15984" ],
-    [ "npc_ahnkahar_nerubian", "d8/de5/a15988.html", "d8/de5/a15988" ],
-    [ "spell_ahn_kahet_swarmer_aura", "db/d87/a15992.html", "db/d87/a15992" ],
-    [ "achievement_respect_your_elders", "d8/ddf/a15996.html", "d8/ddf/a15996" ],
+    [ "boss_elder_nadox", "d9/d77/a15990.html", "d9/d77/a15990" ],
+    [ "npc_ahnkahar_nerubian", "d2/d17/a15994.html", "d2/d17/a15994" ],
+    [ "spell_ahn_kahet_swarmer_aura", "db/d00/a15998.html", "db/d00/a15998" ],
+    [ "achievement_respect_your_elders", "da/d8a/a16002.html", "da/d8a/a16002" ],
     [ "Creatures", "d1/d0c/a02666.html#a25a619e6b66096a4f05d048e4a96df08", [
       [ "NPC_NORTH_MARSHAL", "d5/d56/a03437.html#a25a619e6b66096a4f05d048e4a96df08abeb6d3b1ff8238f7c57911ab8acde69e", null ],
       [ "NPC_SOUTH_MARSHAL", "d5/d56/a03437.html#a25a619e6b66096a4f05d048e4a96df08a9a3360dc10641daabdef8158f42ee00e", null ],
@@ -1727,7 +1727,8 @@ var a02666 =
       [ "EVENT_ECK_BITE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a25fd4fd9c83fea5e757a20aeb8f03aee", null ],
       [ "EVENT_ECK_SPIT", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6add7ba9bf01f5f04dac1d93a997b57af2", null ],
       [ "EVENT_ECK_SPRING", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6c3f22fd6aa63e5bf101019792a4b483", null ],
-      [ "EVENT_ECK_HEALTH", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f0a1bde1d1f47b6f7e45f621a57b6c1", null ],
+      [ "EVENT_ECK_CRAZED_EMOTE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6eeac32439bad23ef93cf41b4526d55d", null ],
+      [ "EMOTE_CRAZED", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2628cfc3f39065948404f522308c931f", null ],
       [ "NPC_SLADRAN_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08dc37f063f5d70a3893765939f63a82", null ],
       [ "NPC_SLADRAN_CONSTRICTORS", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a52bf6fd6ef6437b9a4e88616b7f1d91b", null ],
       [ "MAX_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1e3f12d08f9d4880b8263386a54d21c8", null ],

@@ -1,6 +1,6 @@
 var a20214 =
 [
-    [ "CheckCast", "d9/d98/a20214.html#a866fd47d51b5fc4c07c3733739d07c02", null ],
-    [ "PrepareSpellScript", "d9/d98/a20214.html#a09cbe962ae1f18811db8c1d32b856c0d", null ],
-    [ "Register", "d9/d98/a20214.html#a240989af43e5ad6eb81d600a2f1d4769", null ]
+    [ "boss_freya_elder_brightleafAI", "da/d7e/a20218.html", "da/d7e/a20218" ],
+    [ "boss_freya_elder_brightleaf", "d9/d98/a20214.html#a9b1539b37912ef5ae46d5926bf2e0f40", null ],
+    [ "GetAI", "d9/d98/a20214.html#a3c39424ecf97ced8c2a962baff5ae342", null ]
 ];

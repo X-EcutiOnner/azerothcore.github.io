@@ -1,5 +1,6 @@
 var a23206 =
 [
-    [ "npc_vengeful_spirit", "dd/d29/a23206.html#a06bd2b08a7719ae35dd6ad844ce3b3bd", null ],
-    [ "OnCharmed", "dd/d29/a23206.html#a8aec87a3e6a7af96253035dbd9e813ad", null ]
+    [ "HandleScriptEffect", "dd/d29/a23206.html#a0810dd4ad4d324c1a53e192fc99d1d35", null ],
+    [ "PrepareSpellScript", "dd/d29/a23206.html#a0ece61d7bed3e19ee6f6175a55c0733d", null ],
+    [ "Register", "dd/d29/a23206.html#a827cefe322562f0e8ea7cfa58b9a776b", null ]
 ];

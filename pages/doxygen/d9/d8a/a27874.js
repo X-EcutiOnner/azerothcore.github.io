@@ -1,6 +1,7 @@
 var a27874 =
 [
-    [ "npc_stable_masterAI", "d6/df2/a27878.html", "d6/df2/a27878" ],
-    [ "npc_stable_master", "d9/d8a/a27874.html#ad327340f47e10bec7f077192227b0899", null ],
-    [ "GetAI", "d9/d8a/a27874.html#a7e34e18d2dad465eb88b0388fa830490", null ]
+    [ "npc_crashin_thrashin_robot", "d9/d8a/a27874.html#ad21336d212498b1c9ef5d46979d147ab", null ],
+    [ "IsSummonedBy", "d9/d8a/a27874.html#a0652cd455791461f613ab4ebf77d2c3c", null ],
+    [ "UpdateAI", "d9/d8a/a27874.html#a1d21cd2075f3aeba2c7f1e735a33dfec", null ],
+    [ "_scheduler", "d9/d8a/a27874.html#a55778501d154d0a9e77f76054e926f85", null ]
 ];

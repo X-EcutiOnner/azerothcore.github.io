@@ -1,28 +1,6 @@
 var a14978 =
 [
-    [ "instance_culling_of_stratholme_InstanceMapScript", "d9/d6e/a14978.html#ab14fa9416d0971ed84d659cad15f7065", null ],
-    [ "ChromieWhisper", "d9/d6e/a14978.html#ae97d05afd1cb4b8d665ad3361a517781", null ],
-    [ "FillInitialWorldStates", "d9/d6e/a14978.html#aa3433b8a185c31d8c00ae1ffab10baa2", null ],
-    [ "GetData", "d9/d6e/a14978.html#aaea6ab9b71d52377ddebd7b54b354c1e", null ],
-    [ "GetGuidData", "d9/d6e/a14978.html#adc795bd78af72bd6bda8546a756a94e0", null ],
-    [ "GetSaveData", "d9/d6e/a14978.html#ad0d4cd6646c52dba390193b38df00d6f", null ],
-    [ "IsEncounterInProgress", "d9/d6e/a14978.html#ad64c44c62f429cbca6c2e720a35a7b41", null ],
-    [ "Load", "d9/d6e/a14978.html#a7981d6fc2a4f4113d9844ffd9a917473", null ],
-    [ "OnCreatureCreate", "d9/d6e/a14978.html#a160e3b02d40abecbc16533972433fe9b", null ],
-    [ "OnGameObjectCreate", "d9/d6e/a14978.html#a6fe2831227ec9f43882cf19849689a45", null ],
-    [ "OnPlayerEnter", "d9/d6e/a14978.html#a09088000395dbd2b1255c02b4867898d", null ],
-    [ "Reposition", "d9/d6e/a14978.html#a32218976e637b9499bcbd8f1e4d9c8c8", null ],
-    [ "SetData", "d9/d6e/a14978.html#a02fc56dddc6b300f06c7cc5f8fb3ded7", null ],
-    [ "Update", "d9/d6e/a14978.html#a9e90b4dd34a8a81b499b1402fbbaf218", null ],
-    [ "UpdateEventState", "d9/d6e/a14978.html#aff8e5df41dd304df32a6ad3ac185b672", null ],
-    [ "_arthasGUID", "d9/d6e/a14978.html#a1047f207de079d1cad0fc6976ab2d3f9", null ],
-    [ "_crateCount", "d9/d6e/a14978.html#a7cdab6cdc847b4b3c434ee42ff458dae", null ],
-    [ "_encounterState", "d9/d6e/a14978.html#a0a5afd0104654aea57479fa3f4d1e36a", null ],
-    [ "_exitGateGUID", "d9/d6e/a14978.html#ab671339f99ddc498950ef868042fd4a4", null ],
-    [ "_guardianTimer", "d9/d6e/a14978.html#aaf1409ef7e2c3ef43d0704f586a75312", null ],
-    [ "_infiniteGUID", "d9/d6e/a14978.html#a96d30d5f0dabb385f36e4b0a0762a16a", null ],
-    [ "_loadTimer", "d9/d6e/a14978.html#a87002a39776087346791b9026c6e2e07", null ],
-    [ "_respawnAndReposition", "d9/d6e/a14978.html#af768b50e85b799d35844b173d94e578d", null ],
-    [ "_shkafGateGUID", "d9/d6e/a14978.html#a4a7fd8572c70c16853cf7cd410197e52", null ],
-    [ "_showCrateTimer", "d9/d6e/a14978.html#ae6948cd547db988418c5d98f435ef2b8", null ]
+    [ "npc_cos_stratholme_citizienAI", "dd/dd1/a14982.html", "dd/dd1/a14982" ],
+    [ "npc_cos_stratholme_citizien", "d9/d6e/a14978.html#a92f8d88ecfa9cc47d6799107e5de0107", null ],
+    [ "GetAI", "d9/d6e/a14978.html#a4f5f132b903241021a4e53dd60c0f43b", null ]
 ];

@@ -1,17 +1,14 @@
 var a23842 =
 [
-    [ "boss_grand_warlock_nethekurse", "db/d29/a23842.html#a4eefeb639cf5f0753feb6cfd99cda187", null ],
-    [ "DoAction", "db/d29/a23842.html#a8288f8c28b61dac574254435534b5e3f", null ],
-    [ "IntroRP", "db/d29/a23842.html#ae071f8cc7ef44e6c6cf205295debea5f", null ],
-    [ "JustDied", "db/d29/a23842.html#a48a2ec7beeb5c9685fc627317acea949", null ],
-    [ "JustEngagedWith", "db/d29/a23842.html#a117d2d737433ea89b37ea1ee58e6c237", null ],
-    [ "JustReachedHome", "db/d29/a23842.html#afe62561de66fbe7fa92c365a51f01adc", null ],
-    [ "KilledUnit", "db/d29/a23842.html#ac29fa30bfa8377a07cbfdd1f0964ebfb", null ],
-    [ "Reset", "db/d29/a23842.html#aceef7aace38f5246ad67a1591b7f301c", null ],
-    [ "SetData", "db/d29/a23842.html#a6c647262ce7df78c46af6b725cbcc250", null ],
-    [ "UpdateAI", "db/d29/a23842.html#aca0bd4c71aafd2d1c54e2ca87d538e9a", null ],
-    [ "_canAggro", "db/d29/a23842.html#a9c577798d5bc87654e6984af02d95c34", null ],
-    [ "_introStarted", "db/d29/a23842.html#ac7d0737aa28c51cc63d93b8774e536f0", null ],
-    [ "PeonEngagedCount", "db/d29/a23842.html#a886a0e792cf5ac6afa9670703cb568ff", null ],
-    [ "PeonKilledCount", "db/d29/a23842.html#a8837d810df1d8b8a505d2d6c98ac8be8", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "db/d29/a23842.html#aa438091d2868b26d961ee4f81e9cea11", null ],
+    [ "GetGuidData", "db/d29/a23842.html#a1a0623204ecaaa3623fc503783c4d766", null ],
+    [ "Initialize", "db/d29/a23842.html#a3761d56e59d5bf1147986978c9fdf2e3", null ],
+    [ "OnCreatureCreate", "db/d29/a23842.html#a9fa5637791d249553472b31c024f9fc1", null ],
+    [ "ReadSaveDataMore", "db/d29/a23842.html#a67bc6a2dde5c649d16ef7e2c26c6069b", null ],
+    [ "SetData", "db/d29/a23842.html#a566090f29d13977354fb50e68d92f046", null ],
+    [ "Update", "db/d29/a23842.html#aad1666c364feff4e2b7654f5894c129f", null ],
+    [ "WriteSaveDataMore", "db/d29/a23842.html#aaa8b1b054df41a79ac074ae48e180ee9", null ],
+    [ "ExecutionerGUID", "db/d29/a23842.html#aa879398b1732952eba7b2b8a822a959e", null ],
+    [ "PrisonerGUID", "db/d29/a23842.html#a0648efa6b0bbf4860d55f9b11f138e39", null ],
+    [ "RescueTimer", "db/d29/a23842.html#a8df2961264a192ab2692e3c8ca507666", null ]
 ];

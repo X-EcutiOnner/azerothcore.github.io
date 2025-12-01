@@ -1,20 +1,7 @@
 var a05558 =
 [
-    [ "AsyncProcessResultImplementation", "da/d7e/a05558.html#a1af6678b7ebf6402df0961cac5ba9ffe", null ],
-    [ "AsyncProcessResultImplementation", "da/d7e/a05558.html#a6b2ff159a1bfcaf531d0345dbc93c2bd", null ],
-    [ "AsyncProcessResultImplementation", "da/d7e/a05558.html#acde599a3b98f50b0432b0a067a00ecf8", null ],
-    [ "GetFutureResult", "da/d7e/a05558.html#a202ec00d726449fea26b3ee0d5bd7025", null ],
-    [ "operator=", "da/d7e/a05558.html#a4fb3bbb8c65e0baee35fc94cb17b1f3f", null ],
-    [ "operator=", "da/d7e/a05558.html#a82f3834506db5ed9eda323390bbdf36a", null ],
-    [ "SetFuture", "da/d7e/a05558.html#a1619a398624976e15c7926b57c9484bc", null ],
-    [ "StartProcess", "da/d7e/a05558.html#a908c5a545ab501f93a8a2525bbad6317", null ],
-    [ "Terminate", "da/d7e/a05558.html#a3ddce3d7de8eda350636f0ea8ddfde53", null ],
-    [ "args", "da/d7e/a05558.html#a2fe2cc9a0a02e6fc8ba383ecccf18060", null ],
-    [ "executable", "da/d7e/a05558.html#a7fbbe1d2ede5eac4f7bd814d4bfe8983", null ],
-    [ "input_file", "da/d7e/a05558.html#a30ac6b4cb91d8f4e63f8ff0ba47f7c9c", null ],
-    [ "is_secure", "da/d7e/a05558.html#a4a8891a13f997d26b6daf9eead76f219", null ],
-    [ "logger", "da/d7e/a05558.html#a5d60fa7b6e4277f2dfc8d743ea756ff2", null ],
-    [ "my_child", "da/d7e/a05558.html#a7aaa7f31e23947aca109871572875f4d", null ],
-    [ "result", "da/d7e/a05558.html#a9a8efa6f7ad48797c28691c08b4ede9b", null ],
-    [ "was_terminated", "da/d7e/a05558.html#a9868b0110f4db8a1d099243003c83753", null ]
+    [ "~SignalHandler", "da/d7e/a05558.html#a9c515cb60b156629c43d1a6fce81d58e", null ],
+    [ "handle_signal", "da/d7e/a05558.html#a56782d1718cb243bb5b0c6dc2d100042", null ],
+    [ "_handled", "da/d7e/a05558.html#a21b208a696ed4a320a7cf312006a787f", null ],
+    [ "_mutex", "da/d7e/a05558.html#a0c4d6ba642dd3877c3333b067db22db6", null ]
 ];

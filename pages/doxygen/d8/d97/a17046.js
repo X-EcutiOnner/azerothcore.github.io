@@ -1,11 +1,12 @@
 var a17046 =
 [
-    [ "npc_hor_leaderAI", "d8/d97/a17046.html#a2072f9facbc476bb97f1a3ca9c24fcb7", null ],
-    [ "DoAction", "d8/d97/a17046.html#a610700732a6cc197a40106adef654a62", null ],
-    [ "Reset", "d8/d97/a17046.html#a40749d0294400e15bc28f6e728c6cb3c", null ],
-    [ "UpdateAI", "d8/d97/a17046.html#acb29a6ddb6d06616e79f7431b66f167a", null ],
-    [ "events", "d8/d97/a17046.html#a94128223bddd84b8a678e49f3189cb75", null ],
-    [ "first", "d8/d97/a17046.html#add878d336fa7e20bee4d05ac0383dd0a", null ],
-    [ "pInstance", "d8/d97/a17046.html#a8dd77a92b151acad640f1272acf0b65f", null ],
-    [ "shortver", "d8/d97/a17046.html#a6e7b5d6f1b73bacb54d9aa1eb21fe6ee", null ]
+    [ "npc_ghostly_priestAI", "d8/d97/a17046.html#abb6815d1395b68654eeb6ab8b4217388", null ],
+    [ "AttackStart", "d8/d97/a17046.html#a9719d1ad6e58b727bc1720cb815be3e9", null ],
+    [ "DoAction", "d8/d97/a17046.html#a89c991a1d4c07f1229436871f503c949", null ],
+    [ "EnterEvadeMode", "d8/d97/a17046.html#ab8fd2df32ef12f5f648b8af9abcc3201", null ],
+    [ "JustDied", "d8/d97/a17046.html#a004e8aec05741b9ee36b0695840e6c2a", null ],
+    [ "JustEngagedWith", "d8/d97/a17046.html#a780d530e224ca1f72e26db17cd57f44a", null ],
+    [ "Reset", "d8/d97/a17046.html#ab8f7559110be76633153842e0714554a", null ],
+    [ "UpdateAI", "d8/d97/a17046.html#ab431f451963d0b608f11129934496700", null ],
+    [ "events", "d8/d97/a17046.html#a9b49c143b5a29b4f9b4ce34ce0aecca7", null ]
 ];

@@ -1,6 +1,6 @@
 var a23330 =
 [
-    [ "LeechingThrowSelector", "d4/ddf/a23330.html#a4308c7be06e2e70d3a269b6dc78420cb", null ],
-    [ "operator()", "d4/ddf/a23330.html#a76c7746a9b0aee52201881c4d9572bde", null ],
-    [ "_source", "d4/ddf/a23330.html#a22a123333a8fbd50ccd4c37afe28d2f0", null ]
+    [ "HandleScriptEffect", "d4/ddf/a23330.html#a62ed9bff154c5aab74e044f8f9982263", null ],
+    [ "PrepareSpellScript", "d4/ddf/a23330.html#a0e87265cf22ef8b4e302b8e216123395", null ],
+    [ "Register", "d4/ddf/a23330.html#a0d722447d91991462245e8b392d20e10", null ]
 ];

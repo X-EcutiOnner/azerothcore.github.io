@@ -1,21 +1,14 @@
 var a13386 =
 [
-    [ "instance_sunken_temple_InstanceMapScript", "d5/ddd/a13386.html#a7c686c287e8fedd53c2a22afd5721656", null ],
-    [ "GetData", "d5/ddd/a13386.html#aa6247ca0f46a680373601bae1308b94d", null ],
-    [ "Initialize", "d5/ddd/a13386.html#a31b05a8c4e90cbb17dc5d82b79d49b47", null ],
-    [ "OnCreatureCreate", "d5/ddd/a13386.html#ae57762cc1a5555f0532cf630179d2840", null ],
-    [ "OnGameObjectCreate", "d5/ddd/a13386.html#afce97e50bbc6d935c183b1ed21f6c993", null ],
-    [ "OnUnitDeath", "d5/ddd/a13386.html#a4991152894573857021bc3b1fe632a06", null ],
-    [ "ReadSaveDataMore", "d5/ddd/a13386.html#af97a2dc80ff18b4258e2137c60c5983d", null ],
-    [ "SetData", "d5/ddd/a13386.html#ad87da3eb261f03d36d7520dc20d8b1b9", null ],
-    [ "Update", "d5/ddd/a13386.html#aa4ffd7ee39e413c7486eea1d738be522", null ],
-    [ "WriteSaveDataMore", "d5/ddd/a13386.html#a2d8da39156e465ec987c518e747f453b", null ],
-    [ "_defendersKilled", "d5/ddd/a13386.html#abb53f597c52726680dd20f4946dc363b", null ],
-    [ "_dragonkinList", "d5/ddd/a13386.html#a92ccf87798e87caf106e274169ef9d6e", null ],
-    [ "_encounters", "d5/ddd/a13386.html#a616b3762e7400b17bb6fc1f3b0a8f2a9", null ],
-    [ "_events", "d5/ddd/a13386.html#af535a80d3e92a9ff42c6d9edaa989a44", null ],
-    [ "_forcefieldGUID", "d5/ddd/a13386.html#a57d520ed6f16c3f881f892e7578ad378", null ],
-    [ "_jammalanGUID", "d5/ddd/a13386.html#ab51ad8cd98d085811aa2c02494de3a7c", null ],
-    [ "_shadeOfEranikusGUID", "d5/ddd/a13386.html#a4550fd5b2e3dcca1e0d6ff46885ae4c0", null ],
-    [ "_statuePhase", "d5/ddd/a13386.html#aaeb98dc1aad0d16142325c4d5a5cbf8e", null ]
+    [ "boss_jarien", "d5/ddd/a13386.html#a19e07a3da93e487b5984a8de0c7f26c9", null ],
+    [ "DoAction", "d5/ddd/a13386.html#a8b9f1f2e7e45adf8df436b5c71555272", null ],
+    [ "IsSummonedBy", "d5/ddd/a13386.html#a2e54c5ae404be944eeff3a57c96aa8ca", null ],
+    [ "JustDied", "d5/ddd/a13386.html#a418380b56f3432b5aec84737012f4693", null ],
+    [ "JustEngagedWith", "d5/ddd/a13386.html#ab6590cf6626a12e804520b2cde84a93e", null ],
+    [ "Reset", "d5/ddd/a13386.html#ac85ca96b42aa5115500bd24454f84209", null ],
+    [ "UpdateAI", "d5/ddd/a13386.html#acf7157ec7af7356beddc8a2429177b95", null ],
+    [ "_phase", "d5/ddd/a13386.html#aa88435f313dc2b7880bca8f4cdb7a537", null ],
+    [ "_scheduler", "d5/ddd/a13386.html#abce9540798dbae1026d1c74bfeb111a6", null ],
+    [ "_sothosDied", "d5/ddd/a13386.html#a06b02c7f7dff885a86609e0116f2fd96", null ],
+    [ "_talked", "d5/ddd/a13386.html#ae0c943c970990b055ebc8c31d81a7198", null ]
 ];

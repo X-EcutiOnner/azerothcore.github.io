@@ -1,9 +1,9 @@
 var a10918 =
 [
-    [ "RandomRoll", "dd/ddf/a10918.html#abc64acf498b3dc70b9afd23c399e3db8", null ],
-    [ "Write", "dd/ddf/a10918.html#aab5879874745603dd448a7f5084d60d4", null ],
-    [ "Max", "dd/ddf/a10918.html#a21460b09eddfbee6ba022f88b5f37cc7", null ],
-    [ "Min", "dd/ddf/a10918.html#aee5564c9fc17613b9f30fc8ce88944c6", null ],
-    [ "Result", "dd/ddf/a10918.html#a34fd2c1d018bb292836724671163ff07", null ],
-    [ "Roller", "dd/ddf/a10918.html#af02aa97826259885791d0f4afc0c1a84", null ]
+    [ "Weather", "dd/ddf/a10918.html#aa404c94fec05b825454a7309827767c6", null ],
+    [ "Weather", "dd/ddf/a10918.html#a28f45d81441d2dde6917380978dfb4d0", null ],
+    [ "Write", "dd/ddf/a10918.html#a641c7de3e527dcdff07b3f602880b5c8", null ],
+    [ "Abrupt", "dd/ddf/a10918.html#a0abe1fcb36d21ac246174cdc98c0e261", null ],
+    [ "Intensity", "dd/ddf/a10918.html#ac37cee2364921a50e2b1ec1b19ed69b7", null ],
+    [ "WeatherID", "dd/ddf/a10918.html#a32e56458b1e562c124cfc0288a578134", null ]
 ];

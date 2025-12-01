@@ -1,6 +1,8 @@
 var a24566 =
 [
-    [ "npc_pet_dk_ghoul", "d3/d8a/a24566.html#aff3b8dc660a7e263c6e30960819b4ffa", null ],
-    [ "IsSummonedBy", "d3/d8a/a24566.html#ae6ea5ad522229289a16d5be1e52181f6", null ],
-    [ "JustDied", "d3/d8a/a24566.html#a6095e3619b470283b9875b90e2805b54", null ]
+    [ "npc_pet_gen_wind_rider_cub", "d3/d8a/a24566.html#a17e1f3155b9a9864459e48d1cd11c6a6", null ],
+    [ "UpdateAI", "d3/d8a/a24566.html#a534d122522d553e106e6c7729d6c55db", null ],
+    [ "checkTimer", "d3/d8a/a24566.html#a39fcfc5f5d9a630180713512db778b32", null ],
+    [ "checkTimer2", "d3/d8a/a24566.html#aabeaf7a9b5b77df540e1111950860e98", null ],
+    [ "isFlying", "d3/d8a/a24566.html#a57124f8172bd15a5e6c708edff41dc2f", null ]
 ];

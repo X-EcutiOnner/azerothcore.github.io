@@ -1,7 +1,7 @@
 var a23226 =
 [
-    [ "HandleOnHit", "db/d45/a23226.html#a9f368396cef39ba3bd70480f11c44700", null ],
-    [ "PrepareSpellScript", "db/d45/a23226.html#a3240b42a9122e61b57ea91486cb3c97b", null ],
-    [ "Register", "db/d45/a23226.html#a99f80adcebdd9726a8df51f99d415651", null ],
-    [ "Validate", "db/d45/a23226.html#a25e3078f0b2d71ea0e6802aae0a6c7a4", null ]
+    [ "PrepareAuraScript", "db/d45/a23226.html#a30ec063aa1ddbc3a32066e1f868bf742", null ],
+    [ "Register", "db/d45/a23226.html#a1e62c60bfc2b72811950b627ce1202c3", null ],
+    [ "Update", "db/d45/a23226.html#a3f98767367564734c9877d1870aac31b", null ],
+    [ "Validate", "db/d45/a23226.html#a450460769e0e54e06f1b64b3c63ba0de", null ]
 ];

@@ -1,11 +1,5 @@
 var a12834 =
 [
-    [ "boss_tenris_mirkblood", "d3/dd3/a12834.html#ae626332a437983bbb0219bbe2d4b75dc", null ],
-    [ "DamageTaken", "d3/dd3/a12834.html#a0316d2d936f10928fe01d1d5a532e9e0", null ],
-    [ "EnterEvadeMode", "d3/dd3/a12834.html#a5da11ca73a280c08d1ab0ab4df66d836", null ],
-    [ "JustEngagedWith", "d3/dd3/a12834.html#ad95106bbe08589a5ca1d0f2f30aab0ec", null ],
-    [ "KilledUnit", "d3/dd3/a12834.html#ab0a5fedbd8714326a948163d7bcc0838", null ],
-    [ "Reset", "d3/dd3/a12834.html#a88d46f6e972525979687b315db90dc30", null ],
-    [ "SpellHit", "d3/dd3/a12834.html#a5d69e0cf2a394ac9eed94bb82ab35949", null ],
-    [ "_mirrorTarget", "d3/dd3/a12834.html#a1e9a1c361046b12fe0569fbdef4a7033", null ]
+    [ "go_blackened_urn", "d3/dd3/a12834.html#aaa311353e693a0dd7fd9a6f8e617e0ab", null ],
+    [ "OnGossipHello", "d3/dd3/a12834.html#ab091bd54734acc65532303a391441ee2", null ]
 ];

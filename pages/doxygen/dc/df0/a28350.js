@@ -1,10 +1,8 @@
 var a28350 =
 [
-    [ "HasFlag", "dc/df0/a28350.html#abe23ca5437589a38ea57bc93a6197911", null ],
-    [ "CollisionHeight", "dc/df0/a28350.html#afd7385ab3dd949ebe230e0a01cec7158", null ],
-    [ "CollisionWidth", "dc/df0/a28350.html#ab79497759cf169348b8922301fc43b2f", null ],
-    [ "Flags", "dc/df0/a28350.html#a3bb96e232124771e78f8b5db53405106", null ],
-    [ "Id", "dc/df0/a28350.html#aa19fec147703c7542be260c8ec5a0446", null ],
-    [ "MountHeight", "dc/df0/a28350.html#a5300334ce02dd5a3b9ea6796eddb7ced", null ],
-    [ "Scale", "dc/df0/a28350.html#a08d8be1d2dbc9eb67e1f631650ea74da", null ]
+    [ "difficulty", "dc/df0/a28350.html#a2a04df701c13dc49053b09a9587a72a8", null ],
+    [ "encounterIndex", "dc/df0/a28350.html#a3d35560824a3aaeecb8db4bf8628ebfd", null ],
+    [ "encounterName", "dc/df0/a28350.html#af4f26f56526b945e392ddaf6b2d43fa1", null ],
+    [ "id", "dc/df0/a28350.html#aa9828ccc644a11f9cb35fbcc7d31a827", null ],
+    [ "mapId", "dc/df0/a28350.html#a61c1ac724c8eb96907d2ea9402a8f9ce", null ]
 ];

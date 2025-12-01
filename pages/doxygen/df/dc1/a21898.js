@@ -1,9 +1,5 @@
 var a21898 =
 [
-    [ "npc_archmage_landalockAI", "df/dc1/a21898.html#a8e2b48a9cf243b0d6f11286cf1e301c8", null ],
-    [ "GetImageEntry", "df/dc1/a21898.html#ae09841969253c0baf72cc235b6fa058e", null ],
-    [ "JustSummoned", "df/dc1/a21898.html#af9016bfeca3db7611fdafe4337e5f64a", null ],
-    [ "UpdateAI", "df/dc1/a21898.html#abad2f45c0a5c43cc7aa7867a0291133d", null ],
-    [ "_summonGUID", "df/dc1/a21898.html#a8b59c414dfd46209dcc3d00531e2b98b", null ],
-    [ "_switchImageTimer", "df/dc1/a21898.html#a5e2fb6556bbb5cf22b77a72e9ccbc548", null ]
+    [ "go_the_pearl_of_the_depths", "df/dc1/a21898.html#a0e09ddcde0eef050400d90e9a268823a", null ],
+    [ "OnGossipHello", "df/dc1/a21898.html#a745ea14136a78759a3afd7714c6d784a", null ]
 ];

@@ -1,7 +1,10 @@
 var a04990 =
 [
-    [ "clear", "d5/de1/a04990.html#af2120a6bb6aa223baa117e5699c93012", null ],
-    [ "createOrGetMMapMgr", "d5/de1/a04990.html#aa7571dc833ba0d2dc6d8bc7bc4b47cdd", null ],
-    [ "InitializeDisabledMaps", "d5/de1/a04990.html#a6df048ce34ec1baed2cb35cedf67f5b2", null ],
-    [ "forbiddenMaps", "d5/de1/a04990.html#a2301f091e1f1e3359dbded7f054eb219", null ]
+    [ "AreaInfo", "d5/de1/a04990.html#a7cd6d0845a1fea33d4f51deb5890f9f1", null ],
+    [ "AreaInfo", "d5/de1/a04990.html#acdd6c482f37134fdc962a55771003b5c", null ],
+    [ "adtId", "d5/de1/a04990.html#aee38e987da24645d36792a1024235035", null ],
+    [ "groupId", "d5/de1/a04990.html#a6472ad95a025769da84943fc490860e1", null ],
+    [ "mogpFlags", "d5/de1/a04990.html#ae97f4c32ecee4844f2cb0fec92cb21ec", null ],
+    [ "rootId", "d5/de1/a04990.html#a5af47da55bdcb6a92356a33112a41da5", null ],
+    [ "uniqueId", "d5/de1/a04990.html#a4496a2c21c4bca0e8acbd563de282338", null ]
 ];

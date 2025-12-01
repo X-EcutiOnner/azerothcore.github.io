@@ -1,14 +1,14 @@
 var a03353 =
 [
-    [ "boss_mandokir", "dc/d1e/a14244.html", "dc/d1e/a14244" ],
-    [ "boss_mandokir::boss_mandokirAI", "dc/d33/a14248.html", "dc/d33/a14248" ],
-    [ "npc_ohgan", "de/dc5/a14252.html", "de/dc5/a14252" ],
-    [ "npc_ohgan::npc_ohganAI", "d2/d5a/a14256.html", "d2/d5a/a14256" ],
-    [ "npc_chained_spirit", "d7/de8/a14260.html", "d7/de8/a14260" ],
-    [ "npc_vilebranch_speaker", "d2/df5/a14264.html", "d2/df5/a14264" ],
-    [ "spell_threatening_gaze_aura", "de/d82/a14268.html", "de/d82/a14268" ],
-    [ "spell_mandokir_charge", "d8/df4/a14272.html", "d8/df4/a14272" ],
-    [ "spell_threatening_gaze_charge", "da/db6/a14276.html", "da/db6/a14276" ],
+    [ "boss_mandokir", "d5/ddb/a14250.html", "d5/ddb/a14250" ],
+    [ "boss_mandokir::boss_mandokirAI", "d0/d74/a14254.html", "d0/d74/a14254" ],
+    [ "npc_ohgan", "df/dd5/a14258.html", "df/dd5/a14258" ],
+    [ "npc_ohgan::npc_ohganAI", "d5/d44/a14262.html", "d5/d44/a14262" ],
+    [ "npc_chained_spirit", "d4/d9a/a14266.html", "d4/d9a/a14266" ],
+    [ "npc_vilebranch_speaker", "d8/d13/a14270.html", "d8/d13/a14270" ],
+    [ "spell_threatening_gaze_aura", "d0/d8b/a14274.html", "d0/d8b/a14274" ],
+    [ "spell_mandokir_charge", "d8/db4/a14278.html", "d8/db4/a14278" ],
+    [ "spell_threatening_gaze_charge", "da/dd0/a14282.html", "da/dd0/a14282" ],
     [ "Action", "d1/d3a/a03353.html#a8bb1ef53467e4f61410d12822d922498", [
       [ "ACTION_START_REVIVE", "d1/d3a/a03353.html#a8bb1ef53467e4f61410d12822d922498a14acc6a83289f297aabd7f8da3c85502", null ],
       [ "ACTION_REVIVE", "d1/d3a/a03353.html#a8bb1ef53467e4f61410d12822d922498ae4cd22dece403cdfe2b94719ca179265", null ]
@@ -1495,7 +1495,8 @@ var a03353 =
       [ "EVENT_ECK_BITE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a25fd4fd9c83fea5e757a20aeb8f03aee", null ],
       [ "EVENT_ECK_SPIT", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6add7ba9bf01f5f04dac1d93a997b57af2", null ],
       [ "EVENT_ECK_SPRING", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6c3f22fd6aa63e5bf101019792a4b483", null ],
-      [ "EVENT_ECK_HEALTH", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f0a1bde1d1f47b6f7e45f621a57b6c1", null ],
+      [ "EVENT_ECK_CRAZED_EMOTE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6eeac32439bad23ef93cf41b4526d55d", null ],
+      [ "EMOTE_CRAZED", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2628cfc3f39065948404f522308c931f", null ],
       [ "NPC_SLADRAN_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08dc37f063f5d70a3893765939f63a82", null ],
       [ "NPC_SLADRAN_CONSTRICTORS", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a52bf6fd6ef6437b9a4e88616b7f1d91b", null ],
       [ "MAX_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1e3f12d08f9d4880b8263386a54d21c8", null ],

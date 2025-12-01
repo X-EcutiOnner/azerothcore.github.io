@@ -1,10 +1,6 @@
 var a10266 =
 [
-    [ "AllItemScript", "de/d4e/a10266.html#a7c0e310c69966e0eab6f2951dedcda63", null ],
-    [ "CanItemExpire", "de/d4e/a10266.html#aa2a9c691b4ba5d06f65555a7092fffc3", null ],
-    [ "CanItemQuestAccept", "de/d4e/a10266.html#a545e2bc7436a064146025954eaf5ae92", null ],
-    [ "CanItemRemove", "de/d4e/a10266.html#ad29a7f5d07d56127bc00846e1a7fb067", null ],
-    [ "CanItemUse", "de/d4e/a10266.html#a89d237f426840658e4423fb9cc7428db", null ],
-    [ "OnItemGossipSelect", "de/d4e/a10266.html#a7157f72c6d09988b60480d1671892cde", null ],
-    [ "OnItemGossipSelectCode", "de/d4e/a10266.html#a9e13f025e5cf10bf51c87a4dc1e7968d", null ]
+    [ "ALEScript", "de/d4e/a10266.html#a3949e8bd9d83297871c60778f3fe9f9e", null ],
+    [ "CanAreaTrigger", "de/d4e/a10266.html#ad5d8f66949b0f7638dd85ccba4c569d0", null ],
+    [ "OnWeatherChange", "de/d4e/a10266.html#a109b1cb14f602065ce4346d0370407a7", null ]
 ];

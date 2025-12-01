@@ -1,7 +1,18 @@
 var a08606 =
 [
-    [ "SetRuneState", "dc/dd9/a08606.html#a920d32d04ec7e872680a89b0c0a9b0ef", null ],
-    [ "lastUsedRune", "dc/dd9/a08606.html#a88c702716eb3032c20ae5ed74922d923", null ],
-    [ "runes", "dc/dd9/a08606.html#aac485530bfa81d54d9da3213fe917c29", null ],
-    [ "runeState", "dc/dd9/a08606.html#ae58297e0766578b234604a97641501a1", null ]
+    [ "PlayerInfo", "dc/dd9/a08606.html#a8a26bdeb267824135b3f84baa2585baa", null ],
+    [ "action", "dc/dd9/a08606.html#a0f68412598a9741e9b5ce7a42c82d129", null ],
+    [ "areaId", "dc/dd9/a08606.html#a60d086c6e6879e6c5d8b5a24c0ae7bf8", null ],
+    [ "castSpells", "dc/dd9/a08606.html#a35ab273058db0828c91f01d823467e02", null ],
+    [ "customSpells", "dc/dd9/a08606.html#ab40e5fd724fab03afbbd38713e1dd4bf", null ],
+    [ "displayId_f", "dc/dd9/a08606.html#adf14854368c9351fe2fba3215194f2f9", null ],
+    [ "displayId_m", "dc/dd9/a08606.html#a2ce7d9aa7fc52bd9768c75b88f88b256", null ],
+    [ "item", "dc/dd9/a08606.html#ad76819034c64c0c691561eff683b7e57", null ],
+    [ "levelInfo", "dc/dd9/a08606.html#abbff546bbe2cc0ea643c41456c1f0d9f", null ],
+    [ "mapId", "dc/dd9/a08606.html#ad8d359374f74de40c1c591bb61976405", null ],
+    [ "orientation", "dc/dd9/a08606.html#a041a37c356d50860cab9f1ced33a28d0", null ],
+    [ "positionX", "dc/dd9/a08606.html#a55a076dc53e8c2d0b2ab11b1087ebccd", null ],
+    [ "positionY", "dc/dd9/a08606.html#a7314ecd469357e2eb46ed3d133a5a7a0", null ],
+    [ "positionZ", "dc/dd9/a08606.html#ad21a8dd3353d3f141bcc9af65e607aee", null ],
+    [ "skills", "dc/dd9/a08606.html#a3bec7891e115ab3cff40c3d95174981c", null ]
 ];

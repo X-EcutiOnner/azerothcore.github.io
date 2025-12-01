@@ -1,10 +1,6 @@
 var a08374 =
 [
-    [ "SpellCategory", "d9/d8d/a08374.html#ad170ffceb499879a4b0d638e9c922703", null ],
-    [ "SpellCategoryCooldown", "d9/d8d/a08374.html#a8a33274d71b410f24f110e9a5921ff18", null ],
-    [ "SpellCharges", "d9/d8d/a08374.html#a16909465a3a20dbab6e3ca2e3c807f17", null ],
-    [ "SpellCooldown", "d9/d8d/a08374.html#a8ef7106595ed25ce23ca2163258d769a", null ],
-    [ "SpellId", "d9/d8d/a08374.html#af6973a8a9a258a87a916bcd431c33d8d", null ],
-    [ "SpellPPMRate", "d9/d8d/a08374.html#a5b208a667802e4c3766619c96d267287", null ],
-    [ "SpellTrigger", "d9/d8d/a08374.html#a39657ff9e561a3c86a671f7b3c78ef98", null ]
+    [ "item_count", "d9/d8d/a08374.html#a437fe00f34ad414e3c9f81d01a153d13", null ],
+    [ "setid", "d9/d8d/a08374.html#ab8c24b76b1c0eb92c0fe52ca9baf293a", null ],
+    [ "spells", "d9/d8d/a08374.html#af8156bad9771ed816fd861d3eb992aaa", null ]
 ];

@@ -1,6 +1,7 @@
 var a20314 =
 [
-    [ "boss_vezaxAI", "df/db0/a20318.html", "df/db0/a20318" ],
-    [ "boss_vezax", "d1/d92/a20314.html#af778f9ef3070598f8ca5109b2f6f0f82", null ],
-    [ "GetAI", "d1/d92/a20314.html#a55c7f1ee93252768ba02e8d0d4634eb9", null ]
+    [ "HandleAfterEffectApply", "d1/d92/a20314.html#a672526de2c71dcae79bacef88f34dc26", null ],
+    [ "PrepareAuraScript", "d1/d92/a20314.html#a1da221b63cb7fcd0dbb580e8cf0003ce", null ],
+    [ "Register", "d1/d92/a20314.html#a9ba7c109fe96881dd47ba47366890e2b", null ],
+    [ "Validate", "d1/d92/a20314.html#ab5833f6218760a7d9829b5d453436302", null ]
 ];

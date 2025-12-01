@@ -1,15 +1,12 @@
 var a13830 =
 [
-    [ "npc_deathstalker_fearleia", "d6/d6c/a13830.html#a92c6d31e801164dc0c4ddc8c47f134b6", null ],
-    [ "JustDied", "d6/d6c/a13830.html#a378f59a926e1be299b6e5ddf0cc83d30", null ],
-    [ "JustEngagedWith", "d6/d6c/a13830.html#a248f13c2fff27a9ec8075d5b1429fec8", null ],
-    [ "JustSummoned", "d6/d6c/a13830.html#a8ef363de7292d366eea128b55b1acaeb", null ],
-    [ "Reset", "d6/d6c/a13830.html#a5f7f40e2d702fae5242cfc347d44a1fe", null ],
-    [ "sQuestAccept", "d6/d6c/a13830.html#a5da116182685dfac72139b40266f2884", null ],
-    [ "SummonCreatureWithRandomTarget", "d6/d6c/a13830.html#a884be2e1aa730c310de24cb865fc7aa5", null ],
-    [ "SummonedCreatureDespawn", "d6/d6c/a13830.html#a36415976d5ae2034578581bdec183f33", null ],
-    [ "UpdateAI", "d6/d6c/a13830.html#a45f4823e2a131fda3c4e03de13ec0c5e", null ],
-    [ "_playerGUID", "d6/d6c/a13830.html#a7135b977e1d7ef47c62f4dace25908fd", null ],
-    [ "_questInProgress", "d6/d6c/a13830.html#a899a4a0c3c70236be66ee2028f3423c7", null ],
-    [ "_summons", "d6/d6c/a13830.html#a79dc171af9ef5057039f9a6b87c49bd1", null ]
+    [ "npc_corporal_keeshanAI", "d6/d6c/a13830.html#aac5b72ede6e1496f80c4c2520e886efd", null ],
+    [ "Reset", "d6/d6c/a13830.html#a311488932a3de9153490d41e3fae92fb", null ],
+    [ "sQuestAccept", "d6/d6c/a13830.html#a52dd95c74b1457ad5b496b28fd183b06", null ],
+    [ "UpdateAI", "d6/d6c/a13830.html#a973cf65978e531dc8bd7db20fc2809b6", null ],
+    [ "WaypointReached", "d6/d6c/a13830.html#a3edc9ab54068e47f955116db70454f6c", null ],
+    [ "mockingBlowTimer", "d6/d6c/a13830.html#a21cd1ca86864b8507d43e5a1c4c13e0c", null ],
+    [ "phase", "d6/d6c/a13830.html#ae79dcfdb10738d673e8c1aebc6abdee6", null ],
+    [ "shieldBashTimer", "d6/d6c/a13830.html#abb5eaa25a77dd3e6dfff7aaa0aa6c375", null ],
+    [ "timer", "d6/d6c/a13830.html#a3107368f175aa7f4e8c405248ef917df", null ]
 ];

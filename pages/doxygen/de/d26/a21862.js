@@ -1,10 +1,9 @@
 var a21862 =
 [
-    [ "npc_preparations_for_war_vehicle", "de/d26/a21862.html#a56b37aa1c2b50cac4dfb6b907ffb6d48", null ],
-    [ "InitializeAI", "de/d26/a21862.html#a85eaba9e51498313f8498eaaf0e7d0d1", null ],
-    [ "MovementInform", "de/d26/a21862.html#ac78c5675b42563f46cc2af0f0c97bee0", null ],
-    [ "UpdateAI", "de/d26/a21862.html#ae40a23070d96ecf122e9de5571a845ef", null ],
-    [ "pointId", "de/d26/a21862.html#ae75d286eb6116b41adb346861b3c1365", null ],
-    [ "searchForShipTimer", "de/d26/a21862.html#a49f8a43891d61460b1d6cdde610a2e88", null ],
-    [ "transportEntry", "de/d26/a21862.html#aa0083566387cd42750aaa56b1fa23fed", null ]
+    [ "npc_mageguard_dalaranAI", "de/d26/a21862.html#adb9c8b0003c070114b63f3b8e538bceb", null ],
+    [ "AttackStart", "de/d26/a21862.html#ac1e73ad92bd5db0d3b9fe23b36cd8dd7", null ],
+    [ "JustEngagedWith", "de/d26/a21862.html#aac463689ae5a488ec2acb8a0310689d8", null ],
+    [ "MoveInLineOfSight", "de/d26/a21862.html#aafb32462693e0efd9c80cf335f489754", null ],
+    [ "Reset", "de/d26/a21862.html#aa6dde0732bac407a62403bb8f0f24c26", null ],
+    [ "UpdateAI", "de/d26/a21862.html#a4d6ce701a4cc463a7e9c295c664d4440", null ]
 ];

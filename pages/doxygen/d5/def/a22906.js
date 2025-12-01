@@ -1,7 +1,7 @@
 var a22906 =
 [
-    [ "HandleOnHit", "d5/def/a22906.html#a5eee46784bfbeaad3a9af069ca7f69a7", null ],
-    [ "PrepareSpellScript", "d5/def/a22906.html#a734b735c7e87938bff185be91f9de6e8", null ],
-    [ "Register", "d5/def/a22906.html#a1cc140d2b5487e9dbbf107025e09e51d", null ],
-    [ "Validate", "d5/def/a22906.html#a162f60784fdec6b748151e5c2a7ed257", null ]
+    [ "npc_blade_of_azzinoth", "d5/def/a22906.html#a55afe56313c237afe8080662b2ed2dba", null ],
+    [ "DoAction", "d5/def/a22906.html#a8e746da7672c0177c4b6c91b1e9d2eb5", null ],
+    [ "IsSummonedBy", "d5/def/a22906.html#af2925da1235b809ee81469fe32ab0f92", null ],
+    [ "JustSummoned", "d5/def/a22906.html#a501e2d1ae9af813fd9c30395e7774983", null ]
 ];

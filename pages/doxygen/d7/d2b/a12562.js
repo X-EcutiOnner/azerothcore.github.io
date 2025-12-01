@@ -1,10 +1,9 @@
 var a12562 =
 [
-    [ "boss_golemaggAI", "d7/d2b/a12562.html#a79e2416a55a1531316d891ebff4e5575", null ],
-    [ "DamageTaken", "d7/d2b/a12562.html#a5f9191609c7ff0715ba186f8ae28262b", null ],
-    [ "Reset", "d7/d2b/a12562.html#aeed4cda9fae3e0b46832ec1bfecb97b0", null ],
-    [ "UpdateAI", "d7/d2b/a12562.html#af7b322731241dbb08041a92cd355f273", null ],
-    [ "earthquakeTimer", "d7/d2b/a12562.html#a6bfd75b1d57d8002cab075bbd5a12612", null ],
-    [ "enraged", "d7/d2b/a12562.html#a52e6d8bcf979d216aff536e8fae3bf01", null ],
-    [ "pyroblastTimer", "d7/d2b/a12562.html#a142ededff85d517c08744bdafd644c34", null ]
+    [ "boss_baron_geddonAI", "d7/d2b/a12562.html#a3a85b2a6e958a965e52a9fde87c08177", null ],
+    [ "DamageTaken", "d7/d2b/a12562.html#ad339cb7149b50cf5accc24b5a2d0bf82", null ],
+    [ "ExecuteEvent", "d7/d2b/a12562.html#a2c3ed57dd0336ce8ac1a85c957da9e4a", null ],
+    [ "JustEngagedWith", "d7/d2b/a12562.html#a8c5e43b4b4e0583db7dcc93694202bd8", null ],
+    [ "Reset", "d7/d2b/a12562.html#aaf47fc993e672877f51b5095f682906c", null ],
+    [ "armageddonCasted", "d7/d2b/a12562.html#a1a034601a7dda94becbf1801bda63d55", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::Hyperlinks::TalentLinkData Struct Reference</title>
+<title>AzerothCore: LinkValidator&lt; LinkTags::trade &gt; Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,70 +105,102 @@ $(document).ready(function(){initNavTree('d3/d43/a07798.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="../../d2/dc5/a07795.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::Hyperlinks::TalentLinkData Struct Reference</div></div>
+  <div class="headertitle"><div class="title">LinkValidator&lt; LinkTags::trade &gt; Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
-
-<p><code>#include &quot;<a class="el" href="../../">Hyperlinks.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:ae39546dc8db233709131b388a3868c1a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/de8/a28654.html">TalentEntry</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d43/a07798.html#ae39546dc8db233709131b388a3868c1a">Talent</a></td></tr>
-<tr class="separator:ae39546dc8db233709131b388a3868c1a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abd26e25c76d5344dfdd94547b2f310d4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d43/a07798.html#abd26e25c76d5344dfdd94547b2f310d4">Rank</a></td></tr>
-<tr class="separator:abd26e25c76d5344dfdd94547b2f310d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0cb15c7c1e640b5a6acc8f8d94e6c719"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/dfa/a11326.html">SpellInfo</a> const  *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d43/a07798.html#a0cb15c7c1e640b5a6acc8f8d94e6c719">Spell</a></td></tr>
-<tr class="separator:a0cb15c7c1e640b5a6acc8f8d94e6c719"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a33f6c3e46c24571a8eec083087618fed"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d43/a07798.html#a33f6c3e46c24571a8eec083087618fed">IsTextValid</a> (<a class="el" href="../../de/d19/a07822.html">TradeskillLinkData</a> const &amp;data, std::string_view text)</td></tr>
+<tr class="separator:a33f6c3e46c24571a8eec083087618fed"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a075621e69c80c128ec44cfb4f3ba0cf6"><td class="memItemLeft" align="right" valign="top">static bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d3/d43/a07798.html#a075621e69c80c128ec44cfb4f3ba0cf6">IsColorValid</a> (<a class="el" href="../../de/d19/a07822.html">TradeskillLinkData</a> const &amp;, <a class="el" href="../../d4/dad/a07862.html">HyperlinkColor</a> c)</td></tr>
+<tr class="separator:a075621e69c80c128ec44cfb4f3ba0cf6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="abd26e25c76d5344dfdd94547b2f310d4" name="abd26e25c76d5344dfdd94547b2f310d4"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abd26e25c76d5344dfdd94547b2f310d4">&#9670;&#160;</a></span>Rank</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a075621e69c80c128ec44cfb4f3ba0cf6" name="a075621e69c80c128ec44cfb4f3ba0cf6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a075621e69c80c128ec44cfb4f3ba0cf6">&#9670;&#160;</a></span>IsColorValid()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a15a8d014fadf85c99a2268d8cbd00767">uint8</a> Acore::Hyperlinks::TalentLinkData::Rank</td>
+          <td class="memname">static bool <a class="el" href="../../dd/d73/a07766.html">LinkValidator</a>&lt; <a class="el" href="../../d6/dd4/a07858.html">LinkTags::trade</a> &gt;::IsColorValid </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d19/a07822.html">TradeskillLinkData</a> const &amp;&#160;</td>
+          <td class="paramname">, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d4/dad/a07862.html">HyperlinkColor</a>&#160;</td>
+          <td class="paramname"><em>c</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00212">Acore::Hyperlinks::LinkTags::talent::StoreTo()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  321</span>    {</div>
+<div class="line"><span class="lineno">  322</span>        <span class="keywordflow">return</span> c == <a class="code hl_enumvalue" href="../../d1/da3/a04100.html#aff4462a11392766622feb9f20463ffb6a08bcbc3172b1ac53afb9dac0fb8472b3">CHAT_LINK_COLOR_TRADE</a>;</div>
+<div class="line"><span class="lineno">  323</span>    }</div>
+<div class="ttc" id="aa04100_html_aff4462a11392766622feb9f20463ffb6a08bcbc3172b1ac53afb9dac0fb8472b3"><div class="ttname"><a href="../../d1/da3/a04100.html#aff4462a11392766622feb9f20463ffb6a08bcbc3172b1ac53afb9dac0fb8472b3">CHAT_LINK_COLOR_TRADE</a></div><div class="ttdeci">@ CHAT_LINK_COLOR_TRADE</div><div class="ttdef"><b>Definition:</b> SharedDefines.h:3460</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l03460">CHAT_LINK_COLOR_TRADE</a>.</p>
 
 </div>
 </div>
-<a id="a0cb15c7c1e640b5a6acc8f8d94e6c719" name="a0cb15c7c1e640b5a6acc8f8d94e6c719"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0cb15c7c1e640b5a6acc8f8d94e6c719">&#9670;&#160;</a></span>Spell</h2>
+<a id="a33f6c3e46c24571a8eec083087618fed" name="a33f6c3e46c24571a8eec083087618fed"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a33f6c3e46c24571a8eec083087618fed">&#9670;&#160;</a></span>IsTextValid()</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/dfa/a11326.html">SpellInfo</a> const* Acore::Hyperlinks::TalentLinkData::Spell</td>
+          <td class="memname">static bool <a class="el" href="../../dd/d73/a07766.html">LinkValidator</a>&lt; <a class="el" href="../../d6/dd4/a07858.html">LinkTags::trade</a> &gt;::IsTextValid </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../de/d19/a07822.html">TradeskillLinkData</a> const &amp;&#160;</td>
+          <td class="paramname"><em>data</em>, </td>
         </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00294">LinkValidator&lt; LinkTags::talent &gt;::IsTextValid()</a>, and <a class="el" href="../../#l00212">Acore::Hyperlinks::LinkTags::talent::StoreTo()</a>.</p>
-
-</div>
-</div>
-<a id="ae39546dc8db233709131b388a3868c1a" name="ae39546dc8db233709131b388a3868c1a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ae39546dc8db233709131b388a3868c1a">&#9670;&#160;</a></span>Talent</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/de8/a28654.html">TalentEntry</a> const* Acore::Hyperlinks::TalentLinkData::Talent</td>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::string_view&#160;</td>
+          <td class="paramname"><em>text</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00294">LinkValidator&lt; LinkTags::talent &gt;::IsTextValid()</a>, and <a class="el" href="../../#l00212">Acore::Hyperlinks::LinkTags::talent::StoreTo()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  316</span>    {</div>
+<div class="line"><span class="lineno">  317</span>        <span class="keywordflow">return</span> <a class="code hl_function" href="../../dd/d73/a07766.html#a1c9a027ff1f355b16fe629b7c4af7b98">LinkValidator&lt;LinkTags::spell&gt;::IsTextValid</a>(data.Spell, text);</div>
+<div class="line"><span class="lineno">  318</span>    }</div>
+<div class="ttc" id="aa07766_html_a1c9a027ff1f355b16fe629b7c4af7b98"><div class="ttname"><a href="../../dd/d73/a07766.html#a1c9a027ff1f355b16fe629b7c4af7b98">LinkValidator::IsTextValid</a></div><div class="ttdeci">static bool IsTextValid(typename T::value_type, std::string_view)</div><div class="ttdef"><b>Definition:</b> Hyperlinks.cpp:107</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00107">LinkValidator&lt; T &gt;::IsTextValid()</a>, and <a class="el" href="../../#l00083">Acore::Hyperlinks::TradeskillLinkData::Spell</a>.</p>
 
 </div>
 </div>
@@ -177,8 +209,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d7d/a04797.html">Acore</a></li><li class="navelem"><a class="el" href="../../d4/d10/a04839.html">Hyperlinks</a></li><li class="navelem"><a class="el" href="../../d3/d43/a07798.html">TalentLinkData</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:46:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d3/d43/a07798.html">LinkValidator&lt; LinkTags::trade &gt;</a></li>
+    <li class="footer">Generated on Mon Dec 1 2025 20:47:30 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

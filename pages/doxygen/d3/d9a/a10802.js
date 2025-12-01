@@ -1,7 +1,7 @@
 var a10802 =
 [
-    [ "SwapInventoryItem", "d3/d9a/a10802.html#a26e2887fe352de8a8c5d9d65ba598460", null ],
-    [ "Read", "d3/d9a/a10802.html#ae81c9c5566e1f7e1c8d6915f9620d5b4", null ],
-    [ "DestinationSlot", "d3/d9a/a10802.html#aaaca9b79b11d152cf1c4b273e8f47679", null ],
-    [ "SourceSlot", "d3/d9a/a10802.html#a59117b7ce21919acc55b3da079050dc3", null ]
+    [ "GuildBankLogQueryResults", "d3/d9a/a10802.html#a878f9545b3141a327de85771de4f1779", null ],
+    [ "Write", "d3/d9a/a10802.html#aafdb5114c7d0e8a2d18a848f3c94aa38", null ],
+    [ "Entry", "d3/d9a/a10802.html#a5f3704df5311f06833c3243201d35930", null ],
+    [ "Tab", "d3/d9a/a10802.html#a214db612bb08e557dd41d3962c827dca", null ]
 ];

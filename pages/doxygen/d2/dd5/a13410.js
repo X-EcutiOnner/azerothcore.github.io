@@ -1,6 +1,5 @@
 var a13410 =
 [
-    [ "HandleActivateObject", "d2/dd5/a13410.html#afd73a7f5ec26c9ecb0424ee09ce638fe", null ],
-    [ "PrepareSpellScript", "d2/dd5/a13410.html#ad55914fdc6771e09a508572d59ad30ed", null ],
-    [ "Register", "d2/dd5/a13410.html#a6a0fe507ca7a382122d55e04d3c021d9", null ]
+    [ "at_malfurion_stormrage", "d2/dd5/a13410.html#ac5da3d1a7c2ccaffee68cfaee04fb63c", null ],
+    [ "OnTrigger", "d2/dd5/a13410.html#a0aa7818bd09b8a456d1ebbaa7d5f5c1d", null ]
 ];

@@ -1,6 +1,8 @@
 var a08010 =
 [
-    [ "LfgWaitTime", "da/d2e/a08010.html#a1d80e0848c06c658a4c0587b686fe09d", null ],
-    [ "number", "da/d2e/a08010.html#ae6bd7db37ac17752edbc8d336081b91e", null ],
-    [ "time", "da/d2e/a08010.html#a0d0ef1b3552e5298763a3f28714bc864", null ]
+    [ "cancelTime", "da/d2e/a08010.html#a5fe6d6ede54a1f1228e29fc7ef55a413", null ],
+    [ "inProgress", "da/d2e/a08010.html#a8f3eddc8fbca950f184b6fb8b400344e", null ],
+    [ "reason", "da/d2e/a08010.html#a279a5575ca0956266ae81b7a165874cf", null ],
+    [ "victim", "da/d2e/a08010.html#a949262b4b3cbe0f813aae4fab704e7d2", null ],
+    [ "votes", "da/d2e/a08010.html#a7619305fea30cc7fdc47f0a7ee365304", null ]
 ];

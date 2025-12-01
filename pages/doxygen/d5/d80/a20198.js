@@ -1,6 +1,6 @@
 var a20198 =
 [
-    [ "CheckAreaTarget", "d5/d80/a20198.html#ad1930e308f450cb84dba4f4b28b19f58", null ],
-    [ "PrepareAuraScript", "d5/d80/a20198.html#a921b2f67c417244310398bd93061d61c", null ],
-    [ "Register", "d5/d80/a20198.html#ab21972706bae9fdc3fc6859da2f3f63e", null ]
+    [ "boss_freyaAI", "df/d0d/a20202.html", "df/d0d/a20202" ],
+    [ "boss_freya", "d5/d80/a20198.html#ae366f60526e7c948dee148cdd12f0752", null ],
+    [ "GetAI", "d5/d80/a20198.html#a6a2f5b402e99208a535fc3f23c2a0eb3", null ]
 ];

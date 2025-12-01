@@ -1,6 +1,8 @@
 var a24726 =
 [
-    [ "HandleProc", "d1/ddb/a24726.html#a8fb0e7e5e50fcb201e8e55ee9621034e", null ],
-    [ "PrepareAuraScript", "d1/ddb/a24726.html#a2f42e70482f71a4c275f70897b90ed72", null ],
-    [ "Register", "d1/ddb/a24726.html#a048f59b6b0d52232e3a953f173324fc2", null ]
+    [ "CheckCast", "d1/ddb/a24726.html#a94851a2b6a62138e28466317e9e88480", null ],
+    [ "HandleDummy", "d1/ddb/a24726.html#a970684d219c99519512c437a8efd8d43", null ],
+    [ "PrepareSpellScript", "d1/ddb/a24726.html#a39b726e6c5809a6f8100970e8b71fc71", null ],
+    [ "Register", "d1/ddb/a24726.html#a7acf718f0a1109d384fd2b9dd23ca62c", null ],
+    [ "Validate", "d1/ddb/a24726.html#a59cca008a97447e257bf24071301b366", null ]
 ];

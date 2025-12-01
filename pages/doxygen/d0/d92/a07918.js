@@ -1,5 +1,6 @@
 var a07918 =
 [
-    [ "locations", "d0/d92/a07918.html#a6470ea69a14e24337aa6b0c05093b6d2", null ],
-    [ "timeStamp", "d0/d92/a07918.html#a5fed6b0484c1553a17b5303facaeb61b", null ]
+    [ "ConditionSourceInfo", "d0/d92/a07918.html#adc6441ec52fab3ab8d2b58a146a3fef3", null ],
+    [ "mConditionTargets", "d0/d92/a07918.html#acb67deba44021698a447e8288bca0bd4", null ],
+    [ "mLastFailedCondition", "d0/d92/a07918.html#a099d3457a0a15d8feeacc0dc8c32d439", null ]
 ];

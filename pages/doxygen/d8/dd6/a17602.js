@@ -1,6 +1,6 @@
 var a17602 =
 [
-    [ "FilterTargets", "d8/dd6/a17602.html#a59255a2cee0f9d8a75ca183647851779", null ],
-    [ "PrepareSpellScript", "d8/dd6/a17602.html#af8d1cc9c709aeb3a68d1f452bb605c71", null ],
-    [ "Register", "d8/dd6/a17602.html#a6b6dbeaa8feb8eac4441a87cdf371a36", null ]
+    [ "boss_deathbringer_saurfangAI", "d7/d04/a17606.html", "d7/d04/a17606" ],
+    [ "boss_deathbringer_saurfang", "d8/dd6/a17602.html#ad19893be7dc3b4290d9b1ed3bb992e08", null ],
+    [ "GetAI", "d8/dd6/a17602.html#a6bc1ef44b3ea9e860d62bf78cfa38c92", null ]
 ];

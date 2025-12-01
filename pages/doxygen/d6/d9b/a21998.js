@@ -1,6 +1,6 @@
 var a21998 =
 [
-    [ "npc_heated_battleAI", "d6/d9b/a21998.html#a2b73957d7890549f4b02488c5527fcef", null ],
-    [ "DamageTaken", "d6/d9b/a21998.html#a8422c157214195d7166ede35c9c05d19", null ],
-    [ "Reset", "d6/d9b/a21998.html#a11a4f3270ff260e30da89017dad38433", null ]
+    [ "GhoulTargetCheck", "d6/d9b/a21998.html#acd743b2b1407c5171fbf410a02ff07bf", null ],
+    [ "operator()", "d6/d9b/a21998.html#a6722cfe5a1ceecccf2c07924b2975f46", null ],
+    [ "_alive", "d6/d9b/a21998.html#ab44092ca1cd6d7c17d7c63e0a8333453", null ]
 ];

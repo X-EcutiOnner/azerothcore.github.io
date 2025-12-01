@@ -1,6 +1,10 @@
 var a10242 =
 [
-    [ "AchievementCriteriaScript", "de/db2/a10242.html#a86804e8d52ebd239a85609bc1e8883ea", null ],
-    [ "IsDatabaseBound", "de/db2/a10242.html#a2fe9a4224304d62c5c4920dbf09aab52", null ],
-    [ "OnCheck", "de/db2/a10242.html#a9fab6f158219db6d5a65b0b302cf285e", null ]
+    [ "QuestStatusData", "de/db2/a10242.html#ae71725a7f75e10aacb6f4a9ca4b72f27", null ],
+    [ "CreatureOrGOCount", "de/db2/a10242.html#aa5892dc0744a41ac565568307f12ad35", null ],
+    [ "Explored", "de/db2/a10242.html#a734f6a61aa35c77689d33031e88f0c0b", null ],
+    [ "ItemCount", "de/db2/a10242.html#a466999cea52f65bf58916bc34750bf95", null ],
+    [ "PlayerCount", "de/db2/a10242.html#a170a1e54fe45b7fd0c7934f1309f7969", null ],
+    [ "Status", "de/db2/a10242.html#a4ce7af3a64737d7961b6dfa19189c932", null ],
+    [ "Timer", "de/db2/a10242.html#a16343f7a162e5b7b6a1a18345420c77a", null ]
 ];

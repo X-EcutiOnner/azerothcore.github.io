@@ -1,7 +1,6 @@
 var a12458 =
 [
-    [ "HandleDummy", "dc/d55/a12458.html#a2299a8b99013fb9f9c2b8e81cfc541cc", null ],
-    [ "PrepareSpellScript", "dc/d55/a12458.html#ad07165f81a7f407c716f90691ecb9817", null ],
-    [ "Register", "dc/d55/a12458.html#a28fb28ca049b87dd76fddc3af222fd9c", null ],
-    [ "Validate", "dc/d55/a12458.html#a8ce6773c7d0fd501fa7b26f04fd22796", null ]
+    [ "boss_flamegorAI", "dc/d55/a12458.html#a4b3d46c3faa566095b0cedad3df9f057", null ],
+    [ "JustEngagedWith", "dc/d55/a12458.html#a6005dca71e2f20ee599e053e531377d6", null ],
+    [ "UpdateAI", "dc/d55/a12458.html#a2e5146815e533cf62e0084a54aa222d5", null ]
 ];

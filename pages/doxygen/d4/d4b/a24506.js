@@ -1,7 +1,6 @@
 var a24506 =
 [
-    [ "HandleEffectRemove", "d4/d4b/a24506.html#a63c0fede080591df9ebf8b3de2cd2fc3", null ],
-    [ "PrepareAuraScript", "d4/d4b/a24506.html#a19ce53b5731b0789896612fa55f38849", null ],
-    [ "Register", "d4/d4b/a24506.html#a7d60c5b18bbf77a18ab683a101782ada", null ],
-    [ "Validate", "d4/d4b/a24506.html#ae3c3c1bce38882cd5de32295813b1a47", null ]
+    [ "npc_slim", "d4/d4b/a24506.html#aa227fbe22126bed821939873973e6a20", null ],
+    [ "OnGossipHello", "d4/d4b/a24506.html#a34dafb9f3a82c1d2f52a95436345dd0b", null ],
+    [ "OnGossipSelect", "d4/d4b/a24506.html#a426963b7bf831a3b5a75dcf0629917a9", null ]
 ];

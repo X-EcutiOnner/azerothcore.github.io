@@ -1,8 +1,7 @@
 var a20154 =
 [
-    [ "npc_mechanoliftAI", "da/df5/a20154.html#ad772427e03c2bd2c3a51556b6e5968b5", null ],
-    [ "Reset", "da/df5/a20154.html#a8198e7db2c6f4f2ceec984cfd53982b1", null ],
-    [ "UpdateAI", "da/df5/a20154.html#a3f8634abde6b3aa00acf03c77df433be", null ],
-    [ "_evadeTimer", "da/df5/a20154.html#a53da6899ad0dcea569ca29f57e45bf61", null ],
-    [ "_startTimer", "da/df5/a20154.html#a9b1587bbadd8f0044e1d404d55b8ba1f", null ]
+    [ "HandleScript", "da/df5/a20154.html#a9580f04e1543262026818f0944bb96c3", null ],
+    [ "PrepareSpellScript", "da/df5/a20154.html#a924ae640d448da777ce3ecb059c1c9b6", null ],
+    [ "Register", "da/df5/a20154.html#ac05e58e9b5618b1f079bd1c4924a0f9f", null ],
+    [ "Validate", "da/df5/a20154.html#a8fc8712a76939dea6831a9eb5b95f946", null ]
 ];

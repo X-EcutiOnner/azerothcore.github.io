@@ -1,6 +1,5 @@
 var a08894 =
 [
-    [ "lang_id", "d9/dbe/a08894.html#a1fa900a467834103ac595a8a96dd28c0", null ],
-    [ "skill_id", "d9/dbe/a08894.html#a37ffc91876a998fe354ca1b7dffc512a", null ],
-    [ "spell_id", "d9/dbe/a08894.html#ac0acb5dfb8af32b382b3b51db4daa0f0", null ]
+    [ "NextPage", "d9/dbe/a08894.html#add4d8a2e79e4a6c1c1b7ad9b63dd07ef", null ],
+    [ "Text", "d9/dbe/a08894.html#a9c13498341adce66590cb198b720f96f", null ]
 ];

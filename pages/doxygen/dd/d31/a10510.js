@@ -1,6 +1,7 @@
 var a10510 =
 [
-    [ "BuyBankSlotResult", "dd/d31/a10510.html#a93b60814becc451c38f06f9702a9e027", null ],
-    [ "Write", "dd/d31/a10510.html#a55a6609863b0d3ef966f222526268acb", null ],
-    [ "Result", "dd/d31/a10510.html#ad7bf499ad8d5f0a7e1a580dd02b84c68", null ]
+    [ "ClientPacket", "dd/d31/a10510.html#aa1d1946c07e248bae5927e83fdad9500", null ],
+    [ "ClientPacket", "dd/d31/a10510.html#a1cdaaacca2695c4366647c7611073ff0", null ],
+    [ "GetOpcode", "dd/d31/a10510.html#aa51558bb8faa96a665fe40b1bddf9d14", null ],
+    [ "Write", "dd/d31/a10510.html#a16e5b9fa05e35fa1e32e33bef2688487", null ]
 ];

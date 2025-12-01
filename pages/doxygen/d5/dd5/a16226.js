@@ -1,6 +1,7 @@
 var a16226 =
 [
-    [ "npc_baltharus_the_warborn_cloneAI", "d7/dea/a16230.html", "d7/dea/a16230" ],
-    [ "npc_baltharus_the_warborn_clone", "d5/dd5/a16226.html#a7ed0731a015709ecd3c0c26fafb795ff", null ],
-    [ "GetAI", "d5/dd5/a16226.html#a87b50fbc3a67345f375b41c3cb2ba754", null ]
+    [ "CheckDistance", "d5/dd5/a16226.html#ac10f4cebab4966a220cd931afd0e0a30", null ],
+    [ "PrepareSpellScript", "d5/dd5/a16226.html#adb14940f47dc509d75a4e81bb90fc40d", null ],
+    [ "Register", "d5/dd5/a16226.html#a3a64ffc872e4650b1d226d20d9bedc65", null ],
+    [ "Validate", "d5/dd5/a16226.html#aa5d7a420154b156ca24e73de2faf912a", null ]
 ];

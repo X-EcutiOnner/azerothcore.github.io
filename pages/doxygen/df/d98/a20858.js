@@ -1,9 +1,6 @@
 var a20858 =
 [
-    [ "boss_thorim_gauntlet_npcsAI", "df/d98/a20858.html#aaa7e94f653a1db001cd0c962fb855098", null ],
-    [ "JustEngagedWith", "df/d98/a20858.html#afaf0a05b1fd2fc2187b52328340b65bb", null ],
-    [ "Reset", "df/d98/a20858.html#a9e4c25742785809d788f2e910f7840bc", null ],
-    [ "UpdateAI", "df/d98/a20858.html#a4dd5a9cbbb10d514a0473dfd7cdd3c29", null ],
-    [ "_isCaster", "df/d98/a20858.html#a104f447cc52c285d59653a8ebff20fef", null ],
-    [ "events", "df/d98/a20858.html#a650508e05b6fa1af538a0b34e04c8bf5", null ]
+    [ "OnPeriodic", "df/d98/a20858.html#a418b37f00a8a48d0a4362fd5381797bf", null ],
+    [ "PrepareAuraScript", "df/d98/a20858.html#a60c0d5d67de6e3224cba34599acc3e69", null ],
+    [ "Register", "df/d98/a20858.html#a92fb0160f7a16e6cb6b9c928b744f5e0", null ]
 ];

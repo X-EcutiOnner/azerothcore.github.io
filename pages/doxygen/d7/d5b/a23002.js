@@ -1,8 +1,9 @@
 var a23002 =
 [
-    [ "Load", "d7/d5b/a23002.html#a038301fbb547469574efff88455be663", null ],
-    [ "OnPeriodic", "d7/d5b/a23002.html#a8df384cc329cf20ddc5ac0d7bed0345f", null ],
-    [ "PrepareAuraScript", "d7/d5b/a23002.html#a386df1300e6a99b02efd13ef4968e99a", null ],
-    [ "Register", "d7/d5b/a23002.html#a1b7b9bff5b3d906fa491846a4d5c6743", null ],
-    [ "Validate", "d7/d5b/a23002.html#ad64a3fc1a66b9e8914099e501992f2aa", null ]
+    [ "HandleAfterCast", "d7/d5b/a23002.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
+    [ "HandleDummy", "d7/d5b/a23002.html#ae94594e337c2e0e6864f3723df8349bf", null ],
+    [ "Load", "d7/d5b/a23002.html#a301008eff6b13a43070b3916925391ae", null ],
+    [ "PrepareSpellScript", "d7/d5b/a23002.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
+    [ "Register", "d7/d5b/a23002.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
+    [ "_targetCount", "d7/d5b/a23002.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
 ];

@@ -1,13 +1,12 @@
 var a28326 =
 [
-    [ "HasFlag", "d9/d59/a28326.html#a5d13e1af17cddf3acdbfc5387869e43f", null ],
-    [ "CinematicSequence", "d9/d59/a28326.html#a33a01b1c26b21706d9898af246f2a0df", null ],
-    [ "expansion", "d9/d59/a28326.html#ab6547f8b08d4d1bf57a37f9574b71e43", null ],
-    [ "FactionID", "d9/d59/a28326.html#a5c66801f2f89aeb847699a2dd87486c7", null ],
-    [ "Flags", "d9/d59/a28326.html#a8c2d30fb87284806a93d4c1da4a6edb0", null ],
-    [ "model_f", "d9/d59/a28326.html#a4807227fd863e247b18d29db0ea8236a", null ],
-    [ "model_m", "d9/d59/a28326.html#a50b5409352d7fe3e6f5919d83c9a0eae", null ],
-    [ "name", "d9/d59/a28326.html#a4970323e45feb3f74b47420648371ab6", null ],
-    [ "RaceID", "d9/d59/a28326.html#a853f3262af3408cf2791e7cd08ec8d32", null ],
-    [ "TeamID", "d9/d59/a28326.html#addd21f5fbf6868e7cf2cd3c54c7172a1", null ]
+    [ "ID", "d9/d59/a28326.html#a84ba697182123cb3e7dd3ba07241e971", null ],
+    [ "maxScale", "d9/d59/a28326.html#a23ca0ae7c45790a24f58546970194abf", null ],
+    [ "maxScaleLevel", "d9/d59/a28326.html#ad5d722d74bc08d4de3edd54c2f24addb", null ],
+    [ "minScale", "d9/d59/a28326.html#a3eacdd8639c6dd25dbd3205a58860cf9", null ],
+    [ "minScaleLevel", "d9/d59/a28326.html#a49d9d7847cc4d54891d83166eb277740", null ],
+    [ "Name", "d9/d59/a28326.html#a937fc579ab2790f4a972f07d3453a762", null ],
+    [ "petFoodMask", "d9/d59/a28326.html#a4d9dd8baa3f7981633248513bb25f4ca", null ],
+    [ "petTalentType", "d9/d59/a28326.html#a802000cefb6c4d357edfc45cc291e21e", null ],
+    [ "skillLine", "d9/d59/a28326.html#ad4498d40b31d18742ee4ac235cb58a2e", null ]
 ];

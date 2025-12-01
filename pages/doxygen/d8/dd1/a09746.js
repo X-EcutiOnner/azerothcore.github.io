@@ -1,10 +1,7 @@
 var a09746 =
 [
-    [ "iterator", "d8/dd1/a09746.html#a9fada63aa17222fc5e216f3904affafd", null ],
-    [ "begin", "d8/dd1/a09746.html#aee3a4701c5bc51f4028fe53f18675989", null ],
-    [ "end", "d8/dd1/a09746.html#ad61defd77296790a6c5d0a43bacbbe4b", null ],
-    [ "getFirst", "d8/dd1/a09746.html#ae47bba95a17db31a42231da948245387", null ],
-    [ "getLast", "d8/dd1/a09746.html#ac03e93ac8ad6fc91ec9d2961b8904217", null ],
-    [ "rbegin", "d8/dd1/a09746.html#af68f1d93a80e13976798dfed0063a1e4", null ],
-    [ "rend", "d8/dd1/a09746.html#a92c30fb269bc99820b6964a99ee86d98", null ]
+    [ "QuestItem", "d8/dd1/a09746.html#a1d6e1d5de83a397b17115dbeba2a58b3", null ],
+    [ "QuestItem", "d8/dd1/a09746.html#a51b978ee64ec979ebe097f3b3f4c3cd0", null ],
+    [ "index", "d8/dd1/a09746.html#a0e48289882a1eabb6c8ff30032193bd2", null ],
+    [ "is_looted", "d8/dd1/a09746.html#a48f2baabd2d5a07313dc38a27c6f4713", null ]
 ];

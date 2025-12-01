@@ -1,5 +1,8 @@
 var a13702 =
 [
-    [ "npc_maredis_firestarAI", "d1/d4e/a13706.html", "d1/d4e/a13706" ],
-    [ "npc_maredis_firestar", "d7/d64/a13702.html#a91015d70203597db3dda10b695565740", null ]
+    [ "HandleEffectApply", "d7/d64/a13702.html#afd47748c7db2e0a5b7da2e18dc7b53ec", null ],
+    [ "HandleEffectRemove", "d7/d64/a13702.html#a87a0061366829cbc6f856cc1f7ea1105", null ],
+    [ "Load", "d7/d64/a13702.html#a2e3b53977f188ed28d9deedbcbc03e6b", null ],
+    [ "PrepareAuraScript", "d7/d64/a13702.html#a99b97b2ed12d73e417af0b970c2a9645", null ],
+    [ "Register", "d7/d64/a13702.html#a6a90296c9903ce65913f3bba29dea176", null ]
 ];

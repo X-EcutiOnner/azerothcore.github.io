@@ -1,6 +1,6 @@
 var a14294 =
 [
-    [ "boss_renatakiAI", "d2/dea/a14298.html", "d2/dea/a14298" ],
-    [ "boss_renataki", "d4/d2c/a14294.html#a8504ed2df8c8f8a85fc9d0e99cc24ec6", null ],
-    [ "GetAI", "d4/d2c/a14294.html#a386b7ef3d1fc4070eb300cf4fdaa4d9a", null ]
+    [ "HandleObjectAreaTargetSelect", "d4/d2c/a14294.html#aa7695bddd766d5adefb04710d41894f6", null ],
+    [ "PrepareSpellScript", "d4/d2c/a14294.html#a77ba184428cfbb8ec3cc4670f78741e0", null ],
+    [ "Register", "d4/d2c/a14294.html#adbc2f1c4ec64b95ec72c82f36f12d928", null ]
 ];

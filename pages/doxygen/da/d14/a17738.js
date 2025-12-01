@@ -1,6 +1,6 @@
 var a17738 =
 [
-    [ "npc_gunshipAI", "da/d27/a17742.html", "da/d27/a17742" ],
-    [ "npc_gunship", "da/d14/a17738.html#a86b3ba622bd6e606cd21f7c7d8dddd1b", null ],
-    [ "GetAI", "da/d14/a17738.html#adcd37802a2850f4ec8892f3495d5dc16", null ]
+    [ "npc_high_overlord_saurfang_igbAI", "da/d27/a17742.html", "da/d27/a17742" ],
+    [ "npc_high_overlord_saurfang_igb", "da/d14/a17738.html#ae68d42f65851a753874705511bb83330", null ],
+    [ "GetAI", "da/d14/a17738.html#a54b6da97a40665232d28a20bac9b7ef3", null ]
 ];

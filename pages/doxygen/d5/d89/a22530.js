@@ -1,8 +1,7 @@
 var a22530 =
 [
-    [ "npc_hyldsmeet_protodrakeAI", "d5/d89/a22530.html#a30794392a32b1323fb0a86615b341741", null ],
-    [ "PassengerBoarded", "d5/d89/a22530.html#acb699d519bf79702a34b7d9910fe7c9e", null ],
-    [ "UpdateAI", "d5/d89/a22530.html#afd2168f8dc7328898f5e769c31c6da5a", null ],
-    [ "_accessoryRespawnTimer", "d5/d89/a22530.html#a4c6b4236bf35278d05c4b78f1eda6b75", null ],
-    [ "_vehicleKit", "d5/d89/a22530.html#aba68a138ef44af7d012c8c7dd4c06c6d", null ]
+    [ "npc_wg_siege_machineAI", "d5/d89/a22530.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
+    [ "CanControlVehicle", "d5/d89/a22530.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
+    [ "UpdateAI", "d5/d89/a22530.html#a8ddd21047a857facc767a9edc0ec5408", null ],
+    [ "checkTimer", "d5/d89/a22530.html#abf4b06eae50adeefedba02e2186ea48a", null ]
 ];

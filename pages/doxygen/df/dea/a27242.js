@@ -1,5 +1,5 @@
 var a27242 =
 [
-    [ "achievement_bg_sa_artillery", "df/dea/a27242.html#aa81ae215bc91fd4598d7c9a1b02e3fcc", null ],
-    [ "OnCheck", "df/dea/a27242.html#ac24f32f872ae32e90f06f642ea2dfebc", null ]
+    [ "achievement_sa_defense_of_the_ancients", "df/dea/a27242.html#a678cffdece32710a42a92db0c092f3a5", null ],
+    [ "OnCheck", "df/dea/a27242.html#af23e346f9b022f490b84c8081f847a2f", null ]
 ];

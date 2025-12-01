@@ -1,5 +1,6 @@
 var a27846 =
 [
-    [ "npc_pet_trainerAI", "da/d0a/a27846.html#aa5c01fd7cf2b9fad15a3059b4fe38d13", null ],
-    [ "sGossipSelect", "da/d0a/a27846.html#a6768c8f8f5e37058f85cb40d35caad72", null ]
+    [ "npc_spring_rabbitAI", "dc/d7e/a27850.html", "dc/d7e/a27850" ],
+    [ "npc_spring_rabbit", "da/d0a/a27846.html#a4e2ed1f556edd535a8d262d7e0bdfa1a", null ],
+    [ "GetAI", "da/d0a/a27846.html#a968933658fbcc7f7cbdfca90fd9a68dc", null ]
 ];

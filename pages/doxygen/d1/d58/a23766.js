@@ -1,12 +1,6 @@
 var a23766 =
 [
-    [ "boss_nazan", "d1/d58/a23766.html#a4390d3e181c4db46e364df3302612763", null ],
-    [ "AttackStart", "d1/d58/a23766.html#a7acea69f908e7a004c2a78c103528975", null ],
-    [ "DoAction", "d1/d58/a23766.html#abdb49e50dabda61c5d16b420ae69ae77", null ],
-    [ "EnterEvadeMode", "d1/d58/a23766.html#ab6338a7d240014e548b22044b788ce8f", null ],
-    [ "JustEngagedWith", "d1/d58/a23766.html#a4d44b759530f32207a46a608fb7d6209", null ],
-    [ "MovementInform", "d1/d58/a23766.html#ad35866322ff55263b1f8b105d2cad952", null ],
-    [ "Reset", "d1/d58/a23766.html#a5c10e932075130399a9127869f45ce1d", null ],
-    [ "UpdateAI", "d1/d58/a23766.html#a17942f19444ad324058d7b8c8a9aa9de", null ],
-    [ "_scheduler", "d1/d58/a23766.html#a8915d84ec4ffb8dade18041d5e910018", null ]
+    [ "HandleHit", "d1/d58/a23766.html#ab948b958955c2413ad6e15dfa09fd3cd", null ],
+    [ "PrepareSpellScript", "d1/d58/a23766.html#a37ff09e6b82d69c85b5bd98e84968569", null ],
+    [ "Register", "d1/d58/a23766.html#acb1b681f587817614c2b3684585369db", null ]
 ];

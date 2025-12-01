@@ -1,7 +1,7 @@
 var a22970 =
 [
-    [ "HandleEffectRemove", "d5/dc3/a22970.html#a0d8d042e6e9bf8fd26b6f283f6da6194", null ],
-    [ "PrepareAuraScript", "d5/dc3/a22970.html#a84ec7db2aab055bc4328a4d8862bd3f5", null ],
-    [ "Register", "d5/dc3/a22970.html#a9ee8e71020c17f593472de5a9c130753", null ],
-    [ "Validate", "d5/dc3/a22970.html#a08be3cb2bef2f4697b7e258b231bd35b", null ]
+    [ "VerasEnvenom", "d5/dc3/a22970.html#ac8c5f4fcb63ea5141a71b56324de0b1f", null ],
+    [ "Execute", "d5/dc3/a22970.html#a4b7853bb835cf28aefe2d5b955372d70", null ],
+    [ "_owner", "d5/dc3/a22970.html#af9cf231119ab5592be9829784f20d2e0", null ],
+    [ "_targetGUID", "d5/dc3/a22970.html#a90d62907c775565765fa87903adb94ea", null ]
 ];

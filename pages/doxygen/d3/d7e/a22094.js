@@ -1,8 +1,7 @@
 var a22094 =
 [
-    [ "AfterApply", "d3/d7e/a22094.html#a57279552b867251e9d2ee6a4ff5d7914", null ],
-    [ "PeriodicTick", "d3/d7e/a22094.html#a2e86aa6efe6ab137926c1dfd1bd26a95", null ],
-    [ "PrepareAuraScript", "d3/d7e/a22094.html#a9e1b74bf2d28a367caefdc90c34743c8", null ],
-    [ "Register", "d3/d7e/a22094.html#a69eb0ca43a15d4995ad219459c2b39d6", null ],
-    [ "Validate", "d3/d7e/a22094.html#a946248656cb755f85dd93fd4d607c9a7", null ]
+    [ "HandleScriptEffect", "d3/d7e/a22094.html#ad3f1231ac90b96650b5c8c3403d69195", null ],
+    [ "PrepareSpellScript", "d3/d7e/a22094.html#a1fdd85c5833bf6f17395f56e2ea11fed", null ],
+    [ "Register", "d3/d7e/a22094.html#a278206630f9f45f2dba50b259a6115c1", null ],
+    [ "Validate", "d3/d7e/a22094.html#a8f6332b2d4e7ac7ba6a68331b1d4512f", null ]
 ];

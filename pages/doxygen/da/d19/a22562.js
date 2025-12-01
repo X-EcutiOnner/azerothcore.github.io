@@ -1,5 +1,6 @@
 var a22562 =
 [
-    [ "npc_wg_spirit_guideAI", "da/d19/a22562.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
-    [ "UpdateAI", "da/d19/a22562.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
+    [ "HandlePeriodicDummy", "da/d19/a22562.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
+    [ "PrepareAuraScript", "da/d19/a22562.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
+    [ "Register", "da/d19/a22562.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
 ];

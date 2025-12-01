@@ -1,6 +1,8 @@
 var a12230 =
 [
-    [ "npc_blackhand_incarceratorAI", "df/d52/a12234.html", "df/d52/a12234" ],
-    [ "npc_blackhand_incarcerator", "d6/da0/a12230.html#a0c6bb8ea789e81803a11be57ac1b68e2", null ],
-    [ "GetAI", "d6/da0/a12230.html#a021ddf6442812f7fb698ba7fb45b9ffb", null ]
+    [ "CheckProc", "d6/da0/a12230.html#a08e84f2b2ff25ed7e260e61251f9cdb9", null ],
+    [ "HandleProc", "d6/da0/a12230.html#afd3d4786f739566056b69390553d9c71", null ],
+    [ "PrepareAuraScript", "d6/da0/a12230.html#a3ba84d4fd311a91efa685980ffec8d77", null ],
+    [ "Register", "d6/da0/a12230.html#aa36a2e10a6fd67fa74d08e20dc806744", null ],
+    [ "Validate", "d6/da0/a12230.html#aeff8b89300bb5d3589a46a4f66cfd77d", null ]
 ];

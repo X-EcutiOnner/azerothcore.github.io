@@ -1,6 +1,9 @@
 var a08854 =
 [
-    [ "Condition", "de/d62/a08854.html#a78172859719e85a21c0a39e41c692cf4", null ],
-    [ "EventId", "de/d62/a08854.html#aa5d7e88828c9f44b5913d4593496894f", null ],
-    [ "Num", "de/d62/a08854.html#a7cf6141e00b1a33063409c9828773b94", null ]
+    [ "VehicleAccessory", "de/d62/a08854.html#a70576b3cfa29bb6a31fdc61588b6d3c4", null ],
+    [ "AccessoryEntry", "de/d62/a08854.html#a6e3cd6b20680974235c146d34b16295a", null ],
+    [ "IsMinion", "de/d62/a08854.html#ace3fd27311370e4db4103f2c3ac70410", null ],
+    [ "SeatId", "de/d62/a08854.html#a73b54fbbfe8e18f7129acc65dadec447", null ],
+    [ "SummonedType", "de/d62/a08854.html#afc843c62c580c860471b0e49f5901363", null ],
+    [ "SummonTime", "de/d62/a08854.html#a13a024b3ceacf38ce4907b079d732420", null ]
 ];

@@ -1,12 +1,12 @@
 var a09926 =
 [
-    [ "BanAccount", "db/d15/a09926.html#af85ceffee2ae6a143df5e36f6a004f07", null ],
-    [ "BanAccountByPlayerName", "db/d15/a09926.html#a35f92762d69fe32e49b9b239c74e4734", null ],
-    [ "BanCharacter", "db/d15/a09926.html#ad5048b36828bfe20a95dfb85515de831", null ],
-    [ "BanIP", "db/d15/a09926.html#a404890eab19b97773e6c9aef8cc65707", null ],
-    [ "instance", "db/d15/a09926.html#aa495dfaab6af98c43f645acf516a5630", null ],
-    [ "RemoveBanAccount", "db/d15/a09926.html#ae831e6227442edc70469229d5d73fa3f", null ],
-    [ "RemoveBanAccountByPlayerName", "db/d15/a09926.html#a7b5e1ae6d34ae4f6a15e03c434953aea", null ],
-    [ "RemoveBanCharacter", "db/d15/a09926.html#afbde6c0b26802f684ecf78c2f493cc67", null ],
-    [ "RemoveBanIP", "db/d15/a09926.html#afcf4857007432ebff042c85c5daf2325", null ]
+    [ "TransportTemplate", "db/d15/a09926.html#aef4781a37808827e3ceaffc782c3af1e", null ],
+    [ "~TransportTemplate", "db/d15/a09926.html#afc385d824c171d13a184bc0a16121110", null ],
+    [ "accelDist", "db/d15/a09926.html#a558f3611434dbe13239834fa2f2ec6b4", null ],
+    [ "accelTime", "db/d15/a09926.html#aea9903b7c5643061dc9f401e78d3dfd3", null ],
+    [ "entry", "db/d15/a09926.html#a7b6837ef812eadb353c00cfeb2426e99", null ],
+    [ "inInstance", "db/d15/a09926.html#a971c84762c229b01cab656945f0c16de", null ],
+    [ "keyFrames", "db/d15/a09926.html#ac714531f226ca06c3586cf3f6cc06808", null ],
+    [ "mapsUsed", "db/d15/a09926.html#a93899b0648871ed8ca32dfe8394347c1", null ],
+    [ "pathTime", "db/d15/a09926.html#a9d6a612652af64e8b4dd5cbb81ed0d71", null ]
 ];

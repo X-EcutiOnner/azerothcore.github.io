@@ -1,6 +1,9 @@
 var a14814 =
 [
-    [ "HandleHit", "da/d46/a14814.html#aec32d6b45bdcfe3a6a32c2fb7558edd1", null ],
-    [ "PrepareSpellScript", "da/d46/a14814.html#a31fdc4d630a4a6647d2a9b1100aecdad", null ],
-    [ "Register", "da/d46/a14814.html#a64a861b5c25df5780390aa55899393d7", null ]
+    [ "npc_ancient_wisp", "da/d46/a14814.html#a70e45e500b3490a034b058ca2ec16d39", null ],
+    [ "DamageTaken", "da/d46/a14814.html#ad7d96e6b54cdc23a5101338474125e71", null ],
+    [ "JustEngagedWith", "da/d46/a14814.html#a755ed852b3149ada65c5750410776fc8", null ],
+    [ "Reset", "da/d46/a14814.html#a1c33cc47d7f60b2b3eb60852f1c36820", null ],
+    [ "UpdateAI", "da/d46/a14814.html#a51ca214de826d7126f32e49f6852bca3", null ],
+    [ "_instance", "da/d46/a14814.html#a5e5e51944d49cc52bed4ff4953513f1f", null ]
 ];

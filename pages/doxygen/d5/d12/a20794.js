@@ -1,5 +1,7 @@
 var a20794 =
 [
-    [ "achievement_iron_dwarf_medium_rare", "d5/d12/a20794.html#afb3716aab7693ba0493db24999e4b1ee", null ],
-    [ "OnCheck", "d5/d12/a20794.html#aabef3a345057265ac70c6cc0c98d552d", null ]
+    [ "boss_thorim_trapAI", "d5/d12/a20794.html#aaab278dc6557a49624099b0064b8d6f3", null ],
+    [ "Reset", "d5/d12/a20794.html#ab0715e75a475409ffb6c623bf363a65d", null ],
+    [ "UpdateAI", "d5/d12/a20794.html#a40078609a67aa029f71df7971449b056", null ],
+    [ "_checkTimer", "d5/d12/a20794.html#ad3ed8edb4d06e5b98a5afc82170f3233", null ]
 ];

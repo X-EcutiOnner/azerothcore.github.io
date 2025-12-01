@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: Acore::VisibleChangesNotifier Struct Reference</title>
+<title>AzerothCore: GridTerrainUnloader Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -106,37 +106,32 @@ $(document).ready(function(){initNavTree('db/dd5/a09214.html','../../'); initRes
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../d8/de9/a09211.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">Acore::VisibleChangesNotifier Struct Reference</div></div>
+  <div class="headertitle"><div class="title">GridTerrainUnloader Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">GridNotifiers.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">GridTerrainLoader.h</a>&quot;</code></p>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:aacb0239ed44c9705eeeebf5ab198f7e0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a09214.html#aacb0239ed44c9705eeeebf5ab198f7e0">VisibleChangesNotifier</a> (<a class="el" href="../../d1/d05/a08434.html">WorldObject</a> &amp;object)</td></tr>
-<tr class="separator:aacb0239ed44c9705eeeebf5ab198f7e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a103a8ef30ce4c0753913b6ecb6cf4e92"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
-<tr class="memitem:a103a8ef30ce4c0753913b6ecb6cf4e92"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../db/dd5/a09214.html#a103a8ef30ce4c0753913b6ecb6cf4e92">Visit</a> (<a class="el" href="../../de/d1c/a09130.html">GridRefMgr</a>&lt; T &gt; &amp;)</td></tr>
-<tr class="separator:a103a8ef30ce4c0753913b6ecb6cf4e92"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6e856249a08d0a90b9d19f2449f30fba"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a09214.html#a6e856249a08d0a90b9d19f2449f30fba">Visit</a> (<a class="el" href="../../d9/d0f/a03605.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;)</td></tr>
-<tr class="separator:a6e856249a08d0a90b9d19f2449f30fba"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abfc60c91aaa823cb99cdfc17a287e23e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a09214.html#abfc60c91aaa823cb99cdfc17a287e23e">Visit</a> (<a class="el" href="../../d9/d0f/a03605.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;)</td></tr>
-<tr class="separator:abfc60c91aaa823cb99cdfc17a287e23e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaf1dab341f34f75e56da63370af0ecd3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a09214.html#aaf1dab341f34f75e56da63370af0ecd3">Visit</a> (<a class="el" href="../../d9/d0f/a03605.html#a5957bb381cc7067b3da243bb5999e870">DynamicObjectMapType</a> &amp;)</td></tr>
-<tr class="separator:aaf1dab341f34f75e56da63370af0ecd3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2cae372520a8e6d6a54ad79381a844e9"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a09214.html#a2cae372520a8e6d6a54ad79381a844e9">GridTerrainUnloader</a> (<a class="el" href="../../d5/d10/a01571.html#ae6e326739a8733a22249048253475f90">MapGridType</a> &amp;grid, <a class="el" href="../../d8/d99/a09870.html">Map</a> *map)</td></tr>
+<tr class="separator:a2cae372520a8e6d6a54ad79381a844e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad6648cf97602141fcc64bbb6c688f6a0"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a09214.html#ad6648cf97602141fcc64bbb6c688f6a0">UnloadTerrain</a> ()</td></tr>
+<tr class="separator:ad6648cf97602141fcc64bbb6c688f6a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a496b982d081957cfc288f29b99b8739d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d1/d05/a08434.html">WorldObject</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a09214.html#a496b982d081957cfc288f29b99b8739d">i_object</a></td></tr>
-<tr class="separator:a496b982d081957cfc288f29b99b8739d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
+Private Attributes</h2></td></tr>
+<tr class="memitem:a94d346bc8d44f285d8cdb97736859201"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d5/d10/a01571.html#ae6e326739a8733a22249048253475f90">MapGridType</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a09214.html#a94d346bc8d44f285d8cdb97736859201">_grid</a></td></tr>
+<tr class="separator:a94d346bc8d44f285d8cdb97736859201"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aac1ea80c5210b25ad26f52558336c20d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d8/d99/a09870.html">Map</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../db/dd5/a09214.html#aac1ea80c5210b25ad26f52558336c20d">_map</a></td></tr>
+<tr class="separator:aac1ea80c5210b25ad26f52558336c20d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="aacb0239ed44c9705eeeebf5ab198f7e0" name="aacb0239ed44c9705eeeebf5ab198f7e0"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aacb0239ed44c9705eeeebf5ab198f7e0">&#9670;&#160;</a></span>VisibleChangesNotifier()</h2>
+<a id="a2cae372520a8e6d6a54ad79381a844e9" name="a2cae372520a8e6d6a54ad79381a844e9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2cae372520a8e6d6a54ad79381a844e9">&#9670;&#160;</a></span>GridTerrainUnloader()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -145,103 +140,21 @@ Public Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">Acore::VisibleChangesNotifier::VisibleChangesNotifier </td>
+          <td class="memname">GridTerrainUnloader::GridTerrainUnloader </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/d05/a08434.html">WorldObject</a> &amp;&#160;</td>
-          <td class="paramname"><em>object</em></td><td>)</td>
-          <td></td>
+          <td class="paramtype"><a class="el" href="../../d5/d10/a01571.html#ae6e326739a8733a22249048253475f90">MapGridType</a> &amp;&#160;</td>
+          <td class="paramname"><em>grid</em>, </td>
         </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">explicit</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   66</span>: <a class="code hl_variable" href="../../db/dd5/a09214.html#a496b982d081957cfc288f29b99b8739d">i_object</a>(<span class="keywordtype">object</span>) {}</div>
-<div class="ttc" id="aa09214_html_a496b982d081957cfc288f29b99b8739d"><div class="ttname"><a href="../../db/dd5/a09214.html#a496b982d081957cfc288f29b99b8739d">Acore::VisibleChangesNotifier::i_object</a></div><div class="ttdeci">WorldObject &amp; i_object</div><div class="ttdef"><b>Definition:</b> GridNotifiers.h:64</div></div>
-</div><!-- fragment -->
-</div>
-</div>
-<h2 class="groupheader">Member Function Documentation</h2>
-<a id="abfc60c91aaa823cb99cdfc17a287e23e" name="abfc60c91aaa823cb99cdfc17a287e23e"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abfc60c91aaa823cb99cdfc17a287e23e">&#9670;&#160;</a></span>Visit() <span class="overload">[1/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">void VisibleChangesNotifier::Visit </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d0f/a03605.html#ac60ef2e7adf9bc71b50d675b4b74980b">CreatureMapType</a> &amp;&#160;</td>
-          <td class="paramname"><em>m</em></td><td>)</td>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype"><a class="el" href="../../d8/d99/a09870.html">Map</a> *&#160;</td>
+          <td class="paramname"><em>map</em>&#160;</td>
         </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  109</span>{</div>
-<div class="line"><span class="lineno">  110</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d8/d44/a05258.html">CreatureMapType::iterator</a> iter = m.<a class="code hl_function" href="../../de/d1c/a09130.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); iter != m.<a class="code hl_function" href="../../de/d1c/a09130.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++iter)</div>
-<div class="line"><span class="lineno">  111</span>        <span class="keywordflow">if</span> (iter-&gt;GetSource()-&gt;HasSharedVision())</div>
-<div class="line"><span class="lineno">  112</span>            <span class="keywordflow">for</span> (SharedVisionList::const_iterator i = iter-&gt;GetSource()-&gt;GetSharedVisionList().begin(); i != iter-&gt;GetSource()-&gt;GetSharedVisionList().end(); ++i)</div>
-<div class="line"><span class="lineno">  113</span>                <span class="keywordflow">if</span> ((*i)-&gt;m_seer == iter-&gt;GetSource())</div>
-<div class="line"><span class="lineno">  114</span>                    (*i)-&gt;UpdateVisibilityOf(&amp;<a class="code hl_variable" href="../../db/dd5/a09214.html#a496b982d081957cfc288f29b99b8739d">i_object</a>);</div>
-<div class="line"><span class="lineno">  115</span>}</div>
-<div class="ttc" id="aa05258_html"><div class="ttname"><a href="../../d8/d44/a05258.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition:</b> LinkedList.h:139</div></div>
-<div class="ttc" id="aa09130_html_a1e4e67ba11ac8da077942a6581647bf3"><div class="ttname"><a href="../../de/d1c/a09130.html#a1e4e67ba11ac8da077942a6581647bf3">GridRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:35</div></div>
-<div class="ttc" id="aa09130_html_a266acb421cfc6ccc56dc2acff3202971"><div class="ttname"><a href="../../de/d1c/a09130.html#a266acb421cfc6ccc56dc2acff3202971">GridRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:36</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>, and <a class="el" href="../../#l00064">i_object</a>.</p>
-
-</div>
-</div>
-<a id="aaf1dab341f34f75e56da63370af0ecd3" name="aaf1dab341f34f75e56da63370af0ecd3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaf1dab341f34f75e56da63370af0ecd3">&#9670;&#160;</a></span>Visit() <span class="overload">[2/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
         <tr>
-          <td class="memname">void VisibleChangesNotifier::Visit </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d0f/a03605.html#a5957bb381cc7067b3da243bb5999e870">DynamicObjectMapType</a> &amp;&#160;</td>
-          <td class="paramname"><em>m</em></td><td>)</td>
           <td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  118</span>{</div>
-<div class="line"><span class="lineno">  119</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d8/d44/a05258.html">DynamicObjectMapType::iterator</a> iter = m.<a class="code hl_function" href="../../de/d1c/a09130.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); iter != m.<a class="code hl_function" href="../../de/d1c/a09130.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++iter)</div>
-<div class="line"><span class="lineno">  120</span>        <span class="keywordflow">if</span> (iter-&gt;GetSource()-&gt;GetCasterGUID().IsPlayer())</div>
-<div class="line"><span class="lineno">  121</span>            <span class="keywordflow">if</span> (<a class="code hl_class" href="../../d5/d78/a08786.html">Unit</a>* caster = iter-&gt;GetSource()-&gt;GetCaster())</div>
-<div class="line"><span class="lineno">  122</span>                <span class="keywordflow">if</span> (<a class="code hl_class" href="../../da/ddb/a08650.html">Player</a>* player = caster-&gt;<a class="code hl_function" href="../../d9/d86/a08398.html#a328d5f752cc33ed398b3d9861ef6929d">ToPlayer</a>())</div>
-<div class="line"><span class="lineno">  123</span>                    <span class="keywordflow">if</span> (player-&gt;m_seer == iter-&gt;GetSource())</div>
-<div class="line"><span class="lineno">  124</span>                        player-&gt;UpdateVisibilityOf(&amp;<a class="code hl_variable" href="../../db/dd5/a09214.html#a496b982d081957cfc288f29b99b8739d">i_object</a>);</div>
-<div class="line"><span class="lineno">  125</span>}</div>
-<div class="ttc" id="aa08398_html_a328d5f752cc33ed398b3d9861ef6929d"><div class="ttname"><a href="../../d9/d86/a08398.html#a328d5f752cc33ed398b3d9861ef6929d">Object::ToPlayer</a></div><div class="ttdeci">Player * ToPlayer()</div><div class="ttdef"><b>Definition:</b> Object.h:202</div></div>
-<div class="ttc" id="aa08650_html"><div class="ttname"><a href="../../da/ddb/a08650.html">Player</a></div><div class="ttdef"><b>Definition:</b> Player.h:1072</div></div>
-<div class="ttc" id="aa08786_html"><div class="ttname"><a href="../../d5/d78/a08786.html">Unit</a></div><div class="ttdef"><b>Definition:</b> Unit.h:620</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>, <a class="el" href="../../#l00064">i_object</a>, and <a class="el" href="../../#l00202">Object::ToPlayer()</a>.</p>
-
-</div>
-</div>
-<a id="a103a8ef30ce4c0753913b6ecb6cf4e92" name="a103a8ef30ce4c0753913b6ecb6cf4e92"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a103a8ef30ce4c0753913b6ecb6cf4e92">&#9670;&#160;</a></span>Visit() <span class="overload">[3/4]</span></h2>
-
-<div class="memitem">
-<div class="memproto">
-<div class="memtemplate">
-template&lt;class T &gt; </div>
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">void Acore::VisibleChangesNotifier::Visit </td>
-          <td>(</td>
-          <td class="paramtype"><a class="el" href="../../de/d1c/a09130.html">GridRefMgr</a>&lt; T &gt; &amp;&#160;</td>
-          <td class="paramname"></td><td>)</td>
-          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -250,58 +163,96 @@ template&lt;class T &gt; </div>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   67</span>{}</div>
+<div class="fragment"><div class="line"><span class="lineno">   47</span>        : <a class="code hl_variable" href="../../db/dd5/a09214.html#a94d346bc8d44f285d8cdb97736859201">_grid</a>(grid), <a class="code hl_variable" href="../../db/dd5/a09214.html#aac1ea80c5210b25ad26f52558336c20d">_map</a>(map) { }</div>
+<div class="ttc" id="aa09214_html_a94d346bc8d44f285d8cdb97736859201"><div class="ttname"><a href="../../db/dd5/a09214.html#a94d346bc8d44f285d8cdb97736859201">GridTerrainUnloader::_grid</a></div><div class="ttdeci">MapGridType &amp; _grid</div><div class="ttdef"><b>Definition:</b> GridTerrainLoader.h:52</div></div>
+<div class="ttc" id="aa09214_html_aac1ea80c5210b25ad26f52558336c20d"><div class="ttname"><a href="../../db/dd5/a09214.html#aac1ea80c5210b25ad26f52558336c20d">GridTerrainUnloader::_map</a></div><div class="ttdeci">Map * _map</div><div class="ttdef"><b>Definition:</b> GridTerrainLoader.h:53</div></div>
 </div><!-- fragment -->
 </div>
 </div>
-<a id="a6e856249a08d0a90b9d19f2449f30fba" name="a6e856249a08d0a90b9d19f2449f30fba"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6e856249a08d0a90b9d19f2449f30fba">&#9670;&#160;</a></span>Visit() <span class="overload">[4/4]</span></h2>
+<h2 class="groupheader">Member Function Documentation</h2>
+<a id="ad6648cf97602141fcc64bbb6c688f6a0" name="ad6648cf97602141fcc64bbb6c688f6a0"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad6648cf97602141fcc64bbb6c688f6a0">&#9670;&#160;</a></span>UnloadTerrain()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void VisibleChangesNotifier::Visit </td>
+          <td class="memname">void GridTerrainUnloader::UnloadTerrain </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d9/d0f/a03605.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;&#160;</td>
-          <td class="paramname"><em>m</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   93</span>{</div>
-<div class="line"><span class="lineno">   94</span>    <span class="keywordflow">for</span> (<a class="code hl_class" href="../../d8/d44/a05258.html">PlayerMapType::iterator</a> iter = m.<a class="code hl_function" href="../../de/d1c/a09130.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); iter != m.<a class="code hl_function" href="../../de/d1c/a09130.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++iter)</div>
-<div class="line"><span class="lineno">   95</span>    {</div>
-<div class="line"><span class="lineno">   96</span>        <span class="keywordflow">if</span> (iter-&gt;GetSource() == &amp;<a class="code hl_variable" href="../../db/dd5/a09214.html#a496b982d081957cfc288f29b99b8739d">i_object</a>)</div>
-<div class="line"><span class="lineno">   97</span>            <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">   98</span> </div>
-<div class="line"><span class="lineno">   99</span>        iter-&gt;GetSource()-&gt;UpdateVisibilityOf(&amp;<a class="code hl_variable" href="../../db/dd5/a09214.html#a496b982d081957cfc288f29b99b8739d">i_object</a>);</div>
-<div class="line"><span class="lineno">  100</span> </div>
-<div class="line"><span class="lineno">  101</span>        <span class="keywordflow">if</span> (iter-&gt;GetSource()-&gt;HasSharedVision())</div>
-<div class="line"><span class="lineno">  102</span>            <span class="keywordflow">for</span> (SharedVisionList::const_iterator i = iter-&gt;GetSource()-&gt;GetSharedVisionList().begin(); i != iter-&gt;GetSource()-&gt;GetSharedVisionList().end(); ++i)</div>
-<div class="line"><span class="lineno">  103</span>                <span class="keywordflow">if</span> ((*i)-&gt;m_seer == iter-&gt;GetSource())</div>
-<div class="line"><span class="lineno">  104</span>                    (*i)-&gt;UpdateVisibilityOf(&amp;<a class="code hl_variable" href="../../db/dd5/a09214.html#a496b982d081957cfc288f29b99b8739d">i_object</a>);</div>
-<div class="line"><span class="lineno">  105</span>    }</div>
-<div class="line"><span class="lineno">  106</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  150</span>{</div>
+<div class="line"><span class="lineno">  151</span>    <span class="comment">// Only parent maps manage terrain data</span></div>
+<div class="line"><span class="lineno">  152</span>    <span class="keywordflow">if</span> (<a class="code hl_variable" href="../../db/dd5/a09214.html#aac1ea80c5210b25ad26f52558336c20d">_map</a>-&gt;<a class="code hl_function" href="../../d8/d99/a09870.html#ae0451da49ca7ce3b856f38870c451e44">GetInstanceId</a>() != 0)</div>
+<div class="line"><span class="lineno">  153</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  154</span> </div>
+<div class="line"><span class="lineno">  155</span>    <a class="code hl_function" href="../../dc/d66/a05014.html#a80f01f24b27dd7a5a795c193d0816624">VMAP::VMapFactory::createOrGetVMapMgr</a>()-&gt;<a class="code hl_function" href="../../df/dab/a05022.html#ad02faa4408614d29ad5a5815f9c5af16">unloadMap</a>(<a class="code hl_variable" href="../../db/dd5/a09214.html#aac1ea80c5210b25ad26f52558336c20d">_map</a>-&gt;<a class="code hl_function" href="../../d8/d99/a09870.html#abea8ed605071226978969647a0246e86">GetId</a>(), <a class="code hl_variable" href="../../db/dd5/a09214.html#a94d346bc8d44f285d8cdb97736859201">_grid</a>.<a class="code hl_function" href="../../d5/d09/a09218.html#afb20d5812d84229b9afd77527e111fd0">GetX</a>(), <a class="code hl_variable" href="../../db/dd5/a09214.html#a94d346bc8d44f285d8cdb97736859201">_grid</a>.<a class="code hl_function" href="../../d5/d09/a09218.html#a495ff5f4cacec88765f5046c3449920e">GetY</a>());</div>
+<div class="line"><span class="lineno">  156</span>    <a class="code hl_function" href="../../d7/daf/a05002.html#aa7571dc833ba0d2dc6d8bc7bc4b47cdd">MMAP::MMapFactory::createOrGetMMapMgr</a>()-&gt;<a class="code hl_function" href="../../d8/d79/a05010.html#a2d933fd783126e48423d81d1c06fb3f9">unloadMap</a>(<a class="code hl_variable" href="../../db/dd5/a09214.html#aac1ea80c5210b25ad26f52558336c20d">_map</a>-&gt;<a class="code hl_function" href="../../d8/d99/a09870.html#abea8ed605071226978969647a0246e86">GetId</a>(), <a class="code hl_variable" href="../../db/dd5/a09214.html#a94d346bc8d44f285d8cdb97736859201">_grid</a>.<a class="code hl_function" href="../../d5/d09/a09218.html#afb20d5812d84229b9afd77527e111fd0">GetX</a>(), <a class="code hl_variable" href="../../db/dd5/a09214.html#a94d346bc8d44f285d8cdb97736859201">_grid</a>.<a class="code hl_function" href="../../d5/d09/a09218.html#a495ff5f4cacec88765f5046c3449920e">GetY</a>());</div>
+<div class="line"><span class="lineno">  157</span>}</div>
+<div class="ttc" id="aa05002_html_aa7571dc833ba0d2dc6d8bc7bc4b47cdd"><div class="ttname"><a href="../../d7/daf/a05002.html#aa7571dc833ba0d2dc6d8bc7bc4b47cdd">MMAP::MMapFactory::createOrGetMMapMgr</a></div><div class="ttdeci">static MMapMgr * createOrGetMMapMgr()</div><div class="ttdef"><b>Definition:</b> MMapFactory.cpp:27</div></div>
+<div class="ttc" id="aa05010_html_a2d933fd783126e48423d81d1c06fb3f9"><div class="ttname"><a href="../../d8/d79/a05010.html#a2d933fd783126e48423d81d1c06fb3f9">MMAP::MMapMgr::unloadMap</a></div><div class="ttdeci">bool unloadMap(uint32 mapId, int32 x, int32 y)</div><div class="ttdef"><b>Definition:</b> MMapMgr.cpp:201</div></div>
+<div class="ttc" id="aa05014_html_a80f01f24b27dd7a5a795c193d0816624"><div class="ttname"><a href="../../dc/d66/a05014.html#a80f01f24b27dd7a5a795c193d0816624">VMAP::VMapFactory::createOrGetVMapMgr</a></div><div class="ttdeci">static VMapMgr2 * createOrGetVMapMgr()</div><div class="ttdef"><b>Definition:</b> VMapFactory.cpp:27</div></div>
+<div class="ttc" id="aa05022_html_ad02faa4408614d29ad5a5815f9c5af16"><div class="ttname"><a href="../../df/dab/a05022.html#ad02faa4408614d29ad5a5815f9c5af16">VMAP::VMapMgr2::unloadMap</a></div><div class="ttdeci">void unloadMap(unsigned int mapId, int x, int y) override</div><div class="ttdef"><b>Definition:</b> VMapMgr2.cpp:160</div></div>
+<div class="ttc" id="aa09218_html_a495ff5f4cacec88765f5046c3449920e"><div class="ttname"><a href="../../d5/d09/a09218.html#a495ff5f4cacec88765f5046c3449920e">MapGrid::GetY</a></div><div class="ttdeci">uint16 GetY() const</div><div class="ttdef"><b>Definition:</b> MapGrid.h:43</div></div>
+<div class="ttc" id="aa09218_html_afb20d5812d84229b9afd77527e111fd0"><div class="ttname"><a href="../../d5/d09/a09218.html#afb20d5812d84229b9afd77527e111fd0">MapGrid::GetX</a></div><div class="ttdeci">uint16 GetX() const</div><div class="ttdef"><b>Definition:</b> MapGrid.h:42</div></div>
+<div class="ttc" id="aa09870_html_abea8ed605071226978969647a0246e86"><div class="ttname"><a href="../../d8/d99/a09870.html#abea8ed605071226978969647a0246e86">Map::GetId</a></div><div class="ttdeci">uint32 GetId() const</div><div class="ttdef"><b>Definition:</b> Map.h:229</div></div>
+<div class="ttc" id="aa09870_html_ae0451da49ca7ce3b856f38870c451e44"><div class="ttname"><a href="../../d8/d99/a09870.html#ae0451da49ca7ce3b856f38870c451e44">Map::GetInstanceId</a></div><div class="ttdeci">uint32 GetInstanceId() const</div><div class="ttdef"><b>Definition:</b> Map.h:266</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>, and <a class="el" href="../../#l00064">i_object</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00052">_grid</a>, <a class="el" href="../../#l00053">_map</a>, <a class="el" href="../../#l00027">MMAP::MMapFactory::createOrGetMMapMgr()</a>, <a class="el" href="../../#l00027">VMAP::VMapFactory::createOrGetVMapMgr()</a>, <a class="el" href="../../#l00229">Map::GetId()</a>, <a class="el" href="../../#l00266">Map::GetInstanceId()</a>, <a class="el" href="../../#l00042">MapGrid&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::GetX()</a>, <a class="el" href="../../#l00043">MapGrid&lt; GRID_OBJECT_TYPES, FAR_VISIBLE_OBJECT_TYPES &gt;::GetY()</a>, <a class="el" href="../../#l00201">MMAP::MMapMgr::unloadMap()</a>, and <a class="el" href="../../#l00160">VMAP::VMapMgr2::unloadMap()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00038">MapGridManager::UnloadGrid()</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="a496b982d081957cfc288f29b99b8739d" name="a496b982d081957cfc288f29b99b8739d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a496b982d081957cfc288f29b99b8739d">&#9670;&#160;</a></span>i_object</h2>
+<a id="a94d346bc8d44f285d8cdb97736859201" name="a94d346bc8d44f285d8cdb97736859201"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a94d346bc8d44f285d8cdb97736859201">&#9670;&#160;</a></span>_grid</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d1/d05/a08434.html">WorldObject</a>&amp; Acore::VisibleChangesNotifier::i_object</td>
+          <td class="memname"><a class="el" href="../../d5/d10/a01571.html#ae6e326739a8733a22249048253475f90">MapGridType</a>&amp; GridTerrainUnloader::_grid</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00092">Visit()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00149">UnloadTerrain()</a>.</p>
+
+</div>
+</div>
+<a id="aac1ea80c5210b25ad26f52558336c20d" name="aac1ea80c5210b25ad26f52558336c20d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aac1ea80c5210b25ad26f52558336c20d">&#9670;&#160;</a></span>_map</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d8/d99/a09870.html">Map</a>* GridTerrainUnloader::_map</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00149">UnloadTerrain()</a>.</p>
 
 </div>
 </div>
@@ -310,8 +261,8 @@ template&lt;class T &gt; </div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d3/d7d/a04797.html">Acore</a></li><li class="navelem"><a class="el" href="../../db/dd5/a09214.html">VisibleChangesNotifier</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:46:18 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../db/dd5/a09214.html">GridTerrainUnloader</a></li>
+    <li class="footer">Generated on Mon Dec 1 2025 20:47:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

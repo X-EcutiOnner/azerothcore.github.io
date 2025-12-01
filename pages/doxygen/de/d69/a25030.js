@@ -1,8 +1,6 @@
 var a25030 =
 [
-    [ "HandleSchoolDMG", "de/d69/a25030.html#ab273304fdbeea8768622c3e6b222aaf2", null ],
-    [ "HandleScriptEffect", "de/d69/a25030.html#a06f9cf29387b49f3e5950661173c77eb", null ],
-    [ "PrepareSpellScript", "de/d69/a25030.html#ac1a2b89eda37ed4e6c5946a93e7a58a2", null ],
-    [ "Register", "de/d69/a25030.html#a9bdbf7578509976d482a26869e9068aa", null ],
-    [ "Validate", "de/d69/a25030.html#a20a7b3a25711a90ab5f0e14991112ea0", null ]
+    [ "CheckAreaTarget", "de/d69/a25030.html#aab7e3693e5744cf444e643f7cdfdf738", null ],
+    [ "PrepareAuraScript", "de/d69/a25030.html#a551d8d6dd43c83d9a693c5971fa5c224", null ],
+    [ "Register", "de/d69/a25030.html#a6647a8e35009cf8559e4957a666f037a", null ]
 ];

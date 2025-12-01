@@ -1,7 +1,7 @@
 var a25450 =
 [
-    [ "EjectPassenger", "d9/d94/a25450.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
-    [ "PrepareSpellScript", "d9/d94/a25450.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
-    [ "Register", "d9/d94/a25450.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
-    [ "Validate", "d9/d94/a25450.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
+    [ "OnPeriodic", "d9/d94/a25450.html#a58f13f947b4daac98651f7fa46d7d674", null ],
+    [ "PrepareAuraScript", "d9/d94/a25450.html#a85c4d84408becf2fb4ac55d9da369b25", null ],
+    [ "Register", "d9/d94/a25450.html#ad0c688255e340c428624de7071b5df56", null ],
+    [ "Validate", "d9/d94/a25450.html#a5ecd0e840bd94d4414acfb0aef9abd28", null ]
 ];

@@ -1,6 +1,6 @@
 var a22670 =
 [
-    [ "npc_released_offspring_harkoaAI", "dc/d98/a22674.html", "dc/d98/a22674" ],
-    [ "npc_released_offspring_harkoa", "d7/de0/a22670.html#a10f583320e3b617cf2b327cfb6fed6f5", null ],
-    [ "GetAI", "d7/de0/a22670.html#ae3d2a02c496be1b2606fce596625d12e", null ]
+    [ "OutdoorPvPGH", "d7/de0/a22670.html#a619492e0a1fdf75f37554a2f19268660", null ],
+    [ "SendRemoveWorldStates", "d7/de0/a22670.html#a92c7e489717072ddc34f707fbe462cb2", null ],
+    [ "SetupOutdoorPvP", "d7/de0/a22670.html#a3d62cb27cfa415c9ba7fe5c18384a75d", null ]
 ];

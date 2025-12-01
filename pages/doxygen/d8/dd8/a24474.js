@@ -1,6 +1,7 @@
 var a24474 =
 [
-    [ "CheckRequirement", "d8/dd8/a24474.html#aa53bdc1b4b57150dbebce61ac87d2b88", null ],
-    [ "PrepareSpellScript", "d8/dd8/a24474.html#a8e3d6659174d4c920e65f85afb9308b1", null ],
-    [ "Register", "d8/dd8/a24474.html#aa4f62292b32347179a5534e4bc0417f8", null ]
+    [ "HandlePeriodic", "d8/dd8/a24474.html#a56dd6ce5acad6c8a10eabfc3f35879fe", null ],
+    [ "PrepareAuraScript", "d8/dd8/a24474.html#a58dc6668172d046cef3046649928c124", null ],
+    [ "Register", "d8/dd8/a24474.html#a5700d7cc8b52ec0351e3d7bf851274b7", null ],
+    [ "Validate", "d8/dd8/a24474.html#afa6d5fe15882f33ae1a1d137db9caf8c", null ]
 ];

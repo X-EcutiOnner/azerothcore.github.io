@@ -1,4 +1,5 @@
 var a04882 =
 [
-    [ "Strand", "d9/dd0/a04882.html#afd0efbcfbbd1ff7ef26d7f8c476380dc", null ]
+    [ "TotemCreated", "d3/ddb/a11102.html", "d3/ddb/a11102" ],
+    [ "TotemDestroyed", "dc/da6/a11098.html", "dc/da6/a11098" ]
 ];

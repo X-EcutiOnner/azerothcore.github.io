@@ -1,5 +1,7 @@
 var a20486 =
 [
-    [ "achievement_getting_cold_in_here", "d0/d6b/a20486.html#a57fe7262a09036ffa88e985cb7e2f123", null ],
-    [ "OnCheck", "d0/d6b/a20486.html#aeafd382d378381f754da6ee04d382276", null ]
+    [ "HandleEffectPeriodic", "d0/d6b/a20486.html#a8d2e75ee2869dc135fe83c782ec6e223", null ],
+    [ "PrepareAuraScript", "d0/d6b/a20486.html#a0996c661dbc4e9a4bd35c1368247c7eb", null ],
+    [ "Register", "d0/d6b/a20486.html#aed86a298340cc05fbe2a8a68396423bb", null ],
+    [ "Validate", "d0/d6b/a20486.html#a1c3ecaebf11d1040fde4ce5cb80f315c", null ]
 ];

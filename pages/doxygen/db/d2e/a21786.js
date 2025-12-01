@@ -1,6 +1,19 @@
 var a21786 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "d7/dcb/a21790.html", "d7/dcb/a21790" ],
-    [ "npc_valiance_keep_cannoneer", "db/d2e/a21786.html#a11f6060a7c6cd7be60001f5c259c94d3", null ],
-    [ "GetAI", "db/d2e/a21786.html#a8bfc1505dedee28d1517ba6a7738ffd5", null ]
+    [ "npc_thassarian2AI", "db/d2e/a21786.html#ab1faae7ecc94a8781d5759de775ff9ba", null ],
+    [ "Cleanup", "db/d2e/a21786.html#a26730ec8ec6180a0dd7798797ba8dcd6", null ],
+    [ "Initialize", "db/d2e/a21786.html#aba9c197fb4ab9bb3fc63cf36e36747f5", null ],
+    [ "JustDied", "db/d2e/a21786.html#aa6b70b2bc438ff98a0c1da7898dc4b9b", null ],
+    [ "MovementInform", "db/d2e/a21786.html#abedd9b40189426c907473c5fb47d3a0d", null ],
+    [ "Reset", "db/d2e/a21786.html#a1bee1fb354dbf4a08c5a8f3a88bbf044", null ],
+    [ "SetData", "db/d2e/a21786.html#a7481081c44c4e092b700c449677da01f", null ],
+    [ "sGossipHello", "db/d2e/a21786.html#a12cfc66cb8ac02dbc088110576ee2460", null ],
+    [ "sGossipSelect", "db/d2e/a21786.html#a680dfc7280a3ef425de8b62eb38e6e21", null ],
+    [ "UpdateAI", "db/d2e/a21786.html#a9a1e96659da31040d41a9898d7e59db5", null ],
+    [ "_arlosGUID", "db/d2e/a21786.html#a6142b1e8045123a7eef1e546bda09943", null ],
+    [ "_arthasGUID", "db/d2e/a21786.html#a0e9aff1cc0c5cb9c266916536782332f", null ],
+    [ "_events", "db/d2e/a21786.html#a6b277a2de46cdeada7045b2b3826fd03", null ],
+    [ "_leryssaGUID", "db/d2e/a21786.html#a489159972b4e0cce65d12477e1031fcd", null ],
+    [ "_playerGUID", "db/d2e/a21786.html#af73af26991dcd12173a50883fe82627e", null ],
+    [ "_talbotGUID", "db/d2e/a21786.html#af148fd3e767999c8ebd4aa3b6eff0d3b", null ]
 ];

@@ -1,6 +1,7 @@
 var a25342 =
 [
-    [ "HandleScriptEffect", "de/d97/a25342.html#a884d0f5f8bf0f3515b4fedd54dd20ebf", null ],
-    [ "PrepareSpellScript", "de/d97/a25342.html#a45151bb2eacdd642e8f11564d4ef0d65", null ],
-    [ "Register", "de/d97/a25342.html#ae01695fd336fca36a7d2569ca741fba5", null ]
+    [ "HandleEffectApply", "de/d97/a25342.html#abf780eeca61aef7e44617aa0ed2ff8b8", null ],
+    [ "OnRemove", "de/d97/a25342.html#af2cfa66cd7dbc7c671efa06c497cc03e", null ],
+    [ "PrepareAuraScript", "de/d97/a25342.html#ab6c5d1fd94c763126ef77f9efd4a7116", null ],
+    [ "Register", "de/d97/a25342.html#a473189971d0a03e7305b7b9e41dc5207", null ]
 ];

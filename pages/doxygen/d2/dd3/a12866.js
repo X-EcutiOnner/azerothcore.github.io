@@ -1,9 +1,20 @@
 var a12866 =
 [
-    [ "go_blood_drenched_doorAI", "d2/dd3/a12866.html#af431fff2778278cbd3e27b3906201373", null ],
-    [ "GossipHello", "d2/dd3/a12866.html#aa3d9c4ee80d6fb42103a3f02abdd8d20", null ],
-    [ "UpdateAI", "d2/dd3/a12866.html#a644ac9ce05242714d1b87150852539f3", null ],
-    [ "events", "d2/dd3/a12866.html#a2c51ffa6a3992fe55c2e22cb783409c9", null ],
-    [ "mirkblood", "d2/dd3/a12866.html#a07e1b098c31efe45e2df4f85f71109e4", null ],
-    [ "opener", "d2/dd3/a12866.html#aa70272eb79e875ba7d7767a1bf82afe9", null ]
+    [ "boss_shade_of_aran", "d2/dd3/a12866.html#a581351036c7e09de447f065a4ef82e03", null ],
+    [ "AttackStart", "d2/dd3/a12866.html#a140ec9e0f968c42f9f003d9a52693884", null ],
+    [ "CheckAranInRoom", "d2/dd3/a12866.html#a64779949875ab0d812746adb78123f7a", null ],
+    [ "DamageTaken", "d2/dd3/a12866.html#a837e9284a2e2b3fe5467cca4fd09c60f", null ],
+    [ "JustDied", "d2/dd3/a12866.html#ac79c249652f1de37b0c7d31a86dd0e51", null ],
+    [ "JustEngagedWith", "d2/dd3/a12866.html#a11a9b1a8a24b9bc9965d655a6f856ef0", null ],
+    [ "KilledUnit", "d2/dd3/a12866.html#ad7470576e9dd08d5fc47259d8de943b2", null ],
+    [ "OnPowerUpdate", "d2/dd3/a12866.html#a3ac487d431bc444cd8c39bb813260737", null ],
+    [ "Reset", "d2/dd3/a12866.html#a03def93f3e3f33d4f760e9f7c7c85d86", null ],
+    [ "SetGUID", "d2/dd3/a12866.html#ad9c71eebc6ba734e1e0d2684a19f1cda", null ],
+    [ "UpdateAI", "d2/dd3/a12866.html#ae80c5bc869136e2ce2c5b4f6cfdc6ea4", null ],
+    [ "_atieshReaction", "d2/dd3/a12866.html#a88c6677edc8a37ac1e36fe6f1688d847", null ],
+    [ "_currentNormalSpell", "d2/dd3/a12866.html#a4384769fb6eb868c612ed34cbb6b2409", null ],
+    [ "_drinking", "d2/dd3/a12866.html#a84a6941826c6c2f1f70965e8909f796e", null ],
+    [ "_drinkScheduler", "d2/dd3/a12866.html#a47e88dcf0027bd197350df7f80bc42d3", null ],
+    [ "_hasDrunk", "d2/dd3/a12866.html#a93bec133a8a1ba41aa9eb86ff19e5eca", null ],
+    [ "_lastSuperSpell", "d2/dd3/a12866.html#afe99b96811ff1e61ea6bbdce42fe8d7d", null ]
 ];

@@ -1,8 +1,7 @@
 var a11766 =
 [
-    [ "accountId", "df/d9a/a11766.html#ad146b84be01ec07a5fee8184f0cc2da9", null ],
-    [ "accountName", "df/d9a/a11766.html#a4849bd1f43fd15eea1991948abdc576d", null ],
-    [ "deleteDate", "df/d9a/a11766.html#a65a101727094841d34e8775bb7504cba", null ],
-    [ "lowGuid", "df/d9a/a11766.html#a11fd07e662184f750ac0a5e547a22437", null ],
-    [ "name", "df/d9a/a11766.html#a0e85dce38305e222c5654315ed68bfc1", null ]
+    [ "map", "df/d9a/a11766.html#ab52fa79b07a9fad5b0cf8a28669a94eb", null ],
+    [ "pallid", "df/d9a/a11766.html#a0693df9090f40b7b1b8dba0003b6092e", null ],
+    [ "pallidGuid", "df/d9a/a11766.html#ae78b3d7448e8f43a993f46208039f0b1", null ],
+    [ "zoneId", "df/d9a/a11766.html#ad035d67dce95aa1ad7a1f39b1cf7b847", null ]
 ];

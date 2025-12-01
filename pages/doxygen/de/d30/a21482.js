@@ -1,6 +1,6 @@
 var a21482 =
 [
-    [ "npc_frozen_orbAI", "d3/dea/a21486.html", "d3/dea/a21486" ],
-    [ "npc_frozen_orb", "de/d30/a21482.html#ac14966722e39b2b6b3a907756701ed98", null ],
-    [ "GetAI", "de/d30/a21482.html#a2f9e1a2cb14ee9e5f24e02aa97697116", null ]
+    [ "boss_erekemAI", "d3/dea/a21486.html", "d3/dea/a21486" ],
+    [ "boss_erekem", "de/d30/a21482.html#ab618380bd8f8c199ca85f1fe8a67db4d", null ],
+    [ "GetAI", "de/d30/a21482.html#aa472a21bf4a855ba75bc7de05cce494c", null ]
 ];

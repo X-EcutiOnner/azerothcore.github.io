@@ -1,6 +1,11 @@
 var a05198 =
 [
-    [ "HashCreator", "da/dac/a05198.html#a03a4f6e31f0cb838b857997a0272f90b", null ],
-    [ "DestroyCTX", "da/dac/a05198.html#a7e607b03e0758d10156e201e8d601db4", null ],
-    [ "MakeCTX", "da/dac/a05198.html#a59487cdc54d416f8b2a88eb54ae21c8d", null ]
+    [ "AuthCrypt", "da/dac/a05198.html#a8c5239631bd6cf700059af31f04126a3", null ],
+    [ "DecryptRecv", "da/dac/a05198.html#a552bd409afb5fcda8a11627ccb20e4b0", null ],
+    [ "EncryptSend", "da/dac/a05198.html#a385fe62742cdbbf62725ace616a06b37", null ],
+    [ "Init", "da/dac/a05198.html#ac76e9a59dc6bcef074e3213cecb4c7b8", null ],
+    [ "IsInitialized", "da/dac/a05198.html#a911330ec40c0ca881af2f0c6fd6b0fef", null ],
+    [ "_clientDecrypt", "da/dac/a05198.html#ae67fcb84288ebd120ad71bedc52086c2", null ],
+    [ "_initialized", "da/dac/a05198.html#a99de2f8dd625cef94d70eeddefc9ac5c", null ],
+    [ "_serverEncrypt", "da/dac/a05198.html#af30b0691f7089d52c2fbd9c5b9f52e68", null ]
 ];

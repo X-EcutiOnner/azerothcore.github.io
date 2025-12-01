@@ -1,9 +1,14 @@
 var a21654 =
 [
-    [ "npc_azure_stalkerAI", "df/da4/a21654.html#a1499e734f0d95d491bcd23c2e858a1ee", null ],
-    [ "Reset", "df/da4/a21654.html#a9bd36e95ce7c3157a2ac53400da51d23", null ],
-    [ "UpdateAI", "df/da4/a21654.html#a8c4ea046d69b269e886960ba9562fd0c", null ],
-    [ "TacticalBlinkCasted", "df/da4/a21654.html#a875a272380251fcc7f98e5c0f84bb41a", null ],
-    [ "uiBackstabTimer", "df/da4/a21654.html#ad03ba957706a62e3d8091d025ddd50dc", null ],
-    [ "uiTacticalBlinkTimer", "df/da4/a21654.html#ab817fb9f2f06715f0a08a99e12693697", null ]
+    [ "npc_azure_saboteurAI", "df/da4/a21654.html#a09fc1e8f171209471c5403af33b05a58", null ],
+    [ "FinishPointReached", "df/da4/a21654.html#a322380edef5dbefe5ac4ab0040183010", null ],
+    [ "MoveInLineOfSight", "df/da4/a21654.html#a21868549892cdd0e67d6403dece9efce", null ],
+    [ "UpdateAI", "df/da4/a21654.html#a9ccbb54a41aef3a252a46545649c2c91", null ],
+    [ "WaypointReached", "df/da4/a21654.html#ac17dc46bfe75582a789a2056978218fb", null ],
+    [ "bAddedWPs", "df/da4/a21654.html#a9cabb9053b3c6b51be184b2144e5ec54", null ],
+    [ "bOpening", "df/da4/a21654.html#a924ceb13552f0f01d55375af0324bf5a", null ],
+    [ "count", "df/da4/a21654.html#a38bf10a96c8eae45b4aa0bd095924f85", null ],
+    [ "pInstance", "df/da4/a21654.html#a1375420fe4bf16f122aa93f5c847a464", null ],
+    [ "timer", "df/da4/a21654.html#a30745320b9cc64fb690fa7bd6d7525f2", null ],
+    [ "uiBoss", "df/da4/a21654.html#a36f60e44bd8f1de85429a75f3e928d77", null ]
 ];

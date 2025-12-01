@@ -1,7 +1,10 @@
 var a21270 =
 [
-    [ "npc_frost_tomb", "d8/d63/a21270.html#a9c7abe1dc25b807d34f1ed818ab639ef", null ],
-    [ "JustDied", "d8/d63/a21270.html#a40a14647eaf9f2c5bd11c094f0aadb79", null ],
-    [ "UpdateAI", "d8/d63/a21270.html#af2122e9c8cb206151f631659c7d167da", null ],
-    [ "PrisonerGUID", "d8/d63/a21270.html#a456fcd5dd3f504954a74fc068f253dc2", null ]
+    [ "npc_dragonflayer_forge_master", "d8/d63/a21270.html#a642c0fb5a5010c48403b8c3dc8bc14eb", null ],
+    [ "JustDied", "d8/d63/a21270.html#aa107e88bbc5b55a6ece5124c4081706e", null ],
+    [ "JustEngagedWith", "d8/d63/a21270.html#a3dfb76bb5cb13624e0709f1b25414360", null ],
+    [ "Reset", "d8/d63/a21270.html#af2c844c926b94456df796b4252e899c2", null ],
+    [ "dataId", "d8/d63/a21270.html#a35962dcbbef32dbc7f63dfa33cffd4b4", null ],
+    [ "pInstance", "d8/d63/a21270.html#a27b5988d777347832795581b0186c09f", null ],
+    [ "prevDataId", "d8/d63/a21270.html#aa057cb5ae681b4b802031151ea1a3529", null ]
 ];

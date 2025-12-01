@@ -1,7 +1,5 @@
 var a14186 =
 [
-    [ "OnRemove", "db/d1b/a14186.html#ab909660f32a77e86fde5da35e2f69302", null ],
-    [ "PrepareAuraScript", "db/d1b/a14186.html#ac95ee854f1f8921bd49fbd59c959d0da", null ],
-    [ "Register", "db/d1b/a14186.html#a42c116ecb7d938bc4b9047ab40ff60ea", null ],
-    [ "Validate", "db/d1b/a14186.html#abd1254c53c04f72f848d8641affc729d", null ]
+    [ "at_zulgurub_bloodfire_pit_speech", "db/d1b/a14186.html#a880058a08d7da3b8d3062a8bc17367a4", null ],
+    [ "_OnTrigger", "db/d1b/a14186.html#a8f1e477942ba9a5f653077632a98930f", null ]
 ];

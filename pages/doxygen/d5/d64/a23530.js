@@ -1,7 +1,8 @@
 var a23530 =
 [
-    [ "PeriodicTick", "d5/d64/a23530.html#a94bee50f214d0a61fa81c4cca1b38fb2", null ],
-    [ "PrepareAuraScript", "d5/d64/a23530.html#a2c34fbc5c12be43b1c054cf4b23542cb", null ],
-    [ "Register", "d5/d64/a23530.html#ae1479b53d8c0575947a7ce7cae4747c4", null ],
-    [ "Validate", "d5/d64/a23530.html#ade8d57db324f02734e1752f49976dc9d", null ]
+    [ "boss_mekgineer_steamrigger", "d5/d64/a23530.html#a930dcbade7135d0c689bcc0718815547", null ],
+    [ "JustDied", "d5/d64/a23530.html#a79272c233bc0256cca62700fc7a01421", null ],
+    [ "JustEngagedWith", "d5/d64/a23530.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
+    [ "JustSummoned", "d5/d64/a23530.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
+    [ "KilledUnit", "d5/d64/a23530.html#a84374438458cb7e034f91d4b65cd22f1", null ]
 ];

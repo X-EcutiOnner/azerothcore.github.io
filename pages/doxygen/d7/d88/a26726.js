@@ -1,9 +1,6 @@
 var a26726 =
 [
-    [ "HandleKnockBack", "d7/d88/a26726.html#acaa8f445874270f34ea5b42a506671db", null ],
-    [ "HandleScript", "d7/d88/a26726.html#a29e47298601cb55c5442a3fa59bb3646", null ],
-    [ "Load", "d7/d88/a26726.html#a45700aba665b601b2c860af5a869d1af", null ],
-    [ "PrepareSpellScript", "d7/d88/a26726.html#aad1c175a2611152278d847ac59f93090", null ],
-    [ "Register", "d7/d88/a26726.html#ad790d435f422fabd128e601fb2dff103", null ],
-    [ "Validate", "d7/d88/a26726.html#a889a129ddc3ea6fcd7f440fc7c163e08", null ]
+    [ "HandleEffectPeriodic", "d7/d88/a26726.html#a29eb3f3dadd45ccab069222fc36cea09", null ],
+    [ "PrepareAuraScript", "d7/d88/a26726.html#aaa8296439ffe69eafdd1cece8ec346ad", null ],
+    [ "Register", "d7/d88/a26726.html#a0a62a0bcf39a781289e1467384ac82cb", null ]
 ];

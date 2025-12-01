@@ -1,14 +1,7 @@
 var a17502 =
 [
-    [ "npc_ball_of_flameAI", "d7/d6a/a17502.html#a90314990bc6404bf2a4005bb94213926", null ],
-    [ "AttackStart", "d7/d6a/a17502.html#a34d51c96005f620c0010948acb6c89ec", null ],
-    [ "DamageDealt", "d7/d6a/a17502.html#ac2d36bc12bb86c329721a2af224d037f", null ],
-    [ "DoAction", "d7/d6a/a17502.html#ac589db56562987de5bbed27a2bead49f", null ],
-    [ "MoveInLineOfSight", "d7/d6a/a17502.html#a7bb96de89b9dc6b6f97443e9aec3ad61", null ],
-    [ "MovementInform", "d7/d6a/a17502.html#ab18870c29224fc3fa5e7b76c1aa981f4", null ],
-    [ "SetGUID", "d7/d6a/a17502.html#a809a33d832264eba92bf0847222bd23a", null ],
-    [ "_chaseGUID", "d7/d6a/a17502.html#a30dc40f8922f8f34d6ad7ec3053413e4", null ],
-    [ "_exploded", "d7/d6a/a17502.html#a724de41f7b14755d704d5de335da380b", null ],
-    [ "_instance", "d7/d6a/a17502.html#af5d8717572176409eca01ae214910c7f", null ],
-    [ "_started", "d7/d6a/a17502.html#a508a5e3f0acafa98956bba6eb41f28fb", null ]
+    [ "HandleDummyTick", "d7/d6a/a17502.html#ac0aba414bc0f9f947b7bba9bd41f47b8", null ],
+    [ "PrepareAuraScript", "d7/d6a/a17502.html#a0e61ac6aa03aaad08d91883e587f1c40", null ],
+    [ "Register", "d7/d6a/a17502.html#a626900d1d0c8a471f4d100b2c2883a52", null ],
+    [ "Validate", "d7/d6a/a17502.html#aa6ea31d8757b42bdea42d30b758a9c6d", null ]
 ];

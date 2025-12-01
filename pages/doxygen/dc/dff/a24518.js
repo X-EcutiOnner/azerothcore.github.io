@@ -1,6 +1,5 @@
 var a24518 =
 [
-    [ "HandleSendEvent", "dc/dff/a24518.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
-    [ "PrepareSpellScript", "dc/dff/a24518.html#aed8815b1d068ba04f12c7714a64af769", null ],
-    [ "Register", "dc/dff/a24518.html#aa55fa06e76b1f34e319e16984405ed20", null ]
+    [ "npc_pet_dk_risen_ally", "dc/dff/a24518.html#ae7ea70827f339d3968ef08dc242b1f03", null ],
+    [ "OnCharmed", "dc/dff/a24518.html#ac3927becc1ed929c384b3413bfee9330", null ]
 ];

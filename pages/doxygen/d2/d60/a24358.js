@@ -1,7 +1,5 @@
 var a24358 =
 [
-    [ "HandleEffectApply", "d2/d60/a24358.html#a362b5b818ab0029956fd22bd10b4b9ac", null ],
-    [ "HandleEffectRemove", "d2/d60/a24358.html#a96769390468dc132df62b5a0ec3a2da4", null ],
-    [ "PrepareAuraScript", "d2/d60/a24358.html#a7bad0d577281829e60c0fb577d6a7d6e", null ],
-    [ "Register", "d2/d60/a24358.html#a95905ec163c42463314a5f5bb023b4d6", null ]
+    [ "creature", "d2/d60/a24358.html#ab4b8f837dbfb42bcbb161f81f846aad9", null ],
+    [ "Timer", "d2/d60/a24358.html#a2be497dc190c1f01f939e12083739882", null ]
 ];

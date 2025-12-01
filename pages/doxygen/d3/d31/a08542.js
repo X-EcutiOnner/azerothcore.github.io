@@ -1,7 +1,9 @@
 var a08542 =
 [
-    [ "IsInSpec", "d3/d31/a08542.html#a17668f5b6ea479c9e6c0fd2593853a1d", null ],
-    [ "Active", "d3/d31/a08542.html#a7ddfb4a1cbd77fe84e49b42b9a28bb90", null ],
-    [ "specMask", "d3/d31/a08542.html#af178fb95c99f0c961bf12435fc7a3fd5", null ],
-    [ "State", "d3/d31/a08542.html#a54331e3ecac0d39a4fc7a6b8c2c9f532", null ]
+    [ "PetInfo", "d5/d80/a08546.html", "d5/d80/a08546" ],
+    [ "GetUnslottedHunterPet", "d3/d31/a08542.html#a4e0e22a135703c989976694a32912cbd", null ],
+    [ "CurrentPet", "d3/d31/a08542.html#a7a9f76452985abc65560773ac413208f", null ],
+    [ "MaxStabledPets", "d3/d31/a08542.html#a2a30270bbd396b7fa4e035429ff8d04e", null ],
+    [ "StabledPets", "d3/d31/a08542.html#a6bd064e692fff316581d08680b163026", null ],
+    [ "UnslottedPets", "d3/d31/a08542.html#a8e6f6e36722dd883e6df962a1e950346", null ]
 ];

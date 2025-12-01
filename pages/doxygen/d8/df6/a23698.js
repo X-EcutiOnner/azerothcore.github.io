@@ -1,6 +1,6 @@
 var a23698 =
 [
-    [ "CalculateDamage", "d8/df6/a23698.html#a170fb61e3a7358d42cc6506067fb978a", null ],
-    [ "PrepareSpellScript", "d8/df6/a23698.html#a197fce87e22a3e4055cabbb925b13aa1", null ],
-    [ "Register", "d8/df6/a23698.html#aac3c6a6b34af795cb08fc299e763f6a8", null ]
+    [ "instance_blood_furnace_InstanceMapScript", "d4/d58/a23702.html", "d4/d58/a23702" ],
+    [ "instance_blood_furnace", "d8/df6/a23698.html#a925a045fa518e72c1eff02fe3c66202b", null ],
+    [ "GetInstanceScript", "d8/df6/a23698.html#a885ba94e1777dfd6586daca304622d3d", null ]
 ];

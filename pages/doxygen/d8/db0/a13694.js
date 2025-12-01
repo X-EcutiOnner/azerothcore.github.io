@@ -1,9 +1,14 @@
 var a13694 =
 [
-    [ "npc_professor_phizzlethorpeAI", "d8/db0/a13694.html#a92af4732575008c1a4f061cef0f23902", null ],
-    [ "JustEngagedWith", "d8/db0/a13694.html#a8864031e3c7a32cde57ca6efbf785d53", null ],
-    [ "JustSummoned", "d8/db0/a13694.html#af8e4e706925d8837cacdc0b5a6d1f10d", null ],
-    [ "sQuestAccept", "d8/db0/a13694.html#ad4a4bd9af581abe832933da69b18d76f", null ],
-    [ "UpdateAI", "d8/db0/a13694.html#a1c62cd07da5f0da91ef572bb00619d26", null ],
-    [ "WaypointReached", "d8/db0/a13694.html#a7be58c6ecc4e5ba23ec35cc1864f19e6", null ]
+    [ "instance_uldaman_InstanceMapScript", "d8/db0/a13694.html#ab2607f229d1e34852c82139ddb597712", null ],
+    [ "GetData", "d8/db0/a13694.html#adef5f6d2dcaa50dbb615c4c134e7ecfb", null ],
+    [ "Initialize", "d8/db0/a13694.html#a2424bcb1aec0ffc6235a8e8b384f0ed1", null ],
+    [ "OnCreatureCreate", "d8/db0/a13694.html#a49b5562743910dc1b6b55efa8c44b6a0", null ],
+    [ "OnGameObjectCreate", "d8/db0/a13694.html#aacb9db5f66f1f9be0d993aacc3cf4348", null ],
+    [ "ReadSaveDataMore", "d8/db0/a13694.html#a8e0e03189463039dd31d883ad9c40e51", null ],
+    [ "SetData", "d8/db0/a13694.html#ab24fc2db74ef83f2b3be9603d4728385", null ],
+    [ "WriteSaveDataMore", "d8/db0/a13694.html#a3345c117f5e2ceca773843c3f51cb76f", null ],
+    [ "_encounters", "d8/db0/a13694.html#a6840bd04d25fd1f365e0c28c725cde97", null ],
+    [ "ancientVaultDoorGUID", "d8/db0/a13694.html#adf83ba0b0a1650462dbc3bc56182bed9", null ],
+    [ "archaedasTempleDoorGUID", "d8/db0/a13694.html#a6bad33c43ceaa23990544e4a8feefb34", null ]
 ];

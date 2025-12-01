@@ -1,6 +1,6 @@
 var a25066 =
 [
-    [ "PrepareSpellScript", "df/d9c/a25066.html#acfa320b33c00883a78c3696bbbeb7eb0", null ],
-    [ "Register", "df/d9c/a25066.html#a6d251ba1e88d4349dcffa96978389a7f", null ],
-    [ "SelectTarget", "df/d9c/a25066.html#a0d95f8ad8d05d2c0b100dc10988d00c9", null ]
+    [ "HandleScriptEffect", "df/d9c/a25066.html#a1ace281bf2fd53722f8328a79369b5df", null ],
+    [ "PrepareSpellScript", "df/d9c/a25066.html#ac9a0019091f291b1b3a770ec57bd83e8", null ],
+    [ "Register", "df/d9c/a25066.html#a821a6b11a177bf7586ab666081ab222a", null ]
 ];

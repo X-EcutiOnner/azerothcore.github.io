@@ -1,8 +1,6 @@
 var a23966 =
 [
-    [ "boss_laj", "df/db4/a23966.html#a3c9323ab4b5530504588ea62aed2edff", null ],
-    [ "Reset", "df/db4/a23966.html#ace690a0662376addaa40093f3f119c31", null ],
-    [ "ScheduleTasks", "df/db4/a23966.html#a6bd0db1ed4c963cdceb681c84469b06c", null ],
-    [ "_lastTransform", "df/db4/a23966.html#a097eacaaf77a09bec087530bad587b11", null ],
-    [ "_transformContainer", "df/db4/a23966.html#a313e66ceeb4e359251dad65383e7f568", null ]
+    [ "AfterRemove", "df/db4/a23966.html#a1794dcf8ebca0bd0c4fce5acb8b45de0", null ],
+    [ "PrepareAuraScript", "df/db4/a23966.html#ad5871ce865820456177362c6b790778f", null ],
+    [ "Register", "df/db4/a23966.html#a41e19fb2509051bbd2d9e43c59f16486", null ]
 ];

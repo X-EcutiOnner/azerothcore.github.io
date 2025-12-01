@@ -1,6 +1,7 @@
 var a13114 =
 [
-    [ "npc_scarlet_miner_cartAI", "de/dfc/a13118.html", "de/dfc/a13118" ],
-    [ "npc_scarlet_miner_cart", "de/d72/a13114.html#a987247939c6fd576d4b8d541175ecb6b", null ],
-    [ "GetAI", "de/d72/a13114.html#a0f1436f0f6784af5ab62bf91df355731", null ]
+    [ "HandleScriptEffect", "de/d72/a13114.html#a2ac898d186e755fbf3b3ae8812e8e579", null ],
+    [ "PrepareSpellScript", "de/d72/a13114.html#ac3ee8d5d585eea8cbcd5e61c34c71fa5", null ],
+    [ "Register", "de/d72/a13114.html#a99b753e49d18109e8c9c3ac7e616ce2c", null ],
+    [ "Validate", "de/d72/a13114.html#a20f7416465ba1cc04426f24037e8074e", null ]
 ];

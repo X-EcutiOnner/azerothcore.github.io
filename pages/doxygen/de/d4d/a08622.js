@@ -1,7 +1,8 @@
 var a08622 =
 [
-    [ "ItemPosCount", "de/d4d/a08622.html#a43458da1fc31d827b6de726754f7901e", null ],
-    [ "isContainedIn", "de/d4d/a08622.html#a6977c544a2d39ca5872b75f27517974f", null ],
-    [ "count", "de/d4d/a08622.html#a4e09f94aa0808f76b2d5ff23691abb27", null ],
-    [ "pos", "de/d4d/a08622.html#ad8954f1a6323316510cfe0f332ee495f", null ]
+    [ "BaseRune", "de/d4d/a08622.html#ad5a4b3afd246f5a4c071e3c4f350f132", null ],
+    [ "ConvertAura", "de/d4d/a08622.html#a41c55cb4c1b3f69c6a424359f60e34e1", null ],
+    [ "Cooldown", "de/d4d/a08622.html#a8eeb0f5208c29d43ab493a22f73eb0a6", null ],
+    [ "CurrentRune", "de/d4d/a08622.html#a2cebb551231f0364a1751e5d1a37fcda", null ],
+    [ "GracePeriod", "de/d4d/a08622.html#a3fa13f205dbaaca5bdcc7406f73b4e6a", null ]
 ];

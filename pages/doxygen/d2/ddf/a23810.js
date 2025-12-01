@@ -1,8 +1,15 @@
 var a23810 =
 [
-    [ "HandleDummyApply", "d2/ddf/a23810.html#ae60ce9cdd5d68f3fd16af54acc3d6603", null ],
-    [ "HandleDummyRemove", "d2/ddf/a23810.html#a368376fe4262815b9b9a9811178cec6d", null ],
-    [ "HandlePeriodicRemove", "d2/ddf/a23810.html#a02a350060a9ce54be88c0ad62eac11d3", null ],
-    [ "PrepareAuraScript", "d2/ddf/a23810.html#a30a7b07fc37d13f9b3a96e95940410c1", null ],
-    [ "Register", "d2/ddf/a23810.html#afeb47a40cfea3d958fee7a410e83857f", null ]
+    [ "npc_shattered_hand_scout", "d2/ddf/a23810.html#a51a57eaaad75817a9b5a81210e01ed51", null ],
+    [ "DamageTaken", "d2/ddf/a23810.html#ad37c34ae2dee082f1b4eed90bc4a3618", null ],
+    [ "FireArrows", "d2/ddf/a23810.html#aa3043011d7d9e7b7c5826b9afc7581d1", null ],
+    [ "GetPorung", "d2/ddf/a23810.html#a575b12c40aeccd6d0cdd63f71a3b93d6", null ],
+    [ "MoveInLineOfSight", "d2/ddf/a23810.html#a2ddb6fd6aa6221768ff71257f4bdd81b", null ],
+    [ "MovementInform", "d2/ddf/a23810.html#a6f6198c2faf68823b1d4c8237044784b", null ],
+    [ "Reset", "d2/ddf/a23810.html#a1fcf0da2cc4a0554f04b3624b68de598", null ],
+    [ "SetData", "d2/ddf/a23810.html#a9416dd89c4728538971abc5975c7080f", null ],
+    [ "UpdateAI", "d2/ddf/a23810.html#a91c2c7eca064d6eaafe5ecaeca4344b4", null ],
+    [ "_firstZealots", "d2/ddf/a23810.html#a2b5fd63b01e4ecb96b006e3870b37609", null ],
+    [ "_scheduler", "d2/ddf/a23810.html#a376f6eab11f8399493d5d33b5c4ea35a", null ],
+    [ "_zealotGUIDs", "d2/ddf/a23810.html#a26381a05bb007fdb4b7da97a19a878da", null ]
 ];

@@ -1,10 +1,7 @@
 var a13354 =
 [
-    [ "HandleDummyTick", "dd/d89/a13354.html#a036291aee8b08212ecead4afce01adf4", null ],
-    [ "Load", "dd/d89/a13354.html#aaecea41af42790dfe9aeba3c56480668", null ],
-    [ "OnApply", "dd/d89/a13354.html#a37b425f877e7415b245c119c29521c4b", null ],
-    [ "PrepareAuraScript", "dd/d89/a13354.html#ade7bfbc3400fb620956d1e8dff7d4a8a", null ],
-    [ "Register", "dd/d89/a13354.html#a9b32995b6e324a6c779bbd742de6cce2", null ],
-    [ "Validate", "dd/d89/a13354.html#a72595ee3cd995d7bed2bcf8c9f5199fb", null ],
-    [ "_forsakenSpell", "dd/d89/a13354.html#ae2aee05482e4854120fc581ecec41f95", null ]
+    [ "OnPeriodic", "dd/d89/a13354.html#aa48b6f35302a8857465c6567f811dec6", null ],
+    [ "PrepareAuraScript", "dd/d89/a13354.html#ad606a06f64b85c762f3c83bc9ca5b7b3", null ],
+    [ "Register", "dd/d89/a13354.html#aa7708067531131738b86077638eda7ac", null ],
+    [ "Validate", "dd/d89/a13354.html#a665698b54201184185d96bd33f53e584", null ]
 ];

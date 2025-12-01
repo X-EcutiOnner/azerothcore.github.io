@@ -1,18 +1,16 @@
 var a21410 =
 [
-    [ "boss_ymironAI", "d6/d2e/a21410.html#a3a4d81b7a0f3f27f94fea60eff043696", null ],
-    [ "EnterEvadeMode", "d6/d2e/a21410.html#a8fbc8526e82efea3e2eddedc421b85a2", null ],
-    [ "JustDied", "d6/d2e/a21410.html#ad1da47485b8f17ea550a1b6bc943eb9a", null ],
-    [ "JustEngagedWith", "d6/d2e/a21410.html#aed0cc8f034454db0046a5adce7f9d8a0", null ],
-    [ "KilledUnit", "d6/d2e/a21410.html#ae1d69402520e1cf4d3a17c0ca9af35bd", null ],
-    [ "MovementInform", "d6/d2e/a21410.html#a6e3c14da21d45bb7ddfba25d4487bba7", null ],
-    [ "Reset", "d6/d2e/a21410.html#a2b6619a51641a82109e98fd4decd22e3", null ],
-    [ "SpellHitTarget", "d6/d2e/a21410.html#a2f2782926ee9a59fc5188d02347f9ca8", null ],
-    [ "UpdateAI", "d6/d2e/a21410.html#aaa447c1c6092bfc7c1d117d32b2c5673", null ],
-    [ "BoatNum", "d6/d2e/a21410.html#ac5663f283d1a97fea1646c1ec230a7dc", null ],
-    [ "BoatOrder", "d6/d2e/a21410.html#a319095910309b0a78d321c4d33994542", null ],
-    [ "events", "d6/d2e/a21410.html#af2d8d9a2ec7ec5876c99ae909d3befd2", null ],
-    [ "pInstance", "d6/d2e/a21410.html#a115529fcbc5a0c8b57152be49915d575", null ],
-    [ "summons", "d6/d2e/a21410.html#aaa5d90d3940c84adebce772c594b0ee2", null ],
-    [ "summons2", "d6/d2e/a21410.html#aa82280ec0e02924d653b62298ed7e471", null ]
+    [ "boss_emalonAI", "d6/d2e/a21410.html#ac87b3ea34e9781f3843321ef874321fe", null ],
+    [ "AttackStart", "d6/d2e/a21410.html#ab08f49aabe76b623496da2fc0198a6c1", null ],
+    [ "JustDied", "d6/d2e/a21410.html#a79a05156b690140e955a6e850ac41e5b", null ],
+    [ "JustEngagedWith", "d6/d2e/a21410.html#a9a3b4e6df73586125c0369aa2d3666df", null ],
+    [ "JustSummoned", "d6/d2e/a21410.html#a895f302d336faa0c3f93854314d3b427", null ],
+    [ "Reset", "d6/d2e/a21410.html#ae5d33f728077d5bbc3b7d74db8015f5d", null ],
+    [ "ResetSummons", "d6/d2e/a21410.html#a7df4da85c40ba1c34063df9b2df5874b", null ],
+    [ "SpellHitTarget", "d6/d2e/a21410.html#a2c60642848b73bc00d1a8244d4fb4733", null ],
+    [ "SummonedCreatureDies", "d6/d2e/a21410.html#a25a18c4d110b407c5fcf09c14444e8b0", null ],
+    [ "UpdateAI", "d6/d2e/a21410.html#a4701d5a77b6ae7ce3432c81b7b6d14cf", null ],
+    [ "events", "d6/d2e/a21410.html#a78312371e28b4be3c072dc870370b577", null ],
+    [ "pInstance", "d6/d2e/a21410.html#af4cc6489905f9702999cc23fd6a920c2", null ],
+    [ "summons", "d6/d2e/a21410.html#a1b6ccd418114e57a0c843cc980a56243", null ]
 ];

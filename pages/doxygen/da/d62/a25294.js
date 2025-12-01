@@ -1,6 +1,7 @@
 var a25294 =
 [
-    [ "CalculateAmount", "da/d62/a25294.html#a66b009487462241e573ea23f081a140a", null ],
-    [ "PrepareAuraScript", "da/d62/a25294.html#a0eee16c77a3c3cea882b67c78826a140", null ],
-    [ "Register", "da/d62/a25294.html#afeafc6922b0a0389fec969e3c7191dda", null ]
+    [ "HandleChargeEffect", "da/d62/a25294.html#ad8d2871e6277dd982653fa864010d084", null ],
+    [ "HandleScriptEffect", "da/d62/a25294.html#a2c0a734c9e8cc1bd7ae4baa168bda7fc", null ],
+    [ "PrepareSpellScript", "da/d62/a25294.html#a1f8722308e1a5bef546dcb939d73dca7", null ],
+    [ "Register", "da/d62/a25294.html#a2cdda449ab11438347e7dd32fd058e6d", null ]
 ];

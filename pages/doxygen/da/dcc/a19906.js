@@ -1,6 +1,9 @@
 var a19906 =
 [
-    [ "npc_algalon_worm_holeAI", "d6/d1d/a19910.html", "d6/d1d/a19910" ],
-    [ "npc_algalon_worm_hole", "da/dcc/a19906.html#a72516a4824fa61a331caff46d2784c64", null ],
-    [ "GetAI", "da/dcc/a19906.html#aac6ff3a41f08f5a11baa78c0526a3556", null ]
+    [ "CheckTargets", "da/dcc/a19906.html#a9340c167ef70508635092e273c23dcde", null ],
+    [ "CountTargets", "da/dcc/a19906.html#a996db37b678143fbc0a392032d29fff5", null ],
+    [ "Load", "da/dcc/a19906.html#a716bcf5bb0a24f9a57534c9dafb1a56f", null ],
+    [ "PrepareSpellScript", "da/dcc/a19906.html#a0b68ca6bdfe0f7c84236e5fe509d8fd9", null ],
+    [ "Register", "da/dcc/a19906.html#aed312a4408134589fd02bbcb844fd1b7", null ],
+    [ "_targetCount", "da/dcc/a19906.html#ac780614674e748274081f9f99a5165fe", null ]
 ];

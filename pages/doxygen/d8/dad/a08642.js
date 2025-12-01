@@ -1,9 +1,7 @@
 var a08642 =
 [
-    [ "EntryPointData", "d8/dad/a08642.html#a1852523ba9ca889cdd6731c63de759e2", null ],
-    [ "ClearTaxiPath", "d8/dad/a08642.html#a4aee0d4ef3850fb486987ae6fe78ee91", null ],
-    [ "HasTaxiPath", "d8/dad/a08642.html#afd310b2f367ec7df76f01689ea120e6e", null ],
-    [ "joinPos", "d8/dad/a08642.html#abfdc0ccd945f60e0a3ec37d278c96940", null ],
-    [ "mountSpell", "d8/dad/a08642.html#a06e1cadac24a2ab90e57373692f829dc", null ],
-    [ "taxiPath", "d8/dad/a08642.html#a5af670fa420b250c22e0f3237e753a6f", null ]
+    [ "ItemPosCount", "d8/dad/a08642.html#a43458da1fc31d827b6de726754f7901e", null ],
+    [ "isContainedIn", "d8/dad/a08642.html#a6977c544a2d39ca5872b75f27517974f", null ],
+    [ "count", "d8/dad/a08642.html#a4e09f94aa0808f76b2d5ff23691abb27", null ],
+    [ "pos", "d8/dad/a08642.html#ad8954f1a6323316510cfe0f332ee495f", null ]
 ];

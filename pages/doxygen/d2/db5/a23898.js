@@ -1,5 +1,7 @@
 var a23898 =
 [
-    [ "at_shattered_halls_execution", "d2/db5/a23898.html#a73f1d1f03960acd070b7996257f7a526", null ],
-    [ "OnTrigger", "d2/db5/a23898.html#ad35f9736371b091dc0780e5bf0caf9f5", null ]
+    [ "AfterApply", "d2/db5/a23898.html#a0ba88b8ed8cfd0afa1de500a7a8d74b5", null ],
+    [ "PrepareAuraScript", "d2/db5/a23898.html#aa98346e5f5b23fe016148426a19a719f", null ],
+    [ "Register", "d2/db5/a23898.html#ac0edcddf6c38b933c868dbe0535f143a", null ],
+    [ "Validate", "d2/db5/a23898.html#a616d1758aa257140f4941fe12ef21e87", null ]
 ];

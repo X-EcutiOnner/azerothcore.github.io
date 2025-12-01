@@ -1,6 +1,25 @@
 var a13230 =
 [
-    [ "instance_scarlet_monastery_InstanceMapScript", "d5/d8c/a13234.html", "d5/d8c/a13234" ],
-    [ "instance_scarlet_monastery", "d6/d6b/a13230.html#a8f068ebd98bd81dbb60dbccd795f1f3f", null ],
-    [ "GetInstanceScript", "d6/d6b/a13230.html#a1c66031217457809fbe56303085715a0", null ]
+    [ "npc_highlord_darion_mograineAI", "d6/d6b/a13230.html#a04be4c12a255c082b2a00daf40e86d96", null ],
+    [ "DoAction", "d6/d6b/a13230.html#a7103aa11bc2dff6942f4a4de5cd8d759", null ],
+    [ "FinishFight", "d6/d6b/a13230.html#ab3fef458ca3180f49d78579f7485e76c", null ],
+    [ "GetData", "d6/d6b/a13230.html#aa3eae106cf85eb7cb163f9780bf16b9f", null ],
+    [ "GetEntryFromSummons", "d6/d6b/a13230.html#a2c9e336d14667aabc3e1a8f3a99fc1e7", null ],
+    [ "JustDied", "d6/d6b/a13230.html#a2875789a251381677106f74e61efaa77", null ],
+    [ "JustEngagedWith", "d6/d6b/a13230.html#ac6ca07a76351dfc5a82b0a57fdfa08d8", null ],
+    [ "JustRespawned", "d6/d6b/a13230.html#a3116088116fe6b4a6b42014f7f5fb3a8", null ],
+    [ "JustSummoned", "d6/d6b/a13230.html#a9ddc2350ffbbf6e3ae91410da55bd326", null ],
+    [ "MovementInform", "d6/d6b/a13230.html#a205b7ebb74ca3be7a6a11fb2d8670288", null ],
+    [ "Reset", "d6/d6b/a13230.html#a7dde645763bab79e34fa7421dbec518e", null ],
+    [ "SendInitialWorldStates", "d6/d6b/a13230.html#ab49e38e481fcb263337f5224c1db7383", null ],
+    [ "SendUpdateWorldState", "d6/d6b/a13230.html#a32fed806170c3664eeb1dd2a1bfdf278", null ],
+    [ "SummonedCreatureDies", "d6/d6b/a13230.html#aa0935ab5c5a8a3ad41719e520703ff92", null ],
+    [ "UpdateAI", "d6/d6b/a13230.html#a086efd646a7298ce17f7ead4688fa022", null ],
+    [ "battleStarted", "d6/d6b/a13230.html#aecb7e1bdebf943e1793656f8a9c39917", null ],
+    [ "defendersRemaining", "d6/d6b/a13230.html#a49b41a9719548bffd2020caea7a94a3d", null ],
+    [ "events", "d6/d6b/a13230.html#a2155cbea373225904a3645a77738dea4", null ],
+    [ "resetExecuted", "d6/d6b/a13230.html#ae1431b2f46cf2ae096e7ddfb22e54a28", null ],
+    [ "scourgeRemaining", "d6/d6b/a13230.html#aabaa1fb49467d4dc5abf2a14ec833d15", null ],
+    [ "startTimeRemaining", "d6/d6b/a13230.html#a503f8e5166ec08664085ae032611de61", null ],
+    [ "summons", "d6/d6b/a13230.html#ae592eef844350ca8fa8415f343d8dffc", null ]
 ];

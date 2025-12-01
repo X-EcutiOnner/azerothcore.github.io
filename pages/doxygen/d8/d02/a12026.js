@@ -1,11 +1,15 @@
 var a12026 =
 [
-    [ "npc_rocknotAI", "d8/d02/a12026.html#a4daa5104eabb6d38c22274b48a8514be", null ],
-    [ "DoGo", "d8/d02/a12026.html#a7591520e06782feddb98a86107fbcb27", null ],
-    [ "Reset", "d8/d02/a12026.html#a4d855a23c638e835de6f1c4644350166", null ],
-    [ "UpdateAI", "d8/d02/a12026.html#a1d3bce3248766393be5f84c5ca5030b1", null ],
-    [ "WaypointReached", "d8/d02/a12026.html#ae7d6f0b1e52767c61ad014accb1cec7a", null ],
-    [ "BreakDoor_Timer", "d8/d02/a12026.html#a3ae6edef4812fd3161c3b8ad5aa5cac2", null ],
-    [ "BreakKeg_Timer", "d8/d02/a12026.html#a6f380ad58cf55fe2ea9fc1f56118b454", null ],
-    [ "instance", "d8/d02/a12026.html#a4328c25f12f562cfdf41740e908cb3bd", null ]
+    [ "boss_vanndarAI", "d8/d02/a12026.html#ada061b4363340602fd1f4744433d9cf9", null ],
+    [ "AttackStart", "d8/d02/a12026.html#a76ab9327e04b82b534a9b3ea59b377d1", null ],
+    [ "EnterEvadeMode", "d8/d02/a12026.html#a9ba6e2620a25728bf30d4d813a82b781", null ],
+    [ "JustEngagedWith", "d8/d02/a12026.html#abde00baf4099361b8c26e6e0cf6c1517", null ],
+    [ "Reset", "d8/d02/a12026.html#a1c2fdf4351a43047f02bec1d46423cb8", null ],
+    [ "UpdateAI", "d8/d02/a12026.html#ab410ed8d64cd91bd6c4b78b2ed678eab", null ],
+    [ "Attacked", "d8/d02/a12026.html#ac5994c76a9d84cf303021a9298673d68", null ],
+    [ "AvatarTimer", "d8/d02/a12026.html#a3bed38b10a87baf50e9c9a57229bd464", null ],
+    [ "ResetTimer", "d8/d02/a12026.html#ae1c4e16cd9ad68e4700d68ed64baa8e2", null ],
+    [ "StormboltTimer", "d8/d02/a12026.html#a71ef70c1b504be2b00be1a70e85bc18a", null ],
+    [ "ThunderclapTimer", "d8/d02/a12026.html#a681a103b6cf937dad3fb15e5be358c26", null ],
+    [ "YellTimer", "d8/d02/a12026.html#a2b8503aaae0fd5e8cd92bb9650ee6ee3", null ]
 ];

@@ -1,6 +1,12 @@
 var a20654 =
 [
-    [ "npc_ulduar_magnetic_coreAI", "df/da7/a20658.html", "df/da7/a20658" ],
-    [ "npc_ulduar_magnetic_core", "db/dd2/a20654.html#a788a1a6d3ec28c866d6b8cb112fe8071", null ],
-    [ "GetAI", "db/dd2/a20654.html#a3adcc5c7650e2b016f02a1160c3fa6ab", null ]
+    [ "npc_ulduar_flames_initialAI", "db/dd2/a20654.html#a5d7202463d12fbdfcc5efdfba786ca19", null ],
+    [ "DoAction", "db/dd2/a20654.html#a6169d12043e73e7991064decccf0926a", null ],
+    [ "RemoveAll", "db/dd2/a20654.html#a2c39dd0d4d8040db5b18af1c1b27071a", null ],
+    [ "RemoveFlame", "db/dd2/a20654.html#ab992d2df928b9ca2699ca48e64fb2606", null ],
+    [ "SpreadFlame", "db/dd2/a20654.html#ae801181472a8e29208a4f305fb0307f9", null ],
+    [ "UpdateAI", "db/dd2/a20654.html#a9d628d32d3519d0e7152c772e540b7ef", null ],
+    [ "CreateTime", "db/dd2/a20654.html#ae50820bb38d0ed61b8687b4023aac5b9", null ],
+    [ "events", "db/dd2/a20654.html#a89217e11f9930b336665969791fc84b9", null ],
+    [ "FlameList", "db/dd2/a20654.html#a75b218699a42ece4959d0a1fe40713d7", null ]
 ];

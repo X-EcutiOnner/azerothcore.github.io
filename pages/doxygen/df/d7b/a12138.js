@@ -1,7 +1,7 @@
 var a12138 =
 [
-    [ "boss_okthorAI", "df/d7b/a12138.html#a8007cfade5c04d8b4e0b787ac5a5beff", null ],
-    [ "JustEngagedWith", "df/d7b/a12138.html#a466a618e52f40e04e873dd50f3728755", null ],
-    [ "UpdateAI", "df/d7b/a12138.html#a246c3bd9aa96eb11d2fa48be8654d726", null ],
-    [ "nextArcaneExplosionTime", "df/d7b/a12138.html#a89d8cdd528775ee77caeac1d0465d4f2", null ]
+    [ "boss_grizzleAI", "df/d7b/a12138.html#a3310892cafc2a8e022105f77258b25af", null ],
+    [ "JustEngagedWith", "df/d7b/a12138.html#a598e7e7d6bdd847bf01968116988a935", null ],
+    [ "UpdateAI", "df/d7b/a12138.html#a2dc5c27cd4eaf2aa1484a370a68e3314", null ],
+    [ "nextTremorTime", "df/d7b/a12138.html#ab0f05592db6d0c806247e76232760c44", null ]
 ];

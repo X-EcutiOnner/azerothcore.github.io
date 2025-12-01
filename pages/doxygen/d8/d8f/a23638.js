@@ -1,7 +1,7 @@
 var a23638 =
 [
-    [ "HandleScript", "d8/d8f/a23638.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
-    [ "PrepareSpellScript", "d8/d8f/a23638.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
-    [ "Register", "d8/d8f/a23638.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
-    [ "Validate", "d8/d8f/a23638.html#a46aca18049e02d50f57579b3fdc705bd", null ]
+    [ "OnApply", "d8/d8f/a23638.html#a301e47da9be4b4a449701c59c19bc62b", null ],
+    [ "PrepareAuraScript", "d8/d8f/a23638.html#a623bf9442a4a2b046d1d89bc2523eb37", null ],
+    [ "Register", "d8/d8f/a23638.html#aaf38547f7fa233b03429734dbe374f13", null ],
+    [ "Validate", "d8/d8f/a23638.html#ac390e2e24d9a85635ced5eaa343b8e09", null ]
 ];

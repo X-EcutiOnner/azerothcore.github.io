@@ -1,6 +1,6 @@
 var a27322 =
 [
-    [ "AreaTrigger_at_brewfest", "df/d96/a27322.html#ad7e2916aefc6efbfb9f747a75a4a14a3", null ],
-    [ "OnTrigger", "df/d96/a27322.html#a17e4a8d671136466c7673789e4f69a84", null ],
-    [ "_triggerTimes", "df/d96/a27322.html#ab763765427796ad17338bcc8d63cf891", null ]
+    [ "boss_ysondreAI", "d7/dc8/a27326.html", "d7/dc8/a27326" ],
+    [ "boss_ysondre", "df/d96/a27322.html#ad12dbb728f4f0cdf2f4c0ba9cd2a167d", null ],
+    [ "GetAI", "df/d96/a27322.html#a0da215d7bc8ee86216887e682b9335c3", null ]
 ];

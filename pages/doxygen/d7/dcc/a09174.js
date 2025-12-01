@@ -1,7 +1,6 @@
 var a09174 =
 [
-    [ "V8Type", "d7/dcc/a09174.html#a385ac15640b76e43eda077c451dcd745", null ],
-    [ "V9Type", "d7/dcc/a09174.html#a9b7daa2ba0e72e137243ac061efaa2a5", null ],
-    [ "v8", "d7/dcc/a09174.html#a55d7b001e047c31686b110cc4b1aa295", null ],
-    [ "v9", "d7/dcc/a09174.html#ab4f6ec9aefc2721bd216582d7a882aa3", null ]
+    [ "AreaMapType", "d7/dcc/a09174.html#a0ea8ea1ddb694a7e57c816f6b7d33ec6", null ],
+    [ "areaMap", "d7/dcc/a09174.html#a21673b134ee6b5fb20bab06c3e1b2238", null ],
+    [ "gridArea", "d7/dcc/a09174.html#a37e8598e7a22dcb17637243fbeeecb0c", null ]
 ];

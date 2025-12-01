@@ -1,5 +1,7 @@
 var a10742 =
 [
-    [ "SocketEnchantID", "d8/dc5/a10742.html#ae682a8405a5fa1c70033d190dde25d99", null ],
-    [ "SocketIndex", "d8/dc5/a10742.html#ac75ed3f28bdd3d83f15e55ef9b6ac54a", null ]
+    [ "GuildBankActivate", "d8/dc5/a10742.html#a5b27541a26ada694d9635f6d6873ef20", null ],
+    [ "Read", "d8/dc5/a10742.html#a8dbde75aaa3102024aa0ff3a8f3625da", null ],
+    [ "Banker", "d8/dc5/a10742.html#a9b79075c6ee6a4f73ae18c6956eead7c", null ],
+    [ "FullUpdate", "d8/dc5/a10742.html#a50b9a5333e2296e654c90fc6394bdbd3", null ]
 ];

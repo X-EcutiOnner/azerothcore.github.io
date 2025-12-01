@@ -1,7 +1,6 @@
 var a13046 =
 [
-    [ "HandleScriptEffect", "d0/dba/a13046.html#a1b196f3817c16fac48392981b58c1a05", null ],
-    [ "PrepareSpellScript", "d0/dba/a13046.html#ad44566ff9a44057679e7ce8e1959776d", null ],
-    [ "Register", "d0/dba/a13046.html#aef3bfdaff9f0b5080d83805a1a962a79", null ],
-    [ "Validate", "d0/dba/a13046.html#a70a1f0d2666921ccbad62c1fd06fe4b6", null ]
+    [ "boss_kagani_nightstrike", "d0/dba/a13046.html#aeb4cfab6c4caafcf64d5e54cf481fd6a", null ],
+    [ "JustEngagedWith", "d0/dba/a13046.html#aba5ca4ce6fe6b39bb85aadddbcd9891e", null ],
+    [ "MovementInform", "d0/dba/a13046.html#af1010b7aa7434a92f1168eceda47cc2e", null ]
 ];

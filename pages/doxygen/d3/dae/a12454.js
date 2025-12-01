@@ -1,7 +1,6 @@
 var a12454 =
 [
-    [ "HandleDummy", "d3/dae/a12454.html#a7fca477ef5c86d543cd59571ad8dc7de", null ],
-    [ "PrepareSpellScript", "d3/dae/a12454.html#a6ec124990f202af0c6063c285bf04d88", null ],
-    [ "Register", "d3/dae/a12454.html#a5adf9f0bbe5b72c4c22f569086582f0f", null ],
-    [ "Validate", "d3/dae/a12454.html#ae35efa08f507aac5b72166a216d01870", null ]
+    [ "boss_flamegorAI", "dc/d55/a12458.html", "dc/d55/a12458" ],
+    [ "boss_flamegor", "d3/dae/a12454.html#abc6f068c81466d08306d94667bb1974b", null ],
+    [ "GetAI", "d3/dae/a12454.html#a56fb8425c55703fbda14a982d8fdcb2d", null ]
 ];

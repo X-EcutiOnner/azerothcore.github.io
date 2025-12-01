@@ -1,6 +1,6 @@
 var a01343 =
 [
-    [ "UnitScript", "dd/d31/a10444.html", "dd/d31/a10444" ],
+    [ "UnitScript", "de/d72/a10450.html", "de/d72/a10450" ],
     [ "UnitHook", "d3/da4/a01343.html#a4eaefcbbd1058569f55194299c218c26", [
       [ "UNITHOOK_ON_HEAL", "d3/da4/a01343.html#a4eaefcbbd1058569f55194299c218c26afb576f10646cffe0868efddf3e7aa256", null ],
       [ "UNITHOOK_ON_DAMAGE", "d3/da4/a01343.html#a4eaefcbbd1058569f55194299c218c26a62c0eeb1f01d869aab444cfe76e2116b", null ],
@@ -12,9 +12,6 @@ var a01343 =
       [ "UNITHOOK_ON_AURA_APPLY", "d3/da4/a01343.html#a4eaefcbbd1058569f55194299c218c26ac928edfab8c8b1fc13c8f8126f5440ae", null ],
       [ "UNITHOOK_ON_AURA_REMOVE", "d3/da4/a01343.html#a4eaefcbbd1058569f55194299c218c26aa3501eebed0af3d2470808a30f9c1a5e", null ],
       [ "UNITHOOK_IF_NORMAL_REACTION", "d3/da4/a01343.html#a4eaefcbbd1058569f55194299c218c26acf1161bacf692693081683ef22f09c5c", null ],
-      [ "UNITHOOK_IS_NEEDMOD_SPELL_DAMAGE_PERCENT", "d3/da4/a01343.html#a4eaefcbbd1058569f55194299c218c26afcdac3c6c72041d7c2bed9c71811f223", null ],
-      [ "UNITHOOK_IS_NEEDMOD_MELEE_DAMAGE_PERCENT", "d3/da4/a01343.html#a4eaefcbbd1058569f55194299c218c26ad8b8880b23c3e9ce4ab482cc2ee2375a", null ],
-      [ "UNITHOOK_IS_NEEDMOD_HEAL_PERCENT", "d3/da4/a01343.html#a4eaefcbbd1058569f55194299c218c26ae15a260476ff0ce2435be2ed12bd5c6e", null ],
       [ "UNITHOOK_CAN_SET_PHASE_MASK", "d3/da4/a01343.html#a4eaefcbbd1058569f55194299c218c26a1a63709d3c29f7cbdd99a4307bf8ed93", null ],
       [ "UNITHOOK_IS_CUSTOM_BUILD_VALUES_UPDATE", "d3/da4/a01343.html#a4eaefcbbd1058569f55194299c218c26ac14c60774f62f84baef5839831e875c7", null ],
       [ "UNITHOOK_SHOULD_TRACK_VALUES_UPDATE_POS_BY_INDEX", "d3/da4/a01343.html#a4eaefcbbd1058569f55194299c218c26ab6257ae823fecbde4bcb0c9c1cdf4762", null ],

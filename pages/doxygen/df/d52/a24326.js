@@ -1,7 +1,6 @@
 var a24326 =
 [
-    [ "npc_bessyAI", "da/da3/a24330.html", "da/da3/a24330" ],
-    [ "npc_bessy", "df/d52/a24326.html#a08278c1524445054ca158433044a0824", null ],
-    [ "GetAI", "df/d52/a24326.html#af805bc5ee3de2fd6773158e51bf09d4a", null ],
-    [ "OnQuestAccept", "df/d52/a24326.html#a98b8e816195b81bab12cc9906df79807", null ]
+    [ "npc_mature_netherwing_drakeAI", "da/da3/a24330.html", "da/da3/a24330" ],
+    [ "npc_mature_netherwing_drake", "df/d52/a24326.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
+    [ "GetAI", "df/d52/a24326.html#ac5a1dad24920396156f22ab02bfab84b", null ]
 ];

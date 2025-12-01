@@ -1,7 +1,9 @@
 var a09150 =
 [
-    [ "flags", "df/d4a/a09150.html#a2faab5766bd3cbc09ed4e541be7e7f94", null ],
-    [ "fourcc", "df/d4a/a09150.html#a93b48dd741d13ff036eac8a77df9f916", null ],
-    [ "gridHeight", "df/d4a/a09150.html#a3fbdc02ff4769b6f2eacbdc02ba4d370", null ],
-    [ "gridMaxHeight", "df/d4a/a09150.html#a1146dfae7dc4f89dddc94cda5deb7a4c", null ]
+    [ "GridReference", "df/d4a/a09150.html#a9c27f99f74cd0cc99b39f9a6ec614e83", null ],
+    [ "~GridReference", "df/d4a/a09150.html#afd6a4f88eb066818afde1b752600bb12", null ],
+    [ "next", "df/d4a/a09150.html#a792323f4b0f66b58d1f9dd0f65f26f0c", null ],
+    [ "sourceObjectDestroyLink", "df/d4a/a09150.html#a96cb6e8287ceba4de31681bddb1e5838", null ],
+    [ "targetObjectBuildLink", "df/d4a/a09150.html#a16dc6dc9a5a7bfcd5de9691ad469f5f8", null ],
+    [ "targetObjectDestroyLink", "df/d4a/a09150.html#ac4c863d059b5c826e9597056dc7c887a", null ]
 ];

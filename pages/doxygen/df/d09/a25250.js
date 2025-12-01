@@ -1,7 +1,6 @@
 var a25250 =
 [
-    [ "HandleScript", "df/d09/a25250.html#a8ec57aed0788f58e2c50fc08793a5749", null ],
-    [ "PrepareSpellScript", "df/d09/a25250.html#a56c9ab120239252982cab8b96ac8c5fe", null ],
-    [ "Register", "df/d09/a25250.html#a8c727b2b00858abcce058b16d66ca62a", null ],
-    [ "Validate", "df/d09/a25250.html#af3ffb9930eaba8703065719bbcf02f56", null ]
+    [ "CheckSeat", "df/d09/a25250.html#ab4e2376e084bc2cf0e30a91e3e5a270c", null ],
+    [ "PrepareSpellScript", "df/d09/a25250.html#aaa9a6f31ec57542dcd657874c4eb52aa", null ],
+    [ "Register", "df/d09/a25250.html#a6feb7c77ba258688a83bdb86e9ee53f8", null ]
 ];

@@ -1,9 +1,6 @@
 var a23054 =
 [
-    [ "HandleAfterCast", "d7/d78/a23054.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
-    [ "HandleDummy", "d7/d78/a23054.html#ae94594e337c2e0e6864f3723df8349bf", null ],
-    [ "Load", "d7/d78/a23054.html#a301008eff6b13a43070b3916925391ae", null ],
-    [ "PrepareSpellScript", "d7/d78/a23054.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
-    [ "Register", "d7/d78/a23054.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
-    [ "_targetCount", "d7/d78/a23054.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
+    [ "boss_reliquary_of_soulsAI", "d8/d4b/a23058.html", "d8/d4b/a23058" ],
+    [ "boss_reliquary_of_souls", "d7/d78/a23054.html#a0c73fc6221da0b19903e534932ca6406", null ],
+    [ "GetAI", "d7/d78/a23054.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
 ];

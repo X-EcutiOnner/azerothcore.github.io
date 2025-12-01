@@ -1,7 +1,7 @@
 var a24546 =
 [
-    [ "npc_isla_starmaneAI", "dd/d72/a24550.html", "dd/d72/a24550" ],
-    [ "npc_isla_starmane", "dd/d91/a24546.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
-    [ "GetAI", "dd/d91/a24546.html#a0ea2dbaab4115772f92849e06aa85575", null ],
-    [ "OnQuestAccept", "dd/d91/a24546.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
+    [ "npc_pet_gen_target_following_bomb", "dd/d91/a24546.html#a447c2cd258d784ca1d79c79412a1a426", null ],
+    [ "UpdateAI", "dd/d91/a24546.html#ac68f18d68a313623c04e885f9506f287", null ],
+    [ "bombSpellId", "dd/d91/a24546.html#a3c72bd26c66d3e7a85f3152557e399c4", null ],
+    [ "checkTimer", "dd/d91/a24546.html#a694ee5f884f1bd404f0ef3d3030a212f", null ]
 ];

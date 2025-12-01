@@ -1,7 +1,5 @@
 var a28566 =
 [
-    [ "Id", "df/d4b/a28566.html#a5e2447dd0f6b60e322105d8fcafd0010", null ],
-    [ "MaxLevel", "df/d4b/a28566.html#a0392e52a26bb4e1d1927fa7f76c674b8", null ],
-    [ "Modifier", "df/d4b/a28566.html#a5ce5b18749d3c75878b310bdc8427b1f", null ],
-    [ "StatMod", "df/d4b/a28566.html#ab639dd94c53707ca160e13f71342730d", null ]
+    [ "ID", "df/d4b/a28566.html#a142c8a5e22234e6317ff113618559b8b", null ],
+    [ "Value", "df/d4b/a28566.html#a693631ac3ce915a1c4adf565517eacf9", null ]
 ];

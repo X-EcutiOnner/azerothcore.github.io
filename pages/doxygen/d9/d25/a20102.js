@@ -1,6 +1,7 @@
 var a20102 =
 [
-    [ "npc_mimirons_infernoAI", "d6/de9/a20106.html", "d6/de9/a20106" ],
-    [ "npc_mimirons_inferno", "d9/d25/a20102.html#a7a531a65a179b5d56c888c055b72d269", null ],
-    [ "GetAI", "d9/d25/a20102.html#a69294c5e8f50727e5f1a6586a8a3682b", null ]
+    [ "npc_storm_beacon_spawnAI", "d9/d25/a20102.html#a031c1941f177a18af58efcf4a1270654", null ],
+    [ "UpdateAI", "d9/d25/a20102.html#a249bf56b905ef0c8b34c737d95518c91", null ],
+    [ "_amount", "d9/d25/a20102.html#a3d2286247853cb04b9cc23cd8c0bfdd6", null ],
+    [ "_checkTimer", "d9/d25/a20102.html#a7fd6d449b6a20ba9463896244c513a67", null ]
 ];

@@ -1,10 +1,13 @@
 var a23150 =
 [
-    [ "CalculateAmount", "d0/daf/a23150.html#a19dcb71e46cc6fb08fda251829afae6f", null ],
-    [ "CheckProc", "d0/daf/a23150.html#a8c4f5c9f3db8710aafd687a7bf304572", null ],
-    [ "HandleProc", "d0/daf/a23150.html#ab5fc5ad25ab1d7451f0b8801894ae400", null ],
-    [ "PrepareAuraScript", "d0/daf/a23150.html#a6e066884663276dbba82e46ca5f66e59", null ],
-    [ "Register", "d0/daf/a23150.html#ac4154f0746e77229e8d349021d5b9c30", null ],
-    [ "Update", "d0/daf/a23150.html#a9f5f3767f52f9755de6592f00f62a3d4", null ],
-    [ "Validate", "d0/daf/a23150.html#a4f10d23f63c47b408b70373623b877a8", null ]
+    [ "boss_teron_gorefiend", "d0/daf/a23150.html#a81845f22aa383cdc57912ee9655b7bf9", null ],
+    [ "JustDied", "d0/daf/a23150.html#aa080c8d17bc51142c1cecadf7a0376a2", null ],
+    [ "JustEngagedWith", "d0/daf/a23150.html#a9f658d42cf27a54c62a71e28b5dfadee", null ],
+    [ "JustSummoned", "d0/daf/a23150.html#a71db567c5be7396add349e2f1b455a50", null ],
+    [ "KilledUnit", "d0/daf/a23150.html#a70dbf2b2a08cf915866afd51f8a74018", null ],
+    [ "Reset", "d0/daf/a23150.html#af32df2d958c618dc08d3da40b92bf3aa", null ],
+    [ "SetData", "d0/daf/a23150.html#a139c351471a3f19c7e59cf8e40913820", null ],
+    [ "UpdateAI", "d0/daf/a23150.html#a0bdd92c94adf066fdbf8ba9bcb1a1ba1", null ],
+    [ "_intro", "d0/daf/a23150.html#a99c62157084373e8eddd4497360cc047", null ],
+    [ "_recentlySpoken", "d0/daf/a23150.html#adef80b4509a6a72e7021fd3cc11de697", null ]
 ];

@@ -1,7 +1,8 @@
 var a10930 =
 [
-    [ "StopMirrorTimer", "d4/df1/a10930.html#aabd646c82f3dcdff2eef2158c6724dff", null ],
-    [ "StopMirrorTimer", "d4/df1/a10930.html#a25f930852c7124cdfbf73687e62a26d1", null ],
-    [ "Write", "d4/df1/a10930.html#ae99dab4406316eac99a6e0e0146d879e", null ],
-    [ "Timer", "d4/df1/a10930.html#a5e5cf56b83aca514cff34c1a17f2d3b1", null ]
+    [ "PlayObjectSound", "d4/df1/a10930.html#ab322044d36abddeb2fafbf99261bb70b", null ],
+    [ "PlayObjectSound", "d4/df1/a10930.html#a2c4d15099e991a9c2ddc5295536aa28e", null ],
+    [ "Write", "d4/df1/a10930.html#a1162715dd557a9f7b7c25a0331bc3b74", null ],
+    [ "SoundKitID", "d4/df1/a10930.html#a5e794706b8793d164a1189e9a6918735", null ],
+    [ "SourceObjectGUID", "d4/df1/a10930.html#a82b226eba66e569c1f377f529e511361", null ]
 ];

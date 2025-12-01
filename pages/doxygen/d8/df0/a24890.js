@@ -1,7 +1,6 @@
 var a24890 =
 [
-    [ "AfterApply", "d8/df0/a24890.html#a1849f49a9682627753b8bd39b3ff827e", null ],
-    [ "AfterRemove", "d8/df0/a24890.html#a7c08bea735cd36840463aa942e7529b4", null ],
-    [ "PrepareAuraScript", "d8/df0/a24890.html#ad27880f797137cae09381e860727e2f7", null ],
-    [ "Register", "d8/df0/a24890.html#a6c105609c1ee61a8f845018550b2e3ba", null ]
+    [ "PrepareAuraScript", "d8/df0/a24890.html#a31bde31b6db4f71ce65c6e1a862df771", null ],
+    [ "Register", "d8/df0/a24890.html#aebe64c4760d13d8afaebcf4a4b1196fa", null ],
+    [ "UpdateAmount", "d8/df0/a24890.html#a621e73a09438f3f9cbaa232125df3b87", null ]
 ];

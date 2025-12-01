@@ -1,6 +1,7 @@
 var a25326 =
 [
-    [ "HandleDummy", "da/d53/a25326.html#a63bc85e32a1478d03b381c61a33d0dff", null ],
-    [ "PrepareSpellScript", "da/d53/a25326.html#adae41617f38a71ccec183f419d677cfd", null ],
-    [ "Register", "da/d53/a25326.html#a820e8b506de36a24411ae4a1c5930417", null ]
+    [ "PrepareSpellScript", "da/d53/a25326.html#aad8061898087fbf5eb6527cbaa70927d", null ],
+    [ "RecalculateDamage", "da/d53/a25326.html#a6f03ccb77ce43c4e36996ae344780ee3", null ],
+    [ "Register", "da/d53/a25326.html#abc7e406244a1a5ea9d7c3d8feb10b8ae", null ],
+    [ "_damagePct", "da/d53/a25326.html#a3ab5f5ec279f30dda50fa3ca3f5e6715", null ]
 ];

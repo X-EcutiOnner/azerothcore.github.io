@@ -1,9 +1,8 @@
 var a24586 =
 [
-    [ "npc_pet_gen_soul_trader_beacon", "dd/d52/a24586.html#a58ef19b8c08aee764bdd55e480d9d750", null ],
-    [ "GetOwner", "dd/d52/a24586.html#a72bfd4cf6c734d1f1070a1560131667d", null ],
-    [ "SpellHitTarget", "dd/d52/a24586.html#a6c0d3181b913c5022325f66586f66bfa", null ],
-    [ "UpdateAI", "dd/d52/a24586.html#a18c06958e6b3d4306a6fdb5f9924d7ff", null ],
-    [ "events", "dd/d52/a24586.html#ae0a6d4850a0a0da4bd04227b11bae9e4", null ],
-    [ "ownerGUID", "dd/d52/a24586.html#a3a42e83216c0111a740a0c89e57c6f62", null ]
+    [ "npc_pet_darting_hatchling", "dd/d52/a24586.html#a7ae5973061068396bf382dc21e88cd44", null ],
+    [ "SpellHit", "dd/d52/a24586.html#a29ea5438bab7e606175c02165a607f9b", null ],
+    [ "UpdateAI", "dd/d52/a24586.html#a23196d05aebe5fa4a65455c55368820a", null ],
+    [ "checkTimer", "dd/d52/a24586.html#a3539276158abb5fd183ed1aa03a8ead8", null ],
+    [ "goFast", "dd/d52/a24586.html#aaf80b40200f2b8eb2861c69b1dbd2dde", null ]
 ];

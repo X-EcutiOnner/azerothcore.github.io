@@ -1,11 +1,11 @@
 var a02837 =
 [
-    [ "boss_svala", "d8/d9d/a21340.html", "d8/d9d/a21340" ],
-    [ "boss_svala::boss_svalaAI", "da/da5/a21344.html", "da/da5/a21344" ],
-    [ "npc_ritual_channeler", "d2/d10/a21348.html", "d2/d10/a21348" ],
-    [ "npc_ritual_channeler::npc_ritual_channelerAI", "dd/d12/a21352.html", "dd/d12/a21352" ],
-    [ "spell_svala_ritual_strike", "de/d93/a21356.html", "de/d93/a21356" ],
-    [ "spell_svala_ritual_strike_aura", "d1/d56/a21360.html", "d1/d56/a21360" ],
+    [ "boss_svala", "d6/d6f/a21346.html", "d6/d6f/a21346" ],
+    [ "boss_svala::boss_svalaAI", "da/dfc/a21350.html", "da/dfc/a21350" ],
+    [ "npc_ritual_channeler", "db/df9/a21354.html", "db/df9/a21354" ],
+    [ "npc_ritual_channeler::npc_ritual_channelerAI", "d6/d7a/a21358.html", "d6/d7a/a21358" ],
+    [ "spell_svala_ritual_strike", "d2/d62/a21362.html", "d2/d62/a21362" ],
+    [ "spell_svala_ritual_strike_aura", "d7/d7e/a21366.html", "d7/d7e/a21366" ],
     [ "Events", "dc/dfd/a02837.html#af60e00b78607064c5be6aa9397ea49c1", [
       [ "EVENT_CHARGE_TARGET", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ae9b5b6a7dd72b493b6874d7408585a02", null ],
       [ "EVENT_CLEAVE", "d5/d56/a03437.html#af60e00b78607064c5be6aa9397ea49c1ad4266671217cc53e473a6844d92ef36a", null ],
@@ -1488,7 +1488,8 @@ var a02837 =
       [ "EVENT_ECK_BITE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a25fd4fd9c83fea5e757a20aeb8f03aee", null ],
       [ "EVENT_ECK_SPIT", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6add7ba9bf01f5f04dac1d93a997b57af2", null ],
       [ "EVENT_ECK_SPRING", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6c3f22fd6aa63e5bf101019792a4b483", null ],
-      [ "EVENT_ECK_HEALTH", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f0a1bde1d1f47b6f7e45f621a57b6c1", null ],
+      [ "EVENT_ECK_CRAZED_EMOTE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6eeac32439bad23ef93cf41b4526d55d", null ],
+      [ "EMOTE_CRAZED", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2628cfc3f39065948404f522308c931f", null ],
       [ "NPC_SLADRAN_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08dc37f063f5d70a3893765939f63a82", null ],
       [ "NPC_SLADRAN_CONSTRICTORS", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a52bf6fd6ef6437b9a4e88616b7f1d91b", null ],
       [ "MAX_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1e3f12d08f9d4880b8263386a54d21c8", null ],

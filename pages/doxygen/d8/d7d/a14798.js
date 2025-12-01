@@ -1,6 +1,7 @@
 var a14798 =
 [
-    [ "FilterTargets", "d8/d7d/a14798.html#ae2d33bee9d8d8c29f07ed60bbaf3e7b0", null ],
-    [ "PrepareSpellScript", "d8/d7d/a14798.html#a2b7ec1db13418f2e369faab6ec8422b4", null ],
-    [ "Register", "d8/d7d/a14798.html#a6375482bd9d1fc6c6941607273c506dc", null ]
+    [ "HandleOnHit", "d8/d7d/a14798.html#ae3241486a612293b5421a523f6d854d9", null ],
+    [ "PrepareSpellScript", "d8/d7d/a14798.html#a20b6f0f7d403065cde55dec7f50537f9", null ],
+    [ "Register", "d8/d7d/a14798.html#af6d4c6dfa15da815298ad5d88b3fede2", null ],
+    [ "Validate", "d8/d7d/a14798.html#a53773b6b18b1d3a5be24f3065e8a2875", null ]
 ];

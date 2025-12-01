@@ -1,8 +1,6 @@
 var a08738 =
 [
-    [ "DiminishingReturn", "da/d97/a08738.html#acd4828637710636d0164fced285c854d", null ],
-    [ "DRGroup", "da/d97/a08738.html#add3ab95d65e283a326e1922129941ae4", null ],
-    [ "hitCount", "da/d97/a08738.html#a94b1fdc8e8d51b1c6f5e723e697ed323", null ],
-    [ "hitTime", "da/d97/a08738.html#ae3f5eecc2bc88fe236fe4c7c297b68c5", null ],
-    [ "stack", "da/d97/a08738.html#aeb40601df7e6507c7fd83e3152541ba5", null ]
+    [ "SplineHandler", "da/d97/a08738.html#a7c5aac2d12e13bad1c38c4e8860ed27f", null ],
+    [ "operator()", "da/d97/a08738.html#aa5d1bddc2435eee76f493229740ecf9e", null ],
+    [ "_unit", "da/d97/a08738.html#aaafb07271736d8bc89d07aafbbae7f25", null ]
 ];

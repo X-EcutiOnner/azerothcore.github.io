@@ -1,6 +1,6 @@
 var a12466 =
 [
-    [ "boss_razorgoreAI", "df/d92/a12470.html", "df/d92/a12470" ],
-    [ "boss_razorgore", "df/d91/a12466.html#aee534a04797c5938e6da00f2ab119943", null ],
-    [ "GetAI", "df/d91/a12466.html#a4683a5deefdb9d3219638189e9a99c2a", null ]
+    [ "boss_victor_nefariusAI", "df/d92/a12470.html", "df/d92/a12470" ],
+    [ "boss_victor_nefarius", "df/d91/a12466.html#a85c529c49a0373a553bc59818fb18f49", null ],
+    [ "GetAI", "df/d91/a12466.html#a6ea19bde6980cbb4ca627d17cf57ae24", null ]
 ];

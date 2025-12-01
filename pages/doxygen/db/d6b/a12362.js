@@ -1,6 +1,5 @@
 var a12362 =
 [
-    [ "FilterTargets", "db/d6b/a12362.html#ac630fb5f068e4d26adb078b118994c45", null ],
-    [ "PrepareSpellScript", "db/d6b/a12362.html#a5f4986bfad79573e65d56ff276c49914", null ],
-    [ "Register", "db/d6b/a12362.html#aa1f5838d43871fd7908ea3b914666000", null ]
+    [ "at_dragonspire_hall", "db/d6b/a12362.html#a6adb22f328a7324b2ecf70204ab26a6d", null ],
+    [ "OnTrigger", "db/d6b/a12362.html#a0433930ec050a9dbeb60e1b1122772e3", null ]
 ];

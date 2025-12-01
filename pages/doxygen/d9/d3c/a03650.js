@@ -1,11 +1,11 @@
 var a03650 =
 [
-    [ "boss_chromaggus", "d2/def/a12408.html", "d2/def/a12408" ],
-    [ "boss_chromaggus::boss_chromaggusAI", "d8/d8e/a12412.html", "d8/d8e/a12412" ],
-    [ "go_chromaggus_lever", "dc/df2/a12416.html", "dc/df2/a12416" ],
-    [ "go_chromaggus_lever::go_chromaggus_leverAI", "db/d8a/a12420.html", "db/d8a/a12420" ],
-    [ "spell_gen_elemental_shield", "d1/d35/a12424.html", "d1/d35/a12424" ],
-    [ "spell_gen_brood_power", "db/dd1/a12428.html", "db/dd1/a12428" ],
+    [ "boss_chromaggus", "d4/d93/a12414.html", "d4/d93/a12414" ],
+    [ "boss_chromaggus::boss_chromaggusAI", "de/d17/a12418.html", "de/d17/a12418" ],
+    [ "go_chromaggus_lever", "d6/d8d/a12422.html", "d6/d8d/a12422" ],
+    [ "go_chromaggus_lever::go_chromaggus_leverAI", "d7/d02/a12426.html", "d7/d02/a12426" ],
+    [ "spell_gen_elemental_shield", "d8/d54/a12430.html", "d8/d54/a12430" ],
+    [ "spell_gen_brood_power", "d0/d73/a12434.html", "d0/d73/a12434" ],
     [ "ElementalShieldSpells", "d9/d3c/a03650.html#a7cc21086b00c27f6dd4ccd562708ec6a", [
       [ "SPELL_FIRE_ELEMENTAL_SHIELD", "d9/d3c/a03650.html#a7cc21086b00c27f6dd4ccd562708ec6aae9d80bb3267f9a03d012a9c27e73e224", null ],
       [ "SPELL_FROST_ELEMENTAL_SHIELD", "d9/d3c/a03650.html#a7cc21086b00c27f6dd4ccd562708ec6aa30ca136a4905b6b6eae173bd1c5181de", null ],
@@ -1534,7 +1534,8 @@ var a03650 =
       [ "EVENT_ECK_BITE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a25fd4fd9c83fea5e757a20aeb8f03aee", null ],
       [ "EVENT_ECK_SPIT", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6add7ba9bf01f5f04dac1d93a997b57af2", null ],
       [ "EVENT_ECK_SPRING", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6c3f22fd6aa63e5bf101019792a4b483", null ],
-      [ "EVENT_ECK_HEALTH", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f0a1bde1d1f47b6f7e45f621a57b6c1", null ],
+      [ "EVENT_ECK_CRAZED_EMOTE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6eeac32439bad23ef93cf41b4526d55d", null ],
+      [ "EMOTE_CRAZED", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2628cfc3f39065948404f522308c931f", null ],
       [ "NPC_SLADRAN_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08dc37f063f5d70a3893765939f63a82", null ],
       [ "NPC_SLADRAN_CONSTRICTORS", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a52bf6fd6ef6437b9a4e88616b7f1d91b", null ],
       [ "MAX_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1e3f12d08f9d4880b8263386a54d21c8", null ],

@@ -1,11 +1,7 @@
 var a13886 =
 [
-    [ "npc_highborne_lamenterAI", "d5/d2a/a13886.html#ad91cd657166a12d3c34adcf7b11d076f", null ],
-    [ "JustEngagedWith", "d5/d2a/a13886.html#a77a978fdb0ba0de506f66ec0b2906229", null ],
-    [ "Reset", "d5/d2a/a13886.html#a7cf9338767e8edf0a87a5552703de87a", null ],
-    [ "UpdateAI", "d5/d2a/a13886.html#a1048c558b825b58dbc7a3d97869a3e88", null ],
-    [ "EventCast", "d5/d2a/a13886.html#a02ed3216c8b71e3d2be695866dbc0089", null ],
-    [ "EventCastTimer", "d5/d2a/a13886.html#afc490ae2382fd7097b3877c7f9eadf6b", null ],
-    [ "EventMove", "d5/d2a/a13886.html#aca22c73db989f0393926067506794e43", null ],
-    [ "EventMoveTimer", "d5/d2a/a13886.html#a36d1993262eb0a7200e2bec625f5b4d1", null ]
+    [ "npc_lady_sylvanas_windrunnerAI", "d5/dd2/a13890.html", "d5/dd2/a13890" ],
+    [ "npc_lady_sylvanas_windrunner", "d5/d2a/a13886.html#ab3da21f58b68003f50cf0c3d5ce22028", null ],
+    [ "GetAI", "d5/d2a/a13886.html#abc382c04be0a8ed46299d1c4b2d008dc", null ],
+    [ "OnQuestReward", "d5/d2a/a13886.html#ae0031c5305a03a376dd84e950eb4a23b", null ]
 ];

@@ -1,5 +1,6 @@
 var a28298 =
 [
-    [ "ID", "d3/d84/a28298.html#a4f030d8b8b87aff67e0d8319c6b53310", null ],
-    [ "price", "d3/d84/a28298.html#a9b81ec4b4638763b738862d6c184e2a9", null ]
+    [ "ChannelID", "d3/d84/a28298.html#a51753c36711e100fd8dca1cd5b1e7e94", null ],
+    [ "flags", "d3/d84/a28298.html#aa77db644555e336ccbb8dd138c192425", null ],
+    [ "pattern", "d3/d84/a28298.html#ad8b550cf444d66eede00abcf2cefec22", null ]
 ];

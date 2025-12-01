@@ -1,6 +1,5 @@
 var a20950 =
 [
-    [ "npc_xt002_life_sparkAI", "d2/d93/a20954.html", "d2/d93/a20954" ],
-    [ "npc_xt002_life_spark", "da/d4e/a20950.html#a9644718d192708e391b833468a0ff21e", null ],
-    [ "GetAI", "da/d4e/a20950.html#a09a1ce332d55fad146947c94bb53f564", null ]
+    [ "achievement_xt002_nerf_engineering", "da/d4e/a20950.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
+    [ "OnCheck", "da/d4e/a20950.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
 ];

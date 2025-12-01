@@ -1,8 +1,7 @@
 var a26994 =
 [
-    [ "CalcPeriodic", "df/dc9/a26994.html#a42770d7f7e5bd41cd3f0a283c544c642", null ],
-    [ "CalculateAmount", "df/dc9/a26994.html#a525009acb345d6b0a9857c30cfce2230", null ],
-    [ "HandlePeriodic", "df/dc9/a26994.html#a4c75f793388b533d00a52ad18f18bc6e", null ],
-    [ "PrepareAuraScript", "df/dc9/a26994.html#a5627212e48a3044a9a7480851787a839", null ],
-    [ "Register", "df/dc9/a26994.html#a09ea5265d7105a4bd487d383948901a0", null ]
+    [ "HandleScriptEffect", "df/dc9/a26994.html#a328c1ba6ccd98e25e477a3f784cb47ff", null ],
+    [ "PrepareSpellScript", "df/dc9/a26994.html#aa211032991d8fd11d574cb364533a515", null ],
+    [ "Register", "df/dc9/a26994.html#a13315f197f2e6975dca00b53cbc599d2", null ],
+    [ "Validate", "df/dc9/a26994.html#a3b752f07631223199ed7ac404ed1afed", null ]
 ];

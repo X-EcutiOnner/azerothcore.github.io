@@ -1,7 +1,5 @@
 var a27382 =
 [
-    [ "FilterTargets", "df/d1b/a27382.html#a5ee420ce696d23d836ff6e9e1def6405", null ],
-    [ "HandleEffect", "df/d1b/a27382.html#a064fdac9158e35f290b51ecf9bf537b1", null ],
-    [ "PrepareSpellScript", "df/d1b/a27382.html#a53b5772c87574beb5b295c26fe983b76", null ],
-    [ "Register", "df/d1b/a27382.html#a5e93d0d708d2304d9166c47ad285ada5", null ]
+    [ "go_seer_of_zebhalak", "df/d1b/a27382.html#a423f16e878d67f7dc6ec3860afabacf4", null ],
+    [ "OnGossipHello", "df/d1b/a27382.html#a84009789ce8e8d0d7c42996fde161135", null ]
 ];

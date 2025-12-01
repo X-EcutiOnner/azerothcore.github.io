@@ -1,8 +1,7 @@
 var a25258 =
 [
-    [ "OnApply", "d2/d8f/a25258.html#a6aa83e925a93dc7ff89c0357debc75d1", null ],
-    [ "OnRemove", "d2/d8f/a25258.html#a3ced5941c25fce087699aa095cd487c9", null ],
-    [ "PrepareAuraScript", "d2/d8f/a25258.html#a497776c6ffdda8670fa255b76057bf2c", null ],
-    [ "Register", "d2/d8f/a25258.html#ac05f2898ebbb78bf55d70d8a660fb22d", null ],
-    [ "Validate", "d2/d8f/a25258.html#a44fc9ff07b9db5b2a1263d244916c79f", null ]
+    [ "HandleDummy", "d2/d8f/a25258.html#af5d0fc4e596c04c6ca3faf4079f6b602", null ],
+    [ "Load", "d2/d8f/a25258.html#a4098aa621012c5e3623ee905d2d2c8eb", null ],
+    [ "PrepareSpellScript", "d2/d8f/a25258.html#ad9d1823fa4302334419e6f9a01f0a728", null ],
+    [ "Register", "d2/d8f/a25258.html#a4d683270dc086454630475d39f0105e8", null ]
 ];

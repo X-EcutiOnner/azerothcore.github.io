@@ -1,8 +1,9 @@
 var a04970 =
 [
-    [ "IMMapMgr", "db/db8/a04970.html#a2292f2bdacfc627ab33f02d399221ad5", null ],
-    [ "~IMMapMgr", "db/db8/a04970.html#a8298d6b3fbce5ccd835af3c287c361b6", null ],
-    [ "isEnablePathFinding", "db/db8/a04970.html#a5d6bcb413c39e82da8e4924c4754c8b0", null ],
-    [ "setEnablePathFinding", "db/db8/a04970.html#afdc7e829a374c20b4d072290363c7c62", null ],
-    [ "iEnablePathFinding", "db/db8/a04970.html#a25f8900f4546990562fb048e956bb1e0", null ]
+    [ "DynamicTreeIntersectionCallback", "db/db8/a04970.html#a77d71c68e20f4d19059317b307c27441", null ],
+    [ "didHit", "db/db8/a04970.html#a616d15c3cce00574d604591bc8af4140", null ],
+    [ "operator()", "db/db8/a04970.html#a9927d15de557ef58b7e4046e830f8dad", null ],
+    [ "_didHit", "db/db8/a04970.html#a1805d508be79660d90f991e4453c2c9a", null ],
+    [ "_ignoreFlags", "db/db8/a04970.html#a6559c66c8451c32078187a1c43b3a85e", null ],
+    [ "_phaseMask", "db/db8/a04970.html#a52e7470145db9cc4c2369024fbf7bbb8", null ]
 ];

@@ -1,7 +1,6 @@
 var a21790 =
 [
-    [ "npc_valiance_keep_cannoneerAI", "d7/dcb/a21790.html#a0769e975c5c7ff1cfbfa6089e3e55e3f", null ],
-    [ "Reset", "d7/dcb/a21790.html#a65718076e65b68cae0a54ff4112fdb4b", null ],
-    [ "UpdateAI", "d7/dcb/a21790.html#a75f16f2b028ca341db6e08536be06bfa", null ],
-    [ "uiTimer", "d7/dcb/a21790.html#a0cf5f0413b1cded835252a38e272f835", null ]
+    [ "npc_leryssaAI", "d4/d3f/a21794.html", "d4/d3f/a21794" ],
+    [ "npc_leryssa", "d7/dcb/a21790.html#a549bed4476f88c313e6b42c0fe1fffb8", null ],
+    [ "GetAI", "d7/dcb/a21790.html#a4725831580b206d91dbd8c21a703893f", null ]
 ];

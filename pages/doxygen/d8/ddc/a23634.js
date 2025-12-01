@@ -1,8 +1,6 @@
 var a23634 =
 [
-    [ "boss_the_black_stalker", "d8/ddc/a23634.html#ac33519b374509cefe43b8e97701719ee", null ],
-    [ "JustEngagedWith", "d8/ddc/a23634.html#ad118347103ec463a09492e81dbd61418", null ],
-    [ "JustSummoned", "d8/ddc/a23634.html#a9e0299a99df83abb7de476a765b667b9", null ],
-    [ "SummonedCreatureDies", "d8/ddc/a23634.html#aede25dbe426ec26ccb0509eca0c9c6af", null ],
-    [ "UpdateAI", "d8/ddc/a23634.html#a441d3a7e3d9b98703f5870c4ddb4b88c", null ]
+    [ "HandleScriptEffect", "d8/ddc/a23634.html#abba5817280db6579e3e6e0b964655c6e", null ],
+    [ "PrepareSpellScript", "d8/ddc/a23634.html#a846fa43c9907ddb6243c006327757a1c", null ],
+    [ "Register", "d8/ddc/a23634.html#a7daa26f4035912bff4811b0bfee35fee", null ]
 ];

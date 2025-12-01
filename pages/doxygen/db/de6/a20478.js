@@ -1,6 +1,6 @@
 var a20478 =
 [
-    [ "HandleAfterEffectApply", "db/de6/a20478.html#af655bb31dc24a3cede08ca371f784913", null ],
-    [ "PrepareAuraScript", "db/de6/a20478.html#a1824853d0b369deac0745fabe2df657c", null ],
-    [ "Register", "db/de6/a20478.html#a33e7c6cab2c99789661e6bb2d6b9a593", null ]
+    [ "boss_ignisAI", "d9/d3e/a20482.html", "d9/d3e/a20482" ],
+    [ "boss_ignis", "db/de6/a20478.html#a15f42f252e4f9472707d5b81f7fdaece", null ],
+    [ "GetAI", "db/de6/a20478.html#ac11ff148e9cbc985875f859268a3de01", null ]
 ];

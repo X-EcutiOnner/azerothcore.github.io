@@ -1,6 +1,9 @@
 var a12482 =
 [
-    [ "boss_vaelAI", "de/dca/a12486.html", "de/dca/a12486" ],
-    [ "boss_vaelastrasz", "d5/d81/a12482.html#a0b51f3b50cde4907bd9064e8bf51c005", null ],
-    [ "GetAI", "d5/d81/a12482.html#a42dde198f5fc0ab2e7ca28ac32c42b7e", null ]
+    [ "npc_drakonid_spawner", "d5/d81/a12482.html#a2b657e800dc5cc30c618391413ded116", null ],
+    [ "DoAction", "d5/d81/a12482.html#ab013cff0430c09fe1045fdc735e45182", null ],
+    [ "IsSummonedBy", "d5/d81/a12482.html#a6a2170e0f20736d69006ce6d6c769476", null ],
+    [ "SummonedCreatureDies", "d5/d81/a12482.html#a57dd1fc80cfa43f6afae58e797b4091f", null ],
+    [ "UpdateAI", "d5/d81/a12482.html#a60e79dd8f56e87a2de4a203a63c6f9e3", null ],
+    [ "_owner", "d5/d81/a12482.html#a6e0f0d2f6c265f9e5206f441dead8b2f", null ]
 ];

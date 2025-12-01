@@ -1,8 +1,9 @@
 var a13618 =
 [
-    [ "HandleApply", "d7/dc0/a13618.html#a717e3428afd59fa3a5e9916887d88273", null ],
-    [ "HandleRemove", "d7/dc0/a13618.html#ae389028340dc25ee0260ed3e9f1d5ceb", null ],
-    [ "PrepareAuraScript", "d7/dc0/a13618.html#a58e6bae0c4c203c704cfa6cfdd6d560f", null ],
-    [ "Register", "d7/dc0/a13618.html#ac2ba66696c791d47c7c485aec6028f0b", null ],
-    [ "Validate", "d7/dc0/a13618.html#a393a46618a4e1928b8149e04b4823726", null ]
+    [ "boss_entropius", "d7/dc0/a13618.html#a458deaa80c9694cd2608150bc5519c76", null ],
+    [ "EnterEvadeMode", "d7/dc0/a13618.html#a01889b192525af082471d092bff28c88", null ],
+    [ "JustDied", "d7/dc0/a13618.html#aed1313073a44bc15f87432a85e6c2d8e", null ],
+    [ "JustEngagedWith", "d7/dc0/a13618.html#afb07fc44fd14b9f78fbc97b2670b8b5e", null ],
+    [ "Reset", "d7/dc0/a13618.html#ad9da990a540703d38cb45dd2da72c179", null ],
+    [ "UpdateAI", "d7/dc0/a13618.html#ab7fbeb67059c48b5f1aff071990ece5e", null ]
 ];

@@ -1,11 +1,9 @@
 var a09110 =
 [
-    [ "~GridCell", "d0/def/a09110.html#a042be8f85e83068d4bb39a0de0618146", null ],
-    [ "AddFarVisibleObject", "d0/def/a09110.html#a9a81bdbf151463b4687227df0fa39ece", null ],
-    [ "AddGridObject", "d0/def/a09110.html#ab64f99dd9997ff6df1f1db25a8d95d19", null ],
-    [ "RemoveFarVisibleObject", "d0/def/a09110.html#a8f76d2ad6abd96506d084a7e47bb8f6b", null ],
-    [ "Visit", "d0/def/a09110.html#aa0c4e5dac57c41d8fce303fb943585a0", null ],
-    [ "Visit", "d0/def/a09110.html#a8bc3a1bda26adb9a2e752afc0a7d56bd", null ],
-    [ "_farVisibleObjects", "d0/def/a09110.html#a2a331c36ea678eb0c9ca6d20b820428f", null ],
-    [ "_gridObjects", "d0/def/a09110.html#ac5a741aebc11124aa228e5107e664335", null ]
+    [ "CellArea", "d0/def/a09110.html#ace8ca84753b4ec8681415386fb135053", null ],
+    [ "CellArea", "d0/def/a09110.html#a547aa2c544abb8de2c6defdd6ec77fa3", null ],
+    [ "operator!", "d0/def/a09110.html#a386d4a562c27155012daedc361541e3b", null ],
+    [ "ResizeBorders", "d0/def/a09110.html#aebb8a0eb3210fa09d647d89ce8a0c7b8", null ],
+    [ "high_bound", "d0/def/a09110.html#a0c90f0474902deaafc4a64faaf6e8071", null ],
+    [ "low_bound", "d0/def/a09110.html#a374fe9802c798e6ece359a8025b6e1df", null ]
 ];

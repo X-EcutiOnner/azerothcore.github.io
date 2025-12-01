@@ -1,5 +1,5 @@
 var a20694 =
 [
-    [ "npc_ulduar_flames_spreadAI", "d1/d02/a20694.html#a607ee542f7c6d84f4072557e44a80905", null ],
-    [ "SpellHit", "d1/d02/a20694.html#abe69df9873fc125306a4ed757665e448", null ]
+    [ "achievement_mimiron_set_up_us_the_bomb_13", "d1/d02/a20694.html#a74b0cafbc4be4261c8f8f2af3671cbd9", null ],
+    [ "OnCheck", "d1/d02/a20694.html#ac91196d094f159932ad871ffa9c0f405", null ]
 ];

@@ -1,5 +1,6 @@
 var a11190 =
 [
-    [ "SocketAdded", "de/dee/a11190.html#a89b23aa46aca3772ad0c0f36f41db537", null ],
-    [ "SocketRemoved", "de/dee/a11190.html#a4f4ec084812a4191a477f7fa9223fa6e", null ]
+    [ "WorldSessionFilter", "de/dee/a11190.html#aba91eb2dfd56201534743b2d458fa111", null ],
+    [ "~WorldSessionFilter", "de/dee/a11190.html#a5de22e3a331e0ab17fe60f34c5b9b3fa", null ],
+    [ "Process", "de/dee/a11190.html#a0f0acf4ed9e61bf8aeb77ee7fb310660", null ]
 ];

@@ -1,14 +1,7 @@
 var a05870 =
 [
-    [ "difference_type", "d5/d43/a05870.html#aa5abd2b7fa1dc64ac1eb085521b27d6f", null ],
-    [ "iterator_category", "d5/d43/a05870.html#acaafbe30e2be9953852968b633d8237f", null ],
-    [ "pointer", "d5/d43/a05870.html#a33215a042f7b7ddb243e8434a4c26346", null ],
-    [ "reference", "d5/d43/a05870.html#a5618bd9b42f553be7feaf26fac8fe3ba", null ],
-    [ "value_type", "d5/d43/a05870.html#aa4866b181d8cd3264394657a2dac99a8", null ],
-    [ "ResultIterator", "d5/d43/a05870.html#a0a7d6ac1eee62492330353b15edb4fd0", null ],
-    [ "operator!=", "d5/d43/a05870.html#a56f56c284c3001703ec4ee6ac705066f", null ],
-    [ "operator*", "d5/d43/a05870.html#a4c7ba1d0e7251aeab6b255bf1c78defd", null ],
-    [ "operator++", "d5/d43/a05870.html#ae66f3f0e1fd5af21ff0854826fb37075", null ],
-    [ "operator->", "d5/d43/a05870.html#a0b6cee284fea4a4023cc688614432b69", null ],
-    [ "_ptr", "d5/d43/a05870.html#a0be3611fcc2a6eb680a6f4aaba57068e", null ]
+    [ "ToString", "d5/d43/a05870.html#a252569604d54dedfbe28b320911aa7b7", null ],
+    [ "ToString", "d5/d43/a05870.html#ab114258f0dc260983aceea6ca63c1a5c", null ],
+    [ "ToString", "d5/d43/a05870.html#a61c3f0b723ff92ab388b5cd27cea3151", null ],
+    [ "data", "d5/d43/a05870.html#ac0fb35a34d9ef399f00ab0bb146afd18", null ]
 ];

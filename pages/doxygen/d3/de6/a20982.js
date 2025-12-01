@@ -1,5 +1,8 @@
 var a20982 =
 [
-    [ "achievement_xt002_nerf_engineering", "d3/de6/a20982.html#a5be8c0a8a51d81c4014ec0ab92c21f79", null ],
-    [ "OnCheck", "d3/de6/a20982.html#a2b401f51d1ba7ed817f95d81d1048adf", null ]
+    [ "boss_yoggsaron_guardian_of_ysAI", "d3/de6/a20982.html#a5542a4fd68a012049a79047f47dccc68", null ],
+    [ "JustDied", "d3/de6/a20982.html#ad75f0baeef73a79cdb9bf62463bc8e50", null ],
+    [ "Reset", "d3/de6/a20982.html#a43d12c19425f3caa56a9732774b6f943", null ],
+    [ "UpdateAI", "d3/de6/a20982.html#a8e1d0b14747db6ce06b882f3f9d61963", null ],
+    [ "_spellTimer", "d3/de6/a20982.html#a45dec8609328d65413ae6c88f693ba15", null ]
 ];

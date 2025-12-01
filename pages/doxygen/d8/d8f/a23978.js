@@ -1,6 +1,13 @@
 var a23978 =
 [
-    [ "instance_the_botanica_InstanceMapScript", "d9/d8c/a23982.html", "d9/d8c/a23982" ],
-    [ "instance_the_botanica", "d8/d8f/a23978.html#a8f8acda65f37e45e2439707f3979cf7c", null ],
-    [ "GetInstanceScript", "d8/d8f/a23978.html#a335f671443ca0fb9db5956cefdf37182", null ]
+    [ "advisor_baseAI", "d8/d8f/a23978.html#a3c68b7ee961af2d9dabb15c7e054d45b", null ],
+    [ "DamageTaken", "d8/d8f/a23978.html#a678d09ec3b3d5a4d922a0fc117192349", null ],
+    [ "JustDied", "d8/d8f/a23978.html#a8da09edce761f1f1e1b7eb96ec7a529b", null ],
+    [ "JustEngagedWith", "d8/d8f/a23978.html#a1e4b1ff264f4c1586515f56531b77dea", null ],
+    [ "Reset", "d8/d8f/a23978.html#a008c30414ecebf4e2996d06b81539255", null ],
+    [ "ScheduleEvents", "d8/d8f/a23978.html#a24d22ccec834770bc5bcf44119fb0045", null ],
+    [ "SpellHit", "d8/d8f/a23978.html#a4fc41f3985244b6baf25b3417f67054e", null ],
+    [ "UpdateAI", "d8/d8f/a23978.html#aa89d3479b2e0bd8dd18572135aa45235", null ],
+    [ "_feigning", "d8/d8f/a23978.html#ae1c2011ba993c8d589bf6fe45602ac41", null ],
+    [ "_preventDeath", "d8/d8f/a23978.html#ab6c4a3f241fa5417f0a1d450ddb811ca", null ]
 ];

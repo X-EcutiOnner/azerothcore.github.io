@@ -1,7 +1,6 @@
 var a12542 =
 [
-    [ "HandlePeriodic", "dd/d0c/a12542.html#a758b588fb02e9cdf2544dd52ceee1055", null ],
-    [ "PrepareAuraScript", "dd/d0c/a12542.html#aae9d31049889eea5c5f09dd5437de950", null ],
-    [ "Register", "dd/d0c/a12542.html#a5de6428e3359c4498f5630f85ae3fcc8", null ],
-    [ "Validate", "dd/d0c/a12542.html#a462b882e41932f99e3501f32368cf4de", null ]
+    [ "instance_blackwing_lair_InstanceMapScript", "df/ddb/a12546.html", "df/ddb/a12546" ],
+    [ "instance_blackwing_lair", "dd/d0c/a12542.html#afb9a7ce1ac297b023aa8364cc1383336", null ],
+    [ "GetInstanceScript", "dd/d0c/a12542.html#a70aff4e1bb406f232d0b4961037ed0a1", null ]
 ];

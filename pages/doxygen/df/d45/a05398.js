@@ -1,8 +1,12 @@
 var a05398 =
 [
-    [ "LogOperation", "df/d45/a05398.html#a19e5e4731bd71697876110348f86d737", null ],
-    [ "~LogOperation", "df/d45/a05398.html#aae305e293044badac1a628edd501ed35", null ],
-    [ "call", "df/d45/a05398.html#a966a4bfb45430860fa5be56fe8b48f79", null ],
-    [ "logger", "df/d45/a05398.html#af1d8611d116a3575e59a99e8cba5fc84", null ],
-    [ "msg", "df/d45/a05398.html#a665effc48367f396f3e714f5d3d56d75", null ]
+    [ "AppenderConsole", "df/d45/a05398.html#aaf770a87f2151a7e6f92087751528c68", null ],
+    [ "_write", "df/d45/a05398.html#a94e529229bd707fa2bad0a0206a386d5", null ],
+    [ "getType", "df/d45/a05398.html#a4ae7f47c76b19eb269b26fdf13f14e48", null ],
+    [ "InitColors", "df/d45/a05398.html#a1a4deceeafc9a111a519ea55dc646266", null ],
+    [ "ResetColor", "df/d45/a05398.html#a4a3e55c9229947a25d4191bbfa348bf5", null ],
+    [ "SetColor", "df/d45/a05398.html#a9303f9408e1cbfc086fba15bf9a4ce59", null ],
+    [ "_colored", "df/d45/a05398.html#a172563f34a7277f7afb05354c8fbeb1f", null ],
+    [ "_colors", "df/d45/a05398.html#acdf277241cd25715e48500a15ab6bd30", null ],
+    [ "type", "df/d45/a05398.html#ab5cbc074f7d9306838974863913c8a5b", null ]
 ];

@@ -1,7 +1,5 @@
 var a23506 =
 [
-    [ "npc_ahune_ice_spear_bunny", "d0/dad/a23506.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
-    [ "InitializeAI", "d0/dad/a23506.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
-    [ "UpdateAI", "d0/dad/a23506.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
-    [ "_scheduler", "d0/dad/a23506.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
+    [ "boss_quagmirran", "d0/dad/a23506.html#a7f6289b86216b052f434a1417023e22c", null ],
+    [ "JustEngagedWith", "d0/dad/a23506.html#a28253b6653bd2e26e7f246c71a88b625", null ]
 ];

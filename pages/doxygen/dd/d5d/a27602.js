@@ -1,6 +1,5 @@
 var a27602 =
 [
-    [ "guard_shattrath_scryerAI", "da/de1/a27606.html", "da/de1/a27606" ],
-    [ "guard_shattrath_scryer", "dd/d5d/a27602.html#a2ee4d6881d7c24cd848c590b84207663", null ],
-    [ "GetAI", "dd/d5d/a27602.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
+    [ "item_incendiary_explosives", "dd/d5d/a27602.html#a3a10f4e40374cae75a5ed320385a67f9", null ],
+    [ "OnUse", "dd/d5d/a27602.html#a1e566a6a5b6cfb8b7e331a6ea94f77b4", null ]
 ];

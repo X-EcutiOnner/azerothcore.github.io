@@ -1,6 +1,6 @@
 var a17950 =
 [
-    [ "npc_vengeful_shadeAI", "d1/d7d/a17954.html", "d1/d7d/a17954" ],
-    [ "npc_vengeful_shade", "dd/dee/a17950.html#a99c535efd94fbd5bded8fd9555bb6eaf", null ],
-    [ "GetAI", "dd/dee/a17950.html#afa2c672015b43d83bd55050ed020f7e5", null ]
+    [ "npc_darnavanAI", "d1/d7d/a17954.html", "d1/d7d/a17954" ],
+    [ "npc_darnavan", "dd/dee/a17950.html#ac358ca123155165395fa5f7ec02c9dab", null ],
+    [ "GetAI", "dd/dee/a17950.html#a9eeb6e5fba1e6d671af1f23f443c509a", null ]
 ];

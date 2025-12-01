@@ -1,8 +1,7 @@
 var a27650 =
 [
-    [ "trigger_periodicAI", "de/d20/a27650.html#a696d62fed28de9c67827dad111cf320b", null ],
-    [ "UpdateAI", "de/d20/a27650.html#aed31d60765eff7dd11790714e28e729e", null ],
-    [ "interval", "de/d20/a27650.html#a6e9dd149ce11dcc1c2adf039c73e8023", null ],
-    [ "spell", "de/d20/a27650.html#a618b707155edf6d9179bbedc0f0ecf1e", null ],
-    [ "timer", "de/d20/a27650.html#ac434f6a60065ae3b1adcb11d58af4299", null ]
+    [ "npc_prof_leather", "de/d20/a27650.html#a4a96f0c41a2a75ed26f52b1b0377c800", null ],
+    [ "HasLeatherSpecialty", "de/d20/a27650.html#aefbf75b4109f8013335f36cd2d6e84de", null ],
+    [ "OnGossipHello", "de/d20/a27650.html#a1a0dc1574c814af5e4f992c7fb199215", null ],
+    [ "OnGossipSelect", "de/d20/a27650.html#afdf3a42c20903efd7f45ab0042f79de0", null ]
 ];

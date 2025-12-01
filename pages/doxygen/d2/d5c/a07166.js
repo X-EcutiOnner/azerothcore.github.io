@@ -1,7 +1,5 @@
 var a07166 =
 [
-    [ "AuctionSorter", "d2/d5c/a07166.html#a233a8eff7fbd76ecf5bd6e4469c6ba0b", null ],
-    [ "operator()", "d2/d5c/a07166.html#a7e8ef0ab50f9bfd1f84bf88647b26ea7", null ],
-    [ "_loc_idx", "d2/d5c/a07166.html#a11708aa660757db95c88d9dc7e9b9521", null ],
-    [ "_sort", "d2/d5c/a07166.html#a9c777b91d8b80940daee0b32c4f11c37", null ]
+    [ "packet", "d2/d5c/a07166.html#ad266cc5bd8e3637534055a7564047f87", null ],
+    [ "playerGuid", "d2/d5c/a07166.html#a824393dda7676d4a5268d2d7d2e9d17b", null ]
 ];

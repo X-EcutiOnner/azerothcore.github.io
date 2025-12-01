@@ -1,12 +1,7 @@
 var a23458 =
 [
-    [ "instance_serpentshrine_cavern_InstanceMapScript", "d5/d4d/a23458.html#a3e83985648f2951ee33d440c9c98bf72", null ],
-    [ "GetData", "d5/d4d/a23458.html#a9ea722d45efe2ee4eff041e480ff1c79", null ],
-    [ "Initialize", "d5/d4d/a23458.html#a8a2214e169acace8578c1863daf0a04c", null ],
-    [ "OnCreatureCreate", "d5/d4d/a23458.html#ae5f77169c337420852962fe7ddba3006", null ],
-    [ "OnGameObjectCreate", "d5/d4d/a23458.html#a9aeb7b25aa1446fff655b4c8fd6c47ad", null ],
-    [ "SetBossState", "d5/d4d/a23458.html#ad2863bc954ae25a5d96d06db0250cda3", null ],
-    [ "SetData", "d5/d4d/a23458.html#af3ca65eef9902a029f5b836d0b6fd58a", null ],
-    [ "_aliveKeepersCount", "d5/d4d/a23458.html#a85b7cbeab4149b0a379f27bdb459cfd7", null ],
-    [ "_shieldGeneratorGUID", "d5/d4d/a23458.html#a570b73c8ecd0e1ab6ac2889405be6ef0", null ]
+    [ "go_ahune_ice_spear", "d5/d4d/a23458.html#a22922e47b819bc60e331cffbc7c353b3", null ],
+    [ "Reset", "d5/d4d/a23458.html#abd11525a84d3ab06a39d1eb7e7c09fbc", null ],
+    [ "UpdateAI", "d5/d4d/a23458.html#ae498fc1f71906af2f20e95dea4df4a2b", null ],
+    [ "_scheduler", "d5/d4d/a23458.html#a7e1dab03b33b0114cc0a40fc02e2306e", null ]
 ];

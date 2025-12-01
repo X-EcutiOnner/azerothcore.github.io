@@ -1,7 +1,6 @@
 var a20146 =
 [
-    [ "boss_flame_leviathan_safety_containerAI", "d2/dc7/a20146.html#ab9191e20df488df184c468ca1ac41084", null ],
-    [ "MovementInform", "d2/dc7/a20146.html#a1b472a233ebebbb4c1fbf639aeb4bed6", null ],
-    [ "UpdateAI", "d2/dc7/a20146.html#a77b3a493c5650d91c903879db324651d", null ],
-    [ "_allowTimer", "d2/dc7/a20146.html#a2185c9fe04fa7288fab452c5c1de3819", null ]
+    [ "HandleScript", "d2/dc7/a20146.html#a84a4d92a5dff57f612d3e45db41010d3", null ],
+    [ "PrepareSpellScript", "d2/dc7/a20146.html#adc3bb6bd763905857d84ccaf456b3a2f", null ],
+    [ "Register", "d2/dc7/a20146.html#a04a5b3a4f768200d74f4641508633d35", null ]
 ];

@@ -1,6 +1,14 @@
 var a13078 =
 [
-    [ "npc_dkc1_gothikAI", "d9/dd3/a13082.html", "d9/dd3/a13082" ],
-    [ "npc_dkc1_gothik", "d4/d99/a13078.html#ae4a6aec0235b01044ebd5c9c71d400d9", null ],
-    [ "GetAI", "d4/d99/a13078.html#aeb285cf6977cfab5d337f51ae41907ec", null ]
+    [ "boss_selin_fireheart", "d4/d99/a13078.html#ae3270a227550391fd752d3f241e5ea46", null ],
+    [ "CanAIAttack", "d4/d99/a13078.html#a36f409a006a09812452052d554d5e810", null ],
+    [ "JustDied", "d4/d99/a13078.html#a1330c499c04aee849bcbb3ebfe30eb1e", null ],
+    [ "JustEngagedWith", "d4/d99/a13078.html#ad414ec34127bffbae1b6b5f9a794f28c", null ],
+    [ "KilledUnit", "d4/d99/a13078.html#a0fc74ba75a482a67d19f4323df1f5e6c", null ],
+    [ "MovementInform", "d4/d99/a13078.html#a8072412acc5f52fdeea3b4f740021a91", null ],
+    [ "OnPowerUpdate", "d4/d99/a13078.html#a71677fbd88ab14b6fb40e3bc9897c982", null ],
+    [ "Reset", "d4/d99/a13078.html#a6d6cab76647794f971c9a6837d8fbf8c", null ],
+    [ "SelectNearestCrystal", "d4/d99/a13078.html#afe01bdf64e5f84c7aa5ee0f164ac29c0", null ],
+    [ "SpawnCrystals", "d4/d99/a13078.html#a5c874662b9bf518782b2dc824f1eb03d", null ],
+    [ "SummonedCreatureDies", "d4/d99/a13078.html#a396341d39bead723a7c6f716c08aa447", null ]
 ];

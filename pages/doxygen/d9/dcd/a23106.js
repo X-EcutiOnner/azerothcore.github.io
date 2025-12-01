@@ -1,6 +1,7 @@
 var a23106 =
 [
-    [ "boss_reliquary_of_soulsAI", "db/dd2/a23110.html", "db/dd2/a23110" ],
-    [ "boss_reliquary_of_souls", "d9/dcd/a23106.html#a0c73fc6221da0b19903e534932ca6406", null ],
-    [ "GetAI", "d9/dcd/a23106.html#a55b717fe2b1bfdda84fec6c63852ae7c", null ]
+    [ "HandleEffectRemove", "d9/dcd/a23106.html#a6adc572bb13dde9b83a44a1c27833019", null ],
+    [ "PrepareAuraScript", "d9/dcd/a23106.html#a877c26735531508d1806273117f3e8bc", null ],
+    [ "Register", "d9/dcd/a23106.html#a1b3e9eb2f6979ac2f17ac47eb38c8bb5", null ],
+    [ "Validate", "d9/dcd/a23106.html#a8c45ba806d865f7b9d56950013bdd81c", null ]
 ];

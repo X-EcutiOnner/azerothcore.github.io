@@ -1,6 +1,7 @@
 var a21722 =
 [
-    [ "npc_nerubar_victimAI", "d6/dde/a21726.html", "d6/dde/a21726" ],
-    [ "npc_nerubar_victim", "d6/d28/a21722.html#a4fe80597d3e56776f0f04965fc706097", null ],
-    [ "GetAI", "d6/d28/a21722.html#a5bb565352ab47fb5cb572190f55df8d1", null ]
+    [ "npc_mootoo_the_youngerAI", "d6/dde/a21726.html", "d6/dde/a21726" ],
+    [ "npc_mootoo_the_younger", "d6/d28/a21722.html#a91e10489ed6a98cfa764fd4de8448317", null ],
+    [ "GetAI", "d6/d28/a21722.html#ac49b3454afa4a3fbedd0887e3ff831b3", null ],
+    [ "OnQuestAccept", "d6/d28/a21722.html#a5fce360ef989f5b2fe42cd04361e33bc", null ]
 ];

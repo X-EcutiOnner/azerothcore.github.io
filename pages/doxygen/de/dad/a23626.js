@@ -1,6 +1,5 @@
 var a23626 =
 [
-    [ "HandleScript", "de/dad/a23626.html#ae45f8a366c1594d3723b83ee6e006957", null ],
-    [ "PrepareSpellScript", "de/dad/a23626.html#a217953fda43e2c3abdd0d24ddbabc75d", null ],
-    [ "Register", "de/dad/a23626.html#a6b9e449a64747f0a5715424295b1c30f", null ]
+    [ "npc_invisible_tractor_beam_source", "de/dad/a23626.html#a78f8adbc578ec005ae3f764e55895dc4", null ],
+    [ "IsSummonedBy", "de/dad/a23626.html#a4a47cd459013a783bb1cf47b6d670fce", null ]
 ];

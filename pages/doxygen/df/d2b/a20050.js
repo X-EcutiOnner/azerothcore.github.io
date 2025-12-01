@@ -1,5 +1,6 @@
 var a20050 =
 [
-    [ "achievement_auriaya_nine_lives", "df/d2b/a20050.html#a750304bc946a7ecefec29dc18c429d3b", null ],
-    [ "OnCheck", "df/d2b/a20050.html#ae1b7ee75a3e7343c3f5f8043b4e39362", null ]
+    [ "npc_freya_wardAI", "d6/dfd/a20054.html", "d6/dfd/a20054" ],
+    [ "npc_freya_ward", "df/d2b/a20050.html#aebaadcc001922c78e8ec43084a827ac9", null ],
+    [ "GetAI", "df/d2b/a20050.html#a90c0e7a0be1717bf1793415b6fcafbed", null ]
 ];

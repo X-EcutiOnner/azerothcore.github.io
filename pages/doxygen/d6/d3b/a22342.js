@@ -1,6 +1,5 @@
 var a22342 =
 [
-    [ "npc_tournament_training_dummyAI", "dd/de6/a22346.html", "dd/de6/a22346" ],
-    [ "npc_tournament_training_dummy", "d6/d3b/a22342.html#ab5308cfddfef00da9692dddd21ce4a14", null ],
-    [ "GetAI", "d6/d3b/a22342.html#a31257c155c3a49c69771156800cf6340", null ]
+    [ "go_pressure_valve", "d6/d3b/a22342.html#a43a91a1379001ecd3e825d7d4fcd3c6b", null ],
+    [ "OnGossipHello", "d6/d3b/a22342.html#a6b81a04a33cd5e1e577fc80a3b1f706c", null ]
 ];

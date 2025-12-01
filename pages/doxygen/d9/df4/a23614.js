@@ -1,8 +1,7 @@
 var a23614 =
 [
-    [ "boss_hungarfen", "d9/df4/a23614.html#a009b8d34731d2310a53195024b434935", null ],
-    [ "JustEngagedWith", "d9/df4/a23614.html#a3612bb373ecdba4245587fd94257ba62", null ],
-    [ "Reset", "d9/df4/a23614.html#a4b310eff8af9a33c50ae8f2035ba76ad", null ],
-    [ "UpdateAI", "d9/df4/a23614.html#a1765bd54c04a3479e837b3d0e241300e", null ],
-    [ "_scheduler", "d9/df4/a23614.html#a702185681abb6cfc4add7078ff5bbb52", null ]
+    [ "OnApply", "d9/df4/a23614.html#a6189a5ea90b1951b21a7e9ef36700ed9", null ],
+    [ "PeriodicTick", "d9/df4/a23614.html#a1c79b1016361eabb5cef57a893bccfcf", null ],
+    [ "PrepareAuraScript", "d9/df4/a23614.html#acfa6b5217a0e0e2654b7fa9c4092abd5", null ],
+    [ "Register", "d9/df4/a23614.html#adddddd0689f4686a40b1db142b5d6ce2", null ]
 ];

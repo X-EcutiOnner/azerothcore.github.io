@@ -1,6 +1,7 @@
 var a23590 =
 [
-    [ "HandleAfterRemove", "d5/db7/a23590.html#a74610b06095572aa2c898cd84e0fb229", null ],
-    [ "PrepareAuraScript", "d5/db7/a23590.html#ac0d686490ff37810e0116dea4d0b6077", null ],
-    [ "Register", "d5/db7/a23590.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
+    [ "HandleScript", "d5/db7/a23590.html#a8933535f9507b90b54032c17985cc3c6", null ],
+    [ "PrepareSpellScript", "d5/db7/a23590.html#acadb563eaeffac47b3f883f9d8c37994", null ],
+    [ "Register", "d5/db7/a23590.html#a797ae84dcb0fc13b0799934bde71809c", null ],
+    [ "Validate", "d5/db7/a23590.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
 ];

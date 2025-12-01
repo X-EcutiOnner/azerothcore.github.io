@@ -1,9 +1,11 @@
 var a10614 =
 [
-    [ "GuildRoster", "de/dbd/a10614.html#a2161128d6fb6fa53a5129a95ded2b5fc", null ],
-    [ "Write", "de/dbd/a10614.html#a544a539999827d4eb8923cbbcdf42bac", null ],
-    [ "InfoText", "de/dbd/a10614.html#a9d457ee8feb6c173d960b360aca90fc6", null ],
-    [ "MemberData", "de/dbd/a10614.html#a964fc72bf3ada77c171fd1f691449241", null ],
-    [ "RankData", "de/dbd/a10614.html#a67b0a12fae93c5807030c1062f328abb", null ],
-    [ "WelcomeText", "de/dbd/a10614.html#a5ec2c209558d2c34feee4bfd8cda201c", null ]
+    [ "BackgroundColor", "de/dbd/a10614.html#abab86dd497de86088873178bf1d54b5b", null ],
+    [ "BorderColor", "de/dbd/a10614.html#abb2489b9be8a0d4a20d209d6293d7d46", null ],
+    [ "BorderStyle", "de/dbd/a10614.html#acd5105c31e0f56e680f3384e86186872", null ],
+    [ "EmblemColor", "de/dbd/a10614.html#a2e8a4768292d3566bb61009056a8a230", null ],
+    [ "EmblemStyle", "de/dbd/a10614.html#aa6309467f9f09725a8698de864b4e63c", null ],
+    [ "GuildName", "de/dbd/a10614.html#a74d4e1690c07a647c97ca2225e8488dd", null ],
+    [ "RankCount", "de/dbd/a10614.html#acddb77850a86348df197afc724c4eaa0", null ],
+    [ "Ranks", "de/dbd/a10614.html#aec9fd9a1a3bfa040375193027b32cf24", null ]
 ];

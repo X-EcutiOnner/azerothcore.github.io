@@ -1,7 +1,6 @@
 var a22006 =
 [
-    [ "HandleApplyEffect", "d8/de9/a22006.html#aab7bd30368c51a6a209f6cad5a93ba79", null ],
-    [ "HandleRemoveEffect", "d8/de9/a22006.html#a243933fec9ccd650303ea5badbea725b", null ],
-    [ "PrepareAuraScript", "d8/de9/a22006.html#ac0e1fc0694dd51e245340d3658592447", null ],
-    [ "Register", "d8/de9/a22006.html#a0f6e6c6892d56a6fceb927f68c734bde", null ]
+    [ "npc_q24545_vegard_dummyAI", "d5/dd0/a22010.html", "d5/dd0/a22010" ],
+    [ "npc_q24545_vegard_dummy", "d8/de9/a22006.html#a12363e26a720ae33b6cde0f44aec3adf", null ],
+    [ "GetAI", "d8/de9/a22006.html#a201d1dec206887c26e33f795a0fd0887", null ]
 ];

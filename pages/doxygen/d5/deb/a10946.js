@@ -1,6 +1,7 @@
 var a10946 =
 [
-    [ "InvalidStringValueException", "d5/deb/a10946.html#a4b5442d97f2bc8005cb20eefa6c13dc8", null ],
-    [ "GetInvalidValue", "d5/deb/a10946.html#a5ef59243610de6d0a9db22ddb9cd7bdd", null ],
-    [ "_value", "d5/deb/a10946.html#a8a8c86a63c34789ab7cce999455eb4bb", null ]
+    [ "RandomRollClient", "d5/deb/a10946.html#a6d2edee5a6dbafd5b6194b60eeb0aafb", null ],
+    [ "Read", "d5/deb/a10946.html#ab682763f35a40f776b1742927df0a336", null ],
+    [ "Max", "d5/deb/a10946.html#a45a1e140ed402f54deb4c0798360a43a", null ],
+    [ "Min", "d5/deb/a10946.html#a3cd07e7891b43b453b56013d76f51f71", null ]
 ];

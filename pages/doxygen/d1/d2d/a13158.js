@@ -1,10 +1,7 @@
 var a13158 =
 [
-    [ "npc_scarlet_courierAI", "d1/d2d/a13158.html#a83c5e32659d38a513790322e46dcc283", null ],
-    [ "JustEngagedWith", "d1/d2d/a13158.html#aa470197f0949a413c421bda8c7c09279", null ],
-    [ "MovementInform", "d1/d2d/a13158.html#add19812d92d62b602f96ffc5fb513d6c", null ],
-    [ "Reset", "d1/d2d/a13158.html#ab642188631b67ae5ff5fd312eaf37ff0", null ],
-    [ "UpdateAI", "d1/d2d/a13158.html#ac37287a77e37785b606c742ff8d6eeeb", null ],
-    [ "uiStage", "d1/d2d/a13158.html#a2f920922f8c6f1a878d0e4978e081257", null ],
-    [ "uiStage_timer", "d1/d2d/a13158.html#a8ee22a276535a3a9c2f12a62e984d55b", null ]
+    [ "HandleEffectApply", "d1/d2d/a13158.html#a8d52c4ea09e1d58d2dc44ff73d71faf5", null ],
+    [ "PrepareAuraScript", "d1/d2d/a13158.html#a9829789fe5544429454e29d228ce0daf", null ],
+    [ "Register", "d1/d2d/a13158.html#a7f5a26d10f48d863477ec902e6f5ff1e", null ],
+    [ "Validate", "d1/d2d/a13158.html#ae81a441757ab9f10c29a7b313b99cf5f", null ]
 ];

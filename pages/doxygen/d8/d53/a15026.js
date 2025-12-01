@@ -1,9 +1,10 @@
 var a15026 =
 [
-    [ "boss_temporus", "d8/d53/a15026.html#ab9f1495b18fe2c0ee33e9c238483ce0d", null ],
-    [ "JustDied", "d8/d53/a15026.html#a9186e51d240aff2ffaab99e3b423ded9", null ],
-    [ "JustEngagedWith", "d8/d53/a15026.html#abe7f18497c1c8b31693980e98b1d1859", null ],
-    [ "KilledUnit", "d8/d53/a15026.html#a89c2a229b56b3a7dcb9e5a495ac6dbd7", null ],
-    [ "MoveInLineOfSight", "d8/d53/a15026.html#a18a0279036324498a9daf8c7d0296ffc", null ],
-    [ "OwnTalk", "d8/d53/a15026.html#a99356589a048debbc308b8431259da5c", null ]
+    [ "npc_tarethaAI", "d8/d53/a15026.html#ad403cdcdc2648bb23687e3a3a7bdbb03", null ],
+    [ "AttackStart", "d8/d53/a15026.html#a09d91ea8e5923ebc3c0ad01f09f93408", null ],
+    [ "DoAction", "d8/d53/a15026.html#adbb40db0b70532a20731cf5039e44d0b", null ],
+    [ "MoveInLineOfSight", "d8/d53/a15026.html#afa0427372e43316851018bf78274707f", null ],
+    [ "Reset", "d8/d53/a15026.html#ae4d9f3d5751e8a8e0468a80d46f4a4c4", null ],
+    [ "WaypointReached", "d8/d53/a15026.html#a6946bc02ec686c8af943c9e913c8aee6", null ],
+    [ "instance", "d8/d53/a15026.html#a3c0f4a61cf5b8da6b885ef7bf9813205", null ]
 ];

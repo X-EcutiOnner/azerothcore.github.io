@@ -1,14 +1,13 @@
 var a13366 =
 [
-    [ "boss_jarien", "da/d92/a13366.html#a19e07a3da93e487b5984a8de0c7f26c9", null ],
-    [ "DoAction", "da/d92/a13366.html#a8b9f1f2e7e45adf8df436b5c71555272", null ],
-    [ "IsSummonedBy", "da/d92/a13366.html#a2e54c5ae404be944eeff3a57c96aa8ca", null ],
-    [ "JustDied", "da/d92/a13366.html#a418380b56f3432b5aec84737012f4693", null ],
-    [ "JustEngagedWith", "da/d92/a13366.html#ab6590cf6626a12e804520b2cde84a93e", null ],
-    [ "Reset", "da/d92/a13366.html#ac85ca96b42aa5115500bd24454f84209", null ],
-    [ "UpdateAI", "da/d92/a13366.html#acf7157ec7af7356beddc8a2429177b95", null ],
-    [ "_phase", "da/d92/a13366.html#aa88435f313dc2b7880bca8f4cdb7a537", null ],
-    [ "_scheduler", "da/d92/a13366.html#abce9540798dbae1026d1c74bfeb111a6", null ],
-    [ "_sothosDied", "da/d92/a13366.html#a06b02c7f7dff885a86609e0116f2fd96", null ],
-    [ "_talked", "da/d92/a13366.html#ae0c943c970990b055ebc8c31d81a7198", null ]
+    [ "instance_shadowfang_keep_InstanceMapScript", "da/d92/a13366.html#aabb179f16f6a61d1cfc842482880ea0b", null ],
+    [ "Initialize", "da/d92/a13366.html#a8381b4ead52e3515359cc2c10d52c29a", null ],
+    [ "OnCreatureCreate", "da/d92/a13366.html#a3f9cca96886b97f7657edc04f4997d41", null ],
+    [ "OnGameObjectCreate", "da/d92/a13366.html#ad420b6b549b8d76a80844d81548b1143", null ],
+    [ "ReadSaveDataMore", "da/d92/a13366.html#a83a24703aafb973809618d3ac3ac0375", null ],
+    [ "SetData", "da/d92/a13366.html#abdc105e9306d9abc776259be97e2488f", null ],
+    [ "WriteSaveDataMore", "da/d92/a13366.html#a8be19e9a77d3796d3c09e75c5b31c19c", null ],
+    [ "_apothecaryHummel", "da/d92/a13366.html#a3f77ecd2edf0989fcb957b56153807eb", null ],
+    [ "_crazedApothecaryGeneratorGUIDs", "da/d92/a13366.html#a00880eedbbc2deb4dc36e4c851558861", null ],
+    [ "_encounters", "da/d92/a13366.html#acfc196d008166d7b9da9b85c1ef4521e", null ]
 ];

@@ -1,6 +1,7 @@
 var a24838 =
 [
-    [ "CheckTargets", "dd/dfc/a24838.html#abb6ffb41731b05b868f82498b373d8b9", null ],
-    [ "PrepareSpellScript", "dd/dfc/a24838.html#a4ce2790448bd39c19daf8caae7ef5a9d", null ],
-    [ "Register", "dd/dfc/a24838.html#aeefc7910c2960dbf3a49da6ed3c15523", null ]
+    [ "AfterApply", "dd/dfc/a24838.html#a1849f49a9682627753b8bd39b3ff827e", null ],
+    [ "AfterRemove", "dd/dfc/a24838.html#a7c08bea735cd36840463aa942e7529b4", null ],
+    [ "PrepareAuraScript", "dd/dfc/a24838.html#ad27880f797137cae09381e860727e2f7", null ],
+    [ "Register", "dd/dfc/a24838.html#a6c105609c1ee61a8f845018550b2e3ba", null ]
 ];

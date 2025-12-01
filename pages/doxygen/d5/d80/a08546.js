@@ -1,8 +1,19 @@
 var a08546 =
 [
-    [ "IsInSpec", "d5/d80/a08546.html#a77968b5562467f85bda04b6f2f41ca29", null ],
-    [ "inSpellBook", "d5/d80/a08546.html#a650926fa9d1bbab336ee7ed3dd0b0b7d", null ],
-    [ "specMask", "d5/d80/a08546.html#acc1913a90ca2bd23298d3590843cfbd5", null ],
-    [ "State", "d5/d80/a08546.html#a062758af7e92f7e2263ca0a0fd329151", null ],
-    [ "talentID", "d5/d80/a08546.html#aca9b191361652002f5178179a939e41b", null ]
+    [ "PetInfo", "d5/d80/a08546.html#a1bee56222719503aef508dd3f2ddd2f1", null ],
+    [ "ActionBar", "d5/d80/a08546.html#affe10e9845d23f597df23ed271d91039", null ],
+    [ "CreatedBySpellId", "d5/d80/a08546.html#a40d2f28579271de9b1533b5d412fecbb", null ],
+    [ "CreatureId", "d5/d80/a08546.html#a879009caeaa61fdef801db178599197e", null ],
+    [ "DisplayId", "d5/d80/a08546.html#ab7128ea7655961abfb3f8f074006bc7c", null ],
+    [ "Experience", "d5/d80/a08546.html#aee5536e251e20d8f4ee293f7f5eab2d3", null ],
+    [ "Happiness", "d5/d80/a08546.html#a39ee3606989e65fc284a6701482c2aa9", null ],
+    [ "Health", "d5/d80/a08546.html#a5e0835afbf2f396e8030236484984628", null ],
+    [ "LastSaveTime", "d5/d80/a08546.html#afafdbe4176d1bf26ab5022ab2d219ed6", null ],
+    [ "Level", "d5/d80/a08546.html#aabcf03700a0207df9086a6f7a354a7b9", null ],
+    [ "Mana", "d5/d80/a08546.html#a25a72a18fd6e38dea4db6ff8d3942423", null ],
+    [ "Name", "d5/d80/a08546.html#adb037d9f6d2606baa469c5c63385476a", null ],
+    [ "PetNumber", "d5/d80/a08546.html#af57645f36ae45c0045abe991419b797d", null ],
+    [ "ReactState", "d5/d80/a08546.html#ad7cd098ff265de389412626fad6d6d6f", null ],
+    [ "Type", "d5/d80/a08546.html#ae8fa5344688bb4bf34b806f9b67ef32c", null ],
+    [ "WasRenamed", "d5/d80/a08546.html#a98827cf01b6f610692fe4295582ead34", null ]
 ];

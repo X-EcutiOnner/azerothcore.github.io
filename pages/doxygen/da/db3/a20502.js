@@ -1,5 +1,6 @@
 var a20502 =
 [
-    [ "achievement_staying_buffed_all_winter_25", "da/db3/a20502.html#a91f0ab3bada837cff6414350b98a27a3", null ],
-    [ "OnCheck", "da/db3/a20502.html#a36591082184bc8466e124bad9a910545", null ]
+    [ "boss_kologarnAI", "d9/d21/a20506.html", "d9/d21/a20506" ],
+    [ "boss_kologarn", "da/db3/a20502.html#a5f654a0f534c4ec6c1164ea08e40a476", null ],
+    [ "GetAI", "da/db3/a20502.html#ad78c2d269e68d8c3bbd86b844ada9435", null ]
 ];

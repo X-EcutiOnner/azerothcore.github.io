@@ -1,5 +1,5 @@
 var a08390 =
 [
-    [ "InventoryType", "db/dff/a08390.html#a5d2733f6b8e3fda906f18fb45330d437", null ],
-    [ "name", "db/dff/a08390.html#a67245cff18aad700717b7b7af9f07458", null ]
+    [ "ItemStatType", "db/dff/a08390.html#a8643f062d325b5048c839525db56af3e", null ],
+    [ "ItemStatValue", "db/dff/a08390.html#a5a5ee42445d9121f186c084dfbc31425", null ]
 ];

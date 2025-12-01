@@ -1,6 +1,6 @@
 var a19846 =
 [
-    [ "iron_golem_custodianAI", "df/d53/a19850.html", "df/d53/a19850" ],
-    [ "iron_golem_custodian", "df/dcd/a19846.html#adc11b755e193adbad757c21e5b15e063", null ],
-    [ "GetAI", "df/dcd/a19846.html#a272e0c9fe475a665aa80a95f1e1d8629", null ]
+    [ "npc_brann_bronzebeard_algalonAI", "df/d53/a19850.html", "df/d53/a19850" ],
+    [ "npc_brann_bronzebeard_algalon", "df/dcd/a19846.html#a2760d42de8f78250ca5862bfcb23ed2e", null ],
+    [ "GetAI", "df/dcd/a19846.html#ad8bc8bde865adcce1e9f6fd6234f1a0a", null ]
 ];

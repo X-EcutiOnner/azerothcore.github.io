@@ -1,7 +1,6 @@
 var a24118 =
 [
-    [ "boss_gatewatcher_iron_hand", "de/d7c/a24118.html#aef70e713007af38b510f0a3b8c082b24", null ],
-    [ "JustDied", "de/d7c/a24118.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
-    [ "JustEngagedWith", "de/d7c/a24118.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
-    [ "KilledUnit", "de/d7c/a24118.html#a1973142412b4094dbd9fa51600741148", null ]
+    [ "npc_deaths_fel_cannonAI", "d6/d10/a24122.html", "d6/d10/a24122" ],
+    [ "npc_deaths_fel_cannon", "de/d7c/a24118.html#a87ecaca75061928600b5114d3913dd26", null ],
+    [ "GetAI", "de/d7c/a24118.html#a4cf91cd1f28637f359e06bccd30e0338", null ]
 ];

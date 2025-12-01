@@ -1,5 +1,17 @@
 var a10470 =
 [
-    [ "UpdatableScript", "da/d14/a10470.html#a2d6cf85d1eb98438b5022804296eff11", null ],
-    [ "OnUpdate", "da/d14/a10470.html#abf328325e08aa0d6adf36e6f70b02328", null ]
+    [ "WorldScript", "da/d14/a10470.html#a89b4180130e22738c2898562de6b9145", null ],
+    [ "OnAfterConfigLoad", "da/d14/a10470.html#affadabcae325631b2683ef458c6d13ee", null ],
+    [ "OnAfterUnloadAllMaps", "da/d14/a10470.html#a15bc203d07dd2fef96c2a6d13d3ddd44", null ],
+    [ "OnBeforeConfigLoad", "da/d14/a10470.html#a78baa1285b6495d7beace131dfba8400", null ],
+    [ "OnBeforeFinalizePlayerWorldSession", "da/d14/a10470.html#a480e411f6178e5128bc5e760d9f36d99", null ],
+    [ "OnBeforeWorldInitialized", "da/d14/a10470.html#a8ec0a2cc97986db07698392e5c503571", null ],
+    [ "OnLoadCustomDatabaseTable", "da/d14/a10470.html#af9c5296102d7ef0f716796788650ec4d", null ],
+    [ "OnMotdChange", "da/d14/a10470.html#a3a72e488dd36a672d7aaa0b59fffe154", null ],
+    [ "OnOpenStateChange", "da/d14/a10470.html#a7eab4282e8be8ef2a643478f9fe6e0e2", null ],
+    [ "OnShutdown", "da/d14/a10470.html#a3578707d9be5da90530633a93b4b2bf8", null ],
+    [ "OnShutdownCancel", "da/d14/a10470.html#a322bd84359ac77369d9aa84bc8bf9649", null ],
+    [ "OnShutdownInitiate", "da/d14/a10470.html#a83c76efd3de10b0a35c4a311c44d13c1", null ],
+    [ "OnStartup", "da/d14/a10470.html#a117234aac087ec653c83cfe01a6dce7a", null ],
+    [ "OnUpdate", "da/d14/a10470.html#ad28857965a9f6f993a47c95af6d9c5ad", null ]
 ];

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: u_map_magic Union Reference</title>
+<title>AzerothCore: GridObjectCleaner Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,53 +105,78 @@ $(document).ready(function(){initNavTree('d4/ddb/a09138.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="../../de/de7/a09135.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">u_map_magic Union Reference</div></div>
+  <div class="headertitle"><div class="title">GridObjectCleaner Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">GridTerrainData.h</a>&quot;</code></p>
+<p><code>#include &quot;<a class="el" href="../../">GridObjectLoader.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
-Public Attributes</h2></td></tr>
-<tr class="memitem:a3c1546425a9287498d23753f51e27de2"><td class="memItemLeft" align="right" valign="top">char&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/ddb/a09138.html#a3c1546425a9287498d23753f51e27de2">asChar</a> [4]</td></tr>
-<tr class="separator:a3c1546425a9287498d23753f51e27de2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a87b4e38a5c10dba382bd0761b70c2234"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/ddb/a09138.html#a87b4e38a5c10dba382bd0761b70c2234">asUInt</a></td></tr>
-<tr class="separator:a87b4e38a5c10dba382bd0761b70c2234"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Public Member Functions</h2></td></tr>
+<tr class="memitem:aa0f56809b23b117bde869576ddaa9dbd"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
+<tr class="memitem:aa0f56809b23b117bde869576ddaa9dbd"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="../../d4/ddb/a09138.html#aa0f56809b23b117bde869576ddaa9dbd">Visit</a> (<a class="el" href="../../db/d8b/a09146.html">GridRefMgr</a>&lt; T &gt; &amp;)</td></tr>
+<tr class="separator:aa0f56809b23b117bde869576ddaa9dbd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afab06305b5b3568b93d07f80efd616ae"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/ddb/a09138.html#afab06305b5b3568b93d07f80efd616ae">Visit</a> (<a class="el" href="../../d5/d10/a01571.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;)</td></tr>
+<tr class="separator:afab06305b5b3568b93d07f80efd616ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
-<a id="a3c1546425a9287498d23753f51e27de2" name="a3c1546425a9287498d23753f51e27de2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3c1546425a9287498d23753f51e27de2">&#9670;&#160;</a></span>asChar</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="aa0f56809b23b117bde869576ddaa9dbd" name="aa0f56809b23b117bde869576ddaa9dbd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa0f56809b23b117bde869576ddaa9dbd">&#9670;&#160;</a></span>Visit() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<div class="memtemplate">
+template&lt;class T &gt; </div>
       <table class="memname">
         <tr>
-          <td class="memname">char u_map_magic::asChar[4]</td>
+          <td class="memname">void GridObjectCleaner::Visit </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../db/d8b/a09146.html">GridRefMgr</a>&lt; T &gt; &amp;&#160;</td>
+          <td class="paramname"><em>m</em></td><td>)</td>
+          <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00095">GridTerrainLoader::ExistMap()</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">  134</span>{</div>
+<div class="line"><span class="lineno">  135</span>    <span class="keywordflow">for</span> (<span class="keyword">typename</span> <a class="code hl_class" href="../../d6/d9e/a05278.html">GridRefMgr&lt;T&gt;::iterator</a> iter = m.<a class="code hl_function" href="../../db/d8b/a09146.html#a1e4e67ba11ac8da077942a6581647bf3">begin</a>(); iter != m.<a class="code hl_function" href="../../db/d8b/a09146.html#a266acb421cfc6ccc56dc2acff3202971">end</a>(); ++iter)</div>
+<div class="line"><span class="lineno">  136</span>        iter-&gt;GetSource()-&gt;CleanupsBeforeDelete();</div>
+<div class="line"><span class="lineno">  137</span>}</div>
+<div class="ttc" id="aa05278_html"><div class="ttname"><a href="../../d6/d9e/a05278.html">LinkedListHead::Iterator</a></div><div class="ttdef"><b>Definition:</b> LinkedList.h:139</div></div>
+<div class="ttc" id="aa09146_html_a1e4e67ba11ac8da077942a6581647bf3"><div class="ttname"><a href="../../db/d8b/a09146.html#a1e4e67ba11ac8da077942a6581647bf3">GridRefMgr::begin</a></div><div class="ttdeci">iterator begin()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:35</div></div>
+<div class="ttc" id="aa09146_html_a266acb421cfc6ccc56dc2acff3202971"><div class="ttname"><a href="../../db/d8b/a09146.html#a266acb421cfc6ccc56dc2acff3202971">GridRefMgr::end</a></div><div class="ttdeci">iterator end()</div><div class="ttdef"><b>Definition:</b> GridRefMgr.h:36</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00035">GridRefMgr&lt; OBJECT &gt;::begin()</a>, and <a class="el" href="../../#l00036">GridRefMgr&lt; OBJECT &gt;::end()</a>.</p>
 
 </div>
 </div>
-<a id="a87b4e38a5c10dba382bd0761b70c2234" name="a87b4e38a5c10dba382bd0761b70c2234"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a87b4e38a5c10dba382bd0761b70c2234">&#9670;&#160;</a></span>asUInt</h2>
+<a id="afab06305b5b3568b93d07f80efd616ae" name="afab06305b5b3568b93d07f80efd616ae"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afab06305b5b3568b93d07f80efd616ae">&#9670;&#160;</a></span>Visit() <span class="overload">[2/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> u_map_magic::asUInt</td>
+          <td class="memname">void GridObjectCleaner::Visit </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d5/d10/a01571.html#ae35a7f6754cf9950d0027369ada820e7">PlayerMapType</a> &amp;&#160;</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l00095">GridTerrainLoader::ExistMap()</a>, <a class="el" href="../../#l00017">GridTerrainData::Load()</a>, <a class="el" href="../../#l00057">GridTerrainData::LoadAreaData()</a>, <a class="el" href="../../#l00076">GridTerrainData::LoadHeightData()</a>, and <a class="el" href="../../#l00166">GridTerrainData::LoadLiquidData()</a>.</p>
-
+<div class="fragment"><div class="line"><span class="lineno">   50</span>{ }</div>
+</div><!-- fragment -->
 </div>
 </div>
 </div><!-- contents -->
@@ -159,8 +184,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d4/ddb/a09138.html">u_map_magic</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:46:12 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d4/ddb/a09138.html">GridObjectCleaner</a></li>
+    <li class="footer">Generated on Mon Dec 1 2025 20:47:27 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

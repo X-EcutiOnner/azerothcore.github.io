@@ -1,7 +1,7 @@
 var a24822 =
 [
-    [ "HandleScriptEffect", "dd/d0f/a24822.html#afaffd667477e286700dd7e5562423452", null ],
-    [ "PrepareSpellScript", "dd/d0f/a24822.html#a9c30d4d6427cfc96b88a1427afcedb00", null ],
-    [ "Register", "dd/d0f/a24822.html#ab8b68e02d05abceeb4b7eef00092e759", null ],
-    [ "Validate", "dd/d0f/a24822.html#a553f2f26a412d2060151b4f49055b847", null ]
+    [ "AfterApply", "dd/d0f/a24822.html#aee69eceead7e31cce2638ff252f6653d", null ],
+    [ "AfterRemove", "dd/d0f/a24822.html#ad53d25cc04f1b6cc1f3d0a8d9fc69a89", null ],
+    [ "PrepareAuraScript", "dd/d0f/a24822.html#a0ccde960cb328cd1c72b2504376e92b4", null ],
+    [ "Register", "dd/d0f/a24822.html#ab5f8afbfa688ebd548a5508543498b55", null ]
 ];

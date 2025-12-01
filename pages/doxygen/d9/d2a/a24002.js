@@ -1,6 +1,6 @@
 var a24002 =
 [
-    [ "HandlePeriodic", "d9/d2a/a24002.html#ad47e8edce33f9b923aa7bbfe8d0c082a", null ],
-    [ "PrepareAuraScript", "d9/d2a/a24002.html#a2aa04c3c08ffc15b481b740d88a54918", null ],
-    [ "Register", "d9/d2a/a24002.html#acf77c76f02671da215c7103b60ed77ac", null ]
+    [ "HandleScriptEffect", "d9/d2a/a24002.html#acfe80e22e6c78dba50155f7f20c0678b", null ],
+    [ "PrepareSpellScript", "d9/d2a/a24002.html#a17cb5f874343bd40c6aafaf9d627b047", null ],
+    [ "Register", "d9/d2a/a24002.html#a4bb5cfd2cc8503b3a840fc68624a33c1", null ]
 ];

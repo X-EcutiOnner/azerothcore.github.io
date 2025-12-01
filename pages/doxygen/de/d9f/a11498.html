@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: AuraScript::AfterCheckProcHandler Class Reference</title>
+<title>AzerothCore: AuraScript::AuraDispelHandler Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -108,7 +108,7 @@ $(document).ready(function(){initNavTree('de/d9f/a11498.html','../../'); initRes
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="../../dd/dd9/a11495.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">AuraScript::AfterCheckProcHandler Class Reference</div></div>
+  <div class="headertitle"><div class="title">AuraScript::AuraDispelHandler Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
@@ -116,64 +116,58 @@ $(document).ready(function(){initNavTree('de/d9f/a11498.html','../../'); initRes
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ac0a14950e90d064ffd7adc224b25f9d8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9f/a11498.html#ac0a14950e90d064ffd7adc224b25f9d8">AfterCheckProcHandler</a> (AuraAfterCheckProcFnType handlerScript)</td></tr>
-<tr class="separator:ac0a14950e90d064ffd7adc224b25f9d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab2da0d87413dd7317eeaf73df17f1aaf"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9f/a11498.html#ab2da0d87413dd7317eeaf73df17f1aaf">Call</a> (<a class="el" href="../../d1/dbe/a11442.html">AuraScript</a> *auraScript, <a class="el" href="../../dd/dcd/a08758.html">ProcEventInfo</a> &amp;eventInfo, bool isTriggeredAtSpellProcEvent)</td></tr>
-<tr class="separator:ab2da0d87413dd7317eeaf73df17f1aaf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab6e675b4db931c601b3d6aef65ae0ff6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9f/a11498.html#ab6e675b4db931c601b3d6aef65ae0ff6">AuraDispelHandler</a> (AuraDispelFnType <a class="el" href="../../de/d9f/a11498.html#ab7dd73a36aa517354a023deb7db0cf19">pHandlerScript</a>)</td></tr>
+<tr class="separator:ab6e675b4db931c601b3d6aef65ae0ff6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a147d8a6d95f011f27600d052ef7b4000"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9f/a11498.html#a147d8a6d95f011f27600d052ef7b4000">Call</a> (<a class="el" href="../../d6/d9d/a11490.html">AuraScript</a> *auraScript, <a class="el" href="../../dd/dcd/a08758.html">DispelInfo</a> *dispelInfo)</td></tr>
+<tr class="separator:a147d8a6d95f011f27600d052ef7b4000"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pri-attribs" name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:af5a393efc729e8588c0fc425fdfead99"><td class="memItemLeft" align="right" valign="top">AuraAfterCheckProcFnType&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9f/a11498.html#af5a393efc729e8588c0fc425fdfead99">_HandlerScript</a></td></tr>
-<tr class="separator:af5a393efc729e8588c0fc425fdfead99"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab7dd73a36aa517354a023deb7db0cf19"><td class="memItemLeft" align="right" valign="top">AuraDispelFnType&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9f/a11498.html#ab7dd73a36aa517354a023deb7db0cf19">pHandlerScript</a></td></tr>
+<tr class="separator:ab7dd73a36aa517354a023deb7db0cf19"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="ac0a14950e90d064ffd7adc224b25f9d8" name="ac0a14950e90d064ffd7adc224b25f9d8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac0a14950e90d064ffd7adc224b25f9d8">&#9670;&#160;</a></span>AfterCheckProcHandler()</h2>
+<a id="ab6e675b4db931c601b3d6aef65ae0ff6" name="ab6e675b4db931c601b3d6aef65ae0ff6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab6e675b4db931c601b3d6aef65ae0ff6">&#9670;&#160;</a></span>AuraDispelHandler()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">AuraScript::AfterCheckProcHandler::AfterCheckProcHandler </td>
+          <td class="memname">AuraScript::AuraDispelHandler::AuraDispelHandler </td>
           <td>(</td>
-          <td class="paramtype">AuraAfterCheckProcFnType&#160;</td>
-          <td class="paramname"><em>handlerScript</em></td><td>)</td>
+          <td class="paramtype">AuraDispelFnType&#160;</td>
+          <td class="paramname"><em>pHandlerScript</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  910</span>{</div>
-<div class="line"><span class="lineno">  911</span>    <a class="code hl_variable" href="../../de/d9f/a11498.html#af5a393efc729e8588c0fc425fdfead99">_HandlerScript</a> = handlerScript;</div>
-<div class="line"><span class="lineno">  912</span>}</div>
-<div class="ttc" id="aa11498_html_af5a393efc729e8588c0fc425fdfead99"><div class="ttname"><a href="../../de/d9f/a11498.html#af5a393efc729e8588c0fc425fdfead99">AuraScript::AfterCheckProcHandler::_HandlerScript</a></div><div class="ttdeci">AuraAfterCheckProcFnType _HandlerScript</div><div class="ttdef"><b>Definition:</b> SpellScript.h:649</div></div>
+<div class="fragment"><div class="line"><span class="lineno">  774</span>{</div>
+<div class="line"><span class="lineno">  775</span>    <a class="code hl_variable" href="../../de/d9f/a11498.html#ab7dd73a36aa517354a023deb7db0cf19">pHandlerScript</a> = _pHandlerScript;</div>
+<div class="line"><span class="lineno">  776</span>}</div>
+<div class="ttc" id="aa11498_html_ab7dd73a36aa517354a023deb7db0cf19"><div class="ttname"><a href="../../de/d9f/a11498.html#ab7dd73a36aa517354a023deb7db0cf19">AuraScript::AuraDispelHandler::pHandlerScript</a></div><div class="ttdeci">AuraDispelFnType pHandlerScript</div><div class="ttdef"><b>Definition:</b> SpellScript.h:553</div></div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="ab2da0d87413dd7317eeaf73df17f1aaf" name="ab2da0d87413dd7317eeaf73df17f1aaf"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ab2da0d87413dd7317eeaf73df17f1aaf">&#9670;&#160;</a></span>Call()</h2>
+<a id="a147d8a6d95f011f27600d052ef7b4000" name="a147d8a6d95f011f27600d052ef7b4000"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a147d8a6d95f011f27600d052ef7b4000">&#9670;&#160;</a></span>Call()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">bool AuraScript::AfterCheckProcHandler::Call </td>
+          <td class="memname">void AuraScript::AuraDispelHandler::Call </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="../../d1/dbe/a11442.html">AuraScript</a> *&#160;</td>
+          <td class="paramtype"><a class="el" href="../../d6/d9d/a11490.html">AuraScript</a> *&#160;</td>
           <td class="paramname"><em>auraScript</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="../../dd/dcd/a08758.html">ProcEventInfo</a> &amp;&#160;</td>
-          <td class="paramname"><em>eventInfo</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>isTriggeredAtSpellProcEvent</em>&#160;</td>
+          <td class="paramtype"><a class="el" href="../../dd/dcd/a08758.html">DispelInfo</a> *&#160;</td>
+          <td class="paramname"><em>dispelInfo</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -182,15 +176,15 @@ Private Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  915</span>{</div>
-<div class="line"><span class="lineno">  916</span>    <span class="keywordflow">return</span> (auraScript-&gt;*<a class="code hl_variable" href="../../de/d9f/a11498.html#af5a393efc729e8588c0fc425fdfead99">_HandlerScript</a>)(eventInfo, isTriggeredAtSpellProcEvent);</div>
-<div class="line"><span class="lineno">  917</span>}</div>
+<div class="fragment"><div class="line"><span class="lineno">  779</span>{</div>
+<div class="line"><span class="lineno">  780</span>    (auraScript-&gt;*<a class="code hl_variable" href="../../de/d9f/a11498.html#ab7dd73a36aa517354a023deb7db0cf19">pHandlerScript</a>)(_dispelInfo);</div>
+<div class="line"><span class="lineno">  781</span>}</div>
 </div><!-- fragment -->
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="af5a393efc729e8588c0fc425fdfead99" name="af5a393efc729e8588c0fc425fdfead99"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af5a393efc729e8588c0fc425fdfead99">&#9670;&#160;</a></span>_HandlerScript</h2>
+<a id="ab7dd73a36aa517354a023deb7db0cf19" name="ab7dd73a36aa517354a023deb7db0cf19"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab7dd73a36aa517354a023deb7db0cf19">&#9670;&#160;</a></span>pHandlerScript</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -199,7 +193,7 @@ Private Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">AuraAfterCheckProcFnType AuraScript::AfterCheckProcHandler::_HandlerScript</td>
+          <td class="memname">AuraDispelFnType AuraScript::AuraDispelHandler::pHandlerScript</td>
         </tr>
       </table>
   </td>
@@ -216,8 +210,8 @@ Private Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d1/dbe/a11442.html">AuraScript</a></li><li class="navelem"><a class="el" href="../../de/d9f/a11498.html">AfterCheckProcHandler</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:45:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d6/d9d/a11490.html">AuraScript</a></li><li class="navelem"><a class="el" href="../../de/d9f/a11498.html">AuraDispelHandler</a></li>
+    <li class="footer">Generated on Mon Dec 1 2025 20:47:06 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,7 @@
 var a16930 =
 [
-    [ "instance_drak_tharon_keep_InstanceScript", "d1/d23/a16934.html", "d1/d23/a16934" ],
-    [ "instance_drak_tharon_keep", "d6/d32/a16930.html#a1f375185dba1619fee36160549eb91f4", null ],
-    [ "GetInstanceScript", "d6/d32/a16930.html#aca6364452dc39e747af152695d479bf8", null ]
+    [ "HandleEffectRemove", "d6/d32/a16930.html#aa6a118f956cbdc5ad1ce0109c3a0e8e3", null ],
+    [ "Load", "d6/d32/a16930.html#a71a31b421f192662c14bd6bf3d5eed9f", null ],
+    [ "PrepareAuraScript", "d6/d32/a16930.html#a97411ddf89a10a962ba74d294eb653e7", null ],
+    [ "Register", "d6/d32/a16930.html#a1207c9b2ba2e110c3f6c1309f5329d2a", null ]
 ];

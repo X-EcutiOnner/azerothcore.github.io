@@ -1,6 +1,6 @@
 var a21954 =
 [
-    [ "npc_future_youAI", "d4/d35/a21958.html", "d4/d35/a21958" ],
-    [ "npc_future_you", "dc/dde/a21954.html#a36e363156bcb32fee468989062817bd5", null ],
-    [ "GetAI", "dc/dde/a21954.html#a2e1529fef3ce307d98057dc93ce5e5fe", null ]
+    [ "npc_heated_battleAI", "dc/dde/a21954.html#a2b73957d7890549f4b02488c5527fcef", null ],
+    [ "DamageTaken", "dc/dde/a21954.html#a8422c157214195d7166ede35c9c05d19", null ],
+    [ "Reset", "dc/dde/a21954.html#a11a4f3270ff260e30da89017dad38433", null ]
 ];

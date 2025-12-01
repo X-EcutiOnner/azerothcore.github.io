@@ -1,7 +1,10 @@
 var a23874 =
 [
-    [ "HandleOnApply", "da/dc1/a23874.html#a4d14f81325ecd0bde345d60a135ad8ba", null ],
-    [ "HandleOnRemove", "da/dc1/a23874.html#aed5f87523c58d94c8f98b76c06abb140", null ],
-    [ "PrepareAuraScript", "da/dc1/a23874.html#ab32413873bec92540f9e85e8013b7ea2", null ],
-    [ "Register", "da/dc1/a23874.html#a0653d8688f98822580a3243a0d47c17a", null ]
+    [ "boss_harbinger_skyriss", "da/dc1/a23874.html#a245179f74d61c2671b397e8f2473b599", null ],
+    [ "EnterEvadeMode", "da/dc1/a23874.html#a873413da06569343225e6659f8277b2c", null ],
+    [ "JustDied", "da/dc1/a23874.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
+    [ "JustEngagedWith", "da/dc1/a23874.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
+    [ "JustSummoned", "da/dc1/a23874.html#a97d84139a3e970e22d7d422f2f825f12", null ],
+    [ "KilledUnit", "da/dc1/a23874.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
+    [ "Reset", "da/dc1/a23874.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
 ];

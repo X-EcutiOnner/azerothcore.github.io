@@ -1,9 +1,7 @@
 var a10598 =
 [
-    [ "GuildInfoResponse", "dc/d55/a10598.html#a256cb81ad2e08050be99c9e1061c2009", null ],
-    [ "Write", "dc/d55/a10598.html#a3222d0018c9593400d3d01258b82371e", null ],
-    [ "CreateDate", "dc/d55/a10598.html#a1a0acf334d88751e94257ff76c9e3fd8", null ],
-    [ "GuildName", "dc/d55/a10598.html#ad8efc926197e955ed0cf8df6a74b41e8", null ],
-    [ "NumAccounts", "dc/d55/a10598.html#a21b42f1654aa10f7872d87635fea66ac", null ],
-    [ "NumMembers", "dc/d55/a10598.html#a7e748a70029e867ba8c90eaba85bf8c9", null ]
+    [ "ChatServerMessage", "dc/d55/a10598.html#aa649857ceeba6b2f9e060f7d502cdb7a", null ],
+    [ "Write", "dc/d55/a10598.html#af8bad4d39693290674bda2e2ad8685bf", null ],
+    [ "MessageID", "dc/d55/a10598.html#afde854fc17313d214fa0f0cdc48ca9a9", null ],
+    [ "StringParam", "dc/d55/a10598.html#ac39a08d84c8f5934d0fe26e91809e60a", null ]
 ];

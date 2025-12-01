@@ -1,7 +1,6 @@
 var a21462 =
 [
-    [ "HandleDummy", "d2/d42/a21462.html#af524c771ef3a314f3c1dbaacae4f4538", null ],
-    [ "PrepareSpellScript", "d2/d42/a21462.html#a2ad8abf39847c79ac5bc53093c487fc0", null ],
-    [ "Register", "d2/d42/a21462.html#a45a33c0b51ed6c1dfed8d52d2f99e239", null ],
-    [ "Validate", "d2/d42/a21462.html#a92f99501ee1582873586d2405b224f4f", null ]
+    [ "npc_frozen_orb_stalkerAI", "d2/d42/a21462.html#afd8d187ecbf508d02824d1ff8f3cb5cf", null ],
+    [ "JustSummoned", "d2/d42/a21462.html#a73d7d5e55d2a00c9aee6f595e2678b17", null ],
+    [ "Reset", "d2/d42/a21462.html#a064ccb90afeb9b36d501850482c60bc4", null ]
 ];

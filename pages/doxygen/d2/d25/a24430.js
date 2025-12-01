@@ -1,6 +1,6 @@
 var a24430 =
 [
-    [ "npc_lord_illidan_stormrageAI", "d4/da5/a24434.html", "d4/da5/a24434" ],
-    [ "npc_lord_illidan_stormrage", "d2/d25/a24430.html#ad2f213749e170ec4f9903396d132f5f3", null ],
-    [ "GetAI", "d2/d25/a24430.html#a9aaedc4326b90621965dad522f4af897", null ]
+    [ "npc_shattrathflaskvendors", "d2/d25/a24430.html#ab74b234406c2022bf519242a7842458a", null ],
+    [ "OnGossipHello", "d2/d25/a24430.html#af165d6f4640b41a92b36d77c1f1c1161", null ],
+    [ "OnGossipSelect", "d2/d25/a24430.html#ad9eb60422dfc663e6d020a630c09ee05", null ]
 ];

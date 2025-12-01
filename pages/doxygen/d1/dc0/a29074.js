@@ -1,7 +1,11 @@
 var a29074 =
 [
-    [ "go_bear_trapAI", "d1/dc0/a29074.html#ad97484d73bcea6a84909004c099eec34", null ],
-    [ "Initialize", "d1/dc0/a29074.html#a89c76f1563f541c572c48f8cf633aa6a", null ],
-    [ "UpdateAI", "d1/dc0/a29074.html#a8901922d736bb0391da5618593ced5c5", null ],
-    [ "_events", "d1/dc0/a29074.html#a59f37a130326818dd922763ae9058fe7", null ]
+    [ "material", "d1/dc0/a29074.html#a7079e8817a9684602084eb224f2540fc", null ],
+    [ "pos_x", "d1/dc0/a29074.html#ac4d971cc46506be14716124afbb5ad9c", null ],
+    [ "pos_y", "d1/dc0/a29074.html#a6cd85f2a674d732e88371ffce5e46077", null ],
+    [ "pos_z", "d1/dc0/a29074.html#a183ec8ec2d8d30726494c6b3d3b8606a", null ],
+    [ "xtiles", "d1/dc0/a29074.html#aca34dfa64624cfe04c314c13bbed0062", null ],
+    [ "xverts", "d1/dc0/a29074.html#aa5ad7ff660f7f0b5ddfd2d186496d928", null ],
+    [ "ytiles", "d1/dc0/a29074.html#a9901a7e9828ac840bc290b0768831d66", null ],
+    [ "yverts", "d1/dc0/a29074.html#abf24042b85692cd0df05d65d734dd99e", null ]
 ];

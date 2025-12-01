@@ -1,6 +1,7 @@
 var a22914 =
 [
-    [ "instance_shadow_labyrinth_InstanceMapScript", "d9/dec/a22918.html", "d9/dec/a22918" ],
-    [ "instance_shadow_labyrinth", "df/d25/a22914.html#a16a3acdfd9b1053374dfa5f27e5f3c19", null ],
-    [ "GetInstanceScript", "df/d25/a22914.html#af9edf624413593a5cdf025dd9a1c3631", null ]
+    [ "HandleScriptEffect", "df/d25/a22914.html#a6ec6e79849c618d009eae3551e16ff0a", null ],
+    [ "PrepareSpellScript", "df/d25/a22914.html#a4f00eca7c78a785780be4379c1a56a6b", null ],
+    [ "Register", "df/d25/a22914.html#adb676b9d6f36c30efbb8286b1e5edf6d", null ],
+    [ "Validate", "df/d25/a22914.html#a9ce122d497e72e3a46b1857d722af48d", null ]
 ];

@@ -1,10 +1,18 @@
 var a12814 =
 [
-    [ "boss_servant_quarters", "d5/d06/a12814.html#aedf2869e3fbc1ebd13caedffa60bbf5f", null ],
-    [ "JustDied", "d5/d06/a12814.html#a3b9df7ab573f22a9e15761cb662db404", null ],
-    [ "JustEngagedWith", "d5/d06/a12814.html#afe4a4a78824851f63ce560a60d55cee3", null ],
-    [ "MovementInform", "d5/d06/a12814.html#a00d31d9421903b6a92c03a3bd0382328", null ],
-    [ "Reset", "d5/d06/a12814.html#a273a09b1242968a5dd45ab9866fbe481", null ],
-    [ "UpdateAI", "d5/d06/a12814.html#a6a41cfd67310077803733190645050e4", null ],
-    [ "_scheduler", "d5/d06/a12814.html#a520142de5e8d2911684b18c85a3f37e2", null ]
+    [ "boss_moroes", "d5/d06/a12814.html#ae477dcfd679dd7943ddd133bb0dd89df", null ],
+    [ "CheckGuestsInRoom", "d5/d06/a12814.html#ad34daa424532003e8da616aed3df6c82", null ],
+    [ "GetRandomGuest", "d5/d06/a12814.html#a73f4b3c1a3a46261cf62143f8359b55e", null ],
+    [ "InitializeAI", "d5/d06/a12814.html#a1bba38840a7e6f09720ce33c51802a77", null ],
+    [ "InitializeGuests", "d5/d06/a12814.html#a815ca169e0787c92c09a5803007355aa", null ],
+    [ "JustDied", "d5/d06/a12814.html#a7d425d58b1e64ef174ff92e1263de544", null ],
+    [ "JustEngagedWith", "d5/d06/a12814.html#aa0bf31d8298b4ec6ce205cefd0766194", null ],
+    [ "JustReachedHome", "d5/d06/a12814.html#ad67598edc4034dd87ba5260d5f19fd3d", null ],
+    [ "KilledUnit", "d5/d06/a12814.html#a3d28056a0d26d426d84363fb0c4f7e4d", null ],
+    [ "Reset", "d5/d06/a12814.html#a677f2b8375981d904183dd804f4b32b8", null ],
+    [ "UpdateAI", "d5/d06/a12814.html#aa639032a49b3e9bd4209d17e0863db32", null ],
+    [ "_activeGuests", "d5/d06/a12814.html#a651f53f476f205785d596ed9d52fdb89", null ],
+    [ "_events2", "d5/d06/a12814.html#ae1c0474e0a940a803d82d3fe6d3ff37f", null ],
+    [ "_recentlySpoken", "d5/d06/a12814.html#a6408ec64b2777dbcd322cb64af3f8c17", null ],
+    [ "_vanished", "d5/d06/a12814.html#a60d99b80815a2b2626638d6410ce64a2", null ]
 ];

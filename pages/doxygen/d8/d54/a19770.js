@@ -1,7 +1,9 @@
 var a19770 =
 [
-    [ "HandleScript", "d8/d54/a19770.html#a5d778f906e1ee820cc97b0b32839cc78", null ],
-    [ "PrepareSpellScript", "d8/d54/a19770.html#a34337690029eedb60a17572dbbf1e1f9", null ],
-    [ "Register", "d8/d54/a19770.html#ad554d79e1a98490085b22f5038d058da", null ],
-    [ "Validate", "d8/d54/a19770.html#a0932ccc5652bc4901aacbe2cf8d6c7d8", null ]
+    [ "boss_sjonnir_iron_sludgeAI", "d8/d54/a19770.html#aac57ae32188c47ca97b7331d62986e66", null ],
+    [ "JustDied", "d8/d54/a19770.html#a6cfebecaaf673e40f97a46a09947a1f0", null ],
+    [ "JustEngagedWith", "d8/d54/a19770.html#a772d279407d724477560898559710433", null ],
+    [ "Reset", "d8/d54/a19770.html#a5b4a726aa496923d81c41b038e5f7449", null ],
+    [ "UpdateAI", "d8/d54/a19770.html#a2745ff26c165851c367e080d28652984", null ],
+    [ "events", "d8/d54/a19770.html#a468d45f9b9c2172f326068d59a74121a", null ]
 ];

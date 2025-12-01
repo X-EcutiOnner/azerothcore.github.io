@@ -1,9 +1,8 @@
 var a08598 =
 [
-    [ "areaFlag", "d4/d46/a08598.html#ac6244004ed093c1a3d83749cbc20bfe9", null ],
-    [ "areaID", "d4/d46/a08598.html#a455a890a1d82d31873873ac497cb83b7", null ],
-    [ "x1", "d4/d46/a08598.html#a7624a89c7eac16955dbebb47f0c721d6", null ],
-    [ "x2", "d4/d46/a08598.html#aebdb021c0b9c40d624d5115b24616a12", null ],
-    [ "y1", "d4/d46/a08598.html#a04a84fe41ba2bc9996eb0bd70248222a", null ],
-    [ "y2", "d4/d46/a08598.html#a84f612cf6d1905e948c7c9a6cb870e31", null ]
+    [ "PlayerCreateInfoAction", "d4/d46/a08598.html#a50d56595c71374e132dfe9f988144e75", null ],
+    [ "PlayerCreateInfoAction", "d4/d46/a08598.html#a1e1d33b18074031e408da10f44a9a9c4", null ],
+    [ "action", "d4/d46/a08598.html#a957d05ae25fd1ca801e097f03f9cc43e", null ],
+    [ "button", "d4/d46/a08598.html#ac0c4658cfb1fc01cbb55116dd6dbe899", null ],
+    [ "type", "d4/d46/a08598.html#a41e4a38f2c12f9e68b835fe17e56bc7e", null ]
 ];

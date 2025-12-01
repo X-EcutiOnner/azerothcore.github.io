@@ -1,15 +1,10 @@
 var a07982 =
 [
-    [ "LfgProposal", "dc/da9/a07982.html#ad67e8b90ee53576adcab0ac41e523699", null ],
-    [ "cancelTime", "dc/da9/a07982.html#ad702ce8bccc9fbb81457456f1133e2e0", null ],
-    [ "dungeonId", "dc/da9/a07982.html#a3f4f1e3120ed950e2272789c757a401f", null ],
-    [ "encounters", "dc/da9/a07982.html#a6f0fb2094c6237c8bba4321b432115ad", null ],
-    [ "group", "dc/da9/a07982.html#ac04263773858dfe70e7dd627a62113dc", null ],
-    [ "id", "dc/da9/a07982.html#a580dfb67b8040a6267cbd20938cb8667", null ],
-    [ "isNew", "dc/da9/a07982.html#a81989ce9df0046cfde2d805cc4edb59f", null ],
-    [ "leader", "dc/da9/a07982.html#a12f8574ad017641808e522e1e9fdff49", null ],
-    [ "players", "dc/da9/a07982.html#a7d0cc59e08db6fd186de1875c7313b3d", null ],
-    [ "queues", "dc/da9/a07982.html#a7d0a8fabf7aaa632df03f8838fd2a3b4", null ],
-    [ "showorder", "dc/da9/a07982.html#a3d388b633378c35f0efe5927fa78beef", null ],
-    [ "state", "dc/da9/a07982.html#abd3f0fe86587f41c443735164924a3ae", null ]
+    [ "LfgUpdateData", "dc/da9/a07982.html#a01326fafaa2ce562b5710d1d7ca75330", null ],
+    [ "LfgUpdateData", "dc/da9/a07982.html#a656873ea6ef9b3f23791827617a000c6", null ],
+    [ "LfgUpdateData", "dc/da9/a07982.html#a248682a712dd43b8c4601830aae4ddec", null ],
+    [ "comment", "dc/da9/a07982.html#a398f1b9ce0737d833fe4566ecea20e31", null ],
+    [ "dungeons", "dc/da9/a07982.html#a0e9b49693248b438dbc508e230a870db", null ],
+    [ "state", "dc/da9/a07982.html#ad9c270e37acaa105b9e12ec73158c7e3", null ],
+    [ "updateType", "dc/da9/a07982.html#a146e43854f66bf57f703d7089a24481e", null ]
 ];

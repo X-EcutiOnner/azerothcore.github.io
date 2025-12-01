@@ -1,5 +1,6 @@
 var a23838 =
 [
-    [ "spellId", "dd/d13/a23838.html#acc63d01d5095adef28b9746c520be973", null ],
-    [ "textId", "dd/d13/a23838.html#a5b366c702c1cda6ea10ad0b58935f97c", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "db/d29/a23842.html", "db/d29/a23842" ],
+    [ "instance_shattered_halls", "dd/d13/a23838.html#a9d0d3b6baec34c679151791610cff3a7", null ],
+    [ "GetInstanceScript", "dd/d13/a23838.html#a82388466811b022a725ba721845cadf3", null ]
 ];

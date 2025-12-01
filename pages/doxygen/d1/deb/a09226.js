@@ -1,8 +1,12 @@
 var a09226 =
 [
-    [ "AIRelocationNotifier", "d1/deb/a09226.html#ab19dba99802231bc1ba7b3ae3cb4bdb3", null ],
-    [ "Visit", "d1/deb/a09226.html#a06dd774a24d4a1da36a2a862c0ad97df", null ],
-    [ "Visit", "d1/deb/a09226.html#a0ec9a2499d73516dd2d4a0319990924a", null ],
-    [ "i_unit", "d1/deb/a09226.html#ab1dd814e4d94ed2989bb07012a24d40e", null ],
-    [ "isCreature", "d1/deb/a09226.html#a199f4b91d00dd4db90855e5521d87a95", null ]
+    [ "VisibleNotifier", "d1/deb/a09226.html#ae449b96de3eff1759869438dd90f6513", null ],
+    [ "SendToSelf", "d1/deb/a09226.html#a95d1c60911cfed9e4f0e034afbf11482", null ],
+    [ "Visit", "d1/deb/a09226.html#a77d110af6b97c2a4d93ff53a8771273d", null ],
+    [ "Visit", "d1/deb/a09226.html#a8dafcbc64e004aea196aec47fb2bb175", null ],
+    [ "Visit", "d1/deb/a09226.html#a49da99cbbcf8f839d810d6ac6a2502e0", null ],
+    [ "i_data", "d1/deb/a09226.html#a6cfba0f042e117cfdb7bdf1f1168c0ce", null ],
+    [ "i_gobjOnly", "d1/deb/a09226.html#a019182fa8a629d796982f9cc565d9bc3", null ],
+    [ "i_player", "d1/deb/a09226.html#aaa324b9a9cffd59c7cbab0c08cf68395", null ],
+    [ "i_visibleNow", "d1/deb/a09226.html#a34d766816baaad7b1b3623360ec9abeb", null ]
 ];

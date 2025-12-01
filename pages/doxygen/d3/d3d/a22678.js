@@ -1,6 +1,5 @@
 var a22678 =
 [
-    [ "npc_crusade_recruitAI", "de/d2d/a22682.html", "de/d2d/a22682" ],
-    [ "npc_crusade_recruit", "d3/d3d/a22678.html#a6e130f153c506255ef5ece1baf006028", null ],
-    [ "GetAI", "d3/d3d/a22678.html#a412f0d153676758fda8c1f7f1e9dda44", null ]
+    [ "OutdoorPvP_hellfire_peninsula", "d3/d3d/a22678.html#a8ef74076d03225c889c6f027fbbfe25d", null ],
+    [ "GetOutdoorPvP", "d3/d3d/a22678.html#aee93a8191457d7a264053809a5c082e8", null ]
 ];

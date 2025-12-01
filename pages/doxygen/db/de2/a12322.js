@@ -1,5 +1,6 @@
 var a12322 =
 [
-    [ "go_father_flame", "db/de2/a12322.html#aa992bd7029a56faca4b92637688fe845", null ],
-    [ "OnLootStateChanged", "db/de2/a12322.html#a84c7055e791a3dac66b75d327c7662c3", null ]
+    [ "boss_thebeastAI", "d7/def/a12326.html", "d7/def/a12326" ],
+    [ "boss_the_beast", "db/de2/a12322.html#a131344b5fada63f4a8f0b3692ecba9eb", null ],
+    [ "GetAI", "db/de2/a12322.html#a0b40497c665c571247cb8ad8b85ac63f", null ]
 ];

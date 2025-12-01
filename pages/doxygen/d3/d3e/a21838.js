@@ -1,6 +1,5 @@
 var a21838 =
 [
-    [ "npc_leryssaAI", "dc/dbc/a21842.html", "dc/dbc/a21842" ],
-    [ "npc_leryssa", "d3/d3e/a21838.html#a549bed4476f88c313e6b42c0fe1fffb8", null ],
-    [ "GetAI", "d3/d3e/a21838.html#a4725831580b206d91dbd8c21a703893f", null ]
+    [ "npc_mei_francis_mountAI", "d3/d3e/a21838.html#aa9886ead02754faebff8b21eeb85dee6", null ],
+    [ "CanBeSeen", "d3/d3e/a21838.html#ad5e33495339a0315bc7b01351810157e", null ]
 ];

@@ -1,10 +1,10 @@
 var a10798 =
 [
-    [ "SplitItem", "d4/d87/a10798.html#a805c2c75e93d7ef839b3758ffd59f6c6", null ],
-    [ "Read", "d4/d87/a10798.html#a59edb1d3445897bfaff1e97d703b42bb", null ],
-    [ "Count", "d4/d87/a10798.html#a097ed361c33f7415ed4d7efe6ab985e8", null ],
-    [ "DestinationBag", "d4/d87/a10798.html#ac60d1b0b51ef1b91fd51d900bb825153", null ],
-    [ "DestinationSlot", "d4/d87/a10798.html#aaf03b2ba6c3519008515c75f6f09aa60", null ],
-    [ "SourceBag", "d4/d87/a10798.html#aa87bc282a672ae8f9a747ad65400ef03", null ],
-    [ "SourceSlot", "d4/d87/a10798.html#a82dbf4e94d9bb1a352bf03d76a14950b", null ]
+    [ "Count", "d4/d87/a10798.html#a97b56650a40ff3d39c6281d43261f06f", null ],
+    [ "EntryType", "d4/d87/a10798.html#a7c4db5da5d5e501172b8581e4e7bb865", null ],
+    [ "ItemID", "d4/d87/a10798.html#a1daad03864355f94d90315fea68892d4", null ],
+    [ "Money", "d4/d87/a10798.html#a856d32f52e85b2b7329f85b8e04ad0ee", null ],
+    [ "OtherTab", "d4/d87/a10798.html#a359c633cc0034dc8ae8b7db69d3dd739", null ],
+    [ "PlayerGUID", "d4/d87/a10798.html#a90e01e455d373204617b2747ca95fe04", null ],
+    [ "TimeOffset", "d4/d87/a10798.html#a11cf13b65aafbd4dc70399362f4f87fe", null ]
 ];

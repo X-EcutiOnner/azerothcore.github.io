@@ -1,6 +1,7 @@
 var a25150 =
 [
-    [ "ModDest", "d0/d82/a25150.html#a99d08536d2555390a7399a6d2fc199e6", null ],
-    [ "PrepareSpellScript", "d0/d82/a25150.html#a361aed7e74a9f01d665018fd0c3addb1", null ],
-    [ "Register", "d0/d82/a25150.html#aa96b1ff5297d670481d1d8afa9356ef9", null ]
+    [ "HandleScript", "d0/d82/a25150.html#a628fbc7ef23ce8f93d132f7bf518d4d8", null ],
+    [ "PrepareSpellScript", "d0/d82/a25150.html#a8e5aa0a33907c5216299734a928de2fd", null ],
+    [ "Register", "d0/d82/a25150.html#a9e25da03bbbea35f13420c14c6fab0d5", null ],
+    [ "Validate", "d0/d82/a25150.html#a30cc03ed0c19074dc1fde4951a061815", null ]
 ];

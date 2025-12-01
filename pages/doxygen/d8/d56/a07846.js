@@ -1,12 +1,6 @@
 var a07846 =
 [
-    [ "HyperlinkInfo", "d8/d56/a07846.html#aa61aad1a1e2cf1a699ff67ee25cc474b", null ],
-    [ "HyperlinkInfo", "d8/d56/a07846.html#ac08518b3afb878fc7979807d764b7872", null ],
-    [ "operator bool", "d8/d56/a07846.html#a834ac95bb310f6653208026e203e065f", null ],
-    [ "color", "d8/d56/a07846.html#a38c0121d4001ad938d9bc53ca08217db", null ],
-    [ "data", "d8/d56/a07846.html#a7d7d839de8eb48a25e2b687b69a092ea", null ],
-    [ "ok", "d8/d56/a07846.html#a54c7a812f79593258002d367110b2403", null ],
-    [ "tag", "d8/d56/a07846.html#a2171d081c4eb0a23d00e637dfa64bcfc", null ],
-    [ "tail", "d8/d56/a07846.html#a065d1a0942abbe5739f44126d5c3ce00", null ],
-    [ "text", "d8/d56/a07846.html#a2b914c9bdc41771b8cb058468bfa23db", null ]
+    [ "value_type", "d8/d56/a07846.html#a695a2a7939d7c5812ddfa2148eeeb954", null ],
+    [ "StoreTo", "d8/d56/a07846.html#a0fac033c58bdd6385de489c2d7fafc18", null ],
+    [ "tag", "d8/d56/a07846.html#a7a25abd4fae2f7411db0dd7f278235fc", null ]
 ];

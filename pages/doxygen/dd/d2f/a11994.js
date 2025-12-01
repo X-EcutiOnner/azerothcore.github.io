@@ -1,5 +1,6 @@
 var a11994 =
 [
-    [ "amount", "dd/d2f/a11994.html#a35b1ecbfecae77f1cb7a0a52eafc5f7b", null ],
-    [ "entry", "dd/d2f/a11994.html#ac3d4d211ebb927b1b9a376ee956e1b26", null ]
+    [ "npc_av_marshal_or_warmasterAI", "d7/d10/a11998.html", "d7/d10/a11998" ],
+    [ "npc_av_marshal_or_warmaster", "dd/d2f/a11994.html#a7ffc93248d66d50d5d75d1fcf1f907ee", null ],
+    [ "GetAI", "dd/d2f/a11994.html#a295eee4baef6a53cf291fdf155cfdf4a", null ]
 ];

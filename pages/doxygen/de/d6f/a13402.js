@@ -1,9 +1,6 @@
 var a13402 =
 [
-    [ "boss_brutallus", "de/d6f/a13402.html#a501c898505eb4265edee1546bc54713e", null ],
-    [ "AttackStart", "de/d6f/a13402.html#a05edf7010f4e7364399bc81582502219", null ],
-    [ "JustDied", "de/d6f/a13402.html#a48ae6589613f2ac90a499b9b6ae07d01", null ],
-    [ "JustEngagedWith", "de/d6f/a13402.html#a04ff0c07c578c3b92cf45d1ed27fb883", null ],
-    [ "KilledUnit", "de/d6f/a13402.html#a608607d83680da85f91324ce0035804b", null ],
-    [ "Reset", "de/d6f/a13402.html#a20ad64739072e39e7ff3132c6f637af7", null ]
+    [ "instance_sunken_temple_InstanceMapScript", "d3/d83/a13406.html", "d3/d83/a13406" ],
+    [ "instance_sunken_temple", "de/d6f/a13402.html#a123b052c1cd1487588c88bf2611bc53b", null ],
+    [ "GetInstanceScript", "de/d6f/a13402.html#a1a783056b681f1f3b90e2e33e6a4a86d", null ]
 ];

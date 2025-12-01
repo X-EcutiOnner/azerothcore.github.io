@@ -1,9 +1,12 @@
 var a11898 =
 [
-    [ "quest_commandscript", "df/deb/a11898.html#a98804583ded14bc50d252475289dda4f", null ],
-    [ "GetCommands", "df/deb/a11898.html#afaf8c4b169a2bc7457b8ab97d13a367c", null ],
-    [ "HandleQuestAdd", "df/deb/a11898.html#acd1410f224a1d69bba1321999ebf25bc", null ],
-    [ "HandleQuestComplete", "df/deb/a11898.html#a044c30fdaedd07060284bd37fd2e226c", null ],
-    [ "HandleQuestRemove", "df/deb/a11898.html#ac0a87854f99c510c8309e9e337d1e71f", null ],
-    [ "HandleQuestReward", "df/deb/a11898.html#ab8d38057b3630b75cf21c8e88c1ebaf0", null ]
+    [ "message_commandscript", "df/deb/a11898.html#a2b0b67076e1cb4c51964d13ec4ab9829", null ],
+    [ "GetCommands", "df/deb/a11898.html#a9fc83cb2d161a4158f98ec0b580bcc32", null ],
+    [ "HandleAnnounceCommand", "df/deb/a11898.html#a85e2965e4a8fe01ba4a7775a28ef0005", null ],
+    [ "HandleGMAnnounceCommand", "df/deb/a11898.html#ac927dceadf96feebf4301ea37b5aec1d", null ],
+    [ "HandleGMNameAnnounceCommand", "df/deb/a11898.html#aa667bd6e81cf7c3dbabfa40d08c45475", null ],
+    [ "HandleGMNotifyCommand", "df/deb/a11898.html#a0ff57aadce36fddb3c0d36adea8a3e28", null ],
+    [ "HandleNameAnnounceCommand", "df/deb/a11898.html#a786902b70345712c6dba9f638695dd9e", null ],
+    [ "HandleNotifyCommand", "df/deb/a11898.html#a0d53b2414931451b30abd2fe5acee1af", null ],
+    [ "HandleWhispersCommand", "df/deb/a11898.html#a9a02c97677250136f9717968a9f47b73", null ]
 ];

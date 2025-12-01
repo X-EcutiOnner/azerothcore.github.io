@@ -1,8 +1,10 @@
 var a07802 =
 [
-    [ "CurValue", "d6/d28/a07802.html#a110169c51e3dac271b4ba6d10bbbadac", null ],
-    [ "KnownRecipes", "d6/d28/a07802.html#a1a44c7eb6dbf3a16e8d2db47821bb39a", null ],
-    [ "MaxValue", "d6/d28/a07802.html#a6c48d3a6afddf895b97ec9b964dfd86c", null ],
-    [ "Owner", "d6/d28/a07802.html#a085e0aa9f79129920af96046c4fc29b1", null ],
-    [ "Spell", "d6/d28/a07802.html#a2b0ca4fecc7ba965a329afa6a184cf07", null ]
+    [ "Achievement", "d6/d28/a07802.html#a03caf33cfc9f75dfdbba2dedc747e0ce", null ],
+    [ "CharacterId", "d6/d28/a07802.html#a0ec541a4e11d9e19f7cced7e839b1ebb", null ],
+    [ "Criteria", "d6/d28/a07802.html#a4eae1ba9b211d8c8307000ddae428348", null ],
+    [ "Day", "d6/d28/a07802.html#a216aaf4eed90eeb05662631e8f89b4ab", null ],
+    [ "IsFinished", "d6/d28/a07802.html#a1aff3d0a28a12f0e4ee10bca376f335c", null ],
+    [ "Month", "d6/d28/a07802.html#a9be9cfb6a40c527e8f6b6ad381ed5b42", null ],
+    [ "Year", "d6/d28/a07802.html#a85612eac22d3233e620eb11e6e1b48b0", null ]
 ];

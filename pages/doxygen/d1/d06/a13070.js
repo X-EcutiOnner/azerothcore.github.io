@@ -1,6 +1,5 @@
 var a13070 =
 [
-    [ "npc_scarlet_ghoulAI", "d9/d40/a13074.html", "d9/d40/a13074" ],
-    [ "npc_scarlet_ghoul", "d1/d06/a13070.html#aa58b0d1c3fb411cac184bc1fc50f4fb3", null ],
-    [ "GetAI", "d1/d06/a13070.html#a88d2639b1a4f087d3e1b95475a094d21", null ]
+    [ "boss_apoko", "d1/d06/a13070.html#a3ae4752839f47bbfce5f7df03c427cd2", null ],
+    [ "JustEngagedWith", "d1/d06/a13070.html#a7ad52b258863bd818b3e5d1143de7629", null ]
 ];

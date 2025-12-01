@@ -1,6 +1,10 @@
 var a19450 =
 [
-    [ "npc_scion_of_eternityAI", "d5/d10/a19454.html", "d5/d10/a19454" ],
-    [ "npc_scion_of_eternity", "d2/d5c/a19450.html#ac1d66d65b5d4468b908443a64dc2de1c", null ],
-    [ "GetAI", "d2/d5c/a19450.html#a7c27a55f177fb9e31f73fa1cb227fa27", null ]
+    [ "npc_scion_of_eternityAI", "d2/d5c/a19450.html#a2893db70b6a1ffa14d02dd5cea7f7c0a", null ],
+    [ "AttackStart", "d2/d5c/a19450.html#a1335f9e34ff73d5501455062be025ada", null ],
+    [ "JustDied", "d2/d5c/a19450.html#a81dcae5ef2bbd28b891e46c377fbe153", null ],
+    [ "MoveInLineOfSight", "d2/d5c/a19450.html#a74a69fa532f0921285ef678bbd2fa761", null ],
+    [ "UpdateAI", "d2/d5c/a19450.html#adb16afb6ea1583a7156b80a8d833951a", null ],
+    [ "events", "d2/d5c/a19450.html#ae0e194a24a14033a499e68524da1699d", null ],
+    [ "pInstance", "d2/d5c/a19450.html#aa828ca4a75696645d7aa350f1f981f40", null ]
 ];

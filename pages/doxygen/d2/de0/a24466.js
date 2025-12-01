@@ -1,9 +1,6 @@
 var a24466 =
 [
-    [ "npc_korkron_or_wildhammer", "d2/de0/a24466.html#a3d2252865e0e540dd76aaf87ff62a83c", null ],
-    [ "IsSummonedBy", "d2/de0/a24466.html#aa63e935c2d64716f22f4e74e43e6b639", null ],
-    [ "JustDied", "d2/de0/a24466.html#a2b216f372b3681b4c96a711568c2a93b", null ],
-    [ "MovementInform", "d2/de0/a24466.html#a598dada110aff99a3c36f3037dcf8bf4", null ],
-    [ "Reset", "d2/de0/a24466.html#a67d5cf4a8418ab3f07a387f1021080df", null ],
-    [ "_playerGUID", "d2/de0/a24466.html#a5f1a79c10b5363ee24b3941c54ff10d7", null ]
+    [ "HandleSendEvent", "d2/de0/a24466.html#a698e367b59ce770a9b4d9fe6890edf46", null ],
+    [ "PrepareSpellScript", "d2/de0/a24466.html#aed8815b1d068ba04f12c7714a64af769", null ],
+    [ "Register", "d2/de0/a24466.html#aa55fa06e76b1f34e319e16984405ed20", null ]
 ];

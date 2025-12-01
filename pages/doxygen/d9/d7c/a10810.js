@@ -1,9 +1,7 @@
 var a10810 =
 [
-    [ "SwapItem", "d9/d7c/a10810.html#a603871bfd69a2bcc2083de350f48875a", null ],
-    [ "Read", "d9/d7c/a10810.html#a475122a155c96446ecad1b92ef5c7a19", null ],
-    [ "DestinationBag", "d9/d7c/a10810.html#a30a5a1fccf9c028fa207e58dd0ff82b6", null ],
-    [ "DestinationSlot", "d9/d7c/a10810.html#a0cf0b21ebfccb843ee23831e17982081", null ],
-    [ "SourceBag", "d9/d7c/a10810.html#a19d0895bf7a25da8d8bdaceed14ff0a1", null ],
-    [ "SourceSlot", "d9/d7c/a10810.html#ab080d55f63eb07c8db090123260bee23", null ]
+    [ "GuildBankTextQueryResult", "d9/d7c/a10810.html#aa1e25895e246c3a688d7850e517858d3", null ],
+    [ "Write", "d9/d7c/a10810.html#acb6b28dcf56b821e3c0d5b58f6baa2dd", null ],
+    [ "Tab", "d9/d7c/a10810.html#abfc5522a0f94086474493db85ed1ef73", null ],
+    [ "Text", "d9/d7c/a10810.html#ae78c1d1b802e12efd058987117158ec3", null ]
 ];

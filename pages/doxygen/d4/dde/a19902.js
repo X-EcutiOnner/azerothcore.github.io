@@ -1,11 +1,6 @@
 var a19902 =
 [
-    [ "npc_living_constellationAI", "d4/dde/a19902.html#a54f4e946fad895bca07a59f4e00d10a5", null ],
-    [ "DoAction", "d4/dde/a19902.html#acdc93a7dc3019940d730fa20d115a929", null ],
-    [ "GetData", "d4/dde/a19902.html#acb5cc31d7a084e82d8bde3852f9668dd", null ],
-    [ "Reset", "d4/dde/a19902.html#a664b03bdaea184ab8dd8298ed9952790", null ],
-    [ "SpellHit", "d4/dde/a19902.html#a4c83ef2d5fe161a90d465a8fbd7eb4f8", null ],
-    [ "UpdateAI", "d4/dde/a19902.html#ad5b23c3db46b455c9321e7fb29b88572", null ],
-    [ "_isActive", "d4/dde/a19902.html#a786d2d05f83e59dd0da34f44037bdd35", null ],
-    [ "events", "d4/dde/a19902.html#a679c9fe1ed357b7c7e1ed1fac01ef8d3", null ]
+    [ "PrepareSpellScript", "d4/dde/a19902.html#af7426e99a49f8618fc38242ded7132f1", null ],
+    [ "RecalculateDamage", "d4/dde/a19902.html#a94e70b20f2139f668227dccb623c1af6", null ],
+    [ "Register", "d4/dde/a19902.html#acd911f78780e052d88f5f47574092d62", null ]
 ];

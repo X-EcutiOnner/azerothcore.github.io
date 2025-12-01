@@ -1,6 +1,7 @@
 var a14830 =
 [
-    [ "OnRemove", "db/d05/a14830.html#af9da33426d8ea4462f7d9957c4312019", null ],
-    [ "PrepareAuraScript", "db/d05/a14830.html#a594f2b65fdbe30f3d52e608f9b7c9731", null ],
-    [ "Register", "db/d05/a14830.html#a4b04c70fd9c55d20261d9d256ea0966f", null ]
+    [ "PeriodicTick", "db/d05/a14830.html#aa94e4d6a31a08959a5287b863737c2e2", null ],
+    [ "PrepareAuraScript", "db/d05/a14830.html#a59a9c4dfe06859daac5bb69fa5d20e95", null ],
+    [ "Register", "db/d05/a14830.html#a24058b120f4fa06b89f6d582c53a365a", null ],
+    [ "Validate", "db/d05/a14830.html#a093b09be5abde91a1487d67a7a554d30", null ]
 ];

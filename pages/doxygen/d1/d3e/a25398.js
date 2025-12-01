@@ -1,7 +1,7 @@
 var a25398 =
 [
-    [ "HandleProc", "d1/d3e/a25398.html#ac88c41bcfcedd9194d9d3f958d605d37", null ],
-    [ "PrepareAuraScript", "d1/d3e/a25398.html#a66c3458e88ab5802e10445df3aeb52f6", null ],
-    [ "Register", "d1/d3e/a25398.html#af02b0af51a1fece0780414ab45c8d31e", null ],
-    [ "Validate", "d1/d3e/a25398.html#a9f955b53e5905cfb3742a58c8bedab96", null ]
+    [ "EjectPassenger", "d1/d3e/a25398.html#a17ead3b25e5cebda3c9d5008f54f27ef", null ],
+    [ "PrepareSpellScript", "d1/d3e/a25398.html#abada0f860ea3cd6c16fbe4d73263d95a", null ],
+    [ "Register", "d1/d3e/a25398.html#ad5af65bc326aebcc1a2e19dabe624ad1", null ],
+    [ "Validate", "d1/d3e/a25398.html#a24ad6ca59f4f38cfa34de16c4167944e", null ]
 ];

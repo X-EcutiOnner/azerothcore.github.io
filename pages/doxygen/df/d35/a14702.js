@@ -1,8 +1,7 @@
 var a14702 =
 [
-    [ "CheckCast", "df/d35/a14702.html#a1e63e7798ab5e55415eb0277f3160fa3", null ],
-    [ "HandleDummy", "df/d35/a14702.html#ad39da0510c21855dd74abd93f33621c9", null ],
-    [ "PrepareSpellScript", "df/d35/a14702.html#a727093fec8cc8422cbbaa79d821338c8", null ],
-    [ "Register", "df/d35/a14702.html#a8cc68fadf4ae20a9de24c75d2f61301f", null ],
-    [ "Validate", "df/d35/a14702.html#aacd60538c8410fc313a09b1044ad6c7a", null ]
+    [ "HandleFinish", "df/d35/a14702.html#a8927aaa07145b46067d5807c2048330a", null ],
+    [ "PrepareSpellScript", "df/d35/a14702.html#a5a0bfef668242fc5f21ad5a4e3e714b5", null ],
+    [ "Register", "df/d35/a14702.html#a1ffdc199a04bd6ead1a09bc977ae964c", null ],
+    [ "Validate", "df/d35/a14702.html#a3fd3265e5a08f81b3e9e789f1799abd4", null ]
 ];

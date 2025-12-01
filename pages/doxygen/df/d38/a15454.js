@@ -1,8 +1,8 @@
 var a15454 =
 [
-    [ "npc_ahnqiraji_critter", "df/d38/a15454.html#a60e2dc1c52579a410d3435126bf39684", null ],
-    [ "JustDied", "df/d38/a15454.html#a71d3d5262bde847a18932fea89cb6648", null ],
-    [ "JustEngagedWith", "df/d38/a15454.html#aca1df706306f9181db26cd77e5b66452", null ],
-    [ "Reset", "df/d38/a15454.html#a645e16e9da29f6579320394201d0ada7", null ],
-    [ "UpdateAI", "df/d38/a15454.html#a68c5ded8563c2de9429a13cdb7d38f89", null ]
+    [ "npc_obsidian_eradicator", "df/d38/a15454.html#a84a6c414b3d74468143984e57f83e383", null ],
+    [ "JustEngagedWith", "df/d38/a15454.html#ab03b7138306a04a00938bf1cdb9a7966", null ],
+    [ "Reset", "df/d38/a15454.html#a7c76c7d3a69e464c0dcb6a96226baa61", null ],
+    [ "UpdateAI", "df/d38/a15454.html#a1697d83e89559f047d5bab652007bb61", null ],
+    [ "_targetGUIDs", "df/d38/a15454.html#abd83775d1eab5ab2a3aadd7fd925c3ae", null ]
 ];

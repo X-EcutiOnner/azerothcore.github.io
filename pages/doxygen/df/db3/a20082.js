@@ -1,5 +1,6 @@
 var a20082 =
 [
-    [ "boss_flame_leviathan_overload_deviceAI", "df/db3/a20082.html#ab28c1371c20672e717f92fbc3656fb99", null ],
-    [ "OnSpellClick", "df/db3/a20082.html#af432be27e1b91ecf5a5a53c7b6add39e", null ]
+    [ "npc_pool_of_tarAI", "df/dc8/a20086.html", "df/dc8/a20086" ],
+    [ "npc_pool_of_tar", "df/db3/a20082.html#a9c585318b4507babe77b3ba758b06a87", null ],
+    [ "GetAI", "df/db3/a20082.html#ae77bf48a72ce49f821085f32127e91dc", null ]
 ];

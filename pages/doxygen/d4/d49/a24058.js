@@ -1,7 +1,6 @@
 var a24058 =
 [
-    [ "HandleEffect", "d4/d49/a24058.html#ac0fb38f62cc9a41eb70b2ca951f9d1dc", null ],
-    [ "PrepareSpellScript", "d4/d49/a24058.html#abbbffa0a53dc2a55df5e7b17a7f4d38f", null ],
-    [ "Register", "d4/d49/a24058.html#ac406946bb793125d49006e3a877c9638", null ],
-    [ "SelectTarget", "d4/d49/a24058.html#ac36f3d88a0ef8ccaee5bac17bffcaf49", null ]
+    [ "PrepareAuraScript", "d4/d49/a24058.html#a14d4d1a75130a77e7e59e41720491bec", null ],
+    [ "PrepareProc", "d4/d49/a24058.html#abea217f4bfdffc70007fbc29849e9a49", null ],
+    [ "Register", "d4/d49/a24058.html#a9dbcd4c940f5941472bebb64829125e3", null ]
 ];

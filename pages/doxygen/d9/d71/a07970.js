@@ -1,8 +1,7 @@
 var a07970 =
 [
-    [ "LfgPlayerRewardData", "d9/d71/a07970.html#afe99288f8d7028a5a54317e73e3f2c01", null ],
-    [ "done", "d9/d71/a07970.html#a91ba12acf66d631af2de45513f20b702", null ],
-    [ "quest", "d9/d71/a07970.html#abd051091fec6835f63bafa98a045142b", null ],
-    [ "rdungeonEntry", "d9/d71/a07970.html#a87623ce14ef1d123d226e37e227a566d", null ],
-    [ "sdungeonEntry", "d9/d71/a07970.html#abe9c93ab7f3a421dd3c44414a0987277", null ]
+    [ "RBEntryInfo", "d9/d71/a07970.html#aa720dd6cae9ee7163bb9b84918249644", null ],
+    [ "RBEntryInfo", "d9/d71/a07970.html#a3df17ed1c70ed9b755843308d5ff6336", null ],
+    [ "comment", "d9/d71/a07970.html#a7284eac7208dba21a52b79257aad7dbc", null ],
+    [ "roles", "d9/d71/a07970.html#ab891dec65b0070ede1233080eadd0190", null ]
 ];

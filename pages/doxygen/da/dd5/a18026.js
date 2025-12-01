@@ -1,6 +1,6 @@
 var a18026 =
 [
-    [ "UnboundPlagueTargetSelector", "da/dd5/a18026.html#aedde7e013418bf6ff54cf3d3b8a70206", null ],
-    [ "operator()", "da/dd5/a18026.html#ae5fc2623d4eb0b0a82b3eaa464c92458", null ],
-    [ "_source", "da/dd5/a18026.html#a87eb77615e443ccec373d571708a156a", null ]
+    [ "boss_professor_putricideAI", "de/d30/a18030.html", "de/d30/a18030" ],
+    [ "boss_professor_putricide", "da/dd5/a18026.html#a80776dad5c0205aa6a98752f43e85e32", null ],
+    [ "GetAI", "da/dd5/a18026.html#a7c84089d24bb0c77a5203884254e0925", null ]
 ];

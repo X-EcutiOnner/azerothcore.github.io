@@ -1,8 +1,9 @@
 var a24798 =
 [
-    [ "HandleDamage", "d9/d05/a24798.html#a2c5149eb0b6698240c25b63e71af0854", null ],
-    [ "PrepareSpellScript", "d9/d05/a24798.html#a8a19b594de9ba23a59e22db7d05eb60d", null ],
-    [ "Register", "d9/d05/a24798.html#ad29179d9159700b52b0c21a779cd060b", null ],
-    [ "Suicide", "d9/d05/a24798.html#a981f8547eae9b317111bf9a7016510ab", null ],
-    [ "Validate", "d9/d05/a24798.html#aa2c3399146b15f754e073e4fa08f3d5a", null ]
+    [ "Absorb", "d9/d05/a24798.html#ae5101c9adc7b9d09daf9c78d5e6d9d14", null ],
+    [ "CalculateAmount", "d9/d05/a24798.html#a0e88abc0dfc1f0aa5c52f3602f99d45a", null ],
+    [ "Load", "d9/d05/a24798.html#ab7eae0747736dea5633ef51eb0945fae", null ],
+    [ "PrepareAuraScript", "d9/d05/a24798.html#a760b72149ee11ad88e290c9537b3094b", null ],
+    [ "Register", "d9/d05/a24798.html#a0d25efee128ee95f9ad268b53358f376", null ],
+    [ "absorbPct", "d9/d05/a24798.html#a31091ef6a0d39e1d498420a85f6c84fa", null ]
 ];

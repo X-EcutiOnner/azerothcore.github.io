@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: BoundsTrait&lt; VMAP::ModelSpawn * &gt; Struct Reference</title>
+<title>AzerothCore: VMAP::GroupLocationInfo Struct Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,56 +105,52 @@ $(document).ready(function(){initNavTree('de/dda/a05042.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
+<a href="#pub-attribs">Public Attributes</a> &#124;
 <a href="../../d4/d6b/a05039.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">BoundsTrait&lt; VMAP::ModelSpawn * &gt; Struct Reference</div></div>
+  <div class="headertitle"><div class="title">VMAP::GroupLocationInfo Struct Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p><code>#include &quot;<a class="el" href="../../">MapTree.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
-Static Public Member Functions</h2></td></tr>
-<tr class="memitem:aa539d8da20d440e595ceec02dcd2e4f3"><td class="memItemLeft" align="right" valign="top">static void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dda/a05042.html#aa539d8da20d440e595ceec02dcd2e4f3">GetBounds</a> (const <a class="el" href="../../db/df6/a05082.html">VMAP::ModelSpawn</a> *const &amp;obj, G3D::AABox &amp;out)</td></tr>
-<tr class="separator:aa539d8da20d440e595ceec02dcd2e4f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
+Public Attributes</h2></td></tr>
+<tr class="memitem:a4802cb0c38ad72e7671cb77e1f3e6174"><td class="memItemLeft" align="right" valign="top">const <a class="el" href="../../d2/dc4/a05134.html">GroupModel</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dda/a05042.html#a4802cb0c38ad72e7671cb77e1f3e6174">hitModel</a> = nullptr</td></tr>
+<tr class="separator:a4802cb0c38ad72e7671cb77e1f3e6174"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa855bd49800e7a3b6713d72f0cf629d5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/dda/a05042.html#aa855bd49800e7a3b6713d72f0cf629d5">rootId</a> = -1</td></tr>
+<tr class="separator:aa855bd49800e7a3b6713d72f0cf629d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Member Function Documentation</h2>
-<a id="aa539d8da20d440e595ceec02dcd2e4f3" name="aa539d8da20d440e595ceec02dcd2e4f3"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aa539d8da20d440e595ceec02dcd2e4f3">&#9670;&#160;</a></span>GetBounds()</h2>
+<div class="textblock"></div><h2 class="groupheader">Member Data Documentation</h2>
+<a id="a4802cb0c38ad72e7671cb77e1f3e6174" name="a4802cb0c38ad72e7671cb77e1f3e6174"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4802cb0c38ad72e7671cb77e1f3e6174">&#9670;&#160;</a></span>hitModel</h2>
 
 <div class="memitem">
 <div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">static void BoundsTrait&lt; <a class="el" href="../../db/df6/a05082.html">VMAP::ModelSpawn</a> * &gt;::GetBounds </td>
-          <td>(</td>
-          <td class="paramtype">const <a class="el" href="../../db/df6/a05082.html">VMAP::ModelSpawn</a> *const &amp;&#160;</td>
-          <td class="paramname"><em>obj</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">G3D::AABox &amp;&#160;</td>
-          <td class="paramname"><em>out</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
+          <td class="memname">const <a class="el" href="../../d2/dc4/a05134.html">GroupModel</a>* VMAP::GroupLocationInfo::hitModel = nullptr</td>
         </tr>
       </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">static</span></span>  </td>
-  </tr>
-</table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">   35</span>{ out = obj-&gt;<a class="code hl_function" href="../../db/df6/a05082.html#a4a112397e75fbaf5fd991a322a8a4ea4">GetBounds</a>(); }</div>
-<div class="ttc" id="aa05082_html_a4a112397e75fbaf5fd991a322a8a4ea4"><div class="ttname"><a href="../../db/df6/a05082.html#a4a112397e75fbaf5fd991a322a8a4ea4">VMAP::ModelSpawn::GetBounds</a></div><div class="ttdeci">const G3D::AABox &amp; GetBounds() const</div><div class="ttdef"><b>Definition:</b> ModelInstance.h:56</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00056">VMAP::ModelSpawn::GetBounds()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00594">VMAP::WorldModel::GetLocationInfo()</a>, and <a class="el" href="../../#l00066">VMAP::ModelInstance::GetLocationInfo()</a>.</p>
+
+</div>
+</div>
+<a id="aa855bd49800e7a3b6713d72f0cf629d5" name="aa855bd49800e7a3b6713d72f0cf629d5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa855bd49800e7a3b6713d72f0cf629d5">&#9670;&#160;</a></span>rootId</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a0bf9964a3ce962c07ad3d8b5432bbbcd">int32</a> VMAP::GroupLocationInfo::rootId = -1</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="../../#l00594">VMAP::WorldModel::GetLocationInfo()</a>, and <a class="el" href="../../#l00066">VMAP::ModelInstance::GetLocationInfo()</a>.</p>
 
 </div>
 </div>
@@ -163,8 +159,8 @@ Static Public Member Functions</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../de/dda/a05042.html">BoundsTrait&lt; VMAP::ModelSpawn * &gt;</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:45:17 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d1/daa/a04816.html">VMAP</a></li><li class="navelem"><a class="el" href="../../de/dda/a05042.html">GroupLocationInfo</a></li>
+    <li class="footer">Generated on Mon Dec 1 2025 20:48:25 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

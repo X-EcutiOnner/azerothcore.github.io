@@ -1,13 +1,9 @@
 var a23870 =
 [
-    [ "boss_warbringer_omrogg", "de/d13/a23870.html#a20f790595640cd41d636ad43c8837cda", null ],
-    [ "HandleHeadTalk", "de/d13/a23870.html#aaa324c065f6c2bbf75688f5910be09d1", null ],
-    [ "JustDied", "de/d13/a23870.html#a8a2abaceda580ac2ed4f1c736281828f", null ],
-    [ "JustEngagedWith", "de/d13/a23870.html#ae1710f22f8a72f661498c4fbc6d108a5", null ],
-    [ "KilledUnit", "de/d13/a23870.html#add6b54c4744be120b6b5fd53912ce1fd", null ],
-    [ "ScheduleBurningPhase", "de/d13/a23870.html#afd20a8bd1f6f083e0725d962ec747e26", null ],
-    [ "ScheduleNonBurningPhase", "de/d13/a23870.html#a176217a0767e8153d07996461ac68f60", null ],
-    [ "SetData", "de/d13/a23870.html#a4d1154d64c999316f9ae02ab76cbc870", null ],
-    [ "UpdateAI", "de/d13/a23870.html#a90369760ed0e52f1ffc6d3e7c4e39ec2", null ],
-    [ "_headTalk", "de/d13/a23870.html#ae657addceb26f4d02d734fa0790a1ae2", null ]
+    [ "boss_dalliah_the_doomsayer", "de/d13/a23870.html#ad6edf9623942297b28bc7420ec0cc733", null ],
+    [ "InitializeAI", "de/d13/a23870.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
+    [ "JustDied", "de/d13/a23870.html#a431edc9c25fb125d7d267073eb1c1423", null ],
+    [ "JustEngagedWith", "de/d13/a23870.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
+    [ "KilledUnit", "de/d13/a23870.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
+    [ "Reset", "de/d13/a23870.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
 ];

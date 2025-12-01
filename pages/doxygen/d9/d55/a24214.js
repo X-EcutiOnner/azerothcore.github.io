@@ -1,6 +1,6 @@
 var a24214 =
 [
-    [ "npc_oscillating_frequency_scanner_master_bunnyAI", "df/da0/a24218.html", "df/da0/a24218" ],
-    [ "npc_oscillating_frequency_scanner_master_bunny", "d9/d55/a24214.html#a8ae11cadbd5e883bf12f8f5201700b4e", null ],
-    [ "GetAI", "d9/d55/a24214.html#a60d55e2eda4484ceea4e475ac8653977", null ]
+    [ "go_beaconAI", "df/da0/a24218.html", "df/da0/a24218" ],
+    [ "go_beacon", "d9/d55/a24214.html#ad4224cabdc7210d9a0a46fb1eed1a23b", null ],
+    [ "GetAI", "d9/d55/a24214.html#abd168f0c1ac9a64cece280758f3120d4", null ]
 ];

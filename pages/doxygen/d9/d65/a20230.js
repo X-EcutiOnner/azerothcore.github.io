@@ -1,5 +1,6 @@
 var a20230 =
 [
-    [ "achievement_flame_leviathan_unbroken", "d9/d65/a20230.html#a30a94a92aacc558d6833994c11f3ee8a", null ],
-    [ "OnCheck", "d9/d65/a20230.html#a78c69e3217b6598ab238a4f51ba598eb", null ]
+    [ "boss_freya_iron_rootAI", "d7/d5d/a20234.html", "d7/d5d/a20234" ],
+    [ "boss_freya_iron_root", "d9/d65/a20230.html#a9478144d6cb72d08698cbfc50893935b", null ],
+    [ "GetAI", "d9/d65/a20230.html#acdda736e9259d59a30a40d989e70f95c", null ]
 ];

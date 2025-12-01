@@ -1,4 +1,4 @@
 var a04604 =
 [
-    [ "LogOperation", "d8/d73/a05412.html", "d8/d73/a05412" ]
+    [ "LogOperation", "d9/d54/a05418.html", "d9/d54/a05418" ]
 ];

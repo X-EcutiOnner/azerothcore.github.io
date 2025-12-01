@@ -1,8 +1,6 @@
 var a20006 =
 [
-    [ "OnPeriodic", "d3/d5c/a20006.html#a56d101b26b220994aeb035e5fbc1f26e", null ],
-    [ "OnRemove", "d3/d5c/a20006.html#ac6d961793ddb6423540da9d97e016b82", null ],
-    [ "PrepareAuraScript", "d3/d5c/a20006.html#a9384a764bf9c48d12e7f62af99897ce4", null ],
-    [ "Register", "d3/d5c/a20006.html#a69f5474dacdf220ffebe18bd5cf8a32f", null ],
-    [ "Validate", "d3/d5c/a20006.html#a11d985c5e17c8b3cb34096000fda66ac", null ]
+    [ "FilterTargets", "d3/d5c/a20006.html#a38c693dd3d8fb7e04fc1e26359f12399", null ],
+    [ "PrepareSpellScript", "d3/d5c/a20006.html#a86c4bb91547d8ea7eebb8e4d7bfd592e", null ],
+    [ "Register", "d3/d5c/a20006.html#a4e803984a3eded2736825f631786c204", null ]
 ];

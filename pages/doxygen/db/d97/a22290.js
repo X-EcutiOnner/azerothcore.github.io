@@ -1,7 +1,6 @@
 var a22290 =
 [
-    [ "npc_tirions_gambit_tirionAI", "d9/d94/a22294.html", "d9/d94/a22294" ],
-    [ "npc_tirions_gambit_tirion", "db/d97/a22290.html#ad52abd46ccdd3b4409671679434c193c", null ],
-    [ "GetAI", "db/d97/a22290.html#a222c092c2e2136dbd7057a3f7ad7b5f4", null ],
-    [ "OnGossipSelect", "db/d97/a22290.html#a5af904a3394de9b3eedb52009bd6b0a9", null ]
+    [ "npc_guardian_pavilionAI", "d9/d94/a22294.html", "d9/d94/a22294" ],
+    [ "npc_guardian_pavilion", "db/d97/a22290.html#aecc7e93f2b50351584049f031362e0f0", null ],
+    [ "GetAI", "db/d97/a22290.html#a89e55b3267cd93ae688573678851c7b9", null ]
 ];

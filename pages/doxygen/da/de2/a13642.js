@@ -1,7 +1,7 @@
 var a13642 =
 [
-    [ "HandleAfterCast", "da/de2/a13642.html#a251ddadd9d26039da542c402e4ee254f", null ],
-    [ "PrepareSpellScript", "da/de2/a13642.html#a91114aeb4f917ec5138a0c7b20688174", null ],
-    [ "Register", "da/de2/a13642.html#a42960206e2444d8e6fb8fdc4d80a534b", null ],
-    [ "Validate", "da/de2/a13642.html#ad4012436a41537fc5ae854c0c48f09b1", null ]
+    [ "HandlePull", "da/de2/a13642.html#a5a43bb53d3c534054498f8366d617e5a", null ],
+    [ "PrepareSpellScript", "da/de2/a13642.html#aec00f82a35c8154e7d4c1f47c52d486f", null ],
+    [ "RaycastToObstacle", "da/de2/a13642.html#ad6dfdf70e9ffd43510c4791f804ce340", null ],
+    [ "Register", "da/de2/a13642.html#a6da76afd5feaa0d60be70ff8469d78bc", null ]
 ];

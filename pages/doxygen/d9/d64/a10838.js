@@ -1,10 +1,7 @@
 var a10838 =
 [
-    [ "BuyItem", "d9/d64/a10838.html#a3069d333bccadf53310ce86118b2c224", null ],
-    [ "Read", "d9/d64/a10838.html#aeeda3c4a9200cfdc3372f1a3510f453b", null ],
-    [ "Count", "d9/d64/a10838.html#a72fee9e84781ae2be25f9f15a2bb6de2", null ],
-    [ "Item", "d9/d64/a10838.html#a07c03ec8db8e498b417b7dbabb9412b3", null ],
-    [ "Slot", "d9/d64/a10838.html#a7db43e484bf82fb81ccca197c24df2d1", null ],
-    [ "Unk", "d9/d64/a10838.html#aaf2b6aefb11379325b8cf9931abff638", null ],
-    [ "VendorGuid", "d9/d64/a10838.html#aab9a5ff8f6f71a311e58e78b81ef7021", null ]
+    [ "AutoEquipItemSlot", "d9/d64/a10838.html#aa51f40a4172ac41548ec6199bc84375d", null ],
+    [ "Read", "d9/d64/a10838.html#ade6a15026e9c461b38301edf79f367be", null ],
+    [ "DestinationSlot", "d9/d64/a10838.html#a683a9bd141b2f99db431de2ae7d213e3", null ],
+    [ "ItemGuid", "d9/d64/a10838.html#a9d4da587061833262acff66674d3ac41", null ]
 ];

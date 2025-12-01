@@ -1,8 +1,8 @@
 var a05342 =
 [
-    [ "Decode", "dc/dbc/a05342.html#aacf2a55e180aa5ee475ac76c6af4d47a", null ],
-    [ "Encode", "dc/dbc/a05342.html#a51c8847dc9b75161f4d2d366324dc50f", null ],
-    [ "BITS_PER_CHAR", "dc/dbc/a05342.html#a10f3736ee2ed8e79e1236798e2b1d2be", null ],
-    [ "DECODE_ERROR", "dc/dbc/a05342.html#ace6b211be8a36043942f0a1aaee063b1", null ],
-    [ "PADDING", "dc/dbc/a05342.html#af099d69cc636a7ad298ec9e38b2f20d2", null ]
+    [ "Count", "dc/dbc/a05342.html#a4ab8f061208d7733ee65ba768f85f513", null ],
+    [ "GetElements", "dc/dbc/a05342.html#af75467b56830b1447bebbf974b2747b6", null ],
+    [ "GetElements", "dc/dbc/a05342.html#abbdfddc576af5f2d49dddf5e49ad2864", null ],
+    [ "insert", "dc/dbc/a05342.html#a026880bb3378687143ed19fa7b99b41b", null ],
+    [ "i_elements", "dc/dbc/a05342.html#a8ef4a180d448dcba2141fc389621433d", null ]
 ];

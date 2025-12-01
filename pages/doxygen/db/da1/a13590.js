@@ -1,6 +1,7 @@
 var a13590 =
 [
-    [ "HandleEffectApply", "db/da1/a13590.html#a8157e8d305bc9d7da23815ae7e684a05", null ],
-    [ "PrepareAuraScript", "db/da1/a13590.html#ae06b9dc2d00998ce288f015bfc04b323", null ],
-    [ "Register", "db/da1/a13590.html#ac8e6be8aa2e8314fe2f1e22efd8e8b4a", null ]
+    [ "HandleScriptEffect", "db/da1/a13590.html#ae631c634c77cc207338e3549a664969b", null ],
+    [ "PrepareSpellScript", "db/da1/a13590.html#ac9f825f10512be5849c46460e9cdbec8", null ],
+    [ "Register", "db/da1/a13590.html#ac8a4d26de8c78942efc5cfbf78c64633", null ],
+    [ "Validate", "db/da1/a13590.html#ab05236bc29c00cfc7a5dfb88a8c2ee98", null ]
 ];

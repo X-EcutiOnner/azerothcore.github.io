@@ -1,14 +1,6 @@
 var a21918 =
 [
-    [ "npc_dalaran_mageAI", "d7/d6b/a21918.html#ae896a065d2975c5f4d0a125261796215", null ],
-    [ "Initialize", "d7/d6b/a21918.html#a8ede1e1e4599f288f5a8c20c40c11236", null ],
-    [ "JustEngagedWith", "d7/d6b/a21918.html#a05e9c672ab73029c70fa3d2605b6174d", null ],
-    [ "Reset", "d7/d6b/a21918.html#adee723525f46e5476e135e3043f5feb9", null ],
-    [ "UpdateAI", "d7/d6b/a21918.html#ab3d5812e38c1fcc1c01af3fdbd27a61e", null ],
-    [ "blink_timer", "d7/d6b/a21918.html#ae888e0e5d3302e0a47b6e3d41f166c67", null ],
-    [ "blizzard_timer", "d7/d6b/a21918.html#a5da62a7ee9abf7a94c2543076d6479a6", null ],
-    [ "CoC_Timer", "d7/d6b/a21918.html#a8a86c02e2c3759ec1f64087943d37b26", null ],
-    [ "frostfire_timer", "d7/d6b/a21918.html#ab91070d41571e0070a7c92bf0694f4cc", null ],
-    [ "frostnova_timer", "d7/d6b/a21918.html#a77e9a7686cece7ee97236ce6386f82bf", null ],
-    [ "restoremana_timer", "d7/d6b/a21918.html#a33da20a649faa6ee7e61db79846ac4a7", null ]
+    [ "npc_mindless_ghoulAI", "d0/d18/a21922.html", "d0/d18/a21922" ],
+    [ "npc_mindless_ghoul", "d7/d6b/a21918.html#ac5bf71e719c0df04687f426a022fd65e", null ],
+    [ "GetAI", "d7/d6b/a21918.html#ac5a087aa742827dc8eb0f3dc195920ec", null ]
 ];

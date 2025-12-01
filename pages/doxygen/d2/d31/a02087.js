@@ -1,11 +1,11 @@
 var a02087 =
 [
-    [ "boss_lady_vashj", "d2/d2d/a23304.html", "d2/d2d/a23304" ],
-    [ "spell_lady_vashj_magic_barrier", "d7/d18/a23308.html", "d7/d18/a23308" ],
-    [ "spell_lady_vashj_remove_tainted_cores", "d1/dfd/a23312.html", "d1/dfd/a23312" ],
-    [ "spell_lady_vashj_summon_sporebat", "d6/dd3/a23316.html", "d6/dd3/a23316" ],
-    [ "spell_lady_vashj_spore_drop_effect", "dc/dd8/a23320.html", "dc/dd8/a23320" ],
-    [ "spell_lady_vashj_summons", "d3/deb/a23324.html", "d3/deb/a23324" ],
+    [ "boss_lady_vashj", "d0/d85/a23318.html", "d0/d85/a23318" ],
+    [ "spell_lady_vashj_magic_barrier", "d9/da0/a23322.html", "d9/da0/a23322" ],
+    [ "spell_lady_vashj_remove_tainted_cores", "d1/d28/a23326.html", "d1/d28/a23326" ],
+    [ "spell_lady_vashj_summon_sporebat", "d4/ddf/a23330.html", "d4/ddf/a23330" ],
+    [ "spell_lady_vashj_spore_drop_effect", "d8/dbc/a23334.html", "d8/dbc/a23334" ],
+    [ "spell_lady_vashj_summons", "d5/db8/a23338.html", "d5/db8/a23338" ],
     [ "Misc", "d2/d31/a02087.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d2/db4/a03695.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "db/d49/a03737.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],
@@ -258,7 +258,8 @@ var a02087 =
       [ "EVENT_ECK_BITE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a25fd4fd9c83fea5e757a20aeb8f03aee", null ],
       [ "EVENT_ECK_SPIT", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6add7ba9bf01f5f04dac1d93a997b57af2", null ],
       [ "EVENT_ECK_SPRING", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6c3f22fd6aa63e5bf101019792a4b483", null ],
-      [ "EVENT_ECK_HEALTH", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2f0a1bde1d1f47b6f7e45f621a57b6c1", null ],
+      [ "EVENT_ECK_CRAZED_EMOTE", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a6eeac32439bad23ef93cf41b4526d55d", null ],
+      [ "EMOTE_CRAZED", "d4/dbc/a02954.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a2628cfc3f39065948404f522308c931f", null ],
       [ "NPC_SLADRAN_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a08dc37f063f5d70a3893765939f63a82", null ],
       [ "NPC_SLADRAN_CONSTRICTORS", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a52bf6fd6ef6437b9a4e88616b7f1d91b", null ],
       [ "MAX_VIPER", "d0/d08/a02936.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a1e3f12d08f9d4880b8263386a54d21c8", null ],

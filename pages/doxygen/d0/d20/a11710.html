@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>AzerothCore: ScourgeInvasionData Struct Reference</title>
+<title>AzerothCore: WardenPayloadMgr Class Reference</title>
 <link href="../../tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="../../jquery.js"></script>
 <script type="text/javascript" src="../../dynsections.js"></script>
@@ -105,434 +105,640 @@ $(document).ready(function(){initNavTree('d0/d20/a11710.html','../../'); initRes
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a> &#124;
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pub-attribs">Public Attributes</a> &#124;
+<a href="#pub-static-attribs">Static Public Attributes</a> &#124;
 <a href="../../d7/d18/a11707.html">List of all members</a>  </div>
-  <div class="headertitle"><div class="title">ScourgeInvasionData Struct Reference</div></div>
+  <div class="headertitle"><div class="title">WardenPayloadMgr Class Reference</div></div>
 </div><!--header-->
 <div class="contents">
 
-<p><code>#include &quot;<a class="el" href="../../">WorldState.h</a>&quot;</code></p>
+<p>The <a class="el" href="../../d0/d20/a11710.html" title="The WardenPayloadMgr is responsible for maintaining custom payloads used by modules.">WardenPayloadMgr</a> is responsible for maintaining custom payloads used by modules.  
+ <a href="../../d0/d20/a11710.html#details">More...</a></p>
+
+<p><code>#include &quot;<a class="el" href="../../">WardenPayloadMgr.h</a>&quot;</code></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
-Classes</h2></td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dac/a11718.html">CityAttack</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/dc8/a11714.html">InvasionZone</a></td></tr>
-<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a40749458bbad64d1d277cd7cd9dac939"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#a40749458bbad64d1d277cd7cd9dac939">ScourgeInvasionData</a> ()</td></tr>
-<tr class="separator:a40749458bbad64d1d277cd7cd9dac939"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0ae2fc830e4f85fb619c38fdcad794ae"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#a0ae2fc830e4f85fb619c38fdcad794ae">Reset</a> ()</td></tr>
-<tr class="separator:a0ae2fc830e4f85fb619c38fdcad794ae"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adca57b4cf5a065fad1a7bd184571bdc5"><td class="memItemLeft" align="right" valign="top">std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#adca57b4cf5a065fad1a7bd184571bdc5">GetData</a> ()</td></tr>
-<tr class="separator:adca57b4cf5a065fad1a7bd184571bdc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0a90c3e8ab6d5b5698f330b997efed27"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#a0a90c3e8ab6d5b5698f330b997efed27">WardenPayloadMgr</a> ()</td></tr>
+<tr class="separator:a0a90c3e8ab6d5b5698f330b997efed27"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a698b2ab4709a495f299be18b053e4014"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#a698b2ab4709a495f299be18b053e4014">GetFreePayloadId</a> ()</td></tr>
+<tr class="memdesc:a698b2ab4709a495f299be18b053e4014"><td class="mdescLeft">&#160;</td><td class="mdescRight">Finds a free payload id in <a class="el" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56" title="The cached payloads that are accessed by payload id.">WardenPayloadMgr::CachedChecks</a>.  <a href="../../d0/d20/a11710.html#a698b2ab4709a495f299be18b053e4014">More...</a><br /></td></tr>
+<tr class="separator:a698b2ab4709a495f299be18b053e4014"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab3b7d9cbbb94eab430a0caff00448a4a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#ab3b7d9cbbb94eab430a0caff00448a4a">RegisterPayload</a> (const std::string &amp;payload)</td></tr>
+<tr class="memdesc:ab3b7d9cbbb94eab430a0caff00448a4a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Register a payload into cache and returns its payload id.  <a href="../../d0/d20/a11710.html#ab3b7d9cbbb94eab430a0caff00448a4a">More...</a><br /></td></tr>
+<tr class="separator:ab3b7d9cbbb94eab430a0caff00448a4a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae2e7a14fe433ed45e94d3e74ba43f579"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#ae2e7a14fe433ed45e94d3e74ba43f579">RegisterPayload</a> (std::string const &amp;payload, <a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> payloadId, bool replace=false)</td></tr>
+<tr class="memdesc:ae2e7a14fe433ed45e94d3e74ba43f579"><td class="mdescLeft">&#160;</td><td class="mdescRight">Register a payload into cache with a custom id and returns the result.  <a href="../../d0/d20/a11710.html#ae2e7a14fe433ed45e94d3e74ba43f579">More...</a><br /></td></tr>
+<tr class="separator:ae2e7a14fe433ed45e94d3e74ba43f579"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a97d5b53d0e1fd42663ad673b31fe4fab"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#a97d5b53d0e1fd42663ad673b31fe4fab">UnregisterPayload</a> (<a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> payloadId)</td></tr>
+<tr class="memdesc:a97d5b53d0e1fd42663ad673b31fe4fab"><td class="mdescLeft">&#160;</td><td class="mdescRight">Unregister a payload from cache and return if successful.  <a href="../../d0/d20/a11710.html#a97d5b53d0e1fd42663ad673b31fe4fab">More...</a><br /></td></tr>
+<tr class="separator:a97d5b53d0e1fd42663ad673b31fe4fab"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9f7d7ab2c529b74b67fb363a063ffa27"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../dc/d36/a11682.html">WardenCheck</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#a9f7d7ab2c529b74b67fb363a063ffa27">GetPayloadById</a> (<a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> payloadId)</td></tr>
+<tr class="memdesc:a9f7d7ab2c529b74b67fb363a063ffa27"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get a payload by id from the <a class="el" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56" title="The cached payloads that are accessed by payload id.">WardenPayloadMgr::CachedChecks</a>.  <a href="../../d0/d20/a11710.html#a9f7d7ab2c529b74b67fb363a063ffa27">More...</a><br /></td></tr>
+<tr class="separator:a9f7d7ab2c529b74b67fb363a063ffa27"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a36f9cf58fa5c9d34fdac860c3ae692d1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#a36f9cf58fa5c9d34fdac860c3ae692d1">QueuePayload</a> (<a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> payloadId, bool pushToFront=false)</td></tr>
+<tr class="memdesc:a36f9cf58fa5c9d34fdac860c3ae692d1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Queue the payload into the normal warden checks.  <a href="../../d0/d20/a11710.html#a36f9cf58fa5c9d34fdac860c3ae692d1">More...</a><br /></td></tr>
+<tr class="separator:a36f9cf58fa5c9d34fdac860c3ae692d1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0fb196873e89729eb5c3ad3238e75a6a"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#a0fb196873e89729eb5c3ad3238e75a6a">DequeuePayload</a> (<a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> payloadId)</td></tr>
+<tr class="memdesc:a0fb196873e89729eb5c3ad3238e75a6a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Dequeue the payload from the <a class="el" href="../../d0/d20/a11710.html#a0d473fcc12806a29a6cf191ebd1ec9ff" title="The list of currently queued payload ids to be sent through Warden.">WardenPayloadMgr::QueuedPayloads</a> queue.  <a href="../../d0/d20/a11710.html#a0fb196873e89729eb5c3ad3238e75a6a">More...</a><br /></td></tr>
+<tr class="separator:a0fb196873e89729eb5c3ad3238e75a6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ade67b783b6e6c7421b0d86a9143d60d9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#ade67b783b6e6c7421b0d86a9143d60d9">ClearQueuedPayloads</a> ()</td></tr>
+<tr class="memdesc:ade67b783b6e6c7421b0d86a9143d60d9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Clear the payloads from the <a class="el" href="../../d0/d20/a11710.html#a0d473fcc12806a29a6cf191ebd1ec9ff" title="The list of currently queued payload ids to be sent through Warden.">WardenPayloadMgr::QueuedPayloads</a> queue.  <a href="../../d0/d20/a11710.html#ade67b783b6e6c7421b0d86a9143d60d9">More...</a><br /></td></tr>
+<tr class="separator:ade67b783b6e6c7421b0d86a9143d60d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae3878c7264337d646f7a5d503907d7aa"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#ae3878c7264337d646f7a5d503907d7aa">GetPayloadCountInQueue</a> ()</td></tr>
+<tr class="memdesc:ae3878c7264337d646f7a5d503907d7aa"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get the amount of payloads waiting in <a class="el" href="../../d0/d20/a11710.html#a0d473fcc12806a29a6cf191ebd1ec9ff" title="The list of currently queued payload ids to be sent through Warden.">WardenPayloadMgr::QueuedPayloads</a>.  <a href="../../d0/d20/a11710.html#ae3878c7264337d646f7a5d503907d7aa">More...</a><br /></td></tr>
+<tr class="separator:ae3878c7264337d646f7a5d503907d7aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6b8ed858cc20f8acc0266edbe84b3dfd"><td class="memItemLeft" align="right" valign="top">std::list&lt; <a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt; *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#a6b8ed858cc20f8acc0266edbe84b3dfd">GetPayloadsInQueue</a> ()</td></tr>
+<tr class="memdesc:a6b8ed858cc20f8acc0266edbe84b3dfd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get payloads waiting in <a class="el" href="../../d0/d20/a11710.html#a0d473fcc12806a29a6cf191ebd1ec9ff" title="The list of currently queued payload ids to be sent through Warden.">WardenPayloadMgr::QueuedPayloads</a>.  <a href="../../d0/d20/a11710.html#a6b8ed858cc20f8acc0266edbe84b3dfd">More...</a><br /></td></tr>
+<tr class="separator:a6b8ed858cc20f8acc0266edbe84b3dfd"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:acb26a954f14aec654513b16e5e53cad8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d08/a02936.html#aecf9527110a7255a02e5f9add33dd690">SIState</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#acb26a954f14aec654513b16e5e53cad8">m_state</a></td></tr>
-<tr class="separator:acb26a954f14aec654513b16e5e53cad8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a06375cf97a023be4f3fff94cc43405a9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d06/a00131.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#a06375cf97a023be4f3fff94cc43405a9">m_timers</a> [<a class="el" href="../../d0/d08/a02936.html#a785ea701ad6ed657955501468a40e99ea7191361d832875bb172d35d73e709fc8">SI_TIMER_MAX</a>]</td></tr>
-<tr class="separator:a06375cf97a023be4f3fff94cc43405a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aea7079c6f876188857219c574ca0798d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#aea7079c6f876188857219c574ca0798d">m_battlesWon</a></td></tr>
-<tr class="separator:aea7079c6f876188857219c574ca0798d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a38ead6b33009083055538fd4f0b7de35"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#a38ead6b33009083055538fd4f0b7de35">m_lastAttackZone</a></td></tr>
-<tr class="separator:a38ead6b33009083055538fd4f0b7de35"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afa0f9b63b3c2111affdf9769ee529d88"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#afa0f9b63b3c2111affdf9769ee529d88">m_remaining</a> [<a class="el" href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eea0abbcd0daa00c858c12ab1824d026514">SI_REMAINING_MAX</a>]</td></tr>
-<tr class="separator:afa0f9b63b3c2111affdf9769ee529d88"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7c251f312e332ab60fa6de6e8cf4189d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d0/d61/a00302.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#a7c251f312e332ab60fa6de6e8cf4189d">m_broadcastTimer</a></td></tr>
-<tr class="separator:a7c251f312e332ab60fa6de6e8cf4189d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acefb72f28d000395bc1362cd9a62b26a"><td class="memItemLeft" align="right" valign="top">std::mutex&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#acefb72f28d000395bc1362cd9a62b26a">m_siMutex</a></td></tr>
-<tr class="separator:acefb72f28d000395bc1362cd9a62b26a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af62efb05ce49a3cb764328976f8054f6"><td class="memItemLeft" align="right" valign="top">std::set&lt; <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#af62efb05ce49a3cb764328976f8054f6">m_pendingInvasions</a></td></tr>
-<tr class="separator:af62efb05ce49a3cb764328976f8054f6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2a2f610d9c398bc82f4e39eea4fbadfc"><td class="memItemLeft" align="right" valign="top">std::set&lt; <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#a2a2f610d9c398bc82f4e39eea4fbadfc">m_pendingPallids</a></td></tr>
-<tr class="separator:a2a2f610d9c398bc82f4e39eea4fbadfc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af98aea31bf9c878adf2870890911282f"><td class="memItemLeft" align="right" valign="top">std::map&lt; <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d9/dc8/a11714.html">InvasionZone</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a></td></tr>
-<tr class="separator:af98aea31bf9c878adf2870890911282f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a70127135568b3a439f040697f1dc525c"><td class="memItemLeft" align="right" valign="top">std::map&lt; <a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d6/dac/a11718.html">CityAttack</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#a70127135568b3a439f040697f1dc525c">m_cityAttacks</a></td></tr>
-<tr class="separator:a70127135568b3a439f040697f1dc525c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0d473fcc12806a29a6cf191ebd1ec9ff"><td class="memItemLeft" align="right" valign="top">std::list&lt; <a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#a0d473fcc12806a29a6cf191ebd1ec9ff">QueuedPayloads</a></td></tr>
+<tr class="memdesc:a0d473fcc12806a29a6cf191ebd1ec9ff"><td class="mdescLeft">&#160;</td><td class="mdescRight">The list of currently queued payload ids to be sent through <a class="el" href="../../dc/d76/a11678.html">Warden</a>.  <a href="../../d0/d20/a11710.html#a0d473fcc12806a29a6cf191ebd1ec9ff">More...</a><br /></td></tr>
+<tr class="separator:a0d473fcc12806a29a6cf191ebd1ec9ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a65c6878274bc49b921714278d77eed56"><td class="memItemLeft" align="right" valign="top">std::map&lt; <a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>, <a class="el" href="../../dc/d36/a11682.html">WardenCheck</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56">CachedChecks</a></td></tr>
+<tr class="memdesc:a65c6878274bc49b921714278d77eed56"><td class="mdescLeft">&#160;</td><td class="mdescRight">The cached payloads that are accessed by payload id.  <a href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56">More...</a><br /></td></tr>
+<tr class="separator:a65c6878274bc49b921714278d77eed56"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-attribs" name="pub-static-attribs"></a>
+Static Public Attributes</h2></td></tr>
+<tr class="memitem:a9f7e5a100c56a6ee9a6bd39a792b9e44"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> constexpr&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#a9f7e5a100c56a6ee9a6bd39a792b9e44">WardenPayloadOffsetMin</a> = 5000</td></tr>
+<tr class="memdesc:a9f7e5a100c56a6ee9a6bd39a792b9e44"><td class="mdescLeft">&#160;</td><td class="mdescRight">The minimum id available for custom payloads.  <a href="../../d0/d20/a11710.html#a9f7e5a100c56a6ee9a6bd39a792b9e44">More...</a><br /></td></tr>
+<tr class="separator:a9f7e5a100c56a6ee9a6bd39a792b9e44"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0a6537e719e9f8f4c371340d0d1b4db7"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> constexpr&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#a0a6537e719e9f8f4c371340d0d1b4db7">WardenPayloadOffsetMax</a> = 9999</td></tr>
+<tr class="memdesc:a0a6537e719e9f8f4c371340d0d1b4db7"><td class="mdescLeft">&#160;</td><td class="mdescRight">The maximum id available for custom payloads.  <a href="../../d0/d20/a11710.html#a0a6537e719e9f8f4c371340d0d1b4db7">More...</a><br /></td></tr>
+<tr class="separator:a0a6537e719e9f8f4c371340d0d1b4db7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5d6853734e30d11fce42dfeeb3a06c22"><td class="memItemLeft" align="right" valign="top">static <a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> constexpr&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d0/d20/a11710.html#a5d6853734e30d11fce42dfeeb3a06c22">WardenPayloadCheckType</a> = 139</td></tr>
+<tr class="memdesc:a5d6853734e30d11fce42dfeeb3a06c22"><td class="mdescLeft">&#160;</td><td class="mdescRight">The checktype used for warden payloads.  <a href="../../d0/d20/a11710.html#a5d6853734e30d11fce42dfeeb3a06c22">More...</a><br /></td></tr>
+<tr class="separator:a5d6853734e30d11fce42dfeeb3a06c22"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"></div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a40749458bbad64d1d277cd7cd9dac939" name="a40749458bbad64d1d277cd7cd9dac939"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a40749458bbad64d1d277cd7cd9dac939">&#9670;&#160;</a></span>ScourgeInvasionData()</h2>
+<div class="textblock"><p >The <a class="el" href="../../d0/d20/a11710.html" title="The WardenPayloadMgr is responsible for maintaining custom payloads used by modules.">WardenPayloadMgr</a> is responsible for maintaining custom payloads used by modules. </p>
+<p >This allows users to send custom lua payloads up to a size of 512 bytes to the game client. Some of the things you can achieve with this is:</p><ul>
+<li>Interaction with the client interface (add custom frames)</li>
+<li>Access to client CVars</li>
+<li>Access to protected lua functions.</li>
+</ul>
+<p >Opening up many possiblilties for a patch-less custom server. </p>
+</div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
+<a id="a0a90c3e8ab6d5b5698f330b997efed27" name="a0a90c3e8ab6d5b5698f330b997efed27"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0a90c3e8ab6d5b5698f330b997efed27">&#9670;&#160;</a></span>WardenPayloadMgr()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">ScourgeInvasionData::ScourgeInvasionData </td>
+          <td class="memname">WardenPayloadMgr::WardenPayloadMgr </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1322</span>    : <a class="code hl_variable" href="../../d0/d20/a11710.html#acb26a954f14aec654513b16e5e53cad8">m_state</a>(<a class="code hl_enumvalue" href="../../d0/d08/a02936.html#aecf9527110a7255a02e5f9add33dd690a647b0f36eda55bfcd44ea079847f4b39">STATE_0_DISABLED</a>), <a class="code hl_variable" href="../../d0/d20/a11710.html#aea7079c6f876188857219c574ca0798d">m_battlesWon</a>(0), <a class="code hl_variable" href="../../d0/d20/a11710.html#a38ead6b33009083055538fd4f0b7de35">m_lastAttackZone</a>(0), <a class="code hl_variable" href="../../d0/d20/a11710.html#afa0f9b63b3c2111affdf9769ee529d88">m_remaining</a>{}, <a class="code hl_variable" href="../../d0/d20/a11710.html#a7c251f312e332ab60fa6de6e8cf4189d">m_broadcastTimer</a>(10000)</div>
-<div class="line"><span class="lineno"> 1323</span>{</div>
-<div class="line"><span class="lineno"> 1324</span>    <a class="code hl_variable" href="../../d0/d20/a11710.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1325</span>        <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3ed4b016327f4a8ae44c847705cb0bf">AREA_WINTERSPRING</a>,</div>
-<div class="line"><span class="lineno"> 1326</span>        InvasionZone{</div>
-<div class="line"><span class="lineno"> 1327</span>            .map = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad">MAP_KALIMDOR</a>,</div>
-<div class="line"><span class="lineno"> 1328</span>            .zoneId = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3ed4b016327f4a8ae44c847705cb0bf">AREA_WINTERSPRING</a>,</div>
-<div class="line"><span class="lineno"> 1329</span>            .necropolisCount = 3,</div>
-<div class="line"><span class="lineno"> 1330</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eeaf588d257fc56fb070049cde06af24005">SI_REMAINING_WINTERSPRING</a>,</div>
-<div class="line"><span class="lineno"> 1331</span>            .mouth = { <a class="code hl_struct" href="../../de/dcb/a08482.html">Position</a>{7736.56f, -4033.75f, 696.327f, 5.51524f} }</div>
-<div class="line"><span class="lineno"> 1332</span>        }</div>
-<div class="line"><span class="lineno"> 1333</span>    );</div>
-<div class="line"><span class="lineno"> 1334</span>    <a class="code hl_variable" href="../../d0/d20/a11710.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1335</span>        <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3a87eaccec6b2c1a46bccb2c29ac0f8315">AREA_TANARIS</a>,</div>
-<div class="line"><span class="lineno"> 1336</span>        InvasionZone{</div>
-<div class="line"><span class="lineno"> 1337</span>            .map = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad">MAP_KALIMDOR</a>,</div>
-<div class="line"><span class="lineno"> 1338</span>            .zoneId = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3a87eaccec6b2c1a46bccb2c29ac0f8315">AREA_TANARIS</a>,</div>
-<div class="line"><span class="lineno"> 1339</span>            .necropolisCount = 3,</div>
-<div class="line"><span class="lineno"> 1340</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eea91588368688397c3757fd568872cc23b">SI_REMAINING_TANARIS</a>,</div>
-<div class="line"><span class="lineno"> 1341</span>            .mouth = { <a class="code hl_struct" href="../../de/dcb/a08482.html">Position</a>{-8352.68f, -3972.68f, 10.0753f, 2.14675f} }</div>
-<div class="line"><span class="lineno"> 1342</span>        }</div>
-<div class="line"><span class="lineno"> 1343</span>    );</div>
-<div class="line"><span class="lineno"> 1344</span>    <a class="code hl_variable" href="../../d0/d20/a11710.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1345</span>        <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3a18cd2566d133329214f27a17511fd506">AREA_AZSHARA</a>,</div>
-<div class="line"><span class="lineno"> 1346</span>        InvasionZone{</div>
-<div class="line"><span class="lineno"> 1347</span>            .map = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad">MAP_KALIMDOR</a>,</div>
-<div class="line"><span class="lineno"> 1348</span>            .zoneId = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3a18cd2566d133329214f27a17511fd506">AREA_AZSHARA</a>,</div>
-<div class="line"><span class="lineno"> 1349</span>            .necropolisCount = 2,</div>
-<div class="line"><span class="lineno"> 1350</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eeac12501f2dfc2e92462231a9171a4a192">SI_REMAINING_AZSHARA</a>,</div>
-<div class="line"><span class="lineno"> 1351</span>            .mouth = { <a class="code hl_struct" href="../../de/dcb/a08482.html">Position</a>{3273.75f, -4276.98f, 125.509f, 5.44543f} }</div>
-<div class="line"><span class="lineno"> 1352</span>        }</div>
-<div class="line"><span class="lineno"> 1353</span>    );</div>
-<div class="line"><span class="lineno"> 1354</span>    <a class="code hl_variable" href="../../d0/d20/a11710.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1355</span>        <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ace303ba93d149035825673730b8b1d2a">AREA_BLASTED_LANDS</a>,</div>
-<div class="line"><span class="lineno"> 1356</span>        InvasionZone{</div>
-<div class="line"><span class="lineno"> 1357</span>            .map = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>,</div>
-<div class="line"><span class="lineno"> 1358</span>            .zoneId = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ace303ba93d149035825673730b8b1d2a">AREA_BLASTED_LANDS</a>,</div>
-<div class="line"><span class="lineno"> 1359</span>            .necropolisCount = 2,</div>
-<div class="line"><span class="lineno"> 1360</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eeaa749bb9df442ebee816047ad078ad876">SI_REMAINING_BLASTED_LANDS</a>,</div>
-<div class="line"><span class="lineno"> 1361</span>            .mouth = { <a class="code hl_struct" href="../../de/dcb/a08482.html">Position</a>{-11429.3f, -3327.82f, 7.73628f, 1.0821f} }</div>
-<div class="line"><span class="lineno"> 1362</span>        }</div>
-<div class="line"><span class="lineno"> 1363</span>    );</div>
-<div class="line"><span class="lineno"> 1364</span>    <a class="code hl_variable" href="../../d0/d20/a11710.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1365</span>        <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3eeec438db2c0efc014467891451d23">AREA_EASTERN_PLAGUELANDS</a>,</div>
-<div class="line"><span class="lineno"> 1366</span>        InvasionZone{</div>
-<div class="line"><span class="lineno"> 1367</span>            .map = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>,</div>
-<div class="line"><span class="lineno"> 1368</span>            .zoneId = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3eeec438db2c0efc014467891451d23">AREA_EASTERN_PLAGUELANDS</a>,</div>
-<div class="line"><span class="lineno"> 1369</span>            .necropolisCount = 2,</div>
-<div class="line"><span class="lineno"> 1370</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eea6edea7eb295c687aab2d49f538b7ff66">SI_REMAINING_EASTERN_PLAGUELANDS</a>,</div>
-<div class="line"><span class="lineno"> 1371</span>            .mouth = { <a class="code hl_struct" href="../../de/dcb/a08482.html">Position</a>{2014.55f, -4934.52f, 73.9846f, 0.0698132f} }</div>
-<div class="line"><span class="lineno"> 1372</span>        }</div>
-<div class="line"><span class="lineno"> 1373</span>    );</div>
-<div class="line"><span class="lineno"> 1374</span>    <a class="code hl_variable" href="../../d0/d20/a11710.html#af98aea31bf9c878adf2870890911282f">m_activeInvasions</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1375</span>        <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ad424385a06b292570b5c7178fa0f4921">AREA_BURNING_STEPPES</a>,</div>
-<div class="line"><span class="lineno"> 1376</span>        InvasionZone{</div>
-<div class="line"><span class="lineno"> 1377</span>            .map = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>,</div>
-<div class="line"><span class="lineno"> 1378</span>            .zoneId = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ad424385a06b292570b5c7178fa0f4921">AREA_BURNING_STEPPES</a>,</div>
-<div class="line"><span class="lineno"> 1379</span>            .necropolisCount = 2,</div>
-<div class="line"><span class="lineno"> 1380</span>            .remainingNecropoli = <a class="code hl_enumvalue" href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eea6e93dbfb45c3c30c9c8d6c2efdf4df04">SI_REMAINING_BURNING_STEPPES</a>,</div>
-<div class="line"><span class="lineno"> 1381</span>            .mouth = { <a class="code hl_struct" href="../../de/dcb/a08482.html">Position</a>{-8229.53f, -1118.11f, 144.012f, 6.17846f} }</div>
-<div class="line"><span class="lineno"> 1382</span>        }</div>
-<div class="line"><span class="lineno"> 1383</span>    );</div>
-<div class="line"><span class="lineno"> 1384</span> </div>
-<div class="line"><span class="lineno"> 1385</span>    <a class="code hl_variable" href="../../d0/d20/a11710.html#a70127135568b3a439f040697f1dc525c">m_cityAttacks</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1386</span>        <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3a3748fb0df84a7002fee04a79b1c26858">AREA_UNDERCITY</a>,</div>
-<div class="line"><span class="lineno"> 1387</span>        CityAttack{</div>
-<div class="line"><span class="lineno"> 1388</span>            .map = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>,</div>
-<div class="line"><span class="lineno"> 1389</span>            .zoneId = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3a3748fb0df84a7002fee04a79b1c26858">AREA_UNDERCITY</a>,</div>
-<div class="line"><span class="lineno"> 1390</span>            .pallid = {</div>
-<div class="line"><span class="lineno"> 1391</span>                <a class="code hl_struct" href="../../de/dcb/a08482.html">Position</a>{1595.87f, 440.539f, -46.3349f, 2.28207f}, <span class="comment">// Royal Quarter</span></div>
-<div class="line"><span class="lineno"> 1392</span>                <a class="code hl_struct" href="../../de/dcb/a08482.html">Position</a>{1659.2f, 265.988f, -62.1788f, 3.64283f}   <span class="comment">// Trade Quarter</span></div>
-<div class="line"><span class="lineno"> 1393</span>            }</div>
-<div class="line"><span class="lineno"> 1394</span>        }</div>
-<div class="line"><span class="lineno"> 1395</span>    );</div>
-<div class="line"><span class="lineno"> 1396</span>    <a class="code hl_variable" href="../../d0/d20/a11710.html#a70127135568b3a439f040697f1dc525c">m_cityAttacks</a>.emplace(</div>
-<div class="line"><span class="lineno"> 1397</span>        <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ab7b30784be644e9844de24a8aeb78eba">AREA_STORMWIND_CITY</a>,</div>
-<div class="line"><span class="lineno"> 1398</span>        CityAttack{</div>
-<div class="line"><span class="lineno"> 1399</span>            .map = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a>,</div>
-<div class="line"><span class="lineno"> 1400</span>            .zoneId = <a class="code hl_enumvalue" href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ab7b30784be644e9844de24a8aeb78eba">AREA_STORMWIND_CITY</a>,</div>
-<div class="line"><span class="lineno"> 1401</span>            .pallid = {</div>
-<div class="line"><span class="lineno"> 1402</span>                <a class="code hl_struct" href="../../de/dcb/a08482.html">Position</a>{-8578.15f, 886.382f, 87.3148f, 0.586275f}, <span class="comment">// Stormwind Keep</span></div>
-<div class="line"><span class="lineno"> 1403</span>                <a class="code hl_struct" href="../../de/dcb/a08482.html">Position</a>{-8578.15f, 886.382f, 87.3148f, 0.586275f}  <span class="comment">// Trade District</span></div>
-<div class="line"><span class="lineno"> 1404</span>            }</div>
-<div class="line"><span class="lineno"> 1405</span>        }</div>
-<div class="line"><span class="lineno"> 1406</span>    );</div>
-<div class="line"><span class="lineno"> 1407</span>}</div>
-<div class="ttc" id="aa02912_html_a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad"><div class="ttname"><a href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cba865dc34066f9c0c383dca18c5f6ac5ad">MAP_KALIMDOR</a></div><div class="ttdeci">@ MAP_KALIMDOR</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:186</div></div>
-<div class="ttc" id="aa02912_html_a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339"><div class="ttname"><a href="../../dd/d3f/a02912.html#a6d57376a08b6ff3944dd9a5930a492cbabd33a2026797cf5b1d126cf2e22bc339">MAP_EASTERN_KINGDOMS</a></div><div class="ttdeci">@ MAP_EASTERN_KINGDOMS</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:185</div></div>
-<div class="ttc" id="aa02912_html_ad26fccabf338d55f9fdcce090c8a0aa3a18cd2566d133329214f27a17511fd506"><div class="ttname"><a href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3a18cd2566d133329214f27a17511fd506">AREA_AZSHARA</a></div><div class="ttdeci">@ AREA_AZSHARA</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:34</div></div>
-<div class="ttc" id="aa02912_html_ad26fccabf338d55f9fdcce090c8a0aa3a3748fb0df84a7002fee04a79b1c26858"><div class="ttname"><a href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3a3748fb0df84a7002fee04a79b1c26858">AREA_UNDERCITY</a></div><div class="ttdeci">@ AREA_UNDERCITY</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:80</div></div>
-<div class="ttc" id="aa02912_html_ad26fccabf338d55f9fdcce090c8a0aa3a87eaccec6b2c1a46bccb2c29ac0f8315"><div class="ttname"><a href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3a87eaccec6b2c1a46bccb2c29ac0f8315">AREA_TANARIS</a></div><div class="ttdeci">@ AREA_TANARIS</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:73</div></div>
-<div class="ttc" id="aa02912_html_ad26fccabf338d55f9fdcce090c8a0aa3ab3ed4b016327f4a8ae44c847705cb0bf"><div class="ttname"><a href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3ed4b016327f4a8ae44c847705cb0bf">AREA_WINTERSPRING</a></div><div class="ttdeci">@ AREA_WINTERSPRING</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:76</div></div>
-<div class="ttc" id="aa02912_html_ad26fccabf338d55f9fdcce090c8a0aa3ab3eeec438db2c0efc014467891451d23"><div class="ttname"><a href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ab3eeec438db2c0efc014467891451d23">AREA_EASTERN_PLAGUELANDS</a></div><div class="ttdeci">@ AREA_EASTERN_PLAGUELANDS</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:53</div></div>
-<div class="ttc" id="aa02912_html_ad26fccabf338d55f9fdcce090c8a0aa3ab7b30784be644e9844de24a8aeb78eba"><div class="ttname"><a href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ab7b30784be644e9844de24a8aeb78eba">AREA_STORMWIND_CITY</a></div><div class="ttdeci">@ AREA_STORMWIND_CITY</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:81</div></div>
-<div class="ttc" id="aa02912_html_ad26fccabf338d55f9fdcce090c8a0aa3ace303ba93d149035825673730b8b1d2a"><div class="ttname"><a href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ace303ba93d149035825673730b8b1d2a">AREA_BLASTED_LANDS</a></div><div class="ttdeci">@ AREA_BLASTED_LANDS</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:27</div></div>
-<div class="ttc" id="aa02912_html_ad26fccabf338d55f9fdcce090c8a0aa3ad424385a06b292570b5c7178fa0f4921"><div class="ttname"><a href="../../dd/d3f/a02912.html#ad26fccabf338d55f9fdcce090c8a0aa3ad424385a06b292570b5c7178fa0f4921">AREA_BURNING_STEPPES</a></div><div class="ttdeci">@ AREA_BURNING_STEPPES</div><div class="ttdef"><b>Definition:</b> AreaDefines.h:42</div></div>
-<div class="ttc" id="aa02936_html_a3fb19d2d868c1633a094f84570f4a6eea6e93dbfb45c3c30c9c8d6c2efdf4df04"><div class="ttname"><a href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eea6e93dbfb45c3c30c9c8d6c2efdf4df04">SI_REMAINING_BURNING_STEPPES</a></div><div class="ttdeci">@ SI_REMAINING_BURNING_STEPPES</div><div class="ttdef"><b>Definition:</b> WorldState.h:159</div></div>
-<div class="ttc" id="aa02936_html_a3fb19d2d868c1633a094f84570f4a6eea6edea7eb295c687aab2d49f538b7ff66"><div class="ttname"><a href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eea6edea7eb295c687aab2d49f538b7ff66">SI_REMAINING_EASTERN_PLAGUELANDS</a></div><div class="ttdeci">@ SI_REMAINING_EASTERN_PLAGUELANDS</div><div class="ttdef"><b>Definition:</b> WorldState.h:160</div></div>
-<div class="ttc" id="aa02936_html_a3fb19d2d868c1633a094f84570f4a6eea91588368688397c3757fd568872cc23b"><div class="ttname"><a href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eea91588368688397c3757fd568872cc23b">SI_REMAINING_TANARIS</a></div><div class="ttdeci">@ SI_REMAINING_TANARIS</div><div class="ttdef"><b>Definition:</b> WorldState.h:161</div></div>
-<div class="ttc" id="aa02936_html_a3fb19d2d868c1633a094f84570f4a6eeaa749bb9df442ebee816047ad078ad876"><div class="ttname"><a href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eeaa749bb9df442ebee816047ad078ad876">SI_REMAINING_BLASTED_LANDS</a></div><div class="ttdeci">@ SI_REMAINING_BLASTED_LANDS</div><div class="ttdef"><b>Definition:</b> WorldState.h:158</div></div>
-<div class="ttc" id="aa02936_html_a3fb19d2d868c1633a094f84570f4a6eeac12501f2dfc2e92462231a9171a4a192"><div class="ttname"><a href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eeac12501f2dfc2e92462231a9171a4a192">SI_REMAINING_AZSHARA</a></div><div class="ttdeci">@ SI_REMAINING_AZSHARA</div><div class="ttdef"><b>Definition:</b> WorldState.h:157</div></div>
-<div class="ttc" id="aa02936_html_a3fb19d2d868c1633a094f84570f4a6eeaf588d257fc56fb070049cde06af24005"><div class="ttname"><a href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eeaf588d257fc56fb070049cde06af24005">SI_REMAINING_WINTERSPRING</a></div><div class="ttdeci">@ SI_REMAINING_WINTERSPRING</div><div class="ttdef"><b>Definition:</b> WorldState.h:162</div></div>
-<div class="ttc" id="aa02936_html_aecf9527110a7255a02e5f9add33dd690a647b0f36eda55bfcd44ea079847f4b39"><div class="ttname"><a href="../../d0/d08/a02936.html#aecf9527110a7255a02e5f9add33dd690a647b0f36eda55bfcd44ea079847f4b39">STATE_0_DISABLED</a></div><div class="ttdeci">@ STATE_0_DISABLED</div><div class="ttdef"><b>Definition:</b> WorldState.h:125</div></div>
-<div class="ttc" id="aa08482_html"><div class="ttname"><a href="../../de/dcb/a08482.html">Position</a></div><div class="ttdef"><b>Definition:</b> Position.h:27</div></div>
-<div class="ttc" id="aa11710_html_a38ead6b33009083055538fd4f0b7de35"><div class="ttname"><a href="../../d0/d20/a11710.html#a38ead6b33009083055538fd4f0b7de35">ScourgeInvasionData::m_lastAttackZone</a></div><div class="ttdeci">uint32 m_lastAttackZone</div><div class="ttdef"><b>Definition:</b> WorldState.h:199</div></div>
-<div class="ttc" id="aa11710_html_a70127135568b3a439f040697f1dc525c"><div class="ttname"><a href="../../d0/d20/a11710.html#a70127135568b3a439f040697f1dc525c">ScourgeInvasionData::m_cityAttacks</a></div><div class="ttdeci">std::map&lt; uint32, CityAttack &gt; m_cityAttacks</div><div class="ttdef"><b>Definition:</b> WorldState.h:207</div></div>
-<div class="ttc" id="aa11710_html_a7c251f312e332ab60fa6de6e8cf4189d"><div class="ttname"><a href="../../d0/d20/a11710.html#a7c251f312e332ab60fa6de6e8cf4189d">ScourgeInvasionData::m_broadcastTimer</a></div><div class="ttdeci">uint64 m_broadcastTimer</div><div class="ttdef"><b>Definition:</b> WorldState.h:201</div></div>
-<div class="ttc" id="aa11710_html_acb26a954f14aec654513b16e5e53cad8"><div class="ttname"><a href="../../d0/d20/a11710.html#acb26a954f14aec654513b16e5e53cad8">ScourgeInvasionData::m_state</a></div><div class="ttdeci">SIState m_state</div><div class="ttdef"><b>Definition:</b> WorldState.h:195</div></div>
-<div class="ttc" id="aa11710_html_aea7079c6f876188857219c574ca0798d"><div class="ttname"><a href="../../d0/d20/a11710.html#aea7079c6f876188857219c574ca0798d">ScourgeInvasionData::m_battlesWon</a></div><div class="ttdeci">uint32 m_battlesWon</div><div class="ttdef"><b>Definition:</b> WorldState.h:198</div></div>
-<div class="ttc" id="aa11710_html_af98aea31bf9c878adf2870890911282f"><div class="ttname"><a href="../../d0/d20/a11710.html#af98aea31bf9c878adf2870890911282f">ScourgeInvasionData::m_activeInvasions</a></div><div class="ttdeci">std::map&lt; uint32, InvasionZone &gt; m_activeInvasions</div><div class="ttdef"><b>Definition:</b> WorldState.h:206</div></div>
-<div class="ttc" id="aa11710_html_afa0f9b63b3c2111affdf9769ee529d88"><div class="ttname"><a href="../../d0/d20/a11710.html#afa0f9b63b3c2111affdf9769ee529d88">ScourgeInvasionData::m_remaining</a></div><div class="ttdeci">uint32 m_remaining[SI_REMAINING_MAX]</div><div class="ttdef"><b>Definition:</b> WorldState.h:200</div></div>
+<div class="fragment"><div class="line"><span class="lineno">   23</span>{ }</div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00034">AREA_AZSHARA</a>, <a class="el" href="../../#l00027">AREA_BLASTED_LANDS</a>, <a class="el" href="../../#l00042">AREA_BURNING_STEPPES</a>, <a class="el" href="../../#l00053">AREA_EASTERN_PLAGUELANDS</a>, <a class="el" href="../../#l00081">AREA_STORMWIND_CITY</a>, <a class="el" href="../../#l00073">AREA_TANARIS</a>, <a class="el" href="../../#l00080">AREA_UNDERCITY</a>, <a class="el" href="../../#l00076">AREA_WINTERSPRING</a>, <a class="el" href="../../#l00206">m_activeInvasions</a>, <a class="el" href="../../#l00207">m_cityAttacks</a>, <a class="el" href="../../#l00179">ScourgeInvasionData::InvasionZone::map</a>, <a class="el" href="../../#l00189">ScourgeInvasionData::CityAttack::map</a>, <a class="el" href="../../#l00185">MAP_EASTERN_KINGDOMS</a>, <a class="el" href="../../#l00186">MAP_KALIMDOR</a>, <a class="el" href="../../#l00157">SI_REMAINING_AZSHARA</a>, <a class="el" href="../../#l00158">SI_REMAINING_BLASTED_LANDS</a>, <a class="el" href="../../#l00159">SI_REMAINING_BURNING_STEPPES</a>, <a class="el" href="../../#l00160">SI_REMAINING_EASTERN_PLAGUELANDS</a>, <a class="el" href="../../#l00161">SI_REMAINING_TANARIS</a>, and <a class="el" href="../../#l00162">SI_REMAINING_WINTERSPRING</a>.</p>
-
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="adca57b4cf5a065fad1a7bd184571bdc5" name="adca57b4cf5a065fad1a7bd184571bdc5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#adca57b4cf5a065fad1a7bd184571bdc5">&#9670;&#160;</a></span>GetData()</h2>
+<a id="ade67b783b6e6c7421b0d86a9143d60d9" name="ade67b783b6e6c7421b0d86a9143d60d9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ade67b783b6e6c7421b0d86a9143d60d9">&#9670;&#160;</a></span>ClearQueuedPayloads()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::string ScourgeInvasionData::GetData </td>
+          <td class="memname">void WardenPayloadMgr::ClearQueuedPayloads </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1422</span>{</div>
-<div class="line"><span class="lineno"> 1423</span>    std::string output = std::to_string(<a class="code hl_variable" href="../../d0/d20/a11710.html#acb26a954f14aec654513b16e5e53cad8">m_state</a>) + <span class="stringliteral">&quot; &quot;</span>;</div>
-<div class="line"><span class="lineno"> 1424</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d7/d06/a00131.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a>&amp; timer : <a class="code hl_variable" href="../../d0/d20/a11710.html#a06375cf97a023be4f3fff94cc43405a9">m_timers</a>)</div>
-<div class="line"><span class="lineno"> 1425</span>    {</div>
-<div class="line"><span class="lineno"> 1426</span>        <span class="keywordflow">if</span> (timer == <a class="code hl_typedef" href="../../d7/d06/a00131.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a>())</div>
-<div class="line"><span class="lineno"> 1427</span>            output += <span class="stringliteral">&quot;0 &quot;</span>;</div>
-<div class="line"><span class="lineno"> 1428</span>        <span class="keywordflow">else</span></div>
-<div class="line"><span class="lineno"> 1429</span>            output += std::to_string(std::chrono::duration_cast&lt;std::chrono::milliseconds&gt;(timer.time_since_epoch()).count()) + <span class="stringliteral">&quot; &quot;</span>;</div>
-<div class="line"><span class="lineno"> 1430</span>    }</div>
-<div class="line"><span class="lineno"> 1431</span>    output += std::to_string(<a class="code hl_variable" href="../../d0/d20/a11710.html#aea7079c6f876188857219c574ca0798d">m_battlesWon</a>) + <span class="stringliteral">&quot; &quot;</span> + std::to_string(<a class="code hl_variable" href="../../d0/d20/a11710.html#a38ead6b33009083055538fd4f0b7de35">m_lastAttackZone</a>) + <span class="stringliteral">&quot; &quot;</span>;</div>
-<div class="line"><span class="lineno"> 1432</span>    <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&amp; remaining : <a class="code hl_variable" href="../../d0/d20/a11710.html#afa0f9b63b3c2111affdf9769ee529d88">m_remaining</a>)</div>
-<div class="line"><span class="lineno"> 1433</span>        output += std::to_string(remaining) + <span class="stringliteral">&quot; &quot;</span>;</div>
-<div class="line"><span class="lineno"> 1434</span>    <span class="keywordflow">return</span> output;</div>
-<div class="line"><span class="lineno"> 1435</span>}</div>
-<div class="ttc" id="aa00131_html_ae5ca775e8d8c664b6edef818ce1251b9"><div class="ttname"><a href="../../d7/d06/a00131.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a></div><div class="ttdeci">std::chrono::steady_clock::time_point TimePoint</div><div class="ttdoc">time_point shorthand typedefs</div><div class="ttdef"><b>Definition:</b> Duration.h:69</div></div>
-<div class="ttc" id="aa00302_html_a22f78cc9780bf32aff91ae17c3101c8d"><div class="ttname"><a href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a></div><div class="ttdeci">std::uint32_t uint32</div><div class="ttdef"><b>Definition:</b> Define.h:107</div></div>
-<div class="ttc" id="aa11710_html_a06375cf97a023be4f3fff94cc43405a9"><div class="ttname"><a href="../../d0/d20/a11710.html#a06375cf97a023be4f3fff94cc43405a9">ScourgeInvasionData::m_timers</a></div><div class="ttdeci">TimePoint m_timers[SI_TIMER_MAX]</div><div class="ttdef"><b>Definition:</b> WorldState.h:197</div></div>
+
+<p>Clear the payloads from the <a class="el" href="../../d0/d20/a11710.html#a0d473fcc12806a29a6cf191ebd1ec9ff" title="The list of currently queued payload ids to be sent through Warden.">WardenPayloadMgr::QueuedPayloads</a> queue. </p>
+<div class="fragment"><div class="line"><span class="lineno">  138</span>{</div>
+<div class="line"><span class="lineno">  139</span>    <a class="code hl_variable" href="../../d0/d20/a11710.html#a0d473fcc12806a29a6cf191ebd1ec9ff">QueuedPayloads</a>.clear();</div>
+<div class="line"><span class="lineno">  140</span>}</div>
+<div class="ttc" id="aa11710_html_a0d473fcc12806a29a6cf191ebd1ec9ff"><div class="ttname"><a href="../../d0/d20/a11710.html#a0d473fcc12806a29a6cf191ebd1ec9ff">WardenPayloadMgr::QueuedPayloads</a></div><div class="ttdeci">std::list&lt; uint16 &gt; QueuedPayloads</div><div class="ttdoc">The list of currently queued payload ids to be sent through Warden.</div><div class="ttdef"><b>Definition:</b> WardenPayloadMgr.h:130</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00198">m_battlesWon</a>, <a class="el" href="../../#l00199">m_lastAttackZone</a>, <a class="el" href="../../#l00200">m_remaining</a>, <a class="el" href="../../#l00195">m_state</a>, and <a class="el" href="../../#l00197">m_timers</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="../../#l00188">WorldState::Save()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00130">QueuedPayloads</a>.</p>
 
 </div>
 </div>
-<a id="a0ae2fc830e4f85fb619c38fdcad794ae" name="a0ae2fc830e4f85fb619c38fdcad794ae"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a0ae2fc830e4f85fb619c38fdcad794ae">&#9670;&#160;</a></span>Reset()</h2>
+<a id="a0fb196873e89729eb5c3ad3238e75a6a" name="a0fb196873e89729eb5c3ad3238e75a6a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0fb196873e89729eb5c3ad3238e75a6a">&#9670;&#160;</a></span>DequeuePayload()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void ScourgeInvasionData::Reset </td>
+          <td class="memname">bool WardenPayloadMgr::DequeuePayload </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>payloadId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Dequeue the payload from the <a class="el" href="../../d0/d20/a11710.html#a0d473fcc12806a29a6cf191ebd1ec9ff" title="The list of currently queued payload ids to be sent through Warden.">WardenPayloadMgr::QueuedPayloads</a> queue. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">payloadId</td><td>The payloadId to be dequeued. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>bool If the payload was removed. </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">  130</span>{</div>
+<div class="line"><span class="lineno">  131</span>    std::size_t <span class="keyword">const</span> queueSize = <a class="code hl_variable" href="../../d0/d20/a11710.html#a0d473fcc12806a29a6cf191ebd1ec9ff">QueuedPayloads</a>.size();</div>
+<div class="line"><span class="lineno">  132</span>    <a class="code hl_variable" href="../../d0/d20/a11710.html#a0d473fcc12806a29a6cf191ebd1ec9ff">QueuedPayloads</a>.remove(payloadId);</div>
+<div class="line"><span class="lineno">  133</span> </div>
+<div class="line"><span class="lineno">  134</span>    <span class="keywordflow">return</span> queueSize != <a class="code hl_variable" href="../../d0/d20/a11710.html#a0d473fcc12806a29a6cf191ebd1ec9ff">QueuedPayloads</a>.size();</div>
+<div class="line"><span class="lineno">  135</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00130">QueuedPayloads</a>.</p>
+
+</div>
+</div>
+<a id="a698b2ab4709a495f299be18b053e4014" name="a698b2ab4709a495f299be18b053e4014"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a698b2ab4709a495f299be18b053e4014">&#9670;&#160;</a></span>GetFreePayloadId()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> WardenPayloadMgr::GetFreePayloadId </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno"> 1410</span>{</div>
-<div class="line"><span class="lineno"> 1411</span>    std::lock_guard&lt;std::mutex&gt; guard(<a class="code hl_variable" href="../../d0/d20/a11710.html#acefb72f28d000395bc1362cd9a62b26a">m_siMutex</a>);</div>
-<div class="line"><span class="lineno"> 1412</span>    <span class="keywordflow">for</span> (<span class="keyword">auto</span>&amp; timepoint : <a class="code hl_variable" href="../../d0/d20/a11710.html#a06375cf97a023be4f3fff94cc43405a9">m_timers</a>)</div>
-<div class="line"><span class="lineno"> 1413</span>        timepoint = <a class="code hl_typedef" href="../../d7/d06/a00131.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a>();</div>
-<div class="line"><span class="lineno"> 1414</span> </div>
-<div class="line"><span class="lineno"> 1415</span>    <a class="code hl_variable" href="../../d0/d20/a11710.html#aea7079c6f876188857219c574ca0798d">m_battlesWon</a> = 0;</div>
-<div class="line"><span class="lineno"> 1416</span>    <a class="code hl_variable" href="../../d0/d20/a11710.html#a38ead6b33009083055538fd4f0b7de35">m_lastAttackZone</a> = 0;</div>
-<div class="line"><span class="lineno"> 1417</span>    <a class="code hl_variable" href="../../d0/d20/a11710.html#a7c251f312e332ab60fa6de6e8cf4189d">m_broadcastTimer</a> = 10000;</div>
-<div class="line"><span class="lineno"> 1418</span>    memset(<a class="code hl_variable" href="../../d0/d20/a11710.html#afa0f9b63b3c2111affdf9769ee529d88">m_remaining</a>, 0, <span class="keyword">sizeof</span>(<a class="code hl_variable" href="../../d0/d20/a11710.html#afa0f9b63b3c2111affdf9769ee529d88">m_remaining</a>));</div>
-<div class="line"><span class="lineno"> 1419</span>}</div>
-<div class="ttc" id="aa11710_html_acefb72f28d000395bc1362cd9a62b26a"><div class="ttname"><a href="../../d0/d20/a11710.html#acefb72f28d000395bc1362cd9a62b26a">ScourgeInvasionData::m_siMutex</a></div><div class="ttdeci">std::mutex m_siMutex</div><div class="ttdef"><b>Definition:</b> WorldState.h:202</div></div>
-</div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00198">m_battlesWon</a>, <a class="el" href="../../#l00201">m_broadcastTimer</a>, <a class="el" href="../../#l00199">m_lastAttackZone</a>, <a class="el" href="../../#l00200">m_remaining</a>, <a class="el" href="../../#l00202">m_siMutex</a>, and <a class="el" href="../../#l00197">m_timers</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00049">WorldState::Load()</a>, and <a class="el" href="../../#l01437">WorldState::StopScourgeInvasion()</a>.</p>
+<p>Finds a free payload id in <a class="el" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56" title="The cached payloads that are accessed by payload id.">WardenPayloadMgr::CachedChecks</a>. </p>
+<dl class="section return"><dt>Returns</dt><dd>uint16 The free payload id. Returns 0 if there is no free id. </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">   26</span>{</div>
+<div class="line"><span class="lineno">   27</span>    <a class="code hl_typedef" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> payloadId = <a class="code hl_variable" href="../../d0/d20/a11710.html#a9f7e5a100c56a6ee9a6bd39a792b9e44">WardenPayloadOffsetMin</a>;</div>
+<div class="line"><span class="lineno">   28</span> </div>
+<div class="line"><span class="lineno">   29</span>    <span class="keywordflow">while</span> (<a class="code hl_variable" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56">CachedChecks</a>.find(payloadId) != <a class="code hl_variable" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56">CachedChecks</a>.end())</div>
+<div class="line"><span class="lineno">   30</span>    {</div>
+<div class="line"><span class="lineno">   31</span>        payloadId++;</div>
+<div class="line"><span class="lineno">   32</span> </div>
+<div class="line"><span class="lineno">   33</span>        <span class="keywordflow">if</span> (payloadId &gt; <a class="code hl_variable" href="../../d0/d20/a11710.html#a0a6537e719e9f8f4c371340d0d1b4db7">WardenPayloadMgr::WardenPayloadOffsetMax</a>)</div>
+<div class="line"><span class="lineno">   34</span>        {</div>
+<div class="line"><span class="lineno">   35</span>            <a class="code hl_define" href="../../d9/d32/a04640.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Max warden payload id of &#39;{}&#39; passed!&quot;</span>, <a class="code hl_variable" href="../../d0/d20/a11710.html#a0a6537e719e9f8f4c371340d0d1b4db7">WardenPayloadMgr::WardenPayloadOffsetMax</a>);</div>
+<div class="line"><span class="lineno">   36</span>            <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">   37</span>        }</div>
+<div class="line"><span class="lineno">   38</span>    }</div>
+<div class="line"><span class="lineno">   39</span> </div>
+<div class="line"><span class="lineno">   40</span>    <span class="keywordflow">return</span> payloadId;</div>
+<div class="line"><span class="lineno">   41</span>}</div>
+<div class="ttc" id="aa04310_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
+<div class="ttc" id="aa04640_html_a43832e3fa8508deb4ce43e520005fcd9"><div class="ttname"><a href="../../d9/d32/a04640.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a></div><div class="ttdeci">#define LOG_ERROR(filterType__,...)</div><div class="ttdef"><b>Definition:</b> Log.h:158</div></div>
+<div class="ttc" id="aa11710_html_a0a6537e719e9f8f4c371340d0d1b4db7"><div class="ttname"><a href="../../d0/d20/a11710.html#a0a6537e719e9f8f4c371340d0d1b4db7">WardenPayloadMgr::WardenPayloadOffsetMax</a></div><div class="ttdeci">static uint16 constexpr WardenPayloadOffsetMax</div><div class="ttdoc">The maximum id available for custom payloads.</div><div class="ttdef"><b>Definition:</b> WardenPayloadMgr.h:120</div></div>
+<div class="ttc" id="aa11710_html_a65c6878274bc49b921714278d77eed56"><div class="ttname"><a href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56">WardenPayloadMgr::CachedChecks</a></div><div class="ttdeci">std::map&lt; uint16, WardenCheck &gt; CachedChecks</div><div class="ttdoc">The cached payloads that are accessed by payload id.</div><div class="ttdef"><b>Definition:</b> WardenPayloadMgr.h:135</div></div>
+<div class="ttc" id="aa11710_html_a9f7e5a100c56a6ee9a6bd39a792b9e44"><div class="ttname"><a href="../../d0/d20/a11710.html#a9f7e5a100c56a6ee9a6bd39a792b9e44">WardenPayloadMgr::WardenPayloadOffsetMin</a></div><div class="ttdeci">static uint16 constexpr WardenPayloadOffsetMin</div><div class="ttdoc">The minimum id available for custom payloads.</div><div class="ttdef"><b>Definition:</b> WardenPayloadMgr.h:115</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00135">CachedChecks</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00120">WardenPayloadOffsetMax</a>, and <a class="el" href="../../#l00115">WardenPayloadOffsetMin</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00043">RegisterPayload()</a>.</p>
+
+</div>
+</div>
+<a id="a9f7d7ab2c529b74b67fb363a063ffa27" name="a9f7d7ab2c529b74b67fb363a063ffa27"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9f7d7ab2c529b74b67fb363a063ffa27">&#9670;&#160;</a></span>GetPayloadById()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../dc/d36/a11682.html">WardenCheck</a> * WardenPayloadMgr::GetPayloadById </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>payloadId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Get a payload by id from the <a class="el" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56" title="The cached payloads that are accessed by payload id.">WardenPayloadMgr::CachedChecks</a>. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">payloadId</td><td>The payload to fetched from <a class="el" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56" title="The cached payloads that are accessed by payload id.">WardenPayloadMgr::CachedChecks</a>. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>WardenCheck* A pointer to the <a class="el" href="../../dc/d36/a11682.html">WardenCheck</a> payload. </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">   97</span>{</div>
+<div class="line"><span class="lineno">   98</span>    <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56">CachedChecks</a>.find(payloadId);</div>
+<div class="line"><span class="lineno">   99</span> </div>
+<div class="line"><span class="lineno">  100</span>    <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56">CachedChecks</a>.end())</div>
+<div class="line"><span class="lineno">  101</span>    {</div>
+<div class="line"><span class="lineno">  102</span>        <span class="keywordflow">return</span> &amp;it-&gt;second;</div>
+<div class="line"><span class="lineno">  103</span>    }</div>
+<div class="line"><span class="lineno">  104</span> </div>
+<div class="line"><span class="lineno">  105</span>    <span class="keywordflow">return</span> <span class="keyword">nullptr</span>;</div>
+<div class="line"><span class="lineno">  106</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00135">CachedChecks</a>.</p>
+
+</div>
+</div>
+<a id="ae3878c7264337d646f7a5d503907d7aa" name="ae3878c7264337d646f7a5d503907d7aa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae3878c7264337d646f7a5d503907d7aa">&#9670;&#160;</a></span>GetPayloadCountInQueue()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> WardenPayloadMgr::GetPayloadCountInQueue </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Get the amount of payloads waiting in <a class="el" href="../../d0/d20/a11710.html#a0d473fcc12806a29a6cf191ebd1ec9ff" title="The list of currently queued payload ids to be sent through Warden.">WardenPayloadMgr::QueuedPayloads</a>. </p>
+<dl class="section return"><dt>Returns</dt><dd>The amount of payloads in queue. </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">  143</span>{</div>
+<div class="line"><span class="lineno">  144</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d20/a11710.html#a0d473fcc12806a29a6cf191ebd1ec9ff">QueuedPayloads</a>.size();</div>
+<div class="line"><span class="lineno">  145</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00130">QueuedPayloads</a>.</p>
+
+</div>
+</div>
+<a id="a6b8ed858cc20f8acc0266edbe84b3dfd" name="a6b8ed858cc20f8acc0266edbe84b3dfd"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6b8ed858cc20f8acc0266edbe84b3dfd">&#9670;&#160;</a></span>GetPayloadsInQueue()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::list&lt; <a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> &gt; * WardenPayloadMgr::GetPayloadsInQueue </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Get payloads waiting in <a class="el" href="../../d0/d20/a11710.html#a0d473fcc12806a29a6cf191ebd1ec9ff" title="The list of currently queued payload ids to be sent through Warden.">WardenPayloadMgr::QueuedPayloads</a>. </p>
+<dl class="section return"><dt>Returns</dt><dd>The payloads in queue. </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">  148</span>{</div>
+<div class="line"><span class="lineno">  149</span>    <span class="keywordflow">return</span> &amp;<a class="code hl_variable" href="../../d0/d20/a11710.html#a0d473fcc12806a29a6cf191ebd1ec9ff">QueuedPayloads</a>;</div>
+<div class="line"><span class="lineno">  150</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00130">QueuedPayloads</a>.</p>
+
+</div>
+</div>
+<a id="a36f9cf58fa5c9d34fdac860c3ae692d1" name="a36f9cf58fa5c9d34fdac860c3ae692d1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a36f9cf58fa5c9d34fdac860c3ae692d1">&#9670;&#160;</a></span>QueuePayload()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void WardenPayloadMgr::QueuePayload </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>payloadId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>pushToFront</em> = <code>false</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Queue the payload into the normal warden checks. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">payloadId</td><td>The payloadId to be queued. </td></tr>
+    <tr><td class="paramname">pushToFront</td><td>If payload should be pushed to the front queue. </td></tr>
+  </table>
+  </dd>
+</dl>
+<div class="fragment"><div class="line"><span class="lineno">  109</span>{</div>
+<div class="line"><span class="lineno">  110</span>    <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56">CachedChecks</a>.find(payloadId);</div>
+<div class="line"><span class="lineno">  111</span> </div>
+<div class="line"><span class="lineno">  112</span>    <span class="comment">//Do not queue a payload if there is no payload matching the payloadId.</span></div>
+<div class="line"><span class="lineno">  113</span>    <span class="keywordflow">if</span> (it == <a class="code hl_variable" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56">CachedChecks</a>.end())</div>
+<div class="line"><span class="lineno">  114</span>    {</div>
+<div class="line"><span class="lineno">  115</span>        <a class="code hl_define" href="../../d9/d32/a04640.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Failed to queue payload id &#39;{}&#39; as it does not exist in CachedChecks.&quot;</span>, payloadId);</div>
+<div class="line"><span class="lineno">  116</span>        <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  117</span>    }</div>
+<div class="line"><span class="lineno">  118</span> </div>
+<div class="line"><span class="lineno">  119</span>    <span class="keywordflow">if</span> (pushToFront)</div>
+<div class="line"><span class="lineno">  120</span>    {</div>
+<div class="line"><span class="lineno">  121</span>        <a class="code hl_variable" href="../../d0/d20/a11710.html#a0d473fcc12806a29a6cf191ebd1ec9ff">QueuedPayloads</a>.push_front(payloadId);</div>
+<div class="line"><span class="lineno">  122</span>    }</div>
+<div class="line"><span class="lineno">  123</span>    <span class="keywordflow">else</span></div>
+<div class="line"><span class="lineno">  124</span>    {</div>
+<div class="line"><span class="lineno">  125</span>        <a class="code hl_variable" href="../../d0/d20/a11710.html#a0d473fcc12806a29a6cf191ebd1ec9ff">QueuedPayloads</a>.push_back(payloadId);</div>
+<div class="line"><span class="lineno">  126</span>    }</div>
+<div class="line"><span class="lineno">  127</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00135">CachedChecks</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, and <a class="el" href="../../#l00130">QueuedPayloads</a>.</p>
+
+</div>
+</div>
+<a id="ab3b7d9cbbb94eab430a0caff00448a4a" name="ab3b7d9cbbb94eab430a0caff00448a4a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab3b7d9cbbb94eab430a0caff00448a4a">&#9670;&#160;</a></span>RegisterPayload() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> WardenPayloadMgr::RegisterPayload </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;&#160;</td>
+          <td class="paramname"><em>payload</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Register a payload into cache and returns its payload id. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">payload</td><td>The payload to be stored in <a class="el" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56" title="The cached payloads that are accessed by payload id.">WardenPayloadMgr::CachedChecks</a>. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>uint16 The payload id for use with <a class="el" href="../../d0/d20/a11710.html#a36f9cf58fa5c9d34fdac860c3ae692d1" title="Queue the payload into the normal warden checks.">WardenPayloadMgr::QueuePayload</a>. Returns 0 if it failed to register. </dd></dl>
+<dl class="section note"><dt>Note</dt><dd><ul>
+<li>Payloads are truncated to 512 bytes on the client, you may have to register your payloads in chunks if they are larger than this. </li>
+</ul>
+</dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">   44</span>{</div>
+<div class="line"><span class="lineno">   45</span>    <a class="code hl_typedef" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> payloadId = <a class="code hl_function" href="../../d0/d20/a11710.html#a698b2ab4709a495f299be18b053e4014">GetFreePayloadId</a>();</div>
+<div class="line"><span class="lineno">   46</span> </div>
+<div class="line"><span class="lineno">   47</span>    <span class="keywordflow">if</span> (!payloadId || !<a class="code hl_function" href="../../d0/d20/a11710.html#ab3b7d9cbbb94eab430a0caff00448a4a">RegisterPayload</a>(payload, payloadId, <span class="keyword">false</span>))</div>
+<div class="line"><span class="lineno">   48</span>    {</div>
+<div class="line"><span class="lineno">   49</span>        <a class="code hl_define" href="../../d9/d32/a04640.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Failed to register payload.&quot;</span>);</div>
+<div class="line"><span class="lineno">   50</span>        <span class="keywordflow">return</span> 0;</div>
+<div class="line"><span class="lineno">   51</span>    }</div>
+<div class="line"><span class="lineno">   52</span> </div>
+<div class="line"><span class="lineno">   53</span>    <span class="keywordflow">return</span> payloadId;</div>
+<div class="line"><span class="lineno">   54</span>}</div>
+<div class="ttc" id="aa11710_html_a698b2ab4709a495f299be18b053e4014"><div class="ttname"><a href="../../d0/d20/a11710.html#a698b2ab4709a495f299be18b053e4014">WardenPayloadMgr::GetFreePayloadId</a></div><div class="ttdeci">uint16 GetFreePayloadId()</div><div class="ttdoc">Finds a free payload id in WardenPayloadMgr::CachedChecks.</div><div class="ttdef"><b>Definition:</b> WardenPayloadMgr.cpp:25</div></div>
+<div class="ttc" id="aa11710_html_ab3b7d9cbbb94eab430a0caff00448a4a"><div class="ttname"><a href="../../d0/d20/a11710.html#ab3b7d9cbbb94eab430a0caff00448a4a">WardenPayloadMgr::RegisterPayload</a></div><div class="ttdeci">uint16 RegisterPayload(const std::string &amp;payload)</div><div class="ttdoc">Register a payload into cache and returns its payload id.</div><div class="ttdef"><b>Definition:</b> WardenPayloadMgr.cpp:43</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00025">GetFreePayloadId()</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, and <a class="el" href="../../#l00043">RegisterPayload()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00043">RegisterPayload()</a>.</p>
+
+</div>
+</div>
+<a id="ae2e7a14fe433ed45e94d3e74ba43f579" name="ae2e7a14fe433ed45e94d3e74ba43f579"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae2e7a14fe433ed45e94d3e74ba43f579">&#9670;&#160;</a></span>RegisterPayload() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool WardenPayloadMgr::RegisterPayload </td>
+          <td>(</td>
+          <td class="paramtype">std::string const &amp;&#160;</td>
+          <td class="paramname"><em>payload</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>payloadId</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>replace</em> = <code>false</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Register a payload into cache with a custom id and returns the result. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">payload</td><td>The payload to be stored in <a class="el" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56" title="The cached payloads that are accessed by payload id.">WardenPayloadMgr::CachedChecks</a>. </td></tr>
+    <tr><td class="paramname">payloadId</td><td>The payload id to be stored as the key in <a class="el" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56" title="The cached payloads that are accessed by payload id.">WardenPayloadMgr::CachedChecks</a>. </td></tr>
+    <tr><td class="paramname">replace</td><td>Whether the key should replace an existing entry value. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>bool The payload insertion result. If exists it will return false, otherwise true. </dd></dl>
+<dl class="section note"><dt>Note</dt><dd><ul>
+<li>Payloads are truncated to 512 bytes on the client, you may have to register your payloads in chunks if they are larger than this.</li>
+<li>It's a good idea to keep the value for payloadId between 9000-9999 for self defined payloads as they're the least likely occupied ids. </li>
+</ul>
+</dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">   57</span>{</div>
+<div class="line"><span class="lineno">   58</span>    <span class="comment">//Payload id should be over or equal to the offset to prevent conflicts.</span></div>
+<div class="line"><span class="lineno">   59</span>    <span class="keywordflow">if</span> (payloadId &lt; <a class="code hl_variable" href="../../d0/d20/a11710.html#a9f7e5a100c56a6ee9a6bd39a792b9e44">WardenPayloadMgr::WardenPayloadOffsetMin</a>)</div>
+<div class="line"><span class="lineno">   60</span>    {</div>
+<div class="line"><span class="lineno">   61</span>        <a class="code hl_define" href="../../d9/d32/a04640.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Tried to register payloadId lower than &#39;{}&#39;.&quot;</span>, <a class="code hl_variable" href="../../d0/d20/a11710.html#a9f7e5a100c56a6ee9a6bd39a792b9e44">WardenPayloadMgr::WardenPayloadOffsetMin</a>);</div>
+<div class="line"><span class="lineno">   62</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   63</span>    }</div>
+<div class="line"><span class="lineno">   64</span> </div>
+<div class="line"><span class="lineno">   65</span>    <span class="keyword">auto</span> it = <a class="code hl_variable" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56">CachedChecks</a>.find(payloadId);</div>
+<div class="line"><span class="lineno">   66</span>    <span class="keywordflow">if</span> (it != <a class="code hl_variable" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56">CachedChecks</a>.end() &amp;&amp; !replace)</div>
+<div class="line"><span class="lineno">   67</span>    {</div>
+<div class="line"><span class="lineno">   68</span>        <a class="code hl_define" href="../../d9/d32/a04640.html#a43832e3fa8508deb4ce43e520005fcd9">LOG_ERROR</a>(<span class="stringliteral">&quot;warden&quot;</span>, <span class="stringliteral">&quot;Payload Id &#39;{}&#39; already exists in CachedChecks.&quot;</span>, payloadId);</div>
+<div class="line"><span class="lineno">   69</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">   70</span>    }</div>
+<div class="line"><span class="lineno">   71</span> </div>
+<div class="line"><span class="lineno">   72</span>    <a class="code hl_struct" href="../../dc/d36/a11682.html">WardenCheck</a> wCheck;</div>
+<div class="line"><span class="lineno">   73</span>    wCheck.<a class="code hl_variable" href="../../dc/d36/a11682.html#aca31cdb700dca4801dfa514812639c70">Type</a> = <a class="code hl_variable" href="../../d0/d20/a11710.html#a5d6853734e30d11fce42dfeeb3a06c22">WardenPayloadMgr::WardenPayloadCheckType</a>;</div>
+<div class="line"><span class="lineno">   74</span>    wCheck.<a class="code hl_variable" href="../../dc/d36/a11682.html#a1fc1eba87b344d4681498aafcaa496cb">Str</a> = payload;</div>
+<div class="line"><span class="lineno">   75</span>    wCheck.<a class="code hl_variable" href="../../dc/d36/a11682.html#a51a0cea0381f2b64e9d240ac39591172">CheckId</a> = payloadId;</div>
+<div class="line"><span class="lineno">   76</span> </div>
+<div class="line"><span class="lineno">   77</span>    std::string idStr = <a class="code hl_function" href="../../d0/d6d/a04809.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a>(<span class="stringliteral">&quot;{:04}&quot;</span>, payloadId);</div>
+<div class="line"><span class="lineno">   78</span>    <a class="code hl_define" href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a>(idStr.size() == 4);</div>
+<div class="line"><span class="lineno">   79</span>    std::copy(idStr.begin(), idStr.end(), wCheck.<a class="code hl_variable" href="../../dc/d36/a11682.html#a15ecbc1a6582666a14423fa157d2fb84">IdStr</a>.begin());</div>
+<div class="line"><span class="lineno">   80</span> </div>
+<div class="line"><span class="lineno">   81</span>    <span class="keywordflow">if</span> (replace)</div>
+<div class="line"><span class="lineno">   82</span>    {</div>
+<div class="line"><span class="lineno">   83</span>        <a class="code hl_variable" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56">CachedChecks</a>.erase(payloadId);</div>
+<div class="line"><span class="lineno">   84</span>    }</div>
+<div class="line"><span class="lineno">   85</span> </div>
+<div class="line"><span class="lineno">   86</span>    <a class="code hl_variable" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56">CachedChecks</a>.emplace(payloadId, wCheck);</div>
+<div class="line"><span class="lineno">   87</span> </div>
+<div class="line"><span class="lineno">   88</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">   89</span>}</div>
+<div class="ttc" id="aa04547_html_af343b20373ba49a92fce523e948f2ab3"><div class="ttname"><a href="../../d0/da8/a04547.html#af343b20373ba49a92fce523e948f2ab3">ASSERT</a></div><div class="ttdeci">#define ASSERT</div><div class="ttdef"><b>Definition:</b> Errors.h:68</div></div>
+<div class="ttc" id="aa04809_html_a868406b9609960d4ae0189588c8cbbf4"><div class="ttname"><a href="../../d0/d6d/a04809.html#a868406b9609960d4ae0189588c8cbbf4">Acore::StringFormat</a></div><div class="ttdeci">std::string StringFormat(FormatString&lt; Args... &gt; fmt, Args &amp;&amp;... args)</div><div class="ttdoc">Default AC string format function.</div><div class="ttdef"><b>Definition:</b> StringFormat.h:34</div></div>
+<div class="ttc" id="aa11682_html"><div class="ttname"><a href="../../dc/d36/a11682.html">WardenCheck</a></div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:44</div></div>
+<div class="ttc" id="aa11682_html_a15ecbc1a6582666a14423fa157d2fb84"><div class="ttname"><a href="../../dc/d36/a11682.html#a15ecbc1a6582666a14423fa157d2fb84">WardenCheck::IdStr</a></div><div class="ttdeci">std::array&lt; char, 4 &gt; IdStr</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:52</div></div>
+<div class="ttc" id="aa11682_html_a1fc1eba87b344d4681498aafcaa496cb"><div class="ttname"><a href="../../dc/d36/a11682.html#a1fc1eba87b344d4681498aafcaa496cb">WardenCheck::Str</a></div><div class="ttdeci">std::string Str</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:49</div></div>
+<div class="ttc" id="aa11682_html_a51a0cea0381f2b64e9d240ac39591172"><div class="ttname"><a href="../../dc/d36/a11682.html#a51a0cea0381f2b64e9d240ac39591172">WardenCheck::CheckId</a></div><div class="ttdeci">uint16 CheckId</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:51</div></div>
+<div class="ttc" id="aa11682_html_aca31cdb700dca4801dfa514812639c70"><div class="ttname"><a href="../../dc/d36/a11682.html#aca31cdb700dca4801dfa514812639c70">WardenCheck::Type</a></div><div class="ttdeci">uint8 Type</div><div class="ttdef"><b>Definition:</b> WardenCheckMgr.h:45</div></div>
+<div class="ttc" id="aa11710_html_a5d6853734e30d11fce42dfeeb3a06c22"><div class="ttname"><a href="../../d0/d20/a11710.html#a5d6853734e30d11fce42dfeeb3a06c22">WardenPayloadMgr::WardenPayloadCheckType</a></div><div class="ttdeci">static uint32 constexpr WardenPayloadCheckType</div><div class="ttdoc">The checktype used for warden payloads.</div><div class="ttdef"><b>Definition:</b> WardenPayloadMgr.h:125</div></div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00068">ASSERT</a>, <a class="el" href="../../#l00135">CachedChecks</a>, <a class="el" href="../../#l00051">WardenCheck::CheckId</a>, <a class="el" href="../../#l00052">WardenCheck::IdStr</a>, <a class="el" href="../../#l00158">LOG_ERROR</a>, <a class="el" href="../../#l00049">WardenCheck::Str</a>, <a class="el" href="../../#l00034">Acore::StringFormat()</a>, <a class="el" href="../../#l00045">WardenCheck::Type</a>, <a class="el" href="../../#l00125">WardenPayloadCheckType</a>, and <a class="el" href="../../#l00115">WardenPayloadOffsetMin</a>.</p>
+
+</div>
+</div>
+<a id="a97d5b53d0e1fd42663ad673b31fe4fab" name="a97d5b53d0e1fd42663ad673b31fe4fab"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a97d5b53d0e1fd42663ad673b31fe4fab">&#9670;&#160;</a></span>UnregisterPayload()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool WardenPayloadMgr::UnregisterPayload </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&#160;</td>
+          <td class="paramname"><em>payloadId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Unregister a payload from cache and return if successful. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">payloadId</td><td>The payload to removed from <a class="el" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56" title="The cached payloads that are accessed by payload id.">WardenPayloadMgr::CachedChecks</a>. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>bool If the payloadId was present. </dd></dl>
+<div class="fragment"><div class="line"><span class="lineno">   92</span>{</div>
+<div class="line"><span class="lineno">   93</span>    <span class="keywordflow">return</span> <a class="code hl_variable" href="../../d0/d20/a11710.html#a65c6878274bc49b921714278d77eed56">CachedChecks</a>.erase(payloadId);</div>
+<div class="line"><span class="lineno">   94</span>}</div>
+</div><!-- fragment -->
+<p class="reference">References <a class="el" href="../../#l00135">CachedChecks</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Data Documentation</h2>
-<a id="af98aea31bf9c878adf2870890911282f" name="af98aea31bf9c878adf2870890911282f"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af98aea31bf9c878adf2870890911282f">&#9670;&#160;</a></span>m_activeInvasions</h2>
+<a id="a65c6878274bc49b921714278d77eed56" name="a65c6878274bc49b921714278d77eed56"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a65c6878274bc49b921714278d77eed56">&#9670;&#160;</a></span>CachedChecks</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::map&lt;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d9/dc8/a11714.html">InvasionZone</a>&gt; ScourgeInvasionData::m_activeInvasions</td>
+          <td class="memname">std::map&lt;<a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>, <a class="el" href="../../dc/d36/a11682.html">WardenCheck</a>&gt; WardenPayloadMgr::CachedChecks</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01914">WorldState::GetActiveZones()</a>, <a class="el" href="../../#l01790">WorldState::HandleActiveZone()</a>, <a class="el" href="../../#l01321">ScourgeInvasionData()</a>, <a class="el" href="../../#l01846">WorldState::SetMouthGuid()</a>, <a class="el" href="../../#l01638">WorldState::StartNewInvasion()</a>, <a class="el" href="../../#l01290">WorldState::StartScourgeInvasion()</a>, <a class="el" href="../../#l01437">WorldState::StopScourgeInvasion()</a>, and <a class="el" href="../../#l00305">WorldState::Update()</a>.</p>
+<p>The cached payloads that are accessed by payload id. </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00025">GetFreePayloadId()</a>, <a class="el" href="../../#l00096">GetPayloadById()</a>, <a class="el" href="../../#l00563">WardenWin::HandleData()</a>, <a class="el" href="../../#l00108">QueuePayload()</a>, <a class="el" href="../../#l00056">RegisterPayload()</a>, <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>, and <a class="el" href="../../#l00091">UnregisterPayload()</a>.</p>
 
 </div>
 </div>
-<a id="aea7079c6f876188857219c574ca0798d" name="aea7079c6f876188857219c574ca0798d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aea7079c6f876188857219c574ca0798d">&#9670;&#160;</a></span>m_battlesWon</h2>
+<a id="a0d473fcc12806a29a6cf191ebd1ec9ff" name="a0d473fcc12806a29a6cf191ebd1ec9ff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0d473fcc12806a29a6cf191ebd1ec9ff">&#9670;&#160;</a></span>QueuedPayloads</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ScourgeInvasionData::m_battlesWon</td>
+          <td class="memname">std::list&lt;<a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a>&gt; WardenPayloadMgr::QueuedPayloads</td>
         </tr>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01504">WorldState::AddBattlesWon()</a>, <a class="el" href="../../#l01498">WorldState::GetBattlesWon()</a>, <a class="el" href="../../#l01421">GetData()</a>, <a class="el" href="../../#l01039">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l01568">WorldState::HandleDefendedZones()</a>, <a class="el" href="../../#l00049">WorldState::Load()</a>, and <a class="el" href="../../#l01409">Reset()</a>.</p>
+<p>The list of currently queued payload ids to be sent through <a class="el" href="../../dc/d76/a11678.html">Warden</a>. </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00137">ClearQueuedPayloads()</a>, <a class="el" href="../../#l00129">DequeuePayload()</a>, <a class="el" href="../../#l00142">GetPayloadCountInQueue()</a>, <a class="el" href="../../#l00147">GetPayloadsInQueue()</a>, <a class="el" href="../../#l00108">QueuePayload()</a>, and <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
 
 </div>
 </div>
-<a id="a7c251f312e332ab60fa6de6e8cf4189d" name="a7c251f312e332ab60fa6de6e8cf4189d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a7c251f312e332ab60fa6de6e8cf4189d">&#9670;&#160;</a></span>m_broadcastTimer</h2>
+<a id="a5d6853734e30d11fce42dfeeb3a06c22" name="a5d6853734e30d11fce42dfeeb3a06c22"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5d6853734e30d11fce42dfeeb3a06c22">&#9670;&#160;</a></span>WardenPayloadCheckType</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#ac4dd6ce78ce3b840c53bd4b3c63ed09b">uint64</a> ScourgeInvasionData::m_broadcastTimer</td>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> constexpr WardenPayloadMgr::WardenPayloadCheckType = 139</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01409">Reset()</a>, and <a class="el" href="../../#l00305">WorldState::Update()</a>.</p>
+<p>The checktype used for warden payloads. </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00056">RegisterPayload()</a>.</p>
 
 </div>
 </div>
-<a id="a70127135568b3a439f040697f1dc525c" name="a70127135568b3a439f040697f1dc525c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a70127135568b3a439f040697f1dc525c">&#9670;&#160;</a></span>m_cityAttacks</h2>
+<a id="a0a6537e719e9f8f4c371340d0d1b4db7" name="a0a6537e719e9f8f4c371340d0d1b4db7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0a6537e719e9f8f4c371340d0d1b4db7">&#9670;&#160;</a></span>WardenPayloadOffsetMax</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::map&lt;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>, <a class="el" href="../../d6/dac/a11718.html">CityAttack</a>&gt; ScourgeInvasionData::m_cityAttacks</td>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> constexpr WardenPayloadMgr::WardenPayloadOffsetMax = 9999</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01321">ScourgeInvasionData()</a>, <a class="el" href="../../#l01841">WorldState::SetPallidGuid()</a>, <a class="el" href="../../#l01680">WorldState::StartNewCityAttack()</a>, <a class="el" href="../../#l01290">WorldState::StartScourgeInvasion()</a>, <a class="el" href="../../#l01437">WorldState::StopScourgeInvasion()</a>, and <a class="el" href="../../#l00305">WorldState::Update()</a>.</p>
+<p>The maximum id available for custom payloads. </p>
+
+<p class="reference">Referenced by <a class="el" href="../../#l00025">GetFreePayloadId()</a>.</p>
 
 </div>
 </div>
-<a id="a38ead6b33009083055538fd4f0b7de35" name="a38ead6b33009083055538fd4f0b7de35"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a38ead6b33009083055538fd4f0b7de35">&#9670;&#160;</a></span>m_lastAttackZone</h2>
+<a id="a9f7e5a100c56a6ee9a6bd39a792b9e44" name="a9f7e5a100c56a6ee9a6bd39a792b9e44"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9f7e5a100c56a6ee9a6bd39a792b9e44">&#9670;&#160;</a></span>WardenPayloadOffsetMin</h2>
 
 <div class="memitem">
 <div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ScourgeInvasionData::m_lastAttackZone</td>
+          <td class="memname"><a class="el" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> constexpr WardenPayloadMgr::WardenPayloadOffsetMin = 5000</td>
         </tr>
       </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span><span class="mlabel">constexpr</span></span>  </td>
+  </tr>
+</table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l01421">GetData()</a>, <a class="el" href="../../#l01512">WorldState::GetLastAttackZone()</a>, <a class="el" href="../../#l01039">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l00049">WorldState::Load()</a>, <a class="el" href="../../#l01409">Reset()</a>, and <a class="el" href="../../#l01518">WorldState::SetLastAttackZone()</a>.</p>
+<p>The minimum id available for custom payloads. </p>
 
-</div>
-</div>
-<a id="af62efb05ce49a3cb764328976f8054f6" name="af62efb05ce49a3cb764328976f8054f6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af62efb05ce49a3cb764328976f8054f6">&#9670;&#160;</a></span>m_pendingInvasions</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::set&lt;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; ScourgeInvasionData::m_pendingInvasions</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01851">WorldState::AddPendingInvasion()</a>, <a class="el" href="../../#l01914">WorldState::GetActiveZones()</a>, and <a class="el" href="../../#l01857">WorldState::RemovePendingInvasion()</a>.</p>
-
-</div>
-</div>
-<a id="a2a2f610d9c398bc82f4e39eea4fbadfc" name="a2a2f610d9c398bc82f4e39eea4fbadfc"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a2a2f610d9c398bc82f4e39eea4fbadfc">&#9670;&#160;</a></span>m_pendingPallids</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::set&lt;<a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>&gt; ScourgeInvasionData::m_pendingPallids</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01863">WorldState::AddPendingPallid()</a>, <a class="el" href="../../#l01869">WorldState::RemovePendingPallid()</a>, and <a class="el" href="../../#l01680">WorldState::StartNewCityAttack()</a>.</p>
-
-</div>
-</div>
-<a id="afa0f9b63b3c2111affdf9769ee529d88" name="afa0f9b63b3c2111affdf9769ee529d88"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#afa0f9b63b3c2111affdf9769ee529d88">&#9670;&#160;</a></span>m_remaining</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d61/a00302.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> ScourgeInvasionData::m_remaining[<a class="el" href="../../d0/d08/a02936.html#a3fb19d2d868c1633a094f84570f4a6eea0abbcd0daa00c858c12ab1824d026514">SI_REMAINING_MAX</a>]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01421">GetData()</a>, <a class="el" href="../../#l01039">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l01458">WorldState::GetSIRemaining()</a>, <a class="el" href="../../#l00049">WorldState::Load()</a>, <a class="el" href="../../#l01409">Reset()</a>, and <a class="el" href="../../#l01481">WorldState::SetSIRemaining()</a>.</p>
-
-</div>
-</div>
-<a id="acefb72f28d000395bc1362cd9a62b26a" name="acefb72f28d000395bc1362cd9a62b26a"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acefb72f28d000395bc1362cd9a62b26a">&#9670;&#160;</a></span>m_siMutex</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">std::mutex ScourgeInvasionData::m_siMutex</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01504">WorldState::AddBattlesWon()</a>, <a class="el" href="../../#l01851">WorldState::AddPendingInvasion()</a>, <a class="el" href="../../#l01863">WorldState::AddPendingPallid()</a>, <a class="el" href="../../#l01498">WorldState::GetBattlesWon()</a>, <a class="el" href="../../#l01512">WorldState::GetLastAttackZone()</a>, <a class="el" href="../../#l01039">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l01857">WorldState::RemovePendingInvasion()</a>, <a class="el" href="../../#l01869">WorldState::RemovePendingPallid()</a>, <a class="el" href="../../#l01409">Reset()</a>, <a class="el" href="../../#l01518">WorldState::SetLastAttackZone()</a>, and <a class="el" href="../../#l01481">WorldState::SetSIRemaining()</a>.</p>
-
-</div>
-</div>
-<a id="acb26a954f14aec654513b16e5e53cad8" name="acb26a954f14aec654513b16e5e53cad8"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#acb26a954f14aec654513b16e5e53cad8">&#9670;&#160;</a></span>m_state</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d0/d08/a02936.html#aecf9527110a7255a02e5f9add33dd690">SIState</a> ScourgeInvasionData::m_state</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01951">WorldState::FillInitialWorldStates()</a>, <a class="el" href="../../#l01421">GetData()</a>, <a class="el" href="../../#l01039">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l00049">WorldState::Load()</a>, <a class="el" href="../../#l01248">WorldState::SetScourgeInvasionState()</a>, <a class="el" href="../../#l01290">WorldState::StartScourgeInvasion()</a>, and <a class="el" href="../../#l00305">WorldState::Update()</a>.</p>
-
-</div>
-</div>
-<a id="a06375cf97a023be4f3fff94cc43405a9" name="a06375cf97a023be4f3fff94cc43405a9"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a06375cf97a023be4f3fff94cc43405a9">&#9670;&#160;</a></span>m_timers</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="../../d7/d06/a00131.html#ae5ca775e8d8c664b6edef818ce1251b9">TimePoint</a> ScourgeInvasionData::m_timers[<a class="el" href="../../d0/d08/a02936.html#a785ea701ad6ed657955501468a40e99ea7191361d832875bb172d35d73e709fc8">SI_TIMER_MAX</a>]</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="../../#l01421">GetData()</a>, <a class="el" href="../../#l01039">WorldState::GetScourgeInvasionPrintout()</a>, <a class="el" href="../../#l01488">WorldState::GetSITimer()</a>, <a class="el" href="../../#l00049">WorldState::Load()</a>, <a class="el" href="../../#l01409">Reset()</a>, and <a class="el" href="../../#l01493">WorldState::SetSITimer()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00058">GetCheckPacketSize()</a>, <a class="el" href="../../#l00025">GetFreePayloadId()</a>, <a class="el" href="../../#l00563">WardenWin::HandleData()</a>, <a class="el" href="../../#l00056">RegisterPayload()</a>, and <a class="el" href="../../#l00277">WardenWin::RequestChecks()</a>.</p>
 
 </div>
 </div>
@@ -541,8 +747,8 @@ Public Attributes</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="../../d0/d20/a11710.html">ScourgeInvasionData</a></li>
-    <li class="footer">Generated on Mon Sep 22 2025 20:45:52 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="navelem"><a class="el" href="../../d0/d20/a11710.html">WardenPayloadMgr</a></li>
+    <li class="footer">Generated on Mon Dec 1 2025 20:48:21 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

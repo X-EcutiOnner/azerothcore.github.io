@@ -1,6 +1,14 @@
 var a27926 =
 [
-    [ "npc_necropolis_relay", "d3/df5/a27926.html#a044958acd1449d664532aeea7d0cb2fd", null ],
-    [ "SpellHit", "d3/df5/a27926.html#a45fdef0f86f18b87b90d2b4f9c0df9cb", null ],
-    [ "SpellHitTarget", "d3/df5/a27926.html#a1968d3537de2bdb9d4786cc96d2c346c", null ]
+    [ "FlameshockerCheck", "d6/dcf/a27930.html", "d6/dcf/a27930" ],
+    [ "npc_pallid_horror", "d3/df5/a27926.html#ae43fa737cdc303d68f34ac2fbb356814", null ],
+    [ "CorpseRemoved", "d3/df5/a27926.html#a700af3062528a6c41f7f0985f1820b36", null ],
+    [ "InitializeAI", "d3/df5/a27926.html#a2711bdb05ad74a4d0425b4f61dcddab4", null ],
+    [ "JustDied", "d3/df5/a27926.html#a6145be6ed4a56ec8f8e923187ceea47c", null ],
+    [ "JustSummoned", "d3/df5/a27926.html#a801e04d47de8d86dcfbfa552de54cd0f", null ],
+    [ "ScheduleTasks", "d3/df5/a27926.html#aa9e851cb55238bb4cf6c1e7a9d309c20", null ],
+    [ "SummonFlameshockers", "d3/df5/a27926.html#afc2625ef0ddae00fd14d3dbf7952b0cf", null ],
+    [ "UpdateAI", "d3/df5/a27926.html#a701b52b2977017c692368a5d363dd6bd", null ],
+    [ "UpdateWeather", "d3/df5/a27926.html#ac9c5b8d4274e443f4c74b2b40aa5830f", null ],
+    [ "_summons", "d3/df5/a27926.html#a0948ef0c5971a8b6ffee2269d8bca3a6", null ]
 ];

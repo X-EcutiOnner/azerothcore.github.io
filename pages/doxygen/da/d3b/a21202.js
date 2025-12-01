@@ -1,6 +1,10 @@
 var a21202 =
 [
-    [ "achievement_yogg_saron_darkness", "da/d3b/a21202.html#a536c7156305d47c41a062d3c1a1b16eb", null ],
-    [ "OnCheck", "da/d3b/a21202.html#a809902fca87abaeb4334132763624ed6", null ],
-    [ "_keepersCount", "da/d3b/a21202.html#a765ec4606bb489760ed1e15db10de1dc", null ]
+    [ "npc_ulduar_snow_mound", "da/d3b/a21202.html#a3f66ad92d616050bb67cb1a5e33ffa74", null ],
+    [ "MoveInLineOfSight", "da/d3b/a21202.html#ae5a09062d87aa1c0d446310df2ddd621", null ],
+    [ "UpdateAI", "da/d3b/a21202.html#a9d18fdaf83a2cfeea9b3ac6adbbd2687", null ],
+    [ "_activated", "da/d3b/a21202.html#ac48f6985d857276e0e59c2a429f5b359", null ],
+    [ "_count", "da/d3b/a21202.html#a1856c3bba24842f33720a83e1de40421", null ],
+    [ "_counter", "da/d3b/a21202.html#aca94a744c23b7f9771c728997ba4b8f3", null ],
+    [ "_scheduler", "da/d3b/a21202.html#aafe42af9ba1402cad91326eb1037e476", null ]
 ];

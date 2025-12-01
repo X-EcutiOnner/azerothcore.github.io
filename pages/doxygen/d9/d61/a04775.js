@@ -1,9 +1,8 @@
 var a04775 =
 [
-    [ "TEST", "d9/d61/a04775.html#a7a11632378897367b979b12423a3f5dd", null ],
-    [ "TEST", "d9/d61/a04775.html#ac23831b7258f696b9e9a4972c42b5a4c", null ],
-    [ "TEST", "d9/d61/a04775.html#a5fcf85473a490662471938a1f773d6e2", null ],
-    [ "TEST", "d9/d61/a04775.html#a8ffadf8c8dbffb858cf2a925473d6bff", null ],
-    [ "TEST", "d9/d61/a04775.html#a23ac78cb09ef0a7b924b271ffefbc6a9", null ],
-    [ "TEST", "d9/d61/a04775.html#a9b7a926251db0fa2bd2678cee360e161", null ]
+    [ "CleanStringForMysqlQuery", "d9/d61/a04775.html#a4750695bf6f728da1b0356af3ddaabc9", null ],
+    [ "GetLocaleByName", "d9/d61/a04775.html#a8051d28826d995169bd4ce60310d5d65", null ],
+    [ "GetNameByLocaleConstant", "d9/d61/a04775.html#a3a6dbe16dbe45905c1f3aabc858c1fe1", null ],
+    [ "IsLocaleValid", "d9/d61/a04775.html#ac2f3763b8ee770808af7ecec42dfaa76", null ],
+    [ "localeNames", "d9/d61/a04775.html#a32b3de4eb98b686cc6472385a449e4e9", null ]
 ];

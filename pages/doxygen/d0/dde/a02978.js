@@ -1,16 +1,18 @@
 var a02978 =
 [
-    [ "npc_attracted_reef_bull", "d8/daf/a22148.html", "d8/daf/a22148" ],
-    [ "npc_attracted_reef_bull::npc_attracted_reef_bullAI", "dd/d1c/a22152.html", "dd/d1c/a22152" ],
-    [ "npc_your_inner_turmoil", "d6/dda/a22156.html", "d6/dda/a22156" ],
-    [ "npc_your_inner_turmoil::npc_your_inner_turmoilAI", "d4/dbe/a22160.html", "d4/dbe/a22160" ],
-    [ "npc_apothecary_hanes", "df/d03/a22164.html", "df/d03/a22164" ],
-    [ "npc_apothecary_hanes::npc_Apothecary_HanesAI", "db/d02/a22168.html", "db/d02/a22168" ],
-    [ "npc_plaguehound_tracker", "d8/de2/a22172.html", "d8/de2/a22172" ],
-    [ "npc_plaguehound_tracker::npc_plaguehound_trackerAI", "d5/d70/a22176.html", "d5/d70/a22176" ],
-    [ "npc_razael_and_lyana", "dc/d0e/a22180.html", "dc/d0e/a22180" ],
-    [ "npc_rodin_lightning_enabler", "d6/d9d/a22184.html", "d6/d9d/a22184" ],
-    [ "spell_hawk_hunting", "de/db8/a22188.html", "de/db8/a22188" ],
+    [ "npc_attracted_reef_bull", "d0/dbb/a22154.html", "d0/dbb/a22154" ],
+    [ "npc_attracted_reef_bull::npc_attracted_reef_bullAI", "d0/d19/a22158.html", "d0/d19/a22158" ],
+    [ "npc_apothecary_hanes", "db/da8/a22162.html", "db/da8/a22162" ],
+    [ "npc_apothecary_hanes::npc_Apothecary_HanesAI", "da/dde/a22166.html", "da/dde/a22166" ],
+    [ "npc_plaguehound_tracker", "dc/d99/a22170.html", "dc/d99/a22170" ],
+    [ "npc_plaguehound_tracker::npc_plaguehound_trackerAI", "d2/df6/a22174.html", "d2/df6/a22174" ],
+    [ "npc_razael_and_lyana", "d9/d90/a22178.html", "d9/d90/a22178" ],
+    [ "npc_rodin_lightning_enabler", "d5/dd3/a22182.html", "d5/dd3/a22182" ],
+    [ "spell_hawk_hunting", "d0/dfc/a22186.html", "d0/dfc/a22186" ],
+    [ "spell_the_cleansing_shrine_cast", "de/d50/a22190.html", "de/d50/a22190" ],
+    [ "spell_the_cleansing_cleansing_soul", "da/dbe/a22194.html", "da/dbe/a22194" ],
+    [ "spell_the_cleansing_mirror_image_script_effect", "d8/d61/a22198.html", "d8/d61/a22198" ],
+    [ "spell_the_cleansing_on_death_cast_on_master", "d6/db4/a22202.html", "d6/db4/a22202" ],
     [ "Entries", "d0/dde/a02978.html#a06de533fb3e7ec530f0493022ad98889", [
       [ "NPC_APOTHECARY_HANES", "d0/dde/a02978.html#a06de533fb3e7ec530f0493022ad98889acf2750295b6eec6dd126edd3e314b704", null ],
       [ "NPC_HANES_FIRE_TRIGGER", "d0/dde/a02978.html#a06de533fb3e7ec530f0493022ad98889a1d184f3197ea2249507f226925f86d51", null ],
@@ -35,11 +37,13 @@ var a02978 =
       [ "SPELL_RODIN_LIGHTNING_END", "d0/dde/a02978.html#a80e7ba946308fea1c6de5c21365652f3ab99cec97c6cf09d8ae5863d97e4c1632", null ],
       [ "NPC_RODIN", "d0/dde/a02978.html#a80e7ba946308fea1c6de5c21365652f3adc9bd59249c9654d416ff92475586895", null ]
     ] ],
-    [ "TurmoilTexts", "d0/dde/a02978.html#ae01e16ebe34a24a598f4b4fb26dbf919", [
-      [ "SAY_TURMOIL_0", "d0/dde/a02978.html#ae01e16ebe34a24a598f4b4fb26dbf919a942b14a6948f52ce8970c678198ca200", null ],
-      [ "SAY_TURMOIL_1", "d0/dde/a02978.html#ae01e16ebe34a24a598f4b4fb26dbf919a552b3da685e5d5c0ee068936387378c8", null ],
-      [ "SAY_TURMOIL_HALF_HP", "d0/dde/a02978.html#ae01e16ebe34a24a598f4b4fb26dbf919a378c2c631bf845c1710a9d8cc64a2541", null ],
-      [ "SAY_TURMOIL_DEATH", "d0/dde/a02978.html#ae01e16ebe34a24a598f4b4fb26dbf919ae008192ae78fbdcce408850140f26eb8", null ]
+    [ "TheCleansing", "d0/dde/a02978.html#a72e1fc2fb7f2d445c9e22195c32dfe0c", [
+      [ "SPELL_CLEANSING_SOUL", "d0/dde/a02978.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca85c707f1dd04c7a7bcbd939bf09f2bf1", null ],
+      [ "SPELL_SUMMON_INNER_TURMOIL", "d0/dde/a02978.html#a72e1fc2fb7f2d445c9e22195c32dfe0cafcb3e66b7b65655d2b2ee1e97b205073", null ],
+      [ "SPELL_RECENT_MEDITATION", "d0/dde/a02978.html#a72e1fc2fb7f2d445c9e22195c32dfe0cafd95316ce2b15dfc3e7150a2cb09a7c1", null ],
+      [ "SPELL_MIRROR_IMAGE_AURA", "d0/dde/a02978.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca97f96c604fb7a22850a56756fe3b176a", null ],
+      [ "QUEST_THE_CLEANSING_H", "d0/dde/a02978.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca8986a58dfd3cb3e376200de1039e6529", null ],
+      [ "QUEST_THE_CLEANSING_A", "d0/dde/a02978.html#a72e1fc2fb7f2d445c9e22195c32dfe0ca7b3fd5b03fd32aeda7f996691764daa7", null ]
     ] ],
     [ "AddSC_howling_fjord", "d0/dde/a02978.html#a1f2f485d0649e510913e07a28b6082a5", null ]
 ];

@@ -1,13 +1,7 @@
 var a23398 =
 [
-    [ "npc_inner_demon", "d2/d7c/a23398.html#a12063a0125e0e9b5ba5a73f669bfcd84", null ],
-    [ "CanAIAttack", "d2/d7c/a23398.html#a7498fd32b0ace832b38dc624d07478ed", null ],
-    [ "CanBeSeen", "d2/d7c/a23398.html#a5e61d5fc45bf95efaa06f81df58b5fab", null ],
-    [ "CanReceiveDamage", "d2/d7c/a23398.html#a7b0bc55f8dfbba2dc3a3b7d314083bc2", null ],
-    [ "IsSummonedBy", "d2/d7c/a23398.html#a5ed405dd9315cb255d14d3e5f808dc9d", null ],
-    [ "JustDied", "d2/d7c/a23398.html#a15ab3cd6576055ec7ba29a5ed44e73db", null ],
-    [ "OnCalculateMeleeDamageReceived", "d2/d7c/a23398.html#ae95022548b44b23ef93fae24729b5af5", null ],
-    [ "OnCalculatePeriodicTickReceived", "d2/d7c/a23398.html#a546281a2257d0407d294fba1f7d3426f", null ],
-    [ "OnCalculateSpellDamageReceived", "d2/d7c/a23398.html#aa40ee81a4456e1a1f7254d2169f50e88", null ],
-    [ "UpdateAI", "d2/d7c/a23398.html#a977a76b54c4eae6461559d7b15cfc4b2", null ]
+    [ "FilterTargets", "d2/d7c/a23398.html#adb8581b4b92aa49eda8f531e6d6de1ea", null ],
+    [ "HandleDummy", "d2/d7c/a23398.html#a2fe7441bd9753cb912d11f8d36632f44", null ],
+    [ "PrepareSpellScript", "d2/d7c/a23398.html#ae7714acbe0a08781e3bc297847c47870", null ],
+    [ "Register", "d2/d7c/a23398.html#ade51d4cb00b63c46582c7a5e6e031e9d", null ]
 ];

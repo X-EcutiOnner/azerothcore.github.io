@@ -1,10 +1,15 @@
 var a09606 =
 [
-    [ "PlayerMoveItemData", "db/d36/a09606.html#a2f707719b409975ddd3023d2239403d6", null ],
-    [ "CanStore", "db/d36/a09606.html#a00680db86d45ad8e8652218fce05139d", null ],
-    [ "InitItem", "db/d36/a09606.html#a34298fd6ac20ab0e02c6350dcc5a4d33", null ],
-    [ "IsBank", "db/d36/a09606.html#ae4d45104dccf78581b4228a31fe192ad", null ],
-    [ "LogBankEvent", "db/d36/a09606.html#a36516c5ca1aaa13afa9e61831a175068", null ],
-    [ "RemoveItem", "db/d36/a09606.html#a482460f04b20349e909bac36f893a35a", null ],
-    [ "StoreItem", "db/d36/a09606.html#a017e3bd414548e66f980587e81e598e5", null ]
+    [ "LogHolder", "db/d36/a09606.html#a3432ee2f32857bd02e75fdb5ba922bd1", null ],
+    [ "AddEvent", "db/d36/a09606.html#a5f6d81d9048290815053bb4aa3531d73", null ],
+    [ "CanInsert", "db/d36/a09606.html#aefdb4e57b5bf35b00564491547e6e2a9", null ],
+    [ "GetGuildId", "db/d36/a09606.html#ada98449548b389a1cd8177087e3aa5e8", null ],
+    [ "GetGuildLog", "db/d36/a09606.html#a17593c12663e8c4251f94636e511c73a", null ],
+    [ "GetGuildLog", "db/d36/a09606.html#ae43929001324d6bece4e45bc95115535", null ],
+    [ "GetNextGUID", "db/d36/a09606.html#aed00250b6a1036a91dd971af510f7750", null ],
+    [ "LoadEvent", "db/d36/a09606.html#a22e87750252d1c4f62f2e5686a2e008d", null ],
+    [ "m_guildId", "db/d36/a09606.html#a3827f9fb3fc13300f60d9f7dd27154c7", null ],
+    [ "m_log", "db/d36/a09606.html#aca25adbc1c1e9397c837a53793568b64", null ],
+    [ "m_maxRecords", "db/d36/a09606.html#a755788eaede72a131f74ae7de88c37b4", null ],
+    [ "m_nextGUID", "db/d36/a09606.html#a267cecce9b2f244235800c93a086e8e2", null ]
 ];

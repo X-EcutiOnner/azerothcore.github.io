@@ -1,11 +1,11 @@
 var a08118 =
 [
-    [ "FormationInfo", "df/d4e/a08118.html#ad00d7dd0ac811a3805a8ba2c9c1e73df", null ],
-    [ "HasGroupFlag", "df/d4e/a08118.html#afc612acf30e8d0a047aac5b0fc2dc07b", null ],
-    [ "follow_angle", "df/d4e/a08118.html#a928ce7047d511c316a5367faf7f96673", null ],
-    [ "follow_dist", "df/d4e/a08118.html#a3b59ee5129e208cc3df407a921362393", null ],
-    [ "groupAI", "df/d4e/a08118.html#af9f6dc52999efef6f0819bb8d1670fec", null ],
-    [ "leaderGUID", "df/d4e/a08118.html#ad5af23397ae1ae835a72ce125d102ef0", null ],
-    [ "point_1", "df/d4e/a08118.html#a84298ff533bebc633689742c7f9299ae", null ],
-    [ "point_2", "df/d4e/a08118.html#acc308b497de18211b99eec4311b256a4", null ]
+    [ "AddItem", "df/d4e/a08118.html#a46f6533323fd15632c3f9a8b96ef6f3f", null ],
+    [ "Clear", "df/d4e/a08118.html#a70c7400c4bc60923fd538890774445de", null ],
+    [ "Empty", "df/d4e/a08118.html#ab55fa73ab327294de2c5f6906fc1fbdb", null ],
+    [ "FindItemCostPair", "df/d4e/a08118.html#a61dc4394afdd3a360559ffec1655c343", null ],
+    [ "GetItem", "df/d4e/a08118.html#aa764da5b4647c84813e3aa6b46de7593", null ],
+    [ "GetItemCount", "df/d4e/a08118.html#ae80634592ce705c77c5aa53960f89c24", null ],
+    [ "RemoveItem", "df/d4e/a08118.html#a974925f2979910348a0af795893b310b", null ],
+    [ "m_items", "df/d4e/a08118.html#aa16668e54fce8fffe8651644cdef4335", null ]
 ];

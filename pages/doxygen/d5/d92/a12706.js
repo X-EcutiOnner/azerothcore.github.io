@@ -1,6 +1,9 @@
 var a12706 =
 [
-    [ "instance_gnomeregan_InstanceMapScript", "de/d2e/a12710.html", "de/d2e/a12710" ],
-    [ "instance_gnomeregan", "d5/d92/a12706.html#a3fca2b3399f41e88c0c30ae05763a09c", null ],
-    [ "GetInstanceScript", "d5/d92/a12706.html#ad2130ba5eb3cd37cd2cc464a62381eda", null ]
+    [ "npc_flamewaker_priestAI", "d5/d92/a12706.html#aa0508dda5bc365896128f088b6de30f4", null ],
+    [ "JustDied", "d5/d92/a12706.html#ad1f51c4589abe6ef5bcf513d70e34a4c", null ],
+    [ "JustEngagedWith", "d5/d92/a12706.html#a15fefb756ad1ae20257d4ed9cb1d3eca", null ],
+    [ "Reset", "d5/d92/a12706.html#a3c3629a6c6987e861e40a893363d2508", null ],
+    [ "UpdateAI", "d5/d92/a12706.html#a28c0ed65521f3d2150874ddc1b913933", null ],
+    [ "events", "d5/d92/a12706.html#a7d769cc852a69fdf719cb7958c3d890c", null ]
 ];

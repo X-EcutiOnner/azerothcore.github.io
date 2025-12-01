@@ -1,23 +1,12 @@
 var a07170 =
 [
-    [ "AuctionHouseWorkerThread", "d0/d0f/a07170.html#ac008f885bf78e4bfe1e847bcb9b39f04", null ],
-    [ "AddAuctionSearchUpdateToQueue", "d0/d0f/a07170.html#afeef919ad04cfedbca376668997a69f4", null ],
-    [ "BuildListAuctionItems", "d0/d0f/a07170.html#a4f645c52213b513d3869c3934fec56df", null ],
-    [ "GetSearchableAuctionMap", "d0/d0f/a07170.html#a8f0ed06055dd0c50bb65017289c6104c", null ],
-    [ "ProcessSearchRequests", "d0/d0f/a07170.html#a3cc7697e74c9acd6dd902a75044d64d3", null ],
-    [ "ProcessSearchUpdates", "d0/d0f/a07170.html#a8901d50705c3e4a4977a547aef241d1d", null ],
-    [ "Run", "d0/d0f/a07170.html#a78eb3d86cdb1f7590af5a5f54ac97b6a", null ],
-    [ "SearchBidderListRequest", "d0/d0f/a07170.html#af23c367773406ed52439f21d4b288264", null ],
-    [ "SearchListRequest", "d0/d0f/a07170.html#a2b455c5d62c280c97d30d3b02ce7601d", null ],
-    [ "SearchOwnerListRequest", "d0/d0f/a07170.html#a99371b6ef770b00d4c32227392234732", null ],
-    [ "SearchUpdateAdd", "d0/d0f/a07170.html#a64414f54c6a84546bee85eb4e46ae04f", null ],
-    [ "SearchUpdateBid", "d0/d0f/a07170.html#ac42f800d004e90bc728df43d3c9c7244", null ],
-    [ "SearchUpdateRemove", "d0/d0f/a07170.html#a31f1510cd146eac4718c6577caf72cc4", null ],
-    [ "Stop", "d0/d0f/a07170.html#ae5e76c712f46e8801c2b63e335a246ff", null ],
-    [ "_auctionUpdatesQueue", "d0/d0f/a07170.html#aecd36ccabd34131c42ec1d7964b8840a", null ],
-    [ "_requestQueue", "d0/d0f/a07170.html#a8b92df23eb97b8f3b11c495dbdb15696", null ],
-    [ "_responseQueue", "d0/d0f/a07170.html#a68a0b0ea5c3292989471f00346ca1318", null ],
-    [ "_searchableAuctionMap", "d0/d0f/a07170.html#a68f698401f671fb75901daea75575ce0", null ],
-    [ "_stopped", "d0/d0f/a07170.html#af4d4c4672e67953c7c909174652b99d1", null ],
-    [ "_workerThread", "d0/d0f/a07170.html#a9a386c2dc09b128fd427d5a2b44653c5", null ]
+    [ "Type", "d0/d0f/a07170.html#a758c9729d907d872a5e5365539486408", [
+      [ "ADD", "d0/d0f/a07170.html#a758c9729d907d872a5e5365539486408a9eeb52badb613229884838847294b90d", null ],
+      [ "REMOVE", "d0/d0f/a07170.html#a758c9729d907d872a5e5365539486408a78baf367c4626442174307cdf41c6538", null ],
+      [ "UPDATE_BID", "d0/d0f/a07170.html#a758c9729d907d872a5e5365539486408af737406648230093b15420038f06e0a5", null ]
+    ] ],
+    [ "AuctionSearcherUpdate", "d0/d0f/a07170.html#acfc9c3749967b90c2b8633c40f1aa2bd", null ],
+    [ "~AuctionSearcherUpdate", "d0/d0f/a07170.html#a34cb7ede5d2108065a51a80396d6fc55", null ],
+    [ "listFaction", "d0/d0f/a07170.html#a3f61acebd3d594e3a23d682d2d5292bc", null ],
+    [ "updateType", "d0/d0f/a07170.html#af6ee8672029884bdbec327242ce5d5d2", null ]
 ];

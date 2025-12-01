@@ -1,6 +1,8 @@
 var a13222 =
 [
-    [ "npc_valkyr_battle_maidenAI", "d1/d15/a13226.html", "d1/d15/a13226" ],
-    [ "npc_valkyr_battle_maiden", "dc/dc4/a13222.html#a4316dd483b262e637ea39ba9e972744b", null ],
-    [ "GetAI", "dc/dc4/a13222.html#ab067ea6f5f92039d471708039089e79c", null ]
+    [ "DelayedSummonEvent", "dc/dc4/a13222.html#a5cfa870b670fff17d2241ecb85b2ba6c", null ],
+    [ "Execute", "dc/dc4/a13222.html#a65ba0f1a1dc14e07b7b93a71c92ace6b", null ],
+    [ "_entry", "dc/dc4/a13222.html#a24d72110a070eb0bd03af081ef616de4", null ],
+    [ "_owner", "dc/dc4/a13222.html#a2a21cc6387b3605ed4f09cad80a6168a", null ],
+    [ "_pos", "dc/dc4/a13222.html#aef19987803a1cce47cbd8d9005a288ac", null ]
 ];

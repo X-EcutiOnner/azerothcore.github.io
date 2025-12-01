@@ -1,6 +1,6 @@
 var a16446 =
 [
-    [ "FilterTargets", "dc/d4d/a16446.html#a40c4d2b624fe87e21263d1b137994cc3", null ],
-    [ "PrepareSpellScript", "dc/d4d/a16446.html#a697a52cbc50eafd2b0377621afb01557", null ],
-    [ "Register", "dc/d4d/a16446.html#a3d523f92cb8123f30cb068cbac39a9c3", null ]
+    [ "boss_black_knightAI", "da/d1f/a16450.html", "da/d1f/a16450" ],
+    [ "boss_black_knight", "dc/d4d/a16446.html#af55a307f282a68bc83e45c6de647ebf4", null ],
+    [ "GetAI", "dc/d4d/a16446.html#a3f7ac72f69cebdab0a13c61c0b9b2ed2", null ]
 ];

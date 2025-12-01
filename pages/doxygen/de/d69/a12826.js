@@ -1,7 +1,6 @@
 var a12826 =
 [
-    [ "OnRemove", "de/d69/a12826.html#a3fdb54a848aa81a7f4e8c2bd772ca3e5", null ],
-    [ "PrepareAuraScript", "de/d69/a12826.html#a92a12c16381c433a946eeb1fed8ab7a9", null ],
-    [ "Register", "de/d69/a12826.html#af26ef4eae84aa3982287fde0b4f65dcd", null ],
-    [ "Validate", "de/d69/a12826.html#aeabc1d487afdb30b80d9a5235c306df1", null ]
+    [ "HandleApply", "de/d69/a12826.html#ac9f6f1927c9f66682892c32d4a431cc4", null ],
+    [ "PrepareAuraScript", "de/d69/a12826.html#ae908ad87781553cc3bed05ea510a4447", null ],
+    [ "Register", "de/d69/a12826.html#a391dff720ed9d2d48aa69e48e69ba8df", null ]
 ];

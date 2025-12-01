@@ -1,6 +1,6 @@
 var a13678 =
 [
-    [ "HandleSendEvent", "da/d4d/a13678.html#af62c176d53589228d5e0077c9fc268a3", null ],
-    [ "PrepareSpellScript", "da/d4d/a13678.html#acea8e256f267dd496e5f573e982dba5f", null ],
-    [ "Register", "da/d4d/a13678.html#a0827e177a8268994bb4e63f07993a354", null ]
+    [ "OnApply", "da/d4d/a13678.html#a53fceaa5187f6dbc93f4d0d589086ca9", null ],
+    [ "PrepareAuraScript", "da/d4d/a13678.html#a236892b4fd6cf081a907becab6187069", null ],
+    [ "Register", "da/d4d/a13678.html#aa37819b82692df8a21cbbda8833ad492", null ]
 ];

@@ -1,5 +1,6 @@
 var a27226 =
 [
-    [ "achievement_save_the_day", "d8/d85/a27226.html#a193e4060b6634a87b499b7c8a5e287a1", null ],
-    [ "OnCheck", "d8/d85/a27226.html#a95cfea6cd9ff955ba6800ebdf3a30eb7", null ]
+    [ "achievement_arena_by_type", "d8/d85/a27226.html#a2042c808304e8ddf1849820491b9f1a3", null ],
+    [ "OnCheck", "d8/d85/a27226.html#abebdbf19fbf1b79c30114a9cf4ff98a4", null ],
+    [ "_arenaType", "d8/d85/a27226.html#a5c38e5fef5eaf3d037864ba2aa80584a", null ]
 ];

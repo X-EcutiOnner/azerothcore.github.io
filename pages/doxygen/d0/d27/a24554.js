@@ -1,8 +1,8 @@
 var a24554 =
 [
-    [ "go_skull_pile", "d0/d27/a24554.html#a9cf8dfef432c4967c60f66e645585770", null ],
-    [ "OnGossipHello", "d0/d27/a24554.html#ac95d39ea03e78fee2a10603d8c7f8840", null ],
-    [ "OnGossipSelect", "d0/d27/a24554.html#afb8e8db2705355e975fa48c98e09f20b", null ],
-    [ "SendActionMenu", "d0/d27/a24554.html#a048dd224b46ead864958ad524d76167f", null ],
-    [ "_result", "d0/d27/a24554.html#af74fcd75404c0886128401d661067394", null ]
+    [ "npc_pet_gen_valkyr_guardian", "d0/d27/a24554.html#a546f0b0b4273de8216e9f688c2d68209", null ],
+    [ "InitializeAI", "d0/d27/a24554.html#ac32c8bb1e1014015a0ab92417bbc78a9", null ],
+    [ "OwnerAttacked", "d0/d27/a24554.html#a7f0bcedd78d88cdc802ba66c0ff7d927", null ],
+    [ "UpdateAI", "d0/d27/a24554.html#a9a5a233763365c6cca5618459a23a816", null ],
+    [ "targetCheck", "d0/d27/a24554.html#aa530b6b6415c85cd76f44d625329c2fb", null ]
 ];

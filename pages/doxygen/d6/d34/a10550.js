@@ -1,6 +1,6 @@
 var a10550 =
 [
-    [ "PlayedTimeClient", "d6/d34/a10550.html#a1c82d4d153606da9887d64599f319883", null ],
-    [ "Read", "d6/d34/a10550.html#a0d25fccc9fb4fdaa5ba3bb11851a14f3", null ],
-    [ "TriggerScriptEvent", "d6/d34/a10550.html#a092b32f76df529a4f1284d7231b8fc6b", null ]
+    [ "ShowingCloak", "d6/d34/a10550.html#ac8fcfe92c148787a07b77d0b9ebb45cb", null ],
+    [ "Read", "d6/d34/a10550.html#ad72ae43efc070655aa078d9985369442", null ],
+    [ "ShowCloak", "d6/d34/a10550.html#aa9eda46557031d67b4a675bd998e5b7d", null ]
 ];

@@ -1,5 +1,7 @@
 var a09014 =
 [
-    [ "creatures", "d3/d83/a09014.html#a9ae0351e4964d22bcf7c454c8b1027fe", null ],
-    [ "gameobjects", "d3/d83/a09014.html#a14fee7108cb388abd1ec2057cc7ed2a1", null ]
+    [ "IsFitToRequirements", "d3/d83/a09014.html#ac175634ed2eab2911c3749fa208a073a", null ],
+    [ "castFlags", "d3/d83/a09014.html#a03cd65a460ea252818de9230cb656c1c", null ],
+    [ "spellId", "d3/d83/a09014.html#a34641755a5267b7a907d320cc5b4ddb4", null ],
+    [ "userType", "d3/d83/a09014.html#adcf285572403481cb418bddebc5f4bfa", null ]
 ];

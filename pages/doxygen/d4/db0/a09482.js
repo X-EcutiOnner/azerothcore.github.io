@@ -1,8 +1,8 @@
 var a09482 =
 [
-    [ "MostHPMissingGroupInRange", "d4/db0/a09482.html#ab7cd80daa30d8a39289c704cc0a2064f", null ],
-    [ "operator()", "d4/db0/a09482.html#ad1b4a4894dd652237a7a789ef5619f4b", null ],
-    [ "i_hp", "d4/db0/a09482.html#ae61cafc52cb6d33cd78422c41bd3bb08", null ],
-    [ "i_obj", "d4/db0/a09482.html#ae0d85f9738301b40c3e950b02ee20026", null ],
-    [ "i_range", "d4/db0/a09482.html#a712e9b1ff341ccde4a6d6962ba6002a4", null ]
+    [ "AllGameObjectsWithEntryInRange", "d4/db0/a09482.html#ab5a57e9a5f8b927b28f1fc9d6f6fce56", null ],
+    [ "operator()", "d4/db0/a09482.html#a342aa18d98413620fce4c676fcf75305", null ],
+    [ "m_fRange", "d4/db0/a09482.html#a7cce16670c95c19f3eb68e5914160513", null ],
+    [ "m_pObject", "d4/db0/a09482.html#a5c898c20992999f11204aab6479d71f6", null ],
+    [ "m_uiEntry", "d4/db0/a09482.html#a64ff0c14c71e218b8f9a8888b1017fec", null ]
 ];
