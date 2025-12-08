@@ -1,8 +1,6 @@
 var a22790 =
 [
-    [ "boss_tavarok", "df/dff/a22790.html#acf2e3ec6c28a59b205442c6ed07623af", null ],
-    [ "JustDied", "df/dff/a22790.html#a937fc1864eab7fdf23e1be1464d9666d", null ],
-    [ "JustEngagedWith", "df/dff/a22790.html#a64cae2439cd6e4334ced5d4ef01ef942", null ],
-    [ "KilledUnit", "df/dff/a22790.html#a2c99df9457c548ee562fde920592ea88", null ],
-    [ "Reset", "df/dff/a22790.html#a0bea2cc724d92616056b7c5ca2dd03c1", null ]
+    [ "instance_mana_tombs_InstanceMapScript", "d6/db8/a22794.html", "d6/db8/a22794" ],
+    [ "instance_mana_tombs", "df/dff/a22790.html#a78ca8b378e4ab290f1eea2b2b5799630", null ],
+    [ "GetInstanceScript", "df/dff/a22790.html#a26e4dad0957df886bc446396ab48ceda", null ]
 ];

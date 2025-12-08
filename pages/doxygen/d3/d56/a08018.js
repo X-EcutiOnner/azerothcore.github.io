@@ -20,7 +20,7 @@ var a08018 =
     [ "DecreaseKicksLeft", "d3/d56/a08018.html#ad92960f8d14a4b940e98552e4cf50aea", null ],
     [ "FinishDungeon", "d3/d56/a08018.html#a9b5e97583baa91e5e459695d43a50486", null ],
     [ "GetComment", "d3/d56/a08018.html#a7913a959d73f5d550fbae9dcf4e9e1e4", null ],
-    [ "GetCompatibleDungeons", "d3/d56/a08018.html#abb700172a67816637fdb8d6aaabaf725", null ],
+    [ "GetCompatibleDungeons", "d3/d56/a08018.html#a6bbb13f43b172c18746583418628003d", null ],
     [ "GetDungeon", "d3/d56/a08018.html#ac4cd689757697a9a5feb5182f52ab391", null ],
     [ "GetDungeonMapId", "d3/d56/a08018.html#a8ec862f215a2cb7c595f3d9b13caab67", null ],
     [ "GetDungeonsByRandom", "d3/d56/a08018.html#a6c1dd86f987446fc4e923a207afed72c", null ],

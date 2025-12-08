@@ -1,6 +1,6 @@
 var a25566 =
 [
-    [ "PrepareAuraScript", "d0/d9a/a25566.html#a1a06aa5d8254f0d33ecb38df72d97d20", null ],
-    [ "Register", "d0/d9a/a25566.html#abb54f08b1932e3638537656360d3aad8", null ],
-    [ "AuraEffectHandleModes", "d0/d9a/a25566.html#a9f02f6b1287d320fee15fec18b61cfe7", null ]
+    [ "CalculateAmount", "d0/d9a/a25566.html#ac0018b57967a3d3ae71aa81745032f15", null ],
+    [ "PrepareAuraScript", "d0/d9a/a25566.html#ab249a493050c5527eeec8913e94cfc64", null ],
+    [ "Register", "d0/d9a/a25566.html#a8f078f8370eacba197ceb2068b6a538d", null ]
 ];

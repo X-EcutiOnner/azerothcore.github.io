@@ -1,8 +1,6 @@
 var a24106 =
 [
-    [ "instance_mechanar_InstanceMapScript", "de/d80/a24106.html#a728d427162c0f56e7d229c55ff88bfbd", null ],
-    [ "OnCreatureCreate", "de/d80/a24106.html#aa0c6a84a6ace9299b18f0cc54263b398", null ],
-    [ "OnGameObjectCreate", "de/d80/a24106.html#a236a8c67ca57ffc7d2161c00e8acbd64", null ],
-    [ "OnGameObjectRemove", "de/d80/a24106.html#ac79c4f1dad7f2caf1278e242ec8fadc9", null ],
-    [ "_pathaleonGUID", "de/d80/a24106.html#aaf5c80af5ba2ba46b3c53ccffaaa1d3b", null ]
+    [ "npc_deaths_door_fell_cannon_target_bunnyAI", "d3/d25/a24110.html", "d3/d25/a24110" ],
+    [ "npc_deaths_door_fell_cannon_target_bunny", "de/d80/a24106.html#a1385e50777282fae0c8f8ca2f9f8a3e6", null ],
+    [ "GetAI", "de/d80/a24106.html#a250707096229da28024960beeb7725bf", null ]
 ];

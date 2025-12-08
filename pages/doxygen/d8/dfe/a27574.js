@@ -1,8 +1,5 @@
 var a27574 =
 [
-    [ "go_bellsAI", "d8/dfe/a27574.html#a6f22847c66a3b5faded35da799359846", null ],
-    [ "UpdateAI", "d8/dfe/a27574.html#ab466f67665577f22bfe6cdb94d0a008b", null ],
-    [ "_events", "d8/dfe/a27574.html#a46c66442078cee28a76fc412746ca026", null ],
-    [ "_soundId", "d8/dfe/a27574.html#ab2491e9d27266ea69a5a9163e8c1b35b", null ],
-    [ "once", "d8/dfe/a27574.html#abf6ca2fc64f5764936a6d0179d40c2fa", null ]
+    [ "go_duskwither_spire_power_source", "d8/dfe/a27574.html#aab69de16e8b744af2671e2ed882ee94a", null ],
+    [ "OnGossipHello", "d8/dfe/a27574.html#a2c7fd017e7985b99bff187119157a041", null ]
 ];

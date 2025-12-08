@@ -1,5 +1,6 @@
 var a25086 =
 [
-    [ "PrepareSpellScript", "df/d7b/a25086.html#a054677572d74a740f1c14715608f7b1b", null ],
-    [ "Register", "df/d7b/a25086.html#ae6556b58f0a4e6d3762bc3dc4c1643b3", null ]
+    [ "CheckProc", "df/d7b/a25086.html#a21cda631d861161c370a44a2fd2fd2f7", null ],
+    [ "PrepareAuraScript", "df/d7b/a25086.html#a861caa47c502c42fa84d9f9de74df024", null ],
+    [ "Register", "df/d7b/a25086.html#ab4275de186b6841a1f424863cb6c128c", null ]
 ];

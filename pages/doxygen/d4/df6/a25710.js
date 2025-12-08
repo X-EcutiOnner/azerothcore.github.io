@@ -1,5 +1,6 @@
 var a25710 =
 [
-    [ "PrepareSpellScript", "d4/df6/a25710.html#adaaa520c889970d91f3f38c958efdad4", null ],
-    [ "Register", "d4/df6/a25710.html#a80fe694c669aa86494bd73bfa7b8ffc8", null ]
+    [ "HandleDummyTick", "d4/df6/a25710.html#a000f8fd84e7292ac759b64a8a25d3ca2", null ],
+    [ "PrepareAuraScript", "d4/df6/a25710.html#a2848e44f1520cc32af916a8e6578c3ea", null ],
+    [ "Register", "d4/df6/a25710.html#a4a13827baeb7ed4f2681ab114d44eb37", null ]
 ];

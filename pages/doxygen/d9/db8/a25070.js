@@ -1,6 +1,6 @@
 var a25070 =
 [
-    [ "PrepareAuraScript", "d9/db8/a25070.html#a8a60db6939ba71ddcf723fb4e48b3146", null ],
-    [ "Register", "d9/db8/a25070.html#a8ab913cf84f55428d2b0615172f3da3b", null ],
-    [ "AuraEffectHandleModes", "d9/db8/a25070.html#aed1cfe63d82450b526e154678fb97ac4", null ]
+    [ "CheckLevel", "d9/db8/a25070.html#a9c0f4404275b274bd8af7be621eaa5b9", null ],
+    [ "PrepareSpellScript", "d9/db8/a25070.html#abc2bcce83810661ab462f56594066df3", null ],
+    [ "Register", "d9/db8/a25070.html#add6731563bd9a26d8f286bd29ffc8709", null ]
 ];

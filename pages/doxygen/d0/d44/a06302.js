@@ -61,6 +61,7 @@ var a06302 =
     [ "SetFollow", "d0/d44/a06302.html#ad9c0fe767f56e081276682eca3b50e2b", null ],
     [ "SetGUID", "d0/d44/a06302.html#a2bff70def5fccd6b6388bd55a450a17c", null ],
     [ "SetInvincibilityHpLevel", "d0/d44/a06302.html#ae12d7b3a2c9a8f69c69ca0cc795c0e10", null ],
+    [ "SetMainSpell", "d0/d44/a06302.html#a47a5f07690b9a4d3f0cf07b1d4a10568", null ],
     [ "SetScript9", "d0/d44/a06302.html#a613858d346747d285b74378c04a43f9c", null ],
     [ "SetSwim", "d0/d44/a06302.html#a30c41adbb3605470306e8711ad24a22b", null ],
     [ "SetWPPauseTimer", "d0/d44/a06302.html#a84af95d422892ad176c80c7491070fef", null ],

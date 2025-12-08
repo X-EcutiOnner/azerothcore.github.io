@@ -1,7 +1,8 @@
 var a23526 =
 [
-    [ "boss_hydromancer_thespia", "df/d41/a23526.html#a5747c2da9914dcf4118ee0fb37a3a3fd", null ],
-    [ "JustDied", "df/d41/a23526.html#ad0662daabd636bbf544a6791187d71fa", null ],
-    [ "JustEngagedWith", "df/d41/a23526.html#af230e57ec259e5c92c4034a674d1b6a5", null ],
-    [ "KilledUnit", "df/d41/a23526.html#ae1bb4819867ef5718cb5d9130d62fa20", null ]
+    [ "boss_mekgineer_steamrigger", "df/d41/a23526.html#a930dcbade7135d0c689bcc0718815547", null ],
+    [ "JustDied", "df/d41/a23526.html#a79272c233bc0256cca62700fc7a01421", null ],
+    [ "JustEngagedWith", "df/d41/a23526.html#aa75dea00ffd73b45ba5115ea1e48a006", null ],
+    [ "JustSummoned", "df/d41/a23526.html#a7a55a9dffaf239e73962356eb0fa88ad", null ],
+    [ "KilledUnit", "df/d41/a23526.html#a84374438458cb7e034f91d4b65cd22f1", null ]
 ];

@@ -1,9 +1,6 @@
 var a24046 =
 [
-    [ "boss_void_reaver", "dd/d25/a24046.html#aa6373ef5b27255eca4d85345ae5fa729", null ],
-    [ "JustDied", "dd/d25/a24046.html#a49e6f52b11177bdac07adff92c2675f5", null ],
-    [ "JustEngagedWith", "dd/d25/a24046.html#a9260d05e11f4dec6fc25432a0524706b", null ],
-    [ "KilledUnit", "dd/d25/a24046.html#adc234fc43308771a42d99049876cad1b", null ],
-    [ "Reset", "dd/d25/a24046.html#a02c36ea960de24991f879943991a93c6", null ],
-    [ "_recentlySpoken", "dd/d25/a24046.html#adc1bb9a6a3340f157c3ffcbd7dcd71ac", null ]
+    [ "instance_the_eye_InstanceMapScript", "d1/d98/a24050.html", "d1/d98/a24050" ],
+    [ "instance_the_eye", "dd/d25/a24046.html#a685064ba70095a3fc27ae1a8b33d3c88", null ],
+    [ "GetInstanceScript", "dd/d25/a24046.html#a811c7d161469f33ce4fb7d792ce30a4e", null ]
 ];

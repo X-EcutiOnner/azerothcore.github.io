@@ -1,11 +1,6 @@
 var a23666 =
 [
-    [ "boss_krosh_firehand", "d5/d67/a23666.html#a1ef3618844f086de7875f26e7e6190f9", null ],
-    [ "AttackStart", "d5/d67/a23666.html#a74bd2c93ac45efcd163a904b9a52827b", null ],
-    [ "JustDied", "d5/d67/a23666.html#ad20c86b4a3d0cccddf91982c26f56c09", null ],
-    [ "JustEngagedWith", "d5/d67/a23666.html#ad6389c357fb6c09fdf4f3f3ef7095395", null ],
-    [ "Reset", "d5/d67/a23666.html#a989c4b762a7cdb228b245e91881d97a2", null ],
-    [ "UpdateAI", "d5/d67/a23666.html#a3d26a6f544e9d00514ca5b0ef7d4bf4f", null ],
-    [ "_scheduler", "d5/d67/a23666.html#a261ced01dc1305ab7c2d2f3322022fe5", null ],
-    [ "instance", "d5/d67/a23666.html#a876bb040d78cafa9aa22e818f60dce7f", null ]
+    [ "instance_gruuls_lair_InstanceMapScript", "dc/d33/a23670.html", "dc/d33/a23670" ],
+    [ "instance_gruuls_lair", "d5/d67/a23666.html#ae091404d09e614fe893c20e8ed90d2c4", null ],
+    [ "GetInstanceScript", "d5/d67/a23666.html#ab8b5b000f6099111244b4ea48f0ab029", null ]
 ];

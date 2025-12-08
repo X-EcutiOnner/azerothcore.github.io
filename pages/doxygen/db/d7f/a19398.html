@@ -462,7 +462,7 @@ Additional Inherited Members</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<div class="fragment"><div class="line"><span class="lineno">  698</span>: <a class="code hl_class" href="../../d0/d64/a06166.html">NullCreatureAI</a>(c) { }</div>
+<div class="fragment"><div class="line"><span class="lineno">  703</span>: <a class="code hl_class" href="../../d0/d64/a06166.html">NullCreatureAI</a>(c) { }</div>
 <div class="ttc" id="aa06166_html"><div class="ttname"><a href="../../d0/d64/a06166.html">NullCreatureAI</a></div><div class="ttdef"><b>Definition:</b> PassiveAI.h:53</div></div>
 </div><!-- fragment -->
 </div>
@@ -493,19 +493,19 @@ Additional Inherited Members</h2></td></tr>
 </div><div class="memdoc">
 
 <p>Reimplemented from <a class="el" href="../../d1/d8c/a06226.html#a8c0eee7b55a8cf3cd5f99cf6fa41b00b">CreatureAI</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  701</span>    {</div>
-<div class="line"><span class="lineno">  702</span>        <a class="code hl_class" href="../../df/d60/a09718.html">InstanceScript</a>* instance = <a class="code hl_variable" href="../../d1/d8c/a06226.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d1/d8b/a08454.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>();</div>
-<div class="line"><span class="lineno">  703</span>        <span class="keywordflow">if</span> (!instance)</div>
-<div class="line"><span class="lineno">  704</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  705</span> </div>
-<div class="line"><span class="lineno">  706</span>        <a class="code hl_class" href="../../d3/d02/a08050.html">Creature</a>* kelThuzard = instance-&gt;<a class="code hl_function" href="../../df/d60/a09718.html#a1541c403bcc65b54c0a2c523c8eaf0b1">GetCreature</a>(<a class="code hl_enumvalue" href="../../d4/d9d/a02681.html#a8583d5c31f6e596bafbdc0c20eb41ed7ae07178507ddac585448d793bac9913e9">DATA_KELTHUZAD_BOSS</a>);</div>
-<div class="line"><span class="lineno">  707</span>        <span class="keywordflow">if</span> (!kelThuzard)</div>
-<div class="line"><span class="lineno">  708</span>            <span class="keywordflow">return</span>;</div>
-<div class="line"><span class="lineno">  709</span> </div>
-<div class="line"><span class="lineno">  710</span>        kelThuzard-&gt;<a class="code hl_function" href="../../d3/d02/a08050.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d1/d8c/a06226.html#abd2599c664cd9ba230b1937923251621">Talk</a>(<a class="code hl_enumvalue" href="../../d4/d9d/a02681.html#a9f4c26765343b5c351df1b8bcd00ee31af22d7819d4a04dd5524fcd51d60d8c21">SAY_CAT_DIED</a>);</div>
-<div class="line"><span class="lineno">  711</span>    }</div>
+<div class="fragment"><div class="line"><span class="lineno">  706</span>    {</div>
+<div class="line"><span class="lineno">  707</span>        <a class="code hl_class" href="../../df/d60/a09718.html">InstanceScript</a>* instance = <a class="code hl_variable" href="../../d1/d8c/a06226.html#aee5bf3d421199445de241a34798ae819">me</a>-&gt;<a class="code hl_function" href="../../d1/d8b/a08454.html#a29762f86d0726e4d229df51281b9d710">GetInstanceScript</a>();</div>
+<div class="line"><span class="lineno">  708</span>        <span class="keywordflow">if</span> (!instance)</div>
+<div class="line"><span class="lineno">  709</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  710</span> </div>
+<div class="line"><span class="lineno">  711</span>        <a class="code hl_class" href="../../d3/d02/a08050.html">Creature</a>* kelThuzard = instance-&gt;<a class="code hl_function" href="../../df/d60/a09718.html#a1541c403bcc65b54c0a2c523c8eaf0b1">GetCreature</a>(<a class="code hl_enumvalue" href="../../d4/d9d/a02681.html#a8583d5c31f6e596bafbdc0c20eb41ed7ae07178507ddac585448d793bac9913e9">DATA_KELTHUZAD_BOSS</a>);</div>
+<div class="line"><span class="lineno">  712</span>        <span class="keywordflow">if</span> (!kelThuzard)</div>
+<div class="line"><span class="lineno">  713</span>            <span class="keywordflow">return</span>;</div>
+<div class="line"><span class="lineno">  714</span> </div>
+<div class="line"><span class="lineno">  715</span>        kelThuzard-&gt;<a class="code hl_function" href="../../d3/d02/a08050.html#af2188eef9620b5af52ef2d3ac142db67">AI</a>()-&gt;<a class="code hl_function" href="../../d1/d8c/a06226.html#abd2599c664cd9ba230b1937923251621">Talk</a>(<a class="code hl_enumvalue" href="../../d4/d9d/a02681.html#a9f4c26765343b5c351df1b8bcd00ee31af22d7819d4a04dd5524fcd51d60d8c21">SAY_CAT_DIED</a>);</div>
+<div class="line"><span class="lineno">  716</span>    }</div>
 <div class="ttc" id="aa02681_html_a8583d5c31f6e596bafbdc0c20eb41ed7ae07178507ddac585448d793bac9913e9"><div class="ttname"><a href="../../d4/d9d/a02681.html#a8583d5c31f6e596bafbdc0c20eb41ed7ae07178507ddac585448d793bac9913e9">DATA_KELTHUZAD_BOSS</a></div><div class="ttdeci">@ DATA_KELTHUZAD_BOSS</div><div class="ttdef"><b>Definition:</b> naxxramas.h:58</div></div>
-<div class="ttc" id="aa02681_html_a9f4c26765343b5c351df1b8bcd00ee31af22d7819d4a04dd5524fcd51d60d8c21"><div class="ttname"><a href="../../d4/d9d/a02681.html#a9f4c26765343b5c351df1b8bcd00ee31af22d7819d4a04dd5524fcd51d60d8c21">SAY_CAT_DIED</a></div><div class="ttdeci">@ SAY_CAT_DIED</div><div class="ttdef"><b>Definition:</b> naxxramas.h:267</div></div>
+<div class="ttc" id="aa02681_html_a9f4c26765343b5c351df1b8bcd00ee31af22d7819d4a04dd5524fcd51d60d8c21"><div class="ttname"><a href="../../d4/d9d/a02681.html#a9f4c26765343b5c351df1b8bcd00ee31af22d7819d4a04dd5524fcd51d60d8c21">SAY_CAT_DIED</a></div><div class="ttdeci">@ SAY_CAT_DIED</div><div class="ttdef"><b>Definition:</b> naxxramas.h:265</div></div>
 <div class="ttc" id="aa06226_html_abd2599c664cd9ba230b1937923251621"><div class="ttname"><a href="../../d1/d8c/a06226.html#abd2599c664cd9ba230b1937923251621">CreatureAI::Talk</a></div><div class="ttdeci">void Talk(uint8 id, WorldObject const *whisperTarget=nullptr, Milliseconds delay=0ms)</div><div class="ttdoc">Causes the creature to talk/say the text assigned to their entry in the creature_text database table.</div><div class="ttdef"><b>Definition:</b> CreatureAI.cpp:53</div></div>
 <div class="ttc" id="aa06226_html_aee5bf3d421199445de241a34798ae819"><div class="ttname"><a href="../../d1/d8c/a06226.html#aee5bf3d421199445de241a34798ae819">CreatureAI::me</a></div><div class="ttdeci">Creature *const me</div><div class="ttdef"><b>Definition:</b> CreatureAI.h:73</div></div>
 <div class="ttc" id="aa08050_html"><div class="ttname"><a href="../../d3/d02/a08050.html">Creature</a></div><div class="ttdef"><b>Definition:</b> Creature.h:47</div></div>
@@ -514,7 +514,7 @@ Additional Inherited Members</h2></td></tr>
 <div class="ttc" id="aa09718_html"><div class="ttname"><a href="../../df/d60/a09718.html">InstanceScript</a></div><div class="ttdef"><b>Definition:</b> InstanceScript.h:143</div></div>
 <div class="ttc" id="aa09718_html_a1541c403bcc65b54c0a2c523c8eaf0b1"><div class="ttname"><a href="../../df/d60/a09718.html#a1541c403bcc65b54c0a2c523c8eaf0b1">InstanceScript::GetCreature</a></div><div class="ttdeci">Creature * GetCreature(uint32 type)</div><div class="ttdef"><b>Definition:</b> InstanceScript.cpp:115</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00145">Creature::AI()</a>, <a class="el" href="../../#l00058">DATA_KELTHUZAD_BOSS</a>, <a class="el" href="../../#l00115">InstanceScript::GetCreature()</a>, <a class="el" href="../../#l01214">WorldObject::GetInstanceScript()</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, <a class="el" href="../../#l00267">SAY_CAT_DIED</a>, and <a class="el" href="../../#l00053">CreatureAI::Talk()</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00145">Creature::AI()</a>, <a class="el" href="../../#l00058">DATA_KELTHUZAD_BOSS</a>, <a class="el" href="../../#l00115">InstanceScript::GetCreature()</a>, <a class="el" href="../../#l01214">WorldObject::GetInstanceScript()</a>, <a class="el" href="../../#l00073">CreatureAI::me</a>, <a class="el" href="../../#l00265">SAY_CAT_DIED</a>, and <a class="el" href="../../#l00053">CreatureAI::Talk()</a>.</p>
 
 </div>
 </div>
@@ -524,7 +524,7 @@ Additional Inherited Members</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../db/d7f/a19398.html">npc_mr_bigglesworth</a></li>
-    <li class="footer">Generated on Mon Dec 1 2025 20:47:43 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Dec 8 2025 20:49:22 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

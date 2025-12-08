@@ -1,7 +1,6 @@
 var a27174 =
 [
-    [ "HandleScript", "dd/d6d/a27174.html#ab3f88b7443eb4f32339c3b687431fda2", null ],
-    [ "PrepareSpellScript", "dd/d6d/a27174.html#ab363d596d2d1e030f0cc07126b40e921", null ],
-    [ "Register", "dd/d6d/a27174.html#ab9041b811e80e220828d5db59b724682", null ],
-    [ "Validate", "dd/d6d/a27174.html#a1b9a4c78a43cf406f1db75c518a343ea", null ]
+    [ "HandleEffectCalcSpellMod", "dd/d6d/a27174.html#a38c2a5daeda4b366518026638e6a8e1b", null ],
+    [ "PrepareAuraScript", "dd/d6d/a27174.html#a767c3c52e917b56dbf2368b5dbbf1610", null ],
+    [ "Register", "dd/d6d/a27174.html#af60592a9f1e595f31814eae405d03d5a", null ]
 ];

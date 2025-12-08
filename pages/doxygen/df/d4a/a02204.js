@@ -1,7 +1,7 @@
 var a02204 =
 [
-    [ "LajTransformData", "d3/d1f/a23910.html", "d3/d1f/a23910" ],
-    [ "boss_laj", "dc/dd9/a23914.html", "dc/dd9/a23914" ],
+    [ "LajTransformData", "db/dbb/a23906.html", "db/dbb/a23906" ],
+    [ "boss_laj", "d3/d1f/a23910.html", "d3/d1f/a23910" ],
     [ "Misc", "df/d4a/a02204.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6", [
       [ "DATA_SKILLPOINT_MIN", "d2/db4/a03695.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a3093ddfcacf2742f4fb344843e2e7ce6", null ],
       [ "NEFARIUS_PATH_2", "db/d49/a03737.html#a3329d9d369a4ae5cfa5d8eac33a0c0c6a09833188939fe77088ed4fb2cfedb875", null ],

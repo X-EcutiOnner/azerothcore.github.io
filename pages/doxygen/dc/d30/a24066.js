@@ -1,7 +1,8 @@
 var a24066 =
 [
-    [ "boss_gatewatcher_iron_hand", "dc/d30/a24066.html#aef70e713007af38b510f0a3b8c082b24", null ],
-    [ "JustDied", "dc/d30/a24066.html#a36b10cd02b35b6e106687b08bc80bfa6", null ],
-    [ "JustEngagedWith", "dc/d30/a24066.html#aa6a9f456d158e4c0332816c7e65ec155", null ],
-    [ "KilledUnit", "dc/d30/a24066.html#a1973142412b4094dbd9fa51600741148", null ]
+    [ "boss_mechano_lord_capacitus", "dc/d30/a24066.html#ab5867184d4e50a89a1afe25eb40e6bc3", null ],
+    [ "JustDied", "dc/d30/a24066.html#a596314e7aebcc9e2e7311b4e0850b817", null ],
+    [ "JustEngagedWith", "dc/d30/a24066.html#a4aa9ee50a942fe123acfdeee0350fa2d", null ],
+    [ "JustSummoned", "dc/d30/a24066.html#a9a0b2cac08002db63162f95b9476c251", null ],
+    [ "KilledUnit", "dc/d30/a24066.html#a6a408c654f91a44a40b3df52c0f2b093", null ]
 ];

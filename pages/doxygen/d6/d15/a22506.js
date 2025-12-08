@@ -1,8 +1,5 @@
 var a22506 =
 [
-    [ "npc_wg_spirit_guideAI", "db/dfa/a22510.html", "db/dfa/a22510" ],
-    [ "npc_wg_spirit_guide", "d6/d15/a22506.html#ad6ca047a51547203ee2c5f69efb6f2d3", null ],
-    [ "GetAI", "d6/d15/a22506.html#a769cdf4ac330b5dec71437d325aaf46a", null ],
-    [ "OnGossipHello", "d6/d15/a22506.html#a2d46078cb47f817239685d168f7f2e35", null ],
-    [ "OnGossipSelect", "d6/d15/a22506.html#aae050d38b9fa9c16d398d2733b1e5faf", null ]
+    [ "npc_wg_spirit_guideAI", "d6/d15/a22506.html#a576d15b6acedb07bfe1555bdd0ee8f12", null ],
+    [ "UpdateAI", "d6/d15/a22506.html#a32b28e8fe74db742d170bd754d11f4d7", null ]
 ];

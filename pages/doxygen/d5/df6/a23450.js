@@ -1,13 +1,7 @@
 var a23450 =
 [
-    [ "npc_earthen_ring_flamecaller", "d5/df6/a23450.html#ab402dd321fa0df641b674324386d7591", null ],
-    [ "DoAction", "d5/df6/a23450.html#af745c83529a34a89c430d6113703fff5", null ],
-    [ "LookOpening", "d5/df6/a23450.html#adfc752e7700a816b66b639007a1a90fa", null ],
-    [ "MovementInform", "d5/df6/a23450.html#a2e6337402c07413ed9aa39c2de58e0d9", null ],
-    [ "Reset", "d5/df6/a23450.html#ac7be4763e09cb9ce1a4a0774f4c02237", null ],
-    [ "SpellHit", "d5/df6/a23450.html#ab9c5ad7e56033997042031566748ee2b", null ],
-    [ "UpdateAI", "d5/df6/a23450.html#aa9aaf58b67108a934a756afdfc2bc734", null ],
-    [ "_events", "d5/df6/a23450.html#a79829a993048f8678b5f7c1dfe55eafb", null ],
-    [ "_instance", "d5/df6/a23450.html#a79aa6e628a50ed485cc55513c28362dc", null ],
-    [ "_mySpot", "d5/df6/a23450.html#a18b476dfdf65ca7e84856b31027b11f1", null ]
+    [ "npc_ahune_ice_spear_bunny", "d5/df6/a23450.html#aecc30efddcf4ae9bd93504e1d727ee87", null ],
+    [ "InitializeAI", "d5/df6/a23450.html#a5e7eb38f6bf4a947bd1e09ee198eb45d", null ],
+    [ "UpdateAI", "d5/df6/a23450.html#ac7fd9b174f2ee1b1adf9d20d59c67bc2", null ],
+    [ "_scheduler", "d5/df6/a23450.html#a1a1a8b066a3cab9e15710fa97a8c83e6", null ]
 ];

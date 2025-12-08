@@ -1,7 +1,6 @@
 var a25478 =
 [
-    [ "OnApply", "dc/d6e/a25478.html#a455a885611978a390cd4bfa76b05f82b", null ],
-    [ "PrepareAuraScript", "dc/d6e/a25478.html#ac8f269db5d77cf38bdfcbcfef75a62ff", null ],
-    [ "Register", "dc/d6e/a25478.html#a4b1a28052f11b47646dafbcd60b9dad8", null ],
-    [ "Validate", "dc/d6e/a25478.html#af1174bbbaab1d170a0dcd030d2f1e990", null ]
+    [ "CalculateDamage", "dc/d6e/a25478.html#a2b0d2465c42bb32a2e0a2be1884eddb6", null ],
+    [ "PrepareSpellScript", "dc/d6e/a25478.html#a4271f026fd9cddeb109761e9b864c381", null ],
+    [ "Register", "dc/d6e/a25478.html#a03bb4cf19328efa783600273663b609a", null ]
 ];

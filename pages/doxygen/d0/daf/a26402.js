@@ -1,8 +1,7 @@
 var a26402 =
 [
-    [ "CheckProc", "d0/daf/a26402.html#ac6b3ce1ff227a140b77e177198675dbf", null ],
-    [ "HandleProc", "d0/daf/a26402.html#ae5ed8237f49454279db6348dbde653ad", null ],
-    [ "PrepareAuraScript", "d0/daf/a26402.html#a1ee84242579d4cd81d6313f78354729b", null ],
-    [ "Register", "d0/daf/a26402.html#a8f16147f2dfc433458ad32529f7d25d1", null ],
-    [ "Validate", "d0/daf/a26402.html#a787639c45505da58aeb2174148ef4f83", null ]
+    [ "HandleScriptEffect", "d0/daf/a26402.html#ad3497a9c986f65978d4b2553b0c9958f", null ],
+    [ "Load", "d0/daf/a26402.html#a33d46e5ebd418ea0242d958345cb44d2", null ],
+    [ "PrepareSpellScript", "d0/daf/a26402.html#ade09cd376d00df8b5e709026e353f409", null ],
+    [ "Register", "d0/daf/a26402.html#ad04bf0d88a3e1fde3c11b91d5ef1c7ae", null ]
 ];

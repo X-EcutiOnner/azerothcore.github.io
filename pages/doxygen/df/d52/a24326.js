@@ -1,6 +1,14 @@
 var a24326 =
 [
-    [ "npc_mature_netherwing_drakeAI", "da/da3/a24330.html", "da/da3/a24330" ],
-    [ "npc_mature_netherwing_drake", "df/d52/a24326.html#a3369bd143ff9e46a4ad4c44b6d8c0ec5", null ],
-    [ "GetAI", "df/d52/a24326.html#ac5a1dad24920396156f22ab02bfab84b", null ]
+    [ "npc_mature_netherwing_drakeAI", "df/d52/a24326.html#a32281f8dfa1c8af8fe6bcac2a8be4220", null ],
+    [ "JustReachedHome", "df/d52/a24326.html#a0de69b5fda6342217697ad264d64d4e6", null ],
+    [ "MovementInform", "df/d52/a24326.html#a456b5de60672120f82506d177faf6b47", null ],
+    [ "Reset", "df/d52/a24326.html#a72eb39e259aed0ab230d4d43722cba13", null ],
+    [ "SpellHit", "df/d52/a24326.html#a749690b386c0c726d11b77bc705b9b01", null ],
+    [ "UpdateAI", "df/d52/a24326.html#a624c256f29d3cefed0bb909da3841853", null ],
+    [ "bCanEat", "df/d52/a24326.html#ad4c671be4f16f23ddf2f2f84b0bd4c94", null ],
+    [ "bIsEating", "df/d52/a24326.html#a0519438fda724a06a0c6f8ed2d7d533d", null ],
+    [ "CastTimer", "df/d52/a24326.html#a630312f70a2f22683311a66e5a4f9ec6", null ],
+    [ "EatTimer", "df/d52/a24326.html#aa50d3a21103dc769d162b1c917100630", null ],
+    [ "uiPlayerGUID", "df/d52/a24326.html#a6b9a435245ddce156d0657aa9e35175b", null ]
 ];

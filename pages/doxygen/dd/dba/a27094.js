@@ -1,6 +1,7 @@
 var a27094 =
 [
-    [ "HandleCast", "dd/dba/a27094.html#ac6afa94be0da1f99b12afebe935bcb5d", null ],
-    [ "PrepareSpellScript", "dd/dba/a27094.html#aa784c7af6fe38069fca4dcff9a09a22b", null ],
-    [ "Register", "dd/dba/a27094.html#a81bc86c83ffc70602410912870e61700", null ]
+    [ "HandleApplyAura", "dd/dba/a27094.html#ae364ff4048a2f59eadecd6934c7a0e13", null ],
+    [ "PrepareSpellScript", "dd/dba/a27094.html#adf09900347264bc341884092ea0fee40", null ],
+    [ "Register", "dd/dba/a27094.html#ac56484d4048817a164963e519a97d137", null ],
+    [ "Validate", "dd/dba/a27094.html#ac028c0faf659fb74b2ffa5f85f58f8d1", null ]
 ];

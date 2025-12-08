@@ -1,5 +1,5 @@
 var a27198 =
 [
-    [ "achievement_resilient_victory", "dc/d2b/a27198.html#a6224c8a4b1b1ee7c1ab09d8873e86aa8", null ],
-    [ "OnCheck", "dc/d2b/a27198.html#a21445d406f67771a20608260b3f9b033", null ]
+    [ "achievement_bg_control_all_nodes", "dc/d2b/a27198.html#afa3c06227adff7a03998ac7c5f8147cf", null ],
+    [ "OnCheck", "dc/d2b/a27198.html#a69609eb5488519fa5a1f43b13a80e280", null ]
 ];

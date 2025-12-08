@@ -1,8 +1,6 @@
 var a22818 =
 [
-    [ "FilterTargets", "dd/d31/a22818.html#a9e0a72530a8dc764269e8df6d9d1ed3d", null ],
-    [ "HandleDummyHitTarget", "dd/d31/a22818.html#ae892090a9bd48aa447224c9f96801d37", null ],
-    [ "PrepareSpellScript", "dd/d31/a22818.html#af08ab4fcc3705b07e89ed222794e70e9", null ],
-    [ "Register", "dd/d31/a22818.html#aeb1aad59b6b4767a63660c5fe0277392", null ],
-    [ "Validate", "dd/d31/a22818.html#a5a87a7c18a55caf5288b8ca8bbd2f361", null ]
+    [ "instance_sethekk_halls_InstanceMapScript", "da/daf/a22822.html", "da/daf/a22822" ],
+    [ "instance_sethekk_halls", "dd/d31/a22818.html#ab50d296266cf377bfb34750ec36963ef", null ],
+    [ "GetInstanceScript", "dd/d31/a22818.html#adc07afe1aa8132f70474f9a534ecb76c", null ]
 ];

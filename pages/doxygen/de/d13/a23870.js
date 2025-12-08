@@ -1,9 +1,10 @@
 var a23870 =
 [
-    [ "boss_dalliah_the_doomsayer", "de/d13/a23870.html#ad6edf9623942297b28bc7420ec0cc733", null ],
-    [ "InitializeAI", "de/d13/a23870.html#a85342ef80a64ce05f87cf7d90a8bfe79", null ],
-    [ "JustDied", "de/d13/a23870.html#a431edc9c25fb125d7d267073eb1c1423", null ],
-    [ "JustEngagedWith", "de/d13/a23870.html#a6d3d8d027ddb08417dd11f1606a1418f", null ],
-    [ "KilledUnit", "de/d13/a23870.html#af28bfc1166ad45bf7bc046f5906a8b11", null ],
-    [ "Reset", "de/d13/a23870.html#a5b4f186225a55afdf1de80b7126d10eb", null ]
+    [ "boss_harbinger_skyriss", "de/d13/a23870.html#a245179f74d61c2671b397e8f2473b599", null ],
+    [ "EnterEvadeMode", "de/d13/a23870.html#a873413da06569343225e6659f8277b2c", null ],
+    [ "JustDied", "de/d13/a23870.html#a2b5152ddeb53d382294bd0fe7455a21e", null ],
+    [ "JustEngagedWith", "de/d13/a23870.html#adb4cdec41f4b61f82efdb78fe995c313", null ],
+    [ "JustSummoned", "de/d13/a23870.html#a97d84139a3e970e22d7d422f2f825f12", null ],
+    [ "KilledUnit", "de/d13/a23870.html#a8f9e1bd87c80041e07b428ec300ceef8", null ],
+    [ "Reset", "de/d13/a23870.html#a045ec2371ad99c3465b8f089eb604e0a", null ]
 ];

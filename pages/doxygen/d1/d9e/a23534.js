@@ -1,10 +1,6 @@
 var a23534 =
 [
-    [ "boss_warlord_kalithresh", "d1/d9e/a23534.html#afcf2288fbea2d5010c41344ce0247559", null ],
-    [ "JustDied", "d1/d9e/a23534.html#a1947562aa9dafea371e2f2da824a3f65", null ],
-    [ "JustEngagedWith", "d1/d9e/a23534.html#a2712f5c363c3929550b77ef2536b1385", null ],
-    [ "KilledUnit", "d1/d9e/a23534.html#a06855288497f5335a236867ef681d3f8", null ],
-    [ "MoveInLineOfSight", "d1/d9e/a23534.html#a544da19b6c3a6f159ed6b1639def1071", null ],
-    [ "Reset", "d1/d9e/a23534.html#a89e3bac7eeb3a77e0a7a22d8de9f1024", null ],
-    [ "_introDone", "d1/d9e/a23534.html#a8e07118bb6fa249178cc081e2b393d2d", null ]
+    [ "HandleAfterRemove", "d1/d9e/a23534.html#a74610b06095572aa2c898cd84e0fb229", null ],
+    [ "PrepareAuraScript", "d1/d9e/a23534.html#ac0d686490ff37810e0116dea4d0b6077", null ],
+    [ "Register", "d1/d9e/a23534.html#aad72f4aaa19f92f7a71241311f5d0582", null ]
 ];

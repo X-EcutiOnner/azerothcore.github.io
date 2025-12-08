@@ -1,7 +1,6 @@
 var a26938 =
 [
-    [ "AfterRemove", "dd/d99/a26938.html#ad0bad4a07d5a65a7834e7ab46e082b20", null ],
-    [ "PrepareAuraScript", "dd/d99/a26938.html#af338af238305f1872275e1e5e9fdee16", null ],
-    [ "Register", "dd/d99/a26938.html#aa266e794be35b51a399b13ee2d06199d", null ],
-    [ "Validate", "dd/d99/a26938.html#af58098eb7a904e20846cf728f5adc18b", null ]
+    [ "HandleKnockBack", "dd/d99/a26938.html#abad9f9293260a3e99be98b43aabb321b", null ],
+    [ "PrepareSpellScript", "dd/d99/a26938.html#a65787b78165631898458264e6ee310f4", null ],
+    [ "Register", "dd/d99/a26938.html#ade4f3cb676f1cc92b0e75f85367dc3e0", null ]
 ];

@@ -1,9 +1,5 @@
 var a27490 =
 [
-    [ "go_gilded_brazierAI", "d7/dab/a27490.html#aaacf408b0f42b593a8a2897cb27886fb", null ],
-    [ "GossipHello", "d7/dab/a27490.html#afac9e217c294e72ff5f2526422e6321e", null ],
-    [ "Initialize", "d7/dab/a27490.html#a72d2dd8f7ecdf173e5a3847c94255786", null ],
-    [ "UpdateAI", "d7/dab/a27490.html#a0965f0a6f3f1c75e85f184319a1f9cef", null ],
-    [ "_events", "d7/dab/a27490.html#a35e62a272b790d6e858cc48c92e55b7b", null ],
-    [ "_playerGUID", "d7/dab/a27490.html#a506eccb2c3ebcc126d486638fb07ae3c", null ]
+    [ "go_tablet_of_the_seven", "d7/dab/a27490.html#aa5bcd36c6d0250571f6721f71864ab59", null ],
+    [ "OnGossipHello", "d7/dab/a27490.html#a54d27dc2a52d69d8fd9605c358a855fc", null ]
 ];

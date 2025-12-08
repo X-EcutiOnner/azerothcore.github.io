@@ -1,7 +1,8 @@
 var a26442 =
 [
-    [ "HandleHeal", "db/d62/a26442.html#a22e3dd3ac57c7cb95162ee56ab43bc93", null ],
-    [ "PrepareSpellScript", "db/d62/a26442.html#a9de9260bc1e2582138c58a708e5d899c", null ],
-    [ "Register", "db/d62/a26442.html#ab613ce86521f1381b79f6f9f3eaea3cc", null ],
-    [ "Validate", "db/d62/a26442.html#aa300822cf5455404482124a6853fb314", null ]
+    [ "HandleApplyEffect", "db/d62/a26442.html#a50102ae92f44fd7c2bd9afc3fec5a291", null ],
+    [ "Load", "db/d62/a26442.html#ab6ba9d68b968ae41ee9c9869df686f02", null ],
+    [ "PrepareAuraScript", "db/d62/a26442.html#a6e212284f72320356cfa2f0c2a59999d", null ],
+    [ "Register", "db/d62/a26442.html#afcdd6cc19b59b5e6aa0cfdb9189edc99", null ],
+    [ "Validate", "db/d62/a26442.html#a985a52f71371443454d6dd36f7fe83b2", null ]
 ];

@@ -1,6 +1,7 @@
 var a26946 =
 [
-    [ "CheckProc", "df/dd0/a26946.html#a945c4617cba249ee76045ce032f12c3c", null ],
-    [ "PrepareAuraScript", "df/dd0/a26946.html#abdcb401acb80eb732dbf56bbbcf79801", null ],
-    [ "Register", "df/dd0/a26946.html#a912dd7ea10038103bb6d242bb7723830", null ]
+    [ "HandleProc", "df/dd0/a26946.html#a85df8d4086a980d2b0a441097a909143", null ],
+    [ "PrepareAuraScript", "df/dd0/a26946.html#a4576f3d5af2d9265fa173f66d68ed512", null ],
+    [ "Register", "df/dd0/a26946.html#ab5308a36bc3b878a2913a89a84051ad7", null ],
+    [ "Validate", "df/dd0/a26946.html#a760a018b8410233e09065d94abeeb1ff", null ]
 ];

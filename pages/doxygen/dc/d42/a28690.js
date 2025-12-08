@@ -1,8 +1,7 @@
 var a28690 =
 [
-    [ "MapDifficulty", "dc/d42/a28690.html#abf514d1105541d5c5aaf52a91330a1e2", null ],
-    [ "MapDifficulty", "dc/d42/a28690.html#a227aec55b5b774076882ea34f70d5d88", null ],
-    [ "hasErrorMessage", "dc/d42/a28690.html#a8dd5436eaec4d0e67f8b41c8dd071148", null ],
-    [ "maxPlayers", "dc/d42/a28690.html#af82ad844bc4ac9585cb9df1963697e1b", null ],
-    [ "resetTime", "dc/d42/a28690.html#a7190131620b9eee0897ac7b4dd62949e", null ]
+    [ "TalentSpellPos", "dc/d42/a28690.html#a1f28fdb07c5f3bc3a417a2d50d57481c", null ],
+    [ "TalentSpellPos", "dc/d42/a28690.html#afcdb60f43c619209f8c7d9d8d118a89d", null ],
+    [ "rank", "dc/d42/a28690.html#a46a495cd1d17302d074037ad5ea9c89e", null ],
+    [ "talent_id", "dc/d42/a28690.html#a06421cba633b9ea52cb4b95d4ce4527d", null ]
 ];

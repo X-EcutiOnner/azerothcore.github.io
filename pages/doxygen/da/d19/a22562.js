@@ -1,6 +1,6 @@
 var a22562 =
 [
-    [ "HandlePeriodicDummy", "da/d19/a22562.html#a0096e0521c37a4f7f9ab1f2173a807d4", null ],
-    [ "PrepareAuraScript", "da/d19/a22562.html#ad55ab81c39e8bf53d1e2066bbeefa712", null ],
-    [ "Register", "da/d19/a22562.html#afeccfe29a0e0f192a4242217f9d4b7e5", null ]
+    [ "PrepareSpellScript", "da/d19/a22562.html#ae9a4734c9b12473f86c91a49860d56dd", null ],
+    [ "RecalculateDamage", "da/d19/a22562.html#ad47d51e68c6ffe60f15beceaffc60b19", null ],
+    [ "Register", "da/d19/a22562.html#a0dbeb30ba0eb22f4eb762f0a14cc6f39", null ]
 ];

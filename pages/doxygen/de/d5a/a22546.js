@@ -1,6 +1,9 @@
 var a22546 =
 [
-    [ "HandleSummon", "de/d5a/a22546.html#ac2f7b0d0772d72d69d58bb4b66616e21", null ],
-    [ "PrepareSpellScript", "de/d5a/a22546.html#ae7f071e9d9a82892be31090385679c9f", null ],
-    [ "Register", "de/d5a/a22546.html#a516ab0801cc93f15da434a0f0952c7e4", null ]
+    [ "HandleFinish", "de/d5a/a22546.html#a4511ae5227c3e4e931b04f2ba0d4a62e", null ],
+    [ "Load", "de/d5a/a22546.html#a6b6f6b4ab8f345199d8d2189f07df7f2", null ],
+    [ "PrepareSpellScript", "de/d5a/a22546.html#a8326b3f9f78aab65225e81d274cc37df", null ],
+    [ "Register", "de/d5a/a22546.html#a749858f56e15a0bb6074d15ba166625d", null ],
+    [ "Validate", "de/d5a/a22546.html#a64005c52e7112c466f6206b7f6c847c0", null ],
+    [ "handled", "de/d5a/a22546.html#a7afe3007a016cb553f437544f8fd6f89", null ]
 ];

@@ -1,10 +1,6 @@
 var a24286 =
 [
-    [ "npc_maxx_a_million_escortAI", "d9/d41/a24286.html#ab827933527ed7b4a04b162034876ced8", null ],
-    [ "JustDied", "d9/d41/a24286.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
-    [ "Reset", "d9/d41/a24286.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
-    [ "UpdateAI", "d9/d41/a24286.html#a3b022feb2303875d32ad981e84f66854", null ],
-    [ "WaypointReached", "d9/d41/a24286.html#acd6f45abb93f3f043cd85647405a50f6", null ],
-    [ "bTake", "d9/d41/a24286.html#ac697fc6cbc20c7f316845ed26436049b", null ],
-    [ "uiTakeTimer", "d9/d41/a24286.html#a5d4826dcf893f444a42dedba57460110", null ]
+    [ "CheckCast", "d9/d41/a24286.html#ae13cc2d3da1c9911c88402d05679d447", null ],
+    [ "PrepareSpellScript", "d9/d41/a24286.html#afbed81273aa23d355c64579c71e9761d", null ],
+    [ "Register", "d9/d41/a24286.html#a7157d04dfc534aa3cb88e8dff169c676", null ]
 ];

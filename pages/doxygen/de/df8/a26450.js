@@ -1,6 +1,9 @@
 var a26450 =
 [
-    [ "HandleDamage", "de/df8/a26450.html#ae34b85a4830066e21069e5ab8373e5c4", null ],
-    [ "PrepareSpellScript", "de/df8/a26450.html#a86fd53d1f9a2ecf22c4969e2f8506acf", null ],
-    [ "Register", "de/df8/a26450.html#a1a679fb0be26228f5fcdb45da2b994ff", null ]
+    [ "CheckProc", "de/df8/a26450.html#ac0e2bf5c1a96ce0502561bb6bcb6ad97", null ],
+    [ "HandleDispel", "de/df8/a26450.html#a64235032423050de10581165c57f8b0a", null ],
+    [ "HandleProc", "de/df8/a26450.html#ab1c1196f003f7ff0bf6f6eae5bd6de9a", null ],
+    [ "PrepareAuraScript", "de/df8/a26450.html#af7ba0eb96dca76a288dd034665822069", null ],
+    [ "Register", "de/df8/a26450.html#ababc8b42c64740655864d2834a639384", null ],
+    [ "Validate", "de/df8/a26450.html#a03ecf2489369cbb7a6dff555db153a96", null ]
 ];

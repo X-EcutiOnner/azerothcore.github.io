@@ -1,11 +1,12 @@
 var a28786 =
 [
-    [ "SetUp", "d6/d02/a28786.html#abb28ef64461635a540dad471b7b12ebc", null ],
-    [ "TearDown", "d6/d02/a28786.html#ace0b9a0c578a6b8ec1d33ad584aaf911", null ],
-    [ "_previousWorld", "d6/d02/a28786.html#a2633d21816e5aa3e4a649292f07a3369", null ],
-    [ "_worldMock", "d6/d02/a28786.html#ae1629c69438e29ea7be460120132b68b", null ],
-    [ "arenaTeams", "d6/d02/a28786.html#ab40dacafdb3c5de73cf66426d014a4fe", null ],
-    [ "team1", "d6/d02/a28786.html#a325d8058950e53d17e16fd90cd105776", null ],
-    [ "team2", "d6/d02/a28786.html#ac6336ffa31e59a5d3acc227c674e9ea8", null ],
-    [ "team3", "d6/d02/a28786.html#af3c2e86874e53ae812debbe1abfbcf05", null ]
+    [ "TestVisibilityScript", "d6/d02/a28786.html#af45bf0b44aa15f43caf35b37ffd0c73d", null ],
+    [ "EnsureRegistered", "d6/d02/a28786.html#a0d804be5b25476f6883b5fc9d4582f31", null ],
+    [ "OnPlayerSetServerSideVisibility", "d6/d02/a28786.html#a6b3701188303b644b28a52ec42bec846", null ],
+    [ "Reset", "d6/d02/a28786.html#a26ef73c940ccbf6fbcfce0b59900c887", null ],
+    [ "CallCount", "d6/d02/a28786.html#afc108ad7a9b6734a45e52bf8ecfaae9f", null ],
+    [ "Instance", "d6/d02/a28786.html#adcf0326aa1e32db109ec920857868138", null ],
+    [ "LastPlayer", "d6/d02/a28786.html#ae5ef9d343ed754282b99fd3b951659ff", null ],
+    [ "LastSecurity", "d6/d02/a28786.html#a788ffb301e1351e45248a6b8686aaa6b", null ],
+    [ "LastType", "d6/d02/a28786.html#aae555f8cabfcd443b0e078fa75bf5104", null ]
 ];

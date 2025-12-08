@@ -1,7 +1,4 @@
 var a28318 =
 [
-    [ "Displayid", "d6/df1/a28318.html#adc5aee11b1e27752576b0b98156d3b3c", null ],
-    [ "ExtendedDisplayInfoID", "d6/df1/a28318.html#a174d6f73393e6dcfeecf487fc09c2e6f", null ],
-    [ "ModelId", "d6/df1/a28318.html#ada31381a4ee360e2fcb68403bc6d14e5", null ],
-    [ "scale", "d6/df1/a28318.html#ae15b89669bf5d711cc57c21d8c8be0dd", null ]
+    [ "DisplayRaceID", "d6/df1/a28318.html#a5f3897281f18061c4508d752b2291552", null ]
 ];

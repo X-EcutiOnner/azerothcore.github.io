@@ -1,8 +1,6 @@
 var a26514 =
 [
-    [ "HandleEffectRemove", "d0/deb/a26514.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
-    [ "if", "d0/deb/a26514.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
-    [ "PrepareAuraScript", "d0/deb/a26514.html#a531f51626ae4527282ad1e628911a9ea", null ],
-    [ "Register", "d0/deb/a26514.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
-    [ "AuraEffectHandleModes", "d0/deb/a26514.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
+    [ "HandleScriptEffect", "d0/deb/a26514.html#a7dc7cb2dcdd6518a253a459e2e711c89", null ],
+    [ "PrepareSpellScript", "d0/deb/a26514.html#a9c41ae2e7ef1947c11c16d8abb48ec56", null ],
+    [ "Register", "d0/deb/a26514.html#a5b2a218cca68177209ca42be9dfbc8ea", null ]
 ];

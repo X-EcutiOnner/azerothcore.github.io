@@ -1,8 +1,9 @@
 var a27374 =
 [
-    [ "FilterTargets", "d3/dd8/a27374.html#a53c6d73f3588e50c2be7ce68595a704c", null ],
-    [ "HandleEffect", "d3/dd8/a27374.html#a2edac19abf8aa765ada369e00cd7ea69", null ],
-    [ "PrepareSpellScript", "d3/dd8/a27374.html#ae1e1ff5456cb7c558ff4fe415de6a691", null ],
-    [ "Register", "d3/dd8/a27374.html#acb4d6abeb0e293728ae3dd0d248e0844", null ],
-    [ "Validate", "d3/dd8/a27374.html#aabc063155fad404ffd044c9f79b88051", null ]
+    [ "ChatLogScript", "d3/dd8/a27374.html#ade8c407083cf094f0767412e7b6d7730", null ],
+    [ "OnPlayerCanUseChat", "d3/dd8/a27374.html#a4291524fdb6bbe7b92ebb3a35fb942c4", null ],
+    [ "OnPlayerCanUseChat", "d3/dd8/a27374.html#ae7ca6f582695b3aabfd7255beb3e8d07", null ],
+    [ "OnPlayerCanUseChat", "d3/dd8/a27374.html#a64e3f0cc978eef23590ae97bb0b1320a", null ],
+    [ "OnPlayerCanUseChat", "d3/dd8/a27374.html#af891f7acb0a562c394db0a1763cc6ccd", null ],
+    [ "OnPlayerCanUseChat", "d3/dd8/a27374.html#a9b69a5da200d9fe1275d2c7dd3576e87", null ]
 ];

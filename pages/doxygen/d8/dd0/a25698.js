@@ -1,7 +1,9 @@
 var a25698 =
 [
-    [ "CalcPeriodic", "d8/dd0/a25698.html#a5847ba4daad49dca2527513055fa4429", null ],
-    [ "PrepareAuraScript", "d8/dd0/a25698.html#a8753419b2fa1b1bb96a08bf54995e82c", null ],
-    [ "Register", "d8/dd0/a25698.html#a08f851e5582831d5dd05878c4a55db67", null ],
-    [ "Update", "d8/dd0/a25698.html#a3ab2716cbccc1311992de44e6591d966", null ]
+    [ "getMountSpellId", "d8/dd0/a25698.html#afe306ed6057050baf342ee717723764d", null ],
+    [ "OnApply", "d8/dd0/a25698.html#aa8bee986d413be60d00ac1d2111ef719", null ],
+    [ "OnRemove", "d8/dd0/a25698.html#a162d466a1dcd2cb710abf12c06f7c2de", null ],
+    [ "PrepareAuraScript", "d8/dd0/a25698.html#a7070cc7aeec4a88fbde960cebf1aef56", null ],
+    [ "Register", "d8/dd0/a25698.html#a481e5295da3d789d9b3c1ed30fdaf0bd", null ],
+    [ "Validate", "d8/dd0/a25698.html#a6868f6e88c9179efd921b266c83f6daf", null ]
 ];

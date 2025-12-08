@@ -1,7 +1,6 @@
 var a24074 =
 [
-    [ "HandleDamage", "db/d8d/a24074.html#add7e78111217d00bfa3dfa5b3eb490f9", null ],
-    [ "HandleTargets", "db/d8d/a24074.html#ac9e455d4ef5cc7b7ce424b70b4387c78", null ],
-    [ "PrepareSpellScript", "db/d8d/a24074.html#a46b62a09ea23cb102b0e5cf075c727d4", null ],
-    [ "Register", "db/d8d/a24074.html#a8873614ae22c908cb2cf49129fc53be2", null ]
+    [ "HandleAfterRemove", "db/d8d/a24074.html#ac9756a8f206c114ff6443331ca266184", null ],
+    [ "PrepareAuraScript", "db/d8d/a24074.html#a2f67291e6e4291c9d01cdbcbe04a7db7", null ],
+    [ "Register", "db/d8d/a24074.html#ac36d76ad8a5ecb2e437dcb8f1248386d", null ]
 ];

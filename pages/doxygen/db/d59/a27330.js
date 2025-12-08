@@ -1,6 +1,9 @@
 var a27330 =
 [
-    [ "boss_lethonAI", "d2/da4/a27334.html", "d2/da4/a27334" ],
-    [ "boss_lethon", "db/d59/a27330.html#a5d758979b061646830373de64b2b3af4", null ],
-    [ "GetAI", "db/d59/a27330.html#a493baf37aac400635dd0409e79375a1c", null ]
+    [ "boss_lethonAI", "db/d59/a27330.html#ac5d53a746f5286776b2e510f1de86790", null ],
+    [ "DamageTaken", "db/d59/a27330.html#a8a67dc7f923bfd56948a16d917a5f70f", null ],
+    [ "JustEngagedWith", "db/d59/a27330.html#a1a3acb1e8cbceb16854aafcf51a0f99d", null ],
+    [ "Reset", "db/d59/a27330.html#a0e53d139f64d104557e157a91176a47a", null ],
+    [ "SpellHitTarget", "db/d59/a27330.html#aa478414144cb396fa67a9bdb46dcbb4c", null ],
+    [ "_stage", "db/d59/a27330.html#aa267296ee60efc7d39a20dc05afec081", null ]
 ];

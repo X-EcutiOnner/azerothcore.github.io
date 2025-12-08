@@ -17,13 +17,12 @@ var a03131 =
     [ "npc_icefang", "d2/d8e/a22462.html", "d2/d8e/a22462" ],
     [ "npc_icefang::npc_icefangAI", "df/d7a/a22466.html", "df/d7a/a22466" ],
     [ "npc_hyldsmeet_protodrake", "de/d45/a22470.html", "de/d45/a22470" ],
-    [ "npc_hyldsmeet_protodrake::npc_hyldsmeet_protodrakeAI", "de/d43/a22474.html", "de/d43/a22474" ],
-    [ "spell_close_rift_aura", "d6/d75/a22478.html", "d6/d75/a22478" ],
-    [ "spell_q12823_remove_collapsing_cave_aura", "d8/db9/a22482.html", "d8/db9/a22482" ],
-    [ "npc_vehicle_d16_propelled_delivery", "d2/dad/a22486.html", "d2/dad/a22486" ],
-    [ "npc_vehicle_d16_propelled_delivery::npc_vehicle_d16_propelled_deliveryAI", "de/d95/a22490.html", "de/d95/a22490" ],
-    [ "spell_feed_stormcrest_eagle", "d9/d70/a22494.html", "d9/d70/a22494" ],
-    [ "spell_mammoth_explosion", "d0/d35/a22498.html", "d0/d35/a22498" ],
+    [ "spell_close_rift_aura", "de/d43/a22474.html", "de/d43/a22474" ],
+    [ "spell_q12823_remove_collapsing_cave_aura", "d6/d75/a22478.html", "d6/d75/a22478" ],
+    [ "npc_vehicle_d16_propelled_delivery", "d8/db9/a22482.html", "d8/db9/a22482" ],
+    [ "npc_vehicle_d16_propelled_delivery::npc_vehicle_d16_propelled_deliveryAI", "d2/dad/a22486.html", "d2/dad/a22486" ],
+    [ "spell_feed_stormcrest_eagle", "de/d95/a22490.html", "de/d95/a22490" ],
+    [ "spell_mammoth_explosion", "d9/d70/a22494.html", "d9/d70/a22494" ],
     [ "BrunnhildarPrisoner", "db/d09/a03131.html#a2b3662a99dee3fb091ed7fe9dc34a709", [
       [ "SPELL_ICE_PRISON", "db/d09/a03131.html#a2b3662a99dee3fb091ed7fe9dc34a709a9b000c0577f729a8bbf761c4027c988c", null ],
       [ "SPELL_ICE_LANCE", "db/d09/a03131.html#a2b3662a99dee3fb091ed7fe9dc34a709aa1488ccf76f0a0098f140e9ddb95794d", null ],
@@ -72,6 +71,9 @@ var a03131 =
       [ "SPELL_KILL_CREDIT_DRAKE", "db/d09/a03131.html#a0cfcc61ebd7905935d3b9472af3edfc4aef782ab1e88176f53486813628fea63d", null ],
       [ "EVENT_CHECK_AREA", "db/d09/a03131.html#a0cfcc61ebd7905935d3b9472af3edfc4a1afe71f4391266cff2080bee59e58245", null ],
       [ "EVENT_REACHED_HOME", "db/d09/a03131.html#a0cfcc61ebd7905935d3b9472af3edfc4af05b24d3a5043dee4eec0d79b5af232b", null ]
+    ] ],
+    [ "HyldsmeetProtoDrake", "db/d09/a03131.html#a098bedef5681711ad294beb8669de2f2", [
+      [ "NPC_HYLDSMEET_DRAKERIDER", "db/d09/a03131.html#a098bedef5681711ad294beb8669de2f2ac036ddd97a095d6f808bbf7a47a628d7", null ]
     ] ],
     [ "MammothExplosion", "db/d09/a03131.html#a277341b2a5fcfa1e770f75bc37d7d757", [
       [ "SPELL_MAMMOTH_EXPL_1", "db/d09/a03131.html#a277341b2a5fcfa1e770f75bc37d7d757a110986e73ade51dc2d2d2a1445f29583", null ],

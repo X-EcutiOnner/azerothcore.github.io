@@ -1,8 +1,6 @@
 var a22766 =
 [
-    [ "CalcPeriodic", "d9/d22/a22766.html#a7a34b9bd77cd1f15a1cd7954d76d80d0", null ],
-    [ "OnRemove", "d9/d22/a22766.html#af120bb9d6a0c3d338706613540849412", null ],
-    [ "PrepareAuraScript", "d9/d22/a22766.html#ad413f14193013058e1775f80b457a81d", null ],
-    [ "Register", "d9/d22/a22766.html#aa35fc5865f108712e450661e67c384ce", null ],
-    [ "Update", "d9/d22/a22766.html#aebc61b57ed8038488ec06c14483b2099", null ]
+    [ "instance_auchenai_crypts_InstanceMapScript", "d6/d6c/a22770.html", "d6/d6c/a22770" ],
+    [ "instance_auchenai_crypts", "d9/d22/a22766.html#a8b16924167c54a9d8120bac67bc10fed", null ],
+    [ "GetInstanceScript", "d9/d22/a22766.html#a99e47df95fde07d4a6e7687634805b93", null ]
 ];

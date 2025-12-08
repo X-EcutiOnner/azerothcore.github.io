@@ -1,5 +1,6 @@
 var a24446 =
 [
-    [ "npc_shattrath_daily_quest", "dc/d8e/a24446.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
-    [ "DoAction", "dc/d8e/a24446.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
+    [ "PrepareSpellScript", "dc/d8e/a24446.html#a6b5c1227e2d12ee5f2040dc6dacd60ac", null ],
+    [ "Register", "dc/d8e/a24446.html#ac57aee08a131bcf7db11bc105f32242c", null ],
+    [ "SetDest", "dc/d8e/a24446.html#a26362c4873890bb60c2526bf07058746", null ]
 ];

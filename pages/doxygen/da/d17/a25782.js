@@ -1,6 +1,6 @@
 var a25782 =
 [
-    [ "HandleActivateObject", "da/d17/a25782.html#a0d14ca0b21716855a04a0a9267f3e019", null ],
-    [ "PrepareSpellScript", "da/d17/a25782.html#a684079434128bacd3d8b8b71c14dc56a", null ],
-    [ "Register", "da/d17/a25782.html#a266301f59c809c03d0ccfc48a2ace302", null ]
+    [ "PrepareSpellScript", "da/d17/a25782.html#a72e57e8a4bdb9a4fcd73e3519b6025ea", null ],
+    [ "Register", "da/d17/a25782.html#aac4d3c8ecde3652c65c05abad5c8eaeb", null ],
+    [ "SelectTarget", "da/d17/a25782.html#a3153b6c6814922cd7220e19b06f2a602", null ]
 ];

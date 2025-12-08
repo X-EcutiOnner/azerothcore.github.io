@@ -1,10 +1,7 @@
 var a27642 =
 [
-    [ "npc_prof_blacksmith", "d6/d71/a27642.html#af9bd62c4c2514d79daf467e4d6d7a92e", null ],
-    [ "HasWeaponSub", "d6/d71/a27642.html#a7ee47d061de5e2f482406469b4eaac3b", null ],
-    [ "OnGossipHello", "d6/d71/a27642.html#a9a432c1ec33578949110c877fc6a686d", null ],
-    [ "OnGossipSelect", "d6/d71/a27642.html#ab1edaf3dc0a8dddf064368d26930a2af", null ],
-    [ "SendActionMenu", "d6/d71/a27642.html#af2ac8f9bfa212c34be3e45cc358dd773", null ],
-    [ "SendConfirmLearn", "d6/d71/a27642.html#acbec7fe3eebf7eaed09e5755c6775eaa", null ],
-    [ "SendConfirmUnlearn", "d6/d71/a27642.html#a851dc241d944bc888a00df85bff17e3a", null ]
+    [ "npc_engineering_tele_trinket", "d6/d71/a27642.html#ab891a8378a7b1b63151d05801b8b2fd1", null ],
+    [ "CanLearn", "d6/d71/a27642.html#a8a35f1c09a9df609561e76f4ed578647", null ],
+    [ "OnGossipHello", "d6/d71/a27642.html#ad11f576fb7efad0f6ea4cf22d3bc4e59", null ],
+    [ "OnGossipSelect", "d6/d71/a27642.html#a4d7125cf0333d4e5ebc299019c8feb1a", null ]
 ];

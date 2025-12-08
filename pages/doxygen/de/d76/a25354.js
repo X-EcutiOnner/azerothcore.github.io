@@ -1,10 +1,14 @@
 var a25354 =
 [
-    [ "spell_gen_summon_elemental", "de/d76/a25354.html#ae2dece3ac20afe16430e741fab909fa1", null ],
-    [ "AfterApply", "de/d76/a25354.html#a97fbc7e3f60b6aae5d9783bbd9a2415d", null ],
-    [ "AfterRemove", "de/d76/a25354.html#aeec3688e66a7e9f0207b219e9dcdb265", null ],
-    [ "PrepareAuraScript", "de/d76/a25354.html#a3ad6e5615bb080abae4e18673cd40b6d", null ],
-    [ "Register", "de/d76/a25354.html#ac364e1a3c4b5a1cfd35d8dcec0a42345", null ],
-    [ "Validate", "de/d76/a25354.html#ac2284d4f192fe402ebcf6ad75e777c2a", null ],
-    [ "_spellId", "de/d76/a25354.html#a6ac27b65f909a8c832cf3d301c8db0ce", null ]
+    [ "spell_gen_mount", "de/d76/a25354.html#aae8c5c328dda0668bf8cdabc2c9cd29f", null ],
+    [ "HandleMount", "de/d76/a25354.html#a81085b5efd8d9bd7c82ebb1cf6604793", null ],
+    [ "PrepareSpellScript", "de/d76/a25354.html#a49e2046d30352a6e22dab2530e909fa7", null ],
+    [ "Register", "de/d76/a25354.html#a8175ecc0c407d5c4646f038d7b62e92b", null ],
+    [ "Validate", "de/d76/a25354.html#accef27fc13ff34af52860ad6ac62e7f3", null ],
+    [ "_mount0", "de/d76/a25354.html#abd6347074186b7c47ac5a2c760f4db33", null ],
+    [ "_mount100", "de/d76/a25354.html#a5e56853140f188ff1babc61c507f8300", null ],
+    [ "_mount150", "de/d76/a25354.html#a1237697623e4831c25efcde1ab370031", null ],
+    [ "_mount280", "de/d76/a25354.html#aa9d0a936795d06dd78ef3c4d5aaf0320", null ],
+    [ "_mount310", "de/d76/a25354.html#ac06b80d14cc106281c3e6bf3f6a5c727", null ],
+    [ "_mount60", "de/d76/a25354.html#a53ce7d1b5a39cce2bede77aad647dc7e", null ]
 ];

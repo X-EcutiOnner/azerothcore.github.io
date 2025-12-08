@@ -154,7 +154,7 @@ Functions</h2></td></tr>
 Variables</h2></td></tr>
 <tr class="memitem:ac706bf73d4ee9783a3b882fad9c3cbea"><td class="memItemLeft" align="right" valign="top">const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d4b/a04232.html#ac706bf73d4ee9783a3b882fad9c3cbea">szWorkDirWmo</a></td></tr>
 <tr class="separator:ac706bf73d4ee9783a3b882fad9c3cbea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a17b22c7645963c9e5c277b72605a4966"><td class="memItemLeft" align="right" valign="top">std::unordered_map&lt; std::string, <a class="el" href="../../d2/d58/a29066.html">WMODoodadData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d4b/a04232.html#a17b22c7645963c9e5c277b72605a4966">WmoDoodads</a></td></tr>
+<tr class="memitem:a17b22c7645963c9e5c277b72605a4966"><td class="memItemLeft" align="right" valign="top">std::unordered_map&lt; std::string, <a class="el" href="../../dd/da2/a29062.html">WMODoodadData</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d4b/a04232.html#a17b22c7645963c9e5c277b72605a4966">WmoDoodads</a></td></tr>
 <tr class="separator:a17b22c7645963c9e5c277b72605a4966"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
@@ -203,7 +203,7 @@ Variables</h2></td></tr>
 <dl class="todo"><dt><b><a class="el" href="../../d5/d6b/a04799.html#_todo000268">Todo:</a></b></dt><dd>: extract .mdl files, if needed </dd></dl>
 <div class="fragment"><div class="line"><span class="lineno">   60</span>{</div>
 <div class="line"><span class="lineno">   61</span>    printf(<span class="stringliteral">&quot;Extracting GameObject models...&quot;</span>);</div>
-<div class="line"><span class="lineno">   62</span>    <a class="code hl_class" href="../../d6/de5/a28886.html">DBCFile</a> dbc(<span class="stringliteral">&quot;DBFilesClient\\GameObjectDisplayInfo.dbc&quot;</span>);</div>
+<div class="line"><span class="lineno">   62</span>    <a class="code hl_class" href="../../dc/df6/a28882.html">DBCFile</a> dbc(<span class="stringliteral">&quot;DBFilesClient\\GameObjectDisplayInfo.dbc&quot;</span>);</div>
 <div class="line"><span class="lineno">   63</span>    <span class="keywordflow">if</span> (!dbc.open())</div>
 <div class="line"><span class="lineno">   64</span>    {</div>
 <div class="line"><span class="lineno">   65</span>        printf(<span class="stringliteral">&quot;Fatal error: Invalid GameObjectDisplayInfo.dbc file format!\n&quot;</span>);</div>
@@ -284,11 +284,11 @@ Variables</h2></td></tr>
 <div class="ttc" id="aa04508_html_aa0a0fd13eaa3eba090a3085d41303f12"><div class="ttname"><a href="../../dd/d8c/a04508.html#aa0a0fd13eaa3eba090a3085d41303f12">model_list</a></div><div class="ttdeci">ModelList model_list</div><div class="ttdef"><b>Definition:</b> GameObjectModel.cpp:43</div></div>
 <div class="ttc" id="aa04736_html_a8a91185d89f31e26170db63a868642cd"><div class="ttname"><a href="../../d4/da9/a04736.html#a8a91185d89f31e26170db63a868642cd">strToLower</a></div><div class="ttdeci">void strToLower(std::string &amp;str)</div><div class="ttdef"><b>Definition:</b> Util.cpp:384</div></div>
 <div class="ttc" id="aa04816_html_ab44884fb6c05cb4ae128d5882a2c4b7c"><div class="ttname"><a href="../../d1/daa/a04816.html#ab44884fb6c05cb4ae128d5882a2c4b7c">VMAP::RAW_VMAP_MAGIC</a></div><div class="ttdeci">const char RAW_VMAP_MAGIC[]</div><div class="ttdef"><b>Definition:</b> VMapDefinitions.h:26</div></div>
-<div class="ttc" id="aa28886_html"><div class="ttname"><a href="../../d6/de5/a28886.html">DBCFile</a></div><div class="ttdef"><b>Definition:</b> dbcfile.h:25</div></div>
+<div class="ttc" id="aa28882_html"><div class="ttname"><a href="../../dc/df6/a28882.html">DBCFile</a></div><div class="ttdef"><b>Definition:</b> dbcfile.h:25</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00024">ExtractSingleModel()</a>, <a class="el" href="../../#l00098">ExtractSingleWmo()</a>, <a class="el" href="../../#l00062">fixname2()</a>, <a class="el" href="../../#l00044">fixnamen()</a>, <a class="el" href="../../#l00072">GetExtension()</a>, <a class="el" href="../../#l00026">GetPlainName()</a>, <a class="el" href="../../#l00043">model_list</a>, <a class="el" href="../../#l00029">DBCFile::open()</a>, <a class="el" href="../../#l00026">VMAP::RAW_VMAP_MAGIC</a>, <a class="el" href="../../#l00384">strToLower()</a>, and <a class="el" href="../../#l00068">szWorkDirWmo</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00420">main()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00427">main()</a>.</p>
 
 </div>
 </div>
@@ -334,14 +334,14 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">   49</span>    <span class="keywordflow">if</span> (<a class="code hl_function" href="../../d0/dd2/a04190.html#ad44d8658e695b84dce92babe0abea43d">FileExists</a>(output.c_str()))</div>
 <div class="line"><span class="lineno">   50</span>        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">   51</span> </div>
-<div class="line"><span class="lineno">   52</span>    <a class="code hl_class" href="../../dd/da1/a29030.html">Model</a> mdl(originalName);</div>
+<div class="line"><span class="lineno">   52</span>    <a class="code hl_class" href="../../d5/d85/a29026.html">Model</a> mdl(originalName);</div>
 <div class="line"><span class="lineno">   53</span>    <span class="keywordflow">if</span> (!mdl.open())</div>
 <div class="line"><span class="lineno">   54</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">   55</span> </div>
 <div class="line"><span class="lineno">   56</span>    <span class="keywordflow">return</span> mdl.ConvertToVMAPModel(output.c_str());</div>
 <div class="line"><span class="lineno">   57</span>}</div>
 <div class="ttc" id="aa04190_html_ad44d8658e695b84dce92babe0abea43d"><div class="ttname"><a href="../../d0/dd2/a04190.html#ad44d8658e695b84dce92babe0abea43d">FileExists</a></div><div class="ttdeci">bool FileExists(const char *FileName)</div><div class="ttdef"><b>Definition:</b> System.cpp:144</div></div>
-<div class="ttc" id="aa29030_html"><div class="ttname"><a href="../../dd/da1/a29030.html">Model</a></div><div class="ttdef"><b>Definition:</b> model.h:32</div></div>
+<div class="ttc" id="aa29026_html"><div class="ttname"><a href="../../d5/d85/a29026.html">Model</a></div><div class="ttdef"><b>Definition:</b> model.h:32</div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00070">Model::ConvertToVMAPModel()</a>, <a class="el" href="../../#l00144">FileExists()</a>, <a class="el" href="../../#l00062">fixname2()</a>, <a class="el" href="../../#l00044">fixnamen()</a>, <a class="el" href="../../#l00026">GetPlainName()</a>, <a class="el" href="../../#l00032">Model::open()</a>, and <a class="el" href="../../#l00068">szWorkDirWmo</a>.</p>
 
@@ -396,7 +396,7 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  128</span> </div>
 <div class="line"><span class="lineno">  129</span>    <span class="keywordtype">bool</span> file_ok = <span class="keyword">true</span>;</div>
 <div class="line"><span class="lineno">  130</span>    printf(<span class="stringliteral">&quot;Extracting %s\n&quot;</span>, originalName.c_str());</div>
-<div class="line"><span class="lineno">  131</span>    <a class="code hl_class" href="../../db/d80/a29070.html">WMORoot</a> froot(originalName);</div>
+<div class="line"><span class="lineno">  131</span>    <a class="code hl_class" href="../../d2/d58/a29066.html">WMORoot</a> froot(originalName);</div>
 <div class="line"><span class="lineno">  132</span>    <span class="keywordflow">if</span> (!froot.open())</div>
 <div class="line"><span class="lineno">  133</span>    {</div>
 <div class="line"><span class="lineno">  134</span>        printf(<span class="stringliteral">&quot;Couldn&#39;t open RootWmo!!!\n&quot;</span>);</div>
@@ -409,70 +409,77 @@ Variables</h2></td></tr>
 <div class="line"><span class="lineno">  141</span>        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
 <div class="line"><span class="lineno">  142</span>    }</div>
 <div class="line"><span class="lineno">  143</span>    froot.ConvertToVMAPRootWmo(output);</div>
-<div class="line"><span class="lineno">  144</span>    <a class="code hl_struct" href="../../d2/d58/a29066.html">WMODoodadData</a>&amp; doodads = <a class="code hl_variable" href="../../d1/dcc/a04250.html#a17b22c7645963c9e5c277b72605a4966">WmoDoodads</a>[plain_name];</div>
+<div class="line"><span class="lineno">  144</span>    <a class="code hl_struct" href="../../dd/da2/a29062.html">WMODoodadData</a>&amp; doodads = <a class="code hl_variable" href="../../d1/dcc/a04250.html#a17b22c7645963c9e5c277b72605a4966">WmoDoodads</a>[plain_name];</div>
 <div class="line"><span class="lineno">  145</span>    std::swap(doodads, froot.DoodadData);</div>
 <div class="line"><span class="lineno">  146</span>    <span class="keywordtype">int</span> Wmo_nVertices = 0;</div>
-<div class="line"><span class="lineno">  147</span>    <span class="comment">//printf(&quot;root has %d groups\n&quot;, froot-&gt;nGroups);</span></div>
-<div class="line"><span class="lineno">  148</span>    <span class="keywordflow">if</span> (froot.nGroups != 0)</div>
-<div class="line"><span class="lineno">  149</span>    {</div>
-<div class="line"><span class="lineno">  150</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; froot.nGroups; ++i)</div>
-<div class="line"><span class="lineno">  151</span>        {</div>
-<div class="line"><span class="lineno">  152</span>            <span class="keywordtype">char</span> temp[1024];</div>
-<div class="line"><span class="lineno">  153</span>            strncpy(temp, fname.c_str(), 1024);</div>
-<div class="line"><span class="lineno">  154</span>            temp[fname.length() - 4] = 0;</div>
-<div class="line"><span class="lineno">  155</span>            <span class="keywordtype">char</span> groupFileName[1024];</div>
-<div class="line"><span class="lineno">  156</span>            <span class="keywordtype">int</span> ret = snprintf(groupFileName, 1024, <span class="stringliteral">&quot;%s_%03u.wmo&quot;</span>, temp, i);</div>
-<div class="line"><span class="lineno">  157</span>            <span class="keywordflow">if</span> (ret &lt; 0)</div>
-<div class="line"><span class="lineno">  158</span>            {</div>
-<div class="line"><span class="lineno">  159</span>                printf(<span class="stringliteral">&quot;Error when formatting string&quot;</span>);</div>
-<div class="line"><span class="lineno">  160</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  161</span>            }</div>
-<div class="line"><span class="lineno">  162</span>            <span class="comment">//printf(&quot;Trying to open groupfile %s\n&quot;,groupFileName);</span></div>
-<div class="line"><span class="lineno">  163</span> </div>
-<div class="line"><span class="lineno">  164</span>            <span class="keywordtype">string</span> s = groupFileName;</div>
-<div class="line"><span class="lineno">  165</span>            <a class="code hl_class" href="../../d0/dcf/a29082.html">WMOGroup</a> fgroup(s);</div>
-<div class="line"><span class="lineno">  166</span>            <span class="keywordflow">if</span> (!fgroup.open(&amp;froot))</div>
-<div class="line"><span class="lineno">  167</span>            {</div>
-<div class="line"><span class="lineno">  168</span>                printf(<span class="stringliteral">&quot;Could not open all Group file for: %s\n&quot;</span>, plain_name);</div>
-<div class="line"><span class="lineno">  169</span>                file_ok = <span class="keyword">false</span>;</div>
-<div class="line"><span class="lineno">  170</span>                <span class="keywordflow">break</span>;</div>
-<div class="line"><span class="lineno">  171</span>            }</div>
-<div class="line"><span class="lineno">  172</span> </div>
-<div class="line"><span class="lineno">  173</span>            Wmo_nVertices += fgroup.ConvertToVMAPGroupWmo(output, <a class="code hl_variable" href="../../d1/dcc/a04250.html#a2191d2ffb8973cd0ddb269bcaa06a31d">preciseVectorData</a>);</div>
-<div class="line"><span class="lineno">  174</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> groupReference : fgroup.DoodadReferences)</div>
-<div class="line"><span class="lineno">  175</span>            {</div>
-<div class="line"><span class="lineno">  176</span>                <span class="keywordflow">if</span> (groupReference &gt;= doodads.<a class="code hl_variable" href="../../d2/d58/a29066.html#a51f24c059516683f0744b81819186c0e">Spawns</a>.size())</div>
-<div class="line"><span class="lineno">  177</span>                    <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  178</span> </div>
-<div class="line"><span class="lineno">  179</span>                <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> doodadNameIndex = doodads.<a class="code hl_variable" href="../../d2/d58/a29066.html#a51f24c059516683f0744b81819186c0e">Spawns</a>[groupReference].NameIndex;</div>
-<div class="line"><span class="lineno">  180</span>                <span class="keywordflow">if</span> (froot.ValidDoodadNames.find(doodadNameIndex) == froot.ValidDoodadNames.end())</div>
-<div class="line"><span class="lineno">  181</span>                    <span class="keywordflow">continue</span>;</div>
-<div class="line"><span class="lineno">  182</span> </div>
-<div class="line"><span class="lineno">  183</span>                doodads.<a class="code hl_variable" href="../../d2/d58/a29066.html#a07f0d7daa9cd934768b8a603dc52bea3">References</a>.insert(groupReference);</div>
-<div class="line"><span class="lineno">  184</span>            }</div>
-<div class="line"><span class="lineno">  185</span>        }</div>
-<div class="line"><span class="lineno">  186</span>    }</div>
+<div class="line"><span class="lineno">  147</span>    <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> groupCount = 0;</div>
+<div class="line"><span class="lineno">  148</span>    <span class="comment">//printf(&quot;root has %d groups\n&quot;, froot-&gt;nGroups);</span></div>
+<div class="line"><span class="lineno">  149</span>    <span class="keywordflow">if</span> (froot.nGroups != 0)</div>
+<div class="line"><span class="lineno">  150</span>    {</div>
+<div class="line"><span class="lineno">  151</span>        <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> i = 0; i &lt; froot.nGroups; ++i)</div>
+<div class="line"><span class="lineno">  152</span>        {</div>
+<div class="line"><span class="lineno">  153</span>            <span class="keywordtype">char</span> temp[1024];</div>
+<div class="line"><span class="lineno">  154</span>            strncpy(temp, fname.c_str(), 1024);</div>
+<div class="line"><span class="lineno">  155</span>            temp[fname.length() - 4] = 0;</div>
+<div class="line"><span class="lineno">  156</span>            <span class="keywordtype">char</span> groupFileName[1024];</div>
+<div class="line"><span class="lineno">  157</span>            <span class="keywordtype">int</span> ret = snprintf(groupFileName, 1024, <span class="stringliteral">&quot;%s_%03u.wmo&quot;</span>, temp, i);</div>
+<div class="line"><span class="lineno">  158</span>            <span class="keywordflow">if</span> (ret &lt; 0)</div>
+<div class="line"><span class="lineno">  159</span>            {</div>
+<div class="line"><span class="lineno">  160</span>                printf(<span class="stringliteral">&quot;Error when formatting string&quot;</span>);</div>
+<div class="line"><span class="lineno">  161</span>                <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  162</span>            }</div>
+<div class="line"><span class="lineno">  163</span>            <span class="comment">//printf(&quot;Trying to open groupfile %s\n&quot;,groupFileName);</span></div>
+<div class="line"><span class="lineno">  164</span> </div>
+<div class="line"><span class="lineno">  165</span>            <span class="keywordtype">string</span> s = groupFileName;</div>
+<div class="line"><span class="lineno">  166</span>            <a class="code hl_class" href="../../d0/d81/a29078.html">WMOGroup</a> fgroup(s);</div>
+<div class="line"><span class="lineno">  167</span>            <span class="keywordflow">if</span> (!fgroup.open(&amp;froot))</div>
+<div class="line"><span class="lineno">  168</span>            {</div>
+<div class="line"><span class="lineno">  169</span>                printf(<span class="stringliteral">&quot;Could not open all Group file for: %s\n&quot;</span>, plain_name);</div>
+<div class="line"><span class="lineno">  170</span>                file_ok = <span class="keyword">false</span>;</div>
+<div class="line"><span class="lineno">  171</span>                <span class="keywordflow">break</span>;</div>
+<div class="line"><span class="lineno">  172</span>            }</div>
+<div class="line"><span class="lineno">  173</span> </div>
+<div class="line"><span class="lineno">  174</span>            <span class="keywordflow">if</span> (fgroup.ShouldSkip(&amp;froot))</div>
+<div class="line"><span class="lineno">  175</span>                <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  176</span> </div>
+<div class="line"><span class="lineno">  177</span>            Wmo_nVertices += fgroup.ConvertToVMAPGroupWmo(output, <a class="code hl_variable" href="../../d1/dcc/a04250.html#a2191d2ffb8973cd0ddb269bcaa06a31d">preciseVectorData</a>);</div>
+<div class="line"><span class="lineno">  178</span>            ++groupCount;</div>
+<div class="line"><span class="lineno">  179</span>            <span class="keywordflow">for</span> (<a class="code hl_typedef" href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a> groupReference : fgroup.DoodadReferences)</div>
+<div class="line"><span class="lineno">  180</span>            {</div>
+<div class="line"><span class="lineno">  181</span>                <span class="keywordflow">if</span> (groupReference &gt;= doodads.<a class="code hl_variable" href="../../dd/da2/a29062.html#a51f24c059516683f0744b81819186c0e">Spawns</a>.size())</div>
+<div class="line"><span class="lineno">  182</span>                    <span class="keywordflow">continue</span>;</div>
+<div class="line"><span class="lineno">  183</span> </div>
+<div class="line"><span class="lineno">  184</span>                <a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a> doodadNameIndex = doodads.<a class="code hl_variable" href="../../dd/da2/a29062.html#a51f24c059516683f0744b81819186c0e">Spawns</a>[groupReference].NameIndex;</div>
+<div class="line"><span class="lineno">  185</span>                <span class="keywordflow">if</span> (froot.ValidDoodadNames.find(doodadNameIndex) == froot.ValidDoodadNames.end())</div>
+<div class="line"><span class="lineno">  186</span>                    <span class="keywordflow">continue</span>;</div>
 <div class="line"><span class="lineno">  187</span> </div>
-<div class="line"><span class="lineno">  188</span>    fseek(output, 8, SEEK_SET); <span class="comment">// store the correct no of vertices</span></div>
-<div class="line"><span class="lineno">  189</span>    fwrite(&amp;Wmo_nVertices, <span class="keyword">sizeof</span>(<span class="keywordtype">int</span>), 1, output);</div>
-<div class="line"><span class="lineno">  190</span>    fclose(output);</div>
-<div class="line"><span class="lineno">  191</span> </div>
-<div class="line"><span class="lineno">  192</span>    <span class="comment">// Delete the extracted file in the case of an error</span></div>
-<div class="line"><span class="lineno">  193</span>    <span class="keywordflow">if</span> (!file_ok)</div>
-<div class="line"><span class="lineno">  194</span>        remove(szLocalFile);</div>
-<div class="line"><span class="lineno">  195</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
-<div class="line"><span class="lineno">  196</span>}</div>
+<div class="line"><span class="lineno">  188</span>                doodads.<a class="code hl_variable" href="../../dd/da2/a29062.html#a07f0d7daa9cd934768b8a603dc52bea3">References</a>.insert(groupReference);</div>
+<div class="line"><span class="lineno">  189</span>            }</div>
+<div class="line"><span class="lineno">  190</span>        }</div>
+<div class="line"><span class="lineno">  191</span>    }</div>
+<div class="line"><span class="lineno">  192</span> </div>
+<div class="line"><span class="lineno">  193</span>    fseek(output, 8, SEEK_SET); <span class="comment">// store the correct no of vertices</span></div>
+<div class="line"><span class="lineno">  194</span>    fwrite(&amp;Wmo_nVertices, <span class="keyword">sizeof</span>(<span class="keywordtype">int</span>), 1, output);</div>
+<div class="line"><span class="lineno">  195</span>    <span class="comment">// store the correct no of groups</span></div>
+<div class="line"><span class="lineno">  196</span>    fwrite(&amp;groupCount, <span class="keyword">sizeof</span>(<a class="code hl_typedef" href="../../d2/dfc/a04310.html#a22f78cc9780bf32aff91ae17c3101c8d">uint32</a>), 1, output);</div>
+<div class="line"><span class="lineno">  197</span>    fclose(output);</div>
+<div class="line"><span class="lineno">  198</span> </div>
+<div class="line"><span class="lineno">  199</span>    <span class="comment">// Delete the extracted file in the case of an error</span></div>
+<div class="line"><span class="lineno">  200</span>    <span class="keywordflow">if</span> (!file_ok)</div>
+<div class="line"><span class="lineno">  201</span>        remove(szLocalFile);</div>
+<div class="line"><span class="lineno">  202</span>    <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><span class="lineno">  203</span>}</div>
 <div class="ttc" id="aa04250_html_a17b22c7645963c9e5c277b72605a4966"><div class="ttname"><a href="../../d1/dcc/a04250.html#a17b22c7645963c9e5c277b72605a4966">WmoDoodads</a></div><div class="ttdeci">std::unordered_map&lt; std::string, WMODoodadData &gt; WmoDoodads</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:64</div></div>
 <div class="ttc" id="aa04250_html_a2191d2ffb8973cd0ddb269bcaa06a31d"><div class="ttname"><a href="../../d1/dcc/a04250.html#a2191d2ffb8973cd0ddb269bcaa06a31d">preciseVectorData</a></div><div class="ttdeci">bool preciseVectorData</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:63</div></div>
 <div class="ttc" id="aa04250_html_aab524156a5705c5cd09f96106eaac92d"><div class="ttname"><a href="../../d1/dcc/a04250.html#aab524156a5705c5cd09f96106eaac92d">FileExists</a></div><div class="ttdeci">bool FileExists(const char *file)</div><div class="ttdef"><b>Definition:</b> vmapexport.cpp:79</div></div>
 <div class="ttc" id="aa04310_html_ad9c79638db63f1dfe2b085743b5cbf7b"><div class="ttname"><a href="../../d2/dfc/a04310.html#ad9c79638db63f1dfe2b085743b5cbf7b">uint16</a></div><div class="ttdeci">std::uint16_t uint16</div><div class="ttdef"><b>Definition:</b> Define.h:108</div></div>
-<div class="ttc" id="aa29066_html"><div class="ttname"><a href="../../d2/d58/a29066.html">WMODoodadData</a></div><div class="ttdef"><b>Definition:</b> wmo.h:71</div></div>
-<div class="ttc" id="aa29066_html_a07f0d7daa9cd934768b8a603dc52bea3"><div class="ttname"><a href="../../d2/d58/a29066.html#a07f0d7daa9cd934768b8a603dc52bea3">WMODoodadData::References</a></div><div class="ttdeci">std::unordered_set&lt; uint16 &gt; References</div><div class="ttdef"><b>Definition:</b> wmo.h:75</div></div>
-<div class="ttc" id="aa29066_html_a51f24c059516683f0744b81819186c0e"><div class="ttname"><a href="../../d2/d58/a29066.html#a51f24c059516683f0744b81819186c0e">WMODoodadData::Spawns</a></div><div class="ttdeci">std::vector&lt; WMO::MODD &gt; Spawns</div><div class="ttdef"><b>Definition:</b> wmo.h:74</div></div>
-<div class="ttc" id="aa29070_html"><div class="ttname"><a href="../../db/d80/a29070.html">WMORoot</a></div><div class="ttdef"><b>Definition:</b> wmo.h:79</div></div>
-<div class="ttc" id="aa29082_html"><div class="ttname"><a href="../../d0/dcf/a29082.html">WMOGroup</a></div><div class="ttdef"><b>Definition:</b> wmo.h:118</div></div>
+<div class="ttc" id="aa29062_html"><div class="ttname"><a href="../../dd/da2/a29062.html">WMODoodadData</a></div><div class="ttdef"><b>Definition:</b> wmo.h:71</div></div>
+<div class="ttc" id="aa29062_html_a07f0d7daa9cd934768b8a603dc52bea3"><div class="ttname"><a href="../../dd/da2/a29062.html#a07f0d7daa9cd934768b8a603dc52bea3">WMODoodadData::References</a></div><div class="ttdeci">std::unordered_set&lt; uint16 &gt; References</div><div class="ttdef"><b>Definition:</b> wmo.h:75</div></div>
+<div class="ttc" id="aa29062_html_a51f24c059516683f0744b81819186c0e"><div class="ttname"><a href="../../dd/da2/a29062.html#a51f24c059516683f0744b81819186c0e">WMODoodadData::Spawns</a></div><div class="ttdeci">std::vector&lt; WMO::MODD &gt; Spawns</div><div class="ttdef"><b>Definition:</b> wmo.h:74</div></div>
+<div class="ttc" id="aa29066_html"><div class="ttname"><a href="../../d2/d58/a29066.html">WMORoot</a></div><div class="ttdef"><b>Definition:</b> wmo.h:79</div></div>
+<div class="ttc" id="aa29078_html"><div class="ttname"><a href="../../d0/d81/a29078.html">WMOGroup</a></div><div class="ttdef"><b>Definition:</b> wmo.h:119</div></div>
 </div><!-- fragment -->
-<p class="reference">References <a class="el" href="../../#l00291">WMOGroup::ConvertToVMAPGroupWmo()</a>, <a class="el" href="../../#l00144">WMORoot::ConvertToVMAPRootWmo()</a>, <a class="el" href="../../#l00088">WMORoot::DoodadData</a>, <a class="el" href="../../#l00149">WMOGroup::DoodadReferences</a>, <a class="el" href="../../#l00079">FileExists()</a>, <a class="el" href="../../#l00062">fixname2()</a>, <a class="el" href="../../#l00044">fixnamen()</a>, <a class="el" href="../../#l00026">GetPlainName()</a>, <a class="el" href="../../#l00084">WMORoot::nGroups</a>, <a class="el" href="../../#l00038">WMORoot::open()</a>, <a class="el" href="../../#l00167">WMOGroup::open()</a>, <a class="el" href="../../#l00063">preciseVectorData</a>, <a class="el" href="../../#l00075">WMODoodadData::References</a>, <a class="el" href="../../#l00074">WMODoodadData::Spawns</a>, <a class="el" href="../../#l00068">szWorkDirWmo</a>, <a class="el" href="../../#l00089">WMORoot::ValidDoodadNames</a>, and <a class="el" href="../../#l00064">WmoDoodads</a>.</p>
+<p class="reference">References <a class="el" href="../../#l00296">WMOGroup::ConvertToVMAPGroupWmo()</a>, <a class="el" href="../../#l00149">WMORoot::ConvertToVMAPRootWmo()</a>, <a class="el" href="../../#l00089">WMORoot::DoodadData</a>, <a class="el" href="../../#l00150">WMOGroup::DoodadReferences</a>, <a class="el" href="../../#l00079">FileExists()</a>, <a class="el" href="../../#l00062">fixname2()</a>, <a class="el" href="../../#l00044">fixnamen()</a>, <a class="el" href="../../#l00026">GetPlainName()</a>, <a class="el" href="../../#l00084">WMORoot::nGroups</a>, <a class="el" href="../../#l00038">WMORoot::open()</a>, <a class="el" href="../../#l00172">WMOGroup::open()</a>, <a class="el" href="../../#l00063">preciseVectorData</a>, <a class="el" href="../../#l00075">WMODoodadData::References</a>, <a class="el" href="../../#l00505">WMOGroup::ShouldSkip()</a>, <a class="el" href="../../#l00074">WMODoodadData::Spawns</a>, <a class="el" href="../../#l00068">szWorkDirWmo</a>, <a class="el" href="../../#l00090">WMORoot::ValidDoodadNames</a>, and <a class="el" href="../../#l00064">WmoDoodads</a>.</p>
 
 <p class="reference">Referenced by <a class="el" href="../../#l00059">ExtractGameobjectModels()</a>, <a class="el" href="../../#l00084">ADTFile::init()</a>, and <a class="el" href="../../#l00038">WDTFile::init()</a>.</p>
 
@@ -543,7 +550,7 @@ Variables</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="../../#l00070">uniqueObjectIds</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="../../#l00138">Doodad::Extract()</a>, <a class="el" href="../../#l00511">MapObject::Extract()</a>, and <a class="el" href="../../#l00181">Doodad::ExtractSet()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00138">Doodad::Extract()</a>, <a class="el" href="../../#l00532">MapObject::Extract()</a>, and <a class="el" href="../../#l00181">Doodad::ExtractSet()</a>.</p>
 
 </div>
 </div>
@@ -593,7 +600,7 @@ Variables</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="reference">Referenced by <a class="el" href="../../#l00138">Doodad::Extract()</a>, <a class="el" href="../../#l00511">MapObject::Extract()</a>, <a class="el" href="../../#l00059">ExtractGameobjectModels()</a>, <a class="el" href="../../#l00181">Doodad::ExtractSet()</a>, <a class="el" href="../../#l00024">ExtractSingleModel()</a>, <a class="el" href="../../#l00098">ExtractSingleWmo()</a>, <a class="el" href="../../#l00084">ADTFile::init()</a>, <a class="el" href="../../#l00038">WDTFile::init()</a>, and <a class="el" href="../../#l00420">main()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="../../#l00138">Doodad::Extract()</a>, <a class="el" href="../../#l00532">MapObject::Extract()</a>, <a class="el" href="../../#l00059">ExtractGameobjectModels()</a>, <a class="el" href="../../#l00181">Doodad::ExtractSet()</a>, <a class="el" href="../../#l00024">ExtractSingleModel()</a>, <a class="el" href="../../#l00098">ExtractSingleWmo()</a>, <a class="el" href="../../#l00084">ADTFile::init()</a>, <a class="el" href="../../#l00038">WDTFile::init()</a>, and <a class="el" href="../../#l00427">main()</a>.</p>
 
 </div>
 </div>
@@ -607,7 +614,7 @@ Variables</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">std::unordered_map&lt;std::string, <a class="el" href="../../d2/d58/a29066.html">WMODoodadData</a>&gt; WmoDoodads</td>
+          <td class="memname">std::unordered_map&lt;std::string, <a class="el" href="../../dd/da2/a29062.html">WMODoodadData</a>&gt; WmoDoodads</td>
         </tr>
       </table>
   </td>
@@ -627,7 +634,7 @@ Variables</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="../../dir_f7e0c1f1a42fff32e0ff6393fb6a6d60.html">azerothcore-wotlk</a></li><li class="navelem"><a class="el" href="../../dir_ee82ee7794f367a672177b3bd595def7.html">src</a></li><li class="navelem"><a class="el" href="../../dir_ac5beb3152ba3ce8038adbba12e192c7.html">tools</a></li><li class="navelem"><a class="el" href="../../dir_b604cd515113e1b9d14f26b265d784ac.html">vmap4_extractor</a></li><li class="navelem"><a class="el" href="../../d4/d4b/a04232.html">vmapexport.h</a></li>
-    <li class="footer">Generated on Mon Dec 1 2025 20:47:01 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
+    <li class="footer">Generated on Mon Dec 8 2025 20:48:41 for AzerothCore by <a href="https://www.doxygen.org/index.html"><img class="footer" src="../../doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.5 </li>
   </ul>
 </div>
 </body>

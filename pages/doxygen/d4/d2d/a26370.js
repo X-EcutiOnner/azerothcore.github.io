@@ -1,6 +1,10 @@
 var a26370 =
 [
-    [ "CheckCast", "d4/d2d/a26370.html#a5f4979e1d164bee9e5a411e7d023810b", null ],
-    [ "PrepareSpellScript", "d4/d2d/a26370.html#a33e86d770e926247c58c00143b55c418", null ],
-    [ "Register", "d4/d2d/a26370.html#a453c7fa25baf458c9a319053ca726621", null ]
+    [ "CalculateAPAmount", "d4/d2d/a26370.html#a611247fcbdaeeb416a8cfbaf1a0fc415", null ],
+    [ "CalculateResistanceAmount", "d4/d2d/a26370.html#aa3fd9aa18ea2afa20c7c2298a8699812", null ],
+    [ "CalculateSPAmount", "d4/d2d/a26370.html#a9ae59870127884029a938684786e67a9", null ],
+    [ "CalculateStatAmount", "d4/d2d/a26370.html#a4ac5ffabf820d73d4a92a4a0628370e9", null ],
+    [ "HandleEffectApply", "d4/d2d/a26370.html#aaca0801f75839ebd9568c4cd31011a1e", null ],
+    [ "PrepareAuraScript", "d4/d2d/a26370.html#aa90952337607986eaf7485200a32c353", null ],
+    [ "Register", "d4/d2d/a26370.html#a88520214bd87511b615965593f1b927f", null ]
 ];

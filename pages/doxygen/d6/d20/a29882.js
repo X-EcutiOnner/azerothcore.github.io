@@ -1,14 +1,18 @@
 var a29882 =
 [
-    [ "file_MVER", "d6/de5/a28886.html", "d6/de5/a28886" ],
-    [ "FileLoader", "da/d6d/a28894.html", "da/d6d/a28894" ],
-    [ "FILE_FORMAT_VERSION", "d6/d20/a29882.html#a82680783457cdcbe83db9eefe68f8a9b", null ],
-    [ "int16", "d6/d20/a29882.html#aa0d0fdc87fd135ef2bedb030901cdb9c", null ],
-    [ "int32", "d6/d20/a29882.html#ab7903878916593daecbeb95b98115ab0", null ],
-    [ "int64", "d6/d20/a29882.html#a7cde0074dfd288f2d70c0e035dacb28a", null ],
-    [ "int8", "d6/d20/a29882.html#aa79c2d3de4fcd200458c406f40b2ae64", null ],
-    [ "uint16", "d6/d20/a29882.html#ac2a9e79eb120216f855626495b7bd18a", null ],
-    [ "uint32", "d6/d20/a29882.html#acbd4acd0d29e2d6c43104827f77d9cd2", null ],
-    [ "uint64", "d6/d20/a29882.html#abc0f5bc07737e498f287334775dff2b6", null ],
-    [ "uint8", "d6/d20/a29882.html#a33a5e996e7a90acefb8b1c0bea47e365", null ]
+    [ "_ACORE_CORE_CONFIG", "dc/d6d/a04802.html#ga1d466b8deaea4c5b80b4abcdc38991fd", null ],
+    [ "ClearOnlineAccounts", "dc/d6d/a04802.html#ga285010ee0ae83f9198f08fa3145877d7", null ],
+    [ "GetConsoleArguments", "dc/d6d/a04802.html#gab889056920cce8fbe96e920cea5fd9e6", null ],
+    [ "LoadRealmInfo", "dc/d6d/a04802.html#ga74b21e249952fe0d6d779ee217c76dc5", null ],
+    [ "main", "dc/d6d/a04802.html#ga3c04138a5bfe5d72780bb7e82a18e627", null ],
+    [ "ShutdownCLIThread", "dc/d6d/a04802.html#gaafe46b3c9a56a31faa60963b6a1f202a", null ],
+    [ "SignalHandler", "dc/d6d/a04802.html#gad82d96de9a84a7d0325afcd3121344a4", null ],
+    [ "StartDB", "dc/d6d/a04802.html#ga1551df43a48f1dbf64dbec1e47b07eea", null ],
+    [ "StartRaSocketAcceptor", "dc/d6d/a04802.html#ga0781c2ca38d89a89b174f81fb895285b", null ],
+    [ "StopDB", "dc/d6d/a04802.html#ga927af1587546ee7503a3b9a18f6439c0", null ],
+    [ "WorldUpdateLoop", "dc/d6d/a04802.html#ga62605923595bdfa644784c8a929fa1a7", null ],
+    [ "m_ServiceStatus", "dc/d6d/a04802.html#gabad888b856358b30aa3928d7e01916fb", null ],
+    [ "serviceDescription", "dc/d6d/a04802.html#ga2994dda4045f1e2d3d675565a16a4dd2", null ],
+    [ "serviceLongName", "dc/d6d/a04802.html#ga34b5207234887e0d62724cf770037f6f", null ],
+    [ "serviceName", "dc/d6d/a04802.html#ga69c549a4f4a1e88fa4a2c38cde62f569", null ]
 ];

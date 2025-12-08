@@ -1,6 +1,7 @@
 var a25834 =
 [
-    [ "HandleOnEffectHit", "d7/da8/a25834.html#a07157e7255d52acf6eb5d5e5c17e2190", null ],
-    [ "PrepareSpellScript", "d7/da8/a25834.html#a0b2fd34dda3b23b574f6a5a0c4435006", null ],
-    [ "Register", "d7/da8/a25834.html#a59c6a1618faa5a44e1c37337b39a3cba", null ]
+    [ "OnRemove", "d7/da8/a25834.html#a1f4f852ef6d5b2313df20af540eee7da", null ],
+    [ "PrepareAuraScript", "d7/da8/a25834.html#a8abf8084dd8bb1ac74b3884380cda809", null ],
+    [ "Register", "d7/da8/a25834.html#a35a8adc4944fc2333488e72498f6d252", null ],
+    [ "Validate", "d7/da8/a25834.html#aa312f28f03cc0929eb9ea8ba526ebb54", null ]
 ];

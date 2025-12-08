@@ -1,11 +1,12 @@
 var a23270 =
 [
-    [ "boss_doomwalker", "d2/d26/a23270.html#a47811086ff98b1a09af5300af94b6c0e", null ],
-    [ "JustDied", "d2/d26/a23270.html#aeefc6b3fdff4375c421318484e0b18a6", null ],
-    [ "JustEngagedWith", "d2/d26/a23270.html#a01aa1cc0e5feaf9d2f49b54daaf7b13f", null ],
-    [ "KilledUnit", "d2/d26/a23270.html#a2335eb642940397f73ee2a8051624e8e", null ],
-    [ "MoveInLineOfSight", "d2/d26/a23270.html#ac0ffd491ac9a4923e3977e09e8ba310e", null ],
-    [ "Reset", "d2/d26/a23270.html#aba08b227d629c9f35e59f465e29c267b", null ],
-    [ "UpdateAI", "d2/d26/a23270.html#a3105c50e512c6f709985cece619b131f", null ],
-    [ "_inEnrage", "d2/d26/a23270.html#a0004e96e25d8f5ad9393e3cdb3a4ce70", null ]
+    [ "boss_fathomlord_karathress", "d2/d26/a23270.html#a05c483ea61011926c260b43f6c01cac3", null ],
+    [ "DoAction", "d2/d26/a23270.html#adc5685244341e353c6dac67b0191d877", null ],
+    [ "JustDied", "d2/d26/a23270.html#a4c356359be50b626a28fab4a803386f8", null ],
+    [ "JustEngagedWith", "d2/d26/a23270.html#ae221d994f2ebb0a298288233727ea1ba", null ],
+    [ "JustReachedHome", "d2/d26/a23270.html#a1e03da049ad75a464de5dd15ac5e6d88", null ],
+    [ "JustSummoned", "d2/d26/a23270.html#a3a692ef94d555e991a7cd34dee9812d9", null ],
+    [ "KilledUnit", "d2/d26/a23270.html#a02812a3cc7de22348058dedd107bb6d0", null ],
+    [ "Reset", "d2/d26/a23270.html#a52f76cb43a32c5f59cbc7476f0df8646", null ],
+    [ "_recentlySpoken", "d2/d26/a23270.html#a81f52ead90284ca3598cd64eb9fb88ee", null ]
 ];

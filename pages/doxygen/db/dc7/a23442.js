@@ -1,10 +1,13 @@
 var a23442 =
 [
-    [ "npc_frozen_core", "db/dc7/a23442.html#af00f67392d96aa1ab8ccdab5b168fc04", null ],
-    [ "DoAction", "db/dc7/a23442.html#a7b2c684f0c4e88720fb0d921815026ab", null ],
-    [ "Initialize", "db/dc7/a23442.html#a7e5824e31f600d10c3177e00ae443c7f", null ],
-    [ "JustDied", "db/dc7/a23442.html#a476e086b0379e0cef3a44d250b020d6a", null ],
-    [ "UpdateAI", "db/dc7/a23442.html#af09168b57b79d14d9a7ef6861e85cc1a", null ],
-    [ "_events", "db/dc7/a23442.html#a3a5efec3279644ef713722e1556a3c84", null ],
-    [ "_instance", "db/dc7/a23442.html#a80fa517cc7dffd4bf15f3393d1f4af14", null ]
+    [ "npc_ahune_bunny", "db/dc7/a23442.html#ae28e0d2dbaab082488d5582b75cd8482", null ],
+    [ "DoAction", "db/dc7/a23442.html#ad071787c47254f603ba7692889733202", null ],
+    [ "JustDied", "db/dc7/a23442.html#a8733a3e495ebf69df4f9d1213df50170", null ],
+    [ "JustSummoned", "db/dc7/a23442.html#a2c5c97b497cd15a1453bbd21d279a29b", null ],
+    [ "ResetFlameCallers", "db/dc7/a23442.html#a60a74aabbf42116079081134a332a100", null ],
+    [ "UpdateAI", "db/dc7/a23442.html#aa8dff40dde7820b1ce4e06c8d27e4ecb", null ],
+    [ "_events", "db/dc7/a23442.html#af84154fff16cbdb15586b3b07223e010", null ],
+    [ "_instance", "db/dc7/a23442.html#a9be0d062379e5a3dfa19af1eb1a4243e", null ],
+    [ "_submerged", "db/dc7/a23442.html#a15fdcc2fda18e118f398ccc055f52942", null ],
+    [ "_summons", "db/dc7/a23442.html#a8f9e25f0d8a66b18e887b061592c6950", null ]
 ];

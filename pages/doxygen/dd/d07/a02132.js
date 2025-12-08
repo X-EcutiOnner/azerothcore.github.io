@@ -1,10 +1,10 @@
 var a02132 =
 [
-    [ "boss_high_king_maulgar", "d2/d08/a23650.html", "d2/d08/a23650" ],
-    [ "boss_olm_the_summoner", "d3/df4/a23654.html", "d3/df4/a23654" ],
-    [ "boss_kiggler_the_crazed", "d9/dcf/a23658.html", "d9/dcf/a23658" ],
-    [ "boss_blindeye_the_seer", "d9/dea/a23662.html", "d9/dea/a23662" ],
-    [ "boss_krosh_firehand", "d5/d67/a23666.html", "d5/d67/a23666" ],
+    [ "boss_high_king_maulgar", "d1/d5d/a23646.html", "d1/d5d/a23646" ],
+    [ "boss_olm_the_summoner", "d2/d08/a23650.html", "d2/d08/a23650" ],
+    [ "boss_kiggler_the_crazed", "d3/df4/a23654.html", "d3/df4/a23654" ],
+    [ "boss_blindeye_the_seer", "d9/dcf/a23658.html", "d9/dcf/a23658" ],
+    [ "boss_krosh_firehand", "d9/dea/a23662.html", "d9/dea/a23662" ],
     [ "HighKingMaulgar", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00", [
       [ "SAY_AGGRO", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00a47c752fff069f3e55065795eef2a9bfe", null ],
       [ "SAY_ENRAGE", "dd/d07/a02132.html#a79b8e9b872a1c2b80ceefb2d55901a00ac90d9311ef3cf3f33564ce22ff904f54", null ],

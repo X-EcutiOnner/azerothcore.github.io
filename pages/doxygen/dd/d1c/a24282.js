@@ -1,7 +1,10 @@
 var a24282 =
 [
-    [ "npc_maxx_a_million_escortAI", "d9/d41/a24286.html", "d9/d41/a24286" ],
-    [ "npc_maxx_a_million_escort", "dd/d1c/a24282.html#a958a88b495594dd8e14919d950ac917a", null ],
-    [ "GetAI", "dd/d1c/a24282.html#af79619087908d442f503e0b0d633937d", null ],
-    [ "OnQuestAccept", "dd/d1c/a24282.html#af3c2f2708702f7d25e712c63a45e69e0", null ]
+    [ "npc_maxx_a_million_escortAI", "dd/d1c/a24282.html#ab827933527ed7b4a04b162034876ced8", null ],
+    [ "JustDied", "dd/d1c/a24282.html#a2106ab4d32d0f221f62eeffd93f71380", null ],
+    [ "Reset", "dd/d1c/a24282.html#a6b9b2ed76e26f908ff2272ad8744a59e", null ],
+    [ "UpdateAI", "dd/d1c/a24282.html#a3b022feb2303875d32ad981e84f66854", null ],
+    [ "WaypointReached", "dd/d1c/a24282.html#acd6f45abb93f3f043cd85647405a50f6", null ],
+    [ "bTake", "dd/d1c/a24282.html#ac697fc6cbc20c7f316845ed26436049b", null ],
+    [ "uiTakeTimer", "dd/d1c/a24282.html#a5d4826dcf893f444a42dedba57460110", null ]
 ];

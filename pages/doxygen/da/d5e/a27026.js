@@ -1,8 +1,9 @@
 var a27026 =
 [
-    [ "CheckProc", "da/d5e/a27026.html#afcda3b112699e108e2db6270836fce1b", null ],
-    [ "OnProc", "da/d5e/a27026.html#ab953f817368120933828d6b3e5e200c0", null ],
-    [ "PrepareAuraScript", "da/d5e/a27026.html#a33381b811abcd52f7a57e0f62fa73e5f", null ],
-    [ "Register", "da/d5e/a27026.html#abfdd5179215432a3e89ea7b498d49867", null ],
-    [ "Validate", "da/d5e/a27026.html#a19e8f1b9aab5ee4e718b304c87303627", null ]
+    [ "CheckCast", "da/d5e/a27026.html#a846862b62f5750801cd804133f290d5d", null ],
+    [ "HandleDummy", "da/d5e/a27026.html#aa56609d3c75a69fb62e302622fd11c3c", null ],
+    [ "Load", "da/d5e/a27026.html#acec7437ba80e4ae491020448a36e4559", null ],
+    [ "PrepareSpellScript", "da/d5e/a27026.html#ab5e281028c009a4b317111de9a0a17e3", null ],
+    [ "Register", "da/d5e/a27026.html#a865fa526f2131703a668e113ba0d7849", null ],
+    [ "Validate", "da/d5e/a27026.html#a6c6dee3de2c54536765cfdd97f4fd0c0", null ]
 ];

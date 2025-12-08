@@ -1,7 +1,6 @@
 var a24174 =
 [
-    [ "HandleDummy", "d8/daa/a24174.html#a08f2f0aef00ce075572ff84643905a0a", null ],
-    [ "PrepareSpellScript", "d8/daa/a24174.html#ac1aacfbd71224d80eaed0b9a76ff673f", null ],
-    [ "Register", "d8/daa/a24174.html#a2046ac7f24989ff0bf50a3ee66dda104", null ],
-    [ "Validate", "d8/daa/a24174.html#aded9f2e46cc3bf46f5699ce6fdf154ba", null ]
+    [ "npc_aeranasAI", "d5/dd0/a24178.html", "d5/dd0/a24178" ],
+    [ "npc_aeranas", "d8/daa/a24174.html#a6ea71481ef6a223a329b805081122537", null ],
+    [ "GetAI", "d8/daa/a24174.html#a81167df6665bdca81ee13468dec19643", null ]
 ];

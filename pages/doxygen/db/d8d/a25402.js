@@ -1,6 +1,6 @@
 var a25402 =
 [
-    [ "HandleCast", "db/d8d/a25402.html#ac6f7b9650d0a55834dafb09555692243", null ],
-    [ "PrepareSpellScript", "db/d8d/a25402.html#ab3dc21aa63f0fb9202233603106eef87", null ],
-    [ "Register", "db/d8d/a25402.html#ad6c2dc91d0973c0b8d57151dff3d9499", null ]
+    [ "OnApply", "db/d8d/a25402.html#a476bf6fc1a91784dbc8534c0e57005d6", null ],
+    [ "PrepareAuraScript", "db/d8d/a25402.html#a159ee8a9b0af729ed01f7632adb58863", null ],
+    [ "Register", "db/d8d/a25402.html#a0f33043317402119aa14e50a1eb6c227", null ]
 ];

@@ -1,12 +1,10 @@
 var a28974 =
 [
-    [ "cellSizeHorizontal", "d7/dd1/a28974.html#a5356c03dab90621b69de7a79ed4ab195", null ],
-    [ "cellSizeVertical", "d7/dd1/a28974.html#a47b5a920afa39ae27a80241d58f152a3", null ],
-    [ "tileOverrides", "d7/dd1/a28974.html#a129437291e75a919e4158bf1df0f7f0a", null ],
-    [ "vertexPerMapEdge", "d7/dd1/a28974.html#a9d32da8787f54a7dadb86458319e0238", null ],
-    [ "vertexPerTileEdge", "d7/dd1/a28974.html#a8dd6b0146358fcbbb6b7c56a96c467c9", null ],
-    [ "walkableClimb", "d7/dd1/a28974.html#a2bd854b374d67d53b03a7bacf0785726", null ],
-    [ "walkableHeight", "d7/dd1/a28974.html#a1de27edad5c45f8033ce74352c563f52", null ],
-    [ "walkableRadius", "d7/dd1/a28974.html#a232dd51ab056c5e836fe1bb84eeee90e", null ],
-    [ "walkableSlopeAngle", "d7/dd1/a28974.html#ad66e0a04ba9087304cf3909bb85b622a", null ]
+    [ "maxSimplificationError", "d7/dd1/a28974.html#a010878a247d639234d2bb8571280aca6", null ],
+    [ "vertexPerMapEdge", "d7/dd1/a28974.html#af620af11a09215f106fc6704c88fa411", null ],
+    [ "vertexPerTileEdge", "d7/dd1/a28974.html#a5a801e68fac6d59c1a236aeaf374bc9e", null ],
+    [ "walkableClimb", "d7/dd1/a28974.html#aa5f6c5daf51b6390b7146f9a8d6de7ec", null ],
+    [ "walkableHeight", "d7/dd1/a28974.html#a42b9a553cb3cd5d9c39d4cb7f0f59486", null ],
+    [ "walkableRadius", "d7/dd1/a28974.html#a43f00aacc5e1497c169d4ba908883140", null ],
+    [ "walkableSlopeAngle", "d7/dd1/a28974.html#a9792dfe730bfc437797a359896a14528", null ]
 ];

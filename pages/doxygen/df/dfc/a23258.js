@@ -1,6 +1,11 @@
 var a23258 =
 [
-    [ "boss_doomlordkazzakAI", "dc/df8/a23262.html", "dc/df8/a23262" ],
-    [ "boss_doomlord_kazzak", "df/dfc/a23258.html#ae4e4844d584ba71ebd3d8a341ba91462", null ],
-    [ "GetAI", "df/dfc/a23258.html#a460a32ce37aae852b48f1990406da9a4", null ]
+    [ "boss_doomlordkazzakAI", "df/dfc/a23258.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
+    [ "JustDied", "df/dfc/a23258.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
+    [ "JustEngagedWith", "df/dfc/a23258.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
+    [ "JustRespawned", "df/dfc/a23258.html#a174912c149657f4d88446f4ac0631598", null ],
+    [ "KilledUnit", "df/dfc/a23258.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
+    [ "Reset", "df/dfc/a23258.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
+    [ "UpdateAI", "df/dfc/a23258.html#a28a0a8345fcd5411491409854acef729", null ],
+    [ "_inBerserk", "df/dfc/a23258.html#a996d17128aca96c00c8416957ebc24d0", null ]
 ];

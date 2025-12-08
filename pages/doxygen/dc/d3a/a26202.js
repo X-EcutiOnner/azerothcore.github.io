@@ -1,7 +1,5 @@
 var a26202 =
 [
-    [ "OnRemove", "dc/d3a/a26202.html#a8c39ba2fbd8c9c96de622afd8d04281e", null ],
-    [ "PrepareAuraScript", "dc/d3a/a26202.html#a9e13b76ceb256dec1a6c9dccd5c6c537", null ],
-    [ "Register", "dc/d3a/a26202.html#a9fbaec43bae2f4d6f4b94b18da0144fe", null ],
-    [ "Validate", "dc/d3a/a26202.html#a8f111779a3a0e68fe5a313e6eae716b3", null ]
+    [ "Trigger", "dc/d3a/a26202.html#aa16aba75a066e83cb56660a0e29e7453", null ],
+    [ "Validate", "dc/d3a/a26202.html#a6c38df91dbe0cf277d1d50a40edd4589", null ]
 ];

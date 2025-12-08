@@ -1,6 +1,8 @@
 var a25962 =
 [
-    [ "CalculateAmount", "de/daf/a25962.html#a6faee23ed5947a904e58bfb38cf01d05", null ],
-    [ "PrepareAuraScript", "de/daf/a25962.html#a5e7d089dd117b6b3a605ea2e8aea0b04", null ],
-    [ "Register", "de/daf/a25962.html#a37e277143b2ae6cd88260776941b59bf", null ]
+    [ "HandleDummy", "de/daf/a25962.html#a3db6982f1162ac6b03771a0e7e432e6d", null ],
+    [ "Load", "de/daf/a25962.html#a9671be7920dfd3bde2033f0ae43259b0", null ],
+    [ "PrepareSpellScript", "de/daf/a25962.html#ad50c9141d40b7089fd24a8657d496a8d", null ],
+    [ "Register", "de/daf/a25962.html#a249a857b1cf5b0c3be6018cb233c75d1", null ],
+    [ "Validate", "de/daf/a25962.html#ac209048bd5688417c391c2c9b8a72d8b", null ]
 ];

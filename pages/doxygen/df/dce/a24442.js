@@ -1,7 +1,5 @@
 var a24442 =
 [
-    [ "npc_kservantAI", "df/dce/a24442.html#a0687712690f2bacd24da1c94d222e761", null ],
-    [ "IsSummonedBy", "df/dce/a24442.html#a6aa9c1544fffdd9916eda7a0941dc828", null ],
-    [ "Reset", "df/dce/a24442.html#a0756ffacb97c83a3028afc620b32f349", null ],
-    [ "WaypointReached", "df/dce/a24442.html#a577a2ebb91c08bfe2e09bc67eeebb4ef", null ]
+    [ "npc_shattrath_daily_quest", "df/dce/a24442.html#ab6aa71e4738fdce1b59d379249a868d5", null ],
+    [ "DoAction", "df/dce/a24442.html#ac3e8c6de30ad7567fe5e52cd1ddfeb2c", null ]
 ];

@@ -1,5 +1,6 @@
 var a27386 =
 [
-    [ "go_mistwhisper_treasure", "dd/d50/a27386.html#a87c90caa9f6a628cb0eea3556b58449e", null ],
-    [ "OnGossipHello", "dd/d50/a27386.html#a03b6b19faba005ced7ff921fdf8ab493", null ]
+    [ "go_witherbark_totem_bundleAI", "d5/d36/a27390.html", "d5/d36/a27390" ],
+    [ "go_witherbark_totem_bundle", "dd/d50/a27386.html#affcdff7ec6894add0acec842028efd2e", null ],
+    [ "GetAI", "dd/d50/a27386.html#a5ac2b3b572d67fdcc587f242f3d50f97", null ]
 ];

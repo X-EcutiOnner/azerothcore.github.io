@@ -1,7 +1,10 @@
 var a24494 =
 [
-    [ "npc_isla_starmaneAI", "dd/dac/a24498.html", "dd/dac/a24498" ],
-    [ "npc_isla_starmane", "d4/d6c/a24494.html#af30b3658d8f19be0dc07cb35eeb04668", null ],
-    [ "GetAI", "d4/d6c/a24494.html#a0ea2dbaab4115772f92849e06aa85575", null ],
-    [ "OnQuestAccept", "d4/d6c/a24494.html#afeda3da3761e96e2901ea06c5a26fa3a", null ]
+    [ "npc_isla_starmaneAI", "d4/d6c/a24494.html#a0cb655d324ddde173dcfdee069c0f694", null ],
+    [ "JustDied", "d4/d6c/a24494.html#ac7132ac84a64bccbcf8895cbc4a86f9c", null ],
+    [ "JustEngagedWith", "d4/d6c/a24494.html#ab40287c6bfc67b09bf7336ea53116cab", null ],
+    [ "JustRespawned", "d4/d6c/a24494.html#a69b395a9b9504737109870c5e8db74c8", null ],
+    [ "UpdateEscortAI", "d4/d6c/a24494.html#af4b8c80e7443bb671be253238b124910", null ],
+    [ "WaypointReached", "d4/d6c/a24494.html#a5d00583afa4e811e4f3cb8400787a990", null ],
+    [ "events", "d4/d6c/a24494.html#a53cfabbe7cf85ceb19286d67bb23f2ec", null ]
 ];

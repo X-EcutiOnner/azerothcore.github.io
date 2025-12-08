@@ -1,13 +1,8 @@
 var a27690 =
 [
-    [ "npc_nelsonAI", "db/d1e/a27690.html#af6aada5c34048ce6bda6d5c1541e0bf3", null ],
-    [ "DoAction", "db/d1e/a27690.html#a13ec2adee9d671f949139dbf94c75cc3", null ],
-    [ "JustEngagedWith", "db/d1e/a27690.html#accb9aeb3b3f3fc2233598b7fef40c3ec", null ],
-    [ "JustSummoned", "db/d1e/a27690.html#a31d622d73a2540e159720d4c8ddc7d00", null ],
-    [ "Reset", "db/d1e/a27690.html#a05fcb98153f0a24f50004f465d8f3c72", null ],
-    [ "SpellHit", "db/d1e/a27690.html#afab81d8a6077c755c186bb619944d78d", null ],
-    [ "SummonedCreatureDies", "db/d1e/a27690.html#ab3753c9b6848c1567ac596a5f6b498a1", null ],
-    [ "UpdateAI", "db/d1e/a27690.html#ac68749942f37de5f9105556fe7b904b7", null ],
-    [ "events", "db/d1e/a27690.html#a25eb289b79de306bbdc0dd099b23a2a0", null ],
-    [ "shouldDespawn", "db/d1e/a27690.html#a09a68f903854fcedd8a4b2ee4c2597e2", null ]
+    [ "npc_franklinAI", "d6/dd7/a27694.html", "d6/dd7/a27694" ],
+    [ "npc_franklin", "db/d1e/a27690.html#aab059dfa69e52083892e3170c8838e0a", null ],
+    [ "GetAI", "db/d1e/a27690.html#a10933878afe9d0cc78fa1113341fd522", null ],
+    [ "OnGossipHello", "db/d1e/a27690.html#a318d512914b135800caabe0efbb1c467", null ],
+    [ "OnGossipSelect", "db/d1e/a27690.html#a8c37ff7ff15cc9ac49dadabd1650964d", null ]
 ];

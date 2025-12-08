@@ -1,6 +1,6 @@
 var a26194 =
 [
-    [ "CheckProc", "dc/de6/a26194.html#af38c2b1c556a1fcdb1157468cd02811e", null ],
-    [ "PrepareAuraScript", "dc/de6/a26194.html#a42b97406721d3493a378394132a55981", null ],
-    [ "Register", "dc/de6/a26194.html#af4d514906f66af1b2f2392bcfc5e8b9c", null ]
+    [ "OnRemove", "dc/de6/a26194.html#ae1f257e43effcb396d57d42db3063afd", null ],
+    [ "PrepareAuraScript", "dc/de6/a26194.html#a5b13e46dc228ffe594ce2ce06a7d6799", null ],
+    [ "Register", "dc/de6/a26194.html#a4a94d5c8efdd7f6e0dd655ebeb8c4614", null ]
 ];

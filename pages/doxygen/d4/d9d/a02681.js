@@ -111,7 +111,6 @@ var a02681 =
       [ "DATA_DANCE_FAIL", "d4/d9d/a02681.html#a8583d5c31f6e596bafbdc0c20eb41ed7a927d7cc21bf7ab0d7be550a2063107b9", null ],
       [ "DATA_SPORE_KILLED", "d4/d9d/a02681.html#a8583d5c31f6e596bafbdc0c20eb41ed7ad2edd73a1c80e766e9742b0a1bed0837", null ],
       [ "DATA_FRENZY_REMOVED", "d4/d9d/a02681.html#a8583d5c31f6e596bafbdc0c20eb41ed7a5d68a598db979a9c89261e651008ab96", null ],
-      [ "DATA_THADDIUS_INTRO", "d4/d9d/a02681.html#a8583d5c31f6e596bafbdc0c20eb41ed7a568c4a137219e9815d478a738da20970", null ],
       [ "DATA_CHARGES_CROSSED", "d4/d9d/a02681.html#a8583d5c31f6e596bafbdc0c20eb41ed7a731f7557a52eab314acb6eafe38b5a51", null ],
       [ "DATA_HUNDRED_CLUB", "d4/d9d/a02681.html#a8583d5c31f6e596bafbdc0c20eb41ed7a505e1f6b4233e77aab0fb985f682b6d7", null ],
       [ "DATA_ABOMINATION_KILLED", "d4/d9d/a02681.html#a8583d5c31f6e596bafbdc0c20eb41ed7ac025a3279f2371bf6621f647ca2fe257", null ]
@@ -208,7 +207,6 @@ var a02681 =
       [ "SOUND_SCREAM", "d4/d9d/a02681.html#a70f35399fe23682348c0631c6d1e66a9a2c10afa0526f0940e7de59cd6b142d71", null ]
     ] ],
     [ "NaxxramasPersistentData", "d4/d9d/a02681.html#ac04e7341bcee705dae974287ded87ee5", [
-      [ "PERSISTENT_DATA_THADDIUS_INTRO", "d4/d9d/a02681.html#ac04e7341bcee705dae974287ded87ee5a0b5482003ac05c4674c474dd8847758b", null ],
       [ "PERSISTENT_DATA_KELTHUZAD_DIALOG", "d4/d9d/a02681.html#ac04e7341bcee705dae974287ded87ee5a8877c42f229c7b4a4192e501fb114587", null ],
       [ "PERSISTENT_DATA_IMMORTAL_FAIL", "d4/d9d/a02681.html#ac04e7341bcee705dae974287ded87ee5a5e0fd27649c1ffac589bd91a2f4c376f", null ],
       [ "PERSISTENT_DATA_COUNT", "d4/d9d/a02681.html#ac04e7341bcee705dae974287ded87ee5a327cde1f8f9908a139da6e4deb38dc76", null ]

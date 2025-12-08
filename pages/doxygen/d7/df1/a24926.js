@@ -1,8 +1,7 @@
 var a24926 =
 [
-    [ "AfterApply", "d7/df1/a24926.html#a9c2591beacd941893338109719c03e3f", null ],
-    [ "AfterRemove", "d7/df1/a24926.html#a0be2a66b615dd926de7073392a8e5062", null ],
-    [ "PrepareAuraScript", "d7/df1/a24926.html#a4763d0c69c12611244f68ba5a5b1ccce", null ],
-    [ "Register", "d7/df1/a24926.html#a36fb81d0bf4cf92773db60a70de52dda", null ],
-    [ "Validate", "d7/df1/a24926.html#a86b51ec85105b0396972f0c3d7b770c1", null ]
+    [ "CalculateAmount", "d7/df1/a24926.html#ab705e67f7abb72a13dfd32e7a6da4561", null ],
+    [ "Load", "d7/df1/a24926.html#ac87f1c7ccb9aa9985d538c9d8611c850", null ],
+    [ "PrepareAuraScript", "d7/df1/a24926.html#ae4a75ef8bc755c8220b768d5ac87a728", null ],
+    [ "Register", "d7/df1/a24926.html#a636331452bc95a4434f1b85e85ea6e7b", null ]
 ];

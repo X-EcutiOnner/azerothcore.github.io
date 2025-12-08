@@ -1,8 +1,6 @@
 var a24190 =
 [
-    [ "npc_ancestral_wolfAI", "d1/df0/a24190.html#a59ccca7093575f4bcac57a4751d977d4", null ],
-    [ "MoveInLineOfSight", "d1/df0/a24190.html#aec5788f0be3c1dcb63b3e61b50ae39c1", null ],
-    [ "Reset", "d1/df0/a24190.html#a9778a1648ca0007f7daf4ee98308d8d2", null ],
-    [ "WaypointReached", "d1/df0/a24190.html#a2b553c29823e5ef888ee02a3ed413386", null ],
-    [ "ryga", "d1/df0/a24190.html#ac238214604720e298124b58c35d58e05", null ]
+    [ "npc_wounded_blood_elfAI", "d9/df7/a24194.html", "d9/df7/a24194" ],
+    [ "npc_wounded_blood_elf", "d1/df0/a24190.html#a40e79d1412f5f399869a4d2c6fbb4260", null ],
+    [ "GetAI", "d1/df0/a24190.html#a39d4bd877bdf6596c65e3cb834f124aa", null ]
 ];

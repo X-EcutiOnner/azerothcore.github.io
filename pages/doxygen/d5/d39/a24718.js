@@ -1,7 +1,12 @@
 var a24718 =
 [
-    [ "CorpseExplosionCheck", "d5/d39/a24718.html#aa8b7957705df1d878f5123ffa31a7fd7", null ],
-    [ "operator()", "d5/d39/a24718.html#aeab379880a8d912d6d0f7b41639edbd4", null ],
-    [ "_allowGhoul", "d5/d39/a24718.html#abd42a0731af969ceccdfceae722ba276", null ],
-    [ "_casterGUID", "d5/d39/a24718.html#a497df87745f452716c652e9b1be6d46f", null ]
+    [ "CheckTarget", "d5/d39/a24718.html#a731aa2c0a2b67b8a15cab72ea2cb961a", null ],
+    [ "CheckTargets", "d5/d39/a24718.html#a3b5bbef0c43a600387235822f3c6dbc7", null ],
+    [ "HandleCorpseExplosion", "d5/d39/a24718.html#a201de2ee86d0cf954117df0e5343ee69", null ],
+    [ "HandleDamage", "d5/d39/a24718.html#a810fc65eb5d7160366d63210bad9caea", null ],
+    [ "Load", "d5/d39/a24718.html#a00b45e2f466de39c95251c2a38f6c3bd", null ],
+    [ "PrepareSpellScript", "d5/d39/a24718.html#a4cae1673a840d8ec0d727b881a3616cf", null ],
+    [ "Register", "d5/d39/a24718.html#a9e67ea51300569a0e163cb3e427b086e", null ],
+    [ "Validate", "d5/d39/a24718.html#a93984e8b831cb4c37ec2726d44532d43", null ],
+    [ "_target", "d5/d39/a24718.html#a5028b9d3166270b2b0557943e962eade", null ]
 ];

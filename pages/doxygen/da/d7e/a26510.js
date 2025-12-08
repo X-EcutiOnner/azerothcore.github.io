@@ -1,7 +1,8 @@
 var a26510 =
 [
-    [ "CheckRequirement", "da/d7e/a26510.html#afc9206b1d92834943c9825dfd97439c9", null ],
-    [ "HandleScriptEffect", "da/d7e/a26510.html#acef8bf4c93226e1b4c95f8b8cdd80f40", null ],
-    [ "PrepareSpellScript", "da/d7e/a26510.html#a0223c05b5832c64b248e82eba770f7fa", null ],
-    [ "Register", "da/d7e/a26510.html#aef93e3c5a60633f69871bbd49d40caf5", null ]
+    [ "HandleEffectRemove", "da/d7e/a26510.html#a770b7ad0bb00114400a73f50c4aa6c81", null ],
+    [ "if", "da/d7e/a26510.html#a7123c451bce0f95ad75e5acfbe58a135", null ],
+    [ "PrepareAuraScript", "da/d7e/a26510.html#a531f51626ae4527282ad1e628911a9ea", null ],
+    [ "Register", "da/d7e/a26510.html#ae68bd9a92239a4796f9d8040787a68b3", null ],
+    [ "AuraEffectHandleModes", "da/d7e/a26510.html#a8af86c58f438e78d8bf878f79d4a27e2", null ]
 ];

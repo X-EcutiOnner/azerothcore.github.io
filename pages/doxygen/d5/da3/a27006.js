@@ -1,6 +1,6 @@
 var a27006 =
 [
-    [ "HandleDummy", "d5/da3/a27006.html#a2560417162a1c17cb067cdfeb2fc909d", null ],
-    [ "PrepareSpellScript", "d5/da3/a27006.html#a1f9aa7ffef96365ad7c0c4ccd4a2814c", null ],
-    [ "Register", "d5/da3/a27006.html#a27aece218c848064ae387491f9176099", null ]
+    [ "FilterTargets", "d5/da3/a27006.html#a2bcc808d5869442e4c2e78be2d2a16af", null ],
+    [ "PrepareSpellScript", "d5/da3/a27006.html#a51d7035477ba4e3994ef3161edc4cc69", null ],
+    [ "Register", "d5/da3/a27006.html#adcc2ed25659208d0eeaec6d9673df3c6", null ]
 ];

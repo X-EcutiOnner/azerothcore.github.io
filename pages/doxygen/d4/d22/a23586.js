@@ -1,7 +1,7 @@
 var a23586 =
 [
-    [ "HandleScript", "d4/d22/a23586.html#a7c1b4d0c8d2ad153cef62ce05fef814c", null ],
-    [ "PrepareSpellScript", "d4/d22/a23586.html#ab826f4f249679ffe87f9e6ccf6b9ecf0", null ],
-    [ "Register", "d4/d22/a23586.html#a82da72fd4eed6773c1f3a4288caa8963", null ],
-    [ "Validate", "d4/d22/a23586.html#a46aca18049e02d50f57579b3fdc705bd", null ]
+    [ "HandleScript", "d4/d22/a23586.html#a8933535f9507b90b54032c17985cc3c6", null ],
+    [ "PrepareSpellScript", "d4/d22/a23586.html#acadb563eaeffac47b3f883f9d8c37994", null ],
+    [ "Register", "d4/d22/a23586.html#a797ae84dcb0fc13b0799934bde71809c", null ],
+    [ "Validate", "d4/d22/a23586.html#afba2983f5be230dd3b77b3b49fee8a38", null ]
 ];

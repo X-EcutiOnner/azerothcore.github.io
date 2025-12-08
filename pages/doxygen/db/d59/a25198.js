@@ -1,7 +1,8 @@
 var a25198 =
 [
-    [ "HandleScript", "db/d59/a25198.html#a8ec57aed0788f58e2c50fc08793a5749", null ],
-    [ "PrepareSpellScript", "db/d59/a25198.html#a56c9ab120239252982cab8b96ac8c5fe", null ],
-    [ "Register", "db/d59/a25198.html#a8c727b2b00858abcce058b16d66ca62a", null ],
-    [ "Validate", "db/d59/a25198.html#af3ffb9930eaba8703065719bbcf02f56", null ]
+    [ "HandleScript", "db/d59/a25198.html#a2376d12f379f75f5decfdc133c18403e", null ],
+    [ "Load", "db/d59/a25198.html#aa70bfd2e614f9bf68ad2972990f0f7f5", null ],
+    [ "PrepareSpellScript", "db/d59/a25198.html#ae4ce8cf3670a85bbaedbfcdc6cacd5b1", null ],
+    [ "Register", "db/d59/a25198.html#a0b32bf9d565d7d6f606150f70fc244a0", null ],
+    [ "Validate", "db/d59/a25198.html#a1aee8ca0cc33f949371fa5cbb4745ccd", null ]
 ];

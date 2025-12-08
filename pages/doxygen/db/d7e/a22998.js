@@ -1,6 +1,9 @@
 var a22998 =
 [
-    [ "CalculateAmount", "db/d7e/a22998.html#aeeabfef0accc4e0d1f78f7422dc30a99", null ],
-    [ "PrepareAuraScript", "db/d7e/a22998.html#a5cf70fe73d01e08e78a2d00e5bc95e8e", null ],
-    [ "Register", "db/d7e/a22998.html#a0d2e97463f268892965e307628aaa931", null ]
+    [ "HandleAfterCast", "db/d7e/a22998.html#ae83f0cd423597b1c1e2bc1619d24fb1e", null ],
+    [ "HandleDummy", "db/d7e/a22998.html#ae94594e337c2e0e6864f3723df8349bf", null ],
+    [ "Load", "db/d7e/a22998.html#a301008eff6b13a43070b3916925391ae", null ],
+    [ "PrepareSpellScript", "db/d7e/a22998.html#a6068412ee3d78192cc0ff735fd4e93ed", null ],
+    [ "Register", "db/d7e/a22998.html#a253f9b428351519cbd4ee5c2341ea0c4", null ],
+    [ "_targetCount", "db/d7e/a22998.html#ac16cb2696c4e72195de7ebddd072b3c4", null ]
 ];

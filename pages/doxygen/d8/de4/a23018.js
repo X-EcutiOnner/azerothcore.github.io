@@ -1,6 +1,6 @@
 var a23018 =
 [
-    [ "HandleScriptEffect", "d8/de4/a23018.html#aeafb2893534c8e188bbb519b6c7a0113", null ],
-    [ "PrepareSpellScript", "d8/de4/a23018.html#a6caaa93244719d7fc8c3f28280a3c1c5", null ],
-    [ "Register", "d8/de4/a23018.html#a99e2243ca4372eab1a742f8979d61334", null ]
+    [ "PrepareAuraScript", "d8/de4/a23018.html#a5cba6aaa06f8ec6e083ee0c5064414e4", null ],
+    [ "Register", "d8/de4/a23018.html#a75d0cf142e299783b06903ea03287e28", null ],
+    [ "Update", "d8/de4/a23018.html#ac027b02ed0ba70d65621a6af157c98f6", null ]
 ];

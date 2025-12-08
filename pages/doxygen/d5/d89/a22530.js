@@ -1,7 +1,6 @@
 var a22530 =
 [
-    [ "npc_wg_siege_machineAI", "d5/d89/a22530.html#aaeca9e73520701ce28f2cc9d1483cc6b", null ],
-    [ "CanControlVehicle", "d5/d89/a22530.html#a7ce79406da48e245a0baa2fdd23622b9", null ],
-    [ "UpdateAI", "d5/d89/a22530.html#a8ddd21047a857facc767a9edc0ec5408", null ],
-    [ "checkTimer", "d5/d89/a22530.html#abf4b06eae50adeefedba02e2186ea48a", null ]
+    [ "go_wg_vehicle_teleporterAI", "da/de5/a22534.html", "da/de5/a22534" ],
+    [ "go_wg_vehicle_teleporter", "d5/d89/a22530.html#a074ead770a3da6e9ffa4180a3525f4c8", null ],
+    [ "GetAI", "d5/d89/a22530.html#a113aaf42c095000c1a016bfe60df11e7", null ]
 ];

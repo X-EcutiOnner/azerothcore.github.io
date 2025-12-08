@@ -1,8 +1,8 @@
 var a01937 =
 [
-    [ "instance_shadow_labyrinth", "d5/d9b/a22862.html", "d5/d9b/a22862" ],
-    [ "instance_shadow_labyrinth::instance_shadow_labyrinth_InstanceMapScript", "d5/dda/a22866.html", "d5/dda/a22866" ],
-    [ "spell_mark_of_malice", "da/d65/a22870.html", "da/d65/a22870" ],
+    [ "instance_shadow_labyrinth", "d3/dc0/a22858.html", "d3/dc0/a22858" ],
+    [ "instance_shadow_labyrinth::instance_shadow_labyrinth_InstanceMapScript", "d5/d9b/a22862.html", "d5/d9b/a22862" ],
+    [ "spell_mark_of_malice", "d5/dda/a22866.html", "d5/dda/a22866" ],
     [ "MarkOfMalice", "d9/d17/a01937.html#a5faa1e1ef40cd28efc7332da31667677", [
       [ "SPELL_MARK_OF_MALICE_TRIGGERED", "d9/d17/a01937.html#a5faa1e1ef40cd28efc7332da31667677a3c3d2a42daa901d72ea35a7207267ecb", null ]
     ] ],

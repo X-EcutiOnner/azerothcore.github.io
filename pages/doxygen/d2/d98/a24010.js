@@ -1,6 +1,7 @@
 var a24010 =
 [
-    [ "HandlePeriodic", "d2/d98/a24010.html#a0a6da7aad8b7fcc92092f7a3c5bc0768", null ],
-    [ "PrepareAuraScript", "d2/d98/a24010.html#a75d72d196ded2ee109d0231d4342890a", null ],
-    [ "Register", "d2/d98/a24010.html#a148013ea68bbc573bddc1c3639dba019", null ]
+    [ "Load", "d2/d98/a24010.html#aba7e1a0b87607386649bb842b5058c3e", null ],
+    [ "OnRemove", "d2/d98/a24010.html#ac2f7a4532f62fb49f54c60b79aceb2e8", null ],
+    [ "PrepareAuraScript", "d2/d98/a24010.html#ac62b18eedbadb0b3581d772909175e96", null ],
+    [ "Register", "d2/d98/a24010.html#a17e8be131f01b2434b18740b20a08d6e", null ]
 ];

@@ -1,10 +1,8 @@
 var a25230 =
 [
-    [ "Load", "d2/d3f/a25230.html#a18e05511c2dc0b934a97e323fccc3f50", null ],
-    [ "OnApply", "d2/d3f/a25230.html#a1fe8240f5c553ba56ce9c2ff9338f75b", null ],
-    [ "OnRemove", "d2/d3f/a25230.html#a29834c598d6ef8299d54e48a3461e603", null ],
-    [ "PrepareAuraScript", "d2/d3f/a25230.html#a0529b56b30fa7bb97c014bbc2ee4a96a", null ],
-    [ "Register", "d2/d3f/a25230.html#a5174f07fde3469c2314a3c1fbba5f432", null ],
-    [ "Validate", "d2/d3f/a25230.html#aeaf16594f569af671d221234a4aa2c8b", null ],
-    [ "prevItem", "d2/d3f/a25230.html#ad4c0402ae71e663534ed8fd137a9afd2", null ]
+    [ "AchievementCredit", "d2/d3f/a25230.html#ab0ec836feb53875de355330e05367fe8", null ],
+    [ "Load", "d2/d3f/a25230.html#ae48c67f363e399f076122cb6eee10ffb", null ],
+    [ "PrepareSpellScript", "d2/d3f/a25230.html#af0bb22c618af5dca7f534bea32e7ee7f", null ],
+    [ "Register", "d2/d3f/a25230.html#a793921687c96a39f7dd872b9721096ca", null ],
+    [ "Validate", "d2/d3f/a25230.html#a5be222c322714ec62f8beaf69faab257", null ]
 ];

@@ -1,4 +1,5 @@
 var a28338 =
 [
-    [ "ID", "da/d0b/a28338.html#a27cfc07c5aa7efe7a6f0cb62ea691f81", null ]
+    [ "BitIndex", "da/d0b/a28338.html#a55fdf966aec0ca687cd6074683af6e7f", null ],
+    [ "ItemId", "da/d0b/a28338.html#a998c1f6dadb823fbba56bb2154396635", null ]
 ];

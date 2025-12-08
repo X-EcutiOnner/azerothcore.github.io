@@ -1,5 +1,5 @@
 var a27618 =
 [
-    [ "item_captured_frog", "d4/dec/a27618.html#ad41b743c98c9534453eca8cf1f367366", null ],
-    [ "OnUse", "d4/dec/a27618.html#a1156467ca046a077ea494f92c488bf54", null ]
+    [ "item_generic_limit_chance_above_60", "d4/dec/a27618.html#abc18809810f0a7668020d01c482be84b", null ],
+    [ "OnCastItemCombatSpell", "d4/dec/a27618.html#aa34809cfd53edb6a77d3fa415a079d72", null ]
 ];

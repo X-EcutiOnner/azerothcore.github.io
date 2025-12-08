@@ -1,7 +1,7 @@
 var a27050 =
 [
-    [ "HandleRemove", "dc/d8d/a27050.html#a0f5a3e4d75dbb5c699ea1acbf89db318", null ],
-    [ "PrepareAuraScript", "dc/d8d/a27050.html#a9e153c86e29a17b0cc20c65c635aa070", null ],
-    [ "Register", "dc/d8d/a27050.html#a338ee9c0eddd309ce2a791160059bad6", null ],
-    [ "Validate", "dc/d8d/a27050.html#ae8272b65a070fc959af003f701567c3c", null ]
+    [ "HandleDispel", "dc/d8d/a27050.html#aaf6920cb0fec741f3cff1d3f6e6d2c0f", null ],
+    [ "PrepareAuraScript", "dc/d8d/a27050.html#ace0ce4b85311893e1e6df403a6387cd9", null ],
+    [ "Register", "dc/d8d/a27050.html#a2c67e4327fdd034978d4822311632980", null ],
+    [ "Validate", "dc/d8d/a27050.html#ad8b5c381904c359ed608c808d5bbd9bd", null ]
 ];

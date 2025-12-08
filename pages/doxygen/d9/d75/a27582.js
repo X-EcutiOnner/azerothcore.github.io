@@ -1,6 +1,10 @@
 var a27582 =
 [
-    [ "guard_shattrath_scryerAI", "d7/d0a/a27586.html", "d7/d0a/a27586" ],
-    [ "guard_shattrath_scryer", "d9/d75/a27582.html#a2ee4d6881d7c24cd848c590b84207663", null ],
-    [ "GetAI", "d9/d75/a27582.html#ab1d937102f63c63de4c92e45eff2c21c", null ]
+    [ "guard_shattrath_scryerAI", "d9/d75/a27582.html#a97accbf467ca1190f8a05512b3857164", null ],
+    [ "Reset", "d9/d75/a27582.html#adfcd8bce42148d303fe6ec9b615ffdb1", null ],
+    [ "UpdateAI", "d9/d75/a27582.html#ad759cca08b0093522e190ddc038e2c73", null ],
+    [ "banishTimer", "d9/d75/a27582.html#aa9aa3c2e7e69df5899c84ebde1e357bd", null ],
+    [ "canTeleport", "d9/d75/a27582.html#a84188b40b44deae5714466bb23bf2f0d", null ],
+    [ "exileTimer", "d9/d75/a27582.html#a97fbc3f54c23049fd91ad432cd560698", null ],
+    [ "playerGUID", "d9/d75/a27582.html#adb40d8bbc97a6a1fa0f4e303db470db2", null ]
 ];

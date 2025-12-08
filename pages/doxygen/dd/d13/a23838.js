@@ -1,6 +1,14 @@
 var a23838 =
 [
-    [ "instance_shattered_halls_InstanceMapScript", "db/d29/a23842.html", "db/d29/a23842" ],
-    [ "instance_shattered_halls", "dd/d13/a23838.html#a9d0d3b6baec34c679151791610cff3a7", null ],
-    [ "GetInstanceScript", "dd/d13/a23838.html#a82388466811b022a725ba721845cadf3", null ]
+    [ "instance_shattered_halls_InstanceMapScript", "dd/d13/a23838.html#aa438091d2868b26d961ee4f81e9cea11", null ],
+    [ "GetGuidData", "dd/d13/a23838.html#a1a0623204ecaaa3623fc503783c4d766", null ],
+    [ "Initialize", "dd/d13/a23838.html#a3761d56e59d5bf1147986978c9fdf2e3", null ],
+    [ "OnCreatureCreate", "dd/d13/a23838.html#a9fa5637791d249553472b31c024f9fc1", null ],
+    [ "ReadSaveDataMore", "dd/d13/a23838.html#a67bc6a2dde5c649d16ef7e2c26c6069b", null ],
+    [ "SetData", "dd/d13/a23838.html#a566090f29d13977354fb50e68d92f046", null ],
+    [ "Update", "dd/d13/a23838.html#aad1666c364feff4e2b7654f5894c129f", null ],
+    [ "WriteSaveDataMore", "dd/d13/a23838.html#aaa8b1b054df41a79ac074ae48e180ee9", null ],
+    [ "ExecutionerGUID", "dd/d13/a23838.html#aa879398b1732952eba7b2b8a822a959e", null ],
+    [ "PrisonerGUID", "dd/d13/a23838.html#a0648efa6b0bbf4860d55f9b11f138e39", null ],
+    [ "RescueTimer", "dd/d13/a23838.html#a8df2961264a192ab2692e3c8ca507666", null ]
 ];

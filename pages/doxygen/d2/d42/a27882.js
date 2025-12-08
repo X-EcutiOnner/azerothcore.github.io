@@ -1,5 +1,4 @@
 var a27882 =
 [
-    [ "QuestApprenticeAnglerPlayerScript", "d2/d42/a27882.html#afaa929276f8b131005c9b94daa9a09f9", null ],
-    [ "OnPlayerCompleteQuest", "d2/d42/a27882.html#a029ef1ccdd42af2ff9223ab699c3942f", null ]
+    [ "go_necropolis", "d2/d42/a27882.html#aef477499aefa5340db97538a8f3a3cca", null ]
 ];

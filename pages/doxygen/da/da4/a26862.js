@@ -1,8 +1,9 @@
 var a26862 =
 [
-    [ "ApplyDebuff", "da/da4/a26862.html#ac22ae27019de6bd951bb00262c6df9a3", null ],
-    [ "PrepareSpellScript", "da/da4/a26862.html#aa37525d089348f58e3d871830caa3417", null ],
-    [ "Register", "da/da4/a26862.html#ac37a48d9742ab6b07c5e6a8dd7f23bd9", null ],
-    [ "RemoveInvalidTargets", "da/da4/a26862.html#a0451b75aa962065a01a5806992e01b16", null ],
-    [ "Validate", "da/da4/a26862.html#ac69d777fdf7a2d3c527621dee256690c", null ]
+    [ "HandleHeal", "da/da4/a26862.html#ad2d854d275dc6f8b67b866d864b6febe", null ],
+    [ "Load", "da/da4/a26862.html#a507a7a4ff11f8bf1157e034d086cd9ad", null ],
+    [ "PrepareSpellScript", "da/da4/a26862.html#a91eb46af707897f228e5d1bbd199a833", null ],
+    [ "Register", "da/da4/a26862.html#ae28f1b0c23511153eafc037cae067bc0", null ],
+    [ "firstHeal", "da/da4/a26862.html#a405326e6e1cd82816aef1712fdf335a0", null ],
+    [ "riptide", "da/da4/a26862.html#acaec32f6730bc2e04e613aa982d285bf", null ]
 ];

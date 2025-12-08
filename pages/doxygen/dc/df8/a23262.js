@@ -1,11 +1,8 @@
 var a23262 =
 [
-    [ "boss_doomlordkazzakAI", "dc/df8/a23262.html#a86a942b48bf1146fb3ab445dc386cab9", null ],
-    [ "JustDied", "dc/df8/a23262.html#a33d0bc150c3c2701f4c0c4d8f39fce29", null ],
-    [ "JustEngagedWith", "dc/df8/a23262.html#a8086a5f8f6edd94525b9aedd083b7b00", null ],
-    [ "JustRespawned", "dc/df8/a23262.html#a174912c149657f4d88446f4ac0631598", null ],
-    [ "KilledUnit", "dc/df8/a23262.html#adb91f475b0e8cb73821860c3c5cc226b", null ],
-    [ "Reset", "dc/df8/a23262.html#a51b19c8e7c5f85c41b3168165bb8b40b", null ],
-    [ "UpdateAI", "dc/df8/a23262.html#a28a0a8345fcd5411491409854acef729", null ],
-    [ "_inBerserk", "dc/df8/a23262.html#a996d17128aca96c00c8416957ebc24d0", null ]
+    [ "CalculateAmount", "dc/df8/a23262.html#a13d44c0d5f9b0111ae3b0d3d089e3e13", null ],
+    [ "OnPeriodic", "dc/df8/a23262.html#ab4d3f69d50fa320886f454ddfe1076f4", null ],
+    [ "PrepareAuraScript", "dc/df8/a23262.html#a1278420b279449c1c6a53b1a7b53f539", null ],
+    [ "Register", "dc/df8/a23262.html#a4795011faa2f68b1068d37b81f8c1cf2", null ],
+    [ "Validate", "dc/df8/a23262.html#a601c2db3a8e47d48b956ed102cbca104", null ]
 ];

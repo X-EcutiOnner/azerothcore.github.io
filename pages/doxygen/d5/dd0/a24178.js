@@ -1,6 +1,9 @@
 var a24178 =
 [
-    [ "npc_aeranasAI", "d6/d4b/a24182.html", "d6/d4b/a24182" ],
-    [ "npc_aeranas", "d5/dd0/a24178.html#a6ea71481ef6a223a329b805081122537", null ],
-    [ "GetAI", "d5/dd0/a24178.html#a81167df6665bdca81ee13468dec19643", null ]
+    [ "npc_aeranasAI", "d5/dd0/a24178.html#a2142cebc84e64919fa5c2ef630453282", null ],
+    [ "Reset", "d5/dd0/a24178.html#a2c1bbe079c065745782adfa13b030515", null ],
+    [ "UpdateAI", "d5/dd0/a24178.html#ae192a3b38c0ec65cddfce3b95d15555a", null ],
+    [ "envelopingWinds_Timer", "d5/dd0/a24178.html#a566b5d648abe630efc191f9d6d4938a2", null ],
+    [ "faction_Timer", "d5/dd0/a24178.html#aac071887c100f91cc7ffc545ea6439d9", null ],
+    [ "shock_Timer", "d5/dd0/a24178.html#aba8ad016f0e470b07163fef07b603380", null ]
 ];

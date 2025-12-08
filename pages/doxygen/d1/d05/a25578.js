@@ -1,7 +1,10 @@
 var a25578 =
 [
-    [ "HandleOnEffectApply", "d1/d05/a25578.html#a90359e3dbb5c2c8caf275f21c107ee0a", null ],
-    [ "HandleOnEffectRemove", "d1/d05/a25578.html#a094d788d157474a9683387d5c340538f", null ],
-    [ "PrepareAuraScript", "d1/d05/a25578.html#aad378b8c45f11af51faf9128878c01df", null ],
-    [ "Register", "d1/d05/a25578.html#a8fcc385f504b3b357e9ceab76f11ca46", null ]
+    [ "Load", "d1/d05/a25578.html#a04526f30ad35af3f629cdd0c8312e33c", null ],
+    [ "OnApply", "d1/d05/a25578.html#a83d922c434442e22482410d61aa0198f", null ],
+    [ "OnPetApply", "d1/d05/a25578.html#a6df5e59e29cb89310a1c78bf93029545", null ],
+    [ "OnRemove", "d1/d05/a25578.html#aa4efa4ed7d98c63989353c398bb2b128", null ],
+    [ "PrepareAuraScript", "d1/d05/a25578.html#a1b4d8f636c01f01bc9380c290de91a0e", null ],
+    [ "Register", "d1/d05/a25578.html#a265726c9bfa180c3b8f470eb1eee837b", null ],
+    [ "Validate", "d1/d05/a25578.html#ab318472ea9f4aaa79e45f18783586eed", null ]
 ];

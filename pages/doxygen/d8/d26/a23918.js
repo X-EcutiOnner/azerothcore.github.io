@@ -1,10 +1,7 @@
 var a23918 =
 [
-    [ "boss_thorngrin_the_tender", "d8/d26/a23918.html#ad960b1084fc08d2870975c7c6c44ab2b", null ],
-    [ "JustDied", "d8/d26/a23918.html#a4bc13108f7cb240fedb44ccae2b54047", null ],
-    [ "JustEngagedWith", "d8/d26/a23918.html#a647ed5b29861b719d3c4a11fd110c512", null ],
-    [ "KilledUnit", "d8/d26/a23918.html#ab3731c5b56e1c01aa5d78d84a5e60234", null ],
-    [ "MoveInLineOfSight", "d8/d26/a23918.html#a9467e59287b3e917907de82507d1a16d", null ],
-    [ "Reset", "d8/d26/a23918.html#af3f1471cbcdadfe3a86421d7232fb4b9", null ],
-    [ "_intro", "d8/d26/a23918.html#a48fc89c7e9814d90a8724ca38c5e2fe8", null ]
+    [ "boss_warp_splinter", "d8/d26/a23918.html#a1d0e8720baaadd1f6f4f6026597c9f63", null ],
+    [ "JustDied", "d8/d26/a23918.html#a7e7850cf545e57f9fcd8d1aff42f8eb3", null ],
+    [ "JustEngagedWith", "d8/d26/a23918.html#afc05b2f366e518d5e9ea3fbbfcba05cc", null ],
+    [ "KilledUnit", "d8/d26/a23918.html#a0e974eb2bfae50383040fe9c7ccf74c1", null ]
 ];

@@ -1,5 +1,5 @@
 var a27534 =
 [
-    [ "go_jotunheim_cage", "d0/d36/a27534.html#a28c9312de97a822e34f05c7358b42df4", null ],
-    [ "OnGossipHello", "d0/d36/a27534.html#a5598fcb4df9c7d0a610ea064af8095d3", null ]
+    [ "go_table_theka", "d0/d36/a27534.html#a9e25a1c9313437b533e1d88a2db04a58", null ],
+    [ "OnGossipHello", "d0/d36/a27534.html#ab04480f032ce074daacdc0dcfa37ee12", null ]
 ];

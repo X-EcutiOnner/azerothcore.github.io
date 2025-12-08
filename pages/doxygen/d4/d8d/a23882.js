@@ -1,7 +1,6 @@
 var a23882 =
 [
-    [ "boss_zereketh_the_unbound", "d4/d8d/a23882.html#abb2fc5cbe7514142160818016fda1936", null ],
-    [ "JustDied", "d4/d8d/a23882.html#ac5d96da9a33a536f2002cce11453ded3", null ],
-    [ "JustEngagedWith", "d4/d8d/a23882.html#ad0305f3eeb578d6dcd2db835331eb10f", null ],
-    [ "KilledUnit", "d4/d8d/a23882.html#a07d3a1264e6d78c2696990755fc7fe45", null ]
+    [ "instance_arcatraz_InstanceMapScript", "d6/d3d/a23886.html", "d6/d3d/a23886" ],
+    [ "instance_arcatraz", "d4/d8d/a23882.html#a6fc8860651573353b54fd26bddea32aa", null ],
+    [ "GetInstanceScript", "d4/d8d/a23882.html#ad3f78e41ef2c96443ed3bd1ba4ab55bb", null ]
 ];
